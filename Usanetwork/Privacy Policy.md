@@ -22,19 +22,18 @@ Skip to main content
             4.  TeleXitosTeleXitosTeleXitos is the Telemundo Station Group’s national multicast network that serves as a destination for viewers who want to watch their favorite action and adventure television series and movies from the 1970s to 2000s in Spanish and without subtitles. TeleXitos
         2.  Cable
             1.  Bravo MediaBravo MediaOriginal pop culture programming including the best in food, fashion, beauty and reality.Bravo Media
-            2.  ChillerChillerThe brand dedicated to round-the-clock scares with an entertaining lineup of high-quality horror.Chiller
-            3.  CNBCCNBCThe world leader in business news featuring real-time financial market and business coverage to approximately 371 million homes worldwide.CNBC
-            4.  E! EntertainmentE! EntertainmentThe only global, multiplatform brand for all things pop culture. News, reality and original scripted content.E! Entertainment
-            5.  Golf ChannelGolf ChannelA multimedia golf entertainment &. service company featuring exclusive partnerships with the world’s top tours and more live golf coverage than all other networks combined.Golf Channel
-            6.  MSNBCMSNBC The premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives.MSNBC
-            7.  NBC Sports Network (NBCSN)NBC Sports Network (NBCSN)Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more.NBC Sports Network (NBCSN)
-            8.  Oxygen MediaOxygen MediaOxygen Media is a multiplatform crime destination brand for women.Oxygen Media
-            9.  SYFYSYFYA leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy.SYFY
-            10.  The Olympic Channel: Home of Team USAThe Olympic Channel: Home of Team USAOlympic Channel: Home of Team USA is a partnership between the International Olympic Committee, the United States Olympic Committee, and NBCUniversal. The TV network offers fans year-round programming of Olympic Sports from around the world, highlighting their favorite American athletes and teams.The Olympic Channel: Home of Team USA
-            11.  The Weather Channel CompanyThe Weather Channel CompanyProvides millions of people every day with the world's best weather forecasts, content and data.The Weather Channel Company
-            12.  Universal KidsUniversal KidsAs a kid-focused ecosystem with great TV content at the center, Universal Kids is programmed for the 2-12 year old audience, with a fresh mix of animated content, unscripted entertainment, and proven international hits. Universal Kids
-            13.  UNIVERSOUNIVERSOModern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households.UNIVERSO
-            14.  USA NetworkUSA NetworkA powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
+            2.  CNBCCNBCThe world leader in business news featuring real-time financial market and business coverage to approximately 371 million homes worldwide.CNBC
+            3.  E! EntertainmentE! EntertainmentThe only global, multiplatform brand for all things pop culture. News, reality and original scripted content.E! Entertainment
+            4.  Golf ChannelGolf ChannelA multimedia golf entertainment &. service company featuring exclusive partnerships with the world’s top tours and more live golf coverage than all other networks combined.Golf Channel
+            5.  MSNBCMSNBC The premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives.MSNBC
+            6.  NBC Sports Network (NBCSN)NBC Sports Network (NBCSN)Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more.NBC Sports Network (NBCSN)
+            7.  Oxygen MediaOxygen MediaOxygen Media is a multiplatform crime destination brand for women.Oxygen Media
+            8.  SYFYSYFYA leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy.SYFY
+            9.  The Olympic Channel: Home of Team USAThe Olympic Channel: Home of Team USAOlympic Channel: Home of Team USA is a partnership between the International Olympic Committee, the United States Olympic Committee, and NBCUniversal. The TV network offers fans year-round programming of Olympic Sports from around the world, highlighting their favorite American athletes and teams.The Olympic Channel: Home of Team USA
+            10.  The Weather Channel CompanyThe Weather Channel CompanyProvides millions of people every day with the world's best weather forecasts, content and data.The Weather Channel Company
+            11.  Universal KidsUniversal KidsAs a kid-focused ecosystem with great TV content at the center, Universal Kids is programmed for the 2-12 year old audience, with a fresh mix of animated content, unscripted entertainment, and proven international hits. Universal Kids
+            12.  UNIVERSOUNIVERSOModern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households.UNIVERSO
+            13.  USA NetworkUSA NetworkA powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
         3.  Digital Businesses
             1.  AwesomenessAwesomenessAwesomeness is a leading multi-platform media company defining the future of entertainment.Awesomeness
             2.  CraftsyCraftsyCraftsy is the preeminent online destination for passionate makers to learn, create and share.Craftsy
@@ -90,7 +89,6 @@ Skip to main content
                 *   TeleXitos
             *   CABLE
                 *   Bravo Media
-                *   Chiller
                 *   CNBC
                 *   E! Entertainment
                 *   Golf Channel
@@ -187,4 +185,4 @@ Cookies/ tracking technologies are used on some of our online services to serve 
 *   Supply Chain Values
 *   Terms of Service
 
-© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/5048019" height="1" width="1" alt="" /></a></div>.
+© 2017 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/9948966" height="1" width="1" alt="" /></a></div>.
