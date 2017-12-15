@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Molly Ball_: How Doug Jones Beat Roy Moore and Shocked the World
+*   _Michael Graham_: Time to Shut Down This Russia Probe
     
-*   _Ed Rogers_: Sen. Shelby Saves the Day in Alabama
+*   _Charles Blow_: The Omen of Alabama
     
-*   _Jordan Gehrke_: Thank Mitch McConnell for Doug Jones' Victory
+*   _Karl Rove_: Moore's Law: Kooky Candidates Lose
     
-*   _Ronald Brownstein_: 'We Are in a Trump-Driven Worst-Case Situation'
+*   _Nate Silver_: Republicans Shouldn't Assume Roy Moore Was an Outlier
     
-*   _Andrew McCarthy_: Ugly as Mueller Probe Is, It's on Track to Clear Trump
+*   _Alberta &. Bade_: Paul Ryan Sees Wild Washington Journey Coming to an End
     
-*   _Paul Waldman_: Republicans' Mueller Freakout
+*   _David Moore_: Tax Cuts Will Strengthen Economy and Drive Dems Crazy
     
-*   _Ed Morrissey_: Key FBI Agent Mulled 'Insurance Policy' in Case of Trump Win
+*   _Annie Lowrey_: The United States Is Already a Low-Tax Country
     
-*   _Steven Erlanger_: 'Fake News,' Trump's Obsession, Now a Cudgel for Strongmen
+*   _Heying &. Weinstein_: How Leftist Intolerance Is Killing Higher Education
     
-*   _Carl Cannon_: The Undervalued Art of Bowing Out Gracefully
+*   _Chris Smith_: At the FBI, Anger at Being Scapegoated
     
-*   _Heather Mac Donald_: Double Standards and Distortions
+*   _Andrew McCarthy_: Mueller Needs to Make a Change
     
-*   _Mimi O'Donnell_: Philip Seymour Hoffman and the Devastation of Addiction
+*   _Maxim Suchkov_: Moscow's Leverage in Syria Is Strong, But Limited
     
-*   _Frank Bruni_: Thank Heaven for... Alabama?
+*   _Jonathan Allen_: Alabama's Women Wrote the Verdict on Roy Moore
     
-*   _Roger Simon_: Steve Bannon's Big Loss in Alabama
+*   _Ned Ryun_: The Truth (and Good News) About Moore's Loss in Alabama
     
-*   _Huey-Burns &. Arkin_: To Both Parties, Moore's Loss Is a Potential Win for 2018
+*   _Alan Abramowitz_: 2018 Looks Like a Democratic Wave
     
-*   _David Von Drehle_: Trump Should Feel Nervous About Doug Jones Win
+*   _James Warren_: What Happened in Alabama May Stay in Alabama
     
-*   _Douglas Schoen_: Jones Victory a Rejection of Roy Moore, Not Trump
+*   _Ross Douthat_: As Goes Moore, So Goes Trumpism
     
-*   _Alfredo Ortiz_: Tax Bill Is Christmas Present Americans Have Been Waiting For
+*   _Ann Coulter_: Why I Secretly Wanted Moore to Lose: Brooks 2020!
     
-*   _David Ignatius_: Voters Will Remember Republicans Who Made Tax Mess
+*   _Carl Cannon_: Alabama Special Election: Winners and Losers
     
-*   _Jill Filipovic_: Trump Gets Into the Gutter With Gillibrand Tweet
+*   _Cedric Alexander_: Trump Is the One in 'Tatters,' Not the FBI
     
-*   _Kim Holmes_: Liberals' Sexual Harassment Crusade Cloaks a Divisive Bent
+*   _Byron York_: Obama's FBI and the Mysterious 'Insurance Policy' Text
     
-*   _Lee Smith_: Fusion GPS at the Center of the Russia Collusion Hoax
+*   _Thomas Edsall_: The Politics of #HimToo
     
-*   _Randall Eliason_: Attacks on Mueller Are Misguided and Dangerous
+*   _D.C. McAllister_: How Demonizing Men Undermines Both Sexes
     
-*   _Victor Davis Hanson_: One Mueller-Investigation Coincidence Too Many
+*   _Caitlin Huey-Burns_: Dems Assess 'Me Too' Impact on Their 2018 Push
     
-*   _Abigail Tracy_: Nikki Haley in the Crosshairs?
+*   _Paul Krugman_: Steve Mnuchin Pulls a Paul Ryan
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Bets on Moore and Suffers Stinging Defeat
+*   Alabama Special Election: Winners and Losers
+*   Democrats Assess "Me Too" Impact on Their 2018 Push
+*   Trump Promises "Giant Tax Cut for Christmas"
+*   Dems Urge Republicans to Delay Tax Vote Till Jones Takes Seat
 *   To Both Parties, Moore's Loss Is a Potential Win for 2018
-*   Jones Victory Speech: Tonight Alabama Chose the "Right Road"
-*   "Me Too" Fervor, Politics Fuel Dems' Calls for Trump to Resign
-*   Chronicler of Islamic State "Killing Machine" Goes Public
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve41
-    *   Disapprove59Disapprove +18
-*   President Trump Job ApprovalMonmouth
-    *   Approve33
-    *   Disapprove59Disapprove +26
 *   President Trump Job ApprovalGallup
     *   Approve36
     *   Disapprove59Disapprove +23
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve41
     *   Disapprove57Disapprove +16
+*   President Trump Job ApprovalPPP (D)
+    *   Approve41
+    *   Disapprove56Disapprove +15
+*   2018 Generic Congressional VotePPP (D)
+    *   Democrats51
+    *   Republicans40Democrats +11
 
 More Latest Polls In The News
 
-*   Moore Refuses To Concede: Awaiting Certification By Secretary Of State, Heart &. Soul Of Country At Stake
-*   Larry Sabato: Trump Doesn't Have A Clue How People See Him. Makes A Million New Enemies Per Day
-*   Charles Barkley: Jones Victory A Message For Dems To "Get Off Their Ass," Stop "Abusing" Black Vote
-*   Jones Victory Speech: We Usually Take The Wrong Fork, Tonight Alabama Chose The "Right Road"
-*   MSNBC's Brzezinski: Trump "Literally Sexually Harassed" Gillibrand on Twitter This Morning
+*   GOP Sen. Johnson on FBI: "What Are They Trying To Hide? What Are They Trying To Cover Up?"
+*   Huckabee Sanders vs. Reporter On Sandy Hook: Name One Gun Law That Would've Prevented This
+*   Dershowitz: Comey Was Not Clinton's Friend, 'Extremely Careless' Statement Caused Her To Lose
+*   Rep. Trey Gowdy Grills Deputy AG Rosenstein: What The Hell Is Going On At The DOJ And FBI?
+*   Judicial Watch's Fitton: Was FBI Turned Into A KGB-Type Operation Under Obama Administration?
 
 *   Politics
 *   Policy
