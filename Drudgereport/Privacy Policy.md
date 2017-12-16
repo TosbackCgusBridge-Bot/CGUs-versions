@@ -138,19 +138,19 @@ LATEST ON TWITTER
 
 .@WayneDupreeShow thanks for coming into the office yesterday! We enjoyed having you. Lots accomplished and looking forward to seeing you more in 2018!
 
-About 14 hours ago
+About 2 days ago
 
 You're welcome &. enjoy!! twitter.com/keishasg…
 
-About a day ago
+About 2 days ago
 
 My week on Twitter : 2 Mentions, 14.5K Mention Reach, 5 Likes, 3 Retweets, 1.22K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Ms2O…
 
-About 2 days ago
+About 3 days ago
 
 Our biggest fans this week: @Requidan, @Nicole\_Kosar, @lacyagallagher. Thank you! via sumall.com/thankyou?… pic.twitter.com/MTlp…
 
-About 3 days ago
+About 4 days ago
 
 What does Erik @Requidan have to say about political content flags? Find out here: adexchanger.com/publ… via @adexchanger @SarahSluis
 
