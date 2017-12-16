@@ -212,7 +212,7 @@ Close submenu ( Gifts for Her ) Gifts for Her
 *   Giftable Jeans
 *   Signature Sweaters
 *   Comfy Cozy
-*   Longing for Sleeves
+*   Long Sleeves
 *   Outerwear Obsessed
 *   Warm Wonders
 *   Stocking Stuffers
@@ -220,6 +220,7 @@ Close submenu ( Gifts for Her ) Gifts for Her
 *   Gifts Under $10
 *   Gifts Under $20
 *   Splurge Worthy Gifts
+*   Last Minute Gifts
 
 Close submenu ( Gifts for Him ) Gifts for Him
 
@@ -234,6 +235,7 @@ Close submenu ( Gifts for Him ) Gifts for Him
 *   Gifts Under $10
 *   Gifts Under $20
 *   Splurge Worthy Gifts
+*   Last Minute Gifts
 
 Close submenu ( Clearance ) Clearance
 
@@ -290,7 +292,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** \+ **FREE SHIPPING OVER $50** **GUARANTEED HOLIDAY DELIVERY! DETAILS**
+**60% OFF** \+ **FREE SHIPPING OVER $50** **GUARANTEED HOLIDAY DELIVERY! DETAILS**
 
 *   My Account My Account Login Register
 
@@ -457,7 +459,7 @@ Menu Find a Store Aeropostale
         *   Giftable Jeans
         *   Signature Sweaters
         *   Comfy Cozy
-        *   Longing for Sleeves
+        *   Long Sleeves
         *   Outerwear Obsessed
         *   Warm Wonders
         *   Stocking Stuffers
@@ -465,6 +467,7 @@ Menu Find a Store Aeropostale
         *   Gifts Under $10
         *   Gifts Under $20
         *   Splurge Worthy Gifts
+        *   Last Minute Gifts
     
     *   Gifts for Him
         *   View All
@@ -478,6 +481,7 @@ Menu Find a Store Aeropostale
         *   Gifts Under $10
         *   Gifts Under $20
         *   Splurge Worthy Gifts
+        *   Last Minute Gifts
     
 *   Clearance
     
@@ -536,7 +540,7 @@ ON ORDERS OVER $50 Search Catalog Search Promotions Shop Girls Shop Guys Get In 
 *   Fleece Favorites Starting at $7.87
 *   Outerwear Obsessed Starting at $13.87
 *   Giftable Jeans Starting at $13.87
-*   Longing for Sleeves Starting at $6.87
+*   Long Sleeves Starting at $6.87
 
 *   Fleece Favorites Starting at $15.00
 *   Warm + Rugged Starting at $2.87
@@ -580,5 +584,3 @@ Stay Connected
 *   Live ChatCall Us
 *   Refer a Friend
 *   College Student Discount
-
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
