@@ -234,15 +234,16 @@ CUSTOMER SERVICE
 
 ****HOLIDAY SHIPPING DEADLINE**  
   
-For guaranteed Christmas delivery, order by 2:30 PM ET on 12/15/17 for Standard Shipping — and by 2:30 PM ET on 12/19/17 for 2-Day Shipping. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses.  
+For guaranteed Christmas delivery, order by 2:30 PM ET on 12/19/17 and select 2-Day Shipping. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses  
   
-\*Free Shipping Offer is valid on all orders after discounts, and before charges for gift wrap, shipping &. processing and/or taxes are applied. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/14/17. We reserve the right to change or discontinue this offer at any time.  
-  
-\*\*Free shipping offer is valid on Top Toys and is activated by entering code TOPTOYS at checkout. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/31/17. We reserve the right to change or discontinue this offer at any time.**
+
+**\*\*Free shipping offer is valid on Top Toys and is activated by entering code TOPTOYS at checkout. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/31/17. We reserve the right to change or discontinue this offer at any time.**
+
+****
 
 Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use. ©2017 Mattel All Rights Reserved.
 
-COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)CanadaCanada (Francais)China (中国)Croatia (Hrvatska)Czech Republic (Cheskà Republika)Denmark (Danmark)Estonia(Eesti)Finland (Suomi)FranceGermany (Deutschland)Greece (Ελλάδα)Hong Kong (English)Hong Kong (香港)Hungary (Magyarorszàg)IndiaIndonesia (bəˈhɑːsə)Israel (ישראל)Italy (Italia)Japan (日本)Korea (한국)Latvia(Latvija)Lithuania(Lietuva)MexicoNetherlands (Nederland)Norway (Norge)Poland (Polska)PortugalRomania (România)Russia (Россия)Slovakia (Slovensko)Slovenia (Slovenija)South AfricaSoutheast AsiaSpain (España)Sweden (Sverige)SwitzerlandTaiwan (臺灣)The Kingdom of Saudi Arabia (المملكة العربية السعودية)Turkey (Türkiye)Ukraine (Україна)United KingdomUnited StatesUnited States (Español)United States 
+****COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)CanadaCanada (Francais)China (中国)Croatia (Hrvatska)Czech Republic (Cheskà Republika)Denmark (Danmark)Estonia(Eesti)Finland (Suomi)FranceGermany (Deutschland)Greece (Ελλάδα)Hong Kong (English)Hong Kong (香港)Hungary (Magyarorszàg)IndiaIndonesia (bəˈhɑːsə)Israel (ישראל)Italy (Italia)Japan (日本)Korea (한국)Latvia(Latvija)Lithuania(Lietuva)MexicoNetherlands (Nederland)Norway (Norge)Poland (Polska)PortugalRomania (România)Russia (Россия)Slovakia (Slovensko)Slovenia (Slovenija)South AfricaSoutheast AsiaSpain (España)Sweden (Sverige)SwitzerlandTaiwan (臺灣)The Kingdom of Saudi Arabia (المملكة العربية السعودية)Turkey (Türkiye)Ukraine (Україна)United KingdomUnited StatesUnited States (Español)United States 
 
 *   Australia
 *   Belgium (België)
@@ -298,6 +299,8 @@ COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)Cana
 *   Terms &. Conditions
 *   Updated Privacy Statement
 
+****
+
 out of
 
 vote(s)
@@ -305,3 +308,5 @@ vote(s)
 View All
 
 Items per page
+
+**
