@@ -333,11 +333,11 @@ Home >. Filter by specs Offers
 
 PrevNext Treat yourself!
 
-Shop year-end savings on Think brand computers and save up to 25%.
+Shop year-end savings on Think brand computers. Extended through Dec 17.
 
-Shop Now >.
+SHOP DEALS>.
 
-GET IT—GRAB IT—GO! Save Up to 65% off ends Dec 17. Systems and more at shocking prices, plus free, fast shipping!
+GET IT—GRAB IT—GO! Save Up to 65% off ends Dec 17. Systems and more at shocking prices, plus free shipping!
 
 Shop Sale >.
 
