@@ -85,12 +85,6 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
-Wed, Dec 13, 2017 Is Your Email Marketing Trustworthy? Best Practices &. Findings from Auditing 200 Top Retailers
-
-Can we trust the marketing email we receive and that companies will honor consumer choices?   
-  
-Join Online Trust Alliance member experts including Sam Silberman from Endurance/Constant Contact and Sal Tripi from Publishers Clearing House, and host Jeff Wilbur, Director of the OTA initiative at the Internet Society. They will review email marketing and unsubscribe best practices and findings from the 4th annual Email Marketing &. Unsubscribe Audit.
-
 Mon, Apr 16, 2018 RSA Conference 2018
 
 Once again OTA is an Associaton Sponsor of the RSA Conference. Join us and other OTA member conference sponsors Agari, Malwarebytes, Microsoft and Symantec in San Francisco. Many other OTA members will be exhibiting as well. When sessions involving OTA and member organizations are announced, we will highlight them. When you register, be sure to note you are a member of OTA. 
