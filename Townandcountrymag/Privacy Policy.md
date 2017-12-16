@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 FAO Schwarz Is Reopening in New York 2 Inside the Cult of Outlander 3 13 Fabulously Festive Christmas Party Outfits 4 9 Places to Spend New Year's 2018 5 21 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
+Today's Top Stories 1 FAO Schwarz Is Reopening in New York 2 Inside the Cult of Outlander 3 13 Fabulously Festive Christmas Party Outfits 4 11 Places to Spend New Year's 2018 5 21 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
