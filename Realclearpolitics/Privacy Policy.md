@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Michael Graham_: Time to Shut Down This Russia Probe
+*   _Peter Beinart_: The Growing Partisan Divide Over Feminism
     
-*   _Charles Blow_: The Omen of Alabama
+*   _Megan McArdle_: Consider the Consequences of #BelieveAllWomen
     
-*   _Karl Rove_: Moore's Law: Kooky Candidates Lose
+*   _John McCormack_: Who's to Blame for the Moore Fiasco?
     
-*   _Nate Silver_: Republicans Shouldn't Assume Roy Moore Was an Outlier
+*   _Nate Cohn_: Once Unthinkable, Senate Now Looks Like Tossup in 2018
     
-*   _Alberta &. Bade_: Paul Ryan Sees Wild Washington Journey Coming to an End
+*   _Mollie Hemingway_: 8 Worst Defenses of Peter Strzok's Anti-Trump Texts
     
-*   _David Moore_: Tax Cuts Will Strengthen Economy and Drive Dems Crazy
+*   _David Ignatius_: The Russia Facts Hiding in Plain Sight
     
-*   _Annie Lowrey_: The United States Is Already a Low-Tax Country
+*   _Mark Penn_: Poll Shows Mueller, FBI Face Crisis in Public Confidence
     
-*   _Heying &. Weinstein_: How Leftist Intolerance Is Killing Higher Education
+*   _Steve Cortes_: Hey, Rahm -- Lay Off Trump and Start Fixing Chicago
     
-*   _Chris Smith_: At the FBI, Anger at Being Scapegoated
+*   _Ed Pilkington_: Welcome to America, Land of Extreme Poverty
     
-*   _Andrew McCarthy_: Mueller Needs to Make a Change
+*   _Paula Neuding_: The Uncomfortable Truth About Swedish Anti-Semitism
     
-*   _Maxim Suchkov_: Moscow's Leverage in Syria Is Strong, But Limited
+*   _Matthew Continetti_: Decision Time on Iran
     
-*   _Jonathan Allen_: Alabama's Women Wrote the Verdict on Roy Moore
+*   _Stephen Moore_: On Tax Cuts, Trump Is the Modern Day JFK
     
-*   _Ned Ryun_: The Truth (and Good News) About Moore's Loss in Alabama
+*   _Michael Bloomberg_: This Tax Bill Is a Trillion-Dollar Blunder
     
-*   _Alan Abramowitz_: 2018 Looks Like a Democratic Wave
+*   _Chris Buskirk_: How Trump Can Win the GOP's Great War of Ideas
     
-*   _James Warren_: What Happened in Alabama May Stay in Alabama
+*   _Ezra Klein_: Republicans Are Paying a Price for Their Extremism
     
-*   _Ross Douthat_: As Goes Moore, So Goes Trumpism
+*   _Wesley Pruden_: All the Dems Need Now Are More Child Molesters
     
-*   _Ann Coulter_: Why I Secretly Wanted Moore to Lose: Brooks 2020!
+*   _Eleanor Clift_: Trump's Poll Numbers Near a Tipping Point
     
-*   _Carl Cannon_: Alabama Special Election: Winners and Losers
+*   _Tom Bevan_: The Takeaway: Blue Wave Coming?
     
-*   _Cedric Alexander_: Trump Is the One in 'Tatters,' Not the FBI
+*   _George Neumayr_: All of Hillary's Men
     
-*   _Byron York_: Obama's FBI and the Mysterious 'Insurance Policy' Text
+*   _Josh Marshall_: GOP's Attack on Mueller &. FBI Is Disgraceful
     
-*   _Thomas Edsall_: The Politics of #HimToo
+*   _Roger Simon_: The FBI's Ship of Fools
     
-*   _D.C. McAllister_: How Demonizing Men Undermines Both Sexes
+*   _John Nichols_: The Trump Admin's Most Brutal Blow to Democracy Yet
     
-*   _Caitlin Huey-Burns_: Dems Assess 'Me Too' Impact on Their 2018 Push
+*   _Matthew Walther_: Net Neutrality Is Dead. Good Riddance.
     
-*   _Paul Krugman_: Steve Mnuchin Pulls a Paul Ryan
+*   _James Arkin_: Democrats See Young-Voter Surge Growing in 2018
     
 
 *   Previous
@@ -249,10 +249,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Alabama Special Election: Winners and Losers
+*   With Rubio Onboard, Republican Leaders Finalize Huge Tax Package
+*   Democrats See Young-Voter Surge Growing in 2018
+*   Trump Cuts Red Tape: For Every New Regulation, We Have Eliminated 22
 *   Democrats Assess "Me Too" Impact on Their 2018 Push
-*   Trump Promises "Giant Tax Cut for Christmas"
-*   Dems Urge Republicans to Delay Tax Vote Till Jones Takes Seat
 *   To Both Parties, Moore's Loss Is a Potential Win for 2018
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -269,11 +269,11 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
+    *   Approve35
+    *   Disapprove60Disapprove +25
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve41
-    *   Disapprove57Disapprove +16
+    *   Approve40
+    *   Disapprove57Disapprove +17
 *   President Trump Job ApprovalPPP (D)
     *   Approve41
     *   Disapprove56Disapprove +15
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Rex Tillerson Challenges North Korean Representative In United Nations: "They Alone Are Responsible"
 *   GOP Sen. Johnson on FBI: "What Are They Trying To Hide? What Are They Trying To Cover Up?"
-*   Huckabee Sanders vs. Reporter On Sandy Hook: Name One Gun Law That Would've Prevented This
 *   Dershowitz: Comey Was Not Clinton's Friend, 'Extremely Careless' Statement Caused Her To Lose
+*   Huckabee Sanders vs. Reporter On Sandy Hook: Name One Gun Law That Would've Prevented This
 *   Rep. Trey Gowdy Grills Deputy AG Rosenstein: What The Hell Is Going On At The DOJ And FBI?
-*   Judicial Watch's Fitton: Was FBI Turned Into A KGB-Type Operation Under Obama Administration?
 
 *   Politics
 *   Policy
