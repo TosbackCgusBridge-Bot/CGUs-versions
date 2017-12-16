@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 29%  4% 
+What is PeekScore? Public Records &. Background Checks 26%  3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 29%  4% 
     
 *   Show Less ...
 
-29%  29%  Arrest Records &. Driving Infractions
+26%  26%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 28%  Twitter 3% 
+Facebook 26%  Twitter 3% 
 
 *   Federal Reserve - federalreserve
     
@@ -199,7 +199,7 @@ Facebook 28%  Twitter 3% 
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 22% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -213,7 +213,7 @@ Instagram 3% 
 
 *   Рогов Хуго - privacypolicy
     
-*   Privacy\_security - privacy\_policy2017
+*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
     
 *   Ray - terms\_privacy\_\_policy\_\_
     
@@ -223,11 +223,13 @@ Instagram 3% 
     
 *   privacy policy - privacypolicy5831
     
-*   PrivacyPolicy - privacypolicy.3245
-    
 *   Privacy policy - privacypolicy3288
     
 *   Privacy Policy games - privacypolicygames3589
+    
+*   PrivacyPolicy - privacypolicy.3245
+    
+*   Phil Swift - privacypolicy\_1
     
 *   police instagram - privacy\_\_policy\_\_
     
@@ -251,21 +253,21 @@ Instagram 3% 
     
 *   Loading... - privacy.policy\_\_
     
-*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
-    
 *   Privacy Policy - mrprivacypolicy
     
 *   privacy policy - privacy.p
-    
-*   Djavid Johnson - \_privacy\_policy
     
 *   Privacy Policy is outrageous - rollthedice82
     
 *   Instagram Privacy Policy - newprivacypolicy
     
+*   privacy policy terms of Elana - lanaprv
+    
+*   Privacy policy - privacypolicy123
+    
 *   Show Less ...
 
-Pinterest 28%  Wikipedia 3% 
+Pinterest 26%  Wikipedia 3% 
 
 *   Medana
     
@@ -299,7 +301,7 @@ Google+ 3% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 28%  Music 3% 
+Linkedin 26%  Music 3% 
 
 *   Pandora
     
@@ -476,7 +478,7 @@ Images 3% 
 
 20
 
-30
+31
 
 twitterx
 
