@@ -239,3 +239,9 @@ Back to Top
 *   Security
 *   Anti-Spam
 *   © Constant Contact, Inc. 1996-2017
+
+*   Follow Us on Facebook
+*   Follow Us on Twitter
+*   Follow Us on Google Plus
+*   Follow Us on Pinterest
+*   All social media options
