@@ -249,8 +249,8 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   With Rubio Onboard, Republican Leaders Finalize Huge Tax Package
 *   Democrats See Young-Voter Surge Growing in 2018
+*   With Rubio Onboard, Republican Leaders Finalize Huge Tax Package
 *   Trump Cuts Red Tape: For Every New Regulation, We Have Eliminated 22
 *   Democrats Assess "Me Too" Impact on Their 2018 Push
 *   To Both Parties, Moore's Loss Is a Potential Win for 2018
@@ -269,8 +269,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve35
-    *   Disapprove60Disapprove +25
+    *   Approve34
+    *   Disapprove61Disapprove +27
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve40
     *   Disapprove57Disapprove +17
@@ -283,8 +283,8 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   David Brooks: Establishment Retreats Before Trump Attacks. No "Self-Confidence," "Reason To Live"
 *   Rex Tillerson Challenges North Korean Representative In United Nations: "They Alone Are Responsible"
-*   GOP Sen. Johnson on FBI: "What Are They Trying To Hide? What Are They Trying To Cover Up?"
 *   Dershowitz: Comey Was Not Clinton's Friend, 'Extremely Careless' Statement Caused Her To Lose
 *   Huckabee Sanders vs. Reporter On Sandy Hook: Name One Gun Law That Would've Prevented This
 *   Rep. Trey Gowdy Grills Deputy AG Rosenstein: What The Hell Is Going On At The DOJ And FBI?
