@@ -237,9 +237,9 @@ CUSTOMER SERVICE
 For guaranteed Christmas delivery, order by 2:30 PM ET on 12/19/17 and select 2-Day Shipping. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses  
   
 
-**\*\*Free shipping offer is valid on Top Toys and is activated by entering code TOPTOYS at checkout. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/31/17. We reserve the right to change or discontinue this offer at any time.**
+**\*Free 2-day shipping offer applies automatically at checkout. Must select 2-Day Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/19/17. We reserve the right to change or discontinue this offer at any time.**
 
-****
+**\*\*Free shipping offer is valid on Top Toys and is activated by entering code TOPTOYS at checkout. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/31/17. We reserve the right to change or discontinue this offer at any time.**** **
 
 Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use. ©2017 Mattel All Rights Reserved.
 
