@@ -56,8 +56,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
 *   Women FEATURED SHOPS
     
     *   New Arrivals
-    *   Coats of Winter
-    *   Holiday Dressing
     *   Gifts For Her
     *   The Starfish Collection
     *   Soft Leisure Collection
@@ -115,8 +113,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
     *   The Pants Shop
-    *   Flannel Favorites
-    *   Shirt Finder
     *   The Getaway Collection
     *   Holiday Style Guide
     *   Sale
@@ -231,8 +227,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     FEATURED SHOPS
     *   Weather Channel Collection
     *   Women's Coat Finder
-    *   Women's Coats of Winter
-    *   Men's Squall System Builder
     *   Hats, Gloves &. Scarves
     *   Snow Boots
     *   Long Underwear
@@ -318,15 +312,15 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Flannel Bedding
     *   Sale
     
-    More for the Home >.
+    Christmas Shop >.
     
-    *   Outdoor Living
-    *   Storage &. Organization
-    *   Door Mats
-    *   Luggage &. Bags
-    *   Canvas Totes
+    *   Christmas Stockings
+    *   Christmas Ornaments &. Tree Skirts
+    *   Christmas Wreaths
+    *   Christmas Bedding
+    *   Christmas Candy &. Treats
+    *   Holiday Decor
     *   Entertaining
-    *   Decor
     
     BEDDING >.
     
@@ -345,13 +339,21 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Beach Towels
     
     KIDS ROOM >.
+    
     *   Kids Bedding
     *   Kids Towels
     *   Seasonal Totes
     *   Toys &. Gifts
     *   Bean Bag Chairs
     *   Sleeping Bags
-    *   Baby BlanketsDOG SHOP >.
+    *   Baby Blankets
+    
+    More for the Home >.
+    *   Outdoor Living
+    *   Storage &. Organization
+    *   Door Mats
+    *   Luggage &. Bags
+    *   Canvas TotesDOG SHOP >.
 *    Gifts FEATURED SHOPS
     
     *   Holiday Shop
@@ -416,8 +418,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
-        *   Coats of Winter
-        *   Holiday Dressing
         *   Gifts For Her
         *   The Starfish Collection
         *   Soft Leisure Collection
@@ -473,8 +473,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
         *   The Pants Shop
-        *   Flannel Favorites
-        *   Shirt Finder
         *   The Getaway Collection
         *   Holiday Style Guide
         *   Sale
@@ -582,8 +580,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Back
         *   Weather Channel Collection
         *   Women's Coat Finder
-        *   Women's Coats of Winter
-        *   Men's Squall System Builder
         *   Hats, Gloves &. Scarves
         *   Snow Boots
         *   Long Underwear
@@ -679,15 +675,15 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Bedding Basics
         *   Flannel Bedding
         *   Sale
-    *   More for the Home
+    *   Christmas Shop
         *   Back
-        *   Outdoor Living
-        *   Storage &. Organization
-        *   Door Mats
-        *   Luggage &. Bags
-        *   Canvas Totes
+        *   Christmas Stockings
+        *   Christmas Ornaments &. Tree Skirts
+        *   Christmas Wreaths
+        *   Christmas Bedding
+        *   Christmas Candy &. Treats
+        *   Holiday Decor
         *   Entertaining
-        *   Decor
     *   BEDDING
         *   Back
         *   Sheets &. Pillowcases
@@ -711,6 +707,13 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Bean Bag Chairs
         *   Sleeping Bags
         *   Baby Blankets
+    *   More for the Home
+        *   Back
+        *   Outdoor Living
+        *   Storage &. Organization
+        *   Door Mats
+        *   Luggage &. Bags
+        *   Canvas Totes
     *   DOG SHOP
 *    Gifts
     *   Back
@@ -778,9 +781,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive free shipping, no minimum on all orders. Plus, 50% off full-price styles!
+Receive 50% off all outerwear, including coats, snow boots, hats and gloves. 40% off everything else!
 
-code: RUDOLPH pin: 7134 DETAILS
+code: SANTA pin: 2447 DETAILS
 
 Customer Service Menu
 
