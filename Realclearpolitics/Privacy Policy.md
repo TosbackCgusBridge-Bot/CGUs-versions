@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve41
+    *   Disapprove56Disapprove +15
 *   President Trump Job ApprovalGallup
-    *   Approve34
-    *   Disapprove61Disapprove +27
+    *   Approve35
+    *   Disapprove60Disapprove +25
+*   2018 Generic Congressional VoteNBC News/Wall St. Jrnl
+    *   Democrats50
+    *   Republicans39Democrats +11
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve40
     *   Disapprove57Disapprove +17
-*   President Trump Job ApprovalPPP (D)
-    *   Approve41
-    *   Disapprove56Disapprove +15
-*   2018 Generic Congressional VotePPP (D)
-    *   Democrats51
-    *   Republicans40Democrats +11
 
 More Latest Polls In The News
 
+*   CNN's Stelter: "Conservative Media Fueling Divide" In America With Attacks On Mueller, FBI
+*   Treasury Secretary Steve Mnuchin on Tax Bill: "We Are Going To Bring Trillions Back Onshore"
+*   Van Hollen: GOP Tax Plan Is "Total Betrayal Of Economic Populist Message" From 2016
 *   David Brooks: Establishment Retreats Before Trump Attacks. No "Self-Confidence," "Reason To Live"
-*   Rex Tillerson Challenges North Korean Representative In United Nations: "They Alone Are Responsible"
 *   Dershowitz: Comey Was Not Clinton's Friend, 'Extremely Careless' Statement Caused Her To Lose
-*   Huckabee Sanders vs. Reporter On Sandy Hook: Name One Gun Law That Would've Prevented This
-*   Rep. Trey Gowdy Grills Deputy AG Rosenstein: What The Hell Is Going On At The DOJ And FBI?
 
 *   Politics
 *   Policy
