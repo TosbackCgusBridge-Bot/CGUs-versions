@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 22%  4% 
+What is PeekScore? Public Records &. Background Checks 31%  3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 22%  4% 
     
 *   Show Less ...
 
-22%  22%  Arrest Records &. Driving Infractions
+31%  31%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,53 +153,53 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 22%  Twitter 4% 
+Facebook 31%  Twitter 21% 
 
-*   Federal Reserve - federalreserve
-    
-*   EuropeanPrivacyAssoc - europeanprivacy
-    
-*   U.S. Census Bureau - uscensusbureau
-    
 *   HIV.gov - HIVGov
-    
-*   Show More ...
-
-*   HealthCare.gov - HealthCareGov
     
 *   U.S. FDA - FDArecalls
     
+*   The Dark Tangent - thedarktangent
+    
 *   U.S. FDA - US\_FDA
     
-*   Free Privacy Policy - FreePrivacy1
-    
-*   Francis S. Collins - NIHDirector
-    
-*   OAIC - OAICgov
-    
-*   CDC - CDCgov
-    
-*   Justice Department - TheJusticeDept
-    
-*   FDA Drug Information - FDA\_Drug\_Info
+*   Show More ...
+
+*   EuropeanPrivacyAssoc - europeanprivacy
     
 *   HHS.gov - HHSGov
     
+*   Federal Reserve - federalreserve
+    
 *   FTC - FTC
-    
-*   Bush Library - Bush41Library
-    
-*   Cristiano Ronaldo - Cristiano
     
 *   NIH - NIH
     
-*   IRS - IRSnews
+*   Microsoft Privacy - MSFTPrivacy
     
-*   DOJ Civil Rights - CivilRights
+*   Free Privacy Policy - FreePrivacy1
+    
+*   Cristiano Ronaldo - Cristiano
+    
+*   Bush Library - Bush41Library
+    
+*   HealthCare.gov - HealthCareGov
+    
+*   Mabuhay Miles - PALMabuhayMiles
+    
+*   OAIC - OAICgov
+    
+*   HTC USA - HTCUSA
+    
+*   U.S. Census Bureau - uscensusbureau
+    
+*   Justice Department - TheJusticeDept
+    
+*   CDC - CDCgov
     
 *   Show Less ...
 
-Instagram 4% 
+Instagram 3% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -267,7 +267,7 @@ Instagram 4% 
     
 *   Show Less ...
 
-Pinterest 22%  Wikipedia 4% 
+Pinterest 31%  Wikipedia 3% 
 
 *   Medana
     
@@ -286,7 +286,7 @@ Pinterest 22%  Wikipedia 4% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Google+ 4% 
+Google+ 3% 
 
 *   privacy policy - Google+
     
@@ -301,7 +301,7 @@ Google+ 4% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 22%  Music 4% 
+Linkedin 31%  Music 3% 
 
 *   Pandora
     
@@ -347,7 +347,7 @@ Linkedin 22%  Music 4% 
     
 *   Show Less ...
 
-Photo Albums 4% 
+Photo Albums 3% 
 
 *   Flickr
     
@@ -358,7 +358,7 @@ Photo Albums 4% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 4% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -382,7 +382,7 @@ Myspace 4% 
     
 *   Show Less ...
 
-Documents 4% 
+Documents 3% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -428,7 +428,7 @@ Documents 4% 
     
 *   Show Less ...
 
-Web Search 4% 
+Web Search 3% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -474,15 +474,15 @@ Web Search 4% 
     
 *   Show Less ...
 
-Images 4% 
-
-20
+Images 3% 
 
 31
 
-twitterx
+20
 
 instagramx
+
+twitterx
 
 *   About PeekYou
 *   Privacy Policy
