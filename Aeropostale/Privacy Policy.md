@@ -572,8 +572,6 @@ About Us
 
 *   About Aeropostale
 *   Careers
-*   The Aero Way
-*   The People
 *   Terms of Use
 *   Privacy Policy
 *   CA Transparency Act
@@ -584,3 +582,5 @@ Stay Connected
 *   Live ChatCall Us
 *   Refer a Friend
 *   College Student Discount
+
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
