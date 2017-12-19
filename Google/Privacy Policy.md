@@ -4,7 +4,7 @@ Quando o usuário usa nossos serviços, confia a nós informações dele. Esta P
 
 Política de Privacidade Ocultar exemplos Mostrar exemplos Ocultar exemplos
 
-Última modificação: 2 de outubro de 2017 (visualizar versões arquivadas) Os exemplos com hiperlinks estão disponíveis no final deste documento.
+Última modificação: 18 de dezembro de 2017 (visualizar versões arquivadas) Os exemplos com hiperlinks estão disponíveis no final deste documento.
 
 Fazer o download da versão em PDF
 
@@ -100,11 +100,9 @@ Muitos de nossos serviços permitem que o usuário compartilhe informações com
 
 Voltar ao início Acesso e atualização de suas informações pessoais
 
-Sempre que o usuário usa nossos serviços, nosso objetivo é oferecer-lhe acesso a suas informações pessoais. Se essas informações estiverem erradas, nos empenhamos em prover maneiras rápidas de atualizá-las ou excluí-las – exceto quando temos de mantê-las para fins comerciais legítimos ou jurídicos. Ao atualizar suas informações pessoais, podemos solicitar o usuário que confirme sua identidade antes de atendermos a solicitação.
+Sempre que o usuário usa nossos serviços, nosso objetivo é oferecer-lhe acesso a suas informações pessoais. Se essas informações estiverem erradas, nos empenhamos em prover maneiras rápidas de atualizá-las ou excluí-las – exceto quando temos de mantê-las para fins comerciais legítimos ou jurídicos.
 
-Podemos recusar as solicitações que sejam repetitivas, que requeiram esforço técnico desproporcional (por exemplo, desenvolvimento de um novo sistema ou mudança fundamental de uma prática existente), coloquem em risco a privacidade de outros ou que sejam extremamente impraticáveis (por exemplo, solicitações referentes a informações localizadas em sistemas de backup).
-
-Nos casos em que pudermos fornecer acesso e correção de informações, faremos isso gratuitamente, exceto quando isso exigir esforço desproporcional. Nosso objetivo é manter nossos serviços de modo a proteger informações de destruição acidental ou maliciosa. Assim, depois de excluir informações de nossos serviços, não podemos excluir imediatamente cópias residuais de nossos servidores ativos e pode não ser possível remover informações de nossos sistemas de backup.
+Nosso objetivo é manter nossos serviços de modo a proteger informações de destruição acidental ou maliciosa. Assim, depois de excluir informações de nossos serviços, não podemos excluir imediatamente cópias residuais de nossos servidores ativos e pode não ser possível remover informações de nossos sistemas de backup.
 
 Voltar ao início Informações que compartilhamos
 
