@@ -343,13 +343,13 @@ Menu
             *   Can we work together to improve the health of a community?
             *   How can we support young people aging out of the foster care system to become healthy adults?
         *   GSK IMPACT Awards
+        *   GSK Opportunity Scholarships
         *   Save the Children partnership
             *   Back
             *   Save the Children partnership
             *   The Resilient Children/Resilient Communities Initiative
             *   Why community resilience?
             *   Cross-sector partnership
-        *   GSK Opportunity Scholarships
         *   Science in the Summer™
         *   Vetri Cooking Lab
         *   EDCI Youth Leadership Council
@@ -430,6 +430,15 @@ Menu
         *   Rewarding performance
     *   Meet our people
     *   Experienced professionals
+    *   Physicians
+        *   Back
+        *   Physicians
+        *   Paul-Peter Tak
+        *   Monica Shaw
+        *   Thomas Breuer
+        *   Kumaran Vadivelu
+        *   Neil Barnes
+    *   Digital Platform professionals
     *   Internships and co-ops
     *   Undergraduates
     *   MBA and Graduate Students
@@ -441,14 +450,6 @@ Menu
         *   Esprit procurement program
         *   Residencies and Fellowships
         *   R&D postdoctoral global training program
-    *   Physicians
-        *   Back
-        *   Physicians
-        *   Paul-Peter Tak
-        *   Monica Shaw
-        *   Thomas Breuer
-        *   Kumaran Vadivelu
-        *   Neil Barnes
     *   Apprenticeships
         *   Back
         *   Apprenticeships
