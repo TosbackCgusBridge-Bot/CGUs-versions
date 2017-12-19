@@ -128,7 +128,7 @@ Check Out Life Space UX
 
 RT @billboard: The ULTIMATE guide to Mariah Carey's "All I Want For Christmas Is You."
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -208,7 +208,7 @@ See Our Video Camcorders
 
 Head over to #SonySquareNYC for a deeper dive into the jungles of #JUMANJI. You never know who might stop by.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -292,7 +292,7 @@ Play Queen Elizabeth II Faces New Challenges Video hotspot
 
 We revealed Nolan North's audition tape and heard BTS details from the cast in our #Uncharted10 PSX panel: http://play.st/2B7un1V
 
-2 days ago
+3 days ago
 
 View Tweet
 
