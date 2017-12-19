@@ -6,13 +6,13 @@ VH1 Menu VH1
     *   Shows A-Z
     *   TV Schedule
     *   Love &. Hip Hop
-    *   Scared Famous
+    *   Remy &. Papoose: A Merry Mackie Holiday
     *   Black Ink Crew
-    *   Black Ink Crew Chicago
-    *   RuPaul's Drag Race All Stars
     *   Love &. Hip Hop Miami
-    *   Leave It To Stevie
     *   America's Next Top Model
+    *   RuPaul's Drag Race All Stars
+    *   Scared Famous
+    *   Black Ink Crew Chicago
     *   Brunch With TiffanySee all Shows
 *   News
 *   Digital Originals
@@ -20,7 +20,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z TV Schedule Love &. Hip Hop Scared Famous Black Ink Crew Black Ink Crew Chicago RuPaul's Drag Race All Stars Love &. Hip Hop Miami Leave It To Stevie America's Next Top Model Brunch With Tiffany See all Shows
+*   Shows Full Episodes Shows A-Z TV Schedule Love &. Hip Hop Remy &. Papoose: A Merry Mackie Holiday Black Ink Crew Love &. Hip Hop Miami America's Next Top Model RuPaul's Drag Race All Stars Scared Famous Black Ink Crew Chicago Brunch With Tiffany See all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
