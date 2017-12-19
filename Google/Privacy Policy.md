@@ -4,7 +4,7 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Règles de confidentialité Masquer les exemples Afficher les exemples Masquer les exemples
 
-Date de la dernière modification : 2 octobre 2017 (voir les versions archivées) (Les exemples en liens hypertexte sont disponibles au bas de ce document.)
+Date de la dernière modification : 18 décembre 2017 (voir les versions archivées) (Les exemples en liens hypertexte sont disponibles au bas de ce document.)
 
 Télécharger la version PDF
 
@@ -100,11 +100,9 @@ De nombreux services Google vous permettent de partager vos données avec d'autr
 
 Haut de la page Consultation et mise à jour de vos données personnelles
 
-Lorsque vous utilisez nos services, nous souhaitons que vous ayez accès à vos informations personnelles. En cas d'erreur, nous faisons en sorte que vous puissiez les mettre à jour rapidement ou les supprimer, sauf si nous devons les conserver à des fins commerciales légitimes ou si la loi nous l'impose. Avant de répondre à une demande de mise à jour de vos informations personnelles, nous pouvons vous inviter à vous identifier.
+Lorsque vous utilisez nos services, nous souhaitons que vous ayez accès à vos informations personnelles. En cas d'erreur, nous faisons en sorte que vous puissiez les mettre à jour rapidement ou les supprimer, sauf si nous devons les conserver à des fins commerciales légitimes ou si la loi nous l'impose.
 
-Nous nous réservons le droit de décliner toute demande déraisonnable par son caractère répétitif ou systématique, toute demande réclamant des efforts techniques démesurés (par exemple, le développement d'un nouveau système ou une modification majeure d'une procédure existante), compromettant la confidentialité des données de tiers, ou difficilement réalisable (par exemple, des demandes concernant des données stockées sur des systèmes de sauvegarde).
-
-L’accès aux données et leur rectification constituent un service gratuit, sauf dans le cas où ce service impliquerait un effort démesuré. Nous prenons toutes les dispositions pour protéger les données gérées dans le cadre de nos services contre toute destruction accidentelle ou volontaire. Par conséquent, même lorsque vous supprimez des données utilisées par nos services, nous ne supprimons pas immédiatement les copies résiduelles se trouvant sur nos serveurs actifs ni celles stockées dans nos systèmes de sauvegarde.
+Nous prenons toutes les dispositions pour protéger les données gérées dans le cadre de nos services contre toute destruction accidentelle ou volontaire. Par conséquent, même lorsque vous supprimez des données utilisées par nos services, nous ne supprimons pas immédiatement les copies résiduelles se trouvant sur nos serveurs actifs ni celles stockées dans nos systèmes de sauvegarde.
 
 Haut de la page Données que nous partageons
 
