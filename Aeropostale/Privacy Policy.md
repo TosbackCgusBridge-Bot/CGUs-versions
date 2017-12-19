@@ -292,7 +292,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**60% OFF** \+ **FREE SHIPPING OVER $50** **GUARANTEED HOLIDAY DELIVERY! DETAILS**
+**60% OFF** \+ **FREE SHIPPING OVER $50** **CHRISTMAS DELIVERY ORDER BY 12/19 11:59 PM DETAILS**
 
 *   My Account My Account Login Register
 
@@ -535,7 +535,8 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Promotions Shop Girls Shop Guys Get In Store Coupon
+ON ORDERS OVER $50 Search Catalog Search Promotions Get It By Christmas! ORDER BY TOMORROW AT 11:59 PM EST WITH GROUND SHIPPING DETAILS  
+Shop Girls Shop Guys Get In Store Coupon
 
 *   Fleece Favorites Starting at $7.87
 *   Outerwear Obsessed Starting at $13.87
@@ -582,5 +583,3 @@ Stay Connected
 *   Live ChatCall Us
 *   Refer a Friend
 *   College Student Discount
-
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
