@@ -781,9 +781,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off all outerwear, including coats, snow boots, hats and gloves. 40% off everything else!
+Receive 50% off your order!
 
-code: SANTA pin: 2447 DETAILS
+code: GARLAND pin: 5611 DETAILS
 
 Customer Service Menu
 
