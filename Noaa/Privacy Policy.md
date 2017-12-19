@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Arctic saw 2nd warmest year, smallest winter sea ice coverage on record in 2017 AROUND NOAA // Special report: 2016 extreme weather events and ties to climate change What are your chances for a white Christmas? South for the winter: NOAA’s GOES-S satellite arrives in Florida ahead of 2018 launch This holiday season, give the gift of peace of mind
+Enter Search Terms Globe had 3rd warmest year to date and 5th warmest November on record Arctic and Antarctic sea ice coverage remain at near-record lows AROUND NOAA // Arctic saw 2nd warmest year, smallest winter sea ice coverage on record in 2017 What are your chances for a white Christmas? Special report: 2016 extreme weather events and ties to climate change This holiday season, give the gift of peace of mind
 
 *   About our agency
 *   News and features
