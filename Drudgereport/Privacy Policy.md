@@ -136,25 +136,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+Here's a look back at 2017, our milestone year! intermarkets.net/201… via Intermarkets blog
+
+About 14 hours ago
+
 .@WayneDupreeShow thanks for coming into the office yesterday! We enjoyed having you. Lots accomplished and looking forward to seeing you more in 2018!
-
-About 4 days ago
-
-You're welcome &. enjoy!! twitter.com/keishasg…
-
-About 4 days ago
-
-My week on Twitter : 2 Mentions, 14.5K Mention Reach, 5 Likes, 3 Retweets, 1.22K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Ms2O…
 
 About 5 days ago
 
-Our biggest fans this week: @Requidan, @Nicole\_Kosar, @lacyagallagher. Thank you! via sumall.com/thankyou?… pic.twitter.com/MTlp…
+You're welcome &. enjoy!! twitter.com/keishasg…
+
+About 5 days ago
+
+My week on Twitter : 2 Mentions, 14.5K Mention Reach, 5 Likes, 3 Retweets, 1.22K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Ms2O…
 
 About 6 days ago
 
-What does Erik @Requidan have to say about political content flags? Find out here: adexchanger.com/publ… via @adexchanger @SarahSluis
+Our biggest fans this week: @Requidan, @Nicole\_Kosar, @lacyagallagher. Thank you! via sumall.com/thankyou?… pic.twitter.com/MTlp…
 
-About 2 weeks ago
+Last week
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
