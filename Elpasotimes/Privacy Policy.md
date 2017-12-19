@@ -1,4 +1,4 @@
-close dialogCelebrate Together This Season$29/YRSubscribe close dialogSUBSCRIBE NOWto get full access
+close dialogNew Year SaleCelebrate Together The New YearSubscribe close dialogSUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -142,4 +142,4 @@ Our Partners
 *   Cars.com El Paso
 *   The Job Network
 
-close dialogGet 30 Days Free!Discover the benefits of being a subscriber. Experience unlimited digital access, easy-to-use apps, access to events, deals and giveaways, and more — free for 30 days!No credit card required.Unlock My Free TrialNo thanks, I don’t like free things.close dialogclose dialogCelebrate Together This Season$29/YRSubscribe close dialog
+close dialogNew Year SaleCelebrate Together The New YearSubscribe close dialog
