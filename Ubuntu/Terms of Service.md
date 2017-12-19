@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD Weekly Status #28 ›
 *   Ubuntu Desktop Weekly Update – December 15th 2017 ›
+*   cloud-init 17.2 Released ›
 *   UbuCon Europe: 27th, 28th, 29th of April 2018 in Gijón/Xixón, Spain ›
 *   Canonical shows EdgeX on ARM ›
-*   Security Team Weekly Summary: December 14, 2017 ›
-*   FIPS 140-2 Certified Modules for Ubuntu 16.04 LTS ›
