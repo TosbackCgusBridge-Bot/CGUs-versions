@@ -271,6 +271,7 @@ Menu Close Menu Close
     *   Home Laptop Deals
     *   ThinkPad Deals
     *   Desktop Deals
+    *   Tablet Deals
     *   Accessory Deals
     *   Clearance
     *   Financing Options
@@ -282,9 +283,7 @@ Menu Close Menu Close
             
         *   Stylish, Dependable and Affordable PCs
             
-        *   Enjoy Free Shipping
-            
-            Shopping the Business Wrap Up Sale? Enjoy free shipping with your order through the end of the year.
+        *   Make the most of Section 179
             
 *   Support
     *   Sales Enquiries
