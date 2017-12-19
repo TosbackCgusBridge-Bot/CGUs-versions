@@ -26,6 +26,7 @@
     *   Brand Assets
     *   Contact
 *   Blog
+*   Docs
 *   Login
 
 *   Products
@@ -56,6 +57,7 @@
     *   Brand Assets
     *   Contact
 *   Blog
+*   Docs
 *   Login
 
 Privacy Policy **Tealium Inc. Website Privacy Statement**
