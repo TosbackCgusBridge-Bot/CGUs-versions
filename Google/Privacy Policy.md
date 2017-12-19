@@ -4,7 +4,7 @@ Wanneer u Google-services gebruikt, vertrouwt u ons met uw gegevens. Dit Privacy
 
 Privacybeleid Voorbeelden verbergen Voorbeelden weergeven Voorbeelden verbergen
 
-Laatst aangepast: 2 oktober 2017 (gearchiveerde versies weergeven) (De voorbeelden met hyperlinks zijn beschikbaar aan het einde van dit document.)
+Laatst aangepast: 18 december 2017 (gearchiveerde versies weergeven) (De voorbeelden met hyperlinks zijn beschikbaar aan het einde van dit document.)
 
 Pdf-versie downloaden
 
@@ -100,11 +100,9 @@ Via veel van onze services kunt u gegevens met anderen delen. Vergeet niet dat w
 
 Bovenkant pagina Uw persoonlijke gegevens openen en bijwerken.
 
-Wanneer u onze services gebruikt, proberen we u toegang te geven tot uw persoonlijke gegevens. Als die gegevens onjuist zijn, proberen we u te voorzien van manieren om deze gegevens snel bij te werken of te verwijderen, tenzij we die gegevens moeten bewaren voor legitieme zakelijke of juridische doeleinden. Wanneer u uw persoonlijke gegevens bijwerkt, kunnen we u vragen uw identiteit te verifiëren voordat we uw verzoek kunnen verwerken.
+Wanneer u onze services gebruikt, proberen we u toegang te geven tot uw persoonlijke gegevens. Als die gegevens onjuist zijn, proberen we u te voorzien van manieren om deze gegevens snel bij te werken of te verwijderen, tenzij we die gegevens moeten bewaren voor legitieme zakelijke of juridische doeleinden.
 
-We kunnen verzoeken weigeren die onredelijkerwijs worden herhaald, onevenredige technische inspanningen vereisen (zoals het ontwikkelen van een nieuw systeem of het aanbrengen van fundamentele wijzigingen in een bestaande handelswijze), de privacy van anderen in gevaar brengen of zeer onpraktisch zouden zijn (zoals verzoeken met betrekking tot gegevens die zich op back-upsystemen bevinden).
-
-Wanneer we u mogelijkheden kunnen geven voor het krijgen van toegang tot en het corrigeren van gegevens, doen we dit gratis, behalve in gevallen waar dit een onevenredige inspanning zou vereisen. We streven ernaar onze services te handhaven op een manier die gegevens beschermt tegen onopzettelijke of kwaadwillige vernietiging. Daarom is het mogelijk dat we, nadat u gegevens uit onze services heeft verwijderd, resterende kopieën niet onmiddellijk van onze actieve servers verwijderen en gegevens niet uit onze back-upsystemen verwijderen.
+We streven ernaar onze services te handhaven op een manier die gegevens beschermt tegen onopzettelijke of kwaadwillige vernietiging. Daarom is het mogelijk dat we, nadat u gegevens uit onze services heeft verwijderd, resterende kopieën niet onmiddellijk van onze actieve servers verwijderen en gegevens niet uit onze back-upsystemen verwijderen.
 
 Bovenkant pagina Gegevens die we delen
 
