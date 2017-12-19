@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Peter Beinart_: The Growing Partisan Divide Over Feminism
+*   _Samuelsohn &. Crowley_: Trump Foreign Policy Plan Stresses Home Front
     
-*   _Megan McArdle_: Consider the Consequences of #BelieveAllWomen
+*   _Victor Davis Hanson_: A Jacksonian Manifesto
     
-*   _John McCormack_: Who's to Blame for the Moore Fiasco?
+*   _Steve Phillips_: Dems Could Claim a New American Majority. Will They?
     
-*   _Nate Cohn_: Once Unthinkable, Senate Now Looks Like Tossup in 2018
+*   _Fred Barnes_: Scott Pruitt: The Man They Love to Hate
     
-*   _Mollie Hemingway_: 8 Worst Defenses of Peter Strzok's Anti-Trump Texts
+*   _Jeffrey Toobin_: What Excruciating Video of Judicial Nominee Reveals
     
-*   _David Ignatius_: The Russia Facts Hiding in Plain Sight
+*   _Shriver_: 13 Bold Women Challenge #Metoo Campaign
     
-*   _Mark Penn_: Poll Shows Mueller, FBI Face Crisis in Public Confidence
+*   _Lizzie Crocker_: 97 Men (&. a Woman) Taken Down by #MeToo Movement
     
-*   _Steve Cortes_: Hey, Rahm -- Lay Off Trump and Start Fixing Chicago
+*   _Josh Meyer_: How Obama Secretly Let Hezbollah Off the Hook
     
-*   _Ed Pilkington_: Welcome to America, Land of Extreme Poverty
+*   _Joel Rosenberg_: Mr. Pence's High-Stakes Trip to Egypt
     
-*   _Paula Neuding_: The Uncomfortable Truth About Swedish Anti-Semitism
+*   _Frank Bruni_: Are You Old? Infirm? Then Kindly Disappear
     
-*   _Matthew Continetti_: Decision Time on Iran
+*   _Chad Greene_: I Turned My Coworker Into HR, and She Changed My Heart
     
-*   _Stephen Moore_: On Tax Cuts, Trump Is the Modern Day JFK
+*   _Byron York_: Amid Firestorms, Trump Has Year of Solid Accomplishments
     
-*   _Michael Bloomberg_: This Tax Bill Is a Trillion-Dollar Blunder
+*   _Peter Bergen_: It Wasn't Trump But Iraq's Elite Soldiers Who Defeated ISIS
     
-*   _Chris Buskirk_: How Trump Can Win the GOP's Great War of Ideas
+*   _Jonathan Haidt_: The Age of Outrage
     
-*   _Ezra Klein_: Republicans Are Paying a Price for Their Extremism
+*   _Andrew Klavan_: Trump Has Made Our Government More Moral
     
-*   _Wesley Pruden_: All the Dems Need Now Are More Child Molesters
+*   _Ariel Dorfman_: Still Reckoning With a Reckless Con Man as President
     
-*   _Eleanor Clift_: Trump's Poll Numbers Near a Tipping Point
+*   _Newt Gingrich_: Fake News Attacks Can't Derail Tax Cut Victory
     
-*   _Tom Bevan_: The Takeaway: Blue Wave Coming?
+*   _Sens. Warren &. Sanders_: Who Is Congress Really Serving?
     
-*   _George Neumayr_: All of Hillary's Men
+*   _Ed Rogers_: 2018: Dems &. Impeachment vs. Republicans &. a Good Economy?
     
-*   _Josh Marshall_: GOP's Attack on Mueller &. FBI Is Disgraceful
+*   _Ryan Cooper_: Republicans' Preposterous New Pretext to Fire Mueller
     
-*   _Roger Simon_: The FBI's Ship of Fools
+*   _Ned Ryun_: Mueller's Partisan Pack of Wolves &. an Illegitimate Investigation
     
-*   _John Nichols_: The Trump Admin's Most Brutal Blow to Democracy Yet
+*   _Ian Bremmer_: The 5 Elections to Keep an Eye On in 2018
     
-*   _Matthew Walther_: Net Neutrality Is Dead. Good Riddance.
+*   _Steve Miller_: Bonuses, Deep in the Heart of Texas' Stealth Spending
     
-*   _James Arkin_: Democrats See Young-Voter Surge Growing in 2018
+*   _Charles Blow_: Omarosa, Sacking of a Sellout
     
 
 *   Previous
@@ -251,7 +251,7 @@ RecommendedPolitics
 
 *   Democrats See Young-Voter Surge Growing in 2018
 *   With Rubio Onboard, Republican Leaders Finalize Huge Tax Package
-*   Trump Cuts Red Tape: For Every New Regulation, We Have Eliminated 22
+*   Pirro: Andrew McCabe Is Consigliere of FBI "Criminal Cabal"
 *   Democrats Assess "Me Too" Impact on Their 2018 Push
 *   To Both Parties, Moore's Loss Is a Potential Win for 2018
 *   Presidential Job Approval
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve41
-    *   Disapprove56Disapprove +15
+*   President Trump Job ApprovalCNBC
+    *   Approve42
+    *   Disapprove49Disapprove +7
 *   President Trump Job ApprovalGallup
-    *   Approve35
-    *   Disapprove60Disapprove +25
-*   2018 Generic Congressional VoteNBC News/Wall St. Jrnl
-    *   Democrats50
-    *   Republicans39Democrats +11
+    *   Approve34
+    *   Disapprove60Disapprove +26
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve40
-    *   Disapprove57Disapprove +17
+    *   Approve42
+    *   Disapprove55Disapprove +13
+*   Direction of CountryRasmussen Reports
+    *   Right Direction35
+    *   Wrong Track59Wrong Track +24
 
 More Latest Polls In The News
 
+*   Heilemann: When Pro-Trump Media's "Anti-Government Ranting" Leads To Violence, We'll Know Who To Blame
 *   CNN's Stelter: "Conservative Media Fueling Divide" In America With Attacks On Mueller, FBI
 *   Treasury Secretary Steve Mnuchin on Tax Bill: "We Are Going To Bring Trillions Back Onshore"
 *   Van Hollen: GOP Tax Plan Is "Total Betrayal Of Economic Populist Message" From 2016
 *   David Brooks: Establishment Retreats Before Trump Attacks. No "Self-Confidence," "Reason To Live"
-*   Dershowitz: Comey Was Not Clinton's Friend, 'Extremely Careless' Statement Caused Her To Lose
 
 *   Politics
 *   Policy
