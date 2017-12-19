@@ -5,38 +5,44 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   Star Wars: The Last Jedi (2017)
+    *   Ferdinand
     *   Coco (2017)
-    *   Justice League (2017)
     *   Wonder
-    *   The Disaster Artist (2017)
-    *   Thor: Ragnarok (2017)
+    *   Justice League (2017)
     *   Daddy's Home 2
+    *   Thor: Ragnarok (2017)
+    *   The Disaster Artist (2017)
     *   Murder on the Orient Express (2017)
-    *   The Star (2017)
     *   Lady Bird
-    *   Just Getting Started
-    *   Three Billboards Outside Ebbing, Missouri
+    *   The Star (2017)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Star Wars: The Last Jedi (2017)
-    *   Ferdinand
-    *   Beyond Skyline
-    *   Miss Kiet's Children
-    *   Permanent
-    *   The Thousand Faces of Dunjia
+    *   Downsizing
+    *   Father Figures
+    *   The Greatest Showman
+    *   Jumanji: Welcome to the Jungle
+    *   Pitch Perfect 3
+    *   Along With the Gods: The Two Worlds
+    *   Crooked House
+    *   Happy End
+    *   Hostiles
+    *   The Post
+    *   Tiger Zinda Hai
     *   See All Opening This Week
     
     Coming Soon
     
     *   All the Money in the World
-    *   Downsizing
-    *   Father Figures
-    *   Pitch Perfect 3
-    *   The Greatest Showman
-    *   Jumanji: Welcome to the Jungle
     *   Insidious: The Last Key
+    *   The Commuter
+    *   Condorito: The Movie
+    *   Paddington 2
+    *   Proud Mary
+    *   12 Strong
+    *   Den of Thieves
     *   See All Coming Soon
     
     Explore More
@@ -64,9 +70,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Golden Globes Nominations, Disney Buys Fox and More Read More
-    *   'Star Wars' Buzz: Box Office Bonanza, Rian Johnson's Surprise and More Read More
-    *   Movie News: 'Avengers,' 'It' Filmmakers to Team on 'Electric State' Read More
+    *   Paul Thomas Anderson on How Daniel Day-Lewis Has Helped Make Him a Better Filmmaker Read More
+    *   Movie News: Kevin Hart Wants to Play 'Mrs. Doubtfire' Read More
+    *   'Star Wars: The Last Jedi' Spoiler Buzz. Rey's Parents, Snoke, Easter Eggs Read More
     
     Explore Content
     *   Movie Reviews
