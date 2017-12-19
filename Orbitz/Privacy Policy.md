@@ -2,7 +2,7 @@ Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to t
 
 Earn 5% back in app + save 15% on select hotels with code **APP15**
 
-Join Rewards //a.travel-assets.com/globalcontrols-service/content/293a63eb71fd49acfeb1099a607da3a2592c8ca4 Search anything Search
+Join Rewards //a.travel-assets.com/globalcontrols-service/content/878f4d7cf9449c24b213d9f34a6da38ab1636a8e Search anything Search
 
 Show Menu Hide Menu
 
@@ -48,7 +48,7 @@ Show Menu Hide Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/293a63eb71fd49acfeb1099a607da3a2592c8ca4 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/878f4d7cf9449c24b213d9f34a6da38ab1636a8e Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
