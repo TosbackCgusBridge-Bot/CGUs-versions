@@ -4,7 +4,7 @@ Wenn Sie Google-Dienste verwenden, vertrauen Sie uns Ihre Daten an. In dieser Da
 
 Datenschutzerklärung Beispiele ausblenden Beispiele anzeigen Beispiele ausblenden
 
-Zuletzt geändert am: 2. Oktober 2017 (archivierte Versionen anzeigen) Die verlinkten Beispiele sind unten auf dieser Seite zu finden.
+Zuletzt geändert am: 18. Dezember 2017 (archivierte Versionen anzeigen) Die verlinkten Beispiele sind unten auf dieser Seite zu finden.
 
 PDF-Version herunterladen
 
@@ -100,11 +100,9 @@ Viele unserer Dienste erlauben es Ihnen, Informationen mit anderen zu teilen. Be
 
 Zurück nach oben Zugriff auf und Aktualisierung Ihrer personenbezogenen Daten
 
-Wann auch immer Sie unsere Dienste nutzen, sind wir bestrebt, Ihnen Zugriff auf Ihre personenbezogenen Daten zu geben. Sollten diese Daten fehlerhaft sein, bemühen wir uns darum, Ihnen Möglichkeiten zu eröffnen, diese schnell zu aktualisieren oder zu entfernen – es sei denn, wir müssen diese Daten zu berechtigten geschäftlichen oder rechtlichen Zwecken aufbewahren. Im Falle der Aktualisierung Ihrer personenbezogenen Daten verlangen wir möglicherweise einen Nachweis Ihrer Identität, bevor wir Ihre Anfrage umsetzen.
+Wann auch immer Sie unsere Dienste nutzen, sind wir bestrebt, Ihnen Zugriff auf Ihre personenbezogenen Daten zu geben. Sollten diese Daten fehlerhaft sein, bemühen wir uns darum, Ihnen Möglichkeiten zu eröffnen, diese schnell zu aktualisieren oder zu entfernen – es sei denn, wir müssen diese Daten zu berechtigten geschäftlichen oder rechtlichen Zwecken aufbewahren.
 
-Wir lehnen gegebenenfalls Anfragen ab, die unangemessen oft wiederholt werden, die einen unverhältnismäßigen technischen Aufwand erfordern (beispielsweise die Entwicklung eines neuen Systems oder die grundlegende Änderung einer bestehenden Praxis), die den Schutz personenbezogener Daten Dritter gefährden oder die nur mit extremen Schwierigkeiten praktisch umsetzbar sind (beispielsweise Anfragen zu Daten, die sich in Sicherungssystemen befinden).
-
-Sofern wir den Zugriff auf und die Berichtigung von Daten gewähren können, erfolgt dies grundsätzlich kostenlos, außer in Fällen, in denen dies einen unverhältnismäßigen Aufwand erfordern würde. Wir sind bestrebt, unsere Dienste auf eine Art und Weise bereitzustellen, durch die die Daten vor zufälliger oder mutwilliger Zerstörung geschützt sind. Aus diesem Grund löschen wir möglicherweise verbliebene Vervielfältigungsstücke von Daten, die Sie aus unseren Diensten gelöscht haben, nicht sofort von unseren aktiven Servern und entfernen diese Daten nicht von unseren Sicherungssystemen.
+Wir sind bestrebt, unsere Dienste auf eine Art und Weise bereitzustellen, durch die die Daten vor zufälliger oder mutwilliger Zerstörung geschützt sind. Aus diesem Grund löschen wir möglicherweise verbliebene Vervielfältigungsstücke von Daten, die Sie aus unseren Diensten gelöscht haben, nicht sofort von unseren aktiven Servern und entfernen diese Daten nicht von unseren Sicherungssystemen.
 
 Zurück nach oben Von uns weitergegebene Informationen
 
