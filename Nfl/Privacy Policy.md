@@ -1,4 +1,7 @@
-*   DAL10OAK•02nd ? 03:08
+*   ATL•17TB143rd ? 01:39REDZONE
+*   DEN5-925IND3-1113Final
+*   CHI4-1010DET8-620Final
+*   LAC7-713KC8-630Final
 *   MIA6-816BUF8-624Final
 *   GB7-724CAR10-431Final
 *   BAL8-627CLE0-1410Final
@@ -10,10 +13,7 @@
 *   LA10-442SEA8-67Final
 *   NE11-327PIT11-324Final
 *   TEN8-623SF4-1025Final
-*   ATL8-5TB4-9Mon 8:30 PM ET
-*   DEN5-925IND3-1113Final
-*   CHI4-1010DET8-620Final
-*   LAC7-713KC8-630Final
+*   DAL8-620OAK6-817Final
 
 *   News
 *   Scores
@@ -31,7 +31,10 @@
 *   NFL Network
 *   Photos
 
-*   DAL10OAK•02nd ? 03:08
+*   ATL•17TB143rd ? 01:39REDZONE
+*   DEN25IND13Final
+*   CHI10DET20Final
+*   LAC13KC30Final
 *   MIA16BUF24Final
 *   GB24CAR31Final
 *   BAL27CLE10Final
@@ -43,10 +46,7 @@
 *   LA42SEA7Final
 *   NE27PIT24Final
 *   TEN23SF25Final
-*   ATL8-5TB4-9Mon 8:30 PM ET
-*   DEN25IND13Final
-*   CHI10DET20Final
-*   LAC13KC30Final
+*   DAL20OAK17Final
 
 *   News
 *   Scores
