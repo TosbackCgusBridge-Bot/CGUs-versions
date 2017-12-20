@@ -1,4 +1,4 @@
-*   ATL•17TB143rd ? 01:39REDZONE
+*   ATL9-524TB4-1021Final
 *   DEN5-925IND3-1113Final
 *   CHI4-1010DET8-620Final
 *   LAC7-713KC8-630Final
@@ -31,7 +31,7 @@
 *   NFL Network
 *   Photos
 
-*   ATL•17TB143rd ? 01:39REDZONE
+*   ATL24TB21Final
 *   DEN25IND13Final
 *   CHI10DET20Final
 *   LAC13KC30Final
