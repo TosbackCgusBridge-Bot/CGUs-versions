@@ -1,4 +1,4 @@
-By continuing to browse our site you agree to our use of cookies, revised Privacy Policy and Terms of Service. More information about cookiesI agreeBreaking NewsHome+CNN Privacy PolicyRegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleHealthVideoVRLive TV Search »International Edition+U.S.InternationalArabicEspañol
+By continuing to browse our site you agree to our use of cookies, revised Privacy Policy and Terms of Service. More information about cookiesI agreeNews AlertThe US Senate passes the largest overhaul of tax laws in more than 30 years, a major victory for President Donald TrumpHome+CNN Privacy PolicyRegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleHealthVideoVRLive TV Search »International Edition+U.S.InternationalArabicEspañol
 
 Set edition preference:
 
