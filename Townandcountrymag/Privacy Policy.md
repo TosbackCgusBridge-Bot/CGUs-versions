@@ -10,6 +10,11 @@
 
 *   Follow
 
+*   Subscribe
+    *   Subscribe
+    *   Print Edition
+    *   Digital Edition
+    *   Give a Gift
 *   Society
     *   Society
     *   Money &. Power
@@ -35,11 +40,6 @@
     *   Food
     *   Sporting
     *   Real Estate
-*   Subscribe
-    *   Subscribe
-    *   Print Edition
-    *   Digital Edition
-    *   Give a Gift
 *   Insider
 *   Follow
     *   Facebook
@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 FAO Schwarz Is Reopening in New York 2 Inside the Cult of Outlander 3 13 Fabulously Festive Christmas Party Outfits 4 11 Places to Spend New Year's 2018 5 21 Cocktails to Help You Survive Winter Privacy Policy Dec 1, 2014
+Today's Top Stories 1 FAO Schwarz Is Reopening in New York 2 Holiday Cocktails to Drink This Christmas 3 Inside the Cult of Outlander 4 13 Fabulously Festive Christmas Party Outfits 5 11 Places to Spend New Year's 2018 Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -179,7 +179,9 @@ Advertisement - Continue Reading Below
 
 Last revised on April 1, 2016
 
-Watch Next Advertisement - Continue Reading Below More From About Advertise Online And the Top Schools in the Country Are . . . The Story Behind Donald Trump's Most Impressive Homes Share Tweet Email
+Watch Next
+
+Advertisement - Continue Reading Below More From About Advertise Online And the Top Schools in the Country Are . . . The Story Behind Donald Trump's Most Impressive Homes Share Tweet Email
 
 *   About
 *   Trump Likens War Policy to '21' Club Renovation
