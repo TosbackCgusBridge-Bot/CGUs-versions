@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 23%  3% 
+What is PeekScore? Public Records &. Background Checks 22%  5% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 23%  3% 
     
 *   Show Less ...
 
-23%  23%  Arrest Records &. Driving Infractions
+22%  22%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 23%  Twitter 3% 
+Facebook 22%  Twitter 5% 
 
 *   HIV.gov - HIVGov
     
@@ -199,7 +199,7 @@ Facebook 23%  Twitter 3% 
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 5% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -267,7 +267,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Pinterest 23%  Wikipedia 3% 
+Pinterest 22%  Wikipedia 5% 
 
 *   Medana
     
@@ -286,7 +286,7 @@ Pinterest 23%  Wikipedia 3% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Google+ 3% 
+Google+ 5% 
 
 *   privacy policy - Google+
     
@@ -301,7 +301,7 @@ Google+ 3% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 23%  Music 3% 
+Linkedin 22%  Music 5% 
 
 *   Pandora
     
@@ -347,7 +347,7 @@ Linkedin 23%  Music 3% 
     
 *   Show Less ...
 
-Photo Albums 3% 
+Photo Albums 5% 
 
 *   Flickr
     
@@ -358,7 +358,7 @@ Photo Albums 3% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 3% 
+Myspace 5% 
 
 *   Privacy Policy - 49086242
     
@@ -382,7 +382,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Documents 3% 
+Documents 5% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -428,7 +428,7 @@ Documents 3% 
     
 *   Show Less ...
 
-Web Search 3% 
+Web Search 5% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -474,7 +474,7 @@ Web Search 3% 
     
 *   Show Less ...
 
-Images 3% 
+Images 5% 
 
 20
 
