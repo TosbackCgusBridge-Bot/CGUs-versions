@@ -2,9 +2,27 @@ Skip to main content Cobranded header here Welcome to Orbitz.com **Continue to t
 
 Earn 5% back in app + save 15% on select hotels with code **APP15**
 
-Join Rewards //a.travel-assets.com/globalcontrols-service/content/878f4d7cf9449c24b213d9f34a6da38ab1636a8e Search anything Search
+Join Rewards //a.travel-assets.com/globalcontrols-service/content/405b0005f9e85d884f1a570eb01de2d4c400cee0 Search anything Search
 
 Show Menu Hide Menu
+
+*   Show Account Icon Menu
+    
+    *   0 points Join Expedia+ rewards Join Rewards
+    
+    *   My Account
+    *   My Trips
+    *   My Rewards
+    
+    *   Sign Out
+    
+    *   Get lower rates on thousands of hotels.
+    *   Sign In
+    *   or create an {{0}} Account
+    
+    *   My Account
+    *   My Trips
+    *   My Rewards
 
 *   Shop Travel
     *   Home
@@ -21,9 +39,8 @@ Show Menu Hide Menu
     *   Mobile
     *   Rewards
 
-*   *   You have 1 notification 1
-        *   *   Get price and availability changes for hotels you view. We'll watch prices on your saved and recently viewed items for you. Track ChangesClose
-            *   All caught up!  
+*   *   You have 0 notifications 1
+        *   *   All caught up!  
                 No new notifications right now.
 *   Account
     *   Sign in to see exclusive Member Pricing.
@@ -48,7 +65,7 @@ Show Menu Hide Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/878f4d7cf9449c24b213d9f34a6da38ab1636a8e Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/405b0005f9e85d884f1a570eb01de2d4c400cee0 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
