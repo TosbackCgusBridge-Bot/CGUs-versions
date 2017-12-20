@@ -198,30 +198,13 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Careers
 *   Support
 *   Blog
+*   Tech Blog
+*   Lesbian Dating
 *   Privacy Policy
 *   Terms and Conditions
 *   Dating Safety Tips
 
-© OkCupid 2017 Free online dating
-
-*   Local dating
-*   Jewish dating
-*   Christian dating
-*   Gay dating
-*   Bisexual dating
-*   Lesbian dating
-*   New York dating
-*   Chicago dating
-*   Washington dating
-*   Seattle dating
-*   Los Angeles dating
-*   San Francisco dating
-*   Philadelphia dating
-*   Brooklyn dating
-*   Atlanta dating
-*   Portland dating
-
-Your session has expired
+© OkCupid 2017 Your session has expired
 
 Still there?
 
