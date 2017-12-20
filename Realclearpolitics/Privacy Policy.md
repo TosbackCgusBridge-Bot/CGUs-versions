@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Samuelsohn &. Crowley_: Trump Foreign Policy Plan Stresses Home Front
+*   _John Cassidy_: Republicans Set to Pass an Unworkable Tax Bill
     
-*   _Victor Davis Hanson_: A Jacksonian Manifesto
+*   _Stephen Moore_: Zero Excuses to Stand Against the Trump Tax Cuts
     
-*   _Steve Phillips_: Dems Could Claim a New American Majority. Will They?
+*   _John Kirby_: 6 Whoppers From Trump's National Security Speech
     
-*   _Fred Barnes_: Scott Pruitt: The Man They Love to Hate
+*   _Newt Gingrich_: National Security in Tradition of Truman, Reagan, &. Reality
     
-*   _Jeffrey Toobin_: What Excruciating Video of Judicial Nominee Reveals
+*   _John Stoehr_: The Democratic Unity the GOP Built
     
-*   _Shriver_: 13 Bold Women Challenge #Metoo Campaign
+*   _John Davidson_: Will There Be a Dem 'Blue Wave' in 2018? Not So Fast
     
-*   _Lizzie Crocker_: 97 Men (&. a Woman) Taken Down by #MeToo Movement
+*   _Josh Barro_: Northam Shows Why Democrats Can Never Be Satisfied
     
-*   _Josh Meyer_: How Obama Secretly Let Hezbollah Off the Hook
+*   _Sarah Seltzer_: #MeToo Has Debunked the 'Lean In' Philosophy
     
-*   _Joel Rosenberg_: Mr. Pence's High-Stakes Trip to Egypt
+*   _Megan McArdle_: Current Sex Panic Harks Back to Era of Coddling Women
     
-*   _Frank Bruni_: Are You Old? Infirm? Then Kindly Disappear
+*   _Alana Semuels_: How Robots Will Transform Fast Food
     
-*   _Chad Greene_: I Turned My Coworker Into HR, and She Changed My Heart
+*   _William McGurn_: Merry Christmas, Iraq
     
-*   _Byron York_: Amid Firestorms, Trump Has Year of Solid Accomplishments
+*   _Washington Post_: Technology is Making Natural Gas Nimbler
     
-*   _Peter Bergen_: It Wasn't Trump But Iraq's Elite Soldiers Who Defeated ISIS
+*   _Roger Kimball_: Trump's Doctrine: 'Principled Realism' Comes to Fore
     
-*   _Jonathan Haidt_: The Age of Outrage
+*   _Roger Cohen_: The Farce of Trump's National Security Strategy
     
-*   _Andrew Klavan_: Trump Has Made Our Government More Moral
+*   _Niall Stanage_: With Tax Bill, GOP Aims to Cement Lift From Trump Economy
     
-*   _Ariel Dorfman_: Still Reckoning With a Reckless Con Man as President
+*   _Ezra Klein_: The Republican Tax Bill Is an American Betrayal
     
-*   _Newt Gingrich_: Fake News Attacks Can't Derail Tax Cut Victory
+*   _Rich Lowry_: Trump's First Year Is Starting to Look Like a Big Win
     
-*   _Sens. Warren &. Sanders_: Who Is Congress Really Serving?
+*   _Richard Cohen_: In Trump's Washington, the Lie Has Become the Truth
     
-*   _Ed Rogers_: 2018: Dems &. Impeachment vs. Republicans &. a Good Economy?
+*   _Andrew McCarthy_: Mueller's Scorched-Earth Tactics... Again
     
-*   _Ryan Cooper_: Republicans' Preposterous New Pretext to Fire Mueller
+*   _Asha Rangappa_: A Move Worse Than Firing Mueller
     
-*   _Ned Ryun_: Mueller's Partisan Pack of Wolves &. an Illegitimate Investigation
+*   _Noah Millman_: Do the Democrats Have a Governing Agenda?
     
-*   _Ian Bremmer_: The 5 Elections to Keep an Eye On in 2018
+*   _Edward-Isaac Dovere_: 'I Was An Easy Pickup': How Trump Lost Joe Manchin
     
-*   _Steve Miller_: Bonuses, Deep in the Heart of Texas' Stealth Spending
+*   _Andrew Ferguson_: Comedy Boy of the Senate
     
-*   _Charles Blow_: Omarosa, Sacking of a Sellout
+*   _Robert Tombs_: Brexit Suggests We're on the Right Side of History
     
 
 *   Previous
@@ -249,9 +249,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Republicans Set to Roll $1.5T Final Tax Bill Through House, Senate
 *   Democrats See Young-Voter Surge Growing in 2018
-*   With Rubio Onboard, Republican Leaders Finalize Huge Tax Package
-*   Pirro: Andrew McCabe Is Consigliere of FBI "Criminal Cabal"
+*   Trump Outlines New "America First" National Security Strategy
 *   Democrats Assess "Me Too" Impact on Their 2018 Push
 *   To Both Parties, Moore's Loss Is a Potential Win for 2018
 *   Presidential Job Approval
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalCNBC
-    *   Approve42
-    *   Disapprove49Disapprove +7
-*   President Trump Job ApprovalGallup
-    *   Approve34
-    *   Disapprove60Disapprove +26
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve37
+    *   Disapprove59Disapprove +22
+*   President Trump Job ApprovalCNN
+    *   Approve36
+    *   Disapprove59Disapprove +23
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove55Disapprove +13
-*   Direction of CountryRasmussen Reports
-    *   Right Direction35
-    *   Wrong Track59Wrong Track +24
+    *   Approve43
+    *   Disapprove55Disapprove +12
+*   President Trump Job ApprovalGallup
+    *   Approve36
+    *   Disapprove59Disapprove +23
 
 More Latest Polls In The News
 
-*   Heilemann: When Pro-Trump Media's "Anti-Government Ranting" Leads To Violence, We'll Know Who To Blame
-*   CNN's Stelter: "Conservative Media Fueling Divide" In America With Attacks On Mueller, FBI
-*   Treasury Secretary Steve Mnuchin on Tax Bill: "We Are Going To Bring Trillions Back Onshore"
-*   Van Hollen: GOP Tax Plan Is "Total Betrayal Of Economic Populist Message" From 2016
-*   David Brooks: Establishment Retreats Before Trump Attacks. No "Self-Confidence," "Reason To Live"
+*   Paul Ryan: "Profound" Change To Tax System, Americans Will See Larger Paychecks Beginning In February
+*   Pelosi: GOP Tax Plan Is "Theft," Unrepentant Greed Of "Permanent Plutocracy" Is Moral Obscenity
+*   James Clapper: Putin "Knows How To Handle An Asset," And That's What He's Doing With Trump
+*   Rep. Jordan: DOJ, FBI Orchestrated Plan To Prevent Donald Trump From Becoming President
+*   NSC's Anton: Near Destruction of Physical ISIS Caliphate, "Miles Ahead" Of Prior Administration
 
 *   Politics
 *   Policy
