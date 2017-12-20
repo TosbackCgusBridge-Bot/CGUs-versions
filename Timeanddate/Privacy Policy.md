@@ -141,16 +141,15 @@ webmaster@timeanddate.comtimeanddate.com
 2.  Contact Us
 3.  Feedback
 4.  Privacy Statement
-5.  Terms and Conditions
-6.  Copyright
-7.  Logo Use
-8.  GeoNames
-9.  Support Us
-10.  Ad Blockers
-11.  Work Here
-12.  Advertise
-13.  Credits
-14.  Disclaimer
+5.  Copyright
+6.  Logo Use
+7.  GeoNames
+8.  Support Us
+9.  Ad Blockers
+10.  Work Here
+11.  Advertise
+12.  Credits
+13.  Disclaimer
 
 Index
 
