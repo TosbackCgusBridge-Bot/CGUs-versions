@@ -283,7 +283,7 @@ Menu Close Menu Close
             
         *   Stylish, Dependable and Affordable PCs
             
-        *   Make the most of Section 179
+        *   Beat the Tax Man: Section 179
             
 *   Support
     *   Sales Enquiries
@@ -340,11 +340,15 @@ YOU HAVEN’T MISSED IT. . .YET! There’s still time to spread the holiday spir
 
 Shop Last Minute Deals >.
 
+Special Financing Available
+
 Hybrid Cloud, Simplified 
 
 ThinkAgile SX for Microsoft Azure Stack 
 
 Learn More >.
+
+Special Financing Available
 
 *   1
 *   2
