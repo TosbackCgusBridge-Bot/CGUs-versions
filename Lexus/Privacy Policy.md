@@ -89,16 +89,16 @@ COMPARE **NX**
 
 **RX**
 
-*   Starting at $43,2201\*
-*   295-hp 3.5L V6
+*   Starting at $43,2701\*
+*   295-HP 3.5L V6
 
 *   Build
 *   Current Offers
 
 **RX HYBRID**
 
-*   Starting at $53,0351\*
-*   30-MPG COMBINED RATING4\*
+*   Starting at $45,6951\*
+*   30-MPG COMBINED RATING2\*
 
 *   Build
 *   Current Offers
@@ -113,7 +113,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $84,9805\*
+*   Starting at $84,9804\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -123,7 +123,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC**
 
-*   Starting at $40,1551\*
+*   Starting at $40,6401\*
 *   2.0L I-4 OR 3.5L V6
 
 *   Build
@@ -131,8 +131,8 @@ COMPARE **RC**
 
 **RC F**
 
-*   Starting at $64,1651\*
-*   467-hp3\* 5.0L V8
+*   Starting at $64,6501\*
+*   467-HP3\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -163,18 +163,18 @@ COMPARE **NX HYBRID**
 *   Build
 *   Current Offers
 
-**ES HYBRID**
+**RX HYBRID**
 
-*   Starting at $41,8201\*
-*   40-MPG COMBINED RATING2\*
+*   Starting at $45,6951\*
+*   30-MPG COMBINED RATING2\*
 
 *   Build
 *   Current Offers
 
-**RX HYBRID**
+**ES HYBRID**
 
-*   Starting at $53,0351\*
-*   30-MPG COMBINED RATING4\*
+*   Starting at $41,8201\*
+*   40-MPG COMBINED RATING2\*
 
 *   Build
 *   Current Offers
@@ -199,7 +199,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC F**
 
-*   Starting at $64,1651\*
+*   Starting at $64,6501\*
 *   467-HP3\* 5.0L V8
 
 *   Build
@@ -235,11 +235,7 @@ COMPARE **RC F**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **RXL**
-
-*   FUTURE VEHICLE
-
-**LF-C2**
+COMPARE **LF-C2**
 
 *   CONCEPT CONVERTIBLE
 
@@ -337,9 +333,7 @@ click here Important Info Important Info
 
 \[3\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[4\] 2016 RX 450h (AWD) EPA 30/28/30 city/hwy/combined mpg estimates. Actual mileage will vary.
-
-\[5\] MSRP does not include delivery, processing and handling fee of $1,195. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
+\[4\] MSRP does not include delivery, processing and handling fee of $1,195. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
 Leasing &. Finance
 
