@@ -781,9 +781,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off your order!
+Receive 50% off full-price styles!
 
-code: GARLAND pin: 5611 DETAILS
+code: SLED pin: 9041 DETAILS
 
 Customer Service Menu
 
