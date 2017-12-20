@@ -1,12 +1,19 @@
-Last.fmSearchSearchSearchToggle navigation
+Last.fmSearchSearchSearchJoin / Login
+
+*   Join
+*   Login
 
 *   Live
 *   Music
 *   Events
 *   Features
-*   Subscribe
-*   Join
-*   Login
+
+More…
+
+*   Live
+*   Music
+*   Events
+*   Features
 
 *   Live
 *   Music
