@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server Development Summary – 19 Dec 2017 ›
+*   Your first robot: A beginner’s guide to ROS and Ubuntu Core \[1/5\] ›
+*   JetBrains adopts snaps to further simplify developers’ lives ›
 *   LXD Weekly Status #28 ›
 *   Ubuntu Desktop Weekly Update – December 15th 2017 ›
-*   cloud-init 17.2 Released ›
-*   UbuCon Europe: 27th, 28th, 29th of April 2018 in Gijón/Xixón, Spain ›
-*   Canonical shows EdgeX on ARM ›
