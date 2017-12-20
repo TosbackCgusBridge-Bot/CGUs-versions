@@ -15,10 +15,7 @@ By using the Website, you consent to this Privacy Policy. This Privacy Policy do
 
 Intermarkets uses the following ad servers and their privacy policies can be found by clicking on their names below:
 
-AppNexus  
-DFP  
-LiveIntent  
-OpenX  
+AppNexus DFP LiveIntent OpenX
 
 We are committed to following the National Advertising Initiative’s Self-Regulatory Principles.
 
@@ -120,13 +117,13 @@ Intermarkets may update this Privacy Policy from time to time, and so you should
 
 Acceptance of Privacy Policy
 
-When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to info@intermarkets.net. Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at info@intermarkets.net or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
+When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to info@intermarkets.net. Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at info@intermarkets.net or send us a letter at Intermarkets, Inc., Attention: Privacy, 11951 Freedom Drive, 11th Floor, Reston, VA 20190.
 
 California Privacy Notice
 
 California’s Shine the Light law provides California residents with the right to receive disclosures about any sharing of their personal information with other companies.
 
-If you are a California resident and you provided your personal information to Intermarkets, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please email us at info@intermarkets.net or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190 with “Request for California Privacy” in the letter subject line.
+If you are a California resident and you provided your personal information to Intermarkets, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please email us at info@intermarkets.net or send us a letter at Intermarkets, Inc., Attention: Privacy, 11951 Freedom Drive, 11th Floor, Reston, VA 20190 with “Request for California Privacy” in the letter subject line.
 
 Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.
 
@@ -136,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 4 Mentions, 278K Mention Reach, 36 Likes, 7 Retweets, 300K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/90K6…
+
+About 5 hours ago
+
+Our biggest fans this week: @WayneDupreeShow, @klralms, @peek\_r. Thank you! via sumall.com/thankyou?… pic.twitter.com/1IYJ…
+
+About 16 hours ago
+
 Here's a look back at 2017, our milestone year! intermarkets.net/201… via Intermarkets blog
 
-About 14 hours ago
+About 2 days ago
 
 .@WayneDupreeShow thanks for coming into the office yesterday! We enjoyed having you. Lots accomplished and looking forward to seeing you more in 2018!
 
-About 5 days ago
+About 6 days ago
 
 You're welcome &. enjoy!! twitter.com/keishasg…
 
-About 5 days ago
-
-My week on Twitter : 2 Mentions, 14.5K Mention Reach, 5 Likes, 3 Retweets, 1.22K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Ms2O…
-
 About 6 days ago
-
-Our biggest fans this week: @Requidan, @Nicole\_Kosar, @lacyagallagher. Thank you! via sumall.com/thankyou?… pic.twitter.com/MTlp…
-
-Last week
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
