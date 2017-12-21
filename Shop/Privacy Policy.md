@@ -272,16 +272,12 @@ Menu Close Menu Close
     *   ThinkPad Deals
     *   Desktop Deals
     *   Tablet Deals
-    *   Accessory Deals
+    *   Accessories Deals
     *   Clearance
     *   Financing Options
     *   Outlet
     
-    *   *   Don't Panic!
-            
-            Last Minute Deals
-            
-        *   Stylish, Dependable and Affordable PCs
+    *   *   Stylish, Dependable and Affordable PCs
             
         *   Beat the Tax Man: Section 179
             
@@ -300,9 +296,6 @@ Menu Close Menu Close
 *   Email Sign-Up
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
-
-HOLIDAY   
-STORE
 
 *   Call 1-855-253-6686
 *   Email Sign-Up
@@ -325,28 +318,19 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers SAVE UP TO 65%
 
-*   Extended Holiday Hours! 9am-11pm on Black Friday &. Cyber Mon. See Complete Extended Holiday Schedule. >
-*   GET IT IN TIME FOR CHRISTMAS! Orders placed are expedited, free! Ends Dec. 20. Learn More >
-*   Be Confident in your Lenovo Purchase. Learn More >
-*   Flexible financing is available! Check out your options now. Learn More >
-*   Extended Holiday Hours! 9am-11pm on Black Friday &. Cyber Mon. See Complete Extended Holiday Schedule. >
-*   GET IT IN TIME FOR CHRISTMAS! Orders placed are expedited, free! Ends Dec. 20. Learn More >
+SHOP OUR HOLIDAY CLEARANCE SALE TO  
+SNAG AMAZING DEALS ON OVERSTOCKS!  
+Sale ends Jan 3.
 
-PrevNext
-
-YOU HAVEN’T MISSED IT. . .YET! There’s still time to spread the holiday spirit with Last Minute Deals from Lenovo. Now through Dec. 20!
-
-Shop Last Minute Deals >.
+Shop Sale >.
 
 Special Financing Available
 
-Hybrid Cloud, Simplified 
+88 World Records and still climbing
 
-ThinkAgile SX for Microsoft Azure Stack 
-
-Learn More >.
+Lenovo ThinkSystem >.
 
 Special Financing Available
 
@@ -409,7 +393,7 @@ STAY CONNECTED
 *   Flickr
 *   Lenovo Forums
 
-Holiday Laptops Tablets Desktops Deals Holiday Laptops Tablets Desktops Deals Chat Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
+Laptops Tablets Desktops Deals Laptops Tablets Desktops Deals Chat Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
 
 *   ABOUT LENOVO
     *   Our Company
