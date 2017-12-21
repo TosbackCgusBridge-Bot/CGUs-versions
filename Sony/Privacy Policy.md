@@ -132,7 +132,7 @@ Play We Played “Choose Your Hero” Video hotspot
 
 Untouched for decades, the legendary game always finds a way! Download and play the #JUMANJI mobile game now.
 
-1 day ago
+2 days ago
 
 View Tweet
 
