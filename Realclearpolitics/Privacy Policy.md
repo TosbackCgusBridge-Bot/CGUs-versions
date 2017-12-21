@@ -101,6 +101,8 @@
     *   About
     *   Media Kit
 
+*   _Caitlin Huey-Burns_: Democrats See Tax Bill as Issue to Run On in 2018
+    
 *   _John Cassidy_: Republicans Set to Pass an Unworkable Tax Bill
     
 *   _Stephen Moore_: Zero Excuses to Stand Against the Trump Tax Cuts
@@ -146,8 +148,6 @@
 *   _Edward-Isaac Dovere_: 'I Was An Easy Pickup': How Trump Lost Joe Manchin
     
 *   _Andrew Ferguson_: Comedy Boy of the Senate
-    
-*   _Robert Tombs_: Brexit Suggests We're on the Right Side of History
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Republicans Set to Roll $1.5T Final Tax Bill Through House, Senate
-*   Democrats See Young-Voter Surge Growing in 2018
+*   Democrats See Tax Bill as Issue to Run On in 2018
+*   Trump, Republicans Celebrate After Wrapping Up Massive Tax Package
+*   Ryan: Americans Will See Larger Paychecks Beginning in February
 *   Trump Outlines New "America First" National Security Strategy
-*   Democrats Assess "Me Too" Impact on Their 2018 Push
-*   To Both Parties, Moore's Loss Is a Potential Win for 2018
+*   Democrats See Young-Voter Surge Growing in 2018
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve37
-    *   Disapprove59Disapprove +22
-*   President Trump Job ApprovalCNN
-    *   Approve36
-    *   Disapprove59Disapprove +23
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
+    *   Approve35
+    *   Disapprove59Disapprove +24
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove54Disapprove +10
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve35
+    *   Disapprove60Disapprove +25
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve41
+    *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
-*   Paul Ryan: "Profound" Change To Tax System, Americans Will See Larger Paychecks Beginning In February
-*   Pelosi: GOP Tax Plan Is "Theft," Unrepentant Greed Of "Permanent Plutocracy" Is Moral Obscenity
-*   James Clapper: Putin "Knows How To Handle An Asset," And That's What He's Doing With Trump
+*   Hatch: We're Going To Make This The Greatest Presidency We've Seen, Not Only In Generations, But Ever
+*   Fmr. FBI Asst. Director Kallstrom: Anti-Trump "Fifth Estate" Was "In Andy's Office Plotting Something"
+*   FBN's Trish Regan: Trump Promised To End Carried Interest Income, Tax Bill Doesn't
+*   Schumer: When Middle-Class See Their Taxes Go Up, They'll Know Republicans Are To Blame
 *   Rep. Jordan: DOJ, FBI Orchestrated Plan To Prevent Donald Trump From Becoming President
-*   NSC's Anton: Near Destruction of Physical ISIS Caliphate, "Miles Ahead" Of Prior Administration
 
 *   Politics
 *   Policy
