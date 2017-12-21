@@ -194,7 +194,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Sleepwear
     *   Skirts &. Skorts
     *   Shorts
-    *   Blazers &. Jackets
+    *   Blazers
     *   Swimsuits
     *   Backpacks &. Lunch Boxes
     *   Shoes
@@ -210,7 +210,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Jeans
     *   Sleepwear
     *   Shorts
-    *   Blazers &. Jackets
+    *   Blazers
     *   Swimwear
     *   Backpacks &. Lunch Boxes
     *   Activewear
@@ -550,7 +550,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Sleepwear
         *   Skirts &. Skorts
         *   Shorts
-        *   Blazers &. Jackets
+        *   Blazers
         *   Swimsuits
         *   Backpacks &. Lunch Boxes
         *   Shoes
@@ -566,7 +566,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Jeans
         *   Sleepwear
         *   Shorts
-        *   Blazers &. Jackets
+        *   Blazers
         *   Swimwear
         *   Backpacks &. Lunch Boxes
         *   Activewear
@@ -783,7 +783,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
 
 Receive 50% off full-price styles!
 
-code: SLED pin: 9041 DETAILS
+code: SEASON pin: 4319 DETAILS
 
 Customer Service Menu
 
