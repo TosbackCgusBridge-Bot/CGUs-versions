@@ -292,7 +292,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**60% OFF** \+ **FREE SHIPPING OVER $50** **CHRISTMAS DELIVERY USE 2 DAY BY 12/20 10 AM EST DETAILS**
+**60% OFF** \+ **FREE SHIPPING OVER $50** **CHRISTMAS DELIVERY USE 1 DAY BY 12/21 10 AM EST DETAILS**
 
 *   My Account My Account Login Register
 
@@ -535,24 +535,20 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Promotions Get It By Christmas! ORDER BY TODAY AT 10:00 AM EST WITH 2 DAY SHIPPING DETAILS  
+ON ORDERS OVER $50 Search Catalog Search Promotions Get It By Christmas! ORDER BY TODAY AT 10:00 AM EST WITH 1 DAY SHIPPING DETAILS  
 Shop Girls Shop Guys Get In Store Coupon
 
 *   Fleece Favorites Starting at $7.87
 *   Outerwear Obsessed Starting at $13.87
-*   Giftable Jeans Starting at $13.87
+*   Giftable Jeans Starting at $17.87
 *   Long Sleeves Starting at $6.87
 
 *   Fleece Favorites Starting at $15.00
-*   Warm + Rugged Starting at $2.87
+*   Warm + Rugged Starting at $4.87
 *   Giftable Jeans Starting at $10.00
 *   Top Tees Starting at $6.87
 
-shop girls shop guys shop sabrina's picks HOLIDAY PLAYLIST learn more Shop Gifts For Her Shop Gifts For Him Find a Store <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>.
-
-CLOSE
-
-HOLIDAY HELPDESK FOR STORE HOURS, SHIPPING &. MORE VISIT OUR HOLIDAY HELPDESK SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up © 2017 Aeropostale. All Rights Reserved. SIGN UP For AERO TEXTS Join the party!  
+shop girls shop guys shop sabrina's picks HOLIDAY PLAYLIST learn more Shop Gifts For Her Shop Gifts For Him Find a Store <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up © 2017 Aeropostale. All Rights Reserved. SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
