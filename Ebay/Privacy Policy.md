@@ -296,9 +296,9 @@ Gegebenenfalls geben wir Ihre personenbezogenen Daten an andere Mitglieder der e
 *   An kooperierende Finanzinstitute, damit diese Ihnen zusammen mit uns gemeinsame Inhalte und Dienstleistungen (wie z.B. die Neuanmeldung zu Services, die Abwicklung von Transaktionen und die Erbringung von Kundenservice) bereitstellen können. Diese  Finanzinstitute verwenden Ihre personenbezogenen Informationen allerdings nur dann für die Übermittlung von Marketingmitteilungen an Sie, wenn Sie deren Dienste auch tatsächlich in Anspruch genommen haben.
     
 
-**An Strafverfolgungsbehörden, an gesetzlich autorisierte Dritte** **oder ihm Rahmen von Gerichtsverfahren**
+**An Strafverfolgungsbehörden, an gesetzlich autorisierte Dritte** **oder im Rahmen von Gerichtsverfahren**
 
-*   Zur Einhaltung unserer gesetzlichen Verpflichtungen, zur Durchsetzung unserer Allgemeinen Geschäftsbedingungen, zur Verteidigung von rechtlichen Ansprüchen, dass ein Angebot oder sonstige Inhalte auf unseren Webseiten Rechte Dritter verletzen, oder um die Rechte, das Eigentums oder die Sicherheit von Dritten zu schützen.
+*   Zur Einhaltung unserer gesetzlichen Verpflichtungen, zur Durchsetzung unserer Allgemeinen Geschäftsbedingungen, zur Verteidigung von rechtlichen Ansprüchen, dass ein Angebot oder sonstige Inhalte auf unseren Webseiten Rechte Dritter verletzen, oder um die Rechte, das Eigentum oder die Sicherheit von Dritten zu schützen.
     
 *   An Strafverfolgungsbehörden, staatliche Stellen oder autorisierte Dritte aufgrund eines Auskunftsersuchens in Zusammenhang mit einem Ermittlungsverfahren oder dem Verdacht auf eine Straftat, eine rechtswidrige Handlung oder eine andere Handlungen, aus der sich für uns, Sie oder einen anderen Nutzer eine rechtliche Haftung ergeben kann. In solchen Fällen werden wir an die betreffende Stelle nur die für die Untersuchung oder das Auskunftsersuchen nach unserer Einschätzung relevanten Daten wie Name, Ort, Postleitzahl, Telefonnummer, E-Mail-Adresse, bisherige Nutzernamen, IP-Adresse, Betrugsbeschwerden, Gebots- und Angebotsübersicht weitergeben.
     
