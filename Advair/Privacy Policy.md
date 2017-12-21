@@ -446,7 +446,7 @@ Menu
         *   MBA and Graduate Students
         *   Esprit finance program
         *   Esprit commercial program
-        *   Esprit R&D and Physician Program
+        *   Esprit R&D Data Leaders and Physician Program
         *   Esprit procurement program
         *   Residencies and Fellowships
         *   R&D postdoctoral global training program
