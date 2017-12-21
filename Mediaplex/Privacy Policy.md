@@ -52,9 +52,9 @@
     *   Integrations
     *   Join Us
 
-GET TO THE HEART  
-OF WHAT MATTERS  
-TO MILLIONS Watch Our Story
+THE PROMISE OF  
+1:1 DIGITAL MARKETING  
+BOLDLY DELIVERED Watch Our Story
 
 *   160M+ Real People You Can  
     Message Right Now
