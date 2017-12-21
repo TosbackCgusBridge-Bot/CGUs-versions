@@ -29,11 +29,11 @@ Learn how PayPal makes it easy to shop and send money to family and friends.
 
 Shop, send money, and pay bills without entering your payment info again and again
 
-With 24/7 fraud detection, we work around the clock to keep your account secure
+24/7 fraud detection means we work around the clock to help keep your account secure.
 
-Pay your way, whether it’s credit, debit, or your bank account
+Pay your way, whether it’s credit, debit, or your bank account.
 
-Speed through checkout at millions of brands that accept PayPal
+Speed through checkout at millions of brands that accept PayPal.
 
 Sign Up for Free Business
 
@@ -43,11 +43,11 @@ Start accepting all kinds of payments with one PayPal business account.
 
 Get paid on your website or app, in your store or on-the-go, and by email or phone
 
-Accept cards, PayPal, Apple Pay, PayPal Credit and much more
+Accept cards, PayPal, Apple Pay, PayPal Credit and much more.
 
 Borrow for your business with affordable business loans. Learn more
 
-Get live support and seller protection
+Get live support and seller protection.
 
 Get Started Gift money with ease.
 
@@ -118,4 +118,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=e2393ca333f55&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=c8c8618c204b4f588db3e35e3dedb8c9&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273&xt=7822&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=80bebb65377b&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=23fab83384be4c43a5d4bc07e0bcbd3b&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273&xt=7823&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
