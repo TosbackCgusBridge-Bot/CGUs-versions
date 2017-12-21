@@ -45,7 +45,6 @@ Please read this Privacy Policy to learn more about:
 *   CONSENT TO TRANSFER
 *   CHANGES TO THIS PRIVACY POLICY
 *   QUESTIONS OR COMMENTS
-*   RESOLVING PRIVACY DISPUTES
 *   CALIFORNIA RESIDENTS - YOUR CA PRIVACY RIGHTS
 
 SUMMARY
@@ -204,10 +203,6 @@ Chegg, Inc.
 Attn: Privacy Policy Issues  
 3990 Freedom Circle  
 Santa Clara, CA 95054  
-
-RESOLVING PRIVACY DISPUTES
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 CALIFORNIA RESIDENTS - YOUR CA PRIVACY RIGHTS
 
