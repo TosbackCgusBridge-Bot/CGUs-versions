@@ -1,6 +1,6 @@
 <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <a href="http://www.omniture.com" title="Web Analytics"><img src="http://mlbreloaded.112.2O7.net/b/ss/mlbreloaded/1/H.13--NS/0?\[AQB\]&cdp=3&\[AQE\]" height="1" width="1" border="0" alt="" /></a>. To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 한국어 日本語 Español
 
-SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuctionFantasyPlay BallTeams
+Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Play Ball Teams
 
 *   Scores
 *   News News News
@@ -107,11 +107,11 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     *   MLB.com Ballpark app
     *   MLB Fans App
     *   Beat the Streak
-    *   MLB.com Home Run Derby
-    *   MLB.com Line Drive
+    *   MLB Home Run Derby
+    *   MLB Line Drive
     *   R.B.I. Baseball 17
-    *   MLB.com Franchise MVP
-    *   FAQMLB.com Line Drive
+    *   MLB Franchise MVP
+    *   FAQ
 *   Shop Shop Shop
     
     *   Jerseys
@@ -152,9 +152,9 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
 *   Fantasy Fantasy Fantasy
     *   Beat the Streak
     *   R.B.I. Baseball 17
-    *   MLB.com Home Run Derby
-    *   MLB.com Line Drive
-    *   MLB.com Franchise MVP
+    *   MLB Home Run Derby
+    *   MLB Line Drive
+    *   MLB Franchise MVP
     *   Player News &. Updates
     *   Closer Report
     *   Injury Report
