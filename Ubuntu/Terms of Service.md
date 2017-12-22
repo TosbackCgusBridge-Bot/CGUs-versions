@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Keynote: Maximizing developer velocity with containers ›
+*   Security Team Weekly Summary: December 21, 2017 ›
 *   Early experiences with PXE (net-)boot of KVM VMs on Ubuntu for s390x ›
 *   Canonical welcome Spotify as a snap for Linux users ›
 *   Top snaps in November: blockchain, IDEs and games ›
-*   Ubuntu Server Development Summary – 19 Dec 2017 ›
-*   Your first robot: A beginner’s guide to ROS and Ubuntu Core \[1/5\] ›
