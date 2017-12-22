@@ -8,18 +8,52 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Vince Shoes
-    *   Vince Up to 55% Off
-    *   BCBGMAXAZRIA
-    *   Vince Men
+    *   The Active Shop
+    *   Men's Active Shop
+    *   Hit the Gym: Nylon Backpacks, Duffels &. More
+    *   Performance Sun ft. Nike
+    *   Get Out &. Play: Kids' Activewear
+    *   The Active Shop: Recovery Essentials
+    *   Lucky Brand Including Plus
+    *   MAC Cosmetics
+    *   Lucky Brand Shoes
+    *   Lucky Brand Swim
+    *   Lucky Brand Men
+    *   Lucky Brand Handbags
+    *   Sisters Sweaters Up to 75% Off
+    *   Lumier &. Bariano
+    *   Steven by Steve Madden
+    *   Sensemill
+    *   Back to Black: Party Styles Starting at $20
+    *   Quay Sun Under $25
+    *   Sol Sana
+    *   Savvy Cie Jewelry Up to 85% Off
+    *   Made in Israel: Sterling Silver &. More Under $80
+    *   Anna Footwear Starting at $15
+    *   X-Ray
+    *   On Trend: Dress Sneakers Up to 65% Off
+    *   Unsimply Stitched Up to 75% Off
+    *   Broletto
+    *   Free Shipping: Designer Rugs &. More from $20
+    *   Phone Cases We Love
+    *   Lucky Brand Kids &. More
+    *   Snow Day-Ready: Kids' Outerwear
+    *   Anama Under $40
+    *   Seychelles
+    *   Oomphies
+    *   Martinni Beauty Professional Masks Up to 85% Off
     *   Cashmere Up to 70% Off
     *   'Tis the Season: Our Favorite Boots
     *   Slippers for the Family Starting at $20
-    *   Stylish Steals: Coats &. Jackets Under $70
     *   Last Chance: Men's Designer Steals
     *   The Outdoorsman: Boots Starting at $40
+    
     *   Last Chance: Kids' Gifts
     *   Last Chance: Kids' Shoes
+    *   Vince Shoes
+    *   Vince Up to 55% Off
+    *   Vince Men
+    *   BCBGMAXAZRIA
     *   Etienne Marcel Up to 85% Off
     *   Charles by Charles David
     *   Dress Forum Up to 85% Off
@@ -38,100 +72,92 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bulova Watches Up to 70% Off
     *   Cult of Individuality
     *   IT Luggage
-    *   Tech Gadgets Starting at $15
     *   Meal Prep Essentials Under $20
     *   Dr. Martens Kids
     *   Great Looks for Little Gents
     *   Great Looks for Little Ladies
     *   Elemis Skin Care
-    *   Bailey 44
-    
-    *   Seven7 Under $35
+    *   Tech Gadgets Starting at $15
     *   Color Pop: Wall Murals &. Decals
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
     *   Elevate Your Home: Art &. Accents
     *   Storage Must-Haves Starting at $10
     *   Everyday Kitchen Essentials Starting at $10
     *   Natori Lingerie &. Sleep
-    *   Vince Camuto
-    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
-    *   Designers We Love ft. Nanette Lepore
     *   Free Shipping: Gold &. Silver Jewelry Up to 60% Off
-    *   Aratta Up to 80% Off
-    *   Diesel Shoes
-    *   Gentle Souls by Kenneth Cole
-    *   La Moda Swim
-    *   Holiday Glam: Dresses Under $50
-    *   SeaVees
-    *   Sigerson Morrison
-    *   ZAC Zac Posen Handbags &. More
     *   Zoe Ayla Cosmetics Up to 75% Off
     *   Beauty Must-Haves ft. Grown Alchemist
+    
     *   Luz Lashes Starting at $10
     *   English Laundry
     *   Dress Shirts Under $30
     *   Hart Schaffner Marx Up to 50% Off
-    *   The Gift of Time: Watches Up to 50% Off
     *   Buks by Walk-Over at $40
     *   PRAISE &. More
     *   Limeapple
     *   Hoo Shoes
     *   Splendid Kids Starting at $10
     *   Burnside Under $20
-    *   Birkenstock
-    *   14K Gold Jewelry Steals from Karat Rush
     *   BECCA Cosmetics
     *   Sky Organics
     *   SPYDER Men's Outerwear
-    
     *   Julep Beauty Products &. Nail Polish
     *   ECCO Men
     *   Public Opinion &. More Under $35
     *   Jared Lang Shoes
     *   Bespoke Up to 80% Off
     *   Unsimply Stitched Lounge, Underwear &. Socks
-    *   Birkenstock Kids
-    *   Sovereign Code Boys Starting at $10
-    *   Juicy Couture Girls Up to 65% Off
     *   Free Shipping: Fresh Wall Art
     *   Beer Bottle &. Wine Cork Decor
     *   Beauty Must-Haves Starting at $10
     *   Free Shipping: Bedding Essentials Blowout
-    *   Men's Shoes Up to 60% Off
-    *   Men's Final Few Up to 75% Off
-    *   Magnanni
-    *   Jimmy Taverniti
-    *   Slate &. Stone
-    *   Men's Must-Have Jewelry
     *   Clinical Skin Care Up to 75% Off
     *   Cortex Hair Tools Up to 70% Off
-    *   Coastal Under $30
-    *   Mirenesse Australia Up to 70% Off
-    *   Korean Beauty: MEDIHEAL Skin Care
     *   Free Shipping: Bedding Basics for the New Year
-    *   Curtains Starting at $20
+    *   Stylish Steals: Coats &. Jackets Under $70
     *   Free Shipping: Fresh Wall Art Starting at $20
     *   Free Shipping: Glam Home Accents Up to 70% Off
     *   Free Shipping: Chic Bedding Steals
-    *   Cocktail Kits &. More by W&P Design
-    *   Record Players &. More Starting at $40
     *   Free Shipping: Budget-Friendly Accent Furniture
-    *   Lace Up: On-Trend Sneakers &. Oxfords for Her
-    *   Dolce Cabo Up to 75% Off
-    *   Franco Sarto
-    *   ECCO
+    *   Curtains Starting at $20
+    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
+    *   Designers We Love ft. Nanette Lepore
+    *   Aratta Up to 80% Off
+    *   Gentle Souls by Kenneth Cole
+    *   14K Gold Jewelry Steals from Karat Rush
 *   WomenShop Sale Events
     
-    *   Vince Shoes
-    *   Vince Up to 55% Off
-    *   BCBGMAXAZRIA
+    *   The Active Shop
+    *   Hit the Gym: Nylon Backpacks, Duffels &. More
+    *   Performance Sun ft. Nike
+    *   Lucky Brand Including Plus
+    *   MAC Cosmetics
+    *   Lucky Brand Shoes
+    *   Lucky Brand Swim
+    *   Lucky Brand Handbags
+    *   Sisters Sweaters Up to 75% Off
+    *   Lumier &. Bariano
+    *   Steven by Steve Madden
+    *   Sensemill
+    *   Back to Black: Party Styles Starting at $20
+    *   Quay Sun Under $25
+    *   Sol Sana
+    *   Savvy Cie Jewelry Up to 85% Off
+    *   Made in Israel: Sterling Silver &. More Under $80
+    *   Anna Footwear Starting at $15
+    *   Anama Under $40
+    *   Seychelles
+    *   Martinni Beauty Professional Masks Up to 85% Off
     *   Cashmere Up to 70% Off
     *   'Tis the Season: Our Favorite Boots
     *   Slippers for the Family Starting at $20
-    *   Stylish Steals: Coats &. Jackets Under $70
+    *   Vince Shoes
+    *   Vince Up to 55% Off
+    *   BCBGMAXAZRIA
     *   Etienne Marcel Up to 85% Off
     *   Charles by Charles David
     *   Dress Forum Up to 85% Off
+    
     *   Warrior by Danica Patrick Active
     *   Bettye Muller
     *   Winter Ready: Wraps, Scarves &. More
@@ -145,40 +171,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bulova Watches Up to 70% Off
     *   IT Luggage
     *   Elemis Skin Care
-    *   Bailey 44
-    *   Seven7 Under $35
     *   Natori Lingerie &. Sleep
-    *   Vince Camuto
-    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
-    
-    *   Designers We Love ft. Nanette Lepore
     *   Free Shipping: Gold &. Silver Jewelry Up to 60% Off
-    *   Aratta Up to 80% Off
-    *   Diesel Shoes
-    *   Gentle Souls by Kenneth Cole
-    *   La Moda Swim
-    *   Holiday Glam: Dresses Under $50
-    *   SeaVees
-    *   Sigerson Morrison
-    *   ZAC Zac Posen Handbags &. More
     *   Zoe Ayla Cosmetics Up to 75% Off
     *   Beauty Must-Haves ft. Grown Alchemist
     *   Luz Lashes Starting at $10
-    *   The Gift of Time: Watches Up to 50% Off
-    *   Birkenstock
-    *   14K Gold Jewelry Steals from Karat Rush
     *   BECCA Cosmetics
     *   Sky Organics
     *   Julep Beauty Products &. Nail Polish
     *   Beauty Must-Haves Starting at $10
     *   Clinical Skin Care Up to 75% Off
     *   Cortex Hair Tools Up to 70% Off
-    *   Mirenesse Australia Up to 70% Off
-    *   Korean Beauty: MEDIHEAL Skin Care
-    *   Lace Up: On-Trend Sneakers &. Oxfords for Her
-    *   Dolce Cabo Up to 75% Off
-    *   Franco Sarto
-    *   ECCO
+    *   Stylish Steals: Coats &. Jackets Under $70
+    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
+    *   Designers We Love ft. Nanette Lepore
+    *   Aratta Up to 80% Off
+    *   Gentle Souls by Kenneth Cole
+    *   14K Gold Jewelry Steals from Karat Rush
     
     Shop By Category
     *   Clothing
@@ -191,21 +200,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   MenShop Sale Events
     
-    *   Vince Men
+    *   Men's Active Shop
+    *   Performance Sun ft. Nike
+    *   Lucky Brand Men
+    *   X-Ray
+    *   On Trend: Dress Sneakers Up to 65% Off
+    *   Unsimply Stitched Up to 75% Off
+    *   Broletto
     *   Last Chance: Men's Designer Steals
     *   The Outdoorsman: Boots Starting at $40
+    *   Vince Men
     *   Vince Men's Shoes
     *   Valentino Men
     *   Bulova Watches Up to 70% Off
     *   Cult of Individuality
+    
     *   IT Luggage
     *   English Laundry
     *   Dress Shirts Under $30
     *   Hart Schaffner Marx Up to 50% Off
-    *   The Gift of Time: Watches Up to 50% Off
     *   Buks by Walk-Over at $40
     *   PRAISE &. More
-    
     *   Burnside Under $20
     *   SPYDER Men's Outerwear
     *   ECCO Men
@@ -213,13 +228,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jared Lang Shoes
     *   Bespoke Up to 80% Off
     *   Unsimply Stitched Lounge, Underwear &. Socks
-    *   Men's Shoes Up to 60% Off
-    *   Men's Final Few Up to 75% Off
-    *   Magnanni
-    *   Jimmy Taverniti
-    *   Slate &. Stone
-    *   Men's Must-Have Jewelry
-    *   Coastal Under $30
     
     Shop By Category
     *   Clothing
@@ -228,50 +236,53 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Get Out &. Play: Kids' Activewear
+    *   Lucky Brand Kids &. More
+    *   Snow Day-Ready: Kids' Outerwear
+    *   Oomphies
     *   Last Chance: Kids' Gifts
     *   Last Chance: Kids' Shoes
+    
     *   Dr. Martens Kids
     *   Great Looks for Little Gents
     *   Great Looks for Little Ladies
     *   Limeapple
-    
     *   Hoo Shoes
     *   Splendid Kids Starting at $10
-    *   Birkenstock Kids
-    *   Sovereign Code Boys Starting at $10
-    *   Juicy Couture Girls Up to 65% Off
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Boys Sizes 2T-7
     *   Girls Sizes 7-16
+    *   Boys Sizes 8-20
     *   Girls' Shoes
     *   Baby Girl
-    *   Boys Sizes 8-20
-    *   Baby Boy
     *   Toys
+    *   Baby Boy
     *   Boys' Shoes
+    *   Kids Accessories
 *   HomeShop Sale Events
     
-    *   Tech Gadgets Starting at $15
+    *   The Active Shop: Recovery Essentials
+    *   Free Shipping: Designer Rugs &. More from $20
+    *   Phone Cases We Love
     *   Meal Prep Essentials Under $20
+    *   Tech Gadgets Starting at $15
     *   Color Pop: Wall Murals &. Decals
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
     *   Elevate Your Home: Art &. Accents
     *   Storage Must-Haves Starting at $10
     *   Everyday Kitchen Essentials Starting at $10
+    
     *   Free Shipping: Fresh Wall Art
     *   Beer Bottle &. Wine Cork Decor
-    
     *   Free Shipping: Bedding Essentials Blowout
     *   Free Shipping: Bedding Basics for the New Year
-    *   Curtains Starting at $20
     *   Free Shipping: Fresh Wall Art Starting at $20
     *   Free Shipping: Glam Home Accents Up to 70% Off
     *   Free Shipping: Chic Bedding Steals
-    *   Cocktail Kits &. More by W&P Design
-    *   Record Players &. More Starting at $40
     *   Free Shipping: Budget-Friendly Accent Furniture
+    *   Curtains Starting at $20
     
     Shop By Category
     *   Home Decor
@@ -284,29 +295,29 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   MAC Cosmetics
+    *   Martinni Beauty Professional Masks Up to 85% Off
     *   Leyla Milani Hair Tools
     *   The Beauty Crop
     *   RapidLash
     *   Elemis Skin Care
     *   Zoe Ayla Cosmetics Up to 75% Off
     *   Beauty Must-Haves ft. Grown Alchemist
+    
     *   Luz Lashes Starting at $10
     *   BECCA Cosmetics
-    
     *   Sky Organics
     *   Julep Beauty Products &. Nail Polish
     *   Beauty Must-Haves Starting at $10
     *   Clinical Skin Care Up to 75% Off
     *   Cortex Hair Tools Up to 70% Off
-    *   Mirenesse Australia Up to 70% Off
-    *   Korean Beauty: MEDIHEAL Skin Care
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Hair Care
-    *   Bath &. Body
     *   Tools &. Accessories
+    *   Bath &. Body
     *   Nails
     *   Beauty Accessories
     *   Supplements
