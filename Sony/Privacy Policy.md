@@ -132,7 +132,7 @@ Play We Played “Choose Your Hero” Video hotspot
 
 Untouched for decades, the legendary game always finds a way! Download and play the #JUMANJI mobile game now.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -164,35 +164,35 @@ Close
 
 With the PS4™Pro
 
-<img class="bg-img" class="url(/en\_us/media/content/PS4Pro-Snow-600x600\_y8bZZoT.jpg);" alt="PS4 Pro">. The Cast and Crew of “Jumanji: Welcome to the Jungle” Talk About the Making of the Movie
+<img class="bg-img" class="url(/en\_us/media/content/PS4Pro-Snow-600x600\_y8bZZoT.jpg);" alt="PS4 Pro">. The Stars of “Jumanji: Welcome to the Jungle” Talk About Making the Movie
 
 See It In Theaters This Week
 
 Close
 
-*   Share The Cast and Crew of “Jumanji: Welcome to the Jungle” Talk About the Making of the Movie on Facebook
-*   Share The Cast and Crew of “Jumanji: Welcome to the Jungle” Talk About the Making of the Movie on Twitter
-*   Copy URL to share The Cast and Crew of “Jumanji: Welcome to the Jungle” Talk About the Making of the Movie
+*   Share The Stars of “Jumanji: Welcome to the Jungle” Talk About Making the Movie on Facebook
+*   Share The Stars of “Jumanji: Welcome to the Jungle” Talk About Making the Movie on Twitter
+*   Copy URL to share The Stars of “Jumanji: Welcome to the Jungle” Talk About Making the Movie
 
-Play The Cast and Crew of “Jumanji: Welcome to the Jungle” Talk About the Making of the Movie Video
+Play The Stars of “Jumanji: Welcome to the Jungle” Talk About Making the Movie Video
 
-Sony on YouTube - The Cast and Crew of “Jumanji: Welcome to the Jungle” Talk About the Making of the Movie
+Sony on YouTube - The Stars of “Jumanji: Welcome to the Jungle” Talk About Making the Movie
 
-Play The Cast and Crew of “Jumanji: Welcome to the Jungle” Talk About the Making of the Movie Video hotspot
+Play The Stars of “Jumanji: Welcome to the Jungle” Talk About Making the Movie Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/JUMANJI-600x600.jpg);" alt="JUMANJI">. Find the Perfect Present for Every Music Lover on Your List
+<img class="bg-img" class="url(/en\_us/media/content/JUMANJI-600x600.jpg);" alt="JUMANJI">. The Best Winter Experiences Come with Rewards
 
-Check It Out
+Start Earning With the New Sony Card℠
 
 Close
 
-*   Share Find the Perfect Present for Every Music Lover on Your List on Facebook
-*   Share Find the Perfect Present for Every Music Lover on Your List on Twitter
-*   Copy URL to share Find the Perfect Present for Every Music Lover on Your List
+*   Share The Best Winter Experiences Come with Rewards on Facebook
+*   Share The Best Winter Experiences Come with Rewards on Twitter
+*   Copy URL to share The Best Winter Experiences Come with Rewards
 
-Check It Out
+Start Earning With the New Sony Card℠
 
-<img class="bg-img" class="url(/en\_us/media/content/AudioGiftGuide-600x600\_fiE73vx.jpg);" alt="Audio Gift Guide">.
+<img class="bg-img" class="url(/en\_us/media/content/18298\_Sony-Card\_Online-Holiday-Media\_600x600\_W2\_r02\_Ski\_8A18sUc.jpg);" alt="Sony Card">.
 
 View h.ear on 2 Mini Wireless headphones &. XZ1 Compact on Instagram
 
@@ -212,13 +212,13 @@ Close
 
 .@Cilla\_Presley says ‘Christmas with @ElvisPresley &. the @rpoonline’ helps fulfill The King’s musical vision. The new album, available now, is a must-hear this holiday season.
 
-18 hours ago
+1 day ago
 
 View Tweet
 
 Create a Playlist for Any Holiday Celebration
 
-Start Now
+Try It Now
 
 Close
 
@@ -226,7 +226,7 @@ Close
 *   Share Create a Playlist for Any Holiday Celebration on Twitter
 *   Copy URL to share Create a Playlist for Any Holiday Celebration
 
-Start Now
+Try It Now
 
 <img class="bg-img" class="url(/en\_us/media/content/HolidayPlaylist-600x600.jpg);" alt="Holiday Playlist Generator ">. It's Beginning To Look A Lot Like Takeout
 
@@ -292,7 +292,7 @@ Check Out Life Space UX
 
 Don’t forget to shop through The Marketplace and earn #SonyRewardsPoints for PlayStation®4 systems, games &. more.
 
-19 hours ago
+1 day ago
 
 View Tweet
 
@@ -368,7 +368,7 @@ See Our Video Camcorders
 
 How do you "capture the present" through photography? Show us for a chance to win Sony gear.
 
-19 hours ago
+1 day ago
 
 View Tweet
 
