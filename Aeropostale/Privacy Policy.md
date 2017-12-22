@@ -22,7 +22,7 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Bottoms ) Bottoms
 *   Dresses + Rompers
 *   Jackets + Vests
-*   Shoes + Accessories
+*   Accessories
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
 *   Trending
@@ -182,7 +182,6 @@ Close submenu ( Featured ) Featured
 Close submenu ( Tops ) Tops
 
 *   View All
-*   Tees
 *   Tanks
 *   Hoodies + Sweatshirts
 *   Sleep Tops
@@ -250,26 +249,29 @@ Close submenu ( Girls ) Girls
 
 *   View All
 *   New to Clearance
-*   Under $10
+*   Shop $6.99
+*   Shop $7.99
+*   Shop $9.99
 *   Tees + Polos
 *   Camis + Tanks
 *   Fashion Tops
 *   Hoodies + Jackets
 *   Shirts + Sweaters
 *   Dresses + Skirts
-*   Jeans
+*   Jeans + Pants
 *   Joggers + Sweats
 *   Leggings + Active
 *   Shorts
 *   Swim
-*   Accessories
 
 Close submenu ( Guys ) Guys
 
 *   View All
 *   New to Clearance
-*   Under $10
+*   Shop $7.99
+*   Shop $9.99
 *   Tees + Tanks
+*   Long Sleeve
 *   Polos
 *   Shirts + Sweaters
 *   Hoodies + Jackets
@@ -281,7 +283,9 @@ Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
 *   New to Clearance
-*   Under $10
+*   Shop $1.99
+*   Shop $5.99
+*   Shop $7.99
 *   Active
 *   Lounge
 *   Tees
@@ -292,7 +296,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**60% OFF** \+ **FREE SHIPPING OVER $50** **CHRISTMAS DELIVERY USE 1 DAY BY 12/21 10 AM EST DETAILS**
+**50-70% OFF** \+ **FREE SHIPPING OVER $50** **70-80% OFF ALL CLEARANCE**
 
 *   My Account My Account Login Register
 
@@ -340,7 +344,7 @@ Menu Find a Store Aeropostale
         *   Shorts
     *   Dresses + Rompers
     *   Jackets + Vests
-    *   Shoes + Accessories
+    *   Accessories
     
     *   Live Love Dream
         *   View All
@@ -429,7 +433,6 @@ Menu Find a Store Aeropostale
     
     *   Tops
         *   View All
-        *   Tees
         *   Tanks
         *   Hoodies + Sweatshirts
         *   Sleep Tops
@@ -489,25 +492,28 @@ Menu Find a Store Aeropostale
     *   Girls
         *   View All
         *   New to Clearance
-        *   Under $10
+        *   Shop $6.99
+        *   Shop $7.99
+        *   Shop $9.99
         *   Tees + Polos
         *   Camis + Tanks
         *   Fashion Tops
         *   Hoodies + Jackets
         *   Shirts + Sweaters
         *   Dresses + Skirts
-        *   Jeans
+        *   Jeans + Pants
         *   Joggers + Sweats
         *   Leggings + Active
         *   Shorts
         *   Swim
-        *   Accessories
     
     *   Guys
         *   View All
         *   New to Clearance
-        *   Under $10
+        *   Shop $7.99
+        *   Shop $9.99
         *   Tees + Tanks
+        *   Long Sleeve
         *   Polos
         *   Shirts + Sweaters
         *   Hoodies + Jackets
@@ -518,7 +524,9 @@ Menu Find a Store Aeropostale
     *   Live Love Dream
         *   View All
         *   New to Clearance
-        *   Under $10
+        *   Shop $1.99
+        *   Shop $5.99
+        *   Shop $7.99
         *   Active
         *   Lounge
         *   Tees
@@ -535,20 +543,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Promotions Get It By Christmas! ORDER BY TODAY AT 10:00 AM EST WITH 1 DAY SHIPPING DETAILS  
-Shop Girls Shop Guys Get In Store Coupon
-
-*   Fleece Favorites Starting at $7.87
-*   Outerwear Obsessed Starting at $13.87
-*   Giftable Jeans Starting at $17.87
-*   Long Sleeves Starting at $6.87
-
-*   Fleece Favorites Starting at $15.00
-*   Warm + Rugged Starting at $4.87
-*   Giftable Jeans Starting at $10.00
-*   Top Tees Starting at $6.87
-
-shop girls shop guys shop sabrina's picks HOLIDAY PLAYLIST learn more Shop Gifts For Her Shop Gifts For Him Find a Store <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up © 2017 Aeropostale. All Rights Reserved. SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Promotions Shop Girls Clearance Shop Guys Clearance Shop LLD Clearance Promotions Shop Girls Shop Guys shop gifts for her shop gifts for him shop gifts for him Visit Our Holiday Help Desk shop now find a store to enter Shop dresses <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -579,3 +574,5 @@ Stay Connected
 *   Live ChatCall Us
 *   Refer a Friend
 *   College Student Discount
+
+© 2017 Aeropostale. All Rights Reserved.
