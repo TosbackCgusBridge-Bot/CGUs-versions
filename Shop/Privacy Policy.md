@@ -332,8 +332,6 @@ Special Financing Available
 
 Lenovo ThinkSystem >.
 
-Special Financing Available
-
 *   1
 *   2
 
@@ -341,9 +339,9 @@ ThinkPad T470s
 
 Boost Your Productivity With Performance You Can Count On
 
-Small Business
+All New Lenovo Pro Store
 
-Devices, resources, and special VIP deals that can make a difference for your business.
+Let Lenovo be your small business partner with an all new Pro Portal.
 
 ThinkPad X1 Carbon
 
