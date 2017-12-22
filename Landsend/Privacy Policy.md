@@ -56,6 +56,8 @@ menu Close 0 Free Shipping on $50+  |  Offers
 *   Women FEATURED SHOPS
     
     *   New Arrivals
+    *   Coats of Winter
+    *   Holiday Dressing
     *   Gifts For Her
     *   The Starfish Collection
     *   Soft Leisure Collection
@@ -113,6 +115,8 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
     *   The Pants Shop
+    *   Flannel Favorites
+    *   Shirt Finder
     *   The Getaway Collection
     *   Holiday Style Guide
     *   Sale
@@ -194,7 +198,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Sleepwear
     *   Skirts &. Skorts
     *   Shorts
-    *   Blazers
+    *   Blazers &. Jackets
     *   Swimsuits
     *   Backpacks &. Lunch Boxes
     *   Shoes
@@ -210,7 +214,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Jeans
     *   Sleepwear
     *   Shorts
-    *   Blazers
+    *   Blazers &. Jackets
     *   Swimwear
     *   Backpacks &. Lunch Boxes
     *   Activewear
@@ -227,6 +231,8 @@ menu Close 0 Free Shipping on $50+  |  Offers
     FEATURED SHOPS
     *   Weather Channel Collection
     *   Women's Coat Finder
+    *   Women's Coats of Winter
+    *   Men's Squall System Builder
     *   Hats, Gloves &. Scarves
     *   Snow Boots
     *   Long Underwear
@@ -312,15 +318,15 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Flannel Bedding
     *   Sale
     
-    Christmas Shop >.
+    More for the Home >.
     
-    *   Christmas Stockings
-    *   Christmas Ornaments &. Tree Skirts
-    *   Christmas Wreaths
-    *   Christmas Bedding
-    *   Christmas Candy &. Treats
-    *   Holiday Decor
+    *   Outdoor Living
+    *   Storage &. Organization
+    *   Door Mats
+    *   Luggage &. Bags
+    *   Canvas Totes
     *   Entertaining
+    *   Decor
     
     BEDDING >.
     
@@ -339,21 +345,13 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Beach Towels
     
     KIDS ROOM >.
-    
     *   Kids Bedding
     *   Kids Towels
     *   Seasonal Totes
     *   Toys &. Gifts
     *   Bean Bag Chairs
     *   Sleeping Bags
-    *   Baby Blankets
-    
-    More for the Home >.
-    *   Outdoor Living
-    *   Storage &. Organization
-    *   Door Mats
-    *   Luggage &. Bags
-    *   Canvas TotesDOG SHOP >.
+    *   Baby BlanketsDOG SHOP >.
 *    Gifts FEATURED SHOPS
     
     *   Holiday Shop
@@ -418,6 +416,8 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
+        *   Coats of Winter
+        *   Holiday Dressing
         *   Gifts For Her
         *   The Starfish Collection
         *   Soft Leisure Collection
@@ -473,6 +473,8 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
         *   The Pants Shop
+        *   Flannel Favorites
+        *   Shirt Finder
         *   The Getaway Collection
         *   Holiday Style Guide
         *   Sale
@@ -550,7 +552,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Sleepwear
         *   Skirts &. Skorts
         *   Shorts
-        *   Blazers
+        *   Blazers &. Jackets
         *   Swimsuits
         *   Backpacks &. Lunch Boxes
         *   Shoes
@@ -566,7 +568,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Jeans
         *   Sleepwear
         *   Shorts
-        *   Blazers
+        *   Blazers &. Jackets
         *   Swimwear
         *   Backpacks &. Lunch Boxes
         *   Activewear
@@ -580,6 +582,8 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Back
         *   Weather Channel Collection
         *   Women's Coat Finder
+        *   Women's Coats of Winter
+        *   Men's Squall System Builder
         *   Hats, Gloves &. Scarves
         *   Snow Boots
         *   Long Underwear
@@ -675,15 +679,15 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Bedding Basics
         *   Flannel Bedding
         *   Sale
-    *   Christmas Shop
+    *   More for the Home
         *   Back
-        *   Christmas Stockings
-        *   Christmas Ornaments &. Tree Skirts
-        *   Christmas Wreaths
-        *   Christmas Bedding
-        *   Christmas Candy &. Treats
-        *   Holiday Decor
+        *   Outdoor Living
+        *   Storage &. Organization
+        *   Door Mats
+        *   Luggage &. Bags
+        *   Canvas Totes
         *   Entertaining
+        *   Decor
     *   BEDDING
         *   Back
         *   Sheets &. Pillowcases
@@ -707,13 +711,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Bean Bag Chairs
         *   Sleeping Bags
         *   Baby Blankets
-    *   More for the Home
-        *   Back
-        *   Outdoor Living
-        *   Storage &. Organization
-        *   Door Mats
-        *   Luggage &. Bags
-        *   Canvas Totes
     *   DOG SHOP
 *    Gifts
     *   Back
@@ -781,9 +778,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles!
+FS $0 Min - USA addresses All price types
 
-code: SEASON pin: 4319 DETAILS
+code: FS0USALL pin: DETAILS
 
 Customer Service Menu
 
