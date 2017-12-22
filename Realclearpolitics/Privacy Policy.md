@@ -101,6 +101,10 @@
     *   About
     *   Media Kit
 
+*   _James Arkin_: Dems Struggle to Rally Against Republican Court Confirmations
+    
+*   _Rosenberg &. Blumenthal_: How to Balance Civil Liberties With Safety
+    
 *   _Caitlin Huey-Burns_: Democrats See Tax Bill as Issue to Run On in 2018
     
 *   _John Cassidy_: Republicans Set to Pass an Unworkable Tax Bill
@@ -144,10 +148,6 @@
 *   _Asha Rangappa_: A Move Worse Than Firing Mueller
     
 *   _Noah Millman_: Do the Democrats Have a Governing Agenda?
-    
-*   _Edward-Isaac Dovere_: 'I Was An Easy Pickup': How Trump Lost Joe Manchin
-    
-*   _Andrew Ferguson_: Comedy Boy of the Senate
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Democrats See Tax Bill as Issue to Run On in 2018
 *   Trump, Republicans Celebrate After Wrapping Up Massive Tax Package
-*   Ryan: Americans Will See Larger Paychecks Beginning in February
+*   Dems Struggle to Rally Against Republican Court Confirmations
+*   Trump: We've Liberated the American Economy From Washington Overreach
+*   Democrats See Tax Bill as Issue to Run On in 2018
 *   Trump Outlines New "America First" National Security Strategy
-*   Democrats See Young-Voter Surge Growing in 2018
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -272,8 +272,8 @@ Latest PollsAll Polls
     *   Approve35
     *   Disapprove59Disapprove +24
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove54Disapprove +10
+    *   Approve43
+    *   Disapprove55Disapprove +12
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve35
     *   Disapprove60Disapprove +25
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Nikki Haley Threatens U.N. With Defunding Over Resolution Condemning U.S. Jerusalem Decision
+*   Tom Brokaw: Except For Shep Smith, Fox News "Is On A Jihad" Assaulting American Institutions
+*   CNN's Stelter Defends Mueller Team: "Half Of Them" Didn't Donate To Hillary. FOX Trying To Discredit
 *   Hatch: We're Going To Make This The Greatest Presidency We've Seen, Not Only In Generations, But Ever
 *   Fmr. FBI Asst. Director Kallstrom: Anti-Trump "Fifth Estate" Was "In Andy's Office Plotting Something"
-*   FBN's Trish Regan: Trump Promised To End Carried Interest Income, Tax Bill Doesn't
-*   Schumer: When Middle-Class See Their Taxes Go Up, They'll Know Republicans Are To Blame
-*   Rep. Jordan: DOJ, FBI Orchestrated Plan To Prevent Donald Trump From Becoming President
 
 *   Politics
 *   Policy
