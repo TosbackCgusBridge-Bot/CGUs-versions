@@ -98,8 +98,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Fan Values
     *   2017 Postseason Ticket Terms &. Policies
     *   Celebrate Sunday
-    *   StubHub.com
-    *   Big League Tours2018 Schedule 2018 Season Tickets Bank of America
+    *   StubHub.com2018 Schedule 2018 Season Tickets Bank of America
 *   Apps Apps Apps
     *   At Bat app
     *   At Bat on Tablets
