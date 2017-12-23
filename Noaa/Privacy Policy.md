@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Climate What are your chances for a white Christmas? Oceans &. Coasts Fisheries Coral: The gift you don't want to give, or get National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Across NOAA Science is kid's play: Online games for school breaks or anytime at all Climate View visual highlights from the 2017 Arctic Report Card National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had 3rd warmest year to date and 5th warmest November on record Arctic and Antarctic sea ice coverage remain at near-record lows AROUND NOAA // Shipwreck in the Northwestern Hawaiian Islands makes history – again Arctic saw 2nd warmest year, smallest winter sea ice coverage on record in 2017 What are your chances for a white Christmas? This holiday season, give the gift of peace of mind
+Enter Search Terms Globe had 3rd warmest year to date and 5th warmest November on record Arctic and Antarctic sea ice coverage remain at near-record lows AROUND NOAA // Science is kid's play: Online games for school breaks or anytime at all Whale science on the high seas Arctic saw 2nd warmest year, smallest winter sea ice coverage on record in 2017 This holiday season, give the gift of peace of mind
 
 *   About our agency
 *   News and features
@@ -125,4 +125,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NPS/Penny Knuckles
+iStock
