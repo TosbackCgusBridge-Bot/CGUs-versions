@@ -101,53 +101,13 @@
     *   About
     *   Media Kit
 
+*   _Victor Davis Hanson_: Christmas Lessons From California
+    
 *   _James Arkin_: Dems Struggle to Rally Against Republican Court Confirmations
     
 *   _Rosenberg &. Blumenthal_: How to Balance Civil Liberties With Safety
     
 *   _Caitlin Huey-Burns_: Democrats See Tax Bill as Issue to Run On in 2018
-    
-*   _John Cassidy_: Republicans Set to Pass an Unworkable Tax Bill
-    
-*   _Stephen Moore_: Zero Excuses to Stand Against the Trump Tax Cuts
-    
-*   _John Kirby_: 6 Whoppers From Trump's National Security Speech
-    
-*   _Newt Gingrich_: National Security in Tradition of Truman, Reagan, &. Reality
-    
-*   _John Stoehr_: The Democratic Unity the GOP Built
-    
-*   _John Davidson_: Will There Be a Dem 'Blue Wave' in 2018? Not So Fast
-    
-*   _Josh Barro_: Northam Shows Why Democrats Can Never Be Satisfied
-    
-*   _Sarah Seltzer_: #MeToo Has Debunked the 'Lean In' Philosophy
-    
-*   _Megan McArdle_: Current Sex Panic Harks Back to Era of Coddling Women
-    
-*   _Alana Semuels_: How Robots Will Transform Fast Food
-    
-*   _William McGurn_: Merry Christmas, Iraq
-    
-*   _Washington Post_: Technology is Making Natural Gas Nimbler
-    
-*   _Roger Kimball_: Trump's Doctrine: 'Principled Realism' Comes to Fore
-    
-*   _Roger Cohen_: The Farce of Trump's National Security Strategy
-    
-*   _Niall Stanage_: With Tax Bill, GOP Aims to Cement Lift From Trump Economy
-    
-*   _Ezra Klein_: The Republican Tax Bill Is an American Betrayal
-    
-*   _Rich Lowry_: Trump's First Year Is Starting to Look Like a Big Win
-    
-*   _Richard Cohen_: In Trump's Washington, the Lie Has Become the Truth
-    
-*   _Andrew McCarthy_: Mueller's Scorched-Earth Tactics... Again
-    
-*   _Asha Rangappa_: A Move Worse Than Firing Mueller
-    
-*   _Noah Millman_: Do the Democrats Have a Governing Agenda?
     
 
 *   Previous
@@ -250,10 +210,10 @@ RecommendedPolitics
 *   Investigations
 
 *   Trump, Republicans Celebrate After Wrapping Up Massive Tax Package
+*   Dems See a Path to House Majority in California Races
+*   Haley: U.S. May Rethink United Nations Funding After Vote on Jerusalem
 *   Dems Struggle to Rally Against Republican Court Confirmations
-*   Trump: We've Liberated the American Economy From Washington Overreach
 *   Democrats See Tax Bill as Issue to Run On in 2018
-*   Trump Outlines New "America First" National Security Strategy
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,11 +229,11 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve35
-    *   Disapprove59Disapprove +24
+    *   Approve36
+    *   Disapprove58Disapprove +22
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
+    *   Approve44
+    *   Disapprove54Disapprove +10
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve35
     *   Disapprove60Disapprove +25
@@ -283,11 +243,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Mitch McConnell: There's Not Much You Can Do On A Partisan Basis In The Senate At 51-49
 *   Nikki Haley Threatens U.N. With Defunding Over Resolution Condemning U.S. Jerusalem Decision
 *   Tom Brokaw: Except For Shep Smith, Fox News "Is On A Jihad" Assaulting American Institutions
 *   CNN's Stelter Defends Mueller Team: "Half Of Them" Didn't Donate To Hillary. FOX Trying To Discredit
 *   Hatch: We're Going To Make This The Greatest Presidency We've Seen, Not Only In Generations, But Ever
-*   Fmr. FBI Asst. Director Kallstrom: Anti-Trump "Fifth Estate" Was "In Andy's Office Plotting Something"
 
 *   Politics
 *   Policy
