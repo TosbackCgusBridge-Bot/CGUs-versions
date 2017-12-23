@@ -35,7 +35,7 @@ Recent Topics:
 Recommended Links:
 
 *   Intellectual Property Law
-*   Free Power of Attorney Form
+*   General Power of Attorney
 
 **Search Here**
 
