@@ -263,6 +263,7 @@ Close submenu ( Girls ) Girls
 *   Leggings + Active
 *   Shorts
 *   Swim
+*   Accessories
 
 Close submenu ( Guys ) Guys
 
@@ -506,6 +507,7 @@ Menu Find a Store Aeropostale
         *   Leggings + Active
         *   Shorts
         *   Swim
+        *   Accessories
     
     *   Guys
         *   View All
