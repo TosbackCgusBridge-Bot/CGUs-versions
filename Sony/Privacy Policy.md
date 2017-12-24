@@ -132,7 +132,7 @@ Play We Played “Choose Your Hero” Video hotspot
 
 Untouched for decades, the legendary game always finds a way! Download and play the #JUMANJI mobile game now.
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -212,7 +212,7 @@ Close
 
 .@Cilla\_Presley says ‘Christmas with @ElvisPresley &. the @rpoonline’ helps fulfill The King’s musical vision. The new album, available now, is a must-hear this holiday season.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -292,7 +292,7 @@ Check Out Life Space UX
 
 Don’t forget to shop through The Marketplace and earn #SonyRewardsPoints for PlayStation®4 systems, games &. more.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -368,7 +368,7 @@ See Our Video Camcorders
 
 How do you "capture the present" through photography? Show us for a chance to win Sony gear.
 
-2 days ago
+3 days ago
 
 View Tweet
 
