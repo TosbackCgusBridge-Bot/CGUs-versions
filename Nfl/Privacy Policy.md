@@ -1,5 +1,5 @@
-*   IND3-11BAL8-6Sat 4:30 PM ET
-*   MIN11-3GB7-7Sat 8:30 PM ET
+*   MIN12-316GB7-80Final
+*   IND3-1216BAL9-623Final
 *   TB4-10CAR10-4Sun 1:00 PM ET
 *   CLE0-14CHI4-10Sun 1:00 PM ET
 *   DET8-6CIN5-9Sun 1:00 PM ET
@@ -31,8 +31,8 @@
 *   NFL Network
 *   Photos
 
-*   IND3-11BAL8-6Sat 4:30 PM ET
-*   MIN11-3GB7-7Sat 8:30 PM ET
+*   MIN16GB0Final
+*   IND16BAL23Final
 *   TB4-10CAR10-4Sun 1:00 PM ET
 *   CLE0-14CHI4-10Sun 1:00 PM ET
 *   DET8-6CIN5-9Sun 1:00 PM ET
@@ -56,13 +56,13 @@
 *   Fantasy
 *   Playoff Picture
 
-*   Standings
-
 *   *   Game Pass
     *   Stats
     *   Ways to Watch
     *   NFL Network
     *   Photos
+
+ScoresClose
 
 *   Tickets
 *   Shop
