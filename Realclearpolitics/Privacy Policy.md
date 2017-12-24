@@ -101,13 +101,17 @@
     *   About
     *   Media Kit
 
+*   _Larry Kudlow_: Trump, Republicans Turn the Tables on Class-War Democrats
+    
+*   _David Ignatius_: The Pentagon's Puzzles for 2018
+    
+*   _James Arkin_: Trump, McConnell Set Goals, Limits for 2018
+    
 *   _Victor Davis Hanson_: Christmas Lessons From California
     
 *   _James Arkin_: Dems Struggle to Rally Against Republican Court Confirmations
     
 *   _Rosenberg &. Blumenthal_: How to Balance Civil Liberties With Safety
-    
-*   _Caitlin Huey-Burns_: Democrats See Tax Bill as Issue to Run On in 2018
     
 
 *   Previous
@@ -209,9 +213,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump, Republicans Celebrate After Wrapping Up Massive Tax Package
 *   Dems See a Path to House Majority in California Races
-*   Haley: U.S. May Rethink United Nations Funding After Vote on Jerusalem
+*   Trump, McConnell Set Goals, Limits for 2018
+*   Trump: With Repeal of Mandate, Obamacare Is Essentially Over
 *   Dems Struggle to Rally Against Republican Court Confirmations
 *   Democrats See Tax Bill as Issue to Run On in 2018
 *   Presidential Job Approval
@@ -229,8 +233,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove58Disapprove +22
+    *   Approve38
+    *   Disapprove57Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve44
     *   Disapprove54Disapprove +10
@@ -243,11 +247,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   David Brooks: "Disappointed Trump Voters" Will Contribute To Dem "Tidal Wave" In Midterm Election
 *   Mitch McConnell: There's Not Much You Can Do On A Partisan Basis In The Senate At 51-49
 *   Nikki Haley Threatens U.N. With Defunding Over Resolution Condemning U.S. Jerusalem Decision
 *   Tom Brokaw: Except For Shep Smith, Fox News "Is On A Jihad" Assaulting American Institutions
 *   CNN's Stelter Defends Mueller Team: "Half Of Them" Didn't Donate To Hillary. FOX Trying To Discredit
-*   Hatch: We're Going To Make This The Greatest Presidency We've Seen, Not Only In Generations, But Ever
 
 *   Politics
 *   Policy
