@@ -1,4 +1,4 @@
-close dialogNew Year SaleCelebrate Together The New YearSubscribe close dialogSUBSCRIBE NOWto get full access
+close dialogNew Year Sale$999 / YR.Subscribe close dialogSUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -142,4 +142,4 @@ Our Partners
 *   Cars.com El Paso
 *   The Job Network
 
-close dialogNew Year SaleCelebrate Together The New YearSubscribe close dialog
+close dialogNew Year Sale$999 / YR.Subscribe close dialogclose dialog New Year Sale Celebrate Together $999 / YR.Subscribe No thanks.close dialog
