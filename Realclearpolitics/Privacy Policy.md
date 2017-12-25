@@ -109,10 +109,6 @@
     
 *   _Victor Davis Hanson_: Christmas Lessons From California
     
-*   _James Arkin_: Dems Struggle to Rally Against Republican Court Confirmations
-    
-*   _Rosenberg &. Blumenthal_: How to Balance Civil Liberties With Safety
-    
 
 *   Previous
 *   Next
@@ -233,8 +229,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove57Disapprove +19
+    *   Approve39
+    *   Disapprove55Disapprove +16
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve44
     *   Disapprove54Disapprove +10
@@ -247,11 +243,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Sen. Jeff Flake: Trump "Inviting" An Independent Challenge In 2020
 *   David Brooks: "Disappointed Trump Voters" Will Contribute To Dem "Tidal Wave" In Midterm Election
 *   Mitch McConnell: There's Not Much You Can Do On A Partisan Basis In The Senate At 51-49
 *   Nikki Haley Threatens U.N. With Defunding Over Resolution Condemning U.S. Jerusalem Decision
 *   Tom Brokaw: Except For Shep Smith, Fox News "Is On A Jihad" Assaulting American Institutions
-*   CNN's Stelter Defends Mueller Team: "Half Of Them" Didn't Donate To Hillary. FOX Trying To Discredit
 
 *   Politics
 *   Policy
