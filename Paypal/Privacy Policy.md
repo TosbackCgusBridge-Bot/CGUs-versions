@@ -29,17 +29,13 @@ Learn how PayPal makes it easy to shop and send money to family and friends.
 
 Shop, send money, and pay bills without entering your payment info again and again
 
-It's free to send money to friends and family when you use your bank account.\*
+24/7 fraud detection means we work around the clock to help keep your account secure.
 
-Signing up is simple. See for yourself why millions of people love PayPal.
+Pay your way, whether it’s credit, debit, or your bank account.
 
-Save time by not re-typing your credit card details every time you shop.
+Speed through checkout at millions of brands that accept PayPal.
 
-Sign Up for Free
-
-\*Funds go quickly into your friends or families PayPal account. If they don't have one, can sign up for free.
-
-Business
+Sign Up for Free Business
 
 Start accepting all kinds of payments with one PayPal business account.
 
@@ -122,4 +118,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=15628fa5a8ac&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=e9ff7e03bca24fb4887927dda5003b24&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273%2C3396&xt=7821%2C8104&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=832ca54c67006&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=81ba61b81f724e68a827021856982bb7&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273%2C3396&xt=7822%2C8103&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
