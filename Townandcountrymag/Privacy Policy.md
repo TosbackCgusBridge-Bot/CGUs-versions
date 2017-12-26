@@ -179,9 +179,7 @@ Advertisement - Continue Reading Below
 
 Last revised on April 1, 2016
 
-Watch Next
-
-Advertisement - Continue Reading Below More From About Advertise Online And the Top Schools in the Country Are . . . The Story Behind Donald Trump's Most Impressive Homes Share Tweet Email
+Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
 *   T&C's Travel Tips Around Egypt
