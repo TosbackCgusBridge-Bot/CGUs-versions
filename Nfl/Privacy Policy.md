@@ -1,3 +1,7 @@
+*   OAK7PHI•72nd ? 02:00
+*   PIT12-334HOU4-116Final
+*   IND3-1216BAL9-623Final
+*   MIN12-316GB7-80Final
 *   TB4-1119CAR11-422Final
 *   CLE0-153CHI5-1020Final
 *   DET8-717CIN6-926Final
@@ -10,10 +14,6 @@
 *   JAX10-533SF5-1044Final
 *   NYG2-130ARI7-823Final
 *   SEA9-621DAL8-712Final
-*   PIT11-3HOU4-10Mon 4:30 PM ET
-*   OAK6-8PHI12-2Mon 8:30 PM ET
-*   IND3-1216BAL9-623Final
-*   MIN12-316GB7-80Final
 
 *   News
 *   Scores
@@ -31,6 +31,10 @@
 *   NFL Network
 *   Photos
 
+*   OAK7PHI•72nd ? 02:00
+*   PIT34HOU6Final
+*   IND16BAL23Final
+*   MIN16GB0Final
 *   TB19CAR22Final
 *   CLE3CHI20Final
 *   DET17CIN26Final
@@ -43,10 +47,6 @@
 *   JAX33SF44Final
 *   NYG0ARI23Final
 *   SEA21DAL12Final
-*   PIT11-3HOU4-10Mon 4:30 PM ET
-*   OAK6-8PHI12-2Mon 8:30 PM ET
-*   IND16BAL23Final
-*   MIN16GB0Final
 
 *   News
 *   Scores
