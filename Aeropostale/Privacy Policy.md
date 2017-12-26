@@ -4,7 +4,7 @@ Aeropostale
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
 *   Open submenu ( Live Love Dream ) Live Love Dream
-*   Open submenu ( Gifts ) Gifts
+*   Open submenu ( Trending ) Trending
 *   Open submenu ( Clearance ) Clearance
 
 *   Help - Live Chat Help - Call Us
@@ -196,45 +196,38 @@ Close submenu ( Bottoms ) Bottoms
 *   Shorts
 *   Sleep Bottoms
 
-Close submenu ( Gifts ) Gifts
+Close submenu ( Trending ) Trending
 
 *   View Home
-*   Open submenu ( Gifts for Her ) Gifts for Her
+*   Open submenu ( Girls ) Girls
 
-*   Open submenu ( Gifts for Him ) Gifts for Him
+*   Open submenu ( Guys ) Guys
 
-Close submenu ( Gifts for Her ) Gifts for Her
+*   Open submenu ( Live Love Dream ) Live Love Dream
 
-*   View All
-*   Top Tees
-*   Fleece Favorites
-*   Giftable Jeans
-*   Signature Sweaters
-*   Comfy Cozy
-*   Long Sleeves
-*   Outerwear Obsessed
-*   Warm Wonders
-*   Stocking Stuffers
-*   Gifts Under $5
-*   Gifts Under $10
-*   Gifts Under $20
-*   Splurge Worthy Gifts
-*   Last Minute Gifts
-
-Close submenu ( Gifts for Him ) Gifts for Him
+Close submenu ( Girls ) Girls
 
 *   View All
-*   Top Tees
-*   Fleece Favorites
-*   Giftable Jeans
-*   Buttoned Up
+*   Velvet
+*   Ruffles
+*   The Party Dress
+*   Time to Shine
+*   Seriously Soft
+*   It's Cold Outside
+
+Close submenu ( Guys ) Guys
+
+*   View All
 *   Warm + Rugged
-*   Warmest Accessories
-*   Stocking Stuffers
-*   Gifts Under $10
-*   Gifts Under $20
-*   Splurge Worthy Gifts
-*   Last Minute Gifts
+*   Buffalo Plaids
+*   Winter Camo
+
+Close submenu ( Live Love Dream ) Live Love Dream
+
+*   View All
+*   The After Party
+*   Seriously Soft
+*   Mesh Detail
 
 Close submenu ( Clearance ) Clearance
 
@@ -297,7 +290,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** \+ **FREE SHIPPING OVER $50** **70-80% OFF ALL CLEARANCE**
+**EXTRA 15% OFF** USE CODE **VNICE** **50-70% OFF** \+ **FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -453,40 +446,30 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Trending
     
-*   Gifts
+*   Trending
     
     *   View Home
-    *   Gifts for Her
+    *   Girls
         *   View All
-        *   Top Tees
-        *   Fleece Favorites
-        *   Giftable Jeans
-        *   Signature Sweaters
-        *   Comfy Cozy
-        *   Long Sleeves
-        *   Outerwear Obsessed
-        *   Warm Wonders
-        *   Stocking Stuffers
-        *   Gifts Under $5
-        *   Gifts Under $10
-        *   Gifts Under $20
-        *   Splurge Worthy Gifts
-        *   Last Minute Gifts
+        *   Velvet
+        *   Ruffles
+        *   The Party Dress
+        *   Time to Shine
+        *   Seriously Soft
+        *   It's Cold Outside
     
-    *   Gifts for Him
+    *   Guys
         *   View All
-        *   Top Tees
-        *   Fleece Favorites
-        *   Giftable Jeans
-        *   Buttoned Up
         *   Warm + Rugged
-        *   Warmest Accessories
-        *   Stocking Stuffers
-        *   Gifts Under $10
-        *   Gifts Under $20
-        *   Splurge Worthy Gifts
-        *   Last Minute Gifts
+        *   Buffalo Plaids
+        *   Winter Camo
+        
     
+    *   Live Love Dream
+        *   View All
+        *   The After Party
+        *   Seriously Soft
+        *   Mesh Detail
 *   Clearance
     
     *   View Home
@@ -574,7 +557,7 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Refer a Friend
+*   Give $15, Get $15
 *   College Student Discount
 
 © 2017 Aeropostale. All Rights Reserved.
