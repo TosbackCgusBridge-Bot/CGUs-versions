@@ -135,11 +135,11 @@ LATEST ON TWITTER
 
 My week on Twitter : 4 Mentions, 278K Mention Reach, 36 Likes, 7 Retweets, 300K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/90K6…
 
-About 5 days ago
+About 6 days ago
 
 Our biggest fans this week: @WayneDupreeShow, @klralms, @peek\_r. Thank you! via sumall.com/thankyou?… pic.twitter.com/1IYJ…
 
-About 6 days ago
+Last week
 
 Here's a look back at 2017, our milestone year! intermarkets.net/201… via Intermarkets blog
 
