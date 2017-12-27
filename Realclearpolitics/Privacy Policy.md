@@ -101,13 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Larry Kudlow_: Trump, Republicans Turn the Tables on Class-War Democrats
+*   _Francis Wilkinson_: Tough Times for Liberals Mean It's Time to Toughen Up
     
-*   _David Ignatius_: The Pentagon's Puzzles for 2018
+*   _Roger Kimball_: A Tale of Two Years
     
-*   _James Arkin_: Trump, McConnell Set Goals, Limits for 2018
+*   _Ezra Klein_: The Inside Story of Doug Jones's Win in Alabama
     
-*   _Victor Davis Hanson_: Christmas Lessons From California
+*   _Marc Thiessen_: Dems Made a Big Mistake Voting Against Tax Cuts
+    
+*   _Benjamin Hart_: Will the FBI Snap Under Trump's Pressure?
+    
+*   _Sharyl Attkisson_: 10 Times the Intel Community Violated Americans' Trust
+    
+*   _Nicholas Burns_: Trump Courts Historic U.S. Break With Europe
+    
+*   _Peter Bergen_: Trump's Foreign Policy Successes in 2017
+    
+*   _Edward-Isaac Dovere_: What's Bill de Blasio's Problem?
+    
+*   _Emma Green_: How Religion Made a Global Comeback in 2017
+    
+*   _Tim Kane_: 'Unlucky Parents' and the Child Tax Credit
+    
+*   _Ramesh Ponnuru_: Trump's Strong Start on Policy
+    
+*   _Eugene Robinson_: Trump's First Year Was Even Worse Than Feared
+    
+*   _Roger Simon_: Danger in 2018 for the Party of the Rich
+    
+*   _Jamelle Bouie_: GOP Bets the House They Can Change Opinions on Tax Bill
+    
+*   _Wesley Pruden_: Ice of Media's Anti-Trump Freeze Shows Cracks
+    
+*   _Paul Krugman_: America Is Not Yet Lost
+    
+*   _Josh Rogin_: Trump Puts World's Worst Crooks and Killers on Notice
+    
+*   _Nikolai Sokov_: The Russification of U.S. Deterrence Policy
+    
+*   _Alexia Campbell_: How the Legal System Fails Victims of Sexual Harassment
+    
+*   _Nicole Russell_: The #MeToo Movement Isn't as Simple as You Think
+    
+*   _Tamar Manasseh_: To the Chicago Police, Any Black Kid Is in a Gang
+    
+*   _Steve Cohen_: Angel in Shoe Leather
+    
+*   _David Dayen_: Big Tech: The New Predatory Capitalism
     
 
 *   Previous
@@ -228,6 +268,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Direction of CountryRasmussen Reports
+    *   Right Direction38
+    *   Wrong Track56Wrong Track +18
 *   President Trump Job ApprovalGallup
     *   Approve39
     *   Disapprove55Disapprove +16
@@ -237,17 +280,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve35
     *   Disapprove60Disapprove +25
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve41
-    *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
+*   GOP Rep. Francis Rooney: FBI and DOJ Are "Off The Rails," Need To "Purge" The Deep State
 *   Sen. Jeff Flake: Trump "Inviting" An Independent Challenge In 2020
 *   David Brooks: "Disappointed Trump Voters" Will Contribute To Dem "Tidal Wave" In Midterm Election
 *   Mitch McConnell: There's Not Much You Can Do On A Partisan Basis In The Senate At 51-49
 *   Nikki Haley Threatens U.N. With Defunding Over Resolution Condemning U.S. Jerusalem Decision
-*   Tom Brokaw: Except For Shep Smith, Fox News "Is On A Jihad" Assaulting American Institutions
 
 *   Politics
 *   Policy
