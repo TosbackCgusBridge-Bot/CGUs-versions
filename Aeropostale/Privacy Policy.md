@@ -30,9 +30,7 @@ Close submenu ( Girls ) Girls
 Close submenu ( Featured ) Featured
 
 *   View All
-*   Gifts for Her
 *   New Arrivals
-*   Doorbusters
 *   Sabrina's Picks
 *   Jean Guide
 *   Logo Shop
@@ -93,9 +91,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Featured ) Featured
 
 *   View All
-*   Gifts for Him
 *   New Arrivals
-*   Doorbusters
 *   Jean Guide
 *   Logo Shop
 *   Tapout + Aero Active
@@ -290,7 +286,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**EXTRA 15% OFF** USE CODE **VNICE** **50-70% OFF** \+ **FREE SHIPPING OVER $50**
+**50-70% OFF** \+ **FREE SHIPPING OVER $75** **70-80% OFF ALL CLEARANCE**
 
 *   My Account My Account Login Register
 
@@ -301,9 +297,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   Gifts for Her
         *   New Arrivals
-        *   Doorbusters
         *   Sabrina's Picks
         *   Jean Guide
         *   Logo Shop
@@ -355,9 +349,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   Gifts for Him
         *   New Arrivals
-        *   Doorbusters
         *   Jean Guide
         *   Logo Shop
         *   Tapout + Aero Active
@@ -528,7 +520,23 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Promotions Shop Girls Clearance Shop Guys Clearance Shop LLD Clearance Promotions Shop Girls Shop Guys shop gifts for her shop gifts for him shop gifts for him Visit Our Holiday Help Desk shop now find a store to enter Shop dresses <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Clearance Shop Guys Clearance Shop LLD Clearance
+
+*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
+*   Hoodies + Jackets Starting at $6.99 Shop Girls Shop Guys
+*   Accessories Starting at $1.99 Shop Girls
+*   Tees + Polos Starting at $2.99 Shop Girls
+*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
+*   Hoodies + Jackets Starting at $6.99 Shop Girls Shop Guys
+*   Accessories Starting at $1.99 Shop Girls
+*   Tees + Polos Starting at $2.99 Shop Girls
+
+*   1
+*   2
+*   3
+*   4
+
+Promotions Shop Girls Shop Guys find a store to enter Shop dresses <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -557,7 +565,7 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Give $15, Get $15
+*   Refer a Friend
 *   College Student Discount
 
 © 2017 Aeropostale. All Rights Reserved.
