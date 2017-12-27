@@ -765,9 +765,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive up to 60% off select styles!
+Receive 40% off 1 full-price style!
 
-code: WESE pin: 6824 DETAILS
+code: ICE pin: 7366 DETAILS
 
 Customer Service Menu
 
