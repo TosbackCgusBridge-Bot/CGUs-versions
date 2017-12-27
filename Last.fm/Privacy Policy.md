@@ -216,7 +216,7 @@ Follow Us
 *   Türkçe
 *   简体中文
 
-Time zone: **America/Denver**
+Time zone: **America/New\_York**
 
 *   CBS Interactive © 2017 Last.fm Ltd. All rights reserved
 *   Terms of Use
