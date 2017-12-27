@@ -8,19 +8,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   James Perse Up to 60% Off
+    *   TOV Up to 80% Off
+    *   Designer Shop: Styles Up to 65% Off
+    *   Australia Luxe Collective
+    *   Free Shipping: Year-End Rug Steals
+    *   End-of-Season Holiday Storage Starting at $10
+    *   New Year's Update: Kitchen Electrics from $13
+    *   Free Shipping: End-of-Year Art Steals &. More
+    *   Honey Punch Under $40
+    *   Kevyn Aucoin
+    *   City Chic: Native Youth &. More
+    *   For Love &. Lemons
+    *   Arche
+    *   Elizabeth and James Candles &. Fragrances
+    *   Cole Haan Men's Outerwear
+    *   Stride Rite
+    *   Lilly Lashes by Lilly Ghalichi
+    *   Gordon Rush
+    *   Travel-Ready Shoes from Patricia Green
+    *   Melie Bianco Starting at $20
+    *   Able Skincare Up to 80% Off
+    *   Made in Italy: Sterling Silver Jewelry Under $80
+    *   Australia Luxe Collective Men
+    *   Premium Jean Shop ft. HUDSON
+    *   Gemstone Rings Starting at $16
+    *   Panda Diplomacy
+    *   Margherita Missoni Kids Under $10
+    *   Aerosoles
+    *   Tall Order: Our Favorite Over-the-Knee Boots
+    *   James Perse Men
     *   Wolford Up to 75% Off
+    
     *   Vince Camuto Handbags &. Jewelry Up to 50% Off
     *   Catherine Catherine Malandrino Up to 80% Off
     *   'Tis the Season: Cashmere Blowout
     *   Feminine Finds: Dresses Up to 75% Off
     *   Pave &. Crystal Jewelry ft. Swarovski Up to 75% Off
     *   Parker Up to 65% Off
-    *   Wrap It Up: Coats &. Accessories Up to 70% Off
     *   Reebok Starting at $30
-    *   Handmade in Turkey: Tmrw Studio Jewelry from $15
+    *   MUK LUKS Starting at $15
     *   Equipment Up to 60% Off
     *   Classic PJs ft. Catherine Malandrino Under $25
-    *   MUK LUKS Starting at $15
+    *   Handmade in Turkey: Tmrw Studio Jewelry from $15
     *   Pretty You London Slippers Under $30
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Our Favorite Korean Beauty Face Masks from $10
@@ -41,20 +71,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Crislu Jewelry Up to 65% Off
     *   Men's Shoes Up to 65% Off
     *   End-of-Year Home Blowout
-    *   Bobeau Up to 65% Off Including Special Sizes
-    *   Save Now, Wear Now: Boots Up to 60% Off
-    *   Felina Intimates Incl. Full-Fit Bras Under $25
     
-    *   Big Star Under $50
     *   Levinas Up to 80% Off
-    *   Naughty Monkey &. Not Rated Starting at $20
-    *   Lush Under $30
-    *   Fifteen Twenty Up to 75% Off
-    *   Top Moda Boots Under $30
-    *   Stella McCartney Sun &. More Up to 65% Off
-    *   Leather Wallets &. More Starting at $16
-    *   Festive Frills: Velvet &. More Starting at $15
-    *   French Blu Up to 80% Off
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   PYT Hair Tools Up to 90% Off
     *   Sport Coats Under $250
@@ -63,75 +81,60 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   New Year's Cheers: Barware &. More from $10
     *   Quiksilver Boys Under $20
     *   Resort Ready: Kids' Sandals Up to 60% Off
-    *   Laundry by Shelli Segal Including Petites
-    *   Velvet by Graham &. Spencer Up to 70% Off
-    *   Step into Comfort: Shoes ft. Born &. Clarks
-    *   Lucca Couture
-    *   Seafolly Swim
-    *   Free Shipping: On-Trend Sterling Silver Jewelry
-    *   Dresses We Love Under $40
-    *   Madden Girl Starting at $25
-    *   Arturo Chiang
-    *   Luxe Faux Fur Accessories &. More
-    *   French Connection Handbags Under $60
-    *   Miz Mooz
     *   Cherry Blooms Lash &. Brow Enhancements
     *   Vitamin Sea Beauty Starting at $10
     *   nANA jUDY
-    *   French Connection Watches &. More from $40
     *   Aldo Men
     *   Kinetix
-    
     *   Hawke &. Co
     *   Soul Star Blowout
     *   Poo-Pourri Bathroom Scents
     *   Free Shipping: Wall Art Starting at $14
-    *   Baby Shop: Finds Starting at $12
-    *   Maternity Must-Haves
-    *   Bathtime Basics for Baby &. Kids
-    *   On-Trend Kicks: Kids' Sneakers &. More
     *   Free Shipping: End-Of-Year Bedding Up to 75% Off
-    *   PX
     *   Designer Fragrances Starting at $20
-    *   Maui &. Sons Under $30
-    *   Zanzara
     *   InVitamin Charcoal Oral Care
     *   IBY Beauty
     *   Free Shipping: Countertop Essentials Starting at $10
-    *   The Active Shop
-    *   Men's Active Shop
-    *   MAC Cosmetics
     *   Free Shipping: Designer Rugs &. More from $20
     *   Phone Cases We Love
     *   Meal Prep Essentials Under $20
     *   Tech Gadgets Starting at $15
-    *   Color Pop: Wall Murals &. Decals
-    *   Free Shipping: Brazilian Cowhide Up to 75% Off
-    *   Elevate Your Home: Art &. Accents
-    *   Storage Must-Haves Starting at $10
-    *   Everyday Kitchen Essentials Starting at $10
-    *   The Active Shop: Recovery Essentials
-    *   C/89 Men's Sweaters &. More
     *   Free Shipping: Gold Jewelry &. More Starting at $15
-    *   Martinni Beauty Professional Masks Up to 85% Off
-    *   Donald Pliner Men
     *   14th &. Union Under $80
-    *   Lumier &. Bariano
+    *   Wrap It Up: Coats &. Accessories Up to 70% Off
 *   WomenShop Sale Events
     
+    *   James Perse Up to 60% Off
+    *   TOV Up to 80% Off
+    *   Designer Shop: Styles Up to 65% Off
+    *   Australia Luxe Collective
+    *   Honey Punch Under $40
+    *   Kevyn Aucoin
+    *   City Chic: Native Youth &. More
+    *   For Love &. Lemons
+    *   Arche
+    *   Elizabeth and James Candles &. Fragrances
+    *   Lilly Lashes by Lilly Ghalichi
+    *   Travel-Ready Shoes from Patricia Green
+    *   Melie Bianco Starting at $20
+    *   Able Skincare Up to 80% Off
+    *   Made in Italy: Sterling Silver Jewelry Under $80
+    *   Gemstone Rings Starting at $16
+    *   Aerosoles
+    *   Tall Order: Our Favorite Over-the-Knee Boots
     *   Wolford Up to 75% Off
     *   Vince Camuto Handbags &. Jewelry Up to 50% Off
     *   Catherine Catherine Malandrino Up to 80% Off
     *   'Tis the Season: Cashmere Blowout
     *   Feminine Finds: Dresses Up to 75% Off
     *   Pave &. Crystal Jewelry ft. Swarovski Up to 75% Off
+    
     *   Parker Up to 65% Off
-    *   Wrap It Up: Coats &. Accessories Up to 70% Off
     *   Reebok Starting at $30
-    *   Handmade in Turkey: Tmrw Studio Jewelry from $15
+    *   MUK LUKS Starting at $15
     *   Equipment Up to 60% Off
     *   Classic PJs ft. Catherine Malandrino Under $25
-    *   MUK LUKS Starting at $15
+    *   Handmade in Turkey: Tmrw Studio Jewelry from $15
     *   Pretty You London Slippers Under $30
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Our Favorite Korean Beauty Face Masks from $10
@@ -141,130 +144,92 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Sunday Night Steals Up to 80% Off
     *   Women's Shoes Up to 65% Off
     *   Crislu Jewelry Up to 65% Off
-    *   Bobeau Up to 65% Off Including Special Sizes
-    *   Save Now, Wear Now: Boots Up to 60% Off
-    *   Felina Intimates Incl. Full-Fit Bras Under $25
-    *   Big Star Under $50
-    *   Naughty Monkey &. Not Rated Starting at $20
-    *   Lush Under $30
-    *   Fifteen Twenty Up to 75% Off
-    *   Top Moda Boots Under $30
-    
-    *   Stella McCartney Sun &. More Up to 65% Off
-    *   Leather Wallets &. More Starting at $16
-    *   Festive Frills: Velvet &. More Starting at $15
-    *   French Blu Up to 80% Off
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   PYT Hair Tools Up to 90% Off
-    *   Laundry by Shelli Segal Including Petites
-    *   Velvet by Graham &. Spencer Up to 70% Off
-    *   Step into Comfort: Shoes ft. Born &. Clarks
-    *   Lucca Couture
-    *   Seafolly Swim
-    *   Free Shipping: On-Trend Sterling Silver Jewelry
-    *   Dresses We Love Under $40
-    *   Madden Girl Starting at $25
-    *   Arturo Chiang
-    *   Luxe Faux Fur Accessories &. More
-    *   French Connection Handbags Under $60
-    *   Miz Mooz
     *   Cherry Blooms Lash &. Brow Enhancements
     *   Vitamin Sea Beauty Starting at $10
-    *   French Connection Watches &. More from $40
     *   Designer Fragrances Starting at $20
     *   InVitamin Charcoal Oral Care
     *   IBY Beauty
-    *   The Active Shop
-    *   MAC Cosmetics
     *   Free Shipping: Gold Jewelry &. More Starting at $15
-    *   Martinni Beauty Professional Masks Up to 85% Off
-    *   Lumier &. Bariano
+    *   Wrap It Up: Coats &. Accessories Up to 70% Off
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
+    *   Tech Accessories
     *   Accessories
     *   Lingerie
-    *   Tech Accessories
-    *   Watches
 *   MenShop Sale Events
     
+    *   Cole Haan Men's Outerwear
+    *   Gordon Rush
+    *   Australia Luxe Collective Men
+    *   Premium Jean Shop ft. HUDSON
+    *   Panda Diplomacy
+    *   James Perse Men
     *   TR Premium Up to 90% Off
     *   Reebok Men Starting at $30
     *   Zanerobe &. More Under $50
     *   Men's Outerwear Up to 60% Off
     *   Men's Shoes Up to 65% Off
     *   Levinas Up to 80% Off
+    
     *   Sport Coats Under $250
     *   Arka Tees Under $20
     *   Eastland Up to 50% Off
     *   nANA jUDY
-    *   French Connection Watches &. More from $40
     *   Aldo Men
-    
     *   Kinetix
     *   Hawke &. Co
     *   Soul Star Blowout
-    *   PX
     *   Designer Fragrances Starting at $20
-    *   Maui &. Sons Under $30
-    *   Zanzara
     *   InVitamin Charcoal Oral Care
-    *   Men's Active Shop
-    *   C/89 Men's Sweaters &. More
-    *   Donald Pliner Men
     *   14th &. Union Under $80
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Stride Rite
+    *   Margherita Missoni Kids Under $10
     *   Reebok Kids Starting at $20
     *   Reebok Kids' Activewear &. More Under $20
     *   Quiksilver Boys Under $20
     *   Resort Ready: Kids' Sandals Up to 60% Off
-    *   Baby Shop: Finds Starting at $12
-    *   Maternity Must-Haves
-    *   Bathtime Basics for Baby &. Kids
-    *   On-Trend Kicks: Kids' Sneakers &. More
     
     Shop By Category
-    *   Baby Gear &. Essentials
     *   Girls' Shoes
-    *   Boys Sizes 2T-7
     *   Boys' Shoes
-    *   Baby Boy
+    *   Boys Sizes 2T-7
     *   Baby Girl
-    *   Boys Sizes 8-20
     *   Girls Sizes 2T-6X
+    *   Boys Sizes 8-20
     *   Girls Sizes 7-16
 *   HomeShop Sale Events
     
+    *   Free Shipping: Year-End Rug Steals
+    *   End-of-Season Holiday Storage Starting at $10
+    *   New Year's Update: Kitchen Electrics from $13
+    *   Free Shipping: End-of-Year Art Steals &. More
     *   Tech Accessory Blowout
     *   Free Shipping: Decorative Pillows Up to 60% Off
     *   Free Shipping: Kitchen Blowout
     *   End-of-Year Home Blowout
     *   New Year's Cheers: Barware &. More from $10
+    
     *   Poo-Pourri Bathroom Scents
     *   Free Shipping: Wall Art Starting at $14
     *   Free Shipping: End-Of-Year Bedding Up to 75% Off
     *   Free Shipping: Countertop Essentials Starting at $10
     *   Free Shipping: Designer Rugs &. More from $20
-    
     *   Phone Cases We Love
     *   Meal Prep Essentials Under $20
     *   Tech Gadgets Starting at $15
-    *   Color Pop: Wall Murals &. Decals
-    *   Free Shipping: Brazilian Cowhide Up to 75% Off
-    *   Elevate Your Home: Art &. Accents
-    *   Storage Must-Haves Starting at $10
-    *   Everyday Kitchen Essentials Starting at $10
-    *   The Active Shop: Recovery Essentials
     
     Shop By Category
     *   Home Decor
@@ -273,25 +238,24 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Organization
     *   Bath
     *   Outdoor Living
-    *   Accent Furniture
-    *   Rugs
-    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Kevyn Aucoin
+    *   Elizabeth and James Candles &. Fragrances
+    *   Lilly Lashes by Lilly Ghalichi
+    *   Able Skincare Up to 80% Off
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Our Favorite Korean Beauty Face Masks from $10
     *   Noyah Natural Cosmetics Starting at $10
     *   Luxe Skin Care Up to 90% Off
+    
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   PYT Hair Tools Up to 90% Off
     *   Cherry Blooms Lash &. Brow Enhancements
-    
     *   Vitamin Sea Beauty Starting at $10
     *   Designer Fragrances Starting at $20
     *   InVitamin Charcoal Oral Care
     *   IBY Beauty
-    *   MAC Cosmetics
-    *   Martinni Beauty Professional Masks Up to 85% Off
     
     Shop By Category
     *   Makeup
