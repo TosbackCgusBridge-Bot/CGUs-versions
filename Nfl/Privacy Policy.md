@@ -1,5 +1,5 @@
-*   OAK7PHI•72nd ? 02:00
 *   PIT12-334HOU4-116Final
+*   OAK6-910PHI13-219Final
 *   IND3-1216BAL9-623Final
 *   MIN12-316GB7-80Final
 *   TB4-1119CAR11-422Final
@@ -31,8 +31,8 @@
 *   NFL Network
 *   Photos
 
-*   OAK7PHI•72nd ? 02:00
 *   PIT34HOU6Final
+*   OAK10PHI19Final
 *   IND16BAL23Final
 *   MIN16GB0Final
 *   TB19CAR22Final
