@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had 3rd warmest year to date and 5th warmest November on record Arctic and Antarctic sea ice coverage remain at near-record lows AROUND NOAA // Science is kid's play: Online games for school breaks or anytime at all Whale science on the high seas Arctic saw 2nd warmest year, smallest winter sea ice coverage on record in 2017 This holiday season, give the gift of peace of mind
+Enter Search Terms Globe had 3rd warmest year to date and 5th warmest November on record Arctic and Antarctic sea ice coverage remain at near-record lows AROUND NOAA // Science is kid's play: Online games for school breaks or anytime at all Whale science on the high seas Arctic saw 2nd warmest year, smallest winter sea ice coverage on record in 2017 Can you trust your memory of the snows of Christmas past?
 
 *   About our agency
 *   News and features
