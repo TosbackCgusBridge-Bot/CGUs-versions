@@ -22,7 +22,7 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Bottoms ) Bottoms
 *   Dresses + Rompers
 *   Jackets + Vests
-*   Accessories
+*   Shoes + Accessories
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
 *   Trending
@@ -332,7 +332,7 @@ Menu Find a Store Aeropostale
         *   Shorts
     *   Dresses + Rompers
     *   Jackets + Vests
-    *   Accessories
+    *   Shoes + Accessories
     
     *   Live Love Dream
         *   View All
