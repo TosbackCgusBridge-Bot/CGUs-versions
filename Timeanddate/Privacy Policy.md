@@ -62,6 +62,8 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Timer
     *   Countdown to Any Date
     *   New Year Countdown
+    *   New Year Countdown World Map
+    *   New Year Trivia
 *   CalculatorsBack
     *   Date to Date Calculator (duration)
     *   Business Date to Date (exclude holidays)
