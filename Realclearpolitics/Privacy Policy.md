@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Francis Wilkinson_: Tough Times for Liberals Mean It's Time to Toughen Up
+*   _Zalmay Khalilzad_: Trump Has Unveiled a Strong National Security Strategy
     
-*   _Roger Kimball_: A Tale of Two Years
+*   _Frank Bruni_: The End of Trump and the End of Days
     
-*   _Ezra Klein_: The Inside Story of Doug Jones's Win in Alabama
+*   _Pat Buchanan_: Did the FBI Conspire to Stop Trump?
     
-*   _Marc Thiessen_: Dems Made a Big Mistake Voting Against Tax Cuts
+*   _Michael Isikoff_: Mueller Probe Outgrows Its 'Witch Hunt' Phase
     
-*   _Benjamin Hart_: Will the FBI Snap Under Trump's Pressure?
+*   _Paul Sperry_: Obama's Lax Discipline Policies Made Schools Dangerous
     
-*   _Sharyl Attkisson_: 10 Times the Intel Community Violated Americans' Trust
+*   _Diane Ravitch_: Why Are Schools Judged by Standardized Test Results?
     
-*   _Nicholas Burns_: Trump Courts Historic U.S. Break With Europe
+*   _Ned Ryun_: Mr. President, Close the Carried Interest Loophole
     
-*   _Peter Bergen_: Trump's Foreign Policy Successes in 2017
+*   _Cal Thomas_: New Heritage Foundation President Breaks 2 Glass Ceilings
     
-*   _Edward-Isaac Dovere_: What's Bill de Blasio's Problem?
+*   _William Barber_: Trump's Terrible Choice for Judge
     
-*   _Emma Green_: How Religion Made a Global Comeback in 2017
+*   _Daniel Flynn_: 'Word of the Year' Awards Reflect the Prejudices of Judges
     
-*   _Tim Kane_: 'Unlucky Parents' and the Child Tax Credit
+*   _Robert Samuelson_: The Top 10 Stats of 2017
     
-*   _Ramesh Ponnuru_: Trump's Strong Start on Policy
+*   _Ryan Cooper_: How to Crush Trump
     
-*   _Eugene Robinson_: Trump's First Year Was Even Worse Than Feared
+*   _William Murchison_: Democrats, Taxes, and Freedom
     
-*   _Roger Simon_: Danger in 2018 for the Party of the Rich
+*   _Matthew Glassman_: Donald Trump Is a Dangerously Weak President
     
-*   _Jamelle Bouie_: GOP Bets the House They Can Change Opinions on Tax Bill
+*   _Victor Davis Hanson_: The Bigmouth Tradition of American Leadership
     
-*   _Wesley Pruden_: Ice of Media's Anti-Trump Freeze Shows Cracks
+*   _Claire Galofaro_: In Heart of Trump Country, Base's Faith Is Unshaken
     
-*   _Paul Krugman_: America Is Not Yet Lost
+*   _Betsy Woodruff_: Robert Mueller May Indict Paul Manafort Again
     
-*   _Josh Rogin_: Trump Puts World's Worst Crooks and Killers on Notice
+*   _Rep. Andy Biggs_: Mr. Mueller, End the Witch Hunt
     
-*   _Nikolai Sokov_: The Russification of U.S. Deterrence Policy
+*   _Jack Shafer_: Who's Winning Trump's War With the Press?
     
-*   _Alexia Campbell_: How the Legal System Fails Victims of Sexual Harassment
+*   _Brent Bozell_: The Year of Media Freakouts
     
-*   _Nicole Russell_: The #MeToo Movement Isn't as Simple as You Think
+*   _Gabriel Schoenfeld_: Trump Has a Grand Strategy for Foreign Policy? Dream On
     
-*   _Tamar Manasseh_: To the Chicago Police, Any Black Kid Is in a Gang
+*   _Gordon Chang_: Trump's NSS: Global Force for Principled Realism
     
-*   _Steve Cohen_: Angel in Shoe Leather
+*   _Annie Lowrey_: Bitcoin 'Just Like the Dot-Com Bubble'
     
-*   _David Dayen_: Big Tech: The New Predatory Capitalism
+*   _Nicole Gelinas_: Why Uber Investors May Lose Their Lunch
     
 
 *   Previous
@@ -249,9 +249,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Dems See a Path to House Majority in California Races
 *   Trump, McConnell Set Goals, Limits for 2018
-*   Trump: With Repeal of Mandate, Obamacare Is Essentially Over
+*   Dems See a Path to House Majority in California Races
+*   Rooney: Federal Agencies Need to Be "Purged" of "Deep State" Bias
 *   Dems Struggle to Rally Against Republican Court Confirmations
 *   Democrats See Tax Bill as Issue to Run On in 2018
 *   Presidential Job Approval
@@ -268,25 +268,25 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Direction of CountryRasmussen Reports
-    *   Right Direction38
-    *   Wrong Track56Wrong Track +18
 *   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove55Disapprove +16
+    *   Approve38
+    *   Disapprove56Disapprove +18
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove54Disapprove +10
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve35
-    *   Disapprove60Disapprove +25
+    *   Approve45
+    *   Disapprove53Disapprove +8
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve43
+    *   Disapprove53Disapprove +10
+*   Congressional Job ApprovalEconomist/YouGov
+    *   Approve14
+    *   Disapprove64Disapprove +50
 
 More Latest Polls In The News
 
+*   Obama: Those "In Leadership" Should Use Social Media For Common Ground, Not "Balkanization" Of Views
 *   GOP Rep. Francis Rooney: FBI and DOJ Are "Off The Rails," Need To "Purge" The Deep State
 *   Sen. Jeff Flake: Trump "Inviting" An Independent Challenge In 2020
 *   David Brooks: "Disappointed Trump Voters" Will Contribute To Dem "Tidal Wave" In Midterm Election
-*   Mitch McConnell: There's Not Much You Can Do On A Partisan Basis In The Senate At 51-49
 *   Nikki Haley Threatens U.N. With Defunding Over Resolution Condemning U.S. Jerusalem Decision
 
 *   Politics
