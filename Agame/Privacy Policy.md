@@ -234,7 +234,7 @@ View more results
     
     *   World of Tanks
     *   World of Warships
-    *   Golden Frontier
+    *   Warbanner: Free Strategy War Game
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
