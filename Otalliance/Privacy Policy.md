@@ -73,7 +73,7 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Home › Privacy Statement Privacy Statement
+Facebook Twitter LinkedIn Email Addthis Home › Privacy Statement Privacy Statement
 
 The Online Trust Alliance is now part of the Internet Society, (ISOC) and governed by the new ISOC Privacy Statement, published August 17, 2017.   As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here.   Questions please email privacy@isoc.org.   
 
