@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: November 21, 2017**
+**Last Revised: December 27, 2017**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -25,7 +25,7 @@ Privacy Policy Subpoena Policy Attorney Tips Dispute on Transfer Away Form Unifo
 
 The terms “we”, “us” or “our” shall refer to GoDaddy.  The terms “you”, “your”, “User” or “customer” shall refer to any individual or entity who accepts this Agreement, has access to your account or uses the Services.  Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
 
-GoDaddy may, in its sole and absolute discretion, change or modify this Agreement, and any policies or agreements which are incorporated herein, at any time, and such changes or modifications shall be effective immediately upon posting to this Site.  Your use of this Site or the Services after such changes or modifications have been made shall constitute your acceptance of this Agreement as last revised.  If you do not agree to be bound by this Agreement as last revised, do not use (or continue to use) this Site or the Services.  In addition, GoDaddy may occasionally notify you of changes or modifications to this Agreement by email.  It is therefore very important that you keep your shopper account (“Account”) information current.  GoDaddy assumes no liability or responsibility for your failure to receive an email notification if such failure results from an inaccurate email address.
+GoDaddy may, in its sole and absolute discretion, change or modify this Agreement, and any policies or agreements which are incorporated herein, at any time, and such changes or modifications shall be effective immediately upon posting to this Site. Your use of this Site or the Services after such changes or modifications have been made shall constitute your acceptance of this Agreement as last revised. If you do not agree to be bound by this Agreement as last revised, do not use (or continue to use) this Site or the Services. In addition, GoDaddy may occasionally notify you of changes or modifications to this Agreement by email. It is therefore very important that you keep your shopper account (“Account”) information current.  GoDaddy assumes no liability or responsibility for your failure to receive an email notification if such failure results from an inaccurate email address.  In addition, GoDaddy may terminate Your use of Services for any violation or breach of any of the terms of this Agreement by You.
 
 ****2**. ELIGIBILITY. AUTHORITY**
 
@@ -833,5 +833,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 11/21/17  
+Revised: 12/27/17  
 Copyright © 2005-2017 GoDaddy.com, LLC All Rights Reserved.
