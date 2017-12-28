@@ -1,13 +1,30 @@
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-MR8JHB" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="http://b.scorecardresearch.com/p?c1=2&c2=3005420&cv=2.0&cj=1" />. Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS Toggle message bar
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS Toggle message bar
 
 *   Apps
 *   Shop
-
+*   KRMA
 *   Parents
 *   TV Times
-*   Settings
+*   Settings PBS KIDS Settings_Close_Your Local PBS Station
+    
+    Rocky Mountain PBS
+    
+    Select your local station
+    
+    *   Rocky Mountain PBS
+    *   Colorado Public Television / KBDI 12
+    
+    Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Change your stationBackPBS KIDS Super Vision
+    
+    See what your child is playing, watching, &. learning with our free Super Vision app for iPhone. _Super Vision app is connected_
+    
+    _Currently Not Connected._This is your unique Connect Code.
+    
+    Enter this code in the Super Vision App to connect.
+    
+    _Currently Connected._Connected to Super Vision app.DoneConnect to appBackDisconnectAre you sure?YesNo
 
-For Families Visiting PBS KIDS: Last modified: July 5, 2017
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-MR8JHB" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="http://b.scorecardresearch.com/p?c1=2&c2=3005420&cv=2.0&cj=1" />. For Families Visiting PBS KIDS: Last modified: July 5, 2017
 
 You have trusted us for many years to make safe and quality educational children's content that family members of all ages can enjoy. We understand how important privacy is to you and your family, which is why we are committed to creating a safe and secure environment that family members of all ages can enjoy. As a not-for-profit public institution, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement PBS's mission.  
   
@@ -109,4 +126,4 @@ Please read the Terms of Use for Terms and Conditions for using this site.
 
 PBS KIDS | TV Times | Help  
   
-Copyright © 1995-2017 Public Broadcasting Service (PBS). All rights reserved.
+Copyright © 1995-2017 Public Broadcasting Service (PBS). All rights reserved. Come play again later! Come play again tomorrow! Come play again later! Come play again later!
