@@ -14,4 +14,13 @@ CL
 > 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_ ( return to ) ( craigslist ) ( homepage? ) ------------- O O ^\_\_^ o (oo)\\\_\_\_\_\_\_\_ (\_\_)\\ )\\/\\ ||----w | || ||
 
-© craigslistCL help safety privacy feedback cl jobs terms about mobile desktop
+*   © craigslistCL
+*   help
+*   safety
+*   privacy
+*   feedback
+*   cl jobs
+*   terms
+*   about
+*   mobile
+*   desktop
