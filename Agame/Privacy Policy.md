@@ -232,7 +232,7 @@ View more results
     
     Recommended Games
     
-    *   World of Tanks
+    *   Animal Jam
     *   World of Warships
     *   Warbanner: Free Strategy War Game
     *   Madalin Stunt Cars 2
