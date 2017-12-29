@@ -1,107 +1,87 @@
-Skip to Main Content Search this site:
+Skip to Main Content × Saving your location allows us to provide you with more relevant information. Update Location  
+Clear Location × Default High Contrast Reset Increase Font SizeFont Decrease Font SizeFont
 
-*   Education
-    
-    *   Parents School registration, immunizations, school safety
-    *   Students College planning, financial aid, homework help
-    *   Teachers Becoming a teacher, lesson plans, resources, statistics, professional development
-    
-    *   K-12 School districts, data, specialized programs, testing
-    *   Colleges &. Universities College planning, financial aid, data, maps
-    *   Continuing Education Adult education, GED, training, programs
-    
-    *   Libraries Libraries, archives, museums, catalogs, services
-*   Work
-    
-    *   Business Running a business, Small businesses
-    *   Foreign Visitors Working in the US, Visas
-    *   Job Opportunities Find a job, career prep, training, apprenticeships
-    
-    *   Laws &. Regulations Frequently asked questions, labor code
-    *   Licenses Applying for a business license
-    *   Unemployment &. Disability Paid family leave, workers' compensation
-    
-    *   In the Workplace Worker rights, labor laws, discrimination, safety
-    *   Retirement Retirement plans, benefits, savings
-    *   Taxes (Home &. Family) Sales, property, and income tax, Credits, Selecting a CPA
-*   Health &. Safety
-    
-    *   Alerts &. Advisories Alerts for weather, emergencies, health and safety.
-    *   Caregivers Elder abuse, senior services, caregive resources
-    *   Emergencies Disasters, emergency alerts, emergency preparedness
-    
-    *   Environmental Safety Fire safety, natural hazards, organizations
-    *   Health Care Services, health plans, disabilities, seniors, veterans
-    
-    *   Laws &. Regulations (Health &. Safety) Health and safety code, regulations, laws
-    *   Living Safely Alerts, poison control, safety, police, fire
-    *   Workplace Safety Workers' compensation, benefits, regulations
-*   Home &. Family
-    
-    *   Moving to California City facts, schools, maps
-    *   Consumers Complaints, product recalls, licenses, housing, food, transportation
-    *   Driving &. Transport DMV, vehicle registration, pay traffic citations
-    
-    *   Housing Homeownership, affordable housing, landlord/tenant
-    *   Marriage Licenses, wedding venues, domestic partnerships
-    *   Taxes (Home &. Family) Sales/property/income tax, credits, selecting a CPA
-    
-    *   Children &. Families Child care/support, amber alerts, women's rights
-    *   Persons with Disabilities Legal rights, education, employment, independent living
-    *   Seniors Social Security, Medicare, health plans, nursing homes
-*   Visit &. Play
-    
-    *   Activities &. Events Events, fairs, farmers markets, parks, and things to do
-    *   Arts &. Culture Museums, arts, history, wine and food, parks
-    
-    *   California Shopping Passes, tickets, sales and auctions, bonds, excess lands, surplus property, vehicles, equipment, lottery, souvenirs, gifts, special plates
-    *   General Information Driving and getting around, lodging, activities, travel basics, resources, border stations, bringing animals
-    
-    *   Great Outdoors Camping, hiking, highway conditions, hunting and fishing, sports, recreation, weather
+*   Home
+*   Mobile Gallery
+*   Share:
 
-Image© Image© Image© Image© Image© Privacy Policy
+*   State Agencies
+*   Contact Us
+*   Settings
+*   Set Location
+*    Save Page
 
-For details regarding CA.gov Privacy Policy, please see our Conditions of Use. The text below reflects general requirements for State departments.
+Menu Contact Search Search this site: Search ×
 
-Pursuant to Government Code Section 11019.9, all departments and agencies of the State of California shall enact and maintain a permanent privacy policy, in adherence with the Information Practices Act of 1977 (Civil Code Section 1798 et seq.), that includes, but not necessarily limited to, the following principles:
+*   HomeHome
+*   Getting Services Sub Menu Toggle
+    *   Renew Vehicle Registration Four simple steps to renew your registration with the Department of Motor Vehicles.
+    *   Look Up Winning Lottery Numbers Look up winning lottery numbers. See if you're a winner!
+    *   Locate a California Prison Inmate Search for adult inmates currently in a California Department of Corrections and Rehabilitation institution.
+    *   Find a State Job Access state civil service examinations, apply for vacancies, and track your application status.California Highway Patrol (CHP) Find traffic information, Amber Alerts, and more! Read More Drought Information (Governor’s Office) Learn how the state is responding to California’s unprecedented drought. Learn More
+*   Doing Business Sub Menu Toggle
+    *   Form a Business Form/Register a business entity.
+    *   Check Contractor Application Check the status of your contractor license application.
+    *   Look Up Tax Rates Find a sales and use tax rate by address.
+    *   Get Copies of Business Entity Documents Request copies of filed business entity documents and more.Governor’s Office of Business and Economic Development (GoBiz) Single point of contact for economic development and job creation efforts. Read More California Department of Tax and Fee Administration (CDTFA)  Locate information on California sales use, fuel, alcohol, tobacco, and other taxes. Read More
+*   Working Sub Menu Toggle
+    *   Find a Job View available State job openings.
+    *   File for Unemployment Fast, convenient, and secure way for customers to access claim information, and manage claims 24 hours a day, seven days a week.
+    *   Form a Business Get the latest information about news, notices, customer alerts and process filings relating to business entities.
+    *   Check Contractor Application Check the status of your contractor license application.California Department of Human Resources (CalHR) Looking for a State Job? The State of California offers a rich variety of career opportunities. Read More Employment Development Department (EDD) Learn how EDD has connected millions of job seekers and employers in an effort to build the economy of the Golden State. Learn More
+*   Learning Sub Menu Toggle
+    *   Apply for a Cal Grant 2 easy steps, learn more!
+    *   Look Up a Bill or Law Locate the new laws that became effective on January 1st, 2015.
+    *   Find Your Local School Search for educational agencies in California.
+    *   Get a Visitors Guide View a digital guide or request a printed copy.California Student Aid Commission Locate financial aid to California students pursuing higher education. Learn More California Department of Education Learn how California provides a world-class education for all students, from early childhood to adulthood. Learn More
+*   Living Sub Menu Toggle
+    *   Find a State Park Locate by name, feature, and location.
+    *   Apply for Medi-Cal Find health insurance that’s right for you.
+    *   Find Child Care Search for care facilities.
+    *   Renew Vehicle Registration Register your vehicle or renew registration.California Courts The vast majority of cases in the California courts begin in one of the 58 superior, or trial, courts - located in each of the state's 58 counties. Read More Department of Motor Vehicles Check out publications, download forms, brochures, FAQs, Vehicle Information, Boats, Vessel, Online Services, and more! Read More
+*   Visiting Sub Menu Toggle
+    *   Find a State Park Locate by name, feature, and location.
+    *   Get a Visitors Guide View a digital guide or request a printed copy.
+    *   Get a Fishing License Register and purchase fishing license online.
+    *   Find a Fair Find a local fair, which provides fair dates and information.Visit California Learn tourist and travel locations and needs. A guide to your research and design for a fun and fabulous California vacation! Explore Now California Volunteers Find volunteer opportunities near you. Volunteer Now!
+*   Government Sub Menu Toggle
+    *   Look Up a Bill or Law Search the full text of California bills and laws.
+    *   Look Up My Representatives Find your State Senate, State Assembly or US Congressional Representative.
+    *   Look Up Tax Rates Find a sales and use tax rate.
+    *   Look Up Crime Statistics Research crime data submitted by county and local law enforcement agencies.Governor’s Office Governor Edmund G. Brown Jr. is serving his fourth term as Governor of California. Read More State Agencies Search California State Agency Directory. Find More
+*   Search
 
-(a) Personally identifiable information may only be obtained through lawful means.
+1.  Home
+2.  Page Not Found
 
-(b) The purposes for which personally identifiable data are collected shall be specified at or prior to the time of collection, and any subsequent use of the data shall be limited to and consistent with the fulfillment of those purposes previously specified.
+Page Not Found
 
-(c) Personal data may not be disclosed, made available, or otherwise used for a purpose other than those specified, except with the consent of the subject of the data, or as required by law or regulation.
+The page you requested was not found. Please visit the ca.gov homepage and use search to find what you are looking for.
 
-(d) Personal data collected shall be relevant to the purpose for which it is needed.
+You can also visit the sitemap page for a quick reference of the content on this website. Visit the contact page for frequently asked questions and more general assistance information.
 
-(e) The general means by which personal data is protected against loss, unauthorized access, use, modification, or disclosure shall be posted, unless the disclosure of those general means would compromise legitimate agency objectives or law enforcement purposes.
+ We apologize for the inconvenience and thank you for using the California State Portal. 
 
-Each department shall implement this privacy policy by:
+Home Search 
 
-*   Designating which position within the department or agency is responsible for the implementation of and adherence to this privacy policy;
-*   Prominently posting the policy physically in its offices and on its Internet website, if any;
-*   Distributing the policy to each of its employees and contractors who have access to personal data;
-*   Complying with the Information Practices Act (Civil Code Section 1798 et seq.), the Public Records Act (Government Code Section 6250 et seq.), Government Code Section 11015.5, and all other laws pertaining to information privacy, and
-*   Using appropriate means to successfully implement and adhere to this privacy policy.
+Sitemap 
 
-State Agencies
+General Assistance   
 
-Contact Us
+*   Back to Top
+*   Conditions of Use
+*   Privacy Policy
+*   Accessibility
+*   Contact Us
+*   Sitemap
 
-Chat
+*   Flicker
+*   Pinterest
+*   Twitter
+*   YouTube
 
-Popular Pages
+Copyright © 2017 State of California  
+    ×
 
-*   CA Mobile Gallery
-*   Alerts
-*   Calendars
-*   Driver License &. Registration
-*   Frequently Asked Questions
-
-*   Government Links
-*   Inmate Locator
-*   Live Help
-*   Multimedia
-*   N-11
-*   Online Services
-
-About CA Governor Feedback Site Map Get Adobe Reader Awards Back to Top Conditions of Use Privacy Policy Accessibility Contact Us Copyright © 2014 State of California
+  
+×
