@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-Toggle initial options for NPR audio player ****ON AIR NOW**NPR 24 Hour Program Stream**
+Toggle initial options for NPR audio player ****ON AIR NOW**CPR News**
 
 *   **Our Picks**
 *   **Live Radio**
@@ -12,7 +12,7 @@ Toggle initial options for NPR audio player ****ON AIR NOW**NPR 24 Hour Program 
 View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search
 
 *   NPR Home
-*   Change station?
+*   **CPR News**
 
 *   News
 *   Arts &. Life
@@ -41,8 +41,9 @@ View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Dir
 
 *   Podcast Directory
 *   Categories
-*   podcasts
+*   CPR News podcasts
 
+*   donate now
 *   **NPR** Shop
 *   My Account
 
@@ -294,8 +295,9 @@ Back
 *   Technology
 *   TV &. Film
 
-*   Change station?
+*   **CPR News**
 *   **NPR** Shop
+*   donate now
 
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9RKM5" height="0" width="0" style="display:none;visibility:hidden"></iframe>. **Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
 
@@ -537,4 +539,4 @@ Become an NPR sponsor
 *   Sponsorship Choices
 *   Text Only
 
-<iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe>
+<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/824814092/?guid=ON&amp;script=0"/>. </div><iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe>
