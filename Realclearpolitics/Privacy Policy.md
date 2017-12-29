@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Zalmay Khalilzad_: Trump Has Unveiled a Strong National Security Strategy
+*   _Matthew Yglesias_: The Political Lesson of 2017: Resistance Works
     
-*   _Frank Bruni_: The End of Trump and the End of Days
+*   _Newt Gingrich_: Get Ready for the Great Political Surprise of 2018
     
-*   _Pat Buchanan_: Did the FBI Conspire to Stop Trump?
+*   _Deirdre Walsh_: Moulton, Kennedy Offer Democrats Two Paths for the Future
     
-*   _Michael Isikoff_: Mueller Probe Outgrows Its 'Witch Hunt' Phase
+*   _Brad Todd_: Why Republicans Need to Self-Deport From Washington
     
-*   _Paul Sperry_: Obama's Lax Discipline Policies Made Schools Dangerous
+*   _Shripal Shah_: GOP Tax Law Isn't a Win. It's a 2018 Millstone.
     
-*   _Diane Ravitch_: Why Are Schools Judged by Standardized Test Results?
+*   _Scott Jennings_: How Trump Can Help the GOP in 2018 (If Critics Allow)
     
-*   _Ned Ryun_: Mr. President, Close the Carried Interest Loophole
+*   _Damon Linker_: America's Endless, Invisible Wars
     
-*   _Cal Thomas_: New Heritage Foundation President Breaks 2 Glass Ceilings
+*   _Bryant Harris_: Lebanon Leans on Trump to Mitigate Hezbollah Bashing
     
-*   _William Barber_: Trump's Terrible Choice for Judge
+*   _David Hopkins_: Who's Winning the Culture War? Corporate America
     
-*   _Daniel Flynn_: 'Word of the Year' Awards Reflect the Prejudices of Judges
+*   _Megan McArdle_: Bitcoin Is an Implausible Currency
     
-*   _Robert Samuelson_: The Top 10 Stats of 2017
+*   _Taylor Lorenz_: How Fans Engineered the Ultimate Social Media Couple
     
-*   _Ryan Cooper_: How to Crush Trump
+*   _Rex Tillerson_: I Am Proud of Our Diplomacy
     
-*   _William Murchison_: Democrats, Taxes, and Freedom
+*   _Richard Haass_: America and the Great Abdication
     
-*   _Matthew Glassman_: Donald Trump Is a Dangerously Weak President
+*   _Ed Rogers_: Future Presidents Will Be Thankful for Trump's Jerusalem Move
     
-*   _Victor Davis Hanson_: The Bigmouth Tradition of American Leadership
+*   _Steve Kornacki_: For Trump and Republicans, Red Flags Are Hard to Miss
     
-*   _Claire Galofaro_: In Heart of Trump Country, Base's Faith Is Unshaken
+*   _Holman Jenkins_: Understanding the Trump Show
     
-*   _Betsy Woodruff_: Robert Mueller May Indict Paul Manafort Again
+*   _Juan Williams_: GOP Will Suffer for Tax Giveaway
     
-*   _Rep. Andy Biggs_: Mr. Mueller, End the Witch Hunt
+*   _Heather Wilhelm_: The Sexes After Weinstein
     
-*   _Jack Shafer_: Who's Winning Trump's War With the Press?
+*   _Kelly Wallace_: After #MeToo, More Women Feeling Empowered
     
-*   _Brent Bozell_: The Year of Media Freakouts
+*   _Erin Clark_: Turbulence in the Trump-Unfriendly Skies of CNN
     
-*   _Gabriel Schoenfeld_: Trump Has a Grand Strategy for Foreign Policy? Dream On
+*   _Margaret Hartmann_: If Flynn Is a Liar, Why'd Trump Keep Defending Him?
     
-*   _Gordon Chang_: Trump's NSS: Global Force for Principled Realism
+*   _James Gagliano_: Trump Is Not Attacking the FBI, Even as He Attacks the FBI
     
-*   _Annie Lowrey_: Bitcoin 'Just Like the Dot-Com Bubble'
+*   _Howard Husock_: Tax Reform's Warning Shot for Universities
     
-*   _Nicole Gelinas_: Why Uber Investors May Lose Their Lunch
+*   _Kuttner & Zenger_: Saving the Free Press From Private Equity
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump, McConnell Set Goals, Limits for 2018
+*   Trump Predicts Republicans and Dems Will Agree on Health Care Plan
 *   Dems See a Path to House Majority in California Races
-*   Rooney: Federal Agencies Need to Be "Purged" of "Deep State" Bias
+*   Obama: Leaders Should Use Social Media for Common Ground
+*   Trump, McConnell Set Goals, Limits for 2018
 *   Dems Struggle to Rally Against Republican Court Confirmations
-*   Democrats See Tax Bill as Issue to Run On in 2018
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -272,8 +272,8 @@ Latest PollsAll Polls
     *   Approve38
     *   Disapprove56Disapprove +18
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove53Disapprove +8
+    *   Approve46
+    *   Disapprove53Disapprove +7
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve43
     *   Disapprove53Disapprove +10
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   NY Gov. Cuomo: GOP Tax Bill Is An Attack On Only Blue States. "Economic Civil War"
+*   Utah Editor: If Romney Replaced Hatch, We Would Be Spared Embarrassment Of Hatch "Kowtowing" To Trump
 *   Obama: Those "In Leadership" Should Use Social Media For Common Ground, Not "Balkanization" Of Views
 *   GOP Rep. Francis Rooney: FBI and DOJ Are "Off The Rails," Need To "Purge" The Deep State
 *   Sen. Jeff Flake: Trump "Inviting" An Independent Challenge In 2020
-*   David Brooks: "Disappointed Trump Voters" Will Contribute To Dem "Tidal Wave" In Midterm Election
-*   Nikki Haley Threatens U.N. With Defunding Over Resolution Condemning U.S. Jerusalem Decision
 
 *   Politics
 *   Policy
