@@ -765,9 +765,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price style!
+Receive 30% off full-price styles!
 
-code: ICE pin: 7366 DETAILS
+code: HOORAY pin: 4157 DETAILS
 
 Customer Service Menu
 
