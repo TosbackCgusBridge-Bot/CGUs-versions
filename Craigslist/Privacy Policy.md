@@ -20,7 +20,7 @@ CL
 *   privacy
 *   feedback
 *   cl jobs
-*   terms
+*   termsnew
 *   about
 *   mobile
 *   desktop
