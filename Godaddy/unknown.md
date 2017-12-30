@@ -1,4 +1,4 @@
-**Last Revised: November 29, 2017**
+**Last Revised: December 29, 2017**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -152,20 +152,9 @@ GoDaddy's failure to act upon or notify you of any event, which may constitute a
 
 **9\. RESTRICTION OF SERVICES. RIGHT OF REFUSAL**
 
-You agree not to use the services provided by GoDaddy, or to allow or enable others, to use the services provided by GoDaddy for the purposes of:
-
-*   The transmission of unsolicited email (Spam). and
-*   Repetitive, high volume inquires into any of the services provided by GoDaddy (i.e. domain name availability, etc.).
-
-You acknowledge and agree that you are prohibited from distributing malware, abusively operating botnets, phishing, piracy, trademark or copyright infringement, fraudulent or deceptive practices, counterfeiting or otherwise engaging in activity contrary to applicable law, and you acknowledge and agree that the consequences for such activities include suspension of the domain name.
-
 If you are hosting your domain name system (“DNS”) on GoDaddy’s servers, or are using our systems to forward a domain name, URL, or otherwise to a system or site hosted elsewhere, or if you have your domain name registered with GoDaddy, you are responsible for ensuring there is no excessive overloading on GoDaddy’s servers. You may not use GoDaddy’s servers and your domain name as a source, intermediary, reply to address, or destination address for mail bombs, Internet packet flooding, packet corruption, or other abusive attack. Server hacking or other perpetration of security breaches is prohibited. You agree that GoDaddy reserves the right to deactivate your domain name from its DNS if GoDaddy deems it is the recipient of activities caused by your site that threaten the stability of its network.
 
-You agree that GoDaddy, in its sole discretion and without liability to you, may refuse to accept the registration of any domain name. GoDaddy also may in its sole discretion and without liability to you delete the registration of any domain name during the first thirty (30) days after registration has taken place. GoDaddy may also cancel the registration of a domain name, after thirty (30) days, if that name is being used, as determined by GoDaddy in its sole discretion, in association with spam or morally objectionable activities. Morally objectionable activities will include, but not be limited to:
-
-*   Activities prohibited by the laws of the United States and/or foreign territories in which you conduct business;
-*   Activities designed to encourage unlawful behavior by others, such as hate crimes, terrorism and child pornography; and
-*   Activities designed to harm or use unethically minors in any way.
+You agree that GoDaddy, in its sole discretion and without liability to you, may refuse to accept the registration of any domain name. GoDaddy also may in its sole discretion and without liability to you delete the registration of any domain name during the first thirty (30) days after registration has taken place.
 
 In the event GoDaddy refuses a registration or deletes an existing registration during the first thirty (30) days after registration, you will receive a refund of any fees paid to GoDaddy in connection with the registration either being cancelled or refused. In the event GoDaddy deletes the registration of a domain name being used in association with spam or morally objectionable activities, no refund will be issued.
 
