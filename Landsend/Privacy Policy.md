@@ -46,7 +46,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     SHOP NEW COLLECTIONS
     
     *   Weather Channel Collection
-    *   Soft Leisure Collection
     
     BLOG
     *   The Journal
@@ -54,9 +53,10 @@ menu Close 0 Free Shipping on $50+  |  Offers
 *   Women FEATURED SHOPS
     
     *   New Arrivals
+    *   Now &. Later Looks
     *   The Starfish Collection
-    *   Soft Leisure Collection
-    *   Resort Collection
+    *   Tunic Shop
+    *   Coats of Spring
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -220,10 +220,11 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Boys
     
     FEATURED SHOPS
-    *   Weather Channel Collection
-    *   Hats, Gloves &. Scarves
     *   Snow Boots
+    *   Hats, Gloves &. Scarves
     *   Long Underwear
+    *   Women's Coats of Spring
+    *   Weather Channel Collection
     *   Sale
 *   Bags SHOP BAGS
     
@@ -305,15 +306,15 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Flannel Bedding
     *   Sale
     
-    Christmas Shop >.
+    More for the Home >.
     
-    *   Christmas Stockings
-    *   Christmas Ornaments &. Tree Skirts
-    *   Christmas Wreaths
-    *   Christmas Bedding
-    *   Christmas Candy &. Treats
-    *   Holiday Decor
+    *   Outdoor Living
+    *   Storage &. Organization
+    *   Door Mats
+    *   Luggage &. Bags
+    *   Canvas Totes
     *   Entertaining
+    *   Holiday Decor
     
     BEDDING >.
     
@@ -332,48 +333,13 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Beach Towels
     
     KIDS ROOM >.
-    
     *   Kids Bedding
     *   Kids Towels
     *   Seasonal Totes
     *   Toys &. Gifts
     *   Bean Bag Chairs
     *   Sleeping Bags
-    *   Baby Blankets
-    
-    More for the Home >.
-    *   Outdoor Living
-    *   Storage &. Organization
-    *   Door Mats
-    *   Luggage &. Bags
-    *   Canvas TotesDOG SHOP >.
-*    Gifts FEATURED SHOPS
-    
-    *   Holiday Shop
-    *   Favorite Gifts
-    *   Stockings &. Stuffers
-    *   Host &. Hostess Gifts
-    *   Flannel Favorites
-    *   Personalized Gifts
-    *   Sleep Shop
-    *   Canvas Totes
-    
-    GIFT By Recipient
-    
-    *   For Her
-    *   For Him
-    *   For Girls
-    *   For Boys
-    *   For Home
-    
-    Christmas Shop
-    *   Christmas Stockings
-    *   Christmas Ornaments and Tree Skirts
-    *   Christmas Wreaths
-    *   Christmas Bedding
-    *   Christmas Candy &. Treats
-    *   Holiday Decor
-    *   Entertaining
+    *   Baby BlanketsDOG SHOP >.
 *   Sale SHOP SALE
     
     *   Women
@@ -392,7 +358,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   SHOP NEW COLLECTIONS
         *   Back
         *   Weather Channel Collection
-        *   Soft Leisure Collection
     *   BLOG
         *   Back
         *   The Journal
@@ -408,9 +373,10 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
+        *   Now &. Later Looks
         *   The Starfish Collection
-        *   Soft Leisure Collection
-        *   Resort Collection
+        *   Tunic Shop
+        *   Coats of Spring
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -565,10 +531,11 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Shop all Outerwear
     *   FEATURED SHOPS
         *   Back
-        *   Weather Channel Collection
-        *   Hats, Gloves &. Scarves
         *   Snow Boots
+        *   Hats, Gloves &. Scarves
         *   Long Underwear
+        *   Women's Coats of Spring
+        *   Weather Channel Collection
         *   Sale
     *   Women
     *   Men
@@ -660,15 +627,15 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Bedding Basics
         *   Flannel Bedding
         *   Sale
-    *   Christmas Shop
+    *   More for the Home
         *   Back
-        *   Christmas Stockings
-        *   Christmas Ornaments &. Tree Skirts
-        *   Christmas Wreaths
-        *   Christmas Bedding
-        *   Christmas Candy &. Treats
-        *   Holiday Decor
+        *   Outdoor Living
+        *   Storage &. Organization
+        *   Door Mats
+        *   Luggage &. Bags
+        *   Canvas Totes
         *   Entertaining
+        *   Holiday Decor
     *   BEDDING
         *   Back
         *   Sheets &. Pillowcases
@@ -692,43 +659,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Bean Bag Chairs
         *   Sleeping Bags
         *   Baby Blankets
-    *   More for the Home
-        *   Back
-        *   Outdoor Living
-        *   Storage &. Organization
-        *   Door Mats
-        *   Luggage &. Bags
-        *   Canvas Totes
     *   DOG SHOP
-*    Gifts
-    *   Back
-    *   Shop all Gifts
-    *   FEATURED SHOPS
-        *   Back
-        *   Holiday Shop
-        *   Favorite Gifts
-        *   Stockings &. Stuffers
-        *   Host &. Hostess Gifts
-        *   Flannel Favorites
-        *   Personalized Gifts
-        *   Sleep Shop
-        *   Canvas Totes
-    *   GIFT By Recipient
-        *   Back
-        *   For Her
-        *   For Him
-        *   For Girls
-        *   For Boys
-        *   For Home
-    *   Christmas Shop
-        *   Back
-        *   Christmas Stockings
-        *   Christmas Ornaments and Tree Skirts
-        *   Christmas Wreaths
-        *   Christmas Bedding
-        *   Christmas Candy &. Treats
-        *   Holiday Decor
-        *   Entertaining
 *   Sale
     *   Back
     *   Shop all Sale
