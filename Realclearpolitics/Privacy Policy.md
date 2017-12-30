@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Matthew Yglesias_: The Political Lesson of 2017: Resistance Works
+*   _Carrie Sheffield_: Conservatives Packed 2017 With Wins. Push 2018 Further
     
-*   _Newt Gingrich_: Get Ready for the Great Political Surprise of 2018
+*   _David Ignatius_: Trump's Divisiveness Puts America at Risk
     
-*   _Deirdre Walsh_: Moulton, Kennedy Offer Democrats Two Paths for the Future
+*   _James Robbins_: Difference Between 'Leading From Behind' &. Actually Leading
     
-*   _Brad Todd_: Why Republicans Need to Self-Deport From Washington
+*   _Ryan Cooper_: The American Empire Is Crumbling
     
-*   _Shripal Shah_: GOP Tax Law Isn't a Win. It's a 2018 Millstone.
+*   _Colin Hanna_: Taxpayers Should Stop Funding Harassment Hush Money
     
-*   _Scott Jennings_: How Trump Can Help the GOP in 2018 (If Critics Allow)
+*   _Chris Smith_: Why Trump's Legal Team Will Turn on Flynn
     
-*   _Damon Linker_: America's Endless, Invisible Wars
+*   _James Delingpole_: 30 Trillion Reasons Why the Green Blob Must Die in 2018
     
-*   _Bryant Harris_: Lebanon Leans on Trump to Mitigate Hezbollah Bashing
+*   _Jay Michaelson_: 10 Worst Things Scott Pruitt's EPA Has Already Done
     
-*   _David Hopkins_: Who's Winning the Culture War? Corporate America
+*   _George Neumayr_: The Prince and the Community Organizer
     
-*   _Megan McArdle_: Bitcoin Is an Implausible Currency
+*   _Alex Shephard_: The Myth of Big Tech's Comeuppance
     
-*   _Taylor Lorenz_: How Fans Engineered the Ultimate Social Media Couple
+*   _Gary D'Amato_: The Ice Bowl, 50 Years Later
     
-*   _Rex Tillerson_: I Am Proud of Our Diplomacy
+*   _Dave Barry_: 2017 Year in Review: Did That Really Happen?
     
-*   _Richard Haass_: America and the Great Abdication
+*   _Marc Thiessen_: The 10 Best Things Trump Has Done in First Year
     
-*   _Ed Rogers_: Future Presidents Will Be Thankful for Trump's Jerusalem Move
+*   _Mark Landler_: Trump, the Insurgent, Breaks w/70 Years of U.S. Foreign Policy
     
-*   _Steve Kornacki_: For Trump and Republicans, Red Flags Are Hard to Miss
+*   _Robert Merry_: The Status Quo Under Challenge
     
-*   _Holman Jenkins_: Understanding the Trump Show
+*   _Julian Zelizer_: The 5 Big Questions for Year 2 of the Trump Presidency
     
-*   _Juan Williams_: GOP Will Suffer for Tax Giveaway
+*   _Sean Davis_: The Top 10 Undercovered News Stories of 2017
     
-*   _Heather Wilhelm_: The Sexes After Weinstein
+*   _Michael Cooper Jr._: Stop Writing 'Trump's America' Profiles
     
-*   _Kelly Wallace_: After #MeToo, More Women Feeling Empowered
+*   _Steven Greenhut_: Democratic Rhetoric on GOP Tax Law Is Just Silly
     
-*   _Erin Clark_: Turbulence in the Trump-Unfriendly Skies of CNN
+*   _Schmidt &. Shear_: Trump Says Russia Inquiry Makes U.S. 'Look Very Bad'
     
-*   _Margaret Hartmann_: If Flynn Is a Liar, Why'd Trump Keep Defending Him?
+*   _Wesley Pruden_: Looking for Mueller's Red Meat Main Course
     
-*   _James Gagliano_: Trump Is Not Attacking the FBI, Even as He Attacks the FBI
+*   _Dean Obeidallah_: Lie of the Year: Trump Finally Gets the Honor He Deserves
     
-*   _Howard Husock_: Tax Reform's Warning Shot for Universities
+*   _Michael Graham_: Barack Obama Tops 2017 Biggest Losers
     
-*   _Kuttner & Zenger_: Saving the Free Press From Private Equity
+*   _Nick Pachelli_: 2017 Was the Year of the Athlete's Voice
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Predicts Republicans and Dems Will Agree on Health Care Plan
-*   Dems See a Path to House Majority in California Races
-*   Obama: Leaders Should Use Social Media for Common Ground
+*   Often at Odds, Trump and Republicans Relish Tax Win, Court Picks
+*   A Year of Historic Change in Saudi Arabia, With More to Come
+*   Cuomo: Tax Bill Is an Attack on Blue States. "Economic Civil War"
 *   Trump, McConnell Set Goals, Limits for 2018
-*   Dems Struggle to Rally Against Republican Court Confirmations
+*   Dems See a Path to House Majority in California Races
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,10 +270,10 @@ Latest PollsAll Polls
 
 *   President Trump Job ApprovalGallup
     *   Approve38
-    *   Disapprove56Disapprove +18
+    *   Disapprove57Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
+    *   Approve45
+    *   Disapprove53Disapprove +8
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve43
     *   Disapprove53Disapprove +10
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Dershowitz: "My Liberal Friends Stopped Inviting Me To Dinner, Think I'm A Trump Supporter"
+*   Chris Ruddy Facilitated "Impromptu" NYT Interview With President Trump At Golf Club
 *   NY Gov. Cuomo: GOP Tax Bill Is An Attack On Only Blue States. "Economic Civil War"
 *   Utah Editor: If Romney Replaced Hatch, We Would Be Spared Embarrassment Of Hatch "Kowtowing" To Trump
 *   Obama: Those "In Leadership" Should Use Social Media For Common Ground, Not "Balkanization" Of Views
-*   GOP Rep. Francis Rooney: FBI and DOJ Are "Off The Rails," Need To "Purge" The Deep State
-*   Sen. Jeff Flake: Trump "Inviting" An Independent Challenge In 2020
 
 *   Politics
 *   Policy
