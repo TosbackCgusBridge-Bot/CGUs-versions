@@ -3,58 +3,23 @@
 *   games
 *   videos
 
-Browse LIBRARY
+Your score  
+0 points
 
-*   New Games Play The Newest Free Games
-*   Free Games Play the best Free Games Of The Last Two Months
-*   Popular Games Play The Most Popular Free Games
-*   Played Games 0 games
-*   Liked Games 0 games
+Register Log in
 
-CATEGORIES
-
-*   Games for girls 20,521 games
-*   Driving &. Racing Games 6,609 games
-*   Strategy &. RPG Games 2,266 games
-*   Management Games 3,612 games
-*   Thinking Games 11,032 games
-*   Action &. Adventure Games 15,512 games
-*   Sports Games 2,148 games
-*   Shooting Games 7,659 games
-*   Fighting Games 2,082 games
-*   Skill Games 9,424 games
-*   Arcade &. Classic Games 12,047 games
-*   Fun &. Crazy Games 2,270 games
-
-Tags
-
-*   Baby325
-*   Tractor46
-*   Difference646
-*   Bananas67
-*   Monsters1,111
-*   Ice307
-*   Street Fighting90
-*   View All Tags 373
-
-Play with friends  
-Powered by id.net 113 id.net Multiplayer Games 1,234 id.net High Score Games 852 id.net Achievements Games 761 id.net Screenshots Games 1,252 id.net Online Save Games 2,251 All id.net Games Last Highscore:
-
-**3,399** points on Russian Car Driver HD by Pranav\_Raj
-
-*   Contact Form
-*   Submit a Game or Animation
-*   Games for Your Website
-*   Privacy Policy
-*   Terms of Use
-
-Report bad translation Share880K Register Log in My Profile 0 points
+My Profile 0 points
 
 *   My Profile
 *   Edit Profile
 *   My games ()
-
 *   Log out
+
+*   New Games
+*   Best of new games
+*   Most Popular Games
+
+Parental Control
 
 *     English
 
