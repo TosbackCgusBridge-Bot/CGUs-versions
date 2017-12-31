@@ -1,6 +1,8 @@
-  No thank you, I prefer to pay for shipping!     Offer Details
+  Offer Details
 
 Use promotion code **BGQR** at checkout for 20% off Blair clearance (all items with a price ending in 7¢) and free standard shipping on your entire Blair order. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed or international orders. good online only through January 1, 2018.
+
+  No thank you, I prefer to pay for shipping!  
 
 Shop your favorite stores and discover new ones  
   
