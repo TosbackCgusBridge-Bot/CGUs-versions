@@ -12,7 +12,7 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Game Day
-    *   Weddings &. ShowersMost Popular Christmas Gifts Gift Baskets
+    *   Weddings &. ShowersMost Popular Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -45,8 +45,7 @@
     *   DessertsMost Popular Sweets
 *   Holiday
     
-    View All Categories Shop by Category*   Christmas Gifts
-    *   New Year's
+    View All Categories Shop by Category*   New Year's
     
     Occasions*   Birthday Gifts
     *   Gifts for Her
@@ -79,7 +78,7 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Game Day
-    *   Weddings &. ShowersMost Popular Christmas Gifts Gift Baskets
+    *   Weddings &. ShowersMost Popular Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -112,8 +111,7 @@
     *   DessertsMost Popular Sweets
 *   Holiday
     
-    View All Categories Shop by Category*   Christmas Gifts
-    *   New Year's
+    View All Categories Shop by Category*   New Year's
     
     Occasions*   Birthday Gifts
     *   Gifts for Her
