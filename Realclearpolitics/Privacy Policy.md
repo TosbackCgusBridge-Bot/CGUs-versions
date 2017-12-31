@@ -101,6 +101,40 @@
     *   About
     *   Media Kit
 
+*   _David Von Drehle_: Dems Haven't Been This Confident Since... 2016
+    
+*   _Daniel McCarthy_: The GOP Is Dead. The GOP Rises Again.
+    
+*   _Noah Feldman_: What Tillerson Won't Admit: The U.S. Has No Leverage
+    
+*   _Roger Simon_: Liberal Humiliation: Trump vs. Obama on Iran
+    
+*   _David Brock_: Consequences in the Partisan Crusade Against Mueller
+    
+*   _Paul Callan_: Trump Is Right About the FBI
+    
+*   _Biba Kang_: The Last Year Women Take Responsibility for Men's Sins
+    
+*   _Nicole Russell_: How the 'Feminist' Left Let Women Down in 2017
+    
+*   _T.A. Frank_: 5 Nightmarish Headaches Trump Faces in 2018
+    
+*   _Steve Cortes_: Trump's 2017 Top 10 Achievements
+    
+*   _Clare Foran_: Can Democrats Flip a House Seat in a District Trump Won?
+    
+*   _George Will_: Academic Freedom Goes on Trial
+    
+*   _Aaron Hanlon_: The Decline of Debate on College Campuses
+    
+*   _Heather Mac Donald_: Don't Take the Wrong Lessons From NYC's Murder Drop
+    
+*   _Harry Siegel_: Phantom Fears and a Safer City
+    
+*   _Peter Van Buren_: 2017: The Year the Iraq War Truly Ended
+    
+*   _Haroon Ullah_: How Silicon Valley Gave Rise to the Next Generation of Terror
+    
 *   _Carrie Sheffield_: Conservatives Packed 2017 With Wins. Push 2018 Further
     
 *   _David Ignatius_: Trump's Divisiveness Puts America at Risk
@@ -114,40 +148,6 @@
 *   _Chris Smith_: Why Trump's Legal Team Will Turn on Flynn
     
 *   _James Delingpole_: 30 Trillion Reasons Why the Green Blob Must Die in 2018
-    
-*   _Jay Michaelson_: 10 Worst Things Scott Pruitt's EPA Has Already Done
-    
-*   _George Neumayr_: The Prince and the Community Organizer
-    
-*   _Alex Shephard_: The Myth of Big Tech's Comeuppance
-    
-*   _Gary D'Amato_: The Ice Bowl, 50 Years Later
-    
-*   _Dave Barry_: 2017 Year in Review: Did That Really Happen?
-    
-*   _Marc Thiessen_: The 10 Best Things Trump Has Done in First Year
-    
-*   _Mark Landler_: Trump, the Insurgent, Breaks w/70 Years of U.S. Foreign Policy
-    
-*   _Robert Merry_: The Status Quo Under Challenge
-    
-*   _Julian Zelizer_: The 5 Big Questions for Year 2 of the Trump Presidency
-    
-*   _Sean Davis_: The Top 10 Undercovered News Stories of 2017
-    
-*   _Michael Cooper Jr._: Stop Writing 'Trump's America' Profiles
-    
-*   _Steven Greenhut_: Democratic Rhetoric on GOP Tax Law Is Just Silly
-    
-*   _Schmidt &. Shear_: Trump Says Russia Inquiry Makes U.S. 'Look Very Bad'
-    
-*   _Wesley Pruden_: Looking for Mueller's Red Meat Main Course
-    
-*   _Dean Obeidallah_: Lie of the Year: Trump Finally Gets the Honor He Deserves
-    
-*   _Michael Graham_: Barack Obama Tops 2017 Biggest Losers
-    
-*   _Nick Pachelli_: 2017 Was the Year of the Athlete's Voice
     
 
 *   Previous
@@ -270,7 +270,7 @@ Latest PollsAll Polls
 
 *   President Trump Job ApprovalGallup
     *   Approve38
-    *   Disapprove57Disapprove +19
+    *   Disapprove56Disapprove +18
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve45
     *   Disapprove53Disapprove +8
