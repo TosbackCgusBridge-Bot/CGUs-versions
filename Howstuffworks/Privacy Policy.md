@@ -235,7 +235,7 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .DefinitionWe Can Guess Your Education Level With This QuizDefinitionEverQuote Insurance QuotesDenver, Colorado: This Brilliant Company Is Disrupting a $200 Billion IndustryEverQuote Insurance QuotesBonner and Partners SubscriptionThe Great Bitcoin Meltdown is ComingBonner and Partners SubscriptionWise Saving TipsTop 6 Coolest Gadgets Under $60 (2017 Edition)Wise Saving TipsMoneyincThe 20 Richest News Anchors in the WorldMoneyincActivatedYouTV Star's Stomach Problem Has Surprising CauseActivatedYouHomeAdvisorDon't Do It Yourself - Hire a Denver Trusted Professional for Your Home ProjectsHomeAdvisorDirectExposeTeen Goes Missing In Aruba. But 10 Years Later, Police Uncover TruthDirectExpose Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksRSS FeedsMolded Scottish ShortbreadHow Spam WorksHow to Troubleshoot a Heat Pumpby Taboolaby Taboola
+More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .Bonner and Partners SubscriptionBitcoin is Dead - This Will Make Investors Rich in 2018Bonner and Partners SubscriptionHome ChefDenver: This Meal Service is Cheaper Than Your Local StoreHome ChefTophatterShoppers Are Getting Unbelievable Deals With This Little-Known SiteTophatterStandardNewsAmerican Choppers Brothers Hit With Lawsuit For Stealing - What\`s Next?StandardNewsMoneyincThe 20 Richest News Anchors in the WorldMoneyincOffbeatIf You Ace This Test, We Estimate Your IQ is Above 141OffbeatActivatedYouTV Star's Stomach Problem Has Surprising CauseActivatedYouSedans | Sponsored LinksThinking of Buying a New Sedan in 2017? Check Out The Top DealsSedans | Sponsored Links Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksRSS FeedsWhat is the anthropic principle?Molded Scottish ShortbreadHow Spam Worksby Taboolaby Taboola
 
   
 
@@ -269,4 +269,4 @@ Get the best of HowStuffWorks by email. Keep up to date on:
 
 Sign Up Now!
 
-Testing this long verbose error message to check the behaviour #} <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswy <img src="https://soflopxl.com/px?partner\_id=31210">
+Testing this long verbose error message to check the behaviour #} <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
