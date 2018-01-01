@@ -111,7 +111,7 @@ If you have any questions about this Privacy Policy or our information-handling 
 > 555 West 18th Street  
 > New York, New York 10011  
 
-©2017 Vimeo, Inc. All rights reserved.
+©2018 Vimeo, Inc. All rights reserved.
 
 Linked information: Cookies:
 
