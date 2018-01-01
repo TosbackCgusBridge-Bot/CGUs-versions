@@ -322,7 +322,7 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Suomi
 *   English (UK)
 
-Copyright © 1999 - 2017 SurveyMonkey
+Copyright © 1999 - 2018 SurveyMonkey
 
 *   BBOnline
 
