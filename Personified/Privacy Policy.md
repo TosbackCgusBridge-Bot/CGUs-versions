@@ -92,7 +92,7 @@ Sorry, there was a problem with your email address. Please try again.
 
 Sign Up for the Latest Industry News, Tips and Advice Email Comments Subscribe
 
-©2017 CareerBuilder, LLC. All rights reserved.  
+©2018 CareerBuilder, LLC. All rights reserved.  
 200 N. LaSalle Street, Chicago, IL
 
 *   Sales: 877.345.5256
