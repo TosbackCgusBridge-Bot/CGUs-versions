@@ -199,12 +199,12 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Vegan Dating
+*   Conservative Dating
 *   Privacy Policy
 *   Terms and Conditions
 *   Dating Safety Tips
 
-© OkCupid 2017 Your session has expired
+© OkCupid 2018 Your session has expired
 
 Still there?
 
