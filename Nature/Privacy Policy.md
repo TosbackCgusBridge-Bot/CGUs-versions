@@ -268,14 +268,10 @@ Global Sites*   Australia: English
 *   Indonesia: Indonesian | English
 *   Latin America: Español
 
-**Copyright © 2017 The Nature Conservancy. Terms of Use | Privacy Policy | Charitable Solicitation Disclosures**
+**Copyright © 2018 The Nature Conservancy. Terms of Use | Privacy Policy | Charitable Solicitation Disclosures**
 
 The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax identification number 53-0242652) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
 
 \*By providing your mobile phone number, you agree that The Nature Conservancy may contact you by mobile phone call and text message regarding the Conservancy's programs, events and membership, subject to our Mobile Service Provider's Terms of Use and Mobile Service Provider's Privacy Policy.
 
-Match:  
-Your Impact Is Multiplied
-
-$50 $100 $500  
-$1,000 Other Cancel
+Cancel
