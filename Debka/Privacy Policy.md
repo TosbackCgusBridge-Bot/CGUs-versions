@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, December 31, 2017  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, January 1, 2018  
 
 DEBKAfile
 
@@ -46,73 +46,81 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Israel planes strike Hamas lookout post in southern Gaza
+*   Unanimous Likud vote to annex Judea and Samaria
     
-    Dec 31, 2017 @ 00:13
+    Dec 31, 2017 @ 23:15
     
-*   Police shoot protesters dead, cut Internet on fourth day of Iran’s anti-government unrest
+*   Five deputies shot in Douglas County, Colorado, US
     
-    Dec 30, 2017 @ 23:30
+    Dec 31, 2017 @ 17:26
     
-*   The US condemns 50 arrests of Iranian anti-government protesters
+*   Egyptian security forces wipe out Hasm terrorist cell near Cairo
     
-    Dec 30, 2017 @ 11:45
+    Dec 31, 2017 @ 16:50
     
-*   ISIS claims Cairo church and Russian supermarket attacks
+*   Iraq gripped by fear of ISIS resurgence after new attacks
     
-    Dec 30, 2017 @ 11:33
+    Dec 31, 2017 @ 16:43
     
-
-*   Israel planes strike Hamas lookout post in southern Gaza
+*   Iran’s net media shutdown blocks news of anti-government demos
     
-    Dec 31, 2017 @ 00:13
-    
-*   Police shoot protesters dead, cut Internet on fourth day of Iran’s anti-government unrest
-    
-    Dec 30, 2017 @ 23:30
-    
-*   The US condemns 50 arrests of Iranian anti-government protesters
-    
-    Dec 30, 2017 @ 11:45
-    
-*   ISIS claims Cairo church and Russian supermarket attacks
-    
-    Dec 30, 2017 @ 11:33
-    
-*   Israel planes strike Hamas lookout post in southern Gaza
-    
-    Dec 31, 2017 @ 00:13
-    
-*   Police shoot protesters dead, cut Internet on fourth day of Iran’s anti-government unrest
-    
-    Dec 30, 2017 @ 23:30
-    
-*   The US condemns 50 arrests of Iranian anti-government protesters
-    
-    Dec 30, 2017 @ 11:45
-    
-*   ISIS claims Cairo church and Russian supermarket attacks
-    
-    Dec 30, 2017 @ 11:33
-    
-*   Israel planes strike Hamas lookout post in southern Gaza
-    
-    Dec 31, 2017 @ 00:13
-    
-*   Police shoot protesters dead, cut Internet on fourth day of Iran’s anti-government unrest
-    
-    Dec 30, 2017 @ 23:30
-    
-*   The US condemns 50 arrests of Iranian anti-government protesters
-    
-    Dec 30, 2017 @ 11:45
-    
-*   ISIS claims Cairo church and Russian supermarket attacks
-    
-    Dec 30, 2017 @ 11:33
+    Dec 31, 2017 @ 16:29
     
 
-1PrevNext DEBKA Video
+*   Five deputies shot in Douglas County, Colorado, US
+    
+    Dec 31, 2017 @ 17:26
+    
+*   Egyptian security forces wipe out Hasm terrorist cell near Cairo
+    
+    Dec 31, 2017 @ 16:50
+    
+*   Iraq gripped by fear of ISIS resurgence after new attacks
+    
+    Dec 31, 2017 @ 16:43
+    
+*   Iran’s net media shutdown blocks news of anti-government demos
+    
+    Dec 31, 2017 @ 16:29
+    
+*   Unanimous Likud vote to annex Judea and Samaria
+    
+    Dec 31, 2017 @ 23:15
+    
+*   Five deputies shot in Douglas County, Colorado, US
+    
+    Dec 31, 2017 @ 17:26
+    
+*   Egyptian security forces wipe out Hasm terrorist cell near Cairo
+    
+    Dec 31, 2017 @ 16:50
+    
+*   Iraq gripped by fear of ISIS resurgence after new attacks
+    
+    Dec 31, 2017 @ 16:43
+    
+*   Iran’s net media shutdown blocks news of anti-government demos
+    
+    Dec 31, 2017 @ 16:29
+    
+*   Unanimous Likud vote to annex Judea and Samaria
+    
+    Dec 31, 2017 @ 23:15
+    
+*   Five deputies shot in Douglas County, Colorado, US
+    
+    Dec 31, 2017 @ 17:26
+    
+*   Egyptian security forces wipe out Hasm terrorist cell near Cairo
+    
+    Dec 31, 2017 @ 16:50
+    
+*   Iraq gripped by fear of ISIS resurgence after new attacks
+    
+    Dec 31, 2017 @ 16:43
+    
+
+12PrevNext DEBKA Video
 
 TagsAl Qaeda Americas Ayatollah Ali Khamenei Barack Obama Bashar Assad Bin Laden Terror Binyamin Netanyahu chemical weapons Donald Trump Egypt Erdogan Gaza Golan Hamas Hizballah IDF Intelligence Iran Iran nuclear Iraq Iraq war ISIS Israel John Kerry Jordan Lebanon Libya Muslim Brotherhood Palestinians Russia Saudi Arabia Syria Syrian rebels Syrian war Terror Terrorism Turkey US US-Iran Vladimir Putin Search  
   
@@ -129,4 +137,4 @@ Archive Archive Select Month December 2017  (46) November 2017  (53) October 2
 *   Contact Us
 *   About Us
 
-Copyright © 2000-2017 DEBKAfile. All Rights Reserved.
+Copyright © 2000-2018 DEBKAfile. All Rights Reserved. <!--Iframe Tag -->. <!-- begin ZEDO for channel:  Debka\_Desktop\_i , publisher: Debka , Ad Dimension: 970x450 - 970 x 450 -->. <iframe src="https://tt3.zedo.com/jsc/tt3/ff2.html?n=794;c=3129;s=2;d=83;w=970;h=450" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width=970 height=450></iframe>. <!-- end ZEDO for channel:  Debka\_Desktop\_i , publisher: Debka , Ad Dimension: 970x450 - 970 x 450 -->. Skip this adSponsorship
