@@ -299,8 +299,8 @@ Connect with us
 *   Contact Us
 *   Site Map
 
-© 2017 AT&T Intellectual Property. All rights reserved.
+© 2018 AT&T Intellectual Property. All rights reserved.
 
 Legal Policy Center Privacy Policy Terms of Use Broadband Information Advertising Choices Accessibility Contact Us Site Map
 
-© 2017 AT&T Intellectual Property. All rights reserved.
+© 2018 AT&T Intellectual Property. All rights reserved.
