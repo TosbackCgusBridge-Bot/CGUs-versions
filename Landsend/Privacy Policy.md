@@ -947,7 +947,7 @@ Stores
 *   Recall &. Safety Info
 *   CA Transparency Act
 
-*   © 2017 lands' end
+*   © 2018 lands' end
 *   Sitemap
 
 Shop Your Way Rewards
