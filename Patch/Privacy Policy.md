@@ -227,7 +227,7 @@ Support
 *   Terms of Use
 *   Privacy Policy
 
-© 2017 Patch Media. All Rights Reserved.
+© 2018 Patch Media. All Rights Reserved.
 
 Swipe for more from Patch »
 
