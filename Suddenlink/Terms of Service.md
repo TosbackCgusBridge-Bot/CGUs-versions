@@ -222,7 +222,7 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
 *   Terms &. Policies
 *   Disclaimers
 
-© Copyright 2017 Suddenlink Communications, All Rights Reserved
+© Copyright 2018 Suddenlink Communications, All Rights Reserved
 
 *   Terms and Policies
 
