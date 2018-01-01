@@ -190,5 +190,5 @@ Page Content
 *   Privacy / Terms
 *   Sitemap
 
-©1995-2017 National Association of REALTORS® and Move, Inc. All rights reserved.  
+©1995-2018 National Association of REALTORS® and Move, Inc. All rights reserved.  
 realtor.com® is the official site of the National Association of REALTORS® and is operated by Move, Inc., a subsidiary of News Corp.
