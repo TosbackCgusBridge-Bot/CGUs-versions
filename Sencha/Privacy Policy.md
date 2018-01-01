@@ -216,7 +216,7 @@ Join our mailing list
 
 Subscribe
 
-© 2017 Sencha Inc. All rights reserved.
+© 2018 Sencha Inc. All rights reserved.
 
 *   Privacy Policy
 *   Terms of Use
