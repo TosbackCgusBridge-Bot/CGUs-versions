@@ -400,7 +400,7 @@ Google Plus
 *   Legal Notices
 *   Contact Us
 
-© 2017 MLB Advanced Media, LP. All rights reserved.
+© 2018 MLB Advanced Media, LP. All rights reserved.
 
 *   View MLB.com in English
 *   En Español
