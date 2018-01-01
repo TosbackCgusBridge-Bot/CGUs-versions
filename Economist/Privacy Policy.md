@@ -242,5 +242,5 @@ Last update—November 14th, 2016
 
  
 
-Copyright © The Economist Newspaper Limited 2017  
+Copyright © The Economist Newspaper Limited 2018  
 Registered in England and Wales. No. 236383 | Registered office: The Adelphi, 1-11 John Adam Street, London, WC2N 6HT | VAT Reg No: GB 340 436 876
