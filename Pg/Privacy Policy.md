@@ -84,4 +84,4 @@ How to Contact Us
 *   Privacy
 *   AdChoices
 
-© 2017 Procter &. Gamble. All claims valid only in the U.S.
+© 2018 Procter &. Gamble. All claims valid only in the U.S.
