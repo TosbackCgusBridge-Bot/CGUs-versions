@@ -429,7 +429,7 @@ Follow us
 *   Cookie policy
 *   Accessibility policy
 *   Online security
-*   © Copyright HSBC Group 2017
+*   © Copyright HSBC Group 2018
 
 No endorsement or approval of any third parties or their advice, opinions, information, products or services is expressed or implied by any information on this Site or by any hyperlinks to or from any third party websites or pages. Your use of this website is subject to the terms and conditions governing it. Please read these terms and conditions before using the website.
 
