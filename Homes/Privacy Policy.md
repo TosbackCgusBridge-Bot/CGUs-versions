@@ -1,6 +1,6 @@
 Copyright
 
-© Copyright 2017 Dominion Enterprises  
+© Copyright 2018 Dominion Enterprises  
 150 Granby Street, Norfolk, Virginia 23510  
 All Rights Reserved.  
 
