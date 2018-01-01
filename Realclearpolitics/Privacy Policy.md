@@ -101,6 +101,8 @@
     *   About
     *   Media Kit
 
+*   _Eric Schlecht_: Corporate Governance Bill's Impact Could Exceed Tax Law's
+    
 *   _David Von Drehle_: Dems Haven't Been This Confident Since... 2016
     
 *   _Daniel McCarthy_: The GOP Is Dead. The GOP Rises Again.
@@ -146,8 +148,6 @@
 *   _Colin Hanna_: Taxpayers Should Stop Funding Harassment Hush Money
     
 *   _Chris Smith_: Why Trump's Legal Team Will Turn on Flynn
-    
-*   _James Delingpole_: 30 Trillion Reasons Why the Green Blob Must Die in 2018
     
 
 *   Previous
@@ -250,9 +250,9 @@ RecommendedPolitics
 *   Investigations
 
 *   Often at Odds, Trump and Republicans Relish Tax Win, Court Picks
+*   Ray of Hope, Then Deep Hostility Between U.S. and North Korea
+*   Gowdy: There Is a Hunger for Conciliation and Unity in This Country
 *   A Year of Historic Change in Saudi Arabia, With More to Come
-*   Cuomo: Tax Bill Is an Attack on Blue States. "Economic Civil War"
-*   Trump, McConnell Set Goals, Limits for 2018
 *   Dems See a Path to House Majority in California Races
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -269,8 +269,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove56Disapprove +18
+    *   Approve40
+    *   Disapprove55Disapprove +15
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve45
     *   Disapprove53Disapprove +8
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   CNN Legal Analyst Paul Callan: President Trump Is Right About FBI. Concern About Bias Is "Legitimate"
+*   Bob Woodward: Media Needs To Watch Its "Smug" Tone, Be Careful Not To "Ridicule" The President
+*   CNN's Fareed Zakaria: Trump's America Has Resigned Position As World Leader. "Sad!"
 *   Dershowitz: "My Liberal Friends Stopped Inviting Me To Dinner, Think I'm A Trump Supporter"
-*   Chris Ruddy Facilitated "Impromptu" NYT Interview With President Trump At Golf Club
 *   NY Gov. Cuomo: GOP Tax Bill Is An Attack On Only Blue States. "Economic Civil War"
-*   Utah Editor: If Romney Replaced Hatch, We Would Be Spared Embarrassment Of Hatch "Kowtowing" To Trump
-*   Obama: Those "In Leadership" Should Use Social Media For Common Ground, Not "Balkanization" Of Views
 
 *   Politics
 *   Policy
