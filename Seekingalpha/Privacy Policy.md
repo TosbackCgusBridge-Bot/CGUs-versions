@@ -1,16 +1,13 @@
-Sign in / Join NowGO»
-
-*   Market News
-*   Stock Ideas
-*   Dividends
-*   Market Outlook
-*   Investing Strategy
-*   ETFs &. Funds
-*   Earnings
 *   PRO
 *   Marketplace
+*   Seeking Alpha
 
-Privacy
+*   Portfolio
+*   People
+*   NewsMarket NewsOn The MoveAll Market NewsTop NewsWall St. BreakfastIPOsUS EconomyM&ANews by SectorTechEnergyHealthcareConsumerFinancialsCommoditiesEarningsEarnings CalendarTop Movers on EarningsEarnings AnalysisEarnings NewsEarnings Call TranscriptsMarket PerformanceBondsCommoditiesCountriesCurrenciesDividendsEmerging MarketsGlobal and RegionsGrowth &. ValueMarket CapReal EstateSectorsStrategiesSmart BetaSubsectors
+*   AnalysisStock IdeasLong IdeasShort IdeasSectorsEditor's PicksQuick PicksDividendsREITsDividend IdeasDividend StrategyDividend NewsDividend Quick PicksEditor's PicksMarket OutlookGlobal MarketsToday's MarketEconomyGold &. Precious MetalsCommoditiesForexReal EstateEditor's PicksInvesting StrategyPortfolio StrategyFixed IncomeBondsFinancial AdvisorsRetirementIPOsEditor's PicksETFs and FundsETF ScreenerETF AnalysisETF GuideMutual FundsClosed End FundsEditor's Picks
+
+Sign in / Join NowGO» Privacy
 
 Thank you for visiting https://seekingalpha.com (together with all other websites and services operated by or on behalf of Seeking Alpha, Ltd., the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at the Site. This Privacy Policy forms part of the Terms of Use.
 
