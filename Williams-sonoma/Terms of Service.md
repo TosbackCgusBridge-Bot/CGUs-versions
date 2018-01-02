@@ -251,7 +251,7 @@ Effective Date: June 11, 2015
 
 Legal Statement
 
-Copyright 2017 Williams-Sonoma, Inc. All Rights Reserved.
+Copyright 2018 Williams-Sonoma, Inc. All Rights Reserved.
 
 Williams Sonoma© is a registered trademark of Williams-Sonoma, Inc.
 
