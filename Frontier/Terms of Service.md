@@ -60,11 +60,14 @@ Shop
 
 *   Bundles
 *   Internet
-*   Phone
+*   Internet-FiOS
+*   Internet-Vantage
 *   Video/TV
+*   Video/TV-FiOS
+*   Video/TV-Vantage
+*   Phone
 *   Frontier Secure
 *   Moving
-*   Discount Programs
 
 My Account
 
@@ -87,14 +90,15 @@ Support
 
 Corporate
 
-*   About Us
-*   Investor Relations
+*   Company
+*   Investors
 *   News
-*   Careers
+*   Responsibility
 *   Suppliers
-*   Pressroom
 *   Sponsorships
 *   Public Inspection Files
+*   Discount Programs
+*   Careers
 
 Frontier Sites
 
@@ -108,13 +112,17 @@ Frontier Sites
 Sales Partners
 
 *   Frontier Internet
+*   Frontier Internet Bundles
+*   Frontier Internet Packages
 *   Local Internet
 *   Frontier FiOS
-*   Frontier Plans
+*   Frontier FiOS Internet
+*   Frontier FiOS Availability
+*   Frontier Pricing
 *   Frontier Broadband
+*   Frontier High-Speed Internet
+*   Frontier Internet Availability
 *   Frontier Internet Plans
-*   Frontier Bundles
-*   Frontier West
 
 *   Policies &. Notifications
 *   |
@@ -146,4 +154,4 @@ Minute(s)
 
 We could not complete your request. Please call us at:
 
-  Chat
+  Chat Replay IconFeedback
