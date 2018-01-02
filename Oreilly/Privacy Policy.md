@@ -257,7 +257,7 @@ Click here for version 2.0.
 
 Click here for version 1.1.
 
-About Us
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1732687426968531&amp;ev=PageView&amp;noscript=1">. About Us
 
 *   Our Company
 *   Teach/Speak/Write
@@ -271,10 +271,8 @@ About Us
 *   YouTube
 *   Newsletters
 
-© 2017 O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+© 2018 O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
 
   
 
 Terms of Service • Privacy Policy • Editorial Independence
-
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1732687426968531&amp;ev=PageView&amp;noscript=1">
