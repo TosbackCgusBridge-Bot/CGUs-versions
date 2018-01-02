@@ -32,8 +32,8 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Time Zone Articles
 *   CalendarBack
     *   Calendar Info
-    *   Calendar 2017
     *   Calendar 2018
+    *   Calendar 2019
     *   Monthly Calendar
     *   Printable PDF Calendar
     *   Add Your Own Calendar Events
@@ -62,8 +62,6 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Timer
     *   Countdown to Any Date
     *   New Year Countdown
-    *   New Year Countdown World Map
-    *   New Year Trivia
 *   CalculatorsBack
     *   Date to Date Calculator (duration)
     *   Business Date to Date (exclude holidays)
@@ -155,7 +153,7 @@ webmaster@timeanddate.comtimeanddate.com
 
 Index
 
-Copyright © Time and Date AS 1995–2017. All rights reserved.
+Copyright © Time and Date AS 1995–2018. All rights reserved.
 
 Feedback | Short URL |
 
