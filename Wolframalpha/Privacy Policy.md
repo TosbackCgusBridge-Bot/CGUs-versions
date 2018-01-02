@@ -106,7 +106,7 @@ Wolfram|Alpha Pages
 *   Connect
     
 
-*   ©2017 Wolfram Alpha LLC
+*   ©2018 Wolfram Alpha LLC
 *   Terms
 *   Privacy
 
