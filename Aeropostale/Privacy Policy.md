@@ -286,7 +286,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** \+ **FREE SHIPPING OVER $75** **70-80% OFF ALL CLEARANCE**
+**EXTRA 18% OFF** USE CODE **HELLO18** **50-70% OFF** \+ **FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -536,7 +536,7 @@ ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Clearance Shop Gu
 *   3
 *   4
 
-Promotions Shop Girls Shop Guys find a store to enter Shop dresses <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+Promotions Shop Girls Shop Guys Shop dresses <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
