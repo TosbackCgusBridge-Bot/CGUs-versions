@@ -1,4 +1,4 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Toggle navigation
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Toggle navigation
 
 *   MyVanco Login
 
@@ -115,7 +115,7 @@ If you have questions about the privacy aspects of our Services or would like to
 **Changes to this Policy**  
 This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Sites. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Sites, or emailing your email address of record.
 
-About
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">. About
 
 **Focus:** Meeting clients’ specialized payment needs  
 **Offering:** Credit, debit and other electronic payments  
