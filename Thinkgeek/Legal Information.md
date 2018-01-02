@@ -1,7 +1,6 @@
 Help   >.  
 
-Legal Information Customer Service is closed for the holiday, but Timmy would still love to help!  
-Send an email to orders@thinkgeek.com and we'll get back to you as soon as we can. Age Restrictions
+Legal Information Age Restrictions
 
 Registration and participation on www.thinkgeek.com (the "Site") is restricted to those individuals over 18 years of age, emancipated minors, or those who possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations and warranties herein. By registering or participating in services or functions on the Site, you hereby represent that you are over 18 years of age, an emancipated minor or in possession of consent by a legal parent or guardian and have the authority to enter into the terms herein. In any case, you affirm that you are over the age of 13 as the Site is not intended for children under 13. If you are under 13 years of age, do not use the Site. If you do not qualify or do not agree to these terms, you may not use the Site.
 
@@ -52,7 +51,6 @@ Monday - Friday
     
     (1-888-433-5788)
     
-    Phone support is currently unavailable.
 
 **ThinkGeek, Inc.** 11216 Waples Mill Rd. Suite 100  
 Fairfax, VA 22030  
