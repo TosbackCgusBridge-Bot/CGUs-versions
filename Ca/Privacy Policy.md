@@ -80,7 +80,7 @@ General Assistance   
 *   Twitter
 *   YouTube
 
-Copyright © 2017 State of California  
+Copyright © 2018 State of California  
     ×
 
   
