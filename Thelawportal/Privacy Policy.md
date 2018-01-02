@@ -35,7 +35,7 @@ Recent Topics:
 Recommended Links:
 
 *   Intellectual Property Law
-*   Portal
+*   General Power of Attorney
 
 **Search Here**
 
