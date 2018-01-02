@@ -678,14 +678,14 @@ Zur Startseite Diesen Artikel...
 *   Feedback
 *   Nutzungsrechte
 
-  
-  
+Advertisement  
+Advertisement  
 
 **© SPIEGEL ONLINE**  
 Alle Rechte vorbehalten  
 Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH
 
-  
+Advertisement  
 TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen. Serviceangebote von SPIEGEL-ONLINE-Partnern
 
 *   AUTO
