@@ -191,6 +191,6 @@ Firefox
 *   Cookies
 *   Legal
 
-Portions of this content are ©1998–2017 by individual mozilla.org contributors. Content available under a Creative Commons license.
+Portions of this content are ©1998–2018 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
 Language عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दीHrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиKiswahiliதமிழ் <button type="submit">Go</button>.
