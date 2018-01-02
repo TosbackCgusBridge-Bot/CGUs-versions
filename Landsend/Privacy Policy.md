@@ -7,7 +7,7 @@ skip to content skip to navigation skip to search Lands' End SIGN IN MY ACCOUNT
 *   Free Shipping on $50+ Orders
 *   |
 *   Offers
-    *   Free Shipping on orders of $50 or more Code: **FS50COUPON** PIN: **1000**  Details
+    
 
 *   Call or Text 1-800-963-4816
 *   Ship To
@@ -958,4 +958,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-Today's Offers Free Shipping on orders of $50 or more Details Apply Promo Promo Applied Free Shipping on orders of $50 or more Details Apply Promo Promo Applied Free Shipping on orders of $50 or more Details Apply Promo Promo Applied Free Shipping on orders of $50 or more Details Apply Promo Promo Applied Promo applied. Limit one promo per order. Benefits are displayed in your shopping bag. Some offers may require a promo to receive benefits. Limit one promo per order. • <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+Today's Offers Promo applied. Limit one promo per order. Benefits are displayed in your shopping bag. Some offers may require a promo to receive benefits. Limit one promo per order. <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
