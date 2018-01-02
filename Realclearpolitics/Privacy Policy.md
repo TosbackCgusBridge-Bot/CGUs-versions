@@ -268,6 +268,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Direction of CountryRasmussen Reports
+    *   Right Direction40
+    *   Wrong Track55Wrong Track +15
 *   President Trump Job ApprovalGallup
     *   Approve40
     *   Disapprove55Disapprove +15
@@ -277,9 +280,6 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve43
     *   Disapprove53Disapprove +10
-*   Congressional Job ApprovalEconomist/YouGov
-    *   Approve14
-    *   Disapprove64Disapprove +50
 
 More Latest Polls In The News
 
