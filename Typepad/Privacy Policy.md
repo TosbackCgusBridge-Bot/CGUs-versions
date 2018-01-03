@@ -2,6 +2,10 @@
 
 1.1 This Privacy Policy explains how Typepad, Inc. ("we", "us", "our" or "Typepad") collects, uses and shares your "Personal Information" - information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number - and other data through your use of any of Typepad's Web sites (each, a "Site" and, collectively, the "Sites"), any of Typepad's services (each, a "Service" and, collectively, the "Services") and any of Typepad's software ("Software").
 
+The information that Typepad collects in connection with the Services is hosted on servers located in the United States (U.S.), unless otherwise provided.
+
+By using the Services, you freely and expressly give Typepad your consent to export your information and data to the U.S.
+
 1.2 This policy does not apply to the practices of companies that Typepad does not own or control or to people that Typepad does not employ or manage.
 
 1.3 Your use of Typepad's Sites, Services and Software is subject to this Privacy Policy in effect at the time of your use. Typepad reserves the right to update and change this Privacy Policy from time to time without notice or acceptance by you, so please check this page frequently for updates and changes. However, changes made to this Privacy Policy will not apply to you to the extent that (i) the changes concern matters which are the subject of an actual dispute between you and Typepad as of the date the changes take effect and (ii) Typepad has actual notice of the dispute as of the date the changes take effect.
@@ -182,6 +186,6 @@ Typepad
 Burlington, MA 01803  
 Attention: Typepad Copyright Agent  
 
-Last updated March 4, 2011
+Last updated January 2, 2018
 
-Copyright © 2016 Typepad, Inc. All rights reserved.
+Copyright © 2018 Typepad, Inc. All rights reserved.
