@@ -2,7 +2,7 @@
 *   Politics
 *   Royals
 *   The Holidays
-*   Gift Guide 2017
+*   Gift Guide 2018
 
 *   Subscribe
     *   Give a Gift
@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 11 Places to Spend New Year's 2018 2 Our Most Read, Shared, and Loved Stories of 2017 3 Champagne vs. Prosecco: What's The Difference? 4 Here's Where to Go on Your Next Vacation in 2018 5 FAO Schwarz Is Reopening in New York Privacy Policy Dec 1, 2014
+Today's Top Stories 1 All About 'The Assassination of Gianni Versace' 2 Prince Harry and Meghan Markle's Sweetest Moments 3 Here's Where to Go on Your Next Vacation in 2018 4 Our Most Read, Shared, and Loved Stories of 2017 5 How to Make the Golden Globes's Official Cocktail Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -182,12 +182,12 @@ Last revised on April 1, 2016
 Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
-*   Inside the World of Luxury Vacation Rentals
-*   Five Things To Know Before You Move To Malta
 *   T&C's Travel Tips Around Egypt
 *   How the Other Half Dies
 *   T&C Essentials: How to Pack the Perfect Picnic
 *   I Drank Like Don Draper at Lunch - And You Can Too
+*   The Space Cowgirl: Rosson Crow
+*   Going Places
 
 *   Newsletter
 *   Contact Us
