@@ -44,68 +44,57 @@ Gift Cards | Offers | Sign In Sign Out
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   Regal Park Place Stadium 16 &. RPX 7200 US Highway 19 North
-    *   Cobb Tyrone Luxury 10 2998 Tyrone Blvd N.
-    *   Studio Movie Grill Seminole 7718 113th Street N
-    *   AMC Sundial 20 151 2nd Ave North St.
-    *   Regal Largo Mall 8 10500 Ulmerton Rd East
-    *   Capitol Theater 405 Cleveland Street
-    *   Sunset Point Cinema Bar &. Grille 24095 U.S. Highway 19 North
-    *   Cobb Countryside 12 Cinemas 27001 US Highway 19 N.
-    *   Britton Cinemas 3938 South Dale Mabry Hwy
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Paul Thomas Anderson on How Daniel Day-Lewis Has Helped Make Him a Better Filmmaker Read More
-    *   The Week in Movie News: First Look at 'Ocean's 8,' 'Star Wars: The Last Jedi' Spoilers Read More
+    *   The Three Highest-Grossing Movies of 2017 All Had One Awesome Thing in Common Read More
+    *   Moviegoers Name 'Avengers: Infinity War' the Most Anticipated Release of 2018 Read More
     *   Watch Lily James as a Young Meryl Streep in the 'Mamma Mia! Here We Go Again' Trailer Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
-    *   Star Wars Guide
-    *   Holiday Movie Guide
     *   Awards Watch
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 33780 Edit Zip Code
+*   My VIP Account Join FandangoVIP Refunds + Exchanges
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Partner Rewards
     
-
-See all insider perks Payment Method
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Refunds + Exchanges
-
-Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
-
-Learn more Partner Rewards
-
-Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
-
-Learn more My Fandango
-
-Save your favorite theaters and movies to experience a customized Fandango just for you.
-
-Learn more Insider Perks
-
-Get the VIP treatment, free screenings, digital downloads, discounts and more.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
+    
+    Learn more My Fandango
+    
+    Save your favorite theaters and movies to experience a customized Fandango just for you.
+    
+    Learn more Insider Perks
+    
+    Get the VIP treatment, free screenings, digital downloads, discounts and more.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms
 
@@ -265,9 +254,9 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   'Jurassic World: Fallen Kingdom' Sweepstakes
+*   'Paddington 2' Gift With Purchase
     
-    Sign up for a ‘Jurassic World: Fallen Kingdom’ FanAlert® for your chance to win a trip to the filming location in Hawaii. SIGN UP
+    Buy tickets to 'Paddington 2' and own the first 'Paddington' for just $2.99! BUY TICKETS
     
 *   'I, Tonya' Sweepstakes
     
@@ -277,21 +266,21 @@ Offers
     
     Buy tickets and get a FREE Pitch Perfect Pin Set. BUY TICKETS
     
-*   Holiday Gift Card Offer
+*   Fandango VIP
     
-    Give the gift of movies. Free movie ticket with gift card orders $75+. Plus, get a chance to win a year of movie tickets with orders over $100. Use code: HOLIDAY4U BUY NOW
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 
 New + Coming soon
 
-*   Justice League (2017)
-*   Coco (2017)
 *   Star Wars: The Last Jedi (2017)
 *   Jumanji: Welcome to the Jungle
 *   Pitch Perfect 3
 *   Maze Runner: The Death Cure
 *   Black Panther
 *   A Wrinkle in Time
+*   Tomb Raider (2018)
+*   Ready Player One
 
 Experience + Explore
 
@@ -305,8 +294,6 @@ Experience + Explore
 Editorial Features
 
 *   Indie Movie Guide
-*   Star Wars Guide
-*   Holiday Movie Guide
 *   Awards Watch
 *   Movie News
 
@@ -320,7 +307,7 @@ Videos
 Photos
 
 *   Red Carpet
-*   December Celebrity Birthdays
+*   January Celebrity Birthdays
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
 
