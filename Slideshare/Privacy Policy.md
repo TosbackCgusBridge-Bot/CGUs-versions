@@ -418,7 +418,7 @@ If you have questions or complaints regarding this Policy, please first contact 
 *   Titles
 *   ProFinder
 
-LinkedIn Corporation _© 2017_
+LinkedIn Corporation _© 2018_
 
 *   User Agreement
 *   Privacy Policy
