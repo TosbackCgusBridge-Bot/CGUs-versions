@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Eric Schlecht_: Corporate Governance Bill's Impact Could Exceed Tax Law's
+*   _Howie Carr_: Channeling Teddy Roosevelt, Trump Gets Results Abroad
     
-*   _David Von Drehle_: Dems Haven't Been This Confident Since... 2016
+*   _Susan Glasser_: Donald Trump's Year of Living Dangerously
     
-*   _Daniel McCarthy_: The GOP Is Dead. The GOP Rises Again.
+*   _David Byler_: The GOP Has a Turnout Problem. Plus a Few Others...
     
-*   _Noah Feldman_: What Tillerson Won't Admit: The U.S. Has No Leverage
+*   _Dan Balz_: Are Dems Realistic About Their Own Issues Going Into 2018?
     
-*   _Roger Simon_: Liberal Humiliation: Trump vs. Obama on Iran
+*   _Lawrence Meyers_: An Apocalyptic 2017? Only for Democrats
     
-*   _David Brock_: Consequences in the Partisan Crusade Against Mueller
+*   _Ezra Klein_: What Trump Didn't Do in 2017
     
-*   _Paul Callan_: Trump Is Right About the FBI
+*   _Peter Kohanloo &. Sohrab Ahmari_: An Iranian Revolution of National Dignity
     
-*   _Biba Kang_: The Last Year Women Take Responsibility for Men's Sins
+*   _Aaron David Miller_: This Moment Is About Iran, Not About Trump
     
-*   _Nicole Russell_: How the 'Feminist' Left Let Women Down in 2017
+*   _Alfredo Ortiz_: Congress's Gift to Blue-State Taxpayers
     
-*   _T.A. Frank_: 5 Nightmarish Headaches Trump Faces in 2018
+*   _Allan Wernick_: Hope It'll Be a Better Year for Immigrants After a Tough 2017
     
-*   _Steve Cortes_: Trump's 2017 Top 10 Achievements
+*   _Carl Cannon_: From Detroit to Selma: Viola Liuzzo's Sacrifice
     
-*   _Clare Foran_: Can Democrats Flip a House Seat in a District Trump Won?
+*   _Terry Glavin_: The Uprising in Iran: 'This Is What Revolution Looks Like'
     
-*   _George Will_: Academic Freedom Goes on Trial
+*   _Benny Avni_: The Protesters in Iran Need Our Help
     
-*   _Aaron Hanlon_: The Decline of Debate on College Campuses
+*   _Philip Gordon_: How Can Trump Help Iran's Protesters? Be Quiet
     
-*   _Heather Mac Donald_: Don't Take the Wrong Lessons From NYC's Murder Drop
+*   _Ben Shapiro_: Trump Reverses the Obama Doctrine on Iran
     
-*   _Harry Siegel_: Phantom Fears and a Safer City
+*   _Ian Bremmer_: These Are the Top 10 Risks to the World in 2018
     
-*   _Peter Van Buren_: 2017: The Year the Iraq War Truly Ended
+*   _E.J. Dionne_: This New Year, Tell Trump: Enough
     
-*   _Haroon Ullah_: How Silicon Valley Gave Rise to the Next Generation of Terror
+*   _Liz Peek_: Trump's Hysteria-Prone Critics Must Be Disappointed by 2017
     
-*   _Carrie Sheffield_: Conservatives Packed 2017 With Wins. Push 2018 Further
+*   _Scott Lemieux_: Remember, Much of What Trump Does Can Be Undone
     
-*   _David Ignatius_: Trump's Divisiveness Puts America at Risk
+*   _Appelbaum &. Tankersley_: New Wave of Optimism Prompts Businesses to Invest
     
-*   _James Robbins_: Difference Between 'Leading From Behind' &. Actually Leading
+*   _Ross Kaminsky_: A President of Consequence
     
-*   _Ryan Cooper_: The American Empire Is Crumbling
+*   _Dana Goodyear_: Can Hollywood Change Its Ways?
     
-*   _Colin Hanna_: Taxpayers Should Stop Funding Harassment Hush Money
+*   _Michael Tomasky_: Al Franken's Resignation Is Deeply Unfair
     
-*   _Chris Smith_: Why Trump's Legal Team Will Turn on Flynn
+*   _Jonathan Turley_: 2018 Resolutions for Trump, Congress and the Media
     
 
 *   Previous
@@ -249,10 +249,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Often at Odds, Trump and Republicans Relish Tax Win, Court Picks
 *   Ray of Hope, Then Deep Hostility Between U.S. and North Korea
-*   Gowdy: There Is a Hunger for Conciliation and Unity in This Country
-*   A Year of Historic Change in Saudi Arabia, With More to Come
+*   Perils Abroad, Full Plate at Home, as Trump Opens 2nd Year
+*   Trump: "We're Doing Things That Nobody Thought Possible"
+*   Often at Odds, Trump and Republicans Relish Tax Win, Court Picks
 *   Dems See a Path to House Majority in California Races
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Thomas Frank: Harvey Weinstein Bought "Karma Offsets" With Donations To DNC, Clinton Foundation
 *   CNN Legal Analyst Paul Callan: President Trump Is Right About FBI. Concern About Bias Is "Legitimate"
 *   Bob Woodward: Media Needs To Watch Its "Smug" Tone, Be Careful Not To "Ridicule" The President
 *   CNN's Fareed Zakaria: Trump's America Has Resigned Position As World Leader. "Sad!"
 *   Dershowitz: "My Liberal Friends Stopped Inviting Me To Dinner, Think I'm A Trump Supporter"
-*   NY Gov. Cuomo: GOP Tax Bill Is An Attack On Only Blue States. "Economic Civil War"
 
 *   Politics
 *   Policy
