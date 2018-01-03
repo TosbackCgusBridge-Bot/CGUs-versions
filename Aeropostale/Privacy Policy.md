@@ -286,7 +286,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**EXTRA 18% OFF** USE CODE **HELLO18** **50-70% OFF** \+ **FREE SHIPPING OVER $75**
+**50-70% OFF** \+ **FREE SHIPPING OVER $75** **70-80% OFF ALL CLEARANCE**
 
 *   My Account My Account Login Register
 
@@ -568,4 +568,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2017 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved.
