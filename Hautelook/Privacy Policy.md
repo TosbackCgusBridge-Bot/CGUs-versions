@@ -8,14 +8,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   ASICS Starting at $40
+    *   ASICS Men Starting at $50
+    *   Robin Piccone Swim
+    *   Fit to Flatter: Dresses Up to 70% Off
+    *   Rifle Paper Co
+    *   Resort Ready: Beach-Bound Towels Starting at $10
+    *   Free Shipping: Luxe Home Accent Blowout
+    *   Nutrichef Kitchen Electrics Up to 65% Off
+    *   New Year's Resolution: Hydration Starting at $12
+    *   T Tahari
+    *   Lancaster Paris
+    *   DKNY Lingerie
+    *   John &. Jenn Up to 70% Off
+    *   Treasure Hunt: Rings, Necklaces &. More Up to 85% Off
+    *   Kensie Footwear
+    *   Resort Trend Earrings Starting at $15
+    *   Olivia Welles Jewelry Up to 80% Off
+    *   NuFACE
+    *   ChinUp Masks
+    *   Pinrose Fragrances
+    *   ASICS Kids Starting at $30
+    *   Character Tees &. More Up to 75% Off
+    *   Trendy Looks for Tweens
+    *   Maceoo
+    *   RIP CURL
+    *   Made in Italy: Perla Formentini
+    *   Riller &. Fount Up to 80% Off
     *   Derek Lam Up to 80% Off
     *   Women's Shoes Up to 65% Off
     *   14K Gold Jewelry &. More Starting at $20
     *   Last Call: Women's Apparel Up to 80% Off
     *   Sun Steals Up to 75% Off
+    
     *   Royale USA Hair Tools Up to 90% Off
     *   Men's Shoes Up to 65% Off
-    *   Last Chance: Travel Must-Haves
+    *   Last Chance: Travel Must-Haves Up to 65% Off
     *   Sweat to the Sound: Bluetooth Blowout
     *   Kids' Premium Brands Up to 65% Off
     *   New Year, New Boots: Styles Starting at $25
@@ -37,60 +65,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Eliza J Coats at 80% Off
     *   Designer Shoes ft. Bruno Magli Up to 75% Off
     *   Night Out: Dresses ft. Nicole Andrews
-    *   Joie &. CURRENT/ELLIOTT
-    *   Report Starting at $20
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Desigual
-    *   Mia Under $50
-    *   James Jeans
-    *   H by Bordeaux Including Special Sizes
-    
-    *   Miraclesuit Swim &. More
-    *   Brands We Love ft. Aiden Up to 70% Off
-    *   LOVE Moschino Up to 70% Off
-    *   Vicenzo Leather
     *   Vanity Planet Up to 80% Off
-    *   Susina and 14th &. Union Starting at $40
-    *   Must-Have Loafers &. Flats Under $70
     *   Original Penguin Tailored Clothing
     *   Men's Sun ft. John Varvatos
     *   Resort Ready: Onia
     *   Dress Shirts Under $35
     *   English Laundry Up to 60% Off
-    *   Citizen Eco Drive Watches &. More
     *   Free Shipping: Designer Art Prints Up to 65% Off
     *   Free Shipping: Fresh Bedding Starting at $23
+    
     *   Starry Nights: Kids' Pajamas
-    *   Go Couture Dress Blowout
-    *   14th &. Union Including Special Sizes
-    *   Ivy Kirzhner
-    *   Plus Shop: Melissa McCarthy Seven7 &. More
-    *   HPE Activewear
     *   Free Shipping: Pop Art Pillows Under $18
-    *   Polished Perfection: Dresses, Bottoms &. More
-    *   Sock Sets, PJ Packs &. More
-    *   All Under $55: Classic Leather Bags
-    *   14th &. Union Accessories Starting at $10
-    *   1928 Jewelry Starting at $15
-    *   indigo rd. Under $45
-    *   Wardrobe Staple: Chic Sneakers Starting at $30
-    *   Micro-Pave Jewelry Up to 65% Off
     *   Blowout Basics: Hair Dryers Up to 70% Off
     *   Skin Chemists Up to 80% Off
     *   NIGHT Youth-Boosting Pillows
     *   Born Men
     *   Oakley &. More
     *   John Varvatos Shoes
-    
     *   Free Shipping: Cozy Coverlets &. More Starting at $15
     *   Free Shipping: Pet Accessories Starting at $12
     *   Suslo Couture
-    *   Saucony Men
     *   Teami Blends
     *   Blend Mineral Cosmetics Up to 80% Off
     *   Lazerfuzion Lip Plumping System Starting at $10
     *   Argan Magic Hair Care Under $15
-    *   O'Neill
     *   Free Shipping: Surya Rug Steals
     *   Free Shipping: Picnic Must-Haves Starting at $20
     *   Free Shipping: Accent Furniture Up to 70% Off
@@ -100,32 +98,38 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Ted Baker Home Essentials Under $50
     *   Free Shipping: Witty Doormats at 50% Off
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Nest Fragrances
-    *   ghd: good hair day, every day
-    *   X by Gottex Active Up to 70% Off
-    *   Kenneth Cole Reaction Starting at $40
-    *   Trask Men
     *   Free Shipping: EightMood Decor Starting at $10
     *   Time Flies: Modern Clocks We Love
     *   Laptop Sleeves &. More Starting at $10
-    *   End-of-Season Holiday Storage Starting at $10
-    *   Free Shipping: Year-End Rug Steals
-    *   New Year's Update: Kitchen Electrics from $13
-    *   Free Shipping: End-of-Year Art Steals &. More
     *   Free Shipping: Year-End Bedding Up to 80% Off
-    *   Saachi Leather Wrap Bracelets &. More Starting at $15
-    *   Kenneth Cole Tailored Clothing
-    *   Dynamic Innovation Labs Skin Care Up to 95% Off
-    *   Pixi Beauty Under $16
+    *   Report Starting at $20
+    *   Joie &. CURRENT/ELLIOTT
 *   WomenShop Sale Events
     
+    *   ASICS Starting at $40
+    *   Robin Piccone Swim
+    *   Fit to Flatter: Dresses Up to 70% Off
+    *   T Tahari
+    *   Lancaster Paris
+    *   DKNY Lingerie
+    *   John &. Jenn Up to 70% Off
+    *   Treasure Hunt: Rings, Necklaces &. More Up to 85% Off
+    *   Kensie Footwear
+    *   Resort Trend Earrings Starting at $15
+    *   Olivia Welles Jewelry Up to 80% Off
+    *   NuFACE
+    *   ChinUp Masks
+    *   Pinrose Fragrances
+    *   Made in Italy: Perla Formentini
+    *   Riller &. Fount Up to 80% Off
     *   Derek Lam Up to 80% Off
     *   Women's Shoes Up to 65% Off
     *   14K Gold Jewelry &. More Starting at $20
     *   Last Call: Women's Apparel Up to 80% Off
     *   Sun Steals Up to 75% Off
     *   Royale USA Hair Tools Up to 90% Off
-    *   Last Chance: Travel Must-Haves
+    *   Last Chance: Travel Must-Haves Up to 65% Off
+    
     *   New Year, New Boots: Styles Starting at $25
     *   PRJON Active Up to 75% Off
     *   W118 by Walter Baker Up to 75% Off
@@ -139,35 +143,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Eliza J Coats at 80% Off
     *   Designer Shoes ft. Bruno Magli Up to 75% Off
     *   Night Out: Dresses ft. Nicole Andrews
-    *   Joie &. CURRENT/ELLIOTT
-    *   Report Starting at $20
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Desigual
-    *   Mia Under $50
-    *   James Jeans
-    *   H by Bordeaux Including Special Sizes
-    *   Miraclesuit Swim &. More
-    *   Brands We Love ft. Aiden Up to 70% Off
-    *   LOVE Moschino Up to 70% Off
-    *   Vicenzo Leather
-    
     *   Vanity Planet Up to 80% Off
-    *   Susina and 14th &. Union Starting at $40
-    *   Must-Have Loafers &. Flats Under $70
-    *   Citizen Eco Drive Watches &. More
-    *   Go Couture Dress Blowout
-    *   14th &. Union Including Special Sizes
-    *   Ivy Kirzhner
-    *   Plus Shop: Melissa McCarthy Seven7 &. More
-    *   HPE Activewear
-    *   Polished Perfection: Dresses, Bottoms &. More
-    *   Sock Sets, PJ Packs &. More
-    *   All Under $55: Classic Leather Bags
-    *   14th &. Union Accessories Starting at $10
-    *   1928 Jewelry Starting at $15
-    *   indigo rd. Under $45
-    *   Wardrobe Staple: Chic Sneakers Starting at $30
-    *   Micro-Pave Jewelry Up to 65% Off
     *   Blowout Basics: Hair Dryers Up to 70% Off
     *   Skin Chemists Up to 80% Off
     *   NIGHT Youth-Boosting Pillows
@@ -175,54 +151,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Blend Mineral Cosmetics Up to 80% Off
     *   Lazerfuzion Lip Plumping System Starting at $10
     *   Argan Magic Hair Care Under $15
-    *   Nest Fragrances
-    *   ghd: good hair day, every day
-    *   X by Gottex Active Up to 70% Off
-    *   Kenneth Cole Reaction Starting at $40
-    *   Saachi Leather Wrap Bracelets &. More Starting at $15
-    *   Dynamic Innovation Labs Skin Care Up to 95% Off
-    *   Pixi Beauty Under $16
+    *   Report Starting at $20
+    *   Joie &. CURRENT/ELLIOTT
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
-    *   Handbags
+    *   Shoes
     *   Accessories
+    *   Handbags
     *   Lingerie
     *   Tech Accessories
-    *   Watches
 *   MenShop Sale Events
     
+    *   ASICS Men Starting at $50
+    *   Maceoo
+    *   RIP CURL
     *   Men's Shoes Up to 65% Off
-    *   Last Chance: Travel Must-Haves
+    *   Last Chance: Travel Must-Haves Up to 65% Off
     *   Rogue Up to 85% Off
     *   Post-Holiday Special: Jean Claude at 80% Off
     *   Men's Boots Up to 70% Off
     *   Original Penguin Tailored Clothing
+    
     *   Men's Sun ft. John Varvatos
     *   Resort Ready: Onia
     *   Dress Shirts Under $35
     *   English Laundry Up to 60% Off
-    
-    *   Citizen Eco Drive Watches &. More
     *   Born Men
     *   Oakley &. More
     *   John Varvatos Shoes
     *   Suslo Couture
-    *   Saucony Men
     *   Teami Blends
-    *   O'Neill
-    *   Trask Men
-    *   Kenneth Cole Tailored Clothing
     
     Shop By Category
     *   Clothing
-    *   Accessories
     *   Shoes
-    *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   ASICS Kids Starting at $30
+    *   Character Tees &. More Up to 75% Off
+    *   Trendy Looks for Tweens
     *   Kids' Premium Brands Up to 65% Off
     *   Envya Kids' Swim
     *   Kids' Sneakers Starting at $20
@@ -231,15 +201,20 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
-    *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
     *   Girls' Shoes
-    *   Baby Girl
+    *   Boys Sizes 2T-7
     *   Boys' Shoes
+    *   Boys Sizes 8-20
+    *   Baby Girl
     *   Kids Accessories
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Rifle Paper Co
+    *   Resort Ready: Beach-Bound Towels Starting at $10
+    *   Free Shipping: Luxe Home Accent Blowout
+    *   Nutrichef Kitchen Electrics Up to 65% Off
+    *   New Year's Resolution: Hydration Starting at $12
     *   Sweat to the Sound: Bluetooth Blowout
     *   Healthy Living: Books &. Guides from $10
     *   Free Shipping: Designer Art Prints Up to 65% Off
@@ -248,11 +223,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Cozy Coverlets &. More Starting at $15
     *   Free Shipping: Pet Accessories Starting at $12
     *   Free Shipping: Surya Rug Steals
+    
     *   Free Shipping: Picnic Must-Haves Starting at $20
     *   Free Shipping: Accent Furniture Up to 70% Off
     *   Free Shipping: Outdoor Decor Starting at $25
     *   OXO Kitchen Gadgets Starting at $10
-    
     *   Free Shipping: Modern Flatware Starting at $16
     *   Ted Baker Home Essentials Under $50
     *   Free Shipping: Witty Doormats at 50% Off
@@ -260,10 +235,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: EightMood Decor Starting at $10
     *   Time Flies: Modern Clocks We Love
     *   Laptop Sleeves &. More Starting at $10
-    *   End-of-Season Holiday Storage Starting at $10
-    *   Free Shipping: Year-End Rug Steals
-    *   New Year's Update: Kitchen Electrics from $13
-    *   Free Shipping: End-of-Year Art Steals &. More
     *   Free Shipping: Year-End Bedding Up to 80% Off
     
     Shop By Category
@@ -271,28 +242,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bedding
     *   Outdoor Living
     *   Kitchen &. Tabletop
-    *   Organization
     *   Accent Furniture
-    *   Rugs
-    *   Luggage &. Travel
     *   Bath
+    *   Rugs
+    *   Organization
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   NuFACE
+    *   ChinUp Masks
+    *   Pinrose Fragrances
     *   Royale USA Hair Tools Up to 90% Off
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Vanity Planet Up to 80% Off
     *   Blowout Basics: Hair Dryers Up to 70% Off
+    
     *   Skin Chemists Up to 80% Off
     *   NIGHT Youth-Boosting Pillows
     *   Teami Blends
-    
     *   Blend Mineral Cosmetics Up to 80% Off
     *   Lazerfuzion Lip Plumping System Starting at $10
     *   Argan Magic Hair Care Under $15
-    *   Nest Fragrances
-    *   ghd: good hair day, every day
-    *   Dynamic Innovation Labs Skin Care Up to 95% Off
-    *   Pixi Beauty Under $16
     
     Shop By Category
     *   Skin Care
@@ -300,6 +270,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Makeup
     *   Tools &. Accessories
     *   Supplements
+    *   Fragrance
     *   Bath &. Body
     *   Nails
 
