@@ -696,9 +696,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 50% off 1 full-price style!
 
-code: HOORAY pin: 4157 DETAILS
+code: ARCTIC pin: 3217 DETAILS
 
 Customer Service Menu
 
