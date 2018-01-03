@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals zzVMIkKcW3hSXPod9vMX1dS
+Office Depot Deals ZJFDKjoEoMzYyAzIvYJvJXe
 
 Search Suggestions
 
@@ -151,8 +151,8 @@ Office Depot, Inc.’s charitable arm, The Office Depot Foundation, supports pro
 Give them a gift card.  
 Never expires, ships for free
 
- Sign up. Get $50 off $150  
-plus 20% back in rewards
+ Sign up. Get $50 off $150 plus  
+25% back on select products
 
 2% back in rewards on everything  
 Not a member? Join today. It's FREE!
@@ -235,4 +235,4 @@ This promotion is for Rewards members only. To take advantage of exclusive offer
 
 Join Sign In
 
-/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll Feedback Will open a new window
+/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll
