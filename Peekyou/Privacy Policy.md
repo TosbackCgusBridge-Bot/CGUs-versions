@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 17%  5% 
+What is PeekScore? Public Records &. Background Checks 15%  3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 17%  5% 
     
 *   Show Less ...
 
-17%  17%  Arrest Records &. Driving Infractions
+15%  15%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 16%  Twitter 4% 
+Facebook 15%  Twitter 3% 
 
 *   HIV.gov - HIVGov
     
@@ -199,7 +199,7 @@ Facebook 16%  Twitter 4% 
     
 *   Show Less ...
 
-Instagram 4% 
+Instagram 3% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -267,7 +267,7 @@ Instagram 4% 
     
 *   Show Less ...
 
-Pinterest 16%  Wikipedia 4% 
+Pinterest 15%  Wikipedia 3% 
 
 *   Medana
     
@@ -286,22 +286,7 @@ Pinterest 16%  Wikipedia 4% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Google+ 4% 
-
-*   privacy policy - Google+
-    
-    ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. privacy policy. About. Posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while more posts are being loaded.
-    
-*   Privacy policy - Google+
-    
-    No personal information is transmitted by My Recipes app rss reader and no information is used, stored, secured or disclosed. Use this app in your own risk. You agree to this privacy policy as long as you use the application. This Policy may change at any time. one plus one. 1. no comments. no shares. Looks like you've ...
-    
-*   Privacy Policy - Google+ - Google Plus
-    
-    Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
-    
-
-Linkedin 16%  Music 4% 
+Google+ 15%  Linkedin 15%  Music 3% 
 
 *   Pandora
     
@@ -347,7 +332,7 @@ Linkedin 16%  Music 4% 
     
 *   Show Less ...
 
-Photo Albums 4% 
+Photo Albums 3% 
 
 *   Flickr
     
@@ -358,7 +343,7 @@ Photo Albums 4% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 4% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -382,7 +367,7 @@ Myspace 4% 
     
 *   Show Less ...
 
-Documents 4% 
+Documents 3% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -428,7 +413,7 @@ Documents 4% 
     
 *   Show Less ...
 
-Web Search 4% 
+Web Search 3% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -474,7 +459,7 @@ Web Search 4% 
     
 *   Show Less ...
 
-Images 4% 
+Images 3% 
 
 20
 
