@@ -68,7 +68,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Milestone Tracker
     *   Offseason Leagues
     *   Scoring Changes
-    *   GlossarySortable Stats Esurance MLB Awards
+    *   GlossarySortable Stats
 *   Standings Standings Standings
     *   2017 Regular Season Standings
     *   2017 Wild Card Standings
@@ -99,18 +99,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   2017 Postseason Ticket Terms &. Policies
     *   Celebrate Sunday
     *   StubHub.com2018 Schedule 2018 Season Tickets Bank of America
-*   Apps Apps Apps
-    *   At Bat app
-    *   At Bat on Tablets
-    *   At Bat on Apple iPad®
-    *   MLB.com Ballpark app
-    *   MLB Fans App
-    *   Beat the Streak
-    *   MLB Home Run Derby
-    *   MLB Line Drive
-    *   R.B.I. Baseball 17
-    *   MLB Franchise MVP
-    *   FAQ
+*   Apps
 *   Shop Shop Shop
     
     *   Jerseys
