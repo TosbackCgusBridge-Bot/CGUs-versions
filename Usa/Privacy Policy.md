@@ -4,7 +4,9 @@ You have been detected as being from . Where applicable, you can see country-spe
 
 Change country/language X
 
-*   Manage products &. downloads
+*   Sign In
+    
+    Manage products &. downloads
     
     Account settings
     
