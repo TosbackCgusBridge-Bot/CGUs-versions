@@ -291,7 +291,7 @@ Facebook Linkedin Twitter
 
 <img height="1" width="1" src="//zdbb.net/l/z0WVjCBSEeGLoxIxOQVEwQ/" alt="" />.
 
-Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2017 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
+Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2018 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
 
 AdChoices
 
