@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _special_
 
-Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Visit the site
+Watch the new one-hour special Odd Squad: World Turned Odd - Monday, Jan. 15 on PBS KIDS!Watch the new one-hour special Odd Squad: World Turned Odd - Monday, Jan. 15 on PBS KIDS!Go to activity
 
 Toggle message bar
 
