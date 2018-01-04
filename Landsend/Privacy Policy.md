@@ -696,9 +696,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 50% off 1 full-price style!
+Receive 25% off full-price styles!
 
-code: ARCTIC pin: 3217 DETAILS
+code: FREEZE pin: 2391 DETAILS
 
 Customer Service Menu
 
@@ -958,4 +958,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-Today's Offers Promo applied. Limit one promo per order. Benefits are displayed in your shopping bag. Some offers may require a promo to receive benefits. Limit one promo per order. <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+Today's Offers Promo applied. Limit one promo per order. Benefits are displayed in your shopping bag. Some offers may require a promo to receive benefits. Limit one promo per order. <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
