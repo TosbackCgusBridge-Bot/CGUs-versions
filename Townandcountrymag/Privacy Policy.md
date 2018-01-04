@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 All About 'The Assassination of Gianni Versace' 2 Prince Harry and Meghan Markle's Sweetest Moments 3 Here's Where to Go on Your Next Vacation in 2018 4 Our Most Read, Shared, and Loved Stories of 2017 5 How to Make the Golden Globes's Official Cocktail Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Inside Sarah Paulson's American Success Story 2 Prince Harry and Meghan Markle's Sweetest Moments 3 Here's Where to Go on Your Next Vacation in 2018 4 Our Most Read, Shared, and Loved Stories of 2017 5 How to Make the Golden Globes's Official Cocktail Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
