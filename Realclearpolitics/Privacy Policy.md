@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Howie Carr_: Channeling Teddy Roosevelt, Trump Gets Results Abroad
+*   _Maslin &. Trippi_: How Democrats Can Win Across America in 2018
     
-*   _Susan Glasser_: Donald Trump's Year of Living Dangerously
+*   _Ned Ryun_: Here's How Trump Can Score Some Wins in 2018
     
-*   _David Byler_: The GOP Has a Turnout Problem. Plus a Few Others...
+*   _David Graham_: Steve Bannon Comes Back to Haunt Donald Trump
     
-*   _Dan Balz_: Are Dems Realistic About Their Own Issues Going Into 2018?
+*   _Allahpundit_: Trump Goes Nuclear on Bannon
     
-*   _Lawrence Meyers_: An Apocalyptic 2017? Only for Democrats
+*   _Damon Linker_: America's Warped Narcissism on the World Stage
     
-*   _Ezra Klein_: What Trump Didn't Do in 2017
+*   _Goldberg & Fly_: What Washington Can Do to Support Iran's Protesters
     
-*   _Peter Kohanloo &. Sohrab Ahmari_: An Iranian Revolution of National Dignity
+*   _James Risen_: My Life as a NYT Reporter in the Shadow of War on Terror
     
-*   _Aaron David Miller_: This Moment Is About Iran, Not About Trump
+*   _Ronald Rubin_: Donald Trump Evicted Liz Warren From the CFPB
     
-*   _Alfredo Ortiz_: Congress's Gift to Blue-State Taxpayers
+*   _Jeff Patch_: Dubious Investments Further Imperil Calif. Pension Plan
     
-*   _Allan Wernick_: Hope It'll Be a Better Year for Immigrants After a Tough 2017
+*   _German Lopez_: California's Marijuana Market: Beginning of End of Prohibition
     
-*   _Carl Cannon_: From Detroit to Selma: Viola Liuzzo's Sacrifice
+*   _Carl Cannon_: FDR and the Birth of 'The March of Dimes'
     
-*   _Terry Glavin_: The Uprising in Iran: 'This Is What Revolution Looks Like'
+*   _Victor Davis Hanson_: The View of the Blinkered
     
-*   _Benny Avni_: The Protesters in Iran Need Our Help
+*   _Glenn Simpson &. Peter Fritsch_: The Republicans' Fake Investigations
     
-*   _Philip Gordon_: How Can Trump Help Iran's Protesters? Be Quiet
+*   _David Ignatius_: Trump Right to Tell Iran That the World Is Watching
     
-*   _Ben Shapiro_: Trump Reverses the Obama Doctrine on Iran
+*   _Matt Purple_: A Light Touch on Iran
     
-*   _Ian Bremmer_: These Are the Top 10 Risks to the World in 2018
+*   _William Murchison_: Here Come the Animal Spirits
     
-*   _E.J. Dionne_: This New Year, Tell Trump: Enough
+*   _Paul Krugman_: Can the Economy Keep Calm and Carry On?
     
-*   _Liz Peek_: Trump's Hysteria-Prone Critics Must Be Disappointed by 2017
+*   _David Winston_: On 2018 Elections, Nothing Is Written in Stone
     
-*   _Scott Lemieux_: Remember, Much of What Trump Does Can Be Undone
+*   _Michelle Cottle_: How Trump Made Special Elections Great Again
     
-*   _Appelbaum &. Tankersley_: New Wave of Optimism Prompts Businesses to Invest
+*   _David Harsanyi_: 5 Worst Obama Echo Chamber Talking Points on Iran
     
-*   _Ross Kaminsky_: A President of Consequence
+*   _Robin Wright_: Iran in Turmoil--to Trump's Delight
     
-*   _Dana Goodyear_: Can Hollywood Change Its Ways?
+*   _David Axelrod_: Orrin Hatch's Simple Act of Kindness
     
-*   _Michael Tomasky_: Al Franken's Resignation Is Deeply Unfair
+*   _Michelle Malkin_: An Unfond Farewell to Un-statesman Orrin Hatch
     
-*   _Jonathan Turley_: 2018 Resolutions for Trump, Congress and the Media
+*   _Justin Miller_: The New Reformer DAs
     
 
 *   Previous
@@ -249,10 +249,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Ray of Hope, Then Deep Hostility Between U.S. and North Korea
-*   Perils Abroad, Full Plate at Home, as Trump Opens 2nd Year
-*   Trump: "We're Doing Things That Nobody Thought Possible"
-*   Often at Odds, Trump and Republicans Relish Tax Win, Court Picks
+*   Hatch to Retire, Opening Door for Possible Romney Run in Utah
+*   Trump Taunts Kim, Boasts of "Much Bigger" Nuclear Button
+*   Cole: DREAMers Deserve Legal Status. Border Wall Is Obvious Tradeoff
+*   Bachmann Mulling Bid for Franken's Senate Seat in MN
 *   Dems See a Path to House Majority in California Races
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Direction of CountryRasmussen Reports
-    *   Right Direction40
-    *   Wrong Track55Wrong Track +15
-*   President Trump Job ApprovalGallup
-    *   Approve40
-    *   Disapprove55Disapprove +15
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve41
+    *   Disapprove54Disapprove +13
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove53Disapprove +8
+    *   Approve44
+    *   Disapprove54Disapprove +10
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve43
-    *   Disapprove53Disapprove +10
+    *   Disapprove54Disapprove +11
+*   Congressional Job ApprovalEconomist/YouGov
+    *   Approve15
+    *   Disapprove64Disapprove +49
 
 More Latest Polls In The News
 
+*   Kellyanne Conway: Trump Critics Are "Bold" On Cable TV, But In Person Their "Knees Start Knocking"
+*   MSNBC's Heilemann: Trump Tweet To Kim "Makes Him Seem Demented And Deranged"
+*   CNN's Brian Stelter: Did Trump's North Korea 'Button' Tweet Violate Twitter's Terms Of Service?
 *   Thomas Frank: Harvey Weinstein Bought "Karma Offsets" With Donations To DNC, Clinton Foundation
 *   CNN Legal Analyst Paul Callan: President Trump Is Right About FBI. Concern About Bias Is "Legitimate"
-*   Bob Woodward: Media Needs To Watch Its "Smug" Tone, Be Careful Not To "Ridicule" The President
-*   CNN's Fareed Zakaria: Trump's America Has Resigned Position As World Leader. "Sad!"
-*   Dershowitz: "My Liberal Friends Stopped Inviting Me To Dinner, Think I'm A Trump Supporter"
 
 *   Politics
 *   Policy
