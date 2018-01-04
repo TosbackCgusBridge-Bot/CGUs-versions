@@ -7,11 +7,10 @@
     *   Military
     *   New!
     
-    Occasions*   Christmas Gifts
+    Occasions*   Game Day
     *   Birthday Gifts
     *   Gifts for Her
     *   Gifts for Him
-    *   Game Day
     *   Weddings &. ShowersMost Popular Gift Baskets
 *   Meat &. Cheese
     
@@ -47,10 +46,10 @@
     
     View All Categories Shop by Category*   New Year's
     
-    Occasions*   Birthday Gifts
+    Occasions*   Game Day
+    *   Birthday Gifts
     *   Gifts for Her
     *   Gifts for Him
-    *   Game Day
     *   Weddings &. Showers
 *   Sale
     View All Categories Shop by Category*   Sale
@@ -73,11 +72,10 @@
     *   Military
     *   New!
     
-    Occasions*   Christmas Gifts
+    Occasions*   Game Day
     *   Birthday Gifts
     *   Gifts for Her
     *   Gifts for Him
-    *   Game Day
     *   Weddings &. ShowersMost Popular Gift Baskets
 *   Meat &. Cheese
     
@@ -113,10 +111,10 @@
     
     View All Categories Shop by Category*   New Year's
     
-    Occasions*   Birthday Gifts
+    Occasions*   Game Day
+    *   Birthday Gifts
     *   Gifts for Her
     *   Gifts for Him
-    *   Game Day
     *   Weddings &. Showers
 *   Sale
     View All Categories Shop by Category*   Sale
