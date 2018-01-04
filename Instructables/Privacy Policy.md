@@ -4,7 +4,9 @@ You have been detected as being from . Where applicable, you can see country-spe
 
 Change country/language X
 
-*   Manage products &. downloads
+*   Sign In
+    
+    Manage products &. downloads
     
     Account settings
     
@@ -287,3 +289,7 @@ _Autodesk is a leader in 3D design, engineering and entertainment software._
 *   Affiliate program
 
 *   Privacy/Cookies  | About our Ads | Legal Notices &. Trademarks | Report Noncompliance | Site map | © 2017 Autodesk Inc. All rights reserved
+
+**Your opinion is important to Autodesk**  
+  
+After your visit, would you be willing to answer a few short questions?
