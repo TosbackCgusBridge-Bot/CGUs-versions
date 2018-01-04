@@ -10,7 +10,7 @@ Ubuntu Advantage terms ›
 
 A legal description of the services included in the Ubuntu Advantage support package.
 
-Contributors agreement ›
+Contributor agreement ›
 
 Details of the agreement you need to send to us before you begin contributing to projects at Canonical.
 
@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Accessing the Juju CLI from within the GUI ›
 *   Keynote: Maximizing developer velocity with containers ›
 *   Security Team Weekly Summary: December 21, 2017 ›
 *   Early experiences with PXE (net-)boot of KVM VMs on Ubuntu for s390x ›
 *   Canonical welcome Spotify as a snap for Linux users ›
-*   Top snaps in November: blockchain, IDEs and games ›
