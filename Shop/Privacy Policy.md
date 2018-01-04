@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FJM5K" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
+Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
 
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
@@ -7,7 +7,7 @@ Menu Close Menu Close
 
 *   Products
     *   Laptops &  
-        2-in-1s Explore All  Laptops &  
+        2-in-1s Explore All Laptops &  
         2-in-1s Explore All  Laptops &  
         2-in-1s Narrow your choices by category and find the laptop you truly want
         
@@ -71,7 +71,7 @@ Menu Close Menu Close
         
         *   *   ThinkPad 25 >.
         
-    *   Desktops &. All-In-Ones Explore All  Desktops &. All-In-Ones Explore All  Desktops &. All-In-Ones Plenty to consider before making your purchase. Let us help.
+    *   Desktops &. All-In-Ones Explore All Desktops &. All-In-Ones Explore All  Desktops &. All-In-Ones Plenty to consider before making your purchase. Let us help.
         
         *   Thinkcentre Desktops Thinkcentre Desktops Business-ready desktops with enhanced security features.
         *   IdeaCentre Desktops IdeaCentre Desktops Portable family desktops.
@@ -102,7 +102,7 @@ Menu Close Menu Close
         
         *   *   \>.
         
-    *   Workstations Explore All  Workstations Explore All  Workstations A business investment requires due diligence. Research your choices here.
+    *   Workstations Explore All Workstations Explore All  Workstations A business investment requires due diligence. Research your choices here.
         
         *   Thinkstation Workstations
         *   Thinkpad Workstations
@@ -121,7 +121,7 @@ Menu Close Menu Close
         
         *   *   SMALL BUSINESS WORKSTATIONS >.
         
-    *   Phones, Tablets, &. Smart Devices Explore All  Phones, Tablets, &. Smart Devices Explore All  Phones, Tablets, &. Smart Devices Your tablet is an extension of your personality! Find the one that best compliments you.
+    *   Phones, Tablets, &. Smart Devices Explore All Phones, Tablets, &. Smart Devices Explore All  Phones, Tablets, &. Smart Devices Your tablet is an extension of your personality! Find the one that best compliments you.
         
         *   Motorola Smartphones
         *   Android Tablets Android Tablets Multimedia tablets  
@@ -171,7 +171,7 @@ Menu Close Menu Close
         
         *   *   SMALL BUSINESS TABLETS >.
         
-    *   Gaming &. AR/VR Explore All  Gaming &. AR/VR Explore All  Gaming &. AR/VR
+    *   Gaming &. AR/VR Explore All Gaming &. AR/VR Explore All  Gaming &. AR/VR
         
         *   Gaming Laptops
         *   Gaming Desktops
@@ -193,7 +193,7 @@ Menu Close Menu Close
         
         *   *   Lenovo Explorer >.
         
-    *   Accessories &. Monitors Explore All  Accessories &. Monitors Explore All  Accessories &. Monitors
+    *   Accessories &. Monitors Explore All Accessories &. Monitors Explore All  Accessories &. Monitors
         
         *   Monitors
         *   Docking
@@ -224,7 +224,7 @@ Menu Close Menu Close
         
         *   *   Pens &. Supplies >.
         
-    *   Servers, Storage &. Networking Explore All  Servers, Storage &. Networking Explore All  Servers, Storage &. Networking
+    *   Servers, Storage &. Networking Explore All Servers, Storage &. Networking Explore All  Servers, Storage &. Networking
         
         *   Servers
         *   Storage
@@ -252,7 +252,7 @@ Menu Close Menu Close
         
         *   *   Why Lenovo >.
         
-    *   Services &. Warranty Explore All  Services &. Warranty Explore All  Services &. Warranty
+    *   Services &. Warranty Explore All Services &. Warranty Explore All  Services &. Warranty
         
         *   PC Services
         *   DATA CENTER SERVICES
@@ -272,7 +272,7 @@ Menu Close Menu Close
     *   ThinkPad Deals
     *   Desktop Deals
     *   Tablet Deals
-    *   Accessories Deals
+    *   Accessory Deals
     *   Clearance
     *   Financing Options
     *   Outlet
@@ -320,13 +320,15 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers SAVE UP TO 65%
+Home >. Filter by specs Offers
 
-SHOP OUR HOLIDAY CLEARANCE SALE TO  
-SNAG AMAZING DEALS ON OVERSTOCKS!  
-Sale ends Jan 3.
+Sorry, Primordial Elements
 
-Shop Sale >.
+SHOP NOW >.
+
+Ever Sleek By Design
+
+SHOP NOW >.
 
 88 World Records and still climbing
 
@@ -334,22 +336,23 @@ Lenovo ThinkSystem >.
 
 *   1
 *   2
+*   3
 
-ThinkPad T470s
+NEW YEAR, NEW SAVINGS!
 
-Boost Your Productivity With Performance You Can Count On
+Start the year right with a fresh new PC! On sale ‘til Jan. 10.
 
 All New Lenovo Pro Store
 
 Let Lenovo be your small business partner with an all new Pro Portal.
 
-ThinkPad X1 Carbon
+WHY BUY BORING?
 
-The lightest, thinnest X1 Carbon, packed with more power than ever.
+Lenovo 2-in-1 Yoga and Flex laptops on sale now until Jan 7.
 
-Yoga 920 14"
+Miix 720
 
-Sleeker than ever and packed with speed and power.
+Need productivity on the go? This 2-in-1 can take you there.
 
 Awaken your inner Jedi with a new smartphone-powered augmented-reality experience.
 
