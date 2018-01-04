@@ -72,17 +72,17 @@ In dieser Datenschutzerklärung werden die Erhebung, Nutzung, Weitergabe, Speich
 
 **Durch die Nutzung unserer Services und/oder die Einrichtung eines eBay-Kontos nehmen Sie diese Datenschutzerklärung und unsere** **Allgemeinen Geschäftsbedingungen** **an und Sie erklären sich ausdrücklich mit der Erhebung, Nutzung, Weitergabe, Speicherung und dem Schutz Ihrer personenbezogenen  Daten gemäß der Beschreibung in dieser Datenschutzerklärung einverstanden.** Wenn Sie uns die für uns erforderlichen Daten nicht zur Verfügung stellen, kann es möglicherweise sein, dass wir Ihnen nicht alle unsere Services bereitstellen können.
 
-Wenn Sie Ihren Wohnsitz in den USA haben, ist Ihr Vertragspartner die eBay Inc., 2065 Hamilton Avenue, San Jose, CA 95125, USA. Wenn Sie Ihren Wohnsitz außerhalb der USA haben, ist Ihr Vertragspartner eines unserer weltweiten eBay-Unternehmen weltweit:
+Der Vertragspartner eines Nutzers ist bei einem Sitz des Unternehmens oder Wohnsitz der natürlichen Person
 
-*   Wenn Sie Ihren Wohnsitz in der Europäischen Union einem Land des Europäischen Wirtschaftsraums haben, ist Ihr Vertragspartner die eBay Europe S.à.r.l., 22-24 Boulevard Royal, 2449 Luxemburg, Luxemburg.
+*   in der EU mit Ausnahme des Vereinigten Königreichs die eBay Europe S.à r.l., 22-24 Boulevard Royal, 2449 Luxembourg,
     
-*   Wenn Sie Ihren Wohnsitz in Indien haben, ist Ihr Vertragspartner die eBay India Private Limited, 14th Floor, North Block, R-Tech Park, Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra, Indien.
+*   im Vereinigten Königreich die eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, Großbritannien,
     
-*   Wenn Sie Ihren Wohnsitz in Kanada haben, ist ab dem 1. Juli 2017 Ihr Vertragspartner die eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Kanada
+*   außerhalb der EU mit Ausnahme der USA und Kanadas die eBay International AG, Helvetiastraße 15-17, 3005 Bern, Schweiz,
     
-*   Wenn Sie Ihren Wohnsitz im Vereinigten Königreich haben, ist ab dem 1. August 2017 Ihr Vertragspartner die eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, Vereinigtes Königreich
+*   in Kanada die eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Kanada,
     
-*   Wenn Sie Ihren Wohnsitz in einem anderen Land haben, ist Ihr Vertragspartner die eBay International AG, Helvetiastrasse 15/17, 3005 Bern, Schweiz.
+*   in den USA die eBay Inc., 2145 Hamilton Ave., San Jose, CA 95125, USA.
     
 
 Das Unternehmen, das Ihr Vertragspartner ist, ist die verantwortliche Stelle für Ihre Daten und ist damit verantwortlich für die Erhebung, Nutzung, Weitergabe, Speicherung, und den Schutz Ihrer personenbezogenen Daten in Einklang mit unseren weltweiten Datenschutzrichtlinien und dem jeweils anwendbaren Recht. Die für Sie verantwortliche Stelle kann, wie in dieser Datenschutzerklärung beschrieben, Ihre personenbezogenen Daten an andere Mitglieder der eBay-Unternehmensgruppe weitergeben. Wir können Ihre personenbezogenen Daten auf unseren Servern in den USA und anderswo auf der Welt, wo sich unsere Rechenzentren befinden, verarbeiten und speichern.
