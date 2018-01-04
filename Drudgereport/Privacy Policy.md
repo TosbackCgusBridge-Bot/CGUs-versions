@@ -135,7 +135,7 @@ LATEST ON TWITTER
 
 My week on Twitter : 1 Like, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/wIKU…
 
-About 5 hours ago
+Yesterday
 
 My week on Twitter : 6 Mentions, 52.5K Mention Reach, 1 Like, 1 Retweet, 84 Retweet Reach, 3 Tweets. See yours with sumall.com/performan… pic.twitter.com/XwtV…
 
