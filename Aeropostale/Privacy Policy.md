@@ -178,6 +178,7 @@ Close submenu ( Featured ) Featured
 Close submenu ( Tops ) Tops
 
 *   View All
+*   Tees
 *   Tanks
 *   Hoodies + Sweatshirts
 *   Sleep Tops
@@ -419,6 +420,7 @@ Menu Find a Store Aeropostale
     
     *   Tops
         *   View All
+        *   Tees
         *   Tanks
         *   Hoodies + Sweatshirts
         *   Sleep Tops
