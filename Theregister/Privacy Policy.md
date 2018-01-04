@@ -1,4 +1,4 @@
-The Register is owned and operated by Situation Publishing Limited.
+The Register is owned and operated by Situation Publishing Limited.
 
 Situation Publishing Limited  
 Unit 1  
