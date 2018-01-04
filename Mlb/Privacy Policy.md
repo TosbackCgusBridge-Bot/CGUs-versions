@@ -82,7 +82,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   National Broadcasts
     *   Sunday Night Broadcasts
     *   Probable Pitchers
-    *   MLB Singles
 *   Players Players Players
     *   Player Search
     *   Injury Updates
