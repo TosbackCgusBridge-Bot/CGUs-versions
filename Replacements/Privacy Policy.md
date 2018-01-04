@@ -1,4 +1,4 @@
-Free Standard U.S. Shipping on Orders $99 $49+ with code NEW49\*\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping Orders $49+ with code NEW49\*\* 1-800-737-5223 Sign In / Create Account Home China - Dinnerware
+Free Standard U.S. Shipping Every Day on Orders $99+\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping Orders $99+\*1-800-737-5223 Sign In / Create Account Home China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
@@ -254,7 +254,7 @@ Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Compan
 
 1-800-REPLACE Our Blog | My Account Terms &. Conditions | Site Map | Privacy Policy
 
-© 2017 Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301, USA
+© 2018 Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301, USA
 
 <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PR6WVR' height='0' width='0' style='display:none;visibility:hidden'></iframe>.
 
