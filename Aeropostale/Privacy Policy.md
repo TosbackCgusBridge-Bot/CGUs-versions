@@ -20,7 +20,7 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-*   Dresses + Rompers
+*   Dresses
 *   Jackets + Vests
 *   Shoes + Accessories
 
@@ -34,7 +34,6 @@ Close submenu ( Featured ) Featured
 *   Sabrina's Picks
 *   Jean Guide
 *   Logo Shop
-*   It's Cold Outside
 *   Basic Essentials
 *   Lounge + Sleep
 *   Uniform
@@ -95,7 +94,6 @@ Close submenu ( Featured ) Featured
 *   Jean Guide
 *   Logo Shop
 *   Tapout + Aero Active
-*   Warm + Rugged
 *   Back to Basics
 *   Online Only
 *   Uniform
@@ -205,26 +203,30 @@ Close submenu ( Trending ) Trending
 Close submenu ( Girls ) Girls
 
 *   View All
-*   Velvet
-*   Ruffles
-*   The Party Dress
-*   Time to Shine
-*   Seriously Soft
-*   It's Cold Outside
+*   In Stitches
+*   Give 'Em The Shoulder
+*   Statement Tees
+*   All Laced Up
+*   Perfectly Preppy
+*   Full Bloom
+*   The New Denim
+*   Beach Ready Footwear
 
 Close submenu ( Guys ) Guys
 
 *   View All
-*   Warm + Rugged
-*   Buffalo Plaids
-*   Winter Camo
+*   Good Sport
+*   Shorts for Sure
+*   New Blues
+*   Spring Break Bag
+*   Graphic Obsessed
+*   At Ease
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
-*   The After Party
-*   Seriously Soft
-*   Mesh Detail
+*   Lots of Lace
+*   Sleep
 
 Close submenu ( Clearance ) Clearance
 
@@ -302,7 +304,6 @@ Menu Find a Store Aeropostale
         *   Sabrina's Picks
         *   Jean Guide
         *   Logo Shop
-        *   It's Cold Outside
         *   Basic Essentials
         *   Lounge + Sleep
         *   Uniform
@@ -331,7 +332,7 @@ Menu Find a Store Aeropostale
         *   Joggers + Lounge
         *   Pants
         *   Shorts
-    *   Dresses + Rompers
+    *   Dresses
     *   Jackets + Vests
     *   Shoes + Accessories
     
@@ -354,7 +355,6 @@ Menu Find a Store Aeropostale
         *   Jean Guide
         *   Logo Shop
         *   Tapout + Aero Active
-        *   Warm + Rugged
         *   Back to Basics
         *   Online Only
         *   Uniform
@@ -445,25 +445,29 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls
         *   View All
-        *   Velvet
-        *   Ruffles
-        *   The Party Dress
-        *   Time to Shine
-        *   Seriously Soft
-        *   It's Cold Outside
+        *   In Stitches
+        *   Give 'Em The Shoulder
+        *   Statement Tees
+        *   All Laced Up
+        *   Perfectly Preppy
+        *   Full Bloom
+        *   The New Denim
+        *   Beach Ready Footwear
     
     *   Guys
         *   View All
-        *   Warm + Rugged
-        *   Buffalo Plaids
-        *   Winter Camo
+        *   Good Sport
+        *   Shorts for Sure
+        *   New Blues
+        *   Spring Break Bag
+        *   Graphic Obsessed
+        *   At Ease
         
     
     *   Live Love Dream
         *   View All
-        *   The After Party
-        *   Seriously Soft
-        *   Mesh Detail
+        *   Lots of Lace
+        *   Sleep
 *   Clearance
     
     *   View Home
