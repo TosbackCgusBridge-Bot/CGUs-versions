@@ -8,22 +8,11 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     *   SHOP BY BRAND
     *   SHOP BY AGE
     
-    *   Top Holiday Toy List
-    *   Holiday Savings
-    *   Holiday Gift Guide
     *   What’s New
     *   Fan Faves
-    
     *   Gift Sets
-    *   Gifts for New Baby
     *   Clearance
-    *   Thomas &. Friends Clearance
     *   Award Winners
-    
-    *   Tech Toys
-    *   Exclusives
-    *   As Seen On TV
-    *   Baby's First Birthday
     
     See all
     
@@ -40,7 +29,6 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     *   Role Play Toys
     
     *   Sports &. Outdoor Toys
-    *   Wooden Toys
     *   Apparel &. Bedroom
     *   Books, Puzzles &. Games
     
