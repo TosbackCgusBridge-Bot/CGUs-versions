@@ -128,7 +128,7 @@ Play See The Lights Fest Captured Video hotspot
 
 #ManOfTheWoods. Justin Timberlake. February 2nd.
 
-22 hours ago
+1 day ago
 
 View Tweet
 
@@ -198,7 +198,7 @@ Wherever You Go
 
 The holiday gifts keep coming from PS Store! Holiday Sale Week 4 starts now, with deals up to 50% off (60% for PS Plus) on games: http://play.st/2Acws9d
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -280,7 +280,7 @@ At Sony Square NYC
 
 Whatever resolution you land on, here's to an amazing 2018. #HappyNewYear
 
-2 days ago
+3 days ago
 
 View Tweet
 
