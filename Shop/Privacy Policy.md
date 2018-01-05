@@ -6,10 +6,7 @@ Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
 Menu Close Menu Close
 
 *   Products
-    *   Laptops &  
-        2-in-1s Explore All Laptops &  
-        2-in-1s Explore All  Laptops &  
-        2-in-1s Narrow your choices by category and find the laptop you truly want
+    *   Laptops &. 2-in-1s Explore All Laptops &. 2-in-1s Explore All  Laptops &. 2-in-1s Narrow your choices by category and find the laptop you truly want
         
         *   Thinkpad Laptops Thinkpad Laptops Enterprise-level performance. Premium reliability.
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
@@ -279,10 +276,6 @@ Menu Close Menu Close
     
     *   *   Stylish, Dependable and Affordable PCs
             
-        *   BUSINESS CLOSE OUT SALE
-            
-            Start your new year off right by reinvesting in your business.
-            
 *   Support
     *   Sales Enquiries
     *   Order Support
@@ -346,7 +339,7 @@ All New Lenovo Pro Store
 
 Let Lenovo be your small business partner with an all new Pro Portal.
 
-WHY BUY BORING?
+FLASH SALE
 
 Lenovo 2-in-1 Yoga and Flex laptops on sale now until Jan 7.
 
@@ -425,6 +418,7 @@ Laptops Tablets Desktops Deals Laptops Tablets Desktops Deals Chat Select Countr
     *   Outlet
     *   Financing Options
     *   Replacement Parts
+    *   Product Recalls
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   SHOP BY INDUSTRY
     *   Small Business Store
