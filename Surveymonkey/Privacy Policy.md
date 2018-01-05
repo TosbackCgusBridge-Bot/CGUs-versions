@@ -276,16 +276,12 @@ PRIVACY FOR SURVEY RESPONDENTS
     *   The personal information collected by us on behalf of a survey creator may include sensitive information. We will only use sensitive information for the purpose of storing and processing it on behalf of the survey creator. Sensitive information is defined in the _Privacy Act 1988_ (Cth) and includes information about you such as racial or ethnic origin, religious beliefs, political affiliation, sexual preferences and criminal records, as well as health and genetic information about you.
     *   If you are dissatisfied with our handling of your complaint or do not agree with the resolution proposed by us, you may make a complaint to the Office of the Australian Information Commissioner (OAIC) by contacting the OAIC using the methods listed on their website at http://www.oaic.gov.au. Alternatively, you may request that we pass on the details of your complaint to the OAIC directly.
 
-*   Community:
-*   Developers
-*   Facebook
 *   Twitter
 *   LinkedIn
 *   Our Blog
 *   Google+
 *   YouTube
 
-*   About Us:
 *   Leadership Team
 *   Board of Directors
 *   App Directory
