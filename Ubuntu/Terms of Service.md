@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Dustin Kirkland: Ubuntu Updates for the Meltdown / Spectre Vulnerabilities ›
+*   Ubuntu Updates for the Meltdown / Spectre Vulnerabilities ›
 *   Accessing the Juju CLI from within the GUI ›
 *   Keynote: Maximizing developer velocity with containers ›
 *   Security Team Weekly Summary: December 21, 2017 ›
-*   Early experiences with PXE (net-)boot of KVM VMs on Ubuntu for s390x ›
-*   Canonical welcome Spotify as a snap for Linux users ›
