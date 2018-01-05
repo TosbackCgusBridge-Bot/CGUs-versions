@@ -235,7 +235,7 @@ START THE NEW YEAR OFF RIGHT WITH THE PERFECT OUTFIT! SHOP NEW ARRIVALS
         *   Men's New
         
         *   Jeans
-        *   Long Body Tops
+        *   Long Body
         *   T-Shirts
         *   Shirts
         *   Sweatshirts
@@ -418,9 +418,6 @@ Returns
 
 Promotions
 
-*   Buckle Card 15% Off Promotion
-*   Friends &. Family Shop Event
-*   Buckle Card Sport Bottle GWP
 *   All Promotions
 *   Store Events
 *   Military Discount
