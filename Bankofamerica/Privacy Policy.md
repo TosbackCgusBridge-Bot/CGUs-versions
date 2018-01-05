@@ -295,7 +295,7 @@ Bank of America U.S. legal entities
 
 Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation.
 
-Rev. 01/2017
+Rev. 01/2018
 
 Are you cyber aware?
 
@@ -342,7 +342,7 @@ Also, if you opt out of online behavioral advertising, you may still see ads whe
 To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs.
 
 Bank of America, N.A. Member FDIC. Equal Housing Lender  
-© 2017 Bank of America Corporation.
+© 2018 Bank of America Corporation.
 
 Connect with usConnect with us on Facebook layerConnect with us on Instagram layerConnect with us on LinkedIn layerConnect with us on Pinterest layerConnect with us on Twitter layerConnect with us on YouTube layerFacebookInstagramLinkedInPinterestTwitterYouTube Important Notice
 
