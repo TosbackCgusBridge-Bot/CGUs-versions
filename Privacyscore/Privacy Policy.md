@@ -40,7 +40,6 @@ OK Log in to AVG MyAccount MENU Skip to content Close
 *   Services
     *   Premium Tech Support
     *   Hardware Service Plan NEW
-    *   PC-to-PC Transfer
     
     *   Remote Virus Removal
     *   Express Install
@@ -130,7 +129,7 @@ Connect with AVG
 
 English Log in to AVG MyAccount
 
-Privacy  |  Cookies  |  All third party trademarks are the property of their respective owners.  |  © 2017 AVG Technologies. All rights reserved.
+Privacy  |  Cookies  |  All third party trademarks are the property of their respective owners.  |  © 2018 AVG Technologies. All rights reserved.
 
 Skip to content Skip to menu Change language
 
