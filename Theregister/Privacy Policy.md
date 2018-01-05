@@ -1,3 +1,5 @@
+Last updated at: 04/01/2018
+
 The Register is owned and operated by Situation Publishing Limited.
 
 Situation Publishing Limited  
@@ -95,4 +97,4 @@ Southport PR8 1LJ
 
 By Email
 
-ccash@sitpub.com
+datacontroller@sitpub.com
