@@ -288,8 +288,4 @@ _Autodesk is a leader in 3D design, engineering and entertainment software._
 *   Suppliers
 *   Affiliate program
 
-*   Privacy/Cookies  | About our Ads | Legal Notices &. Trademarks | Report Noncompliance | Site map | © 2017 Autodesk Inc. All rights reserved
-
-**Your opinion is important to Autodesk**  
-  
-After your visit, would you be willing to answer a few short questions?
+*   Privacy/Cookies  | About our Ads | Legal Notices &. Trademarks | Report Noncompliance | Site map | © 2018 Autodesk Inc. All rights reserved
