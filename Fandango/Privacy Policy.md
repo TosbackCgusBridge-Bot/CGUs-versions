@@ -11,99 +11,88 @@ Gift Cards | Offers | Sign In Sign Out
     *   The Greatest Showman
     *   Ferdinand
     *   Coco (2017)
-    *   Downsizing
+    *   All the Money in the World
     *   Darkest Hour
+    *   Downsizing
     *   Father Figures
     *   The Shape of Water (2017)
-    *   Wonder
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   All the Money in the World
-    *   Molly's Game
-    *   Phantom Thread
-    *   In the Fade
-    *   Film Stars Don't Die in Liverpool
+    *   Insidious: The Last Key
+    *   Goldbuster (Yao Ling Ling)
+    *   Project Eden
+    *   The Strange Ones
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Insidious: The Last Key
     *   The Commuter
     *   Condorito: The Movie
     *   Paddington 2
     *   Proud Mary
     *   12 Strong
-    *   Den of Thieves
     *   Forever My Girl
     *   Maze Runner: The Death Cure
+    *   Winchester: The House That Ghosts Built
     *   See All Coming Soon
     
     Explore More
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   Regal Park Place Stadium 16 &. RPX 7200 US Highway 19 North
-    *   Cobb Tyrone Luxury 10 2998 Tyrone Blvd N.
-    *   Studio Movie Grill Seminole 7718 113th Street N
-    *   AMC Sundial 20 151 2nd Ave North St.
-    *   Regal Largo Mall 8 10500 Ulmerton Rd East
-    *   Capitol Theater 405 Cleveland Street
-    *   Sunset Point Cinema Bar &. Grille 24095 U.S. Highway 19 North
-    *   Cobb Countryside 12 Cinemas 27001 US Highway 19 N.
-    *   Britton Cinemas 3938 South Dale Mabry Hwy
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Three Highest-Grossing Movies of 2017 All Had One Awesome Thing in Common Read More
-    *   Moviegoers Name 'Avengers: Infinity War' the Most Anticipated Release of 2018 Read More
-    *   Watch Lily James as a Young Meryl Streep in the 'Mamma Mia! Here We Go Again' Trailer Read More
+    *   Kendrick Lamar Is Producing a Special 'Black Panther' Soundtrack Album Read More
+    *   Comics on Film: Running Down Every Major 2018 Superhero Movie Read More
+    *   Movie News: 'Get Out' Wins Golden Tomato Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
     *   Awards Watch
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 33780 Edit Zip Code
+*   My VIP Account Join FandangoVIP Refunds + Exchanges
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Partner Rewards
     
-
-See all insider perks Payment Method
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Refunds + Exchanges
-
-Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
-
-Learn more Partner Rewards
-
-Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
-
-Learn more My Fandango
-
-Save your favorite theaters and movies to experience a customized Fandango just for you.
-
-Learn more Insider Perks
-
-Get the VIP treatment, free screenings, digital downloads, discounts and more.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
+    
+    Learn more My Fandango
+    
+    Save your favorite theaters and movies to experience a customized Fandango just for you.
+    
+    Learn more Insider Perks
+    
+    Get the VIP treatment, free screenings, digital downloads, discounts and more.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms
 
@@ -263,21 +252,21 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
+*   'Insidious: The Last Key' Gift With Purchase
+    
+    Buy tickets to 'Insidious: The Last Key’ and own any previous ‘Insidious’ movie to watch at home for just $2.99 each. BUY TICKETS
+    
 *   'Paddington 2' Gift With Purchase
     
     Buy tickets to 'Paddington 2' and own the first 'Paddington' for just $2.99! BUY TICKETS
-    
-*   'I, Tonya' Sweepstakes
-    
-    Buy tickets now for a chance to chill in L.A. with Margot Robbie! BUY TICKETS
     
 *   'Pitch Perfect 3' Free Pin Set
     
     Buy tickets and get a FREE Pitch Perfect Pin Set. BUY TICKETS
     
-*   Fandango VIP
+*   'I, Tonya' Sweepstakes
     
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    Buy tickets now for a chance to chill in L.A. with Margot Robbie! BUY TICKETS
     
 
 New + Coming soon
@@ -322,4 +311,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
