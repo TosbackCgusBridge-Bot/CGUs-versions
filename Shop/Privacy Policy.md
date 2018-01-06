@@ -313,13 +313,13 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers Flash Sale
 
-Sorry, Primordial Elements
+Lenovo 2-in-1 Yoga and Flex laptops on sale now through Jan 7.
 
 SHOP NOW >.
 
-Ever Sleek By Design
+Sorry, Primordial Elements
 
 SHOP NOW >.
 
@@ -331,17 +331,17 @@ Lenovo ThinkSystem >.
 *   2
 *   3
 
-NEW YEAR, NEW SAVINGS!
+ThinkPad Sale
 
-Start the year right with a fresh new PC! On sale ‘til Jan. 10.
+Save up to 38% on select Professional Laptops and Tablets.
 
 All New Lenovo Pro Store
 
 Let Lenovo be your small business partner with an all new Pro Portal.
 
-FLASH SALE
+NEW YEAR, NEW SAVINGS!
 
-Lenovo 2-in-1 Yoga and Flex laptops on sale now until Jan 7.
+Start the year right with a fresh new PC! On sale ‘til Jan. 10.
 
 Miix 720
 
