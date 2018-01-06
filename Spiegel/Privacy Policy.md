@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.167,89ǀ
+*   DAX 13.319,64ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -41,8 +41,6 @@ Anmelden
         *   Ausland
         *   Europa
         *   Meinung
-        *   Themenwochen Wahl
-        *   Bundestagswahl
     
 *   Meinung
 *   Wirtschaft
