@@ -3,7 +3,6 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
 
 *   SHOP
     
-    *   FEATURED
     *   SHOP BY CATEGORY
     *   SHOP BY BRAND
     *   SHOP BY AGE
@@ -11,18 +10,16 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     *   What’s New
     *   Fan Faves
     *   Gift Sets
-    *   Clearance
     *   Award Winners
-    
-    See all
+    *   Clearance
     
     *   Baby Gear
     *   Baby Toys
     *   Playsets &. Action Figures
     *   Toy Cars, Trains &. Train Sets
-    *   Ride-On Toys
-    
     *   Dolls, Dollhouses &. Accessories
+    
+    *   Ride-On Toys
     *   Learning &. Educational Toys
     *   Building Toys
     *   Musical Toys
@@ -222,7 +219,7 @@ CUSTOMER SERVICE
 
 **\*Free shipping offer is valid on orders totaling $50 or more after discounts and before shipping, handling, and/or taxes are added, and applies automatically at checkout. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/31/2018. We reserve the right to change or discontinue this offer at any time.**
 
-Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use. ©2017Mattel All Rights Reserved.
+Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use. ©2018 Mattel All Rights Reserved.
 
 COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)CanadaCanada (Francais)China (中国)Croatia (Hrvatska)Czech Republic (Cheskà Republika)Denmark (Danmark)Estonia(Eesti)Finland (Suomi)FranceGermany (Deutschland)Greece (Ελλάδα)Hong Kong (English)Hong Kong (香港)Hungary (Magyarorszàg)IndiaIndonesia (bəˈhɑːsə)Israel (ישראל)Italy (Italia)Japan (日本)Korea (한국)Latvia(Latvija)Lithuania(Lietuva)MexicoNetherlands (Nederland)Norway (Norge)Poland (Polska)PortugalRomania (România)Russia (Россия)Slovakia (Slovensko)Slovenia (Slovenija)South AfricaSoutheast AsiaSpain (España)Sweden (Sverige)SwitzerlandTaiwan (臺灣)The Kingdom of Saudi Arabia (المملكة العربية السعودية)Turkey (Türkiye)Ukraine (Україна)United KingdomUnited StatesUnited States (Español)United States 
 
