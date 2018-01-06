@@ -15,7 +15,6 @@ OK Log in to AVG MyAccount MENU Skip to content Close
     *   AVG Driver Updater
     *   Privacy
     *   AVG Secure VPN NEW
-    *   HMA! Pro VPN
     *   All Products
 *   Mac
     *   AVG Cleaner for Mac®
