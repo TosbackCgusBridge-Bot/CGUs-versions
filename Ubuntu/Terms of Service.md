@@ -36,7 +36,7 @@ Download Ubuntu ›
 
 Further reading
 
-*   Dustin Kirkland: Ubuntu Updates for the Meltdown / Spectre Vulnerabilities ›
+*   Announcing the Dell XPS 13 Developer Edition 9370 with Ubuntu ›
 *   Ubuntu Updates for the Meltdown / Spectre Vulnerabilities ›
 *   Accessing the Juju CLI from within the GUI ›
 *   Keynote: Maximizing developer velocity with containers ›
