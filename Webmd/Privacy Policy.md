@@ -1,5 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
-and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -108,10 +107,10 @@ and understand that I may opt out of WebMD subscriptions at any time. close Skip
     Experts News &. Experts News &. Experts Health News
     
     *   U.S. News &. World Report: 2018 'Best Overall Diet'
+    *   Winter Weather Alert: 5 Tips to Help Avoid Frostbite
     *   Why the 'Entitled' Don't Think Rules Apply to Them
     *   Seniors Don’t Need Vitamin D and Calcium Supplements
     *   Turmeric: Health Remedy in Your Spice Rack?
-    *   Excessive Video Gaming to Be Labeled a Disorder
     
     Experts &. Community
     
@@ -514,7 +513,6 @@ Click Here to View WebMD's Accreditation Seal >>
     *   Pregnancy
     *   Baby
     *   Allergy
-    *   WebMD Magazine
     *   Medscape
     *   TheHeart
     
@@ -522,7 +520,7 @@ Click Here to View WebMD's Accreditation Seal >>
     *   Advertise with Us
     *   Advertising Policy
 
-© 2005 - 2017 WebMD, LLC. All rights reserved.
+© 2005 - 2018 WebMD LLC. All rights reserved.
 
 WebMD does not provide medical advice, diagnosis or treatment.
 
