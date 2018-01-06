@@ -135,11 +135,11 @@ LATEST ON TWITTER
 
 "It takes people to understand and optimize for meaningful goals". Erik @Requidan explains why humans matter in order for DPO be successful for both the publisher and buyer adexchanger.com/the-… via @adexchanger
 
-Yesterday
+About 2 days ago
 
 My week on Twitter : 1 Like, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/wIKU…
 
-About 2 days ago
+About 3 days ago
 
 My week on Twitter : 6 Mentions, 52.5K Mention Reach, 1 Like, 1 Retweet, 84 Retweet Reach, 3 Tweets. See yours with sumall.com/performan… pic.twitter.com/XwtV…
 
