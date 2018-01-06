@@ -32,7 +32,7 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   Sabrina's Picks
-*   Jean Guide
+*   Denim Guide
 *   Logo Shop
 *   Basic Essentials
 *   Lounge + Sleep
@@ -91,13 +91,13 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Jean Guide
+*   Denim Guide
 *   Logo Shop
 *   Tapout + Aero Active
 *   Back to Basics
 *   Online Only
 *   Uniform
-*   Extended Sizes
+*   Big + Tall
 
 Close submenu ( Tops ) Tops
 
@@ -134,7 +134,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   High Waisted Ankle Jegging
 *   High Waisted Jegging
 *   Low Rise Jegging
-*   Girlfriend
 *   Boyfriend
 *   Skinny
 *   Bootcut
@@ -289,7 +288,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** \+ **FREE SHIPPING OVER $75** **70-80% OFF ALL CLEARANCE**
+**EXTRA 18% OFF** USE CODE **HELLO18** **50-70% OFF** \+ **FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -302,7 +301,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Sabrina's Picks
-        *   Jean Guide
+        *   Denim Guide
         *   Logo Shop
         *   Basic Essentials
         *   Lounge + Sleep
@@ -352,13 +351,13 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Jean Guide
+        *   Denim Guide
         *   Logo Shop
         *   Tapout + Aero Active
         *   Back to Basics
         *   Online Only
         *   Uniform
-        *   Extended Sizes
+        *   Big + Tall
     *   Clearance
     
     *   Tops
@@ -393,7 +392,6 @@ Menu Find a Store Aeropostale
         *   High Waisted Ankle Jegging
         *   High Waisted Jegging
         *   Low Rise Jegging
-        *   Girlfriend
         *   Boyfriend
         *   Skinny
         *   Bootcut
@@ -526,23 +524,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Clearance Shop Guys Clearance Shop LLD Clearance
-
-*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
-*   Hoodies + Jackets Starting at $6.99 Shop Girls Shop Guys
-*   Accessories Starting at $1.99 Shop Girls
-*   Tees + Polos Starting at $2.99 Shop Girls
-*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
-*   Hoodies + Jackets Starting at $6.99 Shop Girls Shop Guys
-*   Accessories Starting at $1.99 Shop Girls
-*   Tees + Polos Starting at $2.99 Shop Girls
-
-*   1
-*   2
-*   3
-*   4
-
-Promotions Shop Girls Shop Guys Shop dresses <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Promotions Get Store Coupon Shop Girls Clearance Shop Guys Clearance Shop LLD Clearance Promotions Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
