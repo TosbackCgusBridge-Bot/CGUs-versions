@@ -41,7 +41,6 @@ SONY
     
     *   All Mobile, Tablets &. Smart Devices products ›
     *   Cell Phones
-    *   Tablets
     *   Wearable Technology
     
     View AllVideo Cameras ›Video Cameras
@@ -96,7 +95,23 @@ SONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! Need a Little Extra Motivation to Meet Your 2018 Goals?
+search Your browser does not support JavaScript! Justin Timberlake Is Back: Watch His New Video "Filthy"
+
+Pre-Order "Man of the Woods" Today
+
+Close
+
+*   Share Justin Timberlake Is Back: Watch His New Video "Filthy" on Facebook
+*   Share Justin Timberlake Is Back: Watch His New Video "Filthy" on Twitter
+*   Copy URL to share Justin Timberlake Is Back: Watch His New Video "Filthy"
+
+Play Justin Timberlake Is Back: Watch His New Video "Filthy" Video
+
+Sony on YouTube - Justin Timberlake Is Back: Watch His New Video "Filthy"
+
+Play Justin Timberlake Is Back: Watch His New Video "Filthy" Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/JT-Flithy-600x600.jpg);" alt="Justin Timberlake Filthy Video">. Need a Little Extra Motivation to Meet Your 2018 Goals?
 
 Check Out Our Wireless Headphones
 
@@ -128,7 +143,7 @@ Play See The Lights Fest Captured Video hotspot
 
 #ManOfTheWoods. Justin Timberlake. February 2nd.
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -198,7 +213,7 @@ Wherever You Go
 
 The holiday gifts keep coming from PS Store! Holiday Sale Week 4 starts now, with deals up to 50% off (60% for PS Plus) on games: http://play.st/2Acws9d
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -280,7 +295,7 @@ At Sony Square NYC
 
 Whatever resolution you land on, here's to an amazing 2018. #HappyNewYear
 
-3 days ago
+4 days ago
 
 View Tweet
 
