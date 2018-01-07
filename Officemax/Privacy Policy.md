@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals LQf48c9e4hGgJVQycG3Ci4D
+Office Depot Deals HC\_B6qWeSHnLOHkphV0EWy7
 
 Search Suggestions
 
@@ -221,7 +221,7 @@ MOBILE APPS          
 Your information is protected by  
 Norton encryption
 
-**Copyright © 2017 by Office Depot, Inc. All rights reserved.**  Prices shown are in U.S. Dollars. Please login for your pricing.  Prices are subject to change. All use of the site is subject to the Terms of Use. Prices and offers on www.officedepot.com may not apply to purchases made on business.officedepot.com. See Terms of Use details.
+**Copyright © 2018 by Office Depot, Inc. All rights reserved.**  Prices shown are in U.S. Dollars. Please login for your pricing.  Prices are subject to change. All use of the site is subject to the Terms of Use. Prices and offers on www.officedepot.com may not apply to purchases made on business.officedepot.com. See Terms of Use details.
 
 Session Timeout Warning 900 false Continue
 
