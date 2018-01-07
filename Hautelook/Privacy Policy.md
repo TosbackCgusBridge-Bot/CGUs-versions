@@ -8,14 +8,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Michele Watches
+    *   Nanette Lepore Swim
+    *   Nanette Lepore Active
+    *   Chan Luu Jewelry Starting at $30
+    *   Winter Survival Guide: Head-to-Toe Essentials
+    *   ECI
+    *   Corky's Rain Boots Under $40
+    *   Amanda Uprichard
+    *   Sterling Silver &. Gemstone Jewelry
+    *   Threads 4 Thought Starting at $10
+    *   GC Shoes
+    *   AFRM
+    *   Our Favorite Sneakers Starting at $20
+    *   Vintage Addiction Up to 80% Off
+    *   Skinn Cosmetics Up to 70% Off
+    *   Patchology
+    *   Winter Essentials: Must-Have Coats &. Jackets
+    *   Lacoste
+    *   Ezekiel
+    *   Blanc Noir
+    *   Andrew Christian
+    *   Kimi + Kai &. More
+    *   Coccoli &. Beanstork Organics Up to 65% Off
+    *   New Year's Resolution: Meal Prep Essentials
+    *   Free Shipping: Quilts &. Coverlets
+    *   Wolford
+    *   Wardrobe Staple: Tall Boots
+    
     *   Work Dresses ft. Tahari Incl. Special Sizes
     *   A.L.C.
-    *   Wolford
-    *   Pam &. Gela
-    *   Wardrobe Staple: Tall Boots
-    *   Premium Denim Up to 65% Off
-    *   Casual Fri-YAY: Best Brands Starting at $15
     *   Dr. Martens
     *   Sam Edelman Lingerie
     *   Valentino by Mario Valentino
@@ -23,7 +44,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   LAmade
     *   Gold &. Sterling Silver Trend Jewelry Starting at $20
     *   Endless Rose Starting at $15
-    *   Skinnygirl by Bethenny Frankel &. More Incl. Plus
     *   Victoria Beckham Sun &. More
     *   Chase &. Chloe
     *   Lovely Layers: Gemstones, Stacking Rings &. More
@@ -34,120 +54,86 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Original Penguin
     *   Free Shipping: 1000 Thread Count Sheets Up to 85% Off
     *   Free Shipping: Fresh Wall Art
-    *   Marika Active
-    *   Stone Rose
-    *   Reebok Men's Active
-    *   Western Chief Kids
-    
-    *   Kids' Brands We Love Starting at $10
-    *   Slope Style: Ski-Ready Looks Up to 70% Off
     *   Stuart Weitzman
-    *   Haute Hippie
-    *   Athena Alexander
     *   Lindbergh
-    *   Subtle Luxury Cashmere Up to 70% Off
-    *   Statement Jewelry Starting at $15
-    *   On Trend: Bags Under $40
-    *   24/7 Comfort Up to 75% Off
-    *   Thursday Thrills: Style Essentials Up to 75% Off
-    *   Sterling Silver, 18K Gold &. More ft. Konstantino Jewelry
     *   Lalique Fragrances Up to 60% Off
     *   CONTEXT Skin Beauty Essentials
     *   FaceBase
     *   Volcom Men Under $35
     *   Creative Recreation
+    
     *   Resolution Ready: Organization Essentials
     *   Free Shipping: Statement Rugs
     *   Free Shipping: Fresh Furniture Finds
     *   Mia Belle Girls
-    *   Helen Jon Swim
-    *   Chooka Rain Boots Under $50
-    *   Layer Up: Faux Fur Coats, Scarves &. Hats
-    *   Cold Front: Winter's Warmest Boots
     *   Slope Style: Men's Cold-Weather Accessories
     *   Men's Ski-Ready Jackets ft. Spyder
     *   Weather Ready: Men's Boots
-    *   Hit the Slopes: Minymo &. More
-    *   Diane von Furstenberg
-    
-    *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Kate Somerville
     *   Men's Premium Jean Shop ft. AG
     *   John Varvatos Tailored Clothing
-    *   Zeus Men's Grooming
     *   Robert Wayne
     *   Bright Idea: Colorful Cookware &. Serveware
     *   Simple Soy Candle Co.
     *   Sleep Yoga: Problem-Solving Pillows &. More
-    *   AG Kids
-    *   Catimini: French-Designed Fashion for Kids
-    *   Season's Best Coats &. Jackets Up to 80% Off
-    *   Kids' Snow Boots &. Slippers
-    *   Rifle Paper Co
-    *   Resort Ready: Beach-Bound Towels Starting at $10
-    *   Free Shipping: Luxe Home Accent Blowout
-    *   Nutrichef Kitchen Electrics Up to 65% Off
-    *   New Year's Resolution: Hydration Starting at $12
-    *   Maceoo
-    *   RIP CURL
-    *   Black Orchid
     *   Callaway Golf Apparel
-    *   Free Shipping: Pop Art Pillows Under $18
-    *   Diane von Furstenberg Sunglasses
-    *   Free Shipping: Pet Accessories Starting at $12
-    *   Eliza J Coats at 80% Off
-    *   Wear-to-Work Shoes ft. Calvin Klein
-    *   Free Shipping: Cozy Coverlets &. More Starting at $15
-*   WomenShop Sale Events
-    
-    *   Michele Watches
-    *   Work Dresses ft. Tahari Incl. Special Sizes
-    *   A.L.C.
-    *   Wolford
+    *   Stone Rose
+    *   Reebok Men's Active
+    *   Western Chief Kids
+    *   Kids' Brands We Love Starting at $10
+    *   Skinnygirl by Bethenny Frankel &. More Incl. Plus
+    *   Marika Active
+    *   Black Orchid
     *   Pam &. Gela
-    *   Wardrobe Staple: Tall Boots
     *   Premium Denim Up to 65% Off
     *   Casual Fri-YAY: Best Brands Starting at $15
+    *   Slope Style: Ski-Ready Looks Up to 70% Off
+*   WomenShop Sale Events
+    
+    *   Nanette Lepore Swim
+    *   Nanette Lepore Active
+    *   Chan Luu Jewelry Starting at $30
+    *   Winter Survival Guide: Head-to-Toe Essentials
+    *   ECI
+    *   Corky's Rain Boots Under $40
+    *   Amanda Uprichard
+    *   Sterling Silver &. Gemstone Jewelry
+    *   Threads 4 Thought Starting at $10
+    *   GC Shoes
+    *   AFRM
+    *   Our Favorite Sneakers Starting at $20
+    *   Vintage Addiction Up to 80% Off
+    *   Skinn Cosmetics Up to 70% Off
+    *   Patchology
+    *   Winter Essentials: Must-Have Coats &. Jackets
+    *   Kimi + Kai &. More
+    *   Wolford
+    *   Wardrobe Staple: Tall Boots
+    *   Work Dresses ft. Tahari Incl. Special Sizes
+    *   A.L.C.
     *   Dr. Martens
+    
     *   Sam Edelman Lingerie
     *   Valentino by Mario Valentino
     *   Taryn Rose
     *   LAmade
     *   Gold &. Sterling Silver Trend Jewelry Starting at $20
     *   Endless Rose Starting at $15
-    *   Skinnygirl by Bethenny Frankel &. More Incl. Plus
     *   Victoria Beckham Sun &. More
     *   Chase &. Chloe
     *   Lovely Layers: Gemstones, Stacking Rings &. More
     *   Hair Tools We Love ft. BaBylissPRO
     *   MintPear: Cruelty-Free Skin Care
-    *   Marika Active
-    *   Slope Style: Ski-Ready Looks Up to 70% Off
     *   Stuart Weitzman
-    
-    *   Haute Hippie
-    *   Athena Alexander
-    *   Subtle Luxury Cashmere Up to 70% Off
-    *   Statement Jewelry Starting at $15
-    *   On Trend: Bags Under $40
-    *   24/7 Comfort Up to 75% Off
-    *   Thursday Thrills: Style Essentials Up to 75% Off
-    *   Sterling Silver, 18K Gold &. More ft. Konstantino Jewelry
     *   Lalique Fragrances Up to 60% Off
     *   CONTEXT Skin Beauty Essentials
     *   FaceBase
-    *   Helen Jon Swim
-    *   Chooka Rain Boots Under $50
-    *   Layer Up: Faux Fur Coats, Scarves &. Hats
-    *   Cold Front: Winter's Warmest Boots
-    *   Diane von Furstenberg
-    *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Kate Somerville
-    *   Season's Best Coats &. Jackets Up to 80% Off
+    *   Skinnygirl by Bethenny Frankel &. More Incl. Plus
+    *   Marika Active
     *   Black Orchid
-    *   Diane von Furstenberg Sunglasses
-    *   Eliza J Coats at 80% Off
-    *   Wear-to-Work Shoes ft. Calvin Klein
+    *   Pam &. Gela
+    *   Premium Denim Up to 65% Off
+    *   Casual Fri-YAY: Best Brands Starting at $15
+    *   Slope Style: Ski-Ready Looks Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -160,25 +146,26 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Lacoste
+    *   Ezekiel
+    *   Blanc Noir
+    *   Andrew Christian
     *   Affliction Men
     *   Aquatalia Men
     *   Original Penguin
-    *   Stone Rose
-    *   Reebok Men's Active
     *   Lindbergh
     *   Volcom Men Under $35
     *   Creative Recreation
-    *   Slope Style: Men's Cold-Weather Accessories
     
+    *   Slope Style: Men's Cold-Weather Accessories
     *   Men's Ski-Ready Jackets ft. Spyder
     *   Weather Ready: Men's Boots
     *   Men's Premium Jean Shop ft. AG
     *   John Varvatos Tailored Clothing
-    *   Zeus Men's Grooming
     *   Robert Wayne
-    *   Maceoo
-    *   RIP CURL
     *   Callaway Golf Apparel
+    *   Stone Rose
+    *   Reebok Men's Active
     
     Shop By Category
     *   Clothing
@@ -186,26 +173,26 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Kimi + Kai &. More
+    *   Coccoli &. Beanstork Organics Up to 65% Off
+    *   Mia Belle Girls
     *   Western Chief Kids
     *   Kids' Brands We Love Starting at $10
-    *   Mia Belle Girls
-    *   Hit the Slopes: Minymo &. More
-    *   AG Kids
-    *   Catimini: French-Designed Fashion for Kids
-    *   Kids' Snow Boots &. Slippers
     
     Shop By Category
     *   Girls Sizes 2T-6X
+    *   Baby Boy
     *   Boys Sizes 2T-7
+    *   Baby Girl
     *   Boys Sizes 8-20
     *   Girls Sizes 7-16
-    *   Girls' Shoes
-    *   Baby Boy
     *   Boys' Shoes
-    *   Baby Girl
-    *   Kids Accessories
+    *   Girls' Shoes
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   New Year's Resolution: Meal Prep Essentials
+    *   Free Shipping: Quilts &. Coverlets
     *   Free Shipping: 1000 Thread Count Sheets Up to 85% Off
     *   Free Shipping: Fresh Wall Art
     *   Resolution Ready: Organization Essentials
@@ -215,40 +202,32 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Simple Soy Candle Co.
     *   Sleep Yoga: Problem-Solving Pillows &. More
     
-    *   Rifle Paper Co
-    *   Resort Ready: Beach-Bound Towels Starting at $10
-    *   Free Shipping: Luxe Home Accent Blowout
-    *   Nutrichef Kitchen Electrics Up to 65% Off
-    *   New Year's Resolution: Hydration Starting at $12
-    *   Free Shipping: Pop Art Pillows Under $18
-    *   Free Shipping: Pet Accessories Starting at $12
-    *   Free Shipping: Cozy Coverlets &. More Starting at $15
-    
     Shop By Category
-    *   Home Decor
     *   Organization
-    *   Kitchen &. Tabletop
+    *   Home Decor
     *   Bedding
-    *   Bath
-    *   Outdoor Living
+    *   Kitchen &. Tabletop
     *   Accent Furniture
+    *   Outdoor Living
+    *   Luggage &. Travel
+    *   Bath
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   Skinn Cosmetics Up to 70% Off
+    *   Patchology
     *   Hair Tools We Love ft. BaBylissPRO
     *   MintPear: Cruelty-Free Skin Care
     *   Lalique Fragrances Up to 60% Off
     *   CONTEXT Skin Beauty Essentials
     *   FaceBase
-    *   Kate Somerville
-    *   Zeus Men's Grooming
     
     Shop By Category
     *   Makeup
     *   Fragrance
+    *   Skin Care
     *   Hair Care
     *   Bath &. Body
-    *   Skin Care
     *   Nails
     *   Tools &. Accessories
 
