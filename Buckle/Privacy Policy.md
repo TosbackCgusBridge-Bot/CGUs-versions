@@ -19,7 +19,7 @@ START THE NEW YEAR OFF RIGHT WITH THE PERFECT OUTFIT! SHOP NEW ARRIVALS
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   0MY FAVORITES
 *   MY BAG
