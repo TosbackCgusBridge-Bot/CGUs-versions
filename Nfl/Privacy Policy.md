@@ -1,9 +1,9 @@
 Playoffs - WILD CARD
 
-*   ATL13LA•72nd ? 00:05REDZONE
+*   CAR11-626NO12-531Final
+*   BUF9-83JAX11-610Final
 *   TEN10-722KC10-721Final
-*   BUF9-7JAX10-6Sun 1:05 PM ET
-*   CAR11-5NO11-5Sun 4:40 PM ET
+*   ATL11-626LA11-613Final
 
 *   News
 *   Scores
@@ -23,10 +23,10 @@ Playoffs - WILD CARD
 
 Playoffs - WC
 
-*   ATL13LA•72nd ? 00:05REDZONE
+*   CAR26NO31Final
+*   BUF3JAX10Final
 *   TEN22KC21Final
-*   BUF9-7JAX10-6Sun 1:05 PM ET
-*   CAR11-5NO11-5Sun 4:40 PM ET
+*   ATL26LA13Final
 
 *   News
 *   Scores
