@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 8%  4% 
+What is PeekScore? Public Records &. Background Checks 19%  4% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 8%  4% 
     
 *   Show Less ...
 
-8%  8%  Arrest Records &. Driving Infractions
+19%  19%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7%  Twitter 3% 
+Facebook 19%  Twitter 4% 
 
 *   HIV.gov - HIVGov
     
@@ -199,7 +199,7 @@ Facebook 7%  Twitter 3% 
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 4% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -267,7 +267,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Pinterest 7%  Wikipedia 3% 
+Pinterest 19%  Wikipedia 4% 
 
 *   Medana
     
@@ -286,7 +286,7 @@ Pinterest 7%  Wikipedia 3% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Google+ 3% 
+Google+ 4% 
 
 *   Privacy policy - Google+ - Google Plus
     
@@ -312,7 +312,7 @@ Google+ 3% 
     
 *   Show Less ...
 
-Linkedin 7%  Music 3% 
+Linkedin 19%  Music 4% 
 
 *   Pandora
     
@@ -358,7 +358,7 @@ Linkedin 7%  Music 3% 
     
 *   Show Less ...
 
-Photo Albums 3% 
+Photo Albums 4% 
 
 *   Flickr
     
@@ -369,7 +369,7 @@ Photo Albums 3% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 3% 
+Myspace 4% 
 
 *   Privacy Policy - 49086242
     
@@ -393,7 +393,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Documents 3% 
+Documents 4% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -439,7 +439,7 @@ Documents 3% 
     
 *   Show Less ...
 
-Web Search 3% 
+Web Search 4% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -485,7 +485,7 @@ Web Search 3% 
     
 *   Show Less ...
 
-Images 3% 
+Images 4% 
 
 20
 
