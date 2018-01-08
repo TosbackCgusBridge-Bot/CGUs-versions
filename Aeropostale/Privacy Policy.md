@@ -553,7 +553,7 @@ About Us
 Stay Connected
 
 *   Live ChatCall Us
-*   Refer a Friend
+*   Give $15, Get $15
 *   College Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
