@@ -1,27 +1,103 @@
-Get marketing news first: subscribe for free to the MarketingVOX Daily   **The Voice of Online Marketing** | MEDIA KIT | NEWS TIPS The latest practical news and developments at the intersection of search, email,  
-social media, mobile marketing, web analytics, online advertising, ecommerce and more. Advertisement Privacy
+*   About Us
+*   Digital Store
+*   Services
+*   Contact Us
+*   Privacy Policy
+*   Licensing, Copyright &. Fair Use Policy
 
-Â» Watershed Publishing Privacy Policy
+Menu
 
-We are as mad at spam as you are. We get tons of it ourselves and wouldn't even imagine adding to this constant barrage of unsolicited bulk email. So our privacy policy is quite simple: we won't use your email address for any other purpose than the one for which you originally gave it to us: sending you our newsletter and (for subscribers who joined since March 2008) occasional, carefully selected sponsorship content. This may include contacting subscribers to update information once in a while, and, from time to time, inviting some readers to participate in a readership survey. Occasionally we also notify our readers of relevant events and products.
+*   About
+*   Services
+*   Subscribe
+    *   *   Email:
+            
+            Leave this field empty if you're human:
+    *   Close
+*   Digital Store
+*   Search
 
-Your name and e-mail address  
-We won't sell our lists to advertisers, other web sites or list brokers. We may engage in co-registration deals with other publishers, provided these partnerships are based on opt-in (i.e. you won't get anything from our partners unless you actively choose to get it). You will sometimes see advertisers in our emails and newsletters. We consider our lists a business asset and we reserve the right to sell them if someone was to acquire one of our newsletters. Any potential acquirer would have to commit to respecting this privacy policy and change it only with your active consent.
+Select Page
 
-We use opt-in email registration only. The primary way to unsubscribe is by clicking on automatic links generated at the bottom of each email. This is also the way to change your email address: unsubscribe with the link at the bottom, and re-subscribe with the subscribe link found at the top of the newsletter. If you use our "send story to a friend" feature, we won't use your friend's email for any other purpose. In fact we "fire and forget" and don't collect these e-mails. If you post a comment on our site, we won't use your email except to send you update notices about the specific entry you commented, or to initiate a private one-to-one email conversation with you about your post.
+*   Subscribe
+    *   \[Tabs\]
+        *   \[Custom\]
 
-Logging, Cookies, Web beacons and Third Party Advertising  
-We collect anonymous usage data (technically known as "referrer logs") on our web site, such as IP address, referrer site, or browser type. We do not link IP data to personal identification information except, when appropriate, for logged-on members to prevent account sharing fraud. We may use technical tracking means such as cookies or web beacons (single-pixel transparent gifs). These techniques are anonymous and used for statistical purposes only (e.g. finding our email open rate). We won't try to monitor your anonymous personal usage of our site and letters. You can set up your browser to refuse cookies if you want to, though that might limit some site features. We may use an outside advertising company to display advertisements on our website. Advertisements served from third parties may or may not contain cookies and other tracking mechanisms.
+Marketing Charts Privacy Policy Marketing Charts Privacy Policy
 
-Security  
-We have put security measures in place to protect the loss, misuse and alteration of the information under our control. Only authorized personnel are allowed physical and/or digital access to servers and data.
+We are as mad at spam as you are. We get tons of it ourselves and wouldn’t even imagine adding to this constant barrage of unsolicited bulk email. So our privacy policy is quite simple: we won’t use your email address for any other purpose than the one for which you originally gave it to us: sending you our newsletter and sponsorship content. This may include contacting subscribers to update information once in a while, and, from time to time, inviting some readers to participate in a readership survey. Occasionally we also notify our readers of relevant events and products.
 
-Legal Disclaimer  
-Personally Identifiable Information provided to Watershed Publishing is subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders. We make every effort possible to preserve user privacy and anonymity. however, we may need to disclose personal information when required by law wherein such action is necessary to comply with judicial proceedings, court orders or legal processes served on our Website.
+Your name and e-mail address
 
-\- Watershed Publishing, March 2008
+We won’t rent, swap or sell our lists to advertisers, other web sites or list brokers. We may engage in co-registration deals with other publishers, provided these partnerships are based on opt-in (i.e. you won’t get anything from our partners unless you actively choose to).
 
-Join us on Facebook | Follow us on Twitter | About | Privacy Policy | MEDIA KIT |
+We consider our lists a business asset and we reserve the right to sell them if someone was to acquire one of our newsletters. Any potential acquirer would have to commit to respecting this privacy policy and change it only with your active consent.
 
-  
-© 2003-2015 Watershed Publishing. All rights reserved.
+Opt-in and opt-out
+
+We make it easy for you to manage your subscriptions, update your personal data, or unsubscribe. Inertia is a nice business helper, but we’re not interested in keeping you subscribed against your will. The primary way to unsubscribe is by clicking on automatic links generated at the bottom of each email newsletter. This is also the way to change your email address: unsubscribe with the link at the bottom, and re-subscribe with the subscribe link found at the top of the newsletter.
+
+If you use our “send story to a friend” feature, we won’t use your friend’s email for any other purpose. In fact we “fire and forget” and don’t collect these e-mails.
+
+If you post a comment on our site, we won’t use your email except to send you update notices about the specific entry you commented, or to initiate a private one-to-one email conversation with you about your post.
+
+Logging, Cookies, Web beacons and Third Party Advertising
+
+We collect anonymous usage data (technically known as “referrer logs”) on our web site, such as IP address, referrer site, or browser type. We do not link IP data to personal identification information except, when appropriate, for logged-on members to prevent account sharing fraud.
+
+We may use technical tracking means such as cookies or web beacons (single-pixel transparent gifs). These techniques are anonymous and used for statistical purposes only (e.g. finding our email open rate). We won’t try to monitor your anonymous personal usage of our site and letters. You can set up your browser to refuse cookies if you want to, though that might limit some site features.
+
+We may use an outside advertising company to display advertisements on our website. Advertisements served from third parties may or may not contain cookies and other tracking mechanisms.
+
+Security
+
+We have put security measures in place to protect the loss, misuse and alteration of the information under our control. Only authorized personnel are allowed physical and/or digital access to servers and data. All servers and data backups are kept secure from physical and electronic intrusion by use of firewalls and redundant security systems, which are periodically evaluated and upgraded.
+
+Legal Disclaimer
+
+Personally Identifiable Information provided to Marketing Charts LLC is subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders. We make every effort possible to preserve user privacy and anonymity. however, we may need to disclose personal information when required by law wherein such action is necessary to comply with judicial proceedings, court orders or legal processes served on our Website.
+
+— Marketing Charts LLC, 2017
+
+2714 52nd St. S  
+Gulfport, FL 33707
+
+646-233-0126
+
+*   About Us
+*   Digital Store
+*   Services
+*   Contact Us
+*   Privacy Policy
+*   Licensing, Copyright &. Fair Use Policy
+
+*   Facebook
+*   Twitter
+*   Google
+*   RSS
+
+Whos theme My Theme | Powered by MyPress | Designed by Your Design Agency
+
+7ads6x98y
+
+Email Address \*
+
+Subscribe to Our Newsletter
+
+**Error:** Please enter a valid email address
+
+**Error:** Invalid email
+
+**Error:** Please enter your first name
+
+**Error:** Please enter your last name
+
+**Error:** Please enter a username
+
+**Error:** Please enter a password
+
+**Error:** Please confirm your password
+
+**Error:** Password and password confirmation do not match
+
+Download Now Exact matches only Search in title Search in content Search in comments Search in excerpt Filter by Custom Post Type
