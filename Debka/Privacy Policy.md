@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, January 7, 2018  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, January 8, 2018  
 
 DEBKAfile
 
@@ -46,6 +46,8 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Jan 07, 2018 @ 14:07
+    
 *   Egypt quietly urges Palestinians to accept Ramallah as capital
     
     Jan 07, 2018 @ 08:09
@@ -61,12 +63,12 @@ Breaking news
 *   Iran blames CIA official for Iranian protests
     
     Jan 04, 2018 @ 23:18
-    
-*   Moscow denies seven Russian warplanes destroyed in Syria
-    
-    Jan 04, 2018 @ 17:51
     
 
+*   Egypt quietly urges Palestinians to accept Ramallah as capital
+    
+    Jan 07, 2018 @ 08:09
+    
 *   Syria downs two rebel drones heading to attack Russian air base
     
     Jan 06, 2018 @ 16:26
@@ -79,9 +81,7 @@ Breaking news
     
     Jan 04, 2018 @ 23:18
     
-*   Moscow denies seven Russian warplanes destroyed in Syria
-    
-    Jan 04, 2018 @ 17:51
+*   Jan 07, 2018 @ 14:07
     
 *   Egypt quietly urges Palestinians to accept Ramallah as capital
     
@@ -99,9 +99,7 @@ Breaking news
     
     Jan 04, 2018 @ 23:18
     
-*   Moscow denies seven Russian warplanes destroyed in Syria
-    
-    Jan 04, 2018 @ 17:51
+*   Jan 07, 2018 @ 14:07
     
 *   Egypt quietly urges Palestinians to accept Ramallah as capital
     
@@ -114,10 +112,6 @@ Breaking news
 *   US Sanctions 5 Iranian Entities for Work on Ballistic Missile Program
     
     Jan 04, 2018 @ 23:32
-    
-*   Iran blames CIA official for Iranian protests
-    
-    Jan 04, 2018 @ 23:18
     
 
 12PrevNext DEBKA Video
