@@ -270,6 +270,7 @@ Menu Close Menu Close
     *   Desktop Deals
     *   Tablet Deals
     *   Accessory Deals
+    *   Monitor Deals
     *   Clearance
     *   Financing Options
     *   Outlet
@@ -313,15 +314,9 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers Flash Sale
+Home >. Filter by specs Offers Different is better
 
-Lenovo 2-in-1 Yoga and Flex laptops on sale now through Jan 7.
-
-SHOP NOW >.
-
-Sorry, Primordial Elements
-
-SHOP NOW >.
+EXPLORE CES
 
 88 World Records and still climbing
 
@@ -329,7 +324,6 @@ Lenovo ThinkSystem >.
 
 *   1
 *   2
-*   3
 
 ThinkPad Sale
 
