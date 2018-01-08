@@ -1,4 +1,4 @@
-close dialogNew Year Sale$999 / YR.Subscribe close dialogSUBSCRIBE NOWto get full access
+close dialogDiscover something new in 2018! 99¢ for the 1st month1st month for only 99¢Subscribeclose dialogSUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -118,7 +118,7 @@ LifestyleOpinion
 
 HomesObituariesUSA TODAYPhoto &. VideoSubscribe
 
-© 2017 elpasotimes.com, All rights reserved.
+© 2018 elpasotimes.com, All rights reserved.
 
 Services
 
@@ -142,4 +142,4 @@ Our Partners
 *   Cars.com El Paso
 *   The Job Network
 
-close dialogNew Year Sale$999 / YR.Subscribe close dialog
+close dialogDiscover something new in 2018! 99¢ for the 1st month1st month for only 99¢Subscribeclose dialogclose dialogReady Set Go!Discover something new in 2018!99¢ for the 1st month1st month for only 99¢SubscribeNo thanks.close dialog
