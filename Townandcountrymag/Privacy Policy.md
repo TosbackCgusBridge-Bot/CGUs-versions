@@ -1,8 +1,7 @@
 *   Travel
 *   Politics
+*   Style
 *   Royals
-*   The Holidays
-*   Gift Guide 2018
 
 *   Subscribe
     *   Give a Gift
@@ -51,7 +50,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 These Are the 2018 Golden Globes Nominations 2 Inside Sarah Paulson's American Success Story 3 The T&C Top 50 Bachelors of 2018 4 Our Most Read, Shared, and Loved Stories of 2017 5 How to Make the Golden Globes's Official Cocktail Privacy Policy Dec 1, 2014
+Today's Top Stories 1 The Best Looks from the 2018 Golden Globes 2 Inside Sarah Paulson's American Success Story 3 The T&C Top 50 Bachelors of 2018 4 Here's Where to Go on Your Next Vacation in 2018 5 Our Most Read, Shared, and Loved Stories of 2017 Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -179,7 +178,9 @@ Advertisement - Continue Reading Below
 
 Last revised on April 1, 2016
 
-Advertisement - Continue Reading Below Share Tweet Email
+Watch Next
+
+Advertisement - Continue Reading Below More From About Advertise Online Terms of Use Why did I get this ad? Share Tweet Email
 
 *   About
 *   Inside the World of Luxury Vacation Rentals
