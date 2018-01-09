@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD Weekly Status #29 ›
 *   Announcing the Dell XPS 13 Developer Edition 9370 with Ubuntu ›
 *   Ubuntu Updates for the Meltdown / Spectre Vulnerabilities ›
 *   Accessing the Juju CLI from within the GUI ›
 *   Keynote: Maximizing developer velocity with containers ›
-*   Security Team Weekly Summary: December 21, 2017 ›
