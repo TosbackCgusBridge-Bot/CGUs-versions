@@ -17,7 +17,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.319,64ǀ
+*   DAX 13.367,78ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -718,6 +718,7 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   FREIZEIT
 *   *   Eurojackpot
     *   Lottozahlen
+    *   Glücksspirale
     *   Sudoku
     *   Kenken
     *   Street
