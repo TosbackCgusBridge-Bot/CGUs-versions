@@ -1,9 +1,9 @@
-Playoffs - WILD CARD
+Playoffs - DIVISIONAL
 
-*   CAR11-626NO12-531Final
-*   BUF9-83JAX11-610Final
-*   TEN10-722KC10-721Final
-*   ATL11-626LA11-613Final
+*   ATL11-6PHI13-3Sat 4:35 PM ET
+*   TEN10-7NE13-3Sat 8:15 PM ET
+*   JAX11-6PIT13-3Sun 1:05 PM ET
+*   NO12-5MIN13-3Sun 4:40 PM ET
 
 *   News
 *   Scores
@@ -21,12 +21,12 @@ Playoffs - WILD CARD
 *   NFL Network
 *   Photos
 
-Playoffs - WC
+Playoffs - DIV
 
-*   CAR26NO31Final
-*   BUF3JAX10Final
-*   TEN22KC21Final
-*   ATL26LA13Final
+*   ATL11-6PHI13-3Sat 4:35 PM ET
+*   TEN10-7NE13-3Sat 8:15 PM ET
+*   JAX11-6PIT13-3Sun 1:05 PM ET
+*   NO12-5MIN13-3Sun 4:40 PM ET
 
 *   News
 *   Scores
