@@ -3,7 +3,7 @@
 *   It's Free!
 *   Join Tagged
 *   Join with Facebook
-*   Join with Google
+*   Sign in with Google
 
   TERMS OF SERVICE Jump to Privacy Policy Terms of Service
 
