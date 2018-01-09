@@ -29,15 +29,15 @@ Learn how PayPal makes it easy to shop and send money to family and friends.
 
 Shop, send money, and pay bills without entering your payment info again and again
 
-It's free to send money to friends and family when you use your bank account.\*
+Keep earning your rewards when you use your credit card to shop with PayPal.\*
 
-Signing up is simple. See for yourself why millions of people love PayPal.
+Check out how you want. Use your credit, debit or bank account.
 
-Save time by not re-typing your credit card details every time you shop.
+Shop the world with peace of mind while we help keep your account secure.
 
 Sign Up for Free
 
-\*Funds go quickly into your friends or families PayPal account. If they don't have one, can sign up for free.
+\*Issuer rewards program is subject to the issuer’s rewards program terms and conditions.
 
 Business
 
@@ -122,4 +122,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=f85a4ebae1af&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=2ffe4406fcea4868bbbccc99938d11a4&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273%2C3396&xt=7821%2C8104&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=11df78cf64254&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=7c7ad5adecc44f61b8594a09a1178a2e&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3273%2C3396&xt=7821%2C8105&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
