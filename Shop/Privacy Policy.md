@@ -289,6 +289,7 @@ Menu Close Menu Close
     *   Students &. Teachers
     *   Lenovo Partner Network
     *   See All Solutions
+    *   Device as a service
 *   Email Sign-Up
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
@@ -318,9 +319,9 @@ Home >. Filter by specs Offers Different is better
 
 EXPLORE CES
 
-88 World Records and still climbing
+The next generation is here.
 
-Lenovo ThinkSystem >.
+Learn more >.
 
 *   1
 *   2
@@ -337,9 +338,9 @@ NEW YEAR, NEW SAVINGS!
 
 Start the year right with a fresh new PC! On sale ‘til Jan. 10.
 
-Miix 720
+SNAG THIS DEAL
 
-Need productivity on the go? This 2-in-1 can take you there.
+Great savings on laptops and desktops up to 26% off. Sale ends Jan 10.
 
 Awaken your inner Jedi with a new smartphone-powered augmented-reality experience.
 
