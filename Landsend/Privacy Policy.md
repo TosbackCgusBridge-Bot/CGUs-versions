@@ -46,6 +46,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     SHOP NEW COLLECTIONS
     
     *   Weather Channel Collection
+    *   Soft Leisure Collection
+    *   Girls' Winter Collections
+    *   Boys' Winter Collections
     
     BLOG
     *   The Journal
@@ -53,10 +56,12 @@ menu Close 0 Free Shipping on $50+  |  Offers
 *   Women FEATURED SHOPS
     
     *   New Arrivals
-    *   Now &. Later Looks
+    *   Coats of Winter
+    *   Holiday Dressing
+    *   Gifts For Her
     *   The Starfish Collection
-    *   Tunic Shop
-    *   Coats of Spring
+    *   Soft Leisure Collection
+    *   Resort Collection
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -103,14 +108,17 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Gloves
     *   Socks &. Tights
     *   Belts
-    *   Jewelry
     *   Small Accessories
 *   Men FEATURED SHOPS
     
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
+    *   The Pants Shop
+    *   Flannel Favorites
+    *   Shirt Finder
     *   The Getaway Collection
+    *   Holiday Style Guide
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -165,8 +173,8 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Hats, Gloves &. Scarves
     *   Iron Knees Pants
     *   Girls' Knit Kit
-    *   Toddler Shop
-    *   Backpacks &. Lunch Boxes
+    *   Boys Winter Collections
+    *   Girls Winter Collections
     *   Sale
     
     SHOP BY AGE RANGE
@@ -190,7 +198,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Sleepwear
     *   Skirts &. Skorts
     *   Shorts
-    *   Blazers
+    *   Blazers &. Jackets
     *   Swimsuits
     *   Backpacks &. Lunch Boxes
     *   Shoes
@@ -206,7 +214,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Jeans
     *   Sleepwear
     *   Shorts
-    *   Blazers
+    *   Blazers &. Jackets
     *   Swimwear
     *   Backpacks &. Lunch Boxes
     *   Activewear
@@ -221,11 +229,13 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Boys
     
     FEATURED SHOPS
-    *   Snow Boots
-    *   Hats, Gloves &. Scarves
-    *   Long Underwear
-    *   Women's Coats of Spring
     *   Weather Channel Collection
+    *   Women's Coat Finder
+    *   Women's Coats of Winter
+    *   Men's Squall System Builder
+    *   Hats, Gloves &. Scarves
+    *   Snow Boots
+    *   Long Underwear
     *   Sale
 *   Bags SHOP BAGS
     
@@ -238,7 +248,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Canvas Totes
     *   Backpacks &. Lunchboxes
     *   Business Bags
-    *   Diaper Bags
     *   Travel Bags
 *   Swim SHOP SWIM
     
@@ -250,6 +259,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     FEATURED SHOPS
     *   Women's Swim Finder
     *   Women's Mix &. Match Tool
+    *   Resort Collection
     *   Swim Tees &. Rash Guards
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
@@ -303,20 +313,23 @@ menu Close 0 Free Shipping on $50+  |  Offers
 *   Home FEATURED SHOPS
     
     *   New Arrivals
+    *   Holiday Shop
     *   Supima Bedding &. Bath
     *   Bedding Basics
+    *   Personalized Gifts
     *   Flannel Bedding
+    *   Stockings and Holders
     *   Sale
     
-    More for the Home >.
+    Christmas Shop >.
     
-    *   Outdoor Living
-    *   Storage &. Organization
-    *   Door Mats
-    *   Luggage &. Bags
-    *   Canvas Totes
-    *   Entertaining
+    *   Christmas Stockings
+    *   Christmas Ornaments &. Tree Skirts
+    *   Christmas Wreaths
+    *   Christmas Bedding
+    *   Christmas Candy &. Treats
     *   Holiday Decor
+    *   Entertaining
     
     BEDDING >.
     
@@ -335,13 +348,49 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Beach Towels
     
     KIDS ROOM >.
+    
     *   Kids Bedding
     *   Kids Towels
     *   Seasonal Totes
     *   Toys &. Gifts
     *   Bean Bag Chairs
     *   Sleeping Bags
-    *   Baby BlanketsDOG SHOP >.
+    *   Baby Blankets
+    
+    More for the Home >.
+    *   Outdoor Living
+    *   Storage &. Organization
+    *   Door Mats
+    *   Luggage &. Bags
+    *   Canvas TotesDOG SHOP >.
+*   Gifts FEATURED SHOPS
+    
+    *   Holiday Shop
+    *   Favorite Gifts
+    *   Stockings &. Stuffers
+    *   Host &. Hostess Gifts
+    *   Flannel Favorites
+    *   Personalized Gifts
+    *   Sleep Shop
+    *   Canvas Totes
+    *   Gifts-In-A-Tote
+    
+    GIFT By Recipient
+    
+    *   For Her
+    *   For Him
+    *   For Girls
+    *   For Boys
+    *   For Home
+    
+    Christmas Shop
+    *   Christmas Stockings
+    *   Christmas Ornaments and Tree Skirts
+    *   Christmas Wreaths
+    *   Christmas Bedding
+    *   Christmas Candy &. Treats
+    *   Holiday Decor
+    *   Entertaining
 *   Sale SHOP SALE
     
     *   Women
@@ -360,6 +409,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   SHOP NEW COLLECTIONS
         *   Back
         *   Weather Channel Collection
+        *   Soft Leisure Collection
+        *   Girls' Winter Collections
+        *   Boys' Winter Collections
     *   BLOG
         *   Back
         *   The Journal
@@ -375,10 +427,12 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
-        *   Now &. Later Looks
+        *   Coats of Winter
+        *   Holiday Dressing
+        *   Gifts For Her
         *   The Starfish Collection
-        *   Tunic Shop
-        *   Coats of Spring
+        *   Soft Leisure Collection
+        *   Resort Collection
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -404,7 +458,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Gloves
         *   Socks &. Tights
         *   Belts
-        *   Jewelry
         *   Small Accessories
     *   Coats &. Jackets
     *   Fleece
@@ -430,7 +483,11 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   New Arrivals
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
+        *   The Pants Shop
+        *   Flannel Favorites
+        *   Shirt Finder
         *   The Getaway Collection
+        *   Holiday Style Guide
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -483,8 +540,8 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Hats, Gloves &. Scarves
         *   Iron Knees Pants
         *   Girls' Knit Kit
-        *   Toddler Shop
-        *   Backpacks &. Lunch Boxes
+        *   Boys Winter Collections
+        *   Girls Winter Collections
         *   Sale
     *   SHOP BY AGE RANGE
         *   Back
@@ -506,7 +563,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Sleepwear
         *   Skirts &. Skorts
         *   Shorts
-        *   Blazers
+        *   Blazers &. Jackets
         *   Swimsuits
         *   Backpacks &. Lunch Boxes
         *   Shoes
@@ -522,7 +579,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Jeans
         *   Sleepwear
         *   Shorts
-        *   Blazers
+        *   Blazers &. Jackets
         *   Swimwear
         *   Backpacks &. Lunch Boxes
         *   Activewear
@@ -532,32 +589,37 @@ menu Close 0 Free Shipping on $50+  |  Offers
 *   Outerwear
     *   Back
     *   Shop all Outerwear
+    *   SHOP OUTERWEAR
+        *   Back
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
     *   FEATURED SHOPS
         *   Back
-        *   Snow Boots
-        *   Hats, Gloves &. Scarves
-        *   Long Underwear
-        *   Women's Coats of Spring
         *   Weather Channel Collection
+        *   Women's Coat Finder
+        *   Women's Coats of Winter
+        *   Men's Squall System Builder
+        *   Hats, Gloves &. Scarves
+        *   Snow Boots
+        *   Long Underwear
         *   Sale
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
 *   Bags
     *   Back
     *   Shop all Bags
+    *   SHOP BAGS
+        *   Back
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
     *   FEATURED SHOPS
         *   Back
         *   Canvas Totes
         *   Backpacks &. Lunchboxes
         *   Business Bags
-        *   Diaper Bags
         *   Travel Bags
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
 *   Swim
     *   Back
     *   Shop all Swim
@@ -565,6 +627,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Back
         *   Women's Swim Finder
         *   Women's Mix &. Match Tool
+        *   Resort Collection
         *   Swim Tees &. Rash Guards
         *   Water Shoes &. Sandals
         *   Totes &. Beach Bags
@@ -627,19 +690,22 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
+        *   Holiday Shop
         *   Supima Bedding &. Bath
         *   Bedding Basics
+        *   Personalized Gifts
         *   Flannel Bedding
+        *   Stockings and Holders
         *   Sale
-    *   More for the Home
+    *   Christmas Shop
         *   Back
-        *   Outdoor Living
-        *   Storage &. Organization
-        *   Door Mats
-        *   Luggage &. Bags
-        *   Canvas Totes
-        *   Entertaining
+        *   Christmas Stockings
+        *   Christmas Ornaments &. Tree Skirts
+        *   Christmas Wreaths
+        *   Christmas Bedding
+        *   Christmas Candy &. Treats
         *   Holiday Decor
+        *   Entertaining
     *   BEDDING
         *   Back
         *   Sheets &. Pillowcases
@@ -663,7 +729,44 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Bean Bag Chairs
         *   Sleeping Bags
         *   Baby Blankets
+    *   More for the Home
+        *   Back
+        *   Outdoor Living
+        *   Storage &. Organization
+        *   Door Mats
+        *   Luggage &. Bags
+        *   Canvas Totes
     *   DOG SHOP
+*   Gifts
+    *   Back
+    *   Shop all Gifts
+    *   FEATURED SHOPS
+        *   Back
+        *   Holiday Shop
+        *   Favorite Gifts
+        *   Stockings &. Stuffers
+        *   Host &. Hostess Gifts
+        *   Flannel Favorites
+        *   Personalized Gifts
+        *   Sleep Shop
+        *   Canvas Totes
+        *   Gifts-In-A-Tote
+    *   GIFT By Recipient
+        *   Back
+        *   For Her
+        *   For Him
+        *   For Girls
+        *   For Boys
+        *   For Home
+    *   Christmas Shop
+        *   Back
+        *   Christmas Stockings
+        *   Christmas Ornaments and Tree Skirts
+        *   Christmas Wreaths
+        *   Christmas Bedding
+        *   Christmas Candy &. Treats
+        *   Holiday Decor
+        *   Entertaining
 *   Sale
     *   Back
     *   Shop all Sale
@@ -962,4 +1065,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-Today's Offers Promo applied. Limit one promo per order. Benefits are displayed in your shopping bag. Some offers may require a promo to receive benefits. Limit one promo per order. <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+Today's Offers Promo applied. Limit one promo per order. Benefits are displayed in your shopping bag. Some offers may require a promo to receive benefits. Limit one promo per order. <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
