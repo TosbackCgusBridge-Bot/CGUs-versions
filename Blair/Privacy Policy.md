@@ -289,4 +289,7 @@ Place Catalog Order
 Request a Catalog  
 VIP Plus Loyalty Program  
 VIP Plus FAQ  
-© BLAIR 2000-2018 | 220 Hickory St., Warren, PA 16366 Processing...
+
+© 1997–2018 Blair LLC. All rights reserved.
+
+Processing...
