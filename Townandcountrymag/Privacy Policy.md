@@ -178,9 +178,7 @@ Advertisement - Continue Reading Below
 
 Last revised on April 1, 2016
 
-Watch Next
-
-Advertisement - Continue Reading Below More From About Advertise Online Terms of Use Why did I get this ad? Share Tweet Email
+Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
 *   Inside the World of Luxury Vacation Rentals
