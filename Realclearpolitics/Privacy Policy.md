@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Steven Erlanger_: World Sees Disorder in Trump's Foreign Policy Tweets
+*   _Robert Samuelson_: Building the Wall Would Be So Worth It
     
-*   _Charles Gasparino_: On the Economy, Trump Has Been Crazy Like a Fox
+*   _Ezra Klein_: Michael Wolff's 'Fire and Fury' Reveals a President in Crisis
     
-*   _E.J. Dionne_: Michael Wolff and the End of Denial
+*   _James Robbins_: Maybe Trump Is a Very Stable Genius After All
     
-*   _Andrew Klavan_: The Wolff Book Proves It: Our Journalists Stink
+*   _Jonathan Bernstein_: How Democrats Can Avoid Tripping Up in 2018
     
-*   _Amber Tamblyn_: Redefining the Red Carpet
+*   _Guy Short_: Republicans Will Keep Congress This Year -- Here's Why
     
-*   _Andy Puzder_: Workers Are Already Benefiting From Tax Reform
+*   _Michael Dougherty_: Wonks Made Celeb Presidents Possible, Maybe Necessary
     
-*   _Robert Kuttner_: The Democrats: Exorcizing Ghosts &. Looking Forward
+*   _Frank Bruni_: Is Oprah the Un-Trump, or the Un-Clinton?
     
-*   _Jerry Hendrix_: Trump Brings Back 'Strategic Ambiguity' to U.S. Foreign Policy
+*   _Jay Ambrose_: On Stopping Crime, Obama Failed &. Trump Succeeded
     
-*   _Chris Cillizza_: Trump's 'Very Stable Genius' Tweet Shows He Isn't
+*   _S.E. Smith_: 7 Years After Gabby Giffords' Shooting, Have We Learned Anything?
     
-*   _Ben Domenech_: Michael Wolff Presents 'Steve Bannon's What Happened'
+*   _Sarah Rumpf_: Why Is Teen Vogue Sexualizing a 9-Year-Old Boy?
     
-*   _Rana Foroohar_: Three Trends to Move Markets in 2018
+*   _Sue Halpern_: Bitcoin Mania
     
-*   _Byron York_: With DC Distracted, Immigration Debate Hits Critical Point
+*   _Sen. Bernie Sanders_: It's On Republicans to Stop a Shutdown
     
-*   _Albert Hunt_: Congress Will Be Different in 2018. Trump Won't.
+*   _Michael Graham_: A Government Shutdown Would Be a Loser for Dems
     
-*   _David Harsanyi_: The Media's Standard for Trump: 'Fake But Accurate'?
+*   _Bill Press_: Is Trump Mentally Fit for Office?
     
-*   _Charles Blow_: 'Like, Really Smart'
+*   _Mollie Hemingway_: The Next Coup Attempt: Trump &. His 'Mental Health'
     
-*   _John Everard_: Is Donald Trump's North Korea Strategy Working?
+*   _Caitlin Huey-Burns_: Leaderless Democrats Enticed by Oprah 2020
     
-*   _Ned Ryun_: How the Media Used Dossier to Create Trump-Russia Fairytale
+*   _Sally Kohn_: Oprah Would Make an Exceptional President
     
-*   _Brian Beutler_: The Grand Obstruction Party
+*   _Matthew Walther_: Welcome to Oprahysteria
     
-*   _Mollie Hemingway_: Judge Obliterates Fusion GPS' Attempt to Hide Info
+*   _Ashley Feinberg_: Oprah 2020 Is a Bad Liberal Revenge Fantasy
     
-*   _James Higdon_: Did Sessions Increase the Odds Congress Will Legalize Pot?
+*   _Kyle Smith_: About That Golden Globes Fiasco
     
-*   _Amanda Terkel_: Wisconsin Is Quietly Becoming Top Senate Race of 2018
+*   _Richard Olson_: Trump Shows How Not to Engage With Pakistan
     
-*   _Charles Hurt_: McConnell, a Swamp Creature Trump Can Count On
+*   _Andrew Malcolm_: Not Known for Nuance, Trump Handling Iran Just Right
     
-*   _Nazila Fathi_: Will Iran's Protests Help the Hard-Liners?
+*   _Bruce Reidel_: Saudi Arabia Watches Iran Protests Intently
     
-*   _David Ignatius_: The Iranian Regime Can't Keep Winning Forever
+*   _Amy Davidson Sorkin_: Looking for a Stable Genius for President
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Mandel Departs Ohio Senate Race, Citing Wife's Health
-*   Republican Senators Refer Dossier Author for Criminal Investigation
-*   Stephen Miller Battles CNN's Tapper on Wolff's Portrayal of Trump
-*   Trump Washes His Hands of Insurgency Against Republican Incumbents
-*   N. Korea Reopens Cross-Border Communications With S. Korea
+*   Ryan-Backed Groups Break Fundraising Record
+*   Oprah Run in 2020 Entices Leaderless Democrats
+*   Dershowitz: Left Couldn't Criminalize Trump, Now Trying to "Psychiatrize" Him
+*   North Korea to Join Olympics in South Korea as Tensions Ease
+*   Mattis Reveals Himself in Storytelling Moments With Troops
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove56Disapprove +13
 *   Pennsylvania 18th District Special Election - Saccone vs. LambGravis
     *   Saccone46
     *   Lamb34Saccone +12
 *   President Trump Job ApprovalGallup
     *   Approve37
     *   Disapprove58Disapprove +21
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove56Disapprove +14
 *   Direction of CountryRasmussen Reports
     *   Right Direction38
     *   Wrong Track56Wrong Track +18
 
 More Latest Polls In The News
 
+*   Lindsey Graham to Trump: Never Had Better Chance To Pass Immigration Reform, "Because Of You"
+*   CNN's Dana Bash: "I'll Get Hit For This," But Meeting Was What People Thought Trump Was Capable Of
+*   Tucker Carlson vs. Jorge Ramos: Are We Not Allowed To Complain About Illegal Immigration?
 *   Dershowitz: The Left Couldn't Criminalize Trump, Now Trying To "Psychiatrize Political Differences"
 *   Tucker Carlson Interviews Stephen Miller on CNN-Tapper Fiasco, Immigration, Chain Migration, The Wall
-*   FIREWORKS: Stephen Miller Battles CNN's Jake Tapper In Trump Tweet-Approved Interview
-*   Michael Wolff on Trump Presidency: "He Is Not Going To Succeed, This Is Worse Than Everybody Thought"
-*   CNN's Stelter: Trump Mental Stability A "Global Story," It Is Now "Fair" To Ask About His Fitness
 
 *   Politics
 *   Policy
