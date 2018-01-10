@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals tk7o-zhTWMzYC7GbYibDi4I
+Office Depot Deals LAk-b8\_STriCTA5c6oIUu2Y
 
 Search Suggestions
 
@@ -231,7 +231,7 @@ You will be automatically logged out if you do not click on the button below.
 
 https://officedepot.ugc.bazaarvoice.com 2563rew https://secure.www.odcdn.com/images/us/od/ <iframe src="//s.thebrighttag.com/iframe?c=bAEQTsC" title="BrightTag" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">. <html><head></head><body><div style="display:none;">Placeholder</div></body></html>. </iframe>.
 
-This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards Everything now!
+This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards now!
 
 Join Sign In
 
