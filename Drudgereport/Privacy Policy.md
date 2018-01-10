@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
-Thanks @Jambrose !!! twitter.com/Jambrose…
+My week on Twitter : 1 Mention, 29 Mention Reach, 5 Likes, 3 Retweets, 1.61K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/8PRB…
 
-About 15 hours ago
+About 5 hours ago
 
-Wheels up! Off to Las Vegas for @CES #CES18 #CES2018 @Requidan @stephsnowint @Nicole\_Kosar
+Great chat with our friends @IndexExchange at #CES2018 @Requidan @stephsnowint @Nicole\_Kosar @Cosmopolitan\_LV pic.twitter.com/cHsc…
+
+About 5 hours ago
+
+Our biggest fans this week: @mrmistry, @Requidan, @ShaunaSchatz. Thank you! via sumall.com/thankyou?… pic.twitter.com/PrAC…
 
 Yesterday
 
-"It takes people to understand and optimize for meaningful goals". Erik @Requidan explains why humans matter in order for DPO be successful for both the publisher and buyer adexchanger.com/the-… via @adexchanger
+Thanks @Jambrose !!! twitter.com/Jambrose…
 
-About 5 days ago
+About 2 days ago
 
-My week on Twitter : 1 Like, 2 Tweets. See yours with sumall.com/performan… pic.twitter.com/wIKU…
+Wheels up! Off to Las Vegas for @CES #CES18 #CES2018 @Requidan @stephsnowint @Nicole\_Kosar
 
-About 6 days ago
-
-My week on Twitter : 6 Mentions, 52.5K Mention Reach, 1 Like, 1 Retweet, 84 Retweet Reach, 3 Tweets. See yours with sumall.com/performan… pic.twitter.com/XwtV…
-
-About 2 weeks ago
+About 2 days ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
