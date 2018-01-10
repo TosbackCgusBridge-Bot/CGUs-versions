@@ -74,8 +74,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Kendrick Lamar Is Producing a Special 'Black Panther' Soundtrack Album Read More
-    *   Vin Diesel Might Star in R-Rated Comic Book Movie 'Bloodshot' Read More
+    *   Movie News: Russell Crowe Joins Chris Hemsworth in 'Bad Times at the El Royale' Read More
+    *   'Deadpool' Director Tim Miller Is Developing a Kitty Pryde Movie Read More
     *   Biggest Moments at Golden Globes Showcased Fine Performances Read More
     
     Explore Content
