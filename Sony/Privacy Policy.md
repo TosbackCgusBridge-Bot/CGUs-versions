@@ -203,7 +203,7 @@ Wherever You Go
 
 The new Xperia XA2 Ultra, Xperia XA2, and Xperia L2 have been announced.
 
-7 hours ago
+1 day ago
 
 View Tweet
 
@@ -289,7 +289,7 @@ Play See The Lights Fest Captured Video hotspot
 
 Drum roll please. Here’s the most popular catalog items that Sony Rewards members redeemed their points for in 2017.
 
-7 hours ago
+1 day ago
 
 View Tweet
 
