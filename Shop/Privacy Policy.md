@@ -323,8 +323,15 @@ The next generation is here.
 
 Learn more >.
 
+Different Innovates Better
+
+Transform your data center with ThinkSystem and ThinkAgile solutions.
+
+Learn more >.
+
 *   1
 *   2
+*   3
 
 ThinkPad Sale
 
@@ -382,7 +389,7 @@ STAY CONNECTED
 *   Flickr
 *   Lenovo Forums
 
-Laptops Tablets Desktops Deals Laptops Tablets Desktops Deals Chat Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
+Laptops Tablets Desktops Deals Laptops Tablets Desktops Deals Chat Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-EnglishEgypt-العربيةEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-繁體中文Hong Kong S.A.R. of China-EnglishHungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
 
 *   ABOUT LENOVO
     *   Our Company
@@ -426,7 +433,6 @@ Laptops Tablets Desktops Deals Laptops Tablets Desktops Deals Chat Select Countr
     *   Business Partners
     *   Partner Portal
     *   Military
-    *   Higher Education
     *   Higher Education
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   RESOURCES
