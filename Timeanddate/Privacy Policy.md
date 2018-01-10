@@ -135,7 +135,7 @@ Time and Date AS
 PO Box 27 Forus  
 NO-4064 Stavanger  
 Norway  
-webmaster@timeanddate.comtimeanddate.com
+webmaster@timeanddate.com timeanddate.com
 
 1.  About Us
 2.  Contact Us
