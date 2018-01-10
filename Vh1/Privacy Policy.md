@@ -7,8 +7,8 @@ VH1 Menu VH1
     *   TV Schedule
     *   Love &. Hip Hop
     *   Love &. Hip Hop Miami
-    *   Black Ink Crew
     *   America's Next Top Model
+    *   Black Ink Crew
     *   RuPaul's Drag Race All Stars
     *   Scared Famous
     *   Black Ink Crew Chicago
@@ -20,7 +20,7 @@ VH1 Menu VH1
 *   TV Provider Sign Out
 *   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z TV Schedule Love &. Hip Hop Love &. Hip Hop Miami Black Ink Crew America's Next Top Model RuPaul's Drag Race All Stars Scared Famous Black Ink Crew Chicago Martha &. Snoop's Potluck Dinner Party Brunch With Tiffany See all Shows
+*   Shows Full Episodes Shows A-Z TV Schedule Love &. Hip Hop Love &. Hip Hop Miami America's Next Top Model Black Ink Crew RuPaul's Drag Race All Stars Scared Famous Black Ink Crew Chicago Martha &. Snoop's Potluck Dinner Party Brunch With Tiffany See all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
