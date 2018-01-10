@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Across NOAA Science is kid's play: Online games for school breaks or anytime at all Climate View visual highlights from the 2017 Arctic Report Card National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather NOAA kicks off 2018 with massive supercomputer upgrade Climate View visual highlights from the 2017 Arctic Report Card National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 2017 was 3rd warmest year on record for U.S. 16 billion-dollar weather and climate disasters made for costliest year on record AROUND NOAA // GOES-13 satellite retires from 10 years of stellar service, replaced by GOES-16 East Coast storm born from ‘bombogenesis’. It’s less scary than it sounds. Whale science on the high seas
+Enter Search Terms 2017 was 3rd warmest year on record for U.S. 16 billion-dollar weather and climate disasters made for costliest year on record AROUND NOAA // NOAA kicks off 2018 with massive supercomputer upgrade GOES-13 satellite retires from 10 years of stellar service, replaced by GOES-16 East Coast storm born from ‘bombogenesis’. It’s less scary than it sounds.
 
 *   About our agency
 *   News and features
