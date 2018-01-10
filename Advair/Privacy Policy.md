@@ -128,7 +128,6 @@ GSK Global Website www.gsk.com
     *   Press releases
     *   Press Kits
         *   Press Kits
-        *   Vaccinate for Life
         *   Altius Institute for Biomedical Sciences
         *   ANORO™ ELLIPTA™
         *   Arnuity™ Ellipta® &. Incruse® Ellipta®
@@ -137,6 +136,7 @@ GSK Global Website www.gsk.com
         *   BREO® ELLIPTA™
         *   Building Bridges for Asthma Care
         *   COPD materials
+        *   Flulaval Quadrivalent for infants 6 months and older
         *   FluLaval® Quadrivalent (Influenza Virus) and Fluarix® Quadrivalent (Influenza Vaccine)
         *   Hepatitis B vaccination and diabetes
         *   Influenza resources
@@ -157,16 +157,16 @@ GSK Global Website www.gsk.com
             *   Dr. Leonard Friedland, VP, director of Scientific Affairs and Public Health, Vaccines, North America at GSK
         *   Tanzeum™ (albiglutide)
         *   The State of Uncontrolled Asthma in America
+        *   The IMPACT study: InforMing the PAthway of COPD Treatment
+        *   Trelegy Ellipta
+        *   US IMPACT Awards
+        *   Vaccinate for Life
         *   World Meningitis Day
             *   World Meningitis Day
             *   Jamie Schanbaum
             *   Meningococcal disease fact sheet
             *   Hour of Power Rowing &. Cycling Challenge
             *   Knowledge gaps in vaccination against meningococcal disease
-        *   The IMPACT study: InforMing the PAthway of COPD Treatment
-        *   US IMPACT Awards
-        *   Flulaval Quadrivalent for infants 6 months and older
-        *   Trelegy Ellipta
     *   Media contacts
     *   Corporate Reporting
     *   Social media
@@ -185,7 +185,6 @@ GSK Global Website www.gsk.com
         *   Contact us
 *   Contact us
     *   Contact us
-    *   Our US Locations
     *   Patients/consumers
     *   Healthcare professionals
     *   Media
@@ -461,6 +460,10 @@ Menu
         *   Application tips and process
     *   High school students
     *   Employee rights under federal law
+    *   Veterans' leaders program
+        *   Back
+        *   Veterans' leaders program
+        *   Case studies
     
     *   Search jobs and apply
         
