@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Robert Samuelson_: Building the Wall Would Be So Worth It
+*   _Newt Gingrich_: Trump's Successful Presidency &. Wolff's Erroneous Book
     
-*   _Ezra Klein_: Michael Wolff's 'Fire and Fury' Reveals a President in Crisis
+*   _Susan Glasser_: Michael Wolff Says That Washington Will Bury Trump
     
-*   _James Robbins_: Maybe Trump Is a Very Stable Genius After All
+*   _Isaac Chotiner_: Fire and Flimsy: The Michael Wolff Way
     
-*   _Jonathan Bernstein_: How Democrats Can Avoid Tripping Up in 2018
+*   _Harris &. White_: Coming Soon to Davos: A Trump Stink Bomb
     
-*   _Guy Short_: Republicans Will Keep Congress This Year -- Here's Why
+*   _Josh Blackman_: A Ludicrous Ruling That Trump Can't End DACA
     
-*   _Michael Dougherty_: Wonks Made Celeb Presidents Possible, Maybe Necessary
+*   _Raul Reyes_: Trump's New Immigration Decision Is Shortsighted and Cruel
     
-*   _Frank Bruni_: Is Oprah the Un-Trump, or the Un-Clinton?
+*   _Rachel Stoltzfoos_: 19 Insane Details From Damore's Google Lawsuit
     
-*   _Jay Ambrose_: On Stopping Crime, Obama Failed &. Trump Succeeded
+*   _Jelani Cobb_: Under Trump, a Hard Test for Howard University
     
-*   _S.E. Smith_: 7 Years After Gabby Giffords' Shooting, Have We Learned Anything?
+*   _Piereson &. Riley_: Student Radicalism Doesn't Come From Professors
     
-*   _Sarah Rumpf_: Why Is Teen Vogue Sexualizing a 9-Year-Old Boy?
+*   _John Kass_: Aha! Democrats and Their Oprah Moment
     
-*   _Sue Halpern_: Bitcoin Mania
+*   _Ruth Marcus_: Ivanka Trump, Stop the Oprah Cheerleading. You're Complicit.
     
-*   _Sen. Bernie Sanders_: It's On Republicans to Stop a Shutdown
+*   _Thomas Friedman_: Iranian and Saudi Youth Try to Bury 1979
     
-*   _Michael Graham_: A Government Shutdown Would Be a Loser for Dems
+*   _Roger Simon_: Donald Trump--the Grownup in the Room on Immigration
     
-*   _Bill Press_: Is Trump Mentally Fit for Office?
+*   _Charlie Cook_: A White House That Can't Shoot Straight
     
-*   _Mollie Hemingway_: The Next Coup Attempt: Trump &. His 'Mental Health'
+*   _Andrew McCarthy_: Obama's FBI and Steele's Raw, Unverified 'Intelligence'
     
-*   _Caitlin Huey-Burns_: Leaderless Democrats Enticed by Oprah 2020
+*   _Ben Smith_: I'm Proud We Published the Trump-Russia Dossier
     
-*   _Sally Kohn_: Oprah Would Make an Exceptional President
+*   _Morris Fiorina_: The Meaning of Trump's Election Has Been Exaggerated
     
-*   _Matthew Walther_: Welcome to Oprahysteria
+*   _Heather MacDonald_: Is #MeToo Becoming a War on Men?
     
-*   _Ashley Feinberg_: Oprah 2020 Is a Bad Liberal Revenge Fantasy
+*   _Christina Cauterucci_: No, #MeToo Is Not Going to End Flirting and Fun Sex
     
-*   _Kyle Smith_: About That Golden Globes Fiasco
+*   _Angelo Codevilla_: Sex vs. Political Correctness?
     
-*   _Richard Olson_: Trump Shows How Not to Engage With Pakistan
+*   _Eugene Robinson_: Don't Underestimate the Possibility of Oprah 2020
     
-*   _Andrew Malcolm_: Not Known for Nuance, Trump Handling Iran Just Right
+*   _Andrew O'Hehir_: Dem Unicorn Hunt Launches With Some Magical Thinking
     
-*   _Bruce Reidel_: Saudi Arabia Watches Iran Protests Intently
+*   _Steve Cortes_: Team Trump: Tout the Real Economy's Gains, Not the Dow
     
-*   _Amy Davidson Sorkin_: Looking for a Stable Genius for President
+*   _Michael Bloomberg_: A Seven-Step Plan for Ending the Opioid Crisis
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Ryan-Backed Groups Break Fundraising Record
 *   Oprah Run in 2020 Entices Leaderless Democrats
-*   Dershowitz: Left Couldn't Criminalize Trump, Now Trying to "Psychiatrize" Him
-*   North Korea to Join Olympics in South Korea as Tensions Ease
-*   Mattis Reveals Himself in Storytelling Moments With Troops
+*   Trump Suggests 2-Phase Immigration Deal for "Dreamers"
+*   Dimon: Tax Cuts Will Be Good for America, "Animal Spirits Are Back"
+*   Arpaio's Decision to Run Shakes Up Senate Race in Arizona
+*   Ryan-Backed Groups Break Fundraising Record
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,27 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Arizona Senate - Republican PrimaryABC 15/OH Predictive Insights
+    *   McSally31
+    *   Arpaio29
+    *   Ward25McSally +2
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve36
+    *   Disapprove59Disapprove +23
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
-*   Pennsylvania 18th District Special Election - Saccone vs. LambGravis
-    *   Saccone46
-    *   Lamb34Saccone +12
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove58Disapprove +21
-*   Direction of CountryRasmussen Reports
-    *   Right Direction38
-    *   Wrong Track56Wrong Track +18
+    *   Approve44
+    *   Disapprove55Disapprove +11
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve41
+    *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
-*   Lindsey Graham to Trump: Never Had Better Chance To Pass Immigration Reform, "Because Of You"
+*   Trump: Media Sent Letters Calling Immigration Meeting Great. Won't Be In Business If I Don't Win
+*   O'Donnell: Feinstein Releasing Fusion GPS Transcript Is "Most Important Act" In Senate "In A Generation"
 *   CNN's Dana Bash: "I'll Get Hit For This," But Meeting Was What People Thought Trump Was Capable Of
+*   Tapper: Trump's On-Camera Immigration Meeting Was To Push Aside Mental Fitness Concerns
 *   Tucker Carlson vs. Jorge Ramos: Are We Not Allowed To Complain About Illegal Immigration?
-*   Dershowitz: The Left Couldn't Criminalize Trump, Now Trying To "Psychiatrize Political Differences"
-*   Tucker Carlson Interviews Stephen Miller on CNN-Tapper Fiasco, Immigration, Chain Migration, The Wall
 
 *   Politics
 *   Policy
