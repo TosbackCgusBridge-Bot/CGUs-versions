@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 2017 was 3rd warmest year on record for U.S. 16 billion-dollar weather and climate disasters made for costliest year on record AROUND NOAA // NOAA kicks off 2018 with massive supercomputer upgrade GOES-13 satellite retires from 10 years of stellar service, replaced by GOES-16 East Coast storm born from ‘bombogenesis’. It’s less scary than it sounds.
+Enter Search Terms 2017 was 3rd warmest year on record for U.S. 16 billion-dollar weather and climate disasters made for costliest year on record AROUND NOAA // Snow squall warnings to begin this winter NOAA kicks off 2018 with massive supercomputer upgrade GOES-13 satellite retires from 10 years of stellar service, replaced by GOES-16
 
 *   About our agency
 *   News and features
