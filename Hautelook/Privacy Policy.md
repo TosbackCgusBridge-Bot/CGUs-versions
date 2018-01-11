@@ -8,20 +8,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Designer Sun ft. Balenciaga Up to 70% Off
-    *   Catherine Catherine Malandrino &. More Up to 75% Off
-    *   bebe Sport Under $30
-    *   Catherine Catherine Malandrino
+    *   MOTHER
+    *   Natori Sleep &. Lingerie
+    *   Maaji Girls' Swim
+    *   HUE
+    *   Jeffrey Campbell
+    *   Fendi Watches
+    *   skyn ICELAND
+    *   John Varvatos Star USA
+    *   Valentine's Finds: Designer Fragrances from $10
+    *   reVive Light Therapy
+    *   OFRA Cosmetics
+    *   tibi
+    *   Perfect Black Boots Starting at $40
+    *   Bony Levy &. Lana Fine Jewelry Up to 50% Off
+    *   Sugarlips
+    *   South Parade
+    *   Avah &. Ella Jewelry Starting at $15
+    *   OOBERSWANK
+    *   Made in Italy: Summit
+    *   Deux Lux Handbags
+    *   Wolverine
+    *   PX &. More Starting at $15
+    *   John Varvatos Star USA Accessories
+    *   Timberland Kids
+    *   Million Polkadots
+    *   Floral Notes: Home Accessories Starting at $10
+    *   Swoon-Worthy Valentine's Gifts from $10
+    *   Free Shipping: Blackout Curtains
+    
+    *   Muubaa &. More Up to 65% Off
     *   Free Shipping: NMK Bedding Up to 75% Off
     *   Free Shipping: Glam Modern Lighting
     *   Free Shipping: BergHOFF Kitchen Finds
     *   Free Shipping: Valentine's Day Giftables
     *   Free Shipping: Modern &. Floral Art
+    *   Designer Sun ft. Balenciaga Up to 70% Off
+    *   Catherine Catherine Malandrino &. More Up to 75% Off
     *   TR Premium Up to 90% Off
     *   Issue New York Up to 70% Off
     *   Minuet
     *   Giorgio Armani
+    *   bebe Sport Under $30
     *   Lime &. Vine Up to 70% Off
+    *   Catherine Catherine Malandrino
     *   Cape Robbin Under $35
     *   Cold-Weather Accessories: Cashmere Up to 60% Off
     *   Under $40: Rocket Dog
@@ -34,69 +64,65 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Men's Boots ft. Warfield &. Grand
     *   Fitness Accessories &. More
     *   Ready, Set, Go: Kids' Sets Under $25
-    
     *   7 For All Mankind
+    
     *   7 For All Mankind Men
     *   7 For All Mankind Kids
-    *   New Balance
     *   Mario Badescu
-    *   Ramy Brook Up to 75% Off
-    *   Simply Couture Up to 80% Off
-    *   Tiare Hawaii
-    *   Cozy Coats: Wool, Rain &. More
-    *   A Che' Swim Up to 70% Off
     *   Freshwater Pearl Jewelry Starting at $15
-    *   Sofft &. Isola
-    *   Trend Goals: Knits &. More Under $35
-    *   Nature Breeze Starting at $25
-    *   Elegant Sterling Silver by Judith Jack &. More
-    *   Sparkle &. Shine: Statement Shoes
     *   CLEAN Fragrance
     *   New Balance Men
     *   Au Naturale Cosmetics Starting at $10
-    *   Betsey Johnson Handbags &. Accessories from $10
-    *   Jet in Style: Vince Camuto &. More
     *   Designer Wallets &. More Up to 50% Off
     *   Little Miss Twin Stars &. More Up to 75% Off
     *   GEOX Kids
     *   KitchenAid
     *   Quirky Kitchen Towels at $10
-    
-    *   Inhabit Up to 75% Off
     *   Samuel B Jewelry Up to 60% Off
     *   Free Shipping: Bedding Essentials Blowout
-    *   LOVE Moschino Handbags Up to 65% Off
-    *   Bulova Watches Up to 70% Off
-    *   Shoe Blowout: Booties, Sneakers &. More
-    *   Hera Hair Tools Up to 85% Off
     *   Men's Shoes Up to 65% Off
     *   Men's Final Few Up to 75% Off
     *   Ron Tomson Sportswear
     *   Bruno Magli
-    *   Korean Beauty: Secret Key
     *   Free Shipping: Hip Modern Rugs Up to 70% Off
     *   Free Shipping: Printed Bedding, Curtains &. More
-    *   Sunday Steals Up to 80% Off
-    *   Lacoste
-    *   Blanc Noir
-    *   Andrew Christian
-    *   Coccoli &. Beanstork Organics Up to 65% Off
-    *   Free Shipping: Quilts &. Coverlets
-    *   Ezekiel
-    *   New Year, New Look: Suits Under $250
     *   Kappa Active &. More
-    *   Kimi + Kai &. More
-    *   New Year's Resolution: Meal Prep Essentials
+    *   New Year, New Look: Suits Under $250
+    *   New Balance
+    *   Ramy Brook Up to 75% Off
+    *   Simply Couture Up to 80% Off
+    *   Tiare Hawaii
+    *   Sofft &. Isola
 *   WomenShop Sale Events
     
+    *   MOTHER
+    *   Natori Sleep &. Lingerie
+    *   HUE
+    *   Jeffrey Campbell
+    *   Fendi Watches
+    *   skyn ICELAND
+    *   Valentine's Finds: Designer Fragrances from $10
+    *   reVive Light Therapy
+    *   OFRA Cosmetics
+    *   tibi
+    *   Perfect Black Boots Starting at $40
+    *   Bony Levy &. Lana Fine Jewelry Up to 50% Off
+    *   Sugarlips
+    *   South Parade
+    *   Avah &. Ella Jewelry Starting at $15
+    *   OOBERSWANK
+    *   Made in Italy: Summit
+    *   Deux Lux Handbags
+    *   Muubaa &. More Up to 65% Off
     *   Designer Sun ft. Balenciaga Up to 70% Off
     *   Catherine Catherine Malandrino &. More Up to 75% Off
-    *   bebe Sport Under $30
-    *   Catherine Catherine Malandrino
     *   Issue New York Up to 70% Off
     *   Minuet
+    
     *   Giorgio Armani
+    *   bebe Sport Under $30
     *   Lime &. Vine Up to 70% Off
+    *   Catherine Catherine Malandrino
     *   Cape Robbin Under $35
     *   Cold-Weather Accessories: Cashmere Up to 60% Off
     *   Under $40: Rocket Dog
@@ -106,66 +132,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Trufora Skin Care
     *   Fitness Accessories &. More
     *   7 For All Mankind
-    *   New Balance
     *   Mario Badescu
+    *   Freshwater Pearl Jewelry Starting at $15
+    *   CLEAN Fragrance
+    *   Au Naturale Cosmetics Starting at $10
+    *   Samuel B Jewelry Up to 60% Off
+    *   New Balance
     *   Ramy Brook Up to 75% Off
     *   Simply Couture Up to 80% Off
     *   Tiare Hawaii
-    
-    *   Cozy Coats: Wool, Rain &. More
-    *   A Che' Swim Up to 70% Off
-    *   Freshwater Pearl Jewelry Starting at $15
     *   Sofft &. Isola
-    *   Trend Goals: Knits &. More Under $35
-    *   Nature Breeze Starting at $25
-    *   Elegant Sterling Silver by Judith Jack &. More
-    *   Sparkle &. Shine: Statement Shoes
-    *   CLEAN Fragrance
-    *   Au Naturale Cosmetics Starting at $10
-    *   Betsey Johnson Handbags &. Accessories from $10
-    *   Jet in Style: Vince Camuto &. More
-    *   Inhabit Up to 75% Off
-    *   Samuel B Jewelry Up to 60% Off
-    *   LOVE Moschino Handbags Up to 65% Off
-    *   Bulova Watches Up to 70% Off
-    *   Shoe Blowout: Booties, Sneakers &. More
-    *   Hera Hair Tools Up to 85% Off
-    *   Korean Beauty: Secret Key
-    *   Sunday Steals Up to 80% Off
-    *   Kimi + Kai &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Jewelry
-    *   Handbags
+    *   Accessories
     *   Lingerie
+    *   Handbags
     *   Watches
 *   MenShop Sale Events
     
+    *   Fendi Watches
+    *   John Varvatos Star USA
+    *   Valentine's Finds: Designer Fragrances from $10
+    *   Wolverine
+    *   PX &. More Starting at $15
+    *   John Varvatos Star USA Accessories
     *   Designer Sun ft. Balenciaga Up to 70% Off
     *   TR Premium Up to 90% Off
     *   TAVIK Shirts, Tees &. More
     *   Psycho Bunny
     *   Men's Boots ft. Warfield &. Grand
+    
     *   Fitness Accessories &. More
     *   7 For All Mankind Men
     *   New Balance Men
-    *   Jet in Style: Vince Camuto &. More
     *   Designer Wallets &. More Up to 50% Off
-    *   Bulova Watches Up to 70% Off
-    
     *   Men's Shoes Up to 65% Off
     *   Men's Final Few Up to 75% Off
     *   Ron Tomson Sportswear
     *   Bruno Magli
-    *   Lacoste
-    *   Blanc Noir
-    *   Andrew Christian
-    *   Ezekiel
-    *   New Year, New Look: Suits Under $250
     *   Kappa Active &. More
+    *   New Year, New Look: Suits Under $250
     
     Shop By Category
     *   Clothing
@@ -174,66 +183,69 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Maaji Girls' Swim
+    *   Timberland Kids
+    *   Million Polkadots
     *   Ready, Set, Go: Kids' Sets Under $25
     *   7 For All Mankind Kids
     *   Little Miss Twin Stars &. More Up to 75% Off
     *   GEOX Kids
-    *   Coccoli &. Beanstork Organics Up to 65% Off
-    *   Kimi + Kai &. More
     
     Shop By Category
     *   Kids Accessories
     *   Baby Girl
-    *   Baby Boy
     *   Girls Sizes 2T-6X
-    *   Boys Sizes 2T-7
+    *   Baby Boy
     *   Girls Sizes 7-16
-    *   Boys Sizes 8-20
+    *   Boys Sizes 2T-7
     *   Boys' Shoes
+    *   Boys Sizes 8-20
     *   Girls' Shoes
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Floral Notes: Home Accessories Starting at $10
+    *   Swoon-Worthy Valentine's Gifts from $10
+    *   Free Shipping: Blackout Curtains
     *   Free Shipping: NMK Bedding Up to 75% Off
     *   Free Shipping: Glam Modern Lighting
     *   Free Shipping: BergHOFF Kitchen Finds
     *   Free Shipping: Valentine's Day Giftables
+    
     *   Free Shipping: Modern &. Floral Art
     *   KitchenAid
-    
     *   Quirky Kitchen Towels at $10
     *   Free Shipping: Bedding Essentials Blowout
     *   Free Shipping: Hip Modern Rugs Up to 70% Off
     *   Free Shipping: Printed Bedding, Curtains &. More
-    *   Free Shipping: Quilts &. Coverlets
-    *   New Year's Resolution: Meal Prep Essentials
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
+    *   Bedding
     *   Bath
-    *   Organization
+    *   Luggage &. Travel
     *   Outdoor Living
     *   Rugs
+    *   Organization
 *   BeautyShop Sale Events
     
+    *   skyn ICELAND
+    *   Valentine's Finds: Designer Fragrances from $10
+    *   reVive Light Therapy
+    *   OFRA Cosmetics
     *   Truly Clear Light Therapy at 80% Off
     *   butter LONDON
     *   Trufora Skin Care
     *   Mario Badescu
     *   CLEAN Fragrance
     *   Au Naturale Cosmetics Starting at $10
-    *   Hera Hair Tools Up to 85% Off
-    *   Korean Beauty: Secret Key
     
     Shop By Category
     *   Makeup
-    *   Skin Care
-    *   Hair Care
-    *   Nails
     *   Fragrance
+    *   Skin Care
+    *   Nails
     *   Tools &. Accessories
     *   Bath &. Body
 
