@@ -135,23 +135,23 @@ LATEST ON TWITTER
 
 My week on Twitter : 1 Mention, 29 Mention Reach, 5 Likes, 3 Retweets, 1.61K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/8PRB…
 
-About 5 hours ago
+Yesterday
 
 Great chat with our friends @IndexExchange at #CES2018 @Requidan @stephsnowint @Nicole\_Kosar @Cosmopolitan\_LV pic.twitter.com/cHsc…
 
-About 5 hours ago
+Yesterday
 
 Our biggest fans this week: @mrmistry, @Requidan, @ShaunaSchatz. Thank you! via sumall.com/thankyou?… pic.twitter.com/PrAC…
 
-Yesterday
+About 2 days ago
 
 Thanks @Jambrose !!! twitter.com/Jambrose…
 
-About 2 days ago
+About 3 days ago
 
 Wheels up! Off to Las Vegas for @CES #CES18 #CES2018 @Requidan @stephsnowint @Nicole\_Kosar
 
-About 2 days ago
+About 3 days ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
