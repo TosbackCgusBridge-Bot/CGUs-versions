@@ -63,7 +63,7 @@
 Privacy Policy
 
 **Tealium Privacy Statement  
-**Effective as of January 4, 2018
+**Effective as of January 10, 2018
 
 **1      Purpose and Scope**
 
@@ -71,25 +71,25 @@ Privacy Policy
 
 This Privacy Statement will help you understand what Personal Data we collect about you, how we use your Personal Data, and what choices you have about our use of your Personal Data.
 
-When we refer to “Tealium” “we” or ‘us” in this Privacy Statement, we are referring to Tealium Inc.  We are committed to maintaining the accuracy, confidentiality, and security of your Personal Data. Tealium participates in the EU-U.S. and Swiss Privacy Shield certification program issued by the U.S. Department of Commerce (“Privacy Shield”). We are committed to complying with the Privacy Shield Principles with respect to your Personal Data that we receive from the EU and Switzerland in reliance on the Privacy Shield. The purpose of this policy is to describe how Tealium implements the Privacy Shield Principles of Notice. Choice. Accountability for Onward Transfer. Security. Data Integrity and Purpose Limitation. Access. and Recourse, Enforcement and Liability in processing your Personal Data.
+When we refer to “Tealium” “we” or ‘us” in this Privacy Statement, we are referring to Tealium Inc.  We are committed to maintaining the accuracy, confidentiality, and security of your Personal Data. Tealium participates in the EU-U.S. and Swiss Privacy Shield certification program issued by the U.S. Department of Commerce (“Privacy Shield”). We are committed to complying with the Privacy Shield Principles with respect to your Personal Data that we receive from the European Union (the “EU”) and Switzerland in reliance on the Privacy Shield. The purpose of this Privacy Statement is to describe how Tealium implements the Privacy Shield Principles of Notice. Choice. Accountability for Onward Transfer. Security. Data Integrity and Purpose Limitation. Access. and Recourse, Enforcement and Liability in processing your Personal Data.
 
-This Privacy Policy includes a description of the purposes for which we collect and use Personal Data, the types of Personal Data we collect, the types of third parties to which we may disclose your Personal Data and the purposes for doing so, the rights and choices you have for limiting the use and disclosure of your Personal Data, and how to contact us about our practices concerning Personal Data.
+This Privacy Statement includes a description of the purposes for which we collect and use Personal Data, the types of Personal Data we collect, the types of third parties to which we may disclose your Personal Data and the purposes for doing so, the rights and choices you have for limiting the use and disclosure of your Personal Data, and how to contact us about our practices concerning Personal Data.
 
-If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. With respect to Personal Data received or transferred pursuant to the Privacy Shield, Tealium is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+If there is any conflict between the terms in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. With respect to Personal Data received or transferred pursuant to the Privacy Shield, Tealium is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
 To learn more about the EU and Swiss Privacy Shield, visit the U.S. Department of Commerce’s Privacy Shield site. To view Tealium’s certification see the list of participating companies and search for “Tealium”.
 
-**Inquiries or Concerns?** In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our collection or use of your Personal Data.  European Union and/or Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at: privacy@tealium.com.
+**Inquiries or Concerns?** In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our collection or use of your Personal Data.  European Union and/or Swiss individuals with inquiries or complaints regarding our Privacy Statement policy should first contact us at: privacy@tealium.com.
 
-We will endeavor to answer your questions and advise you of any steps taken to address the issues raised by you. We have further committed to refer unresolved Privacy Shield complaints through the JAMS Privacy Shield Program, an alternative dispute resolution provider with offices in the United States and Europe. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit the JAMS Privacy Shield Program for more information or to file a complaint.  The services of JAMS are provided at no cost to you.
+We will endeavor to answer your questions and advise you of any steps taken to address the issues raised by you. We have further committed to refer unresolved Privacy Shield complaints through the Privacy Shield Arbitration Process and JAMS Privacy Shield Program, an alternative dispute resolution provider with offices in the United States and Europe. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit the JAMS Privacy Shield Program for more information or to file a complaint.  The services of JAMS are provided at no cost to you.
 
 If you are unsatisfied with our response, you may be entitled to make a written submission to the EU or Swiss data protection authorities established pursuant to the Privacy Shield to address your complaints applicable for your jurisdiction. Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **1.2**     **Scope**
 
-This Privacy Policy applies to the Personal Data of individuals who seek to be, are, or were customers of Tealium (“Customers”), including any Personal Data of individuals collected, used, or disclosed while using the Tealium websites or Tealium Apps (“Site Visitors”).
+This Privacy Statement applies to the Personal Data of individuals who seek to be, are, or were customers of Tealium (“Customers”), including any Personal Data of individuals collected, used, or disclosed while using the Tealium websites or Tealium Apps (“Site Visitors”).
 
-_Revisions to this Policy._ We may revise this Privacy Policy to reflect changes in our legal or regulatory obligations or in the manner in which we deal with your Personal Data. We will communicate any revised version of this Privacy Policy and such revisions will be effective from the time they are communicated, provided that any change that relates to why we collect, use or disclose your Personal Data will not apply to you, where your consent is required to such collection, use or disclosure, until we have obtained your consent to such change.
+_Revisions to this Privacy Statement._ We may revise this Privacy Statement to reflect changes in our legal or regulatory obligations or in the manner in which we deal with your Personal Data. We will communicate any revised version of this Privacy Statement and such revisions will be effective from the time they are communicated, provided that any change that relates to why we collect, use or disclose your Personal Data will not apply to you, where your consent is required to such collection, use or disclosure, until we have obtained your consent to such change.
 
 **2**      **Policy**
 
@@ -97,7 +97,7 @@ _Revisions to this Policy._ We may revise this Privacy Policy to reflect changes
 
 **2.1.1   What is Personal Data?**
 
-For the purposes of this Privacy Policy, Personal Data is information, including Sensitive Data, that is: (i) about an identified or identifiable individual, (ii) received by us in the U.S. from the EU, and (iii) recorded in any form. Personal Data does not include anonymous or non-personal information (i.e., information that cannot be associated with or tracked back to a specific individual). “Sensitive Data” means Personal Data specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, sex life, the commission or alleged commission of any offense, any proceedings for any offense committed or alleged to have been committed by the individual or the disposal of such proceedings, or the sentence of any court in such proceedings.
+For the purposes of this Privacy Statement, Personal Data is information, including Sensitive Data, that is: (i) about an identified or identifiable individual, (ii) received by us in the U.S. from the EU or Switzerland, and (iii) recorded in any form. Personal Data does not include anonymous or non-personal information (i.e., information that cannot be associated with or tracked back to a specific individual). “Sensitive Data” means Personal Data specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, sex life, the commission or alleged commission of any offense, any proceedings for any offense committed or alleged to have been committed by the individual or the disposal of such proceedings, or the sentence of any court in such proceedings.
 
 **2.1.2   What Personal Data Do We Collect?**
 
@@ -111,7 +111,7 @@ The Personal Data we collect is used and disclosed, as reasonably required for o
 
 ●      We may use web beacons alone or in conjunction with cookies to compile information about Customers and Site Visitors’ use of the Tealium website and interaction with emails from Tealium. Web beacons are transparent pixel images that are used in collecting information about website usage, e-mail response and tracking.
 
-●    We collect information about our Site Visitors’ utilization and navigation of our website. This information helps us to design our website to better suit our Site Visitors’ needs. We may also use your IP address to help diagnose problems with our server and to administer our website, analyze trends, track visitor movements, and gather broad demographic information that assists us in identifying visitor preferences.
+●    We collect information about our Site Visitors’ utilization and navigation of our website. This information helps us to design our website to better suit our Site Visitors’ needs. We may also use your IP address to help diagnose problems with our server and to administer our website, analyze trends, track Site Visitor movements, and gather broad demographic information that assists us in identifying Site Visitor preferences.
 
 ●    We use aggregated data as a statistical measure and not in a manner that would identify you personally. Aggregated data enables us to determine how often certain parts of our website or the Services are used so that we can improve them. We may make use of, or make such aggregated data available to, third parties, in any manner in our sole discretion. Tealium may engage third parties to track and analyze usage and volume statistical information from Site Visitors.
 
@@ -145,7 +145,7 @@ Billing
 
 Compelled Disclosure
 
-●   It may be necessary for us to disclose your Personal Data, either by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate. We may also disclose Personal Information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users.
+●       It may be necessary for us to disclose your Personal Data, either by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate. We may also disclose Personal Information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users.
 
 Relevant information also may be found in notices pertaining to specific data processing activities.
 
@@ -157,13 +157,13 @@ To update financial information or have your registration information deleted, p
 
 Tealium honors Do Not Track (DNT) headers and allows its users to opt‐out of having their personal information collected by Tealium. We also provide guidelines and instructions on how to honor DNT headers. The behavior of utag.js can be altered to track only analytic data and not track individual visitors. Tealium’s website honors DNT and is compliant with California Assembly Bill 370.
 
-Individuals have a right to choose whether their Personal Data may be disclosed to third-party controllers or used for a purpose that is materially different from the purposes for which the information was originally collected or subsequently authorized by the individual. To the extent required by the Privacy Shield Principles, Tealium obtains opt-in consent for certain uses and disclosures of Sensitive Data. You have a right to withdraw such consent at any time. If we decide to use Personal Data for a purpose other than those that are materially the same as those indicated in this policy, individuals shall be offered the opportunity to opt-in to the use. We shall make reasonable efforts to accommodate individual privacy preferences.
+Individuals have a right to choose whether their Personal Data may be disclosed to third-party controllers or used for a purpose that is materially different from the purposes for which the information was originally collected or subsequently authorized by the individual. To the extent required by the Privacy Shield Principles, Tealium obtains opt-in consent for certain uses and disclosures of Sensitive Data. You have a right to withdraw such consent at any time. If we decide to use Personal Data for a purpose other than those that are materially the same as those indicated in this Privacy Statement, individuals shall be offered the opportunity to opt-in to the use. We shall make reasonable efforts to accommodate individual privacy preferences.
 
 **Exceptions.** We may disclose your Personal Data without offering an opportunity to opt out, when (i) we retain third-party processors to perform services on our behalf and pursuant to our instructions, (ii) required by law or legal process, or (iii) responding to lawful requests from public authorities, including to meet national security, public interest or law enforcement requirements. We may also transfer Personal Data in the event of an audit or if we sell or transfer all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, dissolution, or liquidation).
 
 **2.3**     **Accountability for Onward Transfer**
 
-We comply with the Privacy Shield Principles for all onward transfers of Personal Information from the European Union, including the onward transfer liability provisions.
+We comply with the Privacy Shield Principles for all onward transfers of Personal Information from the EU, including the onward transfer liability provisions.
 
 **2.4**     **Security**
 
@@ -189,7 +189,7 @@ We have mechanisms in place designed to help assure compliance with the Privacy 
 
 You may file a complaint concerning Tealium’s processing of your Personal Data. We will take steps to remedy issues arising out of our alleged failure to comply with the Privacy Shield Principles. You may contact us as specified in the Grievance procedure in section 2.11  below about complaints regarding our Personal Data practices.
 
-If your complaint regarding Personal Data cannot be resolved through our internal processes, we will cooperate with the panel of EU data protection authorities established pursuant to the Privacy Shield to address your complaints and provide you with appropriate recourse free of charge. We are also subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+If your complaint regarding Personal Data cannot be resolved through our internal processes, we will cooperate with the Swiss Federal Data Protection and Information Commissioner (FDPIC) or a panel of EU data protection authorities established pursuant to the Privacy Shield to address your complaints and provide you with appropriate recourse free of charge. We are also subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
 **2.8**     **Opt-in**
 
@@ -205,7 +205,7 @@ d. the period for which the Personal Data will be stored or the criteria for det
 
 e. how Customers and Site Visitors can exercise the rights of access, correction, erasure, objection, and the right to withdraw consent.
 
-f.   the right to file a complaint with a Data Protection Authority.
+f.   the right to file a complaint with the Swiss Federal Data Protection and Information Commissioner (FDPIC) or a Data Protection Authority;
 
 g. whether the Customer or Site Visitor is obliged to provide the data by statute, contract, or for another reason, and the possible consequences of failing to provide the data. and
 
@@ -241,7 +241,7 @@ To correct, amend, or delete the Personal Data where it is inaccurate or has bee
 
 You may file a complaint concerning Tealium’s processing of Personal Data by email at privacy@tealium.com. If a failure to comply with the Privacy Shield Principles is found, we will take steps to remedy the issue.
 
-If a complaint regarding Personal Data cannot be resolved through our internal processes, we will cooperate with the panel of EU Data Protection Authorities established pursuant to the Privacy Shield to address a complaint and provide appropriate recourse free of charge. We are also subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+If a complaint regarding Personal Data cannot be resolved through our internal processes, we will cooperate with the Swiss Federal Data Protection and Information Commissioner (FDPIC) or a panel of EU Data Protection Authorities established pursuant to the Privacy Shield to address a complaint and provide appropriate recourse free of charge. We are also subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
 **2.12** **Data Breach**
 
@@ -249,7 +249,7 @@ If a breach of Personal Data occurs, we will notify the relevant Data Protection
 
 **2.13** **Auditing compliance**
 
-To verify that this policy has been implemented as represented, we will conduct an annual audit and self-assessment of our Personal Data security and privacy practices.
+To verify that this Privacy Statement has been implemented as represented, we will conduct an annual audit and self-assessment of our Personal Data security and privacy practices.
 
 **2.14** **Record-keeping**
 
@@ -267,11 +267,11 @@ e.      where possible, the envisaged retention periods for different categ
 
 f.       a general description of the security measures used to protect Personal Data.
 
-These records shall be provided to EU Data Protection Authorities upon request.
+These records shall be provided to the Swiss Federal Data Protection and Information Commissioner (FDPIC) or the EU Data Protection Authorities upon request.
 
 **2.15** **Customer Notice**
 
-EU Customers will be given a notice concerning the processing of their Personal Data during the onboarding process. This notice will explain how their Personal Data will be processed during the customer relationship, including:
+Swiss and EU Customers will be given a notice concerning the processing of their Personal Data during the onboarding process. This notice will explain how their Personal Data will be processed during the customer relationship, including:
 
 a.      the purposes for the processing and when the processing is based on legitimate interests, a description of those interests.
 
@@ -285,7 +285,7 @@ e.      how Customers can exercise the rights of access, correction, erasur
 
 f.       where processing is based on consent, the right to withdraw consent.
 
-g.      the right to file a complaint with the EU Data Protection Authorities.
+g.      the right to file a complaint with the Swiss Federal Data Protection and Information Commissioner (FDPIC) or the EU Data Protection Authorities.
 
 h.      whether the Customer is obliged to provide the data by statute, contract, or for another reason, and the possible consequences of failing to provide the data. and
 
