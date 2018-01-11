@@ -26,11 +26,11 @@ Gift Cards | Offers | Sign In Sign Out
     *   The Post
     *   Ang Larawan
     *   Condorito: The Movie
+    *   The Greatest Showman Sing-Along
     *   Inside (2018)
     *   The Insult
     *   My Art
     *   Parchi
-    *   Vazante
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -39,14 +39,13 @@ Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   The Commuter
-    *   Paddington 2
-    *   Proud Mary
     *   12 Strong
     *   Den of Thieves
     *   Forever My Girl
     *   Maze Runner: The Death Cure
-    *   Winchester: The House That Ghosts Built
+    *   Winchester (2018)
+    *   Fifty Shades Freed
+    *   Peter Rabbit
     *   See All Coming Soon
     
     Explore More
@@ -74,8 +73,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: Russell Crowe Joins Chris Hemsworth in 'Bad Times at the El Royale' Read More
-    *   'Deadpool' Director Tim Miller Is Developing a Kitty Pryde Movie Read More
+    *   Movie News: 'Stranger Things' Star to Play Sherlock Holmes' Sister Read More
+    *   Jason Blum Discusses Possibility of an Insidious &. Sinister Crossover Read More
     *   Biggest Moments at Golden Globes Showcased Fine Performances Read More
     
     Explore Content
@@ -267,13 +266,13 @@ Offers
     
     Receive a FREE\* exclusive 'Black Panther' poster with ticket purchase. BUY TICKETS
     
-*   'Insidious: The Last Key' Gift With Purchase
-    
-    Buy tickets to 'Insidious: The Last Key’ and own any previous ‘Insidious’ movie to watch at home for just $2.99 each. BUY TICKETS
-    
 *   'Paddington 2' Gift With Purchase
     
     Buy tickets to 'Paddington 2' and own the first 'Paddington' for just $2.99! BUY TICKETS
+    
+*   'Insidious: The Last Key' Gift With Purchase
+    
+    Buy tickets to 'Insidious: The Last Key’ and own any previous ‘Insidious’ movie to watch at home for just $2.99 each. BUY TICKETS
     
 *   'I, Tonya' Sweepstakes
     
