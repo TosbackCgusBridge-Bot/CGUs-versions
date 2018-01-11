@@ -15,6 +15,7 @@ Playoffs - DIVISIONAL
 *   Tickets
 *   Shop
 *   Teams
+*   Super Bowl
 *   Game Pass
 *   Stats
 *   Ways to Watch
@@ -36,7 +37,8 @@ Playoffs - DIV
 *   Fantasy
 *   Playoff Picture
 
-*   *   Game Pass
+*   *   Super Bowl
+    *   Game Pass
     *   Stats
     *   Ways to Watch
     *   NFL Network
