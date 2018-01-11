@@ -30,8 +30,8 @@
     29/41 est MPG4 Build Specials
 *   $37,900 as shown1 2018 Avalon $33,500 starting1  
     21/30 est MPG3 Build Specials
-*   $26,255 as shown1 2017 86 $26,255 starting1  
-    21/28 est MPG5 Build Specials
+*   $26,255 as shown1 2018 86 $26,255 starting1  
+    21/28 est MPG3 Build Specials
 *   $42,205 as shown1 2018 Sienna $30,750 starting1  
     19/27 est MPG13 Build Specials
 
@@ -72,7 +72,7 @@
 *   $57,500 as shown1 2017 Mirai $57,500 starting1  
     67/67 est MPG11 Specials
 
-*   Future Toyota Adventure Concept View More Info
+*   FT-AC Concept View More Info
 *   FT-4X Concept View More Info
 
 View All Vehicles
@@ -100,8 +100,8 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 28/36 est MPG3 $19,985 as shown1 2018 Corolla iM $18,850 starting1  
 27/35 est MPG3 $35,345 as shown1 2018 Camry $23,495 starting1  
 29/41 est MPG4 $37,900 as shown1 2018 Avalon $33,500 starting1  
-21/30 est MPG3 $26,255 as shown1 2017 86 $26,255 starting1  
-21/28 est MPG5 $42,205 as shown1 2018 Sienna $30,750 starting1  
+21/30 est MPG3 $26,255 as shown1 2018 86 $26,255 starting1  
+21/28 est MPG3 $42,205 as shown1 2018 Sienna $30,750 starting1  
 19/27 est MPG13 Trucks $36,115 as shown1 2018 Tacoma $25,200 starting1  
 18/22 est MPG3 $45,300 as shown1 2018 Tundra $31,120 starting1  
 15/19 est MPG3 Crossovers &. SUVs $24,350 as shown1 2018 C-HR $22,500 starting1  
@@ -119,7 +119,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 54/50 est MPG14 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
 48/43 est MPG3 $34,270 as shown1 2017 Prius _v_ $26,675 starting1  
 43/39 est MPG8 $57,500 as shown1 2017 Mirai $57,500 starting1  
-67/67 est MPG11 Upcoming Vehicles Future Toyota Adventure Concept FT-4X Concept
+67/67 est MPG11 Upcoming Vehicles FT-AC Concept FT-4X Concept
 
 *   Careers
 *   Español
