@@ -15,13 +15,17 @@ Have Gift Cards? SHOP MEN'S JEANS | SHOP WOMEN'S JEANS
 
 *   Search
 *   MY ACCOUNT
-*   0MY FAVORITESFAVORITED! Login to save this item to your Buckle account.
+*   MY ACCOUNTHello, .
+    *   My Account
+    *   |
+    *   Logout
+*   MY FAVORITESFAVORITED! Login to save this item to your Buckle account.
     *   Login
     *   |
     *   Register
 *   MY BAG
 
-*   0MY FAVORITES
+*   MY FAVORITES
 *   MY BAG
 
 *   Women
@@ -577,7 +581,7 @@ RESERVE IN STORE
 3.  Data Security Incident
 4.  Transparency In Supply Chains
 
-×Military Status×
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.×Military Status×
 
 Did you mean to add items to your wish list?
 
@@ -586,4 +590,4 @@ Your cart is full!
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
 ×**Hey You!**Want to stay updated on our latest styles and promotions?  
-Sign up for email and let’s make things official. Submit Email×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
+Sign up for email and let’s make things official. Submit Email× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
