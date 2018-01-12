@@ -526,4 +526,4 @@ WebMD does not provide medical advice, diagnosis or treatment.
 
 See additional information.
 
-<img alt="" height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=428750600651790&ev=PageView&noscript=1"/><img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2618142259440&noscript=1" /><div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/875612316/?guid=ON&amp;script=0"/>. </div>.
+<img alt="" height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=428750600651790&ev=PageView&noscript=1"/><img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2618142259440&noscript=1" /><div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/875612316/?guid=ON&amp;script=0"/>. </div>. .
