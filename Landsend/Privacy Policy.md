@@ -236,7 +236,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     
     FEATURED SHOPS
     *   Canvas Totes
-    *   Backpacks &. Lunchboxes
+    *   Backpacks &. Lunch Boxes
     *   Business Bags
     *   Diaper Bags
     *   Travel Bags
@@ -551,7 +551,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FEATURED SHOPS
         *   Back
         *   Canvas Totes
-        *   Backpacks &. Lunchboxes
+        *   Backpacks &. Lunch Boxes
         *   Business Bags
         *   Diaper Bags
         *   Travel Bags
@@ -702,9 +702,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price style!
+Receive 25% off sale and clearance styles!
 
-code: ICY pin: 5771 DETAILS
+code: FREEZE pin: 4817 DETAILS
 
 Customer Service Menu
 
