@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Have Gift Cards? SHOP MEN'S JEANS | SHOP WOMEN'S JEANS
+Get FREE SHIPPING when you buy online and pick up at your local Buckle. See Details
 
 *   Women
 *   Men
