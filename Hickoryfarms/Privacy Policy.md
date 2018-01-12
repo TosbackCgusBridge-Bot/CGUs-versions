@@ -7,11 +7,10 @@
     *   Military
     *   New!
     
-    Occasions*   Game Day
+    Occasions*   Valentine's Day
+    *   Game Day
     *   Birthday Gifts
-    *   Gifts for Her
-    *   Gifts for Him
-    *   Weddings &. ShowersMost Popular Gift Baskets
+    *   Weddings &. ShowersMost Popular Valentine's Day Gifts Chocolates
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -41,19 +40,17 @@
     *   Mints
     *   Cookies &. Cakes
     *   Candy &. Confections
-    *   DessertsMost Popular Sweets
+    *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   New Year's
+    View All Categories Shop by Category*   Valentine's Day Gifts
     
-    Occasions*   Game Day
+    Occasions*   Valentine's Day
+    *   Game Day
     *   Birthday Gifts
-    *   Gifts for Her
-    *   Gifts for Him
-    *   Weddings &. Showers
+    *   Weddings &. ShowersMost Popular For Him For Her
 *   Sale
     View All Categories Shop by Category*   Sale
-    *   Steak &. Seafood Sale
 
 1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Skip to content Business Gifts Stores Account
 
@@ -72,11 +69,10 @@
     *   Military
     *   New!
     
-    Occasions*   Game Day
+    Occasions*   Valentine's Day
+    *   Game Day
     *   Birthday Gifts
-    *   Gifts for Her
-    *   Gifts for Him
-    *   Weddings &. ShowersMost Popular Gift Baskets
+    *   Weddings &. ShowersMost Popular Valentine's Day Gifts Chocolates
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -106,21 +102,19 @@
     *   Mints
     *   Cookies &. Cakes
     *   Candy &. Confections
-    *   DessertsMost Popular Sweets
+    *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   New Year's
+    View All Categories Shop by Category*   Valentine's Day Gifts
     
-    Occasions*   Game Day
+    Occasions*   Valentine's Day
+    *   Game Day
     *   Birthday Gifts
-    *   Gifts for Her
-    *   Gifts for Him
-    *   Weddings &. Showers
+    *   Weddings &. ShowersMost Popular For Him For Her
 *   Sale
     View All Categories Shop by Category*   Sale
-    *   Steak &. Seafood Sale
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Privacy Policy Information We Collect and How it is Used
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go FREE STANDARD DELIVERY ON SHIPMENTS OVER $35!\* <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Privacy Policy Information We Collect and How it is Used
 
 We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third-party advertising partner click here.
 
@@ -173,4 +167,4 @@ Business Accounts
 *   1.800.715.1474
 *   Email Us
 
-PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED. Feedback
+PRIVACY POLICY TERMS OF USE SITE MAP © 2017 ALL RIGHTS RESERVED. .
