@@ -128,6 +128,7 @@ GSK Global Website www.gsk.com
     *   Press releases
     *   Press Kits
         *   Press Kits
+        *   Fluarix Quadrivalent
         *   Altius Institute for Biomedical Sciences
         *   ANORO™ ELLIPTA™
         *   Arnuity™ Ellipta® &. Incruse® Ellipta®
