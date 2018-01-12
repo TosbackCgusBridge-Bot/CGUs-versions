@@ -20,7 +20,7 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-*   Dresses
+*   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
 
@@ -208,8 +208,6 @@ Close submenu ( Girls ) Girls
 *   All Laced Up
 *   Perfectly Preppy
 *   Full Bloom
-*   The New Denim
-*   Beach Ready Footwear
 
 Close submenu ( Guys ) Guys
 
@@ -288,7 +286,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** \+ **FREE SHIPPING OVER $75** **70-80% OFF ALL CLEARANCE**
+**50-70% OFF** \+ **FREE SHIPPING OVER $75** **FREE SHIPPING ON ANY JEANS PURCHASE**
 
 *   My Account My Account Login Register
 
@@ -331,7 +329,7 @@ Menu Find a Store Aeropostale
         *   Joggers + Lounge
         *   Pants
         *   Shorts
-    *   Dresses
+    *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
     
@@ -449,8 +447,6 @@ Menu Find a Store Aeropostale
         *   All Laced Up
         *   Perfectly Preppy
         *   Full Bloom
-        *   The New Denim
-        *   Beach Ready Footwear
     
     *   Guys
         *   View All
@@ -525,7 +521,41 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Clearance Shop Guys Clearance Shop LLD Clearance Promotions Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Find My Store
+
+Previous*   Hoodies + Jackets Starting at $9.99 Shop Girls Shop Guys
+*   Long Sleeve Starting at $9.99 Shop Guys
+*   Joggers + Sweats Starting at $9.99 Shop Girls
+*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
+*   Tees Starting at $2.99 Shop Girls Shop Guys
+*   Hoodies + Jackets Starting at $9.99 Shop Girls Shop Guys
+*   Long Sleeve Starting at $9.99 Shop Guys
+*   Joggers + Sweats Starting at $9.99 Shop Girls
+*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
+*   Tees Starting at $2.99 Shop Girls Shop Guys
+*   Hoodies + Jackets Starting at $9.99 Shop Girls Shop Guys
+*   Long Sleeve Starting at $9.99 Shop Guys
+*   Joggers + Sweats Starting at $9.99 Shop Girls
+Next
+
+Previous*   Joggers + Sweats Starting at $18.00 Shop Guys
+*   Shorts Starting at $9.75 Shop Girls Shop Guys
+*   Lounge + Sleep Starting at $8.25 Shop Sleep
+*   Accessories Starting at $3.50 Shop Girls Shop Guys
+*   Tees Starting at $5.00 Shop Girls Shop Guys
+*   Long Sleeve Tees Starting at $8.00 Shop Girls Shop Guys
+*   Hoodies + Sweatshirts Starting at $10.00 Shop Guys Shop Girls
+*   Joggers + Sweats Starting at $18.00 Shop Guys
+*   Shorts Starting at $9.75 Shop Girls Shop Guys
+*   Lounge + Sleep Starting at $8.25 Shop Sleep
+*   Accessories Starting at $3.50 Shop Girls Shop Guys
+*   Tees Starting at $5.00 Shop Girls Shop Guys
+*   Long Sleeve Tees Starting at $8.00 Shop Girls Shop Guys
+*   Hoodies + Sweatshirts Starting at $10.00 Shop Guys Shop Girls
+*   Joggers + Sweats Starting at $18.00 Shop Guys
+Next
+
+<div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -557,4 +587,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-H9MLP93FXSFGat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
+© 2018 Aeropostale. All Rights Reserved. .
