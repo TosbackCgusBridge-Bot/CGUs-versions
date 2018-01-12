@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Newt Gingrich_: Trump's Successful Presidency &. Wolff's Erroneous Book
+*   _Thomas Edsall_: Robots Can't Vote, But They Helped Elect Trump
     
-*   _Susan Glasser_: Michael Wolff Says That Washington Will Bury Trump
+*   _Daniel Henninger_: Trump May Have to Invite Wolff to Attend 2nd Inauguration
     
-*   _Isaac Chotiner_: Fire and Flimsy: The Michael Wolff Way
+*   _Duffy &. Gibbs_: The Unpresident: Why Donald Trump Will Never Change
     
-*   _Harris &. White_: Coming Soon to Davos: A Trump Stink Bomb
+*   _Michael Kruse_: Heartland Democrats to Washington: 'You're Killing Us'
     
-*   _Josh Blackman_: A Ludicrous Ruling That Trump Can't End DACA
+*   _Sean Moran_: Winning: Walmart Raises Wages Thanks to Tax Reform
     
-*   _Raul Reyes_: Trump's New Immigration Decision Is Shortsighted and Cruel
+*   _Charles Bethea_: Carrier Workers, Facing Layoffs, Feel Betrayed by Trump
     
-*   _Rachel Stoltzfoos_: 19 Insane Details From Damore's Google Lawsuit
+*   _Ed Rogers_: With Bannon &. Flake Gone, Trump Coalition May Emerge
     
-*   _Jelani Cobb_: Under Trump, a Hard Test for Howard University
+*   _Jeff Greenfield_: Oprah Could Be Great for the Democrats. In 2018.
     
-*   _Piereson &. Riley_: Student Radicalism Doesn't Come From Professors
+*   _Uri Friedman_: The World According to H.R. McMaster
     
-*   _John Kass_: Aha! Democrats and Their Oprah Moment
+*   _Sumantra Maitra_: Trump's Realist Approach Will Outlast Trump
     
-*   _Ruth Marcus_: Ivanka Trump, Stop the Oprah Cheerleading. You're Complicit.
+*   _Lauren Hilgers_: The Mystery of the Exiled Billionaire Whistle-Blower
     
-*   _Thomas Friedman_: Iranian and Saudi Youth Try to Bury 1979
+*   _David Harsanyi_: The Trump Dossier's Credibility Is Collapsing
     
-*   _Roger Simon_: Donald Trump--the Grownup in the Room on Immigration
+*   _John Cassidy_: The Digger Behind the Trump Dossier Speaks
     
-*   _Charlie Cook_: A White House That Can't Shoot Straight
+*   _Emmett Tyrrell_: Mr. President, Put Up That Wall
     
-*   _Andrew McCarthy_: Obama's FBI and Steele's Raw, Unverified 'Intelligence'
+*   _E.J. Dionne_: Trump Accidentally Discovers a Truth About the Dreamers
     
-*   _Ben Smith_: I'm Proud We Published the Trump-Russia Dossier
+*   _David Byler_: The Republican Civil War Heads to Arizona
     
-*   _Morris Fiorina_: The Meaning of Trump's Election Has Been Exaggerated
+*   _Peter Hamby_: Can the Democrats Run Up the Score in 2018?
     
-*   _Heather MacDonald_: Is #MeToo Becoming a War on Men?
+*   _Heather Wilhelm_: Goodbye, Boring Candidates -- Hello, Boring Hysteria
     
-*   _Christina Cauterucci_: No, #MeToo Is Not Going to End Flirting and Fun Sex
+*   _Margaret Carlson_: Trump's Open Meeting Just Proves How Right Wolff Is
     
-*   _Angelo Codevilla_: Sex vs. Political Correctness?
+*   _Christopher Buskirk_: Michael Wolff's Accidental Big Favor to Trump
     
-*   _Eugene Robinson_: Don't Underestimate the Possibility of Oprah 2020
+*   _Fazel Hawramy_: Iran's Jihadi Gambit
     
-*   _Andrew O'Hehir_: Dem Unicorn Hunt Launches With Some Magical Thinking
+*   _Lee Smith_: Going Easy on the Mullahs Could Hurt Ordinary Iranians
     
-*   _Steve Cortes_: Team Trump: Tout the Real Economy's Gains, Not the Dow
+*   _James Warren_: Bring Back Earmarks
     
-*   _Michael Bloomberg_: A Seven-Step Plan for Ending the Opioid Crisis
+*   _Liz Mair_: Mr. President, Earmarks Were Horrible. Keep Them Buried
     
 
 *   Previous
@@ -249,10 +249,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Oprah Run in 2020 Entices Leaderless Democrats
 *   Trump Suggests 2-Phase Immigration Deal for "Dreamers"
-*   Dimon: Tax Cuts Will Be Good for America, "Animal Spirits Are Back"
-*   Arpaio's Decision to Run Shakes Up Senate Race in Arizona
+*   Issa Retirement Boosts Democrats' 2018 Prospects
+*   Gohmert: DACA First, Border Wall Later Is a Bad Idea
+*   Oprah Run in 2020 Entices Leaderless Democrats
 *   Ryan-Backed Groups Break Fundraising Record
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -268,27 +268,27 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve35
+    *   Disapprove58Disapprove +23
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve45
+    *   Disapprove53Disapprove +8
+*   2018 Generic Congressional VoteQuinnipiac
+    *   Democrats52
+    *   Republicans35Democrats +17
 *   Arizona Senate - Republican PrimaryABC 15/OH Predictive Insights
     *   McSally31
     *   Arpaio29
     *   Ward25McSally +2
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve36
-    *   Disapprove59Disapprove +23
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve41
-    *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
-*   Trump: Media Sent Letters Calling Immigration Meeting Great. Won't Be In Business If I Don't Win
-*   O'Donnell: Feinstein Releasing Fusion GPS Transcript Is "Most Important Act" In Senate "In A Generation"
-*   CNN's Dana Bash: "I'll Get Hit For This," But Meeting Was What People Thought Trump Was Capable Of
-*   Tapper: Trump's On-Camera Immigration Meeting Was To Push Aside Mental Fitness Concerns
-*   Tucker Carlson vs. Jorge Ramos: Are We Not Allowed To Complain About Illegal Immigration?
+*   Tucker Carlson on 'Shithole' Comment: "Trump Said Something Almost Every Person Agrees With"
+*   Anderson Cooper: "Racist" Trump "Tired Of So Many Black People Coming Into This Country"
+*   Bernie Sanders: Oprah "Would Be A Very Good Candidate" For President. "Talented, Intelligent Woman"
+*   Rand Paul on FISA Surveillance Reform: "Obey The Bill Of Rights," "You Need Checks And Balances"
+*   BuzzFeed's Ben Smith: Imagine How Little Public Would Know About Russia Probe Without The Dossier
 
 *   Politics
 *   Policy
