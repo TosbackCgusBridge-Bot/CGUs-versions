@@ -131,7 +131,7 @@ View Xperia XA2 on Instagram
 
 Sony AI &. Robotics: Xperia Hello, miniture personal robot #SonyCES
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -175,7 +175,7 @@ Sony on YouTube - New Story with Aibo
 
 Play New Story with Aibo Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/aiboVisuals\_forSCA\_Small.jpg);" alt="Aibo">. Camila Cabello Tops the Charts With “Havana”
+<img class="bg-img" class="url(/en\_us/media/content/05\_mirror002\_600x600.jpg);" alt="Aibo mirror">. Camila Cabello Tops the Charts With “Havana”
 
 Pre-Order Her New Album
 
@@ -203,7 +203,7 @@ Wherever You Go
 
 The new Xperia XA2 Ultra, Xperia XA2, and Xperia L2 have been announced.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -289,7 +289,7 @@ Play See The Lights Fest Captured Video hotspot
 
 Drum roll please. Here’s the most popular catalog items that Sony Rewards members redeemed their points for in 2017.
 
-2 days ago
+3 days ago
 
 View Tweet
 
