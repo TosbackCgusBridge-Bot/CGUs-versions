@@ -85,10 +85,6 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
-Tue, Jan 9, 2018 Consumer Electronics Show (CES)
-
-Jeff Wilbur, Director of the Online Trust Alliance initiative for the Internet Society, will be attending CES from January 9-12 talking to members and other IoT manufacturers about adoption of the IoT Trust Framework. If you are also attending CES, contact Jeff at 817-919-4949 or wilbur@ isoc.org to get together in Las Vegas.
-
 Mon, Apr 16, 2018 RSA Conference 2018
 
 Once again OTA is an Associaton Sponsor of the RSA Conference. Join us and other OTA member conference sponsors Agari, Malwarebytes, Microsoft and Symantec in San Francisco. Many other OTA members will be exhibiting as well. When sessions involving OTA and member organizations are announced, we will highlight them. When you register, be sure to note you are a member of OTA. 
@@ -159,7 +155,7 @@ About Us
 
  
 
-© 2017   Online Trust Alliance
+© 2018   Online Trust Alliance
 
 *   Home
 *   Member Login
