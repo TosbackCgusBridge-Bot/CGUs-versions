@@ -133,23 +133,23 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+Always look forward to discussing important industry topics with @Beet\_TV ! Thanks for having us. #CES2018 @Requidan twitter.com/Beet\_TV/…
+
+About 10 hours ago
+
+Thanks @OpenX for a fun happy hour last night at @AriaLV Javier's! Great convos with buyers, sellers and everyone in ad tech @Requidan @stephsnowint @Nicole\_Kosar pic.twitter.com/dAcq…
+
+About 13 hours ago
+
 My week on Twitter : 1 Mention, 29 Mention Reach, 5 Likes, 3 Retweets, 1.61K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/8PRB…
-
-Yesterday
-
-Great chat with our friends @IndexExchange at #CES2018 @Requidan @stephsnowint @Nicole\_Kosar @Cosmopolitan\_LV pic.twitter.com/cHsc…
-
-Yesterday
-
-Our biggest fans this week: @mrmistry, @Requidan, @ShaunaSchatz. Thank you! via sumall.com/thankyou?… pic.twitter.com/PrAC…
 
 About 2 days ago
 
-Thanks @Jambrose !!! twitter.com/Jambrose…
+Great chat with our friends @IndexExchange at #CES2018 @Requidan @stephsnowint @Nicole\_Kosar @Cosmopolitan\_LV pic.twitter.com/cHsc…
 
-About 3 days ago
+About 2 days ago
 
-Wheels up! Off to Las Vegas for @CES #CES18 #CES2018 @Requidan @stephsnowint @Nicole\_Kosar
+Our biggest fans this week: @mrmistry, @Requidan, @ShaunaSchatz. Thank you! via sumall.com/thankyou?… pic.twitter.com/PrAC…
 
 About 3 days ago
 
