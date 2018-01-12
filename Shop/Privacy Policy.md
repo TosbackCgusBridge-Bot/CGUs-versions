@@ -286,10 +286,13 @@ Menu Close Menu Close
 *   Solutions
     *   Small Business
     *   Data Center
-    *   Students &. Teachers
+    *   Large Enterprise
+    *   Government
+    *   Health
+    *   Higher Education
+    *   K-12 Education
     *   Lenovo Partner Network
     *   See All Solutions
-    *   Device as a service
 *   Email Sign-Up
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
@@ -473,3 +476,5 @@ Please tell us how we can improve your experience:
 SUBMIT CHATHIDE Close
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
+
+.
