@@ -35,7 +35,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Online gallery
         *   Frequently asked questions last item in this group
     
-    *   Company history The experiences of the past 150 years have formed the character of HSBC.
+    *   Leadership A guide to who’s who on our board and senior management team.
 *   Our approach Skip to Investor relations navigation
     
     *   Our values
@@ -63,7 +63,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Health and safety
         *   Working with suppliers last item in this group
     
-    *   Our values We are dependable, open and connected.
+    *   Sustainable finance Find out about our commitment to helping build a low-carbon economy.
 *   Investor relations Skip to News and insight navigation
     
     *   Group results and reporting
@@ -99,7 +99,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Regulatory capital securities
         *   Credit ratings last item in this group
     
-    *   3Q 2017 Earnings Release HSBC Holdings plc announced its 3Q 2017 update on 30 October.
+    *   Our investment case Thinking of investing in HSBC? Read up on our strategy and performance.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
@@ -120,7 +120,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Culture
         *   Other sponsorships last item in this group
     
-    *   Our sustainability pledges HSBC will provide USD100 billion in sustainable financing by 2025.
+    *   HSBC Qianhai Securities opens Find out what makes our joint venture in mainland China stand out.
 *   Careers Skip navigation
     
     *   Key hiring areas
@@ -154,8 +154,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Frequently asked questions
         
     
-    *   Students and graduates We want HSBC to be a place where everyone can achieve their potential.
-    *   Application hints and tips Improve your chances of getting a job at HSBC.
+    *   Why HSBC? Whatever your career stage, we offer many ways to realise your ambitions.
+    *   Explore our business Find opportunities which match your skills across our extensive network.
 
 Online bankingOnline banking
 
