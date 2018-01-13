@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Thomas Edsall_: Robots Can't Vote, But They Helped Elect Trump
+*   _Hugh Hewitt_: The Wall Goes Up. The 'Dreamers' Stay.
     
-*   _Daniel Henninger_: Trump May Have to Invite Wolff to Attend 2nd Inauguration
+*   _Amy Davidson Sorkin_: Trump Compounds His Bigotry With Lies
     
-*   _Duffy &. Gibbs_: The Unpresident: Why Donald Trump Will Never Change
+*   _Jeremy Carl_: Once Again, Trump Has Inartfully Stumbled on a Truth
     
-*   _Michael Kruse_: Heartland Democrats to Washington: 'You're Killing Us'
+*   _E.J. Montini_: In Praise of What Donald Trump Calls 'S\*\*\*Hole Countries'
     
-*   _Sean Moran_: Winning: Walmart Raises Wages Thanks to Tax Reform
+*   _Eric Levitz_: The Progressive Case for Giving Trump His Stupid Wall
     
-*   _Charles Bethea_: Carrier Workers, Facing Layoffs, Feel Betrayed by Trump
+*   _Byron York_: Paul Manafort Has a Point
     
-*   _Ed Rogers_: With Bannon &. Flake Gone, Trump Coalition May Emerge
+*   _Eliza Newlin Carney_: Chasing Down Rabbit Holes After Fusion GPS
     
-*   _Jeff Greenfield_: Oprah Could Be Great for the Democrats. In 2018.
+*   _David Harsanyi_: Google's New 'Fact-Checker' Is Partisan Garbage
     
-*   _Uri Friedman_: The World According to H.R. McMaster
+*   _Moira Donegan_: I Started the Abusive Media Men List
     
-*   _Sumantra Maitra_: Trump's Realist Approach Will Outlast Trump
+*   _Andrew Sullivan_: It's Time to Resist the Excesses of #MeToo
     
-*   _Lauren Hilgers_: The Mystery of the Exiled Billionaire Whistle-Blower
+*   _Carl Cannon_: Jerry Ford's Classy Farewell
     
-*   _David Harsanyi_: The Trump Dossier's Credibility Is Collapsing
+*   _Eugene Robinson_: If Ignorance Is Bliss, Trump Must Be Very Happy
     
-*   _John Cassidy_: The Digger Behind the Trump Dossier Speaks
+*   _Adriana Cohen_: Reviving America Isn't Nuts - and Neither Is Trump
     
-*   _Emmett Tyrrell_: Mr. President, Put Up That Wall
+*   _Chris Cillizza_: Trump's 'Shithole' Comment Is His New Rock Bottom
     
-*   _E.J. Dionne_: Trump Accidentally Discovers a Truth About the Dreamers
+*   _Scott McKay_: Trump Horrifies Snowflake Intellectuals by Speaking the Truth
     
-*   _David Byler_: The Republican Civil War Heads to Arizona
+*   _James Arkin_: Can Democrats Turn Arizona Blue?
     
-*   _Peter Hamby_: Can the Democrats Run Up the Score in 2018?
+*   _Matthew Continetti_: The Missing Democratic Agenda
     
-*   _Heather Wilhelm_: Goodbye, Boring Candidates -- Hello, Boring Hysteria
+*   _Ellis Cose_: Do We Need Another Glitzy Amateur in Office?
     
-*   _Margaret Carlson_: Trump's Open Meeting Just Proves How Right Wolff Is
+*   _Tom Bevan_: The Takeaway: Trump's Very Bad/Very Good Year One
     
-*   _Christopher Buskirk_: Michael Wolff's Accidental Big Favor to Trump
+*   _Elizabeth Bruenig_: Dear Democrats: Shut It Down
     
-*   _Fazel Hawramy_: Iran's Jihadi Gambit
+*   _Wesley Pruden_: Sorehead Losers of 2016 Suggest a Familiar Solution
     
-*   _Lee Smith_: Going Easy on the Mullahs Could Hurt Ordinary Iranians
+*   _Joe Scarborough_: There's Nothing 'Professional' About Trump
     
-*   _James Warren_: Bring Back Earmarks
+*   _Howard Kurtz_: Are #NeverTrumpers Being Consumed by Their Hatred?
     
-*   _Liz Mair_: Mr. President, Earmarks Were Horrible. Keep Them Buried
+*   _Jonathan Alter_: Censure Trump for 'Conduct Unbecoming a President'
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Major Shift as Trump Opens Way for Medicaid Work Requirement
+*   Can Democrats Turn Arizona Blue?
+*   Acosta: "Deep Down This President May Just Be A Racist"
 *   Trump Suggests 2-Phase Immigration Deal for "Dreamers"
 *   Issa Retirement Boosts Democrats' 2018 Prospects
-*   Gohmert: DACA First, Border Wall Later Is a Bad Idea
-*   Oprah Run in 2020 Entices Leaderless Democrats
-*   Ryan-Backed Groups Break Fundraising Record
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,27 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalEmerson
+    *   Approve39
+    *   Disapprove52Disapprove +13
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
+*   2018 Generic Congressional VoteEmerson
+    *   Democrats45
+    *   Republicans40Democrats +5
 *   President Trump Job ApprovalIBD/TIPP
     *   Approve35
     *   Disapprove58Disapprove +23
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove53Disapprove +8
-*   2018 Generic Congressional VoteQuinnipiac
-    *   Democrats52
-    *   Republicans35Democrats +17
-*   Arizona Senate - Republican PrimaryABC 15/OH Predictive Insights
-    *   McSally31
-    *   Arpaio29
-    *   Ward25McSally +2
 
 More Latest Polls In The News
 
+*   Sen. Durbin: Term "Chain Migration" Is Offensive To Those Whose Ancestors Came To U.S. "In Chains"
+*   'Project Veritas' Hidden Camera: Twitter And Reddit Use "Shadow Ban" Algorithms to Censor Political Opinions
 *   Tucker Carlson on 'Shithole' Comment: "Trump Said Something Almost Every Person Agrees With"
 *   Anderson Cooper: "Racist" Trump "Tired Of So Many Black People Coming Into This Country"
 *   Bernie Sanders: Oprah "Would Be A Very Good Candidate" For President. "Talented, Intelligent Woman"
-*   Rand Paul on FISA Surveillance Reform: "Obey The Bill Of Rights," "You Need Checks And Balances"
-*   BuzzFeed's Ben Smith: Imagine How Little Public Would Know About Russia Probe Without The Dossier
 
 *   Politics
 *   Policy
