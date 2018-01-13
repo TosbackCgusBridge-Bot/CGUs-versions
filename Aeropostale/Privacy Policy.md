@@ -183,7 +183,7 @@ Close submenu ( Tops ) Tops
 Close submenu ( Bottoms ) Bottoms
 
 *   View All
-*   #Bestbootyever
+*   Best Booty Ever
 *   Leggings
 *   Joggers + Sweats
 *   Bootcut
@@ -423,7 +423,7 @@ Menu Find a Store Aeropostale
     
     *   Bottoms
         *   View All
-        *   #Bestbootyever
+        *   Best Booty Ever
         *   Leggings
         *   Joggers + Sweats
         *   Bootcut
@@ -587,4 +587,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. .
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
