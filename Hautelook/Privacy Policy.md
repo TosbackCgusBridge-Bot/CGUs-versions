@@ -8,12 +8,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Tommy Bahama Men
+    *   Tommy Bahama
+    *   Tommy Bahama Swim
+    *   LORAC Starting at $10
+    *   Tommy Bahama Shoes &. Handbags
+    *   Loveappella
+    *   Spa Day Essentials: Bath Bombs
+    *   Josie &. Skarlette Blue
+    *   Soft &. Cozy Slippers for Her
+    *   Looks to Love: Lingerie Under $30
+    *   Sparkle City: Jewelry for Her Under $80
+    *   Slippers for Him
+    *   Fate
+    *   Step into Comfort: Naturalizer &. More
+    *   Kenneth Cole Reaction
+    *   After Market
+    *   Ro &. De
+    *   Sun Starting at $15
+    *   Free Shipping: Sterling Silver from Bling Jewelry
+    *   Style Update: On-Trend Boots &. More Under $40
+    *   Tommy Bahama Luggage
+    *   Ba Ba Bling
+    *   Jessica Simpson Kids' Shoes
+    *   Free Shipping: Luxe Bath Essentials Up to 80% Off
+    *   Bluetooth &. Phone Accessories Starting at $10
+    *   Murad Skin Care
     *   Tissot Watches
+    
     *   Love Stitch
     *   Karen Kane
-    *   Lukka Lux Active
-    *   Circus by Sam Edelman
     *   Nostalgia Up to 70% Off
+    *   Circus by Sam Edelman
+    *   Lukka Lux Active
     *   Sam Edelman Handbags
     *   Meredith Leigh Gemstone Jewelry Under $80
     *   Affliction
@@ -33,25 +60,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Mason Jar Candles &. More
     *   skyn ICELAND
     *   Valentine's Finds: Designer Fragrances from $10
-    
     *   reVive Light Therapy
     *   OFRA Cosmetics
-    *   MOTHER
-    *   tibi
     *   John Varvatos Star USA
-    *   Fendi Watches
-    *   Jeffrey Campbell
-    *   HUE
-    *   Perfect Black Boots Starting at $40
-    *   Bony Levy &. Lana Fine Jewelry Up to 50% Off
-    *   Muubaa &. More Up to 65% Off
-    *   Sugarlips
-    *   Natori Sleep &. Lingerie
-    *   South Parade
-    *   Avah &. Ella Jewelry Starting at $15
-    *   OOBERSWANK
-    *   Made in Italy: Summit
-    *   Deux Lux Handbags
+    
     *   Wolverine
     *   PX &. More Starting at $15
     *   John Varvatos Star USA Accessories
@@ -59,38 +71,53 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Timberland Kids
     *   Million Polkadots
     *   Floral Notes: Home Accessories Starting at $10
-    
     *   Swoon-Worthy Valentine's Gifts from $10
     *   Free Shipping: Blackout Curtains
     *   Free Shipping: NMK Bedding Up to 75% Off
-    *   Free Shipping: Glam Modern Lighting
     *   Free Shipping: BergHOFF Kitchen Finds
     *   Free Shipping: Valentine's Day Giftables
     *   Free Shipping: Modern &. Floral Art
     *   TR Premium Up to 90% Off
-    *   Truly Clear Light Therapy at 80% Off
-    *   butter LONDON
-    *   Trufora Skin Care
     *   TAVIK Shirts, Tees &. More
     *   Psycho Bunny
     *   Men's Boots ft. Warfield &. Grand
-    *   Ready, Set, Go: Kids' Sets Under $25
-    *   New Balance Men
-    *   Designer Wallets &. More Up to 50% Off
-    *   KitchenAid
-    *   Quirky Kitchen Towels at $10
-    *   Designer Sun ft. Balenciaga Up to 70% Off
-    *   Catherine Catherine Malandrino &. More Up to 75% Off
-    *   Catherine Catherine Malandrino
+    *   Free Shipping: Glam Modern Lighting
     *   Mario Badescu
+    *   MOTHER
+    *   Natori Sleep &. Lingerie
+    *   Fendi Watches
+    *   HUE
+    *   Perfect Black Boots Starting at $40
+    *   Catherine Catherine Malandrino &. More Up to 75% Off
 *   WomenShop Sale Events
     
+    *   Tommy Bahama
+    *   Tommy Bahama Swim
+    *   LORAC Starting at $10
+    *   Tommy Bahama Shoes &. Handbags
+    *   Loveappella
+    *   Spa Day Essentials: Bath Bombs
+    *   Josie &. Skarlette Blue
+    *   Soft &. Cozy Slippers for Her
+    *   Looks to Love: Lingerie Under $30
+    *   Sparkle City: Jewelry for Her Under $80
+    *   Fate
+    *   Step into Comfort: Naturalizer &. More
+    *   Kenneth Cole Reaction
+    *   After Market
+    *   Ro &. De
+    *   Sun Starting at $15
+    *   Free Shipping: Sterling Silver from Bling Jewelry
+    *   Style Update: On-Trend Boots &. More Under $40
+    *   Tommy Bahama Luggage
+    *   Murad Skin Care
     *   Tissot Watches
     *   Love Stitch
     *   Karen Kane
-    *   Lukka Lux Active
-    *   Circus by Sam Edelman
     *   Nostalgia Up to 70% Off
+    
+    *   Circus by Sam Edelman
+    *   Lukka Lux Active
     *   Sam Edelman Handbags
     *   Meredith Leigh Gemstone Jewelry Under $80
     *   Affliction
@@ -105,59 +132,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Valentine's Finds: Designer Fragrances from $10
     *   reVive Light Therapy
     *   OFRA Cosmetics
+    *   Mario Badescu
     *   MOTHER
-    
-    *   tibi
+    *   Natori Sleep &. Lingerie
     *   Fendi Watches
-    *   Jeffrey Campbell
     *   HUE
     *   Perfect Black Boots Starting at $40
-    *   Bony Levy &. Lana Fine Jewelry Up to 50% Off
-    *   Muubaa &. More Up to 65% Off
-    *   Sugarlips
-    *   Natori Sleep &. Lingerie
-    *   South Parade
-    *   Avah &. Ella Jewelry Starting at $15
-    *   OOBERSWANK
-    *   Made in Italy: Summit
-    *   Deux Lux Handbags
-    *   Truly Clear Light Therapy at 80% Off
-    *   butter LONDON
-    *   Trufora Skin Care
-    *   Designer Sun ft. Balenciaga Up to 70% Off
     *   Catherine Catherine Malandrino &. More Up to 75% Off
-    *   Catherine Catherine Malandrino
-    *   Mario Badescu
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
-    *   Jewelry
-    *   Handbags
     *   Lingerie
+    *   Jewelry
+    *   Tech Accessories
     *   Watches
+    *   Handbags
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Tommy Bahama Men
+    *   Slippers for Him
+    *   Tommy Bahama Luggage
     *   Tissot Watches
     *   Boga Up to 75% Off
     *   American Stitch &. More
     *   Men's Rugged Boots Starting at $40
     *   James Tattersall &. More Up to 75% Off
     *   Valentine's Finds: Designer Fragrances from $10
-    *   John Varvatos Star USA
-    *   Fendi Watches
-    *   Wolverine
     
+    *   John Varvatos Star USA
+    *   Wolverine
     *   PX &. More Starting at $15
     *   John Varvatos Star USA Accessories
     *   TR Premium Up to 90% Off
     *   TAVIK Shirts, Tees &. More
     *   Psycho Bunny
     *   Men's Boots ft. Warfield &. Grand
-    *   New Balance Men
-    *   Designer Wallets &. More Up to 50% Off
-    *   Designer Sun ft. Balenciaga Up to 70% Off
+    *   Fendi Watches
     
     Shop By Category
     *   Clothing
@@ -166,66 +178,68 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Ba Ba Bling
+    *   Jessica Simpson Kids' Shoes
     *   KicKee Pants
     *   Maaji Girls' Swim
     *   Timberland Kids
     *   Million Polkadots
-    *   Ready, Set, Go: Kids' Sets Under $25
     
     Shop By Category
-    *   Baby Girl
     *   Baby Boy
+    *   Baby Girl
     *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
+    *   Baby Gear &. Essentials
     *   Boys Sizes 2T-7
     *   Boys' Shoes
-    *   Baby Gear &. Essentials
     *   Girls' Shoes
-    *   Kids Accessories
     *   Boys Sizes 8-20
+    *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Free Shipping: Luxe Bath Essentials Up to 80% Off
+    *   Bluetooth &. Phone Accessories Starting at $10
     *   Storage with Style: Gold Accents, Prints &. More
     *   Free Shipping: Mason Jar Candles &. More
     *   Floral Notes: Home Accessories Starting at $10
     *   Swoon-Worthy Valentine's Gifts from $10
+    
     *   Free Shipping: Blackout Curtains
     *   Free Shipping: NMK Bedding Up to 75% Off
-    
-    *   Free Shipping: Glam Modern Lighting
     *   Free Shipping: BergHOFF Kitchen Finds
     *   Free Shipping: Valentine's Day Giftables
     *   Free Shipping: Modern &. Floral Art
-    *   KitchenAid
-    *   Quirky Kitchen Towels at $10
+    *   Free Shipping: Glam Modern Lighting
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
+    *   Bath
     *   Organization
     *   Luggage &. Travel
     *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   LORAC Starting at $10
+    *   Spa Day Essentials: Bath Bombs
+    *   Murad Skin Care
     *   Resort Ready: Brush on Block
     *   Pure Code Spa &. Hair Care
     *   skyn ICELAND
     *   Valentine's Finds: Designer Fragrances from $10
     *   reVive Light Therapy
     *   OFRA Cosmetics
-    *   Truly Clear Light Therapy at 80% Off
-    *   butter LONDON
-    *   Trufora Skin Care
     *   Mario Badescu
     
     Shop By Category
     *   Makeup
+    *   Bath &. Body
     *   Fragrance
     *   Skin Care
     *   Tools &. Accessories
-    *   Nails
     *   Hair Care
 
 SearchHauteLook Privacy PolicyHauteLook Privacy Policy Overview
@@ -414,4 +428,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest store.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page..
+Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest store.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
