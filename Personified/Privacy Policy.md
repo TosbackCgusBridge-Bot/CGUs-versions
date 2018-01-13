@@ -1,7 +1,8 @@
 <iframe height='0' src='https://www.googletagmanager.com/ns.html?id=GTM-PPCSWP' style='display:none;visibility:hidden' width='0'></iframe>. For Employers
 
 *   $0.00
-*   Sign In
+*   Sign In Already Purchased?  
+    Sign In to Your Account!
 
 Hello.
 
@@ -83,7 +84,13 @@ Resources
 
 Customers
 
-​ Sign Up for the Latest Industry News, Tips and Advice Email Comments
+​
+
+Thank you for subscribing to our newsletter. More great content headed your way!
+
+Sorry, there was a problem with your email address. Please try again.
+
+Sign Up for the Latest Industry News, Tips and Advice Email Comments Subscribe
 
 ©2018 CareerBuilder, LLC. All rights reserved.  
 200 N. LaSalle Street, Chicago, IL
@@ -120,4 +127,4 @@ Customers
 *   Terms &. Conditions
 *   Fraud
 
-<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=575283812576156&amp;ev=PixelInitialized">. <img height='1' src='https://www.facebook.com/tr?id=575283812576156&amp;ev=PageView&amp;noscript=1' style='display:none' width='1'>. . <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=l5dns&amp;p\_id=Twitter">. <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn\_id=l5dns&amp;p\_id=Twitter">
+Clicky! <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=575283812576156&amp;ev=PixelInitialized">. <img height='1' src='https://www.facebook.com/tr?id=575283812576156&amp;ev=PageView&amp;noscript=1' style='display:none' width='1'>. <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=l5dns&amp;p\_id=Twitter">. <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn\_id=l5dns&amp;p\_id=Twitter">
