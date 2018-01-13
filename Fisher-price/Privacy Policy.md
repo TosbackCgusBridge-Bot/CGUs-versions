@@ -284,5 +284,3 @@ vote(s)
 View All
 
 Items per page
-
-.
