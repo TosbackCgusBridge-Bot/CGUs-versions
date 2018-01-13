@@ -360,5 +360,3 @@ Copyright © 1999 - 2018 SurveyMonkey
     *   Blog
     *   Help center
 *   Plans &. Pricing
-
-.
