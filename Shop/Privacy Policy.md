@@ -320,17 +320,25 @@ Compare (0)
 
 Home >. Filter by specs Offers Different is better
 
-EXPLORE CES
+January 9-12, 2018
+
+Explore CES
+
+X1 Family
 
 The next generation is here.
 
-Learn more >.
+Play Video
 
-Different Innovates Better
+Shop now
+
+Different innovates better
 
 Transform your data center with ThinkSystem and ThinkAgile solutions.
 
-Learn more >.
+Play Video
+
+Learn more
 
 *   1
 *   2
@@ -476,5 +484,3 @@ Please tell us how we can improve your experience:
 SUBMIT CHATHIDE Close
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
-
-.
