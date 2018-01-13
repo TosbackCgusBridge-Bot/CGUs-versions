@@ -162,10 +162,10 @@ menu Close 0 Free Shipping on $50+  |  Offers
     
     *   New Arrivals
     *   Outerwear Shop
-    *   Hats, Gloves &. Scarves
+    *   Spring Into Layers
     *   Iron Knees Pants
     *   Girls' Knit Kit
-    *   Toddler Shop
+    *   School Uniforms
     *   Backpacks &. Lunch Boxes
     *   Sale
     
@@ -181,7 +181,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     Girls>.
     
     *   Outerwear
-    *   Snow Boots
     *   Tops
     *   Sweaters
     *   Dresses
@@ -199,7 +198,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     
     Boys>.
     *   Outerwear
-    *   Snow Boots
     *   Tops
     *   Sweaters
     *   Pants
@@ -481,10 +479,10 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Back
         *   New Arrivals
         *   Outerwear Shop
-        *   Hats, Gloves &. Scarves
+        *   Spring Into Layers
         *   Iron Knees Pants
         *   Girls' Knit Kit
-        *   Toddler Shop
+        *   School Uniforms
         *   Backpacks &. Lunch Boxes
         *   Sale
     *   SHOP BY AGE RANGE
@@ -498,7 +496,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Girls
         *   Back
         *   Outerwear
-        *   Snow Boots
         *   Tops
         *   Sweaters
         *   Dresses
@@ -516,7 +513,6 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Boys
         *   Back
         *   Outerwear
-        *   Snow Boots
         *   Tops
         *   Sweaters
         *   Pants
@@ -702,9 +698,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 25% off sale and clearance styles!
+Receive 25% off full-price styles!
 
-code: FREEZE pin: 4817 DETAILS
+code: CLOUDY pin: 9126 DETAILS
 
 Customer Service Menu
 
