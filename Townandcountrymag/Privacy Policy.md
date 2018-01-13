@@ -1,6 +1,7 @@
 *   Travel
 *   Politics
 *   Style
+*   Cocktails
 *   Royals
 
 *   Subscribe
@@ -50,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 The Best Looks from the 2018 Golden Globes 2 Inside Sarah Paulson's American Success Story 3 The T&C Top 50 Bachelors of 2018 4 Here's Where to Go on Your Next Vacation in 2018 5 Our Most Read, Shared, and Loved Stories of 2017 Privacy Policy Dec 1, 2014
+Today's Top Stories 1 What if Melania Divorced Donald? 2 All About 'The Assassination of Gianni Versace' 3 How—and Why—Celebrities Get Jewelry for Free 4 The T&C Top 50 Bachelors of 2018 5 6 Ways Whiskey Is Actually Good for You Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -181,12 +182,12 @@ Last revised on April 1, 2016
 Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
-*   Inside the World of Luxury Vacation Rentals
-*   Five Things To Know Before You Move To Malta
 *   T&C's Travel Tips Around Egypt
 *   How the Other Half Dies
 *   T&C Essentials: How to Pack the Perfect Picnic
 *   I Drank Like Don Draper at Lunch - And You Can Too
+*   The Space Cowgirl: Rosson Crow
+*   Going Places
 
 *   Newsletter
 *   Contact Us
