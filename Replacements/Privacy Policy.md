@@ -157,7 +157,7 @@ Flatware Specials
     *   Yard Sale
     
     *   Dinnerware Sets &. More
-    *   Warehouse SaleShop Our Holiday Lookbook >.
+    *   Warehouse SaleSave Up to 50% >.
 
 *   Our Story
 *   Services
@@ -258,4 +258,4 @@ Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Compan
 
 <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PR6WVR' height='0' width='0' style='display:none;visibility:hidden'></iframe>.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2038432706376108&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2617602201571&amp;noscript=1">. .
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2038432706376108&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2617602201571&amp;noscript=1">.
