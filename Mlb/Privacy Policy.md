@@ -494,5 +494,3 @@ Google Plus
 
 *   View MLB.com in English
 *   En Español
-
-.
