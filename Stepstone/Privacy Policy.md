@@ -97,5 +97,3 @@ Copyright 1996-2017 StepStone GmbH All rights reserved
 *   Terms of use
 *   Privacy statement
 *   Sitemap
-
-.
