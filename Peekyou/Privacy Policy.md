@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 72%  5% 
+What is PeekScore? Public Records &. Background Checks 24%  6% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 72%  5% 
     
 *   Show Less ...
 
-72%  72%  Arrest Records &. Driving Infractions
+24%  24%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 72%  Twitter 5% 
+Facebook 24%  Twitter 6% 
 
 *   HIV.gov - HIVGov
     
@@ -199,7 +199,7 @@ Facebook 72%  Twitter 5% 
     
 *   Show Less ...
 
-Instagram 5% 
+Instagram 6% 
 
 *   Karen McDowall - privacy\_\_\_policy
     
@@ -267,7 +267,7 @@ Instagram 5% 
     
 *   Show Less ...
 
-Pinterest 72%  Wikipedia 5% 
+Pinterest 24%  Wikipedia 6% 
 
 *   Medana
     
@@ -286,7 +286,7 @@ Pinterest 72%  Wikipedia 5% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Google+ 5% 
+Google+ 6% 
 
 *   Privacy policy - Google+ - Google Plus
     
@@ -312,7 +312,7 @@ Google+ 5% 
     
 *   Show Less ...
 
-Linkedin 72%  Music 5% 
+Linkedin 24%  Music 6% 
 
 *   Pandora
     
@@ -358,7 +358,7 @@ Linkedin 72%  Music 5% 
     
 *   Show Less ...
 
-Photo Albums 5% 
+Photo Albums 6% 
 
 *   Flickr
     
@@ -369,7 +369,7 @@ Photo Albums 5% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 5% 
+Myspace 6% 
 
 *   Privacy Policy - 49086242
     
@@ -393,7 +393,7 @@ Myspace 5% 
     
 *   Show Less ...
 
-Documents 5% 
+Documents 6% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -439,7 +439,7 @@ Documents 5% 
     
 *   Show Less ...
 
-Web Search 5% 
+Web Search 6% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -485,7 +485,7 @@ Web Search 5% 
     
 *   Show Less ...
 
-Images 5% 
+Images 6% 
 
 20
 
