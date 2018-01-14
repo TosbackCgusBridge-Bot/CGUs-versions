@@ -1,118 +1,73 @@
-Sign Up Now! Please fill out all of the following fields to create an account.
+*   Exchange
+    *   Basic
+    *   Advanced
 
-\*Username and password are case sensitive, and password must be at least 6 characters long.
+*   Labs
 
-      Already have an account? Click here to login CREATE AN ACCOUNT NOW What Do I Get?
+*   LaunchPad
 
-*   **Watch** as many **movies** you want!
-*   Secure Scanned, No Virus Detected
-*   Thousands of movies to choose from - **Hottest new releases**.
-*   **Click it and Watch it!** - no waiting to download movies, its instant!
-*   HD Streaming - 720p
-*   Guaranteed to **save time** and money - Its quick and **hassle free**, forget going to the post office.
-*   It works on your **TV, PC or MAC!**
+English
 
-Any Restrictions?
+*   English
+*   简体中文
+*   繁體中文
+*   한국어
+*   日本語
+*   русский
+*   Español
+*   Français
+*   Deutsch
 
-*   **Watch** as many **movies** you want!
-*   Checkout what all the buzz is about - **So easy to use!**
-*   **Thousands** of satisfied customers!
-*   Keep watching your **favorite movies** over and over!
-*   It works anywhere in the world!
-*   No late fees or fixed contracts - **cancel anytime!**
+Login  or   Register
 
-Fill out the signup form today and start watching movies instantly!!
-
-**Questions? Comments?**
-
-Give us a call at :  
-1-866-616-1681
-
-Sign Up
-
-Create an account as simple as it gets!
-
-Search
-
-Browse our selection of movies!
-
-Watch
-
-Watch you movie anywhere you want!
-
-*   fr
-
-*   es
-
-*   de
-
-*   no
-
-*   it
-
-*   nl
-
-*   da
-
-*   ja
-
-*   ar
-
-*   sv
-
-*   zh
-
-*   br
-
-fr
-
-*   fr
-*   es
-*   de
-*   no
-*   it
-*   nl
-*   da
-*   ja
-*   ar
-*   sv
-*   zh
-*   br
-
-*   Terms
-*   Privacy Policy
-*   Refund Policy
+*   Join Us
 *   Support
-*   Affiliates
+*   News
 
-\*To enroll in the membership program, you will be required to enter into a trial membership of 5 days, during which time your credit card will not be charged. If you decide to continue, do nothing, and your credit card will be charged the monthly payment of $49.95 on day 6 of your enrollment. To discontinue your membership, call 1-866-616-1681 any time 24 hours a day to cancel. Unless you call to cancel, you will be charged a membership fee of $49.95 per month every month.
+Binance - Exchange The World Create Account　｜　Already Registered? Login
 
-Copyright © 2018 bonxmedia.com - Krateworth Media LTD - Company #HE340516 - 1 Rigainis, 2363 Nicosia, Cyprus - Watch Movies Online - All rights reserved. × Possible Reasons :
+*   End in: 17d17h21m38s
 
-*   The credit card entered may have insufficient funds.
-*   The credit card number or CVV number was not entered properly.
-*   Your issuing bank was unable to match the CVV or expiry date to the credit card provided.
-*   Your billing address entered doesn't match the billing address on your credit card.
-*   Credit card submitted is already in use. Try using another card.
+*   Binance Lists iExec RLC (RLC)_( 01-12 )_
+*   Binance Lists VIBE (VIBE)_( 01-10 )_
+*   VEN Competition Has Now Concluded_( 01-09 )_
 
-Close × Software Requirements :
+*   Favorites
+*   BNB Markets
 
-You need to have a broadband Internet Connection (DSL or Cable).
+*   Favorites
+*   BNB Markets
 
-You will not be able to play games, watch movies or listen to music using a dial-up connection.
+Pair Last Price 24h Change 24h High 24h Low 24h Volume Links：
 
-To stream movies and listen to music you must download and install Adobe Flash Player plug-in as well as Java by Oracle.
+*   NEO
 
-Using the latest version of an HTML5 compatible browser (Firefox, Chrome, Explorer, i.e) is also recommended.
+*   Bitkan
 
-To watch a downloaded movie you will need a VLC player to view the content.
+*   BTC123
 
-To play a video game you will first need to download the Yummy Player which is made available in our members login area.
+*   8BTC
 
-If you are still having technical difficulties, please contact our customer support team for further assistance.
+Download
 
-Close × Member Login Login Forgot Password? No account? Register now! × Forgot Password Forgot Password?
+*   About
+*   Terms
+*   Privacy
+*   Fees
+*   Contact
+*   API
+*   Apply to List
 
-Please enter an email linked with this account, we will send your password by email
+© 2017 Binance.com All Rights Reserved 2018-01-14 01:38:22 24h Volume： Reconnecting Binance Telegram
 
-Submit
+*   中文 https://t.me/BinanceChinese
+*   Português https://t.me/BinancePortuguese
+*   English https://t.me/binanceexchange
+*   हिन्दी https://t.me/BinanceHindi
+*   русский https://t.me/BinanceRussian
+*   日本語 https://t.me/BinanceJapanese
+*   Français https://t.me/BinanceFrench
+*   Italiano https://t.me/BinanceItalian
+*   Español https://t.me/BinanceSpanish
+*   한국어 https://t.me/BinanceKorean
+*   Deutsch https://t.me/BinanceGerman
