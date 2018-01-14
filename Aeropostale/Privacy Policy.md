@@ -524,35 +524,35 @@ Menu Find a Store Aeropostale
 ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Find My Store
 
 Previous*   Hoodies + Jackets Starting at $9.99 Shop Girls Shop Guys
-*   Long Sleeve Starting at $9.99 Shop Guys
-*   Joggers + Sweats Starting at $9.99 Shop Girls
-*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
+*   Long Sleeve Starting at $7.99 Shop Guys
+*   Joggers + Sweats Starting at $6.99 Shop Girls
+*   Jeans + Pants Starting at $7.99 Shop Girls Shop Guys
 *   Tees Starting at $2.99 Shop Girls Shop Guys
 *   Hoodies + Jackets Starting at $9.99 Shop Girls Shop Guys
-*   Long Sleeve Starting at $9.99 Shop Guys
-*   Joggers + Sweats Starting at $9.99 Shop Girls
-*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
+*   Long Sleeve Starting at $7.99 Shop Guys
+*   Joggers + Sweats Starting at $6.99 Shop Girls
+*   Jeans + Pants Starting at $7.99 Shop Girls Shop Guys
 *   Tees Starting at $2.99 Shop Girls Shop Guys
 *   Hoodies + Jackets Starting at $9.99 Shop Girls Shop Guys
-*   Long Sleeve Starting at $9.99 Shop Guys
-*   Joggers + Sweats Starting at $9.99 Shop Girls
+*   Long Sleeve Starting at $7.99 Shop Guys
+*   Joggers + Sweats Starting at $6.99 Shop Girls
 Next
 
-Previous*   Joggers + Sweats Starting at $18.00 Shop Guys
+Previous*   Joggers + Sweats Starting at $15.00 Shop Guys
 *   Shorts Starting at $9.75 Shop Girls Shop Guys
 *   Lounge + Sleep Starting at $8.25 Shop Sleep
 *   Accessories Starting at $3.50 Shop Girls Shop Guys
 *   Tees Starting at $5.00 Shop Girls Shop Guys
 *   Long Sleeve Tees Starting at $8.00 Shop Girls Shop Guys
 *   Hoodies + Sweatshirts Starting at $10.00 Shop Guys Shop Girls
-*   Joggers + Sweats Starting at $18.00 Shop Guys
+*   Joggers + Sweats Starting at $15.00 Shop Guys
 *   Shorts Starting at $9.75 Shop Girls Shop Guys
 *   Lounge + Sleep Starting at $8.25 Shop Sleep
 *   Accessories Starting at $3.50 Shop Girls Shop Guys
 *   Tees Starting at $5.00 Shop Girls Shop Guys
 *   Long Sleeve Tees Starting at $8.00 Shop Girls Shop Guys
 *   Hoodies + Sweatshirts Starting at $10.00 Shop Guys Shop Girls
-*   Joggers + Sweats Starting at $18.00 Shop Guys
+*   Joggers + Sweats Starting at $15.00 Shop Guys
 Next
 
 <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
@@ -587,4 +587,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
