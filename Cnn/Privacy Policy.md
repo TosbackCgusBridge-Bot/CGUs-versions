@@ -151,7 +151,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-Pinellas Park, FL44°
+Pinellas Park, FL48°
 
 1.  Home
 
