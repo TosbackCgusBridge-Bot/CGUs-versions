@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Sen. Jeff Flake on Immigration Reform: "Democrats Are Negotiating In Good Faith," "Only One Deal In Town"
+*   Sen. Rand Paul: Can't Have An Immigration Compromise If Everyone Is Calling President "Racist"
+*   Hawaii Rep. Tulsi Gabbard: "Decades-Long Regime Change Policy" Is Cause Of North Korean Nuclear Threat
+*   GOP Rep. Mia Love on 'Shithole' Controversy: "We Cannot Let This Derail Us" From Fixing DACA
 *   Sen. Durbin: Term "Chain Migration" Is Offensive To Those Whose Ancestors Came To U.S. "In Chains"
-*   'Project Veritas' Hidden Camera: Twitter And Reddit Use "Shadow Ban" Algorithms to Censor Political Opinions
-*   Tucker Carlson on 'Shithole' Comment: "Trump Said Something Almost Every Person Agrees With"
-*   Anderson Cooper: "Racist" Trump "Tired Of So Many Black People Coming Into This Country"
-*   Bernie Sanders: Oprah "Would Be A Very Good Candidate" For President. "Talented, Intelligent Woman"
 
 *   Politics
 *   Policy
