@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 24%  6% 
+What is PeekScore? Public Records &. Background Checks 7%  3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 24%  6% 
     
 *   Show Less ...
 
-24%  24%  Arrest Records &. Driving Infractions
+7%  7%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 24%  Twitter 6% 
+Facebook 7%  Twitter 3% 
 
 *   HIV.gov - HIVGov
     
@@ -199,75 +199,7 @@ Facebook 24%  Twitter 6% 
     
 *   Show Less ...
 
-Instagram 6% 
-
-*   Karen McDowall - privacy\_\_\_policy
-    
-*   Privacy Policy - insta\_privacy\_policy
-    
-*   privacypolicy - privacypolicy4072
-    
-*   privacy&policy - privacyandpolicy
-    
-*   Show More ...
-
-*   Рогов Хуго - privacypolicy
-    
-*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
-    
-*   Ray - terms\_privacy\_\_policy\_\_
-    
-*   Privacy Policy games - privacypolicygames
-    
-*   Alexi John - \_privacypolicy\_\_
-    
-*   privacy policy - privacypolicy5831
-    
-*   Privacy policy - privacypolicy3288
-    
-*   Privacy Policy games - privacypolicygames3589
-    
-*   PrivacyPolicy - privacypolicy.3245
-    
-*   Phil Swift - privacypolicy\_1
-    
-*   police instagram - privacy\_\_policy\_\_
-    
-*   PrivacyPolicy - privacypolicy4020
-    
-*   Terms &. Privacy Policy - policytermsprivacy
-    
-*   privacypolicy - privacypolicy4064
-    
-*   privacypolicy - privacypolicy7690
-    
-*   Dolphin - privacypolicy\_\_
-    
-*   Privacy Policy - aqua\_blade
-    
-*   Privacy Policy - dorothyborthy
-    
-*   priVacy policy, - lololololol380
-    
-*   Privacy Policy - activesafeaccount2k15\_
-    
-*   Loading... - privacy.policy\_\_
-    
-*   Privacy Policy - mrprivacypolicy
-    
-*   privacy policy - privacy.p
-    
-*   Privacy Policy is outrageous - rollthedice82
-    
-*   Instagram Privacy Policy - newprivacypolicy
-    
-*   privacy policy terms of Elana - lanaprv
-    
-*   Privacy policy - privacypolicy123
-    
-*   Show Less ...
-
-Pinterest 24%  Wikipedia 6% 
+Instagram 7%  Pinterest 7%  Wikipedia 3% 
 
 *   Medana
     
@@ -286,7 +218,7 @@ Pinterest 24%  Wikipedia 6% 
     Tiziano Vecellio (sometimes his last name is given as Vecelli, born around 1490, in Pieve di Cadore near Belluno, died 27 August 1576 in Venice) was a painter.
     
 
-Google+ 6% 
+Google+ 3% 
 
 *   Privacy policy - Google+ - Google Plus
     
@@ -312,7 +244,7 @@ Google+ 6% 
     
 *   Show Less ...
 
-Linkedin 24%  Music 6% 
+Linkedin 7%  Music 3% 
 
 *   Pandora
     
@@ -358,7 +290,7 @@ Linkedin 24%  Music 6% 
     
 *   Show Less ...
 
-Photo Albums 6% 
+Photo Albums 3% 
 
 *   Flickr
     
@@ -369,7 +301,7 @@ Photo Albums 6% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Myspace 6% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -393,7 +325,7 @@ Myspace 6% 
     
 *   Show Less ...
 
-Documents 6% 
+Documents 2% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -439,7 +371,7 @@ Documents 6% 
     
 *   Show Less ...
 
-Web Search 6% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -485,15 +417,11 @@ Web Search 6% 
     
 *   Show Less ...
 
-Images 6% 
+Images 2% 
 
 20
 
-31
-
 twitterx
-
-instagramx
 
 *   About PeekYou
 *   Privacy Policy
