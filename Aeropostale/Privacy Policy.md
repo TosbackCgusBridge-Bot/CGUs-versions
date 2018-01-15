@@ -523,19 +523,19 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Find My Store
 
-Previous*   Hoodies + Jackets Starting at $9.99 Shop Girls Shop Guys
-*   Long Sleeve Starting at $7.99 Shop Guys
-*   Joggers + Sweats Starting at $6.99 Shop Girls
-*   Jeans + Pants Starting at $7.99 Shop Girls Shop Guys
+Previous*   Hoodies + Jackets Starting at $14.99 Shop Girls Shop Guys
+*   Long Sleeve Starting at $9.99 Shop Guys
+*   Joggers + Sweats Starting at $9.99 Shop Girls
+*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
 *   Tees Starting at $2.99 Shop Girls Shop Guys
-*   Hoodies + Jackets Starting at $9.99 Shop Girls Shop Guys
-*   Long Sleeve Starting at $7.99 Shop Guys
-*   Joggers + Sweats Starting at $6.99 Shop Girls
-*   Jeans + Pants Starting at $7.99 Shop Girls Shop Guys
+*   Hoodies + Jackets Starting at $14.99 Shop Girls Shop Guys
+*   Long Sleeve Starting at $9.99 Shop Guys
+*   Joggers + Sweats Starting at $9.99 Shop Girls
+*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
 *   Tees Starting at $2.99 Shop Girls Shop Guys
-*   Hoodies + Jackets Starting at $9.99 Shop Girls Shop Guys
-*   Long Sleeve Starting at $7.99 Shop Guys
-*   Joggers + Sweats Starting at $6.99 Shop Girls
+*   Hoodies + Jackets Starting at $14.99 Shop Girls Shop Guys
+*   Long Sleeve Starting at $9.99 Shop Guys
+*   Joggers + Sweats Starting at $9.99 Shop Girls
 Next
 
 Previous*   Joggers + Sweats Starting at $15.00 Shop Guys
@@ -587,4 +587,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
