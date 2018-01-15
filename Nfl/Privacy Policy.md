@@ -1,9 +1,9 @@
 Playoffs - DIVISIONAL
 
-*   TEN7NE•142nd ? 03:07REDZONE
+*   NO12-624MIN14-329Final
+*   JAX12-645PIT13-442Final
 *   ATL11-710PHI14-315Final
-*   JAX11-6PIT13-3Sun 1:05 PM ET
-*   NO12-5MIN13-3Sun 4:40 PM ET
+*   TEN10-814NE14-335Final
 
 *   News
 *   Scores
@@ -24,10 +24,10 @@ Playoffs - DIVISIONAL
 
 Playoffs - DIV
 
-*   TEN7NE•142nd ? 03:07REDZONE
+*   NO24MIN29Final
+*   JAX45PIT42Final
 *   ATL10PHI15Final
-*   JAX11-6PIT13-3Sun 1:05 PM ET
-*   NO12-5MIN13-3Sun 4:40 PM ET
+*   TEN14NE35Final
 
 *   News
 *   Scores
