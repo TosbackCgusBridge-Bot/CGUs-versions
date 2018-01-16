@@ -1,9 +1,9 @@
 Playoffs - DIVISIONAL
 
-*   NO12-624MIN14-329Final
-*   JAX12-645PIT13-442Final
 *   ATL11-710PHI14-315Final
 *   TEN10-814NE14-335Final
+*   JAX12-645PIT13-442Final
+*   NO12-624MIN14-329Final
 
 *   News
 *   Scores
@@ -24,10 +24,10 @@ Playoffs - DIVISIONAL
 
 Playoffs - DIV
 
-*   NO24MIN29Final
-*   JAX45PIT42Final
 *   ATL10PHI15Final
 *   TEN14NE35Final
+*   JAX45PIT42Final
+*   NO24MIN29Final
 
 *   News
 *   Scores
