@@ -154,4 +154,4 @@ Minute(s)
 
 We could not complete your request. Please call us at:
 
-  Chat Replay IconFeedback
+  Chat
