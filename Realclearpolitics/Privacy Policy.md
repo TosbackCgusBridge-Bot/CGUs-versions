@@ -101,53 +101,43 @@
     *   About
     *   Media Kit
 
+*   _Victor Davis Hanson_: What the 'Dreamer' Fight Is Really About
+    
+*   _Charles Blow_: Trump Is a Racist. Period.
+    
+*   _Ryan Saavedra_: Durbin Has a History of Lying About Private Meetings
+    
+*   _Rep. Henry Cuellar_: The Answer to Border Security Is Technology, Not Wall
+    
+*   _Will Wilkinson_: Democrats, Make a Deal With Trump to Protect Dreamers
+    
+*   _Jonah Goldberg_: Trump's Authentic Asininity
+    
+*   _Brandon Weichert_: America Needs a Plumber, Not a Politician
+    
+*   _Katha Pollitt_: The Moment When Women Unleash Decades of Pent-Up Anger
+    
+*   _Heather Mac Donald_: Policing Sexual Desire: #MeToo's Impossible Premise
+    
+*   _Lauren Collins_: Why Did Prominent Frenchwomen Denounce #MeToo?
+    
+*   _John Moody_: Is Coal the New Gold? A PA Senate Candidate Thinks So
+    
+*   _Jeffrey Sachs_: New York City's Bold Bid for Climate Justice
+    
+*   _Robert Natelson_: A Link Between Obama's Departure, Your Increasing Wealth
+    
+*   _William Barber_: America's Addiction to Racism, Poverty and Militarism
+    
+*   _Shelby Steele_: Black Protest Has Lost Its Power
+    
+*   _Colin Dueck_: Trump's National Security Strategy: 10 Big Priorities
+    
+*   _Van Jackson_: Want to Strike North Korea? It Won't Go the Way You Think.
+    
 *   _Caitlin Huey-Burns_: Trump Imperils Economic Gains as 2018 Republican Issue
     
 *   _David Ignatius_: N. Korean Nuclear Crisis Will Resume After Olympics
-    
-*   _Hugh Hewitt_: The Wall Goes Up. The 'Dreamers' Stay.
-    
-*   _Amy Davidson Sorkin_: Trump Compounds His Bigotry With Lies
-    
-*   _Jeremy Carl_: Once Again, Trump Has Inartfully Stumbled on a Truth
-    
-*   _E.J. Montini_: In Praise of What Donald Trump Calls 'S\*\*\*Hole Countries'
-    
-*   _Eric Levitz_: The Progressive Case for Giving Trump His Stupid Wall
-    
-*   _Byron York_: Paul Manafort Has a Point
-    
-*   _Eliza Newlin Carney_: Chasing Down Rabbit Holes After Fusion GPS
-    
-*   _David Harsanyi_: Google's New 'Fact-Checker' Is Partisan Garbage
-    
-*   _Moira Donegan_: I Started the Abusive Media Men List
-    
-*   _Andrew Sullivan_: It's Time to Resist the Excesses of #MeToo
-    
-*   _Carl Cannon_: Jerry Ford's Classy Farewell
-    
-*   _Eugene Robinson_: If Ignorance Is Bliss, Trump Must Be Very Happy
-    
-*   _Adriana Cohen_: Reviving America Isn't Nuts - and Neither Is Trump
-    
-*   _Chris Cillizza_: Trump's 'Shithole' Comment Is His New Rock Bottom
-    
-*   _Scott McKay_: Trump Horrifies Snowflake Intellectuals by Speaking the Truth
-    
-*   _James Arkin_: Can Democrats Turn Arizona Blue?
-    
-*   _Matthew Continetti_: The Missing Democratic Agenda
-    
-*   _Ellis Cose_: Do We Need Another Glitzy Amateur in Office?
-    
-*   _Tom Bevan_: The Takeaway: Trump's Very Bad/Very Good Year One
-    
-*   _Elizabeth Bruenig_: Dear Democrats: Shut It Down
-    
-*   _Wesley Pruden_: Sorehead Losers of 2016 Suggest a Familiar Solution
-    
-*   _Joe Scarborough_: There's Nothing 'Professional' About Trump
     
 
 *   Previous
@@ -249,11 +239,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Imperils Economic Gains as Republican Midterm Issue
 *   Major Shift as Trump Opens Way for Medicaid Work Requirement
+*   Perdue: Trump Never Said "Sh\*thole Countries," I Was in the Room
 *   Can Democrats Turn Arizona Blue?
-*   Acosta: "Deep Down This President May Just Be A Racist"
-*   Trump Suggests 2-Phase Immigration Deal for "Dreamers"
-*   Issa Retirement Boosts Democrats' 2018 Prospects
+*   McSally Launches Senate Campaign in Heated Arizona Contest
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,22 +258,22 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove57Disapprove +19
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove52Disapprove +6
+*   Direction of CountryRasmussen Reports
+    *   Right Direction40
+    *   Wrong Track54Wrong Track +14
 *   President Trump Job ApprovalEmerson
     *   Approve39
     *   Disapprove52Disapprove +13
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
-*   2018 Generic Congressional VoteEmerson
-    *   Democrats45
-    *   Republicans40Democrats +5
-*   President Trump Job ApprovalIBD/TIPP
-    *   Approve35
-    *   Disapprove58Disapprove +23
 
 More Latest Polls In The News
 
-*   Sen. Jeff Flake on Immigration Reform: "Democrats Are Negotiating In Good Faith," "Only One Deal In Town"
+*   Mark Levin Rips Mueller: Where's Your Case? It's Been Eight Months. Give Us Your Collusion Case.
 *   Sen. Rand Paul: Can't Have An Immigration Compromise If Everyone Is Calling President "Racist"
 *   Hawaii Rep. Tulsi Gabbard: "Decades-Long Regime Change Policy" Is Cause Of North Korean Nuclear Threat
 *   GOP Rep. Mia Love on 'Shithole' Controversy: "We Cannot Let This Derail Us" From Fixing DACA
