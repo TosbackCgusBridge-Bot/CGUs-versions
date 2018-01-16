@@ -438,7 +438,7 @@ WebMD Policy Last updated on December 11, 2017 © 2017 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-InnovAge shares tips for taking care of yourself while caring for an aging adult Tips from the experts on how to make caring for adult loved ones easier. Ad By **InnovAge** AdChoices Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
