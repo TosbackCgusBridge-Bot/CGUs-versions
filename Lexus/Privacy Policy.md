@@ -251,6 +251,10 @@ COMPARE **LF-C2**
 
 *   Concept Vehicle
 
+**LF-1 LIMITLESS**
+
+*   Concept Vehicle
+
 *   sedans
     
 *   suvs
