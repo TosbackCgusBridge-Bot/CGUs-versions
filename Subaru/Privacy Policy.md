@@ -103,11 +103,11 @@ Up to
 
 Outback 3.6R Limited shown
 
-BRZ $25,495\* starting price 2017 BRZ
+BRZ $25,595\* starting price 2018 BRZ
 
 Starting at
 
-$25,495 MSRP
+$25,595 MSRP
 
 Up to
 
@@ -186,6 +186,7 @@ Life with Subaru
 *   Benefits of Ownership
 *   Subaru News
 *   Event Calendar
+*   History of Subaru Timeline
 
 We’re committed to making the world a better place. About the Love Promise
 
@@ -363,6 +364,7 @@ Company
 *   Partnerships
 *   News
 *   New Camden Home
+*   50th Anniversary
 
 Responsibility
 
@@ -420,7 +422,7 @@ Legal Disclaimers
 
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
-Subaru, SUBARU BOXER, Ascent, BRZ, Forester, Impreza, Legacy, Outback, STI, Tribeca, WRX, XV Crosstrek and EyeSight are registered trademarks.
+Subaru, SUBARU BOXER, BRZ, Forester, Impreza, Legacy, Outback, STI, Tribeca, WRX, XV Crosstrek and EyeSight are registered trademarks.
 
 iPod and iPad are registered trademarks of Apple Inc.. Brembo is a registered trademark of Freni Brembo S.p.A.. Alcantara is a registered trademark of Alcantara S.p.A and Alcantara is produced by Toray Group.. TORSEN is a registered trademark of JTEKT Corporation.. BBS is a registered trademark of BBS Kraftfahrzeugtechnik AG.. Bluetooth is a registered trademark of Bluetooth SIG, Inc.. HomeLink® and the HomeLink® house icon are registered trademarks of Gentex Corporation.. Aha and Harman Kardon are a registered trademarks of Harman International Industries, Inc.. Android is a trademark of Google Inc.. HD Radio is a registered trademark of iBiquity Digital Corporation.. Pandora is a registered trademark of Pandora Media, Inc.. SiriusXM and SiriusXM NavTraffic are registered trademarks of SiriusXM Satellite Radio, Inc.. iHeart is a registered trademark of Clear Channel.
 
