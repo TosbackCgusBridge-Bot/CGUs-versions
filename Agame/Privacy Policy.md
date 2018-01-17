@@ -363,9 +363,17 @@ If you have any additional questions or requests, you may send an email to info@
 
 Welcome to Agame.com, your zone to play free online games. Stocked each day with new free games, including action games, adventure games, board &. card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.
 
-*   Facebook
-*   Google+
-*   Twitter
+Languages
+
+*   Deutsch
+*   Русский
+*   Bahasa Indonesia
+*   Italiano
+*   Français
+*   Türkçe
+*   Nederlands
+
+Copyright © 2018 SPIL GAMES All rights reserved.
 
 *   Terms of Use
 *   Privacy Policy
@@ -376,7 +384,5 @@ Welcome to Agame.com, your zone to play free online games. Stocked each day with
 *   Get Free Games
 *   Help &. Contact
 *   Cookies
-
-Copyright © 2018 SPIL GAMES All rights reserved.
 
 <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=456784054513696&ev=PageView&noscript=1"/>. <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
