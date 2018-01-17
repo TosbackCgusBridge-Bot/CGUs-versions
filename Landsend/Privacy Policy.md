@@ -698,9 +698,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 40% off 1 full-price style!
 
-code: CLOUDY pin: 9126 DETAILS
+code: CHILL pin: 3563 DETAILS
 
 Customer Service Menu
 
