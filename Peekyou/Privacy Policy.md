@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 22%  4% 
+What is PeekScore? Public Records &. Background Checks 17%  3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 22%  4% 
     
 *   Show Less ...
 
-22%  22%  Arrest Records &. Driving Infractions
+16%  16%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,53 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 21%  Twitter 3% 
-
-*   HIV.gov - HIVGov
-    
-*   U.S. FDA - FDArecalls
-    
-*   The Dark Tangent - thedarktangent
-    
-*   U.S. FDA - US\_FDA
-    
-*   Show More ...
-
-*   EuropeanPrivacyAssoc - europeanprivacy
-    
-*   HHS.gov - HHSGov
-    
-*   Federal Reserve - federalreserve
-    
-*   FTC - FTC
-    
-*   NIH - NIH
-    
-*   Microsoft Privacy - MSFTPrivacy
-    
-*   Free Privacy Policy - FreePrivacy1
-    
-*   Cristiano Ronaldo - Cristiano
-    
-*   Bush Library - Bush41Library
-    
-*   HealthCare.gov - HealthCareGov
-    
-*   Mabuhay Miles - PALMabuhayMiles
-    
-*   OAIC - OAICgov
-    
-*   HTC USA - HTCUSA
-    
-*   U.S. Census Bureau - uscensusbureau
-    
-*   Justice Department - TheJusticeDept
-    
-*   CDC - CDCgov
-    
-*   Show Less ...
-
-Instagram 3% 
+Facebook 16%  Twitter 16%  Instagram 3% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -269,7 +223,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Pinterest 21%  Wikipedia 3% 
+Pinterest 16%  Wikipedia 3% 
 
 *   Medana
     
@@ -314,7 +268,7 @@ Google+ 3% 
     
 *   Show Less ...
 
-Linkedin 21%  Music 3% 
+Linkedin 16%  Music 3% 
 
 *   Pandora
     
@@ -489,11 +443,7 @@ Web Search 3% 
 
 Images 3% 
 
-20
-
 32
-
-twitterx
 
 instagramx
 
