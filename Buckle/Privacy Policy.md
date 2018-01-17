@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Make a difference on Martin Luther King Jr. Day! Shop give-back brands.
+Get FREE SHIPPING when you buy online and pick up at your local Buckle. See details..
 
 *   Women
 *   Men
