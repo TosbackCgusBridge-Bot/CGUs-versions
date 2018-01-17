@@ -39,6 +39,7 @@ Show Search Bar
     *   In Depth
     *   SC Magazine Archive
     *   SC Reboot Awards 2017
+    *   Dec./Jan. Reboot 2017
 *   Events
     *   RiskSec Conference NY
     *   Virtual Conferences
