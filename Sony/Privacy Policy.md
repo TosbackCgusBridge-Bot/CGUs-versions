@@ -95,153 +95,7 @@ SONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! Innovative Technology &. Imaginative Ideas That Redefine the Way We Live Our Lives
-
-Check Out Our CES Announcements
-
-Close
-
-*   Share Innovative Technology &. Imaginative Ideas That Redefine the Way We Live Our Lives on Facebook
-*   Share Innovative Technology &. Imaginative Ideas That Redefine the Way We Live Our Lives on Twitter
-*   Copy URL to share Innovative Technology &. Imaginative Ideas That Redefine the Way We Live Our Lives
-
-Check Out Our CES Announcements
-
-<img class="bg-img" class="url(/en\_us/media/content/CES-OOFM\_600x600.jpg);" alt="CES Announcements ">. Everything Else Pales in Contrast
-
-Meet Our Newest OLED TVs
-
-Close
-
-*   Share Everything Else Pales in Contrast on Facebook
-*   Share Everything Else Pales in Contrast on Twitter
-*   Copy URL to share Everything Else Pales in Contrast
-
-Play Everything Else Pales in Contrast Video
-
-Sony on YouTube - Everything Else Pales in Contrast
-
-Play Everything Else Pales in Contrast Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/OLED-TV-CES-600x600.jpg);" alt="CES OLED TV">.
-
-View Xperia XA2 on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/26261980\_137858816893567\_8898762737950130176\_n.jpg);" alt="">.
-
-Sony AI &. Robotics: Xperia Hello, miniture personal robot #SonyCES
-
-6 days ago
-
-View Tweet
-
-Headed to CES?
-
-Get Our App
-
-Close
-
-*   Share Headed to CES? on Facebook
-*   Share Headed to CES? on Twitter
-*   Copy URL to share Headed to CES?
-
-Get Our App
-
-<img class="bg-img" class="url(/en\_us/media/content/CES-App-600x600\_HUVqEaB.jpg);" alt="CES App">. Wireless + Noise Cancelling + Splash Proof =
-
-Nothing Holding You Back
-
-Close
-
-*   Share Wireless + Noise Cancelling + Splash Proof = on Facebook
-*   Share Wireless + Noise Cancelling + Splash Proof = on Twitter
-*   Copy URL to share Wireless + Noise Cancelling + Splash Proof =
-
-Nothing Holding You Back
-
-<img class="bg-img" class="url(/en\_us/media/content/Earbuds-CES-600x600\_OHfk14N.jpg);" alt="Noise Cancelling Sports Earbuds">. New Story with Aibo
-
-Learn More
-
-Close
-
-*   Share New Story with Aibo on Facebook
-*   Share New Story with Aibo on Twitter
-*   Copy URL to share New Story with Aibo
-
-Play New Story with Aibo Video
-
-Sony on YouTube - New Story with Aibo
-
-Play New Story with Aibo Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/05\_mirror002\_600x600.jpg);" alt="Aibo mirror">. Camila Cabello Tops the Charts With “Havana”
-
-Pre-Order Her New Album
-
-Close
-
-*   Share Camila Cabello Tops the Charts With “Havana” on Facebook
-*   Share Camila Cabello Tops the Charts With “Havana” on Twitter
-*   Copy URL to share Camila Cabello Tops the Charts With “Havana”
-
-Pre-Order Her New Album
-
-<img class="bg-img" class="url(/en\_us/media/content/Camila-Cabello-600x600\_XKjGrAB.jpg);" alt="Camila Cabello Havana Video">. Take the Party With You
-
-Wherever You Go
-
-Close
-
-*   Share Take the Party With You on Facebook
-*   Share Take the Party With You on Twitter
-*   Copy URL to share Take the Party With You
-
-Wherever You Go
-
-<img class="bg-img" class="url(/en\_us/media/content/SRS\_XB40\_waterproof-600x600.jpg);" alt="SRS-XB40-Speaker">.
-
-The new Xperia XA2 Ultra, Xperia XA2, and Xperia L2 have been announced.
-
-7 days ago
-
-View Tweet
-
-View FES Watch on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/26153327\_154060871887564\_5400056080543776768\_n.jpg);" alt="">. View the Future, Fantastical World of
-
-“Philip K. Dick’s Electric Dreams”
-
-Close
-
-*   Share View the Future, Fantastical World of on Facebook
-*   Share View the Future, Fantastical World of on Twitter
-*   Copy URL to share View the Future, Fantastical World of
-
-Play View the Future, Fantastical World of Video
-
-Sony on YouTube - View the Future, Fantastical World of
-
-Play View the Future, Fantastical World of Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/ElectricDreams-600x600.jpg);" alt="Electric Dreams">. Taraji P. Henson Like You’ve Never Seen Her
-
-“Proud Mary” in Theaters Friday
-
-Close
-
-*   Share Taraji P. Henson Like You’ve Never Seen Her on Facebook
-*   Share Taraji P. Henson Like You’ve Never Seen Her on Twitter
-*   Copy URL to share Taraji P. Henson Like You’ve Never Seen Her
-
-Play Taraji P. Henson Like You’ve Never Seen Her Video
-
-Sony on YouTube - Taraji P. Henson Like You’ve Never Seen Her
-
-Play Taraji P. Henson Like You’ve Never Seen Her Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/Proud-Mary-600x600v2.jpg);" alt="Proud Mary Trailer">. Justin Timberlake Is Back: Watch His New Video "Filthy"
+search Your browser does not support JavaScript! Justin Timberlake Is Back: Watch His New Video "Filthy"
 
 Pre-Order "Man of the Woods" Today
 
@@ -257,69 +111,53 @@ Sony on YouTube - Justin Timberlake Is Back: Watch His New Video "Filthy"
 
 Play Justin Timberlake Is Back: Watch His New Video "Filthy" Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/JT-Flithy-600x600.jpg);" alt="Justin Timberlake Filthy Video">. Need a Little Extra Motivation to Meet Your 2018 Goals?
+<img class="bg-img" class="url(/en\_us/media/content/JT-Flithy-600x600.jpg);" alt="Justin Timberlake Filthy Video">. Khalid to Perform This Friday at Dreamscape Los Angeles
 
-Check Out Our Wireless Headphones
-
-Close
-
-*   Share Need a Little Extra Motivation to Meet Your 2018 Goals? on Facebook
-*   Share Need a Little Extra Motivation to Meet Your 2018 Goals? on Twitter
-*   Copy URL to share Need a Little Extra Motivation to Meet Your 2018 Goals?
-
-Check Out Our Wireless Headphones
-
-<img class="bg-img" class="url(/en\_us/media/content/BluetoothRunningHeadphones-600x600.jpg);" alt="Wireless headphones">. See The Lights Fest Captured
-
-With the RX0 Camera
+Learn More About #LostInMusic
 
 Close
 
-*   Share See The Lights Fest Captured on Facebook
-*   Share See The Lights Fest Captured on Twitter
-*   Copy URL to share See The Lights Fest Captured
+*   Share Khalid to Perform This Friday at Dreamscape Los Angeles on Facebook
+*   Share Khalid to Perform This Friday at Dreamscape Los Angeles on Twitter
+*   Copy URL to share Khalid to Perform This Friday at Dreamscape Los Angeles
 
-Play See The Lights Fest Captured Video
+Learn More About #LostInMusic
 
-Sony on YouTube - See The Lights Fest Captured
+<img class="bg-img" class="url(/en\_us/media/content/Khalid-600x600.jpg);" alt="Khalid">.
 
-Play See The Lights Fest Captured Video hotspot
+Coming this Friday to #LostInMusic LA is an exclusive preview of the #AVO576, a 576-speaker immersive sound experience that will transport you into the "Dreamscape," a space designed specifically around the headline artists.
 
-<img class="bg-img" class="url(/en\_us/media/content/RX0-DearFutureMe-600x600.jpg);" alt="The Lights Fest Video">.
-
-Drum roll please. Here’s the most popular catalog items that Sony Rewards members redeemed their points for in 2017.
-
-7 days ago
+23 hours ago
 
 View Tweet
 
-View Pick a Size on Instagram
+View All about ambiance. on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/25036763\_1924635334464548\_566646760621998080\_n.jpg);" alt="">. Power Up With This
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/a792b1a1f97e73033992367d2849b29f/5AD7F0AB/t51.2885-15/e35/22500321\_1966987423570815\_11865641724149760\_n.jpg);" alt="">. Hear What You Want,
 
-Sony Music Playlist
-
-Close
-
-*   Share Power Up With This on Facebook
-*   Share Power Up With This on Twitter
-*   Copy URL to share Power Up With This
-
-Sony Music Playlist
-
-<img class="bg-img" class="url(/en\_us/media/content/Workout-Playlist-600x600v3\_b9WJ8Rg.jpg);" alt="Workout Playlist">. Make the New Year More Rewarding
-
-Learn More About the Sony Card
+The Way You Want
 
 Close
 
-*   Share Make the New Year More Rewarding on Facebook
-*   Share Make the New Year More Rewarding on Twitter
-*   Copy URL to share Make the New Year More Rewarding
+*   Share Hear What You Want, on Facebook
+*   Share Hear What You Want, on Twitter
+*   Copy URL to share Hear What You Want,
 
-Learn More About the Sony Card
+The Way You Want
 
-<img class="bg-img" class="url(/en\_us/media/content/18298\_Sony-Card\_Online-Holiday-Media\_600x600\_W2\_r02\_Festive-V2\_X3qosMX.jpg);" alt="Sony Credit Card">. This Year We’re Creating Unforgettable New Musical Experiences
+<img class="bg-img" class="url(/en\_us/media/content/Headphones-600x600\_pVFsWX9.jpg);" alt="1000XM2 Wireless Noise-Canceling Headphones">. Bring the Energy to the Party
+
+With the SRS-XB40 Speaker
+
+Close
+
+*   Share Bring the Energy to the Party on Facebook
+*   Share Bring the Energy to the Party on Twitter
+*   Copy URL to share Bring the Energy to the Party
+
+With the SRS-XB40 Speaker
+
+<img class="bg-img" class="url(/en\_us/media/content/SRS-XB41-600x600\_DKAIebw.jpg);" alt="SRS-XB40">. This Year We’re Creating Unforgettable New Musical Experiences
 
 Get Lost in Music
 
@@ -331,7 +169,169 @@ Close
 
 Get Lost in Music
 
-<img class="bg-img" class="url(/en\_us/media/content/sony\_site\_600x600.jpg);" alt="Lost In Music">.
+<img class="bg-img" class="url(/en\_us/media/content/sony\_site\_600x600.jpg);" alt="Lost In Music">. Return to Blackwood Sanatorium in “The Inpatient”
+
+Pre-Order the PS VR Exclusive
+
+Close
+
+*   Share Return to Blackwood Sanatorium in “The Inpatient” on Facebook
+*   Share Return to Blackwood Sanatorium in “The Inpatient” on Twitter
+*   Copy URL to share Return to Blackwood Sanatorium in “The Inpatient”
+
+Pre-Order the PS VR Exclusive
+
+<img class="bg-img" class="url(/en\_us/media/content/The-Inpatient-600x600\_VPY5Sdp.jpg);" alt="The Inpatient">. A Phone Display Made For
+
+Big-Screen Entertainment
+
+Close
+
+*   Share A Phone Display Made For on Facebook
+*   Share A Phone Display Made For on Twitter
+*   Copy URL to share A Phone Display Made For
+
+Big-Screen Entertainment
+
+<img class="bg-img" class="url(/en\_us/media/content/Xperia-XA2-Ultra-600x600\_tC7QOP2.jpg);" alt="Xperia XA2 Ultra">.
+
+Add a whole new dimension to your home (or anywhere) with the #XperiaTouch. See it now at #SonySquareNYC.
+
+21 hours ago
+
+View Tweet
+
+View PS VR on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/e36258deb95631f8eb342e4d0467cd2e/5AD94158/t51.2885-15/e35/25024564\_317091445469955\_5613945688107778048\_n.jpg);" alt="">. Watch a Clip From "Call Me By Your Name"
+
+Now In Theaters
+
+Close
+
+*   Share Watch a Clip From "Call Me By Your Name" on Facebook
+*   Share Watch a Clip From "Call Me By Your Name" on Twitter
+*   Copy URL to share Watch a Clip From "Call Me By Your Name"
+
+Play Watch a Clip From "Call Me By Your Name" Video
+
+Sony on YouTube - Watch a Clip From "Call Me By Your Name"
+
+Play Watch a Clip From "Call Me By Your Name" Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Call-Me-600x600.jpg);" alt="Call Me By Your Name Clip">. View the Future, Fantastical World of
+
+“Philip K. Dick’s Electric Dreams”
+
+Close
+
+*   Share View the Future, Fantastical World of on Facebook
+*   Share View the Future, Fantastical World of on Twitter
+*   Copy URL to share View the Future, Fantastical World of
+
+Play View the Future, Fantastical World of Video
+
+Sony on YouTube - View the Future, Fantastical World of
+
+Play View the Future, Fantastical World of Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/ElectricDreams-600x600.jpg);" alt="Electric Dreams">. New Story With Aibo
+
+Learn More
+
+Close
+
+*   Share New Story With Aibo on Facebook
+*   Share New Story With Aibo on Twitter
+*   Copy URL to share New Story With Aibo
+
+Play New Story With Aibo Video
+
+Sony on YouTube - New Story With Aibo
+
+Play New Story With Aibo Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/05\_mirror002\_600x600.jpg);" alt="Aibo mirror">. Reimagine Your Living Space
+
+With a 4K Projector
+
+Close
+
+*   Share Reimagine Your Living Space on Facebook
+*   Share Reimagine Your Living Space on Twitter
+*   Copy URL to share Reimagine Your Living Space
+
+Play Reimagine Your Living Space Video
+
+Sony on YouTube - Reimagine Your Living Space
+
+Play Reimagine Your Living Space Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Short-Throw-Projector-600x600.jpg);" alt="CES Short Throw Projector">. Introducing Our Newest Camera Lens
+
+Check It Out
+
+Close
+
+*   Share Introducing Our Newest Camera Lens on Facebook
+*   Share Introducing Our Newest Camera Lens on Twitter
+*   Copy URL to share Introducing Our Newest Camera Lens
+
+Check It Out
+
+<img class="bg-img" class="url(/en\_us/media/content/Lens-600x600.jpg);" alt="Camera Lens">.
+
+View X900F 4K HDR TV on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/5b880fe0e088e8e14f9569625eb0890f/5AFB544B/t51.2885-15/e35/26070629\_2042362989341853\_8606274520199725056\_n.jpg);" alt="">.
+
+Viva Las Vegas – The #SonyCES round-up featuring. the Xperia XA2, XA2 Ultra and Xperia L2. Selfie lovers rejoice!
+
+22 hours ago
+
+View Tweet
+
+Big Surround Sound,
+
+Small Soundbar
+
+Close
+
+*   Share Big Surround Sound, on Facebook
+*   Share Big Surround Sound, on Twitter
+*   Copy URL to share Big Surround Sound,
+
+Small Soundbar
+
+<img class="bg-img" class="url(/en\_us/media/content/Soundbar-600x600\_Vv0zI4k.jpg);" alt="CES Soundbar">. Wireless + Noise Cancelling + Splash Proof =
+
+Nothing Holding You Back
+
+Close
+
+*   Share Wireless + Noise Cancelling + Splash Proof = on Facebook
+*   Share Wireless + Noise Cancelling + Splash Proof = on Twitter
+*   Copy URL to share Wireless + Noise Cancelling + Splash Proof =
+
+Nothing Holding You Back
+
+<img class="bg-img" class="url(/en\_us/media/content/Earbuds-CES-600x600\_OHfk14N.jpg);" alt="Noise Cancelling Sports Earbuds">. Become a Hunter, Discover New Lands, and Slay the Beasts
+
+Play “Monster Hunter: World” on PS4™ Next Week
+
+Close
+
+*   Share Become a Hunter, Discover New Lands, and Slay the Beasts on Facebook
+*   Share Become a Hunter, Discover New Lands, and Slay the Beasts on Twitter
+*   Copy URL to share Become a Hunter, Discover New Lands, and Slay the Beasts
+
+Play Become a Hunter, Discover New Lands, and Slay the Beasts Video
+
+Sony on YouTube - Become a Hunter, Discover New Lands, and Slay the Beasts
+
+Play Become a Hunter, Discover New Lands, and Slay the Beasts Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Monster-Hunter-600x600\_xnC1lFW.jpg);" alt="Monster Hunter: World Trailer">.
 
 Load More
 
@@ -378,6 +378,6 @@ For ProfessionalsCareersContact UsCompany InfoVoluntary Recall
 *   Follow us on Tumblr
 *   Visit us on Tumblr
 
-FacebookTwitterInstagramTumblr© 2017 SONY CORPORATION OF AMERICA
+FacebookTwitterInstagramTumblr© 2018 SONY CORPORATION OF AMERICA
 
 Terms and ConditionsPrivacy Policy/Your California Privacy Rights
