@@ -45,13 +45,13 @@ Your Choices
 
 Click here for more information
 
-*   You can stop receiving promotional email or postal communications from P&G by following the instructions in those messages, or through this Privacy Notice. Please click here to select your country and learn how to unsubscribe.
-*   Click here to select your country and learn how to access and update information you provide to P&G.
+*   You can stop receiving promotional email or postal communications from P&G by following the instructions in those messages, or through this Privacy Notice. Please click here to select your country / region and learn how to unsubscribe.
+*   Click here to select your country / region and learn how to access and update information you provide to P&G.
 
 Important Information
 
 *   P&G is committed to working with consumers and data protection authorities to resolve any privacy concern.
-*   P&G complies with country data protection laws.
+*   P&G complies with country / region data protection laws.
 
   
 Links to Third-Party Sites and Social Media
@@ -66,7 +66,7 @@ Click here for more information
   
 How to Contact Us
 
-*   Click here (for country specific email and/or postal addresses).
+*   Click here (for country / region specific email and/or postal addresses).
 *   Click here to view answers to Frequently Asked Questions.
 
 *   Facebook
