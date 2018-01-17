@@ -1,9 +1,7 @@
-Playoffs - DIVISIONAL
+Playoffs - CONFERENCE
 
-*   ATL11-710PHI14-315Final
-*   TEN10-814NE14-335Final
-*   JAX12-645PIT13-442Final
-*   NO12-624MIN14-329Final
+*   JAX12-6NE14-3Sun 3:05 PM ET
+*   MIN14-3PHI14-3Sun 6:40 PM ET
 
 *   News
 *   Scores
@@ -22,12 +20,10 @@ Playoffs - DIVISIONAL
 *   NFL Network
 *   Photos
 
-Playoffs - DIV
+Playoffs - CON
 
-*   ATL10PHI15Final
-*   TEN14NE35Final
-*   JAX45PIT42Final
-*   NO24MIN29Final
+*   JAX12-6NE14-3Sun 3:05 PM ET
+*   MIN14-3PHI14-3Sun 6:40 PM ET
 
 *   News
 *   Scores
