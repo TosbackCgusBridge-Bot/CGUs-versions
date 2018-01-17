@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 2 Mentions, 11.1K Mention Reach, 23 Likes, 10 Retweets, 17.1K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Jbgr…
+
+About 5 hours ago
+
+BTS look with @Requidan &. @IESBD Fred Diamond in our studio recording #salesgamechangerspodcast coming out soon! pic.twitter.com/j3P8…
+
+About 14 hours ago
+
+Our biggest fans this week: @Beet\_TV, @IndexExchange, @TheFinanceGenie. Thank you! via sumall.com/thankyou?… pic.twitter.com/QZNF…
+
+About 16 hours ago
+
 Check out what our Senior BizDev Manager @mrmistry is saying about @facebook's Newsfeed and where publishers will find the greatest success econtentmag.com/Arti… via @econtentmag twitter.com/blastpr/…
 
-About 9 hours ago
+About a day ago
 
 Always look forward to discussing important industry topics with @Beet\_TV ! Thanks for having us. #CES2018 @Requidan twitter.com/Beet\_TV/…
 
-About 4 days ago
-
-Thanks @OpenX for a fun happy hour last night at @AriaLV Javier's! Great convos with buyers, sellers and everyone in ad tech @Requidan @stephsnowint @Nicole\_Kosar pic.twitter.com/dAcq…
-
 About 5 days ago
-
-My week on Twitter : 1 Mention, 29 Mention Reach, 5 Likes, 3 Retweets, 1.61K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/8PRB…
-
-About 6 days ago
-
-Great chat with our friends @IndexExchange at #CES2018 @Requidan @stephsnowint @Nicole\_Kosar @Cosmopolitan\_LV pic.twitter.com/cHsc…
-
-About 6 days ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
@@ -166,5 +166,5 @@ solutions@intermarket.net
 Reston VA, 20190
 
 Home | About | Advertisers | Our Sites | Blog | Careers | Contact  
-Copyright © 2017 Intermarkets, Inc. All rights reserved.  
+Copyright © 2018 Intermarkets, Inc. All rights reserved.  
 Terms and Conditions | Privacy Policy | Log In
