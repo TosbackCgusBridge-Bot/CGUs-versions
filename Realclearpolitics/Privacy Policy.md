@@ -101,43 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Victor Davis Hanson_: What the 'Dreamer' Fight Is Really About
+*   _Gov. Rick Scott_: DACA and Border Security Are Just Common Sense
     
-*   _Charles Blow_: Trump Is a Racist. Period.
+*   _Robert Kuttner_: How Do You Say Sh\*thole in Norwegian?
     
-*   _Ryan Saavedra_: Durbin Has a History of Lying About Private Meetings
+*   _William McGurn_: Wanted: An Honest FBI
     
-*   _Rep. Henry Cuellar_: The Answer to Border Security Is Technology, Not Wall
+*   _Abigail Tracy_: Will Bannon Sink Kushner?
     
-*   _Will Wilkinson_: Democrats, Make a Deal With Trump to Protect Dreamers
+*   _Nile Gardiner_: Time to Admit Trump's Foreign Policy Has Been a Triumph
     
-*   _Jonah Goldberg_: Trump's Authentic Asininity
+*   _Alfred McCoy_: Fortress America Is Crumbling
     
-*   _Brandon Weichert_: America Needs a Plumber, Not a Politician
+*   _Philip Wegmann_: Left Cries 'Dictator' at Trump, Then Cedes Him Power
     
-*   _Katha Pollitt_: The Moment When Women Unleash Decades of Pent-Up Anger
+*   _Sen. Bernie Sanders_: Let's Wrench Back Power From the Billionaires
     
-*   _Heather Mac Donald_: Policing Sexual Desire: #MeToo's Impossible Premise
+*   _Roger Kimball_: Friedrich Hayek's Enduring Legacy
     
-*   _Lauren Collins_: Why Did Prominent Frenchwomen Denounce #MeToo?
+*   _Bari Weiss_: Aziz Ansari Is Guilty. Of Not Being a Mind Reader.
     
-*   _John Moody_: Is Coal the New Gold? A PA Senate Candidate Thinks So
+*   _Jill Filipovic_: Poorly Reported Aziz Ansari Expose Was Missed Opportunity
     
-*   _Jeffrey Sachs_: New York City's Bold Bid for Climate Justice
+*   _Leonid Bershidsky_: Trump Is Helping to Make Elites Great Again
     
-*   _Robert Natelson_: A Link Between Obama's Departure, Your Increasing Wealth
+*   _Myron Magnet_: Trump to PC: No More!
     
-*   _William Barber_: America's Addiction to Racism, Poverty and Militarism
+*   _Masha Gessen_: How Donald Trump Degrades Us All
     
-*   _Shelby Steele_: Black Protest Has Lost Its Power
+*   _Victor Davis Hanson_: President Nobama
     
-*   _Colin Dueck_: Trump's National Security Strategy: 10 Big Priorities
+*   _Amie Parnes_: Dems Search for Winning Playbook
     
-*   _Van Jackson_: Want to Strike North Korea? It Won't Go the Way You Think.
+*   _Rep. Tom McClintock_: The Question Democrats Fear Most
     
-*   _Caitlin Huey-Burns_: Trump Imperils Economic Gains as 2018 Republican Issue
+*   _Paul Krugman_: Know-Nothings for the 21st Century
     
-*   _David Ignatius_: N. Korean Nuclear Crisis Will Resume After Olympics
+*   _Wesley Pruden_: Dems Decree Death in the Swamp for the Dreamers
+    
+*   _Eugene Robinson_: Trump Rejects American Ideals of Diversity
+    
+*   _Jonah Goldberg_: What If Diversity Isn't America's Strength?
+    
+*   _Ross Baker_: Trump's 1st Year Made Me Rethink My American Govt Class
+    
+*   _David Faris_: Hawaii's False Alarm Should Be a Wake Up Call for Us All
+    
+*   _Jamelle Bouie_: The Lasting Damage of Donald Trump's Bigotry
     
 
 *   Previous
@@ -258,12 +268,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve45
+    *   Disapprove54Disapprove +9
 *   President Trump Job ApprovalGallup
     *   Approve38
     *   Disapprove57Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove52Disapprove +6
 *   Direction of CountryRasmussen Reports
     *   Right Direction40
     *   Wrong Track54Wrong Track +14
@@ -273,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Mark Levin Rips Mueller: Where's Your Case? It's Been Eight Months. Give Us Your Collusion Case.
-*   Sen. Rand Paul: Can't Have An Immigration Compromise If Everyone Is Calling President "Racist"
-*   Hawaii Rep. Tulsi Gabbard: "Decades-Long Regime Change Policy" Is Cause Of North Korean Nuclear Threat
-*   GOP Rep. Mia Love on 'Shithole' Controversy: "We Cannot Let This Derail Us" From Fixing DACA
-*   Sen. Durbin: Term "Chain Migration" Is Offensive To Those Whose Ancestors Came To U.S. "In Chains"
+*   Jeff Sessions: "What Good Does It Do To Bring In Somebody Who Is Illiterate In Their Own Country?"
+*   Kamala Harris to Kirstjen Nielsen: "Reasonable Inference" That You Are A Racist
+*   Cory Booker: "I Am Frankly Seething With Anger" Over Trump Comments, "Had Tears Of Rage"
+*   Sarah Sanders: Actually, Merit-Based Immigration System Is More Fair, Less Racist
+*   Cotton: Trump "Already Made Fundamental Concession" on DACA, Democrats Must Compromise
 
 *   Politics
 *   Policy
