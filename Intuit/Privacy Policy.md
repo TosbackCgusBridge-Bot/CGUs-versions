@@ -7,7 +7,7 @@
     *   Rewards
     *   My List
     *   Gift Registry
-    *   My Jcpenney.com
+    *   My Jcpenney.comTrack MyOrders
 
 SHOP DEPARTMENTS
 
@@ -35,373 +35,271 @@ SHOP DEPARTMENTS
 *   My List
 *   Coupons
 
-My StoreNorthfld @ Stapleton Change My Store Find a StoreBack FINAL HOURS! COUPON CODE DEAL62 ENDS IN 0 0 0 0 Days 0 0 0 0 hours 3 3 9 9 mins 4 4 4 4 secs 3CC45767-B846-491D-82D8-794D25E7228FDF100ADC-F3E9-4171-B1EE-058720FE99CDF052C3FB-E4FA-4F2F-B79D-42ABF565E491DAB76EF1-C61A-4E9D-AFB8-56D64DA737A15D42282A-91F8-4B40-97F9-0EEB6F6BFA5F668223A1-72DC-4DFC-BE52-40C17E5FEE491432C116-F41B-42E2-848E-2D44189B91067B496B08-0D38-4AA8-9F4F-82674869EDEA38EB52F4-69A2-4FBF-9B18-E2CD34F9781A976491A8-E8BA-4AAD-9730-6F9CBDC8F2BF46E5D142-C946-46F1-B159-B709BAE62AFF79B12579-90BE-47A4-92E0-013FED3DBDED90A39209-617B-431B-8E2E-3669E5190E06F8CA3A65-9A76-4255-B64B-79E1C73AB9A8DAB76EF1-C61A-4E9D-AFB8-56D64DA737A18C0484FF-ACF6-4250-A6F2-82E42A1251535839B181-36FD-4153-962C-B04D1E7432D231BCB86C-0544-4300-9DE2-F802C62999EE64C61DA7-D79B-4874-9777-B6FBF90AB7895E577DF8-FA90-43D0-91D0-EE410F445CBB8B0FDD24-F4B1-4079-852B-2A7A09470E5C49AA578B-2A26-4D00-B4D9-C87F9A1DE2FDB501EE5C-B375-4FEA-AA4A-EBC34F4064CB46235D25-F3F7-4F4C-845D-ABB7F88EE63F6458B170-1EB9-4CBD-815E-0CCB8FC3C5382812F50A-0444-4837-8CB0-9700C456E0CFC4AD5B28-FCAE-4807-8C32-CBC3DADCA3F1D1E47448-5A9D-45C8-8365-C05A970A295F8970DDDE-778D-46E9-9B84-C11C38D7428180B4D823-FAF4-4AD3-9BF9-295D1C4387489C395E0A-63BE-4A89-A5D1-64C036CFEC00534CFD99-0060-4843-BFCE-7D9BA55C271E5B925E09-4E34-4F4C-A90B-146A6A5AE196C21A5B38-2758-4ED4-9609-77E2C1B1B7E4A252BB8B-5BBE-46E5-AD2B-E7B55E6D9B718B0FDD24-F4B1-4079-852B-2A7A09470E5CBAD06B59-AF93-4AF7-A8F7-1DA9B715A1E7DF7092CB-997D-4C45-BE78-4AD3D537E6FD86CC0931-FA08-4A92-9304-BA35D3FFC637B637D2EF-1380-4874-AB9E-5FBCEE25CE67 81E7AA6D-A54D-4E1A-8B86-969596D3514E3CC45767-B846-491D-82D8-794D25E7228Ficon/ALL/conversation-lineD117C0A9-CFCB-4CF5-A910-0DE33D72E7B0IconDAB76EF1-C61A-4E9D-AFB8-56D64DA737A15F400C74-D128-4777-800D-7BC41E359DF9682D6825-8DE7-4A70-A714-7424D5432720792B306D-00FA-43E7-BB08-0058D9A5FCA7521C0A39-AC08-4AF1-B60C-5DCC8FDA86F04EDDAB3D-B9A2-4E05-8FA8-7E6E4AF1127219249671-EE5F-4059-AC46-D8B7277F6ADFFD9D8A57-5829-4DE8-B2C0-FF737BC815BB5E0F35A1-D109-43F5-A370-01C0C7E684BA5B042BA6-5AB6-4475-B9CE-78FB8E6ADF0B5EA0826A-68F0-4C29-A591-BCF4DC17EA648970DDDE-778D-46E9-9B84-C11C38D7428185F697B5-F536-4132-B990-CC10B3C15B14Gallery - Video Icon - Lg + XL50 - 60% OFF WOMEN'S XERSIONSHOP ALL50 - 60% OFF WOMEN'S XERSIONSHOP ALL
+My StoreNorthfld @ Stapleton Change My Store Find a StoreBack DAY 1 OF COUPON CODE 47BUYNOW ENDS IN
 
-*   $13.99 sale
-    
-    was $37
-    
-    Xersion Brushed Fleece Funnel Pullover ★★★★★★★★★★(9)
-*   $16.99 sale
-    
-    was $44
-    
-    Xersion Packable Puffer Vest ★★★★★★★★★★(14)
-*   $9.99 sale
-    
-    was $27
-    
-    Xersion Studio Lightweight Sweatshirt ★★★★★★★★★★(58)
-*   $17.99 sale
-    
-    was $37
-    
-    Xersion Studio Yoga Slim Pant ★★★★★★★★★★(26)
-*   $13.99 sale
-    
-    was $37
-    
-    Xersion Brushed Fleece Zip Hoodie ★★★★★★★★★★(5)
-*   $14.99 sale
-    
-    was $39
-    
-    Xersion Quarter-Zip Pullover ★★★★★★★★★★(12)
-*   $17.99 sale
-    
-    was $37
-    
-    Xersion Tunic Pullover Hoodie ★★★★★★★★★★(1)
-*   $12.99 sale
-    
-    was $27
-    
-    Xersion Medium Support Sports Bra ★★★★★★★★★★(6)
-*   $18.99 sale
-    
-    was $49
-    
-    Xersion Performance Track Leggings with Mesh Insets ★★★★★★★★★★(12)
-*   $17.99 sale
-    
-    was $37
-    
-    Xersion Studio Knit Joggers ★★★★★★★★★★(10)
-*   $17.99 sale
-    
-    was $37
-    
-    Xersion Studio Yoga Bootcut Pants ★★★★★★★★★★(4)
-*   $21.99 sale
-    
-    was $44
-    
-    Xersion™ Essential Side Pocket Performance Capris ★★★★★★★★★★(90)
-*   $12.99 sale
-    
-    was $27
-    
-    Xersion Studio Capris ★★★★★★★★★★(10)
-*   $13.99 sale
-    
-    was $37
-    
-    Xersion Velour Track Jogger Pants ★★★★★★★★★★(9)
-*   $17.99 sale
-    
-    was $37
-    
-    Xersion Studio Full Zip Hoodie ★★★★★★★★★★(26)
+\*Offer ends on 01/20/18
 
-SAVE ON FITNESS MONITORSSHOP ALLSAVE ON FITNESS MONITORSSHOP ALL
+0 0 0 0 Days 0 0 0 0 hours 3 3 8 8 mins 5 5 9 8 secs 3CC45767-B846-491D-82D8-794D25E7228FDF100ADC-F3E9-4171-B1EE-058720FE99CDF052C3FB-E4FA-4F2F-B79D-42ABF565E491DAB76EF1-C61A-4E9D-AFB8-56D64DA737A15D42282A-91F8-4B40-97F9-0EEB6F6BFA5F668223A1-72DC-4DFC-BE52-40C17E5FEE491432C116-F41B-42E2-848E-2D44189B91067B496B08-0D38-4AA8-9F4F-82674869EDEA38EB52F4-69A2-4FBF-9B18-E2CD34F9781A976491A8-E8BA-4AAD-9730-6F9CBDC8F2BF46E5D142-C946-46F1-B159-B709BAE62AFF79B12579-90BE-47A4-92E0-013FED3DBDED90A39209-617B-431B-8E2E-3669E5190E06F8CA3A65-9A76-4255-B64B-79E1C73AB9A8DAB76EF1-C61A-4E9D-AFB8-56D64DA737A18C0484FF-ACF6-4250-A6F2-82E42A1251535839B181-36FD-4153-962C-B04D1E7432D231BCB86C-0544-4300-9DE2-F802C62999EE64C61DA7-D79B-4874-9777-B6FBF90AB7895E577DF8-FA90-43D0-91D0-EE410F445CBB8B0FDD24-F4B1-4079-852B-2A7A09470E5C49AA578B-2A26-4D00-B4D9-C87F9A1DE2FDB501EE5C-B375-4FEA-AA4A-EBC34F4064CB46235D25-F3F7-4F4C-845D-ABB7F88EE63F6458B170-1EB9-4CBD-815E-0CCB8FC3C5382812F50A-0444-4837-8CB0-9700C456E0CFC4AD5B28-FCAE-4807-8C32-CBC3DADCA3F1D1E47448-5A9D-45C8-8365-C05A970A295F8970DDDE-778D-46E9-9B84-C11C38D7428180B4D823-FAF4-4AD3-9BF9-295D1C4387489C395E0A-63BE-4A89-A5D1-64C036CFEC00534CFD99-0060-4843-BFCE-7D9BA55C271E5B925E09-4E34-4F4C-A90B-146A6A5AE196C21A5B38-2758-4ED4-9609-77E2C1B1B7E4A252BB8B-5BBE-46E5-AD2B-E7B55E6D9B718B0FDD24-F4B1-4079-852B-2A7A09470E5CBAD06B59-AF93-4AF7-A8F7-1DA9B715A1E7DF7092CB-997D-4C45-BE78-4AD3D537E6FD86CC0931-FA08-4A92-9304-BA35D3FFC637B637D2EF-1380-4874-AB9E-5FBCEE25CE67 81E7AA6D-A54D-4E1A-8B86-969596D3514E3CC45767-B846-491D-82D8-794D25E7228Ficon/ALL/conversation-lineD117C0A9-CFCB-4CF5-A910-0DE33D72E7B0IconDAB76EF1-C61A-4E9D-AFB8-56D64DA737A15F400C74-D128-4777-800D-7BC41E359DF9682D6825-8DE7-4A70-A714-7424D5432720792B306D-00FA-43E7-BB08-0058D9A5FCA7521C0A39-AC08-4AF1-B60C-5DCC8FDA86F04EDDAB3D-B9A2-4E05-8FA8-7E6E4AF1127219249671-EE5F-4059-AC46-D8B7277F6ADFFD9D8A57-5829-4DE8-B2C0-FF737BC815BB5E0F35A1-D109-43F5-A370-01C0C7E684BA5B042BA6-5AB6-4475-B9CE-78FB8E6ADF0B5EA0826A-68F0-4C29-A591-BCF4DC17EA648970DDDE-778D-46E9-9B84-C11C38D7428185F697B5-F536-4132-B990-CC10B3C15B14Gallery - Video Icon - Lg + XLBUY 1 GET 1 50% OFF ON SKECHERSSHOP ALLBUY 1 GET 1 50% OFF ON SKECHERSSHOP ALL
 
-*   $39.99 sale
+*   $85
     
-    was $59
+    Skechers® Rayland Mens Casual Slip-On Shoes ★★★★★★★★★★(180)
+*   $65
+    
+    Skechers Full Circle Womens Sneakers ★★★★★★★★★★(251)
+*   $65
+    
+    Skechers D'Lites Me Time Womens Sneakers ★★★★★★★★★★(666)
+*   $65
+    
+    Skechers D'Lites Biggest Fan Womens Sneakers ★★★★★★★★★★(312)
+*   $65
+    
+    Skechers D'Lites Fresh Start Womens Sneakers ★★★★★★★★★★(677)
+*   $45
+    
+    Skechers Bobs Peace And Love Womens Slip-On Shoes ★★★★★★★★★★(172)
+*   $65
+    
+    Skechers Play On Womens Sneakers ★★★★★★★★★★(108)
+*   $55
+    
+    Skechers Bobs Chill Luxe Buttoned Up Womens Slip-On Shoes ★★★★★★★★★★(38)
+*   $65
+    
+    Skechers® Go Walk 4 Pursuit Slip-On Womens Sneakers ★★★★★★★★★★(325)
+*   $75
+    
+    Skechers® After Burn Memory Fit Mens Athletic Shoes ★★★★★★★★★★(607)
+*   $65
+    
+    Skechers Going Places Womens Sneakers ★★★★★★★★★★(251)
+*   $65
+    
+    Skechers Light Womens Sneakers ★★★★★★★★★★(42)
+*   $65
+    
+    Skechers Go Walk 4 Mens Walking Shoes ★★★★★★★★★★(81)
+*   $70
+    
+    Skechers Flex Appeal 2.0 Womens Sneakers ★★★★★★★★★★(151)
+*   $75
+    
+    Skechers® Cutback Mens Training Shoes ★★★★★★★★★★(107)
+
+FITNESS MONITORSSHOP ALLFITNESS MONITORSSHOP ALL
+
+*   BEST VALUE!
+    
+    $49.99
+    
+    Supersonic® Power X Fit Band
+*   BEST VALUE!
+    
+    $229.99
+    
+    Spree Wearables SmartCap Fitness Monitor
+*   $59
     
     Nuband Activity and Sleep Tracker
-*   $49.99 sale
+*   BUY MORE AND SAVE WITH CODE: 47BUYNOW
     
-    was $80
+    $80
     
     Nuband Activity and Sleep Tracking Sport Watch ★★★★★★★★★★(43)
-*   $79.99 sale
-    
-    was $109.99
+*   $109.99
     
     Nuband Flash Heart Rate Monitor &. Activity Tracker ★★★★★★★★★★(1)
-*   $49.99 sale
-    
-    was $79.99
+*   $79.99
     
     Nuband Activ2+ Activity Tracker
-*   $69.99 sale
-    
-    was $99.99
+*   $99.99
     
     Nuband I Touch Screen Fitness and Notification Band ★★★★★★★★★★(1)
-*   $49.99 sale
+*   BUY MORE AND SAVE WITH CODE: 47BUYNOW
     
-    was $80
+    $80
     
     Nuband Activity and Sleep Tracking Sport Watch ★★★★★★★★★★(22)
-*   $43.96 sale
+*   $66.99
     
-    was $54.95
+    Striiv Fusion 2 Activity Tracker + Smart Watch
+*   $83.59
     
-    Timex® Ironman Mens Black Digital Chronograph Watch 5E901 ★★★★★★★★★★(2)
-*   $63.96 sale
+    Striiv Fusion Bio 2 Activity Tracker + Heart Rate
+*   $99.99
     
-    was $79.95
+    Misfit Ray Activity Tracker ★★★★★★★★★★(292)
+*   BEST VALUE!
     
-    Timex® Expedition Mens Digital Chronograph Sport Watch ★★★★★★★★★★(1)
-*   $39.96 sale
+    $119.99
     
-    was $49.95
+    Misfit Ray With Leather Band Fitness Tracker
+*   BUY MORE AND SAVE WITH CODE: 47BUYNOW
     
-    Timex® Expedition Mens Digital Compass Watch ★★★★★★★★★★(3)
-*   $143.96 sale
-    
-    was $179.95
-    
-    Polar® FT60M Mens Heart-Rate Monitor Chronograph Black Strap Watch
-*   $9.99 sale
-    
-    was $20
-    
-    Womens Digital Sport Watch ★★★★★★★★★★(6)
-*   $24.99 sale
-    
-    was $34
-    
-    Armitron® Womens Pink Chronograph Digital Sport Watch 45/7012PNK
-*   $24.99 sale
-    
-    was $34
-    
-    Armitron® Plastic Chronograph Watch
-*   $49.99 sale
-    
-    was $80
+    $80
     
     Nuband Activ+ Activity and Sleep Tracking Sport Watch
-*   $9.99 sale
+*   $99.99
     
-    was $20
+    Misfit Shine 2 - Fitness + Sleep Monitor ★★★★★★★★★★(217)
+*   BEST VALUE!
     
-    Womens Nylon Strap Digital Sport Watch
+    $29.99
+    
+    Misfit Ray MIS9006 Minimalist 3-Pack ★★★★★★★★★★(2)
 
-50 - 60% OFF MEN'S XERSIONSHOP ALL50 - 60% OFF MEN'S XERSIONSHOP ALL
+BUY 1 GET 1 50% OFF SELECT BRASSHOP ALLBUY 1 GET 1 50% OFF SELECT BRASSHOP ALL
 
-*   $17.99 sale
+*   $38
     
-    was $36
+    Vanity Fair® Body Shine® Floral Underwire Bra - 75297 ★★★★★★★★★★(214)
+*   $30
     
-    Xersion Long Sleeve Fleece Hoodie ★★★★★★★★★★(13)
-*   $19.99 sale
+    Underscore® Comfort Strap Wireless Bra ★★★★★★★★★★(658)
+*   $30
     
-    was $40
+    Underscore® Bra, Comfortable No-Wire ★★★★★★★★★★(301)
+*   $42
     
-    Xersion Long Sleeve Fleece Hoodie ★★★★★★★★★★(13)
-*   $12.99 sale
+    Playtex Love My Curves Incredibly Smooth Breathably Cool Lightly Lined Underwire Bra- USJ493 ★★★★★★★★★★(5)
+*   $42
     
-    was $26
+    Playtex Foam Lace Plunge Full Coverage Bra-Us4514 ★★★★★★★★★★(24)
+*   $39
     
-    Xersion Long Sleeve Crew Neck T-Shirt ★★★★★★★★★★(3)
-*   $10.99 - $11.99 sale
+    Leading Lady® Lace Underwire Bra ★★★★★★★★★★(54)
+*   $38
     
-    was $30
+    Leading Lady® Underwire Balconette T-Shirt Bra
+*   $38
     
-    Xersion™ Xtreme Basketball Shorts ★★★★★★★★★★(181)
-*   $17.99 sale
+    Leading Lady® Wireless Lace Cup Bra ★★★★★★★★★★(2)
+*   $20
     
-    was $36
+    Flirtitude Scallop Triangle Bralette ★★★★★★★★★★(2)
+*   $38
     
-    Xersion Long Sleeve Fleece Hoodie ★★★★★★★★★★(2)
-*   $9.99 sale
+    Leading Lady® Full Figure Underwire Padded T-Shirt Bra ★★★★★★★★★★(111)
+*   $38
     
-    was $20
+    Leading Lady® Underwire Front-Close Racerback T-Shirt Bra ★★★★★★★★★★(58)
+*   $27
     
-    Xersion™ Power Tee ★★★★★★★★★★(96)
-*   $19.99 sale
+    Xersion Medium Support Sports Bra ★★★★★★★★★★(6)
+*   $30
     
-    was $40
+    Underscore® Unlined Underwire Bra ★★★★★★★★★★(151)
+*   $27
     
-    Xersion Jogger Pants ★★★★★★★★★★(12)
-*   $22.99 sale
+    Xersion Peace Back Bra
+*   $22
     
-    was $44
-    
-    Xersion Training Fleece Tapered Pant
-*   $22.99 sale
-    
-    was $44
-    
-    Xersion Fleece Workout Pants ★★★★★★★★★★(2)
-*   $12.99 sale
-    
-    was $26
-    
-    Xersion Long Sleeve Crew Neck T-Shirt ★★★★★★★★★★(3)
-*   $14.99 sale
-    
-    was $32
-    
-    Xersion Basketball Shorts
-*   $22.99 sale
-    
-    was $45
-    
-    Xersion Windbreaker
-*   $17.99 sale
-    
-    was $36
-    
-    Xersion Track Jacket ★★★★★★★★★★(9)
-*   $6.99 sale
-    
-    was $14
-    
-    Xersion Short Sleeve Crew Neck T-Shirt ★★★★★★★★★★(4)
-*   $14.99 sale
-    
-    was $30
-    
-    Xersion Basketball Shorts
+    Xersion™ Strappy Seamless Bra ★★★★★★★★★★(66)
 
-UP TO 50% OFF KID'S SCHOOL UNIFORMSSHOP ALLUP TO 50% OFF KID'S SCHOOL UNIFORMSSHOP ALL
+BUY 1 GET 1 50% OFF MEN'S BASICSSHOP ALLBUY 1 GET 1 50% OFF MEN'S BASICSSHOP ALL
 
-*   $9.99 sale
+*   $30
     
-    was $20
+    Stafford® 4-pk. Heavyweight Crewneck T-Shirts ★★★★★★★★★★(674)
+*   $28
     
-    IZOD® Short-Sleeve Interlock Polo - Girls 7-18 ★★★★★★★★★★(108)
-*   $9.99 - $14.99 sale
+    Stafford® 4-pk. Woven Cotton Boxers ★★★★★★★★★★(173)
+*   $16
     
-    was $20 - $22
+    Stafford® 3-pk. Cotton-Rich Crew Socks–Big &. Tall ★★★★★★★★★★(8)
+*   $28
     
-    IZOD® Stretch Piqué Polo - Boys 8-20 and Husky ★★★★★★★★★★(10)
-*   $17.99 sale
+    Stafford® 4-pk. Comfort Knit Boxers ★★★★★★★★★★(20)
+*   $28
     
-    was $36
+    Stafford® 4-pk. Blended Cotton V-Neck T-Shirts ★★★★★★★★★★(216)
+*   $14
     
-    IZOD® 4-7 Flat Front Pant Regular and Slim ★★★★★★★★★★(3)
-*   $11.99 sale
+    Stafford® 3-pk. Rayon from Bamboo Crew Socks ★★★★★★★★★★(67)
+*   $14
     
-    was $24
+    Stafford® 3-pk. Cotton-Rich Crew Socks ★★★★★★★★★★(11)
+*   $32 - $40
     
-    IZOD® Short-Sleeve Bow Polo - Preschool Girls 4-6x ★★★★★★★★★★(5)
-*   $9.99 sale
+    Stafford® 4-pk. Cotton Crewneck T-Shirts–Big &. Tall ★★★★★★★★★★(355)
+*   $26
     
-    was $20
+    adidas® 2-pk. Sport Performance climalite® Boxer Briefs ★★★★★★★★★★(80)
+*   $30
     
-    IZOD® Stretch Piqué Polo - Preschool Boys 4-7 ★★★★★★★★★★(3)
-*   $9.99 sale
+    Hanes® 4-pk.+ Bonus Pair Comfort Blend® Boxer Briefs ★★★★★★★★★★(12)
+*   $22 - $25
     
-    was $20
+    Hanes® Mens 10-pk. Cushioned Foot Crew Socks ★★★★★★★★★★(129)
+*   $14
     
-    IZOD® Short-Sleeve Picot Collar Polo - Preschool Girls 4-6x ★★★★★★★★★★(28)
-*   $10.99 - $15.99 sale
+    Stafford® 5-pk. Cotton-Rich Crew Socks ★★★★★★★★★★(25)
+*   $28
     
-    was $22 - $24
+    Stafford® 4-pk. Cotton V-Neck T-Shirts ★★★★★★★★★★(130)
+*   $30
     
-    IZOD® Performance Polo - Boys 8-20 and Husky ★★★★★★★★★★(136)
-*   $17.99 sale
+    Hanes Men's ComfortBlend® FreshIQ™ ComfortFlex® Waistband Boxer Brief 4-Pack ★★★★★★★★★★(3)
+*   $26
     
-    was $36
-    
-    IZOD® Pleated Pants - Preschool Boys 4-7 and Slim ★★★★★★★★★★(8)
-*   $8.99 - $11.99 sale
-    
-    was $24 - $26
-    
-    IZOD® Short-Sleeve Polo - Girls 7-16 and Plus ★★★★★★★★★★(12)
-*   $17.99 - $25.99 sale
-    
-    was $36 - $38
-    
-    IZOD® Flat Front Pant -Boys 8-20, Slim, and Husky ★★★★★★★★★★(25)
-*   $9.99 - $14.99 sale
-    
-    was $20 - $22
-    
-    IZOD® Stretch Piqué Polo - Boys 8-20 and Husky ★★★★★★★★★★(17)
-*   $14.99 - $21.99 sale
-    
-    was $30 - $32
-    
-    IZOD® Stretch Twill Regular Fit Boot-Cut Pants - Girls 7-16 ★★★★★★★★★★(38)
-*   $14.99 sale
-    
-    was $30
-    
-    IZOD® Bootcut Pants - Preschool Girls 4-6x ★★★★★★★★★★(6)
-*   $39.99 sale
-    
-    was $80
-    
-    IZOD® Navy Blazer - Boys 8-20 ★★★★★★★★★★(30)
-*   $15.99 sale
-    
-    was $24
-    
-    IZOD® Long-Sleeve Polo - Girls 7-18 and Plus ★★★★★★★★★★(2)
+    Fruit of the Loom® 4-pk. Premium Cotton Briefs ★★★★★★★★★★(25)
 
-BUY 1 GET 2 FREE WOMEN'S BOOTSSHOP ALLBUY 1 GET 2 FREE WOMEN'S BOOTSSHOP ALL
+BUY 1 GET 1 50% OFF KID'S BASICSSHOP ALLBUY 1 GET 1 50% OFF KID'S BASICSSHOP ALL
 
-*   $79
+*   $14
     
-    Arizona Delling Womens Riding Boots ★★★★★★★★★★(83)
-*   $89
+    Maidenform Bralette Girls ★★★★★★★★★★(13)
+*   $7
     
-    east 5th Junction Womens Slouch Boots ★★★★★★★★★★(19)
-*   $79
+    Maidenform 1 Pair Boyshort Panty-Big Kid Girls ★★★★★★★★★★(3)
+*   $12
     
-    Arizona Delling Wide Calf Womens Riding Boots ★★★★★★★★★★(45)
-*   $59
+    Total Girl® 6-pk. No-Show Socks - Girls ★★★★★★★★★★(8)
+*   $16 - $18
     
-    Arizona Snowcap Womens Bootie ★★★★★★★★★★(25)
-*   $79
+    Arizona 4-pk. Briefs - Boys &. Husky 4-20 ★★★★★★★★★★(14)
+*   $16 - $18
     
-    Arizona Chet Womens Riding Boots ★★★★★★★★★★(34)
-*   $109
+    Arizona 4-pk. White Crew Neck Tees - Boys &. Husky 4-20 ★★★★★★★★★★(18)
+*   $12
     
-    Liz Claiborne Dallas Womens Riding Boots ★★★★★★★★★★(18)
-*   $59
+    Xersion™ 6-pk. Quarter Socks ★★★★★★★★★★(37)
+*   $12
     
-    Arizona Gianna Womens Bootie ★★★★★★★★★★(41)
-*   $79
+    Maidenform Seamless Bandeau Bra - Girls 7-16 ★★★★★★★★★★(9)
+*   $12
     
-    Yuu Ryker Womens Bootie ★★★★★★★★★★(28)
-*   $109
+    Okie Dokie® Sport 6pk Low-Cut Socks - Boys 2-6 ★★★★★★★★★★(5)
+*   $7
     
-    St. John's Bay Cafferty Womens Winter Boots ★★★★★★★★★★(4)
-*   $109
+    Maidenform Boyshort Panty-Big Kid Girls
+*   $16 - $18
     
-    Liz Claiborne Tory Womens Riding Boots ★★★★★★★★★★(21)
-*   $69
+    Arizona 4-pk. Striped Boxer Briefs – Boys &. Husky 4-20 ★★★★★★★★★★(25)
+*   $12
     
-    a.n.a Clay Women's Bootie ★★★★★★★★★★(24)
-*   $59
+    Xersion™ 6-pk. Low-Cut Socks - Boys ★★★★★★★★★★(10)
+*   $12
     
-    Arizona Julie Womens Combat Boots ★★★★★★★★★★(48)
-*   $89
+    Total Girl 6 Pair Low Cut Socks ★★★★★★★★★★(2)
+*   $16
     
-    a.n.a Aikin Women's Over the Knee Boots ★★★★★★★★★★(13)
-*   $69
+    Arizona 4-pk. Camo Boxer Briefs – Boys &. Husky 4-20 ★★★★★★★★★★(10)
+*   $16 - $18
     
-    east 5th Quanda Women's Bootie ★★★★★★★★★★(21)
-*   $109
+    Arizona 4-pk. Sleeveless Shirts - Boys &. Husky 4-20 ★★★★★★★★★★(23)
+*   $7
     
-    Liz Claiborne Leyla Womens Over the Knee Boots ★★★★★★★★★★(29)
+    Maidenform Hipster Panty Girls ★★★★★★★★★★(4)
 
 Top Sellers
 
-*   $49.99 sale
+*   BUY MORE AND SAVE WITH CODE: 47BUYNOW
     
-    was $124 | 59% off
+    $139 - $219
     
-    Royal Velvet® Luxury Egyptian Cotton Loops 6-pc. Bath Towel Set ★★★★★★★★★★(108)
+    Royal Velvet Luxury 600tc Sateen Wrinkle Free Sheet Set
 *   LIMITED TIME SPECIAL!
     
     $19.99 - $31.20 sale
@@ -409,63 +307,67 @@ Top Sellers
     was $42 | 25 - 52% off
     
     Vanity Fair® Beauty Back™ Full-Figure Back-Smoothing Underwire Bra - 76380 ★★★★★★★★★★(314)
-*   $19.99 sale
+*   BUY MORE AND SAVE WITH CODE: 47BUYNOW
     
-    was $42 | 52% off
+    $42
     
     Arizona Basic Original Bootcut Jeans ★★★★★★★★★★(400)
 *   LOW PRICE EVERYDAY!
     
-    $49
+    $39
     
-    Yuu Catie Womens Riding Boots
-*   $28 sale
+    Yuu Clayton Womens Bootie
+*   $9.60 - $10.40 sale
     
-    was $70 | 60% off
+    was $24 - $26 | 60% off
     
-    Xersion Heavyweight Pattern Puffer Jacket - Girls-Big Kid 7-16
-*   $19.99 - $149.99 sale
+    Total Girl 3/4 Sleeve Flip Sequin Tunic - Girls' 7-16 &. Plus
+*   BUY MORE AND SAVE WITH CODE: 47BUYNOW
     
-    was $22 - $185 | 9 - 41% off
+    $130 - $200
     
-    JCPenney Home™ Ultima Bath Rug Collection ★★★★★★★★★★(683)
+    Royal Velvet® 400 TC Wrinkle Guard™ Sheet Sets ★★★★★★★★★★(2779)
+*   LOW PRICE EVERYDAY!
+    
+    $5
+    
+    Xersion Performance Tank Top
+*   BUY MORE AND SAVE WITH CODE: 47BUYNOW
+    
+    $42
+    
+    Arizona Flex Slim Straight Jeans ★★★★★★★★★★(178)
+*   $29.99 sale
+    
+    was $69 | 56% off
+    
+    Pop Ames Womens Bootie
+*   $11.99 - $13.99 sale
+    
+    was $30 - $35 | 58 - 60% off
+    
+    Arizona Knit Jogger Pants - Boys 8-20 &. Husky ★★★★★★★★★★(72)
+*   BUY MORE AND SAVE WITH CODE: 47BUYNOW
+    
+    $6 - $48
+    
+    Home Expressions™ Solid Bath Towels ★★★★★★★★★★(2168)
 *   $34.99 sale
     
     was $200 | 82% off
     
     St. John's Bay Heavyweight Puffer Jacket
-*   $19.99 sale
+*   BUY MORE AND SAVE WITH CODE: 47BUYNOW
     
-    was $42 | 52% off
+    $42
     
     Arizona Basic Original Straight Jeans ★★★★★★★★★★(1570)
 *   $49.99 sale
     
-    was $65 | 23% off
+    was $99 | 49% off
     
-    Skechers Twinkle Toes Shuffles Girls Sneakers - Toddler
-*   $2.99 - $3.99 clearance
-    
-    was $8 - $9
-    
-    Arizona Long Sleeve Favorite Tee - Girls' 7-16 and Plus
-*   $2.49 - $16.99 sale
-    
-    was $6 - $48 | 56 - 64% off
-    
-    Home Expressions™ Solid Bath Towels ★★★★★★★★★★(2168)
-*   $16.99 - $44 sale
-    
-    was $44
-    
-    Worthington® Curvy Fit Trouser Pants ★★★★★★★★★★(920)
-*   LOW PRICE EVERYDAY!
-    
-    $12
-    
-    St. John's Bay Long Sleeve Jersey Polo Shirt
-*   east 5th Raine Womens Bootie
-*   Arizona Knit Jogger Pants - Boys 8-20 &. Husky ★★★★★★★★★★(72)
+    Pop Ultimate Womens Riding Boots
+*   Xersion Heavyweight Pattern Puffer Jacket - Girls-Big Kid 7-16
 
 Shop and Save at JCPenney
 
