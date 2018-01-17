@@ -84,4 +84,4 @@ Search Search for:
 
 Copyright © 2018 MetrixLab. All rights reserved. Privacy Statement
 
-This website uses cookies to enhance your browsing experience. By browsing this website, you are agreeing with our cookie policy. Learn more Accept
+This website uses cookies to enhance your browsing experience. By browsing this website, you are agreeing with our cookie policy.Learn moreAccept
