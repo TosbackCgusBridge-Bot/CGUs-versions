@@ -8,6 +8,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   TUMI
+    *   Beyond Threads Up to 70% Off
+    *   Olive &. Oak Up to 70% Off
+    *   Quay Sun Starting at $20
+    *   Sunnylife Beach Essentials &. More
+    *   Cuisinart
+    *   Free Shipping: Pop Art Pillows Under $18
+    *   Raise a Glass: Barware &. More from $10
+    *   Splendid Up to 70% Off
+    *   SAHA Swim
+    *   Lucca Couture
+    *   Lounge for Days: Fleece &. Tees Starting at $20
+    *   Bed|Stu
+    *   Qupid Starting at $20
+    *   Italian Handbag Steals
+    *   Charlene K Jewelry Under $50
+    *   London Fog Shoes Under $50
+    *   Joules
+    *   Fragrances by Margot Elena
+    *   Baiser Beauty
+    *   Parke &. Ronen
+    *   Sovereign Code
+    *   GBX Starting at $30
+    *   GO SMiLE
+    *   Little Surf Shop: Billabong Girls
+    *   First Steps
+    *   Sunday Steals: Styles Up to 75% Off
+    
     *   Hunter
     *   BLANKNYC Denim
     *   Laura Geller New York
@@ -32,23 +60,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Art Steals Up to 70% Off
     *   Vertigo Up to 85% Off
     *   LaFonn Jewelry Up to 75% Off
-    *   Sunday Steals: Styles Up to 75% Off
     *   Women's Shoe Blowout
-    *   Gevril Watches Up to 90% Off
-    
     *   Hair Tools Up to 80% Off
     *   Scarves, Beanies &. More Up to 70% Off
+    
     *   Men's Shoes Up to 70% Off
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   Home Steals Up to 80% Off
-    *   KUT from the Kloth &. Democracy Incl. Special Sizes
-    *   Young Fabulous &. Broke and More
-    *   Few Moda
-    *   New In: Trend Styles from $20 ft. Good Luck Gem
-    *   Heat Swim Under $30
-    *   ZAC Zac Posen
-    *   Seychelles
-    *   Ryka
     *   Crown Brush Starting at $10
     *   Mezlan
     *   Jared Lang
@@ -57,43 +75,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Funkyberry
     *   Girls' Shoes ft. MIA &. Dolce Vita
     *   Free Shipping: Melange Bedding &. Throws from $12
-    *   ALDO
     *   Predire Paris Up to 95% Off
-    *   Women's Surprise Steals Starting at 80% Off
-    *   Go Couture Dress Blowout
-    *   Mavi Denim Starting at $25
-    *   Marilyn Monroe &. YMI Swim Under $30
-    
-    *   DSGN Yoga Under $35
-    *   UKIES Up to 65% Off
-    *   OnTwelfth
-    *   Lucky Brand Handbags
-    *   Halston Heritage Up to 75% Off
-    *   On Trend: Gemstone &. Crystal Jewelry Under $80
-    *   Great Sneakers Under $50
-    *   Call It Spring
-    *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   Celebrity Strands Hair Extensions
     *   Suslo Couture Up to 80% Off
     *   Sean John Watches Under $45
     *   Astronomy
     *   Classic Dress Shoes Up to 60% Off
     *   Stance Socks &. More Under $20
     *   Brandblack
-    *   Bravado Designs Maternity &. Nursing Intimates
-    *   Electric Yoga Maternity
-    *   Akid Sneakers, Boots &. Slides
     *   Free Shipping: Valentine's Day Decor
     *   Free Shipping: Chic Garden Essentials from $10
     *   Free Shipping: Feng Shui Wall Art
-    *   Slippers for Him
-    *   Free Shipping: Luxe Bath Essentials Up to 80% Off
-    *   Bluetooth &. Phone Accessories Starting at $10
+    *   Gevril Watches Up to 90% Off
+    *   KUT from the Kloth &. Democracy Incl. Special Sizes
+    *   Go Couture Dress Blowout
+    *   Halston Heritage Up to 75% Off
 *   WomenShop Sale Events
     
+    *   TUMI
+    *   Beyond Threads Up to 70% Off
+    *   Olive &. Oak Up to 70% Off
+    *   Quay Sun Starting at $20
+    *   Splendid Up to 70% Off
+    *   SAHA Swim
+    *   Lucca Couture
+    *   Lounge for Days: Fleece &. Tees Starting at $20
+    *   Bed|Stu
+    *   Qupid Starting at $20
+    *   Italian Handbag Steals
+    *   Charlene K Jewelry Under $50
+    *   London Fog Shoes Under $50
+    *   Joules
+    *   Fragrances by Margot Elena
+    *   Baiser Beauty
+    *   GO SMiLE
+    *   Sunday Steals: Styles Up to 75% Off
     *   Hunter
     *   BLANKNYC Denim
     *   Laura Geller New York
+    
     *   Insight Up to 80% Off
     *   Aussie Labels We Love: Vero Moda &. More
     *   Olivia Welles Jewelry Up to 75% Off
@@ -106,61 +125,41 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Balanced Guru Organic Skin Care
     *   Vertigo Up to 85% Off
     *   LaFonn Jewelry Up to 75% Off
-    *   Sunday Steals: Styles Up to 75% Off
     *   Women's Shoe Blowout
-    *   Gevril Watches Up to 90% Off
     *   Hair Tools Up to 80% Off
     *   Scarves, Beanies &. More Up to 70% Off
-    *   KUT from the Kloth &. Democracy Incl. Special Sizes
-    *   Young Fabulous &. Broke and More
-    *   Few Moda
-    *   New In: Trend Styles from $20 ft. Good Luck Gem
-    
-    *   Heat Swim Under $30
-    *   ZAC Zac Posen
-    *   Seychelles
-    *   Ryka
     *   Crown Brush Starting at $10
-    *   ALDO
     *   Predire Paris Up to 95% Off
-    *   Women's Surprise Steals Starting at 80% Off
+    *   Gevril Watches Up to 90% Off
+    *   KUT from the Kloth &. Democracy Incl. Special Sizes
     *   Go Couture Dress Blowout
-    *   Mavi Denim Starting at $25
-    *   Marilyn Monroe &. YMI Swim Under $30
-    *   DSGN Yoga Under $35
-    *   UKIES Up to 65% Off
-    *   OnTwelfth
-    *   Lucky Brand Handbags
     *   Halston Heritage Up to 75% Off
-    *   On Trend: Gemstone &. Crystal Jewelry Under $80
-    *   Great Sneakers Under $50
-    *   Call It Spring
-    *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   Celebrity Strands Hair Extensions
-    *   Bravado Designs Maternity &. Nursing Intimates
-    *   Electric Yoga Maternity
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Tech Accessories
     *   Lingerie
     *   Accessories
     *   Watches
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   TUMI
+    *   Parke &. Ronen
+    *   Sovereign Code
+    *   GBX Starting at $30
+    *   GO SMiLE
     *   Robert Graham
     *   Men's Jean Shop: Styles Under $60
     *   ECCO Men
     *   Kenneth Cole Outerwear Blowout
-    *   Gevril Watches Up to 90% Off
     *   Men's Shoes Up to 70% Off
     *   Mezlan
+    
     *   Jared Lang
     *   Indigo Star
-    
     *   Benson &. More
     *   Suslo Couture Up to 80% Off
     *   Sean John Watches Under $45
@@ -168,7 +167,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Classic Dress Shoes Up to 60% Off
     *   Stance Socks &. More Under $20
     *   Brandblack
-    *   Slippers for Him
+    *   Gevril Watches Up to 90% Off
     
     Shop By Category
     *   Clothing
@@ -177,59 +176,64 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Little Surf Shop: Billabong Girls
+    *   First Steps
     *   LunchBots
     *   Sperry Kids
     *   Funkyberry
     *   Girls' Shoes ft. MIA &. Dolce Vita
-    *   Bravado Designs Maternity &. Nursing Intimates
-    *   Electric Yoga Maternity
-    *   Akid Sneakers, Boots &. Slides
     
     Shop By Category
     *   Girls Sizes 2T-6X
+    *   Girls Sizes 7-16
     *   Girls' Shoes
     *   Kids Accessories
     *   Boys' Shoes
-    *   Girls Sizes 7-16
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   TUMI
+    *   Sunnylife Beach Essentials &. More
+    *   Cuisinart
+    *   Free Shipping: Pop Art Pillows Under $18
+    *   Raise a Glass: Barware &. More from $10
     *   Free Shipping: Accent Furniture Under $300
     *   Free Shipping: Badgley Mischka Frames
+    
     *   Free Shipping: Art Steals Up to 70% Off
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   Home Steals Up to 80% Off
     *   Free Shipping: Melange Bedding &. Throws from $12
-    
     *   Free Shipping: Valentine's Day Decor
     *   Free Shipping: Chic Garden Essentials from $10
     *   Free Shipping: Feng Shui Wall Art
-    *   Free Shipping: Luxe Bath Essentials Up to 80% Off
-    *   Bluetooth &. Phone Accessories Starting at $10
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Bath
+    *   Kitchen &. Tabletop
     *   Accent Furniture
     *   Outdoor Living
+    *   Luggage &. Travel
     *   Rugs
-    *   Kitchen &. Tabletop
+    *   Bath
 *   BeautyShop Sale Events
     
+    *   Fragrances by Margot Elena
+    *   Baiser Beauty
+    *   GO SMiLE
     *   Laura Geller New York
     *   Balanced Guru Organic Skin Care
     *   Hair Tools Up to 80% Off
     *   Crown Brush Starting at $10
     *   Predire Paris Up to 95% Off
-    *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   Celebrity Strands Hair Extensions
     
     Shop By Category
-    *   Hair Care
     *   Makeup
     *   Skin Care
+    *   Hair Care
     *   Bath &. Body
+    *   Fragrance
     *   Tools &. Accessories
     *   Nails
 
