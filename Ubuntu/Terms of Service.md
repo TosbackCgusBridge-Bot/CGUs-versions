@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD Weekly Status #30 ›
+*   Monitor your Kubernetes Cluster ›
 *   Meltdown and Spectre Status Update ›
 *   Ubuntu Server Development Summary – 09 Jan 2018 ›
 *   LXD Weekly Status #29 ›
-*   Announcing the Dell XPS 13 Developer Edition 9370 with Ubuntu ›
-*   Ubuntu Updates for the Meltdown / Spectre Vulnerabilities ›
