@@ -404,7 +404,6 @@ If you have questions or complaints regarding this Policy, please first contact 
 *   SlideShare
 *   Online Learning
 
-*   LinkedIn Influencers
 *   Search Jobs
 
 *   Directories
