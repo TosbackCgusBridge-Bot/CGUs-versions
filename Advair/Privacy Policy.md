@@ -703,4 +703,4 @@ Contact information for other GSK locations can be found here.
 *   Legal notices
 *   GSK employees
 
-© 2001-2017 GSK group of companies. All rights reserved.
+© 2001-2018 GSK group of companies. All rights reserved.
