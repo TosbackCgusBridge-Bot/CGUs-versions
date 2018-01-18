@@ -1,5 +1,4 @@
 <img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
-  
 
 Anmelden
 
@@ -17,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.246,33ǀ
+*   DAX 13.183,96ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -709,6 +708,7 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   Uni-Tools
 *   Jobsuche
 *   Online Englisch lernen
+*   Online Französisch lernen
 
 *   FINANZEN
 *   Währungsrechner
@@ -729,7 +729,6 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
     *   Arztsuche
     *   DSL-Vergleich
     *   Ferientermine
-    *   Mediaplanet Themen
 
 SPIEGEL GRUPPE
 
