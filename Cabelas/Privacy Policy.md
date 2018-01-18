@@ -31,15 +31,15 @@ Contacting Us
   
 Frequently Asked Questions about Cabela's Privacy Policy  
   
-Last updated September 25, 2017  
+Last updated January 17, 2018  
   
-This privacy policy applies to www.cabelas.com and other technology resources owned and operated by Cabela's Inc. ("Cabela's", "we", "us", "our") such as Cabela's online store, mobile applications, social platforms, chat rooms, and the like ("Tech Resources"), and to information collected when you visit our stores or otherwise communicate or interact with Cabela's outside of the Tech Resources. This privacy policy describes how Cabela's collects and uses the information you provide and the information that we otherwise collect. It also describes the choices available to you regarding our collection and use of your information and how you can access and update this information.  
+This privacy policy applies to www.cabelas.com and other technology resources owned and operated by Cabela's LLC ("Cabela's", "we", "us", "our") such as Cabela's online store, mobile applications, social platforms, chat rooms, and the like ("Tech Resources"), and to information collected when you visit our stores or otherwise communicate or interact with Cabela's outside of the Tech Resources. This privacy policy describes how Cabela's collects and uses the information you provide and the information that we otherwise collect. It also describes the choices available to you regarding our collection and use of your information and how you can access and update this information.  
   
 If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@cabelas.com or by contacting us by postal mail at the address below. If you are not satisfied with our response you can contact TRUSTe here.  
   
 In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through the web site, www.cabelas.com and not through other means although we apply the same protections explained in this privacy policy.  
   
-**Cabela’s Inc.**  
+**Cabela’s LLC**  
 **Privacy Compliance**  
 **One Cabela Drive**  
 **Sidney, NE 69160**  
@@ -153,7 +153,7 @@ BrassRing is our service provider for tracking and processing job applications. 
   
 We may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Cabela's family of companies. We may also make our postal mailing address lists available to non-affiliated parties in order to offer you a Cabela's CLUB® Visa® credit card, and to direct mail companies who we believe may have products and services of interest to our customers. We do not share email addresses with any outside organizations that do not have operational relationships with Cabela's for their own marketing purposes.  
   
-If Cabela's Inc. is involved in a merger, acquisition, reorganization, or sale of all or a portion of its assets, customer information will likely be shared for evaluation purposes and included among the transferred assets. We may share any data within our databases and may transfer title to that data as part of any such transaction. Any successor in interest will remain bound by the terms of this Privacy Policy as it relates to your information.  
+If Cabela's is involved in a merger, acquisition, reorganization, or sale of all or a portion of its assets, customer information will likely be shared for evaluation purposes and included among the transferred assets. We may share any data within our databases and may transfer title to that data as part of any such transaction. Any successor in interest will remain bound by the terms of this Privacy Policy as it relates to your information.  
   
 If required by law, we may provide any and all information we have about you to law enforcement or other government agencies, pursuant to a subpoena, bankruptcy proceedings, warrant, or other order by a court of competent jurisdiction or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In all cases, we will require written documentation of the request, proof of the identity of the law enforcement official making the request, and we will take steps to authenticate the validity of the request. Any law enforcement or government agency request submitted with less than a court-issued order will be evaluated on a case-by-case basis according to the need and urgency, as well as the particular law enforcement agency making the request.  
   
@@ -180,12 +180,12 @@ You may opt-out of our use of Google Analytics by visiting the Google Analytics 
   
 You may opt out of Yahoo's collection of analytics information outside of the Yahoo distribution network, by clicking on the following link: http://info.yahoo.com/privacy/us/yahoo/opt\_out/targeting/details.html.  
   
-If you choose to opt-out out of our use of your information for direct marketing purposes, this does not remove your information from our data database entirely. We will retain your information to comply with our legal obligations, resolve disputes, and enforce our agreements. In addition, if you include your email in an order, you will continue to receive transactional messaging about your order status.  
+If you choose to opt-out of our use of your information for direct marketing purposes, this does not remove your information from our data database entirely. We will retain your information to comply with our legal obligations, resolve disputes, and enforce our agreements. In addition, if you include your email in an order, you will continue to receive transactional messaging about your order status.  
   
 If you are a registered user of the web site, you can manage many aspects of your registration information. If your information changes, you may correct or update the information by making the changes on our member information page. For security reasons, however, some parts of your information may not be changed online and may require you to call or write to us in order to verify your identity before such changes can be made. We will respond to your request within a reasonable timeframe. To request that we no longer use your information to provide our services, the removal of your testimonial, or the removal of your information from a blog or public forum, please contact us via our Customer Service email address.  
   
 INFORMATION ABOUT THE CLUB® Visa® PROGRAM  
-The Cabela's CLUB Visa is issued by Capital One Bank (USA), N.A. ("Capital One"). When you apply for a Cabela's CLUB Visa card on cabelas.com, we submit your information to Capital One to process your credit application. To view Capital One's privacy notice, please click here.  
+The Cabela's CLUB Visa is issued by Capital One Bank (USA), N.A. ("Capital One"). When you apply for a Cabela's CLUB Visa card, we submit your information to Capital One. To view Capital One's privacy notice, please click here. We may also share your information with Capital One or its designated service providers in order to offer you a Cabela's CLUB Visa Credit card. Communications related to these offers are monitored for quality and compliance purposes such that the individuals and vendors monitoring these communications may also receive access to the information shared as part of such offers.  
   
 CHANGES TO THIS PRIVACY POLICY  
 We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.  
@@ -202,7 +202,7 @@ If you are under 18 years of age, reside in California, and have a registered ac
 **CONTACTING US  
 If you have any questions about this Privacy Policy and Cabela's policies and practices with respect to personal information, please contact us at:  
   
-Cabela's Inc.  
+Cabela's LLC  
 Privacy Compliance  
 One Cabela Drive  
 Sidney, NE 69160  
