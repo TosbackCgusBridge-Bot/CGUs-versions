@@ -270,7 +270,6 @@ Menu Close Menu Close
     *   Desktop Deals
     *   Tablet Deals
     *   Accessory Deals
-    *   Monitor Deals
     *   Clearance
     *   Financing Options
     *   Outlet
@@ -318,45 +317,41 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers Different is better
+Home >. Filter by specs Offers SMART TECH FOR SMART MONEY
 
-Explore CES
+Save up to 25% off select ThinkPad and ThinkCentre PCs. Plus savings on home laptops, monitors, and more! Ends Jan 24th.
 
-X1 Family
+Shop Now >.
 
-The next generation is here.
+Boldly individual
 
-Play Video
+Shop Now >.
 
-Shop now
+Breakthrough Performance
 
-Different innovates better
+Gain real business insights in real-time
 
-Transform your data center with ThinkSystem and ThinkAgile solutions.
-
-Play Video
-
-Learn more
+ThinkSystem DS4200 >. ThinkSystem DS6200 >.
 
 *   1
 *   2
 *   3
 
-Weekly Deals
+TODAY'S SALES
 
 Great deals on select products.
 
-All New Lenovo Pro Store
+BONUS SALE
 
-Let Lenovo be your small business partner with an all new Pro Portal.
+Start your new year off right by saving up to 25% on Think series devices.
 
-Dominate the Game
+FLEX 5 (15")
 
-up to $900 off all Lenovo Legion Gaming PCs &. Accessories
+Pen-point sensitive touch screen and durable 360 degree hinge.
 
-ThinkPad P51
+TAB 4 10 PLUS ADDS IT ALL
 
-The power to get intense work done
+Super sound. Separate user accounts. And simply dazzling visuals.
 
 Awaken your inner Jedi with a new smartphone-powered augmented-reality experience.
 
@@ -467,7 +462,9 @@ Laptops Tablets Desktops Deals Laptops Tablets Desktops Deals Chat Select Countr
     *   Return Policy
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
-© 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+© 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
+
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -479,6 +476,10 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE Close
+SUBMIT CHATHIDE
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
+
+OUR APOLOGIES! Due to inclement weather, our call center is closed today. Chat representatives are still available to help you place your order.
+
+x
