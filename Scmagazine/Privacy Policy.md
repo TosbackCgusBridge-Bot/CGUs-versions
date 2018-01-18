@@ -8,11 +8,11 @@ Show Search Bar
 *   News
     
     *   Opinions
-    *   Blogs
     *   SC Fast Facts
     *   SC Reboot Awards 2017
     *   Corporate News
     *   Dec/Jan Reboot 2017
+    *   SC Awards Finalists 2018
 *   Cybercrime
     *   Ransomware
     *   Data breaches
