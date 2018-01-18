@@ -237,6 +237,7 @@ Close submenu ( Clearance ) Clearance
 Close submenu ( Girls ) Girls
 
 *   View All
+*   Last Chance
 *   New to Clearance
 *   Shop $6.99
 *   Shop $7.99
@@ -257,6 +258,7 @@ Close submenu ( Girls ) Girls
 Close submenu ( Guys ) Guys
 
 *   View All
+*   Last Chance
 *   New to Clearance
 *   Shop $7.99
 *   Shop $9.99
@@ -286,7 +288,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**50-70% OFF** \+ **FREE SHIPPING OVER $75** **FREE SHIPPING ON ANY JEANS PURCHASE**
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **50-70% OFF** \+ **FREE SHIPPING OVER $75** **FREE SHIPPING ON ANY JEANS PURCHASE**
 
 *   My Account My Account Login Register
 
@@ -468,6 +470,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls
         *   View All
+        *   Last Chance
         *   New to Clearance
         *   Shop $6.99
         *   Shop $7.99
@@ -487,6 +490,7 @@ Menu Find a Store Aeropostale
     
     *   Guys
         *   View All
+        *   Last Chance
         *   New to Clearance
         *   Shop $7.99
         *   Shop $9.99
