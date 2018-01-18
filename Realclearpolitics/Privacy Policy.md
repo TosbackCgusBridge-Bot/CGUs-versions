@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Gov. Rick Scott_: DACA and Border Security Are Just Common Sense
+*   _Elliott &. Jenkins_: The Toughest Job in Washington: Paul Ryan in a Bind
     
-*   _Robert Kuttner_: How Do You Say Sh\*thole in Norwegian?
+*   _Mollie Hemingway_: Democrats Don't Actually Want a DACA Compromise
     
-*   _William McGurn_: Wanted: An Honest FBI
+*   _Francis Wilkinson_: Democrats Hitch Their Party to Immigrants
     
-*   _Abigail Tracy_: Will Bannon Sink Kushner?
+*   _Rich Lowry_: Trump's Right About the Need to Pick Immigrants for Skills
     
-*   _Nile Gardiner_: Time to Admit Trump's Foreign Policy Has Been a Triumph
+*   _Amy Sorkin_: Cotton, Perdue and the Trap of Lying for Trump
     
-*   _Alfred McCoy_: Fortress America Is Crumbling
+*   _Michael Needham_: Why Conservatives Are Proposing a DACA Deal
     
-*   _Philip Wegmann_: Left Cries 'Dictator' at Trump, Then Cedes Him Power
+*   _Sarah Jones_: The Patriarchy Strikes Back
     
-*   _Sen. Bernie Sanders_: Let's Wrench Back Power From the Billionaires
+*   _Robby Soave_: If Ansari Were in College, He Could've Been Expelled for Less
     
-*   _Roger Kimball_: Friedrich Hayek's Enduring Legacy
+*   _Ed Rogers_: High Stakes for Trump at the World Economic Forum
     
-*   _Bari Weiss_: Aziz Ansari Is Guilty. Of Not Being a Mind Reader.
+*   _James Hamblin_: Trump's Cognitive Test Was Neither Thorough Nor Difficult
     
-*   _Jill Filipovic_: Poorly Reported Aziz Ansari Expose Was Missed Opportunity
+*   _Rush Limbaugh_: The Media Are What They Accuse Trump of Being... Totally Unfit
     
-*   _Leonid Bershidsky_: Trump Is Helping to Make Elites Great Again
+*   _Kay Hymowitz_: The Truth Behind the Trump Storm
     
-*   _Myron Magnet_: Trump to PC: No More!
+*   _Vann Newkirk_: Five Decades of White Backlash
     
-*   _Masha Gessen_: How Donald Trump Degrades Us All
+*   _Dennis Prager_: The Left Has Lost All Credibility in Using the Term 'Racist'
     
-*   _Victor Davis Hanson_: President Nobama
+*   _Frank Bruni_: Donald Trump Will Soil You. Ask Lindsey Graham.
     
-*   _Amie Parnes_: Dems Search for Winning Playbook
+*   _Bill Scher_: Note to Democrats: Shutdowns Are For Losers
     
-*   _Rep. Tom McClintock_: The Question Democrats Fear Most
+*   _James Arkin_: Fourth Time May Not Be the Charm on Funding, DACA
     
-*   _Paul Krugman_: Know-Nothings for the 21st Century
+*   _Byron York_: Dossier Probes Now Include Possible State Dept. Involvement
     
-*   _Wesley Pruden_: Dems Decree Death in the Swamp for the Dreamers
+*   _David Ignatius_: The Russia Investigation Is Far From a 'Witch Hunt'
     
-*   _Eugene Robinson_: Trump Rejects American Ideals of Diversity
+*   _Abigail Shrier_: #MeToo Repels Men by Infantilizing Women
     
-*   _Jonah Goldberg_: What If Diversity Isn't America's Strength?
+*   _Anna North_: The Ansari Story Is Ordinary. That's Why We Have to Talk About It.
     
-*   _Ross Baker_: Trump's 1st Year Made Me Rethink My American Govt Class
+*   _Sen. Ted Cruz_: Time to Put Kim Jong Un on His Heels
     
-*   _David Faris_: Hawaii's False Alarm Should Be a Wake Up Call for Us All
+*   _Xavier Becerra_: Florida Isn't the Only State That'll Be Hurt by Offshore Drilling
     
-*   _Jamelle Bouie_: The Lasting Damage of Donald Trump's Bigotry
+*   _David Azerrad_: All That Didn't Happen During Trump's First Year
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Accuses Democrat of Undermining Trust on Immigration
+*   Fourth Time May Not Be the Charm on Funding, DACA
+*   Booker: I'm Seething, "Had Tears of Rage" Over Trump Remarks
 *   Trump Imperils Economic Gains as Republican Midterm Issue
 *   Major Shift as Trump Opens Way for Medicaid Work Requirement
-*   Perdue: Trump Never Said "Sh\*thole Countries," I Was in the Room
-*   Can Democrats Turn Arizona Blue?
-*   McSally Launches Senate Campaign in Heated Arizona Contest
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve38
+    *   Disapprove57Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve45
     *   Disapprove54Disapprove +9
-*   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove57Disapprove +19
-*   Direction of CountryRasmussen Reports
-    *   Right Direction40
-    *   Wrong Track54Wrong Track +14
-*   President Trump Job ApprovalEmerson
+*   President Trump Job ApprovalReuters/Ipsos
     *   Approve39
-    *   Disapprove52Disapprove +13
+    *   Disapprove56Disapprove +17
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve42
+    *   Disapprove54Disapprove +12
 
 More Latest Polls In The News
 
-*   Jeff Sessions: "What Good Does It Do To Bring In Somebody Who Is Illiterate In Their Own Country?"
+*   CNN's Sanjay Gupta: President Trump "Borderline Obese," Heart Attack Likely Within 3-5 Years
+*   Brzezinski: I'm "Disturbed" That Trump Is Cognitively Healthy. If He Wasn't, He'd Have Excuse For Behavior
 *   Kamala Harris to Kirstjen Nielsen: "Reasonable Inference" That You Are A Racist
 *   Cory Booker: "I Am Frankly Seething With Anger" Over Trump Comments, "Had Tears Of Rage"
 *   Sarah Sanders: Actually, Merit-Based Immigration System Is More Fair, Less Racist
-*   Cotton: Trump "Already Made Fundamental Concession" on DACA, Democrats Must Compromise
 
 *   Politics
 *   Policy
