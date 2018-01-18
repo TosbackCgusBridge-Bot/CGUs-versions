@@ -142,4 +142,4 @@ Our Partners
 *   Cars.com El Paso
 *   The Job Network
 
-close dialogDiscover something new in 2018! 99¢ for the 1st month1st month for only 99¢Subscribeclose dialogclose dialogReady Set Go!Discover something new in 2018!99¢ for the 1st month1st month for only 99¢SubscribeNo thanks.close dialog
+close dialogDiscover something new in 2018! 99¢ for the 1st month1st month for only 99¢Subscribeclose dialog
