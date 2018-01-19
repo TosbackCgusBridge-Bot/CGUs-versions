@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 2017 was 3rd warmest year on record for U.S. 16 billion-dollar weather and climate disasters made for costliest year on record AROUND NOAA // Snow squall warnings to begin this winter NOAA kicks off 2018 with massive supercomputer upgrade GOES-13 satellite retires from 10 years of stellar service, replaced by GOES-16
+Enter Search Terms NOAA: 2017 was 3rd warmest year on record for the globe NOAA, NASA scientists confirm Earth’s long-term warming trend continues AROUND NOAA // 2017 was 3rd warmest year on record for U.S. Snow squall warnings to begin this winter NOAA kicks off 2018 with massive supercomputer upgrade
 
 *   About our agency
 *   News and features
@@ -126,4 +126,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock
