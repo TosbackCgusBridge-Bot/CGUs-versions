@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Elliott &. Jenkins_: The Toughest Job in Washington: Paul Ryan in a Bind
+*   _Christopher Buskirk_: Trump's First Year: a Story of Promises Kept
     
-*   _Mollie Hemingway_: Democrats Don't Actually Want a DACA Compromise
+*   _Leon Panetta_: The World Needs to Know Trump Is Not Who We Are
     
-*   _Francis Wilkinson_: Democrats Hitch Their Party to Immigrants
+*   _Sens. Cotton_: Any DACA Deal Must End Chain Migration
     
-*   _Rich Lowry_: Trump's Right About the Need to Pick Immigrants for Skills
+*   _Nicholas Kristof_: What We Can Learn From 'S-Hole Countries'
     
-*   _Amy Sorkin_: Cotton, Perdue and the Trap of Lying for Trump
+*   _John Cassidy_: Chuck Schumer's DACA Dilemma
     
-*   _Michael Needham_: Why Conservatives Are Proposing a DACA Deal
+*   _Joe Katzman_: Leftism Is a Status Machine Powered by the Media
     
-*   _Sarah Jones_: The Patriarchy Strikes Back
+*   _Paul Waldman_: How Trump Convinced U.S. That Character Doesn't Matter
     
-*   _Robby Soave_: If Ansari Were in College, He Could've Been Expelled for Less
+*   _Lee Smith_: Did Russia Use Fusion GPS to Target Donald Trump?
     
-*   _Ed Rogers_: High Stakes for Trump at the World Economic Forum
+*   _David Graham_: Congress Produces Drama While Mueller Produces Results
     
-*   _James Hamblin_: Trump's Cognitive Test Was Neither Thorough Nor Difficult
+*   _Park MacDougald_: How 'Cheap Sex' Is Changing Our Lives -- and Our Politics
     
-*   _Rush Limbaugh_: The Media Are What They Accuse Trump of Being... Totally Unfit
+*   _Newcomer &. Stone_: Travis Kalanick's Fall Was a Lot Weirder Than Thought
     
-*   _Kay Hymowitz_: The Truth Behind the Trump Storm
+*   _Patricia Murphy_: Welcome to S-Town
     
-*   _Vann Newkirk_: Five Decades of White Backlash
+*   _Joel Kotkin_: Can the Trump Economy Trump Trump?
     
-*   _Dennis Prager_: The Left Has Lost All Credibility in Using the Term 'Racist'
+*   _E.J. Dionne_: Ready for the Anti-Trump Wave? Look at Wisconsin
     
-*   _Frank Bruni_: Donald Trump Will Soil You. Ask Lindsey Graham.
+*   _Spencer Morrison_: Dem Dilemma: Mass Immigration Destroys the Welfare State
     
-*   _Bill Scher_: Note to Democrats: Shutdowns Are For Losers
+*   _Ronald Brownstein_: A Shaky Justification for Immigration Reform
     
-*   _James Arkin_: Fourth Time May Not Be the Charm on Funding, DACA
+*   _James Arkin_: Trump Visit Shows High Stakes for Penn. Special Election
     
-*   _Byron York_: Dossier Probes Now Include Possible State Dept. Involvement
+*   _Tammy Bruce_: Obama Doctor Kills Liberal Dream of Trump Incapacity
     
-*   _David Ignatius_: The Russia Investigation Is Far From a 'Witch Hunt'
+*   _Gail Collins_: Donald Trump Gets His Sanity Grades
     
-*   _Abigail Shrier_: #MeToo Repels Men by Infantilizing Women
+*   _Heather Wilhelm_: The Feminist War on Common Sense
     
-*   _Anna North_: The Ansari Story Is Ordinary. That's Why We Have to Talk About It.
+*   _Molly Fischer_: Maybe Men Need to Be Scared for a While
     
-*   _Sen. Ted Cruz_: Time to Put Kim Jong Un on His Heels
+*   _Mary Eberstadt_: Eminem and Gandhi Are Right: Future Will Lean Pro-Life
     
-*   _Xavier Becerra_: Florida Isn't the Only State That'll Be Hurt by Offshore Drilling
+*   _Richard Trumka_: Working People Are Watching, Mr. President
     
-*   _David Azerrad_: All That Didn't Happen During Trump's First Year
+*   _Lewis Uhler &. Peter Ferrara_: Dow at 26,000: What It Means for Working People
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Accuses Democrat of Undermining Trust on Immigration
+*   Trump-Critic Romney Seen as Midterm Outlier for Republicans
+*   Trump Visit Shows High Stakes for Pa. Special Election
+*   Flake: We're in Era Where Authoritarian Impulse Is Reasserting Itself
 *   Fourth Time May Not Be the Charm on Funding, DACA
-*   Booker: I'm Seething, "Had Tears of Rage" Over Trump Remarks
-*   Trump Imperils Economic Gains as Republican Midterm Issue
-*   Major Shift as Trump Opens Way for Medicaid Work Requirement
+*   Trump Accuses Democrat of Undermining Trust on Immigration
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve38
-    *   Disapprove57Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove54Disapprove +9
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve39
-    *   Disapprove56Disapprove +17
-*   President Trump Job ApprovalEconomist/YouGov
+*   President Trump Job ApprovalHarvard-Harris
     *   Approve42
-    *   Disapprove54Disapprove +12
+    *   Disapprove58Disapprove +16
+*   President Trump Job ApprovalCBS News
+    *   Approve37
+    *   Disapprove58Disapprove +21
+*   President Trump Job ApprovalNPR/PBS/Marist
+    *   Approve40
+    *   Disapprove51Disapprove +11
+*   President Trump Job ApprovalPew Research
+    *   Approve39
+    *   Disapprove55Disapprove +16
 
 More Latest Polls In The News
 
+*   NBC's Kasie Hunt: Dems Poised To Kill CR In Senate. Progressives Say "We Don't Care, We Want To Shut Down"
+*   Gutierrez: Immigrants Should Be Allowed To "Unite" Entire Family. Bring Dad, Brothers, Wife &. Children To U.S.
 *   CNN's Sanjay Gupta: President Trump "Borderline Obese," Heart Attack Likely Within 3-5 Years
-*   Brzezinski: I'm "Disturbed" That Trump Is Cognitively Healthy. If He Wasn't, He'd Have Excuse For Behavior
+*   Flake Senate Speech: "We Are In An Era Where The Authoritarian Impulse Is Reasserting Itself"
 *   Kamala Harris to Kirstjen Nielsen: "Reasonable Inference" That You Are A Racist
-*   Cory Booker: "I Am Frankly Seething With Anger" Over Trump Comments, "Had Tears Of Rage"
-*   Sarah Sanders: Actually, Merit-Based Immigration System Is More Fair, Less Racist
 
 *   Politics
 *   Policy
