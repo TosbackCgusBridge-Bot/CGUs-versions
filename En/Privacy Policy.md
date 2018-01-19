@@ -2,8 +2,7 @@ Toggle navigation
 
 *   For Users
     *   softonic.com
-    *   Turbo Booster
-    *   appcrawlr
+    *   Solutions
 *   For Advertisers
     *   Our Reach
     *   Advertising solutions
