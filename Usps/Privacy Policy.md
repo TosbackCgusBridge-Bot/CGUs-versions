@@ -205,4 +205,4 @@ Skip Footer Navigation
     *   Inspector General ›
     *   Postal Explorer ›
 
-Copyright© 2017 USPS. All Rights Reserved. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MVCC8H" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+Copyright© 2018 USPS. All Rights Reserved. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MVCC8H" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
