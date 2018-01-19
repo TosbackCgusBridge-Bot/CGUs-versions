@@ -23,7 +23,7 @@ Get FREE SHIPPING when you buy online and pick up at your local Buckle. See deta
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES
 *   MY BAG
@@ -259,6 +259,7 @@ Get FREE SHIPPING when you buy online and pick up at your local Buckle. See deta
         
         *   Gift Guide
         
+        *   Genuine Leather Bags
         *   Men's Gifts
         *   Women's Gifts
         *   Gifts That Give Back
@@ -412,7 +413,6 @@ Your Account
 
 Shipping/Handling
 
-*   2017 Holiday Shipping Deadlines
 *   Shipping Rates/Options
 *   International Orders
 
