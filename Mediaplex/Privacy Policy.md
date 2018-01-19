@@ -17,6 +17,7 @@
     *   Blog
 *   Who We Are
     *   Overview
+    *   Our Management
     *   In the News
     *   Press Releases
     *   Our Locations
@@ -52,9 +53,9 @@
     *   Integrations
     *   Join Us
 
-GET TO THE HEART  
-OF WHAT MATTERS  
-TO MILLIONS Watch Our Story
+HAVE COMPELLING  
+CONVERSATIONS THAT  
+LAST A LIFETIME Watch Our Story
 
 *   160M+ Real People You Can  
     Message Right Now
@@ -121,6 +122,7 @@ Ready to talk? Contact us 
     *   Blog
 *   Who We Are
     *   Overview
+    *   Our Management
     *   In the News
     *   Press Releases
     *   Our Locations
