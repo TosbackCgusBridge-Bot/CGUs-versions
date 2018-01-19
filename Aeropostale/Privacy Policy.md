@@ -134,7 +134,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   High Waisted Ankle Jegging
 *   High Waisted Jegging
 *   Low Rise Jegging
-*   Boyfriend
 *   Skinny
 *   Bootcut
 
@@ -288,7 +287,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **50-70% OFF** \+ **FREE SHIPPING OVER $75** **FREE SHIPPING ON ANY JEANS PURCHASE**
+**ONLINE ONLY EXTRA 30% OFF CLEARANCE** **FREE SHIPPING ON $75**
 
 *   My Account My Account Login Register
 
@@ -392,7 +391,6 @@ Menu Find a Store Aeropostale
         *   High Waisted Ankle Jegging
         *   High Waisted Jegging
         *   Low Rise Jegging
-        *   Boyfriend
         *   Skinny
         *   Bootcut
     
@@ -525,41 +523,14 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Find My Store
+ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Promotions Shop Girls Shop Guys Promotions
 
-Previous*   Hoodies + Jackets Starting at $14.99 Shop Girls Shop Guys
-*   Long Sleeve Starting at $9.99 Shop Guys
-*   Joggers + Sweats Starting at $9.99 Shop Girls
-*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
-*   Tees Starting at $2.99 Shop Girls Shop Guys
-*   Hoodies + Jackets Starting at $14.99 Shop Girls Shop Guys
-*   Long Sleeve Starting at $9.99 Shop Guys
-*   Joggers + Sweats Starting at $9.99 Shop Girls
-*   Jeans + Pants Starting at $9.99 Shop Girls Shop Guys
-*   Tees Starting at $2.99 Shop Girls Shop Guys
-*   Hoodies + Jackets Starting at $14.99 Shop Girls Shop Guys
-*   Long Sleeve Starting at $9.99 Shop Guys
-*   Joggers + Sweats Starting at $9.99 Shop Girls
-Next
+*   Tees Starting at $10.00 Shop Girls Shop Guys
+*   Long Sleeve Tees Starting at $13.00 Shop Girls Shop Guys
+*   Hoodies + Sweatshirts Starting at $15.00 Shop Guys Shop Girls
+*   Joggers + Sweats Starting at $18.00 Shop Guys
 
-Previous*   Joggers + Sweats Starting at $15.00 Shop Guys
-*   Shorts Starting at $9.75 Shop Girls Shop Guys
-*   Lounge + Sleep Starting at $8.25 Shop Sleep
-*   Accessories Starting at $3.50 Shop Girls Shop Guys
-*   Tees Starting at $5.00 Shop Girls Shop Guys
-*   Long Sleeve Tees Starting at $8.00 Shop Girls Shop Guys
-*   Hoodies + Sweatshirts Starting at $10.00 Shop Guys Shop Girls
-*   Joggers + Sweats Starting at $15.00 Shop Guys
-*   Shorts Starting at $9.75 Shop Girls Shop Guys
-*   Lounge + Sleep Starting at $8.25 Shop Sleep
-*   Accessories Starting at $3.50 Shop Girls Shop Guys
-*   Tees Starting at $5.00 Shop Girls Shop Guys
-*   Long Sleeve Tees Starting at $8.00 Shop Girls Shop Guys
-*   Hoodies + Sweatshirts Starting at $10.00 Shop Guys Shop Girls
-*   Joggers + Sweats Starting at $15.00 Shop Guys
-Next
-
-<div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+Promotions Find My Store <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -569,12 +540,14 @@ Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 *   Size Charts
 *   Contact Us
 *   Help
+*   Coupon Page
 
 Stores
 
 *   Store Locator
 *   eGift Cards
 *   Contests
+*   In Store Coupons
 
 About Us
 
@@ -591,4 +564,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. close dialogWant to snag15% OFFsitewide?GET 15% OFFI DON'T WANT 15% OFFNICE! Give us your email to snag15% OFFPlease enter aboveUNLOCK 15% OFFYOU’VE SNAGGED 15% OFFUse CodeBEX-PD2ZPF3LVWX7at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSContinue Shoppingclose dialog
