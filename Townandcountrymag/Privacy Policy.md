@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 What if Melania Divorced Donald? 2 All About 'The Assassination of Gianni Versace' 3 How—and Why—Celebrities Get Jewelry for Free 4 The T&C Top 50 Bachelors of 2018 5 6 Ways Whiskey Is Actually Good for You Privacy Policy Dec 1, 2014
+Today's Top Stories 1 What Really Happened to Gianni Versace? 2 Vanderbilt Heirs Are Moving Out of the Breakers 3 In Praise of Meghan Markle's Messy Bun 4 17 Romantic Hotel Packages for Valentine's Day 5 Audrey Hepburn Through the Years Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -60,8 +60,6 @@ Last revised on April 1, 2016
 **1\.  ** **Purpose and Scope of this Privacy Policy.**
 
 **(a)** This privacy policy describes how Hearst Communications, Inc. and its Affiliates (collectively, "**Hearst**") treat the Personally Identifiable Information that is collected about you when you visit the web sites, mobile-optimized versions of the web sites, and digital applications to which this policy is linked (collectively, "**Covered Sites**"). For the purposes of this policy, an entity controlling, controlled by, or under common control with another entity shall be deemed to be an "Affiliate", where control means ownership of 15% or more of the voting stock or other ownership interests. For the purposes of this policy, "**Personally Identifiable Information**" is information that we can use to identify or contact you as an individual, and includes your name, email address, address, telephone number and any other information that we associate with any of the foregoing. By submitting Personally Identifiable Information through any of our Covered Sites, you agree to the terms of this privacy policy and you expressly consent to the collection, use and disclosure of your Personally Identifiable Information in accordance with this privacy policy.
-
-Advertisement - Continue Reading Below
 
 **(b)** This privacy policy does not apply to information collected about you by anyone except Hearst and only applies to the Covered Sites (defined above). This privacy policy does not apply to Hearst websites which are not linked to this policy and does not apply to non-Hearst websites, including those linked to or advertised on a Covered Site.  Any information you provide when you visit websites other than those covered by this policy will be subject to the privacy policies posted on those sites.
 
@@ -179,9 +177,7 @@ Advertisement - Continue Reading Below
 
 Last revised on April 1, 2016
 
-Watch Next
-
-Advertisement - Continue Reading Below More From About Advertise Online Terms of Use Why did I get this ad? Share Tweet Email
+Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
 *   T&C's Travel Tips Around Egypt
