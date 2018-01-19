@@ -3,7 +3,7 @@ Menu PayPal
 *   Personal
     Personal*   What is PayPal? _Learn how PayPal works in your everyday life_
     *   Check Out Securely Online _Use your credit cards or other funds_
-    *   PayPal Credit _Get more time to pay_
+    *   PayPal Credit &. Cards _Our credit, debit, prepaid cards &. PayPal Credit_
     *   Mobile Wallet _Pay in stores with our app_
     *   PayPal Can Do That _Discover ways to manage and move your money_
     *   Shopping and More _Deals, gift cards and donations_Close
@@ -29,17 +29,13 @@ Learn how PayPal makes it easy to shop and send money to family and friends.
 
 Shop, send money, and pay bills without entering your payment info again and again
 
-Keep earning your rewards when you use your credit card to shop with PayPal.\*
+24/7 fraud detection means we work around the clock to help keep your account secure.
 
-Check out how you want. Use your credit, debit or bank account.
+Pay your way, whether it’s credit, debit, or your bank account.
 
-Shop the world with peace of mind while we help keep your account secure.
+Speed through checkout at millions of brands that accept PayPal.
 
-Sign Up for Free
-
-\*Issuer rewards program is subject to the issuer’s rewards program terms and conditions.
-
-Business
+Sign Up for Free Business
 
 Start accepting all kinds of payments with one PayPal business account.
 
@@ -122,4 +118,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=5a7649b7d43d5&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=b5235642b4e54566aac10913b72691b6&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3396&xt=8105&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=e24a4892532da&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=2340f93a72e34907888a6a759c2a253a&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3396&xt=8103&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
