@@ -37,6 +37,8 @@
     *   App Tour
     *   Works With Fitbit
     *   Developers
+*   Health Solutions
+    
 *   Help
     *   Product Help
     *   Forums
