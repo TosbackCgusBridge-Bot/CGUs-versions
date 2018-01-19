@@ -162,6 +162,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     
     *   New Arrivals
     *   Outerwear Shop
+    *   Hats, Gloves &. Scarves
     *   Spring Into Layers
     *   Iron Knees Pants
     *   Girls' Knit Kit
@@ -479,6 +480,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Back
         *   New Arrivals
         *   Outerwear Shop
+        *   Hats, Gloves &. Scarves
         *   Spring Into Layers
         *   Iron Knees Pants
         *   Girls' Knit Kit
@@ -698,9 +700,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price style!
+Receive 25% off full-price styles!
 
-code: CHILL pin: 3563 DETAILS
+code: SKI pin: 3178 DETAILS
 
 Customer Service Menu
 
