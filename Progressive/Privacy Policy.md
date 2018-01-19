@@ -3,6 +3,7 @@ Skip to Main Content 
 *   Insurance
 *   Claims
 *   About
+*   Answers
 
 *   1-855-347-3939
 *   Log In
@@ -159,8 +160,8 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Boat
         *   Classic Car
         *   Golf Cart
-        *   Motorcycle
         
+        *   Motorcycle
         *   PWC
         *   RV/Trailer
         *   Segway
@@ -171,9 +172,8 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Condo
         *   Flood
         *   Homeowners
-        *   Homeshare
         *   Mobile Home
-        *   RentersBundle Auto + Property
+        *   RentersBundle Auto + Home
     *   Everything Else
         
         *   Auto Financing
@@ -181,15 +181,15 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Business
         *   Car Shopping Service
         *   Commercial
-        *   Electronic Device
         
+        *   Electronic Device
         *   Health
         *   ID Theft
         *   Life
         *   Mechanical Repair
+        
         *   Mexico Auto
         *   Pet
-        
         *   Travel
         *   Umbrella
         *   Wedding &. EventView All Insurance Products
@@ -237,9 +237,19 @@ We offer insurance by phone, online and through independent agents. Prices vary 
     *   B2B Partners
         *   Apply to be a Network Shop
         *   Become an Agent
-        *   Mergers &. Acquisitions
+        *   Agency Mergers &. Acquisitions
         *   Prospective Suppliers
         *   Policy Verification (PROVE)
+
+*   Answers
+    *   Progressive Answers
+        
+        Insurance doesn't have to be complicated. Here you'll find easy explanations for all of your questions about coverages, pricing, and more.
+        
+        See All Topics
+    *   Auto insurance deductibles explained
+    *   Covering your jewelry &. engagement rings
+    *   The average auto insurance price
 
 
 
@@ -301,4 +311,4 @@ Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCB
 
 Loading
 
- <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=d02d1321a051469fac61e764a1ea1aa8&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
+ <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=a0d536687bb04cd1a0d1a5debc85d472&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
