@@ -1,5 +1,5 @@
-Electronic Arts Inc.Privacy and Cookie Policy Last Updated: July 31, 2017  
-Effective Date: August 31, 2017  
+Electronic Arts Inc.Privacy and Cookie Policy Last Updated: January 18, 2018  
+Effective Date: February 18, 2018  
   
   
 
@@ -33,7 +33,7 @@ We collect information you provide us, including:
 *   Security questions and answers;
 *   Demographic details, for instance in response to surveys about our products;
 *   Information you provide when seeking help from us such as your name and records of the issues you experience;
-*   Billing information, such as your name, address, telephone number and payment card details;
+*   Billing information, such as your name, address, telephone number, payment card number, and payment account details;
 *   Your EA Account information. and
 *   Information you provide to enter a contest or sweepstakes. If you win, we may need to collect your social security number, postal address and/or national identification for eligibility, prizes delivery and tax purposes.
 
@@ -218,6 +218,7 @@ For more information and updates to this policy, visit privacy.ea.com.
   
 
 Previous Privacy and Cookie Policy:  
+Last Updated: July 31, 2017  
 Last Updated: October 28, 2016  
 Last Updated: May 9, 2016  
 Last Updated: January 20, 2016  
