@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+.@DRUDGE\_REPORT is a top external traffic referrer to Parse.ly's customers #ParselyContent @awwebinars twitter.com/parsely/…
+
+About 12 hours ago
+
 My week on Twitter : 2 Mentions, 11.1K Mention Reach, 23 Likes, 10 Retweets, 17.1K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Jbgr…
 
-Yesterday
+About 2 days ago
 
 BTS look with @Requidan &. @IESBD Fred Diamond in our studio recording #salesgamechangerspodcast coming out soon! pic.twitter.com/j3P8…
 
-About 2 days ago
+About 3 days ago
 
 Our biggest fans this week: @Beet\_TV, @IndexExchange, @TheFinanceGenie. Thank you! via sumall.com/thankyou?… pic.twitter.com/QZNF…
 
-About 2 days ago
+About 3 days ago
 
 Check out what our Senior BizDev Manager @mrmistry is saying about @facebook's Newsfeed and where publishers will find the greatest success econtentmag.com/Arti… via @econtentmag twitter.com/blastpr/…
 
-About 2 days ago
-
-Always look forward to discussing important industry topics with @Beet\_TV ! Thanks for having us. #CES2018 @Requidan twitter.com/Beet\_TV/…
-
-About 6 days ago
+About 3 days ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
