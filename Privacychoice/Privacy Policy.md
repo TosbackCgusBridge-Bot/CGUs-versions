@@ -14,18 +14,21 @@ OK Log in to AVG MyAccount MENU Skip to content Close
     *   AVG TuneUp
     *   AVG Driver Updater
     *   Privacy
-    *   AVG Secure VPN NEW
+    *   AVG Secure VPN for PC
     *   All Products
 *   Mac
     *   AVG Cleaner for Mac®
     *   AVG AntiVirus for Mac®
     *   HMA! Pro VPN NEW
+    *   AVG Secure VPN for Mac
     *   All products
 *   Mobile
     *   **Android Apps for Mobile and Tablet**
     *   AVG AntiVirus for Android™
     *   AVG Cleaner™ for Android™
     *   HMA! Pro VPN NEW
+    *   AVG Secure VPN for Android
+    *   AVG Secure VPN for iOs
     *   All Products
 *   Partners
 *   Business
