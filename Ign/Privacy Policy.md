@@ -306,7 +306,7 @@ Everyday Health is a Ziff Davis company, but maintains separate privacy policies
 *   Doctor Directory
 *   Life Script
 
-Everyday Health also operates the applications Calorie Counter and In Check.
+Everyday Health also operates the applications Calorie Counter and Diabetes In Check.
 
 Humble Bundle is a Ziff Davis company. For further information about their privacy practices, please click here.
 
