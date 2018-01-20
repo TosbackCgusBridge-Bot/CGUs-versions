@@ -10,10 +10,10 @@ Playoffs - CONFERENCE
 *   Video
 *   Fantasy
 *   Playoff Picture
+*   Super Bowl
 *   Tickets
 *   Shop
 *   Teams
-*   Super Bowl
 *   Game Pass
 *   Stats
 *   Ways to Watch
@@ -32,9 +32,9 @@ Playoffs - CON
 *   Video
 *   Fantasy
 *   Playoff Picture
+*   Super Bowl
 
-*   *   Super Bowl
-    *   Game Pass
+*   *   Game Pass
     *   Stats
     *   Ways to Watch
     *   NFL Network
