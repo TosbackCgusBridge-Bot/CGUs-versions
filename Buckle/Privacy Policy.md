@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Get FREE SHIPPING when you buy online and pick up at your local Buckle. See details..
+Curl up to soft fleece and cozy knits that’ll get you through winter. Shop sweaters..
 
 *   Women
 *   Men
@@ -23,7 +23,7 @@ Get FREE SHIPPING when you buy online and pick up at your local Buckle. See deta
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES
 *   MY BAG
