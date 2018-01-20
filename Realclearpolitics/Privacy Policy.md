@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Christopher Buskirk_: Trump's First Year: a Story of Promises Kept
+*   _Marc Thiessen_: Democrats Need to End Their Manufactured Crisis
     
-*   _Leon Panetta_: The World Needs to Know Trump Is Not Who We Are
+*   _Steve Israel_: The Trumpian Breakdown in Trust That Could Cause a Shutdown
     
-*   _Sens. Cotton_: Any DACA Deal Must End Chain Migration
+*   _Allen Guelzo_: The Truth About Trump's Successful First Year
     
-*   _Nicholas Kristof_: What We Can Learn From 'S-Hole Countries'
+*   _Cecile Richards_: Women Are America's Unstoppable Force
     
-*   _John Cassidy_: Chuck Schumer's DACA Dilemma
+*   _Alexandra DeSanctis_: The March for Life Is the Real March for Women
     
-*   _Joe Katzman_: Leftism Is a Status Machine Powered by the Media
+*   _David Ignatius_: Preparing Our Middle East Partners to Fight Their Own Battles
     
-*   _Paul Waldman_: How Trump Convinced U.S. That Character Doesn't Matter
+*   _David Frum_: An Exit From Trumpocracy
     
-*   _Lee Smith_: Did Russia Use Fusion GPS to Target Donald Trump?
+*   _Rich Lowry_: The 'Trump Is a Despot' Crew Is the Real Threat to Democracy
     
-*   _David Graham_: Congress Produces Drama While Mueller Produces Results
+*   _Paul Booth_: Building an Enduring Democratic Majority
     
-*   _Park MacDougald_: How 'Cheap Sex' Is Changing Our Lives -- and Our Politics
+*   _Matthew Continetti_: Team Obama Still Hasn't Learned the Lesson of 2016
     
-*   _Newcomer &. Stone_: Travis Kalanick's Fall Was a Lot Weirder Than Thought
+*   _Frank Bruni_: Donald Trump's Radical Honesty
     
-*   _Patricia Murphy_: Welcome to S-Town
+*   _Susan Page_: Trump's Tweets Overshadowed a Consequential First Year
     
-*   _Joel Kotkin_: Can the Trump Economy Trump Trump?
+*   _Adam Gopnik_: A Year of Donald Trump in the White House
     
-*   _E.J. Dionne_: Ready for the Anti-Trump Wave? Look at Wisconsin
+*   _Adam White_: Trumping the Administrative State
     
-*   _Spencer Morrison_: Dem Dilemma: Mass Immigration Destroys the Welfare State
+*   _James Arkin_: Blame Game Ramps Up as Shutdown Draws Near
     
-*   _Ronald Brownstein_: A Shaky Justification for Immigration Reform
+*   _Paul Krugman_: The G.O.P.'s Doomsday-Machine Politics
     
-*   _James Arkin_: Trump Visit Shows High Stakes for Penn. Special Election
+*   _Adriana Cohen_: Democrats: The Out-of-Touch Party
     
-*   _Tammy Bruce_: Obama Doctor Kills Liberal Dream of Trump Incapacity
+*   _Eugene Robinson_: An Administration With No Credibility Cannot Lead
     
-*   _Gail Collins_: Donald Trump Gets His Sanity Grades
+*   _Ace_: Trump's Instincts About the Political War Are Essentially Right
     
-*   _Heather Wilhelm_: The Feminist War on Common Sense
+*   _Bob Dreyfuss_: Steve Bannon Wades Into Russiagate
     
-*   _Molly Fischer_: Maybe Men Need to Be Scared for a While
+*   _Sara Carter_: Bombshell House Intel Report Exposes Massive FISA Abuses
     
-*   _Mary Eberstadt_: Eminem and Gandhi Are Right: Future Will Lean Pro-Life
+*   _Carl Anderson_: Bipartisan Consensus on Abortion Could Be Midterm Factor
     
-*   _Richard Trumka_: Working People Are Watching, Mr. President
+*   _Bandy Lee &. Norm Eisen_: Experts Silenced About Trump's Mental Fitness
     
-*   _Lewis Uhler &. Peter Ferrara_: Dow at 26,000: What It Means for Working People
+*   _Michael Walsh_: Trump Checkup Proves the Media Is Mentally Ill
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump-Critic Romney Seen as Midterm Outlier for Republicans
 *   Trump Visit Shows High Stakes for Pa. Special Election
-*   Flake: We're in Era Where Authoritarian Impulse Is Reasserting Itself
+*   Blame Game Ramps Up as Shutdown Draws Near
+*   Gingrich: Very Top of FBI Became Deeply Corrupt Under Dems
+*   Trump-Critic Romney Seen as Midterm Outlier for Republicans
 *   Fourth Time May Not Be the Charm on Funding, DACA
-*   Trump Accuses Democrat of Undermining Trust on Immigration
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve42
-    *   Disapprove58Disapprove +16
-*   President Trump Job ApprovalCBS News
-    *   Approve37
-    *   Disapprove58Disapprove +21
-*   President Trump Job ApprovalNPR/PBS/Marist
-    *   Approve40
-    *   Disapprove51Disapprove +11
-*   President Trump Job ApprovalPew Research
+*   President Trump Job ApprovalCNN
+    *   Approve43
+    *   Disapprove53Disapprove +10
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
     *   Approve39
-    *   Disapprove55Disapprove +16
+    *   Disapprove57Disapprove +18
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve45
+    *   Disapprove54Disapprove +9
+*   Congressional Job ApprovalCNN
+    *   Approve16
+    *   Disapprove78Disapprove +62
 
 More Latest Polls In The News
 
-*   NBC's Kasie Hunt: Dems Poised To Kill CR In Senate. Progressives Say "We Don't Care, We Want To Shut Down"
-*   Gutierrez: Immigrants Should Be Allowed To "Unite" Entire Family. Bring Dad, Brothers, Wife &. Children To U.S.
-*   CNN's Sanjay Gupta: President Trump "Borderline Obese," Heart Attack Likely Within 3-5 Years
-*   Flake Senate Speech: "We Are In An Era Where The Authoritarian Impulse Is Reasserting Itself"
-*   Kamala Harris to Kirstjen Nielsen: "Reasonable Inference" That You Are A Racist
+*   Maher: #MeToo Becoming #MeCarthyism, 'The Nothing Is Funny People' Trying To Take Over World
+*   Mulvaney: Obama "Weaponized" Government Shutdown In 2013, "Will Look Very Different" This Time
+*   Rep. Gaetz: "Heads Will Roll" at DOJ and FBI When Details Of FISA Abuse Memo Come Out
+*   CNN's Acosta: President Trump Is "The King Of Fake News," It's Just A Fact. "I Don't Have An Agenda"
+*   Chris Hayes vs. Rand Paul: If Your Concern Is The Debt and Deficit Why Did You Vote For The Tax Cut?
 
 *   Politics
 *   Policy
