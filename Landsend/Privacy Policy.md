@@ -75,7 +75,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Shirts &. Blouses
     *   Pants
     *   Jeans
-    *   Sleepwear
+    *   Pajamas &. Robes
     *   Dresses
     *   Skirts
     *   Blazers
@@ -135,7 +135,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Shorts
     *   Swimwear
     *   Activewear
-    *   Sleepwear
+    *   Pajamas &. Robes
     *   Underwear &. Long Underwear
     *   Bags
     
@@ -187,7 +187,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Dresses
     *   Pants &. Leggings
     *   Jeans
-    *   Sleepwear
+    *   Pajamas &. Robes
     *   Skirts &. Skorts
     *   Shorts
     *   Blazers
@@ -203,7 +203,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Sweaters
     *   Pants
     *   Jeans
-    *   Sleepwear
+    *   Pajamas &. Robes
     *   Shorts
     *   Blazers
     *   Swimwear
@@ -413,7 +413,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Shirts &. Blouses
     *   Pants
     *   Jeans
-    *   Sleepwear
+    *   Pajamas &. Robes
     *   Dresses
     *   Skirts
     *   Blazers
@@ -470,7 +470,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   Shorts
     *   Swimwear
     *   Activewear
-    *   Sleepwear
+    *   Pajamas &. Robes
     *   Underwear &. Long Underwear
     *   Bags
 *   Kids
@@ -503,7 +503,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Dresses
         *   Pants &. Leggings
         *   Jeans
-        *   Sleepwear
+        *   Pajamas &. Robes
         *   Skirts &. Skorts
         *   Shorts
         *   Blazers
@@ -519,7 +519,7 @@ menu Close 0 Free Shipping on $50+  |  Offers
         *   Sweaters
         *   Pants
         *   Jeans
-        *   Sleepwear
+        *   Pajamas &. Robes
         *   Shorts
         *   Blazers
         *   Swimwear
