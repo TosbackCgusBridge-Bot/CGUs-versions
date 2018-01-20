@@ -130,9 +130,11 @@ Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
 *   Low Rise Ankle Jegging
+*   Low Rise Crop Jegging
 *   Ankle Straight
 *   High Waisted Ankle Jegging
 *   High Waisted Jegging
+*   High Waisted Jegging Crop
 *   Low Rise Jegging
 *   Skinny
 *   Bootcut
@@ -387,9 +389,11 @@ Menu Find a Store Aeropostale
     *   Girls Jeans
         *   View All
         *   Low Rise Ankle Jegging
+        *   Low Rise Crop Jegging
         *   Ankle Straight
         *   High Waisted Ankle Jegging
         *   High Waisted Jegging
+        *   High Waisted Jegging Crop
         *   Low Rise Jegging
         *   Skinny
         *   Bootcut
@@ -564,4 +568,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. close dialogWant to snag15% OFFsitewide?GET 15% OFFI DON'T WANT 15% OFFNICE! Give us your email to snag15% OFFPlease enter aboveUNLOCK 15% OFFYOU’VE SNAGGED 15% OFFUse CodeBEX-PD2ZPF3LVWX7at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSContinue Shoppingclose dialog
+© 2018 Aeropostale. All Rights Reserved.
