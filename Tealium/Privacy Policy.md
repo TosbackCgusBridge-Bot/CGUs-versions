@@ -63,7 +63,7 @@
 Privacy Policy
 
 **Tealium Privacy Statement  
-**Effective as of January 10, 2018
+**Effective as of January 19, 2018
 
 **1      Purpose and Scope**
 
@@ -163,7 +163,7 @@ Individuals have a right to choose whether their Personal Data may be disclosed 
 
 **2.3**     **Accountability for Onward Transfer**
 
-We comply with the Privacy Shield Principles for all onward transfers of Personal Information from the EU, including the onward transfer liability provisions.
+We comply with the Privacy Shield Principles for all onward transfers of Personal Information from the EU and Switzerland, including the onward transfer liability provisions.
 
 **2.4**     **Security**
 
