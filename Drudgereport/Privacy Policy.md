@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+Take a look at Demand Path Optimization in action! intermarkets.net/201… via Intermarkets blog
+
+About 13 hours ago
+
 .@DRUDGE\_REPORT is a top external traffic referrer to Parse.ly's customers #ParselyContent @awwebinars twitter.com/parsely/…
 
-About 12 hours ago
+About a day ago
 
 My week on Twitter : 2 Mentions, 11.1K Mention Reach, 23 Likes, 10 Retweets, 17.1K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Jbgr…
 
-About 2 days ago
+About 3 days ago
 
 BTS look with @Requidan &. @IESBD Fred Diamond in our studio recording #salesgamechangerspodcast coming out soon! pic.twitter.com/j3P8…
 
-About 3 days ago
+About 4 days ago
 
 Our biggest fans this week: @Beet\_TV, @IndexExchange, @TheFinanceGenie. Thank you! via sumall.com/thankyou?… pic.twitter.com/QZNF…
 
-About 3 days ago
-
-Check out what our Senior BizDev Manager @mrmistry is saying about @facebook's Newsfeed and where publishers will find the greatest success econtentmag.com/Arti… via @econtentmag twitter.com/blastpr/…
-
-About 3 days ago
+About 4 days ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
