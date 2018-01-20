@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Tutorial: Continuous delivery of snaps with Circle CI ›
 *   Canonical brings Slack to the snap ecosystem ›
 *   Spectre Mitigation Updates Available for Testing in Ubuntu Proposed ›
 *   LXD Weekly Status #30 ›
 *   Monitor your Kubernetes Cluster ›
-*   Meltdown and Spectre Status Update ›
