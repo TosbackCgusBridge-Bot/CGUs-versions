@@ -269,6 +269,7 @@ Menu Close Menu Close
     *   ThinkPad Deals
     *   Desktop Deals
     *   Tablet Deals
+    *   Monitor Deals
     *   Accessory Deals
     *   Clearance
     *   Financing Options
@@ -327,11 +328,11 @@ Boldly individual
 
 Shop Now >.
 
-Breakthrough Performance
+Different Innovates Better
 
-Gain real business insights in real-time
+Transform your data center with ThinkSystem and ThinkAgile solutions.
 
-ThinkSystem DS4200 >. ThinkSystem DS6200 >.
+Learn more >.
 
 *   1
 *   2
@@ -462,7 +463,9 @@ Laptops Tablets Desktops Deals Laptops Tablets Desktops Deals Chat Select Countr
     *   Return Policy
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
-© 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+© 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
+
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -474,10 +477,6 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE Close
+SUBMIT CHATHIDE
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
-
-OUR APOLOGIES! Due to inclement weather, our call center is closed today. Chat representatives are still available to help you place your order.
-
-x
