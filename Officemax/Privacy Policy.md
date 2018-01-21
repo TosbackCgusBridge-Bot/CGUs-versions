@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals yZmUpzsQwgntSub3yEqX3g3
+Office Depot Deals uPxXePTqadXITgCxrVpCn\_z
 
 Search Suggestions
 
@@ -155,8 +155,8 @@ Never expires, ships for free
 
 Click to learn more.
 
-2% back in rewards on everything  
-Not a member? Join today. It's FREE!
+2% back in rewards on your favorite  
+supplies, furniture, technology &. more
 
  **1-800-GO-DEPOT**  
 (1-800-463-3768)   Live Chat Available 24/7  **FREE** store pickup.  
@@ -236,4 +236,4 @@ This promotion is for Rewards members only. To take advantage of exclusive offer
 
 Join Sign In
 
-/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll Feedback Will open a new window
+/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll
