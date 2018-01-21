@@ -101,6 +101,8 @@
     *   About
     *   Media Kit
 
+*   _Ruth Marcus_: What's So Uniquely Wrong About Trump's Presidency
+    
 *   _Marc Thiessen_: Democrats Need to End Their Manufactured Crisis
     
 *   _Steve Israel_: The Trumpian Breakdown in Trust That Could Cause a Shutdown
@@ -146,8 +148,6 @@
 *   _Carl Anderson_: Bipartisan Consensus on Abortion Could Be Midterm Factor
     
 *   _Bandy Lee &. Norm Eisen_: Experts Silenced About Trump's Mental Fitness
-    
-*   _Michael Walsh_: Trump Checkup Proves the Media Is Mentally Ill
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Tells March for Life: "We Are With You All the Way"
+*   Government Shutdown Begins and So Does the Finger-Pointing
+*   Schumer: This Will Be Called "the Trump Shutdown"
 *   Trump Visit Shows High Stakes for Pa. Special Election
-*   Blame Game Ramps Up as Shutdown Draws Near
-*   Gingrich: Very Top of FBI Became Deeply Corrupt Under Dems
 *   Trump-Critic Romney Seen as Midterm Outlier for Republicans
-*   Fourth Time May Not Be the Charm on Funding, DACA
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,6 +268,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve38
+    *   Disapprove58Disapprove +20
 *   President Trump Job ApprovalCNN
     *   Approve43
     *   Disapprove53Disapprove +10
@@ -277,14 +280,11 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve45
     *   Disapprove54Disapprove +9
-*   Congressional Job ApprovalCNN
-    *   Approve16
-    *   Disapprove78Disapprove +62
 
 More Latest Polls In The News
 
 *   Maher: #MeToo Becoming #MeCarthyism, 'The Nothing Is Funny People' Trying To Take Over World
-*   Mulvaney: Obama "Weaponized" Government Shutdown In 2013, "Will Look Very Different" This Time
+*   David Brooks: GOP Shut Down Government Over "Illegal Americans". "I'm Embarrassed For My Country"
 *   Rep. Gaetz: "Heads Will Roll" at DOJ and FBI When Details Of FISA Abuse Memo Come Out
 *   CNN's Acosta: President Trump Is "The King Of Fake News," It's Just A Fact. "I Don't Have An Agenda"
 *   Chris Hayes vs. Rand Paul: If Your Concern Is The Debt and Deficit Why Did You Vote For The Tax Cut?
