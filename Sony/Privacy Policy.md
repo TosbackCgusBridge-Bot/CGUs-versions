@@ -127,7 +127,7 @@ Learn More About #LostInMusic
 
 Coming this Friday to #LostInMusic LA is an exclusive preview of the #AVO576, a 576-speaker immersive sound experience that will transport you into the "Dreamscape," a space designed specifically around the headline artists.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -197,7 +197,7 @@ Big-Screen Entertainment
 
 Add a whole new dimension to your home (or anywhere) with the #XperiaTouch. See it now at #SonySquareNYC.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -287,7 +287,7 @@ View X900F 4K HDR TV on Instagram
 
 Viva Las Vegas – The #SonyCES round-up featuring. the Xperia XA2, XA2 Ultra and Xperia L2. Selfie lovers rejoice!
 
-2 days ago
+3 days ago
 
 View Tweet
 
