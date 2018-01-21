@@ -85,10 +85,6 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
-Thu, Jan 18, 2018 Why Is Everyone Talking about Email Authentication and Why Should I Care?
-
-Traditional content filtering approaches for email security will not stop the Business Email Compromise (BEC) attack vector because there is no malware nor attachment to pattern-match when a criminal sends a fake email impersonating your CFO, other executives, or partners and colleagues you are expected to trust.  In this webinar, we will look at an important new layer to email security - the authentication of senders. Implemented properly, DMARC can prevent serious fraud attacks, closing one of the most damaging and pernicious email attack vectors.
-
 Mon, Apr 16, 2018 RSA Conference 2018
 
 Once again OTA is an Associaton Sponsor of the RSA Conference. Join us and other OTA member conference sponsors Agari, Malwarebytes, Microsoft and Symantec in San Francisco. Many other OTA members will be exhibiting as well. When sessions involving OTA and member organizations are announced, we will highlight them. When you register, be sure to note you are a member of OTA. 
