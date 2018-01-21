@@ -8,13 +8,33 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   NYDJ Including Plus &. Petites
-    *   Dooney &. Bourke
+    *   Love Token Up to 70% Off
+    *   Must-Have Boots &. Booties
+    *   One Teaspoon
+    *   Nue by Shani Up to 70% Off
+    *   Made in Italy: Meshmerise Jewelry Starting at $15
+    *   American Twist Starting at $15
+    *   Rock &. Candy and Ziginy
+    *   Musse &. Cloud and Coolway
+    *   C&C California Sport
+    *   Casual Luxe: Totes &. More
+    *   Daisy Fuentes
+    *   On-Trend: Taolei Jewelry Under $25
+    *   Swim Faves Under $30
+    *   Free Shipping: Bedding Sets Starting at $14
+    *   Free Shipping: Rug Refresh
+    *   Kenneth Cole Reaction
+    *   Kinetix
+    *   Kuwalla
+    *   Fekkai Starting at $10
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   PinkBlush Maternity
+    *   Hoo
+    *   Gear Up for Baby: aden + anais
     *   Z by Zella
-    *   Louise et Cie
-    *   RAGA
     *   Nordstrom Rack-Exclusive Shoes from $30
     *   Nordstrom Rack Exclusive: Accessories from $10
+    
     *   Abound
     *   Only at Nordstrom Rack: Trend Jewelry from $10
     *   14th &. Union Tailored Clothing
@@ -22,8 +42,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Public Opinion Hoodies, Henleys &. More
     *   Nordstrom Rack Kids' Exclusive: Harper Canyon
     *   Harper Canyon Kids' Shoes Under $30
+    *   NYDJ Including Plus &. Petites
+    *   Dooney &. Bourke
+    *   RAGA
+    *   Louise et Cie
     *   Alexia Admor
-    *   Kenneth Cole Reaction Watches Under $40
     *   Workweek Chic: Shoes Under $50
     *   Catherine Malandrino Sleep
     *   Carlos by Carlos Santana
@@ -37,75 +60,62 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Color Pop: Wall Murals &. More
     *   Free Shipping: Luxe Accessories &. Storage
     *   Floatimini Girls' Swim
-    
     *   Cozy Cool: Sweaters Under $40
+    
     *   Trina Turk
     *   Trina Turk Swim &. Active
     *   Trina Turk Jewelry &. Handbags
-    *   Nine West
     *   Diesel Men
-    *   Diesel
-    *   Felina Sleep &. Lingerie
-    *   Best Over-the-Knee Boots
     *   Kiehl's Since 1851
-    *   Dance and Marvel
-    *   Cozy Knits ft. Caleigh &. Clover
-    *   Cecelia New York
-    *   Ramarim
-    *   14K Gold, Gemstones &. More Under $80
     *   Report Collection
     *   Dr. Martens Men
     *   Save the Duck
-    *   Men's Sun Up to 80% Off
+    *   MAC Cosmetics
     *   Free Shipping: Luxe Modern Glassware &. More
     *   CandyWirez Tech Accessories Under $15
     *   Sophie Catalou
-    *   Backpacks Starting at $20 ft. JanSport
     *   Peppercorn Kids
-    *   Perfect Parkas &. Puffers Up to 80% Off
-    *   Wool &. Faux Fur Up to 75% Off
-    *   Leather &. Shearling Up to 80% Off
-    *   Ski &. Performance Up to 65% Off
-    *   Winter Essentials: Cozy Boots &. Booties
-    
     *   Men's Coats ft. Cole Haan
     *   Men's Performance Outerwear
-    *   Snow Day-Ready: Kids' Must-Haves
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Beauty Must-Haves Starting at $10
     *   Tailored Recreation
     *   English Laundry Tailored Clothing
     *   Best Boots Under $100
     *   Lorenzo Uomo Dress Shirts
     *   Storage Must-Haves Starting at $10
-    *   MAC Cosmetics
-    *   Reading Is Fun: Dr. Seuss, Star Wars &. More
-    *   Naturino Express
-    *   Preschool Prep Company
-    *   Sunnylife Beach Essentials &. More
-    *   Cuisinart
-    *   Free Shipping: Pop Art Pillows Under $18
-    *   Raise a Glass: Barware &. More from $10
-    *   Parke &. Ronen
     *   Free Shipping: Rustic Decor Finds Starting at $10
-    *   Sovereign Code
-    *   GBX Starting at $30
-    *   Nic+Zoe Including Special Sizes
-    *   Desk to Dinner: Dresses ft. Sharagano
+    *   Kenneth Cole Reaction Watches Under $40
+    *   Men's Sun Up to 80% Off
     *   SmartWool
-    *   Quay Sun Starting at $20
-    *   BLANKNYC Denim
+    *   Nine West
+    *   Diesel
 *   WomenShop Sale Events
     
-    *   NYDJ Including Plus &. Petites
-    *   Dooney &. Bourke
+    *   Love Token Up to 70% Off
+    *   Must-Have Boots &. Booties
+    *   One Teaspoon
+    *   Nue by Shani Up to 70% Off
+    *   Made in Italy: Meshmerise Jewelry Starting at $15
+    *   American Twist Starting at $15
+    *   Rock &. Candy and Ziginy
+    *   Musse &. Cloud and Coolway
+    *   C&C California Sport
+    *   Casual Luxe: Totes &. More
+    *   Daisy Fuentes
+    *   On-Trend: Taolei Jewelry Under $25
+    *   Swim Faves Under $30
+    *   Fekkai Starting at $10
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   PinkBlush Maternity
     *   Z by Zella
-    *   Louise et Cie
-    *   RAGA
     *   Nordstrom Rack-Exclusive Shoes from $30
     *   Nordstrom Rack Exclusive: Accessories from $10
     *   Abound
     *   Only at Nordstrom Rack: Trend Jewelry from $10
+    
+    *   NYDJ Including Plus &. Petites
+    *   Dooney &. Bourke
+    *   RAGA
+    *   Louise et Cie
     *   Alexia Admor
     *   Workweek Chic: Shoes Under $50
     *   Catherine Malandrino Sleep
@@ -118,65 +128,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Trina Turk
     *   Trina Turk Swim &. Active
     *   Trina Turk Jewelry &. Handbags
+    *   Kiehl's Since 1851
+    *   MAC Cosmetics
+    *   SmartWool
     *   Nine West
     *   Diesel
     
-    *   Felina Sleep &. Lingerie
-    *   Best Over-the-Knee Boots
-    *   Kiehl's Since 1851
-    *   Dance and Marvel
-    *   Cozy Knits ft. Caleigh &. Clover
-    *   Cecelia New York
-    *   Ramarim
-    *   14K Gold, Gemstones &. More Under $80
-    *   Backpacks Starting at $20 ft. JanSport
-    *   Perfect Parkas &. Puffers Up to 80% Off
-    *   Wool &. Faux Fur Up to 75% Off
-    *   Leather &. Shearling Up to 80% Off
-    *   Ski &. Performance Up to 65% Off
-    *   Winter Essentials: Cozy Boots &. Booties
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Beauty Must-Haves Starting at $10
-    *   MAC Cosmetics
-    *   Nic+Zoe Including Special Sizes
-    *   Desk to Dinner: Dresses ft. Sharagano
-    *   SmartWool
-    *   Quay Sun Starting at $20
-    *   BLANKNYC Denim
-    
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
-    *   Lingerie
     *   Tech Accessories
     *   Accessories
+    *   Lingerie
 *   MenShop Sale Events
     
+    *   Kenneth Cole Reaction
+    *   Kinetix
+    *   Kuwalla
     *   14th &. Union Tailored Clothing
     *   Nordstrom Rack Exclusives: Men's Shoes
     *   Public Opinion Hoodies, Henleys &. More
-    *   Kenneth Cole Reaction Watches Under $40
     *   Jack Spade
     *   Soul Star Up to 70% Off
     *   Andrew Marc Up to 70% Off
     *   Diesel Men
     *   Report Collection
+    
     *   Dr. Martens Men
     *   Save the Duck
-    
-    *   Men's Sun Up to 80% Off
-    *   Backpacks Starting at $20 ft. JanSport
     *   Men's Coats ft. Cole Haan
     *   Men's Performance Outerwear
     *   Tailored Recreation
     *   English Laundry Tailored Clothing
     *   Best Boots Under $100
     *   Lorenzo Uomo Dress Shirts
-    *   Parke &. Ronen
-    *   Sovereign Code
-    *   GBX Starting at $30
+    *   Kenneth Cole Reaction Watches Under $40
+    *   Men's Sun Up to 80% Off
     
     Shop By Category
     *   Clothing
@@ -185,63 +174,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   PinkBlush Maternity
+    *   Hoo
+    *   Gear Up for Baby: aden + anais
     *   Nordstrom Rack Kids' Exclusive: Harper Canyon
     *   Harper Canyon Kids' Shoes Under $30
     *   Floatimini Girls' Swim
     *   Sophie Catalou
-    *   Backpacks Starting at $20 ft. JanSport
     *   Peppercorn Kids
-    *   Snow Day-Ready: Kids' Must-Haves
-    *   Reading Is Fun: Dr. Seuss, Star Wars &. More
-    *   Naturino Express
-    *   Preschool Prep Company
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Toys
     *   Kids Accessories
     *   Girls' Shoes
-    *   Girls Sizes 7-16
+    *   Baby Boy
     *   Baby Girl
     *   Baby Gear &. Essentials
-    *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
+    *   Girls Sizes 7-16
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Bedding Sets Starting at $14
+    *   Free Shipping: Rug Refresh
     *   Color Pop: Wall Murals &. More
     *   Free Shipping: Luxe Accessories &. Storage
     *   Free Shipping: Luxe Modern Glassware &. More
     *   CandyWirez Tech Accessories Under $15
     *   Storage Must-Haves Starting at $10
-    *   Sunnylife Beach Essentials &. More
-    *   Cuisinart
-    *   Free Shipping: Pop Art Pillows Under $18
-    *   Raise a Glass: Barware &. More from $10
     *   Free Shipping: Rustic Decor Finds Starting at $10
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Organization
+    *   Bedding
+    *   Kitchen &. Tabletop
     *   Outdoor Living
     *   Luggage &. Travel
-    *   Bath
     *   Accent Furniture
+    *   Bath
 *   BeautyShop Sale Events
     
+    *   Fekkai Starting at $10
+    *   ORA Derma Roller &. Microdermabrasion Tools
     *   NuMe Style Hair Tools
     *   RapidLash
     *   Kiehl's Since 1851
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Beauty Must-Haves Starting at $10
     *   MAC Cosmetics
     
     Shop By Category
     *   Makeup
     *   Hair Care
     *   Tools &. Accessories
-    *   Beauty Accessories
     *   Skin Care
     *   Bath &. Body
 
