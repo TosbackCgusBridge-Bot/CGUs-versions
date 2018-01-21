@@ -23,7 +23,7 @@ Curl up to soft fleece and cozy knits that’ll get you through winter. Shop swe
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES
 *   MY BAG
@@ -590,4 +590,4 @@ Your cart is full!
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
 ×**Hey You!**Want to stay updated on our latest styles and promotions?  
-Sign up for email and let’s make things official. Submit Email×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
+Sign up for email and let’s make things official. Submit Email× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
