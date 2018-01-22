@@ -101,6 +101,10 @@
     *   About
     *   Media Kit
 
+*   _Ruth Marcus_: Trump Does Not Believe in America
+    
+*   _Todd Hitt_: Four Resolutions for 2018
+    
 *   _Ruth Marcus_: What's So Uniquely Wrong About Trump's Presidency
     
 *   _Marc Thiessen_: Democrats Need to End Their Manufactured Crisis
@@ -144,10 +148,6 @@
 *   _Bob Dreyfuss_: Steve Bannon Wades Into Russiagate
     
 *   _Sara Carter_: Bombshell House Intel Report Exposes Massive FISA Abuses
-    
-*   _Carl Anderson_: Bipartisan Consensus on Abortion Could Be Midterm Factor
-    
-*   _Bandy Lee &. Norm Eisen_: Experts Silenced About Trump's Mental Fitness
     
 
 *   Previous
@@ -271,23 +271,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalABC News/Wash Post
     *   Approve38
     *   Disapprove58Disapprove +20
+*   2018 Generic Congressional VoteCNN
+    *   Democrats49
+    *   Republicans44Democrats +5
 *   President Trump Job ApprovalCNN
     *   Approve43
     *   Disapprove53Disapprove +10
 *   President Trump Job ApprovalNBC News/Wall St. Jrnl
     *   Approve39
     *   Disapprove57Disapprove +18
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove54Disapprove +9
 
 More Latest Polls In The News
 
+*   Lindsey Graham: "Outlier" Stephen Miller Is Holding Up DACA Deal
+*   Schumer Calls Trump "Dysfunctional President" On Senate Floor
+*   McConnell Signals He Will Not Change Senate Rules After Trump Calls For "Nuclear Option"
+*   While Visiting Troops On Syrian Border, Pence Blasts Senate Dems "Playing Politics With Military Funding"
 *   Maher: #MeToo Becoming #MeCarthyism, 'The Nothing Is Funny People' Trying To Take Over World
-*   David Brooks: GOP Shut Down Government Over "Illegal Americans". "I'm Embarrassed For My Country"
-*   Rep. Gaetz: "Heads Will Roll" at DOJ and FBI When Details Of FISA Abuse Memo Come Out
-*   CNN's Acosta: President Trump Is "The King Of Fake News," It's Just A Fact. "I Don't Have An Agenda"
-*   Chris Hayes vs. Rand Paul: If Your Concern Is The Debt and Deficit Why Did You Vote For The Tax Cut?
 
 *   Politics
 *   Policy
