@@ -6,31 +6,30 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movies Now Playing
     
     *   Jumanji: Welcome to the Jungle
-    *   Insidious: The Last Key
-    *   Star Wars: The Last Jedi (2017)
+    *   The Post
+    *   The Commuter
     *   The Greatest Showman
+    *   Star Wars: The Last Jedi (2017)
+    *   Insidious: The Last Key
+    *   Proud Mary
     *   Pitch Perfect 3
+    *   Darkest Hour
     *   Ferdinand
     *   Molly's Game
-    *   Darkest Hour
-    *   Coco (2017)
-    *   All the Money in the World
-    *   The Shape of Water (2017)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Commuter
-    *   Paddington 2
-    *   Proud Mary
-    *   The Post
-    *   Ang Larawan
-    *   Condorito: The Movie
-    *   The Greatest Showman Sing-Along
-    *   Humor Me
-    *   Inside (2018)
-    *   The Insult
-    *   My Art
+    *   12 Strong
+    *   Den of Thieves
+    *   Forever My Girl
+    *   Phantom Thread
+    *   A Ciambra
+    *   The Final Year
+    *   Mary and the Witch's Flower (2017)
+    *   Ridge Runners
+    *   The Road Movie
+    *   This Giant Papier-Mâché Boulder is Actually Really Heavy
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -39,13 +38,15 @@ Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   12 Strong
-    *   Den of Thieves
-    *   Forever My Girl
     *   Maze Runner: The Death Cure
     *   Winchester (2018)
     *   Fifty Shades Freed
     *   Peter Rabbit
+    *   The 15:17 to Paris
+    *   Early Man
+    *   Samson (2018)
+    *   Annihilation
+    *   Game Night (2018)
     *   See All Coming Soon
     
     Explore More
@@ -67,9 +68,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: Bob Odenkirk to Star in Action Thriller Read More
-    *   Movie News: John Williams Wants to Compose 'Star Wars: Episode IX' Read More
-    *   Marvel's Black Widow Is Closer to Getting Her Own Movie Read More
+    *   The Week in Movie News: 'Flashpoint' Directors, DiCaprio Reuniting With Tarantino and More Read More
+    *   Movie News: Frank Grillo to Star in Crime Thriller 'Into the Ashes' Read More
+    *   FandangoNOW Pairings: 12 Strong, Den of Thieves, and Phantom Thread Read More
     
     Explore Content
     *   Movie Reviews
@@ -284,21 +285,21 @@ Offers
     
     Buy tickets to 'Insidious: The Last Key’ and own any previous ‘Insidious’ movie to watch at home for just $2.99 each. BUY TICKETS
     
-*   'I, Tonya' Sweepstakes
+*   20% Off All 4K Movies!
     
-    Buy tickets now for a chance to chill in L.A. with Margot Robbie! BUY TICKETS
+    Use code “4K18” to get 20% off stunning 4K Ultra HD and HDR movies. WATCH NOW
     
 
 New + Coming soon
 
-*   Star Wars: The Last Jedi (2017)
-*   Jumanji: Welcome to the Jungle
-*   Pitch Perfect 3
 *   Maze Runner: The Death Cure
+*   Fifty Shades Freed
 *   Black Panther
 *   A Wrinkle in Time
 *   Tomb Raider (2018)
 *   Ready Player One
+*   Avengers: Infinity War
+*   Solo: A Star Wars Story
 
 Experience + Explore
 
