@@ -1,7 +1,7 @@
 Playoffs - CONFERENCE
 
-*   JAX12-6NE14-3Sun 3:05 PM ET
-*   MIN14-3PHI14-3Sun 6:40 PM ET
+*   MIN7PHI•384th ? 02:00
+*   JAX12-720NE15-324Final
 
 *   News
 *   Scores
@@ -22,8 +22,8 @@ Playoffs - CONFERENCE
 
 Playoffs - CON
 
-*   JAX12-6NE14-3Sun 3:05 PM ET
-*   MIN14-3PHI14-3Sun 6:40 PM ET
+*   MIN7PHI•384th ? 02:00
+*   JAX20NE24Final
 
 *   News
 *   Scores
