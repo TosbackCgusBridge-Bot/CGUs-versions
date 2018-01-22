@@ -8,6 +8,40 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Luma Italy Up to 80% Off
+    *   Last Call: Shoes Up to 65% Off
+    *   Sorial Handbags Up to 70% Off
+    *   Electric Yoga Starting at $20
+    *   CZ by Kenneth Jay Lane Up to 75% Off
+    *   Sunday Funday: Styles Up to 80% Off
+    *   D24K by D'OR Luxury Skin Care Up to 90% Off
+    *   Free Shipping: Kitchen Blowout
+    *   Men's Final Few Up to 75% Off
+    *   Men's Shoe Blowout
+    *   Bulova Watches Up to 70% Off
+    *   Wacoal &. b.tempt'd by Wacoal
+    *   Romeo &. Juliet Couture Up to 80% Off
+    *   Jessica Simpson
+    *   Rachel Rachel Roy
+    *   Jag Jeans Under $35 Incl. Special Sizes
+    *   Bandolino
+    *   Feel the Piece Up to 80% Off
+    *   Mia Marcelle Swim
+    *   Free Shipping: Gold &. Silver Jewelry Under $80
+    *   Madden Girl Backpacks &. Weekend Bags
+    *   K-Swiss, PUMA &. More: Sneakers Up to 50% Off
+    *   French Blu Up to 80% Off
+    *   Levinas Up to 85% Off
+    *   Hart Schaffner Marx &. More
+    *   Allen Edmonds
+    *   Zoe Ayla Cosmetics Up to 75% Off
+    *   The Art of Clean: Sonic Brushes Up to 50% Off
+    *   Wear to Work: Men's Pants ft. JB Britches
+    *   Paulinie
+    *   Fun Tech Finds Starting at $10
+    *   Valencia Imports: $20 &. Under
+    
+    *   Statement Jewelry from Sparkling Sage
     *   Love Token Up to 70% Off
     *   Must-Have Boots &. Booties
     *   One Teaspoon
@@ -34,14 +68,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Z by Zella
     *   Nordstrom Rack-Exclusive Shoes from $30
     *   Nordstrom Rack Exclusive: Accessories from $10
-    
     *   Abound
     *   Only at Nordstrom Rack: Trend Jewelry from $10
     *   14th &. Union Tailored Clothing
     *   Nordstrom Rack Exclusives: Men's Shoes
     *   Public Opinion Hoodies, Henleys &. More
+    
     *   Nordstrom Rack Kids' Exclusive: Harper Canyon
-    *   Harper Canyon Kids' Shoes Under $30
     *   NYDJ Including Plus &. Petites
     *   Dooney &. Bourke
     *   RAGA
@@ -55,47 +88,56 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   NuMe Style Hair Tools
     *   RapidLash
     *   Jack Spade
-    *   Soul Star Up to 70% Off
-    *   Andrew Marc Up to 70% Off
+    *   Harper Canyon Kids' Shoes Under $30
+    *   Cozy Cool: Sweaters Under $40
     *   Color Pop: Wall Murals &. More
     *   Free Shipping: Luxe Accessories &. Storage
     *   Floatimini Girls' Swim
-    *   Cozy Cool: Sweaters Under $40
-    
-    *   Trina Turk
-    *   Trina Turk Swim &. Active
-    *   Trina Turk Jewelry &. Handbags
     *   Diesel Men
-    *   Kiehl's Since 1851
     *   Report Collection
     *   Dr. Martens Men
     *   Save the Duck
-    *   MAC Cosmetics
+    *   Men's Sun Up to 80% Off
+    *   Soul Star Up to 70% Off
+    *   Andrew Marc Up to 70% Off
+    *   Kenneth Cole Reaction Watches Under $40
     *   Free Shipping: Luxe Modern Glassware &. More
     *   CandyWirez Tech Accessories Under $15
     *   Sophie Catalou
     *   Peppercorn Kids
-    *   Men's Coats ft. Cole Haan
-    *   Men's Performance Outerwear
-    *   Tailored Recreation
-    *   English Laundry Tailored Clothing
-    *   Best Boots Under $100
-    *   Lorenzo Uomo Dress Shirts
-    *   Storage Must-Haves Starting at $10
-    *   Free Shipping: Rustic Decor Finds Starting at $10
-    *   Kenneth Cole Reaction Watches Under $40
-    *   Men's Sun Up to 80% Off
-    *   SmartWool
-    *   Nine West
     *   Diesel
 *   WomenShop Sale Events
     
+    *   Luma Italy Up to 80% Off
+    *   Last Call: Shoes Up to 65% Off
+    *   Sorial Handbags Up to 70% Off
+    *   Electric Yoga Starting at $20
+    *   CZ by Kenneth Jay Lane Up to 75% Off
+    *   Sunday Funday: Styles Up to 80% Off
+    *   D24K by D'OR Luxury Skin Care Up to 90% Off
+    *   Bulova Watches Up to 70% Off
+    *   Wacoal &. b.tempt'd by Wacoal
+    *   Romeo &. Juliet Couture Up to 80% Off
+    *   Jessica Simpson
+    *   Rachel Rachel Roy
+    *   Jag Jeans Under $35 Incl. Special Sizes
+    *   Bandolino
+    *   Feel the Piece Up to 80% Off
+    *   Mia Marcelle Swim
+    *   Free Shipping: Gold &. Silver Jewelry Under $80
+    *   Madden Girl Backpacks &. Weekend Bags
+    *   K-Swiss, PUMA &. More: Sneakers Up to 50% Off
+    *   French Blu Up to 80% Off
+    *   Zoe Ayla Cosmetics Up to 75% Off
+    *   The Art of Clean: Sonic Brushes Up to 50% Off
+    *   Statement Jewelry from Sparkling Sage
     *   Love Token Up to 70% Off
     *   Must-Have Boots &. Booties
     *   One Teaspoon
     *   Nue by Shani Up to 70% Off
     *   Made in Italy: Meshmerise Jewelry Starting at $15
     *   American Twist Starting at $15
+    
     *   Rock &. Candy and Ziginy
     *   Musse &. Cloud and Coolway
     *   C&C California Sport
@@ -111,7 +153,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Nordstrom Rack Exclusive: Accessories from $10
     *   Abound
     *   Only at Nordstrom Rack: Trend Jewelry from $10
-    
     *   NYDJ Including Plus &. Petites
     *   Dooney &. Bourke
     *   RAGA
@@ -125,13 +166,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   NuMe Style Hair Tools
     *   RapidLash
     *   Cozy Cool: Sweaters Under $40
-    *   Trina Turk
-    *   Trina Turk Swim &. Active
-    *   Trina Turk Jewelry &. Handbags
-    *   Kiehl's Since 1851
-    *   MAC Cosmetics
-    *   SmartWool
-    *   Nine West
     *   Diesel
     
     Shop By Category
@@ -139,33 +173,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jewelry
     *   Shoes
     *   Handbags
+    *   Lingerie
     *   Tech Accessories
     *   Accessories
-    *   Lingerie
+    *   Watches
 *   MenShop Sale Events
     
+    *   Men's Final Few Up to 75% Off
+    *   Men's Shoe Blowout
+    *   Bulova Watches Up to 70% Off
+    *   Levinas Up to 85% Off
+    *   Hart Schaffner Marx &. More
+    *   Allen Edmonds
+    *   The Art of Clean: Sonic Brushes Up to 50% Off
+    *   Wear to Work: Men's Pants ft. JB Britches
     *   Kenneth Cole Reaction
     *   Kinetix
     *   Kuwalla
     *   14th &. Union Tailored Clothing
+    
     *   Nordstrom Rack Exclusives: Men's Shoes
     *   Public Opinion Hoodies, Henleys &. More
     *   Jack Spade
-    *   Soul Star Up to 70% Off
-    *   Andrew Marc Up to 70% Off
     *   Diesel Men
     *   Report Collection
-    
     *   Dr. Martens Men
     *   Save the Duck
-    *   Men's Coats ft. Cole Haan
-    *   Men's Performance Outerwear
-    *   Tailored Recreation
-    *   English Laundry Tailored Clothing
-    *   Best Boots Under $100
-    *   Lorenzo Uomo Dress Shirts
-    *   Kenneth Cole Reaction Watches Under $40
     *   Men's Sun Up to 80% Off
+    *   Soul Star Up to 70% Off
+    *   Andrew Marc Up to 70% Off
+    *   Kenneth Cole Reaction Watches Under $40
     
     Shop By Category
     *   Clothing
@@ -174,6 +211,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Paulinie
+    *   Valencia Imports: $20 &. Under
     *   PinkBlush Maternity
     *   Hoo
     *   Gear Up for Baby: aden + anais
@@ -187,45 +226,45 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Girls Sizes 2T-6X
     *   Kids Accessories
     *   Girls' Shoes
-    *   Baby Boy
-    *   Baby Girl
     *   Baby Gear &. Essentials
+    *   Baby Boy
     *   Girls Sizes 7-16
+    *   Baby Girl
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Kitchen Blowout
+    *   Fun Tech Finds Starting at $10
     *   Free Shipping: Bedding Sets Starting at $14
     *   Free Shipping: Rug Refresh
     *   Color Pop: Wall Murals &. More
     *   Free Shipping: Luxe Accessories &. Storage
     *   Free Shipping: Luxe Modern Glassware &. More
     *   CandyWirez Tech Accessories Under $15
-    *   Storage Must-Haves Starting at $10
-    *   Free Shipping: Rustic Decor Finds Starting at $10
     
     Shop By Category
-    *   Home Decor
-    *   Organization
-    *   Bedding
     *   Kitchen &. Tabletop
-    *   Outdoor Living
+    *   Home Decor
+    *   Bedding
+    *   Organization
     *   Luggage &. Travel
-    *   Accent Furniture
+    *   Outdoor Living
     *   Bath
 *   BeautyShop Sale Events
     
+    *   D24K by D'OR Luxury Skin Care Up to 90% Off
+    *   Zoe Ayla Cosmetics Up to 75% Off
+    *   The Art of Clean: Sonic Brushes Up to 50% Off
     *   Fekkai Starting at $10
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   NuMe Style Hair Tools
     *   RapidLash
-    *   Kiehl's Since 1851
-    *   MAC Cosmetics
     
     Shop By Category
-    *   Makeup
     *   Hair Care
-    *   Tools &. Accessories
     *   Skin Care
+    *   Makeup
+    *   Tools &. Accessories
     *   Bath &. Body
 
 SearchHauteLook Privacy PolicyHauteLook Privacy Policy Overview
