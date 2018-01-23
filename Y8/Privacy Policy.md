@@ -13,33 +13,33 @@ Browse LIBRARY
 
 CATEGORIES
 
-*   Games for girls 20,782 games
+*   Games for girls 20,796 games
 *   Driving &. Racing Games 6,628 games
 *   Strategy &. RPG Games 2,273 games
 *   Management Games 3,618 games
-*   Thinking Games 11,121 games
+*   Thinking Games 11,123 games
 *   Action &. Adventure Games 15,527 games
 *   Sports Games 2,158 games
-*   Shooting Games 7,680 games
+*   Shooting Games 7,683 games
 *   Fighting Games 2,085 games
-*   Skill Games 9,497 games
-*   Arcade &. Classic Games 12,084 games
+*   Skill Games 9,500 games
+*   Arcade &. Classic Games 12,087 games
 *   Fun &. Crazy Games 2,286 games
 
 Tags
 
-*   Running831
-*   Blood1,105
-*   Love943
-*   Mahjong278
+*   Action7,624
+*   Sports2,051
+*   Adventure3,637
+*   Drunk55
+*   Multiplication65
 *   Clicker133
-*   Bicycle227
 *   View All Tags 374
 
 Play with friends  
 Powered by id.net 118 id.net Multiplayer Games 1,270 id.net High Score Games 868 id.net Achievements Games 763 id.net Screenshots Games 1,268 id.net Online Save Games 2,291 All id.net Games Last Highscore:
 
-**12** points on Catch the ball 2 by Linh
+**85** points on Pixel Road Taxi Depot by Hekuma
 
 *   Contact Form
 *   Submit a Game or Animation
@@ -47,7 +47,7 @@ Powered by id.net 118 id.net Multiplayer Games 1,270 id.net High Score Games 868
 *   Privacy Policy
 *   Terms of Use
 
-Report bad translation Share881K Register Log in My Profile 0 points
+Bad translation? Share881K Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
