@@ -279,7 +279,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Camis + Tanks
 *   Hoodies + Jackets
 *   Leggings + Pants
-*   Shorts
 *   Intimates
 *   Accessories
 
@@ -505,7 +504,6 @@ Menu Find a Store Aeropostale
         *   Camis + Tanks
         *   Hoodies + Jackets
         *   Leggings + Pants
-        *   Shorts
         *   Intimates
         *   Accessories
     
