@@ -1,7 +1,7 @@
 Playoffs - CONFERENCE
 
-*   MIN7PHI•384th ? 02:00
 *   JAX12-720NE15-324Final
+*   MIN14-47PHI15-338Final
 
 *   News
 *   Scores
@@ -14,6 +14,7 @@ Playoffs - CONFERENCE
 *   Tickets
 *   Shop
 *   Teams
+*   Pro Bowl
 *   Game Pass
 *   Stats
 *   Ways to Watch
@@ -22,8 +23,8 @@ Playoffs - CONFERENCE
 
 Playoffs - CON
 
-*   MIN7PHI•384th ? 02:00
 *   JAX20NE24Final
+*   MIN7PHI38Final
 
 *   News
 *   Scores
@@ -34,7 +35,8 @@ Playoffs - CON
 *   Playoff Picture
 *   Super Bowl
 
-*   *   Game Pass
+*   *   Pro Bowl
+    *   Game Pass
     *   Stats
     *   Ways to Watch
     *   NFL Network
