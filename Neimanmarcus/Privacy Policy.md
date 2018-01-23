@@ -150,8 +150,6 @@ Privacy Policy &. Terms of Use
     *   P.O. Box 650589
     *   Dallas, TX 75265-0589
     
-    Close
-    
 *   Website Accessibility Policy
     
     The Neiman Marcus Group LLC ("NMG") is committed to diversity, inclusion and accessibility in all we do, including our websites. This Accessibility Policy serves to document the scope, standards and best practices that we use to ensure our websites benefit from the principles defined in the Web Content Accessibility Guidelines (WCAG 2.0) of the World Wide Web Consortium. This Accessibility Policy applies to all websites owned and operated by NMG in the U.S.
@@ -168,8 +166,6 @@ Privacy Policy &. Terms of Use
     
     This Accessibility Policy is subject to annual review to ensure the scope, standards and best practices support NMG's commitment to diversity, inclusion and accessibility.
     
-    Close
-    
 *   Warranty Information
     
     Some items on our website have a manufacturer's warranty. this is noted in the product description. To obtain a written warranty for any of these items, send a specific written request to:
@@ -177,8 +173,6 @@ Privacy Policy &. Terms of Use
     *   Neiman Marcus
     *   P.O. Box 650589
     *   Dallas, TX 75265-0589
-    
-    Close
     
 *   Conditions of Use
     
@@ -237,8 +231,6 @@ Privacy Policy &. Terms of Use
     
     As part of our ongoing commitment to ensure that your shopping experience with NeimanMarcus.com is protected, NeimanMarcus.com will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law.
     
-    Close
-    
 *   Security Against Fraud
     
     It should come as no surprise that one of our highest priorities at The Neiman Marcus Group is keeping your personal information secure and confidential. To that end, we would like to share some of the most common types of internet scams and suggestions on how you can be aware of and help protect yourself against identity theft.
@@ -270,16 +262,12 @@ Privacy Policy &. Terms of Use
     A similar but low-tech scam circulates occasionally, in the form of a check, purportedly from The Neiman Marcus Group or one of our divisions, and instructions to deposit it right away, usually in order to receive the balance of a larger sum you have "won" or that has otherwise come to you unexpectedly. You will be instructed to immediately send a payment, in the form of a second personal check, wire transfer, or similar, to some third party to cover taxes, processing fees, administrative costs, or some similarly vague expense. The check you receive in the mail likely would look quite authentic and probably would have our Neiman Marcus Group trademark on it. Do not deposit the check or follow the instructions you receive with it. The check you deposit will bounce. the check you write or funds you wire will clear, before you know about the bounce, and certainly before you can stop payment on your own check.
     
     Important Risk-Reducing Tips
-    
     *   Never respond to emails that cannot be verified.
     *   Never provide personal information via email.
     *   Contact the business by using legitimate phone numbers to verify the request.
     *   Enter websites using your browser and not by clicking on provided links.
     *   Be cautious of any solicitation requesting that you deposit a check or pay a fee to collect a prize, get a job, or cover vaguely described "costs".
     *   Consider filing a report with the Federal Trade Commission and/or state attorney general's consumer protection office, or the FBI. Online complaints may be filed with the FTC at www.ftccomplaintassistant.gov, and white collar crimes may be reported to the FBI at www.ic3.gov/complaint/default.aslix.
-    
-    Close
-    
 *   Mobile Terms of Use NEIMAN MARCUS MOBILE APPLICATION TERMS OF USE
     
     **THE FOLLOWING TERMS OF USE ("TERMS OF USE") APPLY TO YOUR USE OF THE NEIMAN MARCUS MOBILE APP, WHICH IS CURRENTLY AVAILABLE IN THE APPLE® APP STORE. TO THE EXTENT YOU USE THE MOBILE APP TO ACCESS THE NEIMAN MARCUS WEBSITE, OR YOUR USE OF THE NEIMAN MARCUS MOBILE APP OTHERWISE INCLUDES THE USE OF THE NEIMAN MARCUS WEBSITE, THE POLICIES, TERMS AND CONDITIONS GOVERNING YOUR USE OF THE WEBSITE (COLLECTIVELY, THE "WEBSITE TERMS"), WHICH TERMS ARE AVAILABLE AT WWW.NEIMANMARCUS.COM, APPLY TO SUCH USE. IN THE EVENT OF A CONFLICT BETWEEN THE WEBSITE TERMS AND THESE TERMS OF USE, THESE TERMS OF USE SHALL CONTROL. You must download the Neiman Marcus mobile application known as the "NM App" onto your compatible mobile device (currently iOs devices) in order to use it. The NM App includes different services and your use of each service is subject to the service-specific terms described below, as well as the general terms applicable to your use of the NM App. The NM App offers the following services, as well as general NM App features:**
@@ -474,7 +462,4 @@ Privacy Policy &. Terms of Use
     All terms and conditions in these Terms of Use that by their nature are continuing will survive the termination of these Terms of Use.  
     For questions or concerns about your use of the NM App or Services, you may contact us at 888-888-4757 or by email at neimanmarcus@customercare.neimanmarcus.com.
     
-    Mobile Terms of Use Last Update 7-14-16.  
-      
-    
-    Close
+    Mobile Terms of Use Last Update 7-14-16.
