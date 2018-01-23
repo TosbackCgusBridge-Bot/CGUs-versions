@@ -350,7 +350,7 @@ FLEX 5 (15")
 
 Pen-point sensitive touch screen and durable 360 degree hinge.
 
-TAB 4 10 PLUS ADDS IT ALL
+TAB 4 8 PLUS ADDS IT ALL
 
 Super sound. Separate user accounts. And simply dazzling visuals.
 
