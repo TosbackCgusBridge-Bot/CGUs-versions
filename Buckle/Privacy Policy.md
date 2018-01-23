@@ -23,7 +23,7 @@ Curl up to soft fleece and cozy knits that’ll get you through winter. Shop swe
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES
 *   MY BAG
