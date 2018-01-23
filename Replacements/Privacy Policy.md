@@ -157,7 +157,7 @@ Flatware Specials
     *   Yard Sale
     
     *   Dinnerware Sets &. More
-    *   Warehouse SaleSave Up to 50% >.
+    *   Warehouse SaleShop our 2018 Winter Lookbook >.
 
 *   Our Story
 *   Services
