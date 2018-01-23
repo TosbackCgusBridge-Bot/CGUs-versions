@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Ruth Marcus_: Trump Does Not Believe in America
+*   _Davis &. Haberman_: Trump's Uncertainty Complicates Immigration Impasse
     
-*   _Todd Hitt_: Four Resolutions for 2018
+*   _John Fund_: Dems Will Regret Launching Shutdown Over Immigration Policy
     
-*   _Ruth Marcus_: What's So Uniquely Wrong About Trump's Presidency
+*   _Ezra Klein_: Are Democrats Becoming More Like Republicans?
     
-*   _Marc Thiessen_: Democrats Need to End Their Manufactured Crisis
+*   _Sharyl Attkisson_: Was Lynch Coordinating With Comey in Clinton Probe?
     
-*   _Steve Israel_: The Trumpian Breakdown in Trust That Could Cause a Shutdown
+*   _Frida Ghitis_: Trump's America Is Caving, as Autocrats Rise
     
-*   _Allen Guelzo_: The Truth About Trump's Successful First Year
+*   _Tom Rogan_: Defense Sec. Mattis and America's New Realist Strategy
     
-*   _Cecile Richards_: Women Are America's Unstoppable Force
+*   _Peter Hasson_: Obama Mocked Trump, Now Trump Is Undoing His Legacy
     
-*   _Alexandra DeSanctis_: The March for Life Is the Real March for Women
+*   _Sean Wilentz_: They Were Bad. Trump May Be Worse.
     
-*   _David Ignatius_: Preparing Our Middle East Partners to Fight Their Own Battles
+*   _Michael Goodwin_: James O'Keefe Brings Back the Practice of Journalism
     
-*   _David Frum_: An Exit From Trumpocracy
+*   _Paul Waldman_: Shutdown Will End, But the Divisions Will Remain
     
-*   _Rich Lowry_: The 'Trump Is a Despot' Crew Is the Real Threat to Democracy
+*   _Steve Cortes_: California Turns Law Enforcement Upside Down
     
-*   _Paul Booth_: Building an Enduring Democratic Majority
+*   _Alice Stewart_: On Shutdown, Democrats Have a Lot of Explaining to Do
     
-*   _Matthew Continetti_: Team Obama Still Hasn't Learned the Lesson of 2016
+*   _Charles Blow_: Shutdown, Showdown, Sure Thing
     
-*   _Frank Bruni_: Donald Trump's Radical Honesty
+*   _Jeff Sessions_: Trump's Merit-Based Immigration System
     
-*   _Susan Page_: Trump's Tweets Overshadowed a Consequential First Year
+*   _David Faris_: Democrats Have All the Leverage in the Shutdown Standoff
     
-*   _Adam Gopnik_: A Year of Donald Trump in the White House
+*   _Jen Kerns_: Women's March--Group Therapy for Trump Haters?
     
-*   _Adam White_: Trumping the Administrative State
+*   _Amanda Marcotte_: On Abortion, It's Time to Start Trusting Women
     
-*   _James Arkin_: Blame Game Ramps Up as Shutdown Draws Near
+*   _Emma Green_: Science Is Giving the Pro-Life Movement a Boost
     
-*   _Paul Krugman_: The G.O.P.'s Doomsday-Machine Politics
+*   _Chuck Ross_: FBI 'Failed to Preserve' Months of Anti-Trump Agents' Texts
     
-*   _Adriana Cohen_: Democrats: The Out-of-Touch Party
+*   _Carol Anderson_: Why Do Republicans Hate America?
     
-*   _Eugene Robinson_: An Administration With No Credibility Cannot Lead
+*   _Jeff Greenfield_: The Thin Blue Wave
     
-*   _Ace_: Trump's Instincts About the Political War Are Essentially Right
+*   _Ross Douthat_: Trump So Far Is More Farce Than Tragedy
     
-*   _Bob Dreyfuss_: Steve Bannon Wades Into Russiagate
+*   _Daniel McCarthy_: Never Trump Fails to Learn From Trump's Successes
     
-*   _Sara Carter_: Bombshell House Intel Report Exposes Massive FISA Abuses
+*   _Susan Glasser_: The Man Who Put Andrew Jackson in Trump's Oval Office
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Government Shutdown Ends After Dems Relent
+*   Democrats Split on Deal Ending Shutdown Fight
+*   Gowdy: Strzok, Page Need to Explain Anti-Trump "Secret Society" Texts
 *   Trump Tells March for Life: "We Are With You All the Way"
-*   Government Shutdown Begins and So Does the Finger-Pointing
-*   Schumer: This Will Be Called "the Trump Shutdown"
 *   Trump Visit Shows High Stakes for Pa. Special Election
-*   Trump-Critic Romney Seen as Midterm Outlier for Republicans
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalABC News/Wash Post
-    *   Approve38
-    *   Disapprove58Disapprove +20
-*   2018 Generic Congressional VoteCNN
-    *   Democrats49
-    *   Republicans44Democrats +5
-*   President Trump Job ApprovalCNN
-    *   Approve43
-    *   Disapprove53Disapprove +10
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve39
-    *   Disapprove57Disapprove +18
+*   President Trump Job ApprovalGallup
+    *   Approve36
+    *   Disapprove59Disapprove +23
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve42
+    *   Disapprove56Disapprove +14
+*   2018 Generic Congressional VoteABC News/Wash Post
+    *   Democrats51
+    *   Republicans39Democrats +12
+*   Direction of CountryRasmussen Reports
+    *   Right Direction39
+    *   Wrong Track55Wrong Track +16
 
 More Latest Polls In The News
 
+*   Coons To Dem 2020 Contenders: Focus On Solving Problems, Not "Some Primary Several Years From Now"
+*   Sarah Sanders: DREAMers Should "Storm Capitol Hill"
 *   Lindsey Graham: "Outlier" Stephen Miller Is Holding Up DACA Deal
 *   Schumer Calls Trump "Dysfunctional President" On Senate Floor
 *   McConnell Signals He Will Not Change Senate Rules After Trump Calls For "Nuclear Option"
-*   While Visiting Troops On Syrian Border, Pence Blasts Senate Dems "Playing Politics With Military Funding"
-*   Maher: #MeToo Becoming #MeCarthyism, 'The Nothing Is Funny People' Trying To Take Over World
 
 *   Politics
 *   Policy
