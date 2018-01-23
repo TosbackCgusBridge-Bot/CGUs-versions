@@ -28,7 +28,7 @@ Skip to main content
 
 Internet Acceptable Use Policy Acceptable Use Policy
 
-Effective July 2016
+Effective January 22, 2018
 
 Important Note: Cable One, Inc., may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Cable One residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Cable One users can be directed to abuse@cableone.net. Visit http://www.cableone.net/legal/open-internet to review Cable One's Network Management Disclosure Statement.
 
@@ -113,7 +113,9 @@ Users may also monitor their bandwidth usage in the MyBandwidth section of http:
 
 **What is Excessive Use?**
 
-Excessive use means bandwidth or data usage that is significantly higher than typical usage for which our network is designed. Excessive Users consume so much data that their usage could negatively impact the Service provided to other customers. In order to ensure an optimized Internet experience for all customers, data plans have been assigned to all Internet services.
+Excessive use means bandwidth or data usage that is significantly higher than typical usage for which our network is designed. Excessive Users consume so much data that their usage could negatively impact the Service provided to other customers.
+
+In order to ensure an optimized Internet experience for all customers, data plans have been assigned to many Internet services plans:
 
 Plan name Data limit Lite Plan 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 600GB Data Plan Streamer &. Gamer Plan 900GB Data Plan Roomate Plan 1200GB Data Plan Power Home Plan 1500GB Data Plan\* GigaONE ® 1500GB Data Plan\*
 
@@ -121,11 +123,23 @@ Plan name Data limit Lite Plan 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12M
 
 **Data Policy**
 
-Customers who exceed their data plan 3 or more times in a rolling 12 month period may be required to upgrade to an Internet speed/plan that contains a larger data plan more suitable for their usage. The plan will be determined on the average of the months which customer usage exceeded their data plan and a customer must remain at the new plan for a minimum of 3 months. Customers will be notified via email and in-browser notifications and may monitor their data plan usage online at https://myaccount.cableone.net.
+Customers who exceed the above data plan 3 or more times in a rolling 12 month period may be required to upgrade to an Internet speed/plan that contains a larger data plan more suitable for their usage. The plan will be determined on the average of the months which customer usage exceeded their data plan and a customer must remain at the new plan for a minimum of 3 months. Customers will be notified via email and in-browser notifications and may monitor their data plan usage online at https://myaccount.cableone.net.
+
+**Data Policy Exceptions**
+
+Fargo, ND and Odessa, Texas Customers sold "Plus" Internet plans after 01/01/2018
+
+Plan name Data limit Starter Plus Plan NA Streamer &. Gamer Plus Plan NA Turbo Plus Plan NA GigaONE ® Plus NA
+
+\* Names, speeds, and data plans are subject to change
+
+**Data Policy**
+
+Customers on Plus Internet plans in these two communities do not have designated data plans assigned to the levels of service subscribed. However, customers on these plans who use more than 5TB of data during a billing period may be subject to speed reductions for the remainder of their billing cycle.
 
 **How does Cable One address Excessive Use or uncharacteristic use?**
 
-The Cable One residential service offering is a consumer product designed for personal use of the Internet. Therefore, if Cable One in its sole but reasonable discretion determines that a customer has exceeded the Excessive Use threshold or is using the Service in a manner significantly uncharacteristic of a typical residential user, Cable One reserves the right to (a) adjust, suspend or terminate Service accounts at any time and without notice. or (b) require the user to upgrade his service level or pay additional fees in accordance with Cable One's then-current, applicable rates and charges for such Service. or (c) use any technology to be chosen by Cable One at its sole discretion to slow the user's service for purposes of conserving bandwidth.
+The Cable One residential service offering is a consumer product designed for personal use of the Internet. Therefore, if Cable One in its sole but reasonable discretion determines that a customer has exceeded the Excessive Use threshold or is using the Service in a manner significantly uncharacteristic of a typical residential user, Cable One reserves the right to (a) adjust, suspend or terminate Service accounts at any time and without notice. or (b) require the user to upgrade his service level or pay additional fees in accordance with Cable One's then-current, applicable rates and charges for such Service. or (c) use any technology to be chosen by Cable One at its sole discretion to slow the user's service for purposes of conserving bandwidth and/or (d) require customers to utilize a specific modem(s) that provide efficient use of the network. .
 
 **What activities may cause excessive bandwidth consumption and uncharacteristic use?**
 
