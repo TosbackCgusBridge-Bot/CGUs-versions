@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 What Really Happened to Gianni Versace? 2 Vanderbilt Heirs Are Moving Out of the Breakers 3 In Praise of Meghan Markle's Messy Bun 4 17 Romantic Hotel Packages for Valentine's Day 5 Audrey Hepburn Through the Years Privacy Policy Dec 1, 2014
+Today's Top Stories 1 The Best Dressed at the 2018 SAG Awards 2 What Really Happened to Gianni Versace? 3 Vanderbilt Heirs Are Moving Out of the Breakers 4 In Praise of Meghan Markle's Messy Bun 5 17 Romantic Hotel Packages for Valentine's Day Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -180,12 +180,12 @@ Last revised on April 1, 2016
 Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
+*   Inside the World of Luxury Vacation Rentals
+*   Five Things To Know Before You Move To Malta
 *   T&C's Travel Tips Around Egypt
 *   How the Other Half Dies
 *   T&C Essentials: How to Pack the Perfect Picnic
 *   I Drank Like Don Draper at Lunch - And You Can Too
-*   The Space Cowgirl: Rosson Crow
-*   Going Places
 
 *   Newsletter
 *   Contact Us
