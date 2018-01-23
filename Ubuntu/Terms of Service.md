@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Desktop Weekly Update: January 22, 2018 ›
 *   Your first robot: Introduction to the Robot Operating System \[2/5\] ›
 *   Tutorial: Continuous delivery of snaps with Circle CI ›
 *   Canonical brings Slack to the snap ecosystem ›
-*   Spectre Mitigation Updates Available for Testing in Ubuntu Proposed ›
-*   LXD Weekly Status #30 ›
+*   Spectre mitigation updates available for testing in Ubuntu Proposed ›
