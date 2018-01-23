@@ -31,7 +31,6 @@ More Pages Privacy
     *   AutoCheck®
     *   AutoCount®
     *   Business Verification by Phone
-    *   Cross-Channel Marketing
     *   Client Registration
     *   ConsumerInfo.com Policy
     *   Data SelectSM
