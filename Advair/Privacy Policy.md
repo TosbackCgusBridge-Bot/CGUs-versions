@@ -206,14 +206,14 @@ Menu
         *   Back
         *   Innovation
         *   Turning the tide on antibiotic resistance
-        *   GSK’s Chief Immunology Officer discusses unlocking the secrets of the immune system to tackle disease
+        *   Unlocking the secrets of the immune system to tackle disease
         *   Rare diseases: Q&A with Martin Andrews
         *   Neuroscience: on the brain
         *   Can mosquitoes prevent malaria?
         *   Bacteria: friends or foes?
         *   Data transparency
-        *   Can an iPhone transform the way we monitor and improve patient health?
-        *   Harnessing the electrical language of the body to treat disease
+        *   Can an iPhone change the way we monitor and improve patient health?
+        *   Harnessing the body’s electrical language to treat disease
         *   Epigenetics: turn-ons and turn-offs
         *   Inside the open lab
         *   Scientists or detectives? Seeking new clues in COPD
@@ -248,7 +248,7 @@ Menu
         *   Struggling for breath
         *   Beyond Breathing: When Is Asthma Really Under Control?
         *   Clinical trials: a patient's view
-        *   Launching the Fostering Wellness initiative – young people, lead the way!
+        *   The Fostering Wellness initiative: young people lead the way!
         *   The Power of 24hrs
         *   Living with COPD Every Day: Sean’s Story
         *   Take a Breather: 8 Fast Facts on Severe Asthma
@@ -260,7 +260,7 @@ Menu
         *   Hyung makes sense of what consumers want
         *   Veterans continue to fight for respiratory health
         *   A birthday wish: for all COPD patients to live every breath
-        *   If you can’t breathe, you’re not going to be able to play the tuba
+        *   If you can’t breathe, you won’t be able to play the tuba
         *   Controlled asthma, to me, means freedom
     *   Our people
         *   Back
@@ -277,14 +277,14 @@ Menu
         *   Volunteering in Kenya: a once in a lifetime experience
         *   On the job with GSK's medical device research team
         *   Treating malaria: Making a change from the inside
-        *   Simon Wright, Head of Child Survival at Save the Children gives a partnership perspective
+        *   A partnership perspective with Simon Wright, Save the Children
         *   War and peace: Ivo, Nobel prize winner
         *   Changing Lives
         *   GSK and The National Museum of African American History and Culture
-        *   From the GSK archives: William Allen, scientist, businessman, abolitionist
-        *   Persevering to accelerate your career success: lessons from an engineer
+        *   GSK archives: William Allen, scientist, businessman, abolitionist
+        *   Persevere to accelerate your career success: lessons from an engineer
         *   Making the global goals our business
-        *   Charting a path to success: my International Women's Day advice is for everyone
+        *   My International Women's Day advice is for everyone
         *   Making healthy cool in school through Get HYPE Philly!
         *   Engineers as leaders: The art of the possible over the probable
         *   Work Together, Give Together
@@ -303,7 +303,7 @@ Menu
         *   Back
         *   How we do business
         *   Changing the way we work with healthcare professionals
-        *   Switching on to consumer choice: medicines for everyday health
+        *   Switching to consumer choice: medicines for everyday health
         *   Green chemistry
         *   Flonase: the journey from prescription to OTC
         *   Biosecurity and pandemic preparedness
@@ -353,6 +353,7 @@ Menu
         *   Science in the Summer™
         *   Vetri Cooking Lab
         *   EDCI Youth Leadership Council
+    *   US locations
     *   Policies, codes and standards
         *   Back
         *   Policies, codes and standards
