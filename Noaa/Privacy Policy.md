@@ -14,7 +14,7 @@ Jump to Content Enter Search Terms
 *   News and features
 *   Our work
 
-The U.S. Federal Government is currently shutdown. This site will remain available. However, it will not be updated. See www.weather.gov for critical weather information. i MENU CLOSE National Oceanic and Atmospheric AdministrationU.S. Department of Commerce Find your local weather Enter your ZIP code Enter Search Terms The U.S. Federal Government is currently shutdown. This site will remain available. However, it will not be updated. See www.weather.gov for critical weather information. i Content Protecting your privacy What to expect when visiting our website **The basics**
+MENU CLOSE National Oceanic and Atmospheric AdministrationU.S. Department of Commerce Find your local weather Enter your ZIP code Enter Search Terms Content Protecting your privacy What to expect when visiting our website **The basics**
 
 We are committed to the privacy of our visitors. We collect no personal information about you when you visit our website unless you choose to provide that information to us. Here is how we handle information about your visit to NOAA.gov: If you do nothing during your visit but browse through the website, read pages or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store information such as the following concerning your visit: 
 
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA: 2017 was 3rd warmest year on record for the globe NOAA, NASA scientists confirm Earth’s long-term warming trend continues AROUND NOAA // U.S. federal government shutdown: See our service information 2017 was 3rd warmest year on record for U.S. Snow squall warnings to begin this winter
+Enter Search Terms NOAA: 2017 was 3rd warmest year on record for the globe NOAA, NASA scientists confirm Earth’s long-term warming trend continues AROUND NOAA // 2017 was 3rd warmest year on record for U.S. Snow squall warnings to begin this winter
 
 *   About our agency
 *   News and features
