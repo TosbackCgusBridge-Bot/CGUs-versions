@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Davis &. Haberman_: Trump's Uncertainty Complicates Immigration Impasse
+*   _Marc Thiessen_: Democrats Just Got Rolled. They Can Blame Obama.
     
-*   _John Fund_: Dems Will Regret Launching Shutdown Over Immigration Policy
+*   _Ezra Klein_: Democrats Didn't Cave, They Still Have Their Shutdown Leverage
     
-*   _Ezra Klein_: Are Democrats Becoming More Like Republicans?
+*   _David Harsanyi_: Maybe Americans Just Want a Rational Immigration Policy
     
-*   _Sharyl Attkisson_: Was Lynch Coordinating With Comey in Clinton Probe?
+*   _Paul Krugman_: The Art of the Broken Deal
     
-*   _Frida Ghitis_: Trump's America Is Caving, as Autocrats Rise
+*   _Resnick &. Desiderio_: Dems Fold This Time, But They Better Not in 3 Weeks
     
-*   _Tom Rogan_: Defense Sec. Mattis and America's New Realist Strategy
+*   _Richard Manning_: 'Missing' 5 Months of FBI Texts Is Worse Than Watergate
     
-*   _Peter Hasson_: Obama Mocked Trump, Now Trump Is Undoing His Legacy
+*   _Abigail Tracy_: Did Devin Nunes Invent His Own Smoking Gun?
     
-*   _Sean Wilentz_: They Were Bad. Trump May Be Worse.
+*   _Howard Kurtz_: How 'Trump Trauma' Is Crippling the News Media
     
-*   _Michael Goodwin_: James O'Keefe Brings Back the Practice of Journalism
+*   _Dan Diamond_: Religious Activists on the Rise Inside Trump's Health Dept
     
-*   _Paul Waldman_: Shutdown Will End, But the Divisions Will Remain
+*   _Rachel Stoltzfoos_: Politico Botches Basic Fact in Trump HHS Hit Piece
     
-*   _Steve Cortes_: California Turns Law Enforcement Upside Down
+*   _David Graham_: Has the Tide Turned Against Partisan Gerrymandering?
     
-*   _Alice Stewart_: On Shutdown, Democrats Have a Lot of Explaining to Do
+*   _Michael Cohen_: Shutdown Lessons: GOP Shameless, Dems Brainless
     
-*   _Charles Blow_: Shutdown, Showdown, Sure Thing
+*   _Rich Lowry_: Schumer Listened to the Resistance -- and Lost Badly
     
-*   _Jeff Sessions_: Trump's Merit-Based Immigration System
+*   _Paul Kramer_: Trump's Anti-Immigrant Racism Represents a U.S. Tradition
     
-*   _David Faris_: Democrats Have All the Leverage in the Shutdown Standoff
+*   _Victor Davis Hanson_: Mythologies of Illegal Immigration
     
-*   _Jen Kerns_: Women's March--Group Therapy for Trump Haters?
+*   _Caitlin Huey-Burns_: Is Anti-Trump Message Enough to Carry Dems in 2018?
     
-*   _Amanda Marcotte_: On Abortion, It's Time to Start Trusting Women
+*   _Gabriel Sherman_: Are Trump and Kelly Heading for Divorce?
     
-*   _Emma Green_: Science Is Giving the Pro-Life Movement a Boost
+*   _Leonard Leo_: Trump's First Year Is a Big Win for Conservative Judges
     
-*   _Chuck Ross_: FBI 'Failed to Preserve' Months of Anti-Trump Agents' Texts
+*   _Byron York_: What's Next in the Investigation of the Missing FBI Texts
     
-*   _Carol Anderson_: Why Do Republicans Hate America?
+*   _Sean McElwee_: The Right's War on Unions Is Killing the Democratic Party
     
-*   _Jeff Greenfield_: The Thin Blue Wave
+*   _Amity Shlaes_: Economic Growth Is the Cure for Inequality
     
-*   _Ross Douthat_: Trump So Far Is More Farce Than Tragedy
+*   _Paul Begala_: Trump Takes Immigration Advice From President Stephen Miller
     
-*   _Daniel McCarthy_: Never Trump Fails to Learn From Trump's Successes
+*   _Ben Domenech_: Chuck Schumer Just Lost the Shutdown, Bigly
     
-*   _Susan Glasser_: The Man Who Put Andrew Jackson in Trump's Oval Office
+*   _David Dayen_: Trump Regulators Aim to Kill Rule Even GOP Supports
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Government Shutdown Ends After Dems Relent
 *   Democrats Split on Deal Ending Shutdown Fight
+*   Is Anti-Trump Message Enough to Carry Dems in 2018?
 *   Gowdy: Strzok, Page Need to Explain Anti-Trump "Secret Society" Texts
-*   Trump Tells March for Life: "We Are With You All the Way"
-*   Trump Visit Shows High Stakes for Pa. Special Election
+*   Schumer's Moment: Shutdown Puts Spotlight on Dem Leader
+*   Trump Campaign Ad Calls Dems "Complicit" in Officers' Deaths
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,12 +268,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove57Disapprove +14
 *   President Trump Job ApprovalGallup
     *   Approve36
     *   Disapprove59Disapprove +23
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve42
-    *   Disapprove56Disapprove +14
 *   2018 Generic Congressional VoteABC News/Wash Post
     *   Democrats51
     *   Republicans39Democrats +12
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Huckabee Sanders: "Flake-Graham-Durbin" Immigration Deal "Dead on Arrival"
+*   Schumer Warns McConnell: You Have 16 Days To Make A Deal On DACA That Can Get 60 Votes
 *   Coons To Dem 2020 Contenders: Focus On Solving Problems, Not "Some Primary Several Years From Now"
 *   Sarah Sanders: DREAMers Should "Storm Capitol Hill"
 *   Lindsey Graham: "Outlier" Stephen Miller Is Holding Up DACA Deal
-*   Schumer Calls Trump "Dysfunctional President" On Senate Floor
-*   McConnell Signals He Will Not Change Senate Rules After Trump Calls For "Nuclear Option"
 
 *   Politics
 *   Policy
