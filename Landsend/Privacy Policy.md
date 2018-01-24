@@ -700,9 +700,9 @@ menu Close 0 Free Shipping on $50+  |  Offers
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 40% off 1 full-price style!
 
-code: SKI pin: 3178 DETAILS
+code: SNOWY pin: 7570 DETAILS
 
 Customer Service Menu
 
