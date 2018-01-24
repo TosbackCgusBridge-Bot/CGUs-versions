@@ -35,7 +35,7 @@ Recent Topics:
 Recommended Links:
 
 *   Intellectual Property Law
-*   Free Legal Help Lawyer
+*   Law Information 2017
 
 **Search Here**
 
