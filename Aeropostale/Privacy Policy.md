@@ -85,6 +85,7 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Bottoms ) Bottoms
 *   Jackets + Vests
 *   Accessories
+*   Underwear
 *   Trending
 
 Close submenu ( Featured ) Featured
@@ -238,9 +239,11 @@ Close submenu ( Clearance ) Clearance
 Close submenu ( Girls ) Girls
 
 *   View All
-*   Last Chance Under $6
 *   Last Chance
 *   New to Clearance
+*   Shop $6.99
+*   Shop $7.99
+*   Shop $9.99
 *   Tees + Polos
 *   Camis + Tanks
 *   Fashion Tops
@@ -257,9 +260,10 @@ Close submenu ( Girls ) Girls
 Close submenu ( Guys ) Guys
 
 *   View All
-*   Last Chance Under $5
 *   Last Chance
 *   New to Clearance
+*   Shop $7.99
+*   Shop $9.99
 *   Tees + Tanks
 *   Long Sleeve
 *   Polos
@@ -273,6 +277,9 @@ Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
 *   New to Clearance
+*   Shop $1.99
+*   Shop $5.99
+*   Shop $7.99
 *   Active
 *   Lounge
 *   Tees
@@ -282,7 +289,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**TODAY ONLY EXTRA 40% OFF CLEARANCE** **FREE SHIPPING ON $75**
+**ONLINE ONLY EXTRA 30% OFF CLEARANCE** **FREE SHIPPING ON $75**
 
 *   My Account My Account Login Register
 
@@ -374,6 +381,7 @@ Menu Find a Store Aeropostale
         *   Shorts
     *   Jackets + Vests
     *   Accessories
+    *   Underwear
     *   Trending
     
 *   Jeans
@@ -465,9 +473,11 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls
         *   View All
-        *   Last Chance Under $6
         *   Last Chance
         *   New to Clearance
+        *   Shop $6.99
+        *   Shop $7.99
+        *   Shop $9.99
         *   Tees + Polos
         *   Camis + Tanks
         *   Fashion Tops
@@ -483,9 +493,10 @@ Menu Find a Store Aeropostale
     
     *   Guys
         *   View All
-        *   Last Chance Under $5
         *   Last Chance
         *   New to Clearance
+        *   Shop $7.99
+        *   Shop $9.99
         *   Tees + Tanks
         *   Long Sleeve
         *   Polos
@@ -498,6 +509,9 @@ Menu Find a Store Aeropostale
     *   Live Love Dream
         *   View All
         *   New to Clearance
+        *   Shop $1.99
+        *   Shop $5.99
+        *   Shop $7.99
         *   Active
         *   Lounge
         *   Tees
@@ -513,7 +527,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Under $6 Shop Guys Under $5 Shop Girls Last Chance Shop Guys Last Chance Promotions Shop Girls Shop Guys Promotions
+ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Promotions Shop Girls Shop Guys Promotions
 
 *   Tees Starting at $10.00 Shop Girls Shop Guys
 *   Long Sleeve Tees Starting at $13.00 Shop Girls Shop Guys
