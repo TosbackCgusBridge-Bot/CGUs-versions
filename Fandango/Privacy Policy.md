@@ -20,16 +20,12 @@ Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   12 Strong
-    *   Den of Thieves
-    *   Forever My Girl
-    *   Phantom Thread
-    *   A Ciambra
-    *   The Final Year
-    *   Mary and the Witch's Flower (2017)
-    *   Ridge Runners
-    *   The Road Movie
-    *   This Giant Papier-Mâché Boulder is Actually Really Heavy
+    *   Maze Runner: The Death Cure
+    *   Hostiles
+    *   Desolation (2018)
+    *   Have a Nice Day
+    *   Kickboxer: Retaliation
+    *   The Neighbor (2018)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -75,8 +71,8 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Sundance Buzz: This Year's Topical Movies Are More Than Just Timely Read More
-    *   Movie News: Ken Watanabe Joins Ryan Reynolds in 'Detective Pikachu' Read More
-    *   SAG Awards 2018: Frances McDormand, Gary Oldman, 'Three Billboards' Lead the Way Read More
+    *   'The Shape of Water' Leads the 2018 Oscars With 13 Nominations Read More
+    *   Movie News: New 'Clue' on Its Way From Ryan Reynolds, 'Deadpool' Writers Read More
     
     Explore Content
     *   Movie Reviews
