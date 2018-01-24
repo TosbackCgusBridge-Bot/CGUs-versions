@@ -6,7 +6,7 @@ Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
 Menu Close Menu Close
 
 *   Products
-    *   Laptops &. 2-in-1s Explore All Laptops &. 2-in-1s Explore All  Laptops &. 2-in-1s Narrow your choices by category and find the laptop you truly want
+    *   Laptops &. 2-in-1s Explore All Explore All  Laptops &. 2-in-1s Narrow your choices by category and find the laptop you truly want
         
         *   Thinkpad Laptops Thinkpad Laptops Enterprise-level performance. Premium reliability.
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
@@ -68,7 +68,7 @@ Menu Close Menu Close
         
         *   *   ThinkPad 25 >.
         
-    *   Desktops &. All-In-Ones Explore All Desktops &. All-In-Ones Explore All  Desktops &. All-In-Ones Plenty to consider before making your purchase. Let us help.
+    *   Desktops &. All-In-Ones Explore All Explore All  Desktops &. All-In-Ones Plenty to consider before making your purchase. Let us help.
         
         *   Thinkcentre Desktops Thinkcentre Desktops Business-ready desktops with enhanced security features.
         *   IdeaCentre Desktops IdeaCentre Desktops Portable family desktops.
@@ -99,7 +99,7 @@ Menu Close Menu Close
         
         *   *   \>.
         
-    *   Workstations Explore All Workstations Explore All  Workstations A business investment requires due diligence. Research your choices here.
+    *   Workstations Explore All Explore All  Workstations A business investment requires due diligence. Research your choices here.
         
         *   Thinkstation Workstations
         *   Thinkpad Workstations
@@ -118,7 +118,7 @@ Menu Close Menu Close
         
         *   *   SMALL BUSINESS WORKSTATIONS >.
         
-    *   Phones, Tablets, &. Smart Devices Explore All Phones, Tablets, &. Smart Devices Explore All  Phones, Tablets, &. Smart Devices Your tablet is an extension of your personality! Find the one that best compliments you.
+    *   Phones, Tablets, &. Smart Devices Explore All Explore All  Phones, Tablets, &. Smart Devices Your tablet is an extension of your personality! Find the one that best compliments you.
         
         *   Motorola Smartphones
         *   Android Tablets Android Tablets Multimedia tablets  
@@ -168,7 +168,7 @@ Menu Close Menu Close
         
         *   *   SMALL BUSINESS TABLETS >.
         
-    *   Gaming &. AR/VR Explore All Gaming &. AR/VR Explore All  Gaming &. AR/VR
+    *   Gaming &. AR/VR Explore All Explore All  Gaming &. AR/VR
         
         *   Gaming Laptops
         *   Gaming Desktops
@@ -190,7 +190,7 @@ Menu Close Menu Close
         
         *   *   Lenovo Explorer >.
         
-    *   Accessories &. Monitors Explore All Accessories &. Monitors Explore All  Accessories &. Monitors
+    *   Accessories &. Monitors Explore All Explore All  Accessories &. Monitors
         
         *   Monitors
         *   Docking
@@ -221,7 +221,7 @@ Menu Close Menu Close
         
         *   *   Pens &. Supplies >.
         
-    *   Servers, Storage &. Networking Explore All Servers, Storage &. Networking Explore All  Servers, Storage &. Networking
+    *   Servers, Storage &. Networking Explore All Explore All  Servers, Storage &. Networking
         
         *   Servers
         *   Storage
@@ -249,7 +249,7 @@ Menu Close Menu Close
         
         *   *   Why Lenovo >.
         
-    *   Services &. Warranty Explore All Services &. Warranty Explore All  Services &. Warranty
+    *   Services &. Warranty Explore All Explore All  Services &. Warranty
         
         *   PC Services
         *   DATA CENTER SERVICES
@@ -350,9 +350,9 @@ FLEX 5 (15")
 
 Pen-point sensitive touch screen and durable 360 degree hinge.
 
-TAB 4 8 PLUS ADDS IT ALL
+TAB 4 8 ADDS IT ALL
 
-Super sound. Separate user accounts. And simply dazzling visuals.
+Stylish yet rugged, this smooth-performing tablet has a vibrant 8” display, enhanced audio, and long battery life
 
 Awaken your inner Jedi with a new smartphone-powered augmented-reality experience.
 
