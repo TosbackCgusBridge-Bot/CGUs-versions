@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Marc Thiessen_: Democrats Just Got Rolled. They Can Blame Obama.
+*   _Peter Baker_: Trump Heads to Davos, Elite Club That Long Spurned Him
     
-*   _Ezra Klein_: Democrats Didn't Cave, They Still Have Their Shutdown Leverage
+*   _Charles Lipson_: The Stench at Obama's DOJ and FBI
     
-*   _David Harsanyi_: Maybe Americans Just Want a Rational Immigration Policy
+*   _Ruth Marcus_: How McCabe Voted Was None of Trump's Business
     
-*   _Paul Krugman_: The Art of the Broken Deal
+*   _Lee Smith_: How Glenn Simpson Caught the Press in a Conspiracy Theory
     
-*   _Resnick &. Desiderio_: Dems Fold This Time, But They Better Not in 3 Weeks
+*   _Heather Parton_: As Mueller Closes In, Paranoia Spreads in the White House
     
-*   _Richard Manning_: 'Missing' 5 Months of FBI Texts Is Worse Than Watergate
+*   _Julie Kelly_: Trump's Backbone, Schumer's Cave &. the 2018 Elections
     
-*   _Abigail Tracy_: Did Devin Nunes Invent His Own Smoking Gun?
+*   _Andy Puzder_: Give Your Workers a Tax-Cut Bonus
     
-*   _Howard Kurtz_: How 'Trump Trauma' Is Crippling the News Media
+*   _Larry Summers_: Trump Doesn't Deserve Credit for Good Economic News
     
-*   _Dan Diamond_: Religious Activists on the Rise Inside Trump's Health Dept
+*   _Andrew McCarthy_: Obama's Emails: The Key to Why Clinton Wasn't Indicted
     
-*   _Rachel Stoltzfoos_: Politico Botches Basic Fact in Trump HHS Hit Piece
+*   _Alex Shephard_: The Activist Liberal Media Comes of Age
     
-*   _David Graham_: Has the Tide Turned Against Partisan Gerrymandering?
+*   _Lauren Appell_: NFL's Bad Bet: Picking Social Justice Politics Over Its Fans
     
-*   _Michael Cohen_: Shutdown Lessons: GOP Shameless, Dems Brainless
+*   _Michael Goodwin_: Evidence Suggests a Massive Scandal Is Brewing at FBI
     
-*   _Rich Lowry_: Schumer Listened to the Resistance -- and Lost Badly
+*   _Chris Cillizza_: Trump's Assault on Law Enforcement Keeps Coming
     
-*   _Paul Kramer_: Trump's Anti-Immigrant Racism Represents a U.S. Tradition
+*   _Mollie Hemingway_: No Choice But to Appoint a 2nd Special Counsel
     
-*   _Victor Davis Hanson_: Mythologies of Illegal Immigration
+*   _Eric Columbus_: DACA Isn't Dead. It's Undead.
     
-*   _Caitlin Huey-Burns_: Is Anti-Trump Message Enough to Carry Dems in 2018?
+*   _Ronna McDaniel_: Democrats Own the Shutdown, and Will Pay a Price
     
-*   _Gabriel Sherman_: Are Trump and Kelly Heading for Divorce?
+*   _Eugene Robinson_: Trump Is Being Used, and He Doesn't Even Know It
     
-*   _Leonard Leo_: Trump's First Year Is a Big Win for Conservative Judges
+*   _Jeffrey Toobin_: The Courts Take Aim at Partisan Gerrymandering
     
-*   _Byron York_: What's Next in the Investigation of the Missing FBI Texts
+*   _Sean Trende_: Do Democrats Stand to Gain From Redrawn Pa. Maps?
     
-*   _Sean McElwee_: The Right's War on Unions Is Killing the Democratic Party
+*   _Betsy McCaughey_: Trump Rescues Pro-Life Docs and Nurses
     
-*   _Amity Shlaes_: Economic Growth Is the Cure for Inequality
+*   _Mary Ziegler_: Roe v. Wade Was About More Than Abortion
     
-*   _Paul Begala_: Trump Takes Immigration Advice From President Stephen Miller
+*   _Chad Greene_: My Friends' Pregnancies Changed My Mind About Abortion
     
-*   _Ben Domenech_: Chuck Schumer Just Lost the Shutdown, Bigly
+*   _Anthony Mills_: Will Our Cities Save Democracy?
     
-*   _David Dayen_: Trump Regulators Aim to Kill Rule Even GOP Supports
+*   _Joy-Ann Reid_: Many Trump Boosters Are Spawns of 'Chain Migration'
     
 
 *   Previous
@@ -249,10 +249,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Democrats Split on Deal Ending Shutdown Fight
 *   Is Anti-Trump Message Enough to Carry Dems in 2018?
-*   Gowdy: Strzok, Page Need to Explain Anti-Trump "Secret Society" Texts
-*   Schumer's Moment: Shutdown Puts Spotlight on Dem Leader
+*   Do Democrats Stand to Gain From Redrawn Pa. Maps?
+*   Sen. Johnson: Evidence of Corruption at Highest Levels of FBI
+*   Democrats Split on Deal Ending Shutdown Fight
 *   Trump Campaign Ad Calls Dems "Complicit" in Officers' Deaths
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalFOX News
+    *   Approve45
+    *   Disapprove53Disapprove +8
+*   President Trump Job ApprovalHarvard-Harris
+    *   Approve44
+    *   Disapprove56Disapprove +12
 *   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove55Disapprove +11
+*   President Trump Job ApprovalEconomist/YouGov
     *   Approve43
-    *   Disapprove57Disapprove +14
-*   President Trump Job ApprovalGallup
-    *   Approve36
-    *   Disapprove59Disapprove +23
-*   2018 Generic Congressional VoteABC News/Wash Post
-    *   Democrats51
-    *   Republicans39Democrats +12
-*   Direction of CountryRasmussen Reports
-    *   Right Direction39
-    *   Wrong Track55Wrong Track +16
+    *   Disapprove54Disapprove +11
 
 More Latest Polls In The News
 
+*   Kevin McCarthy, Kirstjen Nielsen, Elaine Chao Sell "America First" At Davos
+*   Don Lemon vs. Franklin Graham: Difference Between Clinton And Trump Is He Did It While In Office
 *   Huckabee Sanders: "Flake-Graham-Durbin" Immigration Deal "Dead on Arrival"
-*   Schumer Warns McConnell: You Have 16 Days To Make A Deal On DACA That Can Get 60 Votes
+*   Schumer on Nunes' Investigation Into FBI/DOJ Corruption: "We're All Worried About It"
 *   Coons To Dem 2020 Contenders: Focus On Solving Problems, Not "Some Primary Several Years From Now"
-*   Sarah Sanders: DREAMers Should "Storm Capitol Hill"
-*   Lindsey Graham: "Outlier" Stephen Miller Is Holding Up DACA Deal
 
 *   Politics
 *   Policy
