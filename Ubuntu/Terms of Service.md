@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Meltdown, Spectre and Ubuntu: What you need to know ›
+*   Kernel Team Summary: January 24, 2018 ›
+*   LXD Weekly Status #31 ›
 *   Ubuntu Development Summary – 23 Jan 2018 ›
 *   Ubuntu Desktop Weekly Update: January 22, 2018 ›
-*   Your first robot: Introduction to the Robot Operating System \[2/5\] ›
-*   Tutorial: Continuous delivery of snaps with Circle CI ›
-*   Canonical brings Slack to the snap ecosystem ›
