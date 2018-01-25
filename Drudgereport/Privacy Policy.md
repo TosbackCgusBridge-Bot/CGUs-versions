@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+"Header bidding sees publishers making it easier for buyers to bid on advertising. For buyers, it has also allowed them to see all available inventory sooner". @Requidan chats with @Beet\_TV at #CES2018 about #Headerbidding and integrating both server-to-server and traditional twitter.com/Beet\_TV/…
+
+Yesterday
+
 My week on Twitter : 7 Mentions, 1.79K Mention Reach, 10 Likes, 5 Retweets, 3.28K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/evBg…
 
-About 5 hours ago
+Yesterday
 
 Our biggest fans this week: @mrmistry, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/t1q7…
 
-About 16 hours ago
+About 2 days ago
 
 Take a look at Demand Path Optimization in action! intermarkets.net/201… via Intermarkets blog
 
-About 5 days ago
+About 6 days ago
 
 .@DRUDGE\_REPORT is a top external traffic referrer to Parse.ly's customers #ParselyContent @awwebinars twitter.com/parsely/…
 
-About 5 days ago
-
-My week on Twitter : 2 Mentions, 11.1K Mention Reach, 23 Likes, 10 Retweets, 17.1K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Jbgr…
-
-Last week
+About 6 days ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
