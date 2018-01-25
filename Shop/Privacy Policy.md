@@ -318,13 +318,13 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers SMART TECH FOR SMART MONEY
+Home >. Filter by specs Offers
 
-Save up to 25% off select ThinkPad and ThinkCentre PCs. Plus savings on home laptops, monitors, and more! Ends Jan 24th.
+Boost Your Productivity With Performance You Can Count On
 
 Shop Now >.
 
-Boldly individual
+Voted best laptop under $1,000 by Gizmodo
 
 Shop Now >.
 
@@ -342,19 +342,19 @@ TODAY'S SALES
 
 Great deals on select products.
 
-BONUS SALE
+All New Lenovo Pro Store
 
-Start your new year off right by saving up to 25% on Think series devices.
+Let Lenovo be your small business partner with an all new Pro Portal.
 
-FLEX 5 (15")
+IdeaCentre AIO 520s
 
-Pen-point sensitive touch screen and durable 360 degree hinge.
+Slim. Vibrant. Fast. Affordable.
 
-TAB 4 8 ADDS IT ALL
+Miix 720
 
-Stylish yet rugged, this smooth-performing tablet has a vibrant 8” display, enhanced audio, and long battery life
+Need productivity on the go? This 2-in-1 can take you there.
 
-Awaken your inner Jedi with a new smartphone-powered augmented-reality experience.
+EXPLORE AUGMENTED AND VIRTUAL REALITY
 
 LAPTOPS
 
