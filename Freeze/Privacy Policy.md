@@ -16,152 +16,104 @@
 *   Sports
 *   NEWS
 
-MenuHOMEVideoMusicARTFASHIONTECHTRAVELRIDESFood &. DrinksDesignSportsNEWS Music For Thought! A Playlist Inspired By Martin Luther King Jr. By Jesse James
+MenuHOMEVideoMusicARTFASHIONTECHTRAVELRIDESFood &. DrinksDesignSportsNEWS Technology
 
-As you should know, today marks the birthday of one of the most important figures in the Civil Rights Era. Today we all celebrate the birthday of Martin Luther King Jr. by...
-
-Make It Through Monday | What To Watch Now On Netflix
-
-If you are anything like us, you spend your fair share of...
-
-Our Weekend, Our Music! stupidDOPE’s Weekend Playlist 2018 Vol. 2 | Spotify Stream
-
-Finally, it is Friday. We have been waiting for this moment since...
-
-Dropping Soon! This Weekend’s Best Sneaker Releases
-
-The Weekend is right around the corner, and the sneakerhead in all...
-
-A Listen Back! A Throwback Thursday Playlist Celebrating Mary J. Blige
-
-We’re getting closer to the weekend, but we’ve still got some time....
-
-Don't Miss
-
-*   The Triumphant Return of the Tide Ride to NASCAR | Video
-*   JOLT COLA is BACK! | Video Review
-*   Atlanta’s A3C Music Festival was EPIC! | Photos &. Recap
-
-*   Fashion A First Look! The North Face &. Pop-In@Nordstrom Exclusive Capsule Collection January 15, 2018
+*   Watch This! A Timelapse of SpaceX’s Recent Falcon 9 Launch By Jesse James on December 29, 2017
     
-    Over the past few months we have seen a number of unique collaborations including The North Face. Today they are back at it again, this time around pairing up...
-    
-    *   January 15, 2018
-        
-        Clean &. Colorful! New Balance’s Shaggy 574 “Tidepool”
-        
-    *   January 15, 2018
-        
-        A First Look! The New 2.ZERØGRAND With Stitchlite Collection
-        
-*   Art New Color, Same Shape! The Parra x Case Studyo “Give Up” Lamp Returns
-    
-    The creative minds of Case Studyo have been serving up some interesting ways to light up our lives. Through the years we have seen more than a few of...
-    
-    *   January 15, 2018
-        
-        Old School, New School! Gustavo Viselner Recreates Classic TV Shows In 8-Bit
-        
-    *   January 15, 2018
-        
-        A First Look! Marilyn Minter’s New Installation In The Westfield World Trade Center
-        
-*   Technology
-    *   January 12, 2018
-        
-        Coming Soon! Samsung Confirms The Galaxy S9 Debut Date
-        
-    *   January 12, 2018
-        
-        Back To The Basics! Hyperkin Is Working On A Game Boy Reboot
-        
-*   Exclusive Video Content Tuna Tiradito Done RIGHT at the Aruba Marriott Resort &. Stellaris Casino | Video Recipe January 10, 2018
-    
-    ﻿ We here at stupidDOPE are always on the hunt for the freshest foods whilst traveling. After taking a break from catching some sun at the Aruba Marriott Resort...
-    
-    Kicking it with Salvadoran Skaters in El Salvador! | Video January 8, 2018
-    
-    For 2018, we here at stupidDOPE aim to hit all the global hot spots. 2017 has taught us that if you have the winter blues, look towards the equator...
-    
-*   Rides Speed &. Style! The Vanderhall Edison 3-Wheeled Sports Car
-    
-    As you know by now, not only are we big fans of anything quick, we’re big fans of anything interesting. Today we get a look at a compelling design...
-    
-    *   January 15, 2018
-        
-        New Speed, Old School Influence! The Toyota GR Super Sport Concept
-        
-    *   January 12, 2018
-        
-        Durable &. Dependable! 2018 Toyota HiLux Rugged X
-        
-
-*   News
-    *   January 15, 2018 Make It Through Monday | What To Watch Now On Netflix
-    *   January 15, 2018 Coming Soon! A First Look At Netflix’s ‘Dirty Money’
-    *   January 15, 2018 Watch! TIDAL’s Exclusive Jaden Smith Documentary, ‘Icon Living’
-    *   January 15, 2018 Coming Soon! A Full-Length Trailer For Netflix’s ‘Altered Carbon’
-    *   January 15, 2018 Coming Soon! Dapper Dan &. Gucci To Open An Exclusive Boutique In Harlem
-*   Advertisement
-*   Sports OVO On The Hardwood! The Toronto Raptors Special OVO Edition Jerseys January 15, 2018
-    
-    The Toronto Raptors have been looking pretty solid so far in the 2017-2018 NBA Season. Today the Raptors are back in the news as we get our first look...
-    
-    An Inside Look! Tom Brady Provides A Look At Private Life On ‘Tom vs. Time’ January 11, 2018
-    
-    For the past 18 years, we have watched Tom Brady lead the New England Patriots through the NFL. He continues to do his thing this season, and today Tom...
-    
-    Changing Stripes! Former NFL Star Chad Ochocinco Partners With Adidas January 10, 2018
-    
-    The good folks over at adidas continue to add to their stable of athletes. Today they are back in the news as the word comes down that Former NFL...
-    
-    Speed On The Pitch! Usain Bolt Could Begin a Football Career With Manchester United January 10, 2018
-    
-    Known for his speed on the track, the Olympic gold medalist, Usain Bolt is looking to take his talents to another field of play. the pitch. Today the word...
+    Last week the good folks over at SpaceX took to the skies of California for their latest launch, and cause quite a stir in the...
     
 
-*   Travel + Destinations North Of The Wall! Finland’s Insane ‘Game of Thrones’ Ice Hotel January 11, 2018
+*   Smaller Is Sometimes Better! The Zanco Tiny T1 Phone By Jesse James on December 28, 2017
     
-    If you are anything like us, you are an avid ‘Game Of Thrones’ fan. We, like so many others, have become slightly addicted to the show and over the...
+    The evolution of cell phones has been quite interesting. We have seen things progress from the large bag phones our parents first used to the...
+    
+*   Game Time! The Best Games Out Right Now! By Jesse James on December 27, 2017
+    
+    Deep down in all of us is a gamer of some sort. Some of us enjoy the world of old school gaming, still rocking classic...
+    
+*   The Crypto Craze! Binance Has Become The Largest Cryptocurrency Exchange In The World By Jesse James on December 27, 2017
+    
+    With all of the action and madness surrounding the realm of cryptocurrency right now, it’s time to strike. The news feed has been packed with...
+    
+*   Coming Soon! New Apple AirPods Set To Arrive In 2018 By Jesse James on December 22, 2017
+    
+    The good folks over at Apple are back in the news, once again making a change to the way we listen. Today the word comes...
+    
+*   A New Kind Of Secure! Facebook Unveils Facial Recognition By Jesse James on December 21, 2017
+    
+    The good folks over at Facebook are back, this time around unleashing something new to keep things a little more ‘secure.’ Today Facebook Unveils Facial...
+    
+*   All The Way Up! Spotify’s Valuation Increases To $19 Billion USD By Jesse James on December 19, 2017
+    
+    The end of the year marks some big news for the good folks over at Spotify. With 2018 right around the corner, the word on...
+    
+*   On It’s Way! Ataribox Pre-Orders Start This Week By Jesse James on December 18, 2017
+    
+    A little earlier this year, Atari took to the interwebs to announce their return to gaming with “Ataribox.” Well, not much was said after that,...
+    
+*   Investing 101: How to Buy Litecoin, Bitcoin &. Ethereum Cryptocurrency By Staff on December 16, 2017
+    
+    Recently we decided to venture into the cryptocurrency world. After months of researching, reading forums, news articles and watching Bitcoin going crazy we decided it...
+    
+*   Changing The Game! Twitter Adds ‘Twitter Threads’ By Jesse James on December 15, 2017
+    
+    Over the past few months, we’ve seen a lot of changes on the social network known to us all as Twitter. A number of new...
+    
+*   Celebrating Milestones! Incase’s Limited-Edition 20th Anniversary Classic Sleeve By Jesse James on December 15, 2017
+    
+    Looking to protect your tech? The good folks over at Incase have been in the game for years, providing useful, functional and stylish designs to...
+    
+*   Look! Instagram Now Lets You Follow Hashtags By Jesse James on December 14, 2017
+    
+    Another day, another new update from the good folks over at Instagram. As they continue with new ways to bring us together through photos, today...
+    
+*   Something Different! Google Unveils Three New Photography Apps By Jesse James on December 13, 2017
+    
+    The good folks over at Google are back, adding a new level of creativity for our photos and videos. Today Google Unveils Three New Photography...
+    
+*   Litecoin Dominates the Crypto Charts, Will It Hit $450 Today? By Jesse James on December 12, 2017
+    
+    Recently we have been watching the rising prices and payouts from the world of cryptocurrency. Yesterday we heard the news about Litecoin, and it is...
     
 
-*   Music Music For Thought! A Playlist Inspired By Martin Luther King Jr. January 15, 2018
+Page 3 of 299‹ Previous1234567Next ›Last »
+
+*   Featured Video
     
-    As you should know, today marks the birthday of one of the most important figures in the Civil Rights Era. Today we all celebrate the birthday of Martin Luther...
+    <span data-mce-type="bookmark" style="display: inline-block. width: 0px. overflow: hidden. line-height: 0;" class="mce\_SELRES\_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block. width: 0px. overflow: hidden. line-height: 0;" class="mce\_SELRES\_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block. width: 0px. overflow: hidden. line-height: 0;" class="mce\_SELRES\_start">﻿</span>
     
-*   Architecture An Inside Look! The Edris House By E. Stewart Williams
+*   Fashion + Style Clean &. Contemporary! The adidas Twinstrike ADV January 24, 2018
     
-    Looking to pack up your things and make your life in a new place? Well, today we get a look at a stunning home located in Palm Springs that...
+    Always looking to the future of footwear, adidas is back at it once again. Today we get our first look at the all-new adidas Twinstrike ADV, a clean and...
     
-    *   January 15, 2018
+    *   January 24, 2018
         
-        Above It All! The Maui Clifftop House By Dekleva Gregoric Arhitekti
-        
-    *   January 15, 2018
-        
-        A Look At Luxury! 1735 Can Llimona By Mesura
-        
-    *   January 15, 2018
-        
-        Rustic Retreats! The Norwegian Cabin Cluster
+        Clean Creations! Diadora’s “Rococo Red” &. “Bianco” Italian-Made N9000
         
 
-*   Food + Drink Easy Does It! White Castle Launches Nationwide Delivery With GrubHub
+*   Latest Video Revolutionizing Pocket 4K Video with the Revl Arc Action Camera! | Video Review January 18, 2018
     
-    Admit it, you, like most of us, have a soft spot for those tiny burgers from White Castle. Don’t be ashamed, we all do! Well, today the word comes...
+    The art of creating vivid video has just became easier by tenfold. Thanks hugely in part to the innovations from the Revl Arc Smart Action Camera, users can now...
     
-    *   January 15, 2018
+    *   January 17, 2018
         
-        Five-Star Lager! Lyft &. Baderbräu Brewing Create A Chicago Exclusive Craft Beer
+        Ascending to Brew Heights with Alluvial Brewing in Iowa! | Video
         
-    *   January 12, 2018
-        
-        Easy &. Effective! The REVO Party Barge
-        
-    *   January 12, 2018
-        
-        A New Flavor! Mtn Dew Launches Lemon-Lime ICE
-        
+
+*   Visit our partners
+    
+    *   *   Schiaparelli Haute Couture Spring 2018 Runway
+        *   Christian Dior Haute Couture Spring 2018 Runway
+        *   Ralph &. Russo Haute Couture Spring 2018 Runway
+    *   *   The 42 Pro Sports Teams Without a Championship
+        *   2017 Volkswagen Golf Alltrack : Review
+        *   Ten Common Workplace Words/Phrases That Should Be Banned
+    *   *   Save Your Money For Souvenirs, Not Bag Check Fees
+        *   Out 'n' About Treehouse Treesort ' Cave Junction, Oregon
+        *   The Grand Treehouse Resort | Eureka Springs, Arkansas
+    
+    powered by PubExchange
+    
 
 © 2009-2017 stupidDOPE.com | All Rights Reserved.
 
