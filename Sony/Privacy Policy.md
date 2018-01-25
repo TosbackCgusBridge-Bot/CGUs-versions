@@ -111,23 +111,27 @@ Sony on YouTube - Justin Timberlake Is Back: Watch His New Video "Filthy"
 
 Play Justin Timberlake Is Back: Watch His New Video "Filthy" Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/JT-Flithy-600x600.jpg);" alt="Justin Timberlake Filthy Video">. Khalid to Perform This Friday at Dreamscape Los Angeles
+<img class="bg-img" class="url(/en\_us/media/content/JT-Flithy-600x600.jpg);" alt="Justin Timberlake Filthy Video">. SZA Dances Through "The Weekend"
 
-Learn More About #LostInMusic
+Listen to Her Album "Ctrl"
 
 Close
 
-*   Share Khalid to Perform This Friday at Dreamscape Los Angeles on Facebook
-*   Share Khalid to Perform This Friday at Dreamscape Los Angeles on Twitter
-*   Copy URL to share Khalid to Perform This Friday at Dreamscape Los Angeles
+*   Share SZA Dances Through "The Weekend" on Facebook
+*   Share SZA Dances Through "The Weekend" on Twitter
+*   Copy URL to share SZA Dances Through "The Weekend"
 
-Learn More About #LostInMusic
+Play SZA Dances Through "The Weekend" Video
 
-<img class="bg-img" class="url(/en\_us/media/content/Khalid-600x600.jpg);" alt="Khalid">.
+Sony on YouTube - SZA Dances Through "The Weekend"
 
-Coming this Friday to #LostInMusic LA is an exclusive preview of the #AVO576, a 576-speaker immersive sound experience that will transport you into the "Dreamscape," a space designed specifically around the headline artists.
+Play SZA Dances Through "The Weekend" Video hotspot
 
-6 days ago
+<img class="bg-img" class="url(/en\_us/media/content/SZA-600x600.jpg);" alt="SZA">.
+
+All of music's biggest night's nominees in one album. Pre-order @RecordingAcad's #GRAMMYs 2018 Nominee album!
+
+5 days ago
 
 View Tweet
 
@@ -197,7 +201,7 @@ Big-Screen Entertainment
 
 Add a whole new dimension to your home (or anywhere) with the #XperiaTouch. See it now at #SonySquareNYC.
 
-6 days ago
+7 days ago
 
 View Tweet
 
@@ -287,7 +291,7 @@ View X900F 4K HDR TV on Instagram
 
 Viva Las Vegas – The #SonyCES round-up featuring. the Xperia XA2, XA2 Ultra and Xperia L2. Selfie lovers rejoice!
 
-6 days ago
+7 days ago
 
 View Tweet
 
