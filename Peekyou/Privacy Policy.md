@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 14%  8% 
+What is PeekScore? Public Records &. Background Checks 13%  6% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 14%  8% 
     
 *   Show Less ...
 
-14%  14%  Arrest Records &. Driving Infractions
+13%  13%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 8% 
+Facebook 6% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 8% 
     
 *   Show Less ...
 
-Twitter 8% 
+Twitter 6% 
 
 *   HIV.gov - HIVGov
     
@@ -259,7 +259,7 @@ Twitter 8% 
     
 *   Show Less ...
 
-Instagram 8% 
+Instagram 6% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -329,7 +329,7 @@ Instagram 8% 
     
 *   Show Less ...
 
-Pinterest 14%  Wikipedia 8% 
+Pinterest 13%  Wikipedia 6% 
 
 *   P3P
     
@@ -340,7 +340,7 @@ Pinterest 14%  Wikipedia 8% 
     Test, TEST or Tester may refer to: Test (assessment), an assessment intended to measure the respondents' knowledge or other abilities. Medical test, to detect ...
     
 
-Google+ 8% 
+Google+ 6% 
 
 *   Privacy policy - Google+ - Google Plus
     
@@ -366,7 +366,7 @@ Google+ 8% 
     
 *   Show Less ...
 
-Linkedin 14%  Music 8% 
+Linkedin 13%  Music 6% 
 
 *   Pandora
     
@@ -412,7 +412,7 @@ Linkedin 14%  Music 8% 
     
 *   Show Less ...
 
-Photo Albums 7% 
+Photo Albums 6% 
 
 *   Flickr
     
@@ -454,7 +454,7 @@ Photo Albums 7% 
     
 *   Show Less ...
 
-Myspace 7% 
+Myspace 6% 
 
 *   Privacy Policy - 49086242
     
@@ -478,7 +478,7 @@ Myspace 7% 
     
 *   Show Less ...
 
-Documents 7% 
+Documents 6% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -524,7 +524,7 @@ Documents 7% 
     
 *   Show Less ...
 
-Web Search 7% 
+Web Search 6% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -570,11 +570,11 @@ Web Search 7% 
     
 *   Show Less ...
 
-Images 7% 
+Images 6% 
 
 9
 
-20
+19
 
 32
 
