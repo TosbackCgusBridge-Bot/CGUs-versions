@@ -1,7 +1,6 @@
-Playoffs - CONFERENCE
+SUPER BOWL LII
 
-*   JAX12-720NE15-324Final
-*   MIN14-47PHI15-338Final
+*   PHI15-3NE15-3SUN 6:30 PM ET
 
 *   News
 *   Scores
@@ -21,10 +20,9 @@ Playoffs - CONFERENCE
 *   NFL Network
 *   Photos
 
-Playoffs - CON
+SUPER BOWL LII
 
-*   JAX20NE24Final
-*   MIN7PHI38Final
+*   PHI15-3NE15-3SUN 6:30 PM ET
 
 *   News
 *   Scores
