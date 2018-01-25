@@ -1,4 +1,4 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Toggle navigation
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Toggle navigation
 
 *   MyVanco Login
 
@@ -157,4 +157,4 @@ Vanco Payment Solutions is a registered ISO of Wells Fargo Bank, N.A., Walnut Cr
 *   Terms Of Service|
 *   Site Map|
 
-GO
+GO <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">
