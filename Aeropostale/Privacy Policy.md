@@ -23,6 +23,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
+*   Plus Size
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
 *   Trending
@@ -37,7 +38,6 @@ Close submenu ( Featured ) Featured
 *   Basic Essentials
 *   Lounge + Sleep
 *   Uniform
-*   Plus Size
 
 Close submenu ( Tops ) Tops
 
@@ -86,6 +86,7 @@ Close submenu ( Guys ) Guys
 *   Jackets + Vests
 *   Accessories
 *   Underwear
+*   Big + Tall
 *   Trending
 
 Close submenu ( Featured ) Featured
@@ -98,7 +99,6 @@ Close submenu ( Featured ) Featured
 *   Back to Basics
 *   Online Only
 *   Uniform
-*   Big + Tall
 
 Close submenu ( Tops ) Tops
 
@@ -307,7 +307,6 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Lounge + Sleep
         *   Uniform
-        *   Plus Size
     *   Clearance
     
     *   Tops
@@ -335,6 +334,7 @@ Menu Find a Store Aeropostale
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
+    *   Plus Size
     
     *   Live Love Dream
         *   View All
@@ -358,7 +358,6 @@ Menu Find a Store Aeropostale
         *   Back to Basics
         *   Online Only
         *   Uniform
-        *   Big + Tall
     *   Clearance
     
     *   Tops
@@ -382,6 +381,7 @@ Menu Find a Store Aeropostale
     *   Jackets + Vests
     *   Accessories
     *   Underwear
+    *   Big + Tall
     *   Trending
     
 *   Jeans
@@ -552,6 +552,7 @@ Stores
 *   eGift Cards
 *   Contests
 *   In Store Coupons
+*   Lost/Stolen Gift Cards
 
 About Us
 
