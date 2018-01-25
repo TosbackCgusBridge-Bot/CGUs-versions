@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA: 2017 was 3rd warmest year on record for the globe NOAA, NASA scientists confirm Earth’s long-term warming trend continues AROUND NOAA // 2017 was 3rd warmest year on record for U.S. Snow squall warnings to begin this winter
+Enter Search Terms NOAA: 2017 was 3rd warmest year on record for the globe NOAA, NASA scientists confirm Earth’s long-term warming trend continues AROUND NOAA // Q&A: Winter weather forecasts, from our national centers to your neighborhood 2017 was 3rd warmest year on record for U.S. Snow squall warnings to begin this winter
 
 *   About our agency
 *   News and features
