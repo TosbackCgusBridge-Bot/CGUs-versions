@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Curl up to soft fleece and cozy knits that’ll get you through winter. Shop sweaters..
+Reserve favorite styles for in-store pick up with the Buckle Mobile app! Download now.
 
 *   Women
 *   Men
