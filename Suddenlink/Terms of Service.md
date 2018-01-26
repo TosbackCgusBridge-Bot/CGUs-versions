@@ -1,4 +1,4 @@
-Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2R3" height="0" width="0" style="display:none;visibility:hidden"></iframe>.     Search Google Appliance Enter the terms you wish to search for. Search Home Television Internet Phone Security Start Shopping
+Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2R3" height="0" width="0" style="display:none;visibility:hidden"></iframe>.   Home Television Internet Phone Security Start Shopping
 
 *   Current Customers
     *   My Services
@@ -17,8 +17,6 @@ Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2
 
 *   Suddenlink
 *   Menu
-
-Search Google Appliance Enter the terms you wish to search for. Search
 
 *   Shop
 *   My Suddenlink
