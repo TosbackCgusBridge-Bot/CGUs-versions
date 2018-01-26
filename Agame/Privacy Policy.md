@@ -363,6 +363,16 @@ If you have any additional questions or requests, you may send an email to info@
 
 Welcome to Agame.com, your zone to play free online games. Stocked each day with new free games, including action games, adventure games, board &. card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.
 
+Languages
+
+*   Deutsch
+*   Русский
+*   Bahasa Indonesia
+*   Italiano
+*   Français
+*   Türkçe
+*   Nederlands
+
 Copyright © 2018 SPIL GAMES All rights reserved.
 
 *   Terms of Use
