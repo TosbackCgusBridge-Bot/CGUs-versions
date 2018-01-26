@@ -137,7 +137,7 @@ Sales Partners
 *   |
 *   Privacy Policy
 
-©2018 Frontier Communications Corporation. All rights reserved. Schedule a Call Step 1: Please select Residential or Business Residential Business Step 2: Select your service Step 3: Select your product Step 4: Select your support type Step 5: Please enter your phone number A Frontier Representative will call you back.   Next   Step 6: Schedule an appointment Please wait while we retrieve the information   Loading Call Me Back  
+©2018 Frontier Communications Corporation. All rights reserved. Schedule a Call Step 1: Please select Residential or Business Residential Business Step 2: Select your support type Step 3: Select your service Step 4: Select your product Step 5: Please enter your phone number A Frontier Representative will call you back.   Next   Step 6: Schedule an appointment Please wait while we retrieve the information   Loading Call Me Back  
 
 Our team will be in touch with you as soon as possible
 
@@ -157,4 +157,4 @@ Minute(s)
 
 We could not complete your request. Please call us at:
 
-  Chat Replay IconFeedback
+  Chat
