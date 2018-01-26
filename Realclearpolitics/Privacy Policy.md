@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Peter Baker_: Trump Heads to Davos, Elite Club That Long Spurned Him
+*   _Megan McArdle_: Why Democrats Won't Get Their Way on Immigration
     
-*   _Charles Lipson_: The Stench at Obama's DOJ and FBI
+*   _Paul Callan_: Sessions' Aura of Integrity Fades With Report of FBI Interference
     
-*   _Ruth Marcus_: How McCabe Voted Was None of Trump's Business
+*   _Carrie Severino_: What a Difference a Year Makes in the Justice Dept
     
-*   _Lee Smith_: How Glenn Simpson Caught the Press in a Conspiracy Theory
+*   _Robert Schlesinger_: Trump's Defenders, Through the Looking Glass
     
-*   _Heather Parton_: As Mueller Closes In, Paranoia Spreads in the White House
+*   _Wayne Allyn Root_: 2016 Election Was Rigged--and Trump Won Anyway
     
-*   _Julie Kelly_: Trump's Backbone, Schumer's Cave &. the 2018 Elections
+*   _Derrick Jackson_: Trump's Great American Whitewash
     
-*   _Andy Puzder_: Give Your Workers a Tax-Cut Bonus
+*   _Eva Moskowitz_: Why School Choice Matters
     
-*   _Larry Summers_: Trump Doesn't Deserve Credit for Good Economic News
+*   _Fred Kaplan_: Trump's Generals Are Leading Him Into Mideastern Quagmires
     
-*   _Andrew McCarthy_: Obama's Emails: The Key to Why Clinton Wasn't Indicted
+*   _Sohrab Ahmari_: The Invisible Crisis in Europe
     
-*   _Alex Shephard_: The Activist Liberal Media Comes of Age
+*   _Reed Galen_: Politics in Decline: Can We Avoid the Fall?
     
-*   _Lauren Appell_: NFL's Bad Bet: Picking Social Justice Politics Over Its Fans
+*   _George Will_: When the Whole Country Becomes a Campus Safe Space
     
-*   _Michael Goodwin_: Evidence Suggests a Massive Scandal Is Brewing at FBI
+*   _John Cassidy_: Why Donald Trump Will Fit Right In at Davos
     
-*   _Chris Cillizza_: Trump's Assault on Law Enforcement Keeps Coming
+*   _Ed Rogers_: A Trumpian New Message for the Davos Crowd
     
-*   _Mollie Hemingway_: No Choice But to Appoint a 2nd Special Counsel
+*   _Paul Waldman_: The Republicans Go Full Illuminati
     
-*   _Eric Columbus_: DACA Isn't Dead. It's Undead.
+*   _Roger Simon_: What Do We Do About Corruption in the FBI?
     
-*   _Ronna McDaniel_: Democrats Own the Shutdown, and Will Pay a Price
+*   _E.J. Dionne_: Learning From the Catch-22 Shutdown
     
-*   _Eugene Robinson_: Trump Is Being Used, and He Doesn't Even Know It
+*   _Liz Peek_: Schumer's Mistakes Endanger Dem Prospects in November
     
-*   _Jeffrey Toobin_: The Courts Take Aim at Partisan Gerrymandering
+*   _Mark Penn_: Americans Back Deal With DACA and Border Security
     
-*   _Sean Trende_: Do Democrats Stand to Gain From Redrawn Pa. Maps?
+*   _Byron York_: 'Hide the Ball'--Growing Frustration With FBI Secrecy
     
-*   _Betsy McCaughey_: Trump Rescues Pro-Life Docs and Nurses
+*   _Brian Beutler_: Impeach Jeff Sessions
     
-*   _Mary Ziegler_: Roe v. Wade Was About More Than Abortion
+*   _Jonah Goldberg_: Let's Wait and See About 'Corruption' at the FBI
     
-*   _Chad Greene_: My Friends' Pregnancies Changed My Mind About Abortion
+*   _Julie Kelly_: The 'False Equivalence' Act of the NeverTrump Show
     
-*   _Anthony Mills_: Will Our Cities Save Democracy?
+*   _Robert Krol_: Trade Has Made America Great
     
-*   _Joy-Ann Reid_: Many Trump Boosters Are Spawns of 'Chain Migration'
+*   _Michael Stumo_: Trade Predators Destroy U.S. Jobs
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Is Anti-Trump Message Enough to Carry Dems in 2018?
 *   Do Democrats Stand to Gain From Redrawn Pa. Maps?
-*   Sen. Johnson: Evidence of Corruption at Highest Levels of FBI
+*   White House to Release Immigration Framework
+*   McCarthy, Nielsen and Chao Sell "America First" at Davos
+*   Is Anti-Trump Message Enough to Carry Dems in 2018?
 *   Democrats Split on Deal Ending Shutdown Fight
-*   Trump Campaign Ad Calls Dems "Complicit" in Officers' Deaths
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve36
+    *   Disapprove58Disapprove +22
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve45
+    *   Disapprove54Disapprove +9
 *   President Trump Job ApprovalFOX News
     *   Approve45
     *   Disapprove53Disapprove +8
 *   President Trump Job ApprovalHarvard-Harris
     *   Approve44
     *   Disapprove56Disapprove +12
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve43
-    *   Disapprove54Disapprove +11
 
 More Latest Polls In The News
 
-*   Kevin McCarthy, Kirstjen Nielsen, Elaine Chao Sell "America First" At Davos
-*   Don Lemon vs. Franklin Graham: Difference Between Clinton And Trump Is He Did It While In Office
-*   Huckabee Sanders: "Flake-Graham-Durbin" Immigration Deal "Dead on Arrival"
-*   Schumer on Nunes' Investigation Into FBI/DOJ Corruption: "We're All Worried About It"
-*   Coons To Dem 2020 Contenders: Focus On Solving Problems, Not "Some Primary Several Years From Now"
+*   Tucker Carlson Rips Bill Kristol: "Former Intellectual Who Now Exists Primarily On Twitter"
+*   Tom Bevan vs. Shep Smith: Will Nunes Memo Answer Vital Questions Or Distract The Public?
+*   Roger Stone Warns Trump: Mueller Setting A "Perjury Trap," Interview Will Be "Suicide Mission"
+*   Rep. Gaetz vs. CNN's Cuomo on FBI Texts: "I Don't Trust CNN Anchors". You're Calling Me A Partisan?
+*   Outgoing Sen. Bob Corker at Davos: President Trump Is An "Unpredictable" Negotiator
 
 *   Politics
 *   Policy
