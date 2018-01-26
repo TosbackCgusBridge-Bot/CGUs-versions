@@ -3,6 +3,7 @@ Internet Brands
 *   Privacy Highlights
 *   Privacy Policy
 *   Cookie Policy
+*   Text Messaging
 *   Privacy Contact
 
 Privacy Policy Highlights
@@ -44,4 +45,4 @@ Internet Brands, Inc. and its subsidiaries and corporate affiliates operate webs
 *   Work With Us
 *   Contact Us
 
-Copyright © 2014 Internet Brands, Inc. All rights reserved.
+Copyright © 2014-2018 Internet Brands, Inc. All rights reserved.
