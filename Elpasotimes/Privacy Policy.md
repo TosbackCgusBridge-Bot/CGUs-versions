@@ -1,4 +1,4 @@
-close dialog72 HOUR SALE $1999 for 1 yearEnds TodaySubscribe Nowclose dialogSUBSCRIBE NOWto get full access
+close dialogDiscover something new in 2018! 99¢ for the 1st month1st month for only 99¢Subscribeclose dialogSUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -142,4 +142,4 @@ Our Partners
 *   Cars.com El Paso
 *   The Job Network
 
-close dialog72 HOUR SALE $1999 for 1 yearEnds TodaySubscribe Nowclose dialogclose dialog72 HOUR SALE • Ends Today$1999for the first yearSubscribe NowNo thanksclose dialog
+close dialogDiscover something new in 2018! 99¢ for the 1st month1st month for only 99¢Subscribeclose dialog
