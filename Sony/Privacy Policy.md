@@ -131,7 +131,7 @@ Play SZA Dances Through "The Weekend" Video hotspot
 
 All of music's biggest night's nominees in one album. Pre-order @RecordingAcad's #GRAMMYs 2018 Nominee album!
 
-5 days ago
+6 days ago
 
 View Tweet
 
@@ -201,7 +201,7 @@ Big-Screen Entertainment
 
 Add a whole new dimension to your home (or anywhere) with the #XperiaTouch. See it now at #SonySquareNYC.
 
-7 days ago
+8 days ago
 
 View Tweet
 
@@ -291,7 +291,7 @@ View X900F 4K HDR TV on Instagram
 
 Viva Las Vegas – The #SonyCES round-up featuring. the Xperia XA2, XA2 Ultra and Xperia L2. Selfie lovers rejoice!
 
-7 days ago
+8 days ago
 
 View Tweet
 
