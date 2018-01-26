@@ -15,6 +15,7 @@ Close submenu ( Girls ) Girls
 
 *   View Home
 *   Open submenu ( Featured ) Featured
+*   Swim
 *   Clearance
 
 *   Open submenu ( Tops ) Tops
@@ -36,6 +37,7 @@ Close submenu ( Featured ) Featured
 *   Denim Guide
 *   Logo Shop
 *   Basic Essentials
+*   Seriously Soft
 *   Lounge + Sleep
 *   Uniform
 
@@ -97,6 +99,7 @@ Close submenu ( Featured ) Featured
 *   Logo Shop
 *   Tapout + Aero Active
 *   Back to Basics
+*   Tanks + Swim Shop
 *   Online Only
 *   Uniform
 
@@ -106,8 +109,8 @@ Close submenu ( Tops ) Tops
 *   Tees
 *   Graphic Tees
 *   Long Sleeve
-*   Shirts
 *   Polos
+*   Shirts
 *   Hoodies + Sweatshirts
 *   Sweaters
 *   Tanks
@@ -130,14 +133,12 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
-*   Low Rise Ankle Jegging
-*   Low Rise Crop Jegging
-*   Ankle Straight
-*   High Waisted Ankle Jegging
-*   High Waisted Jegging
-*   High Waisted Jegging Crop
 *   Low Rise Jegging
+*   Ankle Jegging
+*   High Rise Jegging
+*   Cropped Jegging
 *   Skinny
+*   Ankle Straight
 *   Bootcut
 
 Close submenu ( Guys Jeans ) Guys Jeans
@@ -163,6 +164,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Sleep
 *   Bras
 *   Undies
+*   Swim
 *   Accessories
 *   Trending
 
@@ -173,6 +175,7 @@ Close submenu ( Featured ) Featured
 *   Lounge
 *   Sleep
 *   Intimates
+*   Swim
 
 Close submenu ( Tops ) Tops
 
@@ -206,10 +209,15 @@ Close submenu ( Girls ) Girls
 *   View All
 *   In Stitches
 *   Give 'Em The Shoulder
-*   Statement Tees
+*   Tied + Dyed
+*   Get the Message
 *   All Laced Up
 *   Perfectly Preppy
+*   Peep This
 *   Full Bloom
+*   Splash Into Swim
+*   Arm Candy
+*   Made For Shade
 
 Close submenu ( Guys ) Guys
 
@@ -224,6 +232,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
+*   Splash Into Spring
 *   Lots of Lace
 *   Sleep
 
@@ -241,7 +250,7 @@ Close submenu ( Girls ) Girls
 *   View All
 *   Last Chance
 *   New to Clearance
-*   Shop $6.99
+*   Shop $4.99
 *   Shop $7.99
 *   Shop $9.99
 *   Tees + Polos
@@ -289,7 +298,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**ONLINE ONLY EXTRA 30% OFF CLEARANCE** **FREE SHIPPING ON $75**
+**EXTRA 15% OFF** USE CODE **NEW15** **FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -305,8 +314,10 @@ Menu Find a Store Aeropostale
         *   Denim Guide
         *   Logo Shop
         *   Basic Essentials
+        *   Seriously Soft
         *   Lounge + Sleep
         *   Uniform
+    *   Swim
     *   Clearance
     
     *   Tops
@@ -356,6 +367,7 @@ Menu Find a Store Aeropostale
         *   Logo Shop
         *   Tapout + Aero Active
         *   Back to Basics
+        *   Tanks + Swim Shop
         *   Online Only
         *   Uniform
     *   Clearance
@@ -365,8 +377,8 @@ Menu Find a Store Aeropostale
         *   Tees
         *   Graphic Tees
         *   Long Sleeve
-        *   Shirts
         *   Polos
+        *   Shirts
         *   Hoodies + Sweatshirts
         *   Sweaters
         *   Tanks
@@ -389,14 +401,12 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
-        *   Low Rise Ankle Jegging
-        *   Low Rise Crop Jegging
-        *   Ankle Straight
-        *   High Waisted Ankle Jegging
-        *   High Waisted Jegging
-        *   High Waisted Jegging Crop
         *   Low Rise Jegging
+        *   Ankle Jegging
+        *   High Rise Jegging
+        *   Cropped Jegging
         *   Skinny
+        *   Ankle Straight
         *   Bootcut
     
     *   Guys Jeans
@@ -417,6 +427,7 @@ Menu Find a Store Aeropostale
         *   Lounge
         *   Sleep
         *   Intimates
+        *   Swim
     *   Clearance
     
     *   Tops
@@ -438,6 +449,7 @@ Menu Find a Store Aeropostale
     *   Sleep
     *   Bras
     *   Undies
+    *   Swim
     *   Accessories
     *   Trending
     
@@ -448,10 +460,15 @@ Menu Find a Store Aeropostale
         *   View All
         *   In Stitches
         *   Give 'Em The Shoulder
-        *   Statement Tees
+        *   Tied + Dyed
+        *   Get the Message
         *   All Laced Up
         *   Perfectly Preppy
+        *   Peep This
         *   Full Bloom
+        *   Splash Into Swim
+        *   Arm Candy
+        *   Made For Shade
     
     *   Guys
         *   View All
@@ -465,6 +482,7 @@ Menu Find a Store Aeropostale
     
     *   Live Love Dream
         *   View All
+        *   Splash Into Spring
         *   Lots of Lace
         *   Sleep
     
@@ -475,7 +493,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   Last Chance
         *   New to Clearance
-        *   Shop $6.99
+        *   Shop $4.99
         *   Shop $7.99
         *   Shop $9.99
         *   Tees + Polos
@@ -527,14 +545,23 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Promotions Shop Girls Shop Guys Promotions
+ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Get Store Coupon Shop Girls Shop Guys
 
+*   Polos Starting at $8.00 Shop Girls Shop Guys
+*   Accessories Starting at $6.00 Shop Girls Shop Guys
+*   Fashion Tops Starting at $14.75 Shop Girls
 *   Tees Starting at $10.00 Shop Girls Shop Guys
-*   Long Sleeve Tees Starting at $13.00 Shop Girls Shop Guys
-*   Hoodies + Sweatshirts Starting at $15.00 Shop Guys Shop Girls
-*   Joggers + Sweats Starting at $18.00 Shop Guys
+*   Polos Starting at $8.00 Shop Girls Shop Guys
+*   Accessories Starting at $6.00 Shop Girls Shop Guys
+*   Fashion Tops Starting at $14.75 Shop Girls
+*   Tees Starting at $10.00 Shop Girls Shop Guys
 
-Promotions Find My Store <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+*   1
+*   2
+*   3
+*   4
+
+Promotions Shop Girls Shop Guys Promotions Find My Store Shop GirlsShop GuysShop LLD <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
