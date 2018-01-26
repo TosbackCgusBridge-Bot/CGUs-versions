@@ -320,7 +320,8 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Boost Your Productivity With Performance You Can Count On
+Boost your productivity with performance  
+you can count on with the ThinkPad T470s
 
 Shop Now >.
 
