@@ -203,7 +203,7 @@ menu Close 0 Free Shipping on $50+
     *   Pajamas &. Robes
     *   Shorts
     *   Blazers
-    *   Swimwear
+    *   Swimsuits
     *   Backpacks &. Lunch Boxes
     *   Activewear
     *   Shoes
@@ -236,17 +236,39 @@ menu Close 0 Free Shipping on $50+
     *   Business Bags
     *   Diaper Bags
     *   Travel Bags
-*   Swim SHOP SWIM
+*   Swim WOMEN'S SWIMSUITS>.
     
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
+    *   Tankinis &. Bikinis
+    *   One-piece Swimsuits
+    *   Rash Guards &. Swim Shirts
+    *   Cover-ups
+    *   Plus Size Swimsuits
+    *   Swim Skirts
+    *   Board Shorts
+    *   Swim Dresses
+    *   Mastectomy Swimsuits
+    
+    MEN'S SWIMWEAR>.
+    
+    *   Swim Trunks
+    *   Rash Guards &. Swim Shirts
+    
+    GIRLS' SWIMSUITS>.
+    
+    *   Tankini &. Bikini Separates
+    *   Two-piece Swimsuit Sets
+    *   One-piece Bathing Suits
+    *   Rash Guards &. Swim Shirts
+    *   Cover-ups
+    
+    BOYS' SWIMSUITS>.
+    
+    *   Swim Trunks
+    *   Rash Guards &. Swim Shirts
     
     FEATURED SHOPS
     *   Women's Swim Finder
     *   Women's Mix &. Match Tool
-    *   Swim Tees &. Rash Guards
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
@@ -519,7 +541,7 @@ menu Close 0 Free Shipping on $50+
         *   Pajamas &. Robes
         *   Shorts
         *   Blazers
-        *   Swimwear
+        *   Swimsuits
         *   Backpacks &. Lunch Boxes
         *   Activewear
         *   Shoes
@@ -557,19 +579,40 @@ menu Close 0 Free Shipping on $50+
 *   Swim
     *   Back
     *   Shop all Swim
+    *   WOMEN'S SWIMSUITS
+        *   Back
+        *   Tankinis &. Bikinis
+        *   One-piece Swimsuits
+        *   Rash Guards &. Swim Shirts
+        *   Cover-ups
+        *   Plus Size Swimsuits
+        *   Swim Skirts
+        *   Board Shorts
+        *   Swim Dresses
+        *   Mastectomy Swimsuits
+    *   MEN'S SWIMWEAR
+        *   Back
+        *   Swim Trunks
+        *   Rash Guards &. Swim Shirts
+    *   GIRLS' SWIMSUITS
+        *   Back
+        *   Tankini &. Bikini Separates
+        *   Two-piece Swimsuit Sets
+        *   One-piece Bathing Suits
+        *   Rash Guards &. Swim Shirts
+        *   Cover-ups
+    *   BOYS' SWIMSUITS
+        *   Back
+        *   Swim Trunks
+        *   Rash Guards &. Swim Shirts
     *   FEATURED SHOPS
         *   Back
         *   Women's Swim Finder
         *   Women's Mix &. Match Tool
-        *   Swim Tees &. Rash Guards
         *   Water Shoes &. Sandals
         *   Totes &. Beach Bags
         *   Beach Towels
         *   Sale
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
 *   School
     *   Back
     *   Shop all School
@@ -697,9 +740,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price style!
+Receive 20% off your order!
 
-code: SNOWY pin: 7570 DETAILS
+code: FROZEN pin: 6209 DETAILS
 
 Customer Service Menu
 
