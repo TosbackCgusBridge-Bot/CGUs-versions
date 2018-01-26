@@ -92,6 +92,10 @@ Once again OTA is an Associaton Sponsor of the RSA Conference. Join us and other
 *   OTA Blog
 *   Newsletters
 
+Thu, Jan 25, 2018 The Cyber Incident Tsunami - Time to Get Ready
+
+In advance of Data Privacy &. Protection Day, we just released the Cyber Incident &. Breach Trends Report (press release here), a look back at the cyber incident trends in 2017 and what can be done to address them.
+
 Tue, Dec 5, 2017 Will Uber Drive Us to Federal Breach Legislation ?
 
 The past six months we have witnessed an un-paralleled level of questionable business practices resulting from data breaches.  As trusted brands, Uber as well as Equifax and others, who have been entrusted with significant amounts of personal data have failed the American public.  The breach missteps and follies only continue.  Each time most within the security and privacy communities have rolled our eyes in disbelieve.
@@ -103,10 +107,6 @@ This week OTA / the Internet Society joined nearly 90 individuals and organizat
 Tue, Jun 20, 2017 2017 Online Trust Audit Released - What Did We Learn?
 
 Today we released the 9th annual Online Trust Audit and Honor Roll. This year’s Audit is our most comprehensive ever, assessing more than 1000 consumer-facing sites for their adoption of best practices in consumer/brand protection, site security and responsible privacy practices.
-
-Mon, Jun 5, 2017 Whitelisting Ads Vs. Scorched Earth: What's The Best Approach?
-
-By some accounts, there are more than 200 variants of ad-blocking solutions, many of which utilize whitelisting that allows certain ads through when they adhere to specific rules. While an ad blocker that doesn’t block all ads may sound like an oxymoron, I argue that whitelisting may be critical for the long-term sustainability of ad-supported services.
 
 More >>. Resources
 
