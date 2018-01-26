@@ -137,6 +137,15 @@ Up to
 
 2018 WRX Limited shown
 
+Ascent COMING SOON 2018 Ascent
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build &. Price
+
+Ascent Limited
+
 All Vehicles Find Your Subaru All Vehicles Certified Pre-Owned Certified Pre-Owned
 
 Fully checked, factory-covered and ready for more adventures.
