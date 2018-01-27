@@ -135,15 +135,15 @@ LATEST ON TWITTER
 
 "Header bidding sees publishers making it easier for buyers to bid on advertising. For buyers, it has also allowed them to see all available inventory sooner". @Requidan chats with @Beet\_TV at #CES2018 about #Headerbidding and integrating both server-to-server and traditional twitter.com/Beet\_TV/…
 
-About 2 days ago
+About 3 days ago
 
 My week on Twitter : 7 Mentions, 1.79K Mention Reach, 10 Likes, 5 Retweets, 3.28K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/evBg…
 
-About 2 days ago
+About 3 days ago
 
 Our biggest fans this week: @mrmistry, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/t1q7…
 
-About 3 days ago
+About 4 days ago
 
 Take a look at Demand Path Optimization in action! intermarkets.net/201… via Intermarkets blog
 
