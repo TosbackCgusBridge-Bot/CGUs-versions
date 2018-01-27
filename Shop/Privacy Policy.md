@@ -479,3 +479,7 @@ Please tell us how we can improve your experience:
 SUBMIT CHATHIDE Close
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
+
+SALES HOURS EXTENDED THIS WEEKEND ONLY! Call center open Jan. 27, 9 am–5 pm ET &. Jan. 28, 12 pm–4 pm, EST. 1-855-253-6686.
+
+×
