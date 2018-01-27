@@ -8,7 +8,6 @@ SUPER BOWL LII
 *   Standings
 *   Video
 *   Fantasy
-*   Playoff Picture
 *   Super Bowl
 *   Tickets
 *   Shop
@@ -30,7 +29,6 @@ SUPER BOWL LII
 *   Standings
 *   Video
 *   Fantasy
-*   Playoff Picture
 *   Super Bowl
 
 *   *   Pro Bowl
