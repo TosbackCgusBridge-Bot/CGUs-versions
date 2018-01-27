@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   A peek at the Snapcraft Summit ›
+*   LXD: 5 Easy Pieces ›
+*   Bionic Beaver 18.04 LTS to use Xorg by default ›
 *   Meltdown, Spectre and Ubuntu: What you need to know ›
-*   Kernel Team Summary: January 24, 2018 ›
-*   LXD Weekly Status #31 ›
-*   Ubuntu Development Summary – 23 Jan 2018 ›
-*   Ubuntu Desktop Weekly Update: January 22, 2018 ›
+*   Kernel team summary – 24 January 2018 ›
