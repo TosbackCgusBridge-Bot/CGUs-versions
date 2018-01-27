@@ -107,10 +107,10 @@ Skip to main content
     Experts News &. Experts News &. Experts Health News
     
     *   A Mother's Story: Flu Killed Daughter in 2 Days
-    *   Can Vegetarian Diets Be Dangerous?
-    *   Fungus, Bacteria Could Lurk in Your Dishwasher
-    *   'One-Stop' Blood Test for Cancer Shows Early Promise
-    *   Sauna May Be as Good as Exercise for the Heart
+    *   Worst Flu Season Since 2009 Hitting Seniors Hard
+    *   Dog Flu on the Rise
+    *   You Lost Weight -- How Soon Before It Comes Back?
+    *   EMT Crews Often Unprepared for a Diabetic Crisis
     
     Experts &. Community
     
