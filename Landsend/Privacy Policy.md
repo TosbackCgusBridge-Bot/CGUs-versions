@@ -65,6 +65,7 @@ menu Close 0 Free Shipping on $50+
     
     CATEGORIES
     
+    *   Swimsuits
     *   Coats &. Jackets
     *   Fleece
     *   Sweaters
@@ -77,7 +78,6 @@ menu Close 0 Free Shipping on $50+
     *   Skirts
     *   Blazers
     *   Activewear
-    *   Swimsuits
     *   Shorts
     *   Bags
     *   Long Underwear
@@ -158,8 +158,8 @@ menu Close 0 Free Shipping on $50+
 *   Kids FEATURED SHOPS
     
     *   New Arrivals
+    *   Swim Shop
     *   Outerwear Shop
-    *   Hats, Gloves &. Scarves
     *   Spring Into Layers
     *   Iron Knees Pants
     *   Girls' Knit Kit
@@ -425,6 +425,7 @@ menu Close 0 Free Shipping on $50+
         *   Belts
         *   Jewelry
         *   Small Accessories
+    *   Swimsuits
     *   Coats &. Jackets
     *   Fleece
     *   Sweaters
@@ -437,7 +438,6 @@ menu Close 0 Free Shipping on $50+
     *   Skirts
     *   Blazers
     *   Activewear
-    *   Swimsuits
     *   Shorts
     *   Bags
     *   Long Underwear
@@ -498,8 +498,8 @@ menu Close 0 Free Shipping on $50+
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
+        *   Swim Shop
         *   Outerwear Shop
-        *   Hats, Gloves &. Scarves
         *   Spring Into Layers
         *   Iron Knees Pants
         *   Girls' Knit Kit
