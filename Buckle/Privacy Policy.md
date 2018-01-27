@@ -23,7 +23,7 @@ Reserve favorite styles for in-store pick up with the Buckle Mobile app! Downloa
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES
 *   MY BAG
