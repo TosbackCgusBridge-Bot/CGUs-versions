@@ -231,4 +231,4 @@ Support
 
 Swipe for more from Patch »
 
-<img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />.
+<img src = "https://b.scorecardresearch.com/p?c1=2&c2=21043158&cv=2.0&cj=1" />. <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />.
