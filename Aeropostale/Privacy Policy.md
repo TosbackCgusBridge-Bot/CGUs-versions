@@ -39,6 +39,7 @@ Close submenu ( Featured ) Featured
 *   Basic Essentials
 *   Seriously Soft
 *   Lounge + Sleep
+*   Online Only
 *   Uniform
 
 Close submenu ( Tops ) Tops
@@ -316,6 +317,7 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Seriously Soft
         *   Lounge + Sleep
+        *   Online Only
         *   Uniform
     *   Swim
     *   Clearance
