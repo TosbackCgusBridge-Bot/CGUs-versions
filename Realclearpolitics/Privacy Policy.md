@@ -250,10 +250,10 @@ RecommendedPolitics
 *   Investigations
 
 *   Do Democrats Stand to Gain From Redrawn Pa. Maps?
-*   White House to Release Immigration Framework
+*   Evangelicals Provide Political Cover for Trump on DACA
 *   McCarthy, Nielsen and Chao Sell "America First" at Davos
+*   White House to Release Immigration Framework
 *   Is Anti-Trump Message Enough to Carry Dems in 2018?
-*   Democrats Split on Deal Ending Shutdown Fight
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,12 +268,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove55Disapprove +11
 *   President Trump Job ApprovalQuinnipiac
     *   Approve36
     *   Disapprove58Disapprove +22
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove54Disapprove +9
 *   President Trump Job ApprovalFOX News
     *   Approve45
     *   Disapprove53Disapprove +8
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Tucker Carlson Rips Bill Kristol: "Former Intellectual Who Now Exists Primarily On Twitter"
+*   Scaramucci vs. Cuomo: Mueller Firing Story "Irrelevant" Because Trump Didn't Actually Do It
+*   Tucker Carlson: When Concerns Of Foreigners Take Precedence Over Americans, Government Is Betraying Us
 *   Tom Bevan vs. Shep Smith: Will Nunes Memo Answer Vital Questions Or Distract The Public?
-*   Roger Stone Warns Trump: Mueller Setting A "Perjury Trap," Interview Will Be "Suicide Mission"
 *   Rep. Gaetz vs. CNN's Cuomo on FBI Texts: "I Don't Trust CNN Anchors". You're Calling Me A Partisan?
-*   Outgoing Sen. Bob Corker at Davos: President Trump Is An "Unpredictable" Negotiator
+*   CNN's Ryan Lizza: "Evidence Is Obviously Mounting" Of Obstruction Case Against Trump
 
 *   Politics
 *   Policy
