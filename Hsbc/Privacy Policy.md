@@ -86,7 +86,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Our investment case
         *   Investor information in Chinese -  
             投資者中文資訊
-        *   Frequently asked questions - investor relations
+        *   Frequently asked questions
         *   Investor contacts
         *   Equity analyst coverage
         *   Contact our registrar last item in this group
