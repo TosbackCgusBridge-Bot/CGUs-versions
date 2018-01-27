@@ -68,7 +68,6 @@ Skip to main content Online Trust Alliance
 *   Blog
 
 *   Print
-*   Twitter
 *   Linkedin
 *   Facebook
 *   Youtube
