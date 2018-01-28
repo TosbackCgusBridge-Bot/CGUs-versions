@@ -49,66 +49,57 @@ Gift Cards | Offers | Sign In Sign Out
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   Regal Park Place Stadium 16 &. RPX 7200 US Highway 19 North
-    *   Cobb Tyrone Luxury 10 2998 Tyrone Blvd N.
-    *   Studio Movie Grill Seminole 7718 113th Street N
-    *   AMC Sundial 20 151 2nd Ave North St.
-    *   Regal Largo Mall 8 10500 Ulmerton Rd East
-    *   Capitol Theater 405 Cleveland Street
-    *   Sunset Point Cinema Bar &. Grille 24095 U.S. Highway 19 North
-    *   Cobb Countryside 12 Cinemas 27001 US Highway 19 N.
-    *   Britton Cinemas 3938 South Dale Mabry Hwy
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Sundance Buzz: This Year's Topical Movies Are More Than Just Timely Read More
-    *   'The Shape of Water' Leads the 2018 Oscars With 13 Nominations Read More
-    *   Movie News: New 'Clue' on Its Way From Ryan Reynolds, 'Deadpool' Writers Read More
+    *   Movie News: First Look at New 'Mission: Impossible' Read More
+    *   The 2018 Sundance Movies To Put On Your Must-Watch List Read More
+    *   Steven Spielberg Begins Casting for 'West Side Story' Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
     *   Awards Watch
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 33780 Edit Zip Code
+*   My VIP Account Join FandangoVIP Refunds + Exchanges
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Partner Rewards
     
-
-See all insider perks Payment Method
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Refunds + Exchanges
-
-Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
-
-Learn more Partner Rewards
-
-Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
-
-Learn more My Fandango
-
-Save your favorite theaters and movies to experience a customized Fandango just for you.
-
-Learn more Insider Perks
-
-Get the VIP treatment, free screenings, digital downloads, discounts and more.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
+    
+    Learn more My Fandango
+    
+    Save your favorite theaters and movies to experience a customized Fandango just for you.
+    
+    Learn more Insider Perks
+    
+    Get the VIP treatment, free screenings, digital downloads, discounts and more.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms
 
@@ -281,9 +272,9 @@ Offers
     
     Buy tickets to 'Insidious: The Last Key’ and own any previous ‘Insidious’ movie to watch at home for just $2.99 each. BUY TICKETS
     
-*   20% Off All 4K Movies!
+*   'Jurassic World: Fallen Kingdom' Sweepstakes
     
-    Use code “4K18” to get 20% off stunning 4K Ultra HD and HDR movies. WATCH NOW
+    Sign up for a ‘Jurassic World: Fallen Kingdom’ FanAlert® for your chance to win a trip to the filming location in Hawaii. SIGN UP
     
 
 New + Coming soon
