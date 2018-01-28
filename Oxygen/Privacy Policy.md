@@ -1,8 +1,9 @@
 Skip to main content
 
+*   Very Real
 *   Crime Time
 *   Martinis &. Murder
-*   Very Real
+*   In Progress
 *   Podcast
 
 Open menu
@@ -11,13 +12,18 @@ Open menu
     
     *   See All Shows
     
-    *   Cold Justice
-    *   Criminal Confessions
+    *   Aaron Hernandez, McNair &. Dele: Dangerous Games
+    *   Bobbi Kristina Brown: Deadly Legacy
+    *   Chicago P.D.
     *   Dateline: Secrets Uncovered
+    *   Final Appeal
+    *   Homicide for the Holidays
+    
     *   It Takes A Killer
+    *   Killer Couples
+    *   Mysteries &. Scandals
+    *   OJ Simpson: The Crimes and Punishment
     *   Snapped
-    *   The Disappearance Of Natalee Holloway
-    *   The Disappearance of Maura Murray
 *   Full Episodes
 *   Videos
 *   Schedule
@@ -30,13 +36,18 @@ Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
     
     *   See All Shows
     
-    *   Cold Justice
-    *   Criminal Confessions
+    *   Aaron Hernandez, McNair &. Dele: Dangerous Games
+    *   Bobbi Kristina Brown: Deadly Legacy
+    *   Chicago P.D.
     *   Dateline: Secrets Uncovered
+    *   Final Appeal
+    *   Homicide for the Holidays
+    
     *   It Takes A Killer
+    *   Killer Couples
+    *   Mysteries &. Scandals
+    *   OJ Simpson: The Crimes and Punishment
     *   Snapped
-    *   The Disappearance Of Natalee Holloway
-    *   The Disappearance of Maura Murray
 *   Full Episodes
 *   Videos
 *   Schedule
@@ -45,18 +56,32 @@ Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
 
 Get Updates Facebook Twitter Instagram Snapchat Newsletter Sites
 
+*   Very Real
 *   Crime Time
 *   Martinis &. Murder
-*   Very Real
+*   In Progress
 *   Podcast
 
 Page Not Found
 
 Sorry we couldn’t find what you were looking for.
 
-Stay Connected Facebook Twitter Instagram Snapchat Newsletter
+Ways to Watch
 
-©2017 Oxygen Media LLC. A Division of NBCUniversal
+Download the Oxygen app:
+
+Oxygen
+
+*   iPhone
+*   Android
+*   Apple TV
+
+Buy episodes:
+
+*   iTunes
+*   Google Play
+*   Amazon
+*   VUDU
 
 About Oxygen
 
@@ -78,5 +103,6 @@ Get Involved
 *   Corporate Info
 *   AdChoices
 
-©2017 Oxygen Media LLC.  
-A Division of NBCUniversal
+Stay Connected Facebook Twitter Instagram Snapchat Newsletter Stay Connected Facebook Twitter Instagram Snapchat Newsletter
+
+©2018 Oxygen Media LLC. A Division of NBCUniversal
