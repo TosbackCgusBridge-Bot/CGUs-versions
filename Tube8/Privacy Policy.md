@@ -77,41 +77,30 @@ Close
 *   Tags
     Top 20 Porntags*   japanese
     *   japan
-    *   mom
     *   german
+    *   mom
     *   homemade
     *   young
     *   granny
     *   massage
     *   orgasm
     *   masturbation
-    *   deutsch
-    *   petite
     *   interracial
+    *   petite
     *   publicagent
-    *   italian
     *   cumshot
     *   blonde
-    *   missionary
+    *   deutsch
     *   brazzers
     *   brunette
+    *   missionary
+    *   italian
     *   View All
 *   Premium HD
 *   Live Girls
 *   FUCK NOW
 
-Recent Searches Clear all Suggested Keywords You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close
-
-*   Advertise
-*   Terms
-*   DMCA
-*   Privacy
-*   RTA
-*   Content Partners
-*   18 USC 2257 Statement
-*   DMCA Takedown Form
-
-Advertise On Tube8 \* Select subjectTube8 AdvertisingReport inappropriate contentFeedback \* Select type VideoAdsProfileOther **Screenshot:**  
+Recent Searches Clear all Suggested Keywords You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close Advertise On Tube8 \* Select subjectTube8 AdvertisingReport inappropriate contentFeedback \* Select type VideoAdsProfileOther **Screenshot:**  
   
 \* I'm interested in: Global TrafficGeo-Targeted Traffic Send Start advertising on Tube8 today: Create your advertiser account. TUBE8 - Terms of service
 
