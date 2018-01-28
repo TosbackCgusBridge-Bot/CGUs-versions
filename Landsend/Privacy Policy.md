@@ -82,9 +82,8 @@ menu Close 0 Free Shipping on $50+
     *   Bags
     *   Long Underwear
     
-    SHOES
+    SHOES>.
     
-    *   View All
     *   Boots
     *   Slippers
     *   Casual
@@ -93,8 +92,7 @@ menu Close 0 Free Shipping on $50+
     *   Athletic &. Water
     *   Sandals
     
-    ACCESSORIES
-    *   View All
+    ACCESSORIES>.
     *   Scarves
     *   Hats
     *   Gloves
@@ -138,7 +136,6 @@ menu Close 0 Free Shipping on $50+
     
     SHOES
     
-    *   View All
     *   Boots
     *   Slippers
     *   Casual
@@ -147,7 +144,6 @@ menu Close 0 Free Shipping on $50+
     *   Sandals
     
     ACCESSORIES
-    *   View All
     *   Belts
     *   Socks
     *   Ties
@@ -407,7 +403,6 @@ menu Close 0 Free Shipping on $50+
         *   Plus
     *   SHOES
         *   Back
-        *   View All
         *   Boots
         *   Slippers
         *   Casual
@@ -417,7 +412,6 @@ menu Close 0 Free Shipping on $50+
         *   Sandals
     *   ACCESSORIES
         *   Back
-        *   View All
         *   Scarves
         *   Hats
         *   Gloves
@@ -458,7 +452,6 @@ menu Close 0 Free Shipping on $50+
         *   Big &. Tall
     *   SHOES
         *   Back
-        *   View All
         *   Boots
         *   Slippers
         *   Casual
@@ -467,7 +460,6 @@ menu Close 0 Free Shipping on $50+
         *   Sandals
     *   ACCESSORIES
         *   Back
-        *   View All
         *   Belts
         *   Socks
         *   Ties
@@ -740,9 +732,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 20% off your order!
+Receive 40% off 1 full-price style!
 
-code: FROZEN pin: 6209 DETAILS
+code: FREEZE pin: 5038 DETAILS
 
 Customer Service Menu
 
