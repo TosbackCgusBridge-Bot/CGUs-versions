@@ -89,6 +89,7 @@ Close submenu ( Guys ) Guys
 *   Jackets + Vests
 *   Accessories
 *   Underwear
+*   Swim
 *   Big + Tall
 *   Trending
 
@@ -395,6 +396,7 @@ Menu Find a Store Aeropostale
     *   Jackets + Vests
     *   Accessories
     *   Underwear
+    *   Swim
     *   Big + Tall
     *   Trending
     
