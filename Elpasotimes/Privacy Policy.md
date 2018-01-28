@@ -1,4 +1,4 @@
-close dialogDiscover something new in 2018! 99¢ for the 1st month1st month for only 99¢Subscribeclose dialog
+close dialogDiscover something new in 2018! 99¢ for the 1st month1st month for only 99¢Subscribeclose dialogSUBSCRIBE NOWto get full access
 
 *   Home
 *   News
