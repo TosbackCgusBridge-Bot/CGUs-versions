@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Maher Defends Jerusalem Decision: When You Win Wars You Take Land, Palestine A "Coiled Snake"
+*   David Brooks: Even If Trump Fired Mueller We Have All Been Numbed, "Nobody Gets Upset Anymore"
 *   Scaramucci vs. Cuomo: Mueller Firing Story "Irrelevant" Because Trump Didn't Actually Do It
 *   Tucker Carlson: When Concerns Of Foreigners Take Precedence Over Americans, Government Is Betraying Us
-*   Tom Bevan vs. Shep Smith: Will Nunes Memo Answer Vital Questions Or Distract The Public?
 *   Rep. Gaetz vs. CNN's Cuomo on FBI Texts: "I Don't Trust CNN Anchors". You're Calling Me A Partisan?
-*   CNN's Ryan Lizza: "Evidence Is Obviously Mounting" Of Obstruction Case Against Trump
 
 *   Politics
 *   Policy
