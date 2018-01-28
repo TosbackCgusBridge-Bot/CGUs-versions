@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Thursday, January 25, 2018  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, January 28, 2018  
 
 DEBKAfile
 
@@ -46,94 +46,94 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Netanyahu stresses to world leaders the need to improve the Iran nuclear deal
+*   Danon: Iran is running 82,000 fighters in Syria
     
-    Jan 24, 2018 @ 17:43
+    Jan 26, 2018 @ 01:31
     
-*   US-led coalition: 150 terrorists killed in strikes in Syrian Euphrates Valley
+*   Kerry urges Abbas to “resist Trump, stay strong”
     
-    Jan 24, 2018 @ 08:47
+    Jan 26, 2018 @ 01:07
     
-*   At least 33 killed in twin car bombing in Benghazi, Libya
+*   Trump: No aid to Palestinians until they talk peace
     
-    Jan 24, 2018 @ 08:41
+    Jan 26, 2018 @ 00:56
     
-*   Trump concerned by Turkey’s “conflicting signals” on Syria
+*   Four US citizens killed, two hurt in Kabul hotel attack
     
-    Jan 24, 2018 @ 08:32
+    Jan 25, 2018 @ 12:41
     
-*   Netanyahu to meet Trump at Davos Thursday
+*   Putin to meet Netanyahu in Moscow next Monday
     
-    Jan 24, 2018 @ 08:25
+    Jan 25, 2018 @ 11:45
     
-*   Mattis reproves Turkey for Afrin incursion as “boon for ISIS”
+*   Trump flies to Davos, agrees to be questioned in Russia probe
     
-    Jan 23, 2018 @ 16:20
+    Jan 25, 2018 @ 11:33
     
-*   Ethiopia spurns Egypt’s proposed World Bank mediation for Nile dispute
+*   Turkey denies Trump warned Erdogan of clash with US troops in Syria
     
-    Jan 23, 2018 @ 12:41
+    Jan 25, 2018 @ 09:30
     
 
-*   Trump concerned by Turkey’s “conflicting signals” on Syria
+*   Four US citizens killed, two hurt in Kabul hotel attack
     
-    Jan 24, 2018 @ 08:32
+    Jan 25, 2018 @ 12:41
     
-*   Netanyahu to meet Trump at Davos Thursday
+*   Putin to meet Netanyahu in Moscow next Monday
     
-    Jan 24, 2018 @ 08:25
+    Jan 25, 2018 @ 11:45
     
-*   Mattis reproves Turkey for Afrin incursion as “boon for ISIS”
+*   Trump flies to Davos, agrees to be questioned in Russia probe
     
-    Jan 23, 2018 @ 16:20
+    Jan 25, 2018 @ 11:33
     
-*   Ethiopia spurns Egypt’s proposed World Bank mediation for Nile dispute
+*   Turkey denies Trump warned Erdogan of clash with US troops in Syria
     
-    Jan 23, 2018 @ 12:41
+    Jan 25, 2018 @ 09:30
     
-*   Netanyahu stresses to world leaders the need to improve the Iran nuclear deal
+*   Danon: Iran is running 82,000 fighters in Syria
     
-    Jan 24, 2018 @ 17:43
+    Jan 26, 2018 @ 01:31
     
-*   US-led coalition: 150 terrorists killed in strikes in Syrian Euphrates Valley
+*   Kerry urges Abbas to “resist Trump, stay strong”
     
-    Jan 24, 2018 @ 08:47
+    Jan 26, 2018 @ 01:07
     
-*   At least 33 killed in twin car bombing in Benghazi, Libya
+*   Trump: No aid to Palestinians until they talk peace
     
-    Jan 24, 2018 @ 08:41
+    Jan 26, 2018 @ 00:56
     
-*   Trump concerned by Turkey’s “conflicting signals” on Syria
+*   Four US citizens killed, two hurt in Kabul hotel attack
     
-    Jan 24, 2018 @ 08:32
+    Jan 25, 2018 @ 12:41
     
-*   Netanyahu to meet Trump at Davos Thursday
+*   Putin to meet Netanyahu in Moscow next Monday
     
-    Jan 24, 2018 @ 08:25
+    Jan 25, 2018 @ 11:45
     
-*   Mattis reproves Turkey for Afrin incursion as “boon for ISIS”
+*   Trump flies to Davos, agrees to be questioned in Russia probe
     
-    Jan 23, 2018 @ 16:20
+    Jan 25, 2018 @ 11:33
     
-*   Ethiopia spurns Egypt’s proposed World Bank mediation for Nile dispute
+*   Turkey denies Trump warned Erdogan of clash with US troops in Syria
     
-    Jan 23, 2018 @ 12:41
+    Jan 25, 2018 @ 09:30
     
-*   Netanyahu stresses to world leaders the need to improve the Iran nuclear deal
+*   Danon: Iran is running 82,000 fighters in Syria
     
-    Jan 24, 2018 @ 17:43
+    Jan 26, 2018 @ 01:31
     
-*   US-led coalition: 150 terrorists killed in strikes in Syrian Euphrates Valley
+*   Kerry urges Abbas to “resist Trump, stay strong”
     
-    Jan 24, 2018 @ 08:47
+    Jan 26, 2018 @ 01:07
     
-*   At least 33 killed in twin car bombing in Benghazi, Libya
+*   Trump: No aid to Palestinians until they talk peace
     
-    Jan 24, 2018 @ 08:41
+    Jan 26, 2018 @ 00:56
     
-*   Trump concerned by Turkey’s “conflicting signals” on Syria
+*   Four US citizens killed, two hurt in Kabul hotel attack
     
-    Jan 24, 2018 @ 08:32
+    Jan 25, 2018 @ 12:41
     
 
 12PrevNext DEBKA Video
@@ -153,4 +153,4 @@ Archive Archive Select Month January 2018  (38) December 2017  (46) November 2
 *   Contact Us
 *   About Us
 
-Copyright © 2000-2018 DEBKAfile. All Rights Reserved. Skip this adSponsorship
+Copyright © 2000-2018 DEBKAfile. All Rights Reserved. <!--Iframe Tag -->. <!-- begin ZEDO for channel:  Debka\_Desktop\_i , publisher: Debka , Ad Dimension: 970x450 - 970 x 450 -->. <iframe src="https://tt3.zedo.com/jsc/tt3/ff2.html?n=794;c=3129;s=2;d=83;w=970;h=450" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width=970 height=450></iframe>. <!-- end ZEDO for channel:  Debka\_Desktop\_i , publisher: Debka , Ad Dimension: 970x450 - 970 x 450 -->. Skip this adSponsorship
