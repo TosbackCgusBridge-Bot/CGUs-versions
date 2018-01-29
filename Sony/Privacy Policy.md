@@ -139,7 +139,7 @@ This Bundle Is For You
 
 How the Shadow of the Colossus remake honors a legendary story, and the way we remember it: play.st/2rHCzCI
 
-22 hours ago
+1 day ago
 
 View Tweet
 
@@ -221,7 +221,7 @@ Play SZA Dances Through "The Weekend" Video hotspot
 
 Jack White’s album #BoardingHouseReach is available for pre-order now. Album out March 23.
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -303,7 +303,7 @@ View X900F 4K HDR TV on Instagram
 
 Breaking Bad’ 10th Anniversary: Writers Reunite to Reflect on What They Learned and That Final Season.
 
-1 day ago
+2 days ago
 
 View Tweet
 
