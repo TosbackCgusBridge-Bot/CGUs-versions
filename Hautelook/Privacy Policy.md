@@ -8,18 +8,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Thomas Wylde Up to 85% Off
+    *   Luxe Skin Care Up to 90% Off
+    *   Women's Shoes Up to 75% Off
+    *   Grayse Up to 80% Off
+    *   Jewelry Steals Up to 85% Off
+    *   Just Cavalli Watches Up to 70% Off
+    *   Free Shipping: Natori Towels Up to 75% Off
+    *   Men's Shoes Up to 70% Off
+    *   ABS by Allen Schwartz Up to 85% Off
+    *   Why Dress
+    *   Blondo
+    *   Tori Richard
+    *   Barefoot Dreams Sleep
+    *   Free Shipping: Gold Jewelry Starting at $15
+    *   Wardrobe Essentials: Sweaters, Denim &. More
+    *   Koral Active
+    *   Anne Klein
+    *   One-of-a-Kind Bags &. More Up to 80% Off
+    *   Plus Size Denim Shop ft. Seven7
+    *   Caravelle New York Watches Under $50
+    *   Hoka
+    *   Manitobah Mukluks
+    *   Cover FX
+    *   Dress Shirts Under $35 ft. Original Penguin
+    *   Sandro Moscolini
+    *   Cohesive &. Co Up to 80% Off
+    *   Free Shipping: Hand-Painted Replicas Up to 70% Off
+    *   Lucky Brand Kids
+    *   See Kai Run
+    *   Ravensburger Puzzles for the Whole Family
     *   Max Studio Dresses &. Collection
     *   Hidden Jeans
+    
     *   Goby
     *   Free Press &. Shimera
-    *   Max Studio Handbags
     *   Lucy Paris
+    *   Max Studio Handbags
     *   Ron Tomson
-    *   Soludos
-    *   Chase &. Chloe Under $50
     *   Basler Up to 80% Off
     *   On-Trend Jewelry Starting at $15
+    *   Soludos
     *   Casual Cool: Women's High Top Sneakers
+    *   Chase &. Chloe Under $50
     *   Korean Beauty: MEDIHEAL Skin Care
     *   L.A. Girl &. City Color Cosmetics from $10
     *   Polo Ralph Lauren Lounge &. More
@@ -28,7 +59,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Unique Outdoor Lighting &. Decor
     *   Everly Grey Maternity
     *   Baby Shop ft. Boppy
-    *   Deer Stags
     *   Amanda &. Chelsea Including Special Sizes
     *   Wear-to-Work Shoes Under $80
     *   Work Week Chic: Dresses ft. Donna Morgan
@@ -36,7 +66,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Sport Coats, Shirts &. More
     *   Business Casual: Men's Shoes
     *   Wear to Work: Men's Briefcases &. More
-    
     *   Designer Shop: Gucci Sun &. Optical
     *   Men's Designer Shoes ft. Versace &. Vince
     *   Moschino &. LOVE Moschino Up to 60% Off
@@ -44,6 +73,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Estee Lauder Lip Potions
     *   BLVD Starting at $15
     *   Gucci Jewelry
+    
     *   Etienne Marcel
     *   On Trend: Sterling Silver &. More Up to 80% Off
     *   Flirty Florals: Dresses &. More from Soprano
@@ -59,13 +89,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cute &. Comfy Styles ft. Soft Comfort
     *   MUK LUKS
     *   Designer Shoes ft. Oscar de la Renta &. Versace
-    *   SPANX
-    *   T3 Hair Tools
-    *   Mirenesse Australia Up to 75% Off
-    *   My Magic Mud Oral Care
-    *   Rodial Skin Care
     *   Levi's Men
-    
     *   X-Ray Up to 75% Off
     *   Giorgio Brutini Starting at $30
     *   Zanzara
@@ -75,37 +99,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   FREEZE Kids' Character Tees &. Hoodies
     *   Kidorable
     *   Kids' Premium Denim Shop
-    *   Men's Resort Shop
-    *   Vacation Ready: Men's Sandals &. Slip-Ons
-    *   Suslo Couture
-    *   JachsNY
-    *   Tommy Hilfiger Tailored Clothing
-    *   Bed|Stu Men
-    *   Free Shipping: Glam Home Decor Steals
-    *   Rustic Home Accents Starting at $10
-    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
+    *   Deer Stags
     *   9 to 5: Sleek Leather Bags
+    *   La Moda Swim
     *   The Resort Shop
-    *   Rebecca Minkoff
-    *   Lace &. Crochet: Dresses from Just Me
-    *   Cece by Cynthia Steffe
-    *   Dolce Cabo Up to 80% Off
-    *   DL1961
-    *   Vionic
-    *   Designer Fragrances: Burberry &. More from $12
+    *   Men's Resort Shop
 *   WomenShop Sale Events
     
+    *   Thomas Wylde Up to 85% Off
+    *   Luxe Skin Care Up to 90% Off
+    *   Women's Shoes Up to 75% Off
+    *   Grayse Up to 80% Off
+    *   Jewelry Steals Up to 85% Off
+    *   Just Cavalli Watches Up to 70% Off
+    *   ABS by Allen Schwartz Up to 85% Off
+    *   Why Dress
+    *   Blondo
+    *   Tori Richard
+    *   Barefoot Dreams Sleep
+    *   Free Shipping: Gold Jewelry Starting at $15
+    *   Wardrobe Essentials: Sweaters, Denim &. More
+    *   Koral Active
+    *   Anne Klein
+    *   One-of-a-Kind Bags &. More Up to 80% Off
+    *   Plus Size Denim Shop ft. Seven7
+    *   Caravelle New York Watches Under $50
+    *   Hoka
+    *   Manitobah Mukluks
+    *   Cover FX
     *   Max Studio Dresses &. Collection
     *   Hidden Jeans
     *   Goby
     *   Free Press &. Shimera
-    *   Max Studio Handbags
     *   Lucy Paris
-    *   Soludos
-    *   Chase &. Chloe Under $50
+    *   Max Studio Handbags
     *   Basler Up to 80% Off
     *   On-Trend Jewelry Starting at $15
+    
+    *   Soludos
     *   Casual Cool: Women's High Top Sneakers
+    *   Chase &. Chloe Under $50
     *   Korean Beauty: MEDIHEAL Skin Care
     *   L.A. Girl &. City Color Cosmetics from $10
     *   Everly Grey Maternity
@@ -119,7 +152,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Estee Lauder Lip Potions
     *   BLVD Starting at $15
     *   Gucci Jewelry
-    
     *   Etienne Marcel
     *   On Trend: Sterling Silver &. More Up to 80% Off
     *   Flirty Florals: Dresses &. More from Soprano
@@ -129,21 +161,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cute &. Comfy Styles ft. Soft Comfort
     *   MUK LUKS
     *   Designer Shoes ft. Oscar de la Renta &. Versace
-    *   SPANX
-    *   T3 Hair Tools
-    *   Mirenesse Australia Up to 75% Off
-    *   My Magic Mud Oral Care
-    *   Rodial Skin Care
-    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
     *   9 to 5: Sleek Leather Bags
+    *   La Moda Swim
     *   The Resort Shop
-    *   Rebecca Minkoff
-    *   Lace &. Crochet: Dresses from Just Me
-    *   Cece by Cynthia Steffe
-    *   Dolce Cabo Up to 80% Off
-    *   DL1961
-    *   Vionic
-    *   Designer Fragrances: Burberry &. More from $12
     
     Shop By Category
     *   Clothing
@@ -152,9 +172,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Handbags
     *   Accessories
     *   Lingerie
+    *   Watches
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Men's Shoes Up to 70% Off
+    *   Dress Shirts Under $35 ft. Original Penguin
+    *   Sandro Moscolini
+    *   Cohesive &. Co Up to 80% Off
     *   Ron Tomson
     *   Polo Ralph Lauren Lounge &. More
     *   Back to Basics: Clean Sneakers
@@ -162,69 +187,70 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Sport Coats, Shirts &. More
     *   Business Casual: Men's Shoes
     *   Wear to Work: Men's Briefcases &. More
+    
     *   Men's Designer Shoes ft. Versace &. Vince
     *   Men's Designer Shop
     *   Travis Mathew
     *   Diamond Supply
     *   Levi's Men
-    
     *   X-Ray Up to 75% Off
     *   Giorgio Brutini Starting at $30
     *   Zanzara
     *   Beat the Chill: SMARTWOOL &. More
     *   Men's Resort Shop
-    *   Vacation Ready: Men's Sandals &. Slip-Ons
-    *   Suslo Couture
-    *   JachsNY
-    *   Tommy Hilfiger Tailored Clothing
-    *   Bed|Stu Men
-    *   Designer Fragrances: Burberry &. More from $12
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Lucky Brand Kids
+    *   See Kai Run
+    *   Ravensburger Puzzles for the Whole Family
     *   Everly Grey Maternity
     *   Baby Shop ft. Boppy
-    *   Deer Stags
     *   Little Mass &. Tru Luv
+    
     *   Colorful Kids' Shoes
     *   FREEZE Kids' Character Tees &. Hoodies
     *   Kidorable
     *   Kids' Premium Denim Shop
+    *   Deer Stags
     
     Shop By Category
     *   Girls Sizes 2T-6X
+    *   Toys
     *   Boys Sizes 2T-7
     *   Kids Accessories
     *   Girls Sizes 7-16
-    *   Baby Girl
     *   Boys' Shoes
-    *   Girls' Shoes
     *   Boys Sizes 8-20
-    *   Baby Gear &. Essentials
+    *   Baby Girl
+    *   Girls' Shoes
     *   Baby Boy
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Natori Towels Up to 75% Off
+    *   Free Shipping: Hand-Painted Replicas Up to 70% Off
     *   Free Shipping: Unique Outdoor Lighting &. Decor
     *   Moschino &. LOVE Moschino Up to 60% Off
     *   Car Storage &. Organization Essentials from $10
     *   Free Shipping: Shower Curtains &. More Up to 60% Off
     *   Free Shipping: Bath Towels Starting at $12
-    *   Free Shipping: Glam Home Decor Steals
-    *   Rustic Home Accents Starting at $10
     
     Shop By Category
-    *   Home Decor
     *   Bath
+    *   Home Decor
     *   Luggage &. Travel
     *   Outdoor Living
     *   Accent Furniture
-    *   Bedding
 *   BeautyShop Sale Events
     
+    *   Luxe Skin Care Up to 90% Off
+    *   Cover FX
     *   Korean Beauty: MEDIHEAL Skin Care
     *   L.A. Girl &. City Color Cosmetics from $10
     *   Estee Lauder Lip Potions
@@ -232,16 +258,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Teami Blends Detox Teas &. Supplements
     *   Trophy Skin Anti-Aging Beauty Tools
     
-    *   T3 Hair Tools
-    *   Mirenesse Australia Up to 75% Off
-    *   My Magic Mud Oral Care
-    *   Rodial Skin Care
-    *   Designer Fragrances: Burberry &. More from $12
-    
     Shop By Category
-    *   Makeup
     *   Skin Care
-    *   Fragrance
+    *   Makeup
     *   Hair Care
     *   Supplements
     *   Tools &. Accessories
