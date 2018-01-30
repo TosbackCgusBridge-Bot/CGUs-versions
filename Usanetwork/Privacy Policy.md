@@ -57,7 +57,7 @@ Skip to main content
             4.  Universal Studios SingaporeUniversal Studios SingaporeOffers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions.Universal Studios Singapore
         5.  TV Studios Production
             1.  Telemundo StudiosTelemundo StudiosTelemundo Studios is a full service facilities company owned and operated by Telemundo / NBCUniversal.Telemundo Studios
-            2.  Universal Cable ProductionsUniversal Cable ProductionsCreates innovative and critically acclaimed original scripted and digital content across media platforms for domestic and international distribution.Universal Cable Productions
+            2.  Universal Cable ProductionsUniversal Cable ProductionsCreates innovative and critically acclaimed original scripted content for all media platforms.Universal Cable Productions
             3.  Universal TelevisionUniversal TelevisionOne of the largest and most successful television production companies in the U.S. Produces primetime series, late night and reality programs for a variety of platforms.Universal Television
         6.  International
             1.  CNBC InternationalCNBC InternationalThe leading global broadcaster of live business and financial news and information, reporting directly from the major financial markets around the globe.CNBC International
@@ -185,4 +185,4 @@ Cookies/ tracking technologies are used on some of our online services to serve 
 *   Supply Chain Values
 *   Terms of Service
 
-© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/1008330" height="1" width="1" alt="" /></a></div>.
+© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/8812132" height="1" width="1" alt="" /></a></div>.
