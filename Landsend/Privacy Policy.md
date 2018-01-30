@@ -732,9 +732,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price style!
+Receive 25% off full-price styles!
 
-code: FREEZE pin: 5038 DETAILS
+code: FRIGID pin: 3719 DETAILS
 
 Customer Service Menu
 
