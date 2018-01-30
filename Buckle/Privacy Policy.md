@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Reserve favorite styles for in-store pick up with the Buckle Mobile app! Download now.
+Ready, set, touchdown! Get Super Bowl ready.
 
 *   Women
 *   Men
