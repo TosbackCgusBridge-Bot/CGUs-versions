@@ -5,27 +5,25 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   Maze Runner: The Death Cure
     *   Jumanji: Welcome to the Jungle
-    *   12 Strong
-    *   Den of Thieves
-    *   The Post
+    *   Hostiles
     *   The Greatest Showman
+    *   The Post
+    *   Den of Thieves
+    *   12 Strong
+    *   The Shape of Water (2017)
     *   Paddington 2
-    *   The Commuter
+    *   Padmaavat
     *   Star Wars: The Last Jedi (2017)
-    *   Insidious: The Last Key
-    *   Forever My Girl
-    *   Proud Mary
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Maze Runner: The Death Cure
-    *   Hostiles
-    *   Desolation (2018)
-    *   Have a Nice Day
-    *   Kickboxer: Retaliation
-    *   The Neighbor (2018)
+    *   Winchester (2018)
+    *   Bilal: A New Breed of Hero
+    *   A Fantastic Woman
+    *   Scorched Earth
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -34,7 +32,6 @@ Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   Winchester (2018)
     *   Fifty Shades Freed
     *   Peter Rabbit
     *   The 15:17 to Paris
@@ -43,6 +40,7 @@ Gift Cards | Offers | Sign In Sign Out
     *   Annihilation
     *   Game Night (2018)
     *   Every Day (2018)
+    *   Red Sparrow
     *   See All Coming Soon
     
     Explore More
@@ -70,9 +68,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: First Look at New 'Mission: Impossible' Read More
+    *   Movie News: Jennifer Hudson to Star as Aretha Franklin in Musical Biopic Read More
     *   The 2018 Sundance Movies To Put On Your Must-Watch List Read More
-    *   Steven Spielberg Begins Casting for 'West Side Story' Read More
+    *   Tom Hanks to Star in a Mister Rogers Biopic Read More
     
     Explore Content
     *   Movie Reviews
