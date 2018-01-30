@@ -1,3 +1,5 @@
+× Close Ad
+
 *   Policy
 *   Markets
 *   World
@@ -22,7 +24,7 @@
     *   Generic Ballot
     *   Donald Trump Favorability
     *   State of Union Polls
-*   Election 2017/18
+*   Election 2018
     *   Virginia Governor
     *   New Jersey Governor
     *   Alabama Senate
@@ -57,8 +59,8 @@
         *   Generic Ballot
         *   Donald Trump Favorability
         *   State of Union Polls
-    *   RCP Election 2017/18
-        *   Election 2017/18
+    *   RCP Election 2018
+        *   Election 2018
         *   Virginia Governor
         *   New Jersey Governor
         *   Alabama Senate
@@ -100,6 +102,58 @@
     *   Contact
     *   About
     *   Media Kit
+
+*   _Mae Ngai_: Immigration's Border-Enforcement Myth
+    
+*   _Roger Simon_: Democrats Are the New Palestinians on Immigration
+    
+*   _Michelle Cottle_: Republicans' Best Candidates Aren't the Loudest Ones
+    
+*   _Charles Gasparino_: The Very Simple Truth Behind Trump's Davos Triumph
+    
+*   _Ezra Klein_: Trump Is Winning. The Country Is Losing.
+    
+*   _Mollie Hemingway_: New Book: McCabe Initiated Meeting That Led to Leak
+    
+*   _Susan Glasser_: Warner: 'New Information That Raises More Questions'
+    
+*   _Russell Berman_: Trump's SOTU Will Be an Economic Victory Lap
+    
+*   _Jonah Goldberg_: Jerry Falwell Jr.'s Pathetic Rationalization of Trump
+    
+*   _Julie Kelly_: NeverTrump Pundits Sing Clinton's Tune
+    
+*   _Rachel Aviv_: What Does It Mean to Die?
+    
+*   _Victor Davis Hanson_: From Conspiracy Theories to Conspiracies
+    
+*   _Charles Blow_: Trump Repeats Nixon's Fateful Panic
+    
+*   _Susan Ferrechio_: New FBI Texts Divide Congress Over 2nd Special Counsel
+    
+*   _Steve Vladeck_: Keep Trump From Firing Mueller on a Whim
+    
+*   _Gary Cohn_: Trump Shared a Vision of Economic Progress in Davos
+    
+*   _Susan Rice_: We Have Met the Enemy, and He Is Us
+    
+*   _Kurt Schlichter_: Laugh at the Democrats as They Die on Amnesty Hill
+    
+*   _Norman Ornstein_: The Real Cause of the Last Shutdown--&. the Next One
+    
+*   _Melissa Quinn_: Inside the Mind of Trump's Supreme Court Right-Hand Man
+    
+*   _Anneke Green_: What the 'First Lady's Box' Has to Tell Us
+    
+*   _Maureen Dowd_: Trump Hits Alps, But Melania Is Frosty in Florida
+    
+*   _Terry Moran_: It's the Economy, Stupid--&. Trump's Economy Is Blasting Off
+    
+*   _Stephen Hayes_: Wait for the Facts on FBI 'Corruption'
+    
+
+*   Previous
+*   Next
 
 RealClearPolitics Privacy Policy
 
@@ -198,9 +252,9 @@ RecommendedPolitics
 *   Investigations
 
 *   Do Democrats Stand to Gain From Redrawn Pa. Maps?
+*   Kochs Warm to Trump Policies, Not Behavior
+*   Full Speech: Trump Addresses World Economic Forum at Davos
 *   Evangelicals Provide Political Cover for Trump on DACA
-*   McCarthy, Nielsen and Chao Sell "America First" at Davos
-*   White House to Release Immigration Framework
 *   Is Anti-Trump Message Enough to Carry Dems in 2018?
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -216,26 +270,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove58Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve36
-    *   Disapprove58Disapprove +22
-*   President Trump Job ApprovalFOX News
-    *   Approve45
-    *   Disapprove53Disapprove +8
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve44
-    *   Disapprove56Disapprove +12
+    *   Approve43
+    *   Disapprove56Disapprove +13
+*   2018 Generic Congressional VoteRasmussen Reports
+    *   Democrats45
+    *   Republicans37Democrats +8
+*   Direction of CountryRasmussen Reports
+    *   Right Direction39
+    *   Wrong Track55Wrong Track +16
 
 More Latest Polls In The News
 
+*   Schiff on Nunes Memo: Republicans "Crossed A Line" Today By Politicizing Intel Declassification
+*   Mollie Hemingway: Media Is Missing "Something Huge" Happening At FBI
+*   Rep. Eric Swalwell Warns Trump Admin: "A Problem" If McCabe Departure Is Anything But Personal
 *   Netanyahu: Trump Did A "Great Service For Peace" By Recognizing Jerusalem As Israeli Capital
-*   Maher Defends Jerusalem Decision: When You Win Wars You Take Land, Palestine A "Coiled Snake"
-*   David Brooks: Even If Trump Fired Mueller We Have All Been Numbed, "Nobody Gets Upset Anymore"
-*   Scaramucci vs. Cuomo: Mueller Firing Story "Irrelevant" Because Trump Didn't Actually Do It
-*   Tucker Carlson: When Concerns Of Foreigners Take Precedence Over Americans, Government Is Betraying Us
+*   Gowdy: Do You Want To Know The Truth About Whether Steele Dossier Was Used To Get FISA Warrant?
 
 *   Politics
 *   Policy
