@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, January 29, 2018  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, January 30, 2018  
 
 DEBKAfile
 
@@ -46,94 +46,86 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Danon: Iran is running 82,000 fighters in Syria
+*   Netanyahu” We are already moving to prevent an Iranian military foothold in Syria
     
-    Jan 26, 2018 @ 01:31
+    Jan 29, 2018 @ 22:47
     
-*   Kerry urges Abbas to “resist Trump, stay strong”
+*   The removal of Dep FBI Director McCabe caps long Trump disapproval
     
-    Jan 26, 2018 @ 01:07
+    Jan 29, 2018 @ 21:49
     
-*   Trump: No aid to Palestinians until they talk peace
+*    Lieberman: We won’t let Iran build a missile factory in Lebanon
     
-    Jan 26, 2018 @ 00:56
+    Jan 29, 2018 @ 17:08
     
-*   Four US citizens killed, two hurt in Kabul hotel attack
+*   Netanyahu meets Putin in Moscow
     
-    Jan 25, 2018 @ 12:41
+    Jan 29, 2018 @ 16:58
     
-*   Putin to meet Netanyahu in Moscow next Monday
+*   Erdogan can’t deliver on his vow to drive out Syrian Kurdish militia
     
-    Jan 25, 2018 @ 11:45
+    Jan 29, 2018 @ 10:02
     
-*   Trump flies to Davos, agrees to be questioned in Russia probe
+*   Netanyahu saw Jason Greenblatt before flying to Moscow to meet Putin
     
-    Jan 25, 2018 @ 11:33
-    
-*   Turkey denies Trump warned Erdogan of clash with US troops in Syria
-    
-    Jan 25, 2018 @ 09:30
+    Jan 29, 2018 @ 09:48
     
 
-*   Four US citizens killed, two hurt in Kabul hotel attack
+*    Lieberman: We won’t let Iran build a missile factory in Lebanon
     
-    Jan 25, 2018 @ 12:41
+    Jan 29, 2018 @ 17:08
     
-*   Putin to meet Netanyahu in Moscow next Monday
+*   Netanyahu meets Putin in Moscow
     
-    Jan 25, 2018 @ 11:45
+    Jan 29, 2018 @ 16:58
     
-*   Trump flies to Davos, agrees to be questioned in Russia probe
+*   Erdogan can’t deliver on his vow to drive out Syrian Kurdish militia
     
-    Jan 25, 2018 @ 11:33
+    Jan 29, 2018 @ 10:02
     
-*   Turkey denies Trump warned Erdogan of clash with US troops in Syria
+*   Netanyahu saw Jason Greenblatt before flying to Moscow to meet Putin
     
-    Jan 25, 2018 @ 09:30
+    Jan 29, 2018 @ 09:48
     
-*   Danon: Iran is running 82,000 fighters in Syria
+*   Netanyahu” We are already moving to prevent an Iranian military foothold in Syria
     
-    Jan 26, 2018 @ 01:31
+    Jan 29, 2018 @ 22:47
     
-*   Kerry urges Abbas to “resist Trump, stay strong”
+*   The removal of Dep FBI Director McCabe caps long Trump disapproval
     
-    Jan 26, 2018 @ 01:07
+    Jan 29, 2018 @ 21:49
     
-*   Trump: No aid to Palestinians until they talk peace
+*    Lieberman: We won’t let Iran build a missile factory in Lebanon
     
-    Jan 26, 2018 @ 00:56
+    Jan 29, 2018 @ 17:08
     
-*   Four US citizens killed, two hurt in Kabul hotel attack
+*   Netanyahu meets Putin in Moscow
     
-    Jan 25, 2018 @ 12:41
+    Jan 29, 2018 @ 16:58
     
-*   Putin to meet Netanyahu in Moscow next Monday
+*   Erdogan can’t deliver on his vow to drive out Syrian Kurdish militia
     
-    Jan 25, 2018 @ 11:45
+    Jan 29, 2018 @ 10:02
     
-*   Trump flies to Davos, agrees to be questioned in Russia probe
+*   Netanyahu saw Jason Greenblatt before flying to Moscow to meet Putin
     
-    Jan 25, 2018 @ 11:33
+    Jan 29, 2018 @ 09:48
     
-*   Turkey denies Trump warned Erdogan of clash with US troops in Syria
+*   Netanyahu” We are already moving to prevent an Iranian military foothold in Syria
     
-    Jan 25, 2018 @ 09:30
+    Jan 29, 2018 @ 22:47
     
-*   Danon: Iran is running 82,000 fighters in Syria
+*   The removal of Dep FBI Director McCabe caps long Trump disapproval
     
-    Jan 26, 2018 @ 01:31
+    Jan 29, 2018 @ 21:49
     
-*   Kerry urges Abbas to “resist Trump, stay strong”
+*    Lieberman: We won’t let Iran build a missile factory in Lebanon
     
-    Jan 26, 2018 @ 01:07
+    Jan 29, 2018 @ 17:08
     
-*   Trump: No aid to Palestinians until they talk peace
+*   Netanyahu meets Putin in Moscow
     
-    Jan 26, 2018 @ 00:56
-    
-*   Four US citizens killed, two hurt in Kabul hotel attack
-    
-    Jan 25, 2018 @ 12:41
+    Jan 29, 2018 @ 16:58
     
 
 12PrevNext DEBKA Video
