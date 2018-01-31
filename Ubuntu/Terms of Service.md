@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Plex joins Snapcraft Summit to advance snap learnings ›
+*   Ubuntu Server Development Summary – 30 Jan 2018 ›
+*   Tutorial: Install Ubuntu on a Chromebook ›
+*   NTT TechnoCross becomes Canonical Certified Support Partner in Japan ›
 *   LXD Weekly Status #32 ›
-*   A peek at the Snapcraft Summit ›
-*   LXD: 5 Easy Pieces ›
-*   Bionic Beaver 18.04 LTS to use Xorg by default ›
-*   Meltdown, Spectre and Ubuntu: What you need to know ›
