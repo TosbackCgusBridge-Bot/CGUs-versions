@@ -148,8 +148,8 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   View All
 *   Skinny
 *   Slim Straight
-*   Slim Tapered
 *   Straight
+*   Slim Tapered
 *   Super Skinny
 *   Relaxed
 
@@ -215,11 +215,9 @@ Close submenu ( Girls ) Girls
 *   Get the Message
 *   All Laced Up
 *   Perfectly Preppy
-*   Peep This
+*   Cut It Out
 *   Full Bloom
 *   Splash Into Swim
-*   Arm Candy
-*   Made For Shade
 
 Close submenu ( Guys ) Guys
 
@@ -229,6 +227,7 @@ Close submenu ( Guys ) Guys
 *   New Blues
 *   Spring Break Bag
 *   Graphic Obsessed
+*   Tanks + Swim
 *   At Ease
 
 Close submenu ( Live Love Dream ) Live Love Dream
@@ -300,7 +299,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**EXTRA 15% OFF** USE CODE **NEW15** **FREE SHIPPING OVER $75**
+**EXTRA 50-70% OFF + FREE SHIPPING ON $75** **BUY ONE GET ONE FREE JEANS**
 
 *   My Account My Account Login Register
 
@@ -417,8 +416,8 @@ Menu Find a Store Aeropostale
         *   View All
         *   Skinny
         *   Slim Straight
-        *   Slim Tapered
         *   Straight
+        *   Slim Tapered
         *   Super Skinny
         *   Relaxed
     
@@ -468,11 +467,9 @@ Menu Find a Store Aeropostale
         *   Get the Message
         *   All Laced Up
         *   Perfectly Preppy
-        *   Peep This
+        *   Cut It Out
         *   Full Bloom
         *   Splash Into Swim
-        *   Arm Candy
-        *   Made For Shade
     
     *   Guys
         *   View All
@@ -481,6 +478,7 @@ Menu Find a Store Aeropostale
         *   New Blues
         *   Spring Break Bag
         *   Graphic Obsessed
+        *   Tanks + Swim
         *   At Ease
         
     
@@ -549,7 +547,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Get Store Coupon Shop Girls Shop Guys
+ON ORDERS OVER $75 Search Catalog Search Promotions Shop Sabrina's Picks Shop Girls New Arrivals Shop Guys New Arrivals
 
 *   Polos Starting at $8.00 Shop Girls Shop Guys
 *   Accessories Starting at $6.00 Shop Girls Shop Guys
@@ -600,4 +598,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
