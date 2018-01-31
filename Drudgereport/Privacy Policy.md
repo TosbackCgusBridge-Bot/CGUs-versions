@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 4 Mentions, 86.3K Mention Reach, 2 Likes, 3 Retweets, 31K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/kq8V…
+
+About 5 hours ago
+
+Our biggest fans this week: @StartUpRealTime, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/6SKz…
+
+About 16 hours ago
+
 .@Requidan discusses the importance of discovering new audiences and why advertisers should remain content neutral adexchanger.com/the-… @adexchanger
 
-Yesterday
+About 2 days ago
 
 "Header bidding sees publishers making it easier for buyers to bid on advertising. For buyers, it has also allowed them to see all available inventory sooner". @Requidan chats with @Beet\_TV at #CES2018 about #Headerbidding and integrating both server-to-server and traditional twitter.com/Beet\_TV/…
 
-About 6 days ago
+Last week
 
 My week on Twitter : 7 Mentions, 1.79K Mention Reach, 10 Likes, 5 Retweets, 3.28K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/evBg…
 
-About 6 days ago
-
-Our biggest fans this week: @mrmistry, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/t1q7…
-
 Last week
-
-Take a look at Demand Path Optimization in action! intermarkets.net/201… via Intermarkets blog
-
-About 2 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
