@@ -31,7 +31,7 @@ Show Menu Hide Menu
     *   Not ?
     *   Not ?  
         Log in to your account
-*   My Lists 0 You have 0 recent searches  
+*   My Lists  
     
     Things you view while shopping are saved here.
     
@@ -44,7 +44,7 @@ Show Menu Hide Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/553192e8f58e5c83d8bbe6148e0e4ae159369893 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/bb7074bf5a1e9438f4b17746974cebbcef70e07d Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
@@ -63,7 +63,7 @@ Show Menu Hide Menu
     *   Mobile
     
 
-Beginning of main content Create your free account Create your free account Sign Up with Facebook **OR** We apologize for our system failure. Please try again Account already exists Authentication failure. Please try again Action required!  
+Beginning of main content Create your free account Create your free account Sign Up with Facebook Looking for Sign In with Google? **OR** We apologize for our system failure. Please try again Account already exists Authentication failure. Please try again Action required!  
 To finish creating your account, please click the link we just sent to First name
 
 Last name
@@ -72,9 +72,9 @@ Email address
 
 Create a password
 
-Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign Up By creating an account, I agree to the Terms of Use and the Privacy Policy.
+Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Send me emails with travel deals, special offers, and other information. Sign Up By creating an account, I agree to the Terms of Use and the Privacy Policy.
 
-Already have an account? Sign In Sign in to your account Sign in to your account Sign In with Facebook **OR** We apologize for our system failure. Please try again You may have entered an unknown email address or an incorrect password Authentication failure. Please try again Email address
+Already have an account? Sign In Sign in to your account Sign in to your account Sign In with Facebook Looking for Sign In with Google? **OR** We apologize for our system failure. Please try again You may have entered an unknown email address or an incorrect password Authentication failure. Please try again Email address
 
 Password
 
