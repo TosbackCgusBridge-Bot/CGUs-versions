@@ -1,4 +1,4 @@
-× Close Ad
+× Close Ad × Close Ad
 
 *   Policy
 *   Markets
@@ -103,53 +103,53 @@
     *   About
     *   Media Kit
 
-*   _Mae Ngai_: Immigration's Border-Enforcement Myth
+*   _Sen. Mitch McConnell_: Trump, GOP Have Much to Brag About in Address
     
-*   _Roger Simon_: Democrats Are the New Palestinians on Immigration
+*   _Gov. Andrew Cuomo_: If Trump's Serious About Bipartisanship, He Must Prove It
     
-*   _Michelle Cottle_: Republicans' Best Candidates Aren't the Loudest Ones
+*   _Damon Linker_: Liberals Have Lost Their Minds Over Immigration
     
-*   _Charles Gasparino_: The Very Simple Truth Behind Trump's Davos Triumph
+*   _McKay Coppins_: How the Swamp Drained Trump
     
-*   _Ezra Klein_: Trump Is Winning. The Country Is Losing.
+*   _Ed Meese_: Sessions Is Returning Law &. Order to the Justice Department
     
-*   _Mollie Hemingway_: New Book: McCabe Initiated Meeting That Led to Leak
+*   _David Leonhardt_: The Nunes Conspiracy
     
-*   _Susan Glasser_: Warner: 'New Information That Raises More Questions'
+*   _Mollie Hemingway_: Schiff's Statements Frequently False, Missing Details
     
-*   _Russell Berman_: Trump's SOTU Will Be an Economic Victory Lap
+*   _Umair Irfan_: Scott Pruitt Is Very Effectively Slowly Strangling the EPA
     
-*   _Jonah Goldberg_: Jerry Falwell Jr.'s Pathetic Rationalization of Trump
+*   _Sarah Jones_: What Democrats Can Learn From Cecile Richards
     
-*   _Julie Kelly_: NeverTrump Pundits Sing Clinton's Tune
+*   _A.D.P. Efferson_: New Research Confirms That Abortion Hurts Women
     
-*   _Rachel Aviv_: What Does It Mean to Die?
+*   _Kate Brower_: The Quiet Radicalism of Melania Trump
     
-*   _Victor Davis Hanson_: From Conspiracy Theories to Conspiracies
+*   _Sen. Chuck Schumer_: What I'm Listening For in Trump's Speech
     
-*   _Charles Blow_: Trump Repeats Nixon's Fateful Panic
+*   _William McGurn_: Poor Chuck Schumer
     
-*   _Susan Ferrechio_: New FBI Texts Divide Congress Over 2nd Special Counsel
+*   _Huey-Burns &. Arkin_: Speech Could Boost Trump Immigration Plan
     
-*   _Steve Vladeck_: Keep Trump From Firing Mueller on a Whim
+*   _Eugene Robinson_: Trump Trying to Make America White Again
     
-*   _Gary Cohn_: Trump Shared a Vision of Economic Progress in Davos
+*   _Scott Greer_: Everything Is Racist - DACA Deal Edition
     
-*   _Susan Rice_: We Have Met the Enemy, and He Is Us
+*   _Noah Smith_: Trump Still Dreams of a 1950s-Era Economy
     
-*   _Kurt Schlichter_: Laugh at the Democrats as They Die on Amnesty Hill
+*   _Richard Epstein_: The Trump Growth Machine
     
-*   _Norman Ornstein_: The Real Cause of the Last Shutdown--&. the Next One
+*   _Niall Ferguson_: Meet the Man Poised to Take Over the World Economy
     
-*   _Melissa Quinn_: Inside the Mind of Trump's Supreme Court Right-Hand Man
+*   _Fukuyama &. Muggah_: Populism Is Poisoning the Global Liberal Order
     
-*   _Anneke Green_: What the 'First Lady's Box' Has to Tell Us
+*   _Victor Davis Hanson_: Hillary's 'Sure' Victory Explains Most Everything
     
-*   _Maureen Dowd_: Trump Hits Alps, But Melania Is Frosty in Florida
+*   _Paul Waldman_: Trump's Slow-Motion Massacre at the Justice Department
     
-*   _Terry Moran_: It's the Economy, Stupid--&. Trump's Economy Is Blasting Off
+*   _Mollie Hemingway_: Media Is Missing Something Huge Happening at FBI
     
-*   _Stephen Hayes_: Wait for the Facts on FBI 'Corruption'
+*   _Michael Tomasky_: The Real State of the Union Is Precarious
     
 
 *   Previous
@@ -251,11 +251,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Republicans Vote to Release Classified Memo on Russia Probe
+*   Trump Speech Could Boost His Immigration Proposal
+*   Pelosi: Republicans Are Lying to the American People
+*   Relations Between Trump, Global Elites Seem to Thaw at Davos
 *   Do Democrats Stand to Gain From Redrawn Pa. Maps?
-*   Kochs Warm to Trump Policies, Not Behavior
-*   Full Speech: Trump Addresses World Economic Forum at Davos
-*   Evangelicals Provide Political Cover for Trump on DACA
-*   Is Anti-Trump Message Enough to Carry Dems in 2018?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,12 +270,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove58Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
     *   Disapprove56Disapprove +13
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove58Disapprove +20
 *   2018 Generic Congressional VoteRasmussen Reports
     *   Democrats45
     *   Republicans37Democrats +8
@@ -285,11 +285,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Schiff on Nunes Memo: Republicans "Crossed A Line" Today By Politicizing Intel Declassification
+*   Kamala Harris: Trump "Scapegoating and Fear-Mongering" To Equate MS-13 and DREAMers
+*   Hannity on Trump SOTU: "This Is The Speech Conservatives Have Wanted To Hear Since Reagan"
+*   Joseph Kennedy III Delivers Dem Response to SOTU: Bullies Can't Match The Strength Of A People United
+*   Trump to Parents Of Teens Killed By Illegals in MS-13 at State Of The Union: "America Is Grieving For You"
 *   Mollie Hemingway: Media Is Missing "Something Huge" Happening At FBI
-*   Rep. Eric Swalwell Warns Trump Admin: "A Problem" If McCabe Departure Is Anything But Personal
-*   Netanyahu: Trump Did A "Great Service For Peace" By Recognizing Jerusalem As Israeli Capital
-*   Gowdy: Do You Want To Know The Truth About Whether Steele Dossier Was Used To Get FISA Warrant?
 
 *   Politics
 *   Policy
@@ -314,28 +314,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2017 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>. Sign Up For RC Newsletters
-
-*   RealClear Originals✓
-*   Carl M. Cannon's Morning Note✓
-*   RCP Daily Poll Wrap-Up✓
-*   RCP Today ✓
-*   RCP Morning Reel✓
-*   RCP Events✓
-*   RCD Morning Recon ✓
-*   Science News✓
-*   RealClearEnergy Morning Volt✓
-*   World News✓
-*   Education Today✓
-*   RealClearHealth Morning Scan✓
-*   Europe Memo✓
-*   Mideast Memo✓
-*   Weekly Policy Picks✓
-*   RealClearPolicy Today✓
-*   RealClearReligion Today✓
-*   RealClearBooks Today✓
-*   RealClearHistory Today✓
-*   RealClearMarkets Today✓
-*   RealClearInvestigations Today✓
-
-Receive emails about new products &. services? Receive emails from partners &. advertisers?
+Copyright © 2017 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
