@@ -84,6 +84,7 @@ menu Close 0 Free Shipping on $50+
     
     SHOES>.
     
+    *   View All
     *   Boots
     *   Slippers
     *   Casual
@@ -93,6 +94,7 @@ menu Close 0 Free Shipping on $50+
     *   Sandals
     
     ACCESSORIES>.
+    *   View All
     *   Scarves
     *   Hats
     *   Gloves
@@ -136,6 +138,7 @@ menu Close 0 Free Shipping on $50+
     
     SHOES
     
+    *   View All
     *   Boots
     *   Slippers
     *   Casual
@@ -144,6 +147,7 @@ menu Close 0 Free Shipping on $50+
     *   Sandals
     
     ACCESSORIES
+    *   View All
     *   Belts
     *   Socks
     *   Ties
@@ -156,6 +160,7 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   Swim Shop
     *   Outerwear Shop
+    *   Hats, Gloves &. Scarves
     *   Spring Into Layers
     *   Iron Knees Pants
     *   Girls' Knit Kit
@@ -403,6 +408,7 @@ menu Close 0 Free Shipping on $50+
         *   Plus
     *   SHOES
         *   Back
+        *   View All
         *   Boots
         *   Slippers
         *   Casual
@@ -412,6 +418,7 @@ menu Close 0 Free Shipping on $50+
         *   Sandals
     *   ACCESSORIES
         *   Back
+        *   View All
         *   Scarves
         *   Hats
         *   Gloves
@@ -452,6 +459,7 @@ menu Close 0 Free Shipping on $50+
         *   Big &. Tall
     *   SHOES
         *   Back
+        *   View All
         *   Boots
         *   Slippers
         *   Casual
@@ -460,6 +468,7 @@ menu Close 0 Free Shipping on $50+
         *   Sandals
     *   ACCESSORIES
         *   Back
+        *   View All
         *   Belts
         *   Socks
         *   Ties
@@ -492,6 +501,7 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Swim Shop
         *   Outerwear Shop
+        *   Hats, Gloves &. Scarves
         *   Spring Into Layers
         *   Iron Knees Pants
         *   Girls' Knit Kit
