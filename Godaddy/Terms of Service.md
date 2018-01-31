@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: January 10, 2018**
+**Last Revised: January 30, 2018**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -238,6 +238,8 @@ _**(B) REFUND POLICY**_
 Products and Services available for refunds are described here (“Refund Policy”). 
 
 In the event you purchase a product that includes a free domain name, if you cancel the product, the list price for the domain name will be deducted from the refund amount. The list price is the price of the domain name listed on GoDaddy’s website and is not subject to any promotion, discount, or other reduction in price.
+
+For German customers, the Refund Policy does not in any way affect your statutory rights to revoke or terminate a contract according to consumer protection laws and pursuant to the terms of this Agreement.
 
 _**(C) GOOD AS GOLD PREPAID SERVICES**_
 
@@ -719,6 +721,8 @@ It is your responsibility to keep your Funding Sources current and funded. You a
 
 If, at the time GoDaddy receives confirmation of payment from the IPP (through its associated payment processor), either (i) the Services (including domain names) are no longer available for purchase. or (ii) a pending order has been cancelled in our systems. or (iii) the confirmation of payment does not match the dollar amount of the pending order, and as a result your purchase is either over-funded or under-funded, GoDaddy may automatically issue a partial refund (in the case of over-funding) or a full refund (in the case of under-funding) to your Funding Source. If the IPP (or its associated payment processor) imposes refund limitations of any kind, GoDaddy reserves the right to issue refunds to an in-store credit balance.  If you receive a full refund, you will need to begin the purchase process again. You acknowledge and agree that the IPP reserves the right not to refund IPP Fees associated with a refunded transaction. Accordingly, any refunds issued by GoDaddy will be net of the IPP Fees unless otherwise specified.
 
+GoDaddy offers SEPA Direct Debit (“SEPA”) as a payment method for customers located in Germany. If you choose to use SEPA as a payment method, you are authorizing GoDaddy and Adyen, our payment service provider, to send instructions to your bank to debit your account. By agreeing to these terms you have mandated GoDaddy to collect all of the applicable charges arising under this Agreement. The authorization shall also apply to any new bank account used by you for purchases from GoDaddy.  We will notify you of the date of direct debit collection within a reasonable time (the “pre-notification”). This pre-notification will be delivered to you by e-mail at least one (1) business day before payment is collected. You are responsible for making sure that there are sufficient funds in your account to cover any debit payments. You also agree to indemnify GoDaddy against any losses that it may incur if your financial institution withholds payment from GoDaddy for any reason.
+
 **_(G) IN-STORE CREDIT BALANCES_**
 
 In the event that your Account contains an in-store credit balance, you may apply any available credit balance to any future purchase in your Account.  In the event that your Account contains an in-store credit balance, you hereby authorize GoDaddy to apply any available credit balance to any outstanding administrative fees, chargebacks or other fees related to your Account.  In the event that your default Payment Method fails for an automated billing in connection with the processing of any Service renewals, GoDaddy may utilize any available in-store credit balance if there are enough funds to cover the entire transaction. Regardless of the amount of in-store credit available in your account, GoDaddy is not responsible for the loss of products resulting from an inability to collect funds from your default Payment Methods or the in-store credit.  In-store credits will be applied based on the currency selected in the shopping cart at the time of purchase (or renewal). If you have more than one in-store credit, then the credits will be processed according to the age of the credit, with the oldest in-store credit being applied first. If additional funds are required to complete the purchase or renewal, credits held in a non-selected currency will be converted using GoDaddy’s daily exchange rate based on the age of the credit (oldest to newest) until (i) enough funds are allocated to complete the transaction, or (ii) there is no available balance left in your account. You understand and agree that at the time of conversion, GoDaddy may also impose an additional administrative fee to compensate for the risks and costs associated with providing currency conversion services.
@@ -832,6 +836,67 @@ Suite 219
 Scottsdale, AZ 85260  
 legal@godaddy.com 
 
+****29**. ADDITIONAL TERMS FOR GERMAN CUSTOMERS ONLY**
+
+_**(A) RIGHT TO REVOKE NOTICE**_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_BEGINNING OF LEGAL NOTICE FOR RIGHT TO REVOKE\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+CONSUMERS (ACCORDING TO §13 BGB) HAVE THE RIGHT TO WITHDRAW FROM THIS CONTRACT WITHIN FOURTEEN DAYS WITHOUT GIVING A REASON. THE REVOCATION PERIOD IS FOURTEEN DAYS FROM THE DATE OF THE CONTRACT. IN ORDER TO EXERCISE YOUR RIGHT OF WITHDRAWAL, YOU MUST INFORM
+
+GODADDY.COM INC.  
+14455 N. HAYDEN RD., STE. 226  
+SCOTTSDALE, AZ 85260 USA
+
+EMAIL: HQ@GODADDY.COM  
+PHONE:  089 21 094 807
+
+BY MEANS OF A CLEAR STATEMENT (E.G. A LETTER SENT BY POST, FAX OR E-MAIL) ABOUT YOUR DECISION TO WITHDRAW FROM THIS CONTRACT. YOU CAN USE THE ATTACHED TEMPLATE, WHICH HOWEVER IS NOT REQUIRED.
+
+TO COMPLY WITH THE WITHDRAWAL PERIOD, IT IS SUFFICIENT FOR YOU TO SEND THE NOTICE TO EXERCISE THE RIGHT OF REFUSAL BEFORE EXPIRY OF THE WITHDRAWAL PERIOD.
+
+_**(B) CONSEQUENCES OF THE CANCELLATION**_
+
+IF YOU WITHDRAW FROM THIS AGREEMENT, WE SHALL REIMBURSE YOU ALL PAYMENTS WE HAVE RECEIVED FROM YOU, INCLUDING DELIVERY CHARGES (EXCEPT FOR THE ADDITIONAL COSTS ARISING FROM CHOOSING A DIFFERENT DELIVERY METHOD THAN THE MOST FAVORABLE STANDARD DELIVERY) WITHIN FOURTEEN DAYS FROM THE DATE ON WHICH THE NOTIFICATION OF YOUR REVOCATION OF THIS CONTRACT HAS REACHED US. FOR THIS REPAYMENT, WE WILL USE THE SAME FORM OF PAYMENT THAT YOU USED IN THE ORIGINAL TRANSACTION UNLESS OTHERWISE EXPRESSLY AGREED WITH YOU. IN NO CASE WILL YOU BE CHARGED FEES FOR THIS REPAYMENT.
+
+_**(C) SERVICES**_
+
+IF YOU HAVE REQUESTED THAT WE COMMENCED RENDERING OUR SERVICES BEFORE THE END OF THE PERIOD TO WITHDRAW, WE RESERVE THE RIGHT TO CHARGE A REASONABLE AMOUNT EQUAL TO THE PROPORTION OF SERVICES ALREADY PROVIDED TO YOU AT THE TIME OF REVOCATION IN RESPECT OF THIS CONTRACT COMPARISON WITH THE TOTAL VOLUME OF SERVICES PROVIDED FOR IN THE CONTRACT.
+
+_**(D) MODEL-TEMPLATE FOR EXERCISING YOUR RIGHT TO REVOKE:**_
+
+(IF YOU WANT TO REVOKE THE CONTRACT, THEN PLEASE FILL IN THIS FORM AND SEND IT BACK.)
+
+• TO GODADDY.COM LLC,  HQ@GODADDY.COM
+
+• HEREBY I / WE (\*) HEREBY REVOKE THE CONTRACT CONCLUDED BY ME / US (\*) CONCERNING THE PROVISION OF THE FOLLOWING SERVICE (\*)
+
+• ORDERED ON (\*) / RECEIVED ON (\*)
+
+• NAME OF THE CONSUMER (S)
+
+• ADDRESS OF THE CONSUMER (S)
+
+• SIGNATURE OF THE CONSUMER (S) (ONLY WHEN NOTIFIED ON PAPER)
+
+• DATE
+
+ (\*) DELETE IF NOT APPLICABLE
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_END OF LEGAL NOTICE FOR RIGHT TO REVOKE\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+_**(E) CUSTOMER SUPPORT**_
+
+Customer support for GoDaddy services and products provided under this Agreement is provided by GoDaddy Deutschland GmbH which can be contacted at the following:
+
+GoDaddy Deutschland GmbH
+
+Hansestr. 11151149 Köln
+
+Telefon: 089 21 094 807 (8 bis 20 Uhr, Mo-Fr)
+
+E-Mail: HQ@GoDaddy.com
+
   
-Revised: 1/10/18  
+Revised: 1/30/18  
 Copyright © 2005-2018 GoDaddy.com, LLC All Rights Reserved.
