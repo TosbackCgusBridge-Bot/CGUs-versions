@@ -1,4 +1,4 @@
-Skip to Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">Sony Sites<img src="//sonyglobal.scene7.com/is/image/gwtprod/9f53bbd3eccc7f27e7b67231cb829fab?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony’s Stories<img src="//sonyglobal.scene7.com/is/image/gwtprod/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//sonyglobal.scene7.com/is/image/gwtprod/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Playstation®<img src="//sonyglobal.scene7.com/is/image/gwtprod/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional<img src="//sonyglobal.scene7.com/is/image/gwtprod/bf805a8b340105d03fcff55e3d22fb18?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Mobile
+Skip to Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">Sony Sites<img src="//sonyglobal.scene7.com/is/image/gwtprod/9f53bbd3eccc7f27e7b67231cb829fab?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony’s Stories<img src="//sonyglobal.scene7.com/is/image/gwtprod/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//sonyglobal.scene7.com/is/image/gwtprod/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">PlayStation™<img src="//sonyglobal.scene7.com/is/image/gwtprod/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional<img src="//sonyglobal.scene7.com/is/image/gwtprod/bf805a8b340105d03fcff55e3d22fb18?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Mobile
 
 *   Global HomePress releases and investor news at our global site.
 *   Sony and the EnvironmentHow we’re reducing our eco-footprint through energy efficiency and recycling initiatives.
@@ -131,7 +131,7 @@ Play Inside “Madden NFL 18” Story Mode Video hotspot
 
 The rare 'super blue blood moon' will rise on Wednesday. Here's how to capture it: alphauniverse.com
 
-4 hours ago
+1 day ago
 
 View Tweet
 
