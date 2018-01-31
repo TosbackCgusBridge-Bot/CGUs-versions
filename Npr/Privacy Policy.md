@@ -5,7 +5,7 @@ Accessibility links
 
 Toggle initial options for NPR audio player ****ON AIR NOW**CPR News**
 
-*   **Our Picks**
+*   **Newscast**
 *   **Live Radio**
 *   **Shows**
 
@@ -113,7 +113,6 @@ Storytelling &. Humor
 *   Hidden Brain
 *   How I Built This
 *   Invisibilia
-*   Live from the Poundstone Institute
 *   Only A Game
 *   Planet Money
 *   Pop Culture Happy Hour
@@ -132,7 +131,6 @@ Music
 *   Alt.Latino
 *   From The Top
 *   Jazz Night In America
-*   Metropolis
 *   Mountain Stage
 *   Piano Jazz
 *   The Thistle &. Shamrock
