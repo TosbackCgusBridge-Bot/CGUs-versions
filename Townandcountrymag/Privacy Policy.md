@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Inside the World of Donald Trump's Unshakable Fans 2 What Really Happened to Gianni Versace? 3 Vanderbilt Heirs Are Moving Out of the Breakers 4 In Praise of Meghan Markle's Messy Bun 5 17 Romantic Hotel Packages for Valentine's Day Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Who Is Joe Kennedy III? 2 Inside the World of Donald Trump's Unshakable Fans 3 What Really Happened to Gianni Versace? 4 Vanderbilt Heirs Are Moving Out of the Breakers 5 17 Romantic Hotel Packages for Valentine's Day Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -177,7 +177,9 @@ Last revised on April 1, 2016
 
 Last revised on April 1, 2016
 
-Advertisement - Continue Reading Below Share Tweet Email
+Watch Next
+
+Advertisement - Continue Reading Below More From About Advertise Online Terms of Use Why did I get this ad? Share Tweet Email
 
 *   About
 *   Inside the World of Luxury Vacation Rentals
