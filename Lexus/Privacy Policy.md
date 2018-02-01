@@ -57,17 +57,21 @@ MENU **IS**
 *   Build
 *   Current Offers
 
-**2017 LS**
+**LS**
 
-*   Starting at $72,5201\*
-*   386-HP3\* 4.6L V8 (RWD)
+*   Starting at $75,0001\*
+*   416-HP3\* 3.5L V6 (RWD)
 
 *   Build
 *   Current Offers
 
-**2018 LS**
+**LS HYBRID**
 
-*   COMING SOON
+*   Starting at $79,5101\*
+*   354 TOTAL SYSTEM HP3\*
+
+*   BUILD
+*   CURRENT OFFERS
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
@@ -194,6 +198,14 @@ COMPARE **NX HYBRID**
 
 *   Build
 *   Current Offers
+
+**LS HYBRID**
+
+*   Starting at $79,5101\*
+*   354 TOTAL SYSTEM HP3\*
+
+*   BUILD
+*   CURRENT OFFERS
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
