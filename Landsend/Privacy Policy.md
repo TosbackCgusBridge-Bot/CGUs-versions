@@ -107,7 +107,6 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   The Getaway Collection
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -450,7 +449,6 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
-        *   The Getaway Collection
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -742,9 +740,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 40% off any 1 item thanks to your friend!
 
-code: FRIGID pin: 3719 DETAILS
+code: SPECIAL40 pin: DETAILS
 
 Customer Service Menu
 
