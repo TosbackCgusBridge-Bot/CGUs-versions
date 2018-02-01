@@ -1,5 +1,3 @@
-× Close Ad × Close Ad
-
 *   Policy
 *   Markets
 *   World
@@ -103,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Sen. Mitch McConnell_: Trump, GOP Have Much to Brag About in Address
+*   _Amy Sorkin_: Trump's Fearful State of the Union
     
-*   _Gov. Andrew Cuomo_: If Trump's Serious About Bipartisanship, He Must Prove It
+*   _Myron Magnet_: Pro-American
     
-*   _Damon Linker_: Liberals Have Lost Their Minds Over Immigration
+*   _Carl Cannon_: The Heartening Souls at the Center of Trump's Speech
     
-*   _McKay Coppins_: How the Swamp Drained Trump
+*   _Ezra Klein_: The State of the Union Made Donald Trump Look Small
     
-*   _Ed Meese_: Sessions Is Returning Law &. Order to the Justice Department
+*   _Newt Gingrich_: A Very Inclusive Speech--No Wonder It Shook Up Dems
     
-*   _David Leonhardt_: The Nunes Conspiracy
+*   _Bill Scher_: Dems Disagree on Responding to Trump--But It Just Might Work
     
-*   _Mollie Hemingway_: Schiff's Statements Frequently False, Missing Details
+*   _Barry Ritholtz_: Trump's Tax Cuts Are a Large &. Potent Economic Stimulus
     
-*   _Umair Irfan_: Scott Pruitt Is Very Effectively Slowly Strangling the EPA
+*   _Martin Wolf_: Trump Has Been Lucky With the U.S. Economy
     
-*   _Sarah Jones_: What Democrats Can Learn From Cecile Richards
+*   _Michelle Malkin_: When Dreamer Platitudes Whitewash Bloody Reality
     
-*   _A.D.P. Efferson_: New Research Confirms That Abortion Hurts Women
+*   _David Litt_: Stephen Miller's SOTU Was a White-Nationalist Wish List
     
-*   _Kate Brower_: The Quiet Radicalism of Melania Trump
+*   _Daniel Oliver_: Racism: The First and Final Insult of Losers
     
-*   _Sen. Chuck Schumer_: What I'm Listening For in Trump's Speech
+*   _Salena Zito_: 'All of America Is Applauding While They Are Sitting'
     
-*   _William McGurn_: Poor Chuck Schumer
+*   _Frank Bruni_: The Fictitious State of Trump's Fantastical Union
     
-*   _Huey-Burns &. Arkin_: Speech Could Boost Trump Immigration Plan
+*   _Scott Jennings_: Trump Was the Grown-Up in the Room
     
-*   _Eugene Robinson_: Trump Trying to Make America White Again
+*   _Matthew Yglesias_: With Kennedy, Dems Rediscover Obama's Compelling Vision
     
-*   _Scott Greer_: Everything Is Racist - DACA Deal Edition
+*   _Charles Hurt_: Flaunting Lawlessness in the Capitol
     
-*   _Noah Smith_: Trump Still Dreams of a 1950s-Era Economy
+*   _Catherine Rampell_: Trump's Immigration 'Compromise' Is a Trick
     
-*   _Richard Epstein_: The Trump Growth Machine
+*   _Huey-Burns &. Arkin_: Five Takeaways From Trump's Speech
     
-*   _Niall Ferguson_: Meet the Man Poised to Take Over the World Economy
+*   _Michael Goodwin_: Trump Is Teaching Republicans How to Fight and Win
     
-*   _Fukuyama &. Muggah_: Populism Is Poisoning the Global Liberal Order
+*   _Chris Cillizza_: Why Democrats Are in the Catbird's Seat in 2018
     
-*   _Victor Davis Hanson_: Hillary's 'Sure' Victory Explains Most Everything
+*   _Andrew McCarthy_: Rosenstein Is Shirking His Duty to Supervise Robert Mueller
     
-*   _Paul Waldman_: Trump's Slow-Motion Massacre at the Justice Department
+*   _Amy Sorkin_: Questions That Mueller Might Ask Trump
     
-*   _Mollie Hemingway_: Media Is Missing Something Huge Happening at FBI
+*   _Gordan Chang_: Trump Goes Where Kim Jong Un Fears Most
     
-*   _Michael Tomasky_: The Real State of the Union Is Precarious
+*   _Peter Beinart_: Is Trump Preparing for War With North Korea?
     
 
 *   Previous
@@ -251,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Crutches, Tears Humanize North Korean Threat in Trump Speech
+*   Five Takeaways From Trump's Speech
+*   Full Replay/Transcript: Trump Delivers 2018 State of the Union Address
+*   Kennedy SOTU Response: "Bullies May Land a Punch," Don't Win
 *   Republicans Vote to Release Classified Memo on Russia Probe
-*   Trump Speech Could Boost His Immigration Proposal
-*   Pelosi: Republicans Are Lying to the American People
-*   Relations Between Trump, Global Elites Seem to Thaw at Davos
-*   Do Democrats Stand to Gain From Redrawn Pa. Maps?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalMonmouth
+    *   Approve44
+    *   Disapprove48Disapprove +4
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
-*   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove58Disapprove +20
-*   2018 Generic Congressional VoteRasmussen Reports
-    *   Democrats45
-    *   Republicans37Democrats +8
-*   Direction of CountryRasmussen Reports
-    *   Right Direction39
-    *   Wrong Track55Wrong Track +16
+    *   Approve44
+    *   Disapprove54Disapprove +10
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve41
+    *   Disapprove53Disapprove +12
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve44
+    *   Disapprove53Disapprove +9
 
 More Latest Polls In The News
 
+*   Gingrich: Collusion To Undermine Election Done By American Bureaucracy, Not Russian Government
+*   Gutierrez: Trump Wants The Wall To Stop "Legal Immigration, "People Of Color" From Coming
 *   Kamala Harris: Trump "Scapegoating and Fear-Mongering" To Equate MS-13 and DREAMers
 *   Hannity on Trump SOTU: "This Is The Speech Conservatives Have Wanted To Hear Since Reagan"
-*   Joseph Kennedy III Delivers Dem Response to SOTU: Bullies Can't Match The Strength Of A People United
 *   Trump to Parents Of Teens Killed By Illegals in MS-13 at State Of The Union: "America Is Grieving For You"
-*   Mollie Hemingway: Media Is Missing "Something Huge" Happening At FBI
 
 *   Politics
 *   Policy
