@@ -50,29 +50,29 @@ Close
     *   Newest
     *   Rating
 *   Categories
-    *   Amateur
-    *   Anal
-    *   Asian
-    *   Big Dick
-    *   Blowjob
-    *   Creampie
-    *   Ebony
-    *   Erotic
-    *   Fetish
-    *   Group Sex
-    *   Hardcore
-    *   HD
-    *   Hentai
-    *   Indian
-    *   Latina
-    *   Lesbian
-    *   Mature
     *   Milf
-    *   Old/Young
-    *   Public
+    *   Big Dick
+    *   Creampie
+    *   Mature
+    *   Indian
     *   Strip
+    *   Public
+    *   Old/Young
+    *   Amateur
     *   Teen
     *   Threesome
+    *   Ebony
+    *   Anal
+    *   Lesbian
+    *   Blowjob
+    *   Latina
+    *   Hentai
+    *   Erotic
+    *   Asian
+    *   HD
+    *   Fetish
+    *   Hardcore
+    *   Group Sex
     *   VR
 *   Tags
     Top 20 Porntags*   japanese
@@ -89,12 +89,12 @@ Close
     *   petite
     *   brazzers
     *   cumshot
-    *   publicagent
     *   blonde
-    *   deutsch
+    *   publicagent
     *   brunette
-    *   italian
+    *   deutsch
     *   missionary
+    *   italian
     *   View All
 *   Premium HD
 *   Live Girls
@@ -508,7 +508,7 @@ DATA COLLECTED
     *   Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
     *   Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
 *   **Content Uploaded to the site:** Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-*   **Cookies:** Notwithstanding any other provision, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content through web, mobile or other media channels. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please visit http://www.aboutads.info/choices or http://www.networkadvertising/choices.
+*   **Cookies:** Notwithstanding any other provision, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content through web, mobile or other media channels. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please visit http://www.aboutads.info/choices
 *   **Log File Information:** When you visit Tube8.com, our servers may record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
 *   **Emails:** If you contact us, we may keep a record of that correspondence.
 
@@ -542,6 +542,9 @@ TUBE8 - Parental Control
 
 Tube 8 is rated with RTA.  
 Parents, you can easily block access to this site. Please read this page for more information.
+
+Tube8 is also a member of the ASACP.  
+Please read this page for more information.
 
 TUBE8 - Content Partner Program
 
