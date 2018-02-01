@@ -7,7 +7,6 @@ Book online or call 800-246-8357This call is free. 24 hours a day. 7 days a week
 *   Groups
 *   Gift Cards
 *   Help
-*   Website feedback
 
 *   Sign in &. Account
     *   Sign in
@@ -215,6 +214,7 @@ Join now! Collect 10 nights, get 1 free\*
     *   Privacy Policy
     *   Cookie Policy
     *   About our ads
+*   Website feedback
 *   About Us
 *   Add your property
 *   Jobs
