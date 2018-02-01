@@ -18,8 +18,6 @@ Global Policies
 
 Global Privacy Principles
 
-Global Privacy Policy
-
 Safe Harbor Update 2016
 
 Online Privacy Policy
