@@ -232,7 +232,6 @@ Ready, set, touchdown! Get Super Bowl ready.
         *   Fashion Tops
         *   Sweaters
         *   Sweatshirts
-        *   Coats/Jackets
         *   Shoes
         *   Shop All
         
@@ -243,7 +242,6 @@ Ready, set, touchdown! Get Super Bowl ready.
         *   T-Shirts
         *   Shirts
         *   Sweatshirts
-        *   Sweaters
         *   Coats/Jackets
         *   Shoes
         *   Shop All
