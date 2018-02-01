@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Snapcraft Summit Summary – Day 2 ›
+*   Snapcraft Summit Summary – Day 1 ›
 *   Plex joins Snapcraft Summit to advance snap learnings ›
-*   Ubuntu Server Development Summary – 30 Jan 2018 ›
+*   Ubuntu Server development summary – 30 January 2018 ›
 *   Tutorial: Install Ubuntu on a Chromebook ›
-*   NTT TechnoCross becomes Canonical Certified Support Partner in Japan ›
-*   LXD Weekly Status #32 ›
