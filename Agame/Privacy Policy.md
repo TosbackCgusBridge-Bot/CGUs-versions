@@ -232,8 +232,8 @@ View more results
     
     Recommended Games
     
-    *   Imperia Online
-    *   War Thunder
+    *   Warbanner
+    *   Animal Jam
     *   Roblox
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
