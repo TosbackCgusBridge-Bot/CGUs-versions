@@ -42,7 +42,7 @@
 
 *   $24,350 as shown1 2018 C-HR $22,500 starting1  
     27/31 est MPG12 Build Specials
-*   $29,895 as shown1 2018 RAV4 $24,410 starting1  
+*   $28,895 as shown1 2018 RAV4 $24,510 starting1  
     23/30 est MPG3 Build Specials
 *   $41,550 as shown1 2018 Highlander $31,030 starting1  
     21/27 est MPG3 Build Specials
@@ -106,7 +106,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 19/27 est MPG13 Trucks $36,115 as shown1 2018 Tacoma $25,200 starting1  
 18/22 est MPG3 $45,300 as shown1 2018 Tundra $31,120 starting1  
 15/19 est MPG3 Crossovers &. SUVs $24,350 as shown1 2018 C-HR $22,500 starting1  
-27/31 est MPG12 $29,895 as shown1 2018 RAV4 $24,410 starting1  
+27/31 est MPG12 $28,895 as shown1 2018 RAV4 $24,510 starting1  
 23/30 est MPG3 $41,550 as shown1 2018 Highlander $31,030 starting1  
 21/27 est MPG3 $41,445 as shown1 2018 4Runner $34,610 starting1  
 17/21 est MPG3 $56,795 as shown1 2018 Sequoia $48,300 starting1  
