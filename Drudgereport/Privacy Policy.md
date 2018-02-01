@@ -135,15 +135,15 @@ LATEST ON TWITTER
 
 My week on Twitter : 4 Mentions, 86.3K Mention Reach, 2 Likes, 3 Retweets, 31K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/kq8V…
 
-About 5 hours ago
+Yesterday
 
 Our biggest fans this week: @StartUpRealTime, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/6SKz…
 
-About 16 hours ago
+About 2 days ago
 
 .@Requidan discusses the importance of discovering new audiences and why advertisers should remain content neutral adexchanger.com/the-… @adexchanger
 
-About 2 days ago
+About 3 days ago
 
 "Header bidding sees publishers making it easier for buyers to bid on advertising. For buyers, it has also allowed them to see all available inventory sooner". @Requidan chats with @Beet\_TV at #CES2018 about #Headerbidding and integrating both server-to-server and traditional twitter.com/Beet\_TV/…
 
