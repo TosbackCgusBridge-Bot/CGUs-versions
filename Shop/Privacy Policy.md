@@ -318,14 +318,15 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers SURPRISE YOUR SWEETIE
 
-Boost your productivity with performance  
-you can count on with the ThinkPad T470s
+GIVE THEM A GIFT THAT LASTS. Select top items on sale through Feb. 7 will ship by Valentine's Day!
 
-Shop Now >.
+LAPTOPS &. MORE UP TO $370 OFF >>.
 
-Voted best laptop under $1,000 by Gizmodo
+Flex 5 (15")
+
+Up to $300 off on the sleek, portable and flexible PC that transitions with your schedule.
 
 Shop Now >.
 
@@ -347,15 +348,15 @@ All New Lenovo Pro Store
 
 Let Lenovo be your small business partner with an all new Pro Portal.
 
-IdeaCentre AIO 520s
+New ThinkPad E480
 
-Slim. Vibrant. Fast. Affordable.
+Customize your 14-in laptop. Available in Black or Silver.
 
-Miix 720
+TAB 4 8" PLUS ADDS IT ALL
 
-Need productivity on the go? This 2-in-1 can take you there.
+Super sound. Separate user accounts. And simply dazzling visuals.
 
-EXPLORE AUGMENTED AND VIRTUAL REALITY
+Different wins better
 
 LAPTOPS
 
