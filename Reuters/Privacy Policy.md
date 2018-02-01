@@ -28,7 +28,7 @@ Legal Solutions | USA
 Free Standard Shipping on books!
 
 Law Books Solutions Support Insights &. Trends  
-Home >. westlaw legal research >. practitioner insights <img src="//pixel.quantserve.com/pixel/p-9cSFV8m5u\_KjY.gif?labels=\_fp.event.Campaign+Landing+Page" style="display: none;" border="0" height="1" width="1" alt="">. Log in to Westlaw Thomson Reuters Westlaw  
+  Home >. westlaw legal research >. practitioner insights <img src="//pixel.quantserve.com/pixel/p-9cSFV8m5u\_KjY.gif?labels=\_fp.event.Campaign+Landing+Page" style="display: none;" border="0" height="1" width="1" alt="">. Log in to Westlaw Thomson Reuters Westlaw  
 The world's most preferred online legal research service Start your free trial today
 
 *   About Westlaw
@@ -177,5 +177,3 @@ pip
 *   <img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast">.
 
 Careers | Site Map | Terms of Use | Privacy Statement © 2017 Thomson Reuters **We have updated our Privacy Statement**. Before you continue, please read our new Privacy Statement and familiarize yourself with the terms. × <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52807&fmt=gif" />. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/844952980/?guid=ON&amp;script=0"/>. </div>. <img src="//bat.bing.com/action/0?ti=5036430&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />.
-
-<img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=6540&amp;fmt=gif">.
