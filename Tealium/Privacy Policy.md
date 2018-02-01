@@ -3,6 +3,12 @@
     *   Tealium EventStream API Hub
     *   Tealium AudienceStream CDP
     *   Tealium DataAccess
+*   Solutions
+    *   Mobile
+    *   Identity Resolution
+    *   Preparing for GDPR
+    *   Martech Challenge
+    *   InfoSec
 *   Integrations
 *   Resources
     *   Case Studies
@@ -34,6 +40,12 @@
     *   Tealium EventStream API Hub
     *   Tealium AudienceStream CDP
     *   Tealium DataAccess
+*   Solutions
+    *   Mobile
+    *   Identity Resolution
+    *   Preparing for GDPR
+    *   Martech Challenge
+    *   InfoSec
 *   Integrations
 *   Resources
     *   Case Studies
