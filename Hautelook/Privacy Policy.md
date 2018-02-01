@@ -4,22 +4,50 @@ Nordstrom RackHauteLook
 *   Help
 *   Invite a Friend, Get $20
 
-CartYou have no items in your cartStart shopping now to take advantage of prices up to 75% off.HauteLookFree Shipping on Orders Over $100\* 90-Day Returns to Nordstrom Rack
+CartYou have no items in your cartStart shopping now to take advantage of prices up to 75% off.HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Movado Watches
-    *   Rachel Pally
-    *   Catherine Catherine Malandrino &. More Up to 70% Off
-    *   Soieblu
+    *   Gracia
+    *   Tory Burch Sun &. More Up to 70% Off
+    *   Designer Steals: Handbags Up to 40% Off
+    *   Lime Crime Starting at $10
+    *   Back to Basics: Sweaters Under $40
+    *   Booties We Love
+    *   Tees, Tanks &. More Under $30
+    *   Lucky Brand Jewelry
+    *   Denim Details: Raw Edges, Step Hems &. More
+    *   Casual Cool: Essential Dresses Starting at $15
+    *   Australia Luxe Collective Up to 60% Off
+    *   Juicy Couture Baby &. Girls
+    *   Genetic Denim
+    *   Kenneth Cole New York
+    *   Meghan LA
+    *   Tart Including Plus
+    *   Cape Robbin
+    *   Tart Swim
+    *   EXTREME by Eddie Marc Starting at $20
+    *   Dermasuri Deep Exfoliator
+    *   Hip &. Bone
+    *   John Varvatos
+    *   Nixon Watches
+    *   Pajama Party: Kids' Character PJs Under $20
+    *   Skechers Kids' Shoes
+    *   Free Shipping: Chic Blankets &. Bedding
+    
+    *   Free Shipping: Global-Inspired Decor Up to 70% Off
+    *   14K Gold Fine Jewelry ft. Meira T
     *   Jewelry Storage for Every Style Starting at $20
     *   Free Shipping: Designer Rugs &. More from $26
     *   Ban.Do Home Accessories
     *   Free Shipping: Hip Accent Furniture
     *   Perfect for Her: loveswept by philosophy
+    *   Rachel Pally
     *   Dex Under $40
     *   Catherine Catherine Malandrino Shoes Up to 75% Off
+    *   Catherine Catherine Malandrino &. More Up to 70% Off
     *   Rieker &. Remonte
+    *   Soieblu
     *   Top Notch: Blouses Up to 70% Off
     *   Statement Makers: Heels &. Pumps Starting at $30
     *   Day &. Mood Up to 70% Off
@@ -33,24 +61,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Frenchie Mini Couture
     *   Rachel Pally Maternity
     *   Venettini
-    *   Tony Bianco
-    *   Designer Sun Up to 70% Off ft. Prada &. Fendi
     
+    *   Designer Sun Up to 70% Off ft. Prada &. Fendi
     *   Isaac Mizrahi Boys &. More
-    *   Dogeared Jewelry Up to 55% Off
-    *   Alternative
-    *   Cheap Monday Up to 75% Off
-    *   Clarks
-    *   Norma Kamali Up to 70% Off
-    *   Adrianna Papell Shoes &. Clutches
-    *   Callisto
-    *   Juicy Couture Swim &. More
-    *   Do + Be
-    *   TARA Pearls: Tahitian &. Akoya Pearl Jewelry
-    *   Christopher Kon Up to 75% Off
-    *   Designer Shop: Styles Up to 65% Off
-    *   Cool Meets Classic: Jackets &. Coats
-    *   Trend-Setting Boots &. Booties
     *   Free Shipping: BergHOFF
     *   Free Shipping: Down &. Memory Foam Bedding
     *   Power the New Year: Tech Finds from $10
@@ -59,48 +72,53 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Peter Millar
     *   Barney Cools
     *   Great Chelsea Boots Starting at $40
-    *   Rush by Gordon Rush
+    *   Tony Bianco
     *   Easter Dress Preview: Joe-Ella
-    *   Thomas Wylde Up to 85% Off
+    *   Dogeared Jewelry Up to 55% Off
+    *   Clarks
+    *   TARA Pearls: Tahitian &. Akoya Pearl Jewelry
+    *   Designer Shop: Styles Up to 65% Off
     *   Luxe Skin Care Up to 90% Off
-    
-    *   Women's Shoes Up to 75% Off
-    *   Grayse Up to 80% Off
+    *   Free Shipping: Hand-Painted Replicas Up to 70% Off
+    *   Rush by Gordon Rush
     *   Jewelry Steals Up to 85% Off
-    *   Just Cavalli Watches Up to 70% Off
     *   Free Shipping: Natori Towels Up to 75% Off
     *   Men's Shoes Up to 70% Off
     *   Cover FX
     *   Dress Shirts Under $35 ft. Original Penguin
     *   Sandro Moscolini
     *   Cohesive &. Co Up to 80% Off
-    *   Free Shipping: Hand-Painted Replicas Up to 70% Off
-    *   Lucky Brand Kids
-    *   See Kai Run
-    *   Ravensburger Puzzles for the Whole Family
-    *   Ron Tomson
-    *   Polo Ralph Lauren Lounge &. More
-    *   ABS by Allen Schwartz Up to 85% Off
-    *   Why Dress
-    *   La Moda Swim
-    *   Free Shipping: Gold Jewelry Starting at $15
-    *   Koral Active
-    *   Hoka
-    *   Max Studio Dresses &. Collection
-    *   Back to Basics: Clean Sneakers
-    *   Salute Sweaters &. More
-    *   Free Shipping: Unique Outdoor Lighting &. Decor
-    *   Everly Grey Maternity
 *   WomenShop Sale Events
     
-    *   Movado Watches
-    *   Rachel Pally
-    *   Catherine Catherine Malandrino &. More Up to 70% Off
-    *   Soieblu
+    *   Gracia
+    *   Tory Burch Sun &. More Up to 70% Off
+    *   Designer Steals: Handbags Up to 40% Off
+    *   Lime Crime Starting at $10
+    *   Back to Basics: Sweaters Under $40
+    *   Booties We Love
+    *   Tees, Tanks &. More Under $30
+    *   Lucky Brand Jewelry
+    *   Denim Details: Raw Edges, Step Hems &. More
+    *   Casual Cool: Essential Dresses Starting at $15
+    *   Australia Luxe Collective Up to 60% Off
+    *   Genetic Denim
+    *   Kenneth Cole New York
+    *   Meghan LA
+    *   Tart Including Plus
+    *   Cape Robbin
+    *   Tart Swim
+    *   EXTREME by Eddie Marc Starting at $20
+    *   Dermasuri Deep Exfoliator
+    *   Nixon Watches
+    *   14K Gold Fine Jewelry ft. Meira T
     *   Perfect for Her: loveswept by philosophy
+    *   Rachel Pally
     *   Dex Under $40
+    
     *   Catherine Catherine Malandrino Shoes Up to 75% Off
+    *   Catherine Catherine Malandrino &. More Up to 70% Off
     *   Rieker &. Remonte
+    *   Soieblu
     *   Top Notch: Blouses Up to 70% Off
     *   Statement Makers: Heels &. Pumps Starting at $30
     *   Day &. Mood Up to 70% Off
@@ -109,124 +127,100 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Face Masks We Love Up to 85% Off
     *   Noteworthy Luggage ft. Bric's
     *   Rachel Pally Maternity
-    *   Tony Bianco
     *   Designer Sun Up to 70% Off ft. Prada &. Fendi
-    *   Dogeared Jewelry Up to 55% Off
-    *   Alternative
-    *   Cheap Monday Up to 75% Off
-    *   Clarks
-    *   Norma Kamali Up to 70% Off
-    *   Adrianna Papell Shoes &. Clutches
-    *   Callisto
-    
-    *   Juicy Couture Swim &. More
-    *   Do + Be
-    *   TARA Pearls: Tahitian &. Akoya Pearl Jewelry
-    *   Christopher Kon Up to 75% Off
-    *   Designer Shop: Styles Up to 65% Off
-    *   Cool Meets Classic: Jackets &. Coats
-    *   Trend-Setting Boots &. Booties
     *   StriVectin
     *   SmoothSkin Gold Hair Removal System
-    *   Thomas Wylde Up to 85% Off
+    *   Tony Bianco
+    *   Dogeared Jewelry Up to 55% Off
+    *   Clarks
+    *   TARA Pearls: Tahitian &. Akoya Pearl Jewelry
+    *   Designer Shop: Styles Up to 65% Off
     *   Luxe Skin Care Up to 90% Off
-    *   Women's Shoes Up to 75% Off
-    *   Grayse Up to 80% Off
     *   Jewelry Steals Up to 85% Off
-    *   Just Cavalli Watches Up to 70% Off
     *   Cover FX
-    *   ABS by Allen Schwartz Up to 85% Off
-    *   Why Dress
-    *   La Moda Swim
-    *   Free Shipping: Gold Jewelry Starting at $15
-    *   Koral Active
-    *   Hoka
-    *   Max Studio Dresses &. Collection
-    *   Everly Grey Maternity
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
+    *   Accessories
     *   Handbags
     *   Tech Accessories
-    *   Accessories
-    *   Watches
     *   Lingerie
 *   MenShop Sale Events
     
-    *   Movado Watches
+    *   Hip &. Bone
+    *   John Varvatos
+    *   Nixon Watches
     *   Tommy Hilfiger Men's Outerwear
     *   Born Men
     *   English Laundry
     *   Noteworthy Luggage ft. Bric's
     *   Peter Millar
+    
     *   Barney Cools
     *   Great Chelsea Boots Starting at $40
     *   Rush by Gordon Rush
-    
     *   Men's Shoes Up to 70% Off
     *   Dress Shirts Under $35 ft. Original Penguin
     *   Sandro Moscolini
     *   Cohesive &. Co Up to 80% Off
-    *   Ron Tomson
-    *   Polo Ralph Lauren Lounge &. More
-    *   Back to Basics: Clean Sneakers
-    *   Salute Sweaters &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Juicy Couture Baby &. Girls
+    *   Pajama Party: Kids' Character PJs Under $20
+    *   Skechers Kids' Shoes
     *   Frenchie Mini Couture
     *   Rachel Pally Maternity
     *   Venettini
     *   Isaac Mizrahi Boys &. More
     *   Easter Dress Preview: Joe-Ella
-    *   Lucky Brand Kids
-    *   See Kai Run
-    *   Ravensburger Puzzles for the Whole Family
-    *   Everly Grey Maternity
     
     Shop By Category
     *   Boys Sizes 2T-7
-    *   Toys
     *   Girls Sizes 2T-6X
     *   Kids Accessories
     *   Boys Sizes 8-20
+    *   Girls Sizes 7-16
     *   Baby Gear &. Essentials
     *   Girls' Shoes
-    *   Girls Sizes 7-16
+    *   Baby Girl
     *   Boys' Shoes
     *   Baby Boy
-    *   Baby Girl
 *   HomeShop Sale Events
     
+    *   Free Shipping: Chic Blankets &. Bedding
+    *   Free Shipping: Global-Inspired Decor Up to 70% Off
     *   Jewelry Storage for Every Style Starting at $20
     *   Free Shipping: Designer Rugs &. More from $26
     *   Ban.Do Home Accessories
     *   Free Shipping: Hip Accent Furniture
+    
     *   Free Shipping: BergHOFF
     *   Free Shipping: Down &. Memory Foam Bedding
     *   Power the New Year: Tech Finds from $10
-    *   Free Shipping: Natori Towels Up to 75% Off
     *   Free Shipping: Hand-Painted Replicas Up to 70% Off
-    *   Free Shipping: Unique Outdoor Lighting &. Decor
+    *   Free Shipping: Natori Towels Up to 75% Off
     
     Shop By Category
     *   Home Decor
+    *   Bedding
     *   Kitchen &. Tabletop
     *   Accent Furniture
-    *   Bedding
     *   Bath
     *   Luggage &. Travel
     *   Organization
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Lime Crime Starting at $10
+    *   Dermasuri Deep Exfoliator
     *   Perfect for Her: loveswept by philosophy
     *   Face Masks We Love Up to 85% Off
     *   StriVectin
