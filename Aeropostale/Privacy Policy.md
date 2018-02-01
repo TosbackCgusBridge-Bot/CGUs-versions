@@ -551,11 +551,11 @@ ON ORDERS OVER $75 Search Catalog Search Promotions Shop Sabrina's Picks Shop Gi
 
 *   Polos Starting at $8.00 Shop Girls Shop Guys
 *   Accessories Starting at $6.00 Shop Girls Shop Guys
-*   Fashion Tops Starting at $14.75 Shop Girls
+*   Fashion Tops Starting at $24.75 Shop Girls
 *   Tees Starting at $10.00 Shop Girls Shop Guys
 *   Polos Starting at $8.00 Shop Girls Shop Guys
 *   Accessories Starting at $6.00 Shop Girls Shop Guys
-*   Fashion Tops Starting at $14.75 Shop Girls
+*   Fashion Tops Starting at $24.75 Shop Girls
 *   Tees Starting at $10.00 Shop Girls Shop Guys
 
 *   1
