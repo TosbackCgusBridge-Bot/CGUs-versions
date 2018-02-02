@@ -1,5 +1,3 @@
-VH1 Menu VH1
-
 *   VH1 Home
 *   Shows
     *   Full Episodes
@@ -18,13 +16,13 @@ VH1 Menu VH1
 *   Digital Originals
 *   Watch Live TV
 *   TV Provider Sign Out
-*   facebook twitter tumblr
 
-*   Shows Full Episodes Shows A-Z TV Schedule Love &. Hip Hop Love &. Hip Hop Miami America's Next Top Model Black Ink Crew RuPaul's Drag Race All Stars Scared Famous Black Ink Crew Chicago Martha &. Snoop's Potluck Dinner Party Brunch With Tiffany See all Shows
+VH1 MenuVH1
+
+*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewRuPaul's Drag Race All StarsScared FamousBlack Ink Crew ChicagoMartha &. Snoop's Potluck Dinner PartyBrunch With Tiffanysee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
-*   facebook twitter tumblr
 
 Privacy Policy And Your California Privacy Rights**Go to Terms of Use** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
 **Last Modified:** June 22, 2017  
