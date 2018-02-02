@@ -135,7 +135,7 @@ menu Close 0 Free Shipping on $50+
     *   Underwear &. Long Underwear
     *   Bags
     
-    SHOES
+    SHOES>.
     
     *   View All
     *   Boots
@@ -145,7 +145,7 @@ menu Close 0 Free Shipping on $50+
     *   Athletic &. Water
     *   Sandals
     
-    ACCESSORIES
+    ACCESSORIES>.
     *   View All
     *   Belts
     *   Socks
@@ -740,9 +740,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off any 1 item thanks to your friend!
+Receive 25% off full-price styles!
 
-code: SPECIAL40 pin: DETAILS
+code: PINK pin: 3418 DETAILS
 
 Customer Service Menu
 
