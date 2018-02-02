@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA: 2017 was 3rd warmest year on record for the globe NOAA, NASA scientists confirm Earth’s long-term warming trend continues AROUND NOAA // New NOAA research holds promise of predicting snowpack even before snow falls Q&A: Winter weather forecasts, from our national centers to your neighborhood Explore your world at the NOAA Open House
+Enter Search Terms NOAA’s GOES-S to boost weather forecast accuracy for western U.S., Alaska, Hawaii More detailed observations will improve marine, aviation forecasts and wildfire detection AROUND NOAA // NOAA: 2017 was 3rd warmest year on record for the globe Explore your world at the NOAA Open House New NOAA research holds promise of predicting snowpack even before snow falls
 
 *   About our agency
 *   News and features
