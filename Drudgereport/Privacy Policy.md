@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+Honored to be part of an influential platform! Thanks @Beet\_TV for interviewing us! twitter.com/Beet\_TV/…
+
+About 14 hours ago
+
+Check out our Senior BizDev Manager @mrmistry's take on diversifying content distribution and why it's better for branding and trust martechseries.com/an… via @MarTechSeries #PredictionsSeries2018
+
+About 14 hours ago
+
 My week on Twitter : 4 Mentions, 86.3K Mention Reach, 2 Likes, 3 Retweets, 31K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/kq8V…
-
-Yesterday
-
-Our biggest fans this week: @StartUpRealTime, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/6SKz…
 
 About 2 days ago
 
-.@Requidan discusses the importance of discovering new audiences and why advertisers should remain content neutral adexchanger.com/the-… @adexchanger
+Our biggest fans this week: @StartUpRealTime, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/6SKz…
 
 About 3 days ago
 
-"Header bidding sees publishers making it easier for buyers to bid on advertising. For buyers, it has also allowed them to see all available inventory sooner". @Requidan chats with @Beet\_TV at #CES2018 about #Headerbidding and integrating both server-to-server and traditional twitter.com/Beet\_TV/…
+.@Requidan discusses the importance of discovering new audiences and why advertisers should remain content neutral adexchanger.com/the-… @adexchanger
 
-Last week
-
-My week on Twitter : 7 Mentions, 1.79K Mention Reach, 10 Likes, 5 Retweets, 3.28K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/evBg…
-
-Last week
+About 4 days ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
