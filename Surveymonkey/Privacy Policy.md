@@ -303,6 +303,42 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Email Opt-In
 *   Accessibility
 
+*   Solutions:
+*   Customer Satisfaction KPIs
+*   Customer Satisfaction Surveys
+*   Customer Service Skills
+*   Net Promoter Score
+*   360 Feedback Survey
+*   Employee Satisfaction Surveys
+*   Event Planning Surveys
+*   Academic Surveys
+*   Education Surveys
+*   Healthcare Surveys
+*   Market Research Surveys
+*   Non-Profit Surveys
+*   Online Research
+
+*   Templates:
+*   Free Survey Templates
+*   Facebook Surveys
+*   Fun Surveys
+*   Marketing Survey Templates
+*   Mobile Surveys
+*   Online Polls
+*   Quizzes
+*   Survey Templates
+
+*   Resources:
+*   Analyzing Survey Data
+*   Google Forms vs. SurveyMonkey
+*   Likert Scale
+*   Margin of Error Calculator
+*   Sample Size Calculator
+*   Scheduling Polls
+*   Survey Guidelines
+*   T-Tests
+*   Writing Survey Questions
+
 *   Language:
 *   English
 *   Español
