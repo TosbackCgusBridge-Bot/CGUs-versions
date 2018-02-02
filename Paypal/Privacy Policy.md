@@ -29,13 +29,17 @@ Learn how PayPal makes it easy to shop and send money to family and friends.
 
 Shop, send money, and pay bills without entering your payment info again and again
 
-24/7 fraud detection means we work around the clock to help keep your account secure.
+Keep earning your rewards when you use your credit card to shop with PayPal.\*
 
-Pay your way, whether it’s credit, debit, or your bank account.
+Check out how you want. Use your credit, debit or bank account.
 
-Speed through checkout at millions of brands that accept PayPal.
+Shop the world with peace of mind while we help keep your account secure.
 
-Sign Up for Free Business
+Sign Up for Free
+
+\*Issuer rewards program is subject to the issuer’s rewards program terms and conditions.
+
+Business
 
 Start accepting all kinds of payments with one PayPal business account.
 
@@ -118,4 +122,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=fc30ca97ef7ba&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=20b2cb5e09024a4eb5936838b92e9e86&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3396&xt=8103&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=2e10f88e74a69&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=9b57c71367b546ce8ca430a91c448c7b&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3396&xt=8105&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
