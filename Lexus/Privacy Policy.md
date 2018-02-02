@@ -19,7 +19,7 @@ MENU **IS**
 
 **ES**
 
-*   Starting at $38,9001\*
+*   Starting at $38,9501\*
 *   268-hp 3.5L V6
 
 *   Build
@@ -109,7 +109,7 @@ COMPARE **NX**
 
 **GX**
 
-*   Starting at $51,8551\*
+*   Starting at $52,1551\*
 *   301-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -117,7 +117,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $84,9804\*
+*   Starting at $85,3804\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
