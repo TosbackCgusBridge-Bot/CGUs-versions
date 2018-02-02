@@ -1,4 +1,4 @@
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-LD4Q" height="0" width="0" style="display: none. visibility: hidden"></iframe>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-LD4Q" height="0" width="0" style="display: none. visibility: hidden"></iframe>.  
 
 *   Discover Thomson Reuters
 *   USA - English
