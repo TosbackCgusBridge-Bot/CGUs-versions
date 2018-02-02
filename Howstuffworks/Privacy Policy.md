@@ -55,7 +55,7 @@ Privacy Policy
 
  
 
-This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
+This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC, a System1 company ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
 **A. Information Collected**
 
@@ -149,7 +149,7 @@ It is possible that we may receive information given to us or pertaining to chil
 
 Questions regarding privacy, including children's privacy should be directed to:
 
-InfoSpace Holdings LLC
+InfoSpace Holdings LLC, a System1 company
 
 10900 NE 8th Street, Suite 800
 
@@ -215,13 +215,13 @@ Some parts of the Sites require that personally identifiable information be subm
 
 **O. Contacting HSW**
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at InfoSpace Holdings LLC, 10900 NE 8th Street, Suite 800, Bellevue, WA 98004. All information you provide in any written communication will also be covered by this policy.
+If you have any questions about this privacy policy or our privacy practices, please contact us at InfoSpace Holdings LLC, a System1 company, 10900 NE 8th Street, Suite 800, Bellevue, WA 98004. All information you provide in any written communication will also be covered by this policy.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
 HSW does not support Do Not Track browser settings and does not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding HSW's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
 
-InfoSpace Holdings LLC
+InfoSpace Holdings LLC, a System1 company
 
 10900 NE 8th Street, Suite 800
 
@@ -229,13 +229,13 @@ Bellevue, WA 98004
 
 Email: hsw\_privacy@infospace.com
 
-Last Updated On: 08/10/2016
+Last Updated On: 01/31/2018
 
 Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .EverQuote Insurance QuotesDenver, Colorado: This Brilliant, Tiny Company Is Disrupting a $200 Billion IndustryEverQuote Insurance QuotesHome ChefDenver: This Meal Service is Cheaper Than Your Local StoreHome ChefTophatterIt’s Like eBay, But Everything Sells in 90 SecondsTophatterLife&#39;d19 Discounts Seniors Didn’t Know They Could GetLife'dGundry MDHow To Fix Dark SpotsGundry MDHearing Aids | Sponsored LinksPeople Who Want A Hearing Aid Should See These OptionsHearing Aids | Sponsored LinksMalibu Health LabsDo This At Home For Better Digestion(it's addicting)Malibu Health LabsKelley Blue BookThe 10 Most Comfortable Cars Under $30,000Kelley Blue Book Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksCould we stop an asteroid on a collision course toward Earth?Meet '\`Oumuamua,' the Strange Interstellar Asteroid That Sent Us a Message10 Reasons Why You Should Care About Net NeutralityDo slim jims trigger side-impact airbags?by Taboolaby Taboola
+More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .Home ChefDenver: This Meal Service is Cheaper Than Your Local StoreHome ChefTophatterIt’s Like eBay, But Everything Sells in 90 Seconds.TophatterEverQuote Insurance QuotesDenver, Colorado: This Brilliant Company Is Disrupting a $200 Billion IndustryEverQuote Insurance QuotesBlue ApronMy Husband and I Tried Blue Apron, Here's What HappenedBlue ApronGundry MDWant Better Appetite Control? Do This Once Daily (Easy But Very Effective)Gundry MDLife&#39;dBorn Before 1964? Claim These 19 "Seniors Rebates" NowLife'dThermaspiceThree Natural Substances That Fire Up Your MetabolismThermaspiceWeekly FinancialPeople in Heavy Credit Card Debt Could Be In For A Big SurpriseWeekly Financial Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff Works10 Fastest Things in the UniverseMeet '\`Oumuamua,' the Strange Interstellar Asteroid That Sent Us a Message10 Reasons Why You Should Care About Net NeutralityNearby Earth-sized Alien World Orbits 'Quiet' Star, Boosting Habitable Potentialby Taboolaby Taboola
 
   
 
@@ -256,7 +256,8 @@ Advertise With Us
   
 
 Copyright © 2018 HowStuffWorks,  
-a division of InfoSpace Holdings LLC
+a division of InfoSpace Holdings LLC,  
+a System1 Company
 
 Newsletter
 
