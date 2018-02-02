@@ -16,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.189,48ǀ
+*   DAX 13.003,90ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -51,7 +51,6 @@ Anmelden
         *   Unternehmen &. Märkte
         *   Staat &. Soziales
         *   Mittelstand
-        *   Weltwirtschaftsforum Davos
         *   Industrie 4.0
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
@@ -80,8 +79,9 @@ Anmelden
         *   Formel-1-Liveticker
         *   Ergebnisse
         *   Wintersport
-    *   *   Bundesliga präsentiert von  
-            Continental
+    *   *   Bundesliga präsentiert von Continental
+        
+        *   Olympia 2018
 *   Kultur
     
     *   *   Übersicht
