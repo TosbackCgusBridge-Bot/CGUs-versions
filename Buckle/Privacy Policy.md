@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Ready, set, touchdown! Get Super Bowl ready.
+Shop our Valentine’s Day Guide for gifts they’ll love.
 
 *   Women
 *   Men
