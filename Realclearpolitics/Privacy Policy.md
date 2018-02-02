@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Amy Sorkin_: Trump's Fearful State of the Union
+*   _John Kass_: Dems Can't See Compromise While Crying Over Trump
     
-*   _Myron Magnet_: Pro-American
+*   _Walter Shapiro_: Trump's Speech Will Soon Vanish Into the Mist
     
-*   _Carl Cannon_: The Heartening Souls at the Center of Trump's Speech
+*   _Daniel Henninger_: Can Trump Hold the House?
     
-*   _Ezra Klein_: The State of the Union Made Donald Trump Look Small
+*   _Edward-Isaac Dovere_: Joe Kennedy: Read My Message, Not My Lips
     
-*   _Newt Gingrich_: A Very Inclusive Speech--No Wonder It Shook Up Dems
+*   _Daniel Allott_: Watching the State of the Union in the Heartland
     
-*   _Bill Scher_: Dems Disagree on Responding to Trump--But It Just Might Work
+*   _Andrew McCarthy_: There Are No Good Reasons to Hold Back the FISA Memo
     
-*   _Barry Ritholtz_: Trump's Tax Cuts Are a Large &. Potent Economic Stimulus
+*   _Paul Waldman_: The Incredible Nihilism of GOP Attacks on Russia Probe
     
-*   _Martin Wolf_: Trump Has Been Lucky With the U.S. Economy
+*   _Katherine Kersten_: Inside a Public School Social Justice Factory
     
-*   _Michelle Malkin_: When Dreamer Platitudes Whitewash Bloody Reality
+*   _Sophia Nelson_: It's Time for White Women to Do Better
     
-*   _David Litt_: Stephen Miller's SOTU Was a White-Nationalist Wish List
+*   _David Harsanyi_: Media's Ugly David Duke-Louis Farrakhan Double Standard
     
-*   _Daniel Oliver_: Racism: The First and Final Insult of Losers
+*   _Linda Greenhouse_: The Chief Justice, Searching for Middle Ground
     
-*   _Salena Zito_: 'All of America Is Applauding While They Are Sitting'
+*   _Richard Wolffe_: A Night Trump Loves Best: When He Can Applaud Himself
     
-*   _Frank Bruni_: The Fictitious State of Trump's Fantastical Union
+*   _Roger Kimball_: Trump Restores the 'We'
     
-*   _Scott Jennings_: Trump Was the Grown-Up in the Room
+*   _Ronald Brownstein_: Trump Is Making 2018 Much Harder for Republicans
     
-*   _Matthew Yglesias_: With Kennedy, Dems Rediscover Obama's Compelling Vision
+*   _Heather Wilhelm_: Hapless in Democratland
     
-*   _Charles Hurt_: Flaunting Lawlessness in the Capitol
+*   _Rep. Adam Schiff_: Rep. Nunes's Memo Crosses a Dangerous Line
     
-*   _Catherine Rampell_: Trump's Immigration 'Compromise' Is a Trick
+*   _Andrew Napolitano_: FISA Abuse May Show Deep State at Most Frightening
     
-*   _Huey-Burns &. Arkin_: Five Takeaways From Trump's Speech
+*   _Heather Mac Donald_: 'Americans Are Dreamers, Too'
     
-*   _Michael Goodwin_: Trump Is Teaching Republicans How to Fight and Win
+*   _Sadhana Singh_: We Are Not Bargaining Chips--Time Is Running Out
     
-*   _Chris Cillizza_: Why Democrats Are in the Catbird's Seat in 2018
+*   _Thomas Edsall_: Trump Has Got Democrats Right Where He Wants Them
     
-*   _Andrew McCarthy_: Rosenstein Is Shirking His Duty to Supervise Robert Mueller
+*   _Will Rahn_: Joe Kennedy's Night in the Sun
     
-*   _Amy Sorkin_: Questions That Mueller Might Ask Trump
+*   _Colin Hanna_: A Conservative Renaissance at Department of Justice
     
-*   _Gordan Chang_: Trump Goes Where Kim Jong Un Fears Most
+*   _Norm Eisen et al._: A Saturday Night Massacre Happening Before Our Eyes
     
-*   _Peter Beinart_: Is Trump Preparing for War With North Korea?
+*   _Gary Meltz_: Sans Collusion, Obstruction Charge Wouldn't Topple Trump
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Crutches, Tears Humanize North Korean Threat in Trump Speech
 *   Five Takeaways From Trump's Speech
-*   Full Replay/Transcript: Trump Delivers 2018 State of the Union Address
+*   FBI Clashes With Trump, Has "Grave Concerns" on FISA Abuse Memo
+*   Gingrich: Collusion to Undermine Election Done by FBI/DOJ, Not Russia
+*   Crutches, Tears Humanize North Korean Threat in Trump Speech
 *   Kennedy SOTU Response: "Bullies May Land a Punch," Don't Win
-*   Republicans Vote to Release Classified Memo on Russia Probe
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,12 +268,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve45
+    *   Disapprove53Disapprove +8
 *   President Trump Job ApprovalMonmouth
     *   Approve44
     *   Disapprove48Disapprove +4
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove54Disapprove +10
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve41
     *   Disapprove53Disapprove +12
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   DiGenova: FBI Thinks They Can Defy Government Oversight, Are Independent Of The Executive
+*   Van Hollen: FBI Will "Refuse To Share Information" With Congress After Unauthorized Release Of Nunes Memo
+*   Brzezinski Cuts Off Michael Wolff After Nikki Haley Showdown: "You're Slurring A Woman," "We're Done"
 *   Gingrich: Collusion To Undermine Election Done By American Bureaucracy, Not Russian Government
-*   Gutierrez: Trump Wants The Wall To Stop "Legal Immigration, "People Of Color" From Coming
-*   Kamala Harris: Trump "Scapegoating and Fear-Mongering" To Equate MS-13 and DREAMers
-*   Hannity on Trump SOTU: "This Is The Speech Conservatives Have Wanted To Hear Since Reagan"
-*   Trump to Parents Of Teens Killed By Illegals in MS-13 at State Of The Union: "America Is Grieving For You"
+*   Gutierrez: Trump Wants The Wall To Stop "Legal Immigration," "People Of Color" From Coming
 
 *   Politics
 *   Policy
