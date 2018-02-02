@@ -24,7 +24,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
-*   Plus Size
+*   Extended Sizes
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
 *   Trending
@@ -217,7 +217,6 @@ Close submenu ( Girls ) Girls
 *   Perfectly Preppy
 *   Cut It Out
 *   Full Bloom
-*   Splash Into Swim
 
 Close submenu ( Guys ) Guys
 
@@ -251,20 +250,15 @@ Close submenu ( Girls ) Girls
 *   View All
 *   Last Chance
 *   New to Clearance
-*   Shop $4.99
-*   Shop $7.99
-*   Shop $9.99
-*   Tees + Polos
-*   Camis + Tanks
+*   $9.99 + Under
+*   Tees + Tanks
 *   Fashion Tops
 *   Hoodies + Jackets
 *   Shirts + Sweaters
 *   Dresses + Skirts
 *   Jeans + Pants
-*   Joggers + Sweats
-*   Leggings + Active
+*   Joggers + Leggings
 *   Shorts
-*   Swim
 *   Accessories
 
 Close submenu ( Guys ) Guys
@@ -347,7 +341,7 @@ Menu Find a Store Aeropostale
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
-    *   Plus Size
+    *   Extended Sizes
     
     *   Live Love Dream
         *   View All
@@ -469,7 +463,6 @@ Menu Find a Store Aeropostale
         *   Perfectly Preppy
         *   Cut It Out
         *   Full Bloom
-        *   Splash Into Swim
     
     *   Guys
         *   View All
@@ -495,20 +488,15 @@ Menu Find a Store Aeropostale
         *   View All
         *   Last Chance
         *   New to Clearance
-        *   Shop $4.99
-        *   Shop $7.99
-        *   Shop $9.99
-        *   Tees + Polos
-        *   Camis + Tanks
+        *   $9.99 + Under
+        *   Tees + Tanks
         *   Fashion Tops
         *   Hoodies + Jackets
         *   Shirts + Sweaters
         *   Dresses + Skirts
         *   Jeans + Pants
-        *   Joggers + Sweats
-        *   Leggings + Active
+        *   Joggers + Leggings
         *   Shorts
-        *   Swim
         *   Accessories
     
     *   Guys
@@ -549,13 +537,13 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ON ORDERS OVER $75 Search Catalog Search Promotions Shop Sabrina's Picks Shop Girls New Arrivals Shop Guys New Arrivals
 
-*   Polos Starting at $8.00 Shop Girls Shop Guys
+*   Polos Starting at $9.00 Shop Girls Shop Guys
 *   Accessories Starting at $6.00 Shop Girls Shop Guys
-*   Fashion Tops Starting at $24.75 Shop Girls
+*   Fashion Tops Starting at $19.80 Shop Girls
 *   Tees Starting at $10.00 Shop Girls Shop Guys
-*   Polos Starting at $8.00 Shop Girls Shop Guys
+*   Polos Starting at $9.00 Shop Girls Shop Guys
 *   Accessories Starting at $6.00 Shop Girls Shop Guys
-*   Fashion Tops Starting at $24.75 Shop Girls
+*   Fashion Tops Starting at $19.80 Shop Girls
 *   Tees Starting at $10.00 Shop Girls Shop Guys
 
 *   1
