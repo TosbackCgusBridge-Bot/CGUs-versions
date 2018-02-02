@@ -12,11 +12,11 @@ SEG1 hp
 *   Chat or Call
     *   Live Chat Customer service available 24/7
     *   TXT 1-904-853-3768 Text us your questions and a representative will respond.
-    1-800-463-3768 Call us with your questions and a representative will help. Have Us Call You Ensure your phone line is open and  
+    1-800-463-3768 Call us with your questions and a representative will help. 1-800-463-3768 Call us with your questions and a representative will help. 1-888-315-5073 Call us for all **Tech Service Subscription** questions and a representative will help. Have Us Call You Ensure your phone line is open and  
     enter your number below.
 *   Login or Register
 
-Office Depot Deals Hm9gfwy42sFtC5j5OwZsQKe
+Office Depot Deals CCQVdigjyClpT-mtwZSpm3-
 
 Search Suggestions
 
@@ -34,10 +34,11 @@ Your recent searches
 *   Ink &. Toner
 *   Breakroom
 *   Cleaning
-*   Technology &. Services
+*   Technology
 *   Furniture
 *   School Supplies
 *   Print &. Copy
+*   Services Top Services Cell Phone Repair Data Services Install Services New PC Services Repair and Upgrade Tech Support Trade-In See all Services
 *   $ Deals
 
 MY OFFICE DEPOT  
