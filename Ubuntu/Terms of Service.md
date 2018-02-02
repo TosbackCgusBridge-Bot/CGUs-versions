@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   Snapcraft Summit Summary – Day 2 ›
-*   Snapcraft Summit Summary – Day 1 ›
+*   Skype now available as a snap for Linux users ›
+*   Externally exposing a LXD-based Kubernetes service ›
+*   Snapcraft Summit summary – day 2 ›
+*   Snapcraft Summit summary – day 1 ›
 *   Plex joins Snapcraft Summit to advance snap learnings ›
-*   Ubuntu Server development summary – 30 January 2018 ›
-*   Tutorial: Install Ubuntu on a Chromebook ›
