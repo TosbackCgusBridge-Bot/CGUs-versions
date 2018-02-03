@@ -54,7 +54,6 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Hoodies + Sweatshirts
 *   Sweaters
-*   Bodysuits
 *   Active Tops
 
 Close submenu ( Bottoms ) Bottoms
@@ -293,7 +292,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**EXTRA 50-70% OFF + FREE SHIPPING ON $75** **BUY ONE GET ONE FREE JEANS**
+**EXTRA 15% OFF** USE CODE **GROUNDHOG** **FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -327,7 +326,6 @@ Menu Find a Store Aeropostale
         *   Shirts
         *   Hoodies + Sweatshirts
         *   Sweaters
-        *   Bodysuits
         *   Active Tops
     
     *   Bottoms
@@ -535,7 +533,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions Shop Sabrina's Picks Shop Girls New Arrivals Shop Guys New Arrivals
+ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Shop Sabrina's Picks Shop Girls New Arrivals Shop Guys New Arrivals
 
 *   Polos Starting at $9.00 Shop Girls Shop Guys
 *   Accessories Starting at $6.00 Shop Girls Shop Guys
