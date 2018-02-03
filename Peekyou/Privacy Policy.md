@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 12%  7% 
+What is PeekScore? Public Records &. Background Checks 25%  7% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 12%  7% 
     
 *   Show Less ...
 
-12%  12%  Arrest Records &. Driving Infractions
+25%  25%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 6% 
+Facebook 7% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 6% 
     
 *   Show Less ...
 
-Twitter 6% 
+Twitter 7% 
 
 *   HIV.gov - HIVGov
     
@@ -259,7 +259,7 @@ Twitter 6% 
     
 *   Show Less ...
 
-Instagram 6% 
+Instagram 7% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -329,7 +329,7 @@ Instagram 6% 
     
 *   Show Less ...
 
-Pinterest 12%  Wikipedia 6% 
+Pinterest 25%  Wikipedia 7% 
 
 *   P3P
     
@@ -340,33 +340,7 @@ Pinterest 12%  Wikipedia 6% 
     Test, TEST or Tester may refer to: Test (assessment), an assessment intended to measure the respondents' knowledge or other abilities. Medical test, to detect ...
     
 
-Google+ 6% 
-
-*   Privacy policy - Google+ - Google Plus
-    
-    No personal information is transmitted by My Recipes app rss reader and no information is used, stored, secured or disclosed. Use this app in your own risk. You agree to this privacy policy as long as you use the application. This Policy may change at any time. one plus one. 1. no comments. no shares. Looks like you've ...
-    
-*   My Privacy Policy - Google+
-    
-    My Privacy Policy - Google+.
-    
-*   privacy policy - Google+
-    
-    ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. privacy policy. About. Posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while more posts are being loaded.
-    
-*   Expedia - Google+
-    
-    Press question mark to see available shortcut keys.. Discover. Join Google+. Report an issue. Help. ©2018 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search.
-    
-*   Show More ...
-
-*   Privacy Policy - Google+ - Google plus
-    
-    Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
-    
-*   Show Less ...
-
-Linkedin 12%  Music 6% 
+Google+ 25%  Linkedin 25%  Music 7% 
 
 *   Pandora
     
@@ -412,7 +386,7 @@ Linkedin 12%  Music 6% 
     
 *   Show Less ...
 
-Photo Albums 6% 
+Photo Albums 7% 
 
 *   Flickr
     
@@ -454,7 +428,7 @@ Photo Albums 6% 
     
 *   Show Less ...
 
-Myspace 6% 
+Myspace 7% 
 
 *   Privacy Policy - 49086242
     
@@ -478,7 +452,7 @@ Myspace 6% 
     
 *   Show Less ...
 
-Documents 6% 
+Documents 7% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -524,7 +498,7 @@ Documents 6% 
     
 *   Show Less ...
 
-Web Search 6% 
+Web Search 7% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -570,7 +544,7 @@ Web Search 6% 
     
 *   Show Less ...
 
-Images 6% 
+Images 7% 
 
 9
 
