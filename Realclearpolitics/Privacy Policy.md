@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _John Kass_: Dems Can't See Compromise While Crying Over Trump
+*   _Byron York_: Memo: Steele Dossier Enabled FISA Warrant, Surveillance
     
-*   _Walter Shapiro_: Trump's Speech Will Soon Vanish Into the Mist
+*   _Roger Cohen_: Trump's Corruption of the American Republic
     
-*   _Daniel Henninger_: Can Trump Hold the House?
+*   _Mark Penn_: Get All the Facts Out on the FBI, Justice Department
     
-*   _Edward-Isaac Dovere_: Joe Kennedy: Read My Message, Not My Lips
+*   _Abigail Tracy_: Will #FreeTheMemo Backfire?
     
-*   _Daniel Allott_: Watching the State of the Union in the Heartland
+*   _Charles Hurt_: Trump Outlines America's Greatness to Dem Disgust
     
-*   _Andrew McCarthy_: There Are No Good Reasons to Hold Back the FISA Memo
+*   _Nate Cohn_: Last 2 Weeks of Polls Are Great for Republicans. Is This a Shift?
     
-*   _Paul Waldman_: The Incredible Nihilism of GOP Attacks on Russia Probe
+*   _A.B. Stoddard_: Trump &. GOP Could Be Paralyzed Without a DACA Fix
     
-*   _Katherine Kersten_: Inside a Public School Social Justice Factory
+*   _Michael Strain_: Jobs Report Could Signal a Real Turning Point
     
-*   _Sophia Nelson_: It's Time for White Women to Do Better
+*   _David Brooks_: The Abortion Memo
     
-*   _David Harsanyi_: Media's Ugly David Duke-Louis Farrakhan Double Standard
+*   _Julia Belluz_: How Women's Reproductive Rights Stalled Under Trump
     
-*   _Linda Greenhouse_: The Chief Justice, Searching for Middle Ground
+*   _Ahmed Charai_: Don't Ignore Kushner's Quiet Mideast Gains
     
-*   _Richard Wolffe_: A Night Trump Loves Best: When He Can Applaud Himself
+*   _Pat Garafalo_: Release the Memo, and Everything Else
     
-*   _Roger Kimball_: Trump Restores the 'We'
+*   _Kimberley Strassel_: Memo Reading for Non-Partisans
     
-*   _Ronald Brownstein_: Trump Is Making 2018 Much Harder for Republicans
+*   _Eugene Robinson_: Trump Picked a Fight With the FBI. He'll Be Sorry
     
-*   _Heather Wilhelm_: Hapless in Democratland
+*   _Patrick Buchanan_: A Never-Trump Press in Near Panic
     
-*   _Rep. Adam Schiff_: Rep. Nunes's Memo Crosses a Dangerous Line
+*   _Tom Bevan_: The Takeaway: The State of Trump's Union - Positive
     
-*   _Andrew Napolitano_: FISA Abuse May Show Deep State at Most Frightening
+*   _Kurt Andersen_: How the GOP Went Crazy
     
-*   _Heather Mac Donald_: 'Americans Are Dreamers, Too'
+*   _Matthew Continetti_: The Back to the Future Democrats
     
-*   _Sadhana Singh_: We Are Not Bargaining Chips--Time Is Running Out
+*   _Liam Donovan_: Why Top Republicans Are Fleeing the House
     
-*   _Thomas Edsall_: Trump Has Got Democrats Right Where He Wants Them
+*   _James Arkin_: GOP Sees Reasons for Optimism in 2018 Midterms
     
-*   _Will Rahn_: Joe Kennedy's Night in the Sun
+*   _Will Wilkinson_: The Republican Tax Bill Could Turn Texas Blue
     
-*   _Colin Hanna_: A Conservative Renaissance at Department of Justice
+*   _Brady &. Parker_: Trump Gains w/Independents, Republicans After Tax Cut Bill
     
-*   _Norm Eisen et al._: A Saturday Night Massacre Happening Before Our Eyes
+*   _John Judis_: The Two Sides of Immigration Policy
     
-*   _Gary Meltz_: Sans Collusion, Obstruction Charge Wouldn't Topple Trump
+*   _Scott Rasmussen_: Trump Presses His Advantage on Immigration
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Lauds Republican Successes as New Deadlines Loom
+*   Republicans See Reasons for Optimism in 2018 Midterms
+*   Brzezinski Cuts Off Michael Wolff After Nikki Haley Showdown
+*   Pelosi: Tax Overhaul Has Cast a "Dark Cloud" Over Washington
 *   Five Takeaways From Trump's Speech
-*   FBI Clashes With Trump, Has "Grave Concerns" on FISA Abuse Memo
-*   Gingrich: Collusion to Undermine Election Done by FBI/DOJ, Not Russia
-*   Crutches, Tears Humanize North Korean Threat in Trump Speech
-*   Kennedy SOTU Response: "Bullies May Land a Punch," Don't Win
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -269,8 +269,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove53Disapprove +8
+    *   Approve49
+    *   Disapprove49Tie
 *   President Trump Job ApprovalMonmouth
     *   Approve44
     *   Disapprove48Disapprove +4
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   DiGenova: FBI Thinks They Can Defy Government Oversight, Are Independent Of The Executive
-*   Van Hollen: FBI Will "Refuse To Share Information" With Congress After Unauthorized Release Of Nunes Memo
-*   Brzezinski Cuts Off Michael Wolff After Nikki Haley Showdown: "You're Slurring A Woman," "We're Done"
-*   Gingrich: Collusion To Undermine Election Done By American Bureaucracy, Not Russian Government
-*   Gutierrez: Trump Wants The Wall To Stop "Legal Immigration," "People Of Color" From Coming
+*   Nunes: Clear Collusion With The Russians and Hillary Clinton's Campaign, Media Fails To Investigate
+*   CNN's Tapper Grills Gaetz: How Is Nunes Memo Evidence That Mueller Investigation Is Tainted?
+*   Pelosi Warns: If Trump Uses Memo To Justify Firing Rosenstein Or Mueller, Will Trigger "Constitutional Crisis"
+*   Judicial Watch's Fitton: When Did Mueller Know The Basis For Entire Investigation Was Paid For By DNC?
+*   Rep. Matt Gaetz Reacts To Memo Release: Proof Trump-Russia "Narrative Is Built On A Rotten Foundation"
 
 *   Politics
 *   Policy
