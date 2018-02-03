@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA’s GOES-S to boost weather forecast accuracy for western U.S., Alaska, Hawaii More detailed observations will improve marine, aviation forecasts and wildfire detection AROUND NOAA // NOAA: 2017 was 3rd warmest year on record for the globe Explore your world at the NOAA Open House New NOAA research holds promise of predicting snowpack even before snow falls
+Enter Search Terms Seeing shadows or not: How the groundhog scores against the climate record AROUND NOAA // NOAA’s GOES-S to boost weather forecast accuracy for western U.S., Alaska, Hawaii Explore your world at the NOAA Open House NOAA: 2017 was 3rd warmest year on record for the globe
 
 *   About our agency
 *   News and features
