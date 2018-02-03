@@ -116,10 +116,6 @@ THE FOLLOWING ADDITIONAL TERMS AND CONDITIONS APPLY TO FLICKR GIFT PURCHASES ONL
 
 Last updated: 2017-06-13
 
-Flickr and Yahoo are now part of “Oath” and are members of the Verizon family of companies. Beginning 15 September 2017, we plan to share some user information within our new family. Learn more
-
-Dismiss
-
 *   About
 *   Jobs
 *   Blog
