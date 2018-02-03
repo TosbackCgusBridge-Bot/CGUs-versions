@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, February 2, 2018  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, February 3, 2018  
 
 DEBKAfile
 
@@ -46,102 +46,86 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Trump approves temporary residency for 6,900 Syrians
+*   Rocket fired from Gaza explodes on open ground
     
-    Feb 01, 2018 @ 09:21
+    Feb 02, 2018 @ 22:07
     
-*   Poland’s Senate passes controversial Holocaust bill
+*   The US broadens anti-Hizballah sanctions to 6 individuals, 7 firms
     
-    Feb 01, 2018 @ 09:12
+    Feb 02, 2018 @ 20:15
     
-*   US anti-missile systems deployed across Israel for Juniper Cobra drill
+*   Tensely-awaited US Republican party’s classified memo released
     
-    Jan 31, 2018 @ 23:13
+    Feb 02, 2018 @ 19:59
     
-*   US lists Hamas leader Haniyeh as “specially designated terrorist”
+*   Saudi crown prince’s American tour to show Riyadh open for business
     
-    Jan 31, 2018 @ 18:38
+    Feb 02, 2018 @ 12:58
     
-*   Israel soldiers prevent Palestinian knife attack
+*   Rift widens between US and Russia in Syria
     
-    Jan 31, 2018 @ 15:32
+    Feb 02, 2018 @ 12:40
     
-*   Yemeni southern separatists seize most of Aden
+*   Advanced missiles wreck Syrian rebels’ underground hospital
     
-    Jan 31, 2018 @ 15:22
-    
-*   Saudi crackdown on princes and tycoons netted about $106.7bn
-    
-    Jan 31, 2018 @ 15:17
-    
-*   An eight-year old Jewish boy hurt in anti-Semitic attack in Paris
-    
-    Jan 31, 2018 @ 15:07
+    Feb 02, 2018 @ 12:29
     
 
-*   Israel soldiers prevent Palestinian knife attack
+*   Tensely-awaited US Republican party’s classified memo released
     
-    Jan 31, 2018 @ 15:32
+    Feb 02, 2018 @ 19:59
     
-*   Yemeni southern separatists seize most of Aden
+*   Saudi crown prince’s American tour to show Riyadh open for business
     
-    Jan 31, 2018 @ 15:22
+    Feb 02, 2018 @ 12:58
     
-*   Saudi crackdown on princes and tycoons netted about $106.7bn
+*   Rift widens between US and Russia in Syria
     
-    Jan 31, 2018 @ 15:17
+    Feb 02, 2018 @ 12:40
     
-*   An eight-year old Jewish boy hurt in anti-Semitic attack in Paris
+*   Advanced missiles wreck Syrian rebels’ underground hospital
     
-    Jan 31, 2018 @ 15:07
+    Feb 02, 2018 @ 12:29
     
-*   Trump approves temporary residency for 6,900 Syrians
+*   Rocket fired from Gaza explodes on open ground
     
-    Feb 01, 2018 @ 09:21
+    Feb 02, 2018 @ 22:07
     
-*   Poland’s Senate passes controversial Holocaust bill
+*   The US broadens anti-Hizballah sanctions to 6 individuals, 7 firms
     
-    Feb 01, 2018 @ 09:12
+    Feb 02, 2018 @ 20:15
     
-*   US anti-missile systems deployed across Israel for Juniper Cobra drill
+*   Tensely-awaited US Republican party’s classified memo released
     
-    Jan 31, 2018 @ 23:13
+    Feb 02, 2018 @ 19:59
     
-*   US lists Hamas leader Haniyeh as “specially designated terrorist”
+*   Saudi crown prince’s American tour to show Riyadh open for business
     
-    Jan 31, 2018 @ 18:38
+    Feb 02, 2018 @ 12:58
     
-*   Israel soldiers prevent Palestinian knife attack
+*   Rift widens between US and Russia in Syria
     
-    Jan 31, 2018 @ 15:32
+    Feb 02, 2018 @ 12:40
     
-*   Yemeni southern separatists seize most of Aden
+*   Advanced missiles wreck Syrian rebels’ underground hospital
     
-    Jan 31, 2018 @ 15:22
+    Feb 02, 2018 @ 12:29
     
-*   Saudi crackdown on princes and tycoons netted about $106.7bn
+*   Rocket fired from Gaza explodes on open ground
     
-    Jan 31, 2018 @ 15:17
+    Feb 02, 2018 @ 22:07
     
-*   An eight-year old Jewish boy hurt in anti-Semitic attack in Paris
+*   The US broadens anti-Hizballah sanctions to 6 individuals, 7 firms
     
-    Jan 31, 2018 @ 15:07
+    Feb 02, 2018 @ 20:15
     
-*   Trump approves temporary residency for 6,900 Syrians
+*   Tensely-awaited US Republican party’s classified memo released
     
-    Feb 01, 2018 @ 09:21
+    Feb 02, 2018 @ 19:59
     
-*   Poland’s Senate passes controversial Holocaust bill
+*   Saudi crown prince’s American tour to show Riyadh open for business
     
-    Feb 01, 2018 @ 09:12
-    
-*   US anti-missile systems deployed across Israel for Juniper Cobra drill
-    
-    Jan 31, 2018 @ 23:13
-    
-*   US lists Hamas leader Haniyeh as “specially designated terrorist”
-    
-    Jan 31, 2018 @ 18:38
+    Feb 02, 2018 @ 12:58
     
 
 12PrevNext DEBKA Video
