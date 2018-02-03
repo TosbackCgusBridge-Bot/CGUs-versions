@@ -158,13 +158,11 @@ menu Close 0 Free Shipping on $50+
     
     *   New Arrivals
     *   Swim Shop
-    *   Outerwear Shop
-    *   Hats, Gloves &. Scarves
+    *   Dressy Shop
     *   Spring Into Layers
-    *   Iron Knees Pants
     *   Girls' Knit Kit
+    *   Iron Knees Pants
     *   School Uniforms
-    *   Backpacks &. Lunch Boxes
     *   Sale
     
     SHOP BY AGE RANGE
@@ -178,37 +176,37 @@ menu Close 0 Free Shipping on $50+
     
     Girls>.
     
+    *   Swimsuits
     *   Outerwear
     *   Tops
-    *   Sweaters
     *   Dresses
     *   Pants &. Leggings
     *   Jeans
-    *   Pajamas &. Robes
     *   Skirts &. Skorts
     *   Shorts
     *   Blazers
-    *   Swimsuits
-    *   Backpacks &. Lunch Boxes
+    *   Sweaters
     *   Shoes
     *   Accessories
+    *   Backpacks &. Lunch Boxes
     *   Long Underwear
+    *   Pajamas &. Robes
     
     Boys>.
+    *   Swimsuits
     *   Outerwear
     *   Tops
-    *   Sweaters
     *   Pants
     *   Jeans
-    *   Pajamas &. Robes
     *   Shorts
-    *   Blazers
-    *   Swimsuits
-    *   Backpacks &. Lunch Boxes
     *   Activewear
+    *   Blazers
+    *   Sweaters
     *   Shoes
     *   Accessories
+    *   Backpacks &. Lunch Boxes
     *   Long Underwear
+    *   Pajamas &. Robes
 *   Outerwear SHOP OUTERWEAR
     
     *   Women
@@ -498,13 +496,11 @@ menu Close 0 Free Shipping on $50+
         *   Back
         *   New Arrivals
         *   Swim Shop
-        *   Outerwear Shop
-        *   Hats, Gloves &. Scarves
+        *   Dressy Shop
         *   Spring Into Layers
-        *   Iron Knees Pants
         *   Girls' Knit Kit
+        *   Iron Knees Pants
         *   School Uniforms
-        *   Backpacks &. Lunch Boxes
         *   Sale
     *   SHOP BY AGE RANGE
         *   Back
@@ -516,37 +512,37 @@ menu Close 0 Free Shipping on $50+
         *   Big Boy (size 7-20)
     *   Girls
         *   Back
+        *   Swimsuits
         *   Outerwear
         *   Tops
-        *   Sweaters
         *   Dresses
         *   Pants &. Leggings
         *   Jeans
-        *   Pajamas &. Robes
         *   Skirts &. Skorts
         *   Shorts
         *   Blazers
-        *   Swimsuits
-        *   Backpacks &. Lunch Boxes
+        *   Sweaters
         *   Shoes
         *   Accessories
+        *   Backpacks &. Lunch Boxes
         *   Long Underwear
+        *   Pajamas &. Robes
     *   Boys
         *   Back
+        *   Swimsuits
         *   Outerwear
         *   Tops
-        *   Sweaters
         *   Pants
         *   Jeans
-        *   Pajamas &. Robes
         *   Shorts
-        *   Blazers
-        *   Swimsuits
-        *   Backpacks &. Lunch Boxes
         *   Activewear
+        *   Blazers
+        *   Sweaters
         *   Shoes
         *   Accessories
+        *   Backpacks &. Lunch Boxes
         *   Long Underwear
+        *   Pajamas &. Robes
 *   Outerwear
     *   Back
     *   Shop all Outerwear
