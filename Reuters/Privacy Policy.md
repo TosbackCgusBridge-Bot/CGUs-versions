@@ -1,4 +1,4 @@
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-LD4Q" height="0" width="0" style="display: none. visibility: hidden"></iframe>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-LD4Q" height="0" width="0" style="display: none. visibility: hidden"></iframe>.  
 
 *   Discover Thomson Reuters
 *   USA - English
@@ -28,7 +28,7 @@ Legal Solutions | USA
 Free Standard Shipping on books!
 
 Law Books Solutions Support Insights &. Trends  
-Home >. westlaw legal research >. practitioner insights <img src="//pixel.quantserve.com/pixel/p-9cSFV8m5u\_KjY.gif?labels=\_fp.event.Campaign+Landing+Page" style="display: none;" border="0" height="1" width="1" alt="">. Log in to Westlaw Thomson Reuters Westlaw  
+  Home >. westlaw legal research >. practitioner insights <img src="//pixel.quantserve.com/pixel/p-9cSFV8m5u\_KjY.gif?labels=\_fp.event.Campaign+Landing+Page" style="display: none;" border="0" height="1" width="1" alt="">. Log in to Westlaw Thomson Reuters Westlaw  
 The world's most preferred online legal research service Start your free trial today
 
 *   About Westlaw
@@ -184,4 +184,4 @@ Hate Dislike Neutral Like Love Select an element on the page.
 
 Enter your email address if you would like to receive a follow up.
 
-Skip Send Select an element on the page. <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=6540&amp;fmt=gif">.
+Skip Send Select an element on the page.
