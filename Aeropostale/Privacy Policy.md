@@ -85,6 +85,7 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
+
 *   Jackets + Vests
 *   Accessories
 *   Underwear
@@ -292,7 +293,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**EXTRA 15% OFF** USE CODE **GROUNDHOG** **FREE SHIPPING OVER $75**
+**52% OR MORE OFF EVERYTHING + FREE SHIPPING ON $52** **UP TO 70% OFF CLEARANCE**
 
 *   My Account My Account Login Register
 
@@ -384,6 +385,8 @@ Menu Find a Store Aeropostale
         *   Joggers + Sweats
         *   Pants
         *   Shorts
+        
+    
     *   Jackets + Vests
     *   Accessories
     *   Underwear
@@ -533,7 +536,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Shop Sabrina's Picks Shop Girls New Arrivals Shop Guys New Arrivals
+ON ORDERS OVER $52 Search Catalog Search Promotions Shop Girls New Arrivals Shop Guys New Arrivals
 
 *   Polos Starting at $9.00 Shop Girls Shop Guys
 *   Accessories Starting at $6.00 Shop Girls Shop Guys
@@ -549,7 +552,7 @@ ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Shop Sa
 *   3
 *   4
 
-Promotions Shop Girls Shop Guys Promotions Find My Store Shop GirlsShop GuysShop LLD <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+Promotions Shop GirlsShop GuysShop LLD <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -584,4 +587,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyclose dialogGive us your email to snag anExtra 10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-L9XCXSHZZQB9at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
