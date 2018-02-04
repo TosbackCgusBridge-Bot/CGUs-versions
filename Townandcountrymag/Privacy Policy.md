@@ -177,17 +177,15 @@ Last revised on April 1, 2016
 
 Last revised on April 1, 2016
 
-Watch Next
-
-Advertisement - Continue Reading Below More From About Advertise Online Terms of Use Why did I get this ad? Share Tweet Email
+Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
-*   Inside the World of Luxury Vacation Rentals
-*   Five Things To Know Before You Move To Malta
 *   T&C's Travel Tips Around Egypt
 *   How the Other Half Dies
 *   T&C Essentials: How to Pack the Perfect Picnic
 *   I Drank Like Don Draper at Lunch - And You Can Too
+*   The Space Cowgirl: Rosson Crow
+*   Going Places
 
 *   Newsletter
 *   Contact Us
