@@ -249,9 +249,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Lauds Republican Successes as New Deadlines Loom
 *   Republicans See Reasons for Optimism in 2018 Midterms
-*   Brzezinski Cuts Off Michael Wolff After Nikki Haley Showdown
+*   Trump Lauds Republican Successes as New Deadlines Loom
+*   Rep. Nunes Interview With "Special Report's" Bret Baier
 *   Pelosi: Tax Overhaul Has Cast a "Dark Cloud" Over Washington
 *   Five Takeaways From Trump's Speech
 *   Presidential Job Approval
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Maher: The Wall Not Needed Because Bigotry, Racism, Ignorance &. Paranoia In Heart Of Every Trumpster
 *   Nunes: Clear Collusion With The Russians and Hillary Clinton's Campaign, Media Fails To Investigate
 *   CNN's Tapper Grills Gaetz: How Is Nunes Memo Evidence That Mueller Investigation Is Tainted?
 *   Pelosi Warns: If Trump Uses Memo To Justify Firing Rosenstein Or Mueller, Will Trigger "Constitutional Crisis"
 *   Judicial Watch's Fitton: When Did Mueller Know The Basis For Entire Investigation Was Paid For By DNC?
-*   Rep. Matt Gaetz Reacts To Memo Release: Proof Trump-Russia "Narrative Is Built On A Rotten Foundation"
 
 *   Politics
 *   Policy
