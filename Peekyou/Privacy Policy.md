@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 25%  7% 
+What is PeekScore? Public Records &. Background Checks 22%  10% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 25%  7% 
     
 *   Show Less ...
 
-25%  25%  Arrest Records &. Driving Infractions
+22%  22%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7% 
+Facebook 10% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 7% 
     
 *   Show Less ...
 
-Twitter 7% 
+Twitter 10% 
 
 *   HIV.gov - HIVGov
     
@@ -259,7 +259,7 @@ Twitter 7% 
     
 *   Show Less ...
 
-Instagram 7% 
+Instagram 10% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -329,7 +329,7 @@ Instagram 7% 
     
 *   Show Less ...
 
-Pinterest 25%  Wikipedia 7% 
+Pinterest 21%  Wikipedia 10% 
 
 *   P3P
     
@@ -340,7 +340,7 @@ Pinterest 25%  Wikipedia 7% 
     Test, TEST or Tester may refer to: Test (assessment), an assessment intended to measure the respondents' knowledge or other abilities. Medical test, to detect ...
     
 
-Google+ 25%  Linkedin 25%  Music 7% 
+Google+ 21%  Linkedin 21%  Music 10% 
 
 *   Pandora
     
@@ -386,7 +386,7 @@ Google+ 25%  Linkedin 25%  Music 7% 
     
 *   Show Less ...
 
-Photo Albums 7% 
+Photo Albums 10% 
 
 *   Flickr
     
@@ -428,7 +428,7 @@ Photo Albums 7% 
     
 *   Show Less ...
 
-Myspace 7% 
+Myspace 10% 
 
 *   Privacy Policy - 49086242
     
@@ -452,7 +452,7 @@ Myspace 7% 
     
 *   Show Less ...
 
-Documents 7% 
+Documents 10% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -498,7 +498,7 @@ Documents 7% 
     
 *   Show Less ...
 
-Web Search 7% 
+Web Search 10% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -544,7 +544,7 @@ Web Search 7% 
     
 *   Show Less ...
 
-Images 7% 
+Images 10% 
 
 9
 
