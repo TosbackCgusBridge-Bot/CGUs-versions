@@ -587,4 +587,4 @@ Stay Connected
 *   Refer a Friend
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyclose dialogGive us your email to snag anExtra 10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-L9XCXSHZZQB9at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyclose dialogGive us your email to snag10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-FPZ3XG2T7DQ2at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
