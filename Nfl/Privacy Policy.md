@@ -1,6 +1,6 @@
 SUPER BOWL LII
 
-*   PHI15-3NE15-3SUN 6:30 PM ET
+*   PHI•32NE334th ? 03:25
 
 *   News
 *   Scores
@@ -21,7 +21,7 @@ SUPER BOWL LII
 
 SUPER BOWL LII
 
-*   PHI15-3NE15-3SUN 6:30 PM ET
+*   PHI•32NE334th ? 03:25
 
 *   News
 *   Scores
@@ -44,7 +44,7 @@ ScoresClose
 *   Shop
 *   Teams
 
-NFL.com - Privacy Policy English Deutsch Francais
+BREAKING NEWSEagles upset Patriots, 41-33, in Super Bowl LIINick Foles is named MVP after leading Philadelphia to its first Super Bowl title in franchise history.READ MORE NFL.com - Privacy Policy English Deutsch Francais
 
 **Effective Date: August 16, 2001  
 Updated: September 15, 2017**  
@@ -218,4 +218,6 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy
+Attn: Website Privacy Policy  
+
+  Nick Foles is named MVP after leading Philadelphia to its first Super Bowl title in franchise history.
