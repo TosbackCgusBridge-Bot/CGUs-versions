@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Donald Trump Jr.: Nunes Memo Is "Sweet Revenge," Democrats Are "Left Of Commie"
+*   Durbin Echoes Warnings About "Constitutional Crisis" If Trump Fires Mueller or Rosenstein
 *   Maher: The Wall Not Needed Because Bigotry, Racism, Ignorance &. Paranoia In Heart Of Every Trumpster
 *   Nunes: Clear Collusion With The Russians and Hillary Clinton's Campaign, Media Fails To Investigate
 *   CNN's Tapper Grills Gaetz: How Is Nunes Memo Evidence That Mueller Investigation Is Tainted?
-*   Pelosi Warns: If Trump Uses Memo To Justify Firing Rosenstein Or Mueller, Will Trigger "Constitutional Crisis"
-*   Judicial Watch's Fitton: When Did Mueller Know The Basis For Entire Investigation Was Paid For By DNC?
 
 *   Politics
 *   Policy
