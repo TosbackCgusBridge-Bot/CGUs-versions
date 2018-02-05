@@ -8,32 +8,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Romeo &. Juliet Couture Up to 75% Off
+    *   Women's Shoes Up to 65% Off
+    *   Sunday Steals: Styles Up to 75% Off
+    *   Free Shipping: Trend Jewelry Starting at $15
+    *   On Trend: Leather Wrap Bracelets &. More Starting at $15
+    *   Clinical Skin Care Up to 90% Off
+    *   Men's Final Few Up to 75% Off
+    *   Men's Shoes Up to 65% Off
+    *   Jarv Tech Accessory Blowout
+    *   DR2 by Daniel Rainn &. Pleoine Incl. Special Sizes
+    *   Joe Fresh Starting at $10 Including Plus
+    *   Splendid
+    *   Spring Arrivals: ZAC Zac Posen
+    *   Wow Couture
+    *   Keds
+    *   Joy &. Mario Espadrilles and More Under $40
+    *   Religion Up to 70% Off
+    *   TAVIK Swim
+    *   ANNA Footwear Under $25
+    *   Kensie Sleep &. More Starting at $20
+    *   Girls' Night In: Face Masks for All
+    *   Demeter Fragrance Library
+    *   Brooks Brothers Tailored Clothing
+    *   Leather Bags &. More ft. Fossil
+    *   Ben Sherman Dress Shirts &. More
+    *   Technomarine Watches Up to 70% Off
+    *   Aldo Men
+    *   Baby Aspen Gifts
+    *   Joe Fresh Kids
+    *   Carter's
+    
     *   Tom Ford Sun
     *   Go Couture Sweater Blowout
     *   1.State
     *   bebe Swim &. More
-    *   UGG
-    *   Chantelle Lingerie
     *   Kork-Ease
-    *   On-Trend Spring Earrings &. More Under $25
+    *   Chantelle Lingerie
     *   Lush
+    *   On-Trend Spring Earrings &. More Under $25
+    *   Ivy Kirzhner
     *   Trend Report: Embroidered Styles We Love
     *   ARGENTO VIVO
-    *   Ivy Kirzhner
-    *   Handbags We Love Under $50
-    *   Layering Jewelry ft. Virgins Saints &. Angels
     *   Olivia Miller Under $50
-    *   Fun Flats Starting at $25
     *   Storage &. Organization Essentials from $10
-    *   Skin Chemists Up to 80% Off
     *   Tart Maternity
+    *   Fun Flats Starting at $25
+    *   Skin Chemists Up to 80% Off
     *   Thomas Dean
-    *   UGG Men
     *   Diesel Men
     *   Belly Bandit
-    *   UGG Kids
     *   Premium Denim Up to 70% Off
-    
     *   Cashmere Up to 80% Off
     *   Boot Blowout: Styles Up to 70% Off
     *   Dresses for All Occasions Up to 75% Off
@@ -44,6 +69,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Men's Cold-Weather Accessories
     *   Men's Boots Up to 65% Off
     *   Kids' Outerwear Up to 70% Off
+    
     *   Winter Finale: Kids' Boots Up to 50% Off
     *   PJ Salvage Up to 60% Off
     *   TOV
@@ -59,51 +85,59 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Halston Heritage
     *   Fragrances We Love Starting at $10
     *   Korean Beauty: Scinic, Asamo &. More
-    
     *   Panier des Sens
-    *   Free Shipping: Parvez Taj Up to 70% Off
-    *   Free Shipping: Luxe Bedding Up to 85% Off
+    *   Handbags We Love Under $50
+    *   Layering Jewelry ft. Virgins Saints &. Angels
     *   Arka Tees Under $20
     *   Josef Seibel
     *   Backpacks &. Duffles ft. JanSport
-    *   UGG Home &. Accessories
-    *   UGG Sleep
-    *   Blend Mineral Cosmetics Up to 80% Off
-    *   Dynamic Innovations Up to 90% Off
-    *   ghd: good hair day, every day
-    *   UGG Men's Lounge
     *   Robert Barakett
     *   Free Shipping: Picnic Steals for Spring
     *   Mimi &. Maggie: Boho Looks for Girls
-    *   Hip &. Bone
-    *   Gracia
-    *   Free Shipping: Global-Inspired Decor Up to 70% Off
-    *   John Varvatos
     *   Nice Ice: Sparkling Jewelry Steals Starting at $10
-    *   Frenchie Mini Couture
+    *   Free Shipping: Parvez Taj Up to 70% Off
+    *   Free Shipping: Luxe Bedding Up to 85% Off
     *   Bobeau Including Plus &. Petites
     *   Date Night: Dresses We Love Under $40
-    *   Free Shipping: Chic Blankets &. Bedding
+    *   Gracia
 *   WomenShop Sale Events
     
+    *   Romeo &. Juliet Couture Up to 75% Off
+    *   Women's Shoes Up to 65% Off
+    *   Sunday Steals: Styles Up to 75% Off
+    *   Free Shipping: Trend Jewelry Starting at $15
+    *   On Trend: Leather Wrap Bracelets &. More Starting at $15
+    *   Clinical Skin Care Up to 90% Off
+    *   DR2 by Daniel Rainn &. Pleoine Incl. Special Sizes
+    *   Joe Fresh Starting at $10 Including Plus
+    *   Splendid
+    *   Spring Arrivals: ZAC Zac Posen
+    *   Wow Couture
+    *   Keds
+    *   Joy &. Mario Espadrilles and More Under $40
+    *   Religion Up to 70% Off
+    *   TAVIK Swim
+    *   ANNA Footwear Under $25
+    *   Kensie Sleep &. More Starting at $20
+    *   Girls' Night In: Face Masks for All
+    *   Demeter Fragrance Library
+    *   Technomarine Watches Up to 70% Off
     *   Tom Ford Sun
     *   Go Couture Sweater Blowout
     *   1.State
     *   bebe Swim &. More
-    *   UGG
-    *   Chantelle Lingerie
     *   Kork-Ease
-    *   On-Trend Spring Earrings &. More Under $25
+    *   Chantelle Lingerie
     *   Lush
+    *   On-Trend Spring Earrings &. More Under $25
+    *   Ivy Kirzhner
     *   Trend Report: Embroidered Styles We Love
     *   ARGENTO VIVO
-    *   Ivy Kirzhner
-    *   Handbags We Love Under $50
-    *   Layering Jewelry ft. Virgins Saints &. Angels
     *   Olivia Miller Under $50
+    
+    *   Tart Maternity
     *   Fun Flats Starting at $25
     *   Skin Chemists Up to 80% Off
-    *   Tart Maternity
     *   Belly Bandit
     *   Premium Denim Up to 70% Off
     *   Cashmere Up to 80% Off
@@ -111,7 +145,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Dresses for All Occasions Up to 75% Off
     *   Cozy &. Cool: Sweaters Up to 80% Off
     *   Faux Fur Accessories &. More Starting at $10
-    
     *   Seasonal Steals: Coats Up to 75% Off
     *   PJ Salvage Up to 60% Off
     *   TOV
@@ -127,42 +160,43 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Fragrances We Love Starting at $10
     *   Korean Beauty: Scinic, Asamo &. More
     *   Panier des Sens
+    *   Handbags We Love Under $50
+    *   Layering Jewelry ft. Virgins Saints &. Angels
     *   Backpacks &. Duffles ft. JanSport
-    *   UGG Home &. Accessories
-    *   UGG Sleep
-    *   Blend Mineral Cosmetics Up to 80% Off
-    *   Dynamic Innovations Up to 90% Off
-    *   ghd: good hair day, every day
-    *   Gracia
     *   Nice Ice: Sparkling Jewelry Steals Starting at $10
     *   Bobeau Including Plus &. Petites
     *   Date Night: Dresses We Love Under $40
+    *   Gracia
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Accessories
-    *   Lingerie
     *   Handbags
+    *   Lingerie
+    *   Tech Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Men's Final Few Up to 75% Off
+    *   Men's Shoes Up to 65% Off
+    *   Brooks Brothers Tailored Clothing
+    *   Leather Bags &. More ft. Fossil
+    *   Ben Sherman Dress Shirts &. More
+    *   Technomarine Watches Up to 70% Off
+    *   Aldo Men
     *   Thomas Dean
-    *   UGG Men
     *   Diesel Men
+    
     *   Men's Cozy Sweaters Up to 60% Off
     *   Men's Cold-Weather Accessories
     *   Men's Boots Up to 65% Off
     *   Filson Watches &. More Up to 65% Off
-    
     *   Arka Tees Under $20
     *   Josef Seibel
     *   Backpacks &. Duffles ft. JanSport
-    *   UGG Men's Lounge
     *   Robert Barakett
-    *   Hip &. Bone
-    *   John Varvatos
     
     Shop By Category
     *   Clothing
@@ -171,58 +205,58 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Baby Aspen Gifts
+    *   Joe Fresh Kids
+    *   Carter's
     *   Tart Maternity
     *   Belly Bandit
-    *   UGG Kids
     *   Kids' Outerwear Up to 70% Off
     *   Winter Finale: Kids' Boots Up to 50% Off
     *   Mimi &. Maggie: Boho Looks for Girls
-    *   Frenchie Mini Couture
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Girls' Shoes
-    *   Boys Sizes 2T-7
-    *   Girls Sizes 7-16
-    *   Kids Accessories
     *   Baby Gear &. Essentials
+    *   Girls Sizes 7-16
+    *   Boys Sizes 2T-7
+    *   Girls' Shoes
     *   Baby Boy
     *   Baby Girl
+    *   Kids Accessories
     *   Boys Sizes 8-20
     *   Boys' Shoes
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Jarv Tech Accessory Blowout
     *   Storage &. Organization Essentials from $10
+    *   Free Shipping: Picnic Steals for Spring
     *   Free Shipping: Parvez Taj Up to 70% Off
     *   Free Shipping: Luxe Bedding Up to 85% Off
-    *   UGG Home &. Accessories
-    *   Free Shipping: Picnic Steals for Spring
-    *   Free Shipping: Global-Inspired Decor Up to 70% Off
-    *   Free Shipping: Chic Blankets &. Bedding
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Outdoor Living
+    *   Bedding
     *   Organization
-    *   Luggage &. Travel
     *   Bath
+    *   Luggage &. Travel
     *   Kitchen &. Tabletop
 *   BeautyShop Sale Events
     
+    *   Clinical Skin Care Up to 90% Off
+    *   Girls' Night In: Face Masks for All
+    *   Demeter Fragrance Library
     *   Skin Chemists Up to 80% Off
     *   Fragrances We Love Starting at $10
     *   Korean Beauty: Scinic, Asamo &. More
     *   Panier des Sens
-    *   Blend Mineral Cosmetics Up to 80% Off
-    *   Dynamic Innovations Up to 90% Off
-    *   ghd: good hair day, every day
     
     Shop By Category
     *   Skin Care
-    *   Makeup
     *   Fragrance
     *   Bath &. Body
+    *   Makeup
     *   Hair Care
     *   Tools &. Accessories
     *   Nails
