@@ -133,23 +133,23 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+Want to understand more about demand path optimization and how to use it to your advantage? Our VP of Sales and Programmatic Strategy, @Requidan will lay it all out at @adexchanger #PROGIO San Francisco, April 10-11. See you there! bit.ly/2s8Ae3X
+
+About 13 hours ago
+
 Honored to be part of an influential platform! Thanks @Beet\_TV for interviewing us! twitter.com/Beet\_TV/…
-
-About 4 days ago
-
-Check out our Senior BizDev Manager @mrmistry's take on diversifying content distribution and why it's better for branding and trust martechseries.com/an… via @MarTechSeries #PredictionsSeries2018
-
-About 4 days ago
-
-My week on Twitter : 4 Mentions, 86.3K Mention Reach, 2 Likes, 3 Retweets, 31K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/kq8V…
 
 About 5 days ago
 
-Our biggest fans this week: @StartUpRealTime, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/6SKz…
+Check out our Senior BizDev Manager @mrmistry's take on diversifying content distribution and why it's better for branding and trust martechseries.com/an… via @MarTechSeries #PredictionsSeries2018
+
+About 5 days ago
+
+My week on Twitter : 4 Mentions, 86.3K Mention Reach, 2 Likes, 3 Retweets, 31K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/kq8V…
 
 About 6 days ago
 
-.@Requidan discusses the importance of discovering new audiences and why advertisers should remain content neutral adexchanger.com/the-… @adexchanger
+Our biggest fans this week: @StartUpRealTime, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/6SKz…
 
 Last week
 
