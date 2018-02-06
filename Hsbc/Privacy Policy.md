@@ -99,7 +99,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Regulatory capital securities
         *   Credit ratings last item in this group
     
-    *   Our investment case Thinking of investing in HSBC? Read up on our strategy and performance.
+    *   Annual Results 2017 HSBC Holdings plc will announce its Annual Results on 20 February.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
