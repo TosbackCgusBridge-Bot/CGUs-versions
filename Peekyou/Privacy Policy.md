@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 18%  7% 
+What is PeekScore? Public Records &. Background Checks 18%  8% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7% 
+Facebook 8% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,53 +213,53 @@ Facebook 7% 
     
 *   Show Less ...
 
-Twitter 7% 
+Twitter 8% 
+
+*   Francis S. Collins - NIHDirector
+    
+*   IRS - IRSnews
+    
+*   Justice Department - TheJusticeDept
+    
+*   Federal Reserve - federalreserve
+    
+*   Show More ...
 
 *   HIV.gov - HIVGov
     
 *   NIH - NIH
     
-*   Justice Department - TheJusticeDept
-    
-*   U.S. FDA - FDArecalls
-    
-*   Show More ...
-
-*   FTC - FTC
-    
-*   HealthCare.gov - HealthCareGov
-    
-*   HHS.gov - HHSGov
+*   SAMHSA - samhsagov
     
 *   Free Privacy Policy - FreePrivacy1
     
-*   IRS - IRSnews
-    
 *   Cristiano Ronaldo - Cristiano
+    
+*   HHS.gov - HHSGov
+    
+*   HealthCare.gov - HealthCareGov
+    
+*   U.S. FDA - FDArecalls
     
 *   SBA - SBAgov
     
-*   Francis S. Collins - NIHDirector
+*   FTC - FTC
     
 *   Bush Library - Bush41Library
     
-*   EuropeanPrivacyAssoc - europeanprivacy
+*   CDC - CDCgov
     
-*   Mabuhay Miles - PALMabuhayMiles
-    
-*   U.S. Census Bureau - uscensusbureau
+*   FDA Drug Information - FDA\_Drug\_Info
     
 *   U.S. FDA - US\_FDA
     
-*   Federal Reserve - federalreserve
-    
 *   OAIC - OAICgov
     
-*   CDC - CDCgov
+*   U.S. Census Bureau - uscensusbureau
     
 *   Show Less ...
 
-Instagram 7% 
+Instagram 8% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -267,29 +267,29 @@ Instagram 7% 
     
 *   Privacy Policy - insta\_privacy\_policy
     
-*   privacypolicy - privacypolicy4072
+*   Privacy Policy. - privacypolicy.6974
     
 *   Show More ...
 
+*   Privacy Policy❌☠️ - prv.kennochakt
+    
+*   privacypolicy - privacypolicy4072
+    
 *   privacy&policy - privacyandpolicy
     
 *   Рогов Хуго - privacypolicy
     
+*   Private - \_privacypolicy\_\_
+    
 *   Ray - terms\_privacy\_\_policy\_\_
     
-*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
-    
 *   Privacy Policy games - privacypolicygames
-    
-*   Alexi John - \_privacypolicy\_\_
     
 *   privacy policy - privacypolicy5831
     
 *   Privacy Policy - privacypolicy7229
     
-*   Privacy policy - privacypolicy3288
-    
-*   Privacy Best Policy ✝️ - carefreeprinxess
+*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
     
 *   Privacy Policy games - privacypolicygames3589
     
@@ -299,23 +299,17 @@ Instagram 7% 
     
 *   police instagram - privacy\_\_policy\_\_
     
-*   Privacy Policy - activesafeaccount2k15\_
-    
 *   Djavid Johnson - \_privacy\_policy
     
 *   PrivacyPolicy - privacypolicy4020
-    
-*   privacypolicy - privacypolicy7690
     
 *   Terms &. Privacy Policy - policytermsprivacy
     
 *   privacypolicy - privacypolicy4064
     
+*   privacypolicy - privacypolicy7690
+    
 *   Dolphin - privacypolicy\_\_
-    
-*   Privacy Policy - privacy\_police\_
-    
-*   Privacy Policy - mrprivacypolicy
     
 *   Privacy Policy - aqua\_blade
     
@@ -323,13 +317,17 @@ Instagram 7% 
     
 *   priVacy policy, - lololololol380
     
+*   Privacy Policy - activesafeaccount2k15\_
+    
 *   Loading... - privacy.policy\_\_
+    
+*   Privacy Policy - mrprivacypolicy
     
 *   privacy policy - privacy.p
     
 *   Show Less ...
 
-Pinterest 18%  Wikipedia 7% 
+Pinterest 18%  Wikipedia 8% 
 
 *   P3P
     
@@ -337,10 +335,10 @@ Pinterest 18%  Wikipedia 7% 
     
 *   Test
     
-    Test, TEST or Tester may refer to: Test (assessment), an assessment intended to measure the respondents' knowledge or other abilities. Medical test, to detect ...
+    Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 18%  Linkedin 18%  Music 7% 
+Google+ 18%  Linkedin 18%  Music 8% 
 
 *   Pandora
     
@@ -386,49 +384,22 @@ Google+ 18%  Linkedin 18%  Music 7% 
     
 *   Show Less ...
 
-Photo Albums 7% 
+Photo Albums 8% 
 
-*   Flickr
+*   Flickriver
     
-    How can the answer be improved?
-    
-*   Flickr
-    
-    This page describes our privacy practices with respect to Flickr. Account Information. In your profile privacy settings, you can control who is able to see different parts of your profile, including email address, IM names, real name, and current city.
-    
-*   Privacy Policy
-    
-    To learn more about our privacy practices with respect to Flickr, please select your Yahoo Privacy Center.
-    
-*   Flickr Privacy Policy and Notice | Homeland Security
-    
-    Flickr Privacy Policy and Notice. The Department of Homeland Security (DHS or Department) will use this Flickr page for external relations (communications/outreach/public dialogue), to make photos and images widely available to the general public, and promote transparency and accountability.
-    
-*   Show More ...
-
-*   Privacy Settings and Safety Tips for Using Flickr
-    
-    In this article we’ll share a few privacy settings that anyone can use within Flickr so that they’re getting maximum privacy. Getting Started
-    
-*   Flickr Privacy Policy
-    
-    Flickr, now a part of Yahoo!, is controlled by the Yahoo! privacy policy and terms of use. The Flickr privacy policy lists only two collection/use practices: You can decide who can see your uploaded pictures (public, friend-restricted, private)
-    
-*   Flickr API Terms of Service
-    
-    Jun 13, 2017 · Flickr may also impose limits on certain features and services or restrict your access to parts or all of the Flickr APIs or the Flickr Web site without notice or liability. 6. Fees and Payments. Flickr is committed to free and open access to our APIs for commercial and non-commercial purposes.
+    Flickriver - view images as a 'river of photos' and more...
     
 *   Flickr
     
-    Flickr is a photo sharing community which provides you with an easy way to post and share photos online and add meaningful metadata and comments to photos.
+    Flickr (pronounced "flicker") is an image-and video-hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on 20 March 2005 ...
     
-*   Xconomy: 11 Reasons Why Flickr, Not Facebook, Is the …
+*   The World's Best Photos
     
-    2\. Flickr’s redesigned website showcases big, beautiful versions of your photos on endlessly scrolling pages. It’s vastly superior to Facebook’s photo albums and a huge improvement over the previous Flickr design. 3. You can easily share your Flickr photos back to Facebook—or Twitter, Tumblr, Pinterest, WordPress, Blogger, or LiveJournal. 4.
+    Flickr Hive Mind is a data mining tool for the Flickr database of photography. Flickr Hive Mind is a search engine as well as an experiment in the power of Folksonomies
     
-*   Show Less ...
 
-Myspace 7% 
+Myspace 8% 
 
 *   Privacy Policy - 49086242
     
@@ -452,7 +423,7 @@ Myspace 7% 
     
 *   Show Less ...
 
-Documents 7% 
+Documents 8% 
 
 *   Generic Privacy Policy template - TermsFeed
     
@@ -498,7 +469,7 @@ Documents 7% 
     
 *   Show Less ...
 
-Web Search 7% 
+Web Search 8% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -544,11 +515,11 @@ Web Search 7% 
     
 *   Show Less ...
 
-Images 7% 
+Images 8% 
 
 9
 
-18
+20
 
 31
 
