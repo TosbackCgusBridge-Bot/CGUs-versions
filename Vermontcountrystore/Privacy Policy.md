@@ -1,48 +1,43 @@
-Privacy Policy Introduction
+Shop Sweaters 
 
-This website, http://www.vermontcountrystore.com, is owned and operated by The Vermont Country Store. This Privacy Policy pertains to information collected online via this website, and does not apply to information collected from other sources. The Vermont Country Store may be contacted by email at customerservice@vermontcountrystore.com, by phone at 800-547-7849, or by mail at:
+Shop Ragg Wool 
 
-The Vermont Country Store 5650 Main Street Manchester Center, VT 05255
+Shop Bathrobes 
 
-Information Collected
+Shop Men's Sleepwear 
 
-Certain anonymous information is collected automatically by our site. This information may include visitor domain name, IP address, and referring domain. This information is tracked in server logs, and may be used for troubleshooting purposes. Our website also collects aggregate information, such as page views and visits, in an effort to keep our content relevant to our customers. This information is not customer-specific.
+Shop Blankets 
 
-Personal information collected by our site is used for transactional and/or promotional and marketing purposes, and is encrypted using the Secure Socket Layer (SSL) protocol before transmission and storage. Personal information may include your name, address, and credit card number. We collect and use such information to better enhance your shopping experience, and for other transactional and promotional purposes, such as to:
+Shop Mattress Pads 
 
-*   Process, track, and fulfill your orders
-*   Market our products and services
-*   Inform you of special offers and promotions
-*   Include you in surveys and contests
-*   Manage and develop The Vermont Country Store's business and operations
-*   Contact you for any other legitimate business purpose
+Shop Jewelry 
 
-We may share your name and address information with certain trusted resources unless you choose to be put on our do-not-share list. To be put on our do-not-share list, please contact our Customer Service department.
+Shop Perfume &. Fragrances 
 
-Cookies and Tracking Pixels
+Shop Spirited Chocolates 
 
-A Cookie is a small data file stored by your Web browser on your computer's hard drive. Cookies allow The Vermont Country Store website to keep track of your order information, such as items placed in your Shopping Bag. Cookies also allow us to provide customers with a more personalized experience.
+Shop Classic Candy 
 
-Tracking Pixels are small images that are used by the website to identify pages that are being viewed by customers. No personal data is collected when these images are viewed. Aggregate data from Tracking Pixels is used to improve the customer experience. Cookies and Tracking Pixels may be disabled in your browser. If disabled, however, certain portions of The Vermont Country Store website may not function.
+Shop Soups, Sauces &. Sides 
 
-The Vermont Country Store may contract with third parties who may also use Cookies and Tracking Pixels to collect data on our behalf, or to provide services such as credit card processing, shipping, promotional services or data management. These third parties are prohibited from sharing that information with anyone other than The Vermont Country Store or our partners.
+Shop Snacks 
 
-Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links: 
+Shop Kitchen Gadgets 
 
-http://www.aboutads.info/choices or http://networkadvertising.org/choices. 
+Shop Cookware &. Bakeware 
 
-Account Registration
+Shop Personal Hygiene 
 
-To make online shopping easier, you may register for an account on our website. Information provided by you, such as name and billing address, will be stored securely for future use. You may access and update this information at any time. By creating an account and sharing you billing or email address, you will be added to our customer mailing list, and may receive periodic mailings from us. You may opt out of these mailings at the time of account registration, or by contacting our Customer Service department.
+Shop Bath &. Body 
 
-Children’s Privacy
+Vermont Country Store - Original General Store - Brands From the Past and Classic Products.
 
-Our Web site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+Offering a Huge Selection of Top Quality Classic and Hard-to-Find Products.
 
-California Privacy Rights
+Take a journey into the general store of yesteryear with The Vermont Country Store. As the purveyors of practical and hard-to-find products, we offer you a host of quality merchandise from around the block and around the world. Browse through our site for wonderful, classic products. The Vermont Country Store is a family owned and operated business with roots in over 100 years of Orton family storekeepers.
 
-The Vermont Country Store may from time to time share your personal information with third parties for their direct marketing purposes. California residents who provide personal information when purchasing products may request information about the customer information shared with other businesses for their own direct marketing uses. Each consumer may request our direct marketing information once per year, and our response will cover the immediately preceding calendar year. This information would include the categories of shared customer information and the names and addresses of those businesses with which we shared customer information.
+The Orton Family Business - Run with Old-Fashioned Values and Pride.
 
-Policy Changes
+"We still go to great lengths to find products that aren't sold anywhere else," says Eliot Orton.
 
-Changes to this policy may occur in the future. Changes to our Privacy Policy will be posted to The Vermont Country Store website. We encourage you to review this Privacy Policy periodically.
+Our original general store and catalog business were built on the premise that all the merchandise we sell must be durable and above all practical. We've maintained this tradition for more than 70 years, continually finding and sharing only the best classic products as well as unique and hard-to-find products. Your satisfaction is our top priority. That's why every item is backed by our no-hassle, no-fuss 100% guarantee meaning that we will exchange any item or refund your money if it does not meet with your satisfaction. We provide polite, courteous service and proudly uphold our Customer Bill of Rights.
