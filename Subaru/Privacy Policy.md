@@ -137,7 +137,7 @@ Up to
 
 2018 WRX Limited shown
 
-Ascent COMING SOON 2018 Ascent
+Ascent COMING SOON 2019 Ascent
 
 *   Overview
 *   Photos &. Videos
