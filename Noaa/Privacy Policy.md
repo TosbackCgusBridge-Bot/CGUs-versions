@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Seeing shadows or not: How the groundhog scores against the climate record AROUND NOAA // NOAA’s GOES-S to boost weather forecast accuracy for western U.S., Alaska, Hawaii Explore your world at the NOAA Open House NOAA: 2017 was 3rd warmest year on record for the globe
+Enter Search Terms Seeing shadows or not: How the groundhog scores against the climate record What is the likelihood of 6 more weeks of winter? AROUND NOAA // Explore your world at the NOAA Open House Study: People in parts of U.S. and beyond breathe unhealthy ozone pollution more than 2 weeks a year NOAA’s GOES-S to boost weather forecast accuracy for western U.S., Alaska, Hawaii
 
 *   About our agency
 *   News and features
