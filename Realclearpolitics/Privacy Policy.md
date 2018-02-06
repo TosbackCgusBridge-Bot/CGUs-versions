@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Byron York_: Memo: Steele Dossier Enabled FISA Warrant, Surveillance
+*   _Sen. Ron Wyden_: #ReleaseTheMemo Wasn't About Transparency
     
-*   _Roger Cohen_: Trump's Corruption of the American Republic
+*   _Byron York_: Steele Wrote Another Trump Memo, Was Fed Info From Dems
     
-*   _Mark Penn_: Get All the Facts Out on the FBI, Justice Department
+*   _David Rothkopf_: Who's Worse, Trump or Nixon?
     
-*   _Abigail Tracy_: Will #FreeTheMemo Backfire?
+*   _Alexander Bolton_: Polls Swing Toward Republicans, Easing Midterm Fears
     
-*   _Charles Hurt_: Trump Outlines America's Greatness to Dem Disgust
+*   _Elena Schneider_: Panic Time: Democratic Cash Swamps House Republicans
     
-*   _Nate Cohn_: Last 2 Weeks of Polls Are Great for Republicans. Is This a Shift?
+*   _Steve Moore_: The Unseemly Sight of Dems Sitting on Their Hands
     
-*   _A.B. Stoddard_: Trump &. GOP Could Be Paralyzed Without a DACA Fix
+*   _Matthew Yglesias_: Trump Immigration Crackdown Is Recipe for National Decline
     
-*   _Michael Strain_: Jobs Report Could Signal a Real Turning Point
+*   _Robert Samuelson_: Workable Immigration Policy Means Legalization and a Wall
     
-*   _David Brooks_: The Abortion Memo
+*   _Sharyl Attkisson_: Did FBI Violate Woods Procedures on Vetting FISA Claims?
     
-*   _Julia Belluz_: How Women's Reproductive Rights Stalled Under Trump
+*   _Molly McKew_: Twitter Bots, Trump Fans Made #ReleaseTheMemo Go Viral
     
-*   _Ahmed Charai_: Don't Ignore Kushner's Quiet Mideast Gains
+*   _Andrew Klavan_: The Media's Lies Are Unraveling
     
-*   _Pat Garafalo_: Release the Memo, and Everything Else
+*   _James Robbins_: The Obama Administration's Troubling Abuse of Power
     
-*   _Kimberley Strassel_: Memo Reading for Non-Partisans
+*   _E.J. Dionne_: Nunes Paves Trump's Road to Autocracy
     
-*   _Eugene Robinson_: Trump Picked a Fight With the FBI. He'll Be Sorry
+*   _Mollie Hemingway_: If You Love Law Enforcement, Criticize FBI Corruption
     
-*   _Patrick Buchanan_: A Never-Trump Press in Near Panic
+*   _Luke Harding_: Why Carter Page Was Worth Watching
     
-*   _Tom Bevan_: The Takeaway: The State of Trump's Union - Positive
+*   _Siegel &. Epstein_: Obama Admin's Landmines Are Detonating--on Dems
     
-*   _Kurt Andersen_: How the GOP Went Crazy
+*   _Charles Blow_: Constitutional Crisis in Slow Motion
     
-*   _Matthew Continetti_: The Back to the Future Democrats
+*   _Seema Verma_: Making Medicaid a Pathway Out of Poverty
     
-*   _Liam Donovan_: Why Top Republicans Are Fleeing the House
+*   _Ben Strauss_: Is Joe Arpaio the Next Roy Moore?
     
-*   _James Arkin_: GOP Sees Reasons for Optimism in 2018 Midterms
+*   _Thomas Lifson_: Joe Manchin's World of Hurt Following SOTU
     
-*   _Will Wilkinson_: The Republican Tax Bill Could Turn Texas Blue
+*   _Taylor &. Johnson_: End the Bias in Campus Sexual-Misconduct Tribunals
     
-*   _Brady &. Parker_: Trump Gains w/Independents, Republicans After Tax Cut Bill
+*   _Catharine MacKinnon_: #MeToo Has Done What the Law Could Not
     
-*   _John Judis_: The Two Sides of Immigration Policy
+*   _Katie Roiphe_: How Twitter Feminism Is Bad for Women
     
-*   _Scott Rasmussen_: Trump Presses His Advantage on Immigration
+*   _Roger Kimball_: I Wanted Cruz to Be President, But Trump Is Working
     
 
 *   Previous
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve40
+    *   Disapprove57Disapprove +17
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve49
     *   Disapprove49Tie
+*   Direction of CountryRasmussen Reports
+    *   Right Direction42
+    *   Wrong Track53Wrong Track +11
 *   President Trump Job ApprovalMonmouth
     *   Approve44
     *   Disapprove48Disapprove +4
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve41
-    *   Disapprove53Disapprove +12
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve44
-    *   Disapprove53Disapprove +9
 
 More Latest Polls In The News
 
-*   Donald Trump Jr.: Nunes Memo Is "Sweet Revenge," Democrats Are "Left Of Commie"
-*   Durbin Echoes Warnings About "Constitutional Crisis" If Trump Fires Mueller or Rosenstein
-*   Maher: The Wall Not Needed Because Bigotry, Racism, Ignorance &. Paranoia In Heart Of Every Trumpster
-*   Nunes: Clear Collusion With The Russians and Hillary Clinton's Campaign, Media Fails To Investigate
-*   CNN's Tapper Grills Gaetz: How Is Nunes Memo Evidence That Mueller Investigation Is Tainted?
+*   Mark Levin: "Hillary Clinton Paid For A Warrant," FBI Colluded With Russians Wittingly or Unwittingly
+*   Schiff: "Can't Get Into Specifics" Whether FISA Judge Knew Dossier Was Backed By Clinton, DNC
+*   Dem Rep. Swalwell: We Can't Rely On "Insurance Policy" Mueller If Trump Is Undermining Investigation
+*   24-Year FBI Special Agent: Comey Made Up His Own Rules, Let Political Opinions Infect Investigations
+*   Phil Mudd Warns Trump: "Think Again" About War With Intel Community, "We're Going To Win"
 
 *   Politics
 *   Policy
