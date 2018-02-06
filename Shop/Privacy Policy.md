@@ -268,6 +268,7 @@ Menu Close Menu Close
     *   Home Laptop Deals
     *   ThinkPad Deals
     *   Desktop Deals
+    *   Tablet Deals
     *   Monitor Deals
     *   Accessory Deals
     *   Clearance
@@ -277,8 +278,6 @@ Menu Close Menu Close
     *   *   Stylish, Dependable and Affordable PCs
             
         *   Monitor Deals
-            
-        *   Tablet Deals
             
 *   Support
     *   Sales Enquiries
