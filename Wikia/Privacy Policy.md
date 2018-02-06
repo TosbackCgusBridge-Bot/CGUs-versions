@@ -63,4 +63,4 @@ If the Company becomes involved in a merger or acquisition or any form of sale o
 
 We may also share with third parties aggregated, non-personal information, such as the number of new user registrations over a specific time period or the number of users who edited a particular community.
 
-<link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/\_\_cb1517623747/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />
+<link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/\_\_cb1517832442/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />
