@@ -384,7 +384,7 @@ We store information about players and visitors to our sites on servers located 
 
 Zynga has certified compliance with the EU-U.S. Privacy Shield, effective as of the date our certification is posted at https://www.privacyshield.gov/list. We adhere to the relevant Privacy Shield Principles for all personal data received from participating European countries in reliance on the Privacy Shield framework. All of our U.S. entities and subsidiaries listed in our Privacy Shield certification record, accessible here, also adhere to the Privacy Shield Principles.
 
-Participating European countries' citizens should direct any questions, concerns or complaints regarding Zynga handling of personal information or compliance with the Privacy Shield to Zynga at:  
+Participating European countries' citizens should direct any questions, concerns or complaints regarding Zynga's handling of personal information or compliance with the Privacy Shield to Zynga at:  
 Privacy Shield Specialist  
 Zynga Inc.  
 699 8th Street  
