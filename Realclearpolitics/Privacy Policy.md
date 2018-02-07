@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Sen. Ron Wyden_: #ReleaseTheMemo Wasn't About Transparency
+*   _Salena Zito_: Jeff Sessions: FBI Needs 'to Have a Fresh Start'
     
-*   _Byron York_: Steele Wrote Another Trump Memo, Was Fed Info From Dems
+*   _Jonathan Rauch &. Benjamin Wittes_: Boycott the Republican Party
     
-*   _David Rothkopf_: Who's Worse, Trump or Nixon?
+*   _Scott Jennings_: Dems Squandering Chance for Gains in Congress
     
-*   _Alexander Bolton_: Polls Swing Toward Republicans, Easing Midterm Fears
+*   _Ruchir Sharma_: The Stock Market Is Volatile Again. Get Used to It.
     
-*   _Elena Schneider_: Panic Time: Democratic Cash Swamps House Republicans
+*   _Patricia Murphy_: Crumbs? 'I'll Take It!' And Democrats Should Too
     
-*   _Steve Moore_: The Unseemly Sight of Dems Sitting on Their Hands
+*   _Eugene Robinson_: Memo Proves How Far GOP Has Plunged Into Madness
     
-*   _Matthew Yglesias_: Trump Immigration Crackdown Is Recipe for National Decline
+*   _Angelo Codevilla_: Jail the Guilty, Repeal FISA
     
-*   _Robert Samuelson_: Workable Immigration Policy Means Legalization and a Wall
+*   _Margery Kraus_: Message From Davos: Invest in 'Our Shared Future'
     
-*   _Sharyl Attkisson_: Did FBI Violate Woods Procedures on Vetting FISA Claims?
+*   _Damir Marusic_: The Dangers of Democratic Determinism
     
-*   _Molly McKew_: Twitter Bots, Trump Fans Made #ReleaseTheMemo Go Viral
+*   _Emily Schultheis_: Fear and Loathing in the Bundestag
     
-*   _Andrew Klavan_: The Media's Lies Are Unraveling
+*   _Alice Lloyd_: The Martyrdom of Rose McGowan
     
-*   _James Robbins_: The Obama Administration's Troubling Abuse of Power
+*   _Paul Waldman_: With Memo, Republicans Have Discredited Themselves
     
-*   _E.J. Dionne_: Nunes Paves Trump's Road to Autocracy
+*   _Victor Davis Hanson_: The FISA-Gate Boomerangs
     
-*   _Mollie Hemingway_: If You Love Law Enforcement, Criticize FBI Corruption
+*   _John Cassidy_: Trump Goes Quiet as Stock Market Slumps
     
-*   _Luke Harding_: Why Carter Page Was Worth Watching
+*   _Peter Roff_: Don't Sweat the Dow Yet
     
-*   _Siegel &. Epstein_: Obama Admin's Landmines Are Detonating--on Dems
+*   _Jesse Ferguson_: Will Dems Have Enough Money to Win Congress?
     
-*   _Charles Blow_: Constitutional Crisis in Slow Motion
+*   _Tom Bevan_: Democrats Want to Win in 2018. They Shouldn't
     
-*   _Seema Verma_: Making Medicaid a Pathway Out of Poverty
+*   _Errol Louis_: Democrats Need Better Cents
     
-*   _Ben Strauss_: Is Joe Arpaio the Next Roy Moore?
+*   _Joshua Keating_: What If Obama's Iran Deal Was a Mistake?
     
-*   _Thomas Lifson_: Joe Manchin's World of Hurt Following SOTU
+*   _Gene Kopelson_: Trump's Echo of Reagan - as Governor &. President
     
-*   _Taylor &. Johnson_: End the Bias in Campus Sexual-Misconduct Tribunals
+*   _Chris Cillizza_: Trump Thinks Not Clapping for Him Is 'Treasonous'
     
-*   _Catharine MacKinnon_: #MeToo Has Done What the Law Could Not
+*   _Dan McLaughlin_: Trump's 'Treason' Joke &. Dem Double Standards
     
-*   _Katie Roiphe_: How Twitter Feminism Is Bad for Women
+*   _Richard Cohen_: President Trump Is a Modern Day Joe McCarthy
     
-*   _Roger Kimball_: I Wanted Cruz to Be President, But Trump Is Working
+*   _David Garrow_: Democrats and FBI Abuses
     
 
 *   Previous
@@ -250,10 +250,10 @@ RecommendedPolitics
 *   Investigations
 
 *   Republicans See Reasons for Optimism in 2018 Midterms
-*   Trump Lauds Republican Successes as New Deadlines Loom
-*   Rep. Nunes Interview With "Special Report's" Bret Baier
+*   House Republicans Working on Averting Another Shutdown
+*   Trump on Dem SOTU Reaction: "Can We Call That Treason?"
 *   Pelosi: Tax Overhaul Has Cast a "Dark Cloud" Over Washington
-*   Five Takeaways From Trump's Speech
+*   Trump Lauds Republican Successes as New Deadlines Loom
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve40
-    *   Disapprove57Disapprove +17
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve35
+    *   Disapprove58Disapprove +23
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve49
-    *   Disapprove49Tie
-*   Direction of CountryRasmussen Reports
-    *   Right Direction42
-    *   Wrong Track53Wrong Track +11
-*   President Trump Job ApprovalMonmouth
-    *   Approve44
-    *   Disapprove48Disapprove +4
+    *   Disapprove50Disapprove +1
+*   2018 Generic Congressional VoteIBD/TIPP
+    *   Democrats46
+    *   Republicans41Democrats +5
+*   Direction of CountryIBD/TIPP
+    *   Right Direction45
+    *   Wrong Track54Wrong Track +9
 
 More Latest Polls In The News
 
+*   Audio: Russian Comedians Prank Called Rep. Adam Schiff, Promised Him Naked Photos Of Trump
+*   Waters Grills Mnuchin on Russia Sanctions, CIA Meeting With Russian Intel: What's Your Excuse?
 *   Mark Levin: "Hillary Clinton Paid For A Warrant," FBI Colluded With Russians Wittingly or Unwittingly
 *   Schiff: "Can't Get Into Specifics" Whether FISA Judge Knew Dossier Was Backed By Clinton, DNC
 *   Dem Rep. Swalwell: We Can't Rely On "Insurance Policy" Mueller If Trump Is Undermining Investigation
-*   24-Year FBI Special Agent: Comey Made Up His Own Rules, Let Political Opinions Infect Investigations
-*   Phil Mudd Warns Trump: "Think Again" About War With Intel Community, "We're Going To Win"
 
 *   Politics
 *   Policy
