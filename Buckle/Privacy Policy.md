@@ -23,7 +23,7 @@ Shop our Valentine’s Day Guide for gifts they’ll love.
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES
 *   MY BAG
