@@ -9,6 +9,7 @@
     *   Preparing for GDPR
     *   Martech Challenge
     *   InfoSec
+    *   Adobe + Tealium
 *   Integrations
 *   Resources
     *   Case Studies
@@ -46,6 +47,7 @@
     *   Preparing for GDPR
     *   Martech Challenge
     *   InfoSec
+    *   Adobe + Tealium
 *   Integrations
 *   Resources
     *   Case Studies
