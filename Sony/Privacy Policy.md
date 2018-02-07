@@ -205,7 +205,7 @@ The Sony Rewards Mobile App
 
 Are you a Trial Blazer? Learn how you can get a 15% off discount code for PlayStation Store.
 
-6 days ago
+7 days ago
 
 View Tweet
 
