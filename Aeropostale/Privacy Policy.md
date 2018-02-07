@@ -25,9 +25,9 @@ Close submenu ( Girls ) Girls
 *   Jackets + Vests
 *   Shoes + Accessories
 *   Extended Sizes
+*   Trending
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
-*   Trending
 
 Close submenu ( Featured ) Featured
 
@@ -144,6 +144,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Skinny
 *   Ankle Straight
 *   Bootcut
+*   Boyfriend
 
 Close submenu ( Guys Jeans ) Guys Jeans
 
@@ -344,6 +345,7 @@ Menu Find a Store Aeropostale
     *   Jackets + Vests
     *   Shoes + Accessories
     *   Extended Sizes
+    *   Trending
     
     *   Live Love Dream
         *   View All
@@ -353,7 +355,6 @@ Menu Find a Store Aeropostale
         *   Undies
         *   Sleep
         *   Accessories
-    *   Trending
     
 *   Guys
     
@@ -410,6 +411,7 @@ Menu Find a Store Aeropostale
         *   Skinny
         *   Ankle Straight
         *   Bootcut
+        *   Boyfriend
     
     *   Guys Jeans
         *   View All
@@ -593,4 +595,4 @@ Stay Connected
 *   Give $15, Get $15
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag anExtra 10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-C6LWSBBM3QQ2at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
