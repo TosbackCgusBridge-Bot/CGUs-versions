@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 5 Mentions, 87.2K Mention Reach, 11 Likes, 5 Retweets, 5.16K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/16fy…
+
+About 5 hours ago
+
+Our biggest fans this week: @MarTechSeries, @mrmistry, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/hrgu…
+
+About 16 hours ago
+
 Want to understand more about demand path optimization and how to use it to your advantage? Our VP of Sales and Programmatic Strategy, @Requidan will lay it all out at @adexchanger #PROGIO San Francisco, April 10-11. See you there! bit.ly/2s8Ae3X
 
-About 13 hours ago
+About 2 days ago
 
 Honored to be part of an influential platform! Thanks @Beet\_TV for interviewing us! twitter.com/Beet\_TV/…
 
-About 5 days ago
+About 6 days ago
 
 Check out our Senior BizDev Manager @mrmistry's take on diversifying content distribution and why it's better for branding and trust martechseries.com/an… via @MarTechSeries #PredictionsSeries2018
 
-About 5 days ago
-
-My week on Twitter : 4 Mentions, 86.3K Mention Reach, 2 Likes, 3 Retweets, 31K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/kq8V…
-
 About 6 days ago
-
-Our biggest fans this week: @StartUpRealTime, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/6SKz…
-
-Last week
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
