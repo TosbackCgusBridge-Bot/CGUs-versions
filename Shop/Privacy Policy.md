@@ -322,24 +322,21 @@ Compare (0)
 
 Home >. Filter by specs Offers SURPRISE YOUR SWEETIE
 
-GIVE THEM A GIFT THAT LASTS. Select top items on sale through Feb. 7  
-will ship by Valentine’s Day!
+GIVE THEM A GIFT THAT LASTS. Select top items on sale through Feb. 7 will ship by Valentine's Day!
 
-LAPTOPS &. MORE UP TO $755 OFF >>
+LAPTOPS &. MORE UP TO $370 OFF >>.
 
 Flex 5 (15")
 
 Up to $300 off on the sleek, portable and flexible PC that transitions with your schedule.
 
-Shop now >
+Shop Now >.
 
-Different innovates better
+Breakthrough Performance
 
-Transform your data center with ThinkSystem and ThinkAgile solutions.
+Gain real business insights in real-time
 
-Play Video
-
-Learn more
+ThinkSystem DS4200 >. ThinkSystem DS6200 >.
 
 *   1
 *   2
