@@ -8,9 +8,9 @@
     *   America's Next Top Model
     *   Black Ink Crew
     *   RuPaul's Drag Race All Stars
+    *   Behind The Ink
+    *   VH1 Beauty Bar
     *   Scared Famous
-    *   Black Ink Crew Chicago
-    *   Martha &. Snoop's Potluck Dinner Party
     *   Brunch With TiffanySee all Shows
 *   News
 *   Digital Originals
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewRuPaul's Drag Race All StarsScared FamousBlack Ink Crew ChicagoMartha &. Snoop's Potluck Dinner PartyBrunch With Tiffanysee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewRuPaul's Drag Race All StarsBehind The InkVH1 Beauty BarScared FamousBrunch With Tiffanysee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
