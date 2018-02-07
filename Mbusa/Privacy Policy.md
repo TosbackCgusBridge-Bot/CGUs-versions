@@ -7,9 +7,6 @@ Daimler AG Data Protection Code of Conduct
 
 Accessing and Updating Your Information
 
-**Freedom of Choice**  
-If you do not want your Personal Information to be made available to any third party, please contact us at myprivacy@mbusa.com so we can block your data accordingly. Note, however, that certain services and/or functions of our Site may not be available if you elect to block your Personal Information. Your use of such service will be your consent to the use of your Personal Information in the way described.  
-  
 **Access**  
 If personal information you have submitted is no longer accurate, current, or complete, and you wish to update it, please do so by sending an e-mail to myprivacy@mbusa.com. Upon appropriate request, we will usually be glad to update or amend your information, but we reserve the right to use information obtained previously to verify your identity or take other actions that we believe are appropriate and lawful.  
   
