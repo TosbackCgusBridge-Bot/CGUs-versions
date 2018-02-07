@@ -1,48 +1,16 @@
-Webmaster please contact Hostgator.com thelawportal.co.uk find something interesting
+_This Site Is Powered By_ Hostgator 404: Page Not Found
 
-*   Find a Lawyer
-*   Attorney Services
-*   Free Lawyer Consultation
-*   Tax Law Attorney
-*   Legal Aid
-*   Pro Bono Attorney
-*   Landlord Tenant Lawyer
-*   Family Law
+This page does not exist
 
-Most Popular Tags Divorce Lawyer Personal Injury Lawsuit Wills and Trusts Labor and Employment Law Criminal Law Civil Litigation Top Five Links:
+Why Am I Seeing This?
 
-*   Divorce Lawyer
-*   Criminal Law
-*   Personal Injury Lawsuit
-*   Civil Litigation
-*   Labor and Employment Law
+A 404 error means that the requested file cannot be found. This can be due to an incorrect URL, a misnamed file, an improper directive within the .htaccess file, or a file having been uploaded to an incorrect folder. Please ensure you typed the correct URL.
 
-Best Links:
+How Do I Fix It?
 
-*   Wills and Trusts
-*   Bankruptcy Lawyers
+Troubleshooting 404 Errors  
+Learn How To Customize This Page
 
-Top Searches:
+For full information on 404 errors and how to resolve them, please contact us, or learn more with the support links above.
 
-*   Misdemeanor Offense
-*   DWI Lawyers
-
-Recent Topics:
-
-*   Child Support Laws
-*   Legal Forms
-
-Recommended Links:
-
-*   Intellectual Property Law
-*   Legal Leads
-
-**Search Here**
-
-Find a Lawyer Attorney Services Free Lawyer Consultation Tax Law Attorney Legal Aid  
-  
-Bookmark this page | Make this your Homepage
-
-I'm an inserted element
-
-abcdcell is row 1 column 1cell is row 1 column 2cell is row 1 column 3cell is row 2 column 1cell is row 2 column 2cell is row 2 column 3
+Want to start your own website? It’s easier than you think! Start Your Site Now!
