@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 06 February 2018 ›
+*   Building Slack for the Linux community and adopting snaps ›
 *   Snapcraft Summit summary – day 5 ›
 *   Ubuntu Desktop weekly update – February 2, 2018 ›
 *   Snapcraft Summit summary – day 3 ›
-*   Tutorial: Install single-server OpenStack with conjure-up ›
-*   Skype now available as a snap for Linux users ›
