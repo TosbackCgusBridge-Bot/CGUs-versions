@@ -159,7 +159,8 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   Swim Shop
     *   Dressy Shop
-    *   Spring Into Layers
+    *   Girls Spring Collections
+    *   Boys Spring Collections
     *   Girls' Knit Kit
     *   Iron Knees Pants
     *   School Uniforms
@@ -497,7 +498,8 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Swim Shop
         *   Dressy Shop
-        *   Spring Into Layers
+        *   Girls Spring Collections
+        *   Boys Spring Collections
         *   Girls' Knit Kit
         *   Iron Knees Pants
         *   School Uniforms
@@ -736,9 +738,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: PINK pin: 3418 DETAILS
+code: CHOCOLATE pin: 3851 DETAILS
 
 Customer Service Menu
 
