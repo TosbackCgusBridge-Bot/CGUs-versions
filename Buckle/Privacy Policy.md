@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Shop our Valentine’s Day Guide for gifts they’ll love.
+These styles have "be mine" written all over them.
 
 *   Women
 *   Men
@@ -23,7 +23,7 @@ Shop our Valentine’s Day Guide for gifts they’ll love.
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES
 *   MY BAG
