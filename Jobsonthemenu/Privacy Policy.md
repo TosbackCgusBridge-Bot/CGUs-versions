@@ -117,6 +117,6 @@ The Talent Network may contain links to other sites for your convenience and inf
 
 **How to Contact Us**
 
-You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at privacypolicy@careerbuilder.com or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
+You can direct questions regarding this Privacy Policy to CareerBuilder by emailing the Customer Service Center or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
 
 (Return to Top)
