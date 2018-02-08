@@ -8,18 +8,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Marc Jacobs
-    *   Marc Jacobs Clothing
-    *   Marc Jacobs Shoes
-    *   Marc Jacobs Jewelry &. Watches
-    *   Festival Prep: Boho Looks We Love
+    *   Johnny Was
+    *   Tea Collection Starting at $8
+    *   Rebecca Taylor
+    *   Melissa Footwear
+    *   Made in Italy: Perla Formentini
+    *   Shahida Parides
+    *   Vacation-Ready Sandals &. Espadrilles
+    *   HAH | Hot-As-Hell Swim
+    *   Bon Voyage: Straw Bags &. Sun Hats
+    *   Resort-Ready Styles ft. Tiare Hawaii
+    *   Paradise Bound: Kaftans, Cover-Ups &. More
+    *   Travel Essentials: Men's Tees &. Swim
+    *   Citizen Eco-Drive Watches &. More
+    *   Flip Flops Starting at $10
+    *   Getaway Ready: Bright Luggage
+    *   Red Wing Up to 55% Off
+    *   Emory Park
+    *   Blanc Noir Sport Up to 70% Off
+    *   Circus by Sam Edelman
+    *   VaVa by Joy Han Under $50
+    *   14K Gold Jewelry &. More Starting at $20
+    *   Casual-Chic Bags
+    *   Step into Spring: Shoes Starting at $15
+    *   Carolyn Pollack Turquoise &. More Up to 70% Off
+    *   Too Faced
+    *   Dr. Brandt Skin Care
+    *   Psycho Bunny
+    
+    *   FILA Men's Active
+    *   Threads 4 Thought &. More
+    *   Free Shipping: Pet Beds &. More Starting at $18
+    *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Luxe Faux Fur Accents
     *   Free Shipping: Chic Accents &. Furniture Finds
     *   iHome Tech Accessories Starting at $10
     *   Free Shipping: Fashion &. Floral Art by Oliver Gal
+    *   Marc Jacobs
+    *   Marc Jacobs Clothing
+    *   Marc Jacobs Shoes
     *   Designer Fragrances: Marc Jacobs &. More from $10
+    *   Marc Jacobs Jewelry &. Watches
     *   Robert Graham Men's Accessories
     *   Sea Gypsies
+    *   Festival Prep: Boho Looks We Love
     *   Seychelles
     *   Fergie &. Fergalicious
     *   Free Shipping: Gold Jewelry &. More Starting at $15
@@ -31,22 +63,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jerry Leigh: Girls' Character Tees &. More
     *   Kids' Premium Denim Starting at $15
     *   Hanna Andersson
-    *   Bony Levy
-    *   Feminine Chic: Dresses Up to 70% Off
     
-    *   Via Spiga
-    *   London Dress Company
-    *   Naked Zebra
-    *   Warrior by Danica Patrick
-    *   Swarovski Crystal Jewelry &. Watches
-    *   $25 &. Under: Nature Breeze
+    *   Bony Levy
     *   My Makeup Brush Set
-    *   Jimmy Choo Sun &. More Up to 65% Off
-    *   Free Shipping: Italian Sterling Silver from $15
-    *   Date Night Styles: Clutches
-    *   Scarf Shop: Styles Starting at $10
-    *   Our Favorite Slides Starting at $15
-    *   Sigerson Morrison
     *   Vince Camuto Men
     *   SLVDR &. More
     *   Aquatalia Men
@@ -55,82 +74,73 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Nicole Miller Baby &. Girls
     *   Londontown Lakur
     *   Free Shipping: Farmhouse-Chic Wall Decor from $15
-    *   Free Shipping: Ultra-Soft Bedding &. Throws
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Women's Shoes Up to 65% Off
-    *   Sunday Steals: Styles Up to 75% Off
-    
-    *   Free Shipping: Trend Jewelry Starting at $15
+    *   Feminine Chic: Dresses Up to 70% Off
+    *   Via Spiga
+    *   London Dress Company
+    *   Naked Zebra
+    *   Swarovski Crystal Jewelry &. Watches
+    *   Free Shipping: Italian Sterling Silver from $15
     *   On Trend: Leather Wrap Bracelets &. More Starting at $15
     *   Clinical Skin Care Up to 90% Off
+    *   Aldo Men
+    *   Free Shipping: Ultra-Soft Bedding &. Throws
+    *   Free Shipping: Trend Jewelry Starting at $15
     *   Men's Final Few Up to 75% Off
     *   Men's Shoes Up to 65% Off
     *   Jarv Tech Accessory Blowout
-    *   Girls' Night In: Face Masks for All
-    *   Demeter Fragrance Library
     *   Brooks Brothers Tailored Clothing
     *   Leather Bags &. More ft. Fossil
     *   Ben Sherman Dress Shirts &. More
-    *   Aldo Men
-    *   Baby Aspen Gifts
-    *   Joe Fresh Kids
-    *   Carter's
-    *   Storage &. Organization Essentials from $10
-    *   Thomas Dean
-    *   Tart Maternity
-    *   Belly Bandit
-    *   DR2 by Daniel Rainn &. Pleoine Incl. Special Sizes
-    *   Joe Fresh Starting at $10 Including Plus
-    *   TAVIK Swim
-    *   Tom Ford Sun
-    *   Go Couture Sweater Blowout
-    *   Diesel Men
 *   WomenShop Sale Events
     
+    *   Johnny Was
+    *   Rebecca Taylor
+    *   Melissa Footwear
+    *   Made in Italy: Perla Formentini
+    *   Shahida Parides
+    *   Vacation-Ready Sandals &. Espadrilles
+    *   HAH | Hot-As-Hell Swim
+    *   Bon Voyage: Straw Bags &. Sun Hats
+    *   Resort-Ready Styles ft. Tiare Hawaii
+    *   Paradise Bound: Kaftans, Cover-Ups &. More
+    *   Citizen Eco-Drive Watches &. More
+    *   Flip Flops Starting at $10
+    *   Getaway Ready: Bright Luggage
+    *   Emory Park
+    *   Blanc Noir Sport Up to 70% Off
+    *   Circus by Sam Edelman
+    *   VaVa by Joy Han Under $50
+    *   14K Gold Jewelry &. More Starting at $20
+    *   Casual-Chic Bags
+    *   Step into Spring: Shoes Starting at $15
+    *   Carolyn Pollack Turquoise &. More Up to 70% Off
+    *   Too Faced
+    *   Dr. Brandt Skin Care
     *   Marc Jacobs
+    
     *   Marc Jacobs Clothing
     *   Marc Jacobs Shoes
-    *   Marc Jacobs Jewelry &. Watches
-    *   Festival Prep: Boho Looks We Love
     *   Designer Fragrances: Marc Jacobs &. More from $10
+    *   Marc Jacobs Jewelry &. Watches
     *   Sea Gypsies
+    *   Festival Prep: Boho Looks We Love
     *   Seychelles
     *   Fergie &. Fergalicious
     *   Free Shipping: Gold Jewelry &. More Starting at $15
     *   Lilly Lashes by Lilly Ghalichi
     *   White Mountain
     *   Bony Levy
+    *   My Makeup Brush Set
+    *   Londontown Lakur
     *   Feminine Chic: Dresses Up to 70% Off
     *   Via Spiga
     *   London Dress Company
     *   Naked Zebra
-    *   Warrior by Danica Patrick
     *   Swarovski Crystal Jewelry &. Watches
-    *   $25 &. Under: Nature Breeze
-    *   My Makeup Brush Set
-    *   Jimmy Choo Sun &. More Up to 65% Off
-    
     *   Free Shipping: Italian Sterling Silver from $15
-    *   Date Night Styles: Clutches
-    *   Scarf Shop: Styles Starting at $10
-    *   Our Favorite Slides Starting at $15
-    *   Sigerson Morrison
-    *   Londontown Lakur
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Women's Shoes Up to 65% Off
-    *   Sunday Steals: Styles Up to 75% Off
-    *   Free Shipping: Trend Jewelry Starting at $15
     *   On Trend: Leather Wrap Bracelets &. More Starting at $15
     *   Clinical Skin Care Up to 90% Off
-    *   Girls' Night In: Face Masks for All
-    *   Demeter Fragrance Library
-    *   Tart Maternity
-    *   Belly Bandit
-    *   DR2 by Daniel Rainn &. Pleoine Incl. Special Sizes
-    *   Joe Fresh Starting at $10 Including Plus
-    *   TAVIK Swim
-    *   Tom Ford Sun
-    *   Go Couture Sweater Blowout
+    *   Free Shipping: Trend Jewelry Starting at $15
     
     Shop By Category
     *   Clothing
@@ -143,54 +153,58 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Lingerie
 *   MenShop Sale Events
     
+    *   Travel Essentials: Men's Tees &. Swim
+    *   Citizen Eco-Drive Watches &. More
+    *   Flip Flops Starting at $10
+    *   Getaway Ready: Bright Luggage
+    *   Red Wing Up to 55% Off
+    *   Psycho Bunny
+    *   FILA Men's Active
+    *   Threads 4 Thought &. More
     *   Robert Graham Men's Accessories
     *   Rip Curl Under $35
     *   Eastland
+    
     *   Batter Up: Mitchell &. Ness Tees and More
     *   Vince Camuto Men
     *   SLVDR &. More
     *   Aquatalia Men
     *   Vintage Foundry
-    
+    *   Aldo Men
     *   Men's Final Few Up to 75% Off
     *   Men's Shoes Up to 65% Off
     *   Brooks Brothers Tailored Clothing
     *   Leather Bags &. More ft. Fossil
     *   Ben Sherman Dress Shirts &. More
-    *   Aldo Men
-    *   Thomas Dean
-    *   Diesel Men
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Tea Collection Starting at $8
     *   Jerry Leigh: Girls' Character Tees &. More
     *   Kids' Premium Denim Starting at $15
     *   Hanna Andersson
     *   Mini Melissa
     *   Nicole Miller Baby &. Girls
-    *   Baby Aspen Gifts
-    *   Joe Fresh Kids
-    *   Carter's
-    *   Tart Maternity
-    *   Belly Bandit
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Baby Gear &. Essentials
-    *   Girls' Shoes
-    *   Girls Sizes 7-16
     *   Baby Girl
-    *   Baby Boy
-    *   Boys Sizes 8-20
-    *   Boys' Shoes
     *   Boys Sizes 2T-7
-    *   Toys
+    *   Baby Boy
+    *   Girls Sizes 7-16
+    *   Boys Sizes 8-20
+    *   Girls' Shoes
+    *   Baby Gear &. Essentials
+    *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Free Shipping: Pet Beds &. More Starting at $18
+    *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Luxe Faux Fur Accents
     *   Free Shipping: Chic Accents &. Furniture Finds
     *   iHome Tech Accessories Starting at $10
@@ -198,26 +212,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Farmhouse-Chic Wall Decor from $15
     *   Free Shipping: Ultra-Soft Bedding &. Throws
     *   Jarv Tech Accessory Blowout
-    *   Storage &. Organization Essentials from $10
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Organization
+    *   Luggage &. Travel
     *   Accent Furniture
     *   Outdoor Living
-    *   Bath
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Too Faced
+    *   Dr. Brandt Skin Care
     *   Designer Fragrances: Marc Jacobs &. More from $10
     *   Lilly Lashes by Lilly Ghalichi
     *   My Makeup Brush Set
     *   Londontown Lakur
     *   Clinical Skin Care Up to 90% Off
-    *   Girls' Night In: Face Masks for All
-    *   Demeter Fragrance Library
     
     Shop By Category
     *   Skin Care
