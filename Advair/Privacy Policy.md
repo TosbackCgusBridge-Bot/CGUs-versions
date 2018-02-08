@@ -124,7 +124,7 @@ GSK Global Website www.gsk.com
     *   Contact Us
 *   Media
     *   Media
-    *   GSK statement about Ventolin HFA 200D Inhaler
+    *   GSK statement regarding Ventolin HFA 200D inhaler
     *   Press releases
     *   Press Kits
         *   Press Kits
@@ -372,7 +372,7 @@ Menu
     *   Our consumer healthcare products
     *   ViiV Healthcare
     *   Stiefel dermatology
-    *   Consumer questions about Ventolin HFA 200D inhaler?
+    *   GSK statement regarding Ventolin HFA 200D inhaler
     
     *   Our consumer healthcare products
         
