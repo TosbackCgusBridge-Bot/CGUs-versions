@@ -131,7 +131,7 @@ Play Capture the Action of Winter Sports Video hotspot
 
 New Gold Wireless Headset hits store shelves later this month, featuring a sleek new design and enhanced performance.
 
-23 hours ago
+1 day ago
 
 View Tweet
 
@@ -205,7 +205,7 @@ The Sony Rewards Mobile App
 
 Are you a Trial Blazer? Learn how you can get a 15% off discount code for PlayStation Store.
 
-7 days ago
+8 days ago
 
 View Tweet
 
@@ -283,7 +283,7 @@ Play Jack White Returns with a New Single Video hotspot
 
 Get addicted to a classic arcade shooter with a VR twist. Play ROM: Extraction today at #SonySquareNYC.
 
-22 hours ago
+1 day ago
 
 View Tweet
 
