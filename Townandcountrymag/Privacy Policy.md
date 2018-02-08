@@ -180,12 +180,12 @@ Last revised on April 1, 2016
 Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
-*   Inside the World of Luxury Vacation Rentals
-*   Five Things To Know Before You Move To Malta
 *   T&C's Travel Tips Around Egypt
 *   How the Other Half Dies
 *   T&C Essentials: How to Pack the Perfect Picnic
 *   I Drank Like Don Draper at Lunch - And You Can Too
+*   The Space Cowgirl: Rosson Crow
+*   Going Places
 
 *   Newsletter
 *   Contact Us
@@ -202,7 +202,7 @@ Advertisement - Continue Reading Below Share Tweet Email
 *   Customer Service
 *   Giveaways
 
-A Part of Hearst Digital Media Town &. Country participates in various affiliate marketing programs, which means Town &. Country gets paid commissions on purchases made through our links to retailer sites. ©2018 Hearst Communications, Inc. All Rights Reserved.
+A Part of Hearst Digital Media Town &. Country participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites. ©2018 Hearst Communications, Inc. All Rights Reserved.
 
 *   Privacy Policy
 *   Your California Privacy Rights
