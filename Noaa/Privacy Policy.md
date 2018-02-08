@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Seeing shadows or not: How the groundhog scores against the climate record What is the likelihood of 6 more weeks of winter? AROUND NOAA // Explore your world at the NOAA Open House Study: People in parts of U.S. and beyond breathe unhealthy ozone pollution more than 2 weeks a year NOAA’s GOES-S to boost weather forecast accuracy for western U.S., Alaska, Hawaii
+Enter Search Terms January brought largest drought footprint in nearly 4 years to U.S. Warmth in the West contrasted with cold in the East AROUND NOAA // Explore your world at the NOAA Open House Study: People in parts of U.S. and beyond breathe unhealthy ozone pollution more than 2 weeks a year Seeing shadows or not: How the groundhog scores against the climate record
 
 *   About our agency
 *   News and features
