@@ -24,7 +24,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
-*   Extended Sizes
+*   plus size
 *   Trending
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
@@ -344,7 +344,7 @@ Menu Find a Store Aeropostale
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
-    *   Extended Sizes
+    *   plus size
     *   Trending
     
     *   Live Love Dream
@@ -542,25 +542,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Promotions Refer a Friend   X Thanks For Sharing! Here is your 15% off coupon code: SHARE15
-
-You’ll receive your $15 reward, via email, when your friend makes their FIRST purchase on aeropostale.com
-
-*   Polos Starting at $9.00 Shop Girls Shop Guys
-*   Accessories Starting at $6.00 Shop Girls Shop Guys
-*   Fashion Tops Starting at $19.80 Shop Girls
-*   Tees Starting at $10.00 Shop Girls Shop Guys
-*   Polos Starting at $9.00 Shop Girls Shop Guys
-*   Accessories Starting at $6.00 Shop Girls Shop Guys
-*   Fashion Tops Starting at $19.80 Shop Girls
-*   Tees Starting at $10.00 Shop Girls Shop Guys
-
-*   1
-*   2
-*   3
-*   4
-
-Promotions Shop Sabrina's Picks Shop Girls New Arrivals Shop Guys New Arrivals Promotions Find My Store Shop GirlsShop GuysShop LLD <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Promotions Refer a Friend Promotions Shop Girls Shop Guys Promotions Shop Sabrina's Picks Shop Girls New Arrivals Shop Guys New Arrivals Promotions Find My Store Shop GirlsShop GuysShop LLD <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -595,4 +577,4 @@ Stay Connected
 *   Give $15, Get $15
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag anExtra 10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-C6LWSBBM3QQ2at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
+© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag anExtra 10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-V7Q7NCHC7VK7at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
