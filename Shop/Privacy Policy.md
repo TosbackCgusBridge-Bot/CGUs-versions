@@ -320,17 +320,17 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers SURPRISE YOUR SWEETIE
+Home >. Filter by specs Offers PROVE YOUR LOVE GIVE THEM A SWEET NEW LAPTOP OR OTHER JUICY TECH.
 
-GIVE THEM A GIFT THAT LASTS. Select top items on sale through Feb. 7 will ship by Valentine's Day!
+2-in-1s, convertibles, monitors, and more on sale ‘til Feb. 14.
 
-LAPTOPS &. MORE UP TO $370 OFF >>.
+LAPTOPS &. MORE UP TO $390 OFF >>.
 
-Flex 5 (15")
+Durable Vibrant Corning® Gorilla® Glass Covers
 
-Up to $300 off on the sleek, portable and flexible PC that transitions with your schedule.
+talent from Milan’s Istituto Europeo di Design, these limited edition laptops marry bold exuberance with playful simplicity.
 
-Shop Now >.
+CHOOSE HOW YOU’LL ROCK THE RUNWAY >>.
 
 Breakthrough Performance
 
@@ -350,13 +350,13 @@ All New Lenovo Pro Store
 
 Let Lenovo be your small business partner with an all new Pro Portal.
 
-New ThinkPad E480
+New ThinkPad E580
 
-Customize your 14-in laptop. Available in Black or Silver.
+Customize your 15-in laptop. Available in Black or Silver.
 
-TAB 4 8" PLUS ADDS IT ALL
+Yoga Tab 3 Pro
 
-Super sound. Separate user accounts. And simply dazzling visuals.
+Say goodbye to your TV and hello to the ultimate entertainment tablet.
 
 CLEARANCE SALE  
 Grab these unbelievable deals on laptops, desktops and cases that last—because these prices won’t!  
@@ -444,6 +444,8 @@ Laptops Tablets Desktops Servers Deals Select Country/Region AlgeriaAngolaArgent
     *   Business Partners
     *   Partner Portal
     *   Military
+    *   Higher Education
+    *   Higher Education
     *   Higher Education
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   RESOURCES
