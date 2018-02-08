@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Salena Zito_: Jeff Sessions: FBI Needs 'to Have a Fresh Start'
+*   _Michael Barone_: Are Dems Destroying Their Own Credibility?
     
-*   _Jonathan Rauch &. Benjamin Wittes_: Boycott the Republican Party
+*   _Asher_: We Can't Trust Devin Nunes
     
-*   _Scott Jennings_: Dems Squandering Chance for Gains in Congress
+*   _Mollie Hemingway_: Criminal Referral Confirms Explosive FISA Abuse Memo
     
-*   _Ruchir Sharma_: The Stock Market Is Volatile Again. Get Used to It.
+*   _Masha Gessen_: Donald Trump's Very Soviet Fixation on Applause
     
-*   _Patricia Murphy_: Crumbs? 'I'll Take It!' And Democrats Should Too
+*   _Sen. Orrin Hatch_: America Needs a Merit-Based Immigration System
     
-*   _Eugene Robinson_: Memo Proves How Far GOP Has Plunged Into Madness
+*   _Jorge Castaneda_: It's Time for an Immigration Enchilada
     
-*   _Angelo Codevilla_: Jail the Guilty, Repeal FISA
+*   _Larry Summers_: Jay Powell's Challenge at the Fed
     
-*   _Margery Kraus_: Message From Davos: Invest in 'Our Shared Future'
+*   _Andy Puzder_: Democrats Are Tying Themselves in Knots Over the Economy
     
-*   _Damir Marusic_: The Dangers of Democratic Determinism
+*   _Adam Serwer_: The Trumping of the FBI
     
-*   _Emily Schultheis_: Fear and Loathing in the Bundestag
+*   _Thomas Lifson_: Tick, Tick, Tick...FBI Scandal Getting Closer to Obama
     
-*   _Alice Lloyd_: The Martyrdom of Rose McGowan
+*   _Leonid Bershidsky_: How Elon Musk Beat Russia's Space Program
     
-*   _Paul Waldman_: With Memo, Republicans Have Discredited Themselves
+*   _Karen Tumulty_: Taking the House Will Be Harder Than Dems Think
     
-*   _Victor Davis Hanson_: The FISA-Gate Boomerangs
+*   _Jonah Goldberg_: Why the 'Cult of Trump' Has Taken Hold
     
-*   _John Cassidy_: Trump Goes Quiet as Stock Market Slumps
+*   _Conrad Black_: Trump Gaining Trust of the People. His Critics, Not So Much.
     
-*   _Peter Roff_: Don't Sweat the Dow Yet
+*   _Frank Bruni_: Gulp. I'm Guilty of Treason.
     
-*   _Jesse Ferguson_: Will Dems Have Enough Money to Win Congress?
+*   _Lauren Appell_: More Money in Your Pocket Is a 'Dark Cloud' for Democrats
     
-*   _Tom Bevan_: Democrats Want to Win in 2018. They Shouldn't
+*   _Gabriel Sherman_: Is Yet Another West Wing Reset Looming?
     
-*   _Errol Louis_: Democrats Need Better Cents
+*   _Caitlin Huey-Burns_: Republicans See Trump as Top Asset in Senate Races
     
-*   _Joshua Keating_: What If Obama's Iran Deal Was a Mistake?
+*   _Byron York_: Scheming, Speculation as Dems Push Intel Memo
     
-*   _Gene Kopelson_: Trump's Echo of Reagan - as Governor &. President
+*   _Scott Martelle_: DACA Crisis Is Trump's Creation, and Trump's Fault
     
-*   _Chris Cillizza_: Trump Thinks Not Clapping for Him Is 'Treasonous'
+*   _Arthur Schaper_: How Trump Supporters Trumped Kimmel on Late Night TV
     
-*   _Dan McLaughlin_: Trump's 'Treason' Joke &. Dem Double Standards
+*   _James Arkin_: PA-18 Special Election a Key Test for Dems' Labor Support
     
-*   _Richard Cohen_: President Trump Is a Modern Day Joe McCarthy
+*   _Anna North_: #MeToo Conversation Makes People Uncomfortable. That's Okay.
     
-*   _David Garrow_: Democrats and FBI Abuses
+*   _Heather Mac Donald_: #MediocrityToo
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   PA-18 Special Election a Key Test for Dems' Labor Support
+*   Republicans See Trump as Top Asset in Senate Races
+*   Trump: Let's Have a Shutdown If Congress Doesn't Fix Immigration
+*   House and Senate Pursue Spending Deals as Shutdown Looms
 *   Republicans See Reasons for Optimism in 2018 Midterms
-*   House Republicans Working on Averting Another Shutdown
-*   Trump on Dem SOTU Reaction: "Can We Call That Treason?"
-*   Pelosi: Tax Overhaul Has Cast a "Dark Cloud" Over Washington
-*   Trump Lauds Republican Successes as New Deadlines Loom
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalIBD/TIPP
-    *   Approve35
-    *   Disapprove58Disapprove +23
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve40
+    *   Disapprove55Disapprove +15
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
-*   2018 Generic Congressional VoteIBD/TIPP
-    *   Democrats46
-    *   Republicans41Democrats +5
-*   Direction of CountryIBD/TIPP
-    *   Right Direction45
-    *   Wrong Track54Wrong Track +9
+    *   Approve48
+    *   Disapprove51Disapprove +3
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve40
+    *   Disapprove54Disapprove +14
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve45
+    *   Disapprove53Disapprove +8
 
 More Latest Polls In The News
 
+*   Stephen F. Cohen: Intel Community Fourth Branch Of Government, Influences Voters With Media Leaks
+*   Pelosi: My Grandson's Birthday Wish Was To Have Brown Skin, Eyes. "Face Of The Future Of Our Country"
+*   Attkisson: Journalists "Begging" Not To Be Told About Surveillance Abuses. Propagandists in Newsrooms
+*   Warren: If We Don't Give DREAMers Legal Status, How Are They Going To Work In The United States?
 *   Audio: Russian Comedians Prank Called Rep. Adam Schiff, Promised Him Naked Photos Of Trump
-*   Waters Grills Mnuchin on Russia Sanctions, CIA Meeting With Russian Intel: What's Your Excuse?
-*   Mark Levin: "Hillary Clinton Paid For A Warrant," FBI Colluded With Russians Wittingly or Unwittingly
-*   Schiff: "Can't Get Into Specifics" Whether FISA Judge Knew Dossier Was Backed By Clinton, DNC
-*   Dem Rep. Swalwell: We Can't Rely On "Insurance Policy" Mueller If Trump Is Undermining Investigation
 
 *   Politics
 *   Policy
