@@ -9,8 +9,8 @@
     *   Black Ink Crew
     *   RuPaul's Drag Race All Stars
     *   Behind The Ink
+    *   Love &. Hip Hop: The Love Edition
     *   VH1 Beauty Bar
-    *   Scared Famous
     *   Brunch With TiffanySee all Shows
 *   News
 *   Digital Originals
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewRuPaul's Drag Race All StarsBehind The InkVH1 Beauty BarScared FamousBrunch With Tiffanysee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewRuPaul's Drag Race All StarsBehind The InkLove &. Hip Hop: The Love EditionVH1 Beauty BarBrunch With Tiffanysee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
