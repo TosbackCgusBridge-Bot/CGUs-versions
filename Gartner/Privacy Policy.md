@@ -14,13 +14,9 @@ Toggle navigation
 
 Gartner Global Privacy Center Home›
 
-Global Policies
+Don't have a Gartner Login
 
-Global Privacy Principles
-
-Safe Harbor Update 2016
-
-Online Privacy Policy
+Email our Privacy team
 
 Gartner Online Privacy Policy
 
