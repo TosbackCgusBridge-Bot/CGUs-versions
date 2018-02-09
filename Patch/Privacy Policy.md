@@ -1,8 +1,10 @@
-Toggle navigation Find Your Patch Everything local.
+Toggle navigation Find Your Town Post Advertise
 
-*   Advertise
+*   Fri, Feb 9
+
 *   Post on Patch
 *   See All Patches
+*   Advertise
 
 Find Your Community See All Patches Regional
 
