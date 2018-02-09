@@ -16,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.590,43ǀ
+*   DAX 12.260,29ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -164,7 +164,6 @@ Anmelden
         *   IAA 2017
         *   Nachhaltigkeit
     *   *   Kfz-Versicherung
-        *   Automarkt
 *   Stil
     
     *   *   Übersicht
@@ -696,7 +695,6 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   Bußgeldrechner
 *   Werkstattvergleich
 *   Kfz-Versicherung
-*   Automarkt
 *   Firmenradrechner
 *   Firmenwagenrechner
 
