@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Across NOAA Explore your world at the NOAA Open House Climate View visual highlights from the 2017 Arctic Report Card National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites NOAA satellites aid in the rescue of 275 lives in 2017 Across NOAA Explore your world at the NOAA Open House National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms January brought largest drought footprint in nearly 4 years to U.S. Warmth in the West contrasted with cold in the East AROUND NOAA // Explore your world at the NOAA Open House Study: People in parts of U.S. and beyond breathe unhealthy ozone pollution more than 2 weeks a year Seeing shadows or not: How the groundhog scores against the climate record
+Enter Search Terms NOAA satellites aid in the rescue of 275 lives in 2017 AROUND NOAA // January brought largest drought footprint in nearly 4 years to U.S. Explore your world at the NOAA Open House Study: People in parts of U.S. and beyond breathe unhealthy ozone pollution more than 2 weeks a year
 
 *   About our agency
 *   News and features
