@@ -320,15 +320,13 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers PROVE YOUR LOVE GIVE THEM A SWEET NEW LAPTOP OR OTHER JUICY TECH.
+Home >. Filter by specs Offers PROVE YOUR LOVE
 
-2-in-1s, convertibles, monitors, and more on sale ‘til Feb. 14.
+GIVE THEM SOME SWEET NEW TECH
 
-LAPTOPS &. MORE UP TO $390 OFF >>.
+LAPTOPS &. MORE UP TO $550 OFF >>.
 
 Durable Vibrant Corning® Gorilla® Glass Covers
-
-talent from Milan’s Istituto Europeo di Design, these limited edition laptops marry bold exuberance with playful simplicity.
 
 CHOOSE HOW YOU’LL ROCK THE RUNWAY >>.
 
@@ -471,7 +469,11 @@ Laptops Tablets Desktops Servers Deals Select Country/Region AlgeriaAngolaArgent
     *   Return Policy
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
-© 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+© 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
+
+Feedback Will open a new windowFeedbackLaunches comment card in new window
+
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -483,6 +485,4 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE Close
-
-Feedback Will open a new windowFeedbackLaunches comment card in new window
+SUBMIT CHATHIDE
