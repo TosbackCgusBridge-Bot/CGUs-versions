@@ -738,9 +738,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 25% off full-price styles!
 
-code: CHOCOLATE pin: 3851 DETAILS
+code: KISS pin: 7546 DETAILS
 
 Customer Service Menu
 
