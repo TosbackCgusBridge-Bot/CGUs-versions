@@ -577,4 +577,4 @@ Stay Connected
 *   Give $15, Get $15
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag anExtra 10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-V7Q7NCHC7VK7at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
+© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag anExtra 10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse CodeBEX-5DF7HHNBZLFHat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
