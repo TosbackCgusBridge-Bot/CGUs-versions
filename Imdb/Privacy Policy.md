@@ -1,8 +1,8 @@
 IMDb Privacy Notice
 
-**Last Updated, November 29, 2016**. To see what has changed click here.
+**Last Updated, February 8, 2018**. To see what has changed click here.
 
-IMDb knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting IMDb, or by visiting other properties operated by IMDb such as DPReview.com, you are accepting the practices described in this Privacy Notice.**
+IMDb knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting IMDb, or by visiting other properties operated by IMDb such as IMDbPro, Withoutabox, Box Office Mojo, and DPReview.com, you are accepting the practices described in this Privacy Notice.**
 
 **What Personal Information About Users Does IMDb Gather?**
 
@@ -16,7 +16,7 @@ The information we learn from users helps us personalize and continually improve
 
 **What About Cookies?**
 
-*   Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as My Movies, local show times, and browsing preferences.
+*   Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as Watchlist, local show times, and browsing preferences.
 *   The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take full advantage of some of IMDb's essential features, we recommend that you leave them turned on.
 *   We use web beacons (also known as “action tags” or “single-pixel gifs”) and other technologies to measure the effectiveness of certain site features and to conduct research and analysis. We also allow third parties to place web beacons and other technologies on our site to conduct research and analysis, but we do not provide personal information to such third parties.
 
@@ -61,6 +61,20 @@ IMDb is not intended for use by children under the age of 13. If you are under 1
 
 If you choose to visit IMDb, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington.
 
-If you have any concern about privacy at IMDb, please send us a thorough description to our help desk, and we will try to resolve it.
+If you have any concern about privacy at IMDb, please send us a thorough description to our customer service team, and we will try to resolve it.
 
 Our business changes constantly. This Notice and the Terms and Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.  We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+
+**Examples of Information Collected**
+
+Information You Give Us:
+
+You provide most such information when you register, search, post, participate in a contest or questionnaire, or communicate with us. For example, you provide information when you search for a movie, actor or director. provide information in our registration form. communicate with us by phone, e-mail, or otherwise. complete a questionnaire or a contest entry form. vote in a poll. provide movie reviews or information related to movies. participate in a discussion board. and employ our notification services. As a result of those actions, you might supply us with such information as your name, e-mail address, physical address, zip code, and phone number. your age and gender. the movies and actors you like or dislike. and your general movie preferences.
+
+Automatic Information:
+
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet. login. password. computer and connection information such as browser type and version, operating system, and platform. purchase history. the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time. cookie number. and pages you viewed or searched for. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+
+Information from Other Sources:
+
+Examples of information we receive from other sources include updated delivery and address information so that we can correct our records and deliver your next communication more easily.
