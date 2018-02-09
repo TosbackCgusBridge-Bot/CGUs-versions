@@ -72,6 +72,7 @@
 *   $57,500 as shown1 2017 Mirai $57,500 starting1  
     67/67 est MPG11 Specials
 
+*   2019 TRD Pro Series View More Info
 *   2019 Avalon View More Info
 *   FT-AC Concept View More Info
 *   FT-4X Concept View More Info
@@ -120,7 +121,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 54/50 est MPG14 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
 48/43 est MPG3 $34,270 as shown1 2017 Prius _v_ $26,675 starting1  
 43/39 est MPG8 $57,500 as shown1 2017 Mirai $57,500 starting1  
-67/67 est MPG11 Upcoming Vehicles 2019 Avalon FT-AC Concept FT-4X Concept
+67/67 est MPG11 Upcoming Vehicles 2019 TRD Pro Series 2019 Avalon FT-AC Concept FT-4X Concept
 
 *   Careers
 *   Español
