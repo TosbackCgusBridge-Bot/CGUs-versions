@@ -1,5 +1,3 @@
-× Close Ad
-
 *   Policy
 *   Markets
 *   World
@@ -103,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Byron York_: What Explains the FBI's Deep Faith in Christopher Steele?
+*   _Jenkins &. Elliott_: Budget Deal Shows Not Everything in Washington Is Broken
     
-*   _Thomas Edsall_: Trump's Tool Kit Does Not Include the Constitution
+*   _Ed Rogers_: Are Republicans Still the Party of Fiscal Restraint?
     
-*   _Brandon Weichert_: Obamanomics Is Dead and Trump Killed It
+*   _Gabriel Sherman_: With Porter Out, the Heat on John Kelly Is Increasing
     
-*   _Jason Furman_: Why Presidents Shouldn't Talk About the Stock Market
+*   _Mollie Hemingway_: When Did Obama First Learn About the Dossier?
     
-*   _Karl Rove_: Reading the Midterm Tea Leaves
+*   _Nicholas Kristof_: President Trump, If You're Innocent, Why Act So Guilty?
     
-*   _David Faris_: House Democrats Should Reject the Senate's Budget Deal
+*   _Tom Bevan_: The Takeaway: It's Trump's Economy Now
     
-*   _Wayne Allyn Root_: Trump Backs Dems Into a Corner Over the Dreamers
+*   _Alex Seitz-Wald_: Democrats Expand Battleground, Target 101 House Seats
     
-*   _Adam Andrzejewski_: $20 Billion Hidden in Swamp: Feds Redact 255K Salaries
+*   _Michael Barone_: Gentry Liberals Own the Democratic Party
     
-*   _Elizabeth Bruenig_: Trump's Family Leave Plan Would Punish Those With Kids
+*   _Dana Houle_: Nancy Pelosi Is Incredibly Underrated
     
-*   _Ramesh Ponnuru_: A Family Leave Plan That Pays for Itself
+*   _Enjeti & Simonson_: Why Did CNN Hire Former Comey Assistant Josh Campbell?
     
-*   _Carl Cannon_: Radio Days at the White House
+*   _Sam Kim_: Inside North Korea's Hacker Army
     
-*   _Francis Wilkinson_: Why Pelosi Is Rolling the Dice for Dreamers
+*   _Huey-Burns &. Arkin_: Brief Shutdown, Budget Passes, Immigration Fight Looms
     
-*   _Jeremy Carl_: Democrats' Immigration Radicalism Has Handed Trump a Gift
+*   _Sen. Rand Paul_: On Spending, There Is No Conservative Party
     
-*   _Charles Lane_: We're Witnessing a Nightmare for Our Democracy
+*   _Bill Scher_: Deficits Don't Matter. So Why Are Dems Moaning About Them?
     
-*   _Victor Davis Hanson_: Why FISA-Gate Is Scarier Than Watergate
+*   _Fred Barnes_: A Man With a Plan: Newt's Strategy for GOP Victory
     
-*   _Frank Rich_: The GOP Has Become the Anti-Law Enforcement Party
+*   _Karen Tumulty_: Nancy Pelosi: The Stories Kept Coming
     
-*   _Ed Rogers_: The So-Called GOP-FBI Split Is a Democratic Fantasy
+*   _Will Stancil_: Dem 'Resistance' to Trump Is Eroding &. So Are Their Polls
     
-*   _Adam Gopnik_: Raining on Trump's Parade
+*   _Kimberley Strassel_: Who Is Christopher Steele?
     
-*   _Tammy Bruce_: Trump Wants a Military Parade and Liberals Are Hysterical
+*   _Will Saletan_: How the GOP Ended Up Defending Putin Apologist Carter Page
     
-*   _Josh Voorhees_: At Ballot, GOP Hoping Voters Recall Economy, Forget Trump
+*   _Roger Simon_: Democrats Are Headed for a World of (Deserved) Hurt
     
-*   _Scott Rasmussen_: One Major Difference Between 2010 and 2018
+*   _Michelle Goldberg_: Rob Porter Is Donald Trump's Kind of Guy
     
-*   _Gabriel Winant_: Organized Labor's Lost Generations
+*   _George Neumayr_: Media's Glass House Couldn't Be Any Larger
     
-*   _Steven Greenhut_: A Progressive Experiment That's Doomed to Fail
+*   _Eugene Robinson_: Trump Wants the Pomp Without the Circumstance
     
-*   _Gabriel Sherman_: Rob Porter's Ouster Roils the White House
+*   _Rich Lowry_: A Grand Parade to Honor Our Veterans Is Long Overdue
     
 
 *   Previous
@@ -251,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Kelly Getting Scrutiny After Senior Aide's Resignation
+*   After Brief Shutdown, Budget Passes, Immigration Fight Looms
+*   Paul: On Spending, There Is No Conservative Party
+*   Holder: Obama Respected "Wall" Between White House, Justice
 *   Republicans See Trump as Top Asset in Senate Races
-*   Senate Leaders Reach 2-Year Deal in Bid to End Fiscal Standoffs
-*   Gowdy: "Really Warm" If You Think Blumenthal Passed Info to Steele
-*   Pelosi Speaks for Record 8 Hours in Favor of "Dreamers"
-*   PA-18 Special Election a Key Test for Dems' Labor Support
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,18 +268,18 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalMarist
+    *   Approve39
+    *   Disapprove56Disapprove +17
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
-*   Florida Senate - Scott vs. NelsonMason-Dixon
-    *   Nelson45
-    *   Scott44Nelson +1
-*   California Senate - Open PrimaryPPIC
-    *   Feinstein46
-    *   de Leon17Feinstein +29
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve40
-    *   Disapprove55Disapprove +15
+    *   Approve49
+    *   Disapprove50Disapprove +1
+*   2018 Generic Congressional VoteMarist
+    *   Democrats49
+    *   Republicans38Democrats +11
+*   Direction of CountryMarist
+    *   Right Direction37
+    *   Wrong Track57Wrong Track +20
 
 More Latest Polls In The News
 
