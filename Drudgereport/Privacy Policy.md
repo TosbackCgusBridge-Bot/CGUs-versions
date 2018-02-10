@@ -135,15 +135,15 @@ LATEST ON TWITTER
 
 My week on Twitter : 5 Mentions, 87.2K Mention Reach, 11 Likes, 5 Retweets, 5.16K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/16fy…
 
-About 2 days ago
+About 3 days ago
 
 Our biggest fans this week: @MarTechSeries, @mrmistry, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/hrgu…
 
-About 3 days ago
+About 4 days ago
 
 Want to understand more about demand path optimization and how to use it to your advantage? Our VP of Sales and Programmatic Strategy, @Requidan will lay it all out at @adexchanger #PROGIO San Francisco, April 10-11. See you there! bit.ly/2s8Ae3X
 
-About 4 days ago
+About 5 days ago
 
 Honored to be part of an influential platform! Thanks @Beet\_TV for interviewing us! twitter.com/Beet\_TV/…
 
