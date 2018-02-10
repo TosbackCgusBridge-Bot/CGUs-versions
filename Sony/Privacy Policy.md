@@ -129,9 +129,9 @@ Play Capture the Action of Winter Sports Video hotspot
 
 <img class="bg-img" class="url(/en\_us/media/content/a9-Lifestyle1-600x600.jpg);" alt="a9">.
 
-New Gold Wireless Headset hits store shelves later this month, featuring a sleek new design and enhanced performance.
+Watch @Yg\_Trece unbox the limited edition #PG2 PlayStation colorway for the first time: Dropping tomorrow on SNKRS @nikebasketball http://play.st/COPPIN.
 
-2 days ago
+20 hours ago
 
 View Tweet
 
@@ -203,23 +203,27 @@ The Sony Rewards Mobile App
 
 <img class="bg-img" class="url(/en\_us/media/content/Xperia-XA-600x600\_5.jpg);" alt="SR Mobile App">.
 
-Are you a Trial Blazer? Learn how you can get a 15% off discount code for PlayStation Store.
+.@thegreatkhalid kicks off our #LostInMusic: Sessions series with a performance of "8TEEN" like you've never heardbbefore. Premiering Sunday, February 11: http://lostinmusic.sony
 
-9 days ago
+18 hours ago
 
 View Tweet
 
 View PS VR on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/86261e95c6bdffc882d024a576ed68b3/5B00CE58/t51.2885-15/e35/25024564\_317091445469955\_5613945688107778048\_n.jpg);" alt="">. Close
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/86261e95c6bdffc882d024a576ed68b3/5B00CE58/t51.2885-15/e35/25024564\_317091445469955\_5613945688107778048\_n.jpg);" alt="">. Want to See The Chainsmokers in Las Vegas?
 
-*   Share SR Million Points Sweeps on Facebook
-*   Share SR Million Points Sweeps on Twitter
-*   Copy URL to share SR Million Points Sweeps
+Bid for a Chance to Win
 
-TBD
+Close
 
-<img class="bg-img" class="url(/en\_us/media/content/SR\_millionPoints-500x246\_QzqwQ0B.jpg);" alt="Sony Rewards Million Points Sweeps">. Get Rewarded for Your Love of Movies
+*   Share Want to See The Chainsmokers in Las Vegas? on Facebook
+*   Share Want to See The Chainsmokers in Las Vegas? on Twitter
+*   Copy URL to share Want to See The Chainsmokers in Las Vegas?
+
+Bid for a Chance to Win
+
+<img class="bg-img" class="url(/en\_us/media/content/Chainsmokers-Paris-600x600\_XtIqCuY.jpg);" alt="The Chainsmokers">. Get Rewarded for Your Love of Movies
 
 Learn More
 
@@ -249,7 +253,7 @@ Get Lost in Music
 
 <img class="bg-img" class="url(/en\_us/media/content/sony\_site\_600x600.jpg);" alt="Lost In Music">. The Imaginative World of Beatrix Potter Comes to Life
 
-See “Peter Rabbit” in Theaters On Friday
+“Peter Rabbit” Now Playing in Theaters
 
 Close
 
@@ -281,9 +285,9 @@ Play Jack White Returns with a New Single Video hotspot
 
 <img class="bg-img" class="url(/en\_us/media/content/Jack-White-1-600x600.jpg);" alt="Jack White">.
 
-Get addicted to a classic arcade shooter with a VR twist. Play ROM: Extraction today at #SonySquareNYC.
+Hop to it. Upload your #PeterRabbitMovie tickets for #SonyRewardsPoints.
 
-2 days ago
+21 hours ago
 
 View Tweet
 
