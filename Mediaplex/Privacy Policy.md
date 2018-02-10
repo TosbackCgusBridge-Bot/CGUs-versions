@@ -53,11 +53,11 @@
     *   Integrations
     *   Join Us
 
-THE PROMISE OF  
-1:1 DIGITAL MARKETING  
-BOLDLY DELIVERED Watch Our Story
+HAVE COMPELLING  
+CONVERSATIONS THAT  
+LAST A LIFETIME Watch Our Story
 
-*   160M+ Real People You Can  
+*   200M+ Real People You Can  
     Message Right Now
 *   7,000+ Dimensions to  
     Consumer Profiles
