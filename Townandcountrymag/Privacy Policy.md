@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Family Tragedy: Inside the Versace Drama 2 How Hope Hicks Became the Ultimate Trump Insider 3 Princess Envy: Hollywood's Meghan Markle Backlash 4 12 Creative Things To Do On Valentine's Day In NYC 5 25 Love-ly Cocktails for Valentine's Day Privacy Policy Dec 1, 2014
+Today's Top Stories 1 How Hope Hicks Became the Ultimate Trump Insider 2 What Kate Middleton Will Wear to Harry's Wedding 3 The Best Places To Go in March 4 12 Creative Things To Do On Valentine's Day In NYC 5 25 Love-ly Cocktails for Valentine's Day Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -180,12 +180,12 @@ Last revised on April 1, 2016
 Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
+*   Inside the World of Luxury Vacation Rentals
+*   Five Things To Know Before You Move To Malta
 *   T&C's Travel Tips Around Egypt
 *   How the Other Half Dies
 *   T&C Essentials: How to Pack the Perfect Picnic
 *   I Drank Like Don Draper at Lunch - And You Can Too
-*   The Space Cowgirl: Rosson Crow
-*   Going Places
 
 *   Newsletter
 *   Contact Us
