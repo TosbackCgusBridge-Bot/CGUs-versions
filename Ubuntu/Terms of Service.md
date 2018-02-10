@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Desktop weekly update – February 9, 2018 ›
+*   Tutorial: Setup a ZFS storage pool ›
 *   LXD weekly status #33 ›
 *   Ubuntu Server development summary – 06 February 2018 ›
 *   Building Slack for the Linux community and adopting snaps ›
-*   Snapcraft Summit summary – day 5 ›
-*   Ubuntu Desktop weekly update – February 2, 2018 ›
