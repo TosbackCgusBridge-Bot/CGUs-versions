@@ -16,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.260,29ǀ
+*   DAX 12.107,48ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -407,6 +407,8 @@ Sollten Sie die Verwendung von DoubleClick DART-Cookies nicht wünschen, können
 
 **Einsatz von Google Remarketing:**
 
+Advertisement
+
 Diese Website verwendet die Remarketing-Funktion der Google Inc. ("Google"). Diese Funktion dient dazu, Besuchern der Website im Rahmen des Google-Werbenetzwerks interessenbezogene Werbeanzeigen zu präsentieren. Der Browser des Websitebesuchers speichert sog. "Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die es ermöglichen, den Besucher wiederzuerkennen, wenn dieser Websites aufruft, die dem Werbenetzwerk von Google angehören. Auf diesen Seiten können dem Besucher dann Werbeanzeigen präsentiert werden, die sich auf Inhalte beziehen, die der Besucher zuvor auf Websites aufgerufen hat, die die Remarketing Funktion von Google verwenden. Nach eigenen Angaben erhebt Google bei diesem Vorgang keine personenbezogenen Daten.
 
 Advertisement
@@ -750,3 +752,6 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
+
+Advertisement  
+Advertisement
