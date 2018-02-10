@@ -212,7 +212,7 @@ Menu
         *   Can mosquitoes prevent malaria?
         *   Bacteria: friends or foes?
         *   Data transparency
-        *   Can an iPhone change the way we monitor and improve patient health?
+        *   Can iPhones change how we monitor and improve patient health?
         *   Harnessing the body’s electrical language to treat disease
         *   Epigenetics: turn-ons and turn-offs
         *   Inside the open lab
@@ -248,7 +248,7 @@ Menu
         *   Struggling for breath
         *   Beyond Breathing: When Is Asthma Really Under Control?
         *   Clinical trials: a patient's view
-        *   The Fostering Wellness initiative: young people lead the way!
+        *   Fostering Wellness initiative: young people lead the way!
         *   The Power of 24hrs
         *   Living with COPD Every Day: Sean’s Story
         *   Take a Breather: 8 Fast Facts on Severe Asthma
@@ -277,7 +277,7 @@ Menu
         *   Volunteering in Kenya: a once in a lifetime experience
         *   On the job with GSK's medical device research team
         *   Treating malaria: Making a change from the inside
-        *   A partnership perspective with Simon Wright, Save the Children
+        *   A partnership perspective with Simon Wright
         *   War and peace: Ivo, Nobel prize winner
         *   Changing Lives
         *   GSK and The National Museum of African American History and Culture
