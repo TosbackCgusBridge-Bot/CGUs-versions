@@ -20,8 +20,7 @@
     *   Estimate a payment
     *   Trade-in value
     
-    *   Leasing
-    *   Financing
+    *   Audi Financial Services
     *   Apply for credit
     
     Shopping Tools Explore
@@ -42,10 +41,22 @@
     *   Estimate a payment
     *   Trade-in value
     
-    *   Leasing
-    *   Financing
+    *   Audi Financial Services
     *   Apply for credit
-*   Technology
+*   *   Audi connect®
+    *   e-tron®
+    *   MMI®
+    *   quattro®
+    *   Explore All
+    
+    Technology
+    
+    *   Audi connect®
+    *   e-tron®
+    *   MMI®
+    *   quattro®
+    *   Explore All
+    
 *   Audi Sport
 *   myAudi
 *   TDI Settlement
@@ -94,8 +105,9 @@ Own
 *   Audi Financial Services
 *   Account management
 *   Audi collection Store
-*   Parts and Accessories
+*   Accessories
 *   Audi connect
+*   Service and Parts
 
 Explore
 
@@ -131,8 +143,9 @@ Own
 *   Audi Financial Services
 *   Account management
 *   Audi collection Store
-*   Parts and Accessories
+*   Accessories
 *   Audi connect
+*   Service and Parts
 
 *   Contact us
 *   Help
@@ -149,6 +162,6 @@ Own
 *   Recalls
 
 Audi of America. All rights reserved.  
-© Copyright 2017
+© Copyright 2018
 
-<img src="https://audiag.112.2o7.net/b/ss/audiagaoacq5test/1/H.25--NS/1511072713193?cdp=2&amp;gn=%2Fcontent%2Faudiusa%2Fen%2F404" height="1" width="1" border="0" alt=""/>. <iframe src="//s.thebrighttag.com/iframe?c=a525KK2" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
+<img src="https://audiag.112.2o7.net/b/ss/audiagaoacq5test/1/H.25--NS/1518243501395?cdp=2&amp;gn=%2Fcontent%2Faudiusa%2Fen%2F404" height="1" width="1" border="0" alt=""/>. <iframe src="//s.thebrighttag.com/iframe?c=a525KK2" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
