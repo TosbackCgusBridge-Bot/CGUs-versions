@@ -29,17 +29,13 @@ Learn how PayPal makes it easy to shop and send money to family and friends.
 
 Shop, send money, and pay bills without entering your payment info again and again
 
-It's free to send money to friends and family when you use your bank account.\*
+24/7 fraud detection means we work around the clock to help keep your account secure.
 
-Signing up is simple. See for yourself why millions of people love PayPal.
+Pay your way, whether it’s credit, debit, or your bank account.
 
-Save time by not re-typing your credit card details every time you shop.
+Speed through checkout at millions of brands that accept PayPal.
 
-Sign Up for Free
-
-\*Funds go quickly into your friends or families PayPal account. If they don't have one, can sign up for free.
-
-Business
+Sign Up for Free Business
 
 Start accepting all kinds of payments with one PayPal business account.
 
@@ -122,4 +118,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=3472b0b15d7e3&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=f258875d4e4f4bdb9441152b71703e82&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3396&xt=8104&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=ac9f2518378d0&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=2caee83ba5df448289b08a5c3a62f1f0&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3396&xt=8103&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
