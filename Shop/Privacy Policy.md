@@ -324,7 +324,7 @@ Home >. Filter by specs Offers PROVE YOUR LOVE
 
 GIVE THEM SOME SWEET NEW TECH
 
-LAPTOPS &. MORE UP TO $550 OFF >>.
+Shop Deals >.
 
 Durable Vibrant Corning® Gorilla® Glass Covers
 
@@ -473,16 +473,6 @@ Laptops Tablets Desktops Servers Deals Select Country/Region AlgeriaAngolaArgent
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
 
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+SALES HOURS EXTENDED THIS WEEKEND ONLY! Call Center open February 10, 9 am-5 pm EST &. Feb 11, 12 pm-4 pm EST. 1-855-253-6686.
 
-How can we help you today?
-
-CONSUMER SALESCONSUMER SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
-
-Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
-
-1 2 3 4 5 6 7 8 9 10
-
-Please tell us how we can improve your experience:
-
-SUBMIT CHATHIDE
+×
