@@ -199,7 +199,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Philadelphia Dating
+*   Atlanta Dating
 *   Privacy Policy
 *   Terms and Conditions
 *   Dating Safety Tips
