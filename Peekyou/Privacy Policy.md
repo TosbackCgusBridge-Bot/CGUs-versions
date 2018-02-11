@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 18%  7% 
+What is PeekScore? Public Records &. Background Checks 10%  5% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 18%  7% 
     
 *   Show Less ...
 
-18%  18%  Arrest Records &. Driving Infractions
+10%  10%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7% 
+Facebook 5% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 7% 
     
 *   Show Less ...
 
-Twitter 7% 
+Twitter 5% 
 
 *   Justice Department - TheJusticeDept
     
@@ -221,45 +221,45 @@ Twitter 7% 
     
 *   NIH - NIH
     
-*   FTC - FTC
+*   Federal Reserve - federalreserve
     
 *   Show More ...
 
-*   Bush Library - Bush41Library
-    
-*   U.S. FDA - US\_FDA
+*   Free Privacy Policy - FreePrivacy1
     
 *   HealthCare.gov - HealthCareGov
     
 *   HHS.gov - HHSGov
     
-*   Free Privacy Policy - FreePrivacy1
-    
-*   Military Consumer - MilConsumer
+*   Bush Library - Bush41Library
     
 *   Mabuhay Miles - PALMabuhayMiles
     
 *   Cristiano Ronaldo - Cristiano
     
-*   U.S. FDA - FDArecalls
-    
-*   Federal Reserve - federalreserve
+*   FTC - FTC
     
 *   SBA - SBAgov
     
-*   CDC - CDCgov
+*   U.S. FDA - FDArecalls
     
-*   Francis S. Collins - NIHDirector
+*   CDC - CDCgov
     
 *   U.S. Census Bureau - uscensusbureau
     
+*   FDA Drug Information - FDA\_Drug\_Info
+    
 *   IRS - IRSnews
+    
+*   Francis S. Collins - NIHDirector
+    
+*   U.S. FDA - US\_FDA
     
 *   OAIC - OAICgov
     
 *   Show Less ...
 
-Instagram 7% 
+Instagram 5% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -275,13 +275,13 @@ Instagram 7% 
     
 *   privacy&policy - privacyandpolicy
     
-*   Privacy Policy❌☠️ - prv.kennochakt
-    
 *   Рогов Хуго - privacypolicy
     
-*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
-    
 *   Private - \_privacypolicy\_\_
+    
+*   Privacy Policy❌☠️ - prv.kennochakt
+    
+*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
     
 *   Ray - terms\_privacy\_\_policy\_\_
     
@@ -317,16 +317,18 @@ Instagram 7% 
     
 *   Privacy Policy - activesafeaccount2k15\_
     
-*   dashlane - new\_privacypolicy
-    
 *   Loading... - privacy.policy\_\_
     
 *   Privacy Policy - mrprivacypolicy
     
 *   Show Less ...
 
-Pinterest 18%  Wikipedia 7% 
+Pinterest 10%  Wikipedia 5% 
 
+*   Wikipedia
+    
+    Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
+    
 *   P3P
     
     Purpose. As the World Wide Web became a genuine medium in which to sell products and services, electronic commerce websites tried to collect more information about ...
@@ -336,7 +338,7 @@ Pinterest 18%  Wikipedia 7% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 7% 
+Google+ 5% 
 
 *   Expedia - Google+
     
@@ -362,7 +364,7 @@ Google+ 7% 
     
 *   Show Less ...
 
-Linkedin 18%  Music 7% 
+Linkedin 10%  Music 5% 
 
 *   Pandora
     
@@ -408,7 +410,7 @@ Linkedin 18%  Music 7% 
     
 *   Show Less ...
 
-Photo Albums 7% 
+Photo Albums 5% 
 
 *   Flickriver
     
@@ -418,24 +420,28 @@ Photo Albums 7% 
     
     Flickr (pronounced "flicker") is an image-and video-hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on 20 March 2005 ...
     
+*   The World's Best Photos
+    
+    Flickr Hive Mind is a data mining tool for the Flickr database of photography. Flickr Hive Mind is a search engine as well as an experiment in the power of Folksonomies
+    
 
-Myspace 7% 
+Myspace 5% 
 
 *   Privacy Policy - 49086242
     
 *   Privacy Policy - 419681495
     
-*   Privacy Policy - yourbandnameiskewl
-    
-*   Privacy Policy - 71089472
-    
-*   Show More ...
-
 *   Privacy Policy - 98020535
     
 *   Privacy Policy - 80000267
     
+*   Show More ...
+
 *   Privacy Policy - 78109889
+    
+*   Privacy Policy - yourbandnameiskewl
+    
+*   Privacy Policy - 71089472
     
 *   Privacy Policy - youmakemewannaohlala
     
@@ -443,19 +449,19 @@ Myspace 7% 
     
 *   Show Less ...
 
-Documents 7% 
+Documents 5% 
 
 *   Privacy Policy - Google
     
     Privacy Policy. Last modified: December 18, 2017 (view archived versions) (The hyperlinked examples are available at the end of this document.) There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share ...
     
-*   Generic Privacy Policy template - TermsFeed
-    
-    Generic Privacy Policy template. Privacy Policy. Last updated: ​(add date). My Company (change this)​("us", "we", or "our") operates ​http://www.mysite.com ( change this)​ (the. "Site"). This page informs you of our policies regarding the collection, use and disclosure of. Personal Information we receive from users of the ...
-    
 *   Daimler Data Protection Policy PDF
     
     In the information age, we offer customers the means to be always connected, even in their cars. This requires data to be collected and processed. Yet, regardless whether in the car, in vehicle maintenance or when selling a vehicle, we adhere to this principle: When storing and transmitting data, we must ensure a high level ...
+    
+*   Generic Privacy Policy template - TermsFeed
+    
+    Generic Privacy Policy template. Privacy Policy. Last updated: ​(add date). My Company (change this)​("us", "we", or "our") operates ​http://www.mysite.com ( change this)​ (the. "Site"). This page informs you of our policies regarding the collection, use and disclosure of. Personal Information we receive from users of the ...
     
 *   Privacy Policy - WageWorks
     
@@ -463,31 +469,31 @@ Documents 7% 
     
 *   Show More ...
 
+*   PRIVACY POLICY 1. Introduction and General Terms Performance ...
+    
+    PRIVACY POLICY. 1. Introduction and General Terms. Performance Horizon Group Limited (“we” or “us”) is committed to protecting your personal information when you are using performancehorizon.com. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of ...
+    
 *   Privacy Policy - Northern Trust
     
     Please note that any personal information which is provided by you or on your behalf to The. Northern Trust Company or any of its affiliated entities or subsidiaries (the "Company") in connection with your application to the Company for employment will be processed in accordance with the terms of this privacy policy.
-    
-*   Privacy Policy - TD Ameritrade
-    
-    Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. The types of ...
     
 *   Privacy Policy - aiesec
     
     Apr 21, 2017 ... and aiesec.org websites (“Sites”). As you review our policy, keep in mind that it applies to all AIESEC brands, products and services that do not have a separate privacy policy. INFORMATION YOU PROVIDE TO US. We collect information you provide directly to us. For example, we collect information when ...
     
+*   Privacy Policy - TD Ameritrade
+    
+    Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. The types of ...
+    
 *   Privacy Policy - Exelon Corporation
     
     Privacy Policy. EFFECTIVE: August 18, 2017. Exelon Corporation (“Exelon”), its subsidiaries, including Atlantic City Electric Company. (“ACE”), Baltimore Gas and Electric Company (“BGE”), BGE Home Products &. Services, LLC. (“BGE Home”), Commonwealth Edison Company (“ComEd”), Constellation NewEnergy, Inc.
     
-*   Privacy Policy - Fyber
-    
-    We at Fyber care about our users' and partners' privacy and are committed to disclose our data practices. This policy (“Privacy Policy”) explains how Fyber collects, uses and shares personal information about: ○ visitors to Fyber\`s website www.fyber.com,. ○ end users of apps and sites operated by third parties using the ...
-    
-*   Privacy Policy - Fyber
+*   Privacy Policy - Exelon Corporation
     
 *   Show Less ...
 
-Web Search 7% 
+Web Search 5% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -533,13 +539,13 @@ Web Search 7% 
     
 *   Show Less ...
 
-Images 7% 
+Images 5% 
 
 9
 
 20
 
-30
+29
 
 facebookx
 
