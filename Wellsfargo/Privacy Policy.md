@@ -35,7 +35,6 @@ Search Use up and down arrows to navigate suggestions.
     
     *   Tax Center
     *   Banking Made Easy
-    *   Protect What Counts
     *   Planning for Retirement
     *   Fraud Information Center
     
@@ -77,26 +76,6 @@ Search Use up and down arrows to navigate suggestions.
     *   Get Help with Payment Challenges
     *   Finish Application/Check Status
     *   Student Loan Discounts
-    
-      
-    
-*   Insurance Insurance Products and Services
-    
-    *   Insurance Overview
-    *   Auto Insurance
-    *   Specialty Vehicle Insurance
-    
-     
-    
-    *   Homeowners Insurance
-    *   Umbrella Liability Insurance
-    
-    Your Financial Goals
-    
-    *   Protect What Counts
-    *   Borrowing and Credit
-    *   Planning for Retirement
-    *   Home Lending
     
       
     
