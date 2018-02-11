@@ -213,7 +213,7 @@ Close submenu ( Girls ) Girls
 
 *   View All
 *   In Stitches
-*   Give 'Em The Shoulder
+*   Cold Shoulder Tops
 *   Tied + Dyed
 *   Get the Message
 *   All Laced Up
@@ -463,7 +463,7 @@ Menu Find a Store Aeropostale
     *   Girls
         *   View All
         *   In Stitches
-        *   Give 'Em The Shoulder
+        *   Cold Shoulder Tops
         *   Tied + Dyed
         *   Get the Message
         *   All Laced Up
@@ -577,4 +577,4 @@ Stay Connected
 *   Give $15, Get $15
 *   College Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag anExtra 10% OFFPlease enter aboveUNLOCK 10% OFFI DON'T WANT 10% OFFYOU’VE SNAGGED 10% OFFUse Code{cpn\_10\_PCT\_OFF}at checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
+© 2018 Aeropostale. All Rights Reserved.
