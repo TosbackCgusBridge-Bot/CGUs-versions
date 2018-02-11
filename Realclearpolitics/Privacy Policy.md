@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   David Brooks: Every Side Gets To Spend On What They Want To, That's How They Can Compromise
 *   Chuck Todd: Trump Presidency Like "Living Inside A Parody," "Difficult To Take It Anymore"
 *   Cillizza: Rand Paul Is The Conscience Of The Republican Party, Circa 2010, Saying "Wait A Minute!"
 *   WH's Raj Shah: "Omarosa Was Fired Three Times On The Apprentice, This Is The Fourth Time"
 *   Stephen F. Cohen: Intel Community Fourth Branch Of Government, Influences Voters With Media Leaks
-*   Attkisson: Journalists "Begging" Not To Be Told About Surveillance Abuses. Propagandists in Newsrooms
 
 *   Politics
 *   Policy
