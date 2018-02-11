@@ -50,10 +50,10 @@ menu Close 0 Free Shipping on $50+
 *   Women FEATURED SHOPS
     
     *   New Arrivals
-    *   Now &. Later Looks
+    *   Spring Looks to Love
     *   The Starfish Collection
+    *   Soft Leisure
     *   Tunic Shop
-    *   Coats of Spring
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -266,6 +266,8 @@ menu Close 0 Free Shipping on $50+
     *   Rash Guards &. Swim Shirts
     
     FEATURED SHOPS
+    *   Her Swim Looks To Love
+    *   Little Black Suit
     *   Women's Swim Finder
     *   Women's Mix &. Match Tool
     *   Water Shoes &. Sandals
@@ -393,10 +395,10 @@ menu Close 0 Free Shipping on $50+
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
-        *   Now &. Later Looks
+        *   Spring Looks to Love
         *   The Starfish Collection
+        *   Soft Leisure
         *   Tunic Shop
-        *   Coats of Spring
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -605,6 +607,8 @@ menu Close 0 Free Shipping on $50+
         *   Rash Guards &. Swim Shirts
     *   FEATURED SHOPS
         *   Back
+        *   Her Swim Looks To Love
+        *   Little Black Suit
         *   Women's Swim Finder
         *   Women's Mix &. Match Tool
         *   Water Shoes &. Sandals
