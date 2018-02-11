@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA satellites aid in the rescue of 275 lives in 2017 AROUND NOAA // January brought largest drought footprint in nearly 4 years to U.S. Explore your world at the NOAA Open House Study: People in parts of U.S. and beyond breathe unhealthy ozone pollution more than 2 weeks a year
+Enter Search Terms NOAA satellites aid in the rescue of 275 lives in 2017 AROUND NOAA // January brought largest drought footprint in nearly 4 years to U.S. Study: People in parts of U.S. and beyond breathe unhealthy ozone pollution more than 2 weeks a year Podcast: Geodesy, the invisible backbone of navigation
 
 *   About our agency
 *   News and features
