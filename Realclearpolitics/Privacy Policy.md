@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Adam Schiff on Nunes Memo Allegations: FBI "Acted Completely Appropriately" With All FISA Warrants
+*   Devin Nunes: Democrats Have Been on TV All Weekend Long, Instead Of Preparing Their Memo For Release
+*   MSNBCer: Sexual Abuse Is "An Apt Metaphor" For Trumpism. "This Is A Rape Culture Presidency"
 *   David Brooks: Every Side Gets To Spend On What They Want To, That's How They Can Compromise
 *   Chuck Todd: Trump Presidency Like "Living Inside A Parody," "Difficult To Take It Anymore"
-*   Cillizza: Rand Paul Is The Conscience Of The Republican Party, Circa 2010, Saying "Wait A Minute!"
-*   WH's Raj Shah: "Omarosa Was Fired Three Times On The Apprentice, This Is The Fourth Time"
-*   Stephen F. Cohen: Intel Community Fourth Branch Of Government, Influences Voters With Media Leaks
 
 *   Politics
 *   Policy
