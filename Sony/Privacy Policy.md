@@ -131,7 +131,7 @@ Play Capture the Action of Winter Sports Video hotspot
 
 Watch @Yg\_Trece unbox the limited edition #PG2 PlayStation colorway for the first time: Dropping tomorrow on SNKRS @nikebasketball http://play.st/COPPIN.
 
-20 hours ago
+1 day ago
 
 View Tweet
 
@@ -205,7 +205,7 @@ The Sony Rewards Mobile App
 
 .@thegreatkhalid kicks off our #LostInMusic: Sessions series with a performance of "8TEEN" like you've never heardbbefore. Premiering Sunday, February 11: http://lostinmusic.sony
 
-18 hours ago
+1 day ago
 
 View Tweet
 
@@ -287,7 +287,7 @@ Play Jack White Returns with a New Single Video hotspot
 
 Hop to it. Upload your #PeterRabbitMovie tickets for #SonyRewardsPoints.
 
-21 hours ago
+1 day ago
 
 View Tweet
 
