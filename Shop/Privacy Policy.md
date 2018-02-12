@@ -356,9 +356,7 @@ Yoga Tab 3 Pro
 
 Say goodbye to your TV and hello to the ultimate entertainment tablet.
 
-CLEARANCE SALE  
-Grab these unbelievable deals on laptops, desktops and cases that last—because these prices won’t!  
-SAVE AS MUCH AS $1,900 THROUGH FEB. 11
+EXPLORE AUGMENTED AND VIRTUAL REALITY
 
 LAPTOPS
 
@@ -473,6 +471,16 @@ Laptops Tablets Desktops Servers Deals Select Country/Region AlgeriaAngolaArgent
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
 
-SALES HOURS EXTENDED THIS WEEKEND ONLY! Call Center open February 10, 9 am-5 pm EST &. Feb 11, 12 pm-4 pm EST. 1-855-253-6686.
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
-×
+How can we help you today?
+
+CONSUMER SALESCONSUMER SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
+
+Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
+
+1 2 3 4 5 6 7 8 9 10
+
+Please tell us how we can improve your experience:
+
+SUBMIT CHATHIDE
