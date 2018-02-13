@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites NOAA satellites aid in the rescue of 275 lives in 2017 Across NOAA Explore your world at the NOAA Open House National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries It's #WhaleWeek at NOAA Satellites NOAA satellites aid in the rescue of 275 lives in 2017 National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA satellites aid in the rescue of 275 lives in 2017 AROUND NOAA // January brought largest drought footprint in nearly 4 years to U.S. Study: People in parts of U.S. and beyond breathe unhealthy ozone pollution more than 2 weeks a year Podcast: Geodesy, the invisible backbone of navigation
+Enter Search Terms It's #WhaleWeek at NOAA Science is helping us better understand the threats whales face. See how. AROUND NOAA // NOAA satellites aid in the rescue of 275 lives in 2017 January brought largest drought footprint in nearly 4 years to U.S. Study: People in parts of U.S. and beyond breathe unhealthy ozone pollution more than 2 weeks a year
 
 *   About our agency
 *   News and features
@@ -125,5 +125,3 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
-
-iStock
