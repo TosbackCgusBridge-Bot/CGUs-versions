@@ -6,6 +6,14 @@ Change country/language X
 
 *   Sign In
     
+    Autodesk Account
+    
+    Manage products &. downloads
+    
+    Account settings
+    
+    Sign In
+    
     Manage products &. downloads
     
     Account settings
