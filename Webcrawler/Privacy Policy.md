@@ -2,11 +2,11 @@
 
 *   Web
 *   |
+*   News
+*   |
 *   Images
 *   |
 *   Videos
-*   |
-*   News
 
 Privacy Policy
 
@@ -96,11 +96,11 @@ Policy effective January 1, 2005
 
 *   © 2018 InfoSpace Holdings LLC
 *   About
-*   .
-*   Privacy
-*   .
-*   Terms
-*   .
+*   |
+*   Privacy Policy
+*   |
+*   Terms of Use
+*   |
 *   Contact Us
 
 this prevents back forward cache
