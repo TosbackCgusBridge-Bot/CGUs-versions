@@ -1,116 +1,105 @@
-SPECIAL OFFER FREE V-DAY BOUQUET\*
-
-with ticket or gift card purchase.
-
-Gift Cards | Offers | Sign In Sign Out SPECIAL OFFER X Receive a free Valentine's Day bouquet\* with ticket or gift card purchase. \*Plus $15 delivery fee to ship free bouquet. Valid for your first purchase on bouqs.com. For new Bouqs users only. Offer is valid from 2:00 pm PT on January 30, 2018 through 10:00 AM PT on February 12, 2018, subject to ticket availability. Each eligible ticket purchaser and each Fandango gift card purchaser on Fandango.com or via the Fandango App will receive a post-purchase email with a code redeemable on bouqs.com (”Code”) valid for a discount of up to $40 off the purchase price of a select bouquet available at bouqs.com/fandango only. Code is valid for one product only. Code expires on 2/28/2018. Ticket purchase must be made with a Fandango VIP account. Fandango VIP is free to join. Offer valid in the U.S. only to residents 18 years of age or older. Limit one (1) Code per person and eligible transaction, regardless of the number of tickets or gift cards purchased in a single transaction. Code may not be combined with any other offer or discount. This is a promotional code and is not to be shared, is non-transferable, is not for resale, has no cash value, and will not be replaced if lost or stolen.
+Gift Cards | Offers | Sign In Sign Out
 
 *   Fandango
 *   Go
 
 *   Movies Now Playing
     
+    *   Fifty Shades Freed
+    *   Peter Rabbit
+    *   The 15:17 to Paris
     *   Jumanji: Welcome to the Jungle
+    *   The Greatest Showman
     *   Maze Runner: The Death Cure
     *   Winchester (2018)
-    *   The Greatest Showman
-    *   Hostiles
     *   The Post
-    *   12 Strong
-    *   Den of Thieves
+    *   Hostiles
     *   The Shape of Water (2017)
-    *   Paddington 2
-    *   Three Billboards Outside Ebbing, Missouri
+    *   Den of Thieves
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Winchester (2018)
-    *   Bilal: A New Breed of Hero
-    *   The Cage Fighter
-    *   A Fantastic Woman
-    *   Scorched Earth
-    *   See All Opening This Week
-    
-    Pre Sales Tickets
-    
     *   Black Panther
+    *   Early Man
+    *   Samson (2018)
+    *   The Boy Downstairs
+    *   Detective Chinatown 2
+    *   Detective K: Secret of the Living Dead
+    *   Double Lover
+    *   Loveless
+    *   The Monkey King 3
+    *   Nostalgia (2018)
+    *   Oh Lucy!
+    *   See All Opening This Week
     
     Coming Soon
     
-    *   Early Man
-    *   Samson (2018)
     *   Annihilation
-    *   Game Night (2018)
     *   Every Day (2018)
-    *   Red Sparrow
+    *   Game Night (2018)
     *   Death Wish (2018)
+    *   Red Sparrow
     *   A Wrinkle in Time
+    *   Strangers: Prey at Night
+    *   The Hurricane Heist
     *   See All Coming Soon
     
     Explore More
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   Regal Park Place Stadium 16 &. RPX 7200 US Highway 19 North
-    *   Cobb Tyrone Luxury 10 2998 Tyrone Blvd N.
-    *   Studio Movie Grill Seminole 7718 113th Street N
-    *   AMC Sundial 20 151 2nd Ave North St.
-    *   Regal Largo Mall 8 10500 Ulmerton Rd East
-    *   Capitol Theater 405 Cleveland Street
-    *   Sunset Point Cinema Bar &. Grille 24095 U.S. Highway 19 North
-    *   Cobb Countryside 12 Cinemas 27001 US Highway 19 N.
-    *   Britton Cinemas 3938 South Dale Mabry Hwy
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: 'Shape of Water' Director Guillermo del Toro Named Year's Best Read More
-    *   How J.J. Abrams' 'The Cloverfield Paradox' Ties Into His Connected Universe Read More
-    *   'Solo: A Star Wars Story' Trailer: All Your Questions Answered Read More
+    *   Movie News: Jake Gyllenhaal to Star in 'Finest Kind' Crime Thriller Read More
+    *   Dwayne Johnson Reteaming With 'Skyscraper' Director for 'Red Notice' Read More
+    *   'Get Out' and 'Call Me By Your Name' Win Top Writers Guild Awards Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
     *   Awards Watch
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 33780 Edit Zip Code
+*   My VIP Account Join FandangoVIP Refunds + Exchanges
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Partner Rewards
     
-
-See all insider perks Payment Method
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Refunds + Exchanges
-
-Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
-
-Learn more Partner Rewards
-
-Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
-
-Learn more My Fandango
-
-Save your favorite theaters and movies to experience a customized Fandango just for you.
-
-Learn more Insider Perks
-
-Get the VIP treatment, free screenings, digital downloads, discounts and more.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
+    
+    Learn more My Fandango
+    
+    Save your favorite theaters and movies to experience a customized Fandango just for you.
+    
+    Learn more Insider Perks
+    
+    Get the VIP treatment, free screenings, digital downloads, discounts and more.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms
 
@@ -279,18 +268,18 @@ Offers
     
     Receive a FREE\* exclusive 'Black Panther' poster with ticket purchase. BUY TICKETS
     
-*   20% Off Your First Month
+*   'Jurassic World: Fallen Kingdom' Sweepstakes
     
-    Watch the latest movies before Netflix, Hulu and Amazon Prime. New customers get 20% off everything for their first 30 days. SEE DETAILS
+    Sign up for a ‘Jurassic World: Fallen Kingdom’ FanAlert® for your chance to win a trip to the filming location in Hawaii. SIGN UP
     
-*   The Bouqs Valentine's Day Gift With Purchase
+*   Fandango VIP
     
-    Receive a free Valentine's Day bouquet\* with ticket or gift card purchase. BUY TICKETS
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 
 New + Coming soon
 
-*   Maze Runner: The Death Cure
+*   Peter Rabbit
 *   Fifty Shades Freed
 *   Black Panther
 *   A Wrinkle in Time
