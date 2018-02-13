@@ -29,17 +29,13 @@ Learn how PayPal makes it easy to shop and send money to family and friends.
 
 Shop, send money, and pay bills without entering your payment info again and again
 
-Keep earning your rewards when you use your credit card to shop with PayPal.\*
+24/7 fraud detection means we work around the clock to help keep your account secure.
 
-Check out how you want. Use your credit, debit or bank account.
+Pay your way, whether it’s credit, debit, or your bank account.
 
-Shop the world with peace of mind while we help keep your account secure.
+Speed through checkout at millions of brands that accept PayPal.
 
-Sign Up for Free
-
-\*Issuer rewards program is subject to the issuer’s rewards program terms and conditions.
-
-Business
+Sign Up for Free Business
 
 Start accepting all kinds of payments with one PayPal business account.
 
@@ -53,37 +49,15 @@ Borrow for your business with affordable business loans. Learn more
 
 Get live support and seller protection.
 
-Get Started Gift money with ease.
+Get Started Send money to friends and family.
 
-Seize the season by sending money to friends &. family in just a few clicks for the perfect present.
+It's free to send money to friends and family in the U.S. when you use your bank account or PayPal balance.\*
 
-Gift money now
+Send Money Now
 
-\*Recipients must have a PayPal account. Signing up for an account is free.
+\*Funds go quickly into their PayPal account. If they don't have one, they can sign up for free.
 
-Join 200+ million people who use PayPal to
-
-Pay securely on millions of sites
-
-*   Pay securely on millions of sites
-*   Send money in the U.S. and abroad
-*   Donate to a cause
-*   Pay over time with PayPal Credit
-*   Accept payments for business
-
-1
-
-Sign up free with your email, name, address, and number.
-
-2
-
-Securely link your favorite banks, debit cards, and credit cards.
-
-3
-
-Use your PayPal login to skip entering your bank and card info.
-
-Sign Up for FreeLearn more about paying onlineMake your money go further with PayPal. Know your payments are secure
+Make your money go further with PayPal. Know your payments are secure
 
 Whether you’re buying or selling, get the security you expect plus purchase or seller protection on all eligible transactions.
 
@@ -122,4 +96,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=d9235bc44567a&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=fe13c39b289d4251881ffd300ef7fd00&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&xe=3396&xt=8105&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&qual=&tmpl=home.dust&pgst=Unknown&lgin=out&vers=&calc=5e611b88d6e37&rsta=en\_US&pgtf=Nodejs&s=ci&ccpg=us&csci=d4dc89643b304e54b5186bc9925b7285&comp=mppnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=personal&shir=main\_mktg\_personal\_&pros=3&ptnr=&lgcook=0" alt="" height="1" width="1" border="0">.
