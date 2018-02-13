@@ -28,12 +28,11 @@
 
 MetrixLab MetrixLab
 
-NEXT GENERATION DATA AND INSIGHTS THAT EMPOWER AND INSPIRE
+Next generation data and insights that empower and inspire
 
 We are experts in digital, social, mobile and big data. And we pioneer new technologies and techniques to disrupt traditional research thinking. This enables us to provide high-quality insights at scale, at speed and for an unparalleled value.
 
-TRUSTED GLOBALLY IN OVER 90 COUNTRIES,  
-WE HELP WORLD-LEADING BRANDS TO WIN AT:
+Trusted globally in over 90 countries, we help world-leading brands to win at:
 
 Advertising &. Brand
 
