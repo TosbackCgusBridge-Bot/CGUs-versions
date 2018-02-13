@@ -1,44 +1,34 @@
-SUPER BOWL LII
-
-*   PHI16-341NE15-433Final
-
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Video
 *   Fantasy
-*   Super Bowl
+*   Combine
 *   Tickets
 *   Shop
 *   Teams
-*   Pro Bowl
+*   Super Bowl
 *   Game Pass
 *   Stats
 *   Ways to Watch
 *   NFL Network
 *   Photos
 
-SUPER BOWL LII
-
-*   PHI41NE33Final
-
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Video
 *   Fantasy
-*   Super Bowl
+*   Combine
 
-*   *   Pro Bowl
+*   *   Super Bowl
     *   Game Pass
     *   Stats
     *   Ways to Watch
     *   NFL Network
     *   Photos
-
-ScoresClose
 
 *   Tickets
 *   Shop
