@@ -133,7 +133,7 @@ We may share information about you with third parties, as described below, and a
     
 3.  3\.  Other Marketers
     
-    We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers for their products and services. If you don't want this information shared with these merchants and exchanges, please click here, select Nondisclosure of Personal Information Request for the Email Subject and complete the form..
+    We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers for their products and services. If you don't want this information shared with these merchants and exchanges, please click here, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form..
     
 4.  4\.  Law Enforcement and Emergency Response
     
@@ -180,11 +180,11 @@ What choices do you have over how your information is used?
     
 8.  8\.  Other Marketers
     
-    If you don't want your basic contact and purchase information shared with other merchants and exchanges for their direct marketing purposes, please click here, select Nondisclosure of Personal Information Request for the Email Subject and complete the form..
+    If you don't want your basic contact and purchase information shared with other merchants and exchanges for their direct marketing purposes, please click here, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form..
     
 9.  9\.  Our Sister Brands
     
-    If you don't want your contact and purchase information shared with our sister brands for their direct marketing purposes, please click here, select Nondisclosure of Personal Information Request for the Email Subject and complete the form.
+    If you don't want your contact and purchase information shared with our sister brands for their direct marketing purposes, please click here, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form.
     
 
 Back To Top
@@ -246,11 +246,4 @@ This privacy policy was last updated on the Effective Date listed above. Please 
 
 Back To Top
 
-Close Stay in touch  
-&. in style
-
-Be the first to know about new products, special offers, store events and more.
-
-United States / U.S. TerritoryCanadaMilitary APO / DPO / FPOAland IslandsAlbaniaAlgeriaAndorraAngolaAnguillaAntigua &. BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Sint Eustatius &. SabaBosnia-HerzegovinaBotswanaBrazilBritish Virgin IslandsBrunei DarussalamBulgariaBurkina FasoBurma (Myanmar)BurundiCambodiaCameroonCape VerdeCayman IslandsCentral African RepublicChadChileColombiaCongo (Brazzaville)Cook IslandsCosta RicaCroatiaCuracaoCyprusCzech RepublicDemocratic Republic of CongoDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaGabonGambiaGaza StripGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuatemalaGuineaGuinea-BissauGuyanaHaitiHondurasHong KongHungaryIcelandIndiaIndonesiaIraqIrelandIsle of ManIsraelItalyIvory CoastJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaos Peoples Democratic RepublicLatviaLebanonLesothoLiberiaLiechtensteinLithuaniaLuxembourgMacauMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMartiniqueMauritaniaMauritiusMexicoMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueNamibiaNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorfolk IslandNorwayOmanPakistanPanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarReunionRomaniaRussiaSaint BarthelemySaint LuciaSaint Martin (French Part)SamoaSan MarinoSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint Maarten (Dutch Part)SlovakiaSloveniaSolomon IslandsSouth AfricaSouth KoreaSpainSri LankaSt. Kitts &. NevisSt. Vincent &. The GrenadinesSudanSurinameSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwanTajikistanTanzaniaThailandTogoTongaTrinidad &. TobagoTunisiaTurkeyTurkmenistanTurks &. Caicos IslandsTuvaluU.S. Minor Outlying IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamWallis &. Futuna IslandsYemenZambiaZimbabwe Select Location\* Email Field Email Address Form Actions Submit
-
-By submitting, you agree to these Terms &. Conditions. You may unsubscribe any time. View Contact Info and Privacy Policy.
+Close
