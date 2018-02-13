@@ -8,13 +8,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Donald Pliner
+    *   Donald Pliner Men
+    *   tarte cosmetics
+    *   Diesel
+    *   Maac London Up to 80% Off
+    *   Oscar de la Renta
+    *   Derek Lam 10 Crosby
+    *   People's Project LA
+    *   LOVE Moschino Handbags
+    *   Catherine Catherine Malandrino
+    *   Lysse Leggings Including Plus
+    *   Spring Forward: Jackets Starting at $40
+    *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
+    *   Chase &. Chloe
+    *   Perry Ellis
+    *   Slate &. Stone
+    *   Kenneth Cole Men's Outerwear &. More
+    *   Barefoot Dreams Baby &. Kids
+    *   Total Dreamz Nightlights
+    *   Fiona Walker: Room Decor for Kids
+    *   Sleek Tech Accessories
+    *   Free Shipping: Flannel Bedding, Throws &. More
+    *   Free Shipping: Wall Decals &. More Starting at $10
     *   Vertigo Up to 85% Off
     *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Sunday Blowout: Styles Up to 75% Off
     *   Boots, Booties &. Flats Up to 70% Off
     *   Samuel B Jewelry Up to 60% Off
-    *   Dream-Worthy Steals: Sleep Up to 70% Off
-    *   Cap Shop: Hats Up to 75% Off
+    
     *   Men's Shoes Up to 60% Off
     *   Bulova Watches Up to 70% Off
     *   Home Blowout: Tech, Decor &. More
@@ -37,13 +59,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Mr. Swim &. More
     *   Road Trip: HEX Backpacks &. More Starting at $20
     *   Lilac Maternity
-    
     *   Funkyberry
     *   Sunglasses Under $25 ft. Quay
     *   Fit to Flatter: Dresses We Love Up to 70% Off
     *   Step into Comfort: Shoes ft. Born &. Naturalizer
     *   Kenneth Cole New York Clothing
     *   Kenneth Cole New York Swim
+    
     *   Doma &. More Up to 60% Off
     *   Treasure Hunt: Sterling Silver Jewelry Under $50
     *   James Jeans
@@ -62,50 +84,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rogue Up to 80% Off
     *   Kenneth Cole New York Men
     *   Kenneth Cole New York
-    *   PRJON Active Up to 75% Off
-    *   Gear Up: Sneakers &. Accessories
-    *   Now &. Zen: Yogawear Starting at $20
-    *   Gym Bound: Sporty Styles Starting at $20
     *   Ready, Set, Sweat: K-Swiss &. More
-    
     *   Gear Up: Men's Workout Sneakers
-    *   Gear Up: Kids' Activewear &. Shoes
-    *   GREY Jason Wu
-    *   Gucci Watches Up to 50% Off
-    *   Fitflop
-    *   Flying Tomato &. More Under $35
-    *   Analili Up to 75% Off
     *   Cuisinart
-    *   A Che' Swim
-    *   On-Trend Tops: Prints, Poplin &. More
-    *   Made in Italy: Summit
-    *   Jason Wu Handbags &. More Up to 60% Off
-    *   Lovely Layers: Gemstones, Stacking Rings &. More
-    *   Restricted Under $45
-    *   FaceBase Cosmetics Under $20
     *   Weekend Casual: Imperial Motion &. More
     *   Gordon Rush
     *   Sleigh Winter: Snow Tubes at $19
-    *   Street Chic: Jackets Up to 60% Off
-    *   Lancaster Paris &. More
     *   Performance Sun ft. Nike Up to 70% Off
-    *   Men's Premium Jean Shop: JOE'S Jeans &. More
-    *   Toscano
-    *   Free Shipping: Art for Every Personality
-    *   Spring Clean: Organization Essentials from $10
-    *   Bebe Girls
-    *   Cool Looks for Boys ft. Psycho Bunny
+    *   Dream-Worthy Steals: Sleep Up to 70% Off
     *   Ben Sherman Luggage &. More
-    *   PALLADIUM
+    *   Cap Shop: Hats Up to 75% Off
 *   WomenShop Sale Events
     
+    *   Donald Pliner
+    *   tarte cosmetics
+    *   Diesel
+    *   Maac London Up to 80% Off
+    *   Oscar de la Renta
+    *   Derek Lam 10 Crosby
+    *   People's Project LA
+    *   LOVE Moschino Handbags
+    *   Catherine Catherine Malandrino
+    *   Lysse Leggings Including Plus
+    *   Spring Forward: Jackets Starting at $40
+    *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
+    *   Chase &. Chloe
     *   Vertigo Up to 85% Off
     *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Sunday Blowout: Styles Up to 75% Off
     *   Boots, Booties &. Flats Up to 70% Off
     *   Samuel B Jewelry Up to 60% Off
-    *   Dream-Worthy Steals: Sleep Up to 70% Off
-    *   Cap Shop: Hats Up to 75% Off
     *   Bulova Watches Up to 70% Off
     *   Lafayette 148 New York Including Petites
     *   24/7 Comfort
@@ -113,6 +121,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Peace Love World
     *   Saha Swim
     *   14K Gold Jewelry Under $80
+    
     *   Simply Couture Under $35
     *   Wolverine Up to 60% Off
     *   Ash
@@ -127,7 +136,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kenneth Cole New York Swim
     *   Doma &. More Up to 60% Off
     *   Treasure Hunt: Sterling Silver Jewelry Under $50
-    
     *   James Jeans
     *   Antelope
     *   Handcrafted Leather Bags
@@ -137,35 +145,24 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   ALEX &. ANI Charm Bracelets Up to 50% Off
     *   Dial Style: Watches Starting at $30
     *   Kenneth Cole New York
-    *   PRJON Active Up to 75% Off
-    *   Gear Up: Sneakers &. Accessories
-    *   Now &. Zen: Yogawear Starting at $20
-    *   Gym Bound: Sporty Styles Starting at $20
-    *   GREY Jason Wu
-    *   Gucci Watches Up to 50% Off
-    *   Fitflop
-    *   Flying Tomato &. More Under $35
-    *   Analili Up to 75% Off
-    *   A Che' Swim
-    *   On-Trend Tops: Prints, Poplin &. More
-    *   Made in Italy: Summit
-    *   Jason Wu Handbags &. More Up to 60% Off
-    *   Lovely Layers: Gemstones, Stacking Rings &. More
-    *   Restricted Under $45
-    *   FaceBase Cosmetics Under $20
-    *   Street Chic: Jackets Up to 60% Off
-    *   Lancaster Paris &. More
+    *   Dream-Worthy Steals: Sleep Up to 70% Off
+    *   Cap Shop: Hats Up to 75% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Lingerie
     *   Accessories
+    *   Lingerie
+    *   Tech Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Donald Pliner Men
+    *   Perry Ellis
+    *   Slate &. Stone
+    *   Kenneth Cole Men's Outerwear &. More
     *   Men's Shoes Up to 60% Off
     *   Bulova Watches Up to 70% Off
     *   Tailored Perfection: Suits Under $250
@@ -173,22 +170,18 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Mr. Swim &. More
     *   Road Trip: HEX Backpacks &. More Starting at $20
     *   Andrew Christian
+    
     *   Au Noir
     *   Bugatchi
     *   Dial Style: Watches Starting at $30
     *   Rogue Up to 80% Off
-    
     *   Kenneth Cole New York Men
     *   Ready, Set, Sweat: K-Swiss &. More
     *   Gear Up: Men's Workout Sneakers
-    *   Gucci Watches Up to 50% Off
     *   Weekend Casual: Imperial Motion &. More
     *   Gordon Rush
     *   Performance Sun ft. Nike Up to 70% Off
-    *   Men's Premium Jean Shop: JOE'S Jeans &. More
-    *   Toscano
     *   Ben Sherman Luggage &. More
-    *   PALLADIUM
     
     Shop By Category
     *   Clothing
@@ -197,22 +190,26 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Barefoot Dreams Baby &. Kids
+    *   Total Dreamz Nightlights
+    *   Fiona Walker: Room Decor for Kids
     *   Lilac Maternity
     *   Funkyberry
-    *   Gear Up: Kids' Activewear &. Shoes
-    *   Bebe Girls
-    *   Cool Looks for Boys ft. Psycho Bunny
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Boys Sizes 8-20
-    *   Boys Sizes 2T-7
+    *   Baby Gear &. Essentials
     *   Girls Sizes 7-16
-    *   Girls' Shoes
+    *   Boys Sizes 2T-7
     *   Baby Girl
-    *   Boys' Shoes
+    *   Boys Sizes 8-20
+    *   Baby Boy
+    *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Sleek Tech Accessories
+    *   Free Shipping: Flannel Bedding, Throws &. More
+    *   Free Shipping: Wall Decals &. More Starting at $10
     *   Home Blowout: Tech, Decor &. More
     *   Spring Clean: Organization Essentials from $13
     *   Free Shipping: Art Blowout
@@ -220,13 +217,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Chic Bedding Starting at $10
     *   Cuisinart
     *   Sleigh Winter: Snow Tubes at $19
-    *   Free Shipping: Art for Every Personality
-    *   Spring Clean: Organization Essentials from $10
     
     Shop By Category
     *   Home Decor
-    *   Organization
     *   Bedding
+    *   Organization
     *   Kitchen &. Tabletop
     *   Luggage &. Travel
     *   Bath
@@ -234,10 +229,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   tarte cosmetics
     *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Blown Away: Hair Tools Up to 80% Off
     *   LAFCO New York
-    *   FaceBase Cosmetics Under $20
     
     Shop By Category
     *   Skin Care
