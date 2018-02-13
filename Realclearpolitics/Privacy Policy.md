@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Jenkins &. Elliott_: Budget Deal Shows Not Everything in Washington Is Broken
+*   _Ben Domenech_: Dear America: Your News Media Absolutely Hates You
     
-*   _Ed Rogers_: Are Republicans Still the Party of Fiscal Restraint?
+*   _Ezra Klein_: Donald Trump, Fox News and the Logic of Alternative Facts
     
-*   _Gabriel Sherman_: With Porter Out, the Heat on John Kelly Is Increasing
+*   _Eli Lake_: We Should Care About What Happened to Carter Page
     
-*   _Mollie Hemingway_: When Did Obama First Learn About the Dossier?
+*   _Matt Barreto_: Democrats Can Win on Immigration
     
-*   _Nicholas Kristof_: President Trump, If You're Innocent, Why Act So Guilty?
+*   _Jen Kerns_: The Latest Polls Don't Bode Well for Dems in the Midterms
     
-*   _Tom Bevan_: The Takeaway: It's Trump's Economy Now
+*   _Jennie Willoughby_: President Trump Will Not Diminish My Truth
     
-*   _Alex Seitz-Wald_: Democrats Expand Battleground, Target 101 House Seats
+*   _Sarah Chamberlain_: What Women Want in 2018
     
-*   _Michael Barone_: Gentry Liberals Own the Democratic Party
+*   _Carrie Lukas_: A Fiscally Responsible Paid Leave Plan Even Ryan Could Love
     
-*   _Dana Houle_: Nancy Pelosi Is Incredibly Underrated
+*   _Mona Eltahawy_: Channeling Putin in Cairo
     
-*   _Enjeti & Simonson_: Why Did CNN Hire Former Comey Assistant Josh Campbell?
+*   _Ted Galen Carpenter_: Why Are Democrats Obsessed With Russia?
     
-*   _Sam Kim_: Inside North Korea's Hacker Army
+*   _Yochi Dreazen_: Here's What War With North Korea Would Look Like
     
-*   _Huey-Burns &. Arkin_: Brief Shutdown, Budget Passes, Immigration Fight Looms
+*   _Albert Hunt_: Nearly Everyone Loses If Immigration Deal Fails
     
-*   _Sen. Rand Paul_: On Spending, There Is No Conservative Party
+*   _Brandon Weichert_: In Your Heart, You Know Rand Paul Was Right
     
-*   _Bill Scher_: Deficits Don't Matter. So Why Are Dems Moaning About Them?
+*   _Robert Samuelson_: Why Congress's Debt Deal Should Worry Us
     
-*   _Fred Barnes_: A Man With a Plan: Newt's Strategy for GOP Victory
+*   _Rich &. Sang-Hun_: Kim Jong-un's Sister Upstages Pence at the Olympics
     
-*   _Karen Tumulty_: Nancy Pelosi: The Stories Kept Coming
+*   _Reinstein &. Mack_: Kim Jong Un's Sister Is a Garbage Monster
     
-*   _Will Stancil_: Dem 'Resistance' to Trump Is Eroding &. So Are Their Polls
+*   _Paul Sperry_: CIA Ex-Director Brennan's Perjury Peril
     
-*   _Kimberley Strassel_: Who Is Christopher Steele?
+*   _David Remnick_: A Reckoning With Women Awaits Trump
     
-*   _Will Saletan_: How the GOP Ended Up Defending Putin Apologist Carter Page
+*   _Roger Cohen_: Lesson for Dems: The Same Old Won't Work in 2020
     
-*   _Roger Simon_: Democrats Are Headed for a World of (Deserved) Hurt
+*   _Victor Davis Hanson_: Republican Embarrassments
     
-*   _Michelle Goldberg_: Rob Porter Is Donald Trump's Kind of Guy
+*   _Julian Zelizer_: What Trump-Era Democrats Can Learn From LBJ
     
-*   _George Neumayr_: Media's Glass House Couldn't Be Any Larger
+*   _John Fund_: When Coin Toss Is Called Racist, the Charge Has Lost All Meaning
     
-*   _Eugene Robinson_: Trump Wants the Pomp Without the Circumstance
+*   _Anna Holmes_: Black With (Some) White Privilege
     
-*   _Rich Lowry_: A Grand Parade to Honor Our Veterans Is Long Overdue
+*   _Newt Gingrich_: SpaceX Rocket Is Big Step Toward Reasserting U.S. Leadership
     
 
 *   Previous
@@ -249,10 +249,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Kelly Getting Scrutiny After Senior Aide's Resignation
+*   Republicans Eye Trump District as Minn. Democrat Retires
 *   After Brief Shutdown, Budget Passes, Immigration Fight Looms
-*   Paul: On Spending, There Is No Conservative Party
-*   Holder: Obama Respected "Wall" Between White House, Justice
+*   Jordan: "Big Concerns" With Paul Ryan Over Spending Increase
+*   Kelly Getting Scrutiny After Senior Aide's Resignation
 *   Republicans See Trump as Top Asset in Senate Races
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -268,25 +268,25 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve40
+    *   Disapprove57Disapprove +17
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove50Disapprove +2
+*   Direction of CountryRasmussen Reports
+    *   Right Direction43
+    *   Wrong Track52Wrong Track +9
 *   President Trump Job ApprovalMarist
     *   Approve39
     *   Disapprove56Disapprove +17
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
-*   2018 Generic Congressional VoteMarist
-    *   Democrats49
-    *   Republicans38Democrats +11
-*   Direction of CountryMarist
-    *   Right Direction37
-    *   Wrong Track57Wrong Track +20
 
 More Latest Polls In The News
 
+*   CNN's Acosta vs. Huckabee Sanders: Was Trump "Defending" Porter Because Of His Own Allegations?
+*   Bartiromo: Hillary Clinton Had The Full Weight And Strength Of The U.S. Government Behind Her
 *   Adam Schiff on Nunes Memo Allegations: FBI "Acted Completely Appropriately" With All FISA Warrants
 *   Devin Nunes: Democrats Have Been on TV All Weekend Long, Instead Of Preparing Their Memo For Release
-*   MSNBCer: Sexual Abuse Is "An Apt Metaphor" For Trumpism. "This Is A Rape Culture Presidency"
-*   David Brooks: Every Side Gets To Spend On What They Want To, That's How They Can Compromise
 *   Chuck Todd: Trump Presidency Like "Living Inside A Parody," "Difficult To Take It Anymore"
 
 *   Politics
