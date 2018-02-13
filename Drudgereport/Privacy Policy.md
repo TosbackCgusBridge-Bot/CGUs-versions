@@ -133,23 +133,23 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+Having a tough time deciding which industry events to attend? Have no fear! We've put together a list of the top 14 digital media and publishing conferences to attend in 2018. We hope to see you at one of these events! bit.ly/2G7JveB via Intermarkets blog
+
+About 14 hours ago
+
 My week on Twitter : 5 Mentions, 87.2K Mention Reach, 11 Likes, 5 Retweets, 5.16K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/16fy…
 
-About 5 days ago
+About 6 days ago
 
 Our biggest fans this week: @MarTechSeries, @mrmistry, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/hrgu…
 
-About 6 days ago
+Last week
 
 Want to understand more about demand path optimization and how to use it to your advantage? Our VP of Sales and Programmatic Strategy, @Requidan will lay it all out at @adexchanger #PROGIO San Francisco, April 10-11. See you there! bit.ly/2s8Ae3X
 
 Last week
 
 Honored to be part of an influential platform! Thanks @Beet\_TV for interviewing us! twitter.com/Beet\_TV/…
-
-About 2 weeks ago
-
-Check out our Senior BizDev Manager @mrmistry's take on diversifying content distribution and why it's better for branding and trust martechseries.com/an… via @MarTechSeries #PredictionsSeries2018
 
 About 2 weeks ago
 
