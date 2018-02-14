@@ -213,7 +213,7 @@ Facebook 7% 
     
 *   Show Less ...
 
-Twitter 7% 
+Twitter 6% 
 
 *   HIV.gov - HIVGov
     
@@ -259,7 +259,7 @@ Twitter 7% 
     
 *   Show Less ...
 
-Instagram 7% 
+Instagram 6% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -323,7 +323,7 @@ Instagram 7% 
     
 *   Show Less ...
 
-Pinterest 11%  Wikipedia 7% 
+Pinterest 10%  Wikipedia 6% 
 
 *   Wikipedia
     
@@ -338,7 +338,7 @@ Pinterest 11%  Wikipedia 7% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 7% 
+Google+ 6% 
 
 *   Expedia - Google+
     
@@ -364,7 +364,7 @@ Google+ 7% 
     
 *   Show Less ...
 
-Linkedin 11%  Music 7% 
+Linkedin 10%  Music 6% 
 
 *   Pandora
     
@@ -410,7 +410,7 @@ Linkedin 11%  Music 7% 
     
 *   Show Less ...
 
-Photo Albums 7% 
+Photo Albums 6% 
 
 *   Flickriver
     
@@ -425,7 +425,7 @@ Photo Albums 7% 
     Flickr Hive Mind is a data mining tool for the Flickr database of photography. Flickr Hive Mind is a search engine as well as an experiment in the power of Folksonomies
     
 
-Myspace 7% 
+Myspace 6% 
 
 *   Privacy Policy - 49086242
     
@@ -449,7 +449,7 @@ Myspace 7% 
     
 *   Show Less ...
 
-Documents 7% 
+Documents 6% 
 
 *   Privacy Policy - Google
     
