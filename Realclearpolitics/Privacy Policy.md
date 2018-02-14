@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Ben Domenech_: Dear America: Your News Media Absolutely Hates You
+*   _Patricia Murphy_: Meet the Deficit Doves: Deficit Hawks Soar Like a Rock
     
-*   _Ezra Klein_: Donald Trump, Fox News and the Logic of Alternative Facts
+*   _Byron York_: Comey Told Congress FBI Agents Didn't Think Flynn Lied
     
-*   _Eli Lake_: We Should Care About What Happened to Carter Page
+*   _Ari Melber_: Is Trump Working on a Different Kind of 'Massacre'?
     
-*   _Matt Barreto_: Democrats Can Win on Immigration
+*   _Roger Kimball_: Our New Secessionists
     
-*   _Jen Kerns_: The Latest Polls Don't Bode Well for Dems in the Midterms
+*   _Jill Filipovic_: The White House Cries Crocodile Tears Over Due Process
     
-*   _Jennie Willoughby_: President Trump Will Not Diminish My Truth
+*   _Caitlin Huey-Burns_: Dem Group Warns Party on Midterm Messaging
     
-*   _Sarah Chamberlain_: What Women Want in 2018
+*   _Brian Wesbury_: Snatching Slow Growth from the Jaws of Fast Growth
     
-*   _Carrie Lukas_: A Fiscally Responsible Paid Leave Plan Even Ryan Could Love
+*   _Jules Witcover_: Republicans, Trump Run Roughshod Over Debt &. DACA
     
-*   _Mona Eltahawy_: Channeling Putin in Cairo
+*   _Peter Morici_: Trump's Immigration Plan Is a Sound Start for a Deal
     
-*   _Ted Galen Carpenter_: Why Are Democrats Obsessed With Russia?
+*   _Charlie Warzel_: Fake News and the Coming Information Apocalypse
     
-*   _Yochi Dreazen_: Here's What War With North Korea Would Look Like
+*   _Kerry Hannon_: Robust D.C. Home Prices All About Federal Power, Power, Power
     
-*   _Albert Hunt_: Nearly Everyone Loses If Immigration Deal Fails
+*   _Walter Russell Mead_: Kim Yo Jong's Shattered Olympic Dream
     
-*   _Brandon Weichert_: In Your Heart, You Know Rand Paul Was Right
+*   _Molly Roberts_: Pence Is Awful, of Course Got Upstaged at the Olympics
     
-*   _Robert Samuelson_: Why Congress's Debt Deal Should Worry Us
+*   _Joe Concha_: Why Is the Media Glamorizing Murderous N. Korean Regime?
     
-*   _Rich &. Sang-Hun_: Kim Jong-un's Sister Upstages Pence at the Olympics
+*   _Chris Cillizza_: Donald Trump's Incredible Hypocrisy on the Democratic Memo
     
-*   _Reinstein &. Mack_: Kim Jong Un's Sister Is a Garbage Monster
+*   _Lee Smith_: Was Christopher Steele Paid by Russian Oligarch Deripaska?
     
-*   _Paul Sperry_: CIA Ex-Director Brennan's Perjury Peril
+*   _Victor Davis Hanson_: Scandal, Corruption, Lawbreaking, And So What?
     
-*   _David Remnick_: A Reckoning With Women Awaits Trump
+*   _Juan Williams_: The Republican Party Has Been Corrupted by Trump
     
-*   _Roger Cohen_: Lesson for Dems: The Same Old Won't Work in 2020
+*   _Salena Zito_: The Dems' Biggest Liability Wears 4-inch Heels
     
-*   _Victor Davis Hanson_: Republican Embarrassments
+*   _John Cassidy_: A Budget Fit For the 'King of Debt'
     
-*   _Julian Zelizer_: What Trump-Era Democrats Can Learn From LBJ
+*   _William Cohan_: Why Everything About the Trump Crash Is BS
     
-*   _John Fund_: When Coin Toss Is Called Racist, the Charge Has Lost All Meaning
+*   _Robert Kuttner_: Deficits Aren't the Problem. Trump's Priorities Are
     
-*   _Anna Holmes_: Black With (Some) White Privilege
+*   _Alfredo Ortiz_: Success of Tax Cuts Expose Hypocrisy of the Democrats
     
-*   _Newt Gingrich_: SpaceX Rocket Is Big Step Toward Reasserting U.S. Leadership
+*   _Amanda Marcotte_: Time to Investigate Trump for Sexual Misconduct
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Republicans Eye Trump District as Minn. Democrat Retires
-*   After Brief Shutdown, Budget Passes, Immigration Fight Looms
-*   Jordan: "Big Concerns" With Paul Ryan Over Spending Increase
+*   Congress Takes On Immigration Issue Amid Election Pressures
+*   Conservatives Lash Out at Republican Spending Binge
+*   Bartiromo: Clinton Had Full Weight and Strength of U.S. Government Behind Her
 *   Kelly Getting Scrutiny After Senior Aide's Resignation
-*   Republicans See Trump as Top Asset in Senate Races
+*   Republicans Eye Trump District as Minn. Democrat Retires
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve40
-    *   Disapprove57Disapprove +17
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve48
     *   Disapprove50Disapprove +2
-*   Direction of CountryRasmussen Reports
-    *   Right Direction43
-    *   Wrong Track52Wrong Track +9
-*   President Trump Job ApprovalMarist
-    *   Approve39
-    *   Disapprove56Disapprove +17
+*   New Hampshire Governor - Sununu vs. MarchandUNH
+    *   Sununu42
+    *   Marchand28Sununu +14
+*   New Hampshire Governor - Sununu vs. ConnollyUNH
+    *   Sununu41
+    *   Connolly29Sununu +12
+*   New Hampshire Governor - Sununu vs. Van OsternUNH
+    *   Sununu41
+    *   Ostern31Sununu +10
 
 More Latest Polls In The News
 
+*   Ramos: Republicans Want To Change "Essence" Of United States, "Make America White Again"
+*   Scarborough: Why Isn't Melania Trump Commenting On Spousal Abuse Stories? "A Fair Question To Ask"
 *   CNN's Acosta vs. Huckabee Sanders: Was Trump "Defending" Porter Because Of His Own Allegations?
 *   Bartiromo: Hillary Clinton Had The Full Weight And Strength Of The U.S. Government Behind Her
-*   Adam Schiff on Nunes Memo Allegations: FBI "Acted Completely Appropriately" With All FISA Warrants
-*   Devin Nunes: Democrats Have Been on TV All Weekend Long, Instead Of Preparing Their Memo For Release
-*   Chuck Todd: Trump Presidency Like "Living Inside A Parody," "Difficult To Take It Anymore"
+*   CNN's Anushay Hossain: "GOP Women Are Trapped With Their Abuser, Which Is Trump"
 
 *   Politics
 *   Policy
