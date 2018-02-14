@@ -195,7 +195,7 @@ The Way You Want
 
 New #FloridaBoy @RickRoss feat. @TPAIN and @KodakBlack1k out now!#PortOfMiamiTwo http://smarturl.it/FloridaBoyVideo
 
-3 hours ago
+1 day ago
 
 View Tweet
 
