@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 13 February 2018 ›
+*   Skype discuss easing Linux maintenance with snaps ›
 *   Your first robot: The controller \[3/5\] ›
 *   Ubuntu Desktop weekly update – February 9, 2018 ›
 *   Tutorial: Setup a ZFS storage pool ›
-*   LXD weekly status #33 ›
-*   Ubuntu Server development summary – 06 February 2018 ›
