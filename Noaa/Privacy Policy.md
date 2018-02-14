@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms It's #WhaleWeek at NOAA Science is helping us better understand the threats whales face. See how. AROUND NOAA // NOAA satellites aid in the rescue of 275 lives in 2017 January brought largest drought footprint in nearly 4 years to U.S. Study: People in parts of U.S. and beyond breathe unhealthy ozone pollution more than 2 weeks a year
+Enter Search Terms It's #WhaleWeek at NOAA Science is helping us better understand the threats whales face. See how. AROUND NOAA // How well do you know whales? 10 fun facts for #WhaleWeek NOAA satellites aid in the rescue of 275 lives in 2017 January brought largest drought footprint in nearly 4 years to U.S.
 
 *   About our agency
 *   News and features
