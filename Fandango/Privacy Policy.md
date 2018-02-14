@@ -49,23 +49,17 @@ Gift Cards | Offers | Sign In Sign Out
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Where are you located? Here are our top cities
+*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
     
-    *   New York, NY
-    *   Los Angeles, CA
-    *   Atlanta, GA
-    *   Chicago, IL
-    *   Austin, TX
-    *   Miami, FL
-    *   San Francisco, CA
-    *   Phoenix, AZ
-    *   Washington, DC
-    *   Boston, MA
-    *   San Diego, CA
-    *   Seattle, WA
-    *   Edison, NJ
-    *   Houston, TX
-    *   Tampa, FL
+    *   Regal Park Place Stadium 16 &. RPX 7200 US Highway 19 North
+    *   Cobb Tyrone Luxury 10 2998 Tyrone Blvd N.
+    *   Studio Movie Grill Seminole 7718 113th Street N
+    *   AMC Sundial 20 151 2nd Ave North St.
+    *   Regal Largo Mall 8 10500 Ulmerton Rd East
+    *   Capitol Theater 405 Cleveland Street
+    *   Sunset Point Cinema Bar &. Grille 24095 U.S. Highway 19 North
+    *   Cobb Countryside 12 Cinemas 27001 US Highway 19 N.
+    *   Britton Cinemas 3938 South Dale Mabry Hwy
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
@@ -79,27 +73,42 @@ Gift Cards | Offers | Sign In Sign Out
     *   Indie Movie Guide
     *   Awards Watch
     *   Weekend Ticket
-*   My VIP Account Join FandangoVIP Refunds + Exchanges
+*   My VIP Account Top Movies Near 33780 Edit Zip Code
     
-    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
+    See all movies My Theaters
+*   Save your favorite theater and we'll make sure it's front and center for you.
     
-    Learn more Partner Rewards
+Manage my theater list Insider Perks
+
+*   Please check back - more exciting offers are coming soon.
     
-    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
-    
-    Learn more My Fandango
-    
-    Save your favorite theaters and movies to experience a customized Fandango just for you.
-    
-    Learn more Insider Perks
-    
-    Get the VIP treatment, free screenings, digital downloads, discounts and more.
-    
-    Learn more Join Fandango VIP For Free
-    
-    (It only takes a few seconds to join)
-    
-    Already a Fandango VIP? Sign In
+
+See all insider perks Payment Method
+
+For warp speed checkout, securely add your credit card.
+
+Add your  
+Credit Card Manage my VIP account Join FandangoVIP Refunds + Exchanges
+
+Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
+
+Learn more Partner Rewards
+
+Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
+
+Learn more My Fandango
+
+Save your favorite theaters and movies to experience a customized Fandango just for you.
+
+Learn more Insider Perks
+
+Get the VIP treatment, free screenings, digital downloads, discounts and more.
+
+Learn more Join Fandango VIP For Free
+
+(It only takes a few seconds to join)
+
+Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms
 
