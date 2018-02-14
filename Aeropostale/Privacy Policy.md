@@ -24,7 +24,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
-*   Extended Sizes
+*   plus size
 *   Trending
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
@@ -144,6 +144,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Skinny
 *   Ankle Straight
 *   Bootcut
+*   Wide Leg
 *   Boyfriend
 
 Close submenu ( Guys Jeans ) Guys Jeans
@@ -344,7 +345,7 @@ Menu Find a Store Aeropostale
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
-    *   Extended Sizes
+    *   plus size
     *   Trending
     
     *   Live Love Dream
@@ -411,6 +412,7 @@ Menu Find a Store Aeropostale
         *   Skinny
         *   Ankle Straight
         *   Bootcut
+        *   Wide Leg
         *   Boyfriend
     
     *   Guys Jeans
