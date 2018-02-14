@@ -1,4 +1,4 @@
-**Last Revised: August 15, 2017**
+**Last Revised: February 13, 2018**
 
 GoDaddy Respects your privacy
 
@@ -28,7 +28,7 @@ We receive and store any information you enter on our Site or mobile applicatio
 
 We use your information to contact you regarding functionality changes to our products, our Site and mobile applications, new GoDaddy services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. In addition, it will also describe any choice options the individual has in regards to the use and/or sharing of PII by the participant and its co-branded partner, as well as how to exercise those options.
+If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. In addition, it will also describe any choice options the individual has in regards to the use and/or sharing of PII by the participant and its co-branded partner, as well as how to exercise those options.
 
 Certain services offered may allow you to import contacts by uploading a file or copying and pasting from a spreadsheet to add to your account (e.g., using Mad Mimi to send emails on your behalf).  We will only use this information for your legitimate business purpose of importing the contacts as directed by you.  When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at privacy@godaddy.com.
 
