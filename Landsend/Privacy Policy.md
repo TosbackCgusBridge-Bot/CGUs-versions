@@ -224,17 +224,20 @@ menu Close 0 Free Shipping on $50+
     *   Sale
 *   Bags SHOP BAGS
     
+    *   View All
+    *   New Arrivals
+    *   Canvas Totes
+    *   Business &. Travel
+    *   Pouches &. Small Accessories
+    *   Backpacks &. Lunch Boxes
+    *   Diaper Bags
+    *   Sale
+    
+    CATEGORIES
     *   Women
     *   Men
     *   Girls
     *   Boys
-    
-    FEATURED SHOPS
-    *   Canvas Totes
-    *   Backpacks &. Lunch Boxes
-    *   Business Bags
-    *   Diaper Bags
-    *   Travel Bags
 *   Swim WOMEN'S SWIMSUITS>.
     
     *   Tankinis &. Bikinis
@@ -565,17 +568,20 @@ menu Close 0 Free Shipping on $50+
 *   Bags
     *   Back
     *   Shop all Bags
-    *   FEATURED SHOPS
+    *   CATEGORIES
         *   Back
-        *   Canvas Totes
-        *   Backpacks &. Lunch Boxes
-        *   Business Bags
-        *   Diaper Bags
-        *   Travel Bags
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+    *   View All
+    *   New Arrivals
+    *   Canvas Totes
+    *   Business &. Travel
+    *   Pouches &. Small Accessories
+    *   Backpacks &. Lunch Boxes
+    *   Diaper Bags
+    *   Sale
 *   Swim
     *   Back
     *   Shop all Swim
@@ -742,9 +748,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 30% off full-price styles!
 
-code: SWEETS pin: 4157 DETAILS
+code: FAMILY pin: 2714 DETAILS
 
 Customer Service Menu
 
