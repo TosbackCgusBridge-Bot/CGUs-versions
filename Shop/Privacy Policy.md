@@ -320,15 +320,21 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers PROVE YOUR LOVE
+Home >. Filter by specs Offers
 
-GIVE THEM SOME SWEET NEW TECH
+*   SALES HOURS EXTENDED THIS WEEKEND ONLY! Call Center open February 17, 9am,- 6pm EST &. February 18, 12pm - 5pm EST. 1-855-253-6686.
+*   LIMITED TIME ONLY- Special no interest financing offer. Learn More >
+*   Don’t forget to add accessories during checkout for additional savings!
+*   25% off Services and Warranties with system purchase. Upgrade in cart!
+*   Teachers, college students, and active/retired military save an additional 5%. Shop Now >
+*   SALES HOURS EXTENDED THIS WEEKEND ONLY! Call Center open February 17, 9am,- 6pm EST &. February 18, 12pm - 5pm EST. 1-855-253-6686.
+*   LIMITED TIME ONLY- Special no interest financing offer. Learn More >
+
+PrevNext Our Biggest Presidents Day Sale Ever!
+
+Save up to 60% on select products. Sale ends on February 19th at 1AM PST.
 
 Shop Deals >.
-
-Durable Vibrant Corning® Gorilla® Glass Covers
-
-CHOOSE HOW YOU’LL ROCK THE RUNWAY >>.
 
 Breakthrough Performance
 
@@ -338,7 +344,6 @@ ThinkSystem DS4200 >. ThinkSystem DS6200 >.
 
 *   1
 *   2
-*   3
 
 TODAY'S SALES
 
@@ -358,21 +363,21 @@ Say goodbye to your TV and hello to the ultimate entertainment tablet.
 
 EXPLORE AUGMENTED AND VIRTUAL REALITY
 
-LAPTOPS
+Laptops Deals
 
-High-performance laptops and convertibles for home, work, and play.
+Biggest savings of the year on new and top-selling laptops! Ends Feb. 21.
 
-DESKTOPS
+Desktops Deals
 
-Sleek all-in-ones, high-performance towers and space-saving tiny desktops for home and business.
+Pick up a new desktop worthy of the Executive Office. Limited quantities. ends Feb. 21.
 
-TABLETS
+Accessories Deals
 
-Android and Windows tablets engineered for enhanced productivity and a rich multimedia experience.
+Monitors ,docks, keyboards, mice, and more at Presidential prices through Feb. 21
 
-ACCESSORIES
+Tablet Deals
 
-From monitors to docks, keyboards to mice, graphics to software, and everything in between.
+Our tablets are more than just toys. Now on sale for President's Day until Feb. 21!
 
 Virtual Reality &. Smart Devices
 
@@ -385,6 +390,10 @@ Achieve competitive advantage in the next-generation data center.
 Outlet
 
 Find great deals on new and refurbished Lenovo products.
+
+Presidential Business Sale
+
+Give your business the presidential treatment with these great savings.
 
 STAY CONNECTED
 
@@ -467,4 +476,28 @@ Laptops Tablets Desktops Servers Deals Select Country/Region AlgeriaAngolaArgent
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new window
+Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+
+How can we help you today?
+
+CONSUMER SALESCONSUMER SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
+
+Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
+
+1 2 3 4 5 6 7 8 9 10
+
+Please tell us how we can improve your experience:
+
+SUBMIT CHATHIDEClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+
+How can we help you today?
+
+CONSUMER SALESCONSUMER SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
+
+Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
+
+1 2 3 4 5 6 7 8 9 10
+
+Please tell us how we can improve your experience:
+
+SUBMIT CHATHIDE
