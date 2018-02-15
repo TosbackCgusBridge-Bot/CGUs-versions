@@ -84,6 +84,10 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
+Thu, Feb 22, 2018 GDPR: Novelties, Challenges and Opportunities
+
+Join us online for a live panel discussion and Q&A at the Internet Society Webinar on the EU General Data Protection Regulation. The 90-minute webinar will start with speaker presentations, followed by a panel discussion and Q&A, for our community to have a better understanding of the big picture when it comes to GDPR, its global impact, novelties, challenges and opportunities. 
+
 Mon, Apr 16, 2018 RSA Conference 2018
 
 Once again OTA is an Associaton Sponsor of the RSA Conference. Join us and other OTA member conference sponsors Agari, Malwarebytes, Microsoft and Symantec in San Francisco. Many other OTA members will be exhibiting as well. When sessions involving OTA and member organizations are announced, we will highlight them. When you register, be sure to note you are a member of OTA. 
