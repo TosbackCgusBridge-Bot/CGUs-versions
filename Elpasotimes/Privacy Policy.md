@@ -1,4 +1,4 @@
-close dialogDiscover something new in 2018! falseSubscribeclose dialogSUBSCRIBE NOWto get full access
+SUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -14,6 +14,7 @@ close dialogDiscover something new in 2018! falseSubscribeclose dialogSUBSCRIBE 
 *   Photo &. Video
 *   Subscribe
 *   Advertise with Us
+*   Olympics
 *   More
     *   Home
     *   News
@@ -29,6 +30,7 @@ close dialogDiscover something new in 2018! falseSubscribeclose dialogSUBSCRIBE 
     *   Photo &. Video
     *   Subscribe
     *   Advertise with Us
+    *   Olympics
 
 *   socialFollow
 *   search
@@ -116,7 +118,7 @@ LifestyleOpinion
 *   Columnists
 *   Letters to the Editor
 
-HomesObituariesUSA TODAYPhoto &. VideoSubscribe
+HomesObituariesUSA TODAYPhoto &. VideoSubscribeOlympics
 
 © 2018 elpasotimes.com, All rights reserved.
 
@@ -141,5 +143,3 @@ Our Partners
 *   Classifieds
 *   Cars.com El Paso
 *   The Job Network
-
-close dialogDiscover something new in 2018! falseSubscribeclose dialog
