@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals OLEsgiJSd\_1\_AjPM-ATX4E8
+Office Depot Deals Tuejz6FJcrYWQIiH3Jxj6ky
 
 Search Suggestions
 
@@ -203,7 +203,7 @@ to your inbox
 *   Subscriptions
 *   Recall Notices
 *   Greener Office Products
-*   Technology Services
+*   Tech Services
 
 *   PROGRAMS
 *   Affiliate Program
