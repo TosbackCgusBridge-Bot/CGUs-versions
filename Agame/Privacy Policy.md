@@ -232,8 +232,8 @@ View more results
     
     Recommended Games
     
-    *   Crossfire
-    *   Duelyst
+    *   Call Of War: Multiplayer Army Game
+    *   Star Stable
     *   Animal Jam
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
