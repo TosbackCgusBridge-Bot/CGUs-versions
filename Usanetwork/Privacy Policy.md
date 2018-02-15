@@ -46,9 +46,10 @@ Skip to main content
             
             1.  DreamWorks AnimationDreamWorks AnimationDreamWorks Animation
             2.  Focus FeaturesFocus FeaturesProduces, acquires, and releases movies from rising and established talent and filmmakers. Offers a diverse slate for a wide range of moviegoers.Focus Features
-            3.  Universal PicturesUniversal PicturesCreates and distributes theatrical and non-theatrical filmed entertainment for a growing global marketplace.Universal Pictures
-            4.  Universal Pictures Home EntertainmentUniversal Pictures Home EntertainmentUniversal Pictures Home Entertainment (UPHE) is a unit of Universal PicturesUniversal Pictures Home Entertainment
-            5.  Universal Pictures InternationalUniversal Pictures InternationalThe international marketing and distribution division for Universal Pictures.Universal Pictures International
+            3.  Universal Brand DevelopmentUniversal Brand DevelopmentUniversal Brand Development globally drives expansion of the company’s intellectual properties, franchises, characters and stories through innovative physical and digital products, content, and consumer experiences.Universal Brand Development
+            4.  Universal PicturesUniversal PicturesCreates and distributes theatrical and non-theatrical filmed entertainment for a growing global marketplace.Universal Pictures
+            5.  Universal Pictures Home EntertainmentUniversal Pictures Home EntertainmentUniversal Pictures Home Entertainment (UPHE) is a unit of Universal PicturesUniversal Pictures Home Entertainment
+            6.  Universal Pictures InternationalUniversal Pictures InternationalThe international marketing and distribution division for Universal Pictures.Universal Pictures International
             
             Parks
             1.  Universal Orlando ResortUniversal Orlando ResortOffers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions.Universal Orlando Resort
@@ -112,6 +113,7 @@ Skip to main content
             *   FILM
                 *   DreamWorks Animation
                 *   Focus Features
+                *   Universal Brand Development
                 *   Universal Pictures
                 *   Universal Pictures Home Entertainment
                 *   Universal Pictures International
@@ -185,4 +187,4 @@ Cookies/ tracking technologies are used on some of our online services to serve 
 *   Supply Chain Values
 *   Terms of Service
 
-© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/8376343" height="1" width="1" alt="" /></a></div>.
+© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/5115926" height="1" width="1" alt="" /></a></div>.
