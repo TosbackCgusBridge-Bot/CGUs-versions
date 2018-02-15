@@ -18,7 +18,7 @@ Alle Ausklappen
 
   
 
-**2.4** Alle Ihre personenbezogenen Angaben werden bei CXO und unserem Dienstleister für Kommentar- und Bewertungsfunktionen "Gigya" auf einem besonders geschützten Server gespeichert und nur für die Zwecke genutzt, die Sie uns bekannt gegeben haben.
+**2.4** Die Software, die wir für unser Forum und für die Kommentarfunktion nutzen, wird von Vanilla Forums Inc. betrieben. Alle Ihre personenbezogenen Angaben werden bei unserem Dienstleister auf einem besonders geschützten Server gespeichert und nur für die Zwecke genutzt, die Sie uns bekannt gegeben haben.
 
   
 
@@ -26,7 +26,7 @@ Umfang der Verarbeitung Ihrer personenbezogenen Daten für den Zweck der Erfüll
 
   
 
-*   Name, Vorname
+*   Nutzername
 *   E-Mail
 
   
@@ -257,4 +257,4 @@ Sie können sich zudem mit Ihrem jeweiligen Social-Network-Login (von Facebook I
 **9\. Änderungsvorbehalt** Ausklappen Wir behalten uns vor, diese Datenschutzerklärung von Zeit zu Zeit unter Beachtung der gesetzlichen Bestimmungen zu ändern.  
   
   
-**Stand: Mai 2015**
+**Stand: Februar 2018**
