@@ -15,19 +15,19 @@ Close submenu ( Girls ) Girls
 
 *   View Home
 *   Open submenu ( Featured ) Featured
-*   Swim
-*   Clearance
 
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
+*   Swim
 *   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
+
 *   plus size
 *   Trending
-
-*   Open submenu ( Live Love Dream ) Live Love Dream
+*   Clearance
+*   Live Love Dream
 
 Close submenu ( Featured ) Featured
 
@@ -66,16 +66,6 @@ Close submenu ( Bottoms ) Bottoms
 *   Joggers + Lounge
 *   Pants
 *   Shorts
-
-Close submenu ( Live Love Dream ) Live Love Dream
-
-*   View All
-*   Active
-*   Lounge
-*   Bras
-*   Undies
-*   Sleep
-*   Accessories
 
 Close submenu ( Guys ) Guys
 
@@ -318,8 +308,6 @@ Menu Find a Store Aeropostale
         *   Lounge + Sleep
         *   Online Only
         *   Uniform
-    *   Swim
-    *   Clearance
     
     *   Tops
         *   View All
@@ -342,20 +330,15 @@ Menu Find a Store Aeropostale
         *   Joggers + Lounge
         *   Pants
         *   Shorts
+    *   Swim
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
+    
     *   plus size
     *   Trending
-    
+    *   Clearance
     *   Live Love Dream
-        *   View All
-        *   Active
-        *   Lounge
-        *   Bras
-        *   Undies
-        *   Sleep
-        *   Accessories
     
 *   Guys
     
@@ -556,12 +539,9 @@ Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 *   Help
 *   Coupon Page
 
-Stores
+Gift Cards
 
-*   Store Locator
 *   eGift Cards
-*   Contests
-*   In Store Coupons
 *   Lost/Stolen Gift Cards
 
 About Us
@@ -575,8 +555,10 @@ About Us
 
 Stay Connected
 
-*   Live ChatCall Us
+*   Visit A Store
+*   Find Store Coupons
+*   Chat With Us LiveCall Us
 *   Refer a Friend
-*   College Student Discount
+*   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
