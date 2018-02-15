@@ -30,10 +30,9 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   HSBC on social media
         *   Country contacts last item in this group
     *   Company history
-        *   HSBC's history
+        *   History in detail
         *   HSBC’s archives
-        *   Online gallery
-        *   Frequently asked questions last item in this group
+        *   Online gallery last item in this group
     
     *   Leadership A guide to who’s who on our board and senior management team.
 *   Our approach Skip to Investor relations navigation
