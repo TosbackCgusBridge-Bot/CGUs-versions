@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Patricia Murphy_: Meet the Deficit Doves: Deficit Hawks Soar Like a Rock
+*   _Sen. Tim Scott_: Tax Law Spurs Opportunity in Distressed Communities
     
-*   _Byron York_: Comey Told Congress FBI Agents Didn't Think Flynn Lied
+*   _Bill Scher_: The Clock Is Not Ticking on DACA
     
-*   _Ari Melber_: Is Trump Working on a Different Kind of 'Massacre'?
+*   _Monica Crowley_: Abuses on Obama's Watch Are a Growing Blight on His Legacy
     
-*   _Roger Kimball_: Our New Secessionists
+*   _Ezra Klein_: Why There's So Much Chaos in the Trump Administration
     
-*   _Jill Filipovic_: The White House Cries Crocodile Tears Over Due Process
+*   _Ryan Williams_: Saving Sovereignty, Citizenship From Failed Establishment
     
-*   _Caitlin Huey-Burns_: Dem Group Warns Party on Midterm Messaging
+*   _Jill Filipovic_: Trump's 'Blue Apron'-Type Plan Is Crumbs to the Poor
     
-*   _Brian Wesbury_: Snatching Slow Growth from the Jaws of Fast Growth
+*   _Siraj Hashmi_: Elizabeth Warren Should Own Up to Her Decades-Old Lie
     
-*   _Jules Witcover_: Republicans, Trump Run Roughshod Over Debt &. DACA
+*   _David Brooks_: The End of the Two-Party System
     
-*   _Peter Morici_: Trump's Immigration Plan Is a Sound Start for a Deal
+*   _Michael Klare_: Extract-Everything Energy Policy Dooms Us All
     
-*   _Charlie Warzel_: Fake News and the Coming Information Apocalypse
+*   _Julie Kelly_: The Climate Cabal: A Scary Trajectory for Science
     
-*   _Kerry Hannon_: Robust D.C. Home Prices All About Federal Power, Power, Power
+*   _Thompson &. Vogelstein_: Inside Facebook's Hellish Two Years
     
-*   _Walter Russell Mead_: Kim Yo Jong's Shattered Olympic Dream
+*   _Paul Waldman_: The Russians Are Coming
     
-*   _Molly Roberts_: Pence Is Awful, of Course Got Upstaged at the Olympics
+*   _Ed Rogers_: Media Ignoring Ties Between Clinton Campaign &. Russians
     
-*   _Joe Concha_: Why Is the Media Glamorizing Murderous N. Korean Regime?
+*   _Scot Lehigh_: Where Is the GOP Headed?
     
-*   _Chris Cillizza_: Donald Trump's Incredible Hypocrisy on the Democratic Memo
+*   _Shadi Hamid_: Why the Center-Left Became Immoderate
     
-*   _Lee Smith_: Was Christopher Steele Paid by Russian Oligarch Deripaska?
+*   _Thomas Friedman_: Syria: You Own It, You Fix It, So Just Rent It
     
-*   _Victor Davis Hanson_: Scandal, Corruption, Lawbreaking, And So What?
+*   _Jonathan Michanie_: Trump Is Showing Significant Leadership in Middle East
     
-*   _Juan Williams_: The Republican Party Has Been Corrupted by Trump
+*   _Krishnadev Calamur_: The Unsinkable Benjamin Netanyahu?
     
-*   _Salena Zito_: The Dems' Biggest Liability Wears 4-inch Heels
+*   _Charles Cooke_: Memo to Morons: 'Anglo-American' a Common Legal Term
     
-*   _John Cassidy_: A Budget Fit For the 'King of Debt'
+*   _Dana Milbank_: Trump Won't Stop Trying to Keep America White
     
-*   _William Cohan_: Why Everything About the Trump Crash Is BS
+*   _Ben Shapiro_: The Media's Obsession With Stopping Trump Isn't Normal
     
-*   _Robert Kuttner_: Deficits Aren't the Problem. Trump's Priorities Are
+*   _A.B. Stoddard_: Does Congressional GOP Know Women Can Vote?
     
-*   _Alfredo Ortiz_: Success of Tax Cuts Expose Hypocrisy of the Democrats
+*   _Sohrab Ahmari_: Keith Ellison Goes to Dinner
     
-*   _Amanda Marcotte_: Time to Investigate Trump for Sexual Misconduct
+*   _Frank Bruni_: The Ivanka Trump of North Korea? Oh, Please
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Republican Women Frustrated by Trump's Approach to Abuse Charges
+*   Democratic Group Warns Party on Midterm Messaging
+*   Bill Murray: Identity Politics Have Made Comedy "Harder and Harder"
+*   North Dakota Candidate Quits Senate Race. Expects Cramer Run
 *   Congress Takes On Immigration Issue Amid Election Pressures
-*   Conservatives Lash Out at Republican Spending Binge
-*   Bartiromo: Clinton Had Full Weight and Strength of U.S. Government Behind Her
-*   Kelly Getting Scrutiny After Senior Aide's Resignation
-*   Republicans Eye Trump District as Minn. Democrat Retires
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalFOX News
+    *   Approve43
+    *   Disapprove53Disapprove +10
+*   President Trump Job ApprovalPPP (D)
+    *   Approve44
+    *   Disapprove50Disapprove +6
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
-*   New Hampshire Governor - Sununu vs. MarchandUNH
-    *   Sununu42
-    *   Marchand28Sununu +14
-*   New Hampshire Governor - Sununu vs. ConnollyUNH
-    *   Sununu41
-    *   Connolly29Sununu +12
-*   New Hampshire Governor - Sununu vs. Van OsternUNH
-    *   Sununu41
-    *   Ostern31Sununu +10
+    *   Approve47
+    *   Disapprove52Disapprove +5
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve45
+    *   Disapprove50Disapprove +5
 
 More Latest Polls In The News
 
+*   FBI Director Wray: I Encourage Agents "Not To Get Too Hung Up" Over "Noise On TV And Social Media"
 *   Ramos: Republicans Want To Change "Essence" Of United States, "Make America White Again"
 *   Scarborough: Why Isn't Melania Trump Commenting On Spousal Abuse Stories? "A Fair Question To Ask"
 *   CNN's Acosta vs. Huckabee Sanders: Was Trump "Defending" Porter Because Of His Own Allegations?
 *   Bartiromo: Hillary Clinton Had The Full Weight And Strength Of The U.S. Government Behind Her
-*   CNN's Anushay Hossain: "GOP Women Are Trapped With Their Abuser, Which Is Trump"
 
 *   Politics
 *   Policy
