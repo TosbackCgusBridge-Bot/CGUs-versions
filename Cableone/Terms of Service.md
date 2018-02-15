@@ -96,4 +96,6 @@ Search Search Type Residential Business Support
 *   CableONE Site Map
 *   CableONE Remote Connect
 
-Facebook Twitter Google+ YouTube LinkedIn Copyright 2018 , Cable ONE Inc ., All Rights Reserved. Live Help is Online.  Chatting0×–undefinedChat Input BoxChatPowered by
+Facebook Twitter Google+ YouTube LinkedIn Copyright 2018 , Cable ONE Inc ., All Rights Reserved.
+
+BESbswyLive Help is Online.  Chatting0×–undefinedChat Input BoxChatPowered by
