@@ -8,46 +8,64 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Burberry Watches Up to 50% Off
-    *   Vince Camuto Shoes
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   MIKOH Swim
-    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
+    *   Joie &. Soft Joie
+    *   CURRENT/ELLIOTT
+    *   Joie Shoes
+    *   Eva Franco Dresses
+    *   Designer Sun ft. Saint Laurent &. Lanvin
+    *   Tria Beauty Electronics
+    *   NuFACE Facial Toning Device
+    *   Hydrate from Within: bkr Water Bottles
+    *   Fragrances We Love Starting at $10
+    *   Statement Jewelry Under $35
+    *   Pink Owl
+    *   MARIKA
+    *   Chinese Laundry
+    *   Kenneth Cole Reaction
+    *   Foressence Leather Bags Under $100
+    *   Embellished Styles: Fringe, Studs &. More
+    *   Liliana Starting at $15
+    *   Lorenzo Uomo
+    *   Ben Sherman Up to 60% Off
+    *   Finishing Touches Under $20 ft. Original Penguin
+    *   Travel in Color: IT Luggage
+    *   Crevo
+    *   Free Shipping: Pillow Guy Luxury Bedding Collection
+    *   Mally Beauty
+    *   Rewined Candles
+    *   tarte cosmetics
+    *   Beauty &. Bath Storage Must-Haves Starting at $10
+    
+    *   LAmade Kids
+    *   DL1961 Kids
+    *   Skechers Kids
+    *   All That Glitters: Crystal Jewelry &. More from $10
     *   Hydro Flask
     *   Free Shipping: BergHOFF
     *   Sleek Modern Flatware &. More from $16
     *   Gear with Attitude: Graphic Kitchen Towels from $10
     *   Free Shipping: Boho-Chic Printed Accents
+    *   Burberry Watches Up to 50% Off
+    *   Vince Camuto Shoes
     *   Vince Camuto Handbags
+    *   Betsey Johnson &. Love...Ady Dresses
+    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
     *   Rose Gold &. Sterling Silver Jewelry by Delmar
+    *   MIKOH Swim
     *   14th &. Union Including Special Sizes
     *   UKIES Up to 65% Off
     *   Ready for Ruffles: Styles Under $50
     *   Yummie by Heather Thomson
     *   Betsey Johnson
-    *   Mally Beauty
-    *   Rewined Candles
     *   Men's Denim Under $50
     *   Diadora Men Up to 65% Off
     *   Marz Jewelry
     *   Envya Swimwear
     *   Heart to Heart Room Decor &. Accessories
     *   Tween Scene ft. Maddie
-    *   Dr. Scholl's
     
     *   Donald Pliner
     *   Donald Pliner Men
-    *   tarte cosmetics
-    *   Diesel
-    *   Maac London Up to 80% Off
-    *   Oscar de la Renta
-    *   Derek Lam 10 Crosby
-    *   People's Project LA
-    *   LOVE Moschino Handbags
-    *   Lysse Leggings Including Plus
-    *   Spring Forward: Jackets Starting at $40
-    *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
-    *   Chase &. Chloe
     *   Perry Ellis
     *   Slate &. Stone
     *   Kenneth Cole Men's Outerwear &. More
@@ -57,121 +75,110 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Sleek Tech Accessories
     *   Free Shipping: Flannel Bedding, Throws &. More
     *   Free Shipping: Wall Decals &. More Starting at $10
-    *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Sunday Blowout: Styles Up to 75% Off
-    *   Boots, Booties &. Flats Up to 70% Off
-    *   Samuel B Jewelry Up to 60% Off
-    
+    *   Vertigo Up to 85% Off
     *   Men's Shoes Up to 60% Off
     *   Home Blowout: Tech, Decor &. More
-    *   14K Gold Jewelry Under $80
-    *   Blown Away: Hair Tools Up to 80% Off
     *   Spring Clean: Organization Essentials from $13
+    *   Diesel
+    *   Maac London Up to 80% Off
+    *   Oscar de la Renta
+    *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
+    *   Predire Paris Luxury Skin Care Up to 95% Off
+    *   Blown Away: Hair Tools Up to 80% Off
+    *   Lilac Maternity
+    *   Dr. Scholl's
     *   Free Shipping: Art Blowout
     *   Tailored Perfection: Suits Under $250
     *   Wolverine Men Up to 65% Off
     *   Road Trip: HEX Backpacks &. More Starting at $20
-    *   Lilac Maternity
-    *   Funkyberry
-    *   Free Shipping: Geode &. Agate Accents
-    *   Free Shipping: Chic Bedding Starting at $10
-    *   Andrew Christian
-    *   Au Noir
-    *   Catherine Catherine Malandrino
-    *   Vertigo Up to 85% Off
-    *   Bulova Watches Up to 70% Off
-    *   Lafayette 148 New York Including Petites
-    *   Dream-Worthy Steals: Sleep Up to 70% Off
-    *   Cap Shop: Hats Up to 75% Off
-    *   24/7 Comfort
-    *   Wear-to-Work Shoes ft. Calvin Klein
-    *   Rogue Up to 80% Off
-    *   Bugatchi
-    *   Kenneth Cole New York Men
 *   WomenShop Sale Events
+    
+    *   Joie &. Soft Joie
+    *   CURRENT/ELLIOTT
+    *   Joie Shoes
+    *   Eva Franco Dresses
+    *   Designer Sun ft. Saint Laurent &. Lanvin
+    *   Tria Beauty Electronics
+    *   NuFACE Facial Toning Device
+    *   Hydrate from Within: bkr Water Bottles
+    *   Fragrances We Love Starting at $10
+    *   Statement Jewelry Under $35
+    *   Pink Owl
+    *   MARIKA
+    *   Chinese Laundry
+    *   Kenneth Cole Reaction
+    *   Foressence Leather Bags Under $100
+    *   Embellished Styles: Fringe, Studs &. More
+    *   Liliana Starting at $15
+    *   Travel in Color: IT Luggage
+    *   Mally Beauty
+    *   Rewined Candles
+    *   tarte cosmetics
+    *   All That Glitters: Crystal Jewelry &. More from $10
     
     *   Burberry Watches Up to 50% Off
     *   Vince Camuto Shoes
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   MIKOH Swim
-    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
     *   Vince Camuto Handbags
+    *   Betsey Johnson &. Love...Ady Dresses
+    *   Vince Camuto &. Two by Vince Camuto Incl. Plus
     *   Rose Gold &. Sterling Silver Jewelry by Delmar
+    *   MIKOH Swim
     *   14th &. Union Including Special Sizes
     *   UKIES Up to 65% Off
     *   Ready for Ruffles: Styles Under $50
     *   Yummie by Heather Thomson
     *   Betsey Johnson
-    *   Mally Beauty
-    *   Rewined Candles
-    *   Dr. Scholl's
     *   Donald Pliner
-    *   tarte cosmetics
+    *   Vertigo Up to 85% Off
     *   Diesel
     *   Maac London Up to 80% Off
     *   Oscar de la Renta
-    *   Derek Lam 10 Crosby
-    
-    *   People's Project LA
-    *   LOVE Moschino Handbags
-    *   Lysse Leggings Including Plus
-    *   Spring Forward: Jackets Starting at $40
     *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
-    *   Chase &. Chloe
     *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Sunday Blowout: Styles Up to 75% Off
-    *   Boots, Booties &. Flats Up to 70% Off
-    *   Samuel B Jewelry Up to 60% Off
-    *   14K Gold Jewelry Under $80
     *   Blown Away: Hair Tools Up to 80% Off
     *   Lilac Maternity
-    *   Catherine Catherine Malandrino
-    *   Vertigo Up to 85% Off
-    *   Bulova Watches Up to 70% Off
-    *   Lafayette 148 New York Including Petites
-    *   Dream-Worthy Steals: Sleep Up to 70% Off
-    *   Cap Shop: Hats Up to 75% Off
-    *   24/7 Comfort
-    *   Wear-to-Work Shoes ft. Calvin Klein
+    *   Dr. Scholl's
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Accessories
     *   Handbags
     *   Tech Accessories
+    *   Accessories
     *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
+    *   Lorenzo Uomo
+    *   Ben Sherman Up to 60% Off
+    *   Finishing Touches Under $20 ft. Original Penguin
+    *   Travel in Color: IT Luggage
+    *   Crevo
     *   Burberry Watches Up to 50% Off
     *   Men's Denim Under $50
     *   Diadora Men Up to 65% Off
     *   Marz Jewelry
+    
     *   Donald Pliner Men
     *   Perry Ellis
     *   Slate &. Stone
     *   Kenneth Cole Men's Outerwear &. More
     *   Men's Shoes Up to 60% Off
-    
     *   Tailored Perfection: Suits Under $250
     *   Wolverine Men Up to 65% Off
     *   Road Trip: HEX Backpacks &. More Starting at $20
-    *   Andrew Christian
-    *   Au Noir
-    *   Bulova Watches Up to 70% Off
-    *   Rogue Up to 80% Off
-    *   Bugatchi
-    *   Kenneth Cole New York Men
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
     *   Watches
 *   KidsShop Sale Events
     
+    *   LAmade Kids
+    *   DL1961 Kids
+    *   Skechers Kids
     *   Envya Swimwear
     *   Heart to Heart Room Decor &. Accessories
     *   Tween Scene ft. Maddie
@@ -179,58 +186,65 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Total Dreamz Nightlights
     *   Fiona Walker: Room Decor for Kids
     *   Lilac Maternity
-    *   Funkyberry
     
     Shop By Category
-    *   Girls Sizes 2T-6X
-    *   Baby Gear &. Essentials
-    *   Toys
     *   Girls Sizes 7-16
-    *   Boys Sizes 2T-7
-    *   Kids Accessories
+    *   Girls Sizes 2T-6X
+    *   Toys
+    *   Baby Gear &. Essentials
     *   Baby Girl
-    *   Boys Sizes 8-20
+    *   Boys Sizes 2T-7
+    *   Boys' Shoes
     *   Baby Boy
+    *   Boys Sizes 8-20
+    *   Kids Accessories
+    *   Girls' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Pillow Guy Luxury Bedding Collection
+    *   Beauty &. Bath Storage Must-Haves Starting at $10
     *   Hydro Flask
     *   Free Shipping: BergHOFF
     *   Sleek Modern Flatware &. More from $16
     *   Gear with Attitude: Graphic Kitchen Towels from $10
     *   Free Shipping: Boho-Chic Printed Accents
+    
     *   Sleek Tech Accessories
     *   Free Shipping: Flannel Bedding, Throws &. More
-    
     *   Free Shipping: Wall Decals &. More Starting at $10
     *   Home Blowout: Tech, Decor &. More
     *   Spring Clean: Organization Essentials from $13
     *   Free Shipping: Art Blowout
-    *   Free Shipping: Geode &. Agate Accents
-    *   Free Shipping: Chic Bedding Starting at $10
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bedding
     *   Organization
-    *   Luggage &. Travel
+    *   Bedding
     *   Bath
+    *   Luggage &. Travel
     *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Tria Beauty Electronics
+    *   NuFACE Facial Toning Device
+    *   Hydrate from Within: bkr Water Bottles
+    *   Fragrances We Love Starting at $10
     *   Mally Beauty
     *   Rewined Candles
     *   tarte cosmetics
+    *   Beauty &. Bath Storage Must-Haves Starting at $10
     *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Blown Away: Hair Tools Up to 80% Off
     
     Shop By Category
     *   Skin Care
     *   Hair Care
+    *   Fragrance
     *   Makeup
-    *   Bath &. Body
     *   Tools &. Accessories
+    *   Bath &. Body
 
 SearchHauteLook Privacy PolicyHauteLook Privacy Policy Overview
 
