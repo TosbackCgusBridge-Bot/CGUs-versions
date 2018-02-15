@@ -91,7 +91,7 @@ E-mail : info@stepstone.com
 
 This Privacy Statement replaces all other privacy statements previously applicable to the use of our web site.
 
-Copyright 1996-2017 StepStone GmbH All rights reserved
+Copyright 1996-2018 StepStone GmbH All rights reserved
 
 *   Contact us
 *   Terms of use
