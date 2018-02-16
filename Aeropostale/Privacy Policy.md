@@ -24,7 +24,7 @@ Close submenu ( Girls ) Girls
 *   Jackets + Vests
 *   Shoes + Accessories
 
-*   plus size
+*   petite + plus size
 *   Trending
 *   Clearance
 *   Live Love Dream
@@ -136,6 +136,8 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Bootcut
 *   Wide Leg
 *   Boyfriend
+*   Cheeky
+*   Overalls
 
 Close submenu ( Guys Jeans ) Guys Jeans
 
@@ -245,7 +247,7 @@ Close submenu ( Girls ) Girls
 *   Last Chance
 *   New to Clearance
 *   $9.99 + Under
-*   Tees + Tanks
+*   Tees + Tanks + Polos
 *   Fashion Tops
 *   Hoodies + Jackets
 *   Shirts + Sweaters
@@ -287,7 +289,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**EXTRA 14% OFF** USE CODE **BEMYAERO** **50-70% OFF + FREE SHIPPING OVER $75**
+**60% OFF EVERYTHING** \+ **FREE SHIPPING ON $75** **UP TO 80% OFF CLEARANCE**
 
 *   My Account My Account Login Register
 
@@ -335,7 +337,7 @@ Menu Find a Store Aeropostale
     *   Jackets + Vests
     *   Shoes + Accessories
     
-    *   plus size
+    *   petite + plus size
     *   Trending
     *   Clearance
     *   Live Love Dream
@@ -397,6 +399,8 @@ Menu Find a Store Aeropostale
         *   Bootcut
         *   Wide Leg
         *   Boyfriend
+        *   Cheeky
+        *   Overalls
     
     *   Guys Jeans
         *   View All
@@ -481,7 +485,7 @@ Menu Find a Store Aeropostale
         *   Last Chance
         *   New to Clearance
         *   $9.99 + Under
-        *   Tees + Tanks
+        *   Tees + Tanks + Polos
         *   Fashion Tops
         *   Hoodies + Jackets
         *   Shirts + Sweaters
@@ -527,7 +531,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Promotions Shop Girls Shop Guys Find My Store Promotions Shop Girls Shop Guys Promotions Shop Girls New Arrivals Shop Guys New Arrivals Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Promotions Shop Girls Shop Guys Promotions Shop Girls Shop Guys Find My Store Promotions Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
