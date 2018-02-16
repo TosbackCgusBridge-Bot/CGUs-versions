@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Sen. Tim Scott_: Tax Law Spurs Opportunity in Distressed Communities
+*   _Dan McLaughlin_: Why There Are No Easy Answers to Stop Mass Shootings
     
-*   _Bill Scher_: The Clock Is Not Ticking on DACA
+*   _Michael Tomasky_: Florida's Gun Law Sickness
     
-*   _Monica Crowley_: Abuses on Obama's Watch Are a Growing Blight on His Legacy
+*   _Robert VerBruggen_: Arming Teachers Would Gain Line of Defense vs. Shooters
     
-*   _Ezra Klein_: Why There's So Much Chaos in the Trump Administration
+*   _Harris &. Johnson_: John Kelly's Uphill Battle for Redemption
     
-*   _Ryan Williams_: Saving Sovereignty, Citizenship From Failed Establishment
+*   _Lee Smith_: Why the Media Stopped Reporting Russia Collusion Story
     
-*   _Jill Filipovic_: Trump's 'Blue Apron'-Type Plan Is Crumbs to the Poor
+*   _Linda Greenhouse_: Will the Supreme Court Become Trump's Enabler?
     
-*   _Siraj Hashmi_: Elizabeth Warren Should Own Up to Her Decades-Old Lie
+*   _Matthew Spalding_: Mick Mulvaney, Defender of the Constitution
     
-*   _David Brooks_: The End of the Two-Party System
+*   _Richard Cordray_: Trump Admin Tries to Undermine CFPB. It Will Fail.
     
-*   _Michael Klare_: Extract-Everything Energy Policy Dooms Us All
+*   _Andrew Ferguson_: In Search of Black and White
     
-*   _Julie Kelly_: The Climate Cabal: A Scary Trajectory for Science
+*   _Vann Newkirk_: The Provocation and Power of Black Panther
     
-*   _Thompson &. Vogelstein_: Inside Facebook's Hellish Two Years
+*   _Carl Cannon_: Too Often, the Lesson of Tragedy Is Misjudgment
     
-*   _Paul Waldman_: The Russians Are Coming
+*   _Chuck &. Johnson_: 17 Killed in Shooting at High School in Parkland, Florida
     
-*   _Ed Rogers_: Media Ignoring Ties Between Clinton Campaign &. Russians
+*   _Byron York_: Why Are the Comey Memos Secret?
     
-*   _Scot Lehigh_: Where Is the GOP Headed?
+*   _Nicholas Kristof_: The Trump Stain Spreads
     
-*   _Shadi Hamid_: Why the Center-Left Became Immoderate
+*   _Steve Cortes_: Mr. President, Let's Message Better on Abuse of Women
     
-*   _Thomas Friedman_: Syria: You Own It, You Fix It, So Just Rent It
+*   _Russell Berman_: The Pelosi Dilemma: Will She Step Aside Before Midterms?
     
-*   _Jonathan Michanie_: Trump Is Showing Significant Leadership in Middle East
+*   _Chris Whipple_: Priebus Opens Up About His 6 Months of Magical Thinking
     
-*   _Krishnadev Calamur_: The Unsinkable Benjamin Netanyahu?
+*   _Conrad Black_: Why the Country Voted for a Complete Change in 2016
     
-*   _Charles Cooke_: Memo to Morons: 'Anglo-American' a Common Legal Term
+*   _Conor Friedersdorf_: When Deplorability Is No Longer a Dealbreaker
     
-*   _Dana Milbank_: Trump Won't Stop Trying to Keep America White
+*   _Rebekah Mercer_: Forget the Media Caricature. Here's What I Believe
     
-*   _Ben Shapiro_: The Media's Obsession With Stopping Trump Isn't Normal
+*   _Susan Glasser_: Rahm Emanuel Says Trump-Bashing Is Good Politics
     
-*   _A.B. Stoddard_: Does Congressional GOP Know Women Can Vote?
+*   _McLennan &. Manzo_: Dem Wave Coming? Maybe More of a Trickle
     
-*   _Sohrab Ahmari_: Keith Ellison Goes to Dinner
+*   _Morton Kondracke_: An Open Letter to Paul Ryan on DACA
     
-*   _Frank Bruni_: The Ivanka Trump of North Korea? Oh, Please
+*   _Charles Chaput_: Memory, Sex and the Making of the 'New Man'
     
 
 *   Previous
@@ -249,9 +249,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Republican Women Frustrated by Trump's Approach to Abuse Charges
 *   Democratic Group Warns Party on Midterm Messaging
-*   Bill Murray: Identity Politics Have Made Comedy "Harder and Harder"
+*   Republican Women Frustrated by Trump's Approach to Abuse Charges
+*   Student to Brian Williams: Banning Guns Just Creates Higher Demand
 *   North Dakota Candidate Quits Senate Race. Expects Cramer Run
 *   Congress Takes On Immigration Issue Amid Election Pressures
 *   Presidential Job Approval
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Pennsylvania 18th District Special Election - Saccone vs. LambMonmouth
+    *   Saccone49
+    *   Lamb46Saccone +3
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove51Disapprove +3
 *   President Trump Job ApprovalFOX News
     *   Approve43
     *   Disapprove53Disapprove +10
 *   President Trump Job ApprovalPPP (D)
     *   Approve44
     *   Disapprove50Disapprove +6
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve45
-    *   Disapprove50Disapprove +5
 
 More Latest Polls In The News
 
-*   FBI Director Wray: I Encourage Agents "Not To Get Too Hung Up" Over "Noise On TV And Social Media"
-*   Ramos: Republicans Want To Change "Essence" Of United States, "Make America White Again"
-*   Scarborough: Why Isn't Melania Trump Commenting On Spousal Abuse Stories? "A Fair Question To Ask"
-*   CNN's Acosta vs. Huckabee Sanders: Was Trump "Defending" Porter Because Of His Own Allegations?
-*   Bartiromo: Hillary Clinton Had The Full Weight And Strength Of The U.S. Government Behind Her
+*   Megyn Kelly on School Shootings: "NRA is Too Powerful" And Politicians Are "Too Weak"
+*   CNN's Jim Acosta to Trump on Gun Violence: "Why Does This Keep Happening To America?"
+*   Elizabeth Warren: I Never Used My Native American Ancestry Claim, Family Tree to Advance My Career
+*   Student To Brian Williams: Banning Guns Just Creates A Higher Demand. Won't Prevent School Shootings
+*   GOP Rep. Mullin on Gun Violence: "What Do You Expect" When Call Of Duty Is The #1 Video Game?
 
 *   Politics
 *   Policy
