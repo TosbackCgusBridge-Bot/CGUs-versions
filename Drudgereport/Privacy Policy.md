@@ -135,19 +135,19 @@ LATEST ON TWITTER
 
 My week on Twitter : 19 Mentions, 13.3K Mention Reach, 3 Likes, 3 Retweets, 641 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LPHQ…
 
-Yesterday
+About 2 days ago
 
 We're excited to be named one of @DC\_Inno's 2018 Tech Madness Finalist! Congrats to all on the list! americaninno.com/dc/…
 
-About 2 days ago
+About 3 days ago
 
 Our biggest fans this week: @Nicole\_Kosar, @Jambrose. Thank you! via sumall.com/thankyou?… pic.twitter.com/SXM9…
 
-About 2 days ago
+About 3 days ago
 
 Having a tough time deciding which industry events to attend? Have no fear! We've put together a list of the top 14 digital media and publishing conferences to attend in 2018. We hope to see you at one of these events! bit.ly/2G7JveB via Intermarkets blog
 
-About 3 days ago
+About 4 days ago
 
 My week on Twitter : 5 Mentions, 87.2K Mention Reach, 11 Likes, 5 Retweets, 5.16K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/16fy…
 
