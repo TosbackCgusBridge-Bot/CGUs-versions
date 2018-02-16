@@ -72,7 +72,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         
     *   Stock exchange announcements
         *   Inside information last item in this group
-    *   Share and dividend information
+    *   Shareholder information
+        *   Manage your shareholding
         *   Dividend calculators
         *   Dividend history
         *   Dividend timetable
@@ -81,14 +82,11 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Events and presentations
         
     
-    *   Investor resources
+    *   Investing in HSBC
         *   Our investment case
         *   Investor information in Chinese -  
             投資者中文資訊
-        *   Frequently asked questions
-        *   Investor contacts
-        *   Equity analyst coverage
-        *   Contact our registrar last item in this group
+        *   Equity analyst coverage last item in this group
     *   Fixed income investors
         *   HSBC Holdings securities
         *   Subsidiary company securities
@@ -97,6 +95,10 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Issuance programmes
         *   Regulatory capital securities
         *   Credit ratings last item in this group
+    *   Investor FAQs
+        
+    *   Investor contacts
+        
     
     *   Annual Results 2017 HSBC Holdings plc will announce its Annual Results on 20 February.
 *   News and insight Skip to Careers navigation
@@ -380,10 +382,12 @@ Investor relations
 *   Group results and reporting
 *   Subsidiary company reporting
 *   Stock exchange announcements
-*   Share and dividend information
+*   Shareholder information
 *   Events and presentations
-*   Investor resources
+*   Investing in HSBC
 *   Fixed income investors
+*   Investor FAQs
+*   Investor contacts
 
 News and insight
 
