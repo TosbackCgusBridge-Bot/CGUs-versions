@@ -1,30 +1,30 @@
 ﻿
 
-*   SOLUTIONS
-    *   PRODUCT INNOVATION
-    *   ADVERTISING &. BRAND
-    *   CUSTOMER VALUE
-*   TECHNOLOGY
-*   INSIGHTS &. NEWS
-*   CAREERS
-*   CONTACT
-*   CLIENT LOGIN
-    *   INSIGHTS
-    *   PORTAL
-    *   SURVEY MANAGER
+*   Solutions
+    *   Product Innovation
+    *   Advertising &. Brand
+    *   Customer Value
+*   Technology
+*   Insights &. News
+*   Careers
+*   Contact
+*   Client login
+    *   Insights
+    *   Portal
+    *   Survey manager
 
-*   SOLUTIONS
-    *   PRODUCT INNOVATION
-    *   ADVERTISING &. BRAND
-    *   CUSTOMER VALUE
-*   TECHNOLOGY
-*   INSIGHTS &. NEWS
-*   CAREERS
-*   CONTACT
-*   CLIENT LOGIN
-    *   INSIGHTS
-    *   PORTAL
-    *   SURVEY MANAGER
+*   Solutions
+    *   Product Innovation
+    *   Advertising &. Brand
+    *   Customer Value
+*   Technology
+*   Insights &. News
+*   Careers
+*   Contact
+*   Client login
+    *   Insights
+    *   Portal
+    *   Survey manager
 
 MetrixLab MetrixLab
 
