@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-A Last-Minute Valentine’s Day Gift They’ll Love? Send an eGift Card!
+You’ll Be Crushing On These – Shop New Arrivals
 
 *   Women
 *   Men
@@ -213,47 +213,43 @@ A Last-Minute Valentine’s Day Gift They’ll Love? Send an eGift Card!
           
         Give a Buckle Gift card
 *   Trending
-    *   *   Featured New
+    *   *   Featured
         
+        *   New Arrivals
+        *   St. Patrick's Day
         *   Spring Checklist
         *   Top Rated
-        *   Stretch Denim
-        *   Gilded Intent
-        *   Departwest
-        *   Women's Bags
-        *   Men's Hats
-        *   Boots
-        *   Men's Barbershop
+        *   Best Sellers
+        *   Back in Stock
+        *   Matching Sets
         
-        *   Women's New
+        *   Women's Trends
         
-        *   Jeans
-        *   Shirts/Blouses
-        *   Fashion Tops
-        *   Sweaters
-        *   Sweatshirts
-        *   Shoes
+        *   BOGO 30% Off BKE Jewelry
+        *   birdiebee
+        *   Dibs
+        *   Fresh Florals
+        *   Mellow Yellow
+        *   Bright Whites
+        *   (Swim) Suit Up
         *   Shop All
         
-        *   Men's New
+        *   Men's Trends
         
-        *   Jeans
-        *   Long Body
-        *   T-Shirts
-        *   Shirts
-        *   Sweatshirts
-        *   Coats/Jackets
-        *   Shoes
+        *   Barbershop
+        *   Calvin Klein
+        *   Dibs
+        *   Hybrid Shorts
+        *   Dye Hard
+        *   Oakley Eyewear
+        *   Salt Life
         *   Shop All
         
         *   Looks
         
-        *   Men's Carefree Style
-        *   Women's Carefree Style
-        *   Men's Edgy Style
-        *   Women's Edgy Style
-        *   Men's Polished Style
-        *   Women's Feminine Style
+        *   Everyday Essentials
+        *   Festival Pack List
+        *   Night Out
         
         *   Gift Guide
         
