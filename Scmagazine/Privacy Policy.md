@@ -20,6 +20,7 @@ Show Search Bar
     *   Malware
     *   Phishing
     *   Insider Threats
+    *   Cryptocurrency
 *   Network Security
     *   Mobile Security
     *   Cloud Security
