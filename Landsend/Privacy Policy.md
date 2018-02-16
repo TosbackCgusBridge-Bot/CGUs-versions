@@ -375,7 +375,15 @@ menu Close 0 Free Shipping on $50+
     *   School Uniforms
     
     FEATURED SHOPS
+    
     *   On The Counter
+    
+    SHOP CLEARANCE
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
 
 *   New
     *   Back
@@ -724,6 +732,11 @@ menu Close 0 Free Shipping on $50+
     *   Boys
     *   Home
     *   School Uniforms
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
 *   Business Outfitters
 *   Hi, Sign in My Account
     *   Back
