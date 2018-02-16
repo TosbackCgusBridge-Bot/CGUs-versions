@@ -1,6 +1,6 @@
 *   menu
 
-*   Your Location: 80264 Zip: 80264
+*   Your Location: 67301 Zip: 67301
 *   Certified Used Vehicles
 *   Owners
 *   Español
