@@ -12,15 +12,13 @@ Open menu
     
     *   See All Shows
     
-    *   Aaron Hernandez, McNair &. Dele: Dangerous Games
     *   Bobbi Kristina Brown: Deadly Legacy
     *   Chicago P.D.
-    *   Dateline: Secrets Uncovered
-    *   Final Appeal
-    *   Homicide for the Holidays
-    
+    *   In Ice Cold Blood
     *   It Takes A Killer
     *   Killer Couples
+    *   Killing Versace: The Hunt For A Serial Killer
+    *   Michael Jackson &. Anna Nicole Smith: Bad Medicine
     *   Mysteries &. Scandals
     *   OJ Simpson: The Crimes and Punishment
     *   Snapped
@@ -36,15 +34,13 @@ Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
     
     *   See All Shows
     
-    *   Aaron Hernandez, McNair &. Dele: Dangerous Games
     *   Bobbi Kristina Brown: Deadly Legacy
     *   Chicago P.D.
-    *   Dateline: Secrets Uncovered
-    *   Final Appeal
-    *   Homicide for the Holidays
-    
+    *   In Ice Cold Blood
     *   It Takes A Killer
     *   Killer Couples
+    *   Killing Versace: The Hunt For A Serial Killer
+    *   Michael Jackson &. Anna Nicole Smith: Bad Medicine
     *   Mysteries &. Scandals
     *   OJ Simpson: The Crimes and Punishment
     *   Snapped
@@ -91,6 +87,7 @@ About Oxygen
 *   Terms of Service
 *   New Independent Programming Report
 *   Closed Captioning
+*   HTML Sitemap
 *   XML Sitemap
 *   In Progress
 *   Oxygen Apps &. Support
