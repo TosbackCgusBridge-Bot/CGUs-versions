@@ -27,6 +27,11 @@ Monkeybrains.net San Francisco-based ISP since 1998
 
 NOTABLE PRESS MENTIONS &. REVIEWS
 
+_February 5, 2018_  
+**City Visions: The Bay's fight to save net neutrality**  
+Host Ethan Elkind and guests discuss the Federal Communications Commission's December repeal of Obama-era net neutrality rules, regulations designed to ensure a free and open internet.  
+Read more and listen >>.
+
 _July 5th, 2017_  
 **More than 1,000 income-subsidized housing units in San Francisco are getting free gigabit internet**  
 By April Glaser  
