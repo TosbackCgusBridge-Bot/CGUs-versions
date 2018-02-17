@@ -1,4 +1,4 @@
-Free Standard U.S. Shipping Every Day on Orders $99+\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping Orders $99+\*1-800-737-5223 Sign In / Create Account Home China - Dinnerware
+Free Standard U.S. Shipping on Orders ~$99~ $59+ WITH CODE PRES59\*\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping on Orders ~$99~ $59+ WITH CODE PRES59\*1-800-737-5223 Have an Account? Sign In Home China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
@@ -45,10 +45,6 @@ Specials
 *   Yard Sale
 *   Warehouse Sale
 
-My Account
-
-*   Sign In/Create Account
-
 Contact Us FAQ Shopping Cart Cart0 China  
 Dinnerware Crystal  
 Glassware Silver  
@@ -56,8 +52,6 @@ Flatware Specials
 
 *   Cart0
 *   My Account
-    *   Sign in
-    *   _New Customer?_Create Account
 
 *   China - Dinnerware(current)
     
