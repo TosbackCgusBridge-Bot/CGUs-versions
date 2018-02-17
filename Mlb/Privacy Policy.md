@@ -98,13 +98,10 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   StubHub.com2018 Schedule 2018 Season Tickets Bank of America
 *   Apps Apps Apps
     *   At Bat app
-    *   At Bat on Tablets
-    *   At Bat on Apple iPad®
     *   MLB.com Ballpark app
-    *   Beat the Streak
     *   MLB Home Run Derby
     *   MLB Line Drive
-    *   R.B.I. Baseball 17
+    *   R.B.I. Baseball 18
     *   MLB Franchise MVP
     *   FAQ
 *   Shop Shop Shop
@@ -146,7 +143,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   2018 Player Preview
-    *   Beat the Streak
     *   R.B.I. Baseball 18
     *   MLB Home Run Derby
     *   MLB Line Drive
@@ -157,7 +153,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy4112018 Player Preview R.B.I. Baseball Beat the Streak MLB.com Line Drive Fantasy Player Preview 160x160 MLB.com Home Run Derby
+    *   Follow @Fantasy4112018 Player Preview R.B.I. Baseball MLB.com Line Drive Fantasy Player Preview 160x160 MLB.com Home Run Derby
 *   Play Ball Play Ball Play Ball
     *   PlayBall.org
     *   Videos
