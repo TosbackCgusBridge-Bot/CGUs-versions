@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 11%  7% 
+What is PeekScore? Public Records &. Background Checks 19%  7% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 11%  7% 
     
 *   Show Less ...
 
-11%  11%  Arrest Records &. Driving Infractions
+19%  19%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -323,7 +323,7 @@ Instagram 6% 
     
 *   Show Less ...
 
-Pinterest 10%  Wikipedia 6% 
+Pinterest 18%  Wikipedia 6% 
 
 *   Wikipedia
     
@@ -364,7 +364,7 @@ Google+ 6% 
     
 *   Show Less ...
 
-Linkedin 10%  Music 6% 
+Linkedin 18%  Music 6% 
 
 *   Pandora
     
