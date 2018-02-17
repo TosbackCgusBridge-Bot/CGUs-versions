@@ -62,6 +62,8 @@ menu Close 0 Free Shipping on $50+
     *   Petite
     *   Tall
     *   Plus
+    *   Petite Plus
+    *   Tall Plus
     
     CATEGORIES
     
@@ -374,16 +376,16 @@ menu Close 0 Free Shipping on $50+
     *   Home
     *   School Uniforms
     
-    FEATURED SHOPS
-    
-    *   On The Counter
-    
     SHOP CLEARANCE
+    
     *   Women
     *   Men
     *   Girls
     *   Boys
     *   Home
+    
+    FEATURED SHOPS
+    *   On The Counter
 
 *   New
     *   Back
@@ -417,6 +419,8 @@ menu Close 0 Free Shipping on $50+
         *   Petite
         *   Tall
         *   Plus
+        *   Petite Plus
+        *   Tall Plus
     *   SHOES
         *   Back
         *   View All
@@ -723,20 +727,24 @@ menu Close 0 Free Shipping on $50+
 *   Sale
     *   Back
     *   Shop all Sale
+    *   SHOP SALE
+        *   Back
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+        *   Home
+        *   School Uniforms
+    *   SHOP CLEARANCE
+        *   Back
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+        *   Home
     *   FEATURED SHOPS
         *   Back
         *   On The Counter
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
-    *   School Uniforms
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
 *   Business Outfitters
 *   Hi, Sign in My Account
     *   Back
