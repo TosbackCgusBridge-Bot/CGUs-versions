@@ -336,7 +336,7 @@ Home >. Filter by specs Offers
 
 PrevNext Our Biggest Presidents Day Sale Ever!
 
-Save up to 75% on select products. Sale ends on February 19th at 4am EST
+Save up to 75% on select products. Sale ends on February 20th at 4 AM EST
 
 Shop Deals >.
 
@@ -369,19 +369,19 @@ EXPLORE AUGMENTED AND VIRTUAL REALITY
 
 Laptops Deals
 
-Biggest savings of the year on new and top-selling laptops! Ends Feb. 21.
+Biggest savings of the year on new and top-selling laptops! Ends Feb. 22.
 
 Desktops Deals
 
-Pick up a new desktop worthy of the Executive Office. Limited quantities. ends Feb. 21.
+Pick up a new desktop worthy of the Executive Office. Limited quantities. ends Feb. 22.
 
 Monitors &. Accessories Deals
 
-Monitors ,docks, keyboards, mice, and more at Presidential prices through Feb. 21
+Monitors ,docks, keyboards, mice, and more at Presidential prices through Feb. 22.
 
 Tablet Deals
 
-Our tablets are more than just toys. Now on sale for President's Day until Feb. 21!
+Our tablets are more than just toys. Now on sale for President's Day until Feb. 22!
 
 Virtual Reality &. Smart Devices
 
