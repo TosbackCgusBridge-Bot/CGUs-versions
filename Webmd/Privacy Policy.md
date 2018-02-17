@@ -1,4 +1,5 @@
-Skip to main content
+Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
+and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -106,11 +107,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Miserable Flu Season Breaking Records
-    *   Salt May Affect the Brain and Memory
-    *   Who Really Needs to Go Gluten-Free
+    *   When Is It Safe to Go Back to Work After the Flu?
     *   Cellphones Linked to Tumors?
-    *   More Norovirus Infections at Olympics in S. Korea
+    *   Pet Alert: Euthanasia Drug Found in Wet Dog Food
+    *   How to Eat to Keep Weight Off
+    *   First Human Case of 'Eye Worms'
     
     Experts &. Community
     
