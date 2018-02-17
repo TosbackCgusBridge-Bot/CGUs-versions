@@ -23,7 +23,7 @@ You’ll Be Crushing On These – Shop New Arrivals
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES
 *   MY BAG
