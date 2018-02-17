@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheries It's #WhaleWeek at NOAA Satellites NOAA satellites aid in the rescue of 275 lives in 2017 National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Those scented products you love? NOAA study finds they can cause air pollution Satellites NOAA satellites aid in the rescue of 275 lives in 2017 National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Fisheri
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms It's #WhaleWeek at NOAA Science is helping us better understand the threats whales face. See how. AROUND NOAA // Those scented products you love? NOAA study finds they can cause air pollution A simple snap of the claw brings gray whales to the dinner table, if you’re that kind of shrimp North Atlantic right whales: Please stay 500 yards away. See why. NOAA satellites aid in the rescue of 275 lives in 2017
+Enter Search Terms In a warming Arctic, rising ship traffic demands better sea ice forecasts AROUND NOAA // Those scented products you love? NOAA study finds they can cause air pollution Q&A: ​How can we prevent ​​right whale​s from becoming entangled in fishing gear? North Atlantic right whales: Please stay 500 yards away. See why.
 
 *   About our agency
 *   News and features
@@ -126,4 +126,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+NOAA
