@@ -125,9 +125,9 @@ View Light up the party. on Instagram
 
 <img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c07a6e6a0a069761f8da5d4be1d26391/5B1BA038/t51.2885-15/e35/26293598\_374023029725791\_9024604476564045824\_n.jpg);" alt="">.
 
-Have an ama-zing Valentine’s Day with these e-cards from #HotelT3!
+Flash Sale! Kick off your weekend at PlayStation Store with savings up to 70%
 
-2 days ago
+8 hours ago
 
 View Tweet
 
@@ -193,9 +193,9 @@ The Way You Want
 
 <img class="bg-img" class="url(/en\_us/media/content/Headphones-600x600\_pVFsWX9.jpg);" alt="1000XM2 Wireless Noise-Canceling Headphones">.
 
-New #FloridaBoy @RickRoss feat. @TPAIN and @KodakBlack1k out now!#PortOfMiamiTwo http://smarturl.it/FloridaBoyVideo
+It's only a matter of time. #Timeless returns on March 11 at 10/9c on @NBC.
 
-3 days ago
+14 hours ago
 
 View Tweet
 
@@ -283,9 +283,9 @@ View Monster Hunter PS4 on Instagram
 
 <img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/258c84f8f5b36c77ed039e776479d0a5/5B166AD5/t51.2885-15/e35/26872535\_178732879394577\_5367743662891466752\_n.jpg);" alt="">.
 
-Moss hands-on impressions: Our pals at @PlayStationEU play @PolyarcGames' upcoming #PSVR adventure and come away from it with a newfound respect for jugglers: http://play.st/2sr1jPR
+Now #OnView at #SonySquareNYC: The Photo Society featuring the people and cultures of our global community by @natgeo contributing photographers.
 
-2 days ago
+14 hours ago
 
 View Tweet
 
