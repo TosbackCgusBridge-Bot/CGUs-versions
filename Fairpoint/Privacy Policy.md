@@ -1,191 +1,538 @@
-Toggle navigation
+<iframe src='//www.googletagmanager.com/ns.html?id=GTM-N6DV75'height='0' width='0' style='display:none;visibility:hidden'></iframe>.
 
 *   Residential
+    *   Internet
+        *   Order Internet
+    *   TV
+        *   Order TV
+        *   Channel Lineup
+    *   Phone
+        *   Order Phone
+    *   Bundles
+        *   Order Bundles
+    *   Home Security
+        *   Order Home Security
 *   Business
+    *   Small Business
+        *   Internet
+        *   TV
+        *   Phone
+        *   Bundles
+    *   Medium &. Enterprise
+        *   Data &. Internet
+            *   Switched Ethernet
+            *   Dedicated Internet Access
+            *   Internet Service
+            *   Managed Wireless LAN
+            *   MPLS-VPN
+            *   Remote VPN
+            *   Private Line
+            *   Network Failover
+            *   Data Backup
+        *   Voice
+            *   VoIP
+            *   Business Lines
+            *   ISDN PRI
+        *   Data Center Services
+            *   Colocation Services
+            *   Locations
+            *   Disaster Recovery
+            *   Cloud Compute
+        *   Security Services
+            *   Cloud Security
+            *   On-site Security
+            *   DDoS Mitigation
+        *   Managed &. IT Services
+            *   Managed Router
+            *   Managed Desktop &. Server Service
+            *   Microsoft Productivity Tools
+            *   Domain Services
+            *   Mobile Device Management
+            *   Professional Services
+        *   Cloud Services
+    *   Industry Solutions
+        *   Government
+            *   Local/Municipal
+            *   State
+            *   Federal
+            *   Public Safety
+        *   Education
+            *   K-12
+            *   Higher Education
+        *   Retail
+        *   Real Estate
+        *   Construction
+        *   Financial Services
+        *   Healthcare
+        *   Manufacturing
+        *   Call Centers
+    *   Resources
+        *   Network Maps
+        *   Business Blog
+        *   Collateral
+            *   Brochures &. Data Sheets
+            *   White Papers
+            *   Videos &. Testimonials
+            *   Case Studies
+            *   Infographics
+        *   Business Support
+        *   Technology Partners
+        *   Agent Program
 *   Wholesale
+    *   Data
+        *   Switched Ethernet
+            *   E-Line
+            *   MEF Certification
+        *   Internet Access
+            *   Dedicated Internet Access
+            *   Internet Services
+        *   Backhaul
+            *   Cell Tower
+            *   Small Cell
+        *   Transport
+            *   Wavelength Service
+            *   Private Line
+            *   Dark Fiber
+            *   SONET
+    *   Voice
+        *   Wholesale Package
+    *   Network Connections
+        *   Data Center &. Colocation Services
+        *   Extended Connect
+    *   Industry Solutions
+        *   CLEC
+        *   ISP
+        *   Wireless Carriers
+        *   Carrier/IXC
+        *   Resellers
+    *   Resources
+        *   Network Maps
+        *   Customer Tools
+        *   Customer Documentation
+        *   Industry Information
+*   Support
+    *   Residential Support
+        *   Internet &. Email Support
+        *   TV Support
+        *   Phone Support
+        *   Home Security Support
+        *   Refer a Friend
+        *   Lifeline &. Assistance Programs
+    *   Business Support
+        *   Manuals &. User Guides
+        *   Web Hosting &. Domain Support
+        *   Business Support Portals
+        *   Agent Support Center
+    *   Account Support
+        *   Check My Email
+        *   View or Pay My Bill
+        *   Help Understanding My Bill
+        *   Seasonal Suspend &. Restore
+        *   MyCCI Support
+    *   Terms &. Policies
+        *   Internet Terms &. Policies
+            *   Internet Terms &. Conditions
+            *   Internet Acceptable Use Policy
+            *   Broadband Management Policies
+            *   Open Internet Information FAQs
+            *   Domain Registration Agreement
+            *   ICANN - Uniform Domain Name Dispute Resolution Policy
+            *   BGP Routing Policy
+        *   TV Terms &. Policies
+            *   Digital TV Terms &. Conditions
+            *   Digital TV Subscriber Notification
+        *   Phone and Long Distance Terms &. Policies
+            *   Long Distance Terms &. Conditions
+            *   Local Number Portability
+            *   Fraud Protection
+        *   Wholesale/Carrier Services
+        *   Tariffs &. Service Catalogs
+        *   Copyright Policies
+            *   Copyright Infringement Policy
+            *   Notice to Copyright Owners
+        *   Privacy Policy
+        *   Website Terms of Use
 *   About Us
-*   Offers
+    *   Investor Relations
+    *   News
+    *   Leadership
+    *   Careers
+    *   Community Matters
+        *   Company Giving
+        *   Foundation &. Community Fund
+            *   California Foundation
+            *   Kansas Foundation
+            *   Minnesota Community Fund
+        *   Employee Volunteerism
+        *   Special Olympics Family Festival
+        *   Environmental Responsibility
+    *   History
+        *   Telephone Museum
+            *   Museum History
+            *   Museum Exhibits
+    *   Locations
+*   Contact Us
+*   Careers
+    *   Career Opportunities
+    *   Working at Consolidated
+        *   Benefits
+        *   Employee Development, Education &. Training
+        *   Vision, Mission &. Values
+        *   Community Involvement
+        *   Diversity/EEO
+        *   Internships &. College Relations
+    *   Hiring Process
+    *   Locations
+    *   Employment Verification
 
-Toggle navigation
+*   My Account   
 
-*   Bundles
-*   Internet
-    
-*   Phone
-*   TV
-*   Energy
-*   Offers
+*   About Us
+    *   Investor Relations
+    *   News
+    *   Leadership
+    *   Careers
+    *   Community Matters
+    *   History
+    *   Locations
+*   Contact Us
 
-*   Please tailor my FairPoint experience. I am interested in:
-*   Residential ServicesBusiness ServicesWholesale ServicesService location is: undetected
+Search × Information Varies By Location Please enter your service ZIP code to proceed.  
+Search Attempting to find your ZIP code... Current Address:
 
-*   Home
+Change Please provide your complete service address, starting with street number.  
+
+Search Loading...
+
+Potential address matches will appear as you type. Click your address from the drop-down as it appears or keep typing to refine your search.
+
+Select Location
+
 *   Residential
+    *   Internet
+        *   Order Internet
+    *   TV
+        *   Order TV
+        *   Channel Lineup
+    *   Phone
+        *   Order Phone
+    *   Bundles
+        *   Order Bundles
+    *   Home Security
+        *   Order Home Security
+*   Business
+    *   Small Business
+        *   Internet
+        *   TV
+        *   Phone
+        *   Bundles
+    *   Medium &. Enterprise
+        *   Data &. Internet
+        *   Voice
+        *   Data Center Services
+        *   Security Services
+        *   Managed &. IT Services
+        *   Cloud Services
+    *   Industry Solutions
+        *   Government
+        *   Education
+        *   Retail
+        *   Real Estate
+        *   Construction
+        *   Financial Services
+        *   Healthcare
+        *   Manufacturing
+        *   Call Centers
+    *   Resources
+        *   Network Maps
+        *   Business Blog
+        *   Collateral
+        *   Business Support
+        *   Technology Partners
+        *   Agent Program
+*   Wholesale
+    *   Data
+        *   Switched Ethernet
+        *   Internet Access
+        *   Backhaul
+        *   Transport
+    *   Voice
+        *   Wholesale Package
+    *   Network Connections
+        *   Data Center &. Colocation Services
+        *   Extended Connect
+    *   Industry Solutions
+        *   CLEC
+        *   ISP
+        *   Wireless Carriers
+        *   Carrier/IXC
+        *   Resellers
+    *   Resources
+        *   Network Maps
+        *   Customer Tools
+        *   Customer Documentation
+        *   Industry Information
+*   Support
+    *   Residential Support
+        *   Internet &. Email Support
+        *   TV Support
+        *   Phone Support
+        *   Home Security Support
+        *   Refer a Friend
+        *   Lifeline &. Assistance Programs
+    *   Business Support
+        *   Manuals &. User Guides
+        *   Web Hosting &. Domain Support
+        *   Business Support Portals
+        *   Agent Support Center
+    *   Account Support
+        *   Check My Email
+        *   View or Pay My Bill
+        *   Help Understanding My Bill
+        *   Seasonal Suspend &. Restore
+        *   MyCCI Support
+    *   Terms &. Policies
+        *   Internet Terms &. Policies
+        *   TV Terms &. Policies
+        *   Phone and Long Distance Terms &. Policies
+        *   Wholesale/Carrier Services
+        *   Tariffs &. Service Catalogs
+        *   Copyright Policies
+        *   Privacy Policy
+        *   Website Terms of Use
+*   Careers
+    *   Career Opportunities
+    *   Working at Consolidated
+        *   Benefits
+        *   Employee Development, Education &. Training
+        *   Vision, Mission &. Values
+        *   Community Involvement
+        *   Diversity/EEO
+        *   Internships &. College Relations
+    *   Hiring Process
+    *   Locations
+    *   Employment Verification
+
+Support
+
+*   Residential Support
+    *   Internet &. Email Support
+    *   TV Support
+    *   Phone Support
+    *   Home Security Support
+    *   Refer a Friend
+    *   Lifeline &. Assistance Programs
+*   Business Support
+    *   Manuals &. User Guides
+    *   Web Hosting &. Domain Support
+    *   Business Support Portals
+    *   Agent Support Center
+*   Account Support
+    *   Check My Email
+    *   View or Pay My Bill
+    *   Help Understanding My Bill
+    *   Seasonal Suspend &. Restore
+    *   MyCCI Support
+*   Terms &. Policies
+    *   Internet Terms &. Policies
+        *   Internet Terms &. Conditions
+        *   Internet Acceptable Use Policy
+        *   Broadband Management Policies
+        *   Open Internet Information FAQs
+        *   Domain Registration Agreement
+        *   ICANN - Uniform Domain Name Dispute Resolution Policy
+        *   BGP Routing Policy
+    *   TV Terms &. Policies
+        *   Digital TV Terms &. Conditions
+        *   Digital TV Subscriber Notification
+    *   Phone and Long Distance Terms &. Policies
+        *   Long Distance Terms &. Conditions
+        *   Local Number Portability
+        *   Fraud Protection
+    *   Wholesale/Carrier Services
+    *   Tariffs &. Service Catalogs
+    *   Copyright Policies
+        *   Copyright Infringement Policy
+        *   Notice to Copyright Owners
+    *   Privacy Policy
+    *   Website Terms of Use
+
+  
+Terms &. Policies
+
+Access regulatory information, terms and policies,  
+and more for Consolidated Communications services.
+
+View Menu Options
+
+**We’ve Updated Our Terms of Service for Internet Service**
+
+In an effort to make our Internet service terms more streamlined and integrated across markets, we’ve updated our Terms of Service. We believe these updates clarify the terms and conditions applicable to your use of the Service and help us serve our users in a more effective way.
+
+In addition to updating our Terms of Service, we also have updated our Acceptable Use Policy (AUP), Privacy Policy and certain other policies applicable to the Service. All of these policies can be found on this page.
+
+We recommend reviewing the Terms of Service, the AUP, the Privacy Policy and all other policies applicable to the use of the Service in their entirety.
+
+*   Terms of Service
+*   Acceptable Use Policy (AUP)
 *   Privacy Policy
 
-_FairPoint Communications_ Customer Privacy Policy
+**Regulatory Information:**
 
-FairPoint Communications ("FairPoint") is committed to respecting and protecting the privacy of our customers. As discussed below, we have strict policies governing access by employees and others to customer communications and information. We access customer accounts, records or reports for authorized business purposes only. We educate our employees about their obligation to safeguard customer information and communications, and we hold them accountable for their actions. In short, privacy is a priority for FairPoint in all aspects of our business. This Customer Privacy Policy is divided into four sections: Section I describes several general principles that express FairPoint's commitment to assuring strong and meaningful customer privacy protection. Section II describes, more specifically, how FairPoint protects the confidentiality of Customer Proprietary Network Information (CPNI). Section III describes FairPoint's "Do Not Call" practices, which are designed to protect our customers from unwanted telemarketing. Finally, Section IV provides our contact information should you have any questions about this policy or FairPoint's privacy practices more generally.
+Tariffs, RTCs, Price Lists, Catalogs &. Service Agreements
 
-**GENERAL PRIVACY PRINCIPLES**
+Get access to Consolidated Communications tariffs, price lists, service agreements and more.
 
-*   The following principles express FairPoint's commitment to assuring strong and meaningful customer privacy protection, and are intended to guide FairPoint's efforts to balance customer privacy with customer interest in receiving quality services. These principles apply to our use of "individual" customer information - that is, information about specific customers. These policies are fully consistent with applicable laws and regulations governing privacy, including the regulations of the Federal Communications Commission ("FCC"). Individual customer information is distinct from "aggregated" customer information, which does not reveal a customer's identity. Further, the examples provided below are intended to be illustrative, not all-inclusive.
+Regulatory Documents
 
-**1\. FairPoint obtains and uses individual customer information for business purposes only.**
+Regulatory Information &. Customer Specific Agreements
 
-FairPoint obtains and uses customer information that helps us to provide our customers with quality telecommunications services. In addition to supporting the direct provision of service, this information may be used to protect customers, employees and property against fraud, theft or abuse. to conduct industry or consumer surveys. and to maintain good customer relations. Access to databases containing customer information is limited to employees who need that information to perform their jobs. These employees are required to follow strict rules when handling customer information, and are subject to disciplinary action if they fail to do so. In order to better serve our customers, we may ask them questions to elicit additional information about their special needs and interests. For example, we may ask whether customers work at home, whether any members of the household have special needs, or whether teenagers reside in the household in order to determine whether customers may be interested in or might benefit from additional lines or services. In all cases, the information we gather is used to facilitate the provision of quality customer service. We do not share this information with third parties to market non-FairPoint services to our customers.
+Regulatory Information
 
-**2\. FairPoint informs customers how information FairPoint obtains about them is used, as well as their options regarding its use.**
+Customer Specific Agreements
 
-FairPoint uses customer information in a transparent fashion, and discloses to customers the types of information FairPoint obtains about them how and when that information is used, when that information might be disclosed, the stringent measures we employ to protect that information, and ways that customers can restrict the use or disclosure of that information. FairPoint's Customer Privacy Policy is available on our website at http://www.fairpoint.com, and from FairPoint service representatives.
+**Product Terms &. Policies:**
 
-**3\. FairPoint gives customers opportunities to control access by others to customer information, and how FairPoint uses individual information about them.**
+Internet Terms &. Policies
 
-FairPoint is committed to providing customers with opportunities to control how FairPoint uses customer information about them. For example, customers may inform us of which telephone listings they want to include in our directories and in directory assistance, and may also choose to have a non-published number, or a non-listed number, or to exclude your address from your listing. Customers in areas where Caller ID services are available have the ability to block the display of their phone numbers and names. (Note that Caller ID blocking does not prevent the transmission of your phone number when you dial certain business numbers, including 911, or 800, 888, 877, and 900 numbers.) Further, customers can express a preference not to be called for marketing purposes (please see Section III, below, for more information on FairPoint's "Do Not Call" policy). Customers may also opt out of our direct mailings and other service marketing programs. (Please see Section II, below, for information on FairPoint's policy on the use of "Customer Proprietary Network Information"). A customer may indicate a change in such preferences at any time by contacting FairPoint customer service. We do use individual customer information internally for planning purposes - so that we can, for example, develop, test and market new products and services that meet the needs of our customers. Ordinarily, such information is combined into aggregations that do not include individual customer identities. Under certain circumstances, we are required by law to disclose the aggregated information to other companies, but in such cases customer identities are not included.
+*   Internet Terms &. Conditions
+*   Internet Acceptable Use Policy
+*   Broadband Management Policies
+*   Open Internet Information FAQs
+*   Domain Registration Agreement
+*   ICANN - Uniform Domain Name Dispute Resolution Policy
+*   BGP Routing Policy
 
-**4\. FairPoint enables customers to control how FairPoint discloses individual information about them to other persons or entities, except as required by law or to protect the safety of customers, employees or property.**
+Internet Terms &. Policies
 
-Ordinarily, FairPoint will only share individual customer information with persons or entities outside the company to assist us in the provision of services to which the customer subscribes. We do not use third-party marketers, nor do we share access to individual customer information derived from the provision of FairPoint telecommunications services with other companies interested in marketing other services to our customers - and we would not do so without the consent of the customer. FairPoint is committed to ensuring that customer information is not used without the knowledge and permission of our customers. However, there are exceptions to our general practice. For example, if FairPoint enters into a merger, acquisition, or sale of all or a portion of its assets, a customer's personally identifiable information will, in most instances, be transferred as a part of the transaction, subject to required notices to affected customers. In addition, we may, where permitted by law, provide information to credit bureaus, or provide information and/or sell receivables to collection agencies, to obtain payment for FairPoint billed products and services. We are also required by law to provide billing name and address information to a customer's long distance carrier and other telephone companies to allow them to bill for telecommunications services. (By law, customers with non-published or unlisted service have the right not to have their billing name and address disclosed when they make a calling card call or accept a collect or third party call. However, if they do restrict disclosure, they will be unable to make calling card calls or accept collect and third party calls.) Similarly, we are required to provide directory publishers with subscriber listing information - name, address and phone number, and for yellow page advertisers, primary advertising classification - for purposes of publishing and delivering directories. In addition, under certain circumstances, we may share customer information with other carriers or with law enforcement, for example, to prevent and investigate fraud or other unlawful use of communications services.
+TV Terms &. Policies
 
-**5\. FairPoint strives to ensure that the information we obtain and use about customers is accurate.**
+*   Digital TV Terms &. Conditions
+*   Digital TV Subscriber Notification
 
-FairPoint is committed to ensuring that the information we obtain and use about customers is accurate. To that end, we strive to verify that our customer records are correct. Customers who find an error in their FairPoint bills are encouraged to notify FairPoint. FairPoint's service representatives are trained to answer customer questions about, and to give customers reasonable access to, the information we have about them. Our service representatives will also provide explanations of how such information is used and how to correct any inaccuracies if they occur. In addition to reviewing their bills, customers can access their customer information by contacting FairPoint customer service. However, FairPoint will only provide customer information after properly authenticating the identity of the requesting "customer" in accordance with applicable law and industry best practices. In this way, FairPoint can maximize the ability of its customers to review their customer information for accuracy while minimizing the risk that this information falls into the wrong hands. FairPoint service representatives can explain how customers may be authenticated to obtain access to their own customer information.
+TV Terms &. Policies
 
-**6\. All FairPoint employees are responsible for safeguarding individual customer communications and information.**
+Phone and Long Distance Terms &. Policies
 
-FairPoint requires FairPoint personnel to be aware of and protect the privacy of all forms of customer communications as well as individual customer records. FairPoint makes clear that employees who fail to comply with its privacy policies will face disciplinary action, which can include dismissal. All employees are trained regarding their responsibilities to safeguard customer privacy. We strive to ensure that information we have about our customers is accurate, secure and confidential, and to ensure that our employees comply with our privacy policy. We never tamper with, intrude upon or disclose the existence or contents of any communication or transmission, except as required by law or the proper management of our network. Access to databases containing customer information is limited to employees who need it to perform their jobs - and they follow strict guidelines when handling that information. We use safeguards to increase data accuracy and to identify and authenticate the sources of customer information. We use locks and physical security measures, sign-on and password control procedures, and internal auditing techniques to protect against unauthorized use of terminals and entry into our data systems. FairPoint requires that records be safeguarded from loss, theft, unauthorized disclosure, and accidental destruction. In addition, sensitive, confidential, or proprietary records are protected and maintained in a secure environment. It is our policy to destroy records containing sensitive, confidential, or proprietary information in a secure manner. Hard copy confidential, proprietary, or sensitive documents are made unreadable before disposition or recycling, and electronic media must be destroyed using methods that prevent access to information stored in that type of media. Just as employees would report stolen property, missing records and suspicious incidents involving records are referred to FairPoint security. We encourage our employees to be proactive in implementing and enforcing FairPoint's privacy policies. If employees become aware of practices that raise privacy or security concerns, they are required to report them to their supervisors or to contact FairPoint's security or regulatory department. FairPoint's legal and regulatory departments are responsible for ensuring that all FairPoint business units and their employees comply with privacy laws and regulations. FairPoint also requires any consultants, suppliers and contractors that may come into contact with CPNI to observe these privacy rules with respect to any of our customers' individual customer information. They must abide by these principles when conducting work for us, and they will be held accountable for their actions.
+*   Long Distance Terms &. Conditions
+*   Local Number Portability
+*   Fraud Protection
 
-**7\. FairPoint participates in and supports consumer, government and industry efforts to identify and resolve privacy issues.**
+Phone and Long Distance Terms &. Policies
 
-We participate in legislative and regulatory proceedings, industry association efforts, consumer group efforts, and general business group activities relating to telecommunications privacy issues. Our external affairs personnel are responsible for the coordination of FairPoint's public policy participation. We believe that developing international privacy protection and information-use standards is necessary to protect the needs of our customers. FairPoint supports the development of international standards to protect individual customer information and its proper use on a worldwide basis.
+Wholesale/Carrier Services
 
-**8\. FairPoint complies with all applicable privacy laws and regulations wherever FairPoint does business.**
+Terms, policies and notifications for Wholesale and Carrier services.
 
-Customer and policymaker perceptions of privacy have changed over time and will continue to do so. Changes in technology can also alter what is appropriate in protecting privacy. Laws may change accordingly. We regularly examine - and update as necessary -FairPoint's privacy policies and internal procedures to ensure compliance with applicable law and evolving technology. FairPoint also will monitor customer needs and expectations. FairPoint will work with policymakers and consumers to ensure that we continue to safeguard privacy, giving customers choices, flexibility and control. FairPoint considers privacy laws and regulations to be the minimum standards to which we will adhere in protecting privacy. In addition to complying with the law, FairPoint will adhere to its internal privacy policies and procedures wherever we do business.
+Wholesale/Carrier Services
 
-**9\. FairPoint complies only with valid, properly issued, and legally enforceable third-party requests for access to customer information.**
+**Privacy:**
 
-FairPoint may release customer information in response to requests from governmental agencies, including law enforcement and national security agencies, in accordance with federal statutory requirements or pursuant to court order. Before releasing any customer information, FairPoint will ensure that the underlying governmental request satisfies all procedural and substantive legal requirements and is otherwise proper. For example, FairPoint will ensure that any court orders are valid, properly issued, and legally enforceable. Except as required by law or with the approval of the customer, FairPoint will not release any customer information in response to subpoenas or similar requests issued by private parties. Further, FairPoint will be diligent in authenticating the validity of any "governmental" request to ensure that the request actually originates from an authorized government agency.
+Privacy Policy
 
-USE OF CUSTOMER PROPRIETARY NETWORK INFORMATION
+Consolidated does not sell, rent or other-wise disclose your Personally Identifiable Information to any third party, for any reason that is not directly related providing you with products and services except as outlined in this Privacy Policy document.
 
-*   Customers count on FairPoint to respect and protect the privacy of information we obtain in the normal course of providing telecommunications services to our customers. FairPoint is committed to protecting the privacy of all customer information, and in particular the privacy of customer proprietary network information (or CPNI).
+Privacy Policy
 
-**1\. Definition of "Customer Proprietary Network Information."**
+Website Terms of Use
 
-The term "customer proprietary network information" is defined by federal statute to mean: (i) information that relates to the quantity, technical configuration, type, destination, location, and amount of use of a telecommunications service subscribed to by any customer of a telecommunications carrier, and that is made available to the carrier by the customer solely by virtue of the carrier-customer relationship. and (ii) information contained in the bills pertaining to telephone exchange service or telephone toll service received by a customer of a carrier.
+Terms and conditions of use for Consolidated Communications website.
 
-**2\. Use of Customer Proprietary Network Information.**
+Website Terms of Use
 
-Under federal law, you have the right to, and we have the duty to protect, the confidentiality of your CPNI. However, we may use CPNI without your consent, in a manner consistent with applicable law, to: (i) initiate, render, bill, and collect for our services. (ii) market services among the categories of service to which you already subscribe. (iii) provide inside wiring installation, maintenance, and repair services. (iv) provide maintenance and technical support for our services. (v) protect our rights and property, and protect users of our services and other carriers from fraudulent, abusive, or unlawful use of, or subscription to, these services. and (vi) provide any inbound telemarketing, referral, or administrative services for the duration of a customer-initiated call. Further, after providing you with the required notice and opportunity to "opt out," we may use your CPNI, in a manner consistent with applicable law, to market additional communications-related services to you and conduct surveys in order to improve our service offerings. FairPoint will not use your CPNI for purposes other than those described above unless we first obtain your express "opt in" consent. For example, without such consent we will not use CPNI to market services not provided by FairPoint, and will not share your CPNI with third parties (subject to the limitations discussed below).
+**Copyright Policies:**
 
-**3\. Limits on the disclosure of CPNI outside FairPoint**
+Copyright Infringement Policy
 
-*   As a general rule, FairPoint does not use third-party marketers and will not disclose your CPNI to third party contractors without your explicit "opt in" consent. This means that our records of the services you buy and the calls you make generally will remain private if you choose to keep them so, since we will not ordinarily disclose this information to outside parties without your permission. However, we will release customer information without involving you if disclosure is required by law, or necessary to protect the safety of customers, employees or property. For example:
-*   When you dial 911, information about your location may be transmitted automatically to a public safety agency.
-*   Certain information about your long distance calls may be transmitted to your long distance company for billing purposes. We are also required by law to give competitive local exchange carriers access to customer databases for purposes of serving their customers, to exchange credit information with other carriers, and to provide listings (other than certain non-published and non-listed information) to directory publishers.
-*   We will disclose information as necessary to comply with law enforcement statutes, such as to comply with valid, properly issued, and legally-enforceable subpoenas, warrants and court orders.
-*   We may, where permitted by law, share CPNI with third parties where necessary to provide the services to which you subscribe, to protect our rights or property, and to protect users of our services and other carriers from fraudulent, abusive or unlawful use of services.
-*   We may, where permitted by law, provide CPNI to third parties such as credit bureaus, or sell receivables to collection agencies, to obtain payment for FairPoint billed products and services.
+Consolidated is committed to complying with United States copyright law, the Digital Millennium Copyright Act of 1998 (“DMCA”), and related laws, and requires all customers and users of Consolidated’s Internet access services to comply with these laws.
 
-**4\. Authentication to prevent unauthorized access to CPNI.**
+Copyright Infringement Policy
 
-FairPoint is committed to ensuring that only properly authorized individuals are able to access CPNI for legitimate purposes. This includes ensuring that any request by a "customer" to access CPNI is valid and properly authenticated, in accordance with applicable law and industry best practices. In general, our internal policies and procedures are designed to ensure that CPNI is not released to unauthorized individuals.
+Notice to Copyright Owners
 
-Further, if a "customer" calls us to access "call detail records" (which include the number called, the number from which a call was placed, and the time, location, or duration of any call), we will not release those records unless (i) during the call, the customer provides a pre-established password. (ii) the information is sent to the customer's address of record. or (iii) after the call, we call the customer's telephone number of record to provide the requested information. If a "customer" attempts to access CPNI through our website, we will only provide such access if the customer has first established a password and back-up authentication mechanism for the relevant account, in a manner that does not rely on readily-available biographical or account information. If a "customer" attempts to access CPNI by visiting a retail location in person, we will only provide such access if the "customer" presents valid photo identification matching the name of record on the account. (Note that different procedures may apply to certain business customers served by a dedicated account representative where the underlying service agreement addresses CPNI protection and authentication.) We also will notify you at your address of record if anyone changes the access authorization or authentication information associated with your account.
+Consolidated Communications respects the owners of copyright materials and their rights under federal law. As a copyright owner, if you believe that a Consolidated Communications subscriber has used material that infringes an exclusive right you have with respect to such material, you or your authorized agent may file a Notice of Claimed Infringement.
 
-**5\. Notice of unauthorized access to CPNI.**
+Learn More
 
-As a company, we are vigilant in our efforts to protect your CPNI. However, should we become aware that your CPNI has been accessed without proper authority, we will take swift action to fully document and address such unauthorized access and provide appropriate notice. In particular, we will (i) notify law enforcement (including the United States Secret Service and the Federal Bureau of Investigation) within seven business days. and (ii) notify you and any other affected customers within seven business days thereafter, unless earlier notification is necessary to avoid immediate and irreparable harm, or we are instructed by law enforcement personnel to refrain from providing such notice.
+**Consumer Handbook &. Service Guides (For Select Markets):**
 
-****FAIRPOINT'S "DO NOT CALL" LIST****
+Service Guide  
+(For California Customers)
 
-Any FairPoint residential customer can express a preference not to be called by us for marketing purposes, and FairPoint will respect such preference. A customer that does not wish to receive sales calls from FairPoint specifically may ask to be placed on our company-specific "Do Not Call" list. We will note the customer's request immediately, although it may take up to 30 days for the customer's telephone number to be removed from any active lists or sales programs that are currently underway.
+This guide to CCI services contains information on using your new entertainment services — Advanced Digital TV, High-Speed Internet and Phone **for California customers**. Although you’ll find answers to many of your most common questions in this guide, our website is the best resource for learning about your new services.
 
-Any residential customer can ask to be put on our "Do Not Call" list by contacting FairPoint's customer service department. Residential customers living in Maine, New Hampshire or Vermont in the service areas previously served by Verizon prior to the FairPoint merger transaction should call 1.866.984.2001 . All other customers should call 800-400-5568! The requesting customer should provide, at a minimum, the telephone number that is the subject of the request, although inclusion of the customer's name and address is also useful. If a customer is served by multiple telephone numbers, the customer should tell us all numbers that should be placed on the "Do Not Call" list.
+Download Service Guide (PDF)
 
-A residential customer will remain on our "Do Not Call" list for five years, unless the customer asks to be removed from the list by contacting our customer service department. If a customer's telephone number ever changes, the customer must give us updated information in order for the "Do Not Call" status to remain in effect.
+Customer Handbook  
+(For Select Kansas/Missouri Customers)
 
-Notwithstanding the fact that a customer's telephone number is on our "Do Not Call" list, we may still contact that customer with respect to surveys, billing, and other service-related matters. Further, the customer should understand that being on our "Do Not Call" list will not prevent calls from other companies unaffiliated with FairPoint.
+This guide to CCI services contains information on using your new entertainment services — Advanced Digital TV, High-Speed Internet and Phone **for select Kansas and Missouri customers**. Although you’ll find answers to many of your most common questions in this guide, our website is the best resource for learning about your new services.
 
-****FURTHER INFORMATION****
+Download Customer Handbook (PDF)
 
-If you have any questions or comments concerning this Customer Privacy Policy, or if you believe that the Company has not adhered to its privacy policy, please contact FairPoint's customer service department. If you live in Maine, New Hampshire or Vermont and are a customer in the service areas previously served by Verizon prior to the FairPoint merger transaction, you should call 1.866.984.2001 (residential) or 1.866.984.3001 (business). All other customers should call 800-400-5568! Regardless of where you receive service, you may contact FairPoint via e-mail at privacy@fairpoint.com or regular mail at:
+Residential
 
-FairPoint Communications
+*   Internet
+*   TV
+*   Phone
+*   Bundles
+*   Home Security
 
-521 East Morehead Street
+Business
 
-Suite 500
+*   Small Business
+*   Medium &. Enterprise
+*   Industry Solutions
+*   Resources
 
-Charlotte, North Carolina 28202
+Wholesale
 
-Attn: Privacy
+*   Data
+*   Voice
+*   Network Connections
+*   Industry Solutions
+*   Resources
 
-About*   Corporate Profile
-*   Leadership
+About Us
+
 *   Investor Relations
-*   Newsroom
-*   Community Involvement
+*   News
+*   Community Matters
+*   Locations
 *   Careers
-*   Environmental Sustainability
 
-Support*   Pay Your Bill &. Manage Your Account
-*   Contact Us
-*   General FAQs
-*   Site Map
+Residential Support
 
-Legal &. Regulatory*   Privacy Policy
-*   CPNI
-*   Copyright Infringement
-*   Internet Terms &. Conditions of Service
-*   Regulatory Notices
-*   PO Terms &. Conditions
-*   Tariffs, RTCs, Price Lists and Catalogs
-*   Service Agreements
-*   Consumer Disclosures – BIAS
+*   Internet &. Email Support
+*   TV Support
+*   Phone Support
+*   Home Security Support
+*   Refer a Friend
+*   Lifeline &. Assistance Programs
 
-Connect With Us
+Business Support
 
-Terms, conditions, charges and restrictions apply. Speed and uninterrupted service not guaranteed. Not all services available in all areas. Services and pricing subject to change.
+*   Manuals &. User Guides
+*   Web Hosting &. Domain Support
+*   Business Support Portals
+*   Agent Support Center
 
-© 2017 FairPoint Communications, Inc. All rights reserved.
+Account Support
 
-x Where Do You Live?
+*   Check My Email
+*   View or Pay My Bill
+*   Help Understanding My Bill
+*   Check My Internet Speed Eligibility
+*   Seasonal Suspend &. Restore
 
-Please enter your ZIP Code so that we can show you product, offer and customer support information that is relevant to your service location. Don't know your zip code?
+Phone Book
 
-Service and offer eligibility, as well as customer support resources, may differ based on street address in your area. Information shown to you on our site may not apply depending on your exact service location. Please contact us at 1.866.984.2001 so we can provide the most accurate information.
+*   Phone Book Info
+*   Local Search
+*   Yellow Pages Advertising
 
-or Submit Continue to Site x FairPoint Coverage Map
+Site Map Terms &. Policies About Us Contact Us
 
-FairPoint coverage is available in the areas highlighted below. Visit our product pages to check availability and get  
-connected to solutions for your home or business.
+Terms, conditions, charges and restrictions apply. Speed and uninterrupted service not guaranteed. Not all services available in all areas. Services and pricing subject to change. © 2018 Consolidated Communications
 
-× Please upgrade your browser
-
-Some functionality on our website may not work properly in outdated versions of certain browsers. Download one of these browsers, or update your current browser to the latest version, to ensure the best experience on our website.
-
-Google Chrome
-
-version 41.0+
-
-Mozilla Firefox
-
-version 38.0+
-
-Apple Safari
-
-version 7.0+
-
-Internet Explorer
-
-version 9.0+
-
-Microsoft Edge
-
-version 13.0+ Close
-
-Looking for MyFairPoint.net? All of the FairPoint associated links present on MyFairPoint.net have moved to the Residential Support page. From the right side column of the Support page you can access MyFairPoint.com, your FairPoint email account, Premium Internet Support, Online Backup &. Sharing, Security Suite and Games on Demand.
-
-X
+× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1021292141260403&amp;ev=PageView&amp;noscript=1">. <img src="//bat.bing.com/action/0?ti=5438549&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=29997&amp;fmt=gif">. <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=nuoak&amp;p\_id=Twitter&amp;tw\_sale\_amount=0&amp;tw\_order\_quantity=0">. <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn\_id=nuoak&amp;p\_id=Twitter&amp;tw\_sale\_amount=0&amp;tw\_order\_quantity=0">.
