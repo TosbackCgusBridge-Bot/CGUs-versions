@@ -133,7 +133,7 @@ We may share information about you with third parties, as described below, and a
     
 3.  3\.  Other Marketers
     
-    We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers for their products and services. If you don't want this information shared with these merchants and exchanges, please click here, select Nondisclosure of Personal Information Request for the Email Subject and complete the form..
+    We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers for their products and services. If you don't want this information shared with these merchants and exchanges, please click here, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form..
     
 4.  4\.  Law Enforcement and Emergency Response
     
@@ -180,11 +180,11 @@ What choices do you have over how your information is used?
     
 8.  8\.  Other Marketers
     
-    If you don't want your basic contact and purchase information shared with other merchants and exchanges for their direct marketing purposes, please click here, select Nondisclosure of Personal Information Request for the Email Subject and complete the form..
+    If you don't want your basic contact and purchase information shared with other merchants and exchanges for their direct marketing purposes, please click here, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form..
     
 9.  9\.  Our Sister Brands
     
-    If you don't want your contact and purchase information shared with our sister brands for their direct marketing purposes, please click here, select Nondisclosure of Personal Information Request for the Email Subject and complete the form.
+    If you don't want your contact and purchase information shared with our sister brands for their direct marketing purposes, please click here, select “Nondisclosure of Personal Information Request” for the Email Subject and complete the form.
     
 
 Back To Top
