@@ -119,7 +119,7 @@ menu Close 0 Free Shipping on $50+
     
     CATEGORIES
     
-    *   Coats &. Jackets
+    *   Swimwear
     *   Fleece
     *   Dress Shirts
     *   Casual Shirts
@@ -131,7 +131,7 @@ menu Close 0 Free Shipping on $50+
     *   Pants
     *   Jeans
     *   Shorts
-    *   Swimwear
+    *   Coats &. Jackets
     *   Activewear
     *   Pajamas &. Robes
     *   Underwear &. Long Underwear
@@ -490,7 +490,7 @@ menu Close 0 Free Shipping on $50+
         *   Scarves
         *   Gloves
         *   Hats
-    *   Coats &. Jackets
+    *   Swimwear
     *   Fleece
     *   Dress Shirts
     *   Casual Shirts
@@ -502,7 +502,7 @@ menu Close 0 Free Shipping on $50+
     *   Pants
     *   Jeans
     *   Shorts
-    *   Swimwear
+    *   Coats &. Jackets
     *   Activewear
     *   Pajamas &. Robes
     *   Underwear &. Long Underwear
