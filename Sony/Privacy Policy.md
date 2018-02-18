@@ -127,7 +127,7 @@ View Light up the party. on Instagram
 
 Flash Sale! Kick off your weekend at PlayStation Store with savings up to 70%
 
-8 hours ago
+1 day ago
 
 View Tweet
 
@@ -285,7 +285,7 @@ View Monster Hunter PS4 on Instagram
 
 Now #OnView at #SonySquareNYC: The Photo Society featuring the people and cultures of our global community by @natgeo contributing photographers.
 
-14 hours ago
+1 day ago
 
 View Tweet
 
