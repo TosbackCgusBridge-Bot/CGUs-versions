@@ -24,7 +24,7 @@ Close submenu ( Girls ) Girls
 *   Jackets + Vests
 *   Shoes + Accessories
 
-*   Extended Sizes
+*   plus size
 *   Trending
 *   Clearance
 *   Live Love Dream
@@ -34,7 +34,6 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   Sabrina's Picks
-*   #BeMyAero
 *   Denim Guide
 *   Logo Shop
 *   Basic Essentials
@@ -92,7 +91,6 @@ Close submenu ( Featured ) Featured
 *   Logo Shop
 *   Tapout + Aero Active
 *   Back to Basics
-*   #BeMyAero
 *   Tanks + Swim Shop
 *   Online Only
 *   Uniform
@@ -302,7 +300,6 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Sabrina's Picks
-        *   #BeMyAero
         *   Denim Guide
         *   Logo Shop
         *   Basic Essentials
@@ -337,7 +334,7 @@ Menu Find a Store Aeropostale
     *   Jackets + Vests
     *   Shoes + Accessories
     
-    *   Extended Sizes
+    *   plus size
     *   Trending
     *   Clearance
     *   Live Love Dream
@@ -352,7 +349,6 @@ Menu Find a Store Aeropostale
         *   Logo Shop
         *   Tapout + Aero Active
         *   Back to Basics
-        *   #BeMyAero
         *   Tanks + Swim Shop
         *   Online Only
         *   Uniform
