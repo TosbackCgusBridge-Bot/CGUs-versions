@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Dan McLaughlin_: Why There Are No Easy Answers to Stop Mass Shootings
+*   _Kudlow_: Trump Needs a Return to King Dollar
     
-*   _Michael Tomasky_: Florida's Gun Law Sickness
+*   _Victor Davis Hanson_: Who's Really Winning the N. Korea Standoff?
     
-*   _Robert VerBruggen_: Arming Teachers Would Gain Line of Defense vs. Shooters
+*   _Mazzei &. Goldman_: FBI Says It Failed to Act in FL, 'Protocols Were Not Followed'
     
-*   _Harris &. Johnson_: John Kelly's Uphill Battle for Redemption
+*   _Tom Rogan_: Should We Add Armed Guards to Schools?
     
-*   _Lee Smith_: Why the Media Stopped Reporting Russia Collusion Story
+*   _Cass Sunstein_: Nothing in the Constitution Prevents Sensible Gun Rules
     
-*   _Linda Greenhouse_: Will the Supreme Court Become Trump's Enabler?
+*   _Jeff Greenfield_: Why Dems Shouldn't Get Too Confident About November
     
-*   _Matthew Spalding_: Mick Mulvaney, Defender of the Constitution
+*   _Greg Sargent_: Trump and Republicans Will Own the Immigration Disaster
     
-*   _Richard Cordray_: Trump Admin Tries to Undermine CFPB. It Will Fail.
+*   _Red Jahncke_: A Merit-Based Future Beats Our 19th-Century System
     
-*   _Andrew Ferguson_: In Search of Black and White
+*   _Daniel Flynn_: Elizabeth Warren Just Went Native
     
-*   _Vann Newkirk_: The Provocation and Power of Black Panther
+*   _Timothy Egan_: Stuff the Thoughts, Hold the Prayers &. Do Something
     
-*   _Carl Cannon_: Too Often, the Lesson of Tragedy Is Misjudgment
+*   _Brian Tubbs_: After a School Shooting, We Need God and Prayer
     
-*   _Chuck &. Johnson_: 17 Killed in Shooting at High School in Parkland, Florida
+*   _Andrew Rotterham_: The Deadly Status Quo
     
-*   _Byron York_: Why Are the Comey Memos Secret?
+*   _David Ignatius_: How the U.S. Can 'Get to Yes' With Turkey
     
-*   _Nicholas Kristof_: The Trump Stain Spreads
+*   _Erica Goode_: The Things We Know About School Shooters
     
-*   _Steve Cortes_: Mr. President, Let's Message Better on Abuse of Women
+*   _Charles Hurt_: The Lie of 'See Something, Say Something'
     
-*   _Russell Berman_: The Pelosi Dilemma: Will She Step Aside Before Midterms?
+*   _Eugene Robinson_: Real Issue Is Not Mental Health. It's Guns.
     
-*   _Chris Whipple_: Priebus Opens Up About His 6 Months of Magical Thinking
+*   _Jean Card_: Trump's Florida Speech Is Exactly What the Country Needs
     
-*   _Conrad Black_: Why the Country Voted for a Complete Change in 2016
+*   _Richard Wolffe_: Don't Look to Trump for Leadership After Florida Shooting
     
-*   _Conor Friedersdorf_: When Deplorability Is No Longer a Dealbreaker
+*   _Rich Lowry_: Have Democrats Overplayed Their Trump Hand?
     
-*   _Rebekah Mercer_: Forget the Media Caricature. Here's What I Believe
+*   _Michael Cohen_: The Human Cost of Trump's Immigration Policy
     
-*   _Susan Glasser_: Rahm Emanuel Says Trump-Bashing Is Good Politics
+*   _Wax &. Richwine_: Low-Skill Immigration: A Case for Restriction
     
-*   _McLennan &. Manzo_: Dem Wave Coming? Maybe More of a Trickle
+*   _Caitlin Huey-Burns_: Senate Votes Underscore Immigration Litmus Tests
     
-*   _Morton Kondracke_: An Open Letter to Paul Ryan on DACA
+*   _Byron York_: An Unusual Turn in the Michael Flynn Case?
     
-*   _Charles Chaput_: Memory, Sex and the Making of the 'New Man'
+*   _Martin London_: Congress Should Impeach If Trump Refuses to Talk to Mueller
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Meets Florida Shooting Victims, First Responders
+*   FBI Says It Failed to Act on Tip on Florida Suspect
+*   Pelosi: I Would Rather Pass Gun Safety Legislation Than Win the Election
+*   Senate Votes Underscore Immigration Litmus Tests
 *   Democratic Group Warns Party on Midterm Messaging
-*   Republican Women Frustrated by Trump's Approach to Abuse Charges
-*   Student to Brian Williams: Banning Guns Just Creates Higher Demand
-*   North Dakota Candidate Quits Senate Race. Expects Cramer Run
-*   Congress Takes On Immigration Issue Amid Election Pressures
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,12 +268,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
 *   Pennsylvania 18th District Special Election - Saccone vs. LambMonmouth
     *   Saccone49
     *   Lamb46Saccone +3
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
 *   President Trump Job ApprovalFOX News
     *   Approve43
     *   Disapprove53Disapprove +10
@@ -283,11 +283,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Bernstein Praises Mueller &. Rosenstein's "Brilliant Timing, In Terms Of Undercutting The President," "Master Stroke"
+*   Swalwell: Congress, Not Mueller, Will Decide Whether Russians Changed 2016 Election Outcome
+*   Rep. Adam Schiff Expresses "Profound Concern" Special Counsel Mueller's Findings Will Not Be Made Public
 *   Megyn Kelly on School Shootings: "NRA is Too Powerful" And Politicians Are "Too Weak"
-*   CNN's Jim Acosta to Trump on Gun Violence: "Why Does This Keep Happening To America?"
 *   Elizabeth Warren: I Never Used My Native American Ancestry Claim, Family Tree to Advance My Career
-*   Student To Brian Williams: Banning Guns Just Creates A Higher Demand. Won't Prevent School Shootings
-*   GOP Rep. Mullin on Gun Violence: "What Do You Expect" When Call Of Duty Is The #1 Video Game?
 
 *   Politics
 *   Policy
