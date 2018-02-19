@@ -127,7 +127,7 @@ View Light up the party. on Instagram
 
 Flash Sale! Kick off your weekend at PlayStation Store with savings up to 70%
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -195,7 +195,7 @@ The Way You Want
 
 It's only a matter of time. #Timeless returns on March 11 at 10/9c on @NBC.
 
-14 hours ago
+1 day ago
 
 View Tweet
 
@@ -285,7 +285,7 @@ View Monster Hunter PS4 on Instagram
 
 Now #OnView at #SonySquareNYC: The Photo Society featuring the people and cultures of our global community by @natgeo contributing photographers.
 
-1 day ago
+2 days ago
 
 View Tweet
 
