@@ -268,6 +268,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Pennsylvania 18th District Special Election - Saccone vs. LambGravis
+    *   Saccone46
+    *   Lamb40Saccone +6
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove52Disapprove +5
@@ -277,17 +280,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalFOX News
     *   Approve43
     *   Disapprove53Disapprove +10
-*   President Trump Job ApprovalPPP (D)
-    *   Approve44
-    *   Disapprove50Disapprove +6
 
 More Latest Polls In The News
 
+*   Sessions: FISA Abuse in Obama Admin "Will Be Investigated... We're Not Going to Allow That"
+*   President Trump Tweeted How Much He Liked This Interview Of Ken Starr With Maria Bartiromo
+*   CNN's Stelter: President Trump's Latest Tweetstorm Makes Him Appear "Deeply Troubled," "Unhinged"
+*   Limbaugh on Russia Probe: "Obama Is The Primary Person Being Protected Here"
 *   Bernstein Praises Mueller &. Rosenstein's "Brilliant Timing, In Terms Of Undercutting The President," "Master Stroke"
-*   Swalwell: Congress, Not Mueller, Will Decide Whether Russians Changed 2016 Election Outcome
-*   Rep. Adam Schiff Expresses "Profound Concern" Special Counsel Mueller's Findings Will Not Be Made Public
-*   Megyn Kelly on School Shootings: "NRA is Too Powerful" And Politicians Are "Too Weak"
-*   Elizabeth Warren: I Never Used My Native American Ancestry Claim, Family Tree to Advance My Career
 
 *   Politics
 *   Policy
