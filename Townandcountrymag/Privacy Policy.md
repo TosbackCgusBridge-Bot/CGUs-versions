@@ -180,11 +180,11 @@ Last revised on April 1, 2016
 Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
+*   Incredible Art, Centuries-Old Spas, and How to Get the Best Deals at the Grand Bazaar: Istanbul Like You've Never Seen Before.
+*   13 Things You Didn't Know About Lily of the Valley
 *   16 Stolen Paintings That Have Never Been Found
 *   T&C Roadtrip - Manchester, VT
 *   A Report from Augusta National Golf Club
-*   Incredible Art, Centuries-Old Spas, and How to Get the Best Deals at the Grand Bazaar: Istanbul Like You've Never Seen Before.
-*   13 Things You Didn't Know About Lily of the Valley
 *   8 Ways to Sound Like a Pro at Your Next World Cup Party
 
 *   Newsletter
