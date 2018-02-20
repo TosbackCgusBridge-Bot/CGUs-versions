@@ -16,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.451,96ǀ
+*   DAX 12.385,60ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -51,7 +51,6 @@ Anmelden
         *   Unternehmen &. Märkte
         *   Staat &. Soziales
         *   Mittelstand
-        *   Industrie 4.0
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
         *   Immowelt
@@ -92,7 +91,7 @@ Anmelden
         *   Gutenberg
         *   Bestseller
         *   Buchrezensionen
-    *   *   Hörbücher
+    
 *   Video
 *   Netzwelt
     
@@ -725,7 +724,6 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
     *   Reise-Deals
     *   Gutscheine
 *   *   Bücher bestellen
-    *   Hörbücher
     *   Arztsuche
     *   DSL-Vergleich
     *   Ferientermine
