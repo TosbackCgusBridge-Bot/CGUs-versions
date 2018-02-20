@@ -101,53 +101,43 @@
     *   About
     *   Media Kit
 
+*   _Byron York_: A Non-Alarmist Reading of the Russia Indictment
+    
+*   _Thomas Friedman_: Whatever Trump Is Hiding Is Hurting All of Us Now
+    
+*   _Julie Kelly_: The Media's Walk-of-Shame Won't End
+    
+*   _Chris Cillizza_: Donald Trump's Russia Delusion Bubbles Over
+    
+*   _Blake Hounshell_: Why I Have Doubts About Trump Colluding With Moscow
+    
+*   _Robert Barnes_: Can Clinton Campaign Be Indicted for Chris Steele?
+    
+*   _Ryan Goodman_: Message to Trump: Let Mueller Do His Job
+    
+*   _Michael Goodwin_: The FBI's Chilling Failure in Florida
+    
+*   _E.J. Dionne_: On Gun Violence, We Are a Failed State
+    
+*   _David Harsanyi_: Liberal Falsehoods, Misleading Stats and the Gun Debate
+    
+*   _George Skelton_: No One Becomes a Mass Shooter Without Mass-Shooting Gun
+    
+*   _Salena Zito_: Is Faith Still a Virtue in America?
+    
+*   _Al Weaver_: Dems Struggle With Rising Popularity of Tax Law
+    
+*   _Julian Zelizer_: Trump and Republicans Will Be Toxic for a Generation
+    
+*   _Charles Lane_: Government Unions in Trouble. They Have Themselves to Blame.
+    
+*   _Tunku Varadarajan_: The Free-Speech University
+    
+*   _Kluger &. Sifferlin_: The Surprising Secrets to Living Longer--And Better
+    
 *   _Kudlow_: Trump Needs a Return to King Dollar
     
 *   _Victor Davis Hanson_: Who's Really Winning the N. Korea Standoff?
-    
-*   _Mazzei &. Goldman_: FBI Says It Failed to Act in FL, 'Protocols Were Not Followed'
-    
-*   _Tom Rogan_: Should We Add Armed Guards to Schools?
-    
-*   _Cass Sunstein_: Nothing in the Constitution Prevents Sensible Gun Rules
-    
-*   _Jeff Greenfield_: Why Dems Shouldn't Get Too Confident About November
-    
-*   _Greg Sargent_: Trump and Republicans Will Own the Immigration Disaster
-    
-*   _Red Jahncke_: A Merit-Based Future Beats Our 19th-Century System
-    
-*   _Daniel Flynn_: Elizabeth Warren Just Went Native
-    
-*   _Timothy Egan_: Stuff the Thoughts, Hold the Prayers &. Do Something
-    
-*   _Brian Tubbs_: After a School Shooting, We Need God and Prayer
-    
-*   _Andrew Rotterham_: The Deadly Status Quo
-    
-*   _David Ignatius_: How the U.S. Can 'Get to Yes' With Turkey
-    
-*   _Erica Goode_: The Things We Know About School Shooters
-    
-*   _Charles Hurt_: The Lie of 'See Something, Say Something'
-    
-*   _Eugene Robinson_: Real Issue Is Not Mental Health. It's Guns.
-    
-*   _Jean Card_: Trump's Florida Speech Is Exactly What the Country Needs
-    
-*   _Richard Wolffe_: Don't Look to Trump for Leadership After Florida Shooting
-    
-*   _Rich Lowry_: Have Democrats Overplayed Their Trump Hand?
-    
-*   _Michael Cohen_: The Human Cost of Trump's Immigration Policy
-    
-*   _Wax &. Richwine_: Low-Skill Immigration: A Case for Restriction
-    
-*   _Caitlin Huey-Burns_: Senate Votes Underscore Immigration Litmus Tests
-    
-*   _Byron York_: An Unusual Turn in the Michael Flynn Case?
-    
-*   _Martin London_: Congress Should Impeach If Trump Refuses to Talk to Mueller
     
 
 *   Previous
@@ -249,11 +239,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Meets Florida Shooting Victims, First Responders
-*   FBI Says It Failed to Act on Tip on Florida Suspect
-*   Pelosi: I Would Rather Pass Gun Safety Legislation Than Win the Election
+*   Gorsuch Is Deciding Vote in Key Labor Union Funding Case
+*   FBI Miss on Florida School Shooter "Not Acceptable," Trump Says
+*   Sessions: Illegal Leak Against Flynn Being Investigated "Aggressively"
 *   Senate Votes Underscore Immigration Litmus Tests
-*   Democratic Group Warns Party on Midterm Messaging
+*   Trump Meets Florida Shooting Victims, First Responders
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +258,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Pennsylvania 18th District Special Election - Saccone vs. LambGravis
-    *   Saccone46
-    *   Lamb40Saccone +6
+*   President Trump Job ApprovalGallup
+    *   Approve37
+    *   Disapprove59Disapprove +22
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove52Disapprove +5
-*   Pennsylvania 18th District Special Election - Saccone vs. LambMonmouth
-    *   Saccone49
-    *   Lamb46Saccone +3
-*   President Trump Job ApprovalFOX News
-    *   Approve43
-    *   Disapprove53Disapprove +10
+*   Direction of CountryRasmussen Reports
+    *   Right Direction40
+    *   Wrong Track55Wrong Track +15
+*   Texas Governor - Republican PrimaryUT/Texas Tribune
+    *   Abbott95
+    *   Krueger5Abbott +90
 
 More Latest Polls In The News
 
+*   Dem Rep.: Nobody Wants To Take Away Guns, We Want To Be Like Australia, Canada &. Great Britain
 *   Sessions: FISA Abuse in Obama Admin "Will Be Investigated... We're Not Going to Allow That"
 *   President Trump Tweeted How Much He Liked This Interview Of Ken Starr With Maria Bartiromo
 *   CNN's Stelter: President Trump's Latest Tweetstorm Makes Him Appear "Deeply Troubled," "Unhinged"
 *   Limbaugh on Russia Probe: "Obama Is The Primary Person Being Protected Here"
-*   Bernstein Praises Mueller &. Rosenstein's "Brilliant Timing, In Terms Of Undercutting The President," "Master Stroke"
 
 *   Politics
 *   Policy
