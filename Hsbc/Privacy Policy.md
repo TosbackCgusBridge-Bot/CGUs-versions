@@ -11,8 +11,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Our purpose
         
     *   Our strategy
-        *   The value of our network
-        *   Actions to capture value last item in this group
+        *   The value of our network last item in this group
     *   Leadership
         
     *   Corporate governance
@@ -100,7 +99,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Investor contacts
         
     
-    *   Annual Results 2017 HSBC Holdings plc will announce its Annual Results on 20 February.
+    *   Annual Results 2017 HSBC Holdings plc announced its Annual Results on 20 February.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
