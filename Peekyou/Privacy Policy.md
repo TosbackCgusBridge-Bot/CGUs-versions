@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 17%  10% 
+What is PeekScore? Public Records &. Background Checks 18%  11% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 17%  10% 
     
 *   Show Less ...
 
-17%  17%  Arrest Records &. Driving Infractions
+18%  18%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 10% 
+Facebook 11% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 10% 
     
 *   Show Less ...
 
-Twitter 10% 
+Twitter 11% 
 
 *   HIV.gov - HIVGov
     
@@ -259,7 +259,7 @@ Twitter 10% 
     
 *   Show Less ...
 
-Instagram 10% 
+Instagram 11% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -323,7 +323,7 @@ Instagram 10% 
     
 *   Show Less ...
 
-Pinterest 17%  Wikipedia 10% 
+Pinterest 18%  Wikipedia 11% 
 
 *   Wikipedia
     
@@ -338,7 +338,7 @@ Pinterest 17%  Wikipedia 10% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 10% 
+Google+ 11% 
 
 *   Expedia - Google+
     
@@ -364,7 +364,7 @@ Google+ 10% 
     
 *   Show Less ...
 
-Linkedin 17%  Music 10% 
+Linkedin 18%  Music 10% 
 
 *   Pandora
     
