@@ -326,25 +326,25 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-*   SALES HOURS EXTENDED THIS WEEKEND ONLY! Call Center open February 17, 9am,- 6pm EST &. February 18, 12pm - 5pm EST. 1-855-253-6686.
+*   Teachers, college students, and active/retired military save an additional 5%. Shop Now >
 *   LIMITED TIME ONLY- Special financing offer. Learn More >
 *   Don’t forget to add accessories during checkout for additional savings!
 *   25% off Services and Warranties with system purchase. Upgrade in cart!
 *   Teachers, college students, and active/retired military save an additional 5%. Shop Now >
-*   SALES HOURS EXTENDED THIS WEEKEND ONLY! Call Center open February 17, 9am,- 6pm EST &. February 18, 12pm - 5pm EST. 1-855-253-6686.
 *   LIMITED TIME ONLY- Special financing offer. Learn More >
 
 PrevNext Our Biggest Presidents Day Sale Ever!
 
-Save up to 75% on select products. Sale ends on February 20th at 4 AM EST
+Save up to 50% on select products.  
+Sale ends on February 22nd at 4am EST.
 
 Shop Deals >.
 
-Breakthrough Performance
+Water-cooled to perform
 
-Gain real business insights in real-time
+SD650 direct water cooling means maximum performance
 
-ThinkSystem DS4200 >. ThinkSystem DS6200 >.
+Learn more
 
 *   1
 *   2
