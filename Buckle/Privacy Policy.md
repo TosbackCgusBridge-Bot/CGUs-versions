@@ -199,6 +199,14 @@ You’ll Be Crushing On These – Shop New Arrivals
         *   Loose
         *   Shop All
         
+        *   Stretch &. Tech
+        
+        *   No Stretch
+        *   Comfort Stretch
+        *   Performance Stretch
+        *   Superior Stretch
+        *   All Stretch
+        
         *   Kid's Jeans
         
         *   Girl's Jeans
@@ -232,7 +240,6 @@ You’ll Be Crushing On These – Shop New Arrivals
         *   Mellow Yellow
         *   Bright Whites
         *   (Swim) Suit Up
-        *   Shop All
         
         *   Men's Trends
         
@@ -243,7 +250,6 @@ You’ll Be Crushing On These – Shop New Arrivals
         *   Dye Hard
         *   Oakley Eyewear
         *   Salt Life
-        *   Shop All
         
         *   Looks
         
@@ -259,7 +265,6 @@ You’ll Be Crushing On These – Shop New Arrivals
         *   Gifts That Give Back
         *   Buckle Gift Cards
         
-          
           
         Give a Buckle Gift card
 *   Sale
