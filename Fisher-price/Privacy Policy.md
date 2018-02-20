@@ -274,7 +274,7 @@ COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)Cana
 *   Careers
 
 *   Terms &. Conditions
-*   Updated Privacy Statement
+*   Privacy Statement
 
 out of
 
