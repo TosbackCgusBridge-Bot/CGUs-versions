@@ -8,9 +8,8 @@
     *   America's Next Top Model
     *   Black Ink Crew
     *   RuPaul's Drag Race All Stars
-    *   Behind The Ink
-    *   Love &. Hip Hop: The Love Edition
     *   VH1 Beauty Bar
+    *   Behind The Ink
     *   Brunch With TiffanySee all Shows
 *   News
 *   Digital Originals
@@ -19,7 +18,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewRuPaul's Drag Race All StarsBehind The InkLove &. Hip Hop: The Love EditionVH1 Beauty BarBrunch With Tiffanysee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewRuPaul's Drag Race All StarsVH1 Beauty BarBehind The InkBrunch With Tiffanysee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
