@@ -1,4 +1,4 @@
-Effective Date: May 30, 2017.
+Effective Date: February 20th, 2018.
 
 **1\. Overview**
 
@@ -106,6 +106,8 @@ Below are links to the privacy policies of some of our partners and links to adv
 Google's Ad Exchange and The Rubicon Project help deliver ads on Business Insider and its mobile apps. If you want to opt-out of receiving targeted ads from Rubicon, visit this link. Opting out does not mean you will not get ads from Rubicon. it means they will not collect non-personal information about you, nor will they serve ads targeted to your interests. For more information about Rubicon's privacy policy, go to http://www.rubiconproject.com/privacy.
 
 Network Advertising Initiative (NAI) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners' cookie enabled interest based advertising, visit the NAI opt-out section. Opting out does not mean you will not receive advertising on Business Insider. It ensures that you will not recieve customized ads based on cookie based technology from participating providers.
+
+Our properties may feature Nielsen’s proprietary measurement software which will allow you to contribute to market research, like Nielsen’s TV Ratings. To learn more about this information, see http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html. Nielsen’s software may collect your choices with regards to it.  If you want to opt-out of Nielsen’s digital measurement research, please visit http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html#choices.
 
 **11\. Contact Us**
 
