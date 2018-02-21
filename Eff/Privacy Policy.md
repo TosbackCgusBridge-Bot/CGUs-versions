@@ -56,7 +56,7 @@ In general, EFF uses the information provided by you to further its mission, inc
 
 Third-Party Service Providers to EFF
 
-Portions of the eff.org site, including some of our individual action alert webpages, are operated by third-parties, such as grassroots campaign service providers. From time to time, EFF will use third party hosting providers, such as cloud hosting services—for example, when the expected volume of traffic is not scalable. EFF also uses a third-party credit card processor. These service providers may place session cookies on your computer. EFF’s service providers may also log standard technical information, such as the numerical Internet Protocol (IP) address of the computer you are using. the browser software you use and your operating system. the date and time you access our site. and the Internet address of the website from which you linked directly to our site. Our service providers may also store and organize the personal information collected through this site on our behalf.
+Portions of the eff.org site, including some of our individual action alert webpages, are operated by third-parties, such as grassroots campaign service providers. When necessary and appropriate, EFF will use will use third party services such as content delivery networks and cloud hosting providers to handle traffic to our sites. EFF also uses a third-party credit card processor. Where possible, we take steps to limit the ability of third parties to retain data about our users. These service providers may place session cookies on your computer. EFF’s service providers may also log standard technical information, such as the numerical Internet Protocol (IP) address of the computer you are using. the browser software you use and your operating system. the date and time you access our site. and the Internet address of the website from which you linked directly to our site. Our service providers may also store and organize the personal information collected through this site on our behalf.
 
 For all of EFF's service providers, hosting providers and credit card processors and any other providers we may use in the future, the information collected from EFF users remains protected by the terms of our agreements with those providers and we will ensure that the information to be kept confidential and disclosed only to employees who require such access in the course of their assigned duties. EFF also requires all of our third-party service providers to notify EFF if they receive legal process seeking information about visitors to EFF’s website.
 
@@ -90,6 +90,8 @@ EFF employs industry standard security measures to protect the loss, misuse, and
 
 Although we make good faith efforts to store information collected by EFF in a secure operating environment, we cannot guarantee complete security. Information collected by EFF will be maintained for a length of time appropriate to our needs. However, we generally do not retain credit card information unless you choose to have us make automatic monthly withdrawals from your account for your donation.
 
+_Updated February 20, 2018 to clarify how EFF works with third parties like content delivery networks and cloud service providers._
+
 _Updated July 14, 2016 to clarify the use of information in the EFF Action Center and protections for members who join EFF offline._
 
 _Updated_ _April 7, 2015 to reflect: 1) changes to the types of third-party service providers which may be used by EFF websites. 2) that third-party service providers may be used by any EFF site, not just those on the eff.org domain. and 3) to fix some typographical errors._
@@ -116,4 +118,6 @@ Previous Privacy Policies
     
 *   Jun 13, 2014 – Apr 7, 2015
     
-*   Apr 8, 2015 – July 13, 2016
+*   Apr 8, 2015 – Jul 13, 2016
+    
+*   Jul 14, 2016 to Feb 19, 2018
