@@ -101,43 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Byron York_: A Non-Alarmist Reading of the Russia Indictment
+*   _James Bovard_: Silly Russian Ads Didn't Swing Voters. Federal Coverups Did
     
-*   _Thomas Friedman_: Whatever Trump Is Hiding Is Hurting All of Us Now
+*   _Karen Tumulty_: We've Just Hit a New Presidential Low
     
-*   _Julie Kelly_: The Media's Walk-of-Shame Won't End
+*   _Byron York_: Devin Nunes' 10 Questions About Trump Dossier
     
-*   _Chris Cillizza_: Donald Trump's Russia Delusion Bubbles Over
+*   _Emily Witt_: How Parkland Survivors Began the Never Again Movement
     
-*   _Blake Hounshell_: Why I Have Doubts About Trump Colluding With Moscow
+*   _Nicholas Waddy_: Dems Need a Dose of Reality on Illegal Immigration
     
-*   _Robert Barnes_: Can Clinton Campaign Be Indicted for Chris Steele?
+*   _Richard North Patterson_: Trump's Destructive Plan to Stop Immigration
     
-*   _Ryan Goodman_: Message to Trump: Let Mueller Do His Job
+*   _Henry Olsen_: Trump, Twitter, and the GOP's Improving Poll Numbers
     
-*   _Michael Goodwin_: The FBI's Chilling Failure in Florida
+*   _Matthew Walther_: Our First Porno President
     
-*   _E.J. Dionne_: On Gun Violence, We Are a Failed State
+*   _Darel Paul_: Diversity: A Managerial Ideology
     
-*   _David Harsanyi_: Liberal Falsehoods, Misleading Stats and the Gun Debate
+*   _Carl Cannon_: Breaking Through Barriers: Glenn, Lincoln &. Douglass
     
-*   _George Skelton_: No One Becomes a Mass Shooter Without Mass-Shooting Gun
+*   _Bronner & Dlouhy_: As Saudis Go Nuclear, U.S. Seeks Edge Over Rivals
     
-*   _Salena Zito_: Is Faith Still a Virtue in America?
+*   _Albert Hunt_: Republican Candidates Face a Dilemma on Trump
     
-*   _Al Weaver_: Dems Struggle With Rising Popularity of Tax Law
+*   _William McGurn_: For Dems, It's Impeachment or Bust!
     
-*   _Julian Zelizer_: Trump and Republicans Will Be Toxic for a Generation
+*   _Walter Shapiro_: If Trump Has Nothing to Hide, Why's He So Soft on Russia?
     
-*   _Charles Lane_: Government Unions in Trouble. They Have Themselves to Blame.
+*   _Wesley Pruden_: Mueller Gets His Ham Sandwich, Doesn't Lay a Glove on Trump
     
-*   _Tunku Varadarajan_: The Free-Speech University
+*   _Bill Scher_: Bust NRA's Narrative That Guns Are Central to Freedom &. Safety
     
-*   _Kluger &. Sifferlin_: The Surprising Secrets to Living Longer--And Better
+*   _John Davidson_: Is the Second Amendment Worth Dying For?
     
-*   _Kudlow_: Trump Needs a Return to King Dollar
+*   _James Arkin_: Democrats Push for Gun Control as Campaign Issue
     
-*   _Victor Davis Hanson_: Who's Really Winning the N. Korea Standoff?
+*   _Stephen Collinson_: Trump Is Helping to Undermine American Democracy
+    
+*   _Daniel Flynn_: Why Didn't Mueller Indict Hillary &. the Dems?
+    
+*   _David Willman_: Weissman Known For Being Tough &. Sometimes Going Too Far
+    
+*   _Sean Trende_: How Much Will Redrawn PA Map Affect Midterms?
+    
+*   _Gideon Resnick_: America Just Got a Lot Closer to Speaker Pelosi
+    
+*   _Salena Zito_: The Most Important Man in Politics - For the Moment
     
 
 *   Previous
@@ -239,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   How Much Will Redrawn Pa. Map Affect the Midterms?
+*   Democrats Push for Gun Control as Campaign Issue
+*   Bevan: FBI Dropped the Ball--and Not Just in Florida
 *   Gorsuch Is Deciding Vote in Key Labor Union Funding Case
-*   FBI Miss on Florida School Shooter "Not Acceptable," Trump Says
-*   Sessions: Illegal Leak Against Flynn Being Investigated "Aggressively"
 *   Senate Votes Underscore Immigration Litmus Tests
-*   Trump Meets Florida Shooting Victims, First Responders
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -258,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove59Disapprove +22
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
-*   Direction of CountryRasmussen Reports
-    *   Right Direction40
-    *   Wrong Track55Wrong Track +15
-*   Texas Governor - Republican PrimaryUT/Texas Tribune
-    *   Abbott95
-    *   Krueger5Abbott +90
+    *   Approve46
+    *   Disapprove53Disapprove +7
+*   2018 Generic Congressional VoteQuinnipiac
+    *   Democrats53
+    *   Republicans38Democrats +15
+*   Florida Senate - Scott vs. NelsonGravis
+    *   Nelson44
+    *   Scott40Nelson +4
+*   Utah Senate - Romney vs. WilsonUtahPolicy/Dan Jones\*
+    *   Romney60
+    *   Wilson14Romney +46
 
 More Latest Polls In The News
 
+*   Piers Morgan: "Zero Evidence" Trump Colluded With Russia. Obama's "Job" To Deal With Meddling Under His Watch
+*   FNC's Roberts vs. Huckabee: Any Ideas From Trump To Stop Deranged Individuals From Getting Guns?
+*   New Yorker's Adrian Chen: Russia Social Media Marketing Bot Campaign Wasn't Effective
+*   Andrea Mitchell on Obama Comments: "False Flag" To Tell Americans Their Votes Weren't Going To Count
 *   Dem Rep.: Nobody Wants To Take Away Guns, We Want To Be Like Australia, Canada &. Great Britain
-*   Sessions: FISA Abuse in Obama Admin "Will Be Investigated... We're Not Going to Allow That"
-*   President Trump Tweeted How Much He Liked This Interview Of Ken Starr With Maria Bartiromo
-*   CNN's Stelter: President Trump's Latest Tweetstorm Makes Him Appear "Deeply Troubled," "Unhinged"
-*   Limbaugh on Russia Probe: "Obama Is The Primary Person Being Protected Here"
 
 *   Politics
 *   Policy
@@ -302,4 +312,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2017 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2018 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
