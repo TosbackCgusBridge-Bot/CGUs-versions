@@ -268,7 +268,7 @@ Menu Close Menu Close
     *   Home Laptop Deals
     *   ThinkPad Deals
     *   Desktop Deals
-    *   Tablet Deals
+    *   Tablets/AR/VR
     *   Monitor Deals
     *   Accessory Deals
     *   Clearance
@@ -335,7 +335,7 @@ Home >. Filter by specs Offers
 
 PrevNext Our Biggest Presidents Day Sale Ever!
 
-Save up to 50% on select products.  
+Save up to 75% on select products.  
 Sale ends on February 22nd at 4am EST.
 
 Shop Deals >.
