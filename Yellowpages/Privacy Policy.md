@@ -10,83 +10,7 @@
 
 *   About AT&T
 *   About Us
-    *   Company Profile
-        
-        *   **Key Corporate Facts**
-            *   Company Overview
-            *   Corporate Awards
-            *   By The Numbers
-            *   Media Resources
-            *   Media Contacts
-        *   **Leadership Profiles**
-            *   AT&T Senior Executives
-            *   AT&T Directors
-        *   **In the Community**
-            *   Community Impact
-            *   Making Ourselves Culturally Relevant
-            *   Commitment to Supplier Diversity
-            *   Disability Services Promise
-            *   More
-        *   **In Our Company**
-            *   Diversity &. Inclusion
-            *   AT&T Women Leaders
-            *   We are AT&T
-    *   Your Inside Connections Blog
-    *   Innovation Blog
-    *   Policy Blog
-    *   It Can Wait
-    *   Careers
-        
-        *   **Careers With Us**
-            *   Search and Apply for Jobs
-            *   Job Leads on the go @ATTJobs
-        *   **Learn About Us**
-            *   Our People
-            *   Corporate Profile
-            *   Our Diversity Commitment
-            *   Investing in our People
-    *   Diversity
-    *   News Archives
-    *   Brand Assets
-*   Business
-    *   Business Insights
-    *   Enterprise Solutions
-    *   Small Business Solutions
-    *   Internet of Things
-    *   Public Safety
-*   Entertainment
-    *   Mobility
-    *   TV/Video
-    *   Internet
-    *   For Business
-    *   Awards/Recognition
-    *   Sponsorships
-    *   Blog
-*   Innovation
-    *   Blog
-    *   Foundry
-    *   Labs
-    *   Network
-    *   Intellectual Property
-    *   The Innovation Pipeline
-*   International
-    *   International Services for Consumers
-    *   International Solutions for Business
-    *   Mexico
-    *   AT&T en Español
-    *   AT&T Asian World Website
-*   Citizenship &. Sustainability
-    *   Home
-    *   People
-    *   Planet
-    *   Possibilities
-    *   Education Initiatives
-    *   Responsible Use of Technology
-    *   Sustainability Reporting
-    *   Diversity
-    *   Blog
-    *   2025 Goals
-    *   Site Map
+    *   AT&T Corporate Profile
 *   Investors
     *   Investor Profile
     *   News &. Events
@@ -95,8 +19,34 @@
     *   Stockholder Services
     *   Corporate Governance
     *   Resources
+*   AT&T  
+    Communications
+    *   AT&T Communications Profile
+    *   Consumer
+    *   Business
+    *   Technology &. Innovation
+    *   Social Responsibility
+    *   Careers
+    *   AT&T En Español
+    *   AT&T World
+*   AT&T  
+    International
+    *   AT&T International Profile
+    *   Mexico
+    *   Latin America &. Caribbean
+*   AT&T  
+    advertising &. analytics
+    
+*   Social Responsibility
+    *   AT&T Communications
+    *   It Can Wait
+    *   Aspire
+    *   AT&T Mexico
+    *   DIRECTV Latin America &. Caribbean
+    *   Sustainability Reporting
+*   Careers
+    
 *   More from AT&T
-*   SearchGo
 *   X
 
 About AT&T AT&T Privacy Policy  
@@ -290,17 +240,13 @@ For help on what to do, visit att.com/stolenphone.
 
 Connect with us
 
-*   Legal Policy Center
 *   Privacy Policy
 *   Terms of Use
-*   Broadband Information
-*   Advertising Choices
 *   Accessibility
 *   Contact Us
-*   Site Map
 
 © 2018 AT&T Intellectual Property. All rights reserved.
 
-Legal Policy Center Privacy Policy Terms of Use Broadband Information Advertising Choices Accessibility Contact Us Site Map
+Privacy Policy Terms of Use Accessibility Contact Us
 
 © 2018 AT&T Intellectual Property. All rights reserved.
