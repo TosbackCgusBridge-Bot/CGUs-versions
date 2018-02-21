@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms In a warming Arctic, rising ship traffic demands better sea ice forecasts AROUND NOAA // Those scented products you love? NOAA study finds they can cause air pollution Q&A: ​How can we prevent ​​right whale​s from becoming entangled in fishing gear? North Atlantic right whales: Please stay 500 yards away. See why.
+Enter Search Terms January was 5th warmest on record for the globe Arctic and Antarctic sea ice coverage remain at record, near-record lows AROUND NOAA // In a warming Arctic, rising ship traffic demands better sea ice forecasts Those scented products you love? NOAA study finds they can cause air pollution Q&A: ​How can we prevent ​​right whale​s from becoming entangled in fishing gear?
 
 *   About our agency
 *   News and features
