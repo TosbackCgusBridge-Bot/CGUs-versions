@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 18%  11% 
+What is PeekScore? Public Records &. Background Checks 13%  9% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 18%  11% 
     
 *   Show Less ...
 
-18%  18%  Arrest Records &. Driving Infractions
+13%  13%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 11% 
+Facebook 8% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 11% 
     
 *   Show Less ...
 
-Twitter 11% 
+Twitter 8% 
 
 *   HIV.gov - HIVGov
     
@@ -259,7 +259,7 @@ Twitter 11% 
     
 *   Show Less ...
 
-Instagram 11% 
+Instagram 8% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -323,7 +323,7 @@ Instagram 11% 
     
 *   Show Less ...
 
-Pinterest 18%  Wikipedia 11% 
+Pinterest 12%  Wikipedia 8% 
 
 *   Wikipedia
     
@@ -338,7 +338,7 @@ Pinterest 18%  Wikipedia 11% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 11% 
+Google+ 8% 
 
 *   Expedia - Google+
     
@@ -364,7 +364,7 @@ Google+ 11% 
     
 *   Show Less ...
 
-Linkedin 18%  Music 10% 
+Linkedin 12%  Music 8% 
 
 *   Pandora
     
@@ -410,7 +410,7 @@ Linkedin 18%  Music 10% 
     
 *   Show Less ...
 
-Photo Albums 10% 
+Photo Albums 8% 
 
 *   Flickriver
     
@@ -425,7 +425,7 @@ Photo Albums 10% 
     Flickr Hive Mind is a data mining tool for the Flickr database of photography. Flickr Hive Mind is a search engine as well as an experiment in the power of Folksonomies
     
 
-Myspace 10% 
+Myspace 8% 
 
 *   Privacy Policy - 49086242
     
@@ -449,7 +449,7 @@ Myspace 10% 
     
 *   Show Less ...
 
-Documents 10% 
+Documents 8% 
 
 *   Privacy Policy - Google
     
@@ -493,7 +493,7 @@ Documents 10% 
     
 *   Show Less ...
 
-Web Search 10% 
+Web Search 8% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -539,7 +539,7 @@ Web Search 10% 
     
 *   Show Less ...
 
-Images 10% 
+Images 8% 
 
 9
 
