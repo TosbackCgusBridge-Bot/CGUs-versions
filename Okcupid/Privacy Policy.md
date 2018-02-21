@@ -1,4 +1,4 @@
-<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/829392633/?guid=ON&amp;script=0"/>. </div>. OkCupid Join the best free dating site on Earth. Sign in Sign up Privacy Policy
+OkCupid Join the best free dating site on Earth. Sign in Sign up Privacy Policy
 
 Last revised December 15th, 2016.
 
@@ -199,7 +199,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Chicago Dating
+*   Philadelphia Dating
 *   Privacy Policy
 *   Terms and Conditions
 *   Dating Safety Tips
