@@ -81,7 +81,7 @@ General Assistance   
 *   YouTube
 
 Copyright © 2018 State of California  
-    ×
+    x
 
   
 ×
