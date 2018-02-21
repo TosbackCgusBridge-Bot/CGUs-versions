@@ -41,7 +41,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   #MLBmemorybank
     *   Stadium
     *   Podcasts
-    *   Alternative Audio
+    *   Buy MLB.TV
     *   Most Popular
     
     Featured
@@ -99,10 +99,10 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   Apps Apps Apps
     *   At Bat app
     *   MLB.com Ballpark app
+    *   MLB Franchise MVP
     *   MLB Home Run Derby
     *   MLB Line Drive
     *   R.B.I. Baseball 18
-    *   MLB Franchise MVP
     *   FAQ
 *   Shop Shop Shop
     
@@ -132,12 +132,12 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Jerseys
     *   PhotosMLB Auctions Shop
 *   MLB.TV MLB.TV MLB.TV
+    *   Buy MLB.TV
     *   Watch MLB.TV
-    *   Alternative Audio
+    *   Buy Gameday Audio
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
     *   MLB.TV Help Center/FAQs
-    *   MLB.TV Support Forum
     *   MLB.TV Blackouts
     *   Contact Us
 *   Auction
