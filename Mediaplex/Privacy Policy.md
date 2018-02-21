@@ -53,9 +53,9 @@
     *   Integrations
     *   Join Us
 
-HAVE COMPELLING  
-CONVERSATIONS THAT  
-LAST A LIFETIME Watch Our Story
+THE PROMISE OF  
+1:1 DIGITAL MARKETING  
+BOLDLY DELIVERED Watch Our Story
 
 *   200M+ Real People You Can  
     Message Right Now
@@ -166,4 +166,4 @@ Let's Connect!
 *   Site Map
 *   Login
 
-© 2017  Conversant LLC. All rights reserved.
+© 2018  Conversant LLC. All rights reserved.
