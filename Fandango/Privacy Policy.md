@@ -70,9 +70,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: Ron Howard Confirms Jon Favreau in 'Solo: A Star Wars Story' Read More
-    *   Movie News: Arnold Schwarzenegger Joins Michael Fassbender in 'Kung Fury' Read More
-    *   See 'Get Out' For Free in Theaters this Presidents' Day Read More
+    *   Movie News: Jordan Peele's Now Writing Next Film, Will Direct Later This Year Read More
+    *   Jessica Chastain Now in Talks to Star in 'It: Chapter Two' Read More
+    *   Every Record Broken by 'Black Panther' Read More
     
     Explore Content
     *   Movie Reviews
