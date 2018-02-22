@@ -211,7 +211,7 @@ CUSTOMER SERVICE
 *   Terms &. Conditions
 *   Terms of Sale
 *   Recalls
-*   Updated Privacy Statement
+*   Privacy Statement
 *   AdChoices
 *   Replacement parts
 *   Submit Product Ideas
