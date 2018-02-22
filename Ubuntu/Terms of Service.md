@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical announces Ubuntu Core across Rigado’s IoT gateways ›
 *   LXD Weekly Status #35 ›
 *   Snapcraft through the eyes of its biggest community contributor ›
 *   Storage Made Easy adds Charm to Canonical’s Juju ecosystem ›
 *   LXD weekly status #34 ›
-*   Ubuntu Server development summary – 13 February 2018 ›
