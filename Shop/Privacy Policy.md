@@ -268,7 +268,7 @@ Menu Close Menu Close
     *   Home Laptop Deals
     *   ThinkPad Deals
     *   Desktop Deals
-    *   Tablets/AR/VR
+    *   Tablets/AR/VR Deals
     *   Monitor Deals
     *   Accessory Deals
     *   Clearance
@@ -326,62 +326,57 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-*   Teachers, college students, and active/retired military save an additional 5%. Shop Now >
-*   LIMITED TIME ONLY- Special financing offer. Learn More >
-*   Don’t forget to add accessories during checkout for additional savings!
-*   25% off Services and Warranties with system purchase. Upgrade in cart!
-*   Teachers, college students, and active/retired military save an additional 5%. Shop Now >
-*   LIMITED TIME ONLY- Special financing offer. Learn More >
-
-PrevNext Our Biggest Presidents Day Sale Ever!
-
-Save up to 75% on select products.  
-Sale ends on February 22nd at 4am EST.
-
-Shop Deals >.
-
-Water-cooled to perform
-
-SD650 direct water cooling means maximum performance
+Built to perform. Engineered to endure.
 
 Learn more
 
+Durable Vibrant Corning® Gorilla® Glass Covers
+
+CHOOSE HOW YOU’LL ROCK THE RUNWAY >>.
+
+Water-cooled to perform
+
+Gain real business insights in real-time
+
+ThinkSystem DS4200 >.
+
 *   1
 *   2
+*   3
 
 TODAY'S SALES
 
 Great deals on select products.
 
-All New Lenovo Pro Store
+Lenovo Small Busines
 
-Let Lenovo be your small business partner with an all new Pro Portal.
+Explore how Lenovo can be your small business partner.
 
-New ThinkPad E580
+FLEX 5 (15")
 
-Customize your 15-in laptop. Available in Black or Silver.
+Pen-point sensitive touch screen and durable 360 degree hinge.
 
-Yoga Tab 3 Pro
+TAB 4 10 PLUS ADDS IT ALL
 
-Say goodbye to your TV and hello to the ultimate entertainment tablet.
+Super sound. Separate user accounts. And simply dazzling visuals.
 
 EXPLORE AUGMENTED AND VIRTUAL REALITY
 
-Laptops Deals
+LAPTOPS
 
-Biggest savings of the year on new and top-selling laptops! Ends Feb. 22.
+High-performance laptops and convertibles for home, work, and play.
 
-Desktops Deals
+DESKTOPS
 
-Pick up a new desktop worthy of the Executive Office. Limited quantities. ends Feb. 22.
+Sleek all-in-ones, high-performance towers, and space-saving tiny desktops for home and business.
 
-Monitors &. Accessories Deals
+TABLETS
 
-Monitors ,docks, keyboards, mice, and more at Presidential prices through Feb. 22.
+Android and Windows tablets engineered for enhanced productivity and a rich multimedia experience.
 
-Tablet Deals
+ACCESSORIES
 
-Our tablets are more than just toys. Now on sale for President's Day until Feb. 22!
+From monitors to docks, keyboards to mice, graphics to software, and everything in between.
 
 Virtual Reality &. Smart Devices
 
