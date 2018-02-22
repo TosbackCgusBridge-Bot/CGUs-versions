@@ -30,7 +30,7 @@
     29/41 est MPG4 Build Specials
 *   $37,900 as shown1 2018 Avalon $33,500 starting1  
     21/30 est MPG3 Build Specials
-*   $26,255 as shown1 2018 86 $26,255 starting1  
+*   $28,385 as shown1 2018 86 $26,255 starting1  
     21/28 est MPG3 Build Specials
 *   $42,205 as shown1 2018 Sienna $30,750 starting1  
     19/27 est MPG13 Build Specials
@@ -102,7 +102,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 28/36 est MPG3 $19,985 as shown1 2018 Corolla iM $18,850 starting1  
 27/35 est MPG3 $35,345 as shown1 2018 Camry $23,495 starting1  
 29/41 est MPG4 $37,900 as shown1 2018 Avalon $33,500 starting1  
-21/30 est MPG3 $26,255 as shown1 2018 86 $26,255 starting1  
+21/30 est MPG3 $28,385 as shown1 2018 86 $26,255 starting1  
 21/28 est MPG3 $42,205 as shown1 2018 Sienna $30,750 starting1  
 19/27 est MPG13 Trucks $36,115 as shown1 2018 Tacoma $25,200 starting1  
 18/22 est MPG3 $45,300 as shown1 2018 Tundra $31,120 starting1  
@@ -1120,13 +1120,15 @@ Helpful Links
 *   Toyota Financial Services
 *   Toyota Rent A Car
 *   Toyota Rent A Car
-*   Mobile Phone Compatibility
 *   Toyota Mobility Feature
 *   Entune™
-*   Toyota Safety Sense
+*   Mobile Phone Compatibility
+*   Safety Connect®
+*   Toyota Safety Sense™
 *   Car Tips &. Advice
 *   Car Tips &. Advice
 *   Dealers
+*   Toyota Fleet
 *   Safety Recalls &  
     Service Campaigns
 
