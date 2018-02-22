@@ -177,7 +177,9 @@ Last revised on April 1, 2016
 
 Last revised on April 1, 2016
 
-Advertisement - Continue Reading Below Share Tweet Email
+Watch Next
+
+Advertisement - Continue Reading Below More From About Advertise Online Terms of Use Why did I get this ad? Share Tweet Email
 
 *   About
 *   16 Stolen Paintings That Have Never Been Found
