@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Those scented products you love? NOAA study finds they can cause air pollution Satellites NOAA satellites aid in the rescue of 275 lives in 2017 National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Launching soon: 5 reasons GOES-S will be a game-changer for weather forecasts Research Those scented products you love? NOAA study finds they can cause air pollution National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms January was 5th warmest on record for the globe Arctic and Antarctic sea ice coverage remain at record, near-record lows AROUND NOAA // In a warming Arctic, rising ship traffic demands better sea ice forecasts Those scented products you love? NOAA study finds they can cause air pollution Q&A: ​How can we prevent ​​right whale​s from becoming entangled in fishing gear?
+Enter Search Terms January was 5th warmest on record for the globe Arctic and Antarctic sea ice coverage remain at record, near-record lows AROUND NOAA // Launching soon: 5 reasons GOES-S will be a game-changer for weather forecasts In a warming Arctic, rising ship traffic demands better sea ice forecasts Those scented products you love? NOAA study finds they can cause air pollution
 
 *   About our agency
 *   News and features
