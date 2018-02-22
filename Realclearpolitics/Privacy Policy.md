@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _James Bovard_: Silly Russian Ads Didn't Swing Voters. Federal Coverups Did
+*   _David Harsanyi_: On Russia, Democrats Try to Rewrite History
     
-*   _Karen Tumulty_: We've Just Hit a New Presidential Low
+*   _Mike Barnicle_: We Have a President Who Won't Defend Our Nation
     
-*   _Byron York_: Devin Nunes' 10 Questions About Trump Dossier
+*   _Zalmay Khalilzad_: Trump's Realist Strategy a Shift From Obama, Bush
     
-*   _Emily Witt_: How Parkland Survivors Began the Never Again Movement
+*   _Julian Zelizer_: Gun Control Is Not Impossible
     
-*   _Nicholas Waddy_: Dems Need a Dose of Reality on Illegal Immigration
+*   _Michael Graham_: The Real Reason Liberals Lose Against the NRA
     
-*   _Richard North Patterson_: Trump's Destructive Plan to Stop Immigration
+*   _Catherine Rampell_: Don't Blame 'Washington,' Blame Republicans
     
-*   _Henry Olsen_: Trump, Twitter, and the GOP's Improving Poll Numbers
+*   _James Varney_: School-Choice Foes Called In Feds &. Called the Shots
     
-*   _Matthew Walther_: Our First Porno President
+*   _Eisen &. Bassetti_: Why Trump Can't Block the Democratic Memo on Russia
     
-*   _Darel Paul_: Diversity: A Managerial Ideology
+*   _Tom Fitton_: What Is the FBI Hiding in Its War to Protect Comey?
     
-*   _Carl Cannon_: Breaking Through Barriers: Glenn, Lincoln &. Douglass
+*   _Cal Thomas_: The Billy Graham I Knew
     
-*   _Bronner & Dlouhy_: As Saudis Go Nuclear, U.S. Seeks Edge Over Rivals
+*   _Erin Bauer_: Chicago Shows Good People Far Outnumber the Bad
     
-*   _Albert Hunt_: Republican Candidates Face a Dilemma on Trump
+*   _Amy Barnhorst_: The Mental Health System Can't Stop Mass Shooters
     
-*   _William McGurn_: For Dems, It's Impeachment or Bust!
+*   _Steve Cortes_: We Guard Office Buildings &. Casinos--What About Our Children?
     
-*   _Walter Shapiro_: If Trump Has Nothing to Hide, Why's He So Soft on Russia?
+*   _James LaPorta_: In Parkland, Kids Are Already Changing Things on Guns
     
-*   _Wesley Pruden_: Mueller Gets His Ham Sandwich, Doesn't Lay a Glove on Trump
+*   _Augustus Howard_: The Churchillian Mr. Trump
     
-*   _Bill Scher_: Bust NRA's Narrative That Guns Are Central to Freedom &. Safety
+*   _David Von Drehle_: For an Innocent Man, Trump Sure Does Act Guilty
     
-*   _John Davidson_: Is the Second Amendment Worth Dying For?
+*   _Roger Simon_: Media, Russian Trolls Are Destroying the Democratic Party
     
-*   _James Arkin_: Democrats Push for Gun Control as Campaign Issue
+*   _Eric Holder_: Can the Trump Administration Rig the Census?
     
-*   _Stephen Collinson_: Trump Is Helping to Undermine American Democracy
+*   _Josh Kraushaar_: The Problem With Pennsylvania's New Map
     
-*   _Daniel Flynn_: Why Didn't Mueller Indict Hillary &. the Dems?
+*   _Albert Hunt_: Pennsylvania Is Now the Key to a Democratic House
     
-*   _David Willman_: Weissman Known For Being Tough &. Sometimes Going Too Far
+*   _Victor Davis Hanson_: Understanding the California Mind
     
-*   _Sean Trende_: How Much Will Redrawn PA Map Affect Midterms?
+*   _Farr &. Timmons_: Manufacturers to American Workers: We're Hiring
     
-*   _Gideon Resnick_: America Just Got a Lot Closer to Speaker Pelosi
+*   _Charles Duhigg_: The Case Against Google
     
-*   _Salena Zito_: The Most Important Man in Politics - For the Moment
+*   _Sean Davis_: Fusion GPS's New Dossier Client: An Ex-Feinstein Staffer?
     
 
 *   Previous
@@ -250,10 +250,10 @@ RecommendedPolitics
 *   Investigations
 
 *   How Much Will Redrawn Pa. Map Affect the Midterms?
+*   Trump Orders "Bump Stock" Ban in Wake of Mass Shootings
+*   Gergen: Threat of "Authoritarian Rule" Is Growing Under Trump
 *   Democrats Push for Gun Control as Campaign Issue
-*   Bevan: FBI Dropped the Ball--and Not Just in Florida
 *   Gorsuch Is Deciding Vote in Key Labor Union Funding Case
-*   Senate Votes Underscore Immigration Litmus Tests
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalHarvard-Harris
+    *   Approve45
+    *   Disapprove55Disapprove +10
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve37
+    *   Disapprove58Disapprove +21
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
-*   2018 Generic Congressional VoteQuinnipiac
-    *   Democrats53
-    *   Republicans38Democrats +15
-*   Florida Senate - Scott vs. NelsonGravis
-    *   Nelson44
-    *   Scott40Nelson +4
-*   Utah Senate - Romney vs. WilsonUtahPolicy/Dan Jones\*
-    *   Romney60
-    *   Wilson14Romney +46
+    *   Approve48
+    *   Disapprove51Disapprove +3
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve44
+    *   Disapprove51Disapprove +7
 
 More Latest Polls In The News
 
+*   FL Shooting Survivor Emma Gonzalez vs. NRA's Dana Loesch: We Will Support Your Kids While You Will Not
+*   Father Whose Daughter Died In Parkland Shooting Confronts Marco Rubio On Assault Weapons Ban
+*   Father of Parkland Victim: "9/11 Happened Once And They Fixed Everything," How Many Schools?
+*   CNN Reporter Confronts Trump Supporter: Your Pro-Trump Group Was Infiltrated By Russians
 *   Piers Morgan: "Zero Evidence" Trump Colluded With Russia. Obama's "Job" To Deal With Meddling Under His Watch
-*   FNC's Roberts vs. Huckabee: Any Ideas From Trump To Stop Deranged Individuals From Getting Guns?
-*   New Yorker's Adrian Chen: Russia Social Media Marketing Bot Campaign Wasn't Effective
-*   Andrea Mitchell on Obama Comments: "False Flag" To Tell Americans Their Votes Weren't Going To Count
-*   Dem Rep.: Nobody Wants To Take Away Guns, We Want To Be Like Australia, Canada &. Great Britain
 
 *   Politics
 *   Policy
