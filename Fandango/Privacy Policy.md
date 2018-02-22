@@ -70,8 +70,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: Jordan Peele's Now Writing Next Film, Will Direct Later This Year Read More
-    *   Jessica Chastain Now in Talks to Star in 'It: Chapter Two' Read More
+    *   Movie News: 'A Wrinkle in Time' Soundtrack Surprises Revealed Read More
+    *   Danny Boyle Is the Top Choice to Direct James Bond 25 Read More
     *   Every Record Broken by 'Black Panther' Read More
     
     Explore Content
