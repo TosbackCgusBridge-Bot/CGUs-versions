@@ -233,8 +233,8 @@ View more results
     Recommended Games
     
     *   Call Of War: Multiplayer Army Game
+    *   Duelyst
     *   Star Stable
-    *   Animal Jam
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
