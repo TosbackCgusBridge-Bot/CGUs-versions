@@ -127,7 +127,7 @@ With the SRS-XB40 Speaker
 
 We’re excited to announce that you can now spin 3D objects in your @Facebook feed –available with #Xperia XZ1, Xperia XZ1 Compact and Xperia XZ Premium.
 
-19 hours ago
+1 day ago
 
 View Tweet
 
@@ -197,7 +197,7 @@ Check Out the PG-2
 
 Explore, scavenge, and fight together to get back home. Metal Gear Survive is out now on #PS4.
 
-20 hours ago
+1 day ago
 
 View Tweet
 
@@ -283,7 +283,7 @@ Play “The Tick” Returns to Save the World Video hotspot
 
 Happy Birthday to the late American photographer and environmentalist Ansel Adams. Read to see how Ansel Adams' work has continued to influence modern day photographers.
 
-20 hours ago
+1 day ago
 
 View Tweet
 
