@@ -39,6 +39,7 @@ Planning a Vacation? Shop the Spring Checklist.
         *   Shop Instagram
         *   Plus Sizes
         *   buckle SELECT
+        *   BOGO 30% Off BKE Jewelry
         *   Promotions
         
         *   Tops
@@ -114,6 +115,7 @@ Planning a Vacation? Shop the Spring Checklist.
         *   Easy Care Shirts
         *   Graphic Tees
         *   Solid Tees
+        *   Long Body
         *   Tanks
         *   Polos
         *   Sweatshirts
@@ -259,7 +261,10 @@ Planning a Vacation? Shop the Spring Checklist.
         
         *   Everyday Essentials
         *   Festival Pack List
-        *   Night Out
+        *   Casual Night Out
+        *   Active &. Lounge
+        *   Shop Women's Outfits
+        *   Shop Men's Outfits
         
         *   Gift Guide
         
