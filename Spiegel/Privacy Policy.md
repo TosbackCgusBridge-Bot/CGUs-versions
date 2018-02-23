@@ -16,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.470,49ǀ
+*   DAX 12.461,91ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -251,7 +251,7 @@ Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor
 *   Allgemeine Nutzungsbedingungen
 
   
-  
+Advertisement  
 Allgemeine Nutzungsbedingungen
 
 *   Drucken
@@ -678,14 +678,14 @@ Zur Startseite Diesen Artikel...
 *   Feedback
 *   Nutzungsrechte
 
-  
-  
+Advertisement  
+Advertisement  
 
 **© SPIEGEL ONLINE**  
 Alle Rechte vorbehalten  
 Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH
 
-  
+Advertisement  
 TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen. Serviceangebote von SPIEGEL-ONLINE-Partnern
 
 *   AUTO
