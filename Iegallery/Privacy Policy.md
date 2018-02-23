@@ -320,7 +320,7 @@ Skype Communications S.à.r.l. 23-29 Rives de Clausen L-2165 Luxembourg, Luxembo
 
 To find the Microsoft subsidiary in your country or region, see www.microsoft.com/worldwide/.
 
-Top of page Enterprise and Developer ProductsEnterprise &. Developer Products
+Top of page Product-specific details:Enterprise and Developer ProductsEnterprise &. Developer Products
 
 Enterprise and Developer Products are Microsoft products and related software offered and designed primarily for use by organizations and developers. They include:
 
