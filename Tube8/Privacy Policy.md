@@ -1,4 +1,11 @@
-Pornhub NETWORK
+Not yet a member? If you are a registered member you can
+
+*   Download and watch your favorite videos whenever you want
+*   Upload videos and share them with our community
+*   Add personal comments and vote on any video
+*   Create your "Personal Favorites" videos collection
+
+Sign Up Login or Sign Up Sign in with Pornhub OR Remember me on this device Log In Forgot password? Resend activation email Don't have an account?Sign Up Sign up with Pornhub OR By signing up, you agree to our Terms of use. Register Now Already have an account?Sign In Pornhub NETWORK
 
 *   Pornhub
 *   RedTube
@@ -84,10 +91,10 @@ Close
     *   homemade
     *   young
     *   massage
-    *   interracial
-    *   cumshot
     *   orgasm
+    *   interracial
     *   masturbation
+    *   cumshot
     *   brunette
     *   blonde
     *   petite
