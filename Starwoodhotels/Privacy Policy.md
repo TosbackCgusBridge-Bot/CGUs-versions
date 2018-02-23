@@ -1,4 +1,4 @@
-  Text Only
+ Text Only
 
 *   Find &. Book
 *   About
@@ -377,7 +377,6 @@ Back to Top
     *   中文(简体) 中文(简体)
     *   日本語 日本語
     *   Русский Русский
-    
 *   Website Terms of Use
 *   Privacy Statement
 *   Text Only
