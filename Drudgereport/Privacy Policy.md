@@ -135,15 +135,15 @@ LATEST ON TWITTER
 
 My week on Twitter : 2 Mentions, 1.62K Mention Reach, 6 Likes, 3 Retweets, 1.9K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/pkbQ…
 
-Yesterday
+About 2 days ago
 
 Our biggest fans this week: @mrmistry, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/z2lB…
 
-About 2 days ago
+About 3 days ago
 
 "Better user experience leads to increased engagement, greater time on the site and repeat visitors, resulting in more revenue." Senior BizDev Manager @mrmistry talks about the impact of Google Chrome's ad blocker. Check it out here: bit.ly/2svq4KS via @Androidheadline
 
-About 6 days ago
+Last week
 
 My week on Twitter : 19 Mentions, 13.3K Mention Reach, 3 Likes, 3 Retweets, 641 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LPHQ…
 
