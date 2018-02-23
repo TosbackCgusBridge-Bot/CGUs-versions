@@ -70,8 +70,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: 'A Wrinkle in Time' Soundtrack Surprises Revealed Read More
-    *   Danny Boyle Is the Top Choice to Direct James Bond 25 Read More
+    *   Movie News: 'Jurassic World 3' Gets a Release Date - Here's What We Know Read More
+    *   J.J. Abrams Shares a Detail About 'Star Wars: Episode IX': There's a Script Read More
     *   Every Record Broken by 'Black Panther' Read More
     
     Explore Content
@@ -260,9 +260,9 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   'Skyscraper' Sweepstakes
+*   'A Wrinkle in Time' Gift With Purchase
     
-    Sign up for a 'Skyscraper' FanAlert® for your chance to win a video greeting from Dwayne Johnson + $500 in movie tickets. SIGN UP
+    Receive a FREE\* exclusive 'A Wrinkle in Time' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Black Panther' Gift With Purchase
     
@@ -272,18 +272,18 @@ Offers
     
     Sign up for a ‘Jurassic World: Fallen Kingdom’ FanAlert® for your chance to win a trip to the filming location in Hawaii. SIGN UP
     
-*   Fandango VIP
+*   'Skyscraper' Sweepstakes
     
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    Sign up for a 'Skyscraper' FanAlert® for your chance to win a video greeting from Dwayne Johnson + $500 in movie tickets. SIGN UP
     
 
 New + Coming soon
 
-*   Peter Rabbit
-*   Fifty Shades Freed
 *   Black Panther
+*   Red Sparrow
 *   A Wrinkle in Time
 *   Tomb Raider (2018)
+*   Pacific Rim: Uprising
 *   Ready Player One
 *   Avengers: Infinity War
 *   Solo: A Star Wars Story
