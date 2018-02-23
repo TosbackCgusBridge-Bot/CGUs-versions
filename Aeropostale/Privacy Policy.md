@@ -24,7 +24,7 @@ Close submenu ( Girls ) Girls
 *   Jackets + Vests
 *   Shoes + Accessories
 
-*   petite + plus size
+*   Extended Sizes
 *   Trending
 *   Clearance
 *   Live Love Dream
@@ -34,6 +34,7 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   Sabrina's Picks
+*   $8 Tees
 *   Denim Guide
 *   Logo Shop
 *   Basic Essentials
@@ -87,6 +88,7 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
+*   $8 Tees
 *   Denim Guide
 *   Logo Shop
 *   Tapout + Aero Active
@@ -300,6 +302,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Sabrina's Picks
+        *   $8 Tees
         *   Denim Guide
         *   Logo Shop
         *   Basic Essentials
@@ -334,7 +337,7 @@ Menu Find a Store Aeropostale
     *   Jackets + Vests
     *   Shoes + Accessories
     
-    *   petite + plus size
+    *   Extended Sizes
     *   Trending
     *   Clearance
     *   Live Love Dream
@@ -345,6 +348,7 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
+        *   $8 Tees
         *   Denim Guide
         *   Logo Shop
         *   Tapout + Aero Active
@@ -543,6 +547,7 @@ Gift Cards
 
 *   eGift Cards
 *   Lost/Stolen Gift Cards
+*   Check Gift Card Balance
 
 About Us
 
