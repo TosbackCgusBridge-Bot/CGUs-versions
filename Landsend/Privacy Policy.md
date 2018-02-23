@@ -47,16 +47,7 @@ menu Close 0 Free Shipping on $50+
     BLOG
     *   The Journal
     *   Lands' End Labs
-*   Women FEATURED SHOPS
-    
-    *   New Arrivals
-    *   Spring Looks to Love
-    *   The Starfish Collection
-    *   Soft Leisure
-    *   Tunic Shop
-    *   Sale
-    
-    SHOP BY SIZE RANGE
+*   Women SHOP BY SIZE RANGE
     
     *   Regular
     *   Petite
@@ -64,6 +55,15 @@ menu Close 0 Free Shipping on $50+
     *   Plus
     *   Petite Plus
     *   Tall Plus
+    
+    FEATURED SHOPS
+    
+    *   New Arrivals
+    *   Spring Looks to Love
+    *   The Starfish Collection
+    *   Soft Leisure
+    *   Tunic Shop
+    *   Sale
     
     CATEGORIES
     
@@ -73,37 +73,37 @@ menu Close 0 Free Shipping on $50+
     *   Sweaters
     *   Knit Tops &. Tees
     *   Shirts &. Blouses
+    *   Blazers
     *   Pants
     *   Jeans
-    *   Pajamas &. Robes
+    *   Shorts
     *   Dresses
     *   Skirts
-    *   Blazers
     *   Activewear
-    *   Shorts
-    *   Bags
+    *   Pajamas &. Robes
     *   Long Underwear
+    *   Bags
     
     SHOES>.
     
     *   View All
-    *   Boots
-    *   Slippers
-    *   Casual
-    *   Flats
-    *   Heels
     *   Athletic &. Water
     *   Sandals
+    *   Casual
+    *   Boots
+    *   Flats
+    *   Heels
+    *   Slippers
     
     ACCESSORIES>.
     *   View All
     *   Scarves
-    *   Hats
-    *   Gloves
-    *   Socks &. Tights
     *   Belts
+    *   Socks &. Tights
     *   Jewelry
+    *   Hats
     *   Small Accessories
+    *   Gloves
 *   Men FEATURED SHOPS
     
     *   New Arrivals
@@ -140,12 +140,12 @@ menu Close 0 Free Shipping on $50+
     SHOES>.
     
     *   View All
-    *   Boots
-    *   Slippers
-    *   Casual
-    *   Dress
     *   Athletic &. Water
+    *   Casual
     *   Sandals
+    *   Boots
+    *   Dress
+    *   Slippers
     
     ACCESSORIES>.
     *   View All
@@ -229,8 +229,8 @@ menu Close 0 Free Shipping on $50+
     *   View All
     *   New Arrivals
     *   Canvas Totes
-    *   Business &. Travel
     *   Pouches &. Small Accessories
+    *   Business &. Travel
     *   Backpacks &. Lunch Boxes
     *   Diaper Bags
     *   Sale
@@ -405,14 +405,6 @@ menu Close 0 Free Shipping on $50+
 *   Women
     *   Back
     *   Shop all Women
-    *   FEATURED SHOPS
-        *   Back
-        *   New Arrivals
-        *   Spring Looks to Love
-        *   The Starfish Collection
-        *   Soft Leisure
-        *   Tunic Shop
-        *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
         *   Regular
@@ -421,42 +413,50 @@ menu Close 0 Free Shipping on $50+
         *   Plus
         *   Petite Plus
         *   Tall Plus
+    *   FEATURED SHOPS
+        *   Back
+        *   New Arrivals
+        *   Spring Looks to Love
+        *   The Starfish Collection
+        *   Soft Leisure
+        *   Tunic Shop
+        *   Sale
     *   SHOES
         *   Back
         *   View All
-        *   Boots
-        *   Slippers
-        *   Casual
-        *   Flats
-        *   Heels
         *   Athletic &. Water
         *   Sandals
+        *   Casual
+        *   Boots
+        *   Flats
+        *   Heels
+        *   Slippers
     *   ACCESSORIES
         *   Back
         *   View All
         *   Scarves
-        *   Hats
-        *   Gloves
-        *   Socks &. Tights
         *   Belts
+        *   Socks &. Tights
         *   Jewelry
+        *   Hats
         *   Small Accessories
+        *   Gloves
     *   Swimsuits
     *   Coats &. Jackets
     *   Fleece
     *   Sweaters
     *   Knit Tops &. Tees
     *   Shirts &. Blouses
+    *   Blazers
     *   Pants
     *   Jeans
-    *   Pajamas &. Robes
+    *   Shorts
     *   Dresses
     *   Skirts
-    *   Blazers
     *   Activewear
-    *   Shorts
-    *   Bags
+    *   Pajamas &. Robes
     *   Long Underwear
+    *   Bags
 *   Men
     *   Back
     *   Shop all Men
@@ -474,12 +474,12 @@ menu Close 0 Free Shipping on $50+
     *   SHOES
         *   Back
         *   View All
-        *   Boots
-        *   Slippers
-        *   Casual
-        *   Dress
         *   Athletic &. Water
+        *   Casual
         *   Sandals
+        *   Boots
+        *   Dress
+        *   Slippers
     *   ACCESSORIES
         *   Back
         *   View All
@@ -589,8 +589,8 @@ menu Close 0 Free Shipping on $50+
     *   View All
     *   New Arrivals
     *   Canvas Totes
-    *   Business &. Travel
     *   Pouches &. Small Accessories
+    *   Business &. Travel
     *   Backpacks &. Lunch Boxes
     *   Diaper Bags
     *   Sale
@@ -769,9 +769,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 25% off 1 full-price item!
 
-code: FAMILY pin: 2714 DETAILS
+code: MELT pin: 9143 DETAILS
 
 Customer Service Menu
 
