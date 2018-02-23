@@ -348,7 +348,7 @@ TODAY'S SALES
 
 Great deals on select products.
 
-Lenovo Small Busines
+Lenovo Small Business
 
 Explore how Lenovo can be your small business partner.
 
@@ -471,9 +471,7 @@ Laptops Tablets Desktops Servers Deals Select Country/Region AlgeriaAngolaArgent
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new window
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
