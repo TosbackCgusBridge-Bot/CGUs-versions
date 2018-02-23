@@ -8,18 +8,40 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Frye
-    *   Frye Handbags &. Leather Accessories
-    *   Frye Men
-    *   Young Fabulous &. Broke
-    *   Dresses We Love Up to 70% Off
-    *   bareMinerals
+    *   True Religion
+    *   True Religion Men
+    *   True Religion Kids
+    *   Aquatalia
+    *   Salvatore Ferragamo Sun &. Watches
+    *   Luma Italy Up to 75% Off
+    *   Kendall &. Kylie
+    *   Carlos by Carlos Santana Starting at $30
+    *   Ladies' Luxe Watches
+    *   Spring Preview: Boho-Chic Dresses
+    *   Step into Spring: Shoes Starting at $25
+    *   Best of Italy: Handbags
+    *   Lucky Brand Jewelry Under $30
+    *   Caudalie
+    *   Mirenesse Up to 75% Off
+    *   Good Man Brand
+    *   Jean Claude
+    *   New Chukka Boots Under $100
+    *   Travel in Style: Luggage Up to 75% Off
+    *   Free Shipping: Modern Furniture Under $200
+    *   Free Shipping: Hand-Painted Replicas
+    *   Free Shipping: Salav Steamers from $20
+    *   Sophie Catalou
     *   Rainbow Connection: The Accessory Shop Up to 60% Off
-    *   LOVE Moschino Handbags
     *   On Trend: 14K Gold Jewelry &. More
     *   Boho-Chic Handbags
     *   Handcrafted in Colombia: Mishky Jewelry
-    *   Spring Trend Earrings Under $25
+    *   Frye
+    *   Frye Men
+    *   Frye Handbags &. Leather Accessories
+    *   Young Fabulous &. Broke
+    
+    *   Dresses We Love Up to 70% Off
+    *   bareMinerals
     *   Derek Lam Up to 80% Off
     *   Do + Be
     *   Suzy Levian Jewelry
@@ -40,83 +62,71 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jonathan Adler
     *   Free Shipping: NMK Bedding Steals
     *   Free Shipping: Amrapur Towels Up to 80% Off
-    
     *   Free Shipping: Budget-Friendly Rugs
     *   Free Shipping: Mid-Century Modern Furniture
-    *   Ray-Ban
-    *   Dress the Population
-    *   Franco Sarto
-    *   Jealous Tomato &. More Under $35
-    *   Electric Yoga Up to 70% off
-    *   Yoga Accessories ft. Manduka &. Gaiam
-    *   Cacharel
-    *   Vanity Room Incl. Special Sizes
-    *   Kenneth Cole New York
-    *   Designer Sandals, Booties &. More ft. Brian Atwood
-    *   Nostalgia Up to 70% Off
-    *   Love Club: Full-Fit Bras Under $35
     *   Rivka Friedman Jewelry Up to 80% Off
-    *   Backpacks We Love Under $40
     *   Free Shipping: Gold &. Sterling Trend Jewelry
-    *   Travel in Style: Luggage ft. Anne Klein
     *   Robert Graham
     *   Rag &. Bone Men's Shoes
     *   Lindbergh
     *   Unsimply Stitched Lounge &. More
     *   Sky Organics
+    
     *   Bella II Fiore
     *   Angel Dear
     *   Ike Behar Boys
     *   Hoo Sneakers &. More Up to 55% Off
-    *   MAC Cosmetics
-    *   Free Shipping: Trend Jewelry Under $20
     *   KitchenAid
     *   Organization Essentials Starting at $10
     *   Chop Chop: Cutlery &. More Starting at $10
-    
     *   Michael Todd Soniclear Cleansing Brush Up to 60% Off
     *   21 drops Essential Oil Therapy Under $25
     *   Men's Designer Shop: Styles Up to 60% Off
     *   Better in Leather: Men's Accessories Up to 70% Off
     *   Fresh Kicks: Men's Sneakers Starting at $30
-    *   Splendid Kids Starting at $10
-    *   Sovereign Code Boys Starting at $10
-    *   Venettini Up to 50% Off
-    *   National Geographic Books Starting at $8
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
-    *   Men's Shoes Up to 65% Off
-    *   CAT Footwear Up to 55% Off
-    *   Unsimply Stitched Up to 75% Off
     *   Free Shipping: Accent Furniture Up to 65% Off
     *   Free Shipping: Mason Jar Candles &. More Under $25
     *   Crown Brush Starting at $10
-    *   La Tweez Pro Illuminating Tweezers from $10
     *   Free Shipping: Hammocks &. More
     *   Free Shipping: Picnic Essentials &. More from $16
     *   Free Shipping: Down &. Memory Foam from $17
     *   Free Shipping: Wall Art Up to 75% Off
-    *   Free Shipping: Desert-Inspired Decor
-    *   Camper Up to 60% Off
-    *   Equipment Up to 65% Off
-    *   Green Dragon Starting at $20
-    *   Casual Bottoms Under $35 ft. Union
-    *   Free Shipping: Hip Modern Rugs Up to 70% Off
+    *   LOVE Moschino Handbags
+    *   Spring Trend Earrings Under $25
     *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Free Shipping: Bright Bedding &. Curtains Up to 60% Off
+    *   Dress the Population
+    *   Franco Sarto
+    *   Jealous Tomato &. More Under $35
+    *   Electric Yoga Up to 70% off
+    *   Vanity Room Incl. Special Sizes
 *   WomenShop Sale Events
     
+    *   True Religion
+    *   Aquatalia
+    *   Salvatore Ferragamo Sun &. Watches
+    *   Luma Italy Up to 75% Off
+    *   Kendall &. Kylie
+    *   Carlos by Carlos Santana Starting at $30
+    *   Ladies' Luxe Watches
+    *   Spring Preview: Boho-Chic Dresses
+    *   Step into Spring: Shoes Starting at $25
+    *   Best of Italy: Handbags
+    *   Lucky Brand Jewelry Under $30
+    *   Caudalie
+    *   Mirenesse Up to 75% Off
+    *   Travel in Style: Luggage Up to 75% Off
+    *   Rainbow Connection: The Accessory Shop Up to 60% Off
+    *   On Trend: 14K Gold Jewelry &. More
+    *   Boho-Chic Handbags
+    *   Handcrafted in Colombia: Mishky Jewelry
     *   Frye
     *   Frye Handbags &. Leather Accessories
     *   Young Fabulous &. Broke
     *   Dresses We Love Up to 70% Off
     *   bareMinerals
-    *   Rainbow Connection: The Accessory Shop Up to 60% Off
-    *   LOVE Moschino Handbags
-    *   On Trend: 14K Gold Jewelry &. More
-    *   Boho-Chic Handbags
-    *   Handcrafted in Colombia: Mishky Jewelry
-    *   Spring Trend Earrings Under $25
+    
     *   Derek Lam Up to 80% Off
     *   Do + Be
     *   Suzy Levian Jewelry
@@ -125,98 +135,83 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Denim Steals: Styles Under $50
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   HUGO BOSS Watches Up to 50% Off
-    *   Ray-Ban
-    *   Dress the Population
-    *   Franco Sarto
-    *   Jealous Tomato &. More Under $35
-    *   Electric Yoga Up to 70% off
-    
-    *   Yoga Accessories ft. Manduka &. Gaiam
-    *   Cacharel
-    *   Vanity Room Incl. Special Sizes
-    *   Kenneth Cole New York
-    *   Designer Sandals, Booties &. More ft. Brian Atwood
-    *   Nostalgia Up to 70% Off
-    *   Love Club: Full-Fit Bras Under $35
     *   Rivka Friedman Jewelry Up to 80% Off
-    *   Backpacks We Love Under $40
     *   Free Shipping: Gold &. Sterling Trend Jewelry
-    *   Travel in Style: Luggage ft. Anne Klein
     *   Sky Organics
     *   Bella II Fiore
-    *   MAC Cosmetics
-    *   Free Shipping: Trend Jewelry Under $20
     *   Michael Todd Soniclear Cleansing Brush Up to 60% Off
     *   21 drops Essential Oil Therapy Under $25
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   Crown Brush Starting at $10
-    *   La Tweez Pro Illuminating Tweezers from $10
-    *   Camper Up to 60% Off
-    *   Equipment Up to 65% Off
-    *   Green Dragon Starting at $20
+    *   LOVE Moschino Handbags
+    *   Spring Trend Earrings Under $25
+    *   Dress the Population
+    *   Franco Sarto
+    *   Jealous Tomato &. More Under $35
+    *   Electric Yoga Up to 70% off
+    *   Vanity Room Incl. Special Sizes
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
     *   Tech Accessories
-    *   Lingerie
     *   Accessories
     *   Watches
+    *   Lingerie
 *   MenShop Sale Events
     
+    *   True Religion Men
+    *   Good Man Brand
+    *   Jean Claude
+    *   New Chukka Boots Under $100
+    *   Travel in Style: Luggage Up to 75% Off
     *   Frye Men
     *   Frye Men's Accessories
     *   Onia
     *   Jack Spade
+    
     *   HUGO BOSS Watches Up to 50% Off
-    *   Ray-Ban
     *   Robert Graham
     *   Rag &. Bone Men's Shoes
     *   Lindbergh
-    
     *   Unsimply Stitched Lounge &. More
     *   Men's Designer Shop: Styles Up to 60% Off
     *   Better in Leather: Men's Accessories Up to 70% Off
     *   Fresh Kicks: Men's Sneakers Starting at $30
-    *   Men's Shoes Up to 65% Off
-    *   CAT Footwear Up to 55% Off
-    *   Unsimply Stitched Up to 75% Off
-    *   Casual Bottoms Under $35 ft. Union
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
     *   Watches
 *   KidsShop Sale Events
     
+    *   True Religion Kids
+    *   Sophie Catalou
     *   Wetsuit Club Swimwear
     *   Paulinie
     *   Flow Society Kids Under $10
     *   Angel Dear
     *   Ike Behar Boys
     *   Hoo Sneakers &. More Up to 55% Off
-    *   Splendid Kids Starting at $10
-    *   Sovereign Code Boys Starting at $10
-    *   Venettini Up to 50% Off
-    *   National Geographic Books Starting at $8
     
     Shop By Category
-    *   Toys
     *   Girls Sizes 2T-6X
     *   Boys Sizes 8-20
+    *   Baby Girl
     *   Baby Boy
     *   Girls' Shoes
-    *   Baby Girl
     *   Boys Sizes 2T-7
-    *   Girls Sizes 7-16
     *   Kids Accessories
+    *   Girls Sizes 7-16
     *   Baby Gear &. Essentials
-    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Modern Furniture Under $200
+    *   Free Shipping: Hand-Painted Replicas
+    *   Free Shipping: Salav Steamers from $20
     *   Free Shipping: Luxe Bedding Blowout
     *   Free Shipping: Garden-Inspired Decor
     *   Stainless Steel Water Bottles Under $20
@@ -225,10 +220,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Amrapur Towels Up to 80% Off
     *   Free Shipping: Budget-Friendly Rugs
     *   Free Shipping: Mid-Century Modern Furniture
+    
     *   KitchenAid
     *   Organization Essentials Starting at $10
     *   Chop Chop: Cutlery &. More Starting at $10
-    
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   Free Shipping: Accent Furniture Up to 65% Off
     *   Free Shipping: Mason Jar Candles &. More Under $25
@@ -236,33 +231,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Picnic Essentials &. More from $16
     *   Free Shipping: Down &. Memory Foam from $17
     *   Free Shipping: Wall Art Up to 75% Off
-    *   Free Shipping: Desert-Inspired Decor
-    *   Free Shipping: Hip Modern Rugs Up to 70% Off
     *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Free Shipping: Bright Bedding &. Curtains Up to 60% Off
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Accent Furniture
-    *   Bath
     *   Organization
+    *   Bath
     *   Outdoor Living
     *   Luggage &. Travel
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   Caudalie
+    *   Mirenesse Up to 75% Off
     *   bareMinerals
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Sky Organics
     *   Bella II Fiore
-    *   MAC Cosmetics
     *   Michael Todd Soniclear Cleansing Brush Up to 60% Off
     *   21 drops Essential Oil Therapy Under $25
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   Crown Brush Starting at $10
-    *   La Tweez Pro Illuminating Tweezers from $10
     
     Shop By Category
     *   Makeup
