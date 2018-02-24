@@ -279,10 +279,6 @@ Menu Close Menu Close
             
         *   Monitor Deals
             
-        *   Presidential Business Sale
-            
-            Give your business the presidential treatment with these great savings.
-            
 *   Support
     *   Sales Enquiries
     *   Order Support
@@ -324,11 +320,11 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers ALL NEW THINKPAD T480s
 
-Built to perform. Engineered to endure.
+Powerful processing, superb graphics, and Dolby® Audio Premium™ take functional efficiency to new heights. Now available.
 
-Learn more
+Shop Now>.
 
 Durable Vibrant Corning® Gorilla® Glass Covers
 
@@ -336,9 +332,9 @@ CHOOSE HOW YOU’LL ROCK THE RUNWAY >>.
 
 Water-cooled to perform
 
-Gain real business insights in real-time
+SD650 direct water cooling means maximum performance
 
-ThinkSystem DS4200 >.
+Learn more >.
 
 *   1
 *   2
@@ -471,7 +467,9 @@ Laptops Tablets Desktops Servers Deals Select Country/Region AlgeriaAngolaArgent
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new window
+
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
