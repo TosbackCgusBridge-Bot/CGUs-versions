@@ -95,21 +95,21 @@ SONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! Watch Khalid Transforms His Hit “8teen”
+search Your browser does not support JavaScript! Watch Khalid Transform His Hit “8teen”
 
 From Lost In Music: Sessions
 
 Close
 
-*   Share Watch Khalid Transforms His Hit “8teen” on Facebook
-*   Share Watch Khalid Transforms His Hit “8teen” on Twitter
-*   Copy URL to share Watch Khalid Transforms His Hit “8teen”
+*   Share Watch Khalid Transform His Hit “8teen” on Facebook
+*   Share Watch Khalid Transform His Hit “8teen” on Twitter
+*   Copy URL to share Watch Khalid Transform His Hit “8teen”
 
-Play Watch Khalid Transforms His Hit “8teen” Video
+Play Watch Khalid Transform His Hit “8teen” Video
 
-Sony on YouTube - Watch Khalid Transforms His Hit “8teen”
+Sony on YouTube - Watch Khalid Transform His Hit “8teen”
 
-Play Watch Khalid Transforms His Hit “8teen” Video hotspot
+Play Watch Khalid Transform His Hit “8teen” Video hotspot
 
 <img class="bg-img" class="url(/en\_us/media/content/LIM\_Sessions\_600x600.jpg);" alt="Lost in Music Sessions">. Bring the Energy to the Party
 
@@ -127,7 +127,7 @@ With the SRS-XB40 Speaker
 
 We’re excited to announce that you can now spin 3D objects in your @Facebook feed –available with #Xperia XZ1, Xperia XZ1 Compact and Xperia XZ Premium.
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -197,7 +197,7 @@ Check Out the PG-2
 
 Explore, scavenge, and fight together to get back home. Metal Gear Survive is out now on #PS4.
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -283,7 +283,7 @@ Play “The Tick” Returns to Save the World Video hotspot
 
 Happy Birthday to the late American photographer and environmentalist Ansel Adams. Read to see how Ansel Adams' work has continued to influence modern day photographers.
 
-1 day ago
+2 days ago
 
 View Tweet
 
