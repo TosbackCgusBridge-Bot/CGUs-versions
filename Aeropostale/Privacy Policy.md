@@ -19,12 +19,12 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
+
 *   Swim
 *   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
-
-*   Extended Sizes
+*   plus size
 *   Trending
 *   Clearance
 *   Live Love Dream
@@ -35,13 +35,13 @@ Close submenu ( Featured ) Featured
 *   New Arrivals
 *   Sabrina's Picks
 *   $8 Tees
+*   Easter Best
 *   Denim Guide
 *   Logo Shop
 *   Basic Essentials
 *   Seriously Soft
 *   Lounge + Sleep
 *   Online Only
-*   Uniform
 
 Close submenu ( Tops ) Tops
 
@@ -130,6 +130,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Low Rise Jegging
 *   Ankle Jegging
 *   High Rise Jegging
+*   Super High Rise Jegging
 *   Cropped Jegging
 *   Skinny
 *   Ankle Straight
@@ -224,10 +225,12 @@ Close submenu ( Guys ) Guys
 *   Graphic Obsessed
 *   Tanks + Swim
 *   At Ease
+*   Jackets
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
+*   Get Fit in Florals
 *   Splash Into Spring
 *   Lots of Lace
 *   Sleep
@@ -262,8 +265,7 @@ Close submenu ( Guys ) Guys
 *   View All
 *   Last Chance
 *   New to Clearance
-*   Shop $7.99
-*   Shop $9.99
+*   $9.99 + Under
 *   Tees + Tanks
 *   Long Sleeve
 *   Polos
@@ -289,7 +291,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**60% OFF EVERYTHING** \+ **FREE SHIPPING ON $75** **UP TO 80% OFF CLEARANCE**
+**UP TO $25 OF $100** USE CODE **INSIDER25** **50-70% OFF** + **FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -303,13 +305,13 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Sabrina's Picks
         *   $8 Tees
+        *   Easter Best
         *   Denim Guide
         *   Logo Shop
         *   Basic Essentials
         *   Seriously Soft
         *   Lounge + Sleep
         *   Online Only
-        *   Uniform
     
     *   Tops
         *   View All
@@ -332,12 +334,13 @@ Menu Find a Store Aeropostale
         *   Joggers + Lounge
         *   Pants
         *   Shorts
+        
+    
     *   Swim
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
-    
-    *   Extended Sizes
+    *   plus size
     *   Trending
     *   Clearance
     *   Live Love Dream
@@ -393,6 +396,7 @@ Menu Find a Store Aeropostale
         *   Low Rise Jegging
         *   Ankle Jegging
         *   High Rise Jegging
+        *   Super High Rise Jegging
         *   Cropped Jegging
         *   Skinny
         *   Ankle Straight
@@ -469,10 +473,12 @@ Menu Find a Store Aeropostale
         *   Graphic Obsessed
         *   Tanks + Swim
         *   At Ease
+        *   Jackets
         
     
     *   Live Love Dream
         *   View All
+        *   Get Fit in Florals
         *   Splash Into Spring
         *   Lots of Lace
         *   Sleep
@@ -499,8 +505,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   Last Chance
         *   New to Clearance
-        *   Shop $7.99
-        *   Shop $9.99
+        *   $9.99 + Under
         *   Tees + Tanks
         *   Long Sleeve
         *   Polos
@@ -531,7 +536,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Promotions Shop Girls Shop Guys Promotions Shop Girls Shop Guys Promotions Shop Girls Shop Guys Find My Store Promotions Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Shop Girls Shop Guys Shop Girls Shop Guys Find My Store Shop Girls Shop Guys Shop Girls Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
