@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Desktop weekly update – February 23, 2018 ›
 *   Canonical announces Ubuntu Core across Rigado’s IoT gateways ›
 *   LXD Weekly Status #35 ›
 *   Snapcraft through the eyes of its biggest community contributor ›
 *   Storage Made Easy adds Charm to Canonical’s Juju ecosystem ›
-*   LXD weekly status #34 ›
