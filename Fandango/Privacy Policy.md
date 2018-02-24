@@ -33,11 +33,14 @@ Gift Cards | Offers | Sign In Sign Out
     *   Survivors Guide to Prison
     *   See All Opening This Week
     
+    Pre Sales Tickets
+    
+    *   A Wrinkle in Time
+    
     Coming Soon
     
     *   Death Wish (2018)
     *   Red Sparrow
-    *   A Wrinkle in Time
     *   Strangers: Prey at Night
     *   Gringo (2018)
     *   The Hurricane Heist
@@ -70,8 +73,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: 'Jurassic World 3' Gets a Release Date - Here's What We Know Read More
-    *   J.J. Abrams Shares a Detail About 'Star Wars: Episode IX': There's a Script Read More
+    *   Movie News: 'Batgirl' Now Needs a New Writer and Director Read More
+    *   The Week in Movie News: 'Black Panther,' Jessica Chastain and More Read More
     *   Every Record Broken by 'Black Panther' Read More
     
     Explore Content
