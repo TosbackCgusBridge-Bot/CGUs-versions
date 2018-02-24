@@ -1,3 +1,7 @@
+  Offer Details
+
+Shop with free standard shipping on your Blair merchandise order of 4 or more items when you use promotion code **BQHE** at checkout. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed orders. good online only through February 25, 2018.
+
   No thank you, I prefer to pay for shipping!  
 
 Shop your favorite stores and discover new ones  
