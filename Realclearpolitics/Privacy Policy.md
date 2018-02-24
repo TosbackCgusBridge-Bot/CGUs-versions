@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Tom Rogan_: Trump Has Shown True Leadership Since Fla. Shooting
+*   _Baker &. Shear_: Another Shooting, Another Debate. Will Outcome Be the Same?
     
-*   _Errol Louis_: Students Said 'Wake Up,' and America Is Finally Listening
+*   _David Marcus_: Law Enforcement Failures Made Fla. Shooting Much Worse
     
-*   _Carolyn Thompson_: Could Armed Teachers Stop Shootings?
+*   _Chris Cillizza_: Proof That a Good Guy With a Gun Doesn't Always Stop Bad Guy
     
-*   _Evan Osnos_: CNN's Town Hall on Guns &. the Unmaking of Marco Rubio
+*   _James Arkin_: Trump Unloads at CPAC, Urges Activists to Focus on Midterms
     
-*   _Ben Domenech_: CNN Just Gave a Massive In-Kind Donation to the NRA
+*   _Tom Perez_: Dems Won Big in 2017, and We're Only Just Beginning
     
-*   _Walter Shapiro_: The Flimsy Excuses That Republicans Tell Themselves
+*   _Paul Sperry_: Another Way Obama's Spies Exploited the Anti-Trump Dossier
     
-*   _Gary Rabine_: Small Businesses Are Booming Under Trump Tax Cuts
+*   _Abigail Tracy_: Mueller Tightens the Noose, and Breaks Rick Gates
     
-*   _Mark Buchanan_: We Can't Engineer Our Way Out of Climate Change
+*   _Franklin Graham_: Billy Graham's New Home
     
-*   _Bernard Weinstein_: 'Keep It in The Ground' Movement Needs a Dose of Reality
+*   _Andrew Sullivan_: The Poison We Pick
     
-*   _Jake Bittle_: Postal-Service Workers Shouldering the Burden for Amazon
+*   _Lee Drutman_: Don't Mourn the End of Objective Journalism
     
-*   _James Piereson &. Naomi Schaefer Riley_: Putting Bill Gates on the Spot
+*   _Alex Berezow_: Hey, CNN, There's Nothing Cool About Socialism
     
-*   _David Catanese_: Trump's Emotional Listening Session
+*   _Heather Wilhelm_: Gun Politics, Twitterized
     
-*   _Dave Cullen_: Will the Parkland Kids Change the Gun Debate?
+*   _Eugene Robinson_: Trump &. GOP Won't Act on Gun Control. So We Must.
     
-*   _Conrad Black_: As Dems' Russia Obsession Dwindles, Trump Moving Forward
+*   _John Podhoretz_: Gun Control Activists Need to Learn a Little Sympathy
     
-*   _Eugene Robinson_: Mr. Trump: They're Laughing at You, Not With You
+*   _Thomas Frank_: Russian Bots Are on the March. Take Cover, Quick!
     
-*   _Ben Weingarten_: Collusion-Mongers Hurt U.S. Worse Than Russians
+*   _Victor Davis Hanson_: The Paradoxes of the Mueller Investigation
     
-*   _Katha Pollitt_: With a Rising Generation, the NRA Finally Meets Its Match
+*   _Stuart Heritage_: Homer Simpson Is a Republican. He's Also an Idiot
     
-*   _Michelle Malkin_: Letting Children Lead Is Unadulterated Silliness
+*   _Tom Bevan_: The Takeaway: The Most Hated Man in Washington
     
-*   _Caitlin Huey-Burns_: Gun Politics Stir Up Florida Midterm Races
+*   _Sarah Jaffe_: The New Working Class
     
-*   _Greg Sargent_: A Blue Wave? Trump Is Helping Dems Win in Unlikely Places
+*   _Matthew Continetti_: American Populism: A User's Guide
     
-*   _Liz Peek_: Soaring Economic Optimism Could Torpedo Dems' 'Blue Wave'
+*   _David Harsanyi_: CNN's Shameful Town Hall Is a Clarifying Moment on Guns
     
-*   _Paul Sperry_: Mueller Still Relying on Discredited Steele Dossier
+*   _Van Jones_: A Children's Crusade Jesus Would Be Proud Of
     
-*   _Bob Dreyfuss_: Will Mueller Indict Russians Over the DNC Hacking Next?
+*   _Stacy Washington_: Cities Need Solutions to Solve Homicide Epidemic
     
-*   _Sen. Chuck Grassley_: Dems Keep Working to Stall Trump Nominations
+*   _Margaret Carlson_: The Law That Could Take Down Trump
     
 
 *   Previous
@@ -249,9 +249,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Hosts Listening Session With Victims of Gun Violence
 *   Gun Politics Stir Up Florida Midterm Races
-*   Shooting Survivor: CNN Gave Me "Scripted Question," Network Denies
+*   Trump Says Raise Age for Buying Assault Rifles, Defying NRA
+*   Loesch: I Couldn't Have Exited CNN Event Without Security Detail
 *   Redrawn Pa. Maps Add Uncertainty to Special Election
 *   How Much Will Redrawn Pa. Map Affect the Midterms?
 *   Presidential Job Approval
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalMarist
+    *   Approve40
+    *   Disapprove53Disapprove +13
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
+    *   Approve50
+    *   Disapprove49Approve +1
+*   2018 Generic Congressional VoteMarist
+    *   Democrats46
+    *   Republicans39Democrats +7
 *   President Trump Job ApprovalHarvard-Harris
     *   Approve45
     *   Disapprove55Disapprove +10
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve37
-    *   Disapprove58Disapprove +21
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve44
-    *   Disapprove51Disapprove +7
 
 More Latest Polls In The News
 
+*   Trump: Teachers Love Their Students, Need Guns To Protect Them From "Cowards," "Lunatics"
+*   NRA's Dana Loesch vs. CNN's Alisyn Camerota: "You Think We Love Mass Shootings?"
 *   FL Shooting Survivor: Networks Don't Want Us To Give Our Real Opinions, "Want Us To Further Their Agendas"
-*   FL Shooting Survivor: CNN Told Me "I Needed To Stick To The Script". They Scripted Entire Town Hall
+*   FL Survivor Colton Haab: CNN Told Me I Needed To "Stick To The Script". Entire Town Hall Scripted
 *   Bret Stephens: Repeal Second Amendment. Restrictions On "So-Called" Gun Rights Imperative For Safety
-*   Shooting Survivor: CNN Gave Me "Scripted Question" After Denying Question About Armed Guards
-*   FL Shooting Survivor Emma Gonzalez vs. NRA's Dana Loesch: We Will Support Your Kids While You Will Not
 
 *   Politics
 *   Policy
