@@ -133,23 +133,23 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+We've broken down challenges hurting publishers' bottom lines in 2018. Take a look here: goo.gl/NjmReo via Intermarkets blog #publishers
+
+About 10 hours ago
+
 My week on Twitter : 2 Mentions, 1.62K Mention Reach, 6 Likes, 3 Retweets, 1.9K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/pkbQ…
 
-About 2 days ago
+About 3 days ago
 
 Our biggest fans this week: @mrmistry, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/z2lB…
 
-About 3 days ago
+About 4 days ago
 
 "Better user experience leads to increased engagement, greater time on the site and repeat visitors, resulting in more revenue." Senior BizDev Manager @mrmistry talks about the impact of Google Chrome's ad blocker. Check it out here: bit.ly/2svq4KS via @Androidheadline
 
 Last week
 
 My week on Twitter : 19 Mentions, 13.3K Mention Reach, 3 Likes, 3 Retweets, 641 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LPHQ…
-
-Last week
-
-We're excited to be named one of @DC\_Inno's 2018 Tech Madness Finalist! Congrats to all on the list! americaninno.com/dc/…
 
 Last week
 
@@ -162,6 +162,7 @@ Request for Proposal
   
 703.242.7878  
 solutions@intermarket.net  
+publishers@intermarkets.net  
 11951 Freedom Dr. 11th Floor  
 Reston VA, 20190
 
