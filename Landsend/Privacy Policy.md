@@ -769,9 +769,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off 1 full-price item!
+Receive 25% off full-price styles!
 
-code: MELT pin: 9143 DETAILS
+code: RAIN pin: 5430 DETAILS
 
 Customer Service Menu
 
