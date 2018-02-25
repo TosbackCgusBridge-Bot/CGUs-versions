@@ -9,7 +9,8 @@
     *   Black Ink Crew
     *   RuPaul's Drag Race All Stars
     *   VH1 Beauty Bar
-    *   Behind The Ink
+    *   RuPaul's Drag Race
+    *   Teyana &. Iman
     *   Brunch With TiffanySee all Shows
 *   News
 *   Digital Originals
@@ -18,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewRuPaul's Drag Race All StarsVH1 Beauty BarBehind The InkBrunch With Tiffanysee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewRuPaul's Drag Race All StarsVH1 Beauty BarRuPaul's Drag RaceTeyana &. ImanBrunch With Tiffanysee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
