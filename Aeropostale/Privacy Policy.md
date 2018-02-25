@@ -24,7 +24,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
-*   plus size
+*   Extended Sizes
 *   Trending
 *   Clearance
 *   Live Love Dream
@@ -279,9 +279,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
 *   New to Clearance
-*   Shop $1.99
-*   Shop $5.99
-*   Shop $7.99
+*   $9.99 + Under
 *   Active
 *   Lounge
 *   Tees
@@ -340,7 +338,7 @@ Menu Find a Store Aeropostale
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
-    *   plus size
+    *   Extended Sizes
     *   Trending
     *   Clearance
     *   Live Love Dream
@@ -518,9 +516,7 @@ Menu Find a Store Aeropostale
     *   Live Love Dream
         *   View All
         *   New to Clearance
-        *   Shop $1.99
-        *   Shop $5.99
-        *   Shop $7.99
+        *   $9.99 + Under
         *   Active
         *   Lounge
         *   Tees
