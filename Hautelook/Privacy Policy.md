@@ -8,22 +8,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Maaji Swim
-    *   Michael Stars
-    *   Sperry
-    *   Ramy Brook Up to 70% Off
-    *   BLVD Starting at $16
-    *   Z By Zella
-    *   Nordstrom Rack Exclusive: Shoes
-    *   Best of Nordstrom Rack: Jewelry Starting at $10
-    *   SUSINA Incl. Special Sizes
-    *   Nordstrom Rack Exclusive: Accessories Under $20
-    *   Nordstrom Rack Exclusive: Suits &. More
-    *   Nordstrom Rack Exclusive: Men's Shoes
+    *   Bailey 44
+    *   Feminine Flair: Dresses ft. Bardot
+    *   American Twist Under $40
+    *   14K Gold Jewelry Steals
+    *   Given Kale
+    *   Etienne Marcel
+    *   Dizzy Sandals &. More Starting at $20
+    *   Just Cavalli Watches Up to 65% Off
+    *   Shoe Closet Update: Floral Prints
+    *   Anuschka Hand-Painted Bags
+    *   On Trend: Sterling Silver &. More Up to 80% Off
+    *   Closet Staples: Shoes Starting at $30
+    *   Earth &. Earthies Footwear
+    *   Bliss Color Cosmetics at $10
+    *   Face Masks We Love Up to 85% Off
+    *   Sultry Staples: Lingerie &. Sleep Under $30
+    *   Free Shipping: Faux Fur Rugs Up to 60% Off
+    *   Free Shipping: Bedding &. Throws Up to 60% Off
+    *   Triple Five Soul
+    *   $100 &. Under: Florsheim
+    *   Indigo Star Starting at $20
+    *   Sperry Kids
+    *   Maaji Girls' Swim
+    *   True Religion Kids
     *   Nordstrom Rack Exclusive: Harper Canyon
     *   Z By Zella Girls
-    *   Jared Lang
+    *   Z By Zella
+    *   Best of Nordstrom Rack: Jewelry Starting at $10
+    *   SUSINA Incl. Special Sizes
+    *   Nordstrom Rack Exclusive: Shoes
+    *   Nordstrom Rack Exclusive: Accessories Under $20
+    *   Nordstrom Rack Exclusive: Suits &. More
+    
+    *   Nordstrom Rack Exclusive: Men's Shoes
+    *   Maaji Swim
+    *   Sperry
+    *   Michael Stars
+    *   BLVD Starting at $16
     *   #GIVEBACKPACK: STATE Bags That Give Back
+    *   Ramy Brook Up to 70% Off
     *   Jella C.
     *   Bed|Stu
     *   TARA Pearls Tahitian &. Akoya Pearl Jewelry
@@ -35,93 +59,83 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Hair Tools We Love ft. BaBylissPRO
     *   Tailored Recreation Under $20
     *   BC Collection
-    *   Sperry Kids
-    *   Maaji Girls' Swim
     *   Poo-Pourri Bathroom Scents
     *   Listen Up: Swarovski-Encrusted Earbuds &. More
     *   True Religion
     *   True Religion Men
-    
-    *   True Religion Kids
-    *   Aquatalia
-    *   Salvatore Ferragamo Sun &. Watches
-    *   Kendall &. Kylie
-    *   Carlos by Carlos Santana Starting at $30
-    *   Designer Deals: Timepieces for Her
-    *   Spring Preview: Boho-Chic Dresses
-    *   Step into Spring: Shoes Starting at $25
-    *   Best of Italy: Handbags
     *   Lucky Brand Jewelry Under $30
     *   Caudalie
     *   Mirenesse Up to 75% Off
     *   Good Man Brand
     *   Jean Claude
     *   New Chukka Boots Under $100
-    *   Travel in Style: Luggage Up to 75% Off
     *   Free Shipping: Modern Furniture Under $200
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Salav Steamers from $20
     *   Sophie Catalou
-    *   Rainbow Connection: The Accessory Shop Up to 60% Off
-    *   On Trend: 14K Gold Jewelry &. More
-    *   Boho-Chic Handbags
-    *   Handcrafted in Colombia: Mishky Jewelry
-    *   Frye
-    *   Frye Men
-    *   Frye Handbags &. Leather Accessories
+    
     *   bareMinerals
-    *   Suzy Levian Jewelry
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Free Shipping: Luxe Bedding Blowout
     *   Free Shipping: Garden-Inspired Decor
     *   Stainless Steel Water Bottles Under $20
-    
-    *   Frye Men's Accessories
     *   Onia
     *   Jack Spade
-    *   Wetsuit Club Swimwear
     *   Paulinie
-    *   Flow Society Kids Under $10
     *   Jonathan Adler
     *   Free Shipping: NMK Bedding Steals
     *   Free Shipping: Amrapur Towels Up to 80% Off
     *   Free Shipping: Budget-Friendly Rugs
     *   Free Shipping: Mid-Century Modern Furniture
-    *   Robert Graham
-    *   Rag &. Bone Men's Shoes
-    *   Lindbergh
-    *   Unsimply Stitched Lounge &. More
     *   Sky Organics
     *   Bella II Fiore
     *   KitchenAid
     *   Organization Essentials Starting at $10
     *   Chop Chop: Cutlery &. More Starting at $10
-    *   LOVE Moschino Handbags
-    *   21 drops Essential Oil Therapy Under $25
-    *   Young Fabulous &. Broke
-    *   Dresses We Love Up to 70% Off
-    *   Denim Steals: Styles Under $50
-    *   Free Shipping: Hammocks &. More
-    *   Free Shipping: Picnic Essentials &. More from $16
-    *   Luma Italy Up to 75% Off
-    *   Spring Trend Earrings Under $25
-    *   Michael Todd Soniclear Cleansing Brush Up to 60% Off
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   Free Shipping: Accent Furniture Up to 65% Off
     *   Free Shipping: Mason Jar Candles &. More Under $25
+    *   LOVE Moschino Handbags
+    *   Jared Lang
+    *   Young Fabulous &. Broke
+    *   Luma Italy Up to 75% Off
+    *   Spring Trend Earrings Under $25
+    *   Aquatalia
+    *   Carlos by Carlos Santana Starting at $30
+    *   Rainbow Connection: The Accessory Shop Up to 60% Off
+    *   On Trend: 14K Gold Jewelry &. More
+    *   Boho-Chic Handbags
+    *   Handcrafted in Colombia: Mishky Jewelry
 *   WomenShop Sale Events
     
-    *   Maaji Swim
-    *   Michael Stars
-    *   Sperry
-    *   Ramy Brook Up to 70% Off
-    *   BLVD Starting at $16
+    *   Bailey 44
+    *   Feminine Flair: Dresses ft. Bardot
+    *   American Twist Under $40
+    *   14K Gold Jewelry Steals
+    *   Given Kale
+    *   Etienne Marcel
+    *   Dizzy Sandals &. More Starting at $20
+    *   Just Cavalli Watches Up to 65% Off
+    *   Shoe Closet Update: Floral Prints
+    *   Anuschka Hand-Painted Bags
+    *   On Trend: Sterling Silver &. More Up to 80% Off
+    *   Closet Staples: Shoes Starting at $30
+    *   Earth &. Earthies Footwear
+    *   Bliss Color Cosmetics at $10
+    *   Face Masks We Love Up to 85% Off
+    *   Sultry Staples: Lingerie &. Sleep Under $30
     *   Z By Zella
-    *   Nordstrom Rack Exclusive: Shoes
     *   Best of Nordstrom Rack: Jewelry Starting at $10
     *   SUSINA Incl. Special Sizes
+    *   Nordstrom Rack Exclusive: Shoes
     *   Nordstrom Rack Exclusive: Accessories Under $20
+    *   Maaji Swim
+    *   Sperry
+    *   Michael Stars
+    *   BLVD Starting at $16
     *   #GIVEBACKPACK: STATE Bags That Give Back
+    *   Ramy Brook Up to 70% Off
+    
     *   Jella C.
     *   Bed|Stu
     *   TARA Pearls Tahitian &. Akoya Pearl Jewelry
@@ -132,70 +146,52 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Algenist Skin Care
     *   Hair Tools We Love ft. BaBylissPRO
     *   True Religion
-    *   Aquatalia
-    *   Salvatore Ferragamo Sun &. Watches
-    *   Kendall &. Kylie
-    *   Carlos by Carlos Santana Starting at $30
-    *   Designer Deals: Timepieces for Her
-    
-    *   Spring Preview: Boho-Chic Dresses
-    *   Step into Spring: Shoes Starting at $25
-    *   Best of Italy: Handbags
     *   Lucky Brand Jewelry Under $30
     *   Caudalie
     *   Mirenesse Up to 75% Off
-    *   Travel in Style: Luggage Up to 75% Off
-    *   Rainbow Connection: The Accessory Shop Up to 60% Off
-    *   On Trend: 14K Gold Jewelry &. More
-    *   Boho-Chic Handbags
-    *   Handcrafted in Colombia: Mishky Jewelry
-    *   Frye
-    *   Frye Handbags &. Leather Accessories
     *   bareMinerals
-    *   Suzy Levian Jewelry
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Sky Organics
     *   Bella II Fiore
     *   LOVE Moschino Handbags
-    *   21 drops Essential Oil Therapy Under $25
     *   Young Fabulous &. Broke
-    *   Dresses We Love Up to 70% Off
-    *   Denim Steals: Styles Under $50
     *   Luma Italy Up to 75% Off
     *   Spring Trend Earrings Under $25
-    *   Michael Todd Soniclear Cleansing Brush Up to 60% Off
+    *   Aquatalia
+    *   Carlos by Carlos Santana Starting at $30
+    *   Rainbow Connection: The Accessory Shop Up to 60% Off
+    *   On Trend: 14K Gold Jewelry &. More
+    *   Boho-Chic Handbags
+    *   Handcrafted in Colombia: Mishky Jewelry
     
     Shop By Category
     *   Clothing
     *   Jewelry
     *   Shoes
     *   Handbags
-    *   Accessories
     *   Watches
-    *   Tech Accessories
+    *   Accessories
     *   Lingerie
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Just Cavalli Watches Up to 65% Off
+    *   Triple Five Soul
+    *   $100 &. Under: Florsheim
+    *   Indigo Star Starting at $20
     *   Nordstrom Rack Exclusive: Suits &. More
     *   Nordstrom Rack Exclusive: Men's Shoes
-    *   Jared Lang
     *   #GIVEBACKPACK: STATE Bags That Give Back
     *   Tailored Recreation Under $20
+    
     *   BC Collection
     *   True Religion Men
     *   Good Man Brand
     *   Jean Claude
     *   New Chukka Boots Under $100
-    
-    *   Travel in Style: Luggage Up to 75% Off
-    *   Frye Men
-    *   Frye Men's Accessories
     *   Onia
     *   Jack Spade
-    *   Robert Graham
-    *   Rag &. Bone Men's Shoes
-    *   Lindbergh
-    *   Unsimply Stitched Lounge &. More
+    *   Jared Lang
     
     Shop By Category
     *   Clothing
@@ -204,28 +200,28 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
-    *   Nordstrom Rack Exclusive: Harper Canyon
-    *   Z By Zella Girls
     *   Sperry Kids
     *   Maaji Girls' Swim
     *   True Religion Kids
+    *   Nordstrom Rack Exclusive: Harper Canyon
+    *   Z By Zella Girls
     *   Sophie Catalou
-    *   Wetsuit Club Swimwear
     *   Paulinie
-    *   Flow Society Kids Under $10
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Boys Sizes 8-20
     *   Girls Sizes 7-16
-    *   Baby Girl
     *   Boys Sizes 2T-7
+    *   Baby Girl
     *   Kids Accessories
-    *   Baby Boy
+    *   Boys Sizes 8-20
     *   Boys' Shoes
     *   Girls' Shoes
+    *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Faux Fur Rugs Up to 60% Off
+    *   Free Shipping: Bedding &. Throws Up to 60% Off
     *   Poo-Pourri Bathroom Scents
     *   Listen Up: Swarovski-Encrusted Earbuds &. More
     *   Free Shipping: Modern Furniture Under $200
@@ -235,32 +231,31 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Garden-Inspired Decor
     *   Stainless Steel Water Bottles Under $20
     *   Jonathan Adler
+    
     *   Free Shipping: NMK Bedding Steals
     *   Free Shipping: Amrapur Towels Up to 80% Off
-    
     *   Free Shipping: Budget-Friendly Rugs
     *   Free Shipping: Mid-Century Modern Furniture
     *   KitchenAid
     *   Organization Essentials Starting at $10
     *   Chop Chop: Cutlery &. More Starting at $10
-    *   Free Shipping: Hammocks &. More
-    *   Free Shipping: Picnic Essentials &. More from $16
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   Free Shipping: Accent Furniture Up to 65% Off
     *   Free Shipping: Mason Jar Candles &. More Under $25
     
     Shop By Category
     *   Home Decor
+    *   Bedding
     *   Kitchen &. Tabletop
     *   Accent Furniture
-    *   Bedding
     *   Bath
     *   Organization
-    *   Outdoor Living
-    *   Luggage &. Travel
     *   Rugs
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Bliss Color Cosmetics at $10
+    *   Face Masks We Love Up to 85% Off
     *   Algenist Skin Care
     *   Hair Tools We Love ft. BaBylissPRO
     *   Caudalie
@@ -269,12 +264,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Sky Organics
     *   Bella II Fiore
-    *   21 drops Essential Oil Therapy Under $25
-    *   Michael Todd Soniclear Cleansing Brush Up to 60% Off
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Hair Care
     *   Tools &. Accessories
     *   Bath &. Body
