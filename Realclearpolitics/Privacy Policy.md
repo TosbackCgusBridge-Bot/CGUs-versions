@@ -101,6 +101,8 @@
     *   About
     *   Media Kit
 
+*   _Cleta Mitchell_: Anita Hill a Poor Choice for Sexual Harassment Commission
+    
 *   _Baker &. Shear_: Another Shooting, Another Debate. Will Outcome Be the Same?
     
 *   _David Marcus_: Law Enforcement Failures Made Fla. Shooting Much Worse
@@ -146,8 +148,6 @@
 *   _Van Jones_: A Children's Crusade Jesus Would Be Proud Of
     
 *   _Stacy Washington_: Cities Need Solutions to Solve Homicide Epidemic
-    
-*   _Margaret Carlson_: The Law That Could Take Down Trump
     
 
 *   Previous
@@ -249,10 +249,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Gun Politics Stir Up Florida Midterm Races
-*   Trump Says Raise Age for Buying Assault Rifles, Defying NRA
-*   Loesch: I Couldn't Have Exited CNN Event Without Security Detail
 *   Redrawn Pa. Maps Add Uncertainty to Special Election
+*   Trump Urges Conservatives to Focus on 2018 Midterms
+*   Full Replay: President Trump Speaks at CPAC
+*   Gun Politics Stir Up Florida Midterm Races
 *   How Much Will Redrawn Pa. Map Affect the Midterms?
 *   Presidential Job Approval
 *   Cartoons of the Week
