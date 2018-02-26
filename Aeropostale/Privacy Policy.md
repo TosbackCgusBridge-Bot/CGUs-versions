@@ -24,7 +24,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
-*   Extended Sizes
+*   plus size
 *   Trending
 *   Clearance
 *   Live Love Dream
@@ -338,7 +338,7 @@ Menu Find a Store Aeropostale
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
-    *   Extended Sizes
+    *   plus size
     *   Trending
     *   Clearance
     *   Live Love Dream
