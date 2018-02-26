@@ -1,4 +1,4 @@
-close dialogPRESIDENTS' DAY SALE $9.99 for a year Subscribe close dialogSUBSCRIBE NOWto get full access
+SUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -143,5 +143,5 @@ Our Partners
 *   Classifieds
 *   Cars.com El Paso
 *   The Job Network
-
-close dialog$999 for a year SubscribeNot Looking to Subscribe Right Nowclose dialogclose dialogPRESIDENTS' DAY SALE $9.99 for a year Subscribe close dialog
+*   Thanksgiving.com
+*   Grateful
