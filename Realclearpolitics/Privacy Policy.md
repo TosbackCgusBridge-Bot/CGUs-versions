@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalCNN
+    *   Approve39
+    *   Disapprove56Disapprove +17
+*   President Trump Job ApprovalUSA Today/Suffolk
+    *   Approve38
+    *   Disapprove60Disapprove +22
 *   President Trump Job ApprovalMarist
     *   Approve40
     *   Disapprove53Disapprove +13
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve50
     *   Disapprove49Approve +1
-*   2018 Generic Congressional VoteMarist
-    *   Democrats46
-    *   Republicans39Democrats +7
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve45
-    *   Disapprove55Disapprove +10
 
 More Latest Polls In The News
 
-*   Trump: Teachers Love Their Students, Need Guns To Protect Them From "Cowards," "Lunatics"
-*   NRA's Dana Loesch vs. CNN's Alisyn Camerota: "You Think We Love Mass Shootings?"
-*   FL Shooting Survivor: Networks Don't Want Us To Give Our Real Opinions, "Want Us To Further Their Agendas"
-*   FL Survivor Colton Haab: CNN Told Me I Needed To "Stick To The Script". Entire Town Hall Scripted
-*   Bret Stephens: Repeal Second Amendment. Restrictions On "So-Called" Gun Rights Imperative For Safety
+*   FL Shooting Survivor Kyle Kashuv: "Virtue-Signaling" Sheriff Must Resign. Agenda Moving Toward Ban Weapons
+*   Nunes: Only House Of Representatives Has Power To Unravel "Shenanigans" Of Corrupt Democrats
+*   Parkland Shooting Victim Father: It Is Not About Gun Control, It Is About Safety In Schools
+*   Stoneman Douglas Shooting Survivor David Hogg Thanks Online Conspiracy Trolls For Raising His Profile
+*   Mona Charen Faced With Jeers At CPAC For Criticizing "Hypocrisy" Over Trump, Roy Moore Allegations
 
 *   Politics
 *   Policy
