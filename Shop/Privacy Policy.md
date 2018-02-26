@@ -275,7 +275,9 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   Stylish, Dependable and Affordable PCs
+    *   *   Employee Appreciation Day
+            
+        *   Stylish, Dependable and Affordable PCs
             
         *   Monitor Deals
             
