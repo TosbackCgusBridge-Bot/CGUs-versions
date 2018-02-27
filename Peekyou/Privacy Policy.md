@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 16%  8% 
+What is PeekScore? Public Records &. Background Checks 17%  7% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 16%  8% 
     
 *   Show Less ...
 
-16%  16%  Arrest Records &. Driving Infractions
+17%  17%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 8% 
+Facebook 7% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 8% 
     
 *   Show Less ...
 
-Twitter 8% 
+Twitter 7% 
 
 *   Justice Department - TheJusticeDept
     
@@ -259,7 +259,7 @@ Twitter 8% 
     
 *   Show Less ...
 
-Instagram 8% 
+Instagram 7% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -277,11 +277,9 @@ Instagram 8% 
     
 *   Рогов Хуго - privacypolicy
     
-*   Private - \_privacypolicy\_\_
-    
-*   Privacy Policy❌☠️ - prv.kennochakt
-    
 *   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
+    
+*   Private - \_privacypolicy\_\_
     
 *   Ray - terms\_privacy\_\_policy\_\_
     
@@ -291,6 +289,8 @@ Instagram 8% 
     
 *   Privacy Policy - privacypolicy7229
     
+*   Privacy Policy❌☠️ - prv.kennochakt
+    
 *   Privacy Policy games - privacypolicygames3589
     
 *   PrivacyPolicy - privacypolicy.3245
@@ -298,6 +298,8 @@ Instagram 8% 
 *   Phil Swift - privacypolicy\_1
     
 *   police instagram - privacy\_\_policy\_\_
+    
+*   Djavid Johnson - \_privacy\_policy
     
 *   PrivacyPolicy - privacypolicy4020
     
@@ -317,13 +319,13 @@ Instagram 8% 
     
 *   Privacy Policy - activesafeaccount2k15\_
     
-*   Loading... - privacy.policy\_\_
+*   Privacy Policy - striker67338
     
-*   Privacy Policy - mrprivacypolicy
+*   Loading... - privacy.policy\_\_
     
 *   Show Less ...
 
-Pinterest 16%  Wikipedia 8% 
+Pinterest 17%  Wikipedia 7% 
 
 *   P3P
     
@@ -334,7 +336,7 @@ Pinterest 16%  Wikipedia 8% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 8% 
+Google+ 7% 
 
 *   Expedia - Google+
     
@@ -360,7 +362,7 @@ Google+ 8% 
     
 *   Show Less ...
 
-Linkedin 16%  Music 8% 
+Linkedin 17%  Music 7% 
 
 *   Pandora
     
@@ -406,7 +408,7 @@ Linkedin 16%  Music 8% 
     
 *   Show Less ...
 
-Photo Albums 8% 
+Photo Albums 7% 
 
 *   Flickriver
     
@@ -421,7 +423,7 @@ Photo Albums 8% 
     Missouri Department of Transportation Central Office 105 W. Capitol Avenue Jefferson City, MO 65102 1-888-ASK-MODOT (275-6636) 1-866-831-6277 (Motor Carrier Services)
     
 
-Myspace 8% 
+Myspace 7% 
 
 *   Privacy Policy - 49086242
     
@@ -445,7 +447,7 @@ Myspace 8% 
     
 *   Show Less ...
 
-Documents 8% 
+Documents 7% 
 
 *   Privacy Policy - Google
     
@@ -489,7 +491,7 @@ Documents 8% 
     
 *   Show Less ...
 
-Web Search 8% 
+Web Search 7% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -535,13 +537,13 @@ Web Search 8% 
     
 *   Show Less ...
 
-Images 8% 
+Images 7% 
 
 9
 
 20
 
-29
+30
 
 facebookx
 
