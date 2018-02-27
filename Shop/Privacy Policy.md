@@ -322,15 +322,15 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers ALL NEW THINKPAD T480s
+Home >. Filter by specs Offers Different innovates better
 
-Powerful processing, superb graphics, and Dolby® Audio Premium™ take functional efficiency to new heights. Now available.
+EXPLORE MWC >.
 
-Shop Now>.
+DESKTOP DEALS
 
-Durable Vibrant Corning® Gorilla® Glass Covers
+LENOVO DESKTOPS GO DAY TO NIGHT. THINKCENTRE ROCKS YOUR WORKDAY AND IDEACENTRE ALL-IN-ONES KEEP YOU GOING AT HOME.
 
-CHOOSE HOW YOU’LL ROCK THE RUNWAY >>.
+Shop now >.
 
 Water-cooled to perform
 
@@ -358,7 +358,7 @@ TAB 4 10 PLUS ADDS IT ALL
 
 Super sound. Separate user accounts. And simply dazzling visuals.
 
-EXPLORE AUGMENTED AND VIRTUAL REALITY
+Awaken your inner Jedi with a new smartphone-powered augmented reality experience.
 
 LAPTOPS
 
@@ -398,7 +398,7 @@ STAY CONNECTED
 *   Flickr
 *   Lenovo Forums
 
-Laptops Tablets Desktops Servers Deals Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
+Laptops Desktops Tablets Servers Deals Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
 
 *   ABOUT LENOVO
     *   Our Company
@@ -469,9 +469,7 @@ Laptops Tablets Desktops Servers Deals Select Country/Region AlgeriaAngolaArgent
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new window
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
