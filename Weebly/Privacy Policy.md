@@ -75,10 +75,10 @@ IP addresses, browser and session information. IP addresses, browser and session
 
 Marketing Communications. By using our Service, you agree to receive marketing communications from us or any of our partners. To the extent you have not already done so during sign-up, you may select not to receive from Weebly or any of our partners certain emails related to marketing, promotions, sweepstakes, contests, or newsletters by following the unsubscribe instructions included in these emails or by unsubscribing here. You may also notify us through our help center, by email at privacy@weebly.com or by mail at:
 
-*   Attention: Legal - Privacy
-*   Weebly, Inc.
-*   460 Bryant St., #100
-*   San Francisco, California 94107 USA.
+Attention: Legal - Privacy  
+Weebly, Inc.  
+460 Bryant St., #100  
+San Francisco, California 94107 USA
 
 Phone Calls and Messages.  By providing us your phone number, you are consenting to us or our partners contacting you via autodialed or prerecorded calls/messages and you understand that providing your number is not a condition of purchasing any Weebly product or service.  Weebly may contact you at any telephone number you have provided us, including phone numbers you have made publically available on your Weebly website(s) for:
 
@@ -110,10 +110,10 @@ Research, Promotions, Sweepstakes and Contests. From time to time, Weebly or a p
 
 Third Party Marketing. Weebly may share anonymized and/or aggregated information with third parties for their marketing, advertising, promotion, or other uses. In addition, from time to time we may share your personal information with third parties who want to promote goods and / or services that we think would be of interest to you. If you want us to stop sharing your contact infomration with third parties, you may notify us through our help center, by email at privacy@weebly.com or by mail at:
 
-*   Attention: Legal - Privacy
-*   Weebly, Inc.
-*   460 Bryant St., #100
-*   San Francisco, California 94107 USA.
+Attention: Legal - Privacy  
+Weebly, Inc.  
+460 Bryant St., #100  
+San Francisco, California 94107 USA
 
 In the Event of Merger or Sale. As we continue to develop our business, we may also buy or sell all or part of our business. In such transactions, personal information you have shared with us is generally one of the business assets that will be transferred. The transferred personal information will remain subject to the promises made in this privacy notice or subsequent notices to which you have consented. If Weebly is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
@@ -190,6 +190,8 @@ Weebly, Inc.
 San Francisco, California 94107 USA
 
 Change Log:
+
+**February 9, 2018:** Changes were made to this policy to add additional disclosures for how we use your information in Section 4 (marketing communications).
 
 **November** **06** **, 2017:** Changes were made to update this notice in accordance with Swiss-US Privacy Shield and to add additional disclosures for (i) Weebly data processing, (ii) our U.S. education users, (iii) information we collect in Section 2, and (iv) how we use your information in Section 4 (marketing communications and Referral Program changes).
 
