@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms January was 5th warmest on record for the globe Arctic and Antarctic sea ice coverage remain at record, near-record lows AROUND NOAA // Featured photo: Last call at the South Pole, for now Launching soon: 5 reasons GOES-S will be a game-changer for weather forecasts In a warming Arctic, rising ship traffic demands better sea ice forecasts
+Enter Search Terms Countdown to launch: GOES-S satellite readies for liftoff from Kennedy Space Center See when and where you can watch the live event AROUND NOAA // Launching soon: 5 reasons GOES-S will be a game-changer for weather forecasts January was 5th warmest on record for the globe Featured photo: Last call at the South Pole, for now
 
 *   About our agency
 *   News and features
