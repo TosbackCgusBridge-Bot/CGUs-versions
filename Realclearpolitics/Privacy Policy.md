@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Cleta Mitchell_: Anita Hill a Poor Choice for Sexual Harassment Commission
+*   _Charlie Campbell_: China's One-Man Rule Under Xi Jinping Should Worry Us All
     
-*   _Baker &. Shear_: Another Shooting, Another Debate. Will Outcome Be the Same?
+*   _David Marcus_: It's High Time for the Broward County Sheriff to Resign
     
-*   _David Marcus_: Law Enforcement Failures Made Fla. Shooting Much Worse
+*   _Charles Blow_: America Is the Gun
     
-*   _Chris Cillizza_: Proof That a Good Guy With a Gun Doesn't Always Stop Bad Guy
+*   _Andrew Pollack_: It's Not About Guns, It's About Safety in Schools
     
-*   _James Arkin_: Trump Unloads at CPAC, Urges Activists to Focus on Midterms
+*   _Alia Wong_: The Parkland Students Aren't Going Away
     
-*   _Tom Perez_: Dems Won Big in 2017, and We're Only Just Beginning
+*   _Thomas Lipscomb_: Was 'Cowardly' Fla. Deputy Told to Wait for Backup?
     
-*   _Paul Sperry_: Another Way Obama's Spies Exploited the Anti-Trump Dossier
+*   _Deroy Murdock_: The Russians Colluded Massively--With Democrats
     
-*   _Abigail Tracy_: Mueller Tightens the Noose, and Breaks Rick Gates
+*   _Susan Glasser_: The Man Who Could Lead Impeachment Push vs. Trump
     
-*   _Franklin Graham_: Billy Graham's New Home
+*   _Alan Crawford_: Tucker Carlson: Primetime's Populist Paladin
     
-*   _Andrew Sullivan_: The Poison We Pick
+*   _Jeffrey Goldberg_: The Chasm Between Racial Optimism and Reality
     
-*   _Lee Drutman_: Don't Mourn the End of Objective Journalism
+*   _Larry Elder_: Let's Not Pretend It's Still 1947 on Race Issues
     
-*   _Alex Berezow_: Hey, CNN, There's Nothing Cool About Socialism
+*   _Charles Homans_: Does Trump Job Approval Tell Us About Him, or Us?
     
-*   _Heather Wilhelm_: Gun Politics, Twitterized
+*   _Andrew McCarthy_: Schiff Memo Harms Obama Admin More Than It Helps
     
-*   _Eugene Robinson_: Trump &. GOP Won't Act on Gun Control. So We Must.
+*   _Natasha Bertrand_: Dem Memo Undercuts Republican Complaints About FBI
     
-*   _John Podhoretz_: Gun Control Activists Need to Learn a Little Sympathy
+*   _Ned Ryun_: Gun Control Virtue Signaling vs. Real Solutions for School Safety
     
-*   _Thomas Frank_: Russian Bots Are on the March. Take Cover, Quick!
+*   _Katha Pollitt_: Has the NRA Finally Met Its Match?
     
-*   _Victor Davis Hanson_: The Paradoxes of the Mueller Investigation
+*   _Arkin &. Huey-Burns_: Republicans Divided in Responses to Gun Proposals
     
-*   _Stuart Heritage_: Homer Simpson Is a Republican. He's Also an Idiot
+*   _Marc Thiessen_: Success of Tax Cuts Could Be Fatal for Dems in 2018
     
-*   _Tom Bevan_: The Takeaway: The Most Hated Man in Washington
+*   _David Catanese_: Dem Governors Aim to Ride an Anti-Trump Wave
     
-*   _Sarah Jaffe_: The New Working Class
+*   _Alex Azar_: Short-Term Plans Are an Affordable Alternative to Obamacare
     
-*   _Matthew Continetti_: American Populism: A User's Guide
+*   _Ezra Klein_: America's 3 Infrastructure Problems
     
-*   _David Harsanyi_: CNN's Shameful Town Hall Is a Clarifying Moment on Guns
+*   _Richard Brookhiser_: How Trump and His Admirers Destroyed Conservatism
     
-*   _Van Jones_: A Children's Crusade Jesus Would Be Proud Of
+*   _Henry Olsen_: Trump May Have Saved Conservativism, Not Killed It
     
-*   _Stacy Washington_: Cities Need Solutions to Solve Homicide Epidemic
+*   _James Warren_: Are Google and Facebook Monopolies?
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Redrawn Pa. Maps Add Uncertainty to Special Election
+*   Republicans Divided in Responses to Gun Proposals
+*   Was "Cowardly" Fla. Deputy Told to Wait for Backup?
+*   Broward Sheriff Says He Has Provided "Amazing" Leadership
 *   Trump Urges Conservatives to Focus on 2018 Midterms
-*   Full Replay: President Trump Speaks at CPAC
-*   Gun Politics Stir Up Florida Midterm Races
-*   How Much Will Redrawn Pa. Map Affect the Midterms?
+*   Redrawn Pa. Maps Add Uncertainty to Special Election
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalCNN
+*   President Trump Job ApprovalGallup
     *   Approve39
     *   Disapprove56Disapprove +17
-*   President Trump Job ApprovalUSA Today/Suffolk
-    *   Approve38
-    *   Disapprove60Disapprove +22
-*   President Trump Job ApprovalMarist
-    *   Approve40
-    *   Disapprove53Disapprove +13
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
+    *   Approve49
+    *   Disapprove49Tie
+*   2018 Generic Congressional VoteCNN
+    *   Democrats54
+    *   Republicans38Democrats +16
+*   Direction of CountryRasmussen Reports
+    *   Right Direction37
+    *   Wrong Track56Wrong Track +19
 
 More Latest Polls In The News
 
+*   WA Gov. Jay Inslee Challenges Trump Plan To Arm Teachers: "Less Tweeting, More Listening"
+*   Full Replay: President Trump Hosts Meeting On Gun Safety With Governors, Cabinet
 *   FL Shooting Survivor Kyle Kashuv: "Virtue-Signaling" Sheriff Must Resign. Agenda Moving Toward Ban Weapons
 *   Nunes: Only House Of Representatives Has Power To Unravel "Shenanigans" Of Corrupt Democrats
 *   Parkland Shooting Victim Father: It Is Not About Gun Control, It Is About Safety In Schools
-*   Stoneman Douglas Shooting Survivor David Hogg Thanks Online Conspiracy Trolls For Raising His Profile
-*   Mona Charen Faced With Jeers At CPAC For Criticizing "Hypocrisy" Over Trump, Roy Moore Allegations
 
 *   Politics
 *   Policy
