@@ -20,14 +20,17 @@ Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   Death Wish (2018)
-    *   Red Sparrow
-    *   Dance Academy: The Comeback
-    *   Did You Wonder Who Fired the Gun?
-    *   Foxtrot
-    *   Oh Lucy!
-    *   Souvenir (2018)
-    *   Submission (2018)
+    *   Annihilation
+    *   Every Day (2018)
+    *   Game Night (2018)
+    *   The Cured
+    *   Curvature
+    *   Death House
+    *   Hannah (2018)
+    *   The Lodgers
+    *   November (2018)
+    *   Operation Red Sea
+    *   Survivors Guide to Prison
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -42,7 +45,7 @@ Gift Cards | Offers | Sign In Sign Out
     *   Tomb Raider (2018)
     *   I Can Only Imagine
     *   Love, Simon
-    *   Pacific Rim: Uprising
+    *   Pacific Rim: Uprising (2018)
     *   Sherlock Gnomes
     *   Paul, Apostle of Christ
     *   See All Coming Soon
@@ -73,8 +76,8 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Gary Oldman Teases 'Darkest Hour' Sequel and a Winston Churchill Play Read More
-    *   The Week in Movie News: 'Black Panther,' Jessica Chastain and More Read More
-    *   Movie News: Luke Skywalker Rumored to Have a Wife Read More
+    *   Movie News: Where 'Solo' Fits in the 'Star Wars' Timeline Read More
+    *   Superhero Buzz: 'Silver Surfer' Movie. 'The Rocketeer' Animated Series Read More
     
     Explore Content
     *   Movie Reviews
@@ -285,7 +288,7 @@ New + Coming soon
 *   Red Sparrow
 *   A Wrinkle in Time
 *   Tomb Raider (2018)
-*   Pacific Rim: Uprising
+*   Pacific Rim: Uprising (2018)
 *   Ready Player One
 *   Avengers: Infinity War
 *   Solo: A Star Wars Story
