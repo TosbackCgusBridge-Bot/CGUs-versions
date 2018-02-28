@@ -32,13 +32,11 @@ SHOP DEPARTMENTS
 *   My List
 *   Coupons
 
-Store Nearest YouNorthfld @ Stapleton Select My Store Find a StoreBack DAY 1 OF COUPON CODE FORYOU67 ENDS IN
+Store Nearest YouNorthfld @ Stapleton Select My Store Find a StoreBack DAY 2 OF COUPON CODE FORYOU67 ENDS IN
 
 \*Offer ends on 3/1/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 5 5 8 8 secs
-
-60% OFF WITH CODE FORYOU67SHOP ALL60% OFF WITH CODE FORYOU67SHOP ALL
+Days 0 0 0 0 hours 4 4 0 0 mins 3 3 2 2 secs 60% OFF WITH CODE FORYOU67SHOP ALL60% OFF WITH CODE FORYOU67SHOP ALL
 
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
@@ -47,7 +45,7 @@ Days 0 0 0 0 hours 4 4 0 0 mins 5 5 8 8 secs
     Home Expressions™ Emma Quilt(279)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
-    $260 - $300
+    $280 - $300
     
     Home Expressions Cooper 10-pc. Comforter Set(22)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
@@ -57,14 +55,14 @@ Days 0 0 0 0 hours 4 4 0 0 mins 5 5 8 8 secs
     Home Expressions™ Everly Bedspread(225)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
-    $260 - $300
-    
-    Home Expressions Hampton 10-pc. Comforter set(65)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: FORYOU67
-    
     $180 - $240
     
     Home Expressions Zion 7-pc. Comforter Set(19)Add To Cart
+*   BUY MORE AND SAVE WITH CODE: FORYOU67
+    
+    $260 - $300
+    
+    Home Expressions Hampton 10-pc. Comforter set(65)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
     $180 - $240
@@ -87,14 +85,14 @@ Days 0 0 0 0 hours 4 4 0 0 mins 5 5 8 8 secs
     Home Expressions Genevieve 7-pc. Comforter Set(31)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
-    $110 - $170
-    
-    Home Expressions Tiles Complete Bedding Set with Sheets(188)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: FORYOU67
-    
     $180 - $240
     
     Home Expressions Gold Reversible 7-pc. Comforter Set(17)Add To Cart
+*   BUY MORE AND SAVE WITH CODE: FORYOU67
+    
+    $110 - $170
+    
+    Home Expressions Tiles Complete Bedding Set with Sheets(188)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
     $260 - $300
@@ -102,15 +100,17 @@ Days 0 0 0 0 hours 4 4 0 0 mins 5 5 8 8 secs
     Home Expressions Arden 10-pc. Comforter Set(11)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
+    $110 - $170
+    
+    Home Expressions Paris Complete Bedding Set with Sheets(85)Add To Cart
+*   BUY MORE AND SAVE WITH CODE: FORYOU67
+    
     $260 - $300
     
     Home Expressions Gretchen 10-pc. Comforter Set(63)Add To Cart
-*   $150 - $200
-    
-    Home Expressions Fairview Patchwork Quilt(129)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
-    $180 - $240
+    $200 - $240
     
     Home Expressions Newport 7-pc. Comforter Set(81)Add To Cart
 
@@ -156,43 +156,41 @@ UP TO 50% BABY SALESHOP ALLUP TO 50% BABY SALESHOP ALL
     was $22
     
     Carter's Little Baby Basics Girl Turn-Me-Around Set(547)Add To Cart
-*   $9.99 sale
-    
-    was $20
-    
-    Carter's 2-pc. Pant Set Baby Boys(6)Add To Cart
 *   $15.99 sale
     
     was $26
     
     Carter's 3-pc. Short Set Baby Girls(2)Add To Cart
-*   $8.99 sale
-    
-    was $14
-    
-    Carter's Baby Creeper - Baby(11)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $5.99 sale
-    
-    was $18
-    
-    Carter's Long Sleeve Jumpsuit - Baby(43)Add To Cart
-*   $9.99 sale
-    
-    was $20
-    
-    Carter's 2-pc. Legging Set-Baby Girls(8)Add To Cart
 *   $11.99 sale
     
     was $24
     
     Carter's 2-pc. Layette Set-Baby Girls(47)Add To Cart
-*   $14.99 sale
+*   $9.99 sale
     
-    was $30
+    was $20
     
-    Carter's 3-pc. Stripe Pant Set Baby Girls(36)Add To Cart
+    Carter's 2-pc. Legging Set-Baby Girls(8)Add To Cart
+*   $9.99 sale
+    
+    was $20
+    
+    Carter's 2-pc. Pant Set Baby Boys(6)Add To Cart
+*   $12.99 sale
+    
+    was $24
+    
+    Carter's 2-pc. Short Set Baby Boys(2)Add To Cart
+*   $8.99 sale
+    
+    was $14
+    
+    Carter's Baby Creeper - Baby(11)Add To Cart
+*   $10.99 sale
+    
+    was $22
+    
+    Carter's Little Baby Basics Girl 2-Pack Pants(152)Add To Cart
 
 60% OFF WITH CODE FORYOU67 JRS DENIMSHOP ALL60% OFF WITH CODE FORYOU67 JRS DENIMSHOP ALL
 
@@ -220,12 +218,17 @@ UP TO 50% BABY SALESHOP ALLUP TO 50% BABY SALESHOP ALL
     
     $42
     
+    Arizona Jeggings-Juniors(90)Add To Cart
+*   BUY MORE AND SAVE WITH CODE: FORYOU67
+    
+    $42
+    
     Arizona Destructed Skinny Fit Jean-Juniors(26)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
     $42
     
-    Arizona Jeggings-Juniors(90)Add To Cart
+    Arizona Ankle Jeggings-Juniors(5)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
     $42
@@ -238,14 +241,14 @@ UP TO 50% BABY SALESHOP ALLUP TO 50% BABY SALESHOP ALL
     Arizona Jeggings-Juniors(24)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
-    $42
-    
-    Arizona Ankle Jeggings-Juniors(5)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: FORYOU67
-    
     $49
     
     Arizona Super High Rise Slim Fit Jeggings-Juniors(4)Add To Cart
+*   BUY MORE AND SAVE WITH CODE: FORYOU67
+    
+    $54
+    
+    Arizona Destructed Skinny Fit Jeggings-Juniors(1)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
     $49
@@ -253,24 +256,19 @@ UP TO 50% BABY SALESHOP ALLUP TO 50% BABY SALESHOP ALL
     Arizona High Rise Super Slim Fit Jeggings-Juniors(1)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
-    $49
-    
-    Arizona Destructed Jeggings-Juniors(11)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: FORYOU67
-    
-    $49
-    
-    Arizona Jeggings-Juniors Plus(1)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: FORYOU67
-    
     $42
     
     Arizona Slit Knee Jeggings-Juniors(10)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: FORYOU67
     
-    $42
+    $54
     
-    Arizona Curvy Skinny Jean-Juniors(95)Add To Cart
+    Arizona Skinny Fit Jean-Juniors(8)Add To Cart
+*   BUY MORE AND SAVE WITH CODE: FORYOU67
+    
+    $49
+    
+    Arizona Destructed Jeggings-Juniors(11)Add To Cart
 
 30% OFF DRESSESSHOP ALL30% OFF DRESSESSHOP ALL
 
@@ -284,25 +282,11 @@ UP TO 50% BABY SALESHOP ALLUP TO 50% BABY SALESHOP ALL
     was $60
     
     Studio 1 3/4 Sleeve Paisley Puff Print Shift Dress(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $15.99 sale
-    
-    was $54
-    
-    Project Runway Long Sleeve Stripe Bodycon Dress(16)Add To Cart
 *   $49.99 sale
     
     was $74
     
     Ronni Nicole Short Sleeve Lace Hanky Hem Fit &. Flare DressAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $16.20 - $29.99 sale
-    
-    was $54
-    
-    Bold Elements Long Sleeve Cold Shoulder Lace Bodycon Dress(1)Add To Cart
 *   $39.99 sale
     
     was $60
@@ -312,12 +296,17 @@ UP TO 50% BABY SALESHOP ALLUP TO 50% BABY SALESHOP ALL
     
     was $74
     
+    Ronni Nicole Short Sleeve Lace Medallion Fit &. Flare DressAdd To Cart
+*   $49.99 sale
+    
+    was $74
+    
     Danny &. Nicole Elbow Sleeve Dots Fit &. Flare Dress(2)Add To Cart
-*   $59.99 sale
+*   $49.99 sale
     
-    was $89
+    was $74
     
-    Melrose Sleeveless Floral Maxi DressAdd To Cart
+    R &. K Originals Elbow Sleeve Shift DressAdd To Cart
 *   $49.99 sale
     
     was $74
@@ -328,31 +317,36 @@ UP TO 50% BABY SALESHOP ALLUP TO 50% BABY SALESHOP ALL
     was $50
     
     MSK 3/4 Sleeve Shift Dress(2)Add To Cart
-*   $49.99 sale
+*   $59.99 sale
     
-    was $74
+    was $89
     
-    R &. K Originals Elbow Sleeve Shift DressAdd To Cart
-*   $49.99 sale
-    
-    was $74
-    
-    Ronni Nicole Short Sleeve Lace Medallion Fit &. Flare DressAdd To Cart
+    Melrose Sleeveless Floral Maxi DressAdd To Cart
 *   $59.99 sale
     
     was $89
     
     Perceptions Elbow Sleeve Jacket DressAdd To Cart
+*   $39.99 sale
+    
+    was $60
+    
+    Liz Claiborne 3/4 Sleeve Medallion Shift Dress(3)Add To Cart
 *   $59.99 sale
     
     was $89
     
     Perceptions 3/4 Sleeve Beaded Neck Jacket DressAdd To Cart
-*   $34.99 sale
+*   $49.99 sale
     
-    was $50
+    was $74
     
-    Alyx Sleeveless Floral Sheath Dress(1)Add To Cart
+    London Style Sleeveless Pattern Maxi DressAdd To Cart
+*   $59.99 sale
+    
+    was $89
+    
+    Perceptions Elbow Sleeve Lace Jacket Dress(1)Add To Cart
 
 BUY 1 GET 1 40% OFF AMBRIELLE BRASSHOP ALLBUY 1 GET 1 40% OFF AMBRIELLE BRASSHOP ALL
 
@@ -362,9 +356,6 @@ BUY 1 GET 1 40% OFF AMBRIELLE BRASSHOP ALLBUY 1 GET 1 40% OFF AMBRIELLE BRASSHOP
 *   $39
     
     Ambrielle Limited Edition Lace Underwire Full Coverage Bra(4)Add To Cart
-*   $32
-    
-    Ambrielle® Cotton-Blend Demi Bra(168)Add To Cart
 *   $14
     
     Ambrielle Smoothing Solutions Wireless Bralette-141373(110)Add To Cart
@@ -374,9 +365,6 @@ BUY 1 GET 1 40% OFF AMBRIELLE BRASSHOP ALLBUY 1 GET 1 40% OFF AMBRIELLE BRASSHOP
 *   $38 - $39
     
     Ambrielle Underwire Push Up Plunge Bra(10)Add To Cart
-*   $38
-    
-    Ambrielle® Everyday Full-Figure Cotton Full-Coverage Bra(16)Add To Cart
 *   $32
     
     Ambrielle Underwire Demi Bra(8)Add To Cart
@@ -386,39 +374,45 @@ BUY 1 GET 1 40% OFF AMBRIELLE BRASSHOP ALLBUY 1 GET 1 40% OFF AMBRIELLE BRASSHOP
 *   $14
     
     Ambrielle Smoothing Solutions Wireless Bandeau Strapless Bra-114345(49)Add To Cart
-*   $39 - $40
+*   $38
     
-    Ambrielle Wireless Bralette-8518(4)Add To Cart
+    Ambrielle® Everyday Full-Figure Cotton Full-Coverage Bra(16)Add To Cart
 *   $38
     
     Ambrielle Everyday Full Coverage Sparkle Bra(22)Add To Cart
 *   $38
     
     Ambrielle Underwire Balconette Bra-92496(238)Add To Cart
+*   $39 - $40
+    
+    Ambrielle Wireless Bralette-8518(4)Add To Cart
 *   $40
     
     Ambrielle Underwire Sports Bra-Tbd(116)Add To Cart
+*   $40
+    
+    Ambrielle® Active Cross-Trainer Sports Bra(110)Add To Cart
 *   $40 - $42
     
     Ambrielle® Everyday Full-Figure Full-Coverage Bra(290)Add To Cart
 
 Top Sellers
 
-*   Royal Velvet® Luxury Egyptian Cotton Loops 6-pc. Bath Towel Set(172)
-*   Worthington Long Sleeve V Neck Woven Blouse(3)
-*   Arizona Flex Slim Straight Jeans(223)
-*   Liz Claiborne Gemma Womens Heeled Sandals(8)
-*   Xersion Graphic T-Shirt Girls 4-16 and Plus(2)
 *   JCPenney Home™ Ultima Bath Rug Collection(686)
-*   Xersion Studio Front Tie Tee(2)
-*   Arizona Basic Original Straight Jeans(1697)
-*   City Streets Solstice Girls Slide Sandals - Little Kids/Big Kids
-*   Arizona Short Sleeve Hi Low Lace Inset Top - Girls 4-16 &. Plus
+*   ana Scoop Neck Tee(11)
+*   Arizona Short Sleeve Crew Neck T-Shirt(420)
+*   Pop Highbar Womens Sneakers(123)
+*   Nike® Dri-FIT Acceler8 Shorts - Boys 8-20(18)
+*   JCPenney Home™ 300tc 100% Cotton Ultra Soft Solid Sheet Set(112)
+*   St. John's Bay® Secretly Slender Straight-Leg Jeans(1115)
+*   Arizona Basic Original Straight Jeans(1698)
+*   St. John's Bay Nexter Womens Loafers(23)
+*   Okie Dokie Graphic T-Shirt-Toddler Boys
 *   Xersion Short Sleeve V Neck T-Shirt-Womens(949)
-*   Arizona Schoolgirl Bootcut Pants-Juniors(835)
+*   Arizona Bootcut Jeans-Juniors(340)
 *   Arizona Flex Relaxed-Fit Straight Jeans(372)
-*   City Streets Cara Womens Ballet Flats(94)
-*   Arizona Relaxed-Fit Jeans - Boys 4-20, Slim and Husky(600)
+*   Liz Claiborne Warwick Womens Sneakers(218)
+*   City Streets Anti Bully Tee - Girls' 4-16 and Plus(4)
 
 Shop and Save at JCPenney
 
