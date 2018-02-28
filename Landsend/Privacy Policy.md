@@ -769,9 +769,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 30% off 1 full-price item!
 
-code: RAIN pin: 5430 DETAILS
+code: BREEZY pin: 6201 DETAILS
 
 Customer Service Menu
 
