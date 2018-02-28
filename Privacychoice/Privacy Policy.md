@@ -2,7 +2,7 @@
 
 www.avg.com uses cookies to personalize your experience and help us improve content. Change your settings
 
-OK Log in to AVG MyAccount MENU Skip to content Close
+OK Log in to AVG MyAccount Blog MENU Skip to content Close
 
 *   PC
     *   The Best
