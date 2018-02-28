@@ -300,6 +300,7 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Privacy Policy
 *   Anti-Spam Policy
 *   Security Statement
+*   GDPR Compliance
 *   Email Opt-In
 *   Accessibility
 
