@@ -473,54 +473,49 @@ If you have any questions or comments concerning our Privacy Policy, please Cont
 *   **Flipboard**
 *   **Email**
 
-NPR thanks our sponsors
+Read &. Listen
 
-Become an NPR sponsor
-
-*   Homepage
+*   Home
 *   News
-    *   National
-    *   World
-    *   Politics
-    *   Business
-    *   Technology
-    *   Science
-    *   Health
-    *   Race &. Culture
-    *   Education
 *   Arts &. Life
-    *   Books
-    *   Movies
-    *   Pop Culture
-    *   Food
-    *   Art &. Design
-    *   Performing Arts
-    *   Photography
 *   Music
-    *   First Listen
-    *   Songs We Love
-    *   Music Articles
-    *   Tiny Desk
-    *   Videos
+*   Podcasts
 *   Programs
-*   About
-    *   NPR Overview
-    *   NPR Finances
-    *   People at NPR
-    *   Support NPR
-    *   Visit NPR
-    *   Press Room
-    *   NPR Extra Blog
-    *   Careers at NPR
-    *   Corrections
-    *   NPR Ombudsman
-    *   Permissions
 
-*   Help
+Connect
+
+*   Newsletters
+*   Facebook
+*   Twitter
+*   Instagram
 *   Contact
+*   Help
+
+About NPR
+
+*   Overview
+*   Finances
+*   People
+*   Press
+*   Ombudsman
+*   Corrections
+
+Get Involved
+
+*   Support Public Radio
+*   Sponsor NPR
+*   NPR Careers
+*   NPR Shop
+*   NPR Events
+*   Visit NPR
+
 *   Terms of Use
 *   Privacy
 *   Sponsorship Choices
 *   Text Only
+
+NPR thanks our sponsors
+
+Become an NPR sponsor
 
 <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/824814092/?guid=ON&amp;script=0"/>. </div><iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe>
