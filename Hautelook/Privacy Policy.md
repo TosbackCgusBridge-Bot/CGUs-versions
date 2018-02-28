@@ -8,9 +8,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Sam Edelman
+    *   Why Dress
+    *   Seven7
+    *   ASTR the Label
+    *   Velvet by Graham &. Spencer
+    *   Le Creuset
+    *   Free Shipping: Modern Rugs Up to 90% Off
+    *   LED Lighting &. More Starting at $10
+    *   Free Shipping: Statement Art &. More from $14
+    *   Textural Touches: Decor &. More from $13
+    *   Sam Edelman Lingerie
+    *   Sam Edelman Handbags
+    *   Monoreno
+    *   Pour La Victoire
+    *   Intentionally Blank
+    *   Juicy Couture Swim &. More
+    *   Street Chic: Active ft. Sam Edelman
+    *   Semi-Precious &. Sterling Silver Jewelry
+    *   Blend Mineral Cosmetics Up to 80% Off
+    *   butter LONDON
+    *   Belstaff
+    *   Get Cozy: Polo Ralph Lauren Lounge
+    *   Samuel Hubbard
+    *   Timekeepers: Men's Watches ft. Nixon &. Skagen
+    *   Flomotion
+    *   Oakley Sun &. Apparel
+    *   Azul Kids' Swimwear
+    *   Million Polkadots
+    *   Micros Boys
     *   Free People
     *   Free People Shoes
     *   Free People Lingerie
+    
     *   G-Star RAW
     *   Isaac Mizrahi Boys &. More
     *   Dogeared Jewelry Starting at $10
@@ -41,14 +71,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bulova Watches Up to 60% Off
     *   Men's Shoes Up to 65% Off
     *   Persaman New York Up to 70% Off
-    *   Zadig &. Voltaire
-    
     *   On-Trend Jewelry Starting at $15
-    *   The Bikini Lab
-    *   Kristin Cavallari by Chinese Laundry
-    *   Top Moda Starting at $15
-    *   Vicenzo Leather
     *   Handmade in Turkey: TMRW Studio Jewelry
+    
     *   Home Organization Essentials Starting at $12
     *   Speck Phone &. Laptop Accessories
     *   CB&CO Charcoal Oral Care
@@ -60,26 +85,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   First Steps
     *   Jessica Simpson Baby &. Girls
     *   Coccoli
-    *   C&C California Sport
-    *   Kersh &. Press
     *   Lucky Brand Kids
     *   Lucky Brand Men
-    *   Meghan LA
-    *   Australia Luxe Collective Up to 60% Off
-    *   Lucky Brand Incl. Plus
-    *   Bailey 44
-    *   Feminine Flair: Dresses ft. Bardot
-    *   American Twist Under $40
-    *   14K Gold Jewelry Steals
-    *   Given Kale
-    *   Etienne Marcel
-    *   Dizzy Sandals &. More Starting at $20
-    *   Just Cavalli Watches Up to 65% Off
-    *   Anuschka Hand-Painted Bags
-    *   On Trend: Sterling Silver &. More Up to 80% Off
-    
-    *   Closet Staples: Shoes Starting at $30
-    *   Earth &. Earthies Footwear
     *   Bliss Color Cosmetics at $10
     *   Face Masks We Love Up to 85% Off
     *   Free Shipping: Faux Fur Rugs Up to 60% Off
@@ -87,31 +94,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Triple Five Soul
     *   $100 &. Under: Florsheim
     *   Indigo Star Starting at $20
-    *   Shoe Closet Update: Floral Prints
-    *   Nordstrom Rack Exclusive: Suits &. More
     *   Algenist Skin Care
     *   Hair Tools We Love ft. BaBylissPRO
-    *   Tailored Recreation Under $20
-    *   BC Collection
     *   Poo-Pourri Bathroom Scents
     *   Listen Up: Swarovski-Encrusted Earbuds &. More
-    *   Caudalie
-    *   Mirenesse Up to 75% Off
     *   Free Shipping: Modern Furniture Under $200
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Salav Steamers from $20
     *   Free Shipping: Luxe Bedding Blowout
     *   Free Shipping: Garden-Inspired Decor
     *   Stainless Steel Water Bottles Under $20
-    *   Jonathan Adler
-    *   Free Shipping: NMK Bedding Steals
-    *   Free Shipping: Amrapur Towels Up to 80% Off
-    *   Free Shipping: Budget-Friendly Rugs
-    *   Free Shipping: Mid-Century Modern Furniture
-    *   Sultry Staples: Lingerie &. Sleep Under $30
-    *   Jared Lang
+    *   Lucky Brand Incl. Plus
+    *   Meghan LA
 *   WomenShop Sale Events
     
+    *   Sam Edelman
+    *   Why Dress
+    *   Seven7
+    *   ASTR the Label
+    *   Velvet by Graham &. Spencer
+    *   Sam Edelman Lingerie
+    *   Sam Edelman Handbags
+    *   Monoreno
+    *   Pour La Victoire
+    *   Intentionally Blank
+    *   Juicy Couture Swim &. More
+    *   Street Chic: Active ft. Sam Edelman
+    *   Semi-Precious &. Sterling Silver Jewelry
+    *   Blend Mineral Cosmetics Up to 80% Off
+    *   butter LONDON
+    *   Oakley Sun &. Apparel
     *   Free People
     *   Free People Shoes
     *   Free People Lingerie
@@ -119,6 +131,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Dogeared Jewelry Starting at $10
     *   FAVLUX Under $20
     *   H By Bordeaux Incl. Special Sizes
+    
     *   Ivy Kirzhner
     *   Victoria Beckham Sun &. More
     *   Lola Ramona
@@ -132,76 +145,52 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Women's Shoes Up to 70% Off
     *   Jewelry Steals Up to 85% Off
     *   Bulova Watches Up to 60% Off
-    *   Zadig &. Voltaire
     *   On-Trend Jewelry Starting at $15
-    *   The Bikini Lab
-    *   Kristin Cavallari by Chinese Laundry
-    *   Top Moda Starting at $15
-    *   Vicenzo Leather
     *   Handmade in Turkey: TMRW Studio Jewelry
-    
     *   CB&CO Charcoal Oral Care
     *   Kimi + Kai Maternity &. More
-    *   C&C California Sport
-    *   Kersh &. Press
-    *   Meghan LA
-    *   Australia Luxe Collective Up to 60% Off
-    *   Lucky Brand Incl. Plus
-    *   Bailey 44
-    *   Feminine Flair: Dresses ft. Bardot
-    *   American Twist Under $40
-    *   14K Gold Jewelry Steals
-    *   Given Kale
-    *   Etienne Marcel
-    *   Dizzy Sandals &. More Starting at $20
-    *   Just Cavalli Watches Up to 65% Off
-    *   Anuschka Hand-Painted Bags
-    *   On Trend: Sterling Silver &. More Up to 80% Off
-    *   Closet Staples: Shoes Starting at $30
-    *   Earth &. Earthies Footwear
     *   Bliss Color Cosmetics at $10
     *   Face Masks We Love Up to 85% Off
-    *   Shoe Closet Update: Floral Prints
     *   Algenist Skin Care
     *   Hair Tools We Love ft. BaBylissPRO
-    *   Caudalie
-    *   Mirenesse Up to 75% Off
-    *   Sultry Staples: Lingerie &. Sleep Under $30
+    *   Lucky Brand Incl. Plus
+    *   Meghan LA
     
     Shop By Category
     *   Clothing
     *   Jewelry
     *   Shoes
-    *   Handbags
     *   Tech Accessories
     *   Lingerie
-    *   Watches
+    *   Handbags
     *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Belstaff
+    *   Get Cozy: Polo Ralph Lauren Lounge
+    *   Samuel Hubbard
+    *   Timekeepers: Men's Watches ft. Nixon &. Skagen
+    *   Flomotion
+    *   Oakley Sun &. Apparel
     *   Men's Premium Jean Shop
     *   Tommy Hilfiger Tailored Clothing
     *   Supra Men
     *   Get Packing: Luxe Luggage
     *   Walk-Over Up to 80% Off
     *   Men's Final Few Up to 75% Off
+    
     *   Bulova Watches Up to 60% Off
     *   Men's Shoes Up to 65% Off
     *   Persaman New York Up to 70% Off
     *   Mezlan
     *   Mezlan Belts &. More
-    
     *   Salute
     *   Bespoke Up to 80% Off
     *   Lucky Brand Men
-    *   Just Cavalli Watches Up to 65% Off
     *   Triple Five Soul
     *   $100 &. Under: Florsheim
     *   Indigo Star Starting at $20
-    *   Nordstrom Rack Exclusive: Suits &. More
-    *   Tailored Recreation Under $20
-    *   BC Collection
-    *   Jared Lang
     
     Shop By Category
     *   Clothing
@@ -210,6 +199,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Azul Kids' Swimwear
+    *   Million Polkadots
+    *   Micros Boys
     *   Isaac Mizrahi Boys &. More
     *   Spring Has Sprung: Joe-Ella Dresses
     *   Kimi + Kai Maternity &. More
@@ -220,39 +212,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     
     Shop By Category
     *   Boys Sizes 2T-7
-    *   Girls Sizes 2T-6X
-    *   Kids Accessories
     *   Boys Sizes 8-20
-    *   Baby Girl
-    *   Baby Boy
-    *   Girls' Shoes
+    *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
+    *   Baby Girl
+    *   Kids Accessories
+    *   Baby Boy
     *   Baby Gear &. Essentials
+    *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Le Creuset
+    *   Free Shipping: Modern Rugs Up to 90% Off
+    *   LED Lighting &. More Starting at $10
+    *   Free Shipping: Statement Art &. More from $14
+    *   Textural Touches: Decor &. More from $13
     *   Eddie Bauer Bedding Starting at $16
     *   Free Shipping: Pop Art Pillows Under $18
     *   Free Shipping: Festive Serveware &. More
     *   Free Shipping: Kitchen Blowout
     *   Home Organization Essentials Starting at $12
     *   Speck Phone &. Laptop Accessories
+    
     *   Free Shipping: Faux Fur Rugs Up to 60% Off
     *   Free Shipping: Bedding &. Throws Up to 60% Off
     *   Poo-Pourri Bathroom Scents
     *   Listen Up: Swarovski-Encrusted Earbuds &. More
     *   Free Shipping: Modern Furniture Under $200
-    
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Salav Steamers from $20
     *   Free Shipping: Luxe Bedding Blowout
     *   Free Shipping: Garden-Inspired Decor
     *   Stainless Steel Water Bottles Under $20
-    *   Jonathan Adler
-    *   Free Shipping: NMK Bedding Steals
-    *   Free Shipping: Amrapur Towels Up to 80% Off
-    *   Free Shipping: Budget-Friendly Rugs
-    *   Free Shipping: Mid-Century Modern Furniture
     
     Shop By Category
     *   Home Decor
@@ -261,11 +253,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Organization
     *   Accent Furniture
     *   Bath
-    *   Luggage &. Travel
     *   Outdoor Living
     *   Rugs
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Blend Mineral Cosmetics Up to 80% Off
+    *   butter LONDON
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Macadamia Professional Hair Care from $10
     *   Luxe Skin Care Up to 90% Off
@@ -274,13 +268,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Face Masks We Love Up to 85% Off
     *   Algenist Skin Care
     *   Hair Tools We Love ft. BaBylissPRO
-    *   Caudalie
-    *   Mirenesse Up to 75% Off
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Hair Care
+    *   Nails
     *   Tools &. Accessories
     *   Bath &. Body
 
