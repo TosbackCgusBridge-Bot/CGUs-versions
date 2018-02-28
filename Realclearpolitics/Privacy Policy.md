@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Charlie Campbell_: China's One-Man Rule Under Xi Jinping Should Worry Us All
+*   _Peter Beinart_: Trump Is Preparing for a New Cold War
     
-*   _David Marcus_: It's High Time for the Broward County Sheriff to Resign
+*   _Helen Raleigh_: Xi's Power Grab Poses Big Risks for China and the Globe
     
-*   _Charles Blow_: America Is the Gun
+*   _Jack Shafer_: Ivanka Trump Should Quit
     
-*   _Andrew Pollack_: It's Not About Guns, It's About Safety in Schools
+*   _Camille Paglia_: #MeToo &. Modern Sexuality: Bitter Rancor Ahead
     
-*   _Alia Wong_: The Parkland Students Aren't Going Away
+*   _Roger Kimball_: The Schiff Obstruction
     
-*   _Thomas Lipscomb_: Was 'Cowardly' Fla. Deputy Told to Wait for Backup?
+*   _Michelle Goldberg_: Trump Is Either a Conspirator or a Sucker
     
-*   _Deroy Murdock_: The Russians Colluded Massively--With Democrats
+*   _Antonio Martinez_: How Trump Conquered Facebook--Without Russian Ads
     
-*   _Susan Glasser_: The Man Who Could Lead Impeachment Push vs. Trump
+*   _Dennis Prager_: Why Does the Left Want to Disarm the Good Guys?
     
-*   _Alan Crawford_: Tucker Carlson: Primetime's Populist Paladin
+*   _Eugene Robinson_: Absurd Ploy to Arm Teachers Is a Distraction
     
-*   _Jeffrey Goldberg_: The Chasm Between Racial Optimism and Reality
+*   _Mark Meckler_: Of 27 Deadliest Mass Shooters, 26 of Them Were Fatherless
     
-*   _Larry Elder_: Let's Not Pretend It's Still 1947 on Race Issues
+*   _Monica Lewinsky_: Emerging From 'the House of Gaslight' in Age of MeToo
     
-*   _Charles Homans_: Does Trump Job Approval Tell Us About Him, or Us?
+*   _Rich Lowry_: Broward County Sheriff's Excuses Are Just Obscene
     
-*   _Andrew McCarthy_: Schiff Memo Harms Obama Admin More Than It Helps
+*   _Bill Press_: Put High School Students in Charge
     
-*   _Natasha Bertrand_: Dem Memo Undercuts Republican Complaints About FBI
+*   _Rivkin &. Casey_: FISA Abuses Are a Special Threat to Privacy and Due Process
     
-*   _Ned Ryun_: Gun Control Virtue Signaling vs. Real Solutions for School Safety
+*   _E.J. Dionne_: It's Not Conservatism, It's Extremism
     
-*   _Katha Pollitt_: Has the NRA Finally Met Its Match?
+*   _David Harsanyi_: Sorry, But Conservatism Isn't Dead Just Yet
     
-*   _Arkin &. Huey-Burns_: Republicans Divided in Responses to Gun Proposals
+*   _Charlie Mahtesian_: How Republicans Can Win the Midterms
     
-*   _Marc Thiessen_: Success of Tax Cuts Could Be Fatal for Dems in 2018
+*   _Jill Filipovic_: What Victory Will Look Like for Feminists in 2018
     
-*   _David Catanese_: Dem Governors Aim to Ride an Anti-Trump Wave
+*   _Terry Hayes &. Greg Orman_: Independents Can Unite America
     
-*   _Alex Azar_: Short-Term Plans Are an Affordable Alternative to Obamacare
+*   _Steven Lee Myers_: With Xi's Power Grab, China Joins New Era of Strongmen
     
-*   _Ezra Klein_: America's 3 Infrastructure Problems
+*   _Victor Davis Hanson_: The Real Russia Disaster
     
-*   _Richard Brookhiser_: How Trump and His Admirers Destroyed Conservatism
+*   _Niall Ferguson_: Angela Merkel Is About to Pay for All Her Blunders
     
-*   _Henry Olsen_: Trump May Have Saved Conservativism, Not Killed It
+*   _Mona Charen_: I'm Glad I Got Booed at CPAC
     
-*   _James Warren_: Are Google and Facebook Monopolies?
+*   _Steve Hantler_: George Soros Declares War on the State of Missouri
     
 
 *   Previous
@@ -251,7 +251,7 @@ RecommendedPolitics
 
 *   Republicans Divided in Responses to Gun Proposals
 *   Was "Cowardly" Fla. Deputy Told to Wait for Backup?
-*   Broward Sheriff Says He Has Provided "Amazing" Leadership
+*   FL Shooting Survivor Kashuv: "Virtue-Signaling" Sheriff Must Resign
 *   Trump Urges Conservatives to Focus on 2018 Midterms
 *   Redrawn Pa. Maps Add Uncertainty to Special Election
 *   Presidential Job Approval
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Florida Senate - Scott vs. NelsonQuinnipiac
+    *   Nelson46
+    *   Scott42Nelson +4
+*   North Dakota Senate - Cramer vs. HeitkampGravis
+    *   Heitkamp43
+    *   Cramer40Heitkamp +3
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove48Approve +2
 *   President Trump Job ApprovalGallup
     *   Approve39
     *   Disapprove56Disapprove +17
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove49Tie
-*   2018 Generic Congressional VoteCNN
-    *   Democrats54
-    *   Republicans38Democrats +16
-*   Direction of CountryRasmussen Reports
-    *   Right Direction37
-    *   Wrong Track56Wrong Track +19
 
 More Latest Polls In The News
 
+*   Ingraham: Sheriff Israel Should Spend Less Time Patting Himself On The Back, More Time Being Transparent
+*   Lawrence O'Donnell: President Trump Pretends He Is A Truth-Telling Superhero
+*   Carter Page Praises Hannity As "The Edward R. Murrow" Of Trump/Russia Hoax
 *   WA Gov. Jay Inslee Challenges Trump Plan To Arm Teachers: "Less Tweeting, More Listening"
-*   Full Replay: President Trump Hosts Meeting On Gun Safety With Governors, Cabinet
-*   FL Shooting Survivor Kyle Kashuv: "Virtue-Signaling" Sheriff Must Resign. Agenda Moving Toward Ban Weapons
 *   Nunes: Only House Of Representatives Has Power To Unravel "Shenanigans" Of Corrupt Democrats
-*   Parkland Shooting Victim Father: It Is Not About Gun Control, It Is About Safety In Schools
 
 *   Politics
 *   Policy
