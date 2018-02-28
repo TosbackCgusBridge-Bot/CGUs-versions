@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 17%  7% 
+What is PeekScore? Public Records &. Background Checks 20%  8% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 17%  7% 
     
 *   Show Less ...
 
-17%  17%  Arrest Records &. Driving Infractions
+20%  20%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7% 
+Facebook 8% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 7% 
     
 *   Show Less ...
 
-Twitter 7% 
+Twitter 8% 
 
 *   Justice Department - TheJusticeDept
     
@@ -259,7 +259,7 @@ Twitter 7% 
     
 *   Show Less ...
 
-Instagram 7% 
+Instagram 8% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -325,7 +325,7 @@ Instagram 7% 
     
 *   Show Less ...
 
-Pinterest 17%  Wikipedia 7% 
+Pinterest 20%  Wikipedia 8% 
 
 *   P3P
     
@@ -336,7 +336,7 @@ Pinterest 17%  Wikipedia 7% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 7% 
+Google+ 8% 
 
 *   Expedia - Google+
     
@@ -362,7 +362,7 @@ Google+ 7% 
     
 *   Show Less ...
 
-Linkedin 17%  Music 7% 
+Linkedin 20%  Music 8% 
 
 *   Pandora
     
@@ -408,7 +408,7 @@ Linkedin 17%  Music 7% 
     
 *   Show Less ...
 
-Photo Albums 7% 
+Photo Albums 8% 
 
 *   Flickriver
     
@@ -423,7 +423,7 @@ Photo Albums 7% 
     Missouri Department of Transportation Central Office 105 W. Capitol Avenue Jefferson City, MO 65102 1-888-ASK-MODOT (275-6636) 1-866-831-6277 (Motor Carrier Services)
     
 
-Myspace 7% 
+Myspace 8% 
 
 *   Privacy Policy - 49086242
     
@@ -447,51 +447,7 @@ Myspace 7% 
     
 *   Show Less ...
 
-Documents 7% 
-
-*   Privacy Policy - Google
-    
-    Privacy Policy. Last modified: December 18, 2017 (view archived versions) (The hyperlinked examples are available at the end of this document.) There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share ...
-    
-*   Generic Privacy Policy template - TermsFeed
-    
-    Generic Privacy Policy template. Privacy Policy. Last updated: ​(add date). My Company (change this)​("us", "we", or "our") operates ​http://www.mysite.com ( change this)​ (the. "Site"). This page informs you of our policies regarding the collection, use and disclosure of. Personal Information we receive from users of the ...
-    
-*   Privacy Policy - WageWorks
-    
-    01/05/18. NEW PRIVACY POLICY. Effective Date: October 2, 2017. Download and/or print this Privacy Policy (“Privacy Policy”). Privacy Policy Scope. Welcome! An overview of this WageWorks Privacy Policy is provided below. To see the full text, click on the links. Click to view our Terms of Use as well as Additional Terms.
-    
-*   Daimler Data Protection Policy
-    
-    In the information age, we offer customers the means to be always connected, even in their cars. This requires data to be collected and processed. Yet, regardless whether in the car, in vehicle maintenance or when selling a vehicle, we adhere to this principle: When storing and transmitting data, we must ensure a high level ...
-    
-*   Show More ...
-
-*   Privacy Policy - TD Ameritrade
-    
-    Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. The types of ...
-    
-*   Privacy Policy - Fyber
-    
-    We at Fyber care about our users' and partners' privacy and are committed to disclose our data practices. This policy (“Privacy Policy”) explains how Fyber collects, uses and shares personal information about: ○ visitors to Fyber\`s website www.fyber.com,. ○ end users of apps and sites operated by third parties using the ...
-    
-*   ANZ PRIVACY POLICY
-    
-    PRIVACY POLICY. 1. Introduction and General Terms. Performance Horizon Group Limited (“we” or “us”) is committed to protecting your personal information when you are using performancehorizon.com. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of ...
-    
-*   Privacy Policy - zyndio
-    
-    Introduction to ANZ's Privacy Policy. 4. Collecting your personal information. 6. Using your personal information. 8. Disclosing your personal information overseas. 9. Credit reporting. 11. Your consent is important. 14. Marketing and privacy. 15. Managing your personal information. 16. How do I access my personal ...
-    
-*   Privacy Policy - zyndio
-    
-    PRIVACY POLICY. The protection of personal information is crucial with the Zyndio Health Sciences. (“Zyndio”). Privacy protection is, and always will be, critical to our business. Zyndio will maintain strict customer information confidentiality policies. Zyndio has formulated policies that give its Affiliates and Customers a very ...
-    
-*   PRIVACY POLICY 1. Introduction and General Terms Performance ...
-    
-*   Show Less ...
-
-Web Search 7% 
+Web Search 8% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -537,7 +493,7 @@ Web Search 7% 
     
 *   Show Less ...
 
-Images 7% 
+Images 8% 
 
 9
 
