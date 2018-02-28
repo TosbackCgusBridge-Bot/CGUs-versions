@@ -98,7 +98,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   StubHub.com2018 Schedule 2018 Season Tickets Bank of America
 *   Apps Apps Apps
     *   At Bat app
-    *   MLB.com Ballpark app
+    *   MLB Ballpark app
     *   MLB Franchise MVP
     *   MLB Home Run Derby
     *   MLB Line Drive
@@ -135,6 +135,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Buy MLB.TV
     *   Watch MLB.TV
     *   Buy Gameday Audio
+    *   MLB.TV Spring Training
     *   MLB.TV Devices
     *   MLB.TV with Extra Innings
     *   MLB.TV Help Center/FAQs
