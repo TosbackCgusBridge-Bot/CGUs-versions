@@ -10,7 +10,7 @@ At GNM we collect different types of information about our users for four main r
 
 3\. To sell advertising space on the site. This helps us to keep the site free for people who visit it.
 
-4\. If we have permission from the user, to market services to them.
+4\. If we have permission from the user, or where otherwise allowed by law, to market services to them.
 
 There may be other privacy policies that apply to certain services we provide. Please read these when you register or subscribe for these services on these sites.
 
@@ -33,7 +33,7 @@ Our principles
 
 • we make sure that when we ask another organisation to provide a service for us, they have appropriate security measures.
 
-2 We will respect your privacy. You should receive marketing emails only from us and, if you agree, from other organisations we have carefully chosen. We will make sure it is clear when you can make these choices, for example, we have boxes you need to tick if you want to receive marketing. However, we may email you occasionally with information or questions about your registration, your subscription account or postings, for example, with reminders, warnings or copyright requests.
+2 We will respect your privacy. You should receive marketing (whether by email, post, SMS or telephone) only from us and, if you agree, from other organisations we have carefully chosen. We will make sure it is clear when you can make these choices, for example, we have boxes you need to tick if you want to receive marketing and you can change your preferences if you no longer want to receive it. However, we may email you occasionally with information or questions about your registration, your subscription account or postings, for example, with reminders, warnings or copyright requests.
 
 3\. We will collect and use individual user details only if we have your permission or we have sensible business reasons for doing so, such as collecting enough information to manage subscriptions.
 
@@ -83,11 +83,11 @@ If you log-in to our sites using a twitter log-in, we receive your avatar (the s
 
 **Use of children’s data**
 
-Except for young critics competition and Guardian students, we do not knowingly collect or store any personal information about children under the age of 16. ‘The ‘Young critics competition’ is a competition for children. However, they need parental permission to join. We do not display personal information about children on the site, and we read through all submissions before they are published. For any questions about the young critics competition, please contact: Young Critics Competition, Guardian News and Media, 90 York Way, London, N1 9GU or email childrensfictionprize@theguardian.com.
+Except for Guardian students, we do not knowingly collect or store any personal information about children under the age of 16 and we do not offer any of our products or services directly to children under the age of 13.
 
 Updating your personal information
 
-We offer a ‘My details’ page (also known as Dashboard), where you can update your personal information at any time, and change your marketing preferences. You can get to this page from most pages on the site – simply click on the ‘My details’ link at the top of the screen when you are signed in.
+We offer a ‘My details’ page (also known as Email Preferences page), where you can update your personal information at any time, and change your marketing preferences. You can get to this page from most pages on the site – simply click on the ‘My details’ link at the top of the screen when you are signed in.
 
 **Who we share data with**
 
@@ -212,6 +212,8 @@ December 2016: Information on Google Analytics added, removal of children’s bo
 March 2017: updated information on the use of Nielsen software on our sites.
 
 May 2017: updated information on the use of anonymous information for online advertising
+
+February 2018: updated information on marketing preferences and use of children’s data.
 
 Topics
 
