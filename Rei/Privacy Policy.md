@@ -4,7 +4,7 @@ Privacy Policy
 
 All Help Center topics
 
-Effective Date:  November 22, 2016  
+Effective Date:  February 27, 2018  
 
 This Privacy Policy ("Policy") explains how information about you is collected, used, and disclosed by Recreational Equipment, Inc. and our subsidiaries and affiliates (collectively, "REI," "we" or "us") when you access or use our websites or other online or mobile services or applications ("Services"), shop in our stores, or otherwise interact with us. We may supply different or additional notices of our information practices specific to certain programs or activities. We may also provide different notices of our information practices with respect to certain subsidiaries or affiliates, in which case this Policy will not apply.
 
@@ -96,6 +96,8 @@ Third Party Advertising, Analytics and Services
 We allow third parties to serve advertisements that are targeted to your interests and we engage third parties to provide analytics services. These third parties may use cookies, web beacons, and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked, and conversion information. In some cases, the information in these cookies and other technologies may be linked to data you voluntarily submitted to us, such as your email address, which we may share in hashed or encrypted form. This information may be used by REI and these third parties to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and mobile applications, and better understand your online activity. This Policy does not apply to, and we are not responsible for, third party cookies, web beacons, or other tracking technologies. For more information about interest-based ads, or to opt out of having your web browsing information used in this way, please visit www.aboutads.info/choices.
 
 We may also work with third parties to serve ads to you as part of a customized campaign on third-party platforms (such as Facebook or Google). As part of these ad campaigns, we may convert information about you, such as your email address and phone number, into a unique value that can be matched with a user account on these platforms to allow us to learn about your interests and to serve you advertising that is customized to your interests. Note that the third-party platforms may offer you choices about whether you see these types of customized ads.
+
+REI also participates in the Adobe Marketing Cloud Device Co-op to better understand how you use our Services across the various devices you use, and to deliver tailored promotions.  Learn more about how Adobe does this here and how you may opt out of this program.
 
 We also use a third party to "power" product reviews and product questions and answers on our Services. When you submit a product review, you may become subject to the terms of use and privacy policy of this third party and the reviews you submit may be posted on our Services and on third-party sites.
 
