@@ -37,7 +37,8 @@
 *   AT&T  
     advertising &. analytics
     
-*   Social Responsibility
+*   Social  
+    Responsibility
     *   AT&T Communications
     *   It Can Wait
     *   Aspire
