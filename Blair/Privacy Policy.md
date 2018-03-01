@@ -19,7 +19,7 @@ Shop Fashion Values for Women, Men and Home. Style, Comfort and Value! Timeless 
 *   |
 *   Sign In
 
-What are you looking for today?
+Search by keyword or item #
 
 *   Womens
 *   Mens
