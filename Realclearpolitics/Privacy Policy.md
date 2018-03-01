@@ -101,53 +101,53 @@
     *   About
     *   Media Kit
 
-*   _Peter Beinart_: Trump Is Preparing for a New Cold War
+*   _Frank Bruni_: Donald Trump, Manly He-Man
     
-*   _Helen Raleigh_: Xi's Power Grab Poses Big Risks for China and the Globe
+*   _Max Eden_: How Did the Parkland Shooter Slip Through the Cracks?
     
-*   _Jack Shafer_: Ivanka Trump Should Quit
+*   _Michelle Cottle_: How Parkland Students Changed the Gun Debate
     
-*   _Camille Paglia_: #MeToo &. Modern Sexuality: Bitter Rancor Ahead
+*   _Robert Norman_: I Bought My First Gun Because of the CNN Town Hall
     
-*   _Roger Kimball_: The Schiff Obstruction
+*   _Timothy O'Brien_: Jared Kushner, Easy Mark
     
-*   _Michelle Goldberg_: Trump Is Either a Conspirator or a Sucker
+*   _Graham Vyse_: How Trump Wins Reelection
     
-*   _Antonio Martinez_: How Trump Conquered Facebook--Without Russian Ads
+*   _Max Boot_: If This Is What Conservatism Has Become, Count Me Out
     
-*   _Dennis Prager_: Why Does the Left Want to Disarm the Good Guys?
+*   _Mytheos Holt_: NeverTrump Has Met Its Waterloo
     
-*   _Eugene Robinson_: Absurd Ploy to Arm Teachers Is a Distraction
+*   _Terence Moore_: Stephen Curry Is Right Not to Visit Trump's White House
     
-*   _Mark Meckler_: Of 27 Deadliest Mass Shooters, 26 of Them Were Fatherless
+*   _Jonathan Tobin_: Democrats: Living and Dying by Identity Politics
     
-*   _Monica Lewinsky_: Emerging From 'the House of Gaslight' in Age of MeToo
+*   _Reed Galen_: Spilt Blood and Sacred Cows
     
-*   _Rich Lowry_: Broward County Sheriff's Excuses Are Just Obscene
+*   _Jon Gabriel_: Cutting NRA Ties Is Bad for Business and America
     
-*   _Bill Press_: Put High School Students in Charge
+*   _Josh Kraushaar_: Renewed Gun Control Focus Will Help Dems in 2018
     
-*   _Rivkin &. Casey_: FISA Abuses Are a Special Threat to Privacy and Due Process
+*   _Conrad Black_: The Democrats' Date With Disaster
     
-*   _E.J. Dionne_: It's Not Conservatism, It's Extremism
+*   _Elizabeth Drew_: Robert Mueller Doesn't Need a Smoking Gun
     
-*   _David Harsanyi_: Sorry, But Conservatism Isn't Dead Just Yet
+*   _Andrew McCarthy_: Why Didn't the FBI Call Carter Page for an Interview?
     
-*   _Charlie Mahtesian_: How Republicans Can Win the Midterms
+*   _Michael Goodwin_: The Florida School Shooting Could Have Been Prevented
     
-*   _Jill Filipovic_: What Victory Will Look Like for Feminists in 2018
+*   _Andrew Rosenthal_: Gun Smoke and Mirrors
     
-*   _Terry Hayes &. Greg Orman_: Independents Can Unite America
+*   _Anonymous_: Thank Goodness My Kids' School Has Armed Staff Member
     
-*   _Steven Lee Myers_: With Xi's Power Grab, China Joins New Era of Strongmen
+*   _Debra Ciamacca_: I Was a Marine. Now I'm a Teacher. Don't Give Me a Gun
     
-*   _Victor Davis Hanson_: The Real Russia Disaster
+*   _John Kass_: High Court Case Threatens Dems' Use of Union Muscle
     
-*   _Niall Ferguson_: Angela Merkel Is About to Pay for All Her Blunders
+*   _Tom Steyer_: Unions Could Be Dismantled. Progressives Must Unite
     
-*   _Mona Charen_: I'm Glad I Got Booed at CPAC
+*   _Caitlin Huey-Burns_: McDaniel Set to Take On Wicker in MS Republican Primary
     
-*   _Steve Hantler_: George Soros Declares War on the State of Missouri
+*   _Robert Curry_: The Train to Common Sense
     
 
 *   Previous
@@ -249,11 +249,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Lesko Wins Republican Primary in Arizona's 8th District
+*   McDaniel Poised to Take On Wicker in Miss. Republican Primary
+*   Carter Page Praises Hannity as "Edward R. Murrow" of Russia Hoax
 *   Republicans Divided in Responses to Gun Proposals
 *   Was "Cowardly" Fla. Deputy Told to Wait for Backup?
-*   FL Shooting Survivor Kashuv: "Virtue-Signaling" Sheriff Must Resign
-*   Trump Urges Conservatives to Focus on 2018 Midterms
-*   Redrawn Pa. Maps Add Uncertainty to Special Election
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -268,26 +268,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Florida Senate - Scott vs. NelsonQuinnipiac
-    *   Nelson46
-    *   Scott42Nelson +4
-*   North Dakota Senate - Cramer vs. HeitkampGravis
-    *   Heitkamp43
-    *   Cramer40Heitkamp +3
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove48Approve +2
-*   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove56Disapprove +17
+    *   Approve49
+    *   Disapprove50Disapprove +1
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve40
+    *   Disapprove56Disapprove +16
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve44
+    *   Disapprove53Disapprove +9
+*   Congressional Job ApprovalEconomist/YouGov
+    *   Approve13
+    *   Disapprove70Disapprove +57
 
 More Latest Polls In The News
 
-*   Ingraham: Sheriff Israel Should Spend Less Time Patting Himself On The Back, More Time Being Transparent
-*   Lawrence O'Donnell: President Trump Pretends He Is A Truth-Telling Superhero
-*   Carter Page Praises Hannity As "The Edward R. Murrow" Of Trump/Russia Hoax
-*   WA Gov. Jay Inslee Challenges Trump Plan To Arm Teachers: "Less Tweeting, More Listening"
-*   Nunes: Only House Of Representatives Has Power To Unravel "Shenanigans" Of Corrupt Democrats
+*   Don Lemon: 'State-Run' 'Trump TV' FOX News Not Covering Hope Hicks, Viewers Unaware WH "Imploding"
+*   Murphy to Trump: Don't Underestimate Gun Lobby, You Have To Bring Republicans To The Table
+*   Full Replay: President Trump Meets with Bipartisan Members of Congress to Discuss Gun Violence
+*   Kaine: U.S. Government "Humiliated By Foreign Adversary" In 2016, "Failed To Protect Democracy"
+*   Obama: "There Were Mistakes," But There Were No Scandals Or "Anything Venal" In My Presidency
 
 *   Politics
 *   Policy
