@@ -20,17 +20,14 @@ Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   Annihilation
-    *   Every Day (2018)
-    *   Game Night (2018)
-    *   The Cured
-    *   Curvature
-    *   Death House
-    *   Hannah (2018)
-    *   The Lodgers
-    *   November (2018)
-    *   Operation Red Sea
-    *   Survivors Guide to Prison
+    *   Death Wish (2018)
+    *   Red Sparrow
+    *   Dance Academy: The Comeback
+    *   Did You Wonder Who Fired the Gun?
+    *   Foxtrot
+    *   Oh Lucy!
+    *   Souvenir (2018)
+    *   Submission (2018)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -75,8 +72,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Gary Oldman Teases 'Darkest Hour' Sequel and a Winston Churchill Play Read More
-    *   Movie News: Where 'Solo' Fits in the 'Star Wars' Timeline Read More
+    *   Movie News: Margot Robbie's 'Dangerous Odds' Moves Forward Read More
+    *   'Wreck-It Ralph 2' Trailer Lampoons the Internet. Here's Everything We Know Read More
     *   Superhero Buzz: 'Silver Surfer' Movie. 'The Rocketeer' Animated Series Read More
     
     Explore Content
@@ -318,7 +315,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   February Celebrity Birthdays
+*   March Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
