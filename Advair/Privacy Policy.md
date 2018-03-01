@@ -299,6 +299,8 @@ Menu
         *   Crossing items off my bucket list, one breath at a time
         *   What I know about asthma… then and now.
         *   The journey from research to respiratory treatment
+        *   Who was Percy Julian?
+        *   Linking a chapter of GSK history to the fight for freedom
     *   How we do business
         *   Back
         *   How we do business
@@ -336,13 +338,6 @@ Menu
         *   US Community Partnerships
         *   Barnes smART Fund for Arts Education
         *   Charitable grants
-        *   GSK IMPACT Grants
-            *   Back
-            *   GSK IMPACT Grants
-            *   How do you help make a healthy community even healthier?
-            *   How can we make the biggest impact on young people’s health?
-            *   Can we work together to improve the health of a community?
-            *   How can we support young people aging out of the foster care system to become healthy adults?
         *   GSK IMPACT Awards
         *   GSK Opportunity Scholarships
         *   Save the Children partnership
