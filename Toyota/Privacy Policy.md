@@ -1,6 +1,6 @@
 *   menu
 
-*   Your Location: 67301 Zip: 67301
+*   Set Location Set Zip
 *   Certified Used Vehicles
 *   Owners
 *   Español
@@ -146,13 +146,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 *   Español
 *   Owners
 
-Close
-
-SET YOUR LOCATION
-
-Enter your Zip Code to find dealers, inventory, and special offers near you.
-
-Your ZIP is invalid. Submit
+Close Set your locationYour ZIP is invalid. Submit
 
 GO Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
