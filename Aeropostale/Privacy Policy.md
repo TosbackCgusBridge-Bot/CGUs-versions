@@ -24,7 +24,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
-*   plus size
+*   Extended Sizes
 *   Trending
 *   Clearance
 *   Live Love Dream
@@ -35,13 +35,13 @@ Close submenu ( Featured ) Featured
 *   New Arrivals
 *   Sabrina's Picks
 *   $8 Tees
+*   Spring Break
 *   Easter Best
 *   Denim Guide
 *   Logo Shop
 *   Basic Essentials
 *   Seriously Soft
 *   Lounge + Sleep
-*   Online Only
 
 Close submenu ( Tops ) Tops
 
@@ -303,13 +303,13 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Sabrina's Picks
         *   $8 Tees
+        *   Spring Break
         *   Easter Best
         *   Denim Guide
         *   Logo Shop
         *   Basic Essentials
         *   Seriously Soft
         *   Lounge + Sleep
-        *   Online Only
     
     *   Tops
         *   View All
@@ -338,7 +338,7 @@ Menu Find a Store Aeropostale
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
-    *   plus size
+    *   Extended Sizes
     *   Trending
     *   Clearance
     *   Live Love Dream
