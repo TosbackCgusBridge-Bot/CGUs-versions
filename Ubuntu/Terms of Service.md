@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kernel Team summary: February 27, 2018 ›
+*   Ubuntu Server development summary – 27 February 2018 ›
+*   Charming Discourse with the reactive framework ›
 *   LXD weekly status #36 ›
 *   Deploying Ubuntu OpenStack to ARM64 servers ›
-*   Ubuntu Desktop weekly update – February 23, 2018 ›
-*   Canonical announces Ubuntu Core across Rigado’s IoT gateways ›
-*   LXD Weekly Status #35 ›
