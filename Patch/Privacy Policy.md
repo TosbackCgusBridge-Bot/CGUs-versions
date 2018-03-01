@@ -1,6 +1,6 @@
 Toggle navigation Find Your Town Post Advertise
 
-*   Wed, Feb 28
+*   Thu, Mar 1
 
 *   Post on Patch
 *   See All Patches
