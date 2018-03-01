@@ -86,8 +86,8 @@ Close
     *   japan
     *   italian
     *   german
-    *   mom
     *   deutsch
+    *   mom
     *   homemade
     *   young
     *   massage
@@ -96,9 +96,9 @@ Close
     *   interracial
     *   cumshot
     *   petite
-    *   brunette
     *   blonde
     *   missionary
+    *   brunette
     *   stockings
     *   busty
     *   riding
