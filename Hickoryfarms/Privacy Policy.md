@@ -7,7 +7,8 @@
     *   Military
     *   New!
     
-    Occasions*   Birthday Gifts
+    Occasions*   Spring Gifts
+    *   Birthday Gifts
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
@@ -46,7 +47,8 @@
     
     View All Categories Shop by Category*   Valentine's Day Gifts
     
-    Occasions*   Birthday Gifts
+    Occasions*   Spring Gifts
+    *   Birthday Gifts
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
@@ -72,7 +74,8 @@
     *   Military
     *   New!
     
-    Occasions*   Birthday Gifts
+    Occasions*   Spring Gifts
+    *   Birthday Gifts
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
@@ -111,7 +114,8 @@
     
     View All Categories Shop by Category*   Valentine's Day Gifts
     
-    Occasions*   Birthday Gifts
+    Occasions*   Spring Gifts
+    *   Birthday Gifts
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
