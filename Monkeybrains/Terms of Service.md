@@ -47,9 +47,7 @@ Read more >>.
 _March 31, 2017_  
 **Local Internet providers look to stand out as privacy rules wither**  
 By Dominic Fracassa  
-Dane Jasper doesn’t want to know what you do on the Internet.  
-Like many digital privacy proponents, Jasper, the CEO of Sonic, a high-speed Internet service provider based in Santa Rosa, was disheartened by moves in Congress this week to undo a nascent set of regulations that affect companies like his.  
-On Tuesday, the House narrowly voted to scrap rules intended to force Internet providers to get permission from customers before collecting and selling customers’ data.  
+“We see ourselves as a service provider, not as a data-mining company,” said Alex Menendez, a co-founder of San Francisco Internet provider Monkeybrains, which also signed the letter sent to Congress. Menendez said he “absolutely” sees his company’s hands-off approach to customer data as a distinct competitive advantage.  
 Read more >>.
 
 _March 14, 2016_  
