@@ -99,6 +99,7 @@ Customer Area
 *   Anti-Theft Login
 *   Home Product Support
 *   Security &. Performance Tips
+*   Online Research
 
 Partners &. Business
 
