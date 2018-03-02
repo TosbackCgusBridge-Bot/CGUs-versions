@@ -385,7 +385,16 @@ menu Close 0 Free Shipping on $50+
     *   Home
     
     FEATURED SHOPS
+    
     *   On The Counter
+    
+    WINTER SALE &. CLEARANCE
+    *   Coats &. Jackets
+    *   Hats
+    *   Gloves
+    *   Scarves
+    *   Snow Boots
+    *   Long Underwear
 
 *   New
     *   Back
@@ -745,6 +754,14 @@ menu Close 0 Free Shipping on $50+
     *   FEATURED SHOPS
         *   Back
         *   On The Counter
+    *   WINTER SALE &. CLEARANCE
+        *   Back
+        *   Coats &. Jackets
+        *   Hats
+        *   Gloves
+        *   Scarves
+        *   Snow Boots
+        *   Long Underwear
 *   Business Outfitters
 *   Hi, Sign in My Account
     *   Back
@@ -769,9 +786,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 30% off 1 full-price item!
+Receive 25% off full-price styles!
 
-code: BREEZY pin: 6201 DETAILS
+code: LUCKY pin: 1349 DETAILS
 
 Customer Service Menu
 
