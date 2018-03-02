@@ -72,9 +72,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: Margot Robbie's 'Dangerous Odds' Moves Forward Read More
-    *   'Wreck-It Ralph 2' Trailer Lampoons the Internet. Here's Everything We Know Read More
-    *   Superhero Buzz: 'Silver Surfer' Movie. 'The Rocketeer' Animated Series Read More
+    *   Chris Hemsworth Being Eyed to Star in 'Men in Black' Spinoff Read More
+    *   Greta Gerwig Wants 'Lady Bird' to Be the First in a Series Read More
+    *   Movie News: Rashida Jones Touted for '9 to 5' Reboot Read More
     
     Explore Content
     *   Movie Reviews
@@ -262,9 +262,9 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   'A Wrinkle in Time' Gift With Purchase
+*   Love Movies? Join &. Save 20%
     
-    Receive a FREE\* exclusive 'A Wrinkle in Time' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Watch the newest movies at home or on the go before Netflix, Hulu and Amazon Prime. New customers get 20% off for 1 month! SEE DETAILS
     
 *   'Black Panther' Gift With Purchase
     
@@ -322,4 +322,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
