@@ -42,6 +42,8 @@ Close submenu ( Featured ) Featured
 *   Basic Essentials
 *   Seriously Soft
 *   Lounge + Sleep
+*   Online Only
+*   Uniform
 
 Close submenu ( Tops ) Tops
 
@@ -289,7 +291,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**UP TO $25 OF $100** USE CODE **INSIDER25** **50-70% OFF** + **FREE SHIPPING OVER $75**
+**BOGO FREE JEANS** + **50% OFF SHORTS** **50-70% OFF** + **FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -310,6 +312,8 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Seriously Soft
         *   Lounge + Sleep
+        *   Online Only
+        *   Uniform
     
     *   Tops
         *   View All
@@ -532,7 +536,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Shop Girls Shop Guys Shop Girls Shop Guys Find My Store Shop Girls Shop Guys Shop Girls Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Jeans Shop Guys Jeans Shop Girls Shorts Shop Guys Shorts Find My Store Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Girls Shop Guys Shop Girls Shop Guys Shop Guys Shop Girls Shop Girls Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
