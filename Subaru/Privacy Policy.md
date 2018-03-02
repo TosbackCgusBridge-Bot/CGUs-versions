@@ -137,7 +137,11 @@ Up to
 
 2018 WRX Limited shown
 
-Ascent COMING SOON 2019 Ascent
+Ascent $31,995\* starting price 2019 Ascent
+
+Starting at
+
+$31,995 MSRP
 
 *   Overview
 *   Photos &. Videos
@@ -167,20 +171,13 @@ BUY
 *   Extended Service Plans
 *   Parts &. Service
 
-Get the most precise number on the Subaru you want.
+See what your local Subaru retailer has available today.
 
 YOUR RETAILER
 
 CHANGE
 
-Shortline Subaru
-
-580 S Havana St  
-Aurora, CO 80012
-
-(303) 364-2200
-
-Get a Local Price What Makes a Subaru
+FIND A RETAILER What Makes a Subaru
 
 *   Reviews &. Awards
 *   Commitment to Safety
