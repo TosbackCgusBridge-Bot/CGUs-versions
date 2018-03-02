@@ -21,6 +21,7 @@
     *   Election Polls
     *   Generic Ballot
     *   Donald Trump Favorability
+    *   Tax Cut Law
     *   State of Union Polls
 *   Election 2018
     *   Virginia Governor
@@ -56,6 +57,7 @@
         *   Election Polls
         *   Generic Ballot
         *   Donald Trump Favorability
+        *   Tax Cut Law
         *   State of Union Polls
     *   RCP Election 2018
         *   Election 2018
@@ -101,53 +103,53 @@
     *   About
     *   Media Kit
 
-*   _Frank Bruni_: Donald Trump, Manly He-Man
+*   _James Antle_: Trump's One-Man 'Good Cop, Bad Cop' Routine With NRA
     
-*   _Max Eden_: How Did the Parkland Shooter Slip Through the Cracks?
+*   _Dahlia Lithwick_: Why the Parkland Kids Are So Good at This
     
-*   _Michelle Cottle_: How Parkland Students Changed the Gun Debate
+*   _Michelle Malkin_: Release the Florida School Shooting Surveillance Video
     
-*   _Robert Norman_: I Bought My First Gun Because of the CNN Town Hall
+*   _David Remnick_: Hope Against Hope
     
-*   _Timothy O'Brien_: Jared Kushner, Easy Mark
+*   _Newt Gingrich_: Trump Just Delivered Two Brilliant Political Surprises
     
-*   _Graham Vyse_: How Trump Wins Reelection
+*   _Thomas Edsall_: What Motivates Voters More Than Loyalty? Loathing
     
-*   _Max Boot_: If This Is What Conservatism Has Become, Count Me Out
+*   _Jennifer Haberkorn_: Another Legal Cloud for Obamacare?
     
-*   _Mytheos Holt_: NeverTrump Has Met Its Waterloo
+*   _Smith & Conway_: How to Keep Gas Prices From Swallowing the Tax Cut
     
-*   _Terence Moore_: Stephen Curry Is Right Not to Visit Trump's White House
+*   _Quinn Norton_: The New York Times Fired My Doppelganger
     
-*   _Jonathan Tobin_: Democrats: Living and Dying by Identity Politics
+*   _Greg Jones_: Enrollment Data Suggest the College Bubble Is Popping
     
-*   _Reed Galen_: Spilt Blood and Sacred Cows
+*   _Ben Schreckinger_: Steve Bannon Is Hatching His Comeback
     
-*   _Jon Gabriel_: Cutting NRA Ties Is Bad for Business and America
+*   _Edward-Isaac Dovere_: The Loneliest Man in Washington Just Got Lonelier
     
-*   _Josh Kraushaar_: Renewed Gun Control Focus Will Help Dems in 2018
+*   _Andrew Buncombe_: Gun Meeting Proves Trump Can Have It Both Ways
     
-*   _Conrad Black_: The Democrats' Date With Disaster
+*   _Huey-Burns & Arkin_: Trump's Calls for Gun Action Upend Party Orthodoxy
     
-*   _Elizabeth Drew_: Robert Mueller Doesn't Need a Smoking Gun
+*   _Chris Cillizza_: This Is a White House in Crisis
     
-*   _Andrew McCarthy_: Why Didn't the FBI Call Carter Page for an Interview?
+*   _Liz Peek_: Trump Is Gearing Up for 2020, and Dems Still Don't Get It
     
-*   _Michael Goodwin_: The Florida School Shooting Could Have Been Prevented
+*   _Mark Penn_: Americans Say 'No Gun Under 21'
     
-*   _Andrew Rosenthal_: Gun Smoke and Mirrors
+*   _Erik Prince_: Sheepdogs Wanted
     
-*   _Anonymous_: Thank Goodness My Kids' School Has Armed Staff Member
+*   _Jonathan Chait_: Mueller Has Trump and Family in His Crosshairs
     
-*   _Debra Ciamacca_: I Was a Marine. Now I'm a Teacher. Don't Give Me a Gun
+*   _Ned Ryun_: Schiff Is Losing the Memo Wars
     
-*   _John Kass_: High Court Case Threatens Dems' Use of Union Muscle
+*   _Byron York_: Time for Public to Learn More About Trump Tower Meeting
     
-*   _Tom Steyer_: Unions Could Be Dismantled. Progressives Must Unite
+*   _John Carlin_: Russia Is a Rogue State. Time to Say So.
     
-*   _Caitlin Huey-Burns_: McDaniel Set to Take On Wicker in MS Republican Primary
+*   _Haddad & Polyakova_: Don't Rehabilitate Obama on Russia
     
-*   _Robert Curry_: The Train to Common Sense
+*   _E.J. Dionne_: Conservatives Are Using the Courts to Destroy Unions
     
 
 *   Previous
@@ -249,11 +251,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Hope Hicks Leaving as White House Communications Director
+*   Trump's Calls for Gun Action Upend Party Orthodoxy
+*   Trump to Manchin and Toomey: You're Afraid of the NRA
+*   McDaniel Takes On Wicker in Miss. Republican Primary
 *   Lesko Wins Republican Primary in Arizona's 8th District
-*   McDaniel Poised to Take On Wicker in Miss. Republican Primary
-*   Carter Page Praises Hannity as "Edward R. Murrow" of Russia Hoax
-*   Republicans Divided in Responses to Gun Proposals
-*   Was "Cowardly" Fla. Deputy Told to Wait for Backup?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -271,23 +273,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve49
     *   Disapprove50Disapprove +1
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve40
-    *   Disapprove56Disapprove +16
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve44
-    *   Disapprove53Disapprove +9
-*   Congressional Job ApprovalEconomist/YouGov
-    *   Approve13
-    *   Disapprove70Disapprove +57
+*   Congressional Job ApprovalUSA Today/Suffolk
+    *   Approve15
+    *   Disapprove75Disapprove +60
+*   2018 Generic Congressional VoteUSA Today/Suffolk
+    *   Democrats47
+    *   Republicans32Democrats +15
+*   Direction of CountryUSA Today/Suffolk
+    *   Right Direction29
+    *   Wrong Track60Wrong Track +31
 
 More Latest Polls In The News
 
+*   Don Lemon: "Apologies" That I Was Wrong About FOX News, But They Downplay Bad News About Trump
+*   Tucker Carlson: If Obama Said What Trump Did About Guns He "Would Have Been Denounced As A Dictator"
+*   'The View' Meghan McCain vs. Schiff: Any Specific Evidence Of Treasonous Trump Collusion With Russia?
+*   FOX News Covers Hope Hicks Resignation: Cavuto, The Five, Special Report, MacCallum, Tucker, Hannity
 *   Don Lemon: 'State-Run' 'Trump TV' FOX News Not Covering Hope Hicks, Viewers Unaware WH "Imploding"
-*   Murphy to Trump: Don't Underestimate Gun Lobby, You Have To Bring Republicans To The Table
-*   Full Replay: President Trump Meets with Bipartisan Members of Congress to Discuss Gun Violence
-*   Kaine: U.S. Government "Humiliated By Foreign Adversary" In 2016, "Failed To Protect Democracy"
-*   Obama: "There Were Mistakes," But There Were No Scandals Or "Anything Venal" In My Presidency
 
 *   Politics
 *   Policy
