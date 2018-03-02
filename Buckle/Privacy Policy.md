@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Planning a Vacation? Shop the Spring Checklist.
+Freshen up your wardrobe for spring – Shop New Arrivals.
 
 *   Women
 *   Men
@@ -111,13 +111,12 @@ Planning a Vacation? Shop the Spring Checklist.
         
         *   Tops
         
-        *   Shirts
-        *   Easy Care Shirts
         *   Graphic Tees
         *   Solid Tees
-        *   Long Body
-        *   Tanks
+        *   Shirts
         *   Polos
+        *   Tanks
+        *   Long Body
         *   Sweatshirts
         *   Jackets
         *   Shop All
@@ -126,13 +125,13 @@ Planning a Vacation? Shop the Spring Checklist.
         
         *   Jeans
         *   Bootcut Jeans
-        *   Straight Jeans
+        *   Straight Leg Jeans
+        *   Shorts
+        *   Swim/Boardshorts
+        *   Joggers
+        *   Pants/Chinos
         *   Stretch Jeans
         *   Jeans Under $75
-        *   Pants/Chinos
-        *   Joggers
-        *   Boardshorts
-        *   Shorts
         *   Shop All
         
         *   Shoes
@@ -147,15 +146,15 @@ Planning a Vacation? Shop the Spring Checklist.
         
         *   More
         
-        *   Watches
-        *   Accessories
         *   Hats
+        *   Sunglasses
         *   Boxers
         *   Socks
-        *   Bags
+        *   Watches
+        *   Belts
         *   Cologne
-        *   Sunglasses
-        *   Factory Seconds
+        *   Wallets
+        *   Jewelry
         *   Shop All
         
           
