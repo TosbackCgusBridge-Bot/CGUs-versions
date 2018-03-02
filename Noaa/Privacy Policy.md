@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites Launching soon: 5 reasons GOES-S will be a game-changer for weather forecasts Research Those scented products you love? NOAA study finds they can cause air pollution National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites We have lift off! NOAA's GOES-S satellite launches from Kennedy Space Center Satellites 5 reasons GOES-S will be a game-changer for weather forecasts National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Countdown to launch: GOES-S satellite readies for liftoff from Kennedy Space Center See when and where you can watch the live event AROUND NOAA // Launching soon: 5 reasons GOES-S will be a game-changer for weather forecasts GOES-S satellite to map lightning in real time for U.S. West January was 5th warmest on record for the globe Featured photo: Last call at the South Pole, for now
+Enter Search Terms NOAA’s GOES-S satellite roars into orbit New weather satellite will aid forecasts for western U.S., Alaska and Hawaii AROUND NOAA // Powerful storms to impact both U.S. coasts through Friday. Get the latest watches, warnings We have lift off! NOAA's GOES-S satellite launches from Kennedy Space Center 5 reasons GOES-S will be a game-changer for weather forecasts Featured photo: Last call at the South Pole, for now
 
 *   About our agency
 *   News and features
