@@ -45,7 +45,7 @@ Show Menu Hide Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/457f4837a22fd7517eb2fe11b9a7d2b708e584a8 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/881a5cf8830f761227d7312d341bf531a49edb16 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
@@ -284,4 +284,4 @@ Other Links
 *   Mobile
 *   Vacations by Interest
 
-© 2017 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
+© 2018 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
