@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 23%  7% 
+What is PeekScore? Public Records &. Background Checks 16%  11% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 23%  7% 
     
 *   Show Less ...
 
-23%  23%  Arrest Records &. Driving Infractions
+16%  16%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7% 
+Facebook 11% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 7% 
     
 *   Show Less ...
 
-Twitter 7% 
+Twitter 11% 
 
 *   Justice Department - TheJusticeDept
     
@@ -259,7 +259,7 @@ Twitter 7% 
     
 *   Show Less ...
 
-Instagram 7% 
+Instagram 11% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -325,7 +325,7 @@ Instagram 7% 
     
 *   Show Less ...
 
-Pinterest 23%  Wikipedia 7% 
+Pinterest 16%  Wikipedia 11% 
 
 *   P3P
     
@@ -336,7 +336,7 @@ Pinterest 23%  Wikipedia 7% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 7% 
+Google+ 11% 
 
 *   Expedia - Google+
     
@@ -362,7 +362,7 @@ Google+ 7% 
     
 *   Show Less ...
 
-Linkedin 23%  Music 7% 
+Linkedin 16%  Music 11% 
 
 *   Pandora
     
@@ -408,7 +408,7 @@ Linkedin 23%  Music 7% 
     
 *   Show Less ...
 
-Photo Albums 7% 
+Photo Albums 11% 
 
 *   Flickriver
     
@@ -423,7 +423,7 @@ Photo Albums 7% 
     Missouri Department of Transportation Central Office 105 W. Capitol Avenue Jefferson City, MO 65102 1-888-ASK-MODOT (275-6636) 1-866-831-6277 (Motor Carrier Services)
     
 
-Myspace 7% 
+Myspace 11% 
 
 *   Privacy Policy - 49086242
     
@@ -447,7 +447,7 @@ Myspace 7% 
     
 *   Show Less ...
 
-Web Search 7% 
+Web Search 11% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -493,7 +493,7 @@ Web Search 7% 
     
 *   Show Less ...
 
-Images 7% 
+Images 11% 
 
 9
 
