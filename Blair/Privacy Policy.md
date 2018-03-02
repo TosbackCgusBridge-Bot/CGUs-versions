@@ -1,4 +1,6 @@
-  No thank you, I prefer to pay for shipping!  
+  No thank you, I prefer to pay for shipping!     Offer Details
+
+Use promotion code **BFLQ** at checkout for FREE standard shipping on your entire Blair order. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed orders. good online only through March 6, 2018.
 
 Shop your favorite stores and discover new ones  
   
