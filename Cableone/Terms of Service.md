@@ -28,7 +28,7 @@ Skip to main content
 
 Internet Acceptable Use Policy Acceptable Use Policy
 
-Effective January 22, 2018
+Effective March 01, 2018
 
 Important Note: Cable One, Inc., may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Cable One residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Cable One users can be directed to abuse@cableone.net. Visit http://www.cableone.net/legal/open-internet to review Cable One's Network Management Disclosure Statement.
 
@@ -135,7 +135,17 @@ Plan name Data limit Starter Plus Plan NA Streamer &. Gamer Plus Plan NA Turbo P
 
 **Data Policy**
 
-Customers on Plus Internet plans in these two communities do not have designated data plans assigned to the levels of service subscribed. However, customers on these plans who use more than 5TB of data during a billing period may be subject to speed reductions for the remainder of their billing cycle.
+Customers on Plus Internet plans in these two communities do not have designated data plans assigned to the levels of service subscribed. However, customers on these plans who use more than 5TB of data during a data period may be subject to speed reductions for the remainder of their data period.
+
+Bartlesville, OK and Sioux City, IA Customers sold "Plus" Internet plans after 03/01/2018
+
+Customers on plus plans in these two communities have designated data plans assigned to the levels of service subscribed. Customer who exceed their data plans are automatically provided with an additional 100GB block of data to be used during their data period, at an additional cost. A maximum charge of 5 blocks of 100GB of data will be provided per data period. Additional Data Block Details
+
+Plan name Data limit Lite Plan Plus 50GB Data Plan Starter Plan Plus 300GB Data Plan Streamer &. Gamer Plus 600GB Data Plan Turbo Plan Plus 900GB Data Plan GigaONE ® Plus 1200GB Data Plan
+
+\* Names, speeds, and data plans are subject to change
+
+Customers who a) use more than 5TB of data who have opted into an unlimited data option or b) receive a maximum of 5 additional blocks of data during a data period may be subject to speed reductions for the remainder of their data period.
 
 **How does Cable One address Excessive Use or uncharacteristic use?**
 
