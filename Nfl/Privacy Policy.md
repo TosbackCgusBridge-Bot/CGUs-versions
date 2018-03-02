@@ -8,7 +8,7 @@
 *   Tickets
 *   Shop
 *   Teams
-*   Super Bowl
+*   Draft
 *   Game Pass
 *   Stats
 *   Ways to Watch
@@ -23,7 +23,7 @@
 *   Fantasy
 *   Combine
 
-*   *   Super Bowl
+*   *   Draft
     *   Game Pass
     *   Stats
     *   Ways to Watch
