@@ -16,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.435,85ǀ
+*   DAX 11.913,71ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -51,6 +51,7 @@ Anmelden
         *   Unternehmen &. Märkte
         *   Staat &. Soziales
         *   Mittelstand
+        *   Geldanlage
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
         *   Immowelt
@@ -79,8 +80,6 @@ Anmelden
         *   Ergebnisse
         *   Wintersport
     *   *   Bundesliga präsentiert von Continental
-        
-        *   Olympia 2018
 *   Kultur
     
     *   *   Übersicht
@@ -251,7 +250,7 @@ Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor
 *   Allgemeine Nutzungsbedingungen
 
   
-  
+Advertisement  
 Allgemeine Nutzungsbedingungen
 
 *   Drucken
