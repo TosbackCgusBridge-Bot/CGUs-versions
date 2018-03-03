@@ -44,6 +44,7 @@ Freshen up your wardrobe for spring – Shop New Arrivals.
         
         *   Tops
         
+        *   2 For $35
         *   Bodysuits
         *   Tees
         *   Tanks
