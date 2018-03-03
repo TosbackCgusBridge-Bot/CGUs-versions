@@ -210,6 +210,8 @@ Get the low-down on all things Fitbit legal.
 
 See all our legal policies
 
+Get the skinny on all things FitbitPlease enter an email addressThanks for signing up! Shop the Fitbit family here Shop the Fitbit family Shop Now
+
 *   BLOG
 
 *   Fitbit
@@ -231,3 +233,5 @@ United States (change)
 *   Wear and Care
 *   Recall &. Safety Info
 *   AdChoices
+
+<img src="//bat.bing.com/action/0?ti=5039010&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1505598476417668&amp;ev=PageView&amp;noscript=1">.
