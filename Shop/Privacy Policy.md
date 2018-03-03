@@ -321,13 +321,13 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers Different innovates better
+Home >. Filter by specs Offers
 
-EXPLORE MWC >.
+Built to perform. Engineered to endure. Now Available .
 
-DESKTOP DEALS
+Learn more >.
 
-LENOVO DESKTOPS GO DAY TO NIGHT. THINKCENTRE ROCKS YOUR WORKDAY AND IDEACENTRE ALL-IN-ONES KEEP YOU GOING AT HOME.
+Durable Vibrant Corning® Gorilla® Glass Covers
 
 Shop now >.
 
@@ -349,13 +349,13 @@ Lenovo Small Business
 
 Explore how Lenovo can be your small business partner.
 
-FLEX 5 (15")
+Look no further, early adopter
 
-Pen-point sensitive touch screen and durable 360 degree hinge.
+The 2018 Lenovo ThinkPad generation of laptops is re-engineered with the latest technology.
 
-TAB 4 10 PLUS ADDS IT ALL
+Yoga Tab 3 Pro
 
-Super sound. Separate user accounts. And simply dazzling visuals.
+Say goodbye to your TV and hello to the ultimate entertainment tablet.
 
 Awaken your inner Jedi with a new smartphone-powered augmented reality experience.
 
