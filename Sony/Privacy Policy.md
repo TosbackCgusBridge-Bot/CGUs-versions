@@ -155,7 +155,7 @@ With the α7R III
 
 A whole new world: Get lost in the newly redesigned Alpha Universe.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -217,7 +217,7 @@ Now With Noise Canceling
 
 .@morgansaint + a classical string quartet = a total reimagining of "Glass House." See the full #LostInMusic: Sessions episode later this week.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -303,7 +303,7 @@ Bid on a Life Space UX Product Suite
 
 Experience creative shooting at its finest with the ultra-compact, versatile #RX0 at #SonySquareNYC.
 
-2 days ago
+3 days ago
 
 View Tweet
 
