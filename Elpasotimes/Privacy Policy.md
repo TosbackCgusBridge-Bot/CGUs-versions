@@ -1,4 +1,4 @@
-SUBSCRIBE NOWto get full access
+close dialog1st Month FreeSubscribe Todayclose dialogSUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -14,7 +14,6 @@ SUBSCRIBE NOWto get full access
 *   Photo &. Video
 *   Subscribe
 *   Advertise with Us
-*   Olympics
 *   More
     *   Home
     *   News
@@ -30,7 +29,6 @@ SUBSCRIBE NOWto get full access
     *   Photo &. Video
     *   Subscribe
     *   Advertise with Us
-    *   Olympics
 
 *   socialFollow
 *   search
@@ -118,7 +116,7 @@ LifestyleOpinion
 *   Columnists
 *   Letters to the Editor
 
-HomesObituariesUSA TODAYPhoto &. VideoSubscribeOlympics
+HomesObituariesUSA TODAYPhoto &. VideoSubscribe
 
 © 2018 elpasotimes.com, All rights reserved.
 
@@ -145,3 +143,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog1st Month FreeSubscribe Todayclose dialog
