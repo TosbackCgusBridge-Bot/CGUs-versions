@@ -28,6 +28,8 @@ Close submenu ( Girls ) Girls
 *   Trending
 *   Clearance
 *   Live Love Dream
+*   Bras
+*   Undies
 
 Close submenu ( Featured ) Featured
 
@@ -346,6 +348,8 @@ Menu Find a Store Aeropostale
     *   Trending
     *   Clearance
     *   Live Love Dream
+    *   Bras
+    *   Undies
     
 *   Guys
     
