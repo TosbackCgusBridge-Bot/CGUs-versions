@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 16%  11% 
+What is PeekScore? Public Records &. Background Checks 17%  8% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 16%  11% 
     
 *   Show Less ...
 
-16%  16%  Arrest Records &. Driving Infractions
+17%  17%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 11% 
+Facebook 8% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,71 +213,71 @@ Facebook 11% 
     
 *   Show Less ...
 
-Twitter 11% 
+Twitter 8% 
 
-*   Justice Department - TheJusticeDept
-    
-*   HIV.gov - HIVGov
-    
-*   NIH - NIH
-    
-*   Federal Reserve - federalreserve
-    
-*   Show More ...
-
-*   FTC - FTC
-    
 *   Free Privacy Policy - FreePrivacy1
-    
-*   HHS.gov - HHSGov
-    
-*   HealthCare.gov - HealthCareGov
     
 *   Bush Library - Bush41Library
     
-*   U.S. FDA - FDArecalls
+*   FTC - FTC
     
-*   FDA Drug Information - FDA\_Drug\_Info
+*   Alex Azar - SecAzar
     
-*   U.S. Census Bureau - uscensusbureau
-    
+*   Show More ...
+
 *   U.S. FDA - US\_FDA
-    
-*   Cristiano Ronaldo - Cristiano
-    
-*   Mabuhay Miles - PALMabuhayMiles
     
 *   IRS - IRSnews
     
-*   Francis S. Collins - NIHDirector
+*   Cristiano Ronaldo - Cristiano
+    
+*   Justice Department - TheJusticeDept
     
 *   OAIC - OAICgov
     
-*   DOJ Civil Rights - CivilRights
+*   U.S. FDA - FDArecalls
+    
+*   HIV.gov - HIVGov
+    
+*   Mabuhay Miles - PALMabuhayMiles
+    
+*   U.S. Census Bureau - uscensusbureau
+    
+*   HealthCare.gov - HealthCareGov
+    
+*   Federal Reserve - federalreserve
+    
+*   Francis S. Collins - NIHDirector
+    
+*   FDA Drug Information - FDA\_Drug\_Info
     
 *   CDC - CDCgov
     
+*   HHS.gov - HHSGov
+    
+*   NIH - NIH
+    
 *   Show Less ...
 
-Instagram 11% 
+Instagram 8% 
 
 *   � - \_privacy.\_.policy\_\_
     
 *   Karen McDowall - privacy\_\_\_policy
     
-*   Privacy Policy - insta\_privacy\_policy
+*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
     
-*   Privacy Policy. - privacypolicy.6974
+*   Privacy Policy - insta\_privacy\_policy
     
 *   Show More ...
 
+*   Privacy Policy. - privacypolicy.6974
+    
 *   privacypolicy - privacypolicy4072
     
 *   privacy&policy - privacyandpolicy
     
 *   Рогов Хуго - privacypolicy
-    
-*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
     
 *   Private - \_privacypolicy\_\_
     
@@ -325,8 +325,12 @@ Instagram 11% 
     
 *   Show Less ...
 
-Pinterest 16%  Wikipedia 11% 
+Pinterest 17%  Wikipedia 8% 
 
+*   Wikipedia
+    
+    Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
+    
 *   P3P
     
     Purpose. As the World Wide Web became a genuine medium in which to sell products and services, electronic commerce websites tried to collect more information about ...
@@ -336,33 +340,18 @@ Pinterest 16%  Wikipedia 11% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 11% 
+Google+ 8% 
 
-*   Expedia - Google+
+*   PRIVACY POLICY - Google+ - Google Plus
     
-    Press question mark to see available shortcut keys.. Discover. Join Google+. Report an issue. Help. ©2018 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search.
-    
-*   Privacy policy - Google+ - Google Plus
-    
-    No personal information is transmitted by My Recipes app rss reader and no information is used, stored, secured or disclosed. Use this app in your own risk. You agree to this privacy policy as long as you use the application. This Policy may change at any time. one plus one. 1. no comments. no shares. Looks like you've ...
+    Privacy Policy Last updated: June 05, 2016. Kids Exercise - Animal Workout ("us" , "we", or "our") operates the Kids Exercise - Animal Workout mobile application ( the "Service"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not ...
     
 *   Privacy Policy - Google+ - Google Plus
     
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
-*   privacy policy - Google+ - Google Plus
-    
-    ©2017 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo. privacy policy. About. Posts. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while more posts are being loaded.
-    
-*   Show More ...
 
-*   My Privacy Policy - Google+
-    
-    My Privacy Policy - Google+.
-    
-*   Show Less ...
-
-Linkedin 16%  Music 11% 
+Linkedin 17%  Music 8% 
 
 *   Pandora
     
@@ -388,27 +377,27 @@ Linkedin 16%  Music 11% 
     
 *   Pandora
     
-    How does it work? Advertisers may collect data about your online browsing activity and use it to show you targeted ads (a process known as "behavioral advertising"). You can prevent the companies listed below from showing you targeted ads by submitting opt-outs. Opting-out will only prevent targeted ads so you may ...
+    | Intellectual Property Policy · Terms of Use · Subscription Terms · Premium Trial Terms · Privacy Policy · Community &. Content Policy · Intellectual Property Policy · Tax Policy ...
     
-*   Pandora's UK Tax Strategy
+*   Pandora
     
-    Pandora Logo | Terms of Use · Terms of Use · Subscription Terms · Premium Trial Terms · Privacy Policy · Community &. Content Policy · Intellectual Property Policy · Tax Policy ...
+    In addition to these P4B Terms, the Pandora Services Terms of Use and the Pandora Privacy Policy (the "Pandora Agreement"), which you agreed to when you registered for the Pandora Internet radio service (the "Pandora Service"), also apply to your use of the P4B Service and are incorporated by this reference as part of ...
     
 *   Pandora
     
     Oct 18, 2016 ... The Access Period and cost of the Subscription Product you purchase are disclosed prior to purchase and confirmed via email following purchase. We transfer your billing information to our payment processor(s) as disclosed in our Privacy Policy. If you purchase a Subscription through an External Service, ...
     
-*   Pandora 90
+*   Pandora's UK Tax Strategy
     
     Pandora Logo | Terms of Use · Terms of Use · Subscription Terms · Premium Trial Terms · Privacy Policy · Community &. Content Policy · Intellectual Property Policy · Tax Policy ...
     
-*   Pandora | Create an Account
+*   Pandora Subscription Product Offer Terms
     
-    Review the Terms Of Use and Privacy policy. Check or uncheck to remain signed in. Click Sign Up after you've reviewed that your information is accurate. You can then start creating stations by entering an artist or song name. On a Mobile Device: After downloading and launching the Pandora app from your device's app ...
+    Pandora Logo | Subscription Product Offer Terms · Terms of Use · Subscription Terms · Premium Trial Terms · Privacy Policy · Community &. Content Policy · Intellectual Property Policy · Tax Policy ...
     
 *   Show Less ...
 
-Photo Albums 11% 
+Photo Albums 8% 
 
 *   Flickriver
     
@@ -423,23 +412,23 @@ Photo Albums 11% 
     Missouri Department of Transportation Central Office 105 W. Capitol Avenue Jefferson City, MO 65102 1-888-ASK-MODOT (275-6636) 1-866-831-6277 (Motor Carrier Services)
     
 
-Myspace 11% 
+Myspace 8% 
 
 *   Privacy Policy - 49086242
     
 *   Privacy Policy - 419681495
     
+*   Privacy Policy - yourbandnameiskewl
+    
+*   Privacy Policy - 71089472
+    
+*   Show More ...
+
 *   Privacy Policy - 98020535
     
 *   Privacy Policy - 80000267
     
-*   Show More ...
-
 *   Privacy Policy - 78109889
-    
-*   Privacy Policy - yourbandnameiskewl
-    
-*   Privacy Policy - 71089472
     
 *   Privacy Policy - youmakemewannaohlala
     
@@ -447,7 +436,7 @@ Myspace 11% 
     
 *   Show Less ...
 
-Web Search 11% 
+Web Search 8% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -493,7 +482,7 @@ Web Search 11% 
     
 *   Show Less ...
 
-Images 11% 
+Images 7% 
 
 9
 
