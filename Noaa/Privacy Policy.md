@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA’s GOES-S satellite roars into orbit New weather satellite will aid forecasts for western U.S., Alaska and Hawaii AROUND NOAA // Powerful storms to impact both U.S. coasts through Friday. Get the latest watches, warnings We have lift off! NOAA's GOES-S satellite launches from Kennedy Space Center 5 reasons GOES-S will be a game-changer for weather forecasts Featured photo: Last call at the South Pole, for now
+Enter Search Terms NOAA’s GOES-S satellite roars into orbit New weather satellite will aid forecasts for western U.S., Alaska and Hawaii AROUND NOAA // Powerful storms to impact both U.S. coasts through Saturday morning. Get the latest watches, warnings We have lift off! NOAA's GOES-S satellite launches from Kennedy Space Center 5 reasons GOES-S will be a game-changer for weather forecasts Featured photo: Last call at the South Pole, for now
 
 *   About our agency
 *   News and features
