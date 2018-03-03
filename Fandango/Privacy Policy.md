@@ -72,9 +72,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Chris Hemsworth Being Eyed to Star in 'Men in Black' Spinoff Read More
-    *   Greta Gerwig Wants 'Lady Bird' to Be the First in a Series Read More
-    *   Movie News: Rashida Jones Touted for '9 to 5' Reboot Read More
+    *   Top New Trailers - February 2018 Read More
+    *   Disney Release Date Excitement: 'Avengers: Infinity War,' Animated Films and More Read More
+    *   Movie News: 'Highlander' Reboot Moves Forward Read More
     
     Explore Content
     *   Movie Reviews
@@ -262,21 +262,21 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   Love Movies? Join &. Save 20%
+*   'A Wrinkle in Time' Gift With Purchase
     
-    Watch the newest movies at home or on the go before Netflix, Hulu and Amazon Prime. New customers get 20% off for 1 month! SEE DETAILS
+    Receive a FREE\* exclusive 'A Wrinkle in Time' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    
+*   'Tomb Raider' Gift With Purchase
+    
+    Receive a FREE\* exclusive 'Tomb Raider' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    
+*   'Thoroughbreds' Gift With Purchase
+    
+    Receive a FREE\* exclusive 'Thoroughbreds' t-shirt with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Black Panther' Gift With Purchase
     
     Receive a FREE\* exclusive 'Black Panther' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
-    
-*   'Jurassic World: Fallen Kingdom' Sweepstakes
-    
-    Sign up for a ‘Jurassic World: Fallen Kingdom’ FanAlert® for your chance to win a trip to the filming location in Hawaii. SIGN UP
-    
-*   'Skyscraper' Sweepstakes
-    
-    Sign up for a 'Skyscraper' FanAlert® for your chance to win a video greeting from Dwayne Johnson + $500 in movie tickets. SIGN UP
     
 
 New + Coming soon
@@ -322,4 +322,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
