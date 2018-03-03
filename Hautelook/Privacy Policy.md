@@ -8,21 +8,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Luxe Handbags ft. MCM
+    *   TOV
+    *   Wear to Work: Dresses ft. Sharagano
+    *   PUMA
+    *   PUMA Men
+    *   Posh Couture
+    *   Special Occasion Jewelry ft. Givenchy
+    *   Shine On: Evening Clutches
+    *   Statement Pumps &. Heels Up to 60% Off
+    *   Men's Dress Shoes: Allen Edmonds &. More
+    *   Suits, Sport Coats &. More
+    *   Finishing Touches: Men's Accessories
+    *   Styles for Flower Girls &. Ring Bearers
+    *   Flower Girls' Must-Haves: Chanteur Jewelry
+    *   Olive &. Oak
+    *   Jewel Badgley Mischka
+    *   MCM Sun &. More
+    *   Tees &. More from $15 ft. MICHELLE by Comune
+    *   Full-Fit Bras Under $25 ft. Parfait
+    *   PUMA Kids
+    *   Designer Shoes ft. Derek Lam
+    *   Freida Rothman Jewelry
+    *   Teami Blends Detox Teas &. Supplements
+    *   Dynamic Innovation Labs Skin Care from $10
+    *   Julep Beauty Products &. Nail Polish
+    *   PX Up to 70% Off
+    *   Free Shipping: Linen Bedding &. More from $12
+    *   Must-See Steals: Mirrors &. Storage
+    *   Very J Under $30
+    *   Office Space: Storage, Decor &. More
     *   HUDSON
     *   HUDSON Men
-    *   Catherine Catherine Malandrino Up to 80% Off
     *   Just Me Dresses
+    *   Catherine Catherine Malandrino Up to 80% Off
     *   HUDSON Kids
+    
     *   bebe Sport
     *   Gorjana Jewelry
-    *   Patricia Green Starting at $20
     *   Muubaa
-    *   Ronny Kobo
-    *   CZ by Kenneth Jay Lane Up to 70% Off
-    *   On-Trend for Spring: Most Wanted USA Bags
     *   Cardi Party: Sweaters Under $35
+    *   CZ by Kenneth Jay Lane Up to 70% Off
+    *   Patricia Green Starting at $20
+    *   On-Trend for Spring: Most Wanted USA Bags
     *   Spring Fling: Jackets Up to 60% Off
-    *   L'Amour Des Pieds
     *   Signature Scents: Fragrances Up to 50% Off
     *   Flirty Eyes Mink Lashes Up to 75% Off
     *   Swims Up to 55% Off
@@ -32,6 +61,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Luxe Rug Steals
     *   Ultra-Soft Towels Starting at $10
     *   Free Shipping: Printed &. Metallic Bedding
+    *   Ronny Kobo
+    *   L'Amour Des Pieds
     *   Love Stitch
     *   La Moda Swim
     *   Bettye Sandals Up to 70% Off
@@ -41,93 +72,85 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Aimee Kestenberg Up to 65% Off
     *   Spring Forward: Men's Shirts, Shorts &. More
     *   Our Favorite Spring Shoes for Men
-    *   kate spade new york Girls
-    
-    *   Isaac Mizrahi Boys &. More
     *   Kids' Closet Refresh: Spring Styles for Boys &. Girls
-    *   Natori
-    *   Gracia
-    *   Casual-Cool Styles ft. Sweet Romeo
-    *   NANETTE Nanette Lepore Up to 75% Off
-    *   Timberland
-    *   Derek Lam 10 Crosby Denim
-    *   Spring Forward: Jumpsuits &. Rompers Under $40
     *   Smashbox
     *   Chan Luu Jewelry
-    *   Designed in Italy: EVVE MILANO Handbags
-    *   Perfectly Pink: Fresh Shoes for Spring
-    *   J. Renee Incl. Extended Sizes
     *   Date Night: Lips &. Lashes
     *   Timberland Men
     *   Premium Dress Shirts Under $35 ft. Nautica
     *   Beach Getaway: Trunks
+    
+    *   kate spade new york Girls
     *   Classics &. New Faves from HarperCollins
-    *   Le Creuset
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Free Shipping: One-of-a-Kind Throws
     *   Free Shipping: Whiteboards for Every Room
     *   Fujifilm Cameras We Love
     *   Free Shipping: Finishing Touches for Your Home
+    *   Le Creuset
     *   Free Shipping: Modern Rugs Up to 90% Off
     *   LED Lighting &. More Starting at $10
     *   Free Shipping: Statement Art &. More from $14
     *   Textural Touches: Decor &. More from $13
-    *   Sam Edelman
-    *   Sam Edelman Lingerie
-    *   Sam Edelman Handbags
-    *   Semi-Precious &. Sterling Silver Jewelry
     *   Blend Mineral Cosmetics Up to 80% Off
-    
     *   butter LONDON
     *   Belstaff
     *   Get Cozy: Polo Ralph Lauren Lounge
     *   Samuel Hubbard
     *   Flomotion
-    *   Azul Kids' Swimwear
-    *   Million Polkadots
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Macadamia Professional Hair Care from $10
     *   Eddie Bauer Bedding Starting at $16
     *   Free Shipping: Pop Art Pillows Under $18
     *   Free Shipping: Festive Serveware &. More
-    *   Men's Premium Jean Shop
-    *   Tommy Hilfiger Tailored Clothing
-    *   Supra Men
-    *   Walk-Over Up to 80% Off
-    *   Luxe Skin Care Up to 90% Off
     *   Free Shipping: Kitchen Blowout
     *   Home Organization Essentials Starting at $12
     *   Speck Phone &. Laptop Accessories
-    *   CB&CO Charcoal Oral Care
+    *   Isaac Mizrahi Boys &. More
     *   Free Shipping: Faux Fur Rugs Up to 60% Off
     *   Free Shipping: Bedding &. Throws Up to 60% Off
-    *   Poo-Pourri Bathroom Scents
-    *   Listen Up: Swarovski-Encrusted Earbuds &. More
-    *   Why Dress
-    *   Seven7
-    *   ASTR the Label
-    *   Velvet by Graham &. Spencer
-    *   Pour La Victoire
-    *   Oakley Sun &. Apparel
-    *   Micros Boys
-    *   Spring Has Sprung: Joe-Ella Dresses
+    *   Natori
+    *   Gracia
+    *   Timberland
+    *   Casual-Cool Styles ft. Sweet Romeo
+    *   NANETTE Nanette Lepore Up to 75% Off
 *   WomenShop Sale Events
     
+    *   Luxe Handbags ft. MCM
+    *   TOV
+    *   Wear to Work: Dresses ft. Sharagano
+    *   PUMA
+    *   Posh Couture
+    *   Special Occasion Jewelry ft. Givenchy
+    *   Shine On: Evening Clutches
+    *   Statement Pumps &. Heels Up to 60% Off
+    *   Olive &. Oak
+    *   Jewel Badgley Mischka
+    *   MCM Sun &. More
+    *   Tees &. More from $15 ft. MICHELLE by Comune
+    *   Full-Fit Bras Under $25 ft. Parfait
+    *   Designer Shoes ft. Derek Lam
+    *   Freida Rothman Jewelry
+    *   Teami Blends Detox Teas &. Supplements
+    *   Dynamic Innovation Labs Skin Care from $10
+    *   Julep Beauty Products &. Nail Polish
+    *   Very J Under $30
     *   HUDSON
-    *   Catherine Catherine Malandrino Up to 80% Off
     *   Just Me Dresses
+    *   Catherine Catherine Malandrino Up to 80% Off
     *   bebe Sport
     *   Gorjana Jewelry
-    *   Patricia Green Starting at $20
     *   Muubaa
-    *   Ronny Kobo
-    *   CZ by Kenneth Jay Lane Up to 70% Off
-    *   On-Trend for Spring: Most Wanted USA Bags
     *   Cardi Party: Sweaters Under $35
+    *   CZ by Kenneth Jay Lane Up to 70% Off
+    
+    *   Patricia Green Starting at $20
+    *   On-Trend for Spring: Most Wanted USA Bags
     *   Spring Fling: Jackets Up to 60% Off
-    *   L'Amour Des Pieds
     *   Signature Scents: Fragrances Up to 50% Off
     *   Flirty Eyes Mink Lashes Up to 75% Off
+    *   Ronny Kobo
+    *   L'Amour Des Pieds
     *   Love Stitch
     *   La Moda Swim
     *   Bettye Sandals Up to 70% Off
@@ -135,65 +158,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Layer &. Stack: Jewelry Up to 60% Off
     *   Spring Preview: Kimonos, Straw Hats &. More
     *   Aimee Kestenberg Up to 65% Off
-    *   Natori
-    *   Gracia
-    *   Casual-Cool Styles ft. Sweet Romeo
-    *   NANETTE Nanette Lepore Up to 75% Off
-    
-    *   Timberland
-    *   Derek Lam 10 Crosby Denim
-    *   Spring Forward: Jumpsuits &. Rompers Under $40
     *   Smashbox
     *   Chan Luu Jewelry
-    *   Designed in Italy: EVVE MILANO Handbags
-    *   Perfectly Pink: Fresh Shoes for Spring
-    *   J. Renee Incl. Extended Sizes
     *   Date Night: Lips &. Lashes
-    *   Sam Edelman
-    *   Sam Edelman Lingerie
-    *   Sam Edelman Handbags
-    *   Semi-Precious &. Sterling Silver Jewelry
     *   Blend Mineral Cosmetics Up to 80% Off
     *   butter LONDON
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Macadamia Professional Hair Care from $10
-    *   Luxe Skin Care Up to 90% Off
-    *   CB&CO Charcoal Oral Care
-    *   Why Dress
-    *   Seven7
-    *   ASTR the Label
-    *   Velvet by Graham &. Spencer
-    *   Pour La Victoire
-    *   Oakley Sun &. Apparel
+    *   Natori
+    *   Gracia
+    *   Timberland
+    *   Casual-Cool Styles ft. Sweet Romeo
+    *   NANETTE Nanette Lepore Up to 75% Off
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
-    *   Tech Accessories
     *   Lingerie
+    *   Tech Accessories
     *   Accessories
 *   MenShop Sale Events
     
+    *   PUMA Men
+    *   Men's Dress Shoes: Allen Edmonds &. More
+    *   Suits, Sport Coats &. More
+    *   Finishing Touches: Men's Accessories
+    *   Teami Blends Detox Teas &. Supplements
+    *   PX Up to 70% Off
     *   HUDSON Men
     *   Swims Up to 55% Off
     *   Beat the Chill: Socks ft. SMARTWOOL
+    
     *   Spring Forward: Men's Shirts, Shorts &. More
     *   Our Favorite Spring Shoes for Men
     *   Timberland Men
     *   Premium Dress Shirts Under $35 ft. Nautica
     *   Beach Getaway: Trunks
     *   Belstaff
-    
     *   Get Cozy: Polo Ralph Lauren Lounge
     *   Samuel Hubbard
     *   Flomotion
-    *   Men's Premium Jean Shop
-    *   Tommy Hilfiger Tailored Clothing
-    *   Supra Men
-    *   Walk-Over Up to 80% Off
-    *   Oakley Sun &. Apparel
     
     Shop By Category
     *   Clothing
@@ -201,44 +207,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Styles for Flower Girls &. Ring Bearers
+    *   Flower Girls' Must-Haves: Chanteur Jewelry
+    *   PUMA Kids
     *   HUDSON Kids
     *   Kids' Character Shop: PJ Sets, Toys &. More
     *   Must-Haves for Spring: Melissa &. Doug
-    *   kate spade new york Girls
-    *   Isaac Mizrahi Boys &. More
     *   Kids' Closet Refresh: Spring Styles for Boys &. Girls
-    
+    *   kate spade new york Girls
     *   Classics &. New Faves from HarperCollins
-    *   Azul Kids' Swimwear
-    *   Million Polkadots
-    *   Micros Boys
-    *   Spring Has Sprung: Joe-Ella Dresses
+    *   Isaac Mizrahi Boys &. More
     
     Shop By Category
-    *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
     *   Girls Sizes 2T-6X
-    *   Girls Sizes 7-16
+    *   Boys Sizes 2T-7
     *   Toys
-    *   Baby Girl
     *   Kids Accessories
+    *   Boys Sizes 8-20
+    *   Girls Sizes 7-16
+    *   Baby Girl
     *   Baby Boy
+    *   Boys' Shoes
+    *   Girls' Shoes
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Linen Bedding &. More from $12
+    *   Must-See Steals: Mirrors &. Storage
+    *   Office Space: Storage, Decor &. More
     *   Free Shipping: Luxe Rug Steals
     *   Ultra-Soft Towels Starting at $10
     *   Free Shipping: Printed &. Metallic Bedding
-    *   Le Creuset
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Free Shipping: One-of-a-Kind Throws
     *   Free Shipping: Whiteboards for Every Room
     *   Fujifilm Cameras We Love
     *   Free Shipping: Finishing Touches for Your Home
+    *   Le Creuset
+    
     *   Free Shipping: Modern Rugs Up to 90% Off
     *   LED Lighting &. More Starting at $10
     *   Free Shipping: Statement Art &. More from $14
-    
     *   Textural Touches: Decor &. More from $13
     *   Eddie Bauer Bedding Starting at $16
     *   Free Shipping: Pop Art Pillows Under $18
@@ -248,8 +257,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Speck Phone &. Laptop Accessories
     *   Free Shipping: Faux Fur Rugs Up to 60% Off
     *   Free Shipping: Bedding &. Throws Up to 60% Off
-    *   Poo-Pourri Bathroom Scents
-    *   Listen Up: Swarovski-Encrusted Earbuds &. More
     
     Shop By Category
     *   Home Decor
@@ -263,22 +270,25 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Teami Blends Detox Teas &. Supplements
+    *   Dynamic Innovation Labs Skin Care from $10
+    *   Julep Beauty Products &. Nail Polish
     *   Signature Scents: Fragrances Up to 50% Off
     *   Flirty Eyes Mink Lashes Up to 75% Off
     *   Smashbox
+    
     *   Date Night: Lips &. Lashes
     *   Blend Mineral Cosmetics Up to 80% Off
     *   butter LONDON
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Macadamia Professional Hair Care from $10
-    *   Luxe Skin Care Up to 90% Off
-    *   CB&CO Charcoal Oral Care
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Fragrance
     *   Hair Care
+    *   Supplements
     *   Nails
     *   Tools &. Accessories
     *   Bath &. Body
