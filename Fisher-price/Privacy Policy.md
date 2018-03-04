@@ -31,28 +31,28 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     
     See all
     
-    *   Barney &. Friends
     *   Everything Baby
     *   Little People®
     *   Thomas &. Friends™
     *   Imaginext®
-    
     *   Laugh &. Learn®
+    
     *   Think &. Learn
     *   Loving Family™
     *   Power Wheels®
     *   Bright Beats™
-    
     *   Shimmer and Shine™
+    
     *   Disney
     *   MEGA BLOKS®
     *   Grow-With-Me
     *   Blaze and the Monster Machines™
-    
     *   Bob the Builder™
+    
     *   Dora &. Friends™
     *   Octonauts™
     *   Alvin and the Chipmunks
+    *   Barney &. Friends
     *   Spinnyos™
     
     See all
