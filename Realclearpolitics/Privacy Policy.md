@@ -1,5 +1,3 @@
-× Close Ad
-
 *   Policy
 *   Markets
 *   World
@@ -287,9 +285,9 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   David Brooks: Chaos In The Presidency. Semi-Competent Staff And "Intellectually Unstable President"
 *   Sen. Mark Warner Speech At Carnegie Endowment On "Return Of Global Russia"
 *   Mark Levin: Abolish Secret FISA Court If Judges Can't Be Held Accountable
-*   Schumer: Trump Administration "Has Made The Swamp Worse"
 *   Don Lemon: "Apologies" That I Was Wrong About FOX News, But They Downplay Bad News About Trump
 *   'The View' Meghan McCain vs. Schiff: Any Specific Evidence Of Treasonous Trump Collusion With Russia?
 
