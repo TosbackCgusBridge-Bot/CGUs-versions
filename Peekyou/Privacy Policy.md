@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 18%  10% 
+What is PeekScore? Public Records &. Background Checks 17%  6% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 18%  10% 
     
 *   Show Less ...
 
-18%  18%  Arrest Records &. Driving Infractions
+17%  17%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 10% 
+Facebook 6% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 10% 
     
 *   Show Less ...
 
-Twitter 10% 
+Twitter 6% 
 
 *   Free Privacy Policy - FreePrivacy1
     
@@ -259,7 +259,7 @@ Twitter 10% 
     
 *   Show Less ...
 
-Instagram 10% 
+Instagram 6% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -325,7 +325,7 @@ Instagram 10% 
     
 *   Show Less ...
 
-Pinterest 18%  Wikipedia 10% 
+Pinterest 17%  Wikipedia 6% 
 
 *   Wikipedia
     
@@ -340,7 +340,7 @@ Pinterest 18%  Wikipedia 10% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 10% 
+Google+ 6% 
 
 *   PRIVACY POLICY - Google+ - Google Plus
     
@@ -351,7 +351,7 @@ Google+ 10% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 18%  Music 10% 
+Linkedin 17%  Music 6% 
 
 *   Pandora
     
@@ -397,7 +397,7 @@ Linkedin 18%  Music 10% 
     
 *   Show Less ...
 
-Photo Albums 10% 
+Photo Albums 6% 
 
 *   Flickriver
     
@@ -412,7 +412,7 @@ Photo Albums 10% 
     Missouri Department of Transportation Central Office 105 W. Capitol Avenue Jefferson City, MO 65102 1-888-ASK-MODOT (275-6636) 1-866-831-6277 (Motor Carrier Services)
     
 
-Myspace 10% 
+Myspace 6% 
 
 *   Privacy Policy - 49086242
     
@@ -436,7 +436,7 @@ Myspace 10% 
     
 *   Show Less ...
 
-Web Search 10% 
+Web Search 6% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -482,7 +482,7 @@ Web Search 10% 
     
 *   Show Less ...
 
-Images 10% 
+Images 6% 
 
 9
 
