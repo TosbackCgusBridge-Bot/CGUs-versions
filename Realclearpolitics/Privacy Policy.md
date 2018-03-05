@@ -285,11 +285,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Wilbur Ross to Maria Bartiromo: Impact Of Steel/Aluminum Tariff Will Be "Trivial" For Consumers
+*   Father of Parkland Victim: Gun Laws Are Not Achievable. "Stay Focused" On School Safety
+*   Lindsey Graham: Don't Bother Talking About Jared Kushner And Peace Process, Middle East Is On Brink Of War
+*   McDonough: "We Did Exactly What We Think We Needed To Do" On Russian Election Interference
 *   David Brooks: Chaos In The Presidency. Semi-Competent Staff And "Intellectually Unstable President"
-*   Sen. Mark Warner Speech At Carnegie Endowment On "Return Of Global Russia"
-*   Mark Levin: Abolish Secret FISA Court If Judges Can't Be Held Accountable
-*   Don Lemon: "Apologies" That I Was Wrong About FOX News, But They Downplay Bad News About Trump
-*   'The View' Meghan McCain vs. Schiff: Any Specific Evidence Of Treasonous Trump Collusion With Russia?
 
 *   Politics
 *   Policy
