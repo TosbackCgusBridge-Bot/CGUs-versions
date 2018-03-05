@@ -1,170 +1,12 @@
-English
+﻿
 
-*   Español
+*   Shipping Create a Shipment Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
+*   Tracking TRACKING ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
+*   Printing Services Start Online Printing Order Posters, Signs &. Banners Presentations &. Manuals Marketing Materials Ideas &. Custom Solutions Get Coupons &. Deals ALL PRINTING SERVICES
+*   Locations All Location Types FIND A LOCATION
+*   Support New Customer Center Small Business Center FedEx Service Guide Account Management Tools File a Claim View &. Pay Bill CUSTOMER SUPPORT
 
-Locations Support My FedEx Rewards My Profile Ship Track Manage Learn FedEx Office ® Menu Package, Envelope, or  
-Express Freight FedEx Express or FedEx Ground
-
-*   Create Shipment
-*   Get Rates &. Transit Times
-*   Find FedEx Locations
-*   Schedule and Manage Pickups
-*   Order Shipping Supplies
-*   Pack Shipment
-*   Access International Services
-
-Freight Shipments FedEx Freight
-
-*   Generate Bill of Lading
-*   Get Rates and Transit Times
-*   Schedule and Manage Pickups
-*   View Transit Maps
-*   Find FedEx Locations
-*   Go to Shipping Desk
-*   International Services
-*   U.S. Offshore Services
-
-Expedited/Extra-care Handling FedEx Custom Critical
-
-*   Ship
-*   Fast Ship
-*   Get Rates &. Transit Times
-*   Temperature Control
-*   Secure Services
-*   Truckload Solutions
-
-Air/Ocean Freight Forwarding FedEx Trade Networks
-
-*   Get Forms
-*   My Forms
-*   Importer Security Filing
-*   eManifest
-
-Not sure which service is right for you? Click Here Package, Envelope, or  
-Express Freight FedEx Express or FedEx Ground
-
-*   Track by Tracking Number
-*   Track by Reference
-*   Obtain Proof of Delivery
-*   Track by TCN
-*   Access FedEx Tracking
-*   Access FedEx Delivery Manager®
-*   Access FedEx InSight
-*   Track Using FedEx Desktop
-
-Freight Shipments FedEx Freight
-
-*   Track by Tracking Number
-*   Track by Reference
-*   Obtain Proof of Delivery
-*   Obtain Bill of Lading
-*   Access Notifications
-*   Sign up for FedEx Freight Advance Notice
-*   Track by Email
-*   Access My Calendar
-
-Expedited/Extra-care Handling FedEx Custom Critical
-
-*   Detailed Track
-
-Air/Ocean Freight Forwarding FedEx Trade Networks
-
-*   Quick Find
-*   Track
-
-Package, Envelope, or Express Freight FedEx Express or FedEx Ground
-
-*   Update My Profile
-*   View/Pay Bills
-*   Run Reports
-*   Submit Claims
-*   Access Address Book
-*   Go to FedEx Global Trade Manager
-*   Access FedEx Return Manager
-
-Freight Shipments FedEx Freight
-
-*   Obtain Proof of Delivery
-*   Obtain Bill of Lading
-*   Request Reports
-*   Review Open Invoices
-*   Request Billing Adjustments
-*   Claims Resolution
-*   Access Address Book
-
-Expedited/Extra-care Handling FedEx Custom Critical
-
-*   View Shipping Documents
-*   Review Open Invoices
-*   Reset Password
-*   Change Password
-*   Add Locations
-
-Air/Ocean Freight Forwarding FedEx Trade Networks
-
-*   Run Reports
-*   FedEx Global Distribution System
-*   Global Order Logistics
-*   Go to My Account
-*   WorldTariff
-*   Reference
-*   My Products
-
-Starting Point All the Basics
-
-*   Open an Account
-*   New Customer Center
-*   U.S. Shipping Services
-*   International Shipping
-*   FedEx Freight Services
-
-Shipping 101 Learn How to:
-
-*   Pack
-*   Ship
-*   Return Shipments
-*   Go Mobile
-*   Track
-*   Pay Bills
-*   File a Claim
-
-Knowledge Sharing Resources and Information
-
-*   Small Business Solutions
-*   E-Newsletter
-*   Newsroom
-*   Citizenship Blog
-*   Developer Resource Center
-*   FedEx Compatible
-*   Industry Specific Solutions
-
-Service Guide
-
-The FedEx Service Guide is your resource for FedEx service information and shipping basics.
-
-View now Have specific questions? Visit Customer Support. Shipping
-
-Pack, ship and more at over 1,800 locations. Stop in for convenient access to FedEx Express® and FedEx Ground® shipping services, supplies, boxes and packing help.
-
-Go to Details Copy and Print
-
-Design, print and ship documents anywhere, anytime. Print online, In store or by downloading our mobile app. Let us help your business or personal projects with a professional touch.
-
-Go to Details Signs and Banners
-
-Create high-impact banners, signs, posters and more for everything from business events to home projects. We make it easy to bring your ideas to life with our know-how to get it done.
-
-Go to Details Other Resources
-
-*   FedEx Office Home
-*   Packing Services
-*   Print Online
-*   Mobile Printing
-*   Ideas and Solutions
-*   Deals
-*   In-Store Only
-
-Create Shipment Get Rates Schedule a Pickup Track a Shipment Find a Location FedEx Office Mobile Login Welcome to the Customer Protection Center
+Sign In Top Searches Door tag Supplies Shipping label Commercial invoice Welcome to the Customer Protection Center
 
 FedEx strives to provide a safe, secure online environment for our customers. The Customer Protection Center provides information about how FedEx works to help protect you and how you can protect yourself.
 
@@ -178,7 +20,6 @@ Share this page:
 *   Security &. Privacy Tips
 *   Doing Our Part
     *   Account Number Protection
-*   Privacy Policy - fedex.com
 *   Privacy Policy - FedEx Digital Platforms
 
 More Resources
@@ -188,104 +29,123 @@ More Resources
 *   Federal Trade Commission
 *   Department of Justice
 
-Privacy Policy for FedEx.com
+Privacy Policy for FedEx Digital Platforms
 
-FedEx Corporation understands the importance of protecting the privacy of fedex.com and senseaware.com (collectively, the "Websites") users. The information collected is used to market and improve the services we and our subsidiaries offer, to improve the fedex.com Web-site content, and to contact you with updates to the Web site or for other marketing purposes.
+Effective date: April 12, 2017
 
-Certain areas of fedex.com, including but not limited to FedEx Ship Manager® at fedex.com, FedEx InSight®, FedEx Return Manager®, FedEx® Billing Online, and FedEx® Global Trade Manager, require registration or a password for access. Information obtained from registered users of these areas may also be used for FedEx marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas, including, but not necessarily limited to FedEx Ship Manager at fedex.com, FedEx Return Manager, etc. In addition, visitors to fedex.com may choose to register for a fedex.com Login user ID and password to simplify access to some interactive features on fedex.com. Log file data and other information gathered from registered users of fedex.com are used to improve the fedex.com customer experience.
+The Effective Date of this Privacy Policy is set forth above. FedEx reserves the right to amend this Privacy Policy at any time with or without notice. Changes in the Privacy Policy become effective thirty (30) days after the first posting of any revised version. To stay abreast of these changes, please regularly check our Privacy Policy. FedEx understands the importance of protecting the privacy of recipients and users of FedEx digital communications. This Privacy Policy applies to: individually identifiable information about you ("Personal Information") that we collect via sites that link to this policy, including fedex.com, senseaware.com, FedEx mobile applications, and via FedEx-controlled widgets embedded in communication platforms, e.g., within Facebook or Twitter (collectively, “FedEx Digital Platforms”) and data about your computer or mobile device collected in connection with your use of the FedEx Digital Platforms ("Device Data"). Personal Information that may be collected may include name, physical and mailing address, email address, billing information, business profile, telephone number, credit/debit card number, purchasing history and product and service preferences.  
+  
+FedEx uses the information collected via the FedEx Digital Platforms to:
 
-fedex.com Login currently provides users with access to FedEx Ship Manager at fedex.com, FedEx® Global Trade Manager, and Simplify My Shipping. Currently, other applications require separate registrations. In the future, FedEx may add other features to those accessed through fedex.com Login. (In such event, previously registered users will not be required to re-register.)
-
-If you are the recipient of a package, we have obtained your name and shipping information from a customer. When you visit fedex.com to track your package in transit, we collect your IP address and other non-identifying information about you, as we do with other visitors to the website. You do not need to register with fedex.com to obtain this information. We use, disclose, and otherwise handle information that we obtain about you to support the operation of fedex.com, to provide our services, and to perform other activities in accordance with this Privacy Policy.
-
-Please also see the FedEx Service Guide for terms of carriage, limitations of liability, and disclaimers of warranty and general terms applicable to all delivery services and various information used and provided with FedEx services.
-
-FedEx reserves the right to amend the Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.
-
-Your use of fedex.com constitutes your agreement to this Privacy Policy.
+*   market and improve FedEx services,
+*   transact business with FedEx customers,
+*   improve the FedEx Digital Platforms and the content distributed through them,
+*   contact you with updates to and information about the FedEx Digital Platforms and FedEx services and activities, to help with fraud identification,
+*   conduct other FedEx marketing, promotional and informational activities,
+*   identify the type of digital and other content, messaging and information visitors to the FedEx Digital Platforms value most, assess and monitor certain user experience, and
+*   perform other activities as described in this Privacy Policy, and
+*   help FedEx understand the efficacy of the content, messaging and information provided through the FedEx Digital Platforms.
 
   
-More Information on This Privacy Policy
+**Your use of the FedEx Digital Platforms constitutes your agreement to FedEx's use of your information as described in this Privacy Policy If you choose not to provide Personal Information or Device Data, FedEx may not be able provide you with the products, services and information that it offers.  
+**  
+Certain features, including but not limited to FedEx Ship Manager® at fedex.com, FedEx InSight®, FedEx Return Manager®, FedEx® Billing Online, and FedEx® Global Trade Manager and My FedEx Rewards require registration or a password for access, or may require other information to use the FedEx Digital Platforms. Information obtained from registered users of these areas may also be used for the purposes stated in this Privacy Policy, and cookies may be used in those and other areas, as is described in this Privacy Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas, including but not limited to FedEx Ship Manager at fedex.com, FedEx Return Manager, etc. In addition, visitors to fedex.com may choose to register for a fedex.com Login user ID and password to simplify access to some interactive features on fedex.com.  
+  
+Fedex.com login currently provides users with access to several FedEx applications such as FedEx Ship Manager at fedex.com and FedEx®Global Trade Manager. Other applications require separate registrations. In the future, FedEx may add other features to those accessed through fedex.com login.
 
-What information does FedEx capture about visitors to its Web site?
+  
 
-The fedex.com Web server uses an extended log file format which captures: date and time of visit, referring address (location from which a visitor comes to fedex.com), type of Internet browser, and visitor's IP address. (Each computer that connects to the Internet is assigned a unique number, an IP address, for identification purposes). The log file does not capture a visitor's email address.
+Privacy Policy for FedEx Digital Platforms: Frequently Asked Questions
 
-Does FedEx ask for personal information?
+Package Tracking
 
-Several areas of fedex.com ask for personal information. They include: Online Account Registration, features of Manage My Account, and registration pages for FedEx Ship Manager at fedex.com, FedEx Global Trade Manager, FedEx Return Manager, and FedEx InSight. This list may be expanded without notice. In the event that it is expanded, additional information may be required. In these areas, your name, address, email address, billing information, and business profile are requested. This information is collected to help us further develop our services, to provide you access to valuable FedEx Internet-based information and services, and to bill you for those services if you elect to use them.
+If you are the recipient of a package, we have obtained your name and shipping information from a customer. When you visit fedex.com to track your package in transit, we collect your IP address and other information about you, as we do with other visitors to the Web site. You do not need to register with fedex.com to obtain tracking information about your package. Please also see the applicable FedEx operating company website, e.g., FedEx Ground, FedEx Freight etc. and/or FedEx Service Guide for terms of carriage, limitations of liability, and disclaimers of warranty and general terms applicable to FedEx services and various information used and provided with FedEx services.
 
-How does FedEx use the information?
+What Device Data does FedEx capture about visitors to FedEx Digital Platforms?
 
-The information collected through this site helps us identify the type of Web-site content our customers value most. We use this information to market and improve the Web site and our services. We also use this information to send you e-mail notifications about updates to the Web site, and to contact you by other means for marketing and other purposes. Our policy is to not give, sell or otherwise distribute the information collected through this site to third parties outside of FedEx Corporation and its subsidiaries (unless required by law). provided, however, in some cases we may use suppliers to assist us in collecting, using or otherwise processing for our benefit the information obtained through this site. Our practice is to require our suppliers to conduct such activities consistent with this policy and our requirements.
+The FedEx Digital Platforms use an extended log file format which may capture among other things: date and time of visit including date/time of messaging and content click and open, referring address (location from which a visitor comes to the FedEx Digital Platforms), referring promotional campaign information (including country and language thereof), date and time stamp thereof, type of email or other digital client used, operating system used, Internet browser used, and visitor's IP/ other non-personal identifiers. Each computer and device that connects to the FedEx Digital Platforms is assigned a unique number, an IP address, country/language, date/timestamp, screen size, meta-tags, and FedEx first party cookie and third party cookies.
 
-How will SenseAware work and what data will FedEx collect through SenseAware?
+Does FedEx ask for Personal Information?
 
-SenseAware is a GPS sensor device that we expect to offer in 2010 to select customers to track their packages in transit, including location and internal conditions (humidity, light/dark, and the like). Through participation in the SenseAware Program, customers will place the devices in the packages to be delivered by FedEx, and the devices transmit the tracking data to FedEx servers. We will display the tracking data through the SenseAware website on senseaware.com to our customers and others they designate (e.g., recipients). We will use the SenseAware service to track data about packages only, and we will require by contract that our customers may not use the devices for any other purposes.
+Several areas of the FedEx Digital Platforms, including fedex.com, may ask for Personal Information. They currently include: Online Account Registration, features of Manage My Account, and registration pages for FedEx Ship Manager at fedex.com, FedEx Global Trade Manager, FedEx Return Manager, and FedEx InSight. This list may be expanded without notice. In the event that it is expanded, additional information may be required.
 
-What happens when I leave fedex.com to visit a FedEx linked Web site?
+Our policy is not to give, sell or otherwise distribute the Personal Information collected to third parties outside of FedEx (unless required by law) to allow such third parties to conduct their own marketing activities for their own benefit. provided, however, in some cases we may use suppliers to assist us in collecting, using or otherwise processing for our benefit the information obtained for the purposes described in this Privacy Policy, including market research. Our practice is to require our suppliers to conduct such activities consistent with this policy and our requirements. In addition, your Personal Information may be combined with non-personal information to customize your FedEx experience on The FedEx Digital Platforms and on third party sites.
 
-Parts of fedex.com, such as FedEx Global Trade Manager, consist of products and services hosted by third-party businesses. When you leave fedex.com to visit one of these sites, the only information transferred to the third-party is the fact that you came from fedex.com (the referring address). This practice allows the third-party to monitor its own Web-site traffic, but does not provide them with any information about you. FedEx is not responsible or liable for the independent privacy policies of our third-party sites. You should consult the privacy policies at those sites to determine how your information may be used.
+How does SenseAware work and what data does FedEx collect through SenseAware?
 
-What is a cookie?
+SenseAware consists of GPS enabled sensor devices that allow SenseAware customers to track their packages in transit, including the location and internal conditions (humidity, light/dark, and the like). FedEx provides this information to SenseAware customers for their use.
 
-Cookies are used to achieve two goals. The first is to provide FedEx with the capability to personalize information for certain segments of its customer base. Secondly, in some instances, cookies are used to allow FedEx the opportunity to associate individual customers with their information profiles. For example, through the use of cookies, fedex.com Login can "remember" your user ID when you login to FedEx Ship Manager at fedex.com on your computer.
+What happens when I leave a Digital Platform to visit a FedEx linked Web site?
+
+A cookie is a series of data characters that, when programmed into a web site, is placed by the web server into the browser's application folder on your computer. Once placed onto your machine, the cookie will allow the FedEx Digital Platforms to "recognize" your computer or mobile device.
+
+A cookie may also be combined with a web beacon, which is an invisible image with a line of code which is placed within an email message or on a web page. Web beacons inform FedEx if an intended recipient can receive email in an HTML format or only as a text message, whether the email message has been open or opened multiple times, and if a display ad has been viewed or clicked through. This information is used to serve customized messaging to visitors to the FedEx Digital Platforms. Web beacons do not create, modify or delete files on a user's machine. Since they are not executable, they cannot provide means for the delivery of dangerous content such as malware or viruses. These technologies allow FedEx to receive and store certain information when you visit a FedEx Digital Platform through a computer or mobile device. Device Data captured through these technologies may include the geo-location of your computer or mobile device, information about the specific pages you viewed while on the site, the sequencing and duration of your views on those pages, the type of computer or mobile hardware you used to access the site, and the IP address of the hardware.
+
+In addition to the information provided above, cookies are used to achieve several goals. The first is to provide FedEx with the capability to personalize information for visitors to the FedEx Digital Platforms. Cookies can also help us recognize you as a previous visitor and remember any preferences that may have been set when you previously visited our Web site using the same browser.
+
+In some instances, cookies are used to allow FedEx the opportunity to associate individual customers with their information profiles. For example, through the use of cookies, fedex.com Login can "remember" your user ID when you login to FedEx Ship Manager at fedex.com on your computer. Personal Information may also be combined with Device Data to provide you with more customized content on the FedEx Digital Platforms and advertisements on other sites across the Internet. For example, when you access a page on the FedEx Digital Platforms, a cookie is automatically set by us, or our service providers to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests and about FedEx. Please see the advertising section below for more information about our online advertising practices and your choices. You can also learn more about how we use your Personal Information when you register with fedex.com. Where we combine Device Data and Personal Information, we treat all such data as Personal Information.
+
+What are cookies and web beacons, and how does FedEx use them?
+
+Certain components of the FedEx Digital Platforms consist of or include products and services hosted by third-party businesses. When you access one of these third-party components, the only information transferred to the third-party is the fact that you came from a FedEx Digital Platform. This practice allows the third-party to monitor its own website traffic, but does not provide them with any information about you, other than as stated above. Once you leave a FedEx Digital Platform, the third-party may monitor its own website traffic and may install other cookies or web beacons in order to collect information about you. FedEx is not responsible or liable for the independent activities or privacy policies at third-party sites. You should consult the privacy policies and other terms and conditions at those sites to determine how your information may be used and the practices of those third party sites.
 
 Can cookies be removed from my hard drive?
 
-Yes, cookies can be removed from your hard drive. Also, depending on what type of Web browser and what browser version you are using, you may be able to change the properties on your cookie file so that cookies are not used or saved. Please check with your browser provider for more information on removing cookies.
+Yes, cookies can be removed from your hard drive. Also, depending on what type of web browser and what browser version you are using, you may be able to change the properties on your cookie file so that cookies are not used or saved. Please check with your browser provider for more information on removing cookies. Please note that if you refuse to accept cookies, you may not be able to access many of the tools offered on or through the FedEx Digital Platforms.
+
+Does FedEx use my Personal Information for advertising?
+
+Yes. FedEx combines Personal Information that we obtain from registrations with Device Data gathered through cookies and other technologies about your searches and other activities on the FedEx Digital Platforms. We may also receive similar non-personal information from third party advertisers or other sources. We use this information for the purposes stated in this Privacy Policy. As noted above, where we combine Device Data and other information with Personal Information, we treat all such data as Personal Information.
+
+Does FedEx use advertising companies to serve ads on third party Internet sites?
+
+Yes, FedEx uses select advertising companies to serve relevant FedEx ads on third party Internet sites. Currently FedEx uses Google (and its affiliates like DoubleClick), Adobe, Accuen, Salesforce, and Facebook. FedEx does not provide any Personal Information to these advertising companies to allow them to use such data for their own purposes, or for the benefit of any other party. These advertising companies may, however, place their own cookies or third party cookies on your browser to personalize your FedEx related experience on third party sites.
+
+You can choose not to allow these advertising companies to use their cookies to serve you ads on third party Internet sites. Several of these companies are members of the Digital Advertising Alliance (“DAA”). You can opt-out of ad targeting from DAA member companies at a single location. To learn more, please click here.
+
+For more information about marketing cookies and other technologies, and to opt-out, go to the following sites:  
+http://www.networkadvertising.org/optout\_nonppii.asp
+
+http://www.aboutads.info/
+
+http://metrics.fedex.com/optout.html
+
+Except as otherwise stated in this Privacy Policy, FedEx Digital Platforms do not generally follow do not track or comparable signals sent by web browsers.
+
+Social media sharing
+
+Your use of social media platforms such as twitter, facebook, etc., are governed by separate terms and conditions over which FedEx has no control. However, when a customer uses their social media login to access the FedEx Digital Platforms, they explicitly agree to allow FedEx access to certain components of their social media pages where they may share comments and other Personal Information about themselves. FedEx uses widgets on these sites to collect information such as your IP address, the pages that you visited at FedEx.com and to determine if the social media components of the site performed properly. These widgets are hosted either directly on the FedEx.com site or by the third party provider.
+
+In what other ways does FedEx share information?
+
+We may also share your information in response to subpoenas, court orders, or other legal process. to establish or exercise our legal rights. to defend against legal claims. or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
+
+When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities. to protect and defend the rights, property, or safety of our company or this Web site, our customers, or others. and in connection with our Terms of Service and other agreements.
+
+We may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+
+We also reserve the right to use and disclose data in aggregate form (i.e., non-personally identifiable) for statistical and other purposes in our sole discretion. FedEx may also disclose data to third-party companies that provide support services such as web analytics. The information is provided in an aggregate form (i.e., non-personally identifiable) for statistical and other purposes in our sole discretion. The third-party providers are not allowed to use the information that we share for any other purpose other than providing services to FedEx. Our practice is to require our suppliers to conduct activities on behalf of FedEx in a manner consistent with this Privacy Policy.
+
+Why did you receive an email from us?
+
+If you received an email from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered with us, purchased a product or service from us, or otherwise have an existing relationship with us.
+
+FedEx periodically sends email messages and promotions to customers for purposes stated in this Privacy Policy.
+
+Each commercial email sent contains an easy, automated way for you to stop receiving email from us, or to change your expressed interests.
+
+If you wish to do this, simply follow the instructions at the end of any email. If you have received unwanted, unsolicited email sent via FedEx or purporting to be sent via FedEx, please forward a copy of that email with your comment to abuse@fedex.com for review.
+
+What about children under 13?
+
+We do not knowingly or intentionally collect personal information from children under age 13. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
 
 How do I contact FedEx?
 
 Our postal address is: FedEx Corporation P.O. Box 727 Memphis, TN 38194-1062 We can be reached via email at webmaster@fedex.com or by telephone at **1.800.GoFedEx 1.800.463.3339.**
 
-Additional resources on information privacy
+Our Company About FedEx Our Portfolio Investor Relations Careers FedEx Blog Corporate Responsibility Newsroom Contact Us More From FedEx FedEx Compatible Developer Resource Center FedEx Cross Border Language Change Country English
 
-The Electronic Privacy Information Center focuses public attention on emerging civil liberties issues relating to the National Information Infrastructure. EPIC Alert is the online newsletter of the Electronic Privacy Information Center in Washington, DC. The newsletter is bi-weekly and covers issues related to privacy and civil liberties in the information age.
+*   Español
 
-Customer Focus
-
-*   New Customer Center
-*   Small Business Center
-*   Service Guide
-*   Customer Support
-
-Company Information
-
-*   About FedEx
-*   Careers
-*   Investor Relations
-
-Featured Services
-
-*   FedEx One Rate
-*   FedEx SameDay
-*   FedEx Home Delivery
-*   Healthcare Solutions
-*   Online Retail Solutions
-*   Packaging Services
-*   Ancillary Clearance Services
-
-Other Resources
-
-*   FedEx Compatible
-*   Developer Resource Center
-*   FedEx Ship Manager Software
-*   FedEx Mobile
-
-Companies
-
-*   FedEx Express
-*   FedEx Ground
-*   FedEx Office
-*   FedEx Freight
-*   FedEx Custom Critical
-*   FedEx Trade Networks
-*   FedEx SupplyChain
-*   FedEx TechConnect
-
-Follow FedEx United States - English
-
-© FedEx 1995-
-
-Global Home|Site Map|fedex.com Terms of Use|Security and Privacy
+Follow FedEx © FedEx 1995-2018 Feedback | Site Map | Terms of Use | Security &. Privacy
