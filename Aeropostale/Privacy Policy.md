@@ -572,7 +572,7 @@ Stay Connected
 *   Visit A Store
 *   Find Store Coupons
 *   Chat With Us LiveCall Us
-*   Refer a Friend
+*   Give $15, Get $15
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
