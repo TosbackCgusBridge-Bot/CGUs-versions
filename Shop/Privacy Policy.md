@@ -268,13 +268,14 @@ Menu Close Menu Close
     *   Home Laptop Deals
     *   ThinkPad Deals
     *   Desktop Deals
+    *   Tablets/AR/VR Deals
     *   Monitor Deals
     *   Accessory Deals
     *   Clearance
     *   Financing Options
     *   Outlet
     
-    *   *   Employee Appreciation Day
+    *   *   72 HOUR BUSINESS SALE
             
         *   Stylish, Dependable and Affordable PCs
             
