@@ -135,23 +135,23 @@ LATEST ON TWITTER
 
 .@Requidan "There are thousands of discount relationships that exist for many businesses – what one views as controversial or polarizing is in the eye of the beholder." Read insights from industry leaders on what brands should do about the NRA via @TheDrum bit.ly/2oEqfhU
 
-About 4 days ago
+About 5 days ago
 
 My week on Twitter : 1 Mention, 478 Mention Reach, 1 Like, 1 Retweet, 478 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/yAXV…
 
-About 4 days ago
+About 5 days ago
 
 Our biggest fans this week: @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/ukvZ…
 
-About 5 days ago
+About 6 days ago
 
 We've broken down challenges hurting publishers' bottom lines in 2018. Take a look here: goo.gl/NjmReo via Intermarkets blog #publishers
 
-Last week
+About a week ago
 
 My week on Twitter : 2 Mentions, 1.62K Mention Reach, 6 Likes, 3 Retweets, 1.9K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/pkbQ…
 
-Last week
+About 2 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
