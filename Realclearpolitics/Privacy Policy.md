@@ -103,53 +103,53 @@
     *   About
     *   Media Kit
 
-*   _Paletta &. Dawsey_: Trump Upends DC, Wall Street With Shifts on Trade, Guns
+*   _Judd Gregg_: Trump Grasps the Need for Change in U.S. Foreign Policy
     
-*   _John Podhoretz_: Trade Moves Could Erase All the Tax-Cut Gains
+*   _Richard Haass_: Dear Mr. President, Reboot Before It's Too Late
     
-*   _Michael Stumo_: Trump Rightly Puts His Foot Down on Steel Cheating
+*   _Jim Geraghty_: The Devin Nunes You Don't Know
     
-*   _Matt Flegenheimer_: How Long Can John Kelly Hang On?
+*   _Jane Mayer_: How Christopher Steele Compiled the Sordid Trump Dossier
     
-*   _Karl Rove_: Good News for Senate Republicans
+*   _Ladar Levison_: FBI's Secret Warrant to Surveil Page Should Scare Us All
     
-*   _Karen Tumulty_: Texas Could Turn a Bit Bluer in 2018. Here's How.
+*   _Holtz-Eakin &. Varas_: Trump's Costly and Futile Tariffs
     
-*   _Heather Wilhelm_: Messing With Texas, Yet Again
+*   _Kevin McCullough_: Six Simple Reasons Trump Is Right on Tariffs
     
-*   _Tom Bevan_: The Takeaway: Trade, Millennials &. #OscarsSoIrrelevant
+*   _Megan Garber_: The Power-Structure Oscars
     
-*   _Alana Semuels_: A Small Town Kept Walmart Out. Now It Faces Amazon.
+*   _Sara Stewart_: Most Tepid, Predictable Academy Awards in Recent Memory
     
-*   _Martin Wolf_: China Is Now Vulnerable to the Whims of One Man
+*   _Steve Cortes_: Protect Yourself at All Times--a Second Amendment Mantra
     
-*   _Theodore Dalrymple_: The Anti-Free-Speech Mob Comes to Britain
+*   _Lisa Miller_: On the Ground with Parkland Teens as They Plot Revolution
     
-*   _Jack Shafer_: Even Trump Sounds Like a Gun-Grabber Now
+*   _Josh Bivens_: Don't Worry About Trump Tariffs--They Might Do Some Good
     
-*   _Harry Kazianis_: NRA Doesn't Kill People, It Saves Lives. Ask My Family
+*   _Noah Rothman_: #MAGA's Hall of Mirrors
     
-*   _Damon Linker_: The Return of the Chaos President
+*   _Charles Kesler_: Among the Never Trumpers
     
-*   _Deaux &. Mayeda_: Trump Says Trade Wars Are 'Good, and Easy to Win'
+*   _Peter Beinart_: Conservatives Are Losing the Culture War Over Guns
     
-*   _Tom Rogan_: Tariffs a Very Bad Idea, But at Least They Will Annoy China
+*   _Bethany Mandel_: I Wanted to Be a Good Mom. So I Got a Gun.
     
-*   _Jiayang Fan_: Xi Jinping and the Perils of One-Person Rule in China
+*   _Charles Hurt_: Hope Hicks &. the Truth About Little White Lies
     
-*   _Kimberley Strassel_: How to Probe the FBI
+*   _Josh Marshall_: Trump's White House: Worse Than We Thought
     
-*   _Chris Cillizza_: Donald Trump's Public Shaming of Jeff Sessions Is Shameful
+*   _Bryan Wright_: Wake Up, Dems: Open Borders Aren't Fiscally Sustainable
     
-*   _A.B. Stoddard_: Indeed, President Trump Should Take On the NRA
+*   _Kevin Williamson_: Donald Trump: Dumb Like a Fox, or Just Dumb?
     
-*   _David Brooks_: How Progressives Win the Culture War
+*   _Wayne Allyn Root_: The Coming Trump Landslide
     
-*   _Julie Kelly_: This Is CNN: The Children's News Network
+*   _Samantha Vinograd_: How Not to Become Jared Kushner in 4 Easy Steps
     
-*   _James Arkin_: In Texas Primary, First Wave of Women Vies for Seats
+*   _LeFauve &. Taylor_: Discredited Sex Assault Research Infects U.S. Legal System
     
-*   _David Ignatius_: A Door Opens in the Desert Kingdom
+*   _Ioan Grillo_: How Mexican Directors Conquered Hollywood
     
 
 *   Previous
@@ -251,11 +251,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump's Calls for Gun Action Upend Party Orthodoxy
+*   Trump, Press Trade Good-Natured If Barbed Jokes at Gridiron
+*   Trump Links Tariff Relief for Canada, Mexico to NAFTA Talks
+*   Wallace Grills WH Trade Adviser Peter Navarro on Tariffs
 *   In Texas Primary, First Wave of Women Vies for Seats
-*   Meghan McCain vs. Schiff: Any Evidence of Treasonous Trump-Russia Collusion?
-*   Hope Hicks Leaving as White House Communications Director
-*   McDaniel Takes On Wicker in Miss. Republican Primary
+*   Trump's Calls for Gun Action Upend Party Orthodoxy
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,26 +270,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve37
+    *   Disapprove58Disapprove +21
+*   President Trump Job ApprovalGallup
+    *   Approve39
+    *   Disapprove55Disapprove +16
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
-*   Congressional Job ApprovalUSA Today/Suffolk
-    *   Approve15
-    *   Disapprove75Disapprove +60
-*   2018 Generic Congressional VoteUSA Today/Suffolk
-    *   Democrats47
-    *   Republicans32Democrats +15
-*   Direction of CountryUSA Today/Suffolk
-    *   Right Direction29
-    *   Wrong Track60Wrong Track +31
+    *   Approve48
+    *   Disapprove52Disapprove +4
+*   Direction of CountryRasmussen Reports
+    *   Right Direction40
+    *   Wrong Track53Wrong Track +13
 
 More Latest Polls In The News
 
-*   Wilbur Ross to Maria Bartiromo: Impact Of Steel/Aluminum Tariff Will Be "Trivial" For Consumers
-*   Father of Parkland Victim: Gun Laws Are Not Achievable. "Stay Focused" On School Safety
-*   Lindsey Graham: Don't Bother Talking About Jared Kushner And Peace Process, Middle East Is On Brink Of War
+*   Gaetz: I Fear Sessions Has Become An Employee Of The DOJ Rather Than "Engaged" Attorney General
+*   Huckabee Sanders: Nunberg "Hasn't Worked At The White House," Can't Speak To His Lack Of Knowledge
+*   Ingraham: 'PROMISE Program' Hailed By Obama Admin Led to Florida Schools Ignoring Violent Students
+*   WSJ's Seib: "Unhealthy" Obsession With 2016 Election Is Boosting China &. Russia
 *   McDonough: "We Did Exactly What We Think We Needed To Do" On Russian Election Interference
-*   David Brooks: Chaos In The Presidency. Semi-Competent Staff And "Intellectually Unstable President"
 
 *   Politics
 *   Policy
