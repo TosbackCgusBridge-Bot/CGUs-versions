@@ -3,14 +3,14 @@ Free Standard U.S. Shipping Every Day on Orders $99+\*1-800-REPLACE (1-800-737-5
 *   Brands A-Z
 *   Register Your Pattern
 *   Identification Help
-*   What's New this Week
+*   Popular Patterns
 
 Crystal - Glassware
 
 *   Brands A-Z
 *   Register Your Pattern
 *   Identification Help
-*   Drinkware Sets
+*   All Things Crystal
 
 Silver - Flatware
 
@@ -27,15 +27,16 @@ Collectibles
 *   Identification Help
 *   Annual Ornaments &. Giftware
 
-Get Inspired
+Estate Jewelry
 
-*   Curated by RPL
-*   Designers &. Influencers
-*   Get This Look
-*   Our Blog
-*   Top Styles
-*   Seasonal Selections
-*   Rare, Unique &. Really Cool
+*   Rings
+*   Earrings
+*   Bracelets
+*   Necklaces
+*   Pendants
+*   Pins &. Brooches
+*   Gentleman's Jewelry
+*   Premium Brands
 
 Specials
 
@@ -45,14 +46,28 @@ Specials
 *   Yard Sale
 *   Warehouse Sale
 
-My Account
+Specialty Shops
 
-*   Sign In/Create Account
+*   Vintage Finds
+*   Seasonal Selections
+*   Curated by RPL
+*   Great Giftware
+*   Rare, Unique &. Really Cool
+*   Everything for a Wedding
+*   Gifts for Little Ones
+*   Dinnerware Sets
 
-Contact Us FAQ Shopping Cart Cart0 China  
+Get Inspired
+
+*   Designers &. Influencers
+*   The Dish - Blog
+*   Top Styles
+
+My Account Contact Us Shopping Cart Cart0 China  
 Dinnerware Crystal  
 Glassware Silver  
-Flatware Specials
+Flatware Estate  
+Jewelry
 
 *   Cart0
 *   My Account
@@ -73,7 +88,7 @@ Flatware Specials
     *   Not to be missed
     *   Dinnerware Sets &. More
     *   Seasonal Selections
-    *   What's New this Week
+    *   Weekly Features
     
     *   Tabletop Resources
     *   Tableware Storage
@@ -140,16 +155,17 @@ Flatware Specials
     
     *   Tabletop Resources
     *   Display Your TreasuresShop top collectibles >.
-*   Get Inspired
+*   Estate Jewelry
     
-    *   Designers &. Influencers
-    *   Get This Look
-    *   Our Blog
-    *   Curated by RPL
+    *   Rings
+    *   Earrings
+    *   Bracelets
+    *   Necklaces
     
-    *   Top Styles
-    *   Seasonal Selections
-    *   Rare, Unique &. Really CoolGet Inspired >.
+    *   Pendants
+    *   Pins &. Brooches
+    *   Gentleman's Jewelry
+    *   Premium BrandsExplore Estate Jewelry >.
 *   Specials
     
     *   Weekly Features
@@ -162,6 +178,7 @@ Flatware Specials
 *   Our Story
 *   Services
 *   Specialty Shops
+*   Get Inspired
 *   Register Patterns
 *   Store
 *   Contact Us
