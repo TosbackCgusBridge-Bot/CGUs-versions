@@ -8,17 +8,41 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Tissot Watches
+    *   ATM Anthony Thomas Melillo
+    *   Hobo
+    *   Designer Sun Up to 60% Off
+    *   1.STATE
+    *   Joe Fresh Including Plus
+    *   Fate
+    *   Cool Comfort: Shoes We Love Starting at $25
+    *   Lukka Lux Active
+    *   Spring Tops Under $30
+    *   Rocket Dog
+    *   14K Gold Jewelry &. More Starting at $20
+    *   ChinUp Masks
+    *   Halston Heritage
+    *   Fresh Scents for Spring Starting at $10
+    *   SLVDR
+    *   Giorgio Brutini
+    *   Maceoo
+    *   Easter-Ready Styles ft. Pippa &. Julie
+    *   Mermaid Tail Blankets &. More
+    *   See Kai Run
+    *   Easter Basket Treasures: Toys &. More
+    *   My Evergreen Flags &. Hardware
+    *   Car Storage &. Organization Essentials from $10
     *   LAMARQUE Up to 80% Off
     *   Vertigo Up to 85% Off
     *   Stack Em' Up: Trend Rings &. More Up to 65% Off
     *   Vanity Planet Up to 80% Off
     *   Booties, Mules &. Flats Up to 65% Off
-    *   Winter Wrap-Up: Coats Up to 75% Off
     *   Men's Shoes Up to 65% Off
     *   Citizen Eco-Drive Watches
     *   Revjams Tech Accessory Blowout
     *   Parker
     *   Eliza J Dresses Incl. Special Sizes
+    
     *   Chantelle Lingerie
     *   Sugarlips
     *   Peter Millar
@@ -30,11 +54,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rainy Days: Boots for the Family
     *   Korks
     *   Hera Hair Tools Up to 85% Off
-    *   Gemstone Jewelry Starting at $20
     *   Brooks Brothers
     *   English Laundry
     *   Raisins Girls' Swim
     *   Free Shipping: Steam &. Go
+    *   Gemstone Jewelry Starting at $20
+    *   Winter Wrap-Up: Coats Up to 75% Off
     *   Max Studio
     *   Go Couture Up to 80% Off
     *   L\*Space Swim Starting at $30
@@ -44,7 +69,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cape Robbin Starting at $15
     *   Laura Geller New York
     *   Plus Size Shop: Spring Styles Under $50
-    
     *   Luxe Lingerie &. Sleep ft. Thistle &. Spire
     *   Made in Italy: Meshmerise Jewelry Starting at $15
     *   Free Shipping: Sterling &. Turquoise Jewelry Under $80
@@ -53,79 +77,61 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Dr. Brite Oral Care
     *   Original Penguin
     *   Vintage Shoe Co. Up to 80% Off
+    
     *   Free Shipping: Trendsetting Accent Furniture
+    *   Le Creuset
     *   Free Shipping: Gallery Wall Art
     *   Free Shipping: Himalayan Salt Lamps &. More
     *   Kaanas Starting at $40
     *   Sol Angeles
     *   Deux Lux Handbags
-    *   Posh Couture
-    *   Shine On: Evening Clutches
-    *   Statement Pumps &. Heels Up to 60% Off
     *   Men's Dress Shoes: Allen Edmonds &. More
     *   Suits, Sport Coats &. More
     *   Finishing Touches: Men's Accessories
-    *   Styles for Flower Girls &. Ring Bearers
-    *   Flower Girls' Must-Haves: Chanteur Jewelry
-    *   Luxe Handbags ft. MCM
-    *   TOV
-    *   Wear to Work: Dresses ft. Sharagano
-    *   PUMA
     *   PUMA Men
-    *   Olive &. Oak
-    *   Jewel Badgley Mischka
-    *   MCM Sun &. More
-    *   Tees &. More from $15 ft. MICHELLE by Comune
-    *   Full-Fit Bras Under $25 ft. Parfait
-    *   Designer Shoes ft. Derek Lam
-    *   Freida Rothman Jewelry
     *   Teami Blends Detox Teas &. Supplements
     *   Dynamic Innovation Labs Skin Care from $10
-    
     *   Julep Beauty Products &. Nail Polish
     *   PX Up to 70% Off
-    *   Le Creuset
     *   Free Shipping: Linen Bedding &. More from $12
     *   Must-See Steals: Mirrors &. Storage
     *   Signature Scents: Fragrances Up to 50% Off
     *   Flirty Eyes Mink Lashes Up to 75% Off
-    *   Swims Up to 55% Off
-    *   Beat the Chill: Socks ft. SMARTWOOL
-    *   Kids' Character Shop: PJ Sets, Toys &. More
-    *   Must-Haves for Spring: Melissa &. Doug
     *   Free Shipping: Luxe Rug Steals
-    *   Special Occasion Jewelry ft. Givenchy
+    *   Ultra-Soft Towels Starting at $10
     *   Free Shipping: Printed &. Metallic Bedding
-    *   Smashbox
-    *   Date Night: Lips &. Lashes
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Free Shipping: One-of-a-Kind Throws
     *   Free Shipping: Whiteboards for Every Room
-    *   NANETTE Nanette Lepore Up to 75% Off
     *   Office Space: Storage, Decor &. More
-    *   Just Me Dresses
-    *   bebe Sport
-    *   LED Lighting &. More Starting at $10
-    *   Free Shipping: Statement Art &. More from $14
-    *   Muubaa
-    *   Eddie Bauer Bedding Starting at $16
-    *   Free Shipping: Pop Art Pillows Under $18
-    *   Free Shipping: Festive Serveware &. More
-    *   Very J Under $30
-    *   PUMA Kids
-    *   Ultra-Soft Towels Starting at $10
-    *   Fujifilm Cameras We Love
     *   Free Shipping: Finishing Touches for Your Home
     *   Free Shipping: Modern Rugs Up to 90% Off
+    *   LED Lighting &. More Starting at $10
+    *   Free Shipping: Statement Art &. More from $14
+    *   Fujifilm Cameras We Love
     *   Textural Touches: Decor &. More from $13
 *   WomenShop Sale Events
     
+    *   Tissot Watches
+    *   ATM Anthony Thomas Melillo
+    *   Hobo
+    *   Designer Sun Up to 60% Off
+    *   1.STATE
+    *   Joe Fresh Including Plus
+    *   Fate
+    *   Cool Comfort: Shoes We Love Starting at $25
+    *   Lukka Lux Active
+    *   Spring Tops Under $30
+    *   Rocket Dog
+    *   14K Gold Jewelry &. More Starting at $20
+    *   ChinUp Masks
+    *   Halston Heritage
+    *   Fresh Scents for Spring Starting at $10
     *   LAMARQUE Up to 80% Off
     *   Vertigo Up to 85% Off
     *   Stack Em' Up: Trend Rings &. More Up to 65% Off
     *   Vanity Planet Up to 80% Off
     *   Booties, Mules &. Flats Up to 65% Off
-    *   Winter Wrap-Up: Coats Up to 75% Off
     *   Citizen Eco-Drive Watches
     *   Parker
     *   Eliza J Dresses Incl. Special Sizes
@@ -134,12 +140,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   DSGN Yoga
     *   Botkier Handbags &. Jewelry
     *   Botkier Shoes
+    
     *   Sunday Lounge: Fleece, Joggers &. More
     *   Anna Beck Jewelry
     *   Rainy Days: Boots for the Family
     *   Korks
     *   Hera Hair Tools Up to 85% Off
     *   Gemstone Jewelry Starting at $20
+    *   Winter Wrap-Up: Coats Up to 75% Off
     *   Max Studio
     *   Go Couture Up to 80% Off
     *   L\*Space Swim Starting at $30
@@ -152,50 +160,31 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Luxe Lingerie &. Sleep ft. Thistle &. Spire
     *   Made in Italy: Meshmerise Jewelry Starting at $15
     *   Free Shipping: Sterling &. Turquoise Jewelry Under $80
-    
     *   Barre &. Beyond: Studio Essentials
     *   Dr. Brite Oral Care
     *   Kaanas Starting at $40
     *   Deux Lux Handbags
-    *   Posh Couture
-    *   Shine On: Evening Clutches
-    *   Statement Pumps &. Heels Up to 60% Off
-    *   Luxe Handbags ft. MCM
-    *   TOV
-    *   Wear to Work: Dresses ft. Sharagano
-    *   PUMA
-    *   Olive &. Oak
-    *   Jewel Badgley Mischka
-    *   MCM Sun &. More
-    *   Tees &. More from $15 ft. MICHELLE by Comune
-    *   Full-Fit Bras Under $25 ft. Parfait
-    *   Designer Shoes ft. Derek Lam
-    *   Freida Rothman Jewelry
     *   Teami Blends Detox Teas &. Supplements
     *   Dynamic Innovation Labs Skin Care from $10
     *   Julep Beauty Products &. Nail Polish
     *   Signature Scents: Fragrances Up to 50% Off
     *   Flirty Eyes Mink Lashes Up to 75% Off
-    *   Special Occasion Jewelry ft. Givenchy
-    *   Smashbox
-    *   Date Night: Lips &. Lashes
-    *   NANETTE Nanette Lepore Up to 75% Off
-    *   Just Me Dresses
-    *   bebe Sport
-    *   Muubaa
-    *   Very J Under $30
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
+    *   Jewelry
     *   Lingerie
-    *   Handbags
-    *   Accessories
-    *   Tech Accessories
     *   Watches
+    *   Handbags
+    *   Tech Accessories
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Tissot Watches
+    *   SLVDR
+    *   Giorgio Brutini
+    *   Maceoo
     *   Men's Shoes Up to 65% Off
     *   Citizen Eco-Drive Watches
     *   Peter Millar
@@ -203,10 +192,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Brooks Brothers
     *   English Laundry
     *   Stance Underwear &. Socks
+    
     *   Dr. Brite Oral Care
     *   Original Penguin
     *   Vintage Shoe Co. Up to 80% Off
-    
     *   Sol Angeles
     *   Men's Dress Shoes: Allen Edmonds &. More
     *   Suits, Sport Coats &. More
@@ -214,8 +203,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   PUMA Men
     *   Teami Blends Detox Teas &. Supplements
     *   PX Up to 70% Off
-    *   Swims Up to 55% Off
-    *   Beat the Chill: Socks ft. SMARTWOOL
     
     Shop By Category
     *   Clothing
@@ -224,81 +211,78 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Easter-Ready Styles ft. Pippa &. Julie
+    *   Mermaid Tail Blankets &. More
+    *   See Kai Run
+    *   Easter Basket Treasures: Toys &. More
     *   Rainy Days: Boots for the Family
     *   Raisins Girls' Swim
-    *   Styles for Flower Girls &. Ring Bearers
-    *   Flower Girls' Must-Haves: Chanteur Jewelry
-    *   Kids' Character Shop: PJ Sets, Toys &. More
-    *   Must-Haves for Spring: Melissa &. Doug
-    *   PUMA Kids
     
     Shop By Category
-    *   Girls Sizes 2T-6X
-    *   Kids Accessories
-    *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
-    *   Girls Sizes 7-16
     *   Girls' Shoes
-    *   Toys
+    *   Girls Sizes 7-16
+    *   Baby Girl
+    *   Girls Sizes 2T-6X
     *   Boys' Shoes
+    *   Baby Gear &. Essentials
+    *   Toys
 *   HomeShop Sale Events
     
+    *   My Evergreen Flags &. Hardware
+    *   Car Storage &. Organization Essentials from $10
     *   Revjams Tech Accessory Blowout
     *   Free Shipping: Steam &. Go
     *   Free Shipping: Trendsetting Accent Furniture
+    *   Le Creuset
     *   Free Shipping: Gallery Wall Art
     *   Free Shipping: Himalayan Salt Lamps &. More
-    *   Le Creuset
     *   Free Shipping: Linen Bedding &. More from $12
     *   Must-See Steals: Mirrors &. Storage
     *   Free Shipping: Luxe Rug Steals
+    *   Ultra-Soft Towels Starting at $10
+    
     *   Free Shipping: Printed &. Metallic Bedding
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Free Shipping: One-of-a-Kind Throws
-    
     *   Free Shipping: Whiteboards for Every Room
     *   Office Space: Storage, Decor &. More
-    *   LED Lighting &. More Starting at $10
-    *   Free Shipping: Statement Art &. More from $14
-    *   Eddie Bauer Bedding Starting at $16
-    *   Free Shipping: Pop Art Pillows Under $18
-    *   Free Shipping: Festive Serveware &. More
-    *   Ultra-Soft Towels Starting at $10
-    *   Fujifilm Cameras We Love
     *   Free Shipping: Finishing Touches for Your Home
     *   Free Shipping: Modern Rugs Up to 90% Off
+    *   LED Lighting &. More Starting at $10
+    *   Free Shipping: Statement Art &. More from $14
+    *   Fujifilm Cameras We Love
     *   Textural Touches: Decor &. More from $13
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
+    *   Luggage &. Travel
     *   Accent Furniture
+    *   Outdoor Living
     *   Bath
     *   Organization
-    *   Outdoor Living
-    *   Luggage &. Travel
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   ChinUp Masks
+    *   Fresh Scents for Spring Starting at $10
     *   Vanity Planet Up to 80% Off
     *   Hera Hair Tools Up to 85% Off
     *   Laura Geller New York
     *   Dr. Brite Oral Care
+    
     *   Teami Blends Detox Teas &. Supplements
     *   Dynamic Innovation Labs Skin Care from $10
-    
     *   Julep Beauty Products &. Nail Polish
     *   Signature Scents: Fragrances Up to 50% Off
     *   Flirty Eyes Mink Lashes Up to 75% Off
-    *   Smashbox
-    *   Date Night: Lips &. Lashes
     
     Shop By Category
     *   Makeup
-    *   Hair Care
-    *   Skin Care
     *   Fragrance
+    *   Skin Care
+    *   Hair Care
     *   Tools &. Accessories
     *   Supplements
     *   Nails
