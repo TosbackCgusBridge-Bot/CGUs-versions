@@ -12,7 +12,7 @@
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
-    *   Game DayMost Popular Gift Baskets Chocolates
+    *   Game DayMost Popular Easter Gifts Easter Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -45,14 +45,14 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Valentine's Day Gifts
+    View All Categories Shop by Category*   Easter Gifts
     
     Occasions*   Spring Gifts
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
-    *   Game DayMost Popular Birthday Gifts
+    *   Game DayMost Popular Easter Baskets Easter Entertaining
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
@@ -79,7 +79,7 @@
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
-    *   Game DayMost Popular Gift Baskets Chocolates
+    *   Game DayMost Popular Easter Gifts Easter Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -112,14 +112,14 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Valentine's Day Gifts
+    View All Categories Shop by Category*   Easter Gifts
     
     Occasions*   Spring Gifts
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
-    *   Game DayMost Popular Birthday Gifts
+    *   Game DayMost Popular Easter Baskets Easter Entertaining
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
