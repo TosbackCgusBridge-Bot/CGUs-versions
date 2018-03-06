@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Freshen up your wardrobe for spring – Shop New Arrivals.
+Free Cooler with a $75+ qualifying brand purchase. Shop Qualifying Brands.
 
 *   Women
 *   Men
@@ -435,13 +435,13 @@ Returns
 
 Promotions
 
-*   Buckle Card Bonus Points
 *   All Promotions
 *   Store Events
 *   Military Discount
 
 Sweepstakes Official Rules/Winners
 
+*   Brand Event Official Rules
 *   Social Give Away Official Rules
 *   Sweepstakes Winners
 
