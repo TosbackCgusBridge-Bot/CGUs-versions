@@ -6,45 +6,45 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movies Now Playing
     
     *   Black Panther
+    *   Red Sparrow
+    *   Death Wish (2018)
     *   Game Night (2018)
     *   Peter Rabbit
     *   Annihilation
-    *   Fifty Shades Freed
     *   Jumanji: Welcome to the Jungle
-    *   The 15:17 to Paris
+    *   Fifty Shades Freed
     *   The Greatest Showman
     *   Every Day (2018)
-    *   Early Man
-    *   Three Billboards Outside Ebbing, Missouri
+    *   The 15:17 to Paris
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Death Wish (2018)
-    *   Red Sparrow
-    *   Dance Academy: The Comeback
-    *   Did You Wonder Who Fired the Gun?
-    *   Foxtrot
-    *   Oh Lucy!
-    *   Souvenir (2018)
-    *   Submission (2018)
-    *   See All Opening This Week
-    
-    Pre Sales Tickets
-    
     *   A Wrinkle in Time
+    *   Gringo (2018)
+    *   The Hurricane Heist
+    *   Strangers: Prey at Night
+    *   Claire's Camera
+    *   The Death of Stalin
+    *   Girls Vs Gangsters
+    *   Leaning Into the Wind
+    *   The Leisure Seeker
+    *   Sheep and Wolves
+    *   Thoroughbreds
+    *   See All Opening This Week
     
     Coming Soon
     
-    *   Strangers: Prey at Night
-    *   Gringo (2018)
-    *   The Hurricane Heist
     *   Tomb Raider (2018)
     *   I Can Only Imagine
     *   Love, Simon
     *   Pacific Rim: Uprising (2018)
     *   Sherlock Gnomes
     *   Paul, Apostle of Christ
+    *   Midnight Sun (2018)
+    *   Unsane (2018)
+    *   Tyler Perry's Acrimony
+    *   God's Not Dead: A Light in Darkness
     *   See All Coming Soon
     
     Explore More
@@ -73,13 +73,14 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Top New Trailers - February 2018 Read More
-    *   Disney Release Date Excitement: 'Avengers: Infinity War,' Animated Films and More Read More
-    *   Movie News: 'Highlander' Reboot Moves Forward Read More
+    *   'The Shape of Water' Named Best Picture at the 90th Academy Awards Read More
+    *   Highlights From This Year's Academy Awards Show: Frances McDormand Leads the Way Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
     *   Awards Watch
+    *   Family Guide
     *   Weekend Ticket
 *   My VIP Account Join FandangoVIP Refunds + Exchanges
     
@@ -272,7 +273,7 @@ Offers
     
 *   'Thoroughbreds' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Thoroughbreds' t-shirt with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive 'Thoroughbreds' t-shirt brought to you by Betches with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Black Panther' Gift With Purchase
     
@@ -303,6 +304,7 @@ Editorial Features
 
 *   Indie Movie Guide
 *   Awards Watch
+*   Family Guide
 *   Movie News
 
 Videos
@@ -322,4 +324,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
