@@ -1,4 +1,4 @@
-close dialog1st Month FreeSubscribe Todayclose dialogSUBSCRIBE NOWto get full access
+close dialog1st Month FreeSubscribe Todayclose dialog
 
 *   Home
 *   News
