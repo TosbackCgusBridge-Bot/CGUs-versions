@@ -135,15 +135,15 @@ LATEST ON TWITTER
 
 .@Requidan "There are thousands of discount relationships that exist for many businesses – what one views as controversial or polarizing is in the eye of the beholder." Read insights from industry leaders on what brands should do about the NRA via @TheDrum bit.ly/2oEqfhU
 
-About 5 days ago
+About 6 days ago
 
 My week on Twitter : 1 Mention, 478 Mention Reach, 1 Like, 1 Retweet, 478 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/yAXV…
 
-About 5 days ago
+About 6 days ago
 
 Our biggest fans this week: @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/ukvZ…
 
-About 6 days ago
+Last week
 
 We've broken down challenges hurting publishers' bottom lines in 2018. Take a look here: goo.gl/NjmReo via Intermarkets blog #publishers
 
