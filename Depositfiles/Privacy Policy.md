@@ -18,7 +18,7 @@
     
     1.  **Personal information.**
         
-        Any personal information not made publically available through your action or inaction - is confidential and is not subject to disclosure or filtering upon presumption of fair use
+        Any personal information not made publically available through your action or inaction - is confidential and is not subject to disclosure or filtering upon presumption of fair use;
         
     2.  **Cookies use.**
         
@@ -26,7 +26,7 @@
         
     3.  **Page indexing.**
         
-        DepositFiles does not index data or pages to be available in human-readable form and proceeds with reasonable actions to stop any third parties (e.g. search engines) from indexing independently
+        DepositFiles does not index data or pages to be available in human-readable form and proceeds with reasonable actions to stop any third parties (e.g. search engines) from indexing independently;
         
     4.  **IP addresses.**
         
@@ -34,7 +34,7 @@
         
     5.  **E-mail.**
         
-        DepositFiles servers store and sort user e-mails for the purposes of registration and statistics. DepositFiles does not lease, sell, or provide your e-mails to any third parties
+        DepositFiles servers store and sort user e-mails for the purposes of registration and statistics. DepositFiles does not lease, sell, or provide your e-mails to any third parties;
         
     6.  **Safe operation.**
         
@@ -42,7 +42,7 @@
         
     7.  **Financial information.**
         
-        Any financial transfers between you and DepositFiles are handled by third party, payment services. Your payment details are disclosed to such third parties for the aim of completion of each transaction. The security and non-disclosure of such information is handled by such third parties under their current policies. DepositFiles does not sort or store numbers or any information related to your banking card. However some personal details may become available to DepositFiles (eg. Payee name, amounts)
+        Any financial transfers between you and DepositFiles are handled by third party, payment services. Your payment details are disclosed to such third parties for the aim of completion of each transaction. The security and non-disclosure of such information is handled by such third parties under their current policies. DepositFiles does not sort or store numbers or any information related to your banking card.
         
 3.  **Advertisers' access to information.**
     
