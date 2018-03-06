@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Satellites We have lift off! NOAA's GOES-S satellite launches from Kennedy Space Center Satellites 5 reasons GOES-S will be a game-changer for weather forecasts National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Fisheries These veterans have a mission: This time, it’s fighting for coral Satellites We have lift off! NOAA's GOES-S satellite launches from Kennedy Space Center National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Satelli
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA’s GOES-S satellite roars into orbit New weather satellite will aid forecasts for western U.S., Alaska and Hawaii AROUND NOAA // Powerful storms to impact both U.S. coasts through Saturday morning. Get the latest watches, warnings We have lift off! NOAA's GOES-S satellite launches from Kennedy Space Center 5 reasons GOES-S will be a game-changer for weather forecasts Featured photo: Last call at the South Pole, for now
+Enter Search Terms NOAA’s GOES-S satellite roars into orbit New weather satellite will aid forecasts for western U.S., Alaska and Hawaii AROUND NOAA // These veterans have a mission: This time, it’s fighting for coral Spring 2018 high tide outlook now available 5 reasons GOES-S will be a game-changer for weather forecasts
 
 *   About our agency
 *   News and features
