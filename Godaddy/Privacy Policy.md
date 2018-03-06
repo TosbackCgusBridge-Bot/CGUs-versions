@@ -1,4 +1,4 @@
-**Last Revised: February 13, 2018**
+**Last Revised: March 5, 2018**
 
 GoDaddy Respects your privacy
 
@@ -14,7 +14,7 @@ With respect to personal data received or transferred pursuant to the Privacy Sh
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. 
 
-Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted
+Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
