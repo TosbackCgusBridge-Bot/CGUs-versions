@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 2 Mentions, 1.43K Mention Reach, 1 Like, 1 Retweet, 49 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/RHCT…
+
+About 5 hours ago
+
+Our biggest fans this week: @karysjones0425. Thank you! via sumall.com/thankyou?… pic.twitter.com/l3b7…
+
+About 16 hours ago
+
+.@Jambrose, our Marketing Operations Director, chats with @MediaPost Publishing Insider about how publishers can avoid pitfalls and thrive in an unstable digital environment. Check it out here: bit.ly/2toTN8U
+
+Yesterday
+
 .@Requidan "There are thousands of discount relationships that exist for many businesses – what one views as controversial or polarizing is in the eye of the beholder." Read insights from industry leaders on what brands should do about the NRA via @TheDrum bit.ly/2oEqfhU
-
-About 6 days ago
-
-My week on Twitter : 1 Mention, 478 Mention Reach, 1 Like, 1 Retweet, 478 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/yAXV…
-
-About 6 days ago
-
-Our biggest fans this week: @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/ukvZ…
 
 Last week
 
-We've broken down challenges hurting publishers' bottom lines in 2018. Take a look here: goo.gl/NjmReo via Intermarkets blog #publishers
+My week on Twitter : 1 Mention, 478 Mention Reach, 1 Like, 1 Retweet, 478 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/yAXV…
 
-About a week ago
-
-My week on Twitter : 2 Mentions, 1.62K Mention Reach, 6 Likes, 3 Retweets, 1.9K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/pkbQ…
-
-About 2 weeks ago
+Last week
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
