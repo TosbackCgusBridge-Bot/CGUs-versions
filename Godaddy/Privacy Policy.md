@@ -1,16 +1,16 @@
-**Last Revised: March 5, 2018**
+**Last Revised: March 6, 2018**
 
 GoDaddy Respects your privacy
 
 This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Sites that link to this Privacy Policy and in our mobile applications.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.  Personally identifiable information (also known as 'personal data') is information about you that can be used, directly or indirectly, to identify you (name, address, telephone number, date of birth, email address, etc.).  Data that does not allow identification of you, for example data anonymized, is not considered personally identifiable information.  
 
-**EU-U.S. Privacy Shield**
+**EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
 
-Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Go Daddy Operating Company, LLC is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List
+Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc., Mad Mimi, Inc. and Media Temple, Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Go Daddy Operating Company, LLC is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List
 
-Go Daddy Operating Company, LLC is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Go Daddy Operating Company, LLC complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Go Daddy Operating Company, LLC is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Go Daddy Operating Company, LLC complies with each Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Go Daddy Operating Company, LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Go Daddy Operating Company, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Go Daddy Operating Company, LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Go Daddy Operating Company, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. 
 
@@ -28,15 +28,15 @@ We receive and store any information you enter on our Site or mobile applicatio
 
 We use your information to contact you regarding functionality changes to our products, our Site and mobile applications, new GoDaddy services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. In addition, it will also describe any choice options the individual has in regards to the use and/or sharing of PII by the participant and its co-branded partner, as well as how to exercise those options.
+If we collect information from you in connection with a co-branded offer (or joint promotion), it will be clear at the point of collection who is collecting the information and whose privacy statement applies. In addition, it will also describe any choice options the individual has in regards to the use and/or sharing of PII between us and the co-branded partner, as well as how to exercise those options.
 
 Certain services offered may allow you to import contacts by uploading a file or copying and pasting from a spreadsheet to add to your account (e.g., using Mad Mimi to send emails on your behalf).  We will only use this information for your legitimate business purpose of importing the contacts as directed by you.  When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at privacy@godaddy.com.
 
-B.  Cookies and Other Tracking Technologies 
+B.  Cookies and Other Similar Technologies 
 
 Our Site and mobile applications use cookies and/or other tracking technologies to identify you so you don't need to log in each time you visit our Site or mobile applications. The cookies are linked to your customer number, which is associated with the information in your account.  You can control the use of cookies, at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.   **_For additional information, and to manage how we use cookies, web beacons and similar technologies on your devices, please click here._** 
 
-Within our Site and mobile applications we and our partners, affiliates, and/or analytics or service providers use technologies such as cookies, beacons, tags and scripts to analyze trends, administer the Site and mobile applications, track users' movements around the Site and mobile applications, and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis. 
+Within our Site and mobile applications we and our partners, affiliates, and/or analytics or service providers use technologies such as cookies and similar tehnologies to analyze trends, administer the Site and mobile applications, track users' movements around the Site and mobile applications, and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis. 
 
 C.  Protocol Data
 
@@ -69,7 +69,7 @@ We follow generally accepted standards to protect the personal information trans
 **Contacting You  
 **
 
-From time to time, GoDaddy or someone acting on behalf of GoDaddy may contact you, to confirm your orders, to send information to you, and to provide you with offers for services.  The contacts may occur by e-mail, telephone, or text message.  In accdordance with applicable law, and where you have provided valid consent, you may receive marketing telephone calls from or on behalf of GoDaddy, which may be initiated by an automatic telephone dialing system and/or use an artificial or prerecorded voice. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy.  By providing your mobile number, you consent to receive marketing text messages from or on behalf of GoDaddy that may be sent by an automatic telephone dialing system. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy. Message and data rates may apply. 
+From time to time, GoDaddy or someone acting on behalf of GoDaddy may contact you, to confirm your orders, to send information to you, and to provide you with offers for services.  The contacts may occur by e-mail, telephone, or text message.  In accordance with applicable law, and where you have provided valid consent, you may receive marketing telephone calls from or on behalf of GoDaddy, which may be initiated by an automatic telephone dialing system and/or use an artificial or prerecorded voice. By providing your mobile number, you consent to receive marketing text messages from or on behalf of GoDaddy that may be sent by an automatic telephone dialing system. Message and data rates may apply. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy. 
 
 Any information you send to us may be stored and used to improve this Site, our mobile application, and our products, or it may be reviewed and discarded.
 
@@ -121,7 +121,7 @@ If a user elects to use our referral service to inform a friend about our Site o
 
 **What Happens to my Personally Identifiable Information if I Terminate my GoDaddy Account?**
 
-When your GoDaddy account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant GoDaddy databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+When your GoDaddy account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant GoDaddy databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. 
 
 **Updating Your Information** 
 
