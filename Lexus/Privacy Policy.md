@@ -261,7 +261,7 @@ COMPARE **LF-C2**
 
 **UX**
 
-*   Concept Vehicle
+*   Future Vehicle
 
 **LF-1 LIMITLESS**
 
