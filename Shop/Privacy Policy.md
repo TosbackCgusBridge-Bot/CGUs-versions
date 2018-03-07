@@ -324,19 +324,20 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Built to perform. Engineered to endure. Now Available .
+Built to perform. Engineered to endure.  
+Now Available .
 
 Learn more >.
 
-Durable Vibrant Corning® Gorilla® Glass Covers
+Voted best laptop under $1,000 by Gizmodo
 
 Shop now >.
 
-Water-cooled to perform
+ThinkAgile VX Series
 
-SD650 direct water cooling means maximum performance
+Simplify IT. Cut costs. Accelerate results.
 
-Learn more >.
+Learn More >.
 
 *   1
 *   2
