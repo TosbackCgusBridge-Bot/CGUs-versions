@@ -7,8 +7,8 @@
     *   Love &. Hip Hop Miami
     *   America's Next Top Model
     *   Black Ink Crew
-    *   RuPaul's Drag Race All Stars
     *   VH1 Beauty Bar
+    *   RuPaul's Drag Race All Stars
     *   RuPaul's Drag Race
     *   Teyana &. Iman
     *   Brunch With TiffanySee all Shows
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewRuPaul's Drag Race All StarsVH1 Beauty BarRuPaul's Drag RaceTeyana &. ImanBrunch With Tiffanysee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewVH1 Beauty BarRuPaul's Drag Race All StarsRuPaul's Drag RaceTeyana &. ImanBrunch With Tiffanysee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
@@ -392,7 +392,6 @@ closeAll ResultsShowsEpisodesVideosNewsEventsTrending
 *   Copyright
 *   Closed Captioning
 *   Eventful
-*   Partners
 *   Ad Partners
 
 *   facebook
