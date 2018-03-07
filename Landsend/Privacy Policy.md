@@ -786,9 +786,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 25% off 1 full-price item!
 
-code: LUCKY pin: 1349 DETAILS
+code: RAINDROP pin: 4623 DETAILS
 
 Customer Service Menu
 
