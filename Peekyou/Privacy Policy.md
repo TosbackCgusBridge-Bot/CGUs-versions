@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 16%  7% 
+What is PeekScore? Public Records &. Background Checks 35%  5% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -112,7 +112,7 @@ What is PeekScore? Public Records &. Background Checks 16%  7% 
     
 *   Show Less ...
 
-16%  16%  Arrest Records &. Driving Infractions
+35%  35%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7% 
+Facebook 5% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,53 +213,53 @@ Facebook 7% 
     
 *   Show Less ...
 
-Twitter 7% 
+Twitter 5% 
 
-*   Free Privacy Policy - FreePrivacy1
-    
-*   Bush Library - Bush41Library
-    
-*   FTC - FTC
-    
-*   Alex Azar - SecAzar
-    
-*   Show More ...
-
-*   U.S. FDA - US\_FDA
-    
-*   IRS - IRSnews
-    
-*   Cristiano Ronaldo - Cristiano
+*   HIV.gov - HIVGov
     
 *   Justice Department - TheJusticeDept
     
-*   OAIC - OAICgov
+*   NIH - NIH
     
-*   U.S. FDA - FDArecalls
+*   U.S. FDA - US\_FDA
     
-*   HIV.gov - HIVGov
-    
-*   Mabuhay Miles - PALMabuhayMiles
-    
-*   U.S. Census Bureau - uscensusbureau
-    
-*   HealthCare.gov - HealthCareGov
+*   Show More ...
+
+*   Francis S. Collins - NIHDirector
     
 *   Federal Reserve - federalreserve
     
-*   Francis S. Collins - NIHDirector
+*   Free Privacy Policy - FreePrivacy1
     
-*   FDA Drug Information - FDA\_Drug\_Info
+*   FTC - FTC
     
-*   CDC - CDCgov
+*   U.S. Census Bureau - uscensusbureau
+    
+*   Bush Library - Bush41Library
     
 *   HHS.gov - HHSGov
     
-*   NIH - NIH
+*   SEC Investor Ed - SEC\_Investor\_Ed
+    
+*   U.S. FDA - FDArecalls
+    
+*   FDA Drug Information - FDA\_Drug\_Info
+    
+*   HealthCare.gov - HealthCareGov
+    
+*   Lloyds Bank - AskLloydsBank
+    
+*   Cristiano Ronaldo - Cristiano
+    
+*   OAIC - OAICgov
+    
+*   Alex Azar - SecAzar
+    
+*   CDC - CDCgov
     
 *   Show Less ...
 
-Instagram 7% 
+Instagram 5% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -285,9 +285,9 @@ Instagram 7% 
     
 *   Privacy Policy games - privacypolicygames
     
-*   privacy policy - privacypolicy5831
-    
 *   Privacy Policy - privacypolicy7229
+    
+*   privacy policy - privacypolicy5831
     
 *   Privacy Policy❌☠️ - prv.kennochakt
     
@@ -298,6 +298,8 @@ Instagram 7% 
 *   Phil Swift - privacypolicy\_1
     
 *   police instagram - privacy\_\_policy\_\_
+    
+*   privacy policy - privacy.p
     
 *   Djavid Johnson - \_privacy\_policy
     
@@ -325,7 +327,7 @@ Instagram 7% 
     
 *   Show Less ...
 
-Pinterest 16%  Wikipedia 7% 
+Pinterest 35%  Wikipedia 5% 
 
 *   Wikipedia
     
@@ -340,7 +342,7 @@ Pinterest 16%  Wikipedia 7% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 7% 
+Google+ 5% 
 
 *   PRIVACY POLICY - Google+ - Google Plus
     
@@ -351,7 +353,7 @@ Google+ 7% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 16%  Music 7% 
+Linkedin 35%  Music 5% 
 
 *   Pandora
     
@@ -397,7 +399,7 @@ Linkedin 16%  Music 7% 
     
 *   Show Less ...
 
-Photo Albums 7% 
+Photo Albums 5% 
 
 *   Flickriver
     
@@ -405,14 +407,10 @@ Photo Albums 7% 
     
 *   Flickr
     
-    Flickr (pronounced "flicker") is an image-and video-hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on 20 March 2005 ...
-    
-*   Flickr
-    
-    Missouri Department of Transportation Central Office 105 W. Capitol Avenue Jefferson City, MO 65102 1-888-ASK-MODOT (275-6636) 1-866-831-6277 (Motor Carrier Services)
+    Flickr (pronounced "flicker") is an image-and video-hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on 20 March 2005. In addition to being a popular website for users to share and embed personal photographs, and effectively an online community, the service is widely used by photo researchers …
     
 
-Myspace 7% 
+Myspace 5% 
 
 *   Privacy Policy - 49086242
     
@@ -436,13 +434,13 @@ Myspace 7% 
     
 *   Show Less ...
 
-Web Search 16%  Images 7% 
+Web Search 35%  Images 5% 
 
 9
 
 20
 
-30
+31
 
 facebookx
 
