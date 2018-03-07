@@ -72,8 +72,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Top New Trailers - February 2018 Read More
-    *   'The Shape of Water' Named Best Picture at the 90th Academy Awards Read More
+    *   Director Marc Forster Previews Christopher Robin as First Teaser Arrives Read More
+    *   Movie News: 'Rampage' Director to Helm Sci-Fi Thriller Read More
     *   Highlights From This Year's Academy Awards Show: Frances McDormand Leads the Way Read More
     
     Explore Content
@@ -263,9 +263,9 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   'A Wrinkle in Time' Gift With Purchase
+*   'Gringo' Gift With Purchase
     
-    Receive a FREE\* exclusive 'A Wrinkle in Time' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive 'Gringo' t-shirt with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Tomb Raider' Gift With Purchase
     
@@ -324,4 +324,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
