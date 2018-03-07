@@ -253,9 +253,10 @@ Free Cooler with a $75+ qualifying brand purchase. Shop Qualifying Brands.
         *   Dibs
         *   Hybrid Shorts
         *   Dye Hard
-        *   Band Tees
         *   Oakley Eyewear
         *   Salt Life
+        *   Band Tees
+        *   Champion
         
         *   Looks
         
