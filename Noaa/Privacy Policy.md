@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA’s GOES-S satellite roars into orbit New weather satellite will aid forecasts for western U.S., Alaska and Hawaii AROUND NOAA // These veterans have a mission: This time, it’s fighting for coral Spring 2018 high tide outlook now available 5 reasons GOES-S will be a game-changer for weather forecasts
+Enter Search Terms NOAA’s GOES-S satellite roars into orbit New weather satellite will aid forecasts for western U.S., Alaska and Hawaii AROUND NOAA // Strong winds, heavy snow for the Plains as another coastal storm brews in the East These veterans have a mission: This time, it’s fighting for coral Spring 2018 high tide outlook now available
 
 *   About our agency
 *   News and features
