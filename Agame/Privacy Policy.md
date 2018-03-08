@@ -232,9 +232,9 @@ View more results
     
     Recommended Games
     
-    *   Warbanner
+    *   Cloud Kingdom
     *   Animal Jam
-    *   Duelyst
+    *   Roblox
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
