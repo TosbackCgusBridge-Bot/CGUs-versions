@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Ashley Judd in Conversation With Salma Hayek 2 The Best Jewelry Moments From the 2018 Oscars 3 The Best Places to Go in April 4 14 Easter Gift Ideas for Everyone in Your Family 5 19 of the Best Cocktails for St. Patrick's Day Privacy Policy Dec 1, 2014
+Today's Top Stories 1 'The Bachelor' Effect Turns Destinations Into Gold 2 Ashley Judd in Conversation With Salma Hayek 3 The Best Places to Go in April 4 14 Easter Gift Ideas for Everyone in Your Family 5 19 of the Best Cocktails for St. Patrick's Day Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
