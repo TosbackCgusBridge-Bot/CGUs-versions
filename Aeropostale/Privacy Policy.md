@@ -163,8 +163,8 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-
 *   Sleep
+
 *   Bras
 *   Undies
 *   Swim
@@ -448,8 +448,8 @@ Menu Find a Store Aeropostale
         *   Bootcut
         *   Shorts
         *   Sleep Bottoms
-    
     *   Sleep
+    
     *   Bras
     *   Undies
     *   Swim
