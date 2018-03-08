@@ -540,6 +540,7 @@ menu Close 0 Free Shipping on $50+
         *   Big Boy (size 7-20)
     *   Girls
         *   Back
+        *   View All
         *   Swimsuits
         *   Outerwear
         *   Tops
@@ -557,6 +558,7 @@ menu Close 0 Free Shipping on $50+
         *   Pajamas &. Robes
     *   Boys
         *   Back
+        *   View All
         *   Swimsuits
         *   Outerwear
         *   Tops
@@ -608,6 +610,7 @@ menu Close 0 Free Shipping on $50+
     *   Shop all Swim
     *   WOMEN'S SWIMSUITS
         *   Back
+        *   View All
         *   Tankinis &. Bikinis
         *   One-piece Swimsuits
         *   Rash Guards &. Swim Shirts
@@ -619,10 +622,12 @@ menu Close 0 Free Shipping on $50+
         *   Mastectomy Swimsuits
     *   MEN'S SWIMWEAR
         *   Back
+        *   View All
         *   Swim Trunks
         *   Rash Guards &. Swim Shirts
     *   GIRLS' SWIMSUITS
         *   Back
+        *   View All
         *   Tankini &. Bikini Separates
         *   Two-piece Swimsuit Sets
         *   One-piece Bathing Suits
@@ -630,6 +635,7 @@ menu Close 0 Free Shipping on $50+
         *   Cover-ups
     *   BOYS' SWIMSUITS
         *   Back
+        *   View All
         *   Swim Trunks
         *   Rash Guards &. Swim Shirts
     *   FEATURED SHOPS
@@ -665,6 +671,7 @@ menu Close 0 Free Shipping on $50+
         *   Adult
     *   Girls &. Women
         *   Back
+        *   View All
         *   Tops
         *   Sweaters
         *   Pants
@@ -679,6 +686,7 @@ menu Close 0 Free Shipping on $50+
         *   Backpacks &. Bags
     *   Boys &. Men
         *   Back
+        *   View All
         *   Tops
         *   Sweaters
         *   Pants
@@ -701,6 +709,7 @@ menu Close 0 Free Shipping on $50+
         *   Sale
     *   More for the Home
         *   Back
+        *   View All
         *   Outdoor Living
         *   Storage &. Organization
         *   Door Mats
@@ -710,6 +719,7 @@ menu Close 0 Free Shipping on $50+
         *   Holiday Decor
     *   BEDDING
         *   Back
+        *   View All
         *   Sheets &. Pillowcases
         *   Duvet Covers &. Coverlets
         *   Comforters
@@ -719,12 +729,14 @@ menu Close 0 Free Shipping on $50+
         *   Decorative Pillows
     *   BATH
         *   Back
+        *   View All
         *   Towels
         *   Rugs &. Mats
         *   Beach Towels
         *   Shower Curtains
     *   KIDS ROOM
         *   Back
+        *   View All
         *   Kids Bedding
         *   Kids Towels
         *   Seasonal Totes
