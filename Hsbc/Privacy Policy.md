@@ -99,7 +99,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Investor contacts
         
     
-    *   Annual Results 2017 HSBC Holdings plc announced its Annual Results on 20 February.
+    *   Annual General Meeting HSBC Holdings plc will hold its Annual General Meeting on 20 April 2018.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
