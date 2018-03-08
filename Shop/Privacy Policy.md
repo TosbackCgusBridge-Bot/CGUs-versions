@@ -275,9 +275,7 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   72 HOUR BUSINESS SALE
-            
-        *   Stylish, Dependable and Affordable PCs
+    *   *   Stylish, Dependable and Affordable PCs
             
         *   Monitor Deals
             
@@ -324,14 +322,16 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Built to perform. Engineered to endure.  
-Now Available .
+Built to perform. Engineered to endure.
 
-Learn more >.
+Now available! >.
 
-Voted best laptop under $1,000 by Gizmodo
+For those who set—not follow—trends.  
+With 8th Gen Intel® Core® i7 power in polished frames and premium audio-visuals.
 
-Shop now >.
+Ideapad 720S 15" Shop Now  
+Ideapad 720S 14" Shop Now  
+Ideapad 720S 13" Shop Now
 
 ThinkAgile VX Series
 
@@ -355,9 +355,9 @@ Look no further, early adopter
 
 The 2018 Lenovo ThinkPad generation of laptops is re-engineered with the latest technology.
 
-Yoga Tab 3 Pro
+HOW MUCH COULD YOU SAVE?
 
-Say goodbye to your TV and hello to the ultimate entertainment tablet.
+Get a mystery discount ecoupon when you register to receive our emails
 
 Awaken your inner Jedi with a new smartphone-powered augmented reality experience.
 
