@@ -514,7 +514,7 @@ The Buckle, Inc.
 Kearney, NE 68845  
 Phone: 800.626.1255
 
-Receive The Latest From Buckle GIFT CARD
+Receive The Latest From BuckleThe previous field has an error:Please enter your email address. The input is not a valid email address GIFT CARD
 
 *   Buy Now
 *   Check Balance
