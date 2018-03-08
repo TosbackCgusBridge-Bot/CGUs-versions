@@ -23,14 +23,14 @@ Gift Cards | Offers | Sign In Sign Out
     *   A Wrinkle in Time
     *   Gringo (2018)
     *   The Hurricane Heist
-    *   Strangers: Prey at Night
+    *   The Strangers: Prey at Night
+    *   Thoroughbreds
     *   Claire's Camera
     *   The Death of Stalin
     *   Girls Vs Gangsters
     *   Leaning Into the Wind
     *   The Leisure Seeker
     *   Sheep and Wolves
-    *   Thoroughbreds
     *   See All Opening This Week
     
     Coming Soon
@@ -72,8 +72,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Director Marc Forster Previews Christopher Robin as First Teaser Arrives Read More
-    *   Movie News: 'Rampage' Director to Helm Sci-Fi Thriller Read More
+    *   Watch the New 'Tully' Trailer! Read More
+    *   Movie News: Tommy ('The Room') Wiseau's Next Movie Is Already Done Read More
     *   Highlights From This Year's Academy Awards Show: Frances McDormand Leads the Way Read More
     
     Explore Content
@@ -324,4 +324,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
