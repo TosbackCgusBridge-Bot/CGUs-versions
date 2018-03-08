@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Popular programming language, Kotlin, launches as a snap for Linux ›
 *   MAAS for the home ›
 *   LXD weekly status #37 ›
 *   Kernel Team summary: February 27, 2018 ›
 *   Ubuntu Server development summary – 27 February 2018 ›
-*   Charming Discourse with the reactive framework ›
