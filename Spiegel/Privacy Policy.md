@@ -16,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.245,36ǀ
+*   DAX 12.355,57ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -250,7 +250,7 @@ Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor
 *   Allgemeine Nutzungsbedingungen
 
   
-Advertisement  
+  
 Allgemeine Nutzungsbedingungen
 
 *   Drucken
@@ -746,5 +746,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-Advertisement
