@@ -86,7 +86,6 @@ menu Close 0 Free Shipping on $50+
     
     SHOES>.
     
-    *   View All
     *   Athletic &. Water
     *   Sandals
     *   Casual
@@ -96,7 +95,6 @@ menu Close 0 Free Shipping on $50+
     *   Slippers
     
     ACCESSORIES>.
-    *   View All
     *   Scarves
     *   Belts
     *   Socks &. Tights
@@ -139,7 +137,6 @@ menu Close 0 Free Shipping on $50+
     
     SHOES>.
     
-    *   View All
     *   Athletic &. Water
     *   Casual
     *   Sandals
@@ -148,7 +145,6 @@ menu Close 0 Free Shipping on $50+
     *   Slippers
     
     ACCESSORIES>.
-    *   View All
     *   Belts
     *   Socks
     *   Ties
@@ -159,10 +155,10 @@ menu Close 0 Free Shipping on $50+
 *   Kids FEATURED SHOPS
     
     *   New Arrivals
-    *   Swim Shop
+    *   Kids' Swim Shop
     *   Easter Dressy Shop
-    *   Girls Spring Collections
-    *   Boys Spring Collections
+    *   Girls' Spring Collections
+    *   Boys' Spring Collections
     *   Girls' Knit Kit
     *   Iron Knees Pants
     *   School Uniforms
@@ -522,10 +518,10 @@ menu Close 0 Free Shipping on $50+
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
-        *   Swim Shop
+        *   Kids' Swim Shop
         *   Easter Dressy Shop
-        *   Girls Spring Collections
-        *   Boys Spring Collections
+        *   Girls' Spring Collections
+        *   Boys' Spring Collections
         *   Girls' Knit Kit
         *   Iron Knees Pants
         *   School Uniforms
@@ -798,9 +794,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off 1 full-price item!
+Receive 25% off full-price styles!
 
-code: RAINDROP pin: 4623 DETAILS
+code: MAGIC pin: 8582 DETAILS
 
 Customer Service Menu
 
