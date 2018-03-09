@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Sorry, Groundhog: February and Winter 2018 were warmer than average for the U.S. Mountain snowpack was low in the Southwest, high in the Northern Rockies AROUND NOAA // Strong winds, heavy snow for the Plains as another coastal storm brews in the East These veterans have a mission: This time, it’s fighting for coral Spring 2018 high tide outlook now available NOAA’s GOES-S satellite roars into orbit
+Enter Search Terms Sorry, Groundhog: February and Winter 2018 were warmer than average for the U.S. Mountain snowpack was low in the Southwest, high in the Northern Rockies AROUND NOAA // Spring 2018 high tide outlook now available These veterans have a mission: This time, it’s fighting for coral NOAA’s GOES-S satellite roars into orbit
 
 *   About our agency
 *   News and features
