@@ -1,4 +1,4 @@
-Last Modified: June 13,2013 - Effective Date: June 13,2013
+Last Modified: March 7, 2018 - Effective Date: March 7, 2018
 
 AutoZone knows that you care how information about you is used and shared. As part of its commitment to customer service, AutoZone strives to make you feel safe and comfortable doing business with AutoZone. Here are some guidelines AutoZone follows to keep your personal information private. AutoZone reserves the right to modify this Privacy Policy at any time in our sole discretion without notice.
 
