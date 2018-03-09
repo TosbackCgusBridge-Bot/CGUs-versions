@@ -7,10 +7,10 @@
     *   Military
     *   New!
     
-    Occasions*   Spring Gifts
+    Occasions*   Easter Gifts
+    *   Spring Gifts
     *   Birthday Gifts
     *   Weddings &. Showers
-    *   Housewarming
     *   Thank You
     *   Game DayMost Popular Easter Gifts Easter Baskets
 *   Meat &. Cheese
@@ -74,10 +74,10 @@
     *   Military
     *   New!
     
-    Occasions*   Spring Gifts
+    Occasions*   Easter Gifts
+    *   Spring Gifts
     *   Birthday Gifts
     *   Weddings &. Showers
-    *   Housewarming
     *   Thank You
     *   Game DayMost Popular Easter Gifts Easter Baskets
 *   Meat &. Cheese
