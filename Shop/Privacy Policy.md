@@ -329,9 +329,9 @@ Now available! >.
 For those who set—not follow—trends.  
 With 8th Gen Intel® Core® i7 power in polished frames and premium audio-visuals.
 
-Ideapad 720S 15" Shop Now  
-Ideapad 720S 14" Shop Now  
-Ideapad 720S 13" Shop Now
+Shop 15' >  
+Shop 14' >  
+Shop 13' >.
 
 ThinkAgile VX Series
 
