@@ -48,7 +48,6 @@ View more results
     
     *   Social Games
     *   2 player
-    *   Casino Games
     *   MMO
     *   .io Games
     
@@ -125,7 +124,6 @@ View more results
     *   Match 3
     *   Mahjong
     *   Jigsaw Puzzle
-    *   Casino Games
     *   Colored Blocks
     *   Solitaire
     *   1001 Arabian Nights
