@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 25%  5% 
+What is PeekScore? Public Records &. Background Checks 25%  8% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 5% 
+Facebook 8% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -213,7 +213,7 @@ Facebook 5% 
     
 *   Show Less ...
 
-Twitter 5% 
+Twitter 8% 
 
 *   HIV.gov - HIVGov
     
@@ -259,7 +259,7 @@ Twitter 5% 
     
 *   Show Less ...
 
-Instagram 5% 
+Instagram 8% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -325,7 +325,7 @@ Instagram 5% 
     
 *   Show Less ...
 
-Pinterest 25%  Wikipedia 5% 
+Pinterest 25%  Wikipedia 8% 
 
 *   Wikipedia
     
@@ -340,7 +340,7 @@ Pinterest 25%  Wikipedia 5% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 5% 
+Google+ 8% 
 
 *   privacy policy - Google+ - Google Plus
     
@@ -359,7 +359,7 @@ Google+ 5% 
     Press question mark to see available shortcut keys.. Discover. Join Google+. Report an issue. Help. ©2018 Google • Privacy Policy • Terms of Service • Maps Terms. Region. Search. Sign in. About... Sign in. Profile cover photo. Profile photo . Expedia. 5,214,305 followers -. Travel the World Better. Travel the World ...
     
 
-Linkedin 25%  Music 5% 
+Linkedin 25%  Music 8% 
 
 *   Pandora
     
@@ -405,7 +405,7 @@ Linkedin 25%  Music 5% 
     
 *   Show Less ...
 
-Photo Albums 5% 
+Photo Albums 8% 
 
 *   Flickriver
     
@@ -416,7 +416,7 @@ Photo Albums 5% 
     Flickr (pronounced "flicker") is an image-and video-hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on 20 March 2005 ...
     
 
-Myspace 5% 
+Myspace 8% 
 
 *   Privacy Policy - 49086242
     
@@ -440,7 +440,7 @@ Myspace 5% 
     
 *   Show Less ...
 
-Web Search 25%  Images 5% 
+Web Search 25%  Images 8% 
 
 9
 
