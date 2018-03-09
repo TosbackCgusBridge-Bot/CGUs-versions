@@ -1,3 +1,5 @@
+× Close Ad
+
 *   Policy
 *   Markets
 *   World
@@ -103,53 +105,53 @@
     *   About
     *   Media Kit
 
-*   _Katie Pavlich_: On Russia and the 2016 Election, Dems Are Still in Denial
+*   _Lee Smith_: Who Believes in Russiagate?
     
-*   _Ezra Klein_: It's Not Just Gary Cohn. Trump's White House Is in a Staffing Crisis.
+*   _Abigail Tracy_: Robert Mueller's Russia Probe Just Got a Lot Weirder
     
-*   _Charlie Campbell_: 'Bad Cop' Trump Deserves Credit for North Korea Progress
+*   _Niall Stanage_: Trump's Tariff Move Just Might Pay Off in 2020
     
-*   _Jon Wolfsthal_: Kim Jong Un Makes America Irrelevant
+*   _Margaret Carlson_: Trump's Problem Isn't Who's Leaving. It's Who's Staying
     
-*   _Jason Riley_: 50 Years of Blaming Everything on Racism
+*   _Jeff Sessions_: California Endangers Lives to Promote Its Open Borders Agenda
     
-*   _Sherrilyn Ifill_: Black Children Will Be the Victims of Armed Teachers
+*   _Joe Garofoli_: Sessions Suit Against California Is Bad News for the GOP
     
-*   _Robert Tracinski_: Dear Annoying Parkland Kids: No, You're Not Experts
+*   _James Arkin_: In Many GOP Primaries, No Calls for New Gun Laws
     
-*   _Helen Andrews_: The Flat Mind of Thomas Friedman
+*   _Liz Peek_: Cohn's Resignation Will Only Fortify the Trump Agenda
     
-*   _Thomas Friedman_: Memo to the President on Saudi Arabia
+*   _Robert Samuelson_: Trump's Tariffs Are Triumph of Pride Over Policy
     
-*   _Thomas Lifson_: Saudi Crown Prince Shocks Islamists With Bold Moves in Egypt
+*   _Michael Brendan Dougherty_: Center-Left Politics: Dying in Europe &. America
     
-*   _David Axe_: China's Military Spending Spree Speeds Up
+*   _Carl Cannon_: Reagan's 'Evil Empire' Declaration Is Relevant Again
     
-*   _Krishnadev Calamur_: What If Trump's North Korea Bluster Actually Worked?
+*   _Molly Ball_: The Real Trade War Is Inside Donald Trump's White House
     
-*   _Michael Rubin_: Be Wary of North Korea's Sudden Turn Towards Diplomacy
+*   _Caitlin Huey-Burns_: Trump's Unlikely Allies on Trade -- Democrats
     
-*   _Scott Lemieux_: Gary Cohn's Breaking Point
+*   _Charles Koch_: Corporate Leaders Must Reject Trump's Tariffs
     
-*   _Corey Lewandowski_: Pro-American Trade Policy Is Just What Trump Promised
+*   _Scott Paul_: U.S. Should Applaud Trump for Ending Our Surrender on Trade
     
-*   _Larry Summers_: The Dollar Is Getting Weaker. That Should Worry Us
+*   _Jill Abramson_: Are We Seeing Signs of a Democratic Wave in Texas?
     
-*   _Reps. Gowdy &. Goodlatte_: Why a Second Special Counsel Is Needed
+*   _Musa al-Gharbi_: About That Blue Wave...
     
-*   _McKay Coppins_: Sam Nunberg's Spectacular Stunt
+*   _James Arkin_: Dem Super PAC Books $40 Million in Midterm Ads
     
-*   _Sen. Chuck Schumer_: Trump, You Broke DACA, Now Fix It
+*   _Ed Rogers_: I Hope Dems Defend Sanctuary Cities -- It'll Cost Them
     
-*   _Arkin &. Huey-Burns_: The Texas Primary's Lessons for Democrats
+*   _Dylan Scott_: Trump's Hidden War on Medicaid
     
-*   _Daniel McCarthy_: Why Trump's 'Trade War' Makes Strategic Sense
+*   _Randy Barnett_: The New Challenge to Obamacare
     
-*   _Bess Levin_: Trump Entertains Economic Suicide to Tick Off 'Globalists'
+*   _Dave Cullen_: Inside the Parkland Students' Race to Make History
     
-*   _Scott Paul_: Enforcement: The Forgotten Piece of U.S. Trade Policy
+*   _D.C. McAllister_: Oscars Night Tanks as NRA Membership Skyrockets
     
-*   _Mollie Hemingway_: Media Fight for Democrats in Washington Leak Wars
+*   _Kristin Rowe-Finkbeiner_: Inclusion Riders Can Be a Revolution for All Women
     
 
 *   Previous
@@ -251,11 +253,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Economic Aide Cohn Departs After Trade Disagreement
+*   In Many Republican Primaries, No Calls for New Gun Laws
+*   Trump's Unlikely Allies on Trade--Democrats
+*   Cruz Debates "Morning Joe" Panel on Gun Control
+*   Dem Super PAC Books $40 Million in Midterm Ads
 *   The Texas Primary's Lessons for Democrats
-*   Gowdy &. Goodlatte: Why We Need a Second Independent Counsel
-*   North Korea's Outreach Greeted With Skepticism
-*   Trump, Ryan Face Off in Public Clash Over Tariffs
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,26 +272,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalMonmouth
-    *   Approve40
-    *   Disapprove54Disapprove +14
-*   2018 Generic Congressional VoteMonmouth
-    *   Democrats50
-    *   Republicans41Democrats +9
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve38
-    *   Disapprove56Disapprove +18
+*   2018 Generic Congressional VoteReuters/Ipsos
+    *   Democrats38
+    *   Republicans31Democrats +7
+*   2018 Generic Congressional VoteRasmussen Reports
+    *   Democrats46
+    *   Republicans40Democrats +6
+*   President Trump Job ApprovalMarist
+    *   Approve44
+    *   Disapprove49Disapprove +5
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve40
     *   Disapprove54Disapprove +14
 
 More Latest Polls In The News
 
+*   MSNBC's Evelyn Farkas: "Unfortunately," "Bluster" From Trump Led North Korea To Negotiating Table
+*   United Steelworkers' Leo Gerard: Members Won't Forget What Trump Did, He Stopped Wealth Transfer
+*   Inhofe: The More Aggressive Trump Gets, The More He Gets Done. Brought Kim Jong-un To The Table
+*   Sen. Harris On Immigration: Sessions Wants To Roll Back The Clock, "California Represents The Future"
 *   Sessions to Oakland Mayor: How Dare You Endanger Lives Just To Promote Your Radical Open Borders Agenda
-*   Warren on Democratic Party Donations: "I Am Not Running For President. I Am Running For Senate"
-*   Cruz Debates 'Morning Joe' on Gun Control: Not Effective To Give Speeches Demagoguing Law-Abiding Citizens
-*   Tucker Carlson: Sam Nunberg Brilliantly Played The Media, Setting Up "Insanity Defense"
-*   Rep. Matt Gaetz: We Can Not Trust The DOJ And FBI To Investigate Themselves
 
 *   Politics
 *   Policy
