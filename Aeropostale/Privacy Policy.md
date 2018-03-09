@@ -37,6 +37,7 @@ Close submenu ( Featured ) Featured
 *   New Arrivals
 *   Sabrina's Picks
 *   $8 Tees
+*   Create Your Suit for $25
 *   Spring Break
 *   Easter Best
 *   Denim Guide
@@ -80,8 +81,8 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-
 *   Jackets + Vests
+
 *   Accessories
 *   Underwear
 *   Swim
@@ -93,9 +94,10 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   $8 Tees
+*   Buy 1 Get 2 Free
 *   Denim Guide
 *   Logo Shop
-*   Tapout + Aero Active
+*   Active
 *   Back to Basics
 *   Tanks + Swim Shop
 *   Online Only
@@ -174,6 +176,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Featured ) Featured
 
 *   View All
+*   Create Your Suit for $25
 *   Active
 *   Lounge
 *   Sleep
@@ -293,7 +296,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**BOGO FREE JEANS** + **50% OFF SHORTS** **50-70% OFF** + **FREE SHIPPING OVER $75**
+**BOGO FREE JEANS** + **60% OFF SHORTS** **50-70% OFF** + **FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -307,6 +310,7 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Sabrina's Picks
         *   $8 Tees
+        *   Create Your Suit for $25
         *   Spring Break
         *   Easter Best
         *   Denim Guide
@@ -358,9 +362,10 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   $8 Tees
+        *   Buy 1 Get 2 Free
         *   Denim Guide
         *   Logo Shop
-        *   Tapout + Aero Active
+        *   Active
         *   Back to Basics
         *   Tanks + Swim Shop
         *   Online Only
@@ -386,8 +391,8 @@ Menu Find a Store Aeropostale
         *   Pants
         *   Shorts
         
-    
     *   Jackets + Vests
+    
     *   Accessories
     *   Underwear
     *   Swim
@@ -426,6 +431,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
+        *   Create Your Suit for $25
         *   Active
         *   Lounge
         *   Sleep
@@ -541,7 +547,7 @@ Menu Find a Store Aeropostale
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ON ORDERS OVER $75 Search Catalog Search Shop Girls Jeans Shop Guys Jeans Shop Girls Shorts Shop Guys Shorts Find My Store Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Girls Shop Guys Shop Girls Shop Guys Shop Guys Shop Girls Shop Girls Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
-Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
+Text JOIN to 237687. Terms &. Conditions Message &. Data Rates May Apply. FOLLOW US Customer Care
 
 *   Order Status
 *   Track Your Order
