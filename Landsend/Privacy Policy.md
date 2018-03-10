@@ -168,7 +168,7 @@ menu Close 0 Free Shipping on $50+
     
     *   Toddler Girl (2T-4T)
     *   Little Girl (size 4-7)
-    *   Big Girl (size 7-20)
+    *   Big Girl (size 7-16)
     *   Toddler Boy (2T-4T)
     *   Little Boy (size 4-7)
     *   Big Boy (size 7-20)
@@ -530,7 +530,7 @@ menu Close 0 Free Shipping on $50+
         *   Back
         *   Toddler Girl (2T-4T)
         *   Little Girl (size 4-7)
-        *   Big Girl (size 7-20)
+        *   Big Girl (size 7-16)
         *   Toddler Boy (2T-4T)
         *   Little Boy (size 4-7)
         *   Big Boy (size 7-20)
