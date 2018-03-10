@@ -1,3 +1,5 @@
+> Contents
+> 
 > *   1 Legal Stuff
 >     *   1.1 Fark's Legal and Privacy Statement
 >         *   1.1.1 Terms Of Service
@@ -28,7 +30,7 @@
 > *   A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law. and
 > *   A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 > 
-> Our Copyright Agent for notice of claims of copyright infringement on Fark.com is Drew Curtis, who can be reached through farkback at: http://www.fark.com/feedback/legal
+> Our Copyright Agent for notice of claims of copyright infringement on Fark.com is Drew Curtis, who can be reached through farkback at: https://www.fark.com/feedback/legal
 > 
 > Fark, TotalFark, Foobies, Fark This, and the Fark, TotalFark, and Foobies logos, are registered trademarks of Fark, Inc. Farked is a trademark of Fark, Inc.
 > 
