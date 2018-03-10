@@ -12,7 +12,7 @@
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Game DayMost Popular Easter Gifts Easter Baskets
+    *   Game DayMost Popular Easter Entertaining Easter Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -27,7 +27,7 @@
     
     Specialty Foods*   Artisan
     *   All Natural
-    *   Seafood
+    *   SeafoodMost Popular Specialty Meats
 *   Fruit Baskets
     View All Categories Shop by Category*   Fruit Baskets
     *   Wine &. Fruit Baskets
@@ -79,7 +79,7 @@
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Game DayMost Popular Easter Gifts Easter Baskets
+    *   Game DayMost Popular Easter Entertaining Easter Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -94,7 +94,7 @@
     
     Specialty Foods*   Artisan
     *   All Natural
-    *   Seafood
+    *   SeafoodMost Popular Specialty Meats
 *   Fruit Baskets
     View All Categories Shop by Category*   Fruit Baskets
     *   Wine &. Fruit Baskets
