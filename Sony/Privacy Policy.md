@@ -35,7 +35,6 @@ SONY
     *   Interchangeable-lens Cameras
     *   Lenses
     *   Compact Cameras
-    *   Lens-Style Cameras
     
     View AllMobile, Tablets &. Smart Devices  ›Mobile, Tablets &. Smart Devices 
     
@@ -127,7 +126,7 @@ Play Get Rewarded for Your Love of Movies Video hotspot
 
 Get lost in the unforgettable world of Shadow of the Colossus on #PS4. Play today at #SonySquareNYC.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -201,7 +200,7 @@ For Movie Buffs
 
 Explore the myths behind the new God of War in our interview with game director Cory Barlog.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -291,7 +290,7 @@ View RX100 V on Instagram
 
 Sony α7 III: First Reviews From Around The Web #SonyAlpha
 
-2 days ago
+3 days ago
 
 View Tweet
 
