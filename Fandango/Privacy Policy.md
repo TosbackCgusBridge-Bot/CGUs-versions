@@ -72,9 +72,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Watch the New 'The Grinch' Trailer! Read More
-    *   Movie News: Elizabeth Banks and James Gunn to Reunite for Mysterious Horror Film Read More
-    *   Highlights From This Year's Academy Awards Show: Frances McDormand Leads the Way Read More
+    *   Michael Bay to Direct 'Robopocalypse' and '6 Underground' Read More
+    *   Geek Buzz: 'Black Panther 2,' 'Wonder Woman 2,' 'Dune' Movies Read More
+    *   The Week in Movie News: Oscar Winners, SXSW Buzz, the Live-Action 'Star Wars' Series and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -267,9 +267,9 @@ Offers
     
     Receive a FREE\* exclusive 'Gringo' t-shirt with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'Tomb Raider' Gift With Purchase
+*   'A Wrinkle in Time' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Tomb Raider' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive 'A Wrinkle in Time' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Thoroughbreds' Gift With Purchase
     
