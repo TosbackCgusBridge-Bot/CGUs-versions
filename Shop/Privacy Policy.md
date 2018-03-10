@@ -254,6 +254,7 @@ Menu Close Menu Close
         *   PC Services
         *   DATA CENTER SERVICES
         *   Replacement Parts
+        *   Device as a Service (DaaS)
         
         *   *   Explore All Services >.
         *   *   Services Overview >.
@@ -261,6 +262,8 @@ Menu Close Menu Close
         *   *   Data Center Services >.
         
         *   *   \>.
+        
+        *   *   Device as a Service >.
         
 *   Deals
     
@@ -294,6 +297,7 @@ Menu Close Menu Close
     *   Higher Education
     *   K-12 Education
     *   Lenovo Partner Network
+    *   Device as a Service (DaaS)
     *   See All Solutions
 *   Email Sign-Up
 *   Call 1-855-253-6686
@@ -329,9 +333,9 @@ Now available! >.
 For those who set—not follow—trends.  
 With 8th Gen Intel® Core® i7 power in polished frames and premium audio-visuals.
 
-Shop 15' >  
-Shop 14' >  
-Shop 13' >.
+Shop 15">  
+Shop 14">  
+Shop 13">.
 
 ThinkAgile VX Series
 
@@ -470,9 +474,7 @@ Laptops Desktops Tablets Servers Deals Select Country/Region AlgeriaAngolaArgent
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new window
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
