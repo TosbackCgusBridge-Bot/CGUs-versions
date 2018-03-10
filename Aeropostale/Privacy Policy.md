@@ -81,8 +81,8 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-*   Jackets + Vests
 
+*   Jackets + Vests
 *   Accessories
 *   Underwear
 *   Swim
@@ -391,8 +391,8 @@ Menu Find a Store Aeropostale
         *   Pants
         *   Shorts
         
-    *   Jackets + Vests
     
+    *   Jackets + Vests
     *   Accessories
     *   Underwear
     *   Swim
