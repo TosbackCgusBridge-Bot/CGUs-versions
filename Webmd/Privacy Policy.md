@@ -1,5 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking Subscribe, I agree to the WebMD Terms &. Conditions &. Privacy Policy  
-and understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -439,7 +438,7 @@ WebMD Policy Last updated on December 11, 2017 © 2017 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-FROM OUR ADVERTISER Get Immediate Lower Back Pain Relief Discover how your feet may be to blame for your pain. Dr. Scholl's® **.** Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
