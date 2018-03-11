@@ -135,19 +135,19 @@ LATEST ON TWITTER
 
 Have difficulty tackling ad blockers? We've got the scoop on how to overcome this challenge on our blog! Check it out: goo.gl/Ztpbts #publishers
 
-About 2 days ago
+About 3 days ago
 
 My week on Twitter : 2 Mentions, 1.43K Mention Reach, 1 Like, 1 Retweet, 49 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/RHCT…
 
-About 3 days ago
+About 4 days ago
 
 Our biggest fans this week: @karysjones0425. Thank you! via sumall.com/thankyou?… pic.twitter.com/l3b7…
 
-About 4 days ago
+About 5 days ago
 
 .@Jambrose, our Marketing Operations Director, chats with @MediaPost Publishing Insider about how publishers can avoid pitfalls and thrive in an unstable digital environment. Check it out here: bit.ly/2toTN8U
 
-About 4 days ago
+About 5 days ago
 
 .@Requidan "There are thousands of discount relationships that exist for many businesses – what one views as controversial or polarizing is in the eye of the beholder." Read insights from industry leaders on what brands should do about the NRA via @TheDrum bit.ly/2oEqfhU
 
