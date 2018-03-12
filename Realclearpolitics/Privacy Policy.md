@@ -251,11 +251,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Imposes Tariffs, Openly Defying Republicans
 *   In Whiplash Development, Trump to Meet Kim Jong Un for Nuke Talks
+*   At Rally, Trump Goes All In on Pa. Special Election
 *   Farkas: "Unfortunately," Trump's Bluster Led North Korea to Table
+*   Trump Imposes Tariffs, Openly Defying Republicans
 *   In Wisconsin, Baldwin Searches for Path to Keep Key Senate Seat
-*   In Many Republican Primaries, No Calls for New Gun Laws
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -285,11 +285,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Trump: 2020 Slogan Will Be "Keep America Great". Done "Hell Of A Job," Could "Coast" For Two And A Half Years
+*   Chuck Todd Grills Mnuchin: What Should I Tell My Kids When Trump Uses "Vulgarity" About Me?
+*   WH's Navarro: Addressing Unfair Chinese Trade Practices Will Keep "Industries Of The Future" In America
+*   Warren Refuses DNA Test: Native American Heritage "Part Of Who I Am," No One Is Taking That Away
+*   Maxine Waters: Trump Is "Typical Con Man" Who "Diverts Attention From Himself By Attacking Others"
 *   Maher Trashes Liberal Response To Trump North Korea Meeting: "F\*ck You," "It Just Might Work"
-*   United Steelworkers' Leo Gerard: Members Won't Forget What Trump Did, He Stopped Wealth Transfer
-*   MSNBC's Evelyn Farkas: "Unfortunately," "Bluster" From Trump Led North Korea To Negotiating Table
-*   Sen. Harris On Immigration: Sessions Wants To Roll Back The Clock, "California Represents The Future"
 
 *   Politics
 *   Policy
