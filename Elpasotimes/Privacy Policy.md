@@ -1,4 +1,4 @@
-close dialog1st Month FreeSubscribe Todayclose dialog
+close dialog1st Month FreeSubscribe Todayclose dialogSUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -144,4 +144,4 @@ Our Partners
 *   Thanksgiving.com
 *   Grateful
 
-close dialog1st Month FreeSubscribe Todayclose dialog
+close dialog1st Month FreeSubscribe Todayclose dialogclose dialog1st Month FreeSubscribeNot Looking to Subscribe Right Nowclose dialog
