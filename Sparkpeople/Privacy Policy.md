@@ -56,5 +56,4 @@ This Site and third parties who place advertisements on this Site may collect an
 **Queries**  
 If you have a question or comment about the SparkPeople site, please contact us at support@sparkpeople.com.  
   
-Last updated October 25, 2013.  
-_Article created on:  8/26/2009_
+Last updated October 25, 2013.
