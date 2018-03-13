@@ -3,9 +3,16 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
+Toggle initial options for NPR audio player ****ON AIR NOW**CPR News**
+
+*   **Newscast**
+*   **Live Radio**
+*   **Shows**
+
 View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search
 
 *   NPR Home
+*   **CPR News**
 
 *   News
 *   Arts &. Life
@@ -34,8 +41,11 @@ View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Dir
 
 *   Podcast Directory
 *   Categories
+*   CPR News podcasts
 
+*   donate now
 *   **NPR** Shop
+*   My Account
 
 Back News
 
@@ -283,7 +293,9 @@ Back
 *   Technology
 *   TV &. Film
 
+*   **CPR News**
 *   **NPR** Shop
+*   donate now
 
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9RKM5" height="0" width="0" style="display:none;visibility:hidden"></iframe>. **Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
 
@@ -513,6 +525,7 @@ Get Involved
 *   Privacy
 *   Sponsorship Choices
 *   Text Only
+*   © 2018 npr
 
 NPR thanks our sponsors
 
