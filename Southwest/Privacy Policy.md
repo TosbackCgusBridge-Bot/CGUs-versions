@@ -198,7 +198,7 @@ Promotional Communications**
 
 You can opt out of receiving promotional e-mail communications from us at any time by following the instructions provided in those communications or e-mail us as detailed here
 
-As a Southwest customer, Southwest account holder, SWABIZ®, or Rapid Rewards® Member, or user of the Services, you may also receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners. If you do not wish to receive such promotional mailings, you may call Rapid Rewards® Customer Relations at 1-855-234-4656 (Monday - Friday, 7am-8pm CT).
+As a Southwest customer, Southwest account holder, SWABIZ®, or Rapid Rewards® Member, or user of the Services, you may also receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners. If you do not wish to receive such promotional mailings, you may call Rapid Rewards® Customer Relations at 1-855-234-4654 (Monday - Friday, 7am-8pm CT).
 
 Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional e-mails and other types of communications, as permitted by law, such as those about our ongoing business relations. For example, we may send e-mails that contain service-related announcements that affect your account, confirmations and updates regarding flight reservations you have made, requests for feedback on our services and/or your specific travel experiences, or responses to your comments and feedback submitted to us.  
 
