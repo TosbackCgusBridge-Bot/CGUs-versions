@@ -1,6 +1,6 @@
 <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <a href="http://www.omniture.com" title="Web Analytics"><img src="http://mlbreloaded.112.2O7.net/b/ss/mlbreloaded/1/H.13--NS/0?\[AQB\]&cdp=3&\[AQE\]" height="1" width="1" border="0" alt="" /></a>. To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 한국어 日本語 Español
 
-Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Play Ball Teams
+SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuctionFantasyPlay BallTeams
 
 *   Scores
 *   News News News
@@ -29,6 +29,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Entertainment
     *   Reporter's Inbox
     *   #AwardWorthy
+    *   Rare Feats
     *   Espanol
 *   Video Video Video
     
@@ -116,8 +117,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Home &. Office
     *   Clearance
     *   Gift Certificates
-    *   Wine
     *   European Shop
+    *   Wine
     *   Photo Store
     
     Auctions
