@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+.@adexchanger #PROGIO is right around the corner! Expert leaders across our ecosystem including our own Erik @Requidan will be talking about the industry's hot topics &. more. Don't miss out! #programmatic #adtech pic.twitter.com/SVii…
+
+About 15 hours ago
+
 Have difficulty tackling ad blockers? We've got the scoop on how to overcome this challenge on our blog! Check it out: goo.gl/Ztpbts #publishers
-
-About 4 days ago
-
-My week on Twitter : 2 Mentions, 1.43K Mention Reach, 1 Like, 1 Retweet, 49 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/RHCT…
 
 About 5 days ago
 
-Our biggest fans this week: @karysjones0425. Thank you! via sumall.com/thankyou?… pic.twitter.com/l3b7…
+My week on Twitter : 2 Mentions, 1.43K Mention Reach, 1 Like, 1 Retweet, 49 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/RHCT…
 
 About 6 days ago
+
+Our biggest fans this week: @karysjones0425. Thank you! via sumall.com/thankyou?… pic.twitter.com/l3b7…
+
+Last week
 
 .@Jambrose, our Marketing Operations Director, chats with @MediaPost Publishing Insider about how publishers can avoid pitfalls and thrive in an unstable digital environment. Check it out here: bit.ly/2toTN8U
 
-About 6 days ago
-
-.@Requidan "There are thousands of discount relationships that exist for many businesses – what one views as controversial or polarizing is in the eye of the beholder." Read insights from industry leaders on what brands should do about the NRA via @TheDrum bit.ly/2oEqfhU
-
-About 2 weeks ago
+Last week
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
