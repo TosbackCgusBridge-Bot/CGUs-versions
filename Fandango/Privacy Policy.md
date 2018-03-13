@@ -6,38 +6,37 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movies Now Playing
     
     *   Black Panther
+    *   A Wrinkle in Time
+    *   The Strangers: Prey at Night
     *   Red Sparrow
-    *   Death Wish (2018)
     *   Game Night (2018)
     *   Peter Rabbit
+    *   Death Wish (2018)
+    *   The Hurricane Heist
     *   Annihilation
     *   Jumanji: Welcome to the Jungle
-    *   Fifty Shades Freed
-    *   The Greatest Showman
-    *   Every Day (2018)
-    *   The 15:17 to Paris
+    *   Gringo (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   A Wrinkle in Time
-    *   Gringo (2018)
-    *   The Hurricane Heist
-    *   The Strangers: Prey at Night
-    *   Thoroughbreds
-    *   Claire's Camera
-    *   The Death of Stalin
-    *   Girls Vs Gangsters
-    *   Leaning Into the Wind
-    *   The Leisure Seeker
-    *   Sheep and Wolves
+    *   7 Days in Entebbe
+    *   I Can Only Imagine
+    *   Love, Simon
+    *   Tomb Raider (2018)
+    *   Flower (2018)
+    *   The Happys
+    *   Josie
+    *   Journey's End (2018)
+    *   Tilt (2018)
     *   See All Opening This Week
+    
+    Pre Sales Tickets
+    
+    *   Ready Player One
     
     Coming Soon
     
-    *   Tomb Raider (2018)
-    *   I Can Only Imagine
-    *   Love, Simon
     *   Pacific Rim: Uprising (2018)
     *   Sherlock Gnomes
     *   Paul, Apostle of Christ
@@ -45,6 +44,8 @@ Gift Cards | Offers | Sign In Sign Out
     *   Unsane (2018)
     *   Tyler Perry's Acrimony
     *   God's Not Dead: A Light in Darkness
+    *   Ready Player One
+    *   A Quiet Place
     *   See All Coming Soon
     
     Explore More
@@ -72,9 +73,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Michael Bay to Direct 'Robopocalypse' and '6 Underground' Read More
+    *   Movie News: 'Ready Player One' Makes Dazzling Debut Read More
     *   Geek Buzz: 'Black Panther 2,' 'Wonder Woman 2,' 'Dune' Movies Read More
-    *   The Week in Movie News: Oscar Winners, SXSW Buzz, the Live-Action 'Star Wars' Series and More Read More
+    *   Watch 'Fantastic Beasts: The Crimes of Grindelwald' Teaser Read More
     
     Explore Content
     *   Movie Reviews
