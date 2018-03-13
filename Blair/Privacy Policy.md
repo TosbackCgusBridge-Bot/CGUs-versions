@@ -1,6 +1,4 @@
-  No thank you, I prefer to pay for shipping!     Offer Details
-
-Use promotion code **BFRQ** at checkout to save 25% on your entire Blair merchandise order. Savings applies to merchandise prices only, not to shipping and processing fees or for the purchase of gift cards. This offer cannot be combined with other offers. not valid on previously placed orders. good online only through March 12, 2018.
+  No thank you, I prefer to pay for shipping!  
 
 Shop your favorite stores and discover new ones  
   
@@ -247,7 +245,7 @@ Blair
 Warren, PA 16366
 
   
-Report Ad  
+  
 Sign Up for Email  
 New subscribers receive a FREE SHIPPING offer.  
   
