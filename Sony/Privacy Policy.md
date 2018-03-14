@@ -36,11 +36,12 @@ SONY
     *   Lenses
     *   Compact Cameras
     
-    View AllMobile, Tablets &. Smart Devices  ›Mobile, Tablets &. Smart Devices 
+    View AllMobile, Accessories &. Smart Devices ›Mobile, Accessories &. Smart Devices
     
     *   All Mobile, Tablets &. Smart Devices products ›
     *   Cell Phones
     *   Wearable Technology
+    *   Accessories
     
     View AllVideo Cameras ›Video Cameras
     
@@ -278,7 +279,7 @@ Play The Con Continues With Consequences Video hotspot
 
 Who’s stepping up to the plate to pre-order #TheShow18? (Remember: Linked members earn #SonyRewardsPoints)
 
-18 hours ago
+13 hours ago
 
 View Tweet
 
