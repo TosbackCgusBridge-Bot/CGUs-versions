@@ -107,7 +107,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7% 
+Facebook 15% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -167,53 +167,53 @@ Facebook 7% 
     
 *   Show Less ...
 
-Twitter 7% 
+Twitter 15% 
 
 *   U.S. FDA - US\_FDA
     
 *   HIV.gov - HIVGov
     
-*   Bush Library - Bush41Library
-    
-*   NIH - NIH
-    
-*   Show More ...
-
-*   Free Privacy Policy - FreePrivacy1
-    
-*   Francis S. Collins - NIHDirector
-    
 *   Federal Reserve - federalreserve
-    
-*   HHS.gov - HHSGov
     
 *   IRS - IRSnews
     
+*   Show More ...
+
+*   Bush Library - Bush41Library
+    
+*   FTC - FTC
+    
+*   NIH - NIH
+    
+*   Francis S. Collins - NIHDirector
+    
+*   Free Privacy Policy - FreePrivacy1
+    
+*   HHS.gov - HHSGov
+    
 *   Justice Department - TheJusticeDept
+    
+*   Cristiano Ronaldo - Cristiano
+    
+*   HealthCare.gov - HealthCareGov
     
 *   Mabuhay Miles - PALMabuhayMiles
     
 *   U.S. FDA - FDArecalls
     
-*   HealthCare.gov - HealthCareGov
-    
-*   U.S. Census Bureau - uscensusbureau
+*   CDC - CDCgov
     
 *   FDA Drug Information - FDA\_Drug\_Info
     
-*   Cristiano Ronaldo - Cristiano
-    
-*   Alex Azar - SecAzar
-    
-*   FTC - FTC
+*   U.S. Census Bureau - uscensusbureau
     
 *   OAIC - OAICgov
     
-*   CDC - CDCgov
+*   DOJ Civil Rights - CivilRights
     
 *   Show Less ...
 
-Instagram 7% 
+Instagram 15% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -233,9 +233,9 @@ Instagram 7% 
     
 *   Рогов Хуго - privacypolicy
     
-*   Private - \_privacypolicy\_\_
-    
 *   Ray - terms\_privacy\_\_policy\_\_
+    
+*   Private - \_privacypolicy\_\_
     
 *   Privacy Policy games - privacypolicygames
     
@@ -279,7 +279,7 @@ Instagram 7% 
     
 *   Show Less ...
 
-Pinterest 19%  Wikipedia 7% 
+Pinterest 19%  Wikipedia 15% 
 
 *   Wikipedia
     
@@ -294,7 +294,7 @@ Pinterest 19%  Wikipedia 7% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 7% 
+Google+ 15% 
 
 *   privacy policy - Google+ - Google Plus
     
@@ -309,7 +309,7 @@ Google+ 7% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 19%  Music 7% 
+Linkedin 19%  Music 15% 
 
 *   Pandora
     
@@ -355,7 +355,7 @@ Linkedin 19%  Music 7% 
     
 *   Show Less ...
 
-Photo Albums 7% 
+Photo Albums 15% 
 
 *   Flickriver
     
@@ -370,23 +370,23 @@ Photo Albums 7% 
     Missouri Department of Transportation Central Office 105 W. Capitol Avenue Jefferson City, MO 65102 1-888-ASK-MODOT (275-6636) 1-866-831-6277 (Motor Carrier Services)
     
 
-Myspace 7% 
+Myspace 15% 
 
 *   Privacy Policy - 49086242
     
 *   Privacy Policy - 419681495
     
-*   Privacy Policy - yourbandnameiskewl
-    
-*   Privacy Policy - 71089472
-    
-*   Show More ...
-
 *   Privacy Policy - 98020535
     
 *   Privacy Policy - 80000267
     
+*   Show More ...
+
 *   Privacy Policy - 78109889
+    
+*   Privacy Policy - yourbandnameiskewl
+    
+*   Privacy Policy - 71089472
     
 *   Privacy Policy - youmakemewannaohlala
     
@@ -394,7 +394,7 @@ Myspace 7% 
     
 *   Show Less ...
 
-Web Search 19%  Images 7% 
+Web Search 19%  Images 15% 
 
 9
 
