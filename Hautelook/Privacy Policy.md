@@ -8,20 +8,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Eileen Fisher Incl. Special Sizes
+    *   Eileen Fisher Shoes
+    *   Statement Jewelry Under $35
+    *   Flying Tomato &. More Under $35
+    *   Joan Vass
+    *   Great Greenery: Faux Succulents Under $20
+    *   Free Shipping: Boho-Chic Decor Up to 70% Off
+    *   Free Shipping: Brazilian Cowhide Up to 80% Off
+    *   Free Shipping: Modern Farmhouse Decor
+    *   Charging, Bluetooth &. Phone Accessories from $10
+    *   L'Atiste Under $50
+    *   Catherine Catherine Malandrino Up to 75% Off
+    *   Kenneth Cole New York
+    *   Red Carter Swim
+    *   New Neutrals: Soft Shades &. Prints from $20
+    *   Luana Italy
+    *   Made in Italy: Perla Formentini
+    *   Rose Gold &. Sterling Silver Jewelry by Delmar
+    *   ghd: good hair day, every day
+    *   Kenneth Cole Reaction Tailored Clothing
+    *   Wear to Work Pants ft. Louis Raphael
+    *   InVitamin Charcoal Oral Care
+    *   Vintage Foundry Up to 80% Off
+    *   Floatimini Girls' Swim
+    *   Easter Dresses ft. Dorissa
+    *   Ready, Set, Spring: Kids' Sets Under $25
     *   Cole Haan Up to 50% Off
     *   Cole Haan Men Up to 50% Off
     *   Cole Haan Handbags
     *   Cole Haan Coats
+    
     *   Cole Haan Men's Accessories
     *   William Rast Starting at $15
     *   Tahitian Pearls &. More Under $80
-    *   Kevyn Aucoin Under $15
     *   Ro &. De
-    *   Basic Story
+    *   Kevyn Aucoin Under $15
     *   Matisse
     *   Luseta Beauty Hair Care from $10
-    *   Day Dresses We Love ft. Gabby Skye
     *   Leilani Swim &. More
+    *   Day Dresses We Love ft. Gabby Skye
+    *   Basic Story
     *   New to HauteLook: Brooklyn Cloth Under $20
     *   Surf's Up: Volcom Boys
     *   Cool Kicks from Heelys &. More
@@ -35,48 +62,24 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Men's Shoes Up to 70% Off
     *   Home Blowout: Textiles, Tabletop &. Tech
     *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   London Times &. Maggy London Dresses
-    *   Philosophy Up to 75% Off Incl. Special Sizes
-    *   Saucony
-    *   Harlowe &. Graham
     *   John Varvatos Star USA
-    
     *   Perry Ellis Suits &. More Under $120
     *   14K Gold Jewelry Under $80
-    *   Betsey Johnson Active
-    *   Simple Statements: Lingerie ft. On Gossamer
-    *   Vicenzo Leather
-    *   Adrienne Vittadini Starting at $40
     *   Lorenzo Uomo
     *   Saucony Men
     *   Steven Land Up to 60% Off
     *   Bravado Designs Maternity &. Nursing Intimates
+    
     *   Rosie Pope Baby
     *   Funkyberry
     *   Baby Shoes ft. First Steps
     *   Free Shipping: J. Hunt Accent Furniture
     *   Simple Soy Candle Co.
-    *   Hair Tools Up to 80 Off
-    *   All Things Denim: Styles Under $50
-    *   Wow Couture
-    *   Juicy Couture
-    *   Black Halo
-    *   Franco Sarto Up to 55% Off
+    *   Hair Tools Up to 80% Off
     *   Sperry Men Starting at $35
-    *   Free Shipping: Gold Jewelry &. More Starting at $15
-    *   Go Couture Tees Up to 75% Off
-    *   Laronna Printed Sneakers Under $40
     *   RapidLash
-    *   Badgley Mischka Sport Up to 80% Off
-    *   Swim Essentials: Chic One-Pieces Under $50
-    *   Bettye Muller Up to 65% Off
-    *   Chase &. Chloe Starting at $20
-    *   Sterling Silver &. Gemstone Jewelry Under $80
-    *   Downtown Chic: Handbags
-    
     *   Spa Day Essentials: Bath Bombs
     *   Skin Chemists Up to 80% Off
-    *   Designer Dials Up to 50% Off ft. Philip Stein
     *   Original Penguin
     *   Original Penguin Tailored Clothing
     *   Original Penguin Men's Accessories
@@ -87,115 +90,97 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Static Nails: Reusable Manicures Starting at $10
     *   Lighting for Every Room
     *   Free Shipping: Chic Bedding from $24
-    *   Goodlife &. More
-    *   Zanerobe
-    *   The Original Makeup Eraser
-    *   Celebrity Strands Hair Extensions &. More
     *   Free Shipping: Modern Bohemian Decor
     *   Free Shipping: 8x10 Statement Rugs &. More
     *   Free Shipping: Mid-Century Wall Decor &. More
     *   Dainty Home Curtains Starting at $20
-    *   Cuisinart
-    *   Designer Shop: Badgley Mischka &. More
-    *   Desigual
     *   Cynthia Rowley &. More Up to 75% Off
-    *   Stationery We Love Under $11
-    *   Wusthof Cutlery
     *   Cold-Weather Accessories Up to 75% Off
-    *   Arche
     *   Fifteen Twenty Up to 75% Off
-    *   Free Shipping: Ultra-Violet Artwork
+    *   London Times &. Maggy London Dresses
+    *   Philosophy Up to 75% Off Incl. Special Sizes
+    *   Vicenzo Leather
 *   WomenShop Sale Events
     
+    *   Eileen Fisher Incl. Special Sizes
+    *   Eileen Fisher Shoes
+    *   Statement Jewelry Under $35
+    *   Flying Tomato &. More Under $35
+    *   Joan Vass
+    *   L'Atiste Under $50
+    *   Catherine Catherine Malandrino Up to 75% Off
+    *   Kenneth Cole New York
+    *   Red Carter Swim
+    *   New Neutrals: Soft Shades &. Prints from $20
+    *   Luana Italy
+    *   Made in Italy: Perla Formentini
+    *   Rose Gold &. Sterling Silver Jewelry by Delmar
+    *   ghd: good hair day, every day
+    *   InVitamin Charcoal Oral Care
     *   Cole Haan Up to 50% Off
     *   Cole Haan Handbags
     *   Cole Haan Coats
     *   William Rast Starting at $15
     *   Tahitian Pearls &. More Under $80
-    *   Kevyn Aucoin Under $15
     *   Ro &. De
-    *   Basic Story
+    *   Kevyn Aucoin Under $15
     *   Matisse
     *   Luseta Beauty Hair Care from $10
-    *   Day Dresses We Love ft. Gabby Skye
+    
     *   Leilani Swim &. More
+    *   Day Dresses We Love ft. Gabby Skye
+    *   Basic Story
     *   Women's Shoe Blowout
     *   Samuel B Jewelry Under $80
     *   Vintage Addiction Up to 80% Off
     *   Bulova Watches &. More Up to 65% Off
     *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   London Times &. Maggy London Dresses
-    *   Philosophy Up to 75% Off Incl. Special Sizes
-    *   Saucony
-    *   Harlowe &. Graham
     *   14K Gold Jewelry Under $80
-    *   Betsey Johnson Active
-    *   Simple Statements: Lingerie ft. On Gossamer
-    *   Vicenzo Leather
-    *   Adrienne Vittadini Starting at $40
     *   Bravado Designs Maternity &. Nursing Intimates
-    *   Hair Tools Up to 80 Off
-    *   All Things Denim: Styles Under $50
-    
-    *   Wow Couture
-    *   Juicy Couture
-    *   Black Halo
-    *   Franco Sarto Up to 55% Off
-    *   Free Shipping: Gold Jewelry &. More Starting at $15
-    *   Go Couture Tees Up to 75% Off
-    *   Laronna Printed Sneakers Under $40
+    *   Hair Tools Up to 80% Off
     *   RapidLash
-    *   Badgley Mischka Sport Up to 80% Off
-    *   Swim Essentials: Chic One-Pieces Under $50
-    *   Bettye Muller Up to 65% Off
-    *   Chase &. Chloe Starting at $20
-    *   Sterling Silver &. Gemstone Jewelry Under $80
-    *   Downtown Chic: Handbags
     *   Spa Day Essentials: Bath Bombs
     *   Skin Chemists Up to 80% Off
-    *   Designer Dials Up to 50% Off ft. Philip Stein
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Detox Organics
     *   Static Nails: Reusable Manicures Starting at $10
-    *   The Original Makeup Eraser
-    *   Celebrity Strands Hair Extensions &. More
-    *   Designer Shop: Badgley Mischka &. More
-    *   Desigual
     *   Cynthia Rowley &. More Up to 75% Off
     *   Cold-Weather Accessories Up to 75% Off
-    *   Arche
     *   Fifteen Twenty Up to 75% Off
+    *   London Times &. Maggy London Dresses
+    *   Philosophy Up to 75% Off Incl. Special Sizes
+    *   Vicenzo Leather
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Accessories
-    *   Lingerie
-    *   Watches
     *   Tech Accessories
+    *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Kenneth Cole Reaction Tailored Clothing
+    *   Wear to Work Pants ft. Louis Raphael
+    *   InVitamin Charcoal Oral Care
+    *   Vintage Foundry Up to 80% Off
     *   Cole Haan Men Up to 50% Off
     *   Cole Haan Men's Accessories
     *   New to HauteLook: Brooklyn Cloth Under $20
     *   Men's Final Few Up to 75% Off
     *   Bulova Watches &. More Up to 65% Off
     *   Men's Shoes Up to 70% Off
+    
     *   John Varvatos Star USA
     *   Perry Ellis Suits &. More Under $120
     *   Lorenzo Uomo
-    
     *   Saucony Men
     *   Steven Land Up to 60% Off
     *   Sperry Men Starting at $35
-    *   Designer Dials Up to 50% Off ft. Philip Stein
     *   Original Penguin
     *   Original Penguin Tailored Clothing
     *   Original Penguin Men's Accessories
-    *   Goodlife &. More
-    *   Zanerobe
     
     Shop By Category
     *   Clothing
@@ -204,6 +189,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Floatimini Girls' Swim
+    *   Easter Dresses ft. Dorissa
+    *   Ready, Set, Spring: Kids' Sets Under $25
     *   Surf's Up: Volcom Boys
     *   Cool Kicks from Heelys &. More
     *   Bravado Designs Maternity &. Nursing Intimates
@@ -215,61 +203,63 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Girls Sizes 2T-6X
     *   Girls' Shoes
     *   Boys Sizes 8-20
-    *   Baby Girl
     *   Girls Sizes 7-16
+    *   Baby Girl
+    *   Boys' Shoes
     *   Baby Boy
     *   Boys Sizes 2T-7
-    *   Boys' Shoes
+    *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Great Greenery: Faux Succulents Under $20
+    *   Free Shipping: Boho-Chic Decor Up to 70% Off
+    *   Free Shipping: Brazilian Cowhide Up to 80% Off
+    *   Free Shipping: Modern Farmhouse Decor
+    *   Charging, Bluetooth &. Phone Accessories from $10
     *   Free Shipping: Statement Wall Art Up to 70% Off
     *   Free Shipping: Amrapur Towels Up to 80% Off
     *   Home Blowout: Textiles, Tabletop &. Tech
     *   Free Shipping: J. Hunt Accent Furniture
+    
     *   Simple Soy Candle Co.
     *   Free Shipping: Tailgating Essentials from $21
     *   Spring Clean Ready: Organization Essentials from $10
     *   Lighting for Every Room
     *   Free Shipping: Chic Bedding from $24
-    
     *   Free Shipping: Modern Bohemian Decor
     *   Free Shipping: 8x10 Statement Rugs &. More
     *   Free Shipping: Mid-Century Wall Decor &. More
     *   Dainty Home Curtains Starting at $20
-    *   Cuisinart
-    *   Stationery We Love Under $11
-    *   Wusthof Cutlery
-    *   Free Shipping: Ultra-Violet Artwork
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Outdoor Living
+    *   Bedding
     *   Bath
     *   Organization
-    *   Kitchen &. Tabletop
     *   Accent Furniture
-    *   Rugs
+    *   Kitchen &. Tabletop
     *   Luggage &. Travel
+    *   Rugs
 *   BeautyShop Sale Events
     
+    *   ghd: good hair day, every day
+    *   InVitamin Charcoal Oral Care
     *   Kevyn Aucoin Under $15
     *   Luseta Beauty Hair Care from $10
     *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Hair Tools Up to 80 Off
+    *   Hair Tools Up to 80% Off
+    
     *   RapidLash
     *   Spa Day Essentials: Bath Bombs
-    
     *   Skin Chemists Up to 80% Off
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Detox Organics
     *   Static Nails: Reusable Manicures Starting at $10
-    *   The Original Makeup Eraser
-    *   Celebrity Strands Hair Extensions &. More
     
     Shop By Category
-    *   Hair Care
     *   Skin Care
+    *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Nails
