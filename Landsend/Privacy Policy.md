@@ -107,6 +107,7 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
+    *   Select Dress Shirts Now $24.97
     *   Sale
     
     SHOP BY SIZE RANGE
@@ -330,7 +331,7 @@ menu Close 0 Free Shipping on $50+
     
     More for the Home >.
     
-    *   Outdoor Living
+    *   Outdoor Furniture
     *   Storage &. Organization
     *   Door Mats
     *   Luggage &. Bags
@@ -470,6 +471,7 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
+        *   Select Dress Shirts Now $24.97
         *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
@@ -706,7 +708,7 @@ menu Close 0 Free Shipping on $50+
     *   More for the Home
         *   Back
         *   View All
-        *   Outdoor Living
+        *   Outdoor Furniture
         *   Storage &. Organization
         *   Door Mats
         *   Luggage &. Bags
@@ -794,9 +796,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: MAGIC pin: 8582 DETAILS
+code: FLOWER pin: 4276 DETAILS
 
 Customer Service Menu
 
