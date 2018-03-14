@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-Toggle initial options for NPR audio player ****ON AIR NOW**CPR News**
+Toggle initial options for NPR audio player ****Pick Your NPR Station**There are at least two stations nearby**
 
 *   **Newscast**
 *   **Live Radio**
@@ -12,7 +12,7 @@ Toggle initial options for NPR audio player ****ON AIR NOW**CPR News**
 View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search
 
 *   NPR Home
-*   **CPR News**
+*   Set station
 
 *   News
 *   Arts &. Life
@@ -41,9 +41,9 @@ View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Dir
 
 *   Podcast Directory
 *   Categories
-*   CPR News podcasts
 
-*   donate now
+*   Set station
+
 *   **NPR** Shop
 *   My Account
 
@@ -293,9 +293,8 @@ Back
 *   Technology
 *   TV &. Film
 
-*   **CPR News**
+*   Set station
 *   **NPR** Shop
-*   donate now
 
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9RKM5" height="0" width="0" style="display:none;visibility:hidden"></iframe>. **Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
 
