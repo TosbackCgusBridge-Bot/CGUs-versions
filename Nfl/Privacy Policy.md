@@ -23,7 +23,7 @@
 *   Fantasy
 *   Combine
 
-*   Combine
+*   Free Agency
 
 *   *   Draft
     *   Game Pass
