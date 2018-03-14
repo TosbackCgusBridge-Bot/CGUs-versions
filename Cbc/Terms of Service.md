@@ -1,4 +1,4 @@
-_Last revised: February 2017_  
+_Last revised: March 2017_  
 
 1.Welcome to CBC/Radio-Canada's Digital Services
 
@@ -162,3 +162,38 @@ You are liable for any damage arising from not complying with these Terms of Use
 6.  **Does CBC/Radio-Canada use my location data?**
     
     **Yes.**In several ways. In order to send you relevant alerts, by signing up, you agree that we use the GPS location reported by your device. We will also determine which local region is closest to you (based on your IP addresses’ geographic location or mobile device’s location), to serve weather, news, and sports that is likely most relevant. We will also use this data to further personalize and localize content. Additionally, multiple technologies use aspects of network connection to estimate where you are, which is used for ad targeting, reporting and statistical purposes.
+    
+
+7.Participation in the CBC Testing Community
+
+1.  **Participation**
+    
+    You may decide to join the CBC Testing Community if you are a Canadian resident 18 years or older by entering your email address at \[insert website\]. Your participation will help us improve our products. We will send select participants a questionnaire to be completed to determine eligibility for the activities described below:
+    
+    *   Surveys
+    *   Online discussions and interviews
+    *   In-person discussions and interviews
+    *   Remote or in-person usability testing
+    
+    (collectively, the "Activities")  
+    Chosen participants are expected to participate in the Activities to the best of their ability. At all times, you may decide to opt out of the CBC Testing Community. You agree not to upload or distribute files that contain viruses, corrupted files or any similar software or programs. CBC reserves the right to cancel or suspend the Activities should a virus, bug or other cause beyond CBC’s reasonable control corrupt the security or proper administration of the Activities. Any attempt to deliberately damage any website or undermine the legitimate operation of the Activities is a violation of criminal and civil laws. Should such an attempt be made, CBC reserves the right to seek remedies and damages to the fullest extent permitted by law, including criminal prosecution. Financial compensation will not be provided to participants. CBC may also terminate the relationship and cancel a participant’s account without further notice, if the CBC Testing Community Terms are breached.
+    
+2.  **Privacy**
+    
+    We are committed to protecting your privacy and the confidential information of members of the CBC Testing Community. We will only use your personal information for the purposes of conducting activities related to the CBC Testing Community.
+    
+3.  **Confidentiality**
+    
+    Occasionally, we may share confidential information with you that will be clearly marked as such ("Confidential Information"). You agree not to disclose to others, including other members of the CBC Testing Community, any Confidential Information. You cannot post any Confidential Information on social media nor transmit, publish or distribute any information related to our Activities or the CBC Testing Community. In some cases, we may ask you to destroy or return Confidential Information. You will be expected to fulfil the request within 15 days. In the event that you discover unauthorized use of Confidential Information, you must notify CBC immediately and help in every reasonable way as we attempt to reclaim the same. Should you breach the CBC Testing Terms, monetary damages may prove inadequate and CBC may exercise its right to seek equitable relief. If you are found to have breached the CBC Testing Terms, CBC may demand you pay for all costs and legal expenses if litigation is necessary.
+    
+4.  **Intellectual Property**
+    
+    CBC owns the material provided to participants for their participation in the Activities. The material is copyrighted and trademark protected. Participants may not copy, reproduce, distribute in any way, or decompile, reverse engineer or disassemble the content. CBC is the owner of any material provided by you in relation with the Activities.
+    
+5.  **Updating the CBC Testing Community Terms**
+    
+    From time to time, we may need to update the CBC Testing Community Terms. If those changes are significant, we will let you know by doing one (or more) of the following: (1) posting changes on the CBC Testing Community homepage. or (2) sending you an email. Changes will be effective at the time of posting. We will understand your continued participation in the CBC Testing Community to be your acceptance of the updated terms.
+    
+6.  **Indemnification**
+    
+    CBC assumes no liability for any loss, damage or injury related to your participation to the Activities and/or the CBC Testing Community. You agree to indemnify and hold harmless CBC, its affiliates, employees and directors from any and all claims and demands related to your participation to the Activities and/or the CBC Testing Community.
