@@ -4,12 +4,14 @@
         *   Fitbit Zip® Zip®
         *   Fitbit Flex 2™ Flex 2™
         *   Fitbit Alta™ Alta™
+        *   Fitbit Ace™ Ace™
     *   Heart Rate +  
         Fitness Wristbands
         *   Fitbit Alta HR™ Alta HR™
         *   Fitbit Charge 2™ Charge 2™
     *   Watches
         *   Fitbit Ionic™ Ionic™
+        *   Fitbit Versa™ Versa™
     *   *   **Wireless Fitness  
             Headphones** Fitbit Flyer™ Flyer™
         *   **Wi-Fi** Smart Scale Fitbit Aria 2™ Aria 2™
