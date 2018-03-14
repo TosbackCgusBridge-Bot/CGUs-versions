@@ -8,8 +8,8 @@
     *   New!
     
     Occasions*   Easter Gifts
-    *   Spring Gifts
     *   Birthday Gifts
+    *   Spring Gifts
     *   Weddings &. Showers
     *   Thank You
     *   Game DayMost Popular Easter Entertaining Easter Baskets
@@ -43,16 +43,9 @@
     *   Cookies &. Cakes
     *   Candy &. Confections
     *   DessertsMost Popular Chocolates
-*   Holiday
-    
-    View All Categories Shop by Category*   Easter Gifts
-    
-    Occasions*   Spring Gifts
-    *   Birthday Gifts
-    *   Weddings &. Showers
-    *   Housewarming
-    *   Thank You
-    *   Game DayMost Popular Easter Baskets Easter Entertaining
+*   Easter Gifts
+    View All Categories Shop by Category*   Easter Baskets
+    *   Easter Entertaining
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
@@ -75,8 +68,8 @@
     *   New!
     
     Occasions*   Easter Gifts
-    *   Spring Gifts
     *   Birthday Gifts
+    *   Spring Gifts
     *   Weddings &. Showers
     *   Thank You
     *   Game DayMost Popular Easter Entertaining Easter Baskets
@@ -110,16 +103,9 @@
     *   Cookies &. Cakes
     *   Candy &. Confections
     *   DessertsMost Popular Chocolates
-*   Holiday
-    
-    View All Categories Shop by Category*   Easter Gifts
-    
-    Occasions*   Spring Gifts
-    *   Birthday Gifts
-    *   Weddings &. Showers
-    *   Housewarming
-    *   Thank You
-    *   Game DayMost Popular Easter Baskets Easter Entertaining
+*   Easter Gifts
+    View All Categories Shop by Category*   Easter Baskets
+    *   Easter Entertaining
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
