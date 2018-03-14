@@ -211,8 +211,6 @@ We may update this policy from time to time, so please review it frequently. We'
 
 If you have a complaint or question about this policy, you may contact us at privacy\_policy@ea.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
-To review a list of websites that are certified by TRUSTe, please go to https://privacy.truste.com/privacy-seal/validation?rid=7d587a12-773f-4bf9-a209-d18047ee5f05. For mobile applications, go to https://tos.ea.com/legalapp/CERTIFIEDAPPS/US/en/PC/.
-
 For more information and updates to this policy, visit privacy.ea.com.
 
   
