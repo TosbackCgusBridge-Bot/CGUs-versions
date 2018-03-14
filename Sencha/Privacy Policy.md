@@ -239,6 +239,6 @@ Subscribe
 *   State\*Select State\*AguascalientesBaja CaliforniaBaja California SurChihuahuaColimaCampecheCoahuilaChiapasFederal DistrictDurangoGuerreroGuanajuatoHidalgoJaliscoMéxico StateMichoacánMorelosNayaritNuevo LeónOaxacaPueblaQuerétaroQuintana RooSinaloaSan Luis PotosíSonoraTabascoTlaxcalaTamaulipasVeracruzYucatánZacatecas
 *   State\*Select State\*AcreAlagoasAmazonasAmapáBahiaCearáDistrito FederalEspírito SantoGoiásMaranhãoMinas GeraisMato Grosso do SulMato GrossoParáParaíbaPernambucoPiauíParanáRio de JaneiroRio Grande do NorteRondôniaRoraimaRio Grande do SulSanta CatarinaSergipeSão PauloTocantins
 *   *    I agree to receive e-mail notifications. See our Privacy Policy and Terms of Use for more details.
-*   PhoneThis field is for validation purposes and should be left unchanged.
+*   NameThis field is for validation purposes and should be left unchanged.
 
 This iframe contains the logic required to handle Ajax powered Gravity Forms. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
