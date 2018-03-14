@@ -73,9 +73,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: 'Ready Player One' Makes Dazzling Debut Read More
-    *   Geek Buzz: 'Black Panther 2,' 'Wonder Woman 2,' 'Dune' Movies Read More
-    *   Watch 'Fantastic Beasts: The Crimes of Grindelwald' Teaser Read More
+    *   Movie News: 'The Conjuring' Writers Tapped for Next 'Die Hard' Read More
+    *   Superman Fan Nicolas Cage Is Voicing Superman in 'Teen Titans Go! To the Movies' Read More
+    *   Watch 'Fantastic Beasts: The Crimes of Grindelwald' Trailer. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -264,13 +264,13 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   'Gringo' Gift With Purchase
+*   'Ready Player One' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Gringo' t-shirt with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive 'Ready Player One' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'A Wrinkle in Time' Gift With Purchase
+*   Get 2 Movies When You Connect
     
-    Receive a FREE\* exclusive 'A Wrinkle in Time' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    FandangoNOW Joins Movies Anywhere! Get 2 movies when FandangoNOW is the first account you connect to Movies Anywhere. LEARN MORE
     
 *   'Thoroughbreds' Gift With Purchase
     
@@ -283,14 +283,14 @@ Offers
 
 New + Coming soon
 
-*   Black Panther
-*   Red Sparrow
 *   A Wrinkle in Time
 *   Tomb Raider (2018)
 *   Pacific Rim: Uprising (2018)
 *   Ready Player One
 *   Avengers: Infinity War
+*   Deadpool 2
 *   Solo: A Star Wars Story
+*   The Incredibles 2
 
 Experience + Explore
 
