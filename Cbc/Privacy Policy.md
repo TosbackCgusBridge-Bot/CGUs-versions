@@ -13,8 +13,7 @@ K1P 1K9
 CBC Head Office  
 P.O. Box 3220, Station C  
 Ottawa, Ontario K1Y 1E4  
-Tel. (613) 288-6165  
-Fax. (613) 288-6279 Third Party Cookies
+Tel. (613) 288-6165 Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
@@ -120,7 +119,7 @@ Personal Information Protection and Electronic Documents Act Corporate Records a
 
 Operating Principles
 
-All questions related to the interpretation and application of this policy should be directed to the Privacy Coordinator, Marie-Claude Ferland in Ottawa at 613-288-6165.
+All questions related to the interpretation and application of this policy should be directed to the Privacy Coordinator, Stéphanie Duquette in Ottawa at 613-288-6165.
 
 Third Party Advertising
 
