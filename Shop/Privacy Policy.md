@@ -324,40 +324,33 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers Markdown Madness Sale
 
-Built to perform. Engineered to endure.
+Our best performers are ready to take the stage.  
+Save up to 75% off through March 21.
 
-Now available! >.
-
-For those who set—not follow—trends.  
-With 8th Gen Intel® Core® i7 power in polished frames and premium audio-visuals.
-
-Shop 15">  
-Shop 14">  
-Shop 13">.
+Shop select sale items >.
 
 ThinkAgile VX Series
 
 Simplify IT. Cut costs. Accelerate results.
 
-Learn More >.
+Learn more >.
 
 *   1
 *   2
-*   3
 
 TODAY'S SALES
 
 Great deals on select products.
 
-Lenovo Small Business
+Business Buzzer Beaters
 
-Explore how Lenovo can be your small business partner.
+Great deals on select pcs &. tablets. Sale ends March 21st at 11:59pm EST
 
-Look no further, early adopter
+Lenovo Explorer Headset
 
-The 2018 Lenovo ThinkPad generation of laptops is re-engineered with the latest technology.
+Immersive headset for windows mixed reality on SALE now
 
 HOW MUCH COULD YOU SAVE?
 
@@ -474,7 +467,9 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new window
+
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
