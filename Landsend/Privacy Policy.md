@@ -796,9 +796,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 31.4% off your order!
 
-code: FLOWER pin: 4276 DETAILS
+code: BASKET pin: 5926 DETAILS
 
 Customer Service Menu
 
