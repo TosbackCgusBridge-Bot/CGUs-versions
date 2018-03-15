@@ -110,9 +110,11 @@ This policy became effective on 13 May 2013.
 *   ASW Foundation
 *   Privacy Policy
 *   Terms of Service
+*   Investor Relations
 
 *   Privacy Policy
 *   Terms of Service
+*   Investor Relations
 
 Copyright © 2004 - 2018 ASMALLWORLD AG Login × Login Remember me Forgot Login details? Login with Facebook Forgot Login Details? ×
 
