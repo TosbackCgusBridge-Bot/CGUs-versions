@@ -3,7 +3,7 @@
     *   Full Episodes
     *   Shows A-Z
     *   TV Schedule
-    *   Love &. Hip Hop
+    *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Miami
     *   America's Next Top Model
     *   Black Ink Crew
@@ -11,7 +11,7 @@
     *   RuPaul's Drag Race All Stars
     *   RuPaul's Drag Race
     *   Teyana &. Iman
-    *   Brunch With TiffanySee all Shows
+    *   Leave It To StevieSee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip HopLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewVH1 Beauty BarRuPaul's Drag Race All StarsRuPaul's Drag RaceTeyana &. ImanBrunch With Tiffanysee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip Hop AtlantaLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewVH1 Beauty BarRuPaul's Drag Race All StarsRuPaul's Drag RaceTeyana &. ImanLeave It To StevieLove &. Hip HopBrunch With Tiffanysee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
