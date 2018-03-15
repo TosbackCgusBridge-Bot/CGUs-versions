@@ -1,4 +1,4 @@
-close dialog1st Month FreeSubscribe Todayclose dialogSUBSCRIBE NOWto get full access
+SUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -73,8 +73,7 @@ close dialog1st Month FreeSubscribe Todayclose dialogSUBSCRIBE NOWto get full ac
 
 Get the news
 
-OOPS!This page exists to tell you  
-that this page doesn't exist.RETURN TO HOME
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTeen gets jail in Cielo Vista fireworks caseCrime2 die as man hit by semitruck, car strikes wallLocalFirst Downtown El Paso streetcar coming homeLocalTexas' sanctuary cities ban can go into effectPoliticsBankruptcy trustee to sell Abraham's propertiesBusinessTeen arrested in fatal shooting during drug dealNewsDowntown owner Abraham property rich, cash poorBusiness3 NM prison gang members found guilty of murderNews1 dies in single-vehicle crash in Lower ValleyLocalDowntown arena contempt hearing to be dismissedLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -143,5 +142,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog1st Month FreeSubscribe Todayclose dialogclose dialog1st Month FreeSubscribeNot Looking to Subscribe Right Nowclose dialog
