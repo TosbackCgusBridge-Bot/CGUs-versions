@@ -150,8 +150,6 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-Pinellas Park, FL53°
-
 1.  Home
 
 1.  Regions
