@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 19%  19%  19%  19%  Arrest Records &. Driving Infractions
+What is PeekScore? Public Records &. Background Checks 10%  10%  10%  10%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -107,7 +107,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 15% 
+Facebook 6% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -167,7 +167,7 @@ Facebook 15% 
     
 *   Show Less ...
 
-Twitter 15% 
+Twitter 6% 
 
 *   U.S. FDA - US\_FDA
     
@@ -213,7 +213,7 @@ Twitter 15% 
     
 *   Show Less ...
 
-Instagram 15% 
+Instagram 6% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -279,7 +279,7 @@ Instagram 15% 
     
 *   Show Less ...
 
-Pinterest 19%  Wikipedia 15% 
+Pinterest 9%  Wikipedia 6% 
 
 *   Wikipedia
     
@@ -294,7 +294,7 @@ Pinterest 19%  Wikipedia 15% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 15% 
+Google+ 6% 
 
 *   privacy policy - Google+ - Google Plus
     
@@ -309,7 +309,7 @@ Google+ 15% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 19%  Music 15% 
+Linkedin 9%  Music 6% 
 
 *   Pandora
     
@@ -355,7 +355,7 @@ Linkedin 19%  Music 15% 
     
 *   Show Less ...
 
-Photo Albums 15% 
+Photo Albums 6% 
 
 *   Flickriver
     
@@ -370,7 +370,7 @@ Photo Albums 15% 
     Missouri Department of Transportation Central Office 105 W. Capitol Avenue Jefferson City, MO 65102 1-888-ASK-MODOT (275-6636) 1-866-831-6277 (Motor Carrier Services)
     
 
-Myspace 15% 
+Myspace 6% 
 
 *   Privacy Policy - 49086242
     
@@ -394,7 +394,7 @@ Myspace 15% 
     
 *   Show Less ...
 
-Web Search 19%  Images 15% 
+Web Search 9%  Images 6% 
 
 9
 
