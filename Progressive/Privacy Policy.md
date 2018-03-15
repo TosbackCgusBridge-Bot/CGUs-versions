@@ -148,8 +148,6 @@ Copyright 1995 - 2018. Progressive Casualty Insurance Company. All Rights Reserv
 
 Search
 
-Loading
-
 We offer insurance by phone, online and through independent agents. Prices vary based on how you buy.
 
 *   Insurance
@@ -258,17 +256,19 @@ Log In
 
 Welcome!
 
-User ID Password Show Save User ID
-
-Loading
-
- Need help logging in?
+User ID Password Show Save User ID  Need help logging in?
 
 New user? Register for an account
 
 Quote &. save today!
 
 Zip Code Auto 
+
+Bundle and save 5%† or more on auto!
+
+*   Auto + Home
+*   Auto + Renters
+*   Auto + Condo
 
 *   Auto
 *   Auto Financing
@@ -302,8 +302,4 @@ Zip Code Auto 
 *   Travel
 *   Wedding &. Event
 
-AutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHomeshareID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event
-
-Loading
-
- <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=a95ebfefac7e4398b7d56d9c026d39af&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
+Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHomeshareID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event  <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=609e0e1b4c04474b907c69676c310f17&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
