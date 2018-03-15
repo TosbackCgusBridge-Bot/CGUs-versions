@@ -8,23 +8,53 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Eileen Fisher Incl. Special Sizes
-    *   Eileen Fisher Shoes
-    *   Statement Jewelry Under $35
-    *   Flying Tomato &. More Under $35
-    *   Joan Vass
+    *   Premium Denim Up to 60% Off ft. J Brand
+    *   Designer Shop: Styles Up to 70% Off
+    *   Red Wing
+    *   24/7 Comfort
+    *   Fendi Up to 70% Off
+    *   Melrose and Market Incl. Plus &. Petites
+    *   Best of Spring: Nordstrom Rack-Exclusive Shoes
+    *   Free Press &. Shimera
+    *   Jewelry Box Essentials Up to 80% Off
+    *   Nordstrom Rack Exclusives: Accessories Under $25
+    *   Men's Tees, Shorts &. More ft. Z By Zella
+    *   Nordstrom Rack Exclusives: Dress Shirts &. More
+    *   Nordstrom Rack Exclusives: Men's Shoes
+    *   Nordstrom Rack Exclusives: Harper Canyon
+    *   Nordstrom Rack Exclusives: Harper Canyon Shoes
+    *   Must-Have Mules for Spring
+    *   Derek Lam 10 Crosby Up to 70% Off
+    *   Sport Report: Team Handbags from Dooney &. Bourke
+    *   Made in Italy: Summit
+    *   Best of Nordstrom Rack: Jewelry Starting at $10
+    *   J/Slides Starting at $40
+    *   Nest Gemstone Jewelry &. More Up to 70% Off
+    *   Korean Beauty: Secret Key from $10
+    *   FaceBase Cosmetics Under $20
+    *   Free Shipping: Luxe Bedding Starting at $20
+    *   Tommy Hilfiger Outerwear &. More
+    *   Finds for the Little Ones ft. Cuddl Duds Baby
+    *   Preschool Prep Company
+    *   Max Studio Sport Under $35
     *   Great Greenery: Faux Succulents Under $20
+    
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   Free Shipping: Modern Farmhouse Decor
     *   Charging, Bluetooth &. Phone Accessories from $10
+    *   Eileen Fisher Incl. Special Sizes
+    *   Eileen Fisher Shoes
+    *   Flying Tomato &. More Under $35
     *   L'Atiste Under $50
+    *   Statement Jewelry Under $35
+    *   Joan Vass
     *   Catherine Catherine Malandrino Up to 75% Off
     *   Kenneth Cole New York
     *   Red Carter Swim
     *   New Neutrals: Soft Shades &. Prints from $20
     *   Luana Italy
-    *   Made in Italy: Perla Formentini
+    *   Made in Italy Perla Formentini
     *   Rose Gold &. Sterling Silver Jewelry by Delmar
     *   ghd: good hair day, every day
     *   Kenneth Cole Reaction Tailored Clothing
@@ -38,179 +68,146 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cole Haan Men Up to 50% Off
     *   Cole Haan Handbags
     *   Cole Haan Coats
-    
     *   Cole Haan Men's Accessories
-    *   William Rast Starting at $15
+    
     *   Tahitian Pearls &. More Under $80
-    *   Ro &. De
     *   Kevyn Aucoin Under $15
-    *   Matisse
     *   Luseta Beauty Hair Care from $10
-    *   Leilani Swim &. More
-    *   Day Dresses We Love ft. Gabby Skye
-    *   Basic Story
     *   New to HauteLook: Brooklyn Cloth Under $20
     *   Surf's Up: Volcom Boys
     *   Cool Kicks from Heelys &. More
     *   Free Shipping: Statement Wall Art Up to 70% Off
     *   Free Shipping: Amrapur Towels Up to 80% Off
-    *   Women's Shoe Blowout
-    *   Samuel B Jewelry Under $80
-    *   Vintage Addiction Up to 80% Off
     *   Men's Final Few Up to 75% Off
-    *   Bulova Watches &. More Up to 65% Off
     *   Men's Shoes Up to 70% Off
     *   Home Blowout: Textiles, Tabletop &. Tech
     *   Predire Paris Luxury Skin Care Up to 95% Off
     *   John Varvatos Star USA
     *   Perry Ellis Suits &. More Under $120
-    *   14K Gold Jewelry Under $80
     *   Lorenzo Uomo
     *   Saucony Men
     *   Steven Land Up to 60% Off
-    *   Bravado Designs Maternity &. Nursing Intimates
-    
-    *   Rosie Pope Baby
-    *   Funkyberry
-    *   Baby Shoes ft. First Steps
     *   Free Shipping: J. Hunt Accent Furniture
     *   Simple Soy Candle Co.
     *   Hair Tools Up to 80% Off
-    *   Sperry Men Starting at $35
     *   RapidLash
     *   Spa Day Essentials: Bath Bombs
     *   Skin Chemists Up to 80% Off
-    *   Original Penguin
-    *   Original Penguin Tailored Clothing
-    *   Original Penguin Men's Accessories
     *   Free Shipping: Tailgating Essentials from $21
     *   Spring Clean Ready: Organization Essentials from $10
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Detox Organics
-    *   Static Nails: Reusable Manicures Starting at $10
     *   Lighting for Every Room
     *   Free Shipping: Chic Bedding from $24
     *   Free Shipping: Modern Bohemian Decor
-    *   Free Shipping: 8x10 Statement Rugs &. More
-    *   Free Shipping: Mid-Century Wall Decor &. More
-    *   Dainty Home Curtains Starting at $20
-    *   Cynthia Rowley &. More Up to 75% Off
-    *   Cold-Weather Accessories Up to 75% Off
-    *   Fifteen Twenty Up to 75% Off
-    *   London Times &. Maggy London Dresses
-    *   Philosophy Up to 75% Off Incl. Special Sizes
-    *   Vicenzo Leather
 *   WomenShop Sale Events
     
+    *   Premium Denim Up to 60% Off ft. J Brand
+    *   Designer Shop: Styles Up to 70% Off
+    *   24/7 Comfort
+    *   Fendi Up to 70% Off
+    *   Melrose and Market Incl. Plus &. Petites
+    *   Best of Spring: Nordstrom Rack-Exclusive Shoes
+    *   Free Press &. Shimera
+    *   Jewelry Box Essentials Up to 80% Off
+    *   Nordstrom Rack Exclusives: Accessories Under $25
+    *   Must-Have Mules for Spring
+    *   Derek Lam 10 Crosby Up to 70% Off
+    *   Sport Report: Team Handbags from Dooney &. Bourke
+    *   Made in Italy: Summit
+    *   Best of Nordstrom Rack: Jewelry Starting at $10
+    *   J/Slides Starting at $40
+    *   Nest Gemstone Jewelry &. More Up to 70% Off
+    *   Korean Beauty: Secret Key from $10
+    *   FaceBase Cosmetics Under $20
+    *   Max Studio Sport Under $35
     *   Eileen Fisher Incl. Special Sizes
     *   Eileen Fisher Shoes
-    *   Statement Jewelry Under $35
     *   Flying Tomato &. More Under $35
-    *   Joan Vass
     *   L'Atiste Under $50
+    
+    *   Statement Jewelry Under $35
+    *   Joan Vass
     *   Catherine Catherine Malandrino Up to 75% Off
     *   Kenneth Cole New York
     *   Red Carter Swim
     *   New Neutrals: Soft Shades &. Prints from $20
     *   Luana Italy
-    *   Made in Italy: Perla Formentini
+    *   Made in Italy Perla Formentini
     *   Rose Gold &. Sterling Silver Jewelry by Delmar
     *   ghd: good hair day, every day
     *   InVitamin Charcoal Oral Care
     *   Cole Haan Up to 50% Off
     *   Cole Haan Handbags
     *   Cole Haan Coats
-    *   William Rast Starting at $15
     *   Tahitian Pearls &. More Under $80
-    *   Ro &. De
     *   Kevyn Aucoin Under $15
-    *   Matisse
     *   Luseta Beauty Hair Care from $10
-    
-    *   Leilani Swim &. More
-    *   Day Dresses We Love ft. Gabby Skye
-    *   Basic Story
-    *   Women's Shoe Blowout
-    *   Samuel B Jewelry Under $80
-    *   Vintage Addiction Up to 80% Off
-    *   Bulova Watches &. More Up to 65% Off
     *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   14K Gold Jewelry Under $80
-    *   Bravado Designs Maternity &. Nursing Intimates
     *   Hair Tools Up to 80% Off
     *   RapidLash
     *   Spa Day Essentials: Bath Bombs
     *   Skin Chemists Up to 80% Off
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Detox Organics
-    *   Static Nails: Reusable Manicures Starting at $10
-    *   Cynthia Rowley &. More Up to 75% Off
-    *   Cold-Weather Accessories Up to 75% Off
-    *   Fifteen Twenty Up to 75% Off
-    *   London Times &. Maggy London Dresses
-    *   Philosophy Up to 75% Off Incl. Special Sizes
-    *   Vicenzo Leather
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Tech Accessories
+    *   Handbags
+    *   Lingerie
     *   Accessories
-    *   Watches
 *   MenShop Sale Events
     
+    *   Red Wing
+    *   Men's Tees, Shorts &. More ft. Z By Zella
+    *   Nordstrom Rack Exclusives: Dress Shirts &. More
+    *   Nordstrom Rack Exclusives: Men's Shoes
+    *   Tommy Hilfiger Outerwear &. More
     *   Kenneth Cole Reaction Tailored Clothing
     *   Wear to Work Pants ft. Louis Raphael
     *   InVitamin Charcoal Oral Care
     *   Vintage Foundry Up to 80% Off
     *   Cole Haan Men Up to 50% Off
+    
     *   Cole Haan Men's Accessories
     *   New to HauteLook: Brooklyn Cloth Under $20
     *   Men's Final Few Up to 75% Off
-    *   Bulova Watches &. More Up to 65% Off
     *   Men's Shoes Up to 70% Off
-    
     *   John Varvatos Star USA
     *   Perry Ellis Suits &. More Under $120
     *   Lorenzo Uomo
     *   Saucony Men
     *   Steven Land Up to 60% Off
-    *   Sperry Men Starting at $35
-    *   Original Penguin
-    *   Original Penguin Tailored Clothing
-    *   Original Penguin Men's Accessories
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Nordstrom Rack Exclusives: Harper Canyon
+    *   Nordstrom Rack Exclusives: Harper Canyon Shoes
+    *   Finds for the Little Ones ft. Cuddl Duds Baby
+    *   Preschool Prep Company
     *   Floatimini Girls' Swim
     *   Easter Dresses ft. Dorissa
     *   Ready, Set, Spring: Kids' Sets Under $25
     *   Surf's Up: Volcom Boys
     *   Cool Kicks from Heelys &. More
-    *   Bravado Designs Maternity &. Nursing Intimates
-    *   Rosie Pope Baby
-    *   Funkyberry
-    *   Baby Shoes ft. First Steps
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Girls' Shoes
+    *   Toys
     *   Boys Sizes 8-20
+    *   Girls' Shoes
     *   Girls Sizes 7-16
-    *   Baby Girl
     *   Boys' Shoes
+    *   Baby Girl
     *   Baby Boy
     *   Boys Sizes 2T-7
     *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Free Shipping: Luxe Bedding Starting at $20
     *   Great Greenery: Faux Succulents Under $20
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
@@ -218,53 +215,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Charging, Bluetooth &. Phone Accessories from $10
     *   Free Shipping: Statement Wall Art Up to 70% Off
     *   Free Shipping: Amrapur Towels Up to 80% Off
+    
     *   Home Blowout: Textiles, Tabletop &. Tech
     *   Free Shipping: J. Hunt Accent Furniture
-    
     *   Simple Soy Candle Co.
     *   Free Shipping: Tailgating Essentials from $21
     *   Spring Clean Ready: Organization Essentials from $10
     *   Lighting for Every Room
     *   Free Shipping: Chic Bedding from $24
     *   Free Shipping: Modern Bohemian Decor
-    *   Free Shipping: 8x10 Statement Rugs &. More
-    *   Free Shipping: Mid-Century Wall Decor &. More
-    *   Dainty Home Curtains Starting at $20
     
     Shop By Category
     *   Home Decor
-    *   Outdoor Living
     *   Bedding
-    *   Bath
+    *   Outdoor Living
     *   Organization
+    *   Bath
     *   Accent Furniture
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
     *   Rugs
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Korean Beauty: Secret Key from $10
+    *   FaceBase Cosmetics Under $20
     *   ghd: good hair day, every day
     *   InVitamin Charcoal Oral Care
     *   Kevyn Aucoin Under $15
     *   Luseta Beauty Hair Care from $10
+    
     *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Hair Tools Up to 80% Off
-    
     *   RapidLash
     *   Spa Day Essentials: Bath Bombs
     *   Skin Chemists Up to 80% Off
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Detox Organics
-    *   Static Nails: Reusable Manicures Starting at $10
     
     Shop By Category
     *   Skin Care
     *   Hair Care
+    *   Makeup
     *   Bath &. Body
     *   Tools &. Accessories
-    *   Nails
-    *   Makeup
-    *   Supplements
 
 SearchHauteLook Privacy PolicyHauteLook Privacy Policy Overview
 
