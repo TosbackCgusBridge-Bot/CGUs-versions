@@ -39,7 +39,6 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     *   Instant Replay
     *   Statcast
     *   MLB Network
-    *   #MLBmemorybank
     *   Stadium
     *   Podcasts
     *   Buy MLB.TV
