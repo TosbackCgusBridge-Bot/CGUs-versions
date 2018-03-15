@@ -36,4 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
-Error:The live news feed failed to load. Please report this bug and our team will fix the problem as soon as possible.
+*   NVIDIA GTC 2018 ›
+*   MAAS 2.4.0 Alpha 2 released! ›
+*   LXD weekly status #38 ›
+*   Your first robot: The driver \[4/5\] ›
+*   An intro to ONLYOFFICE – now available as a snap ›
