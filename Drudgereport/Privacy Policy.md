@@ -133,25 +133,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+The new #salesgamechangerspodcast is live with our own Erik @Requidan! Thanks @IESBD for the great opportunity. Listen here: bit.ly/2ph2mNQ #podcast pic.twitter.com/pwmF…
+
+Yesterday
+
 My week on Twitter : 6 Mentions, 56.5K Mention Reach, 4 Likes, 8 Retweets, 9.64K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/O31t…
 
-About 5 hours ago
+Yesterday
 
 Viewability is a constant struggle in our industry. It's ok to change course, but the important thing is to maintain UX while providing quality access to premium audiences. Here's how we did it: goo.gl/xAwgyH
 
-About 9 hours ago
+About a day ago
 
 Our biggest fans this week: @lizthatch, @Nicole\_Kosar, @jscottshipman. Thank you! via sumall.com/thankyou?… pic.twitter.com/EPBJ…
 
-About 16 hours ago
+About 2 days ago
 
 .@adexchanger #PROGIO is right around the corner! Expert leaders across our ecosystem including our own Erik @Requidan will be talking about the industry's hot topics &. more. Don't miss out! #programmatic #adtech pic.twitter.com/SVii…
 
-About 2 days ago
-
-Have difficulty tackling ad blockers? We've got the scoop on how to overcome this challenge on our blog! Check it out: goo.gl/Ztpbts #publishers
-
-About 6 days ago
+About 3 days ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
