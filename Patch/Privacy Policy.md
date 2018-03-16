@@ -1,6 +1,6 @@
 Toggle navigation Find Your Town Post Advertise
 
-*   Thu, Mar 15
+*   Fri, Mar 16
 
 *   Post on Patch
 *   See All Patches
@@ -209,6 +209,21 @@ Patches Across Our Network
 *   Sachem, NY
 *   Doylestown, PA
 *   Marple Newtown, PA
+
+Weather Across Patch
+
+*   Connecticut Weather
+*   Washington DC Weather
+*   Atlanta Weather
+*   Chicago Weather
+*   Boston Weather
+*   Minneapolis Weather
+*   New Jersey Weather
+*   New York City Weather
+*   Charlotte Weather
+*   Pittsburgh Weather
+*   Nashville Weather
+*   Seattle Weather
 
 Corporate Info
 
