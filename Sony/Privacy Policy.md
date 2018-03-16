@@ -123,7 +123,7 @@ Get Lost in Music at SXSW
 
 Top-left corner? Lower-right? Where are you aiming your kick? #VRSoccer #SonyatSXSW #SXSW
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -197,7 +197,7 @@ In Your Pocket
 
 .@Beyonce announces OTR II: beyonce.com/presale
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -279,7 +279,7 @@ Play The Con Continues With Consequences Video hotspot
 
 Who’s stepping up to the plate to pre-order #TheShow18? (Remember: Linked members earn #SonyRewardsPoints)
 
-1 day ago
+2 days ago
 
 View Tweet
 
