@@ -8,10 +8,6 @@
 *   Insights &. News
 *   Careers
 *   Contact
-*   Client login
-    *   Insights
-    *   Portal
-    *   Survey manager
 
 *   Solutions
     *   Product Innovation
@@ -21,10 +17,6 @@
 *   Insights &. News
 *   Careers
 *   Contact
-*   Client login
-    *   Insights
-    *   Portal
-    *   Survey manager
 
 MetrixLab MetrixLab
 
@@ -69,6 +61,10 @@ Select CountryAnguillaAntigua &. BarbudaArgentinaArmeniaAustraliaBahrainBarbados
 
 *   Technology
 *   Insights and news
+*   Client login
+    *   Insights
+    *   Portal
+    *   Survey manager
 
 *   Careers
     *   About us
