@@ -1,4 +1,4 @@
- Text Only
+  Text Only
 
 *   Find &. Book
 *   About
@@ -34,7 +34,7 @@ Check In Check Out Close
 *   You can only book 550 days in advance.
 *   Please double-check your dates.
 
-1 Room 1 Rooms , 1 Adult 1 Adults , 1 Child 0 Children 123456789101112131415 Room Rooms 1234 Adult per room Adults per room 01234 Child per room Children per room (age 0 - 12) Search WHY BOOK HERE
+1 Room 1 Rooms , 1 Adult 1 Adults , 1 Child 0 Children 123456789101112131415 Room Rooms 1234 Adult per room Adults per room 01234 Child per room Children per room (age 0 - 12) Search null
 
 *   Hotel Directory &. Map
 *   Help
