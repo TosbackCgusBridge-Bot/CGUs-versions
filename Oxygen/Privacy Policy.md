@@ -18,10 +18,7 @@ Open menu
     *   Dateline: Secrets Uncovered
     *   In Ice Cold Blood
     *   It Takes A Killer
-    
     *   Killer Couples
-    *   Killing Versace: The Hunt For A Serial Killer
-    *   Michael Jackson &. Anna Nicole Smith: Bad Medicine
     *   Mysteries &. Scandals
     *   OJ Simpson: The Crimes and Punishment
     *   Snapped
@@ -43,10 +40,7 @@ Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
     *   Dateline: Secrets Uncovered
     *   In Ice Cold Blood
     *   It Takes A Killer
-    
     *   Killer Couples
-    *   Killing Versace: The Hunt For A Serial Killer
-    *   Michael Jackson &. Anna Nicole Smith: Bad Medicine
     *   Mysteries &. Scandals
     *   OJ Simpson: The Crimes and Punishment
     *   Snapped
@@ -109,5 +103,3 @@ Get Involved
 Stay Connected Facebook Twitter Instagram Snapchat Newsletter Stay Connected Facebook Twitter Instagram Snapchat Newsletter
 
 ©2018 Oxygen Media LLC. A Division of NBCUniversal
-
-AddThis SharingFacebookTwitterPrintAddthisAddThis SharingPinterestFacebookEmailCopy Link
