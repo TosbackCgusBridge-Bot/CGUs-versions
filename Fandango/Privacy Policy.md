@@ -73,8 +73,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Movie News: Margot Robbie to Star in Tarantino's Next Read More
-    *   Superman Fan Nicolas Cage Is Voicing Superman in 'Teen Titans Go! To the Movies' Read More
+    *   Director Danny Boyle Confirms James Bond 25 Involvement Read More
+    *   Movie News: 'Thor: Ragnarok' Director to Play Imaginary Hitler Read More
     *   Spike Lee Will Direct Sony's Next 'Spider-Man' Spin-Off, 'Nightwatch' Read More
     
     Explore Content
@@ -325,4 +325,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
