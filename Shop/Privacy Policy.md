@@ -60,7 +60,7 @@ Menu Close Menu Close
                 
                 Explore all 2-in-1s >.
         
-        *   *   Gaming Sale >.
+        *   *   Explore All Gaming Laptops >.
         
         *   *   Chromebooks >.
         
@@ -126,6 +126,7 @@ Menu Close Menu Close
             Budget friendly
         *   Windows Tablets Windows Tablets Business-ready Windows tablets with enhanced security features.
         *   2-in-1 PCs 2-in-1 PCs Multimedia tablets with multiple modes, including Stand, Hold, and Hang.
+        *   SMART OFFICE SMART OFFICE
         *   Phablets
         *   Smart Home
         *   SMALL BUSINESS TABLETS
@@ -135,6 +136,8 @@ Menu Close Menu Close
         *   *   Explore Windows
             
         *   *   Explore all 2-in-1s
+            
+        *   *   Explore all Smart Office
             
         
         *   *   Because your tablet is like an extension of your personality. Check out specifics, and complement yourself.
@@ -159,6 +162,8 @@ Menu Close Menu Close
                 Ultraportable.
                 
                 Explore all 2-in-1s >.
+        
+        *   *   Explore all smart office >.
         
         *   *   Phablets >.
         
@@ -269,11 +274,11 @@ Menu Close Menu Close
     
     *   Featured Deals Featured Deals
     *   Home Laptop Deals
-    *   ThinkPad Deals
+    *   THINKPAD DEALS
     *   Desktop Deals
     *   Tablets/AR/VR Deals
     *   Monitor Deals
-    *   Accessory Deals
+    *   ACCESSORY DEALS
     *   Clearance
     *   Financing Options
     *   Outlet
@@ -281,6 +286,8 @@ Menu Close Menu Close
     *   *   Stylish, Dependable and Affordable PCs
             
         *   Monitor Deals
+            
+        *   BUSINESS BUZZER BEATERS
             
 *   Support
     *   Sales Enquiries
