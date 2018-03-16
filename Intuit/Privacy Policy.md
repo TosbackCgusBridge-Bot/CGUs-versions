@@ -56,21 +56,16 @@ EXPLORE THE CAMPAIGN>GET READY FOR EASTERSHOP ALLGET READY FOR EASTERSHOP ALL
     was $42
     
     JCPenney Home Floral Egg Wreath(1)Add To Cart
-*   $19.99 sale
-    
-    was $42
-    
-    JCPenney Home 14 Inch Brush Bunny With Bow And Vest FigurineAdd To Cart
-*   $39.99 sale
-    
-    was $80
-    
-    JCPenney Home Happy Easter Porch Sign Yard ArtAdd To Cart
 *   $5 sale
     
     was $7
     
     City Streets Bunny Easter BasketAdd To Cart
+*   $19.99 sale
+    
+    was $42
+    
+    JCPenney Home 14 Inch Brush Bunny With Bow And Vest FigurineAdd To Cart
 *   $19.99 sale
     
     was $42
@@ -86,11 +81,11 @@ EXPLORE THE CAMPAIGN>GET READY FOR EASTERSHOP ALLGET READY FOR EASTERSHOP ALL
     was $7
     
     City Streets Chick Easter BasketAdd To Cart
-*   $59.99 sale
+*   $39.99 sale
     
-    was $132
+    was $80
     
-    Alder Creek Food-Free Jamboree Gift SetAdd To Cart
+    JCPenney Home Happy Easter Porch Sign Yard ArtAdd To Cart
 *   $5 sale
     
     was $7
@@ -100,22 +95,27 @@ EXPLORE THE CAMPAIGN>GET READY FOR EASTERSHOP ALLGET READY FOR EASTERSHOP ALL
     
     was $132
     
-    Alder Creek Ultimate Easter Sweets and Treats Pail Gift SetAdd To Cart
+    Alder Creek Food-Free Jamboree Gift SetAdd To Cart
 *   $5 sale
     
     was $7
     
     City Streets Basketball Easter BasketAdd To Cart
+*   $59.99 sale
+    
+    was $132
+    
+    Alder Creek Ultimate Easter Sweets and Treats Pail Gift SetAdd To Cart
 *   $29.99 sale
     
     was $66
     
     Alder Creek Ghirardelli Bunny Gift Set(1)Add To Cart
-*   $24.99 sale
+*   $14.99 sale
     
-    was $50
+    was $34
     
-    10" Pastel Pink Green and White Floral Stem Easter Egg Spring Grapevine WreathAdd To Cart
+    JCPenney Home Bicycle Rectangular Throw PillowAdd To Cart
 
 40% OFF DISNEYSHOP ALL40% OFF DISNEYSHOP ALL
 
@@ -134,41 +134,31 @@ EXPLORE THE CAMPAIGN>GET READY FOR EASTERSHOP ALLGET READY FOR EASTERSHOP ALL
     was $25
     
     Disney Rain Boots-GirlsAdd To Cart
-*   $24 sale
-    
-    was $40
-    
-    Disney Collection Frozen Elsa Costume - Girls 2-10(53)Add To Cart
 *   $19.20 sale
     
     was $32
     
     Disney Girls Minnie Mouse Raincoat-Big Kid(1)Add To Cart
-*   $10.80 sale
+*   $24 sale
     
-    was $18
+    was $40
     
-    Disney Minnie Mouse Pajama Set(1)Add To Cart
+    Disney Collection Frozen Elsa Costume - Girls 2-10(53)Add To Cart
 *   $24 sale
     
     was $40
     
     Disney Collection Belle Costume - Girls(28)Add To Cart
+*   $10.80 sale
+    
+    was $18
+    
+    Disney Minnie Mouse Pajama Set(1)Add To Cart
 *   $15 sale
     
     was $25
     
     Disney Rain Boots-GirlsAdd To Cart
-*   $10.80 sale
-    
-    was $18
-    
-    Disney Collection Medium Plush MauiAdd To Cart
-*   $9 sale
-    
-    was $15
-    
-    Moana Figure Set(11)Add To Cart
 *   $15 sale
     
     was $25
@@ -178,22 +168,32 @@ EXPLORE THE CAMPAIGN>GET READY FOR EASTERSHOP ALLGET READY FOR EASTERSHOP ALL
     
     was $32
     
-    Disney Boys Mickey Mouse Raincoat-PreschoolAdd To Cart
-*   $19.20 sale
-    
-    was $32
-    
     Disney Boys Cars Raincoat-Big KidAdd To Cart
-*   $10.80 sale
+*   $24 sale
     
-    was $18
+    was $40
     
-    Disney Collection Bingo Medium Plush(6)Add To Cart
+    Disney Collection Cinderella Costume - Girls 2-10(12)Add To Cart
 *   $21 sale
     
     was $35
     
     Disney Collection Bullseye Toy(19)Add To Cart
+*   $10.80 sale
+    
+    was $18
+    
+    Disney Collection Medium Plush MauiAdd To Cart
+*   $19.20 sale
+    
+    was $32
+    
+    Disney Boys Mickey Mouse Raincoat-PreschoolAdd To Cart
+*   $10.80 sale
+    
+    was $18
+    
+    Disney Collection Bingo Medium Plush(6)Add To Cart
 
 UP TO 60% OFF BIGGEST WINDOW SALE OF THE SEASONSHOP ALLUP TO 60% OFF BIGGEST WINDOW SALE OF THE SEASONSHOP ALL
 
@@ -204,18 +204,13 @@ UP TO 60% OFF BIGGEST WINDOW SALE OF THE SEASONSHOP ALLUP TO 60% OFF BIGGEST WIN
     was $70 - $140
     
     JCPenney Home™ Quinn Basketweave Grommet-Top Curtain Panel(483)Add To Cart
-*   $15 - $55 sale
-    
-    was $30 - $110
-    
-    JCPenney Home™ 2" Faux-Wood Horizontal Blinds(775)Add To Cart
 *   BONUS BUY!
     
     $39.99 - $82.99 sale
     
     was $80 - $150
     
-    JCPenney Home™ Quinn Leaf Grommet-Top Curtain Panel(684)Add To Cart
+    JCPenney Home™ Quinn Leaf Grommet-Top Curtain Panel(685)Add To Cart
 *   BONUS BUY!
     
     $24.99 - $125.99 sale
@@ -223,6 +218,11 @@ UP TO 60% OFF BIGGEST WINDOW SALE OF THE SEASONSHOP ALLUP TO 60% OFF BIGGEST WIN
     was $50 - $230
     
     Royal Velvet® Supreme Pinch-Pleat/Back-Tab Lined Curtain Panel(674)Add To Cart
+*   $19.80 - $103.80 sale
+    
+    was $33 - $173
+    
+    JCPenney Home™ Cut-to-Width Light-Filtering Cordless Cellular Shade(271)
 *   BONUS BUY!
     
     $34.99 - $74.99 sale
@@ -230,11 +230,6 @@ UP TO 60% OFF BIGGEST WINDOW SALE OF THE SEASONSHOP ALLUP TO 60% OFF BIGGEST WIN
     was $60 - $130
     
     Royal Velvet® Plaza Grommet-Top Lined Blackout Curtain Panel(1751)Add To Cart
-*   $19.80 - $103.80 sale
-    
-    was $33 - $173
-    
-    JCPenney Home™ Cut-to-Width Light-Filtering Cordless Cellular Shade(271)
 *   BIG BUY!
     
     $5.99 - $19.99 sale
@@ -247,6 +242,11 @@ UP TO 60% OFF BIGGEST WINDOW SALE OF THE SEASONSHOP ALLUP TO 60% OFF BIGGEST WIN
     was $30 - $90
     
     JCPenney Home™ Bamboo Woven Wood Roman Shade(237)Add To Cart
+*   $19.50 - $52.50 sale
+    
+    was $39 - $105
+    
+    JCPenney Home™ Savannah Roman Shade(287)Add To Cart
 *   $24.99 - $69.99 sale
     
     was $50 - $120
@@ -257,11 +257,6 @@ UP TO 60% OFF BIGGEST WINDOW SALE OF THE SEASONSHOP ALLUP TO 60% OFF BIGGEST WIN
     was $40 - $108
     
     JCPenney Home™ Light-Filtering Cordless Cellular Shade(255)Add To Cart
-*   $19.50 - $52.50 sale
-    
-    was $39 - $105
-    
-    JCPenney Home™ Savannah Roman Shade(287)Add To Cart
 *   $12 - $102 sale
     
     was $60 - $170
@@ -272,94 +267,23 @@ UP TO 60% OFF BIGGEST WINDOW SALE OF THE SEASONSHOP ALLUP TO 60% OFF BIGGEST WIN
     was $40 - $90
     
     Studio™ Wallace Blackout Grommet-Top Curtain Panel(140)Add To Cart
-*   $39.99 - $69.99 sale
-    
-    was $70 - $120
-    
-    Royal Velvet® Plaza Embroidery Blackout Grommet-Top Curtain Panel(178)Add To Cart
 *   $9.99 - $24.99 sale
     
     was $20 - $50
     
     Liz Claiborne® Lisette Grommet-Top Sheer Curtain Panel(344)Add To Cart
-
-SAVE ON OUTDOOR ENTERTAININGSHOP ALLSAVE ON OUTDOOR ENTERTAININGSHOP ALL
-
-*   $79.99 sale
+*   BONUS BUY!
     
-    was $160
+    $19.99 - $34.99 sale
     
-    Outdoor Oasis Fire PitAdd To Cart
-*   $599.99 sale
+    was $40 - $60
     
-    was $1,205
+    Sun Zero™ Emory 2-Pack Room-Darkening Rod-Pocket Curtain Panels(565)Add To Cart
+*   $39.99 - $69.99 sale
     
-    Outdoor Oasis Latigo Wicker 4-pc. Conversation SetAdd To Cart
-*   $874.99 sale
+    was $70 - $120
     
-    was $1,750
-    
-    Outdoor Oasis Latigo Wicker 7-pc. Rectangular Patio Dining SetAdd To Cart
-*   $279.99 sale
-    
-    was $560
-    
-    Outdoor Oasis Melbourne 5-pc. Round Glass Patio Dining SetAdd To Cart
-*   $499.99 sale
-    
-    was $1,000
-    
-    Outdoor Oasis Melbourne 7-pc. Rectangular Tile Patio Dining Set with Swivel ChairsAdd To Cart
-*   $199.99 sale
-    
-    was $400
-    
-    Outdoor Oasis Melbourne 5-pc. Round Glass Patio Dining Set with Blue ChairsAdd To Cart
-*   $199.99 sale
-    
-    was $400
-    
-    Outdoor Oasis Melbourne 5-pc. Round Glass Patio Dining Set with Red ChairsAdd To Cart
-*   $649.99 sale
-    
-    was $1,300
-    
-    Outdoor Oasis San Luis 7-pc. Patio Dining SetAdd To Cart
-*   $999.99 sale
-    
-    was $2,000
-    
-    Outdoor Oasis Latigo Wicker 6-pc. Conversation SetAdd To Cart
-*   $385 sale
-    
-    was $775
-    
-    Outdoor Oasis Latigo Wicker 2-pc. Swivel Conversational ChairAdd To Cart
-*   $149.99 sale
-    
-    was $300
-    
-    Outdoor Oasis Melbourne Sling Patio GliderAdd To Cart
-*   $99.99 sale
-    
-    was $200
-    
-    Outdoor Oasis Winston 3-pc. Bistro SetAdd To Cart
-*   $549.99 sale
-    
-    was $1,100
-    
-    Outdoor Oasis San Luis 4-pc. Conversation Set with Swivel ChairsAdd To Cart
-*   $199.99 sale
-    
-    was $400
-    
-    Outdoor Oasis San Luis Patio Lounge ChairAdd To Cart
-*   $3,722.99 sale
-    
-    was $6,205
-    
-    Hanover Traditions 9-pc. Patio Dining SetAdd To Cart
+    Royal Velvet® Plaza Embroidery Blackout Grommet-Top Curtain Panel(178)Add To Cart
 
 UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DRESSESSHOP ALL
 
@@ -413,6 +337,21 @@ UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DRESSESSHOP ALL
     was $50
     
     Alyx Sleeveless Floral Sheath DressAdd To Cart
+*   $34.99 sale
+    
+    was $60
+    
+    Perceptions Sleeveless Polka Dot Fit &. Flare DressAdd To Cart
+*   $49.99 sale
+    
+    was $89
+    
+    R &. K Originals Sleeveless Floral Maxi Dress(1)Add To Cart
+*   $42.99 sale
+    
+    was $74
+    
+    Danny &. Nicole Sleeveless Floral Lace Fit &. Flare Dress(2)Add To Cart
 *   $42.99 sale
     
     was $74
@@ -422,22 +361,7 @@ UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DRESSESSHOP ALL
     
     was $89
     
-    R &. K Originals Sleeveless Floral Maxi Dress(1)Add To Cart
-*   $34.99 sale
-    
-    was $60
-    
-    Perceptions Sleeveless Polka Dot Fit &. Flare DressAdd To Cart
-*   $42.99 sale
-    
-    was $74
-    
-    Danny &. Nicole Sleeveless Floral Lace Fit &. Flare Dress(2)Add To Cart
-*   $89.99 sale
-    
-    was $120
-    
-    R&M Richards 3/4-Sleeve Crinkle Jacket Dress(36)Add To Cart
+    Premier Amour Sleeveless Maxi DressAdd To Cart
 
 *   Signup for text\* or email alerts, offers and promotionsSign Up
 *   **\*Text Alerts:** Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text HELP to 527365 for help and STOP to 527365 to cancel. Terms &. Conditions.Privacy Policy.
