@@ -103,53 +103,53 @@
     *   About
     *   Media Kit
 
-*   _Josh Kraushaar_: Democrats in Commanding Position to Win House
+*   _Philip Elliott_: Dems Should Be Careful About Their Big Win in Trump Country
     
-*   _David Marcus_: After PA-18 Squeaker, Democrats Face a Choice
+*   _Jim Newell_: Debunking Republicans' Post-Pennsylvania Spin
     
-*   _Samantha Power_: How Pompeo Could Save the State Department
+*   _Karl Rove_: What Republicans Can Learn From Losing
     
-*   _Tom Rogan_: Gina Haspel Is a Great Choice for CIA Director
+*   _Matt Bai_: The Artifice of the Deal
     
-*   _Sarah Boxer_: Why Is Donald Trump So Hard to Caricature?
+*   _Buck Sexton_: Pompeo Will Clear the Air at Foggy Bottom
     
-*   _Sean Trende_: Why It Doesn't Matter Who the Winner Is in PA-18
+*   _Ali Soufan_: Telling the Truth About Torture
     
-*   _Roger Kimball_: Hillary Clinton, Pride of Radcliffe
+*   _Rich Lowry_: Don't Bork Gina Haspel
     
-*   _Gustavo Arellano_: What California's Racist History Can Teach Us
+*   _Chauncey DeVega_: Hillary Lets the Truth Slip: Trump Voters Are 'Backward'
     
-*   _Glenn Reynolds_: Could Trump, Sessions Send Federal Troops to CA?
+*   _Wayne Allyn Root_: The Choice: Trump Prosperity or Dems' Crazy
     
-*   _Yascha Mounk_: Trump Is an Anti-Democratic Strongman
+*   _Noah Feldman_: California, the New Cradle of States' Rights
     
-*   _Ace_: Trump-Russia Collusion: A Conspiracy Theory All Along
+*   _George Neumayr_: Ruth Marcus &. the Morality of the Ruling Class
     
-*   _Landler &. Haberman_: Firing Tillerson, Trump Molds Cabinet in His Own Image
+*   _Maya Kosoff_: Elizabeth Holmes's Fall From Grace Is Complete
     
-*   _Hugh Hewitt_: Tillerson's Firing Was Necessary to National Security
+*   _Carl M. Cannon_: Cyberthreats: Vexing New Front in Modern Warfare
     
-*   _Susan Glasser_: The Foreign Capital Tillerson Never Understood: Trump's DC
+*   _Buell_: How We Can Protect Our Votes From Election Hacking
     
-*   _Ralph Peters_: Democrats' Shabby Attack on Trump's New CIA Pick
+*   _Paul Begala_: Republicans Are Gonna Need a Bigger Yacht
     
-*   _Frank Bruni_: Conor Lamb Roared. Republicans Should Quake.
+*   _David Shribman_: PA-18: Sound and Fury Signifying...Almost Nothing
     
-*   _Michael Graham_: The Big Lesson From Tuesday's Special Election
+*   _Nate Silver_: Enthusiasm Gap May Turn Blue Wave Into a Tsunami
     
-*   _Caitlin Huey-Burns_: Republicans Face Reckoning on Power of Trump Coalition
+*   _Ed Morrissey_: Settle Down, Democrats
     
-*   _Walter Shapiro_: Why It's Time for Democrats to Ditch Nancy Pelosi
+*   _Jay Elwes_: The Skripal Assassination: What Is Putin Thinking?
     
-*   _Byron York_: 'So...What? You Don't Have Trump on Collusion?'
+*   _Boris Johnson_: Britain Needs Its Allies to Stand With Us Against Russia
     
-*   _Jane Mayer_: Trump Trip to Las Vegas Adds Intrigue to Steele Dossier
+*   _Michael Hayden_: Why Gina Haspel Is the Person America Needs at the CIA
     
-*   _Mollie Hemingway_: Does Tillerson Prove or Disprove Media Conspiracies?
+*   _Michael Fuchs_: Tillerson Was Disastrous, Pompeo May Be Worse
     
-*   _Ezra Klein_: Americans Unify vs. Foreign Threats. Can We Unify Without One?
+*   _Steve Forbes_: Kudlow the Right Man to Advise Trump on Economy
     
-*   _Reed Galen_: The Duopoly Oversteps Its Bounds Again
+*   _Xavier Becerra_: Memo to Trump: CA Isn't in the Business of Deportation
     
 
 *   Previous
@@ -252,10 +252,10 @@ RecommendedPolitics
 *   Investigations
 
 *   Why It Doesn't Matter Who the Winner Is in PA-18
+*   Trump Picks Camera-Proven Kudlow as Top Economic Aide
+*   Perez: RNC Might Outraise Us But "They're Morally Bankrupt"
 *   Republicans Face Reckoning on Power of Trump Coalition
-*   Trump at Mexican Border: CA's Sanctuary Policies Put Nation at Risk
 *   Lamb Declares Victory in Pa. Despite Uncounted Votes
-*   Trump Replaces Tillerson With Pompeo in Dramatic Shakeup
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,26 +270,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalPew Research
+    *   Approve42
+    *   Disapprove53Disapprove +11
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
+    *   Approve46
+    *   Disapprove53Disapprove +7
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve39
     *   Disapprove56Disapprove +17
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve42
     *   Disapprove54Disapprove +12
-*   2018 Generic Congressional VoteEconomist/YouGov
-    *   Democrats43
-    *   Republicans38Democrats +5
 
 More Latest Polls In The News
 
+*   Kamala Harris on Gun Control: We Got Great Ideas, But Congress Doesn't Have The Courage To Act
+*   Sarah Sanders: U.S. Does Have Trade Deficit With Canada, If You Count Timber &. Energy
 *   Mark Levin: Schiff A Propagandist For Russian Government. Russia Wanted Clinton As President
-*   Bernie Sanders At School Walkout: "You, The Young People, Are Leading The Nation"
-*   Border Wall Contractor to Trump: "If Your Wall Is See-Through, It Is Basically A Fence"
-*   Conor Lamb to 'Morning Joe': No Offense To TV, But Campaigning In Real Life Works
-*   Trump at Mexican Border: "California's Sanctuary Policies Put The Entire Nation At Risk"
+*   DNC Chair Perez: Women Leading "The Resistance" Are Remarkable Leaders. RNC "Morally Bankrupt"
+*   Nunberg: Roger Stone Has "Got To Explain" How He Knew What WikiLeaks Would Leak Before They Did
 
 *   Politics
 *   Policy
