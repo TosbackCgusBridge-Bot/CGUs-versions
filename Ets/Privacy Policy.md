@@ -1,4 +1,4 @@
-skip to contents skip to navigation skip to search skip to footer angle-upangle-rightangle-downangle-leftcloseusermenu openmenu closedsearchglobebarsphonestore Legal Contact Us Search Search: ETS Home >. Legal >. Privacy and Security Privacy and Security
+angle-upangle-rightangle-downangle-leftcloseusermenu openmenu closedsearchglobebarsphonestore skip to contents skip to navigation skip to search skip to footer Legal Contact Us Search Search: Search Cancel ETS Navigation ETS Home >. Legal >. Privacy and Security Privacy and Security
 
 Educational Testing Service ("ETS") recognizes the importance of protecting your privacy. In addition to the commitments set out in this Privacy Policy, ETS has taken steps to meet legal obligations in various countries with the aim of compliance with worldwide data privacy requirements. ETS will strive to treat your "personal data" according to applicable local laws that regulate inter-country process, access and transfer of personal data. This Privacy Policy ("Policy") discloses our information-gathering and-dissemination practices for this website at www.ets.org ("Website").
 
@@ -207,15 +207,11 @@ Promotional Links Related Links
 
 Navigation for Legal Home Navigation for Legal HomeTerms of UsePrivacy and Security▼
 
-*   Privacy and Security▼ Overview
 *   Test Takers
 
 PermissionsTrademark Use▼
 
-*   Trademark Use▼ Overview
 *   Trademarks Owned by ETS
-
-Contact Us
 
 ETS
 
@@ -244,7 +240,7 @@ Products
 *   TOEIC Tests
 *   View All
 
-Send Feedback
+*   Send Feedback
 
 *   Legal
 *   Privacy and Security
@@ -254,6 +250,6 @@ Send Feedback
 ETS — Measuring the Power of Learning.®
 
 Copyright © 2018 by Educational Testing Service. All rights reserved.  
-All trademarks are property of their respective owners.
+All trademarks are the property of their respective owners.
 
 Activate to launch comment card
