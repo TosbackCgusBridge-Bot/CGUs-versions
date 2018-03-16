@@ -3,6 +3,7 @@ Aeropostale
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
+*   Open submenu ( Swim ) Swim
 *   Open submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Trending ) Trending
 *   Open submenu ( Clearance ) Clearance
@@ -19,9 +20,9 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-
 *   Swim
 *   Dresses + Rompers
+
 *   Jackets + Vests
 *   Shoes + Accessories
 *   Extended Sizes
@@ -36,10 +37,12 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   Sabrina's Picks
-*   $8 Tees
+*   Lucky You
+*   $7 Tees
 *   Create Your Suit for $25
 *   Spring Break
 *   Easter Best
+*   Festival Vibes
 *   Denim Guide
 *   Logo Shop
 *   Basic Essentials
@@ -85,7 +88,6 @@ Close submenu ( Guys ) Guys
 
 *   Accessories
 *   Underwear
-*   Swim
 *   Big + Tall
 *   Trending
 
@@ -93,6 +95,7 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
+*   Lucky You
 *   $8 Tees
 *   Buy 1 Get 2 Free
 *   Denim Guide
@@ -155,6 +158,59 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Slim Tapered
 *   Super Skinny
 *   Relaxed
+
+Close submenu ( Swim ) Swim
+
+*   View Home
+*   Open submenu ( Girls Featured ) Girls Featured
+
+*   Open submenu ( Swim Tops ) Swim Tops
+
+*   Open submenu ( Swim Bottoms ) Swim Bottoms
+
+*   Swim One Piece
+*   Open submenu ( Swim Accessories ) Swim Accessories
+
+*   Open submenu ( Guys Swim ) Guys Swim
+
+Close submenu ( Girls Featured ) Girls Featured
+
+*   View All
+*   Create Your Suit for $25 
+*   Little Black Bikini
+*   Swim Sets
+
+Close submenu ( Swim Tops ) Swim Tops
+
+*   View All
+*   Bandeau
+*   Push Up
+*   Triangle
+*   High Neck
+*   Bralette
+*   Halter
+
+Close submenu ( Swim Bottoms ) Swim Bottoms
+
+*   View All
+*   Bikini
+*   Hipster
+*   Cheeky
+*   High Rise
+*   Tanga
+
+Close submenu ( Swim Accessories ) Swim Accessories
+
+*   View All
+*   Cover Ups
+*   Flip Flops
+
+Close submenu ( Guys Swim ) Guys Swim
+
+*   View All
+*   Boardshorts
+*   Tanks + Tees
+*   Swim Accessories
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -225,14 +281,16 @@ Close submenu ( Girls ) Girls
 Close submenu ( Guys ) Guys
 
 *   View All
+*   Island Dreaming
+*   Denim Shorts
+*   Print A Palooza
+*   Wash Effects
 *   Good Sport
 *   Shorts for Sure
 *   New Blues
 *   Spring Break Bag
-*   Graphic Obsessed
 *   Tanks + Swim
 *   At Ease
-*   Jackets
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -296,7 +354,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**BOGO FREE JEANS** + **GIRLS SWIM 2 FOR $25** **50-70% OFF** + **FREE SHIPPING OVER $75**
+**UP TO $25 OFF $100** USE CODE **INSIDER25** **50-70% OFF + FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -309,10 +367,12 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Sabrina's Picks
-        *   $8 Tees
+        *   Lucky You
+        *   $7 Tees
         *   Create Your Suit for $25
         *   Spring Break
         *   Easter Best
+        *   Festival Vibes
         *   Denim Guide
         *   Logo Shop
         *   Basic Essentials
@@ -343,9 +403,9 @@ Menu Find a Store Aeropostale
         *   Pants
         *   Shorts
         
-    
     *   Swim
     *   Dresses + Rompers
+    
     *   Jackets + Vests
     *   Shoes + Accessories
     *   Extended Sizes
@@ -361,6 +421,7 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
+        *   Lucky You
         *   $8 Tees
         *   Buy 1 Get 2 Free
         *   Denim Guide
@@ -395,7 +456,6 @@ Menu Find a Store Aeropostale
     
     *   Accessories
     *   Underwear
-    *   Swim
     *   Big + Tall
     *   Trending
     
@@ -426,6 +486,44 @@ Menu Find a Store Aeropostale
         *   Super Skinny
         *   Relaxed
     
+*   Swim
+    
+    *   View Home
+    *   Girls Featured
+        *   View All
+        *   Create Your Suit for $25 
+        *   Little Black Bikini
+        *   Swim Sets
+    
+    *   Swim Tops
+        *   View All
+        *   Bandeau
+        *   Push Up
+        *   Triangle
+        *   High Neck
+        *   Bralette
+        *   Halter
+    
+    *   Swim Bottoms
+        *   View All
+        *   Bikini
+        *   Hipster
+        *   Cheeky
+        *   High Rise
+        *   Tanga
+        
+    
+    *   Swim One Piece
+    *   Swim Accessories
+        *   View All
+        *   Cover Ups
+        *   Flip Flops
+    
+    *   Guys Swim
+        *   View All
+        *   Boardshorts
+        *   Tanks + Tees
+        *   Swim Accessories
 *   Live Love Dream
     
     *   View Home
@@ -478,14 +576,16 @@ Menu Find a Store Aeropostale
     
     *   Guys
         *   View All
+        *   Island Dreaming
+        *   Denim Shorts
+        *   Print A Palooza
+        *   Wash Effects
         *   Good Sport
         *   Shorts for Sure
         *   New Blues
         *   Spring Break Bag
-        *   Graphic Obsessed
         *   Tanks + Swim
         *   At Ease
-        *   Jackets
         
     
     *   Live Love Dream
@@ -546,7 +646,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop Dresses + Rompers Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Shop Girls Shop Guys Shop Girls Shop Guys Shop Dresses + Rompers Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions Message &. Data Rates May Apply. FOLLOW US Customer Care
 
 *   Order Status
