@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Sorry, Groundhog: February and Winter 2018 were warmer than average for the U.S. Mountain snowpack was low in the Southwest, high in the Northern Rockies AROUND NOAA // NOAA Science Report highlights 2017 research accomplishments Spring 2018 high tide outlook now available These veterans have a mission: This time, it’s fighting for coral
+Enter Search Terms Spring Outlook: U.S. to see moderate flooding, warmer-than-normal temperatures Drought to persist in south-central Plains and the Southwest AROUND NOAA // Join NOAA at the 2018 National Science Teachers Association conference Sorry, Groundhog: February and Winter 2018 were warmer than average for the U.S. NOAA Science Report highlights 2017 research accomplishments
 
 *   About our agency
 *   News and features
