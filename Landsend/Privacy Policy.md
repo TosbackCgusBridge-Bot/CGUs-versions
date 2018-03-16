@@ -796,9 +796,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 31.4% off your order!
+Receive 25% off full-price styles!
 
-code: BASKET pin: 5926 DETAILS
+code: TULIP pin: 7883 DETAILS
 
 Customer Service Menu
 
