@@ -50,6 +50,7 @@ View more results
     *   2 player
     *   MMO
     *   .io Games
+    *   Multiplayer Casino
     
     All Multiplayer Browse By
     
@@ -127,6 +128,7 @@ View more results
     *   Colored Blocks
     *   Solitaire
     *   1001 Arabian Nights
+    *   Casino Games
     
     All Puzzle Browse By
     
