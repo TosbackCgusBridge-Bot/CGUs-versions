@@ -17,43 +17,43 @@ Search Term
 
 Bank of America Privacy and Security Get information about privacy and security at Bank of America. Learn how we can help you protect your accounts and what you can do to help stay secure. bank of america security, bank of america privacy notice, bank of america privacy and security Bank of America Security Center Here’s what you need to know (and do) to stay as safe as possible Show all Answers  |  Hide all Answers
 
-*   Hide How we protect your accounts and identity:
+*   Hide How we protect your accounts and identity
     
     **What you need to know:**
     
     *   Client security is our top priority, and every partner and colleague is held to strict privacy and information security rules
-    *   Our global information security team monitors 24/ 7 for potential threats
+    *   Our global information security team monitors 24/7 for potential threats
     
     **What you need to do:**
     
     *   Be sure to keep your contact information, especially your cell phone number and email address, current
-    *   **Verify your card:** Verify Your Visa Card is With You layer allows us to approve transactions when you travel
+    *   Verify your card: Verify Your Visa Card is With You layer allows us to approve transactions when you travel
     *   If you use the Bank of America Mobile Banking app, allow push alerts, and be sure to review and respond to alerts promptly
     *   When using your mobile device, turn on location services when making a purchase or signing in to add location-based anti-fraud and security permissions
     *   Request your free credit report(s) annually and review them for inaccuracies. You can get complete information about obtaining your report(s) at AnnualCreditReport.com.
-    *   Review the recommendations on the What you can do tab of our account and card security page
-*   Show How we protect your privacy:
+    *   Review the recommendations on the **What you can do** tab of our account and card security page
+*   Show How we protect your privacy
     
     **What you need to know:**
     
     *   Privacy notices explain how we collect, use and share information. You can manage marketing and limit certain information by updating your individual Bank of America privacy choices.
-    *   Want to learn more? Review the U.S. Online Privacy Notice and the U.S. Consumer Privacy Notice on the bottom of this page
+    *   Review the U.S. Online Privacy Notice and the U.S. Consumer Privacy Notice on the bottom of this page
     *   You can set your privacy choices (it’s easy, and it only takes a few minutes)
-*   Show How you can help protect your accounts:
+*   Show How you can help protect your accounts
     
     **What you need to know:**
     
-    *   We’ll never ask you to send us personal information (like Social Security number or ATM PIN) over text or email. If you do receive a request like this, please forward it to us at abuse@bankofamerica.com. Our team reviews all submissions. we will only reply to your message if we require additional information.
+    *   We’ll never ask you to send us personal information (like your Social Security number or ATM PIN) over text or email. If you do receive a request like this, please forward it to us at abuse@bankofamerica.com. Our team reviews all submissions. we will only reply to your message if we require additional information.
     *   We fully authenticate all of our emails. Make sure the email address we have on file for you is not a forwarded email (for example, you might forward mail from your college.edu address to your gmail.com account).
     
     **What you need to do:**
     
-    *   If you receive an email that appears to be from Bank of America and ends up in a junk folder, leave it there.
+    *   If you receive an email that appears to be from Bank of America and ends up in a junk folder, leave it there
     *   Use a strong, unique password for each of your accounts. Memorize them and use multi-factor authentication, like fingerprint or one-time authorization code, where available. Learn more about creating strong passwords
-    *   Review our fraud prevention checklist for steps you can take to help establish a strong defense against fraud
+    *   Review our fraud prevention checklist for steps you can take to help establish a strong defense against fraud
     *   If you’re a victim of fraud, we're here to help. We'll cancel your card and issue a replacement immediately, and you won’t be liable for any fraudulent activity.Footnote1 See What to do if you think your identity has been stolen
     *   Avoid sending confidential information through unsecured email, fax or texts to reduce the risk of it being improperly accessed.
-*   Show How you can help protect your identity:
+*   Show How you can help protect your identity
     
     **What you need to know:**
     
@@ -70,16 +70,16 @@ Bank of America Privacy and Security Get information about privacy and security 
     
     *   Review your statements for unusual transactions or suspicious charges
     *   Be sure to keep your contact information (especially your cell phone number and email address) current.
-    *   Enroll in Verify Your Visa is With You layer to allow us to approve transactions when you travel.
-    *   If you use the Bank of America Mobile Banking app, allow push alerts, and be sure to review and respond to alerts promptly
+    *   Enroll in Verify Your Visa Card is With You layer to allow us to approve transactions when you travel.
+    *   If you use the Bank of America Mobile Banking app, allow push alerts and be sure to review and respond to alerts promptly
     *   Review our fraud prevention checklist for steps you can take to help establish a strong defense against fraud
     *   Learn more about online security and privacy
     *   Make the default ID for your internet router unique to you. change the password to make it more difficult for hackers to access your network
-*   Show How you can help protect your computer:
+*   Show How you can help protect your computer
     
     **What you need to know:**
     
-    Taking proper precautions helps to make sure your personal and financial information—as well as your identity—remains safe.
+    Taking proper precautions helps to make sure your personal and financial information — as well as your identity — remains safe.
     
     **What you need to do:**
     
@@ -90,7 +90,7 @@ Bank of America Privacy and Security Get information about privacy and security 
     *   Back up your data regularly. If you use online or cloud storage, be sure you understand your provider's privacy and security policies and keep your access codes safe.
     *   Use the administrator log in on your home computer only for creating new users and installing software. If you use administrator accounts when browsing the internet, banking or reading email, the risk of malicious code entering your computer without detection is much greater. Create standard user accounts for yourself and everyone in your family to limit your exposure.
     *   Review our fraud prevention checklist for steps you can take to help establish a strong defense against fraud
-*   Show How you can help protect your smartphone:
+*   Show How you can help protect your smartphone
     
     **What you need to know:**
     
@@ -98,37 +98,37 @@ Bank of America Privacy and Security Get information about privacy and security 
     
     **What you need to do:**
     
-    *   Be sure to keep your contact information (especially your cell number and email address) current.
+    *   Be sure to keep your contact information (especially your cell number and email address) current
     *   If you use the Bank of America Mobile Banking app, allow push alerts, and be sure to review and respond to alerts promptly
-    *   Set a security code/PIN or fingerprint sign-in and enable remote wipe and "find my phone" features to make sure you're covered if your phone is lost
+    *   Set a security code/PIN or fingerprint sign-in and enable remote wipe and find my phone features to make sure you're covered if your phone is lost
     *   Only download software or applications from well-known or trusted sources–and never click a link from an unknown source or sender
-    *   Install system and software updates (sometimes called "patches" or "service packs")
+    *   Install system and software updates (sometimes called patches or service packs)
     *   Turn off Wi-Fi and Bluetooth services when you’re not using them, and avoid using public Wi-Fi for financial transactions unless you use a secure, private connection, like VPN software.
-    *   Never "root" or "jailbreak" your own mobile device to gain access to unofficial applications. This practice may lead to security vulnerabilities and the inability to apply future software updates from the vendor.
+    *   Never root or jailbreak your own mobile device to gain access to unofficial applications. This practice may lead to security vulnerabilities and the inability to apply future software updates from the vendor.
     *   Review our fraud prevention checklist for more helpful steps
-*   Show How you can identify &. avoid scams:
+*   Show How you can identify and avoid scams
     
     **What you need to know:**
     
-    *   We work hard to ensure that any “Bank of America” content you’re receiving is really from Bank of America
-    *   We’ll never ask you to send us personal information (like Social Security number or ATM PIN) over text or email. If you do receive a request like this, please forward it to us at abuse@bankofamerica.com. Our team reviews all submissions. we will only reply to your message if we require additional information.)
+    *   We work hard to ensure that any Bank of America content you’re receiving is really from Bank of America
+    *   We’ll never ask you to send us personal information such as an account number, card PIN or Social Security or Tax ID over text or email. If you do receive a request like this or any other suspicious phishing email, please forward it to us at abuse@bankofamerica.com. We will only reply to your message if we require additional information.
     
     **What you need to do:**
     
     *   If you receive a suspicious call, text or email from someone claiming to be from Bank of America, do not respond, click links or open attachments. If this has happened to you, contact us right away at 800.432.1000.
-    *   Learn how to spot email scams and how to help protect yourself from tax scams
+    *   Learn how to spot email scams and how to help protect yourself from tax scams. If you have older family members or friends, learn how to spot and help prevent elder abuse.
     *   Help protect yourself and your loved ones from elder and at-risk person fraud by learning how to spot signs of elder financial abuse
-*   Show How you can help protect your business:
+*   Show How you can help protect your business
     
     **What you need to know:**
     
-    *   There’s a growing type of fraud called “business email compromise”. Learn about business email compromise on the FBI website
-    *   Business identity fraud has become surprisingly common because of the easy accessibility of business information, including website data, company name and staff rosters.
+    *   There’s a growing type of fraud called business email compromise. Learn about business email compromise on the FBI website
+    *   Business identity fraud has become surprisingly common because of the easy accessibility of business information, including website data, company name and staff rosters
     
     **What you need to do:**
     
-    *   Minimize the risks by using your work computer for business, checking your domain name regularly and reviewing your business credit report.
-    *   Know your customers’ habits, including their payment amounts, reasons, and details. Look out for any significant changes to those habits – they might signal a fraud issue
+    *   Minimize the risks by using your work computer for business, checking your domain name regularly and reviewing your business credit report
+    *   Know your customers’ habits, including their payment amounts, reasons and details. Look out for any significant changes to those habits – they might signal a fraud issue.
     *   Ensure all business data is securely and regularly backed up. Test the recovery function of your backup procedures regularly to make sure your data is always retrievable.
     *   Develop a plan for cybersecurity and fraud disaster recovery. For more fraud prevention best practices for small businesses, check out our Small Business Online Community.
     *   For resources for larger businesses, explore information from our Bank of America Merrill Lynch Global Banking and Markets fraud page
@@ -428,7 +428,7 @@ Congratulations! Your internet browser meets our security requirementsPlease upd
 
 Review requirements
 
-hide More Resources
+hide More resources
 
 *   Online and Mobile Banking Security Guarantee
 *   Watch our video "Keeping Your Financial Info Safe"
