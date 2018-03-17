@@ -4,7 +4,7 @@
 *   Standings
 *   Video
 *   Fantasy
-*   Combine
+*   Free Agency
 *   Tickets
 *   Shop
 *   Teams
@@ -21,7 +21,7 @@
 *   Standings
 *   Video
 *   Fantasy
-*   Combine
+*   Free Agency
 
 *   Free Agency
 
