@@ -10,7 +10,7 @@
 
 *   About AT&T
 *   About Us
-    *   AT&T Corporate Profile
+    *   AT&T Profile
 *   Investors
     *   Investor Profile
     *   News &. Events
