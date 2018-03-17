@@ -1,4 +1,4 @@
-SUBSCRIBE NOWto get full access
+close dialog$199 per monthSubscribe Todayclose dialogSUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOWto get full access
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowVeronica Escobar sued by ex-candidatesPolitics2nd arrest in alleged drug-deal shooting deathCrimeEl Paso among lowest salary satisfaction citiesBusinessNew Mexico fugitive arrested in East El PasoCrimeMan guilty in fraud tied to UTEP, NMSU playersCrime1 dead in traffic accident in Central El PasoLocalJudge who forced runoff removes name from ballotPoliticsTeen gets jail in Cielo Vista fireworks caseCrime5 foods to try when Chihuahuas kick off seasonNewsToys R Us to liquidate, sell, close all storesBusinessHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowClint ISD technology head charged in iPad theftsCrimeCocaine bound for mall seized at borderCrimeVeronica Escobar sued by ex-candidatesPoliticsChild-on-child sex assault, a military problemMilitary2nd arrest in alleged drug-deal shooting deathCrime1 dead in traffic accident in Central El PasoLocalEl Paso woman convicted in Muslim-shame kidnappingCrimeEl Paso among lowest salary satisfaction citiesBusinessWest Side robber threatens cashier, customersCrimeEl Paso not fattest city in US, is most diabeticHealthHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,3 +142,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialogOnly $199 per monthSubscribe TodayNo thanksclose dialogclose dialog$199 per monthSubscribe Todayclose dialog
