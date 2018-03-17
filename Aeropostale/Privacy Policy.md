@@ -204,6 +204,7 @@ Close submenu ( Swim Accessories ) Swim Accessories
 *   View All
 *   Cover Ups
 *   Flip Flops
+*   Sunglasses
 
 Close submenu ( Guys Swim ) Guys Swim
 
@@ -518,6 +519,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   Cover Ups
         *   Flip Flops
+        *   Sunglasses
     
     *   Guys Swim
         *   View All
