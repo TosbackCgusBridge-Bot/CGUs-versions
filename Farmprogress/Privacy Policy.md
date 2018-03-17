@@ -42,11 +42,15 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent Cranberries targeted for retaliation after Trump puts tariffs on steel, aluminum Mar 15, 2018 Trudeau's strategy to play nice with Trump seems to be working Mar 15, 2018 My dad has cancer, so I cleared the pasture Mar 15, 2018 Modern sprayers take precision application to new levels Mar 15, 2018 Syngenta partners with Rise Against Hunger Mar 15, 2018 Featured Cover crops, corn and seedling diseases Mar 09, 2018 4 things to remember before applying manure Mar 02, 2018 Be ready to sell on seasonal rallies Feb 01, 2018 New tool helps tackle crop management challenges Jan 26, 2018 Top stories Sharing his farm with the world Mar 15, 2018 Gordon Wassenaar has hosted trade teams and other visitors from all over the world for the past 30 years. ISU Ag College presents annual honors Mar 15, 2018 Outstanding faculty and staff are recognized. Conservation on the edge Mar 15, 2018 More education is needed to achieve large-scale adoption of edge-of... Do you want to make a profit?
+Recent Recent 7 ag stories you might have missed this week - March 16, 2018 Mar 16, 2018 Apply for Monsanto Fund grant to enhance STEM education Mar 16, 2018 Senators introduce Give our Resources the Opportunity to Work Act Mar 16, 2018 6 governors urge Trump to support RFS Mar 16, 2018 Taking a ride in a new Ram Mar 16, 2018 Featured Cover crops, corn and seedling diseases Mar 09, 2018 4 things to remember before applying manure Mar 02, 2018 Be ready to sell on seasonal rallies Feb 01, 2018 New tool helps tackle crop management challenges Jan 26, 2018 Top stories Hanna receives Exceptional Service Award Mar 16, 2018 Award recognizes a nonfarmer’s excellent service to agriculture in Iowa. Cover crop field day series starts March 27 Mar 16, 2018 Come see cover crops in action on working farms around Iowa. What’s the best planting date? Mar 16, 2018 Corn Source: Planting before soil is ready can disturb stand... Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Selling weather rallies Mar 14, 2018 Partnership pride Mar 14, 2018 market overviewMarkets:View All Commodities  
+GET IT NOW Sharing his farm with the world Mar 15, 2018 ISU Ag College presents annual honors Mar 15, 2018 market overviewMarkets:View All Commodities
+
+There is no Internet connection
+
+  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes.
 
 Sign up for the Wallaces Farmer Update newsletter.
@@ -55,7 +59,11 @@ AfghanistanAland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarct
 
 Enter your email above to receive messages about offerings by Informa, its brands, affiliates and/or third-party partners, consistent with Informa's Privacy Statement.
 
-List Today's weatherChange locationBROUGHT TO YOU BYsee detailed weather >. Energy Manure is a smelly natural battery Mar 14, 2018 Biodiesel proponents ask for tax credit extension Mar 13, 2018 Biofuel supporters rally across Iowa to protect RFS Mar 12, 2018 Regulatory Judge will weigh in on toxicity of glyphosate Mar 14, 2018 USDA investing $276 million in rural electric infrastructure Mar 14, 2018 Agriculture gets additional 90-day waiver from electronic logging device rule Mar 13, 2018 Crops Nationwide GMO corn class action lawsuit settled for $1.51 billion Mar 13, 2018 Green grass and cows don’t mix Mar 13, 2018 Road to new crop protection products is changing Mar 13, 2018 Prices low, times tough, but not repeat of 1980s Mar 13, 2018 New grain marketing system would free tech Mar 13, 2018 Iowa Farm Scene Long wait finally over for Bill Northey Mar 05, 2018 Six months after he was nominated, Iowa ag secretary is confirmed to serve at USDA. Featured media Using cover crops along with manure Feb 14, 2018 Slideshow: Conservationists offer special USDA incentives for farmers willing to try.
+List Today's weatherChange locationBROUGHT TO YOU BY
+
+There is no Internet connection
+
+see detailed weather >. Energy Manure is a smelly natural battery Mar 14, 2018 Biodiesel proponents ask for tax credit extension Mar 13, 2018 Biofuel supporters rally across Iowa to protect RFS Mar 12, 2018 Regulatory U.S. officials want Bayer to divest more assets before merging with Monsanto Mar 16, 2018 Sonny Perdue remakes USDA in Trump's image Mar 16, 2018 U.S.-South Korea reach agreement on HPAI trade restrictions Mar 16, 2018 Crops Farmers for Monarchs — and milkweed? Mar 16, 2018 Nationwide GMO corn class action lawsuit settled for $1.51 billion Mar 13, 2018 Green grass and cows don’t mix Mar 13, 2018 Road to new crop protection products is changing Mar 13, 2018 Prices low, times tough, but not repeat of 1980s Mar 13, 2018 Iowa Farm Scene Long wait finally over for Bill Northey Mar 05, 2018 Six months after he was nominated, Iowa ag secretary is confirmed to serve at USDA. Featured media Using cover crops along with manure Feb 14, 2018 Slideshow: Conservationists offer special USDA incentives for farmers willing to try.
 
 *   The Farm Progress Network
 *   Leadership
