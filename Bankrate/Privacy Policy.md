@@ -111,6 +111,7 @@
     *   All loan calculators
     
     Get Advice
+    *   Personal Loans Guide
     *   How to get a personal loan
     *   Where to get a personal loan
     *   Refinancing a personal loan
