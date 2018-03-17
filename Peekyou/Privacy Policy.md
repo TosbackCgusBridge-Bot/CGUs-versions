@@ -107,7 +107,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 6% 
+Facebook 7% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -167,7 +167,7 @@ Facebook 6% 
     
 *   Show Less ...
 
-Twitter 6% 
+Twitter 7% 
 
 *   U.S. FDA - US\_FDA
     
@@ -213,7 +213,7 @@ Twitter 6% 
     
 *   Show Less ...
 
-Instagram 6% 
+Instagram 7% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -279,7 +279,7 @@ Instagram 6% 
     
 *   Show Less ...
 
-Pinterest 19%  Wikipedia 6% 
+Pinterest 19%  Wikipedia 7% 
 
 *   Wikipedia
     
@@ -294,7 +294,7 @@ Pinterest 19%  Wikipedia 6% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 6% 
+Google+ 7% 
 
 *   privacy policy - Google+ - Google Plus
     
@@ -309,7 +309,7 @@ Google+ 6% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 19%  Music 6% 
+Linkedin 19%  Music 7% 
 
 *   Pandora
     
@@ -355,7 +355,7 @@ Linkedin 19%  Music 6% 
     
 *   Show Less ...
 
-Photo Albums 6% 
+Photo Albums 7% 
 
 *   Flickriver
     
@@ -370,7 +370,7 @@ Photo Albums 6% 
     Missouri Department of Transportation Central Office 105 W. Capitol Avenue Jefferson City, MO 65102 1-888-ASK-MODOT (275-6636) 1-866-831-6277 (Motor Carrier Services)
     
 
-Myspace 6% 
+Myspace 7% 
 
 *   Privacy Policy - 49086242
     
@@ -394,7 +394,7 @@ Myspace 6% 
     
 *   Show Less ...
 
-Web Search 19%  Images 6% 
+Web Search 19%  Images 7% 
 
 9
 
