@@ -199,7 +199,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Los Angeles Dating
+*   Christian Singles
 *   Privacy Policy
 *   Terms and Conditions
 *   Dating Safety Tips
@@ -210,4 +210,4 @@ Still there?
 
 *   Resume dating
 
-Placeholder
+Placeholder <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/829392633/?guid=ON&amp;script=0"/>. </div>.
