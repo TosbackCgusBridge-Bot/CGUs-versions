@@ -14,7 +14,7 @@ Menu Close Menu Close
         *   Student Laptops Student Laptops Innovative design, responsive performance
         *   2-in-1 PCs 2-in-1 PCs Multimedia tablets with multiple modes, including Stand, Hold, and Hang.
         *   Gaming Laptops
-        *   Chromebooks
+        *   Chromebooks Chromebooks
         *   SMALL BUSINESS LAPTOPS
         *   ThinkPad 25
         
@@ -28,6 +28,11 @@ Menu Close Menu Close
             
         *   *   Explore all 2-in-1s
             
+        *   *   Gaming
+        *   *   Explore all Chromebooks
+            
+            *   Thinkpad 11e
+            *   Flex 11 Chromebook
         
         *   *   Lots of options, but only one you, right? Narrow your choices by category, and find the laptop you truly want.
                 
@@ -105,6 +110,9 @@ Menu Close Menu Close
         *   Thinkpad Workstations
         *   SMALL BUSINESS WORKSTATIONS
         
+        *   *   Explore Thinkstations
+        *   *   Explore Thinkpad
+        
         *   *   A business investment requires due diligence. Research your choices here.
                 
                 Explore All Workstations >.
@@ -139,6 +147,8 @@ Menu Close Menu Close
             
         *   *   Explore all Smart Office
             
+        *   *   Explore 2-in-1
+        *   *   Explore Connected Devices
         
         *   *   Because your tablet is like an extension of your personality. Check out specifics, and complement yourself.
                 
@@ -207,6 +217,14 @@ Menu Close Menu Close
         *   Audio
         *   Pens &. Supplies
         
+        *   *   Monitors
+        *   *   Docking
+        
+        *   *   Keyboards &. Mice
+        
+        *   *   Carrying Cases
+        *   *   Audio
+        
         *   *   Explore All Accessories &. Monitors >.
         *   *   Monitors >.
         
@@ -232,10 +250,24 @@ Menu Close Menu Close
         *   Storage
         *   Networking
         *   Software
-        *   Software Defined Infrastructure
+        *   Software Defined Infrastructure Software Defined Infrastructure
         *   Solutions
         *   Services
         *   Why Lenovo
+        
+        *   *   Explore Servers
+        *   *   Explore Storage
+        *   *   Explore Networking
+        
+        *   *   Explore Converged Systems
+            
+            *   ThinkAgile SX for Microsoft Azure Stack
+            *   ThinkAgile SX for Nutanix
+            *   ThinkAgile HX Series
+            *   VMware vSAN and VCF ReadyNodes
+        *   *   Explore Solutions
+        *   *   Explore Services
+        *   *   Lenovo
         
         *   *   Explore All Servers >.
         *   *   Explore Servers >.
@@ -260,6 +292,8 @@ Menu Close Menu Close
         *   DATA CENTER SERVICES
         *   Replacement Parts
         *   Device as a Service (DaaS)
+        
+        *   *   Consumer
         
         *   *   Explore All Services >.
         *   *   Services Overview >.
@@ -331,7 +365,7 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers Markdown Madness Sale
+Home >. Filter by specs Offers Markdown **Madness**
 
 Our best performers are ready to take the stage.  
 Save up to 75% off through March 21.
