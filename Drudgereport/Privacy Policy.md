@@ -133,23 +133,23 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+#bts of our @adexchanger #PROGIO teaser video with @Requidan in the Intermarkets Studio! This is were the video magic happens. pic.twitter.com/knFz…
+
+About 14 hours ago
+
 The new #salesgamechangerspodcast is live with our own Erik @Requidan! Thanks @IESBD for the great opportunity. Listen here: bit.ly/2ph2mNQ #podcast pic.twitter.com/pwmF…
-
-About 2 days ago
-
-My week on Twitter : 6 Mentions, 56.5K Mention Reach, 4 Likes, 8 Retweets, 9.64K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/O31t…
-
-About 2 days ago
-
-Viewability is a constant struggle in our industry. It's ok to change course, but the important thing is to maintain UX while providing quality access to premium audiences. Here's how we did it: goo.gl/xAwgyH
-
-About 2 days ago
-
-Our biggest fans this week: @lizthatch, @Nicole\_Kosar, @jscottshipman. Thank you! via sumall.com/thankyou?… pic.twitter.com/EPBJ…
 
 About 3 days ago
 
-.@adexchanger #PROGIO is right around the corner! Expert leaders across our ecosystem including our own Erik @Requidan will be talking about the industry's hot topics &. more. Don't miss out! #programmatic #adtech pic.twitter.com/SVii…
+My week on Twitter : 6 Mentions, 56.5K Mention Reach, 4 Likes, 8 Retweets, 9.64K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/O31t…
+
+About 3 days ago
+
+Viewability is a constant struggle in our industry. It's ok to change course, but the important thing is to maintain UX while providing quality access to premium audiences. Here's how we did it: goo.gl/xAwgyH
+
+About 3 days ago
+
+Our biggest fans this week: @lizthatch, @Nicole\_Kosar, @jscottshipman. Thank you! via sumall.com/thankyou?… pic.twitter.com/EPBJ…
 
 About 4 days ago
 
