@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Do you have your green for St. Patrick’s Day? Shop Now.
+It’s Tournament Time! Shop team colors and tees.
 
 *   Women
 *   Men
