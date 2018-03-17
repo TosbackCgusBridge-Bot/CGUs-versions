@@ -103,53 +103,53 @@
     *   About
     *   Media Kit
 
-*   _Philip Elliott_: Dems Should Be Careful About Their Big Win in Trump Country
+*   _David Catanese_: A Big, Blue Wave Will Require More Conor Lambs
     
-*   _Jim Newell_: Debunking Republicans' Post-Pennsylvania Spin
+*   _John Fund_: Why Kudlow's Appointment Could Turbocharge the Economy
     
-*   _Karl Rove_: What Republicans Can Learn From Losing
+*   _Catherine Rampell_: Get Ready. Republicans Want to Cut Taxes Again.
     
-*   _Matt Bai_: The Artifice of the Deal
+*   _Julie Kelly_: U.S. Deserves a Full Hearing on Trump-Russia Hoax
     
-*   _Buck Sexton_: Pompeo Will Clear the Air at Foggy Bottom
+*   _Timothy O'Brien_: Mueller Just Stepped Over Trump's Red Line
     
-*   _Ali Soufan_: Telling the Truth About Torture
+*   _Tom Bevan_: The Takeaway: Polling Accuracy Holds Steady, Study Finds
     
-*   _Rich Lowry_: Don't Bork Gina Haspel
+*   _Wesley Yang_: Will Asian-Americans Blow Up the Racial Quota System?
     
-*   _Chauncey DeVega_: Hillary Lets the Truth Slip: Trump Voters Are 'Backward'
+*   _Natalie Hopkinson_: 'School Choice' Is a Lie That Harms Us All
     
-*   _Wayne Allyn Root_: The Choice: Trump Prosperity or Dems' Crazy
+*   _A.B. Stoddard_: Trump-splaining a North Korea Summit
     
-*   _Noah Feldman_: California, the New Cradle of States' Rights
+*   _Austin Bay_: 'Maximum Pressure' Strategy Got North Korea to the Table
     
-*   _George Neumayr_: Ruth Marcus &. the Morality of the Ruling Class
+*   _David Ignatius_: Putin Has Finally Gone Too Far
     
-*   _Maya Kosoff_: Elizabeth Holmes's Fall From Grace Is Complete
+*   _Newt Gingrich_: Pennsylvania Race Is Wake-Up Call for Trump, Republicans
     
-*   _Carl M. Cannon_: Cyberthreats: Vexing New Front in Modern Warfare
+*   _Bill Scher_: Why Conor Lamb (Probably) Won
     
-*   _Buell_: How We Can Protect Our Votes From Election Hacking
+*   _Joy-Ann Reid_: To Retake Washington, Dems Need to Inspire New Voters
     
-*   _Paul Begala_: Republicans Are Gonna Need a Bigger Yacht
+*   _Phil Gramm_: How to Complete the Escape From Obamacare
     
-*   _David Shribman_: PA-18: Sound and Fury Signifying...Almost Nothing
+*   _Peter Beinart_: The Rise of Right-Wing Foreign Policy in America
     
-*   _Nate Silver_: Enthusiasm Gap May Turn Blue Wave Into a Tsunami
+*   _Conrad Black_: The Significance of Trump's Korea Breakthrough
     
-*   _Ed Morrissey_: Settle Down, Democrats
+*   _George Neumayr_: Clapper News Network
     
-*   _Jay Elwes_: The Skripal Assassination: What Is Putin Thinking?
+*   _Chris Cillizza_: Did Mueller Just Cross Trump's Red Line on Russia?
     
-*   _Boris Johnson_: Britain Needs Its Allies to Stand With Us Against Russia
+*   _David Harsanyi_: Collusion Conspiracy Theorists Keep Chasing Dead Ends
     
-*   _Michael Hayden_: Why Gina Haspel Is the Person America Needs at the CIA
+*   _Damon Linker_: The Last, Dying Gasp of Republican America
     
-*   _Michael Fuchs_: Tillerson Was Disastrous, Pompeo May Be Worse
+*   _Martin Feldstein_: The Real Reason for Trump's Steel, Aluminum Tariffs
     
-*   _Steve Forbes_: Kudlow the Right Man to Advise Trump on Economy
+*   _Barton Swaim_: School Walkout: A Conformist Rebellion
     
-*   _Xavier Becerra_: Memo to Trump: CA Isn't in the Business of Deportation
+*   _Nimal Eames-Scott_: A New Generation Calls for Gun Control
     
 
 *   Previous
@@ -251,11 +251,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Why It Doesn't Matter Who the Winner Is in PA-18
 *   Trump Picks Camera-Proven Kudlow as Top Economic Aide
-*   Perez: RNC Might Outraise Us But "They're Morally Bankrupt"
+*   Democrats' Dilemma: An Energized Left vs. Moderation
+*   Grassley, Graham Call for Special Counsel to Probe FBI, FISA Abuse
+*   Why It Doesn't Matter Who the Winner Is in PA-18
 *   Republicans Face Reckoning on Power of Trump Coalition
-*   Lamb Declares Victory in Pa. Despite Uncounted Votes
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,12 +270,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
 *   President Trump Job ApprovalPew Research
     *   Approve42
     *   Disapprove53Disapprove +11
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve39
     *   Disapprove56Disapprove +17
@@ -285,11 +285,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Jeff Flake In NH: I'm An Endangered Species Of Conservative. "Americanus Never-Trumpus, Subgenus RINO"
+*   Russian Exile Mikhail Khodorkovsky: A Criminal Gang Runs The Kremlin, Putin May No Longer Be Main Boss
+*   H.R. McMaster Keynote at Holocaust Museum: "Syria, Is The Worst Yet To Come?"
 *   Kamala Harris on Gun Control: We Got Great Ideas, But Congress Doesn't Have The Courage To Act
 *   Sarah Sanders: U.S. Does Have Trade Deficit With Canada, If You Count Timber &. Energy
-*   Mark Levin: Schiff A Propagandist For Russian Government. Russia Wanted Clinton As President
-*   DNC Chair Perez: Women Leading "The Resistance" Are Remarkable Leaders. RNC "Morally Bankrupt"
-*   Nunberg: Roger Stone Has "Got To Explain" How He Knew What WikiLeaks Would Leak Before They Did
 
 *   Politics
 *   Policy
