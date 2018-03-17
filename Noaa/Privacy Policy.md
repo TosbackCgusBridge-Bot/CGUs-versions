@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Fisheries These veterans have a mission: This time, it’s fighting for coral Satellites We have lift off! NOAA's GOES-S satellite launches from Kennedy Space Center National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Research Wildfire season in Southern Plains off to a strong start after a dry winter Oceans &. Coasts Fisheries These veterans have a mission: This time, it’s fighting for coral National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Spring Outlook: U.S. to see moderate flooding, warmer-than-normal temperatures Drought to persist in south-central Plains and the Southwest AROUND NOAA // Join NOAA at the 2018 National Science Teachers Association conference Sorry, Groundhog: February and Winter 2018 were warmer than average for the U.S. NOAA Science Report highlights 2017 research accomplishments
+Enter Search Terms Spring Outlook: U.S. to see moderate flooding, warmer-than-normal temperatures Drought to persist in south-central Plains and the Southwest AROUND NOAA // Wildfire season in Southern Plains off to a strong start after a dry winter Join NOAA at the 2018 National Science Teachers Association conference NOAA Science Report highlights 2017 research accomplishments
 
 *   About our agency
 *   News and features
