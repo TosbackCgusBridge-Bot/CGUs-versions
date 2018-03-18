@@ -1,4 +1,4 @@
-close dialog$199 per monthSubscribe Todayclose dialogSUBSCRIBE NOWto get full access
+SUBSCRIBE NOWto get full access
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog$199 per monthSubscribe Todayclose dialogSUBSCRIBE NOWto get full ac
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowClint ISD technology head charged in iPad theftsCrimeCocaine bound for mall seized at borderCrimeVeronica Escobar sued by ex-candidatesPoliticsChild-on-child sex assault, a military problemMilitary2nd arrest in alleged drug-deal shooting deathCrime1 dead in traffic accident in Central El PasoLocalEl Paso woman convicted in Muslim-shame kidnappingCrimeEl Paso among lowest salary satisfaction citiesBusinessWest Side robber threatens cashier, customersCrimeEl Paso not fattest city in US, is most diabeticHealthHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowClint ISD technology head charged in iPad theftsCrimeCocaine bound for mall seized at borderCrimeMicrosoft picks El Paso for TechSpark programBusinessTerry seems right fit for UTEP basketballCollegeEl Paso woman convicted in Muslim-shame kidnappingCrimeEl Paso not fattest city in US, is most diabeticHealth90 celebrate Foster School of Medicine Match DayNewsChild-on-child sex assault, a military problemMilitaryVeronica Escobar sued by ex-candidatesPolitics2nd arrest in alleged drug-deal shooting deathCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,5 +142,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogOnly $199 per monthSubscribe TodayNo thanksclose dialogclose dialog$199 per monthSubscribe Todayclose dialog
