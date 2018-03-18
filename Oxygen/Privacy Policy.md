@@ -88,7 +88,6 @@ About Oxygen
 *   New Independent Programming Report
 *   Closed Captioning
 *   HTML Sitemap
-*   XML Sitemap
 *   In Progress
 *   Oxygen Apps &. Support
 
