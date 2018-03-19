@@ -73,7 +73,7 @@ SUBSCRIBE NOWto get full access
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowClint ISD technology head charged in iPad theftsCrimeCocaine bound for mall seized at borderCrimeMicrosoft picks El Paso for TechSpark programBusinessTerry seems right fit for UTEP basketballCollegeEl Paso woman convicted in Muslim-shame kidnappingCrimeEl Paso not fattest city in US, is most diabeticHealth90 celebrate Foster School of Medicine Match DayNewsChild-on-child sex assault, a military problemMilitaryVeronica Escobar sued by ex-candidatesPolitics2nd arrest in alleged drug-deal shooting deathCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso man dies in crash after 'medical event'LocalExpect Downtown closures as streetcar arrivesNewsNM man killed in East El Paso car crash FridayTrafficDriver sought in wreck that killed CBP officerCrime'Cheech' Marin brings his Chicano art to El PasoArtsBring on ink, music at Texas Tattoo ShowdownNewsClint ISD technology head charged in iPad theftsCrimeMicrosoft picks El Paso for TechSpark programBusinessCocaine bound for mall seized at borderCrimeTerry seems right fit for UTEP basketballCollegeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
