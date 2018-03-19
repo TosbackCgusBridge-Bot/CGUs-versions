@@ -251,8 +251,8 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Picks Camera-Proven Kudlow as Top Economic Aide
 *   Democrats' Dilemma: An Energized Left vs. Moderation
+*   GOP Midterm Messaging Tied to Pelosi, Despite Pa. Loss
 *   Grassley, Graham Call for Special Counsel to Probe FBI, FISA Abuse
 *   Why It Doesn't Matter Who the Winner Is in PA-18
 *   Republicans Face Reckoning on Power of Trump Coalition
@@ -270,26 +270,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve43
+    *   Disapprove53Disapprove +10
+*   2018 Generic Congressional VoteNBC News/Wall St. Jrnl
+    *   Democrats50
+    *   Republicans40Democrats +10
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove52Disapprove +5
 *   President Trump Job ApprovalPew Research
     *   Approve42
     *   Disapprove53Disapprove +11
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve39
-    *   Disapprove56Disapprove +17
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve42
-    *   Disapprove54Disapprove +12
 
 More Latest Polls In The News
 
-*   Jeff Flake In NH: I'm An Endangered Species Of Conservative. "Americanus Never-Trumpus, Subgenus RINO"
-*   Russian Exile Mikhail Khodorkovsky: A Criminal Gang Runs The Kremlin, Putin May No Longer Be Main Boss
-*   H.R. McMaster Keynote at Holocaust Museum: "Syria, Is The Worst Yet To Come?"
-*   Kamala Harris on Gun Control: We Got Great Ideas, But Congress Doesn't Have The Courage To Act
-*   Sarah Sanders: U.S. Does Have Trade Deficit With Canada, If You Count Timber &. Energy
+*   Garry Kasparov: Russian Elections Are A "Charade," Sanctions Must Target Putin's Money
+*   Rand Paul Will "Do Whatever It Takes" To Block Haspel And Pompeo. Cheneys "Ought To Just Be Quiet"
+*   McCarthy: Decision To Fire McCabe Was Made By "Non-Partisan, Independent" FBI Ethics Department
+*   Kallstrom: Brennan And Obama Are The People Who Committed Felonies, Not Gen. Flynn
+*   David Brooks: Trump Supporters Are "Tuned Out". His "Chaos" "Doesn't Rise To The Level Of Consciousness"
 
 *   Politics
 *   Policy
