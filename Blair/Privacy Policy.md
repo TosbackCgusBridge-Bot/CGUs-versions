@@ -1,6 +1,8 @@
-  No thank you, I prefer to pay for shipping!     Offer Details
+  Offer Details
 
 Use promotion code **BFYQ** at checkout to save 20% and enjoy free standard shipping on your entire Blair order. 20% savings applies to merchandise prices only. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed orders. good online only through March 25, 2018.
+
+  No thank you, I prefer to pay for shipping!  
 
 Shop your favorite stores and discover new ones  
   
