@@ -220,55 +220,7 @@ CUSTOMER SERVICE
 
 Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use. ©2018 Mattel All Rights Reserved.
 
-COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)CanadaCanada (Francais)China (中国)Croatia (Hrvatska)Czech Republic (Cheskà Republika)Denmark (Danmark)Estonia(Eesti)Finland (Suomi)FranceGermany (Deutschland)Greece (Ελλάδα)Hong Kong (English)Hong Kong (香港)Hungary (Magyarorszàg)IndiaIndonesia (bəˈhɑːsə)Israel (ישראל)Italy (Italia)Japan (日本)Korea (한국)Latvia(Latvija)Lithuania(Lietuva)MexicoNetherlands (Nederland)Norway (Norge)Poland (Polska)PortugalRomania (România)Russia (Россия)Slovakia (Slovensko)Slovenia (Slovenija)South AfricaSoutheast AsiaSpain (España)Sweden (Sverige)SwitzerlandTaiwan (臺灣)The Kingdom of Saudi Arabia (المملكة العربية السعودية)Turkey (Türkiye)Ukraine (Україна)United KingdomUnited StatesUnited States (Español)United States 
-
-*   Australia
-*   Belgium (België)
-*   Brazil (Brasil)
-*   Bulgaria (България)
-*   Canada
-*   Canada (Francais)
-*   China (中国)
-*   Croatia (Hrvatska)
-*   Czech Republic (Cheskà Republika)
-*   Denmark (Danmark)
-*   Estonia(Eesti)
-*   Finland (Suomi)
-*   France
-*   Germany (Deutschland)
-*   Greece (Ελλάδα)
-*   Hong Kong (English)
-*   Hong Kong (香港)
-*   Hungary (Magyarorszàg)
-*   India
-*   Indonesia (bəˈhɑːsə)
-*   Israel (ישראל)
-*   Italy (Italia)
-*   Japan (日本)
-*   Korea (한국)
-*   Latvia(Latvija)
-*   Lithuania(Lietuva)
-*   Mexico
-*   Netherlands (Nederland)
-*   Norway (Norge)
-*   Poland (Polska)
-*   Portugal
-*   Romania (România)
-*   Russia (Россия)
-*   Slovakia (Slovensko)
-*   Slovenia (Slovenija)
-*   South Africa
-*   Southeast Asia
-*   Spain (España)
-*   Sweden (Sverige)
-*   Switzerland
-*   Taiwan (臺灣)
-*   The Kingdom of Saudi Arabia (المملكة العربية السعودية)
-*   Turkey (Türkiye)
-*   Ukraine (Україна)
-*   United Kingdom
-*   United States
-*   United States (Español)
+COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)CanadaCanada (Francais)China (中国)Croatia (Hrvatska)Czech Republic (Cheskà Republika)Denmark (Danmark)Estonia(Eesti)Finland (Suomi)FranceGermany (Deutschland)Greece (Ελλάδα)Hong Kong (English)Hong Kong (香港)Hungary (Magyarorszàg)IndiaIndonesia (bəˈhɑːsə)Israel (ישראל)Italy (Italia)Japan (日本)Korea (한국)Latvia(Latvija)Lithuania(Lietuva)MexicoNetherlands (Nederland)Norway (Norge)Poland (Polska)PortugalRomania (România)Russia (Россия)Slovakia (Slovensko)Slovenia (Slovenija)South AfricaSoutheast AsiaSpain (España)Sweden (Sverige)SwitzerlandTaiwan (臺灣)The Kingdom of Saudi Arabia (المملكة العربية السعودية)Turkey (Türkiye)Ukraine (Україна)United KingdomUnited StatesUnited States (Español)
 
 *   Mattel, Parent Co.
 *   Careers
