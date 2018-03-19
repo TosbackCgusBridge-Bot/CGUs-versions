@@ -3,9 +3,9 @@
 *   games
 *   videos
 
-New Games Next in  28:12 Categories &. more LIBRARY
+New Games Next in  xx:xx Categories &. more LIBRARY
 
-*   New Games Next in 28:12
+*   New Games Next in xx:xx
 *   Best of new games 1405 games
 *   Most Popular Games 591 games
 *   Played Games 0 games
@@ -14,33 +14,33 @@ New Games Next in  28:12 Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 21,295 games
-*   Driving &. Racing Games 6,651 games
-*   Strategy &. RPG Games 2,295 games
+*   Games for girls 21,300 games
+*   Driving &. Racing Games 6,654 games
+*   Strategy &. RPG Games 2,298 games
 *   Management Games 3,635 games
-*   Thinking Games 11,248 games
+*   Thinking Games 11,252 games
 *   Action &. Adventure Games 15,584 games
-*   Sports Games 2,180 games
-*   Shooting Games 7,772 games
+*   Sports Games 2,181 games
+*   Shooting Games 7,775 games
 *   Fighting Games 2,087 games
-*   Skill Games 9,661 games
-*   Arcade &. Classic Games 12,262 games
+*   Skill Games 9,665 games
+*   Arcade &. Classic Games 12,266 games
 *   Fun &. Crazy Games 2,292 games
 
 Tags
 
-*   Farm230
-*   Swimming145
-*   1 player62,326
-*   Mahjong279
-*   Football428
-*   Basketball219
+*   Stick559
+*   Social26
+*   Drunk55
+*   War878
+*   Adventure3,710
+*   Beat 'Em Up580
 *   View All Tags 371
 
 Play with friends  
 Powered by id.net 123 id.net Multiplayer Games 1,327 id.net High Score Games 899 id.net Achievements Games 773 id.net Screenshots Games 1,293 id.net Online Save Games 2,359 All id.net Games Last Highscore:
 
-**1,614** points on Cox by ivan
+**3,878** points on Disaster Will Strike 7 by AliHaider101
 
 *   Contact Form
 *   Submit a Game or Video
