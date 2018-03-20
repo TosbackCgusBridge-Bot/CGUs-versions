@@ -106,10 +106,10 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Using Gut Bacteria and Fiber to Fight Diabetes
+    *   Coffee May Affect Metabolism
     *   3-in-1 Pill Could Help Lower BP
     *   Does Vitamin D Help Protect Against Cancer?
-    *   Presidential Panel: Cost of Cancer Drugs a Barrier to Care
+    *   Poor Sleep May Raise Alzheimer's Risk
     *   This Body Shape Can Raise Women's Heart Attack Risk
     
     Experts &. Community
@@ -118,7 +118,7 @@ Skip to main content
     *   Expert Blogs
     *   News Center
     
-    Featured Topics*   News Special Why Are Women Still Dying From Childbirth?
+    Featured Topics*   Special Report America's Pain: The Opioid Epidemic
     *   Newsletters Sign Up to Receive Our Free Newsletters
 *   Mobile Apps
 *   Subscriptions
