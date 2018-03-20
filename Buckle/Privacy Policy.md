@@ -227,7 +227,6 @@ It’s Tournament Time! Shop team colors and tees.
     *   *   Featured Trends
         
         *   New Arrivals
-        *   St. Patrick's Day
         *   Spring Checklist
         *   Top Rated
         *   Best Sellers
