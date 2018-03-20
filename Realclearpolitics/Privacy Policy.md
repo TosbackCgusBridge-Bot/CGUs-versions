@@ -103,53 +103,53 @@
     *   About
     *   Media Kit
 
-*   _David Catanese_: A Big, Blue Wave Will Require More Conor Lambs
+*   _Albert Hunt_: The Blamer-in-Chief in the Oval Office
     
-*   _John Fund_: Why Kudlow's Appointment Could Turbocharge the Economy
+*   _Roger Kimball_: A 'Higher Loyalty' to Their Inflated Sense of Virtue
     
-*   _Catherine Rampell_: Get Ready. Republicans Want to Cut Taxes Again.
+*   _Sen. Mark Warner_: Congress Must Draw a Red Line to Protect Mueller
     
-*   _Julie Kelly_: U.S. Deserves a Full Hearing on Trump-Russia Hoax
+*   _Tom Shattuck_: Score McCabe's Ouster as a Victory for President Trump
     
-*   _Timothy O'Brien_: Mueller Just Stepped Over Trump's Red Line
+*   _Everett &. Robillard_: Republicans Bet Their Senate Majority on Trump
     
-*   _Tom Bevan_: The Takeaway: Polling Accuracy Holds Steady, Study Finds
+*   _Juan Williams_: Students Change the Tide on Guns
     
-*   _Wesley Yang_: Will Asian-Americans Blow Up the Racial Quota System?
+*   _Dakota Hanchett_: Why I Didn't Join My School's Walkout
     
-*   _Natalie Hopkinson_: 'School Choice' Is a Lie That Harms Us All
+*   _Peter Bergen_: Kushner and MBS: A Tale of Two Princes
     
-*   _A.B. Stoddard_: Trump-splaining a North Korea Summit
+*   _Nikolas Gvosdev_: What Putin's Reelection Means for Russia and the Rest of Us
     
-*   _Austin Bay_: 'Maximum Pressure' Strategy Got North Korea to the Table
+*   _Andrew Bacevich_: The Iraq Reckoning Still to Come
     
-*   _David Ignatius_: Putin Has Finally Gone Too Far
+*   _Ethan Baron_: Silicon Valley Facing Unprecedented Backlash
     
-*   _Newt Gingrich_: Pennsylvania Race Is Wake-Up Call for Trump, Republicans
+*   _Michael Graham_: What If Trump Is Right and There Is No Collusion?
     
-*   _Bill Scher_: Why Conor Lamb (Probably) Won
+*   _David Frum_: Firing McCabe Is Just the Start
     
-*   _Joy-Ann Reid_: To Retake Washington, Dems Need to Inspire New Voters
+*   _Robert Kuttner_: How Globalists Ceded the Field to Donald Trump
     
-*   _Phil Gramm_: How to Complete the Escape From Obamacare
+*   _Michael Warren_: The Protectionist's Protectionist
     
-*   _Peter Beinart_: The Rise of Right-Wing Foreign Policy in America
+*   _Frank Bruni_: Democrats Are Primed for 2018 and Looking Pretty in 2020
     
-*   _Conrad Black_: The Significance of Trump's Korea Breakthrough
+*   _Bill Whalen_: To Retake House, Dems Will Need More Breaks -- and Lambs
     
-*   _George Neumayr_: Clapper News Network
+*   _James Bamford_: Trump's War on the U.S. Intelligence Community
     
-*   _Chris Cillizza_: Did Mueller Just Cross Trump's Red Line on Russia?
+*   _Byron York_: If Not Flynn and Manafort, Then Who Was Colluding?
     
-*   _David Harsanyi_: Collusion Conspiracy Theorists Keep Chasing Dead Ends
+*   _Daniel Mitchell_: Foster Economic Success With Employment-Based Visas
     
-*   _Damon Linker_: The Last, Dying Gasp of Republican America
+*   _Ben Zimmer_: When Did 'Amnesty' Become a Dirty Word?
     
-*   _Martin Feldstein_: The Real Reason for Trump's Steel, Aluminum Tariffs
+*   _Andrew Klavan_: Mark Zuckerberg and the New Cornfield
     
-*   _Barton Swaim_: School Walkout: A Conformist Rebellion
+*   _Ellie Mae O'Hagan_: No One Can Pretend Facebook Is Harmless Fun Anymore
     
-*   _Nimal Eames-Scott_: A New Generation Calls for Gun Control
+*   _Paul Sperry_: Broward County's Reverse Jail-to-School Pipeline
     
 
 *   Previous
@@ -251,10 +251,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Republican Midterm Messaging Tied to Pelosi, Despite Pa. Loss
+*   Trump Lashes Out: Mueller Probe Should Never Have Been Started
+*   Turley: Comey May Have Lied to Congress, McCabe Firing Hurts Case
 *   Democrats' Dilemma: An Energized Left vs. Moderation
-*   GOP Midterm Messaging Tied to Pelosi, Despite Pa. Loss
-*   Grassley, Graham Call for Special Counsel to Probe FBI, FISA Abuse
-*   Why It Doesn't Matter Who the Winner Is in PA-18
 *   Republicans Face Reckoning on Power of Trump Coalition
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -270,26 +270,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve43
-    *   Disapprove53Disapprove +10
-*   2018 Generic Congressional VoteNBC News/Wall St. Jrnl
-    *   Democrats50
-    *   Republicans40Democrats +10
+*   President Trump Job ApprovalGallup
+    *   Approve40
+    *   Disapprove56Disapprove +16
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove52Disapprove +5
-*   President Trump Job ApprovalPew Research
-    *   Approve42
-    *   Disapprove53Disapprove +11
+*   Direction of CountryRasmussen Reports
+    *   Right Direction41
+    *   Wrong Track53Wrong Track +12
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve43
+    *   Disapprove53Disapprove +10
 
 More Latest Polls In The News
 
-*   Garry Kasparov: Russian Elections Are A "Charade," Sanctions Must Target Putin's Money
-*   Rand Paul Will "Do Whatever It Takes" To Block Haspel And Pompeo. Cheneys "Ought To Just Be Quiet"
-*   McCarthy: Decision To Fire McCabe Was Made By "Non-Partisan, Independent" FBI Ethics Department
+*   MSNBC's Rick Tyler: Trump "Is Going To Fire Robert Mueller" And Republicans Will Do "Nothing"
+*   Sen. Cory Booker to Trump: "If You're As Innocent As You Say," Let Mueller Finish His Investigation
 *   Kallstrom: Brennan And Obama Are The People Who Committed Felonies, Not Gen. Flynn
-*   David Brooks: Trump Supporters Are "Tuned Out". His "Chaos" "Doesn't Rise To The Level Of Consciousness"
+*   Schiff: Dems' Report Will "Show The Facts Supporting The Issue Of Collusion"
+*   House Judiciary Chairman Goodlatte: FBI Stonewalling, Redacting Documents. Committee Will Subpoena
 
 *   Politics
 *   Policy
