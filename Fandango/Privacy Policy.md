@@ -6,29 +6,31 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movies Now Playing
     
     *   Black Panther
+    *   Tomb Raider (2018)
+    *   I Can Only Imagine
     *   A Wrinkle in Time
-    *   The Strangers: Prey at Night
-    *   Red Sparrow
+    *   Love, Simon
     *   Game Night (2018)
     *   Peter Rabbit
+    *   The Strangers: Prey at Night
+    *   Red Sparrow
     *   Death Wish (2018)
-    *   The Hurricane Heist
-    *   Annihilation
     *   Jumanji: Welcome to the Jungle
-    *   Gringo (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   7 Days in Entebbe
-    *   I Can Only Imagine
-    *   Love, Simon
-    *   Tomb Raider (2018)
-    *   Flower (2018)
-    *   The Happys
-    *   Josie
-    *   Journey's End (2018)
-    *   Tilt (2018)
+    *   Midnight Sun (2018)
+    *   Pacific Rim Uprising (2018)
+    *   Paul, Apostle of Christ
+    *   Sherlock Gnomes
+    *   Unsane (2018)
+    *   Back To Burgundy
+    *   Bag of Marbles
+    *   Final Portrait
+    *   Getting Grace
+    *   Hichki
+    *   Isle of Dogs
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -38,15 +40,15 @@ Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   Pacific Rim: Uprising (2018)
-    *   Sherlock Gnomes
-    *   Paul, Apostle of Christ
-    *   Midnight Sun (2018)
-    *   Unsane (2018)
     *   Tyler Perry's Acrimony
     *   God's Not Dead: A Light in Darkness
-    *   Ready Player One
     *   A Quiet Place
+    *   Blockers
+    *   Chappaquiddick
+    *   The Miracle Season
+    *   Borg vs McEnroe
+    *   Rampage (2018)
+    *   Blumhouse's Truth or Dare (2018)
     *   See All Coming Soon
     
     Explore More
@@ -76,7 +78,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   ‘Avengers: Infinity War’: Infiltrating Marvel’s Top-Secret Clash of the Mad Titans Read More
     *   ‘Avengers: Infinity War’ Directors Reveal 10 Secrets About the Movie From the Set Read More
-    *   Watch Awesome New 'Avengers: Infinity War' Trailer Read More
+    *   Exclusive: Steven Spielberg Hopes to Make Both 'Indiana Jones 5' and 'West Side Story' Next Year Read More
     
     Explore Content
     *   Movie Reviews
@@ -286,7 +288,7 @@ New + Coming soon
 
 *   A Wrinkle in Time
 *   Tomb Raider (2018)
-*   Pacific Rim: Uprising (2018)
+*   Pacific Rim Uprising (2018)
 *   Ready Player One
 *   Avengers: Infinity War
 *   Deadpool 2
