@@ -37,7 +37,6 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   Sabrina's Picks
-*   Lucky You
 *   $7 Tees
 *   Create Your Suit for $25
 *   Spring Break
@@ -95,7 +94,6 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Lucky You
 *   $8 Tees
 *   Buy 1 Get 2 Free
 *   Denim Guide
@@ -368,7 +366,6 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Sabrina's Picks
-        *   Lucky You
         *   $7 Tees
         *   Create Your Suit for $25
         *   Spring Break
@@ -422,7 +419,6 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Lucky You
         *   $8 Tees
         *   Buy 1 Get 2 Free
         *   Denim Guide
@@ -683,7 +679,7 @@ Stay Connected
 *   Give $15, Get $15
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
 
 Refer a friend and get $15 off.
 
