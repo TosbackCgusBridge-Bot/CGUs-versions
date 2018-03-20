@@ -216,11 +216,59 @@ CUSTOMER SERVICE
 *   Replacement parts
 *   Submit Product Ideas
 
-**\*Free shipping offer is valid on orders totaling $50 or more after discounts and before shipping, handling, and/or taxes are added, and applies automatically at checkout. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/31/2018. We reserve the right to change or discontinue this offer at any time.**
+**\*Free standard shipping offer is valid on orders totaling $25 or more after discounts and before shipping, handling, and/or taxes are added, and applies automatically at checkout. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 4/1/18. We reserve the right to change or discontinue this offer at any time.**
 
 Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use. ©2018 Mattel All Rights Reserved.
 
-COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)CanadaCanada (Francais)China (中国)Croatia (Hrvatska)Czech Republic (Cheskà Republika)Denmark (Danmark)Estonia(Eesti)Finland (Suomi)FranceGermany (Deutschland)Greece (Ελλάδα)Hong Kong (English)Hong Kong (香港)Hungary (Magyarorszàg)IndiaIndonesia (bəˈhɑːsə)Israel (ישראל)Italy (Italia)Japan (日本)Korea (한국)Latvia(Latvija)Lithuania(Lietuva)MexicoNetherlands (Nederland)Norway (Norge)Poland (Polska)PortugalRomania (România)Russia (Россия)Slovakia (Slovensko)Slovenia (Slovenija)South AfricaSoutheast AsiaSpain (España)Sweden (Sverige)SwitzerlandTaiwan (臺灣)The Kingdom of Saudi Arabia (المملكة العربية السعودية)Turkey (Türkiye)Ukraine (Україна)United KingdomUnited StatesUnited States (Español)
+COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)CanadaCanada (Francais)China (中国)Croatia (Hrvatska)Czech Republic (Cheskà Republika)Denmark (Danmark)Estonia(Eesti)Finland (Suomi)FranceGermany (Deutschland)Greece (Ελλάδα)Hong Kong (English)Hong Kong (香港)Hungary (Magyarorszàg)IndiaIndonesia (bəˈhɑːsə)Israel (ישראל)Italy (Italia)Japan (日本)Korea (한국)Latvia(Latvija)Lithuania(Lietuva)MexicoNetherlands (Nederland)Norway (Norge)Poland (Polska)PortugalRomania (România)Russia (Россия)Slovakia (Slovensko)Slovenia (Slovenija)South AfricaSoutheast AsiaSpain (España)Sweden (Sverige)SwitzerlandTaiwan (臺灣)The Kingdom of Saudi Arabia (المملكة العربية السعودية)Turkey (Türkiye)Ukraine (Україна)United KingdomUnited StatesUnited States (Español)United States 
+
+*   Australia
+*   Belgium (België)
+*   Brazil (Brasil)
+*   Bulgaria (България)
+*   Canada
+*   Canada (Francais)
+*   China (中国)
+*   Croatia (Hrvatska)
+*   Czech Republic (Cheskà Republika)
+*   Denmark (Danmark)
+*   Estonia(Eesti)
+*   Finland (Suomi)
+*   France
+*   Germany (Deutschland)
+*   Greece (Ελλάδα)
+*   Hong Kong (English)
+*   Hong Kong (香港)
+*   Hungary (Magyarorszàg)
+*   India
+*   Indonesia (bəˈhɑːsə)
+*   Israel (ישראל)
+*   Italy (Italia)
+*   Japan (日本)
+*   Korea (한국)
+*   Latvia(Latvija)
+*   Lithuania(Lietuva)
+*   Mexico
+*   Netherlands (Nederland)
+*   Norway (Norge)
+*   Poland (Polska)
+*   Portugal
+*   Romania (România)
+*   Russia (Россия)
+*   Slovakia (Slovensko)
+*   Slovenia (Slovenija)
+*   South Africa
+*   Southeast Asia
+*   Spain (España)
+*   Sweden (Sverige)
+*   Switzerland
+*   Taiwan (臺灣)
+*   The Kingdom of Saudi Arabia (المملكة العربية السعودية)
+*   Turkey (Türkiye)
+*   Ukraine (Україна)
+*   United Kingdom
+*   United States
+*   United States (Español)
 
 *   Mattel, Parent Co.
 *   Careers
