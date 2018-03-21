@@ -4,13 +4,13 @@ advertising@ bostonherald.com
 
 _617-619-6185_
 
-For Print / Digital Advertising, please contact: Kathleen Rush
+For Print / Digital Advertising, please contact: Doris Picardi
 
-V.P. of Display / Digital Advertising
+Display Advertising Director
 
-kathleen.rush@bostonherald.com
+doris.picardi@bostonherald.com
 
-_617-619-6183_
+_617-619-6123_
 
 For Classified Advertising:
 
