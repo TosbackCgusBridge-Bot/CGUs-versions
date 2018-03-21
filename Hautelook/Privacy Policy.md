@@ -8,7 +8,40 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   SPANX
+    *   Jay Godfrey &. ML Monique Lhuillier
+    *   Trina Turk
+    *   New Balance
+    *   Robin Piccone Swim
+    *   KitchenAid
+    *   Kitchen Kitsch: Wine-Themed Hand Towels &. More
+    *   Free Shipping: Lighting &. More Starting at $24
+    *   Color Pop: Wall Murals &. More
+    *   Free Shipping: Accent Furniture Under $200
+    *   Genetic Denim
+    *   New Balance Men
+    *   go>. by GoSilk Up to 75% Off
+    *   Valentino by Mario Valentino
+    *   Alberto Fermani Up to 70% Off
+    *   On-Trend Jewelry Starting at $15
+    *   Trask Up to 55% Off
+    *   Dizzy Sandals Under $20
+    *   GrandeLASH-MD Lips &. Lashes
+    *   Free Shipping: Sterling Silver Jewelry from $15
+    *   NuTika Hair Tools
+    *   Pitch Perfect: Baseball Caps from $10
+    *   Publish Brand
+    *   Barbour
+    *   Up to 50% Off: Watches ft. Victorinox Swiss Army
+    *   Report Collection
+    *   New Balance Kids
+    *   DKNY Girls &. More
+    *   Go Couture Kids
+    *   Watchitude
+    *   New Balance Kids' Activewear
+    *   Line &. Dot
     *   UGG
+    
     *   UGG Men
     *   UGG Kids
     *   UGG Sleep
@@ -41,17 +74,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Men's Shoes Up to 70% Off
     *   Gevril Watches Up to 90% Off
     *   Free Shipping: Luxe Bedding Blowout
-    
-    *   Catherine Catherine Malandrino Up to 70% Off
-    *   ECCO
-    *   Luma Italy Up to 75% Off
     *   Spring Gems: Diamond Baguettes, Labradorite &. More
-    *   Antelope
-    *   Free City
-    *   Matt Bernson
-    *   New Arrivals: Spring Dresses ft. THML
-    *   Tart Swim
-    *   Best of Italy: Totes, Crossbodies &. More
+    
     *   Crown Brush Up to 70% Off
     *   John Varvatos Collection
     *   ECCO Men
@@ -64,18 +88,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   RuffleButts &. RuggedButts
     *   Spring Trend Earrings &. More Under $25
     *   Oshkosh Shoes Up to 55% Off
-    *   Nicole Miller
-    *   Go Couture Dresses
-    *   Step into Comfort: Shoes ft. Clarks &. Vionic
-    *   Amanda Uprichard
-    *   Tiare Hawaii
     *   Free Shipping: Modern Rug Steals
-    *   Boho Chic
-    *   14K Gold Jewelry Steals
-    *   Soludos Starting at $35
-    *   Meredith Leigh Gemstone Jewelry Under $80
-    *   Minnetonka Under $50
-    
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Skinny Tan Starting at $10
     *   Vacation Ready: Travel Beauty Essentials
@@ -85,31 +98,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Joe Fresh Men
     *   Kinetix
     *   Free Shipping: Fine Art Blowout
-    *   Joe Fresh Kids Starting at $5
-    *   Breed Watches Starting at $60
-    *   Vacation Ready: Mr. Swim &. More
-    *   Vacation Nation: Men's Slip-Ons &. More from $25
-    *   Diesel Men
-    *   Soul Star
-    *   Steve Madden Men's Shoes Starting at $30
-    *   Steve Madden Men's Accessories
     *   Storage Must-Haves Starting at $10
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Fragrances We Love Starting at $10
-    *   NIGHT Youth-Boosting Pillows
     *   Free Shipping: BergHOFF
     *   Free Shipping: Fashion &. Floral Art
     *   Free Shipping: Pet Beds &. More
     *   Free Shipping: Luxe Bedding Starting at $20
-    *   Blanc Noir Sport
-    *   Free Shipping: Modern Farmhouse Decor
-    *   Free Shipping: Boho-Chic Decor Up to 70% Off
-    *   Free Shipping: Brazilian Cowhide Up to 80% Off
-    *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Lucca Couture &. More Starting at $15
-    *   Great Greenery: Faux Succulents Under $20
+    *   Catherine Catherine Malandrino Up to 70% Off
+    *   ECCO
+    *   Luma Italy Up to 75% Off
+    *   New Arrivals: Spring Dresses ft. THML
 *   WomenShop Sale Events
     
+    *   SPANX
+    *   Jay Godfrey &. ML Monique Lhuillier
+    *   Trina Turk
+    *   New Balance
+    *   Robin Piccone Swim
+    *   Genetic Denim
+    *   go>. by GoSilk Up to 75% Off
+    *   Valentino by Mario Valentino
+    *   Alberto Fermani Up to 70% Off
+    *   On-Trend Jewelry Starting at $15
+    *   Trask Up to 55% Off
+    *   Dizzy Sandals Under $20
+    *   GrandeLASH-MD Lips &. Lashes
+    *   Free Shipping: Sterling Silver Jewelry from $15
+    *   NuTika Hair Tools
+    *   Pitch Perfect: Baseball Caps from $10
+    *   Line &. Dot
     *   UGG
     *   UGG Sleep
     *   Vintage-Inspired Graphic Tees &. More from $20
@@ -118,6 +135,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Mustard Seed
     *   Tea &. Cup
     *   Perricone MD
+    
     *   Diane von Furstenberg Sun &. More Up to 70% Off
     *   David Lerner
     *   Flattering Fits: Wrap &. Surplice Styles
@@ -131,73 +149,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rain or Shine: Parkas &. More Up to 70% Off
     *   Fresh Faced: Serums for Every Need Up to 90% Off
     *   Gevril Watches Up to 90% Off
-    *   Catherine Catherine Malandrino Up to 70% Off
-    *   ECCO
-    *   Luma Italy Up to 75% Off
     *   Spring Gems: Diamond Baguettes, Labradorite &. More
-    *   Antelope
-    
-    *   Free City
-    *   Matt Bernson
-    *   New Arrivals: Spring Dresses ft. THML
-    *   Tart Swim
-    *   Best of Italy: Totes, Crossbodies &. More
     *   Crown Brush Up to 70% Off
     *   PinkBlush Maternity
     *   Spring Trend Earrings &. More Under $25
-    *   Nicole Miller
-    *   Go Couture Dresses
-    *   Step into Comfort: Shoes ft. Clarks &. Vionic
-    *   Amanda Uprichard
-    *   Tiare Hawaii
-    *   Boho Chic
-    *   14K Gold Jewelry Steals
-    *   Soludos Starting at $35
-    *   Meredith Leigh Gemstone Jewelry Under $80
-    *   Minnetonka Under $50
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Skinny Tan Starting at $10
     *   Vacation Ready: Travel Beauty Essentials
-    *   Fragrances We Love Starting at $10
-    *   NIGHT Youth-Boosting Pillows
-    *   Blanc Noir Sport
-    *   Lucca Couture &. More Starting at $15
+    *   Catherine Catherine Malandrino Up to 70% Off
+    *   ECCO
+    *   Luma Italy Up to 75% Off
+    *   New Arrivals: Spring Dresses ft. THML
     
     Shop By Category
     *   Clothing
     *   Jewelry
     *   Shoes
-    *   Tech Accessories
-    *   Handbags
-    *   Watches
-    *   Accessories
     *   Lingerie
+    *   Accessories
+    *   Watches
+    *   Handbags
 *   MenShop Sale Events
     
+    *   New Balance Men
+    *   Publish Brand
+    *   Barbour
+    *   Up to 50% Off: Watches ft. Victorinox Swiss Army
+    *   Report Collection
     *   UGG Men
     *   The Kooples Men
     *   Perry Ellis
     *   Men's Denim Shop ft. True Religion
     *   Men's Shoes Up to 70% Off
     *   Gevril Watches Up to 90% Off
+    
     *   John Varvatos Collection
     *   ECCO Men
     *   Smyth &. Gibson Dress Shirts &. More
     *   Jared Lang
     *   Seven7
     *   Rogue Up to 85% Off
-    
     *   David Donahue
     *   Wolverine Men
     *   Joe Fresh Men
     *   Kinetix
-    *   Breed Watches Starting at $60
-    *   Vacation Ready: Mr. Swim &. More
-    *   Vacation Nation: Men's Slip-Ons &. More from $25
-    *   Diesel Men
-    *   Soul Star
-    *   Steve Madden Men's Shoes Starting at $30
-    *   Steve Madden Men's Accessories
     
     Shop By Category
     *   Clothing
@@ -206,59 +201,65 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   New Balance Kids
+    *   DKNY Girls &. More
+    *   Go Couture Kids
+    *   Watchitude
+    *   New Balance Kids' Activewear
     *   UGG Kids
+    
     *   Butter Super Soft
     *   Last-Minute Easter Finds: Toys &. More
     *   PinkBlush Maternity
     *   Paulinie
     *   RuffleButts &. RuggedButts
     *   Oshkosh Shoes Up to 55% Off
-    *   Joe Fresh Kids Starting at $5
     
     Shop By Category
     *   Girls Sizes 2T-6X
+    *   Girls Sizes 7-16
     *   Girls' Shoes
+    *   Boys' Shoes
+    *   Toys
+    *   Kids Accessories
     *   Baby Girl
     *   Boys Sizes 2T-7
-    *   Girls Sizes 7-16
     *   Baby Boy
-    *   Boys' Shoes
     *   Boys Sizes 8-20
     *   Baby Gear &. Essentials
-    *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   KitchenAid
+    *   Kitchen Kitsch: Wine-Themed Hand Towels &. More
+    *   Free Shipping: Lighting &. More Starting at $24
+    *   Color Pop: Wall Murals &. More
+    *   Free Shipping: Accent Furniture Under $200
     *   UGG Home
     *   Free Shipping: Vintage-Inspired Rustic Decor
     *   Luxe Candles: Monograms, Metallics &. More
     *   Free Shipping: Luxe Bedding Blowout
+    
     *   Closet, Bath &. Vanity Storage from $10
     *   Free Shipping: Modern Rug Steals
     *   Free Shipping: Fine Art Blowout
     *   Storage Must-Haves Starting at $10
     *   Free Shipping: Down &. Memory Foam Essentials
-    
     *   Free Shipping: BergHOFF
     *   Free Shipping: Fashion &. Floral Art
     *   Free Shipping: Pet Beds &. More
     *   Free Shipping: Luxe Bedding Starting at $20
-    *   Free Shipping: Modern Farmhouse Decor
-    *   Free Shipping: Boho-Chic Decor Up to 70% Off
-    *   Free Shipping: Brazilian Cowhide Up to 80% Off
-    *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Great Greenery: Faux Succulents Under $20
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Organization
     *   Accent Furniture
-    *   Rugs
     *   Outdoor Living
-    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   GrandeLASH-MD Lips &. Lashes
+    *   NuTika Hair Tools
     *   Perricone MD
     *   Beauty Must-Haves Starting at $10
     *   Fragrances by Margot Elena
@@ -267,15 +268,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Skinny Tan Starting at $10
     *   Vacation Ready: Travel Beauty Essentials
-    *   Fragrances We Love Starting at $10
-    *   NIGHT Youth-Boosting Pillows
     
     Shop By Category
     *   Skin Care
     *   Hair Care
-    *   Fragrance
     *   Makeup
     *   Tools &. Accessories
+    *   Fragrance
     *   Bath &. Body
     *   Nails
     *   Beauty Accessories
