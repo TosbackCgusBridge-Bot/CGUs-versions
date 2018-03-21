@@ -141,5 +141,3 @@ Connexity
 © 2018 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
 Connexity®, Audience Discovery® and Hitwise® are registered trademarks of Connexity, Inc.
-
-SumoFocus Retriever
