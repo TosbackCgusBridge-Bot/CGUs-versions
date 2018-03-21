@@ -240,10 +240,12 @@ It’s Tournament Time! Shop team colors and tees.
         *   grehy
         *   birdiebee
         *   Dibs
+        *   Simple Stripes
         *   Fresh Florals
         *   Mellow Yellow
-        *   Bright Whites
         *   (Swim) Suit Up
+        *   Bright Whites
+        *   Spring Soles
         
         *   Men's Trends
         
