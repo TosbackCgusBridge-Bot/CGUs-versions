@@ -25,12 +25,12 @@ Gift Cards | Offers | Sign In Sign Out
     *   Paul, Apostle of Christ
     *   Sherlock Gnomes
     *   Unsane (2018)
+    *   Isle of Dogs
     *   Back To Burgundy
     *   Bag of Marbles
     *   Final Portrait
     *   Getting Grace
     *   Hichki
-    *   Isle of Dogs
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -267,9 +267,9 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   'Avengers: Infinity War' Gift With Purchase
+*   'Midnight Sun' Gift With Purchase
     
-    Choose 1 of 5 FREE\* exclusive posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* song download of 'Burn so Bright' performed by Bella Thorne with ticket purchase. BUY TICKETS
     
 *   Get 2 Movies When You Connect
     
@@ -328,4 +328,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
