@@ -4,14 +4,14 @@ Menu PayPal
     Personal*   What is PayPal? _Learn how PayPal works in your everyday life_
     *   Check Out Securely Online _Use your credit cards or other funds_
     *   PayPal Credit &. Cards _Our credit, debit, prepaid cards &. PayPal Credit_
-    *   Mobile Wallet _Pay in stores with our app_
+    *   PayPal App _Transfer money and track activity with our app_
     *   PayPal Can Do That _Discover ways to manage and move your money_
     *   Shopping and More _Deals, gift cards and donations_Close
 *   Business
     Business*   All Business Solutions _Merchant services, invoicing, and more_
     *   Get Paid in Person _Mobile card readers and POS solutions_
     *   Credit Card Processing _Accept credit, debit cards, and PayPal_
-    *   Borrow for Your Business _Affordable business loans_
+    *   Small Business Loans _Fast and fair financing_
     *   Add PayPal to Your Checkout _Add the button to accept payments_
     *   Offer Credit to Your Customers _Promote financing to help increase sales_Close
 *   Send
@@ -96,4 +96,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=a63a885b4afe4&rsta=en\_US&pgtf=Nodejs&s=ci&csci=c0f186ace7a045e3b6cf863fac56aa73&comp=mppnodeweb&tsrce=mppnodeweb&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=a7ecb34110930&rsta=en\_US&pgtf=Nodejs&s=ci&csci=1386dc946f7d47d78a6cd4ea2f0230f6&comp=mppnodeweb&tsrce=mppnodeweb&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="" height="1" width="1" border="0">.
