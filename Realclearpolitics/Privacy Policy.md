@@ -103,53 +103,53 @@
     *   About
     *   Media Kit
 
-*   _Albert Hunt_: The Blamer-in-Chief in the Oval Office
+*   _Chris Cillizza_: Trump Is Done Playing Nice With Mueller
     
-*   _Roger Kimball_: A 'Higher Loyalty' to Their Inflated Sense of Virtue
+*   _Wesley Pruden_: A Hero Only to a Lynch Mob
     
-*   _Sen. Mark Warner_: Congress Must Draw a Red Line to Protect Mueller
+*   _Michelle Goldberg_: Trump's High-Tech Dirty Tricksters
     
-*   _Tom Shattuck_: Score McCabe's Ouster as a Victory for President Trump
+*   _Ben Shapiro_: What's Genius for Obama Is Scandal When It Comes to Trump
     
-*   _Everett &. Robillard_: Republicans Bet Their Senate Majority on Trump
+*   _Ron Brownstein_: Small-Town America Has Gotten Economic Jolt Under Trump
     
-*   _Juan Williams_: Students Change the Tide on Guns
+*   _Cliff Maloney_: 15 Years Later, It's Time to Bring Our Troops in Iraq Home
     
-*   _Dakota Hanchett_: Why I Didn't Join My School's Walkout
+*   _Sen. Carl Levin_: Congress Is Falling Short of Its Oversight Duties
     
-*   _Peter Bergen_: Kushner and MBS: A Tale of Two Princes
+*   _James Arkin_: GOP Research Group Has Growing Role to Play
     
-*   _Nikolas Gvosdev_: What Putin's Reelection Means for Russia and the Rest of Us
+*   _Abby Aguirre_: Kamala Harris Is Dreaming Big
     
-*   _Andrew Bacevich_: The Iraq Reckoning Still to Come
+*   _Katherine Timpf_: Hillary Should Just Admit She Hates Half of America
     
-*   _Ethan Baron_: Silicon Valley Facing Unprecedented Backlash
+*   _Joanna Allhands_: Why the Austin Bombings Are So Terrifying
     
-*   _Michael Graham_: What If Trump Is Right and There Is No Collusion?
+*   _Ken Herman_: She's 93. He's 43. She Loves Trump. He Doesn't. Road Trip!
     
-*   _David Frum_: Firing McCabe Is Just the Start
+*   _Andrew Exum_: One Morning, in Baghdad
     
-*   _Robert Kuttner_: How Globalists Ceded the Field to Donald Trump
+*   _William Ruger_: To Defend America, Don't Overreach
     
-*   _Michael Warren_: The Protectionist's Protectionist
+*   _Michael Brendan Dougherty_: The Left's Social-Media Panic
     
-*   _Frank Bruni_: Democrats Are Primed for 2018 and Looking Pretty in 2020
+*   _McNamee &. Parakilas_: Facebook Breach: It's Time to Regulate Data
     
-*   _Bill Whalen_: To Retake House, Dems Will Need More Breaks -- and Lambs
+*   _Paul Bernal_: There's No Scandal: This Is How Facebook Works
     
-*   _James Bamford_: Trump's War on the U.S. Intelligence Community
+*   _Jeffrey Toobin_: The Craven Firing of Andrew McCabe
     
-*   _Byron York_: If Not Flynn and Manafort, Then Who Was Colluding?
+*   _Tucker Carlson_: To the Left, Punishing McCabe Was the Crime
     
-*   _Daniel Mitchell_: Foster Economic Success With Employment-Based Visas
+*   _Dean Obeidallah_: Dems Finally Uniting Over Their Shared Hatred of Trump
     
-*   _Ben Zimmer_: When Did 'Amnesty' Become a Dirty Word?
+*   _Andrew Malcolm_: Both Parties More Dysfunctional Than the White House
     
-*   _Andrew Klavan_: Mark Zuckerberg and the New Cornfield
+*   _Verhovek_: 5 Things to Watch For in the Illinois Primary
     
-*   _Ellie Mae O'Hagan_: No One Can Pretend Facebook Is Harmless Fun Anymore
+*   _Liz Peek_: Hillary's Latest Excuse: Stepford Wives Cost Me the Election
     
-*   _Paul Sperry_: Broward County's Reverse Jail-to-School Pipeline
+*   _Rebecca Luckett_: I'm a Catholic Obstetrician Who Had an Abortion
     
 
 *   Previous
@@ -270,26 +270,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve40
-    *   Disapprove56Disapprove +16
+*   Florida Senate - Scott vs. NelsonGravis
+    *   Nelson44
+    *   Scott40Nelson +4
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove52Disapprove +5
+*   President Trump Job ApprovalGallup
+    *   Approve40
+    *   Disapprove56Disapprove +16
 *   Direction of CountryRasmussen Reports
     *   Right Direction41
     *   Wrong Track53Wrong Track +12
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve43
-    *   Disapprove53Disapprove +10
 
 More Latest Polls In The News
 
+*   Trump: We Are Going To Defy Predictions Once Again, Republicans Will Keep The House Majority
+*   Sen. Bernie Sanders: "Impeachable Offense" If Trump "Forces Mueller Out," "It Is Not Acceptable"
+*   Schiff: "Necessary" For President Trump To Do "Very Lengthy," "In-Person Interview" With Mueller
+*   Klobuchar Calls For Regulating Facebook Over 'Cambridge Analytica'. Zuckerberg Must Testify
 *   MSNBC's Rick Tyler: Trump "Is Going To Fire Robert Mueller" And Republicans Will Do "Nothing"
-*   Sen. Cory Booker to Trump: "If You're As Innocent As You Say," Let Mueller Finish His Investigation
-*   Kallstrom: Brennan And Obama Are The People Who Committed Felonies, Not Gen. Flynn
-*   Schiff: Dems' Report Will "Show The Facts Supporting The Issue Of Collusion"
-*   House Judiciary Chairman Goodlatte: FBI Stonewalling, Redacting Documents. Committee Will Subpoena
 
 *   Politics
 *   Policy
