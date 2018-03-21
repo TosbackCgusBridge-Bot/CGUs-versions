@@ -135,7 +135,7 @@ View STR-DH590 AV Receiver on Instagram
 
 With Xperia XZ2 and the 1000XM2 Wireless Noise-Canceling Headphones, gear up for an audio experience that sounds as smooth as it looks.
 
-1 hour ago
+1 day ago
 
 View Tweet
 
