@@ -279,7 +279,7 @@ Instagram 9% 
     
 *   Show Less ...
 
-Pinterest 19%  Wikipedia 9% 
+Pinterest 18%  Wikipedia 9% 
 
 *   Wikipedia
     
@@ -309,7 +309,7 @@ Google+ 9% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 19%  Music 8% 
+Linkedin 18%  Music 9% 
 
 *   Pandora
     
@@ -355,7 +355,7 @@ Linkedin 19%  Music 8% 
     
 *   Show Less ...
 
-Photo Albums 8% 
+Photo Albums 9% 
 
 *   Flickriver
     
@@ -370,7 +370,7 @@ Photo Albums 8% 
     Missouri Department of Transportation Central Office 105 W. Capitol Avenue Jefferson City, MO 65102 1-888-ASK-MODOT (275-6636) 1-866-831-6277 (Motor Carrier Services)
     
 
-Myspace 8% 
+Myspace 9% 
 
 *   Privacy Policy - 49086242
     
@@ -394,7 +394,7 @@ Myspace 8% 
     
 *   Show Less ...
 
-Web Search 18%  Images 8% 
+Web Search 18%  Images 9% 
 
 9
 
