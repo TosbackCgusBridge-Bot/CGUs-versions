@@ -1,4 +1,4 @@
-SUBSCRIBE NOWto get full access
+close dialog1st month freeSpring Sale Now On Subscribe Nowclose dialog
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOWto get full access
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso man dies in crash after 'medical event'LocalExpect Downtown closures as streetcar arrivesNewsNM man killed in East El Paso car crash FridayTrafficDriver sought in wreck that killed CBP officerCrime'Cheech' Marin brings his Chicano art to El PasoArtsBring on ink, music at Texas Tattoo ShowdownNewsClint ISD technology head charged in iPad theftsCrimeMicrosoft picks El Paso for TechSpark programBusinessCocaine bound for mall seized at borderCrimeTerry seems right fit for UTEP basketballCollegeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowNo one hurt after excavator hits US 54 bridgeTrafficPolice investigating fatal Northeast shootingNewsPhil Johnson leaves UTEP basketballSportsElderly man dies in crash involving teen driverCrimeMan accused of firing shots at home in drug caseCrimeHave you seen El Paso's most wanted fugitives?CrimeRollover crash reported at I-10 west at PiedrasNewsStreetcar No. 1506 is back in the Sun CityLocalDive into the new Olympic-sized pool on April 7LocalDog sniffs out 15 pounds of cocaine in car trunkCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,3 +142,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog1st month freeSpring Sale Now On Subscribe Nowclose dialog
