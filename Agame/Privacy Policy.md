@@ -350,6 +350,10 @@ If you have any additional questions or requests, you may send an email to info@
 
 100209
 
+Play tons of free online games at Agame.com!
+
+Look no further. Agame.com is your trusted partner for the best, online html5 games. Continuously updated with new, free games to play, this infinite source of games will without a doubt have you coming back for more gaming fun. Enjoy a myriad of games from action-packed shooters, speed-of-light defying racing games, bridge-dangling adventures, to head-scratching puzzles. Come on in and join the frenzy!
+
 Welcome to Agame.com, your zone to play free online games. Stocked each day with new free games, including action games, adventure games, board &. card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.
 
 Languages
