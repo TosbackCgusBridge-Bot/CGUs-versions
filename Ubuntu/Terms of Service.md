@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 20 March 2018 ›
+*   LXD weekly status #39 ›
 *   Firefox Quantum snap now available on Linux-based devices ›
 *   Your first robot: Sharing with others \[5/5\] ›
 *   Ubuntu Desktop weekly update – 16th March 2018 ›
-*   NVIDIA GTC 2018 ›
-*   MAAS 2.4.0 Alpha 2 released! ›
