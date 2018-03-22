@@ -365,37 +365,46 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers Markdown **Madness**
+Home >. Filter by specs Offers
 
-Our best performers are ready to take the stage.  
-Save up to 75% off through March 21.
+Ultralight. Ultrapowerful. Ultra-no-brainer.
 
-Shop select sale items >.
+Shop ThinkPad X1 Carbon 6th Gen >.
 
-ThinkAgile VX Series
+For those who set—not follow—trends.  
+With 8th Gen Intel® Core® i7 power in polished frames and premium audio-visuals.
 
-Simplify IT. Cut costs. Accelerate results.
+Shop 15">  
+Shop 14">  
+Shop 13">.
 
-Learn more >.
+Different Innovates Better
+
+Transform your data center with ThinkSystem and ThinkAgile solutions.
+
+Play Video
+
+Learn more >
 
 *   1
 *   2
+*   3
 
 TODAY'S SALES
 
 Great deals on select products.
 
-Business Buzzer Beaters
+Lenovo Small Business
 
-Great deals on select pcs &. tablets. Sale ends March 21st at 11:59pm EST
+Explore how Lenovo can be your small business partner.
 
-Lenovo Explorer Headset
+All New ThinkPad X380 Yoga
 
-Immersive headset for windows mixed reality on SALE now
+Adapts to work with you—as a laptop, tablet, or anything in between. Configure yours now.
 
-HOW MUCH COULD YOU SAVE?
+Flash Sale
 
-Get a mystery discount ecoupon when you register to receive our emails
+Save up to $650 off Select Yoga Laptops and Accessories. Sale Ends March 26.
 
 Awaken your inner Jedi with a new smartphone-powered augmented reality experience.
 
@@ -508,9 +517,7 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new window
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
