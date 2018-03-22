@@ -174,7 +174,7 @@ Back to Mozilla Privacy Policy Mozilla Mozilla
 *   Source code for this page
 *   *   Twitter (@mozilla)
     *   Facebook (Mozilla)
-    *   Instagram (@mozillagram)
+    *   Instagram (@mozilla)
 
 Firefox
 
