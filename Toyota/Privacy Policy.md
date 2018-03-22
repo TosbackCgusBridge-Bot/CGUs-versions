@@ -1,6 +1,6 @@
 *   menu
 
-*   Your Location: 67301 Zip: 67301
+*   Your Location: 49618 Zip: 49618
 *   Certified Used Vehicles
 *   Owners
 *   Español
