@@ -366,6 +366,8 @@ Owners
 *   Mobile Phone Apps
 *   Pay My Bill
 *   Drivers Website
+*   Shop Accessories
+*   Shop Parts
 
 Service &. Warranty
 
@@ -427,6 +429,8 @@ Language
     *   Mobile Phone Apps
     *   Pay My Bill
     *   Drivers Website
+    *   Shop Accessories
+    *   Shop Parts
 *   Service &. Warranty
     *   Maintenance Schedule
     *   Find a Dealer
