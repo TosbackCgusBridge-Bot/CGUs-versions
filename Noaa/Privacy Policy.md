@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had its coolest February since 2014 Sea ice coverage at the poles remains at record- and near-record lows AROUND NOAA // Study: Climate change soon to be main cause of heat waves in West, Great Lakes Spring Outlook: U.S. to see moderate flooding, warmer-than-normal temperatures Wildfire season in Southern Plains off to a strong start after a dry winter Sorry, Groundhog: February and Winter 2018 were warmer than average for the U.S.
+Enter Search Terms Globe had its coolest February since 2014 Sea ice coverage at the poles remains at record- and near-record lows AROUND NOAA // Featured photo: It’s lights out at the bottom of the world, for now What are atmospheric rivers? Study: Climate change soon to be main cause of heat waves in West, Great Lakes Spring Outlook: U.S. to see moderate flooding, warmer-than-normal temperatures
 
 *   About our agency
 *   News and features
