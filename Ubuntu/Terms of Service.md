@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kernel Team summary: March 21, 2018 ›
+*   From VMWare To Canonical OpenStack ›
 *   Ubuntu Server development summary – 20 March 2018 ›
 *   LXD weekly status #39 ›
 *   Firefox Quantum snap now available on Linux-based devices ›
-*   Your first robot: Sharing with others \[5/5\] ›
-*   Ubuntu Desktop weekly update – 16th March 2018 ›
