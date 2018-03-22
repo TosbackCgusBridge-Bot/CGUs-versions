@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-It’s Tournament Time! Shop team colors and tees.
+Enter Now for a chance to win a $500 Buckle Gift Card.
 
 *   Women
 *   Men
@@ -19,13 +19,16 @@ It’s Tournament Time! Shop team colors and tees.
     *   My Account
     *   |
     *   Logout
-*   MY FAVORITESFAVORITED! Login to save this item to your Buckle account.
+*   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
     *   |
-    *   Register
+    *   RegisterView Favorites
 *   MY BAG
 
-*   MY FAVORITES
+*   MY FAVORITES Login to save favorite items to your Buckle account.
+    *   Login
+    *   |
+    *   RegisterView Favorites
 *   MY BAG
 
 *   Women
@@ -258,6 +261,7 @@ It’s Tournament Time! Shop team colors and tees.
         *   Salt Life
         *   Band Tees
         *   Champion
+        *   Island Prints
         
         *   Looks
         
@@ -515,7 +519,7 @@ The Buckle, Inc.
 Kearney, NE 68845  
 Phone: 800.626.1255
 
-Receive The Latest From BuckleThe previous field has an error:Please enter your email address. The input is not a valid email address GIFT CARD
+Receive The Latest From BuckleEmail AddressThe previous field has an error:Please enter your email address. The input is not a valid email address GIFT CARD
 
 *   Buy Now
 *   Check Balance
@@ -597,7 +601,7 @@ RESERVE IN STORE
 3.  Data Security Incident
 4.  Transparency In Supply Chains
 
-Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.×Military Status×
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.Account×Military StatusBag Size ExceededClose Cart Threshold Modal×
 
 Did you mean to add items to your wish list?
 
@@ -605,5 +609,9 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-×**Hey You!**Want to stay updated on our latest styles and promotions?  
-Sign up for email and let’s make things official. Submit Email×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
+Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
+
+Want to stay updated on our latest styles and promotions?  
+Sign up for email and let’s make things official.
+
+Email Address Submit EmailQuick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
