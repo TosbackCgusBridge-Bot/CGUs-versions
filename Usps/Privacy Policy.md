@@ -122,27 +122,7 @@ Our History
 *   Additional Resources
 *   Awards
 
-Postal Facts
-
-*   Size and Scope
-*   Decade of Facts and Figures
-*   Top 12 Things to Know
-*   This Post Office Is Always Open
-*   History. Foundation. Art. Preservation.
-*   People. Community. Social Responsibility
-*   Postage Stamps
-*   Innovation in the Mail
-*   Postal Blue Goes Green
-*   Priority: You
-*   Innovative Technologies - Systems at Work
-*   Information Technology
-*   Security. Law Enforcement. Preserving the Trust.
-*   Defending the Frontier. Enforcing the Law.
-*   Military Postal Service Agency
-*   One Day by the Numbers
-*   Fun facts
-
-Privacy Policy Highlights  
+Postal Facts Privacy Policy Highlights  
 
 Scope  
 This statement applies to USPS® customers and usps.com visitors, unless a separate privacy notice is prominently displayed.
