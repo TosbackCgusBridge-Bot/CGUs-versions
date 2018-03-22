@@ -402,4 +402,4 @@ You have money questions. Bankrate has answers. Our experts have been helping yo
 
 Our tools, rates and advice help no matter where you are on life’s financial journey.
 
-Follow Us <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1453616258274236&amp;ev=PageView&amp;noscript=1">. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2618953619387&amp;event=pagevisit&amp;noscript=1">.
+Follow Us <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">.
