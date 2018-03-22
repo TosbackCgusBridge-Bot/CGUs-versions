@@ -272,6 +272,7 @@ menu Close 0 Free Shipping on $50+
     *   Little Black Suit
     *   Women's Swim Finder
     *   Women's Mix &. Match Tool
+    *   Kids' Swim Shop
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
@@ -642,6 +643,7 @@ menu Close 0 Free Shipping on $50+
         *   Little Black Suit
         *   Women's Swim Finder
         *   Women's Mix &. Match Tool
+        *   Kids' Swim Shop
         *   Water Shoes &. Sandals
         *   Totes &. Beach Bags
         *   Beach Towels
@@ -796,7 +798,7 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 25% off 1 full-price item!
 
 code: KITE pin: 5920 DETAILS
 
