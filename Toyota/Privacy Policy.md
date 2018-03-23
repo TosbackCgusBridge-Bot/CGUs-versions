@@ -72,6 +72,7 @@
 *   $58,365 as shown1 2018 Mirai $58,365 starting1  
     67/67 est MPG14 Specials
 
+*   2019 Corolla Hatchback View More Info
 *   GR Supra Racing Concept View More Info
 *   2019 TRD Pro Series View More Info
 *   2019 Avalon View More Info
@@ -122,7 +123,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 54/50 est MPG17 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
 48/43 est MPG3 $34,270 as shown1 2017 Prius _v_ $26,675 starting1  
 43/39 est MPG8 $58,365 as shown1 2018 Mirai $58,365 starting1  
-67/67 est MPG14 Upcoming Vehicles GR Supra Racing Concept 2019 TRD Pro Series 2019 Avalon FT-AC Concept FT-4X Concept
+67/67 est MPG14 Upcoming Vehicles 2019 Corolla Hatchback GR Supra Racing Concept 2019 TRD Pro Series 2019 Avalon FT-AC Concept FT-4X Concept
 
 *   Careers
 *   Español
@@ -390,14 +391,6 @@ Compare Toyota vs. the Competition
 *   Toyota Corolla vs Honda Civic  
     
 *   Toyota Camry vs Honda Accord  
-    
-*   Toyota Sienna vs Honda Odyssey  
-    
-*   Toyota Tacoma vs Chevrolet Colorado  
-    
-*   Toyota RAV4 vs Honda C-RV  
-    
-*   Toyota Prius vs Chevrolet Volt  
     
 
 Features
@@ -1122,7 +1115,7 @@ Helpful Links
 *   Toyota Rent A Car
 *   Toyota Rent A Car
 *   Toyota Mobility Feature
-*   Entune™
+*   Audio/Multimedia
 *   Mobile Phone Compatibility
 *   Safety Connect®
 *   Toyota Safety Sense™
