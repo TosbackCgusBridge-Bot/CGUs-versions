@@ -103,53 +103,53 @@
     *   About
     *   Media Kit
 
-*   _John Cassidy_: Did Cambridge Analytica Boost Trump to Victory in 2016?
+*   _David Andelman_: Trump Sticks Two Thumbs in China's Eye
     
-*   _Ross Douthat_: Trump Hacked the Media Right Before Our Eyes
+*   _Evan Horowitz_: Trump's China Tariffs Could Actually Work
     
-*   _Alan Dershowitz_: Trump Is Right: Mueller Should Never Have Been Appointed
+*   _Michael Brendan Dougherty_: Zuckerberg Plays Along w/Scapegoating of Facebook
     
-*   _Greg Sargent_: Attacks on Mueller Put Trump in Greater Danger
+*   _Trevor Timm_: Why Facebook Won't Change
     
-*   _Noah Feldman_: Jared Kushner's Dreams of Mideast Peace Are Alive
+*   _David Harsanyi_: It's Time to Put John Brennan Under Oath
     
-*   _Daniel Benaim &. Brian Katulis_: The Passive Foreign Policy President
+*   _Noah Feldman_: Justice Department Headed Down a Dangerous Path
     
-*   _Steve Cortes_: The Donald, the Larry, and the Art of Communication
+*   _Roger L. Simon_: The Deep State Is in Deep Trouble
     
-*   _Richard Trumka_: The Janus-Faced War on Unions
+*   _David Leonhardt_: Does Nancy Pelosi Deserve to Keep Her Job?
     
-*   _Dennis Byrne_: Illinois Governor Bruce Rauner Is Dead Meat
+*   _Evan Bayh_: Why Lipinski's Victory Matters
     
-*   _Edward-Isaac Dovere_: Beto O'Rourke Doesn't Want to Be Dems' Next Big Cause
+*   _Suedeen Kelly_: Russians Are Hacking Our Electric Grid. What's the Plan?
     
-*   _Megan McArdle_: How Safe Are Driverless Cars? It's Too Soon to Tell.
+*   _Dave Grossman_: Kim Gardner's Ridiculous Case Against Eric Greitens
     
-*   _Conrad Black_: The Anti-Trump Effort Backfires
+*   _Luke O'Neil_: How the Internet Has Broken Our Brains
     
-*   _Rep. Adam Schiff_: How the GOP's House Russia Probe Went off the Rails
+*   _Leonid Bershidsky_: Zuckerberg Has No Way Out of Facebook's Quagmire
     
-*   _Mark Davis_: Mueller Must Produce Evidence of Trump's Wrongdoing or Drop It
+*   _Victor Davis Hanson_: Elites in Camouflage
     
-*   _Jeremy Stahl_: Andrew McCabe Is a Key Witness Against Trump
+*   _Eric Wilson_: It's Time to Break Up Facebook
     
-*   _Gary Abernathy_: The DC Bubble's Embarrassing Embrace of Andrew McCabe
+*   _Liz Peek_: Rivals &. Consumers Will Rein in Facebook, Not Regulation
     
-*   _Kara Alaimo_: Why Zuckerberg Needs to Testify Before Congress
+*   _Matt Rosenberg_: Brennan: Putin May Have Compromising Info on Trump
     
-*   _Kalev Leetaru_: The Problem Isn't Cambridge Analytica: It's Facebook
+*   _George Neumayr_: John Brennan's Thwarted Coup
     
-*   _Reid Smith &. Danny Sjursen_: The Iraq War's Legacy, 15 Years On
+*   _Thomas Edsall_: Should Dems Embrace the Center or Abandon It?
     
-*   _Bryant Harris_: Iran Looms Large as Congress Casts Yemen War Vote
+*   _Henry Olsen_: Long Weekend at Kamala's
     
-*   _Cristian Farias_: Mueller's Interest in Obstruction Is Likely Tip of the Iceberg
+*   _Brady &. Parker_: Troubling Signs for Trump w/Women, Independents
     
-*   _Caitlin Huey-Burns_: Trump's Mueller Fixation Seen as Strategic Move
+*   _Alfredo Ortiz_: Health Plans That Level the Playing Field for Small Business
     
-*   _Katie Pavlich_: A Good Guy With a Gun Stops a School Shooting
+*   _Paul Starr_: The Democratic Emergency
     
-*   _Amanda Marcotte_: Trump's Answer to Parkland? More Dropouts
+*   _Larry Elder_: No Drama Obama vs. Trump 'Chaos'
     
 
 *   Previous
@@ -253,7 +253,7 @@ RecommendedPolitics
 
 *   At 5, Republican Research Group Has Growing Role to Play
 *   Trump's Mueller Fixation Seen as Strategic Move
-*   Trump: We're Going to Defy Predictions Once Again, Keep House Majority
+*   FBI's Wray: Politics Didn't Influence Firing of Andrew McCabe
 *   On Marathon U.S. Tour, Crown Prince Seeks Saudi Image Makeover
 *   Republican Midterm Messaging Tied to Pelosi, Despite Pa. Loss
 *   Presidential Job Approval
@@ -270,26 +270,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve40
-    *   Disapprove53Disapprove +13
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve44
+    *   Disapprove52Disapprove +8
+*   2018 Generic Congressional VoteReuters/Ipsos
+    *   Democrats40
+    *   Republicans37Democrats +3
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove52Disapprove +5
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve41
-    *   Disapprove54Disapprove +13
-*   2018 Generic Congressional VoteEconomist/YouGov
-    *   Democrats44
-    *   Republicans38Democrats +6
+*   Congressional Job ApprovalReuters/Ipsos
+    *   Approve23
+    *   Disapprove69Disapprove +46
 
 More Latest Polls In The News
 
+*   Rex Tillerson Farewell Statement to State Dept.: Washington Is A "Mean-Spirited Town"
+*   Jeffrey Toobin vs. Dershowitz: Why Have You Been Carrying Water For Trump?. "This Is Not Who You Used To Be"
+*   Tapper: Trump Has Said "Nastier Things" About Me, Don Lemon And Chuck Todd Than Putin
 *   Brennan: Afraid Trump Will "Wag The Dog" With Distraction Like Firing Mueller, Puts "Nation At Risk"
-*   Dershowitz: Trump 100% Right There Never Should Have Been Special Counsel, No Probable Cause
 *   Trump: We Are Going To Defy Predictions Once Again, Republicans Will Keep The House Majority
-*   Hillary Clinton: Trump "Undermined" Presidency To Enrich Family, Erratic Behavior Undermining Global Order
-*   Sen. Bernie Sanders: "Impeachable Offense" If Trump "Forces Mueller Out," "It Is Not Acceptable"
 
 *   Politics
 *   Policy
