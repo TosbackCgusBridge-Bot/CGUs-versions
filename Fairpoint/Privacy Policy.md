@@ -142,6 +142,7 @@
             *   Digital TV Terms &. Conditions
             *   Digital TV Subscriber Notification
         *   Phone and Long Distance Terms &. Policies
+            *   911 Requirements for PBX Operators
             *   Long Distance Terms &. Conditions
             *   Local Number Portability
             *   Fraud Protection
@@ -185,10 +186,7 @@
     *   Locations
     *   Employment Verification
 
-*   My Account
-    *   Check Email
-    *   View or Pay My Bill
-    *   MyCCI.net
+*   My Account   
 
 *   About Us
     *   Investor Relations
@@ -349,6 +347,7 @@ Support
         *   Digital TV Terms &. Conditions
         *   Digital TV Subscriber Notification
     *   Phone and Long Distance Terms &. Policies
+        *   911 Requirements for PBX Operators
         *   Long Distance Terms &. Conditions
         *   Local Number Portability
         *   Fraud Protection
@@ -417,6 +416,7 @@ TV Terms &. Policies
 
 Phone and Long Distance Terms &. Policies
 
+*   911 Requirements for PBX Operators
 *   Long Distance Terms &. Conditions
 *   Local Number Portability
 *   Fraud Protection
@@ -527,7 +527,6 @@ Account Support
 *   Help Understanding My Bill
 *   Check My Internet Speed Eligibility
 *   Seasonal Suspend &. Restore
-*   MyCCI.net Support
 
 Phone Book
 
