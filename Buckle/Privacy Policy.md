@@ -235,6 +235,7 @@ Enter Now for a chance to win a $500 Buckle Gift Card.
         *   Best Sellers
         *   Back in Stock
         *   Matching Sets
+        *   Denim on Denim
         *   BOGO 30% Off BKE Jewelry
         
         *   Women's Trends
