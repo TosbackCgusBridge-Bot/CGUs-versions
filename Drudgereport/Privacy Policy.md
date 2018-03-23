@@ -133,23 +133,23 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+Few more weeks till @adexchanger #PROGIO San Fran! Don't miss @Requidan's discussion about leveraging DPO to improve yield and achieve long-term success at 1:30PM on 4/10 bit.ly/2pzhNkn pic.twitter.com/PPek…
+
+About 13 hours ago
+
 My week on Twitter : 3 Mentions, 1.54K Mention Reach, 25 Likes, 9 Retweets, 76.7K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/jkBw…
 
-Yesterday
+About 2 days ago
 
 Blacklisted by ad partners can cause huge problems and can go unnoticed for some time. Read more on how we help our publishers prevent this from happening: goo.gl/3hG7UC #publishers
 
-About 2 days ago
+About 3 days ago
 
 Our biggest fans this week: @adexchanger, @SharerUssharing, @Digital\_Ad\_Blog. Thank you! via sumall.com/thankyou?… pic.twitter.com/dNqi…
 
-About 2 days ago
+About 3 days ago
 
 #bts of our @adexchanger #PROGIO teaser video with @Requidan in the Intermarkets Studio! This is were the video magic happens. pic.twitter.com/knFz…
-
-About 6 days ago
-
-The new #salesgamechangerspodcast is live with our own Erik @Requidan! Thanks @IESBD for the great opportunity. Listen here: bit.ly/2ph2mNQ #podcast pic.twitter.com/pwmF…
 
 Last week
 
