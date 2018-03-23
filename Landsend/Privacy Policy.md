@@ -46,7 +46,6 @@ menu Close 0 Free Shipping on $50+
     
     BLOG
     *   The Journal
-    *   Lands' End Labs
 *   Women SHOP BY SIZE RANGE
     
     *   Regular
@@ -170,9 +169,11 @@ menu Close 0 Free Shipping on $50+
     *   Toddler Girl (2T-4T)
     *   Little Girl (size 4-7)
     *   Big Girl (size 7-16)
+    *   Girl Plus (size 7+-16+)
     *   Toddler Boy (2T-4T)
     *   Little Boy (size 4-7)
     *   Big Boy (size 7-20)
+    *   Boy Husky (size 8H-20H)
     
     Girls>.
     
@@ -343,12 +344,14 @@ menu Close 0 Free Shipping on $50+
     BEDDING >.
     
     *   Sheets &. Pillowcases
-    *   Duvet Covers &. Coverlets
+    *   Duvet Covers
     *   Comforters
     *   Blankets &. Throws
     *   Mattress Pads
     *   Pillows
     *   Decorative Pillows
+    *   Coverlets
+    *   Quilts
     
     BATH >.
     
@@ -403,7 +406,6 @@ menu Close 0 Free Shipping on $50+
     *   BLOG
         *   Back
         *   The Journal
-        *   Lands' End Labs
     *   Women
     *   Men
     *   Girls
@@ -534,9 +536,11 @@ menu Close 0 Free Shipping on $50+
         *   Toddler Girl (2T-4T)
         *   Little Girl (size 4-7)
         *   Big Girl (size 7-16)
+        *   Girl Plus (size 7+-16+)
         *   Toddler Boy (2T-4T)
         *   Little Boy (size 4-7)
         *   Big Boy (size 7-20)
+        *   Boy Husky (size 8H-20H)
     *   Girls
         *   Back
         *   View All
@@ -721,12 +725,14 @@ menu Close 0 Free Shipping on $50+
         *   Back
         *   View All
         *   Sheets &. Pillowcases
-        *   Duvet Covers &. Coverlets
+        *   Duvet Covers
         *   Comforters
         *   Blankets &. Throws
         *   Mattress Pads
         *   Pillows
         *   Decorative Pillows
+        *   Coverlets
+        *   Quilts
     *   BATH
         *   Back
         *   View All
@@ -798,9 +804,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off 1 full-price item!
+Receive 30% off full-price styles!
 
-code: KITE pin: 5920 DETAILS
+code: TRAVEL pin: 4851 DETAILS
 
 Customer Service Menu
 
