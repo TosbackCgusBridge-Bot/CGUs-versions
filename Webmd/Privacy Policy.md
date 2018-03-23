@@ -166,7 +166,7 @@ Customer Care
 
 *   About WebMD
 
-WebMD Privacy Policy
+WebMD Privacy Policy Share on FacebookShare on TwitterShare on PinterestSaveEmailPrint
 
 En español
 
