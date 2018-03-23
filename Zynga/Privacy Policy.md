@@ -30,7 +30,6 @@ Navigation
     *   Willy Wonka Slots
     *   Wizard of Oz Slots
     *   Zynga Poker
-    *   Zynga Poker Classic
 *   COMPANY
     *   News
     *   Leadership
