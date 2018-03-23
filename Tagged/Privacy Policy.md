@@ -7,7 +7,7 @@
 
   TERMS OF SERVICE Jump to Privacy Policy Terms of Service
 
-Updated as of July 12, 2017
+Updated as of March 22, 2018
 
 WE DO NOT CONDUCT CRIMINAL BACKGROUND CHECKS. PLEASE BE SAFE WHEN INTERACTING WITH USERS. Read our Online Safety tips.
 
@@ -79,15 +79,15 @@ You may use Gold to purchase Gifts for other users. The price for each Gift will
 
 Gifts purchased or received by any user do not constitute property and are not transferable.
 
-I) Stars and Cash Out
+I) Diamonds and Rewards
 
-Each user who receives a Gift from another user during a video broadcast will get a number of Stars as determined by Company. By the end of 2017, Company intends to offer a cash-out option with respect to Stars. When Company enables said feature, users will be able to redeem Stars for cash, provided that a user must cash out at least two hundred dollars ($200) worth of Stars for each request, and may cash out only once per day. Company may change the cash-out minimum increments and frequency from time to time, and it reserves the right to do so. Company will also determine the rate of redemption in its sole discretion and it may change the rate from time to time. The rate will be displayed at the point of redemption. You agree that Company has the absolute right to manage, modify, and/or eliminate such redemption feature in its sole discretion. The cost of the Gifts that you give to another user may not correlate to the revenue such user is entitled to receive from Company.
+Each user who receives a Gift from another user during a video broadcast will get a number of Diamonds as determined by Company. Company intends to offer rewards with respect to Diamonds. When Company enables said feature, users will be able to redeem Diamonds for cash, provided that a user must redeem at least two hundred dollars ($200) worth of Diamonds for each request, and may redeem rewards only once per day. Company may change the minimum increments and frequency from rewards from time to time, and it reserves the right to do so. Company will also determine the rate of redemption in its sole discretion and it may change the rate from time to time. The rate will be displayed at the point of redemption. You agree that Company has the absolute right to manage, modify, and/or eliminate such redemption feature in its sole discretion. The cost of the Gifts that you give to another user may not correlate to the revenue such user is entitled to receive from Company.
 
-Company intends to use a third-party vendor (Tipalti, Inc.) for cash redemption, and users wishing to redeem Stars for cash must 1) have a valid PayPal account, 2) must agree to said vendor’s terms of service, as well as its policies and procedures, and 3) bear any charges that said vendor may impose. User understands that all information submitted during the cash out process will be stored by vendor on vendor’s servers, and will not be under the control of Company. User understands that Company has no control over our third-party vendor’s practices and user releases Company from any and all liability associated with information submitted to Company’s third party vendor, including, without limitation, liability related to the unauthorized release or use of user’s information. Company reserves the right to verify your identity and eligibility to receive cash redemptions prior to payment.
+Users wishing to redeem Diamonds must 1) have a valid PayPal account, 2) must agree to PayPal’s terms of service, as well as its policies and procedures, and 3) bear any charges that PayPal may impose. User understands that Company has no control over PayPal’s practices and user releases Company from any and all liability associated with information submitted to PayPal, including, without limitation, liability related to the unauthorized release or use of user’s information. Company reserves the right to verify your identity and eligibility to receive cash redemptions prior to payment.
 
-All Stars in your account are forfeited if you delete your account or your account is terminated for any reason.
+All Diamonds in your account are forfeited if you delete your account or your account is terminated for any reason.
 
-All users who redeem Stars are solely responsible for the reporting and payment of any taxes due on the amounts redeemed.
+All users who redeem Diamonds are solely responsible for the reporting and payment of any taxes due on the amounts redeemed.
 
 J) VIP Membership
 
