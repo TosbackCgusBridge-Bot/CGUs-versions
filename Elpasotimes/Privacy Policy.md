@@ -1,4 +1,4 @@
-SUBSCRIBE NOW1st month FREE
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE NOW1st month FREE
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW1st month FREE
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMan accidentally kills himself with shotgunCrimeDon't use Irvin as tragedy landmark, reader saysOpinionNo one hurt after excavator hits US 54 bridgeTrafficMilitary tactics used in slaying of ex-soldierCrimeEl Paso Hall of Fame to induct 8 new membersSportsBorder Patrol shooting lawsuit dismissedCrimeHernandez, fellow Miners work out for NFLCollegePhil Johnson leaves UTEP basketballSportsPolice investigating fatal Northeast shootingNewsMan accused of firing shots at home in drug caseCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSUV, Brio bus crash on Mesa sends 3 to hospitalTrafficStolen iPad flagged at pawnshop led to arrestCrimeMusic world mourns famous El Paso drummerEntertainmentMinor league baseball get Hispanic team namesBaseballDowntown bank building bought by family groupBusinessBliss units establish THAAD presence in S. KoreaMilitaryMilitary tactics used in slaying of ex-soldierCrimeMan accidentally kills himself with shotgunCrimeDon't use Irvin as tragedy landmark, reader saysOpinionCrime Stoppers tip leads to arrest of fugitiveCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -143,4 +143,4 @@ Our Partners
 *   Thanksgiving.com
 *   Grateful
 
-close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogclose dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
