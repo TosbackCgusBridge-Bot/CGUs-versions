@@ -78,7 +78,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   ‘Avengers: Infinity War’: Infiltrating Marvel’s Top-Secret Clash of the Mad Titans Read More
     *   ‘Avengers: Infinity War’ Directors Reveal 10 Secrets About the Movie From the Set Read More
-    *   ‘Tag’ is It: Why This Is Sure to Be the Wildest Comedy of the Summer Read More
+    *   New Red-Band 'Deadpool 2' Trailer Introduces X-Force Read More
     
     Explore Content
     *   Movie Reviews
