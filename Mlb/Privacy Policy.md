@@ -28,7 +28,7 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     *   Photo Stream
     *   Entertainment
     *   Reporter's Inbox
-    *   #AwardWorthy
+    *   Glossary
     *   Rare Feats
     *   Espanol
 *   Video Video Video
@@ -136,7 +136,7 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     *   Watch MLB.TV
     *   Buy Gameday Audio
     *   MLB.TV Spring Training
-    *   MLB.TV Devices
+    *   MLB.TV Supported Devices
     *   MLB.TV with Extra Innings
     *   MLB.TV Help Center/FAQs
     *   MLB.TV Blackouts
