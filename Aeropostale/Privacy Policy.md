@@ -94,8 +94,9 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   $8 Tees
+*   $7 Tees
 *   Buy 1 Get 2 Free
+*   Easter Best
 *   Denim Guide
 *   Logo Shop
 *   Active
@@ -137,7 +138,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Low Rise Jegging
 *   Ankle Jegging
 *   High Rise Jegging
-*   Super High Rise Jegging
 *   Cropped Jegging
 *   Skinny
 *   Ankle Straight
@@ -351,6 +351,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Camis + Tanks
 *   Hoodies + Jackets
 *   Leggings + Pants
+*   Shorts
 *   Intimates
 *   Accessories
 
@@ -420,8 +421,9 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   $8 Tees
+        *   $7 Tees
         *   Buy 1 Get 2 Free
+        *   Easter Best
         *   Denim Guide
         *   Logo Shop
         *   Active
@@ -465,7 +467,6 @@ Menu Find a Store Aeropostale
         *   Low Rise Jegging
         *   Ankle Jegging
         *   High Rise Jegging
-        *   Super High Rise Jegging
         *   Cropped Jegging
         *   Skinny
         *   Ankle Straight
@@ -637,6 +638,7 @@ Menu Find a Store Aeropostale
         *   Camis + Tanks
         *   Hoodies + Jackets
         *   Leggings + Pants
+        *   Shorts
         *   Intimates
         *   Accessories
     
@@ -646,7 +648,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Shop Girls Shop Guys Shop Girls Shop Guys Shop Dresses + Rompers Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop DRESSES + ROMPERS Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions Message &. Data Rates May Apply. FOLLOW US Customer Care
 
 *   Order Status
