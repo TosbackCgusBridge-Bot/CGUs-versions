@@ -9,6 +9,7 @@
     *   Asia Pacific
     *   Australia
     *   Europe
+    *   India
     
     Priorities
     
