@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 18%  18%  18%  18%  Arrest Records &. Driving Infractions
+What is PeekScore? Public Records &. Background Checks 23%  23%  23%  23%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -169,47 +169,47 @@ Facebook 11% 
 
 Twitter 11% 
 
+*   FDA Drug Information - FDA\_Drug\_Info
+    
 *   HIV.gov - HIVGov
-    
-*   U.S. FDA - US\_FDA
-    
-*   Bush Library - Bush41Library
-    
-*   NIH - NIH
-    
-*   Show More ...
-
-*   Free Privacy Policy - FreePrivacy1
-    
-*   IRS - IRSnews
     
 *   CDC - CDCgov
     
-*   Justice Department - TheJusticeDept
+*   Free Privacy Policy - FreePrivacy1
     
-*   HTC USA - HTCUSA
-    
+*   Show More ...
+
 *   FTC - FTC
-    
-*   U.S. FDA - FDArecalls
-    
-*   HealthCare.gov - HealthCareGov
-    
-*   DOJ Civil Rights - CivilRights
     
 *   Francis S. Collins - NIHDirector
     
-*   U.S. Census Bureau - uscensusbureau
-    
-*   FDA Drug Information - FDA\_Drug\_Info
-    
-*   Federal Reserve - federalreserve
+*   Justice Department - TheJusticeDept
     
 *   Cristiano Ronaldo - Cristiano
     
-*   OAIC - OAICgov
+*   NIH - NIH
+    
+*   IRS - IRSnews
+    
+*   U.S. FDA - US\_FDA
+    
+*   HTC USA - HTCUSA
+    
+*   DOJ Civil Rights - CivilRights
+    
+*   HealthCare.gov - HealthCareGov
+    
+*   Federal Reserve - federalreserve
     
 *   HHS.gov - HHSGov
+    
+*   U.S. Census Bureau - uscensusbureau
+    
+*   Bush Library - Bush41Library
+    
+*   OAIC - OAICgov
+    
+*   U.S. FDA - FDArecalls
     
 *   Show Less ...
 
@@ -277,15 +277,15 @@ Instagram 11% 
     
 *   Show Less ...
 
-Pinterest 18%  Wikipedia 11% 
+Pinterest 22%  Wikipedia 11% 
 
 *   P3P
     
-    Purpose. As the World Wide Web became a genuine medium in which to sell products and services, electronic commerce websites tried to collect more information about the people who purchased their merchandise. Some companies used controversial practices such as tracker cookies to ascertain the users' demographic information and buying …
+    Purpose. As the World Wide Web became a genuine medium in which to sell products and services, electronic commerce websites tried to collect more information about ...
     
 *   Test
     
-    Test(s) or TEST may refer to: Test (assessment), an assessment intended to measure the respondents' knowledge or other abilities List of tests
+    Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
 Google+ 11% 
@@ -303,7 +303,7 @@ Google+ 11% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 18%  Music 11% 
+Linkedin 22%  Music 11% 
 
 *   Pandora
     
@@ -384,7 +384,7 @@ Myspace 11% 
     
 *   Show Less ...
 
-Web Search 18%  Images 10% 
+Web Search 22%  Images 11% 
 
 9
 
