@@ -20,6 +20,7 @@ Show Menu Hide Menu
     *   Discover
     *   Mobile
     *   Rewards
+*   Travel Blog
 
 *   Account
     *   Sign in to see exclusive Member Pricing.
@@ -31,7 +32,7 @@ Show Menu Hide Menu
     *   Not ?
     *   Not ?  
         Log in to your account
-*   My Lists  
+*   My Lists 0 You have 0 recent searches  
     
     Things you view while shopping are saved here.
     
@@ -62,6 +63,7 @@ Show Menu Hide Menu
 *   More
     *   Mobile
     
+*   Travel Blog
 
 Beginning of main content Create your free account Create your free account Sign Up with Facebook Looking for Sign In with Google? **OR** We apologize for our system failure. Please try again Account already exists Authentication failure. Please try again Action required!  
 To finish creating your account, please click the link we just sent to First name
