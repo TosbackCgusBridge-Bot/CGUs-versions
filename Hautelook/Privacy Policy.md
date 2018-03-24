@@ -8,6 +8,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Gucci Sun Up to 65% Off
+    *   Few Moda
+    *   Trending Now: Spring Styles ft. Lovers + Friends
+    *   Psycho Bunny
+    *   TARA Pearls: Tahitian &. Akoya Pearls Up to 70% Off
+    *   Spring Style: Activewear Essentials
+    *   Spring Style: Casual Looks for Day
+    *   Spring Style: Weekend-Ready Shoes
+    *   Spring Style: Weekend-Ready Bags &. Accessories
+    *   Imagine Vince Camuto Up to 60% Off
+    *   Max Mara
+    *   Marc Fisher Starting at $40
+    *   Sweatshirt &. T-Shirt Dresses ft. Solutions
+    *   T Tahari Handbags &. More
+    *   Carlos by Carlos Santana Starting at $30
+    *   Home Organization Starting at $14
+    *   Sharpen Up: Colorful Kitchen Essentials
+    *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
+    *   PURA D'OR Hair Care Up to 50% Off
+    *   GBX Starting at $40
+    *   Go Gingham: Styles Starting at $25
     *   Designer Shoes: Versace, Bally &. More
     *   Designer Bags: Versace, Ferragamo &. More
     *   Men's Designer Shoes: Versace, Cavalli &. More
@@ -16,6 +37,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Olivia Welles Jewelry Up to 75% Off
     *   DL1961
     *   Ramy Brook Up to 70% Off
+    
     *   Mirenesse Australia Up to 70% Off
     *   Kenneth Cole Reaction Up to 60% Off
     *   Flynn Skye
@@ -23,31 +45,21 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Superga Up to 60% Off
     *   Mia Marcelle Swim
     *   LOVE + GRACE Sleep
-    *   Elan Under $30
     *   ilike Organic Skincare
     *   Paisley &. Gray
     *   Free Shipping: Bedding, Throws &. More
     *   Set the Tone: Bluetooth Headphones &. More
-    *   Boys' Brands We Love
+    *   Juicy Couture Baby &. Girls
     *   Girls' Brands We Love
+    *   Boys' Brands We Love
     *   Umi Girls' Shoes Up to 60% Off
     *   Slumber Party: Kids' Character Pajamas &. More
+    *   Elan Under $30
     *   Spring Style: Chic Bags &. Accessories
     *   Burberry Watches Up to 50% Off
-    *   Laundry by Shelli Segal Incl. Petites
-    *   Charles by Charles David Under $60
-    *   Derek Lam 10 Crosby Denim Up to 70% Off
     *   Robert Graham
-    *   Elenyun
-    *   Juicy Couture Baby &. Girls
-    *   Jessica Simpson
-    
-    *   Love, Fire
     *   Suzy Levian Jewelry
-    *   Andrew Stevens Up to 55% Off
-    *   Marc New York Sport
-    *   Matt &. Nat Handbags
-    *   Morphe Brushes
+    *   St. John Collection
     *   Resort Ready: Brush On Block
     *   Lacoste Men's Shoes Starting at $25
     *   Dress Shirts Under $30
@@ -55,10 +67,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Budget-Friendly Rugs
     *   Free Shipping: Graphic Prints We Love
     *   Free Shipping: Decorative Pillows from $23
+    
     *   Bring on Spring Break: Kids' Swim
     *   Little Miss Twin Stars &. More
     *   Best of Spring: Girls' Sandals Under $40
-    *   St. John Collection
     *   Spring Style: Chic Shoes
     *   Spring Style: Chic Work Looks &. More
     *   Spring Style: Chic Looks for Evening
@@ -67,48 +79,43 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Lighting &. More Starting at $24
     *   Color Pop: Wall Murals &. More
     *   Free Shipping: Accent Furniture Under $200
-    *   SPANX
-    *   Trina Turk
-    *   On-Trend Jewelry Starting at $15
+    *   New Balance Men
     *   Grande Cosmetics: Lips &. Lashes
-    *   Free Shipping: Sterling Silver Jewelry from $15
     *   NuTika Hair Tools
     *   Publish Brand
     *   Barbour
-    
-    *   Up to 50% Off: Watches ft. Victorinox Swiss Army
     *   Report Collection
-    *   New Balance Kids' Activewear
-    *   DKNY Girls &. More
-    *   Go Couture Kids
-    *   Watchitude
-    *   New Balance Kids
     *   UGG Home
     *   Perricone MD
     *   Beauty Must-Haves Starting at $10
     *   Fragrances by Margot Elena
-    *   The Kooples Men
-    *   Perry Ellis
-    *   Men's Denim Shop ft. True Religion
     *   Free Shipping: Vintage-Inspired Rustic Decor
     *   Luxe Candles: Monograms, Metallics &. More
-    *   Fresh Faced: Serums for Every Need Up to 90% Off
     *   Free Shipping: Luxe Bedding Blowout
-    *   Crown Brush Up to 70% Off
-    *   Closet, Bath &. Vanity Storage from $10
+    *   Laundry by Shelli Segal Incl. Petites
     *   Free Shipping: Modern Rug Steals
     *   Free Shipping: Fine Art Blowout
-    *   Storage Must-Haves Starting at $10
-    *   Free Shipping: Down &. Memory Foam Essentials
-    *   Valentino by Mario Valentino
-    *   Romeo &. Juliet Couture Blowout
-    *   Robin Piccone Swim
-    *   New Balance
-    *   Jay Godfrey &. ML Monique Lhuillier
-    *   New Balance Men
-    *   Trask Up to 55% Off
+    *   Morphe Brushes
+    *   Closet, Bath &. Vanity Storage from $10
 *   WomenShop Sale Events
     
+    *   Gucci Sun Up to 65% Off
+    *   Few Moda
+    *   Trending Now: Spring Styles ft. Lovers + Friends
+    *   TARA Pearls: Tahitian &. Akoya Pearls Up to 70% Off
+    *   Spring Style: Activewear Essentials
+    *   Spring Style: Casual Looks for Day
+    *   Spring Style: Weekend-Ready Shoes
+    *   Spring Style: Weekend-Ready Bags &. Accessories
+    *   Imagine Vince Camuto Up to 60% Off
+    *   Max Mara
+    *   Marc Fisher Starting at $40
+    *   Sweatshirt &. T-Shirt Dresses ft. Solutions
+    *   T Tahari Handbags &. More
+    *   Carlos by Carlos Santana Starting at $30
+    *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
+    *   PURA D'OR Hair Care Up to 50% Off
+    *   Go Gingham: Styles Starting at $25
     *   Designer Shoes: Versace, Bally &. More
     *   Designer Bags: Versace, Ferragamo &. More
     *   Dresses We Love Up to 70% Off
@@ -116,115 +123,89 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   DL1961
     *   Ramy Brook Up to 70% Off
     *   Mirenesse Australia Up to 70% Off
+    
     *   Kenneth Cole Reaction Up to 60% Off
     *   Flynn Skye
     *   Shahida Parides
     *   Superga Up to 60% Off
     *   Mia Marcelle Swim
     *   LOVE + GRACE Sleep
-    *   Elan Under $30
     *   ilike Organic Skincare
+    *   Elan Under $30
     *   Spring Style: Chic Bags &. Accessories
     *   Burberry Watches Up to 50% Off
-    *   Laundry by Shelli Segal Incl. Petites
-    *   Charles by Charles David Under $60
-    *   Derek Lam 10 Crosby Denim Up to 70% Off
-    *   Elenyun
-    *   Jessica Simpson
-    *   Love, Fire
     *   Suzy Levian Jewelry
-    *   Andrew Stevens Up to 55% Off
-    
-    *   Marc New York Sport
-    *   Matt &. Nat Handbags
-    *   Morphe Brushes
-    *   Resort Ready: Brush On Block
     *   St. John Collection
+    *   Resort Ready: Brush On Block
     *   Spring Style: Chic Shoes
     *   Spring Style: Chic Work Looks &. More
     *   Spring Style: Chic Looks for Evening
-    *   SPANX
-    *   Trina Turk
-    *   On-Trend Jewelry Starting at $15
     *   Grande Cosmetics: Lips &. Lashes
-    *   Free Shipping: Sterling Silver Jewelry from $15
     *   NuTika Hair Tools
     *   Perricone MD
     *   Beauty Must-Haves Starting at $10
     *   Fragrances by Margot Elena
-    *   Fresh Faced: Serums for Every Need Up to 90% Off
-    *   Crown Brush Up to 70% Off
-    *   Valentino by Mario Valentino
-    *   Romeo &. Juliet Couture Blowout
-    *   Robin Piccone Swim
-    *   New Balance
-    *   Jay Godfrey &. ML Monique Lhuillier
-    *   Trask Up to 55% Off
+    *   Laundry by Shelli Segal Incl. Petites
+    *   Morphe Brushes
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie
     *   Handbags
     *   Tech Accessories
     *   Accessories
+    *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
+    *   Psycho Bunny
+    *   GBX Starting at $40
     *   Men's Designer Shoes: Versace, Cavalli &. More
     *   Men's Designer Accessories: Ferragamo, Armani &. More
     *   Paisley &. Gray
     *   Burberry Watches Up to 50% Off
     *   Robert Graham
+    
     *   Lacoste Men's Shoes Starting at $25
     *   Dress Shirts Under $30
     *   Velvet by Graham &. Spencer
-    
+    *   New Balance Men
     *   Publish Brand
     *   Barbour
-    *   Up to 50% Off: Watches ft. Victorinox Swiss Army
     *   Report Collection
-    *   The Kooples Men
-    *   Perry Ellis
-    *   Men's Denim Shop ft. True Religion
-    *   New Balance Men
     
     Shop By Category
     *   Clothing
-    *   Accessories
     *   Shoes
+    *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
-    *   Boys' Brands We Love
+    *   Juicy Couture Baby &. Girls
     *   Girls' Brands We Love
+    *   Boys' Brands We Love
     *   Umi Girls' Shoes Up to 60% Off
     *   Slumber Party: Kids' Character Pajamas &. More
-    *   Juicy Couture Baby &. Girls
     *   Bring on Spring Break: Kids' Swim
     *   Little Miss Twin Stars &. More
-    
     *   Best of Spring: Girls' Sandals Under $40
-    *   New Balance Kids' Activewear
-    *   DKNY Girls &. More
-    *   Go Couture Kids
-    *   Watchitude
-    *   New Balance Kids
     
     Shop By Category
     *   Kids Accessories
-    *   Girls Sizes 7-16
     *   Girls Sizes 2T-6X
     *   Baby Girl
-    *   Girls' Shoes
+    *   Girls Sizes 7-16
     *   Boys Sizes 2T-7
     *   Boys Sizes 8-20
-    *   Boys' Shoes
+    *   Girls' Shoes
     *   Baby Boy
     *   Toys
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Home Organization Starting at $14
+    *   Sharpen Up: Colorful Kitchen Essentials
     *   Free Shipping: Bedding, Throws &. More
     *   Set the Tone: Bluetooth Headphones &. More
     *   Free Shipping: Budget-Friendly Rugs
@@ -233,47 +214,45 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   KitchenAid
     *   Kitchen Kitsch: Wine-Themed Hand Towels &. More
     *   Free Shipping: Lighting &. More Starting at $24
+    
     *   Color Pop: Wall Murals &. More
     *   Free Shipping: Accent Furniture Under $200
-    
     *   UGG Home
     *   Free Shipping: Vintage-Inspired Rustic Decor
     *   Luxe Candles: Monograms, Metallics &. More
     *   Free Shipping: Luxe Bedding Blowout
-    *   Closet, Bath &. Vanity Storage from $10
     *   Free Shipping: Modern Rug Steals
     *   Free Shipping: Fine Art Blowout
-    *   Storage Must-Haves Starting at $10
-    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Closet, Bath &. Vanity Storage from $10
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bedding
     *   Organization
+    *   Bedding
     *   Accent Furniture
     *   Luggage &. Travel
     *   Outdoor Living
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
+    *   PURA D'OR Hair Care Up to 50% Off
     *   Mirenesse Australia Up to 70% Off
     *   ilike Organic Skincare
-    *   Morphe Brushes
     *   Resort Ready: Brush On Block
     *   Grande Cosmetics: Lips &. Lashes
-    *   NuTika Hair Tools
     
+    *   NuTika Hair Tools
     *   Perricone MD
     *   Beauty Must-Haves Starting at $10
     *   Fragrances by Margot Elena
-    *   Fresh Faced: Serums for Every Need Up to 90% Off
-    *   Crown Brush Up to 70% Off
+    *   Morphe Brushes
     
     Shop By Category
     *   Makeup
-    *   Skin Care
     *   Hair Care
+    *   Skin Care
     *   Tools &. Accessories
     *   Fragrance
     *   Bath &. Body
