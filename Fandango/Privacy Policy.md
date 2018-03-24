@@ -78,7 +78,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   ‘Avengers: Infinity War’: Infiltrating Marvel’s Top-Secret Clash of the Mad Titans Read More
     *   ‘Avengers: Infinity War’ Directors Reveal 10 Secrets About the Movie From the Set Read More
-    *   New Red-Band 'Deadpool 2' Trailer Introduces X-Force Read More
+    *   Movie News: Alicia Vikander to Star in Noir Thriller 'The Earthquake Bird' Read More
     
     Explore Content
     *   Movie Reviews
@@ -286,10 +286,10 @@ Offers
 
 New + Coming soon
 
-*   A Wrinkle in Time
 *   Tomb Raider (2018)
 *   Pacific Rim Uprising (2018)
 *   Ready Player One
+*   Rampage (2018)
 *   Avengers: Infinity War
 *   Deadpool 2
 *   Solo: A Star Wars Story
