@@ -34,19 +34,17 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 2 OF COUPON CODE SPRING9 ENDS IN
+Near YouFind a StoreBack DAY 3 OF COUPON CODE SPRING9 ENDS IN
 
 \*Offer ends on 3/25/18
 
-Days 0 0 0 0 hours 4 4 1 1 mins 2 2 3 3 secs
+Days 0 0 0 0 hours 4 4 1 1 mins 2 2 8 7 secs
 
 *   **FREE** SHIPPING &. HANDLING DETAILS
 *   SHOP &. **GET REWARDS**
 *   FIND **COUPONS &. EXTRA SAVINGS**
 
-EXPLORE THE CAMPAIGN>
-
-UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DRESSESSHOP ALL$17.99 DRESS SHIRTSSHOP ALL$17.99 DRESS SHIRTSSHOP ALL
+EXPLORE THE CAMPAIGN>UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DRESSESSHOP ALL$17.99 DRESS SHIRTSSHOP ALL$17.99 DRESS SHIRTSSHOP ALL
 
 *   $17.99 sale
     
@@ -107,7 +105,7 @@ UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DRESSESSHOP ALL$17.99 D
     
     was $36
     
-    Stafford Travel Easy-Care Long Sleeve Broadcloth Checked Dress ShirtAdd To Cart
+    Stafford Travel Easy-Care Long Sleeve Broadcloth Checked Dress Shirt(1)Add To Cart
 *   $17.99 sale
     
     was $36
@@ -117,15 +115,17 @@ UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DRESSESSHOP ALL$17.99 D
     
     was $36
     
-    Stafford Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Checked Dress Shirt(6)Add To Cart
-*   $8.99 clearance
-    
-    was $36
-    
     Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Pattern Dress Shirt(2)Add To Cart
 
 UP TO 15% OFF STEP2 TOYSSHOP ALLUP TO 15% OFF STEP2 TOYSSHOP ALL
 
+*   BIG BUY!
+    
+    $47.99 sale
+    
+    was $64.99
+    
+    Step2 Shady Oasis Sand &. Water Play TableAdd To Cart
 *   BIG BUY!
     
     $41.99 sale
@@ -154,13 +154,6 @@ UP TO 15% OFF STEP2 TOYSSHOP ALLUP TO 15% OFF STEP2 TOYSSHOP ALL
     was $39.99
     
     Step2 Big Bubble Splash Water TableAdd To Cart
-*   BIG BUY!
-    
-    $42.49 sale
-    
-    was $49.99
-    
-    Step2 Summer Showers Splash Tower Water Table(2)Add To Cart
 *   BIG BUY!
     
     $33.99 sale
@@ -236,18 +229,11 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     Worthington Trousers(4)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $11.99 sale
-    
-    was $42
-    
-    Boutique + 3/4 Sleeve V Neck Woven Floral Blouse-Plus(5)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $12.99 sale
     
     was $44
     
-    a.n.a Long Sleeve Y Neck Woven Blouse(9)Add To Cart
+    a.n.a Long Sleeve Y Neck Woven Blouse(10)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $12.99 sale
@@ -255,6 +241,20 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     was $44
     
     Belle + Sky Smocked Off The Shoulder Top(2)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $11.99 sale
+    
+    was $42
+    
+    Boutique + 3/4 Sleeve V Neck Woven Floral Blouse - Plus(5)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $11.10 sale
+    
+    was $37
+    
+    St. John's Bay Active Long Sleeve Lace Up Top(13)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $12.99 sale
@@ -268,14 +268,7 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     
     was $37
     
-    St. John's Bay Active Long Sleeve Lace Up Top(12)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $11.10 sale
-    
-    was $37
-    
-    St. John's Bay Active Long Sleeve Cozy Flyaway Cardigan(8)Add To Cart
+    St. John's Bay Active Long Sleeve Cozy Flyaway Cardigan(9)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $10.99 sale
@@ -285,18 +278,18 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     Bold Elements Caged Cold Shoulder TopAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $7.99 sale
-    
-    was $27
-    
-    a.n.a Short Sleeve Scoop Neck Asymmetrical Hem Top(5)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $19.99 sale
     
     was $69
     
     Studio 1 3/4 Sleeve Floral Fit &. Flare Dress - Plus(1)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $7.99 sale
+    
+    was $27
+    
+    a.n.a Short Sleeve Scoop Neck Asymmetrical Hem Top(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $11.10 sale
@@ -306,25 +299,11 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     St. John's Bay Active Knit Jogger Pants (Tapered Leg)(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $49.99 sale
+    $13.99 sale
     
-    was $169
+    was $49
     
-    Blu Sage Short Sleeve Evening Gown - PlusAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $15.99 sale
-    
-    was $54
-    
-    Bold Elements Off The Shoulder Bell Sleeve Dress(11)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $16.20 sale
-    
-    was $54
-    
-    Alfred Dunner 3/4 Sleeve Split Crew Neck T-Shirt-Womens(1)Add To Cart
+    Worthington Ankle Pants(3)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $16.20 sale
@@ -332,6 +311,20 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     was $54
     
     Alfred Dunner Montego Bay 3/4 Sleeve Split Crew Neck T-Shirt-WomensAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $49.99 sale
+    
+    was $169
+    
+    Blu Sage Short Sleeve Evening Gown - PlusAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $16.20 sale
+    
+    was $54
+    
+    Alfred Dunner 3/4 Sleeve Split Crew Neck T-Shirt-Womens(1)Add To Cart
 
 Shop and Save at JCPenney
 
