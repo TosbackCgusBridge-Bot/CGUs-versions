@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 23%  23%  23%  23%  Arrest Records &. Driving Infractions
+What is PeekScore? Public Records &. Background Checks 16%  16%  16%  16%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -107,7 +107,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 11% 
+Facebook 5% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -167,7 +167,7 @@ Facebook 11% 
     
 *   Show Less ...
 
-Twitter 11% 
+Twitter 5% 
 
 *   FDA Drug Information - FDA\_Drug\_Info
     
@@ -213,7 +213,7 @@ Twitter 11% 
     
 *   Show Less ...
 
-Instagram 11% 
+Instagram 5% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -277,7 +277,7 @@ Instagram 11% 
     
 *   Show Less ...
 
-Pinterest 22%  Wikipedia 11% 
+Pinterest 16%  Wikipedia 5% 
 
 *   P3P
     
@@ -288,7 +288,7 @@ Pinterest 22%  Wikipedia 11% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 11% 
+Google+ 4% 
 
 *   privacy policy - Google+ - Google Plus
     
@@ -303,7 +303,7 @@ Google+ 11% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 22%  Music 11% 
+Linkedin 16%  Music 4% 
 
 *   Pandora
     
@@ -349,7 +349,7 @@ Linkedin 22%  Music 11% 
     
 *   Show Less ...
 
-Photo Albums 11% 
+Photo Albums 4% 
 
 *   Flickriver
     
@@ -360,7 +360,7 @@ Photo Albums 11% 
     Flickr (pronounced "flicker") is an image-and video-hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on 20 March 2005 ...
     
 
-Myspace 11% 
+Myspace 4% 
 
 *   Privacy Policy - 49086242
     
@@ -384,7 +384,7 @@ Myspace 11% 
     
 *   Show Less ...
 
-Web Search 22%  Images 11% 
+Web Search 16%  Images 4% 
 
 9
 
