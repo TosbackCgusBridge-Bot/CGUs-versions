@@ -110,7 +110,7 @@
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Ends Monday! $5 Standard Shipping - No Minimum Purchase!\* <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Privacy Policy Information We Collect and How it is Used
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Hurry! $5 Standard Shipping with No Minimum Purchase Ends Monday!\* <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Privacy Policy Information We Collect and How it is Used
 
 We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third-party advertising partner click here.
 
@@ -153,7 +153,7 @@ About Us
 Contact Us
 
 *   Contact Us
-
+*   1.800.753.8558
 *   Employment
 
 Business Accounts
