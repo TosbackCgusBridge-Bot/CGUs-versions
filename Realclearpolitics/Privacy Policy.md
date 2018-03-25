@@ -285,11 +285,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   David Hogg: "Our Parents Don't Know How To Use A F\*cking Democracy, So We Have To"
+*   David Hogg on Gun Control: "We Are Going To Make This A Voting Issue"
+*   Trump Signs Omnibus: Never Signing Another Spending Bill Like This Again
 *   John Bolton First Interview After Trump Named Him New National Security Advisor
 *   Mulvaney on Omnibus: Time To Reconsider Senate Rules "That Drive Us To This Type Of End Result"
 *   Rex Tillerson Farewell Statement to State Dept.: Washington Is A "Mean-Spirited Town"
-*   Jeffrey Toobin vs. Dershowitz: Why Have You Been Carrying Water For Trump?. "This Is Not Who You Used To Be"
 
 *   Politics
 *   Policy
