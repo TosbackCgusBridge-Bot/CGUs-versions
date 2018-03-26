@@ -270,26 +270,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalFOX News
+    *   Approve45
+    *   Disapprove52Disapprove +7
+*   2018 Generic Congressional VoteFOX News
+    *   Democrats46
+    *   Republicans41Democrats +5
 *   President Trump Job ApprovalMarist
     *   Approve42
     *   Disapprove51Disapprove +9
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve46
     *   Disapprove52Disapprove +6
-*   2018 Generic Congressional VoteMarist
-    *   Democrats44
-    *   Republicans39Democrats +5
-*   Direction of CountryMarist
-    *   Right Direction36
-    *   Wrong Track55Wrong Track +19
 
 More Latest Polls In The News
 
-*   David Hogg on Gun Control: "We Are Going To Make This A Voting Issue"
-*   Trump Signs Omnibus: Never Signing Another Spending Bill Like This Again
-*   John Bolton First Interview After Trump Named Him New National Security Advisor
-*   Mulvaney on Omnibus: Time To Reconsider Senate Rules "That Drive Us To This Type Of End Result"
-*   Rex Tillerson Farewell Statement to State Dept.: Washington Is A "Mean-Spirited Town"
+*   Navarro: "Brilliant" Trump Launching "Fundamental Reordering Of Global Trade System" Towards Reciprocity
+*   Tim Kaine: Trump Is "Lying" Or "Completely Delusional" On DACA, Rejected My Offer
+*   Lindsey Graham: "I Want To Be Able To Prove" FBI's Clinton Investigation Was "Whitewashed," "A Sham"
+*   Pro-Gun Parkland Student Kyle Kashuv: Why Wasn't I Invited To Speak At March For Our Lives?
+*   David Hogg on Gun Control: "We Are Going To Make This A Voting Issue". "Tomorrow Is The Beginning Of Democracy"
 
 *   Politics
 *   Policy
