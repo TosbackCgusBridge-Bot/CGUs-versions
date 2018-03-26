@@ -1,4 +1,4 @@
-close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE NOW1st month FREE
+SUBSCRIBE NOW1st month FREE
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE 
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowWoman gets life in drug-robbery slaying of war vetCrimeSuspected home intruder shot by Northeast residentCrimeResults of primary imply O'Rourke's obstaclesPoliticsPsychologist can't testify in drug-slaying caseCrimeSuccess is Oso Good for Bowie food-truck planEducationGGG has right to be mad at Canelo after drug testBoxingNew Downtown mural honors Chicano activistLocalSUV, Brio bus crash on Mesa sends 3 to hospitalTrafficMan, 71, missing after possible trip to JuárezCrimeEastwood soccer coach could face sanctionsHigh-schoolHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowRecords say Irvin student was killed in drug dealCrimeGGG has right to be mad at Canelo after drug testBoxingLocal horse, trainer win Sunland DerbySportsThese horses will go 1-2-3 at the Sunland DerbySportsHundreds in El Paso march to end gun violenceLocalWoman gets life in drug-robbery slaying of war vetCrimeUTEP's quarterback and four things that stood outSportsSuspected home intruder shot by Northeast residentCrimeResults of primary imply O'Rourke's obstaclesPoliticsArmed Valero store robber sought in Crime of WeekNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,5 +142,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
