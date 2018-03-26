@@ -135,7 +135,7 @@ View STR-DH590 AV Receiver on Instagram
 
 With Xperia XZ2 and the 1000XM2 Wireless Noise-Canceling Headphones, gear up for an audio experience that sounds as smooth as it looks.
 
-5 days ago
+6 days ago
 
 View Tweet
 
@@ -203,7 +203,7 @@ With the New Sony Card™
 
 Be the star of @djkhaled's Grammy Award-nominated "Major Key" album cover at #SonySquareNYC.
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -289,7 +289,7 @@ Play Reclaim the Kingdom in the RPG Sequel Video hotspot
 
 We went hands-on with @SonySantaMonica's new God of War. Now we know that it plays as good as it looks!
 
-4 days ago
+5 days ago
 
 View Tweet
 
