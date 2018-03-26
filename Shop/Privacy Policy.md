@@ -367,16 +367,13 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Ultralight. Ultrapowerful. Ultra-no-brainer.
+Built to perform. Engineered to endure.
 
-Shop ThinkPad X1 Carbon 6th Gen >.
+Now available!
 
-For those who set—not follow—trends.  
-With 8th Gen Intel® Core® i7 power in polished frames and premium audio-visuals.
+Boldly individual
 
-Shop 15">  
-Shop 14">  
-Shop 13">.
+Shop Now >
 
 Different Innovates Better
 
@@ -398,15 +395,16 @@ Lenovo Small Business
 
 Explore how Lenovo can be your small business partner.
 
-All New ThinkPad X380 Yoga
+Miix 720
 
-Adapts to work with you—as a laptop, tablet, or anything in between. Configure yours now.
+Need productivity on the go? This 2-in-1 can take you there.
 
-Flash Sale
+FLEX 5 (15")
 
-Save up to $650 off Select Yoga Laptops and Accessories. Sale Ends March 26.
+Pen-point sensitive touch screen and durable 360 degree hinge.
 
-Awaken your inner Jedi with a new smartphone-powered augmented reality experience.
+**Spring Cleaning Sale**  
+Out with the old and in with the new! Save up to 65% off through April 1.
 
 LAPTOPS
 
