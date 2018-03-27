@@ -103,53 +103,53 @@
     *   About
     *   Media Kit
 
-*   _James Robbins_: John Bolton Will Let Trump Be Trump -- Which Is Good
+*   _Wendy Sherman_: Trump &. Bolton's Plan to Isolate Allies, Encourage Enemies
     
-*   _Heather Hurlburt_: Bolton's Incompetence More Dangerous Than His Ideology
+*   _Caroline Glick_: Bolton's Hire Is a Brilliant Move
     
-*   _Russell Berman_: The Two Major Deals Congress Couldn't Strike
+*   _Julian Zelizer_: Why the Stormy Daniels Interview Should Scare Republicans
     
-*   _Byron York_: House GOP Thinks Intel Community Wrong on Russia
+*   _Moore &. Laffer_: Sorry, Dems, It's the Red States That Are 'Dynamic'
     
-*   _Michael Tomasky_: If Trump Fires Mueller, GOP Will Do... What, Exactly?
+*   _Margaret Talbot_: Scott Pruitt's Dirty Politics
     
-*   _Matthew Continetti_: Republicans Still Don't Get Trump
+*   _Rep. Dan Lipinski_: The Key to Keeping Our Democracy: Compromise
     
-*   _Patricia Murphy_: Some Dems Want to Dump Nancy Pelosi. Are They Nuts?
+*   _Gordan Chang_: Why China Will Lose a Trade War With Trump
     
-*   _Julie Kelly_: How Climate Tactics Paved the Way for Gun Control Bullying
+*   _Kevin McCullough_: The Stupidity of the 'March for Our Lives'
     
-*   _Shannon Watts_: March for Our Lives Shows Congress Must Act on Guns
+*   _Dean Obeidallah_: Trump's Mistake: Choosing Golf Club Over America's Children
     
-*   _Heather Wilhelm_: Is Tribalism Really on the Rise? Meh.
+*   _Mark Penn_: Congress Can Turn Protest Into Progress on Guns, Immigration
     
-*   _David Reich_: How Genetics Is Changing Our Understanding of 'Race'
+*   _Thomas Lifson_: Trump Hints He May Use Defense Budget to Build Border Wall
     
-*   _Paul Krugman_: Bumbling Into a Trade War
+*   _Rep. Erik Paulsen_: The Jobs Boom and the Republican Party's Growth Agenda
     
-*   _Harry Kazianis_: Long Overdue, Trump's China Tariffs Will Benefit America
+*   _Richard Haass_: Liberal World Order, R.I.P.
     
-*   _Ed Rogers_: Robert Mueller's Russia Investigation Is at a Crossroads
+*   _Sebastian Gorka_: Bolton Will Put U.S. First After Years of Obama Failures
     
-*   _Gabriel Sherman_: A Self-Assured Trump Prepares for War With Mueller
+*   _Susan Glasser_: How Alarmed Should We Be About John Bolton?
     
-*   _David Remnick_: Cambridge Analytica &. Silicon Valley's Moral Reckoning
+*   _Roger Kimball_: Why John Bolton Is No Warmonger
     
-*   _Megan McArdle_: Facebook Is America's Scapegoat Du Jour
+*   _Joel Kotkin_: Trump Succeeding in Smashing the Neoliberal World Order
     
-*   _Jonathan Chait_: Nobody Left to Save the World From Trump Now
+*   _Ana Marie Cox_: Don't Count Nancy Pelosi Out in 2018
     
-*   _Mark Davis_: Wisdom of John Bolton Choice Made Clear in Who's Panicking
+*   _Olga Khazan_: School Shootings: America's Unending Tragedy
     
-*   _Dara Lind_: Omnibus Shows GOP Tiring of Giving Trump a Lift on Immigration
+*   _Jeff Sessions_: The Steps We Are Taking to Make Schools Safer
     
-*   _Dave Ray_: Democrats' Jujitsu Moves on Immigration Reform
+*   _E.J. Dionne_: The March of the Hope-Mongers
     
-*   _Albert Hunt_: Don't Count on Jeff Sessions Protecting Mueller
+*   _Andrew Klavan_: What Is John Brennan Hiding?
     
-*   _Mollie Hemingway_: McCabe's Sessions Witch Hunt Confirms Worst Fears
+*   _David Remnick_: Cambridge Analytica &. Moral Reckoning in Silicon Valley
     
-*   _Seth Lipsky_: Legal Experts Are All Wrong on Suing the President
+*   _Jonathan Turley_: McCabe Uses Flynn Defense Against False Statement Allegation
     
 
 *   Previous
@@ -253,7 +253,7 @@ RecommendedPolitics
 
 *   DCCC Boosts Texas Runoff Candidates, Risking Backlash
 *   McMaster Out, Bolton In as Trump's National Security Adviser
-*   Navarro: China "Robbing Our Technology Blind"
+*   Nunes: Congress Needs to Hold Department of Justice, FBI in Contempt
 *   Trump's Mueller Fixation Seen as Strategic Move
 *   At 5, Republican Research Group Has Growing Role to Play
 *   Presidential Job Approval
@@ -270,26 +270,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalFOX News
-    *   Approve45
-    *   Disapprove52Disapprove +7
-*   2018 Generic Congressional VoteFOX News
-    *   Democrats46
-    *   Republicans41Democrats +5
-*   President Trump Job ApprovalMarist
-    *   Approve42
-    *   Disapprove51Disapprove +9
+*   President Trump Job ApprovalCNN
+    *   Approve43
+    *   Disapprove53Disapprove +10
+*   President Trump Job ApprovalGallup
+    *   Approve39
+    *   Disapprove55Disapprove +16
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve46
     *   Disapprove52Disapprove +6
+*   Direction of CountryRasmussen Reports
+    *   Right Direction39
+    *   Wrong Track56Wrong Track +17
 
 More Latest Polls In The News
 
-*   Navarro: "Brilliant" Trump Launching "Fundamental Reordering Of Global Trade System" Towards Reciprocity
-*   Tim Kaine: Trump Is "Lying" Or "Completely Delusional" On DACA, Rejected My Offer
-*   Lindsey Graham: "I Want To Be Able To Prove" FBI's Clinton Investigation Was "Whitewashed," "A Sham"
-*   Pro-Gun Parkland Student Kyle Kashuv: Why Wasn't I Invited To Speak At March For Our Lives?
-*   David Hogg on Gun Control: "We Are Going To Make This A Voting Issue". "Tomorrow Is The Beginning Of Democracy"
+*   Trump Admin's Raj Shah: "We Still Want To Work With Russia," "The Ball Is In Their Court"
+*   Larry King Rips Cable News Networks: There Is No News Anymore, "It's All Trump". Calls CNN Liberal
+*   Whoopi Goldberg To Stormy Daniels Lawyer: Where's The Smoking Gun? Did '60 Minutes' Miss Something?
+*   Buchanan: With Bolton And Pompeo, We're In For "Much More Hawkish Foreign Policy Than Trump Advertised"
+*   Nunes: Congress Needs to Hold DOJ/FBI in Contempt. Impeach Officials Withholding Documents
 
 *   Politics
 *   Policy
