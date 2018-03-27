@@ -17,7 +17,7 @@ Search Fidelity.com
     *   PortfolioLog In Required
     *   Account PositionsLog In Required
     *   TradeLog In Required
-    *   Active Trader ProLog In Required
+    *   Active Trader Pro
     *   TransferLog In Required
     *   Cash ManagementLog In Required
     *   BillPayLog In Required
@@ -67,7 +67,6 @@ Search Fidelity.com
     *   529 College Savings
     *   Annuities
     *   Life Insurance &. Long Term Care
-    *   Charitable Giving
 *   Why Fidelity
     *   The Fidelity Advantage
     *   Planning &. Advice
