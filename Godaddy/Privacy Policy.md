@@ -1,4 +1,4 @@
-**Last Revised: March 6, 2018**
+**Last Revised: March 26, 2018**
 
 GoDaddy Respects your privacy
 
