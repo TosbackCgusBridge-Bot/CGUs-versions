@@ -273,8 +273,8 @@ COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)Cana
 *   Mattel, Parent Co.
 *   Careers
 
-*   Terms &. Conditions
-*   Privacy Statement
+*   {{links.termsandconditions\[0\].title}}
+*   {{links.privacy\[0\].title}}
 
 out of
 
