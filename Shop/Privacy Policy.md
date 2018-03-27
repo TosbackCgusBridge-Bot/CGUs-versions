@@ -33,6 +33,9 @@ Menu Close Menu Close
             
             *   Thinkpad 11e
             *   Flex 11 Chromebook
+            *   100e Chromebook
+            *   300e Chromebook
+            *   500e Chromebook
         
         *   *   Lots of options, but only one you, right? Narrow your choices by category, and find the laptop you truly want.
                 
@@ -317,9 +320,7 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   Markdown Madness Sale
-            
-        *   Monitor Deals
+    *   *   Monitor Deals
             
         *   72 HOUR FLEX SALE
             
@@ -395,9 +396,9 @@ Lenovo Small Business
 
 Explore how Lenovo can be your small business partner.
 
-Miix 720
+TAB 4 10 PLUS ADDS IT ALL
 
-Need productivity on the go? This 2-in-1 can take you there.
+Super sound. Separate user accounts. And simply dazzling visuals.
 
 FLEX 5 (15")
 
@@ -488,6 +489,7 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
     *   Business Partners
     *   Partner Portal
     *   Military
+    *   Higher Education
     *   Higher Education
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   RESOURCES
