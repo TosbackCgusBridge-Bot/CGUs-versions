@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Enter Now for a chance to win a $500 Buckle Gift Card.
+Shop elevated styles for Springtime Events.
 
 *   Women
 *   Men
@@ -23,7 +23,7 @@ Enter Now for a chance to win a $500 Buckle Gift Card.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
