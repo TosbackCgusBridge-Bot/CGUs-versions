@@ -3,7 +3,7 @@ Skip to main content
 *   Very Real
 *   Crime Time
 *   Martinis &. Murder
-*   In Progress
+*   Shop Oxygen
 *   Podcast
 
 Open menu
@@ -14,9 +14,11 @@ Open menu
     
     *   Aaron Hernandez Uncovered
     *   Bobbi Kristina Brown: Deadly Legacy
+    *   Chandra Levy: Who Killed Chandra?
     *   Chicago P.D.
     *   Dateline: Secrets Uncovered
     *   In Ice Cold Blood
+    
     *   It Takes A Killer
     *   Killer Couples
     *   Mysteries &. Scandals
@@ -36,9 +38,11 @@ Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
     
     *   Aaron Hernandez Uncovered
     *   Bobbi Kristina Brown: Deadly Legacy
+    *   Chandra Levy: Who Killed Chandra?
     *   Chicago P.D.
     *   Dateline: Secrets Uncovered
     *   In Ice Cold Blood
+    
     *   It Takes A Killer
     *   Killer Couples
     *   Mysteries &. Scandals
@@ -55,7 +59,7 @@ Get Updates Facebook Twitter Instagram Snapchat Newsletter Sites
 *   Very Real
 *   Crime Time
 *   Martinis &. Murder
-*   In Progress
+*   Shop Oxygen
 *   Podcast
 
 Page Not Found
@@ -102,3 +106,5 @@ Get Involved
 Stay Connected Facebook Twitter Instagram Snapchat Newsletter Stay Connected Facebook Twitter Instagram Snapchat Newsletter
 
 ©2018 Oxygen Media LLC. A Division of NBCUniversal
+
+AddThis SharingSHARESFacebookTwitterPrintAddthisAddThis SharingPinterestFacebookEmailCopy Link
