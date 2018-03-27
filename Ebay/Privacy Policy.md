@@ -74,11 +74,11 @@ In dieser Datenschutzerklärung werden die Erhebung, Nutzung, Weitergabe, Speich
 
 Der Vertragspartner eines Nutzers ist bei einem Sitz des Unternehmens oder Wohnsitz der natürlichen Person
 
-*   in der EU mit Ausnahme des Vereinigten Königreichs die eBay Europe S.à r.l., 22-24 Boulevard Royal, 2449 Luxembourg,
+*   in der EU mit Ausnahme des Vereinigten Königreichs bis einschließlich 30. April 2018 die eBay Europe S.à r.l., 22-24 Boulevard Royal, 2449 Luxembourg, ab dem 1. Mai 2018 die eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Deutschland,
     
 *   im Vereinigten Königreich die eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, Großbritannien,
     
-*   außerhalb der EU mit Ausnahme der USA und Kanadas die eBay International AG, Helvetiastraße 15-17, 3005 Bern, Schweiz,
+*   außerhalb der EU mit Ausnahme der USA und Kanadas bis einschließlich 31. Mai 2018 die eBay International AG, Helvetiastraße 15-17, 3005 Bern, Schweiz, ab dem 1. Juni 2018 die eBay Marketplaces GmbH, Helvetiastraße 15-17, 3005 Bern, Schweiz,
     
 *   in Kanada die eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Kanada,
     
