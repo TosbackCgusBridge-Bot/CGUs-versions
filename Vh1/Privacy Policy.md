@@ -4,14 +4,14 @@
     *   Shows A-Z
     *   TV Schedule
     *   Love &. Hip Hop Atlanta
-    *   Love &. Hip Hop Miami
+    *   Teyana &. Iman
+    *   Leave It To Stevie
     *   America's Next Top Model
     *   Black Ink Crew
     *   VH1 Beauty Bar
-    *   RuPaul's Drag Race All Stars
     *   RuPaul's Drag Race
-    *   Teyana &. Iman
-    *   Leave It To StevieSee all Shows
+    *   RuPaul's Drag Race All Stars
+    *   Love &. Hip Hop MiamiSee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip Hop AtlantaLove &. Hip Hop MiamiAmerica's Next Top ModelBlack Ink CrewVH1 Beauty BarRuPaul's Drag Race All StarsRuPaul's Drag RaceTeyana &. ImanLeave It To StevieLove &. Hip HopBrunch With Tiffanysee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleLove &. Hip Hop AtlantaTeyana &. ImanLeave It To StevieAmerica's Next Top ModelBlack Ink CrewVH1 Beauty BarRuPaul's Drag RaceRuPaul's Drag Race All StarsLove &. Hip Hop MiamiLove &. Hip HopBrunch With Tiffanysee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
