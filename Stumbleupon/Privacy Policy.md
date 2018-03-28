@@ -1,1 +1,1 @@
-This is an advertisement! BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+Stumble to discover the best of the web. Connect with Facebook Connect Get App Join for free: Swipe to Stumble This is an advertisement!
