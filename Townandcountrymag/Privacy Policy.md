@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Biggest and Best Royal Wedding Hats of All Time 2 The Best Places to Go in April 3 14 Easter Gift Ideas for Everyone in Your Family 4 15 Gorgeous Spring Wedding Guest Dresses 5 Ashley Judd in Conversation With Salma Hayek Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Biggest and Best Royal Wedding Hats of All Time 2 15 Gorgeous Spring Wedding Guest Dresses 3 The Best Places To Go in May 4 Analyzing Meghan Markle's Handwriting 5 T&C Horoscopes: April 1-15 Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
