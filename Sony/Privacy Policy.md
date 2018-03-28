@@ -127,7 +127,7 @@ With WF-SP700N Headphones
 
 Make every day a creative adventure with #Xperia XA2 Ultra.
 
-49 minutes ago
+1 day ago
 
 View Tweet
 
@@ -287,7 +287,7 @@ Play Immerse Yourself in Khalid’s Video hotspot
 
 Watch @LeonBridges' new video for "Bad Bad News" now!
 
-1 hour ago
+1 day ago
 
 View Tweet
 
