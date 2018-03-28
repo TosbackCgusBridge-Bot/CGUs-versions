@@ -8,11 +8,40 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   TOMS
+    *   TOMS Men
+    *   TOMS Kids
+    *   Levi's Jackets &. More
+    *   BCBGeneration
+    *   Free Shipping: NMK Bedding Blowout
+    *   Free Shipping: Sheepskin &. Decor Blowout
+    *   Free Shipping: Ultra-Soft Towels from $10
+    *   Free Shipping: Classic Ceramic Serveware &. More
+    *   Free Shipping: Meal Prep &. Storage
+    *   LOVE Moschino
+    *   Bobeau Incl. Plus &. Petites
+    *   Trending Now: Soft Pants, Trousers &. More
+    *   Perfect Pairings: Jewelry Sets from $10
+    *   Trina Turk Shoes Up to 70% Off
+    *   Up to 75% Off: Designer Shop
+    *   SmartWool
+    *   Aerosoles Starting at $30
+    *   Emerging K-Beauty: Dr. Frog &. More
+    *   Wild Honey &. More Under $35
+    *   Bally Total Fitness Under $25
+    *   Dry Divas Designer Shower Caps
+    *   Striking Statement Jewelry Starting at $10
+    *   Ezekiel Under $30
+    *   Natural Blue
+    *   Appaman
+    *   Azul Kids' Swimwear
+    *   Spring Break Getaway: Calpak Luggage &. More
     *   JOE'S Jeans
     *   JOE'S Jeans Men
-    *   Alternative
     *   Liebeskind Berlin Apparel &. Handbags
     *   Splendid Starting at $40
+    *   Alternative
+    
     *   Seafolly Swim
     *   Dex Under $50
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
@@ -41,51 +70,24 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jackets for Every Season Up to 70% Off
     *   Face Masks We Love Up to 85% Off
     *   Vintage Addiction Up to 80% Off
-    *   Free Shipping: Luxe Rug Steals
+    *   Free Shipping: Kitchen Blowout
     *   Men's Shoes Up to 65% Off
     *   Bulova Watches Up to 70% Off
-    *   Wacoal &. b.tempt'd by Wacoal
-    
-    *   Show Me Your Mumu Up to 70% Off
-    *   Clarks
-    *   KUT from the Kloth &. Democracy Incl. Special Sizes
-    *   Spring Dresses ft. Taylor Incl. Plus
     *   Handmade in Turkey: TMRW Studio Jewelry
-    *   Juicy Couture Swim &. More
-    *   FAVLUX Under $20
     *   CZ by Kenneth Jay Lane Up to 75% Off
-    *   Chinese Laundry Starting at $30
-    *   Sandals, Sneakers &. More Starting at $15
+    
+    *   Moon Juice: Plant-Sourced Alchemy
     *   Sleek'e Hair Tools
-    *   Free Shipping: Kitchen Blowout
+    *   Free Shipping: Luxe Rug Steals
     *   Ben Sherman Tailored Clothing
     *   Spring Break Must-Haves: Travel Bags ft. Dakine
     *   Cult of Individuality
-    *   Robert Wayne Up to 65% Off
-    *   Moon Juice: Plant-Sourced Alchemy
     *   Everly Grey Maternity Up to 70% Off
     *   Electric Yoga Maternity Up to 65% Off
     *   Kids' Shoes ft. Rachel Shoes
     *   Baby Shop: Premium Styles Under $25
     *   Sip in Style: Bright Bottles, Tumblers &. More
     *   Doodle Pants
-    *   Abound
-    *   Rock Revival
-    *   Max Studio
-    *   Patricia Green Up to 60% Off
-    *   Endless Rose
-    *   American Twist Starting at $15
-    *   On Trend: Sterling Silver &. More Up to 70% Off
-    *   New Arrivals: Spring Boho Looks
-    *   Cosabella
-    *   Slide into Spring: Slides &. Mules From $20
-    *   Fresh Sandals ft. Warm Creature &. More
-    *   A Che' Swim
-    *   Avah &. Ella Jewelry Starting at $15
-    *   Abound &. More Under $60
-    
-    *   Leather Handbags &. Wallets ft. Fossil
-    *   Bertha Novelty Watches Starting at $60
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Pets on the Go: Carriers, Feeders &. More
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
@@ -94,44 +96,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   CAT Footwear Up to 55% Off
     *   Zachary Prell
     *   Bravado Tees Starting at $15
-    *   Psycho Bunny
     *   Home Organization Starting at $14
     *   Sharpen Up: Colorful Kitchen Essentials
     *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
     *   PURA D'OR Hair Care Up to 50% Off
-    *   GBX Starting at $40
-    *   Mirenesse Australia Up to 70% Off
-    *   ilike Organic Skincare
     *   Free Shipping: Bedding, Throws &. More
     *   Set the Tone: Bluetooth Headphones &. More
-    *   Spring Style: Chic Bags &. Accessories
     *   Free Shipping: Budget-Friendly Rugs
     *   Free Shipping: Graphic Prints We Love
     *   Free Shipping: Decorative Pillows from $23
-    *   Spring Style: Chic Shoes
-    *   Spring Style: Chic Work Looks &. More
-    *   Spring Style: Chic Looks for Evening
-    *   KitchenAid
-    *   Spring Style: Weekend-Ready Bags &. Accessories
-    *   Free Shipping: Lighting &. More Starting at $24
-    *   Color Pop: Wall Murals &. More
-    *   Free Shipping: Accent Furniture Under $200
-    *   Spring Style: Casual Looks for Day
-    *   Kitchen Kitsch: Wine-Themed Hand Towels &. More
-    *   Spring Style: Weekend-Ready Shoes
-    *   Spring Style: Activewear Essentials
+    *   Wacoal &. b.tempt'd by Wacoal
+    *   Clarks
+    *   KUT from the Kloth &. Democracy Incl. Special Sizes
+    *   Rock Revival
 *   WomenShop Sale Events
     
+    *   TOMS
+    *   Levi's Jackets &. More
+    *   BCBGeneration
+    *   LOVE Moschino
+    *   Bobeau Incl. Plus &. Petites
+    *   Trending Now: Soft Pants, Trousers &. More
+    *   Perfect Pairings: Jewelry Sets from $10
+    *   Trina Turk Shoes Up to 70% Off
+    *   Up to 75% Off: Designer Shop
+    *   SmartWool
+    *   Aerosoles Starting at $30
+    *   Emerging K-Beauty: Dr. Frog &. More
+    *   Wild Honey &. More Under $35
+    *   Bally Total Fitness Under $25
+    *   Dry Divas Designer Shower Caps
+    *   Striking Statement Jewelry Starting at $10
+    *   Spring Break Getaway: Calpak Luggage &. More
     *   JOE'S Jeans
-    *   Alternative
     *   Liebeskind Berlin Apparel &. Handbags
     *   Splendid Starting at $40
+    *   Alternative
     *   Seafolly Swim
     *   Dex Under $50
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   Bow &. Drape Sleep and Lounge
     *   Sandals We Love Under $50
     *   Rivka Friedman Jewelry Up to 80% Off
+    
     *   Under $40: Sadie &. Sage
     *   Shellys London Under $60
     *   Handcrafted in Colombia: Mishky Jewelry
@@ -145,83 +152,52 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Face Masks We Love Up to 85% Off
     *   Vintage Addiction Up to 80% Off
     *   Bulova Watches Up to 70% Off
-    *   Wacoal &. b.tempt'd by Wacoal
-    *   Show Me Your Mumu Up to 70% Off
-    *   Clarks
-    *   KUT from the Kloth &. Democracy Incl. Special Sizes
-    *   Spring Dresses ft. Taylor Incl. Plus
     *   Handmade in Turkey: TMRW Studio Jewelry
-    *   Juicy Couture Swim &. More
-    *   FAVLUX Under $20
     *   CZ by Kenneth Jay Lane Up to 75% Off
-    *   Chinese Laundry Starting at $30
-    *   Sandals, Sneakers &. More Starting at $15
-    
-    *   Sleek'e Hair Tools
     *   Moon Juice: Plant-Sourced Alchemy
+    *   Sleek'e Hair Tools
     *   Everly Grey Maternity Up to 70% Off
     *   Electric Yoga Maternity Up to 65% Off
-    *   Abound
-    *   Rock Revival
-    *   Max Studio
-    *   Patricia Green Up to 60% Off
-    *   Endless Rose
-    *   American Twist Starting at $15
-    *   On Trend: Sterling Silver &. More Up to 70% Off
-    *   New Arrivals: Spring Boho Looks
-    *   Cosabella
-    *   Slide into Spring: Slides &. Mules From $20
-    *   Fresh Sandals ft. Warm Creature &. More
-    *   A Che' Swim
-    *   Avah &. Ella Jewelry Starting at $15
-    *   Abound &. More Under $60
-    *   Leather Handbags &. Wallets ft. Fossil
-    *   Bertha Novelty Watches Starting at $60
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Korean Beauty JayJun Skin Care
     *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
     *   PURA D'OR Hair Care Up to 50% Off
-    *   Mirenesse Australia Up to 70% Off
-    *   ilike Organic Skincare
-    *   Spring Style: Chic Bags &. Accessories
-    *   Spring Style: Chic Shoes
-    *   Spring Style: Chic Work Looks &. More
-    *   Spring Style: Chic Looks for Evening
-    *   Spring Style: Weekend-Ready Bags &. Accessories
-    *   Spring Style: Casual Looks for Day
-    *   Spring Style: Weekend-Ready Shoes
-    *   Spring Style: Activewear Essentials
+    *   Wacoal &. b.tempt'd by Wacoal
+    *   Clarks
+    *   KUT from the Kloth &. Democracy Incl. Special Sizes
+    *   Rock Revival
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
-    *   Lingerie
+    *   Shoes
     *   Handbags
-    *   Watches
+    *   Lingerie
     *   Tech Accessories
+    *   Watches
     *   Accessories
 *   MenShop Sale Events
     
+    *   TOMS Men
+    *   Ezekiel Under $30
+    *   Natural Blue
+    *   Spring Break Getaway: Calpak Luggage &. More
     *   JOE'S Jeans Men
     *   Dress Shirts Under $30 ft. Forsyth of Canada
     *   Lacoste Men's Lounge &. Underwear
     *   Marc New York Men's Shoes
     *   Men's Watches Starting at $50
     *   Men's Shoes Up to 65% Off
+    
     *   Bulova Watches Up to 70% Off
+    *   Moon Juice: Plant-Sourced Alchemy
     *   Ben Sherman Tailored Clothing
     *   Spring Break Must-Haves: Travel Bags ft. Dakine
-    
     *   Cult of Individuality
-    *   Robert Wayne Up to 65% Off
-    *   Moon Juice: Plant-Sourced Alchemy
     *   X-Ray Up to 80% Off
     *   CAT Footwear Up to 55% Off
     *   Zachary Prell
     *   Bravado Tees Starting at $15
-    *   Psycho Bunny
-    *   GBX Starting at $40
     
     Shop By Category
     *   Clothing
@@ -230,9 +206,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   TOMS Kids
+    *   Appaman
+    *   Azul Kids' Swimwear
     *   JOE'S Jeans Kids
     *   $60 &. Under: Timberland Kids
     *   Fun Boho Looks from mymichelle
+    
     *   Spring Faves for Boys: Tees, Polos &. More
     *   Everly Grey Maternity Up to 70% Off
     *   Electric Yoga Maternity Up to 65% Off
@@ -241,61 +221,62 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Doodle Pants
     
     Shop By Category
+    *   Boys Sizes 8-20
+    *   Girls Sizes 7-16
     *   Baby Boy
     *   Girls' Shoes
-    *   Baby Girl
-    *   Girls Sizes 7-16
-    *   Boys Sizes 8-20
     *   Boys Sizes 2T-7
+    *   Baby Girl
     *   Girls Sizes 2T-6X
     *   Boys' Shoes
     *   Baby Gear &. Essentials
+    *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Free Shipping: NMK Bedding Blowout
+    *   Free Shipping: Sheepskin &. Decor Blowout
+    *   Free Shipping: Ultra-Soft Towels from $10
+    *   Free Shipping: Classic Ceramic Serveware &. More
+    *   Free Shipping: Meal Prep &. Storage
     *   Free Shipping: Hand-Painted Replicas
     *   Chef-Worthy Kitchen Accessories
-    *   Free Shipping: Luxe Rug Steals
     *   Free Shipping: Kitchen Blowout
+    *   Free Shipping: Luxe Rug Steals
     *   Sip in Style: Bright Bottles, Tumblers &. More
+    
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Pets on the Go: Carriers, Feeders &. More
     *   Home Organization Starting at $14
     *   Sharpen Up: Colorful Kitchen Essentials
     *   Free Shipping: Bedding, Throws &. More
-    
     *   Set the Tone: Bluetooth Headphones &. More
     *   Free Shipping: Budget-Friendly Rugs
     *   Free Shipping: Graphic Prints We Love
     *   Free Shipping: Decorative Pillows from $23
-    *   KitchenAid
-    *   Free Shipping: Lighting &. More Starting at $24
-    *   Color Pop: Wall Murals &. More
-    *   Free Shipping: Accent Furniture Under $200
-    *   Kitchen Kitsch: Wine-Themed Hand Towels &. More
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
     *   Organization
-    *   Accent Furniture
+    *   Bath
     *   Luggage &. Travel
     *   Outdoor Living
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   Emerging K-Beauty: Dr. Frog &. More
+    *   Dry Divas Designer Shower Caps
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   The Art of Clean: Sonic Brushes Up to 50% Off
     *   Face Masks We Love Up to 85% Off
-    *   Sleek'e Hair Tools
     *   Moon Juice: Plant-Sourced Alchemy
-    *   Terre Mere Organic Vegan Beauty Up to 80% Off
     
+    *   Sleek'e Hair Tools
+    *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Korean Beauty JayJun Skin Care
     *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
     *   PURA D'OR Hair Care Up to 50% Off
-    *   Mirenesse Australia Up to 70% Off
-    *   ilike Organic Skincare
     
     Shop By Category
     *   Skin Care
@@ -305,7 +286,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bath &. Body
     *   Supplements
 
-SearchHauteLook Privacy PolicyHauteLook Privacy Policy Overview
+Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
 At HauteLook, we appreciate the trust you place in us when you choose to visit our website and we take that responsibility seriously. This HauteLook Privacy Policy (the “Policy”) describes how we collect and use personal information about you when you visit our website, use our mobile application, or call us on the phone.  
 By “personal information”, we mean information that directly identifies you, such as your name, address, or email address. In this Policy, “HauteLook”, “we” and “our” mean Nordstrom, Inc., and “you” means any person who visits our website, uses our mobile application, or calls us on the phone.
