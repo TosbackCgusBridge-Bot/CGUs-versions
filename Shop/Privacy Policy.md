@@ -320,9 +320,9 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   Monitor Deals
+    *   *   BUSINESS BRACKET BUSTER EVENT
             
-        *   72 HOUR FLEX SALE
+        *   Monitor Deals
             
 *   Support
     *   Sales Enquiries
@@ -405,7 +405,7 @@ FLEX 5 (15")
 Pen-point sensitive touch screen and durable 360 degree hinge.
 
 **Spring Cleaning Sale**  
-Out with the old and in with the new! Save up to 65% off through April 1.
+Out with the old and in with the new! Save up to 75% off through April 1.
 
 LAPTOPS
 
@@ -489,6 +489,7 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
     *   Business Partners
     *   Partner Portal
     *   Military
+    *   Higher Education
     *   Higher Education
     *   Higher Education
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
