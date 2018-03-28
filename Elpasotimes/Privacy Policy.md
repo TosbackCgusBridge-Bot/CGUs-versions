@@ -1,5 +1,3 @@
-SUBSCRIBE NOW1st month FREE
-
 *   Home
 *   News
 *   Sports
@@ -73,7 +71,7 @@ SUBSCRIBE NOW1st month FREE
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowHave you seen El Paso's most wanted fugitives?CrimeLocal horse, trainer win Sunland DerbySportsDreamers arrested over human smuggling, violenceCrimeRecords say Irvin student was killed in drug dealCrimePadres bringing back ex-Chihuahuas to El PasoSportsEl Pasoans live longer, not better, study saysHealthTFCU's multimillion-dollar operations center opensBusinessHundreds in El Paso march to end gun violenceLocalGGG has right to be mad at Canelo after drug testBoxingEl Paso artist restores Eddie Guerrero muralNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowFormer UTEP player wants to come back homeCollegeHave you seen El Paso's most wanted fugitives?CrimeDreamers arrested over human smuggling, violenceCrimeLed by a Rhinos charge, hockey booms in El PasoSportsEl Paso County has new Public Works directorLocalMan convicted of murdering woman, fetus appealsCrimeEPISD considering second 'penny swap' electionEducationLocal horse, trainer win Sunland DerbySportsEl Pasoans live longer, not better, study saysHealthEl Pasoans show up early to see MLB playersBaseballHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,3 +140,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogclose dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogclose dialogREGISTER FOR A CHANCE TOWIN A $4,500Carnival Cruise Line Gift CardEnter NowNO THANKS, I DON’T WANT A FREE TRIPVoted #1 Readers’ ChoiceMust be registered with USA TODAY NETWORK to win. Entry period 3/26/18 - 4/13/18. See official rules for detailsclose dialog
