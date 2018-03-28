@@ -401,18 +401,15 @@ If you have questions or complaints regarding this Policy, please first contact 
     *   ภาษาไทย
     *   Türkçe
     *   العربية
-*   SlideShare
 *   Online Learning
 
 *   Search Jobs
 
 *   Directories
 *   Members
-*   Jobs
 *   Pulse
 *   Topics
 *   Companies
-*   Groups
 *   Universities
 *   Titles
 *   ProFinder
