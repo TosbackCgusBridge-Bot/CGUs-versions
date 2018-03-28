@@ -34,11 +34,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 1 OF COUPON CODE 8SPRING ENDS IN
+Near YouFind a StoreBack DAY 2 OF COUPON CODE 8SPRING ENDS IN
 
 \*Offer ends on 3/31/18
 
-Days 0 0 0 0 hours 4 4 1 1 mins 1 1 6 6 secs
+Days 0 0 0 0 hours 4 4 0 0 mins 5 5 8 8 secs
 
 *   **FREE** SHIPPING &. HANDLING DETAILS
 *   SHOP &. **GET REWARDS**
@@ -55,7 +55,7 @@ EXPLORE THE CAMPAIGN>UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DR
     
     was $190
     
-    JF J. Ferrar® Stretch Gabardine Suit Jacket - Slim Fit(279)Add To Cart
+    JF J. Ferrar® Stretch Gabardine Suit Jacket - Slim Fit(280)Add To Cart
 *   $95 sale
     
     was $190
@@ -71,16 +71,16 @@ EXPLORE THE CAMPAIGN>UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DR
     was $235
     
     Stafford Travel Wool Blend Stretch Suit Jacket Big and Tall(15)Add To Cart
-*   $95 sale
-    
-    was $190
-    
-    JF J.Ferrar Pin Dot Slim Fit Suit Jacket(7)Add To Cart
 *   $130 sale
     
     was $260
     
     Collection by Michael Strahan Classic Fit Suit JacketAdd To Cart
+*   $95 sale
+    
+    was $190
+    
+    JF J.Ferrar Pin Dot Slim Fit Suit Jacket(7)Add To Cart
 *   $95 sale
     
     was $190
@@ -95,7 +95,12 @@ EXPLORE THE CAMPAIGN>UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DR
     
     was $275
     
-    Stafford® Executive Super 100 Wool Suit Jacket–Big &. Tall(62)Add To Cart
+    Stafford® Executive Super 100 Wool Suit Jacket–Big &. Tall(63)Add To Cart
+*   $95 sale
+    
+    was $190
+    
+    JF J.Ferrar Light Gray Slim Fit Suit JacketAdd To Cart
 *   $105 sale
     
     was $210
@@ -105,22 +110,17 @@ EXPLORE THE CAMPAIGN>UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DR
     
     was $190
     
-    JF J.Ferrar Light Gray Slim Fit Suit JacketAdd To Cart
+    JF J. Ferrar Black Nailhead Slim-Fit Suit Jacket(82)Add To Cart
 *   $75 sale
     
     was $190
     
     JF J. Ferrar® End on End Suit Jacket - Classic Fit(34)Add To Cart
-*   $105 sale
-    
-    was $210
-    
-    Stafford® Travel Wool Blend Brown Sharkskin Classic Fit Jacket(17)Add To Cart
 *   $95 sale
     
     was $190
     
-    JF J. Ferrar Black Nailhead Slim-Fit Suit Jacket(82)Add To Cart
+    JF J. Ferrar® Dark Blue Texture Jacket-Slim(13)Add To Cart
 
 SAVE ON OUTDOOR ENTERTAININGSHOP ALLSAVE ON OUTDOOR ENTERTAININGSHOP ALL
 
@@ -144,11 +144,6 @@ SAVE ON OUTDOOR ENTERTAININGSHOP ALLSAVE ON OUTDOOR ENTERTAININGSHOP ALL
     was $560
     
     Outdoor Oasis Melbourne 5-pc. Round Glass Patio Dining SetAdd To Cart
-*   $499.99 sale
-    
-    was $1,000
-    
-    Outdoor Oasis Melbourne 7-pc. Rectangular Tile Patio Dining Set with Swivel ChairsAdd To Cart
 *   $199.99 sale
     
     was $400
@@ -199,6 +194,11 @@ SAVE ON OUTDOOR ENTERTAININGSHOP ALLSAVE ON OUTDOOR ENTERTAININGSHOP ALL
     was $1,405
     
     Outdoor Oasis Latigo Wicker 4-pc. Conversation Set with Swivel ChairsAdd To Cart
+*   $799.99 sale
+    
+    was $1,600
+    
+    Outdoor Oasis Latigo Wicker 5-pc. Square Patio Dining Set with Swivel ChairsAdd To Cart
 
 SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALL
 
@@ -211,18 +211,11 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     Worthington Trousers(4)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $12.99 sale
+    $11.10 sale
     
-    was $44
+    was $37
     
-    Belle + Sky Smocked Off The Shoulder Top(2)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $12.99 sale
-    
-    was $44
-    
-    a.n.a Long Sleeve Y Neck Woven Blouse(10)Add To Cart
+    St. John's Bay Active Long Sleeve Cozy Flyaway Cardigan(9)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $11.10 sale
@@ -232,18 +225,25 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     St. John's Bay Active Long Sleeve Lace Up Top(13)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $11.10 sale
+    $12.99 sale
     
-    was $37
+    was $44
     
-    St. John's Bay Active Long Sleeve Cozy Flyaway Cardigan(9)Add To Cart
+    a.n.a Long Sleeve Y Neck Woven Blouse(10)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $12.99 sale
     
     was $44
     
-    Bold Elements Jewel Choker Cold Shoulder Top(7)Add To Cart
+    Belle + Sky Smocked Off The Shoulder Top(2)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $13.99 sale
+    
+    was $47
+    
+    Worthington Straight Leg Slim Fit Trousers - Plus(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $10.99 sale
@@ -253,6 +253,13 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     Bold Elements Caged Cold Shoulder TopAdd To Cart
 *   LIMITED TIME SPECIAL!
     
+    $12.99 sale
+    
+    was $44
+    
+    Bold Elements Jewel Choker Cold Shoulder Top(7)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
     $7.99 sale
     
     was $27
@@ -260,39 +267,25 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     a.n.a Short Sleeve Scoop Neck Asymmetrical Hem Top(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $11.10 sale
-    
-    was $37
-    
-    St. John's Bay Active Knit Jogger Pants (Tapered Leg)(6)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $11.99 sale
-    
-    was $42
-    
-    Boutique + 3/4 Sleeve V Neck Woven Floral Blouse - Plus(5)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $13.99 sale
-    
-    was $47
-    
-    Worthington Straight Leg Slim Fit Trousers Plus(2)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $19.99 sale
-    
-    was $69
-    
-    Studio 1 3/4 Sleeve Floral Fit &. Flare Dress - Plus(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $15.99 sale
     
     was $54
     
     Bold Elements Off The Shoulder Bell Sleeve Dress(11)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $13.99 sale
+    
+    was $49
+    
+    Worthington Ankle Pants(3)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $11.10 sale
+    
+    was $37
+    
+    St. John's Bay Active Knit Jogger Pants (Tapered Leg)(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $12.99 sale
@@ -304,9 +297,16 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     
     $13.99 sale
     
-    was $49
+    was $47
     
-    Worthington Ankle Pants(3)Add To Cart
+    Boutique + Long Sleeve Cardigan - Plus(4)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $10.80 sale
+    
+    was $36
+    
+    Liz Claiborne Piped Georgette Button-Front BlouseAdd To Cart
 
 Shop and Save at JCPenney
 
