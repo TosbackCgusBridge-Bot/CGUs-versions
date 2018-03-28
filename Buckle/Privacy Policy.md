@@ -115,6 +115,7 @@ Shop elevated styles for Springtime Events.
         
         *   Tops
         
+        *   2 For $25
         *   Graphic Tees
         *   Solid Tees
         *   Shirts
