@@ -95,7 +95,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Research Wildfire season in Southern Plains off to a strong start after a dry winter Oceans &. Coasts Fisheries These veterans have a mission: This time, it’s fighting for coral National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Podcast: What is an ocean garbage patch? Weather Research Wildfire season in Southern Plains off to a strong start after a dry winter National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -105,7 +105,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had its coolest February since 2014 Sea ice coverage at the poles remains at record- and near-record lows AROUND NOAA // Featured photo: It’s lights out at the bottom of the world, for now What are atmospheric rivers? Study: Climate change soon to be main cause of heat waves in West, Great Lakes Spring Outlook: U.S. to see moderate flooding, warmer-than-normal temperatures
+Enter Search Terms Globe had its coolest February since 2014 Sea ice coverage at the poles remains at record- and near-record lows AROUND NOAA // Podcast: What is an ocean garbage patch? Featured photo: It’s lights out at the bottom of the world, for now Study: Climate change soon to be main cause of heat waves in West, Great Lakes
 
 *   About our agency
 *   News and features
