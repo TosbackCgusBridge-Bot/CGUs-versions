@@ -5,43 +5,40 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   Pacific Rim Uprising (2018)
     *   Black Panther
-    *   Tomb Raider (2018)
     *   I Can Only Imagine
+    *   Sherlock Gnomes
+    *   Tomb Raider (2018)
     *   A Wrinkle in Time
     *   Love, Simon
+    *   Paul, Apostle of Christ
     *   Game Night (2018)
-    *   Peter Rabbit
-    *   The Strangers: Prey at Night
-    *   Red Sparrow
-    *   Death Wish (2018)
-    *   Jumanji: Welcome to the Jungle
+    *   Midnight Sun (2018)
+    *   Unsane (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Midnight Sun (2018)
-    *   Pacific Rim Uprising (2018)
-    *   Paul, Apostle of Christ
-    *   Sherlock Gnomes
-    *   Unsane (2018)
-    *   Isle of Dogs
-    *   Back To Burgundy
-    *   Bag of Marbles
-    *   Final Portrait
-    *   Getting Grace
-    *   Hichki
+    *   God's Not Dead: A Light in Darkness
+    *   Ready Player One
+    *   Tyler Perry's Acrimony
+    *   Baaghi 2
+    *   Birthmarked
+    *   Caught (2018)
+    *   The China Hustle
+    *   Finding Your Feet
+    *   Fourplay (2018)
+    *   Gemini (2018)
+    *   Love After Love
     *   See All Opening This Week
     
     Pre Sales Tickets
     
     *   Avengers: Infinity War
-    *   Ready Player One
     
     Coming Soon
     
-    *   Tyler Perry's Acrimony
-    *   God's Not Dead: A Light in Darkness
     *   A Quiet Place
     *   Blockers
     *   Chappaquiddick
@@ -49,73 +46,66 @@ Gift Cards | Offers | Sign In Sign Out
     *   Borg vs McEnroe
     *   Rampage (2018)
     *   Blumhouse's Truth or Dare (2018)
+    *   Sgt. Stubby: An American Hero
+    *   I Feel Pretty
+    *   Super Troopers 2
     *   See All Coming Soon
     
     Explore More
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   Century 16 Bel Mar and XD S. Teller and W. Alameda Ave.
-    *   UA Colorado Mills Stadium 16 IMAX &. RPX 14500 West Colfax Ave.
-    *   UA Denver West Village Stadium 12 14225 W. Colfax Ave.
-    *   Alamo Drafthouse Sloans Lake 4255 West Colfax Ave
-    *   Regal River Point Stadium 14 &. RPX 3565 S. Platte River Drive
-    *   Mayan Theatre 110 Broadway
-    *   AMC Bowles Crossing 12 8035 West Bowles Avenue
-    *   UA Denver Pavilions Stadium 15 &. RPX 500 16th St.
-    *   Elvis Cinemas Kipling 6 Theatre 6014 S. Kipling
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
     *   ‘Avengers: Infinity War’: Infiltrating Marvel’s Top-Secret Clash of the Mad Titans Read More
-    *   ‘Avengers: Infinity War’ Directors Reveal 10 Secrets About the Movie From the Set Read More
-    *   ‘Tag’ is It: Why This Is Sure to Be the Wildest Comedy of the Summer Read More
+    *   Movie News: Naomi Watts to Join 'Boss Level' Thriller Read More
+    *   'Captain Marvel' Begins Production - Everything We Know So Far Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
-    *   Awards Watch
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 80201 Edit Zip Code
+*   My VIP Account Join FandangoVIP Refunds + Exchanges
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Partner Rewards
     
-
-See all insider perks Payment Method
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Refunds + Exchanges
-
-Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
-
-Learn more Partner Rewards
-
-Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
-
-Learn more My Fandango
-
-Save your favorite theaters and movies to experience a customized Fandango just for you.
-
-Learn more Insider Perks
-
-Get the VIP treatment, free screenings, digital downloads, discounts and more.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
+    
+    Learn more My Fandango
+    
+    Save your favorite theaters and movies to experience a customized Fandango just for you.
+    
+    Learn more Insider Perks
+    
+    Get the VIP treatment, free screenings, digital downloads, discounts and more.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms
 
@@ -295,10 +285,10 @@ Offers
 
 New + Coming soon
 
-*   A Wrinkle in Time
 *   Tomb Raider (2018)
 *   Pacific Rim Uprising (2018)
 *   Ready Player One
+*   Rampage (2018)
 *   Avengers: Infinity War
 *   Deadpool 2
 *   Solo: A Star Wars Story
@@ -316,7 +306,6 @@ Experience + Explore
 Editorial Features
 
 *   Indie Movie Guide
-*   Awards Watch
 *   Family Guide
 *   Movie News
 
