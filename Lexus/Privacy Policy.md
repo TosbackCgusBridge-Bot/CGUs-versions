@@ -417,6 +417,14 @@ Language
 *   Privacy
 *   Legal
 
+*   Facebook.com/lexus
+*   Twitter.com/lexus
+*   Youtube.com/LexusVehicles
+*   Instagram.com/lexususa
+*   Pinterest.com/lexususa
+*   Plus.google.com/+Lexus
+*   Sendthemasignal.tumblr.com
+
 *   Leasing &. Finance
     *   Financing Options
     *   Financing Options
