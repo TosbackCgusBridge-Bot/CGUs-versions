@@ -44,8 +44,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Sustainability
         *   Sustainable finance
         *   Operations
-        *   Communities
-        *   Case studies last item in this group
+        *   Communities last item in this group
     *   Remuneration
         *   Employee share plans last item in this group
     
