@@ -45,15 +45,15 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     *   Most Popular
     
     Featured
-    *   Managers postgame
-    *   VEYEP Moments
-    *   Radio Calls
+    *   Reel Fast
+    *   Tip of the Cap
+    *   Dirtiest Plays
     *   Must C
     *   Chatting Cage
     *   Carry The Freight
-    *   FastCast
+    *   Papa Slam
     *   Share Video/GIFs
-    *   Outstandings
+    *   Top Plays
     *   Cut4
     *   Baseball's Best
 *   Stats Stats Stats
