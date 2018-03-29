@@ -804,9 +804,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: TRAVEL pin: 4851 DETAILS
+code: GARDEN pin: 8365 DETAILS
 
 Customer Service Menu
 
