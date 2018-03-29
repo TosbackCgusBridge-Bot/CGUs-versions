@@ -1,8 +1,8 @@
 POLITIQUE DE CUEILLETTE ET DE PROTECTION DE RENSEIGNEMENTS PERSONNELS ÉNONCÉ GÉNÉRAL
 
-La protection de votre vie privée est importante pour La Presse, ltée (« La Presse »). Nous méritons votre confiance et souhaitons faire en sorte qu'elle résulte d'une excellente connaissance et compréhension de ce à quoi vous vous engagez lorsque vous interagissez avec un employé de La Presse ou l'un de ses représentants ou sous-contractants, que vous visitez notre site Web (www.lapresse.ca), que vous utilisez l'une ou l'autre de nos applications mobiles (La Presse Mobile ou La Presse+) ou que vous effectuez une transaction avec nous en personne, par téléphone ou par l'entremise de notre site Web ou de l'une de nos applications mobiles.
+La protection de votre vie privée est importante pour La Presse, ltée (« La Presse »). Nous méritons votre confiance et souhaitons faire en sorte qu'elle résulte d'une excellente connaissance et compréhension de ce à quoi vous vous engagez lorsque vous interagissez avec un employé de La Presse ou l’un de ses représentants ou sous-contractants, que vous visitez notre site Web (www.lapresse.ca), que vous utilisez l’une ou l’autre de nos applications mobiles (La Presse Mobile ou La Presse+) ou que vous effectuez une transaction avec nous en personne, par téléphone ou par l’entremise de notre site Web ou de l’une de nos applications mobiles.
 
-Nous savons que votre vie privée vous tient à cœur. Vos renseignements personnels, c'est-à-dire toute information vous concernant comme personne physique et qui permet de vous identifier (exemple : nom, adresse de résidence, adresse de courriel personnelle, numéro de téléphone au domicile ou cellulaire personnel, date de naissance) (les « renseignements personnels »), sont précieux. La cueillette de ces renseignements nous permet de vous offrir des produits et des services qui vous intéressent, de répondre promptement et adéquatement à vos besoins et, en partenariat avec vous, d'améliorer sans cesse notre contribution à votre qualité de vie.
+Nous savons que votre vie privée vous tient à cœur. Vos renseignements personnels, c'est à dire toute information vous concernant comme personne physique et qui permet de vous identifier (exemple : nom, adresse de résidence, adresse de courriel personnelle, numéro de téléphone au domicile ou cellulaire personnel, date de naissance) (les **« renseignements personnels »)**, sont précieux. La cueillette de ces renseignements nous permet de vous offrir des produits et des services qui vous intéressent, de répondre promptement et adéquatement à vos besoins et, en partenariat avec vous, d'améliorer sans cesse notre contribution à votre qualité de vie.
 
 Il est donc essentiel de partager avec vous notre politique en matière de vie privée relative à la cueillette, à l'usage et à la communication des renseignements personnels que vous nous communiquez. En connaissant et en contrôlant les cueillettes, les usages et les communications de renseignements personnels que vous nous confiez, vous serez en mesure de faire des choix éclairés.
 
@@ -14,7 +14,7 @@ La Presse a pour politique de gérer la collecte, l'utilisation et la communicat
 
 A. PRINCIPES GÉNÉRAUX
 
-Dans sa cueillette et gestion de renseignements personnels, La Presse s'engage à respecter votre vie privée et à mettre en application les 10 principes de protection suivants conformément au code type sur la protection des renseignements personnels de l'Association canadienne de normalisation, sauf lorsque la loi l'en exempte :
+Dans sa cueillette et gestion de renseignements personnels, La Presse s'engage à respecter votre vie privée et à mettre en application les 10 principes de protection suivants conformément au code type sur la protection des renseignements personnels de l’Association canadienne de normalisation, sauf lorsque la loi l'en exempte :
 
 1.  Désigner et faire connaître les personnes responsables chez La Presse du suivi de la présente politique
 2.  Recevoir et traiter toute plainte relative à la mise en œuvre de la présente politique et des pratiques qui en découlent
@@ -35,27 +35,29 @@ Tous les employés de La Presse sont responsables de la politique et des pratiqu
 
 Toute demande ou plainte relative à la mise en œuvre de la présente politique peut être adressée à La Presse aux coordonnées suivantes :
 
-Adresse postale :  
+**Adresse postale :**
+
 _La Presse  
 Relation avec les lecteurs  
 750, boul. Saint-Laurent  
-Montréal, Québec H2Y 2Z4_  
-commentairesweb@lapresse.ca  
-Téléphone : 1 866 806-1804  
+Montréal (Québec) H2Y 2Z4_  
+  
+commentaires@lapresse.ca  
+Téléphone : 1 866 806-1804
 
 3\. Déterminer pourquoi des renseignements personnels sont recueillis
 
 La Presse détermine, avant ou au moment de la cueillette de renseignements personnels les fins auxquelles ces renseignements sont destinés (et vous en avise à ce moment) et comprennent, entre autres, les fins suivantes :
 
-*   Établir et maintenir des relations commerciales de confiance avec ses clients et fournir un service de qualité;
+*   Établir et maintenir des relations commerciales de confiance avec ses clients et fournir un service de qualité.
 *   Connaître les besoins et les préférences de ses clients;
 *   Satisfaire les exigences des lois et de la règlementation.
 
-Les renseignements personnels recueillis ne sont utilisés qu'aux fins ainsi déterminées sauf exception découlant de la loi ou avec votre consentement au nouvel usage.
+Les renseignements personnels recueillis ne sont utilisés qu'aux fins ainsi déterminées sauf exceptions découlant de la loi ou avec votre consentement au nouvel usage.
 
 4\. Obtenir le consentement
 
-La Presse obtient votre consentement à la cueillette, à l'usage et à la communication de tout renseignement personnel le concernant sauf exception découlant de la loi.
+La Presse obtient votre consentement à la cueillette, à l'usage et à la communication de tout renseignement personnel le concernant sauf exceptions découlant de la loi.
 
 5\. Limiter la cueillette de renseignements personnels
 
@@ -67,7 +69,7 @@ La Presse n'utilise et ne communique les renseignements personnels que pour les 
 
 7\. Promouvoir l'exactitude des renseignements personnels au moment de leur utilisation ou de leur communication
 
-La Presse prend des mesures raisonnables pour s'assurer que les renseignements personnels sont à jour et exacts au moment de les utiliser ou de les communiquer. Vous êtes invité à y contribuer en communiquant promptement à La Presse tout changement à apporter à votre profil ou en signalant sans délai toute erreur qui se serait produite. Vous pouvez ce faire en accédant à votre profil sur le site Web de La Presse ou en communiquant avec La Presse par courriel, par courrier régulier adressé à La Presse, Service à la clientèle, 750, boul. Saint-Laurent, Montréal, Québec Canada H2Y 2Z4 ou par téléphone au 1 866 806-1804.
+La Presse prend des mesures raisonnables pour s'assurer que les renseignements personnels sont à jour et exacts au moment de les utiliser ou de les communiquer. Vous êtes invité à y contribuer en communiquant promptement à La Presse tout changement à apporter à votre profil ou en signalant sans délai toute erreur qui se serait produite. Vous pouvez ce faire en accédant à votre profil sur le site Web de La Presse ou en communiquant avec La Presse par courriel, par courrier régulier adressé à La Presse, Service à la clientèle, 750 boul. Saint-Laurent, Montréal, Canada H2Y 2Z4 ou par téléphone au 1 866 806-1804.
 
 8\. Protéger les renseignements personnels
 
@@ -75,7 +77,7 @@ La Presse protège, par les mesures de sécurité appropriées selon les circons
 
 9\. Rendre facilement accessible l'information relative aux pratiques en place et qui touchent aux renseignements personnels
 
-La Presse rend accessible sa politique de protection de la vie privée relative à la cueillette, à l'usage et à la communication de renseignements personnels. Vous pouvez la consulter sur le site Web de La Presse ou en obtenir une copie en communiquant avec La Presse par courriel, par courrier régulier adressé à La Presse, Service à la clientèle, 750, boul. Saint-Laurent, Montréal, Québec Canada H2Y 2Z4 ou par téléphone au 1 866 806-1804.
+La Presse rend accessible sa politique de protection de la vie privée relative à la cueillette, à l'usage et à la communication de renseignements personnels. Vous pouvez la consulter sur le site Web de La Presse ou en obtenir une copie en communiquant avec La Presse par courriel, par courrier régulier adressé à La Presse, Service à la clientèle, 750 boul. Saint-Laurent, Montréal, Canada H2Y 2Z4 ou par téléphone au 1 866 806-1804.
 
 10\. Donner accès aux renseignements personnels qui vous concernent et en permettre la rectification
 
@@ -83,26 +85,26 @@ La Presse vous permet, sous réserve des conditions et des exceptions prévues �
 
 B. INSTANCES DE CUEILLETTE DE RENSEIGNEMENTS PERSONNELS
 
-En règle générale, les appels téléphoniques, les envois de courriel, le site Web et les applications mobiles de La Presse ne servent pas d'outil de collecte de renseignements personnels. Toutefois, dans certaines circonstances, La Presse peut vous demander de vous inscrire et de lui fournir votre nom et certains renseignements personnels comme lorsque vous vous inscrivez à un concours, souscrivez à un abonnement, placez des commentaires sur notre site Web ou par l'entremise d'une application mobile, si vous créez un compte « Ma Presse » ou si vous vous abonnez à l'une de nos infolettres. Vous pouvez toujours refuser de ce faire. Dans un tel cas, vous aurez néanmoins accès à la majeure partie du site Web et/ou des fonctionnalités des applications mobiles mais vous ne pourrez accéder aux sections ou aux fonctionnalités exigeant votre inscription.
+En règle générale, les appels téléphoniques, les envois de courriel, le site Web et les applications mobiles de La Presse ne servent pas d'outil de collecte de renseignements personnels. Toutefois, dans certaines circonstances, La Presse peut vous demander de vous inscrire et de lui fournir votre nom et certains renseignements personnels comme lorsque vous vous inscrivez à un concours, souscrivez à un abonnement, placez des commentaires sur notre site Web ou par l’entremise d’une application mobile, si vous créez un compte « Ma Presse » ou si vous vous abonnez à l’une de nos infolettres. Vous pouvez toujours refuser de ce faire. Dans un tel cas, vous aurez néanmoins accès à la majeure partie du site Web et/ou des fonctionnalités des applications mobiles mais vous ne pourrez accéder aux sections ou aux fonctionnalités exigeant votre inscription.
 
-Si vous acceptez de vous inscrire, les renseignements que vous fournirez serviront essentiellement aux fins suivantes, autres que les fins expressément désignées lors de votre inscription :
+Si vous acceptez de vous inscrire, les renseignements que vous fournirez serviront essentiellement aux fins suivantes, autres que les fins expressément désignées lors de votre inscription :
 
-*   aider La Presse à assurer la pertinence de ses produits et services, de son site Web et de ses applications mobiles en adaptant le contenu à vos besoins personnels;
-*   aider La Presse à évaluer et améliorer ses produits et services, son site Web et ses applications mobiles;
-*   permettre à La Presse, dans les sections « Commentaires », d'assurer le respect des règles de bienséance et la qualité des échanges;
+*   aider La Presse à assurer la pertinence de ses produits et services, de son site Web et de ses applications mobiles en adaptant le contenu à vos besoins personnels.
+*   aider La Presse à évaluer et améliorer ses produits et services, son site Web et ses applications mobiles.
+*   permettre à La Presse, dans les sections « Commentaires », d'assurer le respect des règles de bienséance et la qualité des échanges.
 *   vous informer de tout fait, événement, produit, service ou offre susceptible de vous intéresser.
 
 La Presse ne divulguera pas les renseignements personnels ainsi recueillis à une tierce partie autrement que ce qui est prévu par la loi. Par contre, il est possible que La Presse utilise ces renseignements aux fins de recherches ou de statistiques. Dans ces circonstances, la transmission de telles recherches ou statistiques ne divulguerait pas votre identité ou vos renseignements personnels.
 
 La Presse gère toutes les campagnes de marketing direct qui sont effectuées sur son site Web ou ses applications numériques. Nous ne transmettons aucun renseignement personnel à de tierces parties à de telles fins.
 
-Vous pouvez choisir de vous désinscrire des services requérant votre inscription en tout temps en modifiant votre profil ou en communiquant avec La Presse par courriel, par courrier régulier adressé à La Presse, Service à la clientèle, 750, boul. Saint-Laurent, Montréal, Québec Canada H2Y 2Z4 ou par téléphone au 1 866 806-1804.
+Vous pouvez choisir de vous désinscrire des services requérant votre inscription en tout temps en modifiant votre profil ou en communiquant avec La Presse par courriel, par courrier régulier adressé à La Presse, Service à la clientèle, 750, boul. Saint-Laurent, Montréal, Québec H2Y 2Z4 ou par téléphone au 1 866 806-1804.
 
 C. PERSONNES MINEURES
 
 Si vous avez moins de 18 ans, veuillez obtenir la permission d'un parent ou de votre tuteur avant de nous transmettre des renseignements personnels. Si vous êtes un parent, nous vous encourageons également à prendre connaissance de l'usage de l'internet que fait votre enfant.
 
-D. COOKIES ET DISPOSITIFS D'ANALYSE D'AUDIENCE
+D. COOKIES, DISPOSITIFS D’ANALYSE D’AUDIENCE ET INFORMATIONS DE NAVIGATION
 
 Certaines pages de notre site Web requièrent l'envoi de témoins (_cookies_). Le témoin consiste en un fichier installé sur le disque dur de votre ordinateur et contient des informations améliorant la communication entre notre serveur et votre fureteur. Notre serveur installe sur votre ordinateur un témoin permanent lors d'une première visite et selon les applications utilisées, d'autres témoins permanents ou temporaires servant à gérer techniquement certains choix que vous faites pourraient être utilisés.
 
@@ -112,26 +114,29 @@ Soyez assurés qu'aucun renseignement personnel n'est conservé dans les témoin
 
 Vous pouvez refuser ou désactiver les témoins. Pour ce faire, consultez les options de configuration de votre navigateur. Dans ce cas, certaines fonctions de notre site Web ne seront plus disponibles.
 
-Nos applications mobiles peuvent se servir de dispositifs, tels que des logiciels, d'analyse d'audience afin d'obtenir des informations sur les données d'utilisation et les modèles de trafic de nos applications et ainsi améliorer leur contenu et la qualité de notre service.
+Nos applications mobiles peuvent se servir de dispositifs, tels que des logiciels, d’analyse d’audience afin d’obtenir des informations sur les données d’utilisation et les modèles de trafic de nos applications et ainsi améliorer leur contenu et la qualité de notre service.
+
+Nous pouvons également obtenir des renseignements relatifs à votre activité de navigation ou sur l’appareil que vous utilisez tels que votre adresse IP, l’identifiant unique de votre tablette de marque iPad, votre historique, le fait que vous y ayez consulté un contenu spécifique (rédactionnel ou publicitaire), le temps que vous avez passé à le consulter ainsi que vos données de géolocalisation (les « Informations de Navigation »).
+
+Les Informations de Navigation peuvent être partagées de manière dépersonnalisée et agrégée avec des tiers autorisés avec lesquels La Presse collabore, tel que des annonceurs, des partenaires de contenu ou des organisateurs de concours (les « Tiers autorisés »). Les Tiers autorisés sont uniquement informés que vous faites potentiellement partie d’un groupe ciblé par un contenu ou une publicité donnée. Les Tiers autorisés sont tenus de respecter la confidentialité de vos données en vertu de la loi et des ententes intervenues avec La Presse.
 
 E. PUBLICITÉ COMPORTEMENTALE EN LIGNE
 
-La Presse peut utiliser des informations recueillies lors de votre consultation de La Presse+, telles que votre adresse IP, l'identifiant unique de votre tablette numérique ou le fait que vous y avez consulté un contenu spécifique (excluant votre nom, adresse, adresse courriel ou numéro de téléphone), pour établir votre profil d'utilisateur et sélectionner des publicités qui correspondent mieux à vos intérêts afin qu'elles puissent vous être offertes sur les différentes plateformes de La Presse et sur des sites Web de tiers, partenaires de La Presse. Cette pratique est connue sous le nom de « publicité comportementale en ligne ».
-
+La Presse peut utiliser vos Informations de Navigations, pour établir votre profil d’utilisateur et sélectionner des publicités qui correspondent mieux à vos intérêts afin qu’elles puissent vous être offertes sur les différentes plateformes de La Presse et sur des sites Web de tiers. Cette pratique est connue sous le nom de « publicité comportementale en ligne ».  
 Pour désactiver la publicité comportementale en ligne :
 
 **Version iPad**
 
 *   Rendez-vous dans les Réglages de votre appareil;
-*   Sélectionnez « Confidentialité », puis « Publicité »;
+*   Sélectionnez « Confidentialité », puis « Publicité »;
 *   Faites glisser vers la droite le commutateur relié à « Suivi publicitaire limité ». Le commutateur deviendra vert.
 
 **Version Android**
 
 *   Rendez-vous dans les Paramètres de votre appareil;
 *   Sous Compte, sélectionnez « Google »;
-*   Sélectionnez « Annonces »;
-*   Activez l'option : « Désactiver les annonces par centres d'intérêt »;
+*   Sélectionnez « Annonces »;
+*   Activez l'option : « Désactiver les annonces par centres d'intérêt »;
 *   Cochez « OK ».
 
 La procédure pourrait varier selon la tablette. Pour plus de renseignements, consultez le site web du fournisseur.
