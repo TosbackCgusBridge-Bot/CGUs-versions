@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Biggest and Best Royal Wedding Hats of All Time 2 15 Gorgeous Spring Wedding Guest Dresses 3 The Best Places To Go in May 4 Analyzing Meghan Markle's Handwriting 5 T&C Horoscopes: April 1-15 Privacy Policy Dec 1, 2014
+Today's Top Stories 1 The Best Places To Go in May 2 T&C Horoscopes: April 1-15 3 22 Gorgeous Royal Wedding Tiara Moments 4 What To Wear for Easter 5 The Best Celebrity Engagement Rings Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
