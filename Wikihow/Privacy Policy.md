@@ -360,13 +360,13 @@ E. Contact. Please contact us wiki@wikiHow.com with any questions regarding this
 General Questions and Help
 
 *   Please contact Chris Hadley
-    *   Email wiki@wikihow.com
+    *   Email wiki@wikiHow.com
     *   Call 650-492-8008
-    *   Advertisers please contact: ads@wikihow.com
+    *   Advertisers please contact: ads@wikiHow.com
 
 Snail Mail
 
-wikiHow  
+wikiHow, Inc.  
 530 Lytton Avenue, 2nd Floor  
 Palo Alto, CA 94301
 
