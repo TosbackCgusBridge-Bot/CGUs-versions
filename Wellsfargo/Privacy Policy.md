@@ -26,10 +26,8 @@ Search Use up and down arrows to navigate suggestions.
      
     
     *   Online Banking
-    *   Online Bill Pay
-    *   Transfers
-    *   Online Statements
-    *   Mobile Banking
+    *   Transfer and Pay
+    *   Mobile Features
     
     Your Financial Goals
     
