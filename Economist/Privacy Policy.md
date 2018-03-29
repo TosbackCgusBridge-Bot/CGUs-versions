@@ -222,7 +222,7 @@ If you have questions about this policy or Ideas People Media, please send corre
 
 The Economist Group
 
-Attn: Data Privacy Officer
+Attn: Data Privacy Manager
 
 20 Cabot Square,
 
