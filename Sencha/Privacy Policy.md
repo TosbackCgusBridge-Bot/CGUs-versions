@@ -1,40 +1,32 @@
 Sencha.com
 
 *   Products
-    *   Sencha Platform
-    *   Why Sencha
-    *   ExtReact
     *   Ext JS
-        *   Ext JS
-        *   Cmd
-        *   IDE &. Editor Plugins
-        *   Architect
-        *   Themer
-        *   Inspector
-        *   Framework Comparison
-    *   Sencha Test
+    *   ExtReact
     *   GXT
+    *   Sencha Test
+    *   Free Tools
     *   Stencils
-    *   App Modernization
-        *   IBM i
-        *   Oracle Forms
-        *   Cobol Mainframe Apps
 *   Services
     *   Professional Services
-    *   Partners
     *   Training
-*   Pricing
-*   Developers
-    *   SenchaDevs
-*   Try
-*   Buy
+    *   Partners
+*   Solutions
+    *   Why Sencha
+    *   Comparison
+*   Resources
+    *   Resource Center
+    *   Webinars
+    *   Docs
+    *   Examples
+*   Buy Now
+*   Free Trial
 
 *   Support
 *   Forum
 *   Docs
-*   Resources
 *   Blog
-*   Contact Us
+*   SenchaDevs
 *   Search
 
 Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy Sencha Inc., and its affiliates and subsidiaries (collectively “Sencha”) recognize the importance of keeping the personal information you provide to us private and secure. Sencha has developed a comprehensive privacy policy and we use the latest technology to ensure that your personal information is secure.
@@ -237,6 +229,6 @@ Subscribe
 *   State\*Select State\*AguascalientesBaja CaliforniaBaja California SurChihuahuaColimaCampecheCoahuilaChiapasFederal DistrictDurangoGuerreroGuanajuatoHidalgoJaliscoMéxico StateMichoacánMorelosNayaritNuevo LeónOaxacaPueblaQuerétaroQuintana RooSinaloaSan Luis PotosíSonoraTabascoTlaxcalaTamaulipasVeracruzYucatánZacatecas
 *   State\*Select State\*AcreAlagoasAmazonasAmapáBahiaCearáDistrito FederalEspírito SantoGoiásMaranhãoMinas GeraisMato Grosso do SulMato GrossoParáParaíbaPernambucoPiauíParanáRio de JaneiroRio Grande do NorteRondôniaRoraimaRio Grande do SulSanta CatarinaSergipeSão PauloTocantins
 *   *    I agree to receive e-mail notifications. See our Privacy Policy and Terms of Use for more details.
-*   NameThis field is for validation purposes and should be left unchanged.
+*   CommentsThis field is for validation purposes and should be left unchanged.
 
 This iframe contains the logic required to handle Ajax powered Gravity Forms. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1882987898627194&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52303&amp;fmt=gif">.
