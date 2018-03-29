@@ -77,8 +77,8 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   ‘Avengers: Infinity War’: Infiltrating Marvel’s Top-Secret Clash of the Mad Titans Read More
-    *   Movie News: Naomi Watts to Join 'Boss Level' Thriller Read More
-    *   'Captain Marvel' Begins Production - Everything We Know So Far Read More
+    *   Movie News: Emily Blunt Updates on 'Edge of Tomorrow 2' Read More
+    *   The Makers of 'The Purge' and TV's 'The Leftovers' Team Up for a Political Action Thriller Read More
     
     Explore Content
     *   Movie Reviews
@@ -266,9 +266,9 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 Offers
 
-*   'Midnight Sun' Gift With Purchase
+*   'Ready Player One' Gift With Purchase
     
-    Receive a FREE\* song download of 'Burn so Bright' performed by Bella Thorne with ticket purchase. BUY TICKETS
+    Receive a FREE\* exclusive 'Ready Player One' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   Get 2 Movies When You Connect
     
@@ -278,16 +278,16 @@ Offers
     
     Receive a FREE\* exclusive 'Thoroughbreds' t-shirt brought to you by Betches with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'Black Panther' Gift With Purchase
+*   'Midnight Sun' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Black Panther' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* song download of 'Burn so Bright' performed by Bella Thorne with ticket purchase. BUY TICKETS
     
 
 New + Coming soon
 
-*   Tomb Raider (2018)
 *   Pacific Rim Uprising (2018)
 *   Ready Player One
+*   A Quiet Place
 *   Rampage (2018)
 *   Avengers: Infinity War
 *   Deadpool 2
