@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   What can you do with Kubernetes? ›
 *   Design and Web team summary – 27 March 2018 ›
 *   LXD weekly status #40 ›
 *   CircleCI evangelist looks to snaps to bridge cross-distro divide ›
 *   Ubuntu Desktop weekly update – 23rd March 2018 ›
-*   Kernel Team summary: March 21, 2018 ›
