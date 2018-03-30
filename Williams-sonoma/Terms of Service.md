@@ -1,4 +1,5 @@
 *   Terms &. Conditions
+*   Accessibility
 *   Privacy Policy
 *   Legal Statement
 
@@ -149,6 +150,10 @@ The failure by us to enforce any right or provision of these Terms and Condition
 We may assign our rights and obligations under these Terms and Conditions, including in connection with a merger, acquisition, sale of assets or equity, or by operation of law.
 
 Last Updated: March 2016
+
+Accessibility
+
+We strive to make our website content accessible and user-friendly. If you are having difficulty viewing the content on this website or navigating the site, please call our Customer Service Team toll-free at 877.812.6235 or email our team at customerservice@williams-sonoma.com and we will be happy to assist you.
 
 Privacy Policy
 
