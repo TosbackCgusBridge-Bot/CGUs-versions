@@ -107,7 +107,6 @@ More…
 *   Leadership
 *   Pressroom
 *   Partner sites
-*   iReport
 *   Work for CNN
 
 U.S.InternationalEspañolArabic
@@ -150,7 +149,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-Pinellas Park, FL68°
+Pinellas Park, FL69°
 
 1.  Home
 
@@ -247,8 +246,7 @@ Pinellas Park, FL68°
     3.  Leadership
     4.  Pressroom
     5.  Partner sites
-    6.  iReport
-    7.  Work for CNN
+    6.  Work for CNN
 
 International Edition
 
