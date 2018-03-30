@@ -8,11 +8,28 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Workwear Dresses ft. Tahari
-    *   Gracia
-    *   Wear to Work: Suiting ft. Adrianna Papell
-    *   Papillon Up to 85% Off
-    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   Tommy Bahama Men
+    *   Tommy Bahama
+    *   Tommy Bahama Swim
+    *   Tommy Bahama Handbags &. Shoes
+    *   Tommy Bahama Luggage
+    *   Free Shipping: Tommy Bahama Bedding
+    *   Naked Zebra
+    *   Willow &. Clay
+    *   Nine West Under $60
+    *   Free Shipping: Modern Rugs Up to 70% Off
+    *   Spring Arrivals ft. Moon River, J.O.A. &. More
+    *   Given Kale
+    *   Velour Lashes
+    *   Bella Aura Skin Care
+    *   Le Mystere Under $35
+    *   Kelsi Dagger Brooklyn Starting at $40
+    *   Sun Salutation: Straw Hats &. More from $15
+    *   Earthwood Watches Up to 70% Off
+    *   Tommy Bahama Kids' Swim &. More
+    *   Peace Love World
+    *   Ipanema Sandals for the Family
+    *   Free Shipping: Decor for the Pet Obsessed
     *   Luli Fama Swim
     *   Festival Fever: Quay Australia Sun Under $25
     *   Festival-Ready Shoes
@@ -25,7 +42,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Festival Fever: Kimonos, Hats &. More
     *   Concert Tees Under $20 ft. Arka
     *   Festival Must-Haves: Men's Hats
+    
     *   Festival Season: Men's Shoes Starting at $20
+    *   Workwear Dresses ft. Tahari
+    *   Gracia
+    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   Papillon Up to 85% Off
+    *   Wear to Work: Suiting ft. Adrianna Papell
     *   Louise et Cie Up to 60% Off
     *   Honeydew Lingerie
     *   A. Calin &. More Under $30
@@ -42,14 +65,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cufflinks Inc.
     *   Fish 'n' Chips Up to 50% Off
     *   Bottoms Out
-    *   Free Shipping: Fashion-Centric Art &. Decor
-    *   Kitchen Electrics &. More Starting at $15
-    
     *   Fun Tech Finds Starting at $10
+    *   Kitchen Electrics &. More Starting at $15
+    *   Free Shipping: Fashion-Centric Art &. Decor
     *   Sophie Catalou
     *   Fun Spring Toys ft. Melissa &. Doug
-    *   Splendid Starting at $40
-    *   Alternative
     *   Free Shipping: NMK Bedding Blowout
     *   Free Shipping: Sheepskin &. Decor Blowout
     *   Free Shipping: Ultra-Soft Towels from $10
@@ -57,73 +77,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Meal Prep &. Storage
     *   TOMS
     *   TOMS Kids
+    
     *   TOMS Men
-    *   Levi's Jackets &. More
-    *   BCBGeneration
     *   LOVE Moschino
-    *   Bobeau Incl. Plus &. Petites
-    *   Trending Now: Soft Pants, Trousers &. More
     *   Perfect Pairings: Jewelry Sets from $10
-    *   Trina Turk Shoes Up to 70% Off
-    *   Up to 75% Off: Designer Shop
-    *   SmartWool
-    *   Aerosoles Starting at $30
     *   Emerging K-Beauty: Dr. Frog &. More
-    *   Wild Honey &. More Under $35
-    *   Bally Total Fitness Under $25
     *   Dry Divas Designer Shower Caps
     *   Striking Statement Jewelry Starting at $10
     *   Ezekiel Under $30
     *   Natural Blue
     *   Appaman
     *   Azul Kids' Swimwear
-    *   Spring Break Getaway: Calpak Luggage &. More
-    *   JOE'S Jeans
-    *   JOE'S Jeans Men
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
-    
-    *   Rivka Friedman Jewelry Up to 80% Off
-    *   Handcrafted in Colombia: Mishky Jewelry
     *   Dress Shirts Under $30 ft. Forsyth of Canada
     *   Lacoste Men's Lounge &. Underwear
     *   Marc New York Men's Shoes
-    *   Men's Watches Starting at $50
     *   The Art of Clean: Sonic Brushes Up to 50% Off
     *   Free Shipping: Hand-Painted Replicas
     *   Chef-Worthy Kitchen Accessories
-    *   JOE'S Jeans Kids
-    *   $60 &. Under: Timberland Kids
-    *   Fun Boho Looks from mymichelle
-    *   Spring Faves for Boys: Tees, Polos &. More
     *   Face Masks We Love Up to 85% Off
     *   Free Shipping: Kitchen Blowout
-    *   Men's Shoes Up to 65% Off
     *   Moon Juice: Plant-Sourced Alchemy
     *   Sleek'e Hair Tools
     *   Free Shipping: Luxe Rug Steals
-    *   Ben Sherman Tailored Clothing
-    *   Spring Break Must-Haves: Travel Bags ft. Dakine
-    *   Cult of Individuality
     *   Sip in Style: Bright Bottles, Tumblers &. More
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Pets on the Go: Carriers, Feeders &. More
-    *   Terre Mere Organic Vegan Beauty Up to 80% Off
-    *   KUT from the Kloth &. Democracy Incl. Special Sizes
     *   Home Organization Starting at $14
     *   Sharpen Up: Colorful Kitchen Essentials
-    *   Free Shipping: Bedding, Throws &. More
-    *   Set the Tone: Bluetooth Headphones &. More
-    *   Jackets for Every Season Up to 70% Off
-    *   Everly Grey Maternity Up to 70% Off
-    *   Electric Yoga Maternity Up to 65% Off
-    *   Korean Beauty JayJun Skin Care
+    *   Men's Watches Starting at $50
+    *   Levi's Jackets &. More
+    *   BCBGeneration
+    *   Bobeau Incl. Plus &. Petites
+    *   Trending Now: Soft Pants, Trousers &. More
 *   WomenShop Sale Events
     
-    *   Workwear Dresses ft. Tahari
-    *   Gracia
-    *   Wear to Work: Suiting ft. Adrianna Papell
-    *   Papillon Up to 85% Off
-    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   Tommy Bahama
+    *   Tommy Bahama Swim
+    *   Tommy Bahama Handbags &. Shoes
+    *   Tommy Bahama Luggage
+    *   Naked Zebra
+    *   Willow &. Clay
+    *   Nine West Under $60
+    *   Spring Arrivals ft. Moon River, J.O.A. &. More
+    *   Given Kale
+    *   Velour Lashes
+    *   Bella Aura Skin Care
+    *   Le Mystere Under $35
+    *   Kelsi Dagger Brooklyn Starting at $40
+    *   Sun Salutation: Straw Hats &. More from $15
+    *   Earthwood Watches Up to 70% Off
+    *   Ipanema Sandals for the Family
     *   Luli Fama Swim
     *   Festival Fever: Quay Australia Sun Under $25
     *   Festival-Ready Shoes
@@ -134,6 +138,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Festival Ready: Boho Looks We Love
     *   HAH | Hot-As-Hell Cover-Ups &. More
     *   Festival Fever: Kimonos, Hats &. More
+    *   Workwear Dresses ft. Tahari
+    *   Gracia
+    *   Handcrafted in Spain: UNOde50 Jewelry
+    
+    *   Papillon Up to 85% Off
+    *   Wear to Work: Suiting ft. Adrianna Papell
     *   Louise et Cie Up to 60% Off
     *   Honeydew Lingerie
     *   A. Calin &. More Under $30
@@ -145,51 +155,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Macadamia Natural Oil &. Professional Hair Care
     *   XOXO Handbags
     *   Elie Tahari Sunglasses
-    *   Splendid Starting at $40
-    *   Alternative
     *   TOMS
-    *   Levi's Jackets &. More
-    
-    *   BCBGeneration
     *   LOVE Moschino
-    *   Bobeau Incl. Plus &. Petites
-    *   Trending Now: Soft Pants, Trousers &. More
     *   Perfect Pairings: Jewelry Sets from $10
-    *   Trina Turk Shoes Up to 70% Off
-    *   Up to 75% Off: Designer Shop
-    *   SmartWool
-    *   Aerosoles Starting at $30
     *   Emerging K-Beauty: Dr. Frog &. More
-    *   Wild Honey &. More Under $35
-    *   Bally Total Fitness Under $25
     *   Dry Divas Designer Shower Caps
     *   Striking Statement Jewelry Starting at $10
-    *   Spring Break Getaway: Calpak Luggage &. More
-    *   JOE'S Jeans
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
-    *   Rivka Friedman Jewelry Up to 80% Off
-    *   Handcrafted in Colombia: Mishky Jewelry
     *   The Art of Clean: Sonic Brushes Up to 50% Off
     *   Face Masks We Love Up to 85% Off
     *   Moon Juice: Plant-Sourced Alchemy
     *   Sleek'e Hair Tools
-    *   Terre Mere Organic Vegan Beauty Up to 80% Off
-    *   KUT from the Kloth &. Democracy Incl. Special Sizes
-    *   Jackets for Every Season Up to 70% Off
-    *   Everly Grey Maternity Up to 70% Off
-    *   Electric Yoga Maternity Up to 65% Off
-    *   Korean Beauty JayJun Skin Care
+    *   Levi's Jackets &. More
+    *   BCBGeneration
+    *   Bobeau Incl. Plus &. Petites
+    *   Trending Now: Soft Pants, Trousers &. More
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
+    *   Jewelry
     *   Handbags
-    *   Tech Accessories
     *   Lingerie
     *   Accessories
+    *   Tech Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Tommy Bahama Men
+    *   Tommy Bahama Luggage
+    *   Earthwood Watches Up to 70% Off
     *   Concert Tees Under $20 ft. Arka
     *   Festival Must-Haves: Men's Hats
     *   Festival Season: Men's Shoes Starting at $20
@@ -197,22 +192,16 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   TR Premium Up to 75% Off
     *   Cufflinks Inc.
     *   Fish 'n' Chips Up to 50% Off
+    
     *   Bottoms Out
     *   TOMS Men
     *   Ezekiel Under $30
     *   Natural Blue
-    
-    *   Spring Break Getaway: Calpak Luggage &. More
-    *   JOE'S Jeans Men
     *   Dress Shirts Under $30 ft. Forsyth of Canada
     *   Lacoste Men's Lounge &. Underwear
     *   Marc New York Men's Shoes
-    *   Men's Watches Starting at $50
-    *   Men's Shoes Up to 65% Off
     *   Moon Juice: Plant-Sourced Alchemy
-    *   Ben Sherman Tailored Clothing
-    *   Spring Break Must-Haves: Travel Bags ft. Dakine
-    *   Cult of Individuality
+    *   Men's Watches Starting at $50
     
     Shop By Category
     *   Clothing
@@ -221,44 +210,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Tommy Bahama Kids' Swim &. More
+    *   Peace Love World
+    *   Ipanema Sandals for the Family
     *   Sophie Catalou
     *   Fun Spring Toys ft. Melissa &. Doug
     *   TOMS Kids
     *   Appaman
     *   Azul Kids' Swimwear
-    *   JOE'S Jeans Kids
-    
-    *   $60 &. Under: Timberland Kids
-    *   Fun Boho Looks from mymichelle
-    *   Spring Faves for Boys: Tees, Polos &. More
-    *   Everly Grey Maternity Up to 70% Off
-    *   Electric Yoga Maternity Up to 65% Off
     
     Shop By Category
     *   Boys Sizes 8-20
     *   Girls Sizes 7-16
-    *   Boys Sizes 2T-7
-    *   Girls Sizes 2T-6X
     *   Girls' Shoes
+    *   Girls Sizes 2T-6X
+    *   Boys Sizes 2T-7
     *   Boys' Shoes
     *   Baby Girl
-    *   Baby Gear &. Essentials
     *   Kids Accessories
+    *   Baby Gear &. Essentials
     *   Baby Boy
-    *   Toys
 *   HomeShop Sale Events
     
-    *   Free Shipping: Fashion-Centric Art &. Decor
-    *   Kitchen Electrics &. More Starting at $15
+    *   Free Shipping: Tommy Bahama Bedding
+    *   Free Shipping: Modern Rugs Up to 70% Off
+    *   Free Shipping: Decor for the Pet Obsessed
     *   Fun Tech Finds Starting at $10
+    *   Kitchen Electrics &. More Starting at $15
+    *   Free Shipping: Fashion-Centric Art &. Decor
     *   Free Shipping: NMK Bedding Blowout
     *   Free Shipping: Sheepskin &. Decor Blowout
     *   Free Shipping: Ultra-Soft Towels from $10
     *   Free Shipping: Classic Ceramic Serveware &. More
+    
     *   Free Shipping: Meal Prep &. Storage
     *   Free Shipping: Hand-Painted Replicas
     *   Chef-Worthy Kitchen Accessories
-    
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Luxe Rug Steals
     *   Sip in Style: Bright Bottles, Tumblers &. More
@@ -266,31 +253,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Pets on the Go: Carriers, Feeders &. More
     *   Home Organization Starting at $14
     *   Sharpen Up: Colorful Kitchen Essentials
-    *   Free Shipping: Bedding, Throws &. More
-    *   Set the Tone: Bluetooth Headphones &. More
     
     Shop By Category
-    *   Kitchen &. Tabletop
     *   Home Decor
+    *   Kitchen &. Tabletop
     *   Bedding
     *   Organization
     *   Bath
     *   Luggage &. Travel
     *   Outdoor Living
+    *   Rugs
 *   BeautyShop Sale Events
     
+    *   Velour Lashes
+    *   Bella Aura Skin Care
     *   Blend Mineral Cosmetics Up to 85% Off
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Emerging K-Beauty: Dr. Frog &. More
     *   Dry Divas Designer Shower Caps
+    
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   The Art of Clean: Sonic Brushes Up to 50% Off
-    
     *   Face Masks We Love Up to 85% Off
     *   Moon Juice: Plant-Sourced Alchemy
     *   Sleek'e Hair Tools
-    *   Terre Mere Organic Vegan Beauty Up to 80% Off
-    *   Korean Beauty JayJun Skin Care
     
     Shop By Category
     *   Skin Care
