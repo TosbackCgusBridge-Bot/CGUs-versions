@@ -38,7 +38,7 @@ Close submenu ( Featured ) Featured
 *   New Arrivals
 *   Sabrina's Picks
 *   $7 Tees
-*   Create Your Suit for $25
+*   Create Your Suit for $22
 *   Spring Break
 *   Easter Best
 *   Festival Vibes
@@ -174,7 +174,7 @@ Close submenu ( Swim ) Swim
 Close submenu ( Girls Featured ) Girls Featured
 
 *   View All
-*   Create Your Suit for $25 
+*   Create Your Suit for $22
 *   Little Black Bikini
 *   Swim Sets
 
@@ -232,7 +232,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Featured ) Featured
 
 *   View All
-*   Create Your Suit for $25
+*   Create Your Suit for $22
 *   Active
 *   Lounge
 *   Sleep
@@ -369,7 +369,7 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Sabrina's Picks
         *   $7 Tees
-        *   Create Your Suit for $25
+        *   Create Your Suit for $22
         *   Spring Break
         *   Easter Best
         *   Festival Vibes
@@ -490,7 +490,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Featured
         *   View All
-        *   Create Your Suit for $25 
+        *   Create Your Suit for $22
         *   Little Black Bikini
         *   Swim Sets
     
@@ -530,7 +530,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   Create Your Suit for $25
+        *   Create Your Suit for $22
         *   Active
         *   Lounge
         *   Sleep
