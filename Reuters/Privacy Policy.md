@@ -178,7 +178,7 @@ pip
 
 Careers | Site Map | Terms of Use | Privacy Statement © 2017 Thomson Reuters **We have updated our Privacy Statement**. Before you continue, please read our new Privacy Statement and familiarize yourself with the terms. × <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52807&fmt=gif" />. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/844952980/?guid=ON&amp;script=0"/>. </div>. <img src="//bat.bing.com/action/0?ti=5036430&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />.
 
-<img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=6540&amp;fmt=gif">. Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
+Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
 
 How would you rate your experience?
 
@@ -186,4 +186,4 @@ Hate Dislike Neutral Like Love Select an element on the page.
 
 Enter your email address if you would like to receive a follow up.
 
-Skip Send Select an element on the page.
+Skip Send Select an element on the page. <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=6540&amp;fmt=gif">.
