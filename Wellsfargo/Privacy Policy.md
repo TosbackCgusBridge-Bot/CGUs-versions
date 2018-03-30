@@ -165,11 +165,11 @@ Wells Fargo Digital Privacy and Cookies Policy
 *   Print
 *    ShareFacebookTwitterShare this page
 
-Beginning of popupShare this page
+Share this page
 
-*   LinkedIn
-*   Google+
-*   Email
+*   LinkedInclick on this link to share this page in linkedin
+*   Google+click on this link to share this page in GooglePlus
+*   Emailclick on this link to share this page via email
 
 Choose a link above. We provide these links to external websites for your convenience. Wells Fargo does not endorse and is not responsible for their content, links, privacy policies, or security policies.
 
