@@ -24,11 +24,14 @@
     *   Tax Cut Law
     *   State of Union Polls
 *   Election 2018
-    *   Virginia Governor
-    *   New Jersey Governor
-    *   Alabama Senate
+    *   RCP Senate Map
+    *   Current Senate
+    *   RCP Governors Map
+    *   Current State Houses
+    *   RCP House Map
+    *   Current House
     *   Generic Congressional Ballot
-    *   Latest Election Polls
+    *   Latest 2018 Polls
 *   Video
 *   Writers
     *   Staff Writers
@@ -103,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Ed Kilgore_: Why Are Trump's Approval Ratings on the Rise?
+*   _Molly Ball_: Sessions Is Winning for Trump. If Only He Can Keep His Job
     
-*   _James Kirchick_: The 'Russia Collusion' Narrative Undermines Our Democracy
+*   _Ronald Klain_: A High Court Nomination Fight Won't Help Republicans
     
-*   _Ryan Cooper_: Parkland Kids Have Triggered Conservative Snowflakes
+*   _Seth Lipsky_: The Ridiculous Snit Over a Census Citizenship Question
     
-*   _David Harsanyi_: Sorry, Gun Grabbers: You Can't Repeal History
+*   _Peter Beinart_: The Deeply Underdeveloped Worldview of John Bolton
     
-*   _Robert Kuttner_: The Face(book) of Big Brother
+*   _Tom Rogan_: Why, in Their Own Words, CIA Pros Love Gina Haspel
     
-*   _Patti Morrison_: Has Big Tech Tricked Us Into Abandoning Our Humanity?
+*   _Carol Costello_: Why Dismissing Stormy Daniels' Story Would Be a Mistake
     
-*   _George Neumayr_: Media Frauds Struggle to Put Trump Away
+*   _Paul Mulshine_: Stormy Daniels &. Trump: The Media Deserve a Spanking
     
-*   _Matt Ford_: Can the Supreme Court Stop Gerrymandering?
+*   _Richard Bernstein_: U.S. Ivory Towers Flunk at Chinese Democracy
     
-*   _Josh Kraushaar_: Stop the Gerrymandering Scaremongering
+*   _Alana Semuels_: Chicago's Awful Divide
     
-*   _Patrick Healy_: Roseanne Is a Trump Supporter, Just Like Her Creator
+*   _Wendy Wang_: 'The Sequence' Is the Secret to Success
     
-*   _David Von Drehle_: Remembering the Story of Linda Brown
+*   _Carl Cannon_: Baseball Is Back--and We're Better for It
     
-*   _Jazz Shaw_: NFL Pens $90M 'Social Justice' Deal, Solving Nothing
+*   _John Podhoretz_: Roseanne Revival Is a Wake-Up Call for Hollywood
     
-*   _Steven Rattner_: Is China's Version of Capitalism Winning?
+*   _Jesse Ferguson_: The Children Are Democrats' Future
     
-*   _Josh Rogin_: Trump Is Right to Counter China's Economic Warfare
+*   _Chad Greene_: I Backed Gun Control in High School. Now I've Joined NRA
     
-*   _Charlie Campbell_: What Kim Jong Un's Beijing Visit Might Mean for the U.S.
+*   _Ankit Panda_: Why Did Kim Jong Un Just Visit China?
     
-*   _Ed Rogers_: A la Nixon to China, Only Bolton Can Go to North Korea
+*   _Conrad Black_: What We Have Here Is a Failure to Appreciate the President
     
-*   _Eli Lake_: Don't Blow Up the Iran Deal. Trump's Strategy Is Working.
+*   _Ian Bremmer_: Last Week Was the Worst for Geopolitical Risk in 20 Years
     
-*   _Thomas Friedman_: How Mark Zuckerberg Can Save Facebook - and Us
+*   _Thomas Lifson_: Kim Jong-Un's Visit to Beijing Is Yuuuge Good News
     
-*   _Glenn Reynolds_: Next Stop for Silicon Valley: Government Regulation
+*   _David Craig_: Preparing for Warfare's Fifth Domain
     
-*   _Byron York_: House Subpoena Rattles DoJ. FBI Called on Carpet
+*   _Vann Newkirk_: Adding Citizenship Question Will Weaponize the Census
     
-*   _Jill Filipovic_: The Latest Weapon for the Know-Nothing GOP
+*   _Charles Hurt_: Liberals' Romance With Lawlessness
     
-*   _Adriana Cohen_: Citizenship Question Just Plain Common Sense
+*   _James Arkin_: Calif. 'Jungle' Primary Presents Concerns for Both Parties
     
-*   _Robert Creamer_: Pelosi an Asset, Not a Liability, for Dems in November
+*   _James Wolcott_: Can Obama Rescue the Democrats?
     
-*   _Steve Cortes_: Monica 2.0: Mueller, the Media, and the President
+*   _George Parry_: Was DNC Server Actually Hacked by the Russians?
     
 
 *   Previous
@@ -251,11 +254,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Mattis Predicts Partnership With Bolton Despite Differences
-*   Kim, Xi Portray Strong Ties After North Korea Leader's China Trip
-*   Perez: "Voter Suppression" to Ask Citizenship Status in Census
-*   Trump Suggests Paying for Border Wall With Pentagon Funds
-*   U.S. Expels 60 Russian Diplomats Over Poison Attack in Britain
+*   Trump Ousts Shulkin at Veterans Affairs, Taps White House Physician
+*   Calif. 'Jungle' Primary Presents Concerns for Both Parties
+*   "Special Report" Panel Discusses DOJ Watchdog Investigating FISA Abuses
+*   Preparing for Warfare's Fifth Domain
+*   Orange County Joins Fight Against California Sanctuary Law
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -270,24 +273,24 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve41
-    *   Disapprove54Disapprove +13
+*   Pennsylvania Senate - Barletta vs. CaseyFranklin &. Marshall
+    *   Casey43
+    *   Barletta25Casey +18
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve45
     *   Disapprove53Disapprove +8
-*   2018 Generic Congressional VoteEconomist/YouGov
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve41
+    *   Disapprove55Disapprove +14
+*   2018 Generic Congressional VoteReuters/Ipsos
     *   Democrats42
     *   Republicans35Democrats +7
-*   Congressional Job ApprovalEconomist/YouGov
-    *   Approve8
-    *   Disapprove74Disapprove +66
 
 More Latest Polls In The News
 
+*   CNN's Gupta: Ronny Jackson Not Qualified To Run VA, Besides Being Doctor And Admiral
 *   Tucker Carlson: "The Patriarchy Is Gone," "Men Are Failing". How Will Boys React To 'Toxic Masculinity?'
 *   'Roseanne' Star Sandra Bernhard: Women Who Support Trump Unable To Think For Themselves
-*   Chelsea Manning For MD Senate Platform: Abolish Prisons, Dismantle ICE, Free Healthcare, Trans Rights
 *   Mark Levin: Anderson Cooper Will Never Live Down Stormy Daniels Interview, "Pornification Of The Media"
 *   Roseanne Barr Talks 'Roseanne' Reboot on 'The View': Families Are Divided by Politics
 
