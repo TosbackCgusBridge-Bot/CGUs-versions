@@ -250,7 +250,7 @@ Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor
 *   Allgemeine Nutzungsbedingungen
 
   
-  
+Advertisement  
 Allgemeine Nutzungsbedingungen
 
 *   Drucken
@@ -746,3 +746,5 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
+
+Advertisement
