@@ -68,8 +68,9 @@ Shop elevated styles for Springtime Events.
         *   Jeans Under $50
         *   Pants/Leggings
         *   Cropped Jeans
-        *   Skirts
         *   Shorts
+        *   Skirts
+        *   Denim Skirts
         *   Shop All
         
         *   Shoes
@@ -247,10 +248,11 @@ Shop elevated styles for Springtime Events.
         *   Dibs
         *   Simple Stripes
         *   Fresh Florals
+        *   Spring Soles
+        *   Bright Whites
         *   Mellow Yellow
         *   (Swim) Suit Up
-        *   Bright Whites
-        *   Spring Soles
+        *   Denim Skirts
         
         *   Men's Trends
         
@@ -616,4 +618,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailQuick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailQuick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
