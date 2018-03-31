@@ -156,7 +156,7 @@ menu Close 0 Free Shipping on $50+
     
     *   New Arrivals
     *   Kids' Swim Shop
-    *   Easter Dressy Shop
+    *   Kids' Better Basics
     *   Girls' Spring Collections
     *   Boys' Spring Collections
     *   Girls' Knit Kit
@@ -524,7 +524,7 @@ menu Close 0 Free Shipping on $50+
         *   Back
         *   New Arrivals
         *   Kids' Swim Shop
-        *   Easter Dressy Shop
+        *   Kids' Better Basics
         *   Girls' Spring Collections
         *   Boys' Spring Collections
         *   Girls' Knit Kit
