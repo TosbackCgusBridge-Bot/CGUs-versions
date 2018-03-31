@@ -1,6 +1,6 @@
 <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <a href="http://www.omniture.com" title="Web Analytics"><img src="http://mlbreloaded.112.2O7.net/b/ss/mlbreloaded/1/H.13--NS/0?\[AQB\]&cdp=3&\[AQE\]" height="1" width="1" border="0" alt="" /></a>. To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 한국어 日本語 Español
 
-SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuctionFantasyPlay BallTeams
+Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Play Ball Teams
 
 *   Scores
 *   News News News
@@ -57,9 +57,9 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     *   Cut4
     *   Baseball's Best
 *   Stats Stats Stats
-    *   2017 Regular Season Stats
-    *   2017 Regular Season League Leaders
-    *   2017 Sortable Team Stats
+    *   2018 Regular Season Stats
+    *   2018 Regular Season League Leaders
+    *   2018 Sortable Team Stats
     *   Spring Training Sortable Stats
     *   Postseason Sortable Stats
     *   Statcast Leaders
@@ -68,9 +68,10 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     *   Scoring Changes
     *   GlossarySortable Stats
 *   Standings Standings Standings
+    *   2018 Regular Season Standings
+    *   Spring Training Standings
     *   2017 Regular Season Standings
     *   2017 Wild Card Standings
-    *   Spring Training Standings
 *   Schedule Schedule Schedule
     *   2018 Regular Season
     *   2017 Postseason
@@ -143,7 +144,8 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     *   Contact Us
 *   Auction
 *   Fantasy Fantasy Fantasy
-    *   2018 Player Preview
+    *   2018 Beat the Streak
+    *   Player Preview
     *   R.B.I. Baseball 18
     *   MLB Home Run Derby
     *   MLB Line Drive
@@ -154,7 +156,7 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
-    *   Follow @Fantasy4112018 Player Preview R.B.I. Baseball MLB.com Line Drive Fantasy Player Preview 160x160 MLB.com Home Run Derby
+    *   Follow @Fantasy4112018 Beat the Streak 2018 Player Preview R.B.I. Baseball MLB.com Line Drive Fantasy Player Preview 160x160 MLB.com Home Run Derby
 *   Play Ball Play Ball Play Ball
     *   PlayBall.org
     *   Videos
