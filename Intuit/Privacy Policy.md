@@ -35,11 +35,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 4 OF COUPON CODE 8SPRING ENDS IN
+Near YouFind a StoreBack DAY 5 OF COUPON CODE 8SPRING ENDS IN
 
 \*Offer ends on 3/31/18
 
-Days 0 0 0 0 hours 4 4 1 1 mins 2 2 3 2 secs
+Days 0 0 0 0 hours 4 4 1 1 mins 1 1 9 8 secs
 
 *   **FREE** SHIPPING &. HANDLING DETAILS
 *   SHOP &. **GET REWARDS**
@@ -53,32 +53,32 @@ UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DRESSESSHOP ALL50% MEN'
     
     was $210
     
-    Stafford Travel Wool Blend Stretch Classic Fit Suit Jacket(110)Add To Cart
+    Stafford Travel Wool Blend Stretch Classic Fit Suit Jacket(111)Add To Cart
 *   $95 sale
     
     was $190
     
     JF J. Ferrar® Stretch Gabardine Suit Jacket - Slim Fit(280)Add To Cart
-*   $95 sale
-    
-    was $190
-    
-    JF J. Ferrar® Stretch Gabardine Suit Jacket - Classic Fit(137)Add To Cart
 *   $130 sale
     
     was $260
     
-    Stafford® Executive Super 100 Wool Suit Jacket - Classic(224)Add To Cart
-*   $115 sale
-    
-    was $235
-    
-    Stafford Travel Wool Blend Stretch Suit Jacket Big and Tall(15)Add To Cart
+    Stafford® Executive Super 100 Wool Suit Jacket - Classic(226)Add To Cart
 *   $130 sale
     
     was $260
     
     Collection by Michael Strahan Classic Fit Suit JacketAdd To Cart
+*   $115 sale
+    
+    was $235
+    
+    Stafford Travel Wool Blend Stretch Suit Jacket Big and Tall(15)Add To Cart
+*   $95 sale
+    
+    was $190
+    
+    JF J. Ferrar® Stretch Gabardine Suit Jacket - Classic Fit(137)Add To Cart
 *   $95 sale
     
     was $190
@@ -99,16 +99,16 @@ UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DRESSESSHOP ALL50% MEN'
     was $190
     
     JF J.Ferrar Light Gray Slim Fit Suit JacketAdd To Cart
-*   $135 sale
-    
-    was $275
-    
-    Stafford® Executive Super 100 Wool Suit Jacket–Big &. Tall(63)Add To Cart
 *   $95 sale
     
     was $190
     
     JF J. Ferrar® Dark Blue Texture Jacket-Slim(13)Add To Cart
+*   $135 sale
+    
+    was $275
+    
+    Stafford® Executive Super 100 Wool Suit Jacket–Big &. Tall(63)Add To Cart
 *   $105 sale
     
     was $210
@@ -118,7 +118,7 @@ UP TO 40% OFF EASTER DRESSESSHOP ALLUP TO 40% OFF EASTER DRESSESSHOP ALL50% MEN'
     
     was $190
     
-    JF J. Ferrar Navy Variegated Stripe Suit Jacket - Slim-Fit(72)Add To Cart
+    JF J. Ferrar Black Nailhead Slim-Fit Suit Jacket(82)Add To Cart
 *   $75 sale
     
     was $190
@@ -197,11 +197,11 @@ SAVE ON OUTDOOR ENTERTAININGSHOP ALLSAVE ON OUTDOOR ENTERTAININGSHOP ALL
     was $300
     
     Outdoor Oasis Melbourne Patio SwingAdd To Cart
-*   $699.99 sale
+*   $799.99 sale
     
-    was $1,405
+    was $1,600
     
-    Outdoor Oasis Latigo Wicker 4-pc. Conversation Set with Swivel ChairsAdd To Cart
+    Outdoor Oasis Latigo Wicker 5-pc. Square Patio Dining Set with Swivel ChairsAdd To Cart
 
 SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALL
 
@@ -232,7 +232,7 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     
     was $44
     
-    a.n.a Long Sleeve Y Neck Woven Blouse(10)Add To Cart
+    a.n.a Long Sleeve Y Neck Woven Blouse(11)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $12.99 sale
@@ -240,13 +240,6 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     was $44
     
     Belle + Sky Smocked Off The Shoulder Top(2)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $19.99 sale
-    
-    was $24.79
-    
-    White Mark Flare Flared Skirt(23)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $13.99 sale
@@ -258,9 +251,23 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     
     $19.99 sale
     
+    was $24.79
+    
+    White Mark Flare Flared Skirt(23)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $13.99 sale
+    
+    was $49
+    
+    Worthington Ankle Pants(3)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $19.99 sale
+    
     was $26.89
     
-    White Mark Yanette Tunic Top(23)Add To Cart
+    White Mark Yanette Tunic Top(24)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $16.20 sale
@@ -268,13 +275,6 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     was $54
     
     Alfred Dunner 3/4 Sleeve Split Crew Neck T-Shirt-Womens(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $19.99 sale
-    
-    was $26.59
-    
-    White Mark Yanette Tunic Top-Plus(13)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $10.99 sale
@@ -291,25 +291,25 @@ SAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE ON SWIM FOR THE FAMILYSHOP ALLSAVE UP TO
     St. John's Bay Active Knit Jogger Pants (Tapered Leg)(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $13.99 sale
+    $19.99 sale
     
-    was $49
+    was $26.59
     
-    Worthington Ankle Pants(3)Add To Cart
+    White Mark Yanette Tunic Top-Plus(13)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $15.99 sale
+    $7.99 sale
     
-    was $54
+    was $27
     
-    Bold Elements Off The Shoulder Bell Sleeve Dress(11)Add To Cart
+    a.n.a Short Sleeve Scoop Neck Asymmetrical Hem Top(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $12.99 sale
     
     was $44
     
-    Bold Elements Jewel Choker Cold Shoulder Top(7)Add To Cart
+    Worthington Long Sleeve V Neck Open Front Cardigan(6)Add To Cart
 
 Shop and Save at JCPenney
 
