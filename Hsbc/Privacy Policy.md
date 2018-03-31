@@ -71,12 +71,11 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Stock exchange announcements
         *   Inside information last item in this group
     *   Shareholder information
-        *   Manage your shareholding
-        *   Dividend calculators
-        *   Dividend history
         *   Dividend timetable
+        *   Dividend history
+        *   Dividend calculators
         *   Scrip dividend
-        *   Treasury shares last item in this group
+        *   Manage your shareholding last item in this group
     *   Events and presentations
         
     
