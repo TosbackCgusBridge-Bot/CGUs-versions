@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Molly Ball_: Sessions Is Winning for Trump. If Only He Can Keep His Job
+*   _Damon Linker_: Trump Is Right About Amazon: It's Way Too Big
     
-*   _Ronald Klain_: A High Court Nomination Fight Won't Help Republicans
+*   _Jay Willis_: Donald Trump's Afraid of Amazon Because He Doesn't Understand It
     
-*   _Seth Lipsky_: The Ridiculous Snit Over a Census Citizenship Question
+*   _George Parry_: Why President Trump Should Play Hardball With Mueller
     
-*   _Peter Beinart_: The Deeply Underdeveloped Worldview of John Bolton
+*   _Lithwick & Stern_: Defenseless: Trump Lawyers Are No Match for Mueller
     
-*   _Tom Rogan_: Why, in Their Own Words, CIA Pros Love Gina Haspel
+*   _Jenna Ellis_: Dems Have a Perverse Legal Logic on Illegal Immigration
     
-*   _Carol Costello_: Why Dismissing Stormy Daniels' Story Would Be a Mistake
+*   _Alex Wagner_: The Americans Our Government Won't Count
     
-*   _Paul Mulshine_: Stormy Daniels &. Trump: The Media Deserve a Spanking
+*   _Richard O. Faulk_: Climate Change Movement Retreats to California Courts
     
-*   _Richard Bernstein_: U.S. Ivory Towers Flunk at Chinese Democracy
+*   _Emily Atkin_: The Conservative Coddling of Scott Pruitt
     
-*   _Alana Semuels_: Chicago's Awful Divide
+*   _Ding Rongjun_: Trump's Trick for Successful North Korea Negotiations
     
-*   _Wendy Wang_: 'The Sequence' Is the Secret to Success
+*   _Peterson & Katz_: Elite Schools Are Selling Themselves. Look Who's Buying
     
-*   _Carl Cannon_: Baseball Is Back--and We're Better for It
+*   _Mitch Daniels_: Someone Is Watching You
     
-*   _John Podhoretz_: Roseanne Revival Is a Wake-Up Call for Hollywood
+*   _Bryan Harris_: Why North Korea Came in From the Cold
     
-*   _Jesse Ferguson_: The Children Are Democrats' Future
+*   _Victor Davis Hanson_: Washington's Fantasies Are Not People's Reality
     
-*   _Chad Greene_: I Backed Gun Control in High School. Now I've Joined NRA
+*   _Jonathan Blitzer_: The Disdain Behind the GOP's New Census Question
     
-*   _Ankit Panda_: Why Did Kim Jong Un Just Visit China?
+*   _Marc Thiessen_: Nothing Wrong With a Census Question About Citizenship
     
-*   _Conrad Black_: What We Have Here Is a Failure to Appreciate the President
+*   _Michael Zeldin_: Mueller's Critics Are Wrong About His Role
     
-*   _Ian Bremmer_: Last Week Was the Worst for Geopolitical Risk in 20 Years
+*   _Robert Barnes_: Sessions Must Dismiss Mueller on Non-Campaign Cases
     
-*   _Thomas Lifson_: Kim Jong-Un's Visit to Beijing Is Yuuuge Good News
+*   _Russell Berman_: Why President Trump Is Going It Alone on Infrastructure
     
-*   _David Craig_: Preparing for Warfare's Fifth Domain
+*   _Mike Murphy_: How to Primary Trump in 2020
     
-*   _Vann Newkirk_: Adding Citizenship Question Will Weaponize the Census
+*   _Rich Lowry_: What NeverTrumpers Still Refuse to See
     
-*   _Charles Hurt_: Liberals' Romance With Lawlessness
+*   _Olivia Nuzzi_: Inside the Cutthroat Battle to Be the Next Hope Hicks
     
-*   _James Arkin_: Calif. 'Jungle' Primary Presents Concerns for Both Parties
+*   _Caitlin Huey-Burns_: Could Health Care Come Back to Hurt GOP in Midterms?
     
-*   _James Wolcott_: Can Obama Rescue the Democrats?
+*   _Thomas Edsall_: The 2016 Exit Polls Led Us to Misinterpret the 2016 Election
     
-*   _George Parry_: Was DNC Server Actually Hacked by the Russians?
+*   _Will Oremus_: Facebook's Rush to Fix Itself Before Midterms Is Not Enough
     
 
 *   Previous
@@ -254,10 +254,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Ousts Shulkin at Veterans Affairs, Taps White House Physician
 *   Calif. 'Jungle' Primary Presents Concerns for Both Parties
-*   "Special Report" Panel Discusses DOJ Watchdog Investigating FISA Abuses
-*   Preparing for Warfare's Fifth Domain
+*   Could Health Care Come Back to Hurt Republicans in Midterms?
+*   Trump: U.S. a 3rd-World Country in Many Cases, It's an Embarrassment
+*   Trump Ousts Shulkin at Veterans Affairs, Taps White House Physician
 *   Orange County Joins Fight Against California Sanctuary Law
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -273,12 +273,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
 *   Pennsylvania Senate - Barletta vs. CaseyFranklin &. Marshall
     *   Casey43
     *   Barletta25Casey +18
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove53Disapprove +8
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve41
     *   Disapprove55Disapprove +14
@@ -288,11 +288,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Local Reporter Confronts Broward Sheriff At Democratic Club: "Country Is Disappointed In You"
 *   CNN's Gupta: Ronny Jackson Not Qualified To Run VA, Besides Being Doctor And Admiral
 *   Tucker Carlson: "The Patriarchy Is Gone," "Men Are Failing". How Will Boys React To 'Toxic Masculinity?'
 *   'Roseanne' Star Sandra Bernhard: Women Who Support Trump Unable To Think For Themselves
 *   Mark Levin: Anderson Cooper Will Never Live Down Stormy Daniels Interview, "Pornification Of The Media"
-*   Roseanne Barr Talks 'Roseanne' Reboot on 'The View': Families Are Divided by Politics
 
 *   Politics
 *   Policy
