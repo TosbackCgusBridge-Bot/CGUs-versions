@@ -320,9 +320,7 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   BUSINESS BRACKET BUSTER EVENT
-            
-        *   Monitor Deals
+    *   *   Monitor Deals
             
 *   Support
     *   Sales Enquiries
