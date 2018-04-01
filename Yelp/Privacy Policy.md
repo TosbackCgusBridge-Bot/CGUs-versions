@@ -62,7 +62,7 @@ Please also note that the messages you send or receive using the Service are onl
 
 5\. Data Retention and Account Termination
 
-You can close your account by clicking here. We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations. Please note that businesses cannot remove their business listings, ratings, or reviews by closing their accounts.
+You can close your account by clicking heredursvrxzzczyzzafzwavfdrdetqdd. We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations. Please note that businesses cannot remove their business listings, ratings, or reviews by closing their accounts.
 
 6\. Children
 
