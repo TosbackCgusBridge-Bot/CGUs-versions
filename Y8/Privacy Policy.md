@@ -3,9 +3,9 @@
 *   games
 *   videos
 
-New Games Next in  28:04 Categories &. more LIBRARY
+New Games Next in  xx:xx Categories &. more LIBRARY
 
-*   New Games Next in 28:04
+*   New Games Next in xx:xx
 *   Best of new games 1408 games
 *   Most Popular Games 590 games
 *   Played Games 0 games
@@ -14,33 +14,33 @@ New Games Next in  28:04 Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 21,389 games
-*   Driving &. Racing Games 6,656 games
+*   Games for girls 21,391 games
+*   Driving &. Racing Games 6,659 games
 *   Strategy &. RPG Games 2,300 games
 *   Management Games 3,637 games
-*   Thinking Games 11,276 games
-*   Action &. Adventure Games 15,617 games
+*   Thinking Games 11,278 games
+*   Action &. Adventure Games 15,618 games
 *   Sports Games 2,198 games
-*   Shooting Games 7,800 games
+*   Shooting Games 7,806 games
 *   Fighting Games 2,084 games
-*   Skill Games 9,711 games
-*   Arcade &. Classic Games 12,294 games
+*   Skill Games 9,719 games
+*   Arcade &. Classic Games 12,298 games
 *   Fun &. Crazy Games 2,295 games
 
 Tags
 
-*   Zombies1,418
+*   Adventure3,735
 *   Violence371
-*   Farm233
-*   Tennis60
-*   Car2,279
-*   Food2,765
+*   Blood1,155
+*   Decorate1,649
+*   Dog700
+*   Tank471
 *   View All Tags 371
 
 Play with friends  
-Powered by id.net 124 id.net Multiplayer Games 1,373 id.net High Score Games 903 id.net Achievements Games 773 id.net Screenshots Games 1,299 id.net Online Save Games 2,405 All id.net Games Last Highscore:
+Powered by id.net 124 id.net Multiplayer Games 1,373 id.net High Score Games 903 id.net Achievements Games 773 id.net Screenshots Games 1,297 id.net Online Save Games 2,405 All id.net Games Last Highscore:
 
-**498,367,354** points on Harvest Story by Lenouch
+**3** points on Military Wars 3D Multiplayer by aliarzadon
 
 *   Contact Form
 *   Submit a Game or Video
