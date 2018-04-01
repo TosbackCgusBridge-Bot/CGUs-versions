@@ -127,7 +127,7 @@ With WF-SP700N Headphones
 
 Make every day a creative adventure with #Xperia XA2 Ultra.
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -201,7 +201,7 @@ With the a7 III
 
 It's not easy telling your wife that you suddenly decided to quit your job. See how it all plays out when #AlexInc premieres Wednesday!
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -287,7 +287,7 @@ Play Immerse Yourself in Khalid’s Video hotspot
 
 Watch @LeonBridges' new video for "Bad Bad News" now!
 
-4 days ago
+5 days ago
 
 View Tweet
 
