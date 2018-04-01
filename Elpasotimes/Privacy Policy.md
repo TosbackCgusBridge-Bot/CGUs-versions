@@ -1,4 +1,4 @@
-SUBSCRIBE NOW1st month FREE
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE NOW1st month FREE
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW1st month FREE
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowBleach-covered puppies abandoned behind churchCrimeNew downtown coffee shop, Women's Hall of FameBusinessK-9 officer finds drugs, Juarez man arrestedCrimeHas Chihuahuas stadium spurred revitalization?NewsPolice need help finding missing, depressed manNewsMurder-suicide eyed in deaths of Fabens man, wifeCrimeConfession allowed in tattoo instrument killingCrimeTwo dead bodies found in FabensCrimeFirefighters battle blaze at East El Paso homeLocalEligibility rules kept Miners from '57 tourneyCollegeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowAn El Paso man died after a shooting on AlamedaNewsK-9 officer finds drugs, Juarez man arrestedCrimeBleach-covered puppies abandoned behind churchCrimeUTA firing of coach Scott Cross was a mistakeSportsNew downtown coffee shop, Women's Hall of FameBusinessPolice say woman found with meth was with 2 kidsCrimeA tainted Canelo legacy, a victimized champBoxingMobile clinic offers El Pasoans free dental careLifeConfession allowed in tattoo instrument killingCrimeFirefighters battle blaze at East El Paso homeLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,3 +142,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogclose dialog1st Month Free Subscribe NowNot looking to subscribe right now close dialog
