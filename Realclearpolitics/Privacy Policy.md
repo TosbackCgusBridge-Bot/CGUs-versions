@@ -106,6 +106,8 @@
     *   About
     *   Media Kit
 
+*   _Ruth Marcus_: Trump's Dangerous Approach to the Supreme Court
+    
 *   _Randy Noel_: Tariffs on Lumber Hurt U.S. Home Buyers
     
 *   _Damon Linker_: Trump Is Right About Amazon: It's Way Too Big
@@ -151,8 +153,6 @@
 *   _Olivia Nuzzi_: Inside the Cutthroat Battle to Be the Next Hope Hicks
     
 *   _Caitlin Huey-Burns_: Could Health Care Come Back to Hurt GOP in Midterms?
-    
-*   _Thomas Edsall_: The 2016 Exit Polls Led Us to Misinterpret the 2016 Election
     
 
 *   Previous
@@ -288,11 +288,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Bernie On Gaza: I Do Not Accept Israel's Explanation, Palestinians Engaged In "Nonviolent Protest"
+*   Author Ronald Kessler: Trump Will Be "Remembered As A Great President," Kellyanne Is "#1 Leaker"
+*   Dem Rep. Sherman: "California Has Sued The Trump Admin 29 Times, And We Haven't Lost Once"
+*   Christie Warns Trump: If You Are "Hyperbolic" With Robert Mueller, You Could Go To Jail
 *   David Brooks: Trump Believes "Experience Is More Corrupting Than Educational," Has "No Notion Of Norms"
-*   Local Reporter Confronts Broward Sheriff At Democratic Club: "Country Is Disappointed In You"
-*   CNN's Gupta: Ronny Jackson Not Qualified To Run VA, Besides Being Doctor And Admiral
-*   Tucker Carlson: "The Patriarchy Is Gone," "Men Are Failing". How Will Boys React To 'Toxic Masculinity?'
-*   'Roseanne' Star Sandra Bernhard: Women Who Support Trump Unable To Think For Themselves
 
 *   Politics
 *   Policy
