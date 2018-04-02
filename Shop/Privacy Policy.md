@@ -320,7 +320,9 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   Monitor Deals
+    *   *   72 HOUR SALE
+            
+        *   Monitor Deals
             
 *   Support
     *   Sales Enquiries
@@ -394,16 +396,15 @@ Lenovo Small Business
 
 Explore how Lenovo can be your small business partner.
 
-TAB 4 10 PLUS ADDS IT ALL
+Convertible Flash Sale
 
-Super sound. Separate user accounts. And simply dazzling visuals.
+Save BIG on top of the line convertible laptops and accessories. Sale ends April 4.
 
-FLEX 5 (15")
+Tab 4 8"" + Speaker Dock Bundle
 
-Pen-point sensitive touch screen and durable 360 degree hinge.
+Purchase the Tab 4 8" and get the speaker dock for $50 (Regular Price $79.99)
 
-**Spring Cleaning Sale**  
-Out with the old and in with the new! Save up to 75% off through April 1.
+Awaken your inner Jedi with a new smartphone-powered augmented reality experience.
 
 LAPTOPS
 
