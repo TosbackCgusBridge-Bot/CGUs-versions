@@ -270,9 +270,9 @@ Offers
     
     Receive a FREE\* exclusive 'Ready Player One' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   Get 2 Movies When You Connect
+*   'A Wrinkle in Time' Gift With Purchase
     
-    FandangoNOW Joins Movies Anywhere! Get 2 movies when FandangoNOW is the first account you connect to Movies Anywhere. LEARN MORE
+    Receive a FREE\* exclusive 'A Wrinkle in Time' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Thoroughbreds' Gift With Purchase
     
@@ -319,7 +319,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   March Celebrity Birthdays
+*   April Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
