@@ -1,6 +1,6 @@
 *   Travel
 *   Politics
-*   Jewelry
+*   Style
 *   Royals
 *   Cocktails
 
@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 The Best Places To Go in May 2 T&C Horoscopes: April 1-15 3 22 Gorgeous Royal Wedding Tiara Moments 4 What To Wear for Easter 5 The Best Celebrity Engagement Rings Privacy Policy Dec 1, 2014
+Today's Top Stories 1 22 Gorgeous Royal Wedding Tiara Moments 2 The Best Places To Go in May 3 The Best Celebrity Engagement Rings 4 _The Weekly Covet_: Morning Routine 5 T&C Horoscopes: April 1-15 Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
