@@ -400,9 +400,9 @@ Convertible Flash Sale
 
 Save BIG on top of the line convertible laptops and accessories. Sale ends April 4.
 
-Tab 4 8"" + Speaker Dock Bundle
+TAB 4 10 PLUS ADDS IT ALL
 
-Purchase the Tab 4 8" and get the speaker dock for $50 (Regular Price $79.99)
+Super sound. Separate user accounts. And simply dazzling visuals.
 
 Awaken your inner Jedi with a new smartphone-powered augmented reality experience.
 
