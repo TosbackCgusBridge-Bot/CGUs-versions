@@ -7,11 +7,11 @@
     *   America's Next Top Model
     *   VH1 Beauty Bar
     *   Black Ink Crew
+    *   Dear Mama
     *   Hip Hop Squares
     *   Leave It To Stevie
     *   Love &. Hip Hop
-    *   Love &. Hip Hop Atlanta
-    *   Love &. Hip Hop MiamiSee all Shows
+    *   Love &. Hip Hop AtlantaSee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppAmerica's Next Top ModelVH1 Beauty BarBlack Ink CrewHip Hop SquaresLeave It To StevieLove &. Hip HopLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceRuPaul's Drag Race All StarsTeyana &. Imansee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppAmerica's Next Top ModelVH1 Beauty BarBlack Ink CrewDear MamaHip Hop SquaresLeave It To StevieLove &. Hip HopLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceRuPaul's Drag Race All StarsTeyana &. Imansee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
