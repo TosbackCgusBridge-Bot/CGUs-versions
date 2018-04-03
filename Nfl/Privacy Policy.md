@@ -4,11 +4,11 @@
 *   Standings
 *   Video
 *   Fantasy
-*   Free Agency
+*   Draft
 *   Tickets
 *   Shop
 *   Teams
-*   Draft
+*   Free Agency
 *   Game Pass
 *   Stats
 *   Ways to Watch
@@ -21,11 +21,11 @@
 *   Standings
 *   Video
 *   Fantasy
-*   Free Agency
+*   Draft
 
-*   Free Agency
+*   DRAFT
 
-*   *   Draft
+*   *   Free Agency
     *   Game Pass
     *   Stats
     *   Ways to Watch
