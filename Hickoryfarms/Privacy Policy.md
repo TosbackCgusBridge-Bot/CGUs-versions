@@ -7,12 +7,11 @@
     *   Military
     *   New!
     
-    Occasions*   Easter Gifts
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Spring Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Game DayMost Popular Easter Entertaining Easter Baskets
+    *   Graduation &. CongratulationsMost Popular Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -43,9 +42,16 @@
     *   Cookies &. Cakes
     *   Candy &. Confections
     *   DessertsMost Popular Chocolates
-*   Easter Gifts
-    View All Categories Shop by Category*   Easter Baskets
-    *   Easter Entertaining
+*   Holiday
+    
+    View All Categories Shop by Category*   Easter Gifts
+    
+    Occasions*   Birthday Gifts
+    *   Spring Gifts
+    *   Weddings &. Showers
+    *   Housewarming
+    *   Thank You
+    *   Graduation &. CongratulationsMost Popular Easter Baskets Easter Entertaining
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
@@ -67,12 +73,11 @@
     *   Military
     *   New!
     
-    Occasions*   Easter Gifts
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Spring Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Game DayMost Popular Easter Entertaining Easter Baskets
+    *   Graduation &. CongratulationsMost Popular Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -103,9 +108,16 @@
     *   Cookies &. Cakes
     *   Candy &. Confections
     *   DessertsMost Popular Chocolates
-*   Easter Gifts
-    View All Categories Shop by Category*   Easter Baskets
-    *   Easter Entertaining
+*   Holiday
+    
+    View All Categories Shop by Category*   Easter Gifts
+    
+    Occasions*   Birthday Gifts
+    *   Spring Gifts
+    *   Weddings &. Showers
+    *   Housewarming
+    *   Thank You
+    *   Graduation &. CongratulationsMost Popular Easter Baskets Easter Entertaining
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
