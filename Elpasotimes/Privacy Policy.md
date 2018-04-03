@@ -1,4 +1,4 @@
-close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE NOW1st month FREE
+SUBSCRIBE NOW1st month FREE
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE 
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowAn El Paso man died after a shooting on AlamedaNewsK-9 officer finds drugs, Juarez man arrestedCrimeBleach-covered puppies abandoned behind churchCrimeUTA firing of coach Scott Cross was a mistakeSportsNew downtown coffee shop, Women's Hall of FameBusinessPolice say woman found with meth was with 2 kidsCrimeA tainted Canelo legacy, a victimized champBoxingMobile clinic offers El Pasoans free dental careLifeConfession allowed in tattoo instrument killingCrimeFirefighters battle blaze at East El Paso homeLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso man seriously injured in hit-and-runCrimeAn El Paso man died after a shooting on AlamedaNewsUTA firing of coach Scott Cross was a mistakeSportsK-9 officer finds drugs, Juarez man arrestedCrimeCaravan in Texas to resist sanctuary cities lawImmigrationA tainted Canelo legacy, a victimized champBoxingFlorida man killed after hit by car in HudspethNewsDistrict Coffee Co. opens in Downtown El PasoBusinessOfficials urge caution over suspicious packagesCrimeMobile clinic offers El Pasoans free dental careLifeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,5 +142,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogclose dialog1st Month Free Subscribe NowNot looking to subscribe right now close dialog
