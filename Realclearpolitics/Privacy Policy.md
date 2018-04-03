@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Ruth Marcus_: Trump's Dangerous Approach to the Supreme Court
+*   _Daniel DePetris_: 5 Reasons Trump Should Get the U.S. Out of Syria
     
-*   _Randy Noel_: Tariffs on Lumber Hurt U.S. Home Buyers
+*   _Samantha Vinograd_: Putin Unleashes 'Satan 2' Missile in a Blaze of Glory
     
-*   _Damon Linker_: Trump Is Right About Amazon: It's Way Too Big
+*   _James Gagliano_: Comey's Book Tour Is a Colossal Mistake
     
-*   _Jay Willis_: Donald Trump's Afraid of Amazon Because He Doesn't Understand It
+*   _Ryan Cooper_: What Will Happen If Democrats Retake the House?
     
-*   _George Parry_: Why President Trump Should Play Hardball With Mueller
+*   _Wilson &. McGoldrick_: Republicans' Opportunity With Hispanic Voters
     
-*   _Lithwick & Stern_: Defenseless: Trump Lawyers Are No Match for Mueller
+*   _William Barber_: America's Moral Malady &. the Agenda of White Supremacy
     
-*   _Jenna Ellis_: Dems Have a Perverse Legal Logic on Illegal Immigration
+*   _Lionel Shriver_: Can You Prove You're Not a Racist?
     
-*   _Alex Wagner_: The Americans Our Government Won't Count
+*   _David Catron_: California Commits Massive Medicaid Fraud
     
-*   _Richard O. Faulk_: Climate Change Movement Retreats to California Courts
+*   _David Faris_: How Republicans Rigged Our Democracy
     
-*   _Emily Atkin_: The Conservative Coddling of Scott Pruitt
+*   _Maureen Callahan_: Horror Stories Show How Much Work Is Needed at the VA
     
-*   _Ding Rongjun_: Trump's Trick for Successful North Korea Negotiations
+*   _Sapna Maheshwari_: Hey, Alexa, What Can You Hear? And What Will You Do?
     
-*   _Peterson & Katz_: Elite Schools Are Selling Themselves. Look Who's Buying
+*   _Albert Hunt_: Two Mistakes the Democrats Can't Afford to Make
     
-*   _Mitch Daniels_: Someone Is Watching You
+*   _Michael Balzano_: Unions, Republicans, and the Margin of Victory
     
-*   _Bryan Harris_: Why North Korea Came in From the Cold
+*   _Dexter Filkins_: A Saudi Prince's Quest to Remake the Middle East
     
-*   _Victor Davis Hanson_: Washington's Fantasies Are Not People's Reality
+*   _David Goldman_: How to Meet the Strategic Challenge Posed by China
     
-*   _Jonathan Blitzer_: The Disdain Behind the GOP's New Census Question
+*   _Margo Oge_: How Looser Emissions Standards Hurt the Auto Industry
     
-*   _Marc Thiessen_: Nothing Wrong With a Census Question About Citizenship
+*   _Phelim McAleer_: Climate Alarmists May Inherit the Wind
     
-*   _Michael Zeldin_: Mueller's Critics Are Wrong About His Role
+*   _Byron York_: Why Was Rick Gates Talking to an Ex-Russian Spy?
     
-*   _Robert Barnes_: Sessions Must Dismiss Mueller on Non-Campaign Cases
+*   _Graham Vyse_: Is Washington Ready for Another Betsy DeVos?
     
-*   _Russell Berman_: Why President Trump Is Going It Alone on Infrastructure
+*   _Glenn Reynolds_: Social Media Firms Want Us Hooked, Not Informed
     
-*   _Mike Murphy_: How to Primary Trump in 2020
+*   _Ezra Klein_: Zuckerberg on Facebook's Hardest Year, and What Comes Next
     
-*   _Rich Lowry_: What NeverTrumpers Still Refuse to See
+*   _Emily Jashinsky_: McCaskill's Missed Opportunity in Missouri
     
-*   _Olivia Nuzzi_: Inside the Cutthroat Battle to Be the Next Hope Hicks
+*   _James Arkin_: Dems Boost 'Conor Lamb Clone' in Illinois Race
     
-*   _Caitlin Huey-Burns_: Could Health Care Come Back to Hurt GOP in Midterms?
+*   _Maureen Dowd_: Javanka vs. the Klossy Posse
     
 
 *   Previous
@@ -254,11 +254,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump on DACA Deal: "No More"
+*   Dems Boost "Conor Lamb Clone" in Illinois Race
+*   Trump: Military "Will Be Coming Out of Syria, Like, Very Soon"
 *   Calif. 'Jungle' Primary Presents Concerns for Both Parties
 *   Could Health Care Come Back to Hurt Republicans in Midterms?
-*   Trump: U.S. a 3rd-World Country in Many Cases, It's an Embarrassment
-*   Trump Ousts Shulkin at Veterans Affairs, Taps White House Physician
-*   Orange County Joins Fight Against California Sanctuary Law
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -273,26 +273,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalHarvard-Harris
+    *   Approve44
+    *   Disapprove56Disapprove +12
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve38
+    *   Disapprove56Disapprove +18
+*   President Trump Job ApprovalGallup
+    *   Approve39
+    *   Disapprove55Disapprove +16
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
-*   Pennsylvania Senate - Barletta vs. CaseyFranklin &. Marshall
-    *   Casey43
-    *   Barletta25Casey +18
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve41
-    *   Disapprove55Disapprove +14
-*   2018 Generic Congressional VoteReuters/Ipsos
-    *   Democrats42
-    *   Republicans35Democrats +7
+    *   Approve50
+    *   Disapprove49Approve +1
 
 More Latest Polls In The News
 
+*   Coulter On "Obscenity-Laced" Oval Office Shouting Match With Trump: "Total Betrayal" On The Wall
 *   Bernie On Gaza: I Do Not Accept Israel's Explanation, Palestinians Engaged In "Nonviolent Protest"
 *   Author Ronald Kessler: Trump Will Be "Remembered As A Great President," Kellyanne Is "#1 Leaker"
 *   Dem Rep. Sherman: "California Has Sued The Trump Admin 29 Times, And We Haven't Lost Once"
 *   Christie Warns Trump: If You Are "Hyperbolic" With Robert Mueller, You Could Go To Jail
-*   David Brooks: Trump Believes "Experience Is More Corrupting Than Educational," Has "No Notion Of Norms"
 
 *   Politics
 *   Policy
