@@ -137,15 +137,15 @@ LATEST ON TWITTER
 
 "The market’s actions show that programmatic is not only here to stay, it’s quickly becoming the underpinning of the digital advertising industry." Our VP of Programmatic Strategy, @Requidan, talks about the reality of #programmatic via @adexchanger bit.ly/2J1yXQL
 
-About 5 days ago
+About 6 days ago
 
 My week on Twitter : 2 Mentions, 6 Likes, 5 Retweets, 1.61K Retweet Reach, 10 New Followers. See yours with sumall.com/performan… pic.twitter.com/KEHN…
 
-About 5 days ago
+About 6 days ago
 
 Our biggest fans this week: @Requidan, @Nicole\_Kosar, @Cassin75. Thank you! via sumall.com/thankyou?… pic.twitter.com/xTEN…
 
-About 6 days ago
+Last week
 
 Few more weeks till @adexchanger #PROGIO San Fran! Don't miss @Requidan's discussion about leveraging DPO to improve yield and achieve long-term success at 1:30PM on 4/10 bit.ly/2pzhNkn pic.twitter.com/PPek…
 
