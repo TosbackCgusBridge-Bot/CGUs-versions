@@ -5,32 +5,32 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
-    *   Pacific Rim Uprising (2018)
+    *   Ready Player One
+    *   Tyler Perry's Acrimony
     *   Black Panther
     *   I Can Only Imagine
+    *   Pacific Rim Uprising (2018)
     *   Sherlock Gnomes
+    *   Love, Simon
     *   Tomb Raider (2018)
     *   A Wrinkle in Time
-    *   Love, Simon
     *   Paul, Apostle of Christ
-    *   Game Night (2018)
-    *   Midnight Sun (2018)
-    *   Unsane (2018)
+    *   Isle of Dogs
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   God's Not Dead: A Light in Darkness
-    *   Ready Player One
-    *   Tyler Perry's Acrimony
-    *   Baaghi 2
-    *   Birthmarked
-    *   Caught (2018)
-    *   The China Hustle
-    *   Finding Your Feet
-    *   Fourplay (2018)
-    *   Gemini (2018)
-    *   Love After Love
+    *   Blockers
+    *   Chappaquiddick
+    *   The Miracle Season
+    *   A Quiet Place
+    *   The Endless
+    *   The Heart of Nuba
+    *   Lean on Pete
+    *   Pandas
+    *   Spiral (2018)
+    *   Where Is Kyra?
+    *   You Were Never Really Here
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -39,16 +39,14 @@ Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   A Quiet Place
-    *   Blockers
-    *   Chappaquiddick
-    *   The Miracle Season
     *   Borg vs McEnroe
     *   Rampage (2018)
     *   Blumhouse's Truth or Dare (2018)
     *   Sgt. Stubby: An American Hero
     *   I Feel Pretty
     *   Super Troopers 2
+    *   Traffik
+    *   Overboard (2018)
     *   See All Coming Soon
     
     Explore More
@@ -76,9 +74,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   ‘Avengers: Infinity War’: Infiltrating Marvel’s Top-Secret Clash of the Mad Titans Read More
-    *   The Week in Movie News: 'Captain Marvel' Reveals Resurrected Characters, 'Tintin' Sequel Still On and More Read More
-    *   Colin Trevorrow Is Returning to Direct 'Jurassic World 3' Read More
+    *   Exclusive: Joaquin Phoenix Says Playing the Joker Could Be "Interesting" Read More
+    *   'Ready Player One' Buzz: The DeLorean, Working with Spielberg, a Political Statement and More Read More
+    *   Here's What You Should Know About Pixar's New Short Read More
     
     Explore Content
     *   Movie Reviews
@@ -326,4 +324,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
