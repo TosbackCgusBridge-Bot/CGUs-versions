@@ -37,9 +37,9 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   Sabrina's Picks
+*   T-Shirt Riot
 *   Create Your Suit for $22
 *   Spring Break
-*   Easter Best
 *   Festival Vibes
 *   Denim Guide
 *   Logo Shop
@@ -93,8 +93,8 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
+*   T-Shirt Riot
 *   Buy 1 Get 2 Free
-*   Easter Best
 *   Denim Guide
 *   Logo Shop
 *   Active
@@ -353,7 +353,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**EXTRA 20% OFF ENTIRE ORDER** USE CODE **HOP2IT** **50-70% OFF + FREE SHIPPING OVER $75**
+**BUY 1 GET 2 FREE GRAPHICS TEES** **50-70% OFF + FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -366,9 +366,9 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Sabrina's Picks
+        *   T-Shirt Riot
         *   Create Your Suit for $22
         *   Spring Break
-        *   Easter Best
         *   Festival Vibes
         *   Denim Guide
         *   Logo Shop
@@ -418,8 +418,8 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
+        *   T-Shirt Riot
         *   Buy 1 Get 2 Free
-        *   Easter Best
         *   Denim Guide
         *   Logo Shop
         *   Active
@@ -521,7 +521,6 @@ Menu Find a Store Aeropostale
         *   Boardshorts
         *   Tanks + Tees
         *   Swim Accessories
-    
 *   Live Love Dream
     
     *   View Home
@@ -645,7 +644,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Shop Girls Shop Guys Shop DRESSES + ROMPERS Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Girls Shop Guys Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop girls Shop guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Girls Promotions Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions Message &. Data Rates May Apply. FOLLOW US Customer Care
 
 *   Order Status
