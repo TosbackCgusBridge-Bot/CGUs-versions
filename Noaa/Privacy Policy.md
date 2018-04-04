@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had its coolest February since 2014 Sea ice coverage at the poles remains at record- and near-record lows AROUND NOAA // Featured photo: It’s lights out at the bottom of the world, for now Study: Climate change soon to be main cause of heat waves in West, Great Lakes
+Enter Search Terms Globe had its coolest February since 2014 Sea ice coverage at the poles remains at record- and near-record lows AROUND NOAA // NOAA joins with PortMiami to let larger cargo ships safely enter seaport Featured photo: It’s lights out at the bottom of the world, for now Study: Climate change soon to be main cause of heat waves in West, Great Lakes
 
 *   About our agency
 *   News and features
