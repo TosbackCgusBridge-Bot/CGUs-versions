@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Shop elevated styles for Springtime Events.
+The temps are rising and we’ve got that festival fever - Shop Now.
 
 *   Women
 *   Men
