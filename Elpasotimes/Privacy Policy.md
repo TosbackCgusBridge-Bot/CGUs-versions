@@ -73,7 +73,7 @@ SUBSCRIBE NOW1st month FREE
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso man seriously injured in hit-and-runCrimeAn El Paso man died after a shooting on AlamedaNewsUTA firing of coach Scott Cross was a mistakeSportsK-9 officer finds drugs, Juarez man arrestedCrimeCaravan in Texas to resist sanctuary cities lawImmigrationA tainted Canelo legacy, a victimized champBoxingFlorida man killed after hit by car in HudspethNewsDistrict Coffee Co. opens in Downtown El PasoBusinessOfficials urge caution over suspicious packagesCrimeMobile clinic offers El Pasoans free dental careLifeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowLawsuit against Veronica Escobar droppedLocalBeto O'Rourke responds to Cruz campaign jinglePoliticsComplaint seeks to stop EPISD bus hub at BowieEducationFormer FBI agent convicted in fraud caseCrimeTwo El Paso teens charged with capital murderCrimePerson comes forward in hit-and-run wreck SundayCrimeBeto O'Rourke raises $6.7 million this yearPoliticsCameras film gas station robbery near Cielo VistaCrimeTour gives taste of living in downtown El PasoNewsEPCC wants historic zone gone for former homeLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
