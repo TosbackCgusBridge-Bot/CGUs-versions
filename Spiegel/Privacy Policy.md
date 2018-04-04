@@ -16,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.096,73ǀ
+*   DAX 12.002,45ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -51,7 +51,6 @@ Anmelden
         *   Unternehmen &. Märkte
         *   Staat &. Soziales
         *   Mittelstand
-        *   Geldanlage
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
         *   Immowelt
@@ -250,7 +249,7 @@ Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor
 *   Allgemeine Nutzungsbedingungen
 
   
-Advertisement  
+  
 Allgemeine Nutzungsbedingungen
 
 *   Drucken
@@ -746,3 +745,5 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
+
+Advertisement
