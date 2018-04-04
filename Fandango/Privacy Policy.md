@@ -75,8 +75,8 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Exclusive: Joaquin Phoenix Says Playing the Joker Could Be "Interesting" Read More
-    *   'Ready Player One' Buzz: The DeLorean, Working with Spielberg, a Political Statement and More Read More
-    *   Here's What You Should Know About Pixar's New Short Read More
+    *   Universal to Adapt 'Armada' From 'Ready Player One' Author Ernest Cline Read More
+    *   'Creed II' Begins Filming: What We Know So Far Read More
     
     Explore Content
     *   Movie Reviews
