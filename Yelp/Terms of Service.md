@@ -113,7 +113,7 @@ These terms and conditions (the **"Terms"**) govern your access to and use of Ye
         
     3.  Copyright And Trademark Disputes
         
-        Please see our Infringement Policycsacrurrsfxfesezsbdxsdtcefbaer for information about copyright and trademark disputes.
+        Please see our Infringement Policy for information about copyright and trademark disputes.
         
     4.  Events
         
