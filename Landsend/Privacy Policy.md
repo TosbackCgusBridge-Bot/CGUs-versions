@@ -157,8 +157,6 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   Kids' Swim Shop
     *   Kids' Better Basics
-    *   Girls' Spring Collections
-    *   Boys' Spring Collections
     *   Girls' Knit Kit
     *   Iron Knees Pants
     *   School Uniforms
@@ -525,8 +523,6 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Kids' Swim Shop
         *   Kids' Better Basics
-        *   Girls' Spring Collections
-        *   Boys' Spring Collections
         *   Girls' Knit Kit
         *   Iron Knees Pants
         *   School Uniforms
@@ -804,9 +800,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: BUNNY pin: 9248 DETAILS
+code: BLOOM pin: 5167 DETAILS
 
 Customer Service Menu
 
@@ -1065,4 +1061,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
