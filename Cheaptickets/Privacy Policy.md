@@ -8,7 +8,6 @@ Show Menu Hide Menu
     *   Hotels
     *   Cars
     *   Cruises
-    *   Cruises
     *   Flights
     *   DEALS!
     *   Event Tickets
@@ -39,13 +38,12 @@ Show Menu Hide Menu
     *   Customer Support
     *   Feedback
 
-//a.travel-assets.com/globalcontrols-service/content/dca01cdc7b05325742eae230f629d12e9b9ef062 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/3dc2ebddd75f4ac1b53e12edf510b3f996fa7afa Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Vacation Packages
 *   Hotels
 *   Cars
-*   Cruises
 *   Cruises
 *   Flights
 *   DEALS!
@@ -83,9 +81,7 @@ Password
 Keep me signed in Forgot password? Sign In Need an account? Sign Up Page not found
 
 We apologize, but we cannot find the page you’re looking for.  
-Please start your search from CheapTickets’s homepage or try searching.
-
-What are you looking for? Clear field: What are you looking for?. Field value: Search
+Please start your search from CheapTickets’s homepage.
 
 *   Privacy PolicyOpens in a new window.
 *   Terms of UseOpens in a new window.
