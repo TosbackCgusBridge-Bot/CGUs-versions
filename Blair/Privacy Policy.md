@@ -1,4 +1,23 @@
-  No thank you, I prefer to pay for shipping!  
+X  
+By clicking below, you will open a new window for  
+the New and Improved Haband.com  
+
+Don't worry, items in your current shopping cart will be saved
+
+  
+  
+Continue  
+  
+
+**To purchase products from both Haband and other stores in our family of brands, please place 2 separate online orders or call 1-800-742-2263.  
+Note: Items in your cart will not be transferred to Haband.com**.  
+  
+
+  
+  
+Go to the NEW Haband.com   No thank you, I prefer to pay for shipping!     Offer Details
+
+Use promotion code **BHSQ** at checkout for FREE standard shipping on your entire Blair order. Additional shipping charges apply for express, heavyweight and deliveries outside the continental US. This offer cannot be combined with other offers. not valid on previously placed orders. good online only through April 8, 2018.
 
 Shop your favorite stores and discover new ones  
   
