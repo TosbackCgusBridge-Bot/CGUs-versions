@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 4 April 2018 ›
+*   LXD weekly status #41 ›
 *   Using cloud-init with Multipass ›
 *   Growing ONLYOFFICE through snaps and the Snap Store ›
 *   What can you do with Kubernetes? ›
-*   Design and Web team summary – 27 March 2018 ›
-*   LXD weekly status #40 ›
