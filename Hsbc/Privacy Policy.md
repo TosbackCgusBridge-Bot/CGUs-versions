@@ -88,7 +88,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   HSBC Holdings securities
         *   Subsidiary company securities
         *   Covered bonds
-        *   Green bonds
+        *   Green and sustainability bonds
         *   Issuance programmes
         *   Regulatory capital securities
         *   Credit ratings last item in this group
