@@ -96,7 +96,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Podcast: What is an ocean garbage patch? Weather Research Wildfire season in Southern Plains off to a strong start after a dry winter National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Education Count down to Citizen Science Day with NOAA Oceans &. Coasts Podcast: What is an ocean garbage patch? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had its coolest February since 2014 Sea ice coverage at the poles remains at record- and near-record lows AROUND NOAA // NOAA joins with PortMiami to let larger cargo ships safely enter seaport Featured photo: It’s lights out at the bottom of the world, for now Study: Climate change soon to be main cause of heat waves in West, Great Lakes
+Enter Search Terms NOAA joins with PortMiami to let larger cargo ships safely enter seaport New real-time current meters will provide vital navigation information AROUND NOAA // Count down to Citizen Science Day with NOAA Globe had its coolest February since 2014 Featured photo: It’s lights out at the bottom of the world, for now
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+PortMiami
