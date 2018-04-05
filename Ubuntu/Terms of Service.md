@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Git-to-k8s automation for on-prem container deployments ›
 *   Ubuntu Server development summary – 4 April 2018 ›
 *   LXD weekly status #41 ›
 *   Using cloud-init with Multipass ›
 *   Growing ONLYOFFICE through snaps and the Snap Store ›
-*   What can you do with Kubernetes? ›
