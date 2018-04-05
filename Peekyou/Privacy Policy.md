@@ -60,13 +60,7 @@ Pa Sang, Lamphun, Thailand
 ซุ้ม works at ธุระกิจส่วนตัว.  
 and studied at วิทยาลัยเทคนิคลำพูน.  
 
-Recently Added Privacy Policy, sammytown
-
-Provo, UT
-
-Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
-
-What is PeekScore? Public Records &. Background Checks 20%  20%  20%  20%  Arrest Records &. Driving Infractions
+Recently Added Public Records &. Background Checks 23%  23%  23%  23%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -107,7 +101,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 14% 
+Facebook 17% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -167,7 +161,7 @@ Facebook 14% 
     
 *   Show Less ...
 
-Twitter 14% 
+Twitter 17% 
 
 *   FDA Drug Information - FDA\_Drug\_Info
     
@@ -213,7 +207,7 @@ Twitter 14% 
     
 *   Show Less ...
 
-Instagram 14% 
+Instagram 17% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -277,7 +271,7 @@ Instagram 14% 
     
 *   Show Less ...
 
-Pinterest 20%  Wikipedia 14% 
+Pinterest 23%  Wikipedia 17% 
 
 *   P3P
     
@@ -288,7 +282,7 @@ Pinterest 20%  Wikipedia 14% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 14% 
+Google+ 17% 
 
 *   privacy policy - Google+ - Google Plus
     
@@ -303,7 +297,7 @@ Google+ 14% 
     Privacy Policy: Basically, all the features like massages, party and friends froze in place at roughly at 4 o' clock. At the time I didn't realise that these features were frozen and just waited. I found out about this when my YouTube started to act weird. I then decided too watch YouTube on my computer and while I was at it ...
     
 
-Linkedin 20%  Music 14% 
+Linkedin 22%  Music 17% 
 
 *   Pandora
     
@@ -349,7 +343,7 @@ Linkedin 20%  Music 14% 
     
 *   Show Less ...
 
-Photo Albums 14% 
+Photo Albums 17% 
 
 *   Flickriver
     
@@ -360,7 +354,7 @@ Photo Albums 14% 
     Flickr (pronounced "flicker") is an image-and video-hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on 20 March 2005 ...
     
 
-Myspace 14% 
+Myspace 17% 
 
 *   Privacy Policy - 49086242
     
@@ -384,7 +378,7 @@ Myspace 14% 
     
 *   Show Less ...
 
-Web Search 20%  Images 14% 
+Web Search 22%  Images 17% 
 
 9
 
