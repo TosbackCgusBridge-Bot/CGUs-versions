@@ -22,7 +22,7 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     Featured
     *   Cut 4
     *   Play Ball
-    *   Voices
+    *   Players of the Week
     *   Pipeline
     *   Awards
     *   Photo Stream
@@ -37,6 +37,7 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
     
     *   Watch MLB.TV
     *   Instant Replay
+    *   Players of the Week
     *   Statcast
     *   MLB Network
     *   Stadium
