@@ -1,4 +1,4 @@
-SUBSCRIBE NOW1st month FREE
+SUBSCRIBE NOW$19.99 for a year
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW1st month FREE
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowLawsuit against Veronica Escobar droppedLocalBeto O'Rourke responds to Cruz campaign jinglePoliticsComplaint seeks to stop EPISD bus hub at BowieEducationFormer FBI agent convicted in fraud caseCrimeTwo El Paso teens charged with capital murderCrimePerson comes forward in hit-and-run wreck SundayCrimeBeto O'Rourke raises $6.7 million this yearPoliticsCameras film gas station robbery near Cielo VistaCrimeTour gives taste of living in downtown El PasoNewsEPCC wants historic zone gone for former homeLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowBandidos trial details ambush of El Paso membersCrimeL&J Cafe leads Best Tex-Mex in Texas contestLocalMissing woman found safeCrimeLawsuit against Veronica Escobar droppedLocalBeto O'Rourke responds to Cruz campaign jinglePoliticsEl Paso High to undergo architectural surveyEducationStreetcar rolls through downtown Tues. morningLocalComplaint seeks to stop EPISD bus hub at BowieEducationFormer FBI agent convicted in fraud caseCrimeTwo El Paso teens charged with capital murderCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
