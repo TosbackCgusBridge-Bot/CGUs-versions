@@ -320,9 +320,7 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   72 HOUR SALE
-            
-        *   Monitor Deals
+    *   *   Monitor Deals
             
 *   Support
     *   Sales Enquiries
@@ -368,13 +366,16 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Built to perform. Engineered to endure.
+Ultralight. Ultrapowerful. Ultra-no-brainer.
 
-Now available!
+Shop ThinkPad X1 Carbon >.
 
-Boldly individual
+For those who set—not follow—trends.  
+With 8th Gen Intel® Core® i7 power in polished frames and premium audio-visuals.
 
-Shop Now >
+Shop 15">  
+Shop 14">  
+Shop 13">.
 
 Different Innovates Better
 
@@ -396,9 +397,9 @@ Lenovo Small Business
 
 Explore how Lenovo can be your small business partner.
 
-Convertible Flash Sale
+Flash Sale Live Now! 
 
-Save BIG on top of the line convertible laptops and accessories. Sale ends April 4.
+Save up to 38% off or up to $600 off. Limited Time Only! Sale Ends April 7
 
 TAB 4 10 PLUS ADDS IT ALL
 
