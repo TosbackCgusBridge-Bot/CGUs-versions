@@ -8,16 +8,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   BOSS
-    *   BOSS Women
-    *   Petit Pois
-    *   Schutz
-    *   Dress Forum
+    *   FENTY PUMA BY RIHANNA &. More
+    *   FENTY PUMA BY RIHANNA Active
+    *   Men's PUMA, PUMA x XO &. More
+    *   BLANKNYC Denim
+    *   Meghan LA
+    *   ZAC Zac Posen Up to 75% Off
+    *   Alexia Admor
+    *   14th &. Union Incl. Plus &. Petites
+    *   Perfect Fit: Rings in Sizes 4-12 from $20
+    *   Night Out: Chic Heeled Sandals
+    *   After Market Under $35
+    *   PUMA Kids
+    *   On the Go: Totes, Weekend Bags &. More
+    *   Soul Star
+    *   Teami Blends Detox Teas &. Supplements
+    *   Men's Swim ft. Mosmann Australia
+    *   Rouge Bunny Rouge Cosmetics Under $24
+    *   Korean Beauty: 0720
+    *   Free Shipping: Chic Beach Tents &. Towels
+    *   Free Shipping: Beach Towels from $10
+    *   Free Shipping: Art for Every Space Up to 65% Off
+    *   Mia Belle Girls
+    *   Sovereign Code Boys
+    *   Angie Girls
+    *   BLANKNYC Denim &. More
     *   Free Shipping: Mason Jar Candles &. More
-    *   Free Shipping: Art &. Decor from $12
     *   Quirky Home Accents Starting at $10
     *   Free Shipping: Pastel Glassware &. More from $10
+    *   Free Shipping: Mother's Day Gifts from $12
     *   Fairground Faves: Retro Appliances &. More
+    *   BOSS
+    
+    *   BOSS Women
+    *   Schutz
+    *   Dress Forum
+    *   Petit Pois
     *   Downtown Chic: Leather Bags
     *   Barefoot Dreams Sleep
     *   Ocean Drive Under $25
@@ -39,23 +65,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   AG
     *   AG Men
     *   AG Kids
-    *   Iren Klairie Dresses Up to 70% Off
-    *   Get Outside: Hiking Shoes ft. Merrell
-    *   BLVD Under $40
-    
-    *   MCM Sunglasses
     *   Josie Maran
-    *   La Moda Swim
-    *   Hobbs London
-    *   ALDO Starting at $25
     *   Best of Italy: Handbags
-    *   C&C California Sport
-    *   Lime &. Vine Up to 70% Off
-    *   Cocobelle Up to 60% Off
     *   Dana Rebecca Fine Jewelry
     *   Truly Clear Light Therapy at 80% Off
     *   Glow on the Go: bkr Water Bottles
     *   Aldo Men
+    
     *   Volcom Men
     *   Men's Outdoor Shoes ft. Merrell
     *   Beach Ready: Braven Waterproof Speakers &. More
@@ -63,63 +79,55 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Rugs for Every Room
     *   Boys' Dress Shoes ft. Deer Stags
     *   Snuggle Up: Leveret Pajamas &. More
-    *   Up, Up and Away: IT Luggage
     *   Jurlique Skin Care Starting at $10
     *   Skinn Cosmetics Up to 70% Off
     *   Heart and Home: Inspirational Signs &. More
     *   Free Shipping: Wall Art by PTM Images
-    *   Sovereign Code
-    *   John Varvatos Shoes Up to 60% Off
-    *   Thomas Dean &. More
-    *   Bread &. Boxers
-    *   Korean Beauty: Holika Holika
     *   Free Shipping: Modern Home Accents
     *   Kitchen Organization Must-Haves from $10
     *   Giftables by Orla Kiely from $10
     *   Free Shipping: Tommy Bahama Bedding
-    
     *   Free Shipping: Modern Rugs Up to 70% Off
     *   Free Shipping: Decor for the Pet Obsessed
-    *   Free Shipping: Fashion-Centric Art &. Decor
-    *   Kitchen Electrics &. More Starting at $15
-    *   Fun Tech Finds Starting at $10
-    *   Romeo &. Juliet Couture Up to 75% Off
     *   Luxe Skin Care Up to 90% Off
     *   Men's Shoes Up to 70% Off
-    *   Layering Necklaces &. Tassel Jewelry Up to 80% Off
-    *   14K Gold &. More Under $80
     *   Free Shipping: Melange Bedding from $12
-    *   Come Rain or Shine: Jackets Up to 70% Off
-    *   Women's Shoe Blowout
-    *   Our Favorite Knit Tops Under $20
     *   Kenneth Cole Reaction Men
     *   Royale USA Hair Tools Up to 90% Off
-    *   On-Trend Jewelry Starting at $15
     *   SmoothSkin Gold Hair Removal System
-    *   Coccoli Footies, PJs &. More
-    *   Belly Bandit
     *   Structured Style: Suits Under $250
-    *   Men's Spring Loafers Up to 70% Off
-    *   $30 &. Under: Skechers Kids
+    *   Iren Klairie Dresses Up to 70% Off
+    *   Lime &. Vine Up to 70% Off
+    *   On-Trend Jewelry Starting at $15
+    *   Belly Bandit
     *   Dress Shirts Under $30 ft. Construct
-    *   Must-Have Gear for Kids: Nikiani
-    *   Nixon Watches
-    *   Natural Stone Jewelry &. More Up to 65% Off
-    *   Joie &. CURRENT/ELLIOTT
-    *   Skechers Under $50
+    *   Men's Spring Loafers Up to 70% Off
     *   Free Shipping: Pop Art Pillows Under $18
-    *   Go Couture Dresses Up to 75% Off
-    *   CAMPER
 *   WomenShop Sale Events
     
+    *   FENTY PUMA BY RIHANNA &. More
+    *   FENTY PUMA BY RIHANNA Active
+    *   BLANKNYC Denim
+    *   Meghan LA
+    *   ZAC Zac Posen Up to 75% Off
+    *   Alexia Admor
+    *   14th &. Union Incl. Plus &. Petites
+    *   Perfect Fit: Rings in Sizes 4-12 from $20
+    *   Night Out: Chic Heeled Sandals
+    *   After Market Under $35
+    *   On the Go: Totes, Weekend Bags &. More
+    *   Teami Blends Detox Teas &. Supplements
+    *   Rouge Bunny Rouge Cosmetics Under $24
+    *   Korean Beauty: 0720
     *   BOSS Women
-    *   Petit Pois
     *   Schutz
     *   Dress Forum
+    *   Petit Pois
     *   Downtown Chic: Leather Bags
     *   Barefoot Dreams Sleep
     *   Ocean Drive Under $25
     *   Taryn Rose
+    
     *   Cape Robbin Starting at $15
     *   ViX Swim
     *   Cardi Party: Spring Sweaters &. Knits
@@ -129,75 +137,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   CLEAN Fragrance
     *   HUGO BOSS Watches Up to 50% Off
     *   AG
-    *   Iren Klairie Dresses Up to 70% Off
-    *   Get Outside: Hiking Shoes ft. Merrell
-    *   BLVD Under $40
-    *   MCM Sunglasses
     *   Josie Maran
-    *   La Moda Swim
-    *   Hobbs London
-    *   ALDO Starting at $25
     *   Best of Italy: Handbags
-    
-    *   C&C California Sport
-    *   Lime &. Vine Up to 70% Off
-    *   Cocobelle Up to 60% Off
     *   Dana Rebecca Fine Jewelry
     *   Truly Clear Light Therapy at 80% Off
     *   Glow on the Go: bkr Water Bottles
-    *   Up, Up and Away: IT Luggage
     *   Jurlique Skin Care Starting at $10
     *   Skinn Cosmetics Up to 70% Off
-    *   Korean Beauty: Holika Holika
-    *   Romeo &. Juliet Couture Up to 75% Off
     *   Luxe Skin Care Up to 90% Off
-    *   Layering Necklaces &. Tassel Jewelry Up to 80% Off
-    *   14K Gold &. More Under $80
-    *   Come Rain or Shine: Jackets Up to 70% Off
-    *   Women's Shoe Blowout
-    *   Our Favorite Knit Tops Under $20
     *   Royale USA Hair Tools Up to 90% Off
-    *   On-Trend Jewelry Starting at $15
     *   SmoothSkin Gold Hair Removal System
-    *   Nixon Watches
-    *   Natural Stone Jewelry &. More Up to 65% Off
-    *   Joie &. CURRENT/ELLIOTT
-    *   Skechers Under $50
-    *   Go Couture Dresses Up to 75% Off
-    *   CAMPER
+    *   Iren Klairie Dresses Up to 70% Off
+    *   Lime &. Vine Up to 70% Off
+    *   On-Trend Jewelry Starting at $15
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
-    *   Tech Accessories
     *   Lingerie
-    *   Accessories
-    *   Watches
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Men's PUMA, PUMA x XO &. More
+    *   Soul Star
+    *   Teami Blends Detox Teas &. Supplements
+    *   Men's Swim ft. Mosmann Australia
+    *   BLANKNYC Denim &. More
     *   BOSS
     *   Mezlan Shoes Up to 55% Off
     *   HUGO BOSS Watches Up to 50% Off
     *   PALLADIUM Sneakers &. Boots Up to 65% Off
     *   Jack Adams Underwear &. More
+    
     *   AG Men
     *   Aldo Men
     *   Volcom Men
     *   Men's Outdoor Shoes ft. Merrell
-    *   Up, Up and Away: IT Luggage
-    
-    *   Sovereign Code
-    *   John Varvatos Shoes Up to 60% Off
-    *   Thomas Dean &. More
-    *   Bread &. Boxers
     *   Men's Shoes Up to 70% Off
     *   Kenneth Cole Reaction Men
     *   Structured Style: Suits Under $250
-    *   Men's Spring Loafers Up to 70% Off
     *   Dress Shirts Under $30 ft. Construct
-    *   Nixon Watches
+    *   Men's Spring Loafers Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -206,50 +188,52 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   PUMA Kids
+    *   Mia Belle Girls
+    *   Sovereign Code Boys
+    *   Angie Girls
     *   Betsey Johnson Baby &. Girls
     *   Million Polkadots
+    
     *   Cool Kicks: Kids' Sneakers $20 &. Under
     *   AG Kids
     *   Boys' Dress Shoes ft. Deer Stags
     *   Snuggle Up: Leveret Pajamas &. More
-    *   Coccoli Footies, PJs &. More
     *   Belly Bandit
-    *   $30 &. Under: Skechers Kids
-    *   Must-Have Gear for Kids: Nikiani
     
     Shop By Category
-    *   Baby Boy
-    *   Baby Girl
     *   Girls Sizes 2T-6X
-    *   Boys' Shoes
-    *   Boys Sizes 2T-7
-    *   Baby Gear &. Essentials
     *   Girls Sizes 7-16
+    *   Boys Sizes 2T-7
+    *   Boys' Shoes
     *   Girls' Shoes
+    *   Baby Girl
+    *   Baby Boy
     *   Boys Sizes 8-20
+    *   Baby Gear &. Essentials
     *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Free Shipping: Chic Beach Tents &. Towels
+    *   Free Shipping: Beach Towels from $10
+    *   Free Shipping: Art for Every Space Up to 65% Off
     *   Free Shipping: Mason Jar Candles &. More
-    *   Free Shipping: Art &. Decor from $12
     *   Quirky Home Accents Starting at $10
     *   Free Shipping: Pastel Glassware &. More from $10
+    *   Free Shipping: Mother's Day Gifts from $12
     *   Fairground Faves: Retro Appliances &. More
     *   Beach Ready: Braven Waterproof Speakers &. More
     *   Free Shipping: Luxe Bedding &. More from $15
     *   Free Shipping: Rugs for Every Room
+    
     *   Heart and Home: Inspirational Signs &. More
     *   Free Shipping: Wall Art by PTM Images
     *   Free Shipping: Modern Home Accents
-    
     *   Kitchen Organization Must-Haves from $10
     *   Giftables by Orla Kiely from $10
     *   Free Shipping: Tommy Bahama Bedding
     *   Free Shipping: Modern Rugs Up to 70% Off
     *   Free Shipping: Decor for the Pet Obsessed
-    *   Free Shipping: Fashion-Centric Art &. Decor
-    *   Kitchen Electrics &. More Starting at $15
-    *   Fun Tech Finds Starting at $10
     *   Free Shipping: Melange Bedding from $12
     *   Free Shipping: Pop Art Pillows Under $18
     
@@ -257,32 +241,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Luggage &. Travel
-    *   Outdoor Living
     *   Bath
+    *   Outdoor Living
     *   Organization
     *   Rugs
+    *   Luggage &. Travel
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Teami Blends Detox Teas &. Supplements
+    *   Rouge Bunny Rouge Cosmetics Under $24
+    *   Korean Beauty: 0720
     *   NuFACE Facial Toning Device
     *   vbeaute Skincare
     *   CLEAN Fragrance
     *   Josie Maran
+    
     *   Truly Clear Light Therapy at 80% Off
     *   Glow on the Go: bkr Water Bottles
-    
     *   Jurlique Skin Care Starting at $10
     *   Skinn Cosmetics Up to 70% Off
-    *   Korean Beauty: Holika Holika
     *   Luxe Skin Care Up to 90% Off
     *   Royale USA Hair Tools Up to 90% Off
     *   SmoothSkin Gold Hair Removal System
     
     Shop By Category
     *   Skin Care
-    *   Hair Care
     *   Makeup
+    *   Hair Care
+    *   Supplements
     *   Bath &. Body
     *   Tools &. Accessories
     *   Fragrance
