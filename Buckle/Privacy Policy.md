@@ -250,7 +250,7 @@ The temps are rising and we’ve got that festival fever - Shop Now.
         *   Fresh Florals
         *   Spring Soles
         *   Bright Whites
-        *   Mellow Yellow
+        *   Wide Leg
         *   (Swim) Suit Up
         *   Denim Skirts
         
@@ -451,7 +451,6 @@ Promotions
 
 Sweepstakes Official Rules/Winners
 
-*   Brand Event Official Rules
 *   Social Give Away Official Rules
 *   Sweepstakes Winners
 
