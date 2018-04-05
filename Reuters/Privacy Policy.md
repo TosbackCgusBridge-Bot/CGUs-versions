@@ -185,4 +185,6 @@ Hate Dislike Neutral Like Love Select an element on the page.
 
 Enter your email address if you would like to receive a follow up.
 
-Skip Send Select an element on the page. <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=6540&amp;fmt=gif">.
+Thank you for sharing your feedback with us!
+
+Associating your feedback with data related to your visit can help us improve faster. Do you give us consent to do so for prior and future visits? Skip Send Select an element on the page. <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=6540&amp;fmt=gif">.
