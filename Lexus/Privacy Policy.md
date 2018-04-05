@@ -247,25 +247,25 @@ COMPARE **RC F**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **LF-C2**
-
-*   CONCEPT CONVERTIBLE
-
-**LF-SA**
-
-*   CONCEPT VEHICLE
-
-**LF-FC**
-
-*   Concept Vehicle
-
-**UX**
+COMPARE **UX**
 
 *   Future Vehicle
 
 **LF-1 LIMITLESS**
 
 *   Concept Vehicle
+
+**LF-FC**
+
+*   Concept Vehicle
+
+**LF-SA**
+
+*   CONCEPT VEHICLE
+
+**LF-C2**
+
+*   CONCEPT CONVERTIBLE
 
 *   sedans
     
