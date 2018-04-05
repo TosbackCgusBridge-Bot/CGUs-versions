@@ -74,9 +74,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Exclusive: Joaquin Phoenix Says Playing the Joker Could Be "Interesting" Read More
-    *   Universal to Adapt 'Armada' From 'Ready Player One' Author Ernest Cline Read More
-    *   'Creed II' Begins Filming: What We Know So Far Read More
+    *   News Briefs: Adam Sandler, Kevin Hart, Tiffany Haddish, Hugh Laurie and More Read More
+    *   'Rogue One' Screenwriter Gary Whitta Is Working on a 'Last Starfighter' Reboot Read More
+    *   Watch the New 'Night School' Trailer! Read More
     
     Explore Content
     *   Movie Reviews
