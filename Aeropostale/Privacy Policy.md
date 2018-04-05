@@ -285,17 +285,17 @@ Close submenu ( Guys ) Guys
 *   Wash Effects
 *   Good Sport
 *   Shorts for Sure
-*   New Blues
 *   Spring Break Bag
-*   Tanks + Swim
 *   At Ease
+*   New Blues
+*   Tanks + Swim
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
-*   Get Fit in Florals
 *   Splash Into Spring
 *   Lots of Lace
+*   Get Fit in Florals
 *   Sleep
 
 Close submenu ( Clearance ) Clearance
@@ -579,17 +579,17 @@ Menu Find a Store Aeropostale
         *   Wash Effects
         *   Good Sport
         *   Shorts for Sure
-        *   New Blues
         *   Spring Break Bag
-        *   Tanks + Swim
         *   At Ease
+        *   New Blues
+        *   Tanks + Swim
         
     
     *   Live Love Dream
         *   View All
-        *   Get Fit in Florals
         *   Splash Into Spring
         *   Lots of Lace
+        *   Get Fit in Florals
         *   Sleep
     
 *   Clearance
