@@ -135,23 +135,23 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+.@adexchanger #PROGIO San Fran is next week! Don't miss @Requidan talk about the importance of Demand Path Optimization on 4/10 at 1:30PM. See you there! pic.twitter.com/rTFv…
+
+About 16 hours ago
+
 My week on Twitter : 6 Mentions, 54.4K Mention Reach, 4 Likes, 1 Retweet, 11 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Hfr1…
 
-About 5 hours ago
+Yesterday
 
 Our biggest fans this week: @proprie8. Thank you! via sumall.com/thankyou?… pic.twitter.com/7qyI…
 
-About 16 hours ago
+About 2 days ago
 
 "The market’s actions show that programmatic is not only here to stay, it’s quickly becoming the underpinning of the digital advertising industry." Our VP of Programmatic Strategy, @Requidan, talks about the reality of #programmatic via @adexchanger bit.ly/2J1yXQL
 
 Last week
 
 My week on Twitter : 2 Mentions, 6 Likes, 5 Retweets, 1.61K Retweet Reach, 10 New Followers. See yours with sumall.com/performan… pic.twitter.com/KEHN…
-
-Last week
-
-Our biggest fans this week: @Requidan, @Nicole\_Kosar, @Cassin75. Thank you! via sumall.com/thankyou?… pic.twitter.com/xTEN…
 
 Last week
 
