@@ -232,7 +232,7 @@ View more results
     
     Recommended Games
     
-    *   Farm Days
+    *   Star Stable
     *   World of Warships
     *   World of Tanks
     *   Madalin Stunt Cars 2
