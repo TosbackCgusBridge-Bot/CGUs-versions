@@ -74,9 +74,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   News Briefs: Adam Sandler, Kevin Hart, Tiffany Haddish, Hugh Laurie and More Read More
-    *   'Rogue One' Screenwriter Gary Whitta Is Working on a 'Last Starfighter' Reboot Read More
-    *   Watch the New 'Night School' Trailer! Read More
+    *   'Red Sonja' Will Finally Return to Life on the Big Screen Read More
+    *   Steven Spielberg's Adaptation of Stephen King's 'The Talisman' Will Happen "In the Very Near Future" Read More
+    *   Check Out the 'Night School' Set Visit! Read More
     
     Explore Content
     *   Movie Reviews
