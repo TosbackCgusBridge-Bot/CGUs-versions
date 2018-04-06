@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Michael Chugani_: Savvy Trump Outplaying China on Trade, N. Korea on Nukes
+*   _Charles Blow_: Trump, Driven by Fear
     
-*   _Frank Bruni_: President Trump's Perversion of Leadership
+*   _James Delingpole_: Pruitt Is the Greatest-Ever Administrator of the EPA
     
-*   _Michael Graham_: Democrats Roll Out Welcome Mat for Caravan
+*   _Emily Atkin_: Have Republicans Won Their War on Science?
     
-*   _Gustavo Arellano_: Trump's Dumb Plan to Confront the Migrant Caravan
+*   _Karl Rove_: The Pitchforks Are Out for McKinley
     
-*   _Lt. Col. Daniel L. Davis_: President Trump Is Right About Syria Withdrawal
+*   _Vann Newkirk_: The Whitewashing of King's Assassination
     
-*   _Carl Cannon_: Cyber-Espionage Is Shifting World Power Dynamics
+*   _Lance Morrow_: King Was a Gift of Grace to the United States
     
-*   _Danny Westneat_: Trump Is Bashing Amazon for the Wrong Reasons
+*   _Conrad Black_: Prediction: Big Trump Success in Korea and in the Midterms
     
-*   _Jonathan Turley_: When Will Media Accept Trump Is Not a Criminal Target?
+*   _Julian Zelizer_: Trump Just Put Himself in a Political Red Zone
     
-*   _Jay Michaelson_: Scott Pruitt Is Too Crooked to Fail
+*   _Patrick Maines_: Big Tech Needs to Fix Image Problem With Conservatives
     
-*   _Julie Kelly_: When the EPA Was Really Corrupt
+*   _Melissa Jeltsen_: Everyone Got the Pulse Massacre Story Completely Wrong
     
-*   _Leonard Pitts_: 50 Yrs After His Murder, It's Time to Kill the Myth of MLK
+*   _Matt Valliere_: Hawaii's Ill-Chosen Legalization of Assisted Suicide
     
-*   _Gary Abernathy_: I Don't Care if 'Roseanne' Is Pro-Trump, I Hope It's Pro-Civility
+*   _David Harsanyi_: Democrats, Get Set to Lose Your 'Collusion' Delusions
     
-*   _Jesse Jackson_: How Dr. King Lived Is Why He Died
+*   _Bill Scher_: Building the Legal Case for an Indictment of Trump
     
-*   _Jason Riley_: Martin Luther King: 'We Can't Keep On Blaming the White Man'
+*   _Victor Davis Hanson_: Trump Is Cutting Old Gordian Knots
     
-*   _Tyler Cowen_: Two American Power Centers Are About to Clash
+*   _Thomas Edsall_: How Donald Trump Created an Authoritarian Moment
     
-*   _Matt Lewis_: Trump Has a Point About Amazon
+*   _Mollie Hemingway_: Pruitt Is Effective. That's Why Liberals Want Him Gone
     
-*   _Matt Taibbi_: Can We Be Saved From Facebook?
+*   _James Arkin_: Dems Aim to Flip the Script on Giant-Killer Brat in Va.
     
-*   _Byron York_: The Trump-Russia Probe and the Rule of Law
+*   _Mitch Smith_: Minnesota Mining Country Warms to Tariffs, Republicans
     
-*   _Jonathan Chait_: Corruption, Not Russia, Is Trump's Greatest Liability
+*   _Charles Gasparino_: From Rout to Rally: Markets Write Off Trade War Talk
     
-*   _Matthew Walther_: Why Trump Is More Popular Than Ever
+*   _Ryan Cooper_: Trump's Predictably Ruinous Strategy in the Trade War
     
-*   _Ben Caspit_: Israel's Gaza Nightmare
+*   _Ned Ryun_: Trump Won the Schumer Shutdown--Time to Do It Again
     
-*   _Benny Avni_: Time for MBS to Pull a Sadat
+*   _Pritzker &. Gutierrez_: U.S. Census Is Not About Citizenship
     
-*   _Heather Hurlburt_: Mattis' Impossible Job Just Got Even Harder
+*   _Jeff Greenfield_: Liberals' Year of Magical Thinking
     
-*   _Clifford May_: Give Anti-Globalism a Chance
+*   _Esenberg &. Petersen_: Wis. Judicial Election: Signaling a Blue Wave This Fall?
     
 
 *   Previous
@@ -254,11 +254,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Signs Proclamation Directing Troops to Secure Border
+*   Dems Aim to Flip the Script on Giant-Killer Brat in Va.
+*   Carlson, Ramos Debate Migrant "Caravan," Working With Mexico
 *   Facing Heat at Home, Republican Leaders May Rescind Some Spending
-*   Trump Says He Will Put U.S. Military on Southern Border
-*   On Syria, Trump Says It Is Time to Get Out, Bring Troops Home
 *   How Cyber-Espionage Is Shifting World Power Dynamics
-*   Dems Boost "Conor Lamb Clone" in Illinois Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -273,26 +273,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Tennessee Senate - Blackburn vs. BredesenMiddle Tn. State Univ.
+    *   Bredesen45
+    *   Blackburn35Bredesen +10
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve51
-    *   Disapprove48Approve +3
+    *   Approve47
+    *   Disapprove51Disapprove +4
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve41
     *   Disapprove56Disapprove +15
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve41
     *   Disapprove55Disapprove +14
-*   2018 Generic Congressional VoteEconomist/YouGov
-    *   Democrats43
-    *   Republicans36Democrats +7
 
 More Latest Polls In The News
 
+*   H.R. McMaster Warns Of Russian "Subversion And Espionage" In Final Public Remarks As Trump Adviser
+*   Ed Henry Grills EPA Chief Pruitt For Renting Apartment From Lobbyist, Giving Raises To Top Aides
+*   Dershowitz Warns Trump: You Can Be Indicted For Perjury Even If You Tell Mueller The Truth
 *   Turley: "Nothing Has Changed" Since Comey Told Trump He Is Not A Target Over A Year Ago
 *   Tucker Carlson and Jorge Ramos Debate: Immigrant "Caravan," Working With Mexican Government
-*   Trump: "Time" To Get Out Of Syria. "I Want To Bring Our Troops Home, I Want To Start Rebuilding Our Nation"
-*   Friedman: Obama, Bush Need To Come Together And Use "Credibility" To Stop Trump Constitutional Crisis
-*   Coulter On "Obscenity-Laced" Oval Office Shouting Match With Trump: "Total Betrayal" On The Wall
 
 *   Politics
 *   Policy
