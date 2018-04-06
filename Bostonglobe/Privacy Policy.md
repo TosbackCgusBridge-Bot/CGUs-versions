@@ -1,4 +1,4 @@
-Close Notification Search The Boston Globe Privacy policy
+Privacy policy
 
 This policy was last updated on **Aug. 1, 2015**.
 
