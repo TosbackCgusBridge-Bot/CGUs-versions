@@ -38,7 +38,9 @@ Close submenu ( Featured ) Featured
 *   New Arrivals
 *   Sabrina's Picks
 *   T-Shirt Riot
-*   Create Your Suit for $22
+*   6 for $18 Undies
+*   2 for $8 Undies
+*   Create Your Suit for $20
 *   Spring Break
 *   Festival Vibes
 *   Denim Guide
@@ -54,10 +56,10 @@ Close submenu ( Tops ) Tops
 *   View All
 *   Tees
 *   Graphic Tees
-*   Long Sleeve
 *   Camis + Tanks
-*   Fashion Tops
 *   Polos
+*   Fashion Tops
+*   Long Sleeve
 *   Shirts
 *   Hoodies + Sweatshirts
 *   Sweaters
@@ -68,10 +70,10 @@ Close submenu ( Bottoms ) Bottoms
 *   View All
 *   Jeans
 *   Jeggings
+*   Shorts
 *   Leggings + Active
 *   Joggers + Lounge
 *   Pants
-*   Shorts
 
 Close submenu ( Guys ) Guys
 
@@ -108,20 +110,20 @@ Close submenu ( Tops ) Tops
 *   View All
 *   Tees
 *   Graphic Tees
-*   Long Sleeve
 *   Polos
+*   Tanks
 *   Shirts
+*   Long Sleeve
 *   Hoodies + Sweatshirts
 *   Sweaters
-*   Tanks
 
 Close submenu ( Bottoms ) Bottoms
 
 *   View All
 *   Jeans
-*   Joggers + Sweats
-*   Pants
 *   Shorts
+*   Pants
+*   Joggers + Sweats
 
 Close submenu ( Jeans ) Jeans
 
@@ -172,7 +174,7 @@ Close submenu ( Swim ) Swim
 Close submenu ( Girls Featured ) Girls Featured
 
 *   View All
-*   Create Your Suit for $22
+*   Create Your Suit for $20
 *   Little Black Bikini
 *   Swim Sets
 
@@ -219,8 +221,8 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-*   Sleep
 
+*   Sleep
 *   Bras
 *   Undies
 *   Swim
@@ -230,7 +232,9 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Featured ) Featured
 
 *   View All
-*   Create Your Suit for $22
+*   6 for $18 Undies
+*   2 for $8 Undies
+*   Create Your Suit for $20
 *   Active
 *   Lounge
 *   Sleep
@@ -267,6 +271,7 @@ Close submenu ( Trending ) Trending
 Close submenu ( Girls ) Girls
 
 *   View All
+*   Shorts for Sure
 *   In Stitches
 *   Cold Shoulder Tops
 *   Tied + Dyed
@@ -275,28 +280,27 @@ Close submenu ( Girls ) Girls
 *   Perfectly Preppy
 *   Cut It Out
 *   Full Bloom
+*   Island Dreaming
+*   Give It An Edge
+*   Jumpsuits + Rompers
 
 Close submenu ( Guys ) Guys
 
 *   View All
 *   Island Dreaming
 *   Denim Shorts
-*   Print A Palooza
-*   Wash Effects
 *   Good Sport
 *   Shorts for Sure
 *   Spring Break Bag
 *   At Ease
 *   New Blues
-*   Tanks + Swim
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View All
-*   Splash Into Spring
+*   Splash Into Summer
 *   Lots of Lace
 *   Get Fit in Florals
-*   Sleep
 
 Close submenu ( Clearance ) Clearance
 
@@ -367,7 +371,9 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Sabrina's Picks
         *   T-Shirt Riot
-        *   Create Your Suit for $22
+        *   6 for $18 Undies
+        *   2 for $8 Undies
+        *   Create Your Suit for $20
         *   Spring Break
         *   Festival Vibes
         *   Denim Guide
@@ -382,10 +388,10 @@ Menu Find a Store Aeropostale
         *   View All
         *   Tees
         *   Graphic Tees
-        *   Long Sleeve
         *   Camis + Tanks
-        *   Fashion Tops
         *   Polos
+        *   Fashion Tops
+        *   Long Sleeve
         *   Shirts
         *   Hoodies + Sweatshirts
         *   Sweaters
@@ -395,10 +401,10 @@ Menu Find a Store Aeropostale
         *   View All
         *   Jeans
         *   Jeggings
+        *   Shorts
         *   Leggings + Active
         *   Joggers + Lounge
         *   Pants
-        *   Shorts
         
     *   Swim
     *   Dresses + Rompers
@@ -433,20 +439,20 @@ Menu Find a Store Aeropostale
         *   View All
         *   Tees
         *   Graphic Tees
-        *   Long Sleeve
         *   Polos
+        *   Tanks
         *   Shirts
+        *   Long Sleeve
         *   Hoodies + Sweatshirts
         *   Sweaters
-        *   Tanks
         
     
     *   Bottoms
         *   View All
         *   Jeans
-        *   Joggers + Sweats
-        *   Pants
         *   Shorts
+        *   Pants
+        *   Joggers + Sweats
         
     *   Jackets + Vests
     *   Accessories
@@ -486,7 +492,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Featured
         *   View All
-        *   Create Your Suit for $22
+        *   Create Your Suit for $20
         *   Little Black Bikini
         *   Swim Sets
     
@@ -526,7 +532,9 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   Create Your Suit for $22
+        *   6 for $18 Undies
+        *   2 for $8 Undies
+        *   Create Your Suit for $20
         *   Active
         *   Lounge
         *   Sleep
@@ -549,8 +557,8 @@ Menu Find a Store Aeropostale
         *   Bootcut
         *   Shorts
         *   Sleep Bottoms
-    *   Sleep
     
+    *   Sleep
     *   Bras
     *   Undies
     *   Swim
@@ -562,6 +570,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls
         *   View All
+        *   Shorts for Sure
         *   In Stitches
         *   Cold Shoulder Tops
         *   Tied + Dyed
@@ -570,27 +579,26 @@ Menu Find a Store Aeropostale
         *   Perfectly Preppy
         *   Cut It Out
         *   Full Bloom
+        *   Island Dreaming
+        *   Give It An Edge
+        *   Jumpsuits + Rompers
     
     *   Guys
         *   View All
         *   Island Dreaming
         *   Denim Shorts
-        *   Print A Palooza
-        *   Wash Effects
         *   Good Sport
         *   Shorts for Sure
         *   Spring Break Bag
         *   At Ease
         *   New Blues
-        *   Tanks + Swim
         
     
     *   Live Love Dream
         *   View All
-        *   Splash Into Spring
+        *   Splash Into Summer
         *   Lots of Lace
         *   Get Fit in Florals
-        *   Sleep
     
 *   Clearance
     
