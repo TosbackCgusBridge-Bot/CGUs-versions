@@ -137,15 +137,15 @@ LATEST ON TWITTER
 
 .@adexchanger #PROGIO San Fran is next week! Don't miss @Requidan talk about the importance of Demand Path Optimization on 4/10 at 1:30PM. See you there! pic.twitter.com/rTFv…
 
-About 16 hours ago
+About 2 days ago
 
 My week on Twitter : 6 Mentions, 54.4K Mention Reach, 4 Likes, 1 Retweet, 11 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Hfr1…
 
-Yesterday
+About 2 days ago
 
 Our biggest fans this week: @proprie8. Thank you! via sumall.com/thankyou?… pic.twitter.com/7qyI…
 
-About 2 days ago
+About 3 days ago
 
 "The market’s actions show that programmatic is not only here to stay, it’s quickly becoming the underpinning of the digital advertising industry." Our VP of Programmatic Strategy, @Requidan, talks about the reality of #programmatic via @adexchanger bit.ly/2J1yXQL
 
