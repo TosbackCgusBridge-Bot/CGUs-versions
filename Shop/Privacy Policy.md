@@ -399,7 +399,7 @@ Explore how Lenovo can be your small business partner.
 
 Flash Sale Live Now! 
 
-Save up to 38% off or up to $600 off. Limited Time Only! Sale Ends April 7
+Save up to 40% off or up to $650 off. Limited Time Only! Sale Ends April 11
 
 TAB 4 10 PLUS ADDS IT ALL
 
