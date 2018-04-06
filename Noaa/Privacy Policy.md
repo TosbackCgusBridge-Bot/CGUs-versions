@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Educati
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA joins with PortMiami to let larger cargo ships safely enter seaport New real-time current meters will provide vital navigation information AROUND NOAA // Count down to Citizen Science Day with NOAA Globe had its coolest February since 2014 Featured photo: It’s lights out at the bottom of the world, for now
+Enter Search Terms NOAA joins with PortMiami to let larger cargo ships safely enter seaport New real-time current meters will provide vital navigation information AROUND NOAA // Featured photo: It's 'Rise and shine!' at the top of the world Count down to Citizen Science Day with NOAA What are atmospheric rivers? Globe had its coolest February since 2014
 
 *   About our agency
 *   News and features
