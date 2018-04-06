@@ -56,15 +56,15 @@ Third parties may receive information about you as follows:
 
 4\. Controlling Your Personal Data
 
-Other users may be able to identify you, or associate you with your account, if you include personal information in the content you post publicly. You can reduce the risk of being personally identified by using the Service pseudonymously, though doing so could detract from the credibility of your contributions to the Service. Users can also use the Find Friends feature to find one another based on their names or email addresses. You can adjust the settings for this feature here.
+Other users may be able to identify you, or associate you with your account, if you include personal information in the content you post publicly. You can reduce the risk of being personally identified by using the Service pseudonymously, though doing so could detract from the credibility of your contributions to the Service. Users can also use the Find Friends feature to find one another based on their names or email addresses. You can adjust the settings for this feature here
+
+srercqxx.
 
 Please also note that the messages you send or receive using the Service are only private to the extent that both you and the person you are communicating with keep them private. For example, if you send a message to another user, that user may choose to publicly post it. Also, Yelp may access and disclose such messages in the course of investigations relating to use of the Service.
 
 5\. Data Retention and Account Termination
 
-You can close your account by clicking here
-
-aubvbdzauexqytvuwe. We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations. Please note that businesses cannot remove their business listings, ratings, or reviews by closing their accounts.
+You can close your account by clicking here. We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations. Please note that businesses cannot remove their business listings, ratings, or reviews by closing their accounts.
 
 6\. Children
 
