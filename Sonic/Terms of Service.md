@@ -1,4 +1,4 @@
-From SonicWiki Jump to: navigation, search Contents
+From SonicWiki Jump to: navigation, search Contents \[hide\] 
 
 *   1 Sonic.net Policies
     *   1.1 Sonic.net, Inc. General Policy
@@ -170,7 +170,7 @@ Legal Process Policy
 
 Regulatory
 
-CA Tariff - Local Exchange Services
+CA Price Guide - Local Exchange Services
 
 CA Access Services Tariff – Intrastate
 
@@ -239,4 +239,4 @@ S
 *   Software Disclaimer
 *   Sonic Wire Plan
 
-Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=6473"
+Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=6485"
