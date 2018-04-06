@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Cloud-init v.18.2: CLI subcommands ›
+*   The Nextcloud Box: a review of building an IoT device with snaps ›
 *   Git-to-k8s automation for on-prem container deployments ›
 *   Ubuntu Server development summary – 4 April 2018 ›
 *   LXD weekly status #41 ›
-*   Using cloud-init with Multipass ›
-*   Growing ONLYOFFICE through snaps and the Snap Store ›
