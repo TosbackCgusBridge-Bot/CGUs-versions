@@ -2,29 +2,35 @@ Turn on more accessible mode Turn off more accessible mode
 
 Skip to main content
 
-*   Order Now
-*   My Services
-    My Services Check Email Pay Bill  
-    Internet Tools TV Everywhere  
-    Phone Tools Channel Lineup Local Info
+*   *   Internet
+    *   TV
+    *   Phone
+    *   Packages
+    *   Get Support
+    *   Business
+    *   Order Now
+
 *   Get Support
 *   Business
-*   × Please enter your Zip Code Locations
+*   Location × Please enter your Zip Code Locations Channel Line Up Local Information
     
     To display accurate prices and offers in your area, we need to know your service area. Please enter your zipcode:
     
     Change Location:
     
 *   Search Search Search Type Residential Business Support
-*   Menu
-    Order Now Get Support Business
-    
-    For accurate product information enter your zip code
-    
-    (click the icon above)
-    
-    Channel Line Up Local Information Check Email Pay Bill Phone Tools Internet Tools Product and pricing below are for Fargo, ND (58104) Channel Line Up Local Information Internet TV  
-    Packages Phone Check Email Pay Bill Phone Tools Internet Tools
+*   My Services
+    My Services Check Email Pay Bill  
+    Internet Tools TV Everywhere  
+    Phone Tools Channel Lineup Local Info
+
+Skip to main content
+
+*   Order Now
+*   Internet
+*   TV
+*   Phone
+*   Packages
 
 Terms and Conditions Terms and Conditions
 
