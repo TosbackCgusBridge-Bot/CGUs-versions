@@ -242,30 +242,27 @@ The temps are rising and we’ve got that festival fever - Shop Now.
         
         *   Women's Trends
         
-        *   Levi's
-        *   grehy
-        *   birdiebee
-        *   Dibs
+        *   90's Are Forever
+        *   Statement Sleeves
+        *   Wide Leg
+        *   Bright Whites
+        *   Mules
+        *   Embellished
         *   Simple Stripes
         *   Fresh Florals
-        *   Spring Soles
-        *   Bright Whites
-        *   Wide Leg
-        *   (Swim) Suit Up
         *   Denim Skirts
         
         *   Men's Trends
         
-        *   Barbershop
         *   Calvin Klein
-        *   Dibs
+        *   Island Prints
         *   Hybrid Shorts
+        *   Dibs
+        *   Fun Tees
         *   Dye Hard
-        *   Oakley Eyewear
         *   Salt Life
         *   Band Tees
-        *   Champion
-        *   Island Prints
+        *   Show Your Socks
         
         *   Looks
         
@@ -279,6 +276,7 @@ The temps are rising and we’ve got that festival fever - Shop Now.
         *   Gift Guide
         
         *   Genuine Leather Bags
+        *   Barbershop
         *   Men's Gifts
         *   Women's Gifts
         *   Gifts That Give Back
@@ -617,4 +615,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailQuick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailQuick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
