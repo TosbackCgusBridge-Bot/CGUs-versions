@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 22 Gorgeous Royal Wedding Tiara Moments 2 The Best Places To Go in May 3 The Best Celebrity Engagement Rings 4 _The Weekly Covet_: Morning Routine 5 T&C Horoscopes: April 1-15 Privacy Policy Dec 1, 2014
+Today's Top Stories 1 How Cindy Crawford Became a Model Matriarch 2 22 Gorgeous Royal Wedding Tiara Moments 3 Ali Wentworth On Life With George Stephanopoulos 4 The Best Places To Go in May 5 _The Weekly Covet_: On-Trend Timepieces Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
