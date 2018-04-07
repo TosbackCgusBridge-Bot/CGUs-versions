@@ -13,7 +13,7 @@ Find JobsCompany ReviewsFind SalariesFind ResumesEmployers / Post Job Upload you
 
 Cookie Policy
 
-Last Updated: March 6 , 2018
+Last Updated: March 6, 2018
 
 By using or accessing Indeed’s websites (“Site”), you are consenting to Indeed’s use of Cookies as outlined below. All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
@@ -563,7 +563,7 @@ These IPP Terms and any dispute arising out of or in connection with these IPP T
 
 E. Indeed Prime Terms
 
-Last Updated: March 29, 2018
+Last Updated: April 6, 2018
 
 These Indeed Prime Terms (“IP Terms”) form a part of, and are incorporated into, the Indeed Terms of Service (the “Agreement”). By using Indeed Prime in any way, or by registering as a Candidate or an Employer on Indeed Prime, you agree to these Indeed Prime Terms and the Indeed Terms of Service.
 
@@ -615,11 +615,11 @@ Indeed Prime is free for Candidates.
 
 Employers:                                                  
 
-Indeed Prime uses a subscription model (“Subscription Model”) with its Employers, as of January 1, 2017. The Subscription model offers two pricing plans (Essential and Enterprise), depending on the size of the Employer and the number of job positions open. The determination of which pricing plan an Employer falls into within the Subscription Model is made at Indeed’s sole discretion. Even if you start in one Subscription Model pricing plan, Indeed may determine in its sole discretion that you are only eligible for the other Subscription Model pricing plan.
+Indeed Prime uses a subscription model (“Subscription Model”) with its Employers, as of January 1, 2017. The Subscription model offers three pricing plans (Basic, Essential and Enterprise) offering varying features. The determination of which pricing plan an Employer falls into within the Subscription Model is made at Indeed’s sole discretion. Even if you start in one Subscription Model pricing plan, Indeed may determine in its sole discretion that you are only eligible for the other Subscription Model pricing plan.
 
 Subscription Model:
 
-1.  Under the Subscription Model, Employers agree to pay upfront an initial subscription fee for a period of time specified in any Indeed insertion order or online pricing page (each subscription period to be referred to as a “Term”). Taxes will be charged as applicable.
+1.  Under the Subscription Model, Employers agree to pay upfront an initial subscription fee for a period of time specified in any Indeed insertion order or online pricing page (each subscription period to be referred to as a “Term”), if applicable. Taxes will be charged as applicable.
 2.  Unlimited hires may be made during any Term for the fee indicated on the Indeed insertion order or the price indicated on the Indeed Prime online pricing page.
 3.  All plans under the Subscription Model shall automatically renew for additional Terms. If you wish to cancel your Subscription, you must do so no later than 15 days prior to the end of any Term. No refunds will be given for payment made during any Term.
 4.  Under the Subscription Model, payment is due upon receipt of an insertion order or confirmation email, confirming your purchase, unless agreed upon otherwise with your Prime Client Executive or Client Consultant.
@@ -735,4 +735,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Job Category Trends - Career Advice - Hiring Lab - Browse Jobs - Tools - API - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="http://b.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cacnct15avgq8vo&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Job Category Trends - Career Advice - Hiring Lab - Browse Jobs - Tools - API - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="http://b.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cafa332aaf53aj2&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
