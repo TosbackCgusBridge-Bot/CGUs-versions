@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Educati
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA joins with PortMiami to let larger cargo ships safely enter seaport New real-time current meters will provide vital navigation information AROUND NOAA // Featured photo: It's 'Rise and shine!' at the top of the world Count down to Citizen Science Day with NOAA What are atmospheric rivers? Globe had its coolest February since 2014
+Enter Search Terms U.S. hit with 3 billion-dollar disasters in first 3 months of 2018 March was cold and snowy in much of the East, warm in the south-central U.S. AROUND NOAA // What are atmospheric rivers? Featured photo: It's 'Rise and shine!' at the top of the world Count down to Citizen Science Day with NOAA NOAA joins with PortMiami to let larger cargo ships safely enter seaport
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-PortMiami
+Courtesy of Eric Druxman
