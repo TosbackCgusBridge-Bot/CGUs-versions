@@ -235,7 +235,7 @@ Attn: Legal Department-DMCA
 Weston, Massachusetts 02493  
 USA
 
-Need help with a job seeker issue? Contact us now.
+Need help with a job seeker issue? Contact Us
 
 7\. Policy Regarding Termination Of Users Who Infringe The Copyright Or Other Intellectual Property Rights Of Others.
 
