@@ -1,4 +1,4 @@
-close dialog5 DAYsale$1999 for a YearSubscribe Todayclose dialogSUBSCRIBE NOW$19.99 for a year
+SUBSCRIBE NOW$19.99 for a year
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog5 DAYsale$1999 for a YearSubscribe Todayclose dialogSUBSCRIBE NOW$19
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowByrd asks Texas AG to release Cabrera grievanceEducationBandidos trial details ambush of El Paso membersCrimeSunland Park Mall gains Starr, loses Forever 21BusinessMissing woman found safeCrimeWhat to know before visiting Trinity SiteMilitaryL&J Cafe leads Best Tex-Mex in Texas contestLocalBowie teens build underground clubhouse from scrapNewsEl Paso High to undergo architectural surveyEducationThree Broadway shows to premiere in El PasoEntertainmentBeto O'Rourke responds to Cruz campaign jinglePoliticsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDead Horizon teen found in Montana Vista desertCrimeTeens build underground clubhouse from scrapNewsCity leaders decry Trump's National Guard orderNewsPackers' Aaron Jones learns as principal for a dayFootballByrd asks Texas AG to release Cabrera grievanceEducationNo sanctions in dropped lawsuit against EscobarPoliticsStruggling Sunland Park Mall gains new tenantBusinessNo updates on EPISD audit into Susie ByrdEducationWhat to know before visiting Trinity SiteMilitaryBandidos trial details ambush of El Paso membersCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,5 +142,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog5 DAYsale$1999 for a YearSubscribe Todayclose dialogclose dialog$1999 for a Year Subscribe TodayNo thanksclose dialog
