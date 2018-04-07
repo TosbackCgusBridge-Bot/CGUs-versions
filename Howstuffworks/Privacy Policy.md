@@ -25,6 +25,8 @@ Twitter
 
 Pinterest
 
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">.
+
 Toggle navigation
 
 *   Health
@@ -207,67 +209,6 @@ No data transmissions over the Internet can be guaranteed to be 100% secure. Con
 
 Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
 
-If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of these Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues
 
-**N. Age Screening**
-
-Some parts of the Sites require that personally identifiable information be submitted in order to participate. For example, if you want to receive one of our newsletters, you must give us your email address. Some parts of the Sites will have an age-screening mechanism to prevent kids from registering. We won't knowingly allow anyone under the age of thirteen to register with any of our Sites, or to access those features that require registration, except as explicitly disclosed herein. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen other than in a legally permissible situation, we will delete the information from our records as soon as we discover it.
-
-**O. Contacting HSW**
-
-If you have any questions about this privacy policy or our privacy practices, please contact us at InfoSpace Holdings LLC, a System1 company, 10900 NE 8th Street, Suite 800, Bellevue, WA 98004. All information you provide in any written communication will also be covered by this policy.
-
-**YOUR CALIFORNIA PRIVACY RIGHTS**
-
-HSW does not support Do Not Track browser settings and does not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding HSW's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
-
-InfoSpace Holdings LLC, a System1 company
-
-10900 NE 8th Street, Suite 800
-
-Bellevue, WA 98004
-
-Email: hsw\_privacy@infospace.com
-
-Last Updated On: 01/31/2018
-
-Print | Citation &. Date | Reprint
-
-Print | Citation &. Date | Reprint
-
-More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .EverQuote Insurance QuotesDenver, Colorado: This Unbelievable, Tiny Company Is Disrupting a $200 Billion IndustryEverQuote Insurance QuotesFetcharate QuotesBorn Before 1985? Government May Pay Off Your Mortgage in ColoradoFetcharate QuotesTophatterIt's Like Amazon, but Everything Sells in 90 SecondsTophatterGundry MDConstant Fatigue Is A Warning Sign – See The Simple FixGundry MDLCR HealthHow To: Boost Telomeres At HomeLCR HealthTotal Battle: Online Strategy GameThe Most Addictive Strategy Game of 2017!Total Battle: Online Strategy GameQuoteWizard InsuranceDenver, Colorado Drivers Furious Over New RuleQuoteWizard InsuranceIcePopMost People Missed The Giant Blooper In This Iconic 'Forrest Gump' SceneIcePop Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksAfter the Equifax Breach, Does Credit Fraud Monitoring Really Help?How Swiss Bank Accounts WorkCan You Really Delete Your Internet History?How Identity Theft WorksHow AOL Mail Works5 Reasons to Use Online Bill Paymentby Taboolaby Taboola
-
-  
-
-Advertise With Us
-
-*   About
-*   Podcasts
-*   Privacy
-*   Ad Choices
-*   Terms
-
-*   Store
-*   Careers
-*   Contact Us
-*   Help
-*   Reprints
-
-  
-
-Copyright © 2018 HowStuffWorks,  
-a division of InfoSpace Holdings LLC,  
-a System1 Company
-
-Newsletter
-
-Get the best of HowStuffWorks by email. Keep up to date on:
-
-*   Latest Buzz
-*   Stuff Shows &. Podcasts
-*   Tours
-*   Weird &. Wacky
-
-Sign Up Now!
-
-Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
+<img src="https://soflopxl.com/px?partner\_id=31210">
