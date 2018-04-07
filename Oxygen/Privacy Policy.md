@@ -106,5 +106,3 @@ Get Involved
 Stay Connected Facebook Twitter Instagram Snapchat Newsletter Stay Connected Facebook Twitter Instagram Snapchat Newsletter
 
 ©2018 Oxygen Media LLC. A Division of NBCUniversal
-
-AddThis SharingSHARESFacebookTwitterPrintAddthisAddThis SharingPinterestFacebookEmailCopy Link
