@@ -126,7 +126,7 @@ Almost Anywhere
 
 Step into the recording booth at #SonySquareNYC &. start your week like a rockstar.
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -188,7 +188,7 @@ With the X900E Television
 
 Walk into the club like, #EverybodyHatesMe. @TheChainsmokers just dropped a new video. Watch it here.
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -288,7 +288,7 @@ Play What Does It Take to Launch a Podcast? Video hotspot
 
 Watch 5 minutes of exclusive God of War gameplay in the latest episode of PlayStation Underground.
 
-3 days ago
+4 days ago
 
 View Tweet
 
