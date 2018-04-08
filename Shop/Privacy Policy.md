@@ -397,9 +397,9 @@ Lenovo Small Business
 
 Explore how Lenovo can be your small business partner.
 
-Flash Sale Live Now! 
+Flash Sale Ends TODAY at MIDNIGHT! 
 
-Save up to 40% off or up to $650 off. Limited Time Only! Sale Ends April 11
+Last Day to save up to $220 off on an 7th Generation Intel® Core™ i7 Processor, 1TB PC with GeForce graphics. 
 
 TAB 4 10 PLUS ADDS IT ALL
 
