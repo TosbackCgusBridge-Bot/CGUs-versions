@@ -4,8 +4,8 @@
 *   Home
 *   Add Resume
 *   Browse Jobs
-*   Explore Careers
-*   Search Resources
+*   Salary Insights
+*   Advice &. Resources
 
 *   Looking to Hire?
 *   Post Jobs
@@ -92,6 +92,7 @@ CareerBuilder
 
 *   About Us
 *   Work at CareerBuilder
+*   Send Feedback
 
 200 N. LaSalle St.  
 Suite 1100  
