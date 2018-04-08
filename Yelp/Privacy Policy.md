@@ -56,7 +56,9 @@ Third parties may receive information about you as follows:
 
 4\. Controlling Your Personal Data
 
-Other users may be able to identify you, or associate you with your account, if you include personal information in the content you post publicly. You can reduce the risk of being personally identified by using the Service pseudonymously, though doing so could detract from the credibility of your contributions to the Service. Users can also use the Find Friends feature to find one another based on their names or email addresses. You can adjust the settings for this feature here.
+Other users may be able to identify you, or associate you with your account, if you include personal information in the content you post publicly. You can reduce the risk of being personally identified by using the Service pseudonymously, though doing so could detract from the credibility of your contributions to the Service. Users can also use the Find Friends feature to find one another based on their names or email addresses. You can adjust the settings for this feature here
+
+xfwfatdwttezrwvcuqfzbrcbe.
 
 Please also note that the messages you send or receive using the Service are only private to the extent that both you and the person you are communicating with keep them private. For example, if you send a message to another user, that user may choose to publicly post it. Also, Yelp may access and disclose such messages in the course of investigations relating to use of the Service.
 
