@@ -35,11 +35,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 1 OF COUPON CODE 24SAVING ENDS IN
+Near YouFind a StoreBack DAY 2 OF COUPON CODE 24SAVING ENDS IN
 
 \*offer ends 4/15/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 3 3 6 6 secs WOMEN'S SANDALS UP TO $20SHOP ALLWOMEN'S SANDALS UP TO $20SHOP ALL
+Days 0 0 0 0 hours 4 4 1 1 mins 1 1 2 2 secs WOMEN'S SANDALS UP TO $20SHOP ALLWOMEN'S SANDALS UP TO $20SHOP ALL
 
 *   $19.99 sale
     
@@ -60,17 +60,12 @@ Days 0 0 0 0 hours 4 4 0 0 mins 3 3 6 6 secs WOMEN'S SANDALS UP TO $20SHOP ALLWO
     
     was $37
     
-    Arizona Honey Womens Flat Sandals(2)Add To Cart
+    Arizona Honey Womens Flat Sandals(3)Add To Cart
 *   $19.99 sale
     
     was $37
     
     Arizona Giselle Womens Flat Sandals(3)Add To Cart
-*   $19.99 sale
-    
-    was $37
-    
-    Arizona Gabi Womens Slide SandalsAdd To Cart
 *   $19.99 sale
     
     was $25
@@ -85,22 +80,17 @@ Days 0 0 0 0 hours 4 4 0 0 mins 3 3 6 6 secs WOMEN'S SANDALS UP TO $20SHOP ALLWO
     
     was $37
     
+    Arizona Gabi Womens Slide Sandals(1)Add To Cart
+*   $19.99 sale
+    
+    was $37
+    
     Arizona Marley Womens Flat Sandals(1)Add To Cart
 *   $19.99 sale
     
     was $37
     
     Arizona Adele Womens Flat SandalsAdd To Cart
-*   $19.99 sale
-    
-    was $37
-    
-    Arizona Geneva Womens Flat Sandals(1)Add To Cart
-*   $19.99 sale
-    
-    was $37
-    
-    Arizona Tricia Womens Flat SandalsAdd To Cart
 *   $19.99 - $24.99 sale
     
     was $30
@@ -110,24 +100,34 @@ Days 0 0 0 0 hours 4 4 0 0 mins 3 3 6 6 secs WOMEN'S SANDALS UP TO $20SHOP ALLWO
     
     was $37
     
-    Arizona Abram Womens Flat Sandals(1)Add To Cart
+    Arizona Tricia Womens Flat Sandals(1)Add To Cart
 *   $19.99 sale
     
     was $22
     
     Nike Solay Womens Flip-FlopsAdd To Cart
+*   $19.99 sale
+    
+    was $37
+    
+    Arizona Geneva Womens Flat Sandals(1)Add To Cart
+*   $19.99 sale
+    
+    was $25
+    
+    Nike Benassi Jdi Womens Slide Sandals(1)Add To Cart
 
 PLAY TIME WITH WATER TABLESSHOP ALLPLAY TIME WITH WATER TABLESSHOP ALL
 
 *   $69.99
     
     Step2 Spill &. Splash Seaway Water Table with Umbrella(26)Add To Cart
-*   $44.99
-    
-    Step2 Busy Ball Play Water Table(23)Add To Cart
 *   $89.99
     
     Step2 Cascading Cove Water Table with Umbrella(21)Add To Cart
+*   $44.99
+    
+    Step2 Busy Ball Play Water Table(23)Add To Cart
 *   $69.99
     
     Step2 Dino Dig Sand &. Water Table(14)Add To Cart
@@ -136,34 +136,34 @@ PLAY TIME WITH WATER TABLESSHOP ALLPLAY TIME WITH WATER TABLESSHOP ALL
     Step2 Shady Oasis Sand &. Water Play Table(13)Add To Cart
 *   $49.99
     
+    Step 2 Waterfall Discovery Wall(39)Add To Cart
+*   $42.99
+    
+    Step2 Big Splash Waterpark Water Table(2)Add To Cart
+*   $84.99
+    
+    Step2 Splish Splash Seas Water Table(15)Add To Cart
+*   $49.99
+    
     Step2 Summer Showers Splash Tower Water Table(4)Add To Cart
+*   $44.99
+    
+    Step2 Wild Whirlpool Water Table(10)Add To Cart
 *   $19.95
     
     International Playthings - Kidoozie Sand 'n Splash Activity TableAdd To Cart
 *   $39.99
     
     Step2 WaterWheel Water Table(4)Add To Cart
-*   $42.99
-    
-    Step2 Big Splash Waterpark Water Table(2)Add To Cart
-*   $69.99
-    
-    Step2 Fiesta Cruise Sand &. Water Summer Center Water Table(2)Add To Cart
-*   $49.99
-    
-    Step 2 Waterfall Discovery Wall(39)Add To Cart
-*   $84.99
-    
-    Step2 Splish Splash Seas Water Table(15)Add To Cart
 *   $52.99
     
     Step2 Splash 'N Scoop Bay Sand &. Water Table(13)Add To Cart
+*   $69.99
+    
+    Step2 Fiesta Cruise Sand &. Water Summer Center Water Table(2)Add To Cart
 *   $39.99
     
     Step2 Big Bubble Splash Water Table(11)Add To Cart
-*   $44.99
-    
-    Step2 Wild Whirlpool Water Table(10)Add To Cart
 
 $9.99 -$11.99 MEN'S GRAPHIC TEESSHOP ALL$9.99 -$11.99 MEN'S GRAPHIC TEESSHOP ALL
 
@@ -249,7 +249,7 @@ SAVE ON SHORTS FOR THE FAMILYSHOP ALLSAVE ON SHORTS FOR THE FAMILYSHOP ALL
     
     was $32
     
-    St. John's Bay 11" Cargo Bermuda Shorts(18)Add To Cart
+    St. John's Bay 11" Cargo Bermuda Shorts(20)Add To Cart
 *   $17.99 sale
     
     was $40
@@ -259,47 +259,42 @@ SAVE ON SHORTS FOR THE FAMILYSHOP ALLSAVE ON SHORTS FOR THE FAMILYSHOP ALL
     
     was $32
     
-    a.n.a Twill Short (3 1/2")Add To Cart
-*   $14.99 sale
-    
-    was $36
-    
-    St Johns Bay Comfort Stretch Flat Front Short(10)Add To Cart
+    a.n.a Twill Short (3 1/2")(1)Add To Cart
 *   $24.99 sale
     
     was $50
     
     The Foundry Big &. Tall Supply Co. Chino Cargo Shorts Big and TallAdd To Cart
-*   $19.99 sale
+*   $14.99 sale
     
-    was $40
+    was $36
     
-    The Foundry Big &. Tall Supply Co. Chino Shorts-Big and Tall(4)Add To Cart
-*   $22.49 - $45 sale
-    
-    was $45
-    
-    Levi's® 569™ Loose-Fit Denim Shorts(55)Add To Cart
+    St Johns Bay Comfort Stretch Flat Front Short(10)Add To Cart
 *   $17.99 sale
     
     was $32
     
     SJB Secretly Slender 11" Bermuda Shorts(1)Add To Cart
+*   $19.99 sale
+    
+    was $40
+    
+    The Foundry Big &. Tall Supply Co. Chino Shorts-Big and Tall(4)Add To Cart
 *   $17.99 sale
     
     was $40
     
-    St. John's Bay Stretch Twill Cargo Shorts(12)Add To Cart
+    St. John's Bay Stretch Twill Cargo Shorts(13)Add To Cart
+*   $22.49 - $45 sale
+    
+    was $45
+    
+    Levi's® 569™ Loose-Fit Denim Shorts(55)Add To Cart
 *   $19.99 sale
     
     was $40
     
     The Foundry Big &. Tall Supply Co. Ripstop Cargo Shorts Big and TallAdd To Cart
-*   $29.99 sale
-    
-    was $46
-    
-    Lee® Wyoming Belted Cargo Shorts(148)Add To Cart
 *   $19.99 sale
     
     was $37
@@ -310,16 +305,21 @@ SAVE ON SHORTS FOR THE FAMILYSHOP ALLSAVE ON SHORTS FOR THE FAMILYSHOP ALL
     was $37
     
     Liz Claiborne 10 1/2" Classic Fit Twill Bermuda Shorts(1)Add To Cart
+*   $29.99 sale
+    
+    was $46
+    
+    Lee® Wyoming Belted Cargo Shorts(148)Add To Cart
 *   $17.99 sale
     
     was $32
     
     a.n.a Knit Waist ShortsAdd To Cart
-*   $19.99 sale
+*   $17.99 sale
     
-    was $37
+    was $32
     
-    a.n.a Denim Shorts (5")(1)Add To Cart
+    a.n.a Twill Shorts (7")(1)Add To Cart
 
 SAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALL
 
@@ -329,7 +329,7 @@ SAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP
     
     was $37
     
-    St. John's Bay Active Long Sleeve Cozy Flyaway Cardigan(13)Add To Cart
+    St. John's Bay Active Long Sleeve Cozy Flyaway Cardigan(14)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $11.10 sale
@@ -346,13 +346,6 @@ SAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP
     Worthington Ankle Pants(3)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $13.99 sale
-    
-    was $47
-    
-    Worthington Straight Leg Slim Fit Trousers - Plus(2)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $11.10 sale
     
     was $37
@@ -360,18 +353,18 @@ SAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP
     St. John's Bay Active Knit Jogger Pants (Tapered Leg)(10)Add To Cart
 *   LIMITED TIME SPECIAL!
     
+    $13.99 sale
+    
+    was $47
+    
+    Worthington Straight Leg Slim Fit Trousers - Plus(2)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
     $11.99 sale
     
     was $42
     
-    Boutique + 3/4 Sleeve V Neck Woven Floral Blouse - Plus(5)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $12.99 sale
-    
-    was $44
-    
-    a.n.a. Surplice Shirttail(11)Add To Cart
+    Boutique + 3/4 Sleeve V Neck Woven Floral Blouse - Plus(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $12.99 sale
@@ -379,6 +372,20 @@ SAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP
     was $44
     
     Worthington Long Sleeve V Neck Open Front Cardigan(6)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $12.99 sale
+    
+    was $44
+    
+    a.n.a. Surplice Shirttail(12)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $17.99 sale
+    
+    was $60
+    
+    Worthington® Suit Blazer(115)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $16.20 sale
@@ -395,11 +402,11 @@ SAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP
     Bold Elements Caged Cold Shoulder TopAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $17.99 sale
+    $7.99 sale
     
-    was $60
+    was $27
     
-    Worthington® Suit Blazer(115)Add To Cart
+    a.n.a Short Sleeve Scoop Neck Asymmetrical Hem Top(7)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $25.99 sale
@@ -409,11 +416,11 @@ SAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP
     London Times Sleeveless Paisley Maxi Dress - Plus(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $7.99 sale
+    $10.80 sale
     
-    was $27
+    was $36
     
-    a.n.a Short Sleeve Scoop Neck Asymmetrical Hem Top(7)Add To Cart
+    Liz Claiborne Piped Georgette Button-Front BlouseAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $12.99 sale
@@ -421,13 +428,14 @@ SAVE UP TO 70% OFF WOMEN'S APPARELSHOP ALLSAVE UP TO 70% OFF WOMEN'S APPARELSHOP
     was $44
     
     Worthington Zipper Trousers(9)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $10.80 sale
-    
-    was $36
-    
-    Liz Claiborne Piped Georgette Button-Front BlouseAdd To Cart
+
+Top Sellers
+
+*   Royal Velvet Luxury 600tc Sateen Wrinkle Free Sheet Set(90)
+*   St. John's Bay 3/4 Sleeve V Neck T-Shirt-Womens(9)
+*   Stafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt(70)
+*   City Streets Solstice Girls Slide Sandals - Little Kids/Big Kids
+*   Arizona Solid Cargo Shorts - Boys 4-20(2)
 
 Shop and Save at JCPenney
 
