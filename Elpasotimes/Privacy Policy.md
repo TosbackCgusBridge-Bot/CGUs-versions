@@ -1,4 +1,4 @@
-SUBSCRIBE NOW$19.99 for a year
+close dialogLAST CHANCE$1999 for a YearSubscribe Todayclose dialogSUBSCRIBE NOW$19.99 for a year
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW$19.99 for a year
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDead Horizon teen found in Montana Vista desertCrimeTeens build underground clubhouse from scrapNewsCity leaders decry Trump's National Guard orderNewsPackers' Aaron Jones learns as principal for a dayFootballByrd asks Texas AG to release Cabrera grievanceEducationNo sanctions in dropped lawsuit against EscobarPoliticsStruggling Sunland Park Mall gains new tenantBusinessNo updates on EPISD audit into Susie ByrdEducationWhat to know before visiting Trinity SiteMilitaryBandidos trial details ambush of El Paso membersCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSlain Horizon City teen was wanted on warrantCrimePETA plans El Paso billboard targeting Trump Jr.ImmigrationTexas deploys 250 troops to Mexican borderImmigrationTeens build underground clubhouse from scrapNewsDead Horizon teen found in Montana Vista desertCrimeCity leaders decry Trump's National Guard orderNewsYoung hero honored for saving mom, brotherLocalKhalid has a new song, will be on FallonMusicNo sanctions in dropped lawsuit against EscobarPoliticsPackers' Aaron Jones learns as principal for a dayFootballHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,3 +142,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog$1999 for a Year Subscribe TodayNo thanksclose dialogclose dialogLAST CHANCE$1999 for a YearSubscribe Todayclose dialog
