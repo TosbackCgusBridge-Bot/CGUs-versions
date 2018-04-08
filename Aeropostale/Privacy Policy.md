@@ -60,8 +60,8 @@ Close submenu ( Tops ) Tops
 *   Polos
 *   Fashion Tops
 *   Long Sleeve
-*   Shirts
 *   Hoodies + Sweatshirts
+*   Shirts
 *   Sweaters
 *   Active Tops
 
@@ -393,8 +393,8 @@ Menu Find a Store Aeropostale
         *   Polos
         *   Fashion Tops
         *   Long Sleeve
-        *   Shirts
         *   Hoodies + Sweatshirts
+        *   Shirts
         *   Sweaters
         *   Active Tops
     
