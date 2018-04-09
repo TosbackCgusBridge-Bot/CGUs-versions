@@ -1,4 +1,4 @@
-close dialogLAST CHANCE$1999 for a YearSubscribe Todayclose dialogSUBSCRIBE NOW$19.99 for a year
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE NOW$19.99 for a year
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialogLAST CHANCE$1999 for a YearSubscribe Todayclose dialogSUBSCRIBE NOW$
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSlain Horizon City teen was wanted on warrantCrimePETA plans El Paso billboard targeting Trump Jr.ImmigrationTexas deploys 250 troops to Mexican borderImmigrationTeens build underground clubhouse from scrapNewsDead Horizon teen found in Montana Vista desertCrimeCity leaders decry Trump's National Guard orderNewsYoung hero honored for saving mom, brotherLocalKhalid has a new song, will be on FallonMusicNo sanctions in dropped lawsuit against EscobarPoliticsPackers' Aaron Jones learns as principal for a dayFootballHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDoor broken, whiskey stolen in Crime of the WeekCrimeSlain Horizon City teen was wanted on warrantCrimeSwimmers praise new Olympic-size pool on West SideLocalPETA plans El Paso billboard targeting Trump Jr.ImmigrationTexas deploys 250 troops to Mexican borderImmigrationParade of Homes starts Saturday, seeks buyersBusinessTeens build underground clubhouse from scrapNewsLed by Parkland alum, UTEP defense bounces backCollegeWhat guard border missions cost, accomplishedImmigrationDead Horizon teen found in Montana Vista desertCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -143,4 +143,4 @@ Our Partners
 *   Thanksgiving.com
 *   Grateful
 
-close dialog$1999 for a Year Subscribe TodayNo thanksclose dialogclose dialogLAST CHANCE$1999 for a YearSubscribe Todayclose dialog
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
