@@ -397,9 +397,9 @@ Lenovo Small Business
 
 Explore how Lenovo can be your small business partner.
 
-Flash Sale Ends TODAY at MIDNIGHT! 
+Flash Sale Live Now! 
 
-Last Day to save up to $220 off on an 7th Generation Intel® Core™ i7 Processor, 1TB PC with GeForce graphics. 
+Save up to $550 off on select premium, game-ready, lightening-fast gaming machines and accessories. Limited Time Only. Sale ends April 15
 
 TAB 4 10 PLUS ADDS IT ALL
 
@@ -516,17 +516,3 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
 Feedback Will open a new windowFeedbackLaunches comment card in new window
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
-
-How can we help you today?
-
-CONSUMER SALESCONSUMER SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
-
-Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
-
-1 2 3 4 5 6 7 8 9 10
-
-Please tell us how we can improve your experience:
-
-SUBMIT CHATHIDE
