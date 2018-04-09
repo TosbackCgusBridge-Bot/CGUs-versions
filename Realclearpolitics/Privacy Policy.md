@@ -273,26 +273,30 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   South Carolina Governor - Republican PrimaryTarget Insyght
+    *   McMaster46
+    *   Templeton22
+    *   Bryant6
+    *   McGill4
+    *   Warren1McMaster +24
+*   South Carolina Governor - Democratic PrimaryTarget Insyght
+    *   Noble27
+    *   Smith27
+    *   Willis21Tie
+*   Michigan 8th District - Bishop vs. SlotkinTarget Insyght
+    *   Bishop45
+    *   Slotkin39Bishop +6
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove52Disapprove +5
-*   Tennessee Senate - Blackburn vs. BredesenMiddle Tn. State Univ.
-    *   Bredesen45
-    *   Blackburn35Bredesen +10
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve41
-    *   Disapprove56Disapprove +15
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve41
-    *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
+*   MSNBC's Joy Reid: What If Trump Refuses To Be Arrested By Federal Marshals And Barricades Himself?
+*   Captured British ISIS Militant: I Didn't Chop Anybody's Head Off, Accusation Needs To Be Proved
+*   Trump Security Adviser Tom Bossert: All Options Remain On The Table Over Syria Chemical Attack
+*   Larry Kudlow: Trump Is "Not Bluffing" On China Tariffs, "We Have To Do This". "They're Breaking A Lot Of Laws"
 *   Maher Denounces 'Bully' David Hogg For Ingraham Boycott: "Modern Way of Cutting Off Free Speech"
-*   CNBC's Liesman Grills Mnuchin: Are Trade Negotiations With China Happening Now Or Not?
-*   Trump: Can't Say There Won't Be Pain In Trade War, We'll Be "A Much Stronger Country When We Are Finished"
-*   Gowdy: I Don't Like Being A Congressman. "I Don't Have A Lot To Show For Last Seven Years"
-*   Levin: "Rogue Prosecutor" Mueller Investigating Nothing. Trump's Not Going To Be Indicted
 
 *   Politics
 *   Policy
