@@ -1,4 +1,4 @@
-close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE NOW$19.99 for a year
+SUBSCRIBE NOW1st month FREE
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE 
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDoor broken, whiskey stolen in Crime of the WeekCrimeSlain Horizon City teen was wanted on warrantCrimeSwimmers praise new Olympic-size pool on West SideLocalPETA plans El Paso billboard targeting Trump Jr.ImmigrationTexas deploys 250 troops to Mexican borderImmigrationParade of Homes starts Saturday, seeks buyersBusinessTeens build underground clubhouse from scrapNewsLed by Parkland alum, UTEP defense bounces backCollegeWhat guard border missions cost, accomplishedImmigrationDead Horizon teen found in Montana Vista desertCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSprouts opening third El Paso store in summerBusinessBorder wall work to begin near Santa Teresa, NMImmigrationEPPD closer to getting crisis intervention teamLocalDoor broken, whiskey stolen in Crime of the WeekCrimeHave you seen this week's most wanted fugitives?CrimeSlain Horizon City teen was wanted on warrantCrimeCelebrate Selena next weekend at Alamo DrafthouseEntertainmentEl Paso women made history, Esper-Martin saysOpinionSwimmers praise new Olympic-size pool on West SideLocalAlamo Roadshow comes to El Paso on MondayLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,5 +142,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
