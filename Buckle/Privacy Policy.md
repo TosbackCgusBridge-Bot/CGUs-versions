@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-The temps are rising and we’ve got that festival fever - Shop Now.
+The nostalgia is real and we’re all about these ‘90s brands.
 
 *   Women
 *   Men
