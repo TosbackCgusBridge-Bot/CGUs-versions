@@ -135,25 +135,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+One more day! Catch Erik @Requidan at @adexchanger's #PROGIO discussing all things DPO tomorrow at 1:30PM PST. See you there! pic.twitter.com/1cFo…
+
+About 9 hours ago
+
+Check out @eMarketer @RossBenes interview of the week with our VP of Sales &. #Programmatic Strategy @Requidan! Find out how #publishers squeeze value from ad auction data &. more: emarketer.com/conten…
+
+About 14 hours ago
+
 .@adexchanger #PROGIO San Fran is next week! Don't miss @Requidan talk about the importance of Demand Path Optimization on 4/10 at 1:30PM. See you there! pic.twitter.com/rTFv…
-
-About 5 days ago
-
-My week on Twitter : 6 Mentions, 54.4K Mention Reach, 4 Likes, 1 Retweet, 11 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Hfr1…
-
-About 5 days ago
-
-Our biggest fans this week: @proprie8. Thank you! via sumall.com/thankyou?… pic.twitter.com/7qyI…
 
 About 6 days ago
 
-"The market’s actions show that programmatic is not only here to stay, it’s quickly becoming the underpinning of the digital advertising industry." Our VP of Programmatic Strategy, @Requidan, talks about the reality of #programmatic via @adexchanger bit.ly/2J1yXQL
+My week on Twitter : 6 Mentions, 54.4K Mention Reach, 4 Likes, 1 Retweet, 11 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/Hfr1…
 
-About 2 weeks ago
+About 6 days ago
 
-My week on Twitter : 2 Mentions, 6 Likes, 5 Retweets, 1.61K Retweet Reach, 10 New Followers. See yours with sumall.com/performan… pic.twitter.com/KEHN…
+Our biggest fans this week: @proprie8. Thank you! via sumall.com/thankyou?… pic.twitter.com/7qyI…
 
-About 2 weeks ago
+Last week
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
