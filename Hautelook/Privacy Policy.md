@@ -8,6 +8,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Ted Baker London Up to 55% Off
+    *   Ted Baker London Handbags Up to 50% Off
+    *   Ted Baker London Shoes Up to 50% Off
+    *   Ted Baker London Men Up to 45% Off
+    *   Ted Baker London Tailored Clothing Up to 45% Off
+    *   Ted Baker London Men's Shoes Up to 60% Off
+    *   MAC Cosmetics
+    *   Ted Baker London Watches &. Sun Up to 50% Off
+    *   Free Shipping: BergHOFF
+    *   Dance and Marvel
+    *   Dresses, Jumpsuits &. More Incl. Plus &. Petites
+    *   Circus by Sam Edelman Starting at $20
+    *   Whyte Eyelash
+    *   DSGN Yoga
+    *   Grey City
+    *   Mia Under $50
+    *   Cozy Chic: Sleep Separates &. More
+    *   All Eyes On Blue: Spring Denim Under $50
+    *   ghd: good hair day, every day
+    *   Ted Baker London Home Starting at $10
+    *   Patio Ready: Lanterns, String Lights &. More
+    *   Lacoste Kids' Shoes
+    *   Petit Lem Pajamas Starting at $12
+    *   Peppercorn Kids
     *   Vertigo Up to 85% Off
     *   Shoes Up to 65% Off
     *   Jewelry Box Essentials Up to 80% Off
@@ -18,6 +42,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Men's Final Few Up to 75% Off
     *   Men's Shoes Up to 75% Off
+    
     *   Citizen Eco-Drive Watches
     *   Catherine Catherine Malandrino &. More
     *   BCBGMAXAZRIA
@@ -47,12 +72,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   French Connection
     *   Ahnu Hiking Shoes &. More
     *   Becca Swim Incl. Plus
-    
     *   Sophisticated Styles ft. Ellen Tracy
     *   Layered Gemstones, Stacking Rings &. More
     *   Denim Under $40 ft. William Rast
     *   Shapewear ft. Skinnygirl By Bethenny Frankel
     *   Reef Sandals for the Family
+    
     *   Cool Comfort: Shoes We Love ft. Geox
     *   Pink Owl Under $35
     *   Cecelia New York
@@ -66,52 +91,17 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Delsey Luggage Up to 70% Off
     *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Designer Art Prints Up to 75% Off
-    *   Plus &. Petite Shop: Spring Styles Under $50
-    *   On-Trend Shoes in Extended Sizes
-    *   Plus &. Petite Dresses ft. Vince Camuto
-    *   Leggings &. More ft. Lysse Incl. Plus
-    *   Bikini Ready: Plus Swim &. Active Separates
-    *   Full-Fit Lingerie ft. Ashley Graham
-    *   Balenciaga Sunglasses &. More
-    *   TOV
-    *   Halston Heritage Up to 65% Off
-    *   Seven7
-    *   Nue by Shani Up to 75% Off
-    *   Lancaster Paris
-    *   Ronny Kobo
-    *   Summer Ready: Guadalupe Design Cover-Ups &. Bags
-    *   Modern Vice
-    *   Made in Italy: Sphera Milano Jewelry
-    *   Hello Kitty Sleep &. More
-    *   Sofft &. Isola
-    *   Ready to Ruffle: Dresses &. More Under $25
     *   Amaxy Hair Tools from $10
-    *   Rebels Starting at $40
-    
     *   My Magic Mud Oral Care from $10
-    *   Watches from Just Cavalli &. More Up to 75% Off
     *   Tailored Recreation Under $20
     *   Vestige &. More
     *   GUESS Slides &. More Starting at $25
     *   Free Shipping: Portable Steamers &. More
     *   Poo-Pourri Bathroom Scents
-    *   Plus &. Petite Denim
     *   PMD Personal Microderm Up to 50% Off
     *   NCLA Nails Starting at $10
-    *   Men's Denim Shop ft. Fidelity
-    *   Ben Sherman
-    *   Rush by Gordon Rush
-    *   Stance Underwear &. Socks
-    *   Tart Including Plus
-    *   Catherine Catherine Malandrino Up to 70% Off
-    *   Jantzen Girls' Swim Under $20
-    *   Pajama Day Ready: Kids' PJs Under $20
-    *   Beach-Ready Kids' Shoes Up to 55% Off
-    *   Stride Rite Starting at $15
-    *   Haute Hits: Girls' Summer Styles
-    *   Teami Blends Detox Teas &. Supplements
-    *   Rouge Bunny Rouge Cosmetics Under $24
-    *   Korean Beauty: 0720
+    *   Free Shipping: Farmhouse-Inspired Decor from $15
+    *   Daily Essentials: Bottles, Tech Pouches &. More
     *   Free Shipping: Chic Beach Tents &. Towels
     *   Free Shipping: Beach Towels from $10
     *   Free Shipping: Art for Every Space Up to 65% Off
@@ -120,14 +110,24 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Pastel Glassware &. More from $10
     *   Free Shipping: Mother's Day Gifts from $12
     *   Fairground Faves: Retro Appliances &. More
-    *   Beach Ready: Braven Waterproof Speakers &. More
-    *   Free Shipping: Luxe Bedding &. More from $15
-    *   Free Shipping: Rugs for Every Room
     *   Timberland Men's Luggage &. Accessories
-    *   Free Shipping: Farmhouse-Inspired Decor from $15
-    *   Daily Essentials: Bottles, Tech Pouches &. More
 *   WomenShop Sale Events
     
+    *   Ted Baker London Up to 55% Off
+    *   Ted Baker London Handbags Up to 50% Off
+    *   Ted Baker London Shoes Up to 50% Off
+    *   MAC Cosmetics
+    *   Ted Baker London Watches &. Sun Up to 50% Off
+    *   Dance and Marvel
+    *   Dresses, Jumpsuits &. More Incl. Plus &. Petites
+    *   Circus by Sam Edelman Starting at $20
+    *   Whyte Eyelash
+    *   DSGN Yoga
+    *   Grey City
+    *   Mia Under $50
+    *   Cozy Chic: Sleep Separates &. More
+    *   All Eyes On Blue: Spring Denim Under $50
+    *   ghd: good hair day, every day
     *   Vertigo Up to 85% Off
     *   Shoes Up to 65% Off
     *   Jewelry Box Essentials Up to 80% Off
@@ -142,6 +142,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Peace Love World
     *   Norma Kamali Up to 70% Off
     *   Swarovski Jewelry &. Watches
+    
     *   English Factory
     *   Olivia Miller Starting at $15
     *   Nature Breeze Under $25
@@ -163,54 +164,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cool Comfort: Shoes We Love ft. Geox
     *   Pink Owl Under $35
     *   Cecelia New York
-    
     *   French Connection Handbags
     *   Korean Beauty: Skin 79 &. Urban DollKiss
     *   Best Tressed: Remy Hair Extensions
     *   Ferre Milano Watches
-    *   Plus &. Petite Shop: Spring Styles Under $50
-    *   On-Trend Shoes in Extended Sizes
-    *   Plus &. Petite Dresses ft. Vince Camuto
-    *   Leggings &. More ft. Lysse Incl. Plus
-    *   Bikini Ready: Plus Swim &. Active Separates
-    *   Full-Fit Lingerie ft. Ashley Graham
-    *   Balenciaga Sunglasses &. More
-    *   TOV
-    *   Halston Heritage Up to 65% Off
-    *   Seven7
-    *   Nue by Shani Up to 75% Off
-    *   Lancaster Paris
-    *   Ronny Kobo
-    *   Summer Ready: Guadalupe Design Cover-Ups &. Bags
-    *   Modern Vice
-    *   Made in Italy: Sphera Milano Jewelry
-    *   Hello Kitty Sleep &. More
-    *   Sofft &. Isola
-    *   Ready to Ruffle: Dresses &. More Under $25
     *   Amaxy Hair Tools from $10
-    *   Rebels Starting at $40
     *   My Magic Mud Oral Care from $10
-    *   Watches from Just Cavalli &. More Up to 75% Off
-    *   Plus &. Petite Denim
     *   PMD Personal Microderm Up to 50% Off
     *   NCLA Nails Starting at $10
-    *   Tart Including Plus
-    *   Catherine Catherine Malandrino Up to 70% Off
-    *   Teami Blends Detox Teas &. Supplements
-    *   Rouge Bunny Rouge Cosmetics Under $24
-    *   Korean Beauty: 0720
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Accessories
     *   Handbags
     *   Watches
     *   Tech Accessories
     *   Lingerie
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Ted Baker London Men Up to 45% Off
+    *   Ted Baker London Tailored Clothing Up to 45% Off
+    *   Ted Baker London Men's Shoes Up to 60% Off
+    *   Ted Baker London Watches &. Sun Up to 50% Off
     *   Men's Final Few Up to 75% Off
     *   Men's Shoes Up to 75% Off
     *   Citizen Eco-Drive Watches
@@ -218,105 +195,93 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tommy Hilfiger Men's Outerwear
     *   Levinas Under $40
     *   Robert Graham Shoes Up to 50% Off
+    
     *   Born on the Water: Costa Del Mar Sunglasses
     *   Reef Sandals for the Family
     *   Andrew Christian
     *   Ferre Milano Watches
     *   Berto Romani Under $30
     *   Swims Up to 55% Off
-    
     *   Delsey Luggage Up to 70% Off
-    *   Balenciaga Sunglasses &. More
-    *   Watches from Just Cavalli &. More Up to 75% Off
     *   Tailored Recreation Under $20
     *   Vestige &. More
     *   GUESS Slides &. More Starting at $25
-    *   Men's Denim Shop ft. Fidelity
-    *   Ben Sherman
-    *   Rush by Gordon Rush
-    *   Stance Underwear &. Socks
-    *   Teami Blends Detox Teas &. Supplements
     *   Timberland Men's Luggage &. Accessories
     
     Shop By Category
     *   Clothing
-    *   Accessories
     *   Shoes
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   Lacoste Kids' Shoes
+    *   Petit Lem Pajamas Starting at $12
+    *   Peppercorn Kids
     *   Rosie Pope Baby
     *   aden + anais Starting at $10
     *   Baby Shoes ft. Jack &. Lily
     *   Maternity Must-Haves
     *   Reef Sandals for the Family
-    *   Jantzen Girls' Swim Under $20
-    *   Pajama Day Ready: Kids' PJs Under $20
-    *   Beach-Ready Kids' Shoes Up to 55% Off
-    *   Stride Rite Starting at $15
-    *   Haute Hits: Girls' Summer Styles
     
     Shop By Category
-    *   Girls Sizes 7-16
-    *   Girls' Shoes
-    *   Girls Sizes 2T-6X
+    *   Kids Accessories
     *   Boys' Shoes
     *   Baby Girl
+    *   Girls' Shoes
+    *   Girls Sizes 2T-6X
+    *   Girls Sizes 7-16
     *   Baby Boy
     *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: BergHOFF
+    *   Ted Baker London Home Starting at $10
+    *   Patio Ready: Lanterns, String Lights &. More
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Jarv Tech Accessory Blowout
     *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Designer Art Prints Up to 75% Off
     *   Free Shipping: Portable Steamers &. More
     *   Poo-Pourri Bathroom Scents
+    *   Free Shipping: Farmhouse-Inspired Decor from $15
+    
+    *   Daily Essentials: Bottles, Tech Pouches &. More
     *   Free Shipping: Chic Beach Tents &. Towels
     *   Free Shipping: Beach Towels from $10
     *   Free Shipping: Art for Every Space Up to 65% Off
     *   Free Shipping: Mason Jar Candles &. More
-    
     *   Quirky Home Accents Starting at $10
     *   Free Shipping: Pastel Glassware &. More from $10
     *   Free Shipping: Mother's Day Gifts from $12
     *   Fairground Faves: Retro Appliances &. More
-    *   Beach Ready: Braven Waterproof Speakers &. More
-    *   Free Shipping: Luxe Bedding &. More from $15
-    *   Free Shipping: Rugs for Every Room
-    *   Free Shipping: Farmhouse-Inspired Decor from $15
-    *   Daily Essentials: Bottles, Tech Pouches &. More
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bedding
     *   Bath
-    *   Outdoor Living
+    *   Bedding
     *   Luggage &. Travel
+    *   Outdoor Living
     *   Organization
-    *   Rugs
 *   BeautyShop Sale Events
     
+    *   MAC Cosmetics
+    *   ghd: good hair day, every day
     *   Luxe Locks: Hair Tool Blowout
     *   NuvaLash Natural Lash &. Brow Enhancing Serum
     *   Korean Beauty: Skin 79 &. Urban DollKiss
     *   Best Tressed: Remy Hair Extensions
     *   Amaxy Hair Tools from $10
     *   My Magic Mud Oral Care from $10
-    
     *   PMD Personal Microderm Up to 50% Off
     *   NCLA Nails Starting at $10
-    *   Teami Blends Detox Teas &. Supplements
-    *   Rouge Bunny Rouge Cosmetics Under $24
-    *   Korean Beauty: 0720
     
     Shop By Category
     *   Hair Care
-    *   Makeup
     *   Skin Care
-    *   Supplements
+    *   Makeup
     *   Nails
     *   Tools &. Accessories
     *   Bath &. Body
