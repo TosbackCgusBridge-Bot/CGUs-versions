@@ -5,32 +5,32 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   A Quiet Place
     *   Ready Player One
-    *   Tyler Perry's Acrimony
+    *   Blockers
     *   Black Panther
     *   I Can Only Imagine
-    *   Pacific Rim Uprising (2018)
+    *   Tyler Perry's Acrimony
+    *   Chappaquiddick
     *   Sherlock Gnomes
-    *   Love, Simon
-    *   Tomb Raider (2018)
-    *   A Wrinkle in Time
-    *   Paul, Apostle of Christ
+    *   Pacific Rim Uprising (2018)
     *   Isle of Dogs
+    *   The Miracle Season
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Blockers
-    *   Chappaquiddick
-    *   The Miracle Season
-    *   A Quiet Place
-    *   The Endless
-    *   The Heart of Nuba
-    *   Lean on Pete
-    *   Pandas
-    *   Spiral (2018)
-    *   Where Is Kyra?
-    *   You Were Never Really Here
+    *   Borg vs McEnroe
+    *   Rampage (2018)
+    *   Sgt. Stubby: An American Hero
+    *   Blumhouse's Truth or Dare (2018)
+    *   Isle of Dogs
+    *   10x10
+    *   Beirut
+    *   Bye Bye Germany
+    *   Gonjiam: Haunted Asylum
+    *   Marrowbone
+    *   Mercury (2018)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -39,14 +39,15 @@ Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   Borg vs McEnroe
-    *   Rampage (2018)
-    *   Blumhouse's Truth or Dare (2018)
-    *   Sgt. Stubby: An American Hero
     *   I Feel Pretty
     *   Super Troopers 2
     *   Traffik
+    *   Bad Samaritan
     *   Overboard (2018)
+    *   Tully (2018)
+    *   Breaking In (2018)
+    *   Life of the Party
+    *   Deadpool 2
     *   See All Coming Soon
     
     Explore More
@@ -74,9 +75,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: What's Next for Steven Spielberg, Joaquin Phoenix Talks the Joker and More Read More
-    *   Steven Spielberg's Adaptation of Stephen King's 'The Talisman' Will Happen "In the Very Near Future" Read More
-    *   'Solo: A Star Wars Story' to Debut at Cannes Read More
+    *   Emily Blunt and John Krasinski's Next Movie: 'Mary Poppins Returns,' 'Fantastic Four' Fantasy Read More
+    *   'A Quiet Place' Sneaks Horror Into Top Box Office Spot Read More
+    *   'A Quiet Place' Writers Have Ideas for a Sequel Read More
     
     Explore Content
     *   Movie Reviews
@@ -105,7 +106,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     Already a Fandango VIP? Sign In
 
-Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms
+Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms
 
 Last updated: January 11, 2018
 
@@ -324,4 +325,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
