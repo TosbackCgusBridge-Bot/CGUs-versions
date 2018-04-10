@@ -49,7 +49,7 @@ Borrow for your business with affordable business loans. Learn more
 
 Get live support and seller protection.
 
-Get Started Send money to friends and family.
+Get Started PayPal &. LeanIn.Org support equal pay.See Why #20PercentCounts Send money to friends and family.
 
 It's free to send money to friends and family in the U.S. when you use your bank account or PayPal balance.\*
 
@@ -96,4 +96,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=77352995db143&rsta=en\_US&pgtf=Nodejs&s=ci&csci=262a73d675144e639815b3f26b246b67&comp=mppnodeweb&tsrce=mppnodeweb&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=a75d80929a9a&rsta=en\_US&pgtf=Nodejs&s=ci&csci=5185698c16d847958c9b2d125640f93c&comp=mppnodeweb&tsrce=mppnodeweb&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="" height="1" width="1" border="0">.
