@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Peter Berkowitz_: Colleges' Central Mission Erodes--and Free Speech With It
+*   _Peter Navarro_: China's Unfair Trading Practices Distort Markets
     
-*   _Reid Wilson_: On World Health Day, Are We Ready for the Next Outbreak?
+*   _Peter Bergen_: John Bolton: 'Not Much of a Carrot Man'
     
-*   _Ed Rogers_: Things Are Going Trump's Way. He Should Reject Mueller Interview
+*   _Clifford May_: Trump, Bolton and the Case for Anti-Globalism
     
-*   _Brent Budowsky_: Mueller Will Drop Midterm Russia Bombshells on GOP
+*   _Robin Wright_: Trump Threat to Make Assad Pay 'Big Price' Rings Hollow
     
-*   _Christian Whiton_: China Gets Trumped
+*   _Theo Hobson_: MLK's Vision Is Being Betrayed by Progressives
     
-*   _Daniel Griswold_: No 'Pot of Gold' at End of a Trade War With China
+*   _Justin Driver_: The Report on Race That Shook America
     
-*   _Karl Vick_: Should the World Buy What the Saudi Crown Prince Is Selling?
+*   _Andrew Klavan_: On Kevin Williamson, The Atlantic Has No Excuse
     
-*   _Ben Domenech_: Firing Kevin Williamson Is Just the Beginning
+*   _Charles Pierce_: Forget Williamson's Firing. The Free Press Is in Actual Peril.
     
-*   _Kirsten Powers_: Kevin Williamson Was Fired for Wanting Women to Suffer
+*   _Eddie Scarry_: Trump Makes the WH Correspondents' Dinner Great Again
     
-*   _Edward Luce_: Anthony Scaramucci on Bannon &. Backstabbing in DC
+*   _Robinson Meyer_: Mark Zuckerberg Says He's Not Resigning
     
-*   _Steve Forbes_: The New EPA and Why the Radical Left Is Losing It
+*   _William Langewiesche_: Inside the Worst U.S. Maritime Disaster in Decades
     
-*   _Eisen & Shaw_: Trump Needs to Fire Scott Pruitt, Not Promote Him
+*   _Ben Hubbard_: As Trump Seeks Way Out of Syria, Will Attack Pull Him Back In?
     
-*   _Carl Cannon_: Majory Stoneman Douglas -- 'Queen of the Everglades'
+*   _Victor Davis Hanson_: The Limits of American Patience
     
-*   _David Graham_: The Tenacity of Trump
+*   _Zachary Karabell_: How to Win a Trade War With China--Don't Fight It
     
-*   _Fareed Zakaria_: Trump Is Right: China's a Trade Threat
+*   _Holman Jenkins_: Trump's Trade Tactic Might Work
     
-*   _Madeleine Albright_: Will We Stop Trump Before It's Too Late?
+*   _Lauren Hilgers_: China's Oppression Reaches Beyond Its Borders
     
-*   _Gordon Chang_: Clash With China Is About Much More Than Trade
+*   _Kalev Leetaru_: Introducing RealClearPolitics' Fact Check Review
     
-*   _Eugene Robinson_: Vote Dem If You Want to Know Results of Mueller Probe
+*   _James Traub_: The Party of Hubert Humphrey
     
-*   _Kimberley Strassel_: What Is the FBI Hiding?
+*   _Heather Mac Donald_: Obama's Destructive Approach to School-Discipline
     
-*   _Caitlin Huey-Burns_: Scott's Bid Will Give Florida Senate Race Marquee Status
+*   _Josh Kraushaar_: Republicans Head Closer to the Political Cliff
     
-*   _Jerry Taylor_: A Blue Wave Is Coming, But It Doesn't Spell Doom For Trump
+*   _John Fund_: Scott Has a Good Chance of Ousting Nelson in Florida
     
-*   _Roger Kimball_: Why the Democrats Won't Win Big in November
+*   _Bill Scher_: Do Progressives Really Want to Follow Trump on Trade?
     
-*   _Ryan Cooper_: Scott Pruitt Is Too Corrupt To Be Corrupted
+*   _Baily_: Debt Crisis Coming: Don't Blame Entitlements
     
-*   _Scott Jennings_: Liberals Don't Really Care About Pruitt's Ethics
+*   _Dave Grossman_: Greitens Prosecutor Must Be Held Accountable for Lies
     
 
 *   Previous
@@ -254,9 +254,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Proposes $100 Billion in New Tariffs on Chinese Goods
 *   Scott's Bid Will Give Florida Senate Race Marquee Status
-*   Gowdy: I Don't Like Being a Congressman
+*   Introducing RealClearPolitics' Fact Check Review
+*   Kudlow: Whole World Knows China Has Been Violating Trading Laws
 *   West Virginia Senate Hopefuls Heap Praise on Trump
 *   Dems Aim to Flip the Script on Giant-Killer Brat in Va.
 *   Presidential Job Approval
@@ -273,29 +273,28 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve41
+    *   Disapprove54Disapprove +13
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove52Disapprove +4
+*   Direction of CountryRasmussen Reports
+    *   Right Direction40
+    *   Wrong Track54Wrong Track +14
 *   South Carolina Governor - Republican PrimaryTarget Insyght
     *   McMaster46
     *   Templeton22
     *   Bryant6
     *   McGill4
     *   Warren1McMaster +24
-*   South Carolina Governor - Democratic PrimaryTarget Insyght
-    *   Noble27
-    *   Smith27
-    *   Willis21Tie
-*   Michigan 8th District - Bishop vs. SlotkinTarget Insyght
-    *   Bishop45
-    *   Slotkin39Bishop +6
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
 
 More Latest Polls In The News
 
+*   Dershowitz on Cohen: If This Were Hillary Clinton, ACLU Would Freak Out At "Overzealous" Mueller
+*   Trump on Cohen Raid: "An Attack On Our Country In A True Sense, It's An Attack On What We All Stand For"
+*   Loretta Lynch on Requesting Comey To Call Clinton Probe A 'Matter': "Concerns Were Not Raised"
 *   MSNBC's Joy Reid: What If Trump Refuses To Be Arrested By Federal Marshals And Barricades Himself?
-*   Captured British ISIS Militant: I Didn't Chop Anybody's Head Off, Accusation Needs To Be Proved
-*   Trump Security Adviser Tom Bossert: All Options Remain On The Table Over Syria Chemical Attack
-*   Larry Kudlow: Trump Is "Not Bluffing" On China Tariffs, "We Have To Do This". "They're Breaking A Lot Of Laws"
 *   Maher Denounces 'Bully' David Hogg For Ingraham Boycott: "Modern Way of Cutting Off Free Speech"
 
 *   Politics
