@@ -285,14 +285,20 @@ The nostalgia is real and we’re all about these ‘90s brands.
           
         Give a Buckle Gift card
 *   Sale
-    *   *   Women's Sale
+    *   *   Featured Sale
+        
+        *   Women's New to Sale
+        *   Men's New to Sale
+        *   Accessories BOGO Free
+        
+        *   Women's Sale
         
         *   Jeans
         *   All Tops
         *   Shirts/Blouses
         *   Tanks
         *   Tees
-        *   Sweatshirts
+        *   Crops/Capris
         *   Swimwear
         *   Shorts
         *   Shoes
@@ -615,4 +621,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailQuick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailQuick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
