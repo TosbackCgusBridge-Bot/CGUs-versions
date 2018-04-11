@@ -130,7 +130,7 @@ Play Build the Strongest Kiryu Clan in the Video hotspot
 
 God of War will allow you to customize Kratos' armor and abilities, helping you find your favorite fighting style.
 
-1 hour ago
+1 day ago
 
 View Tweet
 
