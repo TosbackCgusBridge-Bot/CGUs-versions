@@ -281,7 +281,7 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Facebook
 *   Twitter
 *   LinkedIn
-*   Our Blog
+*   Curiosity
 *   Google+
 *   YouTube
 
