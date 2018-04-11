@@ -146,7 +146,6 @@ SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuction
 *   Auction
 *   Fantasy Fantasy Fantasy
     *   2018 Beat the Streak
-    *   Player Preview
     *   R.B.I. Baseball 18
     *   MLB Home Run Derby
     *   MLB Line Drive
