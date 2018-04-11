@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 10 April 2018 ›
+*   LXD weekly status #42 ›
+*   Design and Web team summary – 10 April 2018 ›
 *   Ubuntu Bionic: Using chrony to configure NTP ›
 *   Canonical and CPLANE partner to simplify cloud management ›
-*   Cloud-init v.18.2: CLI subcommands ›
-*   The Nextcloud Box: a review of building an IoT device with snaps ›
-*   Git-to-k8s automation for on-prem container deployments ›
