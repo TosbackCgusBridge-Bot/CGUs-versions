@@ -100,7 +100,7 @@ United Kingdom (English) 
   
 United States (English) 
 
-United States (español) ​  
+United States (español)   
   
 Venezuela (español)   
   
