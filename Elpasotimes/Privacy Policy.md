@@ -1,4 +1,4 @@
-SUBSCRIBE NOW1st month FREE
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE NOW1st month FREE
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW1st month FREE
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSprouts opening third El Paso store in summerBusinessBorder wall work to begin near Santa Teresa, NMImmigrationEPPD closer to getting crisis intervention teamLocalDoor broken, whiskey stolen in Crime of the WeekCrimeHave you seen this week's most wanted fugitives?CrimeSlain Horizon City teen was wanted on warrantCrimeCelebrate Selena next weekend at Alamo DrafthouseEntertainmentEl Paso women made history, Esper-Martin saysOpinionSwimmers praise new Olympic-size pool on West SideLocalAlamo Roadshow comes to El Paso on MondayLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowChildren's Hospital warns public of scamLocalEl Paso County buys $73K boat to clean lakeLocalEx-UTEP, NMSU players plead guilty in bank fraudCrimePot robbery 'did not go like it was suppose to'CrimeSprouts opening third El Paso store in summerBusinessTwo airlines begin nonstop flights to ChicagoNewsWork on border fence near Santa Teresa beginsNewsMan, woman arrested for heroin during traffic stopCrimeEPPD closer to getting crisis intervention teamLocalBorder wall work to begin near Santa Teresa, NMImmigrationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,3 +142,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
