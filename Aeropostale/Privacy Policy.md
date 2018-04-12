@@ -21,8 +21,8 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Bottoms ) Bottoms
 *   Swim
-*   Dresses + Rompers
 
+*   Dresses + Rompers
 *   Jackets + Vests
 *   Shoes + Accessories
 *   Extended Sizes
@@ -358,7 +358,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**BUY 1 GET 2 FREE GRAPHICS TEES** **50-70% OFF + FREE SHIPPING OVER $75**
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **BUY 1 GET 2 FREE GRAPHICS TEES** **50-70% OFF + FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -408,8 +408,8 @@ Menu Find a Store Aeropostale
         *   Pants
         
     *   Swim
-    *   Dresses + Rompers
     
+    *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
     *   Extended Sizes
@@ -690,3 +690,23 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ...
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ...
