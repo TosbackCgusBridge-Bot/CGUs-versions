@@ -149,7 +149,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-Pinellas Park, FL71°
+Pinellas Park, FL66°
 
 1.  Home
 
