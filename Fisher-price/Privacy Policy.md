@@ -40,12 +40,12 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     *   Think &. Learn
     *   Loving Family™
     *   Power Wheels®
-    *   Bright Beats™
-    *   Shimmer and Shine™
-    
-    *   Disney
     *   MEGA BLOKS®
-    *   Grow-With-Me
+    *   Bright Beats™
+    
+    *   Jurassic World
+    *   Disney
+    *   Shimmer and Shine™
     *   Blaze and the Monster Machines™
     *   Bob the Builder™
     
@@ -53,7 +53,7 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     *   Octonauts™
     *   Alvin and the Chipmunks
     *   Barney &. Friends
-    *   Spinnyos™
+    *   Grow-With-Me
     
     See all
     
@@ -183,7 +183,6 @@ BRANDS
 *   Bright Beats
 *   Shimmer and Shine
 *   Mega Bloks Preschool
-*   Smart Toy
 *   Bob the Builder
 *   Disney
 
