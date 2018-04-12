@@ -242,7 +242,7 @@ The nostalgia is real and we’re all about these ‘90s brands.
         
         *   Women's Trends
         
-        *   90's Are Forever
+        *   '90s Are Forever
         *   Statement Sleeves
         *   Wide Leg
         *   Bright Whites
