@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Byron York_: Lots of Mueller Action, But What About Collusion?
+*   _Speaker Paul Ryan_: After 20 Years in Congress, It's Time to Move On
     
-*   _Adam Serwer_: Michael Cohen Has a Big Problem
+*   _Ben Domenech_: How Paul Ryan Went From Young Gun to Gone
     
-*   _Alan Dershowitz_: Targeting Trump's Lawyer Should Worry Us All
+*   _Arkin &. Huey-Burns_: Ryan's Exit Has GOP Grappling w/Midterm Impact
     
-*   _Frank Bruni_: Trump Seethes, and the Rest of Us Should Tremble
+*   _Mattathias Schwartz_: Zuckerberg's Dorm-Room Defense
     
-*   _Steve Cortes_: BET Founder Right to Credit Trump for Minority Gains
+*   _Robby Soave_: Cluelessness Won't Stop Senators From Regulating Facebook
     
-*   _David Faris_: Trump's Syrian Whiplash
+*   _Matt Ford_: Robert Mueller's Nuclear Option
     
-*   _Brandon Weichert_: Bomb Assad, But Bring the Boys Home
+*   _Ed Rogers_: Team Trump Should Stop Cooperating With Mueller
     
-*   _Melissa Quinn_: Justice Gorsuch Thrills Conservatives in First Year
+*   _Noga Tarnopolsky_: Israel Faces Blowback From Suspected Role in Syria
     
-*   _Emily Atkin_: Why Trump Has Scott Pruitt's Back
+*   _Roger L. Simon_: Trump Must Be the Strong Horse Now
     
-*   _Molly Ringwald_: Revisiting 'The Breakfast Club' in the Age of #MeToo
+*   _Ben Schreckinger_: Matt Gaetz: The Trumpiest Lawmaker in Trump's D.C.
     
-*   _Mark Hemingway_: What Molly Ringwald Gets Wrong About John Hughes
+*   _Barton Hinkle_: Now They're Coming for People's Knives. No, Really.
     
-*   _Harry Litman_: Trump's One-Night Stand Turns Into a Legal Nightmare
+*   _Dana Milbank_: Boy Billionaire Leaves Tough Stuff for Grown Ups
     
-*   _Melissa Mackenzie_: The Cohen Raid and Mueller Madness
+*   _Will Oremus_: Mark Zuckerberg 1, Congress 0
     
-*   _Franklin Foer_: Silicon Valley Falls to Earth
+*   _James Robbins_: Trump's Next Move on Syria Will Have a Big Impact
     
-*   _Rich Lowry_: Facebook Has Always Been One Big Swindle
+*   _Jonathan Schanzer_: How Putin's Folly Could Lead to a Middle East War
     
-*   _Philip Elliott_: How the Facebook Hearings Could Backfire
+*   _Matt Lewis_: Time to Give Trump Credit on Russia
     
-*   _Edwin Meese_: Gorsuch's First Year Is Anniversary Worth Celebrating
+*   _Jack Ma_: U.S.-China Trade War Will Kill Jobs, Opportunities &. Hope
     
-*   _Yuvraj Joshi_: Neil Gorsuch's Legacy Is Already Devastating
+*   _George Parry_: The Trap Mueller Laid for Trump
     
-*   _Victor Davis Hanson_: The Ideology of Illegal Immigration
+*   _Paul Waldman_: Could Cohen Raid Topple Trump?
     
-*   _Amanda Marcotte_: Trump's Border Troops Are Bad Political Theater
+*   _Ben Shapiro_: The Death of the FBI and DOJ
     
-*   _Curtis Ellis_: A Realistic, Coherent National Security Strategy
+*   _Josh Kraushaar_: Senate GOP Growing Anxious About Their Majority
     
-*   _Jonah Shepp_: Trump's Never Had a Coherent Syria Strategy
+*   _Paul Glastris_: Voter Registration Won't Save the Democrats
     
-*   _Hugh Hewitt_: GOP Is Playing Touch Football on Nominations. Time to Tackle
+*   _George Neumayr_: Defending Borders, Except Our Own
     
-*   _Richard Cohen_: Spineless Congress Plays to Basest Part of Its Base
+*   _Renee Graham_: At Bill Cosby Retrial, #MeToo Also on Trial
     
 
 *   Previous
@@ -254,10 +254,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Rick Scott Announces Senate Bid in Florida
-*   Trump Blasts Mueller Probe as "Attack on Our Country"
-*   Lynch on Calling Clinton Probe a "Matter": "Concerns Were Not Raised"
-*   I Am Sorry: Zuckerberg Faces Congressional Inquisition
+*   Trump: Get Ready Russia, Missiles "Will Be Coming" to Syria
+*   Speaker Paul Ryan Will Not Seek Re-Election in November
+*   Cruz Grills Zuckerberg Over Liberal Bias, Censoring Conservatives
+*   CEO Zuckerberg Apologizes for Facebook's Privacy Failures
 *   Introducing RealClearPolitics' Fact Check Review
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -273,26 +273,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve41
-    *   Disapprove52Disapprove +11
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve42
+    *   Disapprove53Disapprove +11
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve39
+    *   Disapprove58Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
-*   President Trump Job ApprovalGallup
-    *   Approve41
-    *   Disapprove54Disapprove +13
-*   Direction of CountryRasmussen Reports
-    *   Right Direction40
-    *   Wrong Track54Wrong Track +14
+    *   Approve49
+    *   Disapprove50Disapprove +1
+*   2018 Generic Congressional VoteRasmussen Reports
+    *   Democrats45
+    *   Republicans40Democrats +5
 
 More Latest Polls In The News
 
-*   Dershowitz: Mueller "Laundering Info To Another Prosecutorial Authority," Committing "Subterfuge"
-*   Zuckerberg to Cruz on Bias: Silicon Valley "Extremely Left-Leaning" Place, "I Understand" The Concern
-*   Noonan to Tim Kaine: Why Can't The U.S. Control Its Borders? Or Are We And No One Is Noticing?
-*   Tim Kaine: President Trump Does Not Have Any Legal Authority To Attack Syrian Government
-*   Axelrod to Tom Steyer: If Impeachment Becomes A Partisan Tool Then You Are Damaging Democracy
+*   Dershowitz: Can Manufacture Crimes Against Anybody, That's What's Wrong With The Special Counsel
+*   Tucker vs. Noah Rothman Accusing Him Of Defending Assad: "Self-Awareness Not Your Strong Suit"
+*   Newt Gingrich: Comey Is "Grandstanding And Making Money" With Book Deal, But Still Has Questions To Answer
+*   Greenwald: Does Anyone Really Think U.S. And Israeli Missiles Can Do Anything To Help The Syrian People?
+*   Speaker Paul Ryan Announces He Plans To Retire At End Of Term, Spend More Time With Family
 
 *   Politics
 *   Policy
