@@ -168,4 +168,5 @@ Last update August 15, 2015
 *   Australia
 *   New Zealand
 
-© Copyright 2018 Oodle Holdings, LLC. All rights reserved.
+© Copyright 2018 Oodle Holdings, LLC. All rights reserved.  
+×We're sorry! GoPostIt Classifieds is no longer available. But the site lives on here at Oodle.com.Close
