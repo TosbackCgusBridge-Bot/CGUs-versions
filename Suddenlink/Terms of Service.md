@@ -39,7 +39,7 @@ Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2
 
 Residential Services Agreement
 
-**Effective April 11, 2018**
+**Effective April 12, 2018**
 
 TERMS OF SERVICE APPLICABLE TO SERVICE(S):
 
