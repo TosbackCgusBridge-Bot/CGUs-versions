@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu available on IBM LinuxOne Rockhopper II ›
 *   Ubuntu Server development summary – 10 April 2018 ›
 *   LXD weekly status #42 ›
 *   Design and Web team summary – 10 April 2018 ›
 *   Ubuntu Bionic: Using chrony to configure NTP ›
-*   Canonical and CPLANE partner to simplify cloud management ›
