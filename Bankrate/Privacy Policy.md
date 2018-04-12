@@ -66,7 +66,7 @@
     *   Manage your credit
     
     Best Offers
-    *   Best credit cards of 2017
+    *   Best credit cards of 2018
     *   Best reward cards
     *   Best travel credit cards
     *   Best balance transfer credit cards
