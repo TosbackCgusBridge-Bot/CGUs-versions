@@ -54,6 +54,7 @@ We may share information about you as follows:
 *   If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of us or any third party.
 *   In connection with, or during negotiations of, any merger, sale of company assets, financing or transfer of all or a portion of our business to another company. and
 *   With your consent or at your direction.
+*   We allow UPS i-parcel, our e-commerce partner based in Edison, NJ, to obtain personal information for the purposes of facilitating ordering and shipping internationally. To find more information about UPS i-parcel’s privacy practices, see https://www.i-parcel.com/en/i-parcel-online-privacy-notice/ .
 
 We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
