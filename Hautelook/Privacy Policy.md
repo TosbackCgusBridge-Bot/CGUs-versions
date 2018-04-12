@@ -8,18 +8,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Lucky Brand Incl. Plus Up to 60% Off
-    *   Lucky Brand Men Up to 55% Off
-    *   Lucky Brand Swim Up to 50% Off
-    *   DRIFTER Up to 80% Off
-    *   Mario Badescu
-    *   Wow Couture
+    *   Balmain Sunglasses Up to 75% Off
+    *   NANETTE Nanette Lepore
+    *   Level 99
+    *   Fitflop
+    *   Spring Trend Report: Fresh Looks We Love
+    *   Haute Hippie
+    *   Retro Graphic Tees Starting at $10
+    *   Ale by Alessandra
+    *   Simone Herrera Sandals Up to 55% Off
+    *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
+    *   Blu Pepper
+    *   Franco Sarto Starting at $40
+    *   Made in Italy: Perla Formentini
+    *   Felina Lingerie
+    *   ZAC Zac Posen
+    *   On Trend: Leather Bracelets Starting at $15
+    *   Demeter Fragrance Library
+    *   All That Glitters: Violet Voss Sets &. More
+    *   Bijou Lashes Under $15
+    *   John Varvatos Star USA
+    *   Keds Men's Shoes at $20
+    *   Boga Up to 80% Off
+    *   Business Casual: Sport Coats Under $150
     *   Le Creuset
+    *   Free Shipping: Mother's Day Picnic Essentials
+    *   Free Shipping: Modern Rugs Up to 65% Off
+    *   Free Shipping: On-Trend Accent Furniture
+    *   Baby Aspen Gifts
+    *   Sozo
+    *   Rockabye
+    
+    *   Kids' Favorite Books from HarperCollins
     *   Free Shipping: Click &. Grow Smart Gardens
     *   Free Shipping: Dreamy Bedding Sets from $14
     *   Free Shipping: Luxe Faux Fur Accents
     *   Makeup Storage Essentials from $10
+    *   Lucky Brand Incl. Plus Up to 60% Off
+    *   Lucky Brand Men Up to 55% Off
+    *   Mario Badescu
+    *   Lucky Brand Swim Up to 50% Off
     *   Lucky Brand Handbags &. Jewelry Up to 50% Off
+    *   Wow Couture
+    *   DRIFTER Up to 80% Off
     *   Seychelles Starting at $40
     *   Restricted Under $40
     *   Eberjey &. In Bloom by Jonquil
@@ -38,42 +69,22 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Ted Baker London Up to 55% Off
     *   Ted Baker London Handbags Up to 50% Off
     *   Ted Baker London Shoes Up to 50% Off
+    
     *   Ted Baker London Men Up to 45% Off
     *   Ted Baker London Tailored Clothing Up to 45% Off
-    
     *   Ted Baker London Men's Shoes Up to 60% Off
-    *   MAC Cosmetics
     *   Ted Baker London Watches &. Sun Up to 50% Off
     *   Free Shipping: BergHOFF
-    *   Dance and Marvel
-    *   Dresses, Jumpsuits &. More Incl. Plus &. Petites
-    *   Circus by Sam Edelman Starting at $20
-    *   Whyte Eyelash
-    *   DSGN Yoga
-    *   Grey City
-    *   Mia Under $50
-    *   Cozy Chic: Sleep Separates &. More
-    *   All Eyes On Blue: Spring Denim Under $50
     *   ghd: good hair day, every day
     *   Ted Baker London Home Starting at $10
     *   Patio Ready: Lanterns, String Lights &. More
     *   Lacoste Kids' Shoes
     *   Petit Lem Pajamas Starting at $12
     *   Peppercorn Kids
-    *   Vertigo Up to 85% Off
-    *   Shoes Up to 65% Off
-    *   Jewelry Box Essentials Up to 80% Off
-    *   Sunday Steals: Styles Up to 70% Off
     *   Luxe Locks: Hair Tool Blowout
-    *   Vintage Addiction Up to 80% Off
-    *   Trend Jewelry Starting at $15
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Men's Final Few Up to 75% Off
     *   Men's Shoes Up to 75% Off
-    *   Citizen Eco-Drive Watches
-    *   Swarovski Jewelry &. Watches
-    *   Betsey Johnson Handbags &. Accessories
-    
     *   Original Penguin Sport Coats &. More
     *   Tommy Hilfiger Men's Outerwear
     *   Levinas Under $40
@@ -81,39 +92,43 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Born on the Water: Costa Del Mar Sunglasses
     *   NuvaLash Natural Lash &. Brow Enhancing Serum
     *   Jarv Tech Accessory Blowout
-    *   Rosie Pope Baby
-    *   aden + anais Starting at $10
-    *   Baby Shoes ft. Jack &. Lily
-    *   Maternity Must-Haves
     *   Korean Beauty: Skin 79 &. Urban DollKiss
     *   Best Tressed: Remy Hair Extensions
-    *   Andrew Christian
-    *   Berto Romani Under $30
-    *   Swims Up to 55% Off
-    *   Delsey Luggage Up to 70% Off
     *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Designer Art Prints Up to 75% Off
-    *   Amaxy Hair Tools from $10
-    *   My Magic Mud Oral Care from $10
     *   Free Shipping: Portable Steamers &. More
     *   Poo-Pourri Bathroom Scents
     *   Free Shipping: Farmhouse-Inspired Decor from $15
     *   Daily Essentials: Bottles, Tech Pouches &. More
-    *   Free Shipping: Chic Beach Tents &. Towels
-    *   Free Shipping: Beach Towels from $10
-    *   Free Shipping: Art for Every Space Up to 65% Off
-    *   Catherine Catherine Malandrino &. More
-    *   BCBGMAXAZRIA
-    *   French Connection
 *   WomenShop Sale Events
     
-    *   Lucky Brand Incl. Plus Up to 60% Off
-    *   Lucky Brand Swim Up to 50% Off
-    *   DRIFTER Up to 80% Off
-    *   Mario Badescu
-    *   Wow Couture
+    *   Balmain Sunglasses Up to 75% Off
+    *   NANETTE Nanette Lepore
+    *   Level 99
+    *   Fitflop
+    *   Spring Trend Report: Fresh Looks We Love
+    *   Haute Hippie
+    *   Retro Graphic Tees Starting at $10
+    *   Ale by Alessandra
+    *   Simone Herrera Sandals Up to 55% Off
+    *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
+    *   Blu Pepper
+    *   Franco Sarto Starting at $40
+    *   Made in Italy: Perla Formentini
+    *   Felina Lingerie
+    *   ZAC Zac Posen
+    *   On Trend: Leather Bracelets Starting at $15
+    *   Demeter Fragrance Library
+    *   All That Glitters: Violet Voss Sets &. More
+    *   Bijou Lashes Under $15
     *   Makeup Storage Essentials from $10
+    *   Lucky Brand Incl. Plus Up to 60% Off
+    *   Mario Badescu
+    
+    *   Lucky Brand Swim Up to 50% Off
     *   Lucky Brand Handbags &. Jewelry Up to 50% Off
+    *   Wow Couture
+    *   DRIFTER Up to 80% Off
     *   Seychelles Starting at $40
     *   Restricted Under $40
     *   Eberjey &. In Bloom by Jonquil
@@ -126,71 +141,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Ted Baker London Up to 55% Off
     *   Ted Baker London Handbags Up to 50% Off
     *   Ted Baker London Shoes Up to 50% Off
-    *   MAC Cosmetics
     *   Ted Baker London Watches &. Sun Up to 50% Off
-    *   Dance and Marvel
-    *   Dresses, Jumpsuits &. More Incl. Plus &. Petites
-    *   Circus by Sam Edelman Starting at $20
-    *   Whyte Eyelash
-    
-    *   DSGN Yoga
-    *   Grey City
-    *   Mia Under $50
-    *   Cozy Chic: Sleep Separates &. More
-    *   All Eyes On Blue: Spring Denim Under $50
     *   ghd: good hair day, every day
-    *   Vertigo Up to 85% Off
-    *   Shoes Up to 65% Off
-    *   Jewelry Box Essentials Up to 80% Off
-    *   Sunday Steals: Styles Up to 70% Off
     *   Luxe Locks: Hair Tool Blowout
-    *   Vintage Addiction Up to 80% Off
-    *   Trend Jewelry Starting at $15
-    *   Citizen Eco-Drive Watches
-    *   Swarovski Jewelry &. Watches
-    *   Betsey Johnson Handbags &. Accessories
     *   NuvaLash Natural Lash &. Brow Enhancing Serum
-    *   Maternity Must-Haves
     *   Korean Beauty: Skin 79 &. Urban DollKiss
     *   Best Tressed: Remy Hair Extensions
-    *   Amaxy Hair Tools from $10
-    *   My Magic Mud Oral Care from $10
-    *   Catherine Catherine Malandrino &. More
-    *   BCBGMAXAZRIA
-    *   French Connection
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
-    *   Handbags
+    *   Jewelry
     *   Lingerie
     *   Tech Accessories
-    *   Watches
+    *   Handbags
     *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   John Varvatos Star USA
+    *   Keds Men's Shoes at $20
+    *   Boga Up to 80% Off
+    *   Business Casual: Sport Coats Under $150
     *   Lucky Brand Men Up to 55% Off
     *   Clarks Men
     *   Spring Favorite: Men's Suede Shoes
     *   Backpacks for the Family: JanSport &. More
     *   Ted Baker London Men Up to 45% Off
     *   Ted Baker London Tailored Clothing Up to 45% Off
+    
     *   Ted Baker London Men's Shoes Up to 60% Off
     *   Ted Baker London Watches &. Sun Up to 50% Off
     *   Men's Final Few Up to 75% Off
     *   Men's Shoes Up to 75% Off
-    
-    *   Citizen Eco-Drive Watches
     *   Original Penguin Sport Coats &. More
     *   Tommy Hilfiger Men's Outerwear
     *   Levinas Under $40
     *   Robert Graham Shoes Up to 50% Off
     *   Born on the Water: Costa Del Mar Sunglasses
-    *   Andrew Christian
-    *   Berto Romani Under $30
-    *   Swims Up to 55% Off
-    *   Delsey Luggage Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -199,80 +187,83 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Baby Aspen Gifts
+    *   Sozo
+    *   Rockabye
+    *   Kids' Favorite Books from HarperCollins
     *   Jessica Simpson Baby &. Girls
     *   Floatimini Girls' Swim
+    
     *   Jessica Simpson Girls' Shoes
     *   Lucky Brand Kids &. More
     *   Backpacks for the Family: JanSport &. More
     *   Lacoste Kids' Shoes
-    
     *   Petit Lem Pajamas Starting at $12
     *   Peppercorn Kids
-    *   Rosie Pope Baby
-    *   aden + anais Starting at $10
-    *   Baby Shoes ft. Jack &. Lily
-    *   Maternity Must-Haves
     
     Shop By Category
+    *   Toys
     *   Girls Sizes 2T-6X
     *   Kids Accessories
     *   Girls Sizes 7-16
-    *   Boys Sizes 8-20
     *   Baby Girl
-    *   Girls' Shoes
-    *   Boys Sizes 2T-7
+    *   Boys Sizes 8-20
     *   Baby Gear &. Essentials
-    *   Boys' Shoes
     *   Baby Boy
+    *   Boys Sizes 2T-7
+    *   Girls' Shoes
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
     *   Le Creuset
+    *   Free Shipping: Mother's Day Picnic Essentials
+    *   Free Shipping: Modern Rugs Up to 65% Off
+    *   Free Shipping: On-Trend Accent Furniture
     *   Free Shipping: Click &. Grow Smart Gardens
     *   Free Shipping: Dreamy Bedding Sets from $14
     *   Free Shipping: Luxe Faux Fur Accents
     *   Makeup Storage Essentials from $10
     *   Free Shipping: BergHOFF
     *   Ted Baker London Home Starting at $10
+    
     *   Patio Ready: Lanterns, String Lights &. More
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Jarv Tech Accessory Blowout
-    
     *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Designer Art Prints Up to 75% Off
     *   Free Shipping: Portable Steamers &. More
     *   Poo-Pourri Bathroom Scents
     *   Free Shipping: Farmhouse-Inspired Decor from $15
     *   Daily Essentials: Bottles, Tech Pouches &. More
-    *   Free Shipping: Chic Beach Tents &. Towels
-    *   Free Shipping: Beach Towels from $10
-    *   Free Shipping: Art for Every Space Up to 65% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Bath
-    *   Luggage &. Travel
+    *   Accent Furniture
     *   Organization
     *   Outdoor Living
+    *   Luggage &. Travel
     *   Rugs
+    *   Bath
 *   BeautyShop Sale Events
     
-    *   Mario Badescu
+    *   Demeter Fragrance Library
+    *   All That Glitters: Violet Voss Sets &. More
+    *   Bijou Lashes Under $15
     *   Makeup Storage Essentials from $10
-    *   MAC Cosmetics
+    *   Mario Badescu
     *   ghd: good hair day, every day
     *   Luxe Locks: Hair Tool Blowout
     *   NuvaLash Natural Lash &. Brow Enhancing Serum
     *   Korean Beauty: Skin 79 &. Urban DollKiss
     *   Best Tressed: Remy Hair Extensions
-    *   Amaxy Hair Tools from $10
-    *   My Magic Mud Oral Care from $10
     
     Shop By Category
     *   Hair Care
     *   Makeup
     *   Skin Care
+    *   Fragrance
     *   Tools &. Accessories
     *   Bath &. Body
     *   Nails
