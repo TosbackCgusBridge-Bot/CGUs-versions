@@ -401,11 +401,12 @@ Flash Sale Live Now! 
 
 Save up to $550 off on select premium, game-ready, lightening-fast gaming machines and accessories. Limited Time Only. Sale ends April 15
 
-TAB 4 10 PLUS ADDS IT ALL
+Lenovo Explorer Headset
 
-Super sound. Separate user accounts. And simply dazzling visuals.
+Immersive Headset for Windows Mixed Reality
 
-Awaken your inner Jedi with a new smartphone-powered augmented reality experience.
+ThinkSmart Hub 500  
+The Smarter Way to Collaborate
 
 LAPTOPS
 
@@ -439,7 +440,7 @@ STAY CONNECTED
 
 *   Facebook
 *   Twitter
-*   Google+
+*   Instagram
 *   YouTube
 *   Pinterest
 *   Flickr
