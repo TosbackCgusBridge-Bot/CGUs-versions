@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 19%  19%  19%  19%  Arrest Records &. Driving Infractions
+What is PeekScore? Public Records &. Background Checks 22%  22%  22%  22%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -107,7 +107,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 9% 
+Facebook 13% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -167,7 +167,7 @@ Facebook 9% 
     
 *   Show Less ...
 
-Twitter 9% 
+Twitter 13% 
 
 *   FDA Drug Information - FDA\_Drug\_Info
     
@@ -213,7 +213,7 @@ Twitter 9% 
     
 *   Show Less ...
 
-Instagram 9% 
+Instagram 13% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -277,7 +277,7 @@ Instagram 9% 
     
 *   Show Less ...
 
-Pinterest 19%  Wikipedia 9% 
+Pinterest 22%  Wikipedia 13% 
 
 *   P3P
     
@@ -288,7 +288,7 @@ Pinterest 19%  Wikipedia 9% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 19%  Linkedin 19%  Music 9% 
+Google+ 22%  Linkedin 22%  Music 13% 
 
 *   Pandora
     
@@ -334,7 +334,7 @@ Google+ 19%  Linkedin 19%  Music 9% 
     
 *   Show Less ...
 
-Photo Albums 9% 
+Photo Albums 13% 
 
 *   Flickriver
     
@@ -345,7 +345,7 @@ Photo Albums 9% 
     Flickr (pronounced "flicker") is an image-and video-hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on 20 March 2005 ...
     
 
-Myspace 9% 
+Myspace 13% 
 
 *   Privacy Policy - 49086242
     
@@ -369,7 +369,7 @@ Myspace 9% 
     
 *   Show Less ...
 
-Web Search 19%  Images 9% 
+Web Search 22%  Images 13% 
 
 9
 
