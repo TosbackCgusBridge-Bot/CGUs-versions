@@ -8,19 +8,43 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Balmain Sunglasses Up to 75% Off
+    *   alice + olivia by Stacey Bendet Up to 60% Off
+    *   Sanctuary Including Petites
+    *   Via Spiga
+    *   Forgotten Grace Under $30
+    *   Isaac Mizrahi Boys &. More
+    *   Cuisinart
+    *   Cia.Maritima Swim Up to 70% Off
+    *   Luxury Watches Up to 65% Off
+    *   Katy Perry Starting at $40
+    *   Sky
+    *   Wardrobe Essentials: Black &. White Styles Under $50
+    *   Gorjana Jewelry Up to 60% Off
+    *   Scotch &. Soda
+    *   Rip Curl Under $35
+    *   Thale Blanc Handbags Up to 70% Off
+    *   truewhite Teeth Whitening
+    *   Ben Sherman Shoes Up to 65% Off
+    *   Calpak Luggage &. Travel Essentials
+    *   Dress Socks ft. Lorenzo Uomo
+    *   Dynamic Innovation Labs Skin Care from $10
+    *   MIA Shoes for Girls
+    *   Splendid Kids
+    *   14K Gold Jewelry &. More Starting at $25
+    *   Australia Luxe Collective
+    *   Rock &. Candy and Zigi Under $40
+    *   Chic Charm: Dinnerware, Wall Art &. More
+    *   Haute Hippie
+    *   Ale by Alessandra
+    *   Fitflop
+    
     *   NANETTE Nanette Lepore
     *   Level 99
-    *   Fitflop
-    *   Spring Trend Report: Fresh Looks We Love
-    *   Haute Hippie
-    *   Retro Graphic Tees Starting at $10
-    *   Ale by Alessandra
-    *   Simone Herrera Sandals Up to 55% Off
     *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
     *   Blu Pepper
     *   Franco Sarto Starting at $40
     *   Made in Italy: Perla Formentini
+    *   Spring Trend Report: Fresh Looks We Love
     *   Felina Lingerie
     *   ZAC Zac Posen
     *   On Trend: Leather Bracelets Starting at $15
@@ -38,9 +62,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Baby Aspen Gifts
     *   Sozo
     *   Rockabye
-    
     *   Kids' Favorite Books from HarperCollins
+    *   Balmain Sunglasses Up to 75% Off
+    *   Simone Herrera Sandals Up to 55% Off
+    *   Retro Graphic Tees Starting at $10
     *   Free Shipping: Click &. Grow Smart Gardens
+    
     *   Free Shipping: Dreamy Bedding Sets from $14
     *   Free Shipping: Luxe Faux Fur Accents
     *   Makeup Storage Essentials from $10
@@ -49,115 +76,96 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Mario Badescu
     *   Lucky Brand Swim Up to 50% Off
     *   Lucky Brand Handbags &. Jewelry Up to 50% Off
-    *   Wow Couture
-    *   DRIFTER Up to 80% Off
-    *   Seychelles Starting at $40
-    *   Restricted Under $40
-    *   Eberjey &. In Bloom by Jonquil
-    *   Anama
-    *   Henry Ferrera Rain Boots, Slides &. More from $20
     *   Free Shipping: Italian Sterling Silver from $15
-    *   Badgley Mischka Sport Up to 80% Off
-    *   Casual Cool: Spring Styles ft. H By Bordeaux
     *   Clarks Men
     *   Spring Favorite: Men's Suede Shoes
     *   Jessica Simpson Baby &. Girls
     *   Floatimini Girls' Swim
     *   Jessica Simpson Girls' Shoes
     *   Lucky Brand Kids &. More
-    *   Backpacks for the Family: JanSport &. More
-    *   Ted Baker London Up to 55% Off
-    *   Ted Baker London Handbags Up to 50% Off
-    *   Ted Baker London Shoes Up to 50% Off
-    
-    *   Ted Baker London Men Up to 45% Off
-    *   Ted Baker London Tailored Clothing Up to 45% Off
-    *   Ted Baker London Men's Shoes Up to 60% Off
-    *   Ted Baker London Watches &. Sun Up to 50% Off
     *   Free Shipping: BergHOFF
     *   ghd: good hair day, every day
     *   Ted Baker London Home Starting at $10
     *   Patio Ready: Lanterns, String Lights &. More
-    *   Lacoste Kids' Shoes
-    *   Petit Lem Pajamas Starting at $12
-    *   Peppercorn Kids
     *   Luxe Locks: Hair Tool Blowout
     *   Free Shipping: Amrapur Bedding Up to 80% Off
-    *   Men's Final Few Up to 75% Off
-    *   Men's Shoes Up to 75% Off
-    *   Original Penguin Sport Coats &. More
-    *   Tommy Hilfiger Men's Outerwear
-    *   Levinas Under $40
-    *   Robert Graham Shoes Up to 50% Off
-    *   Born on the Water: Costa Del Mar Sunglasses
     *   NuvaLash Natural Lash &. Brow Enhancing Serum
     *   Jarv Tech Accessory Blowout
-    *   Korean Beauty: Skin 79 &. Urban DollKiss
-    *   Best Tressed: Remy Hair Extensions
     *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Designer Art Prints Up to 75% Off
     *   Free Shipping: Portable Steamers &. More
     *   Poo-Pourri Bathroom Scents
-    *   Free Shipping: Farmhouse-Inspired Decor from $15
-    *   Daily Essentials: Bottles, Tech Pouches &. More
+    *   Wow Couture
+    *   DRIFTER Up to 80% Off
 *   WomenShop Sale Events
     
-    *   Balmain Sunglasses Up to 75% Off
+    *   alice + olivia by Stacey Bendet Up to 60% Off
+    *   Sanctuary Including Petites
+    *   Via Spiga
+    *   Forgotten Grace Under $30
+    *   Cia.Maritima Swim Up to 70% Off
+    *   Luxury Watches Up to 65% Off
+    *   Katy Perry Starting at $40
+    *   Sky
+    *   Wardrobe Essentials: Black &. White Styles Under $50
+    *   Gorjana Jewelry Up to 60% Off
+    *   Thale Blanc Handbags Up to 70% Off
+    *   truewhite Teeth Whitening
+    *   Calpak Luggage &. Travel Essentials
+    *   Dynamic Innovation Labs Skin Care from $10
+    *   14K Gold Jewelry &. More Starting at $25
+    *   Australia Luxe Collective
+    *   Rock &. Candy and Zigi Under $40
+    *   Haute Hippie
+    *   Ale by Alessandra
+    *   Fitflop
     *   NANETTE Nanette Lepore
     *   Level 99
-    *   Fitflop
-    *   Spring Trend Report: Fresh Looks We Love
-    *   Haute Hippie
-    *   Retro Graphic Tees Starting at $10
-    *   Ale by Alessandra
-    *   Simone Herrera Sandals Up to 55% Off
     *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
     *   Blu Pepper
+    
     *   Franco Sarto Starting at $40
     *   Made in Italy: Perla Formentini
+    *   Spring Trend Report: Fresh Looks We Love
     *   Felina Lingerie
     *   ZAC Zac Posen
     *   On Trend: Leather Bracelets Starting at $15
     *   Demeter Fragrance Library
     *   All That Glitters: Violet Voss Sets &. More
     *   Bijou Lashes Under $15
+    *   Balmain Sunglasses Up to 75% Off
+    *   Simone Herrera Sandals Up to 55% Off
+    *   Retro Graphic Tees Starting at $10
     *   Makeup Storage Essentials from $10
     *   Lucky Brand Incl. Plus Up to 60% Off
     *   Mario Badescu
-    
     *   Lucky Brand Swim Up to 50% Off
     *   Lucky Brand Handbags &. Jewelry Up to 50% Off
-    *   Wow Couture
-    *   DRIFTER Up to 80% Off
-    *   Seychelles Starting at $40
-    *   Restricted Under $40
-    *   Eberjey &. In Bloom by Jonquil
-    *   Anama
-    *   Henry Ferrera Rain Boots, Slides &. More from $20
     *   Free Shipping: Italian Sterling Silver from $15
-    *   Badgley Mischka Sport Up to 80% Off
-    *   Casual Cool: Spring Styles ft. H By Bordeaux
-    *   Backpacks for the Family: JanSport &. More
-    *   Ted Baker London Up to 55% Off
-    *   Ted Baker London Handbags Up to 50% Off
-    *   Ted Baker London Shoes Up to 50% Off
-    *   Ted Baker London Watches &. Sun Up to 50% Off
     *   ghd: good hair day, every day
     *   Luxe Locks: Hair Tool Blowout
     *   NuvaLash Natural Lash &. Brow Enhancing Serum
-    *   Korean Beauty: Skin 79 &. Urban DollKiss
-    *   Best Tressed: Remy Hair Extensions
+    *   Wow Couture
+    *   DRIFTER Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
+    *   Handbags
     *   Lingerie
     *   Tech Accessories
-    *   Handbags
     *   Accessories
     *   Watches
 *   MenShop Sale Events
+    
+    *   Luxury Watches Up to 65% Off
+    *   Scotch &. Soda
+    *   Rip Curl Under $35
+    *   truewhite Teeth Whitening
+    *   Ben Sherman Shoes Up to 65% Off
+    *   Calpak Luggage &. Travel Essentials
+    *   Dress Socks ft. Lorenzo Uomo
     
     *   John Varvatos Star USA
     *   Keds Men's Shoes at $20
@@ -166,55 +174,41 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Lucky Brand Men Up to 55% Off
     *   Clarks Men
     *   Spring Favorite: Men's Suede Shoes
-    *   Backpacks for the Family: JanSport &. More
-    *   Ted Baker London Men Up to 45% Off
-    *   Ted Baker London Tailored Clothing Up to 45% Off
-    
-    *   Ted Baker London Men's Shoes Up to 60% Off
-    *   Ted Baker London Watches &. Sun Up to 50% Off
-    *   Men's Final Few Up to 75% Off
-    *   Men's Shoes Up to 75% Off
-    *   Original Penguin Sport Coats &. More
-    *   Tommy Hilfiger Men's Outerwear
-    *   Levinas Under $40
-    *   Robert Graham Shoes Up to 50% Off
-    *   Born on the Water: Costa Del Mar Sunglasses
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Isaac Mizrahi Boys &. More
+    *   MIA Shoes for Girls
+    *   Splendid Kids
     *   Baby Aspen Gifts
     *   Sozo
     *   Rockabye
+    
     *   Kids' Favorite Books from HarperCollins
     *   Jessica Simpson Baby &. Girls
     *   Floatimini Girls' Swim
-    
     *   Jessica Simpson Girls' Shoes
     *   Lucky Brand Kids &. More
-    *   Backpacks for the Family: JanSport &. More
-    *   Lacoste Kids' Shoes
-    *   Petit Lem Pajamas Starting at $12
-    *   Peppercorn Kids
     
     Shop By Category
     *   Toys
-    *   Girls Sizes 2T-6X
-    *   Kids Accessories
-    *   Girls Sizes 7-16
-    *   Baby Girl
-    *   Boys Sizes 8-20
-    *   Baby Gear &. Essentials
-    *   Baby Boy
     *   Boys Sizes 2T-7
+    *   Girls Sizes 2T-6X
+    *   Boys Sizes 8-20
+    *   Baby Girl
+    *   Girls Sizes 7-16
+    *   Baby Gear &. Essentials
+    *   Kids Accessories
+    *   Baby Boy
     *   Girls' Shoes
-    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Cuisinart
+    *   Chic Charm: Dinnerware, Wall Art &. More
     *   Le Creuset
     *   Free Shipping: Mother's Day Picnic Essentials
     *   Free Shipping: Modern Rugs Up to 65% Off
@@ -223,9 +217,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Dreamy Bedding Sets from $14
     *   Free Shipping: Luxe Faux Fur Accents
     *   Makeup Storage Essentials from $10
+    
     *   Free Shipping: BergHOFF
     *   Ted Baker London Home Starting at $10
-    
     *   Patio Ready: Lanterns, String Lights &. More
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Jarv Tech Accessory Blowout
@@ -233,8 +227,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Designer Art Prints Up to 75% Off
     *   Free Shipping: Portable Steamers &. More
     *   Poo-Pourri Bathroom Scents
-    *   Free Shipping: Farmhouse-Inspired Decor from $15
-    *   Daily Essentials: Bottles, Tech Pouches &. More
     
     Shop By Category
     *   Home Decor
@@ -248,6 +240,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bath
 *   BeautyShop Sale Events
     
+    *   truewhite Teeth Whitening
+    *   Dynamic Innovation Labs Skin Care from $10
     *   Demeter Fragrance Library
     *   All That Glitters: Violet Voss Sets &. More
     *   Bijou Lashes Under $15
@@ -256,13 +250,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   ghd: good hair day, every day
     *   Luxe Locks: Hair Tool Blowout
     *   NuvaLash Natural Lash &. Brow Enhancing Serum
-    *   Korean Beauty: Skin 79 &. Urban DollKiss
-    *   Best Tressed: Remy Hair Extensions
     
     Shop By Category
+    *   Skin Care
     *   Hair Care
     *   Makeup
-    *   Skin Care
     *   Fragrance
     *   Tools &. Accessories
     *   Bath &. Body
