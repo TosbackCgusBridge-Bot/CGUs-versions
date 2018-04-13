@@ -11,7 +11,6 @@ Menu Close Menu Close
         *   Thinkpad Laptops Thinkpad Laptops Enterprise-level performance. Premium reliability.
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
         *   Ideapad Laptops Ideapad Laptops From gamers to students to first-time owners, there's one for everybody.
-        *   Student Laptops Student Laptops Innovative design, responsive performance
         *   2-in-1 PCs 2-in-1 PCs Multimedia tablets with multiple modes, including Stand, Hold, and Hang.
         *   Gaming Laptops
         *   Chromebooks Chromebooks
@@ -23,8 +22,6 @@ Menu Close Menu Close
         *   *   Explore Yoga
             
         *   *   Explore Ideapad
-            
-        *   *   Explore Lenovo
             
         *   *   Explore all 2-in-1s
             
@@ -57,10 +54,6 @@ Menu Close Menu Close
                 Laptops and 2-in-1s.
                 
                 Learn more about the IdeaPad family >.
-        
-        *   *   Innovative design, responsive performance.
-                
-                Learn more about the Student laptops >.
         
         *   *   Detachable 2-in-1s.  
                 Great for work &. play.  
@@ -366,9 +359,9 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Ultralight. Ultrapowerful. Ultra-no-brainer.
+Built to perform. Engineered to endure.
 
-Shop ThinkPad X1 Carbon >.
+Now available!
 
 For those who set—not follow—trends.  
 With 8th Gen Intel® Core® i7 power in polished frames and premium audio-visuals.
@@ -399,7 +392,7 @@ Explore how Lenovo can be your small business partner.
 
 Flash Sale Live Now! 
 
-Save up to $550 off on select premium, game-ready, lightening-fast gaming machines and accessories. Limited Time Only. Sale ends April 15
+Save up to $650 off on select premium, game-ready, lightening-fast gaming machines and accessories. Limited Time Only. Sale ends April 15
 
 Lenovo Explorer Headset
 
@@ -516,9 +509,7 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new window
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
