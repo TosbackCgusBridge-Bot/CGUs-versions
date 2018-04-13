@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Speaker Paul Ryan_: After 20 Years in Congress, It's Time to Move On
+*   _Albert Hunt_: Falling Star: Why Paul Ryan Had to Bow Out
     
-*   _Ben Domenech_: How Paul Ryan Went From Young Gun to Gone
+*   _Karl Rove_: Paul Ryan's Departure Is a Pity
     
-*   _Arkin &. Huey-Burns_: Ryan's Exit Has GOP Grappling w/Midterm Impact
+*   _Christopher Buskirk_: Good Riddance: Ryan's Exit Will Help Republicans
     
-*   _Mattathias Schwartz_: Zuckerberg's Dorm-Room Defense
+*   _W.J. Hennigan_: Can U.S. Deter War Crimes Without Going to War With Syria?
     
-*   _Robby Soave_: Cluelessness Won't Stop Senators From Regulating Facebook
+*   _Tom Rogan_: Bolton's Complex Worldview Is a Good Fit With Trump
     
-*   _Matt Ford_: Robert Mueller's Nuclear Option
+*   _Richard Ben-Veniste_: Trump Is Going Full Nixon on Mueller
     
-*   _Ed Rogers_: Team Trump Should Stop Cooperating With Mueller
+*   _Rush Limbaugh_: If You Want to End This, Mr. President, Start Pardoning
     
-*   _Noga Tarnopolsky_: Israel Faces Blowback From Suspected Role in Syria
+*   _Becket Adams_: The 2016 Election Broke Some People in Media
     
-*   _Roger L. Simon_: Trump Must Be the Strong Horse Now
+*   _Renato Mariotti_: Why Trump Is Panicking
     
-*   _Ben Schreckinger_: Matt Gaetz: The Trumpiest Lawmaker in Trump's D.C.
+*   _Susan Fowler_: One Easy Answer for Where #MeToo Goes Next
     
-*   _Barton Hinkle_: Now They're Coming for People's Knives. No, Really.
+*   _Deanna Falchook_: I Was a Disney Princess, Had an Abortion, and I Regret It
     
-*   _Dana Milbank_: Boy Billionaire Leaves Tough Stuff for Grown Ups
+*   _Martin &. Burns_: Speaker's Exit Fuels Republican Midterm Fears
     
-*   _Will Oremus_: Mark Zuckerberg 1, Congress 0
+*   _Jake Sherman_: Why Ryan Called It Quits
     
-*   _James Robbins_: Trump's Next Move on Syria Will Have a Big Impact
+*   _Michael Steel_: Cheer Up, Republicans: Ryan's Exit Has a Silver Lining
     
-*   _Jonathan Schanzer_: How Putin's Folly Could Lead to a Middle East War
+*   _Charles Blow_: Signs of a Political Armageddon
     
-*   _Matt Lewis_: Time to Give Trump Credit on Russia
+*   _Roger Kimball_: The Trump Resistance Is the Greatest Show in Town
     
-*   _Jack Ma_: U.S.-China Trade War Will Kill Jobs, Opportunities &. Hope
+*   _E.J. Dionne_: Ryan Is the Personification of Conservatism's Decline
     
-*   _George Parry_: The Trap Mueller Laid for Trump
+*   _John Tierney_: Scott Pruitt, Warrior for Science
     
-*   _Paul Waldman_: Could Cohen Raid Topple Trump?
+*   _Emily Atkin_: Undoing American Climate Diplomacy
     
-*   _Ben Shapiro_: The Death of the FBI and DOJ
+*   _Carl Cannon_: High Tech and Government: A Culture Clash
     
-*   _Josh Kraushaar_: Senate GOP Growing Anxious About Their Majority
+*   _Conrad Black_: Trump Rises in the Polls Amid Foreign Policy Challenges
     
-*   _Paul Glastris_: Voter Registration Won't Save the Democrats
+*   _Peter Beinart_: Trump's Dangerous Threat of War
     
-*   _George Neumayr_: Defending Borders, Except Our Own
+*   _Elaine Kamarck_: The Fragile Legacy of Barack Obama
     
-*   _Renee Graham_: At Bill Cosby Retrial, #MeToo Also on Trial
+*   _Ashley McGuire_: Women's March and Backpage.com: A Sordid Story
     
 
 *   Previous
@@ -254,10 +254,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump: Get Ready Russia, Missiles "Will Be Coming" to Syria
-*   Speaker Paul Ryan Will Not Seek Re-Election in November
-*   Cruz Grills Zuckerberg Over Liberal Bias, Censoring Conservatives
-*   CEO Zuckerberg Apologizes for Facebook's Privacy Failures
+*   With Ryan's Exit, Republicans May Shift Resources to Senate
+*   Ryan's Retirement Has Republicans Grappling With Midterm Impact
+*   ABC Promo Suggests Comey Compares Trump to a Mob Boss
+*   High Tech and Government: A Culture Clash
 *   Introducing RealClearPolitics' Fact Check Review
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -273,18 +273,18 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Missouri Senate - Hawley vs. McCaskillMason-Dixon
+    *   Hawley44
+    *   McCaskill45McCaskill +1
+*   New Jersey Senate - Hugin vs. MenendezMonmouth
+    *   Menendez53
+    *   Hugin32Menendez +21
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove49Approve +1
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve42
     *   Disapprove53Disapprove +11
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve39
-    *   Disapprove58Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
-*   2018 Generic Congressional VoteRasmussen Reports
-    *   Democrats45
-    *   Republicans40Democrats +5
 
 More Latest Polls In The News
 
