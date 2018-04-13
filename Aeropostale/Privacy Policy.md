@@ -37,7 +37,8 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   Sabrina for Aero
-*   T-Shirt Riot
+*   Buy 1 Get 2 Free Tees
+*   Buy 1 Get 1 Accessories
 *   6 for $18 Undies
 *   2 for $8 Undies
 *   Create Your Suit for $20
@@ -79,15 +80,15 @@ Close submenu ( Guys ) Guys
 
 *   View Home
 *   Open submenu ( Featured ) Featured
-*   Clearance
 
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
+
 *   Jackets + Vests
 *   Accessories
-
 *   Underwear
+*   Clearance
 *   Big + Tall
 *   Trending
 
@@ -95,8 +96,8 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   T-Shirt Riot
-*   Buy 1 Get 2 Free
+*   Buy 1 Get 2 Tees + Polos
+*   Buy 1 Get 2 Accessories
 *   Denim Guide
 *   Logo Shop
 *   Active
@@ -142,7 +143,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Skinny
 *   Ankle Straight
 *   Bootcut
-*   Wide Leg
 *   Boyfriend
 *   Cheeky
 *   Overalls
@@ -216,7 +216,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 
 *   View Home
 *   Open submenu ( Featured ) Featured
-*   Clearance
 
 *   Open submenu ( Tops ) Tops
 
@@ -227,6 +226,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Undies
 *   Swim
 *   Accessories
+*   Clearance
 *   Trending
 
 Close submenu ( Featured ) Featured
@@ -358,7 +358,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **BUY 1 GET 2 FREE GRAPHICS TEES** **50-70% OFF + FREE SHIPPING OVER $75**
+**BUY 1 GET 2 FREE SELECT TOPS** **50-70% OFF + FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -371,7 +371,8 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Sabrina for Aero
-        *   T-Shirt Riot
+        *   Buy 1 Get 2 Free Tees
+        *   Buy 1 Get 1 Accessories
         *   6 for $18 Undies
         *   2 for $8 Undies
         *   Create Your Suit for $20
@@ -425,8 +426,8 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   T-Shirt Riot
-        *   Buy 1 Get 2 Free
+        *   Buy 1 Get 2 Tees + Polos
+        *   Buy 1 Get 2 Accessories
         *   Denim Guide
         *   Logo Shop
         *   Active
@@ -434,7 +435,6 @@ Menu Find a Store Aeropostale
         *   Tanks + Swim Shop
         *   Online Only
         *   Uniform
-    *   Clearance
     
     *   Tops
         *   View All
@@ -455,10 +455,11 @@ Menu Find a Store Aeropostale
         *   Pants
         *   Joggers + Sweats
         
+    
     *   Jackets + Vests
     *   Accessories
-    
     *   Underwear
+    *   Clearance
     *   Big + Tall
     *   Trending
     
@@ -474,7 +475,6 @@ Menu Find a Store Aeropostale
         *   Skinny
         *   Ankle Straight
         *   Bootcut
-        *   Wide Leg
         *   Boyfriend
         *   Cheeky
         *   Overalls
@@ -541,7 +541,6 @@ Menu Find a Store Aeropostale
         *   Sleep
         *   Intimates
         *   Swim
-    *   Clearance
     
     *   Tops
         *   View All
@@ -564,6 +563,7 @@ Menu Find a Store Aeropostale
     *   Undies
     *   Swim
     *   Accessories
+    *   Clearance
     *   Trending
     
 *   Trending
@@ -654,7 +654,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop The Collection Watch the Video Shop Girls Shorts Shop Guys Shorts Shop Lounge Shop Girls Tees Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Tees Shop Guys Tees &. Polos Shop Girls Shorts Shop Guys Shorts Shop The Collection Watch the Video Shop Girls Shop Lounge Shop Girls Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions Message &. Data Rates May Apply. FOLLOW US Customer Care
 
 *   Order Status
@@ -690,23 +690,3 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ...
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ...
