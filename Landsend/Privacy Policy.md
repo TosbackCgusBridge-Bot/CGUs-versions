@@ -798,9 +798,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Today Only: Receive 25% off full-price styles. 30% off full-price sweaters!
 
-code: PUDDLE pin: 6754 DETAILS
+code: FLOWERS pin: 8412 DETAILS
 
 Customer Service Menu
 
@@ -1059,4 +1059,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
