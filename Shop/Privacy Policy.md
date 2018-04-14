@@ -12,6 +12,7 @@ Menu Close Menu Close
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
         *   Ideapad Laptops Ideapad Laptops From gamers to students to first-time owners, there's one for everybody.
         *   2-in-1 PCs 2-in-1 PCs Multimedia tablets with multiple modes, including Stand, Hold, and Hang.
+        *   Student Laptops Student Laptops Innovative design, responsive performance
         *   Gaming Laptops
         *   Chromebooks Chromebooks
         *   SMALL BUSINESS LAPTOPS
@@ -24,6 +25,8 @@ Menu Close Menu Close
         *   *   Explore Ideapad
             
         *   *   Explore all 2-in-1s
+            
+        *   *   Explore Lenovo
             
         *   *   Gaming
         *   *   Explore all Chromebooks
@@ -60,6 +63,10 @@ Menu Close Menu Close
                 Ultraportable.
                 
                 Explore all 2-in-1s >.
+        
+        *   *   Innovative design, responsive performance.
+                
+                Learn more about the Student laptops >.
         
         *   *   Explore All Gaming Laptops >.
         
@@ -392,7 +399,7 @@ Explore how Lenovo can be your small business partner.
 
 Flash Sale Live Now! 
 
-Save up to $650 off on select premium, game-ready, lightening-fast gaming machines and accessories. Limited Time Only. Sale ends April 15
+Save up to $650 off on select premium, game-ready, lightening-fast gaming machines and accessories. Limited Time Only. Sale ends April 18
 
 Lenovo Explorer Headset
 
@@ -509,7 +516,9 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new window
+
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
