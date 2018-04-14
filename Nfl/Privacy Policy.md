@@ -3,8 +3,8 @@
 *   Schedule
 *   Standings
 *   Video
-*   Fantasy
 *   Draft
+*   Fantasy
 *   Tickets
 *   Shop
 *   Teams
@@ -20,7 +20,6 @@
 *   Schedule
 *   Standings
 *   Video
-*   Fantasy
 *   Draft
 
 *   DRAFT
@@ -32,6 +31,7 @@
     *   NFL Network
     *   Photos
 
+*   Fantasy
 *   Tickets
 *   Shop
 *   Teams
