@@ -117,7 +117,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Rugby
         *   Other sponsorships last item in this group
     
-    *   HSBC Qianhai Securities opens Find out what makes our joint venture in mainland China stand out.
+    *   Belt and Road up and running China’s plan to improve key trading links is taking shape fast.
 *   Careers Skip navigation
     
     *   Key hiring areas
