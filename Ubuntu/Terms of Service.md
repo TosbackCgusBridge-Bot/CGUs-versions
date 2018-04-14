@@ -14,13 +14,13 @@ Contributor agreement ›
 
 Details of the agreement you need to send to us before you begin contributing to projects at Canonical.
 
-BootStack terms ›
+Managed Services terms ›
 
-A legal description of the services included in Bootstack.
+A legal description of the services included in Bootstack and Managed Kubernetes.
 
 Short terms ›
 
-This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and Bootstack customers.
+This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and Managed Services customers.
 
 Want a fully managed private cloud?
 
@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   On the road to lean infrastructure ›
+*   Ubuntu Desktop weekly update – 13 April 2018 ›
 *   JFrog Artifactory and Canonical’s Distribution of Kubernetes ›
 *   Ubuntu available on IBM LinuxOne Rockhopper II ›
 *   Ubuntu Server development summary – 10 April 2018 ›
-*   LXD weekly status #42 ›
-*   Design and Web team summary – 10 April 2018 ›
