@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-The nostalgia is real and we’re all about these ‘90s brands.
+It’s the little things that make a big difference. Shop Accessories.
 
 *   Women
 *   Men
@@ -449,6 +449,7 @@ Returns
 
 Promotions
 
+*   Save More Buckle Credit Card Offer
 *   All Promotions
 *   Store Events
 *   Military Discount
