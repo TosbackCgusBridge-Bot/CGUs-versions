@@ -130,7 +130,7 @@ Play Build the Strongest Kiryu Clan in the Video hotspot
 
 God of War will allow you to customize Kratos' armor and abilities, helping you find your favorite fighting style.
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -192,7 +192,7 @@ With the Xperia XZ2
 
 Merch from all of the Sony Music labels? We've got you covered at #SonySquareNYC.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -296,7 +296,7 @@ Play Cam Changes Up Her Single “Diane” Video hotspot
 
 Fine-art photographer and #SonyArtisan @ThibaultROLAND shares the gear he brings along when shooting his signature B&W long-exposures.
 
-2 days ago
+3 days ago
 
 View Tweet
 
