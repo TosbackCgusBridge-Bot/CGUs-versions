@@ -168,7 +168,7 @@ You are liable for any damage arising from not complying with these Terms of Use
 
 1.  **Participation**
     
-    You may decide to join the CBC Testing Community if you are a Canadian resident 18 years or older by entering your email address at \[insert website\]. Your participation will help us improve our products. We will send select participants a questionnaire to be completed to determine eligibility for the activities described below:
+    You may decide to join the CBC Testing Community if you are a Canadian resident 18 years or older by entering your email address at Your CBC Say. Your participation will help us improve our products. We will send select participants a questionnaire to be completed to determine eligibility for the activities described below:
     
     *   Surveys
     *   Online discussions and interviews
