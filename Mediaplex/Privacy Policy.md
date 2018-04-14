@@ -27,6 +27,7 @@
     *   Benefits
     *   Integrations
     *   Join Us
+    *   Login
 *   Careers
 *   Contact
 
