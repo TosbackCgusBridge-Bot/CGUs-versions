@@ -151,7 +151,19 @@ menu Close 0 Free Shipping on $50+
     *   Scarves
     *   Gloves
     *   Hats
-*   Kids FEATURED SHOPS
+*   Kids SHOP BY AGE RANGE
+    
+    *   Toddler Girl (2T-4T)
+    *   Little Girl (size 4-7)
+    *   Big Girl (size 7-16)
+    *   Girl Plus (size 7+-16+)
+    
+    *   Toddler Boy (2T-4T)
+    *   Little Boy (size 4-7)
+    *   Big Boy (size 7-20)
+    *   Boy Husky (size 8H-20H)
+    
+    FEATURED SHOPS
     
     *   New Arrivals
     *   Kids' Swim Shop
@@ -160,17 +172,6 @@ menu Close 0 Free Shipping on $50+
     *   Iron Knees Pants
     *   School Uniforms
     *   Sale
-    
-    SHOP BY AGE RANGE
-    
-    *   Toddler Girl (2T-4T)
-    *   Little Girl (size 4-7)
-    *   Big Girl (size 7-16)
-    *   Girl Plus (size 7+-16+)
-    *   Toddler Boy (2T-4T)
-    *   Little Boy (size 4-7)
-    *   Big Boy (size 7-20)
-    *   Boy Husky (size 8H-20H)
     
     Girls>.
     
@@ -516,6 +517,17 @@ menu Close 0 Free Shipping on $50+
 *   Kids
     *   Back
     *   Shop all Kids
+    *   SHOP BY AGE RANGE
+        *   Back
+        *   Toddler Girl (2T-4T)
+        *   Little Girl (size 4-7)
+        *   Big Girl (size 7-16)
+        *   Girl Plus (size 7+-16+)
+        
+        *   Toddler Boy (2T-4T)
+        *   Little Boy (size 4-7)
+        *   Big Boy (size 7-20)
+        *   Boy Husky (size 8H-20H)
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
@@ -525,16 +537,6 @@ menu Close 0 Free Shipping on $50+
         *   Iron Knees Pants
         *   School Uniforms
         *   Sale
-    *   SHOP BY AGE RANGE
-        *   Back
-        *   Toddler Girl (2T-4T)
-        *   Little Girl (size 4-7)
-        *   Big Girl (size 7-16)
-        *   Girl Plus (size 7+-16+)
-        *   Toddler Boy (2T-4T)
-        *   Little Boy (size 4-7)
-        *   Big Boy (size 7-20)
-        *   Boy Husky (size 8H-20H)
     *   Girls
         *   Back
         *   View All
@@ -798,9 +800,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Today Only: Receive 25% off full-price styles. 30% off full-price sweaters!
+Today Only: Receive 25% off full-price styles. 30% off full-price shorts, crops &. pants!
 
-code: FLOWERS pin: 8412 DETAILS
+code: PLANT pin: 4364 DETAILS
 
 Customer Service Menu
 
