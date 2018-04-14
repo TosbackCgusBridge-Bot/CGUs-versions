@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Albert Hunt_: Falling Star: Why Paul Ryan Had to Bow Out
+*   _Abigail Tracy_: James Comey's Time in the Spotlight Has Come
     
-*   _Karl Rove_: Paul Ryan's Departure Is a Pity
+*   _Newt Gingrich_: How James Comey Has Tarnished the FBI
     
-*   _Christopher Buskirk_: Good Riddance: Ryan's Exit Will Help Republicans
+*   _Benjamin Wittes_: Principle of Professional Law Enforcement Now on the Line
     
-*   _W.J. Hennigan_: Can U.S. Deter War Crimes Without Going to War With Syria?
+*   _Keiser & Munson_: Pompeo Will Be an Impressive Secretary of State
     
-*   _Tom Rogan_: Bolton's Complex Worldview Is a Good Fit With Trump
+*   _David Kirkpatrick_: The Facebook Defect: How Zuckerberg Disregarded Privacy
     
-*   _Richard Ben-Veniste_: Trump Is Going Full Nixon on Mueller
+*   _Cox & Krinsky_: Federal Immigration Efforts Separate Cops &. Community
     
-*   _Rush Limbaugh_: If You Want to End This, Mr. President, Start Pardoning
+*   _David Aguilar_: I Ran Border Patrol &. Support Trump's National Guard Call
     
-*   _Becket Adams_: The 2016 Election Broke Some People in Media
+*   _Roy Gutman_: Mr. Trump, Here's Why Assad Has to Go
     
-*   _Renato Mariotti_: Why Trump Is Panicking
+*   _Tucker Carlson vs. Noah Rothman_: Should the U.S. Intervene in Syria?
     
-*   _Susan Fowler_: One Easy Answer for Where #MeToo Goes Next
+*   _Paul Waldman_: The Republican Party vs. James Comey
     
-*   _Deanna Falchook_: I Was a Disney Princess, Had an Abortion, and I Regret It
+*   _Joy Pullmann_: Does Comey Write YA Fiction Novels in His Spare Time?
     
-*   _Martin &. Burns_: Speaker's Exit Fuels Republican Midterm Fears
+*   _Matthew Continetti_: American Politics In a Convex Mirror
     
-*   _Jake Sherman_: Why Ryan Called It Quits
+*   _Michiko Kakutani_: James Comey Has a Story to Tell. It's Very Persuasive.
     
-*   _Michael Steel_: Cheer Up, Republicans: Ryan's Exit Has a Silver Lining
+*   _Robert Charles_: Comey's Book Full of Praise for Himself, Lies About Trump
     
-*   _Charles Blow_: Signs of a Political Armageddon
+*   _Peter Hamby_: A Eulogy to Paul Ryan's Beguiling Career
     
-*   _Roger Kimball_: The Trump Resistance Is the Greatest Show in Town
+*   _Michael Barone_: Speaker Ryan Follows the Lead of Speaker Reed
     
-*   _E.J. Dionne_: Ryan Is the Personification of Conservatism's Decline
+*   _James Arkin_: Flipping Script, Democrats Attack GOP on Fiscal Responsibility
     
-*   _John Tierney_: Scott Pruitt, Warrior for Science
+*   _Emily Jashinsky_: Do Dems Have to Toss Pelosi to Win the House?
     
-*   _Emily Atkin_: Undoing American Climate Diplomacy
+*   _David Ignatius_: The Consequences of a Syrian Strike
     
-*   _Carl Cannon_: High Tech and Government: A Culture Clash
+*   _Gordan Chang_: China Trade: Trump Stares, Xi Jinping Blinks
     
-*   _Conrad Black_: Trump Rises in the Polls Amid Foreign Policy Challenges
+*   _Fred Kaplan_: Pompeo Could Enable Trump's Worst Instincts
     
-*   _Peter Beinart_: Trump's Dangerous Threat of War
+*   _Fred Barnes_: Jeff Sessions and His Enemies
     
-*   _Elaine Kamarck_: The Fragile Legacy of Barack Obama
+*   _Suzanne Garment_: Cohen Makes Nixon's Fixers Look Like Amateurs
     
-*   _Ashley McGuire_: Women's March and Backpage.com: A Sordid Story
+*   _Gary Abernathy_: Why the Cohen Raid May Backfire
     
 
 *   Previous
@@ -254,11 +254,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   With Ryan's Exit, Republicans May Shift Resources to Senate
+*   Flipping Script, Dems Attack Republicans on Fiscal Responsibility
+*   Trump Flips on Trade Pact, Weighs Rejoining Trans-Pacific Partnership
+*   Mattis: U.S. Concerned Syria Strikes Would "Escalate Out of Control"
 *   Ryan's Retirement Has Republicans Grappling With Midterm Impact
-*   ABC Promo Suggests Comey Compares Trump to a Mob Boss
-*   High Tech and Government: A Culture Clash
-*   Introducing RealClearPolitics' Fact Check Review
+*   With Ryan's Exit, Republicans May Shift Resources to Senate
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -273,26 +273,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Arkansas Governor - Hutchinson vs. HendersonMason-Dixon
+    *   Hutchinson63
+    *   Henderson24Hutchinson +39
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove49Approve +1
 *   Missouri Senate - Hawley vs. McCaskillMason-Dixon
     *   Hawley44
     *   McCaskill45McCaskill +1
 *   New Jersey Senate - Hugin vs. MenendezMonmouth
     *   Menendez53
     *   Hugin32Menendez +21
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve42
-    *   Disapprove53Disapprove +11
 
 More Latest Polls In The News
 
-*   Dershowitz: Can Manufacture Crimes Against Anybody, That's What's Wrong With The Special Counsel
-*   Tucker vs. Noah Rothman Accusing Him Of Defending Assad: "Self-Awareness Not Your Strong Suit"
-*   Newt Gingrich: Comey Is "Grandstanding And Making Money" With Book Deal, But Still Has Questions To Answer
-*   Greenwald: Does Anyone Really Think U.S. And Israeli Missiles Can Do Anything To Help The Syrian People?
-*   Speaker Paul Ryan Announces He Plans To Retire At End Of Term, Spend More Time With Family
+*   Maddow: "Perception" Trump Ordered Syria Strikes To "Distract From A Catastrophic Domestic Scandal"
+*   Jeffrey Sachs To President Trump: Please Get U.S. Out Of Syria, "We've Done Enough Damage"
+*   Joe Wilson: "Venal" Trump "Looking to Put As Many F\*\*king Dollars Into His Bank Account" As Possible
+*   Comey: Trump Was Worried Melania Would Believe Moscow Hotel Allegations From Steele Dossier
+*   Rand Paul to Mike Pompeo: Your Nomination Does Not Reflect The Foreign Policy Trump Ran On
 
 *   Politics
 *   Policy
