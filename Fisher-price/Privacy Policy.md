@@ -185,6 +185,7 @@ BRANDS
 *   Jurassic World
 *   Disney
 *   Shimmer and Shine
+*   Blaze and the Monster Machines
 
 MORE TO EXPLORE
 
