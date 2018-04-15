@@ -1,4 +1,4 @@
-By continuing to browse our site you agree to our use of cookies, revised Privacy Policy and Terms of Service. More information about cookiesI agreeStrikes on SyriaThree people injured in strikes, Syrian state TV reports Home+CNN Privacy PolicyRegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleHealthVideoVRLive TV Search »International Edition+U.S.InternationalArabicEspañol
+By continuing to browse our site you agree to our use of cookies, revised Privacy Policy and Terms of Service. More information about cookiesI agreeBreaking NewsHome+CNN Privacy PolicyRegionsU.S. PoliticsMoneyEntertainmentTechSportTravelStyleHealthVideoVRLive TV Search »International Edition+U.S.InternationalArabicEspañol
 
 Set edition preference:
 
@@ -149,7 +149,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-Pinellas Park, FL71°
+Pinellas Park, FL76°
 
 1.  Home
 
