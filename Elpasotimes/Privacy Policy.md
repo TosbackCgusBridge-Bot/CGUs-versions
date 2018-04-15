@@ -1,4 +1,4 @@
-SUBSCRIBE NOW1st month FREE
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW1st month FREE
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEx-pastor says man started fight for drug moneyCrimeJury sequestered in trial in border agent's deathCrimeDEA arrests El Paso doctor on drug chargesCrimeBorder agent's sobriety targeted in murder caseCrimeScheana Shay helps El Paso store celebrate 2 yearsEntertainmentEl Paso region remains under high-wind warningLocalO'Rourke is rock star for Texas DemocratsPoliticsManslaughter fugitive arrested in San ElizarioCrimeWill pregnant Cardi B make it to Neon Desert?NewsUTEP football players stand out in spring trainingCollegeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMistrial declared in Border Patrol agent's slayingCrimeLuxury box seats to be Sun Bowl's new additionCollegeWind advisory extended, debris closes I-10 lanesNewsEx-pastor says man started fight for drug moneyCrimeJury sequestered in trial in border agent's deathCrimeDEA arrests El Paso doctor on drug chargesCrimeBorder agent's sobriety targeted in murder caseCrimeScheana Shay helps El Paso store celebrate 2 yearsEntertainmentEl Paso region remains under high-wind warningLocalEl Paso shelter animals flown out to new homesLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,3 +142,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
