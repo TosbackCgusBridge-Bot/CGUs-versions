@@ -800,9 +800,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Today Only: Receive 25% off full-price styles. 30% off full-price shorts, crops &. pants!
+Receive 25% off full-price styles!
 
-code: PLANT pin: 4364 DETAILS
+code: BLOSSOM pin: 4716 DETAILS
 
 Customer Service Menu
 
