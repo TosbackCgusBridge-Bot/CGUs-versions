@@ -8,9 +8,28 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   LAGOS Jewelry Up to 50% Off
-    *   Spring Dresses Under $50
-    *   Badgley Mischka
+    *   Go Couture Tees
+    *   Spring Forward: Alton Gray &. More
+    *   Gemstones, Pave &. More Under $80
+    *   Sugarlips
+    *   HYFVE &. More Under $30
+    *   Jared Lang
+    *   The Plus Shop: Styles Under $50
+    *   Lucchese
+    *   Flex Your Style: VIMMIA Active &. More
+    *   Tori Praver Swim &. More
+    *   Yoki Starting at $15
+    *   Handbag Obsession: Persaman New York
+    *   Trend Earrings &. More Under $25
+    *   Bettye Muller Starting at $40
+    *   Get Outside: Running &. Hiking Shoes from $30
+    *   Persaman New York
+    *   Jeremiah
+    *   Smile Vegan Style Teeth Whitening Kits &. More
+    *   Cool Kicks: Supra Sneakers
+    *   Union Denim &. More
+    *   Colorful Kitchen Essentials
+    *   Free Shipping: Weekend-Ready Hammocks from $15
     *   Poof Starting at $15
     *   Our Favorite Sandals Up to 65% Off
     *   LOVE Moschino Up to 65% Off
@@ -20,7 +39,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Polos Under $30
     *   Men's Sneakers Starting at $25
     *   Sunglasses Under $25
+    
     *   Jewelry Starting at $15
+    *   LAGOS Jewelry Up to 50% Off
+    *   Spring Dresses Under $50
+    *   Badgley Mischka
     *   Anna Sui
     *   Olive &. Oak
     *   Ethically Crafted: Handmade Jewelry by SOKO
@@ -38,35 +61,21 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Chic Bedding Starting at $22
     *   MUK LUKS Under $40
     *   alice + olivia by Stacey Bendet Up to 60% Off
-    *   Sanctuary Including Petites
-    *   Via Spiga
-    *   Forgotten Grace Under $30
-    
     *   Isaac Mizrahi Boys &. More
     *   Cuisinart
-    *   Cia.Maritima Swim Up to 70% Off
     *   Luxury Watches Up to 65% Off
-    *   Katy Perry Starting at $40
-    *   Sky
-    *   Wardrobe Essentials: Black &. White Styles Under $50
     *   Gorjana Jewelry Up to 60% Off
     *   Scotch &. Soda
     *   Rip Curl Under $35
     *   truewhite Teeth Whitening
     *   Ben Sherman Shoes Up to 65% Off
-    *   Calpak Luggage &. Travel Essentials
     *   Dress Socks ft. Lorenzo Uomo
     *   Dynamic Innovation Labs Skin Care from $10
+    
     *   MIA Shoes for Girls
     *   14K Gold Jewelry &. More Starting at $25
     *   Chic Charm: Dinnerware, Wall Art &. More
-    *   Australia Luxe Collective
-    *   Rock &. Candy and Zigi Under $40
     *   Splendid Kids
-    *   Haute Hippie
-    *   Ale by Alessandra
-    *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
-    *   On Trend: Leather Bracelets Starting at $15
     *   Demeter Fragrance Library
     *   All That Glitters: Violet Voss Sets &. More
     *   Bijou Lashes Under $15
@@ -74,46 +83,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Keds Men's Shoes at $20
     *   Boga Up to 80% Off
     *   Business Casual: Sport Coats Under $150
-    *   Le Creuset
-    
+    *   Simone Herrera Sandals Up to 55% Off
     *   Free Shipping: Mother's Day Picnic Essentials
     *   Free Shipping: Modern Rugs Up to 65% Off
     *   Free Shipping: On-Trend Accent Furniture
-    *   Baby Aspen Gifts
-    *   Sozo
-    *   Rockabye
-    *   Kids' Favorite Books from HarperCollins
-    *   Simone Herrera Sandals Up to 55% Off
-    *   Retro Graphic Tees Starting at $10
     *   Free Shipping: Click &. Grow Smart Gardens
     *   Free Shipping: Dreamy Bedding Sets from $14
     *   Free Shipping: Luxe Faux Fur Accents
     *   Makeup Storage Essentials from $10
     *   Mario Badescu
-    *   Clarks Men
-    *   Spring Favorite: Men's Suede Shoes
-    *   Fitflop
-    *   NANETTE Nanette Lepore
-    *   Level 99
-    *   Blu Pepper
-    *   Franco Sarto Starting at $40
-    *   Spring Trend Report: Fresh Looks We Love
-    *   Free Shipping: Fresh Area Rugs
-    *   Floatimini Girls' Swim
-    *   Thale Blanc Handbags Up to 70% Off
-    *   Balmain Sunglasses Up to 75% Off
     *   Free Shipping: BergHOFF
-    *   ghd: good hair day, every day
     *   Ted Baker London Home Starting at $10
     *   Patio Ready: Lanterns, String Lights &. More
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Jarv Tech Accessory Blowout
-    *   Free Shipping: Designer Art Prints Up to 75% Off
+    *   Le Creuset
+    *   Sanctuary Including Petites
+    *   Via Spiga
+    *   Forgotten Grace Under $30
+    *   Wardrobe Essentials: Black &. White Styles Under $50
 *   WomenShop Sale Events
     
-    *   LAGOS Jewelry Up to 50% Off
-    *   Spring Dresses Under $50
-    *   Badgley Mischka
+    *   Go Couture Tees
+    *   Spring Forward: Alton Gray &. More
+    *   Gemstones, Pave &. More Under $80
+    *   Sugarlips
+    *   HYFVE &. More Under $30
+    *   The Plus Shop: Styles Under $50
+    *   Lucchese
+    *   Flex Your Style: VIMMIA Active &. More
+    *   Tori Praver Swim &. More
+    *   Yoki Starting at $15
+    *   Handbag Obsession: Persaman New York
+    *   Trend Earrings &. More Under $25
+    *   Bettye Muller Starting at $40
+    *   Get Outside: Running &. Hiking Shoes from $30
+    *   Smile Vegan Style Teeth Whitening Kits &. More
     *   Poof Starting at $15
     *   Our Favorite Sandals Up to 65% Off
     *   LOVE Moschino Up to 65% Off
@@ -122,7 +127,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Layer Up: Scarves Starting at $10
     *   Sunglasses Under $25
     *   Jewelry Starting at $15
+    *   LAGOS Jewelry Up to 50% Off
+    *   Spring Dresses Under $50
+    *   Badgley Mischka
     *   Anna Sui
+    
     *   Olive &. Oak
     *   Ethically Crafted: Handmade Jewelry by SOKO
     *   NUX Active
@@ -134,75 +143,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Frederique Constant Swiss Watches
     *   MUK LUKS Under $40
     *   alice + olivia by Stacey Bendet Up to 60% Off
-    *   Sanctuary Including Petites
-    *   Via Spiga
-    *   Forgotten Grace Under $30
-    *   Cia.Maritima Swim Up to 70% Off
     *   Luxury Watches Up to 65% Off
-    *   Katy Perry Starting at $40
-    
-    *   Sky
-    *   Wardrobe Essentials: Black &. White Styles Under $50
     *   Gorjana Jewelry Up to 60% Off
     *   truewhite Teeth Whitening
-    *   Calpak Luggage &. Travel Essentials
     *   Dynamic Innovation Labs Skin Care from $10
     *   14K Gold Jewelry &. More Starting at $25
-    *   Australia Luxe Collective
-    *   Rock &. Candy and Zigi Under $40
-    *   Haute Hippie
-    *   Ale by Alessandra
-    *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
-    *   On Trend: Leather Bracelets Starting at $15
     *   Demeter Fragrance Library
     *   All That Glitters: Violet Voss Sets &. More
     *   Bijou Lashes Under $15
     *   Simone Herrera Sandals Up to 55% Off
-    *   Retro Graphic Tees Starting at $10
     *   Makeup Storage Essentials from $10
     *   Mario Badescu
-    *   Fitflop
-    *   NANETTE Nanette Lepore
-    *   Level 99
-    *   Blu Pepper
-    *   Franco Sarto Starting at $40
-    *   Spring Trend Report: Fresh Looks We Love
-    *   Thale Blanc Handbags Up to 70% Off
-    *   Balmain Sunglasses Up to 75% Off
-    *   ghd: good hair day, every day
+    *   Sanctuary Including Petites
+    *   Via Spiga
+    *   Forgotten Grace Under $30
+    *   Wardrobe Essentials: Black &. White Styles Under $50
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Accessories
     *   Tech Accessories
     *   Watches
+    *   Accessories
     *   Lingerie
 *   MenShop Sale Events
     
+    *   Jared Lang
+    *   Persaman New York
+    *   Jeremiah
+    *   Smile Vegan Style Teeth Whitening Kits &. More
+    *   Cool Kicks: Supra Sneakers
+    *   Union Denim &. More
     *   Polos Under $30
     *   Men's Sneakers Starting at $25
     *   Sunglasses Under $25
     *   Perry Ellis
     *   Frederique Constant Swiss Watches
     *   Maui &. Sons
+    
     *   Unsimply Stitched
     *   Luxury Watches Up to 65% Off
     *   Scotch &. Soda
     *   Rip Curl Under $35
-    
     *   truewhite Teeth Whitening
     *   Ben Sherman Shoes Up to 65% Off
-    *   Calpak Luggage &. Travel Essentials
     *   Dress Socks ft. Lorenzo Uomo
     *   John Varvatos Star USA
     *   Keds Men's Shoes at $20
     *   Boga Up to 80% Off
     *   Business Casual: Sport Coats Under $150
-    *   Clarks Men
-    *   Spring Favorite: Men's Suede Shoes
     
     Shop By Category
     *   Clothing
@@ -214,57 +205,52 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Isaac Mizrahi Boys &. More
     *   MIA Shoes for Girls
     *   Splendid Kids
-    *   Baby Aspen Gifts
-    *   Sozo
-    *   Rockabye
-    *   Kids' Favorite Books from HarperCollins
-    *   Floatimini Girls' Swim
     
     Shop By Category
-    *   Toys
     *   Boys Sizes 2T-7
-    *   Girls Sizes 2T-6X
     *   Boys Sizes 8-20
-    *   Baby Gear &. Essentials
     *   Kids Accessories
-    *   Baby Boy
-    *   Baby Girl
-    *   Girls Sizes 7-16
     *   Girls' Shoes
+    *   Girls Sizes 7-16
+    *   Baby Girl
+    *   Girls Sizes 2T-6X
+    *   Baby Boy
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Colorful Kitchen Essentials
+    *   Free Shipping: Weekend-Ready Hammocks from $15
     *   Free Shipping: Fashion Glam Wall Art
     *   Free Shipping: Chic Bedding Starting at $22
     *   Cuisinart
     *   Chic Charm: Dinnerware, Wall Art &. More
-    *   Le Creuset
     *   Free Shipping: Mother's Day Picnic Essentials
     *   Free Shipping: Modern Rugs Up to 65% Off
     *   Free Shipping: On-Trend Accent Furniture
     *   Free Shipping: Click &. Grow Smart Gardens
-    *   Free Shipping: Dreamy Bedding Sets from $14
     
+    *   Free Shipping: Dreamy Bedding Sets from $14
     *   Free Shipping: Luxe Faux Fur Accents
     *   Makeup Storage Essentials from $10
-    *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: BergHOFF
     *   Ted Baker London Home Starting at $10
     *   Patio Ready: Lanterns, String Lights &. More
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Jarv Tech Accessory Blowout
-    *   Free Shipping: Designer Art Prints Up to 75% Off
+    *   Le Creuset
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
+    *   Home Decor
     *   Bedding
+    *   Outdoor Living
     *   Accent Furniture
     *   Organization
-    *   Outdoor Living
     *   Luggage &. Travel
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   Smile Vegan Style Teeth Whitening Kits &. More
     *   DAFNI Ceramic Hot Brushes at 60% Off
     *   MIAMICA: Trendy Travel Accessories
     *   truewhite Teeth Whitening
@@ -274,15 +260,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bijou Lashes Under $15
     *   Makeup Storage Essentials from $10
     *   Mario Badescu
-    *   ghd: good hair day, every day
     
     Shop By Category
     *   Skin Care
     *   Makeup
     *   Fragrance
     *   Tools &. Accessories
-    *   Hair Care
     *   Bath &. Body
+    *   Hair Care
     *   Nails
     *   Supplements
 
