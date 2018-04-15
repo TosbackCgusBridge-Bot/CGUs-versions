@@ -3,10 +3,10 @@
 *   games
 *   videos
 
-New Games Next in  26:47 Categories &. more LIBRARY
+New Games Next in  xx:xx Categories &. more LIBRARY
 
-*   New Games Next in 26:47
-*   Best of new games 1409 games
+*   New Games Next in xx:xx
+*   Best of new games 1408 games
 *   Most Popular Games 582 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -14,33 +14,33 @@ New Games Next in  26:47 Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 21,570 games
-*   Driving &. Racing Games 6,646 games
+*   Games for girls 21,582 games
+*   Driving &. Racing Games 6,648 games
 *   Strategy &. RPG Games 2,300 games
 *   Management Games 3,638 games
 *   Thinking Games 11,291 games
 *   Action &. Adventure Games 15,600 games
 *   Sports Games 2,194 games
-*   Shooting Games 7,804 games
+*   Shooting Games 7,808 games
 *   Fighting Games 2,079 games
-*   Skill Games 9,714 games
-*   Arcade &. Classic Games 12,322 games
+*   Skill Games 9,715 games
+*   Arcade &. Classic Games 12,327 games
 *   Fun &. Crazy Games 2,295 games
 
 Tags
 
-*   Birds736
-*   Street Fighting91
-*   Animal4,871
-*   Wrestling31
-*   Dragon Ball Z45
-*   First Person Shooter329
+*   Truck904
+*   Multiplayer311
+*   Shoot 'Em Up3,129
+*   Skating216
+*   Fishing190
+*   Purchase Equipment Upgrades3,813
 *   View All Tags 371
 
 Play with friends  
-Powered by id.net 127 id.net Multiplayer Games 1,406 id.net High Score Games 911 id.net Achievements Games 773 id.net Screenshots Games 1,310 id.net Online Save Games 2,439 All id.net Games Last Highscore:
+Powered by id.net 127 id.net Multiplayer Games 1,409 id.net High Score Games 914 id.net Achievements Games 773 id.net Screenshots Games 1,310 id.net Online Save Games 2,442 All id.net Games Last Highscore:
 
-**17,500** points on Super Speed Racer by ribooks
+**474,365** points on The Return by Yasmin
 
 *   Contact Form
 *   Submit a Game or Video
@@ -48,7 +48,7 @@ Powered by id.net 127 id.net Multiplayer Games 1,406 id.net High Score Games 911
 *   Privacy Policy
 *   Terms of Use
 
-Bad translation? Share884K Register Log in My Profile 0 points
+Bad translation? Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
@@ -153,5 +153,3 @@ If you have any questions, you can contact us through our contact form.
 *   Games for Your Website
 *   Terms of Use
 *   Privacy Policy
-
-Share884K
