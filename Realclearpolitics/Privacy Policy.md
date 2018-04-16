@@ -273,26 +273,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve44
+    *   Disapprove54Disapprove +10
+*   2018 Generic Congressional VoteNBC News/Wall St. Jrnl
+    *   Democrats47
+    *   Republicans40Democrats +7
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve39
+    *   Disapprove57Disapprove +18
 *   Arkansas Governor - Hutchinson vs. HendersonMason-Dixon
     *   Hutchinson63
     *   Henderson24Hutchinson +39
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
-*   Missouri Senate - Hawley vs. McCaskillMason-Dixon
-    *   Hawley44
-    *   McCaskill45McCaskill +1
-*   New Jersey Senate - Hugin vs. MenendezMonmouth
-    *   Menendez53
-    *   Hugin32Menendez +21
 
 More Latest Polls In The News
 
+*   Sally Yates: Trump Seems To View The Justice Department As His Own Personal Lawyers
+*   NYT's Maggie Haberman on Comey Book: "Doesn't Seem Like There Is A Ton Of News In It"
+*   Christie on Comey's "Hubris": I Worked For Comey, If I Did What He Did He Would Have Fired Me
 *   Maher: Trump Won't Leave Willingly If Impeached. Who Will Knock On The Door And Make Him Go?
 *   David Brooks on Comey: From What I Have Read, The Book Passes The Smell Test. "Honest" Person
-*   Jeffrey Sachs To President Trump: Please Get U.S. Out Of Syria, "We've Done Enough Damage"
-*   Maddow: "Perception" Trump Ordered Syria Strikes To "Distract From A Catastrophic Domestic Scandal"
-*   Comey: Trump Was Worried Melania Would Believe Moscow Hotel Allegations From Steele Dossier
 
 *   Politics
 *   Policy
