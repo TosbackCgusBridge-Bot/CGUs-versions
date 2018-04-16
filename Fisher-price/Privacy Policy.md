@@ -31,29 +31,29 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     
     See all
     
+    *   Sproutling Sleep Wearable
     *   Everything Baby
     *   Little People®
     *   Thomas &. Friends™
     *   Imaginext®
-    *   Laugh &. Learn®
     
+    *   Laugh &. Learn®
     *   Think &. Learn
     *   Loving Family™
     *   Little Mommy®
     *   Power Wheels®
-    *   MEGA BLOKS®
     
+    *   MEGA BLOKS®
     *   Bright Beats™
     *   Jurassic World
     *   Disney
     *   Shimmer and Shine™
-    *   Blaze and the Monster Machines™
     
+    *   Blaze and the Monster Machines™
     *   Bob the Builder™
     *   Dora &. Friends™
     *   Octonauts™
     *   Alvin and the Chipmunks
-    *   Barney &. Friends
     
     See all
     
