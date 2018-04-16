@@ -320,7 +320,9 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   Monitor Deals
+    *   *   72 HOUR SALE
+            
+        *   Monitor Deals
             
 *   Support
     *   Sales Enquiries
@@ -399,7 +401,7 @@ Explore how Lenovo can be your small business partner.
 
 Flash Sale Live Now! 
 
-Save up to $650 off on select premium, game-ready, lightening-fast gaming machines and accessories. Limited Time Only. Sale ends April 18
+Save up to $600 off on select ultra slim, thinner, lighter and engineered to last as long as you do. Sale Ends April 18.
 
 Lenovo Explorer Headset
 
