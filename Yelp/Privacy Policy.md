@@ -1,6 +1,6 @@
 Privacy Policy
 
-**Last Updated on January 31, 2016.** This Privacy Policy is effective immediately for users registering accounts after that date and will become effective on March 2, 2016 for pre-existing users. To review the previous policy, please click here.
+**Last Updated on January 31, 2016.** This Privacy Policy is effective immediately for users registering accounts after that date and will become effective on March 2, 2016 for pre-existing users. To review the previous policy, please click heretbsfxxyuuwtruvcaxtswseswbaar.
 
 This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our services, including those offered through our websites, emails, and mobile applications (collectively, the **"Service"**). The terms **"we"**, **"us"**, and **"Yelp"** refer to Yelp Inc., a Delaware corporation. When you use the Service, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
 
