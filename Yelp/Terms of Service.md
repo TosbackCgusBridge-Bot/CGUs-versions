@@ -1,6 +1,6 @@
 Terms of Service
 
-**Last Updated on November 27, 2012**. These terms and conditions are effective immediately for those registering accounts after that date and will become effective December 27, 2012 for those with pre-existing accounts. To review the previous terms, please click heretxyycqveeucuxqdqtwavaqsutycyvye.
+**Last Updated on November 27, 2012**. These terms and conditions are effective immediately for those registering accounts after that date and will become effective December 27, 2012 for those with pre-existing accounts. To review the previous terms, please click here.
 
 These terms and conditions (the **"Terms"**) govern your access to and use of Yelp's websites and mobile applications that link to or reference these Terms (**"Site"**). By accessing or using the Site, you are agreeing to these Terms and concluding a legally binding contract with Yelp Inc., a Delaware corporation headquartered in San Francisco, California (**"Yelp"**). Do not access or use the Site if you are unwilling or unable to be bound by the Terms.
 
