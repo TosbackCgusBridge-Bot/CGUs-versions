@@ -1,4 +1,4 @@
-close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE NOW1st month FREE
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMistrial declared in Border Patrol agent's slayingCrimeLuxury box seats to be Sun Bowl's new additionCollegeWind advisory extended, debris closes I-10 lanesNewsEx-pastor says man started fight for drug moneyCrimeJury sequestered in trial in border agent's deathCrimeDEA arrests El Paso doctor on drug chargesCrimeBorder agent's sobriety targeted in murder caseCrimeScheana Shay helps El Paso store celebrate 2 yearsEntertainmentEl Paso region remains under high-wind warningLocalEl Paso shelter animals flown out to new homesLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Pasoans embrace 'inner nerds' at Comic ConNewsLuxury box seats to be Sun Bowl's new additionCollegeMistrial declared in Border Patrol agent's slayingCrimeWind advisory extended, debris closes I-10 lanesNewsComedian Felipe Esparza to bring show to El PasoEntertainmentEx-pastor says man started fight for drug moneyCrimeQuarterbacks shine in UTEP spring gameSportsEl Paso shelter animals flown out to new homesLocalJury sequestered in trial in border agent's deathCrimeDEA arrests El Paso doctor on drug chargesCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
