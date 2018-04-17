@@ -1,3 +1,5 @@
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1882987898627194&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52303&amp;fmt=gif">.
+
 Sencha.com
 
 *   Products
@@ -207,4 +209,4 @@ Subscribe
 *   *    I agree to receive e-mail notifications. See our Privacy Policy and Terms of Use for more details.
 *   NameThis field is for validation purposes and should be left unchanged.
 
-This iframe contains the logic required to handle Ajax powered Gravity Forms. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1882987898627194&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52303&amp;fmt=gif">.
+This iframe contains the logic required to handle Ajax powered Gravity Forms. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
