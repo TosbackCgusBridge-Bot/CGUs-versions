@@ -1,5 +1,4 @@
-×Become a Very Important  
-Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu Go 0 Sign In / Register
+icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu Go 0 Sign In / Register
 
 *   SHOP
     
@@ -31,29 +30,29 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     
     See all
     
-    *   Sproutling Sleep Wearable
     *   Everything Baby
     *   Little People®
     *   Thomas &. Friends™
     *   Imaginext®
-    
     *   Laugh &. Learn®
+    
     *   Think &. Learn
     *   Loving Family™
     *   Little Mommy®
     *   Power Wheels®
-    
     *   MEGA BLOKS®
+    
     *   Bright Beats™
     *   Jurassic World
     *   Disney
     *   Shimmer and Shine™
-    
     *   Blaze and the Monster Machines™
+    
     *   Bob the Builder™
     *   Dora &. Friends™
     *   Octonauts™
     *   Alvin and the Chipmunks
+    *   Barney &. Friends
     
     See all
     
