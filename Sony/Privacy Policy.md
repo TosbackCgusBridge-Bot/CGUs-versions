@@ -1,6 +1,5 @@
-Skip to Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">Sony Sites<img src="//www.sony.com/is/image/gwtprod/9f53bbd3eccc7f27e7b67231cb829fab?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony’s Stories<img src="//www.sony.com/is/image/gwtprod/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//www.sony.com/is/image/gwtprod/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">PlayStation™<img src="//www.sony.com/is/image/gwtprod/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional<img src="//www.sony.com/is/image/gwtprod/bf805a8b340105d03fcff55e3d22fb18?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Mobile
+Skip to Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">Sony Sites<img src="//www.sony.com/is/image/gwtprod/9a512bd93333b3c884bdbe2ba1581755?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Group Site<img src="//www.sony.com/is/image/gwtprod/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//www.sony.com/is/image/gwtprod/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">PlayStation™<img src="//www.sony.com/is/image/gwtprod/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional<img src="//www.sony.com/is/image/gwtprod/bf805a8b340105d03fcff55e3d22fb18?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Mobile
 
-*   Global HomePress releases and investor news at our global site.
 *   Sony and the EnvironmentHow we’re reducing our eco-footprint through energy efficiency and recycling initiatives.
 *   Sony PicturesThe hub for your favourite movies and TV shows.
 *   Sony MusicClassic artists to today’s stars, local and global.
@@ -94,23 +93,127 @@ SONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! “God of War” Developers Add Strategy to the Game’s New Combat System
+search Your browser does not support JavaScript! “God of War” Fans: Get the PS4™ Pro Bundle
 
-Play the PS4™ Exclusive Next Week
+Inspired By Kratos’ Axe
 
 Close
 
-*   Share “God of War” Developers Add Strategy to the Game’s New Combat System on Facebook
-*   Share “God of War” Developers Add Strategy to the Game’s New Combat System on Twitter
-*   Copy URL to share “God of War” Developers Add Strategy to the Game’s New Combat System
+*   Share “God of War” Fans: Get the PS4™ Pro Bundle on Facebook
+*   Share “God of War” Fans: Get the PS4™ Pro Bundle on Twitter
+*   Copy URL to share “God of War” Fans: Get the PS4™ Pro Bundle
 
-Play “God of War” Developers Add Strategy to the Game’s New Combat System Video
+Inspired By Kratos’ Axe
 
-Sony on YouTube - “God of War” Developers Add Strategy to the Game’s New Combat System
+<img class="bg-img" class="url(/en\_us/media/content/PS4ProGOWPS4LE\_Render\_CUH7115B\_55087-600x600\_pglnm2m.jpg);" alt="God of War PS4 Bundle">.
 
-Play “God of War” Developers Add Strategy to the Game’s New Combat System Video hotspot
+Where has Kratos been since God of War III?
 
-<img class="bg-img" class="url(/en\_us/media/content/GOWPS4\_Screen\_PS4\_23756-600x600.jpg);" alt="God of War">. Build the Strongest Kiryu Clan in the
+2 hours ago
+
+View Tweet
+
+Enhance Your Gaming
+
+Audio Experience
+
+Close
+
+*   Share Enhance Your Gaming on Facebook
+*   Share Enhance Your Gaming on Twitter
+*   Copy URL to share Enhance Your Gaming
+
+Audio Experience
+
+<img class="bg-img" class="url(/en\_us/media/content/HeadSetGold\_Render\_CUHYA0080\_40966\_1-600x600\_LmjZWOA.jpg);" alt="PS Gold Wireless Headset">. A Stuntman Explains How He Learned to Fight Like the God of War
+
+Play The PS4™ Exclusive On Friday
+
+Close
+
+*   Share A Stuntman Explains How He Learned to Fight Like the God of War on Facebook
+*   Share A Stuntman Explains How He Learned to Fight Like the God of War on Twitter
+*   Copy URL to share A Stuntman Explains How He Learned to Fight Like the God of War
+
+Play A Stuntman Explains How He Learned to Fight Like the God of War Video
+
+Sony on YouTube - A Stuntman Explains How He Learned to Fight Like the God of War
+
+Play A Stuntman Explains How He Learned to Fight Like the God of War Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/GOWPS4\_Screen\_E317\_Combat\_96431-600x600.jpg);" alt="God of War How to Fight Like Kratos Video">.
+
+View Glacier White PS4 Pro on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/04c3ada3b49bdc986e0406a0c0fd8401/5B619231/t51.2885-15/e35/28157878\_346750622476746\_2664395778256011264\_n.jpg);" alt="">. Meet Kratos’ New Companion:
+
+His Son Atreus
+
+Close
+
+*   Share Meet Kratos’ New Companion: on Facebook
+*   Share Meet Kratos’ New Companion: on Twitter
+*   Copy URL to share Meet Kratos’ New Companion:
+
+Play Meet Kratos’ New Companion: Video
+
+Sony on YouTube - Meet Kratos’ New Companion:
+
+Play Meet Kratos’ New Companion: Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/GOWPS4\_Screen\_PS4\_41747-600x600.jpg);" alt="God of War Designing an Effective Companion Video">. Our Latest OLED Screen Brings Natural Color to Life
+
+Find Out More
+
+Close
+
+*   Share Our Latest OLED Screen Brings Natural Color to Life on Facebook
+*   Share Our Latest OLED Screen Brings Natural Color to Life on Twitter
+*   Copy URL to share Our Latest OLED Screen Brings Natural Color to Life
+
+Play Our Latest OLED Screen Brings Natural Color to Life Video
+
+Sony on YouTube - Our Latest OLED Screen Brings Natural Color to Life
+
+Play Our Latest OLED Screen Brings Natural Color to Life Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/FY18Graphic\_In-Situation\_A8F\_jpg-600x600.jpg);" alt="BRAVIA OLED TV A8F">. Take Your Photography to the Next Level
+
+With the a7R III Camera
+
+Close
+
+*   Share Take Your Photography to the Next Level on Facebook
+*   Share Take Your Photography to the Next Level on Twitter
+*   Copy URL to share Take Your Photography to the Next Level
+
+With the a7R III Camera
+
+<img class="bg-img" class="url(/en\_us/media/content/ILCE-7RM3\_VX9121\_right1\_eps-600x600-2\_ESQprwg.jpg);" alt="a7R II">.
+
+The new touch screen overlay is responsive and accurate. pair it with any BRAVIA and transform it into an interactive display.
+
+23 hours ago
+
+View Tweet
+
+Cutting Edge Technology
+
+In the Palm of Your Hand
+
+Close
+
+*   Share Cutting Edge Technology on Facebook
+*   Share Cutting Edge Technology on Twitter
+*   Copy URL to share Cutting Edge Technology
+
+In the Palm of Your Hand
+
+<img class="bg-img" class="url(/en\_us/media/content/pf32\_group\_White\_Silver-600x600\_kHQnqEL.jpg);" alt="Xperia XZ2 Compact">.
+
+View SRS-XB41 portable wireless Bluetooth speaker on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/f3d82c2166f415e4fee248b44f27e140/5B5B8D3E/t51.2885-15/e35/29716611\_1982053565201455\_1915593368641994752\_n.jpg);" alt="">. Build the Strongest Kiryu Clan in the
 
 “Yakuza 6” Clan Creator Minigame
 
@@ -126,73 +229,75 @@ Sony on YouTube - Build the Strongest Kiryu Clan in the
 
 Play Build the Strongest Kiryu Clan in the Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/yakuza-6-the-song-of-life-screen-06-ps4-us-06dec17-600x600.jpg);" alt="Yakuza 6: The Song of Life">.
+<img class="bg-img" class="url(/en\_us/media/content/yakuza-6-the-song-of-life-screen-06-ps4-us-06dec17-600x600.jpg);" alt="Yakuza 6: The Song of Life">. Stay Aware of Your Surroundings with “Dual Listening”
 
-God of War will allow you to customize Kratos' armor and abilities, helping you find your favorite fighting style.
-
-6 days ago
-
-View Tweet
-
-View Playstation VR on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/18e634087215b0a976b0ccbf7870acd2/5B7101A2/t51.2885-15/e35/29403388\_424096674683928\_5593836234616078336\_n.jpg);" alt="">. Make Next-Level Photos
-
-With the a7R III Camera
+Learn About the Xperia Ear Duo
 
 Close
 
-*   Share Make Next-Level Photos on Facebook
-*   Share Make Next-Level Photos on Twitter
-*   Copy URL to share Make Next-Level Photos
+*   Share Stay Aware of Your Surroundings with “Dual Listening” on Facebook
+*   Share Stay Aware of Your Surroundings with “Dual Listening” on Twitter
+*   Copy URL to share Stay Aware of Your Surroundings with “Dual Listening”
 
-With the a7R III Camera
+Play Stay Aware of Your Surroundings with “Dual Listening” Video
 
-<img class="bg-img" class="url(/en\_us/media/content/ILCE-7RM3\_VX9121\_right1\_eps-600x600-2\_ESQprwg.jpg);" alt="a7R II">. Experience the Difference That 4K HDR Makes
+Sony on YouTube - Stay Aware of Your Surroundings with “Dual Listening”
 
-Check Out the A8F Series
+Play Stay Aware of Your Surroundings with “Dual Listening” Video hotspot
 
-Close
+<img class="bg-img" class="url(/en\_us/media/content/Ear\_Duo\_Lifestyle\_Male\_6-600x600.jpg);" alt="Xperia Ear Duo">. The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada
 
-*   Share Experience the Difference That 4K HDR Makes on Facebook
-*   Share Experience the Difference That 4K HDR Makes on Twitter
-*   Copy URL to share Experience the Difference That 4K HDR Makes
-
-Check Out the A8F Series
-
-<img class="bg-img" class="url(/en\_us/media/content/07-A8F-design-of-sophistication-600x600\_09cF6sr.jpg);" alt="BRAVIA OLED TV A8F">. Watch the Video for Tinashe's Hit Song “No Drama”
-
-Pre-Order “Joyride” Today
+See Their Photos
 
 Close
 
-*   Share Watch the Video for Tinashe's Hit Song “No Drama” on Facebook
-*   Share Watch the Video for Tinashe's Hit Song “No Drama” on Twitter
-*   Copy URL to share Watch the Video for Tinashe's Hit Song “No Drama”
+*   Share The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada on Facebook
+*   Share The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada on Twitter
+*   Copy URL to share The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada
 
-Play Watch the Video for Tinashe's Hit Song “No Drama” Video
+Play The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada Video
 
-Sony on YouTube - Watch the Video for Tinashe's Hit Song “No Drama”
+Sony on YouTube - The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada
 
-Play Watch the Video for Tinashe's Hit Song “No Drama” Video hotspot
+Play The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/TINASHE\_ALBUM\_PKG\_SONY\_RCA53918-600x600.jpg);" alt="Tinashe">. Record All of Your Videos in 4K HDR
+<img class="bg-img" class="url(/en\_us/media/content/Seville-2\_1-600x600.jpg);" alt="AICdoesSpain Adventure Of A Lifetime">. Transform a Painting Into a Living Spring Garden
 
-With the Xperia XZ2
+Turn On The Season
 
 Close
 
-*   Share Record All of Your Videos in 4K HDR on Facebook
-*   Share Record All of Your Videos in 4K HDR on Twitter
-*   Copy URL to share Record All of Your Videos in 4K HDR
+*   Share Transform a Painting Into a Living Spring Garden on Facebook
+*   Share Transform a Painting Into a Living Spring Garden on Twitter
+*   Copy URL to share Transform a Painting Into a Living Spring Garden
 
-With the Xperia XZ2
+Play Transform a Painting Into a Living Spring Garden Video
 
-<img class="bg-img" class="url(/en\_us/media/content/1-C\_4KHDR\_REC\_PF22\_Liquid\_Black-600x600\_26GAfw0.jpg);" alt="Xperia XZ2">.
+Sony on YouTube - Transform a Painting Into a Living Spring Garden
 
-Merch from all of the Sony Music labels? We've got you covered at #SonySquareNYC.
+Play Transform a Painting Into a Living Spring Garden Video hotspot
 
-5 days ago
+<img class="bg-img" class="url(/en\_us/media/content/TurnOnTheSeason\_PaintThePetals-600x600.jpg);" alt="Turn on the Season">. Noah Cyrus Recreates a Dramatic Version
+
+Of Her Hit “We Are…”
+
+Close
+
+*   Share Noah Cyrus Recreates a Dramatic Version on Facebook
+*   Share Noah Cyrus Recreates a Dramatic Version on Twitter
+*   Copy URL to share Noah Cyrus Recreates a Dramatic Version
+
+Play Noah Cyrus Recreates a Dramatic Version Video
+
+Sony on YouTube - Noah Cyrus Recreates a Dramatic Version
+
+Play Noah Cyrus Recreates a Dramatic Version Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/NoahCyrusLIM2-600x600.jpg);" alt="Noah Cyrus LIM Sessions Video">.
+
+Congratulations @MirandaLambert on your #ACMawards wins for #FemaleVocalist and #SongoftheYear!!! @ACMawards
+
+12 hours ago
 
 View Tweet
 
@@ -210,137 +315,33 @@ Almost Anywhere
 
 <img class="bg-img" class="url(/en\_us/media/content/LSPX-P1-600x600\_1Z14z2J.jpg);" alt="LSPX-P1 Projector ">.
 
-View RX0 compact camera on Instagram
+View Xperia XA2 Ultra on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c3d182656430613ef3462c656ed24aca/5B67F64F/t51.2885-15/e35/29401397\_1664147330328751\_8039073356609224704\_n.jpg);" alt="">. Capture Your World in 3D
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/1717403e053e6bc47e914904f19058bb/5B54C617/t51.2885-15/e35/30077990\_168374717199718\_6479085215443582976\_n.jpg);" alt="">. Take Your Workout To The Next Level
 
-With Xperia Phones
-
-Close
-
-*   Share Capture Your World in 3D on Facebook
-*   Share Capture Your World in 3D on Twitter
-*   Copy URL to share Capture Your World in 3D
-
-Play Capture Your World in 3D Video
-
-Sony on YouTube - Capture Your World in 3D
-
-Play Capture Your World in 3D Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/Screen\_Shot\_2018-04-09\_at\_1.26.26\_PM-600x600.jpg);" alt="Xperia&#39;s 3D Creator App at the WOW Studio">. Transform a Painting Into a Living Spring Garden
-
-Turn On The Season
+With WF-SP700N Headphones
 
 Close
 
-*   Share Transform a Painting Into a Living Spring Garden on Facebook
-*   Share Transform a Painting Into a Living Spring Garden on Twitter
-*   Copy URL to share Transform a Painting Into a Living Spring Garden
+*   Share Take Your Workout To The Next Level on Facebook
+*   Share Take Your Workout To The Next Level on Twitter
+*   Copy URL to share Take Your Workout To The Next Level
 
-Play Transform a Painting Into a Living Spring Garden Video
+With WF-SP700N Headphones
 
-Sony on YouTube - Transform a Painting Into a Living Spring Garden
+<img class="bg-img" class="url(/en\_us/media/content/WF-SP700N\_KeyVisual\_B\_jpg-600x600\_FSC6ahQ.jpg);" alt="WF-SP700N Sports Earbuds">. It’s the Last Week to Lay Down a Track in the Recording Booth
 
-Play Transform a Painting Into a Living Spring Garden Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/TurnOnTheSeason\_PaintThePetals-600x600.jpg);" alt="Turn on the Season">. The "Timeless" Cast Discuss How the Show Honestly Depicts Racism and Sexism
-
-Learn More About Season 2
+At Sony Square NYC
 
 Close
 
-*   Share The "Timeless" Cast Discuss How the Show Honestly Depicts Racism and Sexism on Facebook
-*   Share The "Timeless" Cast Discuss How the Show Honestly Depicts Racism and Sexism on Twitter
-*   Copy URL to share The "Timeless" Cast Discuss How the Show Honestly Depicts Racism and Sexism
+*   Share It’s the Last Week to Lay Down a Track in the Recording Booth on Facebook
+*   Share It’s the Last Week to Lay Down a Track in the Recording Booth on Twitter
+*   Copy URL to share It’s the Last Week to Lay Down a Track in the Recording Booth
 
-Play The "Timeless" Cast Discuss How the Show Honestly Depicts Racism and Sexism Video
+At Sony Square NYC
 
-Sony on YouTube - The "Timeless" Cast Discuss How the Show Honestly Depicts Racism and Sexism
-
-Play The "Timeless" Cast Discuss How the Show Honestly Depicts Racism and Sexism Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/TIME\_202-20180104-JL\_0024-600x600\_kw35Nzp.jpg);" alt="Timeless Season 2 ">. When You’re Already in Spring Mode, but the Weather’s Still Playing Catch-Up, You Go That Extra Mile
-
-Turn On The Season
-
-Close
-
-*   Share When You’re Already in Spring Mode, but the Weather’s Still Playing Catch-Up, You Go That Extra Mile on Facebook
-*   Share When You’re Already in Spring Mode, but the Weather’s Still Playing Catch-Up, You Go That Extra Mile on Twitter
-*   Copy URL to share When You’re Already in Spring Mode, but the Weather’s Still Playing Catch-Up, You Go That Extra Mile
-
-Play When You’re Already in Spring Mode, but the Weather’s Still Playing Catch-Up, You Go That Extra Mile Video
-
-Sony on YouTube - When You’re Already in Spring Mode, but the Weather’s Still Playing Catch-Up, You Go That Extra Mile
-
-Play When You’re Already in Spring Mode, but the Weather’s Still Playing Catch-Up, You Go That Extra Mile Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/TurnOnTheSeason\_SpinSeason-600x600.jpg);" alt="Turn On the Season: Spring Training">. Cam Changes Up Her Single “Diane”
-
-Check Out the Sessions Video
-
-Close
-
-*   Share Cam Changes Up Her Single “Diane” on Facebook
-*   Share Cam Changes Up Her Single “Diane” on Twitter
-*   Copy URL to share Cam Changes Up Her Single “Diane”
-
-Play Cam Changes Up Her Single “Diane” Video
-
-Sony on YouTube - Cam Changes Up Her Single “Diane”
-
-Play Cam Changes Up Her Single “Diane” Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/Screen\_Shot\_2018-03-27\_at\_11.50.56\_AM-600x600.jpg);" alt="Cam Lost in Music Session video">.
-
-Fine-art photographer and #SonyArtisan @ThibaultROLAND shares the gear he brings along when shooting his signature B&W long-exposures.
-
-5 days ago
-
-View Tweet
-
-Take Your Workout
-
-To The Next Level
-
-Close
-
-*   Share Take Your Workout on Facebook
-*   Share Take Your Workout on Twitter
-*   Copy URL to share Take Your Workout
-
-To The Next Level
-
-<img class="bg-img" class="url(/en\_us/media/content/WF-SP700N\_KeyVisual\_Y\_jpg-600x600\_0RALN6k.jpg);" alt="WF-SP700N Headphones">.
-
-View PS Gold Wireless Headset on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/f3ea1655b453d59721acb7f6a841ac89/5B5AB197/t51.2885-15/e35/28433958\_193651371227560\_7051874487968464896\_n.jpg);" alt="">. Full Surround Sound in One Slim Soundbar
-
-Learn More
-
-Close
-
-*   Share Full Surround Sound in One Slim Soundbar on Facebook
-*   Share Full Surround Sound in One Slim Soundbar on Twitter
-*   Copy URL to share Full Surround Sound in One Slim Soundbar
-
-Learn More
-
-<img class="bg-img" class="url(/en\_us/media/content/HT-Z9F\_ZF9\_inSitu01\_jpg-600x600-2\_SgNhhQ1.jpg);" alt="Z9F Sound Bar">. Want to Be on the Cover of DJ Khaled’s Grammy-Nominated “Major Key” Album?
-
-Strike a Pose at The Sony Music Experience
-
-Close
-
-*   Share Want to Be on the Cover of DJ Khaled’s Grammy-Nominated “Major Key” Album? on Facebook
-*   Share Want to Be on the Cover of DJ Khaled’s Grammy-Nominated “Major Key” Album? on Twitter
-*   Copy URL to share Want to Be on the Cover of DJ Khaled’s Grammy-Nominated “Major Key” Album?
-
-Strike a Pose at The Sony Music Experience
-
-<img class="bg-img" class="url(/en\_us/media/content/Khaled\_1-600x600.jpg);" alt="DJ Khaled Album Cover">.
+<img class="bg-img" class="url(/en\_us/media/content/Recording\_1-600x600.jpg);" alt="Sony Square NYC Recording Booth">.
 
 Load More
 
