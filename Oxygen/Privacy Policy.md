@@ -13,17 +13,18 @@ Open menu
     *   See All Shows
     
     *   Aaron Hernandez Uncovered
+    *   Abuse of Power
     *   Bobbi Kristina Brown: Deadly Legacy
     *   Chandra Levy: Who Killed Chandra?
     *   Chicago P.D.
     *   Dateline: Secrets Uncovered
-    *   In Ice Cold Blood
     
+    *   In Ice Cold Blood
     *   It Takes A Killer
-    *   Killer Couples
     *   Mysteries &. Scandals
     *   OJ Simpson: The Crimes and Punishment
     *   Snapped
+    *   The Turpin 13: Family Secrets Exposed
 *   Full Episodes
 *   Videos
 *   Schedule
@@ -37,17 +38,18 @@ Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
     *   See All Shows
     
     *   Aaron Hernandez Uncovered
+    *   Abuse of Power
     *   Bobbi Kristina Brown: Deadly Legacy
     *   Chandra Levy: Who Killed Chandra?
     *   Chicago P.D.
     *   Dateline: Secrets Uncovered
-    *   In Ice Cold Blood
     
+    *   In Ice Cold Blood
     *   It Takes A Killer
-    *   Killer Couples
     *   Mysteries &. Scandals
     *   OJ Simpson: The Crimes and Punishment
     *   Snapped
+    *   The Turpin 13: Family Secrets Exposed
 *   Full Episodes
 *   Videos
 *   Schedule
