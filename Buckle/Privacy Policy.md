@@ -242,10 +242,10 @@ It’s the little things that make a big difference. Shop Accessories.
         
         *   Women's Trends
         
+        *   Billabong Exclusive
         *   '90s Are Forever
         *   Statement Sleeves
         *   Wide Leg
-        *   Bright Whites
         *   Mules
         *   Embellished
         *   Simple Stripes
