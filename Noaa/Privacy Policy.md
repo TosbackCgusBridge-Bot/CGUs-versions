@@ -96,7 +96,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Education Count down to Citizen Science Day with NOAA Oceans &. Coasts Podcast: What is an ocean garbage patch? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Science and shipwrecks: Preserving America’s maritime history Oceans &. Coasts Podcast: What is an ocean garbage patch? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Educati
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. hit with 3 billion-dollar disasters in first 3 months of 2018 March was cold and snowy in much of the East, warm in the south-central U.S. AROUND NOAA // Count down to Citizen Science Day with NOAA Harvey, Irma, Maria and Nate retired by the World Meteorological Organization Science and shipwrecks: Preserving America’s maritime history
+Enter Search Terms Science in service to the planet we call home See this roundup of Earth Day-inspired stories, video you don’t want to miss AROUND NOAA // Science and shipwrecks: Preserving America’s maritime history Harvey, Irma, Maria and Nate retired by the World Meteorological Organization U.S. hit with 3 billion-dollar disasters in first 3 months of 2018
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-Courtesy of Eric Druxman
+iStock
