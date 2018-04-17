@@ -1,4 +1,4 @@
-close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE NOW1st month FREE
+SUBSCRIBE NOW1st month FREE
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE 
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Pasoans embrace 'inner nerds' at Comic ConNewsLuxury box seats to be Sun Bowl's new additionCollegeMistrial declared in Border Patrol agent's slayingCrimeWind advisory extended, debris closes I-10 lanesNewsComedian Felipe Esparza to bring show to El PasoEntertainmentEx-pastor says man started fight for drug moneyCrimeQuarterbacks shine in UTEP spring gameSportsEl Paso shelter animals flown out to new homesLocalJury sequestered in trial in border agent's deathCrimeDEA arrests El Paso doctor on drug chargesCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowHave you seen the week's most-wanted fugitives?CrimeOne dead, two injured in two-vehicle crash.LocalTrump's border barrier: Is it a wall or fence?ImmigrationTimes wins award for report on EPISD contractNewsEl Paso winds calm Sunday, kick up MondayNewsEl Pasoans embrace 'inner nerds' at Comic ConNewsMan not hurt after bullets strike carCrimeStanford art aficionados surprised by El PasoOpinionRear detachment: 40 doing the jobs of 120MilitarySunland Derby winner injured, out of Kentucky DerbySportsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,5 +142,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
