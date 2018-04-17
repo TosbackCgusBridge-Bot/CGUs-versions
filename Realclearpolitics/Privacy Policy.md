@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Hilary Gowins_: Budget Woes, Out-Migration Color Illinois Gov. Race
+*   _Amy Sorkin_: Comey's Blistering Interview About Donald Trump
     
-*   _Peter Berkowitz_: Vilifying Israel, Corrupting the University
+*   _Joseph Wulfsohn_: Like Clinton, Will Comey Be Shielded From Prosecution?
     
-*   _Abigail Tracy_: James Comey's Time in the Spotlight Has Come
+*   _Juan Williams_: The Stench From Trump's Swamp Is Growing
     
-*   _Newt Gingrich_: How James Comey Has Tarnished the FBI
+*   _Miller &. Sokolsky_: Trump's Syria Strike Was Best Choice Amid Bad Options
     
-*   _Benjamin Wittes_: Principle of Professional Law Enforcement Is on the Line
+*   _Eliot Cohen_: Neither Precise Nor Proportionate
     
-*   _Keiser & Munson_: Pompeo Will Be an Impressive Secretary of State
+*   _Sebastian Gorka_: Trump Is Not a Neoconservative and Never Will Be
     
-*   _David Kirkpatrick_: The Facebook Defect: How Zuckerberg Disregarded Privacy
+*   _David Leonhardt_: Democrats Are the Party of Fiscal Responsibility
     
-*   _Cox & Krinsky_: Federal Immigration Efforts Separate Cops &. Community
+*   _Stephen Moore_: Let's Be Real, Trump Inherited Trillion Dollar Deficit
     
-*   _David Aguilar_: I Ran Border Patrol &. Support Trump's National Guard Call
+*   _Chuck DeVore_: Why I Had to Finally Leave California and Move to Texas
     
-*   _Roy Gutman_: Mr. Trump, Here's Why Assad Has to Go
+*   _Robert Reich_: The Truth About an Untethered President Trump
     
-*   _Tucker Carlson vs. Noah Rothman_: Should the U.S. Intervene in Syria?
+*   _Piers Morgan_: Comey Confirms That Trump Was Right to Fire Him
     
-*   _Paul Waldman_: The Republican Party vs. James Comey
+*   _Michael Graham_: Lacking Any Evidence, Comey Turns Petty and Political
     
-*   _Joy Pullmann_: Does Comey Write YA Fiction Novels in His Spare Time?
+*   _Charles Blow_: Dislike Comey, Despise Trump
     
-*   _Matthew Continetti_: American Politics In a Convex Mirror
+*   _Roger Kimball_: Mueller's Adventure Is All About Hounding Trump From Office
     
-*   _Michiko Kakutani_: James Comey Has a Story to Tell. It's Very Persuasive.
+*   _Martin Indyk_: A Trump Doctrine for the Middle East: Disengagement
     
-*   _Robert Charles_: Comey's Book Full of Praise for Himself, Lies About Trump
+*   _Christian Whiton_: Trump Is Right to Declare 'Mission Accomplished' in Syria
     
-*   _Peter Hamby_: A Eulogy to Paul Ryan's Beguiling Career
+*   _Thomas Friedman_: The Real Next War in Syria: Iran vs. Israel
     
-*   _Michael Barone_: Speaker Ryan Follows the Lead of Speaker Reed
+*   _Robert Samuelson_: Can the U.S. Avoid a Debt Crisis?
     
-*   _James Arkin_: Flipping Script, Democrats Attack GOP on Fiscal Responsibility
+*   _Ryan Zinke_: American Energy Dominance Means Massachusetts Wind
     
-*   _Emily Jashinsky_: Do Dems Have to Toss Pelosi to Win the House?
+*   _Carolyn Kormann_: Ryan Zinke's Great American Fire Sale
     
-*   _David Ignatius_: The Consequences of a Syrian Strike
+*   _Kurt Schlichter_: Fearsome Blue Wave or Flaccid Democrat Failure?
     
-*   _Gordan Chang_: China Trade: Trump Stares, Xi Jinping Blinks
+*   _Will Wilkinson_: Ryan, Trump and a Republican Party in Free Fall
     
-*   _Fred Kaplan_: Pompeo Could Enable Trump's Worst Instincts
+*   _David Smick_: America Needs Federal 'Baby Bonds'
     
-*   _Fred Barnes_: Jeff Sessions and His Enemies
+*   _Paul Sperry_: Broward School Violence: The Rest of the Story
     
 
 *   Previous
@@ -254,11 +254,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Wanted Out of Syria, But He's Drawn Back In
+*   Ryan-Backed Group Releases New Tax-Cut Ads
+*   Comey: Trump "Morally Unfit to Be President"
+*   "Mission Accomplished": Trump Hails "Perfectly Executed Strike"
 *   Flipping Script, Dems Attack Republicans on Fiscal Responsibility
-*   Trump Flips on Trade Pact, Weighs Rejoining Trans-Pacific Partnership
-*   Mattis: U.S. Concerned Syria Strikes Would "Escalate Out of Control"
-*   Ryan's Retirement Has Republicans Grappling With Midterm Impact
-*   With Ryan's Exit, Republicans May Shift Resources to Senate
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -273,26 +273,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalABC News/Wash Post
-    *   Approve44
-    *   Disapprove54Disapprove +10
-*   2018 Generic Congressional VoteNBC News/Wall St. Jrnl
+*   2018 Generic Congressional VoteABC News/Wash Post
     *   Democrats47
-    *   Republicans40Democrats +7
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Republicans43Democrats +4
+*   President Trump Job ApprovalGallup
     *   Approve39
-    *   Disapprove57Disapprove +18
-*   Arkansas Governor - Hutchinson vs. HendersonMason-Dixon
-    *   Hutchinson63
-    *   Henderson24Hutchinson +39
+    *   Disapprove55Disapprove +16
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve51
+    *   Disapprove48Approve +3
+*   Arizona 8th District Special Election - Lesko vs. TipirneniEmerson
+    *   Tipirneni46
+    *   Lesko45Tipirneni +1
 
 More Latest Polls In The News
 
-*   Sally Yates: Trump Seems To View The Justice Department As His Own Personal Lawyers
+*   Kellyanne Conway: Comey Interview "A Free Political Commercial" For People To Vote Against Trump
 *   NYT's Maggie Haberman on Comey Book: "Doesn't Seem Like There Is A Ton Of News In It"
+*   Sally Yates: Trump Seems To View The Justice Department As His Own Personal Lawyers
 *   Christie on Comey's "Hubris": I Worked For Comey, If I Did What He Did He Would Have Fired Me
 *   Maher: Trump Won't Leave Willingly If Impeached. Who Will Knock On The Door And Make Him Go?
-*   David Brooks on Comey: From What I Have Read, The Book Passes The Smell Test. "Honest" Person
 
 *   Politics
 *   Policy
