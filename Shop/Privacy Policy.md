@@ -12,7 +12,7 @@ Menu Close Menu Close
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
         *   Ideapad Laptops Ideapad Laptops From gamers to students to first-time owners, there's one for everybody.
         *   2-in-1 PCs 2-in-1 PCs Multimedia tablets with multiple modes, including Stand, Hold, and Hang.
-        *   Student Laptops Student Laptops Innovative design, responsive performance
+        *   Student Laptops
         *   Gaming Laptops
         *   Chromebooks Chromebooks
         *   SMALL BUSINESS LAPTOPS
@@ -27,7 +27,6 @@ Menu Close Menu Close
         *   *   Explore all 2-in-1s
             
         *   *   Explore Lenovo
-            
         *   *   Gaming
         *   *   Explore all Chromebooks
             
@@ -366,11 +365,11 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers   
 
-Built to perform. Engineered to endure.
+Ultralight. Ultrapowerful. Ultra-no-brainer.
 
-Now available!
+Shop ThinkPad X1 Carbon 6th Gen >.
 
 For those who set—not follow—trends.  
 With 8th Gen Intel® Core® i7 power in polished frames and premium audio-visuals.
@@ -393,19 +392,19 @@ Learn more >
 
 TODAY'S SALES
 
-Great deals on select products.
+Save up to 26% through April 18.
 
-Lenovo Small Business
+Introducing LenovoPRO for Small Business
 
-Explore how Lenovo can be your small business partner.
+Save 5%on products when you create an account.
 
-Flash Sale Live Now! 
+Thin &. Light Flash Sale Live Now!
 
 Save up to $600 off on select ultra slim, thinner, lighter and engineered to last as long as you do. Sale Ends April 18.
 
-Lenovo Explorer Headset
+All New ThinkPad X1 Yoga 3rd Gen
 
-Immersive Headset for Windows Mixed Reality
+Now available. Customize yours.
 
 ThinkSmart Hub 500  
 The Smarter Way to Collaborate
@@ -422,7 +421,7 @@ TABLETS
 
 Android and Windows tablets engineered for enhanced productivity and a rich multimedia experience.
 
-ACCESSORIES
+Accessories and Monitors
 
 From monitors to docks, keyboards to mice, graphics to software, and everything in between.
 
