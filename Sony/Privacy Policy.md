@@ -109,7 +109,7 @@ Inspired By Kratos’ Axe
 
 Where has Kratos been since God of War III?
 
-2 hours ago
+1 day ago
 
 View Tweet
 
@@ -297,7 +297,7 @@ Play Noah Cyrus Recreates a Dramatic Version Video hotspot
 
 Congratulations @MirandaLambert on your #ACMawards wins for #FemaleVocalist and #SongoftheYear!!! @ACMawards
 
-12 hours ago
+1 day ago
 
 View Tweet
 
