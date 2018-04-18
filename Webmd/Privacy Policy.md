@@ -106,9 +106,9 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Early Periods May Raise Obesity Risk Later
-    *   Stores Urged to Pull Products With Deadly Chemical
-    *   Dermal Fillers: Fewer Wrinkles Can Be Risky
+    *   Genetic Testing: Do You Really Want to Know?
+    *   New Drugs May Be Big Advance Against Lung Cancer
+    *   Animal Feces Found in Counterfeit Makeup
     *   Man Has World's First Case of Super-Gonorrhea
     *   SCAD: The Heart Attack That Strikes Young Women
     
