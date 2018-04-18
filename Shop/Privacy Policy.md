@@ -365,18 +365,17 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers   
+Home >. Filter by specs Offers
 
 Ultralight. Ultrapowerful. Ultra-no-brainer.
 
 Shop ThinkPad X1 Carbon 6th Gen >.
 
-For those who set—not follow—trends.  
-With 8th Gen Intel® Core® i7 power in polished frames and premium audio-visuals.
+Welcome to the Yoga Family!
 
-Shop 15">  
-Shop 14">  
-Shop 13">.
+All Aluminum chassis, 10-point multitouch display with top-of-the-line NVIDIA® GeForce GTX 1050. Design. Game. Work. Play.
+
+Shop Now >
 
 Different Innovates Better
 
