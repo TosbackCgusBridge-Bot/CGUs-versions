@@ -1,4 +1,4 @@
-Gift Cards | Offers | Sign In Sign Out
+THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details Gift Cards | Offers | Sign In Sign Out
 
 *   Fandango
 *   Go
@@ -71,30 +71,31 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'Terminator' Reboot Adds 3 Newcomers. Here's Everything We Know Read More
+    *   Danny Boyle's Music-Themed Comedy With Lily James and Kate McKinnon Nabs Release Date Read More
     *   Blumhouse's Next 3 Movies: 'The First Purge,' 'BlacKkKlansman,' 'Halloween' Read More
-    *   Jason Clarke Touted for 'Pet Sematary' Remake. Here's Everything We Know Read More
+    *   Cathy Yan to Direct Margot Robbie as Harley Quinn. Here's What We Know So Far Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
+    *   Summer Movie Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Join FandangoVIP Refunds + Exchanges
+*   My VIP Account Join FandangoVIP Get Points + Save
     
-    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
-    
-    Learn more Partner Rewards
-    
-    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
-    
-    Learn more My Fandango
-    
-    Save your favorite theaters and movies to experience a customized Fandango just for you.
+    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
     
     Learn more Insider Perks
     
-    Get the VIP treatment, free screenings, digital downloads, discounts and more.
+    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+    
+    Learn more Partner Rewards
+    
+    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+    
+    Learn more Refunds + Exchanges
+    
+    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
     
     Learn more Join Fandango VIP For Free
     
@@ -102,7 +103,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     Already a Fandango VIP? Sign In
 
-Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms
+Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms
 
 Last updated: January 11, 2018
 
@@ -301,6 +302,7 @@ Experience + Explore
 Editorial Features
 
 *   Indie Movie Guide
+*   Summer Movie Guide
 *   Family Guide
 *   Movie News
 
@@ -321,4 +323,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
