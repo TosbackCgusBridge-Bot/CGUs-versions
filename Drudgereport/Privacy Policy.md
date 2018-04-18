@@ -135,9 +135,17 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 6 Likes, 3 Retweets, 1.92K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/MRxa…
+
+About 5 hours ago
+
+Our biggest fans this week: @mrmistry, @Requidan, @Cassin75. Thank you! via sumall.com/thankyou?… pic.twitter.com/mYF9…
+
+About 16 hours ago
+
 My week on Twitter : 2 Mentions, 577 Mention Reach, 5 Likes, 3 Retweets, 2.41K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/6CZD…
 
-About 6 days ago
+Last week
 
 Our biggest fans this week: @mrmistry, @Requidan. Thank you! via sumall.com/thankyou?… pic.twitter.com/RNCR…
 
@@ -146,14 +154,6 @@ Last week
 One more day! Catch Erik @Requidan at @adexchanger's #PROGIO discussing all things DPO tomorrow at 1:30PM PST. See you there! pic.twitter.com/1cFo…
 
 Last week
-
-Check out @eMarketer @RossBenes interview of the week with our VP of Sales &. #Programmatic Strategy @Requidan! Find out how #publishers squeeze value from ad auction data &. more: emarketer.com/conten…
-
-Last week
-
-.@adexchanger #PROGIO San Fran is next week! Don't miss @Requidan talk about the importance of Demand Path Optimization on 4/10 at 1:30PM. See you there! pic.twitter.com/rTFv…
-
-About 2 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
