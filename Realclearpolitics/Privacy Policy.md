@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Amy Sorkin_: Comey's Blistering Interview About Donald Trump
+*   _Roger Kimball_: The McCabe Report Is Just an Appetizer
     
-*   _Joseph Wulfsohn_: Like Clinton, Will Comey Be Shielded From Prosecution?
+*   _Harry Litman_: Comey's No Angel, But He's Not a Threat to Republic Like Trump
     
-*   _Juan Williams_: The Stench From Trump's Swamp Is Growing
+*   _Lauren Appell_: Make the Tax Cuts Permanent &. Force Dems Into a Do-Over
     
-*   _Miller &. Sokolsky_: Trump's Syria Strike Was Best Choice Amid Bad Options
+*   _Sophia Tesfaye_: Paul Ryan's Parting Gift for the Rich
     
-*   _Eliot Cohen_: Neither Precise Nor Proportionate
+*   _Thomas Lifson_: A 'Goldilocks' Air Strike on Syria
     
-*   _Sebastian Gorka_: Trump Is Not a Neoconservative and Never Will Be
+*   _Susan Glasser_: Just How Dangerous Is Donald Trump?
     
-*   _David Leonhardt_: Democrats Are the Party of Fiscal Responsibility
+*   _Caitlin Huey-Burns_: Democrats' Comey Dilemma
     
-*   _Stephen Moore_: Let's Be Real, Trump Inherited Trillion Dollar Deficit
+*   _Ed Rogers_: Comey Never Should've Been FBI Head in First Place
     
-*   _Chuck DeVore_: Why I Had to Finally Leave California and Move to Texas
+*   _Renee Graham_: Not Just Starbucks: White Fear Is an American Problem
     
-*   _Robert Reich_: The Truth About an Untethered President Trump
+*   _John Davidson_: For Progressives, Moralizing Just a Way to Control People
     
-*   _Piers Morgan_: Comey Confirms That Trump Was Right to Fire Him
+*   _Maya Kosoff_: Is the Law Finally Catching Up to Mark Zuckerberg?
     
-*   _Michael Graham_: Lacking Any Evidence, Comey Turns Petty and Political
+*   _Paul Waldman_: Americans Don't Pay Enough Taxes
     
-*   _Charles Blow_: Dislike Comey, Despise Trump
+*   _President Donald Trump_: Our Economy Is Back &. U.S. Workers Are Winning
     
-*   _Roger Kimball_: Mueller's Adventure Is All About Hounding Trump From Office
+*   _Eugene Robinson_: Only You and I Can Stop Trump
     
-*   _Martin Indyk_: A Trump Doctrine for the Middle East: Disengagement
+*   _Victor Davis Hanson_: Colluders on the Loose
     
-*   _Christian Whiton_: Trump Is Right to Declare 'Mission Accomplished' in Syria
+*   _Richard Wolffe_: Comey Helped Trump Win. He Wants to Undo His Mistake
     
-*   _Thomas Friedman_: The Real Next War in Syria: Iran vs. Israel
+*   _Wesley Pruden_: Critics From Left &. Right Agree: Comey IS a Slimeball
     
-*   _Robert Samuelson_: Can the U.S. Avoid a Debt Crisis?
+*   _Peter Berkowitz_: 10 Questions Stephanopoulos Didn't Ask Comey
     
-*   _Ryan Zinke_: American Energy Dominance Means Massachusetts Wind
+*   _Jonathan Spyer_: The Great Distraction of Punitive Airstrikes
     
-*   _Carolyn Kormann_: Ryan Zinke's Great American Fire Sale
+*   _Walter Russell Mead_: Trump's Realist Syria Strategy
     
-*   _Kurt Schlichter_: Fearsome Blue Wave or Flaccid Democrat Failure?
+*   _Robert Fisk_: The Search for Truth in the Rubble of Douma
     
-*   _Will Wilkinson_: Ryan, Trump and a Republican Party in Free Fall
+*   _Henry Grabar_: Laughs, Gasps, and a Burn From the Bench
     
-*   _David Smick_: America Needs Federal 'Baby Bonds'
+*   _Helen Raleigh_: IG Report Proves McCabe's Firing Was Justified
     
-*   _Paul Sperry_: Broward School Violence: The Rest of the Story
+*   _Jason Zengerle_: Kirsten Gillibrand, Senator From the State of #MeToo
     
 
 *   Previous
@@ -254,9 +254,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Wanted Out of Syria, But He's Drawn Back In
 *   Ryan-Backed Group Releases New Tax-Cut Ads
-*   Comey: Trump "Morally Unfit to Be President"
+*   Trump Hosts Japan's Abe Amid Strain Over N. Korea, Tariffs
+*   Carter: IG Report on McCabe Is Just the Tip of the Iceberg
 *   "Mission Accomplished": Trump Hails "Perfectly Executed Strike"
 *   Flipping Script, Dems Attack Republicans on Fiscal Responsibility
 *   Presidential Job Approval
@@ -273,26 +273,27 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   2018 Generic Congressional VoteABC News/Wash Post
-    *   Democrats47
-    *   Republicans43Democrats +4
-*   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove55Disapprove +16
+*   Arizona Senate - Republican PrimaryMagellan (R)
+    *   McSally36
+    *   Arpaio26
+    *   Ward25McSally +10
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve51
-    *   Disapprove48Approve +3
+    *   Approve49
+    *   Disapprove50Disapprove +1
 *   Arizona 8th District Special Election - Lesko vs. TipirneniEmerson
     *   Tipirneni46
     *   Lesko45Tipirneni +1
+*   President Trump Job ApprovalGallup
+    *   Approve39
+    *   Disapprove55Disapprove +16
 
 More Latest Polls In The News
 
-*   Kellyanne Conway: Comey Interview "A Free Political Commercial" For People To Vote Against Trump
-*   NYT's Maggie Haberman on Comey Book: "Doesn't Seem Like There Is A Ton Of News In It"
-*   Sally Yates: Trump Seems To View The Justice Department As His Own Personal Lawyers
-*   Christie on Comey's "Hubris": I Worked For Comey, If I Did What He Did He Would Have Fired Me
-*   Maher: Trump Won't Leave Willingly If Impeached. Who Will Knock On The Door And Make Him Go?
+*   Trump Supporters React to Comey Interview in CNN Focus Group: "Weak," "Thin-Skinned," Diminished FBI
+*   Anderson Cooper vs. Jim Jordan: You're Very Bold On Calling Out Andrew McCabe, Not So Much With Trump
+*   Tucker Carlson: Real Value Of Comey Interview Is What It Says About James Comey, He's A Partisan
+*   Mark Penn: We Must Stop Using Criminal Process To Get Rid Of Election Winners We Don't Like
+*   McConnell on Trump: "We Haven't Had Any Disputes In A While And I Have Enjoyed This Period"
 
 *   Politics
 *   Policy
