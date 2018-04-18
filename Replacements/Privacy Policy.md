@@ -269,7 +269,7 @@ Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Compan
 
 1-800-REPLACE Our Blog | My Account Terms &. Conditions | Site Map | Privacy Policy
 
-© 2018 Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301, USA
+© Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301, USA
 
 <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PR6WVR' height='0' width='0' style='display:none;visibility:hidden'></iframe>.
 
