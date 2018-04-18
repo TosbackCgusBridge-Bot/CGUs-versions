@@ -59,7 +59,6 @@ menu Close 0 Free Shipping on $50+
     
     *   New Arrivals
     *   The Starfish Collection
-    *   Soft Leisure
     *   Tunic Shop
     *   Sale
     
@@ -424,7 +423,6 @@ menu Close 0 Free Shipping on $50+
         *   Back
         *   New Arrivals
         *   The Starfish Collection
-        *   Soft Leisure
         *   Tunic Shop
         *   Sale
     *   SHOES
@@ -800,9 +798,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 50% off full-price polos, t-shirts &. tank tops!
 
-code: BLOSSOM pin: 4716 DETAILS
+code: KNIT pin: 3473 DETAILS
 
 Customer Service Menu
 
