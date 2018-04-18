@@ -371,6 +371,7 @@ Copyright © 2018 SPIL GAMES All rights reserved.
 *   Terms of Use
 *   Privacy Policy
 *   Privacy Policy, Kids &. Parents
+*   Information for Parents
 *   About Us
 *   Advertise with Us
 *   Submit a Game
