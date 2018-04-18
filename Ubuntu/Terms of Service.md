@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 17 April 2018 ›
+*   LXD weekly status #43 ›
 *   BotsAndUs build a social robot on Ubuntu ›
 *   On the road to lean infrastructure ›
 *   Ubuntu Desktop weekly update – 13 April 2018 ›
-*   JFrog Artifactory and Canonical’s Distribution of Kubernetes ›
-*   Ubuntu available on IBM LinuxOne Rockhopper II ›
