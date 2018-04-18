@@ -72,7 +72,7 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Facebook Twitter LinkedIn Email Addthis Home › Privacy Statement Privacy Statement
+Home › Privacy Statement Privacy Statement
 
 The Online Trust Alliance is now part of the Internet Society, (ISOC) and governed by the new ISOC Privacy Statement, published August 17, 2017.   As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here.   Questions please email privacy@isoc.org.   
 
@@ -91,6 +91,10 @@ Once again OTA is an Associaton Sponsor of the RSA® Conference. Join us and oth
 *   OTA Blog
 *   Newsletters
 
+Tue, Apr 17, 2018 Space Invaders - Consumer-Grade IoT in the Enterprise
+
+I used to love the old Space Invaders arcade game - waves of enemy attackers came in faster and faster while you tried to defend your base. With experience you could learn their tactics and get pretty adept at stopping them. For today’s enterprise IT staff, consumer-grade IoT devices must certainly feel like those space invaders of old.
+
 Thu, Jan 25, 2018 The Cyber Incident Tsunami - Time to Get Ready
 
 In advance of Data Privacy &. Protection Day, we just released the Cyber Incident &. Breach Trends Report (press release here), a look back at the cyber incident trends in 2017 and what can be done to address them.
@@ -102,10 +106,6 @@ The past six months we have witnessed an un-paralleled level of questionable bus
 Wed, Aug 30, 2017 CAN-SPAM - Looking Ahead &. Looking Global
 
 This week OTA / the Internet Society joined nearly 90 individuals and organizations submitting comments in response to the US Federal Trade Commission call for comments in regard to the CANSPAM Act.  By most accounts, the interactive marketing industry and email community have demonstrated a commitment towards compliance and the overall user experience.  Based on OTA's own research businesses are unsubscribing t
-
-Tue, Jun 20, 2017 2017 Online Trust Audit Released - What Did We Learn?
-
-Today we released the 9th annual Online Trust Audit and Honor Roll. This year’s Audit is our most comprehensive ever, assessing more than 1000 consumer-facing sites for their adoption of best practices in consumer/brand protection, site security and responsible privacy practices.
 
 More >>. Resources
 
