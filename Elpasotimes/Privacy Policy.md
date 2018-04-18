@@ -1,4 +1,4 @@
-SUBSCRIBE NOW1st month FREE
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialogSUBSCRIBE NOW1st month FREE
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW1st month FREE
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowHave you seen the week's most-wanted fugitives?CrimeOne dead, two injured in two-vehicle crash.LocalTrump's border barrier: Is it a wall or fence?ImmigrationTimes wins award for report on EPISD contractNewsEl Paso winds calm Sunday, kick up MondayNewsEl Pasoans embrace 'inner nerds' at Comic ConNewsMan not hurt after bullets strike carCrimeStanford art aficionados surprised by El PasoOpinionRear detachment: 40 doing the jobs of 120MilitarySunland Derby winner injured, out of Kentucky DerbySportsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowAlbertsons-anchored East Side Montwood Mall soldBusinessUSA TODAY border wall project wins PulitzerImmigrationSWAT team arrests Northeast shooting suspectCrimeHave you seen the week's most-wanted fugitives?CrimePaying taxes Tuesday? Feel better with free treatNewsGang police investigate gunfire in East El PasoCrimeCommanders, officer killed in Chihuahua attacksCrimeOne dead, two injured in two-vehicle crash.LocalTrump's border barrier: Is it a wall or fence?ImmigrationTimes wins award for report on EPISD contractNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,3 +142,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog1st Month FreeSpring Sale On Now Subscribe Nowclose dialog
