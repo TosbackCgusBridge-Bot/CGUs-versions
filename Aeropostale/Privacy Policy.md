@@ -140,6 +140,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Ankle Jegging
 *   High Rise Jegging
 *   Cropped Jegging
+*   Super High Rise Jegging
 *   Skinny
 *   Ankle Straight
 *   Bootcut
@@ -473,6 +474,7 @@ Menu Find a Store Aeropostale
         *   Ankle Jegging
         *   High Rise Jegging
         *   Cropped Jegging
+        *   Super High Rise Jegging
         *   Skinny
         *   Ankle Straight
         *   Bootcut
