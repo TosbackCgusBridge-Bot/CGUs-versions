@@ -46,7 +46,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Operations
         *   Communities last item in this group
     *   Remuneration
-        *   Employee share plans last item in this group
+        
     
     *   Measuring our impact
         
