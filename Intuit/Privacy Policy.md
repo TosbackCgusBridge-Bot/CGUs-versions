@@ -98,17 +98,17 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     was $36
     
     Stafford® Travel Easy-Care Broadcloth Dress Shirt(1092)Add To Cart
-*   $9.99 sale
+*   $9.99 - $13.99 sale
     
     was $36
     
     Stafford Travel Easy-Care Long Sleeve Broadcloth Checked Dress Shirt(2)Add To Cart
-*   $9.99 sale
+*   $9.99 - $13.99 sale
     
     was $36
     
     Stafford Travel Easy-Care Long Sleeve Broadcloth Stripe Dress Shirt(1)Add To Cart
-*   $9.99 sale
+*   $9.99 - $13.99 sale
     
     was $36
     
@@ -128,17 +128,17 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     was $50
     
     Stafford Travel Stretch Fashion Long Sleeve Broadcloth Grid Dress Shirt(1)Add To Cart
-*   $9.99 sale
+*   $9.99 - $13.99 sale
     
     was $36
     
     Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Gingham Dress Shirt(2)Add To Cart
-*   $9.99 sale
+*   $9.99 - $13.99 sale
     
     was $36
     
     Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Dress ShirtAdd To Cart
-*   $9.99 sale
+*   $9.99 - $13.99 sale
     
     was $36
     
@@ -148,7 +148,7 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     was $36
     
     Stafford Travel Easy-Care Broadcloth Long-Sleeve Dress ShirtAdd To Cart
-*   $8.99 - $9.99 sale
+*   $8.99 - $13.99 sale
     
     was $36
     
@@ -159,57 +159,93 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     
     Stafford® Travel Easy-Care Broadcloth Dress Shirt(1092)Add To Cart
 
-BIKES FOR THE FAMILYSHOP ALLBIKES FOR THE FAMILYSHOP ALL
+25% OFF WOMEN'S NIKE SHOESSHOP ALL25% OFF WOMEN'S NIKE SHOESSHOP ALL
 
-*   $104.99
+*   LIMITED TIME SPECIAL!
     
-    Mongoose Spectra 20" Girls Mountain BikeAdd To Cart
-*   $179.99
+    View Price in Cart
     
-    Mongoose Hondo 27.5" Mens Mountain BikeAdd To Cart
-*   $99.99
+    Nike Flex Trainer 8 Womens Training ShoesAdd To Cart
+*   LIMITED TIME SPECIAL!
     
-    Mongoose BMmaX 20" Boys Fat Tire BikeAdd To Cart
-*   $284.99
+    View Price in Cart
     
-    Schwinn Discover 700c Womens Cross-Commuter HybridBike(2)Add To Cart
-*   $109.99
+    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
+*   LIMITED TIME SPECIAL!
     
-    Pacific Stratus 26" Mens Rigid Fork ATB Mountain BikeAdd To Cart
-*   $209.99
+    View Price in Cart
     
-    Schwinn Wayfarer 700c Womens Hybrid Retro City Bike(4)Add To Cart
-*   $79.99
+    Nike Flex Trainer 8 Womens Training ShoesAdd To Cart
+*   LIMITED TIME SPECIAL!
     
-    12" My Little Pony BikeAdd To Cart
-*   $104.99
+    View Price in Cart
     
-    Kulana Hiku 24" Girls Cruiser BikeAdd To Cart
-*   $104.99
+    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    Kulana Hiku 26" Mens Cruiser BikeAdd To Cart
-*   $160.99
+    $52.50 sale
     
-    Huffy Deluxe 24" Classic CruiserAdd To Cart
-*   $269.99
+    was $70
     
-    Schwinn Network 2.0 700c Mens Hybrid BikeAdd To Cart
-*   $269.99
+    Nike Flex Trainer 7 Womens Training Shoes(9)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    Schwinn Volare 1200 700c Mens Flat Bar Road BikeAdd To Cart
-*   BEST VALUE!
+    View Price in Cart
     
-    $249.89
+    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
+*   LIMITED TIME SPECIAL!
     
-    Kawasaki DX Full Suspension Men's Mountain BicycleAdd To Cart
-*   BEST VALUE!
+    View Price in Cart
     
-    $265.59
+    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
+*   LIMITED TIME SPECIAL!
     
-    Hollandia Amsterdam 7 Unisex Folding BicycleAdd To Cart
-*   $118.99
+    View Price in Cart
     
-    Huffy Good Vibrations 20" BikeAdd To Cart
+    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $41.25 sale
+    
+    was $55
+    
+    Nike® Court Royal Womens Tennis Shoes(8)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $48.75 sale
+    
+    was $65
+    
+    Nike Flex Experience Rn 6 Womens Running Shoes(2)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    View Price in Cart
+    
+    Nike Flex Experience Rn 7 Womens Running Shoes(5)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $48.75 sale
+    
+    was $65
+    
+    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    View Price in Cart
+    
+    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    View Price in Cart
+    
+    Nike Court Royale Womens Training Shoes(1)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $52.50 sale
+    
+    was $70
+    
+    Nike Flex Trainer 7 Womens Training ShoesAdd To Cart
 
 30% OFF PROM DRESSES SELECT STYLESSHOP ALL30% OFF PROM DRESSES SELECT STYLESSHOP ALL
 
@@ -243,6 +279,11 @@ BIKES FOR THE FAMILYSHOP ALLBIKES FOR THE FAMILYSHOP ALL
     was $200
     
     City Triangle Prom Sleeveless Evening Gown-Juniors(1)Add To Cart
+*   $169.99 sale
+    
+    was $250
+    
+    B. Darlin Sleeveless Embellished Ball Gown-Juniors(3)Add To Cart
 *   $139.99 sale
     
     was $200
