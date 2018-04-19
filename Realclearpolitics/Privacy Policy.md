@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Roger Kimball_: The McCabe Report Is Just an Appetizer
+*   _Sen. David Perdue_: Trump's North Korea Policy Is Succeeding
     
-*   _Harry Litman_: Comey's No Angel, But He's Not a Threat to Republic Like Trump
+*   _Adam Gopnik_: Trump's Tweets Are Ridiculous, But Perilous to Ignore
     
-*   _Lauren Appell_: Make the Tax Cuts Permanent &. Force Dems Into a Do-Over
+*   _Julie Kelly_: New Polls Undermine Forecast of Blue Wave in Midterms
     
-*   _Sophia Tesfaye_: Paul Ryan's Parting Gift for the Rich
+*   _Kevin Robillard_: Montana's Tester: 'I Don't Think They Can Beat Who I Am'
     
-*   _Thomas Lifson_: A 'Goldilocks' Air Strike on Syria
+*   _Christopher Buckley_: Barbara Bush: Mrs. No-Nonsense
     
-*   _Susan Glasser_: Just How Dangerous Is Donald Trump?
+*   _Mark Pulliam_: CUNY Law's Disgrace: Is This the Face of 'Social Justice'?
     
-*   _Caitlin Huey-Burns_: Democrats' Comey Dilemma
+*   _Vann Newkirk_: White Supremacy Is the Achilles Heel of U.S. Democracy
     
-*   _Ed Rogers_: Comey Never Should've Been FBI Head in First Place
+*   _Paul Heer_: Containment and China: What Would Kennan Do?
     
-*   _Renee Graham_: Not Just Starbucks: White Fear Is an American Problem
+*   _Thomas Friedman_: Are Iran and Israel Headed for Their First Direct War?
     
-*   _John Davidson_: For Progressives, Moralizing Just a Way to Control People
+*   _Glenn Stanton_: Baby Shortage Downed Toys 'R' Us--Next Up, Our Tax Base
     
-*   _Maya Kosoff_: Is the Law Finally Catching Up to Mark Zuckerberg?
+*   _Philip Bump_: Trump's Approval Polls: Beware Outliers, Remember the Trends
     
-*   _Paul Waldman_: Americans Don't Pay Enough Taxes
+*   _Jacobs &. Olorunnipa_: Pompeo Met Kim to Lay Ground for Trump Summit
     
-*   _President Donald Trump_: Our Economy Is Back &. U.S. Workers Are Winning
+*   _Margaret Carlson_: The First Lady Who Ran the Family That Ran the Country
     
-*   _Eugene Robinson_: Only You and I Can Stop Trump
+*   _Conrad Black_: The Comey &. Mueller Show: Trump Gets the Better of Them
     
-*   _Victor Davis Hanson_: Colluders on the Loose
+*   _Dara Lind_: Comey's Self-Righteousness Is What U.S. Needs to Survive Trump
     
-*   _Richard Wolffe_: Comey Helped Trump Win. He Wants to Undo His Mistake
+*   _Jonathan Turley_: Questions Grow Over the Lack of a Criminal Referral for McCabe
     
-*   _Wesley Pruden_: Critics From Left &. Right Agree: Comey IS a Slimeball
+*   _Noah Feldman_: Trump Should Be Worried. Really Worried.
     
-*   _Peter Berkowitz_: 10 Questions Stephanopoulos Didn't Ask Comey
+*   _Speaker Paul Ryan_: Tax Day Isn't a Day to Celebrate. This Year's Different
     
-*   _Jonathan Spyer_: The Great Distraction of Punitive Airstrikes
+*   _Susan Rice_: Trump's Problem in Syria? It Was Obama's Too
     
-*   _Walter Russell Mead_: Trump's Realist Syria Strategy
+*   _Roger Simon_: Trump Vastly Better Than Obama at Foreign Policy
     
-*   _Robert Fisk_: The Search for Truth in the Rubble of Douma
+*   _James Arkin_: Dem Challengers Outraise Republican Incumbents in Key Races
     
-*   _Henry Grabar_: Laughs, Gasps, and a Burn From the Bench
+*   _Eric Schickler_: The Myth That Racial Identity Politics Is Bad for Democrats
     
-*   _Helen Raleigh_: IG Report Proves McCabe's Firing Was Justified
+*   _Barry Latzer_: An Enduring Error: Liberal Blindness to Racial Progress
     
-*   _Jason Zengerle_: Kirsten Gillibrand, Senator From the State of #MeToo
+*   _Jay Timmons_: Trump, Manufacturers Team Up for Cleaner Environment
     
 
 *   Previous
@@ -254,11 +254,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Touts U.S.-North Korea Talks. Officials Say Pompeo Met Kim
+*   Dem Challengers Outraise Republican Incumbents in Key Races
+*   Gingrich: Comey Psychically "Shrinking" With Every Interview
+*   Democrats' Comey Dilemma
 *   Ryan-Backed Group Releases New Tax-Cut Ads
-*   Trump Hosts Japan's Abe Amid Strain Over N. Korea, Tariffs
-*   Carter: IG Report on McCabe Is Just the Tip of the Iceberg
-*   "Mission Accomplished": Trump Hails "Perfectly Executed Strike"
-*   Flipping Script, Dems Attack Republicans on Fiscal Responsibility
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -273,27 +273,27 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Arizona Senate - Republican PrimaryMagellan (R)
-    *   McSally36
-    *   Arpaio26
-    *   Ward25McSally +10
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
-*   Arizona 8th District Special Election - Lesko vs. TipirneniEmerson
-    *   Tipirneni46
-    *   Lesko45Tipirneni +1
-*   President Trump Job ApprovalGallup
-    *   Approve39
-    *   Disapprove55Disapprove +16
+*   Texas Senate - Cruz vs. O'RourkeQuinnipiac
+    *   Cruz47
+    *   O'Rourke44Cruz +3
+*   Indiana Senate - Republican PrimaryGravis
+    *   Braun26
+    *   Rokita16
+    *   Messer13Braun +10
+*   Texas Governor - Abbott vs. ValdezQuinnipiac
+    *   Abbott49
+    *   Valdez40Abbott +9
+*   Texas Governor - Abbott vs. WhiteQuinnipiac
+    *   Abbott48
+    *   White41Abbott +7
 
 More Latest Polls In The News
 
+*   Meghan McCain Grills Comey in 'The View' Interview: "J. Edgar Hoover Is Rolling Over In His Grave"
+*   Former President George W. Bush Fears People Are "Forgetting The Lessons Of 9/11"
+*   ACLU Warns: Post-9/11 AUMF Gives President Trump "Blank Check" For Unlimited Worldwide War
+*   Murphy Grills Trump Official: After Five Years, Why Is U.S. Still Backing Saudi War In Yemen?
 *   Trump Supporters React to Comey Interview in CNN Focus Group: "Weak," "Thin-Skinned," Diminished FBI
-*   Anderson Cooper vs. Jim Jordan: You're Very Bold On Calling Out Andrew McCabe, Not So Much With Trump
-*   Tucker Carlson: Real Value Of Comey Interview Is What It Says About James Comey, He's A Partisan
-*   Mark Penn: We Must Stop Using Criminal Process To Get Rid Of Election Winners We Don't Like
-*   McConnell on Trump: "We Haven't Had Any Disputes In A While And I Have Enjoyed This Period"
 
 *   Politics
 *   Policy
