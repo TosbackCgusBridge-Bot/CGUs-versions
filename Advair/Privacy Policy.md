@@ -168,6 +168,7 @@ GSK Global Website www.gsk.com
             *   Meningococcal disease fact sheet
             *   Hour of Power Rowing &. Cycling Challenge
             *   Knowledge gaps in vaccination against meningococcal disease
+        *   Trelegy IMPACT Study
     *   Media contacts
     *   Corporate Reporting
     *   Social media
