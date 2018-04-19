@@ -40,7 +40,6 @@ Close submenu ( Featured ) Featured
 *   Buy 1 Get 2 Free Tees
 *   Buy 1 Get 1 Accessories
 *   6 for $18 Undies
-*   2 for $8 Undies
 *   Create Your Suit for $20
 *   Spring Break
 *   Festival Vibes
@@ -163,9 +162,9 @@ Close submenu ( Swim ) Swim
 *   View Home
 *   Open submenu ( Girls Featured ) Girls Featured
 
-*   Open submenu ( Swim Tops ) Swim Tops
+*   Open submenu ( Bikini Tops ) Bikini Tops
 
-*   Open submenu ( Swim Bottoms ) Swim Bottoms
+*   Open submenu ( Bikini Bottoms ) Bikini Bottoms
 
 *   Swim One Piece
 *   Open submenu ( Swim Accessories ) Swim Accessories
@@ -179,7 +178,7 @@ Close submenu ( Girls Featured ) Girls Featured
 *   Little Black Bikini
 *   Swim Sets
 
-Close submenu ( Swim Tops ) Swim Tops
+Close submenu ( Bikini Tops ) Bikini Tops
 
 *   View All
 *   Bandeau
@@ -189,7 +188,7 @@ Close submenu ( Swim Tops ) Swim Tops
 *   Bralette
 *   Halter
 
-Close submenu ( Swim Bottoms ) Swim Bottoms
+Close submenu ( Bikini Bottoms ) Bikini Bottoms
 
 *   View All
 *   Bikini
@@ -234,7 +233,6 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   6 for $18 Undies
-*   2 for $8 Undies
 *   Create Your Suit for $20
 *   Active
 *   Lounge
@@ -376,7 +374,6 @@ Menu Find a Store Aeropostale
         *   Buy 1 Get 2 Free Tees
         *   Buy 1 Get 1 Accessories
         *   6 for $18 Undies
-        *   2 for $8 Undies
         *   Create Your Suit for $20
         *   Spring Break
         *   Festival Vibes
@@ -500,7 +497,7 @@ Menu Find a Store Aeropostale
         *   Little Black Bikini
         *   Swim Sets
     
-    *   Swim Tops
+    *   Bikini Tops
         *   View All
         *   Bandeau
         *   Push Up
@@ -509,7 +506,7 @@ Menu Find a Store Aeropostale
         *   Bralette
         *   Halter
     
-    *   Swim Bottoms
+    *   Bikini Bottoms
         *   View All
         *   Bikini
         *   Hipster
@@ -537,7 +534,6 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   6 for $18 Undies
-        *   2 for $8 Undies
         *   Create Your Suit for $20
         *   Active
         *   Lounge
@@ -568,7 +564,6 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Clearance
     *   Trending
-    
 *   Trending
     
     *   View Home
