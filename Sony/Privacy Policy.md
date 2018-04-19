@@ -109,7 +109,7 @@ Inspired By Kratos’ Axe
 
 Where has Kratos been since God of War III?
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -193,7 +193,7 @@ With the a7R III Camera
 
 The new touch screen overlay is responsive and accurate. pair it with any BRAVIA and transform it into an interactive display.
 
-23 hours ago
+1 day ago
 
 View Tweet
 
@@ -297,7 +297,7 @@ Play Noah Cyrus Recreates a Dramatic Version Video hotspot
 
 Congratulations @MirandaLambert on your #ACMawards wins for #FemaleVocalist and #SongoftheYear!!! @ACMawards
 
-1 day ago
+2 days ago
 
 View Tweet
 
