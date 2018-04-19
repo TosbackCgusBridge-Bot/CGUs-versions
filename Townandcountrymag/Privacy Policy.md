@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 When Meghan Markle Met the Queen for Tea 2 How Cindy Crawford Became a Model Matriarch 3 The Best Places To Go in May 4 The 10 Richest Zip Codes in America 5 _The Weekly Covet_: Spring Footwear Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Inside George H. W. and Barbara Bush's Love Story 2 Powerful New Photos of Prominent Mothers 3 Flash Floods Devastate Kauai's Hanalei Bay 4 When Meghan Markle Met the Queen for Tea 5 _What to Pack For..._ Palm Springs Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -177,7 +177,9 @@ Last revised on April 1, 2016
 
 Last revised on April 1, 2016
 
-Advertisement - Continue Reading Below Share Tweet Email
+Watch Next
+
+Advertisement - Continue Reading Below More From About Advertise Online Terms of Use Why did I get this ad? Share Tweet Email
 
 *   About
 *   The New York Botanical Garden's Kiku Dinner
