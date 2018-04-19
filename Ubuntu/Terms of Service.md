@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   KubeCon + CloudnativeCon Europe 2018 ›
+*   Eclipse 2018 survey: The IoT landscape, what it empirically looks like ›
 *   Ubuntu Server development summary – 17 April 2018 ›
 *   LXD weekly status #43 ›
 *   BotsAndUs build a social robot on Ubuntu ›
-*   On the road to lean infrastructure ›
-*   Ubuntu Desktop weekly update – 13 April 2018 ›
