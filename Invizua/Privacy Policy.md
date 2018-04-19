@@ -1,9 +1,7 @@
 Toggle navigation Omniscope _from Visokio_
 
 *   Home
-*   Download
-*   Tutorials
-*   Contact
+*   Contact Us
 
 Visokio Privacy Policy Statement What we do with data about you, and data you may send to us
 
