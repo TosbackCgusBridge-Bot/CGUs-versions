@@ -96,7 +96,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Science and shipwrecks: Preserving America’s maritime history Oceans &. Coasts Podcast: What is an ocean garbage patch? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Across NOAA Science in service to the planet we call home Oceans &. Coasts Science and shipwrecks: Preserving America’s maritime history National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Science in service to the planet we call home See this roundup of Earth Day-inspired stories, video you don’t want to miss AROUND NOAA // Video: Hurricane Hunter in search of a different kind of storm Harvey, Irma, Maria and Nate retired by the World Meteorological Organization U.S. hit with 3 billion-dollar disasters in first 3 months of 2018
+Enter Search Terms Globe had its 5th warmest March on record Arctic sea ice coverage was 2nd smallest on record AROUND NOAA // Science in service to the planet we call home Video: Hurricane Hunter in search of a different kind of storm Harvey, Irma, Maria and Nate retired by the World Meteorological Organization
 
 *   About our agency
 *   News and features
