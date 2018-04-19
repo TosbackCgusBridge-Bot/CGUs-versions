@@ -232,9 +232,9 @@ View more results
     
     Recommended Games
     
-    *   PopTropica
     *   World of Tanks
     *   World of Warships
+    *   Total War: Arena
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
