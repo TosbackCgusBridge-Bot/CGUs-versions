@@ -72,7 +72,7 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Home › Privacy Statement Privacy Statement
+Facebook Twitter LinkedIn Email Addthis Home › Privacy Statement Privacy Statement
 
 The Online Trust Alliance is now part of the Internet Society, (ISOC) and governed by the new ISOC Privacy Statement, published August 17, 2017.   As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here.   Questions please email privacy@isoc.org.   
 
@@ -83,10 +83,6 @@ Previous OTA privacy policies are posted below
 
 *   Upcoming Events
 *   News
-
-Mon, Apr 16, 2018 RSA® Conference 2018
-
-Once again OTA is an Associaton Sponsor of the RSA® Conference. Join us and other OTA member conference sponsors Agari, Malwarebytes, Microsoft and Symantec in San Francisco. Many other OTA members will be exhibiting as well. When sessions involving OTA and member organizations are announced, we will highlight them. When you register, be sure to note you are a member of OTA. 
 
 *   OTA Blog
 *   Newsletters
