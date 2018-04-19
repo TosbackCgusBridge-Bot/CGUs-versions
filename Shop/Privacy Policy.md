@@ -319,9 +319,7 @@ Menu Close Menu Close
     *   Financing Options
     *   Outlet
     
-    *   *   72 HOUR SALE
-            
-        *   Monitor Deals
+    *   *   Monitor Deals
             
 *   Support
     *   Sales Enquiries
@@ -365,17 +363,11 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers You’ve worked hard for your money.
 
-Ultralight. Ultrapowerful. Ultra-no-brainer.
+Make the most of your tax refund! Save up to 25%. Sale ends at 4am EST, Apr. 26.
 
-Shop ThinkPad X1 Carbon 6th Gen >.
-
-Welcome to the Yoga Family!
-
-All Aluminum chassis, 10-point multitouch display with top-of-the-line NVIDIA® GeForce GTX 1050. Design. Game. Work. Play.
-
-Shop Now >
+Shop Sale >
 
 Different Innovates Better
 
@@ -387,23 +379,22 @@ Learn more >
 
 *   1
 *   2
-*   3
 
 TODAY'S SALES
 
-Save up to 26% through April 18.
+Save up to 35% through April 18.
+
+TODAY'S SALES
+
+Save up to $650 through April 26.
 
 Introducing LenovoPRO for Small Business
 
 Save 5%on products when you create an account.
 
-Thin &. Light Flash Sale Live Now!
+Gaming Flash Sale Live Now! 
 
-Save up to $600 off on select ultra slim, thinner, lighter and engineered to last as long as you do. Sale Ends April 18.
-
-All New ThinkPad X1 Yoga 3rd Gen
-
-Now available. Customize yours.
+Save up to $650 off on select Legion Gaming PCs &. Accessorie. Sale Ends April 23.
 
 ThinkSmart Hub 500  
 The Smarter Way to Collaborate
