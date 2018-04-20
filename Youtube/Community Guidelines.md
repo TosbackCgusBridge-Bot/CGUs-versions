@@ -1,64 +1,121 @@
-Contents
-
-*   Respect the YouTube community
-*   Don't cross the line
-*   We review your reports carefully
-*   Join in and have fun
-
-Respect the YouTube community
-
-We're not asking for the kind of respect reserved for nuns, the elderly, and brain surgeons. Just don't abuse the site. Every cool, new community feature on YouTube involves a certain level of trust. We trust you to be responsible, and millions of users respect that trust. Please be one of them.
-
-Don't cross the line
-
 Here are some common-sense rules that'll help you steer clear of trouble. Please take these rules seriously and take them to heart. Don't try to look for loopholes or try to lawyer your way around the guidelines—just understand them and try to respect the spirit in which they were created.
 
 Nudity or sexual content
 
 YouTube is not for pornography or sexually explicit content. If this describes your video, even if it's a video of yourself, don't post it on YouTube. Also, be advised that we work closely with law enforcement and we report child exploitation. Learn more
 
-Violent or graphic content
+Harmful or dangerous content
 
-It's not okay to post violent or gory content that's primarily intended to be shocking, sensational, or disrespectful. If posting graphic content in a news or documentary context, please be mindful to provide enough information to help people understand what's going on in the video. Don't encourage others to commit specific acts of violence. Learn more
+Don't post videos that encourage others to do things that might cause them to get badly hurt, especially kids. Videos showing such harmful or dangerous acts may get age-restricted or removed depending on their severity. Learn more
 
 Hateful content
 
 Our products are platforms for free expression. But we don't support content that promotes or condones violence against individuals or groups based on race or ethnic origin, religion, disability, gender, age, nationality, veteran status, or sexual orientation/gender identity, or whose primary purpose is inciting hatred on the basis of these core characteristics. This can be a delicate balancing act, but if the primary purpose is to attack a protected group, the content crosses the line. Learn more
 
+Violent or graphic content
+
+It's not okay to post violent or gory content that's primarily intended to be shocking, sensational, or gratuitous. If posting graphic content in a news or documentary context, please be mindful to provide enough information to help people understand what's going on in the video. Don't encourage others to commit specific acts of violence. Learn more
+
+Harassment and cyberbullying
+
+It’s not ok to post abusive videos and comments on YouTube. If harassment crosses the line into a malicious attack it can be reported and may be removed. In other cases, users may be mildly annoying or petty and should be ignored. Learn more
+
 Spam, misleading metadata, and scams
 
 Everyone hates spam. Don't create misleading descriptions, tags, titles, or thumbnails in order to increase views. It's not okay to post large amounts of untargeted, unwanted or repetitive content, including comments and private messages. Learn more
-
-Harmful or dangerous content
-
-Don't post videos that encourage others to do things that might cause them to get badly hurt, especially kids. Videos showing such harmful or dangerous acts may get age-restricted or removed depending on their severity. Learn more
-
-Copyright
-
-Respect copyright. Only upload videos that you made or that you're authorized to use. This means don't upload videos you didn't make, or use content in your videos that someone else owns the copyright to, such as music tracks, snippets of copyrighted programs, or videos made by other users, without necessary authorizations. Visit our Copyright Center for more information.
 
 Threats
 
 Things like predatory behavior, stalking, threats, harassment, intimidation, invading privacy, revealing other people's personal information, and inciting others to commit violent acts or to violate the Terms of Use are taken very seriously. Anyone caught doing these things may be permanently banned from YouTube. Learn more
 
-We review your reports carefully
+Copyright
 
-You might not like everything you see on YouTube. Some of the content might offend you. If you think it's inappropriate, locate the flagging feature on the video and submit it for review by our YouTube staff. Learn more
+Respect copyright. Only upload videos that you made or that you're authorized to use. This means don't upload videos you didn't make, or use content in your videos that someone else owns the copyright to, such as music tracks, snippets of copyrighted programs, or videos made by other users, without necessary authorizations. Visit our Copyright Center for more information. Learn more
 
-Our staff reviews flagged videos 24 hours a day, 7 days a week to determine whether they violate our Community Guidelines. When they do, we remove them. Sometimes a video doesn't violate our guidelines, but might not be appropriate for everyone. These videos may get age-restricted. Accounts are penalized for Community Guidelines violations, and serious or repeated violations can lead to account termination. If an account is terminated, that person won't be allowed to create any new accounts.
+Privacy
 
-Help
+If someone has posted your personal information or uploaded a video of you without your consent, you can request removal of content based on our Privacy Guidelines. Learn more
 
-For more information about how our Community Guidelines are enforced, please visit our Help Center.
+Impersonation
 
-Join in and have fun
+Accounts that are established to impersonate another channel or individual may be removed under our impersonation policy. Learn more
 
-Remember that this is your community. Each and every person on YouTube makes the site what it is, so don't be afraid to dig in and get involved.
+Child endangerment
 
-There's a lot to see here, with lots of folks creating amazing stuff—one of them might be you! Equipment is getting cheaper and easier to use all the time, so dive in and enjoy.
+Learn what to do if you encounter inappropriate content. Also, be advised that we work closely with law enforcement and we report child exploitation Learn more
 
-Let folks know what you think. Feedback is part of the experience, and when done with respect, it can be a great way to make friends, share stories, and make your time on YouTube richer. So leave comments, rate videos, make your own responses to videos that affect you, enter contests of interest—there's a lot going on and a lot of ways to participate.
+Additional policies
 
-But most of all, have fun with the site! We hope you'll find something new to love as you get to know the community.
+Additional policies on a range of subjects. Learn more
 
-— The YouTube Team
+Your safety is important to us. Learn more about YouTube tools and resources, and get tips on many topics below.
+
+Teen safety
+
+Here are some useful tools and friendly tips for staying safe on YouTube. Learn more
+
+Restricted mode
+
+Screen out potentially objectionable content that you or your family may not want see. Learn more
+
+Suicide and self-injury
+
+You’re not alone. Need support? For free, confidential 24/7 support in the US, call the National Suicide Prevention Lifeline: 1-800-273-8255. Learn more
+
+Educator resources
+
+Here are some resources to help empower you and your students to stay safe online. Learn more
+
+Parent resources
+
+Tools and resources to help you manage your family’s experience on YouTube. Learn more
+
+Additional resources
+
+More helpful information and resources for YouTube users. Learn more
+
+Privacy and safety settings
+
+Quick access to privacy and safety settings. Learn more
+
+Legal policies
+
+Information on our legal removals policies and the process for submitting complaints. Learn more
+
+Learn about reporting content on YouTube and how we enforce our Community Guidelines.
+
+Report a video
+
+When, why and how to flag content. Learn more
+
+Report an abusive user
+
+Directly file a report here. Learn more
+
+Report a legal complaint
+
+Directly file a report here. Learn more
+
+Report a privacy violation
+
+Let us know if videos or comments on the site violate your privacy or sense of safety. Learn more
+
+Other reporting options
+
+When flagging a video does not accurately capture your issue. Learn more
+
+Age Restrictions
+
+Sometimes a video doesn't violate our guidelines, but might not be appropriate for everyone so may be age-restricted. Learn more
+
+Community Guidelines strikes
+
+What they are and how we handle them. Learn more
+
+Account terminations
+
+Serious or repeated violations Community Guidelines violations can lead to account termination. Learn more
+
+Appealing video strikes
+
+What to do if you get a strike. Learn more
