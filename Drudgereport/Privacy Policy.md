@@ -137,11 +137,11 @@ LATEST ON TWITTER
 
 My week on Twitter : 6 Likes, 3 Retweets, 1.92K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/MRxa…
 
-Yesterday
+About 2 days ago
 
 Our biggest fans this week: @mrmistry, @Requidan, @Cassin75. Thank you! via sumall.com/thankyou?… pic.twitter.com/mYF9…
 
-About 2 days ago
+About 3 days ago
 
 My week on Twitter : 2 Mentions, 577 Mention Reach, 5 Likes, 3 Retweets, 2.41K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/6CZD…
 
