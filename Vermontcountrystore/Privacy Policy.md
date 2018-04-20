@@ -1,34 +1,30 @@
-Shop Sweaters 
+Shop Handbags &. Wallets 
 
-Shop Ragg Wool 
+Shop Shoes &. Sandals 
 
-Shop Bathrobes 
+Shop Curtains 
+
+Shop Wall Decor 
+
+Shop Nightgowns 
 
 Shop Men's Sleepwear 
 
-Shop Blankets 
+Shop Fragrances 
 
-Shop Mattress Pads 
-
-Shop Jewelry 
-
-Shop Perfume &. Fragrances 
-
-Shop Spirited Chocolates 
+Shop Hair Care 
 
 Shop Classic Candy 
 
-Shop Soups, Sauces &. Sides 
+Shop Spirited Chocolates 
+
+Shop International Food 
 
 Shop Snacks 
 
-Shop Kitchen Gadgets 
-
 Shop Cookware &. Bakeware 
 
-Shop Personal Hygiene 
-
-Shop Bath &. Body 
+Shop Glassware 
 
 Vermont Country Store - Original General Store - Brands From the Past and Classic Products.
 
