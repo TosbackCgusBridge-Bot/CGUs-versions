@@ -151,8 +151,9 @@ The following is a partial list of the kind of Content and activity that is proh
 *   involves selling or otherwise transferring your account without our prior permission;
 *   creates and maintains a Website that (i) redirects to another web page or (ii) stores or hosts content for remote loading by other web pages.
 *   uploads viruses or other malicious code;
-*   uses the Services to hyperlink to content not permitted on the Sites;
-*   facilitates or encourages any violation of these Terms of Service.
+*   uses the Services to hyperlink to content not permitted on the Sites.
+*   facilitates or encourages any violation of these Terms of Service;
+*   relates to prostitution, escort services, or sex trafficking, all whether legal or not.
 
 9\. Anti-SPAM What is webspam?
 
