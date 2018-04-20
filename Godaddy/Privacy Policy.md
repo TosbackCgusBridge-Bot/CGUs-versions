@@ -1,15 +1,15 @@
-**Last Revised: April 18, 2018**
+**Last Revised: April 19, 2018**
 
 _**NOTICE**_ : **The Privacy Policy below will become _effective May 25, 2018_. To view the current Privacy Policy, click here.**  
 
 GoDaddy cares about your privacy.  For this reason, we collect and use personal data only as it might be needed for us to deliver to you our world-class products, services, websites and mobile applications (collectively, our “Services”). Your personal data includes information such as:
 
-*   Name;
-*   Address;
-*   Telephone number;
-*   Date of birth;
-*   Email address. and
-*   Other data collected that could directly or indirectly identify you
+*   Name
+*   Address
+*   Telephone number
+*   Date of birth
+*   Email address
+*   Other data collected that could directly or indirectly identify you.
 
 Our Privacy Policy is intended to describe to you how and what data we collect, and how and why we use your personal data. It also describes options we provide for you to access, update or otherwise take control of your personal data that we process.  
 
@@ -60,7 +60,7 @@ Often, much of the data collected is aggregated or statistical data about how in
 *   Conducting contests or surveys
 *   Performing analysis of our Services and customers demographics
 *   Communicating with you, such as by way email or survey delivery
-*   Customer relationship management
+*   Customer relationship management.
 
 We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilizing, sharing or retaining your personal data for any other purpose than as they have been specifically contracted for (or without your consent).
 
@@ -69,13 +69,13 @@ We only share your personal data as necessary for any third party to provide the
 *   Email
 *   Text (SMS) messages
 *   Telephone calls
-*   Automated phone calls or text messages
+*   Automated phone calls or text messages.
 
 You may also update your subscription preferences with respect to receiving communications from us and/or our partners by signing into your account and visiting “Account Settings” page. 
 
 If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy policy applies. In addition, it will describe any choice options you have in regards to the use and/or sharing of your personal data with a co-branded partner, as well as how to exercise those options.
 
-If you make use of a service that allows you to import contacts (ex. using Mad Mimi to send emails on your behalf), we will only use the contacts and any other personal information for the requested service. If you believe that anyone has provided us with your personal information and you would like to request that it be removed from our database, please contact us at privacy@godaddy.com.
+If you make use of a service that allows you to import contacts (ex. using email marketing services to send emails on your behalf), we will only use the contacts and any other personal information for the requested service. If you believe that anyone has provided us with your personal information and you would like to request that it be removed from our database, please contact us at privacy@godaddy.com.
 
 **Transfer of personal data abroad**.  If you utilize our Services from a country other than the country where our servers are located, your communications with us may result in transferring your personal data across international borders. Also, when you call us or initiate a chat, we may provide you with support from one of our global locations outside your country of origin. In these cases, your personal data is handled according to this Privacy Policy.
 
@@ -91,7 +91,7 @@ To the extent we are legally permitted to do so, we will take reasonable steps t
 
 **The E.U-U.S and Swiss-U.S. Privacy Shield Frameworks.**
 
-Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework.  Go Daddy Operating Company, LLC is committed to subjecting all personal data received from the EU or Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List.
+Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Mad Mimi, Inc. and Media Temple, Inc.) participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework.  Go Daddy Operating Company, LLC is committed to subjecting all personal data received from the EU or Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List.
 
 Go Daddy Operating Company, LLC is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Go Daddy Operating Company, LLC complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -149,7 +149,7 @@ e-mail: poststelle@bfdi.bund.de    
 
 If you have any questions, concerns or complaints about our privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at privacy@godaddy.com.  In the alternative, you may contact us by either of the following means:
 
-*   By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Hansestr. 111, 51149 Cologne, Germny. 
-*   By Phone: (480) 505-8877 or from one of our support numbers
+*   By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal/DatenSchutz, Hansestr. 79, 51149 Cologne, Germany. 
+*   By Phone: (480) 505-8877 or from one of our support numbers.
 
 **_We will respond to all requests, inquiries or concerns within thirty (30) days._**
