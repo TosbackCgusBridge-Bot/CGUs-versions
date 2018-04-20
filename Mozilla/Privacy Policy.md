@@ -1,8 +1,4 @@
-Your Firefox is out-of-date.
-
-Get the most recent version to keep browsing securely.
-
-Update FirefoxClose Menu Mozilla
+Menu Mozilla
 
 *   Firefox
 *   Pocket
@@ -75,7 +71,7 @@ Firefox Privacy Notice Close
     *   Openness
     *   Decentralization
     *   Digital Inclusion
-    *   Web LiteracyPrivacy Facebook privacy tips: How to share without oversharing Security Don’t Get Pwned: A Guide to Safer Logins
+    *   Web Literacy
 *   Technology
     
     Participate and explore our latest innovations — technology built in the open and designed to help keep the Internet healthy.
@@ -86,7 +82,7 @@ Firefox Privacy Notice Close
     *   Virtual Reality
     *   Games
     *   Documentation
-    *   Hacks blogOptimized for Design A new CSS Grid demo Game-changing Browser Lots new in Firefox, including support for WebAssembly
+    *   Hacks blog
 *   About Us
     
     We’re Mozilla, the proudly non-profit champions of a healthy Internet – keeping it open and accessible to all.
