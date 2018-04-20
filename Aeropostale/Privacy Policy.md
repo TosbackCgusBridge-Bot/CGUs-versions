@@ -27,7 +27,7 @@ Close submenu ( Girls ) Girls
 *   Shoes + Accessories
 *   Extended Sizes
 *   Trending
-*   Clearance
+*   Clearance - EXTRA 30% OFF
 *   Live Love Dream
 *   Bras
 *   Undies
@@ -83,11 +83,11 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-
 *   Jackets + Vests
 *   Accessories
 *   Underwear
-*   Clearance
+
+*   Clearance - EXTRA 30% OFF
 *   Big + Tall
 *   Trending
 
@@ -139,7 +139,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Ankle Jegging
 *   High Rise Jegging
 *   Cropped Jegging
-*   Super High Rise Jegging
 *   Skinny
 *   Ankle Straight
 *   Bootcut
@@ -220,13 +219,13 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-
 *   Sleep
+
 *   Bras
 *   Undies
 *   Swim
 *   Accessories
-*   Clearance
+*   Clearance EXTRA - 30% OFF
 *   Trending
 
 Close submenu ( Featured ) Featured
@@ -358,7 +357,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**UP TO $25 OFF $100** USE CODE **INSIDER25** **50-70% OFF + FREE SHIPPING OVER $75**
+**EXTRA 30% OFF CLEARANCE** USE CODE **EXTRA30** **50-70% OFF + FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -414,7 +413,7 @@ Menu Find a Store Aeropostale
     *   Shoes + Accessories
     *   Extended Sizes
     *   Trending
-    *   Clearance
+    *   Clearance - EXTRA 30% OFF
     *   Live Love Dream
     *   Bras
     *   Undies
@@ -445,7 +444,6 @@ Menu Find a Store Aeropostale
         *   Long Sleeve
         *   Hoodies + Sweatshirts
         *   Sweaters
-        
     
     *   Bottoms
         *   View All
@@ -454,11 +452,11 @@ Menu Find a Store Aeropostale
         *   Pants
         *   Joggers + Sweats
         
-    
     *   Jackets + Vests
     *   Accessories
     *   Underwear
-    *   Clearance
+    
+    *   Clearance - EXTRA 30% OFF
     *   Big + Tall
     *   Trending
     
@@ -471,7 +469,6 @@ Menu Find a Store Aeropostale
         *   Ankle Jegging
         *   High Rise Jegging
         *   Cropped Jegging
-        *   Super High Rise Jegging
         *   Skinny
         *   Ankle Straight
         *   Bootcut
@@ -556,14 +553,15 @@ Menu Find a Store Aeropostale
         *   Bootcut
         *   Shorts
         *   Sleep Bottoms
-    
     *   Sleep
+    
     *   Bras
     *   Undies
     *   Swim
     *   Accessories
-    *   Clearance
+    *   Clearance EXTRA - 30% OFF
     *   Trending
+    
 *   Trending
     
     *   View Home
@@ -653,8 +651,8 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Shop Girls Shop Guys Shop Girls Tees Shop Guys Tees &. Polos Shop Girls Shorts Shop Guys Shorts Shop The Collection Watch the Video Shop Girls Shop Lounge Shop Girls Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
-Text JOIN to 237687. Terms &. Conditions Message &. Data Rates May Apply. FOLLOW US Customer Care
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Tees Shop Guys Tees &. Polos Shop Girls Shorts Shop Guys Shorts Shop The Collection Watch the Video Shop Girls Shop Lounge Shop Girls <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
 *   Track Your Order
@@ -685,7 +683,26 @@ Stay Connected
 *   Visit A Store
 *   Find Store Coupons
 *   Chat With Us LiveCall Us
-*   Give $15, Get $15
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ...
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ...
