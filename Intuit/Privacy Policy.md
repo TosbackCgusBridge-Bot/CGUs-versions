@@ -33,65 +33,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack40% OFF SWIM FOR HER WHEN YOU SPEND $40SHOP ALL40% OFF SWIM FOR HER WHEN YOU SPEND $40SHOP ALL
+Near YouFind a StoreBack DAY 4 OF COUPON CODE SAVE60 ENDS IN
 
-*   $49
-    
-    Free Country Tankini Swimsuit TopAdd To Cart
-*   $49
-    
-    Liz Claiborne Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $37
-    
-    Arizona Tankini Swimsuit Top-JuniorsAdd To Cart
-*   $49
-    
-    Liz Claiborne Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $54
-    
-    Liz Claiborne Chevron Tankini Swimsuit Top-PlusAdd To Cart
-*   $49
-    
-    Free Country Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $37
-    
-    Arizona Floral Tankini Swimsuit Top-JuniorsAdd To Cart
-*   $49
-    
-    Liz Claiborne Tankini Swimsuit TopAdd To Cart
-*   $49
-    
-    Ambrielle Tankini Swimsuit TopAdd To Cart
-*   $49
-    
-    Liz Claiborne Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $54
-    
-    Liz Claiborne Tankini Swimsuit Top-PlusAdd To Cart
-*   $49
-    
-    Free Country Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $54
-    
-    Zeroxposur Tankini Swimsuit Top-PlusAdd To Cart
-*   $49
-    
-    Zeroxposur Tankini Swimsuit Top(1)Add To Cart
-*   $49
-    
-    Zeroxposur Tankini Swimsuit TopAdd To Cart
+\*offer ends 4/25/18
 
-$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
+Days 0 0 0 0 hours 4 4 1 1 mins 0 0 7 7 secs $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
 
 *   $9.99 sale
     
@@ -159,6 +105,84 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     
     Stafford® Travel Easy-Care Broadcloth Dress Shirt(1092)Add To Cart
 
+40% OFF SWIM FOR HER WHEN YOU SPEND $40SHOP ALL40% OFF SWIM FOR HER WHEN YOU SPEND $40SHOP ALL
+
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $49
+    
+    Free Country Tankini Swimsuit TopAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $49
+    
+    Liz Claiborne Tankini Swimsuit TopAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $37
+    
+    Arizona Tankini Swimsuit Top-JuniorsAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $49
+    
+    Liz Claiborne Tankini Swimsuit TopAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $54
+    
+    Liz Claiborne Chevron Tankini Swimsuit Top-PlusAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $49
+    
+    Free Country Tankini Swimsuit TopAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $37
+    
+    Arizona Floral Tankini Swimsuit Top-JuniorsAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $49
+    
+    Liz Claiborne Tankini Swimsuit TopAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $49
+    
+    Ambrielle Tankini Swimsuit TopAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $49
+    
+    Liz Claiborne Tankini Swimsuit TopAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $54
+    
+    Liz Claiborne Tankini Swimsuit Top-PlusAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $49
+    
+    Free Country Tankini Swimsuit TopAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $54
+    
+    Zeroxposur Tankini Swimsuit Top-PlusAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $49
+    
+    Zeroxposur Tankini Swimsuit Top(1)Add To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $49
+    
+    Zeroxposur Tankini Swimsuit TopAdd To Cart
+
 25% OFF WOMEN'S NIKE SHOESSHOP ALL25% OFF WOMEN'S NIKE SHOESSHOP ALL
 
 *   LIMITED TIME SPECIAL!
@@ -183,6 +207,11 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
+    View Price in Cart
+    
+    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
     $52.50 sale
     
     was $70
@@ -197,12 +226,12 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     
     View Price in Cart
     
-    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
+    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     View Price in Cart
     
-    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
+    Nike Flex Experience Rn 7 Womens Running Shoes(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $41.25 sale
@@ -216,29 +245,14 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     
     was $65
     
-    Nike Flex Experience Rn 6 Womens Running Shoes(2)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    View Price in Cart
-    
-    Nike Flex Experience Rn 7 Womens Running Shoes(5)Add To Cart
+    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $48.75 sale
     
     was $65
     
-    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    View Price in Cart
-    
-    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    View Price in Cart
-    
-    Nike Court Royale Womens Training Shoes(1)Add To Cart
+    Nike Flex Experience Rn 6 Womens Running Shoes(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $52.50 sale
@@ -246,6 +260,18 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     was $70
     
     Nike Flex Trainer 7 Womens Training ShoesAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    View Price in Cart
+    
+    Nike Flex Experience Rn 7 Womens Running Shoes(2)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $56.25 sale
+    
+    was $75
+    
+    Nike In Season Trainer 7 Womens Training Shoes(7)Add To Cart
 
 30% OFF PROM DRESSES SELECT STYLESSHOP ALL30% OFF PROM DRESSES SELECT STYLESSHOP ALL
 
@@ -268,7 +294,7 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     
     was $169
     
-    My Michelle Sleeveless Ball Gown-Juniors(1)Add To Cart
+    My Michelle Sleeveless Ball Gown-Juniors(2)Add To Cart
 *   $139.99 sale
     
     was $200
@@ -289,6 +315,11 @@ $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
     was $200
     
     City Triangle Prom Sleeveless Ball Gown-Juniors(4)Add To Cart
+*   $139.99 sale
+    
+    was $200
+    
+    City Triangle Prom Sleeveless Evening Gown-Juniors(1)Add To Cart
 *   $299.99 sale
     
     was $450
@@ -314,11 +345,6 @@ $19.99 &. UNDER AMBRIELLE BRASSHOP ALL$19.99 &. UNDER AMBRIELLE BRASSHOP ALL
     Ambrielle® Mystique® Full-Figure Plunge Bra(318)Add To Cart
 *   $19.99 sale
     
-    was $32
-    
-    Ambrielle® Natural Comfort Cotton Full-Coverage Bra(210)Add To Cart
-*   $19.99 sale
-    
     was $38
     
     Ambrielle® Everyday Full-Figure Convertible Strapless Bra(141)Add To Cart
@@ -326,17 +352,17 @@ $19.99 &. UNDER AMBRIELLE BRASSHOP ALL$19.99 &. UNDER AMBRIELLE BRASSHOP ALL
     
     was $32
     
-    Ambrielle® Cotton-Blend Wirefree Bra(251)Add To Cart
-*   $19.99 sale
-    
-    was $38
-    
-    Ambrielle® Mystique® Ultimate Upsize Bra(113)Add To Cart
+    Ambrielle® Cotton-Blend Wirefree Bra(252)Add To Cart
 *   $9.99 sale
     
     was $39
     
     Ambrielle Limited Edition Lace Underwire Full Coverage Bra(6)Add To Cart
+*   $19.99 sale
+    
+    was $38
+    
+    Ambrielle® Mystique® Ultimate Upsize Bra(113)Add To Cart
 *   $19.99 sale
     
     was $38 - $39
@@ -347,16 +373,26 @@ $19.99 &. UNDER AMBRIELLE BRASSHOP ALL$19.99 &. UNDER AMBRIELLE BRASSHOP ALL
     was $38 - $39
     
     Ambrielle® Full-Figure Micro Plunge Bra(17)Add To Cart
+*   $19.99 sale
+    
+    was $42
+    
+    Ambrielle Serenity Demi Full Coverage BraAdd To Cart
 *   $10.99 sale
     
     was $14
     
     Ambrielle Smoothing Solutions Wireless Bandeau Strapless Bra-114345(51)Add To Cart
+*   $19.99 sale
+    
+    was $38
+    
+    Ambrielle® Everyday Full-Figure Cotton Full-Coverage Bra(17)Add To Cart
 *   $10.99 sale
     
     was $14
     
-    Ambrielle Smoothing Solutions Wireless Bralette-141373(112)Add To Cart
+    Ambrielle Smoothing Solutions Wireless Bralette-141373(113)Add To Cart
 *   $19.99 sale
     
     was $36 - $37
@@ -364,24 +400,27 @@ $19.99 &. UNDER AMBRIELLE BRASSHOP ALL$19.99 &. UNDER AMBRIELLE BRASSHOP ALL
     Ambrielle Underwire Racerback Full Coverage Bra(5)Add To Cart
 *   $19.99 sale
     
-    was $42
-    
-    Ambrielle Serenity Demi Full Coverage BraAdd To Cart
-*   $19.99 sale
-    
-    was $38
-    
-    Ambrielle® Everyday Full-Figure Cotton Full-Coverage Bra(17)Add To Cart
-*   $19.99 sale
-    
     was $38
     
     Ambrielle® Everyday Convertible Strapless Push-Up Bra(69)Add To Cart
 *   $19.99 sale
     
+    was $32
+    
+    Ambrielle® Cotton-Blend Demi Bra(170)Add To Cart
+*   $19.99 sale
+    
     was $34 - $37
     
     Ambrielle® Mystique® Convertible Plunge Push-Up Bra(101)Add To Cart
+
+Top Sellers
+
+*   Royal Velvet® 400 TC Wrinkle Guard™ Sheet Sets(2807)
+*   St. John's Bay® Secretly Slender Straight-Leg Jeans(1215)
+*   Stafford Travel Easy-Care Long Sleeve Broadcloth Dress Shirt(6)
+*   Clarks Brinkley Jazz Womens Flip-Flops(48)
+*   Nike Basketball Shorts - Big Kid Boys(2)
 
 Shop and Save at JCPenney
 
