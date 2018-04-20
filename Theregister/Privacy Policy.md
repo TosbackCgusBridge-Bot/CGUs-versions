@@ -83,13 +83,13 @@ Changes to this Policy
 
 As statutory and online requirements change so this policy document may change. Any changes will be highlighted across the site to ensure that all readers have the opportunity to respond to these changes.
 
-Contacting Situation Publishing Data Controller
+Contacting Situation Publishing regarding your data
 
 If you wish to contact Situation Publishing Limited regarding any aspect of the Privacy Policy you should use the following contact details:
 
 By Post
 
-The Data Controller  
+Reader Services  
 Situation Publishing Limited  
 Unit 1 Portland Street Trading Estate  
 14 Portland Street  
@@ -97,4 +97,4 @@ Southport PR8 1LJ
 
 By Email
 
-datacontroller@sitpub.com
+readerservices@sitpub.com
