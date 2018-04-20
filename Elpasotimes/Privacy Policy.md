@@ -1,4 +1,4 @@
-SUBSCRIBE NOW1st month FREE
+SUBSCRIBE NOW$29 for a year
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW1st month FREE
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending Now90 employers slated for 2 El Paso job fairsBusinessMan dies after crash, breaking into hotel roomCrimeStarbucks closing all stores for one-day trainingBusinessAlbertsons-anchored East Side Montwood Mall soldBusinessWoman wounded in Northeast drive-by shootingCrime30 Guatemalan immigrants rescued in ChihuahuaImmigrationUSA TODAY border wall project wins PulitzerImmigrationSWAT team arrests Northeast shooting suspectCrimeCommanders, officer killed in Chihuahua attacksCrimeHave you seen the week's most-wanted fugitives?CrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowWhat to know about EPPD's new patrol carsLocalPoll: Cruz and O'Rourke race too close to callPoliticsUTEP professor, Clint educator on chaotic flightNewsDPS makes arrests in metal theft, syrup casesCrimeLawyer: El Chapo in deteriorating mental healthNewsMan acquitted on four counts in fatal 2017 wreckCrimeJawaun Newton is the All-City basketball MVPHigh-school90 employers slated for 2 El Paso job fairsBusinessEPISD contract for Bowie bus hub project doublesEducationMan dies after crash, breaking into hotel roomCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
