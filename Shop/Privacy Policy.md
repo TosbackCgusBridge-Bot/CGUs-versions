@@ -308,15 +308,15 @@ Menu Close Menu Close
         
 *   Deals
     
-    *   Featured Deals Featured Deals
-    *   Home Laptop Deals
     *   THINKPAD DEALS
+    *   2-in-1 Laptops Deals
+    *   Thin &. Light Laptops Deals
+    *   Gaming PC Deals
+    *   Mainstream Laptops
     *   Desktop Deals
-    *   Tablets/AR/VR Deals
     *   Monitor Deals
-    *   ACCESSORY DEALS
+    *   Tablets &. AR/VR
     *   Clearance
-    *   Financing Options
     *   Outlet
     
     *   *   Monitor Deals
@@ -382,19 +382,19 @@ Learn more >
 
 TODAY'S SALES
 
-Save up to 35% through April 18.
-
-TODAY'S SALES
-
 Save up to $650 through April 26.
 
 Introducing LenovoPRO for Small Business
 
-Save 5%on products when you create an account.
+Save 10% on all products with a free account.
 
 Gaming Flash Sale Live Now! 
 
 Save up to $650 off on select Legion Gaming PCs &. Accessorie. Sale Ends April 23.
+
+All New ThinkPad X1 Yoga 3rd Gen
+
+Now available. Customize yours.
 
 ThinkSmart Hub 500  
 The Smarter Way to Collaborate
