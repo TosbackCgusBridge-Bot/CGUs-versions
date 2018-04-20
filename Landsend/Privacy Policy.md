@@ -216,7 +216,6 @@ menu Close 0 Free Shipping on $50+
     *   Snow Boots
     *   Hats, Gloves &. Scarves
     *   Long Underwear
-    *   Women's Coats of Spring
     *   Weather Channel Collection
     *   Sale
 *   Bags SHOP BAGS
@@ -578,7 +577,6 @@ menu Close 0 Free Shipping on $50+
         *   Snow Boots
         *   Hats, Gloves &. Scarves
         *   Long Underwear
-        *   Women's Coats of Spring
         *   Weather Channel Collection
         *   Sale
     *   Women
@@ -798,9 +796,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 30% off full-price styles!
 
-code: SHOWERS pin: 7404 DETAILS
+code: ROBIN pin: 3772 DETAILS
 
 Customer Service Menu
 
