@@ -187,4 +187,10 @@ Enter your email address if you would like to receive a follow up.
 
 Thank you for sharing your feedback with us!
 
-Associating your feedback with data related to your visit can help us improve faster. Do you give us consent to do so for prior and future visits? Skip Send Select an element on the page.
+Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits?
+
+  
+
+More information
+
+Skip Send Select an element on the page.
