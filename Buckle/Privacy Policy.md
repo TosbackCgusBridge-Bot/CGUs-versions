@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-It’s the little things that make a big difference. Shop Accessories.
+Earth Day is April 22nd. Shop the brands that aim to preserve our world.
 
 *   Women
 *   Men
@@ -622,4 +622,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailQuick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailQuick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
