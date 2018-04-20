@@ -396,7 +396,6 @@ Brand &. Lifestyle
 *   Safety Technology
 *   Lexus Plus
 *   L Studio Films
-*   LFA Supercar
 *   Lexus Hybrids
 *   Lexus Merchandise
 *   Lexus International
@@ -461,7 +460,6 @@ Language
     *   Safety Technology
     *   Lexus Plus
     *   L Studio Films
-    *   LFA Supercar
     *   Lexus Hybrids
     *   Lexus Merchandise
     *   Lexus International
