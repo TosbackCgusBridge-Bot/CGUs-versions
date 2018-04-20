@@ -58,7 +58,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Reputational risk
         *   Sustainability risk
         *   Health and safety
-        *   Working with suppliers last item in this group
+        *   Working with suppliers
+        *   Modern Slavery Act last item in this group
     
     *   Sustainable finance Find out about our commitment to helping build a low-carbon economy.
 *   Investor relations Skip to News and insight navigation
