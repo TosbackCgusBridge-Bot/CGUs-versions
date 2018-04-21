@@ -19,16 +19,15 @@
         *   Phone
         *   Bundles
     *   Medium &. Enterprise
-        *   Data &. Internet
+        *   Data Networking
             *   Switched Ethernet
-            *   Dedicated Internet Access
-            *   Internet Service
-            *   Managed Wireless LAN
             *   MPLS-VPN
+            *   Dedicated Internet
+            *   Managed Wireless LAN
             *   Remote VPN
-            *   Private Line
             *   Network Failover
             *   Data Backup
+            *   Private Line
         *   Voice
             *   VoIP
             *   Business Lines
@@ -228,7 +227,7 @@ Select Location
         *   Phone
         *   Bundles
     *   Medium &. Enterprise
-        *   Data &. Internet
+        *   Data Networking
         *   Voice
         *   Data Center Services
         *   Security Services
