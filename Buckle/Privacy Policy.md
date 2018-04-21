@@ -23,7 +23,7 @@ Earth Day is April 22nd. Shop the brands that aim to preserve our world.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -290,16 +290,18 @@ Earth Day is April 22nd. Shop the brands that aim to preserve our world.
         *   Women's New to Sale
         *   Men's New to Sale
         *   Accessories BOGO Free
+        *   Sale Under $25
         
         *   Women's Sale
         
         *   Jeans
         *   All Tops
         *   Shirts/Blouses
-        *   Tanks
-        *   Tees
-        *   Crops/Capris
+        *   Dresses
         *   Swimwear
+        *   Accessories
+        *   Rompers/Jumpsuits
+        *   Crops/Capris
         *   Shorts
         *   Shoes
         *   Shop All
@@ -312,8 +314,9 @@ Earth Day is April 22nd. Shop the brands that aim to preserve our world.
         *   Tees
         *   Tanks
         *   Sweatshirts
-        *   Boardshorts
         *   Shorts
+        *   Boardshorts
+        *   Accessories
         *   Shoes
         *   Shop All
         
@@ -622,4 +625,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailQuick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailQuick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1893227547574163&amp;ev=PageView&amp;noscript=1">.
