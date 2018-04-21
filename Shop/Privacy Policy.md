@@ -390,7 +390,7 @@ Save 10% on all products with a free account.
 
 Gaming Flash Sale Live Now! 
 
-Save up to $650 off on select Legion Gaming PCs &. Accessorie. Sale Ends April 23.
+Save up to $650 off on select Legion Gaming PCs &. Accessories. Sale Ends April 26.
 
 All New ThinkPad X1 Yoga 3rd Gen
 
@@ -507,9 +507,7 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new window
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
