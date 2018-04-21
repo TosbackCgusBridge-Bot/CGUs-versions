@@ -8,11 +8,45 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Longchamp
+    *   Longchamp Shoes
+    *   A.L.C.
+    *   CeCe by Cynthia Steffe Incl. Petites
+    *   Commando
+    *   YMI Jeans Under $25
+    *   Slip-Ons &. Slides Under $50
+    *   Michael Stars Under $50
+    *   Backpacks Starting at $25 ft. Madden Girl
+    *   Gemstone Jewelry Starting at $20
+    *   Sunglasses Under $50 ft. Cole Haan
+    *   On Trend: Jewelry Starting at $10
+    *   Soul Star Under $40
+    *   Our Favorite Men's Shoes Under $50
+    *   Kids' Surf and Skate: Volcom, O'Neill &. More
+    *   Beach Bound: Kids' Water Shoes &. Sandals
+    *   Analili
+    *   Charles by Charles David Starting at $30
+    *   Fate
+    *   Nostalgia Under $40
+    *   Handmade in Turkey: TMRW Studio Jewelry
+    *   Carlos by Carlos Santana Starting at $30
+    *   Meet Your Mantra: Yoga Styles We Love
+    *   Hair Brushes for All from $10
+    *   SAHA Swim
+    *   Skin Chemists Up to 80% Off
+    *   Kenneth Cole New York Suits &. More
+    *   Crevo Starting at $25
+    *   Kuwalla Starting at $20
+    *   Earth Wood Watches
+    *   Free Shipping: Fashion Icon &. Pop Culture Art
+    *   Free Shipping: Chic Rustic Wall Decor &. More
+    *   Charging, Bluetooth &. Phone Accessories from $10
     *   adidas
     *   adidas Men
     *   adidas Men's Active
     *   adidas Active
     *   adidas Kids
+    
     *   adidas Kids' Activewear
     *   Spring Sweaters ft. Free People Starting at $20
     *   Mavi Denim Up to 70% Off
@@ -43,26 +77,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Nordstrom Rack Exclusives Under $25
     *   Public Opinion Under $30
     *   Nordstrom Rack Exclusives: Dress Shirts &. More
-    
     *   Nordstrom Rack Exclusives: Men's Shoes
     *   Nordstrom Rack Exclusives: Men's Lounge &. More
     *   Girls' Essentials: Harper Canyon
     *   Nordstrom Rack Exclusives: Harper Canyon Shoes
-    *   James Perse Starting at $20
-    *   Gracia
     *   Sigma Beauty
-    *   Donald Pliner
-    *   Maac London Up to 70% Off
     *   Lime Crime
-    *   Season's Best Dresses ft. Isabel Garcia
-    *   Jantzen &. Jag Swimwear
     *   Peter Millar
-    *   Catherine Catherine Malandrino
-    *   Etienne Marcel
     *   Suzy Levian Jewelry
-    *   SJS Leather Sandals Starting at $30
-    *   Jo Ghost
-    *   Hammitt Handbags
+    
     *   Sterling Silver Jewelry Starting at $13
     *   Free Shipping: NMK Bedding Up to 70% Off
     *   Free Shipping: Fashion-Forward Wall Art &. More
@@ -72,57 +95,67 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jean Claude
     *   Tween Scene: Poof Girls &. More
     *   New for Spring: Rachel Shoes
-    *   Travel in Style: Vince Camuto Luggage &. More
     *   Haute Home: kate spade new york
     *   KitchenAid
     *   Free Shipping: Spring Picnic Must-Haves
     *   Free Shipping: Vacay-Ready Beach Towels
     *   Free Shipping: Summer-Ready Pool Floats
     *   Perennial Faves: Floral Home Accents &. More
-    
-    *   Sperry Starting at $35
-    *   Sperry Men Starting at $35
-    *   Rose Gold &. Sterling Silver Jewelry Starting at $20
     *   Level Naturals Bath &. Body Starting at $10
-    *   Sperry Kids Starting at $25
-    *   Rachel Pally Maternity
-    *   Safari Style: Fun Prints &. More from Petit Lem
-    *   World Tech Toys: RC Helicopters &. More
-    *   National Geographic Books
     *   Velvet by Graham and Spencer &. More
     *   English Laundry &. More
-    *   Spring Must-Haves: Designer Polos
     *   Get Outside: New Men's Shoes from $35
     *   Men's Sport Watches Up to 50% Off
-    *   Premium Denim ft. Hudson Up to 60% Off
-    *   Diesel Men
+    *   BECCA Cosmetics Up to 60% Off
     *   Sudsy Steals: Bath Scrubs &. More
     *   Free Shipping: Sleep Yoga
     *   Giftable Dinnerware &. More from Yedi Tabletop
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
     *   Great Gifts: Teak, Carved &. Marble Candles
-    *   Umbro &. More
-    *   Original Penguin Shoes Starting at $20
-    *   Carry On: Luggage &. More Up to 70% Off
-    *   O'Neill &. More Under $30
-    *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Sky Organics
-    *   Free Shipping: Rugs for Every Room from $23
-    *   Free Shipping: Fashion Glam Wall Art
-    *   Colorful Kitchen Essentials
-    *   Beach to Bar: Cover-Ups &. More
-    *   BECCA Cosmetics Up to 60% Off
-    *   Free Shipping: Fine Art Blowout
     *   Free Shipping: Weekend-Ready Hammocks from $15
-    *   Free Shipping: Chic Bedding Starting at $22
+    *   Free Shipping: Fine Art Blowout
+    *   Free Shipping: Rugs for Every Room from $23
+    *   Colorful Kitchen Essentials
+    *   James Perse Starting at $20
+    *   Gracia
+    *   Donald Pliner
+    *   Maac London Up to 70% Off
+    *   Season's Best Dresses ft. Isabel Garcia
+    *   Jantzen &. Jag Swimwear
+    *   Catherine Catherine Malandrino
+    *   Hammitt Handbags
 *   WomenShop Sale Events
     
+    *   Longchamp
+    *   Longchamp Shoes
+    *   A.L.C.
+    *   CeCe by Cynthia Steffe Incl. Petites
+    *   Commando
+    *   YMI Jeans Under $25
+    *   Slip-Ons &. Slides Under $50
+    *   Michael Stars Under $50
+    *   Backpacks Starting at $25 ft. Madden Girl
+    *   Gemstone Jewelry Starting at $20
+    *   Sunglasses Under $50 ft. Cole Haan
+    *   On Trend: Jewelry Starting at $10
+    *   Analili
+    *   Charles by Charles David Starting at $30
+    *   Fate
+    *   Nostalgia Under $40
+    *   Handmade in Turkey: TMRW Studio Jewelry
+    *   Carlos by Carlos Santana Starting at $30
+    *   Meet Your Mantra: Yoga Styles We Love
+    *   Hair Brushes for All from $10
+    *   SAHA Swim
+    *   Skin Chemists Up to 80% Off
+    *   Earth Wood Watches
     *   adidas
     *   adidas Active
     *   Spring Sweaters ft. Free People Starting at $20
     *   Mavi Denim Up to 70% Off
     *   Simply Couture Up to 75% Off
     *   Frye Handbags
+    
     *   Free Shipping: On-Trend Sterling Silver Jewelry
     *   A Che' Swim
     *   Spring Must-Haves: Blouses from $25
@@ -137,50 +170,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   SUSINA Incl. Plus &. Petites
     *   Free Press &. Shimera
     *   Nordstrom Rack Exclusives Under $25
+    *   Sigma Beauty
+    *   Lime Crime
+    *   Suzy Levian Jewelry
+    *   Sterling Silver Jewelry Starting at $13
+    *   Level Naturals Bath &. Body Starting at $10
+    *   BECCA Cosmetics Up to 60% Off
+    *   Sudsy Steals: Bath Scrubs &. More
     *   James Perse Starting at $20
     *   Gracia
-    *   Sigma Beauty
-    
     *   Donald Pliner
     *   Maac London Up to 70% Off
-    *   Lime Crime
     *   Season's Best Dresses ft. Isabel Garcia
     *   Jantzen &. Jag Swimwear
     *   Catherine Catherine Malandrino
-    *   Etienne Marcel
-    *   Suzy Levian Jewelry
-    *   SJS Leather Sandals Starting at $30
-    *   Jo Ghost
     *   Hammitt Handbags
-    *   Sterling Silver Jewelry Starting at $13
-    *   Travel in Style: Vince Camuto Luggage &. More
-    *   Sperry Starting at $35
-    *   Rose Gold &. Sterling Silver Jewelry Starting at $20
-    *   Level Naturals Bath &. Body Starting at $10
-    *   Rachel Pally Maternity
-    *   Premium Denim ft. Hudson Up to 60% Off
-    *   Sudsy Steals: Bath Scrubs &. More
-    *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Sky Organics
-    *   Beach to Bar: Cover-Ups &. More
-    *   BECCA Cosmetics Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Accessories
+    *   Tech Accessories
     *   Lingerie
+    *   Accessories
     *   Handbags
     *   Watches
 *   MenShop Sale Events
     
+    *   Soul Star Under $40
+    *   Our Favorite Men's Shoes Under $50
+    *   Kenneth Cole New York Suits &. More
+    *   Crevo Starting at $25
+    *   Kuwalla Starting at $20
+    *   Earth Wood Watches
     *   adidas Men
     *   adidas Men's Active
     *   Mavi &. More
     *   PX Starting at $15
     *   Performance Sun &. More ft. adidas Up to 65% Off
     *   Fragrances We Love Under $40
+    
     *   Public Opinion Under $30
     *   Nordstrom Rack Exclusives: Dress Shirts &. More
     *   Nordstrom Rack Exclusives: Men's Shoes
@@ -188,19 +217,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Peter Millar
     *   Ben Sherman Tailored Clothing
     *   Donald Pliner Men
-    
     *   Jean Claude
-    *   Sperry Men Starting at $35
     *   Velvet by Graham and Spencer &. More
     *   English Laundry &. More
-    *   Spring Must-Haves: Designer Polos
     *   Get Outside: New Men's Shoes from $35
     *   Men's Sport Watches Up to 50% Off
-    *   Diesel Men
-    *   Umbro &. More
-    *   Original Penguin Shoes Starting at $20
-    *   Carry On: Luggage &. More Up to 70% Off
-    *   O'Neill &. More Under $30
     
     Shop By Category
     *   Clothing
@@ -209,34 +230,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Kids' Surf and Skate: Volcom, O'Neill &. More
+    *   Beach Bound: Kids' Water Shoes &. Sandals
     *   adidas Kids
     *   adidas Kids' Activewear
     *   Kids' Premium Denim
     *   Favorite Friends: Kids' Character Tees &. More
+    
     *   Ravensburger
     *   Girls' Essentials: Harper Canyon
     *   Nordstrom Rack Exclusives: Harper Canyon Shoes
-    
     *   Tween Scene: Poof Girls &. More
     *   New for Spring: Rachel Shoes
-    *   Sperry Kids Starting at $25
-    *   Rachel Pally Maternity
-    *   Safari Style: Fun Prints &. More from Petit Lem
-    *   World Tech Toys: RC Helicopters &. More
-    *   National Geographic Books
     
     Shop By Category
-    *   Toys
     *   Girls' Shoes
     *   Girls Sizes 7-16
+    *   Toys
     *   Boys Sizes 2T-7
     *   Girls Sizes 2T-6X
-    *   Boys' Shoes
     *   Boys Sizes 8-20
+    *   Boys' Shoes
     *   Baby Girl
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Fashion Icon &. Pop Culture Art
+    *   Free Shipping: Chic Rustic Wall Decor &. More
+    *   Charging, Bluetooth &. Phone Accessories from $10
     *   Free Shipping: Budget-Friendly Rugs
     *   Hives &. Honey Jewelry Frames, Armoires &. More
     *   Storage Must-Haves Starting at $10
@@ -246,49 +267,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Vibrant Pillows, Trays &. More
     *   Haute Home: kate spade new york
     *   KitchenAid
+    
     *   Free Shipping: Spring Picnic Must-Haves
     *   Free Shipping: Vacay-Ready Beach Towels
     *   Free Shipping: Summer-Ready Pool Floats
-    
     *   Perennial Faves: Floral Home Accents &. More
     *   Free Shipping: Sleep Yoga
     *   Giftable Dinnerware &. More from Yedi Tabletop
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
     *   Great Gifts: Teak, Carved &. Marble Candles
-    *   Free Shipping: Rugs for Every Room from $23
-    *   Free Shipping: Fashion Glam Wall Art
-    *   Colorful Kitchen Essentials
-    *   Free Shipping: Fine Art Blowout
     *   Free Shipping: Weekend-Ready Hammocks from $15
-    *   Free Shipping: Chic Bedding Starting at $22
+    *   Free Shipping: Fine Art Blowout
+    *   Free Shipping: Rugs for Every Room from $23
+    *   Colorful Kitchen Essentials
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Kitchen &. Tabletop
     *   Outdoor Living
+    *   Bedding
     *   Rugs
     *   Organization
     *   Bath
-    *   Luggage &. Travel
     *   Accent Furniture
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Hair Brushes for All from $10
+    *   Skin Chemists Up to 80% Off
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Fragrances We Love Under $40
     *   Sigma Beauty
     *   Lime Crime
     *   Level Naturals Bath &. Body Starting at $10
-    *   Sudsy Steals: Bath Scrubs &. More
-    *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Sky Organics
     *   BECCA Cosmetics Up to 60% Off
+    *   Sudsy Steals: Bath Scrubs &. More
     
     Shop By Category
-    *   Skin Care
     *   Makeup
-    *   Bath &. Body
     *   Hair Care
+    *   Skin Care
+    *   Bath &. Body
     *   Fragrance
     *   Nails
     *   Tools &. Accessories
