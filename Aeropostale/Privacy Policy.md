@@ -5,7 +5,6 @@ Aeropostale
 *   Open submenu ( Jeans ) Jeans
 *   Open submenu ( Swim ) Swim
 *   Open submenu ( Live Love Dream ) Live Love Dream
-*   Open submenu ( Trending ) Trending
 *   Open submenu ( Clearance ) Clearance
 
 *   Help - Live Chat Help - Call Us
@@ -256,50 +255,6 @@ Close submenu ( Bottoms ) Bottoms
 *   Bootcut
 *   Shorts
 *   Sleep Bottoms
-
-Close submenu ( Trending ) Trending
-
-*   View Home
-*   Open submenu ( Girls ) Girls
-
-*   Open submenu ( Guys ) Guys
-
-*   Open submenu ( Live Love Dream ) Live Love Dream
-
-Close submenu ( Girls ) Girls
-
-*   View All
-*   Shorts for Sure
-*   In Stitches
-*   Cold Shoulder Tops
-*   Tied + Dyed
-*   Get the Message
-*   All Laced Up
-*   Perfectly Preppy
-*   Cut It Out
-*   Full Bloom
-*   Island Dreaming
-*   Give It An Edge
-*   Jumpsuits + Rompers
-
-Close submenu ( Guys ) Guys
-
-*   View All
-*   Island Dreaming
-*   Denim Shorts
-*   Button Down Shirts
-*   Good Sport
-*   Shorts for Sure
-*   Spring Break Bag
-*   At Ease
-*   New Blues
-
-Close submenu ( Live Love Dream ) Live Love Dream
-
-*   View All
-*   Splash Into Summer
-*   Lots of Lace
-*   Get Fit in Florals
 
 Close submenu ( Clearance ) Clearance
 
@@ -562,42 +517,6 @@ Menu Find a Store Aeropostale
     *   Clearance EXTRA - 30% OFF
     *   Trending
     
-*   Trending
-    
-    *   View Home
-    *   Girls
-        *   View All
-        *   Shorts for Sure
-        *   In Stitches
-        *   Cold Shoulder Tops
-        *   Tied + Dyed
-        *   Get the Message
-        *   All Laced Up
-        *   Perfectly Preppy
-        *   Cut It Out
-        *   Full Bloom
-        *   Island Dreaming
-        *   Give It An Edge
-        *   Jumpsuits + Rompers
-    
-    *   Guys
-        *   View All
-        *   Island Dreaming
-        *   Denim Shorts
-        *   Button Down Shirts
-        *   Good Sport
-        *   Shorts for Sure
-        *   Spring Break Bag
-        *   At Ease
-        *   New Blues
-        
-    
-    *   Live Love Dream
-        *   View All
-        *   Splash Into Summer
-        *   Lots of Lace
-        *   Get Fit in Florals
-    
 *   Clearance
     
     *   View Home
@@ -686,23 +605,3 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ...
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ...
