@@ -1,4 +1,4 @@
-**Last Revised: April 19, 2018**
+**Last Revised: April 20, 2018**
 
 _**NOTICE**_ : **The Privacy Policy below will become _effective May 25, 2018_. To view the current Privacy Policy, click here.**  
 
@@ -150,6 +150,6 @@ e-mail: poststelle@bfdi.bund.de    
 If you have any questions, concerns or complaints about our privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at privacy@godaddy.com.  In the alternative, you may contact us by either of the following means:
 
 *   By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal/DatenSchutz, Hansestr. 79, 51149 Cologne, Germany. 
-*   By Phone: (480) 505-8877 or from one of our support numbers.
+*   By Phone: (480) 505-8877.
 
 **_We will respond to all requests, inquiries or concerns within thirty (30) days._**
