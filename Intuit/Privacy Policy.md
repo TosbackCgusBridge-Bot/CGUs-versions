@@ -33,11 +33,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 4 OF COUPON CODE SAVE60 ENDS IN
-
-\*offer ends 4/25/18
-
-Days 0 0 0 0 hours 4 4 1 1 mins 0 0 7 7 secs $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
+Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
 
 *   $9.99 sale
     
@@ -48,27 +44,22 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 7 7 secs $9.99 STAFFORD DRESS SHIRTSSHOP ALL
     
     was $36
     
+    Stafford Travel Easy-Care Long Sleeve Broadcloth Dress Shirt(6)Add To Cart
+*   $9.99 - $13.99 sale
+    
+    was $36
+    
     Stafford Travel Easy-Care Long Sleeve Broadcloth Checked Dress Shirt(2)Add To Cart
+*   $9.99 sale
+    
+    was $36
+    
+    Stafford® Travel Easy-Care Broadcloth Dress Shirt(1092)Add To Cart
 *   $9.99 - $13.99 sale
     
     was $36
     
-    Stafford Travel Easy-Care Long Sleeve Broadcloth Stripe Dress Shirt(1)Add To Cart
-*   $9.99 - $13.99 sale
-    
-    was $36
-    
-    Stafford Travel Easy-Care Long Sleeve Broadcloth Dress Shirt(4)Add To Cart
-*   $9.99 sale
-    
-    was $50
-    
-    Stafford Travel Stretch Fashion Long Sleeve Broadcloth Pattern Dress Shirt(1)Add To Cart
-*   $9.99 sale
-    
-    was $50
-    
-    Stafford Travel Stretch Fashion Long Sleeve Broadcloth Stripe Dress ShirtAdd To Cart
+    Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Gingham Dress Shirt(4)Add To Cart
 *   $9.99 sale
     
     was $50
@@ -78,110 +69,110 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 7 7 secs $9.99 STAFFORD DRESS SHIRTSSHOP ALL
     
     was $36
     
-    Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Gingham Dress Shirt(2)Add To Cart
-*   $9.99 - $13.99 sale
-    
-    was $36
-    
     Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Dress ShirtAdd To Cart
+*   $9.99 sale
+    
+    was $50
+    
+    Stafford Travel Stretch Fashion Long Sleeve Broadcloth Stripe Dress ShirtAdd To Cart
 *   $9.99 - $13.99 sale
     
     was $36
     
-    Stafford Travel Easy-Care Long Sleeve Broadcloth Checked Dress Shirt(1)Add To Cart
+    Stafford Travel Easy-Care Long Sleeve Broadcloth Checked Dress Shirt(4)Add To Cart
+*   $9.99 - $13.99 sale
+    
+    was $36
+    
+    Stafford Travel Easy-Care Long Sleeve Broadcloth Stripe Dress Shirt(1)Add To Cart
 *   $9.99 sale
     
-    was $36
+    was $50
     
-    Stafford Travel Easy-Care Broadcloth Long-Sleeve Dress ShirtAdd To Cart
-*   $8.99 - $13.99 sale
+    Stafford Travel Stretch Fashion Long Sleeve Broadcloth Pattern Dress Shirt(1)Add To Cart
+*   $9.99 - $19.99 sale
     
-    was $36
+    was $50
     
-    Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Stripe Dress Shirt(7)Add To Cart
-*   $9.99 sale
-    
-    was $36
-    
-    Stafford® Travel Easy-Care Broadcloth Dress Shirt(1092)Add To Cart
+    Stafford® Travel Easy-Care Broadcloth Dress Shirt(16)Add To Cart
 
-40% OFF SWIM FOR HER WHEN YOU SPEND $40SHOP ALL40% OFF SWIM FOR HER WHEN YOU SPEND $40SHOP ALL
+30% OFF SWIMWEARSHOP ALL30% OFF SWIMWEARSHOP ALL
 
-*   BUY MORE AND SAVE WITH CODE: SAVE60
+*   $37.80 sale
     
-    $49
+    was $54
     
-    Free Country Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
+    Free Country Tankini Swimsuit Top-PlusAdd To Cart
+*   $37.80 sale
     
-    $49
+    was $54
     
-    Liz Claiborne Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
+    Free Country Tankini Swimsuit Top-PlusAdd To Cart
+*   $37.80 sale
     
-    $37
-    
-    Arizona Tankini Swimsuit Top-JuniorsAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $49
-    
-    Liz Claiborne Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $54
-    
-    Liz Claiborne Chevron Tankini Swimsuit Top-PlusAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $49
-    
-    Free Country Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $37
-    
-    Arizona Floral Tankini Swimsuit Top-JuniorsAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $49
-    
-    Liz Claiborne Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $49
-    
-    Ambrielle Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $49
-    
-    Liz Claiborne Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $54
+    was $54
     
     Liz Claiborne Tankini Swimsuit Top-PlusAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
+*   $34.30 sale
     
-    $49
+    was $49
     
-    Free Country Tankini Swimsuit TopAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
+    Cyn &. Luca Tankini Swimsuit Top(1)Add To Cart
+*   $37.80 sale
     
-    $54
+    was $54
     
-    Zeroxposur Tankini Swimsuit Top-PlusAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
+    Free Country Tankini Swimsuit Top-PlusAdd To Cart
+*   $34.30 sale
     
-    $49
-    
-    Zeroxposur Tankini Swimsuit Top(1)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $49
+    was $49
     
     Zeroxposur Tankini Swimsuit TopAdd To Cart
+*   $34.30 sale
+    
+    was $49
+    
+    Zeroxposur Tankini Swimsuit Top(1)Add To Cart
+*   $37.80 sale
+    
+    was $54
+    
+    Zeroxposur Tankini Swimsuit Top-PlusAdd To Cart
+*   $39 sale
+    
+    was $52
+    
+    Nike Tankini Swimsuit TopAdd To Cart
+*   $34.30 sale
+    
+    was $49
+    
+    Zeroxposur Tankini Swimsuit TopAdd To Cart
+*   $34.30 sale
+    
+    was $49
+    
+    Ambrielle Tankini Swimsuit TopAdd To Cart
+*   $34.30 sale
+    
+    was $49
+    
+    Free Country Tankini Swimsuit TopAdd To Cart
+*   $37.80 sale
+    
+    was $54
+    
+    Liz Claiborne Chevron Tankini Swimsuit Top-PlusAdd To Cart
+*   $37.80 sale
+    
+    was $54
+    
+    Liz Claiborne Tankini Swimsuit Top-PlusAdd To Cart
+*   $34.30 sale
+    
+    was $49
+    
+    Free Country Tankini Swimsuit TopAdd To Cart
 
 25% OFF WOMEN'S NIKE SHOESSHOP ALL25% OFF WOMEN'S NIKE SHOESSHOP ALL
 
@@ -204,7 +195,7 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 7 7 secs $9.99 STAFFORD DRESS SHIRTSSHOP ALL
     
     View Price in Cart
     
-    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
+    Nike Flex Experience Rn 7 Womens Running Shoes(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     View Price in Cart
@@ -234,25 +225,18 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 7 7 secs $9.99 STAFFORD DRESS SHIRTSSHOP ALL
     Nike Flex Experience Rn 7 Womens Running Shoes(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
+    $48.75 sale
+    
+    was $65
+    
+    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
     $41.25 sale
     
     was $55
     
-    Nike® Court Royal Womens Tennis Shoes(8)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $48.75 sale
-    
-    was $65
-    
-    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $48.75 sale
-    
-    was $65
-    
-    Nike Flex Experience Rn 6 Womens Running Shoes(2)Add To Cart
+    Nike® Court Royal Womens Tennis Shoes(9)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $52.50 sale
@@ -262,165 +246,194 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 7 7 secs $9.99 STAFFORD DRESS SHIRTSSHOP ALL
     Nike Flex Trainer 7 Womens Training ShoesAdd To Cart
 *   LIMITED TIME SPECIAL!
     
+    $56.25 sale
+    
+    was $75
+    
+    Nike In Season Trainer 7 Womens Training Shoes(8)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
     View Price in Cart
     
     Nike Flex Experience Rn 7 Womens Running Shoes(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $56.25 sale
+    $48.75 sale
     
-    was $75
+    was $65
     
-    Nike In Season Trainer 7 Womens Training Shoes(7)Add To Cart
+    Nike Flex Experience Rn 6 Womens Running Shoes(2)Add To Cart
 
-30% OFF PROM DRESSES SELECT STYLESSHOP ALL30% OFF PROM DRESSES SELECT STYLESSHOP ALL
+60% OFF WITH CODE SAVE60SHOP ALL60% OFF WITH CODE SAVE60SHOP ALL
 
-*   $109.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $169
+    $169
     
     Speechless 2 Piece Print Mermaid Dress-Juniors(4)Add To Cart
-*   $99.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $169
+    $169
     
     by&by Sleeveless Ball Gown-JuniorsAdd To Cart
-*   $149.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $250
+    $250
     
     City Triangle Prom Sleeveless Evening Gown-JuniorsAdd To Cart
-*   $99.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $169
+    $169
     
     My Michelle Sleeveless Ball Gown-Juniors(2)Add To Cart
-*   $139.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $200
+    $200
     
     B. Darlin Sleeveless Fitted Gown-JuniorsAdd To Cart
-*   $139.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $200
+    $200
     
     City Triangle Prom Sleeveless Evening Gown-Juniors(1)Add To Cart
-*   $169.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $250
+    $250
     
     B. Darlin Sleeveless Embellished Ball Gown-Juniors(3)Add To Cart
-*   $139.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $200
+    $200
     
     City Triangle Prom Sleeveless Ball Gown-Juniors(4)Add To Cart
-*   $139.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $200
+    $200
     
     City Triangle Prom Sleeveless Evening Gown-Juniors(1)Add To Cart
-*   $299.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $450
+    $450
     
     Glamour By Terani Couture Sleeveless Beaded Evening Gown-JuniorsAdd To Cart
-*   $169.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $250
+    $250
     
     City Triangle Prom Sleeveless Ball Gown-JuniorsAdd To Cart
-*   $109.99 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE60
     
-    was $169
+    $169
     
     Morgan &. Co. Sleeveless Ball Gown-JuniorsAdd To Cart
 
-$19.99 &. UNDER AMBRIELLE BRASSHOP ALL$19.99 &. UNDER AMBRIELLE BRASSHOP ALL
+UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
 
-*   $19.99 sale
+*   LIMITED TIME SPECIAL!
     
-    was $40 - $42
+    $19.99 sale
     
-    Ambrielle® Mystique® Full-Figure Plunge Bra(318)Add To Cart
-*   $19.99 sale
+    was $124.98
     
-    was $38
+    Limited Time Special - 1/10 CT. T.W. Double Halo Diamond Stud Earrings in Sterling Silver(621)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    Ambrielle® Everyday Full-Figure Convertible Strapless Bra(141)Add To Cart
-*   $19.99 sale
+    $19.99 sale
     
-    was $32
+    was $124.98
     
-    Ambrielle® Cotton-Blend Wirefree Bra(252)Add To Cart
-*   $9.99 sale
+    LIMITED TIME SPECIAL! 1/10 CT. T.W. Double Halo Diamond Pendant Necklace in Sterling Silver(365)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    was $39
+    $25 sale
     
-    Ambrielle Limited Edition Lace Underwire Full Coverage Bra(6)Add To Cart
-*   $19.99 sale
+    was $124.98
     
-    was $38
+    Womens 1/10 CT. T.W. White Diamond Sterling Silver Pendant Necklace(86)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    Ambrielle® Mystique® Ultimate Upsize Bra(113)Add To Cart
-*   $19.99 sale
+    $10 sale
     
-    was $38 - $39
+    was $49.98
     
-    Ambrielle Underwire Push Up Plunge Bra(12)Add To Cart
-*   $19.99 sale
+    Limited Time Special! Lab Created White Sapphire Stud Earrings in Sterling Silver(96)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    was $38 - $39
+    $121.87 sale
     
-    Ambrielle® Full-Figure Micro Plunge Bra(17)Add To Cart
-*   $19.99 sale
+    was $406.23
     
-    was $42
+    DiamonArt® Sterling Silver 1 7/8 CT. T.W. Cubic Zirconia Bridal Ring Set(125)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    Ambrielle Serenity Demi Full Coverage BraAdd To Cart
-*   $10.99 sale
+    $224.99 sale
     
-    was $14
+    was $749.97
     
-    Ambrielle Smoothing Solutions Wireless Bandeau Strapless Bra-114345(51)Add To Cart
-*   $19.99 sale
+    14K Tri-Tone Gold Textured Rondelle Bead Pendant NecklaceAdd To Cart
+*   LIMITED TIME SPECIAL!
     
-    was $38
+    $10 sale
     
-    Ambrielle® Everyday Full-Figure Cotton Full-Coverage Bra(17)Add To Cart
-*   $10.99 sale
+    was $49.98
     
-    was $14
+    Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring SetAdd To Cart
+*   LIMITED TIME SPECIAL!
     
-    Ambrielle Smoothing Solutions Wireless Bralette-141373(113)Add To Cart
-*   $19.99 sale
+    $49.99 sale
     
-    was $36 - $37
+    was $249.98
     
-    Ambrielle Underwire Racerback Full Coverage Bra(5)Add To Cart
-*   $19.99 sale
+    1/4 CT. T.W. Round White Diamond Sterling Silver Stud EarringsAdd To Cart
+*   LIMITED TIME SPECIAL!
     
-    was $38
+    $43.74 sale
     
-    Ambrielle® Everyday Convertible Strapless Push-Up Bra(69)Add To Cart
-*   $19.99 sale
+    was $145.81
     
-    was $32
+    Black &. White Diamond-Accent Two Hearts RingAdd To Cart
+*   LIMITED TIME SPECIAL!
     
-    Ambrielle® Cotton-Blend Demi Bra(170)Add To Cart
-*   $19.99 sale
+    $149.99 sale
     
-    was $34 - $37
+    was $499.98
     
-    Ambrielle® Mystique® Convertible Plunge Push-Up Bra(101)Add To Cart
-
-Top Sellers
-
-*   Royal Velvet® 400 TC Wrinkle Guard™ Sheet Sets(2807)
-*   St. John's Bay® Secretly Slender Straight-Leg Jeans(1215)
-*   Stafford Travel Easy-Care Long Sleeve Broadcloth Dress Shirt(6)
-*   Clarks Brinkley Jazz Womens Flip-Flops(48)
-*   Nike Basketball Shorts - Big Kid Boys(2)
+    1/4 CT. T.W. Diamond 10K Yellow Gold Swirl Stud EarringsAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $93.74 sale
+    
+    was $312.48
+    
+    1/4 CT. T.W. Diamond 36mm Sterling Silver Hoop EarringsAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $29.99 sale
+    
+    was $99.98
+    
+    Sterling Silver Cubic Zirconia Earring SetAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $74.99 sale
+    
+    was $249.98
+    
+    Hallmark Diamonds 2-pc. 1/10 CT. T.W. Diamond Sterling Silver &. 14K Rose Gold over Silver Jewelry SetAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $140.62 sale
+    
+    was $468.73
+    
+    Diamond-Cut Candy Stripe Hoop Earrings 10K GoldAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $62.50 sale
+    
+    was $208.32
+    
+    Hallmark Diamonds Womens 1/7 CT. T.W. White Diamond Sterling Silver Gold Over Silver Pendant NecklaceAdd To Cart
 
 Shop and Save at JCPenney
 
