@@ -73,7 +73,7 @@ SUBSCRIBE NOW$29 for a year
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowWhat to know about EPPD's new patrol carsLocalPoll: Cruz and O'Rourke race too close to callPoliticsUTEP professor, Clint educator on chaotic flightNewsDPS makes arrests in metal theft, syrup casesCrimeLawyer: El Chapo in deteriorating mental healthNewsMan acquitted on four counts in fatal 2017 wreckCrimeJawaun Newton is the All-City basketball MVPHigh-school90 employers slated for 2 El Paso job fairsBusinessEPISD contract for Bowie bus hub project doublesEducationMan dies after crash, breaking into hotel roomCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending Now7 hurt in I-10 crash near Trans Mountain RoadTrafficYsleta's De La Torre to take on consulting jobEducationWhat to know about EPPD's new patrol carsLocalFormer Texas nurse confessed in deaths of babiesTexasregionThree Bowie students featured in movieSportsWoman on most wanted fugitives list arrestedCrimeLawyers allege DPS misconduct in DWI casesCrimeHorizon City teen's alleged killer identifiedCrimePoll: Cruz and O'Rourke race too close to callPoliticsUTEP professor, Clint educator on chaotic flightNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
