@@ -73,7 +73,7 @@ SUBSCRIBE NOW$29 for a year
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending Now7 hurt in I-10 crash near Trans Mountain RoadTrafficYsleta's De La Torre to take on consulting jobEducationWhat to know about EPPD's new patrol carsLocalFormer Texas nurse confessed in deaths of babiesTexasregionThree Bowie students featured in movieSportsWoman on most wanted fugitives list arrestedCrimeLawyers allege DPS misconduct in DWI casesCrimeHorizon City teen's alleged killer identifiedCrimePoll: Cruz and O'Rourke race too close to callPoliticsUTEP professor, Clint educator on chaotic flightNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowParkland MS student who was killed is identifiedTrafficPolice: Dump truck driver jumped out before crashLocalMan exposes himself at Fox Plaza storeCrimeMemorial Fund set for Parkland MS studentNewsL&J Cafe in El Paso named Best Tex-Mex in TexasLocalEl Paso school walkouts live coverageLocalEl Paso students join protest against gun violenceEducationUTEP Will Hernandez may be drafted in first roundSportsThree Bowie students featured in movieSportsYsleta's De La Torre to take on consulting jobEducationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
