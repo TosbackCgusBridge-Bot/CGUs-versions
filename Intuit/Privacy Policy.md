@@ -33,14 +33,18 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
+Near YouFind a StoreBack DAY 6 OF COUPON CODE SAVE60 ENDS IN
+
+\*offer ends 4/25/18
+
+Days 0 0 0 0 hours 4 4 1 1 mins 0 0 6 6 secs $9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
 
 *   $9.99 sale
     
     was $36
     
     Stafford® Travel Easy-Care Broadcloth Dress Shirt(1092)Add To Cart
-*   $9.99 - $13.99 sale
+*   $9.99 sale
     
     was $36
     
@@ -96,83 +100,75 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
     
     Stafford® Travel Easy-Care Broadcloth Dress Shirt(16)Add To Cart
 
-30% OFF SWIMWEARSHOP ALL30% OFF SWIMWEARSHOP ALL
+20-50% OFF SWIMWEAR FOR MENSHOP ALL20-50% OFF SWIMWEAR FOR MENSHOP ALL
 
-*   $37.80 sale
+*   $19.99 sale
+    
+    was $40
+    
+    St. John's Bay Solid Cargo Swim Shorts(2)Add To Cart
+*   $28.99 sale
+    
+    was $42
+    
+    Speedo TrunksAdd To Cart
+*   View Price in Cart
+    
+    Nike Drift 11" BoardAdd To Cart
+*   View Price in Cart
+    
+    Nike Vortex 11" Volley Trunks(1)Add To Cart
+*   $40.50 sale
     
     was $54
     
-    Free Country Tankini Swimsuit Top-PlusAdd To Cart
-*   $37.80 sale
+    Nike Swim Shorts Big and TallAdd To Cart
+*   $48 sale
     
-    was $54
+    was $64
     
-    Free Country Tankini Swimsuit Top-PlusAdd To Cart
-*   $37.80 sale
+    Nike Geometric Swim Shorts Big and TallAdd To Cart
+*   $14.99 sale
     
-    was $54
+    was $30
     
-    Liz Claiborne Tankini Swimsuit Top-PlusAdd To Cart
-*   $34.30 sale
+    St. John's Bay Swim ShortsAdd To Cart
+*   View Price in Cart
     
-    was $49
+    Nike Breaker 9" Volley TrunksAdd To Cart
+*   $50.99 sale
     
-    Cyn &. Luca Tankini Swimsuit Top(1)Add To Cart
-*   $37.80 sale
+    was $64
     
-    was $54
+    Nike Tie Dye Swim Shorts Big and TallAdd To Cart
+*   $48 sale
     
-    Free Country Tankini Swimsuit Top-PlusAdd To Cart
-*   $34.30 sale
+    was $64
     
-    was $49
+    Nike Logo Swim Shorts Big and TallAdd To Cart
+*   $19.99 sale
     
-    Zeroxposur Tankini Swimsuit TopAdd To Cart
-*   $34.30 sale
+    was $42
     
-    was $49
+    Burnside Trifecta Board Shorts(1)Add To Cart
+*   View Price in Cart
     
-    Zeroxposur Tankini Swimsuit Top(1)Add To Cart
-*   $37.80 sale
+    Nike Tie Dye TrunksAdd To Cart
+*   $23.99 sale
     
-    was $54
+    was $40
     
-    Zeroxposur Tankini Swimsuit Top-PlusAdd To Cart
-*   $39 sale
+    Pattern Board ShortsAdd To Cart
+*   $19.99 sale
     
-    was $52
+    was $42
     
-    Nike Tankini Swimsuit TopAdd To Cart
-*   $34.30 sale
+    Burnside Forever 1 Stripe Trunks(1)Add To Cart
+*   $24.99 sale
     
-    was $49
+    was $36
     
-    Zeroxposur Tankini Swimsuit TopAdd To Cart
-*   $34.30 sale
-    
-    was $49
-    
-    Ambrielle Tankini Swimsuit TopAdd To Cart
-*   $34.30 sale
-    
-    was $49
-    
-    Free Country Tankini Swimsuit TopAdd To Cart
-*   $37.80 sale
-    
-    was $54
-    
-    Liz Claiborne Chevron Tankini Swimsuit Top-PlusAdd To Cart
-*   $37.80 sale
-    
-    was $54
-    
-    Liz Claiborne Tankini Swimsuit Top-PlusAdd To Cart
-*   $34.30 sale
-    
-    was $49
-    
-    Free Country Tankini Swimsuit TopAdd To Cart
+    Speedo® Surfrunner Volley Swim Shorts(59)Add To Cart
 
 25% OFF WOMEN'S NIKE SHOESSHOP ALL25% OFF WOMEN'S NIKE SHOESSHOP ALL
 
@@ -225,18 +221,18 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
     Nike Flex Experience Rn 7 Womens Running Shoes(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $48.75 sale
-    
-    was $65
-    
-    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $41.25 sale
     
     was $55
     
     Nike® Court Royal Womens Tennis Shoes(9)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $48.75 sale
+    
+    was $65
+    
+    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $52.50 sale
@@ -258,11 +254,9 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
     Nike Flex Experience Rn 7 Womens Running Shoes(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $48.75 sale
+    View Price in Cart
     
-    was $65
-    
-    Nike Flex Experience Rn 6 Womens Running Shoes(2)Add To Cart
+    Nike Court Royale Womens Training Shoes(1)Add To Cart
 
 60% OFF WITH CODE SAVE60SHOP ALL60% OFF WITH CODE SAVE60SHOP ALL
 
@@ -291,6 +285,11 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
     $200
     
     B. Darlin Sleeveless Fitted Gown-JuniorsAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $200
+    
+    My Michelle Sleeveless Embroidered Ball Gown-Juniors(3)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: SAVE60
     
     $200
@@ -326,6 +325,11 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
     $169
     
     Morgan &. Co. Sleeveless Ball Gown-JuniorsAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: SAVE60
+    
+    $200
+    
+    My Michelle Sleeveless Applique Ball Gown-Juniors(2)Add To Cart
 
 UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
 
@@ -366,11 +370,32 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     DiamonArt® Sterling Silver 1 7/8 CT. T.W. Cubic Zirconia Bridal Ring Set(125)Add To Cart
 *   LIMITED TIME SPECIAL!
     
+    $70.30 sale
+    
+    was $234.34
+    
+    10K Gold 22 Inch Chain NecklaceAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
     $224.99 sale
     
     was $749.97
     
     14K Tri-Tone Gold Textured Rondelle Bead Pendant NecklaceAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $121.87 sale
+    
+    was $406.23
+    
+    14K Gold Sand Dollar Stud EarringsAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $81.25 sale
+    
+    was $270.82
+    
+    Enchanted Disney Fine Jewelry Sterling Silver Gold Over Silver 18 Inch Chain NecklaceAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $10 sale
@@ -380,11 +405,18 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring SetAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $49.99 sale
+    $37.49 sale
     
-    was $249.98
+    was $124.98
     
-    1/4 CT. T.W. Round White Diamond Sterling Silver Stud EarringsAdd To Cart
+    Womens 1/10 CT. T.W. Genuine White Diamond Sterling Silver &. 14K Rose Gold Over Silver Cocktail RingAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $93.74 sale
+    
+    was $312.48
+    
+    Enchanted Disney Fine Jewelry 1/5 C.T. T.W. Diamond "Cinderella" Carriage Pendant Necklace In Sterling SilverAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $43.74 sale
@@ -394,46 +426,26 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     Black &. White Diamond-Accent Two Hearts RingAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $149.99 sale
+    $49.99 sale
     
-    was $499.98
+    was $166.65
     
-    1/4 CT. T.W. Diamond 10K Yellow Gold Swirl Stud EarringsAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $93.74 sale
-    
-    was $312.48
-    
-    1/4 CT. T.W. Diamond 36mm Sterling Silver Hoop EarringsAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $29.99 sale
-    
-    was $99.98
-    
-    Sterling Silver Cubic Zirconia Earring SetAdd To Cart
+    Womens Lab-Created Opal &. Lab-Created White Sapphire 14K Gold Over Silver Cocktail RingAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $74.99 sale
     
     was $249.98
     
-    Hallmark Diamonds 2-pc. 1/10 CT. T.W. Diamond Sterling Silver &. 14K Rose Gold over Silver Jewelry SetAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $140.62 sale
-    
-    was $468.73
-    
-    Diamond-Cut Candy Stripe Hoop Earrings 10K GoldAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $62.50 sale
-    
-    was $208.32
-    
-    Hallmark Diamonds Womens 1/7 CT. T.W. White Diamond Sterling Silver Gold Over Silver Pendant NecklaceAdd To Cart
+    Lab-Created Opal and Pink &. White Lab-Created Sapphire 14K Gold Over Silver Cocktail RingAdd To Cart
+
+Top Sellers
+
+*   6-Piece Deluxe Sheet Set: 1500 Thread Count Egyptian Quality Deep Pocket Bed Sheets(11)
+*   St. John's Bay® Secretly Slender Straight-Leg Jeans(1216)
+*   Stafford Travel Easy-Care Long Sleeve Broadcloth Dress Shirt(6)
+*   Arizona Suki Womens Flat Sandals(9)
+*   Arizona Short Sleeve Hi Low Lace Inset Top - Girls 4-16 &. Plus(4)
 
 Shop and Save at JCPenney
 
