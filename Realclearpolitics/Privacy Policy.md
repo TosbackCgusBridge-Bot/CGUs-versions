@@ -255,9 +255,9 @@ RecommendedPolitics
 *   Investigations
 
 *   Greitens Scandal Casts Shadow Over Missouri Senate Race
+*   North Korea Halts All Nuclear and Long-Range Missile Testing
+*   Barone: Collusion Was Between Obama Admin, Intel Community
 *   Fired FBI Deputy Chief Andrew McCabe Faces Criminal Referral
-*   Comey: "Organized Campaign" to Target Me. McCabe Had Authority to Leak
-*   Trump Says He May Exit North Korea Summit If It's "Not Fruitful"
 *   Ryan Shows Fundraising Vigor Amid Retirement Concerns
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -273,6 +273,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Missouri Senate - Hawley vs. McCaskillRemington Research (R)
+    *   McCaskill48
+    *   Hawley44McCaskill +4
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve49
     *   Disapprove50Disapprove +1
@@ -282,9 +285,6 @@ Latest PollsAll Polls
 *   Arizona Senate - Ward vs. SinemaABC 15/OH Predictive Insights
     *   Sinema50
     *   Ward40Sinema +10
-*   Arizona Senate - Arpaio vs. SinemaABC 15/OH Predictive Insights
-    *   Sinema59
-    *   Arpaio33Sinema +26
 
 More Latest Polls In The News
 
