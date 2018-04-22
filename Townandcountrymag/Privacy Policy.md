@@ -51,7 +51,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Inside George H. W. and Barbara Bush's Love Story 2 Powerful New Photos of Prominent Mothers 3 Flash Floods Devastate Kauai's Hanalei Bay 4 When Meghan Markle Met the Queen for Tea 5 _What to Pack For..._ Palm Springs Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Who is Second Lady Karen Pence? 2 Inside George H. W. and Barbara Bush's Love Story 3 Flash Floods Devastate Kauai's Hanalei Bay 4 _What to Pack For..._ Palm Springs 5 _The Weekly Covet_: Earth-Friendly Finds Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
