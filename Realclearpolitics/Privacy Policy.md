@@ -288,11 +288,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   DNC Chair Tom Perez On Trump/Russia Lawsuit: "We Have To Deter This Conduct"
+*   Devin Nunes On Russia Probe Origin: "Major Irregularities" At State Dept, Sidney Blumenthal Involved
 *   Comey: Could "Potentially" Be A Witness If Deputy Andrew McCabe Is Charged After Criminal Referral
 *   Dershowitz vs. Toobin: Toobin Now Agrees With Me On What He Previously Called A "Terrible Idea"
 *   Rep. DeSantis on Cohen: Why Isn't FEC Looking At Clinton Campaign Funding Of Steele Dossier?
-*   Turley: Comey Doing Untold Harm To FBI. Removed Now-Classified Memos After He Was Fired
-*   Meghan McCain Grills Comey in 'The View' Interview: "J. Edgar Hoover Is Rolling Over In His Grave"
 
 *   Politics
 *   Policy
