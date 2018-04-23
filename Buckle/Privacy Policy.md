@@ -23,7 +23,7 @@ Earth Day is April 22nd. Shop the brands that aim to preserve our world.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
