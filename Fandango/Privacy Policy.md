@@ -50,23 +50,17 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Where are you located? Here are our top cities
+*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
     
-    *   New York, NY
-    *   Los Angeles, CA
-    *   Atlanta, GA
-    *   Chicago, IL
-    *   Austin, TX
-    *   Miami, FL
-    *   San Francisco, CA
-    *   Phoenix, AZ
-    *   Washington, DC
-    *   Boston, MA
-    *   San Diego, CA
-    *   Seattle, WA
-    *   Edison, NJ
-    *   Houston, TX
-    *   Tampa, FL
+    *   Century 16 Bel Mar and XD S. Teller and W. Alameda Ave.
+    *   UA Colorado Mills Stadium 16 IMAX &. RPX 14500 West Colfax Ave.
+    *   UA Denver West Village Stadium 12 14225 W. Colfax Ave.
+    *   Alamo Drafthouse Sloans Lake 4255 West Colfax Ave
+    *   Regal River Point Stadium 14 &. RPX 3565 S. Platte River Drive
+    *   Mayan Theatre 110 Broadway
+    *   AMC Bowles Crossing 12 8035 West Bowles Avenue
+    *   UA Denver Pavilions Stadium 15 &. RPX 500 16th St.
+    *   Elvis Cinemas Kipling 6 Theatre 6014 S. Kipling
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
@@ -81,27 +75,44 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Summer Movie Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Join FandangoVIP Get Points + Save
+*   My VIP Account Top Movies Near 80201 Edit Zip Code
     
-    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
+    See all movies My Theaters
+*   Save your favorite theater and we'll make sure it's front and center for you.
     
-    Learn more Insider Perks
+Manage my theater list Insider Perks
+
+*   Please check back - more exciting offers are coming soon.
     
-    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
-    
-    Learn more Partner Rewards
-    
-    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
-    
-    Learn more Refunds + Exchanges
-    
-    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
-    
-    Learn more Join Fandango VIP For Free
-    
-    (It only takes a few seconds to join)
-    
-    Already a Fandango VIP? Sign In
+
+See all insider perks My Fandango
+
+See my VIP+ Points
+
+For warp speed checkout, securely add your credit card.
+
+Add your  
+Credit Card Manage my VIP account Join FandangoVIP Get Points + Save
+
+More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
+
+Learn more Insider Perks
+
+Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+
+Learn more Partner Rewards
+
+Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+
+Learn more Refunds + Exchanges
+
+We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
+
+Learn more Join Fandango VIP For Free
+
+(It only takes a few seconds to join)
+
+Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms
 
