@@ -81,4 +81,4 @@ Follow us on:
 
 Search Search for:
 
-Copyright © 2018 MetrixLab. All rights reserved. Privacy Statement
+Copyright © 2018 MetrixLab. All rights reserved. Privacy Statement, Terms and Conditions, Cookie Declaration
