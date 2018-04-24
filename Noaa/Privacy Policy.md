@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had its 5th warmest March on record Arctic sea ice coverage was 2nd smallest on record AROUND NOAA // Science in service to the planet we call home Video: Hurricane Hunter in search of a different kind of storm Harvey, Irma, Maria and Nate retired by the World Meteorological Organization
+Enter Search Terms Science in service to the planet we call home See this roundup of Earth Day-inspired stories, video you don’t want to miss AROUND NOAA // NOAA shares first new view of the North Pole for Earth Day \[EXT\] Globe had its 5th warmest March on record Video: Hurricane Hunter in search of a different kind of storm
 
 *   About our agency
 *   News and features
