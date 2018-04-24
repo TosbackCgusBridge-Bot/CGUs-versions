@@ -315,7 +315,7 @@ Menu Close Menu Close
     *   Mainstream Laptops
     *   Desktop Deals
     *   Monitor Deals
-    *   Tablets &. AR/VR
+    *   Accessories Deals
     *   Clearance
     *   Outlet
     
@@ -367,15 +367,13 @@ Home >. Filter by specs Offers You’ve worked hard for your money.
 
 Make the most of your tax refund! Save up to 25%. Sale ends at 4am EST, Apr. 26.
 
-Shop Sale >
+Shop Sale >.
 
-Different Innovates Better
+Lenovo in the Data Center
 
-Transform your data center with ThinkSystem and ThinkAgile solutions.
+The most reliable, flexible, and secure data centers
 
-Play Video
-
-Learn more >
+Shop Now >.
 
 *   1
 *   2
