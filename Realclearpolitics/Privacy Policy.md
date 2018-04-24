@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Heather Digby Parton_: Lock Them Up! Republicans Go Full Banana Republic
+*   _Hugh Hewitt_: Rejecting Pompeo Would Be Incredibly Reckless
     
-*   _Emmett Tyrrell_: Official Washington's Crimes Are Slowly Being Exposed
+*   _Sylvie Kauffmann_: Macron Meets His Moment of Truth
     
-*   _Albert Hunt_: The Blue Wave Is Receding? Not Really
+*   _Victor Davis Hanson_: Respect Unearned
     
-*   _Fred Barnes_: Can West Virginia Republicans Take Down Manchin?
+*   _Alan Dershowitz_: The Epic Struggle for Michael Cohen's Soul &. Testimony
     
-*   _Nicholas Kralev_: How to Prepare a Post-Trump Renaissance in Diplomacy
+*   _Jonathan Chait_: Can Female Dem 2020 Candidates Avoid the Victim Trap?
     
-*   _Wesley Pruden_: The Democratic Terror of a Miracle in North Korea
+*   _J.T. Young_: Trump's Below the Surface Strength
     
-*   _Daniel McCarthy_: The War Party Is Ready for Haley 2020
+*   _Kyle Clark_: Biden His Time?
     
-*   _A.B. Stoddard_: Haley, Integrity Intact, Is Exception to the Trump Rule
+*   _Glenn Harlan Reynolds_: Schumer &. Warren: Fair Weather Federalists
     
-*   _Byron York_: Did James Comey Try to Blackmail President Trump?
+*   _Dylan Matthews_: Why Even Removing Trump From Office Won't Save America
     
-*   _Valerie Plame_: Pardoning Scooter Libby Hurts All of Us
+*   _Kyle Smith_: Ezra Klein's Intellectual Demagoguery
     
-*   _David Harsanyi_: Hey, Joe Scarborough, Must You Politicize Every Tragedy?
+*   _Mitch Albom_: Tenure Shouldn't Protect Professor's Hateful Tweets
     
-*   _Michael Barone_: Collusion, Anyone?
+*   _John Dickerson_: The Hardest Job in the World
     
-*   _David Freedlander_: The Judge in the Michael Cohen Case Is Perfect
+*   _Charles Hurt_: A Trump Even Sweden Has to Appreciate
     
-*   _Mollie Hemingway_: Comey Memos Indicate Dossier Briefing Was a Setup
+*   _David Leonhardt_: A Time for Big Economic Ideas
     
-*   _Eugene Robinson_: Trump Foreign Policy Sows Utter Confusion
+*   _Andy Puzder_: Trump-Haters Don't Get the Power of American Capitalism
     
-*   _Graham Allison_: How Trump and the U.S. Can Win Big in North Korea
+*   _Tom Holland_: Don't Call This Trump's Trade War. It's Much Bigger Than That
     
-*   _Susan Glasser_: How Jim Mattis Became Trump's Last Man Standing
+*   _Jonathan Alter_: Dems Are Set to Win Big. Here's How They Could Blow It
     
-*   _Jenny Martin_: Trump Checkmates Dems in Sending Pompeo to North Korea
+*   _Charles Lipson_: The Hidden Bombshell in the McCabe Report
     
-*   _Caitlin Huey-Burns_: Greitens Scandal Casts Shadow Over Missouri Senate Race
+*   _Robin Wright_: The Scramble to Salvage the Iran Nuclear Deal
     
-*   _Thomas Edsall_: The Democrats' Gentrification Problem
+*   _Michael Walsh_: And the New 'Leader of the Free World' Is...
     
-*   _Rich Lowry_: Has the Republican Congress Given Up on Doing Anything?
+*   _Bill Scher_: With Few Policy Prospects, Will Conservatives Divorce Trump?
     
-*   _Margaret Talbot_: The Women Running in the Midterms During Trump Era
+*   _Christopher Buskirk_: The Conservative Renaissance Has Begun
     
-*   _Bill Whalen_: Will Smith College Finally Warm to Barbara Bush?
+*   _Gabriel DeBenedetti_: Bernie TV Now Has More Viewers Than CNN
     
-*   _Elizabeth Drew_: Could Trump Be Brought Down by a Porn Star?
+*   _Ronald Kessler_: The Real Donald Trump
     
 
 *   Previous
@@ -254,10 +254,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Greitens Scandal Casts Shadow Over Missouri Senate Race
 *   North Korea Halts All Nuclear and Long-Range Missile Testing
-*   Barone: Collusion Was Between Obama Admin, Intel Community
-*   Fired FBI Deputy Chief Andrew McCabe Faces Criminal Referral
+*   Seeding a Fact-Checking Conversation: Claims &. Ratings
+*   Nunes: "Major Irregularities" at Obama State Dept., Blumenthal Involved
+*   Greitens Scandal Casts Shadow Over Missouri Senate Race
 *   Ryan Shows Fundraising Vigor Amid Retirement Concerns
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -273,26 +273,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Missouri Senate - Hawley vs. McCaskillRemington Research (R)
-    *   McCaskill48
-    *   Hawley44McCaskill +4
+*   Arizona 8th District Special Election - Lesko vs. TipirneniEmerson
+    *   Lesko49
+    *   Tipirneni43Lesko +6
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove57Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
-*   Arizona Senate - McSally vs. SinemaABC 15/OH Predictive Insights
-    *   Sinema48
-    *   McSally42Sinema +6
-*   Arizona Senate - Ward vs. SinemaABC 15/OH Predictive Insights
-    *   Sinema50
-    *   Ward40Sinema +10
+    *   Approve48
+    *   Disapprove50Disapprove +2
+*   Direction of CountryRasmussen Reports
+    *   Right Direction40
+    *   Wrong Track54Wrong Track +14
 
 More Latest Polls In The News
 
+*   Rand Paul: I Take Pompeo At His Word That He "Incorporated The Idea That Iraq War Was A Mistake"
+*   McFaul: Macron Must Offer Trump A "Symbolic Gesture" To Keep U.S. In Iran Deal
+*   Roger Stone: DNC Lawsuit Opens Door For Discovery, "Going To Find Out If They Were Really Hacked"
 *   DNC Chair Tom Perez On Trump/Russia Lawsuit: "We Have To Deter This Conduct"
 *   Devin Nunes On Russia Probe Origin: "Major Irregularities" At State Dept, Sidney Blumenthal Involved
-*   Comey: Could "Potentially" Be A Witness If Deputy Andrew McCabe Is Charged After Criminal Referral
-*   Dershowitz vs. Toobin: Toobin Now Agrees With Me On What He Previously Called A "Terrible Idea"
-*   Rep. DeSantis on Cohen: Why Isn't FEC Looking At Clinton Campaign Funding Of Steele Dossier?
 
 *   Politics
 *   Policy
