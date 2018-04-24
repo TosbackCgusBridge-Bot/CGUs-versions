@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Dell Technologies World 2018 ›
 *   A look at Rancher 2.0 ›
 *   Design and Web team summary – 20 April 2018 ›
 *   KubeCon + CloudnativeCon Europe 2018 ›
 *   Eclipse 2018 survey: The IoT landscape, what it empirically looks like ›
-*   Ubuntu Server development summary – 17 April 2018 ›
