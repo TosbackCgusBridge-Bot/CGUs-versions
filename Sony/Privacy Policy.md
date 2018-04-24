@@ -93,27 +93,49 @@ SONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! “God of War” Fans: Get the PS4™ Pro Bundle
+search Your browser does not support JavaScript! Kratos Embarks on a New Journey to Regain His Humanity
 
-Inspired By Kratos’ Axe
+Play “God of War” Exclusively on PS4™
 
 Close
 
-*   Share “God of War” Fans: Get the PS4™ Pro Bundle on Facebook
-*   Share “God of War” Fans: Get the PS4™ Pro Bundle on Twitter
-*   Copy URL to share “God of War” Fans: Get the PS4™ Pro Bundle
+*   Share Kratos Embarks on a New Journey to Regain His Humanity on Facebook
+*   Share Kratos Embarks on a New Journey to Regain His Humanity on Twitter
+*   Copy URL to share Kratos Embarks on a New Journey to Regain His Humanity
 
-Inspired By Kratos’ Axe
+Play Kratos Embarks on a New Journey to Regain His Humanity Video
 
-<img class="bg-img" class="url(/en\_us/media/content/PS4ProGOWPS4LE\_Render\_CUH7115B\_55087-600x600\_pglnm2m.jpg);" alt="God of War PS4 Bundle">.
+Sony on YouTube - Kratos Embarks on a New Journey to Regain His Humanity
 
-Where has Kratos been since God of War III?
+Play Kratos Embarks on a New Journey to Regain His Humanity Video hotspot
 
-6 days ago
+<img class="bg-img" class="url(/en\_us/media/content/GOWPS4\_Screen\_PS4\_Preview\_89371-600x600.jpg);" alt="God of War: The Journey of Kratos Video">. Customize Your Player's Abilities
+
+In The New “God of War”
+
+Close
+
+*   Share Customize Your Player's Abilities on Facebook
+*   Share Customize Your Player's Abilities on Twitter
+*   Copy URL to share Customize Your Player's Abilities
+
+Play Customize Your Player's Abilities Video
+
+Sony on YouTube - Customize Your Player's Abilities
+
+Play Customize Your Player's Abilities Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/GOWPS4\_Screen\_PS4\_Preview\_14996-600x600\_UB06L3m.jpg);" alt="God of War: Fight Your Way Video">.
+
+Omensight hits PS4 on May 15th. PS Plus members get a 20% discount on pre-ordering as part of PS Store’s Totally Digital program
+
+36 minutes ago
 
 View Tweet
 
-Enhance Your Gaming
+View PS VR Headset on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/3efad717a6023173f1acb6921b750132/5B6DE949/t51.2885-15/e35/30087531\_368580443628687\_4419436753908137984\_n.jpg);" alt="">. Enhance Your Gaming
 
 Audio Experience
 
@@ -125,43 +147,97 @@ Close
 
 Audio Experience
 
-<img class="bg-img" class="url(/en\_us/media/content/HeadSetGold\_Render\_CUHYA0080\_40966\_1-600x600\_LmjZWOA.jpg);" alt="PS Gold Wireless Headset">. A Stuntman Explains How He Learned to Fight Like the God of War
+<img class="bg-img" class="url(/en\_us/media/content/HeadSetGold\_Render\_CUHYA0080\_40966\_1-600x600\_LmjZWOA.jpg);" alt="PS Gold Wireless Headset">. “God of War” Fans: Get the PS4™ Pro Bundle
 
-Play The PS4™ Exclusive On Friday
-
-Close
-
-*   Share A Stuntman Explains How He Learned to Fight Like the God of War on Facebook
-*   Share A Stuntman Explains How He Learned to Fight Like the God of War on Twitter
-*   Copy URL to share A Stuntman Explains How He Learned to Fight Like the God of War
-
-Play A Stuntman Explains How He Learned to Fight Like the God of War Video
-
-Sony on YouTube - A Stuntman Explains How He Learned to Fight Like the God of War
-
-Play A Stuntman Explains How He Learned to Fight Like the God of War Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/GOWPS4\_Screen\_E317\_Combat\_96431-600x600.jpg);" alt="God of War How to Fight Like Kratos Video">.
-
-View Glacier White PS4 Pro on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/04c3ada3b49bdc986e0406a0c0fd8401/5B619231/t51.2885-15/e35/28157878\_346750622476746\_2664395778256011264\_n.jpg);" alt="">. Meet Kratos’ New Companion:
-
-His Son Atreus
+Inspired By Kratos’ Axe
 
 Close
 
-*   Share Meet Kratos’ New Companion: on Facebook
-*   Share Meet Kratos’ New Companion: on Twitter
-*   Copy URL to share Meet Kratos’ New Companion:
+*   Share “God of War” Fans: Get the PS4™ Pro Bundle on Facebook
+*   Share “God of War” Fans: Get the PS4™ Pro Bundle on Twitter
+*   Copy URL to share “God of War” Fans: Get the PS4™ Pro Bundle
 
-Play Meet Kratos’ New Companion: Video
+Inspired By Kratos’ Axe
 
-Sony on YouTube - Meet Kratos’ New Companion:
+<img class="bg-img" class="url(/en\_us/media/content/PS4ProGOWPS4LE\_Render\_CUH7115B\_55087-600x600\_pglnm2m.jpg);" alt="God of War PS4 Bundle">. Project Leaders Discuss the Development of Our “Rideable Smartphone”
 
-Play Meet Kratos’ New Companion: Video hotspot
+LEARN MORE ABOUT THE NEW CONCEPT CART SC-1
 
-<img class="bg-img" class="url(/en\_us/media/content/GOWPS4\_Screen\_PS4\_41747-600x600.jpg);" alt="God of War Designing an Effective Companion Video">. Our Latest OLED Screen Brings Natural Color to Life
+Close
+
+*   Share Project Leaders Discuss the Development of Our “Rideable Smartphone” on Facebook
+*   Share Project Leaders Discuss the Development of Our “Rideable Smartphone” on Twitter
+*   Copy URL to share Project Leaders Discuss the Development of Our “Rideable Smartphone”
+
+Play Project Leaders Discuss the Development of Our “Rideable Smartphone” Video
+
+Sony on YouTube - Project Leaders Discuss the Development of Our “Rideable Smartphone”
+
+Play Project Leaders Discuss the Development of Our “Rideable Smartphone” Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/NewConceptCart2-600x600\_nS1sU7w.jpg);" alt="Concept Cart SC-1">. Beach Days Are Better With Music
+
+Check Out the SRS-XB41
+
+Close
+
+*   Share Beach Days Are Better With Music on Facebook
+*   Share Beach Days Are Better With Music on Twitter
+*   Copy URL to share Beach Days Are Better With Music
+
+Check Out the SRS-XB41
+
+<img class="bg-img" class="url(/en\_us/media/content/SRS-XB41\_dustproof\_jpg-600x600\_4FZHRFZ.jpg);" alt="SRS-XB41 Speaker">. Audiophiles: Experience
+
+Studio Quality Sound
+
+Close
+
+*   Share Audiophiles: Experience on Facebook
+*   Share Audiophiles: Experience on Twitter
+*   Copy URL to share Audiophiles: Experience
+
+Studio Quality Sound
+
+<img class="bg-img" class="url(/en\_us/media/content/h.ear\_on\_2\_wireless\_NC\_B\_cw\_jpg-600x600\_bz95e7U.jpg);" alt="h.ear on2 Wireless NC">.
+
+Appreciate cleaner sound like the artist intended with Hi-Res Audio. #XperiaXZ2Compact
+
+14 hours ago
+
+View Tweet
+
+View Bluetooth LED Bulb Speaker on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/e35d689ef3be76c75b37f936e821992d/5B5C4AE4/t51.2885-15/e35/30080126\_227151321199951\_869982352070148096\_n.jpg);" alt="">. Zayn Continues the Action-Packed
+
+Crime Saga in His New Video
+
+Close
+
+*   Share Zayn Continues the Action-Packed on Facebook
+*   Share Zayn Continues the Action-Packed on Twitter
+*   Copy URL to share Zayn Continues the Action-Packed
+
+Play Zayn Continues the Action-Packed Video
+
+Sony on YouTube - Zayn Continues the Action-Packed
+
+Play Zayn Continues the Action-Packed Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Zayn\_2-600x600.jpg);" alt="Zayn Let Me Video">. Win Classic LPs or a Hi-Res Turntable Entertainment System
+
+Enter the Legacy Records April Vinyl Giveaway
+
+Close
+
+*   Share Win Classic LPs or a Hi-Res Turntable Entertainment System on Facebook
+*   Share Win Classic LPs or a Hi-Res Turntable Entertainment System on Twitter
+*   Copy URL to share Win Classic LPs or a Hi-Res Turntable Entertainment System
+
+Enter the Legacy Records April Vinyl Giveaway
+
+<img class="bg-img" class="url(/en\_us/media/content/Legacy-Vinyl-Giveaway-600x600.jpg);" alt="Legacy Vinyl Giveaway Sweeps">. Our Latest OLED Screen Brings Natural Color to Life
 
 Find Out More
 
@@ -177,23 +253,43 @@ Sony on YouTube - Our Latest OLED Screen Brings Natural Color to Life
 
 Play Our Latest OLED Screen Brings Natural Color to Life Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/FY18Graphic\_In-Situation\_A8F\_jpg-600x600.jpg);" alt="BRAVIA OLED TV A8F">. Take Your Photography to the Next Level
+<img class="bg-img" class="url(/en\_us/media/content/FY18Graphic\_In-Situation\_A8F\_jpg-600x600.jpg);" alt="BRAVIA OLED TV A8F">. Stay Aware of Your Surroundings with “Dual Listening”
 
-With the a7R III Camera
+Learn About the Xperia Ear Duo
 
 Close
 
-*   Share Take Your Photography to the Next Level on Facebook
-*   Share Take Your Photography to the Next Level on Twitter
-*   Copy URL to share Take Your Photography to the Next Level
+*   Share Stay Aware of Your Surroundings with “Dual Listening” on Facebook
+*   Share Stay Aware of Your Surroundings with “Dual Listening” on Twitter
+*   Copy URL to share Stay Aware of Your Surroundings with “Dual Listening”
 
-With the a7R III Camera
+Play Stay Aware of Your Surroundings with “Dual Listening” Video
 
-<img class="bg-img" class="url(/en\_us/media/content/ILCE-7RM3\_VX9121\_right1\_eps-600x600-2\_ESQprwg.jpg);" alt="a7R II">.
+Sony on YouTube - Stay Aware of Your Surroundings with “Dual Listening”
 
-The new touch screen overlay is responsive and accurate. pair it with any BRAVIA and transform it into an interactive display.
+Play Stay Aware of Your Surroundings with “Dual Listening” Video hotspot
 
-5 days ago
+<img class="bg-img" class="url(/en\_us/media/content/Ear\_Duo\_Lifestyle\_Male\_6-600x600.jpg);" alt="Xperia Ear Duo">. “Outlander” Fans: Get Your Season 3
+
+Limited Collector’s Edition Blu-ray
+
+Close
+
+*   Share “Outlander” Fans: Get Your Season 3 on Facebook
+*   Share “Outlander” Fans: Get Your Season 3 on Twitter
+*   Copy URL to share “Outlander” Fans: Get Your Season 3
+
+Play “Outlander” Fans: Get Your Season 3 Video
+
+Sony on YouTube - “Outlander” Fans: Get Your Season 3
+
+Play “Outlander” Fans: Get Your Season 3 Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Outlander\_S3\_BeautyShot\_1920x1080-600x600.jpg);" alt="Outlander Season 3 Collector&#39;s Edition Blu-ray Fan Review">.
+
+#JoshBrolin is back as Matt Graver in Sicario: Day of the Soldado, only in theaters June 29. #SicarioMovie
+
+2 hours ago
 
 View Tweet
 
@@ -211,137 +307,37 @@ In the Palm of Your Hand
 
 <img class="bg-img" class="url(/en\_us/media/content/pf32\_group\_White\_Silver-600x600\_kHQnqEL.jpg);" alt="Xperia XZ2 Compact">.
 
-View SRS-XB41 portable wireless Bluetooth speaker on Instagram
+View Z9D 4K HDR Android TV on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/f3d82c2166f415e4fee248b44f27e140/5B5B8D3E/t51.2885-15/e35/29716611\_1982053565201455\_1915593368641994752\_n.jpg);" alt="">. Build the Strongest Kiryu Clan in the
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/836aeba418c64e75e01e3609158992f8/5B677B50/t51.2885-15/e35/30085805\_461137960986340\_652904736311214080\_n.jpg);" alt="">. Take Your Photography to the Next Level
 
-“Yakuza 6” Clan Creator Minigame
-
-Close
-
-*   Share Build the Strongest Kiryu Clan in the on Facebook
-*   Share Build the Strongest Kiryu Clan in the on Twitter
-*   Copy URL to share Build the Strongest Kiryu Clan in the
-
-Play Build the Strongest Kiryu Clan in the Video
-
-Sony on YouTube - Build the Strongest Kiryu Clan in the
-
-Play Build the Strongest Kiryu Clan in the Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/yakuza-6-the-song-of-life-screen-06-ps4-us-06dec17-600x600.jpg);" alt="Yakuza 6: The Song of Life">. Stay Aware of Your Surroundings with “Dual Listening”
-
-Learn About the Xperia Ear Duo
+With the a7R III Camera
 
 Close
 
-*   Share Stay Aware of Your Surroundings with “Dual Listening” on Facebook
-*   Share Stay Aware of Your Surroundings with “Dual Listening” on Twitter
-*   Copy URL to share Stay Aware of Your Surroundings with “Dual Listening”
+*   Share Take Your Photography to the Next Level on Facebook
+*   Share Take Your Photography to the Next Level on Twitter
+*   Copy URL to share Take Your Photography to the Next Level
 
-Play Stay Aware of Your Surroundings with “Dual Listening” Video
+With the a7R III Camera
 
-Sony on YouTube - Stay Aware of Your Surroundings with “Dual Listening”
+<img class="bg-img" class="url(/en\_us/media/content/ILCE-7RM3\_VX9121\_right1\_eps-600x600-2\_ESQprwg.jpg);" alt="a7R II">. A Young Cowboy Tries to Redefine His Purpose After a Tragic Rodeo Accident
 
-Play Stay Aware of Your Surroundings with “Dual Listening” Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/Ear\_Duo\_Lifestyle\_Male\_6-600x600.jpg);" alt="Xperia Ear Duo">. The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada
-
-See Their Photos
+Learn More About “The Rider”
 
 Close
 
-*   Share The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada on Facebook
-*   Share The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada on Twitter
-*   Copy URL to share The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada
+*   Share A Young Cowboy Tries to Redefine His Purpose After a Tragic Rodeo Accident on Facebook
+*   Share A Young Cowboy Tries to Redefine His Purpose After a Tragic Rodeo Accident on Twitter
+*   Copy URL to share A Young Cowboy Tries to Redefine His Purpose After a Tragic Rodeo Accident
 
-Play The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada Video
+Play A Young Cowboy Tries to Redefine His Purpose After a Tragic Rodeo Accident Video
 
-Sony on YouTube - The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada
+Sony on YouTube - A Young Cowboy Tries to Redefine His Purpose After a Tragic Rodeo Accident
 
-Play The Sony Alpha Imaging Collective Explores the Spanish Cities of Seville and Granada Video hotspot
+Play A Young Cowboy Tries to Redefine His Purpose After a Tragic Rodeo Accident Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/Seville-2\_1-600x600.jpg);" alt="AICdoesSpain Adventure Of A Lifetime">. Transform a Painting Into a Living Spring Garden
-
-Turn On The Season
-
-Close
-
-*   Share Transform a Painting Into a Living Spring Garden on Facebook
-*   Share Transform a Painting Into a Living Spring Garden on Twitter
-*   Copy URL to share Transform a Painting Into a Living Spring Garden
-
-Play Transform a Painting Into a Living Spring Garden Video
-
-Sony on YouTube - Transform a Painting Into a Living Spring Garden
-
-Play Transform a Painting Into a Living Spring Garden Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/TurnOnTheSeason\_PaintThePetals-600x600.jpg);" alt="Turn on the Season">. Noah Cyrus Recreates a Dramatic Version
-
-Of Her Hit “We Are…”
-
-Close
-
-*   Share Noah Cyrus Recreates a Dramatic Version on Facebook
-*   Share Noah Cyrus Recreates a Dramatic Version on Twitter
-*   Copy URL to share Noah Cyrus Recreates a Dramatic Version
-
-Play Noah Cyrus Recreates a Dramatic Version Video
-
-Sony on YouTube - Noah Cyrus Recreates a Dramatic Version
-
-Play Noah Cyrus Recreates a Dramatic Version Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/NoahCyrusLIM2-600x600.jpg);" alt="Noah Cyrus LIM Sessions Video">.
-
-Congratulations @MirandaLambert on your #ACMawards wins for #FemaleVocalist and #SongoftheYear!!! @ACMawards
-
-6 days ago
-
-View Tweet
-
-Project Anything You Want,
-
-Almost Anywhere
-
-Close
-
-*   Share Project Anything You Want, on Facebook
-*   Share Project Anything You Want, on Twitter
-*   Copy URL to share Project Anything You Want,
-
-Almost Anywhere
-
-<img class="bg-img" class="url(/en\_us/media/content/LSPX-P1-600x600\_1Z14z2J.jpg);" alt="LSPX-P1 Projector ">.
-
-View Xperia XA2 Ultra on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/1717403e053e6bc47e914904f19058bb/5B54C617/t51.2885-15/e35/30077990\_168374717199718\_6479085215443582976\_n.jpg);" alt="">. Take Your Workout To The Next Level
-
-With WF-SP700N Headphones
-
-Close
-
-*   Share Take Your Workout To The Next Level on Facebook
-*   Share Take Your Workout To The Next Level on Twitter
-*   Copy URL to share Take Your Workout To The Next Level
-
-With WF-SP700N Headphones
-
-<img class="bg-img" class="url(/en\_us/media/content/WF-SP700N\_KeyVisual\_B\_jpg-600x600\_FSC6ahQ.jpg);" alt="WF-SP700N Sports Earbuds">. It’s the Last Week to Lay Down a Track in the Recording Booth
-
-At Sony Square NYC
-
-Close
-
-*   Share It’s the Last Week to Lay Down a Track in the Recording Booth on Facebook
-*   Share It’s the Last Week to Lay Down a Track in the Recording Booth on Twitter
-*   Copy URL to share It’s the Last Week to Lay Down a Track in the Recording Booth
-
-At Sony Square NYC
-
-<img class="bg-img" class="url(/en\_us/media/content/Recording\_1-600x600.jpg);" alt="Sony Square NYC Recording Booth">.
+<img class="bg-img" class="url(/en\_us/media/content/13-600x600.jpg);" alt="The Rider ">.
 
 Load More
 
