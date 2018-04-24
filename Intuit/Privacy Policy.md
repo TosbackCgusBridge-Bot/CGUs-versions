@@ -33,29 +33,43 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS SHIRTSSHOP ALL
+Near YouFind a StoreBack DAY 8 OF COUPON CODE SAVE60 ENDS IN
 
-*   $9.99 sale
+\*offer ends 4/25/18
+
+Days 0 0 0 0 hours 4 4 0 0 mins 4 4 9 9 secs 50-60% OFF STAFFORD DRESS SHIRTSSHOP ALL50-60% OFF STAFFORD DRESS SHIRTSSHOP ALL
+
+*   $13.99 sale
     
     was $36
     
     Stafford® Travel Easy-Care Broadcloth Dress Shirt(1092)Add To Cart
-*   $9.99 sale
+*   $13.99 sale
+    
+    was $36
+    
+    Stafford Travel Easy-Care Broadcloth Long-Sleeve Dress ShirtAdd To Cart
+*   $13.99 sale
     
     was $36
     
     Stafford Travel Easy-Care Long Sleeve Broadcloth Dress Shirt(6)Add To Cart
-*   $9.99 sale
+*   $13.99 sale
     
     was $36
     
     Stafford Travel Easy-Care Long Sleeve Broadcloth Checked Dress Shirt(3)Add To Cart
-*   $9.99 sale
+*   $24.99 sale
+    
+    was $50
+    
+    Stafford® Travel Performance Pinpoint Oxford Shirt–Big &. Tall(664)Add To Cart
+*   $13.99 sale
     
     was $36
     
     Stafford® Travel Easy-Care Broadcloth Dress Shirt(1092)Add To Cart
-*   $9.99 sale
+*   $13.99 sale
     
     was $36
     
@@ -65,22 +79,22 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
     was $50
     
     Stafford Travel Stretch Fashion Long Sleeve Broadcloth Grid Dress Shirt(1)Add To Cart
-*   $9.99 sale
+*   $24.99 sale
     
-    was $36
+    was $50
     
-    Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Dress ShirtAdd To Cart
+    Stafford® Travel Performance Pinpoint Oxford Shirt–Big &. Tall(383)Add To Cart
 *   $9.99 sale
     
     was $50
     
     Stafford Travel Stretch Fashion Long Sleeve Broadcloth Stripe Dress ShirtAdd To Cart
-*   $9.99 sale
+*   $13.99 sale
     
     was $36
     
-    Stafford Travel Easy-Care Long Sleeve Broadcloth Checked Dress Shirt(4)Add To Cart
-*   $9.99 sale
+    Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Dress ShirtAdd To Cart
+*   $13.99 sale
     
     was $36
     
@@ -90,15 +104,20 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
     was $50
     
     Stafford Travel Stretch Fashion Long Sleeve Broadcloth Pattern Dress Shirt(1)Add To Cart
-*   $9.99 - $19.99 sale
+*   $13.99 sale
     
-    was $50
+    was $36
     
-    Stafford® Travel Easy-Care Broadcloth Dress Shirt(16)Add To Cart
+    Stafford Travel Easy-Care Long Sleeve Broadcloth Checked Dress Shirt(4)Add To Cart
+*   $29.99 sale
+    
+    was $54
+    
+    Stafford® Long-Sleeve Travel Wrinkle-Free Oxford Dress Shirt - Big &. Tall(5)Add To Cart
 
 20-50% OFF SWIMWEAR FOR MENSHOP ALL20-50% OFF SWIMWEAR FOR MENSHOP ALL
 
-*   $19.99 sale
+*   $23.99 sale
     
     was $40
     
@@ -114,17 +133,20 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
 *   View Price in Cart
     
     Nike Vortex 11" Volley Trunks(1)Add To Cart
-*   View Price in Cart
-    
-    Nike Swim Shorts Big and TallAdd To Cart
-*   $14.99 sale
+*   $17.99 sale
     
     was $30
     
     St. John's Bay Swim ShortsAdd To Cart
 *   View Price in Cart
     
+    Nike Swim Shorts Big and TallAdd To Cart
+*   View Price in Cart
+    
     Nike Breaker 9" Volley TrunksAdd To Cart
+*   View Price in Cart
+    
+    Nike Logo Swim Shorts Big and TallAdd To Cart
 *   $50.99 sale
     
     was $64
@@ -135,8 +157,8 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
     Nike Geometric Swim Shorts Big and TallAdd To Cart
 *   View Price in Cart
     
-    Nike Logo Swim Shorts Big and TallAdd To Cart
-*   $19.99 sale
+    Nike Tie Dye TrunksAdd To Cart
+*   $24.99 sale
     
     was $42
     
@@ -146,107 +168,96 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
     was $36
     
     Speedo® Surfrunner Volley Swim Shorts(59)Add To Cart
-*   View Price in Cart
-    
-    Nike Tie Dye TrunksAdd To Cart
-*   $19.99 sale
-    
-    was $40
-    
-    St. John's Bay Stripe Swim ShortsAdd To Cart
-*   $19.99 sale
+*   $24.99 sale
     
     was $42
     
     Burnside Forever 1 Stripe Trunks(1)Add To Cart
+*   $23.99 sale
+    
+    was $40
+    
+    St. John's Bay Stripe Swim ShortsAdd To Cart
 
-25% OFF WOMEN'S NIKE SHOESSHOP ALL25% OFF WOMEN'S NIKE SHOESSHOP ALL
+30-40% OFF DRESSESSHOP ALL30-40% OFF DRESSESSHOP ALL
 
+*   $25 sale
+    
+    was $50
+    
+    Alyx Sleeveless Floral Sheath Dress-PetitesAdd To Cart
+*   $25 sale
+    
+    was $50
+    
+    Alyx Sleeveless Gingham Sheath Dress-PetitesAdd To Cart
+*   $24.99 sale
+    
+    was $44
+    
+    a.n.a. Bell Sleeve Shift Dress(13)Add To Cart
+*   $29.99 sale
+    
+    was $54
+    
+    Worthington SS Tiered Ruffle Sleeve Shift Dress(4)Add To Cart
+*   $29.50 sale
+    
+    was $59
+    
+    Belle + Sky Sleeveless Smocked Waist Dress(7)Add To Cart
+*   $24.99 sale
+    
+    was $44
+    
+    a.n.a. X Front Swing Dress(4)Add To Cart
+*   $34.99 sale
+    
+    was $60
+    
+    a.n.a 3/4 Sleeve Embroidered Floral Shift DressAdd To Cart
+*   $43 sale
+    
+    was $86
+    
+    Perceptions Sleeveless Jacket Dress-Petites(1)Add To Cart
+*   $39.99 sale
+    
+    was $74
+    
+    Worthington Lace Shift DressAdd To Cart
+*   $37 sale
+    
+    was $74
+    
+    R &. K Originals Sleeveless Floral Maxi Dress-PetitesAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    View Price in Cart
+    $25.99 sale
     
-    Nike Flex Trainer 8 Womens Training ShoesAdd To Cart
-*   LIMITED TIME SPECIAL!
+    was $89
     
-    View Price in Cart
+    CAP FOIL SCUBA DRESS(1)Add To Cart
+*   $29.50 sale
     
-    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
-*   LIMITED TIME SPECIAL!
+    was $59
     
-    View Price in Cart
+    Project Runway Colorblock Maxi DressAdd To Cart
+*   $29.50 sale
     
-    Nike Flex Trainer 8 Womens Training ShoesAdd To Cart
-*   LIMITED TIME SPECIAL!
+    was $59
     
-    View Price in Cart
+    Belle + Sky Short Sleeve Cold Shoulder High Low DressAdd To Cart
+*   $44.50 sale
     
-    Nike Flex Trainer 8 Womens Training ShoesAdd To Cart
-*   LIMITED TIME SPECIAL!
+    was $89
     
-    View Price in Cart
+    Perceptions Sleeveless Jacket Dress-Petites(1)Add To Cart
+*   $29.99 sale
     
-    Nike Flex Experience Rn 7 Womens Running Shoes(2)Add To Cart
-*   LIMITED TIME SPECIAL!
+    was $54
     
-    View Price in Cart
-    
-    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    View Price in Cart
-    
-    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $52.50 sale
-    
-    was $70
-    
-    Nike Flex Trainer 7 Womens Training Shoes(9)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    View Price in Cart
-    
-    Nike Flex Experience Rn 7 Womens Running ShoesAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    View Price in Cart
-    
-    Nike Flex Experience Rn 7 Womens Running Shoes(5)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $41.25 sale
-    
-    was $55
-    
-    Nike® Court Royal Womens Tennis Shoes(9)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $56.25 sale
-    
-    was $75
-    
-    Nike In Season Trainer 7 Womens Training Shoes(8)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $48.75 sale
-    
-    was $65
-    
-    Nike Flex Experience Rn 7 Womens Running Shoes(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $52.50 sale
-    
-    was $70
-    
-    Nike Flex Trainer 7 Womens Training ShoesAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    View Price in Cart
-    
-    Nike Flex Experience Rn 7 Womens Running Shoes(2)Add To Cart
+    Worthington Short Sleeve Wrap Dress(11)Add To Cart
 
 60% OFF WITH CODE SAVE60SHOP ALL60% OFF WITH CODE SAVE60SHOP ALL
 
@@ -280,11 +291,6 @@ Near YouFind a StoreBack$9.99 STAFFORD DRESS SHIRTSSHOP ALL$9.99 STAFFORD DRESS 
     $200
     
     B. Darlin Sleeveless Fitted Gown-JuniorsAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: SAVE60
-    
-    $200
-    
-    My Michelle Sleeveless Embroidered Ball Gown-Juniors(3)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: SAVE60
     
     $200
@@ -337,6 +343,13 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     Limited Time Special - 1/10 CT. T.W. Double Halo Diamond Stud Earrings in Sterling Silver(622)Add To Cart
 *   LIMITED TIME SPECIAL!
     
+    $10 sale
+    
+    was $49.98
+    
+    Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring SetAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
     $19.99 sale
     
     was $124.98
@@ -358,11 +371,11 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     Womens 1/10 CT. T.W. White Diamond Sterling Silver Pendant Necklace(87)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $10 sale
+    $121.87 sale
     
-    was $49.98
+    was $406.23
     
-    Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring SetAdd To Cart
+    DiamonArt® Sterling Silver 1 7/8 CT. T.W. Cubic Zirconia Bridal Ring Set(125)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1,124.99 sale
@@ -372,11 +385,11 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     Cherished Hearts™ 1 CT. T.W. Certified Diamond Heart Bridal Ring SetAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $121.87 sale
+    $81.25 sale
     
-    was $406.23
+    was $270.82
     
-    DiamonArt® Sterling Silver 1 7/8 CT. T.W. Cubic Zirconia Bridal Ring Set(125)Add To Cart
+    Enchanted Disney Fine Jewelry Sterling Silver Gold Over Silver 18 Inch Chain Necklace(3)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $70.30 sale
@@ -386,11 +399,18 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     10K Gold 22 Inch Chain NecklaceAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $224.99 sale
+    $437.50 sale
     
-    was $749.97
+    was $1,458.32
     
-    14K Tri-Tone Gold Textured Rondelle Bead Pendant Necklace(3)Add To Cart
+    1/2 CT. T.W. Diamond 10K White Gold Anniversary Band(8)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $343.74 sale
+    
+    was $1,145.81
+    
+    Brilliant Dream™ 1/3 CT. T.W. Round Diamond Stud Earrings 14K White Gold(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $121.87 sale
@@ -400,20 +420,6 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     14K Gold Sand Dollar Stud EarringsAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $81.25 sale
-    
-    was $270.82
-    
-    Enchanted Disney Fine Jewelry Sterling Silver Gold Over Silver 18 Inch Chain Necklace(3)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $37.49 sale
-    
-    was $124.98
-    
-    Womens 1/10 CT. T.W. Genuine White Diamond Sterling Silver &. 14K Rose Gold Over Silver Cocktail Ring(2)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $49.99 sale
     
     was $249.98
@@ -421,18 +427,26 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     1/4 CT. T.W. Round White Diamond Sterling Silver Stud Earrings(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $49.99 sale
+    $224.99 sale
     
-    was $166.65
+    was $749.98
     
-    1/10 CT. T.W. Diamond Sterling Silver Loop Ring(7)Add To Cart
+    1/2 CT. T.W. Diamond Spiral 10K White Gold Stud Earrings(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $29.99 sale
+    $37.49 sale
     
-    was $99.98
+    was $124.98
     
-    Sterling Silver Cubic Zirconia Earring Set(4)Add To Cart
+    Womens 1/10 CT. T.W. Genuine White Diamond Sterling Silver &. 14K Rose Gold Over Silver Cocktail Ring(2)Add To Cart
+
+Hot Sellers
+
+*   a.n.a Twill Shorts (7 inch)(2)
+*   Liz Claiborne Gemma Womens Heeled Sandals(35)
+*   A.N.A Voop Neck T-Shirt - Tall(5)
+*   St. John's Bay Secretly Slender Capris(43)
+*   Pop Adreana Womens Flat Sandals(2)
 
 Shop and Save at JCPenney
 
