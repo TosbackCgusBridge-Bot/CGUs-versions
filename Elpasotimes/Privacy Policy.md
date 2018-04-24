@@ -1,4 +1,4 @@
-close dialogwe all have roots$29 for a YearSubscribeclose dialogSUBSCRIBE NOW$29 for a year
+SUBSCRIBE NOW$29 for a year
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialogwe all have roots$29 for a YearSubscribeclose dialogSUBSCRIBE NOW$29
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowOne person killed in car crash on I-10 SundayTrafficMan exposes himself at Fox Plaza storeCrimeCrash in San Elizario kills one person SaturdayTrafficUTEP Will Hernandez may be drafted in first roundSportsParkland MS student who was killed is identifiedTrafficPolice: Dump truck driver jumped out before crashLocalMemorial Fund set for Parkland MS studentNewsL&J Cafe in El Paso named Best Tex-Mex in TexasLocalEl Paso school walkouts live coverageLocalEl Paso students join protest against gun violenceEducationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso nurse opens IV lounge in MontecilloBusinessDallas bank buying El Paso-area firm in $100M dealBusinessSmash &. Roll food truck expands to East Side barNewsOne person killed in car crash on I-10 SundayTrafficCrash in San Elizario kills one person SaturdayTrafficMan exposes himself at Fox Plaza storeCrimeUTEP Will Hernandez may be drafted in first roundSportsEl Paso boxer trains at Olympic Training CenterBoxingEl Paso high school athletes sign collegesHigh-schoolParkland MS student who was killed is identifiedTrafficHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,5 +142,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogwe all have rootsLocal RootS &. Local StoriesEARTH DAY SALE ON NOW$29 for a YearSubscribe No thanksclose dialogclose dialogwe all have roots$29 for a YearSubscribeclose dialog
