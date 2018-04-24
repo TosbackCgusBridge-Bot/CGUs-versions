@@ -1,13 +1,94 @@
-*   PRO
-*   Marketplace
-*   Seeking Alpha
+PROMarketplaceSeeking Alpha
 
 *   Portfolio
 *   People
-*   NewsMarket NewsOn The MoveAll Market NewsTop NewsWall St. BreakfastIPOsUS EconomyM&ANews by SectorTechEnergyHealthcareConsumerFinancialsCommoditiesEarningsEarnings CalendarTop Movers on EarningsEarnings AnalysisEarnings NewsEarnings Call TranscriptsMarket PerformanceBondsCommoditiesCountriesCurrenciesDividendsEmerging MarketsGlobal and RegionsGrowth &. ValueMarket CapReal EstateSectorsStrategiesSmart BetaSubsectors
-*   AnalysisStock IdeasTop IdeasIdea FilterLong IdeasShort IdeasSectorsEditor's PicksQuick PicksFund LettersDividendsREITsDividend IdeasDividend StrategyDividend NewsDividend Quick PicksEditor's PicksMarket OutlookGlobal MarketsToday's MarketEconomyGold &. Precious MetalsCommoditiesForexReal EstateEditor's PicksInvesting StrategyPortfolio StrategyFixed IncomeBondsFinancial AdvisorsRetirementIPOsEditor's PicksETFs and FundsETF ScreenerETF AnalysisETF GuideMutual FundsClosed End FundsEditor's Picks
+*   News
+    
+    *   Market News
+    *   On The Move
+    *   All Market News
+    *   Top News
+    *   Wall St. Breakfast
+    *   IPOs
+    *   US Economy
+    *   M&A
+    
+    *   News by Sector
+    *   Tech
+    *   Energy
+    *   Healthcare
+    *   Consumer
+    *   Financials
+    *   Commodities
+    
+    *   Earnings
+    *   Earnings Calendar
+    *   Top Movers on Earnings
+    *   Earnings Analysis
+    *   Earnings News
+    *   Earnings Call Transcripts
+    
+    *   Market Performance
+    *   Bonds
+    *   Commodities
+    *   Countries
+    *   Currencies
+    *   Dividends
+    *   Emerging Markets
+    *   Global and Regions
+    *   Growth &. Value
+    *   Market Cap
+    *   Real Estate
+    *   Sectors
+    *   Strategies
+    *   Smart Beta
+    *   Subsectors
+*   Analysis
+    
+    *   Stock Ideas
+    *   Long Ideas
+    *   Short Ideas
+    *   Sectors
+    *   Editor's Picks
+    *   Quick Picks
+    *   Fund Letters
+    
+    *   Dividends
+    *   REITs
+    *   Dividend Ideas
+    *   Dividend Strategy
+    *   Dividend News
+    *   Dividend Quick Picks
+    *   Editor's Picks
+    
+    *   Market Outlook
+    *   Global Markets
+    *   Today's Market
+    *   Economy
+    *   Gold &. Precious Metals
+    *   Commodities
+    *   Forex
+    *   Real Estate
+    *   Editor's Picks
+    
+    *   Investing Strategy
+    *   Portfolio Strategy
+    *   Fixed Income
+    *   Bonds
+    *   Financial Advisors
+    *   Retirement
+    *   IPOs
+    *   Editor's Picks
+    
+    *   ETFs and Funds
+    *   ETF Screener
+    *   ETF Analysis
+    *   ETF Guide
+    *   Mutual Funds
+    *   Closed End Funds
+    *   Editor's Picks
 
-Sign in / Join NowGO» Privacy
+Sign in / Join Now Privacy
 
 Thank you for visiting https://seekingalpha.com (together with all other websites and services operated by or on behalf of Seeking Alpha, Ltd., the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at the Site. This Privacy Policy forms part of the Terms of Use.
 
