@@ -22,14 +22,14 @@
 *   Video
 *   Draft
 
-*   DRAFT
-
 *   *   Free Agency
     *   Game Pass
     *   Stats
     *   Ways to Watch
     *   NFL Network
     *   Photos
+
+DraftClose
 
 *   Fantasy
 *   Tickets
