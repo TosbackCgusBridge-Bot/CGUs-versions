@@ -1,12 +1,12 @@
 At SparkPeople, we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information (as defined below). This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information and other information that we collect on the Website.  
-Learn More About Women Over 50 &. Bone Loss Watch Now  
+  
 By using or accessing the Website, you agree to the terms of this Privacy Policy. Capitalized terms not defined in this Privacy Policy have the meanings set forth in the Terms of Use.  
   
 The Website may provide links or references to websites operated by third parties. Once you enter another website, please be aware that SparkPeople is not responsible for the privacy practices of these other sites. We encourage you to review the privacy policies of each site that you visit through a link on our Website.  
   
 **Modifications to the Privacy Policy**  
 We may make changes to the Privacy Policy from time to time. A link to the most current Privacy Policy will be available on the SparkPeople home page. In the event of significant changes to the Privacy Policy, we may also place a special notice on the Website or communicate the changes by email. Your continued use of the Website following the posting of such changes constitutes your acceptance of any such changes. If you do not agree with this Privacy Policy, or any revised versions thereof, you may not use the Website.  
-See Video of Patients Discussing Psoriatic Arthritis  
+  
 **Age Requirement**  
 In order to use the Website you must be at least 18 years of age or the legal age to form a binding contract in your jurisdiction if that age is greater than 18 years of age. Please see the Terms of Use for additional information regarding this and other requirements regarding eligibility.  
   
@@ -14,7 +14,7 @@ In order to use the Website you must be at least 18 years of age or the legal ag
 We may collect your name, address, email address, telephone number and other contact information in connection with the Website ("Personal Information"). We may ask you to submit Personal Information at various places on our Website, including by providing Registration Data, subscribing to a newsletter, or submitting feedback. We do not share your information with third parties except as set forth in this Privacy Policy.  
   
 We use your Personal Information to contact you or send you information you have requested or that we feel will be of interest to you. We may contact you via phone, email, or postal mail. We generally provide an option for you to choose not to receive these types of communications (see below). However, even if you request not to be contacted by us, we reserve the right to use your contact information if we consider it necessary to send you information about the operation of the site, including information regarding the services you have signed up for on the Website or information about changes to our Privacy Policy.  
-Assess Your Symptoms with an Interactive Tool.  
+  
 If you do not want to receive special offers, marketing communications, newsletters or other promotional communications ("Marketing Communications") from SparkPeople, you may "opt-out" or withdraw your consent in the following manner:  
   
 (a) You may "opt-out" of Marketing Communications that you are already receiving from us by following the steps described in each such Marketing Communication.  
