@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Hugh Hewitt_: Rejecting Pompeo Would Be Incredibly Reckless
+*   _Kristin Tate_: The Great Exodus Out of America's Blue Cities
     
-*   _Sylvie Kauffmann_: Macron Meets His Moment of Truth
+*   _Robin Wright_: Madeleine Albright Warns of a New Fascism--and Trump
     
-*   _Victor Davis Hanson_: Respect Unearned
+*   _Kurt Schlichter_: It's Fun to Watch the Establishment's Coup Dreams Die
     
-*   _Alan Dershowitz_: The Epic Struggle for Michael Cohen's Soul &. Testimony
+*   _Corey Brettschneider_: How Mueller Can Protect the Russia Probe
     
-*   _Jonathan Chait_: Can Female Dem 2020 Candidates Avoid the Victim Trap?
+*   _Deroy Murdock_: Mueller's Got Nothing--Time to Wrap It Up &. Go Home
     
-*   _J.T. Young_: Trump's Below the Surface Strength
+*   _Robert Kuttner_: The Great Republican Tax Cut Backfire
     
-*   _Kyle Clark_: Biden His Time?
+*   _Cass Sunstein_: Trump's Promising Plan to Link Welfare to Work
     
-*   _Glenn Harlan Reynolds_: Schumer &. Warren: Fair Weather Federalists
+*   _Peter Berkowitz_: How Colleges Threaten Liberal Education
     
-*   _Dylan Matthews_: Why Even Removing Trump From Office Won't Save America
+*   _Paul Krugman_: We Don't Need No Education
     
-*   _Kyle Smith_: Ezra Klein's Intellectual Demagoguery
+*   _Margot Cleveland_: FEC Records Indicate Campaign Laundered $84 Million
     
-*   _Mitch Albom_: Tenure Shouldn't Protect Professor's Hateful Tweets
+*   _Daniel Strauss_: Will Republican Turmoil Save McCaskill in Missouri?
     
-*   _John Dickerson_: The Hardest Job in the World
+*   _Richard Cohen_: Trump's Tricky Korean Situation
     
-*   _Charles Hurt_: A Trump Even Sweden Has to Appreciate
+*   _Harry Kazianis_: Mike Pompeo Will Be a Great Secretary of State
     
-*   _David Leonhardt_: A Time for Big Economic Ideas
+*   _Clapper_: Trump's Travel Ban Fuels Terrorism
     
-*   _Andy Puzder_: Trump-Haters Don't Get the Power of American Capitalism
+*   _Byron York_: Is 'Can't Prove Untrue' the New Standard in Russia Probe?
     
-*   _Tom Holland_: Don't Call This Trump's Trade War. It's Much Bigger Than That
+*   _Amy Sorkin_: Trump, Giuliani, and All the President's Lawyers
     
-*   _Jonathan Alter_: Dems Are Set to Win Big. Here's How They Could Blow It
+*   _Sam Stein_: Trump Might Pardon Jack Johnson. Why Didn't Obama?
     
-*   _Charles Lipson_: The Hidden Bombshell in the McCabe Report
+*   _Rafael Mangual_: Kanye Dares to Question the Liberal Narrative
     
-*   _Robin Wright_: The Scramble to Salvage the Iran Nuclear Deal
+*   _Yascha Mounk_: Shania Twain and the Crisis of American Democracy. Really.
     
-*   _Michael Walsh_: And the New 'Leader of the Free World' Is...
+*   _William McGurn_: Who's Really Corrupting Democracy and Decency?
     
-*   _Bill Scher_: With Few Policy Prospects, Will Conservatives Divorce Trump?
+*   _Arnott &. Tamny_: The Great Tax Migration
     
-*   _Christopher Buskirk_: The Conservative Renaissance Has Begun
+*   _Michelle Goldberg_: Hope for Democrats in Arizona
     
-*   _Gabriel DeBenedetti_: Bernie TV Now Has More Viewers Than CNN
+*   _Sen. Marco Rubio_: Building a National American Conservatism
     
-*   _Ronald Kessler_: The Real Donald Trump
+*   _James Arkin_: Senate Dems Continue to Lead Republicans in Fundraising
     
 
 *   Previous
@@ -254,11 +254,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   North Korea Halts All Nuclear and Long-Range Missile Testing
+*   After Close Vote, Panel Sends Pompeo Nomination to Senate
+*   Senate Dems Continue to Lead Republicans in Fundraising
+*   Paul: Pompeo Does "Understand That the Iraq War Was a Mistake"
 *   Seeding a Fact-Checking Conversation: Claims &. Ratings
-*   Nunes: "Major Irregularities" at Obama State Dept., Blumenthal Involved
 *   Greitens Scandal Casts Shadow Over Missouri Senate Race
-*   Ryan Shows Fundraising Vigor Amid Retirement Concerns
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -273,26 +273,27 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Arizona 8th District Special Election - Lesko vs. TipirneniEmerson
-    *   Lesko49
-    *   Tipirneni43Lesko +6
-*   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove57Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
-*   Direction of CountryRasmussen Reports
-    *   Right Direction40
-    *   Wrong Track54Wrong Track +14
+*   West Virginia Senate - Republican PrimaryFOX News
+    *   Jenkins25
+    *   Morrisey21
+    *   Blankenship16Jenkins +4
+*   New Hampshire Governor - Sununu vs. MarchandUNH\*
+    *   Sununu49
+    *   Marchand27Sununu +22
+*   Maryland Governor - Hogan vs. BakerGoucher College
+    *   Hogan44
+    *   Baker31Hogan +13
+*   Maryland Governor - Hogan vs. JealousGoucher College
+    *   Hogan44
+    *   Jealous31Hogan +13
 
 More Latest Polls In The News
 
+*   Trump Warns: If Iran Threatens Us, They Will Pay "A Price Like Few Countries Have Ever Paid"
+*   Full Replay/Transcript: Historic WH Press Conference On Iran, With French President Macron and President Trump
+*   Reporter to Sarah Sanders: Can Macron Change Trump's Mind On Iran Deal, Paris Climate Accord, Syria, Tariffs?
 *   Rand Paul: I Take Pompeo At His Word That He "Incorporated The Idea That Iraq War Was A Mistake"
-*   McFaul: Macron Must Offer Trump A "Symbolic Gesture" To Keep U.S. In Iran Deal
-*   Roger Stone: DNC Lawsuit Opens Door For Discovery, "Going To Find Out If They Were Really Hacked"
 *   DNC Chair Tom Perez On Trump/Russia Lawsuit: "We Have To Deter This Conduct"
-*   Devin Nunes On Russia Probe Origin: "Major Irregularities" At State Dept, Sidney Blumenthal Involved
 
 *   Politics
 *   Policy
