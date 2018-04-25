@@ -93,7 +93,23 @@ SONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! Kratos Embarks on a New Journey to Regain His Humanity
+search Your browser does not support JavaScript! Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom”
+
+See It In Theaters This October
+
+Close
+
+*   Share Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom” on Facebook
+*   Share Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom” on Twitter
+*   Copy URL to share Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom”
+
+Play Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom” Video
+
+Sony on YouTube - Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom”
+
+Play Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom” Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Venom-600x600\_mYXdyDZ.jpg);" alt="Venom Trailer">. Kratos Embarks on a New Journey to Regain His Humanity
 
 Play “God of War” Exclusively on PS4™
 
@@ -129,7 +145,7 @@ Play Customize Your Player's Abilities Video hotspot
 
 Omensight hits PS4 on May 15th. PS Plus members get a 20% discount on pre-ordering as part of PS Store’s Totally Digital program
 
-36 minutes ago
+1 day ago
 
 View Tweet
 
@@ -203,7 +219,7 @@ Studio Quality Sound
 
 Appreciate cleaner sound like the artist intended with Hi-Res Audio. #XperiaXZ2Compact
 
-14 hours ago
+1 day ago
 
 View Tweet
 
@@ -289,7 +305,7 @@ Play “Outlander” Fans: Get Your Season 3 Video hotspot
 
 #JoshBrolin is back as Matt Graver in Sicario: Day of the Soldado, only in theaters June 29. #SicarioMovie
 
-2 hours ago
+1 day ago
 
 View Tweet
 
