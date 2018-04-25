@@ -1,8 +1,8 @@
-*   Travel
 *   Politics
 *   Style
+*   Travel
+*   Philanthropy
 *   Royals
-*   Cocktails
 
 *   Subscribe
     *   Give a Gift
