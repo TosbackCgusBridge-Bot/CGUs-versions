@@ -1,8 +1,8 @@
-Privacy Policy Published: November 21, 2011 Updated: Thursday, March 22, 12:00 PM
+Privacy Policy Published: November 21, 2011 Updated: Tuesday, April 24, 12:00 PM
 
-_Published: March 22, 2018_
+_Published: April 24, 2018_
 
-WP Company LLC (“The Washington Post”) recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices. This Privacy Policy applies when you use a website, mobile or tablet application, or other online service (collectively, the “Services”) that links or refers to it. It does not govern or apply to information collected or used by WP Company LLC through other means.
+WP Company LLC (“The Washington Post”) recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices. Our Privacy Shield Policy governs use of personal information that has been transferred to us from organizations in the European Economic Area and Switzerland. This Privacy Policy applies when you use a website, mobile or tablet application, or other online service (collectively, the “Services”) that links or refers to it. It does not govern or apply to information collected or used by WP Company LLC through other means.
 
 This Privacy Policy covers the following:
 
