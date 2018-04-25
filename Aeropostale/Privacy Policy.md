@@ -83,9 +83,10 @@ Close submenu ( Guys ) Guys
 
 *   Open submenu ( Bottoms ) Bottoms
 *   Jackets + Vests
+*   Swim
 *   Accessories
-*   Underwear
 
+*   Underwear
 *   Clearance - EXTRA 30% OFF
 *   Big + Tall
 *   Trending
@@ -100,7 +101,6 @@ Close submenu ( Featured ) Featured
 *   Logo Shop
 *   Active
 *   Back to Basics
-*   Tanks + Swim Shop
 *   Online Only
 *   Uniform
 
@@ -167,8 +167,6 @@ Close submenu ( Swim ) Swim
 *   Swim One Piece
 *   Open submenu ( Swim Accessories ) Swim Accessories
 
-*   Open submenu ( Guys Swim ) Guys Swim
-
 Close submenu ( Girls Featured ) Girls Featured
 
 *   View All
@@ -202,13 +200,6 @@ Close submenu ( Swim Accessories ) Swim Accessories
 *   Sunglasses
 *   Hair Accessories
 *   Flip Flops
-
-Close submenu ( Guys Swim ) Guys Swim
-
-*   View All
-*   Boardshorts
-*   Tanks + Tees
-*   Swim Accessories
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -385,7 +376,6 @@ Menu Find a Store Aeropostale
         *   Logo Shop
         *   Active
         *   Back to Basics
-        *   Tanks + Swim Shop
         *   Online Only
         *   Uniform
     
@@ -408,9 +398,10 @@ Menu Find a Store Aeropostale
         *   Joggers + Sweats
         
     *   Jackets + Vests
+    *   Swim
     *   Accessories
-    *   Underwear
     
+    *   Underwear
     *   Clearance - EXTRA 30% OFF
     *   Big + Tall
     *   Trending
@@ -474,12 +465,6 @@ Menu Find a Store Aeropostale
         *   Sunglasses
         *   Hair Accessories
         *   Flip Flops
-    
-    *   Guys Swim
-        *   View All
-        *   Boardshorts
-        *   Tanks + Tees
-        *   Swim Accessories
 *   Live Love Dream
     
     *   View Home
@@ -605,3 +590,23 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ...
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ...
