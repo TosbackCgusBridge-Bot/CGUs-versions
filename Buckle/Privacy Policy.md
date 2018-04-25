@@ -236,7 +236,7 @@ Celebrate Arbor Day with Tentree! For every item purchased, 10 trees are planted
         *   Top Rated
         *   Best Sellers
         *   Back in Stock
-        *   Matching Sets
+        *   Two Piece Outfits
         *   Denim on Denim
         *   BOGO 30% Off BKE Jewelry
         
