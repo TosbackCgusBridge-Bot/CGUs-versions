@@ -135,23 +135,23 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 1 Mention, 1.15K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/XH0t…
+
+About 5 hours ago
+
+.@Requidan joins @adage on the Ad Lib podcast. Chats about innovation, our portfolio, Drudge Report &. more! Listen here: bit.ly/2HnrChe
+
+Yesterday
+
 My week on Twitter : 6 Likes, 3 Retweets, 1.92K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/MRxa…
 
-About 6 days ago
+Last week
 
 Our biggest fans this week: @mrmistry, @Requidan, @Cassin75. Thank you! via sumall.com/thankyou?… pic.twitter.com/mYF9…
 
 Last week
 
 My week on Twitter : 2 Mentions, 577 Mention Reach, 5 Likes, 3 Retweets, 2.41K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/6CZD…
-
-About 2 weeks ago
-
-Our biggest fans this week: @mrmistry, @Requidan. Thank you! via sumall.com/thankyou?… pic.twitter.com/RNCR…
-
-About 2 weeks ago
-
-One more day! Catch Erik @Requidan at @adexchanger's #PROGIO discussing all things DPO tomorrow at 1:30PM PST. See you there! pic.twitter.com/1cFo…
 
 About 2 weeks ago
 
