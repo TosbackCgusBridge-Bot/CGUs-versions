@@ -73,7 +73,7 @@ SUBSCRIBE NOW$29 for a year
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso nurse opens IV lounge in MontecilloBusinessDallas bank buying El Paso-area firm in $100M dealBusinessSmash &. Roll food truck expands to East Side barNewsOne person killed in car crash on I-10 SundayTrafficCrash in San Elizario kills one person SaturdayTrafficMan exposes himself at Fox Plaza storeCrimeUTEP Will Hernandez may be drafted in first roundSportsEl Paso boxer trains at Olympic Training CenterBoxingEl Paso high school athletes sign collegesHigh-schoolParkland MS student who was killed is identifiedTrafficHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowChuco Tango member guilty in drive-by killingCrimeKnow anyone? These are El Paso's most wantedCrimeMore details in Parkland Middle student's deathLocalTexas man gets 50 years for stealing fajitasNewsEl Paso nurse opens IV lounge in MontecilloBusinessWoman killed Saturday in fatal crash identifiedTrafficDallas bank buying El Paso-area firm in $100M dealBusinessSmash &. Roll food truck expands to East Side barNewsOne person killed in car crash on I-10 SundayTrafficCrash in San Elizario kills one person SaturdayTrafficHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
