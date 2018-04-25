@@ -365,7 +365,7 @@ Compare (0)
 
 Home >. Filter by specs Offers You’ve worked hard for your money.
 
-Make the most of your tax refund! Save up to 25%. Sale ends at 4am EST, Apr. 26.
+Make the most of your tax refund! Save up to 33%. Sale ends at 4am EST, Apr. 26.
 
 Shop Sale >.
 
@@ -373,7 +373,7 @@ Lenovo in the Data Center
 
 The most reliable, flexible, and secure data centers
 
-Shop Now >.
+Learn More >.
 
 *   1
 *   2
@@ -386,9 +386,9 @@ Introducing LenovoPRO for Small Business
 
 Save 10% on all products with a free account.
 
-Gaming Flash Sale Live Now! 
+2 in 1 Flash Sale Live Now!
 
-Save up to $650 off on select Legion Gaming PCs &. Accessories. Sale Ends April 26.
+Save up to $550 off on select convertible 2-in-1 PCs. Limited Time Only! Sale Ends April 27.
 
 All New ThinkPad X1 Yoga 3rd Gen
 
