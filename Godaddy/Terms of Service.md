@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: April 3, 2018**
+**Last Revised: April 24, 2018**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -68,7 +68,8 @@ You acknowledge and agree that:
     *   Promotes, encourages or engages in child pornography or the exploitation of children;
     *   Promotes, encourages or engages in terrorism, violence against people, animals, or property;
     *   Promotes, encourages or engages in any spam or other unsolicited bulk email, or computer or network hacking or cracking;
-    *   Violates the Ryan Haight Online Pharmacy Consumer Protection Act of 2008 or similar legislation, or promotes, encourages or engages in the sale or distribution of prescription medication without a valid prescription.  
+    *   Violates the Ryan Haight Online Pharmacy Consumer Protection Act of 2008 or similar legislation, or promotes, encourages or engages in the sale or distribution of prescription medication without a valid prescription;
+    *   Violates the Fight Online Sex Trafficking Act of 2017 or similar legislation, or promotes or facilitates prostitution and/or sex trafficking;
     *   Infringes on the intellectual property rights of another User or any other person or entity;
     *   Violates the privacy or publicity rights of another User or any other person or entity, or breaches any duty of confidentiality that you owe to another User or any other person or entity;
     *   Interferes with the operation of this Site or the Services found at this Site;
@@ -905,5 +906,5 @@ Telefon: 089 21 094 807 (8 bis 20 Uhr, Mo-Fr)
 E-Mail: HQ@GoDaddy.com
 
   
-Revised: 4/3/18  
+Revised: 4/24/18  
 Copyright © 2005-2018 GoDaddy.com, LLC All Rights Reserved.
