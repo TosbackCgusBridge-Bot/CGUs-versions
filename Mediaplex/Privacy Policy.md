@@ -54,9 +54,9 @@
     *   Integrations
     *   Join Us
 
-THE PROMISE OF  
-1:1 DIGITAL MARKETING  
-BOLDLY DELIVERED Watch Our Story
+GET TO THE HEART  
+OF WHAT MATTERS  
+TO MILLIONS Watch Our Story
 
 *   200M+ Real People You Can  
     Message Right Now
