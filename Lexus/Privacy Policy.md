@@ -94,7 +94,7 @@ COMPARE **NX**
 **RX**
 
 *   Starting at $43,2701\*
-*   295-HP 3.5L V6
+*   3 ROW SEATING UP TO 74\*
 
 *   Build
 *   Current Offers
@@ -117,7 +117,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $85,3804\*
+*   Starting at $85,3805\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -247,7 +247,11 @@ COMPARE **RC F**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **UX**
+COMPARE **ES**
+
+*   FUTURE VEHICLE
+
+**UX**
 
 *   Future Vehicle
 
@@ -349,7 +353,9 @@ click here Important Info Important Info
 
 \[3\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[4\] MSRP does not include delivery, processing and handling fee of $1,195. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
+\[4\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
+
+\[5\] MSRP does not include delivery, processing and handling fee of $1,195. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
 Leasing &. Finance
 
