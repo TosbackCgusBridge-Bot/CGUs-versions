@@ -5,33 +5,31 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 
 *   Movies Now Playing
     
-    *   Rampage (2018)
     *   A Quiet Place
+    *   Rampage (2018)
+    *   I Feel Pretty
+    *   Super Troopers 2
     *   Blumhouse's Truth or Dare (2018)
     *   Ready Player One
     *   Blockers
     *   Black Panther
+    *   Traffik
     *   Isle of Dogs
-    *   I Can Only Imagine
-    *   Tyler Perry's Acrimony
-    *   Chappaquiddick
-    *   The Miracle Season
+    *   Bharat Ane Nenu
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   I Feel Pretty
-    *   Super Troopers 2
-    *   Traffik
-    *   The Devil and Father Amorth
-    *   Genesis (2018)
-    *   Ghost Stories
-    *   Godard Mon Amour
+    *   Avengers: Infinity War
+    *   Disobedience (2018)
+    *   Kings (2018)
+    *   Let the Sunshine In
+    *   The Test and the Art of Thinking
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   Avengers: Infinity War
+    *   Deadpool 2
     
     Coming Soon
     
@@ -50,24 +48,30 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   Century 16 Bel Mar and XD S. Teller and W. Alameda Ave.
-    *   UA Colorado Mills Stadium 16 IMAX &. RPX 14500 West Colfax Ave.
-    *   UA Denver West Village Stadium 12 14225 W. Colfax Ave.
-    *   Alamo Drafthouse Sloans Lake 4255 West Colfax Ave
-    *   Regal River Point Stadium 14 &. RPX 3565 S. Platte River Drive
-    *   Mayan Theatre 110 Broadway
-    *   AMC Bowles Crossing 12 8035 West Bowles Avenue
-    *   UA Denver Pavilions Stadium 15 &. RPX 500 16th St.
-    *   Elvis Cinemas Kipling 6 Theatre 6014 S. Kipling
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Dwayne Johnson's 'Jungle Cruise' Gets Another Villain. Here's What We Know Read More
-    *   Hasbro's 'M.A.S.K.' Heads to Big Screen via F. Gary Gray Read More
-    *   The Week in Movie News: Steven Spielberg Tapped for a DC Movie, Summer Movie Preview and More Read More
+    *   Interview: Kevin Feige Talks 'Avengers: Infinity War' Read More
+    *   'A Star Is Born,' 'Aquaman' Advance Peeks Draw Big Reactions Read More
+    *   We Might Get More Young Han Solo Movies Read More
     
     Explore Content
     *   Movie Reviews
@@ -75,44 +79,27 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Summer Movie Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 80201 Edit Zip Code
+*   My VIP Account Join FandangoVIP Get Points + Save
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Insider Perks
     
-
-See all insider perks My Fandango
-
-See my VIP+ Points
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Get Points + Save
-
-More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
-
-Learn more Insider Perks
-
-Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
-
-Learn more Partner Rewards
-
-Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
-
-Learn more Refunds + Exchanges
-
-We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+    
+    Learn more Partner Rewards
+    
+    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+    
+    Learn more Refunds + Exchanges
+    
+    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms
 
@@ -285,21 +272,21 @@ Offers
     
     Choose 1 of 5 FREE\* exclusive posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   20% Off Your First Month
+*   20% Off Your First Month on FandangoNOW
     
     Watch the newest movies not available on Netflix, Hulu or Amazon Prime subscriptions. New customers get 20% off for 1 month! SEE DETAILS
     
 
 New + Coming soon
 
-*   Pacific Rim Uprising (2018)
-*   Ready Player One
-*   A Quiet Place
-*   Rampage (2018)
 *   Avengers: Infinity War
 *   Deadpool 2
 *   Solo: A Star Wars Story
+*   Ocean's 8
 *   The Incredibles 2
+*   Jurassic World: Fallen Kingdom
+*   Ant-Man and the Wasp
+*   Hotel Transylvania 3: Summer Vacation
 
 Experience + Explore
 
