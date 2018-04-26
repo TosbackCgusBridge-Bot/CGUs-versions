@@ -369,6 +369,20 @@ Make the most of your tax refund! Save up to 33%. Sale ends at 4am EST, Apr. 26.
 
 Shop Sale >.
 
+Built to perform. Engineered to endure.
+
+Now available!
+
+Lenovo in the Data Center
+
+The most reliable, flexible, and secure data centers
+
+Learn More >.
+
+All Aluminum chassis, 10-point multitouch display with top-of-the-line NVIDIA® GeForce GTX 1050. Design. Game. Work. Play.
+
+Now available!
+
 Lenovo in the Data Center
 
 The most reliable, flexible, and secure data centers
@@ -377,6 +391,13 @@ Learn More >.
 
 *   1
 *   2
+*   3
+*   4
+*   5
+
+TODAY'S SALES
+
+Save up to $550 through May 3.
 
 TODAY'S SALES
 
@@ -386,13 +407,9 @@ Introducing LenovoPRO for Small Business
 
 Save 10% on all products with a free account.
 
-2 in 1 Flash Sale Live Now!
+NATIONAL BUSINESS WEEK – EARLY ACCESS SALE
 
-Save up to $550 off on select convertible 2-in-1 PCs. Limited Time Only! Sale Ends April 27.
-
-All New ThinkPad X1 Yoga 3rd Gen
-
-Now available. Customize yours.
+Sign up to LenovoPro and receive exclusive early access to this year’s best savings. Sale ends at 4am (EST), April 29th.
 
 ThinkSmart Hub 500  
 The Smarter Way to Collaborate
@@ -413,17 +430,21 @@ Accessories and Monitors
 
 From monitors to docks, keyboards to mice, graphics to software, and everything in between.
 
+ACCESSORIES AND MONITORS
+
+From monitors to docks, keyboards to mice, graphics to software, and everything in between.
+
 Virtual Reality &. Smart Devices
 
 Connect your world: Smart devices to enhance your life, at home and on the go.
 
-Data Center
+Virtual Reality &. Smart Devices
 
-Achieve competitive advantage in the next-generation data center.
+Connect your world: Smart devices to enhance your life, at home and on the go.
 
-Outlet
+Tablets
 
-Find great deals on new and refurbished Lenovo products.
+Android and Windows tablets engineered for enhanced productivity and a rich multimedia experience.
 
 STAY CONNECTED
 
