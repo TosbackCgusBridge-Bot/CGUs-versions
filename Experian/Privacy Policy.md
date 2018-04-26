@@ -210,8 +210,8 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
 *   Spain
 *   Sweden
 *   Switzerland
-*   Thailand
 *   Taiwan
+*   Thailand
 *   Turkey
 *   UAE
 *   United Kingdom
