@@ -1,4 +1,4 @@
-**Last Revised: April 21, 2018**
+**Last Revised: April 25, 2018**
 
 _**NOTICE**_ : **The Privacy Policy below will become _effective May 25, 2018_. To view the current Privacy Policy, click here.**  
 
