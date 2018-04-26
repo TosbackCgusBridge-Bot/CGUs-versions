@@ -3,7 +3,7 @@ Aeropostale
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
-*   Open submenu ( Swim ) Swim
+*   Open submenu ( Shorts ) Shorts
 *   Open submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Clearance ) Clearance
 
@@ -40,7 +40,6 @@ Close submenu ( Featured ) Featured
 *   Buy 1 Get 1 Accessories
 *   6 for $18 Undies
 *   Create Your Suit for $20
-*   Spring Break
 *   Festival Vibes
 *   Denim Guide
 *   Logo Shop
@@ -155,51 +154,41 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Super Skinny
 *   Relaxed
 
-Close submenu ( Swim ) Swim
+Close submenu ( Shorts ) Shorts
 
 *   View Home
-*   Open submenu ( Girls Featured ) Girls Featured
+*   Open submenu ( Girls Shorts ) Girls Shorts
 
-*   Open submenu ( Bikini Tops ) Bikini Tops
+*   Open submenu ( Guys Shorts ) Guys Shorts
 
-*   Open submenu ( Bikini Bottoms ) Bikini Bottoms
-
-*   Swim One Piece
-*   Open submenu ( Swim Accessories ) Swim Accessories
-
-Close submenu ( Girls Featured ) Girls Featured
+Close submenu ( Girls Shorts ) Girls Shorts
 
 *   View All
-*   Create Your Suit for $20
-*   Little Black Bikini
-*   Swim Sets
+*   Low Rise Shorty
+*   High-Waisted Shorty
+*   High-Waisted Cheeky
+*   Low Rise Midi
+*   High-Waisted Midi
+*   Low Rise Twill Midi
+*   Low Rise Tomboy
+*   Low Rise Bermuda
+*   Shortall
+*   Lounge
+*   Active
 
-Close submenu ( Bikini Tops ) Bikini Tops
-
-*   View All
-*   Bandeau
-*   Push Up
-*   Triangle
-*   High Neck
-*   Bralette
-*   Halter
-
-Close submenu ( Bikini Bottoms ) Bikini Bottoms
+Close submenu ( Guys Shorts ) Guys Shorts
 
 *   View All
-*   Bikini
-*   Hipster
-*   Cheeky
-*   High Rise
-*   Tanga
-
-Close submenu ( Swim Accessories ) Swim Accessories
-
-*   View All
-*   Cover Ups
-*   Sunglasses
-*   Hair Accessories
-*   Flip Flops
+*   Classic Chino Short
+*   Longboard
+*   Cargo Chino Short
+*   Long Cargo
+*   Cut-Off Denim
+*   Cuffed Denim
+*   Color Denim
+*   Jogger Short
+*   Athletic
+*   Swim
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -320,7 +309,6 @@ Menu Find a Store Aeropostale
         *   Buy 1 Get 1 Accessories
         *   6 for $18 Undies
         *   Create Your Suit for $20
-        *   Spring Break
         *   Festival Vibes
         *   Denim Guide
         *   Logo Shop
@@ -431,40 +419,35 @@ Menu Find a Store Aeropostale
         *   Super Skinny
         *   Relaxed
     
-*   Swim
+*   Shorts
     
     *   View Home
-    *   Girls Featured
+    *   Girls Shorts
         *   View All
-        *   Create Your Suit for $20
-        *   Little Black Bikini
-        *   Swim Sets
+        *   Low Rise Shorty
+        *   High-Waisted Shorty
+        *   High-Waisted Cheeky
+        *   Low Rise Midi
+        *   High-Waisted Midi
+        *   Low Rise Twill Midi
+        *   Low Rise Tomboy
+        *   Low Rise Bermuda
+        *   Shortall
+        *   Lounge
+        *   Active
     
-    *   Bikini Tops
+    *   Guys Shorts
         *   View All
-        *   Bandeau
-        *   Push Up
-        *   Triangle
-        *   High Neck
-        *   Bralette
-        *   Halter
-    
-    *   Bikini Bottoms
-        *   View All
-        *   Bikini
-        *   Hipster
-        *   Cheeky
-        *   High Rise
-        *   Tanga
-        
-    
-    *   Swim One Piece
-    *   Swim Accessories
-        *   View All
-        *   Cover Ups
-        *   Sunglasses
-        *   Hair Accessories
-        *   Flip Flops
+        *   Classic Chino Short
+        *   Longboard
+        *   Cargo Chino Short
+        *   Long Cargo
+        *   Cut-Off Denim
+        *   Cuffed Denim
+        *   Color Denim
+        *   Jogger Short
+        *   Athletic
+        *   Swim
 *   Live Love Dream
     
     *   View Home
