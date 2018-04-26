@@ -1,23 +1,21 @@
 Menu PayPal
 
-*   Personal
-    Personal*   What is PayPal? _Learn how PayPal works in your everyday life_
+*   PersonalPersonal
+    *   What is PayPal? _Learn how PayPal works in your everyday life_
     *   Check Out Securely Online _Use your credit cards or other funds_
     *   PayPal Credit &. Cards _Our credit, debit, prepaid cards &. PayPal Credit_
     *   PayPal App _Transfer money and track activity with our app_
     *   PayPal Can Do That _Discover ways to manage and move your money_
     *   Shopping and More _Deals, gift cards and donations_Close
-*   Business
-    Business*   All Business Solutions _Merchant services, invoicing, and more_
+*   BusinessBusiness
+    *   All Business Solutions _Merchant services, invoicing, and more_
     *   Get Paid in Person _Mobile card readers and POS solutions_
     *   Credit Card Processing _Accept credit, debit cards, and PayPal_
     *   Small Business Loans _Fast and fair financing_
     *   Add PayPal to Your Checkout _Add the button to accept payments_
     *   Offer Credit to Your Customers _Promote financing to help increase sales_Close
 *   Send
-    SendClose
 *   Request
-    RequestClose
 
 *   Sign Up for Free
 
@@ -96,4 +94,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=ced7a0edc370&rsta=en\_US&pgtf=Nodejs&s=ci&csci=47d9afc0c5eb46dcb444f521738e1883&comp=mppnodeweb&tsrce=mppnodeweb&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=5534baaea8f5&rsta=en\_US&pgtf=Nodejs&s=ci&csci=f2c6e5c09f004e6cb17db0aa8598dbea&comp=mppnodeweb&tsrce=mppnodeweb&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
