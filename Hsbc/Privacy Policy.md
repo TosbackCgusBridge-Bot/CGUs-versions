@@ -98,7 +98,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Investor contacts
         
     
-    *   Annual General Meeting HSBC Holdings plc held its Annual General Meeting on 20 April 2018.
+    *   1Q 2018 Earnings Release HSBC Holdings plc will announce its 1Q 2018 update on 4 May.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
