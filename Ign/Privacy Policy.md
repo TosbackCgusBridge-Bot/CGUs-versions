@@ -320,4 +320,4 @@ Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 19
 
 AdChoices
 
-Back to Top 100%
+Back to Top
