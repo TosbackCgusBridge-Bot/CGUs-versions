@@ -89,7 +89,7 @@ We may send you email messages, direct mail offers, or other communications rega
 *   **Voice or Text Messages:** To opt out of receiving calls from our live representatives by telephone, contact us at the address below. If you have consented to receive prerecorded voice messages or text messages, you may opt out of receiving them by using the method provided in the prerecorded voice message or text message or by contacting us at the address below.
 *   **Google Analytics:** You may opt out of the aggregation and analysis of data collected about you on our website by Google Analytics by visiting https://tools.google.com/dlpage/gaoptout and downloading and installing the Google Analytics Opt-out Browser Add-on.
 
-**Data Transfers  
+**DATA TRANSFERS  
 **We are based in the United States.  When we obtain information about you, we may transfer, process, and store such information in the United States and other countries. By using our websites and mobile applications, you consent to the transfer to, and to the processing and storage of your information in, countries outside of your country of residence, which may have different data protection laws than those in the country in which you reside.
 
 **HOW TO CONTACT US**  
