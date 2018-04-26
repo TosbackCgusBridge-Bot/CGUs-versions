@@ -1,4 +1,4 @@
-SUBSCRIBE NOW$29 for a year
+close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogSUBSCRIBE NOW$0.99/1st month
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW$29 for a year
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowChuco Tango member guilty in drive-by killingCrimeKnow anyone? These are El Paso's most wantedCrimeMore details in Parkland Middle student's deathLocalTexas man gets 50 years for stealing fajitasNewsEl Paso nurse opens IV lounge in MontecilloBusinessWoman killed Saturday in fatal crash identifiedTrafficDallas bank buying El Paso-area firm in $100M dealBusinessSmash &. Roll food truck expands to East Side barNewsOne person killed in car crash on I-10 SundayTrafficCrash in San Elizario kills one person SaturdayTrafficHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowParkland boy's family blames school in walkoutLocalEl Pasoan was one of 2 officers shot in DallasTexasregionMan killed in motorcycle crash in East El PasoTrafficParkland student ran back into truck's path: DriverTrafficBiting gnats menace Upper Valley neighborhoodsHealthNFL Draft prospect UTEP's Will Hernandez waitsSportsKnow anyone? These are El Paso's most wantedCrimeChuco Tango member guilty in drive-by killingCrimeBandidos attack was prevented, witness saysNewsEPISD bus with students involved in accidentTrafficHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,3 +142,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
