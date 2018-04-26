@@ -137,11 +137,11 @@ LATEST ON TWITTER
 
 My week on Twitter : 1 Mention, 1.15K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/XH0t…
 
-About 5 hours ago
+Yesterday
 
 .@Requidan joins @adage on the Ad Lib podcast. Chats about innovation, our portfolio, Drudge Report &. more! Listen here: bit.ly/2HnrChe
 
-Yesterday
+About 2 days ago
 
 My week on Twitter : 6 Likes, 3 Retweets, 1.92K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/MRxa…
 
