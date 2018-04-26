@@ -796,9 +796,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: ROBIN pin: 3772 DETAILS
+code: GRASS pin: 2859 DETAILS
 
 Customer Service Menu
 
