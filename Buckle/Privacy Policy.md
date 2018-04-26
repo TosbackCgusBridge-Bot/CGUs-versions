@@ -67,7 +67,7 @@ Celebrate Arbor Day with Tentree! For every item purchased, 10 trees are planted
         *   Straight Jeans
         *   Jeans Under $50
         *   Pants/Leggings
-        *   Cropped Jeans
+        *   Crops/Capris
         *   Shorts
         *   Skirts
         *   Denim Skirts
