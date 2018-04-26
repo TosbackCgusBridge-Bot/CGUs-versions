@@ -33,11 +33,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 9 OF COUPON CODE SAVE60 ENDS IN
-
-\*offer ends 4/25/18
-
-Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SHIRTSSHOP ALL50-60% OFF SELECT STAFFORD DRESS SHIRTSSHOP ALL
+Near YouFind a StoreBack50-60% OFF SELECT STAFFORD DRESS SHIRTSSHOP ALL50-60% OFF SELECT STAFFORD DRESS SHIRTSSHOP ALL
 
 *   $13.99 sale
     
@@ -59,6 +55,11 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     was $36
     
     Stafford Travel Easy-Care Long Sleeve Broadcloth Dress Shirt(6)Add To Cart
+*   $24.99 sale
+    
+    was $50
+    
+    Stafford® Travel Performance Pinpoint Oxford Shirt–Big &. Tall(664)Add To Cart
 *   $13.99 sale
     
     was $36
@@ -69,16 +70,16 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     was $36
     
     Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Gingham Dress Shirt(5)Add To Cart
-*   $24.99 sale
-    
-    was $50
-    
-    Stafford® Travel Performance Pinpoint Oxford Shirt–Big &. Tall(664)Add To Cart
 *   $9.99 sale
     
     was $50
     
     Stafford Travel Stretch Fashion Long Sleeve Broadcloth Grid Dress Shirt(1)Add To Cart
+*   $24.99 sale
+    
+    was $50
+    
+    Stafford® Travel Performance Pinpoint Oxford Shirt–Big &. Tall(383)Add To Cart
 *   $9.99 sale
     
     was $50
@@ -93,12 +94,12 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     
     was $36
     
-    Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Dress ShirtAdd To Cart
+    Stafford Travel Easy-Care Long Sleeve Broadcloth Stripe Dress Shirt(1)Add To Cart
 *   $13.99 sale
     
     was $36
     
-    Stafford Travel Easy-Care Long Sleeve Broadcloth Stripe Dress Shirt(1)Add To Cart
+    Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Dress ShirtAdd To Cart
 *   $13.99 sale
     
     was $36
@@ -109,11 +110,6 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     was $54
     
     Stafford® Long-Sleeve Travel Wrinkle-Free Oxford Dress Shirt - Big &. Tall(5)Add To Cart
-*   $13.99 - $15.99 sale
-    
-    was $36
-    
-    Stafford Travel Easy-Care Broadcloth Long Sleeve Broadcloth Stripe Dress Shirt(7)Add To Cart
 
 20-50% OFF SELECT SWIMWEAR FOR MENSHOP ALL20-50% OFF SELECT SWIMWEAR FOR MENSHOP ALL
 
@@ -127,9 +123,6 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     was $42
     
     Speedo TrunksAdd To Cart
-*   View Price in Cart
-    
-    Nike Drift 11" BoardAdd To Cart
 *   $17.99 sale
     
     was $30
@@ -140,7 +133,7 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     Nike Vortex 11" Volley Trunks(1)Add To Cart
 *   View Price in Cart
     
-    Nike Swim Shorts Big and TallAdd To Cart
+    Nike Drift 11" BoardAdd To Cart
 *   $50.99 sale
     
     was $64
@@ -148,7 +141,18 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     Nike Tie Dye Swim Shorts Big and TallAdd To Cart
 *   View Price in Cart
     
+    Nike Swim Shorts Big and TallAdd To Cart
+*   View Price in Cart
+    
+    Nike Logo Swim Shorts Big and TallAdd To Cart
+*   View Price in Cart
+    
     Nike Breaker 9" Volley TrunksAdd To Cart
+*   $24.99 sale
+    
+    was $42
+    
+    Burnside Forever 1 Stripe Trunks(1)Add To Cart
 *   View Price in Cart
     
     Nike Tie Dye TrunksAdd To Cart
@@ -159,25 +163,19 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     Burnside Trifecta Board Shorts(1)Add To Cart
 *   $24.99 sale
     
-    was $42
-    
-    Burnside Forever 1 Stripe Trunks(1)Add To Cart
-*   $24.99 sale
-    
     was $36
     
     Speedo® Surfrunner Volley Swim Shorts(59)Add To Cart
-*   View Price in Cart
-    
-    Nike Logo Swim Shorts Big and TallAdd To Cart
-*   View Price in Cart
-    
-    Nike Geometric Swim Shorts Big and TallAdd To Cart
 *   $23.99 sale
     
     was $40
     
     St. John's Bay Stripe Swim ShortsAdd To Cart
+*   $24.99 sale
+    
+    was $42
+    
+    Burnside Island Scenic Trunks(1)Add To Cart
 
 30-40% OFF SELECT DRESSESSHOP ALL30-40% OFF SELECT DRESSESSHOP ALL
 
@@ -196,16 +194,21 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     was $44
     
     a.n.a. Bell Sleeve Shift Dress(13)Add To Cart
-*   $29.99 sale
-    
-    was $54
-    
-    Worthington SS Tiered Ruffle Sleeve Shift Dress(4)Add To Cart
 *   $34.99 sale
     
     was $60
     
     a.n.a 3/4 Sleeve Embroidered Floral Shift DressAdd To Cart
+*   $29.99 sale
+    
+    was $54
+    
+    Worthington SS Tiered Ruffle Sleeve Shift Dress(4)Add To Cart
+*   $39.99 sale
+    
+    was $74
+    
+    Worthington Lace Shift DressAdd To Cart
 *   $24.99 sale
     
     was $44
@@ -216,16 +219,6 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     was $59
     
     Belle + Sky Sleeveless Smocked Waist Dress(7)Add To Cart
-*   $39.99 sale
-    
-    was $74
-    
-    Worthington Lace Shift DressAdd To Cart
-*   $43 sale
-    
-    was $86
-    
-    Perceptions Sleeveless Jacket Dress-Petites(1)Add To Cart
 *   $29.50 sale
     
     was $59
@@ -238,6 +231,11 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     was $89
     
     CAP FOIL SCUBA DRESS(1)Add To Cart
+*   $43 sale
+    
+    was $86
+    
+    Perceptions Sleeveless Jacket Dress-Petites(1)Add To Cart
 *   $37 sale
     
     was $74
@@ -252,12 +250,12 @@ Days 0 0 0 0 hours 4 4 1 1 mins 0 0 0 0 secs 50-60% OFF SELECT STAFFORD DRESS SH
     
     was $89
     
-    Perceptions Sleeveless Jacket Dress-Petites(1)Add To Cart
-*   $37 sale
+    Ronni Nicole Sleeveless Leaf Maxi Dress-PetitesAdd To Cart
+*   $39.99 sale
     
     was $74
     
-    Perceptions Sleeveless Jacket Dress-Petites(1)Add To Cart
+    a.n.a. Smocked Maxi Dress(6)Add To Cart
 
 60% OFF WITH CODE SAVE60 SELECT PROM DRESSESSHOP ALL60% OFF WITH CODE SAVE60 SELECT PROM DRESSESSHOP ALL
 
@@ -382,11 +380,11 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     1/4 CT. T.W. Round White Diamond Sterling Silver Stud Earrings(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $70.30 sale
+    $437.50 sale
     
-    was $234.34
+    was $1,458.32
     
-    10K Gold 22 Inch Chain NecklaceAdd To Cart
+    1/2 CT. T.W. Diamond 10K White Gold Anniversary Band(8)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $81.25 sale
@@ -396,25 +394,18 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     Enchanted Disney Fine Jewelry Sterling Silver Gold Over Silver 18 Inch Chain Necklace(3)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $437.50 sale
+    $93.74 sale
     
-    was $1,458.32
+    was $312.48
     
-    1/2 CT. T.W. Diamond 10K White Gold Anniversary Band(8)Add To Cart
+    1/4 CT. T.W. Diamond 36mm Sterling Silver Hoop Earrings(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $121.87 sale
+    $725 sale
     
-    was $406.23
+    was $2,416.65
     
-    14K Gold Sand Dollar Stud EarringsAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $343.74 sale
-    
-    was $1,145.81
-    
-    Brilliant Dream™ 1/3 CT. T.W. Round Diamond Stud Earrings 14K White Gold(5)Add To Cart
+    3/8 CT. T.W. White Diamond Round 14K Gold PendantAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $37.49 sale
@@ -424,11 +415,18 @@ UP TO 70% OFF NO COUPON NEEDEDSHOP ALLUP TO 70% OFF NO COUPON NEEDEDSHOP ALL
     Womens 1/10 CT. T.W. Genuine White Diamond Sterling Silver &. 14K Rose Gold Over Silver Cocktail Ring(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $93.74 sale
+    $70.30 sale
     
-    was $312.48
+    was $234.34
     
-    Enchanted Disney Fine Jewelry 1/5 C.T. T.W. Diamond "Cinderella" Carriage Pendant Necklace In Sterling SilverAdd To Cart
+    10K Gold 22 Inch Chain NecklaceAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $121.87 sale
+    
+    was $406.23
+    
+    14K Gold Sand Dollar Stud EarringsAdd To Cart
 
 Shop and Save at JCPenney
 
