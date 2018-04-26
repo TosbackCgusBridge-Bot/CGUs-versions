@@ -106,53 +106,53 @@
     *   About
     *   Media Kit
 
-*   _Kristin Tate_: The Great Exodus Out of America's Blue Cities
+*   _Robin Wright_: Did Macron Just Charm Trump on Iran?
     
-*   _Robin Wright_: Madeleine Albright Warns of a New Fascism--and Trump
+*   _Boris Ryvkin_: How U.S. Mistakes in Middle East Are Benefiting China
     
-*   _Kurt Schlichter_: It's Fun to Watch the Establishment's Coup Dreams Die
+*   _Greg Stohr_: Trump Travel Ban Looks Poised for Victory at Supreme Court
     
-*   _Corey Brettschneider_: How Mueller Can Protect the Russia Probe
+*   _Jason Zengerle_: How Nunes Turned House Intel Committee Inside Out
     
-*   _Deroy Murdock_: Mueller's Got Nothing--Time to Wrap It Up &. Go Home
+*   _Julie Kelly_: Relentless Nunes Is Exactly What America Needs
     
-*   _Robert Kuttner_: The Great Republican Tax Cut Backfire
+*   _Walter Shapiro_: Best &. the Brightest? Trump's Troika of Troubled Nominees
     
-*   _Cass Sunstein_: Trump's Promising Plan to Link Welfare to Work
+*   _Josh Kraushaar_: Democrats Learning the Limits of Base-First Politics
     
-*   _Peter Berkowitz_: How Colleges Threaten Liberal Education
+*   _Caitlin Huey-Burns_: Republican Concerns Mount in AZ Despite 8th District Win
     
-*   _Paul Krugman_: We Don't Need No Education
+*   _Vann Newkirk_: The True Cost of Cheap Health Insurance
     
-*   _Margot Cleveland_: FEC Records Indicate Campaign Laundered $84 Million
+*   _Betsy McCaughey_: Yes, Hospitals May Be Able to Order Death of Your Child
     
-*   _Daniel Strauss_: Will Republican Turmoil Save McCaskill in Missouri?
+*   _Kate Brower_: Melania Trump Is Finally Getting Her Moment
     
-*   _Richard Cohen_: Trump's Tricky Korean Situation
+*   _Hirschfeld Davis &. Rogers_: Le Bromance: Trump &. Macron, Together Again
     
-*   _Harry Kazianis_: Mike Pompeo Will Be a Great Secretary of State
+*   _Victor Davis Hanson_: Revolution and Worse to Come
     
-*   _Clapper_: Trump's Travel Ban Fuels Terrorism
+*   _Harold Meyerson_: Why Full Employment Is Back From the Dead
     
-*   _Byron York_: Is 'Can't Prove Untrue' the New Standard in Russia Probe?
+*   _Megan McArdle_: Bernie's Jobs Plan Deserves to Stay on Ash Heap of History
     
-*   _Amy Sorkin_: Trump, Giuliani, and All the President's Lawyers
+*   _Hansen &. Sanchez_: 5 Takeaways From Lesko's Win in Arizona 8
     
-*   _Sam Stein_: Trump Might Pardon Jack Johnson. Why Didn't Obama?
+*   _David French_: Will the Supreme Court Join #TheResistance?
     
-*   _Rafael Mangual_: Kanye Dares to Question the Liberal Narrative
+*   _Emily Jane Fox_: Michael Cohen Is Still Holding Out Hope
     
-*   _Yascha Mounk_: Shania Twain and the Crisis of American Democracy. Really.
+*   _George Neumayr_: The Counterintelligence Probe's Phantom Origin
     
-*   _William McGurn_: Who's Really Corrupting Democracy and Decency?
+*   _Eleanor Clift_: Nancy Pelosi's Last Stand
     
-*   _Arnott &. Tamny_: The Great Tax Migration
+*   _Joseph Curl_: Despite the Blame, Hillary Knows Who Really Lost the Election
     
-*   _Michelle Goldberg_: Hope for Democrats in Arizona
+*   _Paul Waldman_: The GOP Finally Has a 2018 Strategy. Her Name is Hillary
     
-*   _Sen. Marco Rubio_: Building a National American Conservatism
+*   _Kyle Smith_: New Book About Hillary Puts Media Bias on Display
     
-*   _James Arkin_: Senate Dems Continue to Lead Republicans in Fundraising
+*   _Glenn Greenwald_: Why Is Liberal Media Ignoring the Joy Reid Scandal?
     
 
 *   Previous
@@ -254,11 +254,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   After Close Vote, Panel Sends Pompeo Nomination to Senate
+*   Jenkins, Morrisey Lead Blankenship in W.Va. Primary Poll
+*   Republican Lesko Wins Arizona Eighth District Special Election
+*   Macron: New "Big Deal" With Iran Could Include Syria Crisis
+*   Handshakes and Kisses Aside, Some Issues Split Trump, Macron
 *   Senate Dems Continue to Lead Republicans in Fundraising
-*   Paul: Pompeo Does "Understand That the Iraq War Was a Mistake"
-*   Seeding a Fact-Checking Conversation: Claims &. Ratings
-*   Greitens Scandal Casts Shadow Over Missouri Senate Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -273,27 +273,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   West Virginia Senate - Republican PrimaryFOX News
-    *   Jenkins25
-    *   Morrisey21
-    *   Blankenship16Jenkins +4
-*   New Hampshire Governor - Sununu vs. MarchandUNH\*
-    *   Sununu49
-    *   Marchand27Sununu +22
-*   Maryland Governor - Hogan vs. BakerGoucher College
-    *   Hogan44
-    *   Baker31Hogan +13
-*   Maryland Governor - Hogan vs. JealousGoucher College
-    *   Hogan44
-    *   Jealous31Hogan +13
+*   Tennessee Senate - Blackburn vs. BredesenMason-Dixon
+    *   Bredesen46
+    *   Blackburn43Bredesen +3
+*   Nevada Senate - Heller vs. RosenNevada Independent/Mellman
+    *   Heller40
+    *   Rosen39Heller +1
+*   Nevada Governor - Laxalt vs. SisolakNevada Independent/Mellman
+    *   Sisolak43
+    *   Laxalt37Sisolak +6
+*   President Trump Job ApprovalFOX News
+    *   Approve44
+    *   Disapprove53Disapprove +9
 
 More Latest Polls In The News
 
+*   Warren on Trump: "Most Corrupt Administration Ever". So Corrupt He Openly Talks About Pay To Play
+*   CNN's Acosta to Huckabee Sanders: "Are You Trying To Say This Administration Is A Champion Of A Free Press?"
+*   Kellyanne: Can't Allow "Press" Allegations To Vet Ronny Jackson, "That's What Hearings Are For"
 *   Trump Warns: If Iran Threatens Us, They Will Pay "A Price Like Few Countries Have Ever Paid"
-*   Full Replay/Transcript: Historic WH Press Conference On Iran, With French President Macron and President Trump
-*   Reporter to Sarah Sanders: Can Macron Change Trump's Mind On Iran Deal, Paris Climate Accord, Syria, Tariffs?
-*   Rand Paul: I Take Pompeo At His Word That He "Incorporated The Idea That Iraq War Was A Mistake"
-*   DNC Chair Tom Perez On Trump/Russia Lawsuit: "We Have To Deter This Conduct"
+*   Full Replay/Transcript: Historic WH Press Conference On Iran, With Macron and Trump
 
 *   Politics
 *   Policy
