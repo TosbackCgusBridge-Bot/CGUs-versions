@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 21%  21%  21%  21%  Arrest Records &. Driving Infractions
+What is PeekScore? Public Records &. Background Checks 12%  12%  12%  12%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -107,7 +107,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 21%  Twitter 13% 
+Facebook 12%  Twitter 5% 
 
 *   HIV.gov - HIVGov
     
@@ -153,7 +153,7 @@ Facebook 21%  Twitter 13% 
     
 *   Show Less ...
 
-Instagram 13% 
+Instagram 5% 
 
 *   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
     
@@ -219,7 +219,7 @@ Instagram 13% 
     
 *   Show Less ...
 
-Pinterest 21%  Wikipedia 13% 
+Pinterest 12%  Wikipedia 5% 
 
 *   P3P
     
@@ -230,14 +230,14 @@ Pinterest 21%  Wikipedia 13% 
     Science and technology. Experiment, a part of the scientific method Test method, a definitive procedure that produces a test result Statistical hypothesis testing, a ...
     
 
-Google+ 13% 
+Google+ 5% 
 
 *   Privacy Policy - Google+
     
     Post has attachment. Privacy Policy. Public... 1h · fgfgfg. fgfgfg. privacypolicyxvideo.blogspot.com. Add a comment... no plus ones. no shares. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while more posts are being loaded.
     
 
-Linkedin 21%  Music 13% 
+Linkedin 12%  Music 5% 
 
 *   Pandora
     
@@ -283,7 +283,7 @@ Linkedin 21%  Music 13% 
     
 *   Show Less ...
 
-Photo Albums 13% 
+Photo Albums 5% 
 
 *   Flickriver
     
@@ -294,7 +294,7 @@ Photo Albums 13% 
     Flickr (pronounced "flicker") is an image-and video-hosting website and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo on 20 March 2005 ...
     
 
-Myspace 13% 
+Myspace 5% 
 
 *   Privacy Policy - 49086242
     
@@ -318,7 +318,7 @@ Myspace 13% 
     
 *   Show Less ...
 
-Web Search 21%  Images 12% 
+Web Search 12%  Images 4% 
 
 20
 
