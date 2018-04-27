@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu 18.04 LTS optimised for security, multi-cloud, containers &. AI ›
 *   Ora as a snap: ensuring users are benefiting from the latest version ›
 *   LXD weekly status #44 ›
 *   Dell Technologies World 2018 ›
 *   A look at Rancher 2.0 ›
-*   Design and Web team summary – 20 April 2018 ›
