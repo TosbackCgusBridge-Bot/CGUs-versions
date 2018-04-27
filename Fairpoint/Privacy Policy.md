@@ -23,6 +23,7 @@
             *   Switched Ethernet
             *   MPLS-VPN
             *   Dedicated Internet
+            *   SD-WAN
             *   Managed Wireless LAN
             *   Remote VPN
             *   Network Failover
