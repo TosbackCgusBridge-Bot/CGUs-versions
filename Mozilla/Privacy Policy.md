@@ -173,7 +173,6 @@ Back to Mozilla Privacy Policy Mozilla Mozilla
 *   Contribute to this site
 *   Source code for this page
 *   *   Twitter (@mozilla)
-    *   Facebook (Mozilla)
     *   Instagram (@mozilla)
 
 Firefox
@@ -184,7 +183,6 @@ Firefox
 *   Features
 *   Beta, Nightly, Developer Edition
 *   *   Twitter (@firefox)
-    *   Facebook (Firefox)
     *   YouTube (firefoxchannel)
 
 *   Website Privacy Notice
