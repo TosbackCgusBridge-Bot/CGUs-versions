@@ -42,7 +42,6 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
     > We will comply with all requests from law enforcement for data obtained from your interaction with this website and will report crimes committed on or against this website, it's staff, or visitors to the appropriate authorities. If you commit a crime or civil violation during your use of this website we reserve the right to use any data obtained from your interaction here to pursue civil and or criminal charges against you.
     
       
-      
     **How do we protect your information?**  
       
     We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.  
