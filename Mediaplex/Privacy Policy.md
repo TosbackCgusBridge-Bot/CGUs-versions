@@ -22,6 +22,7 @@
     *   Press Releases
     *   Our Locations
     *   Partners
+    *   Giving Back
 *   Publishers
     *   Overview
     *   Benefits
@@ -54,9 +55,9 @@
     *   Integrations
     *   Join Us
 
-GET TO THE HEART  
-OF WHAT MATTERS  
-TO MILLIONS Watch Our Story
+HAVE COMPELLING  
+CONVERSATIONS THAT  
+LAST A LIFETIME Watch Our Story
 
 *   200M+ Real People You Can  
     Message Right Now
@@ -128,6 +129,7 @@ Ready to talk? Contact us 
     *   Press Releases
     *   Our Locations
     *   Partners
+    *   Giving Back
 *   Publishers
     *   Overview
     *   Benefits
