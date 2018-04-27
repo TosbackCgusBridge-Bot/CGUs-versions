@@ -186,12 +186,14 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Electronic Device
         
         *   Health
+        *   Home Financing
+        *   Home Refinancing
         *   ID Theft
         *   Life
         *   Mechanical Repair
+        
         *   Mexico Auto
         *   Pet
-        
         *   Travel
         *   Umbrella
         *   Wedding &. EventView All Insurance Products
@@ -293,11 +295,11 @@ Bundle and save 5%† or more on auto!
 *   Health
 *   Homeowners
 
-*   Homeshare
+*   Home Financing
+*   Home Refinancing
 *   ID Theft
 *   Life
 *   Mechanical Repair
-*   Mexico Auto
 *   Mobile Home
 *   Motorcycle/ATV
 
@@ -309,8 +311,8 @@ Bundle and save 5%† or more on auto!
 *   Travel
 *   Wedding &. Event
 
-Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHomeshareID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event
+Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHome FinancingHome RefinancingID TheftLifeMechanical RepairMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event
 
 Loading
 
- <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=0a11cb2ae26a42628d14f9badcc12a1d&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
+ <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=055e86a60bc94c058285cde07e2cc048&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
