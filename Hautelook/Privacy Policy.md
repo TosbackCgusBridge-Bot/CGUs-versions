@@ -8,21 +8,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Burberry Watches Up to 50% Off
-    *   MOTHER
-    *   Just Me Dresses
-    *   Lafayette 148 New York Incl. Petites
-    *   Jack Rogers Starting at $40
+    *   Designer Fragrances: Gucci, Chloe, Burberry &. More
+    *   Ray-Ban Sunglasses
+    *   Diane von Furstenberg
+    *   MIKOH Swim
+    *   Aquatalia
+    *   Handmade in Spain: UNOde50 Jewelry &. Watches
+    *   Derek Lam 10 Crosby Denim Up to 70% Off
+    *   Endless Rose
+    *   LOVE Moschino
+    *   Sandal Season: Wedges, Slides &. More
+    *   LOVE Moschino Shoes
+    *   Threads 4 Thought
+    *   Koral Active
+    *   Cape Robbin Under $40
+    *   Noa Elle
+    *   Anzie Fine Jewelry
+    *   Mirenesse Up to 70% Off
+    *   Cuisinart Cookware, Grills &. More
+    *   Free Shipping: Vintage-Inspired &. Modern Decor
+    *   Tailorbyrd
+    *   Men's Denim Under $50
+    *   Indigo Star Starting at $20
+    *   Brooklyn Cloth Under $20
+    *   Under $50: Deer Stags Men
+    *   Joe-Ella
+    *   Kids' Spring Looks from Tommy Hilfiger
+    *   Under $30: Dr. Scholl's Kids
+    *   Kids' Favorite Character Pajamas
     *   Maaji Swim
     *   Shades of Summer: Mirrored Aviators &. More
     *   Boho Favorites: Summer Shoes We Love
     *   RAGA
     *   Banjara
     *   Spring Must-Haves: Boho-Chic Handbags
+    
     *   Boho Bliss: Turquoise &. Layered Jewelry
+    *   Burberry Watches Up to 50% Off
+    *   MOTHER
     *   Bobbi Brown
+    *   Just Me Dresses
     *   Tea Collection
     *   Free Shipping: Bedding Essentials Blowout
+    *   Jack Rogers Starting at 40
+    *   Lafayette 148 New York Incl. Petites
     *   Blanc Noir Sport Up to 70% Off
     *   The Cat's Meow: On-Trend Kitten Heels
     *   Dizzy Sandals Under $20
@@ -43,21 +72,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Artistic Home Accents from $10
     *   Spring in Bloom: Planting Kits &. More
     *   Home &. Office Organization Starting at $15
-    
     *   Sam Edelman Up to 50% Off
-    *   Love Stitch Dresses
-    *   Anne Klein
     *   Robert Graham
     *   Sam Edelman Handbags Up to 50% Off
-    *   Soprano
-    *   Electric Yoga
     *   Gurhan Jewelry: 24K Gold Up to 50% Off
-    *   Love Stitch
     *   Sam Edelman Swim &. More
-    *   Lingerie &. Sleep ft. Sam Edelman
+    
     *   Olivia Welles Jewelry Up to 75% Off
-    *   Liliana Under $30
-    *   Abound Shoes Under $50
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Like a Pro: NuMe Hair Tools &. More
     *   Champion
@@ -66,60 +87,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Doodle Pants
     *   Sam Edelman Girls' Shoes
     *   On-Trend Kids' Looks from DKNY, bebe &. More
-    *   Travel with the Best: Bric's Luggage &. More
-    *   ARATTA Up to 80% Off
-    *   Rebecca Taylor Up to 60% Off
     *   Kiehl's Since 1851
-    *   For Mom: Diamond Rings &. More Starting at $75
-    *   14K Gold Jewelry Steals
     *   Blend Mineral Cosmetics Up to 85% Off
-    *   Rivka Friedman Jewelry Up to 80% Off
     *   Volcom Under $30
     *   Men's Premium Jeans Shop: True Religion &. More
     *   Giorgio Brutini Starting at $30
     *   WRK
-    *   Juicy Couture Baby &. Girls
-    
-    *   New Girls' Shoes ft. Mini Melissa &. More
     *   Country Charm: Wooden Home Accents &. More
-    *   Ecko Boys' Tees &. More
     *   Floral Notes: Gifts &. Decor from $10
     *   Free Shipping: Quilted Bedding &. More
     *   Poolside Fun: Floats, Towels &. More
     *   Luxe Skin Care Up to 90% Off
     *   Free Shipping: Kitchen Blowout
-    *   Men's Final Few Up to 75% Off
-    *   Men's Shoes Up to 70% Off
     *   Earth Day Essentials: Terre Mere Beauty Up to 80% Off
-    *   English Laundry Tailored Clothing
-    *   Dress Shoes ft. Mezlan, Bruno Magli &. More
-    *   Lorenzo Uomo
-    *   Wear to Work: Pants Starting at $30
     *   Free Shipping: Nautical Rugs, Pillows &. More
     *   Free Shipping: Steamer Steals
     *   Free Shipping: Luxurious Towels Up to 80% Off
-    *   Sleek Strands: BaBylissPRO &. More
-    *   Vacation Ready: Brush On Block
     *   Free Shipping: Galvanized Decor &. More
     *   Free Shipping: Fashion Icon &. Pop Culture Art
     *   Free Shipping: Chic Rustic Wall Decor &. More
     *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Free Shipping: Budget-Friendly Rugs
-    *   Hives &. Honey Jewelry Frames, Armoires &. More
-    *   Storage Must-Haves Starting at $10
-    *   Everyday Kitchen Essentials Starting at $10
-    *   Bobeau Incl. Plus &. Petites
-    *   Melissa Footwear Starting at $30
-    *   Karen Kane
-    *   Surf Session: Rashguards, Board Shorts &. More
-    *   Luma Italy Up to 75% Off
+    *   Love Stitch Dresses
+    *   ARATTA Up to 80% Off
+    *   Love Stitch
 *   WomenShop Sale Events
     
-    *   Burberry Watches Up to 50% Off
-    *   MOTHER
-    *   Just Me Dresses
-    *   Lafayette 148 New York Incl. Petites
-    *   Jack Rogers Starting at $40
+    *   Designer Fragrances: Gucci, Chloe, Burberry &. More
+    *   Ray-Ban Sunglasses
+    *   Diane von Furstenberg
+    *   MIKOH Swim
+    *   Aquatalia
+    *   Handmade in Spain: UNOde50 Jewelry &. Watches
+    *   Derek Lam 10 Crosby Denim Up to 70% Off
+    *   Endless Rose
+    *   LOVE Moschino
+    *   Sandal Season: Wedges, Slides &. More
+    *   LOVE Moschino Shoes
+    *   Threads 4 Thought
+    *   Koral Active
+    *   Cape Robbin Under $40
+    *   Noa Elle
+    *   Anzie Fine Jewelry
+    *   Mirenesse Up to 70% Off
     *   Maaji Swim
     *   Shades of Summer: Mirrored Aviators &. More
     *   Boho Favorites: Summer Shoes We Love
@@ -127,7 +136,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Banjara
     *   Spring Must-Haves: Boho-Chic Handbags
     *   Boho Bliss: Turquoise &. Layered Jewelry
+    *   Burberry Watches Up to 50% Off
+    *   MOTHER
     *   Bobbi Brown
+    
+    *   Just Me Dresses
+    *   Jack Rogers Starting at 40
+    *   Lafayette 148 New York Incl. Petites
     *   Blanc Noir Sport Up to 70% Off
     *   The Cat's Meow: On-Trend Kitten Heels
     *   Dizzy Sandals Under $20
@@ -139,38 +154,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Havaianas for the Family
     *   Ecru Up to 70% Off
     *   Sam Edelman Up to 50% Off
-    *   Love Stitch Dresses
-    *   Anne Klein
     *   Sam Edelman Handbags Up to 50% Off
-    *   Soprano
-    
-    *   Electric Yoga
     *   Gurhan Jewelry: 24K Gold Up to 50% Off
-    *   Love Stitch
     *   Sam Edelman Swim &. More
-    *   Lingerie &. Sleep ft. Sam Edelman
     *   Olivia Welles Jewelry Up to 75% Off
-    *   Liliana Under $30
-    *   Abound Shoes Under $50
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Like a Pro: NuMe Hair Tools &. More
-    *   Travel with the Best: Bric's Luggage &. More
-    *   ARATTA Up to 80% Off
-    *   Rebecca Taylor Up to 60% Off
     *   Kiehl's Since 1851
-    *   For Mom: Diamond Rings &. More Starting at $75
-    *   14K Gold Jewelry Steals
     *   Blend Mineral Cosmetics Up to 85% Off
-    *   Rivka Friedman Jewelry Up to 80% Off
     *   Luxe Skin Care Up to 90% Off
     *   Earth Day Essentials: Terre Mere Beauty Up to 80% Off
-    *   Sleek Strands: BaBylissPRO &. More
-    *   Vacation Ready: Brush On Block
-    *   Bobeau Incl. Plus &. Petites
-    *   Melissa Footwear Starting at $30
-    *   Karen Kane
-    *   Surf Session: Rashguards, Board Shorts &. More
-    *   Luma Italy Up to 75% Off
+    *   Love Stitch Dresses
+    *   ARATTA Up to 80% Off
+    *   Love Stitch
     
     Shop By Category
     *   Clothing
@@ -178,60 +174,65 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jewelry
     *   Tech Accessories
     *   Handbags
-    *   Lingerie
     *   Accessories
+    *   Lingerie
+    *   Watches
 *   MenShop Sale Events
     
+    *   Designer Fragrances: Gucci, Chloe, Burberry &. More
+    *   Ray-Ban Sunglasses
+    *   Tailorbyrd
+    *   Men's Denim Under $50
+    *   Indigo Star Starting at $20
+    *   Brooklyn Cloth Under $20
+    *   Under $50: Deer Stags Men
     *   Burberry Watches Up to 50% Off
     *   Ben Sherman
     *   Lacoste Men's Shoes
+    
     *   Diamond Supply Starting at $15
     *   Robert Graham
     *   Champion
     *   Spring Prep: Men's Sport Coats, Dress Shirts &. More
     *   Born Men
-    *   Travel with the Best: Bric's Luggage &. More
     *   Volcom Under $30
-    
     *   Men's Premium Jeans Shop: True Religion &. More
     *   Giorgio Brutini Starting at $30
     *   WRK
-    *   Men's Final Few Up to 75% Off
-    *   Men's Shoes Up to 70% Off
-    *   English Laundry Tailored Clothing
-    *   Dress Shoes ft. Mezlan, Bruno Magli &. More
-    *   Lorenzo Uomo
-    *   Wear to Work: Pants Starting at $30
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Joe-Ella
+    *   Kids' Spring Looks from Tommy Hilfiger
+    *   Under $30: Dr. Scholl's Kids
+    *   Kids' Favorite Character Pajamas
     *   Tea Collection
     *   Janod Toys
     *   Havaianas for the Family
     *   Doodle Pants
     *   Sam Edelman Girls' Shoes
     *   On-Trend Kids' Looks from DKNY, bebe &. More
-    *   Juicy Couture Baby &. Girls
-    *   New Girls' Shoes ft. Mini Melissa &. More
-    *   Ecko Boys' Tees &. More
     
     Shop By Category
-    *   Baby Girl
     *   Baby Boy
     *   Girls Sizes 2T-6X
+    *   Baby Girl
     *   Girls Sizes 7-16
     *   Girls' Shoes
     *   Boys Sizes 2T-7
     *   Toys
     *   Boys Sizes 8-20
-    *   Baby Gear &. Essentials
     *   Boys' Shoes
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Cuisinart Cookware, Grills &. More
+    *   Free Shipping: Vintage-Inspired &. Modern Decor
     *   Free Shipping: Bedding Essentials Blowout
     *   Free Shipping: Accent Furniture Under $250
     *   Modern Dinnerware &. More from Nambe
@@ -241,10 +242,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Home &. Office Organization Starting at $15
     *   Country Charm: Wooden Home Accents &. More
     *   Floral Notes: Gifts &. Decor from $10
+    
     *   Free Shipping: Quilted Bedding &. More
     *   Poolside Fun: Floats, Towels &. More
     *   Free Shipping: Kitchen Blowout
-    
     *   Free Shipping: Nautical Rugs, Pillows &. More
     *   Free Shipping: Steamer Steals
     *   Free Shipping: Luxurious Towels Up to 80% Off
@@ -252,40 +253,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Fashion Icon &. Pop Culture Art
     *   Free Shipping: Chic Rustic Wall Decor &. More
     *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Free Shipping: Budget-Friendly Rugs
-    *   Hives &. Honey Jewelry Frames, Armoires &. More
-    *   Storage Must-Haves Starting at $10
-    *   Everyday Kitchen Essentials Starting at $10
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Organization
-    *   Rugs
-    *   Accent Furniture
     *   Bath
+    *   Accent Furniture
     *   Bedding
     *   Outdoor Living
     *   Luggage &. Travel
+    *   Rugs
 *   BeautyShop Sale Events
     
+    *   Designer Fragrances: Gucci, Chloe, Burberry &. More
+    *   Mirenesse Up to 70% Off
     *   Bobbi Brown
     *   House of Kalon: Body Butter, Scrubs &. More
     *   At-Home Spa: Beauty Devices &. More
     *   Macadamia Natural Oil &. Professional Hair Care
+    
     *   Like a Pro: NuMe Hair Tools &. More
     *   Kiehl's Since 1851
-    
     *   Blend Mineral Cosmetics Up to 85% Off
     *   Luxe Skin Care Up to 90% Off
     *   Earth Day Essentials: Terre Mere Beauty Up to 80% Off
-    *   Sleek Strands: BaBylissPRO &. More
-    *   Vacation Ready: Brush On Block
     
     Shop By Category
     *   Makeup
-    *   Hair Care
     *   Skin Care
+    *   Hair Care
+    *   Fragrance
     *   Bath &. Body
     *   Tools &. Accessories
 
