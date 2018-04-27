@@ -17,6 +17,7 @@ Open menu
     *   Bobbi Kristina Brown: Deadly Legacy
     *   Chandra Levy: Who Killed Chandra?
     *   Chicago P.D.
+    *   Cold Justice
     *   Dateline: Secrets Uncovered
     
     *   In Ice Cold Blood
@@ -24,6 +25,7 @@ Open menu
     *   Mysteries &. Scandals
     *   OJ Simpson: The Crimes and Punishment
     *   Snapped
+    *   The Case of: Caylee Anthony
     *   The Turpin 13: Family Secrets Exposed
 *   Full Episodes
 *   Videos
@@ -42,6 +44,7 @@ Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
     *   Bobbi Kristina Brown: Deadly Legacy
     *   Chandra Levy: Who Killed Chandra?
     *   Chicago P.D.
+    *   Cold Justice
     *   Dateline: Secrets Uncovered
     
     *   In Ice Cold Blood
@@ -49,6 +52,7 @@ Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
     *   Mysteries &. Scandals
     *   OJ Simpson: The Crimes and Punishment
     *   Snapped
+    *   The Case of: Caylee Anthony
     *   The Turpin 13: Family Secrets Exposed
 *   Full Episodes
 *   Videos
