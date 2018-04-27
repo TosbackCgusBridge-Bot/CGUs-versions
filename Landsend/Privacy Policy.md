@@ -796,9 +796,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 25% off full-price styles!
 
-code: GRASS pin: 2859 DETAILS
+code: BLOOM pin: 2032 DETAILS
 
 Customer Service Menu
 
