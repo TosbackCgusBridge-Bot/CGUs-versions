@@ -1,4 +1,4 @@
-**Last Revised: April 25, 2018**
+**Last Revised: April 26, 2018**
 
 _**NOTICE**_ : **The Privacy Policy below will become _effective May 25, 2018_. To view the current Privacy Policy, click here.**  
 
@@ -62,7 +62,7 @@ Often, much of the data collected is aggregated or statistical data about how in
 *   Communicating with you, such as by way email or survey delivery
 *   Customer relationship management.
 
-We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilizing, sharing or retaining your personal data for any other purpose than as they have been specifically contracted for (or without your consent).
+We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilizing, sharing or retaining your personal data for any purpose other than as they have been specifically contracted for (or without your consent).
 
 **Communicating with you.** We may contact you directly or through a third party service provider regarding products or services you have signed up or purchased from us, such as necessary to deliver transactional or service related communications. We may also contact you with offers for additional services we think you’ll find valuable if you give us consent, or where allowed based upon legitimate interests. You don’t need to provide consent as a condition to purchase our goods or services. These contacts may include:
 
@@ -83,9 +83,9 @@ If you make use of a service that allows you to import contacts (ex. using email
 
 To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process. We will also share your information to the extent necessary to comply with ICANN or any ccTLD rules, regulations and policies when you register a domain name with us.
 
-**Website analytics**.  We use multiple web analytics tools provided by service partners such as Google Analytics, MixPanel and Singular to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our Services. These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (ex: Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service provider in accordance with their individual privacy policies. You can control the technologies we use by managing your settings through our Cookie Policy or the ‘cookie banners” that may be presented (depending on URL of website visited) when you first visit our webpages, or by utilizing settings in your browser or third-party tools, such as Disconnect, Ghostery and others.
+**Website analytics**.  We use multiple web analytics tools provided by service partners such as Google Analytics, MixPanel and Singular to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our Services. These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (ex: Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. You can control the technologies we use by managing your settings through our Cookie Policy or the ‘cookie banners” that may be presented (depending on URL of website visited) when you first visit our webpages, or by utilizing settings in your browser or third-party tools, such as Disconnect, Ghostery and others.
 
-**Targeted advertisements.** Targeted ads or interest-based offers may be presented to you based on your activities on our webpages, and other websites, and based on the products you currently own.  These offers will display as varying product banners presented to you while browsing. We also partner with third parties to manage our advertising on our webpages and other websites.  Our third party partners may use technologies such as cookies to gather information such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.  If you wish to opt out of interest-based advertising click here \[or if located in the European Union click here\]. Please note you will continue to receive generic ads.
+**Targeted advertisements.** Targeted ads or interest-based offers may be presented to you based on your activities on our webpages, and other websites, and based on the products you currently own.  These offers will display as varying product banners presented to you while browsing. We also partner with third parties to manage our advertising on our webpages and other websites.  Our third party partners may use technologies such as cookies to gather information about such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.  If you wish to opt out of interest-based advertising click here \[or if located in the European Union click here\]. Please note you will continue to receive generic ads.
 
 **Third-party websites**.  Our website and our mobile applications contain links to third-party websites. We are not responsible for the privacy practices or the content of third-party sites.  Please read the privacy policy of any website you visit.
 
@@ -133,7 +133,7 @@ We reserve the right to modify this Privacy Policy at any time. If we decide to 
 
 **Data Protection Authority.**
 
-If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the German Federal Commisioner for Data Protection and Freedom of Information (Die Bundesbeauftrafte für den Datenschutz und die Informationsfreiheit), as noted below:
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the German Federal Commisioner for Data Protection and Freedom of Information (Die Bundesbeauftrafte für den Datenschutz und die Informationsfreiheit), as noted below:
 
 Husarenstraße 30
 
@@ -147,7 +147,7 @@ e-mail: poststelle@bfdi.bund.de    
 
 **Contact us.**
 
-If you have any questions, concerns or complaints about our privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at privacy@godaddy.com.  In the alternative, you may contact us by either of the following means:
+If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at privacy@godaddy.com.  In the alternative, you may contact us by either of the following means:
 
 *   By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal/DatenSchutz, Hansestr. 79, 51149 Cologne, Germany. 
 *   By Phone: (480) 505-8877.
