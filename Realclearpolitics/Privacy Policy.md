@@ -31,7 +31,7 @@
     *   RCP House Map
     *   Current House
     *   Generic Congressional Ballot
-    *   Latest 2018 Polls
+    *   Latest Election 2018 Polls
 *   Video
 *   Writers
     *   Staff Writers
@@ -64,11 +64,14 @@
         *   State of Union Polls
     *   RCP Election 2018
         *   Election 2018
-        *   Virginia Governor
-        *   New Jersey Governor
-        *   Alabama Senate
+        *   RCP Senate Map
+        *   Current Senate
+        *   RCP Governors Map
+        *   Current State Houses
+        *   RCP House Map
+        *   Current House
         *   Generic Congressional Ballot
-        *   Latest Election Polls
+        *   Latest Election 2018 Polls
     *   Video
     *   Writers
         
@@ -106,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Robin Wright_: Did Macron Just Charm Trump on Iran?
+*   _Conrad Black_: Dem Effort vs. Trump Brings Their Own Misconduct to Light
     
-*   _Boris Ryvkin_: How U.S. Mistakes in Middle East Are Benefiting China
+*   _David Ignatius_: Trump Cannot Make the Manafort Case Disappear
     
-*   _Greg Stohr_: Trump Travel Ban Looks Poised for Victory at Supreme Court
+*   _Charles Blow_: The White Rebellion
     
-*   _Jason Zengerle_: How Nunes Turned House Intel Committee Inside Out
+*   _Justin McClinton_: Kanye West Champions Free Thought Amid Conformity
     
-*   _Julie Kelly_: Relentless Nunes Is Exactly What America Needs
+*   _Damon Young_: Kanye West Doesn't Care About Black People
     
-*   _Walter Shapiro_: Best &. the Brightest? Trump's Troika of Troubled Nominees
+*   _Laffer &. Moore_: So Long, California. Sayonara, New York
     
-*   _Josh Kraushaar_: Democrats Learning the Limits of Base-First Politics
+*   _Sen. Ben Cardin_: We Need a Secretary of State Critically. I Still Oppose Pompeo
     
-*   _Caitlin Huey-Burns_: Republican Concerns Mount in AZ Despite 8th District Win
+*   _Evan Berryhill_: Trump Deserves a Nobel Prize. Obama Got One for Less
     
-*   _Vann Newkirk_: The True Cost of Cheap Health Insurance
+*   _Jamie Metzl_: Trump's Meeting With Kim Will Lead to an Awful Hangover
     
-*   _Betsy McCaughey_: Yes, Hospitals May Be Able to Order Death of Your Child
+*   _Tucker Carlson_: Why Is NBC News Endorsing Joy-Ann Reid's Cover-Up?
     
-*   _Kate Brower_: Melania Trump Is Finally Getting Her Moment
+*   _Tim Alberta_: The Deep Roots of Trump's War on the Press
     
-*   _Hirschfeld Davis &. Rogers_: Le Bromance: Trump &. Macron, Together Again
+*   _Thomas Edsall_: Meet the New Boss. Actually Quite Different From the Old One.
     
-*   _Victor Davis Hanson_: Revolution and Worse to Come
+*   _Newt Gingrich_: Trump &. Macron: 2 Top Reformers Trying to Drain Swamp
     
-*   _Harold Meyerson_: Why Full Employment Is Back From the Dead
+*   _Rachel Donadio_: Macron Embraces Trump, But Rejects His Worldview
     
-*   _Megan McArdle_: Bernie's Jobs Plan Deserves to Stay on Ash Heap of History
+*   _Lee Smith_: Unpacking the Other Clinton-Linked Russia Dossier
     
-*   _Hansen &. Sanchez_: 5 Takeaways From Lesko's Win in Arizona 8
+*   _Jeffrey Toobin_: DNC Suit Against Russia, Trump Camp Isn't a Bad Idea
     
-*   _David French_: Will the Supreme Court Join #TheResistance?
+*   _Roger Simon_: Kanye Exposes Liberals as the New Reactionaries
     
-*   _Emily Jane Fox_: Michael Cohen Is Still Holding Out Hope
+*   _Toure_: I'm Not Done With Kanye--But It's Getting Hard to Justify This
     
-*   _George Neumayr_: The Counterintelligence Probe's Phantom Origin
+*   _Linda Greenhouse_: The Supreme Court and the New Civil War
     
-*   _Eleanor Clift_: Nancy Pelosi's Last Stand
+*   _Steve Cortes_: California's Sanctuary Law Breeds Backlash
     
-*   _Joseph Curl_: Despite the Blame, Hillary Knows Who Really Lost the Election
+*   _Nate Silver_: Another Special Election, Another Really Bad Sign for Republicans
     
-*   _Paul Waldman_: The GOP Finally Has a 2018 Strategy. Her Name is Hillary
+*   _John Feehery_: Why a Dem Wave in 2018 Is Looking Unlikely
     
-*   _Kyle Smith_: New Book About Hillary Puts Media Bias on Display
+*   _Joel Weickgenant_: Cyber Adversaries: It's Not Just Russia
     
-*   _Glenn Greenwald_: Why Is Liberal Media Ignoring the Joy Reid Scandal?
+*   _Jochen Bittner_: Who Will Win the New Great Game?
     
 
 *   Previous
@@ -254,11 +257,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Non-Supporter of Pelosi Benefits From Her Fundraising
+*   Trump Travel Ban Likely to Be Upheld, Justices Indicate
+*   Full Replay: French President Macron Addresses U.S. Congress
+*   Republican Concerns Mount in Arizona Despite 8th District Win
 *   Jenkins, Morrisey Lead Blankenship in W.Va. Primary Poll
-*   Republican Lesko Wins Arizona Eighth District Special Election
-*   Macron: New "Big Deal" With Iran Could Include Syria Crisis
-*   Handshakes and Kisses Aside, Some Issues Split Trump, Macron
-*   Senate Dems Continue to Lead Republicans in Fundraising
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -273,26 +276,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Tennessee Senate - Blackburn vs. BredesenMason-Dixon
-    *   Bredesen46
-    *   Blackburn43Bredesen +3
-*   Nevada Senate - Heller vs. RosenNevada Independent/Mellman
-    *   Heller40
-    *   Rosen39Heller +1
-*   Nevada Governor - Laxalt vs. SisolakNevada Independent/Mellman
-    *   Sisolak43
-    *   Laxalt37Sisolak +6
-*   President Trump Job ApprovalFOX News
+*   President Trump Job ApprovalHarvard-Harris
     *   Approve44
-    *   Disapprove53Disapprove +9
+    *   Disapprove56Disapprove +12
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
+*   2018 Generic Congressional VoteHarvard-Harris
+    *   Democrats43
+    *   Republicans34Democrats +9
+*   Direction of CountryHarvard-Harris
+    *   Right Direction35
+    *   Wrong Track53Wrong Track +18
 
 More Latest Polls In The News
 
-*   Warren on Trump: "Most Corrupt Administration Ever". So Corrupt He Openly Talks About Pay To Play
-*   CNN's Acosta to Huckabee Sanders: "Are You Trying To Say This Administration Is A Champion Of A Free Press?"
-*   Kellyanne: Can't Allow "Press" Allegations To Vet Ronny Jackson, "That's What Hearings Are For"
-*   Trump Warns: If Iran Threatens Us, They Will Pay "A Price Like Few Countries Have Ever Paid"
-*   Full Replay/Transcript: Historic WH Press Conference On Iran, With Macron and Trump
+*   Comey Pushes Back Against Trump's "Leaker" Claim In Full 'Special Report' Interview: "He's Just Wrong"
+*   Dem Rep. Hank Johnson And Diamond &. Silk Face Off: "You Guys Make A Ton Of Money, Don't You?"
+*   Full Trump 'FOX &. Friends' Interview: Ronny Jackson, Michael Cohen, Mueller, North Korea, Comey, Kanye
+*   Full CNN Comey Town Hall: Trump, Leaks, FBI, DOJ, Russia, Dossier, Flynn, Clinton Probe &. More
+*   CNN's Anderson Cooper Grills Comey: "Shouldn't You Be Nailed To The Door? Aren't You A Leaker?"
 
 *   Politics
 *   Policy
