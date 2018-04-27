@@ -363,21 +363,11 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers You’ve worked hard for your money.
-
-Make the most of your tax refund! Save up to 33%. Sale ends at 4am EST, Apr. 26.
-
-Shop Sale >.
+Home >. Filter by specs Offers
 
 Built to perform. Engineered to endure.
 
 Now available!
-
-Lenovo in the Data Center
-
-The most reliable, flexible, and secure data centers
-
-Learn More >.
 
 All Aluminum chassis, 10-point multitouch display with top-of-the-line NVIDIA® GeForce GTX 1050. Design. Game. Work. Play.
 
@@ -392,27 +382,22 @@ Learn More >.
 *   1
 *   2
 *   3
-*   4
-*   5
 
 TODAY'S SALES
 
 Save up to $550 through May 3.
 
-TODAY'S SALES
-
-Save up to $650 through April 26.
-
-Introducing LenovoPRO for Small Business
-
-Save 10% on all products with a free account.
-
 NATIONAL BUSINESS WEEK – EARLY ACCESS SALE
 
 Sign up to LenovoPro and receive exclusive early access to this year’s best savings. Sale ends at 4am (EST), April 29th.
 
-ThinkSmart Hub 500  
-The Smarter Way to Collaborate
+Gaming Flash Sale Live Now! 
+
+Save up to $550 on select gaming PC’s and accessories. Limited time only. Sale ends April 30.
+
+Special financing offer! 
+
+Choose Klarna at Checkout. Valid on orders $300-$2400. Offer ends May 9.
 
 LAPTOPS
 
@@ -422,14 +407,6 @@ DESKTOPS
 
 Sleek all-in-ones, high-performance towers, and space-saving tiny desktops for home and business.
 
-TABLETS
-
-Android and Windows tablets engineered for enhanced productivity and a rich multimedia experience.
-
-Accessories and Monitors
-
-From monitors to docks, keyboards to mice, graphics to software, and everything in between.
-
 ACCESSORIES AND MONITORS
 
 From monitors to docks, keyboards to mice, graphics to software, and everything in between.
@@ -438,13 +415,17 @@ Virtual Reality &. Smart Devices
 
 Connect your world: Smart devices to enhance your life, at home and on the go.
 
-Virtual Reality &. Smart Devices
-
-Connect your world: Smart devices to enhance your life, at home and on the go.
-
 Tablets
 
 Android and Windows tablets engineered for enhanced productivity and a rich multimedia experience.
+
+Data Center
+
+Achieve competitive advantage in the next-generation data center.
+
+Outlet
+
+Find great deals on new and refurbished Lenovo products.
 
 STAY CONNECTED
 
