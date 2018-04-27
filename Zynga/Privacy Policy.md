@@ -52,7 +52,7 @@ Search form Search Privacy
     *   Privacy Resources for Teens
     *   Additional Resources
 
-Privacy Policy English简体中文FrançaisDeutschItaliano日本語한국어PortuguêsEspañolTürkçeالعربية繁體中文DanskNederlandsBahasa IndonesiaNorskРусскийSvenskaภาษาไทย <div>. <input type="submit" id="edit-submit--2" name="op" value="Go" class="form-submit" />. </div>.
+Privacy Policy EnglishالعربيةDanskNederlandsFrançaisDeutschBahasa IndonesiaItaliano日本語한국어NorskPortuguêsEspañolРусский简体中文繁體中文SvenskaภาษาไทยTürkçe <div>. <input type="submit" id="edit-submit--2" name="op" value="Go" class="form-submit" />. </div>.
 
 This Privacy Policy will be effective from January 18, 2018. To review a copy the Privacy Policy effective prior to January 18, 2018, click here.
 
