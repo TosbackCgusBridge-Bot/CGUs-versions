@@ -70,8 +70,8 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   Interview: Kevin Feige Talks 'Avengers: Infinity War' Read More
-    *   'A Star Is Born,' 'Aquaman' Advance Peeks Draw Big Reactions Read More
-    *   We Might Get More Young Han Solo Movies Read More
+    *   'Halloween' Terrified Press With Just a Trailer. Here's Everything We Know Read More
+    *   J.J. Abrams Says 'Overlord' Is Not a 'Cloverfield' Prequel. Everything We Know So Far Read More
     
     Explore Content
     *   Movie Reviews
