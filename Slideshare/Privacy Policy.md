@@ -5,7 +5,6 @@ LinkedIn
 
 Main content starts below.
 
-*   Sign up
 *   Help Center
 *   About
     *   Press
@@ -43,17 +42,15 @@ Main content starts below.
     *   Türkçe
     *   العربية
 *   Online Learning
+*   ProFinder
 
 *   Search Jobs
 
 *   Directories
 *   Members
 *   Pulse
-*   Topics
 *   Companies
 *   Universities
-*   Titles
-*   ProFinder
 
 LinkedIn Corporation _© 2018_
 
