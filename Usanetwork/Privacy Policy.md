@@ -63,7 +63,7 @@ Skip to main content
         6.  International
             1.  CNBC InternationalCNBC InternationalThe leading global broadcaster of live business and financial news and information, reporting directly from the major financial markets around the globe.CNBC International
             2.  hayuhayuhayu is the first all-reality subscription video-on-demand service of its kind – curated and fully integrated with social media – and available in the UK, Ireland &. Australiahayu
-            3.  NBCUniversal International TelevisionNBCUniversal International TelevisionBrings together NBCUniversal International’s channels, distribution and production businesses people across the globe. The division includes Universal Networks International, International Television Distribution and International Television Production.NBCUniversal International Television
+            3.  Global Distribution and InternationalGlobal Distribution and InternationalBrings together NBCUniversal International’s channels, distribution and production businesses people across the globe. The division includes Universal Networks International, International Television Distribution and International Television Production.Global Distribution and International
 *   Search
 *   Twitter
 *   Facebook
@@ -130,7 +130,7 @@ Skip to main content
             *   INTERNATIONAL
                 *   CNBC International
                 *   hayu
-                *   NBCUniversal International Television
+                *   Global Distribution and International
     *   Stay Up-To-Date
         *   Twitter
         *   Facebook
@@ -187,4 +187,4 @@ Cookies/ tracking technologies are used on some of our online services to serve 
 *   Supply Chain Values
 *   Terms of Service
 
-© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/5416573" height="1" width="1" alt="" /></a></div>.
+© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/9768547" height="1" width="1" alt="" /></a></div>.
