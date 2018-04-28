@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Breeze through Ubuntu Desktop 18.04 LTS Bionic Beaver ›
+*   What’s new in Ubuntu 18.04 and OpenStack Queens ›
 *   Ubuntu 18.04 LTS optimised for security, multi-cloud, containers &. AI ›
 *   Ora as a snap: ensuring users are benefiting from the latest version ›
 *   LXD weekly status #44 ›
-*   Dell Technologies World 2018 ›
-*   A look at Rancher 2.0 ›
