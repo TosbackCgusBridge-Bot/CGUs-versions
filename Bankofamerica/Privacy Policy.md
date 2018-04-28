@@ -23,6 +23,7 @@ Bank of America Privacy and Security Get information about privacy and security 
     
     *   Client security is our top priority, and every partner and colleague is held to strict privacy and information security rules
     *   Our global information security team monitors 24/7 for potential threats
+    *   We’ll never ask you to send us personal information such as an account number, card PIN or Social Security or Tax ID over text or email. If you do receive a request like this or any other suspicious phishing email, please forward it to us at abuse@bankofamerica.com. We will only reply to your message if we require additional information.
     
     **What you need to do:**
     
@@ -427,6 +428,15 @@ Mozilla Firefox 54.0
 Congratulations! Your internet browser meets our security requirementsPlease update your Internet browser to ensure your information is secure
 
 Review requirements
+
+Security tools
+
+*   **Trusteer Rapport®**  
+    Free fraud protection while signed in to Online Banking  
+    Learn more about Trusteer Rapport®
+*   **SafePass®**  
+    Authorize transactions using secure one-time Passcodes  
+    Learn more about SafePass®
 
 hide More resources
 
