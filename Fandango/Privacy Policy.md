@@ -69,9 +69,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Interview: Kevin Feige Talks 'Avengers: Infinity War' Read More
-    *   'Halloween' Terrified Press With Just a Trailer. Here's Everything We Know Read More
-    *   J.J. Abrams Says 'Overlord' Is Not a 'Cloverfield' Prequel. Everything We Know So Far Read More
+    *   Marvel Buzz: 'Avengers: Infinity War' Breaks Its First Box Office Record. 'Black Widow' Seeks Female Director Read More
+    *   The Week in Movie News: What's Next for the Marvel, 'Venom' Trailer and More Read More
+    *   S.J. Clarkson to Direct 'Star Trek 4,' Becoming Franchise's First Female Director Read More
     
     Explore Content
     *   Movie Reviews
@@ -283,7 +283,7 @@ New + Coming soon
 *   Deadpool 2
 *   Solo: A Star Wars Story
 *   Ocean's 8
-*   The Incredibles 2
+*   Incredibles 2
 *   Jurassic World: Fallen Kingdom
 *   Ant-Man and the Wasp
 *   Hotel Transylvania 3: Summer Vacation
