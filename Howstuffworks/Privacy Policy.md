@@ -187,6 +187,8 @@ For some of our Sites, we use Google Analytics Advertising Features, including R
 
 You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI site and DAA site.
 
+**More information about our specific Online Behavioral Advertising practices** can be found at http://megaphone.fm/adchoices as well as from their partner, Exelate (A Nielsen Company), at http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html#choices. You can opt out of certain Online Behavioral Practices at http://exelate.com/privacy/opt-in-opt-out/.
+
 **J. Accessing Your Personally Identifiable Information and Privacy Preferences**
 
 We provide you with an opportunity to access your personally identifiable information to ensure it is correct, accurate and current. To change your privacy preferences for the Sites please contact us as described below.
@@ -235,7 +237,7 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .Mortgage Quotes | FetcharateBorn Before 1985? Government May Pay Off Your Mortgage in ColoradoMortgage Quotes | FetcharateTophatterIt’s Like eBay, But Everything Sells in 90 Seconds.TophatterEverQuote Insurance QuotesDenver, Colorado: This Unbelievable, Tiny Company Is Disrupting a $200 Billion IndustryEverQuote Insurance QuotesGundry MDHe Transformed His Belly With One ThingGundry MDDirectExposeWife Passes Away Hours After Giving Birth. Then Husband's Instinct Tells Him To Check Her Pregnancy BlogDirectExposeLCR HealthHow To: Boost Telomeres At HomeLCR HealthBikini | HanacureMeet The Facemask Everyone Is Talking About On InstagramBikini | HanacureLife&#39;dBorn Before 1967? Claim These 19 Senior Rebates NowLife'd Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksHow Swiss Bank Accounts WorkCan You Really Delete Your Internet History?Top 5 Myths About the InternetAfter the Equifax Breach, Does Credit Fraud Monitoring Really Help?How does ATM skimming work?How Identity Theft Worksby Taboolaby Taboola
+More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .TophatterIt’s Like eBay, But Everything Sells in 90 Seconds.TophatterThrone: Free Online GamePlay this for 1 minute and see why everyone is addictedThrone: Free Online GameEverQuote Insurance QuotesDenver, Colorado: This Unbelievable, Tiny Company Is Disrupting a $200 Billion IndustryEverQuote Insurance QuotesMortgage Quotes | FetcharateBorn Before 1985? Government May Pay Off Your Mortgage in ColoradoMortgage Quotes | FetcharateGundry MDHe Transformed His Belly With One ThingGundry MDHome ChefDenver: This Meal Service is Cheaper Than Your Local StoreHome ChefHealevatePrecious Is So Skinny Now And Looks Like A Model – We Can’t Stop StaringHealevateLCR HealthHow To: Boost Telomeres At HomeLCR Health Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksCan You Really Delete Your Internet History?Top 5 Myths About the InternetIs it safe to buy things from Amazon?How does ATM skimming work?How Identity Theft WorksHow Spam Worksby Taboolaby Taboola
 
   
 
