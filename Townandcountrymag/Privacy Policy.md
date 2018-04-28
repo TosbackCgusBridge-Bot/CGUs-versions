@@ -10,6 +10,8 @@
 
 *   Follow
 
+Search
+
 *   Subscribe
     *   Subscribe
     *   Print Edition
@@ -51,7 +53,7 @@
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Who is Second Lady Karen Pence? 2 Inside George H. W. and Barbara Bush's Love Story 3 Flash Floods Devastate Kauai's Hanalei Bay 4 _What to Pack For..._ Palm Springs 5 _The Weekly Covet_: Earth-Friendly Finds Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Helen Mirren on Her Favorite Film Role of All Time 2 The Macrons Have the Hottest Security in Politics 3 A Rare Look Inside the Apartment of the Breakers 4 Who is Second Lady Karen Pence? 5 The Best Bridal Trends of The Season Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
