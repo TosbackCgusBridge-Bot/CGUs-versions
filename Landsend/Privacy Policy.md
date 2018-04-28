@@ -99,19 +99,19 @@ menu Close 0 Free Shipping on $50+
     *   Hats
     *   Small Accessories
     *   Gloves
-*   Men FEATURED SHOPS
-    
-    *   New Arrivals
-    *   No Iron Shop
-    *   Supima Shirts &. Sweaters
-    *   Select Dress Shirts Now $24.97
-    *   Sale
-    
-    SHOP BY SIZE RANGE
+*   Men SHOP BY SIZE RANGE
     
     *   Regular
     *   Tall
     *   Big &. Tall
+    *   Big
+    
+    FEATURED SHOPS
+    
+    *   New Arrivals
+    *   No Iron Shop
+    *   Supima Shirts &. Sweaters
+    *   Sale
     
     CATEGORIES
     
@@ -364,24 +364,45 @@ menu Close 0 Free Shipping on $50+
     *   Bean Bag Chairs
     *   Sleeping Bags
     *   Baby BlanketsDOG SHOP >.
-*   Sale SHOP SALE
+*   Sale WOMEN'S SALE >.
     
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
-    *   School Uniforms
+    *   Regular
+    *   Plus
+    *   Petite
+    *   Tall
+    *   Petite Plus
+    *   Shoes
+    *   Accessories
     
-    SHOP CLEARANCE
+    MEN'S SALE >.
     
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
+    *   Regular
+    *   Tall
+    *   Big
+    *   Big and Tall
+    *   Shoes
+    *   Accessories
     
-    FEATURED SHOPS
+    GIRLS' SALE >.
+    
+    *   Toddler Girl (2T-4T)
+    *   Little Girl (size 4-7)
+    *   Big Girl (size 7-16)
+    *   Girl Plus (size 7+-16+)
+    
+    BOYS' SALE >.
+    
+    *   Toddler Boy (2T-4T)
+    *   Little Boy (size 4-7)
+    *   Big Boy (size 7-20)
+    *   Boy Husky (size 8H-20H)
+    
+    KIDS' SALE
+    
+    *   Kids' Shoes
+    *   Kids' Accessories
+    
+    HOME SALE >. BAGS SALE >. SCHOOL UNIFORMS SALE >. FEATURED SHOPS
     
     *   On The Counter
     
@@ -463,18 +484,18 @@ menu Close 0 Free Shipping on $50+
 *   Men
     *   Back
     *   Shop all Men
-    *   FEATURED SHOPS
-        *   Back
-        *   New Arrivals
-        *   No Iron Shop
-        *   Supima Shirts &. Sweaters
-        *   Select Dress Shirts Now $24.97
-        *   Sale
     *   SHOP BY SIZE RANGE
         *   Back
         *   Regular
         *   Tall
         *   Big &. Tall
+        *   Big
+    *   FEATURED SHOPS
+        *   Back
+        *   New Arrivals
+        *   No Iron Shop
+        *   Supima Shirts &. Sweaters
+        *   Sale
     *   SHOES
         *   Back
         *   View All
@@ -746,21 +767,46 @@ menu Close 0 Free Shipping on $50+
 *   Sale
     *   Back
     *   Shop all Sale
-    *   SHOP SALE
+    *   WOMEN'S SALE
         *   Back
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-        *   Home
-        *   School Uniforms
-    *   SHOP CLEARANCE
+        *   View All
+        *   Regular
+        *   Plus
+        *   Petite
+        *   Tall
+        *   Petite Plus
+        *   Shoes
+        *   Accessories
+    *   MEN'S SALE
         *   Back
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-        *   Home
+        *   View All
+        *   Regular
+        *   Tall
+        *   Big
+        *   Big and Tall
+        *   Shoes
+        *   Accessories
+    *   GIRLS' SALE
+        *   Back
+        *   View All
+        *   Toddler Girl (2T-4T)
+        *   Little Girl (size 4-7)
+        *   Big Girl (size 7-16)
+        *   Girl Plus (size 7+-16+)
+    *   BOYS' SALE
+        *   Back
+        *   View All
+        *   Toddler Boy (2T-4T)
+        *   Little Boy (size 4-7)
+        *   Big Boy (size 7-20)
+        *   Boy Husky (size 8H-20H)
+    *   KIDS' SALE
+        *   Back
+        *   Kids' Shoes
+        *   Kids' Accessories
+    *   HOME SALE
+    *   BAGS SALE
+    *   SCHOOL UNIFORMS SALE
     *   FEATURED SHOPS
         *   Back
         *   On The Counter
