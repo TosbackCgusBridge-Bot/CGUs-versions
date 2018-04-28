@@ -24,6 +24,7 @@
             *   MPLS-VPN
             *   Dedicated Internet
             *   SD-WAN
+            *   Cloud Peer Connect
             *   Managed Wireless LAN
             *   Remote VPN
             *   Network Failover
