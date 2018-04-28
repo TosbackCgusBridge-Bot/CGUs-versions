@@ -1,4 +1,4 @@
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogSUBSCRIBE NOW$0.99/1st month
+SUBSCRIBE NOW$0.99/1st month
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dial
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowParkland boy's family blames school in walkoutLocalBacklog in El Paso court forces transfer of casesPoliticsEl Pasoan was one of 2 officers shot in DallasTexasregionMan killed in motorcycle crash in East El PasoTrafficBiting gnats menace Upper Valley neighborhoodsHealthNFL Draft prospect UTEP's Will Hernandez waitsSportsParkland student ran back into truck's path: DriverTrafficKnow anyone? These are El Paso's most wantedCrimeSentencing delayed in Socorro cocaine ring caseCrimeChuco Tango member guilty in drive-by killingCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowUTEP reacts to Will Hernandez's NFL selectionSportsUTEP's Will Hernandez gets drafted in 2nd roundFootballAndress High student chased, attacked in videoCrimeEl Paso police in SWAT standoff near Fox PlazaCrimeWoman hurt, other arrested in Northeast shootingCrimeMan rejects deal in Border Patrol agent shootingCrimeWill Hernandez: 5 things to knowSportsFind out where Will Hernandez gets draftedSportsCity Attorney Sylvia Borunda Firth retiresLocalLil Wayne will replace Cardi B at Neon DesertMusicHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -90,8 +90,7 @@ HomeNews
 
 *   Fort Bliss
 *   Juárez
-*   Spanish
-*   Bilingual Education
+*   El Paso y Mas
 *   National Politics
 
 Sports
@@ -142,5 +141,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
