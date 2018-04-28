@@ -399,6 +399,9 @@ Special financing offer! 
 
 Choose Klarna at Checkout. Valid on orders $300-$2400. Offer ends May 9.
 
+Buy any PC and get Star Wars Jedi Challenges for only $99.  
+Limited Time Only! Sale ends May 5.
+
 LAPTOPS
 
 High-performance laptops and convertibles for home, work, and play.
