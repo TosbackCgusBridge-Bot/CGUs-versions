@@ -30,7 +30,6 @@ Close submenu ( Girls ) Girls
 *   Live Love Dream
 *   Bras
 *   Undies
-*   Clearance
 
 Close submenu ( Featured ) Featured
 
@@ -174,13 +173,14 @@ Close submenu ( Girls Shorts ) Girls Shorts
 *   Soft Shorts
 *   Shortall
 *   Lounge
+*   Active
 
 Close submenu ( Guys Shorts ) Guys Shorts
 
 *   View All
 *   Classic Chino Short
 *   Longboard
-*   Cargo Chino Short
+*   Cargo Short
 *   Long Cargo
 *   Cut-Off Denim
 *   Cuffed Denim
@@ -348,7 +348,6 @@ Menu Find a Store Aeropostale
     *   Live Love Dream
     *   Bras
     *   Undies
-    *   Clearance
     
 *   Guys
     
@@ -433,12 +432,13 @@ Menu Find a Store Aeropostale
         *   Soft Shorts
         *   Shortall
         *   Lounge
+        *   Active
     
     *   Guys Shorts
         *   View All
         *   Classic Chino Short
         *   Longboard
-        *   Cargo Chino Short
+        *   Cargo Short
         *   Long Cargo
         *   Cut-Off Denim
         *   Cuffed Denim
@@ -568,27 +568,7 @@ Stay Connected
 
 *   Visit A Store
 *   Find Store Coupons
-*   Chat With Us LiveCall Us
+*   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ...
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ...
