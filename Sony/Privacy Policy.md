@@ -145,7 +145,7 @@ Play Customize Your Player's Abilities Video hotspot
 
 Omensight hits PS4 on May 15th. PS Plus members get a 20% discount on pre-ordering as part of PS Store’s Totally Digital program
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -219,7 +219,7 @@ Studio Quality Sound
 
 Appreciate cleaner sound like the artist intended with Hi-Res Audio. #XperiaXZ2Compact
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -305,7 +305,7 @@ Play “Outlander” Fans: Get Your Season 3 Video hotspot
 
 #JoshBrolin is back as Matt Graver in Sicario: Day of the Soldado, only in theaters June 29. #SicarioMovie
 
-4 days ago
+5 days ago
 
 View Tweet
 
