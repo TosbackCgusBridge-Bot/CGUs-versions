@@ -23,7 +23,7 @@ Celebrate Arbor Day with Tentree! For every item purchased, 10 trees are planted
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
