@@ -33,11 +33,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 2 OF COUPON CODE 12GIFTS ENDS IN
-
-\*offer ends 5/2/18
-
-Days 0 0 0 0 hours 4 4 0 0 mins 3 3 9 8 secs NEW MISSY STYLESShop AllNEW MISSY STYLESShop All
+Near YouFind a StoreBackNEW MISSY STYLESShop AllNEW MISSY STYLESShop All
 
 *   $27.99 sale
     
@@ -54,16 +50,16 @@ Days 0 0 0 0 hours 4 4 0 0 mins 3 3 9 8 secs NEW MISSY STYLESShop AllNEW MISSY S
     was $29
     
     a.n.a. Twist Front Top(4)
-*   $59.99 sale
-    
-    was $89
-    
-    Premier Amour Sleeveless Floral Maxi Dress(2)
 *   $19.99 sale
     
     was $37
     
     Liz Claiborne Flutter Sleeve Pleated Neck Knit Blouse
+*   $59.99 sale
+    
+    was $89
+    
+    Premier Amour Sleeveless Floral Maxi Dress(2)
 
 UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
 
@@ -110,26 +106,26 @@ WOMEN'S SANDALS UNDER $25Shop AllWOMEN'S SANDALS UNDER $25Shop All
     was $37
     
     Arizona Giaa Womens Flat Sandals(5)
-*   $19.99 sale
-    
-    was $37
-    
-    Arizona Sutton Womens Flat Sandals(10)
 *   $24.99 sale
     
     was $47
     
     St. John's Bay Nikita Womens Wedge Sandals(8)
-*   $22.99 sale
+*   $19.99 sale
     
-    was $42
+    was $37
     
-    St. John's Bay Inez Womens Slide Sandals(21)
+    Arizona Sutton Womens Flat Sandals(10)
 *   $22.99 sale
     
     was $42
     
     Italiana By Italian Shoemakers Sheila Womens Flip-Flops(13)
+*   $22.99 sale
+    
+    was $42
+    
+    St. John's Bay Inez Womens Slide Sandals(21)
 
 30% OFF SELECT PROM DRESSESShop All30% OFF SELECT PROM DRESSESShop All
 
@@ -153,11 +149,11 @@ WOMEN'S SANDALS UNDER $25Shop AllWOMEN'S SANDALS UNDER $25Shop All
     was $200
     
     City Triangle Prom Sleeveless Evening Gown-Juniors(2)
-*   $99.99 sale
+*   $79.99 sale
     
-    was $169
+    was $119
     
-    My Michelle Sleeveless Ball Gown-Juniors(2)
+    Speechless Long Sleeve Floral Fit &. Flare Dress-Juniors
 
 40% OFF SELECT HANDBAGS &. WALLETSShop All40% OFF SELECT HANDBAGS &. WALLETSShop All
 
@@ -171,6 +167,11 @@ WOMEN'S SANDALS UNDER $25Shop AllWOMEN'S SANDALS UNDER $25Shop All
     was $75
     
     Liz Claiborne Leanne 4-Poster Shoulder Bag(96)
+*   $24.99 sale
+    
+    was $60
+    
+    St. John's Bay Straw Colorblock Tote Bag
 *   $25 sale
     
     was $50
@@ -181,11 +182,6 @@ WOMEN'S SANDALS UNDER $25Shop AllWOMEN'S SANDALS UNDER $25Shop All
     was $65
     
     Liz Claiborne Amy Tote Bag
-*   $24.99 sale
-    
-    was $60
-    
-    St. John's Bay Straw Colorblock Tote Bag
 
 Shop and Save at JCPenney
 
