@@ -438,7 +438,7 @@ WebMD Policy Last updated on December 11, 2017 © 2017 WebMD, LLC. All rights re
 
 Some of these might surprise you.
 
-Depressed, Guilty Feelings After Eating?
+Advance your career and your company. Every great leader seeks inspiration. Find yours among world-class faculty and fellow executives. Ad By **Harvard Business School** AdChoices Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
