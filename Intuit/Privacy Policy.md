@@ -33,33 +33,31 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackNEW MISSY STYLESShop AllNEW MISSY STYLESShop All
+Near YouFind a StoreBack FINAL HOURS! COUPON CODE 22GOSAVE ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 4 4 2 1 secs 30-50% OFF SELECT DRESSESShop All30-50% OFF SELECT DRESSESShop All
 
-*   $27.99 sale
+*   $29.99 sale
     
     was $60
     
     a.n.a 3/4 Sleeve Embroidered Floral Shift Dress
-*   $13.99 sale
+*   $89.99 sale
     
-    was $29
+    was $120
     
-    a.n.a. Strapback Tank
-*   $9.99 sale
+    R &. M Richards 3/4 Sleeve Jacket Dress(4)
+*   $64.99 - $90
     
-    was $29
+    Melrose Short Sleeve Fit &. Flare Dress(8)
+*   $49.99 sale
     
-    a.n.a. Twist Front Top(4)
-*   $19.99 sale
+    was $74
     
-    was $37
+    Melrose 3/4 Sleeve Lace Fit &. Flare Dress(3)
+*   $89.99 sale
     
-    Liz Claiborne Flutter Sleeve Pleated Neck Knit Blouse
-*   $59.99 sale
+    was $120
     
-    was $89
-    
-    Premier Amour Sleeveless Floral Maxi Dress(2)
+    Melrose Sleeveless Evening Gown(17)
 
 UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
 
@@ -99,62 +97,6 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     
     DiamonArt® Sterling Silver 1 7/8 CT. T.W. Cubic Zirconia Bridal Ring Set(125)
 
-WOMEN'S SANDALS UNDER $25Shop AllWOMEN'S SANDALS UNDER $25Shop All
-
-*   $19.99 sale
-    
-    was $37
-    
-    Arizona Giaa Womens Flat Sandals(5)
-*   $24.99 sale
-    
-    was $47
-    
-    St. John's Bay Nikita Womens Wedge Sandals(8)
-*   $19.99 sale
-    
-    was $37
-    
-    Arizona Sutton Womens Flat Sandals(10)
-*   $22.99 sale
-    
-    was $42
-    
-    Italiana By Italian Shoemakers Sheila Womens Flip-Flops(13)
-*   $22.99 sale
-    
-    was $42
-    
-    St. John's Bay Inez Womens Slide Sandals(21)
-
-30% OFF SELECT PROM DRESSESShop All30% OFF SELECT PROM DRESSESShop All
-
-*   $99.99 sale
-    
-    was $169
-    
-    by&by Sleeveless Ball Gown-Juniors
-*   $149.99 sale
-    
-    was $250
-    
-    City Triangle Prom Sleeveless Evening Gown-Juniors
-*   $109.99 sale
-    
-    was $169
-    
-    Speechless 2 Piece Print Mermaid Dress-Juniors(6)
-*   $139.99 sale
-    
-    was $200
-    
-    City Triangle Prom Sleeveless Evening Gown-Juniors(2)
-*   $79.99 sale
-    
-    was $119
-    
-    Speechless Long Sleeve Floral Fit &. Flare Dress-Juniors
-
 40% OFF SELECT HANDBAGS &. WALLETSShop All40% OFF SELECT HANDBAGS &. WALLETSShop All
 
 *   $14.99 sale
@@ -166,22 +108,80 @@ WOMEN'S SANDALS UNDER $25Shop AllWOMEN'S SANDALS UNDER $25Shop All
     
     was $75
     
-    Liz Claiborne Leanne 4-Poster Shoulder Bag(96)
+    Liz Claiborne Leanne 4-Poster Shoulder Bag(97)
 *   $24.99 sale
     
     was $60
     
     St. John's Bay Straw Colorblock Tote Bag
-*   $25 sale
-    
-    was $50
-    
-    Liz Claiborne Lola Crossbody Bag(119)
 *   $39 sale
     
     was $65
     
     Liz Claiborne Amy Tote Bag
+*   $25 sale
+    
+    was $50
+    
+    Liz Claiborne Lola Crossbody Bag(119)
+
+NEW MISSY STYLESShop AllNEW MISSY STYLESShop All
+
+*   $29.99 sale
+    
+    was $60
+    
+    a.n.a 3/4 Sleeve Embroidered Floral Shift Dress
+*   $13.99 sale
+    
+    was $29
+    
+    a.n.a. Strapback Tank
+*   $9.99 sale
+    
+    was $29
+    
+    a.n.a. Twist Front Top(4)
+*   $19.99 sale
+    
+    was $37
+    
+    Liz Claiborne Flutter Sleeve Pleated Neck Knit Blouse
+*   $39.99 sale
+    
+    was $74
+    
+    Worthington Lace Shift Dress
+
+SAVE ON ADIDASShop AllSAVE ON ADIDASShop All
+
+*   $49.99 sale
+    
+    was $55
+    
+    Adidas Courtset Womens Sneakers(2)
+*   LIMITED TIME SPECIAL!
+    
+    $48.75 sale
+    
+    was $65
+    
+    adidas Advantage Womens Sneakers(106)
+*   $59.99 sale
+    
+    was $70
+    
+    adidas Cloudfoam Pure Womens Sneakers(3)
+*   $59.99 sale
+    
+    was $65
+    
+    adidas QT Racer Womens Lace Sneakers(3)
+*   $39.99 sale
+    
+    was $70
+    
+    Adidas Cosmic Mens Running Shoes(5)
 
 Shop and Save at JCPenney
 
