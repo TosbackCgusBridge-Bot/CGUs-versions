@@ -55,9 +55,9 @@
     *   Integrations
     *   Join Us
 
-GET TO THE HEART  
-OF WHAT MATTERS  
-TO MILLIONS Watch Our Story
+THE PROMISE OF  
+1:1 DIGITAL MARKETING  
+BOLDLY DELIVERED Watch Our Story
 
 *   200M+ Real People You Can  
     Message Right Now
@@ -74,20 +74,20 @@ More data plus smarter decisioning make us THE INDUSTRY’S MOST POWERFUL DIGITA
 
 The Latest News
 
-*   Do You Have an Identity Crisis?  
-    Get the tools to achieve identity matching  
+*   Attain One View of Consumers  
+    5 questions for evaluating identity partners  
     
-*   Bridge the TV-Digital Gap  
-    Extend TV ads online with scale &. accuracy  
+*   Using AI in Digital Advertising  
+    Learn how AI enables personalization  
     
-*   Gain Confidence With Ad Quality  
-    The steps to staying brand-safe &. bot-free  
+*   Conversant Launches GDPR Tool  
+    Gain consumer consent and compliance  
     
-*   How to Do Video Smartly  
-    7 questions your technology needs to consider  
+*   The Battle Against Ad Fraud  
+    Focus on performance when it comes to fraud  
     
-*   The “50 First Dates” Problem  
-    A recipe for bad digital marketing
+*   Our Approach to the GDPR  
+    What the GDPR means for you
 
 ← See our case study See our case study See our case study See our case study See our case study See our case study →
 
