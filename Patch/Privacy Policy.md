@@ -8,7 +8,7 @@ Toggle navigation Find Your Town Post Advertise Log in
 *   Advertise
 *   Log out
 
-*   Mon, Apr 30
+*   Tue, May 1
 
 *   Post on Patch
 *   Advertise
