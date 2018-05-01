@@ -33,7 +33,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack FINAL HOURS! COUPON CODE 22GOSAVE ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 4 4 2 1 secs 30-50% OFF SELECT DRESSESShop All30-50% OFF SELECT DRESSESShop All
+Near YouFind a StoreBack DAY 5 OF COUPON CODE 12GIFTS ENDS IN
+
+\*offer ends 5/2/18
+
+Days 0 0 0 0 hours 4 4 0 0 mins 4 3 0 9 secs 30-50% OFF SELECT DRESSESShop All30-50% OFF SELECT DRESSESShop All
 
 *   $29.99 sale
     
@@ -45,7 +49,9 @@ Near YouFind a StoreBack FINAL HOURS! COUPON CODE 22GOSAVE ENDS IN Days 0 0 0 0 
     was $120
     
     R &. M Richards 3/4 Sleeve Jacket Dress(4)
-*   $64.99 - $90
+*   $64.99 sale
+    
+    was $89 - $90
     
     Melrose Short Sleeve Fit &. Flare Dress(8)
 *   $49.99 sale
@@ -53,11 +59,11 @@ Near YouFind a StoreBack FINAL HOURS! COUPON CODE 22GOSAVE ENDS IN Days 0 0 0 0 
     was $74
     
     Melrose 3/4 Sleeve Lace Fit &. Flare Dress(3)
-*   $89.99 sale
+*   $34.99 sale
     
-    was $120
+    was $74
     
-    Melrose Sleeveless Evening Gown(17)
+    Worthington Lace Shift Dress
 
 UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
 
@@ -84,18 +90,18 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     LIMITED TIME SPECIAL! 1/10 CT. T.W. Double Halo Diamond Pendant Necklace in Sterling Silver(372)
 *   LIMITED TIME SPECIAL!
     
+    $19.99 sale
+    
+    was $124.98
+    
+    Womens 1/10 CT. T.W. White Diamond Sterling Silver Pendant Necklace(92)
+*   LIMITED TIME SPECIAL!
+    
     $10 sale
     
     was $49.98
     
     Limited Time Special! Lab Created White Sapphire Stud Earrings in Sterling Silver(96)
-*   LIMITED TIME SPECIAL!
-    
-    $121.87 sale
-    
-    was $406.23
-    
-    DiamonArt® Sterling Silver 1 7/8 CT. T.W. Cubic Zirconia Bridal Ring Set(125)
 
 40% OFF SELECT HANDBAGS &. WALLETSShop All40% OFF SELECT HANDBAGS &. WALLETSShop All
 
@@ -114,16 +120,16 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     was $60
     
     St. John's Bay Straw Colorblock Tote Bag
-*   $39 sale
-    
-    was $65
-    
-    Liz Claiborne Amy Tote Bag
 *   $25 sale
     
     was $50
     
     Liz Claiborne Lola Crossbody Bag(119)
+*   $39 sale
+    
+    was $65
+    
+    Liz Claiborne Amy Tote Bag
 
 NEW MISSY STYLESShop AllNEW MISSY STYLESShop All
 
@@ -141,13 +147,13 @@ NEW MISSY STYLESShop AllNEW MISSY STYLESShop All
     
     was $29
     
-    a.n.a. Twist Front Top(4)
+    a.n.a. Twist Front Top(5)
 *   $19.99 sale
     
     was $37
     
     Liz Claiborne Flutter Sleeve Pleated Neck Knit Blouse
-*   $39.99 sale
+*   $34.99 sale
     
     was $74
     
@@ -177,11 +183,11 @@ SAVE ON ADIDASShop AllSAVE ON ADIDASShop All
     was $65
     
     adidas QT Racer Womens Lace Sneakers(3)
-*   $39.99 sale
+*   $22.50 sale
     
-    was $70
+    was $30
     
-    Adidas Cosmic Mens Running Shoes(5)
+    adidas® Adissage Womens Slides(24)
 
 Shop and Save at JCPenney
 
