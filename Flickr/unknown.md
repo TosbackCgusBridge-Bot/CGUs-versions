@@ -124,10 +124,6 @@ THE FOLLOWING ADDITIONAL TERMS AND CONDITIONS APPLY TO FLICKR GIFT PURCHASES ONL
 
 Last updated: 2018-04-03
 
-Exciting news: Flickr is joining SmugMug! Learn more
-
-Dismiss
-
 *   About
 *   Jobs
 *   Blog
