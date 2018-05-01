@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Michael Goodwin_: Comey Leaves an Unprecedented Stain on the FBI
+*   _John Bacon_: Netanyahu Lays Out Evidence Iran Cheated on Nuke Deal
     
-*   _Michael Kruse_: Trump's Ever-Mounting Scrap Heap
+*   _Sebastian Gorka_: There Was No Collusion, But Putin Achieved His Goal
     
-*   _James Hasson_: Sen. Tester Owes Apology to Rear Admiral Ronny Jackson
+*   _E.J. Dionne_: The Steep Price of the Trumpian Circus
     
-*   _Wendy Sherman_: Don't Get Too Excited About the Korea Summit
+*   _Ed Morrissey_: NYT Editors: Save Us, Obi-Wan Kennedy, You're Our Only Hope
     
-*   _Tom Plant_: Historic Korea Summit Gives Trump Path to Create Lasting Peace
+*   _Dean Obeidallah_: Michelle Wolf Was Big Winner of WHCD, Not Trump
     
-*   _Nell Scovell_: Can Donald Trump Get a Laugh?
+*   _Stella Morabito_: Wolf's Performance Provokes the America She Hates
     
-*   _Patricia McCarthy_: Trump Chose Wisely to Ignore WH Correspondents' Hatefest
+*   _David Zurawik_: Independent Probe Needed at NBC for Brokaw &. Reid
     
-*   _Kathy Barnette_: Just Because I'm Black Don't Assume I'm a Democrat
+*   _Byron York_: Just What Did Comey Say About Michael Flynn?
     
-*   _Vann Newkirk_: 'Dragon Energy'? What Is Kanye Thinking?
+*   _Rachel Lu_: Why America Will Regret Legalizing Marijuana
     
-*   _Ross Douthat_: Alfie Evans and the Experts
+*   _Alex Beam_: The Socially Unacceptable Christians
     
-*   _Joe Pompeo_: 'My New Life as an Accused Predator': Brokaw Fights Back
+*   _Robert Wilonsky_: A Scene From Stormy Daniels' Strip Tour
     
-*   _Leonid Bershidsky_: Trump and Kim Have a Chance to Become True Heroes
+*   _Gordon Chang_: Kim Makes Stunning Concessions to 'Crazy Guy' Trump
     
-*   _Maureen Dowd_: Trump: Our Cartoon Nobel Laureate
+*   _Charlie Campbell_: Why North Korean Denuclearization Is Still a Long Shot
     
-*   _Jonathan Turley_: Clapper's Actions Sure Look Like Political Manipulations
+*   _Peter Funt_: A Vicious Wolf Gives Trump the Last Laugh
     
-*   _Richard Wolffe_: Trump Perfects the Art of the Self-Contradictory Interview
+*   _Molly Roberts_: Michelle Wolf Got It Just Right
     
-*   _Steve Hilton_: Trump's Triumphs Are Driving His Critics Crazy
+*   _Roger L. Simon_: Who Was Worse, Michelle Wolf or Her Audience?
     
-*   _David Swerdlick_: Kanye West Fell for the Worst Black Republican Sales Pitch
+*   _Thomas Frank_: Dems Finally Ready to Unfriend Zuckerberg &. Facebook?
     
-*   _Frank Miele_: Is Democrats' Monopoly on the Black Vote Cracking?
+*   _Ned Ryun_: Mr. President, End the Collusion...in Healthcare Industry
     
-*   _James Fallows_: How California Turned Into a 'State of Resistance'
+*   _Cicely Simpson_: America's Restaurants Need a Permanent DACA Solution
     
-*   _Rich Lowry_: Lawlessness Is Rampant, But It's Not Emanating From Trump
+*   _Douglas Schoen_: To Succeed in 2018, Dems May Need to Replace Pelosi
     
-*   _Thomas Wheatley_: Why Socialist Systems Deny Care to Sick Children
+*   _Arkin &. Huey-Burns_: Bitter Indiana GOP Primary May Benefit Donnelly
     
-*   _Carolyn Kormann_: Pruitt Crusade vs. 'Secret Science' Could Be Disastrous
+*   _Mollie Hemingway_: NY Times' Hatchet Job on Nunes Riddled w/Errors
     
-*   _Virginia Postrel_: Mileage Standards Weren't Meant to Fix Climate Change
+*   _Michael Hayden_: The End of Intelligence
     
-*   _Mike Konczal_: Actually, Guns Do Kill People
+*   _Sara Carter_: CNN's Hiring of Suspected Leaker Clapper Raises Ethical Questions
     
 
 *   Previous
@@ -257,11 +257,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Attacks Tester Over VA Nominee Allegations
 *   Kim Jong Un Steps Across Korean Border, Makes History
-*   Bret Baier Grills James Comey in "Special Report" Interview
+*   Bitter Republican Primary May Benefit Donnelly in Indiana
+*   At Michigan Rally, Trump Unloads on a Litany of Adversaries
+*   Trump Attacks Tester Over VA Nominee Allegations
 *   Republican Concerns Mount in Arizona Despite 8th District Win
-*   Non-Supporter of Pelosi Benefits From Her Fundraising
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -276,26 +276,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Missouri Senate - Hawley vs. McCaskillEmerson
+    *   McCaskill45
+    *   Hawley45Tie
+*   President Trump Job ApprovalGallup
+    *   Approve42
+    *   Disapprove53Disapprove +11
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove52Disapprove +5
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve44
-    *   Disapprove56Disapprove +12
-*   2018 Generic Congressional VoteHarvard-Harris
-    *   Democrats43
-    *   Republicans34Democrats +9
-*   Direction of CountryHarvard-Harris
-    *   Right Direction35
-    *   Wrong Track53Wrong Track +18
+*   Direction of CountryRasmussen Reports
+    *   Right Direction41
+    *   Wrong Track53Wrong Track +12
 
 More Latest Polls In The News
 
+*   Israeli PM Netanyahu Reveals Documents Proving Iranian Nuclear Program. Deal Is Based On "Deception"
 *   Comey: Partisanship "Wrecked" House Intelligence Committee, Report "A Political Document"
 *   Adam Schiff: "Fair to Say" Trump Deserves "Credit" For Bringing North Korea To The Table
 *   Luntz Focus Group Of "Angry" Voters Sound Off About Incompetent Congress, Trump, Broken System
 *   Secretary Of State Mike Pompeo On Meeting Kim Jong Un: "We Had A Good Conversation"
-*   Bill Maher: We Must "Start Penalizing Liars" Like Trump. Comey And Obama "Should Sue Trump"
 
 *   Politics
 *   Policy
