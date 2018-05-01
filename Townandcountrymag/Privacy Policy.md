@@ -1,8 +1,8 @@
-*   Politics
+*   Royals
 *   Style
 *   Travel
+*   Politics
 *   Philanthropy
-*   Royals
 
 *   Subscribe
     *   Give a Gift
