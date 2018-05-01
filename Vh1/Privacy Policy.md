@@ -24,7 +24,39 @@ VH1 MenuVH1
 *   Digital Originals
 *   Watch Live TV
 
-Privacy Policy And Your California Privacy Rights**Go to Terms of Use** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
+DEAR MAMA AIRS IN
+
+*   0
+*   9
+
+*   6
+*   5
+
+d
+
+*   1
+*   0
+
+*   9
+*   8
+
+h
+
+*   2
+*   1
+
+*   5
+*   4
+
+m
+
+*   5
+*   4
+
+*   1
+*   0
+
+s Privacy Policy And Your California Privacy Rights**Go to Terms of Use** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
 **Last Modified:** June 22, 2017  
 Summary of Most Significant Changes
 
