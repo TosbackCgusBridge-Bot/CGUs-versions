@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Celebrate Arbor Day with Tentree! For every item purchased, 10 trees are planted.
+The Billabong Exclusive Collection for Buckle – Shop Now.
 
 *   Women
 *   Men
