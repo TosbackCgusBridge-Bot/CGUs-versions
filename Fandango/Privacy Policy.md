@@ -5,26 +5,31 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 
 *   Movies Now Playing
     
+    *   Avengers: Infinity War
     *   A Quiet Place
-    *   Rampage (2018)
     *   I Feel Pretty
+    *   Rampage (2018)
+    *   Black Panther
     *   Super Troopers 2
     *   Blumhouse's Truth or Dare (2018)
-    *   Ready Player One
     *   Blockers
-    *   Black Panther
+    *   Ready Player One
     *   Traffik
     *   Isle of Dogs
-    *   Bharat Ane Nenu
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Avengers: Infinity War
-    *   Disobedience (2018)
-    *   Kings (2018)
-    *   Let the Sunshine In
-    *   The Test and the Art of Thinking
+    *   Bad Samaritan
+    *   Overboard (2018)
+    *   Tully (2018)
+    *   102 Not Out
+    *   Altered Perception
+    *   The Cleanse
+    *   The Desert Bride
+    *   The Guardians (2018)
+    *   Ray Meets Helen
+    *   RBG
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -33,15 +38,14 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     Coming Soon
     
-    *   Bad Samaritan
-    *   Overboard (2018)
-    *   Tully (2018)
     *   Breaking In (2018)
     *   Life of the Party
     *   Book Club
-    *   Deadpool 2
     *   Show Dogs
     *   Solo: A Star Wars Story
+    *   Action Point
+    *   Adrift (2018)
+    *   Ocean's 8
     *   See All Coming Soon
     
     Explore More
@@ -69,9 +73,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Marvel Buzz: 'Avengers: Infinity War' Breaks Its First Box Office Record. 'Black Widow' Seeks Female Director Read More
-    *   The Week in Movie News: What's Next for the Marvel, 'Venom' Trailer and More Read More
-    *   S.J. Clarkson to Direct 'Star Trek 4,' Becoming Franchise's First Female Director Read More
+    *   Every Record Broken by 'Avengers: Infinity War' Read More
+    *   Lupita Nyong'o to Star in John Woo's Remake of 'The Killer' Read More
+    *   Marvel Studios' Next 3 Movies: 'Ant-Man and the Wasp,' 'Captain Marvel,' 'Avengers 4' Read More
     
     Explore Content
     *   Movie Reviews
@@ -272,9 +276,9 @@ Offers
     
     Choose 1 of 5 FREE\* exclusive posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   20% Off Your First Month on FandangoNOW
+*   'Ready Player One' Gift With Purchase
     
-    Watch the newest movies not available on Netflix, Hulu or Amazon Prime subscriptions. New customers get 20% off for 1 month! SEE DETAILS
+    Receive a FREE\* exclusive 'Ready Player One' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 
 New + Coming soon
