@@ -8,18 +8,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   TUMI
+    *   Work Dresses ft. Tahari Incl. Special Sizes
+    *   Frye
+    *   Frye Men
+    *   Few Moda
+    *   Meira T Fine Jewelry
+    *   Do + Be
+    *   Peony &. Me Active
+    *   Catherine Catherine Malandrino
+    *   Jacobies of Beverly Hills Starting at $20
+    *   Spring Dresses ft. Tassels N Lace
+    *   New In: MINKPINK &. More Starting at $25
+    *   Best of Italy: Handbags
+    *   Spring Shoe Update: Standout Prints
+    *   Kestrel Cosmetic Bags
+    *   Bath and Body from Weekends &. Chocolate Under $25
+    *   Zoe Ayla Cosmetics Up to 80% Off
+    *   Free Shipping: Pop Art Pillows Under $20
+    *   Free Shipping: Fashion-Forward Wall Art &. Decor
+    *   NutriChef Kitchen Electrics
+    *   Grayers
+    *   Carrera Sun &. More Up to 75% Off
+    *   Threads 4 Thought &. More
+    *   Venettini
+    *   Cool to Lounge: Girls' Hoodies, Joggers &. More
+    *   Darling Dresses &. Sets from AnnLoren
     *   Romeo &. Juliet Couture Blowout
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   Shoes Up to 70% Off
     *   Insight Up to 75% Off
+    *   Spring Trenches &. More Up to 60% Off
     *   Jewelry Steals Up to 85% Off
     *   Sorial Handbags Up to 70% Off
     *   Free Shipping: Modern Rugs Up to 70% Off
     *   Men's Shoes Up to 65% Off
     *   Bulova Watches Up to 70% Off
+    
     *   Hickey Freeman
     *   John Masters Organics: Natural Products
-    *   Spring Trenches &. More Up to 60% Off
+    *   Kimi + Kai Maternity
     *   Oh So Soft: Lucky Jade Blankets &. More
     *   Pearhead Keepsakes &. Gifts
     *   Free Shipping: Luxe Bedding Up to 65% Off
@@ -36,7 +64,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Heavenly Secrets
     *   CZ by Kenneth Jay Lane Up to 75% Off
     *   Vicenzo Leather
-    *   Kimi + Kai Maternity
     *   Designers We Love ft. David Naman
     *   Coolway
     *   Camper Up to 60% Off
@@ -49,12 +76,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Made in Italy: Meshmerise Jewelry from $15
     *   Vintage Havana
     *   Raisins Swim Incl. Plus
-    
     *   Rachel Zoe
     *   Espadrilles Under $50
     *   Girls' Night In: Pajamas Under $30
     *   On Trend: Sterling Silver &. More Up to 70% Off
     *   City Chic: Leather Bags
+    
     *   Shine Bright: On-Trend Metallic Shoes
     *   Tweezerman Starting at $10
     *   Bliss Color Cosmetics at $10
@@ -69,29 +96,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Plush Natori Towels Up to 75% Off
     *   Poo-Pourri Bathroom Scents from $10
     *   RACHEL Rachel Roy Incl. Plus
-    *   Natori
-    *   Gifts for Mom: Dogeared Jewelry
-    *   Spring Favorites for Her Starting at $20
-    *   Designer Shop ft. Nanette Lepore
-    *   She's Got the Look: Shades Up to 80% Off
-    *   Perfect for Mom: Leather Wallets Up to 60% Off
-    *   Silk Scarves &. More ft. Salvatore Ferragamo
-    *   Mother's Day Gifts: Luggage
-    *   Babymoon Ready: Must-Haves for Moms to Be
-    *   Dooney &. Bourke Up to 50% Off
-    *   Seven7
-    *   Step into Comfort: Shoes ft. Vionic &. Korks
-    *   Wear to Work: Suiting ft. Adrianna Papell
     *   blowpro
-    *   London Dress Company
-    *   Amanda Uprichard
-    *   Zaxy
-    *   Get Outside: Water Shoes &. More ft. Keen
-    *   AMARI Active
-    *   Resort Ready: Swimwear We Love
-    *   Marchesa Jewelry &. More
-    *   Top Moda
-    
     *   Brazabra Beauty Solutions Starting at $10
     *   Korean Beauty: D'Ran Under $30
     *   Tommy Hilfiger Tailored Clothing
@@ -102,57 +107,54 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   LED Lighting &. More Starting at $10
     *   Free Shipping: Fine Art Replicas Up to 70% Off
     *   Stainless Steel Water Bottles Under $20
-    *   Girls' Flats ft. Zaxy &. More
-    *   ZAC Zac Posen Up to 75% Off
     *   Mirenesse Up to 70% Off
     *   Cuisinart Cookware, Grills &. More
     *   Free Shipping: Vintage-Inspired &. Modern Decor
-    *   Tailorbyrd
-    *   Men's Denim Under $50
-    *   Indigo Star Starting at $20
-    *   Brooklyn Cloth Under $20
-    *   Joe-Ella
-    *   Kids' Spring Looks from Tommy Hilfiger
-    *   Under $30: Dr. Scholl's Kids
-    *   Kids' Favorite Character Pajamas
-    *   Under $50: Deer Stags Men
-    *   Bobbi Brown
     *   Free Shipping: Bedding Essentials Blowout
-    *   House of Kalon: Body Butter, Scrubs &. More
-    *   At-Home Spa: Beauty Devices &. More
     *   Free Shipping: Accent Furniture Under $250
     *   Modern Dinnerware &. More from Nambe
     *   Free Shipping: Nature-Inspired Wall Art Starting at $14
     *   Free Shipping: Artistic Home Accents from $10
     *   Spring in Bloom: Planting Kits &. More
     *   Home &. Office Organization Starting at $15
-    *   Country Charm: Wooden Home Accents &. More
-    *   Floral Notes: Gifts &. Decor from $10
-    *   Free Shipping: Quilted Bedding &. More
-    *   Poolside Fun: Floats, Towels &. More
-    *   Threads 4 Thought
-    *   Tea Collection
 *   WomenShop Sale Events
     
+    *   TUMI
+    *   Work Dresses ft. Tahari Incl. Special Sizes
+    *   Frye
+    *   Few Moda
+    *   Meira T Fine Jewelry
+    *   Do + Be
+    *   Peony &. Me Active
+    *   Catherine Catherine Malandrino
+    *   Jacobies of Beverly Hills Starting at $20
+    *   Spring Dresses ft. Tassels N Lace
+    *   New In: MINKPINK &. More Starting at $25
+    *   Best of Italy: Handbags
+    *   Spring Shoe Update: Standout Prints
+    *   Kestrel Cosmetic Bags
+    *   Bath and Body from Weekends &. Chocolate Under $25
+    *   Zoe Ayla Cosmetics Up to 80% Off
     *   Romeo &. Juliet Couture Blowout
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   Shoes Up to 70% Off
     *   Insight Up to 75% Off
+    *   Spring Trenches &. More Up to 60% Off
     *   Jewelry Steals Up to 85% Off
     *   Sorial Handbags Up to 70% Off
     *   Bulova Watches Up to 70% Off
     *   John Masters Organics: Natural Products
-    *   Spring Trenches &. More Up to 60% Off
+    *   Kimi + Kai Maternity
     *   Like a Pro: Hair Dryers &. More Up to 80% Off
     *   Sterling Forever Jewelry Up to 70% Off
     *   Calceo
     *   Why Dress
     *   Johnny Was
+    
     *   Leilani Swim &. More
     *   Heavenly Secrets
     *   CZ by Kenneth Jay Lane Up to 75% Off
     *   Vicenzo Leather
-    *   Kimi + Kai Maternity
     *   Designers We Love ft. David Naman
     *   Coolway
     *   Camper Up to 60% Off
@@ -170,55 +172,33 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Girls' Night In: Pajamas Under $30
     *   On Trend: Sterling Silver &. More Up to 70% Off
     *   City Chic: Leather Bags
-    
     *   Shine Bright: On-Trend Metallic Shoes
     *   Tweezerman Starting at $10
     *   Bliss Color Cosmetics at $10
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Roberto Cavalli Watches &. More Up to 70% Off
     *   RACHEL Rachel Roy Incl. Plus
-    *   Natori
-    *   Gifts for Mom: Dogeared Jewelry
-    *   Spring Favorites for Her Starting at $20
-    *   Designer Shop ft. Nanette Lepore
-    *   She's Got the Look: Shades Up to 80% Off
-    *   Perfect for Mom: Leather Wallets Up to 60% Off
-    *   Silk Scarves &. More ft. Salvatore Ferragamo
-    *   Mother's Day Gifts: Luggage
-    *   Babymoon Ready: Must-Haves for Moms to Be
-    *   Dooney &. Bourke Up to 50% Off
-    *   Seven7
-    *   Step into Comfort: Shoes ft. Vionic &. Korks
-    *   Wear to Work: Suiting ft. Adrianna Papell
     *   blowpro
-    *   London Dress Company
-    *   Amanda Uprichard
-    *   Zaxy
-    *   Get Outside: Water Shoes &. More ft. Keen
-    *   AMARI Active
-    *   Resort Ready: Swimwear We Love
-    *   Marchesa Jewelry &. More
-    *   Top Moda
     *   Brazabra Beauty Solutions Starting at $10
     *   Korean Beauty: D'Ran Under $30
-    *   ZAC Zac Posen Up to 75% Off
     *   Mirenesse Up to 70% Off
-    *   Bobbi Brown
-    *   House of Kalon: Body Butter, Scrubs &. More
-    *   At-Home Spa: Beauty Devices &. More
-    *   Threads 4 Thought
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Lingerie
-    *   Accessories
     *   Watches
+    *   Lingerie
     *   Tech Accessories
+    *   Accessories
 *   MenShop Sale Events
     
+    *   TUMI
+    *   Frye Men
+    *   Grayers
+    *   Carrera Sun &. More Up to 75% Off
+    *   Threads 4 Thought &. More
     *   Men's Shoes Up to 65% Off
     *   Bulova Watches Up to 70% Off
     *   Hickey Freeman
@@ -226,12 +206,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Red Wing Up to 50% Off
     *   Knowledge Cotton Apparel &. More
     *   Eton
+    
     *   Beach Ready: Trunks &. More
     *   Gordon Rush Up to 60% Off
     *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Natural Blue Linen Styles &. More Up to 75% Off
     *   X-Ray Up to 70% Off
-    
     *   Andrew Marc Shoes Starting at $30
     *   Men's Leather Belts Up to 65% Off
     *   Tommy Hilfiger Tailored Clothing
@@ -239,11 +219,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Vince Camuto Men's Shoes
     *   James Tattersall Up to 70% Off
     *   Arka Tees Under $20
-    *   Tailorbyrd
-    *   Men's Denim Under $50
-    *   Indigo Star Starting at $20
-    *   Brooklyn Cloth Under $20
-    *   Under $50: Deer Stags Men
     
     Shop By Category
     *   Clothing
@@ -252,78 +227,72 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Venettini
+    *   Cool to Lounge: Girls' Hoodies, Joggers &. More
+    *   Darling Dresses &. Sets from AnnLoren
+    *   Kimi + Kai Maternity
     *   Oh So Soft: Lucky Jade Blankets &. More
     *   Pearhead Keepsakes &. Gifts
-    *   Kimi + Kai Maternity
-    *   Babymoon Ready: Must-Haves for Moms to Be
-    *   Girls' Flats ft. Zaxy &. More
-    *   Joe-Ella
-    *   Kids' Spring Looks from Tommy Hilfiger
-    *   Under $30: Dr. Scholl's Kids
-    *   Kids' Favorite Character Pajamas
-    *   Tea Collection
     
     Shop By Category
-    *   Girls Sizes 2T-6X
     *   Baby Gear &. Essentials
-    *   Baby Boy
-    *   Baby Girl
-    *   Boys Sizes 2T-7
-    *   Girls' Shoes
-    *   Boys Sizes 8-20
     *   Girls Sizes 7-16
+    *   Girls Sizes 2T-6X
+    *   Baby Girl
+    *   Girls' Shoes
+    *   Baby Boy
     *   Toys
-    *   Boys' Shoes
+    *   Boys Sizes 2T-7
 *   HomeShop Sale Events
     
+    *   TUMI
+    *   Free Shipping: Pop Art Pillows Under $20
+    *   Free Shipping: Fashion-Forward Wall Art &. Decor
+    *   NutriChef Kitchen Electrics
     *   Free Shipping: Modern Rugs Up to 70% Off
     *   Free Shipping: Luxe Bedding Up to 65% Off
     *   Free Shipping: Plush Natori Towels Up to 75% Off
     *   Poo-Pourri Bathroom Scents from $10
     *   LED Lighting &. More Starting at $10
     *   Free Shipping: Fine Art Replicas Up to 70% Off
+    
     *   Stainless Steel Water Bottles Under $20
     *   Cuisinart Cookware, Grills &. More
     *   Free Shipping: Vintage-Inspired &. Modern Decor
     *   Free Shipping: Bedding Essentials Blowout
-    
     *   Free Shipping: Accent Furniture Under $250
     *   Modern Dinnerware &. More from Nambe
     *   Free Shipping: Nature-Inspired Wall Art Starting at $14
     *   Free Shipping: Artistic Home Accents from $10
     *   Spring in Bloom: Planting Kits &. More
     *   Home &. Office Organization Starting at $15
-    *   Country Charm: Wooden Home Accents &. More
-    *   Floral Notes: Gifts &. Decor from $10
-    *   Free Shipping: Quilted Bedding &. More
-    *   Poolside Fun: Floats, Towels &. More
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Organization
+    *   Bedding
     *   Kitchen &. Tabletop
     *   Accent Furniture
     *   Bath
-    *   Outdoor Living
     *   Luggage &. Travel
+    *   Outdoor Living
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   Kestrel Cosmetic Bags
+    *   Bath and Body from Weekends &. Chocolate Under $25
+    *   Zoe Ayla Cosmetics Up to 80% Off
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   John Masters Organics: Natural Products
     *   Like a Pro: Hair Dryers &. More Up to 80% Off
     *   Tweezerman Starting at $10
+    
     *   Bliss Color Cosmetics at $10
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   blowpro
-    
     *   Brazabra Beauty Solutions Starting at $10
     *   Korean Beauty: D'Ran Under $30
     *   Mirenesse Up to 70% Off
-    *   Bobbi Brown
-    *   House of Kalon: Body Butter, Scrubs &. More
-    *   At-Home Spa: Beauty Devices &. More
     
     Shop By Category
     *   Makeup
