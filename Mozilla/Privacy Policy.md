@@ -163,6 +163,9 @@ You can control individual cookie preferences, indicate your cookie preferences 
 Some Mozilla websites allow you to make purchases (such as apps or gear) or make a donation. These transactions are processed by third parties, and not Mozilla. Learn More
 
 *   **Payment Processing**: Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.
+    
+*   **Fraud Prevention**: Mozilla has implemented third-party technology, Google’s Invisible reCAPTCHA, that operates in the background of on some of our websites in order to identify fraudulent activity. Use of the Invisible reCAPTCHA is governed by the Google Privacy Policy and Terms of Use.
+    
 
 Back to Mozilla Privacy Policy Mozilla Mozilla
 
