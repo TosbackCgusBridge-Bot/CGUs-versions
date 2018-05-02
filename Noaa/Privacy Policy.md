@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Across 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Science in service to the planet we call home See this roundup of Earth Day-inspired stories, video you don’t want to miss AROUND NOAA // Infographic: How does climate change affect coral reefs? \[EXT\] Globe had its 5th warmest March on record Video: Hurricane Hunter in search of a different kind of storm
+Enter Search Terms NOAA &. Air Force Reserve ‘Hurricane Hunters’ to visit Gulf Coast on preparedness tour Public and media invited to tour aircraft AROUND NOAA // Infographic: How does climate change affect coral reefs? \[EXT\] Globe had its 5th warmest March on record Video: Hurricane Hunter in search of a different kind of storm
 
 *   About our agency
 *   News and features
