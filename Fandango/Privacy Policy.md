@@ -74,8 +74,8 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   Every Record Broken by 'Avengers: Infinity War' Read More
-    *   Lupita Nyong'o to Star in John Woo's Remake of 'The Killer' Read More
-    *   Marvel Studios' Next 3 Movies: 'Ant-Man and the Wasp,' 'Captain Marvel,' 'Avengers 4' Read More
+    *   John Cena and Dwayne Johnson to Team for 'The Janson Directive' Read More
+    *   New 'Ant-Man and the Wasp' Trailer Reveals Even More Action and Comedy Read More
     
     Explore Content
     *   Movie Reviews
@@ -318,11 +318,11 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   April Celebrity Birthdays
+*   May Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office. advertisementadvertisementadvertisement
