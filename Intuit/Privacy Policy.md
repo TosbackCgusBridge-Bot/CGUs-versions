@@ -33,11 +33,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 5 OF COUPON CODE 12GIFTS ENDS IN
+Near YouFind a StoreBack DAY 6 OF COUPON CODE 12GIFTS ENDS IN
 
 \*offer ends 5/2/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 4 3 0 9 secs 30-50% OFF SELECT DRESSESShop All30-50% OFF SELECT DRESSESShop All
+Days 0 0 0 0 hours 4 4 0 0 mins 4 4 1 0 secs 30-50% OFF SELECT DRESSESShop All30-50% OFF SELECT DRESSESShop All
 
 *   $29.99 sale
     
@@ -54,12 +54,12 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 3 0 9 secs 30-50% OFF SELECT DRESSESShop All30
     was $89 - $90
     
     Melrose Short Sleeve Fit &. Flare Dress(8)
-*   $49.99 sale
+*   $89.99 sale
     
-    was $74
+    was $120
     
-    Melrose 3/4 Sleeve Lace Fit &. Flare Dress(3)
-*   $34.99 sale
+    Melrose Sleeveless Evening Gown(17)
+*   $39.99 sale
     
     was $74
     
@@ -103,33 +103,23 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     
     Limited Time Special! Lab Created White Sapphire Stud Earrings in Sterling Silver(96)
 
-40% OFF SELECT HANDBAGS &. WALLETSShop All40% OFF SELECT HANDBAGS &. WALLETSShop All
+INTRODUCING LIONEL RICHIE HOMEShop AllINTRODUCING LIONEL RICHIE HOMEShop All
 
-*   $14.99 sale
+*   $260 - $300
     
-    was $50
+    Lionel Richie Jacquard 3-pc. Comforter Set
+*   $200 - $240
     
-    Liz Claiborne Charging Wristlet(121)
-*   $45 sale
+    Lionel Richie Black 3-pc. Coverlet Set
+*   $200 - $240
     
-    was $75
+    Lionel Richie Solid 3-pc. Coverlet Set
+*   $200 - $240
     
-    Liz Claiborne Leanne 4-Poster Shoulder Bag(97)
-*   $24.99 sale
+    Lionel Richie Light Blue 3-pc. Coverlet Set
+*   $260 - $300
     
-    was $60
-    
-    St. John's Bay Straw Colorblock Tote Bag
-*   $25 sale
-    
-    was $50
-    
-    Liz Claiborne Lola Crossbody Bag(119)
-*   $39 sale
-    
-    was $65
-    
-    Liz Claiborne Amy Tote Bag
+    Lionel Richie Woven Stripe 3-pc. Comforter Set
 
 NEW MISSY STYLESShop AllNEW MISSY STYLESShop All
 
@@ -143,17 +133,17 @@ NEW MISSY STYLESShop AllNEW MISSY STYLESShop All
     was $29
     
     a.n.a. Strapback Tank
-*   $9.99 sale
-    
-    was $29
-    
-    a.n.a. Twist Front Top(5)
 *   $19.99 sale
     
     was $37
     
     Liz Claiborne Flutter Sleeve Pleated Neck Knit Blouse
-*   $34.99 sale
+*   $9.99 sale
+    
+    was $29
+    
+    a.n.a. Twist Front Top(5)
+*   $39.99 sale
     
     was $74
     
