@@ -129,7 +129,7 @@ Play Kratos Embarks on a New Journey Video hotspot
 
 Learn about PlayStation Vue availability, subscriptions, channels and more!
 
-17 hours ago
+1 day ago
 
 View Tweet
 
@@ -297,7 +297,7 @@ Studio Quality Sound
 
 Trace the contours of true craftsmanship with #Xperia XZ2 Compact.
 
-3 hours ago
+1 day ago
 
 View Tweet
 
