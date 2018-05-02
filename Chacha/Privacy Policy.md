@@ -1,26 +1,22 @@
-<img height="1" width="1" src="https://www.facebook.com/tr?id=1233554490082788&ev=PageView&noscript=1"/>. Free TV Pluto TV™ Viral Videos Entertainment Technology GET THE APP GET THE APP Close Get the App Get the App Watch Now Hungry Husky Has Hilarious Way To Tell His Owner That He Wants Food 1,971,501 Views Hungry Husky Has Hilarious Way To Tell His Owner That He Wants Food  
-1,971,501 Views by Sebastian Gomez April 30, 2018 Husky Or Kangaroo? View More View More Mom Otter Goes Viral Animals Sebastian Gomez Bears In Hammock Animals Sebastian Gomez Puppy Attacks Chair Animals Sebastian Gomez Dog Jumps In Car Animals Sebastian Gomez Dog Asking For Attention Animals Sebastian Gomez Doggyback Rides Animals Sebastian Gomez Dog Jumping For Ball Animals Sebastian Gomez Three-Legged Kitten Finds Home Animals Sebastian Gomez Cat Rips Down Bath Mat Animals Sebastian Gomez Dog Excited For Park Animals Sebastian Gomez
+<img height="1" width="1" src="https://www.facebook.com/tr?id=1233554490082788&ev=PageView&noscript=1"/>. Free TV Pluto TV™ Viral Videos Entertainment Technology GET THE APP GET THE APP Close Get the App Get the App Watch Now Watch Police Use Taser On Unruly Passenger Involved In Fight On Flight 2,543,998 Views Watch Police Use Taser On Unruly Passenger Involved In Fight On Flight  
+2,543,998 Views by Sebastian Gomez May 1, 2018 Passenger Tazed On Flight View More View More Cowboy Tackles Robber Viral Videos Sebastian Gomez Intense House Explosion Viral Videos Sebastian Gomez Avalanche In Tignes Viral Videos Sebastian Gomez Girls Leap From Burning Building Viral Videos Sebastian Gomez Underwater Pipe Explosion Viral Videos Sebastian Gomez Man Dies In Movie Theater Viral Videos Sebastian Gomez Women Jump From Burning Hotel Viral Videos Sebastian Gomez Guy Emails EVERY Claudia Relationships Sebastian Gomez Kidnap Victim's Escape Shocking Sebastian Gomez Intense Head-On Crash Shocking Sebastian Gomez
 
-Dogs are really just furry little weirdos, which means they’re also a great source of entertainment.
+It seems that not a lot is going right when it comes to airline travel as of late, so add this dude to the list of people you hope you never run into.
 
-Take this husky, for example, who has a very creative way to let his owner know that he’s hungry and wants to come in for dinner.
+He was a passenger on an American Airlines flight and was apparently touching another passenger’s girlfriend and acting combative. He was so combative that police had to be called and he had to be subdued with a taser.
 
-You have to hand (paw) it to him — it certainly gets your attention!
+I’m guessing he’s had better days.
 
 **WATCH FREE &. UNLIMITED TV**  
 100+ HD CHANNELS  
-1,000s OF MOVIES AND SHOWS GET THE APP GET THE APP These Are Quite Possibly The Best Golf Trick Shots Ever Caught On Tape 2,419,371 Views These Are Quite Possibly The Best Golf Trick Shots Ever Caught On Tape  
-2,419,371 Views by Sebastian Gomez April 30, 2018 Golf Trick Shots View More View More Guy's Insane Parkour Skills Sports Sebastian Gomez Impressive Handstand Skills Sports Sebastian Gomez Daredevil Jumps Off A Cliff Viral Videos Sebastian Gomez Real-Life Spider-Man Sports Sebastian Gomez High Rise Basketball Stunts Sports Sebastian Gomez Two-Part Golf Shot Sports Sebastian Gomez Ice Climbing Fail Sports Sebastian Gomez Old Man On Trampoline Sports Sebastian Gomez Crazy Six-Story Pool Jump Viral Videos Sebastian Gomez Insane Car Flip Viral Videos Sebastian Gomez
+1,000s OF MOVIES AND SHOWS GET THE APP GET THE APP BMX Biker Tries INSANE Flip Over Fence But Painfully Doesn’t Quite Make It 3,376,525 Views BMX Biker Tries INSANE Flip Over Fence But Painfully Doesn’t Quite Make It  
+3,376,525 Views by Sebastian Gomez May 1, 2018 BMX Biker Fail View More View More Sprinklers In Restaurant Viral Videos Sebastian Gomez Woman's Bleacher Fail Viral Videos Sebastian Gomez Canoe Charging Viral Videos Sebastian Gomez Ring Of Fire Viral Videos Sebastian Gomez Starting A Crotch Fire Fails Sebastian Gomez Yoga Ball Fail Sports Sebastian Gomez Rollerblader Misjudges Gap Viral Videos Sebastian Gomez Girl Wrecks Bike Sports Sebastian Gomez Scooter Versus Sinkhole Viral Videos Sebastian Gomez Man Waxes Nose Hairs Viral Videos Sebastian Gomez
 
-There are cool golf shots, and then there are _these_ cool golf shots.
+Pro tip: If you see a fence with sharp pointy things lining the top, maybe find another way to get around it other than trying to go over the top.
 
-Now being able to do a backflip is impressive enough.
+This BMX biker didn’t get the memo and tried to do an insane flip over the top.
 
-But being able to do a backflip and then hit a golf ball that’s been pinging around behind you is just epic.
-
-And that’s not his only trick either.
-
-Is he some kind of wizard?!?
+He was so, so close…yet so far away.
 
 **WATCH FREE &. UNLIMITED TV**  
 100+ HD CHANNELS  
