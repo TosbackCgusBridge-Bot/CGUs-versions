@@ -125,7 +125,6 @@ Jewelry
     *   Need Assistance
     *   Register Your Pattern
     *   Identification Help
-    *   Repair &. Restoration
     
     *   Not to be Missed
     *   Flatware Sets &. Servers
