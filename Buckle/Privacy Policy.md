@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-The Billabong Exclusive Collection for Buckle – Shop Now.
+Real world here you come, dress to impress with The Grad Look.
 
 *   Women
 *   Men
@@ -292,6 +292,8 @@ The Billabong Exclusive Collection for Buckle – Shop Now.
         *   Men's New to Sale
         *   Accessories BOGO Free
         *   Sale Under $25
+        *   Select Sale BOGO 50% Off
+        *   Quinn &. Copper - Buy More, Save More
         
         *   Women's Sale
         
