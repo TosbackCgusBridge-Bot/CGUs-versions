@@ -6,8 +6,8 @@ try pro free for 7 days Fill out the CAPTCHA to continue searching on Whitepages
 
 Not searching for business use? Complete the test, prove you’re a real human, and we’ll send you along to Whitepages.
 
-<iframe src="https://funcaptcha.com/fc/api/nojs/?pkey=50BED048-DC89-91C1-BBCF-A6B02F1DE2A9" frameborder="0" scrolling="no" style="width: 308px. height:408px. border-style: none;"></iframe>. <div style="width: 306px;height: 60px;border-style: none;bottom: 12px;left: 25px;margin: 5px 0 0 0;padding: 0px;right: 25px;background: #ffffff;border: 1px solid #f7f7f7;border-radius: 5px;">. <input type="text" id="fc-token" name="fc-token" placeholder="Copy verification code into here" style="width: 270px;height: 24px;border: 1px solid #f7f7f7;border-radius: 5px;padding: 10px;margin: 7px;resize: none;font-size: 11px;-webkit-font-smoothing: antialiased;color: #212121;background: #f7f7f7;text-align: center;">. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-05-01 05:29:26 UTC.  
-Trace: 4a2a7640-286c-4ab2-a856-b1973db2dc22 via 6877ff77-92ad-4de5-9c68-afaf3f6b9b0e
+<iframe src="https://funcaptcha.com/fc/api/nojs/?pkey=50BED048-DC89-91C1-BBCF-A6B02F1DE2A9" frameborder="0" scrolling="no" style="width: 308px. height:408px. border-style: none;"></iframe>. <div style="width: 306px;height: 60px;border-style: none;bottom: 12px;left: 25px;margin: 5px 0 0 0;padding: 0px;right: 25px;background: #ffffff;border: 1px solid #f7f7f7;border-radius: 5px;">. <input type="text" id="fc-token" name="fc-token" placeholder="Copy verification code into here" style="width: 270px;height: 24px;border: 1px solid #f7f7f7;border-radius: 5px;padding: 10px;margin: 7px;resize: none;font-size: 11px;-webkit-font-smoothing: antialiased;color: #212121;background: #f7f7f7;text-align: center;">. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-05-02 05:29:57 UTC.  
+Trace: 191025aa-5a5d-4b51-b81c-92ace8bc8d09 via 6877ff77-92ad-4de5-9c68-afaf3f6b9b0e
 
 *   About
 *   Careers
@@ -20,7 +20,6 @@ Trace: 4a2a7640-286c-4ab2-a856-b1973db2dc22 via 6877ff77-92ad-4de5-9c68-afaf3f6b
 
 *   ✕
 
-*   Twitter
 *   Facebook
 *   Google+
 *   LinkedIn
@@ -126,7 +125,6 @@ Trace: 4a2a7640-286c-4ab2-a856-b1973db2dc22 via 6877ff77-92ad-4de5-9c68-afaf3f6b
 *   Y
 *   Z
 
-*   Twitter
 *   Facebook
 *   Google+
 *   LinkedIn
@@ -242,6 +240,6 @@ Trace: 4a2a7640-286c-4ab2-a856-b1973db2dc22 via 6877ff77-92ad-4de5-9c68-afaf3f6b
     *   Z
 
 *   © 2018 Whitepages Inc.
-*   Sitemap
+*   Site Map
 
 The quick brown fox jumps over the lazy dog.
