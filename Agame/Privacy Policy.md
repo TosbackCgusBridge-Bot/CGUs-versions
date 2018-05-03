@@ -363,7 +363,6 @@ Languages
 *   Bahasa Indonesia
 *   Italiano
 *   Français
-*   Türkçe
 *   Nederlands
 
 Copyright © 2018 SPIL GAMES All rights reserved.
