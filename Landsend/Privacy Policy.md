@@ -245,11 +245,7 @@ menu Close 0 Free Shipping on $50+
     *   Board Shorts
     *   Swim Dresses
     *   Mastectomy Swimsuits
-    
-    MEN'S SWIMWEAR>.
-    
-    *   Swim Trunks
-    *   Rash Guards &. Swim Shirts
+    *   Long Torso Swimsuits
     
     GIRLS' SWIMSUITS>.
     
@@ -260,6 +256,11 @@ menu Close 0 Free Shipping on $50+
     *   Cover-ups
     
     BOYS' SWIMSUITS>.
+    
+    *   Swim Trunks
+    *   Rash Guards &. Swim Shirts
+    
+    MEN'S SWIMWEAR>.
     
     *   Swim Trunks
     *   Rash Guards &. Swim Shirts
@@ -636,11 +637,7 @@ menu Close 0 Free Shipping on $50+
         *   Board Shorts
         *   Swim Dresses
         *   Mastectomy Swimsuits
-    *   MEN'S SWIMWEAR
-        *   Back
-        *   View All
-        *   Swim Trunks
-        *   Rash Guards &. Swim Shirts
+        *   Long Torso Swimsuits
     *   GIRLS' SWIMSUITS
         *   Back
         *   View All
@@ -650,6 +647,11 @@ menu Close 0 Free Shipping on $50+
         *   Rash Guards &. Swim Shirts
         *   Cover-ups
     *   BOYS' SWIMSUITS
+        *   Back
+        *   View All
+        *   Swim Trunks
+        *   Rash Guards &. Swim Shirts
+    *   MEN'S SWIMWEAR
         *   Back
         *   View All
         *   Swim Trunks
@@ -867,7 +869,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Last Updated: August 9‚ 2016
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Last Updated: August 9‚ 2016
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
