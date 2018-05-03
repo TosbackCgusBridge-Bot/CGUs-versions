@@ -27,6 +27,12 @@ Monkeybrains.net San Francisco-based ISP since 1998
 
 NOTABLE PRESS MENTIONS &. REVIEWS
 
+_May 1, 2018_  
+**SF expanding pilot program that gets public housing residents on Internet**  
+By Dominic Fracassa  
+The free Web connections are being provided by Monkeybrains, a San Francisco Internet service provider.  
+Read more >>.
+
 _February 5, 2018_  
 **City Visions: The Bay's fight to save net neutrality**  
 Host Ethan Elkind and guests discuss the Federal Communications Commission's December repeal of Obama-era net neutrality rules, regulations designed to ensure a free and open internet.  
@@ -57,7 +63,7 @@ Warehouse spaces give way to boutiques as we descend from Potrero Hill into the 
 Read more >>.
 
 _April 18, 2015_  
-**MonkeyBrains can help with Internet in some S.F. areas**  
+**Monkeybrains can help with Internet in some S.F. areas**  
 By David Einstein  
 Judging from the questions I receive, people are really frustrated by their inability to find fast, reliable home Internet at a price they consider affordable. And that’s understandable, because Internet access is something of a Hobson’s choice. In much of the country, the cable company serving the area is the only good option for stand-alone, high-speed Internet.  
 Read more >>.
@@ -65,14 +71,16 @@ Read more >>.
 _April 7, 2015_  
 **SF shelter to gain free Wi-Fi for homeless**  
 By Joshua Sabatini  
-Darcel Jackson is homeless and living at Next Door shelter. Jackson first proposed bringing wifi to the shelter and with the help of Monkey Brains, a local wireless internet company, the selter will now be able to provide free wifi to it's clients by the end of this week. It was only a few years ago that Darcel Jackson, 54, owned his own construction company, and even more recently that he held a job as an iron worker at $37 an hour helping to build the new Bay Bridge. Read more >>. MonkeyBrains: Silly Name, Serious Broadband By Thomas Claburn August 03, 2010 A three-man ISP in San Francisco's Mission District is providing Internet broadband that's two to three times faster than the U.S. average for less than $40 per month.  
+Darcel Jackson is homeless and living at Next Door shelter. Jackson first proposed bringing wifi to the shelter and with the help of Monkeybrains, a local wireless internet company, the selter will now be able to provide free wifi to it's clients by the end of this week. It was only a few years ago that Darcel Jackson, 54, owned his own construction company, and even more recently that he held a job as an iron worker at $37 an hour helping to build the new Bay Bridge.  
 Read more >>.
 
 _August 3, 2010_  
-**MonkeyBrains: Silly Name, Serious Broadband**  
+**Monkeybrains: Silly Name, Serious Broadband**  
 By Thomas Claburn  
 A three-man ISP in San Francisco's Mission District is providing Internet broadband that's two to three times faster than the U.S. average for less than $40 per month.  
-Read more >>. ^ Our Services
+Read more >>.
+
+^ Our Services
 
 *   Residential
 *   Business
