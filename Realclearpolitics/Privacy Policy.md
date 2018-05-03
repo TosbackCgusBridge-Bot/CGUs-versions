@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Richard Cohen_: Trump Is Where the End Begins
+*   _Matt Schlapp_: WHCD Will Turn Americans Tired of Hate to Trump's Side
     
-*   _Conrad Black_: State of the Resistance: Collapsing Like a House of Cards
+*   _Paul Begala_: Trump's Not an Idiot, He's Something Worse
     
-*   _Masha Gessen_: Michelle Wolf Blasts Open Fictions of the Age of Trump
+*   _Byron York_: Democrats and the Trump Impeachment Trap
     
-*   _James Robbins_: Trump Has Done More to Earn Nobel Prize Than Obama
+*   _Renato Mariotti_: Mueller's Questions Point to What Trouble Trump Is In
     
-*   _Fred Kaplan_: Netanyahu Unwittingly Makes the Case for Keeping Iran Deal
+*   _Andrew McCarthy_: Mueller's Questions Indicate He Lacks Evidence of a Crime
     
-*   _Eli Lake_: Israel Exposes Iran's Lies, and the Limits of U.S. Intelligence
+*   _Bonnie Kristian_: Will John Bolton Sabotage Peace in Korea?
     
-*   _Noemie Emery_: Basic Rights No Longer Exist in the Country of England
+*   _Gordan Chang_: Why North Korea Will Give Up Its Nuclear Weapons
     
-*   _Emily Atkin_: The EPA Is Acting Like Big Tobacco
+*   _Jeanne Mancini_: This Is the Pro-Life Generation
     
-*   _Stephen Moore_: Goodbye, OPEC: America Is on the Way to Energy Dominance
+*   _Dawn Huckelbridge_: Trump Is Putting Anti-Choice Extremists Back in Power
     
-*   _Vikas Bajaj_: A Reckoning for Apu, 'The Simpsons' and Brownface
+*   _Posner &. Weyl_: The Real Villain Behind Our New Gilded Age
     
-*   _Andrew Klavan_: The PC Police and the Little Tragedy of Hank Azaria
+*   _Craig Shirley_: Why the Right Should Oppose the Sinclair-Tribune Merger
     
-*   _Benny Avni_: Iran's Past Lies Are Very Important Now
+*   _Thomas Friedman_: The U.S. and China Are Finally Having It Out
     
-*   _Peter Beinart_: Trump May Already Be Violating the Iran Deal
+*   _David Harsanyi_: The Short and Ugly History of the Disastrous Iran Deal
     
-*   _Lee Habeeb_: Life in the Bubble Has Finally Caught Up With Journalists
+*   _Charlie Savage_: Answering Mueller's Questions Could Be Minefield for Trump
     
-*   _Adam Conover_: Michelle Wolf Did What Comedians Are Supposed to Do
+*   _Mark Penn_: How About a Few Questions for Robert Mueller?
     
-*   _Megan Garber_: The Slow, Awkward Death of the WH Correspondents' Dinner
+*   _Scot Lehigh_: Nancy Pelosi Won't Bet Her Job on a Democratic Win
     
-*   _Newt Gingrich_: The Horror in Britain, a Supposedly Free Country
+*   _James Arkin_: WV Senate Candidates Spar in Rancorous GOP Debate
     
-*   _Froma Harrop_: UK Government Is Correct to Overrule Parents' Wishes
+*   _Max Brooks_: Are We Really Ready for a Cyberattack?
     
-*   _Caitlin Huey-Burns_: Trump-Tester Dust-Up Could Heat Up MT Senate Race
+*   _Neil Chatterjee_: Thinking Through an Attack on Our Electric Grid
     
-*   _Charles Hurt_: Tester: The New Giant, Pasty Face for Term Limits
+*   _Robert Reich_: How to Stop Trump
     
-*   _Steve Cavendish_: Can a Tennessee Democrat Pull a Doug Jones?
+*   _Dennis Prager_: Fear of the Left Is Most Powerful Force in America
     
-*   _Michael Barone_: Is Dem Support Among Minorities Beginning to Slip?
+*   _Amy Zimmerman_: Inside Kanye's Disturbing On-Air Meltdown
     
-*   _Ira Shapiro_: McConnell's Broken Senate
+*   _Ben Shapiro_: Oh, Say Kanye Sees
     
-*   _Ilan Wurman_: On Presidents vs. Special Counsels, Scalia Got It Right Long Ago
+*   _Garrett Graff_: Robert Mueller Likely Knows How This All Ends
     
 
 *   Previous
@@ -257,11 +257,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Bitter Republican Primary May Benefit Donnelly in Indiana
 *   Trump-Tester Dust-Up Could Heat Up MT Senate Race
-*   Netanyahu Speech: "I'm Here to Tell You One Thing: Iran Lied"
-*   Kim Jong Un Steps Across Korean Border, Makes History
-*   Republican Concerns Mount in Arizona Despite 8th District Win
+*   W.Va. Senate Candidates Spar in Rancorous Republican Debate
+*   Rosenstein: Department of Justice Is Not Going to Be Extorted
+*   Israeli PM Presents Evidence Iran Lied About Nuclear Program
+*   Bitter Republican Primary May Benefit Donnelly in Indiana
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -276,26 +276,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalMonmouth
-    *   Approve45
-    *   Disapprove48Disapprove +3
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
-*   Direction of CountryMonmouth
-    *   Right Direction35
-    *   Wrong Track57Wrong Track +22
-*   Missouri Senate - Hawley vs. McCaskillEmerson
-    *   McCaskill45
-    *   Hawley45Tie
+*   New Hampshire Governor - Sununu vs. KellySuffolk\*
+    *   Sununu48
+    *   Kelly27Sununu +21
+*   New Hampshire Governor - Sununu vs. MarchandSuffolk\*
+    *   Sununu49
+    *   Marchand25Sununu +24
+*   New Hampshire Governor - Democratic PrimarySuffolk
+    *   Kelly21
+    *   Marchand19Kelly +2
+*   New York Governor - Democratic PrimaryQuinnipiac
+    *   Cuomo50
+    *   Nixon28Cuomo +22
 
 More Latest Polls In The News
 
+*   Full Interview: Hannity Talks To Rudy Giuliani About Trump &. Mueller, Clinton, Stormy Daniels
+*   Dershowitz vs. Toobin: Trump Won't Take Fifth, Will Sit Down With Mueller Team For Immunity
+*   Pompeo: We Have An Unprecedented Historic Opportunity For Peace In Korea
 *   Deputy AG Rod Rosenstein: "The Department Of Justice Is Not Going To Be Extorted"
 *   Tucker Carlson vs. Jorge Ramos: "U.S. Becoming A Hostile &. Dangerous Country For Refugees &. Immigrants"
-*   CNN's Chris Cuomo To Netanyahu: Time For Israel To "Come Clean" About Its Nuclear Capability
-*   Pat Buchanan: "Bibi Netanyahu Wants The U.S. To Fight A War With Iran On Behalf Of Israel"
-*   Israeli PM Netanyahu Reveals Documents Proving Iranian Nuclear Program. Deal Is Based On "Deception"
 
 *   Politics
 *   Policy
