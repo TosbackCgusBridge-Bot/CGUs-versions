@@ -1,4 +1,4 @@
-_Last revised: March 2017_  
+_Last revised: April 2018_  
 
 1.Welcome to CBC/Radio-Canada's Digital Services
 
@@ -180,11 +180,11 @@ You are liable for any damage arising from not complying with these Terms of Use
     
 2.  **Privacy**
     
-    We are committed to protecting your privacy and the confidential information of members of the CBC Testing Community. We will only use your personal information for the purposes of conducting activities related to the CBC Testing Community.
+    We are committed to protecting your privacy and the confidential information of members of the CBC Testing Community. We will only use your personal information and any comments or feedbacks you may give us for the purposes of conducting activities related to the CBC Testing Community in accordance with the federal Privacy Act and CBC/Radio-Canada's Personal Information policy.
     
 3.  **Confidentiality**
     
-    Occasionally, we may share confidential information with you that will be clearly marked as such ("Confidential Information"). You agree not to disclose to others, including other members of the CBC Testing Community, any Confidential Information. You cannot post any Confidential Information on social media nor transmit, publish or distribute any information related to our Activities or the CBC Testing Community. In some cases, we may ask you to destroy or return Confidential Information. You will be expected to fulfil the request within 15 days. In the event that you discover unauthorized use of Confidential Information, you must notify CBC immediately and help in every reasonable way as we attempt to reclaim the same. Should you breach the CBC Testing Terms, monetary damages may prove inadequate and CBC may exercise its right to seek equitable relief. If you are found to have breached the CBC Testing Terms, CBC may demand you pay for all costs and legal expenses if litigation is necessary.
+    Any and all information and documents we share with you related to our Activities or the CBC Testing Community shall be kept confidential ("Confidential Information"). You agree not to disclose to others, including other members of the CBC Testing Community, any Confidential Information. You cannot post any Confidential Information on social media nor transmit, publish or distribute any information related to our Activities or the CBC Testing Community. In some cases, we may ask you to destroy or return Confidential Information. You will be expected to fulfil the request within 15 days. In the event that you discover unauthorized use of Confidential Information, you must notify CBC immediately and help in every reasonable way as we attempt to reclaim the same. Should you breach the CBC Testing Terms, monetary damages may prove inadequate and CBC may exercise its right to seek equitable relief. If you are found to have breached the CBC Testing Terms, CBC may demand you pay for all costs and legal expenses if litigation is necessary.
     
 4.  **Intellectual Property**
     
