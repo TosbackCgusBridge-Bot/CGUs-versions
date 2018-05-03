@@ -1,5 +1,7 @@
 Back to Help Center PRIVACY POLICY
 
+Last Updated November 2017
+
 We want you to be familiar with how we collect, use and disclose Personal Information (as defined below). This Privacy Policy describes our practices in connection with Personal Information that we collect through websites operated by us or our U.S. affiliates, from which you are accessing this Privacy Policy (the "**Websites**"), through the software applications made available by us for use on or through computers and mobile devices (the "**Apps**"), through our social media pages and apps, through HTML-formatted email messages that we send to you that link to this Privacy Policy, as well as through your offline interactions with us where notice is legally required (collectively, including the Websites, Apps, Social Media Pages and offline interactions, the "**Services**"). By using the Services, you agree to this Privacy Policy.
 
 PERSONAL INFORMATION
