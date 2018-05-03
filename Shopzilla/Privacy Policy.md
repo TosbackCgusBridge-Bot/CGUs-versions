@@ -8,6 +8,12 @@ Connexity
     *   Online Intelligence
     *   Research &. Data Solutions
     
+    *   audience targeting
+    *   Overview
+    *   Our Audiences
+    *   Your Audiences
+    *   Modeled Audiences
+    
     *   cpc listings
     *   Retailer Listings
     *   Retailer Site Monetization
