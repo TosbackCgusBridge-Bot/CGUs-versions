@@ -97,4 +97,4 @@ Southport PR8 1LJ
 
 By Email
 
-readerservices@sitpub.com
+readerservices@situationpublishing.com
