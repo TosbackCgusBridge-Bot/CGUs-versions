@@ -6,7 +6,7 @@ Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
 Menu Close Menu Close
 
 *   Products
-    *   Laptops &. 2-in-1s Explore All Explore All Narrow your choices by category and find the laptop you truly want
+    *   Laptops &. 2-in-1s VIEW ALL LAPTOPS Explore All Narrow your choices by category and find the laptop you truly want
         
         *   Thinkpad Laptops Thinkpad Laptops Enterprise-level performance. Premium reliability.
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
@@ -36,44 +36,59 @@ Menu Close Menu Close
             *   300e Chromebook
             *   500e Chromebook
         
-        *   *   Lots of options, but only one you, right? Narrow your choices by category, and find the laptop you truly want.
-                
-                Explore All Laptops &. Ultrabooks >.
+        *   *   *   BY USE
+                    *   Work
+                    *   Entertainment
+                    *   Student
+                    *   Gaming
+                    *   EverydayVIEW ALL
+                *   BY TYPE
+                    *   Traditional laptops
+                    *   2-in-1
+                    *   Thin and light
+                    *   Gaming
+                    *   ChromebookVIEW ALL
+                *   BY SPECS
+                    *   Screen Size
+                    *   Memory
+                    *   Processor
+                    *   Price
+                    *   More...VIEW ALLVIEW ALL LAPTOPS >.
         *   *   Enterprise-level performance.  
                 Investment-wise durability.  
                 Premium reliability.
                 
-                Learn more about the ThinkPad family >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Stylish design.  
                 Impressive performance.  
                 Innovative 2-in-1 versatility.
                 
-                Learn more about the Yoga family >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Broad portfolio.  
                 Entry-level to gaming powerhouse.  
                 Laptops and 2-in-1s.
                 
-                Learn more about the IdeaPad family >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Detachable 2-in-1s.  
                 Great for work &. play.  
                 Ultraportable.
                 
-                Explore all 2-in-1s >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Innovative design, responsive performance.
                 
-                Learn more about the Student laptops >.
+                VIEW ALL LAPTOPS >.
         
-        *   *   Explore All Gaming Laptops >.
+        *   *   VIEW ALL LAPTOPS >.
         
-        *   *   Chromebooks >.
+        *   *   VIEW ALL LAPTOPS >.
         
-        *   *   SMALL BUSINESS LAPTOPS >.
+        *   *   VIEW ALL LAPTOPS >.
         
-        *   *   ThinkPad 25 >.
+        *   *   VIEW ALL LAPTOPS >.
         
     *   Desktops &. All-In-Ones Explore All Explore All Plenty to consider before making your purchase. Let us help.
         
@@ -266,7 +281,6 @@ Menu Close Menu Close
             *   ThinkAgile SX for Microsoft Azure Stack
             *   ThinkAgile SX for Nutanix
             *   ThinkAgile HX Series
-            *   VMware vSAN and VCF ReadyNodes
         *   *   Explore Solutions
         *   *   Explore Services
         *   *   Lenovo
@@ -365,13 +379,13 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Built to perform. Engineered to endure.
+Multiplayer lightsaber duels have arrived.
 
-Now available!
+Learn more >.
 
-All Aluminum chassis, 10-point multitouch display with top-of-the-line NVIDIA® GeForce GTX 1050. Design. Game. Work. Play.
+Price, Durability, Features, Looks Best home laptops from Lenovo
 
-Now available!
+Shop Now >.
 
 Lenovo in the Data Center
 
@@ -385,7 +399,7 @@ Learn More >.
 
 TODAY'S SALES
 
-Save up to $550 through May 3.
+Save up to $600 through May 10.
 
 NATIONAL BUSINESS WEEK
 
@@ -393,14 +407,14 @@ Celebrate National Business Week with savings on our best selling business PCs. 
 
 Gaming Flash Sale Live Now! 
 
-Save up to $550 on select gaming PC’s and accessories. Limited time only. Sale ends April 30.
+Save up to $550 on select gaming PC’s and accessories. Limited time only. Sale ends May 5.
 
 Special financing offer! 
 
 Choose Klarna at Checkout. Valid on orders $300-$2400. Offer ends May 9.
 
-Buy any PC and get Star Wars Jedi Challenges for only $99.  
-Limited Time Only! Sale ends May 5.
+ThinkSmart Hub 500  
+The Smarter Way to Collaborate
 
 LAPTOPS
 
@@ -510,7 +524,7 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -522,4 +536,4 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE
+SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
