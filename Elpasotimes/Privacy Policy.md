@@ -1,4 +1,4 @@
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogSUBSCRIBE NOW$0.99/1st month
+SUBSCRIBE NOW$0.99/1st month
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dial
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPhotos released of women accused in murder caseCrime2 arrested after gun fired in 'road rage' caseCrime3 killed, 8 wounded in Juárez bar shootingsLocalEl Paso refinery part of pending $23.3B dealBusiness'El Presidente' of Bandidos testifies at trialCrimeTeen arrested after shots fired in NortheastCrimeSprouts hiring 140 people for 3rd El Paso storeNewsTxDOT says Downtown bridges must be replacedLocalTexas, 6 more states sue US government to end DACAPoliticsTrump border wall, security measures questionedImmigrationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowCohen Stadium will be demolished for new planLocalJuárez recycling plant fire could affect air: MayorNewsCourt will hear Daniel Villegas murder caseNewsShot officer from El Paso slowly recoveringCrimePhotos released of women accused in murder caseCrimeTeen arrested after shots fired in NortheastCrimeEl Paso chefs are living out food truck dreamsDiningMan allegedly lies about $4,000 home burglaryCrimeWife slashed husband for ogling other women: PoliceTexasregion2 arrested after gun fired in 'road rage' caseCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -126,7 +126,7 @@ Services
 *   Advertising Terms and Conditions
 *   Community Rules
 *   Ad Choices
-*   Privacy Notice
+*   Privacy Notice/Your California Privacy Rights
 *   Member Guide
 *   Our Ethical Principles
 *   Accessibility Support
@@ -142,4 +142,4 @@ Our Partners
 *   Thanksgiving.com
 *   Grateful
 
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
+close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
