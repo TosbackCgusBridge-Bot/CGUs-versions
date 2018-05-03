@@ -20,7 +20,10 @@ Share this page:
 *   Security &. Privacy Tips
 *   Doing Our Part
     *   Account Number Protection
-*   Privacy Policy - FedEx Digital Platforms
+*   Privacy Policies
+    *   Global Privacy Policy
+        *   Global Privacy Policy FAQs
+    *   FedEx Digital Platforms
 
 More Resources
 
