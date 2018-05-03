@@ -52,23 +52,17 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Where are you located? Here are our top cities
+*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
     
-    *   New York, NY
-    *   Los Angeles, CA
-    *   Atlanta, GA
-    *   Chicago, IL
-    *   Austin, TX
-    *   Miami, FL
-    *   San Francisco, CA
-    *   Phoenix, AZ
-    *   Washington, DC
-    *   Boston, MA
-    *   San Diego, CA
-    *   Seattle, WA
-    *   Edison, NJ
-    *   Houston, TX
-    *   Tampa, FL
+    *   Angelika Film Center &. Cafe 5321 E. Mockingbird Lane
+    *   The Hoglund Foundation Theater 2201 N. Field St.
+    *   Alamo Drafthouse Dallas 1005 S Lamar St
+    *   Magnolia Cinema 3699 McKinney Ave.
+    *   Highland Park Village 32 Highland Park Village
+    *   Sundown at Granada 3520 Greenville Ave
+    *   Texas Theatre 231 W. Jefferson Blvd.
+    *   Granada Theater 3524 Greenville Ave.
+    *   Inwood Theatre 5458 W. Lovers Lane
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
@@ -83,27 +77,44 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Summer Movie Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Join FandangoVIP Get Points + Save
+*   My VIP Account Top Movies Near 75201 Edit Zip Code
     
-    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
+    See all movies My Theaters
+*   Save your favorite theater and we'll make sure it's front and center for you.
     
-    Learn more Insider Perks
+Manage my theater list Insider Perks
+
+*   Please check back - more exciting offers are coming soon.
     
-    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
-    
-    Learn more Partner Rewards
-    
-    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
-    
-    Learn more Refunds + Exchanges
-    
-    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
-    
-    Learn more Join Fandango VIP For Free
-    
-    (It only takes a few seconds to join)
-    
-    Already a Fandango VIP? Sign In
+
+See all insider perks My Fandango
+
+See my VIP+ Points
+
+For warp speed checkout, securely add your credit card.
+
+Add your  
+Credit Card Manage my VIP account Join FandangoVIP Get Points + Save
+
+More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
+
+Learn more Insider Perks
+
+Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+
+Learn more Partner Rewards
+
+Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+
+Learn more Refunds + Exchanges
+
+We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
+
+Learn more Join Fandango VIP For Free
+
+(It only takes a few seconds to join)
+
+Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms
 
@@ -325,4 +336,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office. advertisementadvertisementadvertisement
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
