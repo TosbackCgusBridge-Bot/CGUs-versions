@@ -33,11 +33,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 6 OF COUPON CODE 12GIFTS ENDS IN
-
-\*offer ends 5/2/18
-
-Days 0 0 0 0 hours 4 4 0 0 mins 4 4 1 0 secs 30-50% OFF SELECT DRESSESShop All30-50% OFF SELECT DRESSESShop All
+Near YouFind a StoreBack FINAL HOURS! COUPON CODE 12GIFTS ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 4 4 2 2 secs 30-50% OFF SELECT DRESSESShop All30-50% OFF SELECT DRESSESShop All
 
 *   $29.99 sale
     
@@ -49,16 +45,16 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 4 1 0 secs 30-50% OFF SELECT DRESSESShop All30
     was $120
     
     R &. M Richards 3/4 Sleeve Jacket Dress(4)
+*   $49.99 sale
+    
+    was $74
+    
+    Melrose 3/4 Sleeve Lace Fit &. Flare Dress(4)
 *   $64.99 sale
     
-    was $89 - $90
+    was $89
     
     Melrose Short Sleeve Fit &. Flare Dress(8)
-*   $89.99 sale
-    
-    was $120
-    
-    Melrose Sleeveless Evening Gown(17)
 *   $39.99 sale
     
     was $74
@@ -80,14 +76,14 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     
     was $124.98
     
-    Limited Time Special - 1/10 CT. T.W. Double Halo Diamond Stud Earrings in Sterling Silver(625)
+    Limited Time Special - 1/10 CT. T.W. Double Halo Diamond Stud Earrings in Sterling Silver(627)
 *   LIMITED TIME SPECIAL!
     
     $19.99 sale
     
     was $124.98
     
-    LIMITED TIME SPECIAL! 1/10 CT. T.W. Double Halo Diamond Pendant Necklace in Sterling Silver(372)
+    LIMITED TIME SPECIAL! 1/10 CT. T.W. Double Halo Diamond Pendant Necklace in Sterling Silver(373)
 *   LIMITED TIME SPECIAL!
     
     $19.99 sale
@@ -105,49 +101,57 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
 
 INTRODUCING LIONEL RICHIE HOMEShop AllINTRODUCING LIONEL RICHIE HOMEShop All
 
-*   $260 - $300
+*   $129.99 - $149.99 sale
+    
+    was $260 - $300
     
     Lionel Richie Jacquard 3-pc. Comforter Set
-*   $200 - $240
+*   $99.99 - $119.99 sale
+    
+    was $200 - $240
     
     Lionel Richie Black 3-pc. Coverlet Set
-*   $200 - $240
+*   $129.99 - $149.99 sale
     
-    Lionel Richie Solid 3-pc. Coverlet Set
-*   $200 - $240
-    
-    Lionel Richie Light Blue 3-pc. Coverlet Set
-*   $260 - $300
+    was $260 - $300
     
     Lionel Richie Woven Stripe 3-pc. Comforter Set
+*   $99.99 - $119.99 sale
+    
+    was $200 - $240
+    
+    Lionel Richie Solid 3-pc. Coverlet Set
+*   $119.99 - $200
+    
+    Lionel Richie Light Blue 3-pc. Coverlet Set
 
 NEW MISSY STYLESShop AllNEW MISSY STYLESShop All
 
-*   $29.99 sale
-    
-    was $60
-    
-    a.n.a 3/4 Sleeve Embroidered Floral Shift Dress
-*   $13.99 sale
-    
-    was $29
-    
-    a.n.a. Strapback Tank
-*   $19.99 sale
-    
-    was $37
-    
-    Liz Claiborne Flutter Sleeve Pleated Neck Knit Blouse
-*   $9.99 sale
-    
-    was $29
-    
-    a.n.a. Twist Front Top(5)
-*   $39.99 sale
+*   $49.99 sale
     
     was $74
     
-    Worthington Lace Shift Dress
+    BE BY CHETTA B Sleeveless Shirt Dress
+*   $49.99 sale
+    
+    was $74
+    
+    Danny &. Nicole 3/4 Off the Shoulder Sleeve Gingham Shift Dress
+*   $18.50 sale
+    
+    was $37
+    
+    Bold Elements Cut Out Cold Shoulder Top(2)
+*   $22 sale
+    
+    was $44
+    
+    Belle + Sky Grommet Back Cardigan
+*   $22 sale
+    
+    was $44
+    
+    Belle + Sky Cape sleeve Tie Front Blouse(1)
 
 SAVE ON ADIDASShop AllSAVE ON ADIDASShop All
 
