@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 17%  17%  17%  17%  Arrest Records &. Driving Infractions
+What is PeekScore? Public Records &. Background Checks 18%  18%  18%  18%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -107,7 +107,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 16%  Twitter 9% 
+Facebook 18%  Twitter 8% 
 
 *   CDC - CDCgov
     
@@ -153,7 +153,7 @@ Facebook 16%  Twitter 9% 
     
 *   Show Less ...
 
-Instagram 9% 
+Instagram 8% 
 
 *   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
     
@@ -219,7 +219,7 @@ Instagram 9% 
     
 *   Show Less ...
 
-Pinterest 16%  Wikipedia 9% 
+Pinterest 18%  Wikipedia 8% 
 
 *   Jumper
     
@@ -234,14 +234,14 @@ Pinterest 16%  Wikipedia 9% 
     Purpose. As the World Wide Web became a genuine medium in which to sell products and services, electronic commerce websites tried to collect more information about the people who purchased their merchandise.
     
 
-Google+ 9% 
+Google+ 8% 
 
 *   Privacy Policy - Google+
     
     Post has attachment. Privacy Policy. Public... 1h · fgfgfg. fgfgfg. privacypolicyxvideo.blogspot.com. Add a comment... no plus ones. no shares. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while more posts are being loaded.
     
 
-Linkedin 16%  Music 9% 
+Linkedin 18%  Music 8% 
 
 *   Pandora
     
@@ -287,7 +287,7 @@ Linkedin 16%  Music 9% 
     
 *   Show Less ...
 
-Photo Albums 9% 
+Photo Albums 8% 
 
 *   Flickr | Oath Policies
     
@@ -302,7 +302,7 @@ Photo Albums 9% 
     Flickr (pronounced "flicker") is an image hosting service and video hosting service.It was created by Ludicorp in 2004 and is currently owned by SmugMug. In addition to being a popular website for users to share and embed personal photographs and an online community, the service is widely used by photo researchers and by bloggers to host …
     
 
-Myspace 9% 
+Myspace 8% 
 
 *   Privacy Policy - 49086242
     
@@ -326,7 +326,7 @@ Myspace 9% 
     
 *   Show Less ...
 
-Web Search 16%  Images 9% 
+Web Search 18%  Images 8% 
 
 20
 
