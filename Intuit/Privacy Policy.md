@@ -33,33 +33,33 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack FINAL HOURS! COUPON CODE 12GIFTS ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 4 4 2 2 secs 30-50% OFF SELECT DRESSESShop All30-50% OFF SELECT DRESSESShop All
+Near YouFind a StoreBackUP TO 60% OFF TOPSShop AllUP TO 60% OFF TOPSShop All
 
-*   $29.99 sale
+*   $5 sale
     
-    was $60
+    was $17
     
-    a.n.a 3/4 Sleeve Embroidered Floral Shift Dress
-*   $89.99 sale
+    ana Scoop Neck Tee(68)
+*   $5 - $5.99 sale
     
-    was $120
+    was $14
     
-    R &. M Richards 3/4 Sleeve Jacket Dress(4)
-*   $49.99 sale
+    St. John's Bay Short Sleeve Crew Neck T-Shirt-Womens(49)
+*   $5 - $5.99 sale
     
-    was $74
+    was $14
     
-    Melrose 3/4 Sleeve Lace Fit &. Flare Dress(4)
-*   $64.99 sale
+    St. John's Bay Short Sleeve V Neck T-Shirt-Womens(40)
+*   $17.99 sale
     
-    was $89
+    was $29
     
-    Melrose Short Sleeve Fit &. Flare Dress(8)
-*   $39.99 sale
+    a.n.a. Strapback Tank
+*   $19.99 sale
     
-    was $74
+    was $37
     
-    Worthington Lace Shift Dress
+    a.n.a. Surplice Long Sleeve Blouse(27)
 
 UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
 
@@ -69,119 +69,119 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     
     was $49.98
     
-    Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring Set
+    Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring Set(3)
 *   LIMITED TIME SPECIAL!
     
-    $19.99 sale
+    $121.87 sale
     
-    was $124.98
+    was $406.23
     
-    Limited Time Special - 1/10 CT. T.W. Double Halo Diamond Stud Earrings in Sterling Silver(627)
+    DiamonArt® Sterling Silver 1 7/8 CT. T.W. Cubic Zirconia Bridal Ring Set(125)
 *   LIMITED TIME SPECIAL!
     
-    $19.99 sale
+    $81.25 sale
     
-    was $124.98
+    was $270.82
     
-    LIMITED TIME SPECIAL! 1/10 CT. T.W. Double Halo Diamond Pendant Necklace in Sterling Silver(373)
+    Enchanted Disney Fine Jewelry Sterling Silver Gold Over Silver 18 Inch Chain Necklace(3)
 *   LIMITED TIME SPECIAL!
     
-    $19.99 sale
+    $437.50 sale
     
-    was $124.98
+    was $1,458.32
     
-    Womens 1/10 CT. T.W. White Diamond Sterling Silver Pendant Necklace(92)
+    1/2 CT. T.W. Diamond 10K White Gold Anniversary Band(8)
 *   LIMITED TIME SPECIAL!
     
-    $10 sale
+    $1,124.99 sale
     
-    was $49.98
+    was $3,749.98
     
-    Limited Time Special! Lab Created White Sapphire Stud Earrings in Sterling Silver(96)
+    Cherished Hearts™ 1 CT. T.W. Certified Diamond Heart Bridal Ring Set(12)
 
-INTRODUCING LIONEL RICHIE HOMEShop AllINTRODUCING LIONEL RICHIE HOMEShop All
+40 - 60% OFF SELECT DRESSESShop All40 - 60% OFF SELECT DRESSESShop All
 
-*   $129.99 - $149.99 sale
+*   $27.99 sale
     
-    was $260 - $300
+    was $60
     
-    Lionel Richie Jacquard 3-pc. Comforter Set
-*   $99.99 - $119.99 sale
+    a.n.a 3/4 Sleeve Embroidered Floral Shift Dress
+*   $69.99 sale
     
-    was $200 - $240
+    was $120
     
-    Lionel Richie Black 3-pc. Coverlet Set
-*   $129.99 - $149.99 sale
-    
-    was $260 - $300
-    
-    Lionel Richie Woven Stripe 3-pc. Comforter Set
-*   $99.99 - $119.99 sale
-    
-    was $200 - $240
-    
-    Lionel Richie Solid 3-pc. Coverlet Set
-*   $119.99 - $200
-    
-    Lionel Richie Light Blue 3-pc. Coverlet Set
-
-NEW MISSY STYLESShop AllNEW MISSY STYLESShop All
-
-*   $49.99 sale
+    R &. M Richards 3/4 Sleeve Jacket Dress(4)
+*   $42.99 sale
     
     was $74
     
-    BE BY CHETTA B Sleeveless Shirt Dress
-*   $49.99 sale
+    Melrose 3/4 Sleeve Lace Fit &. Flare Dress(4)
+*   $17 sale
+    
+    was $44
+    
+    a.n.a. Bell Sleeve Shift Dress(17)
+*   $34.99 sale
     
     was $74
     
-    Danny &. Nicole 3/4 Off the Shoulder Sleeve Gingham Shift Dress
-*   $18.50 sale
+    Worthington Lace Shift Dress
+
+SAVE ON SMART WATCHESShop AllSAVE ON SMART WATCHESShop All
+
+*   $49.99 sale
+    
+    was $80
+    
+    Nuband Activ+ Activity and Sleep Tracking Sport Watch(2)
+*   $39.99 sale
+    
+    was $59
+    
+    Nuband Activity and Sleep Tracker(2)
+*   $49.99 sale
+    
+    was $80
+    
+    Nuband Activity and Sleep Tracking Sport Watch(22)
+*   $49.99 sale
+    
+    was $80
+    
+    Nuband Activity and Sleep Tracking Sport Watch(43)
+*   $69.99 sale
+    
+    was $99.99
+    
+    Nuband I Touch Screen Fitness and Notification Band(1)
+
+UP TO 50% OFF PAJAMAS FOR HERShop AllUP TO 50% OFF PAJAMAS FOR HERShop All
+
+*   $14.99 sale
+    
+    was $34
+    
+    Liz Claiborne Capri Pajama Set(11)
+*   $17.99 sale
     
     was $37
     
-    Bold Elements Cut Out Cold Shoulder Top(2)
-*   $22 sale
+    Adonna Woven Sleeveless Square Neck Printed Nightgown(6)
+*   $12.99 - $17.99 sale
     
-    was $44
+    was $34 - $37
     
-    Belle + Sky Grommet Back Cardigan
-*   $22 sale
+    Adonna Woven Sleeveless Nightgown(5)
+*   $14.99 sale
     
-    was $44
+    was $34
     
-    Belle + Sky Cape sleeve Tie Front Blouse(1)
-
-SAVE ON ADIDASShop AllSAVE ON ADIDASShop All
-
-*   $49.99 sale
+    Adonna Lace Trim Capri Pajama Set(4)
+*   $22.99 - $24.99 sale
     
-    was $55
+    was $49 - $54
     
-    Adidas Courtset Womens Sneakers(2)
-*   LIMITED TIME SPECIAL!
-    
-    $48.75 sale
-    
-    was $65
-    
-    adidas Advantage Womens Sneakers(106)
-*   $59.99 sale
-    
-    was $70
-    
-    adidas Cloudfoam Pure Womens Sneakers(3)
-*   $59.99 sale
-    
-    was $65
-    
-    adidas QT Racer Womens Lace Sneakers(3)
-*   $22.50 sale
-    
-    was $30
-    
-    adidas® Adissage Womens Slides(24)
+    Adonna Short-Sleeve Snap Front Duster Robe(157)
 
 Shop and Save at JCPenney
 
@@ -249,7 +249,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Instagram
+*   Google Plus
 *   Youtube
 *   JCPenney Blog
 
