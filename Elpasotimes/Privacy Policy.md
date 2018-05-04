@@ -73,7 +73,7 @@ SUBSCRIBE NOW$0.99/1st month
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowCohen Stadium will be demolished for new planLocalJuárez recycling plant fire could affect air: MayorNewsCourt will hear Daniel Villegas murder caseNewsShot officer from El Paso slowly recoveringCrimePhotos released of women accused in murder caseCrimeTeen arrested after shots fired in NortheastCrimeEl Paso chefs are living out food truck dreamsDiningMan allegedly lies about $4,000 home burglaryCrimeWife slashed husband for ogling other women: PoliceTexasregion2 arrested after gun fired in 'road rage' caseCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowAK-47 fired from SUV at car in street shootingCrimeMan mugged at gunpoint. 3 arrestedCrimeNew details in road rage shooting on ZaragozaCrimeMan sentenced to prison in shooting deathCrime185 jobs open in El Paso summer youth programsNewsBel Air students' design in Vans' competitionEducationCohen Stadium will be demolished for new planLocalJuárez recycling plant fire could affect air: MayorNewsCourt will hear Daniel Villegas murder caseNewsMan allegedly lies about $4,000 home burglaryCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -141,5 +141,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
