@@ -212,8 +212,7 @@ CUSTOMER SERVICE
 *   Terms of Sale
 *   Recalls
 *   Privacy Statement
-*   AdChoices
-*   Replacement parts
+ADCHOICES*   Replacement parts
 *   Submit Product Ideas
 
 **\*Free shipping offer is valid on orders totaling $50 or more after discounts and before shipping, handling, and/or taxes are added, and applies automatically at checkout. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/31/2018. We reserve the right to change or discontinue this offer at any time.**
