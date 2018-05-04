@@ -52,24 +52,30 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   Angelika Film Center &. Cafe 5321 E. Mockingbird Lane
-    *   The Hoglund Foundation Theater 2201 N. Field St.
-    *   Alamo Drafthouse Dallas 1005 S Lamar St
-    *   Magnolia Cinema 3699 McKinney Ave.
-    *   Highland Park Village 32 Highland Park Village
-    *   Sundown at Granada 3520 Greenville Ave
-    *   Texas Theatre 231 W. Jefferson Blvd.
-    *   Granada Theater 3524 Greenville Ave.
-    *   Inwood Theatre 5458 W. Lovers Lane
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Every Record Broken by 'Avengers: Infinity War' Read More
-    *   John Cena and Dwayne Johnson to Team for 'The Janson Directive' Read More
-    *   New 'Ant-Man and the Wasp' Trailer Reveals Even More Action and Comedy Read More
+    *   Everything We Know About 'Avengers 4' So Far Read More
+    *   Watch First, Sleek 'Robin Hood' Trailer. Here's Everything We Know Read More
+    *   Paul Giamatti Joins Dwayne Johnson's 'Jungle Cruise'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -77,44 +83,27 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Summer Movie Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 75201 Edit Zip Code
+*   My VIP Account Join FandangoVIP Get Points + Save
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Insider Perks
     
-
-See all insider perks My Fandango
-
-See my VIP+ Points
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Get Points + Save
-
-More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
-
-Learn more Insider Perks
-
-Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
-
-Learn more Partner Rewards
-
-Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
-
-Learn more Refunds + Exchanges
-
-We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+    
+    Learn more Partner Rewards
+    
+    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+    
+    Learn more Refunds + Exchanges
+    
+    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms
 
@@ -279,9 +268,9 @@ Offers
     
     EARN 150 VIP+ POINTS FOR EVERY TICKET YOU BUY. 600 VIP+ Points unlocks a $6 reward. SEE DETAILS
     
-*   'Deadpool 2' Gift With Purchase
+*   'Solo: A Star Wars Story' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Deadpool 2' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive 'Solo: A Star Wars Story' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Avengers: Infinity War' Gift With Purchase
     
