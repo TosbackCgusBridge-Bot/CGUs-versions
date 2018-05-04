@@ -8,65 +8,83 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Rebecca Minkoff Up to 50% Off
+    *   Rebecca Minkoff Clothing Up to 50% Off
+    *   Rebecca Minkoff Shoes Up to 60% Off
+    *   Rebecca Minkoff Watches &. Jewelry Up to 60% Off
+    *   philosophy
+    *   Trask Up to 50% Off
+    *   Velvet by Graham &. Spencer
+    *   Nue by Shani
+    *   Keds Under $40
+    *   Matt Bernson
+    *   Emory Park
+    *   Dresses Under $30
+    *   Poolside Pretty: Swimsuits &. More
+    *   Season's Best Bralettes Under $30
+    *   Hairdo Hair Extensions &. Wigs
+    *   Slate &. Stone
+    *   Men's Premium Denim ft. J Brand
+    *   Dr. Martens Men
+    *   Cohesive &. Co. Under $30
+    *   Bugatchi Shoes
+    *   Free Shipping: Eye-Catching Wall Art &. More
+    *   Free Shipping: On-Trend Accent Furniture
+    *   Free Shipping: Boho-Chic Decor
+    *   Frenchie Mini Couture
+    *   Dress-Up Fun: Superhero &. Princess Costumes &. More
+    *   Ready, Set, Spring: HUDSON Kids &. More
+    *   Skechers Kids
+    *   Toy Box Must-Haves
     *   The Shoe Shop: Sandals
-    *   Day Dresses We Love Up to 75% Off
     *   The Shoe Shop: Sneakers
     *   The Shoe Shop: Espadrilles
-    *   Charms for Mom: ALEX AND ANI Starting at $15
-    *   Siwy Denim
-    *   TOV
     *   The Shoe Shop: Mules &. Slides
     *   The Shoe Shop: Heels
     *   Men's Shoe Shop: Loafers, Sneakers &. More
     *   Girls' Shoe Shop: Sandals, Sneakers &. More
-    *   Boys' Shoe Shop: Sneakers, Slip-Ons &. More
+    *   Day Dresses We Love Up to 75% Off
+    
+    *   Siwy Denim
+    *   Charms for Mom: ALEX AND ANI Starting at $15
+    *   TOV
     *   Spring to Summer Faves: Haute Rogue &. More
     *   bareMinerals
     *   Z&L Europe
-    *   Bed|Stu
-    *   Valentino by Mario Valentino
     *   DKNY Lingerie
+    *   Bed|Stu
+    *   Designer Sun Up to 65% Off
     *   Just Live Active
     *   Betsey Johnson Starting at $40
-    *   Designer Sun Up to 65% Off
+    *   Valentino by Mario Valentino
     *   NYX Cosmetics ft. Love You So Mochi Palettes
     *   Algenist Skin Care
     *   Fossil Handbags
     *   Diamonds, 14K Gold &. More Starting at $45
-    *   Tommy Hilfiger Starting at $30
     *   Free Shipping: Pillows, Art &. More from $10
     *   From $10: Gadgets for the Tech-Obsessed
     *   Perry Ellis Suits &. More Under $120
-    *   TUMI
     *   Leather Favorites for Him ft. Frye
     *   Rockport Men
     *   Soul Star
     *   Hatley
     *   Mimi &. Maggie
     *   To the Beach We Go: Kids' Swim Styles
-    
     *   Beach Bound: Kids' Sandals Starting at $10
+    *   Tommy Hilfiger Starting at $30
+    *   Boys' Shoe Shop: Sneakers, Slip-Ons &. More
     *   Great Greenery: Faux Succulents from $10
     *   Summer Fun: Pool Floats &. Beach Blankets from $15
     *   Backyard Bliss: Hammocks, Chairs &. More
     *   Free Shipping: Outdoor Lanterns, Lamps &. More
     *   Free Shipping: Rustic Outdoor Decor &. More
     *   Steve Madden Up to 60% Off
-    *   Dress the Population
-    *   La Moda Cover-Ups &. More
-    *   Maxi Dresses, Rompers &. More Under $50
     *   OFRA Cosmetics
     *   Steve Madden Men Up to 50% Off
-    *   Knits with a Twist: Tops Starting at $20
+    
     *   Steve Madden Handbags Under $40
     *   Steve Madden Accessories &. More Up to 50% Off
-    *   Our Favorite Panty Packs Under $20
-    *   Boho Chic
     *   SpaLife Skin Care Under $25
-    *   Spring Sandals, Heels &. More Starting at $15
-    *   Love + Harmony
-    *   Sweet Rain Apparel Under $30
-    *   Gentle Souls by Kenneth Cole
     *   On-Trend Jewelry Starting at $15
     *   Steve Madden Men's Accessories Up to 55% Off
     *   TR Premium &. More Up to 80% Off
@@ -75,142 +93,117 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Little Mass &. Tru Luv
     *   Doll Them Up: Girls' Dresses &. Rompers
     *   Limeapple
-    *   Halston Heritage Up to 65% Off
-    *   Meira T Fine Jewelry
     *   Kestrel Cosmetic Bags Under $25
     *   Bath and Body from Weekends &. Chocolate Under $25
     *   Zoe Ayla Cosmetics Up to 80% Off
     *   Free Shipping: Pop Art Pillows Under $20
-    
     *   Free Shipping: Fashion-Forward Wall Art &. Decor
     *   NutriChef Kitchen Electrics
     *   Grayers
     *   Carrera Sun &. More Up to 75% Off
     *   Threads 4 Thought &. More
-    *   Venettini
-    *   Cool to Lounge: Girls' Hoodies, Joggers &. More
-    *   Darling Dresses &. Sets from AnnLoren
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
-    *   Free Shipping: Modern Rugs Up to 70% Off
-    *   Men's Shoes Up to 65% Off
-    *   Hickey Freeman
+    *   Work Dresses ft. Tahari Incl. Special Sizes
     *   John Masters Organics: Natural Products
     *   Free Shipping: Luxe Bedding Up to 65% Off
     *   Like a Pro: Hair Dryers &. More Up to 80% Off
-    *   Seven7 Up to 70% Off
-    *   Red Wing Up to 50% Off
-    *   Knowledge Cotton Apparel &. More
-    *   Eton
-    *   Tweezerman Starting at $10
-    *   Bliss Color Cosmetics at $10
-    *   Romeo &. Juliet Couture Blowout
-    *   Work Dresses ft. Tahari Incl. Special Sizes
-    *   Do + Be
-    *   Spring Dresses ft. Tassels N Lace
-    *   Bulova Watches Up to 70% Off
-    *   Kimi + Kai Maternity
-    *   Cuisinart Cookware, Grills &. More
-    *   Free Shipping: Vintage-Inspired &. Modern Decor
-    *   Catherine Catherine Malandrino
-    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Free Shipping: Plush Natori Towels Up to 75% Off
     *   Poo-Pourri Bathroom Scents from $10
     *   LED Lighting &. More Starting at $10
     *   Free Shipping: Fine Art Replicas Up to 70% Off
     *   Stainless Steel Water Bottles Under $20
+    *   Dress the Population
+    *   La Moda Cover-Ups &. More
+    *   Maxi Dresses, Rompers &. More Under $50
+    *   Gentle Souls by Kenneth Cole
+    *   Free Shipping: Modern Rugs Up to 70% Off
 *   WomenShop Sale Events
     
+    *   Rebecca Minkoff Up to 50% Off
+    *   Rebecca Minkoff Clothing Up to 50% Off
+    *   Rebecca Minkoff Shoes Up to 60% Off
+    *   Rebecca Minkoff Watches &. Jewelry Up to 60% Off
+    *   philosophy
+    *   Trask Up to 50% Off
+    *   Velvet by Graham &. Spencer
+    *   Nue by Shani
+    *   Keds Under $40
+    *   Matt Bernson
+    *   Emory Park
+    *   Dresses Under $30
+    *   Poolside Pretty: Swimsuits &. More
+    *   Season's Best Bralettes Under $30
+    *   Hairdo Hair Extensions &. Wigs
     *   The Shoe Shop: Sandals
-    *   Day Dresses We Love Up to 75% Off
     *   The Shoe Shop: Sneakers
     *   The Shoe Shop: Espadrilles
-    *   Charms for Mom: ALEX AND ANI Starting at $15
-    *   Siwy Denim
-    *   TOV
     *   The Shoe Shop: Mules &. Slides
     *   The Shoe Shop: Heels
+    *   Day Dresses We Love Up to 75% Off
+    *   Siwy Denim
+    *   Charms for Mom: ALEX AND ANI Starting at $15
+    *   TOV
     *   Spring to Summer Faves: Haute Rogue &. More
     *   bareMinerals
     *   Z&L Europe
-    *   Bed|Stu
-    *   Valentino by Mario Valentino
     *   DKNY Lingerie
+    
+    *   Bed|Stu
+    *   Designer Sun Up to 65% Off
     *   Just Live Active
     *   Betsey Johnson Starting at $40
-    *   Designer Sun Up to 65% Off
+    *   Valentino by Mario Valentino
     *   NYX Cosmetics ft. Love You So Mochi Palettes
     *   Algenist Skin Care
     *   Fossil Handbags
     *   Diamonds, 14K Gold &. More Starting at $45
     *   Tommy Hilfiger Starting at $30
-    *   TUMI
     *   Steve Madden Up to 60% Off
-    *   Dress the Population
-    *   La Moda Cover-Ups &. More
-    *   Maxi Dresses, Rompers &. More Under $50
     *   OFRA Cosmetics
-    
-    *   Knits with a Twist: Tops Starting at $20
     *   Steve Madden Handbags Under $40
     *   Steve Madden Accessories &. More Up to 50% Off
-    *   Our Favorite Panty Packs Under $20
-    *   Boho Chic
     *   SpaLife Skin Care Under $25
-    *   Spring Sandals, Heels &. More Starting at $15
-    *   Love + Harmony
-    *   Sweet Rain Apparel Under $30
-    *   Gentle Souls by Kenneth Cole
     *   On-Trend Jewelry Starting at $15
-    *   Halston Heritage Up to 65% Off
-    *   Meira T Fine Jewelry
     *   Kestrel Cosmetic Bags Under $25
     *   Bath and Body from Weekends &. Chocolate Under $25
     *   Zoe Ayla Cosmetics Up to 80% Off
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
+    *   Work Dresses ft. Tahari Incl. Special Sizes
     *   John Masters Organics: Natural Products
     *   Like a Pro: Hair Dryers &. More Up to 80% Off
-    *   Tweezerman Starting at $10
-    *   Bliss Color Cosmetics at $10
-    *   Romeo &. Juliet Couture Blowout
-    *   Work Dresses ft. Tahari Incl. Special Sizes
-    *   Do + Be
-    *   Spring Dresses ft. Tassels N Lace
-    *   Bulova Watches Up to 70% Off
-    *   Kimi + Kai Maternity
-    *   Catherine Catherine Malandrino
-    *   SIBU Sea Berry Therapy Skin Care &. Supplements
+    *   Dress the Population
+    *   La Moda Cover-Ups &. More
+    *   Maxi Dresses, Rompers &. More Under $50
+    *   Gentle Souls by Kenneth Cole
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Jewelry
-    *   Lingerie
-    *   Accessories
-    *   Tech Accessories
     *   Handbags
+    *   Accessories
+    *   Lingerie
+    *   Tech Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Slate &. Stone
+    *   Men's Premium Denim ft. J Brand
+    *   Dr. Martens Men
+    *   Cohesive &. Co. Under $30
+    *   Bugatchi Shoes
     *   Men's Shoe Shop: Loafers, Sneakers &. More
     *   Perry Ellis Suits &. More Under $120
-    *   TUMI
     *   Leather Favorites for Him ft. Frye
+    
     *   Rockport Men
     *   Soul Star
     *   Steve Madden Men Up to 50% Off
     *   Steve Madden Men's Accessories Up to 55% Off
     *   TR Premium &. More Up to 80% Off
     *   Grayers
-    
     *   Carrera Sun &. More Up to 75% Off
     *   Threads 4 Thought &. More
-    *   Men's Shoes Up to 65% Off
-    *   Hickey Freeman
-    *   Seven7 Up to 70% Off
-    *   Red Wing Up to 50% Off
-    *   Knowledge Cotton Apparel &. More
-    *   Eton
-    *   Bulova Watches Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -219,22 +212,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Frenchie Mini Couture
+    *   Dress-Up Fun: Superhero &. Princess Costumes &. More
+    *   Ready, Set, Spring: HUDSON Kids &. More
+    *   Skechers Kids
+    *   Toy Box Must-Haves
     *   Girls' Shoe Shop: Sandals, Sneakers &. More
-    *   Boys' Shoe Shop: Sneakers, Slip-Ons &. More
     *   Hatley
     *   Mimi &. Maggie
+    
     *   To the Beach We Go: Kids' Swim Styles
     *   Beach Bound: Kids' Sandals Starting at $10
+    *   Boys' Shoe Shop: Sneakers, Slip-Ons &. More
     *   Steve Madden Kids
     *   Kids' Brands We Love
-    
     *   Little Mass &. Tru Luv
     *   Doll Them Up: Girls' Dresses &. Rompers
     *   Limeapple
-    *   Venettini
-    *   Cool to Lounge: Girls' Hoodies, Joggers &. More
-    *   Darling Dresses &. Sets from AnnLoren
-    *   Kimi + Kai Maternity
     
     Shop By Category
     *   Girls Sizes 2T-6X
@@ -242,6 +236,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Girls' Shoes
     *   Boys' Shoes
     *   Boys Sizes 2T-7
+    *   Toys
     *   Baby Girl
     *   Boys Sizes 8-20
     *   Baby Boy
@@ -249,27 +244,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Free Shipping: Eye-Catching Wall Art &. More
+    *   Free Shipping: On-Trend Accent Furniture
+    *   Free Shipping: Boho-Chic Decor
     *   Free Shipping: Pillows, Art &. More from $10
     *   From $10: Gadgets for the Tech-Obsessed
-    *   TUMI
     *   Great Greenery: Faux Succulents from $10
     *   Summer Fun: Pool Floats &. Beach Blankets from $15
     *   Backyard Bliss: Hammocks, Chairs &. More
     *   Free Shipping: Outdoor Lanterns, Lamps &. More
     *   Free Shipping: Rustic Outdoor Decor &. More
+    
     *   Free Shipping: Pop Art Pillows Under $20
     *   Free Shipping: Fashion-Forward Wall Art &. Decor
-    
     *   NutriChef Kitchen Electrics
-    *   Free Shipping: Modern Rugs Up to 70% Off
     *   Free Shipping: Luxe Bedding Up to 65% Off
-    *   Cuisinart Cookware, Grills &. More
-    *   Free Shipping: Vintage-Inspired &. Modern Decor
     *   Free Shipping: Plush Natori Towels Up to 75% Off
     *   Poo-Pourri Bathroom Scents from $10
     *   LED Lighting &. More Starting at $10
     *   Free Shipping: Fine Art Replicas Up to 70% Off
     *   Stainless Steel Water Bottles Under $20
+    *   Free Shipping: Modern Rugs Up to 70% Off
     
     Shop By Category
     *   Home Decor
@@ -277,36 +272,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kitchen &. Tabletop
     *   Bedding
     *   Bath
-    *   Luggage &. Travel
-    *   Organization
-    *   Rugs
     *   Accent Furniture
+    *   Luggage &. Travel
+    *   Rugs
 *   BeautyShop Sale Events
     
+    *   philosophy
+    *   Hairdo Hair Extensions &. Wigs
     *   bareMinerals
     *   NYX Cosmetics ft. Love You So Mochi Palettes
     *   Algenist Skin Care
     *   OFRA Cosmetics
     *   SpaLife Skin Care Under $25
+    
     *   Kestrel Cosmetic Bags Under $25
     *   Bath and Body from Weekends &. Chocolate Under $25
-    
     *   Zoe Ayla Cosmetics Up to 80% Off
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   John Masters Organics: Natural Products
     *   Like a Pro: Hair Dryers &. More Up to 80% Off
-    *   Tweezerman Starting at $10
-    *   Bliss Color Cosmetics at $10
-    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     
     Shop By Category
-    *   Makeup
     *   Skin Care
-    *   Tools &. Accessories
+    *   Makeup
     *   Hair Care
+    *   Tools &. Accessories
     *   Bath &. Body
-    *   Supplements
     *   Nails
+    *   Supplements
     *   Fragrance
     *   Beauty Accessories
 
