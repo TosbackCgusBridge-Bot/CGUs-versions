@@ -205,11 +205,7 @@ Promotional Links Related Links
 *   General Licensing Permission Form
 *   Research Licensing Permission Form
 
-Navigation for Legal Home Navigation for Legal HomeTerms of UsePrivacy and Security▼
-
-*   Test Takers
-
-PermissionsTrademark Use▼
+Navigation for Legal Home Navigation for Legal HomeTerms of UsePrivacy and SecurityPermissionsTrademark Use▼
 
 *   Trademarks Owned by ETS
 
