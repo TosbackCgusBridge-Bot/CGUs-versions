@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD Clusters: A Primer ›
 *   Introducing developer notifications for snap security updates ›
 *   Breeze through Ubuntu Desktop 18.04 LTS Bionic Beaver ›
 *   What’s new in Ubuntu 18.04 and OpenStack Queens ›
 *   Ubuntu 18.04 LTS optimised for security, multi-cloud, containers &. AI ›
-*   Ora as a snap: ensuring users are benefiting from the latest version ›
