@@ -6,7 +6,7 @@ Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
 Menu Close Menu Close
 
 *   Products
-    *   Laptops &. 2-in-1s VIEW ALL LAPTOPS Explore All Narrow your choices by category and find the laptop you truly want
+    *   Laptops &. 2-in-1s Explore All Explore All Narrow your choices by category and find the laptop you truly want
         
         *   Thinkpad Laptops Thinkpad Laptops Enterprise-level performance. Premium reliability.
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
@@ -36,59 +36,44 @@ Menu Close Menu Close
             *   300e Chromebook
             *   500e Chromebook
         
-        *   *   *   BY USE
-                    *   Work
-                    *   Entertainment
-                    *   Student
-                    *   Gaming
-                    *   EverydayVIEW ALL
-                *   BY TYPE
-                    *   Traditional laptops
-                    *   2-in-1
-                    *   Thin and light
-                    *   Gaming
-                    *   ChromebookVIEW ALL
-                *   BY SPECS
-                    *   Screen Size
-                    *   Memory
-                    *   Processor
-                    *   Price
-                    *   More...VIEW ALLVIEW ALL LAPTOPS >.
+        *   *   Lots of options, but only one you, right? Narrow your choices by category, and find the laptop you truly want.
+                
+                Explore All Laptops &. Ultrabooks >.
         *   *   Enterprise-level performance.  
                 Investment-wise durability.  
                 Premium reliability.
                 
-                VIEW ALL LAPTOPS >.
+                Learn more about the ThinkPad family >.
         
         *   *   Stylish design.  
                 Impressive performance.  
                 Innovative 2-in-1 versatility.
                 
-                VIEW ALL LAPTOPS >.
+                Learn more about the Yoga family >.
         
         *   *   Broad portfolio.  
                 Entry-level to gaming powerhouse.  
                 Laptops and 2-in-1s.
                 
-                VIEW ALL LAPTOPS >.
+                Learn more about the IdeaPad family >.
         
         *   *   Detachable 2-in-1s.  
                 Great for work &. play.  
                 Ultraportable.
                 
-                VIEW ALL LAPTOPS >.
+                Explore all 2-in-1s >.
         
         *   *   Innovative design, responsive performance.
                 
-                VIEW ALL LAPTOPS >.
+                Learn more about the Student laptops >.
         
-        *   *   VIEW ALL LAPTOPS >.
+        *   *   Explore All Gaming Laptops >.
         
-        *   *   VIEW ALL LAPTOPS >.
+        *   *   Chromebooks >.
         
-        *   *   VIEW ALL LAPTOPS >.
+        *   *   SMALL BUSINESS LAPTOPS >.
         
-        *   *   VIEW ALL LAPTOPS >.
+        *   *   ThinkPad 25 >.
         
     *   Desktops &. All-In-Ones Explore All Explore All Plenty to consider before making your purchase. Let us help.
         
@@ -379,9 +364,9 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Multiplayer lightsaber duels have arrived.
+Built to perform. Engineered to endure.
 
-Learn more >.
+Now available!
 
 Price, Durability, Features, Looks Best home laptops from Lenovo
 
@@ -403,15 +388,15 @@ Save up to $600 through May 10.
 
 NATIONAL BUSINESS WEEK
 
-Celebrate National Business Week with savings on our best selling business PCs. Sale ends 4AM (EST) on May 6th.
+Celebrate National Business Week with savings on our best selling business PCs. Sale ends May 6.
 
 Gaming Flash Sale Live Now! 
 
 Save up to $550 on select gaming PC’s and accessories. Limited time only. Sale ends May 5.
 
-Special financing offer! 
+SPECIAL FINANCING OFFER!
 
-Choose Klarna at Checkout. Valid on orders $300-$2400. Offer ends May 9.
+Exclusive 6 and 12 month credit financing on orders $300-$798.99 and $799-$2400 respectively. Choose Klarna at checkout. Offer ends 8AM on May 10 (EST).
 
 ThinkSmart Hub 500  
 The Smarter Way to Collaborate
