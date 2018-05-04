@@ -368,18 +368,6 @@ and more for Consolidated Communications services.
 
 View Menu Options
 
-**We’ve Updated Our Terms of Service for Internet Service**
-
-In an effort to make our Internet service terms more streamlined and integrated across markets, we’ve updated our Terms of Service. We believe these updates clarify the terms and conditions applicable to your use of the Service and help us serve our users in a more effective way.
-
-In addition to updating our Terms of Service, we also have updated our Acceptable Use Policy (AUP), Privacy Policy and certain other policies applicable to the Service. All of these policies can be found on this page.
-
-We recommend reviewing the Terms of Service, the AUP, the Privacy Policy and all other policies applicable to the use of the Service in their entirety.
-
-*   Terms of Service
-*   Acceptable Use Policy (AUP)
-*   Privacy Policy
-
 **Regulatory Information:**
 
 Tariffs, RTCs, Price Lists, Catalogs &. Service Agreements
