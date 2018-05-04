@@ -103,6 +103,23 @@ Up to
 
 Outback 3.6R Limited shown
 
+Ascent $31,995\* starting price 2019 Ascent
+
+Starting at
+
+$31,995 MSRP
+
+Up to
+
+27/21 MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build &. Price
+
+Ascent Limited shown
+
 BRZ $25,595\* starting price 2018 BRZ
 
 Starting at
@@ -136,19 +153,6 @@ Up to
 *   Build &. Price
 
 2018 WRX Limited shown
-
-Ascent $31,995\* starting price 2019 Ascent
-
-Starting at
-
-$31,995 MSRP
-
-*   Overview
-*   Photos &. Videos
-*   Compare
-*   Build &. Price
-
-Ascent Limited
 
 All Vehicles Find Your Subaru All Vehicles Certified Pre-Owned Certified Pre-Owned
 
