@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals lsW2TwKpW98OE\_nnk1CNhO4
+Office Depot Deals vVFnlSJIyFOVOUJ6f15dz0v
 
 Search Suggestions
 
@@ -160,7 +160,7 @@ supplies, furniture, technology &. more
  **1-800-GO-DEPOT**  
 (1-800-463-3768)   Live Chat Available 24/7  **FREE** store pickup.  
 order online  
-ready in 1 hour!  **Tap our app**  
+pick up in 1 hour!  **Tap our app**  
 get offers,  
 manage rewards,  
 compare prices  Signup to receive  
