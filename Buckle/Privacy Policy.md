@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Real world here you come, dress to impress with The Grad Look.
+Shop hats and sunglasses that complete any look.
 
 *   Women
 *   Men
@@ -455,7 +455,7 @@ Returns
 
 Promotions
 
-*   Save More Buckle Credit Card Offer
+*   May Double Points 2018
 *   All Promotions
 *   Store Events
 *   Military Discount
