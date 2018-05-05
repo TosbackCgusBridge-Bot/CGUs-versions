@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Matt Schlapp_: WHCD Will Turn Americans Tired of Hate to Trump's Side
+*   _A.B. Stoddard_: Don't Miss the Presidential Forest Fire for the Trees
     
-*   _Paul Begala_: Trump's Not an Idiot, He's Something Worse
+*   _Kimberley Strassel_: Why the Justice Department Is Defiant
     
-*   _Byron York_: Democrats and the Trump Impeachment Trap
+*   _Jeffrey Toobin_: Rudy's Interview and Trump's Lies Create a Crisis
     
-*   _Renato Mariotti_: Mueller's Questions Point to What Trouble Trump Is In
+*   _Mark Penn_: Rod Rosenstein Is Not Above the Law
     
-*   _Andrew McCarthy_: Mueller's Questions Indicate He Lacks Evidence of a Crime
+*   _Eugene Robinson_: Whiff of Panic Coming From the White House
     
-*   _Bonnie Kristian_: Will John Bolton Sabotage Peace in Korea?
+*   _Matthew Continetti_: The Media Is Killing the Democratic Party
     
-*   _Gordan Chang_: Why North Korea Will Give Up Its Nuclear Weapons
+*   _Caitlin Huey-Burns_: Mueller Probe Could Boost GOP Candidates
     
-*   _Jeanne Mancini_: This Is the Pro-Life Generation
+*   _Michelle Goldberg_: Does Giuliani Have a Plan, or Is This Just a Freakout?
     
-*   _Dawn Huckelbridge_: Trump Is Putting Anti-Choice Extremists Back in Power
+*   _John Podhoretz_: The Clear Method to Rudy's 'Mad' Defense
     
-*   _Posner &. Weyl_: The Real Villain Behind Our New Gilded Age
+*   _Susan Glasser_: Trump's Pursuit of an Oval Office Meeting With Putin
     
-*   _Craig Shirley_: Why the Right Should Oppose the Sinclair-Tribune Merger
+*   _Reuel Marc Gerecht_: The Iran Deal Is Strategically and Morally Absurd
     
-*   _Thomas Friedman_: The U.S. and China Are Finally Having It Out
+*   _Christopher Dickey_: Trump's 'Fake News' Mantra Metastasizes Worldwide
     
-*   _David Harsanyi_: The Short and Ugly History of the Disastrous Iran Deal
+*   _Kalev Leetaru_: Fact-Checking: A Business or a Public Service?
     
-*   _Charlie Savage_: Answering Mueller's Questions Could Be Minefield for Trump
+*   _Jamelle Bouie_: The Racial Terrorism That Corrupted America--and Still Does
     
-*   _Mark Penn_: How About a Few Questions for Robert Mueller?
+*   _Pedro Gonzalez_: The Myth of American Racism
     
-*   _Scot Lehigh_: Nancy Pelosi Won't Bet Her Job on a Democratic Win
+*   _Matthew DeBord_: Elon Musk Is Paying the Price for His Contempt of Wall Street
     
-*   _James Arkin_: WV Senate Candidates Spar in Rancorous GOP Debate
+*   _John Davidson_: On Google's Insane Campus, Everything Is Politicized
     
-*   _Max Brooks_: Are We Really Ready for a Cyberattack?
+*   _Heather Wilhelm_: The Supposed 'Horror Show' of Motherhood
     
-*   _Neil Chatterjee_: Thinking Through an Attack on Our Electric Grid
+*   _Karl Vick_: To Nix or to Fix: Trump's Major Dilemma on the Iran Deal
     
-*   _Robert Reich_: How to Stop Trump
+*   _Seth Lipsky_: Mueller's Outrageous Questions Prove Trump Shouldn't Talk
     
-*   _Dennis Prager_: Fear of the Left Is Most Powerful Force in America
+*   _Harry Litman_: Too Bad Giuliani Doesn't Lie as Well as Trump
     
-*   _Amy Zimmerman_: Inside Kanye's Disturbing On-Air Meltdown
+*   _Monica Showalter_: Dems' Nightmare About Kanye West Comes True
     
-*   _Ben Shapiro_: Oh, Say Kanye Sees
+*   _Rebecca Onion_: Kanye's Brand of 'Freethinking' Has a Long, Awful History
     
-*   _Garrett Graff_: Robert Mueller Likely Knows How This All Ends
+*   _Scott Jennings_: How Both Parties &. the Media Were Blindsided by 2016
     
 
 *   Previous
@@ -257,11 +257,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump-Tester Dust-Up Could Heat Up MT Senate Race
+*   Fact-Checking: A Business or a Public Service?
+*   Mueller Probe Could Boost Republican Midterm Candidates
+*   Full Interview: Giuliani Talks Trump, Mueller, Clinton, Stormy Daniels
+*   Support for Trump Is a Litmus Test in 3 Republican Primaries
 *   W.Va. Senate Candidates Spar in Rancorous Republican Debate
-*   Rosenstein: Department of Justice Is Not Going to Be Extorted
-*   Israeli PM Presents Evidence Iran Lied About Nuclear Program
-*   Bitter Republican Primary May Benefit Donnelly in Indiana
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -276,26 +276,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   New Hampshire Governor - Sununu vs. KellySuffolk\*
-    *   Sununu48
-    *   Kelly27Sununu +21
-*   New Hampshire Governor - Sununu vs. MarchandSuffolk\*
-    *   Sununu49
-    *   Marchand25Sununu +24
-*   New Hampshire Governor - Democratic PrimarySuffolk
-    *   Kelly21
-    *   Marchand19Kelly +2
-*   New York Governor - Democratic PrimaryQuinnipiac
-    *   Cuomo50
-    *   Nixon28Cuomo +22
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve45
+    *   Disapprove53Disapprove +8
+*   President Trump Job ApprovalPew Research
+    *   Approve42
+    *   Disapprove54Disapprove +12
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve51
+    *   Disapprove49Approve +2
+*   2018 Generic Congressional VoteReuters/Ipsos
+    *   Democrats43
+    *   Republicans35Democrats +8
 
 More Latest Polls In The News
 
-*   Full Interview: Hannity Talks To Rudy Giuliani About Trump &. Mueller, Clinton, Stormy Daniels
-*   Dershowitz vs. Toobin: Trump Won't Take Fifth, Will Sit Down With Mueller Team For Immunity
-*   Pompeo: We Have An Unprecedented Historic Opportunity For Peace In Korea
-*   Deputy AG Rod Rosenstein: "The Department Of Justice Is Not Going To Be Extorted"
-*   Tucker Carlson vs. Jorge Ramos: "U.S. Becoming A Hostile &. Dangerous Country For Refugees &. Immigrants"
+*   President Trump on Mueller Sitdown: "If I Thought It Was Fair, I Would Override My Lawyers"
+*   Cavuto to Trump: How Can You Drain The Swamp If You're The One Muddying The Waters?
+*   Levin: Demand That Mueller Go To The Supreme Court To Put These Rogue Prosecutors In Their Place
+*   Dershowitz on Cohen Wiretap: I Don't Want To Live In A Surveillance State, I Do Not Trust Government
+*   Kanye West: When I Said Slavery Was "A Choice," I Meant "We Can Make Our Own Reality"
 
 *   Politics
 *   Policy
