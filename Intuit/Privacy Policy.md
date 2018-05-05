@@ -69,7 +69,7 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     
     was $49.98
     
-    Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring Set(3)
+    Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring Set(4)
 *   LIMITED TIME SPECIAL!
     
     $121.87 sale
@@ -77,6 +77,13 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     was $406.23
     
     DiamonArt® Sterling Silver 1 7/8 CT. T.W. Cubic Zirconia Bridal Ring Set(125)
+*   LIMITED TIME SPECIAL!
+    
+    $1,124.99 sale
+    
+    was $3,749.98
+    
+    Cherished Hearts™ 1 CT. T.W. Certified Diamond Heart Bridal Ring Set(12)
 *   LIMITED TIME SPECIAL!
     
     $81.25 sale
@@ -91,13 +98,6 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     was $1,458.32
     
     1/2 CT. T.W. Diamond 10K White Gold Anniversary Band(8)
-*   LIMITED TIME SPECIAL!
-    
-    $1,124.99 sale
-    
-    was $3,749.98
-    
-    Cherished Hearts™ 1 CT. T.W. Certified Diamond Heart Bridal Ring Set(12)
 
 40 - 60% OFF SELECT DRESSESShop All40 - 60% OFF SELECT DRESSESShop All
 
@@ -105,12 +105,7 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     
     was $60
     
-    a.n.a 3/4 Sleeve Embroidered Floral Shift Dress
-*   $69.99 sale
-    
-    was $120
-    
-    R &. M Richards 3/4 Sleeve Jacket Dress(4)
+    a.n.a 3/4 Sleeve Embroidered Floral Shift Dress(1)
 *   $42.99 sale
     
     was $74
@@ -121,11 +116,16 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     was $44
     
     a.n.a. Bell Sleeve Shift Dress(17)
-*   $34.99 sale
+*   $69.99 sale
     
-    was $74
+    was $120
     
-    Worthington Lace Shift Dress
+    Melrose Sleeveless Evening Gown(10)
+*   $69.99 sale
+    
+    was $120
+    
+    R &. M Richards 3/4 Sleeve Jacket Dress(4)
 
 SAVE ON SMART WATCHESShop AllSAVE ON SMART WATCHESShop All
 
@@ -143,17 +143,17 @@ SAVE ON SMART WATCHESShop AllSAVE ON SMART WATCHESShop All
     
     was $80
     
-    Nuband Activity and Sleep Tracking Sport Watch(22)
-*   $49.99 sale
-    
-    was $80
-    
     Nuband Activity and Sleep Tracking Sport Watch(43)
 *   $69.99 sale
     
     was $99.99
     
     Nuband I Touch Screen Fitness and Notification Band(1)
+*   $49.99 sale
+    
+    was $79.99
+    
+    Nuband Activ2+ Activity Tracker(2)
 
 UP TO 50% OFF PAJAMAS FOR HERShop AllUP TO 50% OFF PAJAMAS FOR HERShop All
 
@@ -162,26 +162,26 @@ UP TO 50% OFF PAJAMAS FOR HERShop AllUP TO 50% OFF PAJAMAS FOR HERShop All
     was $34
     
     Liz Claiborne Capri Pajama Set(11)
-*   $17.99 sale
-    
-    was $37
-    
-    Adonna Woven Sleeveless Square Neck Printed Nightgown(6)
-*   $12.99 - $17.99 sale
-    
-    was $34 - $37
-    
-    Adonna Woven Sleeveless Nightgown(5)
 *   $14.99 sale
     
     was $34
     
     Adonna Lace Trim Capri Pajama Set(4)
-*   $22.99 - $24.99 sale
+*   $24.99 sale
     
-    was $49 - $54
+    was $37
     
-    Adonna Short-Sleeve Snap Front Duster Robe(157)
+    Mommy &. Me Shorts Pajama Set
+*   $19.99 sale
+    
+    was $34
+    
+    Liz Claiborne Capri Pajama Set(1)
+*   $14.99 sale
+    
+    was $34
+    
+    Liz Claiborne Lace Short Sleeve Capri Pajama Set(1)
 
 Shop and Save at JCPenney
 
