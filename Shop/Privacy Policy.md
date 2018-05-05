@@ -364,11 +364,13 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Built to perform. Engineered to endure.
+Multiplayer lightsaber duels have arrived.
 
-Now available!
+Learn more >.
 
-Price, Durability, Features, Looks Best home laptops from Lenovo
+Capture, share and relive
+
+Lenovo and Google have shaken up the VR world with the new Mirage Solo and mirage camera
 
 Shop Now >.
 
@@ -390,9 +392,9 @@ NATIONAL BUSINESS WEEK
 
 Celebrate National Business Week with savings on our best selling business PCs. Sale ends May 6.
 
-Gaming Flash Sale Live Now! 
+Price, Durability, Features, Looks
 
-Save up to $550 on select gaming PC’s and accessories. Limited time only. Sale ends May 5.
+Best home laptops from Lenovo
 
 SPECIAL FINANCING OFFER!
 
