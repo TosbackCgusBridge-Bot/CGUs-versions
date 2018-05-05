@@ -129,7 +129,7 @@ Play Kratos Embarks on a New Journey Video hotspot
 
 Learn about PlayStation Vue availability, subscriptions, channels and more!
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -191,7 +191,7 @@ With the a7R III Camera
 
 Have you tried the @KygoMusic x @Miguel #RemindMeToForget @Snapchat lens yet? Click here to check it out!
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -297,7 +297,7 @@ Studio Quality Sound
 
 Trace the contours of true craftsmanship with #Xperia XZ2 Compact.
 
-3 days ago
+4 days ago
 
 View Tweet
 
