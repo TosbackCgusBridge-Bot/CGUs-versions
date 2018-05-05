@@ -227,6 +227,10 @@ We Want to Hear from You
 
 Thanks for your feedback on our updated Privacy Policy. We heard you and, as a result, we're adding additional information on how you can exercise your privacy choices. We appreciate you as a customer and we value your thoughts. Please continue to share your feedback through our privacy mailbox.
 
+For Users of AT&T Business Services in Europe
+
+AT&T is committed to providing global service in compliance with all applicable law. For users of AT&T Business Services in the European Union, AT&T has published a Privacy Notice to provide transparency on our data processing activities, the types of personal data we process, and the legal rights of individuals under the General Data Protection Regulation (GDPR).
+
 Welcome DIRECTV Customers
 
 DIRECTV is now part of the AT&T family. For convenience, all AT&T products and services are covered under a single, easy-to-read Privacy Policy. The policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we welcome your feedback.
