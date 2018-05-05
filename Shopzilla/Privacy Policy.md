@@ -142,4 +142,4 @@ Connexity
 
 Connexity®, Audience Discovery® and Hitwise® are registered trademarks of Connexity, Inc.
 
-SumoFocus Retriever
+Sumo
