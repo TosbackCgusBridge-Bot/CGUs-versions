@@ -394,12 +394,14 @@ How we make money
 
 Bankrate.com is an independent, advertising-supported publisher and comparison service. Bankrate is compensated in exchange for featured placement of sponsored products and services, or your clicking on links posted on this website. This compensation may impact how, where and in what order products appear. Bankrate.com does not include all companies or all available products.
 
-© 2018 Bankrate, LLC All Rights Reserved.
-
 Maximize Your Money. Get Expert Advice &. Tools. Master Life's Financial Journey.
 
 You have money questions. Bankrate has answers. Our experts have been helping you master your money for four decades.
 
 Our tools, rates and advice help no matter where you are on life’s financial journey.
 
-Follow Us <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">.
+Follow Us
+
+© 2018 Bankrate, LLC All Rights Reserved.
+
+United States United Kingdom <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">.
