@@ -1,190 +1,10 @@
-Close submenu ( Clearance ) Clearance
-
-*   View Home
-*   Open submenu ( Girls ) Girls
-
-*   Open submenu ( Guys ) Guys
-
-*   Open submenu ( Live Love Dream ) Live Love Dream
-
-*   Help - Live Chat Help - Call Us
-*   Sign Up/Login
-*   Refer a Friend
-
-Close submenu ( Girls ) Girls
-
-*   View All
-*   Last Chance
-*   New to Clearance
-*   $9.99 + Under
-*   Tees + Tanks + Polos
-*   Fashion Tops
-*   Hoodies + Jackets
-*   Shirts + Sweaters
-*   Dresses + Skirts
-*   Jeans + Pants
-*   Joggers + Leggings
-*   Shorts
-*   Accessories
-
-*   Help - Live Chat Help - Call Us
-*   Sign Up/Login
-*   Refer a Friend
-
-Aeropostale Close submenu ( Clearance ) Polos
-
-*   View Home
-*   Open submenu ( Girls Polos ) Girls Polos
-
-*   Open submenu ( Guys Polos ) Guys Polos
-
-*   Open submenu ( Live Love Dream ) Live Love Dream
-
-Close submenu ( Girls ) Girls Polos
-
-*   View All
-*   Solid
-*   Graphic
-*   Uniform
-*   Tees + Tanks + Polos
-*   Fashion Tops
-*   Hoodies + Jackets
-*   Shirts + Sweaters
-*   Dresses + Skirts
-*   Jeans + Pants
-*   Joggers + Leggings
-*   Shorts
-*   Accessories
-
-*   Help - Live Chat Help - Call Us
-*   Sign Up/Login
-*   Refer a Friend
-
-Close submenu ( Guys ) Guys Polos
-
-*   View All
-*   Solid
-*   Graphic
-*   Stripe
-*   Uniform
-*   Long Sleeve
-*   Polos
-*   Shirts + Sweaters
-*   Hoodies + Jackets
-*   Jeans + Pants
-*   Shorts
-*   Accessories
-
-*   Help - Live Chat Help - Call Us
-*   Sign Up/Login
-*   Refer a Friend
-
-Close submenu ( Live Love Dream ) Live Love Dream
-
-*   View All
-*   Last Chance
-*   New to Clearance
-*   $9.99 + Under
-*   Active
-*   Lounge
-*   Tees
-*   Camis + Tanks
-*   Hoodies + Jackets
-*   Leggings + Pants
-*   Shorts
-*   Intimates
-*   Accessories
-
-Close submenu ( Live Love Dream ) Live Love Dream
-
-*   View All
-*   Active
-*   Lounge
-*   Sleep
-*   Bras
-*   Undies
-*   Accessories
-
-*   Help - Live Chat Help - Call Us
-*   Sign Up/Login
-*   Refer a Friend
-
-Close submenu ( Clearance ) Clearance
-
-*   View Home
-*   Open submenu ( Girls ) Girls
-
-*   Open submenu ( Guys ) Guys
-
-*   Open submenu ( Live Love Dream ) Live Love Dream
-
-Close submenu ( Girls ) Girls
-
-*   View All
-*   Last Chance
-*   New to Clearance
-*   $9.99 + Under
-*   Tees + Tanks + Polos
-*   Fashion Tops
-*   Hoodies + Jackets
-*   Shirts + Sweaters
-*   Dresses + Skirts
-*   Jeans + Pants
-*   Joggers + Leggings
-*   Shorts
-*   Accessories
-
-Close submenu ( Guys ) Guys
-
-*   View All
-*   Last Chance
-*   New to Clearance
-*   $9.99 + Under
-*   Tees + Tanks
-*   Long Sleeve
-*   Polos
-*   Shirts + Sweaters
-*   Hoodies + Jackets
-*   Jeans + Pants
-*   Shorts
-*   Accessories
-
-Close submenu ( Live Love Dream ) Live Love Dream
-
-*   View All
-*   Last Chance
-*   New to Clearance
-*   $9.99 + Under
-*   Active
-*   Lounge
-*   Tees
-*   Camis + Tanks
-*   Hoodies + Jackets
-*   Leggings + Pants
-*   Shorts
-*   Intimates
-*   Accessories
-
-Close submenu ( Bottoms ) Bottoms
-
-*   View All
-*   Jeans
-*   Jeggings
-*   Shorts
-*   Leggings + Active
-*   Joggers + Lounge
-*   Pants
-
-*   Help - Live Chat Help - Call Us
-*   Sign Up/Login
-*   Refer a Friend
+Aeropostale
 
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
-*   Open submenu ( Graphic Tees ) Graphic Tees
-*   Open submenu ( Polos ) Polos
 *   Open submenu ( Shorts ) Shorts
+*   Open submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Clearance ) Clearance
 
 *   Help - Live Chat Help - Call Us
@@ -207,8 +27,7 @@ Close submenu ( Girls ) Girls
 *   Extended Sizes
 *   Trending
 *   Clearance
-*   Clearance
-*   Open submenu ( Live Love Dream ) Live Love Dream
+*   Live Love Dream
 *   Bras
 *   Undies
 
@@ -216,6 +35,7 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
+*   Cinco Flash Sale
 *   Sabrina for Aero
 *   Buy 1 Get 2 Free Tees
 *   6 for $18 Undies
@@ -266,16 +86,17 @@ Close submenu ( Guys ) Guys
 *   Accessories
 
 *   2 for $12 Underwear
+*   Clearance
 *   Big + Tall
 *   Trending
-*   Clearance
 
 Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
+*   Cinco Flash Sale
 *   Buy 1 Get 2 Free Tees
-*   2 for $12 Underwear
+*   2 for $12 Deal
 *   Denim Guide
 *   Logo Shop
 *   Active
@@ -407,49 +228,32 @@ Close submenu ( Tops ) Tops
 *   Hoodies + Sweatshirts
 *   Sleep Tops
 
-Close submenu ( Bottoms ) Graphic Tees
+Close submenu ( Bottoms ) Bottoms
 
 *   View All
-*   Girls Tees Open submenu ( Girls Tees )
-*   Guys Tees Open submenu ( Guys Tees )
+*   Best Booty Ever
+*   Leggings
 *   Joggers + Sweats
 *   Bootcut
 *   Shorts
 *   Sleep Bottoms
 
-Close submenu ( Clearance ) Girls Tees
+Close submenu ( Clearance ) Clearance
+
+*   View Home
+*   Open submenu ( Girls ) Girls
+
+*   Open submenu ( Guys ) Guys
+
+*   Open submenu ( Live Love Dream ) Live Love Dream
+
+Close submenu ( Girls ) Girls
 
 *   View All
-*   Classic Logo
-*   Applique
-*   Fashion
-*   Relaxed Fit
-*   Boy Tee Fit
-*   Long Sleeve
-
-*   View All
-*   Classic Logo
-*   Applique
-*   Fashion
-*   Relaxed Fit
-*   Boy Tee Fit
-*   Long Sleeve
-
-*   View All
-*   Classic Logo
-*   Applique
-*   Fashion
-*   Relaxed Fit
-*   Boy Tee Fit
-*   Long Sleeve
-
-Close submenu ( Girls ) Guys Tees
-
-*   View All
-*   Classic Logo
-*   Applique
-*   Trend
-*   Tank Tops
+*   Last Chance
+*   New to Clearance
+*   $9.99 + Under
+*   Tees + Tanks + Polos
 *   Fashion Tops
 *   Hoodies + Jackets
 *   Shirts + Sweaters
@@ -490,7 +294,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**BUY 1 GET 2 FREE SELECT TEES** **50-70% OFF + FREE SHIPPING OVER $75**
+**Cinco Flash Sale: 15% off 5+** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -502,17 +306,17 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
+        *   Cinco Flash Sale
         *   Sabrina for Aero
         *   Buy 1 Get 2 Free Tees
-        *   Buy 1 Get 1 Accessories
         *   6 for $18 Undies
         *   Create Your Suit for $20
+        *   The White Collection
         *   Festival Vibes
         *   Denim Guide
         *   Logo Shop
         *   Basic Essentials
         *   Seriously Soft
-        *   Lounge + Sleep
         *   Online Only
         *   Uniform
     
@@ -538,32 +342,27 @@ Menu Find a Store Aeropostale
         *   Joggers + Lounge
         *   Pants
         
-    
     *   Swim
+    
     *   Dresses + Rompers
     *   Jackets + Vests
     *   Shoes + Accessories
     *   Extended Sizes
     *   Trending
     *   Clearance
-    
     *   Live Love Dream
-        *   View All
-        *   Active
-        *   Lounge
-        *   Sleep
-        *   Bras
-        *   Undies
-        *   Accessories
-        
+    *   Bras
+    *   Undies
+    
 *   Guys
     
     *   View Home
     *   Featured
         *   View All
         *   New Arrivals
+        *   Cinco Flash Sale
         *   Buy 1 Get 2 Free Tees
-        *   2 For $12 Underwear
+        *   2 for $12 Deal
         *   Denim Guide
         *   Logo Shop
         *   Active
@@ -597,7 +396,6 @@ Menu Find a Store Aeropostale
     *   Clearance
     *   Big + Tall
     *   Trending
-    *   Clearance
     
 *   Jeans
     
@@ -623,43 +421,6 @@ Menu Find a Store Aeropostale
         *   Slim Tapered
         *   Super Skinny
         *   Relaxed
-    
-*   Graphic Tees
-    
-    *   View Home
-    
-    *   Girls Tees
-        *   View All
-        *   Classic Logo
-        *   Applique
-        *   Fashion
-        *   Relaxed Fit
-        *   Boy Tee Fit
-        *   Long Sleeve
-    
-    *   Guys Tees
-        *   View All
-        *   Classic Logo
-        *   Applique
-        *   Trend
-        *   Tank Tops
-    
-*   Polos
-    
-    *   View Home
-    
-    *   Girls Polos
-        *   View All
-        *   Solid
-        *   Graphic
-        *   Uniform
-    
-    *   Guys Polos
-        *   View All
-        *   Solid
-        *   Graphic
-        *   Stripe
-        *   Uniform
     
 *   Shorts
     
@@ -691,6 +452,43 @@ Menu Find a Store Aeropostale
         *   Jogger Short
         *   Athletic
         *   Swim
+    
+*   Live Love Dream
+    
+    *   View Home
+    *   Featured
+        *   View All
+        *   6 for $18 Undies
+        *   Create Your Suit for $20
+        *   Active
+        *   Lounge
+        *   Sleep
+        *   Intimates
+        *   Swim
+    
+    *   Tops
+        *   View All
+        *   Tees
+        *   Tanks
+        *   Hoodies + Sweatshirts
+        *   Sleep Tops
+    
+    *   Bottoms
+        *   View All
+        *   Best Booty Ever
+        *   Leggings
+        *   Joggers + Sweats
+        *   Bootcut
+        *   Shorts
+        *   Sleep Bottoms
+    *   Sleep
+    
+    *   Bras
+    *   Undies
+    *   Swim
+    *   Accessories
+    *   Clearance
+    *   Trending
     
 *   Clearance
     
@@ -745,7 +543,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Tees Shop Guys Tees Shop Girls Shop Guys Shop Girls Shorts Shop Guys Shorts Shop The Collection Watch the Video Shop Girls Shop Guys Shop Lounge Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Cinco Shop Guys Cinco Shop Girls Shop Guys Shop Girls Tees Shop Guys Tees Shop Girls Shop Guys Shop Girls Shorts Shop Guys Shorts Shop The Collection Watch the Video Shop Girls Shop Guys Shop Lounge Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -779,4 +577,4 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag anExtra 10% OFFPlease enter aboveAccess the saleI DON'T WANT 10% OFF\*Cannot be combined with other offersYOU’VE SNAGGED 10% OFFUse CodeBXTNCL-Z7MTH7HBVWLGat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
