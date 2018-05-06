@@ -33,7 +33,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackUP TO 60% OFF TOPSShop AllUP TO 60% OFF TOPSShop All
+Near YouFind a StoreBack FINAL HOURS! COUPON CODE 3SHOPNOW ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 4 4 5 4 secs UP TO 60% OFF TOPSShop AllUP TO 60% OFF TOPSShop All
 
 *   $5 sale
     
@@ -50,16 +50,16 @@ Near YouFind a StoreBackUP TO 60% OFF TOPSShop AllUP TO 60% OFF TOPSShop All
     was $14
     
     St. John's Bay Short Sleeve V Neck T-Shirt-Womens(40)
+*   $9.99 - $12.99 sale
+    
+    was $27
+    
+    Liz Claiborne Short Sleeve Smocked Shoulder Henley T-Shirt(31)
 *   $17.99 sale
     
     was $29
     
     a.n.a. Strapback Tank
-*   $19.99 sale
-    
-    was $37
-    
-    a.n.a. Surplice Long Sleeve Blouse(27)
 
 UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
 
@@ -106,34 +106,39 @@ UP TO 70% OFF NO COUPON NEEDEDShop AllUP TO 70% OFF NO COUPON NEEDEDShop All
     was $60
     
     a.n.a 3/4 Sleeve Embroidered Floral Shift Dress(1)
-*   $42.99 sale
-    
-    was $74
-    
-    Melrose 3/4 Sleeve Lace Fit &. Flare Dress(4)
 *   $17 sale
     
     was $44
     
     a.n.a. Bell Sleeve Shift Dress(17)
+*   $42.99 sale
+    
+    was $74
+    
+    Melrose 3/4 Sleeve Lace Fit &. Flare Dress(5)
 *   $69.99 sale
     
     was $120
     
     Melrose Sleeveless Evening Gown(10)
-*   $69.99 sale
+*   $42.99 sale
     
-    was $120
+    was $74
     
-    R &. M Richards 3/4 Sleeve Jacket Dress(4)
+    MSK Short Sleeve Cold Shoulder Floral Maxi Dress
 
 SAVE ON SMART WATCHESShop AllSAVE ON SMART WATCHESShop All
 
+*   $69.99 sale
+    
+    was $99.99
+    
+    Nuband I Touch Screen Fitness and Notification Band(1)
 *   $49.99 sale
     
     was $80
     
-    Nuband Activ+ Activity and Sleep Tracking Sport Watch(2)
+    Nuband Activity and Sleep Tracking Sport Watch(43)
 *   $39.99 sale
     
     was $59
@@ -143,17 +148,12 @@ SAVE ON SMART WATCHESShop AllSAVE ON SMART WATCHESShop All
     
     was $80
     
-    Nuband Activity and Sleep Tracking Sport Watch(43)
-*   $69.99 sale
-    
-    was $99.99
-    
-    Nuband I Touch Screen Fitness and Notification Band(1)
+    Nuband Activ+ Activity and Sleep Tracking Sport Watch(2)
 *   $49.99 sale
     
-    was $79.99
+    was $80
     
-    Nuband Activ2+ Activity Tracker(2)
+    Nuband Activ+ Activity and Sleep Tracking Sport Watch(7)
 
 UP TO 50% OFF PAJAMAS FOR HERShop AllUP TO 50% OFF PAJAMAS FOR HERShop All
 
@@ -161,7 +161,7 @@ UP TO 50% OFF PAJAMAS FOR HERShop AllUP TO 50% OFF PAJAMAS FOR HERShop All
     
     was $34
     
-    Liz Claiborne Capri Pajama Set(11)
+    Liz Claiborne Henley Capri Pajama Set(11)
 *   $14.99 sale
     
     was $34
@@ -176,7 +176,7 @@ UP TO 50% OFF PAJAMAS FOR HERShop AllUP TO 50% OFF PAJAMAS FOR HERShop All
     
     was $34
     
-    Liz Claiborne Capri Pajama Set(1)
+    Liz Claiborne Ruffle Sleeve Capri Pajama Set(1)
 *   $14.99 sale
     
     was $34
@@ -249,7 +249,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Google Plus
+*   Instagram
 *   Youtube
 *   JCPenney Blog
 
