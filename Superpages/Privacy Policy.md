@@ -1,4 +1,4 @@
-Toggle navigationSuperpages Online Yellow Pages, Local Business Directory  
+Toggle navigationSuperpages THE Local Business Directory  
 
 *   Join
 *   •
