@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _A.B. Stoddard_: Don't Miss the Presidential Forest Fire for the Trees
+*   _Tavernise &. Gebeloff_: They Voted Obama, Then Trump. What Will They Do Now?
     
-*   _Kimberley Strassel_: Why the Justice Department Is Defiant
+*   _Rich Lowry_: Rod Rosenstein Has Botched the Mueller Probe
     
-*   _Jeffrey Toobin_: Rudy's Interview and Trump's Lies Create a Crisis
+*   _Peter Zeidenberg_: Rosenstein Is Right, But He Shouldn't Have to Say It
     
-*   _Mark Penn_: Rod Rosenstein Is Not Above the Law
+*   _Sharyl Attkisson_: For Mueller, a Question of Three Conflicts
     
-*   _Eugene Robinson_: Whiff of Panic Coming From the White House
+*   _Joe Scarborough_: Giuliani Is Just Trump's Latest Chump
     
-*   _Matthew Continetti_: The Media Is Killing the Democratic Party
+*   _David Marcus_: Rudy Giuliani Knows Exactly What He's Doing
     
-*   _Caitlin Huey-Burns_: Mueller Probe Could Boost GOP Candidates
+*   _Jacob Weisberg_: How Stormy Daniels' Lawyer Could Bring Down Trump
     
-*   _Michelle Goldberg_: Does Giuliani Have a Plan, or Is This Just a Freakout?
+*   _Douglas Macgregor_: Trump Turns Tragedy Into Triumph in Korea
     
-*   _John Podhoretz_: The Clear Method to Rudy's 'Mad' Defense
+*   _Antony Blinken_: To Win a Nobel, Trump Should Look to the Iran Deal
     
-*   _Susan Glasser_: Trump's Pursuit of an Oval Office Meeting With Putin
+*   _Kenneth Timmerman_: The Iran Deal Is Dead--Iran Killed It
     
-*   _Reuel Marc Gerecht_: The Iran Deal Is Strategically and Morally Absurd
+*   _Carrie Sheffield_: Nancy Pelosi's Mistake on Identity Politics
     
-*   _Christopher Dickey_: Trump's 'Fake News' Mantra Metastasizes Worldwide
+*   _Todd &. Murray_: Dems Have Better Chance to Flip Senate Than You Think
     
-*   _Kalev Leetaru_: Fact-Checking: A Business or a Public Service?
+*   _Henry Olsen_: Have Special Elections Warped Our Sense of the Midterms?
     
-*   _Jamelle Bouie_: The Racial Terrorism That Corrupted America--and Still Does
+*   _Matthew Spalding_: Keep the House Chaplain. In Fact, Get More Chaplains.
     
-*   _Pedro Gonzalez_: The Myth of American Racism
+*   _Tim Alberta_: James O'Keefe Can't Get No Respect
     
-*   _Matthew DeBord_: Elon Musk Is Paying the Price for His Contempt of Wall Street
+*   _Ryan Cooper_: Karl Marx Was No Prophet, But No Demon Either
     
-*   _John Davidson_: On Google's Insane Campus, Everything Is Politicized
+*   _Paul Kengor_: The Bicentennial of the Man Whose Ideas Killed Untold Millions
     
-*   _Heather Wilhelm_: The Supposed 'Horror Show' of Motherhood
+*   _Jon Meacham_: Trump Is More Father Coughlin Than Franklin Roosevelt
     
-*   _Karl Vick_: To Nix or to Fix: Trump's Major Dilemma on the Iran Deal
+*   _Michael Barone_: As Voters See Results, Is Trump on the Upswing?
     
-*   _Seth Lipsky_: Mueller's Outrageous Questions Prove Trump Shouldn't Talk
+*   _Wertheimer &. Eisen_: Attacks on Rosenstein Meant to Sabotage Mueller
     
-*   _Harry Litman_: Too Bad Giuliani Doesn't Lie as Well as Trump
+*   _Victor Davis Hanson_: What If Mueller Questioned Barack Obama?
     
-*   _Monica Showalter_: Dems' Nightmare About Kanye West Comes True
+*   _Caitlin Flanagan_: The First Porn President
     
-*   _Rebecca Onion_: Kanye's Brand of 'Freethinking' Has a Long, Awful History
+*   _Aubrey Shines_: How Illegal Immigration Is Damaging Black America
     
-*   _Scott Jennings_: How Both Parties &. the Media Were Blindsided by 2016
+*   _Roberts &. Kytle_: The Historian Behind Slavery Apologists Like Kanye West
     
 
 *   Previous
@@ -277,25 +277,25 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalReuters/Ipsos
-    *   Approve45
-    *   Disapprove53Disapprove +8
-*   President Trump Job ApprovalPew Research
-    *   Approve42
-    *   Disapprove54Disapprove +12
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve51
-    *   Disapprove49Approve +2
+    *   Approve49
+    *   Disapprove49Tie
 *   2018 Generic Congressional VoteReuters/Ipsos
     *   Democrats43
-    *   Republicans35Democrats +8
+    *   Republicans37Democrats +6
+*   Congressional Job ApprovalReuters/Ipsos
+    *   Approve31
+    *   Disapprove63Disapprove +32
+*   Direction of CountryReuters/Ipsos
+    *   Right Direction41
+    *   Wrong Track50Wrong Track +9
 
 More Latest Polls In The News
 
-*   President Trump on Mueller Sitdown: "If I Thought It Was Fair, I Would Override My Lawyers"
+*   David Brooks: People Have Made Calculation Trump's Achievements More Important Than Our Norms
+*   Bill Maher: "Dictator" Trump Is Restocking The Swamp And Remaking It Into His Own "Deep State"
+*   Fmr. Assistant Director Kallstrom: A "Fifth Column" Conspiracy In FBI To Stop A Trump Presidency
 *   Cavuto to Trump: How Can You Drain The Swamp If You're The One Muddying The Waters?
 *   Levin: Demand That Mueller Go To The Supreme Court To Put These Rogue Prosecutors In Their Place
-*   Dershowitz on Cohen Wiretap: I Don't Want To Live In A Surveillance State, I Do Not Trust Government
-*   Kanye West: When I Said Slavery Was "A Choice," I Meant "We Can Make Our Own Reality"
 
 *   Politics
 *   Policy
