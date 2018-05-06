@@ -577,4 +577,5 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag anExtra 10% OFFPlease enter aboveAccess the saleI DON'T WANT 10% OFF\*Cannot be combined with other offersYOU’VE SNAGGED 10% OFFUse CodeBXTNCL-Z7MTH7HBVWLGat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
+© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag50-70% OFFEverythingPlease enter aboveAccess the saleI don't want 50-70% off\*Exclusions apply. Cannot be combined with other offers.YOU’VE SNAGGED  
+50-70% off everythingCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
