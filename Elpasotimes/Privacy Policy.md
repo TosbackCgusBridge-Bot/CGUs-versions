@@ -1,4 +1,4 @@
-SUBSCRIBE NOW$0.99/1st month
+close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogSUBSCRIBE NOW$0.99/1st month
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW$0.99/1st month
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowCity Attorney will get $251K retirement payoutLocal2 El Paso teens arrested in beating of puppyCrimeNew details in road rage shooting on ZaragozaCrimeMan mugged at gunpoint. 3 arrestedCrimeAK-47 fired from SUV at car in street shootingCrimeMan sentenced to prison in shooting deathCrimeEl Paso Electric loses $7M in first quarterBusiness185 jobs open in El Paso summer youth programsNewsBel Air students' design in Vans' competitionEducationAlfresco Fridays has free concerts in DowntownEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPolice arrest several drunk drivers in 24-hoursCrimeChild-porn suspect targets public restroomsCrime2 El Paso teens arrested in beating of puppyCrimeCity Attorney will get $251K retirement payoutLocalGGG will pop Vanes in Cinco de Mayo beatdownBoxingNew details in road rage shooting on ZaragozaCrimeEl Paso Electric loses $7M in first quarterBusinessMan mugged at gunpoint. 3 arrestedCrimeJurassic Tour's dinosaurs return to Sun CityEventsAK-47 fired from SUV at car in street shootingCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -141,3 +141,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
