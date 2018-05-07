@@ -1,4 +1,4 @@
-Privacy Policy
+Privacy Policy Published: November 21, 2011 Updated: Tuesday, April 24, 12:00 PM
 
 _Published: April 24, 2018_
 
