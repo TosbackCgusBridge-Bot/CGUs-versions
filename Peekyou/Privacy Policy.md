@@ -66,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 14%  13%  13%  13%  Arrest Records &. Driving Infractions
+What is PeekScore? Public Records &. Background Checks 15%  15%  15%  15%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -107,53 +107,53 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 13%  Twitter 12% 
+Facebook 15%  Twitter 11% 
 
-*   CDC - CDCgov
-    
 *   Francis S. Collins - NIHDirector
     
-*   HIV.gov - HIVGov
+*   IRS - IRSnews
     
 *   NIH - NIH
+    
+*   CDC - CDCgov
     
 *   Show More ...
 
 *   Free Privacy Policy - FreePrivacy1
     
-*   HHS.gov - HHSGov
-    
-*   U.S. FDA - US\_FDA
-    
-*   Federal Reserve - federalreserve
-    
-*   FTC - FTC
+*   HIV.gov - HIVGov
     
 *   Bush Library - Bush41Library
     
+*   FTC - FTC
+    
 *   FDA Drug Information - FDA\_Drug\_Info
     
-*   Justice Department - TheJusticeDept
+*   U.S. FDA - US\_FDA
+    
+*   HHS.gov - HHSGov
     
 *   U.S. FDA - FDArecalls
     
 *   Mabuhay Miles - PALMabuhayMiles
     
-*   OAIC - OAICgov
-    
 *   U.S. Census Bureau - uscensusbureau
+    
+*   Justice Department - TheJusticeDept
+    
+*   OAIC - OAICgov
     
 *   HealthCare.gov - HealthCareGov
     
-*   Privacy Policy Updater - chrisjoregan
+*   Federal Reserve - federalreserve
     
 *   Cristiano Ronaldo - Cristiano
     
-*   IRS - IRSnews
+*   DOJ Civil Rights - CivilRights
     
 *   Show Less ...
 
-Instagram 12% 
+Instagram 11% 
 
 *   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
     
@@ -161,11 +161,11 @@ Instagram 12% 
     
 *   blah blah blah - privacypolicy\_\_1234
     
-*   Privacy Policy - insta\_privacy\_policy
+*   privacy policy - szymonwlog
     
 *   Show More ...
 
-*   privacy policy - szymonwlog
+*   Privacy Policy - insta\_privacy\_policy
     
 *   Djavid Johnson - \_privacy\_policy
     
@@ -193,8 +193,6 @@ Instagram 12% 
     
 *   Privacy Policy❌☠️ - prv.kennochakt
     
-*   privacypolicy - privacypolicy1991
-    
 *   PrivacyPolicy - privacypolicy4020
     
 *   privacypolicy - privacypolicy4072
@@ -217,31 +215,60 @@ Instagram 12% 
     
 *   privacy policy - privacy.p
     
+*   privacypolicy - privacypolicy4064
+    
 *   Show Less ...
 
-Pinterest 13%  Wikipedia 12% 
+Pinterest 14%  Wikipedia 10% 
 
-*   Jumper
+*   Privacy policy
     
-    This disambiguation page lists articles associated with the title Jumper. If an internal link led you here, you may wish to change the link to point directly to the intended article.
+    How can the answer be improved?
     
-*   Wikipedia
+*   Privacy policy
     
-    Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
+    A privacy policy is a statement or a legal document (in privacy law) that discloses some or all of the ways a party gathers, uses, discloses, and …
     
-*   P3P
+*   Wikipedia:Privacy policy
     
-    Purpose. As the World Wide Web became a genuine medium in which to sell products and services, electronic commerce websites tried to collect more information about the people who purchased their merchandise.
+    There are significant differences between the EU data protection and US data …
     
+*   Wikipedia:Privacy policy
+    
+    This page is an official policy on the Simple English Wikipedia. Many people agree with it. They see it as a standard idea that all users should follow. When changing this page, please check that other people agree with your changes.
+    
+*   Show More ...
 
-Google+ 12% 
+*   Privacy
+    
+    Collective elements describe privacy as collective good that cannot be divided. Regan's goal is to strengthen privacy claims in policy making: ...
+    
+*   Wikipedia talk:Privacy policy
+    
+    The project page associated with this talk page is an official policy on Wikipedia. Policies have wide acceptance among editors and are …
+    
+*   Information privacy
+    
+    Information privacy, or data privacy ... For example, it may specify how privacy policy information can be embedded in the SOAP envelope of a web service message.
+    
+*   Policy
+    
+    A policy is a deliberate system of principles to guide decisions and achieve rational outcomes. ... Presidential executive orders, corporate privacy policies, ...
+    
+*   Private police
+    
+    Private police are law enforcement bodies that are owned and/or controlled by non-governmental entities. Additionally, the term can refer to an off-duty police ...
+    
+*   Show Less ...
+
+Google+ 10% 
 
 *   Privacy Policy - Google+
     
     Post has attachment. Privacy Policy. Public... 1h · fgfgfg. fgfgfg. privacypolicyxvideo.blogspot.com. Add a comment... no plus ones. no shares. Looks like you've reached the end. Looks like you've reached the end. Unable to load more. Retry. Wait while more posts are being loaded.
     
 
-Linkedin 13%  Music 12% 
+Linkedin 14%  Music 10% 
 
 *   Pandora
     
@@ -287,7 +314,7 @@ Linkedin 13%  Music 12% 
     
 *   Show Less ...
 
-Photo Albums 12% 
+Photo Albums 10% 
 
 *   Flickr | Oath Policies
     
@@ -299,10 +326,10 @@ Photo Albums 12% 
     
 *   Flickr
     
-    Flickr (pronounced "flicker") is an image hosting service and video hosting service.It was created by Ludicorp in 2004 and is currently owned by SmugMug. In addition to being a popular website for users to share and embed personal photographs and an online community, the service is widely used by photo researchers and by bloggers to host …
+    Flickr (pronounced "flicker") is an image hosting service and video hosting service.It was created by Ludicorp in 2004. It has changed ownership several times and is owned by SmugMug since April 2018.
     
 
-Myspace 12% 
+Myspace 10% 
 
 *   Privacy Policy - 49086242
     
@@ -326,7 +353,7 @@ Myspace 12% 
     
 *   Show Less ...
 
-Web Search 13%  Images 12% 
+Web Search 14%  Images 10% 
 
 20
 
