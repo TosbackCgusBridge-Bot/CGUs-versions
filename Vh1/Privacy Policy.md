@@ -5,7 +5,7 @@
     *   TV Schedule
     *   VH1 App
     *   America's Next Top Model
-    *   VH1 Beauty Bar
+    *   Basketball Wives
     *   Black Ink Crew
     *   Dear Mama
     *   Hip Hop Squares
@@ -19,44 +19,12 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppAmerica's Next Top ModelVH1 Beauty BarBlack Ink CrewDear MamaHip Hop SquaresLeave It To StevieLove &. Hip HopLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceRuPaul's Drag Race All StarsTeyana &. Imansee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppAmerica's Next Top ModelBasketball WivesBlack Ink CrewDear MamaHip Hop SquaresLeave It To StevieLove &. Hip HopLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceShaunie's Home CourtTeyana &. Imansee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
 
-DEAR MAMA AIRS IN
-
-*   0
-*   9
-
-*   0
-*   9
-
-d
-
-*   1
-*   0
-
-*   9
-*   8
-
-h
-
-*   2
-*   1
-
-*   3
-*   2
-
-m
-
-*   2
-*   1
-
-*   9
-*   8
-
-s Privacy Policy And Your California Privacy Rights**Go to Terms of Use** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
+Privacy Policy And Your California Privacy Rights**Go to Terms of Use** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
 **Last Modified:** June 22, 2017  
 Summary of Most Significant Changes
 
