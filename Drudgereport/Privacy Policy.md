@@ -135,9 +135,13 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+We welcome the newest member to the Intermarkets team, Luke Rosche-Ritchie! Read about his extensive background, ways he'll help advertisers &. more here: goo.gl/SaVooD pic.twitter.com/LTXE…
+
+About 15 hours ago
+
 My week on Twitter : 1 Mention, 1.56K Mention Reach, 2 Likes. See yours with sumall.com/performan… pic.twitter.com/PyPm…
 
-About 5 days ago
+About 6 days ago
 
 My week on Twitter : 1 Mention, 1.15K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/XH0t…
 
@@ -148,10 +152,6 @@ About 2 weeks ago
 About 2 weeks ago
 
 My week on Twitter : 6 Likes, 3 Retweets, 1.92K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/MRxa…
-
-About 3 weeks ago
-
-Our biggest fans this week: @mrmistry, @Requidan, @Cassin75. Thank you! via sumall.com/thankyou?… pic.twitter.com/mYF9…
 
 About 3 weeks ago
 
