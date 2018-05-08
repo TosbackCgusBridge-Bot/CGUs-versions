@@ -266,6 +266,7 @@ Shop hats and sunglasses that complete any look.
         
         *   Looks
         
+        *   Americana Shop
         *   Everyday Essentials
         *   Festival Shop
         *   Casual Night Out
