@@ -258,7 +258,6 @@ Menu
         *   8 simple activities that may not be so simple when you have severe asthma
         *   Inspiring Students through STEM Education Programs
         *   GSK IMPACT Awards: 20 years of healthy communities
-        *   Soccer Star Shannon Boxx Takes Her Shot at Lupus Advocacy
         *   Don’t mind me. I’m just making sure I can breathe.
         *   Hyung makes sense of what consumers want
         *   Veterans continue to fight for respiratory health
