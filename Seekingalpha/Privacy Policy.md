@@ -12,6 +12,7 @@ PROMarketplaceSeeking Alpha
     *   IPOs
     *   US Economy
     *   M&A
+    *   Cryptocurrency
     
     *   News by Sector
     *   Tech
@@ -70,6 +71,7 @@ PROMarketplaceSeeking Alpha
     *   Forex
     *   Real Estate
     *   Editor's Picks
+    *   Cryptocurrency
     
     *   Investing Strategy
     *   Portfolio Strategy
