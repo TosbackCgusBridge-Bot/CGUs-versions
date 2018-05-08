@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Jonathan Turley_: Mueller Puts Politics Above the Law
+*   _Russell Berman_: Incumbency Is Toxic in the 2018 Republican Primaries
     
-*   _Tom Robbins_: Donald &. Rudy: How Did NYC Hatch This Wretched Pair?
+*   _Byron York_: Time to End the Crazy Secrecy of Trump-Russia Probe
     
-*   _Becket Adams_: John Kerry's 'Shadow Diplomacy' Is the Real Collusion
+*   _Adam Davidson_: Giuliani and the Desperate Campaign to Protect Trump
     
-*   _Albert Hunt_: Iowa Is a Crucial Test for Any Blue Wave
+*   _Andrew McCarthy_: Why Was Flynn Subjected to a Criminal Investigation?
     
-*   _Joel Kotkin_: Looking Beyond One-Party Rule in California
+*   _Eric Lichtblau_: The FBI Is in Crisis. It's Worse Than You Think
     
-*   _Leonard Pitts_: I'm Done Trying to Understand Trump Supporters
+*   _Amy Zimmerman_: Candace Owens: Meet Kanye West's Toxic Consigliere
     
-*   _Frank Miele_: Socialism, Bribery and the Death of the Republic
+*   _Roger Kimball_: Annals of Leftist Autophagy
     
-*   _Douglas Schoen_: America Must Leave the Iran Deal
+*   _Michelle Cottle_: Planned Parenthood Was Always Meant to Be Controversial
     
-*   _Ned Ryun_: China's Clear and Present Threat
+*   _Jonah Goldberg_: War on the Right
     
-*   _Barbara Ellen_: Polanski Defenders Enabled the Likes of Weinstein
+*   _Deion Kathawa_: Kristol, Goldberg &. the Suicide of Conservativism, Inc.
     
-*   _Boyd Matheson_: What's Your EVE (Education vs. Entertainment) Ratio?
+*   _Carl Cannon_: When Germans Surrendered to an Army of One
     
-*   _James Fallows_: The Reinvention of America
+*   _Mark Niquette_: Final Pitches Coming as Trump Weighs Iran Nuclear Deal
     
-*   _Michael Goodwin_: Trump Is Putting the U.S. Back on Top
+*   _Roger Simon_: Is Robert Mueller Destroying the Democratic Party?
     
-*   _Maureen Dowd_: The Naked Truth About Trump
+*   _Gail Collins_: Donald Trump and Rudy Giuliani, Disaster Twins
     
-*   _Salena Zito_: The 2016 Election Was Far From a Fluke
+*   _Michael Graham_: Could Rudy Giuliani Be Doing It Right?
     
-*   _Dan Balz_: Trump Turns Ohio's Political Landscape Upside Down
+*   _Philip Gordon_: Trump Is About to Provoke an Unnecessary Crisis With Iran
     
-*   _Carl M. Cannon_: Robert Mueller's Perjury Trap
+*   _Charles Hurt_: Will John Kerry Be Arrested?
     
-*   _Steve Hilton_: Mueller Probe a Coup Attempt That Must Be Defeated
+*   _Boris Johnson_: Improve the Iran Nuclear Deal, But Don't Scuttle It
     
-*   _Garry Kasparov_: Saving America: Trump Is a Symptom, Not the Disease
+*   _Juan Williams_: Kanye West: Useful Idiot for Trump
     
-*   _Wayne Allyn Root_: Dems' Stormy Attack on Trump Is Backfiring
+*   _Jonathan Tobin_: Trump Thrives as His Opponents Lob Unthinking Invective
     
-*   _Julian Zelizer_: Dems, Focus on Midterms - Not Trump Impeachment Talk
+*   _Melissa Quinn_: Rumor Mill in Overdrive Over Justice Kennedy's Future
     
-*   _Alfredo Ortiz_: President Trump's Historic Jobs Achievement
+*   _Larry Summers_: The Threat of Secular Stagnation Has Not Gone Away
     
-*   _Matthew Yglesias_: The Simple Question the White House Can't Answer
+*   _Robin Ridless_: Idea That Comey's Leaks Are Non-Criminal Is Falling Apart
     
-*   _Julie Kelly_: Judge Asks Mueller: Where's the Evidence?
+*   _Frank Bruni_: McCain Battles Trump With His Dying Breaths
     
 
 *   Previous
@@ -257,11 +257,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Fact-Checking: A Business or a Public Service?
+*   Pelosi Says Democrats Have Cash and Environment to Win House
 *   Mueller Probe Could Boost Republican Midterm Candidates
-*   Full Interview: Giuliani Talks Trump, Mueller, Clinton, Stormy Daniels
-*   Support for Trump Is a Litmus Test in 3 Republican Primaries
-*   W.Va. Senate Candidates Spar in Rancorous Republican Debate
+*   "SNL" Takes On Cohen, Trump, Giuliani, Melania With Stormy Daniels Cameo
+*   Kevin McCarthy's Unlikely Rise in Republican Party
+*   Fact-Checking: A Business or a Public Service?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -276,26 +276,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalReuters/Ipsos
+*   President Trump Job ApprovalCNN
+    *   Approve44
+    *   Disapprove51Disapprove +7
+*   President Trump Job ApprovalGallup
+    *   Approve42
+    *   Disapprove52Disapprove +10
+*   President Trump Job ApprovalRasmussen Reports
     *   Approve49
     *   Disapprove49Tie
-*   2018 Generic Congressional VoteReuters/Ipsos
-    *   Democrats43
-    *   Republicans37Democrats +6
-*   Congressional Job ApprovalReuters/Ipsos
-    *   Approve31
-    *   Disapprove63Disapprove +32
-*   Direction of CountryReuters/Ipsos
-    *   Right Direction41
-    *   Wrong Track50Wrong Track +9
+*   Direction of CountryRasmussen Reports
+    *   Right Direction42
+    *   Wrong Track52Wrong Track +10
 
 More Latest Polls In The News
 
+*   Hemingway on Kerry Iran Meetings: All The People Who Said Logan Act Was Real Are Oddly Silent Right Now
+*   Roger Stone vs. CNN's Cuomo: Mueller Has Indicted A Ham Sandwich. This Is About Undoing Election
+*   Vice President Pence Calls on Venezuela To Suspend "Fraud And Sham" May 20 Election
 *   Alan Dershowitz Warns: Trump Legal Team Is Playing Into Special Counsel Mueller's Hands
 *   Jonathan Turley: Yes, A Porn Star Can Take Down A President, If He's Not Careful
-*   Giuliani: "You're Damn Right" Comey Could Be Lying to Mueller
-*   David Brooks: People Have Made Calculation Trump's Achievements More Important Than Our Norms
-*   Bill Maher: "Dictator" Trump Is Restocking The Swamp And Remaking It Into His Own "Deep State"
 
 *   Politics
 *   Policy
