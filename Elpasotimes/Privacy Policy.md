@@ -1,4 +1,4 @@
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogSUBSCRIBE NOW$0.99/1st month
+SUBSCRIBE NOW$0.99/1st month
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dial
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowFatal train accident leaves one dead in El PasoNewsPolice arrest several drunk drivers in 24-hoursCrime1894 front page covers wild west gunfightNewsChild-porn suspect targets public restroomsCrime2 El Paso teens arrested in beating of puppyCrimeEl Paso area high school baseball playoff resultsHigh-schoolCity Attorney will get $251K retirement payoutLocalGGG will pop Vanes in Cinco de Mayo beatdownBoxingShop robbed at knifepoint on Friday the 13thCrimeHere's your BaseFest military music fest lineupNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowCabrera accuses Susie Byrd of race discriminationEducationDad arrested after baby daughter hospitalizedCrimeEl Paso's most wanted fugitives of the weekCrimeNew UTEP dean trades Hawaii for desert sunUtepFatal train accident leaves one dead in El PasoNewsPolice seek driver in hit-and-run accidentNewsChihuahuas promotions include hat giveawayBaseballSBA's top Texas award goes to El Paso businessmanBusiness1894 front page covers wild west gunfightNewsHere's your BaseFest military music fest lineupNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -141,5 +141,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
