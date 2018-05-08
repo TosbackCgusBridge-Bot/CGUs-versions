@@ -54,9 +54,9 @@ Want to know more? Get in touch!
 
 Select CountryAnguillaAntigua &. BarbudaArgentinaArmeniaAustraliaBahrainBarbadosBelgiumBelizeBermudaBoliviaBotswanaBrasilBritish Virgin IslandsBulgariaCamerounCanadaCayman IslandsČeská republikaChileChinaColombiaCosta RicaCôte d'IvoireDanmarkDeutschlandDominicaEcuadorEestiEgyptEl SalvadorEspañaFranceGreeceGrenadaGuatemalaGuinea-BissauGuinéeGuinée EquatorialeGuyanaHondurasHong KongHrvatskaIndiaIndonesiaIrelandIsraelItaliaJamaicaJapanJordanKenyaKoreaKuwaitLatvijaLiechtensteinLietuvaLuxembourgMacedoniaMadagascarMagyarországMalaysiaMaliMaltaMarocMauriceMéxicoMoldovaMontenegroMontserratMozambiqueNederlandNew ZealandNicaraguaNigerNigeriaNorgeOmanÖsterreichPanamáParaguayPerúPhilippinesPolskaPortugalPuerto RicoQatarRepública DominicanaRépublique CentrafricaineRomâniaRussiaSaudi ArabiaSchweizSénégalSingaporeSloveniaSlovenskoSouth AfricaSt. Kitts &. NevisSt. LuciaSt. Vincent &. The GrenadinesSuisseSuomiSurinameSverigeTaiwainThailandThe BahamasTrinidad &. TobagoTunisieTürkiyeTurks &. CaicosUgandaUnited KingdomUnited Arab EmiratesUnited StatesUruguayVenezuelaVietnam
 
-Agree to terms and conditions and privacy statement.
+I agree to the website’s terms and conditions and privacy statement.
 
-Yes please, I would like to receive by email content updates, services and products from MetrixlabNo, I don't want to receive any communication from Metrixlab
+Yes, I’d like to receive news and marketing communications from MetrixLab by email.No, I don't want to receive any additional marketing communications from MetrixLab.
 
 *   Solutions
     *   Product Innovation
