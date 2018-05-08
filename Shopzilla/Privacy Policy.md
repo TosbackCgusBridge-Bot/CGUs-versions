@@ -8,12 +8,6 @@ Connexity
     *   Online Intelligence
     *   Research &. Data Solutions
     
-    *   audience targeting
-    *   Overview
-    *   Our Audiences
-    *   Your Audiences
-    *   Modeled Audiences
-    
     *   cpc listings
     *   Retailer Listings
     *   Retailer Site Monetization
@@ -118,7 +112,6 @@ Connexity believes that relevant advertising is a good thing for consumers, and 
 Home  /  Privacy Policy Overview
 
 *   CPC Listings
-*   Programmatic
 *   Hitwise
 
 Resources
@@ -126,7 +119,6 @@ Resources
 *   Blog
 *   Case Studies
 *   Consumer Insights
-*   Publisher Program FAQs
 
 Connexity
 
@@ -140,6 +132,6 @@ Connexity
 
 © 2018 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
-Connexity®, Audience Discovery® and Hitwise® are registered trademarks of Connexity, Inc.
+Connexity® and Hitwise® are registered trademarks of Connexity, Inc.
 
-Sumo
+SumoFocus Retriever
