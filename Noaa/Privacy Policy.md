@@ -96,7 +96,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather NOAA adopts technology to automate weather balloon launches Oceans &. Coasts Science and shipwrecks: Preserving America’s maritime history National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather NOAA adopts technology to automate weather balloon launches Weather NOAA &. Air Force Reserve ‘Hurricane Hunters’ to visit Gulf Coast on preparedness tour National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA &. Air Force Reserve ‘Hurricane Hunters’ to visit Gulf Coast on preparedness tour Public and media invited to tour aircraft AROUND NOAA // Up, up and away! 6 benefits of automated weather balloon launches Globe had its 5th warmest March on record Video: Hurricane Hunter in search of a different kind of storm
+Enter Search Terms U.S. had its coldest April in more than 20 years Below-average temperatures spanned the Rockies to the East Coast AROUND NOAA // NOAA &. Air Force Reserve ‘Hurricane Hunters’ to visit Gulf Coast on preparedness tour Up, up and away! 6 benefits of automated weather balloon launches
 
 *   About our agency
 *   News and features
