@@ -1,4 +1,4 @@
-**Last Revised: April 26, 2018**
+**Last Revised: May 8, 2018**
 
 _**NOTICE**_ : **The Privacy Policy below will become _effective May 25, 2018_. To view the current Privacy Policy, click here.**  
 
@@ -133,17 +133,15 @@ We reserve the right to modify this Privacy Policy at any time. If we decide to 
 
 **Data Protection Authority.**
 
-If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the German Federal Commisioner for Data Protection and Freedom of Information (Die Bundesbeauftrafte für den Datenschutz und die Informationsfreiheit), as noted below:
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the UK's Information Commissioner’s Office, as noted below:
 
-Husarenstraße 30
+www.ico.org.uk
 
-53117 Bonn, Germany
+Information Commissioner’s Office
 
-Phone: +49 228 997799 0. +49 228 81995 0
+Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom
 
-Fax: +49 228 997799 550. +49 228 81995 550
-
-e-mail: poststelle@bfdi.bund.de    
+Phone: 0303 123 1113
 
 **Contact us.**
 
