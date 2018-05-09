@@ -43,11 +43,6 @@ Toggle navigationblog navsite nav
         *   AudienceView
         *   Online Intelligence
         *   Custom Research
-    *   Audience Targeting
-        *   Overview
-        *   Our Audiences
-        *   Your Audiences
-        *   Modeled Audiences
     *   CPC Listings
         *   Retailer Listings
         *   Retailer Site Monetization
