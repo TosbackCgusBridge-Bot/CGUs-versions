@@ -1,4 +1,4 @@
-SUBSCRIBE NOW$0.99/1st month
+close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogSUBSCRIBE NOW$0.99/1st month
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW$0.99/1st month
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowCabrera accuses Susie Byrd of race discriminationEducationDad arrested after baby daughter hospitalizedCrimeEl Paso's most wanted fugitives of the weekCrimeNew UTEP dean trades Hawaii for desert sunUtepFatal train accident leaves one dead in El PasoNewsPolice seek driver in hit-and-run accidentNewsChihuahuas promotions include hat giveawayBaseballSBA's top Texas award goes to El Paso businessmanBusiness1894 front page covers wild west gunfightNewsHere's your BaseFest military music fest lineupNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMetro PCS worker accused in robbery at own storeCrimeDad arrested after baby daughter hospitalizedCrimeCabrera accuses Susie Byrd of race discriminationEducation8,000 protest higher taxable home valuesLocal10 gift ideas for Mother's Day in El PasoNewsMLB prospect seen hitting woman joins Mexico teamBaseballHomeless man on trial in girlfriend's deathCrimeNew UTEP dean trades Hawaii for desert sunUtepEl Paso's most wanted fugitives of the weekCrimeChihuahuas promotions include hat giveawayBaseballHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -141,3 +141,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
