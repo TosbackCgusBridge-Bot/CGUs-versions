@@ -19,6 +19,7 @@ Search terms Search On Our Radar
 *   Data
 *   Design
 *   Economy
+*   Jupyter
 *   Operations
 *   Security
 *   Software Architecture
@@ -32,6 +33,7 @@ See all On Our Radar
 *   Data
 *   Design
 *   Economy
+*   Jupyter
 *   Operations
 *   Security
 *   Software Architecture
@@ -277,4 +279,4 @@ About Us
 
 Terms of Service • Privacy Policy • Editorial Independence
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1732687426968531&amp;ev=PageView&amp;noscript=1">
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1732687426968531&amp;ev=PageView&amp;noscript=1">.
