@@ -9,7 +9,6 @@ Menu Mozilla
 
 Download Firefox — English (US)
 
-*   Windows (XP/Vista)
 *   Windows 64-bit
 *   Windows 32-bit
 *   macOS
@@ -22,7 +21,6 @@ Your system may not meet the requirements for Firefox, but you can try one of th
 
 Download Firefox — English (US)
 
-*   Windows (XP/Vista)
 *   Windows 64-bit
 *   Windows 32-bit
 *   macOS
@@ -37,7 +35,6 @@ Your system doesn't meet the requirements to run Firefox.
 
 Please follow these instructions to install Firefox.
 
-*   **Download Firefox**
 *   **Download Firefox**
 *   **Download Firefox**
 *   **Download Firefox**
