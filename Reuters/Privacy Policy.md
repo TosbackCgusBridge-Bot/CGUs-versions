@@ -193,4 +193,4 @@ Connecting your feedback with data related to your visits (device-specific, usag
 
 More information
 
-Skip Send Select an element on the page. <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=6540&amp;fmt=gif">.
+Skip Send Select an element on the page.
