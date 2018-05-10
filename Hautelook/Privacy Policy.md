@@ -8,17 +8,53 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   kate spade new york Up to 50% Off
-    *   kate spade new york Clothing Up to 60% Off
-    *   kate spade new york Shoes Up to 55% Off
-    *   kate spade new york Accessories Up to 60% Off
-    *   kate spade new york Swim Up to 60% Off
-    *   kate spade new york Girls Up to 50% Off
+    *   New Arrivals from Splendid
+    *   L'Atiste
+    *   Splendid Shoes Starting at $40
+    *   MCM Sunglasses Up to 80% Off
+    *   Red Carter Swim Up to 70% Off
+    *   tibi
+    *   Color Pop: Ultra-Vibrant Shoes
+    *   Lancaster Paris
+    *   White-Hot Summer Styles Starting at $15
+    *   Gemstones, Stacking Rings &. More Starting at $20
+    *   Bright &. Bold: Scarves, Wraps &. More
+    *   Bold Colors: Shirts, Polos &. More
+    *   Tahari
+    *   Grace in LA
+    *   Evening Glam: Dresses Under $100
+    *   Shine On: Evening Clutches
+    *   DSGN Yoga Under $35
+    *   dav Rain Boots
+    *   Athena Alexander
+    *   Stripe It Up: Summer Styles Starting at $15
+    *   Free Shipping: Spring-Fresh Bedding Up to 85% Off
+    *   Car Storage &. Organization Essentials from $10
+    *   Kenneth Cole Men
+    *   Ben Sherman Dress Shirts Under $35
+    *   Designer Watches: Versace, Fendi &. More
+    *   Premium Suiting Up to 60% Off
+    *   Free Shipping: Italian Sterling Silver from $15
+    *   Rush by Gordon Rush
+    *   GEOX Kids
+    *   Splendid Kids
+    *   Azul Kids' Swimwear
+    *   BEBE Girls
+    *   Detox Organics: Chocolate Superfoods
+    
+    *   Olisi
+    *   Ramy Brook
     *   KitchenAid
-    *   kate spade new york Home Starting at $10
     *   Free Shipping: Graphic Art Prints
     *   Free Shipping: Modern Bohemian Decor
     *   Free Shipping: Beach Towels Starting at $10
+    *   kate spade new york Up to 50% Off
+    *   kate spade new york Shoes Up to 55% Off
+    *   kate spade new york Clothing Up to 60% Off
+    *   kate spade new york Accessories Up to 60% Off
+    *   kate spade new york Girls Up to 50% Off
+    *   kate spade new york Swim Up to 60% Off
+    *   kate spade new york Home Starting at $10
     *   Ro &. De
     *   Chinese Laundry
     *   SmoothSkin Gold Hair Removal System
@@ -34,24 +70,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Total Dreamz Nightlights
     *   True Religion Up to 60% Off
     *   True Religion Men Up to 55% Off
-    *   Olisi
-    *   Ramy Brook
-    *   Loveappella
     *   True Religion Kids Up to 60% Off
-    *   isabella rose Swim
-    *   Marc Fisher LTD
-    
-    *   French Connection
-    *   Celine Dion Handbags
-    *   Manas
-    *   Skechers Performance
     *   14K Gold Jewelry &. More Starting at $25
-    *   Summer's Must-Have Bags
     *   StriVectin
     *   Beauty Must-Haves Starting at $10
-    *   Under $50: SoMe Shoes
-    *   BareTraps
     *   Treasure Boxes: Jewelry Storage Starting at $15
+    
     *   John Varvatos Sun &. More
     *   Original Penguin Shoes Starting at $20
     *   Rip Curl
@@ -61,27 +85,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Solar Lighting, Doormats &. More
     *   Polo Ralph Lauren Kids' Shoes Under $30
     *   Free Shipping: Modern Rugs Up to 75% Off
-    *   Free Shipping: On-Trend Jewelry Starting at $15
-    *   Bravado Designs Maternity &. Nursing Intimates
     *   Cotton On &. Co. Men Under $40
     *   Dads and Grads: Dress Shirts &. More
     *   Spring Essentials: Linen Shirts &. More
     *   Brandblack Up to 60% Off
     *   FaceBase Cosmetics Under $20
-    *   Leather Wrap Bracelets &. More Starting at $15
-    *   Bumkins Baby
-    *   Cotton On &. Co. Kids
     *   Face Masks We Love Up to 85% Off
-    *   Kenneth Cole New York
-    
     *   Rodial Skin Care
-    *   Faherty
-    *   Borgo 28 &. More
-    *   Bravado Concert Tees Under $20
-    *   Stacy Adams
     *   Free Shipping: Bath Towels &. More Up to 75% Off
-    *   Teami Blends Detox Teas &. Supplements
-    *   Skinn Cosmetics Starting at $10
     *   Free Shipping: Trendsetting Glassware &. More
     *   Free Shipping: Luxe Rug Steals
     *   Sleek Accents: Organizers &. More for Every Room
@@ -89,27 +100,43 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Eye-Catching Wall Art &. More
     *   Free Shipping: On-Trend Accent Furniture
     *   Free Shipping: Boho-Chic Decor
-    *   Free Shipping: Pillows, Art &. More from $10
-    *   From $10: Gadgets for the Tech-Obsessed
     *   Something for Everyone: Decor Up to 65% Off
     *   Hair Tools Blowout
     *   Men's Shoes Up to 65% Off
     *   Men's Final Few Up to 75% Off
-    *   Spring Shoe Blowout
     *   Tech Accessory Blowout
-    *   Sunday Steals: Styles Up to 70% Off
-    *   Jewelry Box Essentials Up to 80% Off
-    *   Vertigo Up to 85% Off
-    *   One-of-a-Kind Bags &. More Up to 80% Off
     *   Cotton On &. Co.
-    *   Spring Denim Under $50 ft. Sam Edelman
-    *   Naked Zebra Under $35
-    *   New Arrivals: Go Couture Dresses
+    *   Cotton On &. Co. Kids
 *   WomenShop Sale Events
     
+    *   New Arrivals from Splendid
+    *   L'Atiste
+    *   Splendid Shoes Starting at $40
+    *   MCM Sunglasses Up to 80% Off
+    *   Red Carter Swim Up to 70% Off
+    *   tibi
+    *   Color Pop: Ultra-Vibrant Shoes
+    *   Lancaster Paris
+    *   White-Hot Summer Styles Starting at $15
+    *   Gemstones, Stacking Rings &. More Starting at $20
+    *   Bright &. Bold: Scarves, Wraps &. More
+    *   Tahari
+    *   Grace in LA
+    *   Evening Glam: Dresses Under $100
+    *   Shine On: Evening Clutches
+    *   DSGN Yoga Under $35
+    *   dav Rain Boots
+    *   Athena Alexander
+    *   Stripe It Up: Summer Styles Starting at $15
+    *   Designer Watches: Versace, Fendi &. More
+    *   Free Shipping: Italian Sterling Silver from $15
+    *   Detox Organics: Chocolate Superfoods
+    *   Olisi
+    *   Ramy Brook
+    
     *   kate spade new york Up to 50% Off
-    *   kate spade new york Clothing Up to 60% Off
     *   kate spade new york Shoes Up to 55% Off
+    *   kate spade new york Clothing Up to 60% Off
     *   kate spade new york Accessories Up to 60% Off
     *   kate spade new york Swim Up to 60% Off
     *   Ro &. De
@@ -121,70 +148,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Andre Assous
     *   Summer Safari: Camo, Animal Prints &. More
     *   True Religion Up to 60% Off
-    *   Olisi
-    *   Ramy Brook
-    *   Loveappella
-    *   isabella rose Swim
-    *   Marc Fisher LTD
-    *   French Connection
-    *   Celine Dion Handbags
-    *   Manas
-    *   Skechers Performance
     *   14K Gold Jewelry &. More Starting at $25
-    
-    *   Summer's Must-Have Bags
     *   StriVectin
     *   Beauty Must-Haves Starting at $10
-    *   Under $50: SoMe Shoes
-    *   BareTraps
     *   Treasure Boxes: Jewelry Storage Starting at $15
-    *   Free Shipping: On-Trend Jewelry Starting at $15
     *   FaceBase Cosmetics Under $20
-    *   Leather Wrap Bracelets &. More Starting at $15
     *   Face Masks We Love Up to 85% Off
     *   Rodial Skin Care
-    *   Teami Blends Detox Teas &. Supplements
-    *   Skinn Cosmetics Starting at $10
     *   Hair Tools Blowout
-    *   Spring Shoe Blowout
-    *   Sunday Steals: Styles Up to 70% Off
-    *   Jewelry Box Essentials Up to 80% Off
-    *   Vertigo Up to 85% Off
-    *   One-of-a-Kind Bags &. More Up to 80% Off
     *   Cotton On &. Co.
-    *   Spring Denim Under $50 ft. Sam Edelman
-    *   Naked Zebra Under $35
-    *   New Arrivals: Go Couture Dresses
     
     Shop By Category
     *   Clothing
     *   Jewelry
-    *   Handbags
     *   Shoes
-    *   Tech Accessories
+    *   Handbags
     *   Accessories
+    *   Tech Accessories
     *   Watches
+    *   Lingerie
 *   MenShop Sale Events
     
+    *   Bold Colors: Shirts, Polos &. More
+    *   Kenneth Cole Men
+    *   Ben Sherman Dress Shirts Under $35
+    *   Designer Watches: Versace, Fendi &. More
+    *   Premium Suiting Up to 60% Off
+    *   Rush by Gordon Rush
     *   Psycho Bunny
     *   Peter Millar
     *   Mix &. Match: Suit Separates &. More
     *   True Religion Men Up to 55% Off
+    
     *   John Varvatos Sun &. More
     *   Original Penguin Shoes Starting at $20
     *   Rip Curl
     *   Men's Jewelry Up to 60% Off
     *   Cotton On &. Co. Men Under $40
     *   Dads and Grads: Dress Shirts &. More
-    
     *   Spring Essentials: Linen Shirts &. More
     *   Brandblack Up to 60% Off
-    *   Kenneth Cole New York
-    *   Faherty
-    *   Borgo 28 &. More
-    *   Bravado Concert Tees Under $20
-    *   Stacy Adams
-    *   Teami Blends Detox Teas &. Supplements
     *   Men's Shoes Up to 65% Off
     *   Men's Final Few Up to 75% Off
     
@@ -192,66 +195,70 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   GEOX Kids
+    *   Splendid Kids
+    *   Azul Kids' Swimwear
+    *   BEBE Girls
     *   kate spade new york Girls Up to 50% Off
     *   Nicole Miller Girls' Shoes
     *   Total Dreamz Nightlights
     *   True Religion Kids Up to 60% Off
     *   Polo Ralph Lauren Kids' Shoes Under $30
-    *   Bravado Designs Maternity &. Nursing Intimates
-    *   Bumkins Baby
     *   Cotton On &. Co. Kids
     
     Shop By Category
-    *   Baby Girl
-    *   Girls Sizes 2T-6X
-    *   Baby Gear &. Essentials
-    *   Girls' Shoes
-    *   Boys Sizes 2T-7
     *   Girls Sizes 7-16
-    *   Boys' Shoes
+    *   Girls Sizes 2T-6X
+    *   Baby Girl
     *   Boys Sizes 8-20
+    *   Boys Sizes 2T-7
+    *   Girls' Shoes
+    *   Baby Gear &. Essentials
+    *   Boys' Shoes
     *   Baby Boy
     *   Kids Accessories
     *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Spring-Fresh Bedding Up to 85% Off
+    *   Car Storage &. Organization Essentials from $10
     *   KitchenAid
-    *   kate spade new york Home Starting at $10
     *   Free Shipping: Graphic Art Prints
     *   Free Shipping: Modern Bohemian Decor
     *   Free Shipping: Beach Towels Starting at $10
+    *   kate spade new york Home Starting at $10
     *   Free Shipping: Modern Accent Furniture &. More
     *   Free Shipping: Chic Bedding Starting at $24
     *   Free Shipping: Solar Lighting, Doormats &. More
     *   Free Shipping: Modern Rugs Up to 75% Off
+    
     *   Free Shipping: Bath Towels &. More Up to 75% Off
     *   Free Shipping: Trendsetting Glassware &. More
-    
     *   Free Shipping: Luxe Rug Steals
     *   Sleek Accents: Organizers &. More for Every Room
     *   Good Call: Cases for iPhone &. More
     *   Free Shipping: Eye-Catching Wall Art &. More
     *   Free Shipping: On-Trend Accent Furniture
     *   Free Shipping: Boho-Chic Decor
-    *   Free Shipping: Pillows, Art &. More from $10
-    *   From $10: Gadgets for the Tech-Obsessed
     *   Something for Everyone: Decor Up to 65% Off
     *   Tech Accessory Blowout
     
     Shop By Category
     *   Home Decor
-    *   Outdoor Living
-    *   Kitchen &. Tabletop
     *   Bedding
+    *   Kitchen &. Tabletop
+    *   Outdoor Living
+    *   Luggage &. Travel
     *   Bath
     *   Accent Furniture
     *   Organization
-    *   Luggage &. Travel
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   Detox Organics: Chocolate Superfoods
     *   SmoothSkin Gold Hair Removal System
     *   Skinny Tan Starting at $10
     *   StriVectin
@@ -259,16 +266,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   FaceBase Cosmetics Under $20
     *   Face Masks We Love Up to 85% Off
     *   Rodial Skin Care
-    *   Teami Blends Detox Teas &. Supplements
-    *   Skinn Cosmetics Starting at $10
     *   Hair Tools Blowout
     
     Shop By Category
-    *   Skin Care
     *   Hair Care
+    *   Skin Care
     *   Makeup
-    *   Supplements
     *   Tools &. Accessories
+    *   Supplements
     *   Bath &. Body
     *   Beauty Accessories
     *   Nails
