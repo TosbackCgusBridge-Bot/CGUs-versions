@@ -135,23 +135,23 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+If banners are dead, why is the digital display market predicted to top $48 billion this year? @Requidan talks about the rumored demise of cookies, banners &. more: bit.ly/2KOLMig via @adexchanger
+
+Yesterday
+
 My week on Twitter : 6 Mentions, 17.3K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/VxpU…
 
-About 5 hours ago
+Yesterday
 
 We welcome the newest member to the Intermarkets team, Luke Rosche-Ritchie! Read about his extensive background, ways he'll help advertisers &. more here: goo.gl/SaVooD pic.twitter.com/LTXE…
 
-About 2 days ago
+About 3 days ago
 
 My week on Twitter : 1 Mention, 1.56K Mention Reach, 2 Likes. See yours with sumall.com/performan… pic.twitter.com/PyPm…
 
 Last week
 
 My week on Twitter : 1 Mention, 1.15K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/XH0t…
-
-About 2 weeks ago
-
-.@Requidan joins @adage on the Ad Lib podcast. Chats about innovation, our portfolio, Drudge Report &. more! Listen here: bit.ly/2HnrChe
 
 About 2 weeks ago
 
