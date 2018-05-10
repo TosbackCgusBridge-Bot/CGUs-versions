@@ -259,7 +259,7 @@ Click here for version 2.0.
 
 Click here for version 1.1.
 
-About Us
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1732687426968531&amp;ev=PageView&amp;noscript=1">. About Us
 
 *   Our Company
 *   Teach/Speak/Write
@@ -278,5 +278,3 @@ About Us
   
 
 Terms of Service • Privacy Policy • Editorial Independence
-
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1732687426968531&amp;ev=PageView&amp;noscript=1">.
