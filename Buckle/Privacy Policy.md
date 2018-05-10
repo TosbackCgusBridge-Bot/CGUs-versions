@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Shop hats and sunglasses that complete any look.
+Mother’s Day is May 13th. Shop the gift guide and find the perfect gift for Mom.
 
 *   Women
 *   Men
