@@ -16,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.912,21ǀ
+*   DAX 12.943,06ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -54,7 +54,6 @@ Anmelden
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
         *   Immowelt
-        *   Tarifvergleiche
 *   Panorama
     
     *   *   Übersicht
@@ -161,7 +160,7 @@ Anmelden
         *   Tests
         *   Fahrkultur
         *   IAA 2017
-    *   *   Kfz-Versicherung
+    
 *   Stil
     
     *   *   Übersicht
@@ -744,5 +743,4 @@ SPIEGEL GRUPPE
 *   \-Kontakt
 *   \-Hilfe
 
-Advertisement  
-BESbswyBESbswyBESbswy
+Advertisement
