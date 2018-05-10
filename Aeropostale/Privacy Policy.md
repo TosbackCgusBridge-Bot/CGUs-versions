@@ -572,4 +572,4 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag50-70% OFFEverythingPlease enter aboveAccess the saleI don't want 50-70% off\*Exclusions apply. Cannot be combined with other offers.YOU’VE SNAGGED  
-50-70% off everythingCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialogBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+50-70% off everythingCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
