@@ -33,27 +33,23 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 3 OF COUPON CODE SAVEBIG8 ENDS IN
+Near YouFind a StoreBack FINAL HOURS! COUPON CODE SAVEBIG8 ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 3 3 2 2 secs SEPHORA FRAGRANCESShop AllSEPHORA FRAGRANCESShop All
 
-\*offer ends 5/9/18
-
-Days 0 0 0 0 hours 4 4 0 0 mins 4 4 9 8 secs SEPHORA FRAGRANCESShop AllSEPHORA FRAGRANCESShop All
-
-*   $72 - $122
-    
-    Prada Candy Sugar Pop(19)
 *   $69 - $91
     
     Yves Saint Laurent Black Opium(2107)
+*   $72 - $122
+    
+    Prada Candy Sugar Pop(20)
 *   $68 - $115
     
     Donna Karan Cashmere Mist Eau De Parfum(219)
-*   $20 - $59
+*   $96 - $109
     
-    philosophy Amazing Grace Fragrance(1519)
-*   $45
+    Marc Jacobs Fragrances Daisy Eau So Fresh(840)
+*   $72 - $92
     
-    Marc Jacobs Fragrances Daisy Rollerball Trio(2)
+    Prada Candy(1033)
 
 SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
 
@@ -67,11 +63,6 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     was $74
     
     Melrose 3/4 Sleeve Lace Fit &. Flare Dress(5)
-*   $29.99 sale
-    
-    was $60
-    
-    a.n.a 3/4 Sleeve Embroidered Floral Shift Dress(1)
 *   $42.99 sale
     
     was $74
@@ -82,6 +73,11 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     was $120
     
     Melrose Sleeveless Evening Gown(10)
+*   $29.99 sale
+    
+    was $60
+    
+    a.n.a 3/4 Sleeve Embroidered Floral Shift Dress(2)
 
 50% OFF SELECT HANDBAGS &. WALLETSShop All50% OFF SELECT HANDBAGS &. WALLETSShop All
 
@@ -89,7 +85,7 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     
     was $75
     
-    Liz Claiborne Leanne 4-Poster Shoulder Bag(99)
+    Liz Claiborne Leanne 4-Poster Shoulder Bag(101)
 *   $25 sale
     
     was $50
@@ -99,27 +95,20 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     
     was $65
     
-    Liz Claiborne Amy Tote Bag
+    Liz Claiborne Amy Tote Bag(1)
 *   $24.99 sale
     
     was $60
     
     St. John's Bay Straw Colorblock Tote Bag
-*   $45 sale
+*   $20 sale
     
-    was $75
+    was $40
     
-    Liz Claiborne Jess Tote Bag(31)
+    Liz Claiborne Monica Crossbody Bag(1)
 
 UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
 
-*   LIMITED TIME SPECIAL!
-    
-    $25.99 sale
-    
-    was $44
-    
-    a.n.a. Surplice Shirttail(17)
 *   LIMITED TIME SPECIAL!
     
     $11.10 sale
@@ -129,11 +118,11 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     Liz Claiborne Tie Sleeve Bib Front Peasant Top(12)
 *   LIMITED TIME SPECIAL!
     
-    $11.99 sale
+    $25.99 sale
     
-    was $42
+    was $44
     
-    Boutique + 3/4 Sleeve V Neck Woven Floral Blouse - Plus(10)
+    a.n.a. Surplice Shirttail(17)
 *   LIMITED TIME SPECIAL!
     
     $13.99 sale
@@ -141,6 +130,13 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     was $47
     
     Boutique + Long Sleeve Cardigan - Plus(10)
+*   LIMITED TIME SPECIAL!
+    
+    $14.70 sale
+    
+    was $49
+    
+    3/4 Sleeve Embroidered Peasant Blouse - Plus(2)
 *   LIMITED TIME SPECIAL!
     
     $10.99 sale
@@ -160,11 +156,11 @@ UP TO 70% OFF WINDOWShop AllUP TO 70% OFF WINDOWShop All
     Royal Velvet Supreme Grommet-Top Blackout Curtain Panel(9)
 *   LIMITED TIME SPECIAL!
     
-    $11.99 - $24.99 sale
+    $14.99 - $26.99 sale
     
-    was $50 - $100
+    was $60 - $110
     
-    Studio™ Quintet Lined Grommet-Top Curtain Panel(20)
+    Liz Claiborne® Kathryn Diamond Pleated Grommet-Top Curtain Panel(21)
 *   LIMITED TIME SPECIAL!
     
     $5.99 - $16.99 sale
@@ -174,18 +170,18 @@ UP TO 70% OFF WINDOWShop AllUP TO 70% OFF WINDOWShop All
     Home Expressions™ Cassidy Room-Darkening Rod-Pocket Curtain Panel(91)
 *   LIMITED TIME SPECIAL!
     
-    $14.99 - $26.99 sale
+    $11.99 - $24.99 sale
     
-    was $60 - $110
+    was $50 - $100
     
-    Liz Claiborne® Kathryn Diamond Pleated Grommet-Top Curtain Panel(21)
+    Studio™ Quintet Lined Grommet-Top Curtain Panel(20)
 *   LIMITED TIME SPECIAL!
     
     $11.99 - $29.99 sale
     
     was $50 - $120
     
-    Liz Claiborne Kathryn Floral Room Darkening Grommet-Top Curtain Panel(27)
+    Liz Claiborne Kathryn Floral Room Darkening Grommet-Top Curtain Panel(28)
 
 Shop and Save at JCPenney
 
