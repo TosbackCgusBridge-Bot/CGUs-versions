@@ -6,46 +6,47 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movies Now Playing
     
     *   Avengers: Infinity War
+    *   Overboard (2018)
     *   A Quiet Place
     *   I Feel Pretty
     *   Rampage (2018)
+    *   Tully (2018)
     *   Black Panther
-    *   Super Troopers 2
     *   Blumhouse's Truth or Dare (2018)
+    *   Super Troopers 2
+    *   Bad Samaritan
     *   Blockers
-    *   Ready Player One
-    *   Traffik
-    *   Isle of Dogs
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Bad Samaritan
-    *   Overboard (2018)
-    *   Tully (2018)
-    *   102 Not Out
-    *   Altered Perception
-    *   The Cleanse
-    *   The Desert Bride
-    *   The Guardians (2018)
-    *   Ray Meets Helen
-    *   RBG
+    *   Breaking In (2018)
+    *   Life of the Party
+    *   Another Kind of Wedding
+    *   Anything
+    *   Beast
+    *   Champion (2018)
+    *   Class Rank
+    *   Higher Power
+    *   Mountain (2018)
+    *   Revenge (2018)
+    *   The Seagull (2018)
     *   See All Opening This Week
     
     Pre Sales Tickets
     
     *   Deadpool 2
+    *   Solo: A Star Wars Story
     
     Coming Soon
     
-    *   Breaking In (2018)
-    *   Life of the Party
     *   Book Club
     *   Show Dogs
-    *   Solo: A Star Wars Story
     *   Action Point
     *   Adrift (2018)
+    *   Hereditary
     *   Ocean's 8
+    *   Incredibles 2
     *   See All Coming Soon
     
     Explore More
@@ -73,9 +74,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Everything We Know About 'Avengers 4' So Far Read More
-    *   Watch First, Sleek 'Robin Hood' Trailer. Here's Everything We Know Read More
-    *   Paul Giamatti Joins Dwayne Johnson's 'Jungle Cruise'. Here's Everything We Know Read More
+    *   Annette Bening Joins 'Captain Marvel'. Here's Everything We Know So Far Read More
+    *   David Gordon Green to Direct New 'Friday Night Lights' Movie. Here's Everything We Know Read More
+    *   Lupita Nyong'o to Star in Jordan Peele's 'Us'. Here's What We Know So Far Read More
     
     Explore Content
     *   Movie Reviews
@@ -276,9 +277,9 @@ Offers
     
     Choose 1 of 5 FREE\* exclusive posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'Ready Player One' Gift With Purchase
+*   'Mamma Mia! Here We Go Again' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Ready Player One' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE song download\* of 'When I Kissed the Teacher' from the movie soundtrack with ticket purchase. BUY TICKETS
     
 
 New + Coming soon
