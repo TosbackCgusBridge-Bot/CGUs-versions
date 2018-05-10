@@ -20,11 +20,6 @@ Close
 More Pages Privacy
 
 *   Approach to Privacy
-    *   Accountability For Information Use
-    *   Other Privacy Resources
-    *   Questions About Our Approach To Privacy
-    *   Upholding Our Information Values
-    *   Web Traffic Analysis
 *   Privacy Policies
     *   Ask Experian
     *   Audience IQSM
@@ -34,7 +29,7 @@ More Pages Privacy
     *   Client Registration
     *   ConsumerInfo.com Policy
     *   Data SelectSM
-    *   EU Safe Harbor Privacy Policy
+    *   Experian EU-U.S. Privacy Shield Privacy Policy
     *   Experian ConnectSM
     *   Experian’s Usage of Marketing Data
     *   Online Business Credit Reports
