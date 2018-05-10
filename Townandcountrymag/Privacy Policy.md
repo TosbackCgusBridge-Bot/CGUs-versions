@@ -53,7 +53,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 The Glorious Heyday of the Met Gala 2 How to Watch Meghan Markle and Harry's Wedding 3 What to Pack for a Trip to Capri 4 T&C's Mother's Day Gift Guide 5 21 Quotes That Go Beyond 'Happy Mother's Day' Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Met Gala Celebs and the Art They Were Inspired By 2 How to Watch Meghan Markle and Harry's Wedding 3 What to Pack for a Trip to Capri 4 T&C's Mother's Day Gift Guide 5 21 Quotes That Go Beyond 'Happy Mother's Day' Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -179,15 +179,17 @@ Last revised on April 1, 2016
 
 Last revised on April 1, 2016
 
+Watch Next
+
 Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
 *   The New York Botanical Garden's Kiku Dinner
-*   Elliot Sudal: The Man Who Wrangles Sharks on Nantucket with His Bare Hands
-*   A Summer Soirée: T&C. Celebrates Style and Design
-*   DID THEY EAT CAKE?
-*   Things to Learn from DVF's Dinner Party Décor
-*   Exhibitions To Check Out Before They Close Soon
+*   A Ton of Confiscated Ivory Was Destroyed in Times Square This Morning
+*   10 Glam Places That Are Also Totally Spooky
+*   These Legendary Pieces of Art Can Be Yours To Take Home This Month
+*   Sonoma's Bedrock Wine Co. Makes as Good a Zinfandel as You Can Find
+*   The Rich Kids of Instagram Had a Much Better Summer Than You
 
 *   Newsletter
 *   Contact Us
