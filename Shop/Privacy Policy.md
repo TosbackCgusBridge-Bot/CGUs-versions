@@ -365,13 +365,11 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Multiplayer lightsaber duels have arrived.
+"The Maserati of business laptops." LAPTOP, March 9, 2018, 5 out of 5 Stars Editor's Rating
 
-Learn more >.
+Build your new ThinkPad X1 Carbon >>.
 
-Capture, share and relive
-
-Lenovo and Google have shaken up the VR world with the new Mirage Solo and mirage camera
+Save up to $350.00 off a feather-light, portable and state-of-the-art PC with AMD Ryzen processor. Limited time only. Sale ends May 17.
 
 Shop Now >.
 
@@ -387,11 +385,11 @@ Learn More >.
 
 TODAY'S SALES
 
-Save up to $600 through May 10.
+Save up to $500 through May 17.
 
-NATIONAL BUSINESS WEEK – EXTENDED
+Lenovo Small Business
 
-Sign up to LenovoPro and receive exclusive extended access to this year’s best savings. Sale ends May 10.
+Explore how Lenovo can be your small business partner.
 
 Price, Durability, Features, Looks
 
@@ -511,17 +509,3 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
-
-How can we help you today?
-
-CONSUMER SALESCONSUMER SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
-
-Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
-
-1 2 3 4 5 6 7 8 9 10
-
-Please tell us how we can improve your experience:
-
-SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
