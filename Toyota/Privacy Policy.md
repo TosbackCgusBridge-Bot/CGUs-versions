@@ -10,7 +10,7 @@
 *   Shopping Tools
 *   Find a Dealer
 *   Build &. Price
-*   Local Offers
+*   Local Deals
 
 *   Cars &. Minivans
 *   Trucks
@@ -81,7 +81,7 @@
 View All Vehicles
 
 *   Build &. Price
-*   Local Offers
+*   Local Deals
 *   Search Inventory
 *   KBB Trade-In Value
 
@@ -128,7 +128,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 *   Owners
 
 *   Build &. Price
-*   Local Offers
+*   Local Deals
 *   Search Inventory
 *   KBB Trade-In Value
 
