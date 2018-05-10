@@ -140,7 +140,7 @@ You are just visiting one of our websites because you are Curious!
 *   Usage information.  
     We collect usage information about you whenever you interact with our websites and services. This includes which webpages you visit, what you click on, when you perform those actions, what language preference you have, and so on.
 *   Device and browser data.  
-    We collect information from the device and application you use to access our services. Device data mainly means your IP address, operating system version, device type, system and performance information, and browser type. If you on a mobile device we also collect the UUID for that device.
+    We collect information from the device and application you use to access our services. Device data mainly means your IP address, operating system version, device type, system and performance information, and browser type. If you are on a mobile device we also collect the UUID for that device.
 *   Information from page tags.  
     We use third party tracking services that employ cookies and page tags (also known as web beacons) to collect data about visitors to our websites. This data includes usage and user statistics. Emails sent by SurveyMonkey or by users through our services include page tags that allow the sender to collect information about who opened those emails and clicked on links in them. We provide more information on cookies below and in our Cookies Policy.
 *   Log Data.  
