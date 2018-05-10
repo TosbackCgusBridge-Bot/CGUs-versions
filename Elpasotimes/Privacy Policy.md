@@ -73,7 +73,7 @@ close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dial
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMetro PCS worker accused in robbery at own storeCrimeDad arrested after baby daughter hospitalizedCrimeCabrera accuses Susie Byrd of race discriminationEducation8,000 protest higher taxable home valuesLocal10 gift ideas for Mother's Day in El PasoNewsMLB prospect seen hitting woman joins Mexico teamBaseballHomeless man on trial in girlfriend's deathCrimeNew UTEP dean trades Hawaii for desert sunUtepEl Paso's most wanted fugitives of the weekCrimeChihuahuas promotions include hat giveawayBaseballHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending Now7,000 protest higher taxable home valuesLocalMan accused of inappropriately touching girlCrimePolice arrest suspects in growing crime trendCrimeMetro PCS worker accused in robbery at own storeCrimeDad arrested after baby daughter hospitalizedCrimeCabrera accuses Susie Byrd of race discriminationEducationMistrial declared in murder trial of homeless manCrime10 gift ideas for Mother's Day in El PasoNewsTip snares robbery suspect in Texas Tech capCrimeHomeless man on trial in girlfriend's deathCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
