@@ -53,30 +53,24 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Where are you located? Here are our top cities
+*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
     
-    *   New York, NY
-    *   Los Angeles, CA
-    *   Atlanta, GA
-    *   Chicago, IL
-    *   Austin, TX
-    *   Miami, FL
-    *   San Francisco, CA
-    *   Phoenix, AZ
-    *   Washington, DC
-    *   Boston, MA
-    *   San Diego, CA
-    *   Seattle, WA
-    *   Edison, NJ
-    *   Houston, TX
-    *   Tampa, FL
+    *   AMC Dine-In Buckhead 6 3340 Peachtree Rd.
+    *   AMC Phipps Plaza 14 3500 Peachtree Road NE
+    *   Regal Tara 4 2345 Cheshire Bridge Road N.e.
+    *   CinéBistro at Town Brookhaven 1004 Town Blvd.
+    *   Regal Atlantic Station 18 IMAX &. RPX 261 19th Street NW
+    *   AMC Parkway Pointe 15 3101 Cobb Pkwy.
+    *   The Springs Cinema &. Taphouse 5920 Roswell Road
+    *   Midtown Art Cinema 931 Monroe Drive
+    *   Regal Perimeter Pointe Stadium 10 1155 Mount Vernon Highway
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
     *   Annette Bening Joins 'Captain Marvel'. Here's Everything We Know So Far Read More
-    *   David Gordon Green to Direct New 'Friday Night Lights' Movie. Here's Everything We Know Read More
-    *   Lupita Nyong'o to Star in Jordan Peele's 'Us'. Here's What We Know So Far Read More
+    *   The First 'The Predator' Trailer Has Arrived. Here's Everything We Know Read More
+    *   'Bad Boys for Life' Nabs Release Date. Here's What We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -84,27 +78,44 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Summer Movie Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Join FandangoVIP Get Points + Save
+*   My VIP Account Top Movies Near 30301 Edit Zip Code
     
-    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
+    See all movies My Theaters
+*   Save your favorite theater and we'll make sure it's front and center for you.
     
-    Learn more Insider Perks
+Manage my theater list Insider Perks
+
+*   Please check back - more exciting offers are coming soon.
     
-    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
-    
-    Learn more Partner Rewards
-    
-    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
-    
-    Learn more Refunds + Exchanges
-    
-    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
-    
-    Learn more Join Fandango VIP For Free
-    
-    (It only takes a few seconds to join)
-    
-    Already a Fandango VIP? Sign In
+
+See all insider perks My Fandango
+
+See my VIP+ Points
+
+For warp speed checkout, securely add your credit card.
+
+Add your  
+Credit Card Manage my VIP account Join FandangoVIP Get Points + Save
+
+More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
+
+Learn more Insider Perks
+
+Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+
+Learn more Partner Rewards
+
+Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+
+Learn more Refunds + Exchanges
+
+We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
+
+Learn more Join Fandango VIP For Free
+
+(It only takes a few seconds to join)
+
+Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms
 
