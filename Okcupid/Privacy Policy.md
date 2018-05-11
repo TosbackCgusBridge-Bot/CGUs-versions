@@ -10,7 +10,7 @@ version 20180525
 
 OUR COMMITMENT TO YOU
 
-At Match GroupOkCupid, your privacy is a top priority. Your privacy is at the core of the way we design and build the services and products you know and love, so that you can fully trust them and focus on building meaningful connections.
+At OkCupid, your privacy is a top priority. Your privacy is at the core of the way we design and build the services and products you know and love, so that you can fully trust them and focus on building meaningful connections.
 
 We appreciate that you put your trust in us when you provide us with your information and we do not take this lightly.
 
@@ -344,7 +344,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Bisexual Dating
+*   Christian Singles
 *   Privacy Policy
 *   Cookies Policy
 *   Terms and Conditions
