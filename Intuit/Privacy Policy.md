@@ -33,11 +33,15 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack FINAL HOURS! COUPON CODE SAVEBIG8 ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 3 3 2 2 secs SEPHORA FRAGRANCESShop AllSEPHORA FRAGRANCESShop All
+Near YouFind a StoreBack DAY 1 OF COUPON CODE GOSHOP66 ENDS IN
+
+\*offer ends 5/13/18
+
+Days 0 0 0 0 hours 4 4 0 0 mins 3 3 8 8 secs SEPHORA FRAGRANCESShop AllSEPHORA FRAGRANCESShop All
 
 *   $69 - $91
     
-    Yves Saint Laurent Black Opium(2107)
+    Yves Saint Laurent Black Opium(2109)
 *   $72 - $122
     
     Prada Candy Sugar Pop(20)
@@ -46,14 +50,14 @@ Near YouFind a StoreBack FINAL HOURS! COUPON CODE SAVEBIG8 ENDS IN Days 0 0 0 0 
     Donna Karan Cashmere Mist Eau De Parfum(219)
 *   $96 - $109
     
-    Marc Jacobs Fragrances Daisy Eau So Fresh(840)
+    Marc Jacobs Fragrances Daisy Eau So Fresh(842)
 *   $72 - $92
     
-    Prada Candy(1033)
+    Prada Candy(1035)
 
 SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
 
-*   $21.99 sale
+*   $19.99 sale
     
     was $44
     
@@ -63,35 +67,35 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     was $74
     
     Melrose 3/4 Sleeve Lace Fit &. Flare Dress(5)
-*   $42.99 sale
-    
-    was $74
-    
-    MSK Short Sleeve Cold Shoulder Floral Maxi Dress
 *   $69.99 sale
     
     was $120
     
     Melrose Sleeveless Evening Gown(10)
-*   $29.99 sale
+*   $27.99 sale
     
     was $60
     
     a.n.a 3/4 Sleeve Embroidered Floral Shift Dress(2)
+*   $34.99 sale
+    
+    was $60
+    
+    Perceptions Sleeveless Polka Dot Fit &. Flare Dress(5)
 
-50% OFF SELECT HANDBAGS &. WALLETSShop All50% OFF SELECT HANDBAGS &. WALLETSShop All
+40 TO 60% OFF SELECT HANDBAGS &. WALLETSShop All40 TO 60% OFF SELECT HANDBAGS &. WALLETSShop All
 
-*   $45 sale
+*   $30 - $37.50 sale
     
     was $75
     
     Liz Claiborne Leanne 4-Poster Shoulder Bag(101)
-*   $25 sale
+*   $20 - $25 sale
     
     was $50
     
-    Liz Claiborne Lola Crossbody Bag(119)
-*   $39 sale
+    Liz Claiborne Lola Crossbody Bag(120)
+*   $32.50 sale
     
     was $65
     
@@ -181,7 +185,7 @@ UP TO 70% OFF WINDOWShop AllUP TO 70% OFF WINDOWShop All
     
     was $50 - $120
     
-    Liz Claiborne Kathryn Floral Room Darkening Grommet-Top Curtain Panel(28)
+    Liz Claiborne Kathryn Floral Room Darkening Grommet-Top Curtain Panel(29)
 
 Shop and Save at JCPenney
 
@@ -249,7 +253,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Instagram
+*   Google Plus
 *   Youtube
 *   JCPenney Blog
 
