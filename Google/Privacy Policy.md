@@ -1,4 +1,4 @@
-Bem-vindo à Política de Privacidade do Google
+Bem-vindo à Política de Privacidade do GoogleUma versão atualizada da nossa Política de Privacidade entregará em vigor no dia 25 de maio de 2018. Consulte a versão atualizada da política
 
 Quando o usuário usa nossos serviços, confia a nós informações dele. Esta Política de Privacidade destina-se a ajudar o usuário a entender quais dados coletamos, por que os coletamos e o que fazemos com eles. Como sabemos que isso é importante, esperamos que o usuário tire algum tempo para lê-la com cuidado. Lembramos que é possível encontrar os controles para gerenciar informações e proteger a privacidade e segurança em Minha conta.
 
