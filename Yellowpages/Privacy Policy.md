@@ -22,13 +22,12 @@
 *   AT&T  
     Communications
     *   AT&T Communications Profile
+    *   Leadership
     *   Consumer
     *   Business
     *   Technology &. Innovation
     *   Social Responsibility
     *   Careers
-    *   AT&T En Español
-    *   AT&T World
 *   AT&T  
     International
     *   AT&T International Profile
