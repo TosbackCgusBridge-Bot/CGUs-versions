@@ -14,11 +14,11 @@ Find JobsCompany ReviewsFind SalariesFind ResumesEmployers / Post Job Upload you
 
 Cookie Policy
 
-Last Updated: April 18, 2018
+Last Updated: May 10, 2018
 
 By using or accessing Indeed’s websites (“Site”), you are consenting to Indeed’s use of Cookies as outlined below. All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
-For the purposes of this Cookie Policy, “Indeed” or “we” means Indeed, Inc. if you are a Job Seeker or Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Job Seeker or Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services.
+For the purposes of this Cookie Policy, “Indeed” or “we” means Indeed, Inc. and its subsidiaries, including Prehire, Inc. if you are a Job Seeker or Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Job Seeker or Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services.
 
 **Introduction: What is a cookie?**
 
@@ -66,7 +66,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: May 9, 2018
+Last Updated: May 10, 2018
 
 **1\. Introduction**
 
@@ -78,9 +78,9 @@ In particular, this Privacy Policy details our collection, use and disclosure of
 
 All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
-With respect to Job Seekers, for the purposes of this Privacy Policy, “Indeed” or “we” means Indeed, Inc. if you are a Job Seeker located in the United States, or Indeed Ireland Operations Limited if you are a Job Seeker located outside of the United States.
+With respect to Job Seekers, for the purposes of this Privacy Policy, “Indeed” or “we” means Indeed, Inc. and its subsidiaries, including Prehire, Inc. if you are a Job Seeker located in the United States, or Indeed Ireland Operations Limited if you are a Job Seeker located outside of the United States.
 
-With respect to Employers, “Indeed” or “we” means Indeed, Inc. if you are an Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services.
+With respect to Employers, “Indeed” or “we” means Indeed, Inc. and its subsidiaries, including Prehire, Inc. if you are an Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services.
 
 **1.2 Personal Data and Non-Personal Data**
 
@@ -176,7 +176,7 @@ Finally, in certain limited situations, Indeed relies on your consent in order t
 
 **3.1 Where a Job Seeker Wants to Close an Account**
 
-When a Job Seeker closes an account, the Job Seeker will no longer have access to any of the data we make available under that account name, including but not limited to, search history, job search preferences, saved jobs, jobs the Job Seeker has applied to, job alerts, resume, and any other data associated with the account. If the Job Seeker uses the same email address to set up a new account, this data from a previous account will not become available to the Job Seeker again.
+When a Job Seeker closes an account, the Job Seeker will no longer have access to any of the data we make available under that account name, including but not limited to, search history, job search preferences, saved jobs, jobs the Job Seeker has applied to, job alerts, resume, and any other data associated with the account. If the Job Seeker uses the same email address to set up a new account, this data from a previous account will not become available to the Job Seeker again. Please also note that closing your Job Seeker account may result in you losing access to all Indeed products and the ability to utilize the “Log in with Indeed” feature found on certain third party sites.
 
 Indeed reserves the right to keep any materials in a closed account as necessary to preserve and protect its rights to the extent permitted by law (for example, to preserve records of a dispute) or to comply with its obligations under local law (for example, if requested to retain by law enforcement). A closed account does not mean that all of the data is expunged from the Indeed systems, although it will not be readily available under the Job Seeker’s original account name. When the Job Seeker presses the close account button on the dashboard, Indeed will begin to process that instruction within 24 hours and will have completed the operation within 40 days.
 
@@ -1073,4 +1073,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cd492hi0a3ckcni&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cd6rfg3uaesnehi&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
