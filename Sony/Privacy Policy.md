@@ -4,7 +4,7 @@ Skip to Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48
 *   Sony PicturesThe hub for your favourite movies and TV shows.
 *   Sony MusicClassic artists to today’s stars, local and global.
 
-SONY
+Primary menuSONY
 
 *   SONY
 *   Sony Sites
@@ -125,7 +125,7 @@ Play Watch an Epic Unboxing of the Video hotspot
 
 Dive into the details behind our innovative dual listening headset, Xperia Ear Duo.
 
-2 days ago
+3 days ago
 
 View Tweet
 
