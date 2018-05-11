@@ -7,7 +7,7 @@ Aeropostale
 *   Open submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Clearance ) Clearance
 
-*   Help - Live Chat Help - Call Us
+*   Help? - Contact Us Help? - Contact Us
 *   Sign Up/Login
 *   Refer a Friend
 
@@ -37,8 +37,7 @@ Close submenu ( Featured ) Featured
 *   New Arrivals
 *   Sabrina for Aero
 *   Buy 1 Get 2 Free Tees
-*   6 for $18 Undies
-*   Create Your Suit for $20
+*   Create Your Suit for $16
 *   The White Collection
 *   Festival Vibes
 *   Denim Guide
@@ -84,7 +83,7 @@ Close submenu ( Guys ) Guys
 *   Swim
 *   Accessories
 
-*   2 for $12 Underwear
+*   Underwear
 *   Clearance
 *   Big + Tall
 *   Trending
@@ -94,7 +93,7 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   Buy 1 Get 2 Free Tees
-*   2 for $12 Deal
+*   But 1 Get 2 Accessories
 *   Denim Guide
 *   Logo Shop
 *   Active
@@ -210,8 +209,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Featured ) Featured
 
 *   View All
-*   6 for $18 Undies
-*   Create Your Suit for $20
+*   Create Your Suit for $16
 *   Active
 *   Lounge
 *   Sleep
@@ -292,7 +290,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**BUY 1 GET 2 FREE SELECT TEES** **50-70% OFF + FREE SHIPPING OVER $75**
+**UP TO $25 OFF $100** USE CODE **INSIDER25** **50-70% OFF + FREE SHIPPING OVER $75**
 
 *   My Account My Account Login Register
 
@@ -306,8 +304,7 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Sabrina for Aero
         *   Buy 1 Get 2 Free Tees
-        *   6 for $18 Undies
-        *   Create Your Suit for $20
+        *   Create Your Suit for $16
         *   The White Collection
         *   Festival Vibes
         *   Denim Guide
@@ -358,7 +355,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Buy 1 Get 2 Free Tees
-        *   2 for $12 Deal
+        *   But 1 Get 2 Accessories
         *   Denim Guide
         *   Logo Shop
         *   Active
@@ -388,7 +385,7 @@ Menu Find a Store Aeropostale
     *   Swim
     *   Accessories
     
-    *   2 for $12 Underwear
+    *   Underwear
     *   Clearance
     *   Big + Tall
     *   Trending
@@ -452,8 +449,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   6 for $18 Undies
-        *   Create Your Suit for $20
+        *   Create Your Suit for $16
         *   Active
         *   Lounge
         *   Sleep
@@ -483,7 +479,6 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Clearance
     *   Trending
-    
 *   Clearance
     
     *   View Home
@@ -532,12 +527,12 @@ Menu Find a Store Aeropostale
         *   Accessories
     
 
-*   Help - Live Chat Help - Call Us
+*   Help? - Contact Us Help? - Contact Us
 *   Sign Up/Login
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -571,5 +566,24 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag50-70% OFFEverythingPlease enter aboveAccess the saleI don't want 50-70% off\*Exclusions apply. Cannot be combined with other offers.YOU’VE SNAGGED  
-50-70% off everythingCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
+© 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ...
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ...
