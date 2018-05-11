@@ -45,4 +45,4 @@ Copyright © 2014 JobGo International. All rights reserved. 
 
  **Last revision: 19.01.2014**
 
-JOBSEEKERS Sign up RECRUITERS Sign up Recruiter's Guide We Offer Blog JOBGO Contact us Privacy policy Terms of use LANGUAGE Select languageEnglishSuomi Copyright © 2018 JobGo International Oy. All rights reserved. <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6015352365429&amp;cd\[value\]=0.00&amp;cd\[currency\]=EUR&amp;noscript=1"><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1631343130445074&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6015352365429&amp;cd\[value\]=0.00&amp;cd\[currency\]=EUR&amp;noscript=1"><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1631343130445074&amp;ev=PageView&amp;noscript=1">. JOBSEEKERS Sign up RECRUITERS Sign up Recruiter's Guide We Offer Blog JOBGO Contact us Privacy policy Terms of use LANGUAGE Select languageEnglishSuomi Copyright © 2018 JobGo International Oy. All rights reserved.
