@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: May 9, 2018**
+**Last Revised: May 10, 2018**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -25,11 +25,7 @@ If you are entering into this Agreement on behalf of a corporate entity, you rep
 
 In order to access some of the features of this Site or use some of the Services, you will have to create an Account. You represent and warrant to GoDaddy that all information you submit when you create your Account is accurate, current and complete, and that you will keep your Account information accurate, current and complete.  If GoDaddy has reason to believe that your Account information is untrue, inaccurate, out-of-date or incomplete, GoDaddy reserves the right, in its sole and absolute discretion, to suspend or terminate your Account.  You are solely responsible for the activity that occurs on your Account, whether authorized by you or not, and you must keep your Account information secure, including without limitation your customer number/login, password, Payment Method(s) (as defined below), and shopper PIN.  For security purposes, GoDaddy recommends that you change your password and shopper PIN at least once every six (6) months for each Account.  You must notify GoDaddy immediately of any breach of security or unauthorized use of your Account. GoDaddy will not be liable for any loss you incur due to any unauthorized use of your Account. You, however, may be liable for any loss GoDaddy or others incur caused by your Account, whether caused by you, or by an authorized person, or by an unauthorized person.
 
-**5\. AVAILABILITY OF WEBSITE/SERVICES**
-
-Subject to the terms and conditions of this Agreement and our other policies and procedures, we shall use commercially reasonable efforts to attempt to provide this Site and the Serviceson a twenty-four (24) hours a day, seven (7) days a week basis. You acknowledge and agree that from time to time this Site may be inaccessible or inoperable for any reason including, but not limited to, equipment malfunctions. periodic maintenance, repairs or replacements that we undertake from time to time. or causes beyond our reasonable control or that are not reasonably foreseeable including, but not limited to, interruption or failure of telecommunication or digital transmission links, hostile network attacks, network congestion or other failures. You acknowledge and agree that we have no control over the availability of this Site or the Service on a continuous or uninterrupted basis, and that we assume no liability to you or any other party with regard thereto.
-
-**6\. GENERAL RULES OF CONDUCT**
+**5\. GENERAL RULES OF CONDUCT**
 
 You acknowledge and agree that:
 
@@ -67,7 +63,7 @@ x.          You agree to provide government-issued photo identification
 
 xi.          You are aware that GoDaddy may from time-to-time call you about your account, and that, for the purposes of any and all such call(s), you may be subject to call recording and hereby consent to the same, subject to any applicable laws and our restrictions and obligations thereunder, including, where permissible, to record the entirety of such calls regardless of whether GoDaddy asks you on any particular call for consent to record such call.  You further acknowledge and agree that, to the extent permitted by applicable law, any such recording(s) may be submitted as evidence in any legal proceeding in which GoDaddy is a party_._ Further, by providing your telephone or mobile number, you consent to receive marketing telephone calls from or on behalf of GoDaddy that may be initiated by an automatic telephone dialing system and/or use an artificial or prerecorded voice. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy.  Similarly, by providing your mobile number, you consent to receive marketing text messages from or on behalf of GoDaddy that may be sent by an automatic telephone dialing system. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy. Message and data rates may apply.
 
-**7\. PROTECTION OF YOUR DATA**
+**6\. PROTECTION OF YOUR DATA**
 
 GoDaddy offers certain hosted Services available to you that may involve the submission, collection and/or use of personally identifying or identifiable information about you and your own customers (“Your Data”) in the course of your use of these Services (“Covered Services”). Your Data, for the purpose of this Section, excludes any User Content. GoDaddy’s Data Processing Addendum (“DPA”), which is hereby incorporated by reference and applicable to Covered Services, is meant to provide you contractual assurance that we have robust mechanisms to ensure the transfer of Your Data, including transfers of Your Data from the EEA to the Covered Services, meets with compliance under applicable data privacy laws.
 
@@ -75,7 +71,7 @@ For the purposes of the DPA and the Standard Contractual Clauses attached to the
 
 Covered Services, as defined in this Section and in the DPA, include hosted services that are subject to the terms and conditions of the following Agreements: (1) Domain Name Registration, (2) Email Marketing Services, (3) GoCentral, (4) Hosting, (5) Online Bookkeeping, (6) Online Store/Quick Shopping Cart, (7) Smartline and (8) Website Builder Services.   
 
-**8. USER CONTENT**
+**7. USER CONTENT**
 
 Some of the features of this Site or the Services, including those Services that are hosted with GoDaddy, may allow Users to view, post, publish, share, store, or manage (a) ideas, opinions, recommendations, or advice via forum posts, content submitted in connection with a contest, product reviews or recommendations, or photos to be incorporated into a social media event or activity (“User Submissions”), or (b) literary, artistic, musical, or other content, including but not limited to photos and videos (together with User Submissions, “User Content”).  All content submitted through your Account is consider User Content.  By posting or publishing User Content to this Site or to or via the Services, you represent and warrant to GoDaddy that (i) you have all necessary rights to distribute User Content via this Site or via the Services, either because you are the author of the User Content and have the right to distribute the same, or because you have the appropriate distribution rights, licenses, consents, and/or permissions to use, in writing, from the copyright or other owner of the User Content, and (ii) the User Content does not violate the rights of any third party. You shall be solely responsible for any and all of your User Content or User Content that is submitted through your Account, and the consequences of, and requirements for, distributing it.
 
@@ -84,6 +80,10 @@ _User Submissions._ You acknowledge and agree that your User Submissions are ent
 GoDaddy shall own exclusive rights (including all intellectual property and other proprietary rights) to any User Submissions posted to this Site, and shall be entitled to the unrestricted use and dissemination of any User Submissions posted to this Site for any purpose, commercial or otherwise, without acknowledgment or compensation to you or to anyone else.
 
 _User Content Other Than User Submissions_.  By posting or publishing User Content to this Site or through the Services, you authorize GoDaddy to use the intellectual property and other proprietary rights in and to your User Content to enable inclusion and use of the User Content in the manner contemplated by this Site and this Agreement.  You hereby grant GoDaddy a worldwide, non-exclusive, royalty-free, sublicensable (through multiple tiers), and transferable license to use, reproduce, distribute, prepare derivative works of, combine with other works, display, and perform your User Content in connection with this Site, the Services and GoDaddy’s (and GoDaddy’s affiliates’) business(es), including without limitation for promoting and redistributing all or part of this Site in any media formats and through any media channels without restrictions of any kind and without payment or other consideration of any kind, or permission or notification, to you or any third party. You also hereby grant each User of this Site a non-exclusive license to access your User Content (with the exception of User Content that you designate “private” or “password protected”) through this Site, and to use, reproduce, distribute, prepare derivative works of, combine with other works, display, and perform your User Content as permitted through the functionality of this Site and under this Agreement. The above licenses granted by you in your User Content terminate within a commercially reasonable time after you remove or delete your User Content from this Site. You understand and agree, however, that GoDaddy may retain (but not distribute, display, or perform) server copies of your User Content that have been removed or deleted. The above licenses granted by you in your User Content are perpetual and irrevocable.  Notwithstanding anything to the contrary contained herein, GoDaddy shall not use any User Content that has been designated “private” or “password protected” by you for the purpose of promoting this Site or GoDaddy’s (or GoDaddy’s affiliates’) business(es). If you have a website or other content hosted by GoDaddy, you shall retain all of your ownership or licensed rights in User Content.
+
+**8\. AVAILABILITY OF WEBSITE/SERVICES**
+
+Subject to the terms and conditions of this Agreement and our other policies and procedures, we shall use commercially reasonable efforts to attempt to provide this Site and the Serviceson a twenty-four (24) hours a day, seven (7) days a week basis. You acknowledge and agree that from time to time this Site may be inaccessible or inoperable for any reason including, but not limited to, equipment malfunctions. periodic maintenance, repairs or replacements that we undertake from time to time. or causes beyond our reasonable control or that are not reasonably foreseeable including, but not limited to, interruption or failure of telecommunication or digital transmission links, hostile network attacks, network congestion or other failures. You acknowledge and agree that we have no control over the availability of this Site or the Service on a continuous or uninterrupted basis, and that we assume no liability to you or any other party with regard thereto.
 
 **9. PRODUCT CREDITS**
 
@@ -417,5 +417,5 @@ E-Mail: HQ@GoDaddy.com
 You expressly agree that: (i) GoDaddy (or its service provider) may contact you by phone in order to resolve your complaint or dispute, or your current service or billing issue. and (ii) in order to resolve such complaint, dispute or issue, GoDaddy may use and may disclose to its service provider the following information: call recordings, customer name, phone number(s) and contact preferences, tenure of your relationship with GoDaddy, products used, and information about the nature of your complaint, dispute, or service issue.
 
   
-Revised: 5/9/18  
+Revised: 5/10/18  
 Copyright © 2005-2018 GoDaddy.com, LLC All Rights Reserved.
