@@ -395,9 +395,9 @@ Price, Durability, Features, Looks
 
 Best home laptops from Lenovo
 
-SPECIAL FINANCING OFFER!
+Star Wars Jedi Challenges
 
-Exclusive 6 and 12 month credit financing on orders $300-$798.99 and $799-$2400 respectively. Choose Klarna at checkout. Offer ends 8AM on May 10 (EST).
+Awaken your inner Jedi with a new smartphone-powered augmented reality experience.
 
 ThinkSmart Hub 500  
 The Smarter Way to Collaborate
