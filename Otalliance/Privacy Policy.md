@@ -87,6 +87,10 @@ Previous OTA privacy policies are posted below
 *   OTA Blog
 *   Newsletters
 
+Thu, May 10, 2018 Nest Alert: Protection From Pwned\* Passwords
+
+A colleague just received an “Urgent Security Alert - Action Requested” email from Nest (see the image below). At first glance it looked like either a phishing attempt or one of the way-too-often breach notifications we all receive these days.
+
 Tue, Apr 17, 2018 Space Invaders - Consumer-Grade IoT in the Enterprise
 
 I used to love the old Space Invaders arcade game - waves of enemy attackers came in faster and faster while you tried to defend your base. With experience you could learn their tactics and get pretty adept at stopping them. For today’s enterprise IT staff, consumer-grade IoT devices must certainly feel like those space invaders of old.
@@ -98,10 +102,6 @@ In advance of Data Privacy &. Protection Day, we just released the Cyber Inciden
 Tue, Dec 5, 2017 Will Uber Drive Us to Federal Breach Legislation ?
 
 The past six months we have witnessed an un-paralleled level of questionable business practices resulting from data breaches.  As trusted brands, Uber as well as Equifax and others, who have been entrusted with significant amounts of personal data have failed the American public.  The breach missteps and follies only continue.  Each time most within the security and privacy communities have rolled our eyes in disbelieve.
-
-Wed, Aug 30, 2017 CAN-SPAM - Looking Ahead &. Looking Global
-
-This week OTA / the Internet Society joined nearly 90 individuals and organizations submitting comments in response to the US Federal Trade Commission call for comments in regard to the CANSPAM Act.  By most accounts, the interactive marketing industry and email community have demonstrated a commitment towards compliance and the overall user experience.  Based on OTA's own research businesses are unsubscribing t
 
 More >>. Resources
 
