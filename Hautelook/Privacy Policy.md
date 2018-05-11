@@ -8,11 +8,31 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   New Arrivals from Splendid
-    *   L'Atiste
-    *   Splendid Shoes Starting at $40
-    *   MCM Sunglasses Up to 80% Off
-    *   Red Carter Swim Up to 70% Off
+    *   Stuart Weitzman
+    *   Spring into the Season: Dresses We Love
+    *   Joan Vass
+    *   24/7 Comfort
+    *   New York Collective
+    *   Summer Must-Haves: Straw Bags &. More
+    *   Spring Forward: Boho Dresses, Tops &. More
+    *   Catherine Catherine Malandrino
+    *   Bally Total Fitness Under $25
+    *   Sterling Silver Rings in Extended Sizes 4-12
+    *   Sol Sana
+    *   Must-Have Jackets Under $50
+    *   K-Beauty Must-Haves
+    *   Welden Bags
+    *   Cat Eyes &. More: Sunnies ft. Elizabeth and James
+    *   Travis Mathew
+    *   Mr. Swim
+    *   $50 &. Under: Fish 'n' Chips
+    *   Barque &. More
+    *   Hybrid Green Label Up to 75% Off
+    *   Spring Fresh: Organization Essentials from $10
+    *   Free Shipping: Signed Iconic Memorabilia &. More
+    *   Heart to Heart Room Decor &. Accessories
+    *   Umi Girls' Shoes Up to 60% Off
+    *   Sleep Tight: Petit Lem Pajamas Under $20
     *   tibi
     *   Color Pop: Ultra-Vibrant Shoes
     *   Lancaster Paris
@@ -20,11 +40,17 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Gemstones, Stacking Rings &. More Starting at $20
     *   Bright &. Bold: Scarves, Wraps &. More
     *   Bold Colors: Shirts, Polos &. More
+    
+    *   New Arrivals from Splendid
+    *   MCM Sunglasses Up to 80% Off
+    *   Splendid Shoes Starting at $40
+    *   L'Atiste
     *   Tahari
     *   Grace in LA
     *   Evening Glam: Dresses Under $100
     *   Shine On: Evening Clutches
     *   DSGN Yoga Under $35
+    *   Red Carter Swim Up to 70% Off
     *   dav Rain Boots
     *   Athena Alexander
     *   Stripe It Up: Summer Styles Starting at $15
@@ -40,42 +66,25 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Splendid Kids
     *   Azul Kids' Swimwear
     *   BEBE Girls
-    *   Detox Organics: Chocolate Superfoods
-    
-    *   Olisi
-    *   Ramy Brook
     *   KitchenAid
     *   Free Shipping: Graphic Art Prints
     *   Free Shipping: Modern Bohemian Decor
     *   Free Shipping: Beach Towels Starting at $10
     *   kate spade new york Up to 50% Off
     *   kate spade new york Shoes Up to 55% Off
-    *   kate spade new york Clothing Up to 60% Off
     *   kate spade new york Accessories Up to 60% Off
+    
     *   kate spade new york Girls Up to 50% Off
-    *   kate spade new york Swim Up to 60% Off
     *   kate spade new york Home Starting at $10
-    *   Ro &. De
-    *   Chinese Laundry
     *   SmoothSkin Gold Hair Removal System
-    *   Very J Under $50
-    *   Carefree &. Casual: Spring Basics Under $30
     *   Skinny Tan Starting at $10
-    *   Andre Assous
-    *   Summer Safari: Camo, Animal Prints &. More
     *   Psycho Bunny
     *   Peter Millar
     *   Mix &. Match: Suit Separates &. More
     *   Nicole Miller Girls' Shoes
     *   Total Dreamz Nightlights
-    *   True Religion Up to 60% Off
-    *   True Religion Men Up to 55% Off
-    *   True Religion Kids Up to 60% Off
-    *   14K Gold Jewelry &. More Starting at $25
     *   StriVectin
     *   Beauty Must-Haves Starting at $10
-    *   Treasure Boxes: Jewelry Storage Starting at $15
-    
     *   John Varvatos Sun &. More
     *   Original Penguin Shoes Starting at $20
     *   Rip Curl
@@ -83,121 +92,110 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Modern Accent Furniture &. More
     *   Free Shipping: Chic Bedding Starting at $24
     *   Free Shipping: Solar Lighting, Doormats &. More
-    *   Polo Ralph Lauren Kids' Shoes Under $30
     *   Free Shipping: Modern Rugs Up to 75% Off
-    *   Cotton On &. Co. Men Under $40
-    *   Dads and Grads: Dress Shirts &. More
-    *   Spring Essentials: Linen Shirts &. More
-    *   Brandblack Up to 60% Off
     *   FaceBase Cosmetics Under $20
-    *   Face Masks We Love Up to 85% Off
-    *   Rodial Skin Care
     *   Free Shipping: Bath Towels &. More Up to 75% Off
     *   Free Shipping: Trendsetting Glassware &. More
     *   Free Shipping: Luxe Rug Steals
     *   Sleek Accents: Organizers &. More for Every Room
     *   Good Call: Cases for iPhone &. More
-    *   Free Shipping: Eye-Catching Wall Art &. More
-    *   Free Shipping: On-Trend Accent Furniture
-    *   Free Shipping: Boho-Chic Decor
+    *   Detox Organics: Chocolate Superfoods
     *   Something for Everyone: Decor Up to 65% Off
     *   Hair Tools Blowout
-    *   Men's Shoes Up to 65% Off
-    *   Men's Final Few Up to 75% Off
     *   Tech Accessory Blowout
-    *   Cotton On &. Co.
-    *   Cotton On &. Co. Kids
+    *   Summer Safari: Camo, Animal Prints &. More
 *   WomenShop Sale Events
     
-    *   New Arrivals from Splendid
-    *   L'Atiste
-    *   Splendid Shoes Starting at $40
-    *   MCM Sunglasses Up to 80% Off
-    *   Red Carter Swim Up to 70% Off
+    *   Stuart Weitzman
+    *   Spring into the Season: Dresses We Love
+    *   Joan Vass
+    *   24/7 Comfort
+    *   New York Collective
+    *   Summer Must-Haves: Straw Bags &. More
+    *   Spring Forward: Boho Dresses, Tops &. More
+    *   Catherine Catherine Malandrino
+    *   Bally Total Fitness Under $25
+    *   Sterling Silver Rings in Extended Sizes 4-12
+    *   Sol Sana
+    *   Must-Have Jackets Under $50
+    *   K-Beauty Must-Haves
+    *   Welden Bags
+    *   Cat Eyes &. More: Sunnies ft. Elizabeth and James
     *   tibi
     *   Color Pop: Ultra-Vibrant Shoes
     *   Lancaster Paris
     *   White-Hot Summer Styles Starting at $15
     *   Gemstones, Stacking Rings &. More Starting at $20
     *   Bright &. Bold: Scarves, Wraps &. More
+    *   New Arrivals from Splendid
+    *   MCM Sunglasses Up to 80% Off
+    *   Splendid Shoes Starting at $40
+    
+    *   L'Atiste
     *   Tahari
     *   Grace in LA
     *   Evening Glam: Dresses Under $100
     *   Shine On: Evening Clutches
     *   DSGN Yoga Under $35
+    *   Red Carter Swim Up to 70% Off
     *   dav Rain Boots
     *   Athena Alexander
     *   Stripe It Up: Summer Styles Starting at $15
     *   Designer Watches: Versace, Fendi &. More
     *   Free Shipping: Italian Sterling Silver from $15
-    *   Detox Organics: Chocolate Superfoods
-    *   Olisi
-    *   Ramy Brook
-    
     *   kate spade new york Up to 50% Off
     *   kate spade new york Shoes Up to 55% Off
-    *   kate spade new york Clothing Up to 60% Off
     *   kate spade new york Accessories Up to 60% Off
-    *   kate spade new york Swim Up to 60% Off
-    *   Ro &. De
-    *   Chinese Laundry
     *   SmoothSkin Gold Hair Removal System
-    *   Very J Under $50
-    *   Carefree &. Casual: Spring Basics Under $30
     *   Skinny Tan Starting at $10
-    *   Andre Assous
-    *   Summer Safari: Camo, Animal Prints &. More
-    *   True Religion Up to 60% Off
-    *   14K Gold Jewelry &. More Starting at $25
     *   StriVectin
     *   Beauty Must-Haves Starting at $10
-    *   Treasure Boxes: Jewelry Storage Starting at $15
     *   FaceBase Cosmetics Under $20
-    *   Face Masks We Love Up to 85% Off
-    *   Rodial Skin Care
+    *   Detox Organics: Chocolate Superfoods
     *   Hair Tools Blowout
-    *   Cotton On &. Co.
+    *   Summer Safari: Camo, Animal Prints &. More
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
+    *   Jewelry
     *   Handbags
     *   Accessories
     *   Tech Accessories
-    *   Watches
     *   Lingerie
+    *   Watches
 *   MenShop Sale Events
     
+    *   Travis Mathew
+    *   Mr. Swim
+    *   $50 &. Under: Fish 'n' Chips
+    *   Barque &. More
+    *   Hybrid Green Label Up to 75% Off
     *   Bold Colors: Shirts, Polos &. More
     *   Kenneth Cole Men
     *   Ben Sherman Dress Shirts Under $35
     *   Designer Watches: Versace, Fendi &. More
+    
     *   Premium Suiting Up to 60% Off
     *   Rush by Gordon Rush
     *   Psycho Bunny
     *   Peter Millar
     *   Mix &. Match: Suit Separates &. More
-    *   True Religion Men Up to 55% Off
-    
     *   John Varvatos Sun &. More
     *   Original Penguin Shoes Starting at $20
     *   Rip Curl
     *   Men's Jewelry Up to 60% Off
-    *   Cotton On &. Co. Men Under $40
-    *   Dads and Grads: Dress Shirts &. More
-    *   Spring Essentials: Linen Shirts &. More
-    *   Brandblack Up to 60% Off
-    *   Men's Shoes Up to 65% Off
-    *   Men's Final Few Up to 75% Off
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
     *   Watches
 *   KidsShop Sale Events
     
+    *   Heart to Heart Room Decor &. Accessories
+    *   Umi Girls' Shoes Up to 60% Off
+    *   Sleep Tight: Petit Lem Pajamas Under $20
     *   GEOX Kids
     *   Splendid Kids
     *   Azul Kids' Swimwear
@@ -205,24 +203,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   kate spade new york Girls Up to 50% Off
     *   Nicole Miller Girls' Shoes
     *   Total Dreamz Nightlights
-    *   True Religion Kids Up to 60% Off
-    *   Polo Ralph Lauren Kids' Shoes Under $30
-    *   Cotton On &. Co. Kids
     
     Shop By Category
     *   Girls Sizes 7-16
+    *   Girls' Shoes
+    *   Boys Sizes 8-20
     *   Girls Sizes 2T-6X
     *   Baby Girl
-    *   Boys Sizes 8-20
-    *   Boys Sizes 2T-7
-    *   Girls' Shoes
     *   Baby Gear &. Essentials
-    *   Boys' Shoes
-    *   Baby Boy
-    *   Kids Accessories
     *   Toys
+    *   Boys Sizes 2T-7
+    *   Boys' Shoes
+    *   Kids Accessories
+    *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Spring Fresh: Organization Essentials from $10
+    *   Free Shipping: Signed Iconic Memorabilia &. More
     *   Free Shipping: Spring-Fresh Bedding Up to 85% Off
     *   Car Storage &. Organization Essentials from $10
     *   KitchenAid
@@ -231,41 +228,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Beach Towels Starting at $10
     *   kate spade new york Home Starting at $10
     *   Free Shipping: Modern Accent Furniture &. More
+    
     *   Free Shipping: Chic Bedding Starting at $24
     *   Free Shipping: Solar Lighting, Doormats &. More
     *   Free Shipping: Modern Rugs Up to 75% Off
-    
     *   Free Shipping: Bath Towels &. More Up to 75% Off
     *   Free Shipping: Trendsetting Glassware &. More
     *   Free Shipping: Luxe Rug Steals
     *   Sleek Accents: Organizers &. More for Every Room
     *   Good Call: Cases for iPhone &. More
-    *   Free Shipping: Eye-Catching Wall Art &. More
-    *   Free Shipping: On-Trend Accent Furniture
-    *   Free Shipping: Boho-Chic Decor
     *   Something for Everyone: Decor Up to 65% Off
     *   Tech Accessory Blowout
     
     Shop By Category
     *   Home Decor
     *   Bedding
+    *   Organization
     *   Kitchen &. Tabletop
     *   Outdoor Living
     *   Luggage &. Travel
     *   Bath
     *   Accent Furniture
-    *   Organization
     *   Rugs
 *   BeautyShop Sale Events
     
-    *   Detox Organics: Chocolate Superfoods
+    *   K-Beauty Must-Haves
     *   SmoothSkin Gold Hair Removal System
     *   Skinny Tan Starting at $10
     *   StriVectin
     *   Beauty Must-Haves Starting at $10
     *   FaceBase Cosmetics Under $20
-    *   Face Masks We Love Up to 85% Off
-    *   Rodial Skin Care
+    *   Detox Organics: Chocolate Superfoods
     *   Hair Tools Blowout
     
     Shop By Category
