@@ -1,4 +1,4 @@
-Welkom bij het Privacybeleid van Google
+Welkom bij het Privacybeleid van GoogleOp 25 mei 2018 treedt er een geüpdatete versie van ons privacybeleid in werking. Bekijk de geüpdatete versie van het beleid.
 
 Wanneer u Google-services gebruikt, vertrouwt u ons met uw gegevens. Dit Privacybeleid is bedoeld om u inzicht te geven in de gegevens die we verzamelen, waarom we deze gegevens verzamelen en wat we hiermee doen. Dit is belangrijk en we hopen dat u de tijd wilt nemen om het beleid zorgvuldig te lezen. Vergeet ook niet dat er opties voor het beheren van uw gegevens en het waarborgen van uw privacy en beveiliging beschikbaar zijn in Mijn account.
 
