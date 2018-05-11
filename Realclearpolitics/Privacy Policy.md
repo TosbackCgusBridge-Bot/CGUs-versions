@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Choe Sang-Hun_: 3 Americans Freed by North Korea in Victory for Trump
+*   _Mark Baerlein_: Trump's Basking In His Glory, and It's Driving Liberals Nuts
     
-*   _Robin Wright_: Trump Destroys the Iran Deal--and a Lot More
+*   _Simon Rosenberg_: Trump Arrogantly Rejects Post-War System U.S. Built
     
-*   _David Harsanyi_: Like Most of Obama Legacy, Iran Deal Was Unsustainable
+*   _Jonathan Turley_: Dems 'Shocked' at Cohen's Sleaze Were Silent About Clintons
     
-*   _Dominic Tierney_: America Keeps Accidentally Helping Iran
+*   _Jack Shafer_: Michael Avenatti's Rules for Radicals
     
-*   _Sen. Tom Cotton_: Haspel Is an Excellent Choice for CIA
+*   _Mark Penn_: So Who Is Paying Avenatti?
     
-*   _Ariel Dorfman_: U.S. Doesn't Need Haspel. We Need a Debate on Torture.
+*   _Jon Meacham_: History Shows America Will Survive the Trump Era
     
-*   _Julie Kelly_: Is Midwest the Next South for the Democratic Party?
+*   _Victor Davis Hanson_: Truman May Have Been the Proto-Trump
     
-*   _Vauhini Vara_: California Dreaming: Why Orange County Is Key for Dems
+*   _Molly Ball_: Are American Voters Acting Normal Again?
     
-*   _Bari Weiss_: Meet the Renegades of the Intellectual Dark Web
+*   _Bill Whalen_: Little Drama, But Odd Plots, in Calif. Race for Governor
     
-*   _Dave Rubin_: Why I Left the Left
+*   _Scott Lemieux_: Democrats, Prepare to Pack the Supreme Court
     
-*   _Gordan Chang_: Is China Sabotaging the North Korea Talks?
+*   _John Hinderaker_: A Day With Candace Owens
     
-*   _Matthew Continetti_: Donald Trump Ends the Obama Mirage
+*   _Will Marshall_: After Petulant Iran Pullout, Trump Has No Clue What's Next
     
-*   _Susan Rice_: Trump's Most Foolish Decision Yet
+*   _John Bolton_: Iran Deal Was Betrayed by Its Abysmal Record
     
-*   _Michael Goodwin_: Saved by Our Bold Disrupter
+*   _Brent Budowsky_: Obama, Kerry &. Europe Take on Trump
     
-*   _Nic Robertson_: How Trump's Iran Drama Could Upend European Unity
+*   _David Harsanyi_: The Obama Legacy Deserves to Be Destroyed
     
-*   _Arkin &. Huey-Burns_: Republicans Get Their Wish in W.Va., Ind., Ohio Primaries
+*   _Frank Bruni &. Corry Bliss_: GOP Midterm Mastermind Tells All!
     
-*   _Victor Davis Hanson_: Russia Probe Starts to Unwind--and Boomerang on Dems?
+*   _Charlie Mahtesian_: Why the Democrats Just Lost the Senate
     
-*   _Cass Sunstein_: A President's Guide to 'Obstruction of Justice'
+*   _Scott Rasmussen_: DC Media Pushed False Narrative of Blankenship Surge
     
-*   _Steve Cortes_: Hispanic Americans Score Under Trump
+*   _Peter Hamby_: Donald Trump, the Media, and Occam's Razor
     
-*   _Jelani Cobb_: William Barber Takes on Poverty, Race in the Age of Trump
+*   _Matthew Walther_: The Humorless Media Has Learned Nothing
     
-*   _Armstrong Williams_: Kanye West's Comments on Slavery Merit Reflection
+*   _Bill Zeiser_: Was the Joke on PolitiFact?
     
-*   _Joy Pullmann_: Southern Poverty Law Center Is a Hate-Mongering Scam
+*   _Mieke Eoyang_: The CIA Needs an Independent Thinker - Not Gina Haspel
     
-*   _Roger Cohen_: Trump to Iran: America's Word Is Worthless
+*   _Marc Thiessen_: Gina Haspel Is Too Qualified to Pass Up
     
-*   _Timothy Stanley_: Trump Is Exactly Right About Iran's Misdeeds
+*   _Margaret Hartmann_: How Cohen Turned Connections Into Profits
     
 
 *   Previous
@@ -257,9 +257,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Announces U.S. Will Exit Nuclear Accord With Iran
 *   Republicans Get Their Wish in W.Va., Ind., Ohio Primaries
-*   Whitlock: Why Kanye West's Tweet Was One of the Best of All Time
+*   Trump Gives Freed Americans Flag-Waving, Wee-Hours Welcome
+*   McCarthy: DOJ Holding Up Requested Info Because It Will Embarrass Them
 *   Pelosi Says Democrats Have Cash and Environment to Win House
 *   Mueller Probe Could Boost Republican Midterm Candidates
 *   Presidential Job Approval
@@ -276,12 +276,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove50Disapprove +2
 *   Florida Senate - Scott vs. NelsonFlorida Atlantic University
     *   Nelson40
     *   Scott44Scott +4
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove51Disapprove +4
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve45
     *   Disapprove53Disapprove +8
@@ -291,11 +291,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Mark Levin: Mueller Undermining Constitution, Hoping To Humiliate Trump And Get Him To Resign
 *   Gina Haspel vs. Dem Sen. Reed: No Comparison Of CIA Officers To Terrorists In Terms Of Torture
 *   GOP Sen. Cotton: Dems Confirmed Brennan As CIA Director, Also Had Ties To Interrogation Program
-*   Bolton: 2015 Iran Deal Was "Inherently Flawed" And Could Not Be Fixed. "Fascinating" How Trump Makes Decisions
+*   Sen. Harris Grills Haspel: "Do You Believe Previous Interrogation Techniques Were Immoral?"
 *   Jason Whitlock on Kanye: If You Say Trump Has A Good Idea, You Get Kicked Out Of The Black Race
-*   Andrea Mitchell: Now, Other Countries Can't Trust U.S. Presidents To Make Lasting Agreements
 
 *   Politics
 *   Policy
