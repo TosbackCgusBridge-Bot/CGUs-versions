@@ -1,4 +1,4 @@
-Willkommen bei der Datenschutzerklärung von Google
+Willkommen bei der Datenschutzerklärung von GoogleAm 25. Mai 2018 tritt eine aktualisierte Version unserer Datenschutzerklärung in Kraft. Aktualisierte Version der Datenschutzerklärung aufrufen
 
 Wenn Sie Google-Dienste verwenden, vertrauen Sie uns Ihre Daten an. In dieser Datenschutzerklärung erfahren Sie, welche Daten von uns erfasst werden, zu welchen Zwecken wir die Daten erfassen und was wir mit den erfassten Daten machen. Da dies wichtig ist, sollten Sie sich die Zeit nehmen, die Datenschutzerklärung sorgfältig zu lesen. Hinweis: Sie finden die Optionen zur Verwaltung Ihrer Daten und zum Schutz Ihrer Privatsphäre und Sicherheit unter Mein Konto.
 
