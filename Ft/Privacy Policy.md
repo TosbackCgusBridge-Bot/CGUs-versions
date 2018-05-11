@@ -1,4 +1,4 @@
-Financial Times Help Centre Chat with FT Customer Service Start chat Chat with FT Customer Service Currently offline Privacy Policy Financial Times privacy policy
+Financial Times Help Centre Privacy Policy Financial Times privacy policy
 
 Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of Financial Times businesses. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at privacy.officer@ft.com.
 
