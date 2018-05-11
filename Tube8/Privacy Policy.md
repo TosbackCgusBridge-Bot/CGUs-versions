@@ -5,7 +5,17 @@ Not yet a member? If you are a registered member you can
 *   Add personal comments and vote on any video
 *   Create your "Personal Favorites" videos collection
 
-Sign Up Login or Sign Up Sign in with Pornhub OR Remember me on this device Log In Forgot password? Resend activation email Don't have an account?Sign Up Sign up with Pornhub OR By signing up, you agree to our Terms of use. Register Now Already have an account?Sign In Pornhub NETWORK
+Sign Up Login or Sign Up Sign in with Pornhub OR Remember me on this device Log In Forgot password? Resend activation email Don't have an account?Sign Up Sign up with Pornhub OR By signing up, you agree to our Terms of use. Register Now Already have an account?Sign In Free Trial on Pornhub Premium Start Your Free Week Now
+
+*   No Ads
+*   Tons of New HD Videos Added Daily
+*   Mobile Friendly Browsing
+
+*   1080P Video Quality
+*   13,000+ Full DVDs
+*   Exclusive Full-Length HD Videos From Brazzers, Reality Kings, etc
+
+Pornhub NETWORK
 
 *   Pornhub
 *   RedTube
@@ -92,8 +102,8 @@ Close
     *   young
     *   publicagent
     *   masturbation
-    *   orgasm
     *   petite
+    *   orgasm
     *   interracial
     *   cumshot
     *   german
