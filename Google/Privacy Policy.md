@@ -1,4 +1,4 @@
-Bienvenue dans les règles de confidentialité de Google
+Bienvenue dans les règles de confidentialité de GoogleUne version mise à jour de nos Règles de confidentialité entrera en vigueur le 25 mai 2018. Consulter la version mise à jour de ces Règles
 
 Lorsque vous utilisez nos services, vous nous faites confiance pour le traitement de vos données. Les présentes règles de confidentialité visent à vous indiquer quelles informations nous collectons, pour quelle raison, et comment nous les utilisons. Ces règles sont importantes et nous espérons que vous prendrez le temps de les lire attentivement. Sachez que des fonctionnalités permettant de gérer vos données et de protéger votre confidentialité et votre sécurité sont disponibles dans la section Mon compte.
 
