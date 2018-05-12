@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Mark Baerlein_: Trump's Basking In His Glory, and It's Driving Liberals Nuts
+*   _Peter Beinart_: The Iran Deal and the Dark Side of American Exceptionalism
     
-*   _Simon Rosenberg_: Trump Arrogantly Rejects Post-War System U.S. Built
+*   _Michael Graham_: Trump Is Winning With 'Peace Through Strength'
     
-*   _Jonathan Turley_: Dems 'Shocked' at Cohen's Sleaze Were Silent About Clintons
+*   _Douglas Schoen_: Primaries Offer Clues, Warning Signs for Democrats
     
-*   _Jack Shafer_: Michael Avenatti's Rules for Radicals
+*   _Adam Davidson_: Cohen Gives Crash Course in Shady Corporate Entities
     
-*   _Mark Penn_: So Who Is Paying Avenatti?
+*   _Roger Kimball_: What Happened to Carter Page?
     
-*   _Jon Meacham_: History Shows America Will Survive the Trump Era
+*   _Sarah Jones_: Are West Virginia Republicans in Trouble?
     
-*   _Victor Davis Hanson_: Truman May Have Been the Proto-Trump
+*   _James Arkin_: Blasting Donnelly, Trump Previews Campaigner-in-Chief Role
     
-*   _Molly Ball_: Are American Voters Acting Normal Again?
+*   _Joseph Sheppard_: Black Support for Trump Rises to Danger Zone for Dems
     
-*   _Bill Whalen_: Little Drama, But Odd Plots, in Calif. Race for Governor
+*   _David Olusoga_: Kanye West's Asinine Babbling Echoes the Alt-Right
     
-*   _Scott Lemieux_: Democrats, Prepare to Pack the Supreme Court
+*   _Matthew Continetti_: The Revolt Against Political Correctness
     
-*   _John Hinderaker_: A Day With Candace Owens
+*   _Carl Cannon_: Railing Against Injustice in California's Central Valley
     
-*   _Will Marshall_: After Petulant Iran Pullout, Trump Has No Clue What's Next
+*   _Fred Barnes_: The Wipeout of Obama's Legacy
     
-*   _John Bolton_: Iran Deal Was Betrayed by Its Abysmal Record
+*   _Eugene Robinson_: Lord, Save the World
     
-*   _Brent Budowsky_: Obama, Kerry &. Europe Take on Trump
+*   _Kimberley Strassel_: About That FBI 'Source'
     
-*   _David Harsanyi_: The Obama Legacy Deserves to Be Destroyed
+*   _Ian Bond_: How Britain &. Europe Need to Respond to Trump
     
-*   _Frank Bruni &. Corry Bliss_: GOP Midterm Mastermind Tells All!
+*   _Melanie Phillips_: The Elephant in the Room Is Regime Change
     
-*   _Charlie Mahtesian_: Why the Democrats Just Lost the Senate
+*   _Susan Glasser_: The Price of Getting Into Trump's Head
     
-*   _Scott Rasmussen_: DC Media Pushed False Narrative of Blankenship Surge
+*   _Harrington &. McMorris_: The Real Story of Scott Pruitt's Trip to Rome
     
-*   _Peter Hamby_: Donald Trump, the Media, and Occam's Razor
+*   _Caitlin Huey-Burns_: Dems' Economic Quandary in 2018 Messaging
     
-*   _Matthew Walther_: The Humorless Media Has Learned Nothing
+*   _Jeet Heer_: How Democrats Can Overpromise Like Trump
     
-*   _Bill Zeiser_: Was the Joke on PolitiFact?
+*   _Rich Lowry_: Trump Is Keeping His Campaign Promises
     
-*   _Mieke Eoyang_: The CIA Needs an Independent Thinker - Not Gina Haspel
+*   _Lawrence Martin_: The Dems' New Star Is an Obama With Bite
     
-*   _Marc Thiessen_: Gina Haspel Is Too Qualified to Pass Up
+*   _Ronnie Shows_: Democrats, Don't Mess With People's Trucks
     
-*   _Margaret Hartmann_: How Cohen Turned Connections Into Profits
+*   _Paul Krugman_: Let Them Eat Trump Steaks
     
 
 *   Previous
@@ -257,11 +257,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Summit Set, Detainees Free. Trump Sees North Korea "Big Success"
+*   Democrats' Economic Quandary in 2018 Messaging
+*   Pence: Time for Mueller to "Wrap It Up"
 *   Republicans Get Their Wish in W.Va., Ind., Ohio Primaries
-*   Trump Gives Freed Americans Flag-Waving, Wee-Hours Welcome
-*   McCarthy: DOJ Holding Up Requested Info Because It Will Embarrass Them
 *   Pelosi Says Democrats Have Cash and Environment to Win House
-*   Mueller Probe Could Boost Republican Midterm Candidates
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -277,8 +277,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
+    *   Approve49
+    *   Disapprove49Tie
 *   Florida Senate - Scott vs. NelsonFlorida Atlantic University
     *   Nelson40
     *   Scott44Scott +4
@@ -291,11 +291,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   HHS Sec. Alex Azar Presents "The Most Comprehensive Attack On Prescription Drug Affordability In History"
+*   John Kelly NPR Interview: My Only Regret Is I Wish I Had Been Here From Day 1
+*   Rep. Maxine Waters vs. Rep. Kelly: "I Resent The Talk Of 'Making America Great Again'"
+*   President Trump &. HHS Secretary Azar Announce 50-Point Plan To Lower Prescription Drug Prices
 *   Mark Levin: Mueller Undermining Constitution, Hoping To Humiliate Trump And Get Him To Resign
-*   Gina Haspel vs. Dem Sen. Reed: No Comparison Of CIA Officers To Terrorists In Terms Of Torture
-*   GOP Sen. Cotton: Dems Confirmed Brennan As CIA Director, Also Had Ties To Interrogation Program
-*   Sen. Harris Grills Haspel: "Do You Believe Previous Interrogation Techniques Were Immoral?"
-*   Jason Whitlock on Kanye: If You Say Trump Has A Good Idea, You Get Kicked Out Of The Black Race
 
 *   Politics
 *   Policy
