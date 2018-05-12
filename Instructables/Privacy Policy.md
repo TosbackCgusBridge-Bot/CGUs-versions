@@ -99,6 +99,7 @@ Change country/language X
     *   Buy Online
     *   Find a reseller
     *   Special offers
+    *   Renewal options
     *   Options
     *   Subscriber benefits
     *   Maintenance plan benefits
