@@ -204,7 +204,16 @@ Subscribe
 *   Province/Territory\*Select Province/Territory\*AlbertaBritish ColumbiaManitobaNew BrunswickNewfoundland &. LabradorNorthwest TerritoriesNova ScotiaNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon
 *   State\*Select State\*AguascalientesBaja CaliforniaBaja California SurChihuahuaColimaCampecheCoahuilaChiapasFederal DistrictDurangoGuerreroGuanajuatoHidalgoJaliscoMéxico StateMichoacánMorelosNayaritNuevo LeónOaxacaPueblaQuerétaroQuintana RooSinaloaSan Luis PotosíSonoraTabascoTlaxcalaTamaulipasVeracruzYucatánZacatecas
 *   State\*Select State\*AcreAlagoasAmazonasAmapáBahiaCearáDistrito FederalEspírito SantoGoiásMaranhãoMinas GeraisMato Grosso do SulMato GrossoParáParaíbaPernambucoPiauíParanáRio de JaneiroRio Grande do NorteRondôniaRoraimaRio Grande do SulSanta CatarinaSergipeSão PauloTocantins
-*   *    I agree to receive e-mail notifications. See our Privacy Policy and Terms of Use for more details.
+*   \*
+    *    I have read, understand and agree to Sencha’s terms and conditions and privacy statement.
+*   \*
+    
+    *    I agree to receive Sencha marketing communications via email and phone calls.
+    
+      
+    You can always update your communications preferences later.  
+      
+    Sencha, Inc. may share your information with its parent company, Idera, Inc., its affiliates globally and its partners. For further details on how your data is used and stored, please review our Sencha Privacy Policy.
 *   NameThis field is for validation purposes and should be left unchanged.
 
 This iframe contains the logic required to handle Ajax powered Gravity Forms. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1882987898627194&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52303&amp;fmt=gif">.
