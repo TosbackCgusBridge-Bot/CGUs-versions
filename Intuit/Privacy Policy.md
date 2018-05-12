@@ -33,27 +33,27 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 1 OF COUPON CODE GOSHOP66 ENDS IN
+Near YouFind a StoreBack DAY 2 OF COUPON CODE GOSHOP66 ENDS IN
 
 \*offer ends 5/13/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 3 3 8 8 secs SEPHORA FRAGRANCESShop AllSEPHORA FRAGRANCESShop All
+Days 0 0 0 0 hours 4 4 0 0 mins 5 5 7 6 secs SEPHORA FRAGRANCESShop AllSEPHORA FRAGRANCESShop All
 
 *   $69 - $91
     
-    Yves Saint Laurent Black Opium(2109)
+    Yves Saint Laurent Black Opium(2113)
 *   $72 - $122
     
-    Prada Candy Sugar Pop(20)
+    Prada Candy Sugar Pop(21)
 *   $68 - $115
     
     Donna Karan Cashmere Mist Eau De Parfum(219)
+*   $28
+    
+    Prada Candy Sugar Pop Rollerball(4)
 *   $96 - $109
     
-    Marc Jacobs Fragrances Daisy Eau So Fresh(842)
-*   $72 - $92
-    
-    Prada Candy(1035)
+    Marc Jacobs Fragrances Daisy Eau So Fresh(843)
 
 SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
 
@@ -72,11 +72,11 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     was $120
     
     Melrose Sleeveless Evening Gown(10)
-*   $27.99 sale
+*   $69.99 sale
     
-    was $60
+    was $120
     
-    a.n.a 3/4 Sleeve Embroidered Floral Shift Dress(2)
+    Melrose Sleeveless Evening Gown(19)
 *   $34.99 sale
     
     was $60
@@ -85,26 +85,26 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
 
 40 TO 60% OFF SELECT HANDBAGS &. WALLETSShop All40 TO 60% OFF SELECT HANDBAGS &. WALLETSShop All
 
-*   $30 - $37.50 sale
-    
-    was $75
-    
-    Liz Claiborne Leanne 4-Poster Shoulder Bag(101)
 *   $20 - $25 sale
     
     was $50
     
     Liz Claiborne Lola Crossbody Bag(120)
-*   $32.50 sale
+*   $30 - $37.50 sale
     
-    was $65
+    was $75
     
-    Liz Claiborne Amy Tote Bag(1)
-*   $24.99 sale
+    Liz Claiborne Leanne 4-Poster Shoulder Bag(101)
+*   $30 - $37.50 sale
     
-    was $60
+    was $75
     
-    St. John's Bay Straw Colorblock Tote Bag
+    Liz Claiborne Jess Tote Bag(33)
+*   $35 sale
+    
+    was $70
+    
+    Liz Claiborne Mini Tuxedo Satchel(92)
 *   $20 sale
     
     was $40
@@ -129,6 +129,13 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     a.n.a. Surplice Shirttail(17)
 *   LIMITED TIME SPECIAL!
     
+    $10.99 sale
+    
+    was $37
+    
+    Bold Elements Caged Cold Shoulder Top
+*   LIMITED TIME SPECIAL!
+    
     $13.99 sale
     
     was $47
@@ -141,13 +148,6 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     was $49
     
     3/4 Sleeve Embroidered Peasant Blouse - Plus(2)
-*   LIMITED TIME SPECIAL!
-    
-    $10.99 sale
-    
-    was $37
-    
-    Bold Elements Caged Cold Shoulder Top
 
 UP TO 70% OFF WINDOWShop AllUP TO 70% OFF WINDOWShop All
 
@@ -160,18 +160,18 @@ UP TO 70% OFF WINDOWShop AllUP TO 70% OFF WINDOWShop All
     Royal Velvet Supreme Grommet-Top Blackout Curtain Panel(9)
 *   LIMITED TIME SPECIAL!
     
-    $14.99 - $26.99 sale
-    
-    was $60 - $110
-    
-    Liz Claiborne® Kathryn Diamond Pleated Grommet-Top Curtain Panel(21)
-*   LIMITED TIME SPECIAL!
-    
     $5.99 - $16.99 sale
     
     was $25 - $70
     
     Home Expressions™ Cassidy Room-Darkening Rod-Pocket Curtain Panel(91)
+*   LIMITED TIME SPECIAL!
+    
+    $14.99 - $26.99 sale
+    
+    was $60 - $110
+    
+    Liz Claiborne® Kathryn Diamond Pleated Grommet-Top Curtain Panel(21)
 *   LIMITED TIME SPECIAL!
     
     $11.99 - $24.99 sale
@@ -253,7 +253,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Google Plus
+*   Instagram
 *   Youtube
 *   JCPenney Blog
 
