@@ -283,7 +283,7 @@ Mother’s Day is May 13th. Shop the gift guide and find the perfect gift for Mo
         
         *   Gifts for Mom!
         *   Genuine Leather Bags
-        *   Barbershop
+        *   Gifts Under $25
         *   Men's Gifts
         *   Women's Gifts
         *   Gifts That Give Back
@@ -301,6 +301,7 @@ Mother’s Day is May 13th. Shop the gift guide and find the perfect gift for Mo
         *   Sale Under $25
         *   Select Sale BOGO 50% Off
         *   Quinn &. Copper - Buy More, Save More
+        *   Men's Barbershop Sale
         
         *   Women's Sale
         
