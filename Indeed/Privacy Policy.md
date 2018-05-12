@@ -66,7 +66,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: May 10, 2018
+Last Updated: May 11, 2018
 
 **1\. Introduction**
 
@@ -104,7 +104,7 @@ You provide different types of information in order for Indeed to provide our se
 
 **_– From Your Account_**
 
-We collect data from you when you create an Indeed account, request information, subscribe for a service, participate in a survey, post a rating or review, post a question or answer, post a resume, upload content or otherwise actively send us data on our Site. This may include, but is not limited to, your user name, password, first and last name, email address, telephone number (including mobile phone number), street address, gender, occupation, interests, messages you send to users, and any other data included in a submitted profile or resume, including but not limited to application materials and answers to screener questions submitted to Employers through Indeed and answers you give to any questionnaires sent to you, which you answer.
+We collect data from you when you create an Indeed account, request information, subscribe for a service, participate in a survey, post a rating or review, post a question or answer, post a resume, complete an Indeed Assessment, upload content or otherwise actively send us data on our Site. This may include, but is not limited to, your user name, password, first and last name, email address, telephone number (including mobile phone number), street address, gender, occupation, interests, messages you send to users, and any other data included in a submitted profile or resume, including but not limited to application materials and answers to screener questions submitted to Employers through Indeed and answers you give to any questionnaires sent to you, which you answer.
 
 **_– Through Your Activity on Indeed_**
 
@@ -256,7 +256,7 @@ You will be given the option to make your resume private or public when you plac
 
 You acknowledge that Indeed may determine whether the words of your resume or any other individuals’ resume match the words of certain job descriptions, and vice versa, in order to improve the Site or any other Indeed product or service (including by displaying or otherwise making available potentially relevant job descriptions and resumes to Job Seekers and Employers).
 
-Indeed may also provide information collected pursuant to this Privacy Policy, including Personal Data, to Employers that may be interested in contacting you. By applying to a job, providing your contact information to show interest in a job, or by replying to a message from an Employer, you agree to the disclosure of your information to that Employer. Indeed may also use information provided to Indeed via your Indeed Resume to pre-populate application information for you and for similar purposes.
+Indeed may also provide information collected pursuant to this Privacy Policy, including Personal Data, to Employers that may be interested in contacting you. By applying to a job, answering screener questions, providing your contact information to show interest in a job, or by replying to a message from an Employer, you agree to the disclosure of your information to that Employer. Indeed may also provide the results of any Indeed Assessments you complete to Employers, where you agree to such provision at the time of taking such as assessment. Indeed may also use information provided to Indeed via your Indeed Resume to pre-populate application information for you and for similar purposes.
 
 If you have an Indeed account or an Indeed-hosted resume, you agree that Indeed may contact you or suggest you or your public resume to Employers that might be interested in a person who matches your behavior on Indeed.
 
@@ -1073,4 +1073,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cd6rfg3uaesnehi&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cd9drkpga2cie6i&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
