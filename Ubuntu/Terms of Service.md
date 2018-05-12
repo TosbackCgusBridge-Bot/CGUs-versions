@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   OpenStack Summit Vancouver 2018 ›
 *   Ubuntu Server development summary – 08 May 2018 ›
 *   An introduction to Zenkit – now available as a snap ›
 *   LXD Clusters: A Primer ›
 *   Introducing developer notifications for snap security updates ›
-*   Breeze through Ubuntu Desktop 18.04 LTS Bionic Beaver ›
