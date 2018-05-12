@@ -167,7 +167,7 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   Kids' Swim Shop
     *   Kids' Backpacks &. Lunch Boxes
-    *   Kids' Better Basics
+    *   Kids' Star Spangled Collection
     *   Girls' Knit Kit
     *   Iron Knees Pants
     *   School Uniforms
@@ -326,7 +326,6 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   Supima Bedding &. Bath
     *   Bedding Basics
-    *   Flannel Bedding
     *   Sale
     
     More for the Home >.
@@ -553,7 +552,7 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Kids' Swim Shop
         *   Kids' Backpacks &. Lunch Boxes
-        *   Kids' Better Basics
+        *   Kids' Star Spangled Collection
         *   Girls' Knit Kit
         *   Iron Knees Pants
         *   School Uniforms
@@ -726,7 +725,6 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Supima Bedding &. Bath
         *   Bedding Basics
-        *   Flannel Bedding
         *   Sale
     *   More for the Home
         *   Back
