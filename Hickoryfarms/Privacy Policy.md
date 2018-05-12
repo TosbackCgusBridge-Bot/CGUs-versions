@@ -8,6 +8,7 @@
     *   New!
     
     Occasions*   Mother's Day Gifts
+    *   Memorial Day
     *   Birthday Gifts
     *   Spring Gifts
     *   Weddings &. Showers
@@ -48,6 +49,7 @@
     View All Categories Shop by Category*   Mother's Day Gifts
     
     Occasions*   Birthday Gifts
+    *   Memorial Day
     *   Spring Gifts
     *   Weddings &. Showers
     *   Housewarming
@@ -75,6 +77,7 @@
     *   New!
     
     Occasions*   Mother's Day Gifts
+    *   Memorial Day
     *   Birthday Gifts
     *   Spring Gifts
     *   Weddings &. Showers
@@ -115,6 +118,7 @@
     View All Categories Shop by Category*   Mother's Day Gifts
     
     Occasions*   Birthday Gifts
+    *   Memorial Day
     *   Spring Gifts
     *   Weddings &. Showers
     *   Housewarming
