@@ -1,4 +1,4 @@
-*   Royals
+*   The Royal Wedding
 *   Style
 *   Travel
 *   Politics
@@ -53,7 +53,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Met Gala Celebs and the Art They Were Inspired By 2 How to Watch Meghan Markle and Harry's Wedding 3 What to Pack for a Trip to Capri 4 T&C's Mother's Day Gift Guide 5 21 Quotes That Go Beyond 'Happy Mother's Day' Privacy Policy Dec 1, 2014
+Today's Top Stories 1 All the Details of Harry and Meghan's Wedding 2 21 Quotes That Go Beyond 'Happy Mother's Day' 3 Harry Hadden-Paton Plays Henry Higgins for 2018 4 How to Watch Meghan Markle and Harry's Wedding 5 T&C's Mother's Day Gift Guide Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
