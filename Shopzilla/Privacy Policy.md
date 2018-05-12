@@ -13,7 +13,6 @@ Connexity
     *   Retailer Site Monetization
     *   Publisher Monetization
 *   About
-    *   About Connexity
     *   Open Positions
     *   Benefits
     *   Team
@@ -118,7 +117,6 @@ Resources
 Connexity
 
 *   Login
-*   About
 *   Team
 *   Open Positions
 *   Press
@@ -129,4 +127,4 @@ Connexity
 
 Connexity® and Hitwise® are registered trademarks of Connexity, Inc.
 
-Sumo
+SumoFocus Retriever
