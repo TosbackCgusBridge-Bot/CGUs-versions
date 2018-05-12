@@ -69,8 +69,8 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   Annette Bening Joins 'Captain Marvel'. Here's Everything We Know So Far Read More
-    *   The First 'The Predator' Trailer Has Arrived. Here's Everything We Know Read More
-    *   'Bad Boys for Life' Nabs Release Date. Here's What We Know Read More
+    *   David Gordon Green to Direct New 'Friday Night Lights' Movie. Here's Everything We Know Read More
+    *   Lupita Nyong'o to Star in Jordan Peele's 'Us'. Here's What We Know So Far Read More
     
     Explore Content
     *   Movie Reviews
