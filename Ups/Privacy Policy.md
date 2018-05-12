@@ -158,7 +158,7 @@ Company Info
 
 Other UPS Sites
 
-*   UPS StoreOpen the link in a new window
+*   The UPS StoreOpen the link in a new window
 *   UPS CapitalOpen the link in a new window
 *   United Problem SolversOpen the link in a new window
 *   **See All**Open the link in a new window
@@ -184,5 +184,3 @@ Legal
   
 
 Copyright ©1994- 2018 United Parcel Service of America, Inc. All rights reserved.
-
-Play IconFeedback
