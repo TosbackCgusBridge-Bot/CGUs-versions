@@ -1,4 +1,4 @@
-Contact Us CenturyLink For Home Shop Internet Bundles DIRECTV® TV Home Phone Check For Deals At My Home Home Phone Wireless Special Offers My CenturyLink My Account Quick Bill Pay Enroll Support Support Center Contact Us Guidance Center For Business Small Business/ 1-10 employees Medium - Enterprise Partners Public Sector Wholesale About Us Company Information Find everthing  
+Contact Us CenturyLink For Home Shop Internet Bundles DIRECTV® TV Home Phone Check For Deals At My Home Home Phone Special Offers Moving? My CenturyLink My Account Quick Bill Pay Enroll Support Support Center Contact Us Guidance Center For Business Small Business/ 1-10 employees Medium - Enterprise Partners Public Sector Wholesale About Us Company Information Find everthing  
 you need to know  
 about us. Investor Relations View financial  
 information  
