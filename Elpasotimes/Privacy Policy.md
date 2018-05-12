@@ -1,4 +1,4 @@
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialog
+SUBSCRIBE NOW$0.99/1st month
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dial
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso schools among best high schools in USEducationDoctor to little girl: 'You are a miracle'NewsPackers' Aaron Jones to graduate from UTEPCollegeFugitive child-porn suspect caught in Las CrucesCrimeMexican army patrols return to JuárezLocalSun City Music Festival cancellation reactionsMusicSarah Jessica Parker supports Beto O'RourkePoliticsMan sentenced to 50 years for stabbing at partyCrimeMan sentenced in deadly marijuana deal shootingCrimeDowntown El Paso arena may face new challengeLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso billionaire submits building offersBusinessCandidate, party leader die in Chihuahua attacksCrime'Resigns' changed in El Paso city attorney formLocalTortured puppy saved, finds loving homeLocalHomicides surge in Juárez. 10 dead in one dayLocalEl Paso schools among best high schools in USEducationMan caught on cameras arrested in home burglaryCrimeEl Paso girl beats cancer with 'miracle' surgeryNewsMexican army patrols return to JuárezLocalMan sentenced to 50 years for stabbing at partyCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -141,5 +141,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
