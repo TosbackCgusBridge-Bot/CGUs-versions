@@ -125,7 +125,7 @@ Play Watch an Epic Unboxing of the Video hotspot
 
 Dive into the details behind our innovative dual listening headset, Xperia Ear Duo.
 
-3 days ago
+4 days ago
 
 View Tweet
 
