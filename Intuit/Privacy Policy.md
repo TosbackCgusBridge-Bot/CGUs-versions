@@ -33,27 +33,23 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 2 OF COUPON CODE GOSHOP66 ENDS IN
-
-\*offer ends 5/13/18
-
-Days 0 0 0 0 hours 4 4 0 0 mins 5 5 7 6 secs SEPHORA FRAGRANCESShop AllSEPHORA FRAGRANCESShop All
+Near YouFind a StoreBackSEPHORA FRAGRANCESShop AllSEPHORA FRAGRANCESShop All
 
 *   $69 - $91
     
-    Yves Saint Laurent Black Opium(2113)
+    Yves Saint Laurent Black Opium(2114)
+*   $96 - $109
+    
+    Marc Jacobs Fragrances Daisy Eau So Fresh(843)
 *   $72 - $122
     
     Prada Candy Sugar Pop(21)
 *   $68 - $115
     
     Donna Karan Cashmere Mist Eau De Parfum(219)
-*   $28
+*   $65 - $90
     
-    Prada Candy Sugar Pop Rollerball(4)
-*   $96 - $109
-    
-    Marc Jacobs Fragrances Daisy Eau So Fresh(843)
+    Carolina Herrera GOOD GIRL(107)
 
 SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
 
@@ -71,12 +67,12 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     
     was $120
     
-    Melrose Sleeveless Evening Gown(10)
+    Melrose Sleeveless Evening Gown(19)
 *   $69.99 sale
     
     was $120
     
-    Melrose Sleeveless Evening Gown(19)
+    Melrose Sleeveless Evening Gown(10)
 *   $34.99 sale
     
     was $60
@@ -95,21 +91,21 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     was $75
     
     Liz Claiborne Leanne 4-Poster Shoulder Bag(101)
-*   $30 - $37.50 sale
-    
-    was $75
-    
-    Liz Claiborne Jess Tote Bag(33)
-*   $35 sale
-    
-    was $70
-    
-    Liz Claiborne Mini Tuxedo Satchel(92)
 *   $20 sale
     
     was $40
     
     Liz Claiborne Monica Crossbody Bag(1)
+*   $35 sale
+    
+    was $70
+    
+    Liz Claiborne Mini Tuxedo Satchel(92)
+*   $30 - $37.50 sale
+    
+    was $75
+    
+    Liz Claiborne Jess Tote Bag(33)
 
 UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
 
@@ -140,7 +136,7 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     
     was $47
     
-    Boutique + Long Sleeve Cardigan - Plus(10)
+    Boutique + Long Sleeve Cardigan - Plus(11)
 *   LIMITED TIME SPECIAL!
     
     $14.70 sale
@@ -157,14 +153,7 @@ UP TO 70% OFF WINDOWShop AllUP TO 70% OFF WINDOWShop All
     
     was $100 - $150
     
-    Royal Velvet Supreme Grommet-Top Blackout Curtain Panel(9)
-*   LIMITED TIME SPECIAL!
-    
-    $5.99 - $16.99 sale
-    
-    was $25 - $70
-    
-    Home Expressions™ Cassidy Room-Darkening Rod-Pocket Curtain Panel(91)
+    Royal Velvet Supreme Grommet-Top Blackout Curtain Panel(10)
 *   LIMITED TIME SPECIAL!
     
     $14.99 - $26.99 sale
@@ -172,6 +161,13 @@ UP TO 70% OFF WINDOWShop AllUP TO 70% OFF WINDOWShop All
     was $60 - $110
     
     Liz Claiborne® Kathryn Diamond Pleated Grommet-Top Curtain Panel(21)
+*   LIMITED TIME SPECIAL!
+    
+    $5.99 - $16.99 sale
+    
+    was $25 - $70
+    
+    Home Expressions™ Cassidy Room-Darkening Rod-Pocket Curtain Panel(91)
 *   LIMITED TIME SPECIAL!
     
     $11.99 - $24.99 sale
@@ -253,7 +249,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Instagram
+*   Google Plus
 *   Youtube
 *   JCPenney Blog
 
