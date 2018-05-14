@@ -33,23 +33,23 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackSEPHORA FRAGRANCESShop AllSEPHORA FRAGRANCESShop All
+Near YouFind a StoreBack FINAL HOURS! COUPON CODE GOSHOP66 ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 5 5 3 3 secs SEPHORA FRAGRANCESShop AllSEPHORA FRAGRANCESShop All
 
 *   $69 - $91
     
-    Yves Saint Laurent Black Opium(2114)
+    Yves Saint Laurent Black Opium(2115)
 *   $96 - $109
     
     Marc Jacobs Fragrances Daisy Eau So Fresh(843)
-*   $72 - $122
-    
-    Prada Candy Sugar Pop(21)
-*   $68 - $115
-    
-    Donna Karan Cashmere Mist Eau De Parfum(219)
 *   $65 - $90
     
     Carolina Herrera GOOD GIRL(107)
+*   $72 - $122
+    
+    Prada Candy Sugar Pop(21)
+*   $84
+    
+    TOM FORD Black Orchid(913)
 
 SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
 
@@ -57,17 +57,12 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     
     was $44
     
-    a.n.a. Bell Sleeve Shift Dress(17)
+    a.n.a. Bell Sleeve Shift Dress(18)
 *   $42.99 sale
     
     was $74
     
     Melrose 3/4 Sleeve Lace Fit &. Flare Dress(5)
-*   $69.99 sale
-    
-    was $120
-    
-    Melrose Sleeveless Evening Gown(19)
 *   $69.99 sale
     
     was $120
@@ -78,6 +73,11 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     was $60
     
     Perceptions Sleeveless Polka Dot Fit &. Flare Dress(5)
+*   $69.99 sale
+    
+    was $120
+    
+    Melrose Sleeveless Evening Gown(19)
 
 40 TO 60% OFF SELECT HANDBAGS &. WALLETSShop All40 TO 60% OFF SELECT HANDBAGS &. WALLETSShop All
 
@@ -85,7 +85,7 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     
     was $50
     
-    Liz Claiborne Lola Crossbody Bag(120)
+    Liz Claiborne Lola Crossbody Bag(122)
 *   $30 - $37.50 sale
     
     was $75
@@ -96,16 +96,16 @@ SAVE ON DRESSESShop AllSAVE ON DRESSESShop All
     was $40
     
     Liz Claiborne Monica Crossbody Bag(1)
-*   $35 sale
-    
-    was $70
-    
-    Liz Claiborne Mini Tuxedo Satchel(92)
 *   $30 - $37.50 sale
     
     was $75
     
     Liz Claiborne Jess Tote Bag(33)
+*   $35 sale
+    
+    was $70
+    
+    Liz Claiborne Mini Tuxedo Satchel(92)
 
 UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
 
@@ -118,13 +118,6 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     Liz Claiborne Tie Sleeve Bib Front Peasant Top(12)
 *   LIMITED TIME SPECIAL!
     
-    $25.99 sale
-    
-    was $44
-    
-    a.n.a. Surplice Shirttail(17)
-*   LIMITED TIME SPECIAL!
-    
     $10.99 sale
     
     was $37
@@ -132,11 +125,18 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     Bold Elements Caged Cold Shoulder Top
 *   LIMITED TIME SPECIAL!
     
+    $25.99 sale
+    
+    was $44
+    
+    a.n.a. Surplice Shirttail(17)
+*   LIMITED TIME SPECIAL!
+    
     $13.99 sale
     
     was $47
     
-    Boutique + Long Sleeve Cardigan - Plus(11)
+    Boutique + Long Sleeve Cardigan - Plus(12)
 *   LIMITED TIME SPECIAL!
     
     $14.70 sale
@@ -249,7 +249,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Google Plus
+*   Instagram
 *   Youtube
 *   JCPenney Blog
 
