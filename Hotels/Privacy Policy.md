@@ -1,5 +1,7 @@
 English (United States)USD
 
+Book online or call 800-219-4623This call is free. 24 hours a day. 7 days a week.
+
 *   Hotel Deals
 *   Packages
 *   Groups
