@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Alice Stewart_: Trump, Republicans on the Rise Heading Into the Midterms
+*   _Gerard Alexander_: Liberals, You're Not as Smart as You Think
     
-*   _Anthony Ruggiero_: Hold the Nobel Prize: Kim Is Setting a Trap for Trump
+*   _Ed Kilgore_: Is the 2018 Democratic Wave Receding?
     
-*   _Eli Lake_: When It Comes to Iran, Threats and Pressure Get Results
+*   _Joel Kotkin_: As Go the Suburbs, So Goes the Nation?
     
-*   _Klaus Brinkbaumer_: Trump &. Iran: Time for Europe to Join the Resistance
+*   _Julie Kelly_: The Deep State Mob Targets Nunes
     
-*   _Conrad Black_: Mueller, Dem Media Are Losing Their War Against Trump
+*   _Bob Dreyfuss_: That 'Deep State' You Keep Hearing About? It Doesn't Exist
     
-*   _Garrett Graff_: Trump and the Republican Party vs. the Rule of Law
+*   _Richard Fernandez_: Has Iran Fallen Into a Strategic Trap?
     
-*   _Rush Limbaugh_: Why Did Obama Admin Place a Spy Inside the Trump Campaign?
+*   _Carl M. Cannon_: The Iran Nuke Deal &. the Peter Drucker Rule
     
-*   _Ryan Cooper_: A Straightforward Path to Democratic Dominance
+*   _Mike Allen &. Jim VandeHei_: The Public Case Against Trump
     
-*   _Zito &. Todd_: These Lifelong Dems Voted for Trump and Aren't Sorry
+*   _Scott Johnson_: Axios of Weasel
     
-*   _Dana Milbank_: McCain Is the Greatest Political Leader of Our Time
+*   _Gary Varvel_: At Graduation Time, a Parent Wonders If College Is Worth It
     
-*   _Rebeccah Heinrichs_: McCain, Dems Are Wrong to Oppose Gina Haspel
+*   _Kelsey Harkness_: A Birth Mom Tells Her Story of Choosing Adoption
     
-*   _Gail Collins_: Sex, Trump and Cecile Richards
+*   _Robin Wright_: Trump's New, Confrontational Foreign Policy
     
-*   _J.J. McCullough_: Time for a Compromise on Transgenderism
+*   _Conrad Black_: Why Trump Is Truly a President Like No Other
     
-*   _John Nolte_: NeverTrump National Review Smears Conservatives as Bigots
+*   _Maureen Dowd_: A White House Most Foul, Now With The Guardrails Off
     
-*   _Linda Greenhouse_: How the Supreme Court Grasps Religion
+*   _Daniel Flynn_: Trump Enjoys the Best Week of His Presidency
     
-*   _Peter Berkowitz_: An Israeli's Overture to His Palestinian Neighbors
+*   _Jules Witcover_: Smoking Out Trump on Obstruction of Justice
     
-*   _Evan Mandery_: Did Alan Dershowitz Change? Or Did Liberals?
+*   _Andrew McCarthy_: Did the FBI Have a Spy in the Trump Campaign?
     
-*   _Peter Beinart_: The Iran Deal and the Dark Side of American Exceptionalism
+*   _Peter Wallison_: How Trump Can End the Standoff With Mueller
     
-*   _Michael Graham_: Trump Is Winning With 'Peace Through Strength'
+*   _Frank Bruni_: Renounce Pelosi, Ignore Trump - and Win?
     
-*   _Douglas Schoen_: Primaries Offer Clues, Warning Signs for Democrats
+*   _Jared Whitley_: Sorry, There's Not Going to Be Any 'Blue Tidal Wave' This Fall
     
-*   _Adam Davidson_: Cohen Gives Crash Course in Shady Corporate Entities
+*   _Michael Scherer_: In 2020, a Chance for Dems to Redefine the Left
     
-*   _Roger Kimball_: What Happened to Carter Page?
+*   _David Smith_: Joe Biden: Liberal Everyman Spoiling for 2020 Fight w/Trump
     
-*   _Sarah Jones_: Are West Virginia Republicans in Trouble?
+*   _George Will_: Mike Pence is America's Most Repulsive Public Figure
     
-*   _James Arkin_: Blasting Donnelly, Trump Previews Campaigner-in-Chief Role
+*   _William Bennett_: The "Never Trump" Pundit Class Continues to Unravel
     
 
 *   Previous
@@ -276,6 +276,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   West Virginia Senate - Morrisey vs. ManchinWPAi (R)
+    *   Manchin44
+    *   Morrisey46Morrisey +2
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve49
     *   Disapprove49Tie
@@ -285,17 +288,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve45
     *   Disapprove53Disapprove +8
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve44
-    *   Disapprove52Disapprove +8
 
 More Latest Polls In The News
 
+*   Issa: FBI/DOJ Slow-Walking Incriminating Documents. Hoping Dems Win And Cover It Up
+*   Georgetown Law Professor Paul Butler: Avenatti And Mueller Are Part Of A "Justice League" To Save Democracy
+*   Strassel: FBI Used "Human Intelligence" To Spy On 2016 Trump Campaign
 *   David Brooks: "Thug" Trump Understands Iran, North Korea Better Than People Who Have Higher SAT Scores
-*   Chief Of Staff John Kelly NPR Interview: My Only Regret Is I Wish I Had Been Here From Day 1
-*   FIREWORKS: Maxine Waters vs. Rep. Kelly on House Floor: "I Resent The Talk Of 'Making America Great Again'"
-*   HHS Sec. Alex Azar Presents "The Most Comprehensive Attack On Prescription Drug Affordability In History"
-*   Mark Levin: Mueller Undermining Constitution, Hoping To Humiliate Trump And Get Him To Resign
+*   Killer Mike, Maher Defend Guns: I'm Not Comfortable Being Asked To Be Unarmed And Police Are Not
 
 *   Politics
 *   Policy
