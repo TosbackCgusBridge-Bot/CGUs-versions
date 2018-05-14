@@ -1,4 +1,4 @@
-SEG1 hp
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55Q8D33" height="0" width="0" style="display:none;visibility:hidden"></iframe>. SEG1 hp
 
 ×
 
@@ -16,7 +16,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals 6it88IopdqwV0AHL0kQJnuv
+Office Depot Deals pPSi0DQe0pBWqlEDNnAB1Nw
 
 Search Suggestions
 
@@ -157,8 +157,7 @@ Click to learn more.
 2% back in rewards on your favorite  
 supplies, furniture, technology &. more
 
- **1-800-GO-DEPOT**  
-(1-800-463-3768)   Live Chat Available 24/7  **FREE** store pickup.  
+ **1-888-313-4851**  Live Chat Available 24/7  **FREE** store pickup.  
 order online  
 pick up in 1 hour!  **Tap our app**  
 get offers,  
@@ -233,4 +232,4 @@ This promotion is for Rewards members only. To take advantage of exclusive offer
 
 Join Sign In
 
-/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll
+/account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll Feedback Will open a new window
