@@ -1,4 +1,4 @@
-From SonicWiki Jump to: navigation, search Contents
+From SonicWiki Jump to: navigation, search Contents \[hide\] 
 
 *   1 Sonic.net Policies
     *   1.1 Sonic.net, Inc. General Policy
