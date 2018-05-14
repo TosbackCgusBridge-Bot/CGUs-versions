@@ -6,7 +6,7 @@ Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
 Menu Close Menu Close
 
 *   Products
-    *   Laptops &. 2-in-1s Explore All Explore All Narrow your choices by category and find the laptop you truly want
+    *   Laptops &. 2-in-1s VIEW ALL LAPTOPS Explore All Narrow your choices by category and find the laptop you truly want
         
         *   Thinkpad Laptops Thinkpad Laptops Enterprise-level performance. Premium reliability.
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
@@ -36,44 +36,59 @@ Menu Close Menu Close
             *   300e Chromebook
             *   500e Chromebook
         
-        *   *   Lots of options, but only one you, right? Narrow your choices by category, and find the laptop you truly want.
-                
-                Explore All Laptops &. Ultrabooks >.
+        *   *   *   BY USE
+                    *   Work
+                    *   Entertainment
+                    *   Student
+                    *   Gaming
+                    *   EverydayVIEW ALL
+                *   BY TYPE
+                    *   Traditional laptops
+                    *   2-in-1
+                    *   Thin and light
+                    *   Gaming
+                    *   ChromebookVIEW ALL
+                *   BY SPECS
+                    *   Screen Size
+                    *   Memory
+                    *   Processor
+                    *   Price
+                    *   More...VIEW ALLVIEW ALL LAPTOPS >.
         *   *   Enterprise-level performance.  
                 Investment-wise durability.  
                 Premium reliability.
                 
-                Learn more about the ThinkPad family >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Stylish design.  
                 Impressive performance.  
                 Innovative 2-in-1 versatility.
                 
-                Learn more about the Yoga family >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Broad portfolio.  
                 Entry-level to gaming powerhouse.  
                 Laptops and 2-in-1s.
                 
-                Learn more about the IdeaPad family >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Detachable 2-in-1s.  
                 Great for work &. play.  
                 Ultraportable.
                 
-                Explore all 2-in-1s >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Innovative design, responsive performance.
                 
-                Learn more about the Student laptops >.
+                VIEW ALL LAPTOPS >.
         
-        *   *   Explore All Gaming Laptops >.
+        *   *   VIEW ALL LAPTOPS >.
         
-        *   *   Chromebooks >.
+        *   *   VIEW ALL LAPTOPS >.
         
-        *   *   SMALL BUSINESS LAPTOPS >.
+        *   *   VIEW ALL LAPTOPS >.
         
-        *   *   ThinkPad 25 >.
+        *   *   VIEW ALL LAPTOPS >.
         
     *   Desktops &. All-In-Ones Explore All Explore All Plenty to consider before making your purchase. Let us help.
         
@@ -387,6 +402,10 @@ TODAY'S SALES
 
 Save up to $500 through May 17.
 
+MEMORIAL DAY BUSINESS SALE – EARLY ACCESS
+
+LenovoPro Store exclusive savings on our top selling business PCs. Sale ends at 4am ET, May 21.
+
 Lenovo Small Business
 
 Explore how Lenovo can be your small business partner.
@@ -395,12 +414,8 @@ Price, Durability, Features, Looks
 
 Best home laptops from Lenovo
 
-Star Wars Jedi Challenges
-
-Awaken your inner Jedi with a new smartphone-powered augmented reality experience.
-
-ThinkSmart Hub 500  
-The Smarter Way to Collaborate
+**CLEARANCE SALE**  
+Save an Additional 10% on all already unbeatable clearance deals!
 
 LAPTOPS
 
@@ -510,7 +525,7 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -522,4 +537,4 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
+SUBMIT CHATHIDE
