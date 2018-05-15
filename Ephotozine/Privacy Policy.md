@@ -1,6 +1,6 @@
 Privacy PolicyePHOTOzine have created the following document to explain what information we collect when you visit the ePHOTOzine web site, why we collect such information, the ways information is gathered, how we use the information and the choices you can make about these practices.  
   
-We are registered with and follow guidelines placed by the Data Protection Act.  
+We are registered with the ICO and have taken actions to be GDPR compliant wherever possible.  
   
 By using this Site, you consent to the data practices prescribed in this Privacy Policy. We may amend the document at any time and will indicate when we do at the bottom of the page with a "last updated" date. It is your responsibility to review this Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.  
   
@@ -15,7 +15,7 @@ When you visit ePHOTOzine, we automatically receive and record information on ou
 **Cookie Policy**  
 Cookies are tiny text files that are stored on your computer when you visit many websites. Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.  
   
-Cookies can be "First Party", i.e. set by us, or "Third Party" – set by another company to perform the function, for example Google Analytics or our Advertising cookies.  
+Cookies can be "First Party", i.e. set by us, or "Third Party" ï¿½ set by another company to perform the function, for example Google Analytics or our Advertising cookies.  
   
 Our primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We also use cookies to find out things such as the number of visitors to the various parts of the website. We collect this information in a way which does not identify anyone. Cookies do not give us access to your computer or any information about you, other than the data you choose to share with us.  
   
@@ -25,8 +25,32 @@ We also allow cookies to be set by a number of independent measurement, advertis
   
 You have the ability to accept or decline cookies. Most web browsers are initially set up to automatically accept cookies, but you can set your browser to refuse all cookies or to indicate when a cookie is being sent. However, please be aware that should you choose to disable cookies it may prevent you from taking full advantage of our website and some of this, and other websites, may fail to work.  
   
-**When your register**  
-When you register to join in our forums, post photographs in the gallery or sign up for our newsletter we request your name and email address in addition to the non-identifiable information.  
+**When you register**  
+When you register to join in our forums, post photographs in the gallery or sign up for our newsletter it is necessary for us to collaect some personal data from you.   
+  
+**What data we collect and why we have it**  
+When you sign up for an ePHOTOzine account, your personal details are submitted to our secure server which is located in a secure data centre. This is protected by HTTPS encryption. Staff members and moderators of ePHOTOzine may access this data when necessary, for example to contact you if you submit a report or to send you a prize. Below is a list of the data we collect and why we keep it.  
+  
+**Name –**We need a name to identify you should you win a prize or should you contact us because you've forgotten your password. we may need to verify who you are by cross-checking your name with a form of ID for security purposes.  
+  
+**Email –**We require an email address from you at sign up for verification purposes. We also use this email address to contact you where applicable. We can also send you our informative weekly editorial newsletter and any offers we think you might be interested in, if you are signed up to receive these. We take your privacy extremely seriously and will never sell your details to third parties. You can opt out of our newsletters at any time. We also send out automatic notification emails regarding your use of the site (such as to inform you of comments on your pictures. updates to your forum posts etc). Again, you can unsubscribe from these at any time.  
+  
+**Address –**We ask for an address so that if you win a prize in either our regular site competitions or the Christmas prize draw, the prize can be sent out quickly and easily. In some instances we may not be able to confirm all address details with winners before sending prizes out, so we ask that you keep this information up to date. We will not be held responsible if you win a prize and it is sent out to the wrong address due to the information not being up to date. Supplying your address is optional. However not supplying your address may result in your competition entries being void.  
+  
+**Date of birth –**ePHOTOzine sends out a free week’s worth of Plus Membership redeemable through a code as a birthday perk. By providing your date of birth you are authorizing us to send this to your email address. We occasionally use this data to generate anonymous demographics of the average age of users to help us tailor content and advertising better. Your birthday is also used to verify your age so that you may turn off the adult content blocker if you wish. You can choose not to give us your date of birth however this will mean that you don't get a week's free Plus Membership for your birthday. Because we can't verify your age without your birthday, you will also lose the ability to see images that are classed as adult on the site.  
+  
+**Where you came from –** We keep a referrer URL (where you came from on the web when you sign up for an account) so that we can look at how our users reach us and optimise the site for the best user experience.  
+  
+**Gender –**This data is used in anonymous demographic collections so we can tailor content better to our users. Providing your gender is optional.  
+  
+**Favourite drink/colour/gadget etc.** These are completely optional as to whether you fill them out and are not used in any data collections – these answers are just for fun and to help add a bit of personality to your profile. You can edit them at any time by going to your profile settings.  
+  
+**Closed profile data**  
+When you close your ePz account, the account data is stored on our secure servers. It is removed from ePHOTOzine and is not searchable or accessible from the site. We keep the profile data and the photos uploaded to it in case you change your mind and ask to have the profile re-opened.  
+  
+If you wish to have us destroy your profile and remove all data from our servers, you must request that we do so either by email or through the on-site report system and we will take the appropriate action to ensure this is carried out. Please note that once the action has been requested you will not be able to revive your profile and all your data will be permanently deleted. This is an irretrievable process. We ask that you think very carefully before making this decision as we will not be able to help with retrieving images from your profile.  
+  
+When you sign up to ePHOTOzine the data remains on our server permanently, unless you ask that the data be destroyed.  
   
 **When we require full Personal Information**  
 On some ePHOTOzine Web pages you can order products, make requests and register to receive materials. The types of information collected at these pages are name, address, contact and billing information, transaction, and credit card information. This Personal Information we collect from you to help you complete a transaction and process any of your online transactions, to communicate back to you, to update you on our service and benefits, to provide you with information regarding our products and promotions, to support your use of our products and services, to personalize our Web site for you and for any other purpose related to the operation of ePHOTOzine and the programs, products and services offered on it. You always have the right to choose whether or not to provide information about yourself to Magezine Publishing Ltd. If you choose not to provide such information, you can still use this Site but you may not be able to access certain options, offers or services.  
@@ -44,7 +68,7 @@ We allow you to confirm, change, update, modify and delete Personal Information 
 The ePHOTOzine site has security measures in place to protect the loss, misuse and alteration of the information under our control. We follow generally accepted procedures to back up data stored on our servers.  
   
 **Credit cards and electronic payment**  
-Credit card numbers are only used to process payments and are not retained for any other purpose. The information may be disclosed only to our staff and to third parties involved in the completion of your transaction or the delivery of your order.  
+We do not store payment card details. We use third parties, PayPal and Pay 360 to process payments. All card data remains with the third parties. If you have a query regarding this, please refer to PayPal or Pay360's terms and conditions.  
   
 **Children's Guidelines**  
 ePHOTOzine encourages parents or guardians to spend time online with their children and to participate in the forums and galleries. However no information should be submitted by visitors under 13 years of age without the consent of their parent or guardian. Parents or guardians can request to delete their child's personal information by contacting ePHOTOzine at customerservices@ephotozine.com.  
@@ -54,6 +78,8 @@ Magezine Publishing Ltd may disclose your Personal Information, any images in yo
   
 **Choice/Opt-Out**  
 We provide users the opportunity to opt-out of receiving communications from ePHOTOzine and our partners via an unsubscribe mechanism in all e-mail communication. You may "opt-out" of any marketing relationship we have with you by choosing to do so where such option is available.  
+  
+In compliance with new Data protection laws we will email all members giving them the opportunity to unsubscribe quickly and easily from our newsletters. It is your responsibility to take action if you no longer wish to receive email communications from us in the future. If you do not inform us that you would like to be unsubscribed we will assume that you are still happy to receive our emails.  
   
 **International Transfers**  
 Personal Information collected on this Site may be stored and processed in the United Kingdom or any other country in which Magezine Publishing Ltd or its affiliates, subsidiaries or agents maintain facilities, and by using this Site, you consent to any such transfer of information outside of your country.  
@@ -71,14 +97,7 @@ ePHOTOzine will not share personally identifiable information without your conse
 If Magezine Publishing Ltd or any of its lines of business is sold, pledged or disposed of as a going concern, whether by merger, sale of assets, bankruptcy or otherwise, then the user database of ePHOTOzine.com could be sold as part of that transaction and all User Information accessed by such successor or purchaser.  
   
 **Feedback**  
-If you have any questions, suggestions or comments about this Privacy Policy or any other documents on ePHOTOzine, you can contact us via email at customerservices@ephotozine.com or by mail to:  
-  
-Magezine Publishing Ltd  
-Units 31/32 The Turbine,  
-Shireoaks Triangle Business Park,  
-Coach Close,  
-Shireoaks  
-S81 8AP  
+If you have any questions, suggestions or comments about this Privacy Policy or any other documents on ePHOTOzine, you can contact us via email at customerservices@ephotozine.com.  
   
 Magezine Publishing Ltd fully supports the protection of your privacy and works hard to protect your Personal Information. In the unlikely event that your Personal Information is disclosed inadvertently to a third party without your consent, Magezine Publishing Ltd will use its best efforts to stop the disclosure and remedy the situation upon notice. Magezine Publishing Ltd shall not be liable for any unintentional or inadvertent disclosure of any end user information.  
   
