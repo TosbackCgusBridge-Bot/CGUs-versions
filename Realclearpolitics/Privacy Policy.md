@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Gerard Alexander_: Liberals, You're Not as Smart as You Think
+*   _Sheryl Stolberg_: Heller, Buffeted on Both Sides, Tries to Save His NV Seat
     
-*   _Ed Kilgore_: Is the 2018 Democratic Wave Receding?
+*   _Heather Wilhelm_: Tough Times for the Dem Resistance
     
-*   _Joel Kotkin_: As Go the Suburbs, So Goes the Nation?
+*   _Juan Williams_: Trump's Dangerous Lies on Iran
     
-*   _Julie Kelly_: The Deep State Mob Targets Nunes
+*   _Charles Hurt_: Novice Politician Stuns World by Keeping Promises
     
-*   _Bob Dreyfuss_: That 'Deep State' You Keep Hearing About? It Doesn't Exist
+*   _Simon Tisdall_: Death, Division, Denial as U.S. Embassy Opens in Jerusalem
     
-*   _Richard Fernandez_: Has Iran Fallen Into a Strategic Trap?
+*   _Rush Limbaugh_: FBI Russia Investigation Was a Setup From Start
     
-*   _Carl M. Cannon_: The Iran Nuke Deal &. the Peter Drucker Rule
+*   _Evan Osnos_: Trump vs. the 'Deep State'
     
-*   _Mike Allen &. Jim VandeHei_: The Public Case Against Trump
+*   _Steven Calabresi_: Mueller's Investigation Crosses the Legal Line
     
-*   _Scott Johnson_: Axios of Weasel
+*   _Lydia Wheeler_: Five Rulings to Watch at the Supreme Court
     
-*   _Gary Varvel_: At Graduation Time, a Parent Wonders If College Is Worth It
+*   _Nocera &. Villa_: The 9 Minutes That Almost Changed America
     
-*   _Kelsey Harkness_: A Birth Mom Tells Her Story of Choosing Adoption
+*   _Steve Kolowich_: Campus Politics: State of Conflict
     
-*   _Robin Wright_: Trump's New, Confrontational Foreign Policy
+*   _Sen. Ted Cruz_: The U.S. Embassy Move Sends a Powerful Message
     
-*   _Conrad Black_: Why Trump Is Truly a President Like No Other
+*   _Samantha Vinograd_: How Iran Could Turn Our Friends Against Us
     
-*   _Maureen Dowd_: A White House Most Foul, Now With The Guardrails Off
+*   _Roger Simon_: As Jerusalem Embassy Opens, Is Trump Fixing Mideast Too?
     
-*   _Daniel Flynn_: Trump Enjoys the Best Week of His Presidency
+*   _Neil Gross_: Is the United States Too Big to Govern?
     
-*   _Jules Witcover_: Smoking Out Trump on Obstruction of Justice
+*   _Larry Elder_: Capitalism Is a Pesky Problem for Democrats
     
-*   _Andrew McCarthy_: Did the FBI Have a Spy in the Trump Campaign?
+*   _Brian Faler_: Republican Tax Cut Is Not Why Economy Is Booming
     
-*   _Peter Wallison_: How Trump Can End the Standoff With Mueller
+*   _Ed Rogers_: Trump's Consequential Presidency Is Beginning to Show
     
-*   _Frank Bruni_: Renounce Pelosi, Ignore Trump - and Win?
+*   _David Faris_: How Dems Could Thwart Trump's Supreme Court Takeover
     
-*   _Jared Whitley_: Sorry, There's Not Going to Be Any 'Blue Tidal Wave' This Fall
+*   _Clarice Feldman_: The 'Collusion' Was Between Obama Intel Chiefs and Britain
     
-*   _Michael Scherer_: In 2020, a Chance for Dems to Redefine the Left
+*   _Michael Bloomberg_: Graduates: Here's an Honor Code for Life
     
-*   _David Smith_: Joe Biden: Liberal Everyman Spoiling for 2020 Fight w/Trump
+*   _Heather Mac Donald_: How Identity Politics Is Harming the Sciences
     
-*   _George Will_: Mike Pence is America's Most Repulsive Public Figure
+*   _India Ross_: Donald Glover, the Performer Holding a Mirror to America
     
-*   _William Bennett_: The "Never Trump" Pundit Class Continues to Unravel
+*   _Robert Tracinski_: 'This Is America' Is the Epitome of Preachy PC Art
     
 
 *   Previous
@@ -259,7 +259,7 @@ RecommendedPolitics
 
 *   Democrats' Economic Quandary in 2018 Messaging
 *   Blasting Donnelly, Trump Previews Campaigner-in-Chief Role
-*   Pence: Time for Mueller to "Wrap It Up"
+*   Issa: FBI, DOJ "Lying Through Their Teeth," Rosenstein Must Recuse
 *   Republicans Get Their Wish in W.Va., Ind., Ohio Primaries
 *   Pelosi Says Democrats Have Cash and Environment to Win House
 *   Presidential Job Approval
@@ -276,26 +276,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve43
+    *   Disapprove52Disapprove +9
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
+*   Direction of CountryRasmussen Reports
+    *   Right Direction41
+    *   Wrong Track53Wrong Track +12
 *   West Virginia Senate - Morrisey vs. ManchinWPAi (R)
     *   Manchin44
     *   Morrisey46Morrisey +2
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove49Tie
-*   Florida Senate - Scott vs. NelsonFlorida Atlantic University
-    *   Nelson40
-    *   Scott44Scott +4
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve45
-    *   Disapprove53Disapprove +8
 
 More Latest Polls In The News
 
+*   Conway on WH Leaks: Will Be Personnel Changes, Staffers "Using The Media To Shiv Each Other"
+*   NBC's Peter Alexander at WH Briefing: Does U.S. Approve Of Israel Killing Palestinians "At Will"?
+*   Jared Kushner in Jerusalem: "Those Provoking Violence Are Part Of The Problem, Not Part Of The Solution"
+*   Pompeo: Kim Jong Un Follows Western Media, "Will Probably Watch This Show At Some Point"
 *   Issa: FBI/DOJ Slow-Walking Incriminating Documents. Hoping Dems Win And Cover It Up
-*   Georgetown Law Professor Paul Butler: Avenatti And Mueller Are Part Of A "Justice League" To Save Democracy
-*   Strassel: FBI Used "Human Intelligence" To Spy On 2016 Trump Campaign
-*   David Brooks: "Thug" Trump Understands Iran, North Korea Better Than People Who Have Higher SAT Scores
-*   Killer Mike, Maher Defend Guns: I'm Not Comfortable Being Asked To Be Unarmed And Police Are Not
 
 *   Politics
 *   Policy
