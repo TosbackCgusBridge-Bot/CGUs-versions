@@ -157,8 +157,8 @@ GSK Global Website www.gsk.com
             *   Nick Springer, U.S. Paralympian and meningitis survivor
             *   Dr. Leonard Friedland, VP, director of Scientific Affairs and Public Health, Vaccines, North America at GSK
         *   Tanzeum™ (albiglutide)
-        *   The State of Uncontrolled Asthma in America
         *   The IMPACT study: InforMing the PAthway of COPD Treatment
+        *   The State of Uncontrolled Asthma in America
         *   Trelegy Ellipta
         *   US IMPACT Awards
         *   Vaccinate for Life
@@ -234,8 +234,8 @@ Menu
         *   TEDMED 2015: Art, inspired by vaccination
         *   TEDMED 2015: An interview with curator, Christine McNab
         *   The fight against malaria
-        *   Collaborating to improve patient care
         *   Global mission, local impact
+        *   Collaborating to improve patient care
         *   In Africa, markets matter for a healthy society
         *   Pricing our medicines to help ensure patient access
         *   Helping patients in need
@@ -250,8 +250,8 @@ Menu
         *   Eggs in manufacturing
         *   The power of advocacy: coming together for the patient
         *   Struggling for breath
-        *   Beyond Breathing: When Is Asthma Really Under Control?
         *   Clinical trials: a patient's view
+        *   Beyond Breathing: When Is Asthma Really Under Control?
         *   Fostering Wellness initiative: young people lead the way!
         *   The Power of 24hrs
         *   Living with COPD Every Day: Sean’s Story
@@ -344,6 +344,7 @@ Menu
         *   US Community Partnerships
         *   Barnes smART Fund for Arts Education
         *   Charitable grants
+        *   EDCI Youth Leadership Council
         *   GSK IMPACT Awards
         *   GSK Opportunity Scholarships
         *   Save the Children partnership
@@ -354,7 +355,6 @@ Menu
             *   Cross-sector partnership
         *   Science in the Summer™
         *   Vetri Cooking Lab
-        *   EDCI Youth Leadership Council
     *   Policies, codes and standards
         *   Back
         *   Policies, codes and standards
