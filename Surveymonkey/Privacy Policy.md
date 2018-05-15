@@ -764,6 +764,7 @@ If you are resident in the European Union and you are dissatisfied with how we h
 *   GDPR Compliance
 *   Email Opt-In
 *   Accessibility
+*   Cookies Policy
 
 *   Language:
 *   English
