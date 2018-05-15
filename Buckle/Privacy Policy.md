@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Mother’s Day is May 13th. Shop the gift guide and find the perfect gift for Mom.
+RSVP to style! buckle SELECT has you covered for wedding season.
 
 *   Women
 *   Men
@@ -281,7 +281,6 @@ Mother’s Day is May 13th. Shop the gift guide and find the perfect gift for Mo
         
         *   Gift Guide
         
-        *   Gifts for Mom!
         *   Genuine Leather Bags
         *   Gifts Under $25
         *   Men's Gifts
