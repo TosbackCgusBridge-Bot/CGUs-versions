@@ -10,7 +10,7 @@
 *   Shopping Tools
 *   Find a Dealer
 *   Build &. Price
-*   Local Offers
+*   Local Deals
 
 *   Cars &. Minivans
 *   Trucks
@@ -28,8 +28,8 @@
     27/35 est MPG3 Build Specials
 *   $35,345 as shown1 2018 Camry $23,495 starting1  
     29/41 est MPG4 Build Specials
-*   $37,900 as shown1 2018 Avalon $33,500 starting1  
-    21/30 est MPG3 Build Specials
+*   $42,200 as shown1 2019 Avalon $35,500 starting1  
+    22/32 est MPG18 Build Specials
 *   $28,385 as shown1 2018 86 $26,255 starting1  
     21/28 est MPG3 Build Specials
 *   $42,205 as shown1 2018 Sienna $30,750 starting1  
@@ -55,8 +55,8 @@
 
 *   $32,250 as shown1 2018 Camry Hybrid $27,800 starting1  
     51/53 est MPG3 Build Specials
-*   $42,800 as shown1 2018 Avalon Hybrid $37,500 starting1  
-    40/39 est MPG3 Build Specials
+*   $42,800 as shown1 2019 Avalon Hybrid $36,500 starting1  
+    43/44 est MPG19 Build Specials
 *   $34,130 as shown1 2018 RAV4 Hybrid $27,235 starting1  
     34/30 est MPG3 Build Specials
 *   $48,280 as shown1 2018 Highlander Hybrid $36,670 starting1  
@@ -75,13 +75,12 @@
 *   2019 Corolla Hatchback View More Info
 *   GR Supra Racing Concept View More Info
 *   2019 TRD Pro Series View More Info
-*   2019 Avalon View More Info
 *   FT-4X Concept View More Info
 
 View All Vehicles
 
 *   Build &. Price
-*   Local Offers
+*   Local Deals
 *   Search Inventory
 *   KBB Trade-In Value
 
@@ -102,8 +101,8 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 32/40 est MPG3 $22,080 as shown1 2018 Corolla $18,600 starting1  
 28/36 est MPG3 $19,985 as shown1 2018 Corolla iM $18,850 starting1  
 27/35 est MPG3 $35,345 as shown1 2018 Camry $23,495 starting1  
-29/41 est MPG4 $37,900 as shown1 2018 Avalon $33,500 starting1  
-21/30 est MPG3 $28,385 as shown1 2018 86 $26,255 starting1  
+29/41 est MPG4 $42,200 as shown1 2019 Avalon $35,500 starting1  
+22/32 est MPG18 $28,385 as shown1 2018 86 $26,255 starting1  
 21/28 est MPG3 $42,205 as shown1 2018 Sienna $30,750 starting1  
 19/27 est MPG16 Trucks $36,115 as shown1 2018 Tacoma $25,200 starting1  
 18/22 est MPG3 $45,300 as shown1 2018 Tundra $31,120 starting1  
@@ -114,21 +113,21 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 17/21 est MPG3 $56,895 as shown1 2018 Sequoia $48,400 starting1  
 13/17 est MPG3 $84,315 as shown1 2018 Land Cruiser $84,315 starting1  
 13/18 est MPG5 Hybrids &. FCV $32,250 as shown1 2018 Camry Hybrid $27,800 starting1  
-51/53 est MPG3 $42,800 as shown1 2018 Avalon Hybrid $37,500 starting1  
-40/39 est MPG3 $34,130 as shown1 2018 RAV4 Hybrid $27,235 starting1  
+51/53 est MPG3 $42,800 as shown1 2019 Avalon Hybrid $36,500 starting1  
+43/44 est MPG19 $34,130 as shown1 2018 RAV4 Hybrid $27,235 starting1  
 34/30 est MPG3 $48,280 as shown1 2018 Highlander Hybrid $36,670 starting1  
 30/28 est MPG3 $33,100 as shown1 2018 Prius Prime $27,100 starting1  
 54/133 est MPG10 $32,115 as shown1 2018 Prius $23,475 starting1  
 54/50 est MPG17 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
 48/43 est MPG3 $58,365 as shown1 2018 Mirai $58,365 starting1  
-67/67 est MPG14 Upcoming Vehicles 2019 RAV4 2019 Yaris 2019 Corolla Hatchback GR Supra Racing Concept 2019 TRD Pro Series 2019 Avalon FT-4X Concept
+67/67 est MPG14 Upcoming Vehicles 2019 RAV4 2019 Yaris 2019 Corolla Hatchback GR Supra Racing Concept 2019 TRD Pro Series FT-4X Concept
 
 *   Careers
 *   Español
 *   Owners
 
 *   Build &. Price
-*   Local Offers
+*   Local Deals
 *   Search Inventory
 *   KBB Trade-In Value
 
@@ -1170,6 +1169,8 @@ Help
 *   15\. 2018 C-HR preliminary 27 city/31 highway/29 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
 *   16\. 2018 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD. Actual mileage will vary.
 *   17\. 2018 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
+*   18\. 2019 Toyota Avalon XLE preliminary 22 city/32 hwy/26 combined mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
+*   19\. 2019 preliminary mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
 
 YOUR GARAGE NONELog In
 
