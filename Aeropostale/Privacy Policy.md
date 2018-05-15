@@ -568,4 +568,4 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
