@@ -17,12 +17,6 @@ Connexity
     *   Benefits
     *   Team
     *   Press
-*   Resources
-    *   White Papers
-    *   Blog
-    *   Articles
-    *   Webinars
-*   Case Studies
 
 *   *   US
         *   FR
@@ -47,15 +41,9 @@ Toggle navigationblog navsite nav
         *   Retailer Site Monetization
         *   Publisher Monetization
 *   About
-    *   About Connexity
     *   Open Positions
     *   Benefits
     *   Team
-*   Resources
-    *   Blog
-    *   Press
-    *   Articles &. White Papers
-*   Case Studies
 
 CONTACT Privacy Policy
 
@@ -108,12 +96,6 @@ Home  /  Privacy Policy Overview
 *   CPC Listings
 *   Hitwise
 
-Resources
-
-*   Blog
-*   Case Studies
-*   Consumer Insights
-
 Connexity
 
 *   Login
@@ -127,4 +109,4 @@ Connexity
 
 Connexity® and Hitwise® are registered trademarks of Connexity, Inc.
 
-SumoFocus Retriever
+Sumo
