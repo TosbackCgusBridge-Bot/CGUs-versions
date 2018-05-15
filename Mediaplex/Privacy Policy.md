@@ -55,9 +55,9 @@
     *   Integrations
     *   Join Us
 
-GET TO THE HEART  
-OF WHAT MATTERS  
-TO MILLIONS Watch Our Story
+HAVE COMPELLING  
+CONVERSATIONS THAT  
+LAST A LIFETIME Watch Our Story
 
 *   200M+ Real People You Can  
     Message Right Now
@@ -89,12 +89,13 @@ The Latest News
 *   Our Approach to the GDPR  
     What the GDPR means for you
 
-← See our case study See our case study See our case study See our case study See our case study See our case study →
+← See our case study See our case study See our case study See our case study See our case study See our case study See our case study →
 
 *   1
 *   2
 *   3
 *   4
+*   5
 
 Research  
 Five ways to win customers with tech  
