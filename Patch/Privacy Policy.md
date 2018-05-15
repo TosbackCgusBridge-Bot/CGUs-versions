@@ -8,7 +8,7 @@ Toggle navigation Find Your Town Post Advertise Log in
 *   Advertise
 *   Log out
 
-*   Mon, May 14
+*   Tue, May 15
 
 *   Post on Patch
 *   Advertise
@@ -256,4 +256,4 @@ Support
 
 Swipe for more from Patch »
 
-<img src = "https://b.scorecardresearch.com/p?c1=2&c2=21043158&cv=2.0&cj=1" />. <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />. advertisementadvertisementadvertisement
+<img src = "https://b.scorecardresearch.com/p?c1=2&c2=21043158&cv=2.0&cj=1" />. <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />.
