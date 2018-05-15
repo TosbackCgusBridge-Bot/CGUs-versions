@@ -93,69 +93,87 @@ Primary menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! The Perfect Pairing of Sound and Light for Any Mood
+search Your browser does not support JavaScript! Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human”
 
-Check Out the LED Bulb Speaker
-
-Close
-
-*   Share The Perfect Pairing of Sound and Light for Any Mood on Facebook
-*   Share The Perfect Pairing of Sound and Light for Any Mood on Twitter
-*   Copy URL to share The Perfect Pairing of Sound and Light for Any Mood
-
-Check Out the LED Bulb Speaker
-
-<img class="bg-img" class="url(/en\_us/media/content/LSPX-102E26\_0318IMG\_0008\_1\_us\_tiff-600x600.jpg);" alt="LED Bulb Speaker ">. Watch an Epic Unboxing of the
-
-BRAVIA OLED A8F TV
+Play the PS4™ Exclusive Next Week
 
 Close
 
-*   Share Watch an Epic Unboxing of the on Facebook
-*   Share Watch an Epic Unboxing of the on Twitter
-*   Copy URL to share Watch an Epic Unboxing of the
+*   Share Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human” on Facebook
+*   Share Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human” on Twitter
+*   Copy URL to share Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human”
 
-Play Watch an Epic Unboxing of the Video
+Play Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human” Video
 
-Sony on YouTube - Watch an Epic Unboxing of the
+Sony on YouTube - Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human”
 
-Play Watch an Epic Unboxing of the Video hotspot
+Play Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human” Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/FY18Graphic\_In-Situation\_A8F\_jpg-600x600\_j7IIy5S.jpg);" alt="BRAVIA OLED A8F TV Unboxing Video">.
+<img class="bg-img" class="url(/en\_us/media/content/DBH\_Screen\_PS4\_ConnorHank\_78019-600x600.jpg);" alt="Detroit: Become Human ">. A Creative Experience to Inspire Photographers
 
-Dive into the details behind our innovative dual listening headset, Xperia Ear Duo.
+See Highlights from the Kando Trip 2.0
 
-6 days ago
+Close
+
+*   Share A Creative Experience to Inspire Photographers on Facebook
+*   Share A Creative Experience to Inspire Photographers on Twitter
+*   Copy URL to share A Creative Experience to Inspire Photographers
+
+Play A Creative Experience to Inspire Photographers Video
+
+Sony on YouTube - A Creative Experience to Inspire Photographers
+
+Play A Creative Experience to Inspire Photographers Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Nate-Luebbe-Kando-Trip-2-1.f1cb27a519bdb5b6ed34049a5b86e317-600x600.jpg);" alt="Kando Trip 2.0">. Take Your Photography
+
+to the Next Level
+
+Close
+
+*   Share Take Your Photography on Facebook
+*   Share Take Your Photography on Twitter
+*   Copy URL to share Take Your Photography
+
+to the Next Level
+
+<img class="bg-img" class="url(/en\_us/media/content/ILCE-7RM3\_situation\_10\_Reliability1\_jpg-600x600.jpg);" alt="a7R III">.
+
+ICYMI: Alpha Universe #SonyKandoTrip Podcast Special: "What is Kando and the Power of Wow"
+
+1 hour ago
 
 View Tweet
 
-View LSPX-P1 Portable Ultra Short Throw Projector on Instagram
+High-Quality Performance
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/9fbabb26b251c7fa2a6319badb4e355a/5B9774CF/t51.2885-15/e35/30920501\_953356434843189\_3634044405502967808\_n.jpg);" alt="">. Colors That Suit
-
-Her Lifestyle
+In a Compact Body
 
 Close
 
-*   Share Colors That Suit on Facebook
-*   Share Colors That Suit on Twitter
-*   Copy URL to share Colors That Suit
+*   Share High-Quality Performance on Facebook
+*   Share High-Quality Performance on Twitter
+*   Copy URL to share High-Quality Performance
 
-Her Lifestyle
+In a Compact Body
 
-<img class="bg-img" class="url(/en\_us/media/content/h.ear\_on\_2\_wireless\_NC\_R\_cw\_jpg-600x600\_GT7rkMa.jpg);" alt="h.ear on 2 Wireless NC Twilight Red">. The Xperia XZ Premium Combines Beauty and Durability
+<img class="bg-img" class="url(/en\_us/media/content/RX0-600x600v2\_Y5s0rnS.jpg);" alt="RX0">.
 
-Learn More
+View Sony Kando Trip on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/f6fdff67b2bd324ff9395fd12365250b/5B9CC243/t51.2885-15/e35/31495251\_437081133379381\_267112653317472256\_n.jpg);" alt="">. How Did the Winner of Our Photo Challenge
+
+Capture the Feeling of Home?
 
 Close
 
-*   Share The Xperia XZ Premium Combines Beauty and Durability on Facebook
-*   Share The Xperia XZ Premium Combines Beauty and Durability on Twitter
-*   Copy URL to share The Xperia XZ Premium Combines Beauty and Durability
+*   Share How Did the Winner of Our Photo Challenge on Facebook
+*   Share How Did the Winner of Our Photo Challenge on Twitter
+*   Copy URL to share How Did the Winner of Our Photo Challenge
 
-Learn More
+Capture the Feeling of Home?
 
-<img class="bg-img" class="url(/en\_us/media/content/pf11\_rose\_colorBG\_0004\_1-600x600\_8KSF6Pl.jpg);" alt="Xperia XZ Premium Pink">. aibo Reborn: How Our Passion for Innovation Inspired Development
+<img class="bg-img" class="url(/en\_us/media/content/PTL\_3\_Houston\_Tong-600x600\_OlJmgDw.jpg);" alt="Pushing the Lens winners">. aibo Reborn: How Our Passion for Innovation Inspired Development
 
 Learn More About aibo
 
@@ -171,67 +189,71 @@ Sony on YouTube - aibo Reborn: How Our Passion for Innovation Inspired Developme
 
 Play aibo Reborn: How Our Passion for Innovation Inspired Development Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/aibo1-600x600.jpg);" alt="Aibo">. A Creative Experience to Inspire Photographers
+<img class="bg-img" class="url(/en\_us/media/content/aibo1-600x600.jpg);" alt="Aibo">. Audiophiles: Elevate Your Music Experience
 
-Learn More About the Kando Trip 2.0
-
-Close
-
-*   Share A Creative Experience to Inspire Photographers on Facebook
-*   Share A Creative Experience to Inspire Photographers on Twitter
-*   Copy URL to share A Creative Experience to Inspire Photographers
-
-Learn More About the Kando Trip 2.0
-
-<img class="bg-img" class="url(/en\_us/media/content/C-2-600x600\_J98mOpS.jpg);" alt="Kando 2.0 Trip">. Find the Perfect Lens For
-
-Your Photo Project
+With Hi-Res Audio
 
 Close
 
-*   Share Find the Perfect Lens For on Facebook
-*   Share Find the Perfect Lens For on Twitter
-*   Copy URL to share Find the Perfect Lens For
+*   Share Audiophiles: Elevate Your Music Experience on Facebook
+*   Share Audiophiles: Elevate Your Music Experience on Twitter
+*   Copy URL to share Audiophiles: Elevate Your Music Experience
 
-Your Photo Project
+With Hi-Res Audio
 
-<img class="bg-img" class="url(/en\_us/media/content/SEL1635GM\_A\_jpg-600x600\_1z23dAV.jpg);" alt="16-35mm f/2.8 G Master lens">.
+<img class="bg-img" class="url(/en\_us/media/content/NW-WM1Z\_MDR-Z1R\_Insitu03\_jpg-600x600\_yDw80tJ.jpg);" alt="Hi-Res Audio">. Capture Great Detail
 
-View #alphacollective on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c9948d243f7b0f32d02fc17939401e21/5B781048/t51.2885-15/e35/30943441\_213174689413699\_1135388662125559808\_n.jpg);" alt="">. Close
-
-*   Share RX0 on Facebook
-*   Share RX0 on Twitter
-*   Copy URL to share RX0
-
-RX0
-
-<img class="bg-img" class="url(/en\_us/media/content/DSC-RX0\_right\_eps-600x600-hero\_mzeO4Ls.jpg);" alt="RX0">. Take Your Photography
-
-to the Next Level
+With the RX100 V
 
 Close
 
-*   Share Take Your Photography on Facebook
-*   Share Take Your Photography on Twitter
-*   Copy URL to share Take Your Photography
+*   Share Capture Great Detail on Facebook
+*   Share Capture Great Detail on Twitter
+*   Copy URL to share Capture Great Detail
 
-to the Next Level
+With the RX100 V
 
-<img class="bg-img" class="url(/en\_us/media/content/ILCE-7RM3\_situation\_10\_Reliability1\_jpg-600x600.jpg);" alt="a7R III">. Announcing the 2018 Sony World Photography Awards Winners
+<img class="bg-img" class="url(/en\_us/media/content/DSC-RX100M5\_Right\_jpg-600x600\_1sCAUPt.jpg);" alt="RX100 V">.
 
-Check Out All of the Photos
+View Venom on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/9b6d081844b9147554c55a6655fee05c/5AFC4D4B/t51.2885-15/e15/31278554\_861610197355793\_5749381138120441856\_n.jpg);" alt="">.
+
+View Xperia XA2 on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/9564d73cab064b52bebd746694cedfc2/5B8855A4/t51.2885-15/e35/31680505\_1828437877216216\_8835445767431782400\_n.jpg);" alt="">. Fortnite Battle Pass Season 4
+
+Battle Pass on PS4™
 
 Close
 
-*   Share Announcing the 2018 Sony World Photography Awards Winners on Facebook
-*   Share Announcing the 2018 Sony World Photography Awards Winners on Twitter
-*   Copy URL to share Announcing the 2018 Sony World Photography Awards Winners
+*   Share Fortnite Battle Pass Season 4 on Facebook
+*   Share Fortnite Battle Pass Season 4 on Twitter
+*   Copy URL to share Fortnite Battle Pass Season 4
 
-Check Out All of the Photos
+Play Fortnite Battle Pass Season 4 Video
 
-<img class="bg-img" class="url(/en\_us/media/content/3825\_9485\_VeselinAtanasov\_Bulgaria\_NationalAwards\_2018-600x600.jpg);" alt="Sony World Photography Awards winners">. It’s the End of the Wild West Era and the Gang of Outlaws Are On the Run Again
+Sony on YouTube - Fortnite Battle Pass Season 4
+
+Play Fortnite Battle Pass Season 4 Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/fortnite-tricera-ops-screen-01-ps4-us-27apr18-600x600.jpg);" alt="Fortnite Battle Pass Season 4">. Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids”
+
+In the New Series “Cobra Kai”
+
+Close
+
+*   Share Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids” on Facebook
+*   Share Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids” on Twitter
+*   Copy URL to share Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids”
+
+Play Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids” Video
+
+Sony on YouTube - Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids”
+
+Play Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids” Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/yto\_CobraKai\_PromoRetouched\_en\_007\_V1-600x600.jpg);" alt="Cobra Kai">. It’s the End of the Wild West Era and the Gang of Outlaws Are On the Run Again
 
 Learn More About “Red Dead Redemption 2”
 
@@ -263,31 +285,31 @@ Sony on YouTube - Air Hockey and Augmented Reality Come Together
 
 Play Air Hockey and Augmented Reality Come Together Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/WOW\_Studio\_2018\_Air\_Hockey-600x600.jpg);" alt="WOW Studio at SSNYC">. PlayStation Cardholders Can Customize Their Cards
+<img class="bg-img" class="url(/en\_us/media/content/WOW\_Studio\_2018\_Air\_Hockey-600x600.jpg);" alt="WOW Studio at SSNYC">. Family Drama and Love Affairs Unfold
 
-Learn More
+In “The Seagull”
 
 Close
 
-*   Share PlayStation Cardholders Can Customize Their Cards on Facebook
-*   Share PlayStation Cardholders Can Customize Their Cards on Twitter
-*   Copy URL to share PlayStation Cardholders Can Customize Their Cards
+*   Share Family Drama and Love Affairs Unfold on Facebook
+*   Share Family Drama and Love Affairs Unfold on Twitter
+*   Copy URL to share Family Drama and Love Affairs Unfold
 
-Learn More
+Play Family Drama and Love Affairs Unfold Video
 
-<img class="bg-img" class="url(/en\_us/media/content/21439\_ImageCardLaunch\_SonyBN-square\_600x600\_r02GR\_3.jpg);" alt="God of war PlayStation Card">. Close
+Sony on YouTube - Family Drama and Love Affairs Unfold
 
-*   Share PS VR on Facebook
-*   Share PS VR on Twitter
-*   Copy URL to share PS VR
+Play Family Drama and Love Affairs Unfold Video hotspot
 
-PS VR
+<img class="bg-img" class="url(/en\_us/media/content/TheSeagull-600x600.jpg);" alt="The Seagull">. Close
 
-<img class="bg-img" class="url(/en\_us/media/content/VR\_Headset-600x600\_KVgyveA.jpg);" alt="Playstation VR ">.
+*   Share SRS-XB41 on Facebook
+*   Share SRS-XB41 on Twitter
+*   Copy URL to share SRS-XB41
 
-View Xperia XA2 Ultra on Instagram
+SRS-XB41
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/ce2314d5e61d7159cb5ff37eb8ffe9ce/5B7C5317/t51.2885-15/e35/30077990\_168374717199718\_6479085215443582976\_n.jpg);" alt="">. Turn Any Surface Into
+<img class="bg-img" class="url(/en\_us/media/content/SRS-XB41\_NFC\_jpg-600x600\_9k2JPrV.jpg);" alt="SRS-XB41">. Turn Any Surface Into
 
 A Touch Screen
 
@@ -299,35 +321,23 @@ Close
 
 A Touch Screen
 
-<img class="bg-img" class="url(/en\_us/media/content/SONY\_SQ\_NYC\_0517\_JASON\_LEWIS\_PHOTO-00414-600x600.jpg);" alt="Xperia Touch">. See Costumes, Props, and Art
+<img class="bg-img" class="url(/en\_us/media/content/SONY\_SQ\_NYC\_0517\_JASON\_LEWIS\_PHOTO-00414-600x600.jpg);" alt="Xperia Touch">.
 
-At the "God of War" Pop-Up
+View Playstation Gold Wireless Headset on Instagram
 
-Close
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c6b5fbe5a00fe955d113c7efd13c4b6a/5B836999/t51.2885-15/e35/30953884\_968009030020789\_5759689570731950080\_n.jpg);" alt="">. Open-Ear Buds That Fit Seamlessly Into Your Life
 
-*   Share See Costumes, Props, and Art on Facebook
-*   Share See Costumes, Props, and Art on Twitter
-*   Copy URL to share See Costumes, Props, and Art
-
-At the "God of War" Pop-Up
-
-<img class="bg-img" class="url(/en\_us/media/content/GoW\_Wide-600x600\_LzMcKaY.jpg);" alt="God of War at Sony Square NYC ">. Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom”
-
-See It In Theaters This October
+Check Out the Xperia Ear Duo
 
 Close
 
-*   Share Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom” on Facebook
-*   Share Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom” on Twitter
-*   Copy URL to share Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom”
+*   Share Open-Ear Buds That Fit Seamlessly Into Your Life on Facebook
+*   Share Open-Ear Buds That Fit Seamlessly Into Your Life on Twitter
+*   Copy URL to share Open-Ear Buds That Fit Seamlessly Into Your Life
 
-Play Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom” Video
+Check Out the Xperia Ear Duo
 
-Sony on YouTube - Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom”
-
-Play Tom Hardy Is An Investigative Journalist Who Gains New Powers in “Venom” Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/Venom-600x600\_mYXdyDZ.jpg);" alt="Venom Trailer">.
+<img class="bg-img" class="url(/en\_us/media/content/earduo\_gold\_front\_1-600x600\_6i2rvPR.jpg);" alt="Xperia Ear Duo">.
 
 Load More
 
