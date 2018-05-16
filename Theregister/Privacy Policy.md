@@ -213,7 +213,7 @@ If you wish to contact Situation Publishing Limited regarding any aspect of the 
 
 **By Post**
 
-The Data Protection Manager  
+Head of Data Protection  
 Situation Publishing Limited  
 Unit 1 Portland Street Trading Estate  
 14 Portland Street  
