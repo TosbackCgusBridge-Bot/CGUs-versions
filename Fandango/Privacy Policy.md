@@ -6,6 +6,8 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movies Now Playing
     
     *   Avengers: Infinity War
+    *   Life of the Party
+    *   Breaking In (2018)
     *   Overboard (2018)
     *   A Quiet Place
     *   I Feel Pretty
@@ -14,63 +16,64 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Black Panther
     *   Blumhouse's Truth or Dare (2018)
     *   Super Troopers 2
-    *   Bad Samaritan
-    *   Blockers
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Breaking In (2018)
-    *   Life of the Party
-    *   Another Kind of Wedding
-    *   Anything
-    *   Beast
-    *   Champion (2018)
-    *   Class Rank
-    *   Higher Power
-    *   Mountain (2018)
-    *   Revenge (2018)
-    *   The Seagull (2018)
+    *   Book Club
+    *   Deadpool 2
+    *   Show Dogs
+    *   First Reformed
+    *   The Hollow Child
+    *   On Chesil Beach
+    *   Pope Francis - A Man of His Word
+    *   That Summer (2018)
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   Deadpool 2
     *   Solo: A Star Wars Story
+    *   Incredibles 2
     
     Coming Soon
     
-    *   Book Club
-    *   Show Dogs
     *   Action Point
     *   Adrift (2018)
     *   Hereditary
     *   Ocean's 8
-    *   Incredibles 2
+    *   Hotel Artemis
+    *   SuperFly (2018)
+    *   Tag (2018)
     *   See All Coming Soon
     
     Explore More
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   AMC Dine-In Buckhead 6 3340 Peachtree Rd.
-    *   AMC Phipps Plaza 14 3500 Peachtree Road NE
-    *   Regal Tara 4 2345 Cheshire Bridge Road N.e.
-    *   CinéBistro at Town Brookhaven 1004 Town Blvd.
-    *   Regal Atlantic Station 18 IMAX &. RPX 261 19th Street NW
-    *   AMC Parkway Pointe 15 3101 Cobb Pkwy.
-    *   The Springs Cinema &. Taphouse 5920 Roswell Road
-    *   Midtown Art Cinema 931 Monroe Drive
-    *   Regal Perimeter Pointe Stadium 10 1155 Mount Vernon Highway
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'G.I. Joe' Spin-off to Focus on Snake Eyes. Here's Everything We Know Read More
-    *   The First 'The Predator' Trailer Has Arrived. Here's Everything We Know Read More
-    *   The Week in Movie News: Bill &. Ted's Excellent Update, 'Captain Marvel' and More Read More
+    *   Spike Lee's 'BlacKkKlansman' Electrifies Cannes. Here's All We Know Read More
+    *   Everyone Who Died and Everyone Who Lived at the End of 'Avengers: Infinity War' Read More
+    *   ‘Deadpool 2’ Writers Definitely Want a ‘Deadpool 3’ and Give an ‘X-Force’ Update Read More
     
     Explore Content
     *   Movie Reviews
@@ -78,44 +81,27 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Summer Movie Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 30301 Edit Zip Code
+*   My VIP Account Join FandangoVIP Get Points + Save
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Insider Perks
     
-
-See all insider perks My Fandango
-
-See my VIP+ Points
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Get Points + Save
-
-More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
-
-Learn more Insider Perks
-
-Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
-
-Learn more Partner Rewards
-
-Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
-
-Learn more Refunds + Exchanges
-
-We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+    
+    Learn more Partner Rewards
+    
+    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+    
+    Learn more Refunds + Exchanges
+    
+    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms
 
