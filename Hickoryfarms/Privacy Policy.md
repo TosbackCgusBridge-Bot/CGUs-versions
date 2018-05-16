@@ -7,13 +7,13 @@
     *   Military
     *   New!
     
-    Occasions*   Mother's Day Gifts
-    *   Memorial Day
+    Occasions*   Memorial Day
     *   Birthday Gifts
     *   Spring Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Mother's Day Gifts Birthday Gifts
+    *   Graduation &. Congratulations
+    *   Mother's Day GiftsMost Popular Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -43,7 +43,7 @@
     *   Mints
     *   Cookies &. Cakes
     *   Candy &. Confections
-    *   DessertsMost Popular Chocolates
+    *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
     View All Categories Shop by Category*   Mother's Day Gifts
@@ -54,7 +54,7 @@
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Mother's Day Brunch
+    *   Graduation &. Congratulations
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
@@ -76,13 +76,13 @@
     *   Military
     *   New!
     
-    Occasions*   Mother's Day Gifts
-    *   Memorial Day
+    Occasions*   Memorial Day
     *   Birthday Gifts
     *   Spring Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Mother's Day Gifts Birthday Gifts
+    *   Graduation &. Congratulations
+    *   Mother's Day GiftsMost Popular Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -112,7 +112,7 @@
     *   Mints
     *   Cookies &. Cakes
     *   Candy &. Confections
-    *   DessertsMost Popular Chocolates
+    *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
     View All Categories Shop by Category*   Mother's Day Gifts
@@ -123,7 +123,7 @@
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Mother's Day Brunch
+    *   Graduation &. Congratulations
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
@@ -181,4 +181,4 @@ Business Accounts
 *   1.800.715.1474
 *   Email Us
 
-PRIVACY POLICY TERMS OF USE SITE MAP © 2018 ALL RIGHTS RESERVED.
+PRIVACY POLICY TERMS OF USE SITE MAP © 2018 ALL RIGHTS RESERVED. Feedback
