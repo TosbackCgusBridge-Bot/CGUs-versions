@@ -16,7 +16,7 @@ Anmelden
 *   Mein SPIEGEL
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.001,24ǀ
+*   DAX 12.970,04ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -743,4 +743,5 @@ SPIEGEL GRUPPE
 *   \-Kontakt
 *   \-Hilfe
 
-Advertisement
+Advertisement  
+BESbswyBESbswyBESbswy
