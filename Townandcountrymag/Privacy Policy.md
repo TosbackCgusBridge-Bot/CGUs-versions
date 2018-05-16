@@ -53,7 +53,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Lifetime's 'Harry &. Meghan: A Royal Romance' Recap 2 All the Details of Harry and Meghan's Wedding 3 Harry Hadden-Paton Plays Henry Higgins for 2018 4 How to Watch Meghan Markle and Harry's Wedding 5 What to Watch on Netflix if You Love the Royals Privacy Policy Dec 1, 2014
+Today's Top Stories 1 All the Details of Harry and Meghan's Wedding 2 Tom Wolfe Wore the Hell Out of a White Suit 3 Prince Harry's Complicated Relationship with Media 4 How to Watch Meghan Markle and Harry's Wedding 5 What to Watch on Netflix if You Love the Royals Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
