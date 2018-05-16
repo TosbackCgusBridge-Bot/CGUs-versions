@@ -1,4 +1,4 @@
-Skip to Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">Sony Sites<img src="//www.sony.com/is/image/gwtprod/9a512bd93333b3c884bdbe2ba1581755?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Group Site<img src="//www.sony.com/is/image/gwtprod/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//www.sony.com/is/image/gwtprod/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">PlayStation™<img src="//www.sony.com/is/image/gwtprod/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional<img src="//www.sony.com/is/image/gwtprod/bf805a8b340105d03fcff55e3d22fb18?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Mobile
+Skip to Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">Sony Sites<img src="//www.sony.com/image/9a512bd93333b3c884bdbe2ba1581755?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Group Site<img src="//www.sony.com/image/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//www.sony.com/image/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">PlayStation™<img src="//www.sony.com/image/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional<img src="//www.sony.com/image/bf805a8b340105d03fcff55e3d22fb18?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Mobile
 
 *   Sony and the EnvironmentHow we’re reducing our eco-footprint through energy efficiency and recycling initiatives.
 *   Sony PicturesThe hub for your favourite movies and TV shows.
@@ -70,16 +70,16 @@ Primary menuSONY
     *   Future Lab Program
     *   Life Space UX
     *   Robotics Kits
-    *   Engagement App DevelopmentView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/is/image/gwtprod/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
+    *   Engagement App DevelopmentView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
 *   PlayStation
 *   EntertainmentEntertainment
-    *   <img src="//www.sony.com/is/image/gwtprod/c8d568c456f06d3fa734b3331f100352?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Video Games" class="0 ">Video Games
-    *   <img src="//www.sony.com/is/image/gwtprod/fc437c3658eed4b903e04f558e383d72?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Movies &amp. TV Shows" class="0 ">Movies &. TV Shows
-    *   <img src="//www.sony.com/is/image/gwtprod/e783b1218f8069830c258b94aa5870c2?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Music" class="0 ">Music<img src="//www.sony.com/is/image/gwtprod/7a959cd929b51c2272e8fa8e9e8ed184?fmt=png-alpha&amp;wid=218" alt="" class="">Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Download our apps.
+    *   <img src="//www.sony.com/image/c8d568c456f06d3fa734b3331f100352?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Video Games" class="0 ">Video Games
+    *   <img src="//www.sony.com/image/fc437c3658eed4b903e04f558e383d72?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Movies &amp. TV Shows" class="0 ">Movies &. TV Shows
+    *   <img src="//www.sony.com/image/e783b1218f8069830c258b94aa5870c2?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Music" class="0 ">Music<img src="//www.sony.com/image/7a959cd929b51c2272e8fa8e9e8ed184?fmt=png-alpha&amp;wid=218" alt="" class="">Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Download our apps.
 *   SupportSupport
-    *   <img src="//www.sony.com/is/image/gwtprod/bf43c4ef8c2eb71880b73f458ec57373?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Support
-    *   <img src="//www.sony.com/is/image/gwtprod/9e54e9a0759ae334e03e85366d4ba231?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Register a Product
-    *   <img src="//www.sony.com/is/image/gwtprod/b40fc153416e1395537a641506dd9fb8?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Community
+    *   <img src="//www.sony.com/image/bf43c4ef8c2eb71880b73f458ec57373?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Support
+    *   <img src="//www.sony.com/image/9e54e9a0759ae334e03e85366d4ba231?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Register a Product
+    *   <img src="//www.sony.com/image/b40fc153416e1395537a641506dd9fb8?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Community
 
 *   Sign In
     
@@ -141,7 +141,7 @@ to the Next Level
 
 ICYMI: Alpha Universe #SonyKandoTrip Podcast Special: "What is Kando and the Power of Wow"
 
-1 hour ago
+1 day ago
 
 View Tweet
 
