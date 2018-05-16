@@ -135,25 +135,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 4 Mentions, 58.2K Mention Reach, 2 Likes, 1 Retweet, 958 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/ANh9…
+
+About 5 hours ago
+
+Our biggest fans this week: @mrmistry. Thank you! via sumall.com/thankyou?… pic.twitter.com/mELV…
+
+About 16 hours ago
+
 If banners are dead, why is the digital display market predicted to top $48 billion this year? @Requidan talks about the rumored demise of cookies, banners &. more: bit.ly/2KOLMig via @adexchanger
 
-About 6 days ago
+Last week
 
 My week on Twitter : 6 Mentions, 17.3K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/VxpU…
 
-About 6 days ago
+Last week
 
 We welcome the newest member to the Intermarkets team, Luke Rosche-Ritchie! Read about his extensive background, ways he'll help advertisers &. more here: goo.gl/SaVooD pic.twitter.com/LTXE…
 
 Last week
-
-My week on Twitter : 1 Mention, 1.56K Mention Reach, 2 Likes. See yours with sumall.com/performan… pic.twitter.com/PyPm…
-
-About 2 weeks ago
-
-My week on Twitter : 1 Mention, 1.15K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/XH0t…
-
-About 3 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
