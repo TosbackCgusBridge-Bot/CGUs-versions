@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Sheryl Stolberg_: Heller, Buffeted on Both Sides, Tries to Save His NV Seat
+*   _Shmuley Boteach_: Jerusalem Is On Fire With Gratitude to Trump
     
-*   _Heather Wilhelm_: Tough Times for the Dem Resistance
+*   _Dana Milbank_: Nothing Says 'Peace' Like 58 Dead Palestinians
     
-*   _Juan Williams_: Trump's Dangerous Lies on Iran
+*   _Ben Shapiro_: Media Goes Wild in Anti-Trump, Anti-Israel Fervor
     
-*   _Charles Hurt_: Novice Politician Stuns World by Keeping Promises
+*   _Emma Green_: The End of Trump Won't Be the End of Trumpism
     
-*   _Simon Tisdall_: Death, Division, Denial as U.S. Embassy Opens in Jerusalem
+*   _Michael Graham_: Why Nobody Knows How Trump Will Play in November
     
-*   _Rush Limbaugh_: FBI Russia Investigation Was a Setup From Start
+*   _Allegra Kirkland_: How the Greitens Prosecution Collapsed
     
-*   _Evan Osnos_: Trump vs. the 'Deep State'
+*   _Andrew McCarthy_: The Strzok-Page Texts &. the Origin of the Mueller Probe
     
-*   _Steven Calabresi_: Mueller's Investigation Crosses the Legal Line
+*   _Sen. Patty Murray_: I Still Want to Work With GOP to Fix Healthcare
     
-*   _Lydia Wheeler_: Five Rulings to Watch at the Supreme Court
+*   _Liz Peek_: McConnell, Listen to Trump, Shut Down Obstructionist Dems
     
-*   _Nocera &. Villa_: The 9 Minutes That Almost Changed America
+*   _Robert Kuttner_: Trump's Iran Decision Has Turned Allies Into Adversaries
     
-*   _Steve Kolowich_: Campus Politics: State of Conflict
+*   _Paul Kengor_: John Kerry, Reporting for Duty - Against America
     
-*   _Sen. Ted Cruz_: The U.S. Embassy Move Sends a Powerful Message
+*   _Carmody &. Grimes_: Tom Wolfe, Famed 'New Journalist' &. Novelist, Dies at 88
     
-*   _Samantha Vinograd_: How Iran Could Turn Our Friends Against Us
+*   _Niall Stanage_: Trump Puts His Stamp on the Globe
     
-*   _Roger Simon_: As Jerusalem Embassy Opens, Is Trump Fixing Mideast Too?
+*   _Michelle Goldberg_: A Grotesque Spectacle in Jerusalem
     
-*   _Neil Gross_: Is the United States Too Big to Govern?
+*   _Michael Goodwin_: Blood Is on Hamas's Hands, Not Trump's
     
-*   _Larry Elder_: Capitalism Is a Pesky Problem for Democrats
+*   _Sen. Bernie Sanders_: By Ending Iran Deal, Trump Has Put US on Path to War
     
-*   _Brian Faler_: Republican Tax Cut Is Not Why Economy Is Booming
+*   _Niall Ferguson_: Face it: Trump Has Been Right About Iran &. North Korea
     
-*   _Ed Rogers_: Trump's Consequential Presidency Is Beginning to Show
+*   _Damon Linker_: Dems Poised for Victory in 2018 - and Trouble in 2020
     
-*   _David Faris_: How Dems Could Thwart Trump's Supreme Court Takeover
+*   _Hugh Hewitt_: To Crack Electoral Code, Listen Respectfully to Middle America
     
-*   _Clarice Feldman_: The 'Collusion' Was Between Obama Intel Chiefs and Britain
+*   _Amanda Marcotte_: The Right's Stupid Excuse: Liberals Made Us Vote Trump!
     
-*   _Michael Bloomberg_: Graduates: Here's an Honor Code for Life
+*   _Salena Zito_: The Great Revolt
     
-*   _Heather Mac Donald_: How Identity Politics Is Harming the Sciences
+*   _Caitlin Huey-Burns_: McSally's DACA Flip Lays Bare AZ Senate Race Dynamics
     
-*   _India Ross_: Donald Glover, the Performer Holding a Mirror to America
+*   _Byron York_: One Year Down, and It's Still Mueller Time
     
-*   _Robert Tracinski_: 'This Is America' Is the Epitome of Preachy PC Art
+*   _Josh Campbell_: Nunes Shouldn't Be Sniffing Around Mueller Probe
     
 
 *   Previous
@@ -257,11 +257,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Democrats' Economic Quandary in 2018 Messaging
+*   McSally's DACA Flip Lays Bare AZ Senate Race Dynamics
 *   Blasting Donnelly, Trump Previews Campaigner-in-Chief Role
-*   Issa: FBI, DOJ "Lying Through Their Teeth," Rosenstein Must Recuse
-*   Republicans Get Their Wish in W.Va., Ind., Ohio Primaries
-*   Pelosi Says Democrats Have Cash and Environment to Win House
+*   Nunes: Obama DOJ Never Should Have Opened Counterintelligence Investigation Into a Political Party
+*   Three Days in Moscow: "The Speech"
+*   Democrats' Economic Quandary in 2018 Messaging
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -276,26 +276,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve43
-    *   Disapprove52Disapprove +9
+*   Missouri Senate - Hawley vs. McCaskillMissouri Scout\*
+    *   McCaskill48
+    *   Hawley44McCaskill +4
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove52Disapprove +5
+*   President Trump Job ApprovalGallup
+    *   Approve43
+    *   Disapprove52Disapprove +9
 *   Direction of CountryRasmussen Reports
     *   Right Direction41
     *   Wrong Track53Wrong Track +12
-*   West Virginia Senate - Morrisey vs. ManchinWPAi (R)
-    *   Manchin44
-    *   Morrisey46Morrisey +2
 
 More Latest Polls In The News
 
-*   Conway on WH Leaks: Will Be Personnel Changes, Staffers "Using The Media To Shiv Each Other"
-*   NBC's Peter Alexander at WH Briefing: Does U.S. Approve Of Israel Killing Palestinians "At Will"?
-*   Jared Kushner in Jerusalem: "Those Provoking Violence Are Part Of The Problem, Not Part Of The Solution"
-*   Pompeo: Kim Jong Un Follows Western Media, "Will Probably Watch This Show At Some Point"
-*   Issa: FBI/DOJ Slow-Walking Incriminating Documents. Hoping Dems Win And Cover It Up
+*   Rand Paul: I Want To Know What Haspel Knows About The Surveillance Of The Trump Campaign
+*   Nunes: DOJ "Never Should Have Opened Counter-Intelligence Investigation" on Trump Camp
+*   Bernie Sanders: "Israel Should Be Condemned" For Killing Unarmed Protesters. Some Call Embassy Move "Illegal"
+*   Sanders 2016 Campaign Manager: Issues That Were Once "Fringe" Are Now "Articles Of Faith" For DNC
+*   Steve Schmidt: Trump Has "Blood On His Hands" For Jerusalem Embassy, Trying To Stave Off Midterm Loss
 
 *   Politics
 *   Policy
