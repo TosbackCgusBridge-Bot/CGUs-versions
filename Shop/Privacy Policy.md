@@ -81,6 +81,7 @@ Menu Close Menu Close
         *   IdeaCentre Desktops IdeaCentre Desktops Portable family desktops.
         *   SMALL BUSINESS DESKTOPS
         *   Monitors
+        *   Gaming Desktops
         
         *   *   Explore ThinkCentre
             
@@ -105,6 +106,8 @@ Menu Close Menu Close
         *   *   SMALL BUSINESS DESKTOPS >.
         
         *   *   \>.
+        
+        *   *   Gaming Desktops >.
         
     *   Workstations Explore All Explore All A business investment requires due diligence. Research your choices here.
         
@@ -510,7 +513,7 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -522,4 +525,4 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
+SUBMIT CHATHIDE
