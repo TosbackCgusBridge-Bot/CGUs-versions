@@ -107,11 +107,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Oysters From Canada Tied to Norovirus Outbreak
-    *   Diseases From Ticks, Mosquitos More Than Triple
-    *   5 Steps to Help You Live 10 Extra Years
-    *   Rare Eye Cancer Cases Being Investigated
-    *   Fentanyl: Here's What You Need to Know
+    *   CBD Oil: Does It Work, Is It Safe?
+    *   More Illnesses in Salmonella Outbreak Tied to Eggs
+    *   Should Men Be Tested for Prostate Cancer?
+    *   Loneliness a Serious Health Risk
+    *   When Is Drinking Considered 'Risky Drinking'?
     
     Experts &. Community
     
@@ -203,7 +203,7 @@ If you do not want your Personal Information used by WebMD as provided in this P
 
 Most browser software can be set to reject Cookies, and you can opt out of Cookies for several companies that serve ads on behalf of WebMD on the WebMD Web Sites and on third party sites and for companies other than WebMD who serve ads for advertisers on the WebMD Web Sites, by visiting the Network Advertising Initiative gateway opt-out site.
 
-You can click on the AdChoices logo at the bottom of every page of the WebMD web sites to stop tailored advertising from WebMD. This opt-out mechanism is available in the general WebMD App for both iOS and Android. To stop tailored advertising in the general WebMD App, you can click on the AdChoices option in the Settings screen and follow the instructions. This opt-out mechamism is not yet available for our other Mobile Apps (WebMD Pregnancy, WebMD Baby and WebMD Allergy) so we do not provide tailored advertisements to you in those other Mobile Apps.
+You can click on the AdChoices logo at the bottom of every page of the WebMD web sites to stop tailored advertising from WebMD. This opt-out mechanism is available in the general WebMD App for both iOS and Android. To stop tailored advertising in the general WebMD App, you can click on the AdChoices option in the Settings screen and follow the instructions. This opt-out mechanism is not yet available for our other Mobile Apps (WebMD Pregnancy, WebMD Baby and WebMD Allergy) so we do not provide tailored advertisements to you in those other Mobile Apps.
 
 Read more about "What Choices Do I Have?", "Cookies," "Interest-Based Advertising Opt-Out" and "Mobile Device Applications ("Apps") and Mobile Optimized Sites."
 
