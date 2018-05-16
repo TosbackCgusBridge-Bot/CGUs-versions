@@ -120,7 +120,9 @@ This section describes some additional privacy information related to your use o
 
 If you have a question or a complaint about this privacy notice, our global privacy standards, or our information handling practices, you can reach the Global Privacy Office in writing at: eBay Inc, Attn: Legal - Global Privacy Office, 2065 Hamilton Avenue, San Jose, California 95125, USA
 
-You can find more information on how to contact us and our data protection officers at our eBay Privacy Centre.
+You can also email our Global Privacy team at privacy.office@ebay.com
+
+You can also find more information on how to contact us and our data protection officers at our eBay Privacy Centre.
 
 Your right to file complaints with a data protection supervisory authority remains unaffected.
 
