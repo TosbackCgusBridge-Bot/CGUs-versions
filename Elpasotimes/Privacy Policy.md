@@ -1,4 +1,4 @@
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogSUBSCRIBE NOW$0.99/1st month
+SUBSCRIBE NOW$0.99/1st month
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dial
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowCheck out El Paso's most wanted fugitives of weekCrimeDEA El Paso boss: Mexico cartel violence risingCrimePolice: Motorcyclist in fatal crash fled from DPSTrafficHouston men arrested in El Paso in 'jugging' caseCrimeArena fight intensifies county judge campaignPoliticsAaron Jones graduated and Twitter went crazyCollegeHanks runner makes El Paso history at state meetHigh-schoolEPISD to run its own migrant education programEducationUnsolved fatal shooting is Crime of the WeekCrimeExercising can help improve your mental healthHealthHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowGold AK-47 rifles seized from Mexican gangLocalFort Bliss soldier dies in wreck during DPS chaseCrimeEl Paso County OKs $2.9M WestStar Tower incentivesLocalDave Chappelle, Jon Stewart coming to El PasoEntertainment4 detained after shooting in East El PasoCrimeCity Council OKs $274,000 Borunda Firth payoutLocalFind out who's performing by day at Neon DesertEntertainmentDEA El Paso boss: Mexico cartel violence risingCrimeJazz great Wynton Marsalis to perform in El PasoEntertainmentCheck out El Paso's most wanted fugitives of weekCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -141,5 +141,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
