@@ -29,8 +29,6 @@
     *   NFL Network
     *   Photos
 
-DraftClose
-
 *   Fantasy
 *   Tickets
 *   Shop
