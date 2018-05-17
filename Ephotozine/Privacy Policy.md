@@ -1,6 +1,6 @@
 Privacy PolicyePHOTOzine have created the following document to explain what information we collect when you visit the ePHOTOzine web site, why we collect such information, the ways information is gathered, how we use the information and the choices you can make about these practices.  
   
-We are registered with the ICO and have taken actions to be GDPR compliant wherever possible.  
+We are registered with the ICO and have taken actions to be GDPR compliant wherever applicable.  
   
 By using this Site, you consent to the data practices prescribed in this Privacy Policy. We may amend the document at any time and will indicate when we do at the bottom of the page with a "last updated" date. It is your responsibility to review this Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.  
   
@@ -71,7 +71,7 @@ The ePHOTOzine site has security measures in place to protect the loss, misuse a
 We do not store payment card details. We use third parties, PayPal and Pay 360 to process payments. All card data remains with the third parties. If you have a query regarding this, please refer to PayPal or Pay360's terms and conditions.  
   
 **Children's Guidelines**  
-ePHOTOzine encourages parents or guardians to spend time online with their children and to participate in the forums and galleries. However no information should be submitted by visitors under 13 years of age without the consent of their parent or guardian. Parents or guardians can request to delete their child's personal information by contacting ePHOTOzine at customerservices@ephotozine.com.  
+ePHOTOzine encourages parents or guardians to spend time online with their children and to participate in the forums and galleries. However no information should be submitted by visitors under 13 years of age without the consent of their parent or guardian. Parents or guardians can request to delete their child's personal information by contacting ePHOTOzine at support@ephotozine.com.  
   
 **CERTAIN EXCEPTIONAL DISCLOSURES**  
 Magezine Publishing Ltd may disclose your Personal Information, any images in your portfolio or any images you submit to the Public Gallery if requested to do so by legal authorities, required to do so by law or believes in good faith that such action is necessary to: (1) conform to the edicts of the law or to comply with any legal process served on Magezine Publishing Ltd or this Site. (2) protect and defend the rights or property of Magezine Publishing Ltd. or (3) act to protect the personal safety of users of Magezine Publishing Ltd, its websites or the public. If Magezine Publishing Ltd should ever file for bankruptcy or be acquired by a third party, merge with a third party, sell all or part of the Magezine Publishing Ltd assets, or otherwise transfer substantially all of its relevant assets to a third party, it may sell or share the Personal Information and all other information you have provided through this Site to such third party. Due to the potential for abuse of the services offered on ePHOTOzine, Magezine Publishing Ltd reserves the right to review the content of your portfolio and to provide the proper authorities with your Personal Information as well as any images or information related to child pornography or any other illegal activity found on your account.  
@@ -97,10 +97,10 @@ ePHOTOzine will not share personally identifiable information without your conse
 If Magezine Publishing Ltd or any of its lines of business is sold, pledged or disposed of as a going concern, whether by merger, sale of assets, bankruptcy or otherwise, then the user database of ePHOTOzine.com could be sold as part of that transaction and all User Information accessed by such successor or purchaser.  
   
 **Feedback**  
-If you have any questions, suggestions or comments about this Privacy Policy or any other documents on ePHOTOzine, you can contact us via email at customerservices@ephotozine.com.  
+If you have any questions, suggestions or comments about this Privacy Policy or any other documents on ePHOTOzine, you can contact us via email at support@ephotozine.com.  
   
 Magezine Publishing Ltd fully supports the protection of your privacy and works hard to protect your Personal Information. In the unlikely event that your Personal Information is disclosed inadvertently to a third party without your consent, Magezine Publishing Ltd will use its best efforts to stop the disclosure and remedy the situation upon notice. Magezine Publishing Ltd shall not be liable for any unintentional or inadvertent disclosure of any end user information.  
   
   
 
-This page was last updated on 10/11/2009 - 1:15 PM
+This page was last updated on 16/05/2018 - 11:00 AM
