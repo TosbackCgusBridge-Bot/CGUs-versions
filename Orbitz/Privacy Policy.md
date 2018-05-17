@@ -44,7 +44,7 @@ Show Menu Hide Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/88b7dcb15b0c110e5c8e2b42106d0ce991e0e3d7 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/9cf301eb8122177a926813eb29a7acedda942fe9 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
@@ -246,7 +246,7 @@ Earn Orbucks on flights, hotels &. more
 *   Book Flights &. Hotels Anywhere
 *   Track Flights &. Itineraries
 
-Send a download link to your mobile device Enter your phone number Send text Oops! Is it possible you've already downloaded our app? Sorry, we are currently having problems connecting to our server. You can still download the app by clicking on the app-store buttons in our app page. Thank you! We are having trouble processing your phone number. Try using this format: {{phoneNumberFormat}}. Thank you! It looks like you just tried to enter a non-{{countryName}} phone number. Unfortunately, at this time we are only supporting {{countryName}} numbers. Please enter your number in the following format: {{phoneNumberFormat}}. Thank you! Thank you! A text with the download link has been sent to your mobile device Orbitz App Now Available On: By providing your number, you agree to receive a one-time automated text message with a link to get the app. Our app offers promotions and booking services. No purchase necessary. Standard text message rates may apply. Explore More Orbitz
+Send a download link to your mobile deviceSend textOrbitz App Now Available On:By providing your number, you agree to receive a one-time automated text message with a link to get the app. Our app offers promotions and booking services. No purchase necessary. Standard text message rates may apply. Explore More Orbitz
 
 *   About Orbitz
 *   Investor Relations
