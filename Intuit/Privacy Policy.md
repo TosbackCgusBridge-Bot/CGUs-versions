@@ -1,5 +1,3 @@
-Get it today with FREE same day pickup + 20% OFFSee Details
-
 *   My AccountSign In Sign InNew Customer? Register Here
     *   My Account
     *   Track Order
@@ -17,7 +15,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackOUTDOOR ENTERTAININGShop AllOUTDOOR ENTERTAININGShop All
+Near YouFind a StoreBack DAY 3 OF COUPON CODE 16GOSAVE ENDS IN
+
+\*offer ends 5/17/18
+
+Days 0 0 0 0 hours 4 4 0 0 mins 4 4 9 8 secs OUTDOOR ENTERTAININGShop AllOUTDOOR ENTERTAININGShop All
 
 *   BUY MORE AND SAVE WITH CODE: 16GOSAVE
     
@@ -93,22 +95,17 @@ $4.99 SELECT KIDS ARIZONA TEES &. TANKSShop All$4.99 SELECT KIDS ARIZONA TEES &.
     
     $54
     
-    St. John's Bay Floral Tankini Swimsuit Top-Plus
-*   BUY MORE AND SAVE WITH CODE: 16GOSAVE
-    
-    $49
-    
-    Free Country Tankini Swimsuit Top(1)
+    Free Country Tankini Swimsuit Top-Plus
 *   BUY MORE AND SAVE WITH CODE: 16GOSAVE
     
     $54
     
-    Free Country Tankini Swimsuit Top-Plus
+    St. John's Bay Floral Tankini Swimsuit Top-Plus
 *   BUY MORE AND SAVE WITH CODE: 16GOSAVE
     
-    $49
+    $54
     
-    Zeroxposur Tankini Swimsuit Top
+    St. John's Bay Leaf Tankini Swimsuit Top-Plus
 *   BUY MORE AND SAVE WITH CODE: 16GOSAVE
     
     $54
@@ -116,46 +113,51 @@ $4.99 SELECT KIDS ARIZONA TEES &. TANKSShop All$4.99 SELECT KIDS ARIZONA TEES &.
     St. John's Bay Tankini Swimsuit Top-Plus
 *   BUY MORE AND SAVE WITH CODE: 16GOSAVE
     
-    $54
-    
-    Free Country Tankini Swimsuit Top-Plus
-*   BUY MORE AND SAVE WITH CODE: 16GOSAVE
-    
     $49
     
     Zeroxposur Tankini Swimsuit Top
 *   BUY MORE AND SAVE WITH CODE: 16GOSAVE
     
-    $54
+    $49
     
-    Free Country Tankini Swimsuit Top-Plus(1)
+    Free Country Tankini Swimsuit Top(1)
+*   BUY MORE AND SAVE WITH CODE: 16GOSAVE
+    
+    $49
+    
+    Liz Claiborne Tankini Swimsuit Top
+*   BUY MORE AND SAVE WITH CODE: 16GOSAVE
+    
+    $49
+    
+    Liz Claiborne Tankini Swimsuit Top
 
 BIKES FOR THE FAMILYShop AllBIKES FOR THE FAMILYShop All
 
 *   $241.99 sale
     
     was $284.99 Schwinn Discover 700c Womens Cross-Commuter HybridBike(3)
-*   $109.99 sale
+*   $172.99 sale
     
-    was $129.89 Schwinn Huntington 24" Girls Cruiser Bike(1)
+    was $203.99 Schwinn Perla 26" Womens Cruiser Bike
 *   $272.99 sale
     
     was $321.99 Schwinn GTX2 700c Womens Dual Sport Hybrid Bike
-*   $427.99 sale
+*   $109.99 sale
     
-    was $503.99 Schwinn Phocus 1600 700c Mens Drop Bar Road Bike
-*   $174.99 sale
+    was $129.89 Schwinn Huntington 24" Girls Cruiser Bike(1)
+*   $104.99
     
-    was $209.99 Schwinn Wayfarer 700c Womens Hybrid Retro City Bike(4)
+    Kulana Hiku 26" Womens Cruiser Bike(1)
+*   $164.99 sale
+    
+    was $194.99 Schwinn Destiny 24" Girls Cruiser Bike
 *   $266.99 sale
     
     was $314.99 Mongoose Malus 26" Mens Fat Tire Bike
 *   $104.99
     
     Kulana Hiku 24" Girls Cruiser Bike
-*   $164.99 sale
-    
-    was $194.99 Schwinn Destiny 24" Girls Cruiser Bike
 
 UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
 
@@ -171,24 +173,14 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     was $44 a.n.a. Surplice Shirttail(17)
 *   LIMITED TIME SPECIAL!
     
-    $14.70 sale
-    
-    was $49 3/4 Sleeve Embroidered Peasant Blouse - Plus(2)
-*   LIMITED TIME SPECIAL!
-    
-    $14.70 sale
-    
-    was $49 Long Tiered Sleeve Embroidered Blouse - Plus(2)
-*   LIMITED TIME SPECIAL!
-    
     $14.10 sale
     
     was $47 Liz Claiborne Dolman Sleeve Swiss Dot Chiffon Blouse
 *   LIMITED TIME SPECIAL!
     
-    $13.20 sale
+    $14.70 sale
     
-    was $44 Liz Claiborne Long Sleeve V Neck Pullover Sweater(1)
+    was $49 Long Tiered Sleeve Embroidered Blouse - Plus(3)
 *   LIMITED TIME SPECIAL!
     
     $14.70 sale
@@ -196,9 +188,19 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     was $49 Unity World Wear 3/4 Sleeve Printed Peasant Blouse - Plus
 *   LIMITED TIME SPECIAL!
     
+    $13.20 sale
+    
+    was $44 Liz Claiborne Long Sleeve V Neck Pullover Sweater(1)
+*   LIMITED TIME SPECIAL!
+    
     $16.99 sale
     
     was $59 Libby Edelman Cold Shoulder Bodycon Dress
+*   LIMITED TIME SPECIAL!
+    
+    $14.70 sale
+    
+    was $49 3/4 Sleeve Embroidered Peasant Blouse - Plus(2)
 
 Shop and Save at JCPenney
 
