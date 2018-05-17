@@ -4,7 +4,7 @@ _Last Updated: 2017-10-19_
 
 Care2.com (“Care2″) takes seriously the issue of safeguarding your privacy online. This privacy policy applies to the two websites owned and operated by Care2: Care2.com and ThePetitionSite.com. This privacy policy describes how Care2 collects and uses the personal information you provide on both websites.
 
-Residents of the EU can see the Care2 EU-US Privacy Shield policy.
+Residents of the EU can see the Care2 GDPR privacy policy and the Care2 EU-US Privacy Shield policy.
 
 When visiting a website displaying the TRUSTe Trustmark, you will be notified of what personally identifiable information of yours is collected:
 
@@ -178,4 +178,4 @@ Report Spam Abuse
 
 Corporate contact information:
 
-Care2.com, Inc. 203 Redwood Shores Parkway, Suite 230 Redwood City, CA 94065 Phone: 650-622-0860
+Care2.com, Inc. 203 Redwood Shores Parkway, Suite 230 Redwood City, CA 94065 Phone: 650-622-0860.
