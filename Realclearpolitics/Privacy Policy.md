@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Shmuley Boteach_: Jerusalem Is On Fire With Gratitude to Trump
+*   _Shepard &. Schneider_: Top Takeaways From a Wild Primary Night
     
-*   _Dana Milbank_: Nothing Says 'Peace' Like 58 Dead Palestinians
+*   _Betsy McCaughey_: As Obamacare Premiums Soar, Democrats Make Excuses
     
-*   _Ben Shapiro_: Media Goes Wild in Anti-Trump, Anti-Israel Fervor
+*   _Paul Krugman_: A Lot of Things Went Wrong Starting Around 1980
     
-*   _Emma Green_: The End of Trump Won't Be the End of Trumpism
+*   _Steve Cortes_: Trump's Winning Streak Rivals One of Sports' Greatest
     
-*   _Michael Graham_: Why Nobody Knows How Trump Will Play in November
+*   _Philip Gordon_: Trump Feels Empowered, Unbound on World Stage. Uh-Oh.
     
-*   _Allegra Kirkland_: How the Greitens Prosecution Collapsed
+*   _James Hohmann_: Leftward Lurch May Mean Trouble for Dems in '18
     
-*   _Andrew McCarthy_: The Strzok-Page Texts &. the Origin of the Mueller Probe
+*   _George Neumayr_: Brennan's 'Exceptionally Sensitive' Issue
     
-*   _Sen. Patty Murray_: I Still Want to Work With GOP to Fix Healthcare
+*   _Harry Litman_: What Michael Cohen's Conduct Reveals
     
-*   _Liz Peek_: McConnell, Listen to Trump, Shut Down Obstructionist Dems
+*   _Jonathan Williams_: Tax Reform's 2nd Windfall Is Occurring at the State Level
     
-*   _Robert Kuttner_: Trump's Iran Decision Has Turned Allies Into Adversaries
+*   _Tim Doyle_: Time to Regulate Proxy Advisory Firms
     
-*   _Paul Kengor_: John Kerry, Reporting for Duty - Against America
+*   _Paul Bisceglio_: The Wisdom of Running a 2,189-Mile Marathon
     
-*   _Carmody &. Grimes_: Tom Wolfe, Famed 'New Journalist' &. Novelist, Dies at 88
+*   _Robin Wright_: Just How Fragile Is Trump's North Korea Diplomacy?
     
-*   _Niall Stanage_: Trump Puts His Stamp on the Globe
+*   _John Podhoretz_: The Embassy Moves: Old Shibboleths Die Hard
     
-*   _Michelle Goldberg_: A Grotesque Spectacle in Jerusalem
+*   _Ahmed Ratima_: I Helped Start the Gaza Protests. I Don't Regret It.
     
-*   _Michael Goodwin_: Blood Is on Hamas's Hands, Not Trump's
+*   _Robert Curry_: Trump's Common Sense Realism
     
-*   _Sen. Bernie Sanders_: By Ending Iran Deal, Trump Has Put US on Path to War
+*   _David Ignatius_: Contain Iran? Trump Should Copy Reagan.
     
-*   _Niall Ferguson_: Face it: Trump Has Been Right About Iran &. North Korea
+*   _Henry Kissinger_: How the Enlightenment Ends
     
-*   _Damon Linker_: Dems Poised for Victory in 2018 - and Trouble in 2020
+*   _Rep. Devin Nunes_: Why a Counterintelligence Probe of Trump Campaign?
     
-*   _Hugh Hewitt_: To Crack Electoral Code, Listen Respectfully to Middle America
+*   _Matt Ford_: Robert Mueller's Most Important Accomplishment
     
-*   _Amanda Marcotte_: The Right's Stupid Excuse: Liberals Made Us Vote Trump!
+*   _Hyrum Lewis_: Has the Republican Party Really Moved to the Right?
     
-*   _Salena Zito_: The Great Revolt
+*   _Catherine Rampell_: Obamacare: This Is What Death Spiral Looks Like
     
-*   _Caitlin Huey-Burns_: McSally's DACA Flip Lays Bare AZ Senate Race Dynamics
+*   _Louis Menand_: Tom Wolfe, Sage of Status Anxiety
     
-*   _Byron York_: One Year Down, and It's Still Mueller Time
+*   _Steve Hantler_: Is There an American Center Anymore?
     
-*   _Josh Campbell_: Nunes Shouldn't Be Sniffing Around Mueller Probe
+*   _Toure_: Calling 911 Is a Direct Expression of White Power &. Privilege
     
 
 *   Previous
@@ -257,9 +257,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   North Korea Threatens to Cancel Trump-Kim Summit Over Drills
 *   McSally's DACA Flip Lays Bare AZ Senate Race Dynamics
-*   Blasting Donnelly, Trump Previews Campaigner-in-Chief Role
-*   Nunes: Obama DOJ Never Should Have Opened Counterintelligence Investigation Into a Political Party
+*   Haley: No Country Acts With More "Restraint" Than Israel
 *   Three Days in Moscow: "The Speech"
 *   Democrats' Economic Quandary in 2018 Messaging
 *   Presidential Job Approval
@@ -276,25 +276,28 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Missouri Senate - Hawley vs. McCaskillMissouri Scout\*
-    *   McCaskill48
-    *   Hawley44McCaskill +4
+*   Georgia Governor - Cagle vs. AbramsWXIA-TV/SurveyUSA
+    *   Cagle46
+    *   Abrams41Cagle +5
+*   Georgia Governor - Republican PrimaryWXIA-TV/SurveyUSA
+    *   Cagle35
+    *   Kemp17
+    *   Hill10
+    *   Tippins8
+    *   Williams3Cagle +18
+*   Georgia Governor - Democratic PrimaryWXIA-TV/SurveyUSA
+    *   Abrams43
+    *   Evans24Abrams +19
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
-*   President Trump Job ApprovalGallup
-    *   Approve43
-    *   Disapprove52Disapprove +9
-*   Direction of CountryRasmussen Reports
-    *   Right Direction41
-    *   Wrong Track53Wrong Track +12
+    *   Approve48
+    *   Disapprove50Disapprove +2
 
 More Latest Polls In The News
 
 *   Rand Paul: I Want To Know What Haspel Knows About The Surveillance Of The Trump Campaign
+*   Warren Questions Electoral College: Not A "Healthy Democracy" If Person With Most Votes Loses
 *   Nunes: DOJ "Never Should Have Opened Counter-Intelligence Investigation" on Trump Camp
 *   Bernie Sanders: "Israel Should Be Condemned" For Killing Unarmed Protesters. Some Call Embassy Move "Illegal"
-*   Sanders 2016 Campaign Manager: Issues That Were Once "Fringe" Are Now "Articles Of Faith" For DNC
 *   Steve Schmidt: Trump Has "Blood On His Hands" For Jerusalem Embassy, Trying To Stave Off Midterm Loss
 
 *   Politics
@@ -320,4 +323,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2018 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="http://b.scorecardresearch.com/p?c1=2&c2=6872493&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2018 RealClearHoldings, LLC. ©2017 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=0&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
