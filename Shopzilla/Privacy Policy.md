@@ -109,4 +109,4 @@ Connexity
 
 Connexity® and Hitwise® are registered trademarks of Connexity, Inc.
 
-Sumo
+SumoFocus Retriever
