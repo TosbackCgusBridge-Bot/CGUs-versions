@@ -123,7 +123,7 @@ Setting preferences, which are not personally identifiable, i.e., the cookies ar
 
 For users who sign in to their personal user account, we also store:
 
-*   Your email address (will not be sold or distributed to any third party unrelated to timeanddate.com)
+*   Your email address (will not be sold nor distributed to any third party unrelated to timeanddate.com)
 *   Your password (hashed)
 *   Your chosen username, if any
 *   List of log-ins (stored for up to 90 days)
@@ -132,7 +132,7 @@ For users who sign in to their personal user account, we also store:
 
 For newsletter subscribers, we store:
 
-*   email address, IP address, and time of sign-up
+*   Email address, IP address, and time of sign-up
 *   Newsletters received and opened
 *   Additional parameters may be stored by MailChimp, who we use to send our newsletter. see “Third-Party Privacy Policies” below
 
@@ -140,7 +140,7 @@ For paying supporters and subscribers, in addition to the above-mentioned data, 
 
 *   Payment information: either the PayPal address or the last four digits of the credit card used for payment
 *   Country of residence and, if submitted, street address, state, city, and ZIP/postal code
-*   email address, if different than the one registered for the user account
+*   Email address, if different than the one registered for the user account
 *   We use Braintree and Paypal for payments. see “Third-Party Privacy Policies” below
 
 IP Address and Cookies
@@ -163,7 +163,7 @@ External Links
 
 This site contains links to other sites. timeanddate.com is not responsible for the privacy practices or the content of the linked websites.
 
-We use Surveymonkey for online surveys. We may ask for your contact information, such as your email address. This information is used to contact you if necessary.
+We use SurveyMonkey for online surveys. We may ask for your contact information, such as your email address. This information is used to contact you if necessary.
 
 Advertising
 
@@ -186,7 +186,7 @@ Third parties we use for advertising:
 4.  Google Admob
 5.  OpenX
 6.  App Nexus
-7.  Rubicon Project (via Netric)
+7.  Rubicon Project
 8.  Conversant
 9.  Sovrn
 10.  Criteo
