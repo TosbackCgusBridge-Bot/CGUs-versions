@@ -36,8 +36,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Top Snaps in April 2018 ›
 *   Ubuntu Server development summary – 15 May 2018 ›
 *   Trust and security in the Snap Store ›
 *   OpenStack Summit Vancouver 2018 ›
 *   Ubuntu Server development summary – 08 May 2018 ›
-*   An introduction to Zenkit – now available as a snap ›
