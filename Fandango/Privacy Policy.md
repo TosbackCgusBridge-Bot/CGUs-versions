@@ -71,8 +71,8 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Spike Lee's 'BlacKkKlansman' Electrifies Cannes. Here's All We Know Read More
-    *   Everyone Who Died and Everyone Who Lived at the End of 'Avengers: Infinity War' Read More
+    *   Lucasfilm Confirms They're Considering a Lando Calrissian 'Star Wars Story' Read More
+    *   James Ransone Joins 'It: Chapter Two'. Here's What We Know So Far Read More
     *   ‘Deadpool 2’ Writers Definitely Want a ‘Deadpool 3’ and Give an ‘X-Force’ Update Read More
     
     Explore Content
