@@ -141,7 +141,7 @@ to the Next Level
 
 ICYMI: Alpha Universe #SonyKandoTrip Podcast Special: "What is Kando and the Power of Wow"
 
-2 days ago
+3 days ago
 
 View Tweet
 
