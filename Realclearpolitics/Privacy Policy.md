@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Shepard &. Schneider_: Top Takeaways From a Wild Primary Night
+*   _Natasha Bertrand_: Lingering Mysteries of a Trump-Russia Conspiracy
     
-*   _Betsy McCaughey_: As Obamacare Premiums Soar, Democrats Make Excuses
+*   _Andrew McCarthy_: NYT's Spin on 'Crossfire Hurricane' Gives the Game Away
     
-*   _Paul Krugman_: A Lot of Things Went Wrong Starting Around 1980
+*   _Charles Blow_: A Blue Wave of Moral Restoration
     
-*   _Steve Cortes_: Trump's Winning Streak Rivals One of Sports' Greatest
+*   _Alex Pappas_: Never-Ending Russia Probe to Fuel GOP Midterm Message
     
-*   _Philip Gordon_: Trump Feels Empowered, Unbound on World Stage. Uh-Oh.
+*   _Kevin Baker_: After Trump, We Will Need a Truth &. Reconciliation Commission
     
-*   _James Hohmann_: Leftward Lurch May Mean Trouble for Dems in '18
+*   _Charles Kesler_: We Know Trump's Vices, What About His Virtues?
     
-*   _George Neumayr_: Brennan's 'Exceptionally Sensitive' Issue
+*   _Amie Parnes_: Cable Nets Keep Programming Stuffed With Never Trumpers
     
-*   _Harry Litman_: What Michael Cohen's Conduct Reveals
+*   _Katie Pavlich_: Fake News: Media, Dems Lie About Trump's MS-13 Remarks
     
-*   _Jonathan Williams_: Tax Reform's 2nd Windfall Is Occurring at the State Level
+*   _Josh Marshall_: There's No Salvaging Trump's Hideous 'Animals' Comment
     
-*   _Tim Doyle_: Time to Regulate Proxy Advisory Firms
+*   _Joe Concha_: Gaffes, Threats Mean Its Time to Take Avenatti Off Air
     
-*   _Paul Bisceglio_: The Wisdom of Running a 2,189-Mile Marathon
+*   _A.B. Stoddard_: McCain: POW, Hero, Patriot, Legend...Rorschach Test
     
-*   _Robin Wright_: Just How Fragile Is Trump's North Korea Diplomacy?
+*   _Ingrid Jacques_: UM Feels a Lot Like the USSR
     
-*   _John Podhoretz_: The Embassy Moves: Old Shibboleths Die Hard
+*   _Conrad Black_: Trump: The Non-Proliferation President
     
-*   _Ahmed Ratima_: I Helped Start the Gaza Protests. I Don't Regret It.
+*   _Nic Robertson_: Trump's Worldview Is Good for His Enemies, Bad for His Allies
     
-*   _Robert Curry_: Trump's Common Sense Realism
+*   _Marc Thiessen_: Why Does Trump Keep Winning? Look at Dem Hysteria
     
-*   _David Ignatius_: Contain Iran? Trump Should Copy Reagan.
+*   _E.J. Dionne_: Dems Aren't as Obsessed With Trump as You Think
     
-*   _Henry Kissinger_: How the Enlightenment Ends
+*   _Mollie Hemingway_: The NYT's Defense of FBI Spying on Trump Campaign
     
-*   _Rep. Devin Nunes_: Why a Counterintelligence Probe of Trump Campaign?
+*   _Gilbert &. Wertheimer_: Mueller Probe Is 1 Year Old - and It Must Continue
     
-*   _Matt Ford_: Robert Mueller's Most Important Accomplishment
+*   _Jonathan Turley_: Transcripts Show Trump Tower Meeting Dumb But Legal
     
-*   _Hyrum Lewis_: Has the Republican Party Really Moved to the Right?
+*   _Dean Obeidallah_: Shameful Dems Won't Rebuke Israel for Gaza Massacre
     
-*   _Catherine Rampell_: Obamacare: This Is What Death Spiral Looks Like
+*   _Jonathan Schanzer_: For Gaza's Suffering, Blame Hamas
     
-*   _Louis Menand_: Tom Wolfe, Sage of Status Anxiety
+*   _Ben Caspit_: Can Israeli-Turkish Rift Be Mended?
     
-*   _Steve Hantler_: Is There an American Center Anymore?
+*   _Osita Nwanevu_: Liberals, Don't Heed Calls Give Up on Identity Politics
     
-*   _Toure_: Calling 911 Is a Direct Expression of White Power &. Privilege
+*   _David French_: How #MeToo Has Undermined the #Resistance
     
 
 *   Previous
@@ -257,11 +257,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump: "Bigger Than Watergate" If Obama FBI Spied on My Campaign
+*   Liberal Wins in Primaries Cheer Some Democrats, Worry Others
+*   Schumer: We Should Be Aghast by Smear Campaign Against Russia Probe
 *   North Korea Threatens to Cancel Trump-Kim Summit Over Drills
 *   McSally's DACA Flip Lays Bare AZ Senate Race Dynamics
-*   Haley: No Country Acts With More "Restraint" Than Israel
-*   Three Days in Moscow: "The Speech"
-*   Democrats' Economic Quandary in 2018 Messaging
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -276,6 +276,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Indiana Senate - Braun vs. DonnellyGravis
+    *   Braun47
+    *   Donnelly46Braun +1
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve49
+    *   Disapprove50Disapprove +1
 *   Georgia Governor - Cagle vs. AbramsWXIA-TV/SurveyUSA
     *   Cagle46
     *   Abrams41Cagle +5
@@ -285,20 +291,14 @@ Latest PollsAll Polls
     *   Hill10
     *   Tippins8
     *   Williams3Cagle +18
-*   Georgia Governor - Democratic PrimaryWXIA-TV/SurveyUSA
-    *   Abrams43
-    *   Evans24Abrams +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
 
 More Latest Polls In The News
 
+*   Trump to Chairman Kim: Bolton Wrong About Libya Comparison, You Will Receive "Protection" Qaddafi Didn't Get
+*   Giuliani: Mueller Admits He Doesn't Have Power To Indict. "Impeachment Must Come Before Indictment"
+*   Hemingway: The Extent Of Obama Intel Agencies Spying Busting Wide Open. People Will Demand More Info
 *   Rand Paul: I Want To Know What Haspel Knows About The Surveillance Of The Trump Campaign
 *   Warren Questions Electoral College: Not A "Healthy Democracy" If Person With Most Votes Loses
-*   Nunes: DOJ "Never Should Have Opened Counter-Intelligence Investigation" on Trump Camp
-*   Bernie Sanders: "Israel Should Be Condemned" For Killing Unarmed Protesters. Some Call Embassy Move "Illegal"
-*   Steve Schmidt: Trump Has "Blood On His Hands" For Jerusalem Embassy, Trying To Stave Off Midterm Loss
 
 *   Politics
 *   Policy
