@@ -72,7 +72,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   Lucasfilm Confirms They're Considering a Lando Calrissian 'Star Wars Story' Read More
-    *   James Ransone Joins 'It: Chapter Two'. Here's What We Know So Far Read More
+    *   Andy Bean and James Ransone Join 'It: Chapter Two'. Here's What We Know So Far Read More
     *   ‘Deadpool 2’ Writers Definitely Want a ‘Deadpool 3’ and Give an ‘X-Force’ Update Read More
     
     Explore Content
