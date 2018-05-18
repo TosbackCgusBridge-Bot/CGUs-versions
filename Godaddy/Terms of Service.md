@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: May 10, 2018**
+**Last Revised: May 17, 2018**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -9,7 +9,7 @@ Universal Terms of Service Agreement
 
 This Universal Terms of Service Agreement (this “Agreement”) is entered into by and between GoDaddy.com, LLC, a Delaware limited liability company ("GoDaddy") and you, and is made effective as of the date of your use of this website ("Site") or the date of electronic acceptance.  This Agreement sets forth the general terms and conditions of your use of the Site and the products and services purchased or accessed through this Site (individually and collectively, the “Services”), and is in addition to (not in lieu of) any specific terms and conditions that apply to the particular Services.
 
-The terms “we”, “us” or “our” shall refer to GoDaddy.  The terms “you”, “your”, “User” or “customer” shall refer to any individual or entity who accepts this Agreement, has access to your account or uses the Services.  Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
+The terms “we”, “us” or “our” shall refer to GoDaddy. The terms “you”, “your”, “User” or “customer” shall refer to any individual or entity who accepts this Agreement, has access to your account or uses the Services.  Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
 
 **2\. MODIFICATION OF AGREEMENT, SITE OR SERVICES**
 
@@ -193,7 +193,7 @@ For expired domains names purchased through your account, you agree that you are
 
 **14\. ADDITIONAL RESERVATION OF RIGHTS**
 
-GoDaddy expressly reserves the right to deny, cancel, terminate, suspend, lock, or modify access to (or control of) any Account or Services (including the right to cancel or transfer any domain name registration) for any reason (as determined by GoDaddy in its sole and absolute discretion), including but not limited to the following: (i) to correct mistakes made by GoDaddy in offering or delivering any Services (including any domain name registration), (ii) to protect the integrity and stability of, and correct mistakes made by, any domain name registry, (iii) to assist with our fraud and abuse detection and prevention efforts, (iv) to comply with court orders against you and/or your domain name or website and applicable local, state, national and international laws, rules and regulations, (v) to comply with requests of law enforcement, including subpoena requests, (vi) to comply with any dispute resolution process, (vii) to defend any legal action or threatened legal action without consideration for whether such legal action or threatened legal action is eventually determined to be with or without merit, (viii) to avoid any civil or criminal liability on the part of GoDaddy, its officers, directors, employees and agents, as well as GoDaddy’s affiliates, including, but not limited to, instances where you have sued or threatened to sue GoDaddy, or (ix) to respond to an excessive amount of complaints related in any way to your Account, domain name(s), or content on your website.
+GoDaddy expressly reserves the right to deny, cancel, terminate, suspend, lock, or modify access to (or control of) any Account or Services (including the right to cancel or transfer any domain name registration) for any reason (as determined by GoDaddy in its sole and absolute discretion), including but not limited to the following: (i) to correct mistakes made by GoDaddy in offering or delivering any Services (including any domain name registration), (ii) to protect the integrity and stability of, and correct mistakes made by, any domain name registry or registrar, (iii) to assist with our fraud and abuse detection and prevention efforts, (iv) to comply with court orders against you and/or your domain name or website and applicable local, state, national and international laws, rules and regulations, (v) to comply with requests of law enforcement, including subpoena requests, (vi) to comply with any dispute resolution process, (vii) to defend any legal action or threatened legal action without consideration for whether such legal action or threatened legal action is eventually determined to be with or without merit, (viii) to avoid any civil or criminal liability on the part of GoDaddy, its officers, directors, employees and agents, as well as GoDaddy’s affiliates, including, but not limited to, instances where you have sued or threatened to sue GoDaddy, or (ix) to respond to an excessive amount of complaints related in any way to your Account, domain name(s), or content on your website.
 
 GoDaddy expressly reserves the right to review every Account for excessive space and bandwidth utilization, and to terminate or apply additional fees to those Accounts that exceed allowed levels.
 
@@ -417,5 +417,5 @@ E-Mail: HQ@GoDaddy.com
 You expressly agree that: (i) GoDaddy (or its service provider) may contact you by phone in order to resolve your complaint or dispute, or your current service or billing issue. and (ii) in order to resolve such complaint, dispute or issue, GoDaddy may use and may disclose to its service provider the following information: call recordings, customer name, phone number(s) and contact preferences, tenure of your relationship with GoDaddy, products used, and information about the nature of your complaint, dispute, or service issue.
 
   
-Revised: 5/10/18  
+Revised: 5/17/18  
 Copyright © 2005-2018 GoDaddy.com, LLC All Rights Reserved.
