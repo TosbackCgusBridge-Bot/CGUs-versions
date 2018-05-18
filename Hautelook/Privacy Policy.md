@@ -8,15 +8,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Versace Sun &. More Up to 60% Off
+    *   Free People Up to 65% Off
+    *   Free People Lingerie Under $30
+    *   Free People Shoes Starting at $40
+    *   Catherine Catherine Malandrino
+    *   Isaac Mizrahi Boys &. More
+    *   Valentino by Mario Valentino
+    *   go >. by GoSilk Up to 75% Off
+    *   Big Star Up to 75% Off
+    *   Pool Party Faves: Saha &. Heat Swim from $20
+    *   Handcrafted in Colombia: Mishky Jewelry
+    *   Summer Heels Starting at $25
+    *   Joules Starting at $20
+    *   Belstaff
+    *   Philip Stein Watches &. More Up to 50% Off
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Dyson Supersonic Hair Dryers
+    *   theBalm Cosmetics
+    *   J Brand Men
+    *   Callaway Golf
+    *   Hawke &. Co.
+    *   Beach Getaway: Shorts, Tees &. More
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Summer Party Faves: Barware, Games &. More
+    *   Toobydoo
+    *   Boys' Dress Shoes Up to 50% Off
+    *   Cool Looks for Boys
     *   BLANKNYC
     *   Step into Comfort: Vionic, Naturalizer &. More
     *   Alternative
-    *   theBalm Cosmetics
-    *   Dyson Supersonic Hair Dryers
-    *   Florals We Love Starting at $15
     *   Hello Kitty Sterling Silver Jewelry
+    *   Florals We Love Starting at $15
     *   Taylor &. Gabby Skye Dresses
+    
     *   Kendall + Kylie
     *   LOVE Moschino
     *   Sadie &. Sage Under $40
@@ -32,32 +56,24 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Fine Art Blowout
     *   Free Shipping: Indoor/Outdoor Rugs &. More
     *   Llum
-    *   Platypus Australia UV Protection Swimwear
     *   Ready, Set, Summer: Kids' Sets
     *   On Trend: Kids' Shoes from Hoo
+    *   Platypus Australia UV Protection Swimwear
     *   Free Shipping: Party-Ready Pool Floats
+    *   Versace Sun &. More Up to 60% Off
     *   Free Shipping: Father's Day Cookout Essentials
     *   Kitchen Electrics Starting at $10
     *   Sassy Sentiments: Wooden Box Signs &. More
     *   Charging, Bluetooth &. Phone Accessories from $10
     *   Free Shipping: Whimsical Memo Boards &. More
-    
     *   Marc Jacobs Up to 50% Off
     *   Marc Jacobs Accessories Up to 50% Off
     *   Marc Jacobs Shoes Up to 50% Off
-    *   Marc Jacobs Clothing Up to 55% Off
-    *   Issue New York Up to 75% Off
     *   ghd: good hair day, every day
-    *   Wow Couture
-    *   New Looks for Summer ft. Elodie
-    *   Munro Up to 80% Off
-    *   Summer Essentials: Mules &. Slides Starting at $15
-    *   Wild Honey &. More Under $35
-    *   Body Faves ft. Skinnygirl Smoothers &. Shapers
-    *   Made in Italia
     *   Fresh Faced: Serums for Every Need Up to 90% Off
     *   Spa Day Essentials: Bath Bombs
     *   Lorenzo Uomo
+    
     *   Robert Graham Bags &. Accessories
     *   COASTAORO
     *   Florsheim
@@ -67,58 +83,51 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Butter Super Soft
     *   Floatimini Girls' Swim
     *   Little Miss Twin Stars
-    *   7 For All Mankind Up to 60% Off
-    *   7 For All Mankind Men Up to 50% Off
-    *   Gifts for Grads ft. Dogeared Starting at $15
-    *   7 For All Mankind Kids Up to 50% Off
     *   Fragrances We Love
-    *   On-Trend Earrings &. More Under $25
     *   PUR Cosmetics Starting at $10
     *   Luseta Beauty Hair Care from $10
-    
     *   Aldo Men Up to 50% Off
     *   Rogue Up to 80% Off
     *   Kinetix
     *   Quirky Kitchen Towels at $10
     *   Storage Must-Haves Starting at $10
-    *   Skechers Kids
-    *   Kids' Character Tees &. More Starting at $8
-    *   Sophie Catalou
     *   Fresh Sneakers Under $50
     *   Free Shipping: Chic Cotton Bedding &. More
     *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Men's Shoes Up to 65% Off
     *   Free Shipping: Luxe Bedding &. Throws Up to 70% Off
-    *   Reigning Champ
-    *   Vintage 1946
-    *   English Laundry Tailored Clothing
-    *   Clarks Men
-    *   Stance Socks &. Underwear
     *   Free Shipping: Backyard Essentials for Summer
-    *   Paula's Choice
-    *   Celebrity Strands Hair Extensions &. More
     *   Free Shipping: Contemporary Lamps &. More
     *   Great Gifts: Books for Every Interest
     *   Free Shipping: BergHOFF
     *   Free Shipping: Pillow Guy Luxury Bedding &. More
-    *   Spring Fresh: Organization Essentials from $10
-    *   Nine West Kids
-    *   Rip Curl Swim &. Surf
-    *   Love...Ady Dresses
-    *   Easy Summer Tops Under $25 ft. Everleigh
     *   Hera Hair Tools Up to 85% Off
-    *   Free Shipping: Signed Iconic Memorabilia &. More
+    *   Nine West Kids
+    *   Issue New York Up to 75% Off
+    *   New Looks for Summer ft. Elodie
 *   WomenShop Sale Events
     
-    *   Versace Sun &. More Up to 60% Off
+    *   Free People Up to 65% Off
+    *   Free People Lingerie Under $30
+    *   Free People Shoes Starting at $40
+    *   Catherine Catherine Malandrino
+    *   Valentino by Mario Valentino
+    *   go >. by GoSilk Up to 75% Off
+    *   Big Star Up to 75% Off
+    *   Pool Party Faves: Saha &. Heat Swim from $20
+    *   Handcrafted in Colombia: Mishky Jewelry
+    *   Summer Heels Starting at $25
+    *   Joules Starting at $20
+    *   Philip Stein Watches &. More Up to 50% Off
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Dyson Supersonic Hair Dryers
+    *   theBalm Cosmetics
     *   BLANKNYC
     *   Step into Comfort: Vionic, Naturalizer &. More
     *   Alternative
-    *   theBalm Cosmetics
-    *   Dyson Supersonic Hair Dryers
-    *   Florals We Love Starting at $15
     *   Hello Kitty Sterling Silver Jewelry
+    *   Florals We Love Starting at $15
     *   Taylor &. Gabby Skye Dresses
+    
     *   Kendall + Kylie
     *   LOVE Moschino
     *   Sadie &. Sage Under $40
@@ -126,106 +135,94 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Naot
     *   Sandals &. More Starting at $15
     *   Jet Off in Style: Calpak
+    *   Versace Sun &. More Up to 60% Off
     *   Marc Jacobs Up to 50% Off
     *   Marc Jacobs Accessories Up to 50% Off
     *   Marc Jacobs Shoes Up to 50% Off
-    *   Marc Jacobs Clothing Up to 55% Off
-    *   Issue New York Up to 75% Off
     *   ghd: good hair day, every day
-    
-    *   Wow Couture
-    *   New Looks for Summer ft. Elodie
-    *   Munro Up to 80% Off
-    *   Summer Essentials: Mules &. Slides Starting at $15
-    *   Wild Honey &. More Under $35
-    *   Body Faves ft. Skinnygirl Smoothers &. Shapers
-    *   Made in Italia
     *   Fresh Faced: Serums for Every Need Up to 90% Off
     *   Spa Day Essentials: Bath Bombs
-    *   7 For All Mankind Up to 60% Off
-    *   Gifts for Grads ft. Dogeared Starting at $15
     *   Fragrances We Love
-    *   On-Trend Earrings &. More Under $25
     *   PUR Cosmetics Starting at $10
     *   Luseta Beauty Hair Care from $10
     *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Paula's Choice
-    *   Celebrity Strands Hair Extensions &. More
-    *   Rip Curl Swim &. Surf
-    *   Love...Ady Dresses
-    *   Easy Summer Tops Under $25 ft. Everleigh
     *   Hera Hair Tools Up to 85% Off
+    *   Issue New York Up to 75% Off
+    *   New Looks for Summer ft. Elodie
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
-    *   Tech Accessories
+    *   Jewelry
     *   Handbags
+    *   Tech Accessories
     *   Accessories
     *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
-    *   Versace Sun &. More Up to 60% Off
+    *   Belstaff
+    *   Philip Stein Watches &. More Up to 50% Off
+    *   J Brand Men
+    *   Callaway Golf
+    *   Hawke &. Co.
+    *   Beach Getaway: Shorts, Tees &. More
     *   Report Collection
     *   Allen Edmonds
     *   Thomas Pink
     *   Nautica Tailored Clothing
     *   Maui &. Sons Under $40
     *   Jet Off in Style: Calpak
+    
+    *   Versace Sun &. More Up to 60% Off
     *   Lorenzo Uomo
     *   Robert Graham Bags &. Accessories
     *   COASTAORO
     *   Florsheim
     *   Micros Starting at $15
-    
     *   Hiking &. Outdoor Shoes Up to 50% Off
-    *   7 For All Mankind Men Up to 50% Off
     *   Aldo Men Up to 50% Off
     *   Rogue Up to 80% Off
     *   Kinetix
     *   Fresh Sneakers Under $50
-    *   Men's Shoes Up to 65% Off
-    *   Reigning Champ
-    *   Vintage 1946
-    *   English Laundry Tailored Clothing
-    *   Clarks Men
-    *   Stance Socks &. Underwear
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Isaac Mizrahi Boys &. More
+    *   Toobydoo
+    *   Boys' Dress Shoes Up to 50% Off
+    *   Cool Looks for Boys
     *   Llum
-    *   Platypus Australia UV Protection Swimwear
     *   Ready, Set, Summer: Kids' Sets
     *   On Trend: Kids' Shoes from Hoo
+    
+    *   Platypus Australia UV Protection Swimwear
     *   Mia Belle Girls
     *   Butter Super Soft
     *   Floatimini Girls' Swim
-    
     *   Little Miss Twin Stars
-    *   7 For All Mankind Kids Up to 50% Off
-    *   Skechers Kids
-    *   Kids' Character Tees &. More Starting at $8
-    *   Sophie Catalou
     *   Nine West Kids
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Kids Accessories
-    *   Girls Sizes 7-16
-    *   Girls' Shoes
-    *   Baby Girl
     *   Boys Sizes 2T-7
     *   Boys Sizes 8-20
+    *   Girls Sizes 7-16
+    *   Baby Girl
     *   Baby Boy
+    *   Girls' Shoes
     *   Boys' Shoes
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Summer Party Faves: Barware, Games &. More
     *   Free Shipping: Fine Art Blowout
     *   Free Shipping: Indoor/Outdoor Rugs &. More
     *   Free Shipping: Party-Ready Pool Floats
@@ -234,9 +231,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Sassy Sentiments: Wooden Box Signs &. More
     *   Charging, Bluetooth &. Phone Accessories from $10
     *   Free Shipping: Whimsical Memo Boards &. More
+    
     *   Quirky Kitchen Towels at $10
     *   Storage Must-Haves Starting at $10
-    
     *   Free Shipping: Chic Cotton Bedding &. More
     *   Free Shipping: Luxe Bedding &. Throws Up to 70% Off
     *   Free Shipping: Backyard Essentials for Summer
@@ -244,37 +241,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Great Gifts: Books for Every Interest
     *   Free Shipping: BergHOFF
     *   Free Shipping: Pillow Guy Luxury Bedding &. More
-    *   Spring Fresh: Organization Essentials from $10
-    *   Free Shipping: Signed Iconic Memorabilia &. More
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Organization
     *   Outdoor Living
+    *   Organization
     *   Luggage &. Travel
     *   Bath
     *   Accent Furniture
 *   BeautyShop Sale Events
     
-    *   theBalm Cosmetics
+    *   ORA Derma Roller &. Microdermabrasion Tools
     *   Dyson Supersonic Hair Dryers
+    *   theBalm Cosmetics
     *   ghd: good hair day, every day
     *   Fresh Faced: Serums for Every Need Up to 90% Off
     *   Spa Day Essentials: Bath Bombs
-    *   Fragrances We Love
     
+    *   Fragrances We Love
     *   PUR Cosmetics Starting at $10
     *   Luseta Beauty Hair Care from $10
     *   Predire Paris Luxury Skin Care Up to 95% Off
-    *   Paula's Choice
-    *   Celebrity Strands Hair Extensions &. More
     *   Hera Hair Tools Up to 85% Off
     
     Shop By Category
-    *   Hair Care
     *   Skin Care
+    *   Hair Care
     *   Makeup
     *   Bath &. Body
     *   Tools &. Accessories
