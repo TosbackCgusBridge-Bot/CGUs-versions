@@ -12,17 +12,20 @@ Open menu
     
     *   See All Shows
     
+    *   A Wedding and a Murder
     *   Aaron Hernandez Uncovered
     *   Abuse of Power
+    *   Buried in the Backyard
     *   Chicago P.D.
     *   Cold Justice
     *   Dateline: Secrets Uncovered
-    *   In Defense Of
     
+    *   In Defense Of
     *   In Ice Cold Blood
     *   It Takes A Killer
     *   Snapped
     *   The Case of: Caylee Anthony
+    *   The Price of Duty
     *   The Turpin 13: Family Secrets Exposed
 *   Full Episodes
 *   Videos
@@ -36,17 +39,20 @@ Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
     
     *   See All Shows
     
+    *   A Wedding and a Murder
     *   Aaron Hernandez Uncovered
     *   Abuse of Power
+    *   Buried in the Backyard
     *   Chicago P.D.
     *   Cold Justice
     *   Dateline: Secrets Uncovered
-    *   In Defense Of
     
+    *   In Defense Of
     *   In Ice Cold Blood
     *   It Takes A Killer
     *   Snapped
     *   The Case of: Caylee Anthony
+    *   The Price of Duty
     *   The Turpin 13: Family Secrets Exposed
 *   Full Episodes
 *   Videos
@@ -106,5 +112,3 @@ Get Involved
 Stay Connected Facebook Twitter Instagram Snapchat Newsletter Stay Connected Facebook Twitter Instagram Snapchat Newsletter
 
 ©2018 Oxygen Media LLC. A Division of NBCUniversal
-
-AddThis SharingSHARESFacebookTwitterPrintAddthisAddThis SharingPinterestFacebookEmailCopy Link
