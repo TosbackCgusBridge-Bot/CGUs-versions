@@ -1,6 +1,6 @@
 Big Fish Games, Inc. Privacy Policy
 
-Last modified: December 13, 2016
+Last modified: May 17, 2018
 
 We at Big Fish have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Big Fish Offering. **By accessing and/or using this Big Fish website or any Big Fish Offering, you are accepting the practices described in this Privacy Policy.**
 
@@ -70,7 +70,7 @@ As Big Fish continues to grow, we might sell or buy certain subsidiaries and/or 
 
 Protection of Big Fish and Others:
 
-We may also disclose your information if there is a violation of the Terms of Use or other agreements. if we have a good faith belief that the law requires it. or if needed to protect the rights, property or safety of Big Fish, our customers or others. This includes exchanging information with entities for fraud detection and protection, and credit risk reduction.
+We may also disclose your information if there is a violation of the Terms of Use or other agreements. if we have a good faith belief that we have to disclose it in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, or legal process (for example, a court order, search warrant or subpoena). or if needed to protect the rights, property or safety of Big Fish, our customers or others. This includes exchanging information with entities for fraud detection and protection, and credit risk reduction.
 
 ACCESSING YOUR INFORMATION AND YOUR CHOICES
 
@@ -110,7 +110,7 @@ Big Fish respects the privacy of parents and children and is committed to comply
 
 EU-US PRIVACY SHIELD PROGRAM
 
-We may transfer, store and/or process personal information in the U.S. or in other countries. Big Fish complies with the EU-US Privacy Shield Framework Principles (the "Framework") and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the processing of personal information from the European Union (EU) member countries and Switzerland. For more information about the Framework, please visit the Department of Commerce's Privacy Shield website. To contact Big Fish directly about the Framework, please email us at privacyshield@bigfishgames.com. If we do not resolve your concern, you may contact JAMS, Big Fish’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Framework, you may also be able to invoke binding arbitration to resolve your complaint. Big Fish is subject to the investigatory and enforcement powers of the FTC. If we share personal information of EU customers with a third party service provider that processes the data solely on our behalf, then Big Fish will be liable for that third party's processing of the information in violation of the Framework, unless Big Fish can prove that it is not responsible for the event giving rise to the damage. Please note that if you are located in the E.U., Switzerland or other region with laws governing data collection and use that may differ from U.S. law, you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
+We may transfer, store and/or process personal information in the U.S. or in other countries. Big Fish along with its U.S. Affiliates (Big Fish Premium LLC, Liftoff Labs LLC, BFG Holding LLC, 3 Minute Games LLC, BFG Washington, Inc., and Slots, Slot Machines and Slot Tournaments LLC) comply with the EU-US Privacy Shield Framework Principles (the "Framework") as set forth by the US Department of Commerce regarding the processing of personal information from the European Union (EU) member countries. For more information about the Framework, please visit the Department of Commerce's Privacy Shield website. To contact Big Fish directly about the Framework, please email us at privacyshield@bigfishgames.com. If we do not resolve your concern, you may contact JAMS, Big Fish’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Framework, you may also be able to invoke binding arbitration to resolve your complaint. Big Fish is subject to the investigatory and enforcement powers of the FTC. If we share personal information of EU customers with a third party service provider that processes the data solely on our behalf, then Big Fish will be liable for that third party's processing of the information in violation of the Framework, unless Big Fish can prove that it is not responsible for the event giving rise to the damage. Please note that if you are located in the E.U. or other region with laws governing data collection and use that may differ from U.S. law, you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
 
 AGREEMENT WITH BIG FISH POLICIES
 
