@@ -108,5 +108,3 @@ Connexity
 © 2018 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
 Connexity® and Hitwise® are registered trademarks of Connexity, Inc.
-
-SumoFocus Retriever
