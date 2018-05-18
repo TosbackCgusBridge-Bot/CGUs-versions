@@ -31,6 +31,7 @@
     *   Ownership
     *   Board
     *   Trustees
+    *   Tax Governance and Risk Management Policy
 
 *   *   Press releases
     *   Contacts
@@ -54,6 +55,7 @@ The Economist Newspaper privacy statement
     *   Ownership
     *   Board
     *   Trustees
+    *   Tax Governance and Risk Management Policy
 
   
 The Economist Group's privacy policy
