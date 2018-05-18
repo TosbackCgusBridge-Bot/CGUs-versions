@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms U.S. had its coldest April in more than 20 years Below-average temperatures spanned the Rockies to the East Coast AROUND NOAA // Emissions of an ozone-destroying chemical are rising again La Nina is gone, for now \[EXT\] Up, up and away! 6 benefits of automated weather balloon launches
+Enter Search Terms April 2018 was 3rd warmest on record for the globe Arctic and Antarctic sea ice cover remains small AROUND NOAA // Emissions of an ozone-destroying chemical are rising again La Nina is gone, for now \[EXT\] U.S. had its coldest April in more than 20 years
 
 *   About our agency
 *   News and features
