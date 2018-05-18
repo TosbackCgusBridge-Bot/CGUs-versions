@@ -82,8 +82,7 @@ Get Connected. See what's next for CenturyLink.
 
 *   For Home
 *   Small Business
-*   Medium Business
-*   Enterprise
+*   Medium - Enterprise
 *   Wholesale
 *   Feedback
 
