@@ -71,6 +71,7 @@ RSVP to style! buckle SELECT has you covered for wedding season.
         *   Shorts
         *   Skirts
         *   Denim Skirts
+        *   The Denim Shop
         *   Shop All
         
         *   Shoes
@@ -138,6 +139,7 @@ RSVP to style! buckle SELECT has you covered for wedding season.
         *   Pants/Chinos
         *   Stretch Jeans
         *   Jeans Under $75
+        *   The Denim Shop
         *   Shop All
         
         *   Shoes
@@ -198,6 +200,7 @@ RSVP to style! buckle SELECT has you covered for wedding season.
         *   Hem Details
         *   Boyfriend
         *   High Rise
+        *   The Denim Shop
         *   Shop All
         
         *   Men's Jeans
@@ -207,6 +210,7 @@ RSVP to style! buckle SELECT has you covered for wedding season.
         *   Relaxed
         *   Loose
         *   Destructed
+        *   The Denim Shop
         *   Shop All
         
         *   Stretch &. Tech Jeans
@@ -285,6 +289,8 @@ RSVP to style! buckle SELECT has you covered for wedding season.
         *   Gifts Under $25
         *   Men's Gifts
         *   Women's Gifts
+        *   Men's Denim Shop
+        *   Women's Denim Shop
         *   Gifts That Give Back
         *   Buckle Gift Cards
         
