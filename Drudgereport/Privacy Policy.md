@@ -137,11 +137,11 @@ LATEST ON TWITTER
 
 My week on Twitter : 4 Mentions, 58.2K Mention Reach, 2 Likes, 1 Retweet, 958 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/ANh9…
 
-About 2 days ago
+About 3 days ago
 
 Our biggest fans this week: @mrmistry. Thank you! via sumall.com/thankyou?… pic.twitter.com/mELV…
 
-About 3 days ago
+About 4 days ago
 
 If banners are dead, why is the digital display market predicted to top $48 billion this year? @Requidan talks about the rumored demise of cookies, banners &. more: bit.ly/2KOLMig via @adexchanger
 
