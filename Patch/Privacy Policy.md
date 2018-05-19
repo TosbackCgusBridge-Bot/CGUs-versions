@@ -8,7 +8,7 @@ Toggle navigation Find Your Town Advertise Post Log in
 *   Advertise
 *   Log out
 
-*   Fri, May 18
+*   Sat, May 19
 
 *   Post
 *   Advertise
@@ -69,9 +69,7 @@ Find Your Community See All Patches Regional
 *   Wisconsin
 *   Wyoming
 
-Patch Privacy Policy
-
-Last Updated: April 27, 2018
+Last Updated: May 17, 2018
 
 Planck, LLC, d/b/a Patch Media (“Patch”, “we” or “us”) is committed to protecting your privacy. This Privacy Policy discloses our practices regarding information we collect and receive from users of the Patch.com desktop and mobile websites (and any other versions of the Patch.com website) (the “Sites”), the Patch mobile applications (the “Apps”) and other services, such as emails, provided by Patch (collectively, the “Service”). Unless we state otherwise, any new features or functionality provided by Patch on the Sites and/or Apps are also part of the Service. By accessing or using the Service, whether through a personal computer, mobile device or any other means, or submitting any content or information for publication or distribution, you agree to be bound by this Privacy Policy. Please read this Privacy Policy carefully before registering or using the Service or submitting any content. If you do not accept this Privacy Policy, you may not use the Service or submit any content.
 
@@ -288,4 +286,4 @@ Support
 
 Swipe for more from Patch »
 
-<img src = "https://b.scorecardresearch.com/p?c1=2&c2=21043158&cv=2.0&cj=1" />. <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />. sponsoredsponsoredsponsored
+<img src = "https://b.scorecardresearch.com/p?c1=2&c2=21043158&cv=2.0&cj=1" />. <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />.
