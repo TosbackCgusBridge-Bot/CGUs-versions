@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Desktop plans for 18.10 ›
+*   Creating the world’s first robotic tennis ball collector with Ubuntu ›
 *   Top Snaps in April 2018 ›
 *   Ubuntu Server development summary – 15 May 2018 ›
 *   Trust and security in the Snap Store ›
-*   OpenStack Summit Vancouver 2018 ›
-*   Ubuntu Server development summary – 08 May 2018 ›
