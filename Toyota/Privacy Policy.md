@@ -10,7 +10,7 @@
 *   Shopping Tools
 *   Find a Dealer
 *   Build &. Price
-*   Local Specials
+*   Local Offers
 
 *   Cars &. Minivans
 *   Trucks
@@ -80,7 +80,7 @@
 View All Vehicles
 
 *   Build &. Price
-*   Local Specials
+*   Local Offers
 *   Search Inventory
 *   Kelley Blue Book Trade-In Value
 
@@ -127,7 +127,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 *   Owners
 
 *   Build &. Price
-*   Local Specials
+*   Local Offers
 *   Search Inventory
 *   Kelley Blue Book Trade-In Value
 
