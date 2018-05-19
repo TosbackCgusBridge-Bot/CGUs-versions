@@ -1,6 +1,6 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Turn on more accessible mode Turn off more accessible mode
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none;visibility:hidden">. </iframe>. Turn on more accessible mode Turn off more accessible mode
 
-Skip to main content
+Feedback Skip to main content
 
 *   *   Internet
     *   TV
@@ -102,4 +102,6 @@ Search Search Type Residential Business Support
 *   CableONE Site Map
 *   CableONE Remote Connect
 
-Facebook Twitter Google+ YouTube LinkedIn Copyright 2018 , Cable ONE Inc ., All Rights Reserved. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">.
+Facebook Twitter Google+ YouTube LinkedIn Copyright 2018 , Cable ONE Inc ., All Rights Reserved.
+
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. BESbswy
