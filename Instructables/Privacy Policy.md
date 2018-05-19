@@ -143,9 +143,6 @@ Legal Notices &. Trademarks
 *   Autodesk Participant Guidelines
 *   Switched Subscription
 *   Extra Territory Rights
-*   Maintenance Plan, Subscription and Enterprise support terms and conditions
-*   Software License Agreements
-*   Terms of service: A360 and other web services
 
   Privacy Statement
 
