@@ -103,8 +103,6 @@ Mehr zum Thema
 
 Wenn Sie Fragen oder Beschwerden zu dieser Datenschutzerklärung, unseren weltweiten Datenschutzgrundsätzen oder unserem Umgang mit Daten haben, können Sie sich schriftlich unter folgender Adresse an unser Global Privacy Office wenden: eBay Inc., Attn: Legal - Global Privacy Office, 2065 Hamilton Avenue, San Jose, California 95125, USA.
 
-Sie können auch eine E-Mail an unser Global Privacy-Team senden: privacy.office@ebay.com
-
 Weitere Hinweise zur Kontaktaufnahme mit uns und mit unseren Datenschutzbeauftragen finden Sie auch im eBay-Datenschutzzentrum.
 
 Ihr Recht auf Einreichung von Beschwerden bei einer Aufsichtsbehörde für Datenschutz bleibt hiervon unberührt.
