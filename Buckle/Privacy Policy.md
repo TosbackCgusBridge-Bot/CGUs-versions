@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-RSVP to style! buckle SELECT has you covered for wedding season.
+Red, White, &. Brands! Shop Americana\-styles for Memorial Day.
 
 *   Women
 *   Men
@@ -64,7 +64,6 @@ RSVP to style! buckle SELECT has you covered for wedding season.
         *   Jeans
         *   Curvy Jeans
         *   Skinny Jeans
-        *   Straight Jeans
         *   Jeans Under $50
         *   Pants/Leggings
         *   Crops/Capris
@@ -215,7 +214,7 @@ RSVP to style! buckle SELECT has you covered for wedding season.
         
         *   Stretch &. Tech Jeans
         
-        *   No Stretch
+        *   Non-Stretch
         *   Comfort Stretch
         *   Performance Stretch
         *   Superior Stretch
@@ -232,7 +231,7 @@ RSVP to style! buckle SELECT has you covered for wedding season.
         
         *   Women’s Factory Seconds
         *   Men’s Factory Seconds
-        *   Shop All Factory Seconds
+        *   Shop All Factory Seconds Jeans
         
           
           
