@@ -428,13 +428,13 @@ DESKTOPS
 
 Sleek all-in-ones, high-performance towers, and space-saving tiny desktops for home and business.
 
-Data Center
-
-Achieve competitive advantage in the next-generation data center.
-
 accessories &. monitors
 
 From monitors to docks, keyboards to mice, graphics to software, and everything in between.
+
+Data Center
+
+Achieve competitive advantage in the next-generation data center.
 
 Virtual Reality &. Smart Devices
 
@@ -502,6 +502,8 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
     *   Business Partners
     *   Partner Portal
     *   Military
+    *   Higher Education
+    *   Higher Education
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   RESOURCES
     *   Resource Center
