@@ -1,8 +1,9 @@
 OkCupid Join the best free dating site on Earth. Sign in Sign up Legal Information
 
 *   Terms &. Conditions (0)
-*   Privacy Policy (0)
-*   Cookie Policy (0)
+*   Privacy (0)
+*   Cookies (0)
+*   Profiling (0)
 *   Arbitration (0)
 *   Safety Tips (0)
 
@@ -344,9 +345,9 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Philadelphia Dating
+*   Atlanta Dating
 *   Privacy Policy
-*   Cookies Policy
+*   Cookie Policy
 *   Terms and Conditions
 *   Dating Safety Tips
 
