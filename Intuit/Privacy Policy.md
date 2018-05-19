@@ -15,148 +15,94 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack FINAL HOURS! COUPON CODE 19DEALS ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 5 4 0 9 secs OUTDOOR ENTERTAININGShop AllOUTDOOR ENTERTAININGShop All
+Near YouFind a StoreBack40-60% OFF SELECT ANA TOPSShop All40-60% OFF SELECT ANA TOPSShop All
 
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
+*   $5.99 sale
     
-    $160
+    was $17 ana Scoop Neck Tee(81)
+*   $6.80 sale
     
-    Outdoor Oasis Fire Pit(1)
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
+    was $17 a.n.a.Swing Tank(34)
+*   $5.99 sale
     
-    $1,205
+    was $17 a.n.a. Solid BF Tee(60)
+*   $5.99 sale
     
-    Outdoor Oasis Latigo Wicker 4-pc. Conversation Set
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
+    was $17 a.n.a. V Neck Tee(23)
+*   $11.60 sale
     
-    $1,750
+    was $29 a.n.a. Twist Front Top(13)
+*   $11.60 sale
     
-    Outdoor Oasis Latigo Wicker 7-pc. Rectangular Patio Dining Set
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
+    was $29 a.n.a. Criss Cross Tank(20)
+*   $6.99 sale
     
-    $1,300
+    was $19 a.n.a. Print BF Tee(36)
+*   $14.80 sale
     
-    Outdoor Oasis San Luis 7-pc. Patio Dining Set
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
+    was $37 a.n.a. Surplice Long Sleeve Blouse(32)
+
+UP TO 50% OFF SELECT CARTERSShop AllUP TO 50% OFF SELECT CARTERSShop All
+
+*   $19.99 sale
     
-    $2,000
+    was $34 Carter's 4-pc. Pajama Set Boys(94)
+*   $19.99 sale
     
-    Outdoor Oasis Latigo Wicker 6-pc. Patio Sectional
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
+    was $34 Carter's 4-pc. Pajama Set Boys(47)
+*   $19.99 sale
     
-    $775
+    was $34 Carter's 4-pc. Pajama Set Girls(47)
+*   $14.99 sale
     
-    Outdoor Oasis Latigo Wicker 2-pc. Swivel Conversational Chair(1)
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
+    was $26 Carter's 3-pc. Pajama Set Boys(49)
+*   $8.99 sale
     
-    $300
+    was $24 Carter's Straight Fit Woven Cargo Shorts - Preschool Boys(17)
+*   $12.99 sale
     
-    Outdoor Oasis Melbourne Sling Patio Glider(1)
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
+    was $34 Carter's Short Sleeve Nightgown-Preschool Girls(57)
+*   $24.99 sale
     
-    $200
+    was $42 Carter's 3-pc. Pajama Set Boys(70)
+*   $14.99 sale
     
-    Outdoor Oasis Winston 3-pc. Bistro Set
+    was $26 Carter's 3-pc. Pajama Set Girls(38)
 
 $4.99 SELECT KIDS ARIZONA TEES &. TANKSShop All$4.99 SELECT KIDS ARIZONA TEES &. TANKSShop All
 
-*   $4.99 - $5.99 sale
+*   $4.99 - $7.99 sale
     
     was $14 - $19 Arizona SS Stripe/Print Fave Tee - Girls' 4-16 &. Plus(4)
-*   $4.99 - $5.99 sale
-    
-    was $17 - $22 Arizona Short Sleeve Stripe T-Shirt-Boys 4-20(6)
-*   $4.99 - $5.99 sale
+*   $4.99 - $7.99 sale
     
     was $14 - $19 Arizona SS Solid Fave Tee - Girls' 4-16 &. Plus(4)
-*   $4.99 - $5.99 sale
+*   $4.99 - $6.99 sale
     
     was $12 - $17 Arizona Short Sleeve Solid Crew Neck Tee Boys 4-20(3)
-*   $4.99 - $5.99 sale
+*   $4.99 - $6.99 sale
     
     was $12 - $17 Arizona Short Sleeve V Neck T-Shirt-Boys 4-20(5)
-*   $4.99 - $5.99 sale
-    
-    was $17 - $22 Arizona Short Sleeve Crew Neck T-Shirt Boys
-*   $4.99 - $5.99 sale
-    
-    was $17 - $22 Arizona Short Sleeve Colorblock T-Shirt-Boys 4-20(2)
-*   $4.99 - $5.99 sale
+*   $4.99 - $7.99 sale
     
     was $14 - $19 Arizona Short Sleeve Print Fave Tee - Girls' 4-16 &. Plus
-
-40% OFF WITH CODE SWIM FOR HERShop All40% OFF WITH CODE SWIM FOR HERShop All
-
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
+*   $4.99 - $7.99 sale
     
-    $54
+    was $14 - $19 Arizona Strappy Cami - Girls' 4-16 &. Plus
+*   $4.99 - $7.99 sale
     
-    St. John's Bay Floral Tankini Swimsuit Top-Plus
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
+    was $14 - $19 Arizona SS Fave Tee - Girls' 4-16 &. Plus(2)
+*   $4.99 sale
     
-    $54
-    
-    St. John's Bay Leaf Tankini Swimsuit Top-Plus
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
-    
-    $54
-    
-    St. John's Bay Tankini Swimsuit Top-Plus
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
-    
-    $49
-    
-    Free Country Tankini Swimsuit Top(1)
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
-    
-    $49
-    
-    Liz Claiborne Tankini Swimsuit Top
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
-    
-    $49
-    
-    Liz Claiborne Tankini Swimsuit Top
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
-    
-    $49
-    
-    Liz Claiborne Tankini Swimsuit Top
-*   BUY MORE AND SAVE WITH CODE: 19DEALS
-    
-    $54
-    
-    Liz Claiborne Tankini Swimsuit Top-Plus
-
-BIKES FOR THE FAMILYShop AllBIKES FOR THE FAMILYShop All
-
-*   $241.99 sale
-    
-    was $284.99 Schwinn Discover 700c Womens Cross-Commuter HybridBike(3)
-*   $172.99 sale
-    
-    was $203.99 Schwinn Perla 26" Womens Cruiser Bike
-*   $272.99 sale
-    
-    was $321.99 Schwinn GTX2 700c Womens Dual Sport Hybrid Bike
-*   $109.99 sale
-    
-    was $129.89 Schwinn Huntington 24" Girls Cruiser Bike(1)
-*   $104.99
-    
-    Kulana Hiku 26" Womens Cruiser Bike(1)
-*   $164.99 sale
-    
-    was $194.99 Schwinn Destiny 24" Girls Cruiser Bike
-*   $104.99
-    
-    Kulana Hiku 24" Girls Cruiser Bike
-*   $155.99 sale
-    
-    was $183.99 Schwinn Baywood 26" Womens Cruiser Bike
+    was $14 Arizona SS Print Fave Tee - Girls' 4-16 and Plus
 
 UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
 
+*   LIMITED TIME SPECIAL!
+    
+    $14.10 sale
+    
+    was $47 Liz Claiborne Dolman Sleeve Swiss Dot Chiffon Blouse(1)
 *   LIMITED TIME SPECIAL!
     
     $10.99 sale
@@ -164,14 +110,9 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     was $37 Bold Elements Caged Cold Shoulder Top(1)
 *   LIMITED TIME SPECIAL!
     
-    $25.99 sale
+    $11.10 sale
     
-    was $44 a.n.a. Surplice Shirttail(17)
-*   LIMITED TIME SPECIAL!
-    
-    $14.10 sale
-    
-    was $47 Liz Claiborne Dolman Sleeve Swiss Dot Chiffon Blouse
+    was $37 Liz Claiborne Tie Sleeve Bib Front Peasant Top(13)
 *   LIMITED TIME SPECIAL!
     
     $14.70 sale
@@ -184,19 +125,46 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     was $49 Unity World Wear 3/4 Sleeve Printed Peasant Blouse - Plus
 *   LIMITED TIME SPECIAL!
     
-    $13.20 sale
+    $17.60 sale
     
-    was $44 Liz Claiborne Long Sleeve V Neck Pullover Sweater(1)
+    was $44 a.n.a. Surplice Shirttail(17)
+*   LIMITED TIME SPECIAL!
+    
+    $14.40 sale
+    
+    was $48 Cyrus Long Sleeve Open Front Cardigan(1)
 *   LIMITED TIME SPECIAL!
     
     $16.99 sale
     
     was $59 Libby Edelman Cold Shoulder Bodycon Dress(1)
-*   LIMITED TIME SPECIAL!
+
+BIKES FOR THE FAMILYShop AllBIKES FOR THE FAMILYShop All
+
+*   $241.99 sale
     
-    $14.70 sale
+    was $284.99 Schwinn Discover 700c Womens Cross-Commuter HybridBike(3)
+*   $174.99 sale
     
-    was $49 3/4 Sleeve Embroidered Peasant Blouse - Plus(2)
+    was $209.99 Schwinn Wayfarer 700c Womens Hybrid Retro City Bike(4)
+*   $272.99 sale
+    
+    was $321.99 Schwinn GTX2 700c Womens Dual Sport Hybrid Bike
+*   $172.99 sale
+    
+    was $203.99 Schwinn Perla 26" Womens Cruiser Bike
+*   $169.99 sale
+    
+    was $226.99 Schwinn HighTimber 24" Girls Front Suspension Mountain Bike
+*   $104.99
+    
+    Kulana Hiku 26" Womens Cruiser Bike(1)
+*   $162.99 sale
+    
+    was $199.99 Schwinn Perla 26" Womens Cruiser Bike(1)
+*   $231.99 sale
+    
+    was $272.99 Schwinn HighTimber 29" Mens Front Suspension Mountain Bike
 
 Shop and Save at JCPenney
 
@@ -264,7 +232,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Instagram
+*   Google Plus
 *   Youtube
 *   JCPenney Blog
 
