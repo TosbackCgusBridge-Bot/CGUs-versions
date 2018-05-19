@@ -206,35 +206,6 @@ menu Close 0 Free Shipping on $50+
     *   Backpacks &. Lunch Boxes
     *   Long Underwear
     *   Pajamas &. Robes
-*   Outerwear SHOP OUTERWEAR
-    
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    
-    FEATURED SHOPS
-    *   Snow Boots
-    *   Hats, Gloves &. Scarves
-    *   Long Underwear
-    *   Weather Channel Collection
-    *   Sale
-*   Bags SHOP BAGS
-    
-    *   View All
-    *   New Arrivals
-    *   Canvas Totes
-    *   Pouches &. Small Accessories
-    *   Business &. Travel
-    *   Backpacks &. Lunch Boxes
-    *   Diaper Bags
-    *   Sale
-    
-    CATEGORIES
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
 *   Swim WOMEN'S SWIMSUITS>.
     
     *   Tankinis &. Bikinis
@@ -275,6 +246,35 @@ menu Close 0 Free Shipping on $50+
     *   Water Shoes &. Sandals
     *   Totes &. Beach Bags
     *   Beach Towels
+    *   Sale
+*   Bags SHOP BAGS
+    
+    *   View All
+    *   New Arrivals
+    *   Canvas Totes
+    *   Pouches &. Small Accessories
+    *   Business &. Travel
+    *   Backpacks &. Lunch Boxes
+    *   Diaper Bags
+    *   Sale
+    
+    CATEGORIES
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+*   Outerwear SHOP OUTERWEAR
+    
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    
+    FEATURED SHOPS
+    *   Snow Boots
+    *   Hats, Gloves &. Scarves
+    *   Long Underwear
+    *   Weather Channel Collection
     *   Sale
 *   School FIND YOUR SCHOOL>. FEATURED SHOPS
     
@@ -593,37 +593,6 @@ menu Close 0 Free Shipping on $50+
         *   Backpacks &. Lunch Boxes
         *   Long Underwear
         *   Pajamas &. Robes
-*   Outerwear
-    *   Back
-    *   Shop all Outerwear
-    *   FEATURED SHOPS
-        *   Back
-        *   Snow Boots
-        *   Hats, Gloves &. Scarves
-        *   Long Underwear
-        *   Weather Channel Collection
-        *   Sale
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-*   Bags
-    *   Back
-    *   Shop all Bags
-    *   CATEGORIES
-        *   Back
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-    *   View All
-    *   New Arrivals
-    *   Canvas Totes
-    *   Pouches &. Small Accessories
-    *   Business &. Travel
-    *   Backpacks &. Lunch Boxes
-    *   Diaper Bags
-    *   Sale
 *   Swim
     *   Back
     *   Shop all Swim
@@ -669,6 +638,37 @@ menu Close 0 Free Shipping on $50+
         *   Totes &. Beach Bags
         *   Beach Towels
         *   Sale
+*   Bags
+    *   Back
+    *   Shop all Bags
+    *   CATEGORIES
+        *   Back
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+    *   View All
+    *   New Arrivals
+    *   Canvas Totes
+    *   Pouches &. Small Accessories
+    *   Business &. Travel
+    *   Backpacks &. Lunch Boxes
+    *   Diaper Bags
+    *   Sale
+*   Outerwear
+    *   Back
+    *   Shop all Outerwear
+    *   FEATURED SHOPS
+        *   Back
+        *   Snow Boots
+        *   Hats, Gloves &. Scarves
+        *   Long Underwear
+        *   Weather Channel Collection
+        *   Sale
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
 *   School
     *   Back
     *   Shop all School
@@ -846,9 +846,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 25% off full-price styles!
 
-code: FLOWER pin: 9734 DETAILS
+code: PICNIC pin: 3150 DETAILS
 
 Customer Service Menu
 
@@ -871,7 +871,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Last Updated: August 9‚ 2016
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Last Updated: August 9‚ 2016
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
@@ -1103,4 +1107,6 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>. sign up
+
+Privacy Policy &. Contact Info
