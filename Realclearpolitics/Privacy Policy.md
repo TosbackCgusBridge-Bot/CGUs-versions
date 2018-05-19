@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Natasha Bertrand_: Lingering Mysteries of a Trump-Russia Conspiracy
+*   _Andrew Klavan_: Journalists' Hatred of Trump Is Destroying Them
     
-*   _Andrew McCarthy_: NYT's Spin on 'Crossfire Hurricane' Gives the Game Away
+*   _Ruth Marcus_: Mueller 'Witch Hunt' Bags Flesh-and-Blood Villains
     
-*   _Charles Blow_: A Blue Wave of Moral Restoration
+*   _Errol Louis_: What Rudy Giuliani's Rants Can't Do for Trump
     
-*   _Alex Pappas_: Never-Ending Russia Probe to Fuel GOP Midterm Message
+*   _Mollie Hemingway_: Why Is DOJ Giving More to NYT, WaPo Than Congress?
     
-*   _Kevin Baker_: After Trump, We Will Need a Truth &. Reconciliation Commission
+*   _Uri Friedman_: North Korea's Dangerous Game of Telephone With U.S.
     
-*   _Charles Kesler_: We Know Trump's Vices, What About His Virtues?
+*   _Seth Lipsky_: Here's Our Chance to Ditch Talks With North Korea
     
-*   _Amie Parnes_: Cable Nets Keep Programming Stuffed With Never Trumpers
+*   _David Rothkopf_: Kim Wants a Donald Trump-John Bolton Breakup
     
-*   _Katie Pavlich_: Fake News: Media, Dems Lie About Trump's MS-13 Remarks
+*   _Jeffrey Lord_: 'Three Days in Moscow': Bret Baier's Home Run
     
-*   _Josh Marshall_: There's No Salvaging Trump's Hideous 'Animals' Comment
+*   _Peter Baker_: Bigger Than Watergate? Both Sides Agree, for Different Reasons
     
-*   _Joe Concha_: Gaffes, Threats Mean Its Time to Take Avenatti Off Air
+*   _Kimberly Strassel_: Was Trump's Campaign 'Set Up'?
     
-*   _A.B. Stoddard_: McCain: POW, Hero, Patriot, Legend...Rorschach Test
+*   _Paul Waldman_: Trump Focuses on Crime to Dehumanize All Immigrants
     
-*   _Ingrid Jacques_: UM Feels a Lot Like the USSR
+*   _Caleb Howe_: Trump Is Right: MS-13 Gang Members Are 'Animals'
     
-*   _Conrad Black_: Trump: The Non-Proliferation President
+*   _Ronald Brownstein_: The Republican Party's Generational Bet
     
-*   _Nic Robertson_: Trump's Worldview Is Good for His Enemies, Bad for His Allies
+*   _James Antle_: Dems Test How Far to the Left They Can Go
     
-*   _Marc Thiessen_: Why Does Trump Keep Winning? Look at Dem Hysteria
+*   _Steven Brill_: How Baby Boomers Broke America
     
-*   _E.J. Dionne_: Dems Aren't as Obsessed With Trump as You Think
+*   _John Della Volpe_: Trump's Unilateralism Risks Further Alienating Millennials
     
-*   _Mollie Hemingway_: The NYT's Defense of FBI Spying on Trump Campaign
+*   _William Saletan_: What We Learned About 'Crossfire Hurricane'
     
-*   _Gilbert &. Wertheimer_: Mueller Probe Is 1 Year Old - and It Must Continue
+*   _George Neumayr_: Brennan's Category Five Political Espionage
     
-*   _Jonathan Turley_: Transcripts Show Trump Tower Meeting Dumb But Legal
+*   _Eugene Robinson_: Dems Have It Too Good to Shoot Themselves In Foot
     
-*   _Dean Obeidallah_: Shameful Dems Won't Rebuke Israel for Gaza Massacre
+*   _John Nolte_: Big Blue Bellyflop: Dem Lead in Generic Ballot Hits New Low
     
-*   _Jonathan Schanzer_: For Gaza's Suffering, Blame Hamas
+*   _Marc Lamont Hill_: 7 Myths About The Palestinian-Israeli Conflict
     
-*   _Ben Caspit_: Can Israeli-Turkish Rift Be Mended?
+*   _Adriana Cohen_: Democrats Are No Friend of Israel
     
-*   _Osita Nwanevu_: Liberals, Don't Heed Calls Give Up on Identity Politics
+*   _Dylan Byers_: Elon Musk vs. the World
     
-*   _David French_: How #MeToo Has Undermined the #Resistance
+*   _Nick Paumgarten_: How Fortnite Captured Teens' Hearts &. Minds
     
 
 *   Previous
@@ -257,9 +257,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump: "Bigger Than Watergate" If Obama FBI Spied on My Campaign
+*   CIA Gets First Female Chief With Confirmation of Gina Haspel
 *   Liberal Wins in Primaries Cheer Some Democrats, Worry Others
-*   Schumer: We Should Be Aghast by Smear Campaign Against Russia Probe
+*   Hemingway: Extent of Obama Admin Spying Is Busting Wide Open
 *   North Korea Threatens to Cancel Trump-Kim Summit Over Drills
 *   McSally's DACA Flip Lays Bare AZ Senate Race Dynamics
 *   Presidential Job Approval
@@ -276,29 +276,31 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Indiana Senate - Braun vs. DonnellyGravis
-    *   Braun47
-    *   Donnelly46Braun +1
+*   Georgia Governor - Republican PrimaryFOX 5 Atlanta/Opinion Savvy
+    *   Cagle31
+    *   Kemp20
+    *   Hill14
+    *   Tippins12
+    *   Williams5Cagle +11
+*   Georgia Governor - Democratic PrimaryFOX 5 Atlanta/Opinion Savvy
+    *   Abrams58
+    *   Evans19Abrams +39
+*   Kansas Governor - Republican PrimaryRemington Research (R)
+    *   Colyer29
+    *   Kobach27
+    *   Barnett9
+    *   Selzer5Colyer +2
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
-*   Georgia Governor - Cagle vs. AbramsWXIA-TV/SurveyUSA
-    *   Cagle46
-    *   Abrams41Cagle +5
-*   Georgia Governor - Republican PrimaryWXIA-TV/SurveyUSA
-    *   Cagle35
-    *   Kemp17
-    *   Hill10
-    *   Tippins8
-    *   Williams3Cagle +18
+    *   Approve50
+    *   Disapprove49Approve +1
 
 More Latest Polls In The News
 
-*   Trump to Chairman Kim: Bolton Wrong About Libya Comparison, You Will Receive "Protection" Qaddafi Didn't Get
-*   Giuliani: Mueller Admits He Doesn't Have Power To Indict. "Impeachment Must Come Before Indictment"
+*   Joe diGenova: John Brennan Should Get A Good Lawyer, Not A Good Ghostwriter
+*   Chris Christie: No Evidence Has Been Put Forward That Mueller Deserves An Interview With The President
+*   Full Replay: President Trump Speaks At Prison Reform Summit Hosted By Jared Kushner
+*   Speier: Democrats Still Willing To Trade DACA For Trump's Wall, We Can Just Tear It Down In A Couple Of Years
 *   Hemingway: The Extent Of Obama Intel Agencies Spying Busting Wide Open. People Will Demand More Info
-*   Rand Paul: I Want To Know What Haspel Knows About The Surveillance Of The Trump Campaign
-*   Warren Questions Electoral College: Not A "Healthy Democracy" If Person With Most Votes Loses
 
 *   Politics
 *   Policy
