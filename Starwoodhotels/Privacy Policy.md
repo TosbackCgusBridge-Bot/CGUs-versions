@@ -1,32 +1,12 @@
-  Text Only
+  Text Only BOOK &. REDEEM Close
 
-*   Find &. Book
-*   About
-*   My SPG
+*   Need to enter a destination for a destination search.
+*   Enter a state/province.
+*   Enter a country.
 
-SPG Sign In*   Language
-    
-    *   Deutsch Deutsch
-    *   English English
-    *   Español Español
-    
-    *   Français Français
-    *   Italiano Italiano
-    *   Português Português
-    
-    *   中文(简体) 中文(简体)
-    *   日本語 日本語
-    *   Русский Русский
-Find A Hotel Close
+Where to? Close
 
 *   Please enter your search criteria
-
-Close
-
-*   Enter a destination.
-*   Enter a country.
-*   Enter a state/province.
-*   Need to enter a destination for a destination search.
 
 Check In Check Out Close
 
@@ -36,42 +16,84 @@ Check In Check Out Close
 
 1 Room 1 Rooms , 1 Adult 1 Adults , 1 Child 0 Children 123456789101112131415 Room Rooms 1234 Adult per room Adults per room 01234 Child per room Children per room (age 0 - 12) Search WHY BOOK HERE
 
+*   Redeem Starpoints
+*   Book a Meeting
+
 *   Hotel Directory &. Map
-*   Help
+*   New Hotels
+*   SPG Resorts
+*   Special Offers
+*   Find A Reservation
 
-*   Company Overview
-*   Global Citizenship (CSR)
+About SPG About the Program Earn &. Redeem Starpoints
+
+*   SPG Overview
+*   SPG Pro Overview
+*   Member Benefits
 *   Our Brands
-*   News
-*   Help
+*   SPG Credit Cards
 
-*   Vacation Ownership
-*   Meeting Planner
-*   Residences
-*   Developers
+*   SPG MOBILE APPS
+*   Be Social
+*   SPG Cravings
+*   Join SPG
 
-*   Investors
-*   Careers
+*   Rooms
+*   FLIGHTS &. TRAVEL
+*   SPG Moments
+*   Marriott Rewards®, Gift Cards &. More
+
+*   Redeem Starpoints
+*   Earn Starpoints
+*   Buy Starpoints
+
+Sign In Account Quick Links
 
 *   Account Overview
-*   My Reservations
-*   Find A Reservation
+*   My Profile
+*   My Stays
 *   My Starpoints Activity
-*   Help
+*   Customer Support
 
-*   Join SPG
-*   Already Enrolled?
-    
-    If you signed up at a hotel or by phone, activate your SPG account.
-    
+Not a member?
 
-Save for next visit Save for next visit Sign In Forgot password?
+*   Join Now
 
-Starwood Hotels &. Resorts Worldwide, LLC Online Privacy Statement
+Already enrolled?
+
+*   CREATE ONLINE ACCOUNT
+
+**Remember Me** Remember Me Sign In
+
+*   Forgot Password?
+
+Close
+
+*   Deutsch
+*   English
+*   Español
+*   Français
+*   Indonesian
+*   Italiano
+
+*   Nederlands
+*   Polski
+*   Português
+*   Türkçe
+*   العربية
+*   中文(简体)
+
+*   中文(繁體)
+*   日本語
+*   한국어
+*   Русский
+*   ไทย
+
+Close Privacy Policy STARWOOD HOTELS &. RESORTS WORLDWIDE, LLC ONLINE PRIVACY STATEMENT 
 
 **Updated October 5, 2017**
 
-**Our Mission**
+Our Mission
 
 We at Starwood Hotels &. Resorts Worldwide, LLC (a subsidiary of Marriott International, Inc.) (“Starwood”) are dedicated to protecting your privacy and safeguarding your personal data. Our mission is to consistently exceed our guests' expectations in terms of the products and services we provide to our business and leisure travelers. We strive to create an experience that is responsive to our guests' needs by using the information you entrust us with responsibly. We are committed to respecting your privacy and adhering to the principles of applicable data protection and privacy laws throughout the world.
 
@@ -83,7 +105,6 @@ We have provided this Privacy Statement as an explanation of how we collect, how
 *   CONSENT
 *   TRANSFERRING
 *   MOVING DATA ACROSS INTERNATIONAL BORDERS
-*   SAFE HARBOR
 *   DELETION AND RETENTION OF YOUR PERSONAL DATA
 *   ACCESSING, UPDATING AND REMOVING YOUR PERSONAL DATA
 *   SECURITY SAFEGUARDS
@@ -93,18 +114,15 @@ We have provided this Privacy Statement as an explanation of how we collect, how
 *   CONTACT US
 *   UPDATES TO THE PRIVACY STATEMENT
 
-  
-THE WORLD OF STARWOOD:
+THE WORLD OF STARWOOD: 
 
-This Privacy Statement applies to all of the hotel brands managed or licensed by Starwood Hotels &. Resorts Worldwide, LLC. and its affiliates as a subsidiary of Marriott International, Inc., including the Starwood Preferred Guest program (the “Starwood Group”). To learn more about the world of Starwood, please click here
+This Privacy Statement applies to all of the hotel brands managed or licensed by Starwood Hotels &. Resorts Worldwide, LLC. and its affiliates as a subsidiary of Marriott International, Inc., including the Starwood Preferred Guest program (the “Starwood Group”). To learn more about the world of Starwood, please click here.
 
-  
-  
-PURPOSE FOR COLLECTION:
+Back to Top
 
-We are fully committed to providing you with information about the collection and use of personal data furnished by, or collected from you while using our web sites, products and services. It is our standard practice not to ask you for information unless we need it.
+PURPOSE FOR COLLECTION: 
 
-The main purpose for collecting your personal data is to allow us to provide you with the requested services such as processing a transaction. In addition, information may be collected for the following purposes:
+We are fully committed to providing you with information about the collection and use of personal data furnished by, or collected from you while using our web sites, products and services. It is our standard practice not to ask you for information unless we need it. The main purpose for collecting your personal data is to allow us to provide you with the requested services such as processing a transaction. In addition, information may be collected for the following purposes:
 
 *   fulfilling reservation or information requests;
 *   purchasing products or services;
@@ -117,18 +135,17 @@ The main purpose for collecting your personal data is to allow us to provide you
 *   updating your contact information including your address. or
 *   facilitating the transmission of forward to a friend email at your request.
 
+  
+ 
+
 We may also ask your permission to use your personal data for the following purposes:
 
 *   Sending you direct marketing messages and communications in relation to the products and services offered by Starwood, our strategic marketing partners, and other trusted third parties;
 *   Performing market research via surveys to better serve your needs, improve the effectiveness of our web sites, your hotel experience, our various types of communications, advertising campaigns, and/or promotional activities.
+*   We may also analyze personal data we process for the above-mentioned purposes to better understand our customers’ needs, improve our services and the way we operate. The outcome of such analysis will only be aggregate data that will not to be used to identify, single out, or take action towards an individual, but only to analyze trends and other behavior at aggregate level.
+    
 
-We may also analyze personal data we process for the above-mentioned purposes to better understand our customers’ needs, improve our services and the way we operate. The outcome of such analysis will only be aggregate data that will not to be used to identify, single out, or take action towards an individual, but only to analyze trends and other behavior at aggregate level.
-
-Back to Top
-
-  
-  
-TYPES OF INFORMATION WE COLLECT:
+TYPES OF INFORMATION WE COLLECT: 
 
 We collect information about our hotel guests and web site visitors so that we can provide an experience that is responsive to our guests' and visitors' needs. In order to fulfil the above mentioned purposes, we may collect personal data or information relating to you that can identify you, directly or indirectly. Such data may primarily include your name, home, work and e-mail addresses, telephone, mobile telephone, and fax numbers, credit card information, date of birth, gender, and lifestyle information such as room preferences, leisure activities, names and ages of children, and other information necessary to fulfill special requests (e.g., health conditions that require special room accommodations).
 
@@ -136,11 +153,13 @@ When you visit our websites, we may also collect internet log information and de
 
 Back to Top
 
-  
-  
-CONSENT:
+CONSENT: 
 
-You may opt out of Starwood surveys and marketing emails relating to Starwood’s offerings and services, when we collect your information and at any time by clicking on the link included in such communications, or by contacting us directly to opt out of direct marketing, telemarketing, emails or surveys. Please click here to see the Updating Your Communication Preferences in the Contact Us section of this privacy statement. You will always be offered the choice not to submit your personal data to our strategic marketing partners and other trusted third parties for marketing communications or to decide what communications you want to receive from us and them.
+You may opt out of Starwood surveys and marketing emails relating to Starwood’s offerings and services, when we collect your information and at any time by clicking on the link included in such communications, or by contacting us directly to opt out of direct marketing, telemarketing, emails or surveys. Please
+
+click here
+
+to see the Updating Your Communication Preferences in the Contact Us section of this privacy statement. You will always be offered the choice not to submit your personal data to our strategic marketing partners and other trusted third parties for marketing communications or to decide what communications you want to receive from us and them.
 
 If you are a Starwood Preferred Guest (“SPG”) program member, you may also change your communication choices by updating your communication preferences in your individual membership profile.
 
@@ -150,56 +169,53 @@ In certain circumstances, we will seek your express permission when we collect i
 
 Back to Top
 
-  
-  
-TRANSFERRING:
+TRANSFERING: 
 
 In most cases, the information you provide is added to a Starwood local or global database. In the course of processing your information, it may be necessary to transfer your personal data to Starwood's affiliates, properties within the Starwood Group and/or third party service providers located in the United States and throughout the world for the purposes outlined within this Privacy Statement. Unless otherwise precluded or governed by legal requirements and/or process, Starwood subsidiaries, affiliates and property owners that may receive your information are obligated to follow similar privacy requirements relating to your personal data. As a general practice, we do not sell, rent, or give physical possession of your personal data to unaffiliated third parties outside the Starwood system.
 
 Situations in which we may share your information to others include:
 
-*   when we have received your consent to do so,
-*   In situations where sharing or disclosing your information is required in order to offer you products or services you desire (e.g., a vacation package),
+*   when we have received your consent to do so
+*   when we have received your consent to do so
 *   when companies or service providers that perform business activities on behalf of Starwood require such information in order to conduct the tasks defined in their agreements with Starwood (e.g., credit card processing, customer support services, market research administration or database management services),
 *   when a hotel or other property leaves the Starwood system and access to your personal data is necessary to facilitate business operations or meet contractual obligations in connection with the fulfillment of reservations that are booked for future stays or events,
 *   in the event Starwood is merged or acquired by another company,
 *   to comply with legal or regulatory requirements or obligations in accordance with applicable law, a court order or a subpoena,
 *   in case of emergency such as to safeguard the life, health, or property of an individual.
 
-If information is shared as mentioned above, we seek to limit the scope of information that is furnished to the amount necessary for the performance of the specific purpose.
+If information is shared as mentioned above, we seek to limit the scope of information that is furnished to the amount necessary for the performance of the specific purpose
 
 Unless otherwise precluded by legal process, third parties are obligated to protect your personal data in line with our policy and abide by applicable privacy laws and regulations.
 
 Back to Top
 
-  
-  
-MOVING DATA ACROSS INTERNATIONAL BORDERS:
+MOVING DATA ACROSS INTERNATIONAL BORDERS: 
 
-We endeavor to provide you with the same outstanding service in New York City, as you would find in Paris or Beijing. To achieve this goal, we have established a global network comprised of properties, offices, data centers, trusted strategic marketing partners, service providers, customer contact centers, and trained associates around the globe. The nature of our business and our operations require us to transfer your personal data, to other Group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own. We may transfer your personal data to countries other than the country in which the personal data was originally collected. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, Starwood will take appropriate steps to ensure that your personal data is protected and handled as described in this Privacy Statement. If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal data to countries outside of the European Economic Area or Switzerland. To satisfy our requirements globally, we have committed to Binding Corporate Rules, called the Starwood Guest Data Protection Standards. The Guest Data Protection Standards have been approved by European data protection authorities and will be applied uniformly by all Starwood Group members subject to them. More information on our Binding Corporate Rules can be found on our dedicated page  
+We endeavor to provide you with the same outstanding service in New York City, as you would find in Paris or Beijing. To achieve this goal, we have established a global network comprised of properties, offices, data centers, trusted strategic marketing partners, service providers, customer contact centers, and trained associates around the globe. The nature of our business and our operations require us to transfer your personal data, to other Group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own. We may transfer your personal data to countries other than the country in which the personal data was originally collected.
+
+Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, Starwood will take appropriate steps to ensure that your personal data is protected and handled as described in this Privacy Statement.
+
+Please refer to the appropriate contact information below to contact us about updating your communication preferences, removal from our marketing lists, or to submit a general question or request.
+
+If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal data to countries outside of the European Economic Area or Switzerland. To satisfy our requirements globally, we have committed to Binding Corporate Rules, called the Starwood Guest Data Protection Standards. The Guest Data Protection Standards have been approved by European data protection authorities and will be applied uniformly by all Starwood Group members subject to them. More information on our Binding Corporate Rules can be found on our dedicated page.
+
 http://www.starwoodhotels.com/html/HTML\_Blocks/Corporate/GDPS.htm
 
 Back to Top
 
-  
-  
-SAFE HARBOR:
+SAFE HARBOR: 
 
 In addition, Starwood is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of PII transferred from the European Economic Area or Switzerland to the U.S. Please note that since October 6, 2015, the European Union no longer recognizes Safe Harbor. Nonetheless, Starwood upholds to comply with the Safe Harbor Privacy Principles.
 
 Back to Top
 
-  
-  
-DELETION AND RETENTION OF YOUR PERSONAL DATA:
+DELETION AND RETENTION OF YOUR PERSONAL DATA: 
 
 Your personal data will be kept in a form which enables to identify you for no longer than it is necessary for the purposes for which we collected and use your data. Your personal data may be retained in certain files for a period of time as required by applicable law and following Starwood’s data retention policies in order to comply with such financial or legal requirements, to properly resolve disputes or to troubleshoot problems. In addition, some types of information may be stored indefinitely due to technical constraints, and will be blocked from further processing for purposes which are not mandatory by law.
 
 Back to Top
 
-  
-  
-ACCESSING, UPDATING AND REMOVING YOUR PERSONAL DATA:
+ACCESSING, UPDATING AND REMOVING YOUR PERSONAL DATA: 
 
 You may request to have access to your personal data we keep or to have your personal data updated, erased or blocked unless this proves impossible or involves a disproportionate effort. You have may request confirmation as to whether we process your personal data and what that data constitutes.
 
@@ -213,7 +229,7 @@ Where allowed under local law, you may request us to erase your personal data, i
 
 To ensure that your personal data is accurate and up to date, we encourage you to regularly review and update your information as appropriate (e.g., in the event your home or e-mail address changes, or you wish to add an additional method for us to communicate with you). If you are an SPG program member, you can review and update your individual membership profile on-line or with the assistance of a Starwood customer service representative. If you are not a SPG program member you can review and update your personal data by contacting our Consumer Affairs Team or Privacy Office and requesting an access form. Please note that in an effort to prevent the unauthorized disclosure of your personal data, you may be asked to provide proof of identity (or other authentication materials) together with the completed access request form. Access to personal data for non-SPG program members cannot be provided by telephone
 
-If, upon review, you wish to deactivate your SPG program member profile, or update your personal data, we will endeavor to do so in a timely manner. Occasionally, information that you request to be removed will be retained as explained above
+If, upon review, you wish to deactivate your SPG program member profile, or update your personal data, we will endeavor to do so in a timely manner. Occasionally, information that you request to be removed will be retained as explained above.
 
 Therefore, for the above reasons you should not always expect that all of your personal data will be completely removed from our databases in response to your request, even though we are regularly reviewing our data retention practices to ensure that personal data, while residing on the systems of Starwood and/or Starwood’s strategic marketing partners and service providers, will not be actively processed and will be accessed only if required by law.
 
@@ -221,17 +237,13 @@ Please refer to the appropriate contact information below to contact us about up
 
 Back to Top
 
-  
-  
-SECURITY SAFEGUARDS:
+SECURITY SAFEGUARDS: 
 
 Starwood recognizes the importance of information security, and is constantly reviewing and enhancing our technical, physical, and logical security rules and procedures. All Starwood owned web sites and servers have security measures in place to help protect your personal data against accidental, loss, misuse, unlawful or unauthorized access, disclosure, or alteration while under our control. Although "guaranteed security" does not exist either on or off the Internet, we safeguard your information using appropriate administrative, procedural and technical safeguards, including password controls, "firewalls" and the use of up to 256-bit encryption based on a Class 3 Digital Certificate issued by VeriSign, Inc. This allows for the use of Secure Sockets Layer (SSL), an encryption method used to help protect your data from interception and hacking while in transit.
 
 Back to Top
 
-  
-  
-ON-LINE TECHNOLOGIES:
+ON-LINE TECHNOLOGIES: 
 
 Starwood and its third party marketing partners may use cookies, invisible pixels, and web beacons to obtain information about you while visiting our web sites. A cookie is a very small text file that is sent to your browser from a web server and stored on your computer's hard drive. Starwood cookies assign your computer with a unique identifier, which in turn, becomes your identification card whenever you return to a Starwood web site.
 
@@ -240,11 +252,13 @@ Cookies are designed to save you time because they help us to provide you with a
 Cookies can also help us provide you with a personalized experience in the following ways:
 
 *   remembering your user name and password for future visits so log-in is easier and faster.
-*   ensuring you are provided with the appropriate frames and content.
+*   ensuring you are provided with the appropriate frames and content
 *   ensuring you obtain all requested information.
 *   helping us deliver communications that are relevant and responsive to your interests and location.
 
-Starwood cookies are limited to our sites and services only and are not designed to follow you when traveling on the Internet after leaving. We track the usage of our web sites in order to better meet your needs and to help make it easier for you to find information in the future. Please note that in addition to Starwood cookies, various third parties may also place cookies on your computer's hard drive. Starwood is not responsible for the presence or absence of third party cookies, or for the technological capabilities or practices employed by third parties in connection with third party cookies.
+Starwood cookies are limited to our sites and services only and are not designed to follow you when traveling on the Internet after leaving. We track the usage of our web sites in order to better meet your needs and to help make it easier for you to find information in the future. Please note that in addition to Starwood cookies, various third parties may also place cookies on your computer's hard drive.  
+
+Starwood is not responsible for the presence or absence of third party cookies, or for the technological capabilities or practices employed by third parties in connection with third party cookies.
 
 If you would prefer not to have the benefits of cookies, your Internet browser can be adjusted to treat cookies in different ways. Depending upon the type of browser you are using, you may be able to configure your browser so that:
 
@@ -257,33 +271,27 @@ Starwood also uses invisible pixels, sometimes called web beacons, to count how 
 
 We also work with vendors and strategic marketing partners to help deliver advertisements and personalized content that we believe will be of interest to you. These vendors and other partners include advertisers, advertising agencies, advertising networks, audience segment providers, data exchanges, analytics providers, and other similar providers. Please click here for a current list of the agencies and providers with which we work. These partners and vendors use cookies and web beacons to collect information about your online activity (e.g., the sites and pages you have visited at Starwood sites and other third party sites) in order to help Starwood (and in some cases, third party advertisers) deliver personalized content and advertising to you while you are on Starwood or other sites.
 
-We may also engage one of these vendors to deliver our advertisements to consumers whose online behaviors on sites other than the Starwood sites indicate that they may be interested in travel. In other instances, we engage in special arrangements with certain advertisers with which we think our web site visitors would have an interest. We allow these advertisers to deliver co-branded messages (e.g., Starwood and the advertiser) directly to consumers who have visited our web pages. These types of cobranded advertisements may appear on Starwood sites or on third party sites. In general, you can opt out of our vendors' use of cookies to tailor personalized content or advertising to you by visiting http://www.networkadvertising.org/managing/opt\_out.asp and http://www.aboutads.info/choices.
+We may also engage one of these vendors to deliver our advertisements to consumers whose online behaviors on sites other than the Starwood sites indicate that they may be interested in travel. In other instances, we engage in special arrangements with certain advertisers with which we think our web site visitors would have an interest. We allow these advertisers to deliver co-branded messages (e.g., Starwood and the advertiser) directly to consumers who have visited our web pages. These types of cobranded advertisements may appear on Starwood sites or on third party sites. In general, you can opt out of our vendors' use of cookies to tailor personalized content or advertising to you by visiting
 
-For a detailed list of the cookies used on Starwood websites and your cookie settings, please click here.
+http://www.networkadvertising.org/managing/opt\_out.asp 
+
+For a detailed list of the cookies used on Starwood websites and your cookie settings, please click here
 
 Back to Top
 
-  
-  
-LINKS TO OTHER WEB SITES:
+LINKS TO OTHER WEB SITES: 
 
 In order to anticipate your needs, our website provides links to other web sites and third parties for your convenience and information. We are not responsible for the collection, use, maintenance, sharing or disclosure of data (including personal data) by such third parties. We encourage you to contact these third parties to ask questions about their privacy practices, policies and security measures before disclosing any personal data. We recommend that you review the privacy statements and policies of linked web sites to understand how those web sites collect, use and store information.
 
 Back to Top
 
-  
-  
-MINORS:
+MINORS: 
 
 We do not seek to obtain nor does it wish to receive personal data directly from minors. however, we cannot always determine the age of persons who access and use our web sites. If a minor (as defined by applicable law) provides us with his/her data without parental or guardian consent, we encourage the parent or guardian to contact us to have this information removed and to unsubscribe the minor from future Starwood marketing communications.
 
 Back to Top
 
-  
-  
-CONTACT US:
-
-**Updating Your Communication Preferences**
+CONTACT US: Updating Your Communication Preferences
 
 If you would like to update your information, modify your communication preferences, or if you do not want to receive marketing communications from Starwood in the future, you can contact us:
 
@@ -300,7 +308,7 @@ or
 If you would like to contact Starwood’s Customer Service Department, please choose the most convenient method from the following:
 
 by e-mail:  
-consumer.privacy@starwoodhotels.com
+customercare@starwoodhotels.com
 
 by telephone:  
 1-800-328-6242
@@ -324,75 +332,79 @@ USA
 
 Attention: Consumer Affairs – Privacy
 
-  
-  
-UPDATES TO THE PRIVACY STATEMENT:
+UPDATES TO THE PRIVACY STATEMENT: 
 
 This Statement was last updated to include Starwood’s adoption of Binding Corporate Rules by way of Starwood’s Guest Data Protection Standards. Starwood may amend this Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, or to satisfy the needs of our guests, properties, strategic marketing partners, and service providers. Updated versions will be posted to our web site and date stamped so that you are always aware of when the Privacy Statement was last updated.
 
 Back to Top
 
-  
-  
-
 *   Find &. Book
-*   My Stays &. SPG
-*   Our Company
+*   Account
+*   About SPG
+*   About SPG Pro
 
-*   *   Hotel Directory &. Map
-    *   New Hotels
-    *   Offers
-    *   Meetings &. Events
-    *   WHY BOOK HERE
-*   *   My Reservations
-    *   Find an Existing Reservation
-    *   About SPG
-    *   SPG Member Benefits
-    *   Join SPG
-*   *   Company Overview
-    *   Company Values
-    *   Company Diversity
-    *   Global Citizenship (CSR)
-    *   TakeCare Relief Fund
-    *   Our Brands
-    *   Starwood and Marriott Merger
-*   *   Careers
-    *   News
-    *   Investors
-    *   Developers
-    *   Residences
-    *   Vacation Ownership
+*   Hotel Directory & Map
+*   Redeem Starpoints
+*   Book A Meeting
+*   New Hotels
+*   special offers
+*   SPG Resorts
+*   WHY BOOK HERE >.
 
-*   Help
-*   Language 
+*   Account Overview
+*   My Profile
+*   My Benefits
+*   My Stays
+*   Find a Stay
+*   My Starpoints Activity
+*   Request A Card
+
+*   SPG Overview
+*   Member Benefits
+*   Our Brands
+*   SPG Credit Cards
+*   SPG Moments
+*   Marriott and Starwood Merger
+*   SPG FAQs
+*   Join SPG
+
+*   SPG Pro Overview
+*   Meeting Planners
+*   Travel Professionals
+*   SPG Pro FAQs
+*   Sales Offices
+*   Join SPG Pro
+
+*   Customer Support
+*   Language
     
-    *   Deutsch Deutsch
-    *   English English
-    *   Español Español
+    *   Deutsch
+    *   English
+    *   Español
+    *   Français
+    *   Indonesian
+    *   Italiano
     
-    *   Français Français
-    *   Italiano Italiano
-    *   Português Português
+    *   Nederlands
+    *   Polski
+    *   Português
+    *   Türkçe
+    *   العربية
+    *   中文(简体)
     
-    *   中文(简体) 中文(简体)
-    *   日本語 日本語
-    *   Русский Русский
+    *   中文(繁體)
+    *   日本語
+    *   한국어
+    *   Русский
+    *   ไทย
+*   Guest Reviews
+*   Mobile Options
+*   Terms &. Conditions of the SPG Program
 *   Website Terms of Use
-*   Privacy Statement
+*   Updated Privacy Statement
 *   Text Only
 
-Put the world at your fingertips. With an app for every device, and a tool for every travel need, get the SPG apps and get packing >. Top Destinations
-
-*   New York Hotels
-*   San Francisco Hotels
-*   Los Angeles Hotels
-*   Atlanta Hotels
-*   Chicago Hotels
-*   Toronto Hotels
-*   Houston Hotels
-*   San Diego Hotels
-*   Boston Hotels
-*   Philadelphia Hotels
+Put the world at your fingertips. With an app for every device, and a tool for every travel need, get the SPG apps and get packing>.
 
 *   **THE RITZ CARLTON REWARDS**
 *   **The Ritz-Carlton**
@@ -429,6 +441,16 @@ Put the world at your fingertips. With an app for every device, and a tool for e
 *   **FOUR POINTS**
 *   **element**
 
-You are on StarwoodHotels.com | Starwood Hotels &. Resorts | Other Starwood Brands >. Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Design Hotels Starwood Preferred Guest Starwood Hotels Learn about our brands © 2018 Marriott International, Inc., All rights reserved. | AdChoices
+You are on SPG.com Starwood Hotels &. Resorts Other Starwood Brands >. Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Design Hotels Starwood Preferred Guest Starwood Hotels Learn about our brands
 
+© 2018 Marriott International, Inc., All rights reserved. |
+
+AdChoices
+
+*   Facebook
+*   Twitter
+*   Instagram
+*   Pinterest
+*   Foursqaure
+*   Weibo
 *   Youtube
