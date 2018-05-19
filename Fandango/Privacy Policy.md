@@ -71,9 +71,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Lucasfilm Confirms They're Considering a Lando Calrissian 'Star Wars Story' Read More
-    *   Andy Bean and James Ransone Join 'It: Chapter Two'. Here's What We Know So Far Read More
-    *   ‘Deadpool 2’ Writers Definitely Want a ‘Deadpool 3’ and Give an ‘X-Force’ Update Read More
+    *   The Week in Movie News: 'Lando: A Star Wars Story' Is a Possibility, 'Deadpool 2' Is Reviewed and More Read More
+    *   Steven Spielberg and Leonardo DiCaprio May Re-Team for Ulysses S. Grant Biopic Read More
+    *   New Writers Hired for 'Cowboy Ninja Viking'. Here's All We Know Read More
     
     Explore Content
     *   Movie Reviews
