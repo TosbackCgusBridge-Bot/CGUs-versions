@@ -1,4 +1,4 @@
-SUBSCRIBE NOW$0.99/1st month
+close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogSUBSCRIBE NOW$0.99/1st month
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ SUBSCRIBE NOW$0.99/1st month
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMan gets Irvin diploma after waiting 24 yearsEducationElectric Cactus bar to open at MontecilloBusinessEx-El Paso police officer arrested in sex caseCrimeWalmart hiring for 300 jobs at new El Paso storeBusinessPush to remove prosecutor in EPISD cheating trialCrime16 El Paso intersections to get new traffic lightsLocalTexas military bases could house immigrant kidsMilitaryWoman accused of posting nude photos of girlCrimeWill Hernandez completes minicamp with GiantsFootballTrout to battle Charlo for WBC championshipBoxingHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDrugs seized from El Paso County homeNewsSubstitute teacher made 'inappropriate comments'CrimeSpecial forces capture Juárez cartel leaderCrimeTexas governor candidate: 'Enough of this.'PoliticsTeen killed in five-vehicle wreck in HorizonCrimeAmmo falls through roof of El Paso schoolLocalA look at history of letters on Mount FranklinLocalDonors give about $100,000 in County Judge racePoliticsMan surrenders in SWAT case at Northeast centerCrimeSite for Downtown El Paso arena could changeLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -141,3 +141,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
