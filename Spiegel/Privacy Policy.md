@@ -743,5 +743,4 @@ SPIEGEL GRUPPE
 *   \-Kontakt
 *   \-Hilfe
 
-Advertisement  
-BESbswyBESbswyBESbswy
+Advertisement
