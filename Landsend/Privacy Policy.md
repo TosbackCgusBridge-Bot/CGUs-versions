@@ -65,17 +65,16 @@ menu Close 0 Free Shipping on $50+
     CATEGORIES
     
     *   Swimsuits
-    *   Coats &. Jackets
-    *   Fleece
-    *   Sweaters
     *   Knit Tops &. Tees
     *   Shirts &. Blouses
-    *   Blazers
+    *   Sweaters
+    *   Dresses
     *   Pants
     *   Jeans
     *   Shorts
-    *   Dresses
     *   Skirts
+    *   Coats &. Jackets
+    *   Blazers
     *   Activewear
     *   Pajamas &. Robes
     *   Long Underwear
@@ -116,18 +115,18 @@ menu Close 0 Free Shipping on $50+
     CATEGORIES
     
     *   Swimwear
-    *   Fleece
-    *   Dress Shirts
-    *   Casual Shirts
     *   Polo Shirts
     *   Knit Tops &. Tees
-    *   Sweaters
+    *   Pants
+    *   Shorts
+    *   Jeans
+    *   Casual Shirts
+    *   Dress Shirts
     *   Sportcoats &. Blazers
     *   Suiting
-    *   Pants
-    *   Jeans
-    *   Shorts
+    *   Sweaters
     *   Coats &. Jackets
+    *   Fleece
     *   Activewear
     *   Pajamas &. Robes
     *   Underwear &. Long Underwear
@@ -468,17 +467,16 @@ menu Close 0 Free Shipping on $50+
         *   Small Accessories
         *   Gloves
     *   Swimsuits
-    *   Coats &. Jackets
-    *   Fleece
-    *   Sweaters
     *   Knit Tops &. Tees
     *   Shirts &. Blouses
-    *   Blazers
+    *   Sweaters
+    *   Dresses
     *   Pants
     *   Jeans
     *   Shorts
-    *   Dresses
     *   Skirts
+    *   Coats &. Jackets
+    *   Blazers
     *   Activewear
     *   Pajamas &. Robes
     *   Long Underwear
@@ -518,18 +516,18 @@ menu Close 0 Free Shipping on $50+
         *   Gloves
         *   Hats
     *   Swimwear
-    *   Fleece
-    *   Dress Shirts
-    *   Casual Shirts
     *   Polo Shirts
     *   Knit Tops &. Tees
-    *   Sweaters
+    *   Pants
+    *   Shorts
+    *   Jeans
+    *   Casual Shirts
+    *   Dress Shirts
     *   Sportcoats &. Blazers
     *   Suiting
-    *   Pants
-    *   Jeans
-    *   Shorts
+    *   Sweaters
     *   Coats &. Jackets
+    *   Fleece
     *   Activewear
     *   Pajamas &. Robes
     *   Underwear &. Long Underwear
@@ -871,11 +869,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go Privacy Last Updated: August 9‚ 2016
+Privacy Last Updated: August 9‚ 2016
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
@@ -1108,5 +1102,14 @@ Sustainability
 We're a proud partner of the National Forest Foundation. Learn More.
 
 <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>. sign up
+
+For your security, please confirm you are not a robot before submitting another email.
+
+Thank you for signing up.
+
+Your email address is: .  
+We’ll send you a notification when it launches.
+
+Continue Shopping
 
 Privacy Policy &. Contact Info
