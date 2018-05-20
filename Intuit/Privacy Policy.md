@@ -22,7 +22,7 @@ Near YouFind a StoreBack40-60% OFF SELECT ANA TOPSShop All40-60% OFF SELECT ANA 
     was $17 ana Scoop Neck Tee(81)
 *   $6.80 sale
     
-    was $17 a.n.a.Swing Tank(34)
+    was $17 a.n.a.Swing Tank(35)
 *   $5.99 sale
     
     was $17 a.n.a. Solid BF Tee(60)
@@ -31,13 +31,13 @@ Near YouFind a StoreBack40-60% OFF SELECT ANA TOPSShop All40-60% OFF SELECT ANA 
     was $17 a.n.a. V Neck Tee(23)
 *   $11.60 sale
     
-    was $29 a.n.a. Twist Front Top(13)
+    was $29 a.n.a. Twist Front Top(14)
 *   $11.60 sale
     
     was $29 a.n.a. Criss Cross Tank(20)
 *   $6.99 sale
     
-    was $19 a.n.a. Print BF Tee(36)
+    was $19 a.n.a. Print BF Tee(37)
 *   $14.80 sale
     
     was $37 a.n.a. Surplice Long Sleeve Blouse(32)
@@ -46,25 +46,25 @@ UP TO 50% OFF SELECT CARTERSShop AllUP TO 50% OFF SELECT CARTERSShop All
 
 *   $19.99 sale
     
-    was $34 Carter's 4-pc. Pajama Set Boys(94)
+    was $34 Carter's 4-pc. Pajama Set Boys(95)
 *   $19.99 sale
     
-    was $34 Carter's 4-pc. Pajama Set Boys(47)
+    was $34 Carter's 4-pc. Pajama Set Boys(48)
 *   $19.99 sale
     
     was $34 Carter's 4-pc. Pajama Set Girls(47)
-*   $14.99 sale
-    
-    was $26 Carter's 3-pc. Pajama Set Boys(49)
 *   $8.99 sale
     
-    was $24 Carter's Straight Fit Woven Cargo Shorts - Preschool Boys(17)
-*   $12.99 sale
-    
-    was $34 Carter's Short Sleeve Nightgown-Preschool Girls(57)
+    was $24 Carter's Straight Fit Woven Cargo Shorts - Preschool Boys(18)
 *   $24.99 sale
     
     was $42 Carter's 3-pc. Pajama Set Boys(70)
+*   $12.99 sale
+    
+    was $34 Carter's Short Sleeve Nightgown-Preschool Girls(57)
+*   $14.99 sale
+    
+    was $26 Carter's 3-pc. Pajama Set Boys(49)
 *   $14.99 sale
     
     was $26 Carter's 3-pc. Pajama Set Girls(38)
@@ -88,13 +88,13 @@ $4.99 SELECT KIDS ARIZONA TEES &. TANKSShop All$4.99 SELECT KIDS ARIZONA TEES &.
     was $14 - $19 Arizona Short Sleeve Print Fave Tee - Girls' 4-16 &. Plus
 *   $4.99 - $7.99 sale
     
+    was $14 - $19 Arizona SS Fave Tee - Girls' 4-16 &. Plus(2)
+*   $4.99 - $7.99 sale
+    
     was $14 - $19 Arizona Strappy Cami - Girls' 4-16 &. Plus
 *   $4.99 - $7.99 sale
     
-    was $14 - $19 Arizona SS Fave Tee - Girls' 4-16 &. Plus(2)
-*   $4.99 sale
-    
-    was $14 Arizona SS Print Fave Tee - Girls' 4-16 and Plus
+    was $14 - $19 Arizona SS Print Fave Tee - Girls' 4-16 and Plus
 
 UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
 
@@ -108,11 +108,6 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     $10.99 sale
     
     was $37 Bold Elements Caged Cold Shoulder Top(1)
-*   LIMITED TIME SPECIAL!
-    
-    $11.10 sale
-    
-    was $37 Liz Claiborne Tie Sleeve Bib Front Peasant Top(13)
 *   LIMITED TIME SPECIAL!
     
     $14.70 sale
@@ -130,14 +125,19 @@ UP TO 70% OFF WOMEN'S APPARELShop AllUP TO 70% OFF WOMEN'S APPARELShop All
     was $44 a.n.a. Surplice Shirttail(17)
 *   LIMITED TIME SPECIAL!
     
+    $11.10 sale
+    
+    was $37 Liz Claiborne Tie Sleeve Bib Front Peasant Top(13)
+*   LIMITED TIME SPECIAL!
+    
     $14.40 sale
     
     was $48 Cyrus Long Sleeve Open Front Cardigan(1)
 *   LIMITED TIME SPECIAL!
     
-    $16.99 sale
+    $13.20 sale
     
-    was $59 Libby Edelman Cold Shoulder Bodycon Dress(1)
+    was $44 By Artisan Bell Sleeve Tiered Chiffon Blouse
 
 BIKES FOR THE FAMILYShop AllBIKES FOR THE FAMILYShop All
 
@@ -147,21 +147,21 @@ BIKES FOR THE FAMILYShop AllBIKES FOR THE FAMILYShop All
 *   $174.99 sale
     
     was $209.99 Schwinn Wayfarer 700c Womens Hybrid Retro City Bike(4)
+*   $162.99 sale
+    
+    was $199.99 Schwinn Perla 26" Womens Cruiser Bike(1)
 *   $272.99 sale
     
     was $321.99 Schwinn GTX2 700c Womens Dual Sport Hybrid Bike
-*   $172.99 sale
+*   $102.99 sale
     
-    was $203.99 Schwinn Perla 26" Womens Cruiser Bike
+    was $109.99 Pacific Stratus 26" Womens Rigid Fork ATB Mountain Bike
 *   $169.99 sale
     
     was $226.99 Schwinn HighTimber 24" Girls Front Suspension Mountain Bike
 *   $104.99
     
     Kulana Hiku 26" Womens Cruiser Bike(1)
-*   $162.99 sale
-    
-    was $199.99 Schwinn Perla 26" Womens Cruiser Bike(1)
 *   $231.99 sale
     
     was $272.99 Schwinn HighTimber 29" Mens Front Suspension Mountain Bike
