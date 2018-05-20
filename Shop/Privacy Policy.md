@@ -6,7 +6,7 @@ Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
 Menu Close Menu Close
 
 *   Products
-    *   Laptops &. 2-in-1s VIEW ALL LAPTOPS Explore All Narrow your choices by category and find the laptop you truly want
+    *   Laptops &. 2-in-1s Explore All Explore All Narrow your choices by category and find the laptop you truly want
         
         *   Thinkpad Laptops Thinkpad Laptops Enterprise-level performance. Premium reliability.
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
@@ -36,59 +36,44 @@ Menu Close Menu Close
             *   300e Chromebook
             *   500e Chromebook
         
-        *   *   *   BY USE
-                    *   Work
-                    *   Entertainment
-                    *   Student
-                    *   Gaming
-                    *   EverydayVIEW ALL
-                *   BY TYPE
-                    *   Traditional laptops
-                    *   2-in-1
-                    *   Thin and light
-                    *   Gaming
-                    *   ChromebookVIEW ALL
-                *   BY SPECS
-                    *   Screen Size
-                    *   Memory
-                    *   Processor
-                    *   Price
-                    *   More...VIEW ALLVIEW ALL LAPTOPS >.
+        *   *   Lots of options, but only one you, right? Narrow your choices by category, and find the laptop you truly want.
+                
+                Explore All Laptops &. Ultrabooks >.
         *   *   Enterprise-level performance.  
                 Investment-wise durability.  
                 Premium reliability.
                 
-                VIEW ALL LAPTOPS >.
+                Learn more about the ThinkPad family >.
         
         *   *   Stylish design.  
                 Impressive performance.  
                 Innovative 2-in-1 versatility.
                 
-                VIEW ALL LAPTOPS >.
+                Learn more about the Yoga family >.
         
         *   *   Broad portfolio.  
                 Entry-level to gaming powerhouse.  
                 Laptops and 2-in-1s.
                 
-                VIEW ALL LAPTOPS >.
+                Learn more about the IdeaPad family >.
         
         *   *   Detachable 2-in-1s.  
                 Great for work &. play.  
                 Ultraportable.
                 
-                VIEW ALL LAPTOPS >.
+                Explore all 2-in-1s >.
         
         *   *   Innovative design, responsive performance.
                 
-                VIEW ALL LAPTOPS >.
+                Learn more about the Student laptops >.
         
-        *   *   VIEW ALL LAPTOPS >.
+        *   *   Explore All Gaming Laptops >.
         
-        *   *   VIEW ALL LAPTOPS >.
+        *   *   Chromebooks >.
         
-        *   *   VIEW ALL LAPTOPS >.
+        *   *   SMALL BUSINESS LAPTOPS >.
         
-        *   *   VIEW ALL LAPTOPS >.
+        *   *   ThinkPad 25 >.
         
     *   Desktops &. All-In-Ones Explore All Explore All Plenty to consider before making your purchase. Let us help.
         
@@ -413,9 +398,9 @@ Price, Durability, Features, Looks
 
 Best home laptops from Lenovo
 
-Tab 4 10" Plus &. Speaker Dock Bundle
+Star Wars Jedi Challenges
 
-Purchase the Tab 4 10" Plus and get the speaker dock for $50 (Regular Price $79.99)
+Awaken your inner Jedi with a new smartphone-powered augmented reality experience. Now $50 off.
 
 **CLEARANCE SALE**  
 Save an Additional 10% on all already unbeatable clearance deals!
@@ -458,7 +443,7 @@ STAY CONNECTED
 *   Flickr
 *   Lenovo Forums
 
-Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwanTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
+Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
 
 *   ABOUT LENOVO
     *   Our Company
@@ -529,3 +514,17 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
+
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+
+How can we help you today?
+
+CONSUMER SALESCONSUMER SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
+
+Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
+
+1 2 3 4 5 6 7 8 9 10
+
+Please tell us how we can improve your experience:
+
+SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
