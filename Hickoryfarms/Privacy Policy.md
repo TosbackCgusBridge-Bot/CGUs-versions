@@ -9,11 +9,9 @@
     
     Occasions*   Memorial Day
     *   Birthday Gifts
-    *   Spring Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. Congratulations
-    *   Mother's Day GiftsMost Popular Birthday Gifts
+    *   Graduation &. CongratulationsMost Popular Father's Day Gifts Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -46,15 +44,14 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Mother's Day Gifts
+    View All Categories Shop by Category*   Father's Day Gifts
     
     Occasions*   Birthday Gifts
     *   Memorial Day
-    *   Spring Gifts
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
-    *   Graduation &. Congratulations
+    *   Graduation &. CongratulationsMost Popular Father's Day Gifts Father's Day Feast
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
@@ -78,11 +75,9 @@
     
     Occasions*   Memorial Day
     *   Birthday Gifts
-    *   Spring Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. Congratulations
-    *   Mother's Day GiftsMost Popular Birthday Gifts
+    *   Graduation &. CongratulationsMost Popular Father's Day Gifts Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -115,15 +110,14 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Mother's Day Gifts
+    View All Categories Shop by Category*   Father's Day Gifts
     
     Occasions*   Birthday Gifts
     *   Memorial Day
-    *   Spring Gifts
     *   Weddings &. Showers
     *   Housewarming
     *   Thank You
-    *   Graduation &. Congratulations
+    *   Graduation &. CongratulationsMost Popular Father's Day Gifts Father's Day Feast
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
