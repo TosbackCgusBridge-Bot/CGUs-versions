@@ -6,8 +6,8 @@ try pro free for 7 days Fill out the CAPTCHA to continue searching on Whitepages
 
 Not searching for business use? Complete the test, prove you’re a real human, and we’ll send you along to Whitepages.
 
-<iframe src="https://funcaptcha.com/fc/api/nojs/?pkey=50BED048-DC89-91C1-BBCF-A6B02F1DE2A9" frameborder="0" scrolling="no" style="width: 308px. height:408px. border-style: none;"></iframe>. <div style="width: 306px;height: 60px;border-style: none;bottom: 12px;left: 25px;margin: 5px 0 0 0;padding: 0px;right: 25px;background: #ffffff;border: 1px solid #f7f7f7;border-radius: 5px;">. <input type="text" id="fc-token" name="fc-token" placeholder="Copy verification code into here" style="width: 270px;height: 24px;border: 1px solid #f7f7f7;border-radius: 5px;padding: 10px;margin: 7px;resize: none;font-size: 11px;-webkit-font-smoothing: antialiased;color: #212121;background: #f7f7f7;text-align: center;">. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-05-19 05:34:35 UTC.  
-Trace: 355b513d-6866-4497-ab18-6615e55cb31e via 0954f75f-e05f-454f-b961-272a7ba8ac05
+<iframe src="https://funcaptcha.com/fc/api/nojs/?pkey=50BED048-DC89-91C1-BBCF-A6B02F1DE2A9" frameborder="0" scrolling="no" style="width: 308px. height:408px. border-style: none;"></iframe>. <div style="width: 306px;height: 60px;border-style: none;bottom: 12px;left: 25px;margin: 5px 0 0 0;padding: 0px;right: 25px;background: #ffffff;border: 1px solid #f7f7f7;border-radius: 5px;">. <input type="text" id="fc-token" name="fc-token" placeholder="Copy verification code into here" style="width: 270px;height: 24px;border: 1px solid #f7f7f7;border-radius: 5px;padding: 10px;margin: 7px;resize: none;font-size: 11px;-webkit-font-smoothing: antialiased;color: #212121;background: #f7f7f7;text-align: center;">. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-05-20 05:39:01 UTC.  
+Trace: 751d0a26-d67a-4de2-932c-b873ebbd768d via 6877ff77-92ad-4de5-9c68-afaf3f6b9b0e
 
 *   About
 *   Careers
@@ -139,8 +139,9 @@ Trace: 355b513d-6866-4497-ab18-6615e55cb31e via 0954f75f-e05f-454f-b961-272a7ba8
 **Find**
 
 *   People Search
-*   Reverse Phone
-*   Reverse Address
+*   Phone Search
+*   Address Search
+*   Business Search
 *   Background Search
 
 **Your Whitepages**
@@ -155,7 +156,7 @@ Trace: 355b513d-6866-4497-ab18-6615e55cb31e via 0954f75f-e05f-454f-b961-272a7ba8
 *   Whitepages Apps
 *   Phone Scams
 *   Developers
-*   Yellow Pages Search by Province City Yellow Pages
+*   Yellow Pages Search by State City Yellow Pages
     
     *   Atlanta
     *   Boston
@@ -180,7 +181,7 @@ Trace: 355b513d-6866-4497-ab18-6615e55cb31e via 0954f75f-e05f-454f-b961-272a7ba8
     *   Seattle
     *   Tampa
     *   Washington, DC
-*   White Pages Search by Province City White Pages
+*   White Pages Search by State City White Pages
     
     *   Atlanta
     *   Boston
@@ -207,7 +208,7 @@ Trace: 355b513d-6866-4497-ab18-6615e55cb31e via 0954f75f-e05f-454f-b961-272a7ba8
     *   Washington, DC
 *   411.com
 
-*   Postal Codes
+*   ZIP Codes
 *   Area Codes
 *   Phone Numbers
 *   People:
