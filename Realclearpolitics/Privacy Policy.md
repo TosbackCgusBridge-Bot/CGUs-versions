@@ -109,6 +109,40 @@
     *   About
     *   Media Kit
 
+*   _John Kass_: The Mentally Ill Should Be Nowhere Near Guns
+    
+*   _Gail Collins_: Please, Let's Never Get Used to This
+    
+*   _Roger Simon_: Media Has Aided and Abetted Intel State's Transgressions
+    
+*   _James Clapper_: It's a Good Thing If FBI Had Someone Observing Trump Camp
+    
+*   _Michael Graham_: Republicans Look Increasingly Likely to Keep the House
+    
+*   _Joan Walsh_: The Resistance Is Real--and Real Female
+    
+*   _Michelle Malkin_: Why the Dem Media Hopes to Marginalize Melania Trump
+    
+*   _Crowley &. Johnson_: Trump's North Korea Nobel Buzz Could Die With Bolton
+    
+*   _Marc Thiessen_: Kim Is Acting Up Because Trump Has Him in a Box
+    
+*   _Joseph Wulfsohn_: Do Liberals Hate Trump More Than MS-13?
+    
+*   _Jamelle Bouie_: Trump Blurs the Distinction Between Immigrants and Crime
+    
+*   _Norquist &. Hendrie_: Tax Reform Has Brought Our Economy Back to Life
+    
+*   _Matthew Stewart_: The 9.9 Percent Is the New American Aristocracy
+    
+*   _Ben Weingarten_: Russia Investigations Keep Leading to the Investigators
+    
+*   _Harry Litman_: Mueller Won't 'Wrap Up' Soon--and Trump's Still in Peril
+    
+*   _F.H. Buckley_: Listening Skills: How One Reporter Beat the Experts in 2016
+    
+*   _Michael Hirsh_: John McCain's Last Fight
+    
 *   _Andrew Klavan_: Journalists' Hatred of Trump Is Destroying Them
     
 *   _Ruth Marcus_: Mueller 'Witch Hunt' Bags Flesh-and-Blood Villains
@@ -122,40 +156,6 @@
 *   _Seth Lipsky_: Here's Our Chance to Ditch Talks With North Korea
     
 *   _David Rothkopf_: Kim Wants a Donald Trump-John Bolton Breakup
-    
-*   _Jeffrey Lord_: 'Three Days in Moscow': Bret Baier's Home Run
-    
-*   _Peter Baker_: Bigger Than Watergate? Both Sides Agree, for Different Reasons
-    
-*   _Kimberly Strassel_: Was Trump's Campaign 'Set Up'?
-    
-*   _Paul Waldman_: Trump Focuses on Crime to Dehumanize All Immigrants
-    
-*   _Caleb Howe_: Trump Is Right: MS-13 Gang Members Are 'Animals'
-    
-*   _Ronald Brownstein_: The Republican Party's Generational Bet
-    
-*   _James Antle_: Dems Test How Far to the Left They Can Go
-    
-*   _Steven Brill_: How Baby Boomers Broke America
-    
-*   _John Della Volpe_: Trump's Unilateralism Risks Further Alienating Millennials
-    
-*   _William Saletan_: What We Learned About 'Crossfire Hurricane'
-    
-*   _George Neumayr_: Brennan's Category Five Political Espionage
-    
-*   _Eugene Robinson_: Dems Have It Too Good to Shoot Themselves In Foot
-    
-*   _John Nolte_: Big Blue Bellyflop: Dem Lead in Generic Ballot Hits New Low
-    
-*   _Marc Lamont Hill_: 7 Myths About The Palestinian-Israeli Conflict
-    
-*   _Adriana Cohen_: Democrats Are No Friend of Israel
-    
-*   _Dylan Byers_: Elon Musk vs. the World
-    
-*   _Nick Paumgarten_: How Fortnite Captured Teens' Hearts &. Minds
     
 
 *   Previous
@@ -257,10 +257,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Thrusts Abortion Fight Into Crucial Midterm Elections
 *   CIA Gets First Female Chief With Confirmation of Gina Haspel
+*   Clapper: A Good Thing If FBI Had Someone Observing Trump Campaign
 *   Liberal Wins in Primaries Cheer Some Democrats, Worry Others
-*   Hemingway: Extent of Obama Admin Spying Is Busting Wide Open
-*   North Korea Threatens to Cancel Trump-Kim Summit Over Drills
 *   McSally's DACA Flip Lays Bare AZ Senate Race Dynamics
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -296,11 +296,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   David Brooks: Mueller Probe "Investigating What Looks Like Real Crimes," But No "Evidence Of Real Collusion"
+*   WSJ's Strassel: "Mindboggling" That Obama's DOJ Spied On The Republican Party's Presidential Nominee
 *   Joe diGenova: John Brennan Should Get A Good Lawyer, Not A Good Ghostwriter
 *   Chris Christie: No Evidence Has Been Put Forward That Mueller Deserves An Interview With The President
-*   Full Replay: President Trump Speaks At Prison Reform Summit Hosted By Jared Kushner
 *   Speier: Democrats Still Willing To Trade DACA For Trump's Wall, We Can Just Tear It Down In A Couple Of Years
-*   Hemingway: The Extent Of Obama Intel Agencies Spying Busting Wide Open. People Will Demand More Info
 
 *   Politics
 *   Policy
