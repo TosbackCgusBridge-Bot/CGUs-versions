@@ -15,44 +15,44 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack40-60% OFF SELECT ANA TOPSShop All40-60% OFF SELECT ANA TOPSShop All
+Near YouFind a StoreBack FINAL HOURS OF COUPON CODE 2HURRY ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 5 5 1 0 secs 60% OFF SELECT ANA TOPSShop All60% OFF SELECT ANA TOPSShop All
 
 *   $5.99 sale
     
-    was $17 ana Scoop Neck Tee(81)
+    was $17 ana Scoop Neck Tee(84)
 *   $6.80 sale
     
-    was $17 a.n.a.Swing Tank(35)
+    was $17 a.n.a.Swing Tank(36)
 *   $5.99 sale
     
-    was $17 a.n.a. Solid BF Tee(60)
+    was $17 a.n.a. Solid BF Tee(62)
 *   $5.99 sale
     
-    was $17 a.n.a. V Neck Tee(23)
+    was $17 a.n.a. V Neck Tee(26)
 *   $11.60 sale
     
     was $29 a.n.a. Twist Front Top(14)
 *   $11.60 sale
     
-    was $29 a.n.a. Criss Cross Tank(20)
+    was $29 a.n.a. Criss Cross Tank(21)
 *   $6.99 sale
     
-    was $19 a.n.a. Print BF Tee(37)
+    was $19 a.n.a. Print BF Tee(38)
 *   $14.80 sale
     
     was $37 a.n.a. Surplice Long Sleeve Blouse(32)
 
-UP TO 50% OFF SELECT CARTERSShop AllUP TO 50% OFF SELECT CARTERSShop All
+UP TO 50% OFF CARTERSShop AllUP TO 50% OFF CARTERSShop All
 
 *   $19.99 sale
     
     was $34 Carter's 4-pc. Pajama Set Boys(95)
 *   $19.99 sale
     
-    was $34 Carter's 4-pc. Pajama Set Boys(48)
+    was $34 Carter's 4-pc. Pajama Set Boys(50)
 *   $19.99 sale
     
-    was $34 Carter's 4-pc. Pajama Set Girls(47)
+    was $34 Carter's 4-pc. Pajama Set Girls(48)
 *   $8.99 sale
     
     was $24 Carter's Straight Fit Woven Cargo Shorts - Preschool Boys(18)
@@ -64,7 +64,7 @@ UP TO 50% OFF SELECT CARTERSShop AllUP TO 50% OFF SELECT CARTERSShop All
     was $34 Carter's Short Sleeve Nightgown-Preschool Girls(57)
 *   $14.99 sale
     
-    was $26 Carter's 3-pc. Pajama Set Boys(49)
+    was $26 Carter's 3-pc. Pajama Set Boys(50)
 *   $14.99 sale
     
     was $26 Carter's 3-pc. Pajama Set Girls(38)
@@ -232,7 +232,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Google Plus
+*   Instagram
 *   Youtube
 *   JCPenney Blog
 
