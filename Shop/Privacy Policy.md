@@ -6,7 +6,7 @@ Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
 Menu Close Menu Close
 
 *   Products
-    *   Laptops &. 2-in-1s Explore All Explore All Narrow your choices by category and find the laptop you truly want
+    *   Laptops &. 2-in-1s VIEW ALL LAPTOPS Explore All Narrow your choices by category and find the laptop you truly want
         
         *   Thinkpad Laptops Thinkpad Laptops Enterprise-level performance. Premium reliability.
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
@@ -36,44 +36,59 @@ Menu Close Menu Close
             *   300e Chromebook
             *   500e Chromebook
         
-        *   *   Lots of options, but only one you, right? Narrow your choices by category, and find the laptop you truly want.
-                
-                Explore All Laptops &. Ultrabooks >.
+        *   *   *   BY USE
+                    *   Work
+                    *   Entertainment
+                    *   Student
+                    *   Gaming
+                    *   EverydayVIEW ALL
+                *   BY TYPE
+                    *   Traditional laptops
+                    *   2-in-1
+                    *   Thin and light
+                    *   Gaming
+                    *   ChromebookVIEW ALL
+                *   BY SPECS
+                    *   Screen Size
+                    *   Memory
+                    *   Processor
+                    *   Price
+                    *   More...VIEW ALLVIEW ALL LAPTOPS >.
         *   *   Enterprise-level performance.  
                 Investment-wise durability.  
                 Premium reliability.
                 
-                Learn more about the ThinkPad family >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Stylish design.  
                 Impressive performance.  
                 Innovative 2-in-1 versatility.
                 
-                Learn more about the Yoga family >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Broad portfolio.  
                 Entry-level to gaming powerhouse.  
                 Laptops and 2-in-1s.
                 
-                Learn more about the IdeaPad family >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Detachable 2-in-1s.  
                 Great for work &. play.  
                 Ultraportable.
                 
-                Explore all 2-in-1s >.
+                VIEW ALL LAPTOPS >.
         
         *   *   Innovative design, responsive performance.
                 
-                Learn more about the Student laptops >.
+                VIEW ALL LAPTOPS >.
         
-        *   *   Explore All Gaming Laptops >.
+        *   *   VIEW ALL LAPTOPS >.
         
-        *   *   Chromebooks >.
+        *   *   VIEW ALL LAPTOPS >.
         
-        *   *   SMALL BUSINESS LAPTOPS >.
+        *   *   VIEW ALL LAPTOPS >.
         
-        *   *   ThinkPad 25 >.
+        *   *   VIEW ALL LAPTOPS >.
         
     *   Desktops &. All-In-Ones Explore All Explore All Plenty to consider before making your purchase. Let us help.
         
