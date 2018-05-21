@@ -137,23 +137,23 @@ LATEST ON TWITTER
 
 My week on Twitter : 4 Mentions, 58.2K Mention Reach, 2 Likes, 1 Retweet, 958 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/ANh9…
 
-About 4 days ago
+About 5 days ago
 
 Our biggest fans this week: @mrmistry. Thank you! via sumall.com/thankyou?… pic.twitter.com/mELV…
 
-About 5 days ago
+About 6 days ago
 
 If banners are dead, why is the digital display market predicted to top $48 billion this year? @Requidan talks about the rumored demise of cookies, banners &. more: bit.ly/2KOLMig via @adexchanger
 
-Last week
+About 2 weeks ago
 
 My week on Twitter : 6 Mentions, 17.3K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/VxpU…
 
-Last week
+About 2 weeks ago
 
 We welcome the newest member to the Intermarkets team, Luke Rosche-Ritchie! Read about his extensive background, ways he'll help advertisers &. more here: goo.gl/SaVooD pic.twitter.com/LTXE…
 
-Last week
+About 2 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
