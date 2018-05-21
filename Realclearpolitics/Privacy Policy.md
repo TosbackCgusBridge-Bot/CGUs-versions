@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _John Kass_: The Mentally Ill Should Be Nowhere Near Guns
+*   _Ronna McDaniel_: Republicans Are Set to Defy History
     
-*   _Gail Collins_: Please, Let's Never Get Used to This
+*   _Albert Hunt_: The GOP's Strengths Turn Out to Be Weaknesses
     
-*   _Roger Simon_: Media Has Aided and Abetted Intel State's Transgressions
+*   _Debra Saunders_: Did Dems Skip Embassy Opening to Snub Trump?
     
-*   _James Clapper_: It's a Good Thing If FBI Had Someone Observing Trump Camp
+*   _David Ignatius_: Trump Is Fomenting a Trans-Atlantic Rift
     
-*   _Michael Graham_: Republicans Look Increasingly Likely to Keep the House
+*   _Michael McFaul_: I Saw the Unraveling of the U.S.-Russia Reset Firsthand
     
-*   _Joan Walsh_: The Resistance Is Real--and Real Female
+*   _Clarice Feldman_: The Game Is Up for Obama's Spies
     
-*   _Michelle Malkin_: Why the Dem Media Hopes to Marginalize Melania Trump
+*   _Virginia Heffernan_: President Trump Is His Own Wiretap
     
-*   _Crowley &. Johnson_: Trump's North Korea Nobel Buzz Could Die With Bolton
+*   _Glenn Greenwald_: The Media &. the FBI's Spy In the Trump Campaign
     
-*   _Marc Thiessen_: Kim Is Acting Up Because Trump Has Him in a Box
+*   _David Von Drehle_: The New Trump Strategy: I'm Being Set Up
     
-*   _Joseph Wulfsohn_: Do Liberals Hate Trump More Than MS-13?
+*   _Michael Goodwin_: Don't Blame Trump for Running Out of Patience w/Mueller
     
-*   _Jamelle Bouie_: Trump Blurs the Distinction Between Immigrants and Crime
+*   _Niall Stanage_: Will Mueller Play Hardball With Trump?
     
-*   _Norquist &. Hendrie_: Tax Reform Has Brought Our Economy Back to Life
+*   _Andrew McCarthy_: In the Obama Administration, Two Standards of Justice
     
-*   _Matthew Stewart_: The 9.9 Percent Is the New American Aristocracy
+*   _Andrew Sullivan_: Obama's Legacy Has Already Been Destroyed
     
-*   _Ben Weingarten_: Russia Investigations Keep Leading to the Investigators
+*   _Carl M. Cannon_: Choosing a President Like Choosing a CEO
     
-*   _Harry Litman_: Mueller Won't 'Wrap Up' Soon--and Trump's Still in Peril
+*   _Dan Balz_: Has the Political Climate Improved for the GOP?
     
-*   _F.H. Buckley_: Listening Skills: How One Reporter Beat the Experts in 2016
+*   _Peter Berkowitz_: Can Trump's Populist-Conservative Coalition Hold?
     
-*   _Michael Hirsh_: John McCain's Last Fight
+*   _Ben Jacobs_: Will Evangelicals Come Out for Trump's GOP in November?
     
-*   _Andrew Klavan_: Journalists' Hatred of Trump Is Destroying Them
+*   _Henry Olsen_: The Trump Coalition and the Electoral College
     
-*   _Ruth Marcus_: Mueller 'Witch Hunt' Bags Flesh-and-Blood Villains
+*   _Elaine Godfrey_: What Does the Democratic Party Stand For?
     
-*   _Errol Louis_: What Rudy Giuliani's Rants Can't Do for Trump
+*   _Jonathan Tobin_: Democrats Reach a Tipping Point on Israel
     
-*   _Mollie Hemingway_: Why Is DOJ Giving More to NYT, WaPo Than Congress?
+*   _Asha Rangappa_: If FBI Used an Informant, It Was to Protect Trump
     
-*   _Uri Friedman_: North Korea's Dangerous Game of Telephone With U.S.
+*   _Kim Strassel_: 'Mindboggling' That Obama's DOJ Spied on GOP's Nominee
     
-*   _Seth Lipsky_: Here's Our Chance to Ditch Talks With North Korea
+*   _Dave Holmes_: Okay, Now I Actually Do Want to Take Your Guns
     
-*   _David Rothkopf_: Kim Wants a Donald Trump-John Bolton Breakup
+*   _Jane Ridley_: How Meghan Markle Charmed Us All at the Royal Wedding
     
 
 *   Previous
@@ -276,6 +276,13 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Iowa Governor - Democratic PrimaryDes Moines Register
+    *   Hubbell31
+    *   Boulton20
+    *   Glasson13
+    *   Norris5
+    *   McGuire5
+    *   Wilburn3Hubbell +11
 *   Georgia Governor - Republican PrimaryFOX 5 Atlanta/Opinion Savvy
     *   Cagle31
     *   Kemp20
@@ -290,17 +297,14 @@ Latest PollsAll Polls
     *   Kobach27
     *   Barnett9
     *   Selzer5Colyer +2
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
 
 More Latest Polls In The News
 
+*   Adam Schiff: "Nonsense" To Claim There Was A Spy In The Trump Campaign
+*   Roger Stone: I Had No Advanced Knowledge About Wikileaks, Only "Set A Google News Alert For Julian Assange"
+*   Larry Kudlow on China Trade Talks: "Communique Between Two Great Countries," No Deal Yet
 *   David Brooks: Mueller Probe "Investigating What Looks Like Real Crimes," But No "Evidence Of Real Collusion"
 *   WSJ's Strassel: "Mindboggling" That Obama's DOJ Spied On The Republican Party's Presidential Nominee
-*   Joe diGenova: John Brennan Should Get A Good Lawyer, Not A Good Ghostwriter
-*   Chris Christie: No Evidence Has Been Put Forward That Mueller Deserves An Interview With The President
-*   Speier: Democrats Still Willing To Trade DACA For Trump's Wall, We Can Just Tear It Down In A Couple Of Years
 
 *   Politics
 *   Policy
