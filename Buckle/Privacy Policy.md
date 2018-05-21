@@ -467,7 +467,6 @@ Returns
 
 Promotions
 
-*   May Double Points 2018
 *   All Promotions
 *   Store Events
 *   Military Discount
