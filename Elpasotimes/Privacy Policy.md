@@ -73,7 +73,7 @@ close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dial
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDrugs seized from El Paso County homeNewsSubstitute teacher made 'inappropriate comments'CrimeSpecial forces capture Juárez cartel leaderCrimeTexas governor candidate: 'Enough of this.'PoliticsTeen killed in five-vehicle wreck in HorizonCrimeAmmo falls through roof of El Paso schoolLocalA look at history of letters on Mount FranklinLocalDonors give about $100,000 in County Judge racePoliticsMan surrenders in SWAT case at Northeast centerCrimeSite for Downtown El Paso arena could changeLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDrugs seized from El Paso County homeNewsDo you know El Paso's most wanted fugitives?CrimeMen forcibly take motorbike in unsolved robberyNewsSubstitute teacher made 'inappropriate comments'CrimeTexas governor candidate: 'Enough of this.'PoliticsHop on 1904 locomotive today at train showNewsSpecial forces capture Juárez cartel leaderCrimeTeen killed in five-vehicle wreck in HorizonCrimeA look at history of letters on Mount FranklinLocalAmmo falls through roof of El Paso schoolLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
