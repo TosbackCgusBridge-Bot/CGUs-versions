@@ -53,7 +53,7 @@ a) When you make an enquiry, confirm a booking or buy a holiday home we will col
 
   
 
-b) We may collect and use certain other personal information when we corre-spond with you (whether by telephone, e-mail, social media, web chat or oth-erwise). This will normally be limited to:
+b) We may collect and use certain other personal information when we correspond with you (whether by telephone, e-mail, social media, web chat or otherwise). This will normally be limited to:
 
 *   Name
 *   Email address
@@ -105,7 +105,7 @@ We collect this for the following purposes: 
 
 a) Improving our website and ensuring that content is presented effectively. 
 
-b) Managing our website and ensuring that it is safe and secure. This is outlined in more detail in the cookie policy (link here). 
+b) Managing our website and ensuring that it is safe and secure. This is outlined in more detail in the cookie policy. 
 
 c) To proactively offer you advertising which we believe will be of interest when you visit other websites 
 
@@ -113,7 +113,7 @@ d) Administering our website and other systems and for internal operations, incl
 
 The legal basis for our use of this information is our legitimate interest in developing and improving our services. 
 
-Where our website places third-party cookies, the legal basis for their use of this information is your consent which is given when you accept the use of cookies. You can manage all cookies using your browser settings. See our Cookies Policy (Link) for more information. 
+Where our website places third-party cookies, the legal basis for their use of this information is your consent which is given when you accept the use of cookies. You can manage all cookies using your browser settings. See our Cookies Policy for more information. 
 
 3.3 We may collect details of your marketing preferences and whether or not you want to receive certain marketing messages (e.g. marketing e-mails or direct marketing via post) from us. 
 
