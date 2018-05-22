@@ -844,9 +844,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: PICNIC pin: 3150 DETAILS
+code: GREEN pin: 4761 DETAILS
 
 Customer Service Menu
 
@@ -869,11 +869,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go Privacy Last Updated: August 9‚ 2016
+Privacy Last Updated: August 9‚ 2016
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
