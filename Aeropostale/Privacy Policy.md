@@ -37,8 +37,9 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   Sabrina for Aero
-*   Tees starting at $10
-*   Create Your Suit for $20
+*   Buy 1 Get 2 Free Tees
+*   Create Your Suit for $16
+*   Buy 1 Get 2 Jewelry
 *   Americana Shop
 *   The White Collection
 *   Festival Vibes
@@ -214,7 +215,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Featured ) Featured
 
 *   View All
-*   Create Your Suit for $20
+*   Create Your Suit for $16
 *   Active
 *   Lounge
 *   Sleep
@@ -294,7 +295,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Intimates
 *   Accessories
 
-**EXTRA 20% OFF** USE CODE **NOSLEEP** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+**50-70% OFF + FREE SHIPPING OVER $50 GIRLS GUYS**
 
 *   My Account My Account Login Register
 
@@ -307,8 +308,9 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Sabrina for Aero
-        *   Tees starting at $10
-        *   Create Your Suit for $20
+        *   Buy 1 Get 2 Free Tees
+        *   Create Your Suit for $16
+        *   Buy 1 Get 2 Jewelry
         *   Americana Shop
         *   The White Collection
         *   Festival Vibes
@@ -354,7 +356,6 @@ Menu Find a Store Aeropostale
     *   Live Love Dream
     *   Bras
     *   Undies
-    
 *   Guys
     
     *   View Home
@@ -398,7 +399,6 @@ Menu Find a Store Aeropostale
     *   Clearance
     *   Big + Tall
     *   Trending
-    
 *   Jeans
     
     *   View Home
@@ -459,7 +459,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   Create Your Suit for $20
+        *   Create Your Suit for $16
         *   Active
         *   Lounge
         *   Sleep
@@ -576,23 +576,3 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ...
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ...
