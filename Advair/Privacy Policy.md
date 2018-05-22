@@ -234,8 +234,8 @@ Menu
         *   TEDMED 2015: Art, inspired by vaccination
         *   TEDMED 2015: An interview with curator, Christine McNab
         *   The fight against malaria
-        *   Collaborating to improve patient care
         *   Global mission, local impact
+        *   Collaborating to improve patient care
         *   In Africa, markets matter for a healthy society
         *   Pricing our medicines to help ensure patient access
         *   Helping patients in need
@@ -248,10 +248,10 @@ Menu
         *   Whooping cough: confronting the hidden risk to infants
         *   GSK Uncovers The State of Uncontrolled Asthma in America
         *   Eggs in manufacturing
-        *   Struggling for breath
         *   The power of advocacy: coming together for the patient
-        *   Beyond Breathing: When Is Asthma Really Under Control?
+        *   Struggling for breath
         *   Clinical trials: a patient's view
+        *   Beyond Breathing: When Is Asthma Really Under Control?
         *   Fostering Wellness initiative: young people lead the way!
         *   The Power of 24hrs
         *   Living with COPD Every Day: Sean’s Story
@@ -265,6 +265,7 @@ Menu
         *   A birthday wish: for all COPD patients to live every breath
         *   If you can’t breathe, you won’t be able to play the tuba
         *   Controlled asthma, to me, means freedom
+        *   Meet Jennifer: a science researcher whose quest became her own health
     *   Our people
         *   Back
         *   Our people
