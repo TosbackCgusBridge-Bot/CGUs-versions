@@ -89,7 +89,7 @@ Close
 *   Русский
 *   ไทย
 
-Close Marriott International Privacy Center MARRIOTT GROUP GLOBAL PRIVACY STATEMENT 
+Close Privacy Center MARRIOTT GROUP GLOBAL PRIVACY STATEMENT 
 
 **Last Updated May 18, 2018**
 
