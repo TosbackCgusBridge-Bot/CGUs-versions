@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _special_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Explore! Catch new episodes of Wild Kratts, Splash and Bubbles, and Nature Cat - Monday on PBS KIDS!Explore! Catch new episodes of Wild Kratts, Splash and Bubbles, and Nature Cat - Monday on PBS KIDS!Go now
+What parents should know about Common Core math. What parents should know about Common Core math. Learn more
 
 Toggle message bar
 
