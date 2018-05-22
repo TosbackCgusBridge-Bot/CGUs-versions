@@ -93,59 +93,217 @@ Primary menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human”
+search Your browser does not support JavaScript! Androids Replace Human Roles in the Future World of “Detroit: Become Human”
 
-Play the PS4™ Exclusive Next Week
-
-Close
-
-*   Share Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human” on Facebook
-*   Share Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human” on Twitter
-*   Copy URL to share Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human”
-
-Play Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human” Video
-
-Sony on YouTube - Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human”
-
-Play Developers Discuss the Art Direction Behind the Scenery and Characters in “Detroit: Become Human” Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/DBH\_Screen\_PS4\_ConnorHank\_78019-600x600.jpg);" alt="Detroit: Become Human ">. A Creative Experience to Inspire Photographers
-
-See Highlights from the Kando Trip 2.0
+Play the PS4™ Exclusive This Week
 
 Close
 
-*   Share A Creative Experience to Inspire Photographers on Facebook
-*   Share A Creative Experience to Inspire Photographers on Twitter
-*   Copy URL to share A Creative Experience to Inspire Photographers
+*   Share Androids Replace Human Roles in the Future World of “Detroit: Become Human” on Facebook
+*   Share Androids Replace Human Roles in the Future World of “Detroit: Become Human” on Twitter
+*   Copy URL to share Androids Replace Human Roles in the Future World of “Detroit: Become Human”
 
-Play A Creative Experience to Inspire Photographers Video
+Play Androids Replace Human Roles in the Future World of “Detroit: Become Human” Video
 
-Sony on YouTube - A Creative Experience to Inspire Photographers
+Sony on YouTube - Androids Replace Human Roles in the Future World of “Detroit: Become Human”
 
-Play A Creative Experience to Inspire Photographers Video hotspot
+Play Androids Replace Human Roles in the Future World of “Detroit: Become Human” Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/Nate-Luebbe-Kando-Trip-2-1.f1cb27a519bdb5b6ed34049a5b86e317-600x600.jpg);" alt="Kando Trip 2.0">. Take Your Photography
+<img class="bg-img" class="url(/en\_us/media/content/detroit-become-human-real-600x600.jpg);" alt="Detroit: Become Human - Interview with David Cage of Quantic Dream">. With So Many Different Choices,
 
-to the Next Level
+How Will You Play “Detroit”?
 
 Close
 
-*   Share Take Your Photography on Facebook
-*   Share Take Your Photography on Twitter
-*   Copy URL to share Take Your Photography
+*   Share With So Many Different Choices, on Facebook
+*   Share With So Many Different Choices, on Twitter
+*   Copy URL to share With So Many Different Choices,
 
-to the Next Level
+Play With So Many Different Choices, Video
 
-<img class="bg-img" class="url(/en\_us/media/content/ILCE-7RM3\_situation\_10\_Reliability1\_jpg-600x600.jpg);" alt="a7R III">.
+Sony on YouTube - With So Many Different Choices,
 
-ICYMI: Alpha Universe #SonyKandoTrip Podcast Special: "What is Kando and the Power of Wow"
+Play With So Many Different Choices, Video hotspot
 
-6 days ago
+<img class="bg-img" class="url(/en\_us/media/content/PSX-Detroit-600x600v2\_gEZe4o4.jpg);" alt="Detroit: Become Human Video">.
+
+11 tips to be the last one standing in H1Z1: Battle Royale
+
+40 minutes ago
 
 View Tweet
 
-High-Quality Performance
+View Playstation Gold Wireless Headset on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c6b5fbe5a00fe955d113c7efd13c4b6a/5B836999/t51.2885-15/e35/30953884\_968009030020789\_5759689570731950080\_n.jpg);" alt="">. Get Your Game On With A
+
+Midnight Blue Controller
+
+Close
+
+*   Share Get Your Game On With A on Facebook
+*   Share Get Your Game On With A on Twitter
+*   Copy URL to share Get Your Game On With A
+
+Midnight Blue Controller
+
+<img class="bg-img" class="url(/en\_us/media/content/DS4\_Render\_CUHZCT2U\_MidnightBlue\_76122-600x600\_xPbXVvz.jpg);" alt="Playstation Midnight Blue Controller">. How 3 Composers Created Unique Soundtracks for Each Character
+
+Learn More
+
+Close
+
+*   Share How 3 Composers Created Unique Soundtracks for Each Character on Facebook
+*   Share How 3 Composers Created Unique Soundtracks for Each Character on Twitter
+*   Copy URL to share How 3 Composers Created Unique Soundtracks for Each Character
+
+Learn More
+
+<img class="bg-img" class="url(/en\_us/media/content/detroit-become-human-screen-36-ps4-us-13apr18-600x600\_pI1Jcnx.jpg);" alt="How Three Composers Created the Soundtrack of Detroit: Become Human">. Would You Be Able to Outsmart the Goalie in Our Virtual Reality Soccer Game?
+
+Learn More About Our New Innovations
+
+Close
+
+*   Share Would You Be Able to Outsmart the Goalie in Our Virtual Reality Soccer Game? on Facebook
+*   Share Would You Be Able to Outsmart the Goalie in Our Virtual Reality Soccer Game? on Twitter
+*   Copy URL to share Would You Be Able to Outsmart the Goalie in Our Virtual Reality Soccer Game?
+
+Play Would You Be Able to Outsmart the Goalie in Our Virtual Reality Soccer Game? Video
+
+Sony on YouTube - Would You Be Able to Outsmart the Goalie in Our Virtual Reality Soccer Game?
+
+Play Would You Be Able to Outsmart the Goalie in Our Virtual Reality Soccer Game? Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/WOW\_Studio\_2018\_VR\_Soccer-600x600.jpg);" alt="VR Soccer ">. Turn Any Surface Into a Touch Screen
+
+With the Xperia Touch
+
+Close
+
+*   Share Turn Any Surface Into a Touch Screen on Facebook
+*   Share Turn Any Surface Into a Touch Screen on Twitter
+*   Copy URL to share Turn Any Surface Into a Touch Screen
+
+With the Xperia Touch
+
+<img class="bg-img" class="url(/en\_us/media/content/08\_Xperia\_Touch\_Gaming-600x600\_FW2C2rJ.jpg);" alt="Xperia Touch">. Cutting Edge Technology
+
+In the Palm of Your Hand
+
+Close
+
+*   Share Cutting Edge Technology on Facebook
+*   Share Cutting Edge Technology on Twitter
+*   Copy URL to share Cutting Edge Technology
+
+In the Palm of Your Hand
+
+<img class="bg-img" class="url(/en\_us/media/content/pf32\_uniquedesign\_whitesilver\_171222-600x600\_M2ooX1o.jpg);" alt="Xperia XZ2 Compact">.
+
+View Xperia XZ2 on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/86e1c7f219438ae1d82e913db7b44c30/5BA0A16A/t51.2885-15/e35/31997228\_230369847697265\_7945297787992670208\_n.jpg);" alt="">. Close
+
+*   Share Xperia Agent CONCEPT on Facebook
+*   Share Xperia Agent CONCEPT on Twitter
+*   Copy URL to share Xperia Agent CONCEPT
+
+Xperia Agent CONCEPT
+
+<img class="bg-img" class="url(/en\_us/media/content/tumblr\_820360277736443479-600x600\_ebQ9KDA.jpg);" alt="Xperia Agent CONCEPT">. See It, Feel It, Hear It
+
+Meet The Xperia XZ2
+
+Close
+
+*   Share See It, Feel It, Hear It on Facebook
+*   Share See It, Feel It, Hear It on Twitter
+*   Copy URL to share See It, Feel It, Hear It
+
+Play See It, Feel It, Hear It Video
+
+Sony on YouTube - See It, Feel It, Hear It
+
+Play See It, Feel It, Hear It Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/img\_fut\_colorLineUp\_pf22\_7000\_1222-600x600.jpg);" alt="Xperia XZ2">. Country Singer Kane Brown Tries Out the Xperia Ear Duo
+
+Learn About the Dual Listening Experience
+
+Close
+
+*   Share Country Singer Kane Brown Tries Out the Xperia Ear Duo on Facebook
+*   Share Country Singer Kane Brown Tries Out the Xperia Ear Duo on Twitter
+*   Copy URL to share Country Singer Kane Brown Tries Out the Xperia Ear Duo
+
+Play Country Singer Kane Brown Tries Out the Xperia Ear Duo Video
+
+Sony on YouTube - Country Singer Kane Brown Tries Out the Xperia Ear Duo
+
+Play Country Singer Kane Brown Tries Out the Xperia Ear Duo Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/KaneBrownXperia\_1-600x600.jpg);" alt="Kane Brown Xperia Ear Duo Video">. Lara Croft Must Save the World From a Mayan Apocalypse
+
+In “Shadow of the Tomb Raider”
+
+Close
+
+*   Share Lara Croft Must Save the World From a Mayan Apocalypse on Facebook
+*   Share Lara Croft Must Save the World From a Mayan Apocalypse on Twitter
+*   Copy URL to share Lara Croft Must Save the World From a Mayan Apocalypse
+
+Play Lara Croft Must Save the World From a Mayan Apocalypse Video
+
+Sony on YouTube - Lara Croft Must Save the World From a Mayan Apocalypse
+
+Play Lara Croft Must Save the World From a Mayan Apocalypse Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/shadow-of-the-tomb-raider-screen-03-ps4-us-27apr18-600x600.jpg);" alt="Shadow of The Tomb Raider Video ">. John Cho Plays a Father Looking for His Missing Daughter
+
+In the Upcoming Thriller “Searching”
+
+Close
+
+*   Share John Cho Plays a Father Looking for His Missing Daughter on Facebook
+*   Share John Cho Plays a Father Looking for His Missing Daughter on Twitter
+*   Copy URL to share John Cho Plays a Father Looking for His Missing Daughter
+
+Play John Cho Plays a Father Looking for His Missing Daughter Video
+
+Sony on YouTube - John Cho Plays a Father Looking for His Missing Daughter
+
+Play John Cho Plays a Father Looking for His Missing Daughter Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/SRCH\_D12\_SET82\_John\_Cho\_PhotoCred\_Elizabeth\_Kitchens\_Clean\_clip\_7\_rv2-600x600.jpg);" alt="Searching Trailer">. We Put MGMT “On The Spot”
+
+See More Interviews
+
+Close
+
+*   Share We Put MGMT “On The Spot” on Facebook
+*   Share We Put MGMT “On The Spot” on Twitter
+*   Copy URL to share We Put MGMT “On The Spot”
+
+Play We Put MGMT “On The Spot” Video
+
+Sony on YouTube - We Put MGMT “On The Spot”
+
+Play We Put MGMT “On The Spot” Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/MGMT\_On\_the\_Spot\_Interview\_v8.00\_00\_57\_08.Still004-600x600.jpg);" alt="On the Spot: MGMT Video">. Close
+
+*   Share Audiophiles: Elevate Your Music Experience on Facebook
+*   Share Audiophiles: Elevate Your Music Experience on Twitter
+*   Copy URL to share Audiophiles: Elevate Your Music Experience
+
+With Hi-Res Audio
+
+<img class="bg-img" class="url(/en\_us/media/content/NW-WM1Z\_MDR-Z1R\_Insitu03\_jpg-600x600\_yDw80tJ.jpg);" alt="Hi-Res Audio">.
+
+View Z9D 4K HDR Android TV on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/75d9277da124a35f8ca58ac46eaa29b7/5B8F0850/t51.2885-15/e35/30085805\_461137960986340\_652904736311214080\_n.jpg);" alt="">. High-Quality Performance
 
 In a Compact Body
 
@@ -157,119 +315,7 @@ Close
 
 In a Compact Body
 
-<img class="bg-img" class="url(/en\_us/media/content/RX0-600x600v2\_Y5s0rnS.jpg);" alt="RX0">.
-
-View Sony Kando Trip on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/f6fdff67b2bd324ff9395fd12365250b/5B9CC243/t51.2885-15/e35/31495251\_437081133379381\_267112653317472256\_n.jpg);" alt="">. How Did the Winner of Our Photo Challenge
-
-Capture the Feeling of Home?
-
-Close
-
-*   Share How Did the Winner of Our Photo Challenge on Facebook
-*   Share How Did the Winner of Our Photo Challenge on Twitter
-*   Copy URL to share How Did the Winner of Our Photo Challenge
-
-Capture the Feeling of Home?
-
-<img class="bg-img" class="url(/en\_us/media/content/PTL\_3\_Houston\_Tong-600x600\_OlJmgDw.jpg);" alt="Pushing the Lens winners">. aibo Reborn: How Our Passion for Innovation Inspired Development
-
-Learn More About aibo
-
-Close
-
-*   Share aibo Reborn: How Our Passion for Innovation Inspired Development on Facebook
-*   Share aibo Reborn: How Our Passion for Innovation Inspired Development on Twitter
-*   Copy URL to share aibo Reborn: How Our Passion for Innovation Inspired Development
-
-Play aibo Reborn: How Our Passion for Innovation Inspired Development Video
-
-Sony on YouTube - aibo Reborn: How Our Passion for Innovation Inspired Development
-
-Play aibo Reborn: How Our Passion for Innovation Inspired Development Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/aibo1-600x600.jpg);" alt="Aibo">. Audiophiles: Elevate Your Music Experience
-
-With Hi-Res Audio
-
-Close
-
-*   Share Audiophiles: Elevate Your Music Experience on Facebook
-*   Share Audiophiles: Elevate Your Music Experience on Twitter
-*   Copy URL to share Audiophiles: Elevate Your Music Experience
-
-With Hi-Res Audio
-
-<img class="bg-img" class="url(/en\_us/media/content/NW-WM1Z\_MDR-Z1R\_Insitu03\_jpg-600x600\_yDw80tJ.jpg);" alt="Hi-Res Audio">. Capture Great Detail
-
-With the RX100 V
-
-Close
-
-*   Share Capture Great Detail on Facebook
-*   Share Capture Great Detail on Twitter
-*   Copy URL to share Capture Great Detail
-
-With the RX100 V
-
-<img class="bg-img" class="url(/en\_us/media/content/DSC-RX100M5\_Right\_jpg-600x600\_1sCAUPt.jpg);" alt="RX100 V">.
-
-View Venom on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/9b6d081844b9147554c55a6655fee05c/5AFC4D4B/t51.2885-15/e15/31278554\_861610197355793\_5749381138120441856\_n.jpg);" alt="">.
-
-View Xperia XA2 on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/9564d73cab064b52bebd746694cedfc2/5B8855A4/t51.2885-15/e35/31680505\_1828437877216216\_8835445767431782400\_n.jpg);" alt="">. Fortnite Battle Pass Season 4
-
-Battle Pass on PS4™
-
-Close
-
-*   Share Fortnite Battle Pass Season 4 on Facebook
-*   Share Fortnite Battle Pass Season 4 on Twitter
-*   Copy URL to share Fortnite Battle Pass Season 4
-
-Play Fortnite Battle Pass Season 4 Video
-
-Sony on YouTube - Fortnite Battle Pass Season 4
-
-Play Fortnite Battle Pass Season 4 Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/fortnite-tricera-ops-screen-01-ps4-us-27apr18-600x600.jpg);" alt="Fortnite Battle Pass Season 4">. Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids”
-
-In the New Series “Cobra Kai”
-
-Close
-
-*   Share Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids” on Facebook
-*   Share Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids” on Twitter
-*   Copy URL to share Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids”
-
-Play Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids” Video
-
-Sony on YouTube - Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids”
-
-Play Archrivals Reunite After 30 Years to Train the Next Generation of “Karate Kids” Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/yto\_CobraKai\_PromoRetouched\_en\_007\_V1-600x600.jpg);" alt="Cobra Kai">. It’s the End of the Wild West Era and the Gang of Outlaws Are On the Run Again
-
-Learn More About “Red Dead Redemption 2”
-
-Close
-
-*   Share It’s the End of the Wild West Era and the Gang of Outlaws Are On the Run Again on Facebook
-*   Share It’s the End of the Wild West Era and the Gang of Outlaws Are On the Run Again on Twitter
-*   Copy URL to share It’s the End of the Wild West Era and the Gang of Outlaws Are On the Run Again
-
-Play It’s the End of the Wild West Era and the Gang of Outlaws Are On the Run Again Video
-
-Sony on YouTube - It’s the End of the Wild West Era and the Gang of Outlaws Are On the Run Again
-
-Play It’s the End of the Wild West Era and the Gang of Outlaws Are On the Run Again Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/red-dead-redemption-2-screen-04-ps4-us-22may17-600x600.jpg);" alt="Red Dead Redemption II Trailer #3">. Air Hockey and Augmented Reality Come Together
+<img class="bg-img" class="url(/en\_us/media/content/RX0-600x600v2\_Y5s0rnS.jpg);" alt="RX0">. Air Hockey and Augmented Reality Come Together
 
 At Sony Square NYC
 
@@ -279,65 +325,25 @@ Close
 *   Share Air Hockey and Augmented Reality Come Together on Twitter
 *   Copy URL to share Air Hockey and Augmented Reality Come Together
 
-Play Air Hockey and Augmented Reality Come Together Video
+At Sony Square NYC
 
-Sony on YouTube - Air Hockey and Augmented Reality Come Together
+<img class="bg-img" class="url(/en\_us/media/content/action\_shot\_boomerang\_square\_zcfZjOf.gif);" alt="WOW Studio at SSNYC">. Kando Trip 2.0: A Creative Experience to Inspire Photographers
 
-Play Air Hockey and Augmented Reality Come Together Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/WOW\_Studio\_2018\_Air\_Hockey-600x600.jpg);" alt="WOW Studio at SSNYC">. Family Drama and Love Affairs Unfold
-
-In “The Seagull”
+Check Out Some of the Highlights
 
 Close
 
-*   Share Family Drama and Love Affairs Unfold on Facebook
-*   Share Family Drama and Love Affairs Unfold on Twitter
-*   Copy URL to share Family Drama and Love Affairs Unfold
+*   Share Kando Trip 2.0: A Creative Experience to Inspire Photographers on Facebook
+*   Share Kando Trip 2.0: A Creative Experience to Inspire Photographers on Twitter
+*   Copy URL to share Kando Trip 2.0: A Creative Experience to Inspire Photographers
 
-Play Family Drama and Love Affairs Unfold Video
+Play Kando Trip 2.0: A Creative Experience to Inspire Photographers Video
 
-Sony on YouTube - Family Drama and Love Affairs Unfold
+Sony on YouTube - Kando Trip 2.0: A Creative Experience to Inspire Photographers
 
-Play Family Drama and Love Affairs Unfold Video hotspot
+Play Kando Trip 2.0: A Creative Experience to Inspire Photographers Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/TheSeagull-600x600.jpg);" alt="The Seagull">. Close
-
-*   Share SRS-XB41 on Facebook
-*   Share SRS-XB41 on Twitter
-*   Copy URL to share SRS-XB41
-
-SRS-XB41
-
-<img class="bg-img" class="url(/en\_us/media/content/SRS-XB41\_NFC\_jpg-600x600\_9k2JPrV.jpg);" alt="SRS-XB41">. Turn Any Surface Into
-
-A Touch Screen
-
-Close
-
-*   Share Turn Any Surface Into on Facebook
-*   Share Turn Any Surface Into on Twitter
-*   Copy URL to share Turn Any Surface Into
-
-A Touch Screen
-
-<img class="bg-img" class="url(/en\_us/media/content/SONY\_SQ\_NYC\_0517\_JASON\_LEWIS\_PHOTO-00414-600x600.jpg);" alt="Xperia Touch">.
-
-View Playstation Gold Wireless Headset on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c6b5fbe5a00fe955d113c7efd13c4b6a/5B836999/t51.2885-15/e35/30953884\_968009030020789\_5759689570731950080\_n.jpg);" alt="">. Open-Ear Buds That Fit Seamlessly Into Your Life
-
-Check Out the Xperia Ear Duo
-
-Close
-
-*   Share Open-Ear Buds That Fit Seamlessly Into Your Life on Facebook
-*   Share Open-Ear Buds That Fit Seamlessly Into Your Life on Twitter
-*   Copy URL to share Open-Ear Buds That Fit Seamlessly Into Your Life
-
-Check Out the Xperia Ear Duo
-
-<img class="bg-img" class="url(/en\_us/media/content/earduo\_gold\_front\_1-600x600\_6i2rvPR.jpg);" alt="Xperia Ear Duo">.
+<img class="bg-img" class="url(/en\_us/media/content/Kando-Trip-2-0-Day-1-Gregg-Jayden-copy2.f1cb27a519bdb5b6ed34049a5b86e317-600x600.jpg);" alt="Kando Trip 2.0">.
 
 Load More
 
