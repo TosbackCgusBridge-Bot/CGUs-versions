@@ -109,4 +109,24 @@ Connexity
 
 Connexity® and Hitwise® are registered trademarks of Connexity, Inc.
 
-SumoFocus Retriever
+Sumo Contact Form Contact Form
+
+First Name
+
+Last Name
+
+Email Address
+
+Company
+
+Phone Number
+
+Comments
+
+interest
+
+Thank you for signing up!
+
+Please check your email and click the link provided to confirm your subscription.
+
+Powered By Focus Retriever
