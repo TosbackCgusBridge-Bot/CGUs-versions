@@ -325,6 +325,7 @@ Menu Close Menu Close
         
 *   Deals
     
+    *   Doorbusters
     *   THINKPAD DEALS
     *   2-in-1 Laptops Deals
     *   Thin &. Light Laptops Deals
@@ -332,7 +333,8 @@ Menu Close Menu Close
     *   Mainstream Laptops
     *   Desktop Deals
     *   Monitor Deals
-    *   Tablets &. AR/VR
+    *   Accessories Deals
+    *   Accessories Deals
     *   Clearance
     *   Financing Options
     *   Outlet
@@ -381,25 +383,20 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers OUR BIGGEST MEMORIAL DAY SALE EVER
 
-Built to perform. Engineered to endure.
+Up to 40% off DAILY DOORBUSTERS. While supplies last!
 
-Now available!
+Shop Doorbusters >.
 
-All Aluminum chassis, 10-point multitouch display with top-of-the-line NVIDIA® GeForce GTX 1050. Design. Game. Work. Play.
+Leading the pack
 
-Now Available >.
+ThinkSystem DS6200 takes the #1 spot in price for performance
 
-Lenovo in the Data Center
-
-The most reliable, flexible, and secure data centers
-
-Learn More >.
+Learn more >.
 
 *   1
 *   2
-*   3
 
 TODAY'S SALES
 
@@ -417,20 +414,25 @@ Star Wars Jedi Challenges
 
 Awaken your inner Jedi with a new smartphone-powered augmented reality experience. Now $50 off.
 
-**CLEARANCE SALE**  
-Save an Additional 10% on all already unbeatable clearance deals!
+Laptops Deals
 
-LAPTOPS
+Biggest savings of the year on new and top-selling laptops! Ends May 31 at 4am ET.
 
-High-performance laptops and convertibles for home, work, and play.
+Desktops Deals
 
-DESKTOPS
+Pick up a new desktop worthy of the Executive Office. End May 31 at 4am ET.
 
-Sleek all-in-ones, high-performance towers, and space-saving tiny desktops for home and business.
+accessories Deals
 
-accessories &. monitors
+Monitors ,docks, keyboards, mice, and more at amazing prices through May 31 at 4am ET.
 
-From monitors to docks, keyboards to mice, graphics to software, and everything in between.
+Tablets Deals
+
+Our tablets are more than just toys. Now on sale until May 31 at 4am ET.
+
+MEMORIAL DAY BUSINESS SALE
+
+Celebrate the great savings on our top selling business PCs. Sale ends at May 31 at 4am ET.
 
 Data Center
 
@@ -439,10 +441,6 @@ Achieve competitive advantage in the next-generation data center.
 Virtual Reality &. Smart Devices
 
 Connect your world: Smart devices to enhance your life, at home and on the go.
-
-Tablets
-
-Android and Windows tablets engineered for enhanced productivity and a rich multimedia experience.
 
 Outlet
 
@@ -502,6 +500,8 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
     *   Business Partners
     *   Partner Portal
     *   Military
+    *   Higher Education
+    *   Higher Education
     *   Higher Education
     *   Higher Education
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
