@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms April 2018 was 3rd warmest on record for the globe Arctic and Antarctic sea ice cover remains small AROUND NOAA // Emissions of an ozone-destroying chemical are rising again La Nina is gone, for now \[EXT\] U.S. had its coldest April in more than 20 years
+Enter Search Terms 7 easy ways to boat safely and be kind to nature Thinking ahead could save lives, and not just your own AROUND NOAA // April 2018 was 3rd warmest on record for the globe Emissions of an ozone-destroying chemical are rising again La Nina is gone, for now \[EXT\] Adaptable and driven by renewable energy, saildrones voyage into remote waters
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+NOAA
