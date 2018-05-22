@@ -26,13 +26,16 @@
     *   About Us
     *   Buzz
 *   Get Motivated
-    *   Events
     *   Blog
-    *   FitForGood
+    *   Success Stories
+    *   Ambassadors
+    *   Events
+    *   Races
     *   Fitbit Challenges
-    *   Fitbit Premium
 *   App &. Dashboard
+    *   Fitbit Premium
     *   Fitbit OS
+    *   Fitbit Pay
     *   App Tour
     *   Works With Fitbit
     *   Developers
