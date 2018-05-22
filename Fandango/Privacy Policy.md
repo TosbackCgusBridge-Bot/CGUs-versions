@@ -5,34 +5,34 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 
 *   Movies Now Playing
     
+    *   Deadpool 2
     *   Avengers: Infinity War
+    *   Book Club
     *   Life of the Party
     *   Breaking In (2018)
+    *   Show Dogs
     *   Overboard (2018)
     *   A Quiet Place
-    *   I Feel Pretty
     *   Rampage (2018)
-    *   Tully (2018)
-    *   Black Panther
-    *   Blumhouse's Truth or Dare (2018)
-    *   Super Troopers 2
+    *   RBG
+    *   I Feel Pretty
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Book Club
-    *   Deadpool 2
-    *   Show Dogs
-    *   First Reformed
-    *   The Hollow Child
-    *   On Chesil Beach
-    *   Pope Francis - A Man of His Word
-    *   That Summer (2018)
+    *   Solo: A Star Wars Story
+    *   Feral
+    *   The Gospel According to André
+    *   How Long Will I Love U
+    *   In Darkness (2018)
+    *   Mary Shelley (2018)
+    *   The Misandrists
+    *   Summer 1993
+    *   Who We Are Now
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   Solo: A Star Wars Story
     *   Incredibles 2
     
     Coming Soon
@@ -44,6 +44,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Hotel Artemis
     *   SuperFly (2018)
     *   Tag (2018)
+    *   Jurassic World: Fallen Kingdom
     *   See All Coming Soon
     
     Explore More
@@ -71,9 +72,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: 'Lando: A Star Wars Story' Is a Possibility, 'Deadpool 2' Is Reviewed and More Read More
-    *   Steven Spielberg and Leonardo DiCaprio May Re-Team for Ulysses S. Grant Biopic Read More
-    *   New Writers Hired for 'Cowboy Ninja Viking'. Here's All We Know Read More
+    *   Ryan Reynolds' Next 3 Movies: 'Detective Pikachu,' 'Clue,' 'X-Force' Read More
+    *   Jake Gyllenhaal to Play Mysterio in 'Spider-Man: Homecoming' Sequel. Here's Everything We Know Read More
+    *   'Deadpool 2' Off to a Roaring Start at the Box Office Read More
     
     Explore Content
     *   Movie Reviews
