@@ -66,7 +66,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: May 11, 2018
+Last Updated: May 21, 2018
 
 **1\. Introduction**
 
@@ -364,25 +364,25 @@ Indeed users that provide their Personal Data in the EU, and those that provide 
 
 Indeed users are able to edit and update most of their Personal Data held by Indeed on the Site, and if you have any queries or complaints we encourage you to contact us here.
 
-Alternatively, if you do not wish to do this you may make a formal request to have Indeed rectify any inaccurate Personal Data on your behalf by sending an email to privacy-dept @ indeed.com from the email address associated with your account. Your email should also attach a copy of your passport or national identity card (for identity verification purposes).
+Alternatively, if you do not wish to do this you may make a formal request to have Indeed rectify any inaccurate Personal Data on your behalf by sending an email to privacy-dept @ indeed.com from the email address associated with your account.
 
 **10.2 The Right to Object to or Restrict the Processing of Your Personal Data**
 
 If you have any queries or complaints about how we process your Personal Data we encourage you to contact us here.
 
-Alternatively, if you do not wish to do this you may make a formal request to object to, or restrict, processing of your Personal Data by Indeed. In order to do so please send an email to privacy-dept @ indeed.com from the email address associated with your account. Your email should also attach a copy of your passport or national identity card (for identity verification purposes).
+Alternatively, if you do not wish to do this you may make a formal request to object to, or restrict, processing of your Personal Data by Indeed. In order to do so please send an email to privacy-dept @ indeed.com from the email address associated with your account.
 
 **10.3 The Rights of Access to and Portability of Your Personal Data**
 
 Indeed users are able to access most of their Personal Data held by Indeed on the Site, and if you have any queries or complaints we encourage you to contact us here.
 
-Alternatively, if you do not wish to do this you may make a formal request to access your Personal Data held by Indeed. In order to do so, please send an email to privacy-dept @ indeed.com from the email address associated with your account, and paste the following sentence in your email: “I am requesting to access my personal data.” Your email should also attach a copy of your passport or national identity card (for identity verification purposes). Indeed will provide your Personal Data to you in a portable format to allow it to be transmitted to third parties.
+Alternatively, if you do not wish to do this you may make a formal request to access your Personal Data held by Indeed. In order to do so, please send an email to privacy-dept @ indeed.com from the email address associated with your account, and paste the following sentence in your email: “I am requesting to access my personal data.” Indeed will provide your Personal Data to you in a portable format to allow it to be transmitted to third parties.
 
 **10.4 The Right to Delete Your Personal Data**
 
 Indeed users are able to edit and update most of their Personal Data held by Indeed on the Site, and if you have any queries or complaints we encourage you to contact us here.
 
-Alternatively, if you do not wish to do this, you may make a formal request delete your Personal Data held by Indeed. In order to do so, please email to privacy-dept @ indeed.com from the email address associated with your account, and paste the following sentence in your email: “I am requesting to delete my personal data.” Your email should also attach a copy of your passport or national identity card (for identity verification purposes). Once your request has been confirmed, Indeed will initiate the necessary steps to execute this exercise, including the deletion of your Indeed account. Where the deletion request relates to Personal Data that you previously requested be made public on Indeed (e.g. a Job Seeker posting a public resume), we will make reasonable efforts to inform any other controllers of this request.
+Alternatively, if you do not wish to do this, you may make a formal request delete your Personal Data held by Indeed. In order to do so, please email to privacy-dept @ indeed.com from the email address associated with your account, and paste the following sentence in your email: “I am requesting to delete my personal data.” Once your request has been confirmed, Indeed will initiate the necessary steps to execute this exercise, including the deletion of your Indeed account. Where the deletion request relates to Personal Data that you previously requested be made public on Indeed (e.g. a Job Seeker posting a public resume), we will make reasonable efforts to inform any other controllers of this request.
 
 **PLEASE NOTE: by requesting the deletion of your Personal Data, you will no longer be able to create an account with Indeed using the same email address. If you simply wish to close your account, please click the “close my account” button in your account page.**
 
@@ -1073,4 +1073,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1ce0jhrms1a3t5hr&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1ce35v5e9a34sabt&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
