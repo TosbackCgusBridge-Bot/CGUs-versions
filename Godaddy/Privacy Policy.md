@@ -1,6 +1,6 @@
-**Last Revised: May 8, 2018**
+**Last Revised: May 21, 2018**
 
-_**NOTICE**_ : **The Privacy Policy below will become _effective May 25, 2018_. To view the current Privacy Policy, click here.**  
+_**https://helpadmin.godaddy.com/NOTICE**_ : **The Privacy Policy below will become _effective May 25, 2018_. To view the current Privacy Policy, click here.**  
 
 GoDaddy cares about your privacy.  For this reason, we collect and use personal data only as it might be needed for us to deliver to you our world-class products, services, websites and mobile applications (collectively, our “Services”). Your personal data includes information such as:
 
@@ -147,7 +147,7 @@ Phone: 0303 123 1113
 
 If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at privacy@godaddy.com.  In the alternative, you may contact us by either of the following means:
 
-*   By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal/DatenSchutz, Hansestr. 79, 51149 Cologne, Germany. 
+*   By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal, Office of the DPO, 5th Floor, The Shipping Building, Old Vinyl Factory, 252-254 Blyth Road, Hayes, UB3 1HA. 
 *   By Phone: (480) 505-8877.
 
 **_We will respond to all requests, inquiries or concerns within thirty (30) days._**
