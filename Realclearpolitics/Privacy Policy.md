@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Ronna McDaniel_: Republicans Are Set to Defy History
+*   _Benjamin Wittes_: Trump Is Creating a Genuine Crisis in America
     
-*   _Albert Hunt_: The GOP's Strengths Turn Out to Be Weaknesses
+*   _David Harsanyi_: Why Can't We Find Out What Happened in 2016?
     
-*   _Debra Saunders_: Did Dems Skip Embassy Opening to Snub Trump?
+*   _Rep. Devin Nunes_: Absolute Red Line If DOJ/FBI Funded a Spy
     
-*   _David Ignatius_: Trump Is Fomenting a Trans-Atlantic Rift
+*   _Sheri Berman_: Can It Happen Here? Albright Examines Fascism Then and Now
     
-*   _Michael McFaul_: I Saw the Unraveling of the U.S.-Russia Reset Firsthand
+*   _Victor Davis Hanson_: Threat to Rule of Law Is From Sanctimonious Elite
     
-*   _Clarice Feldman_: The Game Is Up for Obama's Spies
+*   _Josh Kraushaar_: Why Obamacare Could Help Democrats in 2018
     
-*   _Virginia Heffernan_: President Trump Is His Own Wiretap
+*   _Justin Haskins_: With the Mandate Dead, Obamacare Is Unconstitutional
     
-*   _Glenn Greenwald_: The Media &. the FBI's Spy In the Trump Campaign
+*   _Caitlin Huey-Burns_: Democrats Roll Out Anti-Corruption Message for 2018
     
-*   _David Von Drehle_: The New Trump Strategy: I'm Being Set Up
+*   _Gil Troy_: Why Liberals Buy Into Every Anti-Israel Smear
     
-*   _Michael Goodwin_: Don't Blame Trump for Running Out of Patience w/Mueller
+*   _Jake Sullivan_: Trump's Only Iran Strategy Is to Punish Iran
     
-*   _Niall Stanage_: Will Mueller Play Hardball With Trump?
+*   _Leon Hadar_: Trump's Strategy for the Middle East Is Working
     
-*   _Andrew McCarthy_: In the Obama Administration, Two Standards of Justice
+*   _Mark Penn_: The Deep State Knows a Reckoning Is Coming
     
-*   _Andrew Sullivan_: Obama's Legacy Has Already Been Destroyed
+*   _Nelson Cunningham_: 3 Predictions for What Mueller Will Do Next
     
-*   _Carl M. Cannon_: Choosing a President Like Choosing a CEO
+*   _Michael Mukasey_: It's Time to End Robert Mueller's Investigation
     
-*   _Dan Balz_: Has the Political Climate Improved for the GOP?
+*   _Matt Ford_: The Republicans' Witch Hunt
     
-*   _Peter Berkowitz_: Can Trump's Populist-Conservative Coalition Hold?
+*   _Charles Hurt_: What Obama Admin Did Is Far Worse Than Watergate
     
-*   _Ben Jacobs_: Will Evangelicals Come Out for Trump's GOP in November?
+*   _Jill Abramson_: Michael Cohen Is Giving Fixers a Bad Name
     
-*   _Henry Olsen_: The Trump Coalition and the Electoral College
+*   _Jeffrey Toobin_: Push to Remove Trump May Lead to Midterm Disaster
     
-*   _Elaine Godfrey_: What Does the Democratic Party Stand For?
+*   _Jessica Valenti_: The Myth of Conservative Feminism
     
-*   _Jonathan Tobin_: Democrats Reach a Tipping Point on Israel
+*   _Marjorie Dannenfelser_: Trump Takes Taxpayers Out of the Abortion Business
     
-*   _Asha Rangappa_: If FBI Used an Informant, It Was to Protect Trump
+*   _Lydia Wheeler_: Kennedy Retirement Rumors Shift Into Overdrive
     
-*   _Kim Strassel_: 'Mindboggling' That Obama's DOJ Spied on GOP's Nominee
+*   _Joel Wit_: What the North Koreans Told Me About Their Plans
     
-*   _Dave Holmes_: Okay, Now I Actually Do Want to Take Your Guns
+*   _Austin Bay_: Next Victim of Trump's 'Maximum Pressure' Strategy: Iran
     
-*   _Jane Ridley_: How Meghan Markle Charmed Us All at the Royal Wedding
+*   _Bill Zeiser_: An Uncharitable FactCheck.org Verdict for Trump
     
 
 *   Previous
@@ -257,10 +257,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump to DOJ: Investigate FBI's Surveillance for Political Purposes
 *   Trump Thrusts Abortion Fight Into Crucial Midterm Elections
+*   SNL Spoofs "Sopranos" Finale With Trump and Mueller
 *   CIA Gets First Female Chief With Confirmation of Gina Haspel
-*   Clapper: A Good Thing If FBI Had Someone Observing Trump Campaign
-*   Liberal Wins in Primaries Cheer Some Democrats, Worry Others
 *   McSally's DACA Flip Lays Bare AZ Senate Race Dynamics
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -276,6 +276,15 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve42
+    *   Disapprove54Disapprove +12
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove51Disapprove +4
+*   Direction of CountryRasmussen Reports
+    *   Right Direction42
+    *   Wrong Track52Wrong Track +10
 *   Iowa Governor - Democratic PrimaryDes Moines Register
     *   Hubbell31
     *   Boulton20
@@ -283,28 +292,14 @@ Latest PollsAll Polls
     *   Norris5
     *   McGuire5
     *   Wilburn3Hubbell +11
-*   Georgia Governor - Republican PrimaryFOX 5 Atlanta/Opinion Savvy
-    *   Cagle31
-    *   Kemp20
-    *   Hill14
-    *   Tippins12
-    *   Williams5Cagle +11
-*   Georgia Governor - Democratic PrimaryFOX 5 Atlanta/Opinion Savvy
-    *   Abrams58
-    *   Evans19Abrams +39
-*   Kansas Governor - Republican PrimaryRemington Research (R)
-    *   Colyer29
-    *   Kobach27
-    *   Barnett9
-    *   Selzer5Colyer +2
 
 More Latest Polls In The News
 
+*   Turley: Trump Was Correct When He Said Campaign Was Under Surveillance, "Legitimate Objection"
+*   Nunes: "Absolute Red Line" If DOJ/FBI Funded A Spy In The Trump Campaign
 *   Adam Schiff: "Nonsense" To Claim There Was A Spy In The Trump Campaign
-*   Roger Stone: I Had No Advanced Knowledge About Wikileaks, Only "Set A Google News Alert For Julian Assange"
+*   Roger Stone: I Had No Advanced Knowledge About WikiLeaks, Only "Set A Google News Alert For Julian Assange"
 *   Larry Kudlow on China Trade Talks: "Communique Between Two Great Countries," No Deal Yet
-*   David Brooks: Mueller Probe "Investigating What Looks Like Real Crimes," But No "Evidence Of Real Collusion"
-*   WSJ's Strassel: "Mindboggling" That Obama's DOJ Spied On The Republican Party's Presidential Nominee
 
 *   Politics
 *   Policy
