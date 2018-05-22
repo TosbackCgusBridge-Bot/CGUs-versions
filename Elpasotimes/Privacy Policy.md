@@ -1,4 +1,4 @@
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogSUBSCRIBE NOW$0.99/1st month
+close dialogMemorial Day SaleHURRY SALE ENDS MAY 31ST$999 for 6 monthsSubscribeclose dialogSUBSCRIBE NOW$0.99/1st month
 
 *   Home
 *   News
@@ -73,7 +73,7 @@ close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dial
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDrugs seized from El Paso County homeNewsDo you know El Paso's most wanted fugitives?CrimeMen forcibly take motorbike in unsolved robberyNewsSubstitute teacher made 'inappropriate comments'CrimeTexas governor candidate: 'Enough of this.'PoliticsHop on 1904 locomotive today at train showNewsSpecial forces capture Juárez cartel leaderCrimeTeen killed in five-vehicle wreck in HorizonCrimeA look at history of letters on Mount FranklinLocalAmmo falls through roof of El Paso schoolLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowLaw firm attacks Downtown building hotel planNewsEx-Chicago chef opens Jimmy John's in El PasoBusinessAloft Hotel opening set in Downtown El PasoBusinessKhalid wins Billboard's best new artist awardEntertainmentDo you know El Paso's most wanted fugitives?CrimeDrugs seized from El Paso County homeNewsWin Neon Desert tickets on MondayNewsMen forcibly take motorbike in unsolved robberyNewsHop on 1904 locomotive today at train showNewsEl Paso’s DWI Drug Court celebrates success: ColumnOpinionHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -142,4 +142,4 @@ Our Partners
 *   Thanksgiving.com
 *   Grateful
 
-close dialog99¢ for the First MonthSpring Sale On Now Subscribe Todayclose dialogclose dialog99¢ for the First Month Subscribe TodayNot looking to subscribe right now close dialog
+close dialogMemorial Day SaleHURRY SALE ENDS MAY 31ST$999 for 6 monthsSubscribeclose dialogclose dialogMemorial Day SaleHURRY SALE ENDS MAY 31STJust $999For Your First 6 MonthsSubscribe No thanksclose dialog
