@@ -186,6 +186,7 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
 *   Greece
 *   Hong Kong
 *   India
+*   Indonesia
 *   Ireland
 *   Italy
 *   Japan
@@ -211,6 +212,7 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
 *   UAE
 *   United Kingdom
 *   United States
+*   Venezuela
 *   Vietnam
 
 <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8P4KW" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
