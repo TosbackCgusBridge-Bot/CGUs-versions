@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical Managed Cloud adds data protection and recovery with Trilio ›
+*   Ubuntu Server development summary – 22 May 2018 ›
+*   Offline Computing – 10 Apps for the Digital Nomad ›
 *   Desktop plans for 18.10 ›
 *   Creating the world’s first robotic tennis ball collector with Ubuntu ›
-*   Top Snaps in April 2018 ›
-*   Ubuntu Server development summary – 15 May 2018 ›
-*   Trust and security in the Snap Store ›
