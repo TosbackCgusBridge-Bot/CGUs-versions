@@ -15,11 +15,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 1 OF COUPON CODE 16DEALS ENDS IN
+Find a StoreNear YouFind a StoreBack DAY 2 OF COUPON CODE 16DEALS ENDS IN
 
 \*offer ends 5/23/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 4 4 6 5 secs SAVE ON SELECT OUTDOOR ENTERTAINING WITH CODEShop AllSAVE ON SELECT OUTDOOR ENTERTAINING WITH CODEShop All
+Days 0 0 0 0 hours 4 4 0 0 mins 4 3 0 9 secs SAVE ON SELECT OUTDOOR ENTERTAINING WITH CODEShop AllSAVE ON SELECT OUTDOOR ENTERTAINING WITH CODEShop All
 
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
@@ -66,25 +66,25 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 4 6 5 secs SAVE ON SELECT OUTDOOR ENTERTAINING
 
 *   $19.99 sale
     
+    was $49 St. John's Bay Floral Tankini Swimsuit Top
+*   $19.99 sale
+    
     was $49 St. John's Bay Tankini Swimsuit Top
+*   $19.99 sale
+    
+    was $49 St. John's Bay Leaf Tankini Swimsuit Top
 *   $19.99 sale
     
     was $49 St. John's Bay Tankini Swimsuit Top
 *   $19.99 sale
     
     was $49 St. John's Bay Floral Tankini Swimsuit Top
-*   $23.60 sale
-    
-    was $59 Boutique + Floral Tankini Swimsuit Top-Plus
 *   $21.60 sale
     
     was $54 St. John's Bay Leaf Tankini Swimsuit Top-Plus
 *   $23.60 sale
     
-    was $59 Boutique + Tankini Swimsuit Top-Plus
-*   $21.60 sale
-    
-    was $54 St. John's Bay Tankini Swimsuit Top-Plus
+    was $59 Boutique + Floral Tankini Swimsuit Top-Plus
 *   $21.60 sale
     
     was $54 St. John's Bay Floral Tankini Swimsuit Top-Plus
@@ -95,12 +95,12 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 4 6 5 secs SAVE ON SELECT OUTDOOR ENTERTAINING
     
     $44
     
-    St. John's Bay® Rolled Denim Crop - Plus(17)
+    St. John's Bay® Rolled Denim Crop - Plus(18)
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
     $44
     
-    St. John's Bay® Drawstring Cargo Crop - Plus(14)
+    St. John's Bay® Drawstring Cargo Crop - Plus(15)
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
     $37
@@ -108,14 +108,14 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 4 6 5 secs SAVE ON SELECT OUTDOOR ENTERTAINING
     St. John's Bay® Drawstring Hem Cargo Bermuda - Plus(4)
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
-    $44
-    
-    St. John's Bay® Secretly Slender Twill Crop - Plus(8)
-*   BUY MORE AND SAVE WITH CODE: 16DEALS
-    
     $34
     
     St. John's Bay® Short Sleeve Lace Garment Wash Tee - Plus(2)
+*   BUY MORE AND SAVE WITH CODE: 16DEALS
+    
+    $44
+    
+    St. John's Bay® Secretly Slender Twill Crop - Plus(11)
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
     $50
@@ -123,14 +123,14 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 4 6 5 secs SAVE ON SELECT OUTDOOR ENTERTAINING
     St. John's Bay® Bi-Stretch Pants - Plus(291)
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
-    $17
+    $22
     
-    St. John's Bay® Short Sleeve V-Neck Tee - Plus(13)
+    Boutique + Short Sleeve Scoop Neck T-Shirt - Plus(6)
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
-    $17
+    $47
     
-    St. John's Bay® Short Sleeve Crew Neck Tee - Plus(21)
+    Worthington Curvy Fit Trousers - Plus(280)
 
 MEN'S NEW ARRIVALSShop AllMEN'S NEW ARRIVALSShop All
 
@@ -141,54 +141,31 @@ MEN'S NEW ARRIVALSShop AllMEN'S NEW ARRIVALSShop All
     IZOD Short Sleeve Button-Front Shirt
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
+    $60
+    
+    IZOD Pull-On Shorts
+*   BUY MORE AND SAVE WITH CODE: 16DEALS
+    
     $275
     
     Claiborne Slim Fit Suit Jacket-Big and Tall
-*   $68
+*   $55
     
     Cubavera Short Sleeve Panel Button-Front Shirt
-*   $85
-    
-    Cubavera Short Sleeve Floral Button-Front Shirt
-*   $55
+*   $68
     
     Cubavera Short Sleeve Panel Button-Front Shirt
 *   $68
     
     Cubavera Short Sleeve Button-Front Shirt
+*   BUY MORE AND SAVE WITH CODE: 16DEALS
+    
+    $60
+    
+    IZOD Short Sleeve Stripe Knit Polo Shirt
 *   $55
     
-    Cubavera Short Sleeve Pattern Button-Front Shirt
-*   $85
-    
-    Cubavera Short Sleeve Pattern Button-Front Shirt
-
-UP TO 20% OFF SELECT POOLS &. ACCESSORIESShop AllUP TO 20% OFF SELECT POOLS &. ACCESSORIESShop All
-
-*   $324.99 sale
-    
-    was $387.59 Bestway Steel Pro Frame Pool Set 18 Feet x 48 Inches
-*   $431.99 sale
-    
-    was $469.89 Blue Wave Wedding Cake Above Ground Pool Step w/ Liner Pad - White
-*   $692.99 sale
-    
-    was $773.99 Summer Waves Elite Dark Wicker 18-ft Round Metal Frame Pool Package - 52-in Deep
-*   $598.99 sale
-    
-    was $699.99 Bestway - Power Steel Pool Set
-*   $385.99 sale
-    
-    was $449.99 Bestway - Power Steel Deluxe Series Pool Set
-*   $256.99 sale
-    
-    was $299.99 Bestway - Steel Pro MAX Pool Set
-*   $298.99 sale
-    
-    was $349.99 Bestway - Steel Pro MAX Pool Set
-*   $435.99 sale
-    
-    was $510.49 Bestway Power Steel 18 Foot x 48 Inch Pool Set
+    Cubavera Short Sleeve Leaf Button-Front Shirt
 
 Shop and Save at JCPenney
 
