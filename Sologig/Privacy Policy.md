@@ -296,6 +296,7 @@ About Us
 *   About Sologig
 *   Privacy
 *   Terms &. Conditions
+*   Data Subject Access Rights
 
   
 Browse Jobs
