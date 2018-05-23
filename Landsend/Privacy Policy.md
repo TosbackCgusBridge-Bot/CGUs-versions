@@ -844,9 +844,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 50% off all swimwear, water shoes and more. Plus, free delivery by Friday to most U.S. addresses!
 
-code: GREEN pin: 4761 DETAILS
+code: WAVES pin: 2018 DETAILS
 
 Customer Service Menu
 
@@ -869,7 +869,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Last Updated: August 9‚ 2016
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Last Updated: August 9‚ 2016
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
@@ -1101,15 +1105,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>. sign up
-
-For your security, please confirm you are not a robot before submitting another email.
-
-Thank you for signing up.
-
-Your email address is: .  
-We’ll send you a notification when it launches.
-
-Continue Shopping
-
-Privacy Policy &. Contact Info
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
