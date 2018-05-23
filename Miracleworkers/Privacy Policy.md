@@ -298,6 +298,7 @@ About Us
 *   About MiracleWorkers
 *   Privacy
 *   Terms &. Conditions
+*   Data Subject Access Rights
 
   
 Browse Jobs
