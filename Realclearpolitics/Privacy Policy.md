@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Benjamin Wittes_: Trump Is Creating a Genuine Crisis in America
+*   _James Robbins_: FBI's Probe of Trump Will Be Revealed as Political
     
-*   _David Harsanyi_: Why Can't We Find Out What Happened in 2016?
+*   _Woodruff &. Siegel_: Trump's Latest Attack Stuns, Saddens DoJ Officials
     
-*   _Rep. Devin Nunes_: Absolute Red Line If DOJ/FBI Funded a Spy
+*   _Sharyl Attkisson_: The 'Sensitive Matter Team'
     
-*   _Sheri Berman_: Can It Happen Here? Albright Examines Fascism Then and Now
+*   _YJ Fischer_: Trump Keeps Giving Kim the Upper Hand
     
-*   _Victor Davis Hanson_: Threat to Rule of Law Is From Sanctimonious Elite
+*   _Jonathan Schanzer_: Pompeo Gave the Iran Speech Kerry Should Have Given
     
-*   _Josh Kraushaar_: Why Obamacare Could Help Democrats in 2018
+*   _Robert F. Kennedy_: Trump Discredits the Ideals of American Democracy
     
-*   _Justin Haskins_: With the Mandate Dead, Obamacare Is Unconstitutional
+*   _Ned Ryun_: The Media's Bias and Dishonesty Will Help Re-Elect Trump
     
-*   _Caitlin Huey-Burns_: Democrats Roll Out Anti-Corruption Message for 2018
+*   _Noah Feldman_: What a More Conservative Supreme Court Looks Like
     
-*   _Gil Troy_: Why Liberals Buy Into Every Anti-Israel Smear
+*   _Joe Garofoli_: Bad News for Dems: Trump's Ratings Rising in Orange County
     
-*   _Jake Sullivan_: Trump's Only Iran Strategy Is to Punish Iran
+*   _Natalie Hopkinson_: Social Media Turning Neighbors Into Racist Vigilantes
     
-*   _Leon Hadar_: Trump's Strategy for the Middle East Is Working
+*   _Jim Treacher_: Hillary Wants You to Know She Still Ain't Over It
     
-*   _Mark Penn_: The Deep State Knows a Reckoning Is Coming
+*   _Eugene Robinson_: The Constitutional Crisis Is Here
     
-*   _Nelson Cunningham_: 3 Predictions for What Mueller Will Do Next
+*   _George Neumayr_: Brennan's Plot to Infiltrate the Trump Campaign
     
-*   _Michael Mukasey_: It's Time to End Robert Mueller's Investigation
+*   _Paul Callan_: Trump's Disgraceful Investigation Order May Haunt Him
     
-*   _Matt Ford_: The Republicans' Witch Hunt
+*   _Andrew McCarthy_: Nothing Wrong w/Trump's Request to Probe FBI Misconduct
     
-*   _Charles Hurt_: What Obama Admin Did Is Far Worse Than Watergate
+*   _Sen. Schumer &. Rep. Pelosi_: Dems Have Better Deal for Teachers - and Kids
     
-*   _Jill Abramson_: Michael Cohen Is Giving Fixers a Bad Name
+*   _Laura Barron-Lopez_: If Democrats Win the House...
     
-*   _Jeffrey Toobin_: Push to Remove Trump May Lead to Midterm Disaster
+*   _John Nichols_: Why Are So Many Democrats Afraid of Impeachment?
     
-*   _Jessica Valenti_: The Myth of Conservative Feminism
+*   _Corey Robin_: Republican Party Is Headed for Long, Painful Decline
     
-*   _Marjorie Dannenfelser_: Trump Takes Taxpayers Out of the Abortion Business
+*   _Walter Williams_: Kanye West and the Problem for Democrats
     
-*   _Lydia Wheeler_: Kennedy Retirement Rumors Shift Into Overdrive
+*   _E.J. Dionne_: No One Is an 'Animal'
     
-*   _Joel Wit_: What the North Koreans Told Me About Their Plans
+*   _Dennis Prager_: Why the Left Won't Call Anyone 'Animals'
     
-*   _Austin Bay_: Next Victim of Trump's 'Maximum Pressure' Strategy: Iran
+*   _Steve Israel_: We Can Change Trend of Shootings by Voting for Democrats
     
-*   _Bill Zeiser_: An Uncharitable FactCheck.org Verdict for Trump
+*   _Brian Carney_: The Tide Turns on Missouri's Upstart Governor
     
 
 *   Previous
@@ -257,10 +257,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump to DOJ: Investigate FBI's Surveillance for Political Purposes
+*   Dems Say Anti-Corruption Message Will Be Focus of 2018 Midterms
+*   Voters Choose Nominees in Arkansas, Georgia, Kentucky, Texas
+*   Nunes: Absolute Red Line If DOJ, FBI Funded Spy in Trump Campaign
 *   Trump Thrusts Abortion Fight Into Crucial Midterm Elections
-*   SNL Spoofs "Sopranos" Finale With Trump and Mueller
-*   CIA Gets First Female Chief With Confirmation of Gina Haspel
 *   McSally's DACA Flip Lays Bare AZ Senate Race Dynamics
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -276,30 +276,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve42
-    *   Disapprove54Disapprove +12
+*   Texas Senate - Cruz vs. O'RourkeJMC Analytics
+    *   Cruz47
+    *   O'Rourke40Cruz +7
+*   Texas Governor - Abbott vs. ValdezJMC Analytics
+    *   Abbott48
+    *   Valdez36Abbott +12
+*   Texas Governor - Abbott vs. WhiteJMC Analytics
+    *   Abbott50
+    *   White39Abbott +11
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove51Disapprove +4
-*   Direction of CountryRasmussen Reports
-    *   Right Direction42
-    *   Wrong Track52Wrong Track +10
-*   Iowa Governor - Democratic PrimaryDes Moines Register
-    *   Hubbell31
-    *   Boulton20
-    *   Glasson13
-    *   Norris5
-    *   McGuire5
-    *   Wilburn3Hubbell +11
+    *   Approve50
+    *   Disapprove49Approve +1
 
 More Latest Polls In The News
 
-*   Turley: Trump Was Correct When He Said Campaign Was Under Surveillance, "Legitimate Objection"
-*   Nunes: "Absolute Red Line" If DOJ/FBI Funded A Spy In The Trump Campaign
-*   Adam Schiff: "Nonsense" To Claim There Was A Spy In The Trump Campaign
-*   Roger Stone: I Had No Advanced Knowledge About WikiLeaks, Only "Set A Google News Alert For Julian Assange"
-*   Larry Kudlow on China Trade Talks: "Communique Between Two Great Countries," No Deal Yet
+*   Caputo: FBI Informants Approached Me, Clapper And The Rest Are Going To Be Wearing Orange Suits
+*   "Impeach Donald Trump Now" Campaign Founder John Bonifaz: We Can't Normalize Impeachable Offenses
+*   Laurence Tribe Warns Democrats: If You Try To Impeach A President, "You Have To Shoot To Kill"
+*   Secretary Pompeo: "Chairman Kim Asked For This Meeting," I'm Confident, "Optimistic" It Will Take Place
+*   Greenwald: Intel Uses Media To Report Informant's Life In Danger, Turns Out They're Covering Themselves
 
 *   Politics
 *   Policy
