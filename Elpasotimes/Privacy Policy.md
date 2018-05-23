@@ -1,4 +1,4 @@
-close dialogMemorial Day SaleHURRY SALE ENDS MAY 31ST$999 for 6 monthsSubscribeclose dialogSUBSCRIBE NOW$0.99/1st month
+close dialogMemorial Day SaleHURRY SALE ENDS MAY 31ST$999 for 6 monthsSubscribeclose dialogSUBSCRIBE NOW$9.99 for 6 months
 
 *   Home
 *   News
@@ -14,6 +14,7 @@ close dialogMemorial Day SaleHURRY SALE ENDS MAY 31ST$999 for 6 monthsSubscribec
 *   Photo &. Video
 *   Subscribe
 *   Advertise with Us
+*   Public Notices
 *   More
     *   Home
     *   News
@@ -29,6 +30,7 @@ close dialogMemorial Day SaleHURRY SALE ENDS MAY 31ST$999 for 6 monthsSubscribec
     *   Photo &. Video
     *   Subscribe
     *   Advertise with Us
+    *   Public Notices
 
 *   socialFollow
 *   search
@@ -73,7 +75,7 @@ close dialogMemorial Day SaleHURRY SALE ENDS MAY 31ST$999 for 6 monthsSubscribec
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowLaw firm attacks Downtown building hotel planNewsEx-Chicago chef opens Jimmy John's in El PasoBusinessAloft Hotel opening set in Downtown El PasoBusinessKhalid wins Billboard's best new artist awardEntertainmentDo you know El Paso's most wanted fugitives?CrimeDrugs seized from El Paso County homeNewsWin Neon Desert tickets on MondayNewsMen forcibly take motorbike in unsolved robberyNewsHop on 1904 locomotive today at train showNewsEl Paso’s DWI Drug Court celebrates success: ColumnOpinionHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDad put frozen bacon on hurt baby, didn't call 911CrimeDallas police officer from El Paso out of hospitalNewsCase dropped against man in constable's deathCrimeSocorro teachers set to get 2 percent pay raiseEducationEl Paso woman detained for speaking SpanishLocalStorm leaves parts of El Paso covered in hailLocalCity department move will cost about $568,000LocalLaw firm attacks Downtown building hotel planNewsVote Tuesday in runoff electionPoliticsEx-Chicago chef opens Jimmy John's in El PasoBusinessHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -114,7 +116,7 @@ LifestyleOpinion
 *   Columnists
 *   Letters to the Editor
 
-HomesObituariesUSA TODAYPhoto &. VideoSubscribe
+HomesObituariesUSA TODAYPhoto &. VideoSubscribePublic Notices
 
 © 2018 elpasotimes.com, All rights reserved.
 
@@ -130,6 +132,8 @@ Services
 *   Member Guide
 *   Our Ethical Principles
 *   Accessibility Support
+
+*   Public Notices
 
 Our Partners
 
