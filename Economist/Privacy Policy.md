@@ -163,7 +163,7 @@ We need your consent to use your information for some specific purposes such as 
 
 *   We may send marketing communications via a range of channels including email and push notifications and you can opt out of these at any time. If you give us marketing permission, we may contact you to tell you about special offers and related or similar products or services within The Economist Group.
 
-*   We may pass your information to specially selected third parties who would like to contact you with information regarding their own products and services such as other subscriptions, events or content services.  Those parties are responsible for their use of your data and you should read their privacy policies carefully. For more information on how we work with third parties please see the section below .
+*   We may pass your information to specially selected third parties who would like to contact you with information regarding their own products and services such as other subscriptions, events or content services.  Those parties are responsible for their use of your data and you should read their privacy policies carefully. For more information on how we work with third parties please see the section below.
 
 *   We will ask you if you wish to opt-out of such marketing when you first sign up to receive our products or services. You can also update your preferences for your _Economist_ subscription at any time via your online account at economist.com or by contacting customer services (see ‘Contact us’). You can also opt out of email marketing by clicking the unsubscribe link at the bottom of our emails. Other parts of The Economist Group will inform you of how to opt out of such marketing communications, or you can contact us. This does not apply to important service notifications such as payment confirmations (as covered in the section above) or where we have some other legal basis for contacting you.
 
@@ -179,7 +179,7 @@ Other than where we have asked for your consent, we mainly rely on two other sep
 
 *   To help us improve our customer and user experience and to support in new product development. We may send customer satisfaction surveys and market research questionnaires (for which we may share your information with third party suppliers employed by us).
 
-*   To create audience profiles for personalised advertising, marketing or research and development on and off our websites – See **Audience** **Profiling** and **Social Media** sections below for more detailed information.
+*   To create audience profiles for personalised advertising, marketing or research and development on and off our websites – See **Audience Profiling** and **Social Media** sections below for more detailed information.
 
 *   To detect and reduce fraudulent activity and for other security related purposes such as to help us protect against harassment, IP infringement, crime or other security issues.
 
@@ -266,7 +266,7 @@ Cookies are small files that are created in your web browser when you visit any 
 
 You can find more information about the types of cookies that we, and certain third parties use, why we use them, and how to manage them in our cookie policy here.
 
-**Who we are** 
+**Who we are**
 
 **Brands**
 
@@ -302,7 +302,7 @@ Registered Office:  The Adelphi, 1-11 John Adam Street, London, WC2N 6HT, UK
 
 ICO Registered Number: Z4865712
 
-Company Registration Number: 3015764  
+Company Registration Number: 3015764
 
 Other names and brands include: EuroFinance Intelligence, EuroFinance Training
 
@@ -310,8 +310,7 @@ Data Controller: Trustee(s) of the Economist Group UK Pension Plan
 
 ICO Registered Number: Z6970715
 
-Address: The Adelphi 1-11 John Adam Street London WC2N 6HT  
-  
+Address: The Adelphi 1-11 John Adam Street London WC2N 6HT
 
 Data Controller: Ryder Street Properties (Management) Limited
 
@@ -321,21 +320,15 @@ Company Registration Number:  01985839
 
 Address: The Adelphi 1-11 John Adam Street London WC2N 6HT
 
-**  
-Contact Us**
+**Contact Us**
 
 If you have questions about this policy or about your personal information, please send correspondence to us at the following address:
 
-The Economist Group
-
-Attn: Data Privacy Manager
-
-20 Cabot Square,
-
-London,
-
-E14 4QW
-
+The Economist Group  
+Attn: Data Privacy Manager  
+20 Cabot Square,  
+London,  
+E14 4QW  
 United Kingdom
 
 Alternatively, you can use the email address: dataprivacy@economist.com
@@ -346,7 +339,7 @@ For queries related to other parts of The Economist Group please contact:
 
 *   info@Bazian.com for Bazian
 *   hello@digitalnewsagency.com for Digital News Agency or DNA by TVC
-*   registrations@eurofinance.com  for EuroFinance
+*   registrations@eurofinance.com for EuroFinance
 *   events@economist.com for The Economist Events
 *   studio@signal-noise.co.uk for Signal Noise
 *   https://www.eiu.com/Support/customer\_support.aspx for The Economist Intelligence Unit
@@ -364,7 +357,7 @@ You can contact us at any time. A member of our data privacy team will speak to 
 
 *   How do I opt out of marketing?
 
-You can update your preferences at any time, and for subscribers of _The Economist,_ this can be done via your online account at economist.com, or by contacting customer services (see ‘Contact us’). You can also opt out of email marketing by clicking the unsubscribe link at the bottom of our emails. For other parts of The Economist Group you can contact us.
+You can update your preferences at any time, and for subscribers of _The Economist,_ this can be done via your online account at economist.com, or by contacting customer services (see ‘Contact Us<’). You can also opt out of email marketing by clicking the unsubscribe link at the bottom of our emails. For other parts of The Economist Group you can contact us.
 
 *   How do I make a complaint?
 
@@ -396,8 +389,7 @@ You can use our cookie consent tool. For more information please also see our co
 
 You have a right to ask us for information we hold about you, please email customer services or data privacy including the subject line, “Subject Access Request”, so that we can respond as promptly as possible. 
 
-You also have the right to ask for us to update, delete or stop processing information we hold about you. However, please note that there are circumstances in which complete erasure of your information or ceasing to process your information will not be possible for operational, legal and business reasons. This may include if you remain a customer for whom we need to provide services, or if you wish us to no longer contact you for marketing purposes. In this case we may need to retain some of your details securely in order to facilitate this request by, for example, keeping you on a “do not contact” or suppression list. This will be the only purpose for which your data will be used if this is the case.  
-  
+You also have the right to ask for us to update, delete or stop processing information we hold about you. However, please note that there are circumstances in which complete erasure of your information or ceasing to process your information will not be possible for operational, legal and business reasons. This may include if you remain a customer for whom we need to provide services, or if you wish us to no longer contact you for marketing purposes. In this case we may need to retain some of your details securely in order to facilitate this request by, for example, keeping you on a “do not contact” or suppression list. This will be the only purpose for which your data will be used if this is the case.
 
 **Changes to this policy**
 
