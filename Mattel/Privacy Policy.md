@@ -1,373 +1,754 @@
-We have a new Privacy Statement. We hope you will find it informative and easy to understand. Please review this Privacy Statement carefully.
+Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price Shop Hot Wheels Shop Mattel Shop Barbie Shop Mattel Online Privacy Statement
 
-Mattel, Inc. Online Privacy Statement
+*   Privacy Statement
+    *   About Cookies and Technologies
+    *   Your California Privacy Rights
+    *   Your European Privacy Rights
+*   For Parents
+    *   Children's Privacy Statement
+    *   Parental Access Form
+    *   Child-Directed Website Request Form
+*   Connected Products
+    *   Sproutling FAQs
+*   Your Choices
+    *   Mattel Communications Preferences
+    *   American Girl Communications Preferences
+    *   Third-Party Technology List
+*   Contact Us
+*   GDPR Choices
+    *   Mattel GDPR Choice Portal
+    *   American Girl GDPR Portal
 
-Updated January 28, 2013.  
+*   Menu
+    *   Privacy Statement
+        *   About Cookies and Technologies
+        *   Your California Privacy Rights
+        *   Your European Privacy Rights
+    *   For Parents
+        *   Children's Privacy Statement
+        *   Parental Access Form
+        *   Child-Directed Website Request Form
+    *   Connected Products
+        *   Sproutling FAQs
+    *   Your Choices
+        *   Mattel Communications Preferences
+        *   American Girl Communications Preferences
+        *   Third-Party Technology List
+    *   Contact Us
+    *   GDPR Choices
+        *   Mattel GDPR Choice Portal
+        *   American Girl GDPR Portal
+
+Mattel Online Privacy Statement
+
+Updated May 22, 2018  
   
-The Sites and Mobile Apps or Apps (defined below) are provided by Mattel, Inc. and its subsidiaries, including, without limitation, Fisher-Price, Inc. and American Girl Brands, LLC (collectively, "Mattel", "we", "our", or "us"). This Privacy Statement governs your use of the Sites and Apps, regardless of how you access or use them. By “Sites”, we mean the Internet domain addresses within which this Privacy Statement is posted and all features, applications, content, and downloads that are operated by us and that are available through or interact with them, and/or post links to this Privacy Statement, and by “Mobile Apps” and “Apps”, we mean products and services made available via mobile telecommunications platforms by us, with the exception of Sites and Apps made available by HIT Entertainment Limited (“HIT”). Please review the HIT privacy policy and terms of use as they may differ. Each time you access and/or use the Sites or Apps (other than to simply read this Privacy Statement), you agree to be bound by and comply with all of the terms of this Privacy Statement. Therefore, do not use the Sites or Apps if you do not agree to all of the terms of this Privacy Statement. If you are visiting the Sites, please also review the Site's Terms and Conditions of Website Use.  
-  
-We want you and your family to have fun surfing all our Sites and using our Apps, and urge you and your family to follow common sense whenever disclosing personal information - on this site or anywhere else.  
-  
-We encourage you to review our complete Privacy Statement in detail, as it includes important information, but provided is a short summary for convenience. You can also link to specific topics by using our Table of Contents.  
-  
-**Overview**  
-  
+Your privacy is important to us at the _Mattel family of companies_. This privacy statement describes the _information_ Mattel collects from you, through our interactions with you and through our _Mattel Services_, and how we use that information. It also describes what information _third parties_ collect from you, and how we and they use that information. Key terms are italicized and underlined _(like this_) and can be found in the _Definitions_ section. This Privacy Statement provides examples of data we collect, how we use it, and choices you can exercise. these examples may not be exhaustive or exclusive.
 
-CHILDREN
+This statement applies to _Mattel Services_, including _Mattel Sites_, apps, mobile apps, online services, and connected products. _Mattel Sites_ are also subject to the MATTEL TERMS AND CONDITIONS. Other terms, end-user license agreements, or additional rules may apply. Each time you use _Mattel Services_, you agree to this statement. If you don’t agree with all the terms of this privacy statement, please do not use the services.
 
-We take many special precautions to protect the privacy of children under 13.
+We want you and your family to have fun using our services and urge you and your family to follow common sense when disclosing personal information, both through our services and anywhere else.
 
-*   At our websites, online services or apps intended for children, we do not collect personal contact information (like full name, e-mail address, phone number or home address) from children without the consent of a parent or legal guardian, except in limited circumstances authorized by law.
-*   We collect some non-personal information (like IP address, mobile device UDID, operating system, etc.) automatically and use technology like cookies to provide functionality and support our operations. Mattel does not permit interest-based advertising on Sites or Apps directed to children under 13 or where we have actual knowledge that a child is under 13. Read more.
-*   We do not ask for more personal information than is necessary for a child to participate in an activity.
-*   We take steps to prevent children from posting or publicly disclosing personal contact information.
-*   Parents can ask us to update or delete their children’s information.
-*   Read more
+Children’s Privacy
 
-  
-WHAT WE COLLECT – ADULTS AND TEENS
+We at Mattel pride ourselves on helping bring delight to children around the world and take our responsibility to children seriously. Please visit the MATTEL CHILDREN'S PRIVACY STATEMENT for specific details on our children's privacy practices.
 
-We collect information from adults and teens to serve your needs, manage our content and advertising, operate efficiently, and improve our products and services.
+  Definitions
 
-*   We collect personal contact information, like e-mail address or phone number, from consumers 13 or older when voluntarily submitted, or to fulfill a transaction. Registration may be required to use some sites, services or apps.
-*   We may obtain information from commercial sources and combine it with information we have collected.
-*   Certain information will be collected automatically at our Sites or Apps, like your IP address, UDID, browser setting, operating system, referring domain, language preferences, mobile carrier if you are using a mobile device, general location (e.g., zip code, but not specific address without consent) and other information.
-*   Third parties may also collect certain information.
-*   Read more
+**Child/children (kid/kids).** Individuals who are not of legal age to consent to the collection and processing of their _personal information_. For most areas of the world, those are individuals under 13. In the European Economic Area (EEA), they are individuals under 16. We adhere to local definitions of “children” for _Mattel Services_ located in jurisdictions where the age is different.
 
-  
-USER-GENERATED CONTENT
+**Information.** Data we collect. It includes, in alphabetical order:
 
-*   You may be able to post or upload content, like comments, reviews, photos, etc. Registration may be required.
-*   At kids’ Sites, filtering technology is used to prevent children from posting personal contact information without parental consent. Read more
-
-  
-COOKIES AND TECHNOLOGY
-
-*   Our Sites, services and Apps use technology, like cookies and web beacons, to manage registrations or access to certain features, store your settings and preferences, conduct age-screening, offer you personalized content, shop, help us understand the features that appeal to visitors, and manage advertising, among other things.
-*   We also work with third parties who offer analytics or deliver targeted ads online or through apps. They use technology and collect device identifiers, such as your IP address or mobile UDID, and information on your activities, to do so. You can opt out of receiving targeted ads but will still see ads, although they may be less relevant to you.
-*   Tools are available to help you control some of these technologies.
-*   Read more
-
-  
-USE OF INFORMATION
-
-We use all information we collect to provide and improve our products and services, understand our consumers, and manage content and advertising. Read more
-
-  
-CHOICES
-
-We respect your choices about receiving promotional offers and updates from us. Read more
-
-  
-APP CONTROLS
-
-Your device may allow you to block or manage push notifications, location information, in-app purchases, or ability to access the web. Read more
-
-  
-SHARING
-
-We may share information:
-
-*   Within our family of companies, and with our agents and service providers.
-*   With third parties for marketing purposes, with your consent, except, as is customary with catalogue businesses, we will share mailing addresses (but not e-mail addresses) with other catalogue companies whose products and services may be of interest to you unless you opt out.
-*   As necessary to satisfy a legal request, protect property or personal safety, when a business is bought or sold, or as otherwise allowed or required by law. Read more
-
-  
-LINKS
-
-Mattel Sites or Apps may link to or use other content from the Internet, including content offered by third parties that we do not control and whose privacy and data collection practices may differ from ours. Your computer or mobile device settings may allow you to block or partially block web access, but we cannot guarantee that they will be effective in any or all cases. Read more
-
-  
-OTHER IMPORTANT INFORMATION
-
-*   **SECURITY**  
-    We strive to maintain the security of information but cannot guarantee that information security measures are fail-safe. Read more
-*   **OUR LOCATION. DATA TRANSFERS**  
-    This Site and the servers that make this Site available may not be located in your country of residence and are governed by U.S. law. By using this Site you agree to the transfer, collection, processing and use of data by this Site. Read more
-*   **UPDATES**  
-    We will update this Privacy Statement from time to time by posting the updated Privacy Statement online. We will not change how we handle previously collected information without providing notice. Read more
-*   **CALIFORNIA PRIVACY RIGHTS**  
-    If you are a resident of California, you have certain rights. Read more
-
-  
-QUESTIONS
-
-We strive always to be transparent and clear about our policies. Please contact us if you have questions. Read more
-
-  
-Table of Contents
-
-*   A SPECIAL NOTE FOR PARENTS AND LEGAL GUARDIANS
-*   A SPECIAL NOTE TO KIDS
-
-1.  What Are Mattel’s Children’s Privacy Practices?
+*   **Automatically collected information.**Information automatically collected when you use _Mattel Services_, including information to facilitate your experience and help us understand our visitors, like your _device information_, information about the network you are using to access _Mattel Services_ (such as preferred language or online sites or services visited before you visit a Mattel Service), and content (including ads) that you see or click on.
     
-    a. What Information Is Collected from Children Under 13 and How Is It Used?  
+*   **Device information.**Information about the device, browser, or app you are using to access a Mattel Service, such as operating system, browser information, Internet Protocol (IP) address, Universal Device Identifiers (UDID), and similar information.
     
-    b. Can My Child Access the Web at Your Sites or Apps?  
+*   **Interest or demographic information.** Information about a user’s favorite games, colors, Mattel characters, and similar preferences. or information about a visitor or user, such as gender, age, education, profession, occupation, or other information.
     
-    c. Can I Access, Update and Review Information You Have About My Child?  
+*   **Location information.** Information that allows you to be precisely located, such as through GPS coordinates on a mobile app.
     
-2.  What Are Mattel’s Privacy Practices for Consumers 13 and Older?
-
-a. What Personal Contact Information Is Collected from Consumers 13 and Older?  
-
-b. What Information Is Collected When I Shop Online, Download Apps or Use a Wireless Service?  
-
-5.  Can I Post or Upload Content at Mattel Websites?
-6.  Does Mattel Collect Information Automatically or through Technology, Like Cookies and Pixel Tags, and What Choices Do I Have?
-7.  What Does Mattel Do With The Information It Collects?
-8.  How Can I Update or Change My Preferences About How Mattel Contacts Me?
-9.  Can I Manage App Activities?
-10.  Does Mattel Share Information About Me With Others?
-11.  Can I Link to the Internet from Your Websites and Apps?
-12.  What Security Measures Does Mattel Take to Safeguard Personal Information?
-13.  Will My Information Be Transferred to Another Country?
-14.  How Will I Know If You’ve Updated Your Privacy Statement?
-15.  What are My California Privacy Rights?
-16.  Who Can I Contact with Questions?
-
-  
-A SPECIAL NOTE FOR PARENTS AND LEGAL GUARDIANS:
-
-Mattel adheres to the Children's Online Privacy Protection Act of 1998 (COPPA) and the guidelines of the Children's Advertising Review Unit (CARU) of the Council of Better Business Bureaus, Inc. in our websites, online services and apps directed to children under 13. Wherever we refer to “children” or a “child” in this Privacy Statement we mean children under 13. Please help us protect your child's privacy by instructing them never to provide personal information (like their full name, e-mail address, home address, telephone number, etc.) without your permission.
-
-  
-A SPECIAL NOTE TO KIDS:
-
-If you are under 13, you should get your parent's or legal guardian's permission before giving out your contact information, like e-mail address or phone number, or any other personal information, to Mattel or to anyone else.
-
-  
-1\. What Are Mattel’s Children’s Privacy Practices?
-
-At our websites, online services or apps directed to children under 13, we do not collect personal contact information (like full name, e-mail address, phone number or home address) without consent of a parent or legal guardian except in special, limited circumstances described below. We do not ask for more information than is necessary for a child to participate in the activity. We take steps to prevent children from posting or publicly disclosing personal contact information, like name, phone number or e-mail address, online, without parental consent.
-
-  
-a. What Information Does Mattel Collect from Children Under 13 and How Is It Used?
-
-To participate in special activities, like scavenger hunts, personalized pages, games or clubs, we might ask your child to "register." They can often do so anonymously by just providing a first name or user name, and password. When we ask for your child's first name, we encourage them to use a "screen name" (not their real name) that only they know. Sometimes we will ask your child to make up a special password so that only they can see their customized areas on the Site. We use technology, like cookies, to recognize visitors by their anonymous user name when they revisit our Site and to screen for age in accordance with COPPA. We may also use technology for similar purposes in our Apps.
-
-We may sometimes need a child’s e-mail address and/or your e-mail address. We may ask a child for your e-mail address so we can notify you of your child’s interest in our Site. If we need more than just your child's first name (or screen name) and e-mail address for your child to participate in a particular online activity or App, we will ask your child for your e-mail or mailing address so that we can notify you of your child's request and get your permission. When we ask for your permission, we will tell you what we will do with the information you or your child provides us, and how you can review your child's information and ask us to delete the information. With your verifiable consent, we may collect other personal information from your child such as a last name or home address when the information is necessary for a particular activity.
-
-We don't keep your (or your child's) e-mail address unless you tell us it is okay. If social networking opportunities are available at our children’s websites, they are structured so that no personal information is shared between visitors or verifiable parental consent is obtained.
-
-Mattel might collect an e-mail address and first name (or screen name) from your child under 13 without your consent, but only in the following special cases:
-
-*   If a child sends a request to us, we keep their e-mail address for long enough to respond to them. Mattel deletes this information from our system after we answer their question. In the case of “send a friend” e-mails, we do not ask for your child’s e-mail address and only use the friends’ e-mail address to send the message.
-*   If a child signs up for an e-mail newsletter or other activity that requires multiple online contacts with the child, we also ask the child for a parent's or legal guardian's e-mail address so we can notify you and give you an opportunity to opt out.
-*   Occasionally, Mattel has special activities or promotions, like sweepstakes or contests, that are open to children. We ask your child to give us your e-mail address, too, so that we can tell you that they have registered in a promotion or for a service. If we need more than an e-mail address and first name (or screen name) to enter your child in the promotion, award a prize, or offer the service, we will notify you, explain what information we need and why, and generally ask that you (not your child) provide it. For instance, we might ask you for your mailing address so that we can send to you, for your child, any prizes your child wins, or for your phone number so that we can tell you when your child has won. Any information you or your child give us in the above special circumstances will be deleted from our database once the promotion, program or activity is concluded, and after any legally required period for keeping such information is complete.
-
-We may offer enhanced services which require a parent to register and establish the appropriate permission level for the child. Content and activities available may vary depending on the subscription and Site. Parents will be provided with information on the type of content and activities their child may access at the time they subscribe and are always in charge of their child's account. Subscription fees may apply for some services.
-
-We may ask for certain non-personal information that helps us understand our visitors, like city and state, birthdate, gender, hobbies, etc.
-
-We also use technology to facilitate the ability to play games, to recognize returning visitors, for research, and for other purposes, including to screen under-age visitors from certain features or areas intended for older visitors, and collect certain information automatically. Read more We require our advertising service partners to comply with self-regulatory guidelines on targeted advertising. Mattel does not permit interest-based advertising on Sites directed to children under 13 or where we have actual knowledge that a child is under 13. Read more
-
-  
-b. Can My Child Access the Web Through Your Sites or Apps?
-
-Your child can navigate to the Internet through most of our Sites, services and Apps. Apps must typically be downloaded from an app store. Your computer or mobile device may enable you to restrict the ability of your child to visit other areas and to make purchases online or through Apps.
-
-App stores generally require the adult mobile device owner to register to download or make purchases. Some Apps may offer options to visit an online store to make a product purchase.
-
-We encourage you to spend time with your children when they are online or using any mobile device so you understand the Sites, activities and Apps they are engaged in, and to adopt available device and browser controls that reflect your preferences about your child’s ability to access the Internet or make purchases online.
-
-  
-c. Can I Access, Update and Review Information You Have About My Child?
-
-If you no longer wish your child to participate in an e-mail newsletter, simply click on the link that is provided for removal or contact us at Service@mattel.com for Mattel or Fisher-Price, or Service@americangirl.com for American Girl. Upon proper identification, parents or legal guardians may review the personal information we have collected about their child, update their child’s contact details, request deletion, or refuse to allow further collection or use of the information. Click here to print a copy of our Children’s Personal Information Access Request, fill it out completely and mail it to the address indicated on the form.
-
-However, if you ask us to delete your child's information, your child may not be able to participate in online or app activities.
-
-  
-2\. What Are Mattel’s Privacy Practices for Consumers 13 Or Older?
-
-You do not have to share any personal information (like full name, e-mail address, home address, telephone number, etc.) to view our websites or Apps, but most of our Sites for adults, like our collector and e-commerce Sites, contain special sections and privileges for members who register. (App stores are run by third parties and may require that you register to download or purchase an App.) We may also collect information from you offline, such as when you order a catalogue, participate in a sweepstakes or contest, or make a purchase at one of our stores. We may obtain customer lists, demographic and other information about you from commercial sources.
-
-We also use technology to collect certain information automatically, like your IP address or unique device identifier (“UDID”), international mobile equipment identity (“IMEI”), mobile equipment identifier (“MEID”) or media access control “MAC”) address. computer operating system (e.g., Microsoft Windows, Mac OS). your browser (e.g., Internet Explorer, Firefox). websites visited before or after you visit our Site. pages viewed and activities at our Site. and advertisements shown or clicked on. Read more
-
-On Sites for adults, we may combine all information we have collected to better understand your needs, improve our Sites, products and services, manage content and advertising, send you offers and information, and better serve you. We may offer parents the opportunity to manage their child’s registration and activities, and to receive reports, messages and product recommendations related to their child’s activities at our Sites or Apps.
-
-  
-a. What Personal Contact Information Does Mattel Collect from Consumers 13 and Older?
-
-We do not collect any personal contact information from you or your teenager when you visit our Sites unless it is voluntarily provided, for instance when signing a guest book, registering for contests, sweepstakes, community areas, downloads, or free demos, completing our online customer surveys or purchasing products. The personal information we ask for is usually first and last name, mailing address, phone number and an e-mail address. We may offer you the ability to receive information via SMS or MMS. by providing your mobile phone or similar number you are agreeing to receive information on your mobile device. Please note that your service provider may impose fees to send or receive messages. We may also ask you to help us understand your interests by providing demographic information, like age, gender, or ZIP code, or information on hobbies and interests. You may be able to submit a resume and apply for a job at some of our corporate Sites.
-
-  
-b. What Information Does Mattel Collect When I Shop Online, Download Apps or Use a Wireless Service?
-
-_**Mattel Online Stores.**_  
-We may offer opportunities to purchase products in our e-stores or through other media or business partners. Customers must be over the age of 18 with a valid credit card to purchase. In addition, only a parent or guardian can register children under age 13 to participate in enhanced subscription services or certain community features at our websites. Some Sites allow visitors to create a Wish List.
-
-When a customer puts an item in a shopping cart, places an order or requests a catalogue online, we collect information associated with the transaction, including the customer's name, mailing address, products ordered, shipping address, and credit card information, as well as ship-to information if products are intended for a third party. Customers have the option of registering certain information for future orders while completing their online order. For the customers who choose to register, we will capture their login name, password, name and mailing address, billing address, alternate ship-to addresses, and credit card information. Enhanced subscription services at some of our websites may be available to you on behalf of your child for a monthly or other fee. To register your child, we will ask you to provide your child's screen or user name and password in addition to your contact details and credit card information so we can assist you in managing your child's account. We may also offer you the option to be billed automatically for subscription service fees. If you elect to automatically renew a subscription, we or our trusted service providers will retain your registration information, including your credit card information, so we can process your request.
-
-When registered customers return to the Site to place subsequent orders, they can identify themselves with their login name and password. If a customer provides a child's birth date and e-mail address, this information will only be used to help us provide products and services that meet customer needs.
-
-When a customer places an order online, we will send a confirming e-mail message. We may also send an occasional e-mail featuring a special promotion or product that may be of interest to customers. Any customer who prefers not to receive an online order confirmation or promotional e-mail should indicate this preference on the online store order form. If you do receive a commercial e-mail from us that you would rather not receive, simply follow the "unsubscribe" instructions included in the e-mail.
-
-_**Third-party Vendors.**_  
-When a visitor places an order or registers on a site where transactions are handled by a third-party vendor, those transactions are conducted through the vendor's website. You should be sure to review the vendor's website terms and conditions and privacy policy before submitting any personal information or engaging in any transactions through any third-party website, as we are not responsible for any transactions made through third-party websites, or for any content, terms and conditions, or privacy policies of such third-party websites.
-
-_**Apps and App Stores.**_  
-We offer a variety of fun and engaging apps featuring our brands, but when you download or purchase an App, or make an in-app purchase, you do so through a third party mobile application online store. You may be required to register with the mobile app store and be logged on before you can download or purchase an App or make in-app purchase of another product using the App. When downloading an App, or using an App with on-line features through your mobile platform, the app provider will typically also collect certain device and app-related information. Mattel does not control the requirements or policies of app stores. you should review the privacy policy and terms of use of the mobile app stores before downloading or using any App, and check your device settings for control options.
-
-With Apps, you may be able to:
-
-*   Manage push notifications by using your built-in mobile device settings and controls;
-*   Manage location information by using your built-in mobile device settings and controls;
-*   Manage/restrict in-app purchases by using your built-in mobile device settings and controls;
-*   Block navigation to the web by turning off network access on the device or turning off the browser.
-
-Access to or availability of controls may vary depending on your device.
-
-_**Wireless Services.**_  
-Mattel may offer visitors the opportunity to register to receive offers, information and updates, participate in a contest or sweepstakes, or engage in other activities via text messaging or other wireless service. To register, visitors may be required to provide a wireless phone number, the name of their carrier, type of device, wireless e-mail address, or other information. Visitors must meet age and eligibility criteria to participate and must opt in to receive messages by sending a code, word, symbol or other information via a text message as directed in an offer by Mattel, or submitting a wireless phone number online at a registration area.
-
-To receive wireless services, visitors must confirm their understanding that they will be charged by their carrier to send and receive messages according to their applicable service plan. They may be asked to reconfirm such agreement. Standard messaging rates will apply unless otherwise indicated. if premium rates apply, visitors will be notified before registration. Mattel shall under no circumstances be responsible for any charges incurred by any visitor or anyone with access to such visitor’s device or account related to use of any wireless messaging services offered by Mattel.
-
-3\. Can I Post or Upload Content at Mattel Websites?
-
-Some of our Sites offer the opportunity for visitors to post or upload reviews, comments, videos or pictures, or engage in interactive features. Registration may be required. If social networking opportunities are available at our children’s websites, they are structured so that no personal information is shared between visitors or verifiable parental consent is obtained. Special rules may apply to social networking activities, so be sure to review any additional posted rules carefully, as well as our Terms and Conditions.
-
-  
-4\. What Information is Collected through Technology, Like Cookies and Pixel Tags, and What Choices Do I Have?
-
-Mattel and its agents or service providers or business partners may receive and store certain information automatically whenever you visit our Site, use an online service or download or use a mobile App. This may include information on your browser type and operating system, the pages that you view, referring sites (sites you visited before you came to our site and sites you go to after you visit our site), IP addresses, which is the automatic number assigned to your computer by your Internet Service Provider (ISP) when you surf the Web, or other unique device identifiers (UDID) associated with mobile devices, smart phones, etc. These device identifiers allow us to count the total number of "hits" on our Sites or installation and frequency of use of our Apps.
-
-We collect certain information using technology, like cookies and pixel tags. We may also use “Flash” cookies in connection with some games or other content to store game and activity progress for the Flash player or to store bandwidth information for the performance of the Flash player. The information stored in any Flash cookie deployed on this Site does not include your name.
-
-Third party analytics and advertising networks also use cookies, web beacons, pixel tags, clear GIFs and other technology to collect certain information automatically. Advertising networks may use this information to serve you targeted ads for products and services that, based on your activities, are likely to be of interest to you (“interest-based advertising”). Mattel does not permit interest-based advertising on Sites directed to children under 13 or where we have actual knowledge that a child is under 13.
-
-Other business partners, like social media sites, may also use cookies and similar technology to collect certain information about your visits to our Sites through social media plug-ins. You may have the option to log in to one of our websites using your social media user name and password. if so, the social media operator (e.g., Facebook, YouTube, Twitter, etc.) may be able to link your activities at our Site to your registration information.
-
-Find out more about these technologies and how you can control their use below.
-
-_**Cookies**_  
-A "cookie" is a small file that is saved on your computer or mobile device that contains non-personal or de-identified information. Cookies help improve your user experience, and allow us to analyze our websites and apps and manage our advertising.
-
-Our cookies help to give you faster access to pages you have already visited. they allow you to personalize your pages and us to customize our offerings. and they help you to participate in some activities or events on our Sites. For instance, some of our Sites have scavenger or treasure hunts, and we need to use cookies to keep track of your progress. If you leave our Site and then return, cookies will tell us what things you have already collected so that you do not have to start all over again. Cookies keep track of items in your shopping cart and wish list in our online stores, and may be used to help you engage in other activities, like comparison shopping.
-
-We also use cookies to help us figure out how many people visit our Sites, which of our Web pages they stop at and how long they stay there. This information helps us figure out which of our Web features are successes and what Sites might need improvement. For administrative purposes, we collect IP addresses, which is the automatic number assigned to your computer when you surf the Web. Certain Internet Service Providers may assign the same IP address to many users. The IP address allows us to count the total number of "hits" on our sites. Your IP address and cookies are not connected to any personally identifiable or online contact information, like a name or email address, unless you register or order at our online stores. however, if you register at our online stores, all information we collect will be associated with your customer file.
-
-You can set your computer to warn you each time a cookie is being sent or turn off all cookies (except Flash cookies) through your browser (e.g., Internet Explorer or Safari). Check your browser's Help menu or your built-in mobile device settings to find out how. Some mobile devices store cookies not only in areas connected to the browser, but also in areas that are app-specific so these cookies cannot be controlled by the browser settings. Check your app settings options on your mobile device to find out how to manage or delete cookies that may be stored in these other areas.
-
-Please note that if you do not accept cookies, some features or activities may not be available to you.
-
-_**Flash cookies**_  
-Flash cookies, also known as local shared objects (“LSOs”), are built for use with Adobe® Flash® Player. LSOs act like cookies in that they store information to provide you with a more customized experience, but LSOs can store complex data that cookies cannot, and LSOs are not deleted or rejected if you set your browser to delete or reject cookies. The information stored in any LSO deployed by this Site does not include your name. Although browser settings will not allow you to manage LSOs, you may be able to manage them in other ways. To find out more about how to manage or delete LSOs, visit http://www.adobe.com/products/flashplayer/articles/lso/
-
-_**Web Beacons, Pixel tags or clear GIFs**_  
-We also use other technology, called web beacons, pixel tags or clear GIFs, to provide us with other important anonymous information, such as when an e-mail has been opened. Companies that advertise on our Sites may also place web beacons in their ads to help develop statistics on the effectiveness of advertising at our sites. We do not control web beacons in third party ads.
-
-_**Apps**_  
-When downloading an App (or using an App that relies on online features made available through your mobile platform), the app store will collect certain device and app-related information. Mattel does not control the data collection or privacy practices of those stores. You should review the privacy policy and terms of use of any mobile application store before downloading or using an App and review and use available controls and settings on your device to reflect your preferences.
-
-_**Location information**_  
-For some Apps or services, we or our third-party service and content providers and analytics companies may collect location information, including location information provided either by a mobile device interacting with one of our Apps or associated with your IP address or WiFi network. These features might enable you to engage in activities like find a nearby store with one of our products or play certain games, for example. You can generally limit or prohibit the collection of location information by using the built-in settings on your mobile device. You will typically be notified if the App or service collects location information and given a chance to agree. We do not permit collection of precise location information (actual address) in mobile Apps without your consent. Child-directed Apps do not collect precise location information.
-
-_**Website and Mobile App Analytics**_  
-We or our agents and service partners may use cookies and web beacons to analyze the effectiveness of our Sites, services and Apps. This typically involves collecting your IP address or UDID and information on your activities, like the sites you visit or frequency of use of an App. We require these providers to commit to maintaining the anonymity of this information. You may be able to opt out of data collection or use by some third party analytics companies who work with us. Contact us if you would like information on our third party analytics service providers.
-
-_**Targeted Advertising**_  
-Mattel may work with third party online or mobile network advertisers who use cookies, pixels, or transparent GIF files to help us manage advertising at our Sites or Apps intended for adults, and measure its effectiveness. This includes our collector Sites and online stores. These GIF files enable these third party network advertisers to recognize a unique cookie on your Web browser or mobile device. This in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with our third party network advertisers. The information that we collect and share in this fashion is de-identified and not personally identifiable. It does not contain your name, address, telephone number, or email address. However, it may tell us or them what other sites you have visited that are associated with the network advertiser. This information may be used for the purpose of targeting advertisements on this and other sites based on those interests, and to learn which ads bring users to our websites.  
-  
-We support the cross-industry Self-Regulatory Program for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). As part of this service, our online advertisements and Web sites are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control. For more information about our network advertisers, including information about how to opt out of technologies that they control, please follow the directions on the AdChoices icon within any behavior based advertisement. You can also visit websites operated by the Network Advertising Initiative and Digital Advertising Alliance to access opt-out tools available from those participating in the program. Participating network advertisers will be listed at those sites. Opting out means that you will still see ads, but they may not be tailored to your specific interests.  
-  
-**Please note:** your opt-out choices are browser-specific and device-specific.
-
-_**Social Media Platforms and Plugins**_  
-If you are a member of a social media network, like Facebook, a cookie may be sent to that network when you access a page of our website or an app that links to their website through a plugin (such as Facebook “Like” or Google “+1” buttons), register or log into your account at their platform, or use your social media user name and password to log into our Site where you have the option to do so. That may enable them and us to link your activities with your personal registration information at their site, and may include notifying your friends or connections about your activities at our Site, and using tracking technologies to monitor your online activities in order to serve targeted ads. The social media networks' privacy policy and terms apply to your use of their platforms. Your browser or device may allow you to block these technologies but you should visit the third party website and review their privacy policy and your registration profile or account to find out your options.
-
-  
-5\. What Does Mattel Do With The Information It Collects?
-
-We use the personal information we collect for the purposes indicated at the time you or your teenager or child (with your consent) provides such information. For instance, if you register in a contest, we will use the registration information to notify contest winners. if you purchase a product, we will use the information to fulfill the order. If you shop online at one of our stores, you will automatically receive a catalogue unless you opt out. We share your catalogue mailing address (but not your e-mail address) with carefully selected companies whose products or services may be of interest. Occasionally, and only with consent at the time we ask for information, we might also e-mail or mail you or your teenager or your child to provide information on upcoming Mattel products, website updates and promotions. We may also share information with other Mattel brands and Mattel family companies so that they can let you and your family know about products that might be of interest. Information that we or our agents or service providers collect using technology is used to help us understand our visitors, improve our products and services, manage our content and advertising, fulfill requests, measure the effectiveness or our advertising, maintain Site security, and protect intellectual property.
-
-  
-6\. How Can I Update or Change My Preferences About How Mattel Contacts Me?
-
-If you want to stop receiving promotional updates or product information at any time, or would like to update your contact information, just contact us here. Our mailings and e-mail will also include information on how to opt-out in the future. E-mail opt-out requests will be processed in 10 business days. Mailing opt-out requests may take longer.
-
-  
-7\. Can I Manage App Activities?
+*   **Login information.** Information to identify and validate a user to allow access to a Mattel Service. For _children_, this is usually a user name and password. For adults, this is usually a password plus some _personal contact information_, like an email address.
+    
+*   **Order information.** Information provided to purchase a product or _Mattel Service_, including details necessary to fulfill the transaction, such as products ordered, _payment information_, and _personal contact information_.
+    
+*   **Payment information.** Credit card numbers or other financial institution-issued information provided to complete a transaction, including (as applicable) _personal contact information_.
+    
+*   **Personal information.** Information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, address, email address, device identifier, telephone number, or assigned identifier. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information.
+    
+    *   For _children_, _personal information_ also includes photos, video, and audio of the _child_.
+        
+*   **Personal contact information.** Information that allows us to contact you directly, such as your full name, email address, home address, telephone number, mobile number, etc.
+    
+*   **Survey information.** Answers to surveys or questionnaires voluntarily provided.
+    
+*   **Social sign-on information.** _Login information_ and other information (such as friend lists) from a social network that a user chooses to share with Mattel to access a _Mattel Service_ or _Mattel Site_.
+    
+*   **Third-party–provided information.** Data shared with the _Mattel family of companies_ through a _third party_.
+    
+*   **User-generated content.** Information you post or upload, like reviews, comments, videos or pictures, or social media interactions. Read more at _User-Generated Content._
+    
+
+**Interest-based advertising.** Targeted ads for products and services that, based on your activities, are likely to be of interest to you.
+
+**Mattel family of companies.** When we refer to the Mattel family of companies in this statement, we mean:
+
+*   Mattel, Inc.,
+    
+*   Fisher-Price, Inc.,
+    
+*   Fuhu/Nabi Brands,
+    
+*   American Girl Brands, LLC,
+    
+*   HIT Entertainment Limited, and
+    
+*   Mega Brands Inc.
+    
+
+**Mattel Sites.** Websites offered by the _Mattel family of companies_. _See Mattel Services_.
+
+**Mattel Services.** All online services offered by the _Mattel family of companies_, including websites (_Mattel Sites_), apps, and connected products. Read more at Mattel Services.
+
+**Third party.** A company unrelated to the _Mattel family of companies_, including third-party sites that we link to, or third parties that operate online stores or mobile app stores. Read more at Third-PartyPartners and Third-Party Technology Partners.
+
+*   **Third-party partner or third-party service provider.** A _third party_ that Mattel has engaged to help it provide _Mattel Services_, including agents, vendors, service providers, and others.
+    
+
+**Third-party technology partners.** Third parties whose technologies we use to offer content, understand our users, and deliver advertising.
+
+Mattel Services
+
+_Mattel Services_ are online services offered by the _Mattel family of companies_, including:
+
+*   _Mattel Sites_,
+    
+*   Online Stores,
+    
+*   Enhanced _Mattel Services_
+    
+*   Apps, and
+    
+*   Connected products. Check specific connected product FAQS for info on features, who’s responsible for privacy, and what information is collected.
+    
+
+You may have to interface with a _third party_ to make a purchase, download an app, or use a connected product. 
+
+You may have the opportunity to connect an app or connected product through a wireless service.  
+ 
+
+**Mattel Sites**
+
+We offer _Mattel Sites_ that feature games, information, shopping, and other interactive and static activities from the _Mattel family of companies_.
+
+*   Some _Mattel Sites_ or areas of sites are intended for _children_, and some are intended for adults. Learn more about sites for _children_ and specific practices for them at our CHILDREN’S PRIVACY STATEMENT.
+    
+*   You do not have to share any _personal contact information_ to use most _Mattel Sites_, but most _Mattel Sites_ for adults and teens contain special sections and privileges for members who register.
+    
+
+**Online Stores**
+
+We offer opportunities to purchase products in our online stores, apps, or through other media or business partners. Online stores are often part of a larger _Mattel Site_.
+
+*   Customers must be over the age of 18 with a valid payment method to make a purchase. 
+    
+*   When a customer places an order online, we will send a confirming email message. 
+    
+    *   We may also send an occasional email featuring a special promotion or product that may be of interest to customers. 
+        
+    *   Any customer who prefers not to receive an online order confirmation or promotional email may indicate this preference on the online store order form. 
+        
+    *   If you do receive marketing or promotional emails from us that you would rather not receive, simply follow the “unsubscribe” instructions included in each message.
+        
+    *   You can also change your communication preferences in MATTEL COMMUNICATIONS PREFERENCES (except for American Girl) or in AMERICAN GIRL COMMUNICATIONS PREFERENCES (for American Girl only).
+        
+    *   Please note that a request to unsubscribe from marketing or promotional emails will not affect transactional emails (such as those related to a purchase, paid subscription, or product registration).
+        
+
+**Enhanced Mattel Services**
+
+*   Enhanced _Mattel Services_ may be available to you or on behalf of your _child_ for a monthly or other fee with some _Mattel Services_. 
+    
+    *   Only a parent or guardian can register _children_ to participate in enhanced subscription _Mattel Services_ or certain community features at _Mattel Services_. 
+        
+    *   To register your _child_, we will ask you to provide your _login information_ in addition to your contact details and credit card _information_. 
+        
+    *   We may offer you the option to be billed automatically for subscription service fees. 
+        
+    *   If you elect to automatically renew a subscription, we or our trusted _third-party partners_ will retain your registration _information_, including your credit card _information_, so we can process your request.
+        
+
+**Apps** 
+
+We offer a variety of fun and engaging apps featuring our brands. In some cases, apps may be available through a Mattel Online Store, but most often when you download or purchase an app, or make an in-app purchase, you do so through a third-party mobile application online store. Visit LINKS AND THIRD PARTIES for more information.
+
+**Please note:** Use of apps may be subject to an End-User License Agreement (EULA) in addition to our standard MATTEL TERMS AND CONDITIONS.
+
+**Connected Products**
+
+Mattel offers parents and _children_ a variety of products that connect to the internet. We sometimes work with _third-party partners_ to offer connected products.
+
+*   Some connected products, like connected baby monitors, are purely for parents’ use. 
+    
+*   Use of connected products typically requires downloading an associated app. 
+    
+*   Privacy practices for some connected products are the responsibility of a _third party_.  
+    
+*   We provide FAQS and other information to help you understand specific connected product features (for example, whether they collect voice or visual data), who’s responsible for privacy, and what _information_ we collect. 
+    
+
+**Wireless Services**
+
+We may communicate with you on your mobile device. To receive _Mattel Services_ through a wireless connection, visitors must provide their consent and confirm their understanding that they will be charged by their carrier to send and receive messages according to their applicable service plan. You may be asked to reconfirm such agreement. 
+
+*   Standard messaging rates will apply unless otherwise indicated. if premium rates apply, visitors will be notified before registration. 
+    
+*   Mattel is not responsible for wireless service charges, such as messaging fees, associated with accessing or connecting to _Mattel Services_
+    
+
+What Information Do We Collect?
+
+*   We collect _information_ to allow you to register to use a _Mattel Service_. _Login information_ is often all we need to register you.
+    
+*   We collect _personal contact information_.
+    
+*   We collect other _personal information_ about you, such as _interest or demographic information_, etc.
+    
+*   We collect _user-generated content_ where a _Mattel Service_ gives you that option.
+    
+*   We collect _device information_, _automatically collected information_, and _information_ that helps you access _Mattel Services_ (such as _login information_, Wi-Fi network name, etc.).
+    
+
+We collect _information_ from you and about you to provide you with _Mattel Services_. The _information_ we collect depends on the specific _Mattel Services_ involved.
+
+We May Collect from You:
+
+*   _Login information_.
+    
+*   _Personal contact information_.
+    
+*   _Automatically collected information_.
+    
+*   _Social sign-on information_.
+    
+*   _Order information_.
+    
+*   _Payment information_.
+    
+*   A ship-to name and address when you make a purchase and ask us to send it to you or to someone else.
+    
+*   _Location information_.
+    
+*   The email addresses, user names, or other _information_ about friends to whom you wish to send an e-card or invite to participate in an offering on _Mattel Services_.
+    
+*   _Information_ about your _child_ (such as your _child_’s _personal information_ and _personal contact information_, including _interest or demographic information_).
+    
+*   _Information_ that allows us to confirm that you are the parent or legal guardian of your _child_, including your age.
+    
+*   _User-generated content_.
+    
+*   Wi-Fi network name.
+    
+*   _Survey information_.
+    
+
+When Do We Collect Information?
+
+We collect _information_: 
+
+*   that you share voluntarily;
+    
+*   to fulfill a transaction. and
+    
+*   automatically. 
+    
+
+Please visit ABOUT COOKIES AND TECHNOLOGIES for more information on technologies used to collect your information automatically.
+
+**We Collect Information That You Share Voluntarily**
+
+You can use many of our _Mattel Services_ without sharing any _personal contact information_. If you choose, you can share _personal contact information_, _personal information_, _login information_, _interest or demographic information_, or _survey information_ about you or your _child_ with us when you:
+
+*   Register with a _Mattel Service_.
+    
+*   Play a game.
+    
+*   Use an interactive activity.
+    
+*   Make a purchase at one of our online stores (see WE COLLECT ORDER INFORMATION).
+    
+*   Order a catalogue.
+    
+*   Enter a sweepstakes or contest.
+    
+*   Sign up to receive information and offers.
+    
+*   Apply for a job online.
+    
+*   Respond to a survey or questionnaire.
+    
+*   Post _user-generated content_. Special rules apply. read more at USER-GENERATED CONTENT.
+    
+
+**We Collect Order Information**
+
+When a customer puts an item in a shopping cart, places an order or requests a catalogue online, we collect _order information_ associated with the transaction. This may include _personal information_ about your _child_.
+
+Customers may register when they place orders to conveniently complete an order and place future orders. When registered customers return to the Site to place subsequent orders, they can identify themselves with their _login information_.
+
+**We Collect Information Automatically When You Access a Mattel Service**
+
+We collect some _automatically collected information_, including _device information_, to provide you with appropriate _Mattel Services_ or _Mattel Sites_ (for example, in your language) when you use or visit them.
+
+Why Do We Collect Information?
+
+We collect _information_ from you to serve your needs, manage our content and advertising, operate efficiently, and improve _Mattel Services_ and products.
+
+*   We collect _information_ to do what you ask us to.
+    
+*   We collect _information_ to provide you information on _Mattel Services_ and products that you or your _child_ may be interested in.
+    
+*   We collect _information_ to support _Mattel Services_ and operations.
+    
+*   We collect _information_ to improve _Mattel Services_.
+    
+*   We collect _information_ to improve our products.
+    
+*   We collect _information_ to offer you content.
+    
+*   We collect _information_ to advertise to you.
+    
+*   We collect _information_ to maintain security.
+    
+*   We collect _information_ to protect our legal rights and the legal rights of others.
+    
+
+We collect information:
+
+*   To provide you with _Mattel Services_. 
+    
+*   To respond to your requests.
+    
+*   To verify you or your _child_’s age.
+    
+*   To complete a transaction.
+    
+*   To fulfill a transaction.
+    
+*   To confirm your order.
+    
+*   To give you updates about your order status.
+    
+*   To fulfill your free or paid subscriptions.
+    
+*   To notify winners in contests and sweepstakes.
+    
+*   To send you recommendations on _Mattel Services_ of interest to you or your _children_.
+    
+*   To send you recommendations on products of interest to you or your _children_.
+    
+*   To send you marketing communications.
+    
+*   To send you catalogues.
+    
+*   To offer _interest-based advertising_.
+    
+*   To analyze and measure the effectiveness of our advertising.
+    
+*   To support _Mattel Services_.
+    
+*   To understand our visitors.
+    
+*   To improve our products.
+    
+*   To improve _Mattel Services_.
+    
+*   To develop new products. 
+    
+*   To develop new _Mattel Services_.
+    
+*   To maintain the security, integrity, and quality of our products and _Mattel Services_. 
+    
+*   To protect intellectual property.
+    
+*   To protect our legal rights.
+    
+*   To protect the legal rights of others.
+    
+
+We may work with _third-party partners_, including _third-party technology partners_, for some or all of these purposes. You can learn about some of these _third parties_ by visiting ABOUT COOKIES AND TECHNOLOGIES.
+
+We may combine all _information_ we have collected to better understand your needs, improve _Mattel Services_ and operations, manage content and advertising, send you offers and information, and better serve you.
+
+If under the laws of your region we need to get your consent to collect the _information_ for a particular purpose, we will do so at the time we collect the _information_.
+
+Information From Other Sources
+
+We sometimes get _third-party–provided information_ about you and combine it with other _personal information_ that we’ve collected.
+
+We may collect authentication _information_.
+
+**We Collect Information from Other Sources**
+
+We might get _third-party–provided information_ about you from commercial sources. We may combine that _information_ with other _personal information_ about you that we’ve collected.
+
+We may also collect authentication _information_ (for example, to verify that you are an authorized credit card holder).
+
+Sharing Your Information
+
+We may share _information_ as follows:
+
+*   We share _information_ we obtain within the _Mattel family of companies,_ and with our _third-party partners_.
+    
+*   We share some _personal contact information_ with third parties for marketing purposes with your consent.
+    
+*   As is customary with catalogue businesses, we share mailing addresses (but not email addresses) with other catalogue companies whose products and services may be of interest to you. Where required, we obtain your consent first. We give you the opportunity to opt out.
+    
+*   If you provide _social sign-on information_, Mattel shares _information_ with your social network.
+    
+*   We share _information_ about usage and interests that we obtain through cookies and technology with _third-party technology partners_, and obtain consent if required by applicable law. Find out more about Your Choices and Controls.
+    
+*   We share any _information_ (including _personal information_) we obtain as necessary to satisfy a legal request or subpoena, protect property or personal safety, when a Mattel business is bought or sold, or as otherwise permitted or required by law.
+    
+
+We share _information_ that we obtain within the _Mattel family of companies_, and with our _third-party partners_ for them to fulfill their tasks on our behalf.
+
+Except as described in this Privacy Statement, we do not share _personal contact information_ that we receive online from or about _children_ with other companies outside the _Mattel family of companies_ for their direct marketing purposes.
+
+**Sharing with Our Third-Party Partners**
+
+We may share your _information_ with a variety of _third-party partners_. They:
+
+*   Provide database and server maintenance and security.
+    
+*   Help us manage transactions.
+    
+*   Help us process and fulfill orders or requests.
+    
+*   Help us analyze our offerings.
+    
+
+They also provide other similar services to the _Mattel family of companies_. We require third-party partners that access _information_ to safeguard the _information_.
+
+**Sharing with Third Parties for Marketing Purposes**
+
+*   We share certain names and mailing addresses of catalogue recipients with _third parties_ whose catalogues may be of interest to you. Where required, we obtain your consent first. You can opt out at any time.
+    
+*   With your consent, Mattel shares _personal contact information_ with outside companies that offer products or services that may interest you.
+    
+*   We will remove your name from the list we provide to outside companies if you contact us. Please visit Mattel Communications Preferences (except for American Girl) or American Girl Communications Preferences (for American Girl only).
+    
+
+**Sharing with Social Networks**
+
+If you provide _social sign-on information_ to log in to a _Mattel Service_ or _Mattel Site_, _information_ is shared with your social network, such as the fact that you logged in to a Mattel Service or Mattel Site, or your activity on the _Mattel Service_ or _Mattel Site_. We may send messages via the social network to communicate with you.
+
+**Sharing with Third-Party Technology Partners**
+
+We share _information_ about usage and interests that we obtain through cookies and technology with _third-party technology partners_, and obtain consent if required by applicable law. Find out more at Your Choices and Controls.
+
+**Sharing to Protect Legal Rights and Fulfill Legal Obligations**
+
+If Mattel believes that anyone’s behavior in any _Mattel Service_ may damage us, _Mattel Services_, or any person or property, we may disclose _personal information_ to prevent such harm. In that case, we might try to identify the wrongdoer, contact them, or bring legal action against them.
+
+We may disclose _personal information_ if we believe that the disclosure is required or permitted by law, or in response to a legal request or subpoena.
+
+Links and Third Parties
+
+*   _Mattel Services_ may link to or use other content from the internet. We do not control the data collection practices or terms of use of any _third-party_ site. The _third party_’s privacy policy and terms of use apply to those sites.
+    
+*   Your computer or mobile device settings may allow you to block or partially block other content, but those settings may not be effective in all cases.
+    
+*   You may be able to order or register through a _third-party_ vendor. The _third party_’s privacy policy and terms of service apply to activity conducted with the third-party vendor.
+    
+*   We work with _third-party partners_ to offer _Mattel Services_.
+    
+
+**Other Sites We Link to**
+
+_Mattel Services_ may connect with other content from the internet that we do not control.
+
+*   We may link to social media sites or sites that sell our products.
+    
+*   We may link to other _third-party_ sites or services that we think you may find of interest.
+    
+*   We encourage you to carefully review the privacy policy and terms of use of the third-party providers, as they are not covered by this Privacy Statement, and Mattel is not responsible for them.
+    
+*   You may be able to alter settings on your browser, device, or other software to block those third parties. Sometimes those settings may not be effective.
+    
+
+**Third-Party Vendors**
+
+When you place an order or register on a _Mattel Service_ where transactions are handled by a third-party vendor (for example, PayPal), those transactions are conducted through the vendor’s website.
+
+*   You should be sure to review the _third party_’s website terms and conditions and privacy policy before submitting any _personal information_ or engaging in any transactions through the third-party site.
+    
+*   Mattel is not responsible for any transactions made with third parties, or for their content, terms and conditions, or privacy policies.
+    
+
+**Third-Party Partners and Third-Party Technology Partners**
+
+*   We work with _third-party partners_ to offer _Mattel Services_. We ask them to carefully handle _information_ that is entrusted to them.
+    
+*   We also work with _third-party technology partners_ to provide content, understand our users, and deliver advertising on our _Mattel Sites_ and on _third-party_ sites. Read more at About Cookies and Technologies, and find out about tools are available to help you control some of these technologies at the Third-Party Technology List and the Mobile Third-Party Technology List.
+    
+
+**Mobile App Stores**
+
+*   You may be required to register with and log onto a _third party_ mobile app store before you can download or purchase a Mattel app or make in-app purchases using a Mattel app.
+    
+*   When downloading a Mattel app, or using a Mattel app with online features through your mobile platform, the app provider will typically also collect certain device and app-related _information_. Mattel does not control the requirements or policies of app stores. you should review the privacy policy and terms of use of the mobile app stores before downloading or using any app and check your device settings for control options.
+    
+
+Your Choices and Controls
+
+**Your Choices**
+
+We respect your choices about receiving promotional offers and updates from us. You can change what communications you get from us in Mattel Communications Preferences or in American Girl Communications Preferences.
+
+You can make choices about your _personal information_ that Mattel has in the Mattel GDPR Choice Portal (except for American Girl) or the American Girl GDPR Choice Portal (for American Girl only). Parents can access their _children_’s _personal information_ and make choices about it using the Parental Access Form.
+
+**App Controls**
+
+Your device may allow you to block or manage push notifications, _location information_, in-app purchases, or ability to access the web.
+
+_Your Choices About Communications_
+
+If you want to stop receiving promotional updates or product information at any time, you can change your Mattel Communications Preferences or your American Girl Communications Preferences. Our mailings and email will also include information on how to opt out. Email opt-out requests will be processed in 10 business days. Postal mailing opt-out requests may take longer.
+
+_Your Choices and Control About Your Personal Information_
+
+If you want to access, update, or delete your _personal information_. withdraw your consent to our collection or use of your _personal information_. object to our processing of your _personal information_. or request a portable copy of your _personal information_, you can access the Mattel GDPR Choice Portal (except for American Girl) or the American Girl GDPR Choice Portal (for American Girl only). You can use these portals to make choices about information that Mattel has about you.
+
+_Parental Controls_
+
+Parents can access their children’s data and make choices about how Mattel uses that data, including updating or deleting the data, using the Parental Access Form.
+
+_App Controls_
 
 With apps, you may be able to:
 
-*   Manage push notifications by using your built-in mobile device settings and controls;
-*   Manage location information by using your built-in mobile device settings and controls;
-*   Manage/restrict in-app purchases by using your built-in mobile device settings and controls.
+*   Use your built-in mobile device settings and controls to:
+    
+    *   Manage push notifications.
+        
+    *   Manage _location information_.
+        
+    *   Manage or restrict in-app purchases.
+        
+    *   Manage camera, microphone, and photo reel, album, or gallery permissions.
+        
 *   Block navigation to the web by turning off network access on the device or turning off the browser.
+    
 
 Access to or availability of controls may vary depending on your device.
 
-  
-8\. Does Mattel Share Information About Me With Others?
+Children's Privacy
 
-We may share information within our family of companies, and with our agents and service providers. Except as described in this Privacy Statement, we never share personal information that we receive online from children under 13 with other companies outside the Mattel family of companies for their direct marketing purposes. We share names and mailing addresses of catalogue recipients with third parties whose catalogues may be of interest to you. You can opt out at any time. With your consent, Mattel shares teen and adult e-mail addresses with outside companies that offer products or services that may be of interest. We will remove your name from the list we provide to outside companies if you contact us at:  
-  
-For Mattel or Fisher-Price: Service@mattel.com or call us at 800-524-TOYS  
-  
-For American Girl: Service@americangirl.com or call us at 800-360-1861  
-  
-Third parties that provide database or server maintenance or security, manage transactions, help us process and fulfill orders or requests, assist us in analyzing our offerings, or provide other similar services to Mattel may access certain information. If we do provide access, we require those other companies to sign confidentiality agreements promising to keep secret any information they see. If Mattel believes that anyone's behavior on our Sites may damage us or our Sites or anyone else, we may disclose the relevant personal information to prevent this harm. In that case, we might try to identify the wrongdoer, contact them or bring legal action against them. We may also disclose personal information if we believe that the disclosure is required by law, or in response to a legal request.
+This section summarizes our Children’s Privacy Statement, which you can review for complete details.
+
+**A special note for parents and legal guardians**
+
+We take special steps to protect _children_ as defined in this Privacy Statement. Please help us protect your _children_’s privacy by teaching them never to provide _personal information_ without your permission.
+
+**Protecting children’s privacy**
+
+*   We do not collect _personal contact information_ from _children_ at _Mattel Services_ directed to _children_ without the consent of a parent or legal guardian, except in limited circumstances authorized by law.
+    
+*   We collect some _information_ (like IP address, mobile device UDID, operating system, etc.) automatically and use technology like cookies to provide functionality and support our operations. We obtain consent where required.
+    
+*   We do not ask for more _personal information_ than is necessary for a _child_ to participate in an activity.
+    
+*   We take steps to prevent _children_ from posting or publicly disclosing _personal information_.
+    
+*   We use monitoring and filtering technology in an effort to prevent _children_ from posting _personal information_ without parental consent at _Mattel Services_ directed to _children_.
+    
+*   We may require visitors to provide birthdate or geographic _location information_ before accessing a _Mattel Service_ or providing _personal information_.
+    
+
+**Parents can access and ask us to update or delete their _children_’s _information_ by using the Parental Access Form.**
+
+**For more _information_ on _children_’s privacy, please review our complete Children’s Privacy Statement.**
+
+User-Generated Content
+
+You may be able to post or upload _user-generated content_ on _Mattel Services_.
+
+Some _Mattel Services_ may offer you the opportunity to upload _user-generated content_.
+
+*   Not all _Mattel Services_ allow you to post _user-generated content_.
+    
+    *   Social sharing at _Mattel Services_ directed to _children_ are structured so that no _children_’s _personal contact information_ is shared between visitors unless parental consent is obtained.
+        
+    *   We do not access your device, camera, microphone, contact list, photos, videos, or audio files unless you consent.
+        
+    *   Some of our connected products will not be fully functional if you do not enable the camera or microphone.
+        
+*   Registration of the user, or of a parent on behalf of a _child_ for _child_\-directed _Mattel Services_, may be required to activate the _Mattel Service_ or access all features.
+    
+*   Special rules may apply to social networking activities. Be sure to carefully review any additional posted rules, as well as our Mattel Terms and Conditions.
+    
+
+Security
+
+We strive to maintain the security of _information_ but cannot guarantee that _information_ security measures are failure proof.
+
+We strive to protect the _information_ you provide to us when you use our _Mattel Services_ through commercially reasonable means.
+
+*   We and our agents and affiliates use encryption or other security measures to protect _payment information_ during transmission and adopt internal procedures to safeguard this _information_ in our systems.
+    
+*   We require our _third-party partners_ to follow industry-accepted best practices to safeguard _personal contact information_ and other _information_ they handle.
+    
+*   Please be aware that while we work hard to protect your _information_, no method is 100% secure.
+    
+*   We cannot guarantee security procedures of third parties.
+    
+*   We recommend that you learn about and use tools, habits, and practices to protect the security of you and your family. For example, we recommend that you use unique passwords that are hard for others to copy or guess.
+    
+
+International Data Transfers
+
+*   _Mattel Services_ and servers are governed by U.S. law, which may have different privacy requirements for your _information_ from where you live.
+    
+*   Our servers are in the United States and the United Kingdom. We may also use cloud services.
+    
+*   We use Standard Contractual Clauses for transferring _personal information_ from the European Economic Area (EEA) or Switzerland to non EEA-countries.
+    
+*   Your use of _Mattel Services_ is subject to the collection, transfer, processing, and use of data in accordance with this Privacy Statement.
+    
+*   Do not use _Mattel Services_ if you do not agree to this Privacy Statement.
+    
+
+_Mattel Services_, the servers that make _Mattel Services_ available, and databases where we house _information_ may be located in countries that may have privacy laws that differ from where you live.
+
+*   Servers for _Mattel Services_ are located in the United States and the United Kingdom. We may use cloud services whose servers may be anywhere in the world.
+    
+*   For users whose use of _Mattel Services_ results in the transfer of personal _information_ from the European Economic Area (EEA) or Switzerland to non-EEA countries, we rely on Standard Contractual Clauses.
+    
+*   By using _Mattel Services_, the transfer, collection, processing and use of data will occur as specified in this Privacy Statement, our Mattel Terms and Conditions, and any other terms provided at the time of collection.
+    
+*   If you do not consent to the transfer, collection, processing, or use of this data according to these terms, do not use the Services.
+    
+
+Updates to This Privacy Statement
+
+*   We will update this Privacy Statement from time to time by posting it here.
+    
+*   We will not change how we handle previously collected _information_ without providing notice. If applicable, we will also obtain your consent. 
+    
+
+We may update our Privacy Statement from time to time. When this happens, we will notify you of the new provisions by posting them on our _Mattel Sites._
+
+*   We will not make a material change in how we handle _personal information_ previously collected without notice and, as required, with consent. 
+    
+
+Your California Privacy Rights
+
+If you are a resident of California, you have certain rights. 
+
+Under California Civil Code § 1798.83, California residents have the right to receive, once a year, _information_ about _third parties_ with whom we have shared _information_ about you for their marketing purposes during the precious calendar year, and a description of the categories of _personal information_ shared. To make such a request, please complete and send us the Privacy Request Form. We will respond to you within 30 days of receiving such a request.
+
+Your European Privacy Rights
+
+If you are a citizen of a European Economic Area (EEA) Member State and you have questions about Mattel’s privacy practices, you can contact supervisory authorities in the EEA to share your concerns.
+
+If you are a citizen of a European Economic Area (EEA) Member State, you can exercise your rights under the General Data Protection Regulation (GDPR) by visiting the MATTEL GDPR CHOICE PORTAL or the AMERICAN GIRL GDPR CHOICE PORTAL. You can also contact supervisory authorities within the EEA, including in your own Member State, about concerns you have related to Mattel’s privacy practices. The lead supervisory authority for _Mattel Services_ offered in the EEA is the Dutch Data Protection Authority, the Autoriteit Persoonsgegevens.
+
+Do Not Track
+
+We do not take action to respond to do not track signals available on some browsers.
+
+Some web browsers may transmit “do not track” signals. Web browsers may incorporate or activate these features differently, making it unclear if users have consciously activated them. As a result, at this time we do not take steps to respond to such signals. You can manage your cookie preferences using your own browser settings to accept or block some or all cookies or receive notice so you can consent to cookies. If you block all cookies some features of _Mattel Sites_ may be unavailable to you.
+
+Certifications
+
+_Mattel Services_ that feature the following seals are certified by the respective organizations:
+
+*   Entertainment Software Rating Board Privacy Certified Program
+    
+*   kidSAFE Seal Program
+    
+
+_ESRB Privacy Certified Program_  
+Mattel is a valid licensee, and participating member in good standing of the ENTERTAINMENT SOFTWARE RATING BOARD’S PRIVACY CERTIFIED PROGRAM (“ESRB Privacy Certified”). ESRB Privacy Certified seals appear on the _Mattel Services_ that participate in the program. The ESRB’s Privacy Certified Program is designed to ensure that our _information_ disclosure practices are responsible and appropriate.   
+To help protect your privacy, we have voluntarily undertaken this privacy initiative and have had _Mattel Services_ where the ESRB Privacy Certified seal is posted reviewed and certified by ESRB Privacy Certified to meet established online _information_ collection, use, and disclosure practices. As a licensee of this privacy program, we are subject to audits of services and other enforcement and accountability mechanisms administered independently by the ESRB.  
+If you believe that we have not responded to your privacy-related inquiry about a _Mattel Service_ or _Mattel Site_ that bears an ESRB Privacy Certified seal or your inquiry about a _Mattel Service_ or _Mattel Site_ has not been satisfactorily addressed, please contact ESRB at http://www.esrb.org/privacy/contact.aspx or: 
+
+ESRB  
+Attn: Privacy Certified Program  
+420 Lexington Avenue, Suite 2240 New York, NY 10170  
+privacy@esrb.org
+
+ESRB is not affiliated with Mattel and cannot help you with non-privacy-related issues. 
+
+_Kidsafe Seal Program_  
+Some Mattel connected products bear the kidSAFE Seal. This means that the products and _Mattel Services_ that bear the kidSAFE Seal have been independently reviewed, certified, or listed by kidSAFE to meet certain standards of online safety or privacy, and that Mattel and any technology partner it has partnered with are authorized to display the kidSAFE Seal in connection with that product.  
+If you have an inquiry about a _Mattel Service_ or product that bears the kidSAFE Seal, please contact kidSAFE at https://www.proprofs.com/survey/t/?title=xs7un.  
+ 
+
+Contact Us With Your Questions
+
+We strive always to be transparent and clear about our policies. Please contact us if you have questions. 
+
+If you have any questions, please don’t hesitate to contact us! If you are a parent and you want to access your _child’_s information, please use the PARENTAL ACCESS FORM. If you would like to update or change your preferences in receiving marketing messages from us, please visit MATTEL COMMUNICATIONS PREFERENCES (except for American Girl) or AMERICAN GIRL COMMUNICATIONS PREFERENCES (for American Girl only). If you want to find what information Mattel has about you, or make choices about it, use the MATTEL GDPR CHOICE PORTAL  (except for American Girl) or the AMERICAN GIRL GDPR CHOICE PORTAL (for American Girl only).
 
   
-9\. Can I Link to the Internet from Your Websites and Apps?
+For Mattel, Fisher-Price, Fuhu/Nabi Brands, HIT Entertainment, and MEGA Brands:
 
-Mattel Sites or Apps may allow you to link to, access or use other content from the Internet, including content offered by third parties that we do not control. Some sites, services or apps may use cookies to personally identify you or link information to registration at their site, including some social networking sites. We encourage you to carefully review the privacy policy and terms of use of any website, online service or app that you visit, as Mattel is not responsible for the actions of these third parties. Your computer or mobile device settings may allow you to block or partially block web access, but we cannot guarantee that they will be effective in any or all cases.
+*   Mattel Consumer Services  
+    636 Giard Avenue  
+    East Aurora, NY 14052  
+    In the U.S. or Canada: 800-524-TOYS (800-524-8697)  
+      
+    email: service@mattel.com  
+    If you are located outside of the U.S. or Canada, please contact us here. 
+    
 
-  
-10\. What Security Measures Does Mattel Take to Safeguard Personal Information?
+For American Girl:
 
-We and our agents and affiliates use Secure Sockets Layer (SSL) technology to protect credit card data during transmission to our website, and adopt careful internal procedures to safeguard this information in our systems. We require our service providers and vendors to safeguard the privacy of any personal information they handle and to adhere to industry-accepted best practices to safeguard personal information. However, no method is 100% secure. While we strive to use commercially reasonable means to protect your information, we cannot guarantee its absolute security.  
-  
-When you create a password and log-in name, we recommend that you adopt a unique name, combining letters and numbers that will be difficult for others to duplicate or guess. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished, especially when using a shared computer.
+*   American Girl  
+    P.O. Box 620497  
+    Middleton, WI 53562-0497  
+    Phone: 800-845-0005 Fax: 608-836-0761  
+    email: service@americangirl.com
+    
 
-  
-11\. Will My Information Be Transferred to Another Country?
+Back To Top mattel  
+XXXX  
+dev  
+left  
+s5Z2MyOlF46r3PXZUl9hPiwU2cYK  
+Shop Our Brands
 
-This Site, the servers that make this Site available, and databases where we house information may not be located in your country of residence, and applicable privacy laws may not be identical. However, we take reasonable steps to safeguard privacy as outlined in this Privacy Statement. By using this Site you agree to the transfer, collection, processing and use of data as set forth in this Privacy Statement and our Terms and Conditions.
+*   American Girl®
+*   Barbie®
+*   Fisher-Price®
+*   Hot Wheels®
+*   Mattel Shop
 
-  
-12\. How Will I Know If You’ve Updated Your Privacy Statement?
+About Mattel
 
-Remember, we may update our Privacy Statement from time to time. When this happens, we will notify you of the new provisions by posting them on our Sites. Our Privacy Statement provides examples of data we collect, how we use it, and choices you can exercise. these examples may not be exhaustive or exclusive. We will not make a material change in how we handle personal information previously collected without notifying you.
+*   Careers
+*   Corporate
+*   Newsroom
+*   Toy Store Locations
 
-  
-13\. What Are My California Privacy Rights?
+For the Collector
 
-Under California CA Civil Code § 1798.83, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please complete and send us the Privacy Request Form. We will respond to you within 30 days of receiving such a request.
+*   The Mattel Vault™
+*   Barbie® Signature
+*   Hot Wheels® Collectors
 
-  
-14\. Who Can I Contact With Questions?
+Helpful Links
 
-If you have any questions, please don't hesitate to contact us!
+*   Customer Service
+*   Recall Information
 
-  
-  
-For Mattel and Fisher-Price:  
-  
-Mattel, Inc.  
-Consumer Relations  
-636 Girard Avenue  
-East Aurora, NY 14052  
-In the U.S.: 800-524-TOYS (800-524-8697)  
-In Canada: 800-665-6288  
-e-mail: Service@mattel.com  
-  
-  
-For American Girl:  
-  
-Corporate Service Support  
-PO Box 620497  
-Middleton, WI 53562-0497  
-Phone: 800-360-1861  
-FAX: 608-836-0761  
-e-mail: Service@americangirl.com  
-  
-Thanks for reading our Privacy Statement. We hope you have a better understanding of the many activities we offer and the ways in which we are working to safeguard privacy when you visit our Sites or use our online services or Apps.
+Follow Mattel
 
-  
+*   Terms &. Conditions
+*   Privacy Statement
 
-© 2013 Mattel, Inc. All Rights Reserved.
+*   © 2018 Mattel. All Rights Reserved
+
+Do you want to continue? You are about to visit a website that operates under a separate privacy policy and other terms.  
+Cancel Yes
