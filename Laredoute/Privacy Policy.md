@@ -302,8 +302,10 @@ Seules deux types de données secondaires (c’est-à-dire des données dont on 
 Pour paramètrer le cookie, rendez-vous sur la page suivante : https://support.abtasty.com/hc/fr/articles/200238607-Comment-faire-pour-ne-pas-%C3%AAtre-soumis-aux-tests-optout-
 
 **ACXIOM** :  
-Les cookies permettent aux annonceurs d’afficher des publicités pertinentes lorsque vous vous rendez  sur des sites web qui proposent aux internautes des bannières dont le contenu est adapté à votre profil consommateur. Pour fonctionner ce service se fonde sur le dépôt automatique d’un cookie sur votre navigateur dès l’ouverture d’un email ou lorsque vous visitez un site partenaire d’Acxiom.  
-http://www.acxiom.fr/a-propos-d-acxiom/information-sur-le-depot-de-cookie/
+Les cookies Acxiom Liveramp permettent aux annonceurs d’afficher sur les sites web que vous visitez, des offres pertinentes basée sur vos habitudes de consommation ainsi que de mesurer la performance de leurs campagnes publicitaires. Pour fonctionner ce service se fonde sur le dépôt d’un cookie sur votre navigateur lors de l’ouverture d’un email ou de votre visite sur le site d’un de nos partenaires.  
+Ces derniers ne nous communiquent que votre adresse email cryptée selon un procédé irréversible et nous permettant ainsi de créer une clé technique associée à nos cookies. En déposant nos cookies certaines informations techniques peuvent être automatiquement collectée (telle que IP, votre système d’exploitation ou votre type de navigateur).  
+Nos cookies ne traquent pas votre navigation. Nous ne stockons aucune information liée à votre connexion.  
+Vous pouvez à tout moment et facilement vous opposer au dépôt de nos cookie en cliquant http://www.acxiom.fr/a-propos-d-acxiom/information-sur-le-depot-de-cookie/
 
 **CRITEO** :  
 Les services de Criteo consistent en l’affichage de publicités et l’envoi d’emails personnalisés sur la base du comportement récent des internautes sur les sites, newsletters et applications de ses partenaires. Criteo reconnaît les internautes à l'aide de cookies. Pour en savoir plus sur Criteo Display ou pour désactiver ce service, veuillez cliquer ici _(lien vers_ _http://www.criteo.com/fr/privacy/_ _)_ . Pour en savoir plus sur Criteo Email ou désactiver ce service, veuillez cliquer ici (_lien vers_ http://privacy.criteoemail.com/fr/index.html ).
