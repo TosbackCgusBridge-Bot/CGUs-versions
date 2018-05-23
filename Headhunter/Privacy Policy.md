@@ -295,6 +295,7 @@ About Us
 *   About Us
 *   Privacy
 *   Terms &. Conditions
+*   Data Subject Access Rights
 
   
 Browse Jobs
