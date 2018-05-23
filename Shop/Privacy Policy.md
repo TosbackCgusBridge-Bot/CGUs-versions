@@ -333,8 +333,7 @@ Menu Close Menu Close
     *   Mainstream Laptops
     *   Desktop Deals
     *   Monitor Deals
-    *   Accessories Deals
-    *   Accessories Deals
+    *   ACCESSORY DEALS
     *   Clearance
     *   Financing Options
     *   Outlet
@@ -500,10 +499,6 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
     *   Business Partners
     *   Partner Portal
     *   Military
-    *   Higher Education
-    *   Higher Education
-    *   Higher Education
-    *   Higher Education
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 *   RESOURCES
     *   Resource Center
