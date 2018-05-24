@@ -61,7 +61,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Working with suppliers
         *   Modern Slavery Act last item in this group
     
-    *   Sustainable finance Find out about our commitment to helping build a low-carbon economy.
+    *   Diversity and inclusion We want a workforce that reflects the communities where we operate.
 *   Investor relations Skip to News and insight navigation
     
     *   Group results and reporting
@@ -211,13 +211,7 @@ Your use of any Local Site shall be governed by both these Terms and Conditions 
 
 Privacy
 
-We know that you are concerned with how your personal information is dealt with. This privacy statement sets out our current policies and demonstrates our commitment to your privacy. We may change the content or services found on this Site at any time without notice, and consequently our privacy policy may change at any time in the future. You agree to revisit this page regularly and your continued access to or use of the Site will mean that you agree to the changes.
-
-Please also note that the HSBC Group provides financial products and services through its affiliated companies and branches located across the world. Privacy and personal data protection principles vary from one country to another. When you access or link to a Local Site, please read the privacy statement issued by the Local Site to determine the policies that apply to information or data maintained by the Local Site.
-
-Personal information
-
-If you register your personal details for the email alerts service, we will ask you to provide us with certain up to date data about yourself, which we will handle in accordance with the United Kingdom's Data Protection legislation but please note that it may be hosted or transferred outside of this jurisdiction. We will not share your personal information with entities outside of the HSBC Group. We maintain strict security standards and procedures with a view to preventing unauthorised access to your data by anyone, including our staff. We use leading technologies such as (but not limited to) data encryption, firewalls and server authentication to protect the security of your data. All Group companies, all our staff and whenever we hire third parties to provide support services, we will require them to observe our privacy standards and to allow us to audit them for compliance.
+Read our privacy notice to find out how we use and protect your personal information.
 
 Cookies
 
@@ -426,6 +420,7 @@ Follow us
 *   YouTube
 
 *   Terms and conditions
+*   Privacy notice
 *   Cookie policy
 *   Accessibility policy
 *   Online security
