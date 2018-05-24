@@ -17,7 +17,7 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
 *   Contact Us
 *   GDPR Choices
     *   Mattel GDPR Choice Portal
-    *   American Girl GDPR Portal
+    *   American Girl GDPR Choice Portal
 
 *   Menu
     *   Privacy Statement
@@ -37,7 +37,7 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   Contact Us
     *   GDPR Choices
         *   Mattel GDPR Choice Portal
-        *   American Girl GDPR Portal
+        *   American Girl GDPR Choice Portal
 
 Mattel Online Privacy Statement
 
@@ -45,7 +45,7 @@ Updated May 22, 2018
   
 Your privacy is important to us at the _Mattel family of companies_. This privacy statement describes the _information_ Mattel collects from you, through our interactions with you and through our _Mattel Services_, and how we use that information. It also describes what information _third parties_ collect from you, and how we and they use that information. Key terms are italicized and underlined _(like this_) and can be found in the _Definitions_ section. This Privacy Statement provides examples of data we collect, how we use it, and choices you can exercise. these examples may not be exhaustive or exclusive.
 
-This statement applies to _Mattel Services_, including _Mattel Sites_, apps, mobile apps, online services, and connected products. _Mattel Sites_ are also subject to the MATTEL TERMS AND CONDITIONS. Other terms, end-user license agreements, or additional rules may apply. Each time you use _Mattel Services_, you agree to this statement. If you don’t agree with all the terms of this privacy statement, please do not use the services.
+This statement applies to _Mattel Services_, including _Mattel Sites_, apps, mobile apps, online services, and connected products. _Mattel Sites_ are also subject to the MATTEL TERMS AND CONDITIONS. Other terms, end-user license agreements, or additional rules may apply. Each time you use _Mattel Services_, you agree to this statement. If you don’t agree with all the terms of this privacy statement, please do not use _Mattel Services_.
 
 We want you and your family to have fun using our services and urge you and your family to follow common sense when disclosing personal information, both through our services and anywhere else.
 
@@ -645,7 +645,7 @@ Your California Privacy Rights
 
 If you are a resident of California, you have certain rights. 
 
-Under California Civil Code § 1798.83, California residents have the right to receive, once a year, _information_ about _third parties_ with whom we have shared _information_ about you for their marketing purposes during the precious calendar year, and a description of the categories of _personal information_ shared. To make such a request, please complete and send us the Privacy Request Form. We will respond to you within 30 days of receiving such a request.
+Under California Civil Code § 1798.83, California residents have the right to receive, once a year, _information_ about _third parties_ with whom we have shared _information_ about you for their marketing purposes during the previous calendar year, and a description of the categories of _personal information_ shared. To make such a request, please complete and send us the Privacy Request Form. We will respond to you within 30 days of receiving such a request.
 
 Your European Privacy Rights
 
@@ -746,7 +746,7 @@ Helpful Links
 Follow Mattel
 
 *   Terms &. Conditions
-*   Privacy Statement
+*   NEW Privacy Statement
 
 *   © 2018 Mattel. All Rights Reserved
 
