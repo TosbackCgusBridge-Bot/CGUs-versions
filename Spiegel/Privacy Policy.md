@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   23\. Mai 2018
+*   24\. Mai 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 13.169,92ǀ
+*   DAX 12.976,84ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -154,13 +154,12 @@ Anmelden
         *   Fernweh
         *   Skiatlas
     
-*   Auto
+*   Mobilität
     
     *   *   Übersicht
         *   Tests
         *   Fahrkultur
         *   IAA 2017
-    
 *   Stil
     
     *   *   Übersicht
@@ -257,7 +256,7 @@ Dienstag, **22.05.2018**   08:33 Uhr
 
 Liebe Leserin, lieber Leser,
 
-herzlich willkommen bei den digitalen Angeboten der SPIEGEL-Gruppe: bei SPIEGEL und SPIEGEL ONLINE, manager magazin und manager lounge, Harvard Business Manager und bento. An dieser Stelle finden Sie die Allgemeinen Nutzungsbedingungen unserer Seiten. Diese werden immer wieder aktualisiert und gelten in der jeweils aktuellen Version, sobald Sie unsere Angebote nutzen, auch ohne ausdrückliche Einwilligung. Erfüllungsort und Gerichtsstand ist Hamburg.
+herzlich willkommen bei den digitalen Angeboten der SPIEGEL-Gruppe: bei der SPIEGEL-Produktfamilie, dem manager magazin und der manager lounge, dem Harvard Business Manager, bei Planestream und bento. An dieser Stelle finden Sie die Allgemeinen Nutzungsbedingungen unserer Seiten. Diese werden immer wieder aktualisiert und gelten in der jeweils aktuellen Version, sobald Sie unsere Angebote nutzen, auch ohne ausdrückliche Einwilligung. Erfüllungsort und Gerichtsstand ist Hamburg.
 
 *   Wenn Sie registrierungspflichtige Dienste nutzen wollen, müssen Sie außerdem besonderen Nutzungsbedingungen zustimmen, die Sie dann genannt bekommen.
 *   Für spezielle Dienste und Angebote wie Abonnements, Nachdruckrechte und Syndication gibt es darüber hinaus jeweils eigene Allgemeine Geschäftsbedingungen, auf die Sie gesondert hingewiesen werden.
@@ -289,7 +288,9 @@ In einigen gesetzlich definierten Fällen (von Zwecken der Strafverfolgung über
 
 **Weiterführende Informationen**
 
-Besondere Nutzungsbedingungen für Ihre Beiträge Datenschutzerklärung: So gehen wir mit Ihren Daten um
+Besondere Nutzungsbedingungen für Ihre Beiträge
+
+Datenschutzerklärung: So gehen wir mit Ihren Daten um
 
 Backstage: Wie SPIEGEL ONLINE arbeitet
 
@@ -412,4 +413,4 @@ Bitte prüfen Sie, ob Sie ähnliche Erweiterungen, Do-not-Track-Funktionen oder 
 
 Welche Bedeutung Werbung für SPIEGEL ONLINE hat, was wir für Ihre Sicherheit im Netz tun, wie unsere Redaktion arbeitet – Fragen und Antworten finden Sie hier.
 
-<div id="nOuXYmPxsSa">. <div id="nOuXYmPxsSb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fa-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
+<div id="KjQWAHxUoea">. <div id="KjQWAHxUoeb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fa-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
