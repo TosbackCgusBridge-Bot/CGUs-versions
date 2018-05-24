@@ -176,12 +176,14 @@ Third-Party Privacy Policies
 *   We use MailChimp to distribute our Newsletter
 *   Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website and/or other websites
 *   Google's use of advertising cookies enables it and its partners to serve ads to our users based on their visit to our sites and/or other websites
-*   Users may opt out of personalized advertising by visiting YourAdChoices or on our privacy settings page, which will be available by May 25, 2018
+*   Users may opt out of personalized advertising by visiting YourAdChoices or on our new privacy settings page, which will become avaiable by My 25, 2018
 
 Third parties we use for advertising:
 
 1.  Index Exchange
-2.  Exponential Subject to your consent, Exponential Interactive, Inc collects and profile personal data in the form of IP address and cookie ID from users on our website to provide targeted online advertising and ad measurement. You may change your consent decision at any time. For more details including access requests and complaints, review their privacy policy or contact their data protection officer via privacy@exponential.com
+2.  Exponential  
+    Subject to your consent, Exponential Interactive, Inc collects and profile personal data in the form of IP address and cookie ID from users on our website to provide targeted online advertising and ad measurement. You may change your consent decision at any time. For more details including access requests and complaints, review their privacy policy or contact their data protection officer via privacy@exponential.com  
+    Exponential uses ANON\_ID (persistent tracking cookie), by domain tribalfusion.com. The anonymous hashed id in the cookie links the web user's browser to a profile which contains the behaviours the user has displayed. This is stored for 3 months.
 3.  Google DFP/AdX
 4.  Google Admob
 5.  OpenX
@@ -206,7 +208,7 @@ Third parties we use for logging in:
 
 Right to Receive Information
 
-As of May 25, 2018, the new EU General Data Protection Regulation (GDPR) provides every user the right to receive a copy of the information we have stored about them. A link to where you can download your copy of the information we have stored about you will become available here by May 25, 2018.
+As of May 25, 2018, the new EU General Data Protection Regulation (GDPR) provides every user the right to receive a copy of the information we have stored about them. You may download a copy of your personal data on our new privacy settings page, which will become avaiable by My 25, 2018.
 
 Deleting Stored Data
 
