@@ -232,9 +232,9 @@ View more results
     
     Recommended Games
     
-    *   World of Tanks
     *   World of Warships
-    *   Total War: Arena
+    *   Star Stable
+    *   World of Tanks
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
