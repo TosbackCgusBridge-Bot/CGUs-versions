@@ -255,14 +255,9 @@ Close submenu ( Girls ) Girls
 *   Last Chance
 *   New to Clearance
 *   $9.99 + Under
-*   Tees + Tanks + Polos
-*   Fashion Tops
-*   Hoodies + Jackets
-*   Shirts + Sweaters
+*   Tops
+*   Bottoms
 *   Dresses + Skirts
-*   Jeans + Pants
-*   Joggers + Leggings
-*   Shorts
 *   Accessories
 
 Close submenu ( Guys ) Guys
@@ -271,13 +266,8 @@ Close submenu ( Guys ) Guys
 *   Last Chance
 *   New to Clearance
 *   $9.99 + Under
-*   Tees + Tanks
-*   Long Sleeve
-*   Polos
-*   Shirts + Sweaters
-*   Hoodies + Jackets
-*   Jeans + Pants
-*   Shorts
+*   Tops
+*   Bottoms
 *   Accessories
 
 Close submenu ( Live Love Dream ) Live Love Dream
@@ -286,14 +276,12 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Last Chance
 *   New to Clearance
 *   $9.99 + Under
-*   Active
-*   Lounge
-*   Tees + Tanks
-*   Hoodies + Jackets
-*   Leggings + Pants
-*   Shorts
+*   Tops
+*   Bottoms
 *   Intimates
 *   Accessories
+*   Active
+*   Lounge
 
 **50-70% OFF + FREE SHIPPING OVER $75 GIRLS GUYS**
 
@@ -497,14 +485,9 @@ Menu Find a Store Aeropostale
         *   Last Chance
         *   New to Clearance
         *   $9.99 + Under
-        *   Tees + Tanks + Polos
-        *   Fashion Tops
-        *   Hoodies + Jackets
-        *   Shirts + Sweaters
+        *   Tops
+        *   Bottoms
         *   Dresses + Skirts
-        *   Jeans + Pants
-        *   Joggers + Leggings
-        *   Shorts
         *   Accessories
     
     *   Guys
@@ -512,13 +495,8 @@ Menu Find a Store Aeropostale
         *   Last Chance
         *   New to Clearance
         *   $9.99 + Under
-        *   Tees + Tanks
-        *   Long Sleeve
-        *   Polos
-        *   Shirts + Sweaters
-        *   Hoodies + Jackets
-        *   Jeans + Pants
-        *   Shorts
+        *   Tops
+        *   Bottoms
         *   Accessories
     
     *   Live Love Dream
@@ -526,14 +504,12 @@ Menu Find a Store Aeropostale
         *   Last Chance
         *   New to Clearance
         *   $9.99 + Under
-        *   Active
-        *   Lounge
-        *   Tees + Tanks
-        *   Hoodies + Jackets
-        *   Leggings + Pants
-        *   Shorts
+        *   Tops
+        *   Bottoms
         *   Intimates
         *   Accessories
+        *   Active
+        *   Lounge
     
 
 *   Help? - Contact Us Help? - Contact Us
@@ -576,23 +552,3 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ...
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ...
