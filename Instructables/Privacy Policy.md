@@ -144,11 +144,17 @@ Legal Notices &. Trademarks
 *   Switched Subscription
 *   Extra Territory Rights
 
-  Privacy Statement
+ 
+
+**Autodesk is updating its Terms of Use and Privacy Statement to provide you with more transparency into the data Autodesk collects about you, how we use it, and the controls you have over your data. Please review the Terms of Use and Privacy Statement.**
+
+Privacy Statement
+
+Updated: May 23, 2018
 
 *   Privacy Statement  
-    o Cookie Policy  
-    o Children’s Privacy Policy  
+    o Cookie Statement  
+    o Children’s Privacy Statement  
       
     
 *   Prohlášení společnosti Autodesk o ochraně osobních údajů  
@@ -359,4 +365,4 @@ icon-svg-hide-thick
 
 icon-svg-show-thick
 
-Troubleshooting **ClickTale** We use ClickTale to better understand where you may encounter difficulties with our sites. We use session recording to help us see how you interact with our sites, including any elements on our pages. Your Personally Identifiable Information is masked and is not collected. Autodesk logo Are you sure you want a less customized experience? We can access your data only if you select "yes" for the categories on the previous screen. This lets us tailor our marketing so that it's more relevant for you. You can change your settings at any time by visiting our privacy statement Review settings icon-svg-arrow-button Continue to site icon-svg-arrow-button Privacy settings
+Troubleshooting **ClickTale** We use ClickTale to better understand where you may encounter difficulties with our sites. We use session recording to help us see how you interact with our sites, including any elements on our pages. Your Personally Identifiable Information is masked and is not collected. Autodesk logo Are you sure you want a less customized experience? We can access your data only if you select "yes" for the categories on the previous screen. This lets us tailor our marketing so that it's more relevant for you. You can change your settings at any time by visiting our privacy statement Review settings icon-svg-arrow-button Continue to site icon-svg-arrow-button
