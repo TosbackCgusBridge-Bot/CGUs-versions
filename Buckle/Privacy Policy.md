@@ -467,6 +467,7 @@ Returns
 
 Promotions
 
+*   Free Picnic Blanket
 *   All Promotions
 *   Store Events
 *   Military Discount
