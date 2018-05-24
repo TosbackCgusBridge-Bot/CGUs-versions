@@ -284,7 +284,7 @@ Paramétrage des cookies avec un outil proposé par La Redoute
 
 Afin de se conformer à la règlementation, la Redoute utilise un outil permettant à l’internaute de paramètrer le dépôt des cookies lors de sa connexion sur le site www.laredoute.fr
 
-Pour configurer le dépôt des cookies,
+Pour configurer le dépôt des cookies, privacy center
 
 Refus des cookies directement sur le site de l’éditeur 
 
