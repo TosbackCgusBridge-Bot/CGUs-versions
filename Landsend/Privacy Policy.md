@@ -336,6 +336,7 @@ menu Close 0 Free Shipping on $50+
     *   Canvas Totes
     *   Entertaining
     *   Holiday Decor
+    *   Summer Decor &. Entertaining
     
     BEDDING >.
     
@@ -735,6 +736,7 @@ menu Close 0 Free Shipping on $50+
         *   Canvas Totes
         *   Entertaining
         *   Holiday Decor
+        *   Summer Decor &. Entertaining
     *   BEDDING
         *   Back
         *   View All
@@ -844,9 +846,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 50% off all swimwear, water shoes and more. Plus, free delivery by Friday to most U.S. addresses!
+Receive 40% off all swimwear, water shoes and more. 25% off everything else!
 
-code: WAVES pin: 2018 DETAILS
+code: CELEBRATE pin: 3091 DETAILS
 
 Customer Service Menu
 
@@ -869,11 +871,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go Privacy Last Updated: August 9‚ 2016
+Privacy Last Updated: August 9‚ 2016
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
@@ -1105,4 +1103,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
