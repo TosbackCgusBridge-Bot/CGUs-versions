@@ -15,11 +15,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Find a StoreNear YouFind a StoreBack DAY 2 OF COUPON CODE 16DEALS ENDS IN
-
-\*offer ends 5/23/18
-
-Days 0 0 0 0 hours 4 4 0 0 mins 4 3 0 9 secs SAVE ON SELECT OUTDOOR ENTERTAINING WITH CODEShop AllSAVE ON SELECT OUTDOOR ENTERTAINING WITH CODEShop All
+Find a StoreNear YouFind a StoreBack FINAL HOURS! COUPON CODE 16DEALS ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 4 4 9 8 secs SAVE ON SELECT OUTDOOR ENTERTAINING WITH CODEShop AllSAVE ON SELECT OUTDOOR ENTERTAINING WITH CODEShop All
 
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
@@ -66,25 +62,25 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 3 0 9 secs SAVE ON SELECT OUTDOOR ENTERTAINING
 
 *   $19.99 sale
     
-    was $49 St. John's Bay Floral Tankini Swimsuit Top
+    was $49 St. John's Bay Tankini Swimsuit Top
 *   $19.99 sale
     
-    was $49 St. John's Bay Tankini Swimsuit Top
+    was $49 St. John's Bay Floral Tankini Swimsuit Top
 *   $19.99 sale
     
     was $49 St. John's Bay Leaf Tankini Swimsuit Top
 *   $19.99 sale
     
     was $49 St. John's Bay Tankini Swimsuit Top
+*   $21.60 sale
+    
+    was $54 St. John's Bay Leaf Tankini Swimsuit Top-Plus
 *   $19.99 sale
     
     was $49 St. John's Bay Floral Tankini Swimsuit Top
 *   $21.60 sale
     
-    was $54 St. John's Bay Leaf Tankini Swimsuit Top-Plus
-*   $23.60 sale
-    
-    was $59 Boutique + Floral Tankini Swimsuit Top-Plus
+    was $54 St. John's Bay Floral Tankini Swimsuit Top-Plus
 *   $21.60 sale
     
     was $54 St. John's Bay Floral Tankini Swimsuit Top-Plus
@@ -118,14 +114,14 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 3 0 9 secs SAVE ON SELECT OUTDOOR ENTERTAINING
     St. John's Bay® Secretly Slender Twill Crop - Plus(11)
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
-    $50
-    
-    St. John's Bay® Bi-Stretch Pants - Plus(291)
-*   BUY MORE AND SAVE WITH CODE: 16DEALS
-    
     $22
     
     Boutique + Short Sleeve Scoop Neck T-Shirt - Plus(6)
+*   BUY MORE AND SAVE WITH CODE: 16DEALS
+    
+    $50
+    
+    St. John's Bay® Bi-Stretch Pants - Plus(291)
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
     $47
@@ -141,31 +137,35 @@ MEN'S NEW ARRIVALSShop AllMEN'S NEW ARRIVALSShop All
     IZOD Short Sleeve Button-Front Shirt
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
-    $60
+    $40
     
-    IZOD Pull-On Shorts
+    Claiborne Short Sleeve Button-Front Shirt(1)
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
     $275
     
     Claiborne Slim Fit Suit Jacket-Big and Tall
-*   $55
-    
-    Cubavera Short Sleeve Panel Button-Front Shirt
 *   $68
     
     Cubavera Short Sleeve Panel Button-Front Shirt
-*   $68
+*   BUY MORE AND SAVE WITH CODE: 16DEALS
     
-    Cubavera Short Sleeve Button-Front Shirt
+    $60
+    
+    IZOD Pull-On Shorts
 *   BUY MORE AND SAVE WITH CODE: 16DEALS
     
     $60
     
     IZOD Short Sleeve Stripe Knit Polo Shirt
+*   BUY MORE AND SAVE WITH CODE: 16DEALS
+    
+    $135
+    
+    Claiborne Slim Fit Suit Pants - Big and Tall
 *   $55
     
-    Cubavera Short Sleeve Leaf Button-Front Shirt
+    Cubavera Short Sleeve Panel Button-Front Shirt
 
 Shop and Save at JCPenney
 
