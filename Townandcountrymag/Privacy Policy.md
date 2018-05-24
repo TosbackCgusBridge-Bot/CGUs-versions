@@ -192,12 +192,10 @@ Advertisement - Continue Reading Below Share Tweet Email
 *   Newsletter
 *   Contact Us
 *   Subscribe
-*   Why Did I Get This Ad?
 *   Digital Editions
 *   Other Hearst Subscriptions
 *   Advertise Online
 *   About Us
-*   About Our Ads
 *   BestProducts
 *   Give a Gift
 *   Press Room
@@ -206,9 +204,10 @@ Advertisement - Continue Reading Below Share Tweet Email
 
 A Part of Hearst Digital Media Town &. Country participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites. ©2018 Hearst Communications, Inc. All Rights Reserved.
 
-*   Privacy Policy
+*   Updated Privacy Notice
 *   Your California Privacy Rights
-*   Terms of Use
+*   Interest-Based Ads
+*   Updated Terms of Use
 *   Site Map
 
 Share Tweet Email
