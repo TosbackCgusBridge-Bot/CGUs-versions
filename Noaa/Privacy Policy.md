@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 7 easy ways to boat safely and be kind to nature Thinking ahead could save lives, and not just your own AROUND NOAA // April 2018 was 3rd warmest on record for the globe Emissions of an ozone-destroying chemical are rising again La Nina is gone, for now \[EXT\] Adaptable and driven by renewable energy, saildrones voyage into remote waters
+Enter Search Terms 7 easy ways to boat safely and be kind to nature Thinking ahead could save lives, and not just your own AROUND NOAA // Kilauea eruptions: The way the wind blows, so go the gas and the ash April 2018 was 3rd warmest on record for the globe Emissions of an ozone-destroying chemical are rising again Adaptable and driven by renewable energy, saildrones voyage into remote waters
 
 *   About our agency
 *   News and features
