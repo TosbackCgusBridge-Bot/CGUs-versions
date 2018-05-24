@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Decreasing the complexity of IoT adoption with Edge as a Service model ›
 *   Canonical Managed Cloud adds data protection and recovery with Trilio ›
 *   Ubuntu Server development summary – 22 May 2018 ›
 *   Offline Computing – 10 Apps for the Digital Nomad ›
 *   Desktop plans for 18.10 ›
-*   Creating the world’s first robotic tennis ball collector with Ubuntu ›
