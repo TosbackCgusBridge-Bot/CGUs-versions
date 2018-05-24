@@ -73,8 +73,8 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   'Deadpool 2' Is Getting an Extended Director's Cut Read More
-    *   Jake Gyllenhaal to Play Mysterio in 'Spider-Man: Homecoming' Sequel. Here's Everything We Know Read More
-    *   Zachary Levi Reveals 'Shazam!' Costume. Here's Everything We Know Read More
+    *   Watch Dwayne Johnson in New 'Skyscraper' Trailer. Here's Everything We Know Read More
+    *   Liam Neeson Joins the New 'Men In Black'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
