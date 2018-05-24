@@ -8,14 +8,43 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Converse Starting at $35
-    *   Converse Men Starting at $35
-    *   Converse Kids Starting at $20
-    *   Parker
+    *   Michele Watches Up to 50% Off
+    *   Calvin Klein Lingerie &. Sleep Under $25
+    *   Why Dress
+    *   NANETTE nanette lepore
+    *   BECCA Cosmetics
+    *   skyn ICELAND
+    *   Macadamia Natural Oil &. Professional Hair Care
+    *   The Original Makeup Eraser &. Cellu-Cups
+    *   Rock Revival
+    *   Labels We Love: Elliatt, Bardot &. More
+    *   Louise et Cie Up to 60% Off
+    *   Tiare Hawaii
+    *   Trendy Tots: Summer Looks for Girls &. Boys
+    *   Summer Reading List: Classics &. New Favorites
+    *   Rockabye
+    *   Best of Italy: Totes &. More
+    *   Handmade in Spain: UNOde50 Jewelry &. Watches
+    *   Sam Edelman Active &. Swim
+    *   Sofft &. Isola Up to 50% Off
+    *   Brooks Brothers
+    *   Lucky Brand Men
+    *   Lucky Brand Men's Lounge
+    *   Carlos by Carlos Santana Starting at $30
+    *   Gordon Rush Up to 60% Off
+    *   Kenneth Cole Reaction Tailored
+    *   Colorful Cutlery, Cookware &. More from $10
+    *   Water Shoes &. Sandals ft. Teva Under $30
+    *   Free Shipping: Bed Pillows, Toppers &. More from $17
     *   Free Shipping: Bright Accent Furniture Under $250
     *   Free Shipping: Geo Print Bedding, Decor &. More
     *   Free Shipping: Wanderlust-Worthy Wall Art &. More
     *   Summer Fun: Floats, Towels &. More
+    *   Converse Starting at $35
+    *   Converse Men Starting at $35
+    *   Converse Kids Starting at $20
+    
+    *   Parker
     *   Joe Fresh Including Plus
     *   Endless Rose
     *   Americana Accessories &. More from $10
@@ -43,90 +72,67 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Masala Baby &. Kids
     *   JOE'S Jeans Up to 60% Off
     *   JOE'S Jeans Men Up to 60% Off
-    *   New Balance
-    *   Blissfully Boho: Moon River &. More
     *   Cuisinart
-    *   ALLISON NEW YORK
-    
-    *   Avec Les Filles
-    *   JOE'S Jeans Sun Up to 80% Off
-    *   On the Road Starting at $25
     *   Free Shipping: Modern Rugs Up to 70% Off
-    *   Lola Ramona
-    *   Project Social T
     *   Suzy Levian Jewelry
-    *   Suzy Levian Handbags
-    *   Josie &. Skarlette Blue Lingerie &. Sleep
-    *   Vitamin A Swim
     *   Vacation Ready: Premium Travel Beauty Essentials
     *   L'Ange Hair Tools
     *   Lesa Michele Trend Jewelry Under $40
     *   JOE'S Jeans Kids Up to 50% Off
+    
     *   Frye Leather Bags &. More
     *   New Balance Men
     *   TAVIK
     *   Levinas Under $40
     *   Great Gifts for Dads &. Grads
-    *   Carry On Luggage &. More
     *   New Balance Kids
     *   TEDCO Toys
     *   Kids' Character Shop: PJ Sets, Toys &. More
     *   Flow Society Kids Under $10
-    *   Party Perfect: ABS by Allen Schwartz &. More
     *   D24K by DOR Luxury Skin Care Up to 90 Off
-    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
-    *   Central Park West Up to 70% Off
-    *   Summer Shoe Steals Up to 70% Off
-    *   Vintage Addiction Up to 80% Off
     *   Men's Final Few Up to 75% Off
     *   Men's Shoes Up to 70% Off
     *   Free Shipping: Amrapur Towels Up to 80% Off
-    *   14K Gold Jewelry Steals
-    *   Handmade Jewelry by Alisa Michelle
     *   Crown Brush Starting at $10
     *   Tommy Hilfiger Tailored Clothing
     *   Jared Lang
     *   VOLCOM
-    
     *   Reyn Spooner &. More
     *   Home Organization Starting at $15
     *   Vintage Foundry Up to 75% Off
     *   Blackstone Up to 60% Off
-    *   Everly Grey Maternity
-    *   Million Polkadots
-    *   Paulinie
     *   Bobbi Brown Starting at $11
     *   Skin Chemists Up to 80% Off
     *   Fragrances by Margot Elena
-    *   Ben Sherman
-    *   ECCO Men
-    *   Gilded Age &. More
-    *   Kenneth Cole Reaction Men
-    *   PX Under $30
     *   Free Shipping: Imaginative Wall Art Up to 75% Off
     *   Colorful Insulated Water Bottles &. Tumblers
-    *   The Athletic Shop: adidas, PUMA &. More
-    *   The Athletic Shop: Shoes ft. Saucony, Brooks &. More
-    *   Men's Athletic Shop: Shoes ft. Brooks &. More
-    *   Kids' Athletic Shop: PUMA, FILA &. More
-    *   Kiehl's Since 1851
-    *   Emerging K-Beauty: It's Skin
     *   Free Shipping: Doormats for Spring from $15
+    *   New Balance
+    *   Blissfully Boho: Moon River &. More
+    *   On the Road Starting at $25
+    *   Party Perfect: ABS by Allen Schwartz &. More
     *   Retro Chic: Orla Kiely Kitchenware &. More
-    *   Men's Athletic Shop: Reebok, Fenty &. More
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Summer Party Faves: Barware, Games &. More
-    *   Sunday Steals Up to 80% Off
-    *   Free Shipping: Indoor/Outdoor Rugs &. More
-    *   Free Shipping: Party-Ready Pool Floats
-    *   Free Shipping: Fine Art Blowout
-    *   Tart Including Plus
-    *   Eliza J Dresses Incl. Plus &. Petites
-    *   Wolford
-    *   Fate
-    *   Go Couture Dresses Up to 75% Off
 *   WomenShop Sale Events
     
+    *   Michele Watches Up to 50% Off
+    *   Calvin Klein Lingerie &. Sleep Under $25
+    *   Why Dress
+    *   NANETTE nanette lepore
+    *   BECCA Cosmetics
+    *   skyn ICELAND
+    *   Macadamia Natural Oil &. Professional Hair Care
+    *   The Original Makeup Eraser &. Cellu-Cups
+    *   Rock Revival
+    *   Labels We Love: Elliatt, Bardot &. More
+    *   Louise et Cie Up to 60% Off
+    *   Tiare Hawaii
+    *   Best of Italy: Totes &. More
+    *   Handmade in Spain: UNOde50 Jewelry &. Watches
+    *   Sam Edelman Active &. Swim
+    *   Sofft &. Isola Up to 50% Off
+    *   Carlos by Carlos Santana Starting at $30
     *   Converse Starting at $35
     *   Parker
     *   Joe Fresh Including Plus
@@ -135,6 +141,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Dresses from Kensie &. More
     *   Lime &. Vine Sport and More
     *   Summer Shades: Under Armour &. More from $25
+    
     *   Matt &. Nat
     *   Mia Marcelle Swim Up to 70% Off
     *   Summer Dresses, Tops &. More Under $40
@@ -147,46 +154,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Vanity Planet Up to 80% Off
     *   Best Tressed: Remy Hair Extensions
     *   JOE'S Jeans Up to 60% Off
-    *   New Balance
-    *   Blissfully Boho: Moon River &. More
-    *   ALLISON NEW YORK
-    *   Avec Les Filles
-    *   JOE'S Jeans Sun Up to 80% Off
-    *   On the Road Starting at $25
-    *   Lola Ramona
-    *   Project Social T
     *   Suzy Levian Jewelry
-    *   Suzy Levian Handbags
-    
-    *   Josie &. Skarlette Blue Lingerie &. Sleep
-    *   Vitamin A Swim
     *   Vacation Ready: Premium Travel Beauty Essentials
     *   L'Ange Hair Tools
     *   Lesa Michele Trend Jewelry Under $40
-    *   Carry On Luggage &. More
-    *   Party Perfect: ABS by Allen Schwartz &. More
     *   D24K by DOR Luxury Skin Care Up to 90 Off
-    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
-    *   Central Park West Up to 70% Off
-    *   Summer Shoe Steals Up to 70% Off
-    *   Vintage Addiction Up to 80% Off
-    *   14K Gold Jewelry Steals
-    *   Handmade Jewelry by Alisa Michelle
     *   Crown Brush Starting at $10
-    *   Everly Grey Maternity
     *   Bobbi Brown Starting at $11
     *   Skin Chemists Up to 80% Off
     *   Fragrances by Margot Elena
-    *   The Athletic Shop: adidas, PUMA &. More
-    *   The Athletic Shop: Shoes ft. Saucony, Brooks &. More
-    *   Kiehl's Since 1851
-    *   Emerging K-Beauty: It's Skin
-    *   Sunday Steals Up to 80% Off
-    *   Tart Including Plus
-    *   Eliza J Dresses Incl. Plus &. Petites
-    *   Wolford
-    *   Fate
-    *   Go Couture Dresses Up to 75% Off
+    *   New Balance
+    *   Blissfully Boho: Moon River &. More
+    *   On the Road Starting at $25
+    *   Party Perfect: ABS by Allen Schwartz &. More
     
     Shop By Category
     *   Clothing
@@ -196,8 +176,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
     *   Handbags
     *   Tech Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Brooks Brothers
+    *   Lucky Brand Men
+    *   Lucky Brand Men's Lounge
+    *   Gordon Rush Up to 60% Off
+    *   Kenneth Cole Reaction Tailored
     *   Converse Men Starting at $35
     *   Summer Shades: Under Armour &. More from $25
     *   Slate &. Stone
@@ -206,14 +192,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Summer Prep: Lightweight Suits &. More
     *   Nordstrom Rack Exclusives: Men's Shoes
     *   JOE'S Jeans Men Up to 60% Off
-    *   JOE'S Jeans Sun Up to 80% Off
+    
     *   Frye Leather Bags &. More
     *   New Balance Men
     *   TAVIK
     *   Levinas Under $40
     *   Great Gifts for Dads &. Grads
-    *   Carry On Luggage &. More
-    
     *   Men's Final Few Up to 75% Off
     *   Men's Shoes Up to 70% Off
     *   Tommy Hilfiger Tailored Clothing
@@ -222,13 +206,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Reyn Spooner &. More
     *   Vintage Foundry Up to 75% Off
     *   Blackstone Up to 60% Off
-    *   Ben Sherman
-    *   ECCO Men
-    *   Gilded Age &. More
-    *   Kenneth Cole Reaction Men
-    *   PX Under $30
-    *   Men's Athletic Shop: Shoes ft. Brooks &. More
-    *   Men's Athletic Shop: Reebok, Fenty &. More
     
     Shop By Category
     *   Clothing
@@ -237,84 +214,85 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Trendy Tots: Summer Looks for Girls &. Boys
+    *   Summer Reading List: Classics &. New Favorites
+    *   Rockabye
+    *   Water Shoes &. Sandals ft. Teva Under $30
     *   Converse Kids Starting at $20
     *   Converse Kids' Clothing Starting at $10
     *   Joe Fresh Kids
+    
     *   Masala Baby &. Kids
     *   JOE'S Jeans Kids Up to 50% Off
     *   New Balance Kids
     *   TEDCO Toys
-    
     *   Kids' Character Shop: PJ Sets, Toys &. More
     *   Flow Society Kids Under $10
-    *   Everly Grey Maternity
-    *   Million Polkadots
-    *   Paulinie
-    *   Kids' Athletic Shop: PUMA, FILA &. More
     
     Shop By Category
+    *   Toys
     *   Girls Sizes 2T-6X
     *   Boys Sizes 8-20
     *   Boys Sizes 2T-7
-    *   Girls Sizes 7-16
-    *   Girls' Shoes
     *   Boys' Shoes
+    *   Girls' Shoes
+    *   Girls Sizes 7-16
     *   Baby Girl
-    *   Toys
     *   Baby Boy
     *   Baby Gear &. Essentials
     *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Colorful Cutlery, Cookware &. More from $10
+    *   Free Shipping: Bed Pillows, Toppers &. More from $17
     *   Free Shipping: Bright Accent Furniture Under $250
     *   Free Shipping: Geo Print Bedding, Decor &. More
     *   Free Shipping: Wanderlust-Worthy Wall Art &. More
     *   Summer Fun: Floats, Towels &. More
     *   Cuisinart
     *   Free Shipping: Modern Rugs Up to 70% Off
+    
     *   Free Shipping: Amrapur Towels Up to 80% Off
     *   Home Organization Starting at $15
     *   Free Shipping: Imaginative Wall Art Up to 75% Off
-    
     *   Colorful Insulated Water Bottles &. Tumblers
     *   Free Shipping: Doormats for Spring from $15
     *   Retro Chic: Orla Kiely Kitchenware &. More
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Summer Party Faves: Barware, Games &. More
-    *   Free Shipping: Indoor/Outdoor Rugs &. More
-    *   Free Shipping: Party-Ready Pool Floats
-    *   Free Shipping: Fine Art Blowout
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Outdoor Living
     *   Organization
+    *   Outdoor Living
+    *   Bedding
     *   Bath
     *   Accent Furniture
-    *   Bedding
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   BECCA Cosmetics
+    *   skyn ICELAND
+    *   Macadamia Natural Oil &. Professional Hair Care
+    *   The Original Makeup Eraser &. Cellu-Cups
     *   Aesthetica Cosmetics Starting at $10
     *   Vanity Planet Up to 80% Off
     *   Best Tressed: Remy Hair Extensions
+    
     *   Vacation Ready: Premium Travel Beauty Essentials
     *   L'Ange Hair Tools
     *   D24K by DOR Luxury Skin Care Up to 90 Off
-    
     *   Crown Brush Starting at $10
     *   Bobbi Brown Starting at $11
     *   Skin Chemists Up to 80% Off
     *   Fragrances by Margot Elena
-    *   Kiehl's Since 1851
-    *   Emerging K-Beauty: It's Skin
     
     Shop By Category
     *   Makeup
-    *   Bath &. Body
     *   Hair Care
     *   Skin Care
+    *   Bath &. Body
     *   Personal Care
     *   Fragrance
     *   Tools &. Accessories
