@@ -34,7 +34,7 @@ Further details of how we do so are set out in each section of our privacy polic
 *   Who we are
 *   Children
 *   The personal information that we collect about you and how we use it
-*   Cookies
+*   Cookies and third parties with whom we shared your personal information
 *   Opting out of personalized website ads
 *   Anonymous Data
 *   Security
@@ -80,7 +80,7 @@ We recognize that most of our Website users are not registered users. In such ca
 
 We use both Registration Data and Beacon Data to improve your experience with the Website, by understanding how our users like to use our Website, and what interests they may have based on the information we have collected about you. The Registration Data and Beacon Data are also used to select advertisements or content to provide to you.
 
-**Cookies**
+**Cookies and third parties with whom we share your personal information**
 
 Our Website also uses cookies to collect information about you and to distinguish you from other users of our Website. Cookies are small text files which are placed on your browser by our Website. When you visit our Website, the cookies allow our Website to recognize you and your browser and allow your use of the website and its functionalities to be tracked. This information can be used for a number of purposes, including serving you with advertising that is more aligned to you and your interests. Cookies are useful because they help us make your Website experience more enjoyable. They help us to monitor the way in which our Website is used and allow us to recognize your device (for example, your laptop or mobile device) so that we can tailor your experience of our Website. We do not use cookie technology to collect personal information about you. You can find out more about cookies at www.allaboutcookies.org.
 
@@ -94,13 +94,19 @@ In general, we use two types of cookies on our website:
 
 Examples of these types of cookies which gather information about our users are as follows:
 
-a. Google Analytics, which uses cookies to aid us in traffic analysis and informing improvements to the site. b. Quantcast, which collects information about the number visitors to our Website and extrapolates market research from that data. and c. comScore, which works in a similar way to Quantcast.
+a. Google Analytics, which uses cookies to aid us in traffic analysis and informing improvements to the site.
 
-2\. "**Marketing Cookies**" – i.e., cookies that are used to market to you or provide personalized ads to you, a list of which is located at our VENDOR LIST.
+b. Quantcast, which collects information about the number visitors to our Website and extrapolates market research from that data. and
+
+c. comScore, which works in a similar way to Quantcast.
+
+2\. "**Marketing Cookies**" – i.e., cookies that are used to market to you or provide personalized ads to you
 
 Examples of these types of cookies which gather information about our users are as follows:
 
-a. Supply Side Platforms (also known as SSPs) such as Google’s ADX, which uses cookies to collect information about your browsing history to target advertising. b. The Salesforce Data Management Platform (“DMP”) platform (formerly known as Krux). Salesforce DMP uses a number of technologies, including cookies, to collect non-personal information based on its analysis of your interaction with our Website. In particular, Salesforce DMP segments our user data into specific categories – such as comedy fans, gaming fans, Star Wars fans, Batman fans, etc. (all of this data segmentation is anonymous).
+a. Supply Side Platforms (also known as SSPs) such as Google’s ADX, which uses cookies to collect information about your browsing history to target advertising.
+
+b. The Salesforce Data Management Platform (“DMP”) platform (formerly known as Krux). Salesforce DMP uses a number of technologies, including cookies, to collect non-personal information based on its analysis of your interaction with our Website. In particular, Salesforce DMP segments our user data into specific categories – such as comedy fans, gaming fans, Star Wars fans, Batman fans, etc. (all of this data segmentation is anonymous).
 
 Also, on the FANDOM mobile app the user is asked to indicate the communities it is particularly interested in (e.g., Star Wars, Batman, etc) and that information is also used for such segmentation purposes. You can find out more about how the Salesforce DMP platform collects and uses this non-personal information by clicking the “Salesforce DMP Privacy” link on the salesforce.com website. Salesforce is an NAI member and, as stated below, you may use the NAI opt-out tool to cease our use of the Krux data for the purpose of sending you personalized advertisements.
 
@@ -149,7 +155,7 @@ We rely on these legal bases in different ways, and in relation to different typ
 
 _Consent_
 
-We process your personal information collected through the use of Marketing Cookies (as described in the Cookie section above) on the basis of your consent, which we ask for when you first visit our Website. You are entitled to withdraw your consent to our use of these Cookies.
+We process your personal information collected through the use of Marketing Cookies (as described in the Cookie section above) on the basis of your consent, which we ask for when you first visit our Website. You are entitled to withdraw your consent to our use of these Cookies. The list of partners for which we request consent is located at our Vendor List. In order to withdraw your consent, please visit the "Reset Your Tracking Preferences" button at the bottom of this Privacy Policy.
 
 _Legitimate Interests_
 
@@ -181,7 +187,7 @@ If an exception applies, we will tell you this when responding to your request. 
 
 Please also note for security and fraud investigation and prevention purposes, we will retain the full IP address for users located in the EEA for up to 12 months.
 
-In addition, we keep a copy of requests submitted to us to comply with our own legal obligation to maintain data processing records.
+In addition, we keep a copy of requests submitted to us to comply with our own legal obligation to maintain data processing records. Please also note that certain information, such as your IP address (if you edit while not logged in) and any public contributions to the FANDOM community sites is archived and displayed indefinitely by design. the transparency of each community’s contribution and revision histories is critical to their efficacy and trustworthiness. In addition, the anonymization process cannot ensure complete or comprehensive anonymization of all of the content or information posted on our Website related to your prior username. If your request is granted, the name change will only occur in automatically generated logs (such as page histories) in association with content that you posted. The name change will not delete mentions of your prior username by third parties.
 
 **International Transfers**
 
@@ -199,4 +205,4 @@ Address: 360 Third Street, Suite 750, San Francisco, CA 94107 Email: support@fan
 
 In the EEA you may also make a complaint to our supervisory body for data protection matters (for example, the Information Commissioner's Office in the UK) or seek a remedy through local courts if you believe your rights have been breached.
 
-<link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/\_\_cb1527082260/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />
+<link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/\_\_cb1527196447/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />Reset your tracking preferences
