@@ -106,7 +106,6 @@ On occasion, we may use personal information for new, unanticipated uses not pre
 This policy became effective on 2 May 2018.
 
 *   Press
-*   The Globalist
 *   Careers
 *   ASW Foundation
 *   Privacy Policy
