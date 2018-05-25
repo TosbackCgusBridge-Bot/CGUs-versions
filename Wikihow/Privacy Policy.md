@@ -8,7 +8,8 @@ At wikiHow, our mission is to empower every person on the planet to learn how to
 4.  We release most of our software under an Open Source license. You can learn more and get a copy of the code here.
 5.  Our goal is to build the world’s most helpful how-to instructions, but we don’t always meet that goal. Occasionally our articles are incomplete, unhelpful, misleading or incorrect, and we cannot guarantee the accuracy of anything you find on wikiHow. You should use your best judgment and consult multiple sources when following any instructions you read anywhere on the internet, including wikiHow.
 6.  We value your privacy. Read more at our Privacy Policy and Cookie Policy.
-7.  If you have a question, concern or just want to offer a note of thanks, you can email us at wiki@wikiHow.com.
+7.  If you would like to have your wikiHow account and all personal data deleted from our site, we will he happy to do so. Just email wiki@wikiHow.com with the subject line "Account deletion request" and provide your wikiHow user name.
+8.  If you have a question, concern or just want to offer a note of thanks, you can email us at wiki@wikiHow.com.
 
 Please see below for our official Terms of Use. We encourage you to read them carefully. Thank you for using and contributing to wikiHow. We appreciate your support in promoting our goal of sharing information freely around the world.  
 
