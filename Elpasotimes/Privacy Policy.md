@@ -75,7 +75,7 @@ close dialogMemorial Day SaleHURRY SALE ENDS MAY 31ST$999 for 6 monthsSubscribec
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTeens arrested after far East El Paso shootingCrimeElection results for El Paso CountyNewsSamaniego is the next El Paso County JudgeNewsEl Paso principal gets McDonald's-themed partyLifeUTEP President Diana Natalicio to retireUtepDad put frozen bacon on hurt baby, didn't call 911CrimeEl Paso's Music Under the Stars lineup announcedBlogsGina Ortiz Jones will challenge Will HurdPoliticsDallas police officer from El Paso out of hospitalNewsOne killed in Northeast El Paso crash on DyerLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowFine accord offers El Pasoans options, not jailLocalEl Paso motorcycle freeway chase ends in NM crashCrimeWoman carjacked for SUV at Sunland Park MallCrimeMayor: Public will think city attorney retiredLocalHistoric Bassett Tower reborn as Aloft HotelLocalTip leads to arrest of teen on most wanted listCrimeTeens arrested after far East El Paso shootingCrimeEl Paso principal gets McDonald's-themed partyLifeElection results for El Paso CountyNewsSamaniego is the next El Paso County JudgeNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
