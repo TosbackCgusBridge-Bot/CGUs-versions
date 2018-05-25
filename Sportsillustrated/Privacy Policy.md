@@ -14,7 +14,7 @@ SPORTS ILLUSTRATED PRIVACY POLICY Table of Contents
 *   Changes to this Privacy Policy
 *   How to Contact Us
 
-European Union Privacy Information  
+(NEW)European Union Privacy Information  
 For citizens of member countries of the European Union, and Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand
 
 Canada Privacy Information  
