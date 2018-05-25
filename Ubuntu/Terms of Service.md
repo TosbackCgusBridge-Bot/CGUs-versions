@@ -30,6 +30,10 @@ Service terms ›
 
 This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and Managed Services customers.
 
+Modern slavery statement
+
+This is Canonical’s modern slavery statement.
+
 Want a fully managed private cloud?
 
 BootStack is your OpenStack private cloud with our experts responsible for design, deployment and availability.
