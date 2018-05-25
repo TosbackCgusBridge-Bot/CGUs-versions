@@ -55,11 +55,11 @@ We at Mattel pride ourselves on helping bring delight to children around the wor
 
   Definitions
 
-**Child/children (kid/kids).** Individuals who are not of legal age to consent to the collection and processing of their _personal information_. For most areas of the world, those are individuals under 13. In the European Economic Area (EEA), they are individuals under 16. We adhere to local definitions of “children” for _Mattel Services_ located in jurisdictions where the age is different.
+**Child/children (kid/kids).** Individuals who are not of legal age to consent to the collection and processing of their personal information. For most areas of the world, those are individuals under 13. In the European Economic Area (EEA), they are individuals under 16. We adhere to local definitions of “children” for Mattel Services located in jurisdictions where the age is different.
 
 **Information.** Data we collect. It includes, in alphabetical order:
 
-*   **Automatically collected information.**Information automatically collected when you use _Mattel Services_, including information to facilitate your experience and help us understand our visitors, like your _device information_, information about the network you are using to access _Mattel Services_ (such as preferred language or online sites or services visited before you visit a Mattel Service), and content (including ads) that you see or click on.
+*   **Automatically collected information.**Information automatically collected when you use Mattel Services, including information to facilitate your experience and help us understand our visitors, like your device information, information about the network you are using to access Mattel Services (such as preferred language or online sites or services visited before you visit a Mattel Service), and content (including ads) that you see or click on.
     
 *   **Device information.**Information about the device, browser, or app you are using to access a Mattel Service, such as operating system, browser information, Internet Protocol (IP) address, Universal Device Identifiers (UDID), and similar information.
     
@@ -67,25 +67,25 @@ We at Mattel pride ourselves on helping bring delight to children around the wor
     
 *   **Location information.** Information that allows you to be precisely located, such as through GPS coordinates on a mobile app.
     
-*   **Login information.** Information to identify and validate a user to allow access to a Mattel Service. For _children_, this is usually a user name and password. For adults, this is usually a password plus some _personal contact information_, like an email address.
+*   **Login information.** Information to identify and validate a user to allow access to a Mattel Service. For children, this is usually a user name and password. For adults, this is usually a password plus some personal contact information, like an email address.
     
-*   **Order information.** Information provided to purchase a product or _Mattel Service_, including details necessary to fulfill the transaction, such as products ordered, _payment information_, and _personal contact information_.
+*   **Order information.** Information provided to purchase a product or Mattel Service, including details necessary to fulfill the transaction, such as products ordered, payment information, and personal contact information.
     
-*   **Payment information.** Credit card numbers or other financial institution-issued information provided to complete a transaction, including (as applicable) _personal contact information_.
+*   **Payment information.** Credit card numbers or other financial institution-issued information provided to complete a transaction, including (as applicable) _personal_ contact information.
     
 *   **Personal information.** Information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, address, email address, device identifier, telephone number, or assigned identifier. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information.
     
-    *   For _children_, _personal information_ also includes photos, video, and audio of the _child_.
+    *   For children, personal information also includes photos, video, and audio of the child.
         
 *   **Personal contact information.** Information that allows us to contact you directly, such as your full name, email address, home address, telephone number, mobile number, etc.
     
 *   **Survey information.** Answers to surveys or questionnaires voluntarily provided.
     
-*   **Social sign-on information.** _Login information_ and other information (such as friend lists) from a social network that a user chooses to share with Mattel to access a _Mattel Service_ or _Mattel Site_.
+*   **Social sign-on information.** Login information and other information (such as friend lists) from a social network that a user chooses to share with Mattel to access a Mattel Service or Mattel Site.
     
-*   **Third-party–provided information.** Data shared with the _Mattel family of companies_ through a _third party_.
+*   **Third-party–provided information.** Data shared with the Mattel family of companies through a third party.
     
-*   **User-generated content.** Information you post or upload, like reviews, comments, videos or pictures, or social media interactions. Read more at _User-Generated Content._
+*   **User-generated content.** Information you post or upload, like reviews, comments, videos or pictures, or social media interactions. Read more at User-Generated Content.
     
 
 **Interest-based advertising.** Targeted ads for products and services that, based on your activities, are likely to be of interest to you.
@@ -96,7 +96,7 @@ We at Mattel pride ourselves on helping bring delight to children around the wor
     
 *   Fisher-Price, Inc.,
     
-*   Fuhu/Nabi Brands,
+*   Fuhu/nabi Brands,
     
 *   American Girl Brands, LLC,
     
@@ -105,13 +105,13 @@ We at Mattel pride ourselves on helping bring delight to children around the wor
 *   Mega Brands Inc.
     
 
-**Mattel Sites.** Websites offered by the _Mattel family of companies_. _See Mattel Services_.
+**Mattel Sites.** Websites offered by the Mattel family of companies. See Mattel Services.
 
-**Mattel Services.** All online services offered by the _Mattel family of companies_, including websites (_Mattel Sites_), apps, and connected products. Read more at Mattel Services.
+**Mattel Services.** All online services offered by the Mattel family of companies, including websites (Mattel Sites), apps, and connected products. Read more at Mattel Services.
 
-**Third party.** A company unrelated to the _Mattel family of companies_, including third-party sites that we link to, or third parties that operate online stores or mobile app stores. Read more at Third-PartyPartners and Third-Party Technology Partners.
+**Third party.** A company unrelated to the Mattel family of companies, including third-party sites that we link to, or third parties that operate online stores or mobile app stores. Read more at Third-PartyPartners and Third-Party Technology Partners.
 
-*   **Third-party partner or third-party service provider.** A _third party_ that Mattel has engaged to help it provide _Mattel Services_, including agents, vendors, service providers, and others.
+*   **Third-party partner or third-party service provider.** A third party that Mattel has engaged to help it provide Mattel Services, including agents, vendors, service providers, and others.
     
 
 **Third-party technology partners.** Third parties whose technologies we use to offer content, understand our users, and deliver advertising.
