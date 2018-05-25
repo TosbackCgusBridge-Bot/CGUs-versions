@@ -66,7 +66,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: May 21, 2018
+Last Updated: May 24, 2018
 
 **1\. Introduction**
 
@@ -202,7 +202,9 @@ Please also note that since these message proxy and relay services depend on the
 
 **3.6 Minimum Age of our Users**
 
-Indeed limits its processing of Personal Data to users that are of a legal working age, and adopts a range of measures to try to ensure that we do not accept such users. If you are under 14 years of age (as is required in part A section 18 of our Terms of Service), please email privacy-dept @ indeed.com (remove spaces when sending email). Legal working age levels vary in different countries. Consequently, Indeed may vary this minimum age, as required, to comply with any applicable local laws.
+The Site is not for use by anyone under the age of 16. To use the Site you agree that you must be the minimum age (described in this paragraph below) or older.
+
+The minimum age for these purposes shall be 16, however if local laws require that you must be older in order for Indeed to lawfully provide the services in the Site to you then that older age shall apply as the applicable minimum age. In all jurisdictions outside the European Union, if you are under the age of 18 or the age of majority in your jurisdiction, you must use Indeed under the supervision of your parent, legal guardian or responsible adult. Indeed adopts a range of measures to try to ensure that we do not accept individuals who do not meet the minimum age and any other applicable age requirements. If you do not satisfy these age requirements, please email privacy-dept @ indeed.com (remove spaces when sending email).
 
 **4\. Purposes, Uses and Disclosures of Information**
 
@@ -454,7 +456,7 @@ This Agreement hereby incorporates by this reference any additional terms and co
 
 Indeed General Terms of Service
 
-Last Updated: April 23, 2018.
+Last Updated: May 24, 2018.
 
 **A.** The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.
 
@@ -490,7 +492,7 @@ By using Indeed Apply and answering screener questions, you acknowledge that Emp
 
 **1(k) Screening Tools**:  Indeed may make screening tools available to Employers for Employer use in the application process, including screener questions, phone screen tools and employee assessments. Indeed is licensing these tools to you for your use as you determine. By using any screening product, made available to you by Indeed, you agree that you have made the determination to use these tools as part of your application process, and the substantive questions you ask or choose are solely determined by you, and are not being asked by Indeed.  You are the sole party to determine which answers will qualify a candidate. You are solely responsible for the use of the screening tool including any results which are considered to have a “disparate impact”. **You further acknowledge that you are responsible for offering alternative methods of screening, if so required by the Americans with Disabilities Act or any other equivalent state act.** Indeed does not warrant that the method of delivery of these questions would be compliant with the Americans with Disabilities Act or any equivalent state act. You the Employer agree to indemnify Indeed for any and all claims arising out of an Employer’s  use of a Screening Tool, including any claims that any screening tool does not comply with the Americans with Disabilities Act or that such Screening Tool results in a “disparate impact”.
 
-**1(l)** Regardless of whether you are a Job Seeker or an Employer, any emails or email notifications corresponding with any actions you take on the Site through the Indeed Apply process are provided solely as a courtesy. Indeed disclaims all warranties with regards to the transmission or storage of such courtesy notices, does not guarantee their delivery or receipt, and does not guarantee the date or time at which they may be sent. In the event a message being sent is intended for a closed account, these messages will not be deliverable. Further, if you are an Employer and you posted a Job Listing directly on Indeed, applications are sent only to your Indeed dashboard. any other notifications you may receive are provided solely as a courtesy to you.
+**1(l)** Regardless of whether you are a Job Seeker or an Employer, any emails or email notifications corresponding with any actions you take on the Site through the Indeed Apply process are provided solely as a courtesy. Indeed disclaims all warranties with regards to the transmission or storage of such courtesy notices, does not guarantee their delivery or receipt, and does not guarantee the date or time at which they may be sent. In the event a message being sent is intended for a closed account, these messages will not be deliverable. Further, if you are an Employer and you posted a Job Listing directly on Indeed, applications are sent only to your Indeed dashboard. any other notifications you may receive are provided solely as a courtesy to you. For example, you may not receive application email notifications if a job seeker has not answered screener questions correctly, although these applications will be sent to your Indeed dashboard.
 
 **1(m)** Indeed may offer beta test products which have different pricing models for posting your Job Listing, including but not limited to payment for candidates you deem to be qualified.  These beta test products may be offered in limited quantities, in limited locations, and for limited job categories in order to gauge interest. The current offering is in two locations within the Austin area (Georgetown, TX and San Marcos, TX) for Senior Staff Nurse and Dental Nurse jobs. If you purchase the beta test product in which you receive a certain number of qualified candidates for a price, please note that any “money back” offer requires that you notify Indeed within thirty days that the candidates you receive do not meet your qualifications.  Indeed reserves the right to offer “money back” either via a refund or simply not invoicing you for payment.  Indeed further reserves the right to change the terms or parameters of any beta test product at any time.
 
@@ -667,7 +669,9 @@ By using any of the Indeed Apps, including but not limited to the Indeed Job Sea
 
 **18\. Use of Site by Minors**
 
-The Site is not directed to individuals under the age of fourteen (14), but if you are under the age of 18 or the age of majority in your jurisdiction, you must use Indeed under the supervision of a parent or legal guardian, or responsible adult.
+The Site is not for use by anyone under the age of 16. To use the Site you agree that you must be the minimum age (described in this paragraph below) or older.
+
+The minimum age for these purposes shall be 16, however if local laws require that you must be older in order for Indeed to lawfully provide the services in the Site to you then that older age shall apply as the applicable minimum age. In all jurisdictions outside the European Union, if you are under the age of 18 or the age of majority in your jurisdiction, you must use Indeed under the supervision of your parent, legal guardian or responsible adult. Indeed adopts a range of measures to try to ensure that we do not accept individuals who do not meet the minimum age and any other applicable age requirements. If you do not satisfy these age requirements, please email privacy-dept @ indeed.com (remove spaces when sending email).
 
 B. Indeed Resume/CV Program Terms
 
@@ -1073,4 +1077,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1ce8ak6hla118d7r&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Browse Companies - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Help Center Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1ceatc9n7ag4s9fr&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>. By using Indeed you agree to our new Privacy Policy, Cookie Policy and Terms, which we encourage you to review.Dismiss
