@@ -1,4 +1,4 @@
-Privacy Policy
+POPSUGAR Privacy Policy
 
 Effective Date: July 25, 2017
 
@@ -39,8 +39,8 @@ POPSUGAR Inc., its subsidiaries and affiliates ("POPSUGAR," "we," "us," "our") t
     *   ✪ Business Transfers. We may share your information in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be disclosed or transferred as one of our business assets.
     *   ✪ Enforcement of Terms and Policies. We may share your information to enforce or apply our Privacy Policy, Terms of Service or our other policies or agreements.
     *   ✪ Protection of POPSUGAR and Others. We may access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order. or protect the rights, property, or safety of POPSUGAR, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-    *   ✪ User Profiles and Submissions: Certain user profile information such as a user's name or any video or image content that you have uploaded to the Services may be displayed to other users to facilitate user interaction within the Service or address your request for Services.
-    *   ✪ With Your Consent: We may share your information in other circumstances with your consent, for example when you have chosen to link an account with our Services with a social media network like Facebook.
+    *   ✪ User Profiles and Submissions. Certain user profile information such as a user's name or any video or image content that you have uploaded to the Services may be displayed to other users to facilitate user interaction within the Service or address your request for Services.
+    *   ✪ With Your Consent. We may share your information in other circumstances with your consent, for example when you have chosen to link an account with our Services with a social media network like Facebook.
 *   HOW MAY POPSUGAR COMMUNICATE WITH ME?
     
     We may contact or communicate with you by email, postal mail, notices on our websites or applications, newsletters or other means available through the Services, including push notifications and mobile text messages. Such communications may contain messages of a commercial or non-commercial nature, including but not limited to, providing you the Service or response to your inquiry that you requested, marketing and promotions of our Services or the services of our partners and advertisers, administrative purposes, or to carry out other purposes described in this Privacy Policy.
@@ -65,19 +65,28 @@ POPSUGAR Inc., its subsidiaries and affiliates ("POPSUGAR," "we," "us," "our") t
     
     Third parties may collect information about your online activities over time and across different websites, devices, online channels and applications when you use our Services. For example, advertisers can collect information about your device (including unique identifiers) and your usage of our Services for their own purposes, including advertising and analytics. Some third parties help us and others associate your activities across the browsers and devices you use, for retargeting, cross-device advertising, analytics, and measurement purposes.
     
-    Some of the companies described above are members of the Network Advertising Initiative ("NAI") and/or the Digital Advertising Alliance ("DAA"), each of which offers a single location to opt out of receiving tailored ads from its member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the NAI consumer opt out page located here and for mobile here. To opt out of information collection by DAA member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the DAA consumer choices page located here.
+    Some of the companies described above are members of the Network Advertising Initiative ("NAI") and/or the Digital Advertising Alliance ("DAA"), each of which offers a single location to opt out of receiving tailored ads from its member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the NAI consumer opt out page located  
+    here and for mobile here.  
+    To opt out of information collection by DAA member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the DAA consumer choices page located  
+    here.
     
     POPSUGAR also works with third parties to provide analytics information regarding your usage of our Services or to help us track the advertisements that are delivered to you to determine the effectiveness of advertising on our Services. Third parties that use cookies, web beacons and other technologies to assist us with our traffic measurement, research and analytics include, but are not limited to, Adobe, Adjust, Comscore, Fabric, LiveRamp, Tapad, TubeMogul, Moat, Nielsen, DoubleClick and Flurry.
     
-    To opt out of collection of your information by Nielsen, or to obtain information about the technologies they use or their own privacy policies, please visit the Nielsen consumer opt out page located here. To opt out of collection of your information by Flurry analytics via our mobile applications, please visit the Flurry end user opt out page located here.
+    To opt out of collection of your information by Nielsen, or to obtain information about the technologies they use or their own privacy policies, please visit the Nielsen consumer opt out page located  
+    here.  
+    To opt out of collection of your information by Flurry analytics via our mobile applications, please visit the Flurry end user opt out page located  
+    here.
     
 *   WHAT CHOICES DO I HAVE?
     
     *   ✪ Change Your Account Settings. You may add or update information, or change your account privacy settings which limits the other users who can see the information in your user profile and/or what information in your user profile is visible to others. The information you can view, update, or delete may change as the Services change.
     *   ✪ Cookies. You can usually instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from our websites that you visit. If you do not accept cookies, you may not be able to use all portions of the Services or all functionality of the Services.
     *   ✪ Tailored Advertising, Analytics, and Marketing. You may be able to opt-out of these third-party services as set forth in the section above - HOW DOES POPSUGAR USE THIRD-PARTY ONLINE ADVERTISING, MARKETING SERVICES OR ANALYTICS?
-    *   ✪ Email or Postal Mail. If you do not want to receive email or other mail from us, please indicate your preference by changing your account settings, contacting us at community@popsugar.com, or by clicking the "unsubscribe" link in an email we send to you. If you do not wish to receive email or other mail from Advertisers, or other third-party partners, please refer to the applicable third-party privacy policy and request an opt-out directly from the Advertiser, or other third-party partner.
-    *   ✪ Deactivating Your Account. You can always choose not to disclose information to us or delete information, but keep in mind some information may be needed to register with us or to take advantage of some of our special features. You may request deactivation of your account by contacting us at community@popsugar.com.
+    *   ✪ Email or Postal Mail. If you do not want to receive email or other mail from us, please indicate your preference by changing your account settings, contacting us at  
+        community@popsugar.com,  
+        or by clicking the "unsubscribe" link in an email we send to you. If you do not wish to receive email or other mail from Advertisers, or other third-party partners, please refer to the applicable third-party privacy policy and request an opt-out directly from the Advertiser, or other third-party partner.
+    *   ✪ Deactivating Your Account. You can always choose not to disclose information to us or delete information, but keep in mind some information may be needed to register with us or to take advantage of some of our special features. You may request deactivation of your account by contacting us at  
+        community@popsugar.com.
     *   ✪ De-Linking Account. You may de-link your POPSUGAR account from an account on another service such as a social media account in your account setting. However, in order to de-link it completely, you may also have to adjust your account settings with the third party application. For example, if you want to de-link your Facebook account with POPSUGAR, you must de-link your accounts in both your POPSUGAR account settings and in your Facebook application settings.
     *   ✪ Push Notifications. You may adjust the "Settings" on your mobile device to disable push notifications for any of our mobile applications for which you would like to stop receiving such notifications. You may adjust the "Notification" settings usually found in your browser "Preferences" or "Settings" to block or remove certain browser-based push notifications.
     *   ✪ Text Messages. If you no longer wish to receive text messages from our Must Have It Service you can reply 'STOP' to any text message sent by us through the Must Have It Service, text 'STOP' to (415) 692-1313, or visit the "Account Settings" page in your Must Have account and change the Must Have It Phone Number settings from 'on' to 'off'.
@@ -104,7 +113,8 @@ POPSUGAR Inc., its subsidiaries and affiliates ("POPSUGAR," "we," "us," "our") t
     
 *   CALIFORNIA MARKETING
     
-    Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to community@popsugar.com.
+    Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to  
+    community@popsugar.com.
     
 *   DO NOT TRACK
     
@@ -112,7 +122,8 @@ POPSUGAR Inc., its subsidiaries and affiliates ("POPSUGAR," "we," "us," "our") t
     
 *   SERVICES NOT DIRECTED TO CHILDREN
     
-    The Services are not directed to children under 13. We do not knowingly collect or solicit personally identifiable information from anyone under the age of 13 . If you are under 13, please do not attempt to register for the Services or send any information about yourself to us. If a parent or guardian becomes aware of his or her child has provided us with personal information without their consent, please contact us at community@popsugar.com.
+    The Services are not directed to children under 13. We do not knowingly collect or solicit personally identifiable information from anyone under the age of 13 . If you are under 13, please do not attempt to register for the Services or send any information about yourself to us. If a parent or guardian becomes aware of his or her child has provided us with personal information without their consent, please contact us at  
+    community@popsugar.com.
     
 *   INTERNATIONAL TRANSFER
     
