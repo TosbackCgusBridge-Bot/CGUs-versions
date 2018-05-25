@@ -347,7 +347,7 @@ To read more about contact information
 
 click here Important Info Important Info
 
-\[1\] MSRP does not include delivery, processing and handling fee of $995. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
+\[1\] MSRP does not include delivery, processing and handling fee of $1,025. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
 \[2\] Preliminary mileage estimates determined by Lexus. EPA mileage estimates not available at time of posting. Actual mileage will vary.
 
@@ -355,7 +355,7 @@ click here Important Info Important Info
 
 \[4\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
 
-\[5\] MSRP does not include delivery, processing and handling fee of $1,195. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
+\[5\] MSRP does not include delivery, processing and handling fee of $1,295. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
 Leasing &. Finance
 
