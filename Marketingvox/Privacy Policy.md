@@ -83,6 +83,8 @@ We collect anonymous usage data (technically known as “referrer logs”) on ou
 
 We may use technical tracking means such as cookies or web beacons (single-pixel transparent gifs). These techniques are anonymous and used for statistical purposes only (e.g. finding our email open rate). We won’t try to monitor your anonymous personal usage of our site and letters. You can set up your browser to refuse cookies if you want to, though that might limit some site features.
 
+We use Google Analytics software to collect general information about how our audience uses MarketingCharts.com.
+
 We may use an outside advertising company to display advertisements on our website. Advertisements served from third parties may or may not contain cookies and other tracking mechanisms.
 
 Security
@@ -95,7 +97,7 @@ Personally Identifiable Information provided to Marketing Charts LLC is subject 
 
 — Marketing Charts LLC, 2018
 
-This Privacy Policy was most recently updated on May 18, 2018.
+This Privacy Policy was most recently updated on May 24, 2018.
 
 2714 52nd St. S  
 Gulfport, FL 33707
@@ -138,4 +140,4 @@ Subscribe to Our Newsletter
 
 **Error:** Password and password confirmation do not match
 
-Download Now Exact matches only Search in title Search in content Search in comments Search in excerpt Filter by Custom Post Type
+Download Now We use cookies to ensure that we give you the best experience on our website. By continuing to use our website, you are agreeing to our use of cookies.OkPrivacy Policy Exact matches only Search in title Search in content Search in comments Search in excerpt Filter by Custom Post Type
