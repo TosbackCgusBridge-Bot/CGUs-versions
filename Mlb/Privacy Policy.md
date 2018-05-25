@@ -1,197 +1,423 @@
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <a href="http://www.omniture.com" title="Web Analytics"><img src="http://mlbreloaded.112.2O7.net/b/ss/mlbreloaded/1/H.13--NS/0?\[AQB\]&cdp=3&\[AQE\]" height="1" width="1" border="0" alt="" /></a>. To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 한국어 日本語 Español
-
-SectionsScoresNewsVideoStatsStandingsSchedulePlayersTicketsAppsShopMLB.TVAuctionFantasyPlay BallTeams
+Exhibition Team logoAmerican League logoNational League logoLos Angeles Angels of Anaheim hat dark logoArizona Diamondbacks hat dark logoBaltimore Orioles hat dark logoBoston Red Sox hat dark logoChicago Cubs hat dark logoCincinnati Reds Cap Logo on LightCleveland Indians hat dark logoColorado Rockies hat dark logoDetroit Tigers cap on light logoHouston Astros hat dark logoKansas City Royals hat dark logoLos Angeles Dodgers hat dark logoWashington Nationals dark logoNew York Mets hat dark logoOakland Athletics cap logoPittsburgh Pirates hat dark logoSan Diego Padres cap logo on lightSeattle Mariners Cap Logo on LightSan Francisco Giants hat dark logoSt. Louis Cardinals Cap Logo on LightTampa Bay Rays hat dark logoTexas Rangers cap logoToronto Blue Jays hat dark logoMinnesota Twins hat dark logoPhiladelphia Phillies hat dark logoAtlanta Braves hat dark logoChicago White Sox hat dark logoMiami Marlins Cap Logo on LightNew York Yankees hat dark logoMilwaukee Brewers Cap Logo on LightGlobe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video Standings Stats Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Play Ball Teams EN
 
 *   Scores
-*   News
-*   Video
-*   Stats
-*   Standings
-*   Schedule
-*   Players
-*   Tickets
-*   Apps
-*   Shop
-*   MLB.TV
-*   Auction
-*   Fantasy
-*   Play Ball
-*   Teams
-
-Official Info Skip to main content
-
-*   _General_
-    *   Home
-    *   Press Releases
-    *   Official Sponsors
-*   _About MLB_
-    *   Home
-    *   MLB Press Releases
-    *   Executives
-*   _About MLB.com_
-    *   Home
-    *   MLB.com Press Releases
-    *   Job Opportunities
-    *   Terms of Use
-    *   Privacy Policy
-    *   Contact Us
-*   _Umpires_
-    *   Home
-    *   Umpire Roster
-    *   All-Time Umpiring Roster
-    *   Umpiring Timeline
-    *   Rules of Interest
-    *   Ground Rules
-    *   The Strike Zone
-    *   MLB Umpire Executives
-    *   Umpire Camps
-    *   Feature Archive
-    *   How to Become
-    *   Virtual Umpire Camp
-*   _Reviving Baseball in Inner Cities (RBI)_
-    *   RBI Home
-    *   RBI World Series
-*   Urban Youth Academy
-*   _Diverse Business Partners_
-    *   Home
-    *   About
-    *   Supplier Info
-    *   Supplier Spotlights
-    *   Diverse Business Summit
-*   _Television_
+*   News News News
+    
+    In This Section
+    
+    *   Probable Pitchers
+    *   Top Prospects
+    *   Injury Updates
+    *   Transactions
+    *   Hall of Fame
+    *   Postseason history
+    *   World Series
+    *   Events
+    *   MLB Draft
+    *   All-Star Game
+    
+    Featured
+    *   Cut4
+    *   Play Ball
+    *   Players of the Week
+    *   Pipeline
+    *   Awards
+    *   MLB Photo Stream
+    *   Entertainment
+    *   Reporter's Inbox
+    *   Glossary
+    *   Rare Feats
+*   Video Video Video
+    
+    In This Section
+    
+    *   Watch MLB.TV
+    *   Instant Replay
+    *   Statcast
+    *   Players of the Week
+    *   MLB Network
+    *   Sharable Video/GIFs
+    *   Stadium
+    *   Podcasts
+    *   On The Move
+    *   Most Popular
+    
+    Featured
+    *   Real Fast
+    *   Tip of the Cap
+    *   Dirtiest Plays
+    *   Must C
+    *   Chatting Cage
+    *   Carry The Freight
+    *   Papa Slam
+    *   Famous Plays
+    *   Pitching Matchups
+    *   First Pitch
+*   Standings Standings Standings
+    *   2018 Regular Season Standings
+    *   2017 Regular Season Standings
+    *   2018 Spring Training Standings
+*   Stats Stats Stats
+    *   2018 Regular Season Stats
+    *   2018 Regular Season League Leaders
+    *   2018 Sortable Team Stats
+    *   Spring Training Sortable Stats
+    *   Postseason Sortable Stats
+    *   Statcast Leaders
+    *   Milestone Tracker
+    *   Offseason Leagues
+    *   Scoring Changes
+    *   Glossary
+*   Schedule Schedule Schedule
+    *   2018 Regular Season
+    *   2018 Spring Training
+    *   2017 Postseason
+    *   2017 Regular Season
+    *   Important Dates
+    *   Team by Team Schedule
     *   National Broadcasts
-*   _Official Rules_
-    *   Replay Review Regulations
-    *   Foreword
-    *   Official Baseball Rules
-*   _Baseball Basics_
-    *   On the Field
-    *   Keeping Score
-    *   Baseball Lingo
-    *   Abbreviations
-    *   Stats 101
-*   MLB in the Community
-*   FAQ
-*   Contact Teams
-*   International
-*   MLB Productions
+    *   Sunday Night Broadcasts
+    *   Probable Pitchers
+*   Players Players Players
+    *   Player Search
+    *   Injury Updates
+    *   Depth Charts
+    *   Transactions
+    *   Top Prospects
+    *   Mobile Player Alerts
+    *   MLB Players Association
+    *   Probable Pitchers
+*   Tickets Tickets Tickets
+    *   General Ticket Information
+    *   Big League Tours
+    *   2017 Postseason Ticket Terms &. Policies
+    *   StubHub.comBig League Tours 2018 Season Tickets Bank of America
+*   Apps Apps Apps
+    *   MLB At Bat app
+    *   MLB Ballpark app
+    *   MLB Franchise MVP
+    *   MLB Home Run Derby
+    *   MLB Line Drive
+    *   R.B.I. Baseball 18
+    *   FAQBallpark RBI Baseball
+*   Shop Shop US Shop
+    
+    *   Jerseys
+    *   Caps
+    *   Men's
+    *   Women's
+    *   Kids
+    *   Big &. Tall
+    *   Collectibles &. Memorabilia
+    *   Home &. Office
+    *   Clearance
+    *   Gift Certificates
+    *   Wine
+    *   Photo Store
+    
+    European Shop
+    
+    *   Home
+    *   Jerseys
+    *   Caps
+    *   Men's
+    *   Women's
+    
+    Auctions
+    *   Authentication
+    *   Autographed
+    *   Baseball Cards
+    *   Baseballs
+    *   Bats
+    *   Caps
+    *   Experiences
+    *   Game-Used
+    *   Jerseys
+    *   PhotosAuctions
+*   MLB.TV MLB.TV MLB.TV
+    *   Buy MLB.TV
+    *   Watch MLB.TV
+    *   Buy Gameday Audio
+    *   Buy Follow Your Team
+    *   Select 2017 Archives
+    *   MLB.TV Supported Devices
+    *   MLB.TV with Extra Innings
+    *   MLB.TV Help Center/FAQs
+    *   MLB.TV Blackouts FAQ
+    *   MLB.TV National Blackout Schedule
+    *   Contact Us
+    *   Forgot Password?
+*   Auction
+*   Fantasy Fantasy Fantasy
+    *   2018 Beat the Streak
+    *   R.B.I. Baseball 18
+    *   MLB Home Run Derby
+    *   MLB Line Drive
+    *   MLB Franchise MVP
+    *   Player News &. Updates
+    *   Closer Report
+    *   Injury Report
+    *   WGT Baseball: MLB
+    *   Prospect Watch
+    *   Fantasy 411 Blog
+    *   Follow @Fantasy4112018 Beat the Streak R.B.I. Baseball 2018
+*   Play Ball Play Ball Play Ball
+    *   PlayBall.org
+    *   #MLBThePlay
+    *   Videos
+    *   Photos
+    *   News
+    *   Pitch Smart
+    *   Play Ball Near You
+    *   Parent/Coach Education
+    *   RBI
+    *   Pitch, Hit &. Run
+    *   Jr. Home Run Derby
+    *   MLB Pipeline
+    *   Youth Academies
+    *   Breakthrough Series
+    *   Elite Development Invitational
+    *   USA Baseball
+    *   USA Softball
+    *   Dream Series
+    *   Trailblazer SeriesRBI Trailblazer Series
+*   Teams Teams
+    *   American League
+        *   AL East
+            *   Baltimore
+            *   Boston
+            *   NY Yankees
+            *   Tampa Bay
+            *   Toronto
+        *   AL Central
+            *   Chi White Sox
+            *   Cleveland
+            *   Detroit
+            *   Kansas City
+            *   Minnesota
+        *   AL West
+            *   Houston
+            *   LA Angels
+            *   Oakland
+            *   Seattle
+            *   Texas
+    *   National League
+        *   NL East
+            *   Atlanta
+            *   Miami
+            *   NY Mets
+            *   Philadelphia
+            *   Washington
+        *   NL Central
+            *   Chi Cubs
+            *   Cincinnati
+            *   Milwaukee
+            *   Pittsburgh
+            *   St. Louis
+        *   NL West
+            *   Arizona
+            *   Colorado
+            *   LA Dodgers
+            *   San Diego
+            *   San Francisco
+*   EN Languages Languages
+    *   English
+        
+        Welcome to MLB.com, the official site of Major League Baseball
+        
+    *   Español
+        
+        Bienvenido a LasMayores.com, el sitio oficial de Las Grandes Ligas de Béisbol.
+        
+    *   日本語
+        
+        Major League Baseball オフィシャルサイト、MLB.comへようこそ
+        
+    *   한국어
+        
+        Major League Baseball 의 공식 사이트, MLB.com에 오신 것을 환영합니다
+        
 
-Below is an advertisement.
+MLB Privacy Policy Privacy Policy
 
-Official Info Privacy Policy PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING THIS WEBSITE, APPLICATION OR ANY OTHER MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.
+**PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING THIS WEBSITE, APPLICATION OR ANY OTHER MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.**
 
-MLB Advanced Media, L.P. ("MLBAM") is the organization that produces and publishes the Official Website of Major League Baseball, which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball ("MLB") Clubs, the Official Websites of certain other MLB-related properties (collectively, this "Website"), downloadable mobile applications (e.g., MLB.com At Bat, MLB.com Ballpark) available from third party application storefronts ("Application(s)"), mobile games available from third party application storefronts (e.g., MLB.com Beat the Streak, MLB.com R.B.I. Baseball) ("Mobile Games"), games and other applications available from third party social media locations and gaming websites (e.g., MLB Ballpark Empire) ("Social Games" and together with Mobile Games, "Games"). This Privacy Policy is applicable to this Website, the Applications, Games and all products and services provided and/or distributed (whether via this Website or elsewhere) by MLBAM which link to this Privacy Policy, all of which will be referred to herein collectively as the "MLBAM Properties" and individually as an "MLBAM Property." This Privacy Policy describes what information we collect via the MLBAM Properties, how we may use that information and the choices we offer for you to manage the personal information we collect related to your use of the MLBAM Properties. This Privacy Policy does not apply to the collection of information from you by MLB Clubs offline (e.g., when you provide information over the phone or on a paper form). Certain MLB Club offline privacy practices may be available for review within ballparks or at the ballpark information page located on the MLB Club websites. The MLBAM Properties may link to services or properties operated by third parties (e.g., the official photo store of MLB) which are not subject to this Privacy Policy. You should familiarize yourself with the privacy practices of any third party whose services or properties you utilize and direct any concerns regarding any such third party property to the administrator of the applicable property.
+MLB Advanced Media, L.P. ("MLBAM") is the organization that produces and publishes the Official Website of Major League Baseball, which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball (collectively "MLB Clubs" and each an "MLB Club"), the Official Websites of certain other MLB-related properties (collectively, this "Website"), downloadable mobile applications (e.g., MLB.com At Bat, MLB.com Ballpark) available from third party application storefronts ("Application(s)"), mobile games available from third party application storefronts (e.g., MLB.com Beat the Streak, MLB.com R.B.I. Baseball) ("Mobile Games"), games and other applications available from third party social media locations and gaming websites (e.g., MLB Ballpark Empire) ("Social Games" and together with Mobile Games, "Games"). For customers within the EU, MLBAM is the data controller of your personal data. Please see the contact details at the end of this Privacy Policy. This Privacy Policy is applicable to this Website, the Applications, Games and all products and services provided and/or distributed (whether via this Website or elsewhere) by MLBAM which link to this Privacy Policy, all of which will be referred to herein collectively as the "MLBAM Properties" and individually as an "MLBAM Property." Where used in this Privacy Policy, "MLB Entities" means MLBAM, the Office of the Commissioner of Baseball, the MLB Clubs, Major League Baseball Properties, Inc., The MLB Network, LLC, and Tickets.com, Inc.  This Privacy Policy describes what information we collect via the MLBAM Properties, how we may use that information, when and to whom it may be disclosed, and the choices we offer for you to manage the personal information we collect related to your use of the MLBAM Properties. This Privacy Policy does not apply to the collection of information from you by MLB Clubs offline (e.g., when you provide information over the phone or on a paper form). Certain MLB Club offline privacy practices may be available for review within ballparks or at the ballpark information page located on the MLB Club websites. The MLBAM Properties may link to services or properties operated by third parties (e.g., the official photo store of MLB) which are not subject to this Privacy Policy. You should familiarize yourself with the privacy practices of any third party whose services or properties you utilize and direct any concerns regarding any such third party property to the administrator of the applicable property.
 
 1.  Personal Information We Collect
-2.  How We Use and Share Your Personal Information
-3.  Other Information Collected
-4.  Additional Disclosures
-5.  Managing Your Personal Information
-6.  Other Information. Contact Us
-
-1.  Personal Information We Collect
-    
-    We Collect Personal Information You Choose To Provide. You may visit and enjoy many elements of the MLBAM Properties without disclosing any personal information about yourself. However, if you choose to make use of select, special or enhanced elements of the MLBAM Properties, you may need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within the MLBAM Properties (e.g., create a profile, register for a promotion, make a purchase or publish a comment), the personal information we collect may include, but is not limited to:
-    
-    *   Full name,
-    *   Email address,
-    *   Password,
-    *   Street address,
-    *   Telephone number(s),
-    *   Birth date,
-    *   Payment card information,
-    *   Location data and
-    *   Contacts (as stored in your wireless device).
-    
-    If we collect your information, in most instances, the applicable page(s) or location(s) within the MLBAM Property will include statements regarding what information is required and functionality for you to submit required or requested information.
     
 2.  How We Use and Share Your Personal Information
     
-    If you submit personal information to us, or to any third party acting on our behalf (a "Service Provider"), via the MLBAM Properties, we may use and share your information as set forth in this Privacy Policy, as disclosed when you first submit your information or as otherwise permissible under applicable law. We will not sell, lease, publish or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and:
-    
-    *   To provide you with information you have requested, or with products, services or content you have purchased, used or otherwise engaged with, (e.g., a sweepstakes, rewards program, subscription to goods or services, etc.) and to communicate with you (including via postal mail) about the same.
-    *   To communicate with you about the league or MLB Club(s) applicable to your interactions with the MLBAM Properties and about products, services, sponsors, partners or affiliates related to a purchase you have made or rules or terms to which you have agreed, to the extent the sending of such communication is permissible under applicable law.
-    *   With one or more MLB Clubs or entities, to the extent you've submitted information or accessed functionality or content that relates specifically to such MLB Club(s) or entities (e.g., you've asked to receive the newsletter of an MLB Club or you've made an MLB Club-specific purchase), so we and they may learn more about fans like you, add you to the MLB Club's postal mail list, and provide better services to you.
-    *   To send you periodic surveys to help improve the MLBAM Properties or your MLB experience;
-    *   In connection with loyalty, membership or rewards programs operated or accessible from the MLBAM Properties.
-    *   When the personally identifying components of your information are removed, we may use and share such anonymized information for internal purposes (e.g., to learn about the age distribution of our users). and
-    *   In accordance with any other permission you provide at the time you submit such information to us.
-    
 3.  Other Information Collected
-    
-    Technical Information. When you use the MLBAM Properties, we use software tools, including but not limited to cookies (small amounts of data which include a unique string of characters sent to your browser or application from a website's computers and stored on your computer's or device's hard drive), web beacons (technology used to track activity, also known as pixel tags) and similar technologies, to collect a variety of technical, non-personally identifiable information, for example the type of Internet browser or operating system used to access an MLBAM Property, the date and duration of a Website visit or the Internet Protocol address used to access the Website. We use such technical information for internal purposes, for example to study and improve the response times of our Website. We may associate such technical information with personal information you provide to us as described in Section 1 above, in which case we will treat such associated information as personal information. Please be advised that associating technical information with personal information may be required for us, and our Service Providers, to recognize you and your communications with us, for example to retain your newsletter preferences or enable your use of a "shopping cart."
-    
-    Location Data. When you use an MLBAM Property via a wireless device we may solicit your permission to collect your location data. Some features within our Applications (e.g., live MLB game video or location-based offers) may only function upon confirmation of your location, and therefore such features will not be available if you choose not to provide your location data to us. The specificity of the location data collected may depend on a number of factors, including the device you are using (e.g., laptop, smartphone, tablet) and how you are connected to the Internet (e.g., via cable broadband connection, WiFi). If you enable location services for our Applications, we may collect location data (e.g., zip code) periodically as you use or leave open our Applications. We use such location information for internal purposes and to improve your MLBAM Property experience, for example to understand where our users are most successfully accessing the MLBAM Properties. We may associate such location information with personal information you provide to us as described in Section 1 above, in which case we will treat such associated information as personal information. Depending on the platform you use to access our Applications (e.g., Apple's iOS, Google's Android) you may be able to control whether location data is collected from within "Settings" or other controls on your wireless device or the Applications.
-    
-    Our Access to Your Contacts. When you use our Games, we may solicit your permission to access your contacts list (e.g., address book) so you can be matched with individuals from your contacts lists who participate in our Games and you can invite your friends to play. We will not store the information in your contacts list except to manage your Game invitations.
-    
-    Third Party Cookies and Web Beacons. Network Advertisers. We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with the MLBAM Properties, to set cookies, web beacons or similar technologies in certain locations within the MLBAM Properties, including but not limited to certain of our emails. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with the MLBAM Properties in order to tailor certain advertisements and content delivered within the MLBAM Properties and on other websites within such network advertiser's ad network. You may learn more about network advertising industry practices and opt out of targeted behavioral advertising from many major third party network advertisers via the information and tools available here and here.
-    
-    Social Networking. When using the MLBAM Properties or when using certain third party social networking services (e.g., Facebook, Twitter, Google +) (each a "Social Network"), you may have the option to connect your MLBAM Property information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your MLBAM Property activity with that Social Network and its users, and to access certain of your Social Network information, as disclosed to you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: technical information about your MLBAM Property activity, your MLBAM Property comments or the videos you watch on MLBAM Properties. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers and certain information about your activities on the Social Network. If you permit a connection between a Social Network and an MLBAM Property, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. We recommend that you familiarize yourself with the privacy policy and privacy control options of any Social Network with which you choose to share information or connect to an MLBAM Property.
-    
-    Device ID. When you use certain MLBAM Properties, we or our Service Provider may collect your unique device ID. We may use such information for internal purposes and to provide you a better MLBAM Property experience, for example to troubleshoot Application problems you may experience or provide you rewards or offers in connection with your Game activity. We may associate Device ID with personal information you provide to us as described in Section 1 above, in which case we will treat such associated information as personal information. You may learn more about our Service Provider for Mobile Games and opt out of any anonymous Device ID collection via the information and tools available here.
     
 4.  Other Circumstances When Your Data May Be Shared
     
-    *   Aggregated and Anonymous Information. We may share aggregated, anonymous information with any third party. This information is not linked to personal information that can identify you or another individual person.
-        
-    *   Business Transfers. As time passes, MLB Advanced Media, L.P. may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
-        
-    *   Disclosure for Legal Purposes. We may be required to share your personal and non-personal information pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose or share your personal and non-personal information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of MLBAM Properties' Terms of Use or as required by law.
-        
+5.  Transferring Your Personal Information Across Borders
     
-5.  Managing Your Personal Information
+6.  Managing Your Personal Information
     
-    You may choose and control what information you provide about yourself and certain information which is automatically collected via the MLBAM Properties. If you do not wish to provide certain information necessary for enhanced functionality or content on the MLBAM Properties, please do not use such functionality or content. If you have registered for an account through our Website, you may review and revise certain of your account information by clicking here to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
-    
-    If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed via the MLBAM Properties, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the Adobe website. If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain features of the MLBAM Properties.
-    
-    If you want to review or revise the personal information you provided during Website registration or in connection with certain Website purchases, or change the promotional email communications or newsletters you receive from us, you may either click here to log in, and then click on the applicable left-hand menu option(s). If you want to review or revise other personal information you have provided to us, or to close your account(s) and have us delete the applicable account personal information (except what is needed for record-keeping purposes) call MLB.com Customer Service at 866-800-1275.
-    
-    Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source.
-    
-6.  Other Information. Contact Us
-    
-    *   No Spyware or Adware. We do not install any spyware or adware in connection with our Services, or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of spyware or adware. "Spyware" or "Adware" is any software which has been downloaded to or installed on an Internet user's computer or device, without the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have spyware from another company installed on your machine, there are various anti-spyware/adware software applications available on the Internet to identify if this has occurred.
-        
-    *   Our Security Practices. The account information associated with any of our Services is password protected for your privacy and security. You choose your password for any of our Services so the strength of that password is determined by you. We recommend that you choose a unique password and not share your password with anyone else. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
-        
-    *   Links. Our Services contain links to other websites and products produced by MLB Advanced Media, L.P. and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
-        
-    *   Your California Privacy Rights. If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to privacy@website.mlb.com or write to us at: MLB Advanced Media, L.P., Privacy Administrator, 75 Ninth Avenue, New York, New York 10011.
-        
-    *   Special Rules For Children. Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of our Services (e.g., shop, ticketing, and auctions) require the submission of a payment card number along with personal information in connection with a purchase. other elements of our Services (e.g., fantasy baseball) require the submission of personal information to access or use the Services. Except in certain cases where limited contact information may be collected and not retained, these elements of our Services are not available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on our Services which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature.
-        
-    *   Contact Us Regarding Privacy. If you have questions or concerns about this Privacy Policy, you can contact us at:
-        
-        MLB Advanced Media, L.P.  
-        Privacy Administrator  
-        75 Ninth Avenue  
-        New York, NY 10011  
-        **Phone:** (646) 495-4091  
-        **Fax:** (212) 485-8111  
-        **Email:** privacy@website.mlb.com
-    *   Notification of Changes. If we make an important change to this Privacy Policy, we will post a notification and link within the MLBAM Properties so that you may review the updated policy.
-        
+7.  Other Information. Contact Us
     
 
-Last updated and effective date: January 20, 2016 Below is an advertisement.
+1\. Personal Information We Collect
 
-Connect with MLB.com
+We Collect Personal Information You Choose To Provide. You may visit and enjoy many elements of the MLBAM Properties without disclosing any personal information about yourself. However, if you choose to make use of select, special or enhanced elements of the MLBAM Properties, you may need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within the MLBAM Properties (e.g., create a profile, register for a promotion, make a purchase or publish a comment), the personal information we collect may include, but is not limited to:
 
-Facebook
+*   Full name,
+*   Email address,
+*   Password,
+*   Street address,
+*   Telephone number(s),
+*   Birth date,
+*   Payment card information,
+*   IP addresses,
+*   Location data and
+*   Contacts (as stored in your wireless device).
 
-Twitter
+If we collect your information, in most instances, the applicable page(s) or location(s) within the MLBAM Property will include statements regarding what information is required and functionality for you to submit required or requested information.
 
-Google Plus
+2\. How, and for What Purpose, We Use and Share Your Personal Information
+
+If you submit personal information to us, or to any third party acting on our behalf (a "Service Provider"), via the MLBAM Properties, we may use and share your information as set forth in this Privacy Policy, as disclosed when you first submit your information or as otherwise permissible under applicable law. We will not sell, lease, publish or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and:
+
+*   To provide you with information you have requested, or with products, services or content you have purchased, used or otherwise engaged with, (e.g., a sweepstakes, rewards program, subscription to goods or services, etc.) and to communicate with you (including via postal mail) about the same.
+*   To communicate with you about the league or MLB Club(s) applicable to your interactions with the MLBAM Properties and about products, services, sponsors, partners or affiliates related to a purchase you have made or rules or terms to which you have agreed, to the extent the sending of such communication is permissible under applicable law;
+*   With one or more MLB Clubs or other MLB Entities, to the extent you've submitted information or accessed functionality or content that relates specifically to such MLB Club(s) or other MLB Entities (e.g., you've asked to receive the newsletter of an MLB Club or you've made an MLB Club-specific purchase), so we and they may learn more about fans like you, add you to the MLB Club's postal mail list, and provide better services to you;
+*   To send you periodic surveys to help improve the MLBAM Properties or your MLB experience;
+*   In connection with loyalty, membership or rewards programs operated or accessible from the MLBAM Properties.
+*   When the personally identifying components of your information are removed, we may use and share such anonymized information for internal purposes amongst MLB Entities (e.g., to learn about the age distribution of our users);
+*   In accordance with any other permission you provide at the time you submit such information to us. and
+*   To provide your personal information to other MLB Entities where necessary for the purposes set out in this policy.
+
+For customers in the EEA, we are required to give you information about the legal basis on which we process your personal information. In some cases, such as where you have purchased a service, the processing of your personal information will be necessary in order to perform a contract with you. In many other cases, the processing will be necessary for the purpose of legitimate interests we are pursuing, namely the facilitation of the purposes for which your personal information is processed as set out above.
+
+3\. Other Information Collected
+
+Technical Information. When you use the MLBAM Properties, we use software tools, including but not limited to cookies (small amounts of data which include a unique string of characters sent to your browser or application from a website's computers and stored on your computer's or device's hard drive), web beacons (technology used to track activity, also known as pixel tags) and similar technologies, to collect a variety of information, for example the IP address of the computer or device used to access an MLBAM Property, the type of Internet browser or operating system used to access an MLBAM Property, the date and duration of a Website visit or the Internet Protocol address used to access the Website. We use such technical information for internal purposes, for example to study and improve the response times of our Website. We may associate such technical information with personal information you provide to us as described in Section 1 above, in which case we will treat such associated information as personal information. Please be advised that associating technical information with personal information may be required for us, and our Service Providers, to recognize you and your communications with us, for example to retain your newsletter preferences or enable your use of a "shopping cart."   Customers within the EEA will be asked for consent prior to the setting of cookies.
+
+Location Data. When you use an MLBAM Property via a wireless device we may solicit your permission to collect your location data. Some features within our Applications (e.g., live MLB game video or location-based offers) may only function upon confirmation of your location, and therefore such features will not be available if you choose not to provide your location data to us. The specificity of the location data collected may depend on a number of factors, including the device you are using (e.g., laptop, smartphone, tablet) and how you are connected to the Internet (e.g., via cable broadband connection, WiFi). If you enable location services for our Applications, we may collect location data (e.g., zip code) periodically as you use or leave open our Applications. We use such location information for internal purposes and to improve your MLBAM Property experience, for example to understand where our users are most successfully accessing the MLBAM Properties. We may associate such location information with personal information you provide to us as described in Section 1 above, in which case we will treat such associated information as personal information. Depending on the platform you use to access our Applications (e.g., Apple's iOS, Google's Android) you may be able to control whether location data is collected from within "Settings" or other controls on your wireless device or the Applications.
+
+Our Access to Your Contacts. When you use our Games, we may solicit your permission to access your contacts list (e.g., address book) so you can be matched with individuals from your contacts lists who participate in our Games and you can invite your friends to play. We will not store the information in your contacts list except to manage your Game invitations.
+
+Third Party Cookies and Web Beacons. Network Advertisers. We allow and use select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with the MLBAM Properties to collect data and/or serve ads when you visit MLBAM Properties. Network advertisers may use information (not including your name, address, email address or telephone number) about your visits to MLBAM Properties in order to provide advertisements about goods and services of interest to you. This may happen through permission given to such third parties to set cookies, web beacons or similar technologies in certain locations within the MLBAM Properties, including but not limited to certain of our emails. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with the MLBAM Properties in order to tailor certain advertisements and content delivered within the MLBAM Properties and on other websites within such network advertiser's ad network. These companies may also use non-cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on or off MLBAM Properties. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. You may learn more about network advertising industry practices and opt out of targeted behavioral advertising from many major third party network advertisers and to know your choices about not having this information used by these companies via the information and tools available here and here.
+
+In order to avoid providing your email address to network advertisers for the activity carried out about to be possible, we use a third party to convert your email address into a unique code (hashed email address), which is then provided to the advertiser.
+
+Other Advertising. We share certain data with Social Networks (as defined below) such as Twitter, Facebook, LinkedIn and Snapchat to allow us to target existing users and customers with highly relevant advertising campaigns. We will not share your name, address, email address or telephone number for the purposes of such campaigns. Instead, a unique code (hashed email address) is shared with the applicable Social Network in order for that identifier to be matched against existing users of the relevant social network and to identify potentially relevant audiences for targeted advertising. We use services such as Linkedin Matched Audiences and Facebook Custom Audiences for these purposes. If you do not wish to receive advertisements in this way, please follow the links in the paragraph above.
+
+ In addition to advertisements for our own goods and services, we may also facilitate third parties to advertise their own goods and services including through targeting those advertisements to those that might be most interested in them. These advertisements may be shown within our Games. This is done using information which does not include your name, address, email address or telephone number and we won't hand over or sell any of your personal information to third party advertisers. In order to provide advertisements relevant to you, your IP address will be used, as well as your operating system and device type. Information about your particular device will be used to show you advertisements which work properly on that device.
+
+Social Networking. When using the MLBAM Properties or when using certain third party social networking services (e.g., Facebook, Twitter, Google +) (each a "Social Network"), you may have the option to connect your MLBAM Property information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your MLBAM Property activity with that Social Network and its users, and to access certain of your Social Network information, as disclosed to you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: technical information about your MLBAM Property activity, your MLBAM Property comments or the videos you watch on MLBAM Properties. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers and certain information about your activities on the Social Network. If you permit a connection between a Social Network and an MLBAM Property, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. We recommend that you familiarize yourself with the privacy policy and privacy control options of any Social Network with which you choose to share information or connect to an MLBAM Property.
+
+Device ID. When you use certain MLBAM Properties, we or our Service Provider may collect your unique device ID. We may use such information for internal purposes and to provide you a better MLBAM Property experience, for example to troubleshoot Application problems you may experience or provide you rewards or offers in connection with your Game activity. We may associate Device ID with personal information you provide to us as described in Section 1 above, in which case we will treat such associated information as personal information. You may learn more about our Service Provider for Mobile Games and opt out of any anonymous Device ID collection via the privacy settings available within your mobile device.
+
+4\. Other Circumstances When Your Data May Be Shared
+
+*   Aggregated and Anonymous Information. We may share aggregated, anonymous information with any third party. This information is not linked to personal information that can identify you or another individual person. Amongst other reasons, this information may be shared for analytics advertising purposes.   As with many websites, we use Google Analytics to understand how you and other visitors engage with MLBAM Properties. If you don't want Analytics to be used in your browser, you can install the Google Analytics browser add-on (https://tools.google.com/dlpage/gaoptout). You can learn more about Google Analytics and privacy here: https://support.google.com/analytics/answer/6004245?hl=en
+*   Business Transfers. As time passes, MLB Advanced Media, L.P. may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
+*   Disclosure for Legal Purposes. We may be required to share your personal and non-personal information pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose or share your personal and non-personal information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of MLBAM Properties' Terms of Use or as required by law.  
+     
+
+5\. Transferring Your Personal Information Across Borders
+
+For customers in the EEA we are obliged to provide certain information relating to the transfer of your personal information outside the EEA. Where you are have purchased a service it may often be necessary to transfer your personal information in order to perform a contract with you. In addition, we may in some circumstances rely on your express consent. If you submit personal information to us, or to a Service Provider, via the MLBAM Properties, you will be voluntarily transferring this personal information to the United States, a jurisdiction which does not provide the same framework for the protection of personal information. The same will be the case in relation to your personal information which is collected when you use MLB Properties as specified above.
+
+6\. Managing Your Personal Information
+
+You may choose and control what information you provide about yourself and certain information which is automatically collected via the MLBAM Properties. If you do not wish to provide certain information necessary for enhanced functionality or content on the MLBAM Properties, please do not use such functionality or content. If you have registered for an account through our Website, you may review and revise certain of your account information by clicking here to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed via the MLBAM Properties, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the Adobe website. If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain features of the MLBAM Properties.
+
+If you want to review or revise the personal information you provided during Website registration or in connection with certain Website purchases, or change the promotional email communications or newsletters you receive from us, you may either click here to log in, and then click on the applicable left-hand menu option(s). If you want to review or revise other personal information you have provided to us, or to close your account(s) and have us delete the applicable account personal information (except what is needed for record-keeping purposes) call MLB.com Customer Service at 866-800-1275.
+
+Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source.
+
+For customers in the EEA, you have the right to see a copy of the personal information that we hold about you, and you may ask us to make any necessary changes to ensure that this information is accurate and kept up to date.
+
+You may ask us to make any necessary changes to your personal information to ensure it is accurate and up-to-date.
+
+In addition, subject to limitations as provided for by applicable data protection legislation you have the right to request the erasure of your personal data or the restriction of its processing, or the transfer of your personal data to another data controller. Please contact us as specified below if you wish to do so.
+
+Your personal information will be held for the purposes and uses set out in this Privacy Policy and for as long as there is a legal, taxation, accounting, risk management or business requirement to do so. Different retension periods apply to different types of records and data, however the longest your personal data will typically be held is 6 years from the date of your last transaction. This period may be extended where circumstances so require or until a particular query, investigation or dispute is fully resolved. 
+
+7\. Other Information. Contact Us
+
+*   No Spyware or Adware. We do not install any spyware or adware in connection with our Services, or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of spyware or adware. "Spyware" or "Adware" is any software which has been downloaded to or installed on an Internet user's computer or device, without the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have spyware from another company installed on your machine, there are various anti-spyware/adware software applications available on the Internet to identify if this has occurred.
+*   Our Security Practices. The account information associated with any of our Services is password protected for your privacy and security. You choose your password for any of our Services so the strength of that password is determined by you. We recommend that you choose a unique password and not share your password with anyone else. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
+*   Links. Our Services contain links to other websites and products produced by MLB Advanced Media, L.P. and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+*   Your California Privacy Rights. If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to privacy@website.mlb.com or write to us at: MLB Advanced Media, L.P., Privacy Administrator, 75 Ninth Avenue, New York, New York 10011.
+*   Special Rules For Children. Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of our Services (e.g., shop, ticketing, and auctions) require the submission of a payment card number along with personal information in connection with a purchase. other elements of our Services (e.g., fantasy baseball) require the submission of personal information to access or use the Services. Except in certain cases where limited contact information may be collected and not retained, these elements of our Services are not available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on our Services which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature. For children located in jurisdictions within the EU, where this Privacy Policy refers to consent, this will require the consent of a parent or legal guardian in relation to any person under the age specified by the law applicable to the location of the child in question.
+*   Contact Us Regarding Privacy. If you have questions or concerns about this Privacy Policy, you can contact us at:
+
+MLB Advanced Media, L.P.  
+Privacy Administrator  
+75 Ninth Avenue  
+New York, NY 10011  
+**Phone**: (646) 495-4091  
+**Fax**: (212) 485-8111  
+**Email**: privacy@website.mlb.com
+
+*   Notification of Changes. If we make an important change to this Privacy Policy, we will post a notification and link within the MLBAM Properties so that you may review the updated policy.
+
+**LAST UPDATED AND EFFECTIVE DATE: May 24, 2018**
+
+*   OFFICIAL INFORMATION
+    *   Official Info
+    *   About MLB
+    *   About MLB.com
+    *   Team Information
+    *   Official Rules
+    *   Replay Review Regulations
+    *   Umpires
+    *   Advertise with Us
+    *   Press Releases
+*   HELP/CONTACT US
+    *   Contact MLB Customer Support
+    *   Help/Contact Us
+    *   MLB.TV Help Center
+    *   Accessibility Information
+    *   Auctions Customer Service
+    *   Shop Help
+    *   Ticket Information
+    *   At Bat FAQs
+    *   MLB.com Download FAQs
+    *   MLB.com Account Information
+*   MORE MLB SITES &. AFFILIATES
+    *   MLB Players Alumni Association
+    *   MLB Players Association
+    *   Minor League Baseball
+    *   MLB Network
+    *   Tickets.com
+    *   YES Network
+    *   Sportsnet New York
+    *   Australian Baseball Classic
+    *   World Baseball Classic
+    *   Youth Majors
+    *   sabr.org
+    *   College Baseball Hall of Fame
+    *   Golden Spikes Award
+    *   USA Baseball
+    *   LasMayores.com
+    *   MLBCommunity.org
+    *   AllStarGame.com
+    *   WorldSeries.com
+    *   mlb.com/DR
+    *   mlb.com/kids
+    *   MLB Photostore
+    *   Offseason Leagues
+    *   PlayBall.Org
+*   CAREERS
+    *   Careers with MLB.com
+    *   Careers with the Commissioner's Office
+    *   Careers at MLB Network
+
+Connect with MLB
 
 *   Terms of Use
-*   Privacy Policy (updated January 20, 2016)
+*   Privacy Policy (Updated May 24, 2018)
 *   About Our Ads
 *   Legal Notices
 *   Contact Us
+*   Cookie Preferences
 
-© 2018 MLB Advanced Media, LP. All rights reserved.
-
-*   View MLB.com in English
-*   En Español
+© 2018 MLB Advanced Media, LP. All rights reserved. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MD6MQQP" height="0" width="0" style="display:none;visibility:hidden"></iframe>.          Retired          Search  Player Team Status     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired     Retired See all results for
