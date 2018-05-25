@@ -294,7 +294,7 @@ You may provide some financial information as part of the payment process, such 
 
 _Our email processor_
 
-You must provide us with you email address upon registration. We provide your contact inforamation to MailChimp in order to send you messages in several contexts, including to send important site notices, as well as notification and mailing lists you opt into. See MailChimp's privacy policy (available at https://mailchimp.com/legal/privacy/) for how they handle your personal information.
+You must provide us with you email address upon registration. We provide your contact information to MailChimp in order to send you messages in several contexts, including to send important site notices, as well as notification and mailing lists you opt into. See MailChimp's privacy policy (available at https://mailchimp.com/legal/privacy/) for how they handle your personal information.
 
 _Our analytics_
 
