@@ -224,7 +224,11 @@ Time and Date AS
 PO Box 27 Forus  
 NO-4064 Stavanger  
 Norway  
-webmaster@timeanddate.com timeanddate.com
+webmaster@timeanddate.comBecome a Supporter
+
+Help us develop our services. More
+
+timeanddate.com
 
 1.  About Us
 2.  Contact Us
@@ -241,6 +245,18 @@ webmaster@timeanddate.com timeanddate.com
 13.  Disclaimer
 
 Index
+
+Cookies
+
+1.  Troubleshoot cookies
+2.  Enabling cookies in Internet Explorer
+3.  Enabling cookies in Mozilla/Firefox
+4.  Enabling Cookies in Chrome
+5.  Enabling cookies in Safari
+6.  Enabling cookies in Opera
+7.  Enabling cookies in Netscape
+8.  Enabling cookies in Safari, Lynx and more
+9.  What Cookies We Use, and Why
 
 Copyright © Time and Date AS 1995–2018. All rights reserved.
 
