@@ -50,10 +50,12 @@ Search
     *   Pinterest
     *   Instagram
 *   Win
+*   Updated Privacy Notice
+*   Updated Terms of Use
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Where to Spend Memorial Day Weekend 2 All the Details of Harry and Meghan's Wedding 3 How Harry and Meghan's Official Portraits Stack Up 4 The Best Places To Go in June 5 Who's Who in the Official Royal Wedding Portraits? Privacy Policy Dec 1, 2014
+Today's Top Stories 1 The Best New Hotels in the World 2 All the Details of Harry and Meghan's Wedding 3 How Harry and Meghan's Official Portraits Stack Up 4 The Best Places To Go in June 5 Who's Who in the Official Royal Wedding Portraits? Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
