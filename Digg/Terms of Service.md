@@ -1,14 +1,16 @@
 Digg Terms of Use
 
+**Updated:** May 24, 2018.
+
 Hi! Welcome to the Digg Terms of Service. (Please wipe your feet.)
 
 What is this thing?
 
-**The document you are reading now is the legal contract between you and Digg Inc.** (a.k.a., “Digg”, “we”, “us”) **that applies to your use of anything Digg, including Digg’s websites, mobile apps, email and other products, content, and related services** (in this doc, we’re going to refer to Digg’s products and services collectively as “Digg Services”).
+**The document you are reading now is the legal contract between you and Digg Holdings, LLC** (a.k.a., “Digg”, “we”, “us”) **that applies to your use of anything Digg, including Digg’s websites, mobile apps, email and other products, content, and related services** (in this doc, we’re going to refer to Digg’s products and services collectively as “Digg Services”).
 
-Who is Digg Inc.?
+Who is Digg Holdings, LLC?
 
-Digg Inc. is the company that provides and operates the Digg Services. We refer to ourselves here as “Digg”, because Digg is the name of the service the vast majority of our users know us by.
+Digg Holdings, LLC is the company that provides and operates the Digg Services. We refer to ourselves here as “Digg”, because Digg is the name of the service the vast majority of our users know us by.
 
 Why should I read this?
 
@@ -68,7 +70,7 @@ Digg complies with the Digital Millennium Copyright Act. We have a policy of ter
 
 The contact information for Digg’s Designated Agent for receipt of notices of claimed infringement is here:
 
-> _Physical mail:_ Digg, 50 Eldridge Street, New York, NY, 10002, Attn: Digg Copyright Agent
+> _Physical mail:_ Digg, 18 Shipyard Dr, Hingham, MA, 02043, Attn: Digg Copyright Agent
 > 
 > _Email:_ support@digg.com
 
@@ -90,4 +92,4 @@ Without further ado:
 
 5\. THE FAILURE OF DIGG TO EXERCISE OR ENFORCE ANY RIGHT OR PROVISION OF THESE TERMS SHALL NOT CONSTITUTE A WAIVER OF THAT RIGHT OR PROVISION. THE TERMS AND OUR PRIVACY POLICY CONSTITUTE THE ENTIRE AGREEMENT BETWEEN YOU AND DIGG AND GOVERN YOUR USE OF THE DIGG SERVICES, SUPERSEDING ANY PRIOR AGREEMENTS BETWEEN YOU AND DIGG (INCLUDING, BUT NOT LIMITED TO, ANY PRIOR VERSIONS OF THE TERMS). YOU AGREE THAT THESE TERMS AND YOUR USE OF THE DIGG SERVICES ARE GOVERNED UNDER NEW YORK LAW. YOU AGREE THAT ANY CLAIM OR DISPUTE YOU MAY HAVE AGAINST DIGG MUST BE RESOLVED EXCLUSIVELY BY A STATE OR FEDERAL COURT LOCATED IN NEW YORK COUNTY, NEW YORK, EXCEPT AS OTHERWISE AGREED BY THE PARTIES. YOU AGREE TO SUBMIT TO THE PERSONAL JURISDICTION OF THE COURTS LOCATED WITHIN NEW YORK COUNTY, NEW YORK, FOR THE PURPOSE OF LITIGATING ALL SUCH CLAIMS OR DISPUTES. (Before resorting to courts, though, we strongly encourage you to contact us directly to try to work it out. We are reasonable people.)
 
-**Effective date of these Terms of Service:** October 8, 2015.
+\- END -
