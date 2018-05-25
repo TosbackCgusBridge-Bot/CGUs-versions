@@ -3,19 +3,17 @@
 
 We encourage you to review our full Privacy Policy for detailed information on our privacy practices.  
   
-Monster collects information about you and uses this information to help you connect with employers and job seekers and to provide other services to you. This privacy policy describes how your personal information is collected, used, shared, and secured, as well as your choices regarding use, access, and correction of your personal information. 
+Monster collects information about you and uses this information to help you connect with employers and job seekers and to provide other services to you. This privacy policy describes how your personal information is collected, used, shared, and secured, as well as your choices regarding use, access, and correction of your personal information.
 
 Scope of this Privacy Policy
 
-This privacy policy applies to information we collect or use on sites and applications owned or controlled by Monster Worldwide, Inc. or its affiliated companies ("Monster").
-
-Monster is not responsible for the privacy policies or practices of ad networks and other websites, third parties with whom we work to provide you personalized services, or those who access your information on our sites or applications. We encourage you to carefully read the privacy policies of other such companies.
+This privacy policy applies to information we collect or use on sites and applications owned or controlled by Monster Worldwide, Inc. or its affiliated companies("Monster").
 
 Information We Collect
 
 We collect information about you when you use Monster. We collect information directly from you such as your contact information, resume, and profile information. We also collect information about you automatically such as how you use and interact with Monster, your demographic information, and information about your computer or mobile device.
 
-We may collect or use information about you from publicly-available websites whether or not you have an account with us. You will have the opportunity to claim, change the visibility setting of, or remove the information. However we cannot guarantee that we will not later collect from publicly-available websites other information that pertains to you.
+We may collect or use information about you from publicly-available websites whether or not you have an account with us. You will have the opportunity to claim or request removal of the information. However we cannot guarantee that we will not later collect from publicly-available websites other information that pertains to you.
 
 We may also acquire information about you from third parties to further personalize and enhance your experience.
 
@@ -28,6 +26,8 @@ Information you share in public areas of Monster or make visible in the resume a
 How We Share Information
 
 We do not share contact information with third parties for their direct marketing purposes without your consent.
+
+If you apply to a job, provide your contact information to show interest in a job, or reply to a message from an employer, we share your information with employer and who may use your data and contact you for employment related purposes.
 
 We share your information with third parties who help us deliver our products and services to you. These third parties may not use your information for any other purpose.
 
@@ -51,9 +51,9 @@ Monster is not intended for children under 13 years of age.
 
 We participate in the EU-U.S. Privacy Shield framework, as described in more detail in the full Monster privacy policy.
 
-We use cookies to help personalize and maximize your online experience on Monster. You may turn off cookies. however, this may limit your use of certain features or functions on our sites and applications.
+We use cookies to help personalize and maximize your online experience on Monster. You may turn off cookies. however, this may limit your use of certain features or functions on our sites and applications.
 
-For information on how to protect yourself online, visit the Security Center.
+For information on how to protect yourself online, visit the Security Center.
 
 Mobile Applications
 
@@ -68,6 +68,13 @@ Monster Worldwide, Inc.
 133 Boston Post Road  
 Weston, MA 02493
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.  
-  
-_Update effective September 29, 2016_
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+Users in the European Economic Area (EEA) and Switzerland have the right to lodge a complaint with the Supervisory Authority for data protection in their country, should they find that we did not appropriately address their question or concern.
+
+Our Data Protection Officer can be reached at:
+
+Data Protection Officer  
+Monster Worldwide CZ,  
+Rohanské nábřeží 670/19, 186 00 Prague 8  
+Czech Republic.
