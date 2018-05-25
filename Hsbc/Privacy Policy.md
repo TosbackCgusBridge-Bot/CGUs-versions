@@ -2,7 +2,7 @@ Go to: Navigation Content Footer
 
 Alt+0 to show this section, Tab to navigate forward, Shift+Tab key to navigate backward, Enter to access link, and Esc to reset
 
-We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information can be found in our Terms and Conditions and Cookie policy.
+We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information can be found in our Terms and conditions, Cookie policy and Privacy notice.
 
 Close Press tab key to access skip links section. Press Alt+0 to access it anytime. Search Menu
 
