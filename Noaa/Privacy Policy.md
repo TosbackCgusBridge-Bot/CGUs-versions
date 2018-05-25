@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms 7 easy ways to boat safely and be kind to nature Thinking ahead could save lives, and not just your own AROUND NOAA // Kilauea eruptions: The way the wind blows, so go the gas and the ash April 2018 was 3rd warmest on record for the globe Emissions of an ozone-destroying chemical are rising again Adaptable and driven by renewable energy, saildrones voyage into remote waters
+Enter Search Terms Forecasters predict a near- or above-normal 2018 Atlantic hurricane season New satellite data and model upgrades to give forecasts a boost AROUND NOAA // Kilauea eruptions: The way the wind blows, so go the gas and the ash 7 easy ways to boat safely and be kind to nature April 2018 was 3rd warmest on record for the globe
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock
