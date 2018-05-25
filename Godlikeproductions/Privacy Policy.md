@@ -31,12 +31,10 @@ Any of the information we collect from you may be used in one of the following w
   
 • To send periodic emails  
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+> The email address you provide will be used to send you information, company news, updates, related product or service information, etc.  
+>   
+> Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.  
-  
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
-  
 *   To comply with law enforcement requests  
     
     > We will comply with all requests from law enforcement for data obtained from your interaction with this website and will report crimes committed on or against this website, it's staff, or visitors to the appropriate authorities. If you commit a crime or civil violation during your use of this website we reserve the right to use any data obtained from your interaction here to pursue civil and or criminal charges against you.
@@ -78,10 +76,26 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
       
     **GDPR Compliance**  
       
-    Users may edit their personal account information at any time by logging in and navigating to the "Your Profile" page at the top of the left menu bar.  
-    Users may permanently delete their personal account information at any time by choosing "Close Account" at the bottom of their profile page.  
-    We will notify you of a data breach within 72 hours.  
+    
+*   Users may edit their personal account information at any time by logging in and navigating to the "Your Profile" page at the top of the left menu bar.  
+    
+*   Users may permanently delete their personal account information at any time by choosing "Close Account" at the bottom of their profile page.  
+    
+*   We will notify you of a data breach within 72 hours.  
+    
+*   We maintain a Data Retention Policy that details the retention period for personal data based on our analysis of how long the specific data is reasonably required for legal or business purposes. When we no longer need personal data, we securely delete or destroy it. Aggregated data, which cannot identify a device/browser (or individual) and is used for purposes of reporting and analysis, is maintained for as long as commercially necessary.  
+    
+*   You may contact our Data Protection Officer by emailing trinity@godlikeproductions.com with the subject line "ATTN: Data Protection Officer". You must include the words "Data Protection Officer" in your subject line for your email to be routed correctly. Please allow up to 14 days for a responce.  
+    
+*   Log and Usage Data  
       
+    We may log information when you access or view this website. This may include your IP address, user-agent string, browser type, operating system, referral URLs, device information (e.g., device IDs), pages visited, links clicked, the requested URL, hardware settings, search terms, etc.. We will delete any IP addresses collected associated with such view only type browsing "http request data" after one year.  
+      
+    If you post data to this website in the form of logging into your account, submitting a new thread (topic), reply to an existing thread, vote, rate, etc the IP address associated with that "http post" interaction will remain in our database as long as the associated published material is available to the members or as long as your account is open. If a post is deleted the associated IP address will be deleted within 100 days. If you are banned from this website your IP address will remain in our database until the next ban reset which happens periodically.  
+      
+    While you grant us a lifetime royalty free licenses to publish your posts on this website under certain circumstance we will delete the IP address or any other "personal data" associated with a user id number or post from our data base. If you feel you have submitted "personal data" to this website in the form of a post you can edit that post at any time by logging into your account.  
+      
+    If you do not have an account on this website and feel information you or others have submitted amounts to "personal data" as defined by GDPR such as a name, a home address, a photo, an email address, bank details, medical information, IP address, etc. you may request removal and get immediate attention by using the "report abusive post" feature located next to each post on our website or contact our Data Protection Officer by emailing trinity@godlikeproductions.com with the subject "ATTN: Data Protection Officer" to address your concerns.  
       
     **Terms and Conditions**  
       
@@ -95,6 +109,4 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
       
     If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.  
       
-    This policy was last modified on 4-25-18  
-      
-    trinity@godlikeproductions.com
+    This policy was last modified on 5-24-18
