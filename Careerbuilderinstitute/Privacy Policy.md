@@ -112,6 +112,7 @@ Legal
 *   Security &. Fraud
 *   Privacy Policy
 *   Terms
+*   Data Subject Access Request
 *   Ad Choices
 
 Search on the Go
