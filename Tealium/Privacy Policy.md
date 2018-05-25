@@ -371,7 +371,7 @@ To learn more about Tealium’s Privacy Widget, click here.
 
 Cookie management tools provided by your browser may not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here.
 
-Modify Privacy Options Targeting or Advertising cookies Tealium may engage third parties to track and analyze usage and volume statistical information from Site Visitors.
+Privacy Widget Not Loaded Targeting or Advertising cookies Tealium may engage third parties to track and analyze usage and volume statistical information from Site Visitors.
 
 Analytics: Tealium may use cookies delivered by third parties to track the performance of Tealium’s advertisements. For example, these cookies remember which browsers have visited the Tealium Website. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after Tealium receives it.
 
