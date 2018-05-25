@@ -1,6 +1,6 @@
-**Last Revised: May 22, 2018**
+**Last Revised: May 24, 2018**
 
-_**NOTICE**_ : **The Privacy Policy below will become _effective May 25, 2018_. To view the current Privacy Policy, click here.**  
+_**To view our archived Privacy Policy, click here.**_  
 
 GoDaddy cares about your privacy.  For this reason, we collect and use personal data only as it might be needed for us to deliver to you our world-class products, services, websites and mobile applications (collectively, our “Services”). Your personal data includes information such as:
 
