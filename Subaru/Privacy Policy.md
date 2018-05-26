@@ -1,8 +1,21 @@
-    GO
+      Confirm Your Location
 
-Your location cannot be displayed.
+We'd like to show you nearby Subaru retailers, special offers, pricing, and vehicle inventory that are available in your area.
 
-To connect with Subaru of Hawaii, please click here
+Your Zip Code
+
+Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
+
+or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
+
+*   Shortline Subaru (7 miles)
+*   Groove Subaru (8 miles)
+*   Mike Shaw Subaru (9 miles)
+*   AutoNation Subaru West (10 miles)
+*   AutoNation Subaru Arapahoe (12 miles)
+*   Flatirons Subaru (21 miles)
+
+Submit
 
 *   Your Location: **80202**
 *   For Owners
@@ -175,20 +188,7 @@ BUY
 *   Extended Service Plans
 *   Parts &. Service
 
-Get the most precise number on the Subaru you want.
-
-YOUR RETAILER
-
-CHANGE
-
-Shortline Subaru
-
-580 S Havana St  
-Aurora, CO 80012
-
-(303) 364-2200
-
-Get a Local Price What Makes a Subaru
+Get the most precise number on the Subaru you want. Get a Local Price What Makes a Subaru
 
 *   Reviews &. Awards
 *   Commitment to Safety
@@ -454,13 +454,15 @@ Your location cannot be displayed.
 
 To connect with Subaru of Hawaii, please click here
 
-Find a Retailer Zip / City Retailer Go
+Find a Retailer Zip / City Retailer
 
 Retailer not found.
 
 Your location cannot be displayed.
 
 To connect with Subaru of Hawaii, please click here
+
+or Use My Current Location
 
 *   Filter By Services
 
