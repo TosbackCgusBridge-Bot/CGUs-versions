@@ -93,7 +93,7 @@ About Oxygen
 
 *   About Us
 *   FAQ
-*   Privacy Policy
+*   Privacy Policy - New
 *   Terms of Service
 *   New Independent Programming Report
 *   Closed Captioning
