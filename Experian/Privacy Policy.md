@@ -180,7 +180,6 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
 *   Czech Republic
 
 *   Denmark
-*   Finland
 *   France
 *   Germany
 *   Greece
