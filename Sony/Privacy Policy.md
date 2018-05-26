@@ -129,7 +129,7 @@ Play With So Many Different Choices, Video hotspot
 
 11 tips to be the last one standing in H1Z1: Battle Royale
 
-3 days ago
+4 days ago
 
 View Tweet
 
