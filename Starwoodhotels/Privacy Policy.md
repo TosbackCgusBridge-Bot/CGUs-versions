@@ -657,7 +657,7 @@ You are on SPG.com Starwood Hotels &. Resorts Other Starwood Brands >. Four Poin
 
 © 2018 Marriott International, Inc., All rights reserved. |
 
-AdChoices
+Ad Choices
 
 *   Facebook
 *   Twitter
