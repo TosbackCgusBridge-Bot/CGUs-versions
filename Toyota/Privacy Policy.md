@@ -10,7 +10,7 @@
 *   Shopping Tools
 *   Find a Dealer
 *   Build &. Price
-*   Local Offers
+*   Local Specials
 
 *   Cars &. Minivans
 *   Trucks
@@ -80,7 +80,7 @@
 View All Vehicles
 
 *   Build &. Price
-*   Local Offers
+*   Local Specials
 *   Search Inventory
 *   Kelley Blue Book Trade-In Value
 
@@ -127,7 +127,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 *   Owners
 
 *   Build &. Price
-*   Local Offers
+*   Local Specials
 *   Search Inventory
 *   Kelley Blue Book Trade-In Value
 
@@ -1151,7 +1151,7 @@ Help
 
 \[#\] View All Disclosures
 
-*   1\. MSRP excludes the Delivery, Processing, and Handling Fee of $895 for Cars (Yaris, Yaris iA, 86, Corolla, Corolla iM, Camry, Camry HV, Prius LB, Prius _c_, Prius _v_, Prius Prime, Mirai, Avalon, Avalon HV), $995 for Small/Medium Trucks, SUVs and Van (C-HR, RAV4, RAV4 HV, Highlander, Highlander HV, 4Runner, Sienna, Tacoma), $1,295 for Large SUVs (Sequoia, Land Cruiser), and $1,295 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
+*   1\. MSRP excludes the Delivery, Processing, and Handling Fee of $920 for Cars (Yaris, Yaris iA, 86, Corolla, Corolla HB, Camry, Camry HV, Prius LB, Prius _c_, Prius Prime, Mirai, Avalon, Avalon HV), $1045 for Small/Medium Trucks, SUVs and Van (C-HR, RAV4, RAV4 HV, Highlander, Highlander HV, 4Runner, Sienna, Tacoma), $1,295 for Large SUVs (Sequoia, Land Cruiser), and $1,395 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
 *   2\. 2017 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2018 EPA-estimated city/highway mileage. Actual mileage will vary.
 *   3\. 2018 EPA-estimated mileage. Actual mileage will vary.
