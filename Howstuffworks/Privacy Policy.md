@@ -55,6 +55,8 @@ HowStuffWorks Privacy Policy
 
  
 
+Control Your User Privacy Preferences
+
 Last modified: May 15, 2018
 
 **INTRODUCTION**
@@ -264,4 +266,4 @@ Sign Up Now!
 
 Newsletter Policy &. Terms
 
-Testing this long verbose error message to check the behaviour BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+Testing this long verbose error message to check the behaviour BESbswyBESbswyBESbswy
