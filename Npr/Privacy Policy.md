@@ -303,6 +303,8 @@ May 7, 20139:51 AM ET
 
 **NOTICE**: This Privacy Policy will be replaced by a new Privacy Policy on June 30, 2018. Click here to view the new Privacy Policy.
 
+**NOTICE TO EU RESIDENTS**: This Privacy Policy does not apply to EU residents. Our handling of information about EU residents is governed by the NPR Privacy Notice for EU Residents, effective May 25, 2018.
+
 _See related:_ _NPR Terms of Use_
 
 **Summary**
