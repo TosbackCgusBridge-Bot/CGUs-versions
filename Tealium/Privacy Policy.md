@@ -7,6 +7,7 @@
     *   Mobile
     *   Identity Resolution
     *   Preparing for GDPR
+    *   Trust and Privacy
     *   Martech Challenge
     *   InfoSec
     *   Adobe + Tealium
@@ -45,6 +46,7 @@
     *   Mobile
     *   Identity Resolution
     *   Preparing for GDPR
+    *   Trust and Privacy
     *   Martech Challenge
     *   InfoSec
     *   Adobe + Tealium
@@ -505,6 +507,7 @@ Main: +1 (858) 779-1344
 *   Site Map
 *   Privacy Policy
 *   Terms of Use
+*   Trust and Privacy
 
 Get a Demo
 
