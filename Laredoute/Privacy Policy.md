@@ -41,18 +41,16 @@ _11.3._ Retargeting E-Mail
 _11.4._ Notifications sur les applications mobiles  
 _11.5._ Prospection commerciale par téléphone  
 _12._ EST-CE QUE REDOUTE UTILISE DES COOKIES, TAGS ET TRACEURS  
-_12.1._ POUR QUELLES RAISONS DES COOKIES, TAGS ET TRACEURS SONT UTILISES ?  
-_12.2._ COMMENT PARAMETRER LE DEPOT DES COOKIES, TAGS ET TRACEURS ?  
-_12.2.1._ Paramétrage de votre logiciel de navigation  
-_12.2.2._ Paramétrage du système d’exploitation de votre smartphone  
-_12.2.3._ Refus des cookies avec un outil proposé par La Redoute  
-_12.2.4._ Liste d’opposition permettant de gérer le dépôt des cookies  
-_13._ EST-CE JE SUIS GEOLOCALISE DANS L’APPLICATION MOBILE REDOUTE ?  
-_13.1._ A quoi sert la géolocalisation ?  
-_13.2._ Comment désactiver la géolocalisation ?  
-_14._ QU’EST-CE QUE LE DÉLÉGUÉ A LA PROTECTION DES DONNEES DE LA REDOUTE  
-_14.1._ QUELLES SONT SES MISSIONS ?  
-_14.2._ COMMENT CONTACTER LE CORRESPONDANT INFORMATIQUE ET LIBERTES ?
+_12.1._ QU’EST-CE QU’UN COOKIE ?  
+_12.2._ POUR QUELLES RAISONS DES COOKIES, TAGS ET TRACEURS SONT UTILISES ?  
+_12.3._ COMMENT PARAMETRER LE DEPOT DES COOKIES, TAGS ET TRACEURS ?  
+_12.3.1._ Paramétrage de votre logiciel de navigation  
+_12.3.2._ Paramétrage du système d’exploitation de votre smartphone  
+_12.3.3._ Refus des cookies avec un outil proposé par La Redoute  
+_12.3.4._ Liste d’opposition permettant de gérer le dépôt des cookies  
+_13._ QU’EST-CE QUE LE DÉLÉGUÉ A LA PROTECTION DES DONNEES DE LA REDOUTE  
+_13.1._ QUELLES SONT SES MISSIONS ?  
+_13.2._ COMMENT CONTACTER LE CORRESPONDANT INFORMATIQUE ET LIBERTES ?
 
 1\. QUI COLLECTE LES DONNEES A CARACTERE PERSONNEL ?
 
@@ -151,11 +149,11 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 
 *   Consentement du Client
 
-Pour les traitements nécessitant le recueil du consentement, la personne concernée à la faculté de retirer son consentement en effectuant une demande en cliquant ici.
+Pour les traitements nécessitant le recueil du consentement, la personne concernée à la faculté de retirer son consentement en effectuant une demande en cliquant ici
 
 Les opérations de luttre contre la fraude et d’évaluation du risque de fraude ont fait l’objet d’une autorisation de la CNIL comme explicité au point 8.3.
 
-Les opérations de mise en relation des personnes ayant des problèmes de sourdité reposent sur le consentement express de la personne concernée. La personne concernée à la faculté de retirer son consentement en effectuant une demande en cliquant ici.
+Les opérations de mise en relation des personnes ayant des problèmes de sourdité reposent sur le consentement express de la personne concernée. La personne concernée à la faculté de retirer son consentement en effectuant une demande en cliquant ici
 
   
 3\. A QUI VOS DONNEES SONT ELLES TRANSMISES ?
@@ -209,7 +207,7 @@ Par voie postale, en nous écrivant à l’adresse suivante :
 
 **Service Relations Clients – 59081 Roubaix Cedex 2, en indiquant vos nom, prénom, adresse, email et si possible référence client afin d'accélérer la prise en compte de votre demande.**
 
-Par voie électronique, en cliquant ici.
+Par voie électronique, en cliquant ici
 
 La demande doit être accompagnée d’un justificatif d’identité.
 
@@ -455,7 +453,7 @@ Sur Android : https://support.google.com/chrome/topic/3434352
 
 Afin de se conformer à la règlementation, la Redoute utilise un outil permettant à l’internaute de paramètrer le dépôt des cookies lors de sa connexion sur le site www.laredoute.fr
 
-Pour accéder à la liste des cookies déposés et en configurer le dépôt
+Cet outil sera disponible d'ici quelques jours et vous permettra d'accéder à la liste des cookies déposés et en configurer le dépôt
 
 12.3.4. Liste d’opposition permettant de gérer le dépôt des cookies
 
