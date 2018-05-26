@@ -6,7 +6,7 @@
     *   VH1 App
     *   America's Next Top Model
     *   Basketball Wives
-    *   Black Ink Crew
+    *   Black Ink Crew Chicago
     *   Dear Mama
     *   Hip Hop Squares
     *   Leave It To Stevie
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppAmerica's Next Top ModelBasketball WivesBlack Ink CrewDear MamaHip Hop SquaresLeave It To StevieLove &. Hip HopLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceShaunie's Home CourtTeyana &. Imansee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppAmerica's Next Top ModelBasketball WivesBlack Ink Crew ChicagoDear MamaHip Hop SquaresLeave It To StevieLove &. Hip HopLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceShaunie's Home CourtTeyana &. Imansee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
