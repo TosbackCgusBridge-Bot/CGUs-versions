@@ -62,7 +62,7 @@ menu Close 0 Free Shipping on $50+
     *   Tunic Shop
     *   Sale
     
-    CATEGORIES
+    WOMEN'S CLOTHING >.
     
     *   Swimsuits
     *   Knit Tops &. Tees
@@ -78,9 +78,8 @@ menu Close 0 Free Shipping on $50+
     *   Activewear
     *   Pajamas &. Robes
     *   Long Underwear
-    *   Bags
     
-    SHOES>.
+    BAGS >. SHOES >.
     
     *   Athletic &. Water
     *   Sandals
@@ -90,7 +89,7 @@ menu Close 0 Free Shipping on $50+
     *   Heels
     *   Slippers
     
-    ACCESSORIES>.
+    ACCESSORIES >.
     *   Scarves
     *   Belts
     *   Socks &. Tights
@@ -236,15 +235,18 @@ menu Close 0 Free Shipping on $50+
     *   Swim Trunks
     *   Rash Guards &. Swim Shirts
     
-    FEATURED SHOPS
+    More For Swim
+    
+    *   Water Shoes &. Sandals
+    *   Totes &. Beach Bags
+    *   Beach Towels
+    
+    Featured Shops
     *   Her Swim Looks To Love
     *   Little Black Suit
     *   Women's Swim Finder
     *   Women's Mix &. Match Tool
     *   Kids' Swim Shop
-    *   Water Shoes &. Sandals
-    *   Totes &. Beach Bags
-    *   Beach Towels
     *   Sale
 *   Bags SHOP BAGS
     
@@ -320,23 +322,12 @@ menu Close 0 Free Shipping on $50+
     *   Shoes
     *   Accessories
     *   Backpacks &. Bags
-*   Home FEATURED SHOPS
+*   Home BATH >.
     
-    *   New Arrivals
-    *   Supima Bedding &. Bath
-    *   Bedding Basics
-    *   Sale
-    
-    More for the Home >.
-    
-    *   Outdoor Furniture
-    *   Storage &. Organization
-    *   Door Mats
-    *   Luggage &. Bags
-    *   Canvas Totes
-    *   Entertaining
-    *   Holiday Decor
-    *   Summer Decor &. Entertaining
+    *   Beach Towels
+    *   Rugs &. Mats
+    *   Towels
+    *   Shower Curtains
     
     BEDDING >.
     
@@ -351,21 +342,30 @@ menu Close 0 Free Shipping on $50+
     *   Coverlets
     *   Quilts
     
-    BATH >.
+    Beach Towels >. More for the Home >.
     
-    *   Towels
-    *   Rugs &. Mats
-    *   Beach Towels
-    *   Shower Curtains
+    *   Outdoor Furniture
+    *   Storage &. Organization
+    *   Door Mats
+    *   Canvas Totes
+    *   Entertaining
+    *   Summer Decor &. Entertaining
     
     KIDS ROOM >.
+    
     *   Kids Bedding
     *   Kids Towels
     *   Seasonal Totes
     *   Toys &. Gifts
     *   Bean Bag Chairs
     *   Sleeping Bags
-    *   Baby BlanketsDOG SHOP >.
+    *   Baby Blankets
+    
+    FEATURED SHOPS
+    *   New Arrivals
+    *   Supima Bedding &. Bath
+    *   Bedding Basics
+    *   SaleDOG SHOP >.
 *   Sale WOMEN'S SALE >.
     
     *   Regular
@@ -447,6 +447,7 @@ menu Close 0 Free Shipping on $50+
         *   The Starfish Collection
         *   Tunic Shop
         *   Sale
+    *   BAGS
     *   SHOES
         *   Back
         *   View All
@@ -481,7 +482,6 @@ menu Close 0 Free Shipping on $50+
     *   Activewear
     *   Pajamas &. Robes
     *   Long Underwear
-    *   Bags
 *   Men
     *   Back
     *   Shop all Men
@@ -626,16 +626,18 @@ menu Close 0 Free Shipping on $50+
         *   View All
         *   Swim Trunks
         *   Rash Guards &. Swim Shirts
-    *   FEATURED SHOPS
+    *   More For Swim
+        *   Back
+        *   Water Shoes &. Sandals
+        *   Totes &. Beach Bags
+        *   Beach Towels
+    *   Featured Shops
         *   Back
         *   Her Swim Looks To Love
         *   Little Black Suit
         *   Women's Swim Finder
         *   Women's Mix &. Match Tool
         *   Kids' Swim Shop
-        *   Water Shoes &. Sandals
-        *   Totes &. Beach Bags
-        *   Beach Towels
         *   Sale
 *   Bags
     *   Back
@@ -720,23 +722,13 @@ menu Close 0 Free Shipping on $50+
 *   Home
     *   Back
     *   Shop all Home
-    *   FEATURED SHOPS
-        *   Back
-        *   New Arrivals
-        *   Supima Bedding &. Bath
-        *   Bedding Basics
-        *   Sale
-    *   More for the Home
+    *   BATH
         *   Back
         *   View All
-        *   Outdoor Furniture
-        *   Storage &. Organization
-        *   Door Mats
-        *   Luggage &. Bags
-        *   Canvas Totes
-        *   Entertaining
-        *   Holiday Decor
-        *   Summer Decor &. Entertaining
+        *   Beach Towels
+        *   Rugs &. Mats
+        *   Towels
+        *   Shower Curtains
     *   BEDDING
         *   Back
         *   View All
@@ -750,13 +742,16 @@ menu Close 0 Free Shipping on $50+
         *   Decorative Pillows
         *   Coverlets
         *   Quilts
-    *   BATH
+    *   Beach Towels
+    *   More for the Home
         *   Back
         *   View All
-        *   Towels
-        *   Rugs &. Mats
-        *   Beach Towels
-        *   Shower Curtains
+        *   Outdoor Furniture
+        *   Storage &. Organization
+        *   Door Mats
+        *   Canvas Totes
+        *   Entertaining
+        *   Summer Decor &. Entertaining
     *   KIDS ROOM
         *   Back
         *   View All
@@ -767,6 +762,12 @@ menu Close 0 Free Shipping on $50+
         *   Bean Bag Chairs
         *   Sleeping Bags
         *   Baby Blankets
+    *   FEATURED SHOPS
+        *   Back
+        *   New Arrivals
+        *   Supima Bedding &. Bath
+        *   Bedding Basics
+        *   Sale
     *   DOG SHOP
 *   Sale
     *   Back
@@ -871,13 +872,15 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Last Updated: August 9‚ 2016
+Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
-Your use of this Site‚ and any disputes arising from it‚ are subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions‚ including arbitration‚ class action waiver‚ limitation on damages‚ and choice of law.
+Your use of this Site‚ and any disputes arising from it‚ are subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions‚ including arbitration‚ class action waiver‚ limitation on damages‚ and choice of law.
 
-Collection of Your Information Information You Provide to Us
+Collection of Your Information
+
+Information You Provide to Us
 
 We collect personal information from you when you interact with us via this Site‚ our retail locations‚ and/or our catalog business. Personal information is information that identifies you or is reasonably linked to you. The personal information we may collect includes your name‚ email address‚ mailing address‚ shipping address‚ phone number‚ and payment card information. When you ask us to ship an order‚ we collect the information you provide to us‚ such as the name‚ billing address‚ shipping address‚ and phone number of recipients. Here are some examples of ways in which you may choose to interact with us:
 
@@ -945,23 +948,31 @@ Business Transfers
 
 Lands’ End may transfer any information we have about you in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Lands’ End or as part of a corporate reorganization or stock sale or other change in corporate control.
 
-Your Choices
+Your Rights to Access and Control Your Personal Data
 
-If you would like to opt out of Lands’ End promotional emails‚ please follow the unsubscribe link at the bottom of each such email.
+You have many choices about how your data is collected, used and shared.
 
-If you would like to opt out of receiving Lands’ End catalogs‚ please contact us via one of the channels listed in the Contact Us section of this Privacy Policy.
+If you would like to opt out of Lands' End promotional emails‚ please follow the unsubscribe link at the bottom of each such email or contact us at www.landsend.com/ContactUs.
 
-If you contact us by email or mail‚ please be sure to include your full name‚ the types of communications you would like to receive or not receive‚ and your contact information. For example‚ if you would like to opt-out of receiving catalogs‚ make sure to include your mailing address in your communication to us.
+If you would like to opt out of receiving Lands' End catalogs‚ please contact us at one of the channels listed in the Contact Us section of this Privacy Policy.
+
+Please be sure to include your full name‚ the types of communications you would like to receive or not receive‚ and your contact information. For example‚ if you would like to opt-out of receiving catalogs‚ make sure to include your mailing address in your communication to us.
 
 Please allow a reasonable time for your preferences to be processed. It may take up to 10 days to process your requests related to email and 2-4 weeks to process other requests.
 
-Please be aware that‚ even if you opt out of receiving marketing communications from us‚ we may still contact you for transactional purposes such as customer service‚ product information‚ service notices‚ or recalls. We may also contact you with questions or information regarding your order‚ such as regarding order status‚ shipment‚ or refunds.
+We may still contact you for transactional purposes such as customer service‚ product information‚ service notices‚ or recalls. We may also contact you with questions or information regarding your order‚ such as regarding order status‚ shipment‚ or refunds.
+
+You can learn more about how to make these requests at www.landsend.com/ContactUs and we will consider your request in accordance with applicable laws.
+
+Please be aware that‚ even if you opt out of receiving marketing communications from us‚ Residents in the EU designated countries may have additional rights under their laws, including the General Data Protection Regulation ("GDPR"). For full details of Lands' End's compliance with GDPR, please see the full Privacy and Security Policy located at http://www.landsend.co.uk/Privacy\_Security/co/mobile-cs-privacy-and-security.html or by using the Contact Us Form (https://www.landsend.com/customerservice/contact\_us) and selecting the "Send an Email" form. Please set the subject field to "GDPR-EU Data Subject Request" and include your request in the comments section along with the required information.
+
+We may retain your personal data even after you have made certain choices if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, or fulfill your request to "unsubscribe" from further messages from us. We also may also retain de-personalized information after honoring your request(s).
 
 Interest-Based Advertisements/Online Advertisements
 
 Lands’ End works with third party service providers who help serve ads on our behalf on various online advertising networks. The online ad networks may use your browsing history across participating websites to show you interest-based advertisements on those websites. You may see ads for Lands’ End on participating websites based on how you browse our Site as well as how you browse those websites.
 
-To learn more about interest-based advertising‚ including how to opt out‚ please visit http://www.networkadvertising.org/choices. Please note that the opt-out mechanism relies on cookies to remember your choices with respect to ad-serving on websites. We may also use technologies‚ such as our own cookies‚ to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising‚ please visit http://dtmc.landsend.com/adinfo/choice/prod/. To opt out of additional, third party cookies go to http://aboutads.info/choices. If you delete your cookies‚ use another computer or device‚ or change browsers‚ you will need to repeat the opt-out process. Other websites you visit may offer their own opt-outs. If you do opt-out of interest-based advertisements‚ you may still see advertisements on websites you visit‚ but those ads will not be based on your browsing behavior.
+To learn more about interest-based advertising‚ including how to opt out‚ click here. Please note that the opt-out mechanism relies on cookies to remember your choices with respect to ad-serving on websites. We may also use technologies‚ such as our own cookies‚ to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising‚ click here. If you delete your cookies‚ use another computer or device‚ or change browsers‚ you will need to repeat the opt-out process. Other websites you visit may offer their own opt-outs. If you do opt-out of interest-based advertisements‚ you may still see advertisements on websites you visit‚ but those ads will not be based on your browsing behavior.
 
 Disabling Cookies
 
@@ -990,6 +1001,10 @@ There are multiple options for users of our mobile applications to opt-out of th
 *   You can stop all collection of information by our mobile applications easily by uninstalling the mobile application. You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace or network. If you uninstall a mobile application from your device‚ the Lands’ End unique identifier associated with your device may continue to be stored. If you re-install the application on the same device‚ Lands’ End will be able to re-associate this identifier to your previous transactions.
 *   You may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.
 
+Communications by Telephone
+
+Calls may be recorded for monitoring our customer service standards and for security. By using the call system you are providing affirmative consent to recording by Lands' End.
+
 Changes to this Privacy Policy
 
 Lands’ End may update this Privacy Policy from time to time. Please check this Privacy Policy periodically for changes. We will also notify you of material changes either by email or by a notice on this Site
@@ -1008,21 +1023,15 @@ If you are a California resident and Lands’ End customer you have the right to
 
 You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Lands’ End’s designated email address for such requests is websiteinquiry@landsend.com.
 
-Contact Us Request to Receive Catalogs
+Contact Us
 
-If you would like to receive our catalogs‚ please call **1-800-963-4816** or e-mail websiteinquiry@landsend.com. We will need your name‚ address‚ and telephone number to mail catalogs to you.
+Request to Receive Catalogs: If you would like to receive our catalogs‚ please call **1-800-963-4816** websiteinquiry@landsend.com. We will need your name‚ address‚ and telephone number to mail catalogs to you.
 
-Request to Stop Catalogs
+Request to Stop Catalogs: If you would like to stop receiving our catalogs‚ please call **1-800-963-4816** or email websiteinquiry@landsend.com. It may take 2-4 weeks to process your request.
 
-If you would like to stop receiving our catalogs‚ please call **1-800-963-4816** or e-mail websiteinquiry@landsend.com. It may take 2-4 weeks to process your request.
+Request to Opt Out of Third Party Marketing: We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at**1-800-963-4816** or send an email to websiteinquiry@landsend.com.
 
-Request to Opt Out of Third Party Marketing
-
-We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at**1-800-963-4816** or send an email to websiteinquiry@landsend.com.
-
-General Privacy Questions
-
-If you have questions about this Privacy Policy‚ please use our Contact Us Form‚ call **1-800-963-4816** or send an email‚ including your name and mailing address‚ to websiteinquiry@landsend.com.
+General Privacy Questions: If you have questions about this Privacy Policy‚ please use our Contact Us Form‚ call **1-800-963-4816** or send an email‚ including your name and mailing address‚ to websiteinquiry@landsend.com.
 
 Addendum to Privacy Policy Page Text Message Terms of Use
 
@@ -1103,4 +1112,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>. By continuing to browse, you consent to our use of cookies. To know more, please refer to our Cookie Policy
