@@ -38,7 +38,7 @@ We and our service providers collect personal information in a variety of ways, 
 
 _**A) Through the NYT Services.**_
 
-i. **Registration:** When you register for a NYT Service, we collect personal information. . For example, registration on NYTimes.com can be done by supplying a unique email address and password, or by linking your Facebook or Google accounts. See below under “From Other Sources” for more information about linking your Facebook or Google Accounts. Registration to an event or conference requires that you complete a form that will include, at a minimum, your name and email address. 
+i. **Registration:** When you register for a NYT Service, we collect personal information. For example, registration on NYTimes.com can be done by supplying a unique email address and password, or by linking your Facebook or Google accounts. See below under “From Other Sources” for more information about linking your Facebook or Google Accounts. Registration to an event or conference requires that you complete a form that will include, at a minimum, your name and email address. 
 
 ii. **Billing:** To subscribe to a NYT Service or enable payment and donations via the NYT Services, we collect and use your name, address, telephone number, email address, credit or debit card information and other billing information.
 
