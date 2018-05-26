@@ -85,13 +85,13 @@ Any of the information we collect from you may be used in one of the following w
     
 *   We maintain a Data Retention Policy that details the retention period for personal data based on our analysis of how long the specific data is reasonably required for legal or business purposes. When we no longer need personal data, we securely delete or destroy it. Aggregated data, which cannot identify a device/browser (or individual) and is used for purposes of reporting and analysis, is maintained for as long as commercially necessary.  
     
-*   You may contact our Data Protection Officer by emailing trinity@godlikeproductions.com with the subject line "ATTN: Data Protection Officer". You must include the words "Data Protection Officer" in your subject line for your email to be routed correctly. Please allow up to 14 days for a responce.  
+*   You may contact our Data Protection Officer by emailing trinity@godlikeproductions.com with the subject line "ATTN: Data Protection Officer". You must include the words "Data Protection Officer" in your subject line for your email to be routed correctly. Please allow up to 14 days for a response.  
     
 *   Log and Usage Data  
       
     We may log information when you access or view this website. This may include your IP address, user-agent string, browser type, operating system, referral URLs, device information (e.g., device IDs), pages visited, links clicked, the requested URL, hardware settings, search terms, etc.. We will delete any IP addresses collected associated with such view only type browsing "http request data" after one year.  
       
-    If you post data to this website in the form of logging into your account, submitting a new thread (topic), reply to an existing thread, vote, rate, etc the IP address associated with that "http post" interaction will remain in our database as long as the associated published material is available to the members or as long as your account is open. If a post is deleted the associated IP address will be deleted within 100 days. If you are banned from this website your IP address will remain in our database until the next ban reset which happens periodically.  
+    If you post data to this website in the form of logging into your account, submitting a new thread (topic), reply to an existing thread, vote, rate, etc the IP address associated with that "http post" interaction will remain in our database as long as the associated published material is available to the members. If a post is deleted the associated IP address will be deleted within 100 days. If you are banned from this website your IP address will remain in our database until the next ban reset which happens periodically.  
       
     While you grant us a lifetime royalty free licenses to publish your posts on this website under certain circumstance we will delete the IP address or any other "personal data" associated with a user id number or post from our data base. If you feel you have submitted "personal data" to this website in the form of a post you can edit that post at any time by logging into your account.  
       
@@ -109,4 +109,4 @@ Any of the information we collect from you may be used in one of the following w
       
     If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.  
       
-    This policy was last modified on 5-24-18
+    This policy was last modified on 5-25-18
