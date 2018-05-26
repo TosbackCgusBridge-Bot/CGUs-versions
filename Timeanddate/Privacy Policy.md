@@ -5,6 +5,7 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   My Units
     *   My Events
     *   My World Clock
+    *   My Privacy
     *   Sign in
     *   Register
 *   BackHome
@@ -48,6 +49,7 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   2-Week Forecast
     *   Hour-by-Hour
     *   Past Week
+    *   Climate
 *   BackSun &. Moon
     *   Sun Calculator
     *   Moon Calculator
@@ -56,6 +58,7 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Seasons
     *   Day and Night Map
     *   Moon Light World Map
+    *   Meteor Showers
     *   Astronomy Articles
 *   BackTimers
     *   Stopwatch
@@ -138,7 +141,7 @@ For newsletter subscribers, we store:
 
 For paying supporters and subscribers, in addition to the above-mentioned data, we also store:
 
-*   Payment information: either the PayPal address or the last four digits of the credit card used for payment
+*   Payment information: either the PayPal address or the last four digits of the credit card used for payment and a log of the steps taken to fulfill your order (stored for up to 90 days)
 *   Country of residence and, if submitted, street address, state, city, and ZIP/postal code
 *   Email address, if different than the one registered for the user account
 *   We use Braintree and Paypal for payments. see “Third-Party Privacy Policies” below
@@ -176,7 +179,7 @@ Third-Party Privacy Policies
 *   We use MailChimp to distribute our Newsletter
 *   Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website and/or other websites
 *   Google's use of advertising cookies enables it and its partners to serve ads to our users based on their visit to our sites and/or other websites
-*   Users may opt out of personalized advertising by visiting YourAdChoices or on our new privacy settings page, which will become avaiable by My 25, 2018
+*   Users may opt out of personalized advertising by visiting YourAdChoices or our privacy settings page
 
 Third parties we use for advertising:
 
@@ -208,7 +211,7 @@ Third parties we use for logging in:
 
 Right to Receive Information
 
-As of May 25, 2018, the new EU General Data Protection Regulation (GDPR) provides every user the right to receive a copy of the information we have stored about them. You may download a copy of your personal data on our new privacy settings page, which will become avaiable by My 25, 2018.
+As of May 25, 2018, the new EU General Data Protection Regulation (GDPR) provides every user the right to receive a copy of the information we have stored about them. You may download a copy of your personal data on our privacy settings page.
 
 Deleting Stored Data
 
