@@ -72,9 +72,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'Shining' Sequel 'Doctor Sleep' Nabs Release Date. Here's All We Know Read More
-    *   Eiza Gonzalez and More Joining Vin Diesel in Comic Book Movie 'Bloodshot'. Here's Everything We Know Read More
-    *   'Godzilla' Sequel Moves to Summer 2019. Here's Everything We Know Read More
+    *   It's Official! Daniel Craig and Danny Boyle, Together Again for 'Bond 25' Read More
+    *   'Logan' Director James Mangold is Making a Boba Fett 'Star Wars Story' Read More
+    *   The Week in Movie News: Jake Gyllenhaal Is a Spider-Man Villain, the Boba Fett Movie Is Back On and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -319,9 +319,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Incredibles 2' Gift With Purchase
+*   'Ocean's 8' Gift With Purchase
     
-    Choose 1 of 2 FREE\* posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive 'Ocean's 8' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Solo: A Star Wars Story' Gift With Purchase
     
