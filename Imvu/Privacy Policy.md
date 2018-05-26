@@ -1,6 +1,6 @@
   **Sign Up Now to Chat in 3D!** Member Login
 
-Last updated as of: May 25, 2016
+Last updated as of: May 24, 2018
 
 IMVU, Inc. Privacy Policy
 
@@ -26,7 +26,7 @@ In addition, when you register, we may collect any personal data that you elect 
 
 Unless you have set your preferences to hide certain profile data, other users on our Services will be able to view your profile data (which includes your self-selected avatar name, display name, age, gender and country (and in the United States, your State) based on our collection of your country or, if you have changed your country, then the country that you have selected.
 
-If you join our Creator Notification program or certain other optional IMVU services, we need additional information to ensure payment processing and also will ask you for your account name, postal address, cell phone number, driverâ€™s license or other government identifier and tax ID number.
+If you join our Creator Notification program or certain other optional IMVU services, we need additional information to ensure payment processing and also will ask you for your account name, postal address, cell phone number, driver's license or other government identifier and tax ID number.
 
 We will use this information to administer the Creator Notification program or other programs, and may use this information to send you notices and information as may be required.
 
@@ -46,7 +46,7 @@ Photos, Videos, Content
 
 You may upload photos, videos and other content on the Services (for example, to use as your avatar image or for your Photo Stream/Feed). We collect this data that you choose to upload to the Services.
 
-Please be aware that if you do this then your photos, videos and other content that you post may be viewed by other users of the Services. You may remove your photo(s), videos and other content at any time by going to your account, selecting your content, and deleting content.
+_Please be aware that if you do this then your photos, videos and other content that you post may be viewed by other users of the Services. You may remove your photo(s), videos and other content at any time by going to your account, selecting your content, and deleting content._
 
 If you are a minor between the ages of 13 and 18, you may contact us via our help center to remove certain content that you have submitted on the Services.
 
@@ -111,7 +111,7 @@ Your choices
 
 Most web and mobile device browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browsers or mobile devices.
 
-Please note, however, that by blocking or deleting cookies used on the Services, you may not be able to take full advantage of the Services and you may not be able to properly log on to the Services.
+_Please note, however, that by blocking or deleting cookies used on the Services, you may not be able to take full advantage of the Services and you may not be able to properly log on to the Services._
 
 IMVU does not process or respond to web browsers' "do not track" signals or other similar transmissions that indicate a request to disable online tracking of users who visit or use our Services.
 
@@ -156,7 +156,7 @@ We may use social plugins on our Services and may include icons that allow you t
 
 Third Party Advertisements
 
-Certain advertisements that appear on the Services are sometimes delivered (or "served") directly to users by third party advertisers. Some of these third party advertisers automatically receive certain of your personal data through your interaction with an advertisement. If you elect to participate in the â€œEarn Credits " functionality and you opt-in, such third parties may also track performance and use data relating to the ads as well as how you use the Services
+Certain advertisements that appear on the Services are sometimes delivered (or "served") directly to users by third party advertisers. Some of these third party advertisers automatically receive certain of your personal data through your interaction with an advertisement. If you elect to participate in the "Earn Credits" functionality and you opt-in, such third parties may also track performance and use data relating to the ads as well as how you use the Services
 
 Additionally, they may collect information about your device, operating system, the wireless carrier providing service to such device, and the geographical location of the device. These third party advertisers may also download non-personally identifiable cookies to your computer, or use other technologies such as "web beacons" to measure the effectiveness of their ads and to personalize advertising content. Their use of your personal data will be governed by the terms of their privacy policies and their privacy policies may explain the way in which you can "opt-out" of certain tracking by their advertisements.
 
@@ -174,11 +174,11 @@ If you wish to complete a third party offer in order to earn free credits on the
 
 Co-Branded Sites
 
-Some pages may have the look and feel of our Services (i.e. www.imvu.com), however these pages are served by a third party and information collected on these pages is not covered under our Privacy Notice. For example, all information collected on www.jobscore.com is owned and controlled by that company's own privacy policy. Our Privacy Notice does not apply to the information collected on these co-branded sites. You should read the privacy policy or statement of our co-branded partner on the co-branded site.
+Some pages may have the look and feel of our Services (i.e. www.imvu.com), however these pages are served by a third party and information collected on these pages is not covered under our Privacy Notice. For example, all information collected on www.jobscore.com is owned and controlled by that company's own privacy policy. _Our Privacy Notice does not apply to the information collected on these co-branded sites._ You should read the privacy policy or statement of our co-branded partner on the co-branded site.
 
 California Privacy Rights
 
-alifornia residents may request information about our disclosures of certain categories of personal data to third parties for such third parties' direct marketing purposes. California residents may make such request to us at privacy@imvu.com. We will provide a list of the categories of personal data disclosed to such third parties for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses or these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the email specified in this section.
+California residents may request information about our disclosures of certain categories of personal data to third parties for such third parties' direct marketing purposes. California residents may make such request to us at privacy@imvu.com. We will provide a list of the categories of personal data disclosed to such third parties for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses or these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the email specified in this section.
 
 How Is Your Personal Data Retained &. Secured?
 
@@ -232,7 +232,7 @@ In all cases we must have a reason and a legal ground for processing your person
 
 Legitimate Interests.
 
-We may process personal data for our own legitimate business interests. This relates to our ability to provide and maintain Services that work well and to give you the best Services, while making sure that you have the most secure experience. When we rely on this legal basis, we'll carry out a legitimate interest assessment to ensure we consider and balance any potential impact on you (both positive and negative), and your rights under data protection laws. Our legitimate business interests donâ€™t automatically override your interests - we wonâ€™t use your personal data for activities where our interests are overridden by the impact on you.
+We may process personal data for our own legitimate business interests. This relates to our ability to provide and maintain Services that work well and to give you the best Services, while making sure that you have the most secure experience. When we rely on this legal basis, we'll carry out a legitimate interest assessment to ensure we consider and balance any potential impact on you (both positive and negative), and your rights under data protection laws. Our legitimate business interests don't automatically override your interests - we won't use your personal data for activities where our interests are overridden by the impact on you.
 
 If you establish a user profile, we will process your data in order to provide you a profile page on the Services, and enable you to have the best user experience. We may also process your information to allow you to move from one device to another, without it impacting your status, or to purchase virtual items on the Services. We may also process your information to protect you against fraud when transacting on our Services, and to ensure our websites and systems are secure. We also have an interest in making sure our marketing is relevant for you, so we may process your information to send you marketing that's tailored to your interests.
 
@@ -242,7 +242,7 @@ Contractual.
 
 We may process your personal data for the purposes of a contract to which you are a party, in other words your ability to use the Services. For instance, if you establish a user profile, we will process your data in order to provide you a profile page. Likewise, if you purchase virtual items on the Services, we will process your data in order to carry out the payment transaction.
 
-You have the right to request that IMVU amend your data, and you can ask for your data to be removed if you decide that you no longer want to use the Services. If we donâ€™t have any legal requirements to keep this, then we will remove it.
+You have the right to request that IMVU amend your data, and you can ask for your data to be removed if you decide that you no longer want to use the Services. If we don't have any legal requirements to keep this, then we will remove it.
 
 Consent.
 
