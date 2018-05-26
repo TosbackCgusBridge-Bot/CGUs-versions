@@ -15,11 +15,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 1 OF COUPON CODE BUYNOW88 ENDS IN
+Near YouFind a StoreBack DAY 2 OF COUPON CODE BUYNOW88 ENDS IN
 
 \*offer ends 5/27/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 2 1 0 9 secs HOT DEALS ON WASHERS AND DRYERSShop AllHOT DEALS ON WASHERS AND DRYERSShop All
+Days 0 0 0 0 hours 4 4 0 0 mins 4 4 6 5 secs HOT DEALS ON WASHERS AND DRYERSShop AllHOT DEALS ON WASHERS AND DRYERSShop All
 
 *   HOT DEAL!
     
@@ -58,9 +58,9 @@ Days 0 0 0 0 hours 4 4 0 0 mins 2 1 0 9 secs HOT DEALS ON WASHERS AND DRYERSShop
     was $999 GE® ENERGY STAR® 7.5 cu. ft. Capacity Front Load Electric Dryer with Steam(11)
 *   HOT DEAL!
     
-    $599 sale
+    $499 sale
     
-    was $799 Samsung ENERGY STAR® 4.5 cu. ft. Top Load Washer with VRT®(48)
+    was $699 GE® 4.2 DOE cu. ft. Top Load Washer(5759)
 
 BUY 1 GET 2 FREE SHORTS FOR HERShop AllBUY 1 GET 2 FREE SHORTS FOR HERShop All
 
@@ -125,12 +125,12 @@ BUY 1 GET 2 FREE SHORTS FOR HERShop AllBUY 1 GET 2 FREE SHORTS FOR HERShop All
 *   $42.99 sale
     
     was $74 Premier Amour 3/4 Sleeve Sheath Dress(3)
+*   $44.40 sale
+    
+    was $74 Ronni Nicole Elbow Sleeve Sundress-Petites
 *   $42.99 sale
     
     was $74 Premier Amour Short Sleeve Sheath Dress
-*   $29.99 sale
-    
-    was $60 Spense Sleeveless Floral Maxi Dress
 
 Shop and Save at JCPenney
 
