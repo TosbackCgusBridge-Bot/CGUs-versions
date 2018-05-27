@@ -342,10 +342,19 @@ Menu Close Menu Close
     *   Lenovo Partner Network
     *   Device as a Service (DaaS)
     *   See All Solutions
+*   Email Sign-Up
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
 *   Call 1-855-253-6686
+*   Email Sign-Up
+
+*   My Account
+    *   Sign In
+    *   My Account
+    *   Orders
+    *   Product Registration
+    *   Sign Out
 
 *   Search
     
@@ -354,6 +363,7 @@ Menu Close Menu Close
 
 Compare (0)
 
+*   Email Sign-Up
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
@@ -500,7 +510,7 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
 
-Feedback Will open a new windowFeedbackLaunches comment card in new windowClick a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
@@ -512,4 +522,4 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE
+SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
