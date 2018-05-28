@@ -38,7 +38,7 @@ From time-to-time our site requests information from users via surveys. Particip
 
 Security
 
-This website takes precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. While we use best practices to protect your data, we cannot guarantee that your data is completely secure. We recommend that you do not store confidential information on our servers and that you make regular backups of your data using our backup tools. If you have any questions about the security at our website, you can contact us.
+This website takes precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and offline. While we use best practices to protect your data, we cannot guarantee that your data is completely secure. We recommend that you do not store confidential information on our servers and that you make regular backups of your data using our backup tools. If you have any questions about the security at our website, you can contact us.
 
 Notification of Changes
 
