@@ -24,6 +24,7 @@ Share this page:
     *   Global Privacy Policy
         *   Global Privacy Policy FAQs
     *   FedEx Digital Platforms
+    *   Privacy Notice
 
 More Resources
 
