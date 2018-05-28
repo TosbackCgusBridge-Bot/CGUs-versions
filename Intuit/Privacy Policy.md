@@ -15,11 +15,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 3 OF COUPON CODE BUYNOW88 ENDS IN
-
-\*offer ends 5/27/18
-
-Days 0 0 0 0 hours 4 4 0 0 mins 4 4 4 3 secs UP TO 40% OFF SELECT WASHERS AND DRYERSShop AllUP TO 40% OFF SELECT WASHERS AND DRYERSShop All
+Near YouFind a StoreBack FINAL HOURS! COUPON CODE 8SUNDAY ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 4 4 1 0 secs UP TO 40% OFF SELECT WASHERS AND DRYERSShop AllUP TO 40% OFF SELECT WASHERS AND DRYERSShop All
 
 *   HOT DEAL!
     
@@ -58,15 +54,12 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 4 4 3 secs UP TO 40% OFF SELECT WASHERS AND DR
     was $999 GE® ENERGY STAR® 7.5 cu. ft. Capacity Front Load Electric Dryer with Steam(11)
 *   HOT DEAL!
     
-    $1,169 sale
+    $549 sale
     
-    was $1,399 GE Unitized Spacemaker® 2.3 DOE cu. ft. Stainless Steel Washer and 4.4 cu. ft. Electric Dryer(19)
+    was $799 LG ENERGY STAR® 4.3 cu. ft. Ultra Large Capacity Front Load Washer with ColdWash™ Technology
 
 UP TO 60% OFF SELECT OUTDOOR OASIS PATIO &. ACCESSORIESShop AllUP TO 60% OFF SELECT OUTDOOR OASIS PATIO &. ACCESSORIESShop All
 
-*   $79.99 sale
-    
-    was $160 Outdoor Oasis Fire Pit(1)
 *   $599.99 sale
     
     was $1,205 Outdoor Oasis Latigo Wicker 4-pc. Conversation Set
@@ -88,9 +81,17 @@ UP TO 60% OFF SELECT OUTDOOR OASIS PATIO &. ACCESSORIESShop AllUP TO 60% OFF SEL
 *   $549.99 sale
     
     was $1,100 Outdoor Oasis San Luis 4-pc. Conversation Set with Swivel Chairs(4)
+*   $199.99 sale
+    
+    was $400 Outdoor Oasis San Luis Patio Lounge Chair
 
 Womens-Shorts-SJB-ANA-LCBUY 1 GET 2 FREE SHORTS FOR HERShop AllWomens-Shorts-SJB-BUY 1 GET 2 FREE SHORTS FOR HERShop All
 
+*   LIMITED TIME SPECIAL!
+    
+    $32
+    
+    St. John's Bay 11" Cargo Bermuda Shorts(66)
 *   LIMITED TIME SPECIAL!
     
     $32
@@ -100,12 +101,12 @@ Womens-Shorts-SJB-ANA-LCBUY 1 GET 2 FREE SHORTS FOR HERShop AllWomens-Shorts-SJB
     
     $32
     
-    a.n.a Twill Short (3 1/2")(29)
+    a.n.a Twill Short (5")(15)
 *   LIMITED TIME SPECIAL!
     
     $32
     
-    a.n.a Twill Short (5")(15)
+    a.n.a Twill Short (3 1/2")(29)
 *   LIMITED TIME SPECIAL!
     
     $32
@@ -120,17 +121,12 @@ Womens-Shorts-SJB-ANA-LCBUY 1 GET 2 FREE SHORTS FOR HERShop AllWomens-Shorts-SJB
     
     $37
     
-    a.n.a Denim Shorts (5")(8)
+    St. John's Bay 11" Denim Bermuda Shorts(25)
 *   LIMITED TIME SPECIAL!
     
     $37
     
-    Liz Claiborne 10 1/2" Classic Fit Twill Bermuda Shorts(10)
-*   LIMITED TIME SPECIAL!
-    
-    $39
-    
-    a.n.a Denim Bermuda Shorts (9")(4)
+    a.n.a Denim Shorts (5")(8)
 
 40-50% OFF SELECT MAXI DRESSESShop All40-50% OFF SELECT MAXI DRESSESShop All
 
@@ -140,12 +136,12 @@ Womens-Shorts-SJB-ANA-LCBUY 1 GET 2 FREE SHORTS FOR HERShop AllWomens-Shorts-SJB
 *   $49.99 sale
     
     was $89 Premier Amour Sleeveless Maxi Dress(1)
-*   $29.99 sale
-    
-    was $60 Spense Sleeveless Floral Maxi Dress
 *   $29.50 sale
     
     was $59 Belle + Sky Sleeveless Smocked Waist Dress(9)
+*   $49.99 sale
+    
+    was $89 Premier Amour Sleeveless Maxi Dress
 *   $49.99 sale
     
     was $89 Premier Amour Sleeveless Floral Maxi Dress
@@ -155,9 +151,9 @@ Womens-Shorts-SJB-ANA-LCBUY 1 GET 2 FREE SHORTS FOR HERShop AllWomens-Shorts-SJB
 *   $29.50 sale
     
     was $59 Project Runway Colorblock Maxi Dress(3)
-*   $49.99 sale
+*   $29.99 sale
     
-    was $89 Premier Amour Sleeveless Maxi Dress
+    was $74 a.n.a. Smocked Maxi Dress(8)
 
 Shop and Save at JCPenney
 
