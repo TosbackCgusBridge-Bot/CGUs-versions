@@ -15,18 +15,18 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack FINAL HOURS! COUPON CODE 8SUNDAY ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 4 4 1 0 secs UP TO 40% OFF SELECT WASHERS AND DRYERSShop AllUP TO 40% OFF SELECT WASHERS AND DRYERSShop All
+Near YouFind a StoreBack FINAL HOURS! COUPON CODE HURRY4 ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 4 4 3 2 secs UP TO 40% OFF SELECT WASHERS AND DRYERSShop AllUP TO 40% OFF SELECT WASHERS AND DRYERSShop All
 
 *   HOT DEAL!
     
     $699 sale
     
-    was $849 LG ENERGY STAR® 7.4 cu. ft. Ultra Large Capacity Electric Dryer with NFC Tag On Technology(354)
+    was $849 LG ENERGY STAR® 7.4 cu. ft. Ultra Large Capacity Electric Dryer with NFC Tag On Technology(355)
 *   HOT DEAL!
     
     $699 sale
     
-    was $849 LG ENERGY STAR® 4.5 cu.ft. Ultra-Large Capacity Front-Load Washer with Coldwash™ Technology(548)
+    was $849 LG ENERGY STAR® 4.5 cu.ft. Ultra-Large Capacity Front-Load Washer with Coldwash™ Technology(550)
 *   HOT DEAL!
     
     $1,198 sale
@@ -46,7 +46,7 @@ Near YouFind a StoreBack FINAL HOURS! COUPON CODE 8SUNDAY ENDS IN Days 0 0 0 0 h
     
     $649 sale
     
-    was $999 - $1,099 GE® ENERGY STAR® 4.5 DOE cu. ft. Capacity Front Load Washer with steam(43)
+    was $999 - $1,099 GE® ENERGY STAR® 4.5 DOE cu. ft. Capacity Front Load Washer with steam(46)
 *   HOT DEAL!
     
     $649 sale
@@ -60,28 +60,44 @@ Near YouFind a StoreBack FINAL HOURS! COUPON CODE 8SUNDAY ENDS IN Days 0 0 0 0 h
 
 UP TO 60% OFF SELECT OUTDOOR OASIS PATIO &. ACCESSORIESShop AllUP TO 60% OFF SELECT OUTDOOR OASIS PATIO &. ACCESSORIESShop All
 
-*   $599.99 sale
+*   BIG BUY!
+    
+    $479.99 sale
     
     was $1,205 Outdoor Oasis Latigo Wicker 4-pc. Conversation Set
-*   $699.99 sale
+*   BIG BUY!
+    
+    $699.99 sale
     
     was $1,750 Outdoor Oasis Latigo Wicker 7-pc. Rectangular Patio Dining Set
-*   $799.99 sale
+*   BIG BUY!
+    
+    $799.99 sale
     
     was $2,000 Outdoor Oasis Latigo Wicker 6-pc. Patio Sectional
-*   $385 sale
+*   BIG BUY!
+    
+    $310 sale
     
     was $775 Outdoor Oasis Latigo Wicker 2-pc. Swivel Conversational Chair(1)
-*   $149.99 sale
+*   BIG BUY!
+    
+    $119.99 sale
     
     was $300 Outdoor Oasis Melbourne Sling Patio Glider(1)
-*   $99.99 sale
+*   BIG BUY!
+    
+    $79.99 sale
     
     was $200 Outdoor Oasis Winston 3-pc. Bistro Set
-*   $549.99 sale
+*   BIG BUY!
+    
+    $439.99 sale
     
     was $1,100 Outdoor Oasis San Luis 4-pc. Conversation Set with Swivel Chairs(4)
-*   $199.99 sale
+*   BIG BUY!
+    
+    $159.99 sale
     
     was $400 Outdoor Oasis San Luis Patio Lounge Chair
 
@@ -91,12 +107,12 @@ Womens-Shorts-SJB-ANA-LCBUY 1 GET 2 FREE SHORTS FOR HERShop AllWomens-Shorts-SJB
     
     $32
     
-    St. John's Bay 11" Cargo Bermuda Shorts(66)
+    St. John's Bay 11" Cargo Bermuda Shorts(70)
 *   LIMITED TIME SPECIAL!
     
     $32
     
-    SJB Secretly Slender 11" Bermuda Shorts(21)
+    St. John's Bay® Secretly Slender 11" Bermuda Shorts(23)
 *   LIMITED TIME SPECIAL!
     
     $32
@@ -111,7 +127,7 @@ Womens-Shorts-SJB-ANA-LCBUY 1 GET 2 FREE SHORTS FOR HERShop AllWomens-Shorts-SJB
     
     $32
     
-    a.n.a Knit Waist Shorts(15)
+    a.n.a Knit Waist Shorts(16)
 *   LIMITED TIME SPECIAL!
     
     $32
@@ -121,18 +137,15 @@ Womens-Shorts-SJB-ANA-LCBUY 1 GET 2 FREE SHORTS FOR HERShop AllWomens-Shorts-SJB
     
     $37
     
-    St. John's Bay 11" Denim Bermuda Shorts(25)
+    St. John's Bay 11" Denim Bermuda Shorts(26)
 *   LIMITED TIME SPECIAL!
     
-    $37
+    $39
     
-    a.n.a Denim Shorts (5")(8)
+    a.n.a Denim Bermuda Shorts (9")(4)
 
 40-50% OFF SELECT MAXI DRESSESShop All40-50% OFF SELECT MAXI DRESSESShop All
 
-*   $49.99 sale
-    
-    was $89 Premier Amour Sleeveless Embroidered Maxi Dress(1)
 *   $49.99 sale
     
     was $89 Premier Amour Sleeveless Maxi Dress(1)
@@ -144,13 +157,16 @@ Womens-Shorts-SJB-ANA-LCBUY 1 GET 2 FREE SHORTS FOR HERShop AllWomens-Shorts-SJB
     was $89 Premier Amour Sleeveless Maxi Dress
 *   $49.99 sale
     
-    was $89 Premier Amour Sleeveless Floral Maxi Dress
-*   $49.99 sale
-    
     was $89 Premier Amour Sleeveless Maxi Dress(2)
 *   $29.50 sale
     
     was $59 Project Runway Colorblock Maxi Dress(3)
+*   $49.99 sale
+    
+    was $89 Premier Amour Sleeveless Floral Maxi Dress
+*   $49.99 sale
+    
+    was $89 Premier Amour Sleeveless Pattern Maxi Dress
 *   $29.99 sale
     
     was $74 a.n.a. Smocked Maxi Dress(8)
