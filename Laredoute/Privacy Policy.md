@@ -54,7 +54,7 @@ _13.2._ COMMENT CONTACTER LE CORRESPONDANT INFORMATIQUE ET LIBERTES ?
 
 1\. QUI COLLECTE LES DONNEES A CARACTERE PERSONNEL ?
 
-La société qui collecte les données à caractère personnel et mets en œuvre les traitements de donnée est :
+La société qui collecte les données à caractère personnel et met en œuvre les traitements de donnée est :
 
 La Redoute, Société par Actions Simplifié au capital de 353 490 250 Euros, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186 dont le siège social est situé au 110 rue de Blanchemaille à Roubaix (59100).
 
