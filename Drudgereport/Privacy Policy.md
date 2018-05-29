@@ -137,15 +137,15 @@ LATEST ON TWITTER
 
 As GDPR Looms, What Are The Biggest Uncertainties? Our VP of AdOps, @stephsnowint, weighs in bit.ly/2KOMc7o via @adexchanger
 
-About 4 days ago
+About 5 days ago
 
 My week on Twitter : 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/VQmO…
 
-About 5 days ago
+About 6 days ago
 
 We’re excited to announce @stephsnowint, our VP of AdOps, has been selected as part of the @AdMonsters 2018 Power List for her remarkable contributions to the digital media &. advertising industry. We’re lucky to have you on our team. Congratulations, Stephanie! Well deserved. pic.twitter.com/EMrv…
 
-About 6 days ago
+Last week
 
 My week on Twitter : 4 Mentions, 58.2K Mention Reach, 2 Likes, 1 Retweet, 958 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/ANh9…
 
