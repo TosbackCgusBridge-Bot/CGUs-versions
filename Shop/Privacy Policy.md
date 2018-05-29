@@ -367,9 +367,9 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers OUR BIGGEST MEMORIAL DAY SALE EVER
+Home >. Filter by specs Offers MEMORIAL DAY DOORBUSTERS
 
-Up to 40% off DAILY DOORBUSTERS. While supplies last!
+New deals dropping throughout the day. Save up to 40% off. TODAY ONLY!
 
 Shop Doorbusters >.
 
