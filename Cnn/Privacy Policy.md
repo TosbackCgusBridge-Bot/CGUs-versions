@@ -57,7 +57,7 @@ Sport
 *   Motorsport
 *   Sailing
 *   Skiing
-*   Olympics
+*   Rugby
 
 *   Destinations
 *   Food &. Drink
@@ -150,7 +150,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-Pinellas Park, FL172°
+Pinellas Park, FL169°
 
 1.  Home
 
@@ -200,7 +200,7 @@ Pinellas Park, FL172°
     7.  Motorsport
     8.  Sailing
     9.  Skiing
-    10.  Olympics
+    10.  Rugby
 
 1.  1.  Destinations
     2.  Food &. Drink
