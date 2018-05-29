@@ -1,4 +1,4 @@
-<img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQWWTD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
 
 Anmelden
 
@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   28\. Mai 2018
+*   29\. Mai 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.938,01ǀ
+*   DAX 12.863,46ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -185,13 +185,11 @@ Anmelden
 *   SPIEGEL Plus
     
     *   *   Übersicht
-        *   SPIEGEL Plus Deutschland
-        *   SPIEGEL Plus Wirtschaft
-        *   SPIEGEL Plus Gesellschaft
-        *   SPIEGEL Plus Ausland
-        *   SPIEGEL Plus Sport
-        *   SPIEGEL Plus Wissenschaft
-        *   SPIEGEL Plus Kultur
+        *   Politik
+        *   Wirtschaft
+        *   Leben
+        *   Kultur &. Geschichte
+        *   Wissen &. Gesundheit
 *   SPIEGEL AKADEMIE
 *   DER SPIEGEL live
 *   DER SPIEGEL
@@ -393,6 +391,7 @@ SPIEGEL GRUPPE
 
 *   Impressum
 *   \-Datenschutz
+*   \-Nutzungsbedingungen
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
@@ -413,4 +412,4 @@ Bitte prüfen Sie, ob Sie ähnliche Erweiterungen, Do-not-Track-Funktionen oder 
 
 Welche Bedeutung Werbung für SPIEGEL ONLINE hat, was wir für Ihre Sicherheit im Netz tun, wie unsere Redaktion arbeitet – Fragen und Antworten finden Sie hier.
 
-<div id="mWdmJRTeLHa">. <div id="mWdmJRTeLHb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
+<div id="wtxwrKqJARa">. <div id="wtxwrKqJARb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
