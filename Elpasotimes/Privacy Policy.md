@@ -75,7 +75,7 @@ SUBSCRIBE NOW$9.99 for 6 months
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowNeon Desert 2018: Top 5 takeaways from SaturdayLocalNeon Desert 2018: Live updatesEntertainmentControversial consultant claims credit for winPoliticsPolice: Gang leader double-cross fuels violenceLocalSearch for next UTEP president to be nationwideEducationThings to do Memorial Day weekend in El PasoEntertainmentUTEP football to play Texas Longhorns in futureCollegeYISD teacher accused of assaulting estranged wifeCrimeUTEP's huge recruiting class could transformSportsEl Paso city attorney apologized in emailLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowNeon Desert 2018: A look back in photos, videoLocalPedestrian has life-threatening injuries from crashNewsVeteran Alfredo Gomez, 92, saw end of WWIILocalDowntown El Paso executive is emerging leaderBusinessNeon Desert 2018: Top takeaways from SundayEntertainmentNeon Desert 2018: Top 5 takeaways from SaturdayLocalNeon Desert 2018: Live updatesEntertainmentCrime of Week targets credit card theft, useCrimeEl Paso patch collection honors veteransLocalControversial consultant claims credit for winPoliticsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
