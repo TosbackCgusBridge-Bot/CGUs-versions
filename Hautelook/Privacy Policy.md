@@ -201,8 +201,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jewelry
     *   Lingerie
     *   Handbags
-    *   Watches
     *   Tech Accessories
+    *   Watches
     *   Accessories
 *   MenShop Sale Events
     
@@ -293,11 +293,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
+    *   Bath
     *   Accent Furniture
     *   Outdoor Living
     *   Organization
     *   Luggage &. Travel
-    *   Bath
 *   BeautyShop Sale Events
     
     *   Blend Mineral Cosmetics Up to 85% Off
@@ -318,8 +318,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Makeup
     *   Skin Care
     *   Tools &. Accessories
-    *   Bath &. Body
     *   Hair Care
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
