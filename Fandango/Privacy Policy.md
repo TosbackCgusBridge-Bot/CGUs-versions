@@ -5,6 +5,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 
 *   Movies Now Playing
     
+    *   Solo: A Star Wars Story
     *   Deadpool 2
     *   Avengers: Infinity War
     *   Book Club
@@ -13,22 +14,19 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Show Dogs
     *   Overboard (2018)
     *   A Quiet Place
-    *   Rampage (2018)
     *   RBG
-    *   I Feel Pretty
+    *   Rampage (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Solo: A Star Wars Story
-    *   Feral
-    *   The Gospel According to André
-    *   How Long Will I Love U
-    *   In Darkness (2018)
-    *   Mary Shelley (2018)
-    *   The Misandrists
-    *   Summer 1993
-    *   Who We Are Now
+    *   Action Point
+    *   Adrift (2018)
+    *   Upgrade (2018)
+    *   American Animals
+    *   Breath (2018)
+    *   A Kid Like Jake
+    *   Social Animals (2018)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -37,14 +35,15 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     Coming Soon
     
-    *   Action Point
-    *   Adrift (2018)
     *   Hereditary
     *   Ocean's 8
     *   Hotel Artemis
     *   SuperFly (2018)
+    *   Race 3
     *   Tag (2018)
     *   Jurassic World: Fallen Kingdom
+    *   Uncle Drew
+    *   Sicario: Day of the Soldado
     *   See All Coming Soon
     
     Explore More
@@ -331,9 +330,9 @@ Offers
     
     Choose 1 of 5 FREE\* exclusive posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'Mamma Mia! Here We Go Again' Gift With Purchase
+*   'Action Point' Gift With Purchase
     
-    Receive a FREE song download\* of 'When I Kissed the Teacher' from the movie soundtrack with ticket purchase. BUY TICKETS
+    Own up to five eligible 'JACKASS' movies to watch at home for just $2.99 each with ticket purchase. BUY TICKETS
     
 
 New + Coming soon
@@ -381,4 +380,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office. advertisementadvertisementadvertisement
