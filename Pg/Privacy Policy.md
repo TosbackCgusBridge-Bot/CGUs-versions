@@ -16,6 +16,9 @@ Primary navigation
   
 Select LanguageShqipالعربيةBosanskiБългарски简体中文繁體中文HrvatskiČeskyDanskNederlandsEestiEnglishSuomiFrançais (Canada)Français (Européen)DeutschΕλληνικάעבריתMagyarItaliano日本語한국어LietuviųLatviešuмакедонскиNorskPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийSrpskiSlovenčinaSlovenščinaEspañolEspañol (España)SvenskaภาษาไทยTürkçeTiếng ViệtBahasa MelayuУкраїнськаاردو
 
+P&G Global Consumer Privacy Policy  
+_5/25/2018_  
+
 We work hard to build and maintain a relationship of trust with you. So, when it comes to handling your information, we do so carefully and sensibly, and in ways that live up to that trust. This policy lets you know how we do that, including what information we collect, how we use and protect it, and how you can decide what we do with it. Our goal is to help you understand how we use your information to improve our content, products, advertisements, and services.
 
   
@@ -107,7 +110,7 @@ What We Share
 Your Rights and Choices
 
   
-**Marketing** You can tell us to stop sending you email and text messages by following the opt-out instructions sent with these communications. You can also choose to stop receiving marketing email, SMS, or postal mailings by clicking here. While we will honor your choices, we may need to keep information to do so. For example, if you tell us to stop sending marketing emails, we will need your email address on file so that our systems remember that you no longer wish to receive marketing communications to that email address.  
+**marketing** You can tell us to stop sending you email and text messages by following the opt-out instructions sent with these communications. You can also choose to stop receiving marketing email, SMS, or postal mailings by clicking here. While we will honor your choices, we may need to keep information to do so. For example, if you tell us to stop sending marketing emails, we will need your email address on file so that our systems remember that you no longer wish to receive marketing communications to that email address.  
   
 **Accounts** Depending upon the country where you registered, your P&G account may offer the ability to access your information and make updates to or delete your data. If not, you can click here to make a request.
 
@@ -115,7 +118,7 @@ Your Rights and Choices
 
 **General Requests** . To make a request with respect to personal data used for marketing, which would include for example information you provided us as you registered through one of our websites or apps, please contact us here .
 
-**Media Advertising** . To make a request with respect to personal data used for advertising, which would include for example information we may have about you at a cookie or device ID level and which we use to provide you with relevant ads, please contact us here . There may also be data associated with your cookie or device ID in our demand-side (or ad-serving) and ad verification partner platforms. For that data, please see here,here, and here.
+**Media Advertising** . To make a request with respect to personal data used for advertising, which would include for example information we may have about you at a cookie or device ID level and which we use to provide you with relevant ads, please contact us here . There may also be data associated with your cookie or device ID in our demand-side (or ad-serving) and ad verification partner platforms. For that data, please see here and here.
 
 **Consumer Research** . To make a request with respect to personal data we may have as part of your participation in one of our research studies, please see the contact information provided on your consent form or call or visit your research center.
 
@@ -318,7 +321,7 @@ Procter &. Gamble International Operations SA
 
 **Marketing**
 
-Email, name, phone number, your affinities, your interests, your profession, your habits, what you bought, the photos or videos you upload, information about your children and your home, your family composition, the number of people in your household, your hair type, your skin type, your favorite scent, whether you have a pet, etc.
+Email, name, phone number, postal address, your affinities, your interests, your profession, your habits, what you bought, the photos or videos you upload, information about your children and your home, your family composition, the number of people in your household, your hair type, your skin type, your favorite scent, whether you have a pet, etc.
 
 To send you materials marketing our products or services or the products or services of our partners.
 
@@ -326,11 +329,11 @@ Your consent for email and SMS and, where we obtain it, consent for postal. Legi
 
 Until you request to delete the personal data or withdraw your consent. If you do not make such a request, the personal data will be deleted on the following schedule:
 
-email: after 24 months of all-channel inactivity. We define inactivity through several internal criteria.
+email: after <50 months of all-channel inactivity. We define inactivity through several internal criteria.
 
-SMS: after 24 months of all-channel inactivity. We define inactivity through several internal criteria.
+SMS: after <50 months of all-channel inactivity. We define inactivity through several internal criteria.
 
-postal: after 48 months of all-channel inactivity. We define inactivity through several internal criteria.
+postal address: after <50 months of all-channel inactivity. We define inactivity through several internal criteria.
 
 **Contests**
 
