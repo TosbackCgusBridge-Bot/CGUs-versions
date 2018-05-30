@@ -135,25 +135,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 14 Mentions, 1.47K Mention Reach, 9 Likes, 2 Retweets, 33K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LhME…
+
+About 5 hours ago
+
+Our biggest fans this week: @AdMonsters, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/CFJr…
+
+About 16 hours ago
+
 As GDPR Looms, What Are The Biggest Uncertainties? Our VP of AdOps, @stephsnowint, weighs in bit.ly/2KOMc7o via @adexchanger
 
-About 5 days ago
+About 6 days ago
 
 My week on Twitter : 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/VQmO…
 
-About 6 days ago
+Last week
 
 We’re excited to announce @stephsnowint, our VP of AdOps, has been selected as part of the @AdMonsters 2018 Power List for her remarkable contributions to the digital media &. advertising industry. We’re lucky to have you on our team. Congratulations, Stephanie! Well deserved. pic.twitter.com/EMrv…
 
 Last week
-
-My week on Twitter : 4 Mentions, 58.2K Mention Reach, 2 Likes, 1 Retweet, 958 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/ANh9…
-
-About 2 weeks ago
-
-Our biggest fans this week: @mrmistry. Thank you! via sumall.com/thankyou?… pic.twitter.com/mELV…
-
-About 2 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
