@@ -93,23 +93,23 @@ Primary menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! Androids Replace Human Roles in the Future World of “Detroit: Become Human”
+search Your browser does not support JavaScript! A “Detroit: Become Human” Developer Discusses How a Player's
 
-Play the PS4™ Exclusive This Week
+Choices Affect the Narrative of the Game
 
 Close
 
-*   Share Androids Replace Human Roles in the Future World of “Detroit: Become Human” on Facebook
-*   Share Androids Replace Human Roles in the Future World of “Detroit: Become Human” on Twitter
-*   Copy URL to share Androids Replace Human Roles in the Future World of “Detroit: Become Human”
+*   Share A “Detroit: Become Human” Developer Discusses How a Player's on Facebook
+*   Share A “Detroit: Become Human” Developer Discusses How a Player's on Twitter
+*   Copy URL to share A “Detroit: Become Human” Developer Discusses How a Player's
 
-Play Androids Replace Human Roles in the Future World of “Detroit: Become Human” Video
+Play A “Detroit: Become Human” Developer Discusses How a Player's Video
 
-Sony on YouTube - Androids Replace Human Roles in the Future World of “Detroit: Become Human”
+Sony on YouTube - A “Detroit: Become Human” Developer Discusses How a Player's
 
-Play Androids Replace Human Roles in the Future World of “Detroit: Become Human” Video hotspot
+Play A “Detroit: Become Human” Developer Discusses How a Player's Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/detroit-become-human-real-600x600.jpg);" alt="Detroit: Become Human - Interview with David Cage of Quantic Dream">. With So Many Different Choices,
+<img class="bg-img" class="url(/en\_us/media/content/detroit-become-human-screen-22-ps4-us-13apr18-600x600.jpg);" alt="Detroit: Become Human - What It Means To Be Human Interview">. With So Many Different Choices,
 
 How Will You Play “Detroit”?
 
@@ -127,15 +127,15 @@ Play With So Many Different Choices, Video hotspot
 
 <img class="bg-img" class="url(/en\_us/media/content/PSX-Detroit-600x600v2\_gEZe4o4.jpg);" alt="Detroit: Become Human Video">.
 
-11 tips to be the last one standing in H1Z1: Battle Royale
+Mega Man 11 launches October 2 on PS4! Get a first look at the Blue Bomber's new game-changing Double Gear system
 
-7 days ago
+37 minutes ago
 
 View Tweet
 
-View Playstation Gold Wireless Headset on Instagram
+View Glacier White PS4 Pro on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c6b5fbe5a00fe955d113c7efd13c4b6a/5B836999/t51.2885-15/e35/30953884\_968009030020789\_5759689570731950080\_n.jpg);" alt="">. Get Your Game On With A
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/52dc38ac9b884ed5de50dced7f154124/5B891F31/t51.2885-15/e35/28157878\_346750622476746\_2664395778256011264\_n.jpg);" alt="">. Get Your Game On With A
 
 Midnight Blue Controller
 
@@ -147,19 +147,95 @@ Close
 
 Midnight Blue Controller
 
-<img class="bg-img" class="url(/en\_us/media/content/DS4\_Render\_CUHZCT2U\_MidnightBlue\_76122-600x600\_xPbXVvz.jpg);" alt="Playstation Midnight Blue Controller">. How 3 Composers Created Unique Soundtracks for Each Character
+<img class="bg-img" class="url(/en\_us/media/content/DS4\_Render\_CUHZCT2U\_MidnightBlue\_76122-600x600\_xPbXVvz.jpg);" alt="Playstation Midnight Blue Controller">. Sony Rewards Has the Ultimate 4K Gaming Prize Package
 
 Learn More
 
 Close
 
-*   Share How 3 Composers Created Unique Soundtracks for Each Character on Facebook
-*   Share How 3 Composers Created Unique Soundtracks for Each Character on Twitter
-*   Copy URL to share How 3 Composers Created Unique Soundtracks for Each Character
+*   Share Sony Rewards Has the Ultimate 4K Gaming Prize Package on Facebook
+*   Share Sony Rewards Has the Ultimate 4K Gaming Prize Package on Twitter
+*   Copy URL to share Sony Rewards Has the Ultimate 4K Gaming Prize Package
 
 Learn More
 
-<img class="bg-img" class="url(/en\_us/media/content/detroit-become-human-screen-36-ps4-us-13apr18-600x600\_pI1Jcnx.jpg);" alt="How Three Composers Created the Soundtrack of Detroit: Become Human">. Would You Be Able to Outsmart the Goalie in Our Virtual Reality Soccer Game?
+<img class="bg-img" class="url(/en\_us/media/content/Sonycom\_DetroitBHSS18\_copy\_NhZkBm2.jpg);" alt="Detroit: Become Human ShowStopper">. Sony Artisans Share Tips on Planning for Summer Travel Photography
+
+Learn More
+
+Close
+
+*   Share Sony Artisans Share Tips on Planning for Summer Travel Photography on Facebook
+*   Share Sony Artisans Share Tips on Planning for Summer Travel Photography on Twitter
+*   Copy URL to share Sony Artisans Share Tips on Planning for Summer Travel Photography
+
+Learn More
+
+<img class="bg-img" class="url(/en\_us/media/content/0003\_Me-Ra-Koh\_AlphaUniverse\_1-60-sec-at-f---10-ISO-50ILCE-7RM2FE-24-70mm-F2.8-600x600\_bLHES);" alt="How To Plan For Summer Travel Photography">. Upgrade Your Summer Road Trip
+
+With the Latest In-Car Audio
+
+Close
+
+*   Share Upgrade Your Summer Road Trip on Facebook
+*   Share Upgrade Your Summer Road Trip on Twitter
+*   Copy URL to share Upgrade Your Summer Road Trip
+
+With the Latest In-Car Audio
+
+<img class="bg-img" class="url(/en\_us/media/content/5\_Your\_Personal\_Navigator\_Apple\_CarPlay\_600x600\_fCdEsXi.jpg);" alt="In-Car Receiver ">. Action Cam + Waterproof Case
+
+\= Adventure With No Limits
+
+Close
+
+*   Share Action Cam + Waterproof Case on Facebook
+*   Share Action Cam + Waterproof Case on Twitter
+*   Copy URL to share Action Cam + Waterproof Case
+
+\= Adventure With No Limits
+
+<img class="bg-img" class="url(/en\_us/media/content/HDR-AS200V\_waterproof\_600x600\_2JirUZE.jpg);" alt="Action Cam">.
+
+View RX100 V on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/8d4cb3600b18fdc3e2df0616b00e2336/5BBE4658/t51.2885-15/e35/28429757\_1779627185675904\_3279002115095134208\_n.jpg);" alt="">. Close
+
+*   Share RX0 on Facebook
+*   Share RX0 on Twitter
+*   Copy URL to share RX0
+
+RX0
+
+<img class="bg-img" class="url(/en\_us/media/content/DSC-RX0\_right\_eps-600x600-hero\_mzeO4Ls.jpg);" alt="RX0">. Make Your Beach Party Unforgettable
+
+See Our Extra Bass Wireless Speakers
+
+Close
+
+*   Share Make Your Beach Party Unforgettable on Facebook
+*   Share Make Your Beach Party Unforgettable on Twitter
+*   Copy URL to share Make Your Beach Party Unforgettable
+
+Play Make Your Beach Party Unforgettable Video
+
+Sony on YouTube - Make Your Beach Party Unforgettable
+
+Play Make Your Beach Party Unforgettable Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/SRS-XB21\_Rustproof-600x600.jpg);" alt="Extra Bass Beach Party Video">. The Perfect Projector for Movie Night
+
+Learn More
+
+Close
+
+*   Share The Perfect Projector for Movie Night on Facebook
+*   Share The Perfect Projector for Movie Night on Twitter
+*   Copy URL to share The Perfect Projector for Movie Night
+
+Learn More
+
+<img class="bg-img" class="url(/en\_us/media/content/LSPX-P1\_situ01\_600x600.jpg);" alt="Portable Ultra Short Throw Projector Movie Night">. Would You Be Able to Outsmart the Goalie in Our Virtual Reality Soccer Game?
 
 Learn More About Our New Innovations
 
@@ -175,43 +251,59 @@ Sony on YouTube - Would You Be Able to Outsmart the Goalie in Our Virtual Realit
 
 Play Would You Be Able to Outsmart the Goalie in Our Virtual Reality Soccer Game? Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/WOW\_Studio\_2018\_VR\_Soccer-600x600.jpg);" alt="VR Soccer ">. Turn Any Surface Into a Touch Screen
+<img class="bg-img" class="url(/en\_us/media/content/WOW\_Studio\_2018\_VR\_Soccer-600x600.jpg);" alt="VR Soccer ">. Black Ops Is Back With Improved Multiplayer Combat
 
-With the Xperia Touch
-
-Close
-
-*   Share Turn Any Surface Into a Touch Screen on Facebook
-*   Share Turn Any Surface Into a Touch Screen on Twitter
-*   Copy URL to share Turn Any Surface Into a Touch Screen
-
-With the Xperia Touch
-
-<img class="bg-img" class="url(/en\_us/media/content/08\_Xperia\_Touch\_Gaming-600x600\_FW2C2rJ.jpg);" alt="Xperia Touch">. Cutting Edge Technology
-
-In the Palm of Your Hand
+Learn More About “Call of Duty®: Black Ops 4”
 
 Close
 
-*   Share Cutting Edge Technology on Facebook
-*   Share Cutting Edge Technology on Twitter
-*   Copy URL to share Cutting Edge Technology
+*   Share Black Ops Is Back With Improved Multiplayer Combat on Facebook
+*   Share Black Ops Is Back With Improved Multiplayer Combat on Twitter
+*   Copy URL to share Black Ops Is Back With Improved Multiplayer Combat
 
-In the Palm of Your Hand
+Play Black Ops Is Back With Improved Multiplayer Combat Video
 
-<img class="bg-img" class="url(/en\_us/media/content/pf32\_uniquedesign\_whitesilver\_171222-600x600\_M2ooX1o.jpg);" alt="Xperia XZ2 Compact">.
+Sony on YouTube - Black Ops Is Back With Improved Multiplayer Combat
 
-View Xperia XZ2 on Instagram
+Play Black Ops Is Back With Improved Multiplayer Combat Video hotspot
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/86e1c7f219438ae1d82e913db7b44c30/5BA0A16A/t51.2885-15/e35/31997228\_230369847697265\_7945297787992670208\_n.jpg);" alt="">. Close
+<img class="bg-img" class="url(/en\_us/media/content/41282409845\_ab972d694e\_k-600x600.jpg);" alt="Call of Duty Black Ops 4 multiplayer video">. Watch Country Singer Kane Brown
 
-*   Share Xperia Agent CONCEPT on Facebook
-*   Share Xperia Agent CONCEPT on Twitter
-*   Copy URL to share Xperia Agent CONCEPT
+Try Out the Xperia Ear Duo
 
-Xperia Agent CONCEPT
+Close
 
-<img class="bg-img" class="url(/en\_us/media/content/tumblr\_820360277736443479-600x600\_ebQ9KDA.jpg);" alt="Xperia Agent CONCEPT">. See It, Feel It, Hear It
+*   Share Watch Country Singer Kane Brown on Facebook
+*   Share Watch Country Singer Kane Brown on Twitter
+*   Copy URL to share Watch Country Singer Kane Brown
+
+Play Watch Country Singer Kane Brown Video
+
+Sony on YouTube - Watch Country Singer Kane Brown
+
+Play Watch Country Singer Kane Brown Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/KaneBrownXperia\_1-600x600.jpg);" alt="Kane Brown Xperia Ear Duo Video">.
+
+View A1E 4K HDR OLED TV on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/eaafb40d9af2976bc266aba1d894c953/5B88EB35/t51.2885-15/e35/32052753\_2089638897918701\_6350661299541639168\_n.jpg);" alt="">.
+
+View Xperia XZ Compact on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/ee011840b8f8ea2303e0dd49a2796b08/5B8EB0E2/t51.2885-15/e35/29087606\_274704943065494\_2713183127815061504\_n.jpg);" alt="">. Choose Your Level of
+
+Noise Cancellation
+
+Close
+
+*   Share Choose Your Level of on Facebook
+*   Share Choose Your Level of on Twitter
+*   Copy URL to share Choose Your Level of
+
+Noise Cancellation
+
+<img class="bg-img" class="url(/en\_us/media/content/h.ear\_on\_2\_wireless\_NC\_L\_cw\_600x600\_gM7RyPi.jpg);" alt="h.ear on 2 Wireless NC">. See It, Feel It, Hear It
 
 Meet The Xperia XZ2
 
@@ -221,29 +313,9 @@ Close
 *   Share See It, Feel It, Hear It on Twitter
 *   Copy URL to share See It, Feel It, Hear It
 
-Play See It, Feel It, Hear It Video
+Meet The Xperia XZ2
 
-Sony on YouTube - See It, Feel It, Hear It
-
-Play See It, Feel It, Hear It Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/img\_fut\_colorLineUp\_pf22\_7000\_1222-600x600.jpg);" alt="Xperia XZ2">. Country Singer Kane Brown Tries Out the Xperia Ear Duo
-
-Learn About the Dual Listening Experience
-
-Close
-
-*   Share Country Singer Kane Brown Tries Out the Xperia Ear Duo on Facebook
-*   Share Country Singer Kane Brown Tries Out the Xperia Ear Duo on Twitter
-*   Copy URL to share Country Singer Kane Brown Tries Out the Xperia Ear Duo
-
-Play Country Singer Kane Brown Tries Out the Xperia Ear Duo Video
-
-Sony on YouTube - Country Singer Kane Brown Tries Out the Xperia Ear Duo
-
-Play Country Singer Kane Brown Tries Out the Xperia Ear Duo Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/KaneBrownXperia\_1-600x600.jpg);" alt="Kane Brown Xperia Ear Duo Video">. Lara Croft Must Save the World From a Mayan Apocalypse
+<img class="bg-img" class="url(/en\_us/media/content/pf22\_packshot-600x600\_wVre816.jpg);" alt="Xperia XZ2 ">. Lara Croft Must Save the World From a Mayan Apocalypse
 
 In “Shadow of the Tomb Raider”
 
@@ -259,91 +331,7 @@ Sony on YouTube - Lara Croft Must Save the World From a Mayan Apocalypse
 
 Play Lara Croft Must Save the World From a Mayan Apocalypse Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/shadow-of-the-tomb-raider-screen-03-ps4-us-27apr18-600x600.jpg);" alt="Shadow of The Tomb Raider Video ">. John Cho Plays a Father Looking for His Missing Daughter
-
-In the Upcoming Thriller “Searching”
-
-Close
-
-*   Share John Cho Plays a Father Looking for His Missing Daughter on Facebook
-*   Share John Cho Plays a Father Looking for His Missing Daughter on Twitter
-*   Copy URL to share John Cho Plays a Father Looking for His Missing Daughter
-
-Play John Cho Plays a Father Looking for His Missing Daughter Video
-
-Sony on YouTube - John Cho Plays a Father Looking for His Missing Daughter
-
-Play John Cho Plays a Father Looking for His Missing Daughter Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/SRCH\_D12\_SET82\_John\_Cho\_PhotoCred\_Elizabeth\_Kitchens\_Clean\_clip\_7\_rv2-600x600.jpg);" alt="Searching Trailer">. We Put MGMT “On The Spot”
-
-See More Interviews
-
-Close
-
-*   Share We Put MGMT “On The Spot” on Facebook
-*   Share We Put MGMT “On The Spot” on Twitter
-*   Copy URL to share We Put MGMT “On The Spot”
-
-Play We Put MGMT “On The Spot” Video
-
-Sony on YouTube - We Put MGMT “On The Spot”
-
-Play We Put MGMT “On The Spot” Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/MGMT\_On\_the\_Spot\_Interview\_v8.00\_00\_57\_08.Still004-600x600.jpg);" alt="On the Spot: MGMT Video">. Close
-
-*   Share Audiophiles: Elevate Your Music Experience on Facebook
-*   Share Audiophiles: Elevate Your Music Experience on Twitter
-*   Copy URL to share Audiophiles: Elevate Your Music Experience
-
-With Hi-Res Audio
-
-<img class="bg-img" class="url(/en\_us/media/content/NW-WM1Z\_MDR-Z1R\_Insitu03\_jpg-600x600\_yDw80tJ.jpg);" alt="Hi-Res Audio">.
-
-View Z9D 4K HDR Android TV on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/75d9277da124a35f8ca58ac46eaa29b7/5B8F0850/t51.2885-15/e35/30085805\_461137960986340\_652904736311214080\_n.jpg);" alt="">. High-Quality Performance
-
-In a Compact Body
-
-Close
-
-*   Share High-Quality Performance on Facebook
-*   Share High-Quality Performance on Twitter
-*   Copy URL to share High-Quality Performance
-
-In a Compact Body
-
-<img class="bg-img" class="url(/en\_us/media/content/RX0-600x600v2\_Y5s0rnS.jpg);" alt="RX0">. Air Hockey and Augmented Reality Come Together
-
-At Sony Square NYC
-
-Close
-
-*   Share Air Hockey and Augmented Reality Come Together on Facebook
-*   Share Air Hockey and Augmented Reality Come Together on Twitter
-*   Copy URL to share Air Hockey and Augmented Reality Come Together
-
-At Sony Square NYC
-
-<img class="bg-img" class="url(/en\_us/media/content/action\_shot\_boomerang\_square\_zcfZjOf.gif);" alt="WOW Studio at SSNYC">. Kando Trip 2.0: A Creative Experience to Inspire Photographers
-
-Check Out Some of the Highlights
-
-Close
-
-*   Share Kando Trip 2.0: A Creative Experience to Inspire Photographers on Facebook
-*   Share Kando Trip 2.0: A Creative Experience to Inspire Photographers on Twitter
-*   Copy URL to share Kando Trip 2.0: A Creative Experience to Inspire Photographers
-
-Play Kando Trip 2.0: A Creative Experience to Inspire Photographers Video
-
-Sony on YouTube - Kando Trip 2.0: A Creative Experience to Inspire Photographers
-
-Play Kando Trip 2.0: A Creative Experience to Inspire Photographers Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/Kando-Trip-2-0-Day-1-Gregg-Jayden-copy2.f1cb27a519bdb5b6ed34049a5b86e317-600x600.jpg);" alt="Kando Trip 2.0">.
+<img class="bg-img" class="url(/en\_us/media/content/shadow-of-the-tomb-raider-screen-03-ps4-us-27apr18-600x600.jpg);" alt="Shadow of The Tomb Raider Video ">.
 
 Load More
 
