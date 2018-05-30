@@ -66,11 +66,11 @@ The personal information that we collect about you and how we use it
 
 Registration on our Website (i.e., signing up for a FANDOM account) is not required in order to access information on our Website. Registration is only required for the following purposes:
 
-1.  1.  to create a new FANDOM community.
-    2.  to make a contribution of content to certain FANDOM communities (i.e., those which do not allow for anonymous contributions).
-    3.  to hold a management or administrative position within a FANDOM community (such persons monitor the content on their applicable communities and, for example, can reject content submitted by others).
-    4.  to submit discussions (e.g., a comment on an article or video posted on a FANDOM community) or to submit content to a chat forum. or
-    5.  to view content on the FANDOM mobile application.
+1.  to create a new FANDOM community.
+2.  to make a contribution of content to certain FANDOM communities (i.e., those which do not allow for anonymous contributions).
+3.  to hold a management or administrative position within a FANDOM community (such persons monitor the content on their applicable communities and, for example, can reject content submitted by others).
+4.  to submit discussions (e.g., a comment on an article or video posted on a FANDOM community) or to submit content to a chat forum. or
+5.  to view content on the FANDOM mobile application.
 
 If you decide to register, we will require: your unique chosen username, a valid email address, password, and date of birth. You may optionally provide us with the following additional personal information: your first name, last name, your gender, and your interests and hobbies. We call all of this information "**Registration Data**".
 
@@ -205,4 +205,4 @@ Address: 360 Third Street, Suite 750, San Francisco, CA 94107 Email: support@fan
 
 In the EEA you may also make a complaint to our supervisory body for data protection matters (for example, the Information Commissioner's Office in the UK) or seek a remedy through local courts if you believe your rights have been breached.
 
-<link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/\_\_cb1527500816/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />Reset your tracking preferences
+<link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/\_\_cb1527604279/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />Reset your tracking preferences
