@@ -1,6 +1,34 @@
-Privacy Policy Information Collection and Use
+Privacy Policy
 
-This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves, such as their email address and other information. This information will never be shared or sold beyond what is described below. Users may remove themselves and their information from the website's database by contacting us. This website and the advertisers on this website conform to the Children's Online Privacy Protection Act.
+Toodledo takes your privacy seriously. This document explains what we collect, how we use it, and what you can do with your personal information on Toodledo.
+
+Information Collection
+
+This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. User's may choose to become a registered user, in which case they may choose to reveal information about themselves, such as their email address and other information that they enter while using the website. This site does not secretly collect any personally identifiable information. The information that we collect will never be shared or sold beyond what is described below.
+
+Information Use
+
+Your email address is used as a way for you to sign into the website. It is also used to communicate important information about your account. Profile information that you choose to give us (such as a profile picture or name) is used to personalize the website and provide a nicer experience.
+
+Through using the website, you may also choose to enter information such as tasks you want to do, notes you want to remember, habits you want to make, etc. Toodledo uses this information for the sole purpose of displaying it back to you when you request it. Toodledo does not read or analyze the contents of what you have entered in this way.
+
+If you choose to become a subscriber, we will need to collect some billing information from you. We send this information to our payment processor (Stripe or PayPal depending on your choice at checkout) so that we can bill you and provide you with the enhanced features that come with a subscription. Toodledo does not store billing information on our servers after passing it off to our payment processor.
+
+Your Rights to Your Data
+
+Users may sign into their account to access all of the personal information that they have entered into this website.
+
+Users may update their personal information at any time by using the website to do so.
+
+Right to be Forgotten
+
+Users may remove themselves and their information from the website's database at anytime by deleting their account through the settings section of our website. If you need assistance you can contact us.
+
+This website will automatically delete any personal information that we no longer need. For example, if you stop using this website for a period of 1 year or longer, we will delete your account and all of the information contained within it.
+
+Children
+
+This website conforms to the Children's Online Privacy Protection Act. We do not allow children under the age of 13 to use our website. If you are a parent and are aware that your child is using our website, please contact us immediately.
 
 Cookies
 
@@ -12,7 +40,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Log Files
 
-We use IP addresses and browser type to analyze trends and administer the site. We do not do reverse DNS lookups, so IP addresses are not linked to personally identifiable information.
+We use IP addresses and browser type to analyze trends and administer the site. We do not do reverse DNS lookups, so IP addresses are not linked to personally identifiable information. IP addresses stored in log files are automatically deleted after 90 days.
 
 Analytics
 
@@ -26,7 +54,7 @@ We may share aggregated information with our partners. This is not linked to any
 
 We will share personally identifiable information only when requested by a legal authority.
 
-There are many third-party applications that can sync with Toodledo. If you choose to link your account with a third-party application, all of your information can be downloaded, read, modified and deleted by this third-party application as if it was you. Toodledo is not responsible for the privacy policies or actions of any third-party application to which you have given access to your account.
+There are many third-party applications that can sync with Toodledo. If you choose to link your account with a third-party application, all of your information can be downloaded, read, modified and deleted by this third-party application as if it was you. Toodledo is not responsible for the privacy policies or actions of any third-party application to which you have given access to your account. When giving a third-party application access to your data, you should carefully read through the privacy policy of that third party application.
 
 Links
 
@@ -38,8 +66,18 @@ From time-to-time our site requests information from users via surveys. Particip
 
 Security
 
-This website takes precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. While we use best practices to protect your data, we cannot guarantee that your data is completely secure. We recommend that you do not store confidential information on our servers and that you make regular backups of your data using our backup tools. If you have any questions about the security at our website, you can contact us.
+This website uses encryption when sending or receiving information so that it is protect in transit. This website uses encryption to store some (but not all) of your data while it is at rest in our database.
+
+We limit access to your personal information both virtually and physically to only the necessary employees who need it in order to provide our service to you.
+
+This website takes precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and offline. While we use best practices to protect your data, we cannot guarantee that your data is completely secure. In spite of our best efforts, we cannot be held responsible for data breaches that happen via methods unknown to us. If a data breach does occur we will notify you and follow all laws with respect to notifying the authorities. We recommend that you do not store confidential information on our servers and that you make regular backups of your data using our backup tools. If you have any questions about the security at our website, you can contact us.
+
+This website is run by a company based in the USA and all of the data stored by this website is stored in the USA.
 
 Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on this page, and notify our users, so that our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will always use information in accordance with the privacy policy under which the information was collected.
+
+Contact Information
+
+You may contact us through our contact us page, or email our Data Protection Officer (DPO) directly at gdpr@toodledo.com
