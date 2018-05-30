@@ -55,9 +55,9 @@
     *   Integrations
     *   Join Us
 
-HAVE COMPELLING  
-CONVERSATIONS THAT  
-LAST A LIFETIME Watch Our Story
+THE PROMISE OF  
+1:1 DIGITAL MARKETING  
+BOLDLY DELIVERED Watch Our Story
 
 *   200M+ Real People You Can  
     Message Right Now
@@ -74,17 +74,17 @@ More data plus smarter decisioning make us THE INDUSTRY’S MOST POWERFUL DIGITA
 
 The Latest News
 
+*   Conversant Launches Mesobase  
+    Realize the promise of people-based marketing  
+    
 *   Attain One View of Consumers  
     5 questions for evaluating identity partners  
     
 *   Using AI in Digital Advertising  
     Learn how AI enables personalization  
     
-*   Conversant Launches GDPR Tool  
+*   Conversant Creates GDPR Tool  
     Gain consumer consent and compliance  
-    
-*   The Battle Against Ad Fraud  
-    Focus on performance when it comes to fraud  
     
 *   Our Approach to the GDPR  
     What the GDPR means for you
