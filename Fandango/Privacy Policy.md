@@ -1,4 +1,4 @@
-THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details Gift Cards | Offers | Sign In Sign Out
+Some functionality on this site requires your consent for cookies to work properly.I consent to cookiesI want more information THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details Gift Cards | Offers | Sign In Sign Out
 
 *   Fandango
 *   Go
@@ -72,8 +72,8 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   It's Official! Daniel Craig and Danny Boyle, Together Again for 'Bond 25' Read More
-    *   'Logan' Director James Mangold is Making a Boba Fett 'Star Wars Story' Read More
-    *   The Week in Movie News: Jake Gyllenhaal Is a Spider-Man Villain, the Boba Fett Movie Is Back On and More Read More
+    *   The Next 3 'Star Wars' Movies: Episode IX, Obi-Wan Kenobi, Boba Fett Read More
+    *   Jamie Foxx Officially Cast in 'Spawn' Reboot. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -318,9 +318,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Ocean's 8' Gift With Purchase
+*   'Action Point' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Ocean's 8' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Own up to five eligible 'JACKASS' movies to watch at home for just $2.99 each with ticket purchase. BUY TICKETS
     
 *   'Solo: A Star Wars Story' Gift With Purchase
     
@@ -330,9 +330,9 @@ Offers
     
     Choose 1 of 5 FREE\* exclusive posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'Action Point' Gift With Purchase
+*   'Ocean's 8' Gift With Purchase
     
-    Own up to five eligible 'JACKASS' movies to watch at home for just $2.99 each with ticket purchase. BUY TICKETS
+    Receive a FREE\* exclusive 'Ocean's 8' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 
 New + Coming soon
@@ -380,4 +380,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office. advertisementadvertisementadvertisement
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
