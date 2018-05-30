@@ -415,7 +415,6 @@ Connect with MLB
 
 *   Terms of Use
 *   Privacy Policy (Updated May 24, 2018)
-*   About Our Ads
 *   Legal Notices
 *   Contact Us
 *   Cookie Preferences
