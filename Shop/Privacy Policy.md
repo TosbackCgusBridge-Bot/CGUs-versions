@@ -1,5 +1,8 @@
 Lenovo Official US Site | Computers, Smartphones, Data Center Lenovo
 
+*   *   Sign In To LenovoPro
+    *   Register For LenovoPro
+    *   Learn More
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
@@ -349,6 +352,10 @@ Menu Close Menu Close
 *   Call 1-855-253-6686
 *   Email Sign-Up
 
+*   *   Sign In To LenovoPro
+    *   Register For LenovoPro
+    *   Learn More
+
 *   My Account
     *   Sign In
     *   My Account
@@ -369,7 +376,7 @@ Compare (0)
 
 Home >. Filter by specs Offers MEMORIAL DAY DOORBUSTERS
 
-New deals dropping throughout the day. Save up to 40% off. TODAY ONLY!
+Two more days to save up to 40%. Sale ends May 31 at 4am ET.
 
 Shop Doorbusters >.
 
@@ -384,19 +391,15 @@ Learn more >.
 
 TODAY'S SALES
 
-Save up to $500 through May 17.
+Save up to 40% off through June 6 at 4am ET.
 
-MEMORIAL DAY BUSINESS SALE – EARLY ACCESS
+MEMORIAL DAY BUSINESS SALE EXTENDED
 
-LenovoPro Store exclusive savings on our top selling business PCs. Sale ends at 4am ET, May 21.
+Sign up to LenovoPro and receive exclusive EXTENDED access. Sale ends June 6 at 4am ET.
 
-Price, Durability, Features, Looks
+Yoga 730 15"
 
-Best home laptops from Lenovo
-
-Star Wars Jedi Challenges
-
-Awaken your inner Jedi with a new smartphone-powered augmented reality experience. Now $50 off.
+Break out of the 90-degree mold and rock tech global-style.
 
 Laptops Deals
 
@@ -426,9 +429,9 @@ Virtual Reality &. Smart Devices
 
 Connect your world: Smart devices to enhance your life, at home and on the go.
 
-Outlet
+Tablets
 
-Find great deals on new and refurbished Lenovo products.
+Android and Windows tablets engineered for enhanced productivity and a rich multimedia experience.
 
 STAY CONNECTED
 
