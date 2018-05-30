@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Honoring heroes today and every day with our 10% Military Discount.
+The dress code to live by: fun in the sun. Shop Swim.
 
 *   Women
 *   Men
