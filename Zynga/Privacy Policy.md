@@ -518,3 +518,9 @@ Facebook Twitter YouTube Instagram
 *   Contact
 
 ©2018 Zynga Inc. All rights reserved.
+
+AdChoices
+
+About Cookies on this site:
+
+This site uses cookies to store information on your computer. Some are essential to make this site work. others help us improve your experience. By using this site, you consent to the placement of these cookies. More information about how Zynga uses cookies is available in our Privacy Policy.
