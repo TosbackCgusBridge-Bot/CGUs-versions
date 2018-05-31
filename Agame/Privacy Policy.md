@@ -233,7 +233,7 @@ View more results
     Recommended Games
     
     *   World of Warships
-    *   Star Stable
+    *   Hunter X Hunter
     *   World of Tanks
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
