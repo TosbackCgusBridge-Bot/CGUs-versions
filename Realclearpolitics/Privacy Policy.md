@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Z. Byron Wolf_: Trump Winning His Effort to Demonize Mueller
+*   _Fred Kaplan_: The North Korea Summit Might Actually Work--Despite Trump
     
-*   _Jonathan Turley_: Choose the Truth, Not Sides, in Trump-Mueller Drama
+*   _Benny Avni_: When It Comes to North Korea, We Need More Trump Chaos
     
-*   _Richard Wolffe_: Ivanka Trump Embodies Her Father's Family Values
+*   _Suebsaeng &. Stein_: Trump's Plan: Blame Obama for Everything
     
-*   _David Harsanyi_: Obama: 'I Didn't Have Scandals.' So What Are All These?
+*   _Andrew McCarthy_: The Obama Administration's Hypocritical Pretext for Spying
     
-*   _Katha Pollitt_: It's 'Feminist Christmas' in Ireland
+*   _Dahlia Lithwick_: Collusion Is What I Say It Is
     
-*   _Christine Flowers_: We Won't Back Down From Fight to End Abortion
+*   _Katie Pavlich_: MS-13 and the Democrats' Defense of Evil
     
-*   _Joe Nocera_: America Is Divided. Starbucks Really Wants to Help.
+*   _Catherine Rampell_: Republican Inhumanity at Border Reveals Scam
     
-*   _Alveda King_: A Real Step Starbucks Can Take to End Racism
+*   _Margot Cleveland_: Clearing Up That Immigrant Children Story
     
-*   _Paul Waldman_: How Democrats Should Tackle Trump in the Midterms
+*   _Eric Schlosser_: The Growing Dangers of the New Nuclear-Arms Race
     
-*   _Michael Graham_: Don't Count Trump Out Yet for 2020
+*   _Ben Shapiro_: The Suicide of Europe
     
-*   _Simon van Zuylen-Wood_: How Neil Gorsuch Became Little Scalia
+*   _Igor Delanoe_: Putin, Macron Explore What They Have to Offer Each Other
     
-*   _Tomi Lahren_: Free Speech Doesn't Give You the Right to Attack Someone
+*   _Stephen Moore_: The Mojo of Trumponomics Is a Problem for Dems
     
-*   _Walter Russell Mead_: The Benefits and Risks of Trump's Dazzle
+*   _Thomas Friedman_: Sounding Code Red: Electing the Trump Resistance
     
-*   _James Fallows_: America Fumbling Its Most Important Relationship
+*   _David Ignatius_: Will Trump's Zig-Zag Course to a Summit Actually Work?
     
-*   _Robert Ehrlich_: 'Kick Me' No More
+*   _Holman Jenkins_: Clapper Disinformation Campaign
     
-*   _Jeet Heer_: Trump Won't Hesitate to Tear It All Down
+*   _Nelson Cunningham_: Bob Mueller's White Hot Summer
     
-*   _George Neumayr_: 3 Stooges of Spygate: Brennan, Comey &. Clapper
+*   _Lee Smith_: The Maltese Phantom of the Trump-Russia Probe
     
-*   _Richard Cohen_: Newsflash, Democrats: 2020 Is All About Trump
+*   _Roxane Gay_: 'Roseanne' Is Gone, But the Culture That Gave Her a Show Isn't
     
-*   _Gary Abernathy_: The Trump Coalition Is the Future of the GOP
+*   _Johnny Oleksinski_: Hollywood Will Use 'Roseanne' as Excuse for Insularity
     
-*   _Will Bunch_: 1,475 Lost Kids a Human Stain on America's Morality
+*   _Caitlin Huey-Burns_: Trump Visit Spotlights Competitive Tennessee Senate Race
     
-*   _Rich Lowry_: The Truth About Separating Kids
+*   _Rivka Galchen_: The Teachers' Strike and the Dem Revival in Oklahoma
     
-*   _Hirschfeld Davis &. Haberman_: Trump Uses Conspiracy Theories to Erode Trust
+*   _David Freddoso_: Scott's Parade of Early Ads Is Shaping FL's Senate Race
     
-*   _Mollie Hemingway_: New York Times Busted for Peddling Fake News
+*   _Steve Hantler_: Trump-Bashing Will Sink GOP Establishment's Adam Putnam
     
-*   _Gov. John Kasich_: Force Congress to Act on DACA Dreamers
+*   _McKay Coppins_: Stephen Miller: Trump's Right-Hand Troll
     
 
 *   Previous
@@ -228,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Visit Spotlights Competitive Tennessee Senate Race
+*   Embattled Missouri Gov. Eric Greitens Resigns
+*   Hemingway vs. Tumulty on Media Coverage of "Spygate" Revelations
 *   Senior North Korean Official Heads to NY to Plan for Trump Summit
-*   Battling Alcoholism, Rep. Garrett Drops Re-Election Bid in VA
-*   Giuliani: When Spying Began, Trump Should Have Been Briefed
 *   How the Battle for the House Is Shaping Up
-*   Pollster to Dem Candidates: Focus on Mueller Indictments
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,35 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   South Dakota Governor - Republican PrimaryMason-Dixon
-    *   Noem45
-    *   Jackley44Noem +1
+*   Texas Senate - Cruz vs. O'RourkeQuinnipiac
+    *   Cruz50
+    *   O'Rourke39Cruz +11
+*   Texas Governor - Abbott vs. ValdezQuinnipiac
+    *   Abbott53
+    *   Valdez34Abbott +19
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
-*   California Senate - Open PrimaryEmerson
-    *   Feinstein38
-    *   de Leon6
-    *   Harris6
-    *   Hartson4
-    *   Fuente4
-    *   Bradley
-    *   LittleFeinstein +32
-*   California Governor - Open PrimaryEmerson
-    *   Newsom24
-    *   Cox16
-    *   Villaraigosa12
-    *   Allen11
-    *   Chiang10
-    *   Eastin4Newsom +8
+    *   Approve47
+    *   Disapprove52Disapprove +5
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve45
+    *   Disapprove51Disapprove +6
 
 More Latest Polls In The News
 
+*   Dershowitz On Liberals Blacklisting Him: This Is All Their Fault. "I Have Not Changed, They Have"
+*   CNN's Acosta: Trump Owes The American People "Plenty of Apologies" For The Things He Has Said
 *   NYT's Maggie Haberman: President Trump Is "Putting A Stamp Of Legitimacy" On Conspiracy Theories
 *   Trump: Hillary Couldn't Get Crowds Without Jay-Z. But His "Filthy" Language Made Me Look "Clean-Cut"
-*   Napolitano on 'Spygate': "I'd Want To See Evidence Before I Made An Allegation That Outrageous"
 *   Tumulty vs. Hemingway: After Breaking Story Of Spy In Trump Campaign, Wash Post Said There Was No Spy
-*   Sean Trende: "Blue Wave" Could Be Turning Into "Dead Heat" In November
 
 *   Politics
 *   Policy
