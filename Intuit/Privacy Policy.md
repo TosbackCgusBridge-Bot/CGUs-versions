@@ -17,18 +17,18 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 1 OF COUPON CODE 16TOSHOP ENDS IN
+Near YouFind a StoreBack DAY 2 OF COUPON CODE 16TOSHOP ENDS IN
 
 \*offer ends 6/6/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 4 3 0 9 secs MEN'S POLOS UNDER $10Shop AllMEN'S POLOS UNDER $10Shop All
+Days 0 0 0 0 hours 4 4 0 0 mins 5 5 3 2 secs MEN'S POLOS UNDER $10Shop AllMEN'S POLOS UNDER $10Shop All
 
 *   $9.99 sale
     
-    was $26 St. John's Bay Short Sleeve Solid Performance Pique Polo Shirt(489)Add To Cart
+    was $26 St. John's Bay Short Sleeve Solid Performance Pique Polo Shirt(491)Add To Cart
 *   $9.99 sale
     
-    was $26 St. John's Bay® Short-Sleeve Striped Jersey Polo(39)Add To Cart
+    was $26 St. John's Bay® Short-Sleeve Striped Jersey Polo(41)Add To Cart
 *   $9.99 sale
     
     was $26 St. John's Bay Legacy Piqué Polo Shirt(560)Add To Cart
@@ -37,16 +37,16 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 3 0 9 secs MEN'S POLOS UNDER $10Shop AllMEN'S 
     was $22 Arizona Short-Sleeve Flex Polo(91)Add To Cart
 *   $9.99 sale
     
-    was $22 Arizona Short Sleeve Knit Polo Shirt(17)Add To Cart
-*   $9.99 sale
-    
     was $26 St. John's Bay Short Sleeve Slim Fit Easy Care Quick Dry Pique Polo Shirt(2)Add To Cart
 *   $9.99 sale
     
     was $30 St. John\`s Bay Short Sleeve Stripe Performance Pique Polo Shirt(9)Add To Cart
 *   $9.99 sale
     
-    was $30 St. John's Bay Short Sleeve Stripe Pique Polo Shirt(4)Add To Cart
+    was $22 Arizona Short Sleeve Knit Polo Shirt(17)Add To Cart
+*   $9.99 sale
+    
+    was $30 St. John's Bay Short Sleeve Stripe Pique Polo Shirt(5)Add To Cart
 
 UP TO 40% OFF SELECT LIZ CLAIBORNEShop AllUP TO 40% OFF SELECT LIZ CLAIBORNEShop All
 
@@ -62,18 +62,18 @@ UP TO 40% OFF SELECT LIZ CLAIBORNEShop AllUP TO 40% OFF SELECT LIZ CLAIBORNEShop
 *   $16.20 sale
     
     was $27 Liz Claiborne Knit Tank TopAdd To Cart
-*   $22.20 sale
-    
-    was $37 Liz Claiborne 3/4 Sleeve Pattern Peasant TopAdd To Cart
 *   $39.99 sale
     
     was $60 Liz Claiborne Cap Sleeve Pattern Shift DressAdd To Cart
+*   $22.20 sale
+    
+    was $37 Liz Claiborne 3/4 Sleeve Pattern Peasant TopAdd To Cart
 *   $24.99 sale
     
     was $44 Liz Claiborne Short Sleeve Round Neck T-Shirt-Womens PetitesAdd To Cart
-*   $49.99 sale
+*   $24.99 - $26.40 sale
     
-    was $74 Liz Claiborne Sleeveless Floral Sheath DressAdd To Cart
+    was $44 Liz Claiborne Wide Leg Knit PantsAdd To Cart
 
 GREAT GIFTS FOR DADShop AllGREAT GIFTS FOR DADShop All
 
@@ -98,9 +98,9 @@ GREAT GIFTS FOR DADShop AllGREAT GIFTS FOR DADShop All
 *   $79.99 sale
     
     was $139 iLive ISB657B Portable Bluetooth Wireless Tailgate Speaker(1)Add To Cart
-*   $8,999.98
+*   $129 sale
     
-    14K Gold 20 Inch Chain NecklaceAdd To Cart
+    was $645 Akribos XXIV Mens Black Strap Watch-A-865bkAdd To Cart
 
 UP TO 60% OFF SELECT OUTDOOR OASIS PATIO &. ACCESSORIESShop AllUP TO 60% OFF SELECT OUTDOOR OASIS PATIO &. ACCESSORIESShop All
 
@@ -121,10 +121,10 @@ UP TO 60% OFF SELECT OUTDOOR OASIS PATIO &. ACCESSORIESShop AllUP TO 60% OFF SEL
     was $300 Outdoor Oasis Melbourne Sling Patio Glider(1)Add To Cart
 *   $99.99 sale
     
-    was $200 Outdoor Oasis Winston 3-pc. Bistro SetAdd To Cart
+    was $200 Outdoor Oasis Winston 3-pc. Bistro Set(1)Add To Cart
 *   $549.99 sale
     
-    was $1,100 Outdoor Oasis San Luis 4-pc. Conversation Set with Swivel Chairs(4)Add To Cart
+    was $1,100 Outdoor Oasis San Luis 4-pc. Conversation Set with Swivel Chairs(5)Add To Cart
 *   $199.99 sale
     
     was $400 Outdoor Oasis San Luis Patio Lounge ChairAdd To Cart
