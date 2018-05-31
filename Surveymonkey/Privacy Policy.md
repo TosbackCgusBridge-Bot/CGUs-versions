@@ -89,8 +89,6 @@ Privacy Policy Versions: April 11, 2018 (current)September 12, 2016April 7, 2016
 
 LAST UPDATED: APRIL 11TH, 2018
 
-This Privacy Policy is effective upon acceptance for new users, and from May 15, 2018 for existing users.
-
 Highlighted text represents any recent changes to our privacy policy.
 
 1\. Introduction
@@ -344,15 +342,6 @@ Use of some of our services will also result in us collecting the following data
     
     *   Device and browser data.
         
-        We use device data to, for example, troubleshoot issues to make improvements with our services and to infer your geographic location based on your IP address.
-        
-    
-    Examples
-    
-    We collect this to ensure that service experience works well across all possible devices and to infer geographic location to produce aggregated data around Respondent location trends. We also want to use this information to provide an additional data layer to Creators so that they can filter responses by e.g. inferred geographic location. Note however, that we do not collect precise GPS co-ordinate location. We just infer location from IP address.
-    
-    *   Device and browser data.
-        
         We use device data both to troubleshoot problems with our service and to make improvements to it. We also infer your geographic location based on your IP address.
         
     
@@ -599,7 +588,7 @@ SurveyMonkey also complies with the Privacy Shield Principles for all onward tra
 
 When SurveyMonkey receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as agent on SurveyMonkey’s behalf, SurveyMonkey has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) SurveyMonkey is responsible for the event giving rise to the damage. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, SurveyMonkey is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, SurveyMonkey may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Please contact SurveyMonkey as described in the as described in Section 14 section below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at https://feedback-form.truste.com/watchdog/request.
+Please contact SurveyMonkey as described in Section 14 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
