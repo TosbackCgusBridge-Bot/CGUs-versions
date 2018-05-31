@@ -447,7 +447,6 @@ Menu
         *   Neil Barnes
     *   Digital Platform professionals
     *   Internships and co-ops
-    *   Undergraduates
     *   MBA and Graduate Students
         *   Back
         *   MBA and Graduate Students
@@ -457,6 +456,7 @@ Menu
         *   Esprit procurement program
         *   Residencies and Fellowships
         *   Postdoctoral R&D
+    *   Undergraduates
     *   Apprenticeships
         *   Back
         *   Apprenticeships
@@ -467,11 +467,11 @@ Menu
         *   Parents and teachers
         *   Application tips and process
     *   High school students
-    *   Employee rights under federal law
     *   Veterans' leaders program
         *   Back
         *   Veterans' leaders program
         *   Case studies
+    *   Employee rights under federal law
     
     *   Search jobs and apply
         
