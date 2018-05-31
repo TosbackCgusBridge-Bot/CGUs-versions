@@ -129,7 +129,7 @@ Play With So Many Different Choices, Video hotspot
 
 Mega Man 11 launches October 2 on PS4! Get a first look at the Blue Bomber's new game-changing Double Gear system
 
-37 minutes ago
+1 day ago
 
 View Tweet
 
@@ -171,7 +171,7 @@ Close
 
 Learn More
 
-<img class="bg-img" class="url(/en\_us/media/content/0003\_Me-Ra-Koh\_AlphaUniverse\_1-60-sec-at-f---10-ISO-50ILCE-7RM2FE-24-70mm-F2.8-600x600\_bLHES);" alt="How To Plan For Summer Travel Photography">. Upgrade Your Summer Road Trip
+<img class="bg-img" class="url(/en\_us/media/content/0003\_Me-Ra-Koh\_AlphaUniverse\_1-60-sec-at-f---10-ISO-50ILCE-7RM2FE-24-70mm-F2.8-600x600.jpg);" alt="How To Plan For Summer Travel Photography">. Upgrade Your Summer Road Trip
 
 With the Latest In-Car Audio
 
