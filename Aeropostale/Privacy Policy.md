@@ -31,7 +31,6 @@ Close submenu ( Girls ) Girls
 *   Live Love Dream
 *   Bras
 *   Undies
-*   Clearance
 
 Close submenu ( Featured ) Featured
 
@@ -90,7 +89,6 @@ Close submenu ( Guys ) Guys
 
 *   Underwear
 *   Slides + Flip Flops
-*   Clearance
 *   Clearance
 *   Big + Tall
 *   Trending
