@@ -23,7 +23,7 @@ The dress code to live by: fun in the sun. Shop Swim.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -240,7 +240,7 @@ The dress code to live by: fun in the sun. Shop Swim.
     *   *   Featured Trends
         
         *   New Arrivals
-        *   Spring Checklist
+        *   Summer Checklist
         *   Top Rated
         *   Best Sellers
         *   Back in Stock
@@ -306,6 +306,7 @@ The dress code to live by: fun in the sun. Shop Swim.
         *   Select Sale BOGO 50% Off
         *   Quinn &. Copper - Buy More, Save More
         *   Men's Barbershop Sale
+        *   Select Women's Sale Jeans BOGO 50% Off
         
         *   Women's Sale
         
