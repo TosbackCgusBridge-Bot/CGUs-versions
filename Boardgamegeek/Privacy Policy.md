@@ -51,6 +51,7 @@ Table of Contents
 *   _Our analytics_
 *   _Our help desk_
 *   _Our spam filter_
+*   _Our backup provider_
 *   _When we need to for legal or security reasons_
 *   _To a new owner of our company_
 *   _With your permission_
@@ -100,7 +101,7 @@ We collect information from you in three ways:
 2.  we get it automatically as you use our websites. or
 3.  you give it to another user through our websites.
 
-We only collect as much information about you as is reasonably necessary for us to provide you our services. The table below is a basic summary of what happens to your information.
+We only collect as much information about you as is reasonably necessary for us to provide you our services. The table below is a basic summary of what happens to your information. For a more complete list of what we collect, see our user data summary table.
 
 What information do we collect?  
 When do we collect it?  
@@ -307,6 +308,10 @@ We use Zendesk as a third party customer support system. When you contact us thr
 _Our spam filter_
 
 We use Automattic for spam filtering. We provide contents of public posts along with your IP address to Automattic for automated spam filtering. See Automattic's privacy policy, https://automattic.com/privacy-notice/ for how they handle your personal information.
+
+_Our backup provider_
+
+Our backups are stored encrypted by Arcserve. Only we can decrypt the data.
 
 _When we need to for legal or security reasons_
 
