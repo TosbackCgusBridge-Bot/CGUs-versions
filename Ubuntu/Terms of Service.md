@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   OpenStack Summit Vancouver: Automating the data centre ›
+*   Emerging Trends in Financial Services: IoT, AI, and Blockchain ›
 *   Ubuntu Server development summary – 29 May 2018 ›
 *   Decreasing the complexity of IoT adoption with Edge as a Service model ›
 *   Canonical Managed Cloud adds data protection and recovery with Trilio ›
-*   Ubuntu Server development summary – 22 May 2018 ›
-*   Offline Computing – 10 Apps for the Digital Nomad ›
