@@ -376,7 +376,7 @@ Compare (0)
 
 Home >. Filter by specs Offers MEMORIAL DAY DOORBUSTERS
 
-Two more days to save up to 40%. Sale ends May 31 at 4am ET.
+One more day to save up to 40%. Sale ends May 31 at 4am ET.
 
 Shop Doorbusters >.
 
@@ -396,6 +396,10 @@ Save up to 40% off through June 6 at 4am ET.
 MEMORIAL DAY BUSINESS SALE EXTENDED
 
 Sign up to LenovoPro and receive exclusive EXTENDED access. Sale ends June 6 at 4am ET.
+
+Convertible Flash Sale
+
+Save up to $350 off top of the line convertible laptops and accessories. Sale ends June 4 at 4am ET.
 
 Yoga 730 15"
 
