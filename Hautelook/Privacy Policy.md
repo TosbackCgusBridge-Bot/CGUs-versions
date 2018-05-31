@@ -8,20 +8,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   HUDSON Up to 50% Off
-    *   HUDSON Men Up to 50% Off
-    *   HUDSON Kids Up to 50% Off
-    *   Few Moda
-    *   Summer Must-Haves: Straw Bags &. More
-    *   Free Shipping: Chic Beach Tents &. Towels
+    *   Cole Haan Up to 50% Off
+    *   Cole Haan Men Up to 50% Off
+    *   Cole Haan Handbags &. Accessories Up to 50% Off
+    *   Cole Haan Coats Up to 70% Off
+    *   Cole Haan Men's Accessories Up to 70% Off
+    *   tarte cosmetics
+    *   Young Fabulous &. Broke
+    *   Meghan LA
+    *   Gemstones, Layering Necklaces &. More from $20
+    *   Shahida Parides
+    *   On-Trend Summer Shoes from $40
+    *   Fresh Summer Looks Starting at $15
+    *   HAH | Hot-As-Hell Cover-Ups &. More
+    *   Short Sleeve Shirts Up to 65% Off
+    *   TOV
+    *   Dresses We Love ft. Sharagano
+    *   Cape Robbin Under $40
+    *   Grayse Up to 80% Off
+    *   Pistola
+    *   Tailored Excellence: Suits Under $200
+    *   MUK LUKS Men Starting at $15
+    *   Free Shipping: Budget-Friendly Rugs
+    *   Ultra-Soft Towels Up to 65% Off
+    *   Tailor Vintage Boys &. More
+    *   Classics &. New Faves from HarperCollins
+    *   Kids' Sneakers Starting at $15
+    *   Summer Camp Ready: Kids' Pajamas
     *   Plants with Personality: Faux Succulents &. More
+    *   Free Shipping: Chic Beach Tents &. Towels
     *   SmoothBag Inflatable Furniture
     *   Great Gifts: Jack Spade, Braven &. More
     *   The Beat Goes On: Record Players &. More
+    *   HUDSON Up to 50% Off
+    
+    *   HUDSON Men Up to 50% Off
+    *   HUDSON Kids Up to 50% Off
+    *   Few Moda
     *   Designer Sun Up to 75% Off
     *   Charles David Up to 70% Off
     *   La Moda Swim
     *   Korks Starting at $40
+    *   Summer Must-Haves: Straw Bags &. More
     *   Flying Tomato &. More Under $35
     *   Sneaker Season: Fresh Kicks Starting at $25
     *   PMD Personal Microderm Up to 50% Off
@@ -29,7 +57,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Peony &. Me Active
     *   Botkier
     *   Manna Kadar Cosmetics Up to 75% Off
-    *   Free Shipping: NMK Bedding Blowout
     *   Great Gifts for Dad: Daniel Buchler
     *   Men's Designer Essentials
     *   Men's Sandals &. Slip-Ons ft. Tommy Bahama
@@ -37,19 +64,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Beach Bound: Kids' Sandals Up to 55% Off
     *   Make Waves: Kids' Surf Styles
     *   Burberry Watches Up to 50% Off
-    *   Work Dresses ft. Tahari Up to 65% Off
-    *   Camper Up to 60% Off
-    *   Summer Swim Faves Under $25
-    
-    *   Vintage-Inspired Tees &. More from $20
     *   Free Shipping: Sterling Forever Jewelry from $15
-    *   Tops &. Shorts for Summer Under $25
-    *   Luma Italy Up to 75% Off
-    *   Tahari Sleep Up to 50% Off
-    *   Halston Heritage Up to 60% Off
-    *   Kensie Under $60
-    *   LAmade Up to 70% Off
-    *   Laronna Printed Sneakers Under $40
     *   Truly Clear Light Therapy Up to 80% Off
     *   Skinn Cosmetics Up to 75% Off
     *   TR Premium Up to 85% Off
@@ -60,60 +75,64 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Camper Men Up to 65% Off
     *   Free Shipping: Hand-Painted Replicas Up to 70% Off
     *   Free Shipping: Luxe Rug Steals
+    
     *   Free Shipping: Colorful Kitchen Essentials
     *   Joe-Ella Dresses Up to 70% Off
     *   Girls' Dress Shoes Starting at $20
     *   Mileez Jewelry Under $15
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Ready for Sun: Summer Shoes Up to 65% Off
-    *   Jewelry Steals Up to 85% Off
-    *   Insight Up to 80% Off
     *   Luxe Skin Care Up to 95% Off
     *   Men's Shoes Up to 65% Off
     *   Free Shipping: Kitchen Finds Up to 65% Off
     *   Blend Mineral Cosmetics Up to 85% Off
-    *   CZ by Kenneth Jay Lane Up to 75% Off
-    
     *   Royale USA Hair Tools Up to 90% Off
-    *   On-Trend Jewelry Starting at $15
     *   Red Wing Up to 50% Off
     *   Heat Up: Polos Up to 65% Off
     *   Persaman New York Up to 70% Off
     *   Work Evolution: Sport Coats &. More Under $150
     *   Organization Essentials Starting at $10
     *   Free Shipping: Unique Indoor/Outdoor Rugs &. More
-    *   Electric Yoga Maternity Up to 65% Off
-    *   Glamourmom Nursing Tops &. More Up to 65% Off
-    *   ED Ellen DeGeneres Baby Starting at $10
     *   Laura Geller New York from $10
     *   Free Shipping: Breezy Hammocks from $15
     *   Free Shipping: Bedding Essentials Starting at $12
-    *   Summer Checklist: Shorts &. Swim Under $30
-    *   Men's Summer Shoes ft. Soludos from $20
-    *   Bravado Concert Tees Under $20
-    *   Soul Star Under $40
-    *   Rosso Milano Up to 85% Off
-    *   PYT Hot Tools Up to 90% Off
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
-    *   Face Masks We Love Up to 90% Off
     *   Free Shipping: Lighting We Love from $25
     *   For the Beach House: Coastal Decor from $25
     *   Free Shipping: Bold Pillows, Art &. More from $17
     *   Color Pop Wall Murals &. More
     *   Free Shipping: Cozy Plaid Pet Beds &. More
-    *   Colorful Cutlery, Cookware &. More from $10
-    *   Badgley Mischka Up to 60% Off
-    *   Free Shipping: Bed Pillows, Toppers &. More from $17
     *   ilike Organic Skin Care
+    *   Free Shipping: NMK Bedding Blowout
+    *   Summer Swim Faves Under $25
+    *   Work Dresses ft. Tahari Up to 65% Off
+    *   Camper Up to 60% Off
+    *   Luma Italy Up to 75% Off
+    *   Romeo &. Juliet Couture Up to 75% Off
 *   WomenShop Sale Events
     
+    *   Cole Haan Up to 50% Off
+    *   Cole Haan Handbags &. Accessories Up to 50% Off
+    *   Cole Haan Coats Up to 70% Off
+    *   tarte cosmetics
+    *   Young Fabulous &. Broke
+    *   Meghan LA
+    *   Gemstones, Layering Necklaces &. More from $20
+    *   Shahida Parides
+    *   On-Trend Summer Shoes from $40
+    *   Fresh Summer Looks Starting at $15
+    *   HAH | Hot-As-Hell Cover-Ups &. More
+    *   TOV
+    *   Dresses We Love ft. Sharagano
+    *   Cape Robbin Under $40
+    *   Grayse Up to 80% Off
+    *   Pistola
     *   HUDSON Up to 50% Off
     *   Few Moda
-    *   Summer Must-Haves: Straw Bags &. More
     *   Designer Sun Up to 75% Off
     *   Charles David Up to 70% Off
     *   La Moda Swim
     *   Korks Starting at $40
+    *   Summer Must-Haves: Straw Bags &. More
+    
     *   Flying Tomato &. More Under $35
     *   Sneaker Season: Fresh Kicks Starting at $25
     *   PMD Personal Microderm Up to 50% Off
@@ -123,49 +142,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Manna Kadar Cosmetics Up to 75% Off
     *   Lacoste Watches &. More Up to 50% Off
     *   Burberry Watches Up to 50% Off
-    *   Work Dresses ft. Tahari Up to 65% Off
-    *   Camper Up to 60% Off
-    *   Summer Swim Faves Under $25
-    *   Vintage-Inspired Tees &. More from $20
     *   Free Shipping: Sterling Forever Jewelry from $15
-    *   Tops &. Shorts for Summer Under $25
-    *   Luma Italy Up to 75% Off
-    
-    *   Tahari Sleep Up to 50% Off
-    *   Halston Heritage Up to 60% Off
-    *   Kensie Under $60
-    *   LAmade Up to 70% Off
-    *   Laronna Printed Sneakers Under $40
     *   Truly Clear Light Therapy Up to 80% Off
     *   Skinn Cosmetics Up to 75% Off
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Ready for Sun: Summer Shoes Up to 65% Off
-    *   Jewelry Steals Up to 85% Off
-    *   Insight Up to 80% Off
     *   Luxe Skin Care Up to 95% Off
     *   Blend Mineral Cosmetics Up to 85% Off
-    *   CZ by Kenneth Jay Lane Up to 75% Off
     *   Royale USA Hair Tools Up to 90% Off
-    *   On-Trend Jewelry Starting at $15
-    *   Electric Yoga Maternity Up to 65% Off
-    *   Glamourmom Nursing Tops &. More Up to 65% Off
     *   Laura Geller New York from $10
-    *   PYT Hot Tools Up to 90% Off
-    *   Face Masks We Love Up to 90% Off
-    *   Badgley Mischka Up to 60% Off
     *   ilike Organic Skin Care
+    *   Summer Swim Faves Under $25
+    *   Work Dresses ft. Tahari Up to 65% Off
+    *   Camper Up to 60% Off
+    *   Luma Italy Up to 75% Off
+    *   Romeo &. Juliet Couture Up to 75% Off
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
+    *   Jewelry
+    *   Handbags
     *   Accessories
     *   Tech Accessories
-    *   Handbags
-    *   Lingerie
     *   Watches
+    *   Lingerie
 *   MenShop Sale Events
     
+    *   Cole Haan Men Up to 50% Off
+    *   Cole Haan Men's Accessories Up to 70% Off
+    *   Short Sleeve Shirts Up to 65% Off
+    *   Tailored Excellence: Suits Under $200
+    *   MUK LUKS Men Starting at $15
     *   HUDSON Men Up to 50% Off
     *   Designer Sun Up to 75% Off
     *   Great Gifts for Dad: Daniel Buchler
@@ -173,23 +179,18 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Men's Sandals &. Slip-Ons ft. Tommy Bahama
     *   Lacoste Watches &. More Up to 50% Off
     *   Burberry Watches Up to 50% Off
+    
     *   TR Premium Up to 85% Off
     *   Native Men Starting at $20
     *   X-Ray Under $35
     *   Dress Shirts Under $30 ft. Nick Graham
     *   Men's Activewear Under $30
-    
     *   Camper Men Up to 65% Off
     *   Men's Shoes Up to 65% Off
     *   Red Wing Up to 50% Off
     *   Heat Up: Polos Up to 65% Off
     *   Persaman New York Up to 70% Off
     *   Work Evolution: Sport Coats &. More Under $150
-    *   Summer Checklist: Shorts &. Swim Under $30
-    *   Men's Summer Shoes ft. Soludos from $20
-    *   Bravado Concert Tees Under $20
-    *   Soul Star Under $40
-    *   Rosso Milano Up to 85% Off
     
     Shop By Category
     *   Clothing
@@ -198,39 +199,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Tailor Vintage Boys &. More
+    *   Classics &. New Faves from HarperCollins
+    *   Kids' Sneakers Starting at $15
+    *   Summer Camp Ready: Kids' Pajamas
     *   HUDSON Kids Up to 50% Off
     *   Beach Bound: Kids' Sandals Up to 55% Off
     *   Make Waves: Kids' Surf Styles
     *   Joe-Ella Dresses Up to 70% Off
     *   Girls' Dress Shoes Starting at $20
     *   Mileez Jewelry Under $15
-    *   Electric Yoga Maternity Up to 65% Off
-    *   Glamourmom Nursing Tops &. More Up to 65% Off
-    *   ED Ellen DeGeneres Baby Starting at $10
     
     Shop By Category
+    *   Toys
     *   Girls Sizes 2T-6X
-    *   Baby Girl
-    *   Baby Boy
     *   Boys Sizes 8-20
     *   Girls' Shoes
     *   Girls Sizes 7-16
     *   Boys Sizes 2T-7
     *   Boys' Shoes
+    *   Baby Girl
+    *   Baby Boy
 *   HomeShop Sale Events
     
-    *   Free Shipping: Chic Beach Tents &. Towels
+    *   Free Shipping: Budget-Friendly Rugs
+    *   Ultra-Soft Towels Up to 65% Off
     *   Plants with Personality: Faux Succulents &. More
+    *   Free Shipping: Chic Beach Tents &. Towels
     *   SmoothBag Inflatable Furniture
     *   Great Gifts: Jack Spade, Braven &. More
     *   The Beat Goes On: Record Players &. More
-    *   Free Shipping: NMK Bedding Blowout
     *   Free Shipping: Hand-Painted Replicas Up to 70% Off
     *   Free Shipping: Luxe Rug Steals
     *   Free Shipping: Colorful Kitchen Essentials
     *   Free Shipping: Kitchen Finds Up to 65% Off
-    *   Organization Essentials Starting at $10
     
+    *   Organization Essentials Starting at $10
     *   Free Shipping: Unique Indoor/Outdoor Rugs &. More
     *   Free Shipping: Breezy Hammocks from $15
     *   Free Shipping: Bedding Essentials Starting at $12
@@ -240,30 +244,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Bold Pillows, Art &. More from $17
     *   Color Pop Wall Murals &. More
     *   Free Shipping: Cozy Plaid Pet Beds &. More
-    *   Colorful Cutlery, Cookware &. More from $10
-    *   Free Shipping: Bed Pillows, Toppers &. More from $17
+    *   Free Shipping: NMK Bedding Blowout
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
+    *   Bath
     *   Outdoor Living
     *   Organization
-    *   Bath
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   tarte cosmetics
     *   PMD Personal Microderm Up to 50% Off
     *   Manna Kadar Cosmetics Up to 75% Off
     *   Truly Clear Light Therapy Up to 80% Off
     *   Skinn Cosmetics Up to 75% Off
     *   Luxe Skin Care Up to 95% Off
     *   Blend Mineral Cosmetics Up to 85% Off
-    
     *   Royale USA Hair Tools Up to 90% Off
     *   Laura Geller New York from $10
-    *   PYT Hot Tools Up to 90% Off
-    *   Face Masks We Love Up to 90% Off
     *   ilike Organic Skin Care
     
     Shop By Category
