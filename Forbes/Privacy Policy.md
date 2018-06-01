@@ -247,5 +247,5 @@ Education
 *   Forbes Africa
 *   Forbes Italy
 
-<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1494993704116832&amp;ev=PixelInitialized">. We’ve updated our Privacy Statement to support new EU data protection law.  
+<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1494993704116832&amp;ev=PixelInitialized">. We’ve updated our Privacy Statement to support new EU data protection laws.  
 Click here to learn more.
