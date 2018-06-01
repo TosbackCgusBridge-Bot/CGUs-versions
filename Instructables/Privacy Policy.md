@@ -141,6 +141,7 @@ Legal Notices &. Trademarks
 *   Autodesk Quote and Order Direct Order Terms and Conditions
 *   Move to Subscription Terms and Conditions
 *   Autodesk Participant Guidelines
+*   Online Purchases and Auto-Renewal Terms and Conditions
 *   Switched Subscription
 *   Extra Territory Rights
 
