@@ -1,6 +1,6 @@
 Artboard 1Pink\_Nation\_Member Online Privacy Policy
 
-This Online Privacy Policy ("Policy") explains what personal information is collected through our websites and online services, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this Policy applies only to personal information collected through the websites, microsites, mobile applications, and other online services of our brands and lines of business that expressly adopt, and display or link to, this Policy (collectively, the “Services”). These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean information that relates to you, an individual user of our Services, including information that can be used directly to identify you (including name, home address, and email address), as well as other information (like tastes and preferences) when coupled with your identifying information. We refer to Victoria's Secret Stores Brand Management, Inc., Four Limited Parkway, Reynoldsburg, OH 43068, including the associated retail brands, Victoria's Secret, Victoria's Secret Pink (or "Pink"), and Pink Nation (by Pink) as "we," "us," or "our" throughout this Policy.
+This Online Privacy Policy ("Policy") explains what personal information is collected through our websites and online services, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this Policy applies only to personal information collected through the websites, microsites, mobile applications, and other online services of our brands and lines of business that expressly adopt, and display or link to, this Policy (collectively, the Services). These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean information that relates to you, an individual user of our Services, including information that can be used directly to identify you (including name, home address, and email address), as well as other information (like tastes and preferences) when coupled with your identifying information. We refer to Victoria's Secret Stores Brand Management, Inc., Four Limited Parkway, Reynoldsburg, OH 43068, including the associated retail brands, Victoria's Secret, Victoria's Secret Pink (or "Pink"), and Pink Nation (by Pink) as "we," "us," or "our" throughout this Policy.
 
 This Policy answers these questions:
 
@@ -151,7 +151,7 @@ What choices do you have over how your information is used?
     
 5.  5. Postal Mail
     
-    If you'd like to specify your preferences for our postal mail, simply follow the instructions on the mailer, or dial 1-800-411-5116. To reduce postal mail click here.
+    If you'd like to specify your preferences for our postal mail, simply follow the instructions on the mailer, or dial 1-800-411-5116 (for our US and Canada customers). (08) 082340481 (for our UK customers). and +1-937-438-4197 (for our customers elsewhere). To reduce postal mail click here.
     
 6.  6. Victoria's Secret Pink Nation
     
@@ -195,7 +195,7 @@ Columbus, OH 43230
 US  
 privacy@lb.com When was this Policy last updated?  
 
-This Policy was last updated on May 08, 2018.
+This Policy was last updated on May 31, 2018.
 
 Supplemental Privacy &. Cookie Notice for Visitors from the European Economic Area
 
@@ -211,7 +211,7 @@ The following types of cookies (and cookie technology) are enabled when a web or
 
 Cookies (and cookie technology) and their functions Cookie / Technology Type Function User-Input Cookies Enables visitors' input, choices, or selections across their website experience. Examples include maintaining a shopping cart during a visit or a form throughout a transaction. Authentication Cookies Identifies visitors through the website after they log in. Security Cookies Helps to ensure our website's security when visitors request a service. For example, we use cookies to help secure account creation and login pages. Multimedia Player Cookies Ensures such things as image quality, network link speed, or buffer information for video and audio playback. Load-balancing Session Cookies Directs website traffic to a particular datacenter for the quickest website access, and enables visitors to return to that datacenter if needed. Visitor Customization Cookies Stores preferences and visitor experiential histories: remembers language preference, product-page display preference, and whether certain visitor experiences should be displayed, such as email marketing signup, based on past experiences. Social Media Plug-in Cookies These cookies from social media platforms (like Facebook and Instagram) facilitate content sharing on those platforms. Interest Based Advertising Cookies Enables our advertising vendors to deliver tailored ads to our visitors on other websites. The ads are based on a visitor's combined online and offline (e.g. in-store) shopping history and experience with us, as well with our vendors' network of advertisers. Analytics Cookies Enables us to do things like estimate number of visitors, detect most used search-engine keywords that lead to a webpage, measure page load times, administer visitor surveys, identify navigation issues, and improve web capabilities.
 
-We, the data controller, are Victoria's Secret Stores Brand Management, Inc., 4 Limited Parkway, Columbus, OH 43230, US (+1.937.438.4197, or via https://customerservice.victoriassecret.com/app/ask). Our authorized representative in the EEA is located at Victoria's Secret UK Limited, 16 Garrick St. WC2E 9BA London, UK (08) 082340481
+We, the data controller, are Victoria's Secret Stores Brand Management, Inc., 4 Limited Parkway, Columbus, OH 43230, US (1-800-411-5116 for our US and Canada customers. (08) 082340481 for our UK customers. and +1-937-438-4197 for our customers elsewhere), or via https://customerservice.victoriassecret.com/app/ask). Our authorized Privacy Representative in the EEA is located at Victoria's Secret UK Limited, 16 Garrick St. WC2E 9BA London, UK (08) 082340481
 
 Our data protection officer is:
 
@@ -232,7 +232,7 @@ When you access our Services, you transfer your personal data to the United Stat
 
 We will process and keep your personal information for as long as is necessary for the purposes set out in this Policy, for our legitimate business needs, and for compliance with the law.
 
-You have a right to request from us these EU GDPR rights concerning your personal data: access to data. rectification of data. erasure of data. restriction on processing. objection to data processing. and data portability. You can exercise these rights through a combination of actions: accessing the information in your account. exercising your opt-out options through our Services. and by calling +1 937 438 4197.
+You have a right to request from us these EU GDPR rights concerning your personal data: access to data. rectification of data. erasure of data. restriction on processing. objection to data processing. and data portability. You can exercise these rights through a combination of actions: accessing the information in your account. exercising your opt-out options through our Services. and by calling 1-800-411-5116 for our US and Canada customers. (08) 082340481 for our UK customers. and +1-937-438-4197 for our customers elsewhere.
 
 If you have provided consent for direct marketing emails or other data processing, you have the right to withdraw your consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal.
 
@@ -240,6 +240,6 @@ You have the right to lodge a complaint with a supervisory authority.
 
 We do not use automated decision-making, including profiling, as referred to in Article 22(1) EU GDPR, that is, in a way that produces legal effects concerning you or significantly affects you. Our Services' customization technologies and e-commerce processes are automated, but do not produce legal effects or affect you significantly as contemplated by Art. 22(1) or (2) EU GDPR.
 
-You can contact us with any questions, or to exercise your rights by calling our Customer Care Center at +1 937 438 4197.
+You can contact us with any questions, or to exercise your rights by calling our Customer Care Center at 1-800-411-5116 for our US and Canada customers. (08) 082340481 for our UK customers. and +1-937-438-4197 for our customers elsewhere).
 
 Close
