@@ -313,7 +313,6 @@ Menu Close Menu Close
         
 *   Deals
     
-    *   Doorbusters
     *   THINKPAD DEALS
     *   2-in-1 Laptops Deals
     *   Thin &. Light Laptops Deals
@@ -322,6 +321,7 @@ Menu Close Menu Close
     *   Desktop Deals
     *   Monitor Deals
     *   ACCESSORY DEALS
+    *   Tablets &. AR/VR
     *   Clearance
     *   Financing Options
     *   Outlet
@@ -374,11 +374,19 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers MEMORIAL DAY DOORBUSTERS
+Home >. Filter by specs Offers
 
-One more day to save up to 40%. Sale ends May 31 at 4am ET.
+"The Maserati of business laptops."
 
-Shop Doorbusters >.
+LAPTOP, March 9, 2018, 5 out of 5 Stars Editor's Rating
+
+Build your new ThinkPad X1 Carbon >>.
+
+Different discovers better
+
+FLEXIBLE DESIGN. AUDACIOUS ACHIEVEMENTS.
+
+Learn more >.
 
 Leading the pack
 
@@ -388,6 +396,7 @@ Learn more >.
 
 *   1
 *   2
+*   3
 
 TODAY'S SALES
 
@@ -405,25 +414,19 @@ Yoga 730 15"
 
 Break out of the 90-degree mold and rock tech global-style.
 
-Laptops Deals
+M910 Tiny: Think Big with a Tiny Desktop &. Monitor
 
-Biggest savings of the year on new and top-selling laptops! Ends May 31 at 4am ET.
+LAPTOPS
 
-Desktops Deals
+High-performance laptops and convertibles for home, work, and play.
 
-Pick up a new desktop worthy of the Executive Office. End May 31 at 4am ET.
+DESKTOPS
 
-accessories Deals
+Sleek all-in-ones, high-performance towers, and space-saving tiny desktops for home and business.
 
-Monitors ,docks, keyboards, mice, and more at amazing prices through May 31 at 4am ET.
+accessories &. monitors
 
-Tablets Deals
-
-Our tablets are more than just toys. Now on sale until May 31 at 4am ET.
-
-MEMORIAL DAY BUSINESS SALE
-
-Celebrate the great savings on our top selling business PCs. Sale ends at May 31 at 4am ET.
+From monitors to docks, keyboards to mice, graphics to software, and everything in between.
 
 Data Center
 
@@ -437,6 +440,10 @@ Tablets
 
 Android and Windows tablets engineered for enhanced productivity and a rich multimedia experience.
 
+Outlet
+
+Find great deals on new and refurbished Lenovo products.
+
 STAY CONNECTED
 
 *   Facebook
@@ -447,7 +454,7 @@ STAY CONNECTED
 *   Flickr
 *   Lenovo Forums
 
-Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-EnglishHong Kong S.A.R. of China-繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
+Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCote d'IvoireCroatiaCzech RepublicDenmarkEcuadorEgypt-العربيةEgypt-EnglishEstoniaFinlandFranceGermanyGhanaGreeceHong Kong S.A.R. of China-繁體中文Hong Kong S.A.R. of China-EnglishHungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchSwitzerland-EnglishTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
 
 *   ABOUT LENOVO
     *   Our Company
