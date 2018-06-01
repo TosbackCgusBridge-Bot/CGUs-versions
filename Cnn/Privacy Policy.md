@@ -48,7 +48,7 @@ U.S. Politics
 
 Sport
 
-*   Football
+*   World Cup
 *   Tennis
 *   Equestrian
 *   Golf
@@ -56,7 +56,7 @@ Sport
 *   Horse Racing
 *   Motorsport
 *   Sailing
-*   Skiing
+*   Football
 *   Rugby
 
 *   Destinations
@@ -150,7 +150,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-Pinellas Park, FL167°
+Pinellas Park, FL169°
 
 1.  Home
 
@@ -191,7 +191,7 @@ Pinellas Park, FL167°
     5.  Startups
 
 1.  Sport
-    1.  Football
+    1.  World Cup
     2.  Tennis
     3.  Equestrian
     4.  Golf
@@ -199,7 +199,7 @@ Pinellas Park, FL167°
     6.  Horse Racing
     7.  Motorsport
     8.  Sailing
-    9.  Skiing
+    9.  Football
     10.  Rugby
 
 1.  1.  Destinations
