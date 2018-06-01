@@ -23,7 +23,7 @@ The dress code to live by: fun in the sun. Shop Swim.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -41,8 +41,9 @@ The dress code to live by: fun in the sun. Shop Swim.
         *   Shop Buckle Exclusive
         *   Shop Instagram
         *   Plus Sizes
-        *   buckle SELECT
         *   BOGO 30% Off BKE Jewelry
+        *   buckle SELECT
+        *   Brill Boutique
         *   Promotions
         
         *   Tops
@@ -243,10 +244,11 @@ The dress code to live by: fun in the sun. Shop Swim.
         *   Summer Checklist
         *   Top Rated
         *   Best Sellers
-        *   Back in Stock
-        *   Two Piece Outfits
         *   Denim on Denim
         *   BOGO 30% Off BKE Jewelry
+        *   Back in Stock
+        *   Two Piece Outfits
+        *   Brill Boutique
         
         *   Women's Trends
         
