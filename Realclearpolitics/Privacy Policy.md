@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Fred Kaplan_: The North Korea Summit Might Actually Work--Despite Trump
+*   _Byron York_: Trump Resurgent as Mueller's Collusion Case Falls Apart
     
-*   _Benny Avni_: When It Comes to North Korea, We Need More Trump Chaos
+*   _Kyle Cheney_: Trump's 'Spygate' Offensive Is Losing Steam
     
-*   _Suebsaeng &. Stein_: Trump's Plan: Blame Obama for Everything
+*   _Mollie Hemingway_: Congress Still Hasn't Seen Subpoened Docs on Spygate
     
-*   _Andrew McCarthy_: The Obama Administration's Hypocritical Pretext for Spying
+*   _Chris Cillizza_: Trump Is a Really Bad Boss. Just Ask Jeff Sessions.
     
-*   _Dahlia Lithwick_: Collusion Is What I Say It Is
+*   _Tammy Kim_: A Sense of History in the Making in South Korea
     
-*   _Katie Pavlich_: MS-13 and the Democrats' Defense of Evil
+*   _Marc Thiessen_: Thank Republicans for Your Right to Try
     
-*   _Catherine Rampell_: Republican Inhumanity at Border Reveals Scam
+*   _Nicholas Kristof_: Trump Immigration Policy Veers From Abhorrent to Evil
     
-*   _Margot Cleveland_: Clearing Up That Immigrant Children Story
+*   _Sophia McClennen_: Do Liberals Really Care About Immigrant Kids?
     
-*   _Eric Schlosser_: The Growing Dangers of the New Nuclear-Arms Race
+*   _Conrad Black_: Long Overdue, Overhaul of Criminal-Justice System Begins
     
-*   _Ben Shapiro_: The Suicide of Europe
+*   _David Graham_: Trump Is Weaponizing the Pardon Power
     
-*   _Igor Delanoe_: Putin, Macron Explore What They Have to Offer Each Other
+*   _Sabrina Siddiqui_: Liberal Nightmare: A 2nd Supreme Court Pick for Trump
     
-*   _Stephen Moore_: The Mojo of Trumponomics Is a Problem for Dems
+*   _Dana Milbank_: What Has Trey Gowdy Been Smoking?
     
-*   _Thomas Friedman_: Sounding Code Red: Electing the Trump Resistance
+*   _Andrew McCarthy_: Yes, FBI Was Investigating Trump Campaign When It Spied
     
-*   _David Ignatius_: Will Trump's Zig-Zag Course to a Summit Actually Work?
+*   _Josh Campbell_: Who's Going to Apologize to the FBI?
     
-*   _Holman Jenkins_: Clapper Disinformation Campaign
+*   _Victor Davis Hanson_: Unravelling the Obama Admin's Attack on Civil Liberties
     
-*   _Nelson Cunningham_: Bob Mueller's White Hot Summer
+*   _E.J. Dionne_: Calling Out Trump's Lies--and Hatred
     
-*   _Lee Smith_: The Maltese Phantom of the Trump-Russia Probe
+*   _Roger Simon_: A New Slogan for Trump: 'Smash Identity Politics!'
     
-*   _Roxane Gay_: 'Roseanne' Is Gone, But the Culture That Gave Her a Show Isn't
+*   _Paul Waldman_: MS-13 Is Republicans' New Willie Horton
     
-*   _Johnny Oleksinski_: Hollywood Will Use 'Roseanne' as Excuse for Insularity
+*   _Sean Trende_: What If 2006 Model Isn't Enough for Democrats?
     
-*   _Caitlin Huey-Burns_: Trump Visit Spotlights Competitive Tennessee Senate Race
+*   _Elaina Plott_: Could Steve Scalise Be the Next House Speaker?
     
-*   _Rivka Galchen_: The Teachers' Strike and the Dem Revival in Oklahoma
+*   _Peter Baker_: How Trump's Election Shook Obama: 'What If We Were Wrong?'
     
-*   _David Freddoso_: Scott's Parade of Early Ads Is Shaping FL's Senate Race
+*   _Mark Hemingway_: Economy Feeds Off Trump's 'Capitalist Comeback'
     
-*   _Steve Hantler_: Trump-Bashing Will Sink GOP Establishment's Adam Putnam
+*   _Shira Scheindlin_: Trump's Hard-Right Judges Will Do Lasting Damage
     
-*   _McKay Coppins_: Stephen Miller: Trump's Right-Hand Troll
+*   _Roger Kimball_: When Reagan Met Lenin
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   What If 2006 Model Isn't Enough for Democrats?
+*   Kim Kardashian West Goes to the White House to Talk Pardon
+*   Replay: Trump Signs "Right to Try" Act Legalizing Experimental Drugs
 *   Trump Visit Spotlights Competitive Tennessee Senate Race
 *   Embattled Missouri Gov. Eric Greitens Resigns
-*   Hemingway vs. Tumulty on Media Coverage of "Spygate" Revelations
-*   Senior North Korean Official Heads to NY to Plan for Trump Summit
-*   How the Battle for the House Is Shaping Up
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,30 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Texas Senate - Cruz vs. O'RourkeQuinnipiac
-    *   Cruz50
-    *   O'Rourke39Cruz +11
-*   Texas Governor - Abbott vs. ValdezQuinnipiac
-    *   Abbott53
-    *   Valdez34Abbott +19
+*   California Governor - Open PrimaryBerkeley IGS
+    *   Newsom33
+    *   Cox20
+    *   Villaraigosa13
+    *   Allen12
+    *   Chiang7
+    *   Eastin4Newsom +13
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove52Disapprove +5
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve45
-    *   Disapprove51Disapprove +6
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve44
+    *   Disapprove53Disapprove +9
+*   2018 Generic Congressional VoteReuters/Ipsos
+    *   Democrats39
+    *   Republicans37Democrats +2
 
 More Latest Polls In The News
 
+*   NBC's Chuck Todd on 'Spygate': We Know This Is A B.S. Story That Is Going To Go Away In Five Days
+*   DiGenova: "The Recusal Of Jeff Sessions Was An Unforced Betrayal Of The President Of The United States"
 *   Dershowitz On Liberals Blacklisting Him: This Is All Their Fault. "I Have Not Changed, They Have"
 *   CNN's Acosta: Trump Owes The American People "Plenty of Apologies" For The Things He Has Said
 *   NYT's Maggie Haberman: President Trump Is "Putting A Stamp Of Legitimacy" On Conspiracy Theories
-*   Trump: Hillary Couldn't Get Crowds Without Jay-Z. But His "Filthy" Language Made Me Look "Clean-Cut"
-*   Tumulty vs. Hemingway: After Breaking Story Of Spy In Trump Campaign, Wash Post Said There Was No Spy
 
 *   Politics
 *   Policy
