@@ -131,7 +131,7 @@ GEICO
 One GEICO Plaza  
 Washington, DC 20076
 
-or email us at **privacypolicy@geico.com**.
+or email us at **privacypolicy@geicomail.com**.
 
 This Privacy Policy applies to all of the following GEICO companies:
 
