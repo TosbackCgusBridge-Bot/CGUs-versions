@@ -32,6 +32,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Pre Sales Tickets
     
     *   Incredibles 2
+    *   Jurassic World: Fallen Kingdom
     
     Coming Soon
     
@@ -41,7 +42,6 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   SuperFly (2018)
     *   Race 3
     *   Tag (2018)
-    *   Jurassic World: Fallen Kingdom
     *   Uncle Drew
     *   Sicario: Day of the Soldado
     *   See All Coming Soon
@@ -50,24 +50,30 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   AMC Dine-In Buckhead 6 3340 Peachtree Rd.
-    *   AMC Phipps Plaza 14 3500 Peachtree Road NE
-    *   Regal Tara 4 2345 Cheshire Bridge Road N.e.
-    *   CinéBistro at Town Brookhaven 1004 Town Blvd.
-    *   Regal Atlantic Station 18 IMAX &. RPX 261 19th Street NW
-    *   AMC Parkway Pointe 15 3101 Cobb Pkwy.
-    *   The Springs Cinema &. Taphouse 5920 Roswell Road
-    *   Midtown Art Cinema 931 Monroe Drive
-    *   Regal Perimeter Pointe Stadium 10 1155 Mount Vernon Highway
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   It's Official! Daniel Craig and Danny Boyle, Together Again for 'Bond 25' Read More
-    *   The Next 3 'Star Wars' Movies: Episode IX, Obi-Wan Kenobi, Boba Fett Read More
-    *   Jamie Foxx Officially Cast in 'Spawn' Reboot. Here's Everything We Know Read More
+    *   First Look at 'Top Gun: Maverick'. Here's Everything We Know Read More
+    *   James Marsden to Star in 'Sonic the Hedgehog': Here's Everything We Know So Far Read More
+    *   10 Incredibly Fun Facts About Pixar’s Incredibles 2 Read More
     
     Explore Content
     *   Movie Reviews
@@ -76,44 +82,27 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Star Wars Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 30301 Edit Zip Code
+*   My VIP Account Join FandangoVIP Get Points + Save
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Insider Perks
     
-
-See all insider perks My Fandango
-
-See my VIP+ Points
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Get Points + Save
-
-More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
-
-Learn more Insider Perks
-
-Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
-
-Learn more Partner Rewards
-
-Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
-
-Learn more Refunds + Exchanges
-
-We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+    
+    Learn more Partner Rewards
+    
+    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+    
+    Learn more Refunds + Exchanges
+    
+    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Movie Ticket Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseMovie Ticket PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
@@ -329,9 +318,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Action Point' Gift With Purchase
+*   Earn 2X VIP+ POINTS with 'Jurassic World' Ticket Purchase
     
-    Own up to five eligible 'JACKASS' movies to watch at home for just $2.99 each with ticket purchase. BUY TICKETS
+    Earn 2X VIP+ POINTS with your 'Jurassic World: Fallen Kingdom' ticket purchase THIS WEEKEND ONLY. (Yep, every 2 tickets = $6 reward on us!) BUY TICKETS
     
 *   'Solo: A Star Wars Story' Gift With Purchase
     
@@ -391,4 +380,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español AdChoices Copyright © 2017 Fandango. All rights reserved. Your Ticket to the Movies. Your Personal Box Office.
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
