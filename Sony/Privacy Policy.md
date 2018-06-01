@@ -4,7 +4,7 @@ Skip to Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48
 *   Sony PicturesThe hub for your favourite movies and TV shows.
 *   Sony MusicClassic artists to today’s stars, local and global.
 
-Primary menuSONY
+Main menuSONY
 
 *   SONY
 *   Sony Sites
@@ -129,7 +129,7 @@ Play With So Many Different Choices, Video hotspot
 
 Mega Man 11 launches October 2 on PS4! Get a first look at the Blue Bomber's new game-changing Double Gear system
 
-1 day ago
+2 days ago
 
 View Tweet
 
