@@ -337,7 +337,7 @@ Do Not Track (“DNT”) is a privacy preference that users can set in certain w
 
 6\. DATA SUBJECT RIGHTS
 
-You have certain rights, in certain circumstances, in relation to your personal information. A summary of each right and how an individual can take steps to exercise it is set out below. If you wish to exercise any of these rights, please <a href="mailto:privacy@gartner.com"><span style="color: rgb(122,184,0);">contact us for additional information</span></a>. Such requests should include appropriate identity verification information (such as your name, address, email address or other information reasonably required).
+You have certain rights, in certain circumstances, in relation to your personal information. A summary of each right and how an individual can take steps to exercise it is set out below. If you wish to exercise any of these rights, please contact us for additional information. Such requests should include appropriate identity verification information (such as your name, address, email address or other information reasonably required).
 
 Where we receive a request to exercise one of these rights, we shall provide information on the action we take on the request without undue delay and in any event within one month of receipt of the request. This may be extended by a further two months in certain circumstances, for example where requests are complex or numerous.
 
