@@ -150,7 +150,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-Pinellas Park, FL169°
+Pinellas Park, FL171°
 
 1.  Home
 
@@ -277,7 +277,8 @@ CNN Sans ™ & © 2016 Cable News Network.
 *   License Footage
 *   CNN Newsource
 
-<img src="//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+<img src="//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>close dialogMake sense of the world withINSIGHTS FROM FAREED ZAKARIAin Fareed’s Global Briefing newsletterPlease enter aboveUnlock the BriefingNo ThanksBy subscribing you agree to ourprivacy policy.You have now  
+successfully subscribed.close dialog
 
 *   About Your Privacy
     
