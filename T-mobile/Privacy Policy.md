@@ -1,9 +1,9 @@
-T-Mobile Privacy Policy December 31, 2016  
-Please click here for Spanish version of the T-Mobile Privacy Policy  
-Please click here for the T-Mobile Privacy Policy Highlights  
+T-Mobile Privacy Statement December 31, 2016  
+Please click here for Spanish version of the T-Mobile Privacy Statement  
+Please click here for the T-Mobile Privacy Statement Highlights  
   
 
-This Privacy Policy ("Policy") describes how information about you is collected, used, and disclosed by T-Mobile USA, Inc. ("T-Mobile") and provides other important privacy information, describes when and how we may change this Policy, and tells you how to contact us with any questions or comments.
+This Privacy Statement ("Statement") describes how information about you is collected, used, and disclosed by T-Mobile USA, Inc. ("T-Mobile") and provides other important privacy information, describes when and how we may change this Statement, and tells you how to contact us with any questions or comments.
 
   
   
@@ -23,7 +23,7 @@ For more information see Privacy Resources/Customer Proprietary Network Informat
 
 **Credit and Financial Information**
 
-We collect information about your credit card or banking information, Social Security Number, and credit history for account opening, management and billing and collection purposes. Financial information we collect is governed by T-Mobile’s Financial Privacy Policy
+We collect information about your credit card or banking information, Social Security Number, and credit history for account opening, management and billing and collection purposes. Financial information we collect is governed by T-Mobile’s Financial Privacy Statement
 
 **Network and Device Information**
 
@@ -52,7 +52,7 @@ Some devices may automatically upload to T-Mobile network servers information yo
 
 **Collection of Information About Children**
 
-We do not knowingly solicit children to purchase our services or products. If, however, you authorize a child to use our services or products by providing them a device associated with your account, any information associated with such use will be treated as your information in accordance with this Policy. If you are the primary account holder, you will have the ability to set the marketing preferences for any other lines on your account, including those for any children to whom you provide a device.
+We do not knowingly solicit children to purchase our services or products. If, however, you authorize a child to use our services or products by providing them a device associated with your account, any information associated with such use will be treated as your information in accordance with this Statement. If you are the primary account holder, you will have the ability to set the marketing preferences for any other lines on your account, including those for any children to whom you provide a device.
 
 Our websites are not designed to attract children under the age of 13 and we do not intentionally or knowingly collect Personal Information on our websites from anyone under the age of 13. We encourage parents to be involved in the online activities (including wireless Internet browsing) of their children to ensure that no information is collected from a child without parental permission.
 
@@ -93,7 +93,7 @@ For example some of the ways we may automatically collect information include:
     
     We may also use web beacons (small graphic images on a web page or an HTML e-mail) to monitor interaction with our websites or e-mails. Web beacons are generally invisible because they are very small (only 1-by-1 pixel) and the same color as the background of the web page or e-mail message.
     
-    The information we receive through cookies, web beacons and similar technologies may enable us to recognize users across devices, such as smartphones, computers, tablets or related browsers. Depending upon your device or computer, you may be able to set your browser(s) to reject cookies or delete cookies, but that may result in the loss of some functionality on our websites. If we combine or link cookie or web beacon information with Personal Information, we will treat the combined or linked information as Personal Information under this Policy.
+    The information we receive through cookies, web beacons and similar technologies may enable us to recognize users across devices, such as smartphones, computers, tablets or related browsers. Depending upon your device or computer, you may be able to set your browser(s) to reject cookies or delete cookies, but that may result in the loss of some functionality on our websites. If we combine or link cookie or web beacon information with Personal Information, we will treat the combined or linked information as Personal Information under this Statement.
     
 *     
     
@@ -103,7 +103,7 @@ For example some of the ways we may automatically collect information include:
     
     _Other Websites._ When your device’s web browser utilizes our data services to access websites other than our own, we automatically capture information associated with your browsing activities, and measure and monitor network and Internet connection performance, throughput, latency, and similar network data.
     
-    _Do Not Track Policy._ Some browsers have incorporated "Do Not Track" features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to the browser DNT signals when you use our services and products or interact with our websites or online services. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party websites or online services for online interest based advertising purposes and to opt out of our interest-based advertising on your device, as described below.
+    _Do Not Track Statement._ Some browsers have incorporated "Do Not Track" features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to the browser DNT signals when you use our services and products or interact with our websites or online services. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party websites or online services for online interest based advertising purposes and to opt out of our interest-based advertising on your device, as described below.
     
 *   **Voice Controlled Applications**
     
@@ -164,11 +164,11 @@ Depending on your device, you may also be able to obtain a wide array of service
 
 These applications and services use various location technologies (including Global Positioning Satellite ("GPS"), Assisted GPS ("AGPS"), cell ID and enhanced cell ID technologies) to identify the approximate location of a device, which is then used in conjunction with the application to enhance the user’s experience (for example, to provide driving directions, to provide enhanced 411 Directory Assistance, or search results, etc.)
 
-LBS may, or may not, involve any interaction with or dependency on our network, and location-based services may or may not look to our network to obtain location data. Where we allow third parties the capability of accessing data about your location that is derived from our network, we require those third parties to observe specific privacy and security protections consistent with this policy.
+LBS may, or may not, involve any interaction with or dependency on our network, and location-based services may or may not look to our network to obtain location data. Where we allow third parties the capability of accessing data about your location that is derived from our network, we require those third parties to observe specific privacy and security protections consistent with this statement.
 
 It is important that you understand the location capabilities and settings of your device, and that you carefully read and understand the terms under which these services are provided – whether by us or another entity.
 
-You should carefully review the privacy policies and other terms of third-parties with whom you have authorized the sharing of your location information, and you should consider the risks involved in disclosing your location information to other people.
+You should carefully review the privacy statements and other terms of third-parties with whom you have authorized the sharing of your location information, and you should consider the risks involved in disclosing your location information to other people.
 
 Where we provide a location-based service, you will receive notice of the location features of the service and collection of location data is with your consent. You will be provided options for managing when and how such information should be shared (except in the case of certain parental controls or similar services associated with enterprise or multi-line accounts – for example, T-Mobile’s FamilyWhereTM services – which may be managed solely by the primary account holder or their designee, but always with notice to the end-user). T-Mobile follows the CTIA’s Best Practices Guidelines for Location-Based Services, which are available here.
 
@@ -179,7 +179,7 @@ For more information on location services, see Privacy Resources/Location Servic
   
 **Telematics**
 
-Data from our SyncUp connected car service is used to provide you with that vehicle monitoring service, to enable the functions of the SyncUp associated Motion app, and to enable WiFi connectivity in your car. In addition, your data may be shared with our application provider in order to enable third-party services that use your personal data, though in such cases no third-party will be granted access to data that identifies you without first obtaining your consent. We may also use such data for any of the other purposes listed in this policy, such as internal analysis, or to personalize offers we provide to you.
+Data from our SyncUp connected car service is used to provide you with that vehicle monitoring service, to enable the functions of the SyncUp associated Motion app, and to enable WiFi connectivity in your car. In addition, your data may be shared with our application provider in order to enable third-party services that use your personal data, though in such cases no third-party will be granted access to data that identifies you without first obtaining your consent. We may also use such data for any of the other purposes listed in this statement, such as internal analysis, or to personalize offers we provide to you.
 
   
 **Advertising**
@@ -200,7 +200,7 @@ _Other Company Ads on Our Websites._ You may also see third-party advertisements
 
   
 
-_Our Ads on Other Websites._ We may ask third-parties to place advertisements about our products and services on other websites, mobile websites and in mobile applications and widgets. The use of cookies, web beacons, or similar technologies by such third-parties on other websites is subject to any applicable privacy policies that they may have, not this Policy.
+_Our Ads on Other Websites._ We may ask third-parties to place advertisements about our products and services on other websites, mobile websites and in mobile applications and widgets. The use of cookies, web beacons, or similar technologies by such third-parties on other websites is subject to any applicable privacy statements that they may have, not this Statement.
 
   
 
@@ -248,7 +248,7 @@ We may disclose information to third-party vendors and partners who complete tra
 
 **Third-Party Carriers and Suppliers**
 
-If you are roaming on the network of another carrier or WiFi service provider, your wireless telephone number, your location, the numbers you dial, and other information about your usage will be available to that carrier to facilitate that service. Additionally, services and functionality offered through certain devices are sometimes provided in conjunction with entities other than T-Mobile. As a result, Personal Information from your devices may be uploaded and stored on their servers. For instance, BlackBerry® service is provided in conjunction with Research in Motion (RIM), and Personal Information from your device is stored on their BlackBerry Enterprise ServersTM. Their specific terms and conditions, terms of use, and privacy polices apply to those services.
+If you are roaming on the network of another carrier or WiFi service provider, your wireless telephone number, your location, the numbers you dial, and other information about your usage will be available to that carrier to facilitate that service. Additionally, services and functionality offered through certain devices are sometimes provided in conjunction with entities other than T-Mobile. As a result, Personal Information from your devices may be uploaded and stored on their servers. For instance, BlackBerry® service is provided in conjunction with Research in Motion (RIM), and Personal Information from your device is stored on their BlackBerry Enterprise ServersTM. Their specific terms and conditions, terms of use, and privacy statements apply to those services.
 
 **In a Business Transfer**
 
@@ -269,7 +269,7 @@ We may disclose Personal Information, and other information about you, or your c
 
 **Co-Sponsored Websites and Partners**
 
-If you provide information to us in connection with a co-sponsored website, this Policy will apply to our use of the information and the co-sponsor’s policy will apply to their use of the information. If you purchase equipment or activate service at one of our partner’s locations (including websites of such dealer or retailer), they may request information from you that is passed to us as part of the activation process, but which may also be retained by the partner. This Policy will govern our use of such information, and the partner’s privacy policy will govern its use of such information.
+If you provide information to us in connection with a co-sponsored website, this Statement will apply to our use of the information and the co-sponsor’s statement will apply to their use of the information. If you purchase equipment or activate service at one of our partner’s locations (including websites of such dealer or retailer), they may request information from you that is passed to us as part of the activation process, but which may also be retained by the partner. This Statement will govern our use of such information, and the partner’s privacy statement will govern its use of such information.
 
 **De-Identified Information**
 
@@ -279,7 +279,7 @@ For more information about our INSIGHTS Program see Privacy Resources/T-Mobile I
 
 **Third-Party Applications for Your Devices**
 
-We are not responsible for the third-party applications (for example, applications, programs, widgets, etc.) you select and install on your device. When you install third party applications, you may give your consent for the third party to access information stored on the device and on our network to facilitate the application’s functions (for example, you may consent to third-party access to your location information – see Location Based Services). The manner in which such third-parties may use, share, or disclose such information is governed by the terms and conditions and privacy policy provided by that third party – not by this Policy. For more information, see Privacy Resources/Device Apps
+We are not responsible for the third-party applications (for example, applications, programs, widgets, etc.) you select and install on your device. When you install third party applications, you may give your consent for the third party to access information stored on the device and on our network to facilitate the application’s functions (for example, you may consent to third-party access to your location information – see Location Based Services). The manner in which such third-parties may use, share, or disclose such information is governed by the terms and conditions and privacy statement provided by that third party – not by this Statement. For more information, see Privacy Resources/Device Apps
 
   
 top**HOW WE STORE AND PROTECT THE INFORMATION COLLECTED ABOUT YOU** **Protecting Your Information**
@@ -288,7 +288,7 @@ We use a variety of physical, electronic, and procedural safeguards to protect P
 
 We provide password protected online access to your account information through my.t-mobile.com. For multi-line accounts, the primary account holder is authorized to access online account information for all the devices and lines on the account. Other users may generally access online account information related only to their respective device and line (for example, if a parent provides a device to their child, the child may access online information about that device and line– including CPNI). The primary account holder, however, may designate additional or more limited access rights for other users on the account.
 
-Under federal law, you have a right, and we have a duty, to protect the confidentiality of CPNI and we have adopted policies and procedures designed to ensure compliance with those rules. We will not intentionally disclose your CPNI to third-parties without your permission, except as allowed under FCC rules, applicable law, or explained in this Policy. However, if you are the primary account holder, you may designate other "authorized users" (for example, a spouse) to access and manage your account information, including CPNI. For more information see Privacy Resources/Customer Proprietary Network Information
+Under federal law, you have a right, and we have a duty, to protect the confidentiality of CPNI and we have adopted statements and procedures designed to ensure compliance with those rules. We will not intentionally disclose your CPNI to third-parties without your permission, except as allowed under FCC rules, applicable law, or explained in this Statement. However, if you are the primary account holder, you may designate other "authorized users" (for example, a spouse) to access and manage your account information, including CPNI. For more information see Privacy Resources/Customer Proprietary Network Information
 
 **Retention and Disposal**
 
@@ -321,20 +321,20 @@ You play an important role in ensuring the security of Personal Information. We 
   
 top**OTHER INFORMATION YOU SHOULD KNOW** **Consumer Code for Wireless Service**
 
-We follow the Consumer Code for Wireless Service established by the Cellular Telecommunications &. Internet Association ("CTIA"). In doing so, we want to help customers understand their bills, receive quality service, and make informed choices and conform our information practices under this Policy to meet the requirements of applicable federal and state laws and regulations.
+We follow the Consumer Code for Wireless Service established by the Cellular Telecommunications &. Internet Association ("CTIA"). In doing so, we want to help customers understand their bills, receive quality service, and make informed choices and conform our information practices under this Statement to meet the requirements of applicable federal and state laws and regulations.
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. As stated in this Policy, we will not sell or share your Personal Information with non-affiliated companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the How to Contact Us section below.
+California Civil Code Section 1798 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. As stated in this Statement, we will not sell or share your Personal Information with non-affiliated companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and statements may contact us as specified in the How to Contact Us section below.
 
   
-top**PRIVACY POLICY UPDATES AND CONTACT INFORMATION** **How We Communicate Changes to This Policy**
+top**PRIVACY STATEMENT UPDATES AND CONTACT INFORMATION** **How We Communicate Changes to This Statement**
 
-We may update this Policy at any time to provide updates to or clarification of our practices. If we make changes, we will revise the date at the top of the Policy. If we propose to use Personal Information in a materially different way, we will provide you with notice by posting notice of the changes on our website for at least 30 days before we implement those changes, and obtain your consent as specified above for any material change regarding disclosure of Personal Information. You should refer to this Policy often for the latest information and the effective date of any changes.
+We may update this Statement at any time to provide updates to or clarification of our practices. If we make changes, we will revise the date at the top of the Statement. If we propose to use Personal Information in a materially different way, we will provide you with notice by posting notice of the changes on our website for at least 30 days before we implement those changes, and obtain your consent as specified above for any material change regarding disclosure of Personal Information. You should refer to this Statement often for the latest information and the effective date of any changes.
 
 **How to Contact Us**
 
-If you have any questions or comments about this Policy or about T-Mobile's privacy practices, please call Customer Service at 611 (from a T-Mobile phone) or 1-800-937-8997 (from any phone) or send an e-mail message to privacy@t-mobile.com. You may also direct your privacy-related comments or questions to the address below:
+If you have any questions or comments about this Statement or about T-Mobile's privacy practices, please call Customer Service at 611 (from a T-Mobile phone) or 1-800-937-8997 (from any phone) or send an e-mail message to privacy@t-mobile.com. You may also direct your privacy-related comments or questions to the address below:
 
   
 T-Mobile USA, Inc.  
