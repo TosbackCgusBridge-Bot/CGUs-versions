@@ -235,7 +235,7 @@ We use the personal information we collect from you for a range of different bus
 
 **With your consent, we may use your personal information to:**
 
-*   Provide you with marketing via telephone calls, email, SMS/text.
+*   Provide you with marketing via telephone calls, SMS/text.
     
 *   Provide you with marketing from other eBay Inc. corporate family members.
     
