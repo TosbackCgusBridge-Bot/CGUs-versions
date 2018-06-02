@@ -3,10 +3,10 @@
 *   games
 *   videos
 
-New Games Next in  23:21 Categories &. more LIBRARY
+New Games Next in  xx:xx Categories &. more LIBRARY
 
-*   New Games Next in 23:21
-*   Best of new games 2202 games
+*   New Games Next in xx:xx
+*   Best of new games 2205 games
 *   Most Popular Games 582 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -14,33 +14,33 @@ New Games Next in  23:21 Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 22,243 games
-*   Driving &. Racing Games 6,692 games
+*   Games for girls 22,260 games
+*   Driving &. Racing Games 6,695 games
 *   Strategy &. RPG Games 2,357 games
 *   Management Games 3,650 games
-*   Thinking Games 11,510 games
-*   Action &. Adventure Games 15,684 games
+*   Thinking Games 11,513 games
+*   Action &. Adventure Games 15,685 games
 *   Sports Games 2,212 games
-*   Shooting Games 7,954 games
+*   Shooting Games 7,955 games
 *   Fighting Games 2,080 games
 *   Skill Games 9,949 games
-*   Arcade &. Classic Games 12,442 games
-*   Fun &. Crazy Games 2,343 games
+*   Arcade &. Classic Games 12,443 games
+*   Fun &. Crazy Games 2,344 games
 
 Tags
 
-*   Car2,312
-*   Boy1,109
-*   Love971
-*   Army469
-*   Words327
-*   Android640
+*   Football439
+*   Chess58
+*   Farm233
+*   School185
+*   Bomberman76
+*   Adventure3,876
 *   View All Tags 371
 
 Play with friends  
-Powered by id.net 129 id.net Multiplayer Games 1,439 id.net High Score Games 949 id.net Achievements Games 780 id.net Screenshots Games 1,323 id.net Online Save Games 2,479 All id.net Games Last Highscore:
+Powered by id.net 129 id.net Multiplayer Games 1,439 id.net High Score Games 949 id.net Achievements Games 780 id.net Screenshots Games 1,324 id.net Online Save Games 2,479 All id.net Games Last Highscore:
 
-**528** points on Orion Sandbox Enhanced by DOKER\_1
+**6,500** points on The Forsaken Lab 3D by yulk
 
 *   Contact Form
 *   Submit a Game or Video
@@ -48,7 +48,7 @@ Powered by id.net 129 id.net Multiplayer Games 1,439 id.net High Score Games 949
 *   Privacy Policy
 *   Terms of Use
 
-Bad translation? Share886K Register Log in My Profile 0 points
+Bad translation? Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
@@ -270,5 +270,3 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Games for Your Website
 *   Terms of Use
 *   Privacy Policy
-
-Share886K
