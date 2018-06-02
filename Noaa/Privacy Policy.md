@@ -96,7 +96,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather NOAA adopts technology to automate weather balloon launches Oceans &. Coasts Infographic: How does climate change affect coral reefs? National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather Research Kilauea eruptions: The way the wind blows, so go the gas and the ash Weather NOAA adopts technology to automate weather balloon launches National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Forecasters predict a near- or above-normal 2018 Atlantic hurricane season New satellite data and model upgrades to give forecasts a boost AROUND NOAA // GOES-17 releases ‘first light’ imagery from its Advanced Baseline Imager \[EXT\] NOAA’s Annual Greenhouse Gas Index ticks up another notch New, next-generation NOAA polar-orbiting satellite is now operational Kilauea eruptions: The way the wind blows, so go the gas and the ash
+Enter Search Terms Forecasters predict a near- or above-normal 2018 Atlantic hurricane season New satellite data and model upgrades to give forecasts a boost AROUND NOAA // GOES-17 releases ‘first light’ imagery from its Advanced Baseline Imager \[EXT\] NOAA’s Annual Greenhouse Gas Index ticks up another notch The U.S. is having an incredibly quiet tornado season – so far New, next-generation NOAA polar-orbiting satellite is now operational
 
 *   About our agency
 *   News and features
