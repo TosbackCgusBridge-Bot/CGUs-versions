@@ -112,17 +112,17 @@ Your Rights and Choices
   
 **marketing** You can tell us to stop sending you email and text messages by following the opt-out instructions sent with these communications. You can also choose to stop receiving marketing email, SMS, or postal mailings by clicking here. While we will honor your choices, we may need to keep information to do so. For example, if you tell us to stop sending marketing emails, we will need your email address on file so that our systems remember that you no longer wish to receive marketing communications to that email address.  
   
-**Accounts** Depending upon the country where you registered, your P&G account may offer the ability to access your information and make updates to or delete your data. If not, you can click here to make a request.
+**accounts** Depending upon the country where you registered, your P&G account may offer the ability to access your information and make updates to or delete your data. If not, you can click here to make a request.
 
-**European Union Residents.** If you live in the EU, you may access the personal data we hold about you, request that inaccurate, outdated, or no longer necessary information be corrected, erased, or restricted, and ask us to provide your data in a format that allows you to transfer it to another service provider. You also may withdraw your consent at any time where we are relying on your consent for the processing of your personal data. And you may object to our processing of your personal data (this means ask us to stop using it) where that processing is based on our legitimate interest (this means we have a reason for using the data). If you would like more information about data protection and your personal data rights in general, please visit the European Data Protection Supervisor’s site at https://edps.europa.eu/data-protection/ . If you are not happy with our response to your requests, you may lodge a complaint with the data protection authority in your country. Please select from the following options to make your request:
+**european union residents.** If you live in the EU, you may access the personal data we hold about you, request that inaccurate, outdated, or no longer necessary information be corrected, erased, or restricted, and ask us to provide your data in a format that allows you to transfer it to another service provider. You also may withdraw your consent at any time where we are relying on your consent for the processing of your personal data. And you may object to our processing of your personal data (this means ask us to stop using it) where that processing is based on our legitimate interest (this means we have a reason for using the data). If you would like more information about data protection and your personal data rights in general, please visit the European Data Protection Supervisor’s site at https://edps.europa.eu/data-protection/ . If you are not happy with our response to your requests, you may lodge a complaint with the data protection authority in your country. Please select from the following options to make your request:
 
-**General Requests** . To make a request with respect to personal data used for marketing, which would include for example information you provided us as you registered through one of our websites or apps, please contact us here .
+**general requests** . To make a request with respect to personal data used for marketing, which would include for example information you provided us as you registered through one of our websites or apps, please contact us here .
 
-**Media Advertising** . To make a request with respect to personal data used for advertising, which would include for example information we may have about you at a cookie or device ID level and which we use to provide you with relevant ads, please contact us here . There may also be data associated with your cookie or device ID in our demand-side (or ad-serving) and ad verification partner platforms. For that data, please see here and here.
+**media advertising** . To make a request with respect to personal data used for advertising, which would include for example information we may have about you at a cookie or device ID level and which we use to provide you with relevant ads, please contact us here . There may also be data associated with your cookie or device ID in our demand-side (or ad-serving) and ad verification partner platforms. For that data, please see here and here.
 
-**Consumer Research** . To make a request with respect to personal data we may have as part of your participation in one of our research studies, please see the contact information provided on your consent form or call or visit your research center.
+**consumer research** . To make a request with respect to personal data we may have as part of your participation in one of our research studies, please see the contact information provided on your consent form or call or visit your research center.
 
-**Dental Professionals.** If you are a dental professional and have provided your information to us as part of one of our professional outreach programs, including through https://www.dentalcare.com, please contact us through the appropriate country numbers and email addresses listed below.
+**dental professionals.** If you are a dental professional and have provided your information to us as part of one of our professional outreach programs, including through https://www.dentalcare.com, please contact us through the appropriate country numbers and email addresses listed below.
 
 **Country**
 
@@ -134,13 +134,19 @@ Germany
 
 0203 570 570
 
+N/A
+
 Austria
 
 00800 570 570 00
 
+N/A
+
 Switzerland
 
 00800 570 570 00
+
+N/A
 
 UK
 
@@ -158,17 +164,33 @@ Italy
 
 +390650972534
 
+N/A
+
 France
 
 \+ 33 (0) 825 878 498
 
+Click here  
+Click here  
+Click here  
+
+Belgium
+
+N/A
+
+Click here
+
 Netherlands
 
-_TBD_
+N/A
+
+Click here
 
 Poland
 
-_TBD_
+0 801 25 88 25
+
+N/A
 
   
 Cookies
