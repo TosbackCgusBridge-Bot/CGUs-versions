@@ -54,7 +54,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 The Best New Hotels in the World 2 Is _Gatsby_ Actually Set in Connecticut? 3 All the Details of Harry and Meghan's Wedding 4 A Royal Wedding Guest on the Evening Reception 5 The Best Places To Go in June Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Robert F. Kennedy Describes the Kennedy Compound 2 The Best New Hotels in the World 3 Is _Gatsby_ Actually Set in Connecticut? 4 A Royal Wedding Guest on the Evening Reception 5 The Best Books to Read This June Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
