@@ -218,7 +218,7 @@ Wir verwenden Ihre personenbezogenen Daten für verschiedene Geschäftszwecke un
 
 **Mit Ihrer Einwilligung verwenden wir Ihre personenbezogenen Daten für Folgendes:**
 
-*   Zurverfügungstellen von Werbung über Telefon, E-Mail, SMS oder in Textform.
+*   Zurverfügungstellen von Werbung über Telefon, SMS oder in Textform.
     
 *   Zurverfügungstellen von Werbung anderer Mitglieder der eBay Inc. Unternehmensgruppe.
     
