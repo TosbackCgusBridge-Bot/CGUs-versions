@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   The key IoT use cases that will drive 5G adoption ›
 *   Simplifying deployment and management of edge clouds with CPLANE.ai ›
 *   OpenStack Summit Vancouver: Automating the data centre ›
 *   Emerging Trends in Financial Services: IoT, AI, and Blockchain ›
 *   Ubuntu Server development summary – 29 May 2018 ›
-*   Decreasing the complexity of IoT adoption with Edge as a Service model ›
