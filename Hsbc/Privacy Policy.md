@@ -118,7 +118,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Rugby
         *   Other sponsorships last item in this group
     
-    *   Belt and Road up and running China’s plan to improve key trading links is taking shape fast.
+    *   China goes international More Chinese people than ever are enjoying life overseas.
 *   Careers Skip navigation
     
     *   Key hiring areas
