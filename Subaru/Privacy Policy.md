@@ -195,7 +195,7 @@ Get the most precise number on the Subaru you want. Get a Local Price What Makes
 *   Engineering &. Technology
 *   SUBARU STARLINK™  
     In-Vehicle Technology
-*   EyeSight® Driver Assist Technology
+*   EyeSight ® Driver Assist Technology
 
 Life with Subaru
 
