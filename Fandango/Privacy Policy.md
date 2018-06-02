@@ -71,8 +71,8 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   First Look at 'Top Gun: Maverick'. Here's Everything We Know Read More
-    *   James Marsden to Star in 'Sonic the Hedgehog': Here's Everything We Know So Far Read More
+    *   The Week in Movie News: Jamie Foxx Is Spawn, What's Next for 'Star Wars' and More Read More
+    *   Blake Lively's Spy Thriller 'The Rhythm Section' Resumes Production. Here's Everything We Know Read More
     *   10 Incredibly Fun Facts About Pixar’s Incredibles 2 Read More
     
     Explore Content
@@ -326,9 +326,9 @@ Offers
     
     Receive a FREE\* exclusive 'Solo: A Star Wars Story' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'Avengers: Infinity War' Gift With Purchase
+*   'Won't You Be My Neighbor' Gift With Purchase
     
-    Choose 1 of 5 FREE\* exclusive posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive Mister Rogers Pocket POP! Keychain with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Ocean's 8' Gift With Purchase
     
