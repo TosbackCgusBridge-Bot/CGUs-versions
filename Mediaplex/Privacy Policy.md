@@ -59,7 +59,7 @@ GET TO THE HEART
 OF WHAT MATTERS  
 TO MILLIONS Watch Our Story
 
-*   200M+ Real People You Can  
+*   160+ MILLION Real People You Can  
     Message Right Now
 *   7,000+ Dimensions to  
     Consumer Profiles
