@@ -1,4 +1,4 @@
-Social by Gigya Log in with your social account:   Social by Gigya Or, you can log in or sign up using Forbes.
+Social by Gigyatype="text/css" href="https://i.forbesimg.com/assets/static/css/assets-css-forbes-advoice\_description-min.css" media="screen">. Log in with your social account:   Social by Gigya Or, you can log in or sign up using Forbes.
 
 *   Editors' Picks
 *   Podcasts
@@ -6,7 +6,7 @@ Social by Gigya Log in with your social account:   Social by Gigya Or, you can
 *   Lists
 *   Video
 
-Forbes.com Privacy Statement
+Forbes.com Privacy Statement Select Privacy Statement Language: DutchFrenchGermanItalianPolishRomanianRussianSpanish
 
 _Effective as of: May 24, 2018_  
   
