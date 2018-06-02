@@ -79,7 +79,7 @@ menu Close 0 Free Shipping on $50+
     *   Pajamas &. Robes
     *   Long Underwear
     
-    BAGS >. SHOES >.
+    WOMEN'S BAGS >. WOMEN'S SHOES >.
     
     *   Athletic &. Water
     *   Sandals
@@ -89,7 +89,7 @@ menu Close 0 Free Shipping on $50+
     *   Heels
     *   Slippers
     
-    ACCESSORIES >.
+    WOMEN'S ACCESSORIES >.
     *   Scarves
     *   Belts
     *   Socks &. Tights
@@ -111,7 +111,7 @@ menu Close 0 Free Shipping on $50+
     *   Supima Shirts &. Sweaters
     *   Sale
     
-    CATEGORIES
+    MEN'S CLOTHING >.
     
     *   Swimwear
     *   Polo Shirts
@@ -129,9 +129,8 @@ menu Close 0 Free Shipping on $50+
     *   Activewear
     *   Pajamas &. Robes
     *   Underwear &. Long Underwear
-    *   Bags
     
-    SHOES>.
+    MEN'S BAGS >. MEN'S SHOES>.
     
     *   Athletic &. Water
     *   Casual
@@ -140,7 +139,7 @@ menu Close 0 Free Shipping on $50+
     *   Dress
     *   Slippers
     
-    ACCESSORIES>.
+    MEN'S ACCESSORIES>.
     *   Belts
     *   Socks
     *   Ties
@@ -150,15 +149,15 @@ menu Close 0 Free Shipping on $50+
     *   Hats
 *   Kids SHOP BY AGE RANGE
     
-    *   Toddler Girl (2T-4T)
-    *   Little Girl (size 4-7)
-    *   Big Girl (size 7-16)
-    *   Girl Plus (size 7+-16+)
+    *   Toddler Girls (2T-4T)
+    *   Little Girls (4-7)
+    *   Big Girls (7-16)
+    *   Girls' Plus Sizes
     
-    *   Toddler Boy (2T-4T)
-    *   Little Boy (size 4-7)
-    *   Big Boy (size 7-20)
-    *   Boy Husky (size 8H-20H)
+    *   Toddler Boys (2T-4T)
+    *   Little Boys (4-7)
+    *   Big Boys (7-20)
+    *   Boys' Husky Sizes
     
     FEATURED SHOPS
     
@@ -167,43 +166,45 @@ menu Close 0 Free Shipping on $50+
     *   Kids' Backpacks &. Lunch Boxes
     *   Kids' Star Spangled Collection
     *   Girls' Knit Kit
-    *   Iron Knees Pants
+    *   Kids' Iron Knees Pants
     *   School Uniforms
     *   Sale
     
     Girls>.
     
-    *   Swimsuits
-    *   Outerwear
-    *   Tops
-    *   Dresses
-    *   Pants &. Leggings
-    *   Jeans
-    *   Skirts &. Skorts
-    *   Shorts
-    *   Blazers
-    *   Sweaters
-    *   Shoes
-    *   Accessories
-    *   Backpacks &. Lunch Boxes
-    *   Long Underwear
-    *   Pajamas &. Robes
+    *   Shop All Girls
+    *   Girls' Swimsuits
+    *   Girls' Tops
+    *   Girls' Sweaters
+    *   Girls' Dresses
+    *   Girls' Pants &. Leggings
+    *   Girls' Jeans
+    *   Girls' Shorts
+    *   Girls' Skirts &. Skorts
+    *   Girls' Outerwear
+    *   Girls' Blazers
+    *   Girls' Shoes
+    *   Girls' Backpacks &. Lunch Boxes
+    *   Girls' Accessories
+    *   Girls' Long Underwear
+    *   Girls' Pajamas &. Robes
     
     Boys>.
-    *   Swimsuits
-    *   Outerwear
-    *   Tops
-    *   Pants
-    *   Jeans
-    *   Shorts
-    *   Activewear
-    *   Blazers
-    *   Sweaters
-    *   Shoes
-    *   Accessories
-    *   Backpacks &. Lunch Boxes
-    *   Long Underwear
-    *   Pajamas &. Robes
+    *   Shop All Boys
+    *   Boys' Swimsuits
+    *   Boys' Tops
+    *   Boys' Sweaters
+    *   Boys' Pants
+    *   Boys' Jeans
+    *   Boys' Shorts
+    *   Boys' Activewear
+    *   Boys' Outerwear
+    *   Boys' Blazers
+    *   Boys' Shoes
+    *   Boys' Backpacks &. Lunch Boxes
+    *   Boys' Accessories
+    *   Boys' Long Underwear
+    *   Boys' Pajamas &. Robes
 *   Swim WOMEN'S SWIMSUITS>.
     
     *   Tankinis &. Bikinis
@@ -447,8 +448,8 @@ menu Close 0 Free Shipping on $50+
         *   The Starfish Collection
         *   Tunic Shop
         *   Sale
-    *   BAGS
-    *   SHOES
+    *   WOMEN'S BAGS
+    *   WOMEN'S SHOES
         *   Back
         *   View All
         *   Athletic &. Water
@@ -458,7 +459,7 @@ menu Close 0 Free Shipping on $50+
         *   Flats
         *   Heels
         *   Slippers
-    *   ACCESSORIES
+    *   WOMEN'S ACCESSORIES
         *   Back
         *   View All
         *   Scarves
@@ -497,7 +498,8 @@ menu Close 0 Free Shipping on $50+
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
         *   Sale
-    *   SHOES
+    *   MEN'S BAGS
+    *   MEN'S SHOES
         *   Back
         *   View All
         *   Athletic &. Water
@@ -506,7 +508,7 @@ menu Close 0 Free Shipping on $50+
         *   Boots
         *   Dress
         *   Slippers
-    *   ACCESSORIES
+    *   MEN'S ACCESSORIES
         *   Back
         *   View All
         *   Belts
@@ -532,21 +534,20 @@ menu Close 0 Free Shipping on $50+
     *   Activewear
     *   Pajamas &. Robes
     *   Underwear &. Long Underwear
-    *   Bags
 *   Kids
     *   Back
     *   Shop all Kids
     *   SHOP BY AGE RANGE
         *   Back
-        *   Toddler Girl (2T-4T)
-        *   Little Girl (size 4-7)
-        *   Big Girl (size 7-16)
-        *   Girl Plus (size 7+-16+)
+        *   Toddler Girls (2T-4T)
+        *   Little Girls (4-7)
+        *   Big Girls (7-16)
+        *   Girls' Plus Sizes
         
-        *   Toddler Boy (2T-4T)
-        *   Little Boy (size 4-7)
-        *   Big Boy (size 7-20)
-        *   Boy Husky (size 8H-20H)
+        *   Toddler Boys (2T-4T)
+        *   Little Boys (4-7)
+        *   Big Boys (7-20)
+        *   Boys' Husky Sizes
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
@@ -554,44 +555,46 @@ menu Close 0 Free Shipping on $50+
         *   Kids' Backpacks &. Lunch Boxes
         *   Kids' Star Spangled Collection
         *   Girls' Knit Kit
-        *   Iron Knees Pants
+        *   Kids' Iron Knees Pants
         *   School Uniforms
         *   Sale
     *   Girls
         *   Back
         *   View All
-        *   Swimsuits
-        *   Outerwear
-        *   Tops
-        *   Dresses
-        *   Pants &. Leggings
-        *   Jeans
-        *   Skirts &. Skorts
-        *   Shorts
-        *   Blazers
-        *   Sweaters
-        *   Shoes
-        *   Accessories
-        *   Backpacks &. Lunch Boxes
-        *   Long Underwear
-        *   Pajamas &. Robes
+        *   Shop All Girls
+        *   Girls' Swimsuits
+        *   Girls' Tops
+        *   Girls' Sweaters
+        *   Girls' Dresses
+        *   Girls' Pants &. Leggings
+        *   Girls' Jeans
+        *   Girls' Shorts
+        *   Girls' Skirts &. Skorts
+        *   Girls' Outerwear
+        *   Girls' Blazers
+        *   Girls' Shoes
+        *   Girls' Backpacks &. Lunch Boxes
+        *   Girls' Accessories
+        *   Girls' Long Underwear
+        *   Girls' Pajamas &. Robes
     *   Boys
         *   Back
         *   View All
-        *   Swimsuits
-        *   Outerwear
-        *   Tops
-        *   Pants
-        *   Jeans
-        *   Shorts
-        *   Activewear
-        *   Blazers
-        *   Sweaters
-        *   Shoes
-        *   Accessories
-        *   Backpacks &. Lunch Boxes
-        *   Long Underwear
-        *   Pajamas &. Robes
+        *   Shop All Boys
+        *   Boys' Swimsuits
+        *   Boys' Tops
+        *   Boys' Sweaters
+        *   Boys' Pants
+        *   Boys' Jeans
+        *   Boys' Shorts
+        *   Boys' Activewear
+        *   Boys' Outerwear
+        *   Boys' Blazers
+        *   Boys' Shoes
+        *   Boys' Backpacks &. Lunch Boxes
+        *   Boys' Accessories
+        *   Boys' Long Underwear
+        *   Boys' Pajamas &. Robes
 *   Swim
     *   Back
     *   Shop all Swim
@@ -872,11 +875,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
+Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
