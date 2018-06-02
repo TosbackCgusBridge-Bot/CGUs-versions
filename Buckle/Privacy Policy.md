@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-The dress code to live by: fun in the sun. Shop Swim.
+THE DRESS CODE TO LIVE BY: FUN IN THE SUN. SHOP SUMMER.
 
 *   Women
 *   Men
