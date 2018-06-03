@@ -8,16 +8,16 @@ Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
-*   Money Subaru (87 miles)
-*   DuTeau Subaru (117 miles)
-*   Briggs Subaru of Topeka (164 miles)
-*   Baxter Subaru (164 miles)
-*   Subaru of Wichita (165 miles)
-*   Beardmore Subaru (166 miles)
+*   Shortline Subaru (7 miles)
+*   Groove Subaru (8 miles)
+*   Mike Shaw Subaru (9 miles)
+*   AutoNation Subaru West (10 miles)
+*   AutoNation Subaru Arapahoe (12 miles)
+*   Flatirons Subaru (21 miles)
 
 Submit
 
-*   Your Location: **66952**
+*   Your Location: **80202**
 *   For Owners
 *   Customer Support
 *   Search
@@ -490,4 +490,4 @@ Your location cannot be displayed.
 
 To connect with Subaru of Hawaii, please click here
 
-<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065529365/?value=0&guid=ON&script=0"/>. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1139158252766221&ev=PageView&noscript=1" /><img src="//bat.bing.com/action/0?ti=5066940&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />
+<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065529365/?value=0&guid=ON&script=0"/>. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1139158252766221&ev=PageView&noscript=1" /><img src="//bat.bing.com/action/0?ti=5066940&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />.
