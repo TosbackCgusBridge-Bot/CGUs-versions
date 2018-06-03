@@ -1,4 +1,4 @@
-Make room! Up to 60% off Home Sale - Shop the store adSee DetailsAccessible View
+Accessible View
 
 *   My AccountSign In Sign InNew Customer? Register Here
     *   My Account
@@ -17,11 +17,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 4 OF COUPON CODE 16TOSHOP ENDS IN
-
-\*offer ends 6/6/18
-
-Days 0 0 0 0 hours 3 3 9 9 mins 2 2 9 8 secs $9.99 MEN'S POLOSShop All$9.99 MEN'S POLOSShop All
+Near YouFind a StoreBack$9.99 MEN'S POLOSShop All$9.99 MEN'S POLOSShop All
 
 *   $9.99 sale
     
@@ -46,7 +42,7 @@ Days 0 0 0 0 hours 3 3 9 9 mins 2 2 9 8 secs $9.99 MEN'S POLOSShop All$9.99 MEN'
     was $30 St. John's Bay Short Sleeve Stripe Pique Polo Shirt(4)Add To Cart
 *   $9.99 sale
     
-    was $30 St. John's Bay Short Sleeve Stripe Pique Polo Shirt(6)Add To Cart
+    was $30 St. John's Bay® Short-Sleeve Legacy Oxford Piqué PoloAdd To Cart
 
 SAVE ON LIZ CLAIBORNEShop AllSAVE ON LIZ CLAIBORNEShop All
 
@@ -65,7 +61,7 @@ SAVE ON LIZ CLAIBORNEShop AllSAVE ON LIZ CLAIBORNEShop All
 *   $24.99 sale
     
     was $44 Liz Claiborne Short Sleeve Round Neck T-Shirt-Womens PetitesAdd To Cart
-*   $24.99 - $26.40 sale
+*   $26.40 sale
     
     was $44 Liz Claiborne Wide Leg Knit PantsAdd To Cart
 *   $22.20 sale
@@ -86,15 +82,15 @@ GREAT GIFTS FOR DAD UNDER $25Shop AllGREAT GIFTS FOR DAD UNDER $25Shop All
 *   $24.99 sale
     
     was $50 Dockers Hanging Travel KitAdd To Cart
-*   $11.99 sale
-    
-    was $25 Tri-Coastal Design 5 Piece Travel Toiletry SetAdd To Cart
 *   $9.99 sale
     
     was $20 Tri-Coastal Design 2 Piece Shave Set with BrushAdd To Cart
 *   $14.99 sale
     
     was $30 Tri-Coastal Design 6 Piece Shave SetAdd To Cart
+*   $11.99 sale
+    
+    was $25 Tri-Coastal Design 5 Piece Travel Toiletry SetAdd To Cart
 *   $8.99 sale
     
     was $18 Tri-Coastal Design 6 Piece Men's Manicure KitAdd To Cart
