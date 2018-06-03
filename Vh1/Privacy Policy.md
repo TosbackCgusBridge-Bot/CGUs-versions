@@ -383,8 +383,6 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 
 Copyright © 2017 Viacom International Inc. - All Rights Reserved.
 
-closeAll ResultsShowsEpisodesVideosNewsEventsTrending
-
 *   FAQ/Help
 *   Jobs
 *   Terms of Use \[Updated 3/14/2017\]
