@@ -129,7 +129,7 @@ Play With So Many Different Choices, Video hotspot
 
 Mega Man 11 launches October 2 on PS4! Get a first look at the Blue Bomber's new game-changing Double Gear system
 
-3 days ago
+4 days ago
 
 View Tweet
 
