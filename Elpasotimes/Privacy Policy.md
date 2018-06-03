@@ -75,7 +75,7 @@ close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events9
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTeens arrested in West Side car burglary spreeCrimeTruck crashes in police chase, 2 arrestedCrimeHearing reset for man accused of killing agentCrimeEPISD considers school closuresEducationSurprise! Dad returns from Iraq for graduationEducationEl Paso Downtown Street Festival to move to fallNewsEl Paso Pride Parade marks start of Pride MonthNewsLawsuits may doom El Paso developer's dreamBusinessSouthwest will add El Paso to Denver flightLocalWhere to find free donuts and deals in El PasoLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPolice say Good Samaritan killed in I-10 crashLocalSolemn prayer service for Cliff Tucker's familySportsTruck crashes in police chase, 2 arrestedCrimeEl Paso Downtown Street Festival to move to fallNewsTeens arrested in West Side car burglary spreeCrimeEPISD school closures: What we know so farEducationSurprise! Dad returns from Iraq for graduationEducationEl Paso Pride Parade marks start of Pride MonthNewsHearing reset for man accused of killing agentCrimeMan hit by car on Paisano near Fox PlazaLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
