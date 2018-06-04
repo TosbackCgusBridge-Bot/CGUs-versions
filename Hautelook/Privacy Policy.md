@@ -8,16 +8,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Vertigo Up to 85% Off
+    *   New Markdowns: Lingerie &. More Up to 70% Off
+    *   Jewelry Box Essentials Up to 80% Off
+    *   Shoes Up to 70% Off
+    *   Vintage Addiction Up to 80% Off
+    *   Sunday Steals Up to 80% Off
+    *   Free Shipping: Modern Rugs Up to 70% Off
+    *   Hair Tool Blowout
+    *   Men's Final Few Up to 70% Off
+    *   Men's Shoes Up to 65% Off
+    *   Lucky Brand Incl. Plus
+    *   Michael Stars
+    *   Soprano
+    *   Dress Forum
+    *   14K Gold Rush: Charms, Hoops &. More
+    *   Season's Best: Jackets &. Coats Up to 70% Off
+    *   CQ by CQ
+    *   Trask Up to 55% Off
+    *   Skechers
+    *   Avah &. Ella Jewelry Starting at $20
+    *   PURA D'OR Hair Care Up to 50% Off
+    *   Cecelia New York
+    *   David Donahue Tailored Clothing
+    *   Swims Up to 65% Off
+    *   Italian Made: Designer Sun Up to 65% Off
+    *   Citizen Eco-Drive Watches &. More Starting at $80
+    *   Karl Lagerfeld
+    *   Psycho Bunny Lounge &. More
+    *   Jarv Tech Accessory Blowout
+    *   Free Shipping: Kitchen Gadgets Starting at $10
+    *   Lilac Maternity
+    *   Babyface
+    *   Great Gear for Baby
     *   Naked Zebra
     *   Go Couture
-    *   Gucci Jewelry
-    *   Sanctuary
     *   Seven7
     *   Polo Ralph Lauren Lounge &. More
     *   Jessica Simpson Shoes Under $50
     *   LIKELY
     *   Posh Couture
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
+    
     *   Blanc Noir Sport
     *   PJs All Day: Sleep Sets &. More
     *   Rachel Zoe Shoes
@@ -41,8 +73,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   DL1961
     *   PUMA
     *   bebe Sport
-    
-    *   LAMARQUE Up to 60% Off
     *   Bed|Stu
     *   Summer Refresh: Beulah &. More
     *   ZAC Zac Posen Up to 75% Off
@@ -61,59 +91,72 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   PUMA Kids' Active
     *   Free Shipping: Sports Memorabilia &. More
     *   Country Meets City: Wooden Wall Art &. More
+    
     *   Free Shipping: Pillow &. Throw Blowout
-    *   Joie Shoes Up to 50% Off
     *   Murad
-    *   Free Shipping: 14K Gold Jewelry &. More
     *   NuFACE Facial Toning Devices
     *   Zoe Ayla Cosmetics Up to 80% Off
     *   Onia
     *   Civil Society &. More
     *   X-Ray Men's Shoes Under $35
     *   Kenneth Cole New York Men
-    *   Diesel Men's Underwear &. More
-    *   Indigo Star Under $35
+    *   Perfect Fit: Rings in Sizes 4-12 Starting at $20
+    *   Boho Chic: Trend Jewelry Starting at $10
     *   Free Shipping: Pop Art Pillows Under $20
     *   Free Shipping: Accent Chairs, Tables &. More
-    
     *   Free Shipping: One-of-a-Kind Kantha Throws
     *   Boho Looks for Girls ft. Mimi &. Maggie
     *   Girls' Brands We Love
     *   Boys' Brands We Love
     *   To the Beach: Kids' Swim
     *   Best of Harper Canyon: Shoes Under $30
-    *   Short Sleeve Shirts Up to 65% Off
     *   tarte cosmetics
-    *   Tailored Excellence: Suits Under $200
-    *   MUK LUKS Men Starting at $15
     *   Free Shipping: Budget-Friendly Rugs
     *   Ultra-Soft Towels Up to 65% Off
     *   Plants with Personality: Faux Succulents &. More
-    *   Free Shipping: Chic Beach Tents &. Towels
+    *   Gucci Jewelry
     *   SmoothBag Inflatable Furniture
     *   Great Gifts: Jack Spade, Braven &. More
-    *   The Beat Goes On: Record Players &. More
-    *   PMD Personal Microderm Up to 50% Off
-    *   Manna Kadar Cosmetics Up to 75% Off
+    *   TOV
     *   Free Shipping: Hand-Painted Replicas Up to 70% Off
     *   Free Shipping: Luxe Rug Steals
     *   Free Shipping: Colorful Kitchen Essentials
-    *   Free Shipping: Kitchen Finds Up to 65% Off
-    *   Organization Essentials Starting at $10
-    *   Free Shipping: Unique Indoor/Outdoor Rugs &. More
+    *   Sanctuary
+    *   LAMARQUE Up to 60% Off
     *   Free Shipping: NMK Bedding Blowout
-    *   Perfect Fit: Rings in Sizes 4-12 Starting at $20
-    *   Boho Chic: Trend Jewelry Starting at $10
-    *   TOV
     *   Raisins Swim &. More Incl. Plus Under $35
     *   Karen Kane
     *   Velvet by Graham &. Spencer Starting at $25
+    *   Diesel Men's Underwear &. More
+    *   Indigo Star Under $35
+    *   Free Shipping: Chic Beach Tents &. Towels
+    *   The Beat Goes On: Record Players &. More
 *   WomenShop Sale Events
     
+    *   Vertigo Up to 85% Off
+    *   New Markdowns: Lingerie &. More Up to 70% Off
+    *   Jewelry Box Essentials Up to 80% Off
+    *   Shoes Up to 70% Off
+    *   Vintage Addiction Up to 80% Off
+    *   Sunday Steals Up to 80% Off
+    *   Hair Tool Blowout
+    *   Lucky Brand Incl. Plus
+    *   Michael Stars
+    *   Soprano
+    *   Dress Forum
+    *   14K Gold Rush: Charms, Hoops &. More
+    *   Season's Best: Jackets &. Coats Up to 70% Off
+    *   CQ by CQ
+    *   Trask Up to 55% Off
+    *   Skechers
+    *   Avah &. Ella Jewelry Starting at $20
+    *   PURA D'OR Hair Care Up to 50% Off
+    *   Cecelia New York
+    *   Italian Made: Designer Sun Up to 65% Off
+    *   Citizen Eco-Drive Watches &. More Starting at $80
+    *   Lilac Maternity
     *   Naked Zebra
     *   Go Couture
-    *   Gucci Jewelry
-    *   Sanctuary
     *   Seven7
     *   Jessica Simpson Shoes Under $50
     *   LIKELY
@@ -124,6 +167,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rachel Zoe Shoes
     *   On-Trend Earrings &. More Under $25
     *   Casual-Chic Bags ft. Born
+    
     *   Korean Beauty: Secret Key from $10
     *   Day to Night: Block Heel Shoes for Summer
     *   Plus Shop: Dresses Under $40
@@ -135,8 +179,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   DL1961
     *   PUMA
     *   bebe Sport
-    
-    *   LAMARQUE Up to 60% Off
     *   Bed|Stu
     *   Summer Refresh: Beulah &. More
     *   ZAC Zac Posen Up to 75% Off
@@ -147,17 +189,16 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rodial Skin Care
     *   Technomarine Watches Up to 70% Off
     *   Teami Blends Detox Teas &. Supplements
-    *   Joie Shoes Up to 50% Off
     *   Murad
-    *   Free Shipping: 14K Gold Jewelry &. More
     *   NuFACE Facial Toning Devices
     *   Zoe Ayla Cosmetics Up to 80% Off
-    *   tarte cosmetics
-    *   PMD Personal Microderm Up to 50% Off
-    *   Manna Kadar Cosmetics Up to 75% Off
     *   Perfect Fit: Rings in Sizes 4-12 Starting at $20
     *   Boho Chic: Trend Jewelry Starting at $10
+    *   tarte cosmetics
+    *   Gucci Jewelry
     *   TOV
+    *   Sanctuary
+    *   LAMARQUE Up to 60% Off
     *   Raisins Swim &. More Incl. Plus Under $35
     *   Karen Kane
     *   Velvet by Graham &. Spencer Starting at $25
@@ -166,26 +207,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Tech Accessories
-    *   Lingerie
     *   Handbags
-    *   Accessories
+    *   Lingerie
+    *   Tech Accessories
     *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Final Few Up to 70% Off
+    *   Men's Shoes Up to 65% Off
+    *   David Donahue Tailored Clothing
+    *   Swims Up to 65% Off
+    *   Italian Made: Designer Sun Up to 65% Off
+    *   Citizen Eco-Drive Watches &. More Starting at $80
+    *   Karl Lagerfeld
+    *   Psycho Bunny Lounge &. More
     *   Polo Ralph Lauren Lounge &. More
     *   Mezlan Up to 50% Off
     *   Coastal Under $30
     *   Loft 604
     *   GUESS Men's Shoes Starting at $25
     *   Extended Sizes: Men's Shoes
+    
     *   Ray-Ban Up to 50% Off
     *   PUMA Men
     *   PUMA Men's Active
     *   SPYDER
     *   Lost &. More
     *   Seven7 Up to 75% Off
-    
     *   Technomarine Watches Up to 70% Off
     *   Teami Blends Detox Teas &. Supplements
     *   Onia
@@ -194,9 +243,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kenneth Cole New York Men
     *   Diesel Men's Underwear &. More
     *   Indigo Star Under $35
-    *   Short Sleeve Shirts Up to 65% Off
-    *   Tailored Excellence: Suits Under $200
-    *   MUK LUKS Men Starting at $15
     
     Shop By Category
     *   Clothing
@@ -205,6 +251,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Lilac Maternity
+    *   Babyface
+    *   Great Gear for Baby
     *   PUMA Kids' Active
     *   Boho Looks for Girls ft. Mimi &. Maggie
     *   Girls' Brands We Love
@@ -214,8 +263,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Girls' Shoes
     *   Boys Sizes 2T-7
+    *   Girls' Shoes
     *   Girls Sizes 7-16
     *   Boys' Shoes
     *   Boys Sizes 8-20
@@ -225,6 +274,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kids Accessories
 *   HomeShop Sale Events
     
+    *   Free Shipping: Modern Rugs Up to 70% Off
+    *   Jarv Tech Accessory Blowout
+    *   Free Shipping: Kitchen Gadgets Starting at $10
     *   DKNY Bath Accessories from $10
     *   Free Shipping: Colorful Dishware, Glassware &. More
     *   Free Shipping: Sports Memorabilia &. More
@@ -233,21 +285,18 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Pop Art Pillows Under $20
     *   Free Shipping: Accent Chairs, Tables &. More
     *   Free Shipping: One-of-a-Kind Kantha Throws
+    
     *   Free Shipping: Budget-Friendly Rugs
     *   Ultra-Soft Towels Up to 65% Off
     *   Plants with Personality: Faux Succulents &. More
-    
-    *   Free Shipping: Chic Beach Tents &. Towels
     *   SmoothBag Inflatable Furniture
     *   Great Gifts: Jack Spade, Braven &. More
-    *   The Beat Goes On: Record Players &. More
     *   Free Shipping: Hand-Painted Replicas Up to 70% Off
     *   Free Shipping: Luxe Rug Steals
     *   Free Shipping: Colorful Kitchen Essentials
-    *   Free Shipping: Kitchen Finds Up to 65% Off
-    *   Organization Essentials Starting at $10
-    *   Free Shipping: Unique Indoor/Outdoor Rugs &. More
     *   Free Shipping: NMK Bedding Blowout
+    *   Free Shipping: Chic Beach Tents &. Towels
+    *   The Beat Goes On: Record Players &. More
     
     Shop By Category
     *   Home Decor
@@ -256,27 +305,28 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bedding
     *   Accent Furniture
     *   Outdoor Living
-    *   Organization
     *   Luggage &. Travel
+    *   Organization
 *   BeautyShop Sale Events
     
+    *   Hair Tool Blowout
+    *   PURA D'OR Hair Care Up to 50% Off
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Korean Beauty: Secret Key from $10
     *   Static Nails: Reusable Manicures Starting at $10
     *   Rodial Skin Care
+    
     *   Teami Blends Detox Teas &. Supplements
     *   Murad
-    
     *   NuFACE Facial Toning Devices
     *   Zoe Ayla Cosmetics Up to 80% Off
     *   tarte cosmetics
-    *   PMD Personal Microderm Up to 50% Off
-    *   Manna Kadar Cosmetics Up to 75% Off
     
     Shop By Category
     *   Makeup
     *   Supplements
     *   Skin Care
+    *   Hair Care
     *   Tools &. Accessories
     *   Bath &. Body
 
