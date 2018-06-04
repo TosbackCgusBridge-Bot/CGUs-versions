@@ -536,4 +536,4 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
+SUBMIT CHATHIDE
