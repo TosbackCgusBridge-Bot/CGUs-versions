@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Scott Rasmussen_: Republicans Poised to Gain Senate Seats in 2018
+*   _Irwin Stelzer_: The Trump Jobs Machine Is Roaring
     
-*   _Richard Haass_: A North Korean Opportunity for America and China
+*   _Michael Smolens_: Will San Diego Be 'Blue Wave' Canary in a Coal Mine?
     
-*   _Puzder &. Talent_: Trump's Skillful Diplomacy Puts U.S. in Good Position
+*   _Jonathan Martin_: Senate Republicans Newly Hopeful About the Midterms
     
-*   _Robin Wright_: North Korea Summit Is Back On--But Don't Expect Miracles
+*   _Rep. Dave Brat_: When Red States Go Blue
     
-*   _Matthew Continetti_: Obama's Revealing Reaction to Trump's Victory
+*   _Albert Hunt_: Trump's Presidency Is Built Upon Double Standards
     
-*   _Dana Milbank_: Obama Was Right: He Came Too Early
+*   _Derek Hunter_: Liberals (Once Again) Exempt Themselves From the Rules
     
-*   _D.C. McAllister_: The Real Reason the FBI Had a Spy in the Trump Campaign
+*   _Brian Greenspun_: We Must Restore Checks &. Balances
+    
+*   _Clarice Feldman_: Disney/ABC Should Merge With Starbucks &. NFL
+    
+*   _John Podesta_: At the Top of the New Enemies List: Jeff Bezos
+    
+*   _John Hinderaker_: The Left-Wing Internet Oligarchs Strike Again
+    
+*   _Errol Louis_: What Rudy's Rants Can't Do For Trump
+    
+*   _Heather Wilhelm_: CNN's Astonishing Silliness Pervades U.S. Airports
+    
+*   _Maureen Dowd_: Barack Obama -- Just Too Good for Us
+    
+*   _Roger Kimball_: A Clueless 'Final Year'
+    
+*   _Alan Draper_: Dear Liberals: Trump Is Awful, But He's Not the Apocalypse
+    
+*   _Steve Cortes_: Trump Lifts the Economic Underdogs
     
 *   _Tom McCarthy_: Trump &. the Erosion of Democratic Norms in America
     
-*   _Dinesh D'Souza_: A Behind-the-Scenes Look at My Presidential Pardon
+*   _Michael Goodwin_: James Comey Isn't Above the Law
     
-*   _Jen Chaney_: Bee's Joke Isn't the Same as Barr's Tweet
+*   _Carl M. Cannon_: Robert Mueller, Ken Starr and the 'Witch Hunt'
     
-*   _Eddie Scarry_: Firing Bee Is Pointless--Liberal Comedy's Already Collapsed
+*   _Andrew McCarthy_: Papadopoulos Prosecution Looks More &. More a Problem
     
-*   _Daniel McCarthy_: If This Is a Trade War, the United States Will Win
+*   _Chuck Todd_: Trump's 'Spygate' a B.S. Story
     
-*   _Michael Kruse_: No, Trump Is Not Really a Master Negotiator
+*   _Sara Carter_: New Evidence Contradicts DOJ/FBI Timeline Leaked to Dem Media
     
-*   _Kotkin &. Cox_: The Fight for Our Future Belongs to the 'Burbs
+*   _Ben Rhodes_: Inside the White House During the Syrian 'Red Line' Crisis
     
-*   _Peter Berkowitz_: Duke Erodes Liberal Education
-    
-*   _Andrew Sullivan_: Is the World Done With Liberal Democracy?
-    
-*   _David Goldman_: The Safest Country for European Jews? Try Hungary
-    
-*   _Joe Concha_: Joy Reid Apologizes for Old Posts But Avoids Hacking Claim
-    
-*   _John Schoen_: May Jobs Report Is Great News for Everyone - Except Dems
-    
-*   _Russell Berman_: The Outrage Behind Trump's Market-Shaking Tweet
-    
-*   _Emily Jashinsky_: Samantha Bee &. Hollywood's Diminished Credibility
-    
-*   _Christine Estima_: Let Sam Bee! Ivanka Comments Were 'Locker Room Talk'
-    
-*   _Marc Thiessen_: Dem Dishonesty on MS-13 Hands Trump a Winning Issue
-    
-*   _John Brennan_: I Will Speak Out Until Integrity Returns to the White House
+*   _Andrew Coyne_: A Trade War Canada Will Lose
     
 
 *   Previous
@@ -245,6 +245,15 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   California 49th District - Open PrimarySurveyUSA
+    *   Harkey24
+    *   Applegate11
+    *   Jacobs11
+    *   Levin10
+    *   Chavez8
+    *   Kerr8
+    *   Maryott6
+    *   Gaspar5Harkey +13
 *   Massachusetts Senate - Lindstrom vs. WarrenWBUR/MassINC\*
     *   Warren55
     *   Lindstrom19Warren +36
@@ -254,17 +263,14 @@ Latest PollsAll Polls
 *   Massachusetts Senate - Kingston vs. WarrenWBUR/MassINC\*
     *   Warren56
     *   Kingston19Warren +37
-*   Massachusetts Governor - Baker vs. GonzalezWBUR/MassINC
-    *   Baker60
-    *   Gonzalez20Baker +40
 
 More Latest Polls In The News
 
+*   Chris Christie: If Trump Tried To Pardon Himself, He Would Be Impeached
+*   Canadian Foreign Minister on Tariffs to Trump: Do You Really Think Canada Is A Threat?
+*   Giuliani: If Mueller Tries To Subpoena Trump, "We're Going To Court"
+*   Maher: Republican Party Has Turned Into The "Alex Jones Party," They'll Believe Anything
 *   David Brooks on Roseanne, Samantha Bee: Caused By Trump Setting New Norms About What Can Be Said
-*   Rep. Adam Schiff: Dinesh D'Souza Pardon Is A "Transparent" Message To Michael Cohen
-*   Full Replay: President Trump Announces North Korea Summit Is Back On, June 12 In Singapore
-*   Full Replay: President Trump Speaks At Coast Guard Change-of-Command Ceremony
-*   NBC's Chuck Todd on 'Spygate': We Know This Is A B.S. Story That Is Going To Go Away In Five Days
 
 *   Politics
 *   Policy
