@@ -137,11 +137,11 @@ LATEST ON TWITTER
 
 My week on Twitter : 14 Mentions, 1.47K Mention Reach, 9 Likes, 2 Retweets, 33K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LhME…
 
-About 5 days ago
+About 6 days ago
 
 Our biggest fans this week: @AdMonsters, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/CFJr…
 
-About 6 days ago
+Last week
 
 As GDPR Looms, What Are The Biggest Uncertainties? Our VP of AdOps, @stephsnowint, weighs in bit.ly/2KOMc7o via @adexchanger
 
