@@ -19,15 +19,13 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Board responsibilities
         *   Corporate governance codes last item in this group
     *   Contact us
-        
+        *   Country contacts last item in this group
     
-    *   Structure and network
+    *   Our businesses
         *   Commercial Banking
         *   Global Banking and Markets
         *   Global Private Banking
-        *   Retail Banking and Wealth Management
-        *   HSBC on social media
-        *   Country contacts last item in this group
+        *   Retail Banking and Wealth Management last item in this group
     *   Company history
         *   History in detail
         *   HSBC’s archives
@@ -105,7 +103,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Media contacts
         *   Media releases
         *   Speeches
-        *   Image gallery last item in this group
+        *   Image gallery
+        *   Social media last item in this group
     *   Insight archive
         
     *   Awards
@@ -356,7 +355,7 @@ Site navigation About HSBC
 *   Our strategy
 *   Leadership
 *   Corporate governance
-*   Structure and network
+*   Our businesses
 *   Company history
 
 Contact Us Our approach
