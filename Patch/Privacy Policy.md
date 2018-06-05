@@ -8,7 +8,7 @@ Toggle navigation Find Your Town Advertise Post Log in
 *   Advertise
 *   Log out
 
-*   Mon, Jun 4
+*   Tue, Jun 5
 
 *   Post
 *   Advertise
