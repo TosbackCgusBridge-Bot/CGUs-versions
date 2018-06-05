@@ -400,15 +400,15 @@ Learn more >.
 
 TODAY'S SALES
 
-Save up to 40% off through June 6 at 4am ET.
+Save up to 40% off through June 7 at 4am ET.
 
 MEMORIAL DAY BUSINESS SALE EXTENDED
 
 Sign up to LenovoPro and receive exclusive EXTENDED access. Sale ends June 6 at 4am ET.
 
-Convertible Flash Sale
+Home Laptop Flash Sale
 
-Save up to $350 off top of the line convertible laptops and accessories. Sale ends June 4 at 4am ET.
+Save up to $180 off select home laptops. Limited Time Only!. Sale ends June 6 at 4am ET.
 
 Yoga 730 15"
 
@@ -536,4 +536,4 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE
+SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
