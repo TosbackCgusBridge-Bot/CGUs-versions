@@ -14,10 +14,10 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   Mattel Communications Preferences
     *   American Girl Communications Preferences
     *   Third-Party Technology List
-*   Contact Us
 *   GDPR Choices
     *   Mattel GDPR Choice Portal
     *   American Girl GDPR Choice Portal
+*   Contact Us
 
 *   Menu
     *   Privacy Statement
@@ -34,10 +34,10 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
         *   Mattel Communications Preferences
         *   American Girl Communications Preferences
         *   Third-Party Technology List
-    *   Contact Us
     *   GDPR Choices
         *   Mattel GDPR Choice Portal
         *   American Girl GDPR Choice Portal
+    *   Contact Us
 
 Mattel Online Privacy Statement
 
