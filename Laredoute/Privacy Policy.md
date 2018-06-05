@@ -453,7 +453,7 @@ Sur Android : https://support.google.com/chrome/topic/3434352
 
 Afin de se conformer à la règlementation, la Redoute utilise un outil permettant à l’internaute de paramètrer le dépôt des cookies lors de sa connexion sur le site www.laredoute.fr
 
-Pour accéder à la liste des cookies déposés et en configurer le dépôt cliquez-ici
+Pour accéder à la liste des cookies déposés et en configurer le dépôt cliquez ici
 
 12.3.4. Liste d’opposition permettant de gérer le dépôt des cookies
 
