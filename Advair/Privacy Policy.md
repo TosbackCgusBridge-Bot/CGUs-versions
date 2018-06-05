@@ -266,6 +266,7 @@ Menu
         *   If you can’t breathe, you won’t be able to play the tuba
         *   Controlled asthma, to me, means freedom
         *   Meet Jennifer: a science researcher whose quest became her own health
+        *   A family diagnosis motivates me to make a difference for people with COPD
     *   Our people
         *   Back
         *   Our people
