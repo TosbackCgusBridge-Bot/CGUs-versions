@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Forecasters predict a near- or above-normal 2018 Atlantic hurricane season New satellite data and model upgrades to give forecasts a boost AROUND NOAA // GOES-17 releases ‘first light’ imagery from its Advanced Baseline Imager \[EXT\] NOAA’s Annual Greenhouse Gas Index ticks up another notch The U.S. is having an incredibly quiet tornado season – so far New, next-generation NOAA polar-orbiting satellite is now operational
+Enter Search Terms It's National Ocean Month. Celebrate with #30DaysofOcean AROUND NOAA // Forecasters predict a near- or above-normal 2018 Atlantic hurricane season GOES-17 releases ‘first light’ imagery from its Advanced Baseline Imager \[EXT\] NOAA’s Annual Greenhouse Gas Index ticks up another notch The U.S. is having an incredibly quiet tornado season – so far
 
 *   About our agency
 *   News and features
@@ -126,5 +126,3 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
-
-iStock
