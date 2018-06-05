@@ -7,26 +7,28 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     *   Solo: A Star Wars Story
     *   Deadpool 2
+    *   Adrift (2018)
     *   Avengers: Infinity War
     *   Book Club
+    *   Upgrade (2018)
     *   Life of the Party
     *   Breaking In (2018)
-    *   Show Dogs
+    *   Action Point
     *   Overboard (2018)
     *   A Quiet Place
-    *   RBG
-    *   Rampage (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Action Point
-    *   Adrift (2018)
-    *   Upgrade (2018)
-    *   American Animals
-    *   Breath (2018)
-    *   A Kid Like Jake
-    *   Social Animals (2018)
+    *   Hereditary
+    *   Hotel Artemis
+    *   Ocean's 8
+    *   Believer (2018)
+    *   Hearts Beat Loud
+    *   On the Seventh Day
+    *   The Quest of Alain Ducasse
+    *   Westwood: Punk, Icon, Activist
+    *   Won't You Be My Neighbor?
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -36,14 +38,15 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     Coming Soon
     
-    *   Hereditary
-    *   Ocean's 8
-    *   Hotel Artemis
     *   SuperFly (2018)
     *   Race 3
     *   Tag (2018)
-    *   Uncle Drew
     *   Sicario: Day of the Soldado
+    *   Uncle Drew
+    *   The First Purge
+    *   Ant-Man and the Wasp
+    *   Hotel Transylvania 3: Summer Vacation
+    *   Skyscraper (2018)
     *   See All Coming Soon
     
     Explore More
@@ -71,9 +74,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Jamie Foxx Is Spawn, What's Next for 'Star Wars' and More Read More
-    *   Blake Lively's Spy Thriller 'The Rhythm Section' Resumes Production. Here's Everything We Know Read More
-    *   10 Incredibly Fun Facts About Pixar’s Incredibles 2 Read More
+    *   'Wreck-It Ralph 2' Trailer Lampoons the Internet. Here's Everything We Know Read More
+    *   Watch Dakota Johnson in First 'Suspiria' Teaser. Here's Everything We Know Read More
+    *   Next 3 Real-Life Comedies: 'Tag,' 'Crazy Rich Asians,' 'Fighting with My Family' Read More
     
     Explore Content
     *   Movie Reviews
@@ -318,9 +321,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   Earn 2X VIP+ POINTS with 'Jurassic World' Ticket Purchase
+*   WELCOME TO THE SUMMER OF MORE
     
-    Earn 2X VIP+ POINTS with your 'Jurassic World: Fallen Kingdom' ticket purchase THIS WEEKEND ONLY. (Yep, every 2 tickets = $6 reward on us!) BUY TICKETS
+    EARN 150 VIP+ POINTS FOR EVERY TICKET YOU BUY. 600 VIP+ Points unlocks a $6 reward. SEE DETAILS
     
 *   'Solo: A Star Wars Story' Gift With Purchase
     
@@ -380,4 +383,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango sponsoredsponsoredsponsored
