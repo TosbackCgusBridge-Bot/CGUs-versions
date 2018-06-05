@@ -36,7 +36,6 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Stock Up Flash Sale
 *   Buy 1 Get 2 Free Tees
 *   Create Your Suit for $12
 *   $5.87 Tees
@@ -98,7 +97,6 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Stock Up Flash Sale
 *   Buy 1 Get 2 Free Tees
 *   Buy 1 Get 2 Accessories
 *   Americana Shop
@@ -282,7 +280,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**SAVE UP TO 15% OFF** USE CODE **FLASH15** **50-70% OFF + FREE SHIPPING OVER $75** 
+**BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **50-70% OFF + FREE SHIPPING OVER $75** 
 
 *   My Account My Account Login Register
 
@@ -294,7 +292,6 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Stock Up Flash Sale
         *   Buy 1 Get 2 Free Tees
         *   Create Your Suit for $12
         *   $5.87 Tees
@@ -351,7 +348,6 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Stock Up Flash Sale
         *   Buy 1 Get 2 Free Tees
         *   Buy 1 Get 2 Accessories
         *   Americana Shop
@@ -519,7 +515,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Girls Graphic Tees Guys Graphic Tees Girls Shorts Guys Shorts Girls Polos Guys Polos Girls Camis + Tanks Guys Tanks Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Girls Graphic Tees Guys Graphic Tees Girls Shorts Guys Shorts Girls Polos Guys Polos Girls Camis + Tanks Guys Tanks Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -553,4 +549,4 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
