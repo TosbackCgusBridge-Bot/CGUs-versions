@@ -49,22 +49,32 @@ If you download one of our Apps, you may choose to permit the App to obtain your
 
 Our system may not respond to Do Not Track requests or headers from some or all browsers. We may use cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use. To understand your choices for receiving more relevant advertising or to manage your settings, please review the information below:
 
-• To learn more about managing your privacy and storage settings and opting out from receiving third party advertiser cookies, you may visit the Network Advertising Initiative's opt-out page at http://www.networkadvertising.org/managing/opt\_out.asp.  
-• If you wish to prevent your data from being used by Google Analytics, Google has developed the Google Analytics opt-out browser add-on available at https://tools.google.com/dlpage/gaoptout/.  
+• To learn more about managing your privacy and storage settings and opting out from receiving third party advertiser cookies, you may visit the Network Advertising Initiative's opt-out page at http://www.networkadvertising.org/managing/opt\_out.asp.
+
+• If you wish to prevent your data from being used by Google Analytics, Google has developed the Google Analytics opt-out browser add-on available at https://tools.google.com/dlpage/gaoptout/.
+
 • On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.
 
 **Q: How does Gilt use the information collected?**
 
 A: Gilt may use the information we collect from and about you for any of the following purposes:
 
-• To validate, confirm, verify, deliver, install, and track your order (including to process payment card transactions, arrange for shipping, handle returns and refunds, maintain a record of the purchases you make, and contact you about your orders, including by telephone) or to service products you purchased from us.  
-• To enhance your online shopping experience, including as a way to recognize you and welcome you to the Site or App.  
-• To send you catalogs, information, newsletters, promotional materials and other offerings from Gilt or on behalf of our partners and affiliates.  
-• To provide you with customized Site or App content, targeted offers, promotions and advertising on the Site or App, through other third party sites or apps, or via email, text messages, or App push notifications that are offered by Gilt or other marketing partners that might be of interest to you.  
-• To improve our sites, products/services, customer service, and customer shopping experience.  
-• To use your data in an aggregated non-specific format for analytical and demographic purposes.  
-• To protect the security or integrity of the Site and our business, such as by protecting against and preventing fraud, unauthorized transactions, claims and other liabilities, and managing risk exposure, including by identifying potential hackers and other unauthorized users.  
-• To contact you when necessary or requested, including responding to your questions and comments and providing customer support.  
+• To validate, confirm, verify, deliver, install, and track your order (including to process payment card transactions, arrange for shipping, handle returns and refunds, maintain a record of the purchases you make, and contact you about your orders, including by telephone) or to service products you purchased from us.
+
+• To enhance your online shopping experience, including as a way to recognize you and welcome you to the Site or App.
+
+• To send you catalogs, information, newsletters, promotional materials and other offerings from Gilt or on behalf of our partners and affiliates.
+
+• To provide you with customized Site or App content, targeted offers, promotions and advertising on the Site or App, through other third party sites or apps, or via email, text messages, or App push notifications that are offered by Gilt or other marketing partners that might be of interest to you.
+
+• To improve our sites, products/services, customer service, and customer shopping experience.
+
+• To use your data in an aggregated non-specific format for analytical and demographic purposes.
+
+• To protect the security or integrity of the Site and our business, such as by protecting against and preventing fraud, unauthorized transactions, claims and other liabilities, and managing risk exposure, including by identifying potential hackers and other unauthorized users.
+
+• To contact you when necessary or requested, including responding to your questions and comments and providing customer support.
+
 • As otherwise described to you at the point of data collection. 
 
 **Q: What information does Gilt share with others?**
