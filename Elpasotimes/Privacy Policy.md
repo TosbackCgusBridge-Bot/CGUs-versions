@@ -1,3 +1,5 @@
+SUBSCRIBE NOW99¢ per month. Save 90%
+
 *   Home
 *   News
 *   Sports
@@ -73,7 +75,7 @@
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso seek suspect in woman's slayingCrimePolice say Good Samaritan killed in I-10 crashLocalPolice responding to serious crash near AirwayTrafficMan arrested in Payless, Dollar General robberiesCrimeTop takeaways from Pride 2018LocalMan hit by car on Paisano near Fox PlazaLocalBaumann named head coach at Odessa CollegeSportsPolice seek suspect who allegedly ran over victimCrimeSolemn prayer service for Cliff Tucker's familySportsEPISD school closures: What we know so farEducationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMan sentenced to prison in stabbing of parentsCrimeMourners honor sports star, friend Cliff TuckerLocalEl Paso seek suspect in woman's slayingCrimeHistory behind Ysleta High School's stadiumNewsMan arrested in Payless, Dollar General robberiesCrimePolice seek suspect who allegedly ran over victimCrimeYour guide to summer camps for kids in El PasoLocalEl Paso in severe thunderstorm watch till 9 p.m.LocalHow UTEP landed a world class 800 star, againCollegePolice say Good Samaritan killed in I-10 crashLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -143,5 +145,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogclose dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogclose dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per MonthFor 3 MonthsSubscribe Not looking to subscribe right now close dialog
