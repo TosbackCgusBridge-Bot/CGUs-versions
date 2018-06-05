@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Irwin Stelzer_: The Trump Jobs Machine Is Roaring
+*   _Greg Stohr_: Court Tosses Gay-Bias Finding Against Wedding-Cake Baker
     
-*   _Michael Smolens_: Will San Diego Be 'Blue Wave' Canary in a Coal Mine?
+*   _Harry Litman_: President Trump Thinks He Is a King
     
-*   _Jonathan Martin_: Senate Republicans Newly Hopeful About the Midterms
+*   _Michael Graham_: Russia Probe a 'Witch Hunt'? Trump's Case Gets Stronger
     
-*   _Rep. Dave Brat_: When Red States Go Blue
+*   _Benjamin Wittes_: The Flaw in Trump's Obstruction-of-Justice Defense
     
-*   _Albert Hunt_: Trump's Presidency Is Built Upon Double Standards
+*   _Douglas Schoen_: Dems Must Change Leadership, Shift Back to the Center
     
-*   _Derek Hunter_: Liberals (Once Again) Exempt Themselves From the Rules
+*   _Patti Davis_: Mourning America: What My Father Would Say Today
     
-*   _Brian Greenspun_: We Must Restore Checks &. Balances
+*   _Daniel Oliver_: Conservatism: For God, Country and Main Street
     
-*   _Clarice Feldman_: Disney/ABC Should Merge With Starbucks &. NFL
+*   _Newt Gingrich_: China's Embrace of Marxism Is Bad News for Its People
     
-*   _John Podesta_: At the Top of the New Enemies List: Jeff Bezos
+*   _Samantha Vinograd_: President Trump May Be the Skunk at the G7 Party
     
-*   _John Hinderaker_: The Left-Wing Internet Oligarchs Strike Again
+*   _Bill Scher_: Dems: If You Run on Gas Prices, You Run on Empty
     
-*   _Errol Louis_: What Rudy's Rants Can't Do For Trump
+*   _Amanda Fortini_: What Happened in Vegas
     
-*   _Heather Wilhelm_: CNN's Astonishing Silliness Pervades U.S. Airports
+*   _Byron York_: Trump Lawyers Reveal New Evidence in Flynn Case
     
-*   _Maureen Dowd_: Barack Obama -- Just Too Good for Us
+*   _Ruth Marcus_: The Trump Team's Chilling Message to Mueller
     
-*   _Roger Kimball_: A Clueless 'Final Year'
+*   _Frank Miele_: President Is on Solid Ground Laid by Founding Fathers
     
-*   _Alan Draper_: Dear Liberals: Trump Is Awful, But He's Not the Apocalypse
+*   _Matthew Yglesias_: Legal Memo to Mueller Is a Recipe for Tyranny
     
-*   _Steve Cortes_: Trump Lifts the Economic Underdogs
+*   _Jonah Goldberg_: Trump's Water-Carriers on 'Spygate' Like the McCarthy Era
     
-*   _Tom McCarthy_: Trump &. the Erosion of Democratic Norms in America
+*   _Victor Davis Hanson_: Is It OK for Trump to Spy on Dems in 2024?
     
-*   _Michael Goodwin_: James Comey Isn't Above the Law
+*   _Betsy Morais_: Can New Jersey Dems Flip Districts Down the Shore?
     
-*   _Carl M. Cannon_: Robert Mueller, Ken Starr and the 'Witch Hunt'
+*   _Caitlin Huey-Burns_: Crowded Primaries Could Dash Dems' California Dreams
     
-*   _Andrew McCarthy_: Papadopoulos Prosecution Looks More &. More a Problem
+*   _George Will_: McConnell: Playing and Winning the Long Game
     
-*   _Chuck Todd_: Trump's 'Spygate' a B.S. Story
+*   _Charles Blow_: Trump Is Succeeding in Leading Republicans to Ruin
     
-*   _Sara Carter_: New Evidence Contradicts DOJ/FBI Timeline Leaked to Dem Media
+*   _Stephen Moore_: Eight Reasons to Still Hate Obamacare
     
-*   _Ben Rhodes_: Inside the White House During the Syrian 'Red Line' Crisis
+*   _Hal Brands_: How Many U.S. Troops Are in Korea? Maybe Too Many
     
-*   _Andrew Coyne_: A Trade War Canada Will Lose
+*   _Harry Kazianis_: Trump Should Prepare to Walk Out of North Korea Summit
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Crowded Primaries Could Dash Dems' California Dreams
 *   Trump Announces Summit Meeting With Kim Jong Un Is Back On
+*   Gingrich: We're Closer to a Red Wave Than a Blue Wave This Fall
 *   What If 2006 Model Isn't Enough for Democrats?
-*   Carlson: Trump Has Convinced Democrats to Destroy Themselves
-*   U.S. Allies to Fight Trump's Tariffs Plan, Warn of Trade War
 *   Trump Visit Spotlights Competitive Tennessee Senate Race
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -245,32 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   California 49th District - Open PrimarySurveyUSA
-    *   Harkey24
-    *   Applegate11
-    *   Jacobs11
-    *   Levin10
-    *   Chavez8
-    *   Kerr8
-    *   Maryott6
-    *   Gaspar5Harkey +13
-*   Massachusetts Senate - Lindstrom vs. WarrenWBUR/MassINC\*
-    *   Warren55
-    *   Lindstrom19Warren +36
-*   Massachusetts Senate - Diehl vs. WarrenWBUR/MassINC\*
-    *   Warren55
-    *   Diehl19Warren +36
-*   Massachusetts Senate - Kingston vs. WarrenWBUR/MassINC\*
-    *   Warren56
-    *   Kingston19Warren +37
+*   Pennsylvania 1st District - Fitzpatrick vs. WallaceMonmouth
+    *   Fitzpatrick48
+    *   Wallace47Fitzpatrick +1
+*   President Trump Job ApprovalGallup
+    *   Approve41
+    *   Disapprove55Disapprove +14
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove50Disapprove +2
+*   Direction of CountryRasmussen Reports
+    *   Right Direction39
+    *   Wrong Track54Wrong Track +15
 
 More Latest Polls In The News
 
+*   Mark Levin: Of Course Trump Can Pardon Himself. Constitution Protects President From Media Mob
+*   Giuliani vs. Cuomo on Trump Jr. Statement About Meeting With Russians: "I Swear To God, It Was A Mistake"
+*   Clinton on Lewinsky Scandal: "I Did The Right Thing," Nobody Believes I Got Out Of That For Free
 *   Chris Christie: If Trump Tried To Pardon Himself, He Would Be Impeached
-*   Canadian Foreign Minister on Tariffs to Trump: Do You Really Think Canada Is A Threat?
-*   Giuliani: If Mueller Tries To Subpoena Trump, "We're Going To Court"
 *   Maher: Republican Party Has Turned Into The "Alex Jones Party," They'll Believe Anything
-*   David Brooks on Roseanne, Samantha Bee: Caused By Trump Setting New Norms About What Can Be Said
 
 *   Politics
 *   Policy
