@@ -55,7 +55,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Royal Wedding Rumors, Debunked 2 The Best New Hotels in the World 3 5 Families That Could Have Inspired 'Succession' 4 The Best Books to Read This June 5 The Weekly Covet: Rosé Round Up Privacy Policy Dec 1, 2014
+Today's Top Stories 1 10 Inspirational Quotes from Bobby Kennedy 2 The Best Books to Read This June 3 Royal Wedding Rumors, Debunked 4 The Best New Hotels in the World 5 The Ultimate Father's Day Gift Guide Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
