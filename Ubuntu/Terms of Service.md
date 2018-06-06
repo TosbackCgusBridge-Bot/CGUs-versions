@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 05 June 2018 ›
+*   Top Snaps in May 2018 ›
 *   Kubernetes and OpenStack solving AI complexities at scale ›
 *   Design and web team summary – 4 June 2018 ›
 *   The key IoT use cases that will drive 5G adoption ›
-*   Simplifying deployment and management of edge clouds with CPLANE.ai ›
-*   OpenStack Summit Vancouver: Automating the data centre ›
