@@ -93,7 +93,19 @@ Main menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! Sony Artisans Share Tips on Planning for Summer Travel Photography
+search Your browser does not support JavaScript! Introducing the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus
+
+Check It Out
+
+Close
+
+*   Share Introducing the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus on Facebook
+*   Share Introducing the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus on Twitter
+*   Copy URL to share Introducing the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus
+
+Check It Out
+
+<img class="bg-img" class="url(/en\_us/media/content/RX100-VI-600x600.jpg);" alt="RX100 VI Camera">. Sony Artisans Share Tips on Planning for Summer Travel Photography
 
 Learn More
 
@@ -125,7 +137,7 @@ Play Make Your Beach Party Unforgettable Video hotspot
 
 ICYMI: James Cameron announces he will be using the @SonyProUSA VENICE camera system to film Avatar sequels 2 &. 3.
 
-18 hours ago
+1 day ago
 
 View Tweet
 
@@ -283,7 +295,7 @@ Learn More
 
 Experience Lordran in all of its 4K glory. Dark Souls: Remastered is now available in the #SonyRewards catalog.
 
-19 hours ago
+20 hours ago
 
 View Tweet
 
