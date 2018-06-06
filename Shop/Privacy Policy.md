@@ -523,17 +523,3 @@ Laptops Desktops Tablets Accessories Deals Select Country/Region AlgeriaAngolaAr
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
 © 2018   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions  Close
-
-Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
-
-How can we help you today?
-
-CONSUMER SALESCONSUMER SALES BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
-
-Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
-
-1 2 3 4 5 6 7 8 9 10
-
-Please tell us how we can improve your experience:
-
-SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
