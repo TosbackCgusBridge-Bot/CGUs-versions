@@ -850,9 +850,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: SUNFLOWER pin: 3362 DETAILS
+code: LADYBUG pin: 1983 DETAILS
 
 Customer Service Menu
 
