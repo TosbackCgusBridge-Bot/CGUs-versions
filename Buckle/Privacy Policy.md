@@ -23,7 +23,7 @@ THE DRESS CODE TO LIVE BY: FUN IN THE SUN. SHOP SUMMER.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -286,8 +286,9 @@ THE DRESS CODE TO LIVE BY: FUN IN THE SUN. SHOP SUMMER.
         
         *   Gift Guide
         
-        *   Genuine Leather Bags
+        *   Father's Day Gifts
         *   Gifts Under $25
+        *   Genuine Leather Bags
         *   Men's Gifts
         *   Women's Gifts
         *   Men's Denim Shop
