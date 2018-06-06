@@ -179,6 +179,7 @@ La Redoute fait également appel à des sous-traitants pour les opérations suiv
 *   La réalisation d’opérations de maintenance et de développement techniques du site internet, des applications interne et du système d’information La Redoute.
 *   Le recueil des avis clients
 *   L’expédition des emails de prospection commerciale et des notifications mobiles
+*   La vente de voyages
 
 La Redoute peut également partager les données à caractère personnnel si la structure du groupe La Redoute change à l'avenir :
 
