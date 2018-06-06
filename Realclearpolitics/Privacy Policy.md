@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Greg Stohr_: Court Tosses Gay-Bias Finding Against Wedding-Cake Baker
+*   _Rich Lowry_: Christian Baker 1, Officious Bureaucrats 0
     
-*   _Harry Litman_: President Trump Thinks He Is a King
+*   _Scott Lemieux_: Masterpiece Case Could Undermine Future Civil Rights
     
-*   _Michael Graham_: Russia Probe a 'Witch Hunt'? Trump's Case Gets Stronger
+*   _Coleman Hughes_: The High Price of Stale Grievances
     
-*   _Benjamin Wittes_: The Flaw in Trump's Obstruction-of-Justice Defense
+*   _Katrina vanden Heuvel_: Don't Believe the Hype About the Economy
     
-*   _Douglas Schoen_: Dems Must Change Leadership, Shift Back to the Center
+*   _Newt Gingrich_: GOP Comeback a Threat to Media's 'Blue Wave' Theory
     
-*   _Patti Davis_: Mourning America: What My Father Would Say Today
+*   _Rebecca Traister_: Time's Up, Bill
     
-*   _Daniel Oliver_: Conservatism: For God, Country and Main Street
+*   _Frank Bruni_: Bill Clinton &. Donald Trump, Sultans of Self-Pity
     
-*   _Newt Gingrich_: China's Embrace of Marxism Is Bad News for Its People
+*   _Shmuley Boteach_: Roseanne and Repentance in America
     
-*   _Samantha Vinograd_: President Trump May Be the Skunk at the G7 Party
+*   _Marcus Hayes_: Trump Dumps Eagles Because, to Him, Size Matters
     
-*   _Bill Scher_: Dems: If You Run on Gas Prices, You Run on Empty
+*   _George Parry_: Mueller's Illegal, Unethical Hunt for Trump's Scalp
     
-*   _Amanda Fortini_: What Happened in Vegas
+*   _Richard North Patterson_: The Loss of Bobby Kennedy Has Never Felt Greater
     
-*   _Byron York_: Trump Lawyers Reveal New Evidence in Flynn Case
+*   _Joshua Zeitz_: The Bobby Kennedy Myth
     
-*   _Ruth Marcus_: The Trump Team's Chilling Message to Mueller
+*   _Christine Mai-Duc_: Today Make-or-Break for Dems in California's House Races
     
-*   _Frank Miele_: President Is on Solid Ground Laid by Founding Fathers
+*   _Ben Shapiro_: Are Democrats Blowing It?
     
-*   _Matthew Yglesias_: Legal Memo to Mueller Is a Recipe for Tyranny
+*   _Chris Matthews_: What RFK's Legacy Can Teach Liberals About Beating Trump
     
-*   _Jonah Goldberg_: Trump's Water-Carriers on 'Spygate' Like the McCarthy Era
+*   _Jack Phillips_: Supreme Court Says My Faith Is Welcome Back in Colorado
     
-*   _Victor Davis Hanson_: Is It OK for Trump to Spy on Dems in 2024?
+*   _Jennifer Boylan_: After Masterpiece, It's Time to Change the Constitution
     
-*   _Betsy Morais_: Can New Jersey Dems Flip Districts Down the Shore?
+*   _William McGurn_: What Did the FBI Know &. When Did They Know It?
     
-*   _Caitlin Huey-Burns_: Crowded Primaries Could Dash Dems' California Dreams
+*   _David Corn_: How Trump Is Winning Media War Over Russia Scandal
     
-*   _George Will_: McConnell: Playing and Winning the Long Game
+*   _Steven Nelson_: Trump's War on the Washington Bureaucracy
     
-*   _Charles Blow_: Trump Is Succeeding in Leading Republicans to Ruin
+*   _Lawrence Summers_: Trump's Trade Policy Violates Almost Every Strategic Rule
     
-*   _Stephen Moore_: Eight Reasons to Still Hate Obamacare
+*   _Andrew Mayeda_: Why Trump's Tariffs Aren't Worrying Wall Street - Yet
     
-*   _Hal Brands_: How Many U.S. Troops Are in Korea? Maybe Too Many
+*   _Noemie Emery_: Ben Rhodes and the World As It Was
     
-*   _Harry Kazianis_: Trump Should Prepare to Walk Out of North Korea Summit
+*   _Erin Gloria Ryan_: Bill Clinton's #MeToo Defense Is Shocking
     
 
 *   Previous
@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Justices Side With Colorado Baker on Same-Sex Wedding Cake
 *   Crowded Primaries Could Dash Dems' California Dreams
-*   Trump Announces Summit Meeting With Kim Jong Un Is Back On
-*   Gingrich: We're Closer to a Red Wave Than a Blue Wave This Fall
+*   Rhodes: Trump Reversing Obama Policies Because They Were Obama's
 *   What If 2006 Model Isn't Enough for Democrats?
 *   Trump Visit Spotlights Competitive Tennessee Senate Race
 *   Presidential Job Approval
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Pennsylvania 1st District - Fitzpatrick vs. WallaceMonmouth
-    *   Fitzpatrick48
-    *   Wallace47Fitzpatrick +1
-*   President Trump Job ApprovalGallup
-    *   Approve41
-    *   Disapprove55Disapprove +14
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
-*   Direction of CountryRasmussen Reports
-    *   Right Direction39
-    *   Wrong Track54Wrong Track +15
+*   Virginia Senate - Stewart vs. KaineRoanoke College
+    *   Kaine44
+    *   Stewart33Kaine +11
+*   Virginia Senate - Jackson vs. KaineRoanoke College
+    *   Kaine45
+    *   Jackson30Kaine +15
+*   Virginia Senate - Freitas vs. KaineRoanoke College
+    *   Kaine45
+    *   Freitas30Kaine +15
+*   New York 11th District - Republican PrimarySiena
+    *   Grimm47
+    *   Donovan37Grimm +10
 
 More Latest Polls In The News
 
+*   Hewitt to Jeff Sessions: Why Must We Separate Parents From Children When Detained At Border?
+*   Mike Pence To Organization Of American States: Venezuela Has Become A "Failed State"
 *   Mark Levin: Of Course Trump Can Pardon Himself. Constitution Protects President From Media Mob
 *   Giuliani vs. Cuomo on Trump Jr. Statement About Meeting With Russians: "I Swear To God, It Was A Mistake"
 *   Clinton on Lewinsky Scandal: "I Did The Right Thing," Nobody Believes I Got Out Of That For Free
-*   Chris Christie: If Trump Tried To Pardon Himself, He Would Be Impeached
-*   Maher: Republican Party Has Turned Into The "Alex Jones Party," They'll Believe Anything
 
 *   Politics
 *   Policy
