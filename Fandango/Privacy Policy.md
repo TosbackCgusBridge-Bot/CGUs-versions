@@ -74,9 +74,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'Wreck-It Ralph 2' Trailer Lampoons the Internet. Here's Everything We Know Read More
-    *   Watch Dakota Johnson in First 'Suspiria' Teaser. Here's Everything We Know Read More
-    *   Next 3 Real-Life Comedies: 'Tag,' 'Crazy Rich Asians,' 'Fighting with My Family' Read More
+    *   New 'Mortal Engines' Trailer Reveals Evil Hugo Weaving Read More
+    *   'The Lego Movie 2: The Second Part': Watch Funny First Trailer Read More
+    *   Watch Hailee Steinfeld in Surprising First 'Bumblebee' Trailer. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -321,9 +321,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   WELCOME TO THE SUMMER OF MORE
+*   'Jurassic World: Fallen Kingdom' Gift With Purchase
     
-    EARN 150 VIP+ POINTS FOR EVERY TICKET YOU BUY. 600 VIP+ Points unlocks a $6 reward. SEE DETAILS
+    Receive a FREE\* exclusive 'Jurassic World: Fallen Kingdom' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Solo: A Star Wars Story' Gift With Purchase
     
@@ -383,4 +383,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango sponsoredsponsoredsponsored
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
