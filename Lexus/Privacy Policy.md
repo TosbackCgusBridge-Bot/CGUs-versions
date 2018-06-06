@@ -191,14 +191,6 @@ COMPARE **NX HYBRID**
 *   Build
 *   Current Offers
 
-**LC HYBRID**
-
-*   Starting at $96,5101\*
-*   354 TOTAL SYSTEM HP3\*
-
-*   Build
-*   Current Offers
-
 **LS HYBRID**
 
 *   Starting at $79,5101\*
@@ -206,6 +198,14 @@ COMPARE **NX HYBRID**
 
 *   BUILD
 *   CURRENT OFFERS
+
+**LC HYBRID**
+
+*   Starting at $96,5101\*
+*   354 TOTAL SYSTEM HP3\*
+
+*   Build
+*   Current Offers
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
@@ -366,7 +366,6 @@ Leasing &. Finance
 
 Owners
 
-*   Accessories &. Parts
 *   Enform Subscription
 *   Owner Benefits
 *   Mobile Phone Apps
@@ -407,10 +406,6 @@ Brand &. Lifestyle
 *   Lexus International
 *   Sponsored Athletes
 
-Language
-
-*   Español
-
 *   About
 *   Contact Us
 *   Accessibility
@@ -436,7 +431,6 @@ Language
     *   End of Lease Options
     *   Financial Services Website
 *   Owners
-    *   Accessories &. Parts
     *   Enform Subscription
     *   Owner Benefits
     *   Mobile Phone Apps
@@ -470,8 +464,6 @@ Language
     *   Lexus Merchandise
     *   Lexus International
     *   Sponsored Athletes
-*   Language
-    *   Español
 
 Safety Recalls &. Service Campaigns  
 
