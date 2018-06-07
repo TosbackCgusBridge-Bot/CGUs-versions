@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Weather
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms It's National Ocean Month. Celebrate with #30DaysofOcean AROUND NOAA // Forecasters predict a near- or above-normal 2018 Atlantic hurricane season GOES-17 releases ‘first light’ imagery from its Advanced Baseline Imager \[EXT\] NOAA’s Annual Greenhouse Gas Index ticks up another notch The U.S. is having an incredibly quiet tornado season – so far
+Enter Search Terms Contiguous U.S. had its warmest May on record Each state was warmer than average, record precipitation in the East AROUND NOAA // Coastal communities saw record number of high tide flooding days last year Celebrate the ocean \[EXT\] Forecasters predict a near- or above-normal 2018 Atlantic hurricane season NOAA teams up with India to strengthen ocean observations
 
 *   About our agency
 *   News and features
