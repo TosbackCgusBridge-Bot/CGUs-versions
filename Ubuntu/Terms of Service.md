@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu to host containers in Amazon’s (EKS) for container portability ›
 *   Ubuntu Server development summary – 05 June 2018 ›
 *   Top Snaps in May 2018 ›
 *   Kubernetes and OpenStack solving AI complexities at scale ›
 *   Design and web team summary – 4 June 2018 ›
-*   The key IoT use cases that will drive 5G adoption ›
