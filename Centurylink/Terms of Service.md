@@ -57,6 +57,7 @@ Revised 01-30-09
 *   Internet Service Disclosure
 *   CCTS
 *   Contact Us
+*   GDPR
 
 Get Connected. See what's next for CenturyLink.
 
