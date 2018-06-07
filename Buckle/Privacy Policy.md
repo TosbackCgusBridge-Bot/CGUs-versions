@@ -23,7 +23,7 @@ THE DRESS CODE TO LIVE BY: FUN IN THE SUN. SHOP SUMMER.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
