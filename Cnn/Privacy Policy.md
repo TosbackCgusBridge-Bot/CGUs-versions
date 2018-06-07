@@ -23,11 +23,10 @@ U.S. Politics
 
 *   45
 *   Congress
-*   Security
-*   The Nine
-*   Trumpmerica
+*   Supreme Court
 *   2018
-*   Primaries
+*   Key Races
+*   Primary Results
 
 *   Business
 *   Markets
@@ -150,7 +149,7 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 FacebookTwitterShare
 
-Pinellas Park, FL176°
+Pinellas Park, FL163°
 
 1.  Home
 
@@ -167,11 +166,10 @@ Pinellas Park, FL176°
 1.  U.S. Politics
     1.  45
     2.  Congress
-    3.  Security
-    4.  The Nine
-    5.  Trumpmerica
-    6.  2018
-    7.  Primaries
+    3.  Supreme Court
+    4.  2018
+    5.  Key Races
+    6.  Primary Results
 
 1.  1.  Business
     2.  Markets
