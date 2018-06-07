@@ -74,9 +74,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   New 'Mortal Engines' Trailer Reveals Evil Hugo Weaving Read More
-    *   'The Lego Movie 2: The Second Part': Watch Funny First Trailer Read More
-    *   Watch Hailee Steinfeld in Surprising First 'Bumblebee' Trailer. Here's Everything We Know Read More
+    *   ‘Hereditary’ Director Ari Aster Has a “Crazy” Sequel Idea, Plus: Details on His Next Film Read More
+    *   Jared Leto and 'The Joker' Will Stand Alone. Here's What We Know So Far Read More
+    *   'Spider-Man: Into the Spider-Verse' Bursts Into Flight in First Trailer. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -376,7 +376,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   May Celebrity Birthdays
+*   June Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
