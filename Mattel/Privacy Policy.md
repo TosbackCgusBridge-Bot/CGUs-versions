@@ -1,4 +1,4 @@
-Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price Shop Hot Wheels Shop Mattel Shop Barbie Shop Mattel Online Privacy Statement
+Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price Shop Hot Wheels Shop Mattel Shop Barbie Shop Declaração geral de privacidade on-line da Mattel
 
 *   Privacy Statement
     *   About Cookies and Technologies
@@ -712,11 +712,20 @@ For American Girl:
     email: service@americangirl.com
     
 
-Back To Top mattel  
+Back to Top Back to Top mattel  
 XXXX  
 dev  
 left  
 s5Z2MyOlF46r3PXZUl9hPiwU2cYK  
+Choose a CountryDansk (Danmark)Deutsch (Deutschland)EnglishEspañol (España)Français (France)Choose a Country
+
+*   Choose a Country
+*   Dansk (Danmark)
+*   English
+*   Deutsch (Deutschland)
+*   Español (España)
+*   Français (France)
+
 Shop Our Brands
 
 *   American Girl®
