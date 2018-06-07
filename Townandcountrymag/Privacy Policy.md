@@ -55,7 +55,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 10 Inspirational Quotes from Bobby Kennedy 2 The Best Books to Read This June 3 Royal Wedding Rumors, Debunked 4 The Best New Hotels in the World 5 The Ultimate Father's Day Gift Guide Privacy Policy Dec 1, 2014
+Today's Top Stories 1 How Kate and Andy Spade Built a Brand—and a Life 2 Prince Harry and Meghan Markle's Honeymoon 3 The Best New Hotels in the World 4 The Ultimate Father's Day Gift Guide 5 15 Heartwarming Father's Day Quotes Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
