@@ -8,10 +8,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Lafayette 148 New York Including Petites
+    *   Donald Pliner Up to 50% Off
+    *   Tissot Watches
+    *   Makeup Geek
+    *   Mario Badescu
+    *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
+    *   Casual-Cool Styles Starting at $20
+    *   Summer Essentials: Socialite Under $40
+    *   Easy Summer Dresses, Tops &. More
+    *   Just for Her: ALOR Jewelry
+    *   Summer Slip-Ons Under $60
+    *   Summer Staples: Embroidered Styles from $20
+    *   The Sak
+    *   Vintage Havana
+    *   Top It Off: Baseball Hats Under $15
+    *   Tallia Tailored Clothing
+    *   Donald Pliner Men
+    *   Ezekiel
+    *   Backyard BBQ: Alternative &. More
+    *   David King &. Co.
+    *   Prints Charming: Fresh Bedding from $15
+    *   Fun Tech Finds Starting at $10
+    *   Free Shipping: Steam &. Go
+    *   People's Project LA Kids
+    *   Rachel Shoes Starting at $15
+    *   Pippa &. Julie and More
     *   Free Shipping: Summer Picnic Essentials from $10
     *   Make Waves: Fun Floats, Blankets &. More
     *   Outdoor Pillows &. Rugs by Rizzy
     *   Free Shipping: Inspirational Wall Art &. More
+    
     *   Pastel Kitchen: BergHOFF Leo Collection
     *   Bony Levy Fine Jewelry Up to 50% Off
     *   A.L.C.
@@ -35,22 +62,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Sam Edelman Kids
     *   Summer Splash: Kids' Swim
     *   Deux Par Deux
-    *   Vertigo Up to 85% Off
     *   Vince Camuto Up to 50% Off
     *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
     *   Vince Camuto Handbags Up to 50% Off
-    
     *   Vince Camuto Men Up to 50% Off
     *   Vince Camuto Accessories Up to 65% Off
-    *   Banjara
-    *   Catch the Breeze: Vintage-Inspired Summer Looks
-    *   Oliver Peoples
-    *   MUK LUKS
-    *   Sienna Rose
-    *   James Jeans
-    *   Vince Camuto Luggage &. More Up to 70% Off
     *   14K Gold &. Sterling Silver Jewelry
     *   Jack Black Men's Skin Care Under $25
+    
     *   Clarks Men
     *   Men's Premium Jean Shop
     *   Dynamic Innovation Labs Skin Care from $10
@@ -60,56 +79,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Candy Pink: Colorful Loungewear for Kids
     *   AnnLoren
     *   Colorful Girls' Shoes Starting at $10
-    *   Jewelry Box Essentials Up to 80% Off
-    *   Shoes Up to 70% Off
-    *   Vintage Addiction Up to 80% Off
     *   Free Shipping: Modern Rugs Up to 70% Off
     *   Hair Tool Blowout
     *   Men's Final Few Up to 70% Off
     *   Men's Shoes Up to 65% Off
-    *   14K Gold Rush: Charms, Hoops &. More
-    *   Avah &. Ella Jewelry Starting at $20
     *   PURA D'OR Hair Care Up to 50% Off
     *   David Donahue Tailored Clothing
-    
     *   Swims Up to 65% Off
-    *   Citizen Eco-Drive Watches &. More Starting at $80
     *   Karl Lagerfeld
     *   Psycho Bunny Lounge &. More
     *   Jarv Tech Accessory Blowout
     *   Free Shipping: Kitchen Gadgets Starting at $10
-    *   Lilac Maternity
-    *   Babyface
-    *   Great Gear for Baby
-    *   Polo Ralph Lauren Lounge &. More
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Korean Beauty: Secret Key from $10
-    *   Mezlan Up to 50% Off
-    *   Coastal Under $30
-    *   Loft 604
-    *   GUESS Men's Shoes Starting at $25
     *   DKNY Bath Accessories from $10
     *   Free Shipping: Colorful Dishware, Glassware &. More
-    *   Static Nails: Reusable Manicures Starting at $10
-    *   Rodial Skin Care
-    *   Teami Blends Detox Teas &. Supplements
     *   Free Shipping: Sports Memorabilia &. More
     *   Country Meets City: Wooden Wall Art &. More
     *   Free Shipping: Pillow &. Throw Blowout
     *   Free Shipping: Pop Art Pillows Under $20
     *   Free Shipping: Accent Chairs, Tables &. More
     *   Free Shipping: One-of-a-Kind Kantha Throws
-    *   Free Shipping: Budget-Friendly Rugs
-    *   Ultra-Soft Towels Up to 65% Off
-    *   New Markdowns: Lingerie &. More Up to 70% Off
-    *   Sunday Steals Up to 80% Off
 *   WomenShop Sale Events
     
+    *   Lafayette 148 New York Including Petites
+    *   Donald Pliner Up to 50% Off
+    *   Tissot Watches
+    *   Makeup Geek
+    *   Mario Badescu
+    *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
+    *   Casual-Cool Styles Starting at $20
+    *   Summer Essentials: Socialite Under $40
+    *   Easy Summer Dresses, Tops &. More
+    *   Just for Her: ALOR Jewelry
+    *   Summer Slip-Ons Under $60
+    *   Summer Staples: Embroidered Styles from $20
+    *   The Sak
+    *   Vintage Havana
+    *   Top It Off: Baseball Hats Under $15
     *   Bony Levy Fine Jewelry Up to 50% Off
     *   A.L.C.
     *   Liebeskind Berlin Handbags
     *   Z&L Europe
     *   Maxi Dresses, Jumpsuits &. Rompers
+    
     *   Charles by Charles David Under $60
     *   Love Token Up to 85% Off
     *   X by Gottex Active
@@ -119,82 +132,62 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tees, Tanks &. More Under $20
     *   RapidLash
     *   Coastal Salt &. Soul
-    *   Vertigo Up to 85% Off
     *   Vince Camuto Up to 50% Off
     *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
     *   Vince Camuto Handbags Up to 50% Off
     *   Vince Camuto Accessories Up to 65% Off
-    *   Banjara
-    *   Catch the Breeze: Vintage-Inspired Summer Looks
-    *   Oliver Peoples
-    
-    *   MUK LUKS
-    *   Sienna Rose
-    *   James Jeans
-    *   Vince Camuto Luggage &. More Up to 70% Off
     *   14K Gold &. Sterling Silver Jewelry
     *   Dynamic Innovation Labs Skin Care from $10
-    *   Jewelry Box Essentials Up to 80% Off
-    *   Shoes Up to 70% Off
-    *   Vintage Addiction Up to 80% Off
     *   Hair Tool Blowout
-    *   14K Gold Rush: Charms, Hoops &. More
-    *   Avah &. Ella Jewelry Starting at $20
     *   PURA D'OR Hair Care Up to 50% Off
-    *   Citizen Eco-Drive Watches &. More Starting at $80
-    *   Lilac Maternity
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Korean Beauty: Secret Key from $10
-    *   Static Nails: Reusable Manicures Starting at $10
-    *   Rodial Skin Care
-    *   Teami Blends Detox Teas &. Supplements
-    *   New Markdowns: Lingerie &. More Up to 70% Off
-    *   Sunday Steals Up to 80% Off
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
+    *   Jewelry
     *   Handbags
-    *   Lingerie
     *   Accessories
-    *   Tech Accessories
     *   Watches
+    *   Lingerie
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Tissot Watches
+    *   Tallia Tailored Clothing
+    *   Donald Pliner Men
+    *   Ezekiel
+    *   Backyard BBQ: Alternative &. More
+    *   David King &. Co.
     *   Scotch &. Soda
     *   Just in Time: Watches for Dad Up to 65% Off
     *   Benson
     *   Baseball-Themed Gifts for Dads &. Grads
     *   Andrew Marc Shoes Up to 70% Off
+    
     *   Vince Camuto Men Up to 50% Off
     *   Vince Camuto Accessories Up to 65% Off
-    *   Oliver Peoples
     *   Jack Black Men's Skin Care Under $25
     *   Clarks Men
     *   Men's Premium Jean Shop
     *   Men's Final Few Up to 70% Off
-    
     *   Men's Shoes Up to 65% Off
     *   David Donahue Tailored Clothing
     *   Swims Up to 65% Off
-    *   Citizen Eco-Drive Watches &. More Starting at $80
     *   Karl Lagerfeld
     *   Psycho Bunny Lounge &. More
-    *   Polo Ralph Lauren Lounge &. More
-    *   Mezlan Up to 50% Off
-    *   Coastal Under $30
-    *   Loft 604
-    *   GUESS Men's Shoes Starting at $25
-    *   Teami Blends Detox Teas &. Supplements
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
     *   Watches
 *   KidsShop Sale Events
     
+    *   People's Project LA Kids
+    *   Rachel Shoes Starting at $15
+    *   Pippa &. Julie and More
     *   Sam Edelman Kids
     *   Summer Splash: Kids' Swim
     *   Deux Par Deux
@@ -202,23 +195,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Candy Pink: Colorful Loungewear for Kids
     *   AnnLoren
     *   Colorful Girls' Shoes Starting at $10
-    *   Lilac Maternity
-    *   Babyface
-    *   Great Gear for Baby
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
     *   Boys Sizes 2T-7
-    *   Baby Gear &. Essentials
-    *   Boys Sizes 8-20
-    *   Baby Girl
     *   Girls' Shoes
+    *   Baby Girl
+    *   Boys Sizes 8-20
     *   Baby Boy
+    *   Baby Gear &. Essentials
     *   Kids Accessories
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Prints Charming: Fresh Bedding from $15
+    *   Fun Tech Finds Starting at $10
+    *   Free Shipping: Steam &. Go
     *   Free Shipping: Summer Picnic Essentials from $10
     *   Make Waves: Fun Floats, Blankets &. More
     *   Outdoor Pillows &. Rugs by Rizzy
@@ -227,9 +220,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Ayesha Curry Home
     *   Free Shipping: Boho-Chic Decor &. More
     *   Free Shipping: Modern Rugs Up to 70% Off
+    
     *   Jarv Tech Accessory Blowout
     *   Free Shipping: Kitchen Gadgets Starting at $10
-    
     *   DKNY Bath Accessories from $10
     *   Free Shipping: Colorful Dishware, Glassware &. More
     *   Free Shipping: Sports Memorabilia &. More
@@ -238,37 +231,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Pop Art Pillows Under $20
     *   Free Shipping: Accent Chairs, Tables &. More
     *   Free Shipping: One-of-a-Kind Kantha Throws
-    *   Free Shipping: Budget-Friendly Rugs
-    *   Ultra-Soft Towels Up to 65% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bath
+    *   Bedding
     *   Outdoor Living
     *   Accent Furniture
+    *   Bath
     *   Organization
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Makeup Geek
+    *   Mario Badescu
+    *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
     *   RapidLash
     *   Coastal Salt &. Soul
     *   Jack Black Men's Skin Care Under $25
+    
     *   Dynamic Innovation Labs Skin Care from $10
     *   Hair Tool Blowout
     *   PURA D'OR Hair Care Up to 50% Off
-    
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Korean Beauty: Secret Key from $10
-    *   Static Nails: Reusable Manicures Starting at $10
-    *   Rodial Skin Care
-    *   Teami Blends Detox Teas &. Supplements
     
     Shop By Category
     *   Makeup
-    *   Supplements
-    *   Hair Care
     *   Bath &. Body
+    *   Hair Care
     *   Skin Care
     *   Tools &. Accessories
 
