@@ -233,7 +233,7 @@ View more results
     Recommended Games
     
     *   World of Warships
-    *   Hunter X Hunter
+    *   PopTropica
     *   World of Tanks
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
@@ -427,4 +427,4 @@ Copyright © 2018 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-A privacy reminderWe use your data to help bring you personalised content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Visit our Privacy Policy for more information on our data collection practices.AcceptSettings <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=561974157334904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
+A privacy reminderWe use your data to help bring you personalised content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Visit our Privacy Policy for more information on our data collection practices.AcceptSettings
