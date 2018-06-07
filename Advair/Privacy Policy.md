@@ -200,11 +200,9 @@ GSK Global Website www.gsk.com
 Menu
 
 *   Behind the science
-    *   Back
     *   Behind the science
     *   Tags A-Z
     *   Innovation
-        *   Back
         *   Innovation
         *   Turning the tide on antibiotic resistance
         *   Unlocking the secrets of the immune system to tackle disease
@@ -226,7 +224,6 @@ Menu
         *   How do consumer insights fuel our innovation?
         *   Lupus: the search for a cure continues
     *   Access to healthcare
-        *   Back
         *   Access to healthcare
         *   Our humanitarian response to the Ebola outbreak
         *   Malaria: life cycle of a parasite
@@ -241,7 +238,6 @@ Menu
         *   Helping patients in need
         *   Why are we fighting malaria in the lab and on the ground?
     *   Patients &. consumers
-        *   Back
         *   Patients &. consumers
         *   Science of a different stripe
         *   Every breath you take: Alison’s story
@@ -268,7 +264,6 @@ Menu
         *   Meet Jennifer: a science researcher whose quest became her own health
         *   A family diagnosis motivates me to make a difference for people with COPD
     *   Our people
-        *   Back
         *   Our people
         *   Changing gears in a scientific career
         *   From academia to industry: a new challenge
@@ -308,7 +303,6 @@ Menu
         *   Linking a chapter of GSK history to the fight for freedom
         *   ATS recognizes curious minds for advances in respiratory care
     *   How we do business
-        *   Back
         *   How we do business
         *   Changing the way we work with healthcare professionals
         *   Switching to consumer choice: medicines for everyday health
@@ -328,14 +322,11 @@ Menu
         *   Evolving our graduated approach to intellectual property
 *   About us
     
-    *   Back
     *   About us
     *   What we do
-        *   Back
         *   What we do
         *   Pharmaceuticals
         *   Vaccines
-            *   Back
             *   Vaccines
             *   Flu
         *   Consumer Healthcare
@@ -343,7 +334,6 @@ Menu
     *   GSK in the US
     *   US Pharmaceuticals Leadership Team
     *   US Community Partnerships
-        *   Back
         *   US Community Partnerships
         *   Barnes smART Fund for Arts Education
         *   Charitable grants
@@ -351,7 +341,6 @@ Menu
         *   GSK IMPACT Awards
         *   GSK Opportunity Scholarships
         *   Save the Children partnership
-            *   Back
             *   Save the Children partnership
             *   The Resilient Children/Resilient Communities Initiative
             *   Why community resilience?
@@ -359,7 +348,6 @@ Menu
         *   Science in the Summer™
         *   Vetri Cooking Lab
     *   Policies, codes and standards
-        *   Back
         *   Policies, codes and standards
         *   US policies
         *   Global policies
@@ -386,7 +374,6 @@ Menu
         
 *   Products
     
-    *   Back
     *   Products
     *   Our prescription medicines
     *   Our vaccines
@@ -417,18 +404,15 @@ Menu
         
 *   Careers
     
-    *   Back
     *   Careers
     *   Search jobs and apply
     *   Areas of opportunity
-        *   Back
         *   Areas of opportunity
         *   R&D
         *   Manufacturing &. supply
         *   Sales &. marketing
         *   Other opportunities
     *   Working at GSK
-        *   Back
         *   Working at GSK
         *   Developing our people
         *   Employees helping communities
@@ -439,7 +423,6 @@ Menu
     *   Meet our people
     *   Experienced professionals
     *   Physicians
-        *   Back
         *   Physicians
         *   Paul-Peter Tak
         *   Monica Shaw
@@ -449,7 +432,6 @@ Menu
     *   Digital Platform professionals
     *   Internships and co-ops
     *   MBA and Graduate Students
-        *   Back
         *   MBA and Graduate Students
         *   Esprit finance program
         *   Esprit commercial program
@@ -459,7 +441,6 @@ Menu
         *   Postdoctoral R&D
     *   Undergraduates
     *   Apprenticeships
-        *   Back
         *   Apprenticeships
         *   Our programs
         *   Meet our apprentices
@@ -469,7 +450,6 @@ Menu
         *   Application tips and process
     *   High school students
     *   Veterans' leaders program
-        *   Back
         *   Veterans' leaders program
         *   Case studies
     *   Employee rights under federal law
@@ -488,40 +468,33 @@ Menu
         
 *   Research
     
-    *   Back
     *   Research
     *   How we discover new products
-        *   Back
         *   How we discover new products
         *   How we discover new medicines
         *   How we discover new vaccines
         *   Consumer healthcare research
         *   Responsible research
     *   Trials in people
-        *   Back
         *   Trials in people
         *   Clinical trial phases
         *   COPD clinical trials in the US
         *   Become a clinical research volunteer
     *   Our use of animals
-        *   Back
         *   Our use of animals
         *   The 3Rs in medicine research
         *   Use of non-human primates
         *   Frequently asked questions
     *   Sharing our research
-        *   Back
         *   Sharing our research
         *   Patient-level data
         *   Research/Open innovation
         *   Clinical Study Register
     *   Antibiotics research
     *   Bioelectronics research
-        *   Back
         *   Bioelectronics research
         *   Bioelectronics at SXSW 2016
     *   mHealth Research
-        *   Back
         *   mHealth Research
         *   mHealth at SXSW 2017
     *   R&D locations
@@ -546,7 +519,6 @@ Menu
         
 *   Responsibility
     
-    *   Back
     *   Responsibility
     *   Health for all
     *   Our behavior
