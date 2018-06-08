@@ -107,11 +107,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   More Young Adults Dying From Colon Cancer
+    *   How to Survive Snake Season, Even if You Get Bit
     *   Nasty Germ in Favorite Foods
-    *   FDA Approves Artificial Iris
-    *   CBD Oil: Does It Work, Is It Safe?
-    *   Artificial Sweeteners Won't Affect Blood Sugar
+    *   Walk Briskly, Live Longer
+    *   New Treatments for Pancreatic Cancer
+    *   Colon Cancer: New Guidelines Say Get Screened at 45
     
     Experts &. Community
     
@@ -380,7 +380,7 @@ WebMD Policy Last updated on May 23, 2018 © 2018 WebMD, LLC. All rights reserve
 
 Some of these might surprise you.
 
-Share Life Through Living Donation In 2015, living donors made 359 liver transplants possible. by **UPMC LDLT** hidden module trigger Depressed, Guilty Feelings After Eating?
+Living Donation: What You Need to Know In 2015, living donors made 359 liver transplants possible. by **UPMC LDLT** hidden module trigger Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
