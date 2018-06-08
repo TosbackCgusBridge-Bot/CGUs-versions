@@ -38,7 +38,7 @@ Close submenu ( Featured ) Featured
 *   New Arrivals
 *   Buy 1 Get 2 Free Tees
 *   Create Your Suit for $12
-*   $5.87 Tees
+*   $6.87 Tees
 *   4 for $16 Undies
 *   Summer Festival
 *   Americana Shop
@@ -98,6 +98,7 @@ Close submenu ( Featured ) Featured
 *   View All
 *   New Arrivals
 *   Buy 1 Get 2 Free Tees
+*   BOGO Denim + Pants
 *   Buy 1 Get 2 Accessories
 *   Americana Shop
 *   Denim Guide
@@ -294,7 +295,7 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Buy 1 Get 2 Free Tees
         *   Create Your Suit for $12
-        *   $5.87 Tees
+        *   $6.87 Tees
         *   4 for $16 Undies
         *   Summer Festival
         *   Americana Shop
@@ -349,6 +350,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Buy 1 Get 2 Free Tees
+        *   BOGO Denim + Pants
         *   Buy 1 Get 2 Accessories
         *   Americana Shop
         *   Denim Guide
@@ -550,17 +552,3 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
