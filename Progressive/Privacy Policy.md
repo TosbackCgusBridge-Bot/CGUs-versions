@@ -5,7 +5,7 @@
 *   About
 *   Answers
 
-*   1-855-347-3939
+*   1-855-347-3939, call us
 *   Log In
 
 Progressive Privacy Policy
@@ -102,6 +102,8 @@ We take these reports seriously, so we ask that you keep your findings confident
 
 Insurance Offerings
 
+Insurance Offerings
+
 *   Car Insurance
 *   Home Insurance
 *   Renters Insurance
@@ -117,10 +119,14 @@ Insurance Offerings
 
 Our Company
 
+Our Company
+
 *   About Progressive
 *   Careers
 *   Investors
 *   Newsroom
+
+Connect
 
 Connect
 
@@ -129,10 +135,23 @@ Connect
 *   Progressive App
 *   PerkShare
 
+*   Home
+*   Contact Us
+*   Site Map
+*   Website Accessibility
+*   Technical Help
+*   Privacy &. Security
+*   Terms of Use
+*   Insurance Resources
+
 *   
 *   
 *   
 *   
+
+Search
+
+Loading
 
 *   Home
 *   Contact Us
@@ -147,22 +166,16 @@ The #1 Insurance Site
 
 Copyright 1995 - 2018. Progressive Casualty Insurance Company. All Rights Reserved.
 
-Search
-
-Loading
-
 We offer insurance by phone, online and through independent agents. Prices vary based on how you buy.
 
 *   Insurance
     *   Vehicle &. Recreational
-        
         *   ATV
         *   Auto
         *   Boat
         *   Classic Car
         *   Golf Cart
         *   Motorcycle
-        
         *   PWC
         *   RV/Trailer
         *   Segway
@@ -177,21 +190,18 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Mobile Home
         *   RentersBundle Auto + Property
     *   Everything Else
-        
         *   Auto Financing
         *   Auto Refinancing
         *   Business
         *   Car Shopping Service
         *   Commercial
         *   Electronic Device
-        
         *   Health
         *   Home Financing
         *   Home Refinancing
         *   ID Theft
         *   Life
         *   Mechanical Repair
-        
         *   Mexico Auto
         *   Pet
         *   Travel
@@ -267,13 +277,15 @@ New user? Register for an account
 
 Quote &. save today!
 
-Zip Code Auto 
+Zip Code
 
 Bundle and save 5%† or more on auto!
 
 *   Auto + Home
 *   Auto + Renters
 *   Auto + Condo
+
+Or, quote another product
 
 *   Auto
 *   Auto Financing
@@ -282,7 +294,6 @@ Bundle and save 5%† or more on auto!
 *   Business
 *   Car Shopping
 *   Classic Car
-
 *   Commercial
 *   Condo
 *   Electronic Device
@@ -290,15 +301,13 @@ Bundle and save 5%† or more on auto!
 *   Golf Cart
 *   Health
 *   Homeowners
-
-*   Home Financing
-*   Home Refinancing
+*   Homeshare
 *   ID Theft
 *   Life
 *   Mechanical Repair
+*   Mexico Auto
 *   Mobile Home
 *   Motorcycle/ATV
-
 *   Pet
 *   RV/Trailer
 *   Renters
@@ -307,8 +316,8 @@ Bundle and save 5%† or more on auto!
 *   Travel
 *   Wedding &. Event
 
-Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHome FinancingHome RefinancingID TheftLifeMechanical RepairMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event
+Select a product Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHomeshareID TheftLifeMechanical RepairMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event Select a productCurrently selected productAuto 
 
 Loading
 
- <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=582c022834ee4cedbd83e8e41bc3d38a&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
+ <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=412d7501ec3140549fa0d3afe2482650&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
