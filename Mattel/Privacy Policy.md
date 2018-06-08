@@ -1,4 +1,4 @@
-Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price Shop Hot Wheels Shop Mattel Shop Barbie Shop Declaração geral de privacidade on-line da Mattel
+Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price Shop Hot Wheels Shop Mattel Shop Barbie Shop Mattel Online Privacy Statement
 
 *   Privacy Statement
     *   About Cookies and Technologies
@@ -19,7 +19,10 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   American Girl GDPR Choice Portal
 *   Contact Us
 
+Select Your Language Dansk (Danmark) Norsk (Norge) Português (Portugal) Svenska (Sverige) Čeština (Česká Republika) Ελληνικά (Ελλάδα) English Deutsch (Deutschland) Español (España) Français (France) Italiano (Italia) Nederlands (Nederland) Polski (Polska) Romanian
+
 *   Menu
+    *   Select Your Language Dansk (Danmark) Norsk (Norge) Português (Portugal) Svenska (Sverige) Čeština (Česká Republika) Ελληνικά (Ελλάδα) English Deutsch (Deutschland) Español (España) Français (France) Italiano (Italia) Nederlands (Nederland) Polski (Polska) Romanian
     *   Privacy Statement
         *   About Cookies and Technologies
         *   Your California Privacy Rights
@@ -717,15 +720,6 @@ XXXX
 dev  
 left  
 s5Z2MyOlF46r3PXZUl9hPiwU2cYK  
-Choose a CountryDansk (Danmark)Deutsch (Deutschland)EnglishEspañol (España)Français (France)Choose a Country
-
-*   Choose a Country
-*   Dansk (Danmark)
-*   English
-*   Deutsch (Deutschland)
-*   Español (España)
-*   Français (France)
-
 Shop Our Brands
 
 *   American Girl®
