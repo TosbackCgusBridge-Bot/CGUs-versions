@@ -137,7 +137,7 @@ Play Make Your Beach Party Unforgettable Video hotspot
 
 ICYMI: James Cameron announces he will be using the @SonyProUSA VENICE camera system to film Avatar sequels 2 &. 3.
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -295,7 +295,7 @@ Learn More
 
 Experience Lordran in all of its 4K glory. Dark Souls: Remastered is now available in the #SonyRewards catalog.
 
-1 day ago
+2 days ago
 
 View Tweet
 
