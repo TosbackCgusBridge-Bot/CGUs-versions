@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   7\. Juni 2018
+*   8\. Juni 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.830,07ǀ
+*   DAX 12.811,05ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -215,11 +215,9 @@ Anmelden
     *   Benzinpreis
     *   Bußgeldrechner
     *   Bücher bestellen
-    *   DSL-Vergleich
     *   Ferientermine
     *   Gasanbietervergleich
     *   Stromanbietervergleich
-    *   Energievergleiche
     *   Gehaltscheck
     *   Uni-Tools
     *   Währungsrechner
@@ -307,13 +305,11 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   AUTO
 *   Benzinpreis
 *   Bußgeldrechner
-*   Kfz-Versicherung
 *   Firmenwagenrechner
 
 *   ENERGIE
 *   Gasanbietervergleich
 *   Stromanbietervergleich
-*   Energievergleiche
 
 *   JOB
 *   Brutto-Netto-Rechner
@@ -332,10 +328,9 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
     *   Sudoku
     *   Kenken
     *   Street
-    *   Gutscheine
-*   *   Bücher bestellen
+*   *   Gutscheine
+    *   Bücher bestellen
     *   Arztsuche
-    *   DSL-Vergleich
     *   Ferientermine
     *   Sportwetten
 
@@ -399,4 +394,4 @@ Bitte prüfen Sie, ob Sie ähnliche Erweiterungen, Do-not-Track-Funktionen oder 
 
 Welche Bedeutung Werbung für SPIEGEL ONLINE hat, was wir für Ihre Sicherheit im Netz tun, wie unsere Redaktion arbeitet – Fragen und Antworten finden Sie hier.
 
-<div id="rOZeINLABDa">. <div id="rOZeINLABDb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
+<div id="sySsGHfYzVa">. <div id="sySsGHfYzVb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
