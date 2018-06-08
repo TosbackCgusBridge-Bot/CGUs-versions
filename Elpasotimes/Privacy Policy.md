@@ -1,4 +1,4 @@
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%
+SUBSCRIBE NOW99¢ per month. Save 90%
 
 *   Home
 *   News
@@ -75,7 +75,7 @@ close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events9
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowCruz's team questions O'Rourke mom's businessPoliticsUndocumented immigrant tied to gang arrestedCrimeInside peek at Downtown El Paso boutique hotelNewsImmigrant family separations draw backlashImmigrationEl Paso firefighter captain dies after accidentLocalOne person killed in accident on Dyer StreetLocalEl Dorado High football coach accused of DWICrimeCatholic Diocese to build church on far East SideLocalCity Council appoints interim city attorneyLocalSouthwest mega fare sale: $49 one wayNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEPISD names school after Bobby Joe HillEducation2 El Pasoans drafted by Red Sox, DiamondbacksMlbTexas man bitten by beheaded snakeNewsCool off with upcoming Ice Cream FestivalEntertainmentEl Paso firefighter captain dies after accidentLocalEl Paso hotel seeks 106 years of memoriesNewsCruz's team questions O'Rourke mom's businessPoliticsInside peek at Downtown El Paso boutique hotelNewsUndocumented immigrant tied to gang arrestedCrimeSWAT team looks for subject in Northeast homeCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,5 +145,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogclose dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per MonthFor 3 MonthsSubscribe Not looking to subscribe right now close dialog
