@@ -850,9 +850,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 30% off all swimwear, water shoes and more. 25% off all other full-price styles!
 
-code: LADYBUG pin: 1983 DETAILS
+code: FLOWER pin: 5771 DETAILS
 
 Customer Service Menu
 
@@ -1121,4 +1121,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
