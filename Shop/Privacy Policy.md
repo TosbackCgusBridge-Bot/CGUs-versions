@@ -321,7 +321,6 @@ Menu Close Menu Close
     *   Desktop Deals
     *   Monitor Deals
     *   ACCESSORY DEALS
-    *   Tablets &. AR/VR
     *   Clearance
     *   Financing Options
     *   Outlet
@@ -376,17 +375,13 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-"The Maserati of business laptops."
+Workstation power. Ultrabook mobility.
 
-LAPTOP, March 9, 2018, 5 out of 5 Stars Editor's Rating
+Learn More >.
 
-Build your new ThinkPad X1 Carbon >>.
+Made for active creators with NVIDIA GTX Graphics, touch-screen and pen support - power up your performance.
 
-Different discovers better
-
-FLEXIBLE DESIGN. AUDACIOUS ACHIEVEMENTS.
-
-Learn more >.
+Learn More >.
 
 Leading the pack
 
@@ -400,19 +395,19 @@ Learn more >.
 
 TODAY'S SALES
 
-Save up to 40% off through June 7 at 4am ET.
+Save up to 40% off through June 13 at 4am ET.
 
-MEMORIAL DAY BUSINESS SALE EXTENDED
+BUSINESS SALE
 
-Sign up to LenovoPro and receive exclusive EXTENDED access. Sale ends June 6 at 4am ET.
+Save up to 48% on our top selling thin &. light PCs. Sale ends June 10 at 4am ET.
 
-Home Laptop Flash Sale
+Thin &. Light Flash Sale
 
-Save up to $180 off select home laptops. Limited Time Only!. Sale ends June 6 at 4am ET.
+Save up to $650 off on select ultra slim, thinner, lighter and engineered to last as long as you do. Sale Ends June 10 at 4am ET.
 
-Yoga 730 15"
+New ThinkPad E580
 
-Break out of the 90-degree mold and rock tech global-style.
+Customize your 15" laptop. Available in Black or Silver.
 
 M910 Tiny: Think Big with a Tiny Desktop &. Monitor
 
