@@ -75,7 +75,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   ‘Hereditary’ Director Ari Aster Has a “Crazy” Sequel Idea, Plus: Details on His Next Film Read More
-    *   Jared Leto and 'The Joker' Will Stand Alone. Here's What We Know So Far Read More
+    *   Val Kilmer Confirmed for 'Top Gun: Maverick'. Here's Everything We Know Read More
     *   'Spider-Man: Into the Spider-Verse' Bursts Into Flight in First Trailer. Here's Everything We Know Read More
     
     Explore Content
@@ -321,21 +321,21 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Jurassic World: Fallen Kingdom' Gift With Purchase
+*   'Ocean's 8' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Jurassic World: Fallen Kingdom' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
-    
-*   'Solo: A Star Wars Story' Gift With Purchase
-    
-    Receive a FREE\* exclusive 'Solo: A Star Wars Story' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive 'Ocean's 8' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Won't You Be My Neighbor' Gift With Purchase
     
     Receive a FREE\* exclusive Mister Rogers Pocket POP! Keychain with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'Ocean's 8' Gift With Purchase
+*   'Solo: A Star Wars Story' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Ocean's 8' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive 'Solo: A Star Wars Story' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    
+*   'Action Point' Gift With Purchase
+    
+    Own up to five eligible 'JACKASS' movies to watch at home for just $2.99 each with ticket purchase. BUY TICKETS
     
 
 New + Coming soon
