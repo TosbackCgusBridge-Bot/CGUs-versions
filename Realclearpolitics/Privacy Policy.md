@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Eugene Robinson_: His Majesty Czar Donald I Claims Imperium
+*   _Steve Lopez_: Stunning Apathy in the Heart of California's Trump Resistance
     
-*   _Conrad Black_: As the Russia Farce Winds Down, Spygate Begins to Unfold
+*   _Hulse &. Martin_: Dems Strengthen House Takeover Prospects in Primary Voting
     
-*   _Franklin Foer_: The Astonishing Tale of the Man Mueller Calls 'Person A'
+*   _Dan Palmer_: There Is No 'Blue Wave' in California
     
-*   _David Von Drehle_: There Will Be No Trump Collapse
+*   _Donald Tusk_: Despite Trump, the West Must Stay United
     
-*   _Nate Silver_: Sometimes the Parties Do Decide, After All
+*   _Victor Davis Hanson_: Europe's Vanishing Calm
     
-*   _Stella Morabito_: Today's 2 Political Camps: Pro-Thought vs. Anti-Thought
+*   _Ball &. Berenson_: Trump's Campaign to Discredit Russia Probe May Be Working
     
-*   _Michael Nutter_: President Trump, Please Stop Lying About Eagles and the Flag
+*   _Paul Sperry_: Pre-Dossier Carter Page: Russian Spy ... or FBI Honor Scout?
     
-*   _Jonathan Tobin_: Standing Up to the UN Shows America's Greatness
+*   _John Harris_: What Bill Clinton Was Really Thinking
     
-*   _Bonnie Glaser_: America, Hold on to Your Allies. You'll Need Them.
+*   _Eddie Scarry_: The Media Don't Care About Monica Lewinsky
     
-*   _Bryant Harris_: Jilted Democrats Fume Over Trump-Netanyahu Lovefest
+*   _Mary Sanchez_: Kate Spade's Life, and Her Suicide, Resonate With Women
     
-*   _Carl Cannon_: An Old Soldier's Valor on D-Day
+*   _Frank Miniter_: Dems' IT Scandal Set to Explode With Possible Plea Deal
     
-*   _Milton Ezrati_: Why China Can't Afford a Trade War
+*   _Danny Westneat_: Howard Schultz, 2020? He'd Be a Lamb to the Slaughter
     
-*   _David Ignatius_: Trump's Tariffs Give Democrats a Big Opportunity
+*   _Ron Brownstein_: Can Democrats Press Their Home-Court Advantage?
     
-*   _Byron York_: Strategists Ask: What Does It Mean to 'Approve' of Trump?
+*   _Michael Barone_: CA Results Suggest 'Blue Wave' Has Crested &. Ebbed
     
-*   _George Packer_: Witnessing the Obama Presidency, From Start to Finish
+*   _David Faris_: Dems Blowing It By Not Being More Progressive, Anti-Trump
     
-*   _Caitlin Huey-Burns_: Dems Avoid Lockouts in Key California Races
+*   _Carl M. Cannon_: From Russia, With Malice
     
-*   _Pillifant &. Voorhees_: Democrats' Newest Headache Is in New Jersey
+*   _Sohrab Ahmari_: Anything for the Ayatollah
     
-*   _Steven Hayward_: Climate Change Has Run Its Course
+*   _Marc Ambinder_: The Power of Mueller's Facts
     
-*   _Jack Shafer_: How Does Scott Pruitt Survive?
+*   _Eric Felten_: Adam Schiff's Unrequited Love for the FBI
     
-*   _Brian Doherty_: Kanye West Supports Trump, Holds On to His Pop Audience
+*   _Nicholas Kristof_: Dems Childishly Resist Trump's North Korea Efforts
     
-*   _Adam Serwer_: The Truth About Trump &. His Supporters: They're Racist
+*   _Ed Rogers_: Trump-Sessions Relationship May Be at Breaking Point
     
-*   _Myra Adams_: Will 'Hurricane Trump' Impact Republican Governor Race in FL?
+*   _John Cassidy_: Strong Economy Poses Challenge For Dems in Midterms
     
-*   _Gideon Resnick_: Women Surge on Night of Electoral Firsts
+*   _Tom Bevan_: Club for Growth Notches Another Win
     
-*   _Robert George_: Colorado Made the Masterpiece Case Easy for the Court
+*   _Osita Nwanevu_: Democrats and the Feinstein Problem
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Takes His Own Brand of Diplomacy to North Korea Summit
 *   Democrats Avoid Lockouts in Key California Races
-*   Rosendale Wins Montana Republican Senate Primary, to Face Tester
-*   McConnell: I'm Canceling Recess Because of Dems' Historic Obstruction
-*   Rep. Kristi Noem Wins South Dakota Republican Governor Primary
-*   In WI, Walker Ad Touts Stabilization of Health Law as Premiums Rise
+*   Giuliani: Mueller Team Trying Very, Very Hard to Frame Trump
+*   Trump Commutes Term of Kardashian-Championed Drug Offender
+*   South Dakota's Noem Not Playing Up Gender in Governor Run
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Utah 4th District - Love vs. McAdamsUtahPolicy/Dan Jones
-    *   Love47
-    *   McAdams43Love +4
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve40
-    *   Disapprove51Disapprove +11
+*   President Trump Job ApprovalFOX News
+    *   Approve45
+    *   Disapprove51Disapprove +6
+*   2018 Generic Congressional VoteFOX News
+    *   Democrats48
+    *   Republicans39Democrats +9
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve44
+    *   Disapprove53Disapprove +9
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve49
     *   Disapprove49Tie
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve42
-    *   Disapprove54Disapprove +12
 
 More Latest Polls In The News
 
+*   Ryan: We Require And Expect The Justice Department To Provide All Documents Requested By Congress
+*   Full Replay: Secretary Of State Mike Pompeo Briefing Ahead Of G-7, Singapore Summits
+*   Sanders vs. Cuomo: Do Dems Hate Trump More Than They Love The Country?
 *   Schumer: Democratic Candidates Won't Invite Obama, Clinton "If They Don't Think It Will Help Them"
 *   Lt. Col. Ralph Peters to CNN: "I Am Convinced That Vladimir Putin Has A Grip On President Trump"
-*   John Cox Victory Speech: It Wasn't Trump Who Made California Highest Taxed State, It Was Gavin Newsom
-*   Chris Matthews: So Much Elitism In The Democratic Party. Need To Stop Thinking They're "Better Than"
-*   Hewitt to Jeff Sessions: Why Must We Separate Parents From Children When Detained At Border?
 
 *   Politics
 *   Policy
