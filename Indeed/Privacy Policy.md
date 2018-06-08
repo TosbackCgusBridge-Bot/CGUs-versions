@@ -14,7 +14,7 @@ Find JobsCompany ReviewsFind SalariesFind ResumesEmployers / Post Job Upload you
 
 Cookie Policy
 
-Last Updated: May 15, 2018
+Last Updated: June 7, 2018
 
 By using or accessing Indeed’s websites (“Site”), you are consenting to Indeed’s use of Cookies as outlined below. All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
@@ -46,7 +46,7 @@ Use the options in your web browser if you do not wish to receive a cookie or if
 *   **Opera**
 *   **Opera Mobile**
 
-If your browser is not listed here, consult the documentation that your particular browser manufacturer provides. You may also consult your mobile device documentation for information on how to disable cookies on your mobile device. If you disable all cookies, you may not be able to take advantage of all the features of this Site.
+If your browser is not listed here, consult the documentation that your particular browser manufacturer provides. You may also consult your mobile device documentation for information on how to disable cookies on your mobile device. If you disable all cookies, you may not be able to take advantage of all the features of this Site. Please note that if you have not cleared your cookies or cache, the contents of which may affect autofill functions on the Indeed site and you are responsible for any such actions.
 
 In addition, Indeed may also provide an employer with code for a Conversion Tracker to place on its Site that pings the job seeker web beacon and tracks whenever a job seeker has applied to a job on that employer’s website. This Conversion Tracker will attribute an application to Indeed any time the job seeker started their search on Indeed, despite any intervening activity. Indeed does not and cannot collect any of the job seeker’s personally identifiable information and does not have access to the cookies in the employer’s domain. The Conversion Tracker is simply a counter that notifies Indeed that a job seeker has applied. If a job seeker has disabled the web beacon, the Conversion Tracker will have no functionality. If you would like to remove yourself from Indeed’s job seeker web beacon, you must click here.
 
@@ -1079,4 +1079,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cfccfakj1bri7gn&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>. By using Indeed you agree to our new Privacy Policy, Cookie Policy and Terms, which we encourage you to review.Dismiss
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cfeuhh3n182n2al&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>. By using Indeed you agree to our new Privacy Policy, Cookie Policy and Terms, which we encourage you to review.Dismiss
