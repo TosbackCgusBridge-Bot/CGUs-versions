@@ -80,7 +80,7 @@ We may display interest-based ads to you when you are using Facebook through a t
 *   I would like to opt OUT of Facebook Custom Audience ads.
 
 **Google Custom Match Ads**  
-We may display interest-based ads to you when you are using Google through a tool offered by Google called the Custom Match Program. This tool allows us to personalize our ads based on your shopping experience with us. We do not share any of your personal information with Google. The tool lets Mattress Firm convert your e-mail address to a unique number that Google uses to match to unique numbers Google generates from e-mail addresses of its users.
+We may display interest-based ads to you when you are using Google through a tool offered by Google called the Custom Match Program. This tool allows us to personalize our ads based on your shopping experience with us. The tool lets Mattress Firm convert your e-mail address to a unique number that Google uses to match to unique numbers Google generates from e-mail addresses of its users.
 
 *   I would like to opt OUT of Google Custom Match ads.
 
