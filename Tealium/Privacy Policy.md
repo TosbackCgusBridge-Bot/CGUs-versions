@@ -6,6 +6,7 @@
 *   Solutions
     *   Mobile
     *   Identity Resolution
+    *   Client-side &. Server-side Data
     *   Preparing for GDPR
     *   Trust and Privacy
     *   Martech Challenge
@@ -45,6 +46,7 @@
 *   Solutions
     *   Mobile
     *   Identity Resolution
+    *   Client-side &. Server-side Data
     *   Preparing for GDPR
     *   Trust and Privacy
     *   Martech Challenge
