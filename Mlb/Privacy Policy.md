@@ -9,9 +9,9 @@ Exhibition Team logoAmerican League logoNational League logoLos Angeles Angels o
     *   Top Prospects
     *   Injury Updates
     *   Transactions
+    *   Starting Lineups
     *   Hall of Fame
     *   Postseason history
-    *   World Series
     *   Events
     *   MLB Draft
     *   All-Star Game
@@ -83,6 +83,7 @@ Exhibition Team logoAmerican League logoNational League logoLos Angeles Angels o
     *   Injury Updates
     *   Depth Charts
     *   Transactions
+    *   Starting Lineups
     *   Top Prospects
     *   Mobile Player Alerts
     *   MLB Players Association
