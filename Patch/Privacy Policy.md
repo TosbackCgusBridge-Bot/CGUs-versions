@@ -1,14 +1,6 @@
 Toggle navigation Find Your Town Advertise Post Log in
 
-*   Post
-*   Manage posts
-*   Settings
-*   Help
-*   Contact
-*   Advertise
-*   Log out
-
-*   Thu, Jun 7
+*   Fri, Jun 8
 
 *   Post
 *   Advertise
@@ -68,6 +60,8 @@ Find Your Community See All Patches Regional
 *   West Virginia
 *   Wisconsin
 *   Wyoming
+
+Patch Privacy Policy
 
 Last Updated: May 17, 2018
 
