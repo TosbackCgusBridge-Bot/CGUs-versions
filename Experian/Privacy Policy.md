@@ -177,8 +177,8 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
 *   Chile
 *   China
 *   Colombia
-*   Czech Republic
 
+*   Czech Republic
 *   Denmark
 *   France
 *   Germany
@@ -203,7 +203,6 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
 *   South Korea
 
 *   Spain
-*   Sweden
 *   Switzerland
 *   Taiwan
 *   Thailand
