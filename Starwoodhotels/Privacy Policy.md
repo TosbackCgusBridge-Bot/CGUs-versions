@@ -653,7 +653,7 @@ Put the world at your fingertips. With an app for every device, and a tool for e
 *   **FOUR POINTS**
 *   **element**
 
-You are on SPG.com Starwood Hotels &. Resorts Other Starwood Brands >. Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Design Hotels Starwood Preferred Guest Starwood Hotels Learn about our brands
+Starwood Hotels &. Resorts Other Starwood Brands >. Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Tribute Portfolio Design Hotels Starwood Preferred Guest Starwood Hotels Learn about our brands
 
 © 2018 Marriott International, Inc., All rights reserved. |
 
