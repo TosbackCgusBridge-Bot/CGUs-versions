@@ -19,10 +19,10 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   American Girl GDPR Choice Portal
 *   Contact Us
 
-Select Your Language Dansk (Danmark) Norsk (Norge) Português (Portugal) Svenska (Sverige) Čeština (Česká Republika) Ελληνικά (Ελλάδα) English Deutsch (Deutschland) Español (España) Français (France) Italiano (Italia) Nederlands (Nederland) Polski (Polska) Romanian
+Select Your Language Português (Portugal) English Deutsch (Deutschland) Español (España) Français (France) Italiano (Italia) Nederlands (Nederland) Polski (Polska)
 
 *   Menu
-    *   Select Your Language Dansk (Danmark) Norsk (Norge) Português (Portugal) Svenska (Sverige) Čeština (Česká Republika) Ελληνικά (Ελλάδα) English Deutsch (Deutschland) Español (España) Français (France) Italiano (Italia) Nederlands (Nederland) Polski (Polska) Romanian
+    *   Select Your Language Português (Portugal) English Deutsch (Deutschland) Español (España) Français (France) Italiano (Italia) Nederlands (Nederland) Polski (Polska)
     *   Privacy Statement
         *   About Cookies and Technologies
         *   Your California Privacy Rights
