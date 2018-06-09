@@ -100,9 +100,9 @@ Whether a use is primary or secondary may change over time. Some of the informat
   
 Back to Top Sharing of Information
 
-Our agents, vendors, consultants, and other service providers have access to Personal Information to carry out work on our behalf. These third party service providers are prohibited from using your Personal Information for any purpose other than to provide this assistance, and they must provide protections to your Personal Information that are no less protective than those set out in this Privacy Policy. Southwest is not liable for the acts or omissions of these third party service providers except to the extent required by applicable law.
+Our agents, vendors, consultants, and other service providers have access to Personal Information to carry out work on our behalf.
 
-We may share information about you for various purposes. Primary purposes for sharing of information include:
+We may also share information about you for various purposes. Primary purposes for sharing of information include:
 
 *   With the Transportation and Security Administration (“TSA”) as legally permitted or required under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560;
 
