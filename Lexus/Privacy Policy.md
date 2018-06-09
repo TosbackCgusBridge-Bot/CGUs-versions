@@ -93,7 +93,7 @@ COMPARE **NX**
 
 **RX**
 
-*   Starting at $43,2701\*
+*   Starting at $43,4701\*
 *   3 ROW SEATING UP TO 74\*
 
 *   Build
@@ -101,7 +101,7 @@ COMPARE **NX**
 
 **RX HYBRID**
 
-*   Starting at $45,6951\*
+*   Starting at $45,8951\*
 *   30-MPG COMBINED RATING2\*
 
 *   Build
@@ -169,7 +169,7 @@ COMPARE **NX HYBRID**
 
 **RX HYBRID**
 
-*   Starting at $45,6951\*
+*   Starting at $45,8951\*
 *   30-MPG COMBINED RATING2\*
 
 *   Build
