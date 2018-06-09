@@ -74,9 +74,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   ‘Hereditary’ Director Ari Aster Has a “Crazy” Sequel Idea, Plus: Details on His Next Film Read More
-    *   Val Kilmer Confirmed for 'Top Gun: Maverick'. Here's Everything We Know Read More
-    *   'Spider-Man: Into the Spider-Verse' Bursts Into Flight in First Trailer. Here's Everything We Know Read More
+    *   See Exclusive 'The Little Stranger' Photos Read More
+    *   First 'Halloween' Trailer Is Terrifying. Here's Everything We Know Read More
+    *   'Halloween' Set Visit Read More
     
     Explore Content
     *   Movie Reviews
