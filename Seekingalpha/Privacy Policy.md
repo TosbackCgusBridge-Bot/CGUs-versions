@@ -4,91 +4,36 @@ PROMarketplaceSeeking Alpha
 *   People
 *   News
     
-    *   Market News
-    *   On The Move
-    *   All Market News
+    *   Most Used
+    *   Market News (by date)
     *   Top News
-    *   Wall St. Breakfast
-    *   IPOs
-    *   US Economy
-    *   M&A
-    *   Cryptocurrency
-    
-    *   News by Sector
-    *   Tech
-    *   Energy
-    *   Healthcare
-    *   Consumer
-    *   Financials
-    *   Commodities
-    
-    *   Earnings
+    *   Wall Street Breakfast
+    *   Dividend News
     *   Earnings Calendar
-    *   Top Movers on Earnings
-    *   Earnings Analysis
-    *   Earnings News
-    *   Earnings Call Transcripts
+    *   See All Sections
     
-    *   Market Performance
-    *   Bonds
-    *   Commodities
-    *   Countries
-    *   Currencies
-    *   Dividends
-    *   Emerging Markets
-    *   Global and Regions
-    *   Growth &. Value
-    *   Market Cap
-    *   Real Estate
-    *   Sectors
-    *   Strategies
-    *   Smart Beta
-    *   Subsectors
+    *   Recommended
+    *   Energy News
+    *   Healthcare News
+    *   Tech News
+    *   On The Move
+    *   Latest StockTalks
 *   Analysis
     
-    *   Stock Ideas
-    *   Long Ideas
-    *   Short Ideas
-    *   Sectors
-    *   Editor's Picks
-    *   Quick Picks
-    *   Fund Letters
-    
+    *   Most Used
     *   Dividends
-    *   REITs
     *   Dividend Ideas
-    *   Dividend Strategy
-    *   Dividend News
-    *   Dividend Quick Picks
-    *   Editor's Picks
-    
     *   Market Outlook
-    *   Global Markets
-    *   Today's Market
-    *   Economy
-    *   Gold &. Precious Metals
-    *   Commodities
-    *   Forex
-    *   Real Estate
-    *   Editor's Picks
-    *   Cryptocurrency
+    *   Stock Ideas
+    *   REITs
+    *   See All Sections
     
-    *   Investing Strategy
-    *   Portfolio Strategy
-    *   Fixed Income
-    *   Bonds
-    *   Financial Advisors
-    *   Retirement
-    *   IPOs
-    *   Editor's Picks
-    
-    *   ETFs and Funds
-    *   ETF Screener
-    *   ETF Analysis
-    *   ETF Guide
-    *   Mutual Funds
+    *   Recommended
+    *   Short Ideas
     *   Closed End Funds
-    *   Editor's Picks
+    *   Today's Market
+    *   Investing Strategy
+    *   Gold &. Precious Metals
 
 Sign in / Join Now Privacy
 
