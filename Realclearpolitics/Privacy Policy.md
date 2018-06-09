@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Steve Lopez_: Stunning Apathy in the Heart of California's Trump Resistance
+*   _Joshua Keating_: The Korean War Might Finally Be Coming to an End
     
-*   _Hulse &. Martin_: Dems Strengthen House Takeover Prospects in Primary Voting
+*   _Michael Kruse_: The 'What, Me Worry?' President
     
-*   _Dan Palmer_: There Is No 'Blue Wave' in California
+*   _Marc Thiessen_: Obama Took Lying to New Heights With Iran Deal
     
-*   _Donald Tusk_: Despite Trump, the West Must Stay United
+*   _Krishnadev Calamur_: Has the Western World Started Shunning America?
     
-*   _Victor Davis Hanson_: Europe's Vanishing Calm
+*   _Liz Peek_: China's Rising Emissions Prove Trump Right on Paris Agreement
     
-*   _Ball &. Berenson_: Trump's Campaign to Discredit Russia Probe May Be Working
+*   _Ramesh Ponnuru_: Four Reasons Scott Pruitt's Luck May Be Running Out
     
-*   _Paul Sperry_: Pre-Dossier Carter Page: Russian Spy ... or FBI Honor Scout?
+*   _Adam Serwer_: The Man Who Would Be King
     
-*   _John Harris_: What Bill Clinton Was Really Thinking
+*   _Andrew McCarthy_: Andrew McCabe Should Never Receive Immunity
     
-*   _Eddie Scarry_: The Media Don't Care About Monica Lewinsky
+*   _Carl Cannon_: The Mourning Paper: Delivering News of RFK's Death
     
-*   _Mary Sanchez_: Kate Spade's Life, and Her Suicide, Resonate With Women
+*   _Patrick Keefe_: Travels With Anthony Bourdain
     
-*   _Frank Miniter_: Dems' IT Scandal Set to Explode With Possible Plea Deal
+*   _Charles Krauthammer_: Goodbye to Colleagues, Friends and Viewers
     
-*   _Danny Westneat_: Howard Schultz, 2020? He'd Be a Lamb to the Slaughter
+*   _Larry Kudlow_: Trump Presides Over Extraordinary Growth. G-7 Should Notice.
     
-*   _Ron Brownstein_: Can Democrats Press Their Home-Court Advantage?
+*   _Ian Bremmer_: U.S. Allies Are Ready to Turn Their Backs on Trump at G-7
     
-*   _Michael Barone_: CA Results Suggest 'Blue Wave' Has Crested &. Ebbed
+*   _Jeff Spross_: Is the G-7 Obsolete?
     
-*   _David Faris_: Dems Blowing It By Not Being More Progressive, Anti-Trump
+*   _Rich Lowry_: Why Trump's Presidency Is Now Stronger Than Ever
     
-*   _Carl M. Cannon_: From Russia, With Malice
+*   _Susan Rice_: How Trump Helps Putin
     
-*   _Sohrab Ahmari_: Anything for the Ayatollah
+*   _Willis Krumholz_: How Obama's Intel Agencies Fabricated the Russia Story
     
-*   _Marc Ambinder_: The Power of Mueller's Facts
+*   _Neal Katyal_: President Trump Is Wrong. The Russia Probe Is Constitutional
     
-*   _Eric Felten_: Adam Schiff's Unrequited Love for the FBI
+*   _Newt Gingrich_: The Red Wave Is Growing
     
-*   _Nicholas Kristof_: Dems Childishly Resist Trump's North Korea Efforts
+*   _Everett &. Schor_: 'Cryin' Chuck' Might Just Get the Last Laugh
     
-*   _Ed Rogers_: Trump-Sessions Relationship May Be at Breaking Point
+*   _Sean Trende_: What to Make of the California Primary Results
     
-*   _John Cassidy_: Strong Economy Poses Challenge For Dems in Midterms
+*   _Susan Glasser_: 'America First' Is Turning Out to Be America Alone
     
-*   _Tom Bevan_: Club for Growth Notches Another Win
+*   _Miller &. Sokolsky_: Why the U.S.-North Korea Summit Might Succeed
     
-*   _Osita Nwanevu_: Democrats and the Feinstein Problem
+*   _Peter Berkowitz_: Israel Can Ease Gaza Tensions, But So Must the UN
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   What to Make of the California Primary Results
+*   Primary in Staten Island--Trump Country--Worries Republicans
+*   Ryan: We Require and Expect DOJ to Provide All Requested Documents
 *   Trump Takes His Own Brand of Diplomacy to North Korea Summit
 *   Democrats Avoid Lockouts in Key California Races
-*   Giuliani: Mueller Team Trying Very, Very Hard to Frame Trump
-*   Trump Commutes Term of Kardashian-Championed Drug Offender
-*   South Dakota's Noem Not Playing Up Gender in Governor Run
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -248,23 +248,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalFOX News
     *   Approve45
     *   Disapprove51Disapprove +6
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove51Disapprove +4
 *   2018 Generic Congressional VoteFOX News
     *   Democrats48
     *   Republicans39Democrats +9
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve44
-    *   Disapprove53Disapprove +9
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove49Tie
+*   Georgia Governor - Republican Primary Run-OffRosetta Stone
+    *   Cagle48
+    *   Kemp41Cagle +7
 
 More Latest Polls In The News
 
+*   Nancy Pelosi: "Hip Hip Hooray, Unemployment Is Down," But It Means Nothing Without Higher Wages
+*   Tucker Carlson: "Obedient Servants Of National Security State From Both Parties Participating In Cover-Up"
 *   Ryan: We Require And Expect The Justice Department To Provide All Documents Requested By Congress
 *   Full Replay: Secretary Of State Mike Pompeo Briefing Ahead Of G-7, Singapore Summits
-*   Sanders vs. Cuomo: Do Dems Hate Trump More Than They Love The Country?
-*   Schumer: Democratic Candidates Won't Invite Obama, Clinton "If They Don't Think It Will Help Them"
-*   Lt. Col. Ralph Peters to CNN: "I Am Convinced That Vladimir Putin Has A Grip On President Trump"
+*   Sanders vs. Cuomo: Do Dems Hate Trump More Than They Love The Country?. They Have No Message
 
 *   Politics
 *   Policy
