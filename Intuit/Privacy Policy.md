@@ -17,11 +17,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 1 OF COUPON CODE GOSAVE6 ENDS IN
+Near YouFind a StoreBack DAY 2 OF COUPON CODE GOSAVE6 ENDS IN
 
 \*offer ends 6/13/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 2 2 8 7 secs ARIZONA SHIRTS UNDER $15Shop AllARIZONA SHIRTS UNDER $15Shop AllARIZONA SHIRTS UNDER $15Shop All
+Days 0 0 0 0 hours 4 4 0 0 mins 5 4 0 9 secs ARIZONA SHIRTS UNDER $15Shop AllARIZONA SHIRTS UNDER $15Shop AllARIZONA SHIRTS UNDER $15Shop All
 
 *   $9.99 sale
     
@@ -52,7 +52,7 @@ A.N.A SHORTS UNDER $20Shop AllA.N.A SHORTS UNDER $20Shop All
 
 *   $14.99 sale
     
-    was $32 a.n.a Twill Short (5")(18)Add To Cart
+    was $32 a.n.a Twill Short (5")(19)Add To Cart
 *   $14.99 sale
     
     was $32 a.n.a Twill Short (3 1/2")(32)Add To Cart
@@ -62,12 +62,12 @@ A.N.A SHORTS UNDER $20Shop AllA.N.A SHORTS UNDER $20Shop All
 *   $14.99 sale
     
     was $37 a.n.a Twill Bermuda (9")(7)Add To Cart
-*   $17.99 sale
-    
-    was $39 a.n.a Denim Bermuda Shorts (9")(5)Add To Cart
 *   $14.99 - $17.99 sale
     
     was $37 a.n.a Denim Shorts (5")(14)Add To Cart
+*   $17.99 sale
+    
+    was $39 a.n.a Denim Bermuda Shorts (9")(5)Add To Cart
 *   $17.99 sale
     
     was $37 a.n.a Denim Shorts (3 1/2")(9)Add To Cart
@@ -79,25 +79,25 @@ FENTY BEAUTY BY RIHANNAShop AllFENTY BEAUTY BY RIHANNAShop All
 
 *   $32
     
-    FENTY BEAUTY by Rihanna Iridescent Lip Luminizer Trio(56)Add To Cart
+    FENTY BEAUTY by Rihanna Iridescent Lip Luminizer Trio(58)Add To Cart
 *   $36
     
-    FENTY BEAUTY by Rihanna Killawatt Foil Freestyle Highlighter Duo(105)Add To Cart
+    FENTY BEAUTY by Rihanna Killawatt Foil Freestyle Highlighter Duo(107)Add To Cart
 *   $34
     
-    FENTY BEAUTY BY RIHANNA Pro Filt'r Soft Matte Longwear Foundation(9348)Add To Cart
-*   $54
-    
-    FENTY BEAUTY BY RIHANNA Match Stix Trio(972)Add To Cart
-*   $18
-    
-    FENTY BEAUTY BY RIHANNA Gloss Bomb Universal Lip Luminizer(4694)Add To Cart
+    FENTY BEAUTY BY RIHANNA Pro Filt'r Soft Matte Longwear Foundation(9356)Add To Cart
 *   $18
     
     FENTY BEAUTY BY RIHANNA Mattemoiselle Plush Matte Lipstick(1391)Add To Cart
+*   $54
+    
+    FENTY BEAUTY BY RIHANNA Match Stix Trio(975)Add To Cart
 *   $34
     
-    FENTY BEAUTY BY RIHANNA Killawatt Freestyle Highlighter Duo(2397)Add To Cart
+    FENTY BEAUTY BY RIHANNA Killawatt Freestyle Highlighter Duo(2400)Add To Cart
+*   $18
+    
+    FENTY BEAUTY BY RIHANNA Gloss Bomb Universal Lip Luminizer(4696)Add To Cart
 *   $24
     
     FENTY BEAUTY BY RIHANNA Portable Highlighter Brush(41)Add To Cart
@@ -106,7 +106,7 @@ BRAS STARTING AT $14.99Shop AllBRAS STARTING AT $14.99Shop All
 
 *   LIMITED TIME SPECIAL!
     
-    $14.99 sale
+    $14.99 - $16.99 sale
     
     was $35 Playtex® 18 Hour® Comfort Strap® Bra - 4693(4854)Add To Cart
 *   LIMITED TIME SPECIAL!
@@ -131,17 +131,17 @@ BRAS STARTING AT $14.99Shop AllBRAS STARTING AT $14.99Shop All
     
     $26.49 sale
     
-    was $39 Glamorise No-Bounce Cami Wireless Unlined Sports Bra-1066(580)Add To Cart
+    was $39 Glamorise No-Bounce Cami Wireless Unlined Sports Bra-1066(581)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $24.99 - $25.99 sale
+    
+    was $42 Bali® Passion for Comfort® Full Figure Minimizer Bra - 3385(778)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $19.99 - $28.99 sale
     
     was $42 Vanity Fair® Beauty Back™ Full-Figure Back Smoothing Wireless Bra - 71380(439)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $24.99 - $25.99 sale
-    
-    was $42 Bali® Passion for Comfort® Full Figure Minimizer Bra - 3385(777)Add To Cart
 
 Shop and Save at JCPenney
 
