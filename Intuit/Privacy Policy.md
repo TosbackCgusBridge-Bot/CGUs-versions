@@ -17,11 +17,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 2 OF COUPON CODE GOSAVE6 ENDS IN
+Near YouFind a StoreBack DAY 3 OF COUPON CODE GOSAVE6 ENDS IN
 
 \*offer ends 6/13/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 5 4 0 9 secs ARIZONA SHIRTS UNDER $15Shop AllARIZONA SHIRTS UNDER $15Shop AllARIZONA SHIRTS UNDER $15Shop All
+Days 0 0 0 0 hours 4 4 0 0 mins 5 5 2 1 secs ARIZONA SHIRTS UNDER $15Shop AllARIZONA SHIRTS UNDER $15Shop AllARIZONA SHIRTS UNDER $15Shop All
 
 *   $9.99 sale
     
@@ -79,28 +79,28 @@ FENTY BEAUTY BY RIHANNAShop AllFENTY BEAUTY BY RIHANNAShop All
 
 *   $32
     
-    FENTY BEAUTY by Rihanna Iridescent Lip Luminizer Trio(58)Add To Cart
+    FENTY BEAUTY by Rihanna Iridescent Lip Luminizer Trio(60)Add To Cart
 *   $36
     
-    FENTY BEAUTY by Rihanna Killawatt Foil Freestyle Highlighter Duo(107)Add To Cart
+    FENTY BEAUTY by Rihanna Killawatt Foil Freestyle Highlighter Duo(113)Add To Cart
 *   $34
     
-    FENTY BEAUTY BY RIHANNA Pro Filt'r Soft Matte Longwear Foundation(9356)Add To Cart
+    FENTY BEAUTY BY RIHANNA Pro Filt'r Soft Matte Longwear Foundation(9366)Add To Cart
 *   $18
     
-    FENTY BEAUTY BY RIHANNA Mattemoiselle Plush Matte Lipstick(1391)Add To Cart
+    FENTY BEAUTY BY RIHANNA Mattemoiselle Plush Matte Lipstick(1394)Add To Cart
 *   $54
     
-    FENTY BEAUTY BY RIHANNA Match Stix Trio(975)Add To Cart
+    FENTY BEAUTY BY RIHANNA Match Stix Trio(978)Add To Cart
 *   $34
     
-    FENTY BEAUTY BY RIHANNA Killawatt Freestyle Highlighter Duo(2400)Add To Cart
+    FENTY BEAUTY BY RIHANNA Killawatt Freestyle Highlighter Duo(2401)Add To Cart
 *   $18
     
-    FENTY BEAUTY BY RIHANNA Gloss Bomb Universal Lip Luminizer(4696)Add To Cart
-*   $24
+    FENTY BEAUTY BY RIHANNA Gloss Bomb Universal Lip Luminizer(4701)Add To Cart
+*   $25
     
-    FENTY BEAUTY BY RIHANNA Portable Highlighter Brush(41)Add To Cart
+    FENTY BEAUTY BY RIHANNA Match Stix Matte Skinstick(719)Add To Cart
 
 BRAS STARTING AT $14.99Shop AllBRAS STARTING AT $14.99Shop All
 
@@ -108,12 +108,7 @@ BRAS STARTING AT $14.99Shop AllBRAS STARTING AT $14.99Shop All
     
     $14.99 - $16.99 sale
     
-    was $35 Playtex® 18 Hour® Comfort Strap® Bra - 4693(4854)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $25.99 - $28.99 sale
-    
-    was $42 Vanity Fair® Beauty Back™ Full-Figure Back-Smoothing Underwire Bra - 76380(422)Add To Cart
+    was $35 Playtex® 18 Hour® Comfort Strap® Bra - 4693(4855)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $14.99 sale
@@ -121,22 +116,27 @@ BRAS STARTING AT $14.99Shop AllBRAS STARTING AT $14.99Shop All
     was $35 Playtex® 18 Hour® Ultimate Lift and Support Wireless Bra - 4745(1025)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $23.99 - $26.99 sale
+    $25.99 - $28.99 sale
     
-    was $39 Bali® Double Support® Wirefree Bra - 3820(1518)Add To Cart
-*   $14.99 sale
-    
-    was $30 Underscore Cushion Strap Wireless Unlined Full Coverage Bra-2788(659)Add To Cart
+    was $42 Vanity Fair® Beauty Back™ Full-Figure Back-Smoothing Underwire Bra - 76380(422)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $26.49 sale
+    $23.99 - $26.99 sale
     
-    was $39 Glamorise No-Bounce Cami Wireless Unlined Sports Bra-1066(581)Add To Cart
+    was $39 Bali® Double Support® Wirefree Bra - 3820(1519)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $24.99 - $25.99 sale
     
     was $42 Bali® Passion for Comfort® Full Figure Minimizer Bra - 3385(778)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $26.49 sale
+    
+    was $39 Glamorise No-Bounce Cami Wireless Unlined Sports Bra-1066(581)Add To Cart
+*   $14.99 sale
+    
+    was $30 Underscore Cushion Strap Wireless Unlined Full Coverage Bra-2788(660)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $19.99 - $28.99 sale
