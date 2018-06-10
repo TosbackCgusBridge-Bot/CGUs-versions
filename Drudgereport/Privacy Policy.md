@@ -137,11 +137,11 @@ LATEST ON TWITTER
 
 My week on Twitter : 3 Mentions, 1 Retweet, 51 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/5I5N…
 
-About 3 days ago
+About 4 days ago
 
 Our biggest fans this week: @karysjones0425. Thank you! via sumall.com/thankyou?… pic.twitter.com/GDkn…
 
-About 4 days ago
+About 5 days ago
 
 My week on Twitter : 14 Mentions, 1.47K Mention Reach, 9 Likes, 2 Retweets, 33K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LhME…
 
