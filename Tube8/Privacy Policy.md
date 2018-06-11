@@ -95,9 +95,9 @@ Close
     Top 20 Porntags*   japanese
     *   xxx bf
     *   japan
+    *   japanese mature
     *   mom
     *   italian
-    *   japanese mature
     *   brazzers
     *   homemade
     *   publicagent.com
@@ -107,8 +107,8 @@ Close
     *   german
     *   publicagent
     *   orgasm
-    *   masturbation
     *   petite
+    *   masturbation
     *   cumshot
     *   blonde
     *   brunette
