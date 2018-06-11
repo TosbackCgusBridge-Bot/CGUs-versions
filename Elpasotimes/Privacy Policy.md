@@ -1,5 +1,3 @@
-SUBSCRIBE NOW99¢ per month. Save 90%
-
 *   Home
 *   News
 *   Sports
@@ -75,7 +73,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowHouse of Pizza says racist Facebook post is fakeLocalFormer UTEP linebacker passes awaySportsWanted New Mexico dad caught at El Paso borderCrimeBeto O'Rourke visits the last of 254 countiesPoliticsFire destroys Trost-built historic homeLocalStudent graduates at hospital so mom can seeNews'Live PD' to have El Paso officer as TV guestTelevisionNew El Paso drive-thru deli deliversEntertainmentVehicle chase ends with arrest of El Paso manCrime2 arrested on meth, pot charges in West El PasoCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowHouse of Pizza says racist Facebook post is fakeLocalEl Paso mariachi gets wish to sing final timeLocalBeto O'Rourke visits the last of 254 countiesPoliticsWanted New Mexico dad caught at El Paso borderCrimeFormer UTEP linebacker passes awaySportsFire destroys Trost-built historic homeLocalPolice warn of phone scam pretending to be FBINewsStudent graduates at hospital so mom can seeNews'Live PD' to have El Paso officer as TV guestTelevisionLas Cruces' Trout loses championship matchSportsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
