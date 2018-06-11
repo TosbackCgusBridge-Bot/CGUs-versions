@@ -58,7 +58,7 @@ Recent Recent This Week in Agribusiness - June 9, 2018 Jun 09, 2018 Reaction to 
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Sukup partnering with OPIsystems Jun 07, 2018 I-LEAD program grows tomorrow’s ag leaders Jun 06, 2018 market overviewMarkets:View All Commodities NEW Cash Grain Bids  
+GET IT NOW Sukup partnering with OPIsystems Jun 07, 2018 I-LEAD program grows tomorrow’s ag leaders Jun 06, 2018 market overviewMarkets:View All Commodities NEW Cash Grain BidsContractLastChangeHighLowOpen Last TradeJul 18 Corn378-2+0-4 379-0376-2376-411:28 PM EDTJul 18 Soybeans969-2+0-0 972-2966-4966-611:31 PM EDTJul 18 Wheat523-0+3-0 528-2518-4520-011:24 PM EDTJul 18 KCBT Red Wheat543-0+4-6 546-4537-4538-211:03 PM EDTJul 18 SRWI Soft Red Wheat526-6s11:42 PM EDTJul 18 MGEX Spring Wheat596-0+3-4 598-2592-0592-011:04 PM EDTJun 18 Live Cattle110.150+1.650 110.450108.675108.7001:05 PM EDTAug 18 Feeder Cattle147.575+1.200 147.800146.150146.4251:05 PM EDTJun 18 Lean Hogs79.875s+1.475 80.12579.00079.0001:05 PM EDTShowing 1 to 9 of 9 entriesPrevious1Next  
 Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes. Discover Cash Grain Bids in your areaGoBROUGHT TO YOU BY
 
 Sign up for the Wallaces Farmer Update newsletter.
@@ -67,7 +67,7 @@ AfghanistanAland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarct
 
 Enter your email above to receive messages about offerings by Informa, its brands, affiliates and/or third-party partners, consistent with Informa's Privacy Statement.
 
-List Leave this field blank Today's weatherChange locationBROUGHT TO YOU BYWind75°F0%1 AM7 mph SW74°F0%2 AM7 mph SW73°F0%3 AM7 mph SSW72°F0%4 AM7 mph SSW72°F0%5 AM7 mph SSW72°F0%6 AM7 mph SSW71°F0%7 AM8 mph S72°F0%8 AM9 mph SSW73°F0%9 AM10 mph SSW75°F0%10 AM12 mph SSW78°F0%11 AM10 mph SSW81°F0%12 PM9 mph SSW84°F0%1 PM9 mph SSW85°F0%2 PM9 mph S86°F0%3 PM9 mph SSE88°F0%4 PM9 mph SSE87°F0%5 PM9 mph SE86°F0%6 PM9 mph ESE86°F0%7 PM9 mph ESE83°F0%8 PM9 mph ESE80°F0%9 PM9 mph ESE76°F0%10 PM10 mph ESE78°F0%11 PM7 mph SSW76°F0%12 AM7 mph SSWsee detailed weather >. Energy Ted Cruz says biofuel policy overhaul could be revived Jun 08, 2018 Trump delays ethanol policy announcement Jun 06, 2018 Group urges administration to support RFS Jun 06, 2018 Regulatory Farmers.gov gets development money Jun 08, 2018 Court rules in favor of USDA in COOL case Jun 07, 2018 6 appointed to National Pork Board Jun 07, 2018 Crops Corn market-building effort is complex Jun 08, 2018 China may increase soybean, ethanol, cotton purchases Jun 06, 2018 Tune-in to YouTube for IPM information Jun 06, 2018 Iowa corn, soybean crops off to good start Jun 05, 2018 Iowa Farm Scene Higher gas prices signal need for more E15 Jun 06, 2018 Year-round E15 sales would save drivers up to 15 cents per gallon. Featured media A rare collection Apr 26, 2018 Slideshow: Here’s a used tractor sale you don’t want to miss.
+List Leave this field blank Today's weatherChange locationBROUGHT TO YOU BYWind70°F0%1 AM10 mph E70°F0%2 AM9 mph ESE70°F0%3 AM8 mph ESE69°F0%4 AM8 mph ESE69°F0%5 AM8 mph ESE69°F0%6 AM8 mph ESE69°F0%7 AM9 mph ESE73°F0%8 AM9 mph ESE77°F0%9 AM9 mph SE80°F0%10 AM10 mph SSE83°F0%11 AM10 mph SSE86°F0%12 PM10 mph SSE88°F0%1 PM12 mph SSE88°F0%2 PM12 mph SSE88°F0%3 PM12 mph SSE89°F0%4 PM12 mph SSE88°F0%5 PM12 mph SSE87°F0%6 PM12 mph SSE86°F0%7 PM10 mph SSE82°F0%8 PM10 mph SSE78°F0%9 PM10 mph SSE74°F0%10 PM9 mph SSE72°F0%11 PM10 mph E71°F0%12 AM10 mph Esee detailed weather >. Energy Ted Cruz says biofuel policy overhaul could be revived Jun 08, 2018 Trump delays ethanol policy announcement Jun 06, 2018 Group urges administration to support RFS Jun 06, 2018 Regulatory Farmers.gov gets development money Jun 08, 2018 Court rules in favor of USDA in COOL case Jun 07, 2018 6 appointed to National Pork Board Jun 07, 2018 Crops Corn market-building effort is complex Jun 08, 2018 China may increase soybean, ethanol, cotton purchases Jun 06, 2018 Tune-in to YouTube for IPM information Jun 06, 2018 Iowa corn, soybean crops off to good start Jun 05, 2018 Iowa Farm Scene Higher gas prices signal need for more E15 Jun 06, 2018 Year-round E15 sales would save drivers up to 15 cents per gallon. Featured media A rare collection Apr 26, 2018 Slideshow: Here’s a used tractor sale you don’t want to miss.
 
 *   The Farm Progress Network
 *   Leadership
@@ -84,4 +84,4 @@ List Leave this field blank Today's weatherChange locationBROUGHT TO YOU BYWind7
 
 Follow us:
 
-© 2018 Informa USA, Inc., All Rights Reserved <img src="https://api.b2c.com/api/noscript-315re7h65uhsyo963dv.gif">
+© 2018 Informa USA, Inc., All Rights Reserved <img src="https://api.b2c.com/api/noscript-315re7h65uhsyo963dv.gif">.
