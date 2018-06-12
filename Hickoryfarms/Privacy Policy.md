@@ -124,7 +124,7 @@
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Hurry! Free Shipping on Shipments Over $35 Ends Monday!\*
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Just Extended! FREE Shipping ON SHIPMENTS OVER $35 - Guaranteed by Father's Day!
 
 1.  Home
 2.  Privacy Policy
