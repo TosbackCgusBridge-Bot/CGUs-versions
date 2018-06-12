@@ -5,48 +5,44 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 
 *   Movies Now Playing
     
+    *   Ocean's 8
     *   Solo: A Star Wars Story
     *   Deadpool 2
-    *   Adrift (2018)
+    *   Hereditary
     *   Avengers: Infinity War
+    *   Adrift (2018)
     *   Book Club
+    *   Hotel Artemis
     *   Upgrade (2018)
     *   Life of the Party
     *   Breaking In (2018)
-    *   Action Point
-    *   Overboard (2018)
-    *   A Quiet Place
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Hereditary
-    *   Hotel Artemis
-    *   Ocean's 8
-    *   Believer (2018)
-    *   Hearts Beat Loud
-    *   On the Seventh Day
-    *   The Quest of Alain Ducasse
-    *   Westwood: Punk, Icon, Activist
-    *   Won't You Be My Neighbor?
+    *   Incredibles 2
+    *   Race 3
+    *   SuperFly (2018)
+    *   Tag (2018)
+    *   Eating Animals
+    *   Gabriel and the Mountain
+    *   Gotti
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   Incredibles 2
     *   Jurassic World: Fallen Kingdom
     
     Coming Soon
     
-    *   SuperFly (2018)
-    *   Race 3
-    *   Tag (2018)
     *   Sicario: Day of the Soldado
     *   Uncle Drew
     *   The First Purge
     *   Ant-Man and the Wasp
     *   Hotel Transylvania 3: Summer Vacation
     *   Skyscraper (2018)
+    *   The Equalizer 2
+    *   Mamma Mia! Here We Go Again
     *   See All Coming Soon
     
     Explore More
@@ -68,9 +64,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   See Exclusive 'The Little Stranger' Photos Read More
-    *   First 'Halloween' Trailer Is Terrifying. Here's Everything We Know Read More
-    *   'Halloween' Set Visit Read More
+    *   ‘Hereditary’ Director Ari Aster Explains The Film’s Most Shocking and Surprising Moments – Spoilers! Read More
+    *   Next 3 Original Horror Movies: 'Searching,' 'Hellfest,' 'Overlord' Read More
+    *   'Ocean's 8' Sets New Franchise Record at Box Office Read More
     
     Explore Content
     *   Movie Reviews
