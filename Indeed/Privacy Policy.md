@@ -14,7 +14,7 @@ Find JobsCompany ReviewsFind SalariesFind ResumesEmployers / Post Job Upload you
 
 Cookie Policy
 
-Last Updated: June 7, 2018
+Last Updated: June 11, 2018
 
 By using or accessing Indeed’s websites (“Site”), you are consenting to Indeed’s use of Cookies as outlined below. All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
@@ -58,7 +58,31 @@ You may opt-out of Google Analytics for Display Advertisers including AdWords an
 
 The following cookie table lists a selection of the third party cookies used on Indeed. Although we may update this list periodically, please be advised that the names of cookies, pixels and other technologies are subject to change.
 
-Domain Cookie Name Description Expiration Opt-out Third party optimizelyBuckets Used by Optimizely to store page variants assigned to user for A/B performance testing (ensures user gets a consistent experience) 10 years Optimizely opt-out Third party optimizelyEndUserID Used by Optimizely for A/B performance testing. it is a unique user identifier 10 years Optimizely opt-out Third party \_ga Used by Google Analytics to track user activity over different browsing sessions. For some job postings in Japan, this cookie may share limited demographic information about applicants with employers. You will know if this information is being shared because it will be explicitly called out in the application process. 2 years Google Analytics opt-out Third party \_gali Used by Google Analytics to record what item on the previous page the user interacted with to get to the current page immediately Google Analytics opt-out Third party \_utma Used by Google Analytics to store information on number of visits, first visit, and most recent visit 2 years Google Analytics opt-out Third party \_utmb Used by Google Analytics to record the timestamp of the moment the user enters the site 1 month Google Analytics opt-out Third party \_utmc Used by Google Analytics to track when users leave the site 1 year Google Analytics opt-out Third party \_utmz Used by Google Analytics to track where a visitor came from 1 year Google Analytics opt-out Third party intercom-session-pn6o23fv Used by Intercom.io to allow users to ask customer service questions in real time 1 week Intercom.io opt-out Third party UIDR Used by Scorecardresearch.com to measure user volume 2 years Scorecardresearch.com opt-out Third party mkto.trk Used by Marketo to measure ad campaign effectiveness by linking visitor behavior to an email recipient 2 years Marketo opt-out Third party TS01d65e80 Used by f5 networks to maintain the performance, capacity, and reliability of our Website Current session f5 Networks opt-out
+Domain Cookie Name Description Expiration Opt-out Third party optimizelyBuckets Used by Optimizely to store page variants assigned to user for A/B performance testing (ensures user gets a consistent experience) 10 years Optimizely opt-out Third party optimizelyEndUserID Used by Optimizely for A/B performance testing. it is a unique user identifier 10 years Optimizely opt-out Third party \_ga Used by Google Analytics to track user activity over different browsing sessions. For some job postings in Japan, this cookie may share limited demographic information about applicants with employers. You will know if this information is being shared because it will be explicitly called out in the application process. 2 years Google Analytics opt-out
+
+Google Ads Settings
+
+Third party \_gali Used by Google Analytics to record what item on the previous page the user interacted with to get to the current page immediately Google Analytics opt-out
+
+Google Ads Settings
+
+Third party \_utma Used by Google Analytics to store information on number of visits, first visit, and most recent visit 2 years Google Analytics opt-out
+
+Google Ads Settings
+
+Third party \_utmb Used by Google Analytics to record the timestamp of the moment the user enters the site 1 month Google Analytics opt-out
+
+Google Ads Settings
+
+Third party \_utmc Used by Google Analytics to track when users leave the site 1 year Google Analytics opt-out
+
+Google Ads Settings
+
+Third party \_utmz Used by Google Analytics to track where a visitor came from 1 year Google Analytics opt-out
+
+Google Ads Settings
+
+Third party intercom-session-pn6o23fv Used by Intercom.io to allow users to ask customer service questions in real time 1 week Intercom.io opt-out Third party UIDR Used by Scorecardresearch.com to measure user volume 2 years Scorecardresearch.com opt-out Third party mkto.trk Used by Marketo to measure ad campaign effectiveness by linking visitor behavior to an email recipient 2 years Marketo opt-out Third party TS01d65e80 Used by f5 networks to maintain the performance, capacity, and reliability of our Website Current session f5 Networks opt-out
 
 **Changes To Our Cookie Policy**
 
@@ -66,7 +90,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: May 24, 2018
+Last Updated: June 11, 2018
 
 **1\. Introduction**
 
@@ -124,7 +148,7 @@ This information will be used for internal purposes only, subject to any request
 
 **_– When You Apply to Jobs on Some Third-Party Sites_**
 
-Indeed may also collect information about web sites and web pages you visit through our mobile software or while using Indeed for Chrome, and this may include third-party sites and web pages. We only do this in order to allow a Job Seeker to keep a record of particular Job Listings of interest, to detect a job application form on a third-party website to give a Job Seeker the option to auto-fill parts of the form using Indeed Resume, or to confirm an application.
+Indeed may also collect information about web sites and web pages you visit through our mobile software or while using Indeed for Chrome, and this may include third-party sites and web pages. We do this in order to allow a Job Seeker to keep a record of particular Job Listings of interest, to detect a job application form on a third-party website to give a Job Seeker the option to auto-fill parts of the form using Indeed Resume, or to confirm an application. Indeed for Chrome also allows Indeed to learn about what types of jobs and Indeed product features are of interest to you, so that we can provide you with improved job listing searches, job listing recommendations and product features. 
 
 **_– When You Log In or Use Indeed from Some Third-Party Sites_**
 
@@ -174,7 +198,7 @@ Finally, in certain limited situations, Indeed relies on your consent in order t
 
 **3\. Limitation of Use or Disclosure of Personal Data**
 
-**3.1 Where a Job Seeker Wants to Close an Account**
+**3.1 Where a Job Seeker Wants to Close a Job Seeker Account**
 
 When a Job Seeker closes an account, the Job Seeker will no longer have access to any of the data we make available under that account name, including but not limited to, search history, job search preferences, saved jobs, jobs the Job Seeker has applied to, job alerts, resume, and any other data associated with the account. If the Job Seeker uses the same email address to set up a new account, this data from a previous account will not become available to the Job Seeker again. Please also note that closing your Job Seeker account may result in you losing access to all Indeed products and the ability to utilize the “Log in with Indeed” feature found on certain third party sites.
 
@@ -358,7 +382,7 @@ WE ARE NOT RESPONSIBLE FOR THE INFORMATION COLLECTION, USE, DISCLOSURE OR OTHER 
 
 Information collected pursuant to this Privacy Policy, including Personal Data, may be disclosed to one or more third parties in connection with any change of ownership or control in Indeed’s business (whether by merger, sale, or otherwise), or any other reorganization or joint venture, or assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceeding), and any such information may be used by such third party in accordance with this Privacy Policy. Equally, information collected pursuant to this Privacy Policy, including Personal Data, may be disclosed to one or more third parties in connection with any acquisition or merger carried out by Indeed of such third parties.  
 
-**10\. Exercising Your Rights With Respect to Your Personal Data**
+**10\. Exercising Rights With Respect to Personal Data**
 
 Indeed users that provide their Personal Data in the EU, and those that provide their Personal Data in any other jurisdictions that adopt laws affording equivalent protections to those in the EU, may avail of the rights detailed below.
 
@@ -599,7 +623,7 @@ In some instances, multiple users may be linked to the same account (“a Linked
 
 We reserve the right at all times (but will not have an obligation) to terminate users or to reclaim usernames or URLs.
 
-You agree that Indeed may, as part of its services to you, communicate with you, or initiate communication with you on behalf of a third party, through your Indeed account or through other means such as email, telephone (including mobile phone), or postal mail, including through the use of contact information that you may provide to Indeed or that Indeed may otherwise obtain from third-party sources. By providing Indeed with a mobile phone number, you expressly consent to receiving communication via such mobile number. When you give Indeed a mobile number and consent to receiving communication, such communications are inherent to the services you have signed up for, and you may not revoke such consent without discontinuing use of Indeed’s services.
+You agree that Indeed may, as part of its services to you, communicate with you, or initiate communication with you on behalf of a third party, through your Indeed account or through other means such as email, telephone (including mobile phone), or postal mail, including through the use of contact information that you may provide to Indeed or that Indeed may otherwise obtain from third-party sources. By providing Indeed with a mobile phone number, you expressly consent to receiving communication via such mobile number. When you give Indeed a mobile number and consent to receiving communication, such communications are inherent to the services you have signed up for, and you may not revoke such consent without discontinuing use of Indeed’s services. By enabling two step verification, you verify that you are the owner of the phone number you provided.
 
 **8\. Disclaimer of Warranties**
 
@@ -1079,4 +1103,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cfmlpmqk19rc2sp&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>. By using Indeed you agree to our new Privacy Policy, Cookie Policy and Terms, which we encourage you to review.Dismiss
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cfp84k20187b40j&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>. By using Indeed you agree to our new Privacy Policy, Cookie Policy and Terms, which we encourage you to review.Dismiss
