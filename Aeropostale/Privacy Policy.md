@@ -27,7 +27,7 @@ Close submenu ( Girls ) Girls
 *   Sandals + Flip Flops
 *   Extended Sizes
 *   Trending
-*   Clearance
+*   EXTRA 30% OFF Clearance
 *   Live Love Dream
 *   Bras
 *   Undies
@@ -89,7 +89,7 @@ Close submenu ( Guys ) Guys
 
 *   Underwear
 *   Slides + Flip Flops
-*   Clearance
+*   Extra 30% OFF Clearance
 *   Big + Tall
 *   Trending
 
@@ -210,7 +210,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Undies
 *   Swim
 *   Accessories
-*   Clearance
+*   Extra 30% OFF Clearance
 *   Trending
 
 Close submenu ( Featured ) Featured
@@ -281,7 +281,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **50-70% OFF + FREE SHIPPING OVER $75** 
+**EXTRA 30% OFF CLEARANCE** USE CODE: **EXTRA30** **50-70% OFF + FREE SHIPPING OVER $75** 
 
 *   My Account My Account Login Register
 
@@ -338,7 +338,7 @@ Menu Find a Store Aeropostale
     *   Sandals + Flip Flops
     *   Extended Sizes
     *   Trending
-    *   Clearance
+    *   EXTRA 30% OFF Clearance
     *   Live Love Dream
     *   Bras
     *   Undies
@@ -384,7 +384,7 @@ Menu Find a Store Aeropostale
     
     *   Underwear
     *   Slides + Flip Flops
-    *   Clearance
+    *   Extra 30% OFF Clearance
     *   Big + Tall
     *   Trending
     
@@ -478,7 +478,7 @@ Menu Find a Store Aeropostale
     *   Undies
     *   Swim
     *   Accessories
-    *   Clearance
+    *   Extra 30% OFF Clearance
     *   Trending
     
 *   Clearance
@@ -517,7 +517,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Girls Graphic Tees Guys Graphic Tees Girls Shorts Guys Shorts Girls Polos Guys Polos Girls Camis + Tanks Guys Tanks Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Shop Girls Graphic Tees Shop Guys Graphic Tees Shop Girls Shorts Shop Guys Shorts Shop Girls Polos Shop Guys Polos Shop Girls Camis + Tanks Shop Guys Tanks Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -551,4 +551,18 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
