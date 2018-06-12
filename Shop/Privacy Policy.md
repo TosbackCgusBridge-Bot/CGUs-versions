@@ -14,6 +14,7 @@ Menu Close Menu Close
         *   Thinkpad Laptops Thinkpad Laptops Enterprise-level performance. Premium reliability.
         *   Yoga Laptops Yoga Laptops Innovative design. Impressive performance. Notable multimode style.
         *   Ideapad Laptops Ideapad Laptops From gamers to students to first-time owners, there's one for everybody.
+        *   Legion Laptops Legion Laptops
         *   2-in-1 PCs 2-in-1 PCs Multimedia tablets with multiple modes, including Stand, Hold, and Hang.
         *   Student Laptops
         *   Gaming Laptops
@@ -27,10 +28,11 @@ Menu Close Menu Close
             
         *   *   Explore Ideapad
             
+        
         *   *   Explore all 2-in-1s
             
         *   *   Explore Lenovo
-        *   *   Gaming
+        *   *   Gaming Sale Ends 6/18 4AM
         *   *   Explore all Chromebooks
             
             *   Thinkpad 11e
@@ -39,9 +41,7 @@ Menu Close Menu Close
             *   300e Chromebook
             *   500e Chromebook
         
-        *   *   Lots of options, but only one you, right? Narrow your choices by category, and find the laptop you truly want.
-                
-                Explore All Laptops &. Ultrabooks >.
+        *   *   Explore all laptops &. ultrabooks >.
         *   *   Enterprise-level performance.  
                 Investment-wise durability.  
                 Premium reliability.
@@ -60,6 +60,8 @@ Menu Close Menu Close
                 
                 Learn more about the IdeaPad family >.
         
+        *   *   Legion Laptops >.
+        
         *   *   Detachable 2-in-1s.  
                 Great for work &. play.  
                 Ultraportable.
@@ -70,7 +72,7 @@ Menu Close Menu Close
                 
                 Learn more about the Student laptops >.
         
-        *   *   Explore All Gaming Laptops >.
+        *   *   Explore all Legion Laptops >.
         
         *   *   Chromebooks >.
         
@@ -82,6 +84,7 @@ Menu Close Menu Close
         
         *   Thinkcentre Desktops Thinkcentre Desktops Business-ready desktops with enhanced security features.
         *   IdeaCentre Desktops IdeaCentre Desktops Portable family desktops.
+        *   Legion Desktops Legion Desktops
         *   SMALL BUSINESS DESKTOPS
         *   Monitors
         *   Gaming Desktops
@@ -105,6 +108,8 @@ Menu Close Menu Close
                 Great for work &. play.
                 
                 Learn more about the IdeaCentre >.
+        
+        *   *   Legion Desktops >.
         
         *   *   SMALL BUSINESS DESKTOPS >.
         
@@ -200,7 +205,7 @@ Menu Close Menu Close
         *   Jedi Challenges
         *   Lenovo Explorer Mixed Reality Headset
         
-        *   *   Explore Gaming >.
+        *   *   Gaming Sale Ends 6/18 4AM >.
         *   *   Gaming Laptops >.
         
         *   *   Gaming Desktops >.
@@ -320,6 +325,7 @@ Menu Close Menu Close
     *   Mainstream Laptops
     *   Desktop Deals
     *   Monitor Deals
+    *   Tablets &. AR/VR
     *   ACCESSORY DEALS
     *   Clearance
     *   Financing Options
@@ -373,9 +379,9 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers
+Home >. Filter by specs Offers Stylish outside. Savage inside.
 
-Workstation power. Ultrabook mobility.
+DIFFERENT GAMES BETTER
 
 Learn More >.
 
@@ -397,13 +403,13 @@ TODAY'S SALES
 
 Save up to 40% off through June 13 at 4am ET.
 
-BUSINESS SALE
+LENOVOPRO EXCLUSIVE
 
-Save up to 48% on our top selling thin &. light PCs. Sale ends June 10 at 4am ET.
+Father's Day Business Sale - EARLY ACCESS. Sale ends June 14 at 4am ET.
 
-Thin &. Light Flash Sale
+Dominate the Game
 
-Save up to $650 off on select ultra slim, thinner, lighter and engineered to last as long as you do. Sale Ends June 10 at 4am ET.
+Save up to 25% on Lenovo Legion Gaming PC’s with eCoupon LEGIONFTWE3. Sale ends June 18 at 4am ET.
 
 New ThinkPad E580
 
