@@ -23,7 +23,7 @@ SHOP COWBOY BOOTS TO KICK OFF COUNTRY CONCERT SEASON!
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
