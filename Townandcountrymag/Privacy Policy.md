@@ -55,7 +55,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 From the Archives: Inside Kate Spade's Home 2 Prince Harry and Meghan Markle's Honeymoon 3 The Best New Hotels in the World 4 The Ultimate Father's Day Gift Guide 5 15 Heartwarming Father's Day Quotes Privacy Policy Dec 1, 2014
+Today's Top Stories 1 All the Photos from the 2018 Trooping the Colour 2 From the Archives: Inside Kate Spade's Home 3 Prince Harry and Meghan Markle's Honeymoon 4 The Ultimate Father's Day Gift Guide 5 15 Heartwarming Father's Day Quotes Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
