@@ -96,7 +96,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Investor contacts
         
     
-    *   Strategy Update 2018 HSBC will update investors on its strategy on 11 June 2018.
+    *   Strategy Update 2018 HSBC updated investors on its strategy on 11 June 2018.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
