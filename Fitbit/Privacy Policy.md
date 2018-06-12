@@ -1,23 +1,23 @@
 *   Products
-    *   Fitness Wristbands  
-        and Clips
-        *   Fitbit Zip® Zip®
-        *   Fitbit Flex 2™ Flex 2™
-        *   Fitbit Alta™ Alta™
-        *   Fitbit Ace™ Ace™
-    *   Heart Rate +  
-        Fitness Wristbands
-        *   Fitbit Alta HR™ Alta HR™
-        *   Fitbit Charge 2™ Charge 2™
-    *   Watches
-        *   Fitbit Ionic™ Ionic™
-        *   Fitbit Versa™ Versa™
-    *   *   **Wireless Fitness  
-            Headphones** Fitbit Flyer™ Flyer™
-        *   **Wi-Fi** Smart Scale Fitbit Aria 2™ Aria 2™
-    *   *   **fitbit accessories**
-        *   **Fitbit Coach**
-    Not sure which product is right for you? FIND YOUR FIT
+    *   *   SMARTWATCHES
+            *   Versa
+            *   Ionic
+        *   FITNESS TRACKERS
+            *   Charge 2
+            *   Alta HR
+            *   Alta
+            *   Flex 2
+            *   Ace
+            *   Zip
+        *   MORE PRODUCTS
+            *   Aria 2  
+                Smart Scale
+            *   Accessories
+            *   Fitbit Coach  
+                Training App
+            *   Flyer  
+                Wireless Headphones
+    *   Not sure which product is right for you? COMPARE PRODUCTS
 *   Why Fitbit
     *   Why Fitbit
     *   What's New
