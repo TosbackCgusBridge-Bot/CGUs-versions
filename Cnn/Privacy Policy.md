@@ -14,10 +14,11 @@ World
 *   Africa
 *   Americas
 *   Asia
+*   Australia
 *   China
 *   Europe
 *   Middle East
-*   Opinion
+*   UK
 
 U.S. Politics
 
@@ -158,10 +159,11 @@ Pinellas Park, FL171°
     2.  Africa
     3.  Americas
     4.  Asia
-    5.  China
-    6.  Europe
-    7.  Middle East
-    8.  Opinion
+    5.  Australia
+    6.  China
+    7.  Europe
+    8.  Middle East
+    9.  UK
 
 1.  U.S. Politics
     1.  45
