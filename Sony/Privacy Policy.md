@@ -93,57 +93,141 @@ Main menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! Introducing the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus
-
-Check It Out
-
-Close
-
-*   Share Introducing the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus on Facebook
-*   Share Introducing the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus on Twitter
-*   Copy URL to share Introducing the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus
-
-Check It Out
-
-<img class="bg-img" class="url(/en\_us/media/content/RX100-VI-600x600.jpg);" alt="RX100 VI Camera">. Sony Artisans Share Tips on Planning for Summer Travel Photography
+search Your browser does not support JavaScript! Get Ready for PlayStation's E3 Showcase
 
 Learn More
 
 Close
 
-*   Share Sony Artisans Share Tips on Planning for Summer Travel Photography on Facebook
-*   Share Sony Artisans Share Tips on Planning for Summer Travel Photography on Twitter
-*   Copy URL to share Sony Artisans Share Tips on Planning for Summer Travel Photography
+*   Share Get Ready for PlayStation's E3 Showcase on Facebook
+*   Share Get Ready for PlayStation's E3 Showcase on Twitter
+*   Copy URL to share Get Ready for PlayStation's E3 Showcase
 
 Learn More
 
-<img class="bg-img" class="url(/en\_us/media/content/0003\_Me-Ra-Koh\_AlphaUniverse\_1-60-sec-at-f---10-ISO-50ILCE-7RM2FE-24-70mm-F2.8-600x600-2.jpg);" alt="How To Plan For Summer Travel Photography">. Make Your Beach Party Unforgettable
+<img class="bg-img" class="url(/en\_us/media/content/E3-1000x1000.jpg);" alt="E3 Press Conference ">. The Best PlayStation Deals
 
-See Our Extra Bass Wireless Speakers
+For Gamer Dads
 
 Close
 
-*   Share Make Your Beach Party Unforgettable on Facebook
-*   Share Make Your Beach Party Unforgettable on Twitter
-*   Copy URL to share Make Your Beach Party Unforgettable
+*   Share The Best PlayStation Deals on Facebook
+*   Share The Best PlayStation Deals on Twitter
+*   Copy URL to share The Best PlayStation Deals
 
-Play Make Your Beach Party Unforgettable Video
+For Gamer Dads
 
-Sony on YouTube - Make Your Beach Party Unforgettable
+<img class="bg-img" class="url(/en\_us/media/content/LimitedEditionPS4-600x600\_fbllODt.jpg);" alt="Days of Play Limited Edition PS4 system">. Cutting-Edge Technology
 
-Play Make Your Beach Party Unforgettable Video hotspot
+With Elegant Design
 
-<img class="bg-img" class="url(/en\_us/media/content/SRS-XB21\_Rustproof-600x600.jpg);" alt="Extra Bass Beach Party Video">.
+Close
 
-ICYMI: James Cameron announces he will be using the @SonyProUSA VENICE camera system to film Avatar sequels 2 &. 3.
+*   Share Cutting-Edge Technology on Facebook
+*   Share Cutting-Edge Technology on Twitter
+*   Copy URL to share Cutting-Edge Technology
 
-6 days ago
+With Elegant Design
+
+<img class="bg-img" class="url(/en\_us/media/content/XperiaXZ2-600x600\_1tLuYvV.jpg);" alt="Xperia XZ2">.
+
+Don’t just feel the rush of the outdoors, hear it with the #Xperia Ear Duo and our groundbreaking dual listening technology.
+
+22 hours ago
 
 View Tweet
 
-View Sony Alpha Instagram on Instagram
+View MP-CD1 Mobile Projector on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c40a7680718954d5d2bdd891020fe8b2/5BA1C700/t51.2885-15/e35/32069993\_198776817407919\_6767769049947439104\_n.jpg);" alt="">. Action Cam + Waterproof Case
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/6b4ab013a9452ffc81f47bb58d64db94/5BAC2863/t51.2885-15/e35/33095271\_2041605379384462\_2161504010392043520\_n.jpg);" alt="">. Inspire His Creativity
+
+With the a7R III
+
+Close
+
+*   Share Inspire His Creativity on Facebook
+*   Share Inspire His Creativity on Twitter
+*   Copy URL to share Inspire His Creativity
+
+With the a7R III
+
+<img class="bg-img" class="url(/en\_us/media/content/A7R-III-600x600.jpg);" alt="A7R-III">. Give the Gift of Incredible Viewing Experiences
+
+Check Out Our 4K HDR TVs
+
+Close
+
+*   Share Give the Gift of Incredible Viewing Experiences on Facebook
+*   Share Give the Gift of Incredible Viewing Experiences on Twitter
+*   Copy URL to share Give the Gift of Incredible Viewing Experiences
+
+Check Out Our 4K HDR TVs
+
+<img class="bg-img" class="url(/en\_us/media/content/07\_65\_ZD9\_Z9D\_E2-600x600.jpg);" alt="XBR Z9D Series TV">. Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+
+Check Out The New Trailer for "Spider-Man: Into the Spider-Verse"
+
+Close
+
+*   Share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker on Facebook
+*   Share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker on Twitter
+*   Copy URL to share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+
+Play Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker Video
+
+Sony on YouTube - Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+
+Play Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/SpiderVerse\_600x600.jpg);" alt="Spider-Man: Into the Spider-Verse trailer ">. “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
+
+See It in Theaters This Week
+
+Close
+
+*   Share “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta on Facebook
+*   Share “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta on Twitter
+*   Copy URL to share “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
+
+Play “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta Video
+
+Sony on YouTube - “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
+
+Play “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Superfly-600x600.jpg);" alt="Superfly trailer ">. Christina Aguilera Is Back
+
+Listen to “Liberation”
+
+Close
+
+*   Share Christina Aguilera Is Back on Facebook
+*   Share Christina Aguilera Is Back on Twitter
+*   Copy URL to share Christina Aguilera Is Back
+
+Play Christina Aguilera Is Back Video
+
+Sony on YouTube - Christina Aguilera Is Back
+
+Play Christina Aguilera Is Back Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/ChristinaAguilera-600x600.jpg);" alt="Christina Aguilera &quot;Liberation&quot. video">.
+
+View A1E 4K HDR OLED TV on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c8a2b69d2687e74065e875854b2ca3d9/5BB07835/t51.2885-15/e35/32052753\_2089638897918701\_6350661299541639168\_n.jpg);" alt="">. The "Superfly" Soundtrack
+
+Curated by Future
+
+Close
+
+*   Share The "Superfly" Soundtrack on Facebook
+*   Share The "Superfly" Soundtrack on Twitter
+*   Copy URL to share The "Superfly" Soundtrack
+
+Curated by Future
+
+<img class="bg-img" class="url(/en\_us/media/content/Future-600x600\_9bxGx0V.jpg);" alt="Superfly Soundtrack">. Action Cam + Waterproof Case
 
 \= Adventure With No Limits
 
@@ -155,115 +239,81 @@ Close
 
 \= Adventure With No Limits
 
-<img class="bg-img" class="url(/en\_us/media/content/HDR-AS200V\_waterproof\_600x600\_2JirUZE.jpg);" alt="Action Cam">. Upgrade Your Summer Road Trip
+<img class="bg-img" class="url(/en\_us/media/content/HDR-AS200V\_waterproof\_600x600\_2JirUZE.jpg);" alt="Action Cam">. Audiophiles: Elevate Your Music Experience
 
-With the Latest In-Car Audio
-
-Close
-
-*   Share Upgrade Your Summer Road Trip on Facebook
-*   Share Upgrade Your Summer Road Trip on Twitter
-*   Copy URL to share Upgrade Your Summer Road Trip
-
-With the Latest In-Car Audio
-
-<img class="bg-img" class="url(/en\_us/media/content/5\_Your\_Personal\_Navigator\_Apple\_CarPlay\_600x600\_fCdEsXi.jpg);" alt="In-Car Receiver ">. A “Detroit: Become Human” Developer Discusses How a Player's
-
-Choices Affect the Narrative of the Game
+With Hi-Res Audio
 
 Close
 
-*   Share A “Detroit: Become Human” Developer Discusses How a Player's on Facebook
-*   Share A “Detroit: Become Human” Developer Discusses How a Player's on Twitter
-*   Copy URL to share A “Detroit: Become Human” Developer Discusses How a Player's
+*   Share Audiophiles: Elevate Your Music Experience on Facebook
+*   Share Audiophiles: Elevate Your Music Experience on Twitter
+*   Copy URL to share Audiophiles: Elevate Your Music Experience
 
-Play A “Detroit: Become Human” Developer Discusses How a Player's Video
+With Hi-Res Audio
 
-Sony on YouTube - A “Detroit: Become Human” Developer Discusses How a Player's
+<img class="bg-img" class="url(/en\_us/media/content/NW-WM1Z\_MDR-Z1R\_Insitu03\_jpg-600x600\_yDw80tJ.jpg);" alt="Hi-Res Audio">. Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
 
-Play A “Detroit: Become Human” Developer Discusses How a Player's Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/detroit-become-human-screen-22-ps4-us-13apr18-600x600.jpg);" alt="Detroit: Become Human - What It Means To Be Human Interview">. Gamers: Snag the Limited- Edition Days of Play PS4™
-
-Check It Out
+In Music We Live
 
 Close
 
-*   Share Gamers: Snag the Limited- Edition Days of Play PS4™ on Facebook
-*   Share Gamers: Snag the Limited- Edition Days of Play PS4™ on Twitter
-*   Copy URL to share Gamers: Snag the Limited- Edition Days of Play PS4™
+*   Share Crush Your Run With Our Wireless Noise-Canceling Sports Headphones on Facebook
+*   Share Crush Your Run With Our Wireless Noise-Canceling Sports Headphones on Twitter
+*   Copy URL to share Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
 
-Check It Out
+Play Crush Your Run With Our Wireless Noise-Canceling Sports Headphones Video
 
-<img class="bg-img" class="url(/en\_us/media/content/LimitedEditionPS4-600x600\_fbllODt.jpg);" alt="Days of Play Limited Edition PS4 system">. Streaming on PlayStation Vue
+Sony on YouTube - Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
+
+Play Crush Your Run With Our Wireless Noise-Canceling Sports Headphones Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/SP700SportsHeadphones-600x600.jpg);" alt="Wireless Noise-Canceling Headphones for Sports">. Immerse Yourself in Different Dimension of Sound
+
+At Sony Square NYC
+
+Close
+
+*   Share Immerse Yourself in Different Dimension of Sound on Facebook
+*   Share Immerse Yourself in Different Dimension of Sound on Twitter
+*   Copy URL to share Immerse Yourself in Different Dimension of Sound
+
+At Sony Square NYC
+
+<img class="bg-img" class="url(/en\_us/media/content/SSNYC-600x600\_eFFhtJb.jpg);" alt="Sony Square NYC">. Earn Points When You Shop
+
+The PlayStation™Store
+
+Close
+
+*   Share Earn Points When You Shop on Facebook
+*   Share Earn Points When You Shop on Twitter
+*   Copy URL to share Earn Points When You Shop
+
+The PlayStation™Store
+
+<img class="bg-img" class="url(/en\_us/media/content/Gaming\_37049-Injustice-600x600\_sJQbtEb.jpg);" alt="About Sony Rewards ">.
+
+Are you ready to fight? Use your Sony Rewards points to get the #StreetFighter 30th Anniversary Collection for PS4.
+
+49 minutes ago
+
+View Tweet
+
+View Xperia XZ2 on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/2bd21c3b1d66500aedeeca01d3e4713c/5BAB6E94/t51.2885-15/e35/33546021\_1617165865068087\_221001308901998592\_n.jpg);" alt="Xperia XZ2">. PlayStation Cardholders Can Customize Their Cards
 
 Learn More
 
 Close
 
-*   Share Streaming on PlayStation Vue on Facebook
-*   Share Streaming on PlayStation Vue on Twitter
-*   Copy URL to share Streaming on PlayStation Vue
+*   Share PlayStation Cardholders Can Customize Their Cards on Facebook
+*   Share PlayStation Cardholders Can Customize Their Cards on Twitter
+*   Copy URL to share PlayStation Cardholders Can Customize Their Cards
 
 Learn More
 
-<img class="bg-img" class="url(/en\_us/media/content/XBR-55-49X900E\_front\_screenfill-600x600-2\_35hF2cn.jpg);" alt="PS Vue">.
-
-View Gold Wireless Headset on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/588cccfba309e4432c336a53018d51ea/5BAAF699/t51.2885-15/e35/30953884\_968009030020789\_5759689570731950080\_n.jpg);" alt="">.
-
-View DUALSHOCK 4 wireless controllers on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/2c56a3b318b6f2cffdfcfedfd1181fc7/5BC0BDD7/t51.2885-15/e35/31966815\_2034802203443553\_7866348064229818368\_n.jpg);" alt="">. Embrace the Monster Within
-
-Play "Vampyr" on PS4™
-
-Close
-
-*   Share Embrace the Monster Within on Facebook
-*   Share Embrace the Monster Within on Twitter
-*   Copy URL to share Embrace the Monster Within
-
-Play Embrace the Monster Within Video
-
-Sony on YouTube - Embrace the Monster Within
-
-Play Embrace the Monster Within Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/vampyr-600x600.jpg);" alt="Vampyr Trailer">. Black Ops Is Back With Improved Multiplayer Combat
-
-Learn More About “Call of Duty®: Black Ops 4”
-
-Close
-
-*   Share Black Ops Is Back With Improved Multiplayer Combat on Facebook
-*   Share Black Ops Is Back With Improved Multiplayer Combat on Twitter
-*   Copy URL to share Black Ops Is Back With Improved Multiplayer Combat
-
-Play Black Ops Is Back With Improved Multiplayer Combat Video
-
-Sony on YouTube - Black Ops Is Back With Improved Multiplayer Combat
-
-Play Black Ops Is Back With Improved Multiplayer Combat Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/41282409845\_ab972d694e\_k-600x600.jpg);" alt="Call of Duty Black Ops 4 multiplayer video">. Our Robotics Kit Teaches Kids the Core Concepts of Design and Coding
-
-Learn More About KOOV
-
-Close
-
-*   Share Our Robotics Kit Teaches Kids the Core Concepts of Design and Coding on Facebook
-*   Share Our Robotics Kit Teaches Kids the Core Concepts of Design and Coding on Twitter
-*   Copy URL to share Our Robotics Kit Teaches Kids the Core Concepts of Design and Coding
-
-Play Our Robotics Kit Teaches Kids the Core Concepts of Design and Coding Video
-
-Sony on YouTube - Our Robotics Kit Teaches Kids the Core Concepts of Design and Coding
-
-Play Our Robotics Kit Teaches Kids the Core Concepts of Design and Coding Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/KOOV-600x600\_CF2ZFNx.jpg);" alt="KOOV">. Get Rewarded for Your Love of Movies
+<img class="bg-img" class="url(/en\_us/media/content/21439\_ImageCardLaunch\_SonyBN-square\_600x600\_r02GR\_3.jpg);" alt="God of war PlayStation Card">. Get Rewarded for Your Love of Movies
 
 With Sony Rewards
 
@@ -279,69 +329,19 @@ Sony on YouTube - Get Rewarded for Your Love of Movies
 
 Play Get Rewarded for Your Love of Movies Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/Sonycom\_MBEdu181000x1000.jpg);" alt="Sony Rewards Movie Buff">. PlayStation Cardholders Can Customize Their Cards
-
-Learn More
-
-Close
-
-*   Share PlayStation Cardholders Can Customize Their Cards on Facebook
-*   Share PlayStation Cardholders Can Customize Their Cards on Twitter
-*   Copy URL to share PlayStation Cardholders Can Customize Their Cards
-
-Learn More
-
-<img class="bg-img" class="url(/en\_us/media/content/21439\_ImageCardLaunch\_SonyBN-square\_600x600\_r02GR\_3.jpg);" alt="God of war PlayStation Card">.
-
-Experience Lordran in all of its 4K glory. Dark Souls: Remastered is now available in the #SonyRewards catalog.
-
-5 days ago
-
-View Tweet
-
-View MP-CD1 Mobile Projector on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/6b4ab013a9452ffc81f47bb58d64db94/5BAC2863/t51.2885-15/e35/33095271\_2041605379384462\_2161504010392043520\_n.jpg);" alt="">. Earn Points When You Shop
-
-The PlayStation™Store
-
-Close
-
-*   Share Earn Points When You Shop on Facebook
-*   Share Earn Points When You Shop on Twitter
-*   Copy URL to share Earn Points When You Shop
-
-The PlayStation™Store
-
-<img class="bg-img" class="url(/en\_us/media/content/Gaming\_37049-Injustice-600x600\_sJQbtEb.jpg);" alt="About Sony Rewards ">. Sony Rewards Has the Ultimate 4K Gaming Prize Package
+<img class="bg-img" class="url(/en\_us/media/content/Sonycom\_MBEdu181000x1000.jpg);" alt="Sony Rewards Movie Buff">. Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus
 
 Check It Out
 
 Close
 
-*   Share Sony Rewards Has the Ultimate 4K Gaming Prize Package on Facebook
-*   Share Sony Rewards Has the Ultimate 4K Gaming Prize Package on Twitter
-*   Copy URL to share Sony Rewards Has the Ultimate 4K Gaming Prize Package
+*   Share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus on Facebook
+*   Share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus on Twitter
+*   Copy URL to share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus
 
 Check It Out
 
-<img class="bg-img" class="url(/en\_us/media/content/Sonycom\_DetroitBHSS18\_copy\_NhZkBm2.jpg);" alt="Detroit: Become Human ShowStopper">. What If You Could Expand Your Perception and See the World With X-Ray Vision?
-
-See More of Our New Innovations
-
-Close
-
-*   Share What If You Could Expand Your Perception and See the World With X-Ray Vision? on Facebook
-*   Share What If You Could Expand Your Perception and See the World With X-Ray Vision? on Twitter
-*   Copy URL to share What If You Could Expand Your Perception and See the World With X-Ray Vision?
-
-Play What If You Could Expand Your Perception and See the World With X-Ray Vision? Video
-
-Sony on YouTube - What If You Could Expand Your Perception and See the World With X-Ray Vision?
-
-Play What If You Could Expand Your Perception and See the World With X-Ray Vision? Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/WOW\_Studio\_2018\_Superception-600x600.jpg);" alt="Sony Innovations: X-Ray Vision Video">.
+<img class="bg-img" class="url(/en\_us/media/content/RX100-VI-600x600.jpg);" alt="RX100 VI Camera">.
 
 Load More
 
