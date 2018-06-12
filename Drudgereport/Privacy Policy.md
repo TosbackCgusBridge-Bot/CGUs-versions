@@ -135,25 +135,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+"It’s not easy being a publisher these days..We have to take on the good, the bad and the awkward to build a better internet, and it’s time to get to work." @Requidan bit.ly/2JtPVes via @adexchanger
+
+About 9 hours ago
+
+To continue being a successful publisher there's a lot of work that needs to be done. Check out what @Requidan suggests to achieve short and long-term success bit.ly/2JtPVes via @adexchanger pic.twitter.com/f63r…
+
+About 16 hours ago
+
 My week on Twitter : 3 Mentions, 1 Retweet, 51 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/5I5N…
 
-About 5 days ago
+About 6 days ago
 
 Our biggest fans this week: @karysjones0425. Thank you! via sumall.com/thankyou?… pic.twitter.com/GDkn…
 
-About 6 days ago
+Last week
 
 My week on Twitter : 14 Mentions, 1.47K Mention Reach, 9 Likes, 2 Retweets, 33K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LhME…
 
 About 2 weeks ago
-
-Our biggest fans this week: @AdMonsters, @Nicole\_Kosar. Thank you! via sumall.com/thankyou?… pic.twitter.com/CFJr…
-
-About 2 weeks ago
-
-As GDPR Looms, What Are The Biggest Uncertainties? Our VP of AdOps, @stephsnowint, weighs in bit.ly/2KOMc7o via @adexchanger
-
-About 3 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
