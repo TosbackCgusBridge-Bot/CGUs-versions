@@ -1,4 +1,4 @@
-Chegg.com Privacy Policy
+Chegg.com US Privacy Policy
 
 Last Updated and Effective Date: March 1, 2017
 
