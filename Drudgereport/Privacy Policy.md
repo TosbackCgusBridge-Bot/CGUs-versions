@@ -135,25 +135,25 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 3 Mentions, 54.3K Mention Reach, 1 Like, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/VIw6…
+
+About 5 hours ago
+
 "It’s not easy being a publisher these days..We have to take on the good, the bad and the awkward to build a better internet, and it’s time to get to work." @Requidan bit.ly/2JtPVes via @adexchanger
 
-About 9 hours ago
+About a day ago
 
 To continue being a successful publisher there's a lot of work that needs to be done. Check out what @Requidan suggests to achieve short and long-term success bit.ly/2JtPVes via @adexchanger pic.twitter.com/f63r…
 
-About 16 hours ago
+About 2 days ago
 
 My week on Twitter : 3 Mentions, 1 Retweet, 51 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/5I5N…
 
-About 6 days ago
+Last week
 
 Our biggest fans this week: @karysjones0425. Thank you! via sumall.com/thankyou?… pic.twitter.com/GDkn…
 
 Last week
-
-My week on Twitter : 14 Mentions, 1.47K Mention Reach, 9 Likes, 2 Retweets, 33K Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/LhME…
-
-About 2 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
