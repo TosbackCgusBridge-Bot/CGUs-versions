@@ -4,12 +4,13 @@
     *   Overview
     *   Our Approach
     *   Power of Conversant
+    *   Ad Quality
     *   Industries We Serve
 *   What We Offer
     *   Overview
-    *   Engage Your Customers
-    *   Acquire Customers
-    *   Deliver Media
+    *   Marketing &. Media
+    *   Intelligence
+    *   Channels &. Formats
 *   What We Know
     *   Overview
     *   Guides
@@ -55,9 +56,9 @@
     *   Integrations
     *   Join Us
 
-GET TO THE HEART  
-OF WHAT MATTERS  
-TO MILLIONS Watch Our Story
+HAVE COMPELLING  
+CONVERSATIONS THAT  
+LAST A LIFETIME Watch Our Story
 
 *   160+ MILLION Real People You Can  
     Message Right Now
@@ -112,12 +113,14 @@ Ready to talk? Contact us 
     *   Overview
     *   Our Approach
     *   Power of Conversant
+    *   Ad Quality
     *   Industries We Serve
+    
 *   What We Offer
     *   Overview
-    *   Engage Your Customers
-    *   Acquire Customers
-    *   Deliver Media
+    *   Marketing &. Media
+    *   Intelligence
+    *   Channels &. Formats
 *   What We Know
     *   Overview
     *   Guides
