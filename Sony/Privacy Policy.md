@@ -93,19 +93,89 @@ Main menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! Get Ready for PlayStation's E3 Showcase
+search Your browser does not support JavaScript! Find Out More of Ellie's Story in the New E3 Gameplay Trailer
+
+From "The Last of Us Part II"
+
+Close
+
+*   Share Find Out More of Ellie's Story in the New E3 Gameplay Trailer on Facebook
+*   Share Find Out More of Ellie's Story in the New E3 Gameplay Trailer on Twitter
+*   Copy URL to share Find Out More of Ellie's Story in the New E3 Gameplay Trailer
+
+Play Find Out More of Ellie's Story in the New E3 Gameplay Trailer Video
+
+Sony on YouTube - Find Out More of Ellie's Story in the New E3 Gameplay Trailer
+
+Play Find Out More of Ellie's Story in the New E3 Gameplay Trailer Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/TheLastofUsPartII-600x600.jpg);" alt="The Last of Us Part II Gameplay Trailer">. Norman Reedus Stars in the Amazing
+
+Demo for "Death Stranding"
+
+Close
+
+*   Share Norman Reedus Stars in the Amazing on Facebook
+*   Share Norman Reedus Stars in the Amazing on Twitter
+*   Copy URL to share Norman Reedus Stars in the Amazing
+
+Play Norman Reedus Stars in the Amazing Video
+
+Sony on YouTube - Norman Reedus Stars in the Amazing
+
+Play Norman Reedus Stars in the Amazing Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/DeathStranding-600x600.jpg);" alt="Death Stranding Gameplay Trailer">.
+
+It's true: Kingdom Hearts 3 comes to PS4 on January 29, 2019. And it's bringing Pirates of the Caribbean with it. Learn more here.
+
+1 hour ago
+
+View Tweet
+
+View Ghost of Tsushima on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/b577c94f1f210b238d090bd98a7ec21f/5B228E79/t51.2885-15/e15/33178008\_2086756574917388\_1746140098312798208\_n.jpg);" alt="">. Check Out All of PlayStation's
+
+E3 Announcements
+
+Close
+
+*   Share Check Out All of PlayStation's on Facebook
+*   Share Check Out All of PlayStation's on Twitter
+*   Copy URL to share Check Out All of PlayStation's
+
+E3 Announcements
+
+<img class="bg-img" class="url(/en\_us/media/content/E3-1000x1000\_O6vioOf.jpg);" alt="PlayStation&#39;s E3 Announcements">. Spider-Man Faces New Super Villains
 
 Learn More
 
 Close
 
-*   Share Get Ready for PlayStation's E3 Showcase on Facebook
-*   Share Get Ready for PlayStation's E3 Showcase on Twitter
-*   Copy URL to share Get Ready for PlayStation's E3 Showcase
+*   Share Spider-Man Faces New Super Villains on Facebook
+*   Share Spider-Man Faces New Super Villains on Twitter
+*   Copy URL to share Spider-Man Faces New Super Villains
 
 Learn More
 
-<img class="bg-img" class="url(/en\_us/media/content/E3-1000x1000.jpg);" alt="E3 Press Conference ">. The Best PlayStation Deals
+<img class="bg-img" class="url(/en\_us/media/content/MarvelsSpiderMan-600x600\_WZ10yCr.jpg);" alt="Marvel&#39;s Spider-Man">. Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+
+Check Out The New Trailer for "Spider-Man: Into the Spider-Verse"
+
+Close
+
+*   Share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker on Facebook
+*   Share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker on Twitter
+*   Copy URL to share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+
+Play Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker Video
+
+Sony on YouTube - Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+
+Play Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/SpiderVerse\_600x600.jpg);" alt="Spider-Man: Into the Spider-Verse trailer ">. The Best PlayStation Deals
 
 For Gamer Dads
 
@@ -163,23 +233,23 @@ Close
 
 Check Out Our 4K HDR TVs
 
-<img class="bg-img" class="url(/en\_us/media/content/07\_65\_ZD9\_Z9D\_E2-600x600.jpg);" alt="XBR Z9D Series TV">. Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+<img class="bg-img" class="url(/en\_us/media/content/07\_65\_ZD9\_Z9D\_E2-600x600.jpg);" alt="XBR Z9D Series TV">. Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
 
-Check Out The New Trailer for "Spider-Man: Into the Spider-Verse"
+In Music We Live
 
 Close
 
-*   Share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker on Facebook
-*   Share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker on Twitter
-*   Copy URL to share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+*   Share Crush Your Run With Our Wireless Noise-Canceling Sports Headphones on Facebook
+*   Share Crush Your Run With Our Wireless Noise-Canceling Sports Headphones on Twitter
+*   Copy URL to share Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
 
-Play Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker Video
+Play Crush Your Run With Our Wireless Noise-Canceling Sports Headphones Video
 
-Sony on YouTube - Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+Sony on YouTube - Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
 
-Play Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker Video hotspot
+Play Crush Your Run With Our Wireless Noise-Canceling Sports Headphones Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/SpiderVerse\_600x600.jpg);" alt="Spider-Man: Into the Spider-Verse trailer ">. “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
+<img class="bg-img" class="url(/en\_us/media/content/SP700SportsHeadphones-600x600.jpg);" alt="Wireless Noise-Canceling Headphones for Sports">. “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
 
 See It in Theaters This Week
 
@@ -251,23 +321,19 @@ Close
 
 With Hi-Res Audio
 
-<img class="bg-img" class="url(/en\_us/media/content/NW-WM1Z\_MDR-Z1R\_Insitu03\_jpg-600x600\_yDw80tJ.jpg);" alt="Hi-Res Audio">. Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
+<img class="bg-img" class="url(/en\_us/media/content/NW-WM1Z\_MDR-Z1R\_Insitu03\_jpg-600x600\_yDw80tJ.jpg);" alt="Hi-Res Audio">. Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus
 
-In Music We Live
+Check It Out
 
 Close
 
-*   Share Crush Your Run With Our Wireless Noise-Canceling Sports Headphones on Facebook
-*   Share Crush Your Run With Our Wireless Noise-Canceling Sports Headphones on Twitter
-*   Copy URL to share Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
+*   Share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus on Facebook
+*   Share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus on Twitter
+*   Copy URL to share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus
 
-Play Crush Your Run With Our Wireless Noise-Canceling Sports Headphones Video
+Check It Out
 
-Sony on YouTube - Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
-
-Play Crush Your Run With Our Wireless Noise-Canceling Sports Headphones Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/SP700SportsHeadphones-600x600.jpg);" alt="Wireless Noise-Canceling Headphones for Sports">. Immerse Yourself in Different Dimension of Sound
+<img class="bg-img" class="url(/en\_us/media/content/RX100-VI-600x600.jpg);" alt="RX100 VI Camera">. Immerse Yourself in Different Dimension of Sound
 
 At Sony Square NYC
 
@@ -295,7 +361,7 @@ The PlayStation™Store
 
 Are you ready to fight? Use your Sony Rewards points to get the #StreetFighter 30th Anniversary Collection for PS4.
 
-49 minutes ago
+1 day ago
 
 View Tweet
 
@@ -329,19 +395,7 @@ Sony on YouTube - Get Rewarded for Your Love of Movies
 
 Play Get Rewarded for Your Love of Movies Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/Sonycom\_MBEdu181000x1000.jpg);" alt="Sony Rewards Movie Buff">. Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus
-
-Check It Out
-
-Close
-
-*   Share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus on Facebook
-*   Share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus on Twitter
-*   Copy URL to share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus
-
-Check It Out
-
-<img class="bg-img" class="url(/en\_us/media/content/RX100-VI-600x600.jpg);" alt="RX100 VI Camera">.
+<img class="bg-img" class="url(/en\_us/media/content/Sonycom\_MBEdu181000x1000.jpg);" alt="Sony Rewards Movie Buff">.
 
 Load More
 
