@@ -101,7 +101,7 @@ We collect information from you in three ways:
 2.  we get it automatically as you use our websites. or
 3.  you give it to another user through our websites.
 
-We only collect as much information about you as is reasonably necessary for us to provide you our services. The table below is a basic summary of what happens to your information. For a more complete list of what we collect, see our user data summary table.
+We only collect as much information about you as is reasonably necessary for us to provide you our services. The table below is a basic summary of what happens to your information. For a more complete list of what we collect, see **our USER DATA SUMMARY TABLE**.
 
 What information do we collect?  
 When do we collect it?  
