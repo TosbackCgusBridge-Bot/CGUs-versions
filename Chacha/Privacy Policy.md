@@ -51,7 +51,7 @@ Vehicle Removed
 Limit Reached
 
 Car Shopping  
-Made Easy KBB.com is your one-stop resource Price New/Used My Car's Value The All-New Wrangler Learn more Photo Sponsored by Jeep® First Pics: See the New Cars Coming for 2018
+Made Easy KBB.com is your one-stop resource Price New/Used My Car's Value 2018 Toyota C-HR Learn more Photo Sponsored by Toyota First Pics: See the New Cars Coming for 2018
 
 Some of these new cars, trucks and SUVs are already here. Take a peek
 
@@ -71,27 +71,17 @@ Learn more
 
 New Cars by Category Make Best Sellers Sponsored SUV CX-5 Crossover Sedan Truck Hatchback Convertible Luxury Coupe Electric Hybrid Van/Minivan Wagon Acura Alfa Romeo Aston Martin Audi Bentley BMW Buick Cadillac Chevrolet Chrysler Dodge Ferrari FIAT Ford Freightliner Genesis GMC Honda Hyundai INFINITI Jaguar Jeep Kia Lamborghini Land Rover Lexus Lincoln Lotus Maserati Mazda McLaren Mercedes-Benz MINI Mitsubishi Nissan Porsche Ram Rolls-Royce smart Subaru Tesla Toyota Volkswagen Volvo Range $0$5,000$10,000$15,000$20,000$25,000$30,000$35,000$40,000$45,000$50,000$55,000$60,000$65,000to $5,000$10,000$15,000$20,000$25,000$30,000$35,000$40,000$45,000$50,000$55,000$60,000$65,000No limit See Results Popular Searches Top-Rated Sedans Under $25,000 Top-Rated SUVs Under $25,000 Luxury Vehicles Under $35,000 3-Row Vehicles Under $35,000 Best MPG Under $35,000 Advertisement Advertisement New Car Showroom
 
-*   2018 Jeep®  Wrangler
 *   Fair Purchase Price
+*   Consumer Reviews
 *   KBB.com Expert Reviews
 
-2018 Jeep® Wrangler All-new with updates and upgrades at every turn. Learn more at Jeep.com Information from KBB.com
+Check Our Fair Purchase Price For Your New Car
 
-Award-Winner
+We compiled the data and crunched the numbers for your peace of mind.
 
-5-Year Cost to Own
+Search for cars
 
-Photos (65)
-
-View all photos
-
-United States
-
-Country of Origin
-
-10.8 inches
-
-Ground Clearance
+Sponsored
 
 Advertisement From KBB.com Get Your Instant Cash Offer
 
