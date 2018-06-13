@@ -1,5 +1,6 @@
 Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price Shop Hot Wheels Shop Mattel Shop Barbie Shop Mattel Online Privacy Statement
 
+*   Select Language
 *   Privacy Statement
     *   About Cookies and Technologies
     *   Your California Privacy Rights
@@ -19,10 +20,8 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   American Girl GDPR Choice Portal
 *   Contact Us
 
-Select Your Language Português (Portugal) English Deutsch (Deutschland) Español (España) Français (France) Italiano (Italia) Nederlands (Nederland) Polski (Polska)
-
 *   Menu
-    *   Select Your Language Português (Portugal) English Deutsch (Deutschland) Español (España) Français (France) Italiano (Italia) Nederlands (Nederland) Polski (Polska)
+    *   Select Language
     *   Privacy Statement
         *   About Cookies and Technologies
         *   Your California Privacy Rights
