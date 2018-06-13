@@ -17,11 +17,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 2 OF COUPON CODE 37GETNOW ENDS IN
+Near YouFind a StoreBack DAY 3 OF COUPON CODE 37GETNOW ENDS IN
 
 \*offer ends 6/13/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 5 5 8 7 secs SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
+Days 0 0 0 0 hours 4 4 0 0 mins 5 5 1 0 secs SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
 
 *   LIMITED TIME SPECIAL!
     
@@ -60,24 +60,24 @@ TV'S &. HOME THEATERShop AllTV'S &. HOME THEATERShop All
 *   $3,997.99 sale
     
     was $4,799.99 Samsung Curved 65" Class UHD 4K HDR QLED Smart HDTV Model QN65Q8CAMFXZA(31)Add To Cart
-*   $1,096.99 sale
-    
-    was $1,499.99 LG 60" Class Super UHD 4K HDR LED Smart HDTV Model 60SJ8000(35)Add To Cart
-*   $1,296.99 sale
-    
-    was $1,799.99 LG 65" Class Super UHD 4K HDR LED Smart HDTV Model 65SJ8000(1)Add To Cart
-*   $2,197.99 sale
-    
-    was $2,399.99 Samsung Curved 65" Class UHD 4K HDR LED Smart HDTV Model UN65MU8500FXZA(27)Add To Cart
-*   $1,797.99 sale
-    
-    was $1,999.99 Samsung 55" Class UHD 4K HDR LED Smart HDTV Model UN55MU9000FXZA(17)Add To Cart
 *   $996.99 sale
     
     was $1,199.99 LG 55" Class Super UHD 4K HDR LED Smart HDTV Model 55SJ8000(219)Add To Cart
-*   $59.99 sale
+*   $2,197.99 sale
     
-    was $79.99 Samsung Curved Smart Blu-Ray Disc Player(95)Add To Cart
+    was $2,399.99 Samsung Curved 65" Class UHD 4K HDR LED Smart HDTV Model UN65MU8500FXZA(27)Add To Cart
+*   $1,096.99 sale
+    
+    was $1,499.99 LG 60" Class Super UHD 4K HDR LED Smart HDTV Model 60SJ8000(35)Add To Cart
+*   $1,797.99 sale
+    
+    was $1,999.99 Samsung 55" Class UHD 4K HDR LED Smart HDTV Model UN55MU9000FXZA(17)Add To Cart
+*   $1,296.99 sale
+    
+    was $1,799.99 LG 65" Class Super UHD 4K HDR LED Smart HDTV Model 65SJ8000(1)Add To Cart
+*   $429.99 sale
+    
+    was $499.99 Samsung 3.0 Channel Sound+ Premium Sound Bar(11)Add To Cart
 
 FENTY BEAUTY BY RIHANNAShop AllFENTY BEAUTY BY RIHANNAShop All
 
@@ -99,39 +99,39 @@ FENTY BEAUTY BY RIHANNAShop AllFENTY BEAUTY BY RIHANNAShop All
 *   $25
     
     FENTY BEAUTY BY RIHANNA Match Stix Matte Skinstick(723)Add To Cart
-*   $34
-    
-    FENTY BEAUTY BY RIHANNA Killawatt Freestyle Highlighter Duo(2407)Add To Cart
 *   $18
     
     FENTY BEAUTY BY RIHANNA Gloss Bomb Universal Lip Luminizer(4730)Add To Cart
+*   $34
+    
+    FENTY BEAUTY BY RIHANNA Killawatt Freestyle Highlighter Duo(2407)Add To Cart
 
 25% OFF SELECT MEN'S NIKE SHOESShop All25% OFF SELECT MEN'S NIKE SHOESShop All
 
-*   View Price in Cart
+*   $45 sale
     
-    Nike Revolution 4 Mens Running Shoes(3)Add To Cart
-*   View Price in Cart
+    was $60 Nike Revolution 4 Mens Running Shoes(3)Add To Cart
+*   $48.75 sale
     
-    Nike® Air Monarch IV Mens Training Shoes(507)Add To Cart
-*   View Price in Cart
+    was $65 Nike® Air Monarch IV Mens Training Shoes(507)Add To Cart
+*   $45 sale
     
-    Nike Downshifter 7 Mens Running Shoes(50)Add To Cart
-*   View Price in Cart
-    
-    Nike® Reax 8 Mens Training Shoes(48)Add To Cart
-*   View Price in Cart
-    
-    Nike® Air Monarch IV Mens Training Shoes(507)Add To Cart
-*   View Price in Cart
-    
-    Nike Flex Experience 7 Mens Running Shoes(1)Add To Cart
-*   View Price in Cart
-    
-    Nike Reax Iii Mens Training Shoes(9)Add To Cart
+    was $60 Nike Downshifter 7 Mens Running Shoes(50)Add To Cart
 *   $63.75 sale
     
-    was $85 Nike Air Max Motion Lw Mens Running Shoes(1)Add To Cart
+    was $85 Nike® Reax 8 Mens Training Shoes(48)Add To Cart
+*   $48.75 sale
+    
+    was $65 Nike® Air Monarch IV Mens Training Shoes(507)Add To Cart
+*   $48.75 sale
+    
+    was $65 Nike Flex Experience 7 Mens Running Shoes(1)Add To Cart
+*   $56.25 sale
+    
+    was $75 Nike Reax Iii Mens Training Shoes(9)Add To Cart
+*   $48.75 sale
+    
+    was $65 Nike® Air Ring Leader Low Mens Basketball Shoes(8)Add To Cart
 
 *   Signup for text\* or email alerts, offers and promotionsSign Up
 *   **\*Text Alerts:** Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text HELP to 527365 for help and STOP to 527365 to cancel. Terms &. Conditions.Privacy Policy.
