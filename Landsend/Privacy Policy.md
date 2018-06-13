@@ -164,15 +164,15 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   Kids' Swim Shop
     *   Kids' Backpacks &. Lunch Boxes
-    *   Kids' Star Spangled Collection
     *   Girls' Knit Kit
     *   Kids' Iron Knees Pants
     *   School Uniforms
-    *   Sale
+    *   Kids' Star Spangled Collection
+    *   SALE
     
-    Girls>.
+    Girls' Clothing>.
     
-    *   Shop All Girls
+    *   Shop All Girls' Clothing
     *   Girls' Swimsuits
     *   Girls' Tops
     *   Girls' Sweaters
@@ -183,14 +183,18 @@ menu Close 0 Free Shipping on $50+
     *   Girls' Skirts &. Skorts
     *   Girls' Outerwear
     *   Girls' Blazers
-    *   Girls' Shoes
-    *   Girls' Backpacks &. Lunch Boxes
-    *   Girls' Accessories
     *   Girls' Long Underwear
     *   Girls' Pajamas &. Robes
     
-    Boys>.
-    *   Shop All Boys
+    GIRLS' SHOES &. ACCESSORIES>.
+    
+    *   Girls' Shoes
+    *   Girls' Backpacks &. Lunch Boxes
+    *   Girls' Accessories
+    
+    Boys' Clothing>.
+    
+    *   Shop All Boys' Clothing
     *   Boys' Swimsuits
     *   Boys' Tops
     *   Boys' Sweaters
@@ -200,11 +204,14 @@ menu Close 0 Free Shipping on $50+
     *   Boys' Activewear
     *   Boys' Outerwear
     *   Boys' Blazers
+    *   Boys' Long Underwear
+    *   Boys' Pajamas &. Robes
+    
+    BOYS' SHOES &. ACCESSORIES>.
     *   Boys' Shoes
     *   Boys' Backpacks &. Lunch Boxes
     *   Boys' Accessories
-    *   Boys' Long Underwear
-    *   Boys' Pajamas &. Robes
+    
 *   Swim WOMEN'S SWIMSUITS>.
     
     *   Tankinis &. Bikinis
@@ -388,17 +395,17 @@ menu Close 0 Free Shipping on $50+
     
     GIRLS' SALE >.
     
-    *   Toddler Girl (2T-4T)
-    *   Little Girl (size 4-7)
-    *   Big Girl (size 7-16)
-    *   Girl Plus (size 7+-16+)
+    *   Toddler Girls (2T-4T)
+    *   Little Girls (size 4-7)
+    *   Big Girls (size 7-16)
+    *   Girls' Plus Sizes
     
     BOYS' SALE >.
     
-    *   Toddler Boy (2T-4T)
-    *   Little Boy (size 4-7)
-    *   Big Boy (size 7-20)
-    *   Boy Husky (size 8H-20H)
+    *   Toddler Boys (2T-4T)
+    *   Little Boys (size 4-7)
+    *   Big Boys (size 7-20)
+    *   Boys' Husky Sizes
     
     KIDS' SALE
     
@@ -553,15 +560,15 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Kids' Swim Shop
         *   Kids' Backpacks &. Lunch Boxes
-        *   Kids' Star Spangled Collection
         *   Girls' Knit Kit
         *   Kids' Iron Knees Pants
         *   School Uniforms
-        *   Sale
-    *   Girls
+        *   Kids' Star Spangled Collection
+        *   SALE
+    *   Girls' Clothing
         *   Back
         *   View All
-        *   Shop All Girls
+        *   Shop All Girls' Clothing
         *   Girls' Swimsuits
         *   Girls' Tops
         *   Girls' Sweaters
@@ -572,15 +579,17 @@ menu Close 0 Free Shipping on $50+
         *   Girls' Skirts &. Skorts
         *   Girls' Outerwear
         *   Girls' Blazers
+        *   Girls' Long Underwear
+        *   Girls' Pajamas &. Robes
+    *   GIRLS' SHOES &. ACCESSORIES
+        *   Back
         *   Girls' Shoes
         *   Girls' Backpacks &. Lunch Boxes
         *   Girls' Accessories
-        *   Girls' Long Underwear
-        *   Girls' Pajamas &. Robes
-    *   Boys
+    *   Boys' Clothing
         *   Back
         *   View All
-        *   Shop All Boys
+        *   Shop All Boys' Clothing
         *   Boys' Swimsuits
         *   Boys' Tops
         *   Boys' Sweaters
@@ -590,11 +599,14 @@ menu Close 0 Free Shipping on $50+
         *   Boys' Activewear
         *   Boys' Outerwear
         *   Boys' Blazers
+        *   Boys' Long Underwear
+        *   Boys' Pajamas &. Robes
+    *   BOYS' SHOES &. ACCESSORIES
+        *   Back
         *   Boys' Shoes
         *   Boys' Backpacks &. Lunch Boxes
         *   Boys' Accessories
-        *   Boys' Long Underwear
-        *   Boys' Pajamas &. Robes
+        
 *   Swim
     *   Back
     *   Shop all Swim
@@ -797,17 +809,17 @@ menu Close 0 Free Shipping on $50+
     *   GIRLS' SALE
         *   Back
         *   View All
-        *   Toddler Girl (2T-4T)
-        *   Little Girl (size 4-7)
-        *   Big Girl (size 7-16)
-        *   Girl Plus (size 7+-16+)
+        *   Toddler Girls (2T-4T)
+        *   Little Girls (size 4-7)
+        *   Big Girls (size 7-16)
+        *   Girls' Plus Sizes
     *   BOYS' SALE
         *   Back
         *   View All
-        *   Toddler Boy (2T-4T)
-        *   Little Boy (size 4-7)
-        *   Big Boy (size 7-20)
-        *   Boy Husky (size 8H-20H)
+        *   Toddler Boys (2T-4T)
+        *   Little Boys (size 4-7)
+        *   Big Boys (size 7-20)
+        *   Boys' Husky Sizes
     *   KIDS' SALE
         *   Back
         *   Kids' Shoes
@@ -850,9 +862,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 30% off all swimwear, water shoes and more. 25% off all other full-price styles!
+Receive 40% off 1 full-price item!
 
-code: FLOWER pin: 5771 DETAILS
+code: FIREFLY pin: 3764 DETAILS
 
 Customer Service Menu
 
@@ -875,11 +887,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
+Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
