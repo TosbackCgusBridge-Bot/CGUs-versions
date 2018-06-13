@@ -198,7 +198,6 @@ Advertisement - Continue Reading Below Share Tweet Email
 *   Other Hearst Subscriptions
 *   Advertise Online
 *   About Us
-*   BestProducts
 *   Give a Gift
 *   Press Room
 *   Customer Service
