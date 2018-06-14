@@ -137,15 +137,15 @@ LATEST ON TWITTER
 
 My week on Twitter : 3 Mentions, 54.3K Mention Reach, 1 Like, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/VIw6…
 
-About 5 hours ago
+Yesterday
 
 "It’s not easy being a publisher these days..We have to take on the good, the bad and the awkward to build a better internet, and it’s time to get to work." @Requidan bit.ly/2JtPVes via @adexchanger
 
-About a day ago
+About 2 days ago
 
 To continue being a successful publisher there's a lot of work that needs to be done. Check out what @Requidan suggests to achieve short and long-term success bit.ly/2JtPVes via @adexchanger pic.twitter.com/f63r…
 
-About 2 days ago
+About 3 days ago
 
 My week on Twitter : 3 Mentions, 1 Retweet, 51 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/5I5N…
 
