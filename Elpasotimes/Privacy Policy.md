@@ -1,4 +1,4 @@
-SUBSCRIBE NOW99¢ per month. Save 90%
+close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialog
 
 *   Home
 *   News
@@ -75,7 +75,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEPISD: 10 elementary schools eyed for closureEducationCartel leader 'La Barbie' gets 50 years in prisonNewsBurglars entered homes while owners sleptCrimePriest arrested in child sexual assault caseCrime2 murder suspects among El Paso's Most WantedCrimeComplaint against El Paso Mayor Dee MargoLocalJails get more inmates with immigration crackdownImmigrationHillside Coffee, Tin Man designs bring firm goldBusinessBoy in NM abuse case dies in El Paso hospitalNewsSoldier missing for 35 years found in CaliforniaNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowUS attorney admits mistakes in EPISD trialSpecial-reportsArmed man sparks SWAT situation on PaisanoCrimeHistoric downtown building renovation plan deadLocal20 years after De La Hoya fought in the Sun BowlBoxingFort Bliss hospital cost balloons due to errorsMilitaryFire destroys home in El Paso Country Club areaLocalFort Bliss tent city could house immigrant kidsMilitaryLawyers accuse ex-DPS analyst of misconductCrimeCartel leader 'La Barbie' gets 50 years in prisonNewsEl Paso USL team signs El Paso's Omar SalgadoSoccerHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,3 +145,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogclose dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per MonthFor 3 MonthsSubscribe Not looking to subscribe right now close dialog
