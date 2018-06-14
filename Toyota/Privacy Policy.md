@@ -22,8 +22,8 @@
     30/36 est MPG3 Build Specials
 *   $17,050 as shown1 2018 Yaris iA $15,950 starting1  
     32/40 est MPG3 Build Specials
-*   $22,080 as shown1 2018 Corolla $18,600 starting1  
-    28/36 est MPG3 Build Specials
+*   $22,180 as shown1 2019 Corolla $18,700 starting1  
+    28/36 est MPG20 Build Specials
 *   $19,985 as shown1 2018 Corolla iM $18,850 starting1  
     27/35 est MPG3 Build Specials
 *   $35,495 as shown1 2018 Camry $23,645 starting1  
@@ -98,8 +98,8 @@ View All Vehicles
 
 Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1  
 30/36 est MPG3 $17,050 as shown1 2018 Yaris iA $15,950 starting1  
-32/40 est MPG3 $22,080 as shown1 2018 Corolla $18,600 starting1  
-28/36 est MPG3 $19,985 as shown1 2018 Corolla iM $18,850 starting1  
+32/40 est MPG3 $22,180 as shown1 2019 Corolla $18,700 starting1  
+28/36 est MPG20 $19,985 as shown1 2018 Corolla iM $18,850 starting1  
 27/35 est MPG3 $35,495 as shown1 2018 Camry $23,645 starting1  
 29/41 est MPG4 $42,200 as shown1 2019 Avalon $35,500 starting1  
 22/32 est MPG18 $28,585 as shown1 2018 86 $26,455 starting1  
@@ -1171,6 +1171,7 @@ Help
 *   17\. 2018 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
 *   18\. 2019 Toyota Avalon XLE preliminary 22 city/32 hwy/26 combined mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
 *   19\. 2019 preliminary mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
+*   20\. 2019 EPA-estimated mileage. Actual mileage will vary.
 
 YOUR GARAGE NONELog In
 
