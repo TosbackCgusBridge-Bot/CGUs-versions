@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   13\. Juni 2018
+*   14\. Juni 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.842,30ǀ
+*   DAX 12.890,58ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -70,6 +70,7 @@ Anmelden
 *   Sport
     
     *   *   Übersicht
+        *   Fußball-WM 2018
         *   Fußball-Liveticker
         *   Spielerindex SPIX
         *   Fußball-News
@@ -78,7 +79,6 @@ Anmelden
         *   Formel 1
         *   Formel-1-Liveticker
         *   Ergebnisse
-        *   Wintersport
     *   *   Sportwetten
 *   Kultur
     
@@ -387,4 +387,4 @@ Bitte prüfen Sie, ob Sie ähnliche Erweiterungen, Do-not-Track-Funktionen oder 
 
 Welche Bedeutung Werbung für SPIEGEL ONLINE hat, was wir für Ihre Sicherheit im Netz tun, wie unsere Redaktion arbeitet – Fragen und Antworten finden Sie hier.
 
-<div id="GGxnZwxFHLa">. <div id="GGxnZwxFHLb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
+<div id="XETSLmqydna">. <div id="XETSLmqydnb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
