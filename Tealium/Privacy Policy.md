@@ -7,6 +7,7 @@
     *   Mobile
     *   Identity Resolution
     *   Client-side &. Server-side Data
+    *   EDW or Data Lake + Tealium
     *   Preparing for GDPR
     *   Trust and Privacy
     *   Martech Challenge
@@ -47,6 +48,7 @@
     *   Mobile
     *   Identity Resolution
     *   Client-side &. Server-side Data
+    *   EDW or Data Lake + Tealium
     *   Preparing for GDPR
     *   Trust and Privacy
     *   Martech Challenge
