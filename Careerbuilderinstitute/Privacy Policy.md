@@ -4,8 +4,8 @@
 *   Home
 *   Add Resume
 *   Browse Jobs
-*   Explore Careers
-*   Search Resources
+*   Salary Insights
+*   Advice &. Resources
 
 *   Looking to Hire?
 *   Post Jobs
