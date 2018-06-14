@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Byron York_: On North Korea, a President Who Tried Something Different
+*   _Robin Wright_: The Trump-Kim Summit: Reality TV or a New Era?
     
-*   _Nicholas Kristof_: Trump Was Outfoxed in Singapore
+*   _Michael Goodwin_: Peace Through Strength: Trump's Lesson for Obama
     
-*   _David Goldman_: Trump Is Doing Much Better Than Clinton, Bush or Obama
+*   _James Stavridis_: Ending 'War Games' With South Korea Is a Grave Mistake
     
-*   _David Rothkopf_: Unreality Show in Singapore Was Bizarre and Dangerous
+*   _Ian Bremmer_: World Should Welcome Trump's Bold Move to Engage Kim
     
-*   _Victor Cha_: Trump, Kim Have Just Walked Us Back From the Brink of War
+*   _Narang &. Panda_: North Korea Is a Nuclear Power. Get Used to It.
     
-*   _Liz Peek_: Pelosi, Dems Bummed Out by the Booming Economy
+*   _K.S. Bruce_: James Comey vs. Louis Freeh: How to Fight a President
     
-*   _Slavitt &. Bagley_: Trump's Bid to Gut Obamacare Will Be a Loser This Fall
+*   _Clarence Page_: War Against Leakers Shows We Need a 'Shield Law'
     
-*   _Alexander Bolton_: McConnell Cements His Standing in Republican History
+*   _Julie Kelly_: Moms to Daughters: Don't Be Ali Watkins
     
-*   _David Harsanyi_: Will the Climate Change Scaremongering Finally End?
+*   _David Smick_: Who Unraveled the New World Order? It Wasn't Trump.
     
-*   _Adam Frank_: Earth Will Survive. We May Not.
+*   _Thomas Friedman_: Trump: Trying to Remake U.S. in His Own Image
     
-*   _Carl Cannon_: When Reagan Went to the Wall: A Berlin-Singapore Nexus?
+*   _Peter Berkowitz_: Religious Freedom Isn't Baked Into Wedding Cake Ruling
     
-*   _Uri Friedman_: A Handshake Decades in the Making
+*   _Newt Gingrich_: Trump Is Succeeding and Our Elites Are in Utter Turmoil
     
-*   _Marc Ambinder_: The Transformation of Kim Jong Un
+*   _David Ignatius_: Kim Jong Un Pulls Off a Magic Trick
     
-*   _Charlie Kirk_: In Global Chess Game, Trump Makes Bold, Suprising Moves
+*   _Caitlin Huey-Burns_: Political Watchword From Trump-Kim Meeting: Caution
     
-*   _Robert Kuttner_: The Lasting Damage of Trump's Disastrous Diplomacy
+*   _Freddy Gray_: Donald Trump's Real-Estate Politik Is Working
     
-*   _George Neumayr_: Media Suddenly Born Again Cold Warriors
+*   _Wendy Sherman_: The Bluster and Balloons Summit
     
-*   _Dana Milbank_: Finally, a President With the Guts to Stand Up to Canada
+*   _Stephen Hayes_: Trump's Confidence Ignores Recent History With N. Korea
     
-*   _Stephen Moore_: Critics Running Out of Excuses for Growth Under Trump
+*   _Matthew Peterson_: Thank God Trump Isn't a Foreign Policy Expert
     
-*   _Jeffrey Toobin_: SCOTUS Decision Makes It Harder for Dems to Vote
+*   _Joshua Douglas_: Supreme Court Takes a Giant Step Backward on Voter Rights
     
-*   _Paul Mirengoff_: A Victory for Election Integrity
+*   _John McGinnis_: Why Originalists Have the Edge Over Liberal Judges
     
-*   _Brian McGuire_: Humility, Good of GOP Behind McConnell Milestone
+*   _Ken Stern_: Republicans Are Running Against Themselves in 2018
     
-*   _David Siders_: Democrats Turn to Hollywood for Messaging Help
+*   _Alex Isenstadt_: NeverTrumper Sanford Brought Down by Republican Voters
     
-*   _Kyle Smith_: Robert De Niro's Juvenile Stunt at the Tony's
+*   _Maria Bartiromo_: China's Deal Breaker: Property Rights
     
-*   _Jeffrey Goldberg_: WH Official Defines Trump Doctrine: 'We're America, Bitch'
+*   _Jonathan Allen_: Trump Doctrine: How to Lose Friends, Influence Enemies
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump-Kim Shake Hands, Commit to "Complete Denuclearization"
+*   Political Watchword From Trump-Kim Meeting: Caution
+*   Katie Arrington Defeats Rep. Sanford in SC Republican Primary
+*   Trump Casts Kim in Starring Role in Film About North Korea's "Destiny"
 *   Republican Candidates Echo Trump's Culture War Battle Cry
-*   Trump, Kim Sign Document After Singapore Summit: "Special Bond"
 *   What to Make of the California Primary Results
-*   Primary in Staten Island--Trump Country--Worries Republicans
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,29 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
-*   Colorado Governor - Republican PrimaryMagellan (R)
-    *   Stapleton36
-    *   Mitchell23
-    *   Lopez10
-    *   Robinson4
-    *   CoffmanStapleton +13
-*   Ohio 12th District Special Election - Balderson vs. O'ConnorMonmouth
-    *   Balderson48
-    *   O'Connor39Balderson +9
-*   President Trump Job ApprovalGallup
-    *   Approve42
-    *   Disapprove54Disapprove +12
+*   Ohio Senate - Renacci vs. BrownQuinnipiac
+    *   Brown51
+    *   Renacci34Brown +17
+*   Ohio Senate - Renacci vs. BrownSuffolk
+    *   Brown53
+    *   Renacci37Brown +16
+*   New York Senate - Farley vs. GillibrandSiena
+    *   Gillibrand61
+    *   Farley28Gillibrand +33
+*   Ohio Governor - DeWine vs. CordrayQuinnipiac
+    *   Cordray42
+    *   DeWine40Cordray +2
 
 More Latest Polls In The News
 
-*   Full Replay: President Trump Holds Press Conference After North Korea Summit in Singapore
-*   Trump 1999: If We Don't Talk To North Korea Now We'll Be In "Big Trouble" In 5 Years. "We're A Bunch Of Saps"
-*   Dennis Rodman Crying Wearing MAGA Hat in Singapore: I Believe In North Korea, It Is A Great Day
-*   Clapper: "I've Long Been An Advocate Of Involving Dennis Rodman" In North Korean Diplomatic Efforts
-*   Peter Navarro: "There's A Special Place In Hell" For "Socialist" Trudeau For Betraying President Trump
+*   Bernstein: Trump Expected A Ticker Tape Parade After Summit, He's The President Of His Base Not America
+*   Trump: "I've Done More In 500 Days Than Any President Has Ever Done In Their First 500 Days"
+*   Corey Stewart vs. CNN's Cuomo: "Your Own Father Said Anti-Semitic Things, Did You Condemn Him?"
+*   Sessions: I'm "Confident" Fox News Report About Rosenstein Threatening Nunes Is Wrong
+*   Graham to Rand Paul: Trump "Wasn't Kidding" When He Told North Korea Military Force Remains On The Table
 
 *   Politics
 *   Policy
