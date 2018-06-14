@@ -419,7 +419,7 @@ Questions, comments and requests regarding this Privacy Notice should be address
 Global Data Protection Officer  
 Legal Department  
 56 Top Gallant Road  
-Stamford, CT 09602  
+Stamford, CT 06902  
 USA  
 Email Address: privacy@gartner.com
 
