@@ -136,4 +136,4 @@ If you are a user in the EEA or Switzerland. the following information applies w
 
 **Individual Rights.** If you are a resident of the EEA or Switzerland, you have certain rights under Chapter 3 of the EU General Data Protection Regulation. To make a request or otherwise exercise your rights under Chapter 3, you can contact us here. In order to respond to your request, we will need to verify your identity and residency and may require you to provide us with supporting information.
 
-**For More Information**. Please contact us at privacy@washpost.com.
+**For More Information**. Please contact us here.
