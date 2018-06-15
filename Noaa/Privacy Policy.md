@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Contiguous U.S. had its warmest May on record Each state was warmer than average, record precipitation in the East AROUND NOAA // June 14 on Reddit: NOAA's Okeanos Explorer mission to unseen waters in southeast U.S. continental margin \[EXT\] Swim into Sea Turtle Week 2018 \[EXT\] Celebrate the ocean \[EXT\] Coastal communities saw record number of high tide flooding days last year
+Enter Search Terms Contiguous U.S. had its warmest May on record Each state was warmer than average, record precipitation in the East AROUND NOAA // June 14 on Reddit: NOAA's Okeanos Explorer mission to unseen waters in southeast U.S. continental margin \[EXT\] Okeanos Explorer sets sail to the deep waters off the U.S. southeast coast Swim into Sea Turtle Week 2018 \[EXT\] Celebrate the ocean \[EXT\]
 
 *   About our agency
 *   News and features
