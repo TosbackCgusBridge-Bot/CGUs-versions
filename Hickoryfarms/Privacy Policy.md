@@ -124,7 +124,7 @@
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order now! Final Hours for Father's Day delivery! Next day shipping ends 3pm EST Tomorrow
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Privacy Policy
@@ -182,4 +182,4 @@ Business Accounts
 *   1.800.715.1474
 *   Email Us
 
-PRIVACY POLICY TERMS OF USE SITE MAP © 2018 ALL RIGHTS RESERVED. Feedback
+PRIVACY POLICY TERMS OF USE SITE MAP © 2018 ALL RIGHTS RESERVED.
