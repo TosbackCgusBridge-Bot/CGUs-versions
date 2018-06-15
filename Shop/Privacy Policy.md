@@ -379,13 +379,16 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers Stylish outside. Savage inside.
+Home >. Filter by specs Offers Dads &. Grads Sale
+
+Save up to 55% on select PCs and more.  
+Sale ends June 21 at 4 AM ET.
+
+Shop Deals >.
+
+Stylish outside. Savage inside.
 
 DIFFERENT GAMES BETTER
-
-Learn More >.
-
-Made for active creators with NVIDIA GTX Graphics, touch-screen and pen support - power up your performance.
 
 Learn More >.
 
@@ -399,23 +402,23 @@ Learn more >.
 *   2
 *   3
 
-TODAY'S SALES
+Weekly Deals
 
-Save up to 40% off through June 14 at 4am ET.
+Save up to 55% off sale items through June 21 at 4am ET.
 
-LENOVOPRO EXCLUSIVE
+Father's Day Business Sale
 
-Father's Day Business Sale - EARLY ACCESS. Sale ends June 14 at 4am ET.
+Celebrate Dad and save up to 25% on our best-selling business PCs &. Accessories. Sale ends June 20 at 4am ET.
 
 Dominate the Game
 
 Save up to 25% on Lenovo Legion Gaming PC’s with eCoupon LEGIONFTWE3. Sale ends June 18 at 4am ET.
 
-New ThinkPad E580
+Yoga 730 (15")
 
-Customize your 15" laptop. Available in Black or Silver.
+Break out of the 90-degree mold and rock tech global-style.
 
-M910 Tiny: Think Big with a Tiny Desktop &. Monitor
+Coming Soon: ThinkSmart Hub 700
 
 LAPTOPS
 
