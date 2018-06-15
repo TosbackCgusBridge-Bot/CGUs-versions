@@ -2,7 +2,7 @@ Privacy Policy
 
 _Effective as of May 25, 2018._
 
-We, at Kongregate Inc. and with our parent company, subsidiaries and affiliates (**“Kongregate,”** the **“Company,”** **“we”** or **“us”**), are committed to respecting your privacy and the integrity and security of your personal information. As the data controller of certain of your personal information, we want you to know how we handle it, how we use it, process it and/or share it, as well as the ways in which you can protect your own privacy.
+We, at Kongregate Inc. (**“Kongregate,”** the **“Company,”** **“we”** or **“us”**), are committed to respecting your privacy and the integrity and security of your personal information. As the data controller of certain of your personal information, we want you to know how we handle it, how we use it, process it and/or share it, as well as the ways in which you can protect your own privacy.
 
 This Privacy Policy applies to www.kongregate.com, www.kartridge.com and all other sites or online service that is owned or operated by Kongregate (each, a **“Site,”** and collectively, the **“Sites,”**), all mobile games published by Kongregate (each, an **“App,”** and collectively, the **“Apps,”** and together with the Sites, the “Platform”), and Kongregate games that can be played through third party platforms, e.g., via consoles, PCs and/or social media sites such as Facebook (**“3rd Party Platform Games”**).
 
@@ -101,7 +101,7 @@ Generally, we use both your personally identifiable information and certain non-
     
     *   To send you our newsletter or promotional emails, if you have agreed thereto, which may also contain offers, news or information related to our Services and/or other products or services which we believe may be of interest to you;
     *   To other specific offers, products or services to which you consented.
-4.  We may also process your personal data if it is reasonably necessary for us **to comply with a LEGAL OBLIGATION or authority decision**.
+4.  We may also process or share your personal data if it is reasonably necessary for us **to comply with a LEGAL OBLIGATION** or in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
     
 
 3\. With Whom We Share Your Personal Data
@@ -138,14 +138,15 @@ We may share information we collect with our third party business partners, adve
         *   To protect against fraudulent, malicious, abusive, unauthorized or unlawful use of our Services and to protect our network, services, devices and users from such use;
         *   To advance or defend against complaints or legal claims;
         *   To determine credit risk, for reporting purposes or to obtain payment for our Services;
-        *   As part of mergers &. acquisitions, provided that the prospective buyer or seller agree to respect your personal data in a manner consistent with our Privacy Policy;
         *   To outside auditors and regulators.
-    *   **Intra-Group Transfers.** We may disclose your personal data to other companies within our parent company if it is necessary for administrative purposes or the provision of our Services to you. If you have agreed thereto, we may also disclose your personal data to affiliate companies owned or operated by our parent company for marketing purposes. The affiliate companies who have access to your personal data follow practices consistent with this Privacy Policy.
+    *   **Intra-Group Transfers.** We may disclose your personal data to other companies within our parent company if it is necessary for administrative purposes or the provision of our Services to you. If you have agreed thereto, we may also disclose your personal data to affiliate companies owned or operated by our parent company for marketing purposes. The affiliate companies who may have access to your personal data follow practices consistent with this Privacy Policy.
         
     *   **Corporate Transaction, Reorganization or Bankruptcy.** In the event of a change of control, sale of some or all of our business or assets, corporate reorganization or bankruptcy, we would share the pertinent customer information (which may include your personal information) with the other business entity (or entities) involved in the transaction. In such an event, we would notify you via email and/or a prominent notice on our Platform of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
         
     *   **Legal Compliance.** We may disclose information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection, legal compliance or investigations. We do not provide information to these agencies or companies for marketing or commercial purposes.
         
+
+With respect to onward transfers, we remain liable should the third parties to whom we transfer personal data process such information in a manner inconsistent with the Privacy Shield Principles.
 
 4\. How Long We Retain Your Personal Data
 
@@ -228,15 +229,15 @@ We offer you choices about the information we collect, how we use and disclose t
 *   **Do Not Track.** Do Not Track is a concept that has been promoted by regulatory agencies such as the U.S. Federal Trade Commission (FTC), for the Internet industry to develop and implement a mechanism for allowing Internet users to control the tracking of their online activities across websites by using browser settings. At this time, there is no general agreement on how companies such as ours should interpret Do Not Track signals. Kongregate does not currently respond to Do Not Track signals, whether that signal is received on a computer or on a mobile device. You can learn more about Do Not Track here.
     
 
-8\. Transfer Out of The EEA and On the Basis of The EU/US-Privacy Shield Framework
+8\. Transfer Out of Europe On the Basis of The Privacy Shield Framework
 
 _IMPORTANT INFORMATION FOR EUROPEAN USERS:_ When you use our Services, your data may be sent to the United States and possibly other countries.
 
-The personal data that we collect from you may be transferred to and stored at a destination outside the European Economic Area (**“EEA”**), including at destinations that are not subject to a decision by the European Commission establishing an adequate level of protection of personal data. Currently, our servers are in the United States. Your personal data can be shared with other companies owned by our parent company, processed by staff working for us or for one of our suppliers, located outside the EEA. We will take all reasonable necessary steps to ensure that your personal data is treated securely and in accordance with this Privacy Policy and have adopted appropriate safeguards to protect it.
+The personal data that we collect from you may be transferred to and stored at a destination outside the European Economic Area (**“EEA”**) and Switzerland, including at destinations that are not subject to a decision by the European Commission establishing an adequate level of protection of personal data. Currently, our servers are in the United States. Your personal data can be shared with other companies owned by our parent company, processed by staff working for us or for one of our suppliers, or shared with certain third parties who may be located outside the EEA and Switzerland. We will take all reasonable necessary steps to ensure that your personal data is treated securely and in accordance with this Privacy Policy and have adopted appropriate safeguards to protect it.
 
-Kongregate has submitted its application for Privacy Shield certification, and the U.S. Department of Commerce has notified us that our application has been received and that it is in the queue for review. We are merely awaiting the official confirmation of our certification from the U.S. Department of Commerce that Kongregate adheres to the Privacy Shield Principles for the collection and processing of personal data from our users in the European Union. To learn more about the Privacy Shield program please visit www.privacyshield.gov. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+Kongregate complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from our users in the European Union and Switzerland to the United States. We commit to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to data transferred from the EU and Switzerland. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield program and to view our certification, please visit www.privacyshield.gov. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission and/or the Department of Transportation. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
 
-In compliance with the Privacy Shield Principles, Kongregate commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Kongregate at support@Kongregate.com. Kongregate has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, you may seek further assistance, at no cost to you, from JAMS at https://www.jamsadr.com/eu-us-privacy-shield, which is an independent dispute resolution body in the United States.
+In compliance with the Privacy Shield Principles, Kongregate commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Kongregate at support@Kongregate.com. Kongregate has further committed to refer unresolved Privacy Shield complaints to International Centre for Dispute Resolution-American Arbitration Association (ICDR-AAA), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, you may seek further assistance, at no cost to you, from the ICDR-AAA at http://go.adr.org/privacyshield.html.
 
 In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.
 
@@ -248,4 +249,4 @@ Kongregate Inc.
 450 Sansome Street, 12th Floor  
 San Francisco, CA 94111
 
-_Last updated: May 23, 2018_
+_Last updated: June 14, 2018_
