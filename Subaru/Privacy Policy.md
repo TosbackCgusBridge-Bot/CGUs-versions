@@ -150,11 +150,11 @@ Up to
 
 BRZ Premium shown
 
-WRX $26,995\* starting price 2018 WRX
+WRX $27,195\* starting price 2019 WRX
 
 Starting at
 
-$26,995 MSRP
+$27,195 MSRP
 
 Up to
 
@@ -165,7 +165,7 @@ Up to
 *   Compare
 *   Build &. Price
 
-2018 WRX Limited shown
+2019 WRX Limited shown
 
 All Vehicles Find Your Subaru All Vehicles Certified Pre-Owned Certified Pre-Owned
 
