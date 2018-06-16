@@ -1,5 +1,3 @@
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%
-
 *   Home
 *   News
 *   Sports
@@ -75,7 +73,7 @@ close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events9
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowYo, Sylvester Stallone spotted in DemingEntertainmentTornillo to be site of tents for immigrant kidsImmigrationGet your gordita fix at an El Paso church kermesEntertainment'Coco' helps Gabriel 'Fluffy' Iglesias buy carEntertainmentJudge orders retrial in EPISD cheating caseSpecial-reportsRepeat robbery suspect arrested in Lower ValleyCrimeUS attorney admits mistakes in EPISD trialSpecial-reportsHistoric downtown building renovation plan deadLocalArmed man sparks SWAT situation on PaisanoCrime20 years after De La Hoya fought in the Sun BowlBoxingHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowCity rejects settlement with mother of man killed by policeLocalTornillo to be site of tents for immigrant kidsImmigrationYo, Sylvester Stallone spotted in DemingEntertainmentHells Angels infiltrator speaks in El PasoCrimeMan with gun causes scare at Central El Paso barCrimeGet your gordita fix at an El Paso church kermesEntertainmentJudge orders retrial in EPISD cheating caseSpecial-reports'Coco' helps Gabriel 'Fluffy' Iglesias buy carEntertainmentRepeat robbery suspect arrested in Lower ValleyCrimeEl Paso man reported missing in Fort WorthNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,5 +143,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogclose dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per MonthFor 3 MonthsSubscribe Not looking to subscribe right now close dialog
