@@ -96,7 +96,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts June 14 on Reddit: NOAA's Okeanos Explorer mission to unseen waters in southeast U.S. continental margin Weather Research Kilauea eruptions: The way the wind blows, so go the gas and the ash National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Okeanos Explorer sets sail to the deep waters off the U.S. southeast coast Weather Research Kilauea eruptions: The way the wind blows, so go the gas and the ash National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Contiguous U.S. had its warmest May on record Each state was warmer than average, record precipitation in the East AROUND NOAA // June 14 on Reddit: NOAA's Okeanos Explorer mission to unseen waters in southeast U.S. continental margin \[EXT\] Okeanos Explorer sets sail to the deep waters off the U.S. southeast coast Swim into Sea Turtle Week 2018 \[EXT\] Celebrate the ocean \[EXT\]
+Enter Search Terms Contiguous U.S. had its warmest May on record Each state was warmer than average, record precipitation in the East AROUND NOAA // Swim into Sea Turtle Week 2018 \[EXT\] Okeanos Explorer sets sail to the deep waters off the U.S. southeast coast Celebrate the ocean \[EXT\]
 
 *   About our agency
 *   News and features
