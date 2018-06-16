@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Betsy Woodruff_: IG Rips 'Insubordinate' Comey Over Hillary Email Probe
+*   _Berke_: Why Trump Is Wrong on the IG Report
     
-*   _James Comey_: The IG Report Says I Was Wrong. But That's Good for the F.B.I.
+*   _Byron York_: How Political Bias Infected FBI Trump and Clinton Probes
     
-*   _Kyle Smith_: The Democrats' Radical Turn
+*   _John Podhoretz_: The World Has Changed After Peter Strzok's 3 Words
     
-*   _Peter Beinart_: Trump Takes His Party Back to the 1920s
+*   _Chris Cillizza_: Rudy Giuliani Isn't Making Much Sense
     
-*   _James Robbins_: The Diplomatic Art of the Deal in Action
+*   _Mollie Hemingway_: 11 Things to Know About Inspector General's Report
     
-*   _Brent Budowsky_: Americans Love Canada, Not Kim
+*   _Alex Wagner_: Extinguishing the Beacon of America
     
-*   _Susanne Koelbl_: Karzai: West's Afghan Intervention 'Failed Miserably'
+*   _Heather Mac Donald_: Liberals' Hollow Moral Preening Over Immigration
     
-*   _Danny Westneat_: City Council in Denial Over Head-Tax Debacle
+*   _Daniel Pena_: Jeff Sessions Is Trying to Dehumanize Latinos
     
-*   _Barbara Kay_: No Urgency Over Male Crisis That's Ruining Our Boys
+*   _Michael Hirsh_: Why Trump's Movie Trailer About North Korea Was Brilliant
     
-*   _Anna Nemtsova_: Sex, Lies, and Soccer at Putin's Potemkin World Cup
+*   _Brian Bennett_: Riskiest Show on Earth: Trump's Impulsive Diplomacy
     
-*   _Randall Newman_: Happy 243rd Birthday to the United States Army
+*   _Carl Cannon_: Congressional Baseball Game Heroes and a True 'Natural'
     
-*   _E.J. Dionne_: There's No Defending Trump's N. Korea Performance
+*   _Kimberley Strassel_: Insubordination and Bias at the FBI
     
-*   _Conrad Black_: Trump's North Korean Policy Is Succeeding
+*   _Josh Campbell_: A 500-Year Flood Swamped James Comey and the FBI
     
-*   _Ron Brownstein_: Will Trump's View of the World Outlast His Presidency?
+*   _Julie Kelly_: The FBI Hates Trump - and His Voters, Too
     
-*   _Michael Barone_: Will We Get Tired of So Much Winning?
+*   _David Leonhardt_: Real Message From the IG's Report: Trump Is Lying
     
-*   _Frank Bruni_: How to Lose the Midterms and Re-elect Trump
+*   _John Solomon_: Media's Fawning Over Comey and McCabe Looks Silly Now
     
-*   _Douglas Schoen_: Attacking Trump--Now a Losing Strategy in BOTH Parties
+*   _Susan Glasser_: There's No Stopping Him: Trump Insists on Putin Summit
     
-*   _Weigel_: Ignoring Warning Signs, GOP Rebrands as Party of Trump
+*   _Fred Barnes_: Trump Does It His Way
     
-*   _Victor Davis Hanson_: Obama Silenced the Inspectors General
+*   _Uri Friedman_: Trump Got Nearly Nothing From Kim Jong Un
     
-*   _George Monbiot_: Trump Was Right. The Rest of the G7 Were Wrong
+*   _Matthew Continetti_: The Real Summit
     
-*   _Charles Hurt_: Rod Rosenstein Is a Threat to the Constitution
+*   _Adele Malpass_: Dems' Midterm Fate May Ride on Female Turnout
     
-*   _Issac Bailey_: Black Voters Won't Buy What Trump Is Selling
+*   _Tim Swarens_: Why Trump May Win a Second Term
     
-*   _Bishop Aubrey Shines_: Black America's 'Stockholm Syndrome'
+*   _Jessica Valenti_: Spare Me the Calls for Civility. Trump Deserves Our Rage
     
-*   _Dahlia Lithwick_: Don't Be Numb to the Horror Going On at the Border
+*   _David Bossie_: Truth Comes Out: FBI Agents Were Biased Against Trump
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   After Summit, North Korea Shows Trump in New Light
+*   Dems' Fate in November May Ride on Female Turnout
+*   IG Report: Anti-Trump Texts "Cast a Cloud" Over FBI Probes
+*   Nunes on Strzok Text: How Could That Have Possibly Been Redacted?
 *   Political Watchword From Trump-Kim Meeting: Caution
-*   Sessions: Confident That Report on Rosenstein Threatening Nunes Is Wrong
 *   Katie Arrington Defeats Rep. Sanford in SC Republican Primary
-*   Republican Candidates Echo Trump's Culture War Battle Cry
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,6 +245,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove51Disapprove +4
 *   Pennsylvania Senate - Barletta vs. CaseyFranklin &. Marshall
     *   Casey44
     *   Barletta27Casey +17
@@ -254,17 +257,14 @@ Latest PollsAll Polls
 *   Massachusetts Governor - Baker vs. GonzalezSuffolk
     *   Baker52
     *   Gonzalez22Baker +30
-*   Massachusetts Governor - Baker vs. MassieSuffolk
-    *   Baker54
-    *   Massie20Baker +34
 
 More Latest Polls In The News
 
+*   'Judicial Watch' President Tom Fitton on I.G. Report: Don't Trust The Media, Read It Yourself
+*   CNN's Cuomo vs. Rep. Jim Jordan: IG Said Strzok's Bias Had Impact on Prioritizing But Not On Decisions
+*   Trump: Obama Told Me He Was Ready To Go To War Against North Korea Without Ever Speaking To Kim
 *   Mark Levin: No Pro-Trump Texts, No Anti-Hillary Texts. No Pro-Trump FBI Officials, No Anti-Hillary Officials
 *   Gowdy: Strzok Wanted To Stop Trump Campaign, Got On Mueller Probe Because He Wanted To Impeach Him
-*   Pelosi: "I Don't Know Why There Aren't Uprisings All Over The Country" Over Migrant Child Separation
-*   Seymour Hersh: There Is A Chance That Trump Just Might Know What He's Doing, We Underestimate Him
-*   Bernstein: Trump Expected A Ticker Tape Parade After Summit, He's The President Of His Base Not America
 
 *   Politics
 *   Policy
