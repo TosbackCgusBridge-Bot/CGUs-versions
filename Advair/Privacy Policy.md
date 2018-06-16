@@ -234,8 +234,8 @@ Menu
         *   TEDMED 2015: Art, inspired by vaccination
         *   TEDMED 2015: An interview with curator, Christine McNab
         *   The fight against malaria
-        *   Global mission, local impact
         *   Collaborating to improve patient care
+        *   Global mission, local impact
         *   In Africa, markets matter for a healthy society
         *   Pricing our medicines to help ensure patient access
         *   Helping patients in need
@@ -248,10 +248,10 @@ Menu
         *   Whooping cough: confronting the hidden risk to infants
         *   GSK Uncovers The State of Uncontrolled Asthma in America
         *   Eggs in manufacturing
-        *   The power of advocacy: coming together for the patient
         *   Struggling for breath
-        *   Clinical trials: a patient's view
+        *   The power of advocacy: coming together for the patient
         *   Beyond Breathing: When Is Asthma Really Under Control?
+        *   Clinical trials: a patient's view
         *   Fostering Wellness initiative: young people lead the way!
         *   The Power of 24hrs
         *   Living with COPD Every Day: Sean’s Story
@@ -310,7 +310,6 @@ Menu
     *   How we do business
         *   Back
         *   How we do business
-        *   Changing the way we work with healthcare professionals
         *   Switching to consumer choice: medicines for everyday health
         *   Green chemistry
         *   Flonase: the journey from prescription to OTC
