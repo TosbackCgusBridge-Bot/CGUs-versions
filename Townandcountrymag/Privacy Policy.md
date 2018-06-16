@@ -1,7 +1,7 @@
-*   Style &. Jewelry
+*   Style
 *   Travel
-*   Politics
-*   The Royal Wedding
+*   Summer
+*   Royals
 
 *   Subscribe
     *   Give a Gift
@@ -55,7 +55,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Who Was On the Balcony For Trooping the Colour? 2 33 Ways to Look Younger, According to Experts 3 From the Archives: Inside Kate Spade's Home 4 The Ultimate Father's Day Gift Guide 5 15 Heartwarming Father's Day Quotes Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Vacation Inspiration: 10 Places to Go in August 2 Photographer Saul Loeb on Documenting Trump 3 The Best Movies to Watch on Father's Day 4 The Ultimate Father's Day Gift Guide 5 15 Heartwarming Father's Day Quotes Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
