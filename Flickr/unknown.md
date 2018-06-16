@@ -137,7 +137,6 @@ Last updated: 2018-04-03
 
 *   Privacy
 *   Terms
-*   Yahoo Safely
 *   Help
 
  
