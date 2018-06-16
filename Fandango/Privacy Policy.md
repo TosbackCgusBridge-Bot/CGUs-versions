@@ -49,24 +49,30 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
+*   Movie Times + Tickets Where are you located? Here are our top cities
     
-    *   AMC Dine-In Buckhead 6 3340 Peachtree Rd.
-    *   AMC Phipps Plaza 14 3500 Peachtree Road NE
-    *   Regal Tara 4 2345 Cheshire Bridge Road N.e.
-    *   CinéBistro at Town Brookhaven 1004 Town Blvd.
-    *   Regal Atlantic Station 18 IMAX &. RPX 261 19th Street NW
-    *   AMC Parkway Pointe 15 3101 Cobb Pkwy.
-    *   The Springs Cinema &. Taphouse 5920 Roswell Road
-    *   Midtown Art Cinema 931 Monroe Drive
-    *   Regal Perimeter Pointe Stadium 10 1155 Mount Vernon Highway
+    *   New York, NY
+    *   Los Angeles, CA
+    *   Atlanta, GA
+    *   Chicago, IL
+    *   Austin, TX
+    *   Miami, FL
+    *   San Francisco, CA
+    *   Phoenix, AZ
+    *   Washington, DC
+    *   Boston, MA
+    *   San Diego, CA
+    *   Seattle, WA
+    *   Edison, NJ
+    *   Houston, TX
+    *   Tampa, FL
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   First 'Unfriended: Dark Web' Trailer May Scare You Off the Internet. Here's Everything We Know Read More
+    *   'Captain Marvel' Nabs Female Composer. Here's Everything We Know Read More
     *   What to Expect From the Future of DC Comic Book Movies Read More
-    *   New Grouchy, Grumpy 'The Grinch' Trailer. Here's Everything We Know Read More
+    *   The Week in Movie News: 'Wonder Woman' Sequel Teased a Mystery, 'Dumbo' and 'The Nun' Trailers and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -75,44 +81,27 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Star Wars Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Top Movies Near 30301 Edit Zip Code
+*   My VIP Account Join FandangoVIP Get Points + Save
     
-    See all movies My Theaters
-*   Save your favorite theater and we'll make sure it's front and center for you.
+    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
     
-Manage my theater list Insider Perks
-
-*   Please check back - more exciting offers are coming soon.
+    Learn more Insider Perks
     
-
-See all insider perks My Fandango
-
-See my VIP+ Points
-
-For warp speed checkout, securely add your credit card.
-
-Add your  
-Credit Card Manage my VIP account Join FandangoVIP Get Points + Save
-
-More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
-
-Learn more Insider Perks
-
-Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
-
-Learn more Partner Rewards
-
-Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
-
-Learn more Refunds + Exchanges
-
-We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
-
-Learn more Join Fandango VIP For Free
-
-(It only takes a few seconds to join)
-
-Already a Fandango VIP? Sign In
+    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+    
+    Learn more Partner Rewards
+    
+    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+    
+    Learn more Refunds + Exchanges
+    
+    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
+    
+    Learn more Join Fandango VIP For Free
+    
+    (It only takes a few seconds to join)
+    
+    Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Fandango Gift Card Terms MovieTickets.com Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyFandango Gift Card TermsMovieTickets.com Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
@@ -336,9 +325,9 @@ Offers
     
     Receive a FREE\* exclusive 'Ocean's 8' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'Won't You Be My Neighbor' Gift With Purchase
+*   'Skyscraper' Gift With Purchase
     
-    Receive a FREE\* exclusive Mister Rogers Pocket POP! Keychain with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* 'Skyscraper' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Jurassic World: Fallen Kingdom' Gift With Purchase
     
