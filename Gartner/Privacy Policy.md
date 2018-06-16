@@ -427,11 +427,12 @@ Email Address: privacy@gartner.com
 *   Careers
 *   Newsroom
 *   Ombudsman
+
 *   Investor Relations
 *   Policies
 *   IT Glossary
-
 *   Contact Us
+
 *   Privacy Policy
 *   Terms of Use
 
