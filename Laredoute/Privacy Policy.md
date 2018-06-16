@@ -50,7 +50,7 @@ _12.3.3._ Refus des cookies avec un outil proposé par La Redoute
 _12.3.4._ Liste d’opposition permettant de gérer le dépôt des cookies  
 _13._ QU’EST-CE QUE LE DÉLÉGUÉ A LA PROTECTION DES DONNEES DE LA REDOUTE  
 _13.1._ QUELLES SONT SES MISSIONS ?  
-_13.2._ COMMENT CONTACTER LE CORRESPONDANT INFORMATIQUE ET LIBERTES ?
+_13.2._ COMMENT CONTACTER LE DELEGUE A LA PROTECTION DES DONNEES ?
 
 1\. QUI COLLECTE LES DONNEES A CARACTERE PERSONNEL ?
 
@@ -80,7 +80,7 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 
 **Quels sont nos raisons ?**
 
-*   Gestion du compte client, du panier d’achat et des commandes .
+*   Gestion du compte client, du panier d’achat et des commandes ;
 
 *   Exécution du contrat passé entre un Client et la Redoute
 *   Intérêt légitime de la Redoute
@@ -89,11 +89,11 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 
 *   Exécution du contrat passé entre un Client et la Redoute
 
-*   Gestion des opérations de livraisons .
+*   Gestion des opérations de livraisons ;
 
 *   Exécution du contrat passé entre un Client et la Redoute
 
-*   Gestion de la relation client (téléphone / tchat / email), du suivi des commandes du service après-vente, des retours produits et des remboursements .
+*   Gestion de la relation client (téléphone / tchat / email), du suivi des commandes du service après-vente, des retours produits et des remboursements ;
 
 *   Exécution du contrat passé entre un Client et la Redoute
 
@@ -105,17 +105,17 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 
 *   Intérêt légitime de la Redoute afin d’améliorer les produits et le service
 
-*   Lutte contre la fraude lors du paiement de la commande et gestion des impayés après commande .
+*   Lutte contre la fraude lors du paiement de la commande et gestion des impayés après commande ;
 
 *   Exécution du contrat passé entre un Client et la Redoute
 *   Intérêt légitime de la Redoute
 
-*   Opérations de statistiques, d’analyse, de sélection et de segmentation des clients afin d’améliorer la connaissance des clients .
+*   Opérations de statistiques, d’analyse, de sélection et de segmentation des clients afin d’améliorer la connaissance des clients ;
 
 *   Exécution du contrat passé entre un Client et la Redoute
 *   Intérêt légitime de la Redoute
 
-*   Envoi d’offres commerciales ciblées par email, par notifications mobiles, sur les réseaux sociaux, sur d’autres sites internet ou tout autre support .
+*   Envoi d’offres commerciales ciblées par email, par notifications mobiles, sur les réseaux sociaux, sur d’autres sites internet ou tout autre support ;
 
 *   Consentement du Client
 *   Intérêt légitime pour les envois de prospection sur support papier
@@ -124,24 +124,24 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 
 *   Consentement du Client
 
-*   Mesure de fréquentation des sites (mobile et desktop) et applications mobiles .
+*   Mesure de fréquentation des sites (mobile et desktop) et applications mobiles ;
 
 *   Consentement du Client
 
-*   Mise à disposition d’outils de partage sur les réseaux sociaux .
+*   Mise à disposition d’outils de partage sur les réseaux sociaux ;
 
 *   Consentement du Client
 
-*   Mise en place de jeux concours et publicitaires .
+*   Mise en place de jeux concours et publicitaires ;
 
 *   Intérêt légitime de la Redoute
 
-*   Partage d’informations avec des partenaires commerciaux .
+*   Partage d’informations avec des partenaires commerciaux ;
 
 *   Exécution du contrat passé entre un Client et la Redoute
 *   Consentement du Client (pour les opérations à des fins de prospection)
 
-*   Mise à disposition d’une marketplace permettant à d’autres vendeurs que la Redoute de proposer leurs produits .
+*   Mise à disposition d’une marketplace permettant à d’autres vendeurs que la Redoute de proposer leurs produits ;
 
 *   Intérêt légitime de la Redoute
 
@@ -155,7 +155,7 @@ Les opérations de luttre contre la fraude et d’évaluation du risque de fraud
 
 Les opérations de mise en relation des personnes ayant des problèmes de sourdité reposent sur le consentement express de la personne concernée. La personne concernée à la faculté de retirer son consentement en effectuant une demande en cliquant ici
 
-  
+     
 3\. A QUI VOS DONNEES SONT ELLES TRANSMISES ?
 
 Vos données sont transmises à des partenaires de La Redoute qui peuvent traiter les données pour leur compte (ce sont des destinataires) ou uniquement pour le compte et selon les instructions de La Redoute (ce sont des sous-traitants).
@@ -186,7 +186,7 @@ La Redoute peut également partager les données à caractère personnnel si la 
 *   En cas de vente, transfert ou fusion de l'entreprise ou d'une partie de celle-ci, ou si La Redoute acquiert ou fusionne avec une autre société.
 *   Si une telle transaction a lieu, La Redoute s’assurera que l’autre partie respecte la législation sur la protection des données.
 
-  
+   
 4\. QUELS SONT MES DROITS SUR LES DONNEES 4.1. Quels sont mes droits ?
 
 En application des articles 14 à 22 du du règlement 2016/679 du 27 avril 2016, toute personne physique utilisant le service a la faculté d’exercer les droits suivants :
@@ -224,6 +224,8 @@ En cas de non réponse ou de réponse non satisfaisante, la personne concernée 
 
 *   En France, la CNIL : https://www.cnil.fr/
 
+   
+
   
 5\. QUEL EST LE SORT DE MES DONNEES APRES MON DECES ?
 
@@ -231,7 +233,7 @@ L’Utilisateur peut formuler des directives relatives à la conservation, à l'
 
 L’Utilisateur peut formuler ses directives anticipées en cliquant ici.
 
-  
+   
 6\. MES DONNEES SONT ELLE ENVOYEES HORS DE L’UE ?
 
 Vous êtes informé que des données à caractère personnel vous concernant peuvent être transmises pour les besoins des finalités définies ci-dessus à des sociétés situées dans des pays hors de l’Union Européenne et ne présentant pas un niveau de protection adéquat en ce qui concerne la protection des données personnelles.
@@ -272,7 +274,7 @@ Clauses contractuelles types
 
 Pour plus d’information sur l’encadrement des flux transfrontières, vous pouvez contacter le délégué à la protection des données.
 
-  
+   
 7\. COMBIEN DE TEMPS MES DONNEES SONT-ELLES CONSERVEES ?
 
 La Redoute a déterminé des règles précises concernant la durée de conservation des données à caractère personnel des Utilisateurs.
@@ -383,7 +385,7 @@ Ce traitement fait intervenir des partenaires qui ont déjà collecté votre adr
 
 Vous pouvez vous opposer à ce type de traitement en cliquant ici.
 
-11.4. Notifications sur les applications mobiles
+  11.4. Notifications sur les applications mobiles
 
 Lors de la première ouverture de l’application mobile La Redoute sur votre smartphone, vous devez donner l’autorisation à la réception de notifications mobiles ou « Push ».
 
@@ -444,7 +446,7 @@ Pour Chrome™ : http://support.google.com/chrome/bin/answer.py?hl=fr&hlrm=en&an
 Pour Firefox™ : http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%20cookies ,  
 Pour Opera™ : http://help.opera.com/Windows/10.20/fr/cookies.html
 
-12.3.2. Paramétrage du système d’exploitation de votre smartphone
+  12.3.2. Paramétrage du système d’exploitation de votre smartphone
 
 Vous avez la possibilité de contrôler le dépôt des Cookies sur votre smartphone dans les règles du système d’exploitation.  
 Sur iOS : https://support.apple.com/fr-fr/HT201265  
@@ -456,7 +458,7 @@ Afin de se conformer à la règlementation, la Redoute utilise un outil permetta
 
 Pour accéder à la liste des cookies déposés et en configurer le dépôt cliquez ici
 
-12.3.4. Liste d’opposition permettant de gérer le dépôt des cookies
+  12.3.4. Liste d’opposition permettant de gérer le dépôt des cookies
 
 Vous avez également la possibilité de vous opposer au dépôt des cookies en accédant au site internet http://www.youronlinechoices.com/fr/controler-ses-cookies/.
 
