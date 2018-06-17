@@ -129,7 +129,7 @@ Play Norman Reedus Stars in the Amazing Video hotspot
 
 It's true: Kingdom Hearts 3 comes to PS4 on January 29, 2019. And it's bringing Pirates of the Caribbean with it. Learn more here.
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -203,7 +203,7 @@ With Elegant Design
 
 Don’t just feel the rush of the outdoors, hear it with the #Xperia Ear Duo and our groundbreaking dual listening technology.
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -361,7 +361,7 @@ The PlayStation™Store
 
 Are you ready to fight? Use your Sony Rewards points to get the #StreetFighter 30th Anniversary Collection for PS4.
 
-4 days ago
+5 days ago
 
 View Tweet
 
