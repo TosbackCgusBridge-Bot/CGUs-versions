@@ -1,4 +1,4 @@
-Gifts to make every dad's day! - Shop the store adSee DetailsAccessible View
+Accessible View
 
 *   My AccountSign In Sign InNew Customer? Register Here
     *   My Account
@@ -24,30 +24,28 @@ Near YouFind a StoreBackSAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop A
     
     $25 sale
     
-    was $75 Q7 Limited Time Special! Black Smartwatch(18)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $25 sale
-    
     was $75 Q7 Limited Time Special! Black/Silver Smartwatch(20)Add To Cart
 *   $119.95 sale
     
     was $149.95 Fitbit Charge 2 Heart Rate and Activity Tracker - Black(5)Add To Cart
 *   $279 sale
     
-    was $349.99 Samsung Gear S3 Frontier Smart Watch(991)Add To Cart
+    was $349.99 Samsung Gear S3 Classic Black Smart Watch(991)Add To Cart
 *   $119.95 sale
     
     was $149.95 Fitbit Charge 2 Heart Rate and Activity Tracker - PlumAdd To Cart
+*   $279 sale
+    
+    was $349.99 Samsung Gear S3 Frontier Smart Watch(991)Add To Cart
 *   $25 sale
     
     was $50 Olivia Pratt Smart Watch-8183Add To Cart
 *   $119.95 sale
     
-    was $149.95 Fitbit Charge 2 Heart Rate and Activity Tracker - Blue(4)Add To Cart
-*   $49.99 sale
+    was $149.95 Fitbit Charge 2 Heart Rate and Activity Tracker - TealAdd To Cart
+*   $119.95 sale
     
-    was $75 iTouch Black Smart Watch-JCIT3160S590-003(3)Add To Cart
+    was $149.95 Fitbit Charge 2 Heart Rate and Activity Tracker - Blue(4)Add To Cart
 
 SAVE UP TO 50% OFF SELECT MEN'S DRESS SHIRTSShop AllSAVE UP TO 50% OFF SELECT MEN'S DRESS SHIRTSShop All
 
@@ -69,12 +67,12 @@ SAVE UP TO 50% OFF SELECT MEN'S DRESS SHIRTSShop AllSAVE UP TO 50% OFF SELECT ME
 *   $13.99 sale
     
     was $36 Stafford® Travel Short-Sleeve Wrinkle-Free Oxford Dress Shirt(583)Add To Cart
-*   $22.99 sale
-    
-    was $46 Stafford® Travel Short-Sleeve Wrinkle-Free Oxford Shirt–Big &. Tall(160)Add To Cart
 *   $29.99 sale
     
     was $60 Stafford® Executive Non-Iron Cotton Pinpoint Oxford Shirt(293)Add To Cart
+*   $22.99 sale
+    
+    was $46 Stafford® Travel Short-Sleeve Wrinkle-Free Oxford Shirt–Big &. Tall(160)Add To Cart
 
 FENTY BEAUTY BY RIHANNAShop AllFENTY BEAUTY BY RIHANNAShop All
 
@@ -90,44 +88,18 @@ FENTY BEAUTY BY RIHANNAShop AllFENTY BEAUTY BY RIHANNAShop All
 *   $18
     
     FENTY BEAUTY BY RIHANNA Mattemoiselle Plush Matte Lipstick(1423)Add To Cart
-*   $54
-    
-    FENTY BEAUTY BY RIHANNA Match Stix Trio(1000)Add To Cart
 *   $18
     
     FENTY BEAUTY BY RIHANNA Gloss Bomb Universal Lip Luminizer(4821)Add To Cart
 *   $42
     
     FENTY BEAUTY BY RIHANNA Fairy Bomb(41)Add To Cart
-*   $25
+*   $54
     
-    FENTY BEAUTY BY RIHANNA Match Stix Matte Skinstick(753)Add To Cart
-
-Top Sellers
-
-*   $69.99 - $89.99 sale
+    FENTY BEAUTY BY RIHANNA Match Stix Trio(1000)Add To Cart
+*   $34
     
-    was $130 - $200 | 42 - 55% offRoyal Velvet® 400 TC Wrinkle Guard™ Sheet Sets(2809)
-*   EXTREME VALUE!
-    
-    $5
-    
-    St. John's Bay Knit Tank Top(50)
-*   $12.99 sale
-    
-    was $40 | 67% offSt. John's Bay Twill Cargo Shorts(43)
-*   $29.99 sale
-    
-    was $54 | 44% offYuu Handey Womens Strap Sandals(48)
-*   $4.99 - $5.99 sale
-    
-    was $14 - $19 | 64 - 68% offArizona SS Stripe/Print Fave Tee - Girls' 4-16 &. Plus(7)
-*   $69.99 - $109.99 sale
-    
-    was $139 - $219 | 49% offRoyal Velvet Luxury 600tc Sateen Wrinkle Free Sheet Set(130)
-*   $5 sale
-    
-    was $14 | 64% offSt. John's Bay Short Sleeve V Neck T-Shirt-Womens(82)
+    FENTY BEAUTY BY RIHANNA Killawatt Freestyle Highlighter Duo(2440)Add To Cart
 
 Shop and Save at JCPenney
 
@@ -195,7 +167,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Google Plus
+*   Instagram
 *   Youtube
 *   JCPenney Blog
 
