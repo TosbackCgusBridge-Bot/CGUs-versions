@@ -8,7 +8,8 @@
     *   New!
     
     Occasions*   Father's Day
-    *   Memorial Day
+    *   Fourth of July
+    *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -48,9 +49,9 @@
     View All Categories Shop by Category*   Father's Day Gifts
     
     Occasions*   Birthday Gifts
-    *   Memorial Day
+    *   Fourth of July
+    *   Taste of Summer
     *   Weddings &. Showers
-    *   Housewarming
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Father's Day Gifts Father's Day Feast
 *   Sale
@@ -75,7 +76,8 @@
     *   New!
     
     Occasions*   Father's Day
-    *   Memorial Day
+    *   Fourth of July
+    *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -115,9 +117,9 @@
     View All Categories Shop by Category*   Father's Day Gifts
     
     Occasions*   Birthday Gifts
-    *   Memorial Day
+    *   Fourth of July
+    *   Taste of Summer
     *   Weddings &. Showers
-    *   Housewarming
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Father's Day Gifts Father's Day Feast
 *   Sale
