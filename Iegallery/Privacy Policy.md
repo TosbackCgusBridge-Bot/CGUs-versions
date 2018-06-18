@@ -421,7 +421,7 @@ Where French law applies, you can also send us specific instructions regarding t
 
 If you have a technical or support question, please visit http://support.microsoft.com to learn more about Microsoft Support offerings. If you have a personal Microsoft account password question, please visit Microsoft account support.
 
-Top of page Enterprise and Developer ProductsEnterprise &. Developer Products
+Top of page Product-specific details:Enterprise and Developer ProductsEnterprise &. Developer Products
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
 
