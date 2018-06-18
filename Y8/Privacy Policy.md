@@ -3,9 +3,9 @@
 *   games
 *   videos
 
-New Games Next in  24:35 Categories &. more LIBRARY
+New Games Next in  25:34 Categories &. more LIBRARY
 
-*   New Games Next in 24:35
+*   New Games Next in 25:34
 *   Best of new games 2204 games
 *   Most Popular Games 582 games
 *   Played Games 0 games
@@ -14,33 +14,33 @@ New Games Next in  24:35 Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 22,452 games
-*   Driving &. Racing Games 6,694 games
+*   Games for girls 22,461 games
+*   Driving &. Racing Games 6,695 games
 *   Strategy &. RPG Games 2,354 games
 *   Management Games 3,650 games
 *   Thinking Games 11,537 games
 *   Action &. Adventure Games 15,708 games
 *   Sports Games 2,212 games
-*   Shooting Games 7,978 games
+*   Shooting Games 7,983 games
 *   Fighting Games 2,081 games
-*   Skill Games 9,993 games
-*   Arcade &. Classic Games 12,456 games
+*   Skill Games 9,997 games
+*   Arcade &. Classic Games 12,462 games
 *   Fun &. Crazy Games 2,347 games
 
 Tags
 
-*   Car2,318
-*   Wrestling31
-*   Drunk58
-*   Ben 1091
-*   Bubbles605
-*   Defense880
+*   Gun1,105
+*   Shoot 'Em Up3,197
+*   Street Fighting91
+*   Boy1,117
+*   Coloring401
+*   Dress Up13,766
 *   View All Tags 371
 
 Play with friends  
 Powered by id.net 128 id.net Multiplayer Games 1,453 id.net High Score Games 963 id.net Achievements Games 781 id.net Screenshots Games 1,327 id.net Online Save Games 2,491 All id.net Games Last Highscore:
 
-**309** points on Death Run 3D by Pham
+**1** points on Mutant Fighting Arena by huy
 
 *   Contact Form
 *   Submit a Game or Video
@@ -49,7 +49,7 @@ Powered by id.net 128 id.net Multiplayer Games 1,453 id.net High Score Games 963
 *   Cookie Policy
 *   Terms of Use
 
-Bad translation? Share887K Register Log in My Profile 0 points
+Bad translation? Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
@@ -273,4 +273,4 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Privacy Policy
 *   Cookie Policy
 
-Share887K We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
+We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
