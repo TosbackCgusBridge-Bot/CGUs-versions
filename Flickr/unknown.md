@@ -127,10 +127,8 @@ Last updated: 2018-04-03
 *   About
 *   Jobs
 *   Blog
-*   Mobile
 *   Developers
 *   Guidelines
-*   Feedback
 *   Report abuse
 *   Help forum
 *   English
