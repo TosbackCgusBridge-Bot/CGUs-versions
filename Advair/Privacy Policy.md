@@ -467,11 +467,11 @@ Menu
         *   Parents and teachers
         *   Application tips and process
     *   High school students
-    *   Veterans' leaders program
-        *   Back
-        *   Veterans' leaders program
-        *   Case studies
     *   Employee rights under federal law
+    *   Veterans' Leaders Program
+        *   Back
+        *   Veterans' Leaders Program
+        *   Case studies
     
     *   Search jobs and apply
         
