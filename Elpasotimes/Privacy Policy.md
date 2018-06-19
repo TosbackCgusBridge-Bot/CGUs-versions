@@ -1,4 +1,4 @@
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%
+SUBSCRIBE NOW99¢ per month. Save 90%
 
 *   Home
 *   News
@@ -75,7 +75,7 @@ close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events9
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowO'Rourke leads protest against family separationsImmigrationCelebrity may join O'Rourke's march to TornilloImmigrationTornillo tents could grow to house 4,000 kidsImmigrationSingle dad gives $4,000 to kids on Father's DayLife1 dies in Northeast El Paso crash, police sayLocalAccident temporarily closes part of I-10 for hoursTrafficEPISD budget crisis manufactured: Susie ByrdOpinionPolice investigate after motorcycle hits treeLocalPizza joint eyeing El Paso after controversyNewsMarijuana found in far East El Paso. 3 arrestedCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending Now'Chapo' Guzman trial asks: Who is Jesus Malverde?CrimeO'Rourke leads protest against family separationsImmigrationFireworks ban for July 4 unlikely, officials sayLocalSingle dad gives $4,000 to kids on Father's DayLife1 dies in Northeast El Paso crash, police sayLocalDel Valle athlete fights cancer, inspires othersLocalCelebrity may join O'Rourke's march to TornilloImmigrationPolice investigate after motorcycle hits treeLocalTornillo tents could grow to house 4,000 kidsImmigrationMigrant children, asylum seekers face dilemmaImmigrationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,5 +145,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogclose dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per MonthFor 3 MonthsSubscribe Not looking to subscribe right now close dialog
