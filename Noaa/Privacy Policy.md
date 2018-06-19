@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Contiguous U.S. had its warmest May on record Each state was warmer than average, record precipitation in the East AROUND NOAA // Swim into Sea Turtle Week 2018 \[EXT\] Okeanos Explorer sets sail to the deep waters off the U.S. southeast coast Celebrate the ocean \[EXT\]
+Enter Search Terms Globe had its 4th warmest May on record Sea ice coverage at the poles remains small AROUND NOAA // Okeanos Explorer sets sail to the deep waters off the U.S. southeast coast Contiguous U.S. had its warmest May on record Celebrate the ocean \[EXT\]
 
 *   About our agency
 *   News and features
