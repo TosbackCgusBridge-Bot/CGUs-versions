@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Design and Web team summary – 18 June 2018 ›
+*   A unified OpenStack for a scalable open infrastructure ›
 *   451 Research benchmarks public and private infrastructure cost ›
 *   Ubuntu to host containers in Amazon’s (EKS) for container portability ›
 *   Ubuntu Server development summary – 05 June 2018 ›
-*   Top Snaps in May 2018 ›
-*   Kubernetes and OpenStack solving AI complexities at scale ›
