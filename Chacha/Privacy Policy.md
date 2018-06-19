@@ -1,41 +1,125 @@
-*   Exchange
-*   Labs
-*   LaunchPad
-*   Info
+*   Home
+*   Car Values
+    *   New &. Used Car Prices
+    *   Trade-in &. Private Party Values
+    *   Instant Cash Offer
+*   Cars for Sale
+    *   Search Local Inventory
+    *   Sell Your Car
+    *   Free Dealer Price Quote
+    *   Vehicle History Report
+    *   Find Local Dealers
+*   Car Reviews
+    *   KBB Expert Reviews
+    *   New Car Buyer's Guide
+    *   Consumer Reviews
+    *   Safety &. Quality Ratings
+*   Awards &. Top 10s
+    *   Top 10 Lists
+    *   KBB Awards
+    *   New Car Buyer's Guide
+    *   Latest Car News
+    *   Auto Show News
+*   Research Tools
+    *   Compare Cars
+    *   Payment Calculator
+    *   Vehicle History Report
+    *   5-Year Cost to Own
+    *   Car Loans
+    *   Insurance
+    *   Check My Credit
+    *   Extended Warranty
 
-*   Join Us
-*   Support
-*   News
-*   Log In or Register
-*   English
-*   Website Translator
-    
-    Translations by Google is provided for  
-    convenience and is not verified contextually.  
-    Please refer to original for accuracy.
-    
+Sign In MyKBB ZIP code 0 Saved Cars Saved Comparisons Cars I might Like Most Researched Cars Dealer Price Quotes **ZIP CODE:** Account Profile Sign Out Not a Member? Become a member today for free and:
 
-Binance - Exchange the WorldCreate an Account|Already Registered?  Log in
+*   Save your research
+*   Save car comparison
+*   Save price quote requests
+*   See our customized car recommendations
 
-*   Binance Distributes EON_(06-16)_
-*   The Seventh Session of “Community Coin of the Month”_(06-15)_
-*   THETA Competition Has Now Concluded_(06-14)_
-*   Binance Lists Siacoin (SC)_(06-14)_
-*   Binance Supports ICX Mainnet Swap and Adds ICX/USDT Trading Pair _(06-13)_
-*   Notice of Binance Support for EOS Airdrops - IQ, DAC, and EON_(06-13)_
-*   IOTX Competition - 20,000,000 IOTX to Give Away!_(06-12)_
-*   Community Coin of the Month - Round 7_(06-12)_
-*   Binance Adds ETC/BNB and ETC/USDT Trading Pairs_(06-12)_
+Sign up today MyKBB Sign In Remember me Forgot your password? Forgot Password? Enter your email address, and we’ll send you a new password. I already have an account Sign Up for MyKBB I acknowledge that I have read and accept the Terms of Service. I'd like to receive useful tips, tools and resources via email from Kelley Blue Book and affiliates. Privacy Policy I already have an account You've created your personalized KBB Profile! Now you can start saving your car research and get customized car recommendations. Click on a link below to start. My Recently Viewed Cars My Profile Enter Your ZIP Code Please enter a valid 5-digit ZIP code. Location: Save Kelley Blue Book® Values and pricing are based in part on transactions in your area. Your ZIP code also helps us find local deals and highlight other available offers. Privacy Policy | Values outside the United States ﻿ ﻿ Saved Vehicles Recently Viewed
 
-**BNB/BTC**5.86%**0.0026200**–Volume: 6,501.52 BTC/**EOS/BTC**\-2.77%**0.0015843**–Volume: 3,506.36 BTC/**IOTX/BTC**6.58%**0.00000551**–Volume: 2,888.92 BTC/**TRX/BTC**\-1.06%**0.00000654**–Volume: 2,050.09 BTC/**ICX/BTC**\-3.40%**0.0003073**–Volume: 3,331.17 BTC/  FavoritesBNB MarketsBTC MarketsETH MarketsUSDT Markets PairCoinLast Price24h Change24h High24h Low24h Volume BNB/BTCBinance Coin0.0026200–5.86%0.00263250.00246316,501.51532603 ETH/BTCEthereum0.076922–-0.46%0.0774180.0763505,738.85499423 EOS/BTCEOS0.0015843–-2.77%0.00164290.00158013,506.36140729 ICX/BTCICON0.0003073–-3.40%0.00032040.00030303,331.16936874 ETC/BTCEthereum Classic0.002210–-0.50%0.0022350.0021842,916.83692171 IOTX/BTCIoTeX0.00000551–6.58%0.000005670.000005122,888.92026160 VEN/BTCVeChain0.00047200–-0.77%0.000497710.000461802,458.57800442 TRX/BTCTRON0.00000654–-1.06%0.000006650.000006522,050.09306562 LTC/BTCLitecoin0.014650–-1.74%0.0149600.0146201,977.76009242 XLM/BTCStellar Lumens0.00003502–-1.35%0.000036010.000034901,683.44205323 IOTA/BTCMIOTA0.00018008–-2.09%0.000184560.000180001,456.23864359 ADA/BTCCardano0.00002471–-1.08%0.000025080.000024591,437.14738111 ONT/BTCOntology0.0009458–-1.32%0.00096600.00093801,319.01031322 XRP/BTCRipple0.00008123–-0.90%0.000082390.000080291,309.27039257 BCC/BTCBitcoin Cash0.130171–-0.93%0.1316540.1298051,281.42894373 NEO/BTCNEO0.005834–-0.10%0.0060780.005748886.80584130 NANO/BTCNANO0.0004179–1.38%0.00042550.0004112767.71557232 THETA/BTCTheta Token0.00002428–-3.07%0.000025160.00002413722.47351064 ARN/BTCAeron0.00012116–-1.58%0.000124760.00012078655.41348340 WAVES/BTCWaves0.0005359–2.04%0.00053900.0005200613.48146371 QKC/BTCQuarkChain0.00002048–1.19%0.000021750.00002014541.08312070 CMT/BTCCyberMiles0.00003083–-5.55%0.000032870.00003067533.36614982 GTO/BTCGifto0.00002402–-1.27%0.000025180.00002370530.01738843 ZRX/BTC0x0.00012901–-4.45%0.000136510.00012800526.47133102 BCN/BTCBytecoin0.00000062–-4.62%0.000000660.00000062521.24696342 DASH/BTCDash0.039884–-2.18%0.0417440.039739490.34479025 SKY/BTCSkycoin0.001430–-14.98%0.0016900.001421459.26953928 TUSD/BTCTrueUSD0.00015712–2.02%0.000159000.00015261447.17939232 XMR/BTCMonero0.019142–-0.19%0.0194000.018900423.50372653 SNT/BTCStatus0.00001137–-1.64%0.000011630.00001132402.19200540 STRAT/BTCStratis0.0004655–0.00%0.00048320.0004603396.19614188 GVT/BTCGenesis Vision0.0016221–-3.03%0.00167940.0016213387.99159017 MANA/BTCDecentraland0.00001708–5.96%0.000018450.00001572363.94620331 LUN/BTCLunyr0.0013123–-2.46%0.00136360.0013087363.38833672 QLC/BTCQLINK0.00001145–-2.97%0.000011910.00001140357.02725580 BQX/BTCETHOS0.00025000–-6.80%0.000269260.00024962353.48888489 NAV/BTCNAV Coin0.0000925–-3.14%0.00009650.0000921353.18980320 BRD/BTCBread0.00007439–5.80%0.000074510.00006866290.63406117 WAN/BTCWancoin0.0004430–-1.20%0.00046340.0004402289.89761913 SNM/BTCSONM0.00002386–10.93%0.000027600.00002140279.03387779 INS/BTCINS Ecosystem0.0001137–-1.56%0.00011980.0001115278.21256389 ZIL/BTCZilliqa0.00001294–-2.63%0.000013350.00001288251.61258202 XVG/BTCVerge0.00000426–-1.84%0.000004390.00000422233.82726175 EDO/BTCEidoo0.0001630–-0.91%0.00016450.0001600233.36823681 SALT/BTCSalt0.0001785–-4.49%0.00018840.0001774231.94957302 ENG/BTCEnigma0.00021633–0.70%0.000219860.00021479229.39426747 CDT/BTCBlox0.00000525–0.38%0.000005480.00000490225.22356101 RCN/BTCRipio Credit Network0.00000870–-4.81%0.000009150.00000867220.83114886 REQ/BTCRequest Network0.00001550–-3.55%0.000017450.00001535211.79134162 MTL/BTCMetal0.0002921–-0.65%0.00030810.0002920202.92612702 AGI/BTCSingularityNET0.00001881–-2.03%0.000019500.00001853193.34790862 SUB/BTCSubstratum0.00004141–-2.13%0.000042600.00004083185.47699098 WINGS/BTCWINGS0.00003738–-7.89%0.000040740.00003726182.12898068 NXS/BTCNexus0.0002299–1.77%0.00023310.0002220181.69922496 BAT/BTCBasic Attention Token0.00003710–-3.61%0.000038530.00003565178.08089968 IOST/BTCIOStoken0.00000408–-2.86%0.000004210.00000406175.41513474 CVC/BTCCivic0.00003038–-2.28%0.000031650.00003013167.00961579 SC/BTCSiacoin0.00000189–-4.55%0.000001990.00000188164.38613376 QTUM/BTCQtum0.001592–-2.21%0.0016390.001591155.25789846 ELF/BTCaelf0.00010210–-4.98%0.000108470.00010206146.74022044 MOD/BTCModum0.0001826–3.46%0.00021370.0001743139.38810279 VIB/BTCViberate0.00001393–-1.28%0.000014180.00001380135.60906295 BCPT/BTCBlockMason Credit Protocol0.00002849–-2.50%0.000029590.00002830135.25629006 NCASH/BTCNucleus Vision0.00000219–-3.52%0.000002280.00000217132.88235326 CLOAK/BTCCloakCoin0.0008800–-0.83%0.00096990.0008541116.11702638 OMG/BTCOmiseGO0.001395–-1.34%0.0014290.001388104.49729813 ZEC/BTCZcash0.028502–-2.48%0.0293140.028500103.19584740 DATA/BTCStreamr DATAcoin0.00001025–-2.38%0.000010970.0000100099.70666591 SNGLS/BTCSingularDTV0.00000695–7.09%0.000008030.0000064591.15770333 AE/BTCAeternity0.0003935–-2.41%0.00040490.000392087.92760925 LOOM/BTCLoom Network0.00003333–-0.42%0.000034500.0000315085.74612591 LSK/BTCLisk0.0009552–-4.10%0.00099820.000947785.37210915 NULS/BTCNuls0.00042239–7.02%0.000422500.0003913584.15450403 AION/BTCAION0.0002196–-4.02%0.00023960.000218078.23602453 BLZ/BTCBluzelle0.00004443–-0.69%0.000045900.0000437672.24852850 LINK/BTCChainLink0.00003244–-4.78%0.000034660.0000316471.89344786 POA/BTCPOA Network0.00003369–-5.81%0.000036560.0000313467.69277446 BTG/BTCBitcoin Gold0.004876–-2.19%0.0051000.00485063.77825083 PPT/BTCPopulous0.0011960–-6.04%0.00127300.001189963.54151456 WTC/BTCWalton0.0012933–-0.22%0.00131300.001279261.45875778 GXS/BTCGXChain0.0004788–-3.91%0.00050500.000477358.59996154 STORM/BTCStorm0.00000321–-2.73%0.000003350.0000032056.52813749 HSR/BTCHshare0.000855–-1.27%0.0008680.00085255.43568503 MDA/BTCMoeda Loyalty Points0.00008204–-2.40%0.000084940.0000818455.19244310 QSP/BTCQuantstamp0.00001445–-2.76%0.000015110.0000143552.96315031 WABI/BTCWaBi0.00006446–-6.31%0.000073500.0000644352.05258562 GNT/BTCGolem0.00005750–-1.89%0.000058890.0000572651.36450549 XEM/BTCNEM0.00003016–0.00%0.000030390.0000300051.31981657 WPR/BTCWePower0.00000726–-5.59%0.000007840.0000070149.81223376 POE/BTCPo.et0.00000268–-4.63%0.000002850.0000026748.22062266 RPX/BTCRed Pulse0.00000602–0.00%0.000006300.0000060145.18717315 MCO/BTCMONACO0.000797–1.40%0.0008170.00077944.40365659 ENJ/BTCEnjinCoin0.00001144–-3.38%0.000012070.0000113242.75604140 ZEN/BTCZenCash0.002933–-0.58%0.0030180.00291341.28655933 VIBE/BTCVIBE0.00001444–-5.93%0.000015900.0000143141.06179201 ADX/BTCAdEx0.00006581–3.30%0.000067740.0000633039.04382642 GAS/BTCNeoGas0.002049–1.09%0.0020990.00200238.94927600 BTS/BTCBitShares0.00002456–-1.52%0.000025020.0000242138.54477125 FUN/BTCFunFair0.00000376–-2.08%0.000003880.0000037138.53622660 DGD/BTCDigixDAO0.016904–-1.61%0.0176040.01683137.87440242 RDN/BTCRaiden Network Token0.00012800–-6.77%0.000141340.0001276635.62215206 STEEM/BTCSteem0.0002437–-4.47%0.00026700.000242834.40191493 SYS/BTCSyscoin0.00003219–-5.66%0.000035150.0000315133.52552513 MTH/BTCMonetha0.00000815–7.80%0.000008190.0000074533.42194669 RLC/BTCiExecRLC0.0001571–-4.27%0.00016460.000156932.21586944 NEBL/BTCNeblio0.0007001–-2.47%0.00073360.000697731.95807813 YOYO/BTCYOYOW0.00001145–-2.22%0.000011830.0000113031.89410605 XZC/BTCZCoin0.002992–0.30%0.0030910.00294331.39939838 LRC/BTCLoopring0.00005617–-2.09%0.000058040.0000557130.84365856 REP/BTCAugur0.005163–1.02%0.0052380.00503830.01917085 CND/BTCCindicator0.00000619–1.31%0.000006480.0000060229.51759325 FUEL/BTCEtherparty0.00000545–-5.71%0.000005810.0000054229.49722789 KNC/BTCKyberNetwork0.00015010–-2.62%0.000154220.0001494925.94316180 KMD/BTCKomodo0.0002929–-1.74%0.00030000.000287123.95710271 TRIG/BTCTriggers0.0000656–-4.65%0.00006900.000065022.97465489 POWR/BTCPowerLedger0.00003928–-1.01%0.000040420.0000391021.42849502 DNT/BTCdistrict0x0.00000611–-0.65%0.000006310.0000060721.33028325 OST/BTCOST0.00001290–-4.37%0.000013550.0000127521.21756170 ARK/BTCArk0.0002438–-3.83%0.00025590.000243018.51178485 APPC/BTCAppCoins0.00003375–-4.39%0.000035640.0000334618.47397197 TNB/BTCTime New Bank0.00000390–-4.18%0.000004090.0000038817.02404631 LEND/BTCEthLend0.00000497–-0.60%0.000005080.0000048816.90140414 AMB/BTCAmbrosus0.00004774–-3.94%0.000050970.0000476115.89004779 TNT/BTCTierion0.00000810–0.37%0.000008300.0000079015.18655586 STORJ/BTCStorj0.00008621–-3.07%0.000091790.0000852415.09332974 CHAT/BTCChatCoin0.00000733–-4.06%0.000007690.0000072614.88282822 BNT/BTCBancor0.00051167–-0.19%0.000522010.0005043814.87507483 DLT/BTCAgrello0.00001720–-0.69%0.000018390.0000169914.74860111 VIA/BTCViacoin0.0001831–-2.66%0.00018850.000180414.44134262 PIVX/BTCPIVX0.0004072–-0.17%0.00041740.000404514.20932130 GRS/BTCGroestlcoin0.00011066–-3.41%0.000119000.0001105912.73541661 OAX/BTCopenANX0.00005750–-1.64%0.000060000.0000565411.46706066 ICN/BTCICONOMI0.00010583–-1.84%0.000107810.0001012110.30260541 AST/BTCAirSwap0.00002903–-0.68%0.000029810.000028408.47152443 EVX/BTCEverex0.00011356–-1.17%0.000114900.000111965.66254947 BCD/BTCBitcoin Diamond0.002216–0.59%0.0022340.0021725.33939401 Download
+**You've added your first car!**  
+As you save even more cars and classified listings, find them here for easy reference.
 
-*   About
-*   Terms
-*   Privacy
-*   Fees
-*   Contact
-*   API
-*   Apply to List
-*   Download
+Got It
 
-© 2017 – 2018 Binance.com. All rights reserved.24h Volume:475,465.54BNB /59,445.04BTC /70,195.76ETH /410,656,822.28USDT Connected
+Vehicle Added
+
+Vehicle Removed
+
+Limit Reached
+
+Car Shopping  
+Made Easy KBB.com is your one-stop resource Price New/Used My Car's Value 2018 Toyota C-HR Learn more Photo Sponsored by Toyota First Pics: See the New Cars Coming for 2018
+
+Some of these new cars, trucks and SUVs are already here. Take a peek
+
+Take a peek
+
+Cars for Sale Near You
+
+Search from thousands of new and used vehicles close to your home. Shop now
+
+Shop now
+
+10 Best Sedans Under $25,000
+
+The top two sedans have been completely redesigned for 2018. Find your favorite
+
+Find your favorite
+
+New Cars by Category Make Best Sellers Sponsored SUV CX-5 Crossover Sedan Truck Hatchback Convertible Luxury Coupe Electric Hybrid Van/Minivan Wagon Acura Alfa Romeo Aston Martin Audi Bentley BMW Buick Cadillac Chevrolet Chrysler Dodge Ferrari FIAT Ford Freightliner Genesis GMC Honda Hyundai INFINITI Jaguar Jeep Kia Lamborghini Land Rover Lexus Lincoln Lotus Maserati Mazda McLaren Mercedes-Benz MINI Mitsubishi Nissan Porsche Ram Rolls-Royce smart Subaru Tesla Toyota Volkswagen Volvo Range $0$5,000$10,000$15,000$20,000$25,000$30,000$35,000$40,000$45,000$50,000$55,000$60,000$65,000to $5,000$10,000$15,000$20,000$25,000$30,000$35,000$40,000$45,000$50,000$55,000$60,000$65,000No limit See Results Popular Searches Top-Rated Sedans Under $25,000 Top-Rated SUVs Under $25,000 Luxury Vehicles Under $35,000 3-Row Vehicles Under $35,000 Best MPG Under $35,000 Advertisement Advertisement New Car Showroom
+
+*   Fair Purchase Price
+*   KBB.com Expert Reviews
+*   Consumer Reviews
+
+Check Our Fair Purchase Price For Your New Car
+
+We compiled the data and crunched the numbers for your peace of mind.
+
+Search for cars
+
+Sponsored
+
+Advertisement From KBB.com Get Your Instant Cash Offer
+
+Trade in or sell your car today, based on Kelley Blue Book Values. Get started
+
+Get started
+
+2018 New Car Buyer's Guide
+
+Are you dreaming of the right car or will you find a new favorite? See your options
+
+See your options
+
+Certified Pre-Owned
+
+These top-quality vehicles are backed by manufacturers' warranties. Learn more
+
+Learn more
+
+More on KBB.com See more See the New Cars Coming for 2019 Sneak a peek at some of the new and redesigned cars and SUVs heading your way. Have a look 10 Best All-Wheel Drive Vehicles Under $25,000 In the wet or in the dry, all-wheel drive helps you put the power down. Get a grip 10 Best All-Wheel Drive Vehicles Under $25,000 In the wet or in the dry, all-wheel drive helps you put the power down. Get a grip Sponsored by The Best Buys of 2018 We name the best car for the most people in each of 12 popular segments. See the winners 10 Best SUVs Under $25,000 This year we welcome two all-new models. See them all Advertisement Get Blue Book® Values For: Motorcycles Personal Watercraft Snowmobiles  
+We’re not exclusive to cars. We also have Blue Book Values for the things you ride. Your One-Stop Resource KBB.com gives you everything you need to research a new, CPO or used car, compare cars, find cars for sale and make a well-informed decision. Kelley Blue Book is your guide for Everything Automotive, whether you're just checking your current car's value, actively looking for your next car, or ready to buy. We're also one of most extensive sources for motorcycle values on the internet. 90 Years of Pricing Expertise
+
+Since 1926, Kelley Blue Book has been one of the most trusted names in the auto industry. You might say we literally "wrote the book on car values". And today there's no better place to find the value of your current car than KBB.com. Whether you're trading it in, selling it privately, or taking advantage of the Kelley Blue BookSM Instant Cash Offer, KBB.com is here for you.
+
+Get your car's value Expert Reviews
+
+Get the truth, with reviews, videos and more from our in-house editorial staff. Our New Car Buyer's Guides lay out the top cars in every category. If you've got a budget, our experts reveal the best cars under $25,000, plus recommendations for what to look for next.
+
+Read expert reviews New Car Fair Purchase Price
+
+See what you can expect to pay for a new car based on what others have paid. The Kelley Blue Book ® Price Advisor tool takes into account supply and demand, regional variations and more to clearly show what a good deal would be in your area.
+
+Price a new car Used Car Fair Purchase Price
+
+When buying a used car, it's even more crucial to have a pricing source on your side. After you've considered mileage, condition and options, you'll want to know the Kelley Blue Book Fair Purchase Price and Fair Market Range for Used Cars.
+
+Go to used car pricing Popular Cars &. Trucks Ford F150 Chevrolet Silverado Ram 1500 Toyota Camry Toyota Corolla Honda Accord Honda CR-V Honda Civic Nissan Altima Toyota Rav4 Ford Escape Ford Fusion Nissan Rogue Chevrolet Equinox Ford Explorer Hyundai Elantra Chevrolet Cruze GMC Sierra Jeep Cherokee Hyundai Sonata New on KBB.com 2019 Mazda CX 3 2019 Acura TLX 2019 Toyota Avalon 2019 Honda Fit 2019 Acura RDX 2019 BMW i8 2019 Toyota Avalon Hybrid 2019 Hyundai Veloster 2018 Ram 3500 Mega Cab 2018 Chevrolet Express 3500 Passenger 2018 Chevrolet Express 2500 Passenger 2018 MINI Hardtop 4 Door 2018 Lexus RX 2018 BMW X2 2018 Chevrolet Silverado 2500 HD Double Cab 2018 Audi RS 5 2018 Chevrolet Silverado 3500 HD Regular Cab 2018 Mercedes-Benz Mercedes AMG CLS 2018 BMW 6 Series 2018 INFINITI QX30 Cars for Sale by Model Ford F150 for Sale Chevrolet Silverado 1500 for Sale Ram 1500 for Sale Toyota Camry for Sale Honda Accord for Sale Chevrolet Impala for Sale Honda CR-V for Sale Toyota Highlander for Sale Chevrolet Tahoe for Sale Honda Odyssey for Sale Toyota Corolla for Sale Honda Civic for Sale Nissan Altima for Sale Toyota RAV4 for Sale Ford Escape for Sale Ford Fusion for Sale Nissan Rogue for Sale Chevrolet Equinox for Sale Ford Explorer for Sale Hyundai Elantra for Sale Cars for Sale by City Cars for Sale in Los Angeles, CA Cars for Sale in New York, NY Cars for Sale in San Francisco, CA Cars for Sale in Chicago, IL Cars for Sale in Philadelphia, PA Cars for Sale in Atlanta, GA Cars for Sale in Washington, DC Cars for Sale in Dallas, TX Cars for Sale in Seattle, WA Cars for Sale in Houston, TX Cars for Sale in Boston, MA Cars for Sale in Phoenix, AZ Cars for Sale in Tampa, FL Cars for Sale in Orlando, FL Cars for Sale in Sacramento, CA Cars for Sale in Miami, FL Cars for Sale in Denver, CO Cars for Sale in Detroit, MI Cars for Sale in Portland, OR Cars for Sale in Minneapolis, MN FAQ | Contact Us | About Us | Careers | Corporate | Advertising | Media | Site Map | Mobile | KBB Portugal | KBB Brazil | Follow Us © 1995-2018 Kelley Blue Book Co.®, Inc. All rights reserved. Copyrights &. Trademarks | Terms of Service | Privacy Policy | Linking Policy | Ad Choices Thanks for Supporting  
+Kelley Blue Book. We deliver up-to-date car values, expert reviews and unbiased reporting at no  
+cost to you. To do this, we display ads from only trusted partners.  
+  
+To continue on our site, simply turn off your ad blocker and refresh the page. <div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1060016584/?guid=ON&script=0"/></div>.
