@@ -99,19 +99,19 @@ Close
     *   mom
     *   italian
     *   brazzers
-    *   homemade
     *   publicagent.com
-    *   young
+    *   homemade
     *   massage
+    *   young
     *   interracial
     *   orgasm
-    *   petite
-    *   masturbation
     *   publicagent
-    *   cumshot
+    *   masturbation
+    *   petite
     *   german
-    *   blonde
+    *   cumshot
     *   brunette
+    *   blonde
     *   View All
 *   ★ PREMIUM HD
 *   Live Girls
@@ -696,7 +696,7 @@ Note that some requests to delete certain Personal Information will require the 
 
 **Changes to Our Privacy Policy**
 
-We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at so you are aware of any changes, as they are binding on you.
+We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found here so you are aware of any changes, as they are binding on you.
 
 If we change anything in our privacy policy, the date of change will be reflected in the “last modified date”. You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last modified” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones. By continuing to use the Website subsequent to us making available an amended version of our privacy policy in a way that you can easily take notice of it, you thereby consent to such amendment.
 
@@ -832,7 +832,6 @@ Support
 
 *   FAQ
 *   Blog
-*   Feedback Forum
 *   Contact Us
 
 Collaborate
