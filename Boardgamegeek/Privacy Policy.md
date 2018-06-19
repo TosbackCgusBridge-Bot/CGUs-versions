@@ -2,17 +2,6 @@ BoardGameGeek Privacy Policy
 
 Effective: May 25, 2018
 
-Before you start, we have a few questions for you:
-
-**Are you younger than 16?** Sorry! You can’t use our websites—click here for more info.  
-Are you:
-
-… in Europe? Check out some info on the EU data protection regulation.
-
-… in California? Check out some info on your California privacy rights.
-
-… in Canada? Check out some info on your Canadian privacy rights.
-
 Table of Contents
 
 *   BoardGameGeek Privacy Policy
