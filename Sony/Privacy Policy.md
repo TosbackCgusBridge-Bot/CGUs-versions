@@ -127,15 +127,15 @@ Play Norman Reedus Stars in the Amazing Video hotspot
 
 <img class="bg-img" class="url(/en\_us/media/content/DeathStranding-600x600.jpg);" alt="Death Stranding Gameplay Trailer">.
 
-It's true: Kingdom Hearts 3 comes to PS4 on January 29, 2019. And it's bringing Pirates of the Caribbean with it. Learn more here.
+End of the line, Cayde. Destiny 2: Forsaken arrives September 4 on PS4. Watch the trailer now.
 
-5 days ago
+2 hours ago
 
 View Tweet
 
 View Ghost of Tsushima on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/b577c94f1f210b238d090bd98a7ec21f/5B228E79/t51.2885-15/e15/33178008\_2086756574917388\_1746140098312798208\_n.jpg);" alt="">. Check Out All of PlayStation's
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/cedb717502e82f3e549732cd51a18b03/5B29CEB9/t51.2885-15/e15/33178008\_2086756574917388\_1746140098312798208\_n.jpg);" alt="">. Check Out All of PlayStation's
 
 E3 Announcements
 
@@ -159,81 +159,7 @@ Close
 
 Learn More
 
-<img class="bg-img" class="url(/en\_us/media/content/MarvelsSpiderMan-600x600\_WZ10yCr.jpg);" alt="Marvel&#39;s Spider-Man">. Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
-
-Check Out The New Trailer for "Spider-Man: Into the Spider-Verse"
-
-Close
-
-*   Share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker on Facebook
-*   Share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker on Twitter
-*   Copy URL to share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
-
-Play Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker Video
-
-Sony on YouTube - Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
-
-Play Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/SpiderVerse\_600x600.jpg);" alt="Spider-Man: Into the Spider-Verse trailer ">. The Best PlayStation Deals
-
-For Gamer Dads
-
-Close
-
-*   Share The Best PlayStation Deals on Facebook
-*   Share The Best PlayStation Deals on Twitter
-*   Copy URL to share The Best PlayStation Deals
-
-For Gamer Dads
-
-<img class="bg-img" class="url(/en\_us/media/content/LimitedEditionPS4-600x600\_fbllODt.jpg);" alt="Days of Play Limited Edition PS4 system">. Cutting-Edge Technology
-
-With Elegant Design
-
-Close
-
-*   Share Cutting-Edge Technology on Facebook
-*   Share Cutting-Edge Technology on Twitter
-*   Copy URL to share Cutting-Edge Technology
-
-With Elegant Design
-
-<img class="bg-img" class="url(/en\_us/media/content/XperiaXZ2-600x600\_1tLuYvV.jpg);" alt="Xperia XZ2">.
-
-Don’t just feel the rush of the outdoors, hear it with the #Xperia Ear Duo and our groundbreaking dual listening technology.
-
-5 days ago
-
-View Tweet
-
-View MP-CD1 Mobile Projector on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/6b4ab013a9452ffc81f47bb58d64db94/5BAC2863/t51.2885-15/e35/33095271\_2041605379384462\_2161504010392043520\_n.jpg);" alt="">. Inspire His Creativity
-
-With the a7R III
-
-Close
-
-*   Share Inspire His Creativity on Facebook
-*   Share Inspire His Creativity on Twitter
-*   Copy URL to share Inspire His Creativity
-
-With the a7R III
-
-<img class="bg-img" class="url(/en\_us/media/content/A7R-III-600x600.jpg);" alt="A7R-III">. Give the Gift of Incredible Viewing Experiences
-
-Check Out Our 4K HDR TVs
-
-Close
-
-*   Share Give the Gift of Incredible Viewing Experiences on Facebook
-*   Share Give the Gift of Incredible Viewing Experiences on Twitter
-*   Copy URL to share Give the Gift of Incredible Viewing Experiences
-
-Check Out Our 4K HDR TVs
-
-<img class="bg-img" class="url(/en\_us/media/content/07\_65\_ZD9\_Z9D\_E2-600x600.jpg);" alt="XBR Z9D Series TV">. Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
+<img class="bg-img" class="url(/en\_us/media/content/MarvelsSpiderMan-600x600\_WZ10yCr.jpg);" alt="Marvel&#39;s Spider-Man">. Crush Your Run With Our Wireless Noise-Canceling Sports Headphones
 
 In Music We Live
 
@@ -249,23 +175,47 @@ Sony on YouTube - Crush Your Run With Our Wireless Noise-Canceling Sports Headph
 
 Play Crush Your Run With Our Wireless Noise-Canceling Sports Headphones Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/SP700SportsHeadphones-600x600.jpg);" alt="Wireless Noise-Canceling Headphones for Sports">. “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
+<img class="bg-img" class="url(/en\_us/media/content/SP700SportsHeadphones-600x600.jpg);" alt="Wireless Noise-Canceling Headphones for Sports">. Immerse Yourself in Different Dimension of Sound
 
-See It in Theaters This Week
+At Sony Square NYC
 
 Close
 
-*   Share “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta on Facebook
-*   Share “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta on Twitter
-*   Copy URL to share “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
+*   Share Immerse Yourself in Different Dimension of Sound on Facebook
+*   Share Immerse Yourself in Different Dimension of Sound on Twitter
+*   Copy URL to share Immerse Yourself in Different Dimension of Sound
 
-Play “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta Video
+At Sony Square NYC
 
-Sony on YouTube - “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
+<img class="bg-img" class="url(/en\_us/media/content/SSNYC-600x600\_eFFhtJb.jpg);" alt="Sony Square NYC">. Action Cam + Waterproof Case
 
-Play “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta Video hotspot
+\= Adventure With No Limits
 
-<img class="bg-img" class="url(/en\_us/media/content/Superfly-600x600.jpg);" alt="Superfly trailer ">. Christina Aguilera Is Back
+Close
+
+*   Share Action Cam + Waterproof Case on Facebook
+*   Share Action Cam + Waterproof Case on Twitter
+*   Copy URL to share Action Cam + Waterproof Case
+
+\= Adventure With No Limits
+
+<img class="bg-img" class="url(/en\_us/media/content/HDR-AS200V\_waterproof\_600x600\_2JirUZE.jpg);" alt="Action Cam">. The "Superfly" Soundtrack
+
+Curated by Future
+
+Close
+
+*   Share The "Superfly" Soundtrack on Facebook
+*   Share The "Superfly" Soundtrack on Twitter
+*   Copy URL to share The "Superfly" Soundtrack
+
+Curated by Future
+
+<img class="bg-img" class="url(/en\_us/media/content/Future-600x600\_9bxGx0V.jpg);" alt="Superfly Soundtrack">.
+
+View Xperia XA2 Ultra on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/b2f3ef57a7c757573e7fe5689d3fd516/5BBC9F2A/t51.2885-15/e35/33880624\_198226467472171\_4759263684583227392\_n.jpg);" alt="">. Christina Aguilera Is Back
 
 Listen to “Liberation”
 
@@ -281,121 +231,111 @@ Sony on YouTube - Christina Aguilera Is Back
 
 Play Christina Aguilera Is Back Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/ChristinaAguilera-600x600.jpg);" alt="Christina Aguilera &quot;Liberation&quot. video">.
+<img class="bg-img" class="url(/en\_us/media/content/ChristinaAguilera-600x600.jpg);" alt="Christina Aguilera &quot;Liberation&quot. video">. “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
+
+See It in Theaters
+
+Close
+
+*   Share “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta on Facebook
+*   Share “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta on Twitter
+*   Copy URL to share “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
+
+Play “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta Video
+
+Sony on YouTube - “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta
+
+Play “Superfly” Gets a Modern Remake as a Thriller Set in Atlanta Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Superfly-600x600.jpg);" alt="Superfly trailer ">. Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+
+Check Out The New Trailer for "Spider-Man: Into the Spider-Verse"
+
+Close
+
+*   Share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker on Facebook
+*   Share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker on Twitter
+*   Copy URL to share Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+
+Play Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker Video
+
+Sony on YouTube - Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker
+
+Play Miles Morales Grows Into the Role of Spider-Man With the Help of an Older Peter Parker Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/SpiderVerse\_600x600.jpg);" alt="Spider-Man: Into the Spider-Verse trailer ">. Sony Artisans Share Tips on Planning for Summer Travel Photography
+
+Learn More
+
+Close
+
+*   Share Sony Artisans Share Tips on Planning for Summer Travel Photography on Facebook
+*   Share Sony Artisans Share Tips on Planning for Summer Travel Photography on Twitter
+*   Copy URL to share Sony Artisans Share Tips on Planning for Summer Travel Photography
+
+Learn More
+
+<img class="bg-img" class="url(/en\_us/media/content/0003\_Me-Ra-Koh\_AlphaUniverse\_1-60-sec-at-f---10-ISO-50ILCE-7RM2FE-24-70mm-F2.8-600x600-2.jpg);" alt="How To Plan For Summer Travel Photography">. Make Your Beach Party Unforgettable
+
+See Our Extra Bass Wireless Speakers
+
+Close
+
+*   Share Make Your Beach Party Unforgettable on Facebook
+*   Share Make Your Beach Party Unforgettable on Twitter
+*   Copy URL to share Make Your Beach Party Unforgettable
+
+Play Make Your Beach Party Unforgettable Video
+
+Sony on YouTube - Make Your Beach Party Unforgettable
+
+Play Make Your Beach Party Unforgettable Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/SRS-XB21\_Rustproof-600x600.jpg);" alt="Extra Bass Beach Party Video">.
 
 View A1E 4K HDR OLED TV on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c8a2b69d2687e74065e875854b2ca3d9/5BB07835/t51.2885-15/e35/32052753\_2089638897918701\_6350661299541639168\_n.jpg);" alt="">. The "Superfly" Soundtrack
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/c8a2b69d2687e74065e875854b2ca3d9/5BB07835/t51.2885-15/e35/32052753\_2089638897918701\_6350661299541639168\_n.jpg);" alt="">.
 
-Curated by Future
+View 1000XM2 Wireless Noise-Canceling Headphones on Instagram
 
-Close
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/0f30b11c248a74f41005c8d596fe2660/5BB746A6/t51.2885-15/e35/32840227\_2041076036145011\_5888227389166583808\_n.jpg);" alt="">. Cutting-Edge Technology
 
-*   Share The "Superfly" Soundtrack on Facebook
-*   Share The "Superfly" Soundtrack on Twitter
-*   Copy URL to share The "Superfly" Soundtrack
-
-Curated by Future
-
-<img class="bg-img" class="url(/en\_us/media/content/Future-600x600\_9bxGx0V.jpg);" alt="Superfly Soundtrack">. Action Cam + Waterproof Case
-
-\= Adventure With No Limits
+With Elegant Design
 
 Close
 
-*   Share Action Cam + Waterproof Case on Facebook
-*   Share Action Cam + Waterproof Case on Twitter
-*   Copy URL to share Action Cam + Waterproof Case
+*   Share Cutting-Edge Technology on Facebook
+*   Share Cutting-Edge Technology on Twitter
+*   Copy URL to share Cutting-Edge Technology
 
-\= Adventure With No Limits
+With Elegant Design
 
-<img class="bg-img" class="url(/en\_us/media/content/HDR-AS200V\_waterproof\_600x600\_2JirUZE.jpg);" alt="Action Cam">. Audiophiles: Elevate Your Music Experience
+<img class="bg-img" class="url(/en\_us/media/content/XperiaXZ2-600x600\_1tLuYvV.jpg);" alt="Xperia XZ2">. Want to Attend "The Equalizer 2" Movie Premiere in Los Angeles?
 
-With Hi-Res Audio
+Sony Rewards Is Offering an Exclusive Experience
 
 Close
 
-*   Share Audiophiles: Elevate Your Music Experience on Facebook
-*   Share Audiophiles: Elevate Your Music Experience on Twitter
-*   Copy URL to share Audiophiles: Elevate Your Music Experience
+*   Share Want to Attend "The Equalizer 2" Movie Premiere in Los Angeles? on Facebook
+*   Share Want to Attend "The Equalizer 2" Movie Premiere in Los Angeles? on Twitter
+*   Copy URL to share Want to Attend "The Equalizer 2" Movie Premiere in Los Angeles?
 
-With Hi-Res Audio
+Sony Rewards Is Offering an Exclusive Experience
 
-<img class="bg-img" class="url(/en\_us/media/content/NW-WM1Z\_MDR-Z1R\_Insitu03\_jpg-600x600\_yDw80tJ.jpg);" alt="Hi-Res Audio">. Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus
+<img class="bg-img" class="url(/en\_us/media/content/EQUALIZER\_2\_600x600\_0hePYn0.jpg);" alt="The Equalizer 2 ShowStopper">. Meet the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus
 
 Check It Out
 
 Close
 
-*   Share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus on Facebook
-*   Share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus on Twitter
-*   Copy URL to share Meet the RX100 VI Camera: Our New Pocket-Sized Compact with Broad Zoom Range and Faster Focus
+*   Share Meet the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus on Facebook
+*   Share Meet the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus on Twitter
+*   Copy URL to share Meet the RX100 VI Camera: Our New Pocket-Sized Compact With Wider Zoom &. Faster Focus
 
 Check It Out
 
-<img class="bg-img" class="url(/en\_us/media/content/RX100-VI-600x600.jpg);" alt="RX100 VI Camera">. Immerse Yourself in Different Dimension of Sound
-
-At Sony Square NYC
-
-Close
-
-*   Share Immerse Yourself in Different Dimension of Sound on Facebook
-*   Share Immerse Yourself in Different Dimension of Sound on Twitter
-*   Copy URL to share Immerse Yourself in Different Dimension of Sound
-
-At Sony Square NYC
-
-<img class="bg-img" class="url(/en\_us/media/content/SSNYC-600x600\_eFFhtJb.jpg);" alt="Sony Square NYC">. Earn Points When You Shop
-
-The PlayStation™Store
-
-Close
-
-*   Share Earn Points When You Shop on Facebook
-*   Share Earn Points When You Shop on Twitter
-*   Copy URL to share Earn Points When You Shop
-
-The PlayStation™Store
-
-<img class="bg-img" class="url(/en\_us/media/content/Gaming\_37049-Injustice-600x600\_sJQbtEb.jpg);" alt="About Sony Rewards ">.
-
-Are you ready to fight? Use your Sony Rewards points to get the #StreetFighter 30th Anniversary Collection for PS4.
-
-6 days ago
-
-View Tweet
-
-View Xperia XZ2 on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/2bd21c3b1d66500aedeeca01d3e4713c/5BAB6E94/t51.2885-15/e35/33546021\_1617165865068087\_221001308901998592\_n.jpg);" alt="Xperia XZ2">. PlayStation Cardholders Can Customize Their Cards
-
-Learn More
-
-Close
-
-*   Share PlayStation Cardholders Can Customize Their Cards on Facebook
-*   Share PlayStation Cardholders Can Customize Their Cards on Twitter
-*   Copy URL to share PlayStation Cardholders Can Customize Their Cards
-
-Learn More
-
-<img class="bg-img" class="url(/en\_us/media/content/21439\_ImageCardLaunch\_SonyBN-square\_600x600\_r02GR\_3.jpg);" alt="God of war PlayStation Card">. Get Rewarded for Your Love of Movies
-
-With Sony Rewards
-
-Close
-
-*   Share Get Rewarded for Your Love of Movies on Facebook
-*   Share Get Rewarded for Your Love of Movies on Twitter
-*   Copy URL to share Get Rewarded for Your Love of Movies
-
-Play Get Rewarded for Your Love of Movies Video
-
-Sony on YouTube - Get Rewarded for Your Love of Movies
-
-Play Get Rewarded for Your Love of Movies Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/Sonycom\_MBEdu181000x1000.jpg);" alt="Sony Rewards Movie Buff">.
+<img class="bg-img" class="url(/en\_us/media/content/RX100-VI-600x600.jpg);" alt="RX100 VI Camera">.
 
 Load More
 
