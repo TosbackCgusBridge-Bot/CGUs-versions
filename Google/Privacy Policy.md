@@ -4,7 +4,7 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Les présentes Règles de confidentialité visent à vous indiquer quelles informations nous collectons et pour quelle raison, ainsi que la façon de les mettre à jour, de les gérer, de les exporter et de les supprimer.
 
-À compter du 25 mai 2018 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConformité et coopération avec des organismes de réglementationPratiques similaires en matière de confidentialité
+À compter du 25 mai 2018 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
 
 Notre gamme de services permet tous les jours à des millions de personnes d'explorer le monde et d'interagir avec celui-ci de manière innovante. Voici certains des services que nous proposons :
 
