@@ -141,6 +141,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Watch MLB.TV
     *   Buy Gameday Audio
     *   Buy Follow Your Team
+    *   Buy MLB.TV Gift Cards
     *   Select 2017 Archives
     *   MLB.TV Supported Devices
     *   MLB.TV with Extra Innings
