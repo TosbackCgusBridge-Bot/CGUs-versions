@@ -379,14 +379,7 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers Don't miss an extra 5% off!
-
-Save More on All IdeaPad, IdeaCentre and Flex machines!  
-Sale ends June 18 at 4AM ET.
-
-Shop Now >.
-
-Dads &. Grads Sale
+Home >. Filter by specs Offers Dads &. Grads Sale
 
 Save up to 55% on select PCs and more.  
 Sale ends June 21 at 4 AM ET.
@@ -408,7 +401,6 @@ Learn More >.
 *   1
 *   2
 *   3
-*   4
 
 Weekly Deals
 
@@ -418,9 +410,9 @@ Father's Day Business Sale
 
 Celebrate Dad and save up to 25% on our best-selling business PCs &. Accessories. Sale ends June 20 at 4am ET.
 
-Dominate the Game
+Gaming Sale Extended
 
-Save up to 25% on Lenovo Legion Gaming PC’s with eCoupon LEGIONFTWE3. Sale ends June 18 at 4am ET.
+Save up to 25% on Lenovo Legion Gaming PC’s with eCoupon LEGIONFTWE3 Sale ends June 21 at 4am ET.
 
 Yoga 730 (15")
 
