@@ -4,7 +4,7 @@ Wenn Sie unsere Dienste nutzen, vertrauen Sie uns Ihre Daten an. Wir sind uns be
 
 In dieser Datenschutzerklärung erfahren Sie, welche Daten von uns erhoben werden, welche Zwecke wir damit verfolgen und wie Sie Ihre Daten aktualisieren, verwalten, exportieren und löschen können.
 
-Wirksam ab dem 25. Mai 2018 | Archivierte Versionen | PDF herunterladenInhaltEinführungVon Google erhobene DatenGründe für die Datenerhebung durch GoogleDatenschutzeinstellungenDatenweitergabeGewährleistung der DatensicherheitLöschen und Exportieren Ihrer DatenCompliance und Zusammenarbeit mit RegierungsbehördenWeitere Informationen zum Datenschutz
+Wirksam ab dem 25. Mai 2018 | Archivierte Versionen | PDF herunterladenInhaltEinführungVon Google erhobene DatenGründe für die Datenerhebung durch GoogleDatenschutzeinstellungenDatenweitergabeGewährleistung der DatensicherheitLöschen und Exportieren Ihrer DatenCompliance und Zusammenarbeit mit RegierungsbehördenInformationen über diese DatenschutzerklärungWeitere Informationen zum Datenschutz
 
 Wir entwickeln eine Vielzahl von Diensten, die Millionen von Menschen Tag für Tag helfen, die Welt ganz neu zu entdecken und mit ihr zu interagieren. Zu unseren Diensten zählen:
 
