@@ -4,7 +4,7 @@ Quando você usa nossos serviços, está confiando a nós suas informações. En
 
 Esta Política de Privacidade destina-se a ajudar você a entender quais informações coletamos, por que as coletamos e como você pode atualizar, gerenciar, exportar e excluir essas informações.
 
-Em vigor a partir de 25 de maio de 2018 | Versões arquivadas | Fazer o download do PDFÍndiceIntroduçãoInformações coletadas pelo GooglePor que o Google coleta dadosSeus controles de privacidadeCompartilhamento de informaçõesManter suas informações segurasExportar e excluir informaçõesCompliance e cooperação com regulamentadoresPráticas de privacidade relacionadas
+Em vigor a partir de 25 de maio de 2018 | Versões arquivadas | Fazer o download do PDFÍndiceIntroduçãoInformações coletadas pelo GooglePor que o Google coleta dadosSeus controles de privacidadeCompartilhamento de informaçõesManter suas informações segurasExportar e excluir informaçõesCompliance e cooperação com regulamentadoresSobre esta políticaPráticas de privacidade relacionadas
 
 Criamos uma gama de serviços que ajudam diariamente milhões de pessoas a descobrir e interagir com o mundo de novas maneiras. Nossos serviços incluem:
 
