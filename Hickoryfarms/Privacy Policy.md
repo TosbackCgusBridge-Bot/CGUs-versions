@@ -7,13 +7,12 @@
     *   Military
     *   New!
     
-    Occasions*   Father's Day
-    *   Fourth of July
+    Occasions*   Fourth of July
     *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Father's Day Gifts Birthday Gifts
+    *   Graduation &. CongratulationsMost Popular Fourth of July Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -46,14 +45,15 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Father's Day Gifts
+    View All Categories Shop by Category*   Fourth of July
     
     Occasions*   Birthday Gifts
     *   Fourth of July
     *   Taste of Summer
+    *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Father's Day Gifts Father's Day Feast
+    *   Graduation &. CongratulationsMost Popular Fourth of July Taste of Summer
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
@@ -75,13 +75,12 @@
     *   Military
     *   New!
     
-    Occasions*   Father's Day
-    *   Fourth of July
+    Occasions*   Fourth of July
     *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Father's Day Gifts Birthday Gifts
+    *   Graduation &. CongratulationsMost Popular Fourth of July Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -114,14 +113,15 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Father's Day Gifts
+    View All Categories Shop by Category*   Fourth of July
     
     Occasions*   Birthday Gifts
     *   Fourth of July
     *   Taste of Summer
+    *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Father's Day Gifts Father's Day Feast
+    *   Graduation &. CongratulationsMost Popular Fourth of July Taste of Summer
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
