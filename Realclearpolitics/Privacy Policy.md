@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Dan Pfeiffer_: Watching the World Change From Inside the Obama WH
+*   _Andrew McCarthy_: What the IG Report Refuses to Admit: The Fix Was In
     
-*   _Byron York_: What Is the Justice Department Hiding on Trump-Russia?
+*   _Bill Goodykoontz_: It Took Kids in Cages for Media to Call Out Trump's Lies
     
-*   _Caroline Fredrickson_: No, Trump Has Not Been 'Exonerated' on Russia
+*   _Dov Fischer_: Media Hypocrisy and Outright Lies Never Cease
     
-*   _Thomas Lifson_: Laura Bush &. the Democrats' BS Propaganda Effort
+*   _Edward-Isaac Dovere_: Gillibrand: Trump's Policies 'Come From the Darkness'
     
-*   _Krishnadev Calamur_: Trump's Immigration Policy Gets Its Moral Reckoning
+*   _Steve Cortes_: Protecting Our Border Does Not Make Us Nazis
     
-*   _Grazie Christie_: Title X Rule Will Hurt Planned Parenthood, But Help Women
+*   _Paul Krugman_: Fall of the American Empire
     
-*   _Roger Cohen_: Trump's Envy of Kim Jong-un
+*   _Ofer Israeli_: Back to Pax Americana?
     
-*   _Zalmay Khalilzad_: Why Iran Will Choose to Negotiate With Trump
+*   _Jon Anderson_: A New Revolution in Mexico
     
-*   _Richard Fernandez_: The Revolt Against the Open Door Comes to Germany
+*   _Ben Domenech_: Violence in Mexico Driving Crisis at the Border
     
-*   _George &. Alexander Soros_: In the Balkans, a Chance to Stabilize Europe
+*   _Richard Pildes_: Will the Court Ever Address Gerrymandering?
     
-*   _Scott Paul_: Why Tariffs on Chinese Goods Make Sense
+*   _Rick Esenberg_: Why the Supreme Court Punted in Redistricting Case
     
-*   _Michael Graham_: A Juicy Tale of Corruption: Trump Voters Say 'Told Ya So'
+*   _Wesley Pruden_: Is California Too Much of a Good Thing?
     
-*   _Michael Tomasky_: Defending Mueller: Future of the Republic Is at Stake
+*   _David Graham_: From 'I Alone Can Fix It' to 'Change the Laws!'
     
-*   _Rep. Trey Gowdy_: FBI/DOJ: The Clean Up Crew or Cover Up Crew?
+*   _Jenny Beth Martin_: Border Crisis Grows Worse as DC Sits on the Sidelines
     
-*   _Andrew Sullivan_: Trump Makes Us Live in His Delusional Reality Show
+*   _Jochen Bittner_: What Trump Gets Right About Europe
     
-*   _Dmitri Simes_: Trump's Foreign Policy Appears Poised for Success
+*   _Daniel Boffey_: Transatlantic Relationship at Risk, Says NATO Chief
     
-*   _James Stavridis_: Attacks on Allies Are Widening the Atlantic
+*   _Ira Stoll_: Trump, Reagan Both Ignited Talk of Overseas Ire
     
-*   _Victor Davis Hanson_: The Dream &. the Nightmare of Globalization
+*   _Caitlin Huey-Burns_: White House Digs In on Border Policy
     
-*   _Charles Blow_: Trump and the Baby Snatchers
+*   _Jamelle Bouie_: Trump Will Pay a Political Price for His Cruelty
     
-*   _Charles Hurt_: Wanna Stop Parent-Child Separation? Build the Wall
+*   _Michael Walsh_: Who's Going to Be the Next Mondale?
     
-*   _Laura Bush_: Separating Families at the Border Breaks My Heart
+*   _Robert Kuttner_: Trump Blunders Forward With Incoherent Trade Policy
     
-*   _Bill Scher_: Is Ranked-Choice Voting Transforming Our Politics?
+*   _Peter Morici_: How to Win a Trade War With China
     
-*   _Steve Hilton_: American Elites Are Unravelling as They Cling to Status Quo
+*   _John Nichols_: Now It's Up to Voters to Stop Gerrymandering
     
-*   _Mike Allen_: Trump's Go-to Excuse
+*   _William McGurn_: Impeach Rod Rosenstein
     
 
 *   Previous
@@ -228,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Both Parties Push to Halt Family Separation Policy
+*   White House Digs In on Family Separation Policy
+*   In Tit-for-Tat, Trump Threatens More Tariffs Against China
+*   Clinton: I Warned You of Trump Rounding People Up on Trains, Buses
 *   IG Report: Anti-Trump Texts "Cast a Cloud" Over FBI Probes
-*   Nunes: House Will Move Toward Impeachment If Obstruction Persists
 *   Dems' Fate in November May Ride on Female Turnout
-*   Political Watchword From Trump-Kim Meeting: Caution
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -250,23 +248,23 @@ Latest PollsAll Polls
 *   North Dakota Senate - Cramer vs. HeitkampMason-Dixon
     *   Cramer48
     *   Heitkamp44Cramer +4
-*   President Trump Job ApprovalCNN
-    *   Approve41
-    *   Disapprove54Disapprove +13
-*   President Trump Job ApprovalCBS News
-    *   Approve42
-    *   Disapprove52Disapprove +10
-*   President Trump Job ApprovalGallup
-    *   Approve45
-    *   Disapprove50Disapprove +5
+*   Montana Senate - Rosendale vs. TesterGravis
+    *   Tester52
+    *   Rosendale44Tester +8
+*   Montana At-Large District - Gianforte vs. WilliamsGravis
+    *   Williams49
+    *   Gianforte43Williams +6
+*   California Governor - Cox vs. NewsomLA Times/USC
+    *   Newsom45
+    *   Cox28Newsom +17
 
 More Latest Polls In The News
 
-*   Full Replay: DOJ Inspector General, FBI Director Wray Testify On IG Report At Senate Judiciary Committee
-*   DHS Sec. Nielsen: We Have A Simple Message, "We Will Prosecute You" If You Enter The U.S. Illegally
-*   Playboy's Brian Karem: Sarah Sanders Refuses To Answer Any Question That Makes Her Uncomfortable
-*   Gowdy: GOP Will Use "Full Arsenal Of Constitutional Weapons" To Make DOJ Give Nunes The Documents
-*   Adam Schiff: Devin Nunes Never Told Intelligence Committee Democrats About Alleged "Whistleblower"
+*   Pompeo &. Haley Announce U.S. Withdrawal From U.N. Human Rights Council, Citing Anti-Israel Bias
+*   Cummings Blasts GOP For Condoning "Child Internment Camps" At Border: "What Country Is This?"
+*   Rep. Trey Gowdy Grills Horowitz: "How In The Hell" Did Comey Never Question Hillary On Email Intent?
+*   CNN's Wolf Blitzer Grills ICE Director Thomas Homan Over Family Separations At Border: "Is This Policy Humane?"
+*   Hillary Clinton: I Warned Of Trump Separating Families, "People Being Rounded Up On Trains And Buses"
 
 *   Politics
 *   Policy
