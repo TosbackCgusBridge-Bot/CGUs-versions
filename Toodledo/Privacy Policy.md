@@ -1,5 +1,7 @@
 Privacy Policy
 
+Last Updated: June 19, 2018
+
 Toodledo takes your privacy seriously. This document explains what we collect, how we use it, and what you can do with your personal information on Toodledo.
 
 Information Collection
@@ -77,6 +79,10 @@ This website is run by a company based in the USA and all of the data stored by 
 Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on this page, and notify our users, so that our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will always use information in accordance with the privacy policy under which the information was collected.
+
+Change of Ownership
+
+If Toodledo goes through a business transaction, such as a merger, acquisition, or asset sale, your personally identifiable information and any information that you have provided to the site will likely be among the assets transferred. We will post these changes and notify our users of any such change of ownership or control of your personally identifiable information. The collection and use of your information will continue to be governed by this privacy policy until the date specified in the notification.
 
 Contact Information
 
