@@ -36,10 +36,12 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
+*   Summer Must Haves
 *   Buy 1 Get 2 Free Tees
 *   Create Your Suit for $12
 *   $6.87 Tees
 *   4 for $16 Undies
+*   Uniform
 *   Americana Shop
 *   The White Collection
 *   Denim Guide
@@ -47,7 +49,6 @@ Close submenu ( Featured ) Featured
 *   Basic Essentials
 *   Seriously Soft
 *   Online Only
-*   Uniform
 
 Close submenu ( Tops ) Tops
 
@@ -96,16 +97,17 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
+*   Summer Must Haves
 *   Buy 1 Get 2 Free Tees
 *   BOGO Denim + Pants
 *   Buy 1 Get 2 Accessories
+*   Uniform
 *   Americana Shop
 *   Denim Guide
 *   Logo Shop
 *   Active
 *   Back to Basics
 *   Online Only
-*   Uniform
 
 Close submenu ( Tops ) Tops
 
@@ -279,7 +281,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **50-70% OFF + FREE SHIPPING OVER $75** 
+**SUMMER MUST HAVE SALE - ENDS THURSDAY  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50** 
 
 *   My Account My Account Login Register
 
@@ -291,10 +293,12 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
+        *   Summer Must Haves
         *   Buy 1 Get 2 Free Tees
         *   Create Your Suit for $12
         *   $6.87 Tees
         *   4 for $16 Undies
+        *   Uniform
         *   Americana Shop
         *   The White Collection
         *   Denim Guide
@@ -302,7 +306,6 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Seriously Soft
         *   Online Only
-        *   Uniform
     
     *   Tops
         *   View All
@@ -346,16 +349,17 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
+        *   Summer Must Haves
         *   Buy 1 Get 2 Free Tees
         *   BOGO Denim + Pants
         *   Buy 1 Get 2 Accessories
+        *   Uniform
         *   Americana Shop
         *   Denim Guide
         *   Logo Shop
         *   Active
         *   Back to Basics
         *   Online Only
-        *   Uniform
     
     *   Tops
         *   View All
@@ -513,7 +517,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Graphic Tees Shop Guys Graphic Tees Shop Girls Shorts Shop Guys Shorts Shop Girls Polos Shop Guys Polos Shop Girls Camis + Tanks Shop Guys Tanks Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Graphic Tees Shop Guys Graphic Tees Shop Girls Shorts Shop Guys Shorts Shop Girls Polos Shop Guys Polos Shop Girls Camis + Tanks Shop Guys Tanks Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -547,7 +551,7 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
 
 Refer a friend and get $15 off.
 
