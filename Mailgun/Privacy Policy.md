@@ -98,7 +98,7 @@ Remember, though, that some parts of the Services are public and that email, by 
 
 7\. EU-U.S. Privacy Shield
 
-Mailgun participates and has certified its compliance with the EU-U.S. Privacy Shield Framework. Mailgun is committed to subjecting all personal data received from the European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List https://www.privacyshield.gov/list/.
+Mailgun participates and has certified its compliance with the EU-U.S. Privacy Shield Framework. Mailgun is committed to subjecting all personal data received from the European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List https://www.privacyshield.gov/list
 
 Mailgun is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Mailgun complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
