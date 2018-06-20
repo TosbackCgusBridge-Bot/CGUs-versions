@@ -286,7 +286,6 @@ EVENT-WORTHY OUTFITS FOR YOUR BUSY JUNE CALENDAR. SHOP OCCASIONS.
         
         *   Gift Guide
         
-        *   Father's Day Gifts
         *   Gifts Under $25
         *   Genuine Leather Bags
         *   Men's Gifts
@@ -307,7 +306,6 @@ EVENT-WORTHY OUTFITS FOR YOUR BUSY JUNE CALENDAR. SHOP OCCASIONS.
         *   Accessories BOGO Free
         *   Sale Under $25
         *   Select Sale BOGO 50% Off
-        *   Quinn &. Copper - Buy More, Save More
         *   Men's Barbershop Sale
         *   Select Women's Sale Jeans BOGO 50% Off
         
