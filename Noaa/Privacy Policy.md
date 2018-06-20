@@ -96,7 +96,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Research Okeanos Explorer sets sail to the deep waters off the U.S. southeast coast Weather Research Kilauea eruptions: The way the wind blows, so go the gas and the ash National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts How (and why) do we map the U.S. seafloor? Ask us on @reddit, June 21 Weather Research Kilauea eruptions: The way the wind blows, so go the gas and the ash National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Researc
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Globe had its 4th warmest May on record Sea ice coverage at the poles remains small AROUND NOAA // Okeanos Explorer sets sail to the deep waters off the U.S. southeast coast Contiguous U.S. had its warmest May on record Celebrate the ocean \[EXT\]
+Enter Search Terms Globe had its 4th warmest May on record Sea ice coverage at the poles remains small AROUND NOAA // How (and why) do we map the U.S. seafloor? Ask us on @reddit, June 21 \[EXT\] June 21 is World Hydrography Day: See why it's worth celebrating \[EXT\] The farther north you live, the worse your allergies may get in a warming climate \[EXT\] Celebrate the ocean \[EXT\]
 
 *   About our agency
 *   News and features
