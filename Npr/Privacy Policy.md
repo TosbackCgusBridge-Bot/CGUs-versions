@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On Air Now**Toggle more player options View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search Toggle search
+Toggle initial options for NPR audio player ****Pick Your NPR Station**There are at least two stations nearby**Toggle more player options View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search
 
 *   NPR Home
 *   Set station
@@ -15,10 +15,10 @@ Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On A
 *   Programs **&. Podcasts**
 
 *   NPR Music
-*   Genres
+*   News
+*   Features
 *   New Music
-*   Concerts **&. Videos**
-*   Articles **&. Lists**
+*   Video
 *   Tiny Desk
 
 *   NPR Books
@@ -134,45 +134,6 @@ More
 *   All Programs
 *   Podcast Directory
 *   NPR Podcasts
-
-Back
-
-*   Rock
-*   Pop
-*   Jazz
-*   Classical
-*   Hip-Hop
-*   R&B/Soul
-*   Folk
-*   Latin
-*   World
-*   Electronic/Dance
-
-Back
-
-*   First Listen
-*   Songs We Love
-*   All Songs Considered
-*   Reviews
-*   Music Videos
-
-Back
-
-*   Tiny Desk
-*   Live Concerts
-*   Field Recordings
-*   Studio Sessions
-*   Music Documentaries
-*   Music Videos
-*   Festival Recordings
-
-Back
-
-*   Articles
-*   Interviews
-*   Quizzes
-*   Music Lists
-*   Best Music of the Year
 
 Back
 
