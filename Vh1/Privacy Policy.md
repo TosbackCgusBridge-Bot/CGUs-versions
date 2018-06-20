@@ -9,8 +9,8 @@
     *   Black Ink Crew Chicago
     *   Hip Hop Squares
     *   Leave It To Stevie
-    *   Love &. Hip Hop
     *   Love &. Hip Hop Atlanta
+    *   Love &. Hip Hop Hollywood
     *   Love &. Hip Hop MiamiSee all Shows
 *   News
 *   Digital Originals
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppAmerica's Next Top ModelBasketball WivesBlack Ink Crew ChicagoHip Hop SquaresLeave It To StevieLove &. Hip HopLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceShaunie's Home CourtTeyana &. ImanTrailblazer Honorssee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppAmerica's Next Top ModelBasketball WivesBlack Ink Crew ChicagoHip Hop SquaresLeave It To StevieLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodLove &. Hip Hop MiamiRuPaul's Drag RaceShaunie's Home CourtTeyana &. ImanTrailblazer Honorssee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
