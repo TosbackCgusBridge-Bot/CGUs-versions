@@ -17,11 +17,11 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack DAY 1 OF COUPON CODE 3ACTNOW ENDS IN
+Near YouFind a StoreBack DAY 2 OF COUPON CODE 3ACTNOW ENDS IN
 
 \*offer ends 6/21/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 1 0 0 9 secs SAVE UP TO 40% OFF ON SELECT DRESSESShop AllSAVE UP TO 40% OFF ON SELECT DRESSESShop All
+Days 0 0 0 0 hours 4 4 0 0 mins 3 3 4 3 secs SAVE UP TO 40% OFF ON SELECT DRESSESShop AllSAVE UP TO 40% OFF ON SELECT DRESSESShop All
 
 *   $27.99 sale
     
@@ -37,10 +37,10 @@ Days 0 0 0 0 hours 4 4 0 0 mins 1 0 0 9 secs SAVE UP TO 40% OFF ON SELECT DRESSE
     was $54 a.n.a Sleeveless Floral Maxi DressAdd To Cart
 *   $29.99 sale
     
-    was $60 Spense Sleeveless Leaf Maxi DressAdd To Cart
+    was $60 Spense Sleeveless Floral Maxi Dress(1)Add To Cart
 *   $29.99 sale
     
-    was $60 Spense Sleeveless Floral Maxi Dress(1)Add To Cart
+    was $60 Spense Sleeveless Maxi DressAdd To Cart
 *   $45 sale
     
     was $60 Lark Lane Must Haves III 3/4 Sleeve Embellished Stripe Shift DressAdd To Cart
@@ -54,7 +54,7 @@ SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
     
     $75
     
-    Q7 Limited Time Special! Black Smartwatch(29)Add To Cart
+    Q7 Limited Time Special! Black Smartwatch(31)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: 3ACTNOW
     
     $75
@@ -67,14 +67,9 @@ SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
     Olivia Pratt Smart Watch-8183Add To Cart
 *   BUY MORE AND SAVE WITH CODE: 3ACTNOW
     
-    $395
-    
-    Citizen® Eco-Drive® Mens Titanium Watch BM7170-53L(67)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
-    
     $75
     
-    iTouch Black Smart Watch-JCIT3160S590-003(3)Add To Cart
+    iTouch Black Smart Watch-JCIT3160S590-003(4)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: 3ACTNOW
     
     $75
@@ -82,14 +77,19 @@ SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
     iTouch Blue Smart Watch-JCI3160RG590-007(2)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: 3ACTNOW
     
+    $200
+    
+    Bulova Mens Silver Tone Bracelet Watch-96b278(1)Add To Cart
+*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
+    
     $260
     
     Seiko Chronograph Mens Silver Tone Bracelet Watch-Sks585Add To Cart
 *   BUY MORE AND SAVE WITH CODE: 3ACTNOW
     
-    $75
+    $395
     
-    Itouch Air Activity Tracker &. Interchangeable Band Set Pink/White Smart Watch-Jcp2725rg724-694(3)Add To Cart
+    Citizen® Eco-Drive® Mens Titanium Watch BM7170-53L(67)Add To Cart
 
 SELECT BRAS STARTING AT $14.99Shop AllSELECT BRAS STARTING AT $14.99Shop All
 
