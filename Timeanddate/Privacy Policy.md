@@ -251,14 +251,14 @@ Index
 
 Cookies
 
-1.  Troubleshoot cookies
-2.  Enabling cookies in Internet Explorer
-3.  Enabling cookies in Mozilla/Firefox
+1.  Troubleshoot Cookies
+2.  Enabling Cookies in Internet Explorer
+3.  Enabling Cookies in Mozilla/Firefox
 4.  Enabling Cookies in Chrome
-5.  Enabling cookies in Safari
-6.  Enabling cookies in Opera
-7.  Enabling cookies in Netscape
-8.  Enabling cookies in Safari, Lynx and more
+5.  Enabling Cookies in Safari
+6.  Enabling Cookies in Opera
+7.  Enabling Cookies in Netscape
+8.  Enabling Cookies in Safari, Lynx, and More
 9.  What Cookies We Use, and Why
 
 Copyright © Time and Date AS 1995–2018. All rights reserved.
