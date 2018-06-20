@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Emerging Trends in Financial Services: IoT, AI and Blockchain ›
+*   Ubuntu Server development summary – 19 June 2018 ›
+*   Zenkit: The influence of developer communities in progressing snaps ›
 *   Design and Web team summary – 18 June 2018 ›
 *   A unified OpenStack for a scalable open infrastructure ›
-*   451 Research benchmarks public and private infrastructure cost ›
-*   Ubuntu to host containers in Amazon’s (EKS) for container portability ›
-*   Ubuntu Server development summary – 05 June 2018 ›
