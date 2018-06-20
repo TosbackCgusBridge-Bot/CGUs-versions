@@ -34,7 +34,7 @@ Skip to main content
     *   Find a Doctor
     
     Featured Topics*   Assessment Get Help for Migraine Relief
-    *   Video Doctors Tweet Things They've Heard From Patients
+    *   Slideshow Things That Can Hurt Your Joints
 *   Drugs &  
     Supplements Drugs &. Supplements Drugs &. Supplements Find &. Review
     
@@ -77,8 +77,8 @@ Skip to main content
     *   Healthy Teens
     *   Fit Kids
     
-    Featured Topics*   Slideshow How Your Bad Habits Can Affect Your Health
-    *   Slideshow Best and Worst Salads
+    Featured Topics*   Slideshow Best and Worst Salads
+    *   Slideshow Tips to Help You Stop Wasting Time
 *   Family &  
     Pregnancy Family &. Pregnancy Family &. Pregnancy All About Pregnancy
     
