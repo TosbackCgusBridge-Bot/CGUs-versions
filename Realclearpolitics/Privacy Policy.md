@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Andrew McCarthy_: What the IG Report Refuses to Admit: The Fix Was In
+*   _David Harsanyi_: Dems Have Zero Tolerance for Illegal Immigration Solution
     
-*   _Bill Goodykoontz_: It Took Kids in Cages for Media to Call Out Trump's Lies
+*   _Jeh Johnson_: 'Zero-Tolerance' Policy Is Immoral, Un-American--and Ineffective
     
-*   _Dov Fischer_: Media Hypocrisy and Outright Lies Never Cease
+*   _Jeff Sessions_: What We Want Is a Safe, Lawful System of Immigration
     
-*   _Edward-Isaac Dovere_: Gillibrand: Trump's Policies 'Come From the Darkness'
+*   _Frank Bruni_: Trump's Small Hostages
     
-*   _Steve Cortes_: Protecting Our Border Does Not Make Us Nazis
+*   _Benny Johnson_: Here Are the Photos Under Obama the Media Won't Show You
     
-*   _Paul Krugman_: Fall of the American Empire
+*   _David Ignatius_: Trump's Deal With Kim Is Far From Closed
     
-*   _Ofer Israeli_: Back to Pax Americana?
+*   _Caroline Glick_: The Donald Trump Negotiations Academy
     
-*   _Jon Anderson_: A New Revolution in Mexico
+*   _J.D. Gordon_: What It's Like to Be Caught Up in the Russia Witch Hunt
     
-*   _Ben Domenech_: Violence in Mexico Driving Crisis at the Border
+*   _Scott Lemieux_: Trump's Backwards Interpretation of the IG Report
     
-*   _Richard Pildes_: Will the Court Ever Address Gerrymandering?
+*   _Rich Lowry_: Harvard's Secret System to Avoid 'Too Many Asians'
     
-*   _Rick Esenberg_: Why the Supreme Court Punted in Redistricting Case
+*   _Jesse Singal_: When Children Say They're Trans
     
-*   _Wesley Pruden_: Is California Too Much of a Good Thing?
+*   _David Remnick_: Trump's Cruelty and the Crying Children
     
-*   _David Graham_: From 'I Alone Can Fix It' to 'Change the Laws!'
+*   _Roger Simon_: The Illegal Immigration Charade Has Gone On for Too Long
     
-*   _Jenny Beth Martin_: Border Crisis Grows Worse as DC Sits on the Sidelines
+*   _Jill Abramson_: Forced Separation of Families Is Trump's 'Katrina Moment'
     
-*   _Jochen Bittner_: What Trump Gets Right About Europe
+*   _John Feehery_: Betting on Trump Against the Political Establishment
     
-*   _Daniel Boffey_: Transatlantic Relationship at Risk, Says NATO Chief
+*   _Caitlin Huey-Burns_: Republicans Seek Border Policy Fix as Trump Holds Firm
     
-*   _Ira Stoll_: Trump, Reagan Both Ignited Talk of Overseas Ire
+*   _Daniel Olivas_: The Dystopia Is Here
     
-*   _Caitlin Huey-Burns_: White House Digs In on Border Policy
+*   _David Freddoso_: Poll: Everyone Except Dems Feels Unusually Optimistic
     
-*   _Jamelle Bouie_: Trump Will Pay a Political Price for His Cruelty
+*   _Aitan Goelman_: Peter Strzok Is a Patriot, Not a 'Sick Loser'
     
-*   _Michael Walsh_: Who's Going to Be the Next Mondale?
+*   _Roger Kimball_: Comedy of Corruption? Or Bureaucratic Horror Show?
     
-*   _Robert Kuttner_: Trump Blunders Forward With Incoherent Trade Policy
+*   _Byron York_: The Fall of James Brien Comey
     
-*   _Peter Morici_: How to Win a Trade War With China
+*   _Rich &. Kavanagh_: Why Obama Is Worried About 'Truth Decay'
     
-*   _John Nichols_: Now It's Up to Voters to Stop Gerrymandering
+*   _Dennis Prager_: The Bad Hate the Good: SPLC vs. Prager University
     
-*   _William McGurn_: Impeach Rod Rosenstein
+*   _Thomas Friedman_: Trump to Dictators: Have a Nice Day
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   White House Digs In on Family Separation Policy
+*   Trump Signs Executive Order Ending Family Separations
+*   House Republicans Turn Up the Heat in Standoff With DOJ
+*   Gowdy: How in the Hell Did Comey Never Question Clinton on Intent?
 *   In Tit-for-Tat, Trump Threatens More Tariffs Against China
-*   Clinton: I Warned You of Trump Rounding People Up on Trains, Buses
-*   IG Report: Anti-Trump Texts "Cast a Cloud" Over FBI Probes
 *   Dems' Fate in November May Ride on Female Turnout
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   North Dakota Senate - Cramer vs. HeitkampMason-Dixon
-    *   Cramer48
-    *   Heitkamp44Cramer +4
-*   Montana Senate - Rosendale vs. TesterGravis
-    *   Tester52
-    *   Rosendale44Tester +8
-*   Montana At-Large District - Gianforte vs. WilliamsGravis
-    *   Williams49
-    *   Gianforte43Williams +6
-*   California Governor - Cox vs. NewsomLA Times/USC
-    *   Newsom45
-    *   Cox28Newsom +17
+*   West Virginia Senate - Morrisey vs. ManchinMonmouth
+    *   Manchin50
+    *   Morrisey43Manchin +7
+*   Wisconsin Senate - Nicholson vs. BaldwinMarquette
+    *   Baldwin50
+    *   Nicholson39Baldwin +11
+*   Wisconsin Senate - Vukmir vs. BaldwinMarquette
+    *   Baldwin49
+    *   Vukmir40Baldwin +9
+*   Wisconsin Senate - Republican PrimaryMarquette
+    *   Nicholson37
+    *   Vukmir32Nicholson +5
 
 More Latest Polls In The News
 
-*   Pompeo &. Haley Announce U.S. Withdrawal From U.N. Human Rights Council, Citing Anti-Israel Bias
+*   Giuliani: "This Is The End Of Mueller's Investigation Effectively". James Comey Going To Jail
+*   Rachel Maddow Cries On Air Reading AP Report On Immigrant Babies Taken From Migrant Parents
+*   DHS Kirstjen Nielsen Driven Out Of Mexican Restaurant By Democratic Socialists of America: "Shame!"
 *   Cummings Blasts GOP For Condoning "Child Internment Camps" At Border: "What Country Is This?"
 *   Rep. Trey Gowdy Grills Horowitz: "How In The Hell" Did Comey Never Question Hillary On Email Intent?
-*   CNN's Wolf Blitzer Grills ICE Director Thomas Homan Over Family Separations At Border: "Is This Policy Humane?"
-*   Hillary Clinton: I Warned Of Trump Separating Families, "People Being Rounded Up On Trains And Buses"
 
 *   Politics
 *   Policy
