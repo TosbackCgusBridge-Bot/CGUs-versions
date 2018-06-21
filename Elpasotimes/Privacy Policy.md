@@ -1,4 +1,4 @@
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%
+SUBSCRIBE NOW99¢ per month. Save 90%
 
 *   Home
 *   News
@@ -75,7 +75,7 @@ close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events9
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDeputies: Heroin in gift bag leads to 2 arrestsCrimeHave you seen El Paso's most wanted fugitives?CrimeEPISD's first meeting on proposed closures intenseEducationRapper Post Malone spotted Sunday at Twin PeaksNewsLook inside the tents for migrant kids in TexasImmigrationMan accused of intoxicated manslaughter in wreckCrimeCounty officials decry site for immigrant kidsImmigrationTexas Tech student from El Paso dies in SiberiaLocal'Chapo' Guzman trial asks: Who is Jesus Malverde?CrimeJack White, Jason Mraz set El Paso concertsEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPolice: Child sex abuse at church lasted yearsCrimeTexas billboard tells 'liberals' to keep drivingNewsHotel restoration labor of love for El PasoanLocalCould Deion Sanders' son come to UTEP?NewsHundreds protest Trump policy separating kidsImmigrationEPISD's first meeting on proposed closures intenseEducationDeputies: Heroin in gift bag leads to 2 arrestsCrimeHave you seen El Paso's most wanted fugitives?CrimeUS mayors to protest separations in TornilloImmigrationBorder governors say little on family separationImmigrationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,5 +145,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogclose dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per MonthFor 3 MonthsSubscribe Not looking to subscribe right now close dialog
