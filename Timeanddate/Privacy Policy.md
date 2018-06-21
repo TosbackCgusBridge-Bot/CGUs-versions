@@ -234,18 +234,20 @@ Help us develop our services. More
 timeanddate.com
 
 1.  About Us
-2.  Contact Us
-3.  Feedback
-4.  Privacy Statement
-5.  Copyright
-6.  Logo Use
-7.  GeoNames
-8.  Support Us
-9.  Ad Blockers
-10.  Work Here
-11.  Advertise
-12.  Credits
-13.  Disclaimer
+2.  Our history
+3.  Contact Us
+4.  Feedback
+5.  Privacy Statement
+6.  Terms &. Conditions
+7.  Copyright
+8.  Logo Use
+9.  GeoNames
+10.  Support Us
+11.  Ad Blockers
+12.  Work Here
+13.  Advertise
+14.  Credits
+15.  Disclaimer
 
 Index
 
