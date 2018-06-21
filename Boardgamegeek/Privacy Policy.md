@@ -348,7 +348,7 @@ You may only use another user’s personal information for transaction-related p
 
 15\. I'm under the age of 16. Can I use your websites?
 
-No. Our website is not intended for anyone younger than 16 years old. You may not create an account, shop, trade, message, give us any information, or interact with us, our websites, or other users in any way.
+No. Our website is not intended for anyone younger than 16 years old. You may not create an account or use any of the features of the websites that an account permits.
 
 We do not knowingly collect personal information from children under 16. If we learn we have received personal information from a child under 16, we will remove it (although we may not be able to fully remove the information from our backup system). If you believe we might have a child’s personal information, please contact us.
 
