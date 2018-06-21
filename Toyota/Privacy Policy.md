@@ -1,6 +1,6 @@
 *   menu
 
-*   Set Location Set Zip
+*   Your Location: 49464 Zip: 49464
 *   Certified Used Vehicles
 *   Owners
 *   Español
@@ -29,7 +29,7 @@
 *   $35,495 as shown1 2018 Camry $23,645 starting1  
     29/41 est MPG4 Build Specials
 *   $42,200 as shown1 2019 Avalon $35,500 starting1  
-    22/32 est MPG18 Build Specials
+    22/32 est MPG20 Build Specials
 *   $28,585 as shown1 2018 86 $26,455 starting1  
     21/28 est MPG3 Build Specials
 *   $37,090 as shown1 2018 Sienna $30,850 starting1  
@@ -56,7 +56,7 @@
 *   $32,400 as shown1 2018 Camry Hybrid $27,950 starting1  
     51/53 est MPG3 Build Specials
 *   $42,800 as shown1 2019 Avalon Hybrid $36,500 starting1  
-    43/44 est MPG19 Build Specials
+    43/44 est MPG20 Build Specials
 *   $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
     34/30 est MPG3 Build Specials
 *   $48,480 as shown1 2018 Highlander Hybrid $36,870 starting1  
@@ -102,7 +102,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 28/36 est MPG20 $19,985 as shown1 2018 Corolla iM $18,850 starting1  
 27/35 est MPG3 $35,495 as shown1 2018 Camry $23,645 starting1  
 29/41 est MPG4 $42,200 as shown1 2019 Avalon $35,500 starting1  
-22/32 est MPG18 $28,585 as shown1 2018 86 $26,455 starting1  
+22/32 est MPG20 $28,585 as shown1 2018 86 $26,455 starting1  
 21/28 est MPG3 $37,090 as shown1 2018 Sienna $30,850 starting1  
 19/27 est MPG16 Trucks $34,685 as shown1 2018 Tacoma $25,400 starting1  
 18/22 est MPG3 $47,280 as shown1 2018 Tundra $31,320 starting1  
@@ -114,7 +114,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 13/17 est MPG3 $84,565 as shown1 2018 Land Cruiser $84,565 starting1  
 13/18 est MPG5 Hybrids &. FCV $32,400 as shown1 2018 Camry Hybrid $27,950 starting1  
 51/53 est MPG3 $42,800 as shown1 2019 Avalon Hybrid $36,500 starting1  
-43/44 est MPG19 $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
+43/44 est MPG20 $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
 34/30 est MPG3 $48,480 as shown1 2018 Highlander Hybrid $36,870 starting1  
 30/28 est MPG3 $33,300 as shown1 2018 Prius Prime $27,300 starting1  
 54/133 est MPG10 $32,115 as shown1 2018 Prius $23,475 starting1  
@@ -145,7 +145,13 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 *   Español
 *   Owners
 
-Close Set your locationYour ZIP is invalid. Submit
+Close
+
+SET YOUR LOCATION
+
+Enter your Zip Code to find dealers, inventory, and special offers near you.
+
+Your ZIP is invalid. Submit
 
 GO Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
