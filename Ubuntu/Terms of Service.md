@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Report from the GNOME Software design sprint ›
 *   Emerging Trends in Financial Services: IoT, AI and Blockchain ›
 *   Ubuntu Server development summary – 19 June 2018 ›
 *   Zenkit: The influence of developer communities in progressing snaps ›
 *   Design and Web team summary – 18 June 2018 ›
-*   A unified OpenStack for a scalable open infrastructure ›
