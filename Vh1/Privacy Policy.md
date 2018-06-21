@@ -24,7 +24,39 @@ VH1 MenuVH1
 *   Digital Originals
 *   Watch Live TV
 
-Privacy Policy And Your California Privacy Rights**Go to Terms of Use** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
+TRAILBLAZER HONORS AIRS IN
+
+*   0
+*   9
+
+*   7
+*   6
+
+d
+
+*   1
+*   0
+
+*   9
+*   8
+
+h
+
+*   5
+*   4
+
+*   0
+*   9
+
+m
+
+*   2
+*   1
+
+*   1
+*   0
+
+s Privacy Policy And Your California Privacy Rights**Go to Terms of Use** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
 **Last Modified:** June 22, 2017  
 Summary of Most Significant Changes
 
