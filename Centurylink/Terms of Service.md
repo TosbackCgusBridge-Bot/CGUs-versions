@@ -54,7 +54,7 @@ Revised 01-30-09
 *   Online Security
 *   Terms &. Conditions
 *   Tariff Library
-*   Internet Service Disclosure
+*   About Internet Service Disclosure
 *   CCTS
 *   Contact Us
 *   GDPR
