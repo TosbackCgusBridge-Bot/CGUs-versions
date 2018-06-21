@@ -161,6 +161,7 @@ menu Close 0 Free Shipping on $50+
     
     FEATURED SHOPS
     
+    *   SALE
     *   New Arrivals
     *   Kids' Swim Shop
     *   Kids' Backpacks &. Lunch Boxes
@@ -168,10 +169,10 @@ menu Close 0 Free Shipping on $50+
     *   Kids' Iron Knees Pants
     *   School Uniforms
     *   Kids' Star Spangled Collection
-    *   SALE
     
     Girls' Clothing>.
     
+    *   SHOP GIRLS SALE
     *   Shop All Girls' Clothing
     *   Girls' Swimsuits
     *   Girls' Tops
@@ -194,6 +195,7 @@ menu Close 0 Free Shipping on $50+
     
     Boys' Clothing>.
     
+    *   SHOP BOYS SALE
     *   Shop All Boys' Clothing
     *   Boys' Swimsuits
     *   Boys' Tops
@@ -557,6 +559,7 @@ menu Close 0 Free Shipping on $50+
         *   Boys' Husky Sizes
     *   FEATURED SHOPS
         *   Back
+        *   SALE
         *   New Arrivals
         *   Kids' Swim Shop
         *   Kids' Backpacks &. Lunch Boxes
@@ -564,10 +567,10 @@ menu Close 0 Free Shipping on $50+
         *   Kids' Iron Knees Pants
         *   School Uniforms
         *   Kids' Star Spangled Collection
-        *   SALE
     *   Girls' Clothing
         *   Back
         *   View All
+        *   SHOP GIRLS SALE
         *   Shop All Girls' Clothing
         *   Girls' Swimsuits
         *   Girls' Tops
@@ -589,6 +592,7 @@ menu Close 0 Free Shipping on $50+
     *   Boys' Clothing
         *   Back
         *   View All
+        *   SHOP BOYS SALE
         *   Shop All Boys' Clothing
         *   Boys' Swimsuits
         *   Boys' Tops
@@ -862,9 +866,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: SUNNY pin: 8133 DETAILS
+code: GARDEN pin: 4063 DETAILS
 
 Customer Service Menu
 
@@ -887,11 +891,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
+Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
