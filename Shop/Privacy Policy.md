@@ -406,9 +406,9 @@ Weekly Deals
 
 Save up to 55% off sale items through June 21 at 4am ET.
 
-Father's Day Business Sale
+LENOVO SMALL BUSINESS
 
-Celebrate Dad and save up to 25% on our best-selling business PCs &. Accessories. Sale ends June 20 at 4am ET.
+Explore how Lenovo can be your small business partner.
 
 Gaming Sale Extended
 
