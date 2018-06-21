@@ -59,7 +59,7 @@ MENU **IS**
 
 **LS**
 
-*   Starting at $75,0001\*
+*   Starting at $75,0004\*
 *   416-HP3\* 3.5L V6 (RWD)
 
 *   Build
@@ -67,7 +67,7 @@ MENU **IS**
 
 **LS HYBRID**
 
-*   Starting at $79,5101\*
+*   Starting at $79,5104\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   BUILD
@@ -94,7 +94,7 @@ COMPARE **NX**
 **RX**
 
 *   Starting at $43,4701\*
-*   3 ROW SEATING UP TO 74\*
+*   3 ROW SEATING UP TO 75\*
 
 *   Build
 *   Current Offers
@@ -117,7 +117,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $85,3805\*
+*   Starting at $85,3806\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -193,7 +193,7 @@ COMPARE **NX HYBRID**
 
 **LS HYBRID**
 
-*   Starting at $79,5101\*
+*   Starting at $79,5104\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   BUILD
@@ -353,9 +353,11 @@ click here Important Info Important Info
 
 \[3\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[4\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
+\[4\] MSRP does not include delivery, processing and handling fee of $1,025. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
-\[5\] MSRP does not include delivery, processing and handling fee of $1,295. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
+\[5\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
+
+\[6\] MSRP does not include delivery, processing and handling fee of $1,295. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
 Leasing &. Finance
 
