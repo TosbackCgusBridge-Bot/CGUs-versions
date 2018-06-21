@@ -1,17 +1,32 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS Toggle message bar
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
+
+The difference between praise and encouragement -- and why it matters. The difference between praise and encouragement -- and why it matters. Read more.
+
+Toggle message bar
 
 *   Apps
 *   Shop
-
+*   KRMA
 *   Parents
 *   TV Times
 *   Settings PBS KIDS Settings_Close_Your Local PBS Station
     
-    Choose your station for TV schedules and local features
+    Rocky Mountain PBS
     
     Select your local station
     
-    Results for . Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Find your stationBack
+    *   Rocky Mountain PBS
+    *   Colorado Public Television / KBDI 12
+    
+    Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Change your stationBackPBS KIDS Super Vision
+    
+    See what your child is playing, watching, &. learning with our free Super Vision app for iPhone. _Super Vision app is connected_
+    
+    _Currently Not Connected._This is your unique Connect Code.
+    
+    Enter this code in the Super Vision App to connect.
+    
+    _Currently Connected._Connected to Super Vision app.DoneConnect to appBackDisconnectAre you sure?YesNo
 
 <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MR8JHB" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="http://b.scorecardresearch.com/p?c1=2&c2=3005420&cv=2.0&cj=1" />. For Families Visiting PBS KIDS: Last modified: July 5, 2017
 
@@ -115,4 +130,4 @@ Please read the Terms of Use for Terms and Conditions for using this site.
 
 PBS KIDS | TV Times | Help  
   
-Copyright © 1995-2018 Public Broadcasting Service (PBS). All rights reserved.
+Copyright © 1995-2018 Public Broadcasting Service (PBS). All rights reserved. Come play again later! Come play again tomorrow! Come play again later! Come play again later!
