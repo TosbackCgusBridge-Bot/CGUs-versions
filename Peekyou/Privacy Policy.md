@@ -109,7 +109,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 10%  Twitter 9%  Instagram 9%  Myspace 9%  Pinterest 9%  Wikipedia 9%  Google+ 9%  Music 9%  Photo Albums 9%  Web Search 9%  Images 9% 
+Facebook 10%  Twitter 10%  Instagram 10%  Myspace 10%  Pinterest 9%  Wikipedia 9%  Google+ 9%  Music 9%  Photo Albums 9%  Web Search 9%  Images 9% 
 
 *   About PeekYou
 *   Privacy Policy
