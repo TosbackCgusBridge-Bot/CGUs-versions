@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   21\. Juni 2018
+*   22\. Juni 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.695,16ǀ
+*   DAX 12.511,91ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -221,7 +221,7 @@ Anmelden
 *   Gutscheine (Anzeige)
     
     *   Amazon
-    *   Mytoys
+    *   Otto
     *   Douglas
 
 Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor 2000vor 1995vor 1990vor 1980vor 1970vor 1960 Überschrift und VorspannVolltextAutor  
