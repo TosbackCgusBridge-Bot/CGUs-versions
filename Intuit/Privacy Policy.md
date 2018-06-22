@@ -1,27 +1,4 @@
-Accessible View
-
-*   My AccountSign In Sign InNew Customer? Register Here
-    *   My Account
-    *   Track Order
-    *   JCPenney Credit Card
-    *   Store Ads
-    *   Rewards
-    *   My List
-    *   Gift RegistryTrack MyOrders
-
-SHOP DEPARTMENTS
-
-*   Same Day Pickup
-*   Store Ads
-*   Bonus Bucks
-*   Clearance
-*   Coupons
-
-Near YouFind a StoreBack DAY 3 OF COUPON CODE 3ACTNOW ENDS IN
-
-\*offer ends 6/21/18
-
-Days 0 0 0 0 hours 4 4 0 0 mins 5 5 2 1 secs SAVE UP TO 40% OFF ON SELECT DRESSESShop AllSAVE UP TO 40% OFF ON SELECT DRESSESShop All
+Loading.. FINAL HOURS! COUPON CODE 3ACTNOW ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 5 5 3 3 secs SAVE UP TO 40% OFF ON SELECT DRESSESShop AllSAVE UP TO 40% OFF ON SELECT DRESSESShop All
 
 *   $27.99 sale
     
@@ -40,13 +17,13 @@ Days 0 0 0 0 hours 4 4 0 0 mins 5 5 2 1 secs SAVE UP TO 40% OFF ON SELECT DRESSE
     was $60 Spense Sleeveless Floral Maxi Dress(1)Add To Cart
 *   $29.99 sale
     
-    was $60 Spense Sleeveless Tie Dye Maxi DressAdd To Cart
+    was $60 Spense Sleeveless Maxi DressAdd To Cart
 *   $29.99 sale
     
-    was $60 Spense Sleeveless Maxi DressAdd To Cart
-*   $34.99 sale
+    was $60 Spense Sleeveless Tie Dye Maxi DressAdd To Cart
+*   $21.99 sale
     
-    was $74 Spense Sleeveless Maxi DressAdd To Cart
+    was $54 a.n.a Sleeveless Floral Maxi DressAdd To Cart
 
 SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
 
@@ -72,24 +49,24 @@ SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
     Akribos XXIV Mens Black Bracelet Watch-A-1003ygbkAdd To Cart
 *   BUY MORE AND SAVE WITH CODE: 3ACTNOW
     
+    $260
+    
+    Seiko Chronograph Mens Silver Tone Bracelet Watch-Sks585Add To Cart
+*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
+    
     $75
     
     iTouch Blue Smart Watch-JCI3160RG590-007(2)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: 3ACTNOW
     
-    $395
+    $1,800
     
-    Citizen® Eco-Drive® Mens Titanium Watch BM7170-53L(67)Add To Cart
+    Empress Unisex Brown Strap Watch-Empem2104Add To Cart
 *   BUY MORE AND SAVE WITH CODE: 3ACTNOW
     
     $75
     
     iTouch Black Smart Watch-JCIT3160S590-003(4)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
-    
-    $1,800
-    
-    Empress Unisex Brown Strap Watch-Empem2104Add To Cart
 
 SELECT BRAS STARTING AT $14.99Shop AllSELECT BRAS STARTING AT $14.99Shop All
 
