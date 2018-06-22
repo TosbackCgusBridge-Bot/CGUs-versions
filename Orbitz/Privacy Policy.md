@@ -31,20 +31,17 @@ Show Menu Hide Menu
     *   Not ?
     *   Not ?  
         Log in to your account
-*   My Lists  
+*    
     
     Things you view while shopping are saved here.
     
-    Loading your lists...
-    
-    View your lists
 *   My Trips
 *   Support
     *   Customer Support
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/aed9c743365368fcd4188024474e37427cf86198 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/3bd83944dc1f98dfed25b3167f9564c3c3d025c0 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
@@ -69,7 +66,7 @@ Last name
 
 Email address
 
-This email has already been used to sign up with CONNECTED\_THIRD\_PARTY\_NAMES. Try signing in with CONNECTED\_THIRD\_PARTY\_NAMES or use another email address. Create a password
+This email has already been used to sign up with . Try signing in with or use another email address. Create a password
 
 Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Send me emails with travel deals, special offers, and other information. Sign Up By creating an account, I agree to the Terms of Use and the Privacy Policy.
 
@@ -77,7 +74,7 @@ Already have an account? Sign In Sign in to your account Sign in to your account
 
 Password
 
-Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Explore More Orbitz
+Keep me signed in Forgot password? Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Explore More Orbitz
 
 *   About Orbitz
 *   Investor Relations
