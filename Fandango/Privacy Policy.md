@@ -70,9 +70,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Watch the First Trailer for Robert Zemeckis' 'Welcome to Marwen'. Here's Everything We Know Read More
+    *   Search for a 'Black Widow' Director Narrows to Three. Here's Everything We Know Read More
     *   Watch the First 'Creed II' Trailer: Here's Everything We Know So Far Read More
-    *   Pixar's Next 3 Movies: 'Toy Story 4,' Then Original Animated Adventures Read More
+    *   'Ant-Man and the Wasp': A Character Guide Read More
     
     Explore Content
     *   Movie Reviews
@@ -317,9 +317,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Ant-Man and The Wasp' Gift With Purchase
+*   'Action Point' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Own up to five eligible 'JACKASS' movies to watch at home for just $2.99 each with ticket purchase. BUY TICKETS
     
 *   'Deadpool 2' Gift With Purchase
     
