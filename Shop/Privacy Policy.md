@@ -379,24 +379,26 @@ Compare (0)
 *   Call 1-855-253-6686
     *   Call 1-855-253-6686
 
-Home >. Filter by specs Offers Dads &. Grads Sale
+Home >. Filter by specs Offers
 
-Save up to 55% on select PCs and more.  
-Sale ends June 21 at 4 AM ET.
+Workstation power. Ultrabook mobility.
 
-Shop Deals >.
+Learn More >
 
-Stylish outside. Savage inside.
+International Day  
+of Yoga Sale
 
-DIFFERENT GAMES BETTER
+Save up to $520 off or 36% off on Select Yoga Products. You need a device as flexible and bold as you are. Sale Ends June 22nd 4AM
 
-Learn More >.
+Shop Now >
 
-Leading the pack
+Different Innovates Better
 
-ThinkSystem DS6200 takes the #1 spot in price for performance
+Transform your data center with ThinkSystem and ThinkAgile solutions.
 
-Learn More >.
+Play Video
+
+Learn more >
 
 *   1
 *   2
@@ -404,19 +406,19 @@ Learn More >.
 
 Weekly Deals
 
-Save up to 55% off sale items through June 21 at 4am ET.
+Save up to 55% off sale items through June 27 at 4am ET.
 
-LENOVO SMALL BUSINESS
+Small Business Clearance Sale
 
-Explore how Lenovo can be your small business partner.
+Save up to 32% on select Small Business PCs. Sale ends June 27 at 4am ET.
 
-Gaming Sale Extended
+Home Laptop Flash Sale
 
-Save up to 25% on Lenovo Legion Gaming PC’s with eCoupon LEGIONFTWE3 Sale ends June 21 at 4am ET.
+Save up to $250 off select home laptops. Limited Time Only!. Sale ends June 27 at 4am ET.
 
-Yoga 730 (15")
+INTRODUCING X1 CARBON + TOUCH
 
-Break out of the 90-degree mold and rock tech global-style.
+For the first time ever, get a touchscreen X1 Carbon plus accessories for the ultimate in premium computing.
 
 Coming Soon: ThinkSmart Hub 700
 
