@@ -113,12 +113,24 @@ Bank of America Privacy and Security Get information about privacy and security 
     
     *   We work hard to ensure that any Bank of America content you’re receiving is really from Bank of America
     *   We’ll never ask you to send us personal information such as an account number, card PIN or Social Security or Tax ID over text or email. If you do receive a request like this or any other suspicious phishing email, please forward it to us at abuse@bankofamerica.com. We will only reply to your message if we require additional information.
+    *   Scammers use a variety of techniques – here are a few examples.
+        *   Using compromised business email addresses and impersonating executives, real estate agents, attorneys or others to insist that you redirect planned wire transfers to fraudulent accounts. Learn about business email compromise on the FBI website
+        *   Sending mailers to older adults that request the payment of a small fee in order to receive a big sweepstakes prize. Learn how to spot and help prevent elder abuse
+        *   Posing as government officials, security officers, tax collectors or tech support to resolve a non-existent issue or assist with a hypothetical software license renewal
     
     **What you need to do:**
     
     *   If you receive a suspicious call, text or email from someone claiming to be from Bank of America, do not respond, click links or open attachments. If this has happened to you, contact us right away at 800.432.1000.
-    *   Learn how to spot email scams and how to help protect yourself from tax scams. If you have older family members or friends, learn how to spot and help prevent elder abuse.
-    *   Help protect yourself and your loved ones from elder and at-risk person fraud by learning how to spot signs of elder financial abuse
+    *   If you’re being asked to send money as the result of a call, text or email, here are some questions you need to consider:
+        *   Is the requestor rushing or pressuring you?
+        *   Is the person asking for money someone you’ve never met?
+        *   If a business is requesting that you wire money or send funds online, is it to a new account number or different from what was described on initial paperwork?
+        *   Is the phone number that’s calling you (from, for example, your title company, contractor or attorney) different than usual?
+        *   Are you being pressured to send money to claim lottery funds or some other form of prize?
+    
+    If you can answer yes to any of these, think carefully about the request to send money. It may be a scam.
+    
+    *   If you believe you may have been the victim of a scam, report your experience to the FTC and/or to the FBI’s Internet Crime Complaint Center. Provide as many specific details as you can and be as descriptive about your experience as possible.
 *   Show How you can help protect your business
     
     **What you need to know:**
