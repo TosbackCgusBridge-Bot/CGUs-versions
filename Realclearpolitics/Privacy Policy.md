@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _David Harsanyi_: Dems Have Zero Tolerance for Illegal Immigration Solution
+*   _Pascal-Emmanuel Gobry_: The Lesson Dems Have Yet to Learn on Immigration
     
-*   _Jeh Johnson_: 'Zero-Tolerance' Policy Is Immoral, Un-American--and Ineffective
+*   _Ben Rhodes_: Amidst Trump Admin's Cruelty, America's Story Must Win Out
     
-*   _Jeff Sessions_: What We Want Is a Safe, Lawful System of Immigration
+*   _Donna Voss_: Americans Who Want Border Security Aren't Anti-Immigrant
     
-*   _Frank Bruni_: Trump's Small Hostages
+*   _Sonja Drimmer_: Melania Trump Plays the Role of Medieval Queen
     
-*   _Benny Johnson_: Here Are the Photos Under Obama the Media Won't Show You
+*   _Betsy McCaughey_: In China, 'Free Trade' Means Steal What You Want
     
-*   _David Ignatius_: Trump's Deal With Kim Is Far From Closed
+*   _Stanley Greenberg_: The Broad Support for Taxing the Wealthy
     
-*   _Caroline Glick_: The Donald Trump Negotiations Academy
+*   _Daniel McCarthy_: An Autopsy: Why Liberalism Failed
     
-*   _J.D. Gordon_: What It's Like to Be Caught Up in the Russia Witch Hunt
+*   _Chuck Ross_: Steele Visited State Dept. Shortly Before 2016 Election
     
-*   _Scott Lemieux_: Trump's Backwards Interpretation of the IG Report
+*   _Jack Shafer_: Is It OK to Sleep With Your Sources?
     
-*   _Rich Lowry_: Harvard's Secret System to Avoid 'Too Many Asians'
+*   _Robby Soave_: Leaked Memo Reveals ACLU Is Wavering on Free Speech
     
-*   _Jesse Singal_: When Children Say They're Trans
+*   _Carl Cannon_: A Dream About the Place Mississippi Could Be
     
-*   _David Remnick_: Trump's Cruelty and the Crying Children
+*   _Christina Fialho_: It's Time to End the Whole Immigration Prison System
     
-*   _Roger Simon_: The Illegal Immigration Charade Has Gone On for Too Long
+*   _Charles Hurt_: The Sad Legacy of the Obama Border Orphans
     
-*   _Jill Abramson_: Forced Separation of Families Is Trump's 'Katrina Moment'
+*   _Charles Blow_: The King and Queen of Cruelty
     
-*   _John Feehery_: Betting on Trump Against the Political Establishment
+*   _Eddie Scarry_: Why the Media Will Lose in Immigration Fight
     
-*   _Caitlin Huey-Burns_: Republicans Seek Border Policy Fix as Trump Holds Firm
+*   _Dana Milbank_: Here Come First Casualties of Trump's Trade Wars
     
-*   _Daniel Olivas_: The Dystopia Is Here
+*   _Peter Navarro_: Trump's Tariffs a Defense Against China's Aggression
     
-*   _David Freddoso_: Poll: Everyone Except Dems Feels Unusually Optimistic
+*   _Dee Smith_: Intersecting Threats in Our Cyber-Connected World
     
-*   _Aitan Goelman_: Peter Strzok Is a Patriot, Not a 'Sick Loser'
+*   _Michael Isikoff_: Cyber Chief Confirms 2016 'Stand Down' Against Russians
     
-*   _Roger Kimball_: Comedy of Corruption? Or Bureaucratic Horror Show?
+*   _Michael Bloomberg_: Why I'm Supporting Democrats in 2018
     
-*   _Byron York_: The Fall of James Brien Comey
+*   _Byron York_: How Did Peter Strzok's Notorious Text Stay Hidden So Long?
     
-*   _Rich &. Kavanagh_: Why Obama Is Worried About 'Truth Decay'
+*   _Darren Samuelsohn_: Clinton Wrote Playbook for Attacking Special Counsel
     
-*   _Dennis Prager_: The Bad Hate the Good: SPLC vs. Prager University
+*   _Victor Davis Hanson_: Scandals Sanitized w/Linguistic Trickery
     
-*   _Thomas Friedman_: Trump to Dictators: Have a Nice Day
+*   _Leah Litman_: How Trump Corrupts the Rule of Law
     
 
 *   Previous
@@ -228,7 +228,7 @@ RecommendedPolitics
 
 *   Trump Signs Executive Order Ending Family Separations
 *   House Republicans Turn Up the Heat in Standoff With DOJ
-*   Gowdy: How in the Hell Did Comey Never Question Clinton on Intent?
+*   Trump: Dems Put Illegal Immigrants Before Citizens, What Is Going On?
 *   In Tit-for-Tat, Trump Threatens More Tariffs Against China
 *   Dems' Fate in November May Ride on Female Turnout
 *   Presidential Job Approval
@@ -245,26 +245,32 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   West Virginia Senate - Morrisey vs. ManchinMonmouth
-    *   Manchin50
-    *   Morrisey43Manchin +7
-*   Wisconsin Senate - Nicholson vs. BaldwinMarquette
-    *   Baldwin50
-    *   Nicholson39Baldwin +11
-*   Wisconsin Senate - Vukmir vs. BaldwinMarquette
-    *   Baldwin49
-    *   Vukmir40Baldwin +9
-*   Wisconsin Senate - Republican PrimaryMarquette
-    *   Nicholson37
-    *   Vukmir32Nicholson +5
+*   Florida Governor - Republican PrimaryFOX News
+    *   Putnam32
+    *   DeSantis17
+    *   White3
+    *   Devine1
+    *   Nathan1
+    *   Wilds1
+    *   Rivas1
+    *   BaldaufPutnam +15
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove52Disapprove +6
+*   2018 Generic Congressional VoteCNN
+    *   Democrats50
+    *   Republicans42Democrats +8
+*   2018 Generic Congressional VoteUSA Today/Suffolk
+    *   Democrats45
+    *   Republicans39Democrats +6
 
 More Latest Polls In The News
 
+*   Dem Sen. Baldwin Stumbles When CNN Anchor Asks If Obama Family Separation "Outraged" Her
+*   Sessions on Immigrants: We Never "Intended" To Separate Families. "The Optics Haven't Been Good"
+*   Trump: "Extremist, Open-Border Democrats" Allowed This To Happen, It's A "Whole Big Con Job"
+*   Cuomo: New York Suing Trump Administration, Executive Order On Immigrant Detention Is Illegal
 *   Giuliani: "This Is The End Of Mueller's Investigation Effectively". James Comey Going To Jail
-*   Rachel Maddow Cries On Air Reading AP Report On Immigrant Babies Taken From Migrant Parents
-*   DHS Kirstjen Nielsen Driven Out Of Mexican Restaurant By Democratic Socialists of America: "Shame!"
-*   Cummings Blasts GOP For Condoning "Child Internment Camps" At Border: "What Country Is This?"
-*   Rep. Trey Gowdy Grills Horowitz: "How In The Hell" Did Comey Never Question Hillary On Email Intent?
 
 *   Politics
 *   Policy
