@@ -14,6 +14,6 @@ _617-619-6123_
 
 For Classified Advertising:
 
-Classifiedads@bostonherald.com
+doris.picardi@bostonherald.com
 
 _617-423-4545_
