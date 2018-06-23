@@ -55,7 +55,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Vacation Inspiration: 10 Places to Go in August 2 New Lilly Pulitzer Line with S'Well 3 Princess Diana's Niece Wears Spencer Tiara 4 33 Ways to Look Younger, According to Experts 5 The Breakers Opens Controversial Welcome Center Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Vacation Inspiration: 10 Places to Go in August 2 The Jack Rogers Sandals You Need for the Summer 3 The 40 Most Expensive Colleges in the Country 4 The Weekly Covet: Summer Travel Essentials 5 The Best Hats at Royal Ascot Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
