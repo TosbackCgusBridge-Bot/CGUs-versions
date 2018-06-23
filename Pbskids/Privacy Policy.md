@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _special_
 
-Find fun, hands-on educational activities to do with your child. Find fun, hands-on educational activities to do with your child. Go now
+Explore! Catch new episodes of Wild Kratts, Splash and Bubbles, and Nature Cat on PBS KIDS!Explore! Catch new episodes of Wild Kratts, Splash and Bubbles, and Nature Cat on PBS KIDS!Go now
 
 Toggle message bar
 
