@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   A first look at desktop metrics ›
 *   Ubuntu 16.04 LTS certified for Intel NUC for IoT device development ›
 *   Report from the GNOME Software design sprint ›
 *   Emerging Trends in Financial Services: IoT, AI and Blockchain ›
 *   Ubuntu Server development summary – 19 June 2018 ›
-*   Zenkit: The influence of developer communities in progressing snaps ›
