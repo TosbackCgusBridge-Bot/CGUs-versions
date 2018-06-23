@@ -74,7 +74,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Dividend history
         *   Dividend calculators
         *   Scrip dividend
-        *   Manage your shareholding last item in this group
+        *   Manage your shareholding
+        *   Share analytics last item in this group
     *   Events and presentations
         
     
