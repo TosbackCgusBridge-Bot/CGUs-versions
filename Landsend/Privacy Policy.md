@@ -216,6 +216,7 @@ menu Close 0 Free Shipping on $50+
     
 *   Swim WOMEN'S SWIMSUITS>.
     
+    *   Women's Swim Sale
     *   Tankinis &. Bikinis
     *   One-piece Swimsuits
     *   Rash Guards &. Swim Shirts
@@ -229,6 +230,7 @@ menu Close 0 Free Shipping on $50+
     
     GIRLS' SWIMSUITS>.
     
+    *   Girls' Swim Sale
     *   Tankini &. Bikini Separates
     *   Two-piece Swimsuit Sets
     *   One-piece Bathing Suits
@@ -237,11 +239,13 @@ menu Close 0 Free Shipping on $50+
     
     BOYS' SWIMSUITS>.
     
+    *   Boys' Swim Sale
     *   Swim Trunks
     *   Rash Guards &. Swim Shirts
     
     MEN'S SWIMWEAR>.
     
+    *   Men's Swim Sale
     *   Swim Trunks
     *   Rash Guards &. Swim Shirts
     
@@ -617,6 +621,7 @@ menu Close 0 Free Shipping on $50+
     *   WOMEN'S SWIMSUITS
         *   Back
         *   View All
+        *   Women's Swim Sale
         *   Tankinis &. Bikinis
         *   One-piece Swimsuits
         *   Rash Guards &. Swim Shirts
@@ -630,6 +635,7 @@ menu Close 0 Free Shipping on $50+
     *   GIRLS' SWIMSUITS
         *   Back
         *   View All
+        *   Girls' Swim Sale
         *   Tankini &. Bikini Separates
         *   Two-piece Swimsuit Sets
         *   One-piece Bathing Suits
@@ -638,11 +644,13 @@ menu Close 0 Free Shipping on $50+
     *   BOYS' SWIMSUITS
         *   Back
         *   View All
+        *   Boys' Swim Sale
         *   Swim Trunks
         *   Rash Guards &. Swim Shirts
     *   MEN'S SWIMWEAR
         *   Back
         *   View All
+        *   Men's Swim Sale
         *   Swim Trunks
         *   Rash Guards &. Swim Shirts
     *   More For Swim
@@ -866,9 +874,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 40% off full-price polos, tank tops and t-shirts. 30% off all other full-price styles!
 
-code: PEACH pin: 3762 DETAILS
+code: BIKE pin: 3764 DETAILS
 
 Customer Service Menu
 
@@ -891,7 +899,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Policy Last Updated: May 21, 2018
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
@@ -1133,15 +1145,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>. sign up
-
-For your security, please confirm you are not a robot before submitting another email.
-
-Thank you for signing up.
-
-Your email address is: .  
-We’ll send you a notification when it launches.
-
-Continue Shopping
-
-Privacy Policy &. Contact Info
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
