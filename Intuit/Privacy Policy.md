@@ -1,115 +1,103 @@
-Loading.. FINAL HOURS! COUPON CODE 3ACTNOW ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 5 5 3 3 secs SAVE UP TO 40% OFF ON SELECT DRESSESShop AllSAVE UP TO 40% OFF ON SELECT DRESSESShop All
+Loading.. DAY 1 OF COUPON CODE 4SHOPNOW ENDS IN
 
+\*offer ends 6/24/18
+
+Days 0 0 0 0 hours 4 4 0 0 mins 1 0 0 9 secs SAVE ON LUGGAGEShop AllSAVE ON LUGGAGEShop All
+
+*   $95.99 sale
+    
+    was $175 Rockland Melbourne 2-pc. Hardside Spinner Luggage Set(18)Add To Cart
+*   $94.99 sale
+    
+    was $239 Rockland Journey 4-pc. Luggage Set(3)Add To Cart
+*   $84.99 sale
+    
+    was $170 Protocol Richardson 3-pc. Luggage Set(2)Add To Cart
+*   $35.99 sale
+    
+    was $48 JanSport® SuperBreak® Backpack(113)Add To Cart
+*   $135.99 sale
+    
+    was $340 DUKAP Rodez Lightweight Hardside 3 Piece Set 20''/24''/28''(1)Add To Cart
+*   $47.99 sale
+    
+    was $64 JanSport® Big Student Backpack(79)Add To Cart
+*   $199.99 sale
+    
+    was $400 American Tourister Pop Plus 3-pc. Luggage Set(27)Add To Cart
+*   $183.99 sale
+    
+    was $460 Travelers Club Beijing 3-pc. Luggage Set(1)Add To Cart
+
+SAVE UP TO 40% OFF ON SELECT DRESSESShop AllSAVE UP TO 40% OFF ON SELECT DRESSESShop All
+
+*   $59.99 sale
+    
+    was $89 Be by CHETTA B 3/4 Sleeve Maxi DressAdd To Cart
+*   $39.99 sale
+    
+    was $60 MSK Short Sleeve Cold Shoulder Puff Print Floral A-Line DressAdd To Cart
 *   $27.99 sale
     
     was $60 a.n.a Sleeveless Bordered Maxi DressAdd To Cart
+*   $59.99 sale
+    
+    was $89 Darian Sleeveless Embroidered Sheath DressAdd To Cart
+*   $99.99 sale
+    
+    was $140 Jackie Jon Short Sleeve Embellished Evening GownAdd To Cart
 *   $21.99 sale
     
     was $54 a.n.a Sleeveless Floral Maxi DressAdd To Cart
-*   $27.99 sale
+*   $59.99 sale
     
-    was $60 a.n.a Sleeveless Paisley Maxi DressAdd To Cart
-*   $21.99 sale
+    was $89 Be by CHETTA B 3/4 Sleeve Floral Maxi DressAdd To Cart
+*   $89.99 sale
     
-    was $54 a.n.a Sleeveless Floral Maxi DressAdd To Cart
-*   $29.99 sale
-    
-    was $60 Spense Sleeveless Floral Maxi Dress(1)Add To Cart
-*   $29.99 sale
-    
-    was $60 Spense Sleeveless Maxi DressAdd To Cart
-*   $29.99 sale
-    
-    was $60 Spense Sleeveless Tie Dye Maxi DressAdd To Cart
-*   $21.99 sale
-    
-    was $54 a.n.a Sleeveless Floral Maxi DressAdd To Cart
+    was $120 Jackie Jon Short Sleeve Embellished Evening GownAdd To Cart
 
 SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
 
-*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
+*   LIMITED TIME SPECIAL!
     
-    $75
+    $25 sale
     
-    Q7 Limited Time Special! Black Smartwatch(34)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
+    was $75 Q7 Limited Time Special! Black/Silver Smartwatch(24)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    $75
+    $25 sale
     
-    Q7 Limited Time Special! Black/Silver Smartwatch(23)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
+    was $75 Q7 Limited Time Special! Black Smartwatch(33)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    $50
+    $21.25 sale
     
-    Olivia Pratt Smart Watch-8183Add To Cart
-*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
+    was $50 Olivia Pratt Smart Watch-8183Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    $495
+    $84.15 sale
     
-    Akribos XXIV Mens Black Bracelet Watch-A-1003ygbkAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
+    was $495 Akribos XXIV Mens Black Bracelet Watch-A-1003ygbkAdd To Cart
+*   LIMITED TIME SPECIAL!
     
-    $260
+    $110.49 sale
     
-    Seiko Chronograph Mens Silver Tone Bracelet Watch-Sks585Add To Cart
-*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
+    was $260 Seiko Chronograph Mens Silver Tone Bracelet Watch-Sks585Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    $75
+    $127.49 sale
     
-    iTouch Blue Smart Watch-JCI3160RG590-007(2)Add To Cart
+    was $299.99 Citizen Mens Gold Tone Watch Boxed Set-Bh3002-62eAdd To Cart
 *   BUY MORE AND SAVE WITH CODE: 3ACTNOW
     
     $1,800
     
     Empress Unisex Brown Strap Watch-Empem2104Add To Cart
-*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
-    
-    $75
-    
-    iTouch Black Smart Watch-JCIT3160S590-003(4)Add To Cart
-
-SELECT BRAS STARTING AT $14.99Shop AllSELECT BRAS STARTING AT $14.99Shop All
-
 *   LIMITED TIME SPECIAL!
     
-    $14.99 sale
+    $251.81 sale
     
-    was $38 Vanity Fair® Body Shine® Floral Underwire Bra - 75297(216)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $14.99 sale
-    
-    was $38 Vanity Fair® Body Shine® Floral Wireless Bra - 72297(97)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $14.99 sale
-    
-    was $39 Bali® Double Support® Cotton Stretch Bra - 3036(543)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $14.99 sale
-    
-    was $40 Bali® Double Support® Full Figure Minimizer Bra - 3335(441)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $14.99 sale
-    
-    was $39 Bali Bra Double Support Frt Cls-DF1003(145)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $14.99 sale
-    
-    was $35 Playtex® 18 Hour® Sensationally Sleek™ Wireless Bra - 4803(1110)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $14.99 sale
-    
-    was $35 Playtex® 18 Hour® Gorgeous Lift Wireless Bra - E515(130)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $14.99 sale
-    
-    was $44 Maidenform Sports Bra-Dm7993(28)Add To Cart
+    was $395 Citizen® Eco-Drive® Mens Titanium Watch BM7170-53L(67)Add To Cart
 
 Shop and Save at JCPenney
 
