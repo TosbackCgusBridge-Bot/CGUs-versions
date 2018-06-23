@@ -1,5 +1,3 @@
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%
-
 *   Home
 *   News
 *   Sports
@@ -75,7 +73,7 @@ close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events9
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSheriff bans deputies from Tornillo tent city workImmigrationEPISD school closures delayedEducationConstruction to start on $85 million towerLocalLawyers to CBP agents: Where are the kids?ImmigrationPolice seek victims in fight outside bar: VideoCrimePolice: Child sex abuse at church lasted yearsCrimeFunny thing about Tornillo protest: VillalobosOpinionMayors unite in Tornillo to protest for childrenImmigrationTexas billboard tells 'liberals' to keep drivingNewsHotel restoration labor of love for El PasoanLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowFox Plaza Barber Shop closing after 60 yearsLocalEmail: Charges to be dropped in migrant casesImmigrationAmber Alert canceled for El Paso toddlerLocalConstruction to start on $85 million towerLocalLawyers to CBP agents: Where are the kids?ImmigrationEPISD school closures delayedEducationMayors unite in Tornillo to protest for childrenImmigrationHow to help immigrant children taken from parentsImmigrationElderly woman dies days after being hit by carLocalSheriff bans deputies from Tornillo tent city workImmigrationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,5 +143,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per Month\*Subscribeclose dialogclose dialogTHAT SUMMER FEELINGGet The latest In Summer news, sports and events99¢ Per MonthFor 3 MonthsSubscribe Not looking to subscribe right now close dialog
