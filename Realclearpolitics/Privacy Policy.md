@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Pascal-Emmanuel Gobry_: The Lesson Dems Have Yet to Learn on Immigration
+*   _Vanessa Friedman_: Melania Trump, Agent of Coat Chaos
     
-*   _Ben Rhodes_: Amidst Trump Admin's Cruelty, America's Story Must Win Out
+*   _Roger Kimball_: Call 911! The Liberal Resistance Has Lost Its Mind
     
-*   _Donna Voss_: Americans Who Want Border Security Aren't Anti-Immigrant
+*   _Francis Wilkinson_: 'I Think We're at the Beginning of a Soft Civil War'
     
-*   _Sonja Drimmer_: Melania Trump Plays the Role of Medieval Queen
+*   _Mollie Hemingway_: Trump's Immigration Policies Are Surprisingly Popular
     
-*   _Betsy McCaughey_: In China, 'Free Trade' Means Steal What You Want
+*   _Karl Vick_: A Reckoning: What Kind of Country Are We?
     
-*   _Stanley Greenberg_: The Broad Support for Taxing the Wealthy
+*   _Damon Linker_: Democrats and the Immigration Trap
     
-*   _Daniel McCarthy_: An Autopsy: Why Liberalism Failed
+*   _George Will_: The Charles Krauthammer I Knew
     
-*   _Chuck Ross_: Steele Visited State Dept. Shortly Before 2016 Election
+*   _William Rice_: Top 10 Fallacies About the Republican Tax Act
     
-*   _Jack Shafer_: Is It OK to Sleep With Your Sources?
+*   _Steve Cortes_: The Trump Boom Is Real and Just Getting Started
     
-*   _Robby Soave_: Leaked Memo Reveals ACLU Is Wavering on Free Speech
+*   _Albert Hunt_: Nixon Lied, Smeared His Foes and Had Accomplishments
     
-*   _Carl Cannon_: A Dream About the Place Mississippi Could Be
+*   _John Hinderaker_: Did the FBI Frame Flynn?
     
-*   _Christina Fialho_: It's Time to End the Whole Immigration Prison System
+*   _Rep. Kevin Brady_: Six Months After Tax Reform, Something Big Is Happening
     
-*   _Charles Hurt_: The Sad Legacy of the Obama Border Orphans
+*   _Nomi Prins_: Trump's Trade Wars Could Lead to Next Great Depression
     
-*   _Charles Blow_: The King and Queen of Cruelty
+*   _Wesley Pruden_: Democrats In a Lather Over the Good News
     
-*   _Eddie Scarry_: Why the Media Will Lose in Immigration Fight
+*   _Juan Escalante_: Trump Can't Be Allowed to Cage Immigrants Indefinitely
     
-*   _Dana Milbank_: Here Come First Casualties of Trump's Trade Wars
+*   _Rich Lowry_: Dems' True Goal Is To End All Border Enforcement
     
-*   _Peter Navarro_: Trump's Tariffs a Defense Against China's Aggression
+*   _Susan Glasser_: Will Trump's Cynical Immigration Ploy Work Again?
     
-*   _Dee Smith_: Intersecting Threats in Our Cyber-Connected World
+*   _Matthew Continetti_: All Politics Is Trump
     
-*   _Michael Isikoff_: Cyber Chief Confirms 2016 'Stand Down' Against Russians
+*   _Ana Marie Cox_: A Night Among the Trump Believers Way Up North
     
-*   _Michael Bloomberg_: Why I'm Supporting Democrats in 2018
+*   _Scott Johnson_: The Anti-Israel Seat
     
-*   _Byron York_: How Did Peter Strzok's Notorious Text Stay Hidden So Long?
+*   _Alex Shephard_: Why Dems Should Take Mayors Seriously in 2020
     
-*   _Darren Samuelsohn_: Clinton Wrote Playbook for Attacking Special Counsel
+*   _John Lott_: The Media Can't Stop Lying About Trump
     
-*   _Victor Davis Hanson_: Scandals Sanitized w/Linguistic Trickery
+*   _Robert Reich_: An Urgent Message to World: Don't Lose Faith in America
     
-*   _Leah Litman_: How Trump Corrupts the Rule of Law
+*   _Tom Rogan_: UN Human Rights Council Is the World's Least Funny Joke
     
 
 *   Previous
@@ -226,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   In Visit to Border, Melania Trump Dons "I Really Don't Care, Do U?" Jacket
+*   Charles Krauthammer, Conservative Columnist and Pundit, Dies at 68
+*   Sessions: Never Intended to Separate Families, Optics Haven't Been Good
 *   Trump Signs Executive Order Ending Family Separations
 *   House Republicans Turn Up the Heat in Standoff With DOJ
-*   Trump: Dems Put Illegal Immigrants Before Citizens, What Is Going On?
-*   In Tit-for-Tat, Trump Threatens More Tariffs Against China
-*   Dems' Fate in November May Ride on Female Turnout
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,6 +247,15 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   2018 Generic Congressional VoteGallup
+    *   Democrats48
+    *   Republicans43Democrats +5
+*   New York 11th District - Republican PrimaryRemington Research (R)
+    *   Grimm40
+    *   Donovan47Donovan +7
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove52Disapprove +6
 *   Florida Governor - Republican PrimaryFOX News
     *   Putnam32
     *   DeSantis17
@@ -254,23 +265,14 @@ Latest PollsAll Polls
     *   Wilds1
     *   Rivas1
     *   BaldaufPutnam +15
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove52Disapprove +6
-*   2018 Generic Congressional VoteCNN
-    *   Democrats50
-    *   Republicans42Democrats +8
-*   2018 Generic Congressional VoteUSA Today/Suffolk
-    *   Democrats45
-    *   Republicans39Democrats +6
 
 More Latest Polls In The News
 
+*   Maher Continues Call For Recession: "A Survivable Event, What Trump Is Doing To This Country Is Not"
+*   MSNBC's Donny Deutsch: "If You Vote For Trump, You Are Ripping Children From Parents' Arms"
+*   Dem Rep. Ted Lieu Plays Audio Of Migrant Children Crying On House Floor: "Why Are We Hiding This?"
+*   Lewandowski to Cuomo: "Womp Womp" Was Directed At Guest, Not Migrant Child With Down Syndrome
 *   Dem Sen. Baldwin Stumbles When CNN Anchor Asks If Obama Family Separation "Outraged" Her
-*   Sessions on Immigrants: We Never "Intended" To Separate Families. "The Optics Haven't Been Good"
-*   Trump: "Extremist, Open-Border Democrats" Allowed This To Happen, It's A "Whole Big Con Job"
-*   Cuomo: New York Suing Trump Administration, Executive Order On Immigrant Detention Is Illegal
-*   Giuliani: "This Is The End Of Mueller's Investigation Effectively". James Comey Going To Jail
 
 *   Politics
 *   Policy
