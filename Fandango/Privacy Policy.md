@@ -71,7 +71,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   Search for a 'Black Widow' Director Narrows to Three. Here's Everything We Know Read More
-    *   Watch the First 'Creed II' Trailer: Here's Everything We Know So Far Read More
+    *   The Week in Movie News: 'The Witches' Remake On the Way, First 'Creed II' Trailer Arrives and More Read More
     *   'Ant-Man and the Wasp': A Character Guide Read More
     
     Explore Content
@@ -317,21 +317,21 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Action Point' Gift With Purchase
+*   'Jurassic World: Fallen Kingdom' Gift With Purchase
     
-    Own up to five eligible 'JACKASS' movies to watch at home for just $2.99 each with ticket purchase. BUY TICKETS
+    Receive a FREE\* exclusive 'Jurassic World: Fallen Kingdom' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'Deadpool 2' Gift With Purchase
+*   'Incredibles 2' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Deadpool 2' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Choose 1 of 2 FREE\* posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    
+*   'Ocean's 8' Gift With Purchase
+    
+    Receive a FREE\* exclusive 'Ocean's 8' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 *   'Skyscraper' Gift With Purchase
     
     Receive a FREE\* 'Skyscraper' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
-    
-*   'Jurassic World: Fallen Kingdom' Gift With Purchase
-    
-    Receive a FREE\* exclusive 'Jurassic World: Fallen Kingdom' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 
 New + Coming soon
