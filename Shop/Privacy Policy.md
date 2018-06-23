@@ -385,12 +385,11 @@ Workstation power. Ultrabook mobility.
 
 Learn More >
 
-International Day  
-of Yoga Sale
+Stylish outside. Savage inside.
 
-Save up to $520 off or 36% off on Select Yoga Products. You need a device as flexible and bold as you are. Sale Ends June 22nd 4AM
+DIFFERENT GAMES BETTER
 
-Shop Now >
+Learn More >
 
 Different Innovates Better
 
