@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _special_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
 
-Explore! Catch new episodes of Wild Kratts, Splash and Bubbles, and Nature Cat on PBS KIDS!Explore! Catch new episodes of Wild Kratts, Splash and Bubbles, and Nature Cat on PBS KIDS!Go now
+Get real-time updates on what your kids are learning on pbskids.org with PBS KIDS Super Vision.Get real-time updates on what your kids are learning on pbskids.org with PBS KIDS Super Vision.Download the free app now
 
 Toggle message bar
 
