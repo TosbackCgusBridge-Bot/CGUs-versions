@@ -1,11 +1,11 @@
 Skip to Main Content. Site navigation Fidelity.com Home
 
-*   Help
+*   Customer Service
 *   Open An Account
 *   Refer A Friend
 *   Log In
 
-*   Help
+*   Customer Service
 *   Open An Account
 *   Refer A Friend
 *   Log Out
@@ -75,12 +75,12 @@ Search Fidelity.com
     *   Insights &. Tools
     *   Security &. Protection
 
-*   Help
+*   Customer Service
 *   Open An Account
 *   Refer A Friend
 *   Log In
 
-*   Help
+*   Customer Service
 *   Open An Account
 *   Refer A Friend
 *   Log Out
