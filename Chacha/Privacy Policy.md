@@ -71,15 +71,17 @@ Learn more
 
 New Cars by Category Make Best Sellers Sponsored SUV CX-5 Crossover Sedan Truck Hatchback Convertible Luxury Coupe Electric Hybrid Van/Minivan Wagon Acura Alfa Romeo Aston Martin Audi Bentley BMW Buick Cadillac Chevrolet Chrysler Dodge Ferrari FIAT Ford Freightliner Genesis GMC Honda Hyundai INFINITI Jaguar Jeep Kia Lamborghini Land Rover Lexus Lincoln Lotus Maserati Mazda McLaren Mercedes-Benz MINI Mitsubishi Nissan Porsche Ram Rolls-Royce smart Subaru Tesla Toyota Volkswagen Volvo Range $0$5,000$10,000$15,000$20,000$25,000$30,000$35,000$40,000$45,000$50,000$55,000$60,000$65,000to $5,000$10,000$15,000$20,000$25,000$30,000$35,000$40,000$45,000$50,000$55,000$60,000$65,000No limit See Results Popular Searches Top-Rated Sedans Under $25,000 Top-Rated SUVs Under $25,000 Luxury Vehicles Under $35,000 3-Row Vehicles Under $35,000 Best MPG Under $35,000 Advertisement Advertisement New Car Showroom
 
-*   Fair Purchase Price
-*   KBB.com Expert Reviews
 *   Consumer Reviews
+*   KBB.com Expert Reviews
+*   Fair Purchase Price
 
-Check Our Fair Purchase Price For Your New Car
+Get the Latest Consumer  
+Reviews Before You Buy
 
-We compiled the data and crunched the numbers for your peace of mind.
+Get the full scoop on new and used cars  
+from millions of people just like you.
 
-Search for cars
+Get consumer advice
 
 Sponsored
 
