@@ -1,3 +1,5 @@
+SUBSCRIBE NOW99¢ per month. Save 90%
+
 *   Home
 *   News
 *   Sports
@@ -73,7 +75,7 @@
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowFox Plaza Barber Shop closing after 60 yearsLocalEmail: Charges to be dropped in migrant casesImmigrationAmber Alert canceled for El Paso toddlerLocalConstruction to start on $85 million towerLocalLawyers to CBP agents: Where are the kids?ImmigrationEPISD school closures delayedEducationMayors unite in Tornillo to protest for childrenImmigrationHow to help immigrant children taken from parentsImmigrationElderly woman dies days after being hit by carLocalSheriff bans deputies from Tornillo tent city workImmigrationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowFather, son arrested in 2016 cold case murderCrimeFox Plaza Barber Shop closing after 60 yearsLocalEl Paso fans of El Tri ready to make noiseSoccerAmber Alert canceled for El Paso toddlerLocalGirls, separated kids being held at TornilloImmigrationEmail: Charges to be dropped in migrant casesImmigrationElderly woman dies days after being hit by carLocalFort Bliss may house thousands of migrant kidsImmigrationEl Pasoan to referee Belgium-Tunisia gameSportsA war hero House candidate's new ad wins praiseNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
