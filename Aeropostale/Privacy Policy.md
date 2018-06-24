@@ -140,7 +140,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Cropped Jegging
 *   Skinny
 *   Bootcut
-*   Boyfriend
 *   Cheeky
 *   Overalls
 
@@ -164,6 +163,7 @@ Close submenu ( Shorts ) Shorts
 Close submenu ( Girls Shorts ) Girls Shorts
 
 *   View All
+*   Buy 1 Get 2 Free Shorts
 *   Low Rise Shorty
 *   High-Waisted Shorty
 *   High-Waisted Cheeky
@@ -180,6 +180,7 @@ Close submenu ( Girls Shorts ) Girls Shorts
 Close submenu ( Guys Shorts ) Guys Shorts
 
 *   View All
+*   Buy 1 Get 2 Free Shorts
 *   Classic Chino Short
 *   Longboard
 *   Cargo Short
@@ -390,7 +391,6 @@ Menu Find a Store Aeropostale
         *   Cropped Jegging
         *   Skinny
         *   Bootcut
-        *   Boyfriend
         *   Cheeky
         *   Overalls
     
@@ -408,6 +408,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Shorts
         *   View All
+        *   Buy 1 Get 2 Free Shorts
         *   Low Rise Shorty
         *   High-Waisted Shorty
         *   High-Waisted Cheeky
@@ -423,6 +424,7 @@ Menu Find a Store Aeropostale
     
     *   Guys Shorts
         *   View All
+        *   Buy 1 Get 2 Free Shorts
         *   Classic Chino Short
         *   Longboard
         *   Cargo Short
