@@ -8,139 +8,139 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Premium Denim Up to 65% Off
-    *   White Hot: Denim Starting at $30
-    *   Denim Steals Under $50
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
+    *   Go Couture Dresses Up to 75% Off
+    *   Sterling Silver &. Gemstones Up to 80% Off
+    *   Joe Fresh Incl. Plus
+    *   Reef for the Family
+    *   Valentino by Mario Valentino
+    *   Derek Lam 10 Crosby Up to 85% Off
+    *   Kenneth Cole New York
+    *   Electric Yoga Up to 65% Off
+    *   Lauren Lorraine Under $60
+    *   Trending Now: Soft Pants for Summer
+    *   Josie &. Skarlett Blue Lingerie and Sleep
+    *   a.v. max Trend Earrings, Anklets &. More
+    *   Slide into Summer: Mules Starting at $20
+    *   14K Gold &. More Under $80
     *   Vince Up to 55% Off
+    *   DAFNI Ceramic Hot Brushes
+    *   Natural Blue Linen Styles &. More Up to 70% Off
+    *   Captain Fin Under $30
+    *   Free Shipping: Steamer Steals
+    *   Joe Fresh Men
+    *   Kenneth Cole New York Men
+    *   Joe Fresh Kids
     *   Vince Shoes Up to 50% Off
     *   Vince Men Up to 50% Off
     *   Fit to Flatter: Summer Dresses Up to 70% Off
-    *   The Swim Edit
     *   Elizabeth and James Jewelry &. More Up to 70% Off
     *   CeCe by Cynthia Steffe
+    
     *   Anne Klein
-    *   Summer Shades Starting at $25
     *   On-Trend Tops Under $25
     *   New Arrivals: Vicenzo Leather
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Rock &. Candy and Zigi
     *   Trophy Skin Anti-Aging Beauty Tools
-    *   Wow-Worthy Brows from Chella
     *   Vince Men's Shoes Up to 50% Off
-    *   Rock On: Bravado Concert Tees Under $20
-    *   Calpak Luggage
     *   Free Shipping: Budget-Friendly Furniture Under $200
     *   Quilt Sets for Every Bed
-    *   MCM &. More: Designer Handbags &. Accessories
-    *   Prada Sunglasses Up to 75% Off
-    *   Men's Designer Accessories
-    *   Siwy Denim
-    *   PJ Salvage
-    
-    *   BeachLunchLounge
-    *   NANETTE nanette lepore
-    *   RAGA
-    *   New York Collective Up to 75% Off
+    *   Rock On: Bravado Concert Tees Under $20
+    *   Summer Shades Starting at $25
+    *   Wow-Worthy Brows from Chella
     *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Summer Nights: Clutches &. More
     *   Ageless Skin Care: Freeze 24-7 Under $35
     *   Mirenesse Australia Up to 65% Off
     *   English Laundry
     *   X-Ray Up to 70% Off
-    *   Hartmann Luggage &. More
     *   Religion
-    *   Ben Sherman Shoes Up to 65% Off
-    *   Million Polkadots
+    *   Betsey Johnson &. Love...Ady Dresses
     *   Summer Ready: Bottoms ft. JOE'S Jeans &. AG
     *   Melissa &. Doug: Educational Toys &. More
     *   School's Out: Kids' Summer Sandals &. More
-    *   Aquatalia
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   Beach Bound: Our Favorite Sandals
-    *   Summer Must-Haves: Straw Bags &. More
-    *   Pool Ready: Sun Hats &. Cover-Ups
+    *   Men's Designer Accessories
+    *   The Swim Edit
     *   Men's Swim Edit
-    *   To the Beach: Kids' Swim Under $20
-    *   ALEX AND ANI Jewelry Up to 50% Off
     *   BECCA Cosmetics
     *   Free Shipping: 8x10 Statement Rugs &. More
-    *   Free Shipping: Bedding Sets &. More Up to 65% Off
+    *   Timberland Men
     
     *   Isaac Mizrahi Boys &. More
-    *   Timberland Men
-    *   Timberland Accessories for Him
     *   Save Khaki
-    *   Ben Sherman &. More: Boys' Dress Shoes
-    *   Sovereign Code Boys
     *   kate spade new york Home
     *   Sunnylife Summer Essentials Starting at $10
+    *   Free Shipping: Bedding Sets &. More Up to 65% Off
     *   Beachy Keen: Pool Floats, Drinkware &. More
     *   Free Shipping: Summer Tabletop Essentials &. More
     *   Edward Bess Cosmetics Under $20
     *   Like a Pro: NuMe Hair Tools &. More
-    *   Steve Madden Men
-    *   Men's Summer Hats: Fedoras, Caps &. More
-    *   Bruno Magli
-    *   Mon Shampoing: Customizable Hair Care
-    *   K-Beauty Essentials: Masks &. More from $10
     *   Free Shipping: Golden Decor &. More
     *   Free Shipping: BergHOFF
-    *   Oasis Ready: Palm Decor, Grass Baskets &. More
-    *   Free Shipping: Pet-Approved Accessories
-    *   Wall Upgrade: Art Prints, Murals &. More
     *   Free Shipping: Metal Decor, Wall Art &. More
-    *   Dress the Population
-    *   ARATTA Up to 80% Off
-    *   Life Hacks: Organization Must-Haves from $15
+    *   Denim Steals Under $50
+    *   White Hot: Denim Starting at $30
+    *   Premium Denim Up to 65% Off
     *   On-Trend Accents: Dinnerware, Wall Art &. More
-    *   True Religion &. More
+    *   Life Hacks: Organization Must-Haves from $15
+    *   Calpak Luggage
+    *   Ben Sherman Shoes Up to 65% Off
+    *   Prada Sunglasses Up to 75% Off
+    *   Siwy Denim
+    *   PJ Salvage
+    *   BeachLunchLounge
+    *   Million Polkadots
+    *   Timberland Accessories for Him
+    *   MCM &. More: Designer Handbags &. Accessories
 *   WomenShop Sale Events
     
-    *   Premium Denim Up to 65% Off
-    *   White Hot: Denim Starting at $30
-    *   Denim Steals Under $50
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
+    *   Go Couture Dresses Up to 75% Off
+    *   Sterling Silver &. Gemstones Up to 80% Off
+    *   Joe Fresh Incl. Plus
+    *   Reef for the Family
+    *   Valentino by Mario Valentino
+    *   Derek Lam 10 Crosby Up to 85% Off
+    *   Kenneth Cole New York
+    *   Electric Yoga Up to 65% Off
+    *   Lauren Lorraine Under $60
+    *   Trending Now: Soft Pants for Summer
+    *   Josie &. Skarlett Blue Lingerie and Sleep
+    *   a.v. max Trend Earrings, Anklets &. More
+    *   Slide into Summer: Mules Starting at $20
+    *   14K Gold &. More Under $80
     *   Vince Up to 55% Off
+    *   DAFNI Ceramic Hot Brushes
     *   Vince Shoes Up to 50% Off
     *   Fit to Flatter: Summer Dresses Up to 70% Off
-    *   The Swim Edit
     *   Elizabeth and James Jewelry &. More Up to 70% Off
     *   CeCe by Cynthia Steffe
     *   Anne Klein
-    *   Summer Shades Starting at $25
     *   On-Trend Tops Under $25
+    
     *   New Arrivals: Vicenzo Leather
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Rock &. Candy and Zigi
     *   Trophy Skin Anti-Aging Beauty Tools
+    *   Summer Shades Starting at $25
     *   Wow-Worthy Brows from Chella
-    *   Calpak Luggage
-    *   MCM &. More: Designer Handbags &. Accessories
-    *   Prada Sunglasses Up to 75% Off
-    *   Siwy Denim
-    *   PJ Salvage
-    
-    *   BeachLunchLounge
-    *   NANETTE nanette lepore
-    *   RAGA
-    *   New York Collective Up to 75% Off
     *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Summer Nights: Clutches &. More
     *   Ageless Skin Care: Freeze 24-7 Under $35
     *   Mirenesse Australia Up to 65% Off
-    *   Hartmann Luggage &. More
-    *   Aquatalia
     *   Betsey Johnson &. Love...Ady Dresses
-    *   Beach Bound: Our Favorite Sandals
-    *   Summer Must-Haves: Straw Bags &. More
-    *   Pool Ready: Sun Hats &. Cover-Ups
-    *   ALEX AND ANI Jewelry Up to 50% Off
+    *   The Swim Edit
     *   BECCA Cosmetics
     *   Edward Bess Cosmetics Under $20
     *   Like a Pro: NuMe Hair Tools &. More
-    *   Mon Shampoing: Customizable Hair Care
-    *   K-Beauty Essentials: Masks &. More from $10
-    *   Dress the Population
-    *   ARATTA Up to 80% Off
+    *   Denim Steals Under $50
+    *   White Hot: Denim Starting at $30
+    *   Premium Denim Up to 65% Off
+    *   Calpak Luggage
+    *   Prada Sunglasses Up to 75% Off
+    *   Siwy Denim
+    *   PJ Salvage
+    *   BeachLunchLounge
+    *   MCM &. More: Designer Handbags &. Accessories
     
     Shop By Category
     *   Clothing
@@ -152,79 +152,76 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Reef for the Family
+    *   Natural Blue Linen Styles &. More Up to 70% Off
+    *   Captain Fin Under $30
+    *   Joe Fresh Men
+    *   Kenneth Cole New York Men
     *   Vince Men Up to 50% Off
-    *   Summer Shades Starting at $25
     *   Vince Men's Shoes Up to 50% Off
     *   Rock On: Bravado Concert Tees Under $20
-    *   Calpak Luggage
-    *   Prada Sunglasses Up to 75% Off
-    *   Men's Designer Accessories
+    *   Summer Shades Starting at $25
     *   English Laundry
-    *   X-Ray Up to 70% Off
-    *   Hartmann Luggage &. More
     
+    *   X-Ray Up to 70% Off
     *   Religion
-    *   Ben Sherman Shoes Up to 65% Off
+    *   Men's Designer Accessories
     *   Men's Swim Edit
     *   Timberland Men
-    *   Timberland Accessories for Him
     *   Save Khaki
-    *   Steve Madden Men
-    *   Men's Summer Hats: Fedoras, Caps &. More
-    *   Bruno Magli
-    *   True Religion &. More
+    *   Calpak Luggage
+    *   Ben Sherman Shoes Up to 65% Off
+    *   Prada Sunglasses Up to 75% Off
+    *   Timberland Accessories for Him
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
     *   Watches
 *   KidsShop Sale Events
     
-    *   Million Polkadots
+    *   Reef for the Family
+    *   Joe Fresh Kids
     *   Summer Ready: Bottoms ft. JOE'S Jeans &. AG
     *   Melissa &. Doug: Educational Toys &. More
     *   School's Out: Kids' Summer Sandals &. More
-    *   To the Beach: Kids' Swim Under $20
     *   Isaac Mizrahi Boys &. More
-    *   Ben Sherman &. More: Boys' Dress Shoes
-    *   Sovereign Code Boys
+    *   Million Polkadots
     
     Shop By Category
     *   Boys Sizes 2T-7
     *   Boys Sizes 8-20
-    *   Girls Sizes 7-16
-    *   Girls Sizes 2T-6X
     *   Kids Accessories
     *   Baby Girl
-    *   Baby Boy
     *   Girls' Shoes
-    *   Boys' Shoes
+    *   Girls Sizes 7-16
     *   Toys
+    *   Baby Boy
+    *   Girls Sizes 2T-6X
+    *   Boys' Shoes
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Steamer Steals
     *   Free Shipping: Budget-Friendly Furniture Under $200
     *   Quilt Sets for Every Bed
     *   Free Shipping: 8x10 Statement Rugs &. More
-    *   Free Shipping: Bedding Sets &. More Up to 65% Off
     *   kate spade new york Home
     *   Sunnylife Summer Essentials Starting at $10
+    *   Free Shipping: Bedding Sets &. More Up to 65% Off
+    
     *   Beachy Keen: Pool Floats, Drinkware &. More
     *   Free Shipping: Summer Tabletop Essentials &. More
-    
     *   Free Shipping: Golden Decor &. More
     *   Free Shipping: BergHOFF
-    *   Oasis Ready: Palm Decor, Grass Baskets &. More
-    *   Free Shipping: Pet-Approved Accessories
-    *   Wall Upgrade: Art Prints, Murals &. More
     *   Free Shipping: Metal Decor, Wall Art &. More
-    *   Life Hacks: Organization Must-Haves from $15
     *   On-Trend Accents: Dinnerware, Wall Art &. More
+    *   Life Hacks: Organization Must-Haves from $15
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
+    *   Home Decor
     *   Organization
     *   Accent Furniture
     *   Bedding
@@ -233,6 +230,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bath
 *   BeautyShop Sale Events
     
+    *   DAFNI Ceramic Hot Brushes
     *   Trophy Skin Anti-Aging Beauty Tools
     *   Wow-Worthy Brows from Chella
     *   Ageless Skin Care: Freeze 24-7 Under $35
@@ -240,15 +238,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   BECCA Cosmetics
     *   Edward Bess Cosmetics Under $20
     *   Like a Pro: NuMe Hair Tools &. More
-    *   Mon Shampoing: Customizable Hair Care
-    *   K-Beauty Essentials: Masks &. More from $10
     
     Shop By Category
     *   Makeup
     *   Hair Care
-    *   Bath &. Body
     *   Skin Care
-    *   Personal Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
