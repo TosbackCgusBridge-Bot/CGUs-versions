@@ -1,8 +1,8 @@
-Loading.. DAY 1 OF COUPON CODE 4SHOPNOW ENDS IN
+Loading.. DAY 2 OF COUPON CODE 4SHOPNOW ENDS IN
 
 \*offer ends 6/24/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 1 0 0 9 secs SAVE ON LUGGAGEShop AllSAVE ON LUGGAGEShop All
+Days 0 0 0 0 hours 4 4 0 0 mins 5 5 1 1 secs SAVE ON LUGGAGEShop AllSAVE ON LUGGAGEShop All
 
 *   $95.99 sale
     
@@ -10,24 +10,24 @@ Days 0 0 0 0 hours 4 4 0 0 mins 1 0 0 9 secs SAVE ON LUGGAGEShop AllSAVE ON LUGG
 *   $94.99 sale
     
     was $239 Rockland Journey 4-pc. Luggage Set(3)Add To Cart
-*   $84.99 sale
-    
-    was $170 Protocol Richardson 3-pc. Luggage Set(2)Add To Cart
 *   $35.99 sale
     
     was $48 JanSport® SuperBreak® Backpack(113)Add To Cart
 *   $135.99 sale
     
     was $340 DUKAP Rodez Lightweight Hardside 3 Piece Set 20''/24''/28''(1)Add To Cart
+*   $84.99 sale
+    
+    was $170 Protocol Richardson 3-pc. Luggage Set(2)Add To Cart
 *   $47.99 sale
     
     was $64 JanSport® Big Student Backpack(79)Add To Cart
-*   $199.99 sale
-    
-    was $400 American Tourister Pop Plus 3-pc. Luggage Set(27)Add To Cart
 *   $183.99 sale
     
     was $460 Travelers Club Beijing 3-pc. Luggage Set(1)Add To Cart
+*   $63.99 sale
+    
+    was $160 Travelers Club 5 Pc 5-pc. Luggage Set(4)Add To Cart
 
 SAVE UP TO 40% OFF ON SELECT DRESSESShop AllSAVE UP TO 40% OFF ON SELECT DRESSESShop All
 
@@ -40,21 +40,21 @@ SAVE UP TO 40% OFF ON SELECT DRESSESShop AllSAVE UP TO 40% OFF ON SELECT DRESSES
 *   $27.99 sale
     
     was $60 a.n.a Sleeveless Bordered Maxi DressAdd To Cart
-*   $59.99 sale
-    
-    was $89 Darian Sleeveless Embroidered Sheath DressAdd To Cart
-*   $99.99 sale
-    
-    was $140 Jackie Jon Short Sleeve Embellished Evening GownAdd To Cart
 *   $21.99 sale
     
     was $54 a.n.a Sleeveless Floral Maxi DressAdd To Cart
+*   $99.99 sale
+    
+    was $140 Jackie Jon Short Sleeve Embellished Evening GownAdd To Cart
 *   $59.99 sale
     
-    was $89 Be by CHETTA B 3/4 Sleeve Floral Maxi DressAdd To Cart
+    was $89 Darian Sleeveless Embroidered Sheath DressAdd To Cart
 *   $89.99 sale
     
     was $120 Jackie Jon Short Sleeve Embellished Evening GownAdd To Cart
+*   $59.99 sale
+    
+    was $89 Be by CHETTA B 3/4 Sleeve Floral Maxi DressAdd To Cart
 
 SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
 
@@ -62,7 +62,7 @@ SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
     
     $25 sale
     
-    was $75 Q7 Limited Time Special! Black/Silver Smartwatch(24)Add To Cart
+    was $75 Q7 Limited Time Special! Black/Silver Smartwatch(25)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $25 sale
@@ -88,16 +88,14 @@ SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
     $127.49 sale
     
     was $299.99 Citizen Mens Gold Tone Watch Boxed Set-Bh3002-62eAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: 3ACTNOW
-    
-    $1,800
-    
-    Empress Unisex Brown Strap Watch-Empem2104Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $251.81 sale
+    $1,224 sale
     
-    was $395 Citizen® Eco-Drive® Mens Titanium Watch BM7170-53L(67)Add To Cart
+    was $1,800 Empress Unisex Brown Strap Watch-Empem2104Add To Cart
+*   View Price in Cart
+    
+    iTouch Blue Smart Watch-JCI3160RG590-007(2)Add To Cart
 
 Shop and Save at JCPenney
 
