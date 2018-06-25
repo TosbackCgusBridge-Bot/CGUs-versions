@@ -1,57 +1,53 @@
-Loading.. DAY 2 OF COUPON CODE 4SHOPNOW ENDS IN
-
-\*offer ends 6/24/18
-
-Days 0 0 0 0 hours 4 4 0 0 mins 5 5 1 1 secs SAVE ON LUGGAGEShop AllSAVE ON LUGGAGEShop All
+Loading.. FINAL HOURS! COUPON CODE 4SHOPNOW ENDS IN Days 0 0 0 0 hours 4 4 0 0 mins 2 2 4 3 secs SAVE ON LUGGAGEShop AllSAVE ON LUGGAGEShop All
 
 *   $95.99 sale
     
     was $175 Rockland Melbourne 2-pc. Hardside Spinner Luggage Set(18)Add To Cart
+*   $135.99 sale
+    
+    was $340 DUKAP Rodez Lightweight Hardside 3 Piece Set 20''/24''/28''(1)Add To Cart
 *   $94.99 sale
     
     was $239 Rockland Journey 4-pc. Luggage Set(3)Add To Cart
 *   $35.99 sale
     
     was $48 JanSport® SuperBreak® Backpack(113)Add To Cart
-*   $135.99 sale
+*   $183.99 sale
     
-    was $340 DUKAP Rodez Lightweight Hardside 3 Piece Set 20''/24''/28''(1)Add To Cart
+    was $460 Travelers Club Beijing 3-pc. Luggage Set(1)Add To Cart
 *   $84.99 sale
     
     was $170 Protocol Richardson 3-pc. Luggage Set(2)Add To Cart
 *   $47.99 sale
     
     was $64 JanSport® Big Student Backpack(79)Add To Cart
-*   $183.99 sale
+*   $65.99 sale
     
-    was $460 Travelers Club Beijing 3-pc. Luggage Set(1)Add To Cart
-*   $63.99 sale
-    
-    was $160 Travelers Club 5 Pc 5-pc. Luggage Set(4)Add To Cart
+    was $165 DUKAP Rodez Lightweight Hardside Spinner 28''Add To Cart
 
 SAVE UP TO 40% OFF ON SELECT DRESSESShop AllSAVE UP TO 40% OFF ON SELECT DRESSESShop All
 
 *   $59.99 sale
     
     was $89 Be by CHETTA B 3/4 Sleeve Maxi DressAdd To Cart
-*   $39.99 sale
-    
-    was $60 MSK Short Sleeve Cold Shoulder Puff Print Floral A-Line DressAdd To Cart
 *   $27.99 sale
     
     was $60 a.n.a Sleeveless Bordered Maxi DressAdd To Cart
+*   $39.99 sale
+    
+    was $60 MSK Short Sleeve Cold Shoulder Puff Print Floral A-Line DressAdd To Cart
 *   $21.99 sale
     
     was $54 a.n.a Sleeveless Floral Maxi DressAdd To Cart
-*   $99.99 sale
-    
-    was $140 Jackie Jon Short Sleeve Embellished Evening GownAdd To Cart
-*   $59.99 sale
-    
-    was $89 Darian Sleeveless Embroidered Sheath DressAdd To Cart
 *   $89.99 sale
     
     was $120 Jackie Jon Short Sleeve Embellished Evening GownAdd To Cart
+*   $59.99 sale
+    
+    was $89 Darian Sleeveless Embroidered Sheath DressAdd To Cart
+*   $99.99 sale
+    
+    was $140 Jackie Jon Short Sleeve Embellished Evening GownAdd To Cart
 *   $59.99 sale
     
     was $89 Be by CHETTA B 3/4 Sleeve Floral Maxi DressAdd To Cart
@@ -60,14 +56,9 @@ SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
 
 *   LIMITED TIME SPECIAL!
     
-    $25 sale
+    $84.15 sale
     
-    was $75 Q7 Limited Time Special! Black/Silver Smartwatch(25)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $25 sale
-    
-    was $75 Q7 Limited Time Special! Black Smartwatch(33)Add To Cart
+    was $495 Akribos XXIV Mens Black Bracelet Watch-A-1003ygbkAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $21.25 sale
@@ -75,14 +66,14 @@ SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
     was $50 Olivia Pratt Smart Watch-8183Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $84.15 sale
-    
-    was $495 Akribos XXIV Mens Black Bracelet Watch-A-1003ygbkAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
     $110.49 sale
     
     was $260 Seiko Chronograph Mens Silver Tone Bracelet Watch-Sks585Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $1,224 sale
+    
+    was $1,800 Empress Unisex Brown Strap Watch-Empem2104Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $127.49 sale
@@ -92,10 +83,17 @@ SAVE ON MEN'S WATCHESShop AllSAVE ON MEN'S WATCHESShop All
     
     $1,224 sale
     
-    was $1,800 Empress Unisex Brown Strap Watch-Empem2104Add To Cart
-*   View Price in Cart
+    was $1,800 Empress Unisex Gold Tone Bracelet Watch-Empem1508Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    iTouch Blue Smart Watch-JCI3160RG590-007(2)Add To Cart
+    $1,224 sale
+    
+    was $1,800 Empress Unisex Silver Tone Bracelet Watch-Empem1501Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $1,360 sale
+    
+    was $2,000 Empress Unisex Silver Tone Bracelet Watch-Empem1801Add To Cart
 
 Shop and Save at JCPenney
 
