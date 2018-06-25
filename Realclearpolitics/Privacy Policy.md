@@ -109,6 +109,18 @@
     *   About
     *   Media Kit
 
+*   _Jack Shafer_: Donald Trump Loses His Superpower
+    
+*   _Carl M. Cannon_: A Sane &. Moral Approach to Immigration
+    
+*   _Conrad Black_: Trump Is Grating, But He's a True Leader &. America Needs Him
+    
+*   _Selk &. Murray_: Red Hen Owner: No Regrets Denying Service to Sanders
+    
+*   _Derek Hunter_: Liberals Are Pushing America to the Edge
+    
+*   _Dan Balz_: After Terrible Week, Trump Is Defiantly In Denial
+    
 *   _Ross Baker_: Democrats' Focus on Trump Border Policies May Hurt Them
     
 *   _Goldie Taylor_: Republicans' Racist Rot Began Long Before Trump
@@ -142,20 +154,6 @@
 *   _Baldwin_: Here's Whom Else Trump Should Pardon
     
 *   _Namrata Goswami_: The U.S. 'Space Force' and Its Implications
-    
-*   _Vanessa Friedman_: Melania Trump, Agent of Coat Chaos
-    
-*   _Roger Kimball_: Call 911! The Liberal Resistance Has Lost Its Mind
-    
-*   _Francis Wilkinson_: 'I Think We're at the Beginning of a Soft Civil War'
-    
-*   _Mollie Hemingway_: Trump's Immigration Policies Are Surprisingly Popular
-    
-*   _Karl Vick_: A Reckoning: What Kind of Country Are We?
-    
-*   _Damon Linker_: Democrats and the Immigration Trap
-    
-*   _George Will_: The Charles Krauthammer I Knew
     
 
 *   Previous
@@ -245,6 +243,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Illinois Governor - Rauner vs. PritzkerWeAskAmerica
+    *   Pritzker36
+    *   Rauner27Pritzker +9
 *   2018 Generic Congressional VoteGallup
     *   Democrats48
     *   Republicans43Democrats +5
@@ -254,23 +255,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve46
     *   Disapprove52Disapprove +6
-*   Florida Governor - Republican PrimaryFOX News
-    *   Putnam32
-    *   DeSantis17
-    *   White3
-    *   Devine1
-    *   Nathan1
-    *   Wilds1
-    *   Rivas1
-    *   BaldaufPutnam +15
 
 More Latest Polls In The News
 
-*   David Brooks: When Krauthammer Was Asked Who His "Favorite Liberal Columnist" Was "He Said Me"
-*   Maher Continues Call For Recession: "A Survivable Event, What Trump Is Doing To This Country Is Not"
-*   MSNBC's Donny Deutsch: "If You Vote For Trump, You Are Ripping Children From Parents' Arms"
-*   Lewandowski to Cuomo: "Womp Womp" Was Directed At Guest, Not Migrant Child With Down Syndrome
-*   Dem Sen. Baldwin Stumbles When CNN Anchor Asks If Obama Family Separation "Outraged" Her
+*   George Takei: Immigrant Detention, Family Separation Is A "New Low" In American History
+*   Wallace Grills McCaul: Why Can't Republicans Get Your House In Order And Pass Immigration Reform?
+*   Luis Gutierrez: Trump Is Using Cruel Tactics To "Gin Up" Republican Base. "Seems Like It Is Working"
+*   Obama DHS Sec. Jeh Johnson: I Freely Admit We Detained Children, "It Was Necessary"
+*   ABC Roundtable Debates Melania Trump's "I DON'T CARE, DO U?" Jacket: What Did She Mean?
 
 *   Politics
 *   Policy
