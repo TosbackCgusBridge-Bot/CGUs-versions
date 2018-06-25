@@ -129,7 +129,7 @@ Play Norman Reedus Stars in the Amazing Video hotspot
 
 End of the line, Cayde. Destiny 2: Forsaken arrives September 4 on PS4. Watch the trailer now.
 
-5 days ago
+6 days ago
 
 View Tweet
 
