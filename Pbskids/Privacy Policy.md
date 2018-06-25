@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Get real-time updates on what your kids are learning on pbskids.org with PBS KIDS Super Vision.Get real-time updates on what your kids are learning on pbskids.org with PBS KIDS Super Vision.Download the free app now
+Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Get instructions
 
 Toggle message bar
 
