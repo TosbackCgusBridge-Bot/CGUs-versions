@@ -68,7 +68,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 49%  49%  49%  6% 
+What is PeekScore? Public Records &. Background Checks 53%  53%  53%  4% 
 
 *   Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -155,7 +155,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 48%  Twitter 5% 
+Facebook 53%  Twitter 4% 
 
 *   NIH - NIH
     
@@ -201,7 +201,7 @@ Facebook 48%  Twitter 5% 
     
 *   Show Less ...
 
-Instagram 5% 
+Instagram 4% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -265,7 +265,7 @@ Instagram 5% 
     
 *   Show Less ...
 
-Myspace 5% 
+Myspace 4% 
 
 *   Privacy Policy - 49086242
     
@@ -289,7 +289,7 @@ Myspace 5% 
     
 *   Show Less ...
 
-Pinterest 48%  Wikipedia 5% 
+Pinterest 53%  Wikipedia 4% 
 
 *   Jumper
     
@@ -304,14 +304,14 @@ Pinterest 48%  Wikipedia 5% 
     Purpose. As the World Wide Web became a genuine medium in which to sell products and services, electronic commerce websites tried to collect more information about the people who purchased their merchandise.
     
 
-Google+ 5% 
+Google+ 4% 
 
 *   Privacy Policy - Google+
     
     This Privacy Policy (later "Policy") describes ways of collecting and use of the information, including personal information (later "information"), that you provide or ...
     
 
-Music 5% 
+Music 4% 
 
 *   Pandora
     
@@ -357,7 +357,7 @@ Music 5% 
     
 *   Show Less ...
 
-Photo Albums 5% 
+Photo Albums 4% 
 
 *   Flickriver
     
@@ -372,11 +372,11 @@ Photo Albums 5% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Web Search 48%  Images 5% 
+Web Search 53%  Images 4% 
 
 20
 
-29
+28
 
 1
 
