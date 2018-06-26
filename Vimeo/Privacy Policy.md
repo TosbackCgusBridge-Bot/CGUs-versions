@@ -1,6 +1,6 @@
 Vimeo.com Privacy Policy
 
-Last Updated: January 22, 2018
+Last Updated: May 23, 2018
 
 Vimeo, Inc. respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the "Privacy Policy") are intended to describe for you, as an individual who is a user of Vimeo.com or any of our related sites, mobile and connected TV applications, or other online services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
@@ -98,6 +98,10 @@ This Privacy Policy is intended to cover collection of information on or via our
 No Rights of Third Parties
 
 This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+
+Data Transfer
+
+Vimeo is headquartered in the United States and uses computer systems, servers, and databases located in the U.S. If you reside outside the U.S., your data will be transferred to, stored in, and processed in the U.S. To facilitate the transfer of data from certain countries in Europe to the U.S., we adhere to the self-regulatory regulatory EU-US and Swiss-US Privacy Shield frameworks and comply with the EU General Data Protection Regulation (GDPR). Please read our Data Transfer Statement for more information about these frameworks and laws, your rights, and how you may resolve complaints with us.
 
 Changes to This Privacy Policy
 
