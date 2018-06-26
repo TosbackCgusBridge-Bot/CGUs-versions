@@ -35,7 +35,7 @@ MENU **IS**
 
 **GS**
 
-*   Starting at $46,3101\*
+*   Starting at $46,5101\*
 *   2.0L I-4 or 3.5L V6
 
 *   Build
@@ -117,7 +117,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $85,3806\*
+*   Starting at $85,6306\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
