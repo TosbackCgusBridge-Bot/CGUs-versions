@@ -166,7 +166,69 @@ Les destinataires des données sont :
 *   les établissements de financement et crédits
 *   Les autorités de police dans le cadre des réquisitions judiciaires concernant la lutte contre la fraude
 *   Les services de douane en cas de livraison à l’étranger
-*   Les partenaires commerciaux et notamment des régies marketing et publicitaires. Pour connaître la liste des partenaires commerciaux, cliquez ici
+*   Les partenaires commerciaux et notamment des régies marketing et publicitaires. Les partenaires commerciaux concernés sont :
+
+  
+
+\- Presse
+
+  
+
+\- Automobile
+
+  
+
+\- Optique
+
+  
+
+\- Carritatif
+
+  
+
+\- Hygiène/Santé/Beauté
+
+  
+
+\- Alimentaire/Restauration
+
+  
+
+\- Banque/Assurance
+
+  
+
+\- Bâtiment/Construction/aménagement extérieur/intérieurs (peintures)
+
+  
+
+\- Immobilier
+
+  
+
+\- Formation professionnelle
+
+  
+
+\- Enfants (colonies vacances/hygiène/loisirs)
+
+  
+
+\- Formation Enfant/Ecolies
+
+  
+
+\- Téléphonie/Internet
+
+  
+
+\- Gaz/Eau/Electricité
+
+  
+
+\- Loisirs
+
+  
 
 La Redoute fait également appel à des sous-traitants pour les opérations suivantes :
 
