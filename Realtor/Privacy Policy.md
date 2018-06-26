@@ -188,7 +188,9 @@ Page Content
     *   New York Post
     *   REA
     *   Storyful
-    *   Wall Street Journal
+    *   Makaan.com
+    *   Housing.com
+    *   PropTiger.com
 *   Privacy / Terms
 *   Sitemap
 
