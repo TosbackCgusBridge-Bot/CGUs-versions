@@ -1,4 +1,4 @@
-SUBSCRIBE NOW99¢ per month. Save 90%
+close dialogONLY $1 FOR 3 MONTHSSubscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%
 
 *   Home
 *   News
@@ -75,7 +75,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowProtest at Tornillo tent city draws celebritiesImmigrationGirls, separated kids being held at TornilloImmigrationA war hero House candidate's new ad wins praiseNewsFather, son arrested in 2016 cold case murderCrimeFox Plaza Barber Shop closing after 60 yearsLocalEl Paso fans of El Tri ready to make noiseSoccerMexico led by Chicharito, wins again at World CupSoccer14+ celebrity sightings at Sunday's protestImmigrationTent city draws national attention to TornilloNewsEl Paso Police arrest two after gunpoint carjackingCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending Now14+ celebrity sightings at Sunday's protestImmigrationProtest at Tornillo tent city draws celebritiesImmigrationEl Pasoans launch upscale Mexican clothing lineBusinessFormer Texas couple choked, caged children: ProsecutorNewsParents released, seek their separated childrenImmigrationGirls, separated kids being held at TornilloImmigrationHoy, Taylor, Rochelle bring big resumes to UTEPCollegeA war hero House candidate's new ad wins praiseNewsStudy: El Paso good city to buy a homeBusinessFather, son arrested in 2016 cold case murderCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,3 +145,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialogONLY $1 FOR 3 MONTHSSubscribeclose dialogclose dialogONLY $1 FOR 3 MONTHSFOURTH OF JULY SALE ON NOWSubscribe No thanksSale Ends 7/5 | Cancel Anytimeclose dialog
