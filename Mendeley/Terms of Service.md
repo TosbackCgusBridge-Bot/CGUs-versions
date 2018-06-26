@@ -108,6 +108,8 @@ Back to top
 
 7.2. Although we aim to keep the Services available at all reasonable times, we may modify, suspend or discontinue the Services in whole or in part without notice including, for example, in the event of technical failures, upgrades, routine or emergency repair work or some reason outside our control. We will not be liable if for any reason our Services are unavailable at any time or for any period.
 
+7.3 If you create a profile on the Site, you must provide true and accurate information about yourself. Should your profile information provided prove false or misleading (including your personal details), we may remove all or part your profile.
+
 Back to top
 
 8\. United States Of America Federal Agencies
