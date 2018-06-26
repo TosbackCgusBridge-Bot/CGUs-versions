@@ -873,9 +873,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: BREEZE pin: 9042 DETAILS
+code: YELLOW pin: 3975 DETAILS
 
 Customer Service Menu
 
