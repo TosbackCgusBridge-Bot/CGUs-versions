@@ -175,18 +175,4 @@ pip
 *   Legal Notices
 *   <img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast">.
 
-Careers | Site Map | Terms of Use | Privacy Statement © 2018 Thomson Reuters **We have updated our Privacy Statement**. Before you continue, please read our new Privacy Statement and familiarize yourself with the terms. × <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52807&fmt=gif" />. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/844952980/?guid=ON&amp;script=0"/>. </div>. <img src="//bat.bing.com/action/0?ti=5036430&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />.
-
-Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
-
-How would you rate your experience?
-
-Hate Dislike Neutral Like Love Select an element on the page.
-
-Enter your email address if you would like to receive a follow up.
-
-Thank you for sharing your feedback with us!
-
-Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits? More information
-
-Skip Send Select an element on the page.
+Careers | Site Map | Terms of Use | Privacy Statement © 2018 Thomson Reuters
