@@ -5,27 +5,32 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 
 *   Movies Now Playing
     
+    *   Jurassic World: Fallen Kingdom
     *   Incredibles 2
     *   Ocean's 8
     *   Tag (2018)
-    *   Solo: A Star Wars Story
     *   Deadpool 2
+    *   Solo: A Star Wars Story
     *   Hereditary
     *   SuperFly (2018)
     *   Avengers: Infinity War
-    *   Adrift (2018)
+    *   Won't You Be My Neighbor?
     *   Book Club
-    *   Gotti
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Jurassic World: Fallen Kingdom
-    *   Boundaries (2018)
-    *   Damsel
-    *   Incident in a Ghostland
-    *   The King (2018)
-    *   Spiral (2018)
+    *   Sicario: Day of the Soldado
+    *   Uncle Drew
+    *   The Cakemaker
+    *   Dark River
+    *   Game Changers (2018)
+    *   Leave No Trace
+    *   Love, Cecil
+    *   Sanju
+    *   This Is Congo
+    *   Three Identical Strangers
+    *   Woman Walks Ahead
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -34,15 +39,14 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     Coming Soon
     
-    *   Sicario: Day of the Soldado
-    *   Uncle Drew
     *   The First Purge
-    *   Ant-Man and the Wasp
     *   Hotel Transylvania 3: Summer Vacation
     *   Skyscraper (2018)
     *   The Equalizer 2
     *   Mamma Mia! Here We Go Again
     *   Unfriended: Dark Web
+    *   Mission: Impossible - Fallout
+    *   Teen Titans Go! To the Movies
     *   See All Coming Soon
     
     Explore More
@@ -70,9 +74,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Search for a 'Black Widow' Director Narrows to Three. Here's Everything We Know Read More
-    *   The Week in Movie News: 'The Witches' Remake On the Way, First 'Creed II' Trailer Arrives and More Read More
-    *   'Ant-Man and the Wasp': A Character Guide Read More
+    *   'Jurassic World: Fallen Kingdom' Stomps to Top of Box Office Charts Read More
+    *   'Spider-Man: Homecoming' Sequel Now Has a Title. Here's Everything We Know Read More
+    *   Chris Pratt's Next 3 Movies: 'The Lego Movie 2,' 'Cowboy Ninja Viking,' 'Guardians of the Galaxy Vol. 3' Read More
     
     Explore Content
     *   Movie Reviews
@@ -317,6 +321,10 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
+*   WELCOME TO THE SUMMER OF MORE
+    
+    EARN 150 VIP+ POINTS FOR EVERY TICKET YOU BUY. 600 VIP+ Points unlocks a $6 reward. SEE DETAILS
+    
 *   'Jurassic World: Fallen Kingdom' Gift With Purchase
     
     Receive a FREE\* exclusive 'Jurassic World: Fallen Kingdom' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
@@ -325,13 +333,9 @@ Offers
     
     Choose 1 of 2 FREE\* posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
-*   'Ocean's 8' Gift With Purchase
+*   'Ant-Man and The Wasp' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Ocean's 8' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
-    
-*   'Skyscraper' Gift With Purchase
-    
-    Receive a FREE\* 'Skyscraper' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 
 New + Coming soon
@@ -379,4 +383,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
