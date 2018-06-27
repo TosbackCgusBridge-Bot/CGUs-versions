@@ -1,4 +1,4 @@
-close dialogONLY $1 FOR 3 MONTHSSubscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%
+SUBSCRIBE NOWOnly $1 for 3 months.
 
 *   Home
 *   News
@@ -75,7 +75,7 @@ close dialogONLY $1 FOR 3 MONTHSSubscribeclose dialogSUBSCRIBE NOW99¢ per month
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending Now14+ celebrity sightings at Sunday's protestImmigrationProtest at Tornillo tent city draws celebritiesImmigrationEl Pasoans launch upscale Mexican clothing lineBusinessFormer Texas couple choked, caged children: ProsecutorNewsParents released, seek their separated childrenImmigrationGirls, separated kids being held at TornilloImmigrationHoy, Taylor, Rochelle bring big resumes to UTEPCollegeA war hero House candidate's new ad wins praiseNewsStudy: El Paso good city to buy a homeBusinessFather, son arrested in 2016 cold case murderCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowHave you seen El Paso's most wanted fugitives?CrimeEl Paso has the worst drivers: ReaderOpinionJewish section of Concordia Cemetery vandalizedNewsCouncil moves forward with controversial planLocalHead of Tornillo site says separations 'stupid'NewsSuspect in slaying of ex-girlfriend arrestedCrimeJuárez pinched by waves of migrants, deporteesLocalFort Bliss, Goodfellow to house immigrantsNewsEl Paso lawyer appointed justice of the peaceLocalEl Pasoans launch upscale Mexican clothing lineBusinessHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,5 +145,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogONLY $1 FOR 3 MONTHSSubscribeclose dialogclose dialogONLY $1 FOR 3 MONTHSFOURTH OF JULY SALE ON NOWSubscribe No thanksSale Ends 7/5 | Cancel Anytimeclose dialog
