@@ -230,7 +230,17 @@ View more results
     *   Sports
 *   For you
     
-    My last played games
+    Recommended Games
+    
+    *   World of Warships
+    *   Call Of War: Multiplayer Army Game
+    *   World of Tanks
+    *   Madalin Stunt Cars 2
+    *   Geometry Neon Dash
+    *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Bubble Shooter HD
+    *   Solitaire FRVR
+    *   Uphill Rush 7: Waterpark
     
     FAVE GAMES
     
