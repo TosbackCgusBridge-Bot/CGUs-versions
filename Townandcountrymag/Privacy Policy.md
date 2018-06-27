@@ -55,7 +55,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Vacation Inspiration: 10 Places to Go in August 2 The Jack Rogers Sandals You Need for the Summer 3 The 40 Most Expensive Colleges in the Country 4 The Weekly Covet: Summer Travel Essentials 5 The Best Hats at Royal Ascot Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Vacation Inspiration: 10 Places to Go in August 2 The Death of the Top Sheet 3 The 40 Most Expensive Colleges in the Country 4 The Weekly Covet: Summer Travel Essentials 5 The Best Hats at Royal Ascot Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
