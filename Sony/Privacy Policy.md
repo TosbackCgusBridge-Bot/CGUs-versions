@@ -145,7 +145,7 @@ Play Watch an Epic Unboxing of Video hotspot
 
 One man has no equal. Watch the #TheEqualizer2 trailer, in theaters July 20.
 
-34 seconds ago
+1 day ago
 
 View Tweet
 
