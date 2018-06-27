@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jonathan Blitzer_: The Humanitarian Crisis on the Border Could Worsen
+*   _Jonathan Turley_: A Welcome Return to Basic Principles of Legal Process
     
-*   _Byron York_: Will Trump Waste Another Chance to Build the Wall?
+*   _Noah Feldman_: A Decision That Will Live in Infamy
     
-*   _Adriana Cohen_: How Many Republican Owners Kicked Out Obama Aides?
+*   _David Harsanyi_: Dear Judd &. Kumail: You Have No Idea What Nazis Were
     
-*   _Zack Beauchamp_: A Little Impoliteness Could Be What America Really Needs
+*   _Goldie Taylor_: For Sarah Sanders &. Her Ilk, Shame Trumps Civility
     
-*   _Wesley Yang_: Harvard Is Wrong That Asians Have Terrible Personalities
+*   _Jeffrey Lord_: Unmasked: America's Real Fascists
     
-*   _Robert Samuelson_: We're Going to Lose This Trade War
+*   _Jamelle Bouie_: Donald Trump Is Still Not Popular
     
-*   _Irwin Stelzer_: Trump Knows U.S. Holds a Winning Hand on Trade
+*   _Julian Zelizer_: Trump's Approval Rating Shows He's Stronger Than Dems Think
     
-*   _Gabriel DeBenedetti_: Barack Obama, Where Are You?
+*   _Tristan Brown_: The Subversive Legal Crusade Against Fossil Fuel Production
     
-*   _Andrew Ferguson_: The Obama WH: They Literally Learned Nothing
+*   _Joe Garofoli_: Kamala Harris's New Litmus Test: What to Do About ICE?
     
-*   _Adam Serwer_: Is Ben Jealous What Progressives Want?
+*   _Victor Davis Hanson_: Mexico - What Went Wrong?
     
-*   _Samuel Abrams_: California Is Not a Lost Cause for Republicans
+*   _Sam Quinones_: Tijuana: Where the Wall Worked
     
-*   _Victor Davis Hanson_: Why This Border Psychodrama Will Also Pass
+*   _Margaret Wente_: Migration Crisis Will Shatter Europe
     
-*   _Dean Obeidallah_: Why Sarah Sanders Was Asked to Leave a Restaurant
+*   _Matthew Fleischer_: You Can't Shame the Shameless
     
-*   _Lauren Appell_: Red Hen, Political Correctness and a Lesson on 'Tolerance'
+*   _Gary Abernathy_: Turns Out Trump Country Is More Tolerant Than the Left
     
-*   _Margaret Talbot_: The Trump Administration's Family Values
+*   _Zephyr Teachout_: ICE Is a Tool of Illegality. It Must Be Abolished
     
-*   _Roger Simon_: Why Liberals Are Having a Nervous Breakdown
+*   _Rich Lowry_: Dems Once Again Prove They're Out of Touch on Immigration
     
-*   _Sens. Merkley &. Van Hollen_: Zero Tolerance Is a Zero Humanity Policy
+*   _Gallagher &. Moltke_: The NSA's Hidden Spy Hubs in Eight U.S. Cities
     
-*   _Gramm &. Ekelund_: How Income Equality Helped Trump
+*   _Lee Smith_: 7 Mysterious Preludes to FBI's Trump-Russia Probe
     
-*   _Jagoda Marinic_: Trump Is Saving Germany's Liberals
+*   _Abigail Tracy_: How Mike Pompeo Trumpified the State Department
     
-*   _Andreas Illmer_: North Korean Propaganda Changes Its Tune on U.S.
+*   _Walter Russell Mead_: Pompeo on What Trump Wants
     
-*   _Sharyl Attkisson_: What Did Peter Strzok Do?
+*   _Semih Idiz_: Erdogan Faces Uphill Battle Despite Electoral Victory
     
-*   _Yascha Mounk_: The Rise of McPolitics
+*   _Zev Chafets_: Trump's New Deal for the Middle East
     
-*   _Derek Robertson_: Washington, DC: Psychopath Capital of America
+*   _Michael Wirth_: The Tragic Cost of Energy Poverty
     
-*   _Jonathan Tobin_: The Illegal Immigration Debate Dems Don't Want
+*   _Nick Hanauer_: Want to Expand the Economy? Tax the Rich!
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Supreme Court Upholds Trump Travel Ban in 5-4 Decision
 *   Trump Slams Restaurant That Booted Sanders
-*   Republican Leaders Eye New Bill on Family Separations at Border
-*   Johnson: I Admit Obama Admin Detained Kids, "It Was Necessary"
-*   In Visit to Border, Melania Trump Dons "I Really Don't Care, Do U?" Jacket
-*   Charles Krauthammer, Conservative Columnist and Pundit, Dies at 68
+*   Scarborough: Racism Is the Central Driving Principle of Trump Presidency
+*   High Court Accepts Texas Voting Maps in Blow to Democrats
+*   Arrington Will Return to House Race in SC After Crash
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,27 +247,27 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Florida Senate - Scott vs. NelsonCBS News/YouGov
-    *   Scott46
-    *   Nelson41Scott +5
-*   Arizona Senate - Republican PrimaryEmerson
-    *   McSally32
-    *   Ward19
-    *   Arpaio18McSally +13
-*   Arizona Senate - McSally vs. SinemaCBS News/YouGov
-    *   Sinema45
-    *   McSally37Sinema +8
-*   Arizona Senate - McSally vs. SinemaEmerson
-    *   Sinema40
-    *   McSally32Sinema +8
+*   Florida Senate - Scott vs. NelsonNBC News/Marist
+    *   Scott45
+    *   Nelson49Nelson +4
+*   Arizona Senate - Republican PrimaryNBC News/Marist
+    *   McSally30
+    *   Ward28
+    *   Arpaio21McSally +2
+*   Arizona Senate - McSally vs. SinemaNBC News/Marist
+    *   Sinema49
+    *   McSally38Sinema +11
+*   Arizona Senate - Ward vs. SinemaNBC News/Marist
+    *   Sinema48
+    *   Ward38Sinema +10
 
 More Latest Polls In The News
 
-*   Trump: We Want Strong Border And No Crime, Dems Want Open Borders And Don't Care About Crime
+*   Trump: Democrats Have "Become The Party Of Maxine Waters And Nancy Pelosi"
+*   Schumer to Maxine Waters: No One Should Call For Harassment Of Political Opponents. "Not American"
+*   Michael Steele: Maxine Waters Stepped In It Trying To Do Trump, Only Person Who Can Do Trump Is Trump
 *   Sen. Kamala Harris: Time To "Reexamine ICE And Its Role"
 *   NBC's Elise Jordan on Sarah Sanders: Should Someone Who Enables Trump's Lies Be Openly Welcomed In Society?
-*   George Takei: Immigrant Detention, Family Separation Is A "New Low" In American History
-*   Obama DHS Sec. Jeh Johnson: I Freely Admit We Detained Children, "It Was Necessary"
 
 *   Politics
 *   Policy
