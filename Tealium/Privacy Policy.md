@@ -3,6 +3,7 @@
     *   Tealium EventStream API Hub
     *   Tealium AudienceStream CDP
     *   Tealium DataAccess
+    *   Tealium For Mobile
 *   Solutions
     *   Mobile
     *   Identity Resolution
@@ -44,6 +45,7 @@
     *   Tealium EventStream API Hub
     *   Tealium AudienceStream CDP
     *   Tealium DataAccess
+    *   Tealium For Mobile
 *   Solutions
     *   Mobile
     *   Identity Resolution
