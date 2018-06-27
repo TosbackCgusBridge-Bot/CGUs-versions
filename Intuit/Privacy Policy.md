@@ -1,9 +1,29 @@
-Loading.. DAY 1 OF COUPON CODE 7GOSHOP ENDS IN
+Loading.. DAY 2 OF COUPON CODE 7GOSHOP ENDS IN
 
 \*offer ends 6/27/18
 
-Days 0 0 0 0 hours 4 4 0 0 mins 5 5 6 5 secs BUY 1 GET 2 FREE ON WOMEN'S SANDALSShop All BUY 1 GET 2 FREE ON WOMEN'S SANDALSShop All
+Days 0 0 0 0 hours 4 4 0 0 mins 5 5 4 3 secs BUY 1 GET 2 FREE ON WOMEN'S SANDALSShop All BUY 1 GET 2 FREE ON WOMEN'S SANDALSShop All
 
+*   LIMITED TIME SPECIAL!
+    
+    $54
+    
+    a.n.a Meadow Womens Wedge Sandals(84)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $42
+    
+    St. John's Bay Inez Womens Slide Sandals(44)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $42
+    
+    St. John's Bay Zion Womens Strap Sandals(46)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $47
+    
+    St. Johns Bay Ninette Womens Sandal(73)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $60
@@ -21,29 +41,9 @@ Days 0 0 0 0 hours 4 4 0 0 mins 5 5 6 5 secs BUY 1 GET 2 FREE ON WOMEN'S SANDALS
     Liz Claiborne Eclipse Womens Heeled Sandals(30)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $47
+    $54
     
-    Arizona Carmen Womens Wedge Sandals(17)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $29
-    
-    east 5th Rousay Womens Flat Sandals(33)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $42
-    
-    Pop Calley Womens Strap Sandals(15)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $37
-    
-    Arizona Sutton Womens Flat Sandals(28)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $64
-    
-    Pop Evie Womens Wedge Sandals(11)Add To Cart
+    Yuu Hermina Womens Strap Sandals(33)Add To Cart
 
 50 - 60% OFF SELECT SWIM FOR THE FAMILYShop All50 - 60% OFF SELECT SWIM FOR THE FAMILYShop AllSAVE ON LUGGAGEShop AllSAVE ON LUGGAGEShop All
 
@@ -56,23 +56,21 @@ Days 0 0 0 0 hours 4 4 0 0 mins 5 5 6 5 secs BUY 1 GET 2 FREE ON WOMEN'S SANDALS
 *   $94.99 sale
     
     was $239 Rockland Journey 4-pc. Luggage Set(3)Add To Cart
-*   $35.99 sale
-    
-    was $48 JanSport® SuperBreak® Backpack(113)Add To Cart
-*   $183.99 sale
-    
-    was $460 Travelers Club Beijing 3-pc. Luggage Set(1)Add To Cart
-*   $47.99 sale
-    
-    was $64 JanSport® Big Student Backpack(79)Add To Cart
 *   $199.99 sale
     
     was $400 American Tourister Pop Plus 3-pc. Luggage Set(27)Add To Cart
-*   LIMITED TIME SPECIAL!
+*   $183.99 sale
     
-    $175.99 sale
+    was $460 Travelers Club Beijing 3-pc. Luggage Set(1)Add To Cart
+*   $35.99 sale
     
-    was $440 American Flyer Signature 4-pc. Expandable Upright Luggage Set(14)Add To Cart
+    was $48 JanSport® SuperBreak® Backpack(113)Add To Cart
+*   $47.99 sale
+    
+    was $64 JanSport® Big Student Backpack(79)Add To Cart
+*   $159.99 sale
+    
+    was $400 DUKAP Crypto Lightweight Hardside 3 piece set 20''/28''/32''Add To Cart
 
 Shop and Save at JCPenney
 
