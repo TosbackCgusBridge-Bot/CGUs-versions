@@ -40,8 +40,7 @@ Skip to main content
             3.  FandangoFandangoThe nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide.Fandango
             4.  GolfNowGolfNowUses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times.GolfNow
             5.  HuluHuluA premium streaming TV destination that seeks to captivate and connect viewers with the stories they love.Hulu
-            6.  PrivPrivPRIV is a mobile and web platform that delivers vetted beauty and wellness professionals to your location. Priv
-            7.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
+            6.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
         4.  Film
             
             1.  DreamWorks AnimationDreamWorks AnimationDreamWorks Animation
@@ -108,7 +107,6 @@ Skip to main content
                 *   Fandango
                 *   GolfNow
                 *   Hulu
-                *   Priv
                 *   SportsEngine
             *   FILM
                 *   DreamWorks Animation
@@ -341,4 +339,4 @@ For any questions or complaints about this Privacy Policy or our privacy practic
 *   Supply Chain Values
 *   Terms of Service
 
-© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/4163351" height="1" width="1" alt="" /></a></div>.
+© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/855930" height="1" width="1" alt="" /></a></div>.
