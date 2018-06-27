@@ -74,7 +74,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'Jurassic World: Fallen Kingdom' Stomps to Top of Box Office Charts Read More
+    *   The First 'The Predator' Trailer Has Arrived. Here's Everything We Know Read More
     *   'Spider-Man: Homecoming' Sequel Now Has a Title. Here's Everything We Know Read More
     *   Chris Pratt's Next 3 Movies: 'The Lego Movie 2,' 'Cowboy Ninja Viking,' 'Guardians of the Galaxy Vol. 3' Read More
     
