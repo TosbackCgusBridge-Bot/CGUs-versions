@@ -2,7 +2,6 @@ Sign In
 
 *   Sign In
 *   About
-*   Blog
 *   Help
 
 Privacy Policy
