@@ -68,7 +68,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 48%  48%  48%  6% 
+What is PeekScore? Public Records &. Background Checks 50%  50%  50%  7% 
 
 *   Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -155,53 +155,53 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 48%  Twitter 6% 
+Facebook 50%  Twitter 7% 
 
-*   NIH - NIH
-    
 *   CDC - CDCgov
     
-*   Francis S. Collins - NIHDirector
+*   NIH - NIH
     
-*   USAO MDTN - USAO\_MDTN
-    
-*   Show More ...
-
-*   HHS.gov - HHSGov
-    
-*   HIV.gov - HIVGov
+*   The Dark Tangent - thedarktangent
     
 *   Free Privacy Policy - FreePrivacy1
     
+*   Show More ...
+
 *   CDC\_eHealth - CDC\_eHealth
+    
+*   Bush Library - Bush41Library
+    
+*   Microsoft Privacy - MSFTPrivacy
+    
+*   HIV.gov - HIVGov
     
 *   Mabuhay Miles - PALMabuhayMiles
     
-*   U.S. Census Bureau - uscensusbureau
-    
 *   FTC - FTC
+    
+*   HTC USA - HTCUSA
     
 *   U.S. FDA - FDArecalls
     
-*   Alex Azar - SecAzar
-    
-*   U.S. FDA - US\_FDA
-    
-*   Justice Department - TheJusticeDept
+*   U.S. Census Bureau - uscensusbureau
     
 *   Federal Reserve - federalreserve
     
+*   HHS.gov - HHSGov
+    
 *   Cristiano Ronaldo - Cristiano
-    
-*   Aeva Has Updated Her Privacy Policy - ladyaeva
-    
-*   OAIC - OAICgov
     
 *   HealthCare.gov - HealthCareGov
     
+*   Aeva Has Updated Her Privacy Policy - ladyaeva
+    
+*   Justice Department - TheJusticeDept
+    
+*   OAIC - OAICgov
+    
 *   Show Less ...
 
-Instagram 6% 
+Instagram 7% 
 
 *   � - \_privacy.\_.policy\_\_
     
@@ -209,27 +209,23 @@ Instagram 6% 
     
 *   i’ve updated my privacy policy - illusivemie
     
-*   agrim jain - \_agrimjn
+*   I’ve Updated My Privacy Policy - izabelka.bb
     
 *   Show More ...
 
 *   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
     
-*   blah blah blah - privacypolicy\_\_1234
-    
-*   I’ve Updated My Privacy Policy - izabelka.bb
-    
-*   Djavid Johnson - \_privacy\_policy
+*   Djavid - \_privacy\_policy
     
 *   Karen McDowall - privacy\_\_\_policy
     
 *   Privacy Policy - insta\_privacy\_policy
     
-*   Рогов Хуго - privacypolicy
+*   blah blah blah - privacypolicy\_\_1234
     
 *   privacy&policy - privacyandpolicy
     
-*   privacy policy - szymonwlog
+*   Рогов Хуго - privacypolicy
     
 *   Privacy Policy. - privacypolicy.6974
     
@@ -237,35 +233,35 @@ Instagram 6% 
     
 *   police instagram - privacy\_\_policy\_\_
     
-*   updated privacy policy ߑ࠭ chemically\_balanced\_memes
+*   privacy policy - daa\_mesh
+    
+*   privacy policy - szymonwlog
     
 *   Private - \_privacypolicy\_\_
     
-*   our privacy policy was updated - just.eliza.schuyler
+*   privacy policy issues - harimauz
     
-*   Chunky Blunt Assailants - \_policy\_privacy
+*   our privacy policy was updated - just.eliza.schuyler
     
 *   privacy policy - privacy\_policy6
     
-*   Newly updated privacy policy - mightylunchtray
-    
 *   Terms. &. Privacy Policy - terms.privacypolicy
     
-*   Instagram Privacy Policy - ig\_privacy\_policy\_company
+*   Chunky Blunt Assailants - \_policy\_privacy
+    
+*   saba - termsg\_privacypolicy
     
 *   PrivacyPolicy - privacypolicy4020
     
 *   privacypolicy - privacypolicy4072
     
-*   Privacy Policy❌☠️ - prv.kennochakt
-    
-*   saba - termsg\_privacypolicy
+*   updated privacy policy ߑ࠭ chemically\_balanced\_memes
     
 *   Privacypolicy - privacypolicy786
     
 *   Show Less ...
 
-Myspace 6% 
+Myspace 7% 
 
 *   Privacy Policy - 49086242
     
@@ -289,7 +285,7 @@ Myspace 6% 
     
 *   Show Less ...
 
-Pinterest 48%  Wikipedia 6% 
+Pinterest 50%  Wikipedia 7% 
 
 *   Jumper
     
@@ -304,14 +300,18 @@ Pinterest 48%  Wikipedia 6% 
     Purpose. As the World Wide Web became a genuine medium in which to sell products and services, electronic commerce websites tried to collect more information about the people who purchased their merchandise.
     
 
-Google+ 6% 
+Google+ 7% 
 
 *   Privacy Policy - Google+
     
     This Privacy Policy (later "Policy") describes ways of collecting and use of the information, including personal information (later "information"), that you provide or ...
     
+*   PRIVACY POLICY KIDS TRACE NUMBERS 1 TO 10 - Google+
+    
+    We will not use or share your information with anyone except as described in this Privacy Policy. We use your Personal Information for providing and improving ...
+    
 
-Music 6% 
+Music 7% 
 
 *   Pandora
     
@@ -357,7 +357,7 @@ Music 6% 
     
 *   Show Less ...
 
-Photo Albums 6% 
+Photo Albums 7% 
 
 *   Flickriver
     
@@ -372,11 +372,11 @@ Photo Albums 6% 
     Flickriver - view images as a 'river of photos' and more...
     
 
-Web Search 48%  Images 6% 
+Web Search 49%  Images 7% 
 
 20
 
-27
+26
 
 1
 
