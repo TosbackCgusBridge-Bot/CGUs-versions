@@ -726,7 +726,7 @@ For American Girl:
     email: service@americangirl.com
     
 
-Back to Top Back to Top mattel  
+Takaisin alkuun Back to Top mattel  
 XXXX  
 dev  
 left  
