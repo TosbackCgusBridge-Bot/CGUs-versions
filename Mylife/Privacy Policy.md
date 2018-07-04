@@ -63,7 +63,7 @@ Find Anyone:
 
 We Value Your Privacy
 
-When you sign up at MyLife, we ask you to tell us a bit about yourself to enhance your site experience. We will never share your data or post anything to your Facebook account. It's a promise
+MyLife aggregates publicly available information from government, social, and other sources, plus personal reviews written by others. This third-party data is then indexed through methods similar to those used by Google or Bing to create a listing. Because MyLife only collects this data and does not create it, we cannot fully guarantee its accuracy
 
 Copyright ©2018 MyLife.com®, Inc. | User Agreement | Privacy Policy
 
@@ -77,4 +77,4 @@ User Agreement | Privacy Policy Copyright ©2018 MyLife.com, Inc.
 
 \* The other websites referenced on this site are owned and operated by their respective companies, and the associated trademarks and logos are the property of those companies. Links are provided for reference only and MyLife.com® does not imply any connection or relationship between MyLife.com® and these companies.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1638917393081241&amp;ev=PageView&amp;noscript=1">. <img src="//pixel.quantserve.com/pixel/p-Je7HEss8EuAcv.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>.
+<img src="//pixel.quantserve.com/pixel/p-Je7HEss8EuAcv.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1638917393081241&amp;ev=PageView&amp;noscript=1">
