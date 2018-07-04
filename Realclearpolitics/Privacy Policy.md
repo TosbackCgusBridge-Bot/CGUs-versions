@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jonathan Turley_: A Welcome Return to Basic Principles of Legal Process
+*   _David Harsanyi_: The System Doesn't Need 'Fixing' Every Time Dems Lose
     
-*   _Noah Feldman_: A Decision That Will Live in Infamy
+*   _Eugene Robinson_: GOP Trying to Make Democrats Self-Implode
     
-*   _David Harsanyi_: Dear Judd &. Kumail: You Have No Idea What Nazis Were
+*   _Steve Cortes_: 4 Reasons Trump Should Nominate Amy Barrett
     
-*   _Goldie Taylor_: For Sarah Sanders &. Her Ilk, Shame Trumps Civility
+*   _Holly Bailey_: Supreme Court Fight Roils North Dakota Senate Race
     
-*   _Jeffrey Lord_: Unmasked: America's Real Fascists
+*   _William Murchison_: Roe v. Wade &. the Confusion of Senator Collins
     
-*   _Jamelle Bouie_: Donald Trump Is Still Not Popular
+*   _Tyler Cowen_: America's Unhealthy Obsession With the Supreme Court
     
-*   _Julian Zelizer_: Trump's Approval Rating Shows He's Stronger Than Dems Think
+*   _Matthew Schmitz_: Trump's 'Purple' Family Values
     
-*   _Tristan Brown_: The Subversive Legal Crusade Against Fossil Fuel Production
+*   _Amanda Marcotte_: Flagrant Sexism Fuels Trump's 'Purple Family Values'
     
-*   _Joe Garofoli_: Kamala Harris's New Litmus Test: What to Do About ICE?
+*   _Andrew Klavan_: The Left's Toxic Race-Mongering
     
-*   _Victor Davis Hanson_: Mexico - What Went Wrong?
+*   _Zephyr Teachout_: Why Abolishing ICE Is a Constitutional Imperative
     
-*   _Sam Quinones_: Tijuana: Where the Wall Worked
+*   _Tom Rogan_: Trump Right to Criticize NATO Allies on Defense Spending
     
-*   _Margaret Wente_: Migration Crisis Will Shatter Europe
+*   _Spike Bowman_: Our Future National Security Leaders in Classrooms Today
     
-*   _Matthew Fleischer_: You Can't Shame the Shameless
+*   _Sen. Dianne Feinstein_: Four Months To an Election, Let Voters Speak
     
-*   _Gary Abernathy_: Turns Out Trump Country Is More Tolerant Than the Left
+*   _J.D. Vance_: The Case for Brett Kavanaugh
     
-*   _Zephyr Teachout_: ICE Is a Tool of Illegality. It Must Be Abolished
+*   _Hugh Hewitt_: The Case for Raymond Kethledge
     
-*   _Rich Lowry_: Dems Once Again Prove They're Out of Touch on Immigration
+*   _Scott Jennings_: The Case for Amul Thapar
     
-*   _Gallagher &. Moltke_: The NSA's Hidden Spy Hubs in Eight U.S. Cities
+*   _Matt Lewis_: The Supreme Court Pick Liberals Will Troll Hardest
     
-*   _Lee Smith_: 7 Mysterious Preludes to FBI's Trump-Russia Probe
+*   _Maria Svart_: After Ocasio-Cortez's Win, Socialists Are Just Getting Started
     
-*   _Abigail Tracy_: How Mike Pompeo Trumpified the State Department
+*   _Richard Cohen_: Chatter About Socialism Could Bring Dems More Defeat
     
-*   _Walter Russell Mead_: Pompeo on What Trump Wants
+*   _Rep. Mark Pocan_: We Must Abolish ICE
     
-*   _Semih Idiz_: Erdogan Faces Uphill Battle Despite Electoral Victory
+*   _Dov Fischer_: The Glory of Timely Leftist Overreach
     
-*   _Zev Chafets_: Trump's New Deal for the Middle East
+*   _Enrique Krauze_: How Obrador Can Turn His Victory Into Mexico's Triumph
     
-*   _Michael Wirth_: The Tragic Cost of Energy Poverty
+*   _John Davidson_: Mexico's New President Isn't a Threat - Its Collapse Is
     
-*   _Nick Hanauer_: Want to Expand the Economy? Tax the Rich!
+*   _Bernard Hudson_: America Wins If Houthi Rebels Lose in Yemen
     
 
 *   Previous
@@ -228,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Supreme Court Upholds Trump Travel Ban in 5-4 Decision
-*   Trump Slams Restaurant That Booted Sanders
-*   Scarborough: Racism Is the Central Driving Principle of Trump Presidency
-*   High Court Accepts Texas Voting Maps in Blow to Democrats
-*   Arrington Will Return to House Race in SC After Crash
+*   Trump Interviews 4 Candidates for High Court, as White House Mobilizes
+*   With Little Leverage on Court Pick, Dems Eye Plan B
+*   Leo: Trump Will Continue Trend Toward Originalist, Textualist Justices
+*   In Republican Bastion Kansas, 2 Congressional Seats in Play
+*   Court Decisions Provide Republicans With Midterm Rallying Cry
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,27 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Florida Senate - Scott vs. NelsonNBC News/Marist
-    *   Scott45
-    *   Nelson49Nelson +4
-*   Arizona Senate - Republican PrimaryNBC News/Marist
-    *   McSally30
-    *   Ward28
-    *   Arpaio21McSally +2
-*   Arizona Senate - McSally vs. SinemaNBC News/Marist
-    *   Sinema49
-    *   McSally38Sinema +11
-*   Arizona Senate - Ward vs. SinemaNBC News/Marist
-    *   Sinema48
-    *   Ward38Sinema +10
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve40
+    *   Disapprove55Disapprove +15
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove51Disapprove +3
+*   Nevada Senate - Heller vs. RosenGravis
+    *   Rosen45
+    *   Heller41Rosen +4
+*   Nevada Governor - Laxalt vs. SisolakGravis
+    *   Sisolak41
+    *   Laxalt43Laxalt +2
 
 More Latest Polls In The News
 
-*   Trump: Democrats Have "Become The Party Of Maxine Waters And Nancy Pelosi"
-*   Schumer to Maxine Waters: No One Should Call For Harassment Of Political Opponents. "Not American"
-*   Michael Steele: Maxine Waters Stepped In It Trying To Do Trump, Only Person Who Can Do Trump Is Trump
-*   Sen. Kamala Harris: Time To "Reexamine ICE And Its Role"
-*   NBC's Elise Jordan on Sarah Sanders: Should Someone Who Enables Trump's Lies Be Openly Welcomed In Society?
+*   Scarborough: The "New World Order" Trump Fears And Attacks Was Really "American World Order" All Along
+*   Jennifer Rubin: Sarah Sanders Deserves "Life Sentence" Of Harassment After Role In Trump Admin
+*   Sarah Sanders: Democrats Have No Message, No Solutions Except Attacking Trump And His Supporters
+*   Chuck Todd: Despite Unpopularity, Trump Is "Winning" While Democrats Are "Reeling"
+*   Michael Moore Calls For Million People To Protest Trump Supreme Court Pick, Surround U.S. Capitol
 
 *   Politics
 *   Policy
