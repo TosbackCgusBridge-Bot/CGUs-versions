@@ -46,7 +46,7 @@ menu Close 0 Free Shipping on $50+
     
     BLOG
     *   The Journal
-*   Women SHOP BY SIZE RANGE
+*   Women WOMEN'S SALE >. SHOP BY SIZE RANGE
     
     *   Regular
     *   Petite
@@ -60,7 +60,6 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   The Starfish Collection
     *   Tunic Shop
-    *   Sale
     
     WOMEN'S CLOTHING >.
     
@@ -97,7 +96,7 @@ menu Close 0 Free Shipping on $50+
     *   Hats
     *   Small Accessories
     *   Gloves
-*   Men SHOP BY SIZE RANGE
+*   Men MEN'S SALE >. SHOP BY SIZE RANGE
     
     *   Regular
     *   Tall
@@ -109,7 +108,6 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   Sale
     
     MEN'S CLOTHING >.
     
@@ -130,7 +128,7 @@ menu Close 0 Free Shipping on $50+
     *   Pajamas &. Robes
     *   Underwear &. Long Underwear
     
-    MEN'S BAGS >. MEN'S SHOES>.
+    MEN'S BAGS >. MEN'S SHOES >.
     
     *   Athletic &. Water
     *   Casual
@@ -139,7 +137,7 @@ menu Close 0 Free Shipping on $50+
     *   Dress
     *   Slippers
     
-    MEN'S ACCESSORIES>.
+    MEN'S ACCESSORIES >.
     *   Belts
     *   Socks
     *   Ties
@@ -147,7 +145,7 @@ menu Close 0 Free Shipping on $50+
     *   Scarves
     *   Gloves
     *   Hats
-*   Kids Kid's Sale>. SHOP BY AGE RANGE
+*   Kids Kids' Sale>. SHOP BY AGE RANGE
     
     *   Toddler Girls (2T-4T)
     *   Little Girls (4-7)
@@ -171,7 +169,7 @@ menu Close 0 Free Shipping on $50+
     
     Girls' Clothing>.
     
-    *   SHOP GIRLS SALE
+    *   SHOP GIRLS' SALE
     *   Shop All Girls' Clothing
     *   Girls' Swimsuits
     *   Girls' Tops
@@ -194,7 +192,7 @@ menu Close 0 Free Shipping on $50+
     
     Boys' Clothing>.
     
-    *   SHOP BOYS SALE
+    *   SHOP BOYS' SALE
     *   Shop All Boys' Clothing
     *   Boys' Swimsuits
     *   Boys' Tops
@@ -266,9 +264,9 @@ menu Close 0 Free Shipping on $50+
     *   View All
     *   New Arrivals
     *   Canvas Totes
+    *   Backpacks &. Lunch Boxes
     *   Pouches &. Small Accessories
     *   Business &. Travel
-    *   Backpacks &. Lunch Boxes
     *   Diaper Bags
     *   Sale
     
@@ -335,7 +333,7 @@ menu Close 0 Free Shipping on $50+
     *   Shoes
     *   Accessories
     *   Backpacks &. Bags
-*   Home BATH >.
+*   Home HOME SALE >. BATH >.
     
     *   Beach Towels
     *   Rugs &. Mats
@@ -377,8 +375,7 @@ menu Close 0 Free Shipping on $50+
     FEATURED SHOPS
     *   New Arrivals
     *   Supima Bedding &. Bath
-    *   Bedding Basics
-    *   SaleDOG SHOP >.
+    *   Bedding BasicsDOG SHOP >.
 *   Sale WOMEN'S SALE >.
     
     *   Regular
@@ -446,6 +443,7 @@ menu Close 0 Free Shipping on $50+
 *   Women
     *   Back
     *   Shop all Women
+    *   WOMEN'S SALE
     *   SHOP BY SIZE RANGE
         *   Back
         *   Regular
@@ -459,7 +457,23 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   The Starfish Collection
         *   Tunic Shop
-        *   Sale
+    *   WOMEN'S CLOTHING
+        *   Back
+        *   View All
+        *   Swimsuits
+        *   Knit Tops &. Tees
+        *   Shirts &. Blouses
+        *   Sweaters
+        *   Dresses
+        *   Pants
+        *   Jeans
+        *   Shorts
+        *   Skirts
+        *   Coats &. Jackets
+        *   Blazers
+        *   Activewear
+        *   Pajamas &. Robes
+        *   Long Underwear
     *   WOMEN'S BAGS
     *   WOMEN'S SHOES
         *   Back
@@ -481,23 +495,10 @@ menu Close 0 Free Shipping on $50+
         *   Hats
         *   Small Accessories
         *   Gloves
-    *   Swimsuits
-    *   Knit Tops &. Tees
-    *   Shirts &. Blouses
-    *   Sweaters
-    *   Dresses
-    *   Pants
-    *   Jeans
-    *   Shorts
-    *   Skirts
-    *   Coats &. Jackets
-    *   Blazers
-    *   Activewear
-    *   Pajamas &. Robes
-    *   Long Underwear
 *   Men
     *   Back
     *   Shop all Men
+    *   MEN'S SALE
     *   SHOP BY SIZE RANGE
         *   Back
         *   Regular
@@ -509,7 +510,25 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
-        *   Sale
+    *   MEN'S CLOTHING
+        *   Back
+        *   View All
+        *   Swimwear
+        *   Polo Shirts
+        *   Knit Tops &. Tees
+        *   Pants
+        *   Shorts
+        *   Jeans
+        *   Casual Shirts
+        *   Dress Shirts
+        *   Sportcoats &. Blazers
+        *   Suiting
+        *   Sweaters
+        *   Coats &. Jackets
+        *   Fleece
+        *   Activewear
+        *   Pajamas &. Robes
+        *   Underwear &. Long Underwear
     *   MEN'S BAGS
     *   MEN'S SHOES
         *   Back
@@ -530,26 +549,10 @@ menu Close 0 Free Shipping on $50+
         *   Scarves
         *   Gloves
         *   Hats
-    *   Swimwear
-    *   Polo Shirts
-    *   Knit Tops &. Tees
-    *   Pants
-    *   Shorts
-    *   Jeans
-    *   Casual Shirts
-    *   Dress Shirts
-    *   Sportcoats &. Blazers
-    *   Suiting
-    *   Sweaters
-    *   Coats &. Jackets
-    *   Fleece
-    *   Activewear
-    *   Pajamas &. Robes
-    *   Underwear &. Long Underwear
 *   Kids
     *   Back
     *   Shop all Kids
-    *   Kid's Sale
+    *   Kids' Sale
     *   SHOP BY AGE RANGE
         *   Back
         *   Toddler Girls (2T-4T)
@@ -573,7 +576,7 @@ menu Close 0 Free Shipping on $50+
     *   Girls' Clothing
         *   Back
         *   View All
-        *   SHOP GIRLS SALE
+        *   SHOP GIRLS' SALE
         *   Shop All Girls' Clothing
         *   Girls' Swimsuits
         *   Girls' Tops
@@ -595,7 +598,7 @@ menu Close 0 Free Shipping on $50+
     *   Boys' Clothing
         *   Back
         *   View All
-        *   SHOP BOYS SALE
+        *   SHOP BOYS' SALE
         *   Shop All Boys' Clothing
         *   Boys' Swimsuits
         *   Boys' Tops
@@ -677,9 +680,9 @@ menu Close 0 Free Shipping on $50+
     *   View All
     *   New Arrivals
     *   Canvas Totes
+    *   Backpacks &. Lunch Boxes
     *   Pouches &. Small Accessories
     *   Business &. Travel
-    *   Backpacks &. Lunch Boxes
     *   Diaper Bags
     *   Sale
 *   Outerwear
@@ -748,6 +751,7 @@ menu Close 0 Free Shipping on $50+
 *   Home
     *   Back
     *   Shop all Home
+    *   HOME SALE
     *   BATH
         *   Back
         *   View All
@@ -793,7 +797,6 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Supima Bedding &. Bath
         *   Bedding Basics
-        *   Sale
     *   DOG SHOP
 *   Sale
     *   Back
@@ -873,9 +876,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 50% off all swimwear, water shoes and more!
+Receive 50% off all swimwear, water shoes and more. 30% off all other full-price styles!
 
-code: FISH pin: 2124 DETAILS
+code: SPARKLE pin: 7014 DETAILS
 
 Customer Service Menu
 
