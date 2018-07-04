@@ -1,278 +1,655 @@
-Terms of Use of BBC Online Services - Personal Use
+Terms of Use Terms of Use for the BBC’s digital services
 
-These terms were last updated on 1 September 2016
+Page updated: 3 July 2018 Version 1.4
 
-*   1\. What are these Terms of Use about?
-*   2\. What are BBC Online Services?
-*   3\. How can I use BBC Online Services?
-*   4\. Who owns or has rights in BBC Online Services and BBC Content?
-*   5\. How can I make contributions to the BBC?
-*   6\. What are the features of BBC Online Services and how do they work?
-*   7\. What obligations do I have under the terms?
-*   8\. How does the BBC use my personal information?
-*   9\. What are the BBC's legal obligations to me and how do the Terms limit the BBC's liability?
-*   10\. How can the BBC stop making BBC Online Services available to me and what happens if it does so?
-*   11\. What other (general) Terms of Use apply?
+*   Download the Terms of Use as a PDF
 
-1\. What are these Terms of Use about?
+Sections
 
-**1.1** **Why should I read these Terms of Use?**
+*   Hello
+*   When these terms apply
+*   What’s this about "services" and "content"?
+*   When other terms apply
+*   Child-friendly services and tools
+*   When you need a TV Licence
+*   Terms for using our services and content
+*   Using BBC content
+*   Shareables - what they are
+*   Shareables - what you can do
+*   Shareables - what you can't do
+*   Shareables - what you have to do
+*   Shareables - a thing we have to say
+*   Open-source software, open data and APIs
+*   Metadata
+*   Creations - what they are
+*   Creations - the terms
+*   Creations - what you can do with them
+*   Creations - what BBC can do with them
+*   Creations - what you can't send us
+*   Your BBC Account
+*   Mishaps
+*   External links
+*   BBC iPlayer
+*   Final stuff
 
-These terms of use ("**Terms of Use**") tell you how you may use BBC Online Services to access, view and/or listen to BBC Content for your personal and non-business use so please read them carefully.
+Hello
 
-Additional terms which vary or supplement these Terms of Use may apply to your access of some BBC Online Services ("**Additional Terms**"). If so, these Additional terms will be set out at the point of access to the relevant BBC Online Services. If there is any inconsistency between the Additional Terms for a particular BBC Online Service and the Terms of Use, the Additional Terms will prevail. These Terms of Use and any Additional Terms are collectively referred to as "**Terms**". The BBC may update the Terms from time to time so please review the relevant pages regularly. If you access BBC Online Services, you agree to be legally bound by whichever version of the Terms is in force at such time.
+These are the BBC’s terms of use. They tell you:
 
-These Terms of Use apply solely to non-business users of BBC Online Services. If you are accessing and/or using BBC Online Services in a business capacity, please read the Terms of Use of BBC Online Services for Business Users.  
+*   The rules for using our services
+*   What you can do with our content (share it, link to it, that sort of thing)
+*   What we can do with things you post or upload.
 
-**1.2 Who makes BBC Online Services available to me and what should I do if I have questions, comments, complaints or enquiries?**
+Your rights and responsibilities, basically – important stuff.
 
-BBC Online Services are made available to you by the British Broadcasting Corporation of Broadcasting House, Portland Place, London, W1A 1AA (the "**BBC**").
+We’ve kept them as short as possible, and we’ve made videos for the complicated bits. So do read them, and check in for updates as the latest version always applies (we’ll usually only make updates when we release a new service, change how we provide a service, or have to comply with a new legal requirement).
 
-Any reference in the Terms to "**you**" or "**your**" means you as a non-business user of BBC Online Services.
+Back to top When these terms apply
 
-If you have any questions about the Terms or your use of BBC Online Services then you may find the answer at the BBC Help page or the Frequently Asked Questions. If you cannot find the answer there, or if you have any comments or complaints about BBC Online Services, you can contact the BBC.
+Read these terms before using our services. Whenever you use our services you agree to these terms.
 
-If you receive any enquiries which relate to the BBC, any BBC Online Service and/or BBC Content, you should promptly refer such enquiries to the BBC.
+You’re also agreeing to stick to our:
 
-If you think that BBC Content and/or any BBC Online Service should not be appearing on a website, blog or service then please contact us. Contact us about BBC News content or contact us about any other content.  
+*   Privacy and cookies policy
 
-**1.3** **Should I read any other information or terms?**
+Read it too.
 
-Please also read the BBC's Privacy and Cookies Policy, which explains how the BBC uses any information about you that it receives. The Privacy and Cookies Policy form part of the Terms. If there is any inconsistency between the Privacy and Cookies Policy and the Terms, the Terms will prevail.
+If you don’t stick to all these terms then we can suspend or terminate your use of services and your account.
 
-Some BBC services may ask you to agree to Additional Terms or other terms of use which will apply to your use of that particular service.
+But first…
 
-Skip to top
+Back to top What’s this about "services" and "content"?
 
-2\. What are BBC Online Services?
+That’s media speak for:
 
-**2.1** In the Terms:
+**a. Services**
 
-"**BBC Online Service(s)**" are any BBC or other BBC-authorised internet services, websites, products and/or software applications that enable you to access, view and/or listen to BBC Content on compatible devices and are identified as "BBC Online Services" in Additional Terms. BBC Online Services include the website at bbc.co.uk, BBC iPlayer, BBC Embedded Media Player and BBC RSS Feeds.
+Anything digital offered by the BBC. Such as:
 
-"**BBC Content**" means audio, video, text, images or other content made available by the BBC to you through BBC Online Services and may sometimes include content which is owned or controlled by third parties which the BBC is permitted to make available to you through the relevant BBC Online Service.  
+*   Websites (like bbc.co.uk, BBC News)
+*   BBC iPlayer
+*   Apps (like BBC Sport, BBC News)
+*   Podcasts
+*   RSS feeds
+*   Red Button
 
-**2.2** **Availability of BBC Content**
+**b. Content**
 
-BBC Content is selected, edited, updated and made available to you by the BBC through BBC Online Services at its sole discretion. The period of time during which you may access, view and/or listen to BBC Content using BBC Online Services may vary. This is usually because of agreements which the BBC has with owners of rights in parts of BBC Content.
+Anything that’s available through those services. Including:
 
-**2.3** **BBC Editorial Control of BBC Content**
+*   TV and radio shows
+*   Text
+*   Audio
+*   Video
+*   Images
+*   Games
+*   Software
+*   Technical stuff such as metadata and open-source code
+*   Anything made by people using our services. User-generated content, that’s called.
 
-You acknowledge that the BBC has absolute editorial control over all BBC Content at all times.
+Back to top When other terms apply
 
-Skip to top
+**a. When you use services provided by BBC Worldwide or someone else**
 
-3\. How can I use BBC Online Services?
+When you use someone else's services or products, like a virtual reality headset, they will have terms for using them.
 
-**3.1 How you may use BBC Online Services**
+Some services are provided by BBC Worldwide. These will have their own terms.
 
-*   **3.1.1** If you comply with these Terms of Use and any applicable Additional Terms and with all relevant laws (for instance, copyright law), you may use BBC Online Services to access, view and/or listen to BBC Content for your personal and non-business use.
-*   **3.1.2** As mentioned above, these Terms of Use apply solely to non-business users of BBC Online Services. If you are a business user, please read the Terms of Use of BBC Online Services for Business Users.  
-    
+**b. When you use services where we tell you they apply**
 
-**3.2 How you may NOT use BBC Online Services**
+Like when you enter a competition. If there are extra terms, we’ll always let you know.
 
-*   **3.2.1** _If you are outside the UK_
-*   You may not access, view and/or listen to certain parts of BBC Content (such as video or live television services) using BBC Online Services if you are outside the UK, although you may, in accordance with the Terms, access and view bbc.co.uk or other websites and listen to some (but not all) BBC radio content. The types of BBC Content that may be available outside the UK will usually depend on the BBC's agreements with the persons who own rights in such content.
-*   **3.2.2** _If you do not have a valid television licence_
-*   When you need a TV licence:
-    *   To watch or record live TV programmes on any channel, or to watch or download BBC programmes on iPlayer when you're in the UK, the Channel Islands or the Isle of Man.
-    *   This could be on any device, including a TV, desktop computer, laptop, mobile phone, tablet, games console, digital box or DVD/VHS recorder.
-    *   If you're outside these areas you need to check if your country has its own TV licensing scheme.
-*   To find out more, visit tvlicensing.co.uk. Or call them on 0300 790 6071.
-*   **3.2.3** _General restrictions on how you may use BBC Online Services to access, view_ _and/or listen to BBC Content_
-    *   (a) You may not infringe or try to infringe the privacy or other rights of other BBC Online Services users. This includes you storing or trying to store personal data or usage details of other BBC Online Services users.
-    *   (b) You may not infringe any applicable law (for instance copyright law) when using BBC Online Services to access, view or listen to BBC Content.
-    *   (c) You may not subject the BBC Online Services and/or the BBC Content to any derogatory treatment or use them in such a way that would bring the BBC into disrepute (with reference to the BBC Guidelines), or cause the BBC to incur liability to any third party.
-    *   (d) You agree to use BBC Online Services and access, download, view and/or listen to BBC Content as supplied to you by the BBC and you may not, and you may not assist anyone to, or attempt to, reverse engineer, decompile, disassemble, adapt, modify, copy, reproduce, lend, hire, rent, perform, sub-license, make available to the public, create derivative works from, broadcast, distribute, commercially exploit, transmit or otherwise use in any way BBC Online Services and/or BBC Content in whole or in part except to the extent permitted in these Terms of Use, any relevant Additional Terms and at law.
-    *   (e) You may not directly or indirectly charge others for accessing, viewing or listening to any BBC Content, or commercialise or attempt to re-sell the BBC Content in any way, which includes advertising or selling any goods and services which offer BBC Content including any third party software applications.
-    *   (f) You may not directly or indirectly suggest any endorsement or approval by the BBC of a product or service (for instance, a personal website) or any non-BBC entity, product or content or any belief or opinion expressed within a product or service.
-    *   (g) You may not disrupt or try to disrupt BBC Online Services. You agree not to use BBC Online Services to distribute software viruses or other harmful programs, or use BBC Online Services to engage in harmful, harassing or otherwise objectionable activity, including activity inhibiting access to BBC Online Services by others.
-    *   (h) You may not harass or cause distress or inconvenience to any other person using BBC Online Services or transmit obscene or offensive content or disrupt the normal flow of dialogue within BBC Online Services, in particular, on BBC message boards and blogs.
-    *   (i) Additional Terms for particular BBC Online Services may allow you to display the BBC Content on your website, blog or other product or service, but you may not display BBC Content where it is on or in connection with Excluded Products or Services, namely products or services which: contain pornography and sexually explicit content;  
-        
-    
-    *   contain offensive text or images;
-    *   incite hatred whether based on race, religion, gender, sexuality or otherwise, or promote, encourage or facilitate anti-social behaviour;
-    *   contain gratuitous violence or promote, encourage or facilitate violence;
-    *   promote, encourage or facilitate terrorism or other activities that risk national security;
-    *   discriminate against any specific social group or otherwise exploit vulnerable sections of society;
-    *   promote, facilitate or encourage illegal activity;
-    *   are misleading, defamatory, or that contain illegal, or otherwise actionable content under UK law;
-    *   infringe individual privacy (based on the parameters laid down in the "Privacy" chapter of the BBC's Editorial Guidelines);
-    *   put the welfare of children at risk;
-    *   promote the tobacco industry or the armaments industry (including gun clubs);
-    *   where presence of a BBC application might be perceived as damaging the BBC's reputation for accuracy and impartiality (with reference to the BBC Guidelines). and
-    *   bring the BBC into disrepute (with reference to the BBC Guidelines).
-    
-    *   This list is not exhaustive and may be amended by the BBC from time to time (collectively referred to as "Excluded Products or Services").  
-        
+Back to top Child-friendly services and tools
 
-**3.4** **Parental Guidance**
+If you’re looking for something child-friendly, here are some good starting points:
 
-Some BBC Online Services offer a BBC Parental Guidance tool to parents who are concerned about the suitability of BBC Content for young audiences. The BBC also offers child-friendly online services such as CBeebies iPlayer and CBBC Online Services. BBC Content may contain content you consider indecent, objectionable or offensive, or which may not be suitable for young audiences. If you permit a child to use your device to access, view or listen to BBC Content on BBC Online Services you are solely responsible for deciding whether or not that BBC Content is appropriate for that child to view. If you are concerned about the suitability of BBC Content you should look at the BBC's "guidance labelling" information prior to accessing (or allowing children to access) BBC Content and/or where appropriate use the BBC Parental Guidance tool. Please be aware that if you do not set up BBC Parental Guidance anyone using your device will be able to view all available BBC Content, including guidance-labelled programmes.
+*   CBeebies
+*   CBeebies Playtime Island
+*   CBeebies iPlayer
+*   CBBC
+*   CBBC iPlayer
 
-**3.5** **Accessibility**
+Ultimately, it’s up to you to decide what’s suitable. But here are some tools that may help:
 
-The BBC is committed to making its content accessible by as many people as possible so BBC Online Services follows the BBC Online Accessibility Standards.
+*   To stop children accessing Guidance-labelled content, use the BBC Parental Guidance Lock.
+*   To teach children about staying safe online, try CBBC Stay Safe.
+*   For advice on how to keep your children safe online visit Internet Matters. On that site is how-to advice to activate parental controls for your devices, gaming consoles, broadband access and entertainment platforms around your home.
 
-Skip to top
+Back to top When you need a TV Licence
 
-4\. Who owns or has rights in BBC Online Services and BBC Content?
+You need to be covered by a TV Licence to watch or record live TV programmes on any channel, or to watch or download BBC programmes on iPlayer when you’re in the UK, the Channel Islands or the Isle of Man.
 
-**4.1 Rights in BBC Online Services and BBC Content**
+This could be on any device, including a TV, desktop computer, laptop, mobile phone, tablet, games console, digital box or DVD/VHS recorder.
 
-All copyright, trade marks, design rights, patents and other intellectual property rights (registered and unregistered) in and on BBC Online Services and BBC Content belong to the BBC and/or third parties (which may include you or other users). The BBC reserves all of its rights in BBC Content and BBC Online Services. Nothing in the Terms grants you a right or licence to use any trade mark, design right or copyright owned or controlled by the BBC or any other third party except as expressly provided in the Terms.
+If you’re outside these areas you need to check if your country has its own TV licensing scheme.
 
-**4.2 Digital Rights Management**
+Find out more about when you need a TV Licence.
 
-So that the BBC can meet its obligations to third parties who own rights in BBC Content, the BBC may embed digital rights management security in BBC Online Services or BBC Content and/or use other content-protection measures. You may not adjust or circumvent or try to adjust or circumvent these technical measures.
+Back to top Terms for using our services and content
 
-Skip to top
+A few rules to stop you (and us) getting in trouble.
 
-5\. How can I make contributions to the BBC?
+These apply to our services and content. One exception is content that’s made to be shared – “shareables” for short – which has some different, more relaxed rules. The rules about shareables are here.
 
-**5.1** The BBC may invite you to make, share or submit your own, original contributions to BBC Online Services. These Terms of Use and any Additional Terms for particular BBC Online Services set out the rules governing how you may do so and how the BBC may use your contribution. Your contribution may include text, photographs, graphics, video or audio.
+**a. Don’t mess with our services**
 
-**5.2** If you submit your contribution to the BBC you must allow the BBC to use the material in your contribution in any way it may reasonably choose on a free-of-charge basis in any media throughout the world. Any contributions you make may be moderated by the BBC which means they may be reviewed, edited and/or removed. The BBC reserves the right to remove any of your contributions if the BBC believes that they do not comply with the Terms.
+What do we mean by that? This sort of thing:
 
-**5.3** You grant the BBC the right to change or edit the materials in your contribution for operational and editorial reasons. The BBC may also share your contribution with trusted third parties, for instance with other users of BBC Online Services or, in the case of news-related material, the BBC may share your contribution with its overseas partners (for instance reputable foreign news broadcasters).
+*   Hacking them
+*   Trying to get around our content security technology (software that stops people copying our content)
+*   Accessing content from outside the UK that you aren’t allowed to, or helping others do the same. For example: using a VPN service so you can watch BBC iPlayer when you're outside the UK
+*   Refusing to remove content, games or apps from your device when we ask you to. This might happen when we take down services. Which we can do at any time, without notice.
 
-**5.4** Any copyright in your contribution will remain with you and this permission is not exclusive, so you can continue to use the material you contribute in any way including allowing others to use it.
+**b. Don’t harm or offend other people...**
 
-**5.5** You confirm that your contribution is your own original work, is not defamatory or unlawful and does not infringe anyone else's rights (including privacy rights) and that it complies with the Terms. You also confirm that your contribution is made in your personal (rather than business) capacity and that such contribution does not unfairly promote or further any business activities and has not been contributed for commercial gain. You also confirm that you have the consent of anyone who is identifiable in your contribution or the consent of their parent/guardian if they are under 16.
+...while using our services or content. That means:
 
-**5.6** We normally show your name with your contribution, unless you request otherwise, but for operational reasons this is not always possible.
+*   Don’t damage our reputation by associating us with sexism or racism, for instance
+*   Don’t get us sued – by defaming (damaging the reputation of) someone, say, or commenting on an active lawsuit
+*   Don’t harass or upset people
+*   Don’t post or upload anything offensive or obscene
+*   If you disagree with someone, attack the argument, not the person.
 
-**5.7** The BBC may need to contact you for administrative or verification purposes in relation to your contribution, or in relation to particular projects. For full details of when and how we may contact you please see the BBC's Privacy and Cookies Policy plus any specific local terms, where applicable.
+**c. Play it safe**
 
-**5.8** Please do not endanger yourself or others, take any unnecessary risks or break any laws when creating any content you may share with the BBC.
+When you watch or play an app or game, be aware of your surroundings and use your device safely.
 
-**5.9** As part of your contribution, the BBC may ask you to provide some personal information. Disclosure of this information shall be subject to terms set out in the BBC's Privacy and Cookies Policy. The BBC will keep your personal information secure and will only use it for the purposes specified in the Privacy and Cookies Policy. All personal information held by the BBC will be held in accordance with the terms of applicable data protection laws.
+Don’t use our 360° and virtual reality apps if you:
 
-**5.10** If you do not want to grant the BBC permission to use your contributions in accordance with the Terms, please do not share with or submit them to bbc.co.uk.
+*   Are pregnant
+*   Have consumed anything that may affect your balance
+*   Have (or have had) a medical condition, like binocular vision abnormalities, psychiatric disorders, seizures or a heart problem.
 
-**5.11** If you have any questions about contributing content to the BBC, please see our Frequently Asked Questions.  
+Make sure you’re in a safe place, preferably seated.
 
-Skip to top
+Stop immediately if you feel:
 
-6\. What are the features of BBC Online Services and how do they work?
+*   Sick
+*   Eye strain
+*   Dizziness
+*   Any discomfort.
 
-**6.1 BBC Online Services and your device**
+Don’t take part in any activities where you need to focus straight after, or if you feel slightly dazed or confused.
 
-You can use BBC Online Services on a variety of compatible devices. The Terms apply to your use of BBC Online Services on any device. BBC Online Services or some of the features and functionalities may not be available on all devices. The BBC makes no guarantee that all or any features of BBC Online Services will work on any particular device.
+**d. Don’t pretend to be the BBC**
 
-**6.2 Interacting with BBC Online Services and other BBC Online Services users**
+Except at fancy dress parties. That includes:
 
-If you interact with BBC Online Services and other users of BBC Online Services the BBC may need to use some of your personal information. Please read the Privacy and Cookies Policy to find out how the BBC may use your personal information.
+*   Recreating a service or copying the look of a service
+*   Using our brands, trade marks or logos without our permission
+*   Using or mentioning our content in press releases and other marketing bumph
+*   Making money from our content or services. You can’t charge people to watch our shows, for example
+*   Sharing our content. Apart from shareables.
 
-*   **6.2.1** _Do I need to have a BBC account to interact with BBC Online Services and other BBC Online Services users?_
-*   Some of the features and functions of BBC Online Services are only available to users who have a free BBC website login, known as "BBC iD". Having a BBC iD allows you to sign in with a username and password so that you can access more features and functions, and so that you can interact with BBC services and other users of BBC services. You can create your BBC iD here.
-*   **6.2.2** _Favourite BBC Content and Categories_
-*   BBC Online Services may give you the option to choose your favourite BBC Content and/or your favourite categories of BBC Content. Your favourites will be saved to your BBC iD if you are signed in. If you are not signed in, the BBC will use cookies (if they are enabled on your device) to keep your favourites, and they will be deleted if you delete cookies from your device. Logging in with a BBC iD will allow you to access your favourites on any device that you are logged into that supports this type of BBC Online Services functionality (e.g. on your laptop or your mobile phone).
-*   **6.2.3** _Connecting with other BBC Online Services users_
-*   Some of the BBC Online Services allow you to connect with your contacts or friends from social networking services who use BBC Online Services at the same time as you do, subject to any other terms or conditions which apply to your use of the relevant social networking services.  
-    
+Back to top Using BBC content
 
-**6.3 Advertisements**
+**a. When you need permission**
 
-International users may see advertisements on some BBC Online Services. These advertisements are provided and delivered by the BBC's commercial arm, BBC Worldwide Limited.
+To use any of the following things…
 
-**6.4 Links**
+*   Whole shows
+*   Clips
+*   Photos
+*   Content from bbc.co.uk
+*   Our logo and other branding
+*   Anything else that’s protected by copyright.
 
-BBC Online Services and/or BBC Content may contain hyperlinks to websites and resources owned and operated by third parties. These third party websites and resources have their own terms of use and we urge you to review them. We do not accept any responsibility or liability for any third party websites and resources and your access and use of such services and content is at your own risk.
+…you’ll need to get permission.
 
-Skip to top
+We don’t always own the copyright.
 
-7\. What obligations do I have under the Terms?
+Our content often includes other people’s content, you see. For instance, a TV show might feature images, video and music that belong to artists, actors and musicians.
 
-**7.1 Compliance with the Terms**
+Or we only have a licence to broadcast a show, and it’s the production company who owns it.
 
-You must comply with the Terms, in particular the General restrictions on how you may use BBC Online Services.
+So you’ll have to ask them if you can use it. Except under certain circumstances…
 
-**7.2 Expenses, equipment and software**
+**b. When you already have permission** 
 
-You are solely responsible for paying all expenses you may incur when you access or use BBC Online Services or access or download BBC Content including your internet or data service provider charges and any excess charges to that provider if you have a limit on the amount of data you can download together with all costs of the equipment and software you need to connect to and use BBC Online Services. Accessing and using some BBC Online Services features to access, download, view or listen to BBC Content (especially video or audio) may lead to substantial bandwidth usage by you which can be expensive so you should be careful you do not exceed any 'bandwidth cap' on your account with your internet or data service provider. The BBC is not responsible if your equipment or software is not compatible with any BBC Online Service. BBC Content may be streamed or downloaded to your device from servers owned and operated by the BBC or (on behalf of the BBC) by third-party content distribution networks to enhance your experience when you watch or listen to BBC Content.
+*   If you’re at a school, college or university that’s got an Educational Recording Agency licence.
+*   Read about the Educational Recording Agency licence here.
+*   Read about other copyright exceptions here.
+*   For shareables. The rules about shareables are here.
+*   For open-source code, open data and public APIs.
+*   To download podcasts for personal use using our download button.
+*   You can download podcasts for personal use. You can also transfer podcasts between your devices. But don’t upload a podcast back to the internet from your device. Use the sharing buttons instead to tell your friends about it.
+*   To download BBC iPlayer programmes using our download button.
 
-**7.3 Managing your account details and activity**
+**c. How to get permission**
 
-You are solely responsible for keeping your BBC account username and password (if you have them) confidential and you are responsible for all activity that occurs under your BBC account. Please see clause 6.2.1 for more information on BBC accounts and why you might want to create one.
+For logos and branding, read this.
 
-Skip to top
+For metadata, read this.
 
-8\. How does the BBC use my personal information?
+For business use, read this. Bear in mind: you normally need to ask permission and there may be a fee to pay.
 
-You can read how the BBC uses your personal information in the BBC's Privacy and Cookies Policy which forms part of the Terms.
+For everything else, read this. 
 
-Skip to top
+Back to top Shareables - what they are
 
-9\. What are the BBC's legal obligations to me and how do the terms limit the BBC's liability?
+Content that’s shareable will have one or more of these buttons next to it:
 
-**9.1 The basis on which BBC makes the BBC Online Services available to you**
+*   Share
+*   Embed
+*   RSS
+*   Social media buttons for posting to Facebook, Twitter and so on.
 
-The BBC does not guarantee that all BBC Content and/or BBC Online Services will always be available or be uninterrupted, timely, secure or free from bugs, viruses, errors and omissions.
+We don’t always own the copyright for shareables. Sometimes we have to get a licence or permission from the people who made it.
 
-The BBC reserves its right to modify, suspend or discontinue all or part of any BBC Online Service or any part of the BBC Content without giving you any notice.
+So stick to these rules. Otherwise, among other things, the people who made it won’t want to make content for us again.
 
-Any commentary, opinions or other materials included in BBC Content are not intended to amount to advice on which you should rely.  
+You’ll need to get our permission first for any business use, and you might have to pay a fee. For business use read this.
 
-**9.2 Types of loss or damage the BBC is not responsible for**
+When you share to a social media platform their terms will apply. Do read their terms (which you can search for online).
 
-The BBC is not responsible for the following kinds of loss or damage which may arise from your use of BBC Online Services:
+Back to top Shareables - what you can do
 
-*   **9.2.1** loss or damage suffered by you or someone else when the BBC complies with the Terms;
-*   **9.2.2** loss or damage which is caused by the BBC when it does not comply with the Terms but which the BBC and you could not anticipate nor expect to happen when you started using BBC Online Services;
-*   **9.2.3** any loss which is indirect or a side effect of the main loss or damage and which the BBC and you could not anticipate nor expect to happen when you started using BBC Online Services, for instance if you lose revenue or salary, profit, opportunity or reputation;
-*   **9.2.4** provided the BBC complies with its Privacy and Cookies Policy, any loss of data or damage to your device or software. and
-*   **9.2.5** any loss or damage if BBC Online Services are not provided to you or are interrupted or suspended or if the BBC does not comply with the Terms because of events beyond the BBC's control, such as an act of God, accident, fire, lockout, strike or other official or unofficial labour dispute, civil commotion, decision of the BBC Trust, rule or order or act of Government or other act or event beyond the reasonable control of the BBC.  
-    
+**a. Use sharing buttons**
 
-Nothing in the Terms excludes or limits either the BBC's or your liability for death or personal injury caused by negligence or for fraud.
+To share a link to our content on your website or social media.
 
-**9.3 Your legal rights as a consumer**
+**b. Use our player**
 
-As a consumer, you may have certain legal rights regarding claims in respect of losses caused by the BBC's negligence or the failure by the BBC to carry out its obligations. Nothing in the Terms is intended to limit your legal rights as a consumer. For further information about your legal rights you can contact your local authority Trading Standards Department or Citizens Advice Bureau.
+It’s fine to use our embed button to put our player on your website or social media account.
 
-Skip to top
+But don’t change how the player works, and don’t take content out of it. Don’t embed any content that doesn’t have an embed button.  
 
-10\. How can the BBC stop making BBC Online Services available to me and what happens if it does so?
+Different rules apply for using iPlayer. Read about them here.  
 
-**10.1 The BBC's right to stop making BBC Online Services available to you**
+**c. Use a feed**
 
-The BBC reserves the right to stop making all or any part of the BBC Online Services available to you with immediate effect and without notice if:
+You can add the BBC News feed to your website or social media account. Provided:
 
-*   10.1.1 in its sole reasonable opinion you are using the BBC Content, BBC Online Services and/or any other BBC service, inappropriately (for instance harassing or causing distress or inconvenience to any other person), incompetently or in any way that may constitute derogatory treatment of the BBC or might bring the BBC into disrepute or in a way that might be considered to be prejudicial to the image of the BBC (with reference to the BBC Guidelines);
-*   10.1.2 you breach the Terms in a way that cannot be corrected, or you fail to correct a breach within a reasonable period of time if the BBC asks you to do so. or
-*   10.1.3 there is, in the BBC's reasonable opinion, any reason why the BBC Online Services must be withdrawn.  
-    
+*   You don’t change the feed or remove any of our branding or logos
+*   You credit us by saying it’s from BBC News, bbc.co.uk/news or bbc.com/news putting the text and hyperlink in a prominent place nearby
+*   You don’t add our branding, logos and so on, except for any branding that’s already embedded in the feed
 
-**10.2 What happens if the BBC stops making BBC Online Services available to me?**
+Read about how to set up a feed here.
 
-If the BBC stops making BBC Online Services available to you, you may be asked to delete all BBC Content downloaded by you to your device(s).
+**d. Post comments and views...**
 
-Skip to top
+… about our shareables. That’s fine. Encouraged, even. Just as long as they’re not evil.
 
-11\. What other (general) Terms of Use apply?
+Back to top Shareables - what you can't do
 
-**11.1 What happens if the BBC does not enforce a right against me?**
+**a. Don’t use them to harm or offend. And don't put shareables with harmful or offensive stuff.**
 
-If the BBC decides not to exercise or enforce any right that it has against you at a particular time, then this does not prevent the BBC from later deciding to exercise or enforce that right.
+Here’s a list of things that may harm or offend:
 
-**11.2 What happens if any part of the Terms is found to be ineffective?**
+*   Insulting, misleading, discriminating or defaming (damaging people’s reputations)
+*   Promoting pornography, tobacco or weapons
+*   Putting children at risk
+*   Anything illegal. Like using hate speech, inciting terrorism or breaking privacy law
+*   Anything that would harm the BBC’s reputation.
 
-If any part of the Terms is found to be illegal, invalid or otherwise unenforceable by a court or regulator, then, where required, that part shall be deleted from the Terms and the remaining parts of the Terms will continue to be enforceable.
+**b. Don’t make it look like they cost money**
 
-**11.3 Third parties**
+You can't charge others for using our shareables. If you put them on a site that charges for content, you have to say they’re free-to-view.
 
-The Terms do not create or infer any rights that are enforceable by any person who is not party to the Terms.
+**c. Don’t make them more prominent than non-BBC content**
 
-**11.4 Transfer of rights**
+Otherwise it might look like we’re endorsing you. Which we’re not allowed to do.
 
-You may not assign, sub-license or otherwise transfer any of your rights and obligations in the Terms to any other person.
+Also, use shareables alongside other stuff. You can’t make a service of your own that contains only our shareables.  
+Speaking of which…
 
-**11.5 What happens if there is a dispute arising out of the Terms?**
+**d. Don’t exaggerate your relationship with the BBC**
 
-Any disputes arising out of the Terms will be governed by and interpreted in accordance with the laws of England and Wales (or the laws of Scotland or Northern Ireland if you live there). If you choose to bring proceedings in connection with the Terms you must do so in the courts of England and Wales unless you live in Scotland or Northern Ireland, in which case you can choose to bring proceedings there.  
-  
+You can’t say we endorse, promote, supply or approve of you.
 
-Skip to top
+Don’t use shareables for political purposes.
+
+And you can’t say you have exclusive access to our content.
+
+**e. Don’t associate them with advertising or sponsorship**
+
+That means you can’t:
+
+*   Put any other content between the link to the shareable and the shareable itself. So no ads or short videos people have to sit through
+*   Put ads next to or over them
+*   Put any ads in a web page or app that contain mostly shareables
+*   Put ads related to their subject alongside shareables. So no trainer ads with a shareable about shoes
+*   Add extra content that means you’d earn money from them.
+
+**f. Don’t be misleading about where they came from**
+
+You can’t remove or alter the copyright notice, or imply that someone else made them.
+
+Back to top Shareables - what you have to do
+
+*   Use the latest version and, where we have it, don’t remove any tagging or tracking.
+*   Make sure it’s displayed accurately.
+*   Add a credit (if it doesn’t already have one).
+
+Most come with credits included. If not, put one of these in a prominent place nearby to show where you got the shareable from:
+
+*   Source – BBC News
+*   bbc.com/news
+*   BBC Sport
+*   bbc.co.uk – © copyright \[the year goes here\] BBC
+
+If possible, add a hyperlink to the shareable’s original location. Make sure it works, and don’t put anything between the credit and the link.
+
+Back to top Shareables - a thing we have to say
+
+Apart from what we’re responsible for when there’s a mishap, we’re not liable for anything that happens to you if you use a shareable.
+
+Back to top Open-source software, open data and APIs
+
+Some open-source software and open data are available as downloads and through APIs.
+
+Find out more on our open-source here and about our public APIs here.
+
+When you access it, we’ll always let you know what terms apply.
+
+Back to top Metadata
+
+**a. For people**
+
+You’re not allowed to pluck metadata from our content.
+
+**b. For business**
+
+You’ll need a licence to use our metadata. Apply for a metadata licence.
+
+Back to top Creations - what they are
+
+This part is about when you create your own content by:
+
+*   Uploading something of yours to one of our services – like uploading to comment boards and forums
+*   Uploading your clip or photo of a breaking story to BBC News
+*   Using a service (like the Doctor Who Game Maker) to make something and then uploading it to the BBC.
+
+We call these somethings “creations”.
+
+Things you enter into competitions (like drawings) don’t count as creations for these terms. Competitions have their own terms.
+
+Back to top Creations - the terms
+
+**a. There might be tinkering**
+
+Some services have tools that let other people use, reproduce, modify or edit your creation, or make things inspired by it.
+
+**b. We won't pay you for it**
+
+We appreciate you sharing your creation with us but sadly we can’t pay you.
+
+**c. There might be other terms**
+
+Sometimes uploading a creation to our services means using a tool provided by someone other than the BBC. For example you can use WhatsApp to share your stories and eyewitness accounts with BBC News.
+
+Sometimes the provider’s terms and conditions apply to using their tool. Do read their terms (which you can search for online) as they tell you what the provider can do with your creation when you use their tool.
+
+**d. Personal Information**
+
+We (or the provider we use so you can upload your creation) will not share the personal information you provide to us without letting you know first. Read more on how we use your personal data in our privacy policy.
+
+**e. We hope to use your creation**
+
+But we can't guarantee it.
+
+**f. Your name**
+
+We usually show your name alongside your creation. We’ll try to remove it if you ask us to, but this isn’t always possible.
+
+**g. Moral rights**
+
+When you upload a creation, you give up your moral rights to it. That means we can:
+
+*   Use your creation without identifying you as the creator
+*   Edit or change your creation and you won’t be able to say we’ve treated it in a “derogatory” way.
+
+Read more about moral rights here. And here’s a shorter explanation of moral rights.
+
+**h. We might contact you**
+
+To check if you’ve got permission to use any music, images, clips or text in your creation. Or just for administrative purposes.
+
+Read more about how and when we might contact you in our privacy and cookies policy.
+
+Back to top Creations - what you can do with them
+
+**a. When you own the copyright**
+
+You own the copyright if your creation is completely new and original. Which usually means it doesn’t feature anyone else’s content, such as videos and music.
+
+If so, you can do whatever you like with it.
+
+Read more about your copyright here.
+
+Read more about copyright in general here.
+
+You can share your creations with some of our services, like message boards, forums, pin boards, and in the comments at the bottom of some news stories.
+
+**b. When you don't own the copyright**
+
+If your creation contains content – like images, sounds, music or video – made by someone else, the copyright for that content may belong to them.
+
+Which usually means you’ll have to get their permission to do anything with your creation. That includes posting, submitting or uploading it to the BBC.
+
+Read more about your copyright here.
+
+Read more about copyright in general here.
+
+Once you’ve got permission, you can share your creation with the public. On your website, for instance, or on social media.
+
+Back to top Creations - what BBC can do with them
+
+When you share your creation with us, we try to tell you exactly what we’re going to do with it. But that’s not always possible, so here’s what might happen…
+
+When you post, upload or contribute a creation, we can:
+
+**a. Use, host or store it in BBC services and content**
+
+**b. Copy, change or translate it, or make things inspired by it**
+
+We will only edit your news related content where necessary. Read about how we use your news related comments and creations here.
+
+**c. Use it with our tools for making creations or remixing content**
+
+Some of our services - like the Doctor Who Game Maker - feature tools for playing around with our content, writing your own code, and making things like games and visualisations.
+
+These might:
+
+*   Put your creations on display to inspire other people,
+*   Invite others to use your creation to make their own creation. 
+
+**d. Moderate it**
+
+Which means we can review, edit, remove or decide not to display it. And, if it breaks any laws, we can refer it to the police and other authorities.
+
+**e. And we can use it**
+
+*   Anywhere in the world
+*   In any medium (for example TV, the internet, radio)
+*   For as long as we want – even if you stop using our services.
+
+And anyone we work with can do those things too.
+
+For example, if you send an image to BBC News, we could share a news item featuring that image with a foreign broadcaster, who’d then be able to do all the things above.
+
+They could also charge their users to see it.
+
+Back to top Creations - what you can't send us
+
+Don’t send us anything that:
+
+a. Was made by someone else, or that copies someone else’s creation
+
+b. Isn't in English (unless we've asked you to comment in another language)
+
+c. Is illegal or defamatory (damaging to someone else’s reputation)
+
+d. Is inappropriate (offensive, off-topic or spam)
+
+e. Contains personal details
+
+f. Contains spam (unless you're commenting on a story about reconstituted meat)
+
+g. Breaks our election or referendum rules. 
+
+h. Puts children at risk
+
+i. Infringes anyone’s rights (that includes privacy rights)
+
+j. You’ve made as part of your job or for your business
+
+k. Promotes a business
+
+l. Identifies someone (unless you have their consent or, if they’re under 16, the consent of their parent or guardian).
+
+m. Is in contempt of court
+
+n. Contains links to content that can't be seen easily, may be unsafe (viruses, worms, spyware and Trojans) or automatically launches lots of windows
+
+o. Doesn’t comply with these terms
+
+Back to top Your BBC Account
+
+**a. Registering for an account**
+
+You need an account to use some of our services, like personal recommendations and notifications.
+
+**b. Get your BBC account here.** 
+
+To keep your account safe, don’t:
+
+*   Tell anyone your username or password
+*   Give us false information
+*   Try to log in as someone else
+*   Try to bypass our security measures
+*   Create more than one account
+*   Create an account for someone else, except for your child.
+
+And be sure to keep your details up-to-date.
+
+**c. What we do with your information**
+
+The data you send us when you register, fill in web forms or use our services helps us to:
+
+*   Provide you with services, recommendations, notifications and other features
+*   Improve our existing services and come up with new ones.
+
+Read more on how we use your personal data in our privacy and cookies policy.
+
+**d. Changing settings and deleting your account**
+
+Find out how to tinker with or delete your account here.
+
+**e. Changing settings on your device**
+
+This can stop some of our services from working properly.
+
+Find out more about changing your settings here.
+
+Back to top Mishaps
+
+We take great care to make our content and services the best they can be. So if something does go wrong, we are responsible only:
+
+a. If our services or content damage your device or anything on it. Should this happen, you might be able to ask for compensation under consumer protection law.
+
+Compensation isn’t guaranteed, though. Be sure to get legal advice.
+
+b. For certain unlikely events. If our negligence causes death or injury, for example.
+
+c. If you’re an individual “consumer” and it would be unfair for us to not be held responsible.
+
+Otherwise, we’re not liable for anything that happens if:
+
+*   You rely on advice, data, commentary, opinions or any other content
+*   There are errors, omissions, interruptions, delays, bugs or viruses
+*   We turn off or remove content, services, external links or creations (we’d normally only do this when we moderate, for legal reasons or if we’re improving a service)
+*   The thing that happens couldn’t reasonably have been foreseen
+*   The thing that happens wouldn’t usually result from the mishap
+*   You and we hadn’t agreed that this thing would probably happen in the event of a mishap.
+
+This applies to sites we link to as well as our content and services.
+
+Speaking of which…
+
+Back to top External links
+
+We sometimes link to non-BBC sites. And we sometimes put our services on them – when you connect with us on social media, for example.
+
+A few things to bear in mind:
+
+a. We don’t endorse the sites we link to.
+
+b. We’re not responsible for their content or liable for anything that happens to you if you use them.
+
+c. If you or anyone else shares something containing a link, we’re not responsible for anything on the site it links to.
+
+d. External sites usually have their own terms of use.
+
+Back to top BBC iPlayer
+
+**a. The rules for personal use**
+
+*   iPlayer programmes are only available for a certain period of time, after which they’re automatically deleted. Don’t try to use technical trickery to get around this. Read more about iPlayer’s use-by dates here.
+*   Don’t stream or download iPlayer TV shows when you’re outside the UK. Radio shows are usually fine, though. Read more about using iPlayer outside the UK here.
+*   Don’t use iPlayer to make money. That means no ads or sponsorship, and no charging people to watch it.
+*   You need a TV Licence to download or watch BBC programmes on iPlayer. Find out more at www.tvlicensing.co.uk.
+
+**b. The rules for business**
+
+You can offer access to iPlayer on your premises for watching or downloading BBC programmes. But:
+
+*   You’ll need a TV Licence. For more on that, visit tvlicensing.co.uk.
+*   Using iPlayer to play a whole show or a clip to an audience is a different story. Find out more about playing iPlayer to an audience here.
+*   You’re not allowed to charge people to use iPlayer.
+
+Back to top Final stuff
+
+A quick recap, a few extra legal bits and we’re done:
+
+a. If you use a service on behalf of a business, that business agrees to these terms. So your business has to stick to these terms if you use a service...
+
+*   substantially to do your job – as an employee, contractor or consultant
+*   for commercial purposes – to make a profit or
+*   for educational, non-profit, charitable or government uses.
+
+b. As we said earlier, read these terms before using our services. When you use our services and content, you’re agreeing to:
+
+*   These terms of use
+*   Our privacy and cookies policy
+*   Any other terms we’ve let you know about.
+
+And those things replace all previous agreements between you and us about using our services or content.
+
+c. This is a contract between you and us. No one else has any rights to enforce its terms.
+
+d. English law governs these terms, and only English courts can make judgments about them.
+
+e. Our services and content are made available to you by the British Broadcasting Corporation, Broadcasting House, Portland Place, London, W1A 1AA.
+
+© BBC 2017
+
+Back to top Choose language: CymraegGàidhlig
+
+*   Hello
+*   When these terms apply
+*   What’s this about "services" and "content"?
+*   When other terms apply
+*   Child-friendly services and tools
+*   When you need a TV Licence
+*   Terms for using our services and content
+*   Using BBC content
+*   Shareables - what they are
+*   Shareables - what you can do
+*   Shareables - what you can't do
+*   Shareables - what you have to do
+*   Shareables - a thing we have to say
+*   Open-source software, open data and APIs
+*   Metadata
+*   Creations - what they are
+*   Creations - the terms
+*   Creations - what you can do with them
+*   Creations - what BBC can do with them
+*   Creations - what you can't send us
+*   Your BBC Account
+*   Mishaps
+*   External links
+*   BBC iPlayer
+*   Final stuff
+
+Back to top
