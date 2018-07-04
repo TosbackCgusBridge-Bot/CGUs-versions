@@ -99,10 +99,11 @@ Personally Identifiable Information provided to Marketing Charts LLC is subject 
 
 This Privacy Policy was most recently updated on May 24, 2018.
 
-2714 52nd St. S  
-Gulfport, FL 33707
+777 Brickell Ave.  
+#500-9006  
+Miami, FL 33131
 
-646-233-0126
+646-543-8460
 
 *   About Us
 *   Digital Store
