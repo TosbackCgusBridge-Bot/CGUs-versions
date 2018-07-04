@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Flotilla of saildrones deploy to Arctic and Pacific for earth science missions Unmanned vehicles will beam back vital ocean and atmospheric data AROUND NOAA // Polishing the Keys: Local Florida tour companies pitch in to clean up after storm Don't chase single model runs this hurricane season \[EXT\] Celebrate the ocean during National Ocean Month \[EXT\]
+Enter Search Terms Sunny or stormy? Your July Fourth holiday weather outlook Eastern U.S. continues to swelter. caution raised for ‘nature’s fireworks’ AROUND NOAA // Flotilla of saildrones deploy to Arctic and Pacific for earth science missions Polishing the Keys: Local Florida tour companies pitch in to clean up after storm Share the shore with marine life in Hawaii \[EXT\]
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock
