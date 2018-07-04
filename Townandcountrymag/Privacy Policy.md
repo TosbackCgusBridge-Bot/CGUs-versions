@@ -1,4 +1,5 @@
 *   Style
+*   Culture
 *   Travel
 *   Summer
 *   Royals
@@ -55,7 +56,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Vacation Inspiration: 10 Places to Go in August 2 The Death of the Top Sheet 3 The 40 Most Expensive Colleges in the Country 4 The Weekly Covet: Summer Travel Essentials 5 The Best Hats at Royal Ascot Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Chloë Sevigny Talks Work and Her New Film 2 Hugh Grant on 'A Very English Scandal' 3 Vacation Inspiration: 10 Places to Go in August 4 24 Fourth of July Cocktails 5 4th of July Party Ideas Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
