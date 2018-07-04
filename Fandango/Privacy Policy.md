@@ -7,76 +7,65 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     *   Jurassic World: Fallen Kingdom
     *   Incredibles 2
+    *   Sicario: Day of the Soldado
+    *   Uncle Drew
     *   Ocean's 8
     *   Tag (2018)
     *   Deadpool 2
+    *   Sanju
     *   Solo: A Star Wars Story
-    *   Hereditary
-    *   SuperFly (2018)
-    *   Avengers: Infinity War
     *   Won't You Be My Neighbor?
-    *   Book Club
+    *   Hereditary
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Sicario: Day of the Soldado
-    *   Uncle Drew
-    *   The Cakemaker
-    *   Dark River
-    *   Game Changers (2018)
-    *   Leave No Trace
-    *   Love, Cecil
-    *   Sanju
-    *   This Is Congo
-    *   Three Identical Strangers
-    *   Woman Walks Ahead
+    *   Ant-Man and the Wasp
+    *   The First Purge
+    *   No Postage Necessary
+    *   Sorry to Bother You
+    *   Under the Tree
+    *   Whitney
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   Ant-Man and the Wasp
+    *   Mission: Impossible - Fallout
     
     Coming Soon
     
-    *   The First Purge
     *   Hotel Transylvania 3: Summer Vacation
     *   Skyscraper (2018)
     *   The Equalizer 2
     *   Mamma Mia! Here We Go Again
     *   Unfriended: Dark Web
-    *   Mission: Impossible - Fallout
     *   Teen Titans Go! To the Movies
+    *   Christopher Robin
+    *   Searching (2018)
     *   See All Coming Soon
     
     Explore More
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New DVDs
-*   Movie Times + Tickets Where are you located? Here are our top cities
+*   Movie Times + Tickets Find tickets at the following theaters My Favorite Theater Non-Fandango Ticketing Theater
     
-    *   New York, NY
-    *   Los Angeles, CA
-    *   Atlanta, GA
-    *   Chicago, IL
-    *   Austin, TX
-    *   Miami, FL
-    *   San Francisco, CA
-    *   Phoenix, AZ
-    *   Washington, DC
-    *   Boston, MA
-    *   San Diego, CA
-    *   Seattle, WA
-    *   Edison, NJ
-    *   Houston, TX
-    *   Tampa, FL
+    *   AMC Dine-In Buckhead 6 3340 Peachtree Rd.
+    *   AMC Phipps Plaza 14 3500 Peachtree Road NE
+    *   Regal Tara 4 2345 Cheshire Bridge Road N.e.
+    *   CinéBistro at Town Brookhaven 1004 Town Blvd.
+    *   Regal Atlantic Station 18 IMAX &. RPX 261 19th Street NW
+    *   AMC Parkway Pointe 15 3101 Cobb Pkwy.
+    *   The Springs Cinema &. Taphouse 5920 Roswell Road
+    *   Midtown Art Cinema 931 Monroe Drive
+    *   Regal Perimeter Pointe Stadium 10 1155 Mount Vernon Highway
     
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The First 'The Predator' Trailer Has Arrived. Here's Everything We Know Read More
-    *   'Spider-Man: Homecoming' Sequel Now Has a Title. Here's Everything We Know Read More
-    *   Chris Pratt's Next 3 Movies: 'The Lego Movie 2,' 'Cowboy Ninja Viking,' 'Guardians of the Galaxy Vol. 3' Read More
+    *   Watch Thrilling New 'Skyscraper' Trailer. Here's Everything We Know Read More
+    *   Next 3 Mystery Thrillers: 'Peppermint,' 'A Simple Favor,' 'Bad Times at the El Royale' Read More
+    *   Vanessa Kirby Joins 'Fast and Furious' Spin-off 'Hobbs and Shaw'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -85,27 +74,44 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Star Wars Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Join FandangoVIP Get Points + Save
+*   My VIP Account Top Movies Near 30301 Edit Zip Code
     
-    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
+    See all movies My Theaters
+*   Save your favorite theater and we'll make sure it's front and center for you.
     
-    Learn more Insider Perks
+Manage my theater list Insider Perks
+
+*   Please check back - more exciting offers are coming soon.
     
-    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
-    
-    Learn more Partner Rewards
-    
-    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
-    
-    Learn more Refunds + Exchanges
-    
-    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
-    
-    Learn more Join Fandango VIP For Free
-    
-    (It only takes a few seconds to join)
-    
-    Already a Fandango VIP? Sign In
+
+See all insider perks My Fandango
+
+See my VIP+ Points
+
+For warp speed checkout, securely add your credit card.
+
+Add your  
+Credit Card Manage my VIP account Join FandangoVIP Get Points + Save
+
+More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
+
+Learn more Insider Perks
+
+Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+
+Learn more Partner Rewards
+
+Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+
+Learn more Refunds + Exchanges
+
+We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
+
+Learn more Join Fandango VIP For Free
+
+(It only takes a few seconds to join)
+
+Already a Fandango VIP? Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Fandango Gift Card Terms MovieTickets.com Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyFandango Gift Card TermsMovieTickets.com Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
@@ -321,9 +327,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   WELCOME TO THE SUMMER OF MORE
+*   'Mission: Impossible - Fallout' Gift With Purchase
     
-    EARN 150 VIP+ POINTS FOR EVERY TICKET YOU BUY. 600 VIP+ Points unlocks a $6 reward. SEE DETAILS
+    Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
     
 *   'Jurassic World: Fallen Kingdom' Gift With Purchase
     
@@ -376,7 +382,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   June Celebrity Birthdays
+*   July Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
