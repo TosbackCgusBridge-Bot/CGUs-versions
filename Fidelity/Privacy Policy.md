@@ -14,17 +14,25 @@ Search Fidelity.com
 
 *   Accounts &. Trade
     
-    *   PortfolioLog In Required
-    *   Account PositionsLog In Required
-    *   TradeLog In Required
+    *   Portfolio Log In Required
+    *   Portfolio
+    *   Account Positions Log In Required
+    *   Account Positions
+    *   Trade Log In Required
+    *   Trade
     *   Active Trader Pro
-    *   TransferLog In Required
+    *   Transfer Log In Required
+    *   Transfer
     *   Cash ManagementLog In Required
-    *   BillPayLog In Required
+    *   BillPay Log In Required
+    *   BillPay
     *   Full ViewLog In Required
-    *   ProfileLog In Required
-    *   Account FeaturesLog In Required
-    *   StatementsLog In Required
+    *   Profile Log In Required
+    *   Profile
+    *   Account Features Log In Required
+    *   Account Features
+    *   Statements Log In Required
+    *   Statements
     *   Tax Information
     *   Retirement DistributionsLog In Required
     
