@@ -36,9 +36,10 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Buy 1 Get 2 Free
+*   Buy 1 Get 2 Free Tees
+*   Buy 1 Get 1 Free Jeans
 *   Create Your Suit for $12
-*   4 for $16 Undies
+*   4 for $12 Undies
 *   Uniform
 *   Americana Shop
 *   The White Collection
@@ -80,27 +81,28 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-*   Jackets + Vests
+*   Jackets
 *   Swim
 *   Accessories
 
 *   Underwear
 *   Slides + Flip Flops
 *   Clearance
-*   Big + Tall
+*   Extended Sizes
 *   Trending
 
 Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Buy 1 Get 2 Free
+*   Buy 1 Get 2 Free Tees
+*   Buy 1 Get 1 Free Jeans
 *   Buy 1 Get 2 Accessories
 *   Uniform
 *   Americana Shop
 *   Denim Guide
-*   Logo Shop
 *   Active
+*   Logo Shop
 *   Back to Basics
 *   Online Only
 
@@ -134,6 +136,7 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
+*   Buy 1 Get 1 Free Jeans
 *   Low Rise Jegging
 *   Ankle Jegging
 *   High Rise Jegging
@@ -146,12 +149,14 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
+*   Buy 1 Get 1 Free Jeans
 *   Skinny
 *   Slim Straight
 *   Straight
 *   Slim
 *   Super Skinny
 *   Relaxed
+*   Flex Effects
 
 Close submenu ( Shorts ) Shorts
 
@@ -163,7 +168,6 @@ Close submenu ( Shorts ) Shorts
 Close submenu ( Girls Shorts ) Girls Shorts
 
 *   View All
-*   Buy 1 Get 2 Free Shorts
 *   Low Rise Shorty
 *   High-Waisted Shorty
 *   High-Waisted Cheeky
@@ -180,7 +184,6 @@ Close submenu ( Girls Shorts ) Girls Shorts
 Close submenu ( Guys Shorts ) Guys Shorts
 
 *   View All
-*   Buy 1 Get 2 Free Shorts
 *   Classic Chino Short
 *   Longboard
 *   Cargo Short
@@ -200,8 +203,9 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
-*   Sleep
+*   Rompers
 
+*   Sleep
 *   Bras
 *   Undies
 *   Swim
@@ -212,7 +216,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Featured ) Featured
 
 *   View All
-*   4 for $16 Undies
+*   4 for $12 Undies
 *   Create Your Suit for $12
 *   Active
 *   Lounge
@@ -226,6 +230,7 @@ Close submenu ( Tops ) Tops
 *   Tees
 *   Tanks
 *   Hoodies + Sweatshirts
+*   Jackets + Vests
 *   Sleep Tops
 
 Close submenu ( Bottoms ) Bottoms
@@ -264,7 +269,6 @@ Close submenu ( Guys ) Guys
 *   $9.99 + Under
 *   Tops
 *   Bottoms
-*   Accessories
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -277,7 +281,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**UP TO $25 OFF $100** USE CODE **STOCKUP** **50-70% OFF + FREE SHIPPING OVER $75**
+**MIX + MATCH BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **50-70% OFF + FREE SHIPPING OVER $50** 
 
 *   My Account My Account Login Register
 
@@ -289,9 +293,10 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Buy 1 Get 2 Free
+        *   Buy 1 Get 2 Free Tees
+        *   Buy 1 Get 1 Free Jeans
         *   Create Your Suit for $12
-        *   4 for $16 Undies
+        *   4 for $12 Undies
         *   Uniform
         *   Americana Shop
         *   The White Collection
@@ -342,13 +347,14 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Buy 1 Get 2 Free
+        *   Buy 1 Get 2 Free Tees
+        *   Buy 1 Get 1 Free Jeans
         *   Buy 1 Get 2 Accessories
         *   Uniform
         *   Americana Shop
         *   Denim Guide
-        *   Logo Shop
         *   Active
+        *   Logo Shop
         *   Back to Basics
         *   Online Only
     
@@ -370,14 +376,14 @@ Menu Find a Store Aeropostale
         *   Pants
         *   Joggers + Sweats
         
-    *   Jackets + Vests
+    *   Jackets
     *   Swim
     *   Accessories
     
     *   Underwear
     *   Slides + Flip Flops
     *   Clearance
-    *   Big + Tall
+    *   Extended Sizes
     *   Trending
     
 *   Jeans
@@ -385,6 +391,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
+        *   Buy 1 Get 1 Free Jeans
         *   Low Rise Jegging
         *   Ankle Jegging
         *   High Rise Jegging
@@ -396,19 +403,20 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
+        *   Buy 1 Get 1 Free Jeans
         *   Skinny
         *   Slim Straight
         *   Straight
         *   Slim
         *   Super Skinny
         *   Relaxed
+        *   Flex Effects
     
 *   Shorts
     
     *   View Home
     *   Girls Shorts
         *   View All
-        *   Buy 1 Get 2 Free Shorts
         *   Low Rise Shorty
         *   High-Waisted Shorty
         *   High-Waisted Cheeky
@@ -424,7 +432,6 @@ Menu Find a Store Aeropostale
     
     *   Guys Shorts
         *   View All
-        *   Buy 1 Get 2 Free Shorts
         *   Classic Chino Short
         *   Longboard
         *   Cargo Short
@@ -441,7 +448,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Featured
         *   View All
-        *   4 for $16 Undies
+        *   4 for $12 Undies
         *   Create Your Suit for $12
         *   Active
         *   Lounge
@@ -454,6 +461,7 @@ Menu Find a Store Aeropostale
         *   Tees
         *   Tanks
         *   Hoodies + Sweatshirts
+        *   Jackets + Vests
         *   Sleep Tops
     
     *   Bottoms
@@ -464,8 +472,9 @@ Menu Find a Store Aeropostale
         *   Bootcut
         *   Shorts
         *   Sleep Bottoms
-    *   Sleep
+    *   Rompers
     
+    *   Sleep
     *   Bras
     *   Undies
     *   Swim
@@ -491,7 +500,7 @@ Menu Find a Store Aeropostale
         *   $9.99 + Under
         *   Tops
         *   Bottoms
-        *   Accessories
+        
     
     *   Live Love Dream
         *   View All
@@ -509,7 +518,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Graphic Tees Shop Guys Graphic Tees Shop Girls Polos Shop Guys Polos Shop Girls Camis + Tanks Shop Guys Tanks Shop Girls Uniform Shop Guys Uniform <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Uniform Shop Guys Uniform <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -543,7 +552,7 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
 
 Refer a friend and get $15 off.
 
