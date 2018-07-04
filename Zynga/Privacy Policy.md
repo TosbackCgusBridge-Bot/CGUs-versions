@@ -24,7 +24,6 @@ Navigation
     *   Free Slots
     *   Black Diamond Casino
     *   Hit It Rich!
-    *   Princess Bride Slots
     *   Spin It Rich
     *   Willy Wonka Slots
     *   Wizard of Oz Slots
