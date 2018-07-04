@@ -39,25 +39,17 @@ Return Home
 
 About Us
 
-Security
-
-Partners
-
-Newsroom
-
 Contact Us
 
 Careers
 
-**MARKETS**
+**INFORMATION ON VANCO**
 
-Faith-Based
+Financial Institutions
 
-Nonprofit
+Utilities
 
-Professional Services
-
-Education
+Municipalities
 
 **HEADQUARTERS**
 
@@ -117,4 +109,4 @@ CALL US
 
 **Sales:** (855) 213-3705
 
-Copyright © 2018 Vanco Payment Solutions. All rights reserved. Privacy Policy | Terms and Conditions PCI Certified
+Copyright 2018 Vanco Payment Solutions. All rights reserved. Privacy Policy | Terms and Conditions PCI Certified
