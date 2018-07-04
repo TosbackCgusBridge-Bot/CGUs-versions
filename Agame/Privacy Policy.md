@@ -233,7 +233,7 @@ View more results
     Recommended Games
     
     *   World of Warships
-    *   Call Of War: Multiplayer Army Game
+    *   Star Stable
     *   World of Tanks
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
