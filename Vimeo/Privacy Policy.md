@@ -91,10 +91,6 @@ Children’s Privacy
 
 Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.
 
-Visiting Our Websites from Outside the United States
-
-This Privacy Policy is intended to cover collection of information on or via our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
-
 No Rights of Third Parties
 
 This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
