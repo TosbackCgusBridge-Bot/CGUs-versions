@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   A first look at desktop metrics ›
-*   Ubuntu 16.04 LTS certified for Intel NUC for IoT device development ›
-*   Report from the GNOME Software design sprint ›
-*   Emerging Trends in Financial Services: IoT, AI and Blockchain ›
-*   Ubuntu Server development summary – 19 June 2018 ›
+*   Ubuntu Server development summary – 03 July 2018 ›
+*   Introducing the Dell Precision 7530 and 7730 with Ubuntu ›
+*   Fresh Snaps from June 2018 ›
+*   Evaluating the true cost of multi-cloud ›
+*   Fing snaps up 30,000 customers with a secure, future-proof IoT device ›
