@@ -40,6 +40,7 @@ Menu Close Menu Close
             *   100e Chromebook
             *   300e Chromebook
             *   500e Chromebook
+            *   N24 Chromebook
         
         *   *   Explore all laptops &. ultrabooks >.
         *   *   Enterprise-level performance.  
@@ -139,7 +140,7 @@ Menu Close Menu Close
         
         *   *   SMALL BUSINESS WORKSTATIONS >.
         
-    *   Data Center Explore All Explore All
+    *   Servers, Storage &. Networking Explore All Explore All
         
         *   Servers Servers
         *   Storage Storage
@@ -332,47 +333,6 @@ Menu Close Menu Close
         
         *   *   Pens &. Supplies >.
         
-    *   Servers, Storage &. Networking Explore All Explore All
-        
-        *   Servers
-        *   Storage
-        *   Networking
-        *   Software
-        *   Software Defined Infrastructure Software Defined Infrastructure
-        *   Solutions
-        *   Services
-        *   Why Lenovo
-        
-        *   *   Explore Servers
-        *   *   Explore Storage
-        *   *   Explore Networking
-        
-        *   *   Explore Converged Systems
-            
-            *   ThinkAgile SX for Microsoft Azure Stack
-            *   ThinkAgile SX for Nutanix
-            *   ThinkAgile HX Series
-        *   *   Explore Solutions
-        *   *   Explore Services
-        *   *   Lenovo
-        
-        *   *   Explore All Servers >.
-        *   *   Explore Servers >.
-        
-        *   *   Explore Storage >.
-        
-        *   *   Explore Networking >.
-        
-        *   *   Software >.
-        
-        *   *   Explore Converged Systems >.
-        
-        *   *   Explore Solutions >.
-        
-        *   *   Explore Services >.
-        
-        *   *   Why Lenovo >.
-        
     *   Services &. Warranty Explore All Explore All
         
         *   PC Services
@@ -400,7 +360,6 @@ Menu Close Menu Close
     *   Mainstream Laptops
     *   Desktop Deals
     *   Monitor Deals
-    *   Tablets &. AR/VR
     *   ACCESSORY DEALS
     *   Clearance
     *   Financing Options
@@ -456,15 +415,9 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Workstation power. Ultrabook mobility.
+Save up to $400 off select items. Sale ends July 5 at 4am ET.
 
-Learn More >.
-
-Stylish outside. Savage inside.
-
-DIFFERENT GAMES BETTER
-
-Learn More >.
+Shop Deals >.
 
 Lenovo becomes world’s largest TOP500 supercomputing provider
 
@@ -472,23 +425,22 @@ Learn More >.
 
 *   1
 *   2
-*   3
 
 Weekly Deals
 
-Save up to 55% off sale items through June 28 at 4am ET.
+Save up to 55% off sale items through July 5 at 4am ET.
 
-Small Business Clearance Sale
+LENOVO SMALL BUSINESS
 
-Save up to 32% on select Small Business PCs. Sale ends June 28 at 4am ET.
+Explore how Lenovo can be your small business partner.
 
-Home Laptop Flash Sale
+ThinkPad X1 Yoga 3rd Gen
 
-Save up to $250 off select home laptops. Limited Time Only!. Sale ends June 28 at 4am ET.
+Now available. Customize yours.
 
-INTRODUCING X1 CARBON + TOUCH
+TAB 4 10" PLUS ADDS IT ALL
 
-For the first time ever, get a touchscreen X1 Carbon plus accessories for the ultimate in premium computing.
+Super sound. Separate user accounts. And simply dazzling visuals.
 
 Coming Soon: ThinkSmart Hub 700
 
