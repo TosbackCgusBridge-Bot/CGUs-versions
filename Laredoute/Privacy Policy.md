@@ -168,67 +168,35 @@ Les destinataires des données sont :
 *   Les services de douane en cas de livraison à l’étranger
 *   Les partenaires commerciaux et notamment des régies marketing et publicitaires. Les partenaires commerciaux concernés sont :
 
-  
-
 \- Presse
-
-  
 
 \- Automobile
 
-  
-
 \- Optique
-
-  
 
 \- Carritatif
 
-  
-
 \- Hygiène/Santé/Beauté
-
-  
 
 \- Alimentaire/Restauration
 
-  
-
 \- Banque/Assurance
-
-  
 
 \- Bâtiment/Construction/aménagement extérieur/intérieurs (peintures)
 
-  
-
 \- Immobilier
-
-  
 
 \- Formation professionnelle
 
-  
-
 \- Enfants (colonies vacances/hygiène/loisirs)
-
-  
 
 \- Formation Enfant/Ecolies
 
-  
-
 \- Téléphonie/Internet
-
-  
 
 \- Gaz/Eau/Electricité
 
-  
-
 \- Loisirs
-
-  
 
 La Redoute fait également appel à des sous-traitants pour les opérations suivantes :
 
@@ -518,7 +486,7 @@ Sur Android : https://support.google.com/chrome/topic/3434352
 
 Afin de se conformer à la règlementation, la Redoute utilise un outil permettant à l’internaute de paramètrer le dépôt des cookies lors de sa connexion sur le site www.laredoute.fr
 
-Pour accéder à la liste des cookies déposés et en configurer le dépôt cliquez ici
+Pour accéder à la liste des cookies déposés et en configurer le dépôt cliquez ici (Veuillez noter que certains logiciels anti-pub sont incompatibles avec cette fonctionnalité)
 
   12.3.4. Liste d’opposition permettant de gérer le dépôt des cookies
 
