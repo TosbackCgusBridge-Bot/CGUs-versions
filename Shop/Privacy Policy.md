@@ -415,9 +415,16 @@ Compare (0)
 
 Home >. Filter by specs Offers
 
-Save up to $400 off select items. Sale ends July 5 at 4am ET.
+"The Maserati of business laptops."  
+LAPTOP, March 9, 2018, 5 out of 5 Stars Editor's Rating
 
-Shop Deals >.
+Build your new ThinkPad X1 Carbon >>.
+
+Different discovers better
+
+FLEXIBLE DESIGN. AUDACIOUS ACHIEVEMENTS.
+
+Learn More >.
 
 Lenovo becomes world’s largest TOP500 supercomputing provider
 
@@ -425,18 +432,19 @@ Learn More >.
 
 *   1
 *   2
+*   3
 
 Weekly Deals
 
-Save up to 55% off sale items through July 5 at 4am ET.
+Save up to 55% off sale items through July 12 at 4am ET.
 
 LENOVO SMALL BUSINESS
 
 Explore how Lenovo can be your small business partner.
 
-ThinkPad X1 Yoga 3rd Gen
+ThinkPad E480
 
-Now available. Customize yours.
+Customize your 14-in laptop. Available in Black or Silver.
 
 TAB 4 10" PLUS ADDS IT ALL
 
@@ -565,4 +573,4 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
+SUBMIT CHATHIDE
