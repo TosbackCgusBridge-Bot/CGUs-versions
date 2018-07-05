@@ -75,7 +75,7 @@ SUBSCRIBE NOWOnly $1 for 3 months.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDeadly crash reported in Northeast El PasoTrafficAlleged drunk driver went wrong way for 7 milesCrimeBest 4th of July songs to play todayMusicWhere to see 4th of July fireworks displaysEntertainmentFree parades, festivals, BBQ for 4th of JulyEntertainmentBusinessmen offer $10.4M for El Paso propertiesNewsWhere to buy, pop 4th of July fireworksEntertainmentAaron Jones suspended by NFL for substance abuseFootballVillegas' 3rd trial for capital murder postponedCrimeBliss to start housing for immigrant familiesImmigrationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDeadly crash reported in Northeast El PasoTrafficAlleged drunk driver went wrong way for 7 milesCrimeBest 4th of July songs to play todayMusicWhere to see 4th of July fireworks displaysEntertainmentFree parades, festivals, BBQ for 4th of JulyEntertainmentBusinessmen offer $10.4M for El Paso propertiesNewsWhere to buy, pop 4th of July fireworksEntertainmentAaron Jones suspended by NFL for substance abuseFootballBliss to start housing for immigrant familiesImmigrationDo you know El Paso's most wanted fugitives?CrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
