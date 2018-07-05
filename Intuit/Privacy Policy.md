@@ -1,11 +1,11 @@
-Loading.. HELD OVER! COUPON CODE SPARKLE6 ENDS IN Days 1 1 8 8 hours 1 1 3 3 mins 5 5 1 0 secs MEN'S SHORTS UNDER $15Shop AllMEN'S SHORTS UNDER $15Shop All
+Loading.. HELD OVER! COUPON CODE SPARKLE6 ENDS IN Days 0 0 0 0 hours 4 4 1 1 mins 0 0 6 6 secs MEN'S SHORTS UNDER $15Shop AllMEN'S SHORTS UNDER $15Shop All
 
 *   $12.99 sale
     
-    was $36 St Johns Bay Comfort Stretch Flat Front Short(56)Add To Cart
+    was $36 St Johns Bay Comfort Stretch Flat Front Short(57)Add To Cart
 *   $14.99 sale
     
-    was $40 St. John's Bay Twill Cargo Shorts(73)Add To Cart
+    was $40 St. John's Bay Twill Cargo Shorts(75)Add To Cart
 *   $14.99 sale
     
     was $38 Arizona Chino Cargo Shorts(24)Add To Cart
@@ -17,10 +17,10 @@ Loading.. HELD OVER! COUPON CODE SPARKLE6 ENDS IN Days 1 1 8 8 hours 1 1 3 3 min
     was $42 Arizona Ripstop Cargo Shorts(5)Add To Cart
 *   $9.99 sale
     
-    was $40 St. John's Bay® Legacy Cargo Shorts(818)Add To Cart
+    was $40 St. John's Bay® Legacy Cargo Shorts(820)Add To Cart
 *   $14.99 sale
     
-    was $38 Arizona Flex Jean Shorts 10" Inseam(53)Add To Cart
+    was $38 Arizona Flex Jean Shorts 10" Inseam(54)Add To Cart
 *   $12.99 sale
     
     was $34 Arizona Chino Shorts(23)Add To Cart
@@ -31,7 +31,7 @@ SAVE ON UNIFORMSShop AllSAVE ON UNIFORMSShop AllJEWELRY LIMITED TIME SPECIALSSho
     
     $10 sale
     
-    was $49.98 Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring Set(224)Add To Cart
+    was $49.98 Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring Set(225)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $10 sale
@@ -41,7 +41,7 @@ SAVE ON UNIFORMSShop AllSAVE ON UNIFORMSShop AllJEWELRY LIMITED TIME SPECIALSSho
     
     $25 sale
     
-    was $124.98 Limited Time Special - 1/10 CT. T.W. Double Halo Diamond Stud Earrings in Sterling Silver(656)Add To Cart
+    was $124.98 Limited Time Special - 1/10 CT. T.W. Double Halo Diamond Stud Earrings in Sterling Silver(657)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $81.25 sale
@@ -51,7 +51,7 @@ SAVE ON UNIFORMSShop AllSAVE ON UNIFORMSShop AllJEWELRY LIMITED TIME SPECIALSSho
     
     $14.99 sale
     
-    was $124.98 Womens 1/10 CT. T.W. White Diamond Sterling Silver Pendant Necklace(106)Add To Cart
+    was $124.98 Womens 1/10 CT. T.W. White Diamond Sterling Silver Pendant Necklace(108)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $25 sale
@@ -59,14 +59,14 @@ SAVE ON UNIFORMSShop AllSAVE ON UNIFORMSShop AllJEWELRY LIMITED TIME SPECIALSSho
     was $124.98 LIMITED TIME SPECIAL! 1/10 CT. T.W. Double Halo Diamond Pendant Necklace in Sterling Silver(393)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $25 sale
-    
-    was $75 Q7 Limited Time Special! Black/Silver SmartwatchAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
     $625 sale
     
     was $2,083.32 Cherished Hearts™ 1/2 CT. T.W. Certified Diamond Bridal Set(11)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $749.99 sale
+    
+    was $2,499.98 1 CT. T.W. Diamond 10K White Gold 5-Stone Wedding BandAdd To Cart
 
 Shop and Save at JCPenney
 
