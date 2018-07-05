@@ -109,6 +109,22 @@
     *   About
     *   Media Kit
 
+*   _Susan Faludi_: Senators Collins &. Murkowski, It's Time to Leave the GOP
+    
+*   _Victor Davis Hanson_: Left Can't Come to Grips With Loss of Power
+    
+*   _Amie Parnes_: Dems Seek to One Up Each Other With Trump Attacks
+    
+*   _Marc Thiessen_: The Left's Contempt Is Going to Re-Elect Trump
+    
+*   _Michael Tomasky_: The Democrats Are Not In Disarray
+    
+*   _Josh Kraushaar_: Dems Underperforming With Hispanic Voters
+    
+*   _James Antle_: The Donald Delivers for Conservatives
+    
+*   _Steve Hantler_: Florida Establishment Ignoring Millions of Voters
+    
 *   _Andy Puzder_: The Uniqueness of America--Defined in the Declaration
     
 *   _Thomas Friedman_: Where U.S. Politics Can Still Work: From the Bottom Up
@@ -140,22 +156,6 @@
 *   _Joel Lovell_: Can the ACLU Become the NRA for Liberals?
     
 *   _Scott Powell_: Times Change, But Ideas in Declaration of Independence Endure
-    
-*   _Adam Harris_: The Era of Affirmative Action May Not Last Much Longer
-    
-*   _David Harsanyi_: The System Doesn't Need 'Fixing' Every Time Dems Lose
-    
-*   _Eugene Robinson_: GOP Trying to Make Democrats Self-Implode
-    
-*   _Steve Cortes_: 4 Reasons Trump Should Nominate Amy Barrett
-    
-*   _Holly Bailey_: Supreme Court Fight Roils North Dakota Senate Race
-    
-*   _William Murchison_: Roe v. Wade &. the Confusion of Senator Collins
-    
-*   _Tyler Cowen_: America's Unhealthy Obsession With the Supreme Court
-    
-*   _Matthew Schmitz_: Trump's 'Purple' Family Values
     
 
 *   Previous
@@ -245,6 +245,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   2018 Generic Congressional VoteRasmussen Reports
+    *   Democrats46
+    *   Republicans40Democrats +6
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve43
     *   Disapprove54Disapprove +11
@@ -254,17 +257,14 @@ Latest PollsAll Polls
 *   Congressional Job ApprovalReuters/Ipsos
     *   Approve26
     *   Disapprove65Disapprove +39
-*   Direction of CountryReuters/Ipsos
-    *   Right Direction37
-    *   Wrong Track53Wrong Track +16
 
 More Latest Polls In The News
 
+*   MSNBC Black Contrib: 2020 Is Not The Year Democrats Can Run A Woman Or Black Guy, Has To Be White Guy
+*   Charlie Cook: Elizabeth Warren a Clear 2020 Frontrunner. Surprised If Gillibrand or Harris Didn't Run
 *   Scarborough: The "New World Order" Trump Fears And Attacks Was Really "American World Order" All Along
 *   Jennifer Rubin: Sarah Sanders Deserves "Life Sentence" Of Harassment After Role In Trump Admin
 *   Sarah Sanders: Democrats Have No Message, No Solutions Except Attacking Trump And His Supporters
-*   Chuck Todd: Despite Unpopularity, Trump Is "Winning" While Democrats Are "Reeling"
-*   Michael Moore Calls For Million People To Protest Trump Supreme Court Pick, Surround U.S. Capitol
 
 *   Politics
 *   Policy
