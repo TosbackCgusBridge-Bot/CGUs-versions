@@ -230,17 +230,7 @@ View more results
     *   Sports
 *   For you
     
-    Recommended Games
-    
-    *   World of Warships
-    *   My Free Farm 2
-    *   Wizard 101
-    *   Madalin Stunt Cars 2
-    *   Geometry Neon Dash
-    *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Bubble Shooter HD
-    *   Solitaire FRVR
-    *   Uphill Rush 7: Waterpark
+    My last played games
     
     FAVE GAMES
     
