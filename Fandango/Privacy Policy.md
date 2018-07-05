@@ -7,41 +7,46 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     *   Jurassic World: Fallen Kingdom
     *   Incredibles 2
-    *   Sicario: Day of the Soldado
-    *   Uncle Drew
     *   Ocean's 8
     *   Tag (2018)
     *   Deadpool 2
-    *   Sanju
     *   Solo: A Star Wars Story
-    *   Won't You Be My Neighbor?
     *   Hereditary
+    *   SuperFly (2018)
+    *   Avengers: Infinity War
+    *   Won't You Be My Neighbor?
+    *   Book Club
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Ant-Man and the Wasp
-    *   The First Purge
-    *   No Postage Necessary
-    *   Sorry to Bother You
-    *   Under the Tree
-    *   Whitney
+    *   Sicario: Day of the Soldado
+    *   Uncle Drew
+    *   The Cakemaker
+    *   Dark River
+    *   Game Changers (2018)
+    *   Leave No Trace
+    *   Love, Cecil
+    *   Sanju
+    *   This Is Congo
+    *   Three Identical Strangers
+    *   Woman Walks Ahead
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   Mission: Impossible - Fallout
+    *   Ant-Man and the Wasp
     
     Coming Soon
     
+    *   The First Purge
     *   Hotel Transylvania 3: Summer Vacation
     *   Skyscraper (2018)
     *   The Equalizer 2
     *   Mamma Mia! Here We Go Again
     *   Unfriended: Dark Web
+    *   Mission: Impossible - Fallout
     *   Teen Titans Go! To the Movies
-    *   Christopher Robin
-    *   Searching (2018)
     *   See All Coming Soon
     
     Explore More
@@ -63,9 +68,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Watch Thrilling New 'Skyscraper' Trailer. Here's Everything We Know Read More
-    *   Next 3 Mystery Thrillers: 'Peppermint,' 'A Simple Favor,' 'Bad Times at the El Royale' Read More
-    *   Vanessa Kirby Joins 'Fast and Furious' Spin-off 'Hobbs and Shaw'. Here's Everything We Know Read More
+    *   Rebecca Ferguson Joins 'Shining' Sequel 'Doctor Sleep'. Here's Everything We Know Read More
+    *   Fatih Akin to Direct New 'Firestarter'. Here's Everything We Know Read More
+    *   The Week in Movie News: Jared Leto Is Marvel's Morbius, First Look at 'Once Upon a Time in Hollywood' and More Read More
     
     Explore Content
     *   Movie Reviews
