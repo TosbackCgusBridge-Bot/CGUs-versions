@@ -109,6 +109,40 @@
     *   About
     *   Media Kit
 
+*   _Andy Puzder_: The Uniqueness of America--Defined in the Declaration
+    
+*   _Thomas Friedman_: Where U.S. Politics Can Still Work: From the Bottom Up
+    
+*   _Michael Anton_: Trump, the Founders, and Independence Day
+    
+*   _Gideon Resnick_: How Democratic Groups Plan to Blitz on SCOTUS
+    
+*   _Conrad Black_: On Immigration and the Supreme Court, Dems Are Snookered
+    
+*   _Rahm Emanuel_: Anthony Kennedy Was No Moderate
+    
+*   _Betsy DeVos_: How We Can Catch Up to Other Countries in Education
+    
+*   _Paul Krugman_: Radical Democrats Are Pretty Reasonable
+    
+*   _Ian Henderson_: The Democratic Party Is Killing Itself
+    
+*   _Jedediah Purdy_: Trump's Nativism Is Transforming the Physical Landscape
+    
+*   _Justin Haskins_: Tax Cuts Provide Historic Gains for Minorities, Women
+    
+*   _Robin Wright_: Will North Korea Play Nuclear Hide-and-Seek With Trump?
+    
+*   _Dmitry Maryasis_: Trump, Putin Both Want Piece of Mideast Peace Talks
+    
+*   _Roger Kimball_: As Trump Builds, the Resistance Shouts 'Destroy!'
+    
+*   _Joel Lovell_: Can the ACLU Become the NRA for Liberals?
+    
+*   _Scott Powell_: Times Change, But Ideas in Declaration of Independence Endure
+    
+*   _Adam Harris_: The Era of Affirmative Action May Not Last Much Longer
+    
 *   _David Harsanyi_: The System Doesn't Need 'Fixing' Every Time Dems Lose
     
 *   _Eugene Robinson_: GOP Trying to Make Democrats Self-Implode
@@ -122,40 +156,6 @@
 *   _Tyler Cowen_: America's Unhealthy Obsession With the Supreme Court
     
 *   _Matthew Schmitz_: Trump's 'Purple' Family Values
-    
-*   _Amanda Marcotte_: Flagrant Sexism Fuels Trump's 'Purple Family Values'
-    
-*   _Andrew Klavan_: The Left's Toxic Race-Mongering
-    
-*   _Zephyr Teachout_: Why Abolishing ICE Is a Constitutional Imperative
-    
-*   _Tom Rogan_: Trump Right to Criticize NATO Allies on Defense Spending
-    
-*   _Spike Bowman_: Our Future National Security Leaders in Classrooms Today
-    
-*   _Sen. Dianne Feinstein_: Four Months To an Election, Let Voters Speak
-    
-*   _J.D. Vance_: The Case for Brett Kavanaugh
-    
-*   _Hugh Hewitt_: The Case for Raymond Kethledge
-    
-*   _Scott Jennings_: The Case for Amul Thapar
-    
-*   _Matt Lewis_: The Supreme Court Pick Liberals Will Troll Hardest
-    
-*   _Maria Svart_: After Ocasio-Cortez's Win, Socialists Are Just Getting Started
-    
-*   _Richard Cohen_: Chatter About Socialism Could Bring Dems More Defeat
-    
-*   _Rep. Mark Pocan_: We Must Abolish ICE
-    
-*   _Dov Fischer_: The Glory of Timely Leftist Overreach
-    
-*   _Enrique Krauze_: How Obrador Can Turn His Victory Into Mexico's Triumph
-    
-*   _John Davidson_: Mexico's New President Isn't a Threat - Its Collapse Is
-    
-*   _Bernard Hudson_: America Wins If Houthi Rebels Lose in Yemen
     
 
 *   Previous
@@ -245,18 +245,18 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve40
-    *   Disapprove55Disapprove +15
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
-*   Nevada Senate - Heller vs. RosenGravis
-    *   Rosen45
-    *   Heller41Rosen +4
-*   Nevada Governor - Laxalt vs. SisolakGravis
-    *   Sisolak41
-    *   Laxalt43Laxalt +2
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve43
+    *   Disapprove54Disapprove +11
+*   2018 Generic Congressional VoteReuters/Ipsos
+    *   Democrats44
+    *   Republicans34Democrats +10
+*   Congressional Job ApprovalReuters/Ipsos
+    *   Approve26
+    *   Disapprove65Disapprove +39
+*   Direction of CountryReuters/Ipsos
+    *   Right Direction37
+    *   Wrong Track53Wrong Track +16
 
 More Latest Polls In The News
 
