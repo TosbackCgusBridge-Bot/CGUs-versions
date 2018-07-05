@@ -68,7 +68,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 49%  49%  49%  7% 
+What is PeekScore? Public Records &. Background Checks 49%  49%  49%  6% 
 
 *   Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
