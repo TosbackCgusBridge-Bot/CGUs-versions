@@ -109,6 +109,28 @@
     *   About
     *   Media Kit
 
+*   _Michael Finch_: An American Awakening
+    
+*   _Eric Levitz_: Dem-Socialism Can Work in the Midwest -- With a Rebrand
+    
+*   _Jamelle Bouie_: Trump Leading Charge to Protect Shrinking White Majority
+    
+*   _Tyler O'Neil_: White Millennials Are Leaving the Democratic Party
+    
+*   _Liz Peek_: New NAFTA Deal Is the Win Trump, Trudeau, Obrador Need
+    
+*   _Sarah Pompei_: Business Needs Defense-Grade Cyber Capabilities
+    
+*   _Donald Trump_: Jon Tester Is No Partner of President Trump
+    
+*   _Max Boot_: I Left the GOP. Now I Want Democrats to Take Over
+    
+*   _Paul Mulshine_: Are the Never-Trumpers Tired of Losing Yet?
+    
+*   _Dylan Matthews_: 3 Reasons the American Revolution Was a Mistake
+    
+*   _Jesse Kelly_: If You Believe in Freedom, You Are Truly an American
+    
 *   _Susan Faludi_: Senators Collins &. Murkowski, It's Time to Leave the GOP
     
 *   _Victor Davis Hanson_: Left Can't Come to Grips With Loss of Power
@@ -125,37 +147,15 @@
     
 *   _Steve Hantler_: Florida Establishment Ignoring Millions of Voters
     
-*   _Andy Puzder_: The Uniqueness of America--Defined in the Declaration
+*   _Linda Sarsour_: Now You See the Brutality of ICE, Help Us Abolish It
     
-*   _Thomas Friedman_: Where U.S. Politics Can Still Work: From the Bottom Up
+*   _David Catron_: The Next American Revolution: #WalkAway
     
-*   _Michael Anton_: Trump, the Founders, and Independence Day
+*   _Natalie Nougayrede_: Putin Will Run Rings Around Trump in Helsinki
     
-*   _Gideon Resnick_: How Democratic Groups Plan to Blitz on SCOTUS
+*   _Michael Barone_: Can AMLO &. Trump Close the U.S.-Mexico Gap?
     
-*   _Conrad Black_: On Immigration and the Supreme Court, Dems Are Snookered
-    
-*   _Rahm Emanuel_: Anthony Kennedy Was No Moderate
-    
-*   _Betsy DeVos_: How We Can Catch Up to Other Countries in Education
-    
-*   _Paul Krugman_: Radical Democrats Are Pretty Reasonable
-    
-*   _Ian Henderson_: The Democratic Party Is Killing Itself
-    
-*   _Jedediah Purdy_: Trump's Nativism Is Transforming the Physical Landscape
-    
-*   _Justin Haskins_: Tax Cuts Provide Historic Gains for Minorities, Women
-    
-*   _Robin Wright_: Will North Korea Play Nuclear Hide-and-Seek With Trump?
-    
-*   _Dmitry Maryasis_: Trump, Putin Both Want Piece of Mideast Peace Talks
-    
-*   _Roger Kimball_: As Trump Builds, the Resistance Shouts 'Destroy!'
-    
-*   _Joel Lovell_: Can the ACLU Become the NRA for Liberals?
-    
-*   _Scott Powell_: Times Change, But Ideas in Declaration of Independence Endure
+*   _Yossi Beilin_: How Israel's Left Could Challenge Netanyahu
     
 
 *   Previous
@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Interviews 4 Candidates for High Court, as White House Mobilizes
+*   Trump Closes In on Supreme Court Pick. 3 Judges Top List
 *   With Little Leverage on Court Pick, Dems Eye Plan B
-*   Leo: Trump Will Continue Trend Toward Originalist, Textualist Justices
+*   Trump to Dems: We're Not Abandoning ICE, It's Just the Opposite
 *   In Republican Bastion Kansas, 2 Congressional Seats in Play
 *   Court Decisions Provide Republicans With Midterm Rallying Cry
 *   Presidential Job Approval
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve45
+    *   Disapprove51Disapprove +6
+*   2018 Generic Congressional VoteEconomist/YouGov
+    *   Democrats42
+    *   Republicans38Democrats +4
 *   2018 Generic Congressional VoteRasmussen Reports
     *   Democrats46
     *   Republicans40Democrats +6
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve43
-    *   Disapprove54Disapprove +11
-*   2018 Generic Congressional VoteReuters/Ipsos
-    *   Democrats44
-    *   Republicans34Democrats +10
-*   Congressional Job ApprovalReuters/Ipsos
-    *   Approve26
-    *   Disapprove65Disapprove +39
+*   Congressional Job ApprovalEconomist/YouGov
+    *   Approve11
+    *   Disapprove66Disapprove +55
 
 More Latest Polls In The News
 
+*   Dershowitz: "Hard Left" People Shunning Me Are Strengthening Trump's Base. Challenges Scarborough
+*   Trump Offers $1 Million For "Pocahontas" Elizabeth Warren To Take DNA Test To Prove Indian Ancestry
+*   Candace Owens: There Is Going To Be A Major Black Exit From The Democratic Party By 2020
+*   Scarborough on Dershowitz: Why Is He Surprised Martha's Vineyard Shunning Him? He's Undermining Mueller
 *   MSNBC Black Contrib: 2020 Is Not The Year Democrats Can Run A Woman Or Black Guy, Has To Be White Guy
-*   Charlie Cook: Elizabeth Warren a Clear 2020 Frontrunner. Surprised If Gillibrand or Harris Didn't Run
-*   Scarborough: The "New World Order" Trump Fears And Attacks Was Really "American World Order" All Along
-*   Jennifer Rubin: Sarah Sanders Deserves "Life Sentence" Of Harassment After Role In Trump Admin
-*   Sarah Sanders: Democrats Have No Message, No Solutions Except Attacking Trump And His Supporters
 
 *   Politics
 *   Policy
