@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Make your Snap store page pop! ›
 *   Ubuntu Server development summary – 03 July 2018 ›
 *   Introducing the Dell Precision 7530 and 7730 with Ubuntu ›
 *   Fresh Snaps from June 2018 ›
 *   Evaluating the true cost of multi-cloud ›
-*   Fing snaps up 30,000 customers with a secure, future-proof IoT device ›
