@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-BOGO 50% OFF – SHOP NOW
+FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
 
 *   Women
 *   Men
@@ -642,4 +642,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailFavorite Product Favorite Product Quick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailFavorite Product Favorite Product Quick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">
