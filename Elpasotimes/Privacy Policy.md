@@ -75,7 +75,7 @@ SUBSCRIBE NOWOnly $1 for 3 months.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDeadly crash reported in Northeast El PasoTrafficAlleged drunk driver went wrong way for 7 milesCrimeBest 4th of July songs to play todayMusicWhere to see 4th of July fireworks displaysEntertainmentFree parades, festivals, BBQ for 4th of JulyEntertainmentBusinessmen offer $10.4M for El Paso propertiesNewsWhere to buy, pop 4th of July fireworksEntertainmentAaron Jones suspended by NFL for substance abuseFootballBliss to start housing for immigrant familiesImmigrationDo you know El Paso's most wanted fugitives?CrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso police identify woman killed in crashTrafficJuárez gang targeted rival drug dealersLocal16 arrested in El Paso DWI crackdownCrimeVideo shows crash that killed El Paso mom, babyLocalDeadly crash reported in Northeast El PasoTrafficAlleged drunk driver went wrong way for 7 milesCrimeDPS: Texas woman sold son to clear drug debtCrimeBest 4th of July songs to play todayMusicBaby's remains found in drug search at Texas homeNewsEl Paso celebrates 4th of July with paradesLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,3 +145,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialogNEWS, SPORTS &. EVENTSStay connected this Summer99¢ Per MonthFor 3 MonthsConnect NowNot looking to connect right now close dialog
