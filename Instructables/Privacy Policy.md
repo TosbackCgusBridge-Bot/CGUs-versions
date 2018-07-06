@@ -1,12 +1,8 @@
-Asset 12Asset 10Asset 15Asset 15----autodesk\_icon\_font\_04\_06\_16\_klAsset 11autodesk\_icon\_font\_04\_06\_16\_klautodesk\_icon\_font\_1\_18\_17\_start\_over-01
-
 Worldwide Sites
 
 You have been detected as being from . Where applicable, you can see country-specific product information, offers, and pricing.
 
 Change country/language X
-
-*   0
 
 *   Sign In
     
