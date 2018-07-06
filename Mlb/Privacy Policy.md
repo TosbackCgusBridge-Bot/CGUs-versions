@@ -1,4 +1,4 @@
-Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video Standings Stats Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Play Ball Vote Teams EN
+Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video Standings Stats Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Play Ball Teams EN
 
 *   Scores
 *   News News News
@@ -184,7 +184,6 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   USA Softball
     *   Dream Series
     *   Trailblazer SeriesRBI Trailblazer Series
-*   Vote
 *   Teams Teams
     *   American League
         *   AL East
