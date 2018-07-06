@@ -25,20 +25,15 @@ Learn how PayPal makes it easy to shop and send money to family and friends.
 
 \+ Personal + Personal
 
-Send money, pay on your terms and shop easily all with PayPal.
+Shop, send money, and pay bills without entering your payment info again and again
 
-Send money to friends and family or move funds from one account to another.\*
+24/7 fraud detection means we work around the clock to help keep your account secure.
 
-Expand your payment options with our credit, debit, prepaid cards &. PayPal Credit.\*\*
+Pay your way, whether it’s credit, debit, or your bank account.
 
-Check out faster, at any of the millions of sites PayPal is accepted.
+Speed through checkout at millions of brands that accept PayPal.
 
-Sign Up for Free
-
-\*Sending &. receiving funds requires a PayPal account.  
-\*\*Subject to credit approval.
-
-Business
+Sign Up for Free Business
 
 Start accepting all kinds of payments with one PayPal business account.
 
@@ -81,7 +76,7 @@ Sign Up for Free
 *   Security
 *   Apps
 *   Shop
-*   See all countries
+*   See all countries/regions
 *   Search
 
 *   About
@@ -99,4 +94,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=6cdb965523d4c&rsta=en\_US&pgtf=Nodejs&s=ci&csci=6eb405dfe3aa46c6805a8b65518d1b92&comp=mppnodeweb&tsrce=mppnodeweb&xe=3945&xt=9426&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=75e1481356139&rsta=en\_US&pgtf=Nodejs&s=ci&csci=da7cc3fd806044fa934614634fcf9f5f&comp=mppnodeweb&tsrce=mppnodeweb&xe=3945&xt=9425&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
