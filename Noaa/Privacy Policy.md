@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Sunny or stormy? Your July Fourth holiday weather outlook Eastern U.S. continues to swelter. caution raised for ‘nature’s fireworks’ AROUND NOAA // Flotilla of saildrones deploy to Arctic and Pacific for earth science missions Polishing the Keys: Local Florida tour companies pitch in to clean up after storm Share the shore with marine life in Hawaii \[EXT\]
+Enter Search Terms Sunny or stormy? Your July Fourth holiday week weather outlook Eastern U.S. heat wave is subsiding but heat is building in the western states AROUND NOAA // Flotilla of saildrones deploy to Arctic and Pacific for earth science missions Polishing the Keys: Local Florida tour companies pitch in to clean up after storm Share the shore with marine life in Hawaii \[EXT\]
 
 *   About our agency
 *   News and features
