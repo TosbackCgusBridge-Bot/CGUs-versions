@@ -24,8 +24,8 @@
     32/40 est MPG3 Build Specials
 *   $22,180 as shown1 2019 Corolla $18,700 starting1  
     28/36 est MPG20 Build Specials
-*   $19,985 as shown1 2018 Corolla iM $18,850 starting1  
-    27/35 est MPG3 Build Specials
+*   $24,090 as shown1 2019 Corolla Hatchback $19,990 starting1  
+    30/38 est MPG21 Build Specials
 *   $35,495 as shown1 2018 Camry $23,645 starting1  
     29/41 est MPG4 Build Specials
 *   $42,200 as shown1 2019 Avalon $35,500 starting1  
@@ -70,10 +70,10 @@
 *   $58,365 as shown1 2018 Mirai $58,365 starting1  
     67/67 est MPG14 Specials
 
+*   2019 Supra Xfinity Series Race Car View More Info
+*   GR Supra Racing Concept View More Info
 *   2019 RAV4 View More Info
 *   2019 Yaris View More Info
-*   2019 Corolla Hatchback View More Info
-*   GR Supra Racing Concept View More Info
 *   2019 TRD Pro Series View More Info
 *   FT-4X Concept View More Info
 
@@ -99,8 +99,8 @@ View All Vehicles
 Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1  
 30/36 est MPG3 $17,050 as shown1 2018 Yaris iA $15,950 starting1  
 32/40 est MPG3 $22,180 as shown1 2019 Corolla $18,700 starting1  
-28/36 est MPG20 $19,985 as shown1 2018 Corolla iM $18,850 starting1  
-27/35 est MPG3 $35,495 as shown1 2018 Camry $23,645 starting1  
+28/36 est MPG20 $24,090 as shown1 2019 Corolla Hatchback $19,990 starting1  
+30/38 est MPG21 $35,495 as shown1 2018 Camry $23,645 starting1  
 29/41 est MPG4 $42,200 as shown1 2019 Avalon $35,500 starting1  
 22/32 est MPG20 $28,585 as shown1 2018 86 $26,455 starting1  
 21/28 est MPG3 $37,090 as shown1 2018 Sienna $30,850 starting1  
@@ -120,7 +120,7 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 54/133 est MPG10 $32,115 as shown1 2018 Prius $23,475 starting1  
 54/50 est MPG17 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
 48/43 est MPG3 $58,365 as shown1 2018 Mirai $58,365 starting1  
-67/67 est MPG14 Upcoming Vehicles 2019 RAV4 2019 Yaris 2019 Corolla Hatchback GR Supra Racing Concept 2019 TRD Pro Series FT-4X Concept
+67/67 est MPG14 Upcoming Vehicles 2019 Supra Xfinity Series Race Car GR Supra Racing Concept 2019 RAV4 2019 Yaris 2019 TRD Pro Series FT-4X Concept
 
 *   Careers
 *   Español
@@ -1172,6 +1172,7 @@ Help
 *   18\. 2019 Toyota Avalon XLE preliminary 22 city/32 hwy/26 combined mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
 *   19\. 2019 preliminary mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
 *   20\. 2019 EPA-estimated mileage. Actual mileage will vary.
+*   21\. 2019 Corolla Hatchback XSE with automatic transmission preliminary 30 city/38 hwy/33 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
 
 YOUR GARAGE NONELog In
 
