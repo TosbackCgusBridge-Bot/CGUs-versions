@@ -2,11 +2,11 @@ Loading.. DAY 4 OF COUPON CODE 4YOUSHOP ENDS IN
 
 \*offer ends 7/8/18
 
-Days 1 1 6 6 hours 3 3 1 1 mins 3 3 8 7 secs WOMEN'S SHORTS UNDER $15Shop AllWOMEN'S SHORTS UNDER $15Shop All
+Days 0 0 0 0 hours 4 4 0 0 mins 4 4 3 2 secs WOMEN'S SHORTS UNDER $15Shop AllWOMEN'S SHORTS UNDER $15Shop All
 
 *   $12 sale
     
-    was $32 a.n.a Knit Waist Shorts(31)Add To Cart
+    was $32 a.n.a Knit Waist Shorts(33)Add To Cart
 *   $11.10 - $12 sale
     
     was $37 a.n.a Twill Bermuda (9")(15)Add To Cart
@@ -24,7 +24,7 @@ Days 1 1 6 6 hours 3 3 1 1 mins 3 3 8 7 secs WOMEN'S SHORTS UNDER $15Shop AllWOM
     was $37 St. John's Bay 11" Denim Bermuda Shorts(43)Add To Cart
 *   $11.70 - $14 sale
     
-    was $39 a.n.a Denim Bermuda Shorts (9")(8)Add To Cart
+    was $39 a.n.a Denim Bermuda Shorts (9")(9)Add To Cart
 *   $14 sale
     
     was $37 St. John's Bay Floral Poplin Skorts(41)Add To Cart
