@@ -876,7 +876,7 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off your order!
+Receive 30% off your order!
 
 code: HEAT pin: 6756 DETAILS
 
