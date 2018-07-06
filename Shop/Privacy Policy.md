@@ -40,7 +40,7 @@ Menu Close Menu Close
             *   100e Chromebook
             *   300e Chromebook
             *   500e Chromebook
-            *   N24 Chromebook
+            *   N42 Chromebook
         
         *   *   Explore all laptops &. ultrabooks >.
         *   *   Enterprise-level performance.  
@@ -573,4 +573,4 @@ Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being 
 
 Please tell us how we can improve your experience:
 
-SUBMIT CHATHIDE
+SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
