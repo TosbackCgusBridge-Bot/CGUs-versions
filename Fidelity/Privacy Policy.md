@@ -41,7 +41,7 @@ Search Fidelity.com
     *   What We Offer
     *   Financial Basics
     *   Building Savings
-    *   Managing &. Growing Wealth
+    *   Wealth Management
     *   Retirement
     *   Life Events
 *   News &. Research
