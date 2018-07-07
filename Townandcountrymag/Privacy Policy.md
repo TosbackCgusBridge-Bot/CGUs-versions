@@ -56,7 +56,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Politics Ruined Alan Dershowitz's Summer Plans 2 Vacation Inspiration: 10 Places to Go in August 3 The True Story of 'A Very English Scandal' 4 Chloë Sevigny Talks Work and Her New Film 5 The 30 Best Cocktails to Enjoy This Summer Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Why Queen Elizabeth Wears So Many Bright Colors 2 Politics Ruined Alan Dershowitz's Summer Plans 3 Vacation Inspiration: 10 Places to Go in August 4 The True Story of 'A Very English Scandal' 5 The 30 Best Cocktails to Enjoy This Summer Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -181,6 +181,8 @@ Last revised on April 1, 2016
 **11\.  ** **Changes to This Privacy Policy.** This privacy policy is subject to occasional revision, and if we make any material changes in the way we use your Personally Identifiable Information, we will prominently post notice of the changes on our Covered Sites. Any changes to this privacy policy will be effective upon thirty (30) calendar days following our posting of notice of the changes on our Covered Sites.  These changes will be effective immediately for new users of our Covered Sites. Continued use of our Covered Sites, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
 Last revised on April 1, 2016
+
+Watch Next
 
 Advertisement - Continue Reading Below Share Tweet Email
 
