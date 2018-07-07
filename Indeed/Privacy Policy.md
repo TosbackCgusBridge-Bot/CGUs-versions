@@ -14,11 +14,11 @@ Find JobsCompany ReviewsFind SalariesFind ResumesEmployers / Post Job Upload you
 
 Cookie Policy
 
-Last Updated: June 13, 2018
+Last Updated: July 6, 2018
 
 By using or accessing Indeed’s websites (“Site”), you are consenting to Indeed’s use of Cookies as outlined below. All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
-For the purposes of this Cookie Policy, “Indeed” or “we” means Indeed, Inc. and its subsidiaries, including Prehire, Inc. if you are a Job Seeker or Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Job Seeker or Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services.
+For the purposes of this Cookie Policy, “Indeed” or “we” means Indeed, Inc. if you are a Job Seeker or Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Job Seeker or Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services.
 
 **Introduction: What is a cookie?**
 
@@ -90,7 +90,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: June 11, 2018
+Last Updated: July 6, 2018
 
 **1\. Introduction**
 
@@ -102,9 +102,9 @@ In particular, this Privacy Policy details our collection, use and disclosure of
 
 All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
-With respect to Job Seekers, for the purposes of this Privacy Policy, “Indeed” or “we” means Indeed, Inc. and its subsidiaries, including Prehire, Inc. if you are a Job Seeker located in the United States, or Indeed Ireland Operations Limited if you are a Job Seeker located outside of the United States.
+With respect to Job Seekers, for the purposes of this Privacy Policy, “Indeed” or “we” means Indeed, Inc. if you are a Job Seeker located in the United States, or Indeed Ireland Operations Limited if you are a Job Seeker located outside of the United States.
 
-With respect to Employers, “Indeed” or “we” means Indeed, Inc. and its subsidiaries, including Prehire, Inc. if you are an Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services.
+With respect to Employers, “Indeed” or “we” means Indeed, Inc. if you are an Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services.
 
 **1.2 Personal Data and Non-Personal Data**
 
@@ -420,7 +420,7 @@ Such rights of rectification, objection, restriction, access, portability and de
 
 **11.1 Privacy Shield Principles and Framework**
 
-Indeed Ireland transfers certain Personal Data to Indeed, Inc. in the U.S.. Indeed, Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the EU member countries and Switzerland to the United States. Indeed has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity, and Purpose Limitation, Access, Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
+Indeed Ireland transfers certain Personal Data to Indeed, Inc. in the U.S.. Indeed, Inc., including its subsidiary Prehire, Inc., complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the EU member countries and Switzerland to the United States. Indeed has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity, and Purpose Limitation, Access, Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 
 **11.2 Principle of Onward Transfer**
 
@@ -1103,4 +1103,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1chn1vpd4av0h9nq&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center ©2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1chpk5pd0183r7qu&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
