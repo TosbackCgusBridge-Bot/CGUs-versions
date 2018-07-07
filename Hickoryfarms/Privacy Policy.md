@@ -7,12 +7,11 @@
     *   Military
     *   New!
     
-    Occasions*   Fourth of July
-    *   Taste of Summer
+    Occasions*   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Fourth of July Birthday Gifts
+    *   Graduation &. CongratulationsMost Popular Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -45,15 +44,14 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Fourth of July
+    View All Categories Shop by Category*   Taste of Summer
     
     Occasions*   Birthday Gifts
-    *   Fourth of July
     *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Fourth of July Taste of Summer
+    *   Graduation &. CongratulationsMost Popular Taste of Summer
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
@@ -75,12 +73,11 @@
     *   Military
     *   New!
     
-    Occasions*   Fourth of July
-    *   Taste of Summer
+    Occasions*   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Fourth of July Birthday Gifts
+    *   Graduation &. CongratulationsMost Popular Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -113,15 +110,14 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Fourth of July
+    View All Categories Shop by Category*   Taste of Summer
     
     Occasions*   Birthday Gifts
-    *   Fourth of July
     *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Fourth of July Taste of Summer
+    *   Graduation &. CongratulationsMost Popular Taste of Summer
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
