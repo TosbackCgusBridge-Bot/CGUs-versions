@@ -165,14 +165,13 @@ menu Close 0 Free Shipping on $50+
     *   Girls' Knit Kit
     *   Kids' Iron Knees Pants
     *   School Uniforms
-    *   Kids' Star Spangled Collection
     
     Girls' Clothing>.
     
     *   SHOP GIRLS' SALE
     *   Shop All Girls' Clothing
     *   Girls' Swimsuits
-    *   Girls' Tops
+    *   Girls' Tops &. Tees
     *   Girls' Sweaters
     *   Girls' Dresses
     *   Girls' Pants &. Leggings
@@ -195,7 +194,7 @@ menu Close 0 Free Shipping on $50+
     *   SHOP BOYS' SALE
     *   Shop All Boys' Clothing
     *   Boys' Swimsuits
-    *   Boys' Tops
+    *   Boys' Tops &. Tees
     *   Boys' Sweaters
     *   Boys' Pants
     *   Boys' Jeans
@@ -415,16 +414,7 @@ menu Close 0 Free Shipping on $50+
     *   Kids' Accessories
     
     HOME SALE >. BAGS SALE >. SCHOOL UNIFORMS SALE >. FEATURED SHOPS
-    
     *   On The Counter
-    
-    WINTER SALE &. CLEARANCE
-    *   Coats &. Jackets
-    *   Hats
-    *   Gloves
-    *   Scarves
-    *   Snow Boots
-    *   Long Underwear
 
 *   New
     *   Back
@@ -572,14 +562,13 @@ menu Close 0 Free Shipping on $50+
         *   Girls' Knit Kit
         *   Kids' Iron Knees Pants
         *   School Uniforms
-        *   Kids' Star Spangled Collection
     *   Girls' Clothing
         *   Back
         *   View All
         *   SHOP GIRLS' SALE
         *   Shop All Girls' Clothing
         *   Girls' Swimsuits
-        *   Girls' Tops
+        *   Girls' Tops &. Tees
         *   Girls' Sweaters
         *   Girls' Dresses
         *   Girls' Pants &. Leggings
@@ -601,7 +590,7 @@ menu Close 0 Free Shipping on $50+
         *   SHOP BOYS' SALE
         *   Shop All Boys' Clothing
         *   Boys' Swimsuits
-        *   Boys' Tops
+        *   Boys' Tops &. Tees
         *   Boys' Sweaters
         *   Boys' Pants
         *   Boys' Jeans
@@ -844,14 +833,6 @@ menu Close 0 Free Shipping on $50+
     *   FEATURED SHOPS
         *   Back
         *   On The Counter
-    *   WINTER SALE &. CLEARANCE
-        *   Back
-        *   Coats &. Jackets
-        *   Hats
-        *   Gloves
-        *   Scarves
-        *   Snow Boots
-        *   Long Underwear
 *   Business Outfitters
 *   Hi, Sign in My Account
     *   Back
@@ -1143,4 +1124,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
