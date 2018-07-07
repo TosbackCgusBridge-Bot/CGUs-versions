@@ -73,29 +73,10 @@
     *   Best cash-back credit cards
     *   Best student credit cards
     *   Best business credit cards
-*   Auto Compare Lenders
+*   Loans Compare Lenders
     
     *   Auto loan rates
     *   Auto refinancing rates
-    
-    Use Calculators
-    
-    *   Auto loan calculator
-    *   Auto loan payoff calculator
-    *   Auto refinance calculator
-    *   Auto lease calculator
-    *   All auto calculators
-    
-    Get Advice
-    *   Refinance your auto loan
-    *   Car loans guide
-    *   Auto loans for bad credit
-    *   Best time to buy a car
-    *   Auto lease buyout
-    *   Leasing a car
-    *   Auto loan resources
-*   Loans Compare Lenders
-    
     *   Personal loans
     *   Personal loans for debt consolidation
     *   Personal loans for bad credit
@@ -104,6 +85,10 @@
     
     Use Calculators
     
+    *   Auto loan calculator
+    *   Auto refinance calculator
+    *   Auto lease calculator
+    *   All auto calculators
     *   Loan calculator
     *   Loan payment calculator
     *   Personal loan calculator
@@ -111,6 +96,8 @@
     *   All loan calculators
     
     Get Advice
+    *   Refinance your auto loan
+    *   Car loans guide
     *   Personal Loans Guide
     *   How to get a personal loan
     *   Where to get a personal loan
