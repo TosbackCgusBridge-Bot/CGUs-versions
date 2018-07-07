@@ -1,4 +1,4 @@
-SUBSCRIBE NOWOnly $1 for 3 months.
+close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dialog
 
 *   Home
 *   News
@@ -75,7 +75,7 @@ SUBSCRIBE NOWOnly $1 for 3 months.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso police identify woman killed in crashTrafficJuárez gang targeted rival drug dealersLocal16 arrested in El Paso DWI crackdownCrimeVideo shows crash that killed El Paso mom, babyLocalDeadly crash reported in Northeast El PasoTrafficAlleged drunk driver went wrong way for 7 milesCrimeDPS: Texas woman sold son to clear drug debtCrimeBest 4th of July songs to play todayMusicBaby's remains found in drug search at Texas homeNewsEl Paso celebrates 4th of July with paradesLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDowntown El Paso store closing after 58 yearsBusinessEl Paso among top 50 cities people are leavingLocal16 arrested in El Paso DWI crackdownCrimeBeto O'Rourke performs with Willie NelsonPoliticsEl Paso police identify woman killed in crashTrafficJuárez gang targeted rival drug dealersLocalVideo shows crash that killed El Paso mom, babyLocalBilly Abraham objects to sale of propertiesNewsEl Paso gang member convicted in I-20 drug caseCrimeDPS: Texas woman sold son to clear drug debtCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -146,4 +146,4 @@ Our Partners
 *   Thanksgiving.com
 *   Grateful
 
-close dialogNEWS, SPORTS &. EVENTSStay connected this Summer99¢ Per MonthFor 3 MonthsConnect NowNot looking to connect right now close dialog
+close dialogNEWS, SPORTS &. EVENTSStay connected this Summer99¢ Per MonthFor 3 MonthsConnect NowNot looking to connect right now close dialogclose dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dialog
