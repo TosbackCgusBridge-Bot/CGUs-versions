@@ -69,7 +69,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Watch Thrilling New 'Skyscraper' Trailer. Here's Everything We Know Read More
+    *   Keri Russell Is Joining 'Star Wars: Episode IX'. Here's What We Know So Far Read More
     *   'Child's Play' Reboot on Its Way Read More
     *   Idris Elba to Turn Villainous in 'Fast and Furious' Spin-off. Here's Everything We Know Read More
     
