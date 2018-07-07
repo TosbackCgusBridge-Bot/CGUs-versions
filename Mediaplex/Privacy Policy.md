@@ -56,9 +56,9 @@
     *   Integrations
     *   Join Us
 
-HAVE COMPELLING  
-CONVERSATIONS THAT  
-LAST A LIFETIME Watch Our Story
+GET TO THE HEART  
+OF WHAT MATTERS  
+TO MILLIONS Watch Our Story
 
 *   200+ MILLION Real People You Can  
     Message Right Now
