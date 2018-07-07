@@ -1,8 +1,4 @@
-Loading.. DAY 4 OF COUPON CODE 4YOUSHOP ENDS IN
-
-\*offer ends 7/8/18
-
-Days 0 0 0 0 hours 4 4 0 0 mins 4 4 3 2 secs WOMEN'S SHORTS UNDER $15Shop AllWOMEN'S SHORTS UNDER $15Shop All
+Loading.. WOMEN'S SHORTS UNDER $15Shop AllWOMEN'S SHORTS UNDER $15Shop All
 
 *   $12 sale
     
@@ -15,19 +11,19 @@ Days 0 0 0 0 hours 4 4 0 0 mins 4 4 3 2 secs WOMEN'S SHORTS UNDER $15Shop AllWOM
     was $32 St. John's Bay Cargo Bermuda Shorts(124)Add To Cart
 *   $9.60 - $12 sale
     
-    was $32 a.n.a Twill Short (5")(32)Add To Cart
+    was $32 a.n.a Twill Short (5")(33)Add To Cart
 *   $9.60 - $12 sale
     
     was $32 a.n.a Twill Short (3 1/2")(44)Add To Cart
 *   $14 sale
     
-    was $37 St. John's Bay 11" Denim Bermuda Shorts(43)Add To Cart
+    was $37 St. John's Bay 11" Denim Bermuda Shorts(44)Add To Cart
 *   $11.70 - $14 sale
     
     was $39 a.n.a Denim Bermuda Shorts (9")(9)Add To Cart
 *   $14 sale
     
-    was $37 St. John's Bay Floral Poplin Skorts(41)Add To Cart
+    was $37 St. John's Bay Floral Poplin Skorts(44)Add To Cart
 
 SAVE ON UNIFORMSShop AllSAVE ON UNIFORMSShop AllJEWELRY LIMITED TIME SPECIALSShop AllJEWELRY LIMITED TIME SPECIALSShop All
 
@@ -35,12 +31,17 @@ SAVE ON UNIFORMSShop AllSAVE ON UNIFORMSShop AllJEWELRY LIMITED TIME SPECIALSSho
     
     $10 sale
     
-    was $49.98 Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring Set(225)Add To Cart
+    was $49.98 Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring Set(226)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $10 sale
     
     was $49.98 Limited Time Special! Lab Created White Sapphire Stud Earrings in Sterling Silver(101)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $16.99 sale
+    
+    was $124.98 Womens 1/10 CT. T.W. White Diamond Sterling Silver Pendant Necklace(108)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $25 sale
@@ -53,24 +54,19 @@ SAVE ON UNIFORMSShop AllSAVE ON UNIFORMSShop AllJEWELRY LIMITED TIME SPECIALSSho
     was $270.82 Enchanted Disney Fine Jewelry Sterling Silver Gold Over Silver 18 Inch Chain Necklace(3)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $16.99 sale
-    
-    was $124.98 Womens 1/10 CT. T.W. White Diamond Sterling Silver Pendant Necklace(108)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $25 sale
     
     was $124.98 LIMITED TIME SPECIAL! 1/10 CT. T.W. Double Halo Diamond Pendant Necklace in Sterling Silver(393)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $437.50 sale
+    $749.99 sale
     
-    was $1,458.32 1/2 CT. T.W. Diamond 10K White Gold Anniversary Band(8)Add To Cart
+    was $2,499.98 1 CT. T.W. Diamond 10K White Gold 5-Stone Wedding BandAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $625 sale
+    $1,250 sale
     
-    was $2,083.32 Cherished Hearts™ 1/2 CT. T.W. Certified Diamond Bridal Set(11)Add To Cart
+    was $4,166.65 Two Forever™ 1½ CT. T.W. Diamond Two-Stone 14K White Gold Ring(2)Add To Cart
 
 Shop and Save at JCPenney
 
@@ -138,7 +134,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Instagram
+*   Google Plus
 *   Youtube
 *   JCPenney Blog
 
