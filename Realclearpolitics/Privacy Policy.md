@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Michael Finch_: An American Awakening
+*   _Susan Glasser_: The Epic Turnover of the Trump Administration
     
-*   _Eric Levitz_: Dem-Socialism Can Work in the Midwest -- With a Rebrand
+*   _Tim Stanley_: Trump's Winning Streak Transforming America
     
-*   _Jamelle Bouie_: Trump Leading Charge to Protect Shrinking White Majority
+*   _Umair Irfan_: Pruitt's Legacy: A Toxic Mess of Deregulation and Dysfunction
     
-*   _Tyler O'Neil_: White Millennials Are Leaving the Democratic Party
+*   _Erin Dunne_: Why the Left Will Hate Pruitt's Replacement Even More
     
-*   _Liz Peek_: New NAFTA Deal Is the Win Trump, Trudeau, Obrador Need
+*   _Derek Black_: Trump Reversal on Affirmative Action a Scare Tactic
     
-*   _Sarah Pompei_: Business Needs Defense-Grade Cyber Capabilities
+*   _David Marcus_: Affirmative Action Has Harmed Asian-Americans
     
-*   _Donald Trump_: Jon Tester Is No Partner of President Trump
+*   _Ben Caspit_: Iran's Retaliation Plans Worry Israel
     
-*   _Max Boot_: I Left the GOP. Now I Want Democrats to Take Over
+*   _F.H. Buckley_: What a Good Trump-Putin Deal Would Look Like
     
-*   _Paul Mulshine_: Are the Never-Trumpers Tired of Losing Yet?
+*   _Josh Marshall_: Trump's Unseen Battle With the U.S. Government
     
-*   _Dylan Matthews_: 3 Reasons the American Revolution Was a Mistake
+*   _Seth Lipsky_: The Democrats' New Religious Test for the Supreme Court
     
-*   _Jesse Kelly_: If You Believe in Freedom, You Are Truly an American
+*   _Annie Lowrey_: The Good and Bad of Full Employment
     
-*   _Susan Faludi_: Senators Collins &. Murkowski, It's Time to Leave the GOP
+*   _Matthew Continetti_: Who Killed the Center-Left?
     
-*   _Victor Davis Hanson_: Left Can't Come to Grips With Loss of Power
+*   _Eugene Robinson_: Trump Can't Make America White Again
     
-*   _Amie Parnes_: Dems Seek to One Up Each Other With Trump Attacks
+*   _Roger L. Simon_: Why Maxine Waters Is Going Crazy
     
-*   _Marc Thiessen_: The Left's Contempt Is Going to Re-Elect Trump
+*   _David Greenberg_: What Happened the Last Time the Left Got Nasty
     
-*   _Michael Tomasky_: The Democrats Are Not In Disarray
+*   _Kimberley Strassel_: Will the FBI Come Clean?
     
-*   _Josh Kraushaar_: Dems Underperforming With Hispanic Voters
+*   _Richard Wolffe_: Good Riddance to Scott Pruitt
     
-*   _James Antle_: The Donald Delivers for Conservatives
+*   _Elaina Plott_: Inside Pruitt's Tumultuous Final Months at the EPA
     
-*   _Steve Hantler_: Florida Establishment Ignoring Millions of Voters
+*   _Sean Trende_: Ranking Trump's Supreme Court Choices
     
-*   _Linda Sarsour_: Now You See the Brutality of ICE, Help Us Abolish It
+*   _Conrad Black_: Nominating Amy Barrett Would Be Political Genius
     
-*   _David Catron_: The Next American Revolution: #WalkAway
+*   _Jesse Merriam_: Kavanaugh the Right Pick for Trump
     
-*   _Natalie Nougayrede_: Putin Will Run Rings Around Trump in Helsinki
+*   _David Savage_: The Man to See If You Aspire to the Supreme Court
     
-*   _Michael Barone_: Can AMLO &. Trump Close the U.S.-Mexico Gap?
+*   _David Bossie_: The American People Do Not Want to 'Abolish ICE'
     
-*   _Yossi Beilin_: How Israel's Left Could Challenge Netanyahu
+*   _Adam Gabbatt_: The Growing 'Occupy Ice' Movement
     
 
 *   Previous
@@ -245,6 +247,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve45
     *   Disapprove51Disapprove +6
@@ -254,17 +259,14 @@ Latest PollsAll Polls
 *   2018 Generic Congressional VoteRasmussen Reports
     *   Democrats46
     *   Republicans40Democrats +6
-*   Congressional Job ApprovalEconomist/YouGov
-    *   Approve11
-    *   Disapprove66Disapprove +55
 
 More Latest Polls In The News
 
+*   Scarborough Blasts "Mean" Trump Rally Crowd: To Cheer When Trump Mocks McCain &. Bush Displays "No Decency"
+*   Gowdy: Republicans Don't Give A Damn What Adam Schiff Thinks, Has Had A Terrible Couple Of Years
 *   Dershowitz: "Hard Left" People Shunning Me Are Strengthening Trump's Base. Challenges Scarborough
 *   Trump Offers $1 Million For "Pocahontas" Elizabeth Warren To Take DNA Test To Prove Indian Ancestry
 *   Candace Owens: There Is Going To Be A Major Black Exit From The Democratic Party By 2020
-*   Scarborough on Dershowitz: Why Is He Surprised Martha's Vineyard Shunning Him? He's Undermining Mueller
-*   MSNBC Black Contrib: 2020 Is Not The Year Democrats Can Run A Woman Or Black Guy, Has To Be White Guy
 
 *   Politics
 *   Policy
