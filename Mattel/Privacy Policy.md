@@ -761,7 +761,7 @@ Follow Mattel
 
 *   Terms &. Conditions
 *   NEW Privacy Statement
-*   ADCHOICES
+
 *   © 2018 Mattel. All Rights Reserved
 
 Do you want to continue? You are about to visit a website that operates under a separate privacy policy and other terms.  
