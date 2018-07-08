@@ -78,6 +78,7 @@ Company
 
 *   CableONE About Us
 *   CableONE Social Responsibility
+*   CableONE Net Neutrality
 *   CableONE Press Releases
 *   CableONE Investor Relations
 
@@ -90,7 +91,6 @@ Legal
 *   CableONE Closed Captioning
 *   CableONE Accessibility
 *   CableONE Cable Service Guard
-*   CableONE Referral Program Terms &. Conditions
 *   CableONE Copyright Notice
 *   CableONE Annual Notice
 
@@ -102,4 +102,4 @@ Search Search Type Residential Business Support
 *   CableONE Site Map
 *   CableONE Remote Connect
 
-Facebook Twitter Google+ YouTube LinkedIn Copyright 2018 , Cable ONE Inc ., All Rights Reserved. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">.
+Facebook Twitter Instagram YouTube LinkedIn Copyright 2018 , Cable ONE Inc ., All Rights Reserved. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">.
