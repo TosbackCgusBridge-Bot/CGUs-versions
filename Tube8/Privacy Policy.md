@@ -93,8 +93,8 @@ Close
     *   Big Dick
     *   Old/Young
 *   Tags
-    Top 20 Porntags*   japanese
-    *   xxx bf
+    Top 20 Porntags*   xxx bf
+    *   japanese
     *   japan
     *   japanese mature
     *   italian
@@ -103,8 +103,8 @@ Close
     *   brazzers
     *   homemade
     *   massage
-    *   arab
     *   publicagent
+    *   arab
     *   young
     *   interracial
     *   petite
