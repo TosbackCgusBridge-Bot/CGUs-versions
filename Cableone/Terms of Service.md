@@ -135,6 +135,8 @@ Customers who exceed the above data plan 3 or more times in a rolling 12 month p
 
 Fargo, ND and Odessa, Texas Customers sold "Plus" Internet plans after 01/01/2018
 
+Empora, KS customers sold "Plus" Internet plans afer 6/15/18
+
 Plan name Data limit Starter Plus Plan NA Streamer &. Gamer Plus Plan NA Turbo Plus Plan NA GigaONE ® Plus NA
 
 \* Names, speeds, and data plans are subject to change
@@ -144,6 +146,8 @@ Plan name Data limit Starter Plus Plan NA Streamer &. Gamer Plus Plan NA Turbo P
 Customers on Plus Internet plans in these two communities do not have designated data plans assigned to the levels of service subscribed. However, customers on these plans who use more than 5TB of data during a data period may be subject to speed reductions for the remainder of their data period.
 
 Bartlesville, OK and Sioux City, IA Customers sold "Plus" Internet plans after 03/01/2018
+
+Biloxi, Gulport, Pascagoula, MS customers sold "Plus" plans after 7/15/18
 
 Customers on plus plans in these two communities have designated data plans assigned to the levels of service subscribed. Customer who exceed their data plans are automatically provided with an additional 100GB block of data to be used during their data period, at an additional cost. A maximum charge of 5 blocks of 100GB of data will be provided per data period. Additional Data Block Details
 
@@ -215,6 +219,7 @@ Company
 
 *   CableONE About Us
 *   CableONE Social Responsibility
+*   CableONE Net Neutrality
 *   CableONE Press Releases
 *   CableONE Investor Relations
 
@@ -227,7 +232,6 @@ Legal
 *   CableONE Closed Captioning
 *   CableONE Accessibility
 *   CableONE Cable Service Guard
-*   CableONE Referral Program Terms &. Conditions
 *   CableONE Copyright Notice
 *   CableONE Annual Notice
 
@@ -239,4 +243,4 @@ Search Search Type Residential Business Support
 *   CableONE Site Map
 *   CableONE Remote Connect
 
-Facebook Twitter Google+ YouTube LinkedIn Copyright 2018 , Cable ONE Inc ., All Rights Reserved. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">.
+Facebook Twitter Instagram YouTube LinkedIn Copyright 2018 , Cable ONE Inc ., All Rights Reserved. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">.
