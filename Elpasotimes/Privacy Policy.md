@@ -1,4 +1,4 @@
-close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%.
+SUBSCRIBE NOW99¢ per month. Save 90%.
 
 *   Home
 *   News
@@ -75,7 +75,7 @@ close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dial
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowVideo shows El Paso police pulling gun on boysNewsBackground actors sought for Warner Bros. filmNewsHorizon City planned as 'City of Tomorrow'NewsMexico extradites 'Chapo' Guzman's ex-partnerLocalDowntown El Paso store closing after 58 yearsBusinessPedestrian killed in Northeast El Paso accidentLocalBilly Abraham objects to sale of propertiesNewsEl Paso gang member convicted in I-20 drug caseCrimeEl Paso among top 50 cities people are leavingLocalBeto O'Rourke performs with Willie NelsonPoliticsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowVideo shows El Paso police pulling gun on boysNewsMom: Officer choked son before video startedCrimePedestrian killed in Northeast El Paso accidentLocalPolice looking for suspect who beat elderly manCrimePhotos, video of Running With the Bulls fun runLocalRetire here nicely on just $30,000 a yearNewsBackground actors sought for Warner Bros. filmNewsHorizon City planned as 'City of Tomorrow'NewsMexico extradites 'Chapo' Guzman's ex-partnerLocalDowntown El Paso store closing after 58 yearsBusinessHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,5 +145,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogNEWS, SPORTS &. EVENTSStay connected this Summer99¢ Per MonthFor 3 MonthsConnect NowNot looking to connect right now close dialogclose dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dialog
