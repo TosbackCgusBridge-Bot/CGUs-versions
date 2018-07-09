@@ -42,8 +42,6 @@ Close submenu ( Featured ) Featured
 *   Create Your Suit for $12
 *   4 for $12 Undies
 *   Uniform
-*   Americana Shop
-*   The White Collection
 *   Denim Guide
 *   Logo Shop
 *   Basic Essentials
@@ -286,7 +284,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **SAVE UP TO 15% OFF** USE CODE **FLASH15** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $75**
+**MIX + MATCH BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **50-70% OFF + FREE SHIPPING OVER $50** 
 
 *   My Account My Account Login Register
 
@@ -304,8 +302,6 @@ Menu Find a Store Aeropostale
         *   Create Your Suit for $12
         *   4 for $12 Undies
         *   Uniform
-        *   Americana Shop
-        *   The White Collection
         *   Denim Guide
         *   Logo Shop
         *   Basic Essentials
@@ -528,7 +524,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $75 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Graphic Tees Shop Guys Graphic Tees Shop Girls Polos Shop Guys Polos Shop Girls Camis + Tanks Shop Guys Tanks Shop Girls Uniform Shop Guys Uniform <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Graphic Tees Shop Guys Graphic Tees Shop Girls Polos Shop Guys Polos Shop Girls Camis + Tanks Shop Guys Tanks Shop Girls Uniform Shop Guys Uniform <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
