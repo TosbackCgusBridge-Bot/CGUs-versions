@@ -132,7 +132,7 @@ View 400mm f2.8 G Master prime lens on Instagram
 
 With four lustrous shades inspired by light, which #Xperia XZ2 color do you love best?
 
-5 days ago
+6 days ago
 
 View Tweet
 
