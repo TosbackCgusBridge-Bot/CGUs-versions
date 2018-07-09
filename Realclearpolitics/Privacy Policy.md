@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Anita Kumar_: EU Worries Trump Will Fulfill Promise to Bring Troops Home
+*   _Annie Lowery_: Trump Should Just Give People Money
     
-*   _Mike Allen &. Jonathan Swan_: Trump Makes NATO Nightmare a Reality
+*   _Frank Miele_: Trump Goes Trolling for East Coast Liberals in Montana!
     
-*   _Christian Whiton_: 70 Years After Its Founding is NATO Now Obsolete?
+*   _Albert Hunt_: Democrats Botch Supreme Court Politics
     
-*   _Max Fisher_: Why Europe Could Unravel Over a Question of Borders
+*   _Salena Zito_: Will #Resistance Summer Dampen the Dems' Big Autumn?
     
-*   _Rush Limbaugh_: Ignore the Media Crap! We're Winning Illegal Immigration Debate
+*   _Leonard Pitts_: The Republican Party Is Now the Party of Fear
     
-*   _Ro Khanna &. Danny Glover_: Border Security Comes From a Moral Foreign Policy
+*   _Wayne Allyn Root_: Dems Continue to be Clueless in Face of Trump's Triumphs
     
-*   _Victor Davis Hanson_: Barack Obama Was a Disaster for Democratic Party
+*   _Dan Balz_: Trump and Women: The Big Disconnect in U.S. Politics
     
-*   _Harry Litman_: Here's What Dems Can Hope for in Trump's List of Judges
+*   _Tomi Lahren_: Pushing to Overturn Roe v. Wade Would Be a 'Big Mistake'
     
-*   _Margaret Talbot_: Pruitt Is Gone, Trump's Climate Negligence Remains
+*   _Kevin McCullough_: Tomi Lahren's Six Lies About Roe
     
-*   _Joseph Calhoun_: Donald Trump, The Free Trade President?
+*   _Jean Hopfensperger_: As Churches Close, a Way of Life Fades
     
-*   _Steve Crockett_: Unhinged Trump Rants About Elizabeth Warren's Heritage
+*   _Joel Kotkin_: Can LeBron James Make Los Angeles Great Again?
     
-*   _Monica Showalter_: Trump Goes After Senator Fauxahontas Again
+*   _Andrew McCarthy_: Judicial Confirmation Silly Season Is Officially Underway
     
-*   _Franklin Foer_: The Death of the Public Square
+*   _Yvonne Abraham_: It's Decision Time for Susan Collins
     
-*   _Julie Kelly_: Unaccountable Big Media Personified
+*   _Carl Hulse_: Red-State Dems Face Agonizing Vote on Supreme Court Pick
     
-*   _Jon Talton_: Amazon Warehouse Workers Need a Union
+*   _Jenna Ellis_: When They Lose, Democrats Just Want to Change the Rules
     
-*   _Bruce Reidel_: Saudi Arabia's Powerful Crown Prince Still Needs His Father
+*   _Mark Z. Barabak_: Democrats' Midterm Rally Cry: Abolish ICE
     
-*   _Megan McArdle_: The Nationalism America Needs Now
+*   _Jeh Johnson_: Abolishing ICE Is Not a Serious Policy Proposal
     
-*   _Susan Glasser_: The Epic Turnover of the Trump Administration
+*   _Carl M. Cannon_: A Confidence Man in the White House
     
-*   _Tim Stanley_: Trump's Winning Streak Transforming America
+*   _Joe Battenfeld_: Donald Trump's Obsession Fuels Warren's 2020 Vision
     
-*   _Umair Irfan_: Pruitt's Legacy: A Toxic Mess of Deregulation and Dysfunction
+*   _Michael Goodwin_: Is Hillary Clinton Secretly Planning to Run in 2020?
     
-*   _Erin Dunne_: Why the Left Will Hate Pruitt's Replacement Even More
+*   _Roxanne Jones_: We Must Recognize America's Rampant, Systemic Racism
     
-*   _Derek Black_: Trump Reversal on Affirmative Action a Scare Tactic
+*   _Derek Hunter_: Liberal Outrage Is All the Rage
     
-*   _David Marcus_: Affirmative Action Has Harmed Asian-Americans
+*   _Krishnadev Calamur_: Trump's Message to NATO
     
-*   _Ben Caspit_: Iran's Retaliation Plans Worry Israel
+*   _Daniel DePetris_: It's Trump's Duty to Press Europeans on Defense Spending
     
 
 *   Previous
@@ -247,26 +245,27 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve45
-    *   Disapprove51Disapprove +6
-*   2018 Generic Congressional VoteEconomist/YouGov
-    *   Democrats42
-    *   Republicans38Democrats +4
-*   2018 Generic Congressional VoteRasmussen Reports
-    *   Democrats46
-    *   Republicans40Democrats +6
+*   Arizona Senate - Republican PrimaryGravis
+    *   McSally36
+    *   Ward27
+    *   Arpaio24McSally +9
+*   Arizona Senate - McSally vs. SinemaGravis
+    *   Sinema43
+    *   McSally39Sinema +4
+*   Arizona Senate - Ward vs. SinemaGravis
+    *   Sinema46
+    *   Ward37Sinema +9
+*   Arizona Senate - Arpaio vs. SinemaGravis
+    *   Sinema52
+    *   Arpaio33Sinema +19
 
 More Latest Polls In The News
 
-*   Dershowitz: "I'm Winning The Battle On Martha's Vineyard". Blame Feinstein If Barrett Gets Nomination
+*   Dershowitz vs. Fmr FBI Agent: "Circumstantial Case" For Obstruction Of Justice Charge Against Trump
+*   Blumenthal: Next Justice "Will Be Swing Vote" Deciding Roe, Obamacare, Gay Marriage, If Trump Can Pardon Self
+*   Leonard Leo: Conservatives Want Judges Who Will Interpret The Constitution As Written And Not Play Politics
+*   Lindsey Graham: China Sabotaging North Korea Nuclear Talks Over Tariff Trade War
 *   David Brooks: "Entertainment Zone Era" Of Trump MAGA Rallies "Like The End Of The Roman Empire"
-*   Gowdy: Republicans Don't Give A Damn What Adam Schiff Thinks, Has Had A Terrible Couple Of Years
-*   Scarborough Blasts "Mean" Trump Rally Crowd: To Cheer When Trump Mocks McCain &. Bush Displays "No Decency"
-*   Trump Offers $1 Million For "Pocahontas" Elizabeth Warren To Take DNA Test To Prove Indian Ancestry
 
 *   Politics
 *   Policy
