@@ -56,7 +56,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Why Queen Elizabeth Wears So Many Bright Colors 2 Politics Ruined Alan Dershowitz's Summer Plans 3 Vacation Inspiration: 10 Places to Go in August 4 The True Story of 'A Very English Scandal' 5 The 30 Best Cocktails to Enjoy This Summer Privacy Policy Dec 1, 2014
+Today's Top Stories 1 The History of the Royal Christening Dress 2 Jackie Kennedy's Packing List Has Been Revealed 3 Vacation Inspiration: 10 Places to Go in August 4 The 30 Best Cocktails to Enjoy This Summer 5 Politics Ruined Alan Dershowitz's Summer Plans Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -182,7 +182,9 @@ Last revised on April 1, 2016
 
 Last revised on April 1, 2016
 
-Advertisement - Continue Reading Below Share Tweet Email
+Watch Next
+
+Advertisement - Continue Reading Below More From About Advertise Online Terms of Use Why did I get this ad? Read Next L.L. Bean Is Getting Sued Over New Return Policy Ethel Kennedy Joins Hunger Strike Share Tweet Email
 
 *   About
 *   The New York Botanical Garden's Kiku Dinner
@@ -212,4 +214,4 @@ A Part of Hearst Digital Media Town &. Country participates in various affiliate
 *   Updated Terms of Use
 *   Site Map
 
-Share Tweet Email
+Share Tweet Email x
