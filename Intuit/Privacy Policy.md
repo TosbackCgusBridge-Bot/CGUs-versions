@@ -1,47 +1,31 @@
-Loading.. JEWELRY LIMITED TIME SPECIALSShop AllJEWELRY LIMITED TIME SPECIALSShop All
+Loading.. SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
 
-*   LIMITED TIME SPECIAL!
+*   $47.99 sale
     
-    $10 sale
+    was $64 JanSport® Big Student Backpack(80)Add To Cart
+*   $35.99 sale
     
-    was $49.98 Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring Set(227)Add To Cart
-*   LIMITED TIME SPECIAL!
+    was $48 JanSport® SuperBreak® Backpack(113)Add To Cart
+*   $35.99 - $54.99 sale
     
-    $10 sale
+    was $74 JanSport® Cool Student Backpack(24)Add To Cart
+*   $24.99 sale
     
-    was $49.98 Limited Time Special! Lab Created White Sapphire Stud Earrings in Sterling Silver(101)Add To Cart
-*   LIMITED TIME SPECIAL!
+    was $50 Minecraft BackpackAdd To Cart
+*   $39.99 sale
     
-    $25 sale
+    was $50 Nike Brasilia XL BackpackAdd To Cart
+*   $35.99 - $54.99 sale
     
-    was $124.98 Limited Time Special - 1/10 CT. T.W. Double Halo Diamond Stud Earrings in Sterling Silver(657)Add To Cart
-*   LIMITED TIME SPECIAL!
+    was $74 JanSport® Digital Student Backpack(3)Add To Cart
+*   $35.99 sale
     
-    $81.25 sale
+    was $45 Nike Brasilia Mesh Backpack(3)Add To Cart
+*   $35.99 sale
     
-    was $270.82 Enchanted Disney Fine Jewelry Sterling Silver Gold Over Silver 18 Inch Chain Necklace(3)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $25 sale
-    
-    was $124.98 LIMITED TIME SPECIAL! 1/10 CT. T.W. Double Halo Diamond Pendant Necklace in Sterling Silver(393)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $749.99 sale
-    
-    was $2,499.98 1 CT. T.W. Diamond 10K White Gold 5-Stone Wedding BandAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1,250 sale
-    
-    was $4,166.65 Two Forever™ 1½ CT. T.W. Diamond Two-Stone 14K White Gold Ring(2)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $52.49 sale
-    
-    was $174.98 Lab-Created Opal and Lab-Created White Sapphire 14K Yellow Gold Over Sterling Silver Ring(9)Add To Cart
+    was $45 adidas Foundation IV BackpackAdd To Cart
 
-SAVE ON UNIFORMSShop AllSAVE ON UNIFORMSShop AllShop and Save at JCPenney
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Get GE, LG and Samsung home appliances at amazing prices at our appliance sale. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadets that will make excellent gifts for any occassion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
