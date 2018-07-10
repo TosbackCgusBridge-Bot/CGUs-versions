@@ -96,7 +96,7 @@ Google EarthTM and Google MapsTM
 
 \*This privacy policy page was updated August 28, 2015.
 
-Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans &. Coasts Polishing the Keys: Local Florida tour companies pitch in to clean up after storm Weather Research Kilauea eruptions: The way the wind blows, so go the gas and the ash National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
+Share This SHARE Share to Twitter Share to Facebook Share by email Print National Oceanic and Atmospheric AdministrationU.S. Department of Commerce CloseHome Find your local weather Enter your ZIP code Frequently accessed tools &. resources
 
 *   Weather forecast tools and resources
 *   Climate data and reports
@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Oceans 
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Sunny or stormy? Your July Fourth holiday week weather outlook Eastern U.S. heat wave is subsiding but heat is building in the western states AROUND NOAA // Flotilla of saildrones deploy to Arctic and Pacific for earth science missions Polishing the Keys: Local Florida tour companies pitch in to clean up after storm Share the shore with marine life in Hawaii \[EXT\]
+Enter Search Terms June 2018 ranks third warmest on record for U.S. Nation hit with 6 billion-dollar disasters so far this year AROUND NOAA // Active Atlantic hurricane eras come with a speed bump for storms that approach the U.S. \[EXT\] Polishing the Keys: Local Florida tour companies pitch in to clean up after storm Share the shore with marine life in Hawaii \[EXT\]
 
 *   About our agency
 *   News and features
