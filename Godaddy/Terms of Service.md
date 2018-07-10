@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: May 23, 2018**
+**Last Revised: July 9, 2018**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -63,13 +63,13 @@ x.          You agree to provide government-issued photo identification
 
 xi.          You are aware that GoDaddy may from time-to-time call you about your account, and that, for the purposes of any and all such call(s), you may be subject to call recording and hereby consent to the same, subject to any applicable laws and our restrictions and obligations thereunder, including, where permissible, to record the entirety of such calls regardless of whether GoDaddy asks you on any particular call for consent to record such call.  You further acknowledge and agree that, to the extent permitted by applicable law, any such recording(s) may be submitted as evidence in any legal proceeding in which GoDaddy is a party_._ Further, by providing your telephone or mobile number, you consent to receive marketing telephone calls from or on behalf of GoDaddy that may be initiated by an automatic telephone dialing system and/or use an artificial or prerecorded voice. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy.  Similarly, by providing your mobile number, you consent to receive marketing text messages from or on behalf of GoDaddy that may be sent by an automatic telephone dialing system. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy. Message and data rates may apply.
 
- **6\. PROTECTION OF YOUR DATA**
+**6\. PROTECTION OF YOUR DATA**
 
 GoDaddy offers certain hosted Services available to you that may involve the submission, collection and/or use of personally identifying or identifiable information about you and your own customers (“Your Data”) in the course of your use of these Services (“Covered Services”). Your Data, for the purpose of this Section, excludes any User Content. GoDaddy’s Data Processing Addendum (“DPA”), which is hereby incorporated by reference and applicable to Covered Services, is meant to provide you contractual assurance that we have robust mechanisms to ensure the transfer of Your Data, including transfers of Your Data from the EEA to the Covered Services, meets with compliance under applicable data privacy laws.
 
 For the purposes of the DPA and the Standard Contractual Clauses attached to the DPA (when and as applicable), you (and your applicable affiliates) are considered the Data Controller/Data Exporter, and your acceptance of the terms of service governing Covered Services at the time of purchase of any Covered Services will also be treated as your acknowledgement and acceptance of the DPA and its appendices (including the Standard Contractual Clauses and its appendices, as applicable). If you wish to print, sign and return a physical copy of the DPA, please send an email request to privacy@godaddy.com   
 
-Covered Services, as defined in this Section and in the DPA, include hosted services that are subject to the terms and conditions of the following Agreements: (1) Domain Name Registration, (2) Email Marketing Services, (3) GoCentral, (4) Hosting, (5) Online Bookkeeping, (6) Online Store/Quick Shopping Cart, (7) Smartline and (8) Website Builder Services.   
+Covered Services, as defined in this Section and in the DPA, include hosted services that are subject to the terms and conditions of the following Agreements: (1) Domain Name Registration, (2) Email Marketing Services, (3) GoCentral, (4) Hosting, (5) Online Bookkeeping, (6) Online Store/Quick Shopping Cart, (7) Smartline and (8) Website Builder Services.      
 
 **7. USER CONTENT**
 
@@ -417,5 +417,5 @@ E-Mail: HQ@GoDaddy.com
 You expressly agree that: (i) GoDaddy (or its service provider) may contact you by phone in order to resolve your complaint or dispute, or your current service or billing issue. and (ii) in order to resolve such complaint, dispute or issue, GoDaddy may use and may disclose to its service provider the following information: call recordings, customer name, phone number(s) and contact preferences, tenure of your relationship with GoDaddy, products used, and information about the nature of your complaint, dispute, or service issue.
 
   
-Revised: 5/23/18  
+Revised: 7/9/18  
 Copyright © 2005-2018 GoDaddy.com, LLC All Rights Reserved.
