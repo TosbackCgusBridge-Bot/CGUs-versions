@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Annie Lowery_: Trump Should Just Give People Money
+*   _Michael Graham_: Don't Destroy Supreme Court to Save It From Trump
     
-*   _Frank Miele_: Trump Goes Trolling for East Coast Liberals in Montana!
+*   _Ezra Klein_: The Supreme Court vs. Democracy
     
-*   _Albert Hunt_: Democrats Botch Supreme Court Politics
+*   _Charles Hurt_: Even Abortion Enthusiasts Know Roe Is a Legal Abomination
     
-*   _Salena Zito_: Will #Resistance Summer Dampen the Dems' Big Autumn?
+*   _Keir Starmer_: May's Brexit Strategy Failed. Parliament Must Take Lead
     
-*   _Leonard Pitts_: The Republican Party Is Now the Party of Fear
+*   _Michael Walsh_: In Germany, the Immigration Worm Has Turned
     
-*   _Wayne Allyn Root_: Dems Continue to be Clueless in Face of Trump's Triumphs
+*   _Carlos Ramirez-Rosa_: Dems' Irrational Fear of Socialism Ignores History
     
-*   _Dan Balz_: Trump and Women: The Big Disconnect in U.S. Politics
+*   _Jonathan Last_: Trump Is Never Going To Be Reagan
     
-*   _Tomi Lahren_: Pushing to Overturn Roe v. Wade Would Be a 'Big Mistake'
+*   _Joe Concha_: NeverTrumpers Dominate Media as Trump Hits High w/GOP
     
-*   _Kevin McCullough_: Tomi Lahren's Six Lies About Roe
+*   _Charles Blow_: Trump Reeks of Fear
     
-*   _Jean Hopfensperger_: As Churches Close, a Way of Life Fades
+*   _John Hinderaker_: 'Hurry the F Up Pressure' to Stop Trump
     
-*   _Joel Kotkin_: Can LeBron James Make Los Angeles Great Again?
+*   _David Sanger_: Are We Already In a Cyber War?
     
-*   _Andrew McCarthy_: Judicial Confirmation Silly Season Is Officially Underway
+*   _Jacobs &. Niquette_: Trump to Cement Conservative Majority on High Court
     
-*   _Yvonne Abraham_: It's Decision Time for Susan Collins
+*   _Paul Waldman_: The Liberal Backlash Is Coming
     
-*   _Carl Hulse_: Red-State Dems Face Agonizing Vote on Supreme Court Pick
+*   _Newt Gingrich_: Left's Growing Nastiness Shows They Know Trump Is Winning
     
-*   _Jenna Ellis_: When They Lose, Democrats Just Want to Change the Rules
+*   _Jamie Lincoln Kitman_: Making America Unemployed Again
     
-*   _Mark Z. Barabak_: Democrats' Midterm Rally Cry: Abolish ICE
+*   _Evan Kraft_: Good News: People Returning to the Labor Force in Droves
     
-*   _Jeh Johnson_: Abolishing ICE Is Not a Serious Policy Proposal
+*   _Christopher Roach_: What Does the Democratic Party Stand For?
     
-*   _Carl M. Cannon_: A Confidence Man in the White House
+*   _Gilad Edelman_: The Socialist Network
     
-*   _Joe Battenfeld_: Donald Trump's Obsession Fuels Warren's 2020 Vision
+*   _Jonathan Chait_: What If Trump Has Been a Russian Asset Since 1987?
     
-*   _Michael Goodwin_: Is Hillary Clinton Secretly Planning to Run in 2020?
+*   _Byron York_: What Really Happened When GOP Senators Visited Moscow
     
-*   _Roxanne Jones_: We Must Recognize America's Rampant, Systemic Racism
+*   _Bandy Lee &. Thomas Singer_: Why We Must Pyschoanalyze Trump
     
-*   _Derek Hunter_: Liberal Outrage Is All the Rage
+*   _Robert Knight_: Mad and Hot, the 'Resistance' Is Seething
     
-*   _Krishnadev Calamur_: Trump's Message to NATO
+*   _Alex Isenstadt_: Will Sasse Go the Way of Flake and Corker?
     
-*   _Daniel DePetris_: It's Trump's Duty to Press Europeans on Defense Spending
+*   _Eddie Scarry_: Never-Trumpers Aren't 'Leaving' the GOP. They've Been Fired
     
 
 *   Previous
@@ -226,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Ranking Trump's Supreme Court Choices
+*   Trump Picks Kavanaugh for Supreme Court
+*   In Senate, McConnell Doing His Part to Remake Judiciary
+*   Kavanaugh: I Will Always Strive to Preserve the Constitution
 *   Pruitt Is Out, Handing EPA Reins to Andrew Wheeler
-*   Owens: There's Going to Be Major Black Exit From Democratic Party by 2020
 *   With Little Leverage on Court Pick, Dems Eye Plan B
-*   In Republican Bastion Kansas, 2 Congressional Seats in Play
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -261,11 +263,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Dershowitz vs. Fmr FBI Agent: "Circumstantial Case" For Obstruction Of Justice Charge Against Trump
-*   Blumenthal: Next Justice "Will Be Swing Vote" Deciding Roe, Obamacare, Gay Marriage, If Trump Can Pardon Self
-*   Leonard Leo: Conservatives Want Judges Who Will Interpret The Constitution As Written And Not Play Politics
-*   Lindsey Graham: China Sabotaging North Korea Nuclear Talks Over Tariff Trade War
-*   David Brooks: "Entertainment Zone Era" Of Trump MAGA Rallies "Like The End Of The Roman Empire"
+*   Booker: Trump Picked Only Judge Who Has Written A President Should Not Be Subject Of Criminal Probe
+*   Sanders: We Have "Right-Wing Extremists" In Charge Of White House, Senate, House, Supreme Court
+*   Dershowitz: If I Were Defending Clinton People Would Be "Loving Me," I'd Be "Hero" Of Martha's Vineyard
+*   Giuliani: This Is The Most Corrupt Investigation I Have Ever Seen, Stacked With "Severe Partisans"
+*   Chuck Todd to Sen. Roy Blunt: Do You Worry Trump Could "Hand Crimea To The Russians" At Putin Meeting?
 
 *   Politics
 *   Policy
