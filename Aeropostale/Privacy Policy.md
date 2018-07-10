@@ -36,13 +36,13 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Stock Up Flash Sale
 *   Buy 1 Get 2 Free Tees
 *   Buy 1 Get 1 Free Jeans
 *   Create Your Suit for $12
 *   4 for $12 Undies
 *   Uniform
 *   Denim Guide
+*   Flex Effects
 *   Logo Shop
 *   Basic Essentials
 *   Seriously Soft
@@ -94,7 +94,6 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Stock Up Flash Sale
 *   Buy 1 Get 2 Free Tees
 *   Buy 1 Get 1 Free Jeans
 *   Buy 1 Get 2 Accessories
@@ -284,7 +283,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**MIX + MATCH BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **50-70% OFF + FREE SHIPPING OVER $50** 
+**BUY 1 GET 1 ON SELECT JEANS STYLES  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -296,13 +295,13 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Stock Up Flash Sale
         *   Buy 1 Get 2 Free Tees
         *   Buy 1 Get 1 Free Jeans
         *   Create Your Suit for $12
         *   4 for $12 Undies
         *   Uniform
         *   Denim Guide
+        *   Flex Effects
         *   Logo Shop
         *   Basic Essentials
         *   Seriously Soft
@@ -349,7 +348,6 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Stock Up Flash Sale
         *   Buy 1 Get 2 Free Tees
         *   Buy 1 Get 1 Free Jeans
         *   Buy 1 Get 2 Accessories
@@ -487,7 +485,6 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Clearance
     *   Trending
-    
 *   Clearance
     
     *   View Home
@@ -524,7 +521,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Graphic Tees Shop Guys Graphic Tees Shop Girls Polos Shop Guys Polos Shop Girls Camis + Tanks Shop Guys Tanks Shop Girls Uniform Shop Guys Uniform <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Shop Girls Flex Effects Shop Guys Flex Effects Shop All Our Jeans Shop Girls Shop Guys Shop Girls Polos Shop Guys Polos Shop Girls Tees Shop Guys Tees Shop Girls Shorts Shop Guys Shorts Shop Girls Uniform Shop Guys Uniform <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -558,7 +555,7 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. close dialogGive us your email to snag50-70% OFFEverythingPlease enter aboveAccess the saleI don't want 50-70% off\*Cannot be combined with other offersYOU’VE SNAGGED 50-70% off storewideCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyclose dialogGive us your email to snag50-70% OFFEverythingPlease enter aboveAccess the saleI don't want 50-70% off\*Cannot be combined with other offersYOU’VE SNAGGED 50-70% off storewideCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
 
 Refer a friend and get $15 off.
 
