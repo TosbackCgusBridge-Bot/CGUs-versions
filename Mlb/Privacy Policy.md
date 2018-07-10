@@ -50,7 +50,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Chatting Cage
     *   Carry The Freight
     *   Papa Slam
-    *   Famous Plays
+    *   This Date in History
     *   Pitching Matchups
     *   First Pitch
 *   Standings Standings Standings
