@@ -8,6 +8,26 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Rebecca Taylor Up to 60% Off
+    *   Sanctuary
+    *   Summer Must-Haves: Straw Bags &. More
+    *   Louise et Cie Starting at $25
+    *   Wild Honey &. More Under $35
+    *   Statement Jewelry Under $35
+    *   Summer Style: Dresses Under $30
+    *   Pour la Victoire Up to 50% Off
+    *   Karen Walker &. More: Sunnies Up to 70% Off
+    *   Vacay Ready: Beauty Travel Essentials from $10
+    *   Slide Sandals Under $50
+    *   Callisto Under $50
+    *   KitchenAid
+    *   Free Shipping: Rustic Accent Furniture &. More
+    *   Mr. Swim
+    *   Steven Land Up to 65% Off
+    *   Summer Polos Under $40
+    *   Sophie Catalou
+    *   Olivia Miller Girl Up to 65% Off
+    *   Little Miss Twin Stars &. More Up to 70% Off
     *   Vertigo Up to 85% Off
     *   Jewelry Box Essentials Up to 80% Off
     *   Sunday Steals Up to 75% Off
@@ -17,8 +37,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Volume Control: Hair Tools &. More Up to 80% Off
     *   Citizen Eco-Drive Watches &. More Up to 50% Off
     *   Men's Shoes Up to 65% Off
-    *   Men's Final Few Up to 80% Off
     *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    
     *   Eliza J Dresses Incl. Plus &. Petites
     *   Trask
     *   Sincerely Jules
@@ -37,10 +57,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Premium Brands for Baby Starting at $10
     *   Keep It Clean: Organization Essentials from $10
     *   Free Shipping: Exquisite Rugs
-    *   Khrio
+    *   Men's Final Few Up to 80% Off
     *   Ray-Ban Sunglasses
     *   Go Couture Blowout
-    
     *   Just Me Dresses
     *   Green Dragon Up to 75% Off
     *   Perfectly Pink: Summer Shoes
@@ -50,6 +69,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Born Starting at $40
     *   Earring Edit: Chic Styles Under $30
     *   Plus Shop ft. Rebel Wilson x Angels
+    
     *   French Soap, Lotion &. More from Pre de Provence
     *   Cape Robbin Starting at $15
     *   Saucony Men
@@ -58,56 +78,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Indigo Star Under $35
     *   Saucony Kids
     *   Your Call: 100+ Phone Cases &. More from $10
-    *   Naked Zebra Under $40
-    *   Closet Update: On-Trend Summer Shoes
-    *   Hobo Handbags Up to 50% Off
-    *   Love Stitch Dresses
-    *   Elie Tahari
-    *   Etienne Marcel Up to 80% Off
-    *   Steven by Steve Madden Up to 70% Off
+    *   Free Shipping: Fresh Area Rugs
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
-    *   Simply Couture Up to 75% Off
-    *   JoFit Golf &. Tennis
-    *   Block Heel Sandals Starting at $25
-    *   MIA Starting at $20
-    *   Natural Stone Jewelry &. More
     *   Travis Mathew
     *   Unsimply Stitched Up to 80% Off
-    
     *   Black &. Denim Under $20
     *   $45 &. Under: Call It Spring Men
     *   Free Shipping: Chic Fashion Pillows, Art &. More
-    *   Free Shipping: Fresh Area Rugs
     *   Cheers to Summer: Drinkware, Coolers &. More
-    *   Crocs for the Family
-    *   Summer Sheers: Hosiery Under $30
     *   Josie Maran Up to 50% Off
-    *   Ben Sherman Tailored Clothing
-    *   Ben Sherman
-    *   Ben Sherman Luggage, Bags &. More
-    *   Boys' Brands We Love Under $25
-    *   Girls' Brands We Love Under $25
     *   Free Shipping: Bright Beach Towels
     *   Beyond Boho: Embroidered Decor &. More from $10
     *   Prep to Presentation: Kitchen Gadgets from $10
-    *   Robert Wayne Up to 65% Off
+    *   Free Shipping: Home Decor Under $250
     *   Sleep &. Lounge ft. The Laundry Room
-    *   Perricone MD Up to 55% Off
-    *   Party On: Barware &. More Starting at $10
     *   Nostalgia Kitchen Appliances Starting at $10
-    *   Tart
-    *   American Twist Under $40
+    *   Free Shipping: Fashion-Forward Accent Furniture
     *   Free Shipping: NMK Bedding Up to 75% Off
     *   Free Shipping: Marmont Hill Wall Art Up to 75% Off
     *   Clearly Perfect: Chic Glass Serveware &. More
-    *   Kitchen Must-Haves from Cuisinart
-    *   Picnic Essentials: Cooler Sets &. More from $10
-    *   Free Shipping: Home Decor Under $250
-    *   Izutech Flat Irons Under $15
+    *   Khrio
+    *   Party On: Barware &. More Starting at $10
     *   Trending Now: Geo Rugs &. More Up to 75% Off
-    *   Free Shipping: Fashion-Forward Accent Furniture
 *   WomenShop Sale Events
     
+    *   Rebecca Taylor Up to 60% Off
+    *   Sanctuary
+    *   Summer Must-Haves: Straw Bags &. More
+    *   Louise et Cie Starting at $25
+    *   Wild Honey &. More Under $35
+    *   Statement Jewelry Under $35
+    *   Summer Style: Dresses Under $30
+    *   Pour la Victoire Up to 50% Off
+    *   Karen Walker &. More: Sunnies Up to 70% Off
+    *   Vacay Ready: Beauty Travel Essentials from $10
+    *   Slide Sandals Under $50
+    *   Callisto Under $50
     *   Vertigo Up to 85% Off
     *   Jewelry Box Essentials Up to 80% Off
     *   Sunday Steals Up to 75% Off
@@ -120,13 +126,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Trask
     *   Sincerely Jules
     *   Summer Staples: Embroidered Styles We Love
+    
     *   Fresh Faced: Serums for Every Need Up to 95% Off
     *   Amari Active
     *   Best of Italy: Handbags
     *   Avah &. Ella Jewelry Starting at $15
     *   Sacred Jewels Up to 60% Off
     *   PinkBlush Maternity
-    *   Khrio
     *   Ray-Ban Sunglasses
     *   Go Couture Blowout
     *   Just Me Dresses
@@ -135,66 +141,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Chan Luu Jewelry
     *   Summer Tops ft. Everleigh
     *   OnTwelfth
-    
     *   Born Starting at $40
     *   Earring Edit: Chic Styles Under $30
     *   Plus Shop ft. Rebel Wilson x Angels
     *   French Soap, Lotion &. More from Pre de Provence
     *   Cape Robbin Starting at $15
-    *   Naked Zebra Under $40
-    *   Closet Update: On-Trend Summer Shoes
-    *   Hobo Handbags Up to 50% Off
-    *   Love Stitch Dresses
-    *   Elie Tahari
-    *   Etienne Marcel Up to 80% Off
-    *   Steven by Steve Madden Up to 70% Off
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
-    *   Simply Couture Up to 75% Off
-    *   JoFit Golf &. Tennis
-    *   Block Heel Sandals Starting at $25
-    *   MIA Starting at $20
-    *   Natural Stone Jewelry &. More
-    *   Crocs for the Family
-    *   Summer Sheers: Hosiery Under $30
     *   Josie Maran Up to 50% Off
     *   Sleep &. Lounge ft. The Laundry Room
-    *   Perricone MD Up to 55% Off
-    *   Tart
-    *   American Twist Under $40
-    *   Izutech Flat Irons Under $15
+    *   Khrio
     
     Shop By Category
     *   Clothing
     *   Jewelry
     *   Shoes
     *   Handbags
+    *   Accessories
     *   Lingerie
     *   Watches
-    *   Accessories
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Mr. Swim
+    *   Steven Land Up to 65% Off
+    *   Summer Polos Under $40
     *   Citizen Eco-Drive Watches &. More Up to 50% Off
     *   Men's Shoes Up to 65% Off
-    *   Men's Final Few Up to 80% Off
     *   Jared Lang
     *   Summer Suits ft. Tallia &. More
     *   Hybrid Green Label Up to 70% Off
+    *   Men's Final Few Up to 80% Off
+    
     *   Ray-Ban Sunglasses
     *   Saucony Men
     *   Rosso Milano Up to 85% Off
     *   BC Collection Up to 70% Off
-    
     *   Indigo Star Under $35
     *   Travis Mathew
     *   Unsimply Stitched Up to 80% Off
     *   Black &. Denim Under $20
     *   $45 &. Under: Call It Spring Men
-    *   Crocs for the Family
-    *   Ben Sherman Tailored Clothing
-    *   Ben Sherman
-    *   Ben Sherman Luggage, Bags &. More
-    *   Robert Wayne Up to 65% Off
     
     Shop By Category
     *   Clothing
@@ -203,68 +189,65 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Sophie Catalou
+    *   Olivia Miller Girl Up to 65% Off
+    *   Little Miss Twin Stars &. More Up to 70% Off
     *   Bravado Designs Maternity &. Nursing Intimates
     *   PinkBlush Maternity
     *   Nikiani Baby
     *   Premium Brands for Baby Starting at $10
     *   Saucony Kids
-    *   Crocs for the Family
-    *   Boys' Brands We Love Under $25
-    *   Girls' Brands We Love Under $25
     
     Shop By Category
-    *   Boys Sizes 2T-7
-    *   Girls Sizes 7-16
     *   Girls Sizes 2T-6X
-    *   Baby Girl
     *   Girls' Shoes
-    *   Boys' Shoes
+    *   Baby Girl
+    *   Girls Sizes 7-16
     *   Baby Boy
-    *   Boys Sizes 8-20
+    *   Boys' Shoes
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   KitchenAid
+    *   Free Shipping: Rustic Accent Furniture &. More
     *   Amrapur Bedding Up to 85% Off
     *   Keep It Clean: Organization Essentials from $10
     *   Free Shipping: Exquisite Rugs
     *   Your Call: 100+ Phone Cases &. More from $10
-    *   Free Shipping: Chic Fashion Pillows, Art &. More
     *   Free Shipping: Fresh Area Rugs
+    *   Free Shipping: Chic Fashion Pillows, Art &. More
     *   Cheers to Summer: Drinkware, Coolers &. More
     *   Free Shipping: Bright Beach Towels
+    
     *   Beyond Boho: Embroidered Decor &. More from $10
     *   Prep to Presentation: Kitchen Gadgets from $10
-    
-    *   Party On: Barware &. More Starting at $10
+    *   Free Shipping: Home Decor Under $250
     *   Nostalgia Kitchen Appliances Starting at $10
+    *   Free Shipping: Fashion-Forward Accent Furniture
     *   Free Shipping: NMK Bedding Up to 75% Off
     *   Free Shipping: Marmont Hill Wall Art Up to 75% Off
     *   Clearly Perfect: Chic Glass Serveware &. More
-    *   Kitchen Must-Haves from Cuisinart
-    *   Picnic Essentials: Cooler Sets &. More from $10
-    *   Free Shipping: Home Decor Under $250
+    *   Party On: Barware &. More Starting at $10
     *   Trending Now: Geo Rugs &. More Up to 75% Off
-    *   Free Shipping: Fashion-Forward Accent Furniture
     
     Shop By Category
     *   Home Decor
     *   Rugs
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Outdoor Living
     *   Accent Furniture
+    *   Outdoor Living
     *   Bath
     *   Luggage &. Travel
     *   Storage &. Cleaning
 *   BeautyShop Sale Events
     
+    *   Vacay Ready: Beauty Travel Essentials from $10
     *   Volume Control: Hair Tools &. More Up to 80% Off
     *   Fresh Faced: Serums for Every Need Up to 95% Off
     *   French Soap, Lotion &. More from Pre de Provence
     *   Terre Mere Organic Vegan Beauty Up to 80% Off
     *   Josie Maran Up to 50% Off
-    *   Perricone MD Up to 55% Off
-    *   Izutech Flat Irons Under $15
     
     Shop By Category
     *   Makeup
