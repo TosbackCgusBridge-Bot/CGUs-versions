@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: July 9, 2018**
+**Last Revised: July 10, 2018**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -417,5 +417,5 @@ E-Mail: HQ@GoDaddy.com
 You expressly agree that: (i) GoDaddy (or its service provider) may contact you by phone in order to resolve your complaint or dispute, or your current service or billing issue. and (ii) in order to resolve such complaint, dispute or issue, GoDaddy may use and may disclose to its service provider the following information: call recordings, customer name, phone number(s) and contact preferences, tenure of your relationship with GoDaddy, products used, and information about the nature of your complaint, dispute, or service issue.
 
   
-Revised: 7/9/18  
+Revised: 7/10/18  
 Copyright © 2005-2018 GoDaddy.com, LLC All Rights Reserved.
