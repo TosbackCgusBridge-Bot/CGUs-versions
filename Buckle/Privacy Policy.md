@@ -469,7 +469,7 @@ Returns
 
 Promotions
 
-*   Free Picnic Blanket
+*   Max Your Rewards
 *   All Promotions
 *   Store Events
 *   Military Discount
