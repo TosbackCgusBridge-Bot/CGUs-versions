@@ -136,7 +136,7 @@ The PlayStation™Store
 
 Get to know Sony's VENICE camera with our interactive menu simulator. Try it out here.
 
-2 hours ago
+1 day ago
 
 View Tweet
 
