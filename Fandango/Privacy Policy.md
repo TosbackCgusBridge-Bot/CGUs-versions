@@ -71,9 +71,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Unexpected Comic Thrillers: 'The Spy Who Dumped Me,' 'Goosebumps 2,' 'Holmes and Watson' Read More
+    *   Billy Dee Williams to Reprise Lando Role for 'Star Wars: Episode IX'. Here's What We Know So Far Read More
     *   J.B. Smoove Joins 'Spider-Man: Far From Home'. Here's Everything We Know Read More
-    *   Margot Robbie Talks 'Birds of Prey'. Here's Everything We Know Read More
+    *   Jeremy Renner Joins the 'Spawn' Reboot. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -318,9 +318,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Mission: Impossible - Fallout' Gift With Purchase
+*   Earn 2X VIP+ POINTS with 'Skyscraper' Ticket Purchase
     
-    Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
+    Earn 2X VIP+ POINTS with your 'Skyscraper' ticket purchase. (Yep, every 2 tickets = $6 reward on us!) BUY TICKETS
     
 *   'Jurassic World: Fallen Kingdom' Gift With Purchase
     
