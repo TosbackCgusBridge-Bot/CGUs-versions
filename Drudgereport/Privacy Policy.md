@@ -135,9 +135,13 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 3 Mentions, 54.5K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/Rxes…
+
+About 5 hours ago
+
 My week on Twitter : 3 Likes, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/56er…
 
-About 6 days ago
+Last week
 
 “As a publisher, you stand to gain from those direct customers and, in general, data." - @Requidan on the topic of @ATT acquiring @AppNexus via @adexchanger. Read more here: bit.ly/2yLUFqC
 
@@ -148,10 +152,6 @@ My week on Twitter : 1 Mention, 2 New Followers, 1 Reply. See yours with sumall.
 About 2 weeks ago
 
 My week on Twitter : 1 Mention, 964 Mention Reach, 2 Likes, 1 Retweet, 52 Retweet Reach. See yours with sumall.com/performan… pic.twitter.com/7aiB…
-
-About 3 weeks ago
-
-Our biggest fans this week: @karysjones0425. Thank you! via sumall.com/thankyou?… pic.twitter.com/3OxX…
 
 About 3 weeks ago
 
