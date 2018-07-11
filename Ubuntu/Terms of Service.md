@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   6 IDEs you need to know about ›
+*   Graphical environments in the world of IoT ›
+*   Infographic: Ubuntu connects everything ›
 *   Minimal Ubuntu, on public clouds and Docker Hub ›
 *   Make your Snap store page pop! ›
-*   Ubuntu Server development summary – 03 July 2018 ›
-*   Introducing the Dell Precision 7530 and 7730 with Ubuntu ›
-*   Fresh Snaps from June 2018 ›
