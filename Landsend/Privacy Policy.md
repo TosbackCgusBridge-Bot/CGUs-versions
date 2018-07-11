@@ -9,9 +9,11 @@ skip to content skip to navigation skip to search Lands' End SIGN IN MY ACCOUNT
 *   Call or Text 1-800-963-4816
 *   Ship To
 *   Help
+    *   Customer Service
     *   Contact Us
     *   Track My Order
     *   Make a Return
+    *   Email Sign Up
     *   FAQ
     *   Chat
 
@@ -26,7 +28,6 @@ Close
     *   Edit Order
     *   Order History
     *   Refer a Friend
-    *   Email Sign Up
     *   Sign Out
 *   Bag 0
 
@@ -162,7 +163,7 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   Kids' Swim Shop
     *   Kids' Backpacks &. Lunch Boxes
-    *   Girls' Knit Kit
+    *   Girls' Knit Kit Stretchy Seperates
     *   Kids' Iron Knees Pants
     *   School Uniforms
     
@@ -559,7 +560,7 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Kids' Swim Shop
         *   Kids' Backpacks &. Lunch Boxes
-        *   Girls' Knit Kit
+        *   Girls' Knit Kit Stretchy Seperates
         *   Kids' Iron Knees Pants
         *   School Uniforms
     *   Girls' Clothing
@@ -842,7 +843,6 @@ menu Close 0 Free Shipping on $50+
     *   Edit Order
     *   Order History
     *   Refer a Friend
-    *   Email Sign Up
     *   Sign Out
 *   Contact us Call Text Chat Email
 *   Track My Order
@@ -851,15 +851,16 @@ menu Close 0 Free Shipping on $50+
 *   Ship To 
 *   Help
     *   Back
+    *   Customer Service
     *   Contact Us
     *   Track My Order
     *   Make a Return
+    *   Email Sign Up
     *   FAQ
     *   Chat
 
-code: pin: DETAILS
-
-Customer Service Menu
+BIG SUMMER SALE - Save Up To 60% Shop All Sale  
+No promo code required. Customer Service Menu
 
 Customer Service
 
@@ -1126,4 +1127,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
