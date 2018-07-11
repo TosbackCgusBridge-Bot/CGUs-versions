@@ -5,38 +5,79 @@
 
 SurveyMonkey® ÷
 
-1.  How It Works
-2.  Products
-    *   Survey Platform
-    *   Survey Panel
-    *   App Directory
-    *   Wufoo Online Forms
-    *   Solutions
-    *   Overview
-    *   Enterprise Survey Platform
-    *   Customer Experience
-    *   Employee Engagement
-    *   Content Marketing
-    *   Application Management
-3.  Examples
-    *   Survey Types
-    *   Academic Research
-    *   Quizzes
+1.  Products Power your curiosity with our data platform
+    
+    *   Surveys
+    *   SurveyMonkey
+        
+        Create &. send surveys with the world’s #1 online survey software
+        
+    *   Audience
+        
+        Collect survey responses from our global consumer panel
+        
+    
+    *   Automated programs
+    *   CX
+        
+        Understand &. improve customer experience (NPS®)
+        
+    *   Engage
+        
+        Understand &. increase employee engagement
+        
+    *   TechValidate
+        
+        Create marketing content from customer feedback
+        
+    
+    *   Forms and workflows
+    *   Wufoo
+        
+        Gather data &. payments with online forms
+        
+    *   Apply
+        
+        Collect, review &. manage applications online
+        ADD INTEGRATIONS &. PLUG-INS VIEW ALL PRODUCTS
+2.  Solutions Drive business forward with People Powered Data
+    *   Customers
+        
+        Win more business with Customer Powered Data
+        
+    *   Employees
+        
+        Build a stronger workforce with Employee Powered Data
+        
+    *   Markets
+        
+        Validate business strategy with Market Powered Data
+        
+    
+    *   By Need
     *   Customer Satisfaction
-    *   Education
-    *   Employee
-    *   Healthcare
+    *   Employee Engagement
     *   Market Research
-    *   Non Profit
-    *   Events
-4.  Resources
-    *   Customer Stories
-    *   Survey Templates
-    *   Survey Tips
-    *   Mobile App
-    *   Blog
+    *   Customer Loyalty
+    *   Job Satisfaction
+    *   Opinion Polls
+    *   Event Surveys
+    *   HR Surveys
+    *   Concept TestingVIEW MORE
+3.  Resources Seek the inspiration and expertise you need
+    *   Resources
+        
+        Expert templates &. best practices
+        
+    *   Curiosity at Work
+        
+        Our blog for stories, news &. more
+        
     *   Help Center
-5.  Plans &. Pricing
+        
+        Survey how-to guides &. tutorials
+        
+4.  Plans &. Pricing
 
 *   Overview
 *   Terms of Use
@@ -776,41 +817,75 @@ If you are resident in the European Union and you are dissatisfied with how we h
 
 Copyright © 1999-2018 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 Your payments are protected by the Direct Debit Guarantee
 
-1.  Log In
-2.  Help
-3.  Home
-4.  How It Works
-5.  Products
-    *   Survey Platform
-    *   Survey Panel
-    *   App Directory
-    *   Online Forms
-    *   Solutions
-    *   Overview
-    *   Enterprise Survey Platform
-    *   Customer Experience
-    *   Employee Engagement
-    *   Content Marketing
-    *   Application Management
-    
-6.  Examples
-    *   Survey Types
-    *   Academic Research
-    *   Quizzes
+1.  Products
+    *   SurveyMonkey
+        
+        Create &. send surveys with the world’s #1 online survey software
+        
+    *   Audience
+        
+        Collect survey responses from our global consumer panel
+        
+    *   CX
+        
+        Understand &. improve customer experience (NPS®)
+        
+    *   Engage
+        
+        Understand &. increase employee engagement
+        
+    *   TechValidate
+        
+        Create marketing content from customer feedback
+        
+    *   Wufoo
+        
+        Gather data &. payments with online forms
+        
+    *   Apply
+        
+        Collect, review &. manage applications online
+        
+    *   ADD INTEGRATIONS &. PLUG-INS
+    *   VIEW ALL PRODUCTS
+2.  Solutions
+    *   Customers
+        
+        Win more business with Customer Powered Data
+        
+    *   Employees
+        
+        Build a stronger workforce with Employee Powered Data
+        
+    *   Markets
+        
+        Validate business strategy with Market Powered Data
+        
     *   Customer Satisfaction
-    *   Education
-    *   Employee
-    *   Healthcare
+    *   Customer Loyalty
+    *   Event Surveys
+    *   Employee Engagement
+    *   Job Satisfaction
+    *   HR Surveys
     *   Market Research
-    *   Non Profit
-    *   Events
+    *   Opinion Polls
+    *   Concept Testing
     
-7.  Resources
-    *   Customer Stories
-    *   Survey Templates
-    *   Survey Tips
-    *   Mobile App
-    *   Blog
+    *   VIEW MORE
+3.  Resources
+    *   Resources
+        
+        Templates, best practices, case studies &. more
+        
+    *   Curiosity at Work
+        
+        Our blog for stories, news &. more
+        
     *   Help Center
+        
+        Survey how-to guides &. tutorials
+        
     
-8.  Plans &. Pricing
+4.  Plans &. Pricing
+5.  Sign Up
+6.  Log In
