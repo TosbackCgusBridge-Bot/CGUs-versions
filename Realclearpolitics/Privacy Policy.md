@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Michael Graham_: Don't Destroy Supreme Court to Save It From Trump
+*   _David Harsanyi_: Dems Don't Fear Kavanaugh, They Fear the Constitution
     
-*   _Ezra Klein_: The Supreme Court vs. Democracy
+*   _Lili Loofbourow_: Reality-TV Presidency Hit a New Low at Last Night's Event
     
-*   _Charles Hurt_: Even Abortion Enthusiasts Know Roe Is a Legal Abomination
+*   _Ilya Shapiro_: Trump Has Made a Selection That Should Be Praised--Bigly
     
-*   _Keir Starmer_: May's Brexit Strategy Failed. Parliament Must Take Lead
+*   _Corey Brettschneider_: Kavanaugh Must Answer the Abortion Question
     
-*   _Michael Walsh_: In Germany, the Immigration Worm Has Turned
+*   _David Von Drehle_: Dems' Little Tent on Abortion Holding Them Back
     
-*   _Carlos Ramirez-Rosa_: Dems' Irrational Fear of Socialism Ignores History
+*   _Martin Kettle_: Power, Not Brexit, Is Behind Boris Johnson's Decision to Quit
     
-*   _Jonathan Last_: Trump Is Never Going To Be Reagan
+*   _Sven Hughes_: Trump Can Teach Theresa May How to Listen to Voters
     
-*   _Joe Concha_: NeverTrumpers Dominate Media as Trump Hits High w/GOP
+*   _Saritha Prabhu_: The Democratic Party Left Me Behind--and I'm Not Alone
     
-*   _Charles Blow_: Trump Reeks of Fear
+*   _Kristin Mink_: I Confronted Scott Pruitt in a Restaurant. I'd Do It Again.
     
-*   _John Hinderaker_: 'Hurry the F Up Pressure' to Stop Trump
+*   _Ed Feulner_: Ivanka Trump and the Facts About Fact-Checkers
     
-*   _David Sanger_: Are We Already In a Cyber War?
+*   _Sarah Zhang_: Why the Thai Cave-Diving Rescue Was So Dangerous
     
-*   _Jacobs &. Niquette_: Trump to Cement Conservative Majority on High Court
+*   _Richard Wolf_: Kavanaugh: A Nominee Straight Out of Central Casting
     
-*   _Paul Waldman_: The Liberal Backlash Is Coming
+*   _David Brooks_: It Took a Village to Raise Kavanaugh
     
-*   _Newt Gingrich_: Left's Growing Nastiness Shows They Know Trump Is Winning
+*   _Paul Begala_: Vulnerable Dems Can Easily Oppose Kavanaugh Nomination
     
-*   _Jamie Lincoln Kitman_: Making America Unemployed Again
+*   _William McGurn_: Dick Durbin's Supreme Sacrifice
     
-*   _Evan Kraft_: Good News: People Returning to the Labor Force in Droves
+*   _Jeff Greenfield_: How Souter Changed Everything About Confirmation Fights
     
-*   _Christopher Roach_: What Does the Democratic Party Stand For?
+*   _Caitlin Huey-Burns_: Republicans, Dems Ramp Up Midterm Messaging on Court
     
-*   _Gilad Edelman_: The Socialist Network
+*   _Liz Peek_: Obama's Destruction of Democratic Party Is Still Playing Out
     
-*   _Jonathan Chait_: What If Trump Has Been a Russian Asset Since 1987?
+*   _David Leonhardt_: This Is No Time for Liberal Despair
     
-*   _Byron York_: What Really Happened When GOP Senators Visited Moscow
+*   _Heather Mac Donald_: Making the Right Move on Racial Preferences
     
-*   _Bandy Lee &. Thomas Singer_: Why We Must Pyschoanalyze Trump
+*   _Andrew Rawnsley_: Albright: Things That Are Happening Are Seriously Bad
     
-*   _Robert Knight_: Mad and Hot, the 'Resistance' Is Seething
+*   _Julie Kelly_: Nunes Targets the Real Collusion: Media and DOJ
     
-*   _Alex Isenstadt_: Will Sasse Go the Way of Flake and Corker?
+*   _McKay_: Congress Should Stop Messing With Rod Rosenstein
     
-*   _Eddie Scarry_: Never-Trumpers Aren't 'Leaving' the GOP. They've Been Fired
+*   _David Sanger_: Does Cyber Require a New Strategy?
     
 
 *   Previous
@@ -228,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Picks Kavanaugh for Supreme Court
+*   Trump Chooses Kavanaugh for Supreme Court
+*   Republicans, Dems Ramp Up Midterm Messaging on Kavanaugh
+*   Kavanaugh: A Judge Must Interpret Law, Not Make the Law
+*   Trump Heads to Europe to Face Nervous NATO Leaders
 *   In Senate, McConnell Doing His Part to Remake Judiciary
-*   Kavanaugh: I Will Always Strive to Preserve the Constitution
-*   Pruitt Is Out, Handing EPA Reins to Andrew Wheeler
-*   With Little Leverage on Court Pick, Dems Eye Plan B
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,6 +245,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove51Disapprove +4
 *   Arizona Senate - Republican PrimaryGravis
     *   McSally36
     *   Ward27
@@ -257,17 +258,14 @@ Latest PollsAll Polls
 *   Arizona Senate - Ward vs. SinemaGravis
     *   Sinema46
     *   Ward37Sinema +9
-*   Arizona Senate - Arpaio vs. SinemaGravis
-    *   Sinema52
-    *   Arpaio33Sinema +19
 
 More Latest Polls In The News
 
+*   Dem Sen. Blumenthal: Kavanaugh Must Recuse Himself From Trump-Related And Mueller-Related Cases
+*   Schumer: Kavanaugh Has Argued The State Can Detain Young Girl To Prevent Her From Having Abortion
 *   Booker: Trump Picked Only Judge Who Has Written A President Should Not Be Subject Of Criminal Probe
 *   Sanders: We Have "Right-Wing Extremists" In Charge Of White House, Senate, House, Supreme Court
 *   Dershowitz: If I Were Defending Clinton People Would Be "Loving Me," I'd Be "Hero" Of Martha's Vineyard
-*   Giuliani: This Is The Most Corrupt Investigation I Have Ever Seen, Stacked With "Severe Partisans"
-*   Chuck Todd to Sen. Roy Blunt: Do You Worry Trump Could "Hand Crimea To The Russians" At Putin Meeting?
 
 *   Politics
 *   Policy
