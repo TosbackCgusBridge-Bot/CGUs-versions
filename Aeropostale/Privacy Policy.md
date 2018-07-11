@@ -56,6 +56,7 @@ Close submenu ( Tops ) Tops
 *   Camis + Tanks
 *   Polos
 *   Fashion Tops
+*   Long Sleeve
 *   Hoodies + Sweatshirts
 *   Shirts
 *   Sweaters
@@ -144,6 +145,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Super High Rise Jegging
 *   Skinny
 *   Bootcut
+*   Boyfriend
 *   Cheeky
 *   Overalls
 *   Flex Effects
@@ -152,11 +154,12 @@ Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
 *   Buy 1 Get 1 Free Jeans
+*   Super Skinny
 *   Skinny
-*   Slim Straight
 *   Straight
 *   Slim
-*   Super Skinny
+*   Slim Straight
+*   Slim Boot
 *   Relaxed
 *   Flex Effects
 
@@ -283,7 +286,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**BUY 1 GET 1 ON SELECT JEANS STYLES  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+**MIX + MATCH BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **50-70% OFF + FREE SHIPPING OVER $50** 
 
 *   My Account My Account Login Register
 
@@ -314,6 +317,7 @@ Menu Find a Store Aeropostale
         *   Camis + Tanks
         *   Polos
         *   Fashion Tops
+        *   Long Sleeve
         *   Hoodies + Sweatshirts
         *   Shirts
         *   Sweaters
@@ -401,6 +405,7 @@ Menu Find a Store Aeropostale
         *   Super High Rise Jegging
         *   Skinny
         *   Bootcut
+        *   Boyfriend
         *   Cheeky
         *   Overalls
         *   Flex Effects
@@ -408,11 +413,12 @@ Menu Find a Store Aeropostale
     *   Guys Jeans
         *   View All
         *   Buy 1 Get 1 Free Jeans
+        *   Super Skinny
         *   Skinny
-        *   Slim Straight
         *   Straight
         *   Slim
-        *   Super Skinny
+        *   Slim Straight
+        *   Slim Boot
         *   Relaxed
         *   Flex Effects
     
@@ -555,18 +561,4 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyclose dialogGive us your email to snag50-70% OFFEverythingPlease enter aboveAccess the saleI don't want 50-70% off\*Cannot be combined with other offersYOU’VE SNAGGED 50-70% off storewideCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
