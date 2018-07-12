@@ -71,9 +71,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Billy Dee Williams to Reprise Lando Role for 'Star Wars: Episode IX'. Here's What We Know So Far Read More
-    *   J.B. Smoove Joins 'Spider-Man: Far From Home'. Here's Everything We Know Read More
-    *   Jeremy Renner Joins the 'Spawn' Reboot. Here's Everything We Know Read More
+    *   New 'RoboCop' Sequel Coming From 'District 9' Director. Here's Everything We Know Read More
+    *   DC's Joker Origin Movie Moves Forward With Joaquin Phoenix. Here's Everything We Know Read More
+    *   Watch First 'Goosebumps 2: Haunted Halloween' Trailer. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -318,9 +318,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   Earn 2X VIP+ POINTS with 'Skyscraper' Ticket Purchase
+*   50 States 50 Essential Movies
     
-    Earn 2X VIP+ POINTS with your 'Skyscraper' ticket purchase. (Yep, every 2 tickets = $6 reward on us!) BUY TICKETS
+    Can you guess the most iconic movie set and filmed in YOUR state? See which ones were hand-picked by Rotten Tomatoes. WATCH NOW
     
 *   'Jurassic World: Fallen Kingdom' Gift With Purchase
     
