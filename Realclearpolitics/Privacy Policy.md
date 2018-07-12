@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _David Harsanyi_: Dems Don't Fear Kavanaugh, They Fear the Constitution
+*   _Paul Rosenzweig_: What I Know About Kavanaugh's Discretion
     
-*   _Lili Loofbourow_: Reality-TV Presidency Hit a New Low at Last Night's Event
+*   _Doug Schoen_: Red-State Dems Face 'Nightmare Decision' on Kavanaugh
     
-*   _Ilya Shapiro_: Trump Has Made a Selection That Should Be Praised--Bigly
+*   _Betsy Woodruff_: Inside Mueller's New Army
     
-*   _Corey Brettschneider_: Kavanaugh Must Answer the Abortion Question
+*   _John Solomon_: 'Air Clinton' Delievered Multiple Versions of Dossier to FBI
     
-*   _David Von Drehle_: Dems' Little Tent on Abortion Holding Them Back
+*   _George Monbiot_: U.S.'s New Revolutionaries Show How the Left Can Win
     
-*   _Martin Kettle_: Power, Not Brexit, Is Behind Boris Johnson's Decision to Quit
+*   _Dennis Prager_: Explaining American Leftists: Part I
     
-*   _Sven Hughes_: Trump Can Teach Theresa May How to Listen to Voters
+*   _Dahlia Lithwick_: Picking Kavanaugh Makes Trump Look Guilty
     
-*   _Saritha Prabhu_: The Democratic Party Left Me Behind--and I'm Not Alone
+*   _Paul Mirengoff_: The Dems' Indefensible Kavanaugh Conspiracy Theory
     
-*   _Kristin Mink_: I Confronted Scott Pruitt in a Restaurant. I'd Do It Again.
+*   _Chuck Todd_: Trump Again Alienates Allies &. Compliments Enemies
     
-*   _Ed Feulner_: Ivanka Trump and the Facts About Fact-Checkers
+*   _Noemie Emery_: The Progressive Push to Alienate White Men
     
-*   _Sarah Zhang_: Why the Thai Cave-Diving Rescue Was So Dangerous
+*   _Carl Cannon_: Dueling Philosophies of Hamilton's Day Linger On
     
-*   _Richard Wolf_: Kavanaugh: A Nominee Straight Out of Central Casting
+*   _Michael Goodwin_: Dems Right to Fret Over Kavanaugh - But Not About Roe
     
-*   _David Brooks_: It Took a Village to Raise Kavanaugh
+*   _Jeffrey Toobin_: Kavanaugh's Journey to the Supreme Court
     
-*   _Paul Begala_: Vulnerable Dems Can Easily Oppose Kavanaugh Nomination
+*   _Caitlin Huey-Burns_: Dems Focus Court Messaging on Health Care
     
-*   _William McGurn_: Dick Durbin's Supreme Sacrifice
+*   _Michael Desch_: President Trump Right to Question NATO
     
-*   _Jeff Greenfield_: How Souter Changed Everything About Confirmation Fights
+*   _Rob Crilly_: Trump In for Trolling of a Lifetime During Britain Visit
     
-*   _Caitlin Huey-Burns_: Republicans, Dems Ramp Up Midterm Messaging on Court
+*   _Byron York_: A Tenuous Link Between Manafort Charges &. Trump
     
-*   _Liz Peek_: Obama's Destruction of Democratic Party Is Still Playing Out
+*   _Melanie Zanona_: New Dem Star to Rattle DC Establishment
     
-*   _David Leonhardt_: This Is No Time for Liberal Despair
+*   _Gov. Doug Ducey_: Abolishing ICE Would Be Reckless
     
-*   _Heather Mac Donald_: Making the Right Move on Racial Preferences
+*   _William Saletan_: Either Jim Jordan Is Lying, or the OSU Wrestlers Are
     
-*   _Andrew Rawnsley_: Albright: Things That Are Happening Are Seriously Bad
+*   _Jim DeMint_: Jim Jordan a Man of Integrity Who's Being Railroaded
     
-*   _Julie Kelly_: Nunes Targets the Real Collusion: Media and DOJ
+*   _Andrew Cohen_: Why Brett Kavanaugh Will Carry Trump's Water
     
-*   _McKay_: Congress Should Stop Messing With Rod Rosenstein
+*   _Sally Persons_: 'Never Trumpers' Hail Kavanaugh, But the Praise Stops There
     
-*   _David Sanger_: Does Cyber Require a New Strategy?
+*   _Lauren Appell_: Sorry, NeverTrumpers, the President Is Delivering
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Chooses Kavanaugh for Supreme Court
+*   Dems Focus Court Messaging on Protecting the Health Care Law
+*   In Testy Exchange, Trump Hits Germany for Being "Captive" to Russia
+*   Pence on Kavanaugh Nomination, Trump-Putin Summit, Flynn
+*   "Never Trumpers" Hail Kavanaugh, But the Praise Stops There
 *   Republicans, Dems Ramp Up Midterm Messaging on Kavanaugh
-*   Kavanaugh: A Judge Must Interpret Law, Not Make the Law
-*   Trump Heads to Europe to Face Nervous NATO Leaders
-*   In Senate, McConnell Doing His Part to Remake Judiciary
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,27 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Missouri Senate - Hawley vs. McCaskillRemington Research (R)
+    *   McCaskill46
+    *   Hawley48Hawley +2
+*   North Carolina 9th District - Harris vs. McCreadyCivitas (R)\*
+    *   McCready43
+    *   Harris36McCready +7
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove51Disapprove +4
-*   Arizona Senate - Republican PrimaryGravis
-    *   McSally36
-    *   Ward27
-    *   Arpaio24McSally +9
-*   Arizona Senate - McSally vs. SinemaGravis
-    *   Sinema43
-    *   McSally39Sinema +4
-*   Arizona Senate - Ward vs. SinemaGravis
-    *   Sinema46
-    *   Ward37Sinema +9
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve43
+    *   Disapprove52Disapprove +9
 
 More Latest Polls In The News
 
-*   Dem Sen. Blumenthal: Kavanaugh Must Recuse Himself From Trump-Related And Mueller-Related Cases
-*   Schumer: Kavanaugh Has Argued The State Can Detain Young Girl To Prevent Her From Having Abortion
-*   Booker: Trump Picked Only Judge Who Has Written A President Should Not Be Subject Of Criminal Probe
-*   Sanders: We Have "Right-Wing Extremists" In Charge Of White House, Senate, House, Supreme Court
-*   Dershowitz: If I Were Defending Clinton People Would Be "Loving Me," I'd Be "Hero" Of Martha's Vineyard
+*   Bernstein: Trump "Writing A New American Narrative," "Sucking The Oxygen Out Of The American Story"
+*   Trump vs. NATO Sec: We're Supposed To Protect You While Germany Sends Billions To Russians, "Very Sad"
+*   CIA Analyst: Republic Is Burning, "Can't Rely On Voting". SCOTUS Is Last Functioning Branch Of Government
+*   Chait: Unlikely But Possible That Trump Has Been Russian Asset Since 1987. "Probably Not True But It Might Be"
+*   Hemingway: Never Trumpers Way Overrepresented In Media, Represent "Incredibly Small Fraction" Of People
 
 *   Politics
 *   Policy
