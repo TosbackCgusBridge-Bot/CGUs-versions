@@ -23,7 +23,7 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -252,34 +252,31 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         
         *   Women's Trends
         
-        *   Billabong Exclusive
-        *   '90s Are Forever
-        *   Statement Sleeves
-        *   Wide Leg
-        *   Mules
-        *   Embellished
-        *   Simple Stripes
-        *   Fresh Florals
-        *   Denim Skirts
+        *   Statement Earrings
+        *   Dresses
+        *   Fashion Pants
+        *   One Piece Wonders
+        *   Heels &. Wedges
+        *   Hem Details
+        *   Show Some Skin
+        *   Flower Power
         
         *   Men's Trends
         
-        *   Calvin Klein
-        *   Island Prints
-        *   Hybrid Shorts
-        *   Dibs
-        *   Fun Tees
-        *   Dye Hard
-        *   Salt Life
-        *   Band Tees
+        *   Statement Tees
+        *   Destructed Denim
         *   Show Your Socks
+        *   Dibs
+        *   Street Style
+        *   Performance Apparel
+        *   Top It Off
         
         *   Looks
         
-        *   Americana Shop
-        *   Everyday Essentials
+        *   Back To Basics
+        *   Country Concerts
         *   Festival Shop
-        *   Casual Night Out
+        *   Night Out
         *   Active &. Lounge
         *   Shop Women's Outfits
         *   Shop Men's Outfits
@@ -470,6 +467,7 @@ Returns
 Promotions
 
 *   Max Your Rewards
+*   Tax-Free Weekends
 *   All Promotions
 *   Store Events
 *   Military Discount
@@ -642,4 +640,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailFavorite Product Favorite Product Quick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
