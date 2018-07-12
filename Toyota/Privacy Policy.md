@@ -1,10 +1,10 @@
 *   menu
 
-*   Your Location: 67301 Zip: 67301
+*   Search
 *   Certified Used Vehicles
 *   Owners
 *   Español
-*   Search
+*   Your Location: 67301 Zip: 67301
 
 *   Select Vehicle
 *   Shopping Tools
@@ -40,8 +40,8 @@
 *   $47,280 as shown1 2018 Tundra $31,320 starting1  
     15/19 est MPG3 Build Specials
 
-*   $24,350 as shown1 2018 C-HR $22,500 starting1  
-    27/31 est MPG15 Build Specials
+*   $26,000 as shown1 2019 C-HR $20,945 starting1  
+    27/31 est MPG20 Build Specials
 *   $29,545 as shown1 2018 RAV4 $24,660 starting1  
     23/30 est MPG3 Build Specials
 *   $41,750 as shown1 2018 Highlander $31,230 starting1  
@@ -106,8 +106,8 @@ Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1
 21/28 est MPG3 $37,090 as shown1 2018 Sienna $30,850 starting1  
 19/27 est MPG16 Trucks $34,685 as shown1 2018 Tacoma $25,400 starting1  
 18/22 est MPG3 $47,280 as shown1 2018 Tundra $31,320 starting1  
-15/19 est MPG3 Crossovers &. SUVs $24,350 as shown1 2018 C-HR $22,500 starting1  
-27/31 est MPG15 $29,545 as shown1 2018 RAV4 $24,660 starting1  
+15/19 est MPG3 Crossovers &. SUVs $26,000 as shown1 2019 C-HR $20,945 starting1  
+27/31 est MPG20 $29,545 as shown1 2018 RAV4 $24,660 starting1  
 23/30 est MPG3 $41,750 as shown1 2018 Highlander $31,230 starting1  
 21/27 est MPG3 $39,895 as shown1 2018 4Runner $34,810 starting1  
 17/21 est MPG3 $54,540 as shown1 2018 Sequoia $48,600 starting1  
@@ -1108,20 +1108,21 @@ Vehicles
 
 Helpful Links
 
+*   Safety Recalls &  
+    Service Campaigns
+*   Dealers
 *   Toyota Financial Services
-*   Toyota Rent A Car
-*   Toyota Rent A Car
-*   Toyota Mobility Feature
+*   ToyotaCare
+*   Toyota Safety Sense™
 *   Audio/Multimedia
 *   Mobile Phone Compatibility
 *   Safety Connect®
-*   Toyota Safety Sense™
-*   Car Tips &. Advice
-*   Car Tips &. Advice
-*   Dealers
+*   Toyota Mobility Feature
 *   Toyota Fleet
-*   Safety Recalls &  
-    Service Campaigns
+*   Toyota Rent A Car
+*   Toyota Rent A Car
+*   Car Tips &. Advice
+*   Car Tips &. Advice
 
 About Toyota
 
