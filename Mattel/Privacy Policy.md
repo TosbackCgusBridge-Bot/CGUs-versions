@@ -5,10 +5,11 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   Dutch (Nederlands)
     *   Español (España)
     *   Italiano (Italia)
-    *   Norsk (Norge)
     *   Polski (Polska)
     *   Português (Portugal)
-    *   Svenska (Sverige)
+    *   Čeština (Cheskà Republika)
+    *   Magyar (Magyarorszàg)
+    *   Ελληνικά (Ελλάδα)
 *   Privacy Statement
     *   About Cookies and Technologies
     *   Your California Privacy Rights
@@ -34,10 +35,11 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
         *   Dutch (Nederlands)
         *   Español (España)
         *   Italiano (Italia)
-        *   Norsk (Norge)
         *   Polski (Polska)
         *   Português (Portugal)
-        *   Svenska (Sverige)
+        *   Čeština (Cheskà Republika)
+        *   Magyar (Magyarorszàg)
+        *   Ελληνικά (Ελλάδα)
     *   Privacy Statement
         *   About Cookies and Technologies
         *   Your California Privacy Rights
@@ -760,11 +762,10 @@ Helpful Links
 
 *   Customer Service
 *   Recall Information
-*   Modern Slavery Act Transparency Statement
+*   Terms &. Conditions
 
 Follow Mattel
 
-*   Terms &. Conditions
 *   NEW Privacy Statement
 
 *   © 2018 Mattel. All Rights Reserved
