@@ -182,8 +182,6 @@ Last revised on April 1, 2016
 
 Last revised on April 1, 2016
 
-Watch Next
-
 Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
