@@ -1,4 +1,4 @@
-6c3cdcc5-9b75-4ea8-9787-ee70859a9f55
+3d459b94-1b40-4e99-8720-c01a24f943b9
 
 *   Search
 *   Contact Us
@@ -47,7 +47,7 @@ FIND BEST OFFERS × Get Online Only Deals
 
 Enter your address to see which offers are available for your home
 
-\* Street Address Enter your street address Apartment \* Zip Code Enter your 5-digit ZIP code Go Why do I need to enter my exact address? Your Privacy Rights Privacy Policy Privacy Preferences About Spectrum +
+\* Street Address Enter your street address Apartment \* Zip Code Enter your 5-digit ZIP code Go Why do I need to enter my exact address? Your Privacy Rights Privacy Policy Customer Privacy Policy Privacy Preferences About Spectrum +
 
 *   Spectrum Business
 *   Spectrum Enterprise Solutions
