@@ -97,7 +97,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Investor contacts
         
     
-    *   Strategy Update 2018 HSBC updated investors on its strategy on 11 June 2018.
+    *   Interim Results 2018 HSBC Holdings plc will announce its Interim Results 2018 on 6 August.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
