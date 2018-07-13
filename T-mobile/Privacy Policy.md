@@ -19,7 +19,7 @@ We collect information about you and your associated device(s) when you use our 
 
 Customer Proprietary Network Information, or "CPNI", is a subset of Personal Information that is generated in connection with the telecommunications services we provide to you. CPNI includes, for example, call details, call location information, and certain information about your rate plans and features. CPNI does not include your name, address, and phone number.
 
-For more information see Privacy Resources/Customer Proprietary Network Information
+For more information see CPNI
 
 **Credit and Financial Information**
 
@@ -174,7 +174,7 @@ Where we provide a location-based service, you will receive notice of the locati
 
   
 
-For more information on location services, see Privacy Resources/Location Services
+For more information on location services, see Location Services
 
   
 **Telematics**
@@ -212,7 +212,7 @@ _Our Ads on Other Websites._ We may ask third-parties to place advertisements ab
 *   We, and our providers, may use a de-identified profile of your web-browsing and application use activity and interests. This profile does not contain information that identifies you personally, but may include a unique or encrypted identifier that enables your device to be matched to a profile of your browsing activity and de-identified characteristics about your interests.
 *   When we use information associated with your web browsing activities on websites that are not our own to provide interest-based advertising or offers, we will provide you with notice and appropriate choice.  
       
-    For more information see privacy resources/T-Mobile Ad Options for Your Device
+    For more information see T-Mobile Ad Options
 *     
     **Choices About Advertising.**
 *     
@@ -275,11 +275,11 @@ If you provide information to us in connection with a co-sponsored website, this
 
 We may provide information that does not identify you personally to third-parties for marketing, advertising or other purposes.
 
-For more information about our INSIGHTS Program see Privacy Resources/T-Mobile INSIGHTS
+For more information about our INSIGHTS Program see T-Mobile INSIGHTS
 
 **Third-Party Applications for Your Devices**
 
-We are not responsible for the third-party applications (for example, applications, programs, widgets, etc.) you select and install on your device. When you install third party applications, you may give your consent for the third party to access information stored on the device and on our network to facilitate the application’s functions (for example, you may consent to third-party access to your location information – see Location Based Services). The manner in which such third-parties may use, share, or disclose such information is governed by the terms and conditions and privacy statement provided by that third party – not by this Statement. For more information, see Privacy Resources/Device Apps
+We are not responsible for the third-party applications (for example, applications, programs, widgets, etc.) you select and install on your device. When you install third party applications, you may give your consent for the third party to access information stored on the device and on our network to facilitate the application’s functions (for example, you may consent to third-party access to your location information – see Location Based Services). The manner in which such third-parties may use, share, or disclose such information is governed by the terms and conditions and privacy statement provided by that third party – not by this Statement. For more information, see Device Apps
 
   
 top**HOW WE STORE AND PROTECT THE INFORMATION COLLECTED ABOUT YOU** **Protecting Your Information**
@@ -288,7 +288,7 @@ We use a variety of physical, electronic, and procedural safeguards to protect P
 
 We provide password protected online access to your account information through my.t-mobile.com. For multi-line accounts, the primary account holder is authorized to access online account information for all the devices and lines on the account. Other users may generally access online account information related only to their respective device and line (for example, if a parent provides a device to their child, the child may access online information about that device and line– including CPNI). The primary account holder, however, may designate additional or more limited access rights for other users on the account.
 
-Under federal law, you have a right, and we have a duty, to protect the confidentiality of CPNI and we have adopted statements and procedures designed to ensure compliance with those rules. We will not intentionally disclose your CPNI to third-parties without your permission, except as allowed under FCC rules, applicable law, or explained in this Statement. However, if you are the primary account holder, you may designate other "authorized users" (for example, a spouse) to access and manage your account information, including CPNI. For more information see Privacy Resources/Customer Proprietary Network Information
+Under federal law, you have a right, and we have a duty, to protect the confidentiality of CPNI and we have adopted statements and procedures designed to ensure compliance with those rules. We will not intentionally disclose your CPNI to third-parties without your permission, except as allowed under FCC rules, applicable law, or explained in this Statement. However, if you are the primary account holder, you may designate other "authorized users" (for example, a spouse) to access and manage your account information, including CPNI. For more information see CPNI
 
 **Retention and Disposal**
 
@@ -307,7 +307,7 @@ If you are a T-Mobile customer and you manage your account online, you can manag
 
 You may also manage your preferences regarding marketing communications by contacting Customer Service by dialing 611 from your T-Mobile phone or 1-800-937-8997 from any phone, or, with respect to marketing e-mails, by following the "unsubscribe" instructions on any marketing e-mail we send you.
 
-See also Privacy Resources/Marketing Choice
+See also Marketing Choice
 
 **Do Not Call Registry**
 
@@ -316,7 +316,7 @@ The FTC maintains a National Do Not Call Registry at https://www.donotcall.gov/,
   
 top**YOUR ROLE IN PROTECTING YOUR PRIVACY**
 
-You play an important role in ensuring the security of Personal Information. We encourage you to use safeguards to protect your information and devices. For more information please see Privacy Resources/Protecting Your Privacy.
+You play an important role in ensuring the security of Personal Information. We encourage you to use safeguards to protect your information and devices. For more information please see Protecting Your Privacy.
 
   
 top**OTHER INFORMATION YOU SHOULD KNOW** **Consumer Code for Wireless Service**
