@@ -4,7 +4,6 @@ Aeropostale
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
 *   Open submenu ( Shorts ) Shorts
-*   Open submenu ( Live Love Dream ) Live Love Dream
 *   Open submenu ( Clearance ) Clearance
 
 *   Help? - Contact Us Help? - Contact Us
@@ -28,9 +27,8 @@ Close submenu ( Girls ) Girls
 *   Extended Sizes
 *   Trending
 *   Clearance
-*   Live Love Dream
-*   Bras
-*   Undies
+
+*   Open submenu ( Live Love Dream ) Live Love Dream
 
 Close submenu ( Featured ) Featured
 
@@ -38,15 +36,16 @@ Close submenu ( Featured ) Featured
 *   New Arrivals
 *   Buy 1 Get 2 Free Tees
 *   Buy 1 Get 1 Free Jeans
-*   Create Your Suit for $12
-*   4 for $12 Undies
+*   SWIM SALE
+*   4 for $16 Undies
+*   $2.87 Undies
 *   Uniform
 *   Denim Guide
 *   Flex Effects
+*   Tribe Of Tees
 *   Logo Shop
 *   Basic Essentials
 *   Seriously Soft
-*   Online Only
 
 Close submenu ( Tops ) Tops
 
@@ -73,6 +72,17 @@ Close submenu ( Bottoms ) Bottoms
 *   Pants
 *   Skirts
 
+Close submenu ( Live Love Dream ) Live Love Dream
+
+*   View All
+*   Active
+*   Lounge
+*   Sleep
+*   Bras
+*   Undies
+*   Accessories
+*   Clearance
+
 Close submenu ( Guys ) Guys
 
 *   View Home
@@ -83,8 +93,8 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Bottoms ) Bottoms
 *   Jackets
 *   Swim
-*   Accessories
 
+*   Accessories
 *   Underwear
 *   Slides + Flip Flops
 *   Clearance
@@ -200,54 +210,6 @@ Close submenu ( Guys Shorts ) Guys Shorts
 *   Athletic
 *   Swim
 
-Close submenu ( Live Love Dream ) Live Love Dream
-
-*   View Home
-*   Open submenu ( Featured ) Featured
-
-*   Open submenu ( Tops ) Tops
-
-*   Open submenu ( Bottoms ) Bottoms
-*   Rompers
-
-*   Sleep
-*   Bras
-*   Undies
-*   Swim
-*   Accessories
-*   Clearance
-*   Trending
-
-Close submenu ( Featured ) Featured
-
-*   View All
-*   4 for $12 Undies
-*   Create Your Suit for $12
-*   Active
-*   Lounge
-*   Sleep
-*   Intimates
-*   Swim
-
-Close submenu ( Tops ) Tops
-
-*   View All
-*   Tees
-*   Tanks
-*   Hoodies + Sweatshirts
-*   Jackets + Vests
-*   Sleep Tops
-
-Close submenu ( Bottoms ) Bottoms
-
-*   View All
-*   Best Booty Ever
-*   Leggings
-*   Joggers + Sweats
-*   Bootcut
-*   Shorts
-*   Sleep Bottoms
-
 Close submenu ( Clearance ) Clearance
 
 *   View Home
@@ -265,7 +227,9 @@ Close submenu ( Girls ) Girls
 *   Tops
 *   Bottoms
 *   Dresses + Skirts
+*   Swim
 *   Accessories
+*   Intimates
 
 Close submenu ( Guys ) Guys
 
@@ -274,6 +238,7 @@ Close submenu ( Guys ) Guys
 *   $9.99 + Under
 *   Tops
 *   Bottoms
+*   Accessories
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -283,10 +248,12 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Tops
 *   Bottoms
 *   Intimates
+*   Swim
+*   Accessories
 *   Active
 *   Lounge
 
-**BUY 1 GET 1 ON SELECT JEANS STYLES  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+**MIX + MATCH BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **50-70% OFF + FREE SHIPPING OVER $50** 
 
 *   My Account My Account Login Register
 
@@ -300,15 +267,16 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Buy 1 Get 2 Free Tees
         *   Buy 1 Get 1 Free Jeans
-        *   Create Your Suit for $12
-        *   4 for $12 Undies
+        *   SWIM SALE
+        *   4 for $16 Undies
+        *   $2.87 Undies
         *   Uniform
         *   Denim Guide
         *   Flex Effects
+        *   Tribe Of Tees
         *   Logo Shop
         *   Basic Essentials
         *   Seriously Soft
-        *   Online Only
     
     *   Tops
         *   View All
@@ -342,10 +310,16 @@ Menu Find a Store Aeropostale
     *   Extended Sizes
     *   Trending
     *   Clearance
-    *   Live Love Dream
-    *   Bras
-    *   Undies
     
+    *   Live Love Dream
+        *   View All
+        *   Active
+        *   Lounge
+        *   Sleep
+        *   Bras
+        *   Undies
+        *   Accessories
+        *   Clearance
 *   Guys
     
     *   View Home
@@ -384,8 +358,8 @@ Menu Find a Store Aeropostale
         
     *   Jackets
     *   Swim
-    *   Accessories
     
+    *   Accessories
     *   Underwear
     *   Slides + Flip Flops
     *   Clearance
@@ -453,44 +427,6 @@ Menu Find a Store Aeropostale
         *   Athletic
         *   Swim
     
-*   Live Love Dream
-    
-    *   View Home
-    *   Featured
-        *   View All
-        *   4 for $12 Undies
-        *   Create Your Suit for $12
-        *   Active
-        *   Lounge
-        *   Sleep
-        *   Intimates
-        *   Swim
-    
-    *   Tops
-        *   View All
-        *   Tees
-        *   Tanks
-        *   Hoodies + Sweatshirts
-        *   Jackets + Vests
-        *   Sleep Tops
-    
-    *   Bottoms
-        *   View All
-        *   Best Booty Ever
-        *   Leggings
-        *   Joggers + Sweats
-        *   Bootcut
-        *   Shorts
-        *   Sleep Bottoms
-    *   Rompers
-    
-    *   Sleep
-    *   Bras
-    *   Undies
-    *   Swim
-    *   Accessories
-    *   Clearance
-    *   Trending
 *   Clearance
     
     *   View Home
@@ -501,7 +437,9 @@ Menu Find a Store Aeropostale
         *   Tops
         *   Bottoms
         *   Dresses + Skirts
+        *   Swim
         *   Accessories
+        *   Intimates
     
     *   Guys
         *   View All
@@ -509,6 +447,7 @@ Menu Find a Store Aeropostale
         *   $9.99 + Under
         *   Tops
         *   Bottoms
+        *   Accessories
         
     
     *   Live Love Dream
@@ -518,6 +457,8 @@ Menu Find a Store Aeropostale
         *   Tops
         *   Bottoms
         *   Intimates
+        *   Swim
+        *   Accessories
         *   Active
         *   Lounge
     
@@ -527,7 +468,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON JEANS Search Catalog Search Shop Girls Shop Guys Shop Girls Flex Effects Shop Guys Flex Effects Shop All Our Jeans Shop Girls Shop Guys Shop Girls Polos Shop Guys Polos Shop Girls Tees Shop Guys Tees Shop Girls Shorts Shop Guys Shorts Shop Girls Uniform Shop Guys Uniform <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Shop Girls Flex Effects Shop Guys Flex Effects Shop All Our Jeans Shop Girls Shop Guys Shop Girls Polos Shop Guys Polos Shop Girls Tees Shop Guys Tees Shop Girls Shorts Shop Guys Shorts Shop Girls Uniform Shop Guys Uniform <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -561,4 +502,4 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
