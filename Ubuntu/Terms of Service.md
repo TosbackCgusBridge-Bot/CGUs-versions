@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Demystifying Snap Confinement ›
 *   6 IDEs you need to know about ›
 *   Graphical environments in the world of IoT ›
 *   Infographic: Ubuntu connects everything ›
 *   Minimal Ubuntu, on public clouds and Docker Hub ›
-*   Make your Snap store page pop! ›
