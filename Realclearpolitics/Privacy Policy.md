@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Paul Rosenzweig_: What I Know About Kavanaugh's Discretion
+*   _Tom McTague_: Why Trump Has Few Friends in Europe
     
-*   _Doug Schoen_: Red-State Dems Face 'Nightmare Decision' on Kavanaugh
+*   _Paul Bonicelli_: NATO Is Sick--Trump Is the Best Doctor It's Likely to Get
     
-*   _Betsy Woodruff_: Inside Mueller's New Army
+*   _Peter Beinart_: NATO Doesn't Need More Defense Spending: U.S. Needs Less
     
-*   _John Solomon_: 'Air Clinton' Delievered Multiple Versions of Dossier to FBI
+*   _Newt Gingrich_: Trump's Supreme Court Pick Is Part of a Grand Strategy
     
-*   _George Monbiot_: U.S.'s New Revolutionaries Show How the Left Can Win
+*   _Paul Glastris_: To Save Our Democracy, Dems Need to Win Big
     
-*   _Dennis Prager_: Explaining American Leftists: Part I
+*   _Shermichael Singleton_: Liberal Politics Have Not Helped Black America
     
-*   _Dahlia Lithwick_: Picking Kavanaugh Makes Trump Look Guilty
+*   _Chauncey DeVega_: Trump's Global Agenda: Racism for All
     
-*   _Paul Mirengoff_: The Dems' Indefensible Kavanaugh Conspiracy Theory
+*   _Gary Varvel_: Trump: A President I Didn't Want, But Now I Know We Need
     
-*   _Chuck Todd_: Trump Again Alienates Allies &. Compliments Enemies
+*   _Natalie Robehmed_: How Kylie Jenner Built a $900M Fortune in Under 3 Years
     
-*   _Noemie Emery_: The Progressive Push to Alienate White Men
+*   _Lyman Stone_: The Myth of the Job-Hopping, Rootless Millennial
     
-*   _Carl Cannon_: Dueling Philosophies of Hamilton's Day Linger On
+*   _Brad Heath_: Baltimore Police Stopped Noticing Crime. Killings Followed.
     
-*   _Michael Goodwin_: Dems Right to Fret Over Kavanaugh - But Not About Roe
+*   _Zalmay Khalilzad_: Trump's Criticism Is Valid. NATO Needs a Reset
     
-*   _Jeffrey Toobin_: Kavanaugh's Journey to the Supreme Court
+*   _Ivan Krastev_: Sorry, NATO. Trump Doesn't Believe in Allies.
     
-*   _Caitlin Huey-Burns_: Dems Focus Court Messaging on Health Care
+*   _Conrad Black_: America's European Allies Face Domestic Trouble
     
-*   _Michael Desch_: President Trump Right to Question NATO
+*   _David Lammy_: I'm a British Lawmaker, and I'm Protesting Trump's Visit to UK
     
-*   _Rob Crilly_: Trump In for Trolling of a Lifetime During Britain Visit
+*   _John Kass_: How to Maintain the Republic? Justices Like Kavanaugh
     
-*   _Byron York_: A Tenuous Link Between Manafort Charges &. Trump
+*   _Simon Lazarus_: How Dems Can Expose What Kavanaugh Threatens
     
-*   _Melanie Zanona_: New Dem Star to Rattle DC Establishment
+*   _Seth Lipsky_: Losing the Court Can Teach Liberals Some Valuable Lessons
     
-*   _Gov. Doug Ducey_: Abolishing ICE Would Be Reckless
+*   _Walter Shapiro_: Why the Kavanaugh Pick Is Not as Safe as It Seems
     
-*   _William Saletan_: Either Jim Jordan Is Lying, or the OSU Wrestlers Are
+*   _Adele Malpass_: Republican Super PAC Sets Fundraising Record
     
-*   _Jim DeMint_: Jim Jordan a Man of Integrity Who's Being Railroaded
+*   _Ivanka Trump_: Paid Family Leave Policy Deserves Bipartisan Support
     
-*   _Andrew Cohen_: Why Brett Kavanaugh Will Carry Trump's Water
+*   _Thomas Edsall_: What Happens If Gender Gap Becomes a Gender Chasm?
     
-*   _Sally Persons_: 'Never Trumpers' Hail Kavanaugh, But the Praise Stops There
+*   _Barbara Kay_: The Journey Behind One SJW's Political Epiphany
     
-*   _Lauren Appell_: Sorry, NeverTrumpers, the President Is Delivering
+*   _Andrew Walworth_: The Perils of Confusing Nuclear &. Cyber Strategy
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Republican Super PAC Sets Fundraising Record
 *   Dems Focus Court Messaging on Protecting the Health Care Law
+*   Trump at NATO Summit: "We Really Accomplished A Lot"
 *   In Testy Exchange, Trump Hits Germany for Being "Captive" to Russia
-*   Pence on Kavanaugh Nomination, Trump-Putin Summit, Flynn
 *   "Never Trumpers" Hail Kavanaugh, But the Praise Stops There
-*   Republicans, Dems Ramp Up Midterm Messaging on Kavanaugh
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Missouri Senate - Hawley vs. McCaskillRemington Research (R)
-    *   McCaskill46
-    *   Hawley48Hawley +2
-*   North Carolina 9th District - Harris vs. McCreadyCivitas (R)\*
-    *   McCready43
-    *   Harris36McCready +7
+*   President Trump Job ApprovalFOX News
+    *   Approve46
+    *   Disapprove51Disapprove +5
+*   2018 Generic Congressional VoteFOX News
+    *   Democrats48
+    *   Republicans40Democrats +8
+*   Montana Senate - Rosendale vs. TesterRemington Research (R)
+    *   Tester49
+    *   Rosendale46Tester +3
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove51Disapprove +4
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve43
-    *   Disapprove52Disapprove +9
+    *   Approve46
+    *   Disapprove52Disapprove +6
 
 More Latest Polls In The News
 
+*   Democrats vs. Louie Gohmert: Peter Strzok Is An Expert Liar. Fooled His Wife, Could Probably Fool A Polygraph
+*   Strzok Hearing Descends Into Chaos After First Question, Republican vs. Democrat Shouting Match
+*   Trump to Reporter: "Ultimate" Outcome With Putin Would Be Finding A Cure To Every Disease
 *   Bernstein: Trump "Writing A New American Narrative," "Sucking The Oxygen Out Of The American Story"
 *   Trump vs. NATO Sec: We're Supposed To Protect You While Germany Sends Billions To Russians, "Very Sad"
-*   CIA Analyst: Republic Is Burning, "Can't Rely On Voting". SCOTUS Is Last Functioning Branch Of Government
-*   Chait: Unlikely But Possible That Trump Has Been Russian Asset Since 1987. "Probably Not True But It Might Be"
-*   Hemingway: Never Trumpers Way Overrepresented In Media, Represent "Incredibly Small Fraction" Of People
 
 *   Politics
 *   Policy
