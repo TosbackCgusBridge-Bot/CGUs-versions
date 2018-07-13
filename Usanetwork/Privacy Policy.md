@@ -333,8 +333,8 @@ For any questions or complaints about this Privacy Policy or our privacy practic
 *   NBCUniversal
 *   Contact Us
 *   Store
-*   Privacy Policy – New
+*   Privacy Policy
 *   Supply Chain Values
 *   Terms of Service
 
-© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/9873942" height="1" width="1" alt="" /></a></div>.
+© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/5294254" height="1" width="1" alt="" /></a></div>.
