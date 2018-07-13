@@ -25,19 +25,15 @@ Learn how PayPal makes it easy to shop and send money to family and friends.
 
 \+ Personal + Personal
 
-Shop, pay bills and manage your finances, all from the tips of your fingers.
+Shop, send money, and pay bills without entering your payment info again and again
 
-Check out faster, at any of the millions of sites PayPal is accepted.
+24/7 fraud detection means we work around the clock to help keep your account secure.
 
-Expand your payment options with our credit, debit, prepaid cards &. PayPal Credit.\*
+Pay your way, whether it’s credit, debit, or your bank account.
 
-Stay on top of your financial activity with the PayPal app.
+Speed through checkout at millions of brands that accept PayPal.
 
-Sign Up for Free
-
-\*Subject to credit approval.
-
-Business
+Sign Up for Free Business
 
 Start accepting all kinds of payments with one PayPal business account.
 
@@ -98,4 +94,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=e794c41e31b72&rsta=en\_US&pgtf=Nodejs&s=ci&csci=64162548a77f49209f55960f231dc8e0&comp=mppnodeweb&tsrce=mppnodeweb&xe=3945&xt=9427&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=a4623d7d40502&rsta=en\_US&pgtf=Nodejs&s=ci&csci=660ce2f188dc4ae0b0b71f6ec6d6d270&comp=mppnodeweb&tsrce=mppnodeweb&xe=3945&xt=9425&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
