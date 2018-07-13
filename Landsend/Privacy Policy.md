@@ -163,7 +163,7 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   Kids' Swim Shop
     *   Kids' Backpacks &. Lunch Boxes
-    *   Girls' Knit Kit Stretchy Seperates
+    *   Girls' Knit Kit Stretchy Separates
     *   Kids' Iron Knees Pants
     *   School Uniforms
     
@@ -560,7 +560,7 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Kids' Swim Shop
         *   Kids' Backpacks &. Lunch Boxes
-        *   Girls' Knit Kit Stretchy Seperates
+        *   Girls' Knit Kit Stretchy Separates
         *   Kids' Iron Knees Pants
         *   School Uniforms
     *   Girls' Clothing
@@ -859,8 +859,11 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-BIG SUMMER SALE - Save Up To 60% Shop All Sale  
-No promo code required. Customer Service Menu
+Receive 25% off full-price styles!
+
+code: SAILBOAT pin: 1464 DETAILS
+
+Customer Service Menu
 
 Customer Service
 
