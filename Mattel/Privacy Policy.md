@@ -762,11 +762,12 @@ Helpful Links
 
 *   Customer Service
 *   Recall Information
-*   Terms &. Conditions
+*   Modern Slavery Act Transparency Statement
 
 Follow Mattel
 
 *   NEW Privacy Statement
+*   Terms &. Conditions
 
 *   © 2018 Mattel. All Rights Reserved
 
