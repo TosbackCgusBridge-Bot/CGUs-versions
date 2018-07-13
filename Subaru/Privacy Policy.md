@@ -99,11 +99,11 @@ Up to
 
 Forester 2.5i Touring shown
 
-Outback $25,895\* starting price 2018 Outback
+Outback $26,345\* starting price 2019 Outback
 
 Starting at
 
-$25,895 MSRP
+$26,345 MSRP
 
 Up to
 
