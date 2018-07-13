@@ -23,7 +23,7 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -244,7 +244,6 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Summer Checklist
         *   Top Rated
         *   Best Sellers
-        *   Denim on Denim
         *   BOGO 30% Off BKE Jewelry
         *   Back in Stock
         *   Two Piece Outfits
@@ -269,15 +268,17 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Dibs
         *   Street Style
         *   Performance Apparel
+        *   Long Body
         *   Top It Off
         
         *   Looks
         
-        *   Back To Basics
+        *   Back to Basics
         *   Country Concerts
         *   Festival Shop
         *   Night Out
         *   Active &. Lounge
+        *   Denim on Denim
         *   Shop Women's Outfits
         *   Shop Men's Outfits
         
@@ -302,9 +303,9 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Men's New to Sale
         *   Accessories BOGO Free
         *   Sale Under $25
-        *   Select Sale BOGO 50% Off
         *   Men's Barbershop Sale
-        *   Select Women's Sale Jeans BOGO 50% Off
+        *   Extra 10% Off Select Sale
+        *   Extra 20% Off Select Sale
         
         *   Women's Sale
         
