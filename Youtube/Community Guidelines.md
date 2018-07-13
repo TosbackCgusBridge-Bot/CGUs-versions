@@ -40,9 +40,9 @@ Impersonation
 
 Accounts that are established to impersonate another channel or individual may be removed under our impersonation policy. Learn more
 
-Child endangerment
+Child Safety
 
-Learn what to do if you encounter inappropriate content. Also, be advised that we work closely with law enforcement and we report child exploitation Learn more
+Learn about how we protect minors in the YouTube ecosystem. Also, be advised that we work closely with law enforcement and we report child endangerment. Learn more
 
 Additional policies
 
