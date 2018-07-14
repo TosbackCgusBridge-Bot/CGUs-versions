@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Tom McTague_: Why Trump Has Few Friends in Europe
+*   _Roger Simon_: Strzok Has Shamed Himself &. the FBI--Yet He Was Smirking
     
-*   _Paul Bonicelli_: NATO Is Sick--Trump Is the Best Doctor It's Likely to Get
+*   _Josh Campbell_: Republicans Stray Into Embarrassing Overreach at Hearing
     
-*   _Peter Beinart_: NATO Doesn't Need More Defense Spending: U.S. Needs Less
+*   _Kevin Brock_: Strzok, Not His Critics, Did the Damage: Can the FBI Endure?
     
-*   _Newt Gingrich_: Trump's Supreme Court Pick Is Part of a Grand Strategy
+*   _Ezra Klein_: Why Is Trump Undermining NATO and the EU? He Just Told Us.
     
-*   _Paul Glastris_: To Save Our Democracy, Dems Need to Win Big
+*   _Marc Thiessen_: Trump Isn't Attacking NATO. He's Strengthening It.
     
-*   _Shermichael Singleton_: Liberal Politics Have Not Helped Black America
+*   _Susan Rice_: Trump Must Not Capitulate to Putin
     
-*   _Chauncey DeVega_: Trump's Global Agenda: Racism for All
+*   _Michael Walsh_: Dems Are Losing Their War Against the Constitution
     
-*   _Gary Varvel_: Trump: A President I Didn't Want, But Now I Know We Need
+*   _Erwin Chemerinsky_: If Kavanaugh Isn't Honest, He Shouldn't Be Confirmed
     
-*   _Natalie Robehmed_: How Kylie Jenner Built a $900M Fortune in Under 3 Years
+*   _Dominic Green_: Meet Jacob Rees-Mogg: The Next Tory Kingmaker
     
-*   _Lyman Stone_: The Myth of the Job-Hopping, Rootless Millennial
+*   _Ian Bremmer_: The U.K.'s 'Brexit Dream' Has Become a Waking Nightmare
     
-*   _Brad Heath_: Baltimore Police Stopped Noticing Crime. Killings Followed.
+*   _David Sanger_: Cyber Conflict: What Comes Next?
     
-*   _Zalmay Khalilzad_: Trump's Criticism Is Valid. NATO Needs a Reset
+*   _David Smith_: Trump Detonates Diplomatic Grenade on UK Visit
     
-*   _Ivan Krastev_: Sorry, NATO. Trump Doesn't Believe in Allies.
+*   _Patrick Buchanan_: Is a Coming NATO Crisis Inevitable?
     
-*   _Conrad Black_: America's European Allies Face Domestic Trouble
+*   _Jeremy Stahl_: Congress's Strzok Hearing Was a Total Fiasco
     
-*   _David Lammy_: I'm a British Lawmaker, and I'm Protesting Trump's Visit to UK
+*   _George Neumayr_: Strzok a Lying Weasel to the Very End
     
-*   _John Kass_: How to Maintain the Republic? Justices Like Kavanaugh
+*   _John Cassidy_: It's Right to Be Mad About Kavanaugh and the High Court
     
-*   _Simon Lazarus_: How Dems Can Expose What Kavanaugh Threatens
+*   _Scott Jennings_: Dems' Clown Show of Outrage Over Kavanaugh Fools No One
     
-*   _Seth Lipsky_: Losing the Court Can Teach Liberals Some Valuable Lessons
+*   _Andrew Ferguson_: The Yale Law School Freakout
     
-*   _Walter Shapiro_: Why the Kavanaugh Pick Is Not as Safe as It Seems
+*   _Fareed Zakaria_: Ronald's Out. Donald's In
     
-*   _Adele Malpass_: Republican Super PAC Sets Fundraising Record
+*   _Tom Bevan_: The Takeaway: Reagan Tops Among Older Generations
     
-*   _Ivanka Trump_: Paid Family Leave Policy Deserves Bipartisan Support
+*   _Richard Becker_: Socialism an Easy Sell in Flyover Country
     
-*   _Thomas Edsall_: What Happens If Gender Gap Becomes a Gender Chasm?
+*   _Newt Gingrich_: Dems' Radical Immigration Stance May Give GOP Big Win
     
-*   _Barbara Kay_: The Journey Behind One SJW's Political Epiphany
+*   _Mark Penn_: To the Middle, Not the Mattresses
     
-*   _Andrew Walworth_: The Perils of Confusing Nuclear &. Cyber Strategy
+*   _A.B. Stoddard_: Gridlock Can End on November 6
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Shouting, Insults as FBI's Strzok Faces Lawmakers
+*   Rep. Maloney Seeks Re-Election--and New York AG Office
+*   Replay/Highlights: Strzok Hearing
 *   Republican Super PAC Sets Fundraising Record
 *   Dems Focus Court Messaging on Protecting the Health Care Law
-*   Trump at NATO Summit: "We Really Accomplished A Lot"
-*   In Testy Exchange, Trump Hits Germany for Being "Captive" to Russia
-*   "Never Trumpers" Hail Kavanaugh, But the Praise Stops There
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -248,23 +248,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalFOX News
     *   Approve46
     *   Disapprove51Disapprove +5
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
 *   2018 Generic Congressional VoteFOX News
     *   Democrats48
     *   Republicans40Democrats +8
 *   Montana Senate - Rosendale vs. TesterRemington Research (R)
     *   Tester49
     *   Rosendale46Tester +3
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove52Disapprove +6
 
 More Latest Polls In The News
 
+*   Bret Stephens: "Ideological Affinity" Between Putin And Trump Is More Important Than "Tactical Collusion"
+*   Jake Tapper: Indictment Of Russians Proves Conspiracy Theories About "Deep State" And Seth Rich Aren't True
+*   Full Replay: President Trump And British PM Theresa May Hold Press Conference Amid Brexit, Trade, Russia Tensions
 *   Democrats vs. Louie Gohmert: Peter Strzok Is An Expert Liar. Fooled His Wife, Could Probably Fool A Polygraph
 *   Strzok Hearing Descends Into Chaos After First Question, Republican vs. Democrat Shouting Match
-*   Trump to Reporter: "Ultimate" Outcome With Putin Would Be Finding A Cure To Every Disease
-*   Bernstein: Trump "Writing A New American Narrative," "Sucking The Oxygen Out Of The American Story"
-*   Trump vs. NATO Sec: We're Supposed To Protect You While Germany Sends Billions To Russians, "Very Sad"
 
 *   Politics
 *   Policy
