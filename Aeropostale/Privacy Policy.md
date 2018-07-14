@@ -46,6 +46,7 @@ Close submenu ( Featured ) Featured
 *   Logo Shop
 *   Basic Essentials
 *   Seriously Soft
+*   Online Only
 
 Close submenu ( Tops ) Tops
 
@@ -277,6 +278,7 @@ Menu Find a Store Aeropostale
         *   Logo Shop
         *   Basic Essentials
         *   Seriously Soft
+        *   Online Only
     
     *   Tops
         *   View All
