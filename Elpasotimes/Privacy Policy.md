@@ -1,4 +1,4 @@
-SUBSCRIBE NOW99¢ per month. Save 90%.
+close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%.
 
 *   Home
 *   News
@@ -75,7 +75,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowRecords in arrest in viral video don't mention gunCrimeCustoms stops El Paso mom, teen over last namesNewsMom: Officer choked son before video startedCrimeDo you know El Paso's most wanted fugitives?CrimeCounty to pay $350,000 in wrongful terminationLocalEl Paso's Boss fast-food chain quickly expandsBusinessEl Paso soccer player starting for No. 1 MLS teamSoccerQuestions remain after officer pointed gun at kidsCrimeSocorro says ex-police chief leaked videoCrimeJustify Jockey Mike Smith back in New MexicoSportsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowArrest made in shooting at Little Bit of TexasCrimeSaga in Socorro: Ex-police chief leaked video?LocalRussians ran fake El Paso news Twitter accountLocalPolice chief speaks of officer pulling gun on kidsCrimeTed Cruz spars with Stephen King on TwitterPoliticsBuild-a-Bear chaos: How to get your $15 voucherNewsMan, 20, dies after stabbing at Tigua communityCrime8 local coffee shops you need to know aboutLocalMan killed in East El Paso motorcycle accidentTrafficEl Paso's Beto O'Rourke raises $10.4 millionPoliticsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,3 +145,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialogGet Unlimited Access To Local News99¢ Per MonthFor 3 MonthsGet Unlimited AccessContinue with limited accessclose dialogclose dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dialog
