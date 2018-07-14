@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
+SELECT SALE MERCH: NOW AN EXTRA 20% OFF. SHOP NOW.
 
 *   Women
 *   Men
@@ -48,6 +48,7 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         
         *   Tops
         
+        *   Shop All
         *   2 For $35
         *   Bodysuits
         *   Tees
@@ -58,10 +59,10 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Sweatshirts
         *   Sweaters
         *   Jackets
-        *   Shop All
         
         *   Bottoms
         
+        *   Shop All
         *   Jeans
         *   Curvy Jeans
         *   Skinny Jeans
@@ -72,10 +73,10 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Skirts
         *   Denim Skirts
         *   The Denim Shop
-        *   Shop All
         
         *   Shoes
         
+        *   Shop All
         *   Sandals
         *   Flips
         *   Sneakers
@@ -84,10 +85,10 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Flats/Slides
         *   Wedges
         *   Western Boots
-        *   Shop All
         
         *   More
         
+        *   Shop All
         *   Accessories
         *   Watches
         *   Bags
@@ -98,7 +99,6 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Activewear
         *   Sunglasses
         *   Swimwear
-        *   Shop All
         
           
           
@@ -117,6 +117,7 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         
         *   Tops
         
+        *   Shop All
         *   2 For $25
         *   Graphic Tees
         *   Solid Tees
@@ -126,10 +127,10 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Long Body
         *   Sweatshirts
         *   Jackets
-        *   Shop All
         
         *   Bottoms
         
+        *   Shop All
         *   Jeans
         *   Bootcut Jeans
         *   Straight Leg Jeans
@@ -140,20 +141,20 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Stretch Jeans
         *   Jeans Under $75
         *   The Denim Shop
-        *   Shop All
         
         *   Shoes
         
+        *   Shop All
         *   Flips
         *   Slides
         *   Sneakers
         *   Casuals
         *   Dress
         *   Boots
-        *   Shop All
         
         *   More
         
+        *   Shop All
         *   Hats
         *   Sunglasses
         *   Boxers
@@ -163,7 +164,6 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Cologne
         *   Wallets
         *   Jewelry
-        *   Shop All
         
           
           
@@ -178,15 +178,15 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         
         *   Girl's Clothing
         
+        *   Shop All
         *   Tops
         *   Bottoms
-        *   Shop All
         
         *   Boy's Clothing
         
+        *   Shop All
         *   Tops
         *   Bottoms
-        *   Shop All
         
           
           
@@ -194,6 +194,7 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
 *   Jeans
     *   *   Women's Jeans
         
+        *   Shop All
         *   Jegging
         *   Ankle Skinny
         *   Destructed Light Wash
@@ -201,27 +202,26 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Boyfriend
         *   High Rise
         *   The Denim Shop
-        *   Shop All
         
         *   Men's Jeans
         
+        *   Shop All
         *   Slim
         *   Regular
         *   Relaxed
         *   Loose
         *   Destructed
         *   The Denim Shop
-        *   Shop All
         
         *   Stretch &. Tech Jeans
         
+        *   Shop All
         *   Non-Stretch
         *   Comfort Stretch
         *   Performance Stretch
         *   Superior Stretch
         *   All Stretch
         *   Coolmax
-        *   Shop All
         
         *   Kid's Jeans
         
@@ -230,9 +230,9 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         
         *   Factory Seconds
         
+        *   Shop All Factory Seconds Jeans
         *   Women’s Factory Seconds
         *   Men’s Factory Seconds
-        *   Shop All Factory Seconds Jeans
         
           
           
@@ -309,6 +309,7 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         
         *   Women's Sale
         
+        *   Shop All
         *   Jeans
         *   All Tops
         *   Shirts/Blouses
@@ -319,10 +320,10 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Crops/Capris
         *   Shorts
         *   Shoes
-        *   Shop All
         
         *   Men's Sale
         
+        *   Shop All
         *   Jeans
         *   All Tops
         *   Shirts
@@ -333,24 +334,23 @@ FREE SHIPPING: BUY ONLINE &. SHIP TO STORE. DETAILS.
         *   Boardshorts
         *   Accessories
         *   Shoes
-        *   Shop All
         
         *   Kid's Sale
         
+        *   Shop All
         *   Girl's Sale Tops
         *   Girl's Sale Jeans
         *   Shop All
         *   Boy's Sale Tops
         *   Boy's Sale Jeans
-        *   Shop All
         
         *   Outlet
         
+        *   Shop All Factory Seconds
         *   All Women’s Outlet
         *   All Men’s Outlet
         *   Women’s Factory Seconds
         *   Men’s Factory Seconds
-        *   Shop All Factory Seconds
         
           
           
@@ -641,4 +641,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
