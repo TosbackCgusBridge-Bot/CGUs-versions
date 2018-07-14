@@ -17,7 +17,7 @@
         *   TVC
         
     *   Our history
-    *   Management team
+    *   Executive team
 
 *   *   Annual and interim reports
     *   Results at a glance
