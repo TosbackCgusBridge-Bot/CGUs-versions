@@ -8,17 +8,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Sam Edelman Up to 50% Off
-    *   Designers We Love: Nanette Lepore &. More
-    *   French Connection
+    *   Michael Stars Starting at $20
+    *   Go Couture
+    *   Summer Survival Guide: Head-to-Toe Essentials
+    *   London Dress Company
+    *   Designer Swim ft. Versace
+    *   Free Shipping: Modern Rugs Up to 65% Off
+    *   Endless Rose
+    *   Neuw &. Rolla's
+    *   Sunnies for Him &. Her Under $30
+    *   Sanuk Starting at $20
+    *   Diamond Baguette Jewelry, Labradorite &. More
+    *   Very Volatile &. Sbicca
+    *   Wedding Accessories ft. Marchesa &. Givenchy
+    *   Hair Care ft. BaBylissPRO, Sexy Hair &. More
+    *   Milk Makeup
+    *   Rachel Zoe
+    *   Aldo Men Starting at $20
+    *   Alternative &. More Under $30
+    *   Sanuk Men: Flip Flops &. More from $20
+    *   Go Couture Kids
     *   Z By Zella Incl. Plus
     *   Nordstrom Rack Exclusives: Shoes
     *   Nordstrom Rack Exclusives: Handbags
     *   Exclusively Ours: Women's Styles for Summer
-    *   Best of Nordstrom Rack: Jewelry Starting at $10
     *   Nordstrom Rack Exclusives: Men's Shoes
     *   Summer Stock Up: Kids' Styles ft. Harper Canyon
     *   Harper Canyon: Exclusive Shoes Starting at $10
+    
+    *   Sam Edelman Up to 50% Off
+    *   French Connection
+    *   Designers We Love: Nanette Lepore &. More
     *   Monoreno
     *   Sam Edelman Handbags Up to 50% Off
     *   Jessica Simpson Swim
@@ -31,19 +51,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Clearweather Up to 75% Off
     *   Pieces That Wow: Modern Tables, Lamps &. More
     *   Car Storage &. Organization Essentials from $10
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Vintage Havana
     *   Natori Sleep &. Lingerie Up to 60% Off
-    *   Dolce Vita Up to 50% Off
-    *   Parker
-    
-    *   Issue New York Up to 85% Off
     *   7 For All Mankind
-    *   Must-Have Bags for Summer
-    *   Anna Sui
-    *   Do + Be
-    *   Betsey Johnson Starting at $35
-    *   Think Pink: Summer Styles Starting at $20
     *   Barse Sterling Silver &. Gemstone Jewelry Under $80
     *   MIAMICA: Trendy Travel Accessories
     *   Appaman
@@ -54,19 +63,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   $55 &. Under: GBX Shoes
     *   Home Run: Men's Baseball Tees, Caps &. More
     *   Free Shipping: Graphic Art Prints Up to 50% Off
+    
     *   Dream Style: Bedding Starting at $20
-    *   Milk Makeup
-    *   KENDALL + KYLIE Up to 80% Off
-    *   Oscar de la Renta Jewelry Up to 55% Off
-    *   Venettini Kids' Shoes
     *   Donald Pliner Men
     *   Men's Swim Shop: Styles Under $35
     *   Dress Shirts Starting at $30
     *   Tommy Hilfiger Tailored Clothing
-    *   Llum Up to 70% Off
-    *   Sovereign Code Kids
-    
-    *   Girls' Dresses Starting at $12
     *   Revjams Tech Accessory Blowout
     *   Free Shipping: Modern Boho Decor Up to 75% Off
     *   Silver and Gold: Chic Ornaments &. More from $10
@@ -74,35 +76,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Enchanting Accents: Gnomes &. More from $10
     *   Shine On: LED Rope Lights Starting at $12
     *   Grande Cosmetics: Lips &. Lashes
-    *   Good Man Brand
     *   INKED by Dani Temporary Tattoos
-    *   Men's Activewear Under $20
-    *   Obey
-    *   Vacay Ready: Beauty Travel Essentials from $10
     *   KitchenAid
     *   Free Shipping: Rustic Accent Furniture &. More
     *   Amrapur Bedding Up to 85% Off
     *   Keep It Clean: Organization Essentials from $10
     *   Free Shipping: Exquisite Rugs
-    *   Free Shipping: Fresh Area Rugs
-    *   Your Call: 100+ Phone Cases &. More from $10
+    *   ORA Derma Roller &. Microdermabrasion Tools
     *   14K Gold Jewelry &. More Starting at $20
+    *   Vintage Havana
+    *   Llum Up to 70% Off
+    *   Best of Nordstrom Rack: Jewelry Starting at $10
+    *   Dolce Vita Up to 50% Off
+    *   Issue New York Up to 85% Off
     *   Dr. Martens
-    *   Premium Denim ft. JOE'S Jeans
-    *   Taylor &. Gabby Skye Dresses
-    *   Designer Shop: Styles Up to 65% Off
-    *   Mix &. Match: Summer Separates Under $30
-    *   Given Kale Up to 80% Off
 *   WomenShop Sale Events
     
-    *   Sam Edelman Up to 50% Off
-    *   Designers We Love: Nanette Lepore &. More
-    *   French Connection
+    *   Michael Stars Starting at $20
+    *   Go Couture
+    *   Summer Survival Guide: Head-to-Toe Essentials
+    *   London Dress Company
+    *   Designer Swim ft. Versace
+    *   Endless Rose
+    *   Sunnies for Him &. Her Under $30
+    *   Sanuk Starting at $20
+    *   Diamond Baguette Jewelry, Labradorite &. More
+    *   Very Volatile &. Sbicca
+    *   Wedding Accessories ft. Marchesa &. Givenchy
+    *   Hair Care ft. BaBylissPRO, Sexy Hair &. More
+    *   Milk Makeup
+    *   Rachel Zoe
     *   Z By Zella Incl. Plus
     *   Nordstrom Rack Exclusives: Shoes
     *   Nordstrom Rack Exclusives: Handbags
     *   Exclusively Ours: Women's Styles for Summer
-    *   Best of Nordstrom Rack: Jewelry Starting at $10
+    *   Sam Edelman Up to 50% Off
+    *   French Connection
+    
+    *   Designers We Love: Nanette Lepore &. More
     *   Monoreno
     *   Sam Edelman Handbags Up to 50% Off
     *   Jessica Simpson Swim
@@ -110,63 +121,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Skinny Tan Up to 70% Off
     *   Jet Off: Delsey Luggage &. More
     *   Roberto Cavalli Watches &. More Starting at $60
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Vintage Havana
     *   Natori Sleep &. Lingerie Up to 60% Off
-    *   Dolce Vita Up to 50% Off
-    *   Parker
-    *   Issue New York Up to 85% Off
-    
-    *   Must-Have Bags for Summer
-    *   Anna Sui
-    *   Do + Be
-    *   Betsey Johnson Starting at $35
-    *   Think Pink: Summer Styles Starting at $20
     *   Barse Sterling Silver &. Gemstone Jewelry Under $80
     *   MIAMICA: Trendy Travel Accessories
-    *   Milk Makeup
-    *   KENDALL + KYLIE Up to 80% Off
-    *   Oscar de la Renta Jewelry Up to 55% Off
     *   Grande Cosmetics: Lips &. Lashes
     *   INKED by Dani Temporary Tattoos
-    *   Vacay Ready: Beauty Travel Essentials from $10
+    *   ORA Derma Roller &. Microdermabrasion Tools
     *   14K Gold Jewelry &. More Starting at $20
+    *   Vintage Havana
+    *   Best of Nordstrom Rack: Jewelry Starting at $10
+    *   Dolce Vita Up to 50% Off
+    *   Issue New York Up to 85% Off
     *   Dr. Martens
-    *   Premium Denim ft. JOE'S Jeans
-    *   Taylor &. Gabby Skye Dresses
-    *   Designer Shop: Styles Up to 65% Off
-    *   Mix &. Match: Summer Separates Under $30
-    *   Given Kale Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
-    *   Tech Accessories
     *   Lingerie
     *   Watches
+    *   Handbags
+    *   Tech Accessories
     *   Accessories
 *   MenShop Sale Events
     
+    *   Neuw &. Rolla's
+    *   Sunnies for Him &. Her Under $30
+    *   Aldo Men Starting at $20
+    *   Alternative &. More Under $30
+    *   Sanuk Men: Flip Flops &. More from $20
     *   Nordstrom Rack Exclusives: Men's Shoes
     *   Jet Off: Delsey Luggage &. More
     *   Roberto Cavalli Watches &. More Starting at $60
     *   Civil Society
     *   Road Trip Essentials: Backpacks &. More
+    
     *   Clearweather Up to 75% Off
     *   7 For All Mankind
     *   Something Strong &. More Up to 75% Off
     *   $55 &. Under: GBX Shoes
-    
     *   Home Run: Men's Baseball Tees, Caps &. More
     *   Donald Pliner Men
     *   Men's Swim Shop: Styles Under $35
     *   Dress Shirts Starting at $30
     *   Tommy Hilfiger Tailored Clothing
-    *   Good Man Brand
-    *   Men's Activewear Under $20
-    *   Obey
     
     Shop By Category
     *   Clothing
@@ -175,28 +173,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Go Couture Kids
     *   Summer Stock Up: Kids' Styles ft. Harper Canyon
     *   Harper Canyon: Exclusive Shoes Starting at $10
     *   Appaman
     *   See Kai Run
     *   Summer Sleepover Faves: Coccoli &. More
     *   Haute Hits
-    *   Venettini Kids' Shoes
     *   Llum Up to 70% Off
-    *   Sovereign Code Kids
-    *   Girls' Dresses Starting at $12
     
     Shop By Category
     *   Girls Sizes 7-16
     *   Girls Sizes 2T-6X
     *   Girls' Shoes
     *   Boys Sizes 2T-7
-    *   Baby Girl
     *   Boys Sizes 8-20
-    *   Baby Boy
+    *   Baby Girl
     *   Boys' Shoes
+    *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Modern Rugs Up to 65% Off
     *   Pieces That Wow: Modern Tables, Lamps &. More
     *   Car Storage &. Organization Essentials from $10
     *   Free Shipping: Graphic Art Prints Up to 50% Off
@@ -204,17 +201,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Revjams Tech Accessory Blowout
     *   Free Shipping: Modern Boho Decor Up to 75% Off
     *   Silver and Gold: Chic Ornaments &. More from $10
+    
     *   Festive Faves: Mark Roberts Starting at $10
     *   Enchanting Accents: Gnomes &. More from $10
-    
     *   Shine On: LED Rope Lights Starting at $12
     *   KitchenAid
     *   Free Shipping: Rustic Accent Furniture &. More
     *   Amrapur Bedding Up to 85% Off
     *   Keep It Clean: Organization Essentials from $10
     *   Free Shipping: Exquisite Rugs
-    *   Free Shipping: Fresh Area Rugs
-    *   Your Call: 100+ Phone Cases &. More from $10
     
     Shop By Category
     *   Home Decor
@@ -227,20 +222,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Storage &. Cleaning
 *   BeautyShop Sale Events
     
-    *   Skinny Tan Up to 70% Off
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   MIAMICA: Trendy Travel Accessories
+    *   Hair Care ft. BaBylissPRO, Sexy Hair &. More
     *   Milk Makeup
+    *   Skinny Tan Up to 70% Off
+    *   MIAMICA: Trendy Travel Accessories
     *   Grande Cosmetics: Lips &. Lashes
     *   INKED by Dani Temporary Tattoos
-    *   Vacay Ready: Beauty Travel Essentials from $10
+    *   ORA Derma Roller &. Microdermabrasion Tools
     
     Shop By Category
     *   Makeup
     *   Tools &. Accessories
     *   Bath &. Body
-    *   Hair Care
-    *   Skin Care
+    *   Personal Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
