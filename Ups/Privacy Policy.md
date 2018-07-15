@@ -10,7 +10,7 @@ Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 *   Locations Close
 *   View &. Pay Bill Close
 
-MenuSearch Close Back
+Search Close
 
 *   Tracking Tracking Track Shipments
     
@@ -87,14 +87,14 @@ MenuSearch Close Back
     *   Automotive
     *   **See All**
     
-    Explore All Services Have a question?
-    
-    Start in our UPS Help Center for tips about services, solutions, and FAQs or search by topic.
-    
-    Find Answers in the UPS Help Center
-    
+    Explore All Services Knowledge Center Knowledge Center
+    *   Optimizing Operations
+    *   Adopting Innovation
+    *   Growing Business
+    *   Expanding Globally
+    *   ResourcesExplore All Articles
 
-Customer Service Customer Service Need help now?
+Customer ServiceCustomer Service Need help now?
 
 Ask Our Virtual Assistant
 
@@ -103,22 +103,18 @@ Ask Our Virtual Assistant
 *   Change Delivery
 *   Delivery Issues
 
-*   Email Us
-*   Call Us
-*   See All Contact Options
-
 *   Log In
 *   Sign Up
 *   Locations
 *   United States - English
     *   Estados Unidos - Español
-    *   United States - EnglishSelect Another Country or Territory
+    *   United States - EnglishSelect Another Country
 *   My Profile
     
     *   Sign Up
     *   Log In
     
-    *   Overview
+    *   Profile Overview
     *   My Information
     *   Addresses
     *   Payment Options
