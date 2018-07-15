@@ -14,7 +14,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals SUHsXJxu6T5w3bo-1\_uuDx7
+Office Depot Deals ixeU9p52PCo-ecfgQt-\_p9d
 
 Search Suggestions
 
@@ -224,7 +224,7 @@ Your session will time out in 120 seconds.
 
 You will be automatically logged out if you do not click on the button below.
 
-https://officedepot.ugc.bazaarvoice.com 2563rew https://www.officedepot.com/images/us/od/ https://officedepotchat-en.custhelp.com/app/chat/BS2\_reactive\_chat\_launch <iframe src="//s.thebrighttag.com/iframe?c=bAEQTsC" title="BrightTag" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">. <html><head></head><body><div style="display:none;">Placeholder</div></body></html>. </iframe>.
+https://officedepot.ugc.bazaarvoice.com 2563rew https://www.officedepot.com/images/us/od/ https://officedepotchat-en.custhelp.com/app/chat/BS2\_reactive\_chat\_launch <iframe src="//s.thebrighttag.com/iframe?c=bAEQTsC" title="BrightTag" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">. <html><head>. <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||\[\],AKSB.mark=AKSB.mark||function(e,\_){AKSB.q.push(\["mark",e,\_||(new Date).getTime()\])},AKSB.measure=AKSB.measure||function(e,\_,t){AKSB.q.push(\["measure",e,\_,t||(new Date).getTime()\])},AKSB.done=AKSB.done||function(e){AKSB.q.push(\["done",e\])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"85515",ustr:"",originlat:"0",clientrtt:"32",ghostip:"23.215.15.8",ipv6:false,pct:"10",clientip:"162.211.64.106",requestid:"45bb8af4",region:"20528",protocol:"",blver:14,akM:"a",akN:"ae",akTT:"O",akTX:"1",akTI:"45bb8af4",ai:"235428",ra:"false",pmgn:"RUMwwwOD",pmgi:"",pmp:"",qc:""},function(e){var \_=d.createElement("script");\_.async="async",\_.src=e;var t=d.getElementsByTagName("script"),t=t\[t.length-1\];t.parentNode.insertBefore(\_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>. </head><body><div style="display:none;">Placeholder</div></body></html>. </iframe>.
 
 This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards now!
 
@@ -232,6 +232,6 @@ Join Sign In
 
 /account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll x We're making back-to-school shopping easier this year.
 
-We're proud to help you go back to school this year. Who are you shopping for?
+To help us better help you, let us know who you're shopping for:
 
-K-12 >. College >. My Classroom >. Feedback Will open a new window
+K-12 >. College >. My Classroom >.
