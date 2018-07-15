@@ -2,7 +2,7 @@ Last Updated:  **May 18, 2018**
 
 MARRIOTT GROUP GLOBAL PRIVACY STATEMENT
 
-The Marriott Group , which includes Marriott International, Inc., Starwood Hotels &. Resorts Worldwide, LLC (formerly known as Starwood Hotels &. Resorts Worldwide, Inc.) and their affiliates, values you as our guest and recognizes that privacy is important to you. We want you to be familiar with how we collect, use and disclose data. 
+The Marriott Group (PDF) , which includes Marriott International, Inc., Starwood Hotels &. Resorts Worldwide, LLC (formerly known as Starwood Hotels &. Resorts Worldwide, Inc.) and their affiliates, values you as our guest and recognizes that privacy is important to you. We want you to be familiar with how we collect, use and disclose data. 
 
 This Privacy Statement describes the privacy practices of the Marriott Group for data that we collect:
 
