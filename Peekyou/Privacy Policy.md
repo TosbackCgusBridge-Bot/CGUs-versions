@@ -1,5 +1,3 @@
-We use cookies to improve your experience. By continuing to use our site, you accept our use of cookies, Privacy Policy, and Terms of Service. Learn more
-
 *   Name
 *   Username
 *   Phone
@@ -12,7 +10,7 @@ Please enter a Last Name
 
 Location
 
-LocationAlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutWashington, DCDelawareFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+LocationWorldUSAAlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutWashington, DCDelawareFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachussetsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
 
 Please enter the location
 
@@ -66,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 8%  8%  8%  8%  Arrest Records &. Driving Infractions
+What is PeekScore? Public Records &. Background Checks 16%  16%  16%  16%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -109,7 +107,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 8%  Twitter 8%  Instagram 8%  Myspace 8%  Pinterest 8%  Wikipedia 8%  Google+ 8%  Music 8%  Photo Albums 8%  Web Search 7%  Images 7% 
+Facebook 16%  Twitter 16%  Instagram 16%  Myspace 16%  Pinterest 16%  Wikipedia 16%  Google+ 16%  Music 16%  Photo Albums 16%  Web Search 16%  Images 16% 
 
 *   About PeekYou
 *   Privacy Policy
@@ -118,6 +116,6 @@ Facebook 8%  Twitter 8%  Instagram 8%  Myspace 8%  Pinterest 8%  Wikipedia 
 *   Blog
 *   Daily Searches
 
-Copyright 2018 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
+Copyright 2017 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
 
 Scroll
