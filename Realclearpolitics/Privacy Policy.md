@@ -109,6 +109,40 @@
     *   About
     *   Media Kit
 
+*   _Mark Penn_: The Dishonesty of the Deep State
+    
+*   _Eisen &. Bookbinder_: Friday's Indictments Spell Trouble for Trump
+    
+*   _David Harsanyi_: Media Obsession With 'Collusion' Destroying Its Credibility
+    
+*   _Michiko Kakutani_: How We Gave Up on Facts and Ended Up With Trump
+    
+*   _Peter Boyer_: Another Win for Trump's Judicial List
+    
+*   _Katha Pollitt_: Roe Isn't Going Down Without a Fight
+    
+*   _Heather Wilhelm_: Abortion Cheerleaders Realize Science Is Not on Their Side
+    
+*   _Liz Peek_: Economy Is Booming, and It May Be Bad News for Democrats
+    
+*   _Joshua Green_: Can Republicans Survive a Trade War?
+    
+*   _Phil Stupak_: Let's Not Paper Over Election Security
+    
+*   _David Goldman_: NATO's Problem Is That Europeans Won't Fight
+    
+*   _Susan Glasser_: Thanks to Mueller, Trump &. Putin Have a Summit Agenda
+    
+*   _Marianna Belenkaya_: Netanyahu, Putin Talk Iran Before Helsinki Summit
+    
+*   _Robert Kagan_: Things Will Not Be Okay
+    
+*   _Henry Olsen_: NeverTrump Bait and Switch: They Hate the Ideas, Not the Man
+    
+*   _Adam Sternbergh_: The Extinction of the Middle Child
+    
+*   _Bill Whalen_: America's Government--Hooked Up to an Ivy Drip?
+    
 *   _Roger Simon_: Strzok Has Shamed Himself &. the FBI--Yet He Was Smirking
     
 *   _Josh Campbell_: Republicans Stray Into Embarrassing Overreach at Hearing
@@ -122,40 +156,6 @@
 *   _Susan Rice_: Trump Must Not Capitulate to Putin
     
 *   _Michael Walsh_: Dems Are Losing Their War Against the Constitution
-    
-*   _Erwin Chemerinsky_: If Kavanaugh Isn't Honest, He Shouldn't Be Confirmed
-    
-*   _Dominic Green_: Meet Jacob Rees-Mogg: The Next Tory Kingmaker
-    
-*   _Ian Bremmer_: The U.K.'s 'Brexit Dream' Has Become a Waking Nightmare
-    
-*   _David Sanger_: Cyber Conflict: What Comes Next?
-    
-*   _David Smith_: Trump Detonates Diplomatic Grenade on UK Visit
-    
-*   _Patrick Buchanan_: Is a Coming NATO Crisis Inevitable?
-    
-*   _Jeremy Stahl_: Congress's Strzok Hearing Was a Total Fiasco
-    
-*   _George Neumayr_: Strzok a Lying Weasel to the Very End
-    
-*   _John Cassidy_: It's Right to Be Mad About Kavanaugh and the High Court
-    
-*   _Scott Jennings_: Dems' Clown Show of Outrage Over Kavanaugh Fools No One
-    
-*   _Andrew Ferguson_: The Yale Law School Freakout
-    
-*   _Fareed Zakaria_: Ronald's Out. Donald's In
-    
-*   _Tom Bevan_: The Takeaway: Reagan Tops Among Older Generations
-    
-*   _Richard Becker_: Socialism an Easy Sell in Flyover Country
-    
-*   _Newt Gingrich_: Dems' Radical Immigration Stance May Give GOP Big Win
-    
-*   _Mark Penn_: To the Middle, Not the Mattresses
-    
-*   _A.B. Stoddard_: Gridlock Can End on November 6
     
 
 *   Previous
@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump on Russia Indictment: Why Didn't Obama Admin Do Something?
 *   Shouting, Insults as FBI's Strzok Faces Lawmakers
-*   Rep. Maloney Seeks Re-Election--and New York AG Office
-*   Replay/Highlights: Strzok Hearing
+*   Podesta: Witch Hunt? Well, We've Just Found Some Witches
 *   Republican Super PAC Sets Fundraising Record
 *   Dems Focus Court Messaging on Protecting the Health Care Law
 *   Presidential Job Approval
