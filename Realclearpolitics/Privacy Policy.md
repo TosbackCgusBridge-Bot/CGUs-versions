@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Mark Penn_: The Dishonesty of the Deep State
+*   _Nolan Finley_: Fire Strzok, Suspend Congress
     
-*   _Eisen &. Bookbinder_: Friday's Indictments Spell Trouble for Trump
+*   _Jelani Cobb_: Strzok, Gowdy, and the Co-Opting of Government Oversight
     
-*   _David Harsanyi_: Media Obsession With 'Collusion' Destroying Its Credibility
+*   _Howie Carr_: Democrats, Media Turn a Blind Eye to FBI Corruption
     
-*   _Michiko Kakutani_: How We Gave Up on Facts and Ended Up With Trump
+*   _David Rothkopf_: Trump Response to Russian Attacks 'Textbook Treason'
     
-*   _Peter Boyer_: Another Win for Trump's Judicial List
+*   _Derek Hunter_: A Russian Ham Sandwich
     
-*   _Katha Pollitt_: Roe Isn't Going Down Without a Fight
+*   _Eric Wilson-Edge_: The Radical Left Isn't Radical at All, Thanks to GOP
     
-*   _Heather Wilhelm_: Abortion Cheerleaders Realize Science Is Not on Their Side
+*   _Andrew Klavan_: How Many Obama Staffers Were Assaulted by Republicans?
     
-*   _Liz Peek_: Economy Is Booming, and It May Be Bad News for Democrats
+*   _Adam Smith_: Time for Adam Putnam to Start Worrying
     
-*   _Joshua Green_: Can Republicans Survive a Trade War?
+*   _Jan Brewer_: Blame Dems, Not Trump, for Broken Immigration System
     
-*   _Phil Stupak_: Let's Not Paper Over Election Security
+*   _Mark Galeotti_: The Danger of a Deal With Putin
     
-*   _David Goldman_: NATO's Problem Is That Europeans Won't Fight
+*   _Victor Davis Hanson_: Why Europe Gets No Respect
     
-*   _Susan Glasser_: Thanks to Mueller, Trump &. Putin Have a Summit Agenda
+*   _Mitch Albom_: Blockbuster Nearly Extinct, &. So Is a Daily Experience
     
-*   _Marianna Belenkaya_: Netanyahu, Putin Talk Iran Before Helsinki Summit
+*   _Fred Kaplan_: Mueller's New Indictments Can't Be Brushed Aside
     
-*   _Robert Kagan_: Things Will Not Be Okay
+*   _Jonathan Turley_: Ignore the Spin--Still No Evidence of Collusion
     
-*   _Henry Olsen_: NeverTrump Bait and Switch: They Hate the Ideas, Not the Man
+*   _Dana Milbank_: The Ritual Humiliation of Peter Strzok
     
-*   _Adam Sternbergh_: The Extinction of the Middle Child
+*   _Michael Goodwin_: Strzok's Arrogance the Product of a Corrupt FBI
     
-*   _Bill Whalen_: America's Government--Hooked Up to an Ivy Drip?
+*   _Maureen Dowd_: Trump, Having a Bawl in Europe
     
-*   _Roger Simon_: Strzok Has Shamed Himself &. the FBI--Yet He Was Smirking
+*   _Conrad Black_: The West Is a Mess, But the Real Trouble Is In Europe
     
-*   _Josh Campbell_: Republicans Stray Into Embarrassing Overreach at Hearing
+*   _Paul Brandus_: What Does Putin Have on Trump?
     
-*   _Kevin Brock_: Strzok, Not His Critics, Did the Damage: Can the FBI Endure?
+*   _J. Michael Waller_: What Trump Should Tell Putin on Monday
     
-*   _Ezra Klein_: Why Is Trump Undermining NATO and the EU? He Just Told Us.
+*   _Simon Tisdall_: Trump &. Putin's Unholy Alliance Could Lead to War w/Iran
     
-*   _Marc Thiessen_: Trump Isn't Attacking NATO. He's Strengthening It.
+*   _Hal Brands_: Three Reasons Why Trump May End the 'Forever War'
     
-*   _Susan Rice_: Trump Must Not Capitulate to Putin
+*   _Richard Wolffe_: Let's Drop the Euphemisms: Trump Is a Racist
     
-*   _Michael Walsh_: Dems Are Losing Their War Against the Constitution
+*   _Wayne Allyn Root_: Now Is Time for Trump &. GOP to Court Hispanics
     
 
 *   Previous
@@ -260,11 +260,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Nunes: Mueller Knows Russians Also Targeted Republicans, Why Is That Not In Indictment?
+*   Sen. Chris Coons: Putin Is The First Russian Leader Since Stalin To Annex Territory. Can Not Go Unchallenged
+*   Sen. Mark Warner: We Need Other Americans In The Room When Trump Meets Putin
 *   Bret Stephens: "Ideological Affinity" Between Putin And Trump Is More Important Than "Tactical Collusion"
 *   Jake Tapper: Indictment Of Russians Proves Conspiracy Theories About "Deep State" And Seth Rich Aren't True
-*   Full Replay: President Trump And British PM Theresa May Hold Press Conference Amid Brexit, Trade, Russia Tensions
-*   Democrats vs. Louie Gohmert: Peter Strzok Is An Expert Liar. Fooled His Wife, Could Probably Fool A Polygraph
-*   Strzok Hearing Descends Into Chaos After First Question, Republican vs. Democrat Shouting Match
 
 *   Politics
 *   Policy
