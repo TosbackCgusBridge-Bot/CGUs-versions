@@ -8,15 +8,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Predire Paris Luxury Skin Care Up to 95% Off
+    *   Cole Haan Up to 50% Off
+    *   Cole Haan Men Up to 50% Off
+    *   Cole Haan Handbags Up to 50% Off
+    *   Cole Haan Coats Starting at $80
+    *   Cole Haan Accessories Up to 70% Off
+    *   Designer Scarves Up to 60% Off
+    *   RAGA
+    *   Hale Bob Up to 70% Off
+    *   Jurlique Natural Skin Care Up to 40% Off
+    *   K-Beauty Must-Haves Starting at $10
+    *   Shahida Parides
+    *   MSP by Miraclesuit Active Under $30
+    *   Little White Dress Shop
+    *   Fall First Look: Hudson London
+    *   L'Amour Des Pieds
+    *   Cole Haan Men's Accessories Up to 75% Off
+    *   Summer Travel Accessories ft. Brouk &. Co.
+    *   David Donahue Tailored Clothing
+    *   7 For All Mankind Kids
+    *   Limeapple Up to 70% Off
+    *   Suslo Couture Boys Under $15
+    *   Cool Kicks: Original Penguin &. More
+    *   Free Shipping: Convertible Bean Bag Chairs
+    *   Kitchen Electrics Starting at $25
     *   Insight Up to 80% Off
     *   Shoe Blowout: Sandals, Heels &. More
     *   Tahitian &. Akoya Pearls Up to 70% Off
     *   Free Shipping: On-Trend Jewelry Starting at $15
     *   Christopher Kon Up to 75% Off
     *   Home Steals Starting at 60% Off
-    *   Free Shipping: Fine Art Up to 90% Off
+    
     *   Men's Shoes Up to 60% Off
     *   London Times &. Maggy London Incl. Plus &. Petites
     *   Saucony
@@ -37,15 +59,17 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Royale USA Hair Tools Up to 90% Off
     *   Free Shipping: BergHOFF
     *   On Trend: Diamond, Gems &. More Up to 80% Off
-    *   Issue New York Up to 85% Off
+    *   Romeo &. Juliet Couture Up to 75% Off
+    *   Free Shipping: Fine Art Up to 90% Off
+    *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Michael Stars Starting at $20
     *   Go Couture
-    
     *   Summer Survival Guide: Head-to-Toe Essentials
     *   London Dress Company
     *   Designer Swim ft. Versace
     *   Free Shipping: Modern Rugs Up to 65% Off
     *   Endless Rose
+    
     *   Neuw &. Rolla's
     *   Sunnies for Him &. Her Under $30
     *   Sanuk Starting at $20
@@ -57,58 +81,41 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Alternative &. More Under $30
     *   Sanuk Men: Flip Flops &. More from $20
     *   Go Couture Kids
-    *   Z By Zella Incl. Plus
-    *   Nordstrom Rack Exclusives: Shoes
-    *   Nordstrom Rack Exclusives: Handbags
-    *   Exclusively Ours: Women's Styles for Summer
     *   Nordstrom Rack Exclusives: Men's Shoes
-    *   Summer Stock Up: Kids' Styles ft. Harper Canyon
-    *   Harper Canyon: Exclusive Shoes Starting at $10
-    *   Sam Edelman Up to 50% Off
-    *   French Connection
-    *   Designers We Love: Nanette Lepore &. More
-    *   Monoreno
-    *   Sam Edelman Handbags Up to 50% Off
-    *   Jessica Simpson Swim
-    *   Summer Denim Under $50 Incl. Plus &. Petites
     *   Skinny Tan Up to 70% Off
-    *   Jet Off: Delsey Luggage &. More
-    
-    *   Roberto Cavalli Watches &. More Starting at $60
     *   Civil Society
     *   Road Trip Essentials: Backpacks &. More
     *   Clearweather Up to 75% Off
     *   Pieces That Wow: Modern Tables, Lamps &. More
     *   Car Storage &. Organization Essentials from $10
-    *   7 For All Mankind
     *   MIAMICA: Trendy Travel Accessories
-    *   Appaman
-    *   See Kai Run
-    *   Summer Sleepover Faves: Coccoli &. More
-    *   Haute Hits
-    *   Something Strong &. More Up to 75% Off
-    *   Best of Nordstrom Rack: Jewelry Starting at $10
-    *   Home Run: Men's Baseball Tees, Caps &. More
     *   Free Shipping: Graphic Art Prints Up to 50% Off
     *   Dream Style: Bedding Starting at $20
-    *   Milk Makeup
     *   Revjams Tech Accessory Blowout
     *   Free Shipping: Modern Boho Decor Up to 75% Off
     *   Silver and Gold: Chic Ornaments &. More from $10
     *   Festive Faves: Mark Roberts Starting at $10
     *   Enchanting Accents: Gnomes &. More from $10
     *   Shine On: LED Rope Lights Starting at $12
-    *   KitchenAid
-    *   Free Shipping: Rustic Accent Furniture &. More
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Rachel Zoe
-    *   Vintage Havana
-    *   $55 &. Under: GBX Shoes
     *   Men's Denim Shop: Styles Under $80
 *   WomenShop Sale Events
     
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Predire Paris Luxury Skin Care Up to 95% Off
+    *   Cole Haan Up to 50% Off
+    *   Cole Haan Handbags Up to 50% Off
+    *   Cole Haan Coats Starting at $80
+    *   Cole Haan Accessories Up to 70% Off
+    *   Designer Scarves Up to 60% Off
+    *   RAGA
+    *   Hale Bob Up to 70% Off
+    *   Jurlique Natural Skin Care Up to 40% Off
+    *   K-Beauty Must-Haves Starting at $10
+    *   Shahida Parides
+    *   MSP by Miraclesuit Active Under $30
+    *   Little White Dress Shop
+    *   Fall First Look: Hudson London
+    *   L'Amour Des Pieds
     *   Insight Up to 80% Off
     *   Shoe Blowout: Sandals, Heels &. More
     *   Tahitian &. Akoya Pearls Up to 70% Off
@@ -120,6 +127,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   14K Gold Jewelry &. More Under $80
     *   Denim Shorts Under $30
     *   Chinese Laundry Up to 55% Off
+    
     *   Skechers Sport Under $35
     *   Mephisto
     *   Spring Step Up to 50% Off
@@ -127,146 +135,124 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Premium Denim ft. HUDSON
     *   Royale USA Hair Tools Up to 90% Off
     *   On Trend: Diamond, Gems &. More Up to 80% Off
-    *   Issue New York Up to 85% Off
+    *   Romeo &. Juliet Couture Up to 75% Off
+    *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Michael Stars Starting at $20
     *   Go Couture
     *   Summer Survival Guide: Head-to-Toe Essentials
     *   London Dress Company
     *   Designer Swim ft. Versace
     *   Endless Rose
-    
     *   Sunnies for Him &. Her Under $30
     *   Sanuk Starting at $20
     *   Diamond Baguette Jewelry, Labradorite &. More
     *   Very Volatile &. Sbicca
     *   Wedding Accessories ft. Marchesa &. Givenchy
     *   Hair Care ft. BaBylissPRO, Sexy Hair &. More
-    *   Z By Zella Incl. Plus
-    *   Nordstrom Rack Exclusives: Shoes
-    *   Nordstrom Rack Exclusives: Handbags
-    *   Exclusively Ours: Women's Styles for Summer
-    *   Sam Edelman Up to 50% Off
-    *   French Connection
-    *   Designers We Love: Nanette Lepore &. More
-    *   Monoreno
-    *   Sam Edelman Handbags Up to 50% Off
-    *   Jessica Simpson Swim
-    *   Summer Denim Under $50 Incl. Plus &. Petites
     *   Skinny Tan Up to 70% Off
-    *   Jet Off: Delsey Luggage &. More
-    *   Roberto Cavalli Watches &. More Starting at $60
     *   MIAMICA: Trendy Travel Accessories
-    *   Best of Nordstrom Rack: Jewelry Starting at $10
-    *   Milk Makeup
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Rachel Zoe
-    *   Vintage Havana
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Watches
-    *   Lingerie
-    *   Tech Accessories
     *   Accessories
+    *   Tech Accessories
+    *   Lingerie
 *   MenShop Sale Events
     
+    *   Cole Haan Men Up to 50% Off
+    *   Cole Haan Men's Accessories Up to 75% Off
+    *   Summer Travel Accessories ft. Brouk &. Co.
+    *   David Donahue Tailored Clothing
     *   Men's Shoes Up to 60% Off
     *   Red Wing Up to 50% Off
     *   Kenneth Cole Reaction
     *   Golf Shop ft. Callaway
     *   Neuw &. Rolla's
+    
     *   Sunnies for Him &. Her Under $30
     *   Aldo Men Starting at $20
     *   Alternative &. More Under $30
     *   Sanuk Men: Flip Flops &. More from $20
     *   Nordstrom Rack Exclusives: Men's Shoes
-    
-    *   Jet Off: Delsey Luggage &. More
-    *   Roberto Cavalli Watches &. More Starting at $60
     *   Civil Society
     *   Road Trip Essentials: Backpacks &. More
     *   Clearweather Up to 75% Off
-    *   7 For All Mankind
-    *   Something Strong &. More Up to 75% Off
-    *   Home Run: Men's Baseball Tees, Caps &. More
-    *   $55 &. Under: GBX Shoes
     *   Men's Denim Shop: Styles Under $80
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   7 For All Mankind Kids
+    *   Limeapple Up to 70% Off
+    *   Suslo Couture Boys Under $15
+    *   Cool Kicks: Original Penguin &. More
     *   Everly Grey Maternity Up to 65% Off
     *   Oh So Soft: Petunia Pickle Bottom &. More
     *   Funkyberry
     *   Go Couture Kids
-    *   Summer Stock Up: Kids' Styles ft. Harper Canyon
-    *   Harper Canyon: Exclusive Shoes Starting at $10
-    *   Appaman
-    *   See Kai Run
-    *   Summer Sleepover Faves: Coccoli &. More
-    *   Haute Hits
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
-    *   Girls' Shoes
-    *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
     *   Baby Girl
+    *   Boys Sizes 8-20
     *   Baby Boy
-    *   Boys' Shoes
+    *   Boys Sizes 2T-7
     *   Baby Gear &. Essentials
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Convertible Bean Bag Chairs
+    *   Kitchen Electrics Starting at $25
     *   Home Steals Starting at 60% Off
-    *   Free Shipping: Fine Art Up to 90% Off
     *   Free Shipping: BergHOFF
+    *   Free Shipping: Fine Art Up to 90% Off
     *   Free Shipping: Modern Rugs Up to 65% Off
     *   Pieces That Wow: Modern Tables, Lamps &. More
     *   Car Storage &. Organization Essentials from $10
+    
     *   Free Shipping: Graphic Art Prints Up to 50% Off
     *   Dream Style: Bedding Starting at $20
-    
     *   Revjams Tech Accessory Blowout
     *   Free Shipping: Modern Boho Decor Up to 75% Off
     *   Silver and Gold: Chic Ornaments &. More from $10
     *   Festive Faves: Mark Roberts Starting at $10
     *   Enchanting Accents: Gnomes &. More from $10
     *   Shine On: LED Rope Lights Starting at $12
-    *   KitchenAid
-    *   Free Shipping: Rustic Accent Furniture &. More
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
-    *   Luggage &. Travel
+    *   Kitchen &. Tabletop
     *   Rugs
+    *   Luggage &. Travel
     *   Accent Furniture
     *   Outdoor Living
     *   Storage &. Cleaning
 *   BeautyShop Sale Events
     
-    *   Predire Paris Luxury Skin Care Up to 95% Off
+    *   Jurlique Natural Skin Care Up to 40% Off
+    *   K-Beauty Must-Haves Starting at $10
     *   Royale USA Hair Tools Up to 90% Off
+    *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Hair Care ft. BaBylissPRO, Sexy Hair &. More
     *   Skinny Tan Up to 70% Off
     *   MIAMICA: Trendy Travel Accessories
-    *   Milk Makeup
     *   ORA Derma Roller &. Microdermabrasion Tools
     
     Shop By Category
     *   Tools &. Accessories
     *   Makeup
-    *   Skin Care
     *   Hair Care
+    *   Skin Care
     *   Bath &. Body
     *   Personal Care
     *   Nails
