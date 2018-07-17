@@ -35,10 +35,6 @@ The world's most preferred online legal research platform Start a free trial
 *   Westlaw Edge
 *   Features
 *   Plans &. Pricing
-    *   Small Firms
-    *   Large &. Midsize Firms
-    *   Corporate Counsel
-    *   Government
 *   Success Stories
 
 Practitioner Insights
