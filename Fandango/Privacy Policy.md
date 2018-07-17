@@ -5,29 +5,31 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 
 *   Movies Now Playing
     
+    *   Hotel Transylvania 3: Summer Vacation
     *   Ant-Man and the Wasp
+    *   Skyscraper (2018)
     *   Incredibles 2
     *   Jurassic World: Fallen Kingdom
     *   The First Purge
+    *   Sorry to Bother You
     *   Sicario: Day of the Soldado
     *   Uncle Drew
     *   Ocean's 8
-    *   Tag (2018)
     *   Won't You Be My Neighbor?
-    *   Deadpool 2
-    *   Whitney
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Hotel Transylvania 3: Summer Vacation
-    *   Skyscraper (2018)
-    *   Dark Money
-    *   Don't Worry, He Won't Get Far on Foot
-    *   Eighth Grade
-    *   Gauguin: Voyage to Tahiti
-    *   Shock and Awe (2018)
-    *   Soorma
+    *   The Equalizer 2
+    *   Mamma Mia! Here We Go Again
+    *   Unfriended: Dark Web
+    *   Blindspotting
+    *   Damascus Cover
+    *   Far From the Tree
+    *   Generation Wealth
+    *   McQueen
+    *   Teefa in Trouble
+    *   The Third Murder
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -36,14 +38,14 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     Coming Soon
     
-    *   The Equalizer 2
-    *   Mamma Mia! Here We Go Again
-    *   Unfriended: Dark Web
     *   Teen Titans Go! To the Movies
     *   Christopher Robin
+    *   The Darkest Minds
     *   Searching (2018)
     *   The Spy Who Dumped Me
+    *   Dog Days (2018)
     *   The Meg
+    *   Alpha
     *   See All Coming Soon
     
     Explore More
@@ -71,9 +73,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Cate Shortland to Direct Marvel's 'Black Widow'. Here's Everything We Know Read More
-    *   Danai Gurira Touted for 'Godzilla vs. Kong': Here's What We Know So Far Read More
-    *   The Week in Movie News: Billy Dee Williams, 'RoboCop Returns' and More Read More
+    *   'Zombieland 2' Finally Confirmed. Here's Everything We Know Read More
+    *   How ‘Aquaman’ Is Unlike Any Superhero Film, From Its Blue-Collar Antihero to Underwater Gladiator Fights Read More
+    *   Next 3 Dwayne Johnson Movies: 'Hobbs and Shaw,' 'Jungle Cruise,' 'Red Notice' Read More
     
     Explore Content
     *   Movie Reviews
@@ -380,4 +382,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
