@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Nolan Finley_: Fire Strzok, Suspend Congress
+*   _Thomas Friedman_: Trump and Putin vs. America
     
-*   _Jelani Cobb_: Strzok, Gowdy, and the Co-Opting of Government Oversight
+*   _Andrew McCarthy_: Mueller's Nakedly Political Law Enforcement
     
-*   _Howie Carr_: Democrats, Media Turn a Blind Eye to FBI Corruption
+*   _Ezra Klein_: What We Know About Trump and Putin Is Damning
     
-*   _David Rothkopf_: Trump Response to Russian Attacks 'Textbook Treason'
+*   _Ruth Marcus_: Rod Rosenstein for President
     
-*   _Derek Hunter_: A Russian Ham Sandwich
+*   _Rush Limbaugh_: U.S. Journalists Becoming a Laughingstock &. They Don't Know It
     
-*   _Eric Wilson-Edge_: The Radical Left Isn't Radical at All, Thanks to GOP
+*   _Josh Marshall_: Russia Has Some Kind of Hold on Trump
     
-*   _Andrew Klavan_: How Many Obama Staffers Were Assaulted by Republicans?
+*   _Rep. Marsha Blackburn_: Democrats' Disturbing Opposition to ICE
     
-*   _Adam Smith_: Time for Adam Putnam to Start Worrying
+*   _Elaine Godfrey_: What Democrats Really Mean When They Attack ICE
     
-*   _Jan Brewer_: Blame Dems, Not Trump, for Broken Immigration System
+*   _John Tierney_: Vaping Prohibitionists Ignore Vast Public-Health Benefits
     
-*   _Mark Galeotti_: The Danger of a Deal With Putin
+*   _Andy Slavitt_: A Justice Kavanaugh Could Deal Death Blow to Obamacare
     
-*   _Victor Davis Hanson_: Why Europe Gets No Respect
+*   _Howard Kurtz_: Why Kavanaugh's Opponents Are Striking Out
     
-*   _Mitch Albom_: Blockbuster Nearly Extinct, &. So Is a Daily Experience
+*   _Byron York_: Mueller Indictment Tracks House Intel Report
     
-*   _Fred Kaplan_: Mueller's New Indictments Can't Be Brushed Aside
+*   _David Ignatius_: Putin Must Wonder What Else America Knows
     
-*   _Jonathan Turley_: Ignore the Spin--Still No Evidence of Collusion
+*   _Jed Babbin_: Potemkin Indictments From Summit's Would-Be Saboteurs
     
-*   _Dana Milbank_: The Ritual Humiliation of Peter Strzok
+*   _Charles Blow_: Trump, Treasonous Traitor
     
-*   _Michael Goodwin_: Strzok's Arrogance the Product of a Corrupt FBI
+*   _Harry Kazianis_: Improving U.S.-Russia Relations Would Be a Good Thing
     
-*   _Maureen Dowd_: Trump, Having a Bawl in Europe
+*   _Michael Bloomberg_: America's Values Must Guide White House Diplomacy
     
-*   _Conrad Black_: The West Is a Mess, But the Real Trouble Is In Europe
+*   _Sen. Mitch McConnell_: Scare Tactics Won't Stop Kavanaugh's Confirmation
     
-*   _Paul Brandus_: What Does Putin Have on Trump?
+*   _Bill Scher_: The Abortion War Will Soon Rip America in Two
     
-*   _J. Michael Waller_: What Trump Should Tell Putin on Monday
+*   _Mona Charen_: What the Cave Boys Teach Us About Abortion
     
-*   _Simon Tisdall_: Trump &. Putin's Unholy Alliance Could Lead to War w/Iran
+*   _David Remnick_: Ocasio-Cortez and the Future of the Democratic Party
     
-*   _Hal Brands_: Three Reasons Why Trump May End the 'Forever War'
+*   _Michael Ledeen_: Fall Forecast: An Anti-Leftist Electoral Rout
     
-*   _Richard Wolffe_: Let's Drop the Euphemisms: Trump Is a Racist
+*   _Rory Carroll_: Is Tom Steyer the Progressive Answer to the Kochs?
     
-*   _Wayne Allyn Root_: Now Is Time for Trump &. GOP to Court Hispanics
+*   _Chuck DeVore_: The Real Russian Collusion Is With Germany, Not Trump
     
 
 *   Previous
@@ -226,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump on Russia Indictment: Why Didn't Obama Admin Do Something?
-*   Shouting, Insults as FBI's Strzok Faces Lawmakers
-*   Podesta: Witch Hunt? Well, We've Just Found Some Witches
-*   Republican Super PAC Sets Fundraising Record
+*   What Trump and Putin Hope to Achieve at Helsinki Summit
+*   Trump Names EU a Global Foe, Raps Media Before Meeting Putin
+*   Nunes: Mueller Knows Russians Also Targeted Republicans
 *   Dems Focus Court Messaging on Protecting the Health Care Law
+*   Republican Super PAC Sets Fundraising Record
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +247,32 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalFOX News
-    *   Approve46
-    *   Disapprove51Disapprove +5
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
-*   2018 Generic Congressional VoteFOX News
-    *   Democrats48
-    *   Republicans40Democrats +8
-*   Montana Senate - Rosendale vs. TesterRemington Research (R)
-    *   Tester49
-    *   Rosendale46Tester +3
+*   Florida Senate - Scott vs. NelsonGravis
+    *   Scott43
+    *   Nelson47Nelson +4
+*   Tennessee Senate - Blackburn vs. BredesenEmerson
+    *   Bredesen43
+    *   Blackburn37Bredesen +6
+*   New Jersey Senate - Hugin vs. MenendezGravis
+    *   Menendez43
+    *   Hugin41Menendez +2
+*   Florida Governor - Republican PrimaryGravis
+    *   DeSantis35
+    *   Putnam29
+    *   White4
+    *   Rivas4
+    *   Devine
+    *   Nathan
+    *   Wilds
+    *   BaldaufDeSantis +6
 
 More Latest Polls In The News
 
-*   Nunes: Mueller Knows Russians Also Targeted Republicans, Why Is That Not In Indictment?
-*   Sen. Chris Coons: Putin Is The First Russian Leader Since Stalin To Annex Territory. Can Not Go Unchallenged
-*   Sen. Mark Warner: We Need Other Americans In The Room When Trump Meets Putin
-*   Bret Stephens: "Ideological Affinity" Between Putin And Trump Is More Important Than "Tactical Collusion"
-*   Jake Tapper: Indictment Of Russians Proves Conspiracy Theories About "Deep State" And Seth Rich Aren't True
+*   Stephen F. Cohen on Helsinki Summit: Media Held A "Kangaroo Court" And Found Trump Guilty
+*   Chris Wallace to Vladimir Putin: Why Do So Many Of Your Enemies Wind Up Dead?
+*   Rand Paul: "Trump Derangement Syndrome" Has Gone Over The Top And People Have Lost The Big Picture
+*   Putin: Election Hackers Do Not Represent Russian State Any More Than George Soros Represents U.S. Gov't
+*   CNN Acosta: Trump Didn't Tell Putin To "Stay The Hell Out Of American Democracy," Yielded The Field
 
 *   Politics
 *   Policy
