@@ -75,37 +75,37 @@
     *   Best business credit cards
 *   Loans Compare Lenders
     
+    *   Personal loan rates
     *   Auto loan rates
-    *   Auto refinancing rates
+    
+    Loan Types
+    
     *   Personal loans
-    *   Personal loans for debt consolidation
-    *   Personal loans for bad credit
+    *   Auto loans
+    *   Debt consolidation loans
     *   Home improvement loans
     *   Student loans
+    *   Medical loans
+    *   Bad credit loans
     
     Use Calculators
     
-    *   Auto loan calculator
-    *   Auto refinance calculator
-    *   Auto lease calculator
-    *   All auto calculators
     *   Loan calculator
-    *   Loan payment calculator
+    *   Auto loan calculator
     *   Personal loan calculator
+    *   Auto refinance calculator
+    *   Loan payment calculator
     *   Student loan calculator
-    *   All loan calculators
+    *   All calculators
     
     Get Advice
-    *   Refinance your auto loan
-    *   Car loans guide
-    *   Personal Loans Guide
+    *   Personal loans guide
+    *   Student loans guide
+    *   Refinancing student loans
+    *   Refinancing personal loans
+    *   Refinancing auto loans
     *   How to get a personal loan
-    *   Where to get a personal loan
-    *   Refinancing a personal loan
-    *   Refinance student loans
     *   Personal loan origination fees
-    *   Secured vs. unsecured personal loans
-    *   Personal loan resources
 *   Investing Compare
     
     *   IRA CD rates
