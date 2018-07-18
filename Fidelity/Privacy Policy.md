@@ -10,7 +10,7 @@ Skip to Main Content. Site navigation Fidelity.com Home
 *   Refer A Friend
 *   Log Out
 
-Search Fidelity.com
+Search fidelity.com or get a quote
 
 *   Accounts &. Trade
     
