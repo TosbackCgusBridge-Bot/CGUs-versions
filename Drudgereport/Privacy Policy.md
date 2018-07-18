@@ -135,23 +135,23 @@ Please note that the California Shine the Light law does not cover all informati
 
 LATEST ON TWITTER
 
+My week on Twitter : 1 Mention, 1.16K Mention Reach, 1 Like, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/DYxm…
+
+About 5 hours ago
+
 Getting In On The 2020 Election Campaigns. Here's What Publishers Need to Know! bit.ly/2N4mkWe via @adexchanger @Requidan
 
-About 6 days ago
+Last week
 
 My week on Twitter : 3 Mentions, 54.5K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/Rxes…
 
-About 6 days ago
+Last week
 
 My week on Twitter : 3 Likes, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/56er…
 
 About 2 weeks ago
 
 “As a publisher, you stand to gain from those direct customers and, in general, data." - @Requidan on the topic of @ATT acquiring @AppNexus via @adexchanger. Read more here: bit.ly/2yLUFqC
-
-About 3 weeks ago
-
-My week on Twitter : 1 Mention, 2 New Followers, 1 Reply. See yours with sumall.com/performan… pic.twitter.com/iQNR…
 
 About 3 weeks ago
 
