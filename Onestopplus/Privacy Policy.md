@@ -569,11 +569,11 @@ Import clearance procedures may cause additional delays.
 
 **Returns and Replacements for International Orders**
 
-Returns: All sales are final 90 days after receipt.
+Returns: All sales are final 60 days after receipt.
 
 Returns Due to Problems: (Quality, Damage, Wrong Item) In the unlikely event you receive an item that has a quality issue please contact a customer service representative immediately to describe the problem. You can reach the applicable customer service department using the contact information above.
 
-Customer Driven Returns: If you received the correct item but, for any reason not related to quality, you're not satisfied with your purchase, simply return it within **90 days** of receipt for a refund of the merchandise price. **Returns will not be accepted after 90 days**. We recommend that you use an insured and trackable return method. We are not responsible for lost or damaged packages.
+Customer Driven Returns: If you received the correct item but, for any reason not related to quality, you're not satisfied with your purchase, simply return it within **60 days** of receipt for a refund of the merchandise price. **Returns will not be accepted after 60 days**. We recommend that you use an insured and trackable return method. We are not responsible for lost or damaged packages.
 
 If you return a product to us you are the exporter of record from the country you ship the merchandise from. You must comply with all applicable export regulations and requirements and pay all applicable fees including but not limited to duties and taxes required to return the merchandise to our return facility in the US. **Shipping and handling, return freight, duties and customs fees billed to you are not refundable**. Title and risk of loss are yours until the merchandise is received at our designated return facility in the US.
 
