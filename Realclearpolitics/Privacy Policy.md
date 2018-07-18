@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Thomas Friedman_: Trump and Putin vs. America
+*   _Michael Graham_: Helsinki Meeting Was Just Trump Being Trump
     
-*   _Andrew McCarthy_: Mueller's Nakedly Political Law Enforcement
+*   _Julia Ioffe_: Now We All Know What Putin Has on Trump
     
-*   _Ezra Klein_: What We Know About Trump and Putin Is Damning
+*   _Harry Kazianis_: Trump Has the Right Foreign Policy, Just Stop Talking
     
-*   _Ruth Marcus_: Rod Rosenstein for President
+*   _Max Boot_: We Just Watched Trump Acting on Behalf of a Hostile Power
     
-*   _Rush Limbaugh_: U.S. Journalists Becoming a Laughingstock &. They Don't Know It
+*   _Steve Cortes_: Trump Trips, But His Critics Melt Down
     
-*   _Josh Marshall_: Russia Has Some Kind of Hold on Trump
+*   _Rachel Maddow_: It's the Worst Case Scenario With Trump
     
-*   _Rep. Marsha Blackburn_: Democrats' Disturbing Opposition to ICE
+*   _Becket Adams_: Media Beclowns Itself w/Another Bogus Conspiracy Theory
     
-*   _Elaine Godfrey_: What Democrats Really Mean When They Attack ICE
+*   _Bernie Sanders_: Trump's Economy Not Great for Working Families
     
-*   _John Tierney_: Vaping Prohibitionists Ignore Vast Public-Health Benefits
+*   _J.T. Young_: Trump Backing Dems Into Far Left Corner
     
-*   _Andy Slavitt_: A Justice Kavanaugh Could Deal Death Blow to Obamacare
+*   _Hillary Chabot_: Liz Warren Is Running Hard, But For What?
     
-*   _Howard Kurtz_: Why Kavanaugh's Opponents Are Striking Out
+*   _Gary Pearce_: Why Dems Shouldn't Try to Out-Trump Trump
     
-*   _Byron York_: Mueller Indictment Tracks House Intel Report
+*   _Carl Cannon_: Alamo Bowl Winners: UVA Cyber Defense Team
     
-*   _David Ignatius_: Putin Must Wonder What Else America Knows
+*   _Michelle Goldberg_: Trump Shows the World He's Putin's Lackey
     
-*   _Jed Babbin_: Potemkin Indictments From Summit's Would-Be Saboteurs
+*   _James Robbins_: Trump's Message to Witch-Hunters: Dream On, Losers
     
-*   _Charles Blow_: Trump, Treasonous Traitor
+*   _John Avlon_: President Trump Is No Longer the Leader of Free World
     
-*   _Harry Kazianis_: Improving U.S.-Russia Relations Would Be a Good Thing
+*   _Stephen F. Cohen_: Media Held a 'Kangaroo Court' and Found Trump Guilty
     
-*   _Michael Bloomberg_: America's Values Must Guide White House Diplomacy
+*   _Caitlin Huey-Burns_: Trump Feels GOP Heat, But Will It Linger?
     
-*   _Sen. Mitch McConnell_: Scare Tactics Won't Stop Kavanaugh's Confirmation
+*   _Margot Cleveland_: Latest Mueller Indictment Suggests It's a Witch Hunt
     
-*   _Bill Scher_: The Abortion War Will Soon Rip America in Two
+*   _William Saletan_: Peter Strzok Is the Hero We Need
     
-*   _Mona Charen_: What the Cave Boys Teach Us About Abortion
+*   _George Neumayr_: John Brennan Misses Communist Russia
     
-*   _David Remnick_: Ocasio-Cortez and the Future of the Democratic Party
+*   _Anthea Butler_: While Trump Is Destroying America, Dems Call For Civility
     
-*   _Michael Ledeen_: Fall Forecast: An Anti-Leftist Electoral Rout
+*   _Russell Hanson_: I 'm a Vietnam Vet. Here's Why I Chose to #WalkAway
     
-*   _Rory Carroll_: Is Tom Steyer the Progressive Answer to the Kochs?
+*   _Ryan Lizza_: There's No Red Line in the Cult of Trump
     
-*   _Chuck DeVore_: The Real Russian Collusion Is With Germany, Not Trump
+*   _Barrett Wilson_: I Was the Mob Until the Mob Came for Me
     
 
 *   Previous
@@ -228,9 +228,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   What Trump and Putin Hope to Achieve at Helsinki Summit
-*   Trump Names EU a Global Foe, Raps Media Before Meeting Putin
-*   Nunes: Mueller Knows Russians Also Targeted Republicans
+*   Trump Feels Republican Heat on Meeting With Putin
+*   Once a Trump Critic, Roby Faces Runoff in AL With His Support
+*   Trump: Where Is the DNC Server?
 *   Dems Focus Court Messaging on Protecting the Health Care Law
 *   Republican Super PAC Sets Fundraising Record
 *   Presidential Job Approval
@@ -247,32 +247,29 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Florida Senate - Scott vs. NelsonGravis
-    *   Scott43
-    *   Nelson47Nelson +4
-*   Tennessee Senate - Blackburn vs. BredesenEmerson
-    *   Bredesen43
-    *   Blackburn37Bredesen +6
-*   New Jersey Senate - Hugin vs. MenendezGravis
-    *   Menendez43
-    *   Hugin41Menendez +2
-*   Florida Governor - Republican PrimaryGravis
-    *   DeSantis35
-    *   Putnam29
-    *   White4
-    *   Rivas4
-    *   Devine
-    *   Nathan
-    *   Wilds
-    *   BaldaufDeSantis +6
+*   California 48th District - Rohrbacher vs. RoudaMonmouth
+    *   Rouda47
+    *   Rohrabacher45Rouda +2
+*   Michigan Governor - Republican PrimaryJMC Analytics
+    *   Schuette25
+    *   Calley17
+    *   Colbeck10
+    *   Hines4Schuette +8
+*   Hawaii Governor - Democratic PrimaryMason-Dixon
+    *   Ige44
+    *   Hanabusa40Ige +4
+*   Hawaii Governor - Republican PrimaryMason-Dixon
+    *   Tupola41
+    *   Carroll28
+    *   L’Heureux8Tupola +13
 
 More Latest Polls In The News
 
+*   Mark Levin: Trump Hasn't Done Any Harm To America, Obama Did Nothing To Protect America From Russia
+*   Brennan: Trump-Putin Presser Nothing Short Of "Treasonous," "There Will Be Consequences For Him"
+*   Obama Warns: We Are In "Strange And Uncertain Times," "Strongman Politics" On The Rise
 *   Stephen F. Cohen on Helsinki Summit: Media Held A "Kangaroo Court" And Found Trump Guilty
-*   Chris Wallace to Vladimir Putin: Why Do So Many Of Your Enemies Wind Up Dead?
-*   Rand Paul: "Trump Derangement Syndrome" Has Gone Over The Top And People Have Lost The Big Picture
-*   Putin: Election Hackers Do Not Represent Russian State Any More Than George Soros Represents U.S. Gov't
-*   CNN Acosta: Trump Didn't Tell Putin To "Stay The Hell Out Of American Democracy," Yielded The Field
+*   Paul: "Trump Derangement Syndrome" Has Gone Over The Top And People Have Lost The Big Picture
 
 *   Politics
 *   Policy
