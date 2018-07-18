@@ -73,9 +73,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'Zombieland 2' Finally Confirmed. Here's Everything We Know Read More
+    *   New 'Bohemian Rhapsody' Trailer Rocks the House. Here's Everything We Know Read More
     *   How ‘Aquaman’ Is Unlike Any Superhero Film, From Its Blue-Collar Antihero to Underwater Gladiator Fights Read More
-    *   Next 3 Dwayne Johnson Movies: 'Hobbs and Shaw,' 'Jungle Cruise,' 'Red Notice' Read More
+    *   Timothée Chalamet to Star in 'Dune'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -320,21 +320,21 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   Earn 2X VIP+ POINTS with 'Skyscraper' Ticket Purchase
+*   WELCOME TO THE SUMMER OF MORE
     
-    Earn 2X VIP+ POINTS with your 'Skyscraper' ticket purchase. (Yep, every 2 tickets = $6 reward on us!) BUY TICKETS
+    EARN 150 VIP+ POINTS FOR EVERY TICKET YOU BUY. 600 VIP+ Points unlocks a $6 reward. SEE DETAILS
     
-*   'Jurassic World: Fallen Kingdom' Gift With Purchase
+*   'Mission: Impossible - Fallout' Gift With Purchase
     
-    Receive a FREE\* exclusive 'Jurassic World: Fallen Kingdom' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
-    
-*   'Incredibles 2' Gift With Purchase
-    
-    Choose 1 of 2 FREE\* posters with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
     
 *   'Ant-Man and The Wasp' Gift With Purchase
     
     Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    
+*   50 States 50 Essential Movies
+    
+    Can you guess the most iconic movie set and filmed in YOUR state? See which ones were hand-picked by Rotten Tomatoes. WATCH NOW
     
 
 New + Coming soon
@@ -382,4 +382,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
