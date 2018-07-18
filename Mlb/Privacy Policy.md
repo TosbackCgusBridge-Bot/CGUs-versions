@@ -26,7 +26,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Entertainment
     *   Reporter's Inbox
     *   Glossary
-    *   Rare Feats
+    *   This Date in History
 *   Video Video Video
     
     In This Section
