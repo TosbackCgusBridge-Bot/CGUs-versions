@@ -37,7 +37,7 @@ Bank of America Privacy and Security Get information about privacy and security 
     
     **What you need to know:**
     
-    *   Privacy notices explain how we collect, use and share information. You can manage marketing and limit certain information by updating your individual Bank of America privacy choices.
+    *   Privacy notices explain how we collect, use and share information. You can manage your marketing preferences and limit the sharing of certain information by updating your individual Bank of America privacy choices.
     *   Review the U.S. Online Privacy Notice and the U.S. Consumer Privacy Notice on the bottom of this page
     *   You can set your privacy choices (it’s easy, and it only takes a few minutes)
 *   Show How you can help protect your accounts
@@ -146,6 +146,8 @@ Bank of America Privacy and Security Get information about privacy and security 
     *   Develop a plan for cybersecurity and fraud disaster recovery. For more fraud prevention best practices for small businesses, check out our Small Business Online Community.
     *   For resources for larger businesses, explore information from our Bank of America Merrill Lynch Global Banking and Markets fraud page
     *   Engage a trusted advisor to review your security controls and policies on at least an annual basis
+
+Privacy notices explain how we collect, use and share information. You can easily manage your marketing preferences (direct mail, telephone and email) and limit certain information-sharing practices – it’s easy, and it takes just a few minutes.
 
 *   U.S. Online Privacy Notice
 *   U.S. Consumer Privacy Notice
