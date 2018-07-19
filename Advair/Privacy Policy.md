@@ -95,12 +95,11 @@
     *   Costa Rica (EN)
     *   Dominican Republic (EN)
     *   Ecuador (EN)
-    *   El Salvador (EN)
     
+    *   El Salvador (EN)
     *   Guatemala (EN)
     *   Honduras (EN)
     *   Jamaica (EN)
-    *   Nicaragua (EN)
     *   Panama (EN/ES)
     *   Peru (EN)
     *   Trinidad &. Tobago (EN)
