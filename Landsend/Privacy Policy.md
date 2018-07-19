@@ -163,16 +163,16 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   Kids' Swim Shop
     *   Kids' Backpacks &. Lunch Boxes
-    *   Girls' Knit Kit Stretchy Separates
     *   Kids' Iron Knees Pants
     *   School Uniforms
     
     Girls' Clothing>.
     
     *   SHOP GIRLS' SALE
-    *   Shop All Girls' Clothing
+    *   Girls' Backpacks
     *   Girls' Swimsuits
     *   Girls' Tops &. Tees
+    *   Girls' Polos
     *   Girls' Sweaters
     *   Girls' Dresses
     *   Girls' Pants &. Leggings
@@ -183,19 +183,14 @@ menu Close 0 Free Shipping on $50+
     *   Girls' Blazers
     *   Girls' Long Underwear
     *   Girls' Pajamas &. Robes
-    
-    GIRLS' SHOES &. ACCESSORIES>.
-    
     *   Girls' Shoes
-    *   Girls' Backpacks &. Lunch Boxes
-    *   Girls' Accessories
     
     Boys' Clothing>.
-    
     *   SHOP BOYS' SALE
-    *   Shop All Boys' Clothing
+    *   Boys' Backpacks
     *   Boys' Swimsuits
     *   Boys' Tops &. Tees
+    *   Boys' Polos
     *   Boys' Sweaters
     *   Boys' Pants
     *   Boys' Jeans
@@ -205,12 +200,7 @@ menu Close 0 Free Shipping on $50+
     *   Boys' Blazers
     *   Boys' Long Underwear
     *   Boys' Pajamas &. Robes
-    
-    BOYS' SHOES &. ACCESSORIES>.
     *   Boys' Shoes
-    *   Boys' Backpacks &. Lunch Boxes
-    *   Boys' Accessories
-    
 *   Swim WOMEN'S SWIMSUITS>.
     
     *   Women's Swim Sale
@@ -222,6 +212,7 @@ menu Close 0 Free Shipping on $50+
     *   Swim Skirts
     *   Board Shorts
     *   Swim Dresses
+    *   D Cup Swimsuits
     *   Mastectomy Swimsuits
     *   Long Torso Swimsuits
     
@@ -560,16 +551,16 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Kids' Swim Shop
         *   Kids' Backpacks &. Lunch Boxes
-        *   Girls' Knit Kit Stretchy Separates
         *   Kids' Iron Knees Pants
         *   School Uniforms
     *   Girls' Clothing
         *   Back
         *   View All
         *   SHOP GIRLS' SALE
-        *   Shop All Girls' Clothing
+        *   Girls' Backpacks
         *   Girls' Swimsuits
         *   Girls' Tops &. Tees
+        *   Girls' Polos
         *   Girls' Sweaters
         *   Girls' Dresses
         *   Girls' Pants &. Leggings
@@ -580,18 +571,15 @@ menu Close 0 Free Shipping on $50+
         *   Girls' Blazers
         *   Girls' Long Underwear
         *   Girls' Pajamas &. Robes
-    *   GIRLS' SHOES &. ACCESSORIES
-        *   Back
         *   Girls' Shoes
-        *   Girls' Backpacks &. Lunch Boxes
-        *   Girls' Accessories
     *   Boys' Clothing
         *   Back
         *   View All
         *   SHOP BOYS' SALE
-        *   Shop All Boys' Clothing
+        *   Boys' Backpacks
         *   Boys' Swimsuits
         *   Boys' Tops &. Tees
+        *   Boys' Polos
         *   Boys' Sweaters
         *   Boys' Pants
         *   Boys' Jeans
@@ -601,12 +589,7 @@ menu Close 0 Free Shipping on $50+
         *   Boys' Blazers
         *   Boys' Long Underwear
         *   Boys' Pajamas &. Robes
-    *   BOYS' SHOES &. ACCESSORIES
-        *   Back
         *   Boys' Shoes
-        *   Boys' Backpacks &. Lunch Boxes
-        *   Boys' Accessories
-        
 *   Swim
     *   Back
     *   Shop all Swim
@@ -622,6 +605,7 @@ menu Close 0 Free Shipping on $50+
         *   Swim Skirts
         *   Board Shorts
         *   Swim Dresses
+        *   D Cup Swimsuits
         *   Mastectomy Swimsuits
         *   Long Torso Swimsuits
     *   GIRLS' SWIMSUITS
