@@ -8,17 +8,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
+    *   Vince Camuto Starting at $25
+    *   YFB by Young Fabulous &. Broke
+    *   Fit to Flatter: Dresses We Love
+    *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
+    *   Cover FX
+    *   Summer Steals Up to 80% Off
+    *   Full-Fit Bras &. More Under $20 ft. Parfait
+    *   Paige Novick Fine Jewelry Starting at 50% Off
+    *   Naturalizer Starting at $30
+    *   Travel in Style: Vince Camuto Luggage &. More
+    *   Vicenzo Leather ft. Belt Bags &. More
+    *   Ramarim Under $40
+    *   LunchBots
+    *   Back to School: JanSport Backpacks
+    *   Tween Scene: Back-to-School Styles ft. Tractr
+    *   Reading is Fun: Kids' Books from HarperCollins
+    *   Straight-A Style: Boys' Jeans, Tops &. More
+    *   Lacoste Shoes Starting at $25
+    *   Tailored Excellence: Suits Starting at $99
+    *   Diamond Watches &. More Under $600
+    *   Berto Romani Under $35
+    *   Lorenzo Uomo
+    *   Free Shipping: Area Rugs for Every Space
+    *   Smart Storage for Small Spaces from $10
+    *   GOOD LUCK GEM &. More
+    *   Camper
+    *   Chaser &. More
+    *   Tori Praver Swim &. More
+    *   Rifle Paper Co.
+    
+    *   Free Shipping: On-Trend Agate Accents from $10
+    *   Free Shipping: Modern Flatware &. More from $16
+    *   Wellness Support: Sleep Yoga Pillows &. More
     *   Frye Up to 50% Off
     *   Frye Handbags Up to 50% Off
     *   Frye Men Up to 50% Off
     *   Frye Men's Accessories Up to 60% Off
+    *   Alternative
     *   Why Dress
     *   Ramy Brook Up to 80% Off
-    *   Rifle Paper Co.
-    *   Free Shipping: On-Trend Agate Accents from $10
-    *   Free Shipping: Modern Flatware &. More from $16
-    *   Wellness Support: Sleep Yoga Pillows &. More
-    *   Alternative
     *   Robert Graham
     *   Rose Gold &. Sterling Silver Jewelry Starting at $20
     *   Sweet &. Chic: Sandals Starting at $15
@@ -33,22 +63,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rockabye
     *   Baby Denim Sets ft. HUDSON
     *   Out &. About: Cute Bags ft. OMG! Accessories
-    *   Give the Eye: Crown Brush from $10
     *   Cole Haan Up to 50% Off
     *   Cole Haan Men Up to 50% Off
     *   Cole Haan Handbags Up to 50% Off
     *   Cole Haan Coats Starting at $80
-    
     *   Cole Haan Accessories Up to 70% Off
-    *   Designer Scarves Up to 60% Off
-    *   RAGA
-    *   Hale Bob Up to 70% Off
     *   Jurlique Natural Skin Care Up to 40% Off
+    
     *   K-Beauty Must-Haves Starting at $10
-    *   Shahida Parides
-    *   Little White Dress Shop
-    *   Fall First Look: Hudson London
-    *   L'Amour Des Pieds
     *   Cole Haan Men's Accessories Up to 75% Off
     *   Summer Travel Accessories ft. Brouk &. Co.
     *   7 For All Mankind Kids
@@ -57,55 +79,53 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cool Kicks: Original Penguin &. More
     *   Free Shipping: Convertible Bean Bag Chairs
     *   Kitchen Electrics Starting at $25
-    *   MSP by Miraclesuit Active Under $30
-    *   Insight Up to 80% Off
-    *   Shoe Blowout: Sandals, Heels &. More
-    *   Tahitian &. Akoya Pearls Up to 70% Off
-    *   Free Shipping: On-Trend Jewelry Starting at $15
-    *   Christopher Kon Up to 75% Off
     *   Home Steals Starting at 60% Off
     *   Men's Shoes Up to 60% Off
-    *   14K Gold Jewelry &. More Under $80
     *   Red Wing Up to 50% Off
     *   Kenneth Cole Reaction
     *   Golf Shop ft. Callaway
-    
-    *   Everly Grey Maternity Up to 65% Off
-    *   Oh So Soft: Petunia Pickle Bottom &. More
-    *   Funkyberry
     *   Royale USA Hair Tools Up to 90% Off
     *   Free Shipping: BergHOFF
-    *   Romeo &. Juliet Couture Up to 75% Off
     *   Free Shipping: Fine Art Up to 90% Off
     *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Free Shipping: Modern Rugs Up to 65% Off
-    *   Neuw &. Rolla's
     *   Hair Care ft. BaBylissPRO, Sexy Hair &. More
-    *   Aldo Men Starting at $20
-    *   Alternative &. More Under $30
-    *   Sanuk Men: Flip Flops &. More from $20
-    *   Skinny Tan Up to 70% Off
     *   Pieces That Wow: Modern Tables, Lamps &. More
     *   Car Storage &. Organization Essentials from $10
     *   Free Shipping: Graphic Art Prints Up to 50% Off
     *   Dream Style: Bedding Starting at $20
-    *   Revjams Tech Accessory Blowout
-    *   Free Shipping: Modern Boho Decor Up to 75% Off
-    *   David Donahue Tailored Clothing
-    *   On Trend: Diamond, Gems &. More Up to 80% Off
     *   Premium Denim ft. HUDSON
-    *   London Times &. Maggy London Incl. Plus &. Petites
+    *   David Donahue Tailored Clothing
     *   Men's Denim Shop: Styles Under $80
-    *   London Dress Company
-    *   Endless Rose
-    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Give the Eye: Crown Brush from $10
+    *   RAGA
+    *   Hale Bob Up to 70% Off
 *   WomenShop Sale Events
     
+    *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
+    *   Vince Camuto Starting at $25
+    *   YFB by Young Fabulous &. Broke
+    *   Fit to Flatter: Dresses We Love
+    *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
+    *   Cover FX
+    *   Summer Steals Up to 80% Off
+    *   Full-Fit Bras &. More Under $20 ft. Parfait
+    *   Paige Novick Fine Jewelry Starting at 50% Off
+    *   Naturalizer Starting at $30
+    *   Travel in Style: Vince Camuto Luggage &. More
+    *   Vicenzo Leather ft. Belt Bags &. More
+    *   Ramarim Under $40
+    *   Diamond Watches &. More Under $600
+    *   GOOD LUCK GEM &. More
+    *   Camper
+    *   Chaser &. More
+    *   Tori Praver Swim &. More
     *   Frye Up to 50% Off
     *   Frye Handbags Up to 50% Off
-    *   Why Dress
-    *   Ramy Brook Up to 80% Off
     *   Alternative
+    *   Why Dress
+    
+    *   Ramy Brook Up to 80% Off
     *   Rose Gold &. Sterling Silver Jewelry Starting at $20
     *   Sweet &. Chic: Sandals Starting at $15
     *   YMI Jeans Under $25
@@ -113,69 +133,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kick It Up: Chic Sneakers
     *   Fragrances by Margot Elena
     *   Bulova Watches &. More Up to 65% Off
-    *   Give the Eye: Crown Brush from $10
     *   Cole Haan Up to 50% Off
     *   Cole Haan Handbags Up to 50% Off
     *   Cole Haan Coats Starting at $80
     *   Cole Haan Accessories Up to 70% Off
-    *   Designer Scarves Up to 60% Off
-    *   RAGA
-    *   Hale Bob Up to 70% Off
     *   Jurlique Natural Skin Care Up to 40% Off
     *   K-Beauty Must-Haves Starting at $10
-    *   Shahida Parides
-    
-    *   Little White Dress Shop
-    *   Fall First Look: Hudson London
-    *   L'Amour Des Pieds
-    *   MSP by Miraclesuit Active Under $30
-    *   Insight Up to 80% Off
-    *   Shoe Blowout: Sandals, Heels &. More
-    *   Tahitian &. Akoya Pearls Up to 70% Off
-    *   Free Shipping: On-Trend Jewelry Starting at $15
-    *   Christopher Kon Up to 75% Off
-    *   14K Gold Jewelry &. More Under $80
-    *   Everly Grey Maternity Up to 65% Off
     *   Royale USA Hair Tools Up to 90% Off
-    *   Romeo &. Juliet Couture Up to 75% Off
     *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Hair Care ft. BaBylissPRO, Sexy Hair &. More
-    *   Skinny Tan Up to 70% Off
-    *   On Trend: Diamond, Gems &. More Up to 80% Off
     *   Premium Denim ft. HUDSON
-    *   London Times &. Maggy London Incl. Plus &. Petites
-    *   London Dress Company
-    *   Endless Rose
-    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Give the Eye: Crown Brush from $10
+    *   RAGA
+    *   Hale Bob Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Handbags
-    *   Accessories
+    *   Jewelry
     *   Watches
-    *   Tech Accessories
     *   Lingerie
+    *   Tech Accessories
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Lacoste Shoes Starting at $25
+    *   Tailored Excellence: Suits Starting at $99
+    *   Diamond Watches &. More Under $600
+    *   Berto Romani Under $35
+    *   Lorenzo Uomo
     *   Frye Men Up to 50% Off
     *   Frye Men's Accessories Up to 60% Off
     *   Robert Graham
     *   Bulova Watches &. More Up to 65% Off
     *   Summer Polos, Tees &. More
+    
     *   Cole Haan Men Up to 50% Off
     *   Cole Haan Men's Accessories Up to 75% Off
     *   Summer Travel Accessories ft. Brouk &. Co.
     *   Men's Shoes Up to 60% Off
-    
     *   Red Wing Up to 50% Off
     *   Kenneth Cole Reaction
     *   Golf Shop ft. Callaway
-    *   Neuw &. Rolla's
-    *   Aldo Men Starting at $20
-    *   Alternative &. More Under $30
-    *   Sanuk Men: Flip Flops &. More from $20
     *   David Donahue Tailored Clothing
     *   Men's Denim Shop: Styles Under $80
     
@@ -186,72 +186,73 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   LunchBots
+    *   Back to School: JanSport Backpacks
+    *   Tween Scene: Back-to-School Styles ft. Tractr
+    *   Reading is Fun: Kids' Books from HarperCollins
+    *   Straight-A Style: Boys' Jeans, Tops &. More
     *   Doodle Pants
     *   MIA Girls Starting at $15
+    
     *   Rockabye
     *   Baby Denim Sets ft. HUDSON
     *   Out &. About: Cute Bags ft. OMG! Accessories
     *   7 For All Mankind Kids
-    
     *   Limeapple Up to 70% Off
     *   Suslo Couture Boys Under $15
     *   Cool Kicks: Original Penguin &. More
-    *   Everly Grey Maternity Up to 65% Off
-    *   Oh So Soft: Petunia Pickle Bottom &. More
-    *   Funkyberry
     
     Shop By Category
-    *   Girls Sizes 2T-6X
-    *   Baby Boy
     *   Girls Sizes 7-16
-    *   Baby Girl
-    *   Boys Sizes 8-20
+    *   Girls Sizes 2T-6X
     *   Toys
+    *   Boys Sizes 8-20
+    *   Baby Boy
     *   Boys Sizes 2T-7
-    *   Baby Gear &. Essentials
+    *   Baby Girl
     *   Girls' Shoes
     *   Boys' Shoes
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Area Rugs for Every Space
+    *   Smart Storage for Small Spaces from $10
     *   Rifle Paper Co.
     *   Free Shipping: On-Trend Agate Accents from $10
     *   Free Shipping: Modern Flatware &. More from $16
     *   Wellness Support: Sleep Yoga Pillows &. More
     *   Free Shipping: Convertible Bean Bag Chairs
     *   Kitchen Electrics Starting at $25
+    
     *   Home Steals Starting at 60% Off
     *   Free Shipping: BergHOFF
-    
     *   Free Shipping: Fine Art Up to 90% Off
     *   Free Shipping: Modern Rugs Up to 65% Off
     *   Pieces That Wow: Modern Tables, Lamps &. More
     *   Car Storage &. Organization Essentials from $10
     *   Free Shipping: Graphic Art Prints Up to 50% Off
     *   Dream Style: Bedding Starting at $20
-    *   Revjams Tech Accessory Blowout
-    *   Free Shipping: Modern Boho Decor Up to 75% Off
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Kitchen &. Tabletop
     *   Rugs
+    *   Kitchen &. Tabletop
     *   Luggage &. Travel
+    *   Storage &. Cleaning
     *   Accent Furniture
     *   Outdoor Living
     *   Bath
-    *   Storage &. Cleaning
 *   BeautyShop Sale Events
     
+    *   Cover FX
     *   Fragrances by Margot Elena
-    *   Give the Eye: Crown Brush from $10
     *   Jurlique Natural Skin Care Up to 40% Off
     *   K-Beauty Must-Haves Starting at $10
     *   Royale USA Hair Tools Up to 90% Off
     *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Hair Care ft. BaBylissPRO, Sexy Hair &. More
-    *   Skinny Tan Up to 70% Off
-    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Give the Eye: Crown Brush from $10
     
     Shop By Category
     *   Makeup
