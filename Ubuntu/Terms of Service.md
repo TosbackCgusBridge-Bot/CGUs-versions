@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   IoT Security at Scale: Managing end-to-end security ›
+*   Perfectly Formed Snaps Challenge ›
 *   Get productive on the Linux desktop with 7 essential apps ›
 *   How to Manage Multi-Cloud Services with Juju ›
 *   Demystifying Snap Confinement ›
-*   6 IDEs you need to know about ›
-*   Graphical environments in the world of IoT ›
