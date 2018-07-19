@@ -14,7 +14,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals idDE1LOu\_Vyw2a\_D1tb6hSN
+Office Depot Deals yJ-Srj8gE3gnHStxHeHLKY6
 
 Search Suggestions
 
@@ -232,6 +232,6 @@ Join Sign In
 
 /account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll x We're making back-to-school shopping easier this year.
 
-We're proud to help you go back to school this year. Who are you shopping for?
+To help us better help you, let us know who you're shopping for:
 
-K-12 >. College >. My Classroom >.
+K-12 >. College >. My Classroom >. Feedback Will open a new window
