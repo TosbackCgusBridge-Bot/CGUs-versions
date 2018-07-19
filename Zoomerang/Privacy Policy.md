@@ -82,3 +82,21 @@ Follow us on:
 Search Search for:
 
 Copyright © 2018 MetrixLab. All rights reserved. Privacy Statement, Terms and Conditions, Cookie Declaration
+
+feedbackYour opinion is important to us×
+
+What are your thoughts about our website? Share them and help us improve!
+
+Did you reach your goal during this site visit?YesPartlyNoWhat is the purpose of your visit?Select your answerFind out more about MetrixLab' solutionsReading MetrixLab's news articlesContact MetrixLabLooking into job opportunitiesOther visit purposeWhat was the reason that you were not (completely) successful?Select your answerI could't find the informationThe information is not correctThere was a technical failureI lost interestOther reasonWhat should we change about our website to help you reach your goal?How much effort did it take to achieve your goal?12345Very low effortVery much effortWhat can we do to make sure you can reach your goal easierThank you for your answers! Is there anything you would like to say about your visit?Please describe yourself in relation to this visit. I'm a:Client  
+Potential client  
+Journalist  
+Student  
+Job seeker  
+MetrixLab employee  
+Other  
+send
+
+Thanks for your feedback!  
+**Would you like to receive more information about usability or digital insights?** Fill out the form below and click send.
+
+Name: E-mail: Send!No thanks!© Powered by MetrixLab
