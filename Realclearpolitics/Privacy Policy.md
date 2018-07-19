@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Michael Graham_: Helsinki Meeting Was Just Trump Being Trump
+*   _James Carafano_: Trump and the Age of Unconventional Diplomacy
     
-*   _Julia Ioffe_: Now We All Know What Putin Has on Trump
+*   _Walter Shapiro_: Even Tricky Dick Didn't Bow and Scrape to Brezhnev
     
-*   _Harry Kazianis_: Trump Has the Right Foreign Policy, Just Stop Talking
+*   _David Brooks_: The Murder-Suicide of the West
     
-*   _Max Boot_: We Just Watched Trump Acting on Behalf of a Hostile Power
+*   _Angelo Codevilla_: Trump's Triumph in Helsinki Was Diplomacy 101
     
-*   _Steve Cortes_: Trump Trips, But His Critics Melt Down
+*   _Tina Nguyen_: 'Believe in Facts': Obama Blasts Trump's Chaos Theory
     
-*   _Rachel Maddow_: It's the Worst Case Scenario With Trump
+*   _Betsy McCaughey_: Another Sickening Smear Against Kavanaugh From Dems
     
-*   _Becket Adams_: Media Beclowns Itself w/Another Bogus Conspiracy Theory
+*   _E.J. Dionne_: Will the Blue Wave Start in Jersey?
     
-*   _Bernie Sanders_: Trump's Economy Not Great for Working Families
+*   _Stephen Moore_: How Trump Can Lower Drug Prices
     
-*   _J.T. Young_: Trump Backing Dems Into Far Left Corner
+*   _Ryan Cooper_: Republicans' Stealth Campaign to Sabotage the Health Law
     
-*   _Hillary Chabot_: Liz Warren Is Running Hard, But For What?
+*   _Glenn Beaton_: Plastic Straw Feel-Goodery
     
-*   _Gary Pearce_: Why Dems Shouldn't Try to Out-Trump Trump
+*   _Maxim Suchkov_: What's Next for Syria After Helsinki Summit?
     
-*   _Carl Cannon_: Alamo Bowl Winners: UVA Cyber Defense Team
+*   _David Remnick_: The Unwinding of Donald Trump
     
-*   _Michelle Goldberg_: Trump Shows the World He's Putin's Lackey
+*   _Conrad Black_: Trump Will Win This Round With the Deep State
     
-*   _James Robbins_: Trump's Message to Witch-Hunters: Dream On, Losers
+*   _Julian Zelizer_: Trump Doesn't Really Know What Makes America Great
     
-*   _John Avlon_: President Trump Is No Longer the Leader of Free World
+*   _Jonah Goldberg_: His Own Ego Explains Trump's Helsinki Fiasco
     
-*   _Stephen F. Cohen_: Media Held a 'Kangaroo Court' and Found Trump Guilty
+*   _David Goldman_: Once Again, Trump's Magnificently Right. This Time on Russia
     
-*   _Caitlin Huey-Burns_: Trump Feels GOP Heat, But Will It Linger?
+*   _Jack Shafer_: Some Dare Call It Treason
     
-*   _Margot Cleveland_: Latest Mueller Indictment Suggests It's a Witch Hunt
+*   _Paul Sperry_: Mueller All But Ignores the Other Russia Target: GOP
     
-*   _William Saletan_: Peter Strzok Is the Hero We Need
+*   _William Webster_: Let Robert Mueller Do His Job
     
-*   _George Neumayr_: John Brennan Misses Communist Russia
+*   _John Davidson_: Pushed Hard Left, Are Democrats Self-Destructing?
     
-*   _Anthea Butler_: While Trump Is Destroying America, Dems Call For Civility
+*   _Josh Kraushaar_: Wave Alert: House Dems Set Fundraising Records
     
-*   _Russell Hanson_: I 'm a Vietnam Vet. Here's Why I Chose to #WalkAway
+*   _Annie Lowrey_: How Much Damage Will Trump's Trade War Do?
     
-*   _Ryan Lizza_: There's No Red Line in the Cult of Trump
+*   _Liz Peek_: Trump Is Winning Trade Battle Because China Has More to Lose
     
-*   _Barrett Wilson_: I Was the Mob Until the Mob Came for Me
+*   _Bill Zeiser_: Snopes and Editorializing Fact Checks
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Backs Down, Says He Misspoke on Russia Meddling
+*   With Trump Endorsement, Roby Wins Alabama Primary Runoff
+*   Obama Warns of "Strongman Politics" on the Rise
 *   Trump Feels Republican Heat on Meeting With Putin
-*   Once a Trump Critic, Roby Faces Runoff in AL With His Support
-*   Trump: Where Is the DNC Server?
 *   Dems Focus Court Messaging on Protecting the Health Care Law
-*   Republican Super PAC Sets Fundraising Record
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,29 +247,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   California 48th District - Rohrbacher vs. RoudaMonmouth
-    *   Rouda47
-    *   Rohrabacher45Rouda +2
-*   Michigan Governor - Republican PrimaryJMC Analytics
-    *   Schuette25
-    *   Calley17
-    *   Colbeck10
-    *   Hines4Schuette +8
-*   Hawaii Governor - Democratic PrimaryMason-Dixon
-    *   Ige44
-    *   Hanabusa40Ige +4
-*   Hawaii Governor - Republican PrimaryMason-Dixon
-    *   Tupola41
-    *   Carroll28
-    *   L’Heureux8Tupola +13
+*   West Virginia Senate - Morrisey vs. ManchinTrafalgar Group (R)\*
+    *   Manchin50
+    *   Morrisey40Manchin +10
+*   New York Senate - Farley vs. GillibrandQuinnipiac
+    *   Gillibrand57
+    *   Farley30Gillibrand +27
+*   New York Governor - Democratic PrimaryQuinnipiac
+    *   Cuomo59
+    *   Nixon23Cuomo +36
+*   New York Governor - Molinaro vs. CuomoQuinnipiac
+    *   Cuomo57
+    *   Molinaro31Cuomo +26
 
 More Latest Polls In The News
 
+*   Lieberman: If Ocasio-Cortez Is "The New Face of The Democratic Party," Party Doesn't Have "Bright Future"
+*   Ron Paul: We Can Tell Trump-Putin Summit Was A Success Because "Neocons Aren't Very Happy"
+*   Brinkley: Spirit Of Trump-Putin Presser "Clearly Treasonous," Will Be "Battle Cry" For "Blue Wave"
+*   Cohen: Trump Challenges Foreign Policy Orthodoxy By Admitting America Has Made Mistakes
 *   Mark Levin: Trump Hasn't Done Any Harm To America, Obama Did Nothing To Protect America From Russia
-*   Brennan: Trump-Putin Presser Nothing Short Of "Treasonous," "There Will Be Consequences For Him"
-*   Obama Warns: We Are In "Strange And Uncertain Times," "Strongman Politics" On The Rise
-*   Stephen F. Cohen on Helsinki Summit: Media Held A "Kangaroo Court" And Found Trump Guilty
-*   Paul: "Trump Derangement Syndrome" Has Gone Over The Top And People Have Lost The Big Picture
 
 *   Politics
 *   Policy
