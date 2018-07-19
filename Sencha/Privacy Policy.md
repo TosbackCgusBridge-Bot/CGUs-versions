@@ -16,6 +16,7 @@ Sencha.com
 *   Solutions
     *   Why Sencha
     *   Comparison
+    *   Open Source
 *   Resources
     *   Resource Center
     *   Webinars
