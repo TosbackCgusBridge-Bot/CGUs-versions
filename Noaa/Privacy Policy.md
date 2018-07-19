@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms June 2018 ranks third warmest on record for U.S. Nation hit with 6 billion-dollar disasters so far this year AROUND NOAA // The new storm chasers? Unmanned ocean gliders go deep to help improve hurricane forecasts Scientists recover possible fragments of meteorite that landed in marine sanctuary Active Atlantic hurricane eras come with a speed bump for storms that approach the U.S. \[EXT\]
+Enter Search Terms June 2018 was 5th warmest on record for the globe Polar sea ice coverage remains smaller than normal AROUND NOAA // Tracking lightning from space: How satellites keep you safe \[EXT\] The new storm chasers? Unmanned ocean gliders go deep to help improve hurricane forecasts Scientists recover possible fragments of meteorite that landed in marine sanctuary
 
 *   About our agency
 *   News and features
