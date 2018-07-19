@@ -73,9 +73,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   New 'Bohemian Rhapsody' Trailer Rocks the House. Here's Everything We Know Read More
+    *   Watch a New Trailer for Robert Zemeckis' 'Welcome to Marwen'. Here's Everything We Know Read More
     *   How ‘Aquaman’ Is Unlike Any Superhero Film, From Its Blue-Collar Antihero to Underwater Gladiator Fights Read More
-    *   Timothée Chalamet to Star in 'Dune'. Here's Everything We Know Read More
+    *   'Overlord' Trailer Teases a World War II Zombie Movie. Here's Everything We Know So Far Read More
     
     Explore Content
     *   Movie Reviews
@@ -324,29 +324,29 @@ Offers
     
     EARN 150 VIP+ POINTS FOR EVERY TICKET YOU BUY. 600 VIP+ Points unlocks a $6 reward. SEE DETAILS
     
+*   'Mamma Mia! Here We Go Again' Gift With Purchase
+    
+    Buy tickets to 'Mamma Mia! Here We Go Again' and own the first movie for just $4.99! BUY TICKETS
+    
 *   'Mission: Impossible - Fallout' Gift With Purchase
     
     Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
     
-*   'Ant-Man and The Wasp' Gift With Purchase
+*   Earn 2X VIP+ POINTS with 'Skyscraper' Ticket Purchase
     
-    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
-    
-*   50 States 50 Essential Movies
-    
-    Can you guess the most iconic movie set and filmed in YOUR state? See which ones were hand-picked by Rotten Tomatoes. WATCH NOW
+    Earn 2X VIP+ POINTS with your 'Skyscraper' ticket purchase. (Yep, every 2 tickets = $6 reward on us!) BUY TICKETS
     
 
 New + Coming soon
 
-*   Avengers: Infinity War
-*   Deadpool 2
-*   Solo: A Star Wars Story
-*   Ocean's 8
 *   Incredibles 2
 *   Jurassic World: Fallen Kingdom
 *   Ant-Man and the Wasp
 *   Hotel Transylvania 3: Summer Vacation
+*   Mamma Mia! Here We Go Again
+*   The Equalizer 2
+*   Unfriended: Dark Web
+*   Mission: Impossible - Fallout
 
 Experience + Explore
 
@@ -382,4 +382,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy (NEW) Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
