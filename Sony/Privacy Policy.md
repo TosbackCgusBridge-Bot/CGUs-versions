@@ -156,7 +156,7 @@ Every Day
 
 Cage fights, hostages, and a meeting with Satan. Watch the latest episode of #Preacher now.
 
-2 days ago
+3 days ago
 
 View Tweet
 
