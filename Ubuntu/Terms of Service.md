@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Snaps Add Flexibility with Tracks ›
 *   IoT Security at Scale: Managing end-to-end security ›
 *   Perfectly Formed Snaps Challenge ›
 *   Get productive on the Linux desktop with 7 essential apps ›
 *   How to Manage Multi-Cloud Services with Juju ›
-*   Demystifying Snap Confinement ›
