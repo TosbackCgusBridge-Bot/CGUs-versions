@@ -184,7 +184,7 @@ Last revised on April 1, 2016
 
 Watch Next
 
-Advertisement - Continue Reading Below More From About Advertise Online Terms of Use Why did I get this ad? Read Next L.L. Bean Is Getting Sued Over New Return Policy Ethel Kennedy Joins Hunger Strike Share Tweet Email
+Advertisement - Continue Reading Below Share Tweet Email
 
 *   About
 *   The New York Botanical Garden's Kiku Dinner
@@ -214,4 +214,4 @@ A Part of Hearst Digital Media Town &. Country participates in various affiliate
 *   Updated Terms of Use
 *   Site Map
 
-Share Tweet Email x
+Share Tweet Email
