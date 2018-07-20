@@ -65,8 +65,7 @@ menu Close 0 Free Shipping on $50+
     WOMEN'S CLOTHING >.
     
     *   Swimsuits
-    *   Knit Tops &. Tees
-    *   Shirts &. Blouses
+    *   Tops
     *   Sweaters
     *   Dresses
     *   Pants
@@ -443,8 +442,7 @@ menu Close 0 Free Shipping on $50+
         *   Back
         *   View All
         *   Swimsuits
-        *   Knit Tops &. Tees
-        *   Shirts &. Blouses
+        *   Tops
         *   Sweaters
         *   Dresses
         *   Pants
@@ -843,9 +841,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 20% off sale and clearance styles!
+Receive 30% off full-price styles!
 
-code: GREEN pin: 2310 DETAILS
+code: SHORE pin: 9063 DETAILS
 
 Customer Service Menu
 
