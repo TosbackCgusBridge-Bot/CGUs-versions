@@ -399,7 +399,7 @@ Owners
 *   Service, Parts &. Accessories
 *   Guaranteed Trade-In Program
 *   Vehicle Recalls
-*   Takata Airbag Recall
+*   Subaru Certified Collision
 
 Other Sites
 
