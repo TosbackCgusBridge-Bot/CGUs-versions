@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _James Carafano_: Trump and the Age of Unconventional Diplomacy
+*   _Newt Gingrich_: The Truth About Trump, Putin, and Obama
     
-*   _Walter Shapiro_: Even Tricky Dick Didn't Bow and Scrape to Brezhnev
+*   _Charles Blow_: 'Sort of a Double Negative'
     
-*   _David Brooks_: The Murder-Suicide of the West
+*   _Ned Ryun_: Transparency Would Wipe the Smirk Off Strzok's Face
     
-*   _Angelo Codevilla_: Trump's Triumph in Helsinki Was Diplomacy 101
+*   _Tim Weiner_: Trump Attacks Intel Agencies. Expect Them to Strike Back.
     
-*   _Tina Nguyen_: 'Believe in Facts': Obama Blasts Trump's Chaos Theory
+*   _Heather Mac Donald_: A Tale of Two Killings in Chicago
     
-*   _Betsy McCaughey_: Another Sickening Smear Against Kavanaugh From Dems
+*   _Jelani Cobb_: In Celebrating Mandela, Obama Indicts Trumpism
     
-*   _E.J. Dionne_: Will the Blue Wave Start in Jersey?
+*   _Rep. Mike Johnson_: Why Judge Kavanaugh Confounds Liberals
     
-*   _Stephen Moore_: How Trump Can Lower Drug Prices
+*   _Bruce Shapiro_: Keeping Kavanaugh Off the Supreme Court
     
-*   _Ryan Cooper_: Republicans' Stealth Campaign to Sabotage the Health Law
+*   _David French_: The United States Should Fight for Montenegro
     
-*   _Glenn Beaton_: Plastic Straw Feel-Goodery
+*   _John Allen Gay_: Montenegro Has Little Relevance to U.S. National Security
     
-*   _Maxim Suchkov_: What's Next for Syria After Helsinki Summit?
+*   _David Sims_: 'The Dark Knight' Changed Hollywood Movies Forever
     
-*   _David Remnick_: The Unwinding of Donald Trump
+*   _E.J. Dionne_: Two Cheers for Democratic Socialists
     
-*   _Conrad Black_: Trump Will Win This Round With the Deep State
+*   _Seth Lipsky_: Will Schumer Drop Israel for Ocasio-Cortez?
     
-*   _Julian Zelizer_: Trump Doesn't Really Know What Makes America Great
+*   _Sanger &. Rosenberg_: From Start, Trump Muddied Clear Message: Putin Meddled
     
-*   _Jonah Goldberg_: His Own Ego Explains Trump's Helsinki Fiasco
+*   _James Antle_: The Deep State Cheers for the Democrats
     
-*   _David Goldman_: Once Again, Trump's Magnificently Right. This Time on Russia
+*   _Mikheil Saakashvili_: On Russia, Look at Trump's Actions - and Obama's
     
-*   _Jack Shafer_: Some Dare Call It Treason
+*   _Alana Abramson_: Trump's Montenegro Comments Were a Win for Putin
     
-*   _Paul Sperry_: Mueller All But Ignores the Other Russia Target: GOP
+*   _Tucker Carlson_: DC Elites Willing to Have Your Kids Die to Defend Montenegro
     
-*   _William Webster_: Let Robert Mueller Do His Job
+*   _Zev Chafets_: Israel Got the Biggest Win From Helsinki
     
-*   _John Davidson_: Pushed Hard Left, Are Democrats Self-Destructing?
+*   _Linda Greenhouse_: A Kavanaugh Signal on Abortion
     
-*   _Josh Kraushaar_: Wave Alert: House Dems Set Fundraising Records
+*   _Ken Paxton_: Kavanaugh Will Defend the Constitution, Uphold the Rule of Law
     
-*   _Annie Lowrey_: How Much Damage Will Trump's Trade War Do?
+*   _Barack Obama_: The Nelson Mandela Lecture
     
-*   _Liz Peek_: Trump Is Winning Trade Battle Because China Has More to Lose
+*   _Jim Geraghty_: Obama Decries the Political Habits That Drove His Career
     
-*   _Bill Zeiser_: Snopes and Editorializing Fact Checks
+*   _Dick Polman_: Can Republicans Demonize Pelosi One More Time?
     
 
 *   Previous
@@ -228,9 +228,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Backs Down, Says He Misspoke on Russia Meddling
+*   Trump Talks Tougher, Says He Warned Putin on Meddling
 *   With Trump Endorsement, Roby Wins Alabama Primary Runoff
-*   Obama Warns of "Strongman Politics" on the Rise
+*   Carlson: DC Elites Willing to Have Your Kids Die to Defend Montenegro
 *   Trump Feels Republican Heat on Meeting With Putin
 *   Dems Focus Court Messaging on Protecting the Health Care Law
 *   Presidential Job Approval
@@ -247,26 +247,31 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   West Virginia Senate - Morrisey vs. ManchinTrafalgar Group (R)\*
-    *   Manchin50
-    *   Morrisey40Manchin +10
-*   New York Senate - Farley vs. GillibrandQuinnipiac
-    *   Gillibrand57
-    *   Farley30Gillibrand +27
-*   New York Governor - Democratic PrimaryQuinnipiac
-    *   Cuomo59
-    *   Nixon23Cuomo +36
-*   New York Governor - Molinaro vs. CuomoQuinnipiac
-    *   Cuomo57
-    *   Molinaro31Cuomo +26
+*   Georgia Governor - Republican Primary Run-OffFOX 5 Atlanta/Opinion Savvy
+    *   Kemp55
+    *   Cagle37Kemp +18
+*   Wisconsin Governor - Democratic PrimaryMarquette
+    *   Evers31
+    *   Vinehout6
+    *   Mitchell6
+    *   Flynn5
+    *   Soglin4
+    *   McCabe3
+    *   Roys3Evers +25
+*   Wisconsin Senate - Republican PrimaryMarquette
+    *   Vukmir34
+    *   Nicholson32Vukmir +2
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve45
+    *   Disapprove54Disapprove +9
 
 More Latest Polls In The News
 
+*   McFaul: Trump Is Giving "Moral Equivalency" To "Cockamamy" Russian Accusations
+*   Nunes: FBI/DOJ Trying To "Wait Out" Republican Congress, "Banking On" Dems Dropping Case
+*   Clapper: "Badge Of Honor" When Trump Attacks Me, John Brennan, Hayden &. Comey. We're Private Citizens
 *   Lieberman: If Ocasio-Cortez Is "The New Face of The Democratic Party," Party Doesn't Have "Bright Future"
-*   Ron Paul: We Can Tell Trump-Putin Summit Was A Success Because "Neocons Aren't Very Happy"
-*   Brinkley: Spirit Of Trump-Putin Presser "Clearly Treasonous," Will Be "Battle Cry" For "Blue Wave"
 *   Cohen: Trump Challenges Foreign Policy Orthodoxy By Admitting America Has Made Mistakes
-*   Mark Levin: Trump Hasn't Done Any Harm To America, Obama Did Nothing To Protect America From Russia
 
 *   Politics
 *   Policy
