@@ -32,7 +32,7 @@ PROMarketplaceSeeking Alpha
     *   Short Ideas
     *   Closed End Funds
     *   Today's Market
-    *   Investing Strategy
+    *   ETF Screener
     *   Gold &. Precious Metals
 
 Sign in / Join Now Privacy
