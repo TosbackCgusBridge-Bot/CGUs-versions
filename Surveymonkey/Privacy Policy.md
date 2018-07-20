@@ -10,7 +10,7 @@ SurveyMonkey® ÷
     *   Surveys
     *   SurveyMonkey
         
-        Create &. send surveys with the world’s #1 online survey software
+        Create &. send surveys with the world’s leading online survey software
         
     *   Audience
         
@@ -820,7 +820,7 @@ Copyright © 1999-2018 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 You
 1.  Products
     *   SurveyMonkey
         
-        Create &. send surveys with the world’s #1 online survey software
+        Create &. send surveys with the world’s leading online survey software
         
     *   Audience
         
