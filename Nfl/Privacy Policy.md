@@ -3,7 +3,7 @@
 *   Schedule
 *   Standings
 *   Video
-*   Draft
+*   Training Camp
 *   Fantasy
 *   Tickets
 *   Shop
@@ -20,9 +20,9 @@
 *   Schedule
 *   Standings
 *   Video
-*   Draft
+*   Training Camp
 
-*   Top 100
+*   Training Camp
 
 *   *   Free Agency
     *   Game Pass
