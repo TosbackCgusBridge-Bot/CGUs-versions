@@ -39,7 +39,7 @@
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
-Updated: May 21, 2018**  
+Updated: July 20, 2018**  
 
   
 
@@ -89,7 +89,7 @@ We also may collect certain information automatically when you visit the Service
 
 *   Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
 *   Your device type or mobile carrier;
-*   Other unique identifiers, including mobile device identification numbers;
+*   Other unique identifiers, including mobile device identification numbers. and advertising identifiers (e.g., IDFA);
 *   Your browser type and operating system;
 *   Sites you visited before and after visiting the Services;
 *   Pages you view and links you click on within the Services;
@@ -108,7 +108,7 @@ We may use information that we collect through the Services for a variety of pur
 *   Maintain or administer the Services, perform business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services we offer;
 *   Publish stories, comments, photos, and other information posted in our interactive online features;
 *   Process employment applications and inquiries;
-*   Customize and personalize your use of the Services. and
+*   Customize and personalize your use of the Services, including providing you with tailored advertising. and
 *   As otherwise described to you at the point of collection or pursuant to your consent.
 
 **3\. Sharing of Information**
@@ -194,25 +194,44 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 **14\. International Users**
 
-Please note that the Services are directed towards users who reside in the United States. Our website is hosted in the United States, and the \[NFL personnel and some of the\] third-parties to whom we disclose your information (as set out above) may be located in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy and take appropriate steps to ensure that recipients of your information are bound to duties of confidentiality and where applicable we implement measures such as standard data protection contractual clauses to ensure that any transferred information remains protected and secure. A copy of these clauses can be obtained by emailing NFLPrivacy@nfl.com.
+Please note that the Services are directed towards users who reside in the United States. Our website is hosted in the United States, and the \[NFL personnel and some of the\] third-parties to whom we disclose your information (as set out above) may be located in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy and take appropriate steps to ensure that recipients of your information are bound to duties of confidentiality and where applicable we implement measures such as standard data protection contractual clauses to ensure that any transferred information remains protected and secure. A copy of these clauses can be obtained by emailing GDPR@nfl.com.
 
 **15\. Users from the European Union**
 
-This section of the Privacy Policy applies only if you use our website or Services covered by this Privacy Policy from a country that is a Member State of the European Union, and supplements the information in this Privacy Policy.
+This section of the Privacy Policy applies only if you use our website or Services covered by this Privacy Policy from a country that is a Member State of the European Union, (the "EU"), and supplements the information in this Privacy Policy.
 
-\[NFL Enterprises LLC\] is the data controller for processing of information defined as personal data under applicable data protection law ("Personal Data").
+In addition to collecting and processing your Personal Data via your use of the Services, as described in this Privacy Policy (see section entitled "Information Collection"), NFL will also collect and process your Personal Data when you attend an NFL Event (as defined below) in the EU. This section of the privacy Policy describes that collecting and processing.
 
-*   **Legal Basis for Data Processing:** We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal data includes processing that is: necessary for the performance of the contract between you and the NFL (for example, to provide you with the Services you request and to identify and authenticate you so you may use the website). necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement). necessary for our legitimate interests (for example, to manage our relationship with you and to improve the website and our Services). **and based on consent by our customers (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time (by emailing NFLPrivacy@nfl.com) without affecting the lawfulness of processing based on consent before its withdrawal.**  
-      
-    In some instances, you may be required to provide us with Personal Data for processing as described above, in order for us to be able to provide you all of our Services, and for you to use all the features of our website.
-*   **Automated Decision-Making:** We use automated decision-making technologies, including profiling, to support our data processing activities. Our automated decision-making capabilities include logic that will send triggered messages based on fan data or behaviour. By using this logic, it helps us provide a better fan experience or you, this means that receiving messages based on data you have provided (for example a birthday email) or a behaviour (watching a video).
-*   **Your Rights:** You may be entitled, in accordance with applicable law, to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data. Requests should be submitted by contacting us by emailing NFLPrivacy@nfl.com.  
-      
-    If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. You may lodge a complaint with a supervisory authority if you consider that our processing of your Personal Data infringes applicable law.
+\[NFL Enterprises LLC\] is the data controller for processing of information defined as personal data under applicable data protection law ("Personal Data") when you use the Services.
+
+NFL International LLC is the data controller for processing personal information collected when you attend an NFL Event in the EU.
+
+**Information When You Attend An NFL Event**: When you attend an NFL-event or NFL co-hosted event, including NFL games at an NFL stadium or at a third party stadium or other NFL fan events (including events at which NFL Fan Mobile Pass is utilized) ("NFL Event"), we may capture your image, voice and/or likeness, including through the use of CCTV cameras and/or when we film or photograph you in a public location at an NFL Event. You should therefore expect to be filmed or photographed by CCTV and/or by cameras when you are in a public location at an NFL Event (e.g. as an audience-member in the stadium if you are attending a game). In addition to describing how we capture and use your image, voice and/or likeness in this Privacy Policy, we may also display signs at any NFL Event indicating that you may be filmed or photographed.
+
+**How we use the Personal Data collected at an NFL Event: We will use the Personal Data**:
+
+*   to produce, exhibit, advertise or otherwise use your image, voice or likeness in any and all media now or existing in future as part of NFL's commercial, advertising and marketing activities. and
+*   in the case of images or footage captured on CCTV cameras, to ensure the safety of the venues hosting NFL Events and of individuals attending NFL Events.
+
+**Legal Basis for Data Processing:** We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal data includes processing that is: necessary for the performance of the contract between you and the NFL (for example, to provide you with the Services you request and to identify and authenticate you so you may use the website). necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement as well as to ensure your safety and the safety of our venues if you attend an NFL Event). necessary for our legitimate interests (for example, to manage our relationship with you and to improve the website and our Services, and for NFL's commercial, advertising and marketing activities). **and based on consent by our customers (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time (by emailing GDPR@nfl.com) without affecting the lawfulness of processing based on consent before its withdrawal.**  
+  
+In some instances, you may be required to provide us with Personal Data for processing as described above, in order for us to be able to provide you all of our Services, and for you to use all the features of our website.
+
+**Automated Decision-Making:** We use automated decision-making technologies, including profiling, to support our data processing activities. Our automated decision-making capabilities include logic that will send triggered messages based on fan data or behaviour. By using this logic, it helps us provide a better fan experience or you, this means that receiving messages based on data you have provided (for example a birthday email) or a behaviour (watching a video).
+
+**Sharing your Personal Data from an NFL Event**: We may share your Personal Data captured at an NFL Event with any of the entities set out in this Privacy Policy (see section entitled "Sharing of Information"). Additionally, when you appear in a photograph or film footage at an NFL Event, we may share that photograph or film footage containing your image, voice and/or likeness with our third party partners. These partners include our sponsors, licensees, advertisers and/or broadcasters. We will share the photographs or film footage containing your image, voice and/or likeness when it is in our legitimate business interests to do so. However, each of the third party partners may use your personal information for their independent commercial purposes without reference to the NFL.  
+  
+Please also note that broadcasters and other third parties that are unconnected to NFL may be independently filming or photographing you when you attend an NFL Event. Although we only give permission to a small group of entities (such as certain broadcasters) to film or photograph NFL Events, these entities are separate data controllers in respect of your Personal Data and NFL is not responsible for how those parties use your Personal Data and for what purposes.
+
+**Transfers**: When we transfer your Personal Data to third parties as described in this Privacy Policy, some of these parties (for example, many members of the NFL Family) may be located in countries, such as the United States, other than your own, whose privacy and data protection laws may not be equivalent to those in your country of residence. When we transfer your personal information to other countries, including the United States, we apply appropriate safeguards, to protect your information and comply with applicable laws. For example, we implement measures such as standard data protection contractual clauses to ensure that any transferred Personal Data, remains protected and secure. A copy of these clauses can be obtained by emailing enquiries@nfl.com.
+
+**Your Rights:** You may be entitled, in accordance with applicable law, to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, of (e.g. if your Personal Data changes or is out of date), erasure of and portability of your own Personal Data in certain circumstances. Requests should be submitted by contacting us by emailing GPDR@nfl.com.  
+  
+If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. You may lodge a complaint with your local supervisory authority if you consider that our processing of your Personal Data infringes applicable law.
 
 **16\. Contact Us**
 
-If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at NFLPrivacy@nfl.com or at the following address:
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at NFLPrivacy@nfl.com (or, if you are a user from the EU, at GPDR@nfl.com) or at the following address:
 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
