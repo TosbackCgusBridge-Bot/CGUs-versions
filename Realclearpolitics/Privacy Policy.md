@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Newt Gingrich_: The Truth About Trump, Putin, and Obama
+*   _Andrew Napolitano_: Trump Knows You Don't Negotiate With Bad Guys in Public
     
-*   _Charles Blow_: 'Sort of a Double Negative'
+*   _Andrew Sullivan_: Why Trump Has Such a Soft Spot for Russia
     
-*   _Ned Ryun_: Transparency Would Wipe the Smirk Off Strzok's Face
+*   _Michael Gerson_: Trump's Foreign Policy Smashes Our Defining Ideals
     
-*   _Tim Weiner_: Trump Attacks Intel Agencies. Expect Them to Strike Back.
+*   _Leon Hadar_: The Tragedy of the Neocons
     
-*   _Heather Mac Donald_: A Tale of Two Killings in Chicago
+*   _David Cole_: Ten Questions Brett Kavanaugh Must Answer
     
-*   _Jelani Cobb_: In Celebrating Mandela, Obama Indicts Trumpism
+*   _Jay Cost_: By Making Policy, the Supreme Court Has Unhinged Our Politics
     
-*   _Rep. Mike Johnson_: Why Judge Kavanaugh Confounds Liberals
+*   _Sarah Jones_: The 2018 Midterms Are All About Health Care
     
-*   _Bruce Shapiro_: Keeping Kavanaugh Off the Supreme Court
+*   _Lisa Hagen_: Menendez Faces Tough Challenge in Deep-Blue New Jersey
     
-*   _David French_: The United States Should Fight for Montenegro
+*   _Rep. Will Hurd_: Trump Is Being Manipulated by Putin. What Should We Do?
     
-*   _John Allen Gay_: Montenegro Has Little Relevance to U.S. National Security
+*   _Rep. Andy Biggs_: Trump Correct to Avoid Pointless Cold War With Russia
     
-*   _David Sims_: 'The Dark Knight' Changed Hollywood Movies Forever
+*   _Aaron Mak_: The Sierra Club Declared War on Scott Pruitt--and Won
     
-*   _E.J. Dionne_: Two Cheers for Democratic Socialists
+*   _Todd Purdum_: The Most Troubling Comments by a President - Ever
     
-*   _Seth Lipsky_: Will Schumer Drop Israel for Ocasio-Cortez?
+*   _Caroline Glick_: If Trump Is an Agent of Putin, What Was Obama?
     
-*   _Sanger &. Rosenberg_: From Start, Trump Muddied Clear Message: Putin Meddled
+*   _Eugene Robinson_: God Bless the 'Deep State'
     
-*   _James Antle_: The Deep State Cheers for the Democrats
+*   _Peter Van Buren_: John Brennan, Melting Down and Covering Up
     
-*   _Mikheil Saakashvili_: On Russia, Look at Trump's Actions - and Obama's
+*   _John Solomon_: Lisa Page Admitted 'No There There' on Russia Probe
     
-*   _Alana Abramson_: Trump's Montenegro Comments Were a Win for Putin
+*   _Leonid Bershidsky_: Putin Gets Reminder to Turn Attention Back Home
     
-*   _Tucker Carlson_: DC Elites Willing to Have Your Kids Die to Defend Montenegro
+*   _Caitlin Huey-Burns_: Republican Voters Buoy Trump on Russia/Putin
     
-*   _Zev Chafets_: Israel Got the Biggest Win From Helsinki
+*   _Elizabeth Shackelford_: Blue Wave the Only Thing That Can Save the Republic
     
-*   _Linda Greenhouse_: A Kavanaugh Signal on Abortion
+*   _Laura Hollis_: What Are Democrats Running On?
     
-*   _Ken Paxton_: Kavanaugh Will Defend the Constitution, Uphold the Rule of Law
+*   _Sarah Smarsh_: Liberal Blind Spots Hiding the Truth About 'Trump Country'
     
-*   _Barack Obama_: The Nelson Mandela Lecture
+*   _Victor Davis Hanson_: On Populism and the Middle Class
     
-*   _Jim Geraghty_: Obama Decries the Political Habits That Drove His Career
+*   _Nic Robertson_: Trump and Putin Are Pulling the West Apart
     
-*   _Dick Polman_: Can Republicans Demonize Pelosi One More Time?
+*   _Rush Limbaugh_: D.C. Republicans Need to Wake Up on Foreign Policy
     
 
 *   Previous
@@ -228,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Talks Tougher, Says He Warned Putin on Meddling
-*   With Trump Endorsement, Roby Wins Alabama Primary Runoff
-*   Carlson: DC Elites Willing to Have Your Kids Die to Defend Montenegro
-*   Trump Feels Republican Heat on Meeting With Putin
-*   Dems Focus Court Messaging on Protecting the Health Care Law
+*   Republican Voters Buoy Trump on Russia/Putin
+*   W.Va. Poll: Vote for Kavanaugh Boosts Manchin's Chances
+*   Republican Lawmaker Confronts Twitter Over Rationales for Censoring Content
+*   Breaking With Tradition, Trump Criticizes the Fed for Rate Hikes
+*   McConnell Withdraws Trump Judicial Pick Minutes Before Vote
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,31 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Georgia Governor - Republican Primary Run-OffFOX 5 Atlanta/Opinion Savvy
-    *   Kemp55
-    *   Cagle37Kemp +18
-*   Wisconsin Governor - Democratic PrimaryMarquette
-    *   Evers31
-    *   Vinehout6
-    *   Mitchell6
-    *   Flynn5
-    *   Soglin4
-    *   McCabe3
-    *   Roys3Evers +25
-*   Wisconsin Senate - Republican PrimaryMarquette
-    *   Vukmir34
-    *   Nicholson32Vukmir +2
+*   Georgia Governor - Republican Primary Run-OffWXIA-TV/SurveyUSA
+    *   Kemp40
+    *   Cagle34Kemp +6
+*   Georgia Governor - Kemp vs. AbramsWXIA-TV/SurveyUSA
+    *   Kemp46
+    *   Abrams44Kemp +2
+*   Georgia Governor - Cagle vs. AbramsWXIA-TV/SurveyUSA
+    *   Cagle45
+    *   Abrams43Cagle +2
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove54Disapprove +9
+    *   Approve44
+    *   Disapprove55Disapprove +11
 
 More Latest Polls In The News
 
 *   McFaul: Trump Is Giving "Moral Equivalency" To "Cockamamy" Russian Accusations
+*   George Will: Trump "Syntactically Challenged". A "Sad, Embarrassing Wreck Of A Man"
 *   Nunes: FBI/DOJ Trying To "Wait Out" Republican Congress, "Banking On" Dems Dropping Case
 *   Clapper: "Badge Of Honor" When Trump Attacks Me, John Brennan, Hayden &. Comey. We're Private Citizens
 *   Lieberman: If Ocasio-Cortez Is "The New Face of The Democratic Party," Party Doesn't Have "Bright Future"
-*   Cohen: Trump Challenges Foreign Policy Orthodoxy By Admitting America Has Made Mistakes
 
 *   Politics
 *   Policy
