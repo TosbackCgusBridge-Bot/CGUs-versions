@@ -8,9 +8,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Too Faced Up to 55% Off
+    *   Tart
+    *   Gym Bound: Fit Faves Starting at $15
+    *   Sneakers Up to 50% Off ft. PUMA &. Reebok
+    *   DSGN Yoga Under $35
+    *   Men's Active Sneakers Up to 50% Off
+    *   Kids' Sneakers Under $55 ft. Heelys
+    *   Kenneth Cole New York
+    *   Derek Lam 10 Crosby Up to 85% Off
+    *   LOVE Moschino
+    *   Isola &. Sofft Up to 50% Off
+    *   Socialite
+    *   Raisins Swim &. More Under $35
+    *   Adore Jewelry from the Swarovski Group
+    *   Catherine Catherine Malandrino Shoes from $20
+    *   Lovely in Lace: Feminine Summer Styles
+    *   Steve Madden Jewelry &. Watches
+    *   Volcom
+    *   IT Luggage
+    *   Color Pop: Wall Murals &. More From $10
+    *   Dorm Ready: Headphones &. More from $10
+    *   AQS Sunnies Up to 70% Off
+    *   GOOD LUCK GEM &. More
+    *   Camper
     *   Lucky Brand Incl. Plus
     *   Lucky Brand Shoes Up to 50% Off
     *   Lucky Brand Men Up to 60% Off
+    
     *   Lucky Brand Handbags &. Jewelry Up to 50% Off
     *   Wow Couture
     *   Murad
@@ -19,7 +44,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Summer Wedges We Love Under $50
     *   Summer Dresses Under $30
     *   X by Gottex Under $30
-    *   Cover FX
     *   Mirenesse Australia Up to 70% Off
     *   Perla Formentini Up to 50% Off
     *   Lucky Brand Kids Up to 55% Off
@@ -31,31 +55,17 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Home Makeover: Decor, Bedding &. More from $25
     *   Free Shipping: Modern Art &. More Up to 75% Off
     *   Free Shipping: Camping &. Outdoor Party Faves
-    *   GOOD LUCK GEM &. More
-    *   Camper
-    *   Chaser &. More
-    *   Tori Praver Swim &. More
-    *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
-    
-    *   Vince Camuto Starting at $25
     *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
-    *   Fit to Flatter: Dresses We Love
-    *   YFB by Young Fabulous &. Broke
-    *   Summer Steals Up to 80% Off
-    *   Full-Fit Bras &. More Under $20 ft. Parfait
+    *   Cover FX
     *   Paige Novick Fine Jewelry Starting at 50% Off
-    *   Naturalizer Starting at $30
-    *   Travel in Style: Vince Camuto Luggage &. More
-    *   Vicenzo Leather ft. Belt Bags &. More
-    *   Ramarim Under $40
     *   LunchBots
     *   Back to School: JanSport Backpacks
     *   Tween Scene: Back-to-School Styles ft. Tractr
     *   Reading is Fun: Kids' Books from HarperCollins
     *   Straight-A Style: Boys' Jeans, Tops &. More
+    
     *   Lacoste Shoes Starting at $25
     *   Tailored Excellence: Suits Starting at $99
-    *   Diamond Watches &. More Under $600
     *   Berto Romani Under $35
     *   Lorenzo Uomo
     *   Free Shipping: Area Rugs for Every Space
@@ -64,40 +74,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: On-Trend Agate Accents from $10
     *   Free Shipping: Modern Flatware &. More from $16
     *   Wellness Support: Sleep Yoga Pillows &. More
-    *   Frye Up to 50% Off
-    
-    *   Frye Handbags Up to 50% Off
-    *   Frye Men Up to 50% Off
-    *   Frye Men's Accessories Up to 60% Off
     *   Robert Graham
-    *   Rose Gold &. Sterling Silver Jewelry Starting at $20
     *   Fragrances by Margot Elena
     *   Summer Polos, Tees &. More
-    *   Doodle Pants
-    *   MIA Girls Starting at $15
-    *   Rockabye
-    *   Baby Denim Sets ft. HUDSON
-    *   Out &. About: Cute Bags ft. OMG! Accessories
     *   Jurlique Natural Skin Care Up to 40% Off
     *   K-Beauty Must-Haves Starting at $10
-    *   Summer Travel Accessories ft. Brouk &. Co.
     *   Free Shipping: Convertible Bean Bag Chairs
     *   Kitchen Electrics Starting at $25
     *   Home Steals Starting at 60% Off
-    *   Royale USA Hair Tools Up to 90% Off
     *   Free Shipping: BergHOFF
     *   Free Shipping: Fine Art Up to 90% Off
-    *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Free Shipping: Modern Rugs Up to 65% Off
-    *   Pieces That Wow: Modern Tables, Lamps &. More
-    *   Car Storage &. Organization Essentials from $10
-    *   David Donahue Tailored Clothing
+    *   Chaser &. More
+    *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
+    *   Fit to Flatter: Dresses We Love
+    *   YFB by Young Fabulous &. Broke
+    *   Summer Steals Up to 80% Off
     *   Give the Eye: Crown Brush from $10
 *   WomenShop Sale Events
     
+    *   Too Faced Up to 55% Off
+    *   Tart
+    *   Gym Bound: Fit Faves Starting at $15
+    *   Sneakers Up to 50% Off ft. PUMA &. Reebok
+    *   DSGN Yoga Under $35
+    *   Kenneth Cole New York
+    *   Derek Lam 10 Crosby Up to 85% Off
+    *   LOVE Moschino
+    *   Isola &. Sofft Up to 50% Off
+    *   Socialite
+    *   Raisins Swim &. More Under $35
+    *   Adore Jewelry from the Swarovski Group
+    *   Catherine Catherine Malandrino Shoes from $20
+    *   Lovely in Lace: Feminine Summer Styles
+    *   Steve Madden Jewelry &. Watches
+    *   IT Luggage
+    *   AQS Sunnies Up to 70% Off
+    *   GOOD LUCK GEM &. More
+    *   Camper
     *   Lucky Brand Incl. Plus
     *   Lucky Brand Shoes Up to 50% Off
     *   Lucky Brand Handbags &. Jewelry Up to 50% Off
+    
     *   Wow Couture
     *   Murad
     *   Easy Summer Styles Under $50
@@ -105,35 +123,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Summer Wedges We Love Under $50
     *   Summer Dresses Under $30
     *   X by Gottex Under $30
-    *   Cover FX
     *   Mirenesse Australia Up to 70% Off
     *   Perla Formentini Up to 50% Off
-    *   GOOD LUCK GEM &. More
-    *   Camper
-    *   Chaser &. More
-    *   Tori Praver Swim &. More
-    *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
-    *   Vince Camuto Starting at $25
     *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
-    
-    *   Fit to Flatter: Dresses We Love
-    *   YFB by Young Fabulous &. Broke
-    *   Summer Steals Up to 80% Off
-    *   Full-Fit Bras &. More Under $20 ft. Parfait
+    *   Cover FX
     *   Paige Novick Fine Jewelry Starting at 50% Off
-    *   Naturalizer Starting at $30
-    *   Travel in Style: Vince Camuto Luggage &. More
-    *   Vicenzo Leather ft. Belt Bags &. More
-    *   Ramarim Under $40
-    *   Diamond Watches &. More Under $600
-    *   Frye Up to 50% Off
-    *   Frye Handbags Up to 50% Off
-    *   Rose Gold &. Sterling Silver Jewelry Starting at $20
     *   Fragrances by Margot Elena
     *   Jurlique Natural Skin Care Up to 40% Off
     *   K-Beauty Must-Haves Starting at $10
-    *   Royale USA Hair Tools Up to 90% Off
-    *   Predire Paris Luxury Skin Care Up to 95% Off
+    *   Chaser &. More
+    *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
+    *   Fit to Flatter: Dresses We Love
+    *   YFB by Young Fabulous &. Broke
+    *   Summer Steals Up to 80% Off
     *   Give the Eye: Crown Brush from $10
     
     Shop By Category
@@ -141,28 +143,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Lingerie
-    *   Watches
-    *   Tech Accessories
     *   Accessories
+    *   Lingerie
+    *   Tech Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Men's Active Sneakers Up to 50% Off
+    *   Volcom
+    *   IT Luggage
+    *   AQS Sunnies Up to 70% Off
     *   Lucky Brand Men Up to 60% Off
     *   Natural Blue Linen Styles &. More Up to 70% Off
     *   GUESS Men's Sneakers &. More from $25
+    
     *   Reebok
     *   Lacoste Shoes Starting at $25
     *   Tailored Excellence: Suits Starting at $99
-    *   Diamond Watches &. More Under $600
     *   Berto Romani Under $35
-    
     *   Lorenzo Uomo
-    *   Frye Men Up to 50% Off
-    *   Frye Men's Accessories Up to 60% Off
     *   Robert Graham
     *   Summer Polos, Tees &. More
-    *   Summer Travel Accessories ft. Brouk &. Co.
-    *   David Donahue Tailored Clothing
     
     Shop By Category
     *   Clothing
@@ -171,6 +172,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Kids' Sneakers Under $55 ft. Heelys
     *   Lucky Brand Kids Up to 55% Off
     *   Dive into Summer: Kids' Swim Starting at $9
     *   Summer Ready: Girls' Sandals ft. Zaxy
@@ -178,27 +180,22 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Back to School: JanSport Backpacks
     *   Tween Scene: Back-to-School Styles ft. Tractr
     *   Reading is Fun: Kids' Books from HarperCollins
-    
     *   Straight-A Style: Boys' Jeans, Tops &. More
-    *   Doodle Pants
-    *   MIA Girls Starting at $15
-    *   Rockabye
-    *   Baby Denim Sets ft. HUDSON
-    *   Out &. About: Cute Bags ft. OMG! Accessories
     
     Shop By Category
     *   Girls Sizes 7-16
+    *   Boys Sizes 2T-7
     *   Toys
     *   Girls Sizes 2T-6X
-    *   Boys Sizes 2T-7
     *   Girls' Shoes
-    *   Baby Boy
     *   Boys Sizes 8-20
-    *   Baby Girl
     *   Boys' Shoes
-    *   Baby Gear &. Essentials
+    *   Baby Girl
+    *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Color Pop: Wall Murals &. More From $10
+    *   Dorm Ready: Headphones &. More from $10
     *   Home Makeover: Decor, Bedding &. More from $25
     *   Free Shipping: Modern Art &. More Up to 75% Off
     *   Free Shipping: Camping &. Outdoor Party Faves
@@ -206,48 +203,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Smart Storage for Small Spaces from $10
     *   Rifle Paper Co.
     *   Free Shipping: On-Trend Agate Accents from $10
+    
     *   Free Shipping: Modern Flatware &. More from $16
     *   Wellness Support: Sleep Yoga Pillows &. More
-    
     *   Free Shipping: Convertible Bean Bag Chairs
     *   Kitchen Electrics Starting at $25
     *   Home Steals Starting at 60% Off
     *   Free Shipping: BergHOFF
     *   Free Shipping: Fine Art Up to 90% Off
     *   Free Shipping: Modern Rugs Up to 65% Off
-    *   Pieces That Wow: Modern Tables, Lamps &. More
-    *   Car Storage &. Organization Essentials from $10
     
     Shop By Category
     *   Home Decor
     *   Rugs
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
     *   Storage &. Cleaning
-    *   Outdoor Living
-    *   Accent Furniture
     *   Bath
     *   Bedding
+    *   Outdoor Living
+    *   Luggage &. Travel
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Too Faced Up to 55% Off
     *   Murad
-    *   Cover FX
     *   Mirenesse Australia Up to 70% Off
+    *   Cover FX
     *   Fragrances by Margot Elena
     *   Jurlique Natural Skin Care Up to 40% Off
     *   K-Beauty Must-Haves Starting at $10
-    *   Royale USA Hair Tools Up to 90% Off
-    *   Predire Paris Luxury Skin Care Up to 95% Off
     *   Give the Eye: Crown Brush from $10
     
     Shop By Category
     *   Makeup
-    *   Tools &. Accessories
-    *   Skin Care
     *   Bath &. Body
-    *   Hair Care
     *   Fragrance
-    *   Personal Care
+    *   Skin Care
+    *   Tools &. Accessories
+    *   Hair Care
     *   Nails
     *   Supplements
 
