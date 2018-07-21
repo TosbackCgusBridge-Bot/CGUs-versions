@@ -89,7 +89,7 @@ menu Close 0 Free Shipping on $50+
     *   Slippers
     
     WOMEN'S ACCESSORIES >.
-    *   Scarves
+    *   Scarves &. Wraps
     *   Belts
     *   Socks &. Tights
     *   Jewelry
@@ -468,7 +468,7 @@ menu Close 0 Free Shipping on $50+
     *   WOMEN'S ACCESSORIES
         *   Back
         *   View All
-        *   Scarves
+        *   Scarves &. Wraps
         *   Belts
         *   Socks &. Tights
         *   Jewelry
