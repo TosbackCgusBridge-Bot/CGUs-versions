@@ -56,7 +56,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 The Extraordinary Life of Martha Gellhorn 2 How Louis's Christening Photos Are Different 3 A Day in the Life of Patricia Altschul 4 How to Take a Gap Year From Your Life 5 The Surprising State of St. Bart's Privacy Policy Dec 1, 2014
+Today's Top Stories 1 The Extraordinary Life of Martha Gellhorn 2 Vacation Inspiration: 10 Places to Go in August 3 Preppy Cocktails from A-Z 4 11 of Europe's Best Nude Beaches 5 The Weekly Covet: Best Weekender Bags Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
@@ -184,7 +184,7 @@ Last revised on April 1, 2016
 
 Watch Next
 
-Advertisement - Continue Reading Below Share Tweet Email
+Advertisement - Continue Reading Below More From About Advertise Online Terms of Use Why did I get this ad? Read Next L.L. Bean Is Getting Sued Over New Return Policy Ethel Kennedy Joins Hunger Strike Share Tweet Email
 
 *   About
 *   The New York Botanical Garden's Kiku Dinner
@@ -214,4 +214,4 @@ A Part of Hearst Digital Media Town &. Country participates in various affiliate
 *   Updated Terms of Use
 *   Site Map
 
-Share Tweet Email
+Share Tweet Email x
