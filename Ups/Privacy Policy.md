@@ -56,11 +56,11 @@ Search Close
     *   Service Guide
     *   Order Supplies
     
-    Explore All Shipping Convenient locations near you.
+    Explore All Shipping Ship just a few times a week? No problem.
     
-    With shipping locations around the globe and around the corner, UPS makes it easier to find reliable shipping.
+    We took the guesswork out, and put the easy in.
     
-    Find the Nearest Location
+    Try It Now
     
 *   Services Services By Type
     
@@ -94,7 +94,7 @@ Search Close
     *   Expanding Globally
     *   ResourcesExplore All Articles
 
-Customer ServiceCustomer Service Need help now?
+Customer Service Customer Service Need help now?
 
 Ask Our Virtual Assistant
 
@@ -103,12 +103,16 @@ Ask Our Virtual Assistant
 *   Change Delivery
 *   Delivery Issues
 
+*   Email Us
+*   Call Us
+*   See All Contact Options
+
 *   Log In
 *   Sign Up
 *   Locations
 *   United States - English
     *   Estados Unidos - Español
-    *   United States - EnglishSelect Another Country
+    *   United States - EnglishSelect Another Country or Territory
 *   My Profile
     
     *   Sign Up
