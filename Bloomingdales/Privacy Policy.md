@@ -1,40 +1,28 @@
-*   STORES &. EVENTS
-*    | 
-*   USD
-*    | 
-*   MY ACCOUNT
-*    | 
-*   WISH LIST
-*    | 
-*   MY BROWN BAG
-
+Skip Navigation Live Chat Live Chat CALL US **ANY TIME**:1.800.777.0000  
   
+We're available 24 hours, 7 days a week. menu
 
-*   DESIGNERS
-*   What's New
-*   WOMEN
-*   SHOES
-*   HANDBAGS
-*   JEWELRY &. ACCESSORIES
-*   BEAUTY
-*   MEN
-*   KIDS
-*   HOME
-*   GIFTS
-*   THE REGISTRY
-*   SALE
+*   My b Wallet
+*   In-Store Pickup
+*   Wish List
+*   Credit Card
+*   Returns
+*   Order Status
+*   Loyallist
+*   Shipping &. Delivery
+*   Furniture &. Mattresses
+*   Stores
+*   Wedding &. Gift Registry
+*   Gifts &. Gift Cards
+*   My Account &. Profile
+*   Products &. Pricing
+*   Customer Protection Center
+*   International
+*   Contact Us
 
-CALL US ANY TIME:1.800.777.0000 We're available 24 hours, 7 days a week. What's New My bWallet In-Store Pickup Wish List Help Topics Credit Card Returns Order Status Loyallist   Shipping &. Delivery Stores My Account &. Profile Furniture &. Mattresses Products &. Pricing Wedding &. Gift Registry Gifts &. Gift Cards Customer Protection Center   International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices
+Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 04/10/2018 11:08 AM
 
-This Notice of Privacy Practices was updated on June 9, 2016.
-
-Here’s a summary of what we’ve updated:
-
-*   Re-organized this Notice to better explain why, what, and how we collect and process customer information;
-*   Updated subsidiary, affiliate and other partner information;
-*   Expanded scope of technology-enabled collection services such as Beacons, In-Store Wi-Fi, RFID, Voice-Enabled Services and Video Cameras;
-*   Descriptions of how we safeguard information. and
-*   Expanded scope on how to Manage Your Preferences that includes updates on Social Network &. New Tech Advertising programs and your choices related to technology-enabled collection services.
+This Notice of Privacy Practices was updated on November 24, 2017.
 
 This Notice of Privacy Practices (“Notice”) applies to information collected, processed or stored by  Bloomingdale’s and Bloomingdale’s Outlet, online at bloomingdales.com, and via Bloomingdale’s mobile applications (e.g., Bloomingdale’s Big Brown Bag app or bloomingdales.com accessed through your mobile device) (Collectively, “Services”). This Notice describes the extent of data collection and use for these Bloomingdale’s Services.  
 
@@ -49,11 +37,11 @@ This Notice of Privacy Practices explains:
 *   Website &. Online Services Preferences
 *   Ownership of Customer Data
 *   Additional Disclosures (including COPPA, California Privacy Rights, International)
-*   Safeguarding Information
+*   Safeguarding Information -Based Advertising
 
-Interest-Based Advertising
+  
 
-Your access to and use of our Services means you agree to the terms in this Notice and our Terms of Use.  We encourage you to refer to this Notice periodically so that you understand our current privacy practices.  
+Your access to and use of our Services means you agree to the terms in this Notice and our Terms of Use. We encourage you to refer to this Notice periodically so that you understand our current privacy practices.  
   
 If you have any questions about this Notice, please contact our Customer Service department:
 
@@ -63,8 +51,6 @@ If you have any questions about this Notice, please contact our Customer Service
     Bloomingdale’s Credit and Customer Services  
     ATTN: Privacy Office  
     P.O. Box 8215, Mason, OH 45040
-
-Back to top
 
 WHY WE COLLECT &. USE INFORMATION
 
@@ -87,6 +73,8 @@ We may combine information collected from different sources (see section on What
 *   To provide personal services such as b-connected (clienteling) or The Registry at Bloomingdale’s. and
 *   To administer loyalty programs (e.g., Loyallist).
 
+  
+
 2\. Marketing, Promotions &. Advertising (ADV)
 
 *   To deliver information about our products, services, and promotions (e.g., personalized offers delivered to your home, email, or mobile devices);
@@ -94,11 +82,15 @@ We may combine information collected from different sources (see section on What
 *   To identify product preferences and shopping preferences (e.g., services and promotions of possible interest). and
 *   To administer contests, sweepstakes, promotions, surveys, and focus groups.
 
+  
+
 3\. Internal Operations (OPS)
 
 *   To improve the effectiveness of our websites, stores, mobile applications, merchandise assortment, and customer service;
 *   To conduct research and analytics related to our operations. and
 *   To perform other logistics and operation activities as needed.
+
+  
 
 4\. Fraud Prevention, Security and Compliance (SEC)
 
@@ -106,6 +98,8 @@ We may combine information collected from different sources (see section on What
 *   To validate credentials and authenticate customers when logging into your online profile, applications, or transacting in store;
 *   To protect the security and integrity of our Services and our data. and
 *   To assist law enforcement and respond to legal/regulatory inquiries.
+
+  
 
 The rest of this Notice refers to the collection and use codes above (FUL. ADV. OPS. SEC). This is so you can better understand why we collect and use different types of information in accordance with our privacy practices and our Responsible Information Management program.  
   
@@ -125,6 +119,9 @@ We collect information from a variety of sources, including: information provide
 *   *   Transaction Information includes items purchased and date and time of your transaction, for in-store or online purchases.  
     *   When you make a purchase or create a gift registry, we may share information about you and your transaction with other companies necessary to process your transaction or offer you products or services that may be of interest.
 
+*   b-connected (Clienteling/Client Book) (FUL, ADV, OPS, SEC)
+*   *   While in our stores, a Bloomingdale's sales associate(s) may ask your permission to enter your information into their client book. This is so that the associate can communicate with you on a one-to-one basis about Bloomingdale's products, services, and promotions that may be of interest to you or fulfill orders at your requests. Information sales associates collect includes: Name, Telephone number(s), Email, Credit card number (so transactions may be made on the client's behalf and at your request) and Address (billing and shipping). Information stored in our client book may be accessed and used by other Bloomingdale's personnel. (To express your preferences related to b-connected, go to the Manage Your Preferences section below.)
+
 *   Affiliate &. Subsidiary Sharing: (FUL, ADV, OPS, SEC)
 *   *   Bloomingdale’s, a division of Macy’s, Inc., may share your information within the Macy’s, Inc. organization including its subsidiaries and affiliates, such as Bluemercury. This Notice does not cover the privacy practices of Macy’s or Bluemercury.
 
@@ -132,6 +129,7 @@ We collect information from a variety of sources, including: information provide
 *   *   We may receive your updated shipping information from a third party carrier.
     *   We may collect or use information made available to us through third party platforms, online databases and directories, or other means. We specify that data sourced from a third party must be legitimately and legally obtained. Some or all of this information may be governed by the privacy statements of the third party.
     *   We may share information with third parties who provide services to us or who work with us to offer products or services online or in our stores.  Bloomingdale’s also may share information with third parties so that they may directly offer their products or services to you if we think they may be of interest to you.
+    *   We have a direct relationship with Chanel in which we share contact information and transaction history for purchases of Chanel products online or in our stores. To opt-out of this share please email customercare@chanelusa.com.
     *   We participate in consortiums with partners to share information or match (look alike or similar) customer data. When shared, this information is de-identified and anonymized.
 
 Back to top
@@ -214,27 +212,41 @@ Access to Accounts, Online Profiles, and Orders
 *   If you have any additional questions, please call our Customer Service department at 1-888-922-7026.
 *   If you are an international customer, and want to access your information, please click here to send an email to our international customer services teams who will be happy to assist you.
 
+  
+
 Data Sharing Preferences  
 If you prefer that we not share your information with third parties for marketing purposes, you can contact us:
 
-*   By mail at:  
-    Bloomingdale’s Credit and Customer Services  
-    ATTN: Privacy Office  
-    P.O. Box 8215, Mason, OH 45040
+*   *   By mail at:  
+        Bloomingdale’s Credit and Customer Services  
+        ATTN: Privacy Office  
+        P.O. Box 8215, Mason, OH 45040
 *   *   If you choose to write to us, please include your name, address, phone number, and last 4 digits of your Bloomingdale’s or Macy’s proprietary or American Express co-brand credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request.
-*   By phone at 1-888-922-7026
+*   *   By phone at 1-888-922-7026
+
+  
+
+b-connected (Clienteling/Client Book)
+
+Customers who would like to end their one-to-one relationship with a Bloomingdale's sales associate can do so through the following methods:
+
+*   Emailing the associate directly and ask to end the one-to-one relationship.
+*   Texting the associate directly asking to end the client relationship and stop communication with that associate.
+*   Calling the associate directly and asking to end the one-to-one relationship.
+*   Visiting the associate in the Bloomingdale's store and asking to end the one-to-one relationship. or
+*   Calling our Customer Service department at 1-888-922-7026.
+
+Note: Ending the one-to-one relationship with the sales associate will remove your information from that associate's client book. Your information will still be retained by Bloomingdale's and may be used by other sales associate's if you begin a new one-to-one relationship.
 
 Email Communications
 
-*   Promotional or Marketing Emails: To opt-out of receiving promotional or marketing e-mails from Bloomingdale’s at a specific email address, you may:
-*   *   *   Use the unsubscribe link in the footer of any e-mail sent by bloomingdales.com.
+*   *   Promotional or Marketing Emails: To opt-out of receiving promotional or marketing e-mails from Bloomingdale’s at a specific email address, you may:
+*   *   Use the unsubscribe link in the footer of any e-mail sent by bloomingdales.com.
     *   Unsubscribe by signing into your account on bloomingdales.com, clicking on my profile and indicating your opt-out preference.
-    *   Or contact us:
-    *   *   By mail at:  
-            Bloomingdale’s Credit and Customer Services  
-            ATTN: Privacy Office  
-            P.O. Box 8215, Mason, OH 45040  
-            
+    *   Or contact us by mail at:  
+        Bloomingdale’s Credit and Customer Services  
+        ATTN: Privacy Office  
+        P.O. Box 8215, Mason, OH 45040
 
 > Note: It may take up to 10 business days to process your request.
 
@@ -244,51 +256,51 @@ Email Communications
       
     Note: Operational emails (e.g. shipping confirmation or product recall information) do not provide an opt-out option.
 
+  
+
 Direct Mail or Telemarketing
 
-*   Direct Mail or Telemarketing: To opt-out of receiving direct mail or telemarketing calls, you may contact us:
-*   *   By phone at 1-888-922-7026
-    *   By mail at:  
-        Bloomingdale's Credit and Customer Service  
-        ATTN: Privacy Office  
-        P.O. Box 8215, Mason, OH 45040
-    *   *   If you choose to write us, please include your name, address, phone number and the last 4 digits of your Bloomingdale's or Macy's proprietary or American Express co-brand card account number (if you have one) and state one of the following:
-        *   *   "NO MAIL OFFERS" (if you don't want to receive offers by mail);
-            *   "NO PHONE OFFERS" (if you don't want to receive offers by phone). or
-            *   "NO MAIL OR PHONE OFFERS" (if you don't want to receive either)
+To opt-out of receiving direct mail or telemarketing calls, you may contact us:
+
+*   By phone at 1-888-922-7026
+*   By mail at:  
+    Bloomingdale's Credit and Customer Service  
+    ATTN: Privacy Office  
+    P.O. Box 8215, Mason, OH 45040
+*   *   If you choose to write us, please include your name, address, phone number and the last 4 digits of your Bloomingdale's or Macy's proprietary or American Express co-brand card account number (if you have one) and state one of the following:
+    *   *   "NO MAIL OFFERS" (if you don't want to receive offers by mail);
+        *   "NO PHONE OFFERS" (if you don't want to receive offers by phone). or
+        *   "NO MAIL OR PHONE OFFERS" (if you don't want to receive either)
 
 *   Note on Opting-Out of Direct Mail: Because direct mailings are often prepared well in advance (12-16 weeks, in some cases) you may, for a period of time, continue to receive some physical mail after you send us your request.
+*     
+    
 
 Website &. Online Services Preferences
 
-*   Cookies &. Flash Cookies: Managing cookie preferences differs from browser to browser so please refer to your browser for further information. If you would like to disable cookies and web beacons, please use the help function in your web browser to restrict cookies from our website(s). If you block cookies from bloomingdales.com, you will not be able to make purchases on our website.  To manage the Flash Cookie settings and preferences for your computer, mobile phone or wireless device please click here and you will be directed to the Settings Manager on Adobe's website. You may also be able to manage Flash Cookies from your browser, depending on the version of your browser.
-
-*   Website Optimization Services: You may choose to opt-out of IBM Digital Analytics' analysis of your browsing and purchasing behavior on our website, or you may choose to allow IBM Digital Analytics to analyze your behavior in a de-identified manner. Click here to learn more about your privacy preference options with respect to IBM Digital Analytics use on our site.
-
-*   Interest-Based Adverting: If you would like to opt-out of interest-based advertising, please click here.  Please note that you will be opted out of all interest-based advertising from all business members of the Network Advertising Initiative for that specific browser on that specific device. If you opt-out, you may continue to see or receive online advertising from Bloomingdale’s. however, these ads may not be as relevant to you.  
-      
-    Note: To opt-out of interest-based advertising in mobile applications, you can turn off mobile device ad tracking or reset the advertising identifier in your device settings.
-
-*   Social Network &. New Tech Advertising: You can manage your preferences for many of these advertising programs through the links provided below: 
+*   *   Cookies &. Flash Cookies: Managing cookie preferences differs from browser to browser so please refer to your browser for further information. If you would like to disable cookies and web beacons, please use the help function in your web browser to restrict cookies from our website(s). If you block cookies from bloomingdales.com, you will not be able to make purchases on our website.  To manage the Flash Cookie settings and preferences for your computer, mobile phone or wireless device please click here and you will be directed to the Settings Manager on Adobe's website. You may also be able to manage Flash Cookies from your browser, depending on the version of your browser.
+    *   Website Optimization Services: You may choose to opt-out of IBM Digital Analytics' analysis of your browsing and purchasing behavior on our website, or you may choose to allow IBM Digital Analytics to analyze your behavior in a de-identified manner. Click here to learn more about your privacy preference options with respect to IBM Digital Analytics use on our site.
+    *   Interest-Based Adverting: If you would like to opt-out of interest-based advertising, please click here.  Please note that you will be opted out of all interest-based advertising from all business members of the Network Advertising Initiative for that specific browser on that specific device. If you opt-out, you may continue to see or receive online advertising from Bloomingdale’s. however, these ads may not be as relevant to you.  
+        Note: To opt-out of interest-based advertising in mobile applications, you can turn off mobile device ad tracking or reset the advertising identifier in your device settings.
+    *   Social Network &. New Tech Advertising: You can manage your preferences for many of these advertising programs through the links provided below: 
 *   *   Facebook
     *   Google  
     *   Pinterest
     *   Twitter
     *   Yahoo!
 
+  
+
 Technology-Enabled Collection &. Use Preferences
 
 *   Mobile Marketing: To opt-out of mobile marketing for a specific mobile number, you may reply "STOP" to 25666 on your mobile phone/wireless device. You will receive a confirmation text that you have been opted out. For customers with a Bloomingdale’s online account, you may also opt-out via your profile.
-*     
-    Note on Opting-Out of Mobile Marketing: If you opt-out of mobile marketing using any means other than replying “STOP” to 25666, please allow 3-5 business days after contacting us to process your request. We do not share your mobile number with any third parties for marketing purposes.
-
-*   b-connected: Customers who have a one-to-one relationship with a Bloomingdale’s sales associate and no longer wish to receive SMS messages from that associate may contact the associate directly or text “STOP,” “STOPALL,” “UNSUBSCRIBE,” “CANCEL,” “END,” or “QUIT” to that associate and opt-out of receiving those communications.
-
+*   Note on Opting-Out of Mobile Marketing: If you opt-out of mobile marketing using any means other than replying “STOP” to 25666, please allow 3-5 business days after contacting us to process your request. We do not share your mobile number with any third parties for marketing purposes.
+*   b-connected: Customers who have a one-to-one relationship with a Bloomingdale’s sales associate and no longer wish to receive SMS messages from that associate may contact the associate directly to opt-out of receiving those communications.
 *   Bloomingdale’s Mobile Applications: You can opt out from allowing Bloomingdale’s mobile applications to access your device’s camera, microphone, or location information by adjusting the permissions in your mobile device.  
-      
     Note: To opt-out of interest-based advertising in mobile applications, you can turn off mobile device ad tracking or reset the advertising identifier in your device settings.
-
 *   In-Store Wi-Fi Services: If you do not wish for us to use your Wi-Fi analytic data in a de-identified manner, please turn off your phone or refrain from using our Wi-Fi Services. For more information, visit: https://smart-places.org .  
+
+  
 
 Back to top
 
@@ -352,46 +364,17 @@ Additionally, sometimes bad actors attempt to use our brand to create fake web p
 
 Back to top
 
-Does this answer your question? Tells us how you think we can make this answer more helpful to you. We do not respond to comments sent through this form. \*Email:Required \*Your Feedback:Required \* required fields  
+Email this page Recipient Email \* Your Email \* Your Name \* Print Share
+
+*   Facebook
+*   Twitter
+*   LinkedIn
+*   Reddit
+
+Does this answer your question? Yes No s
 
 *   What is the return and exchange policy?
 *   Terms of Use
-*   What is the shipping policy?
 *   Highlights of Bloomingdale’s Notice of Privacy Practices
+*   What is the shipping policy?
 *   How do I return an item purchased at a Bloomingdale's store?
-
-*   CUSTOMER SERVICE
-    *   Shipping Policy
-    *   Returns &. Exchanges
-    *   International
-*   MY ACCOUNT
-    *   Order Status
-    *   My Loyallist
-    *   My Profile
-*   CREDIT SERVICES
-    *   Pay Bill Online
-    *   Manage My Credit Account
-    *   Apply for a Credit Card
-*   COMPANY
-    *   About Us
-    *   b.cause
-    *   Careers
-*   WAYS TO SHOP
-    *   Online &. Mobile
-    *   Stores
-    *   Outlet
-
- 
-
-*   Terms of Use/
-*   Privacy/
-*   CA Privacy Rights/
-*   CA Transparency in Supply Chains Act/
-*   Customers' Bill of Rights/
-*   Product Recall/
-*   Visually Impaired Customers/
-
-*   Essential Accessibility
-
-  
-© 2017 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
