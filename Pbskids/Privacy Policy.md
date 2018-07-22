@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _special_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Nature Cat and Bad Dog Bart are coming to race in Kart Kingdom all week starting Monday, July 20!Nature Cat and Bad Dog Bart are coming to race in Kart Kingdom all week starting Monday, July 20!Go now
+Help your little engineer create a DIY carousel toy that moves! Help your little engineer create a DIY carousel toy that moves! Get the free template
 
 Toggle message bar
 
