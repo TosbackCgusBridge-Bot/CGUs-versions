@@ -1,4 +1,4 @@
-SEG1 hp
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55Q8D33&gtm\_auth=q0cT323RvsH39vnjqScr4Q&gtm\_preview=env-16&gtm\_cookies\_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe>. SEG1 hp
 
 ×
 
@@ -14,7 +14,7 @@ SEG1 hp
     enter your number below.
 *   Login or Register
 
-Office Depot Deals 7co0HdTH9K0W1mMt3F\_SuJF
+Office Depot Deals D5NZ63GMN5sWnCDFY61fKiU
 
 Search Suggestions
 
@@ -158,10 +158,10 @@ supplies, furniture, technology &. more
  **1-800-GO-DEPOT**  
 (1-800-463-3768)   Live Chat Available 24/7  **FREE** store pickup.  
 order online  
-pick up in 1 hour!  **Tap our app**  
-get offers,  
-manage rewards,  
-compare prices  Signup to receive  
+pick up in 1 hour!  **A tapp away**  
+quick reorders,  
+free instore  
+pickup &. more  Signup to receive  
 exclusive offers  
 to your inbox
 
@@ -224,7 +224,7 @@ Your session will time out in 120 seconds.
 
 You will be automatically logged out if you do not click on the button below.
 
-https://officedepot.ugc.bazaarvoice.com 2563rew https://www.officedepot.com/images/us/od/ https://officedepotchat-en.custhelp.com/app/chat/BS2\_reactive\_chat\_launch <iframe src="//s.thebrighttag.com/iframe?c=bAEQTsC" title="BrightTag" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">. <html><head>. <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||\[\],AKSB.mark=AKSB.mark||function(e,\_){AKSB.q.push(\["mark",e,\_||(new Date).getTime()\])},AKSB.measure=AKSB.measure||function(e,\_,t){AKSB.q.push(\["measure",e,\_,t||(new Date).getTime()\])},AKSB.done=AKSB.done||function(e){AKSB.q.push(\["done",e\])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"85515",ustr:"",originlat:"0",clientrtt:"37",ghostip:"23.212.3.62",ipv6:false,pct:"10",clientip:"162.211.64.106",requestid:"14d493eb",region:"32996",protocol:"",blver:14,akM:"a",akN:"ae",akTT:"O",akTX:"1",akTI:"14d493eb",ai:"235428",ra:"true",pmgn:"RUMwwwOD",pmgi:"",pmp:"",qc:""},function(e){var \_=d.createElement("script");\_.async="async",\_.src=e;var t=d.getElementsByTagName("script"),t=t\[t.length-1\];t.parentNode.insertBefore(\_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>. </head><body><div style="display:none;">Placeholder</div></body></html>. </iframe>.
+https://officedepot.ugc.bazaarvoice.com 2563rew https://www.officedepot.com/images/us/od/ https://officedepotchat-en.custhelp.com/app/chat/BS2\_reactive\_chat\_launch <iframe src="//s.thebrighttag.com/iframe?c=bAEQTsC" title="BrightTag" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">. <html><head></head><body><div style="display:none;">Placeholder</div></body></html>. </iframe>.
 
 This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards now!
 
