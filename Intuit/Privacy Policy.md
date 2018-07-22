@@ -91,7 +91,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Google Plus
+*   Instagram
 *   Youtube
 *   JCPenney Blog
 
