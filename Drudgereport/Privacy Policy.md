@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 My week on Twitter : 1 Mention, 1.16K Mention Reach, 1 Like, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/DYxm…
 
-About 3 days ago
+About 4 days ago
 
 Getting In On The 2020 Election Campaigns. Here's What Publishers Need to Know! bit.ly/2N4mkWe via @adexchanger @Requidan
 
@@ -178,11 +178,11 @@ Last week
 
 My week on Twitter : 3 Likes, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/56er…
 
-About 2 weeks ago
+About 3 weeks ago
 
 “As a publisher, you stand to gain from those direct customers and, in general, data." - @Requidan on the topic of @ATT acquiring @AppNexus via @adexchanger. Read more here: bit.ly/2yLUFqC
 
-About 3 weeks ago
+Last month
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
