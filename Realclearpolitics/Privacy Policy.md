@@ -109,6 +109,10 @@
     *   About
     *   Media Kit
 
+*   _David Ignatius_: Our Resilient Intel Community Will 'Get on With It'
+    
+*   _Brian Kennedy_: The Trouble With Brennan &. Clapper's Political War vs. Trump
+    
 *   _Andrew Napolitano_: Trump Knows You Don't Negotiate With Bad Guys in Public
     
 *   _Andrew Sullivan_: Why Trump Has Such a Soft Spot for Russia
@@ -152,10 +156,6 @@
 *   _Sarah Smarsh_: Liberal Blind Spots Hiding the Truth About 'Trump Country'
     
 *   _Victor Davis Hanson_: On Populism and the Middle Class
-    
-*   _Nic Robertson_: Trump and Putin Are Pulling the West Apart
-    
-*   _Rush Limbaugh_: D.C. Republicans Need to Wake Up on Foreign Policy
     
 
 *   Previous
@@ -245,6 +245,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Oregon Governor - Buehler vs. BrownGravis
+    *   Brown45
+    *   Buehler45Tie
 *   Georgia Governor - Republican Primary Run-OffWXIA-TV/SurveyUSA
     *   Kemp40
     *   Cagle34Kemp +6
@@ -254,17 +257,14 @@ Latest PollsAll Polls
 *   Georgia Governor - Cagle vs. AbramsWXIA-TV/SurveyUSA
     *   Cagle45
     *   Abrams43Cagle +2
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
 
 More Latest Polls In The News
 
+*   Hemingway: If You Actually Care About Russian Meddling You Should Have Questions For Obama
 *   McFaul: Trump Is Giving "Moral Equivalency" To "Cockamamy" Russian Accusations
 *   George Will: Trump "Syntactically Challenged". A "Sad, Embarrassing Wreck Of A Man"
 *   Nunes: FBI/DOJ Trying To "Wait Out" Republican Congress, "Banking On" Dems Dropping Case
 *   Clapper: "Badge Of Honor" When Trump Attacks Me, John Brennan, Hayden &. Comey. We're Private Citizens
-*   Lieberman: If Ocasio-Cortez Is "The New Face of The Democratic Party," Party Doesn't Have "Bright Future"
 
 *   Politics
 *   Policy
