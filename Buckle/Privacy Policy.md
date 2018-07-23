@@ -23,7 +23,7 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -48,6 +48,7 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         
         *   Tops
         
+        *   Shop All
         *   2 For $35
         *   Bodysuits
         *   Tees
@@ -58,10 +59,10 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Sweatshirts
         *   Sweaters
         *   Jackets
-        *   Shop All
         
         *   Bottoms
         
+        *   Shop All
         *   Jeans
         *   Curvy Jeans
         *   Skinny Jeans
@@ -72,10 +73,10 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Skirts
         *   Denim Skirts
         *   The Denim Shop
-        *   Shop All
         
         *   Shoes
         
+        *   Shop All
         *   Sandals
         *   Flips
         *   Sneakers
@@ -84,10 +85,10 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Flats/Slides
         *   Wedges
         *   Western Boots
-        *   Shop All
         
         *   More
         
+        *   Shop All
         *   Accessories
         *   Watches
         *   Bags
@@ -98,7 +99,6 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Activewear
         *   Sunglasses
         *   Swimwear
-        *   Shop All
         
           
           
@@ -117,6 +117,7 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         
         *   Tops
         
+        *   Shop All
         *   2 For $25
         *   Graphic Tees
         *   Solid Tees
@@ -126,10 +127,10 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Long Body
         *   Sweatshirts
         *   Jackets
-        *   Shop All
         
         *   Bottoms
         
+        *   Shop All
         *   Jeans
         *   Bootcut Jeans
         *   Straight Leg Jeans
@@ -140,20 +141,20 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Stretch Jeans
         *   Jeans Under $75
         *   The Denim Shop
-        *   Shop All
         
         *   Shoes
         
+        *   Shop All
         *   Flips
         *   Slides
         *   Sneakers
         *   Casuals
         *   Dress
         *   Boots
-        *   Shop All
         
         *   More
         
+        *   Shop All
         *   Hats
         *   Sunglasses
         *   Boxers
@@ -163,7 +164,6 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Cologne
         *   Wallets
         *   Jewelry
-        *   Shop All
         
           
           
@@ -178,15 +178,15 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         
         *   Girl's Clothing
         
+        *   Shop All
         *   Tops
         *   Bottoms
-        *   Shop All
         
         *   Boy's Clothing
         
+        *   Shop All
         *   Tops
         *   Bottoms
-        *   Shop All
         
           
           
@@ -194,6 +194,7 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
 *   Jeans
     *   *   Women's Jeans
         
+        *   Shop All
         *   Jegging
         *   Ankle Skinny
         *   Destructed Light Wash
@@ -201,27 +202,26 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Boyfriend
         *   High Rise
         *   The Denim Shop
-        *   Shop All
         
         *   Men's Jeans
         
+        *   Shop All
         *   Slim
         *   Regular
         *   Relaxed
         *   Loose
         *   Destructed
         *   The Denim Shop
-        *   Shop All
         
         *   Stretch &. Tech Jeans
         
+        *   Shop All
         *   Non-Stretch
         *   Comfort Stretch
         *   Performance Stretch
         *   Superior Stretch
         *   All Stretch
         *   Coolmax
-        *   Shop All
         
         *   Kid's Jeans
         
@@ -230,9 +230,9 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         
         *   Factory Seconds
         
+        *   Shop All Factory Seconds Jeans
         *   Women’s Factory Seconds
         *   Men’s Factory Seconds
-        *   Shop All Factory Seconds Jeans
         
           
           
@@ -309,6 +309,7 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         
         *   Women's Sale
         
+        *   Shop All
         *   Jeans
         *   All Tops
         *   Shirts/Blouses
@@ -319,10 +320,10 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Crops/Capris
         *   Shorts
         *   Shoes
-        *   Shop All
         
         *   Men's Sale
         
+        *   Shop All
         *   Jeans
         *   All Tops
         *   Shirts
@@ -333,24 +334,23 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Boardshorts
         *   Accessories
         *   Shoes
-        *   Shop All
         
         *   Kid's Sale
         
+        *   Shop All
         *   Girl's Sale Tops
         *   Girl's Sale Jeans
         *   Shop All
         *   Boy's Sale Tops
         *   Boy's Sale Jeans
-        *   Shop All
         
         *   Outlet
         
+        *   Shop All Factory Seconds
         *   All Women’s Outlet
         *   All Men’s Outlet
         *   Women’s Factory Seconds
         *   Men’s Factory Seconds
-        *   Shop All Factory Seconds
         
           
           
@@ -467,7 +467,6 @@ Returns
 
 Promotions
 
-*   Max Your Rewards
 *   Tax-Free Weekends
 *   All Promotions
 *   Store Events
@@ -643,4 +642,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
