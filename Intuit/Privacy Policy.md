@@ -1,26 +1,26 @@
 Loading.. SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
 
+*   $35.99 sale
+    
+    was $48 JanSport® SuperBreak® Backpack(114)Add To Cart
+*   $47.99 sale
+    
+    was $64 JanSport® Big Student Backpack(81)Add To Cart
 *   $54.99 sale
     
     was $74 JanSport® Digital Student Backpack(3)Add To Cart
 *   $39.99 sale
     
     was $50 Nike Brasilia XL BackpackAdd To Cart
-*   $35.99 sale
-    
-    was $48 JanSport® SuperBreak® Backpack(114)Add To Cart
 *   $54.99 sale
     
     was $74 JanSport® Cool Student Backpack(24)Add To Cart
-*   $51.99 sale
-    
-    was $65 adidas Prime IV BackpackAdd To Cart
-*   $47.99 sale
-    
-    was $64 JanSport® Big Student Backpack(81)Add To Cart
 *   $14.99 sale
     
     was $40 Fuel Backpack &. Lunch Bag ComboAdd To Cart
+*   $14.99 sale
+    
+    was $40 Fuel Active Backpack(1)Add To Cart
 *   $24.99 sale
     
     was $50 Minecraft BackpackAdd To Cart
@@ -91,7 +91,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Instagram
+*   Google Plus
 *   Youtube
 *   JCPenney Blog
 
