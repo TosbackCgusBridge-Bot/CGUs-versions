@@ -74,7 +74,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   DC's Joker Origin Movie Gets a Title and a Release Date. Here's Everything We Know Read More
-    *   Fans vs. Critics LIVE. Watch tonight. 7/21 at 5PM PST Read More
+    *   How ‘Aquaman’ Is Unlike Any Superhero Film, From Its Blue-Collar Antihero to Underwater Gladiator Fights Read More
     *   Musical 'Cats' to Star Jennifer Hudson, Taylor Swift and Ian McKellen. Here's Everything We Know Read More
     
     Explore Content
