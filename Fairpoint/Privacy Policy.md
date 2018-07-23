@@ -187,7 +187,9 @@
     *   Locations
     *   Employment Verification
 
-*   My Account   
+*   My Account
+    *   Check Email
+    *   View or Pay My Bill
 
 *   About Us
     *   Investor Relations
@@ -516,6 +518,7 @@ Account Support
 *   Help Understanding My Bill
 *   Check My Internet Speed Eligibility
 *   Seasonal Suspend &. Restore
+*   MyCCI Online Payment Center Support
 
 Phone Book
 
