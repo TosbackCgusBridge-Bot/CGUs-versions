@@ -380,7 +380,7 @@ WebMD Policy Last updated on May 23, 2018 © 2018 WebMD, LLC. All rights reserve
 
 Some of these might surprise you.
 
-Customize your path to leadership. The Certificate of Management Excellence offers a curated portfolio of programs to help executives develop the skills they need. Ad By **Harvard Business School Executive Education** AdChoices Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
