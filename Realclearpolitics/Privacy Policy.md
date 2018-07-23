@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _David Ignatius_: Our Resilient Intel Community Will 'Get on With It'
+*   _Dan McLaughlin_: Democratic Desperation On Kavanaugh Is Showing
     
-*   _Brian Kennedy_: The Trouble With Brennan &. Clapper's Political War vs. Trump
+*   _Gov. Andrew Cuomo_: Why the Senate Must Stop Brett Kavanaugh
     
-*   _Andrew Napolitano_: Trump Knows You Don't Negotiate With Bad Guys in Public
+*   _Roger Kimball_: The DNC Limps Towards a Laughable Midterms Slogan
     
-*   _Andrew Sullivan_: Why Trump Has Such a Soft Spot for Russia
+*   _Leonard Pitts_: Forget Slogan. Dems Need a Pair of Brass, er, Knuckles
     
-*   _Michael Gerson_: Trump's Foreign Policy Smashes Our Defining Ideals
+*   _Dan Gainor_: Liberal Media Loses Its Mind, Throws Anti-Trump Tantrum
     
-*   _Leon Hadar_: The Tragedy of the Neocons
+*   _Brian Stelter_: Time to Ask Sinister Question: What Does Putin Have on Trump?
     
-*   _David Cole_: Ten Questions Brett Kavanaugh Must Answer
+*   _Christopher Gage_: #Walkaway From the Real Fascists
     
-*   _Jay Cost_: By Making Policy, the Supreme Court Has Unhinged Our Politics
+*   _Sen. Cory Booker_: I Went to the U.S.-Mexico Border. What I Saw Horrified Me
     
-*   _Sarah Jones_: The 2018 Midterms Are All About Health Care
+*   _Sen. Mitch McConnell_: Socialists Don't Want Any Borders
     
-*   _Lisa Hagen_: Menendez Faces Tough Challenge in Deep-Blue New Jersey
+*   _Shanita Hubbard_: The Heartbreak of Raising a Black Daughter in a Red State
     
-*   _Rep. Will Hurd_: Trump Is Being Manipulated by Putin. What Should We Do?
+*   _Peder Zane_: The Problem With Shunning Without Knowing
     
-*   _Rep. Andy Biggs_: Trump Correct to Avoid Pointless Cold War With Russia
+*   _Evan Osnos_: GOP Stands By as Trump Upends American Security
     
-*   _Aaron Mak_: The Sierra Club Declared War on Scott Pruitt--and Won
+*   _Carl M. Cannon_: Revenge of the Deep State
     
-*   _Todd Purdum_: The Most Troubling Comments by a President - Ever
+*   _Byron York_: Why Is Mueller Handing Off Key Cases?
     
-*   _Caroline Glick_: If Trump Is an Agent of Putin, What Was Obama?
+*   _Julian Zelizer_: Can the Cohen Tapes Bring Down Trump?
     
-*   _Eugene Robinson_: God Bless the 'Deep State'
+*   _John Hinderaker_: FBI's Flimsy, Pathetic FISA Application for Carter Page
     
-*   _Peter Van Buren_: John Brennan, Melting Down and Covering Up
+*   _Alexander Burns_: A Revolution Is Brewing on the Left. Dems Are Bracing
     
-*   _John Solomon_: Lisa Page Admitted 'No There There' on Russia Probe
+*   _Frank Miele_: Dems Embrace Ayn Rand's Blueprint for America's Decline
     
-*   _Leonid Bershidsky_: Putin Gets Reminder to Turn Attention Back Home
+*   _Brian Greenspun_: Is President Trump a Traitor?
     
-*   _Caitlin Huey-Burns_: Republican Voters Buoy Trump on Russia/Putin
+*   _Steve Cortes_: Russia Mania Is the Birtherism of the Left
     
-*   _Elizabeth Shackelford_: Blue Wave the Only Thing That Can Save the Republic
+*   _Garry Kasparov_: Congress, Stop Trump From Cozying Up to Putin
     
-*   _Laura Hollis_: What Are Democrats Running On?
+*   _Piers Morgan_: Trump May Be Just Plain Right on Russia
     
-*   _Sarah Smarsh_: Liberal Blind Spots Hiding the Truth About 'Trump Country'
+*   _Dirk Kurbjuweit_: How Europe Can Survive the Trump Era: Hibernation
     
-*   _Victor Davis Hanson_: On Populism and the Middle Class
+*   _Haley_: For Gaza Peace, Tell Truth About Hamas
     
 
 *   Previous
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve45
+    *   Disapprove52Disapprove +7
+*   2018 Generic Congressional VoteNBC News/Wall St. Jrnl
+    *   Democrats49
+    *   Republicans43Democrats +6
 *   Oregon Governor - Buehler vs. BrownGravis
     *   Brown45
     *   Buehler45Tie
 *   Georgia Governor - Republican Primary Run-OffWXIA-TV/SurveyUSA
     *   Kemp40
     *   Cagle34Kemp +6
-*   Georgia Governor - Kemp vs. AbramsWXIA-TV/SurveyUSA
-    *   Kemp46
-    *   Abrams44Kemp +2
-*   Georgia Governor - Cagle vs. AbramsWXIA-TV/SurveyUSA
-    *   Cagle45
-    *   Abrams43Cagle +2
 
 More Latest Polls In The News
 
+*   Lindsey Graham: Now We Know Carter Page FISA Warrant Was Based On "Garbage" Steele Dossier
+*   Schiff: Can't Deny That Trump "Acts Like He Is Compromised," Could Have Laundered Money For Russia
+*   Gowdy: If There Was Evidence That President Trump Committed Any Crime, "Adam Schiff Would Have Leaked It"
+*   Hillary Clinton: Putin/Trump Connection A "Great Mystery," Next Time Russia May Attack Voting Machines
 *   Hemingway: If You Actually Care About Russian Meddling You Should Have Questions For Obama
-*   McFaul: Trump Is Giving "Moral Equivalency" To "Cockamamy" Russian Accusations
-*   George Will: Trump "Syntactically Challenged". A "Sad, Embarrassing Wreck Of A Man"
-*   Nunes: FBI/DOJ Trying To "Wait Out" Republican Congress, "Banking On" Dems Dropping Case
-*   Clapper: "Badge Of Honor" When Trump Attacks Me, John Brennan, Hayden &. Comey. We're Private Citizens
 
 *   Politics
 *   Policy
