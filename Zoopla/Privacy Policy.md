@@ -4,7 +4,7 @@ Zoopla Limited ("**Zoopla**", **we** or **us**) is committed to protecting and r
 
 This policy explains how we use any personal information that you provide to us through our website, app or call-centres. Please read it carefully. We may change this policy. We will post any changes on this page, so please check back frequently.
 
-For the purposes of data protection law, the controller is Zoopla Limited of The Cooperage, 5 Copper Row, London SE1 2LH. Zoopla is part of the ZPG Plc group of companies, comprising ZPG Plc and its subsidiaries (the “**ZPG Companies**”).
+For the purposes of data protection law, the controller is Zoopla Limited of The Cooperage, 5 Copper Row, London SE1 2LH. Zoopla is part of the ZPG Limited group of companies, comprising ZPG Limited and its subsidiaries (the “**ZPG Companies**”).
 
 Information we collect from you
 
