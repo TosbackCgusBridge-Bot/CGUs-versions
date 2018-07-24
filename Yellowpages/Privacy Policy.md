@@ -12,6 +12,7 @@
 *   About
     *   AT&T Profile
     *   Leadership Team
+    *   Values
     *   Diversity &. Inclusion
 *   Investors
     *   Investor Profile
@@ -39,7 +40,7 @@
     International
     *   AT&T International Profile
     *   Mexico
-    *   Latin America &. Caribbean
+    *   Vrio
 *   AT&T  
     advertising &. analytics
     *   AT&T advertising &. analytics Profile
@@ -49,7 +50,7 @@
     *   It Can Wait
     *   Aspire
     *   AT&T Mexico
-    *   DIRECTV Latin America &. Caribbean
+    *   Vrio
     *   Sustainability Reporting
 *   Careers
     
@@ -83,7 +84,7 @@ About Our Privacy Policy
 Whenever you do something like buy one of our products, watch a show or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the actual policy is written in an easy to understand “Frequently Asked Questions” (FAQ) format. We want to simplify this explanation, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.  
 
   
-**Effective May 2, 2017**
+**Revised July 21, 2018**
 
 View Full Privacy Policy
 
