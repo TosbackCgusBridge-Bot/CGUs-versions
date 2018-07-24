@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Desktop team report from GUADEC 2018 ›
 *   PowerShell launches as a snap ›
 *   Snaps Add Flexibility with Tracks ›
 *   IoT Security at Scale: Managing end-to-end security ›
 *   Perfectly Formed Snaps Challenge ›
-*   Get productive on the Linux desktop with 7 essential apps ›
