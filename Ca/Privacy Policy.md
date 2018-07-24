@@ -1,5 +1,5 @@
 Skip to Main Content × Saving your location allows us to provide you with more relevant information. Update Location  
-Clear Location × Default High Contrast Reset Increase Font SizeFont Decrease Font SizeFont Secure
+Clear Location × Default High Contrast Reset Increase Font SizeFont Decrease Font SizeFont Secure × ALERT!Due to high temperatures in California a Flex Alert has been issued for Tuesday and Wednesday, July 24 &. 25. Take Action Now (PDF) Read More
 
 *   Home
 *   Mobile Gallery
