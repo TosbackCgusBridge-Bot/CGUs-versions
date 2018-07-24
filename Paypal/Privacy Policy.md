@@ -25,17 +25,18 @@ Learn how PayPal makes it easy to shop and send money to family and friends.
 
 \+ Personal + Personal
 
-Shop, pay bills and manage your finances, all from the tips of your fingers.
+Send money, pay on your terms and shop easily all with PayPal.
+
+Send money to friends and family or move funds from one account to another.\*
+
+Expand your payment options with our credit, debit, prepaid cards &. PayPal Credit.\*\*
 
 Check out faster, at any of the millions of sites PayPal is accepted.
 
-Expand your payment options with our credit, debit, prepaid cards &. PayPal Credit.\*
-
-Stay on top of your financial activity with the PayPal app.
-
 Sign Up for Free
 
-\*Subject to credit approval.
+\*Sending &. receiving funds requires a PayPal account.  
+\*\*Subject to credit approval.
 
 Business
 
@@ -98,4 +99,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=79d889f05de13&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&csci=123429bfa5954396a0dc0e6f2c755511&comp=mppnodeweb&tsrce=mppnodeweb&xe=3945&xt=9427&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=837cfa9488ce2&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&csci=d30292fa20c94ded9f9e9f6027f186f5&comp=mppnodeweb&tsrce=mppnodeweb&xe=3945&xt=9426&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
