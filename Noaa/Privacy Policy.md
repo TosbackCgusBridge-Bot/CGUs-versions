@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms June 2018 was 5th warmest on record for the globe Polar sea ice coverage remains smaller than normal AROUND NOAA // Tracking lightning from space: How satellites keep you safe \[EXT\] The new storm chasers? Unmanned ocean gliders go deep to help improve hurricane forecasts Scientists recover possible fragments of meteorite that landed in marine sanctuary
+Enter Search Terms It's that time again: 12 shark facts that might surprise you Psyched for Shark Week? We've got the science behind these oft-misunderstood ocean predators AROUND NOAA // June 2018 was 5th warmest on record for the globe Tracking lightning from space: How satellites keep you safe \[EXT\] The new storm chasers? Unmanned ocean gliders go deep to help improve hurricane forecasts
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+Blue shark (iStock)
