@@ -56,7 +56,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 The Extraordinary Life of Martha Gellhorn 2 Vacation Inspiration: 10 Places to Go in August 3 Preppy Cocktails from A-Z 4 11 of Europe's Best Nude Beaches 5 The Weekly Covet: Best Weekender Bags Privacy Policy Dec 1, 2014
+Today's Top Stories 1 How Prince George Spent His Fifth Birthday 2 The Extraordinary Life of Martha Gellhorn 3 Preppy Cocktails from A-Z 4 Vacation Inspiration: 10 Places to Go in August 5 What to Pack For a Trip to Montauk Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
