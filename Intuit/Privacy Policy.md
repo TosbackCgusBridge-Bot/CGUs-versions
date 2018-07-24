@@ -1,4 +1,8 @@
-Loading.. SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
+Loading.. DAY 1 OF COUPON CODE FORYOU9 ENDS IN
+
+\*offer ends 7/25/18
+
+Days 0 0 0 0 hours 4 4 0 0 mins 5 5 9 8 secs SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
 
 *   $35.99 sale
     
@@ -6,24 +10,21 @@ Loading.. SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
 *   $47.99 sale
     
     was $64 JanSport® Big Student Backpack(81)Add To Cart
-*   $54.99 sale
-    
-    was $74 JanSport® Digital Student Backpack(3)Add To Cart
 *   $39.99 sale
     
     was $50 Nike Brasilia XL BackpackAdd To Cart
+*   $19.99 sale
+    
+    was $40 Fuel Backpack &. Lunch Bag ComboAdd To Cart
 *   $54.99 sale
     
     was $74 JanSport® Cool Student Backpack(24)Add To Cart
-*   $14.99 sale
+*   $54.99 sale
     
-    was $40 Fuel Backpack &. Lunch Bag ComboAdd To Cart
-*   $14.99 sale
+    was $74 JanSport® Digital Student Backpack(3)Add To Cart
+*   $19.99 sale
     
     was $40 Fuel Active Backpack(1)Add To Cart
-*   $24.99 sale
-    
-    was $50 Minecraft BackpackAdd To Cart
 
 Shop and Save at JCPenney
 
@@ -91,7 +92,7 @@ Connect With Us
 *   Facebook
 *   Twitter
 *   Pinterest
-*   Google Plus
+*   Instagram
 *   Youtube
 *   JCPenney Blog
 
