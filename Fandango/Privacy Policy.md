@@ -20,31 +20,25 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     Opening This Week = Limited Release
     
-    *   The Equalizer 2
-    *   Mamma Mia! Here We Go Again
-    *   Unfriended: Dark Web
-    *   Blindspotting
-    *   Damascus Cover
-    *   Far From the Tree
-    *   Generation Wealth
-    *   McQueen
-    *   Teefa in Trouble
-    *   The Third Murder
-    *   See All Opening This Week
-    
-    Pre Sales Tickets
-    
     *   Mission: Impossible - Fallout
+    *   Teen Titans Go! To the Movies
+    *   Blindspotting
+    *   Detective Dee: The Four Heavenly Kings
+    *   Hot Summer Nights
+    *   Puzzle (2018)
+    *   Scotty and the Secret History of Hollywood
+    *   See All Opening This Week
     
     Coming Soon
     
-    *   Teen Titans Go! To the Movies
     *   Christopher Robin
     *   The Darkest Minds
+    *   Death of a Nation
     *   Searching (2018)
     *   The Spy Who Dumped Me
     *   Dog Days (2018)
     *   The Meg
+    *   Slender Man
     *   Alpha
     *   See All Coming Soon
     
@@ -74,8 +68,8 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   DC's Joker Origin Movie Gets a Title and a Release Date. Here's Everything We Know Read More
-    *   How ‘Aquaman’ Is Unlike Any Superhero Film, From Its Blue-Collar Antihero to Underwater Gladiator Fights Read More
-    *   Musical 'Cats' to Star Jennifer Hudson, Taylor Swift and Ian McKellen. Here's Everything We Know Read More
+    *   Exclusive: 'Aquaman' Director James Wan Explains the Film's First Trailer Read More
+    *   New 'Alita: Battle Angel' Trailer Promises an Action-Packed Epic Sci-fi Movie. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -332,9 +326,9 @@ Offers
     
     Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
     
-*   Earn 2X VIP+ POINTS with 'Skyscraper' Ticket Purchase
+*   50 States 50 Essential Movies
     
-    Earn 2X VIP+ POINTS with your 'Skyscraper' ticket purchase. (Yep, every 2 tickets = $6 reward on us!) BUY TICKETS
+    Can you guess the most iconic movie set and filmed in YOUR state? See which ones were hand-picked by Rotten Tomatoes. WATCH NOW
     
 
 New + Coming soon
@@ -382,4 +376,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
