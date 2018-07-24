@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Dan McLaughlin_: Democratic Desperation On Kavanaugh Is Showing
+*   _E.J. Dionne_: We Always Knew Trump Was a Dangerous Scoundrel
     
-*   _Gov. Andrew Cuomo_: Why the Senate Must Stop Brett Kavanaugh
+*   _Andrew McCarthy_: It Turns Out I Was Wrong--The FBI Went Off the Reservation
     
-*   _Roger Kimball_: The DNC Limps Towards a Laughable Midterms Slogan
+*   _Charlie Savage_: FISA Application Shows Nunes Memo's Shaky Foundation
     
-*   _Leonard Pitts_: Forget Slogan. Dems Need a Pair of Brass, er, Knuckles
+*   _Mark Penn_: Carter Page Warrant Reflects Attack on Our Civil Liberties
     
-*   _Dan Gainor_: Liberal Media Loses Its Mind, Throws Anti-Trump Tantrum
+*   _Bill Scher_: Republicans Have an Alger Hiss Problem Named Mariia
     
-*   _Brian Stelter_: Time to Ask Sinister Question: What Does Putin Have on Trump?
+*   _James &. Rep. McMorris-Rodgers_: Benefits of Tax Cuts Just Getting Started
     
-*   _Christopher Gage_: #Walkaway From the Real Fascists
+*   _Jason Furman_: Nationalism, Immigration, and Economic Success
     
-*   _Sen. Cory Booker_: I Went to the U.S.-Mexico Border. What I Saw Horrified Me
+*   _Thomas Kaplan_: A High Court Vote Is Just One of Heitkamp's Headaches in ND
     
-*   _Sen. Mitch McConnell_: Socialists Don't Want Any Borders
+*   _Kurt Schlichter_: Why Liberals Will Lose the Social Justice War They Started
     
-*   _Shanita Hubbard_: The Heartbreak of Raising a Black Daughter in a Red State
+*   _Doreen St. Felix_: Videos That Turn White Privilege Into Mockable Memes
     
-*   _Peder Zane_: The Problem With Shunning Without Knowing
+*   _Florian Schwab_: Peter Thiel on Herd Behavior, Investment, and Trump
     
-*   _Evan Osnos_: GOP Stands By as Trump Upends American Security
+*   _Byron York_: FISA Warrant Application Supports Nunes Memo
     
-*   _Carl M. Cannon_: Revenge of the Deep State
+*   _Megan Garber_: The World Burns. Sarah Sanders Says This Is Fine.
     
-*   _Byron York_: Why Is Mueller Handing Off Key Cases?
+*   _Michael Ledeen_: Why Are Dems, Spooks Suddenly Ferociously Anti-Putin?
     
-*   _Julian Zelizer_: Can the Cohen Tapes Bring Down Trump?
+*   _Melinda Henneberger_: Trump Betrayed the U.S. in Helsinki
     
-*   _John Hinderaker_: FBI's Flimsy, Pathetic FISA Application for Carter Page
+*   _Geoffrey Roberts_: Working Constructively With Russia Is Not a Betrayal
     
-*   _Alexander Burns_: A Revolution Is Brewing on the Left. Dems Are Bracing
+*   _Maria Bartiromo_: Time to Admit Obama Admin Spied on the GOP Nominee
     
-*   _Frank Miele_: Dems Embrace Ayn Rand's Blueprint for America's Decline
+*   _Virginia Heffernan_: Cohen Tapes Might Be Kompromat We've Been Waiting For
     
-*   _Brian Greenspun_: Is President Trump a Traitor?
+*   _Tod Lindberg_: Behind the Unique Success of the Federalist Society
     
-*   _Steve Cortes_: Russia Mania Is the Birtherism of the Left
+*   _Josh Kraushaar_: Republicans in Gerrymandered Districts Face Tough Races
     
-*   _Garry Kasparov_: Congress, Stop Trump From Cozying Up to Putin
+*   _Heather Wilhelm_: The Democrats' Extremely Odd Bargaining Tactics
     
-*   _Piers Morgan_: Trump May Be Just Plain Right on Russia
+*   _Albert Hunt_: This Democrat Is Running as the Tough Guy in Virginia
     
-*   _Dirk Kurbjuweit_: How Europe Can Survive the Trump Era: Hibernation
+*   _Salena Zito_: Is Scalise the Most Powerful Man in Congress?
     
-*   _Haley_: For Gaza Peace, Tell Truth About Hamas
+*   _Victor Davis Hanson_: The Lose-Lose Dilemma for Liberals
     
 
 *   Previous
@@ -226,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Warns Iran's Rouhani to 'Never, Ever Threaten' U.S.
+*   Sanders, Ocasio-Cortez Rally for Dem Candidates in Kansas
+*   Gowdy: If Trump Colluded, Schiff Would Have Leaked It
 *   Republican Voters Buoy Trump on Russia/Putin
 *   W.Va. Poll: Vote for Kavanaugh Boosts Manchin's Chances
-*   Republican Lawmaker Confronts Twitter Over Rationales for Censoring Content
-*   Breaking With Tradition, Trump Criticizes the Fed for Rate Hikes
-*   McConnell Withdraws Trump Judicial Pick Minutes Before Vote
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,25 +247,32 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve45
-    *   Disapprove52Disapprove +7
-*   2018 Generic Congressional VoteNBC News/Wall St. Jrnl
-    *   Democrats49
-    *   Republicans43Democrats +6
-*   Oregon Governor - Buehler vs. BrownGravis
-    *   Brown45
-    *   Buehler45Tie
-*   Georgia Governor - Republican Primary Run-OffWXIA-TV/SurveyUSA
-    *   Kemp40
-    *   Cagle34Kemp +6
+*   Georgia Governor - Republican Primary Run-OffTrafalgar Group (R)
+    *   Kemp59
+    *   Cagle41Kemp +18
+*   Tennessee Governor - Republican PrimaryJMC Analytics
+    *   Lee26
+    *   Boyd20
+    *   Black19
+    *   Harwell16Lee +6
+*   Michigan Governor - Republican PrimaryEmerson
+    *   Schuette35
+    *   Calley13
+    *   Colbeck7
+    *   Hines9Schuette +22
+*   Michigan Governor - Democratic PrimaryEmerson
+    *   Whitmer39
+    *   Thanedar17
+    *   El-Sayed12
+    *   Cobbs
+    *   FiegerWhitmer +22
 
 More Latest Polls In The News
 
+*   Rand Paul on Revoking Brennan's Clearance: "Real Danger" He "Might Inadvertently Reveal Classified Information"
+*   James Clapper on Possible Clearance Removal: Trump Is "Petty," This Is "Retribution For Speaking Out"
 *   Lindsey Graham: Now We Know Carter Page FISA Warrant Was Based On "Garbage" Steele Dossier
-*   Schiff: Can't Deny That Trump "Acts Like He Is Compromised," Could Have Laundered Money For Russia
 *   Gowdy: If There Was Evidence That President Trump Committed Any Crime, "Adam Schiff Would Have Leaked It"
-*   Hillary Clinton: Putin/Trump Connection A "Great Mystery," Next Time Russia May Attack Voting Machines
 *   Hemingway: If You Actually Care About Russian Meddling You Should Have Questions For Obama
 
 *   Politics
