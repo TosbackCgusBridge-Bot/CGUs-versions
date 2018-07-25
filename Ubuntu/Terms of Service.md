@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 24 July 2018 ›
+*   Graphical Abstinence, Living the Terminal Life ›
 *   Desktop team report from GUADEC 2018 ›
 *   PowerShell launches as a snap ›
 *   Snaps Add Flexibility with Tracks ›
-*   IoT Security at Scale: Managing end-to-end security ›
-*   Perfectly Formed Snaps Challenge ›
