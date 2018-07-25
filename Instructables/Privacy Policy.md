@@ -181,16 +181,14 @@ We collect information about the applications that you use and how you use them.
 
 This information includes:
 
-*   System Information and Usage Data  
-      
+*   System Information and Usage Data
     
     We collect device-specific information, like unique device identifiers, operating system, and the type of device you use.
     
     We collect information about how you use our applications. This includes your product ID, license information, which applications you use and for how long, your city and country from your IP address, and information about your browser.
     
 
-*   Social Networking Data  
-      
+*   Social Networking Data
     
     We have pages on social networking platforms, such as Facebook, LinkedIn, or Twitter, where you can visit and communicate with us.
     
@@ -203,20 +201,17 @@ This information includes:
     When you connect to a social networking service on a device that is also used by others, these other users are able to see information that is stored or displayed in connection with your profile on the social networking service page.
     
 
-*   Error data  
-      
+*   Error data
     
     We collect and track data on technical errors that may occur when you use our applications, if you choose to send the relevant report to us in each case. Before the report is sent to us, you will be told what information will be collected and how it will be sent to us.
     
 
-*   Automatic updates  
-      
+*   Automatic updates
     
     We collect information that may identify you to your system administrator in connection with the automatic update process, to help your administrator determine what updates you need. This information includes your user login name, and your computer’s name or description.
     
 
-*   Cookies and similar technologies  
-      
+*   Cookies and similar technologies
     
     Autodesk uses cookies (small text files stored by your web browser when you use websites) and related technologies, such as pixels and beacons (“Cookies”) to collect and store information when you visit our websites and use our applications.
     
@@ -356,12 +351,7 @@ privacy.questions@autodesk.com
 
 By postal mail to:
 
-> Privacy Questions  
-> Autodesk, Inc.  
-> The Landmark @ One Market  
-> Suite 500  
-> San Francisco, CA 94105  
-> U.S.A.  
+> Privacy Questions Autodesk, Inc. The Landmark @ One Market Suite 500 San Francisco, CA 94105 U.S.A.
 
 **Data protection officer**
 
