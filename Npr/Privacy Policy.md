@@ -573,7 +573,7 @@ Get Involved
 
 *   Terms of Use
 *   Privacy
-*   My Privacy Choices
+*   Your Privacy Choices
 *   Text Only
 *   © 2018 npr
 
