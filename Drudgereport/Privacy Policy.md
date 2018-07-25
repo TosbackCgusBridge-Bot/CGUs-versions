@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 My week on Twitter : 1 Mention, 1.16K Mention Reach, 1 Like, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/DYxm…
 
-About 6 days ago
+Last week
 
 Getting In On The 2020 Election Campaigns. Here's What Publishers Need to Know! bit.ly/2N4mkWe via @adexchanger @Requidan
 
