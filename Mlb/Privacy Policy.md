@@ -49,7 +49,6 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Must C
     *   Chatting Cage
     *   Carry The Freight
-    *   Papa Slam
     *   This Date in History
     *   Pitching Matchups
     *   First Pitch
