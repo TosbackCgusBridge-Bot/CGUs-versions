@@ -20,7 +20,7 @@ CenturyLink abides. About Us Check For Deals At My Home About Us: Home Page Comp
 
 CenturyLink's Acceptable Use Policy
 
-Effective July 20, 2018
+Effective July 23, 2018
 
 This acceptable use policy ("AUP") defines acceptable practices relating to the use of CenturyLink’s network, websites, systems, facilities, products and services (collectively, the "Services") by CenturyLink customers and by users that have gained access to the Services through customer accounts (collectively, “Users”).  The Services must be used in a manner that is consistent with the intended purpose of the Services and the terms of the applicable agreement with CenturyLink.  By using the Services, Users consent to be bound by the terms of this AUP.  For purposes of this AUP, “CenturyLink” includes CenturyLink Communications, LLC and all other affiliates, including direct and indirect subsidiaries of CenturyLink, Inc.
 
@@ -51,28 +51,7 @@ This acceptable use policy ("AUP") defines acceptable practices relating to the 
 
 **Responsibility for Content.**  CenturyLink takes no responsibility for any material created or accessible on or through the Services and will not exercise any editorial control over such material.  CenturyLink is not obligated to monitor such material, but reserves the right to do so.
 
-Violations of this AUP may be reported as follows:
-
-**CenturyLink Affiliate Designations:**
-
-**Report to:**
-
-Qwest customers prior to April 1, 2011 or are new customers in Qwest’s prior service territories
-
-abuse@qwest.net
-
-Savvis customers prior to July 15, 2001 or are new CenturyLink Technology Solutions customers
-
-abuse@ctl.io
-
-CenturyLink customers prior to April 1, 2011 or are new customers in CenturyLink's prior CenturyTel or Embarq service territories
-
-abuse@centurylinkservices.net
-
-Level 3 customers prior to September 12, 2017 or are new customers in Level 3’s service territories
-
-abuse@level3.com  
-Live attacks may be directed to the Customer Care Center 877-453-8353.
+Violations of this AUP may be reported to: abuse@centurylinkservices.net.
 
 **LEGAL**
 
