@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _E.J. Dionne_: We Always Knew Trump Was a Dangerous Scoundrel
+*   _Kevin O'Leary_: Shark's Advice: Ignore the Trump Circus, Focus on the Policy
     
-*   _Andrew McCarthy_: It Turns Out I Was Wrong--The FBI Went Off the Reservation
+*   _Robert Kuttner_: Yes, Dems Need to Run Left - on Economics
     
-*   _Charlie Savage_: FISA Application Shows Nunes Memo's Shaky Foundation
+*   _Stephen Moore_: The Liberal War on Work
     
-*   _Mark Penn_: Carter Page Warrant Reflects Attack on Our Civil Liberties
+*   _Colbert King_: Trump's Laughable Targeting of Security Clearances
     
-*   _Bill Scher_: Republicans Have an Alger Hiss Problem Named Mariia
+*   _Daniel McCarthy_: Comrade Brennan's Security Clearance Benefits
     
-*   _James &. Rep. McMorris-Rodgers_: Benefits of Tax Cuts Just Getting Started
+*   _Albert Hunt_: Yes, Russian Election Sabotage Helped Trump Win
     
-*   _Jason Furman_: Nationalism, Immigration, and Economic Success
+*   _Roger L. Simon_: The FBI Goes Full Nixon With FISA Report
     
-*   _Thomas Kaplan_: A High Court Vote Is Just One of Heitkamp's Headaches in ND
+*   _Richard Cohen_: Trump's Appeal Is Saying What His Supporters Think
     
-*   _Kurt Schlichter_: Why Liberals Will Lose the Social Justice War They Started
+*   _Ned Ryun_: None Dared Call It Treason - When It Was a Democrat
     
-*   _Doreen St. Felix_: Videos That Turn White Privilege Into Mockable Memes
+*   _Doug Bock Clark_: The Untold Story of Otto Warmbier, American Hostage
     
-*   _Florian Schwab_: Peter Thiel on Herd Behavior, Investment, and Trump
+*   _Jeffrey Sachs_: Trump Is Taking America Down the Path to Tyranny
     
-*   _Byron York_: FISA Warrant Application Supports Nunes Memo
+*   _Dennis Prager_: If Truth Mattered to the Hysterical Media
     
-*   _Megan Garber_: The World Burns. Sarah Sanders Says This Is Fine.
+*   _Niall Stanage_: Democrats Grapple With Trump's Resilience
     
-*   _Michael Ledeen_: Why Are Dems, Spooks Suddenly Ferociously Anti-Putin?
+*   _Eugene Robinson_: The Only Way to Constrain This Lunatic Administration: Vote
     
-*   _Melinda Henneberger_: Trump Betrayed the U.S. in Helsinki
+*   _Henry Olsen_: Trump Outrage: How Do Liberals Keep Getting It So Wrong?
     
-*   _Geoffrey Roberts_: Working Constructively With Russia Is Not a Betrayal
+*   _Rosie Gray_: Muzzling the Talking Heads of the Deep State
     
-*   _Maria Bartiromo_: Time to Admit Obama Admin Spied on the GOP Nominee
+*   _Secretary of State Mike Pompeo_: Persecution in Iran, China Must End Now
     
-*   _Virginia Heffernan_: Cohen Tapes Might Be Kompromat We've Been Waiting For
+*   _John Feffer_: Donald Trump's Flight 93 Doctrine
     
-*   _Tod Lindberg_: Behind the Unique Success of the Federalist Society
+*   _Bill Gertz_: U.S. 'Benign China' Policy Ending
     
-*   _Josh Kraushaar_: Republicans in Gerrymandered Districts Face Tough Races
+*   _Sen. Patrick Leahy_: Uncover the Truth About Brett Kavanaugh
     
-*   _Heather Wilhelm_: The Democrats' Extremely Odd Bargaining Tactics
+*   _Susan Ferrechio_: Kavanaugh Comes Knocking But Dems Won't Meet
     
-*   _Albert Hunt_: This Democrat Is Running as the Tough Guy in Virginia
+*   _Adele Malpass_: Liberal Dems Push Party Toward Medicare for All
     
-*   _Salena Zito_: Is Scalise the Most Powerful Man in Congress?
+*   _Michelle Goldberg_: Democrats Are Moving Left. Don't Panic.
     
-*   _Victor Davis Hanson_: The Lose-Lose Dilemma for Liberals
+*   _William Murchison_: The Socialist Surge That's Not Coming
     
 
 *   Previous
@@ -228,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Warns Iran's Rouhani to 'Never, Ever Threaten' U.S.
+*   Trump Mulls Revoking Security Clearances From 6 Ex-Officials
+*   Georgia Runoff Puts Trump's Clout on the Line--Again
+*   Clapper: Trump Is "Petty," This Is "Retribution for Speaking Out"
+*   Trump Warns Iran's Rouhani to "Never, Ever Threaten" U.S.
 *   Sanders, Ocasio-Cortez Rally for Dem Candidates in Kansas
-*   Gowdy: If Trump Colluded, Schiff Would Have Leaked It
-*   Republican Voters Buoy Trump on Russia/Putin
-*   W.Va. Poll: Vote for Kavanaugh Boosts Manchin's Chances
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,33 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Pennsylvania 17th District - Rothfus vs. LambMonmouth
+    *   Lamb53
+    *   Rothfus40Lamb +13
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve38
+    *   Disapprove58Disapprove +20
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
 *   Georgia Governor - Republican Primary Run-OffTrafalgar Group (R)
     *   Kemp59
     *   Cagle41Kemp +18
-*   Tennessee Governor - Republican PrimaryJMC Analytics
-    *   Lee26
-    *   Boyd20
-    *   Black19
-    *   Harwell16Lee +6
-*   Michigan Governor - Republican PrimaryEmerson
-    *   Schuette35
-    *   Calley13
-    *   Colbeck7
-    *   Hines9Schuette +22
-*   Michigan Governor - Democratic PrimaryEmerson
-    *   Whitmer39
-    *   Thanedar17
-    *   El-Sayed12
-    *   Cobbs
-    *   FiegerWhitmer +22
 
 More Latest Polls In The News
 
-*   Rand Paul on Revoking Brennan's Clearance: "Real Danger" He "Might Inadvertently Reveal Classified Information"
-*   James Clapper on Possible Clearance Removal: Trump Is "Petty," This Is "Retribution For Speaking Out"
-*   Lindsey Graham: Now We Know Carter Page FISA Warrant Was Based On "Garbage" Steele Dossier
-*   Gowdy: If There Was Evidence That President Trump Committed Any Crime, "Adam Schiff Would Have Leaked It"
-*   Hemingway: If You Actually Care About Russian Meddling You Should Have Questions For Obama
+*   Cohen Attorney Lanny Davis Releases Trump Tape To CNN: Someday, Cohen Will Speak Truth On Trump
+*   Giuliani: Trump Said "Don't Pay With Cash" On Cohen Tape, "The President Is Not An Idiot"
+*   DHS Kirstjen Nielsen: Anyone That Crosses Border Illegally Should Face Consequences For Illegal Entry
+*   Rep. Adam Schiff: Never Thought I Would See A President With An "Enemies List" In My Lifetime
+*   Mass. Independent Senate Candidate Shiva Ayyadurai Punched In Mouth By Elizabeth Warren Supporter
 
 *   Politics
 *   Policy
