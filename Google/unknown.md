@@ -14,9 +14,9 @@ _"Documentation"_ means any accompanying documentation made available to You by 
 
 _"GATC"_ means the Google Analytics Tracking Code, which is installed on a Property for the purpose of collecting Customer Data, together with any fixes, updates and upgrades provided to You.
 
-_"GA 360 Suite Home"_ means the user interface through which You can access certain Google Analytics 360 suite-level functionality.
-
 _"Hit"_ means the base unit that the Google Analytics system processes. A Hit may be a call to the Google Analytics system by various libraries, including, Javascript (e.g., analytics.js), Silverlight, Flash, and Mobile. A Hit may currently be a page view, a transaction, item, or event, social interaction, or user timing. Hits may also be delivered to the Google Analytics system without using one of the various libraries by other Google Analytics-supported protocols and mechanisms the Service makes available to You.
+
+_"Platform Home"_ means the user interface through which You can access certain Google Marketing Platform-level functionality.
 
 _"Processing Software"_ means the Google Analytics server-side software and any upgrades, which analyzes the Customer Data and generates the Reports.
 
@@ -64,9 +64,9 @@ You will not and will not assist or permit any third party to, pass information 
 
 You must not circumvent any privacy features (e.g., an opt-out) that are part of the Service. You will comply with all applicable Google Analytics policies located at www.google.com/analytics/policies/ (or such other URL as Google may provide) as modified from time to time (the "Google Analytics Policies").
 
-You may participate in an integrated version of Google Analytics and certain DoubleClick and Google advertising services ("Google Analytics Advertising Features"). If You use Google Analytics Advertising Features, You will adhere to the Google Analytics Advertising Features policy (available at support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409) Your access to and use of any DoubleClick or Google advertising service is subject to the applicable terms between You and Google regarding that service.
+You may participate in an integrated version of Google Analytics and certain Google advertising services ("Google Analytics Advertising Features"). If You use Google Analytics Advertising Features, You will adhere to the Google Analytics Advertising Features policy (available at support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409) Your access to and use of any Google advertising service is subject to the applicable terms between You and Google regarding that service.
 
-If You use the GA 360 Suite Home, Your use of the GA 360 Suite Home is subject to the Google Analytics 360 Suite Home Additional Terms (or as subsequently re-named) available at https://360suite.google.com/terms (or such other URL as Google may provide) as modified from time to time (the "Suite Home Terms").
+If You use the Platform Home, Your use of the Platform Home is subject to the Platform Home Additional Terms (or as subsequently re-named) available at https://support.google.com/marketingplatform/answer/9047313 (or such other URL as Google may provide) as modified from time to time (the "Platform Home Terms").
 
 8\. Indemnification.
 
@@ -104,4 +104,4 @@ Google may modify these terms or any additional terms that apply to the Service 
 
 Google will be excused from performance in this Agreement to the extent that performance is prevented, delayed or obstructed by causes beyond its reasonable control. This Agreement (including any amendment agreed upon by the parties in writing) represents the complete agreement between You and Google concerning its subject matter, and supersedes all prior agreements and representations between the parties. If any provision of this Agreement is held to be unenforceable for any reason, such provision will be reformed to the extent necessary to make it enforceable to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this Agreement will continue in full force and effect. This Agreement will be governed by and construed under the laws of the state of California without reference to its conflict of law principles. In the event of any conflicts between foreign law, rules, and regulations, and California law, rules, and regulations, California law, rules and regulations will prevail and govern. Each party agrees to submit to the exclusive and personal jurisdiction of the courts located in Santa Clara County, California. The United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act do not apply to this Agreement. The Software is controlled by U.S. Export Regulations, and it may be not be exported to or used by embargoed countries or individuals. Any notices to Google must be sent to: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, with a copy to Legal Department, via first class or air mail or overnight courier, and are deemed given upon receipt. A waiver of any default is not a waiver of any subsequent default. You may not assign or otherwise transfer any of Your rights in this Agreement without Google's prior written consent, and any such attempt is void. The relationship between Google and You is not one of a legal partnership relationship, but is one of independent contractors. This Agreement will be binding upon and inure to the benefit of the respective successors and assigns of the parties hereto. The following sections of this Agreement will survive any termination thereof: 1, 4, 5, 6 (except the last two sentences), 7, 8, 9, 10, 11, 12, 14, and 16.
 
-Last Updated May 30, 2018
+Last Updated July 24, 2018
