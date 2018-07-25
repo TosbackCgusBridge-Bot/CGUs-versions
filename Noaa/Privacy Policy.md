@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms It's that time again: 12 shark facts that might surprise you Psyched for Shark Week? We've got the science behind these oft-misunderstood ocean predators AROUND NOAA // June 2018 was 5th warmest on record for the globe Tracking lightning from space: How satellites keep you safe \[EXT\] The new storm chasers? Unmanned ocean gliders go deep to help improve hurricane forecasts
+Enter Search Terms It's that time again: 12 shark facts that might surprise you Psyched for Shark Week? We've got the science behind these oft-misunderstood ocean predators AROUND NOAA // Where the sharks are: What we found cruising the Gulf of Mexico, in photos \[EXT\] June 2018 was 5th warmest on record for the globe Tracking lightning from space: How satellites keep you safe \[EXT\]
 
 *   About our agency
 *   News and features
