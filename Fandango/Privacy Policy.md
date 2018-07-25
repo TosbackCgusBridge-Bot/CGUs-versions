@@ -67,9 +67,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   DC's Joker Origin Movie Gets a Title and a Release Date. Here's Everything We Know Read More
+    *   Robert De Niro Joins DC's Standalone 'Joker' Movie. Here's Everything We Know Read More
     *   Exclusive: 'Aquaman' Director James Wan Explains the Film's First Trailer Read More
-    *   New 'Alita: Battle Angel' Trailer Promises an Action-Packed Epic Sci-fi Movie. Here's Everything We Know Read More
+    *   'Deadpool 2' Director Touted for 'Enter the Dragon' Remake. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -376,4 +376,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
