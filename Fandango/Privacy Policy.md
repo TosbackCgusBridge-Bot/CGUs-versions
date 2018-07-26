@@ -69,7 +69,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     *   Robert De Niro Joins DC's Standalone 'Joker' Movie. Here's Everything We Know Read More
     *   Exclusive: 'Aquaman' Director James Wan Explains the Film's First Trailer Read More
-    *   'Deadpool 2' Director Touted for 'Enter the Dragon' Remake. Here's Everything We Know Read More
+    *   Coen Brothers Transform Their Western Series Into a Movie. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -318,13 +318,13 @@ Offers
     
     EARN 150 VIP+ POINTS FOR EVERY TICKET YOU BUY. 600 VIP+ Points unlocks a $6 reward. SEE DETAILS
     
-*   'Mamma Mia! Here We Go Again' Gift With Purchase
-    
-    Buy tickets to 'Mamma Mia! Here We Go Again' and own the first movie for just $4.99! BUY TICKETS
-    
 *   'Mission: Impossible - Fallout' Gift With Purchase
     
     Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
+    
+*   'Mamma Mia! Here We Go Again' Gift With Purchase
+    
+    Buy tickets to 'Mamma Mia! Here We Go Again' and own the first movie for just $4.99! BUY TICKETS
     
 *   50 States 50 Essential Movies
     
