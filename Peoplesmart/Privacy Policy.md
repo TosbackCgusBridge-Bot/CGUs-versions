@@ -20,7 +20,7 @@ This privacy policy only applies to information collected by this website, which
 
 If you want to submit an opt-out request to remove yourself from the search results of this and other people search sites we operate, please click here. We will try our best to honor it.
 
-If you choose to opt out of search results, that choice may affect the visibility of the relevant information on our entire network of sites, which includes this website, Identity.com, and other affiliated properties. We try our best to honor your request, but our opt-out system is not perfect and it may miss records that don’t perfectly match the information you submit.
+If you choose to opt out of search results, that choice may affect the visibility of the relevant information on our entire network of sites, which includes this website and other affiliated properties. We try our best to honor your request, but our opt-out system is not perfect and it may miss records that don’t perfectly match the information you submit.
 
 Your Public Records Exist Elsewhere In The World – We Do Not Control Them
 
@@ -84,7 +84,7 @@ We Only Share Your Information in the Following Situations
 
 **With Your Consent:** We may share your information when you give us permission.
 
-**With Our Parent Company:** Inflection.com, Inc. owns a variety of products and services in addition to this site, including Identity.com, GoodHire.com, PeopleSmart.com, and other people search sites. Data collected under this privacy policy is shared with Inflection and stored alongside data from those other services. Your choices on one service may affect another service – for instance, opting out on PeopleSmart.com may mean that your records will not be available on Identity.com.
+**With Our Parent Company:** Inflection.com, Inc. owns a variety of products and services in addition to this site, including GoodHire.com, PeopleSmart.com, and other people search sites. Data collected under this privacy policy is shared with Inflection and stored alongside data from those other services. Your choices on one service may affect another service – for instance, opting out on PeopleSmart.com may mean that your records will not be available on Identity.com.
 
 **With Service Providers:** We use certain trusted third parties to provide services for us such as payments processing. We only share the minimum amount of information necessary to provide the service. In addition, any third-party service provider we use is required to give your information the same protections that are outlined here in this Privacy Policy.
 
