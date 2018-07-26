@@ -60,7 +60,7 @@ Main menuSONY
     
     *   All Energy, Storage &. Cables products ›
     *   Batteries
-    *   Memory Cards &. Flash Drives
+    *   Memory Cards, Flash Drives &. SSD/HDD
     *   Cables
     
     View AllNew Categories ›New Categories
@@ -85,8 +85,8 @@ Main menuSONY
     *   Favorites
     
     *   Sony Rewards
-    *   My Registered Products
-    *   Community
+    *   Electronics Registration
+    *   Electronics Community
     *   Favorites
 *   Favorites
 *   Search Sony
@@ -144,7 +144,7 @@ View Limited Edition 1TB PS4 Pro on Instagram
 
 Astro Bot Rescue Mission launches for #PSVR October 2! Pre-order at PS Store today and receive a theme, soundtrack, and 4 avatars.
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -352,8 +352,8 @@ News &. Info
 *   About Sony
 *   Product Support
 *   Product Manuals
-*   Product Registration
-*   Newsletter sign up
+*   Electronics Registration
+*   Electronics Newsletter
 *   Accessibility and Usability
 
 Other Sites
@@ -362,7 +362,7 @@ Other Sites
 *   Sony Pictures
 *   Sony Music
 *   Sony Mobile
-*   Crackle
+*   Sony Crackle
 *   Sony Square NYC
 
 United States
