@@ -59,9 +59,9 @@ Close
 *   Videos
     *   Featured
     *   Longest
-    *   Magic
     *   Comments
     *   Favorites
+    *   Hottest
     *   Views
     *   Votes
     *   Newest
