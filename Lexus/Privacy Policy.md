@@ -86,7 +86,7 @@ COMPARE **NX**
 **NX HYBRID**
 
 *   Starting at $38,5353\*
-*   31-MPG combined rating2\*
+*   31-MPG combined rating5\*
 
 *   Build
 *   Current Offers
@@ -94,7 +94,7 @@ COMPARE **NX**
 **RX**
 
 *   Starting at $43,4703\*
-*   3 ROW SEATING UP TO 75\*
+*   3 ROW SEATING UP TO 76\*
 
 *   Build
 *   Current Offers
@@ -117,7 +117,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $85,6306\*
+*   Starting at $85,6307\*
 *   383-HP4\* V8, FULL-TIME 4WD
 
 *   Build
@@ -349,15 +349,17 @@ click here Important Info Important Info
 
 \[1\] MSRP does not include delivery, processing and handling fee of $1,025. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
-\[2\] Preliminary mileage estimates determined by Lexus. EPA mileage estimates not available at time of posting. Actual mileage will vary.
+\[2\] 2018 EPA estimates. Actual mileage will vary.
 
 \[3\] MSRP does not include delivery, processing and handling fee of $1,025. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
 \[4\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[5\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
+\[5\] 2019 Lexus NX 300h (AWD) preliminary 33/city, 30/hwy, 31/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary.
 
-\[6\] MSRP does not include delivery, processing and handling fee of $1,295. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
+\[6\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
+
+\[7\] MSRP does not include delivery, processing and handling fee of $1,295. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
 Leasing &. Finance
 
