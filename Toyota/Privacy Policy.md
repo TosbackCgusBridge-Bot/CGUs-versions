@@ -12,7 +12,7 @@
 *   Build &. Price
 *   Local Specials
 
-*   Cars &. Minivans
+*   Cars &. Minivan
 *   Trucks
 *   Crossovers &. SUVs
 *   Hybrids &. FCV
@@ -26,14 +26,22 @@
     28/36 est MPG19 Build Specials
 *   $24,090 as shown1 2019 Corolla Hatchback $19,990 starting1  
     30/38 est MPG20 Build Specials
+*   $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
+    48/43 est MPG3 Build Specials
 *   $32,115 as shown1 2018 Prius $23,475 starting1  
     54/50 est MPG16 Build Specials
 *   $35,495 as shown1 2018 Camry $23,645 starting1  
     29/41 est MPG4 Build Specials
 *   $32,400 as shown1 2018 Camry Hybrid $27,950 starting1  
     51/53 est MPG3 Build Specials
+*   $33,300 as shown1 2018 Prius Prime $27,300 starting1  
+    54/133 est MPG9 Build Specials
 *   $42,200 as shown1 2019 Avalon $35,500 starting1  
     22/32 est MPG19 Build Specials
+*   $42,800 as shown1 2019 Avalon Hybrid $36,500 starting1  
+    43/44 est MPG19 Build Specials
+*   $58,365 as shown1 2018 Mirai $58,365 starting1  
+    67/67 est MPG13 Specials
 *   $28,585 as shown1 2018 86 $26,455 starting1  
     21/28 est MPG3 Build Specials
 *   $37,090 as shown1 2018 Sienna $30,850 starting1  
@@ -104,15 +112,19 @@ View All Vehicles
 *   Vehicles
 *   Shopping Tools
 
-Cars &. Minivans $18,260 as shown1 2018 Yaris $15,635 starting1  
+Cars &. Minivan $18,260 as shown1 2018 Yaris $15,635 starting1  
 30/36 est MPG3 $17,050 as shown1 2018 Yaris iA $15,950 starting1  
 32/40 est MPG3 $22,180 as shown1 2019 Corolla $18,700 starting1  
 28/36 est MPG19 $24,090 as shown1 2019 Corolla Hatchback $19,990 starting1  
-30/38 est MPG20 $32,115 as shown1 2018 Prius $23,475 starting1  
+30/38 est MPG20 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
+48/43 est MPG3 $32,115 as shown1 2018 Prius $23,475 starting1  
 54/50 est MPG16 $35,495 as shown1 2018 Camry $23,645 starting1  
 29/41 est MPG4 $32,400 as shown1 2018 Camry Hybrid $27,950 starting1  
-51/53 est MPG3 $42,200 as shown1 2019 Avalon $35,500 starting1  
-22/32 est MPG19 $28,585 as shown1 2018 86 $26,455 starting1  
+51/53 est MPG3 $33,300 as shown1 2018 Prius Prime $27,300 starting1  
+54/133 est MPG9 $42,200 as shown1 2019 Avalon $35,500 starting1  
+22/32 est MPG19 $42,800 as shown1 2019 Avalon Hybrid $36,500 starting1  
+43/44 est MPG19 $58,365 as shown1 2018 Mirai $58,365 starting1  
+67/67 est MPG13 $28,585 as shown1 2018 86 $26,455 starting1  
 21/28 est MPG3 $37,090 as shown1 2018 Sienna $30,850 starting1  
 19/27 est MPG15 Trucks $34,685 as shown1 2018 Tacoma $25,400 starting1  
 18/22 est MPG3 $47,280 as shown1 2018 Tundra $31,320 starting1  
@@ -165,7 +177,7 @@ Enter your Zip Code to find dealers, inventory, and special offers near you.
 
 Your ZIP is invalid. Submit
 
-GO Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
+OR FIND A DEALER GO Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
 Whether you’re a Toyota owner or just have a question about our products, Toyota is committed to providing a rewarding customer experience. Select the most convenient way to reach us, and we look forward to assisting you.
 
