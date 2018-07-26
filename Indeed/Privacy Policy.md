@@ -90,7 +90,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: July 6, 2018
+Last Updated: July 25, 2018
 
 **1\. Introduction**
 
@@ -252,7 +252,7 @@ Indeed may also share your information with third parties (including operators o
 
 **4.2 Giving You Relevant Search Results and Recommended Jobs**
 
-In order to optimize our services, products and features for you, Indeed may use your previous search and browsing history (e.g. the jobs you click on), or application materials and answers to screener questions, to identify you and determine relevant search results and provide you with recommended jobs or reach out to you about jobs you may be interested in. We may also use demographic and/or profile data to tailor your experience on the Site, to show you content that Indeed thinks you may be interested in, and display content according to your preferences.
+In order to optimize our services, products and features for you, Indeed may use your previous search and browsing history (e.g. the jobs you click on), or application materials and answers to screener questions, to identify you and determine relevant search results and provide you with recommended jobs or reach out to you about jobs you may be interested in. We may also use demographic and/or profile data to tailor your experience on the Site, to show you content that Indeed thinks you may be interested in, and display content according to your preferences. Indeed may return different results for the same search query and has full discretion with respect to the job listings it presents in response to any particular search.
 
 **4.3 Your Contact Information**
 
@@ -465,7 +465,7 @@ Each time you access or use Indeed’s online and/or mobile services and websit
 
 Any references to “Indeed” or “we” in this Agreement shall mean the applicable entity as set forth above.
 
-The Site is made available for use only by individuals searching for employment openings (“Job Seekers”), by individuals and/or organizations seeking to make available information regarding employment openings, on their behalf or other’s behalf, including but not limited to agencies purchasing for multiple parties (“Employers”), and by individuals and/or organizations seeking to participate in the Indeed Publisher Program (“Publishers”).  If you are accessing or using the Site in your capacity as an employee or other representative of an Employer or Publisher, you are agreeing to this Agreement on behalf of yourself and such Employer or Publisher, as applicable, and you represent and warrant that you have the authority to bind such Employer or Publisher, as applicable, to this Agreement.
+The Site is made available for use only by individuals searching for employment openings (“Job Seekers”), by individuals and/or organizations seeking to make available information regarding employment openings, on their behalf or other’s behalf, including but not limited to agencies purchasing for multiple parties (“Employers”), and by individuals and/or organizations seeking to participate in the Indeed Publisher Program (“Publishers”).  You acknowledge and agree that your license to use the Site is automatically revoked upon your attempt to use the Site for any other purpose. If you are accessing or using the Site in your capacity as an employee or other representative of an Employer or Publisher, you are agreeing to this Agreement on behalf of yourself and such Employer or Publisher, as applicable, and you represent and warrant that you have the authority to bind such Employer or Publisher, as applicable, to this Agreement.
 
 We may change this Agreement by notifying you of such changes by any reasonable means, including by posting a revised Agreement through the Site. Any such changes will not apply to any claim brought prior to the date on which we posted the revised Agreement incorporating such changes, or otherwise notified you of such changes. Your access to or use of the Site following any changes to this Agreement will constitute your acceptance of such changes. The “_Last Updated_” legends in each section of the terms and conditions indicate when this Agreement was last changed. We may, at any time and without liability, modify or discontinue all or part of the Site (including access to the Site via any third-party links). charge, modify or waive any fees required to use the Site. or offer opportunities to some or all Site users.
 
@@ -1103,4 +1103,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cj7vkp2oa3e69i3&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cjajecacagl3ai7&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
