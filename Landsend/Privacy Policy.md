@@ -841,9 +841,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: SHORE pin: 9063 DETAILS
+code: PICNIC pin: 7943 DETAILS
 
 Customer Service Menu
 
