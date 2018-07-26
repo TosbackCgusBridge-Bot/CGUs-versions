@@ -230,9 +230,9 @@ View more results
     
     Recommended Games
     
-    *   World of Warships
-    *   Star Stable
-    *   My Free Farm 2
+    *   Animal Jam
+    *   Wizard 101
+    *   Roblox
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
