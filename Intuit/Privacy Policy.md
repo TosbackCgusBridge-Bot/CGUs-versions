@@ -1,8 +1,4 @@
-Loading.. DAY 2 OF COUPON CODE FORYOU9 ENDS IN
-
-\*offer ends 7/25/18
-
-Days 0 0 0 0 hours 4 4 0 0 mins 4 4 8 8 secs SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
+Loading.. SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
 
 *   $35.99 sale
     
