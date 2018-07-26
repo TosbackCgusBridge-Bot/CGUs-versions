@@ -23,7 +23,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Rompers
 *   Jackets
 *   Accessories
-*   Sandals + Flip Flops
+*   Shoes
 *   Extended Sizes
 *   Trending
 *   Clearance
@@ -213,7 +213,6 @@ Close submenu ( Guys Shorts ) Guys Shorts
 *   Color Denim
 *   Jogger Short
 *   Athletic
-*   Swim
 
 Close submenu ( Clearance ) Clearance
 
@@ -257,7 +256,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **ALL JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+**ALL JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -312,7 +311,7 @@ Menu Find a Store Aeropostale
     *   Dresses + Rompers
     *   Jackets
     *   Accessories
-    *   Sandals + Flip Flops
+    *   Shoes
     *   Extended Sizes
     *   Trending
     *   Clearance
@@ -434,7 +433,6 @@ Menu Find a Store Aeropostale
         *   Color Denim
         *   Jogger Short
         *   Athletic
-        *   Swim
 *   Clearance
     
     *   View Home
