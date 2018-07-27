@@ -59,9 +59,9 @@ Close
 *   Videos
     *   Featured
     *   Longest
+    *   Magic
     *   Comments
     *   Favorites
-    *   Hottest
     *   Views
     *   Votes
     *   Newest
@@ -102,16 +102,16 @@ Close
     *   italian
     *   brazzers
     *   massage
-    *   arab
-    *   publicagent.com
-    *   young
     *   german
+    *   young
+    *   publicagent.com
+    *   arab
     *   petite
-    *   orgasm
     *   masturbation
+    *   orgasm
     *   interracial
-    *   cumshot
     *   publicagent
+    *   cumshot
     *   brunette
     *   View All
 *   ★ PREMIUM HD
