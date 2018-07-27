@@ -36,7 +36,7 @@
 *   Shop
 *   Teams
 
-BREAKING NEWSJulio Jones will report to training campThe Falcons and the wideout have agreed on a revised contract that adjusts his 2018 salary, NFL Network Insider Ian Rapoport reports.READ MORE NFL.com - Privacy Policy English
+NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
 Updated: July 20, 2018**  
@@ -236,6 +236,4 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy  
-
-  The Falcons and the wideout have agreed on a revised contract that adjusts his 2018 salary, NFL Network Insider Ian Rapoport reports.
+Attn: Website Privacy Policy
