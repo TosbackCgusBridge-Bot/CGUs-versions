@@ -201,7 +201,6 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Home Refinancing
         *   ID Theft
         *   Life
-        *   Mechanical Repair
         *   Mexico Auto
         *   Pet
         *   Travel
@@ -305,7 +304,7 @@ Or, quote another product
 *   Home Refinancing
 *   ID Theft
 *   Life
-*   Mechanical Repair
+*   Mexico Auto
 *   Mobile Home
 *   Motorcycle/ATV
 *   Pet
@@ -316,8 +315,8 @@ Or, quote another product
 *   Travel
 *   Wedding &. Event
 
-Select a product Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHome FinancingHome RefinancingID TheftLifeMechanical RepairMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event Select a productCurrently selected productAuto 
+Select a product Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHome FinancingHome RefinancingID TheftLifeMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event Select a productCurrently selected productAuto 
 
 Loading
 
- <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=915c39ea3bbc46da965846d447526a5c&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
+ <iframe style="display:none;" src="https://ad.atdmt.com/m/a.html;m=11247200770992;noscript=1?conversionname=PROGCOM&amp;U4=22e95fd8b7c24bec922d2a1f92722a36&amp;U16=https%3A%2F%2Fwww.progressive.com%2Fprivacy%2F&amp;U12=undefined&amp;U6=Desktop&amp. U3=&amp;U20=">. </iframe>.
