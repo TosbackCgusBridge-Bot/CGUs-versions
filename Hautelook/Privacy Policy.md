@@ -8,14 +8,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Movado Watches
-    *   Meghan LA
+    *   Designer Sun ft. MCM
+    *   TOV
+    *   Jeffrey Campbell
+    *   NANETTE nanette lepore
+    *   W118 by Walter Baker Up to 75% Off
+    *   L.K. Bennett Up to 50% Off
+    *   Jumpsuits &. Rompers Up to 65% Off
+    *   Tart Swim Under $30
+    *   Diamond &. Sterling Silver Jewelry Up to 50% Off
+    *   Urban Decay
+    *   Plume Science: Brow &. Lash Solutions
+    *   Everyday Espadrilles Up to 60% Off
+    *   Isaac Mizrahi Boys &. More Up to 65% Off
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
+    *   Travel Essentials: Wallets &. Bags Up to 50% Off
+    *   Perry Ellis Tailored Clothing Up to 65% Off
+    *   Diesel Up to 65% Off
+    *   Diesel Lounge &. Underwear Starting at $15
+    *   Down to Details: Ornate Metal Wall Decor &. More
+    *   Free Shipping: Hand-Painted Replicas
+    *   Diesel Men's Shoes Up to 55% Off
+    *   Coastal Under $30
+    *   $30 &. Under: Boys' Dress Shoes
     *   Workwear Dresses ft. Tahari Up to 65% Off
-    *   Wear to Work: Summer Styles ft. Calvin Klein
     *   Undercover Work: Slips, Sheers &. More
+    *   Wear to Work: Summer Styles ft. Calvin Klein
+    
     *   Wear to Work: Blazers &. Tailored Clothing
     *   Business Casual: Men's Shoes Starting at $30
     *   Work Essentials: Ties, Dress Shirts, Bags &. More
+    *   Meghan LA
     *   Circus by Sam Edelman Starting at $20
     *   Project Social T &. More Starting at $10
     *   Seven7 Under $40
@@ -24,189 +47,157 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Guria Beachwear Swim
     *   Kenneth Cole Reaction Starting at $25
     *   Next Step: Shoes for Every Occasion
-    *   Urban Decay
     *   ChinUp Masks
     *   All-Day Glow: skinChemists Up to 80% Off
+    *   Ben Sherman
     *   Joe Fresh Kids Starting at $6
     *   Ben Sherman Shoes Up to 65% Off
     *   Ben Sherman Tailored Clothing Up to 80% Off
     *   Ultra-Soft Towels Up to 75% Off
     *   Mia Belle Girls
-    *   Ben Sherman
     *   Bedding Upgrade: Linens &. More Up to 80% Off
     *   School Pride: College Logo Wallets, Decor &. More
-    
     *   Space Savers: Organization Essentials from $15
     *   Poo-Pourri Bathroom Scents
     *   Splendid Up to 60% Off
     *   Splendid Swim &. Active Up to 50% Off
+    
     *   Splendid Shoes Starting at $35
     *   Splendid Kids Up to 55% Off
     *   SHY by Sydney Evan
-    *   Forgotten Grace Under $30
-    *   Summer Dresses Under $40
-    *   Chic Shades Up to 70% Off
-    *   Goby
     *   Macadamia Natural Oil &. Professional Hair Care
-    *   Lancaster Paris: Bucket Bags &. More
-    *   Chase &. Chloe Starting at $20
     *   Blend Mineral Cosmetics Up to 85% Off
     *   Truly Clear Light Therapy Up to 80% Off
-    *   Schutz Up to 50% Off
     *   Psycho Bunny Lounge &. Underwear
     *   Swims Up to 65% Off
     *   Casual Kicks: Umi &. More
     *   Onia Up to 70% Off
     *   Bespoke Under $40
-    *   UGG Starting at $45
-    *   UGG Kids Starting at $30
-    *   UGG Sleepwear Starting at $25
-    *   UGG Men's Shoes &. Lounge Starting at $60
     *   skyn ICELAND
-    
-    *   UGG Home Starting at $35
     *   Free Shipping: Luxe 18-Piece Towel Sets &. More
     *   Soul Star Under $40
-    *   Weekday Slumber Party: Kids' PJs Under $20
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
-    *   Men's Final Few Up to 85% Off
-    *   Men's Shoes Up to 70% Off
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
-    *   Magnanni
     *   Designer Fragrances ft. Burberry &. Marc Jacobs
-    *   Persaman Up to 75% Off
-    *   Rogue Up to 80% Off
-    *   Champion
     *   Perfect Your Blowout: Hair Dryers &. More
     *   Ninja Kitchen Appliances
-    *   CZ &. Crystal Jewelry Starting at $10
-    *   Simply Couture Up to 75% Off
-    *   Colors of the Rainbow: Pave Jewelry &. More
+    *   Turn It Up: Portable Speakers, Chargers &. More
     *   Color Pop: Wall Murals &. More From $10
     *   Dorm Ready: Headphones &. More from $10
-    *   Home Makeover: Decor, Bedding &. More from $25
-    *   Free Shipping: Modern Art &. More Up to 75% Off
-    *   Free Shipping: Camping &. Outdoor Party Faves
-    *   Treat Yourself: Bath Bombs, Bubble Bars &. More
-    *   Turn It Up: Portable Speakers, Chargers &. More
+    *   Colors of the Rainbow: Pave Jewelry &. More
+    *   Goby
 *   WomenShop Sale Events
     
-    *   Movado Watches
-    *   Meghan LA
+    *   Designer Sun ft. MCM
+    *   TOV
+    *   Jeffrey Campbell
+    *   NANETTE nanette lepore
+    *   W118 by Walter Baker Up to 75% Off
+    *   L.K. Bennett Up to 50% Off
+    *   Jumpsuits &. Rompers Up to 65% Off
+    *   Tart Swim Under $30
+    *   Diamond &. Sterling Silver Jewelry Up to 50% Off
+    *   Urban Decay
+    *   Plume Science: Brow &. Lash Solutions
+    *   Everyday Espadrilles Up to 60% Off
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
+    *   Travel Essentials: Wallets &. Bags Up to 50% Off
     *   Workwear Dresses ft. Tahari Up to 65% Off
-    *   Wear to Work: Summer Styles ft. Calvin Klein
     *   Undercover Work: Slips, Sheers &. More
+    *   Wear to Work: Summer Styles ft. Calvin Klein
+    *   Meghan LA
     *   Circus by Sam Edelman Starting at $20
     *   Project Social T &. More Starting at $10
     *   Seven7 Under $40
+    
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Chelsea and Walker Up to 75% Off
     *   Guria Beachwear Swim
     *   Kenneth Cole Reaction Starting at $25
     *   Next Step: Shoes for Every Occasion
-    *   Urban Decay
     *   ChinUp Masks
     *   All-Day Glow: skinChemists Up to 80% Off
     *   Splendid Up to 60% Off
     *   Splendid Swim &. Active Up to 50% Off
     *   Splendid Shoes Starting at $35
     *   SHY by Sydney Evan
-    
-    *   Forgotten Grace Under $30
-    *   Summer Dresses Under $40
-    *   Chic Shades Up to 70% Off
-    *   Goby
     *   Macadamia Natural Oil &. Professional Hair Care
-    *   Lancaster Paris: Bucket Bags &. More
-    *   Chase &. Chloe Starting at $20
     *   Blend Mineral Cosmetics Up to 85% Off
     *   Truly Clear Light Therapy Up to 80% Off
-    *   Schutz Up to 50% Off
-    *   UGG Starting at $45
-    *   UGG Sleepwear Starting at $25
     *   skyn ICELAND
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   Designer Fragrances ft. Burberry &. Marc Jacobs
     *   Perfect Your Blowout: Hair Dryers &. More
-    *   CZ &. Crystal Jewelry Starting at $10
-    *   Simply Couture Up to 75% Off
     *   Colors of the Rainbow: Pave Jewelry &. More
-    *   Treat Yourself: Bath Bombs, Bubble Bars &. More
+    *   Goby
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Tech Accessories
-    *   Handbags
     *   Accessories
-    *   Watches
+    *   Handbags
     *   Lingerie
 *   MenShop Sale Events
     
-    *   Movado Watches
+    *   Perry Ellis Tailored Clothing Up to 65% Off
+    *   Diesel Up to 65% Off
+    *   Diesel Lounge &. Underwear Starting at $15
+    *   Diesel Men's Shoes Up to 55% Off
+    *   Coastal Under $30
     *   Wear to Work: Blazers &. Tailored Clothing
     *   Business Casual: Men's Shoes Starting at $30
     *   Work Essentials: Ties, Dress Shirts, Bags &. More
+    *   Ben Sherman
+    
     *   Ben Sherman Shoes Up to 65% Off
     *   Ben Sherman Tailored Clothing Up to 80% Off
-    *   Ben Sherman
     *   Psycho Bunny Lounge &. Underwear
     *   Swims Up to 65% Off
     *   Onia Up to 70% Off
-    
     *   Bespoke Under $40
-    *   UGG Men's Shoes &. Lounge Starting at $60
     *   Soul Star Under $40
-    *   Men's Final Few Up to 85% Off
-    *   Men's Shoes Up to 70% Off
-    *   Magnanni
     *   Designer Fragrances ft. Burberry &. Marc Jacobs
-    *   Persaman Up to 75% Off
-    *   Rogue Up to 80% Off
-    *   Champion
     
     Shop By Category
     *   Clothing
     *   Accessories
     *   Shoes
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Isaac Mizrahi Boys &. More Up to 65% Off
+    *   $30 &. Under: Boys' Dress Shoes
     *   Joe Fresh Kids Starting at $6
     *   Mia Belle Girls
     *   Splendid Kids Up to 55% Off
     *   Casual Kicks: Umi &. More
-    *   UGG Kids Starting at $30
-    *   Weekday Slumber Party: Kids' PJs Under $20
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Girls' Shoes
-    *   Girls Sizes 7-16
     *   Boys Sizes 2T-7
     *   Boys Sizes 8-20
-    *   Boys' Shoes
+    *   Girls Sizes 7-16
+    *   Girls' Shoes
     *   Baby Girl
+    *   Boys' Shoes
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Down to Details: Ornate Metal Wall Decor &. More
+    *   Free Shipping: Hand-Painted Replicas
     *   Ultra-Soft Towels Up to 75% Off
     *   Bedding Upgrade: Linens &. More Up to 80% Off
     *   School Pride: College Logo Wallets, Decor &. More
     *   Space Savers: Organization Essentials from $15
     *   Poo-Pourri Bathroom Scents
-    *   UGG Home Starting at $35
+    
     *   Free Shipping: Luxe 18-Piece Towel Sets &. More
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
-    
     *   Ninja Kitchen Appliances
+    *   Turn It Up: Portable Speakers, Chargers &. More
     *   Color Pop: Wall Murals &. More From $10
     *   Dorm Ready: Headphones &. More from $10
-    *   Home Makeover: Decor, Bedding &. More from $25
-    *   Free Shipping: Modern Art &. More Up to 75% Off
-    *   Free Shipping: Camping &. Outdoor Party Faves
-    *   Turn It Up: Portable Speakers, Chargers &. More
     
     Shop By Category
     *   Home Decor
@@ -215,28 +206,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rugs
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Outdoor Living
     *   Accent Furniture
+    *   Outdoor Living
 *   BeautyShop Sale Events
     
     *   Urban Decay
+    *   Plume Science: Brow &. Lash Solutions
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   ChinUp Masks
     *   All-Day Glow: skinChemists Up to 80% Off
     *   Macadamia Natural Oil &. Professional Hair Care
+    
     *   Blend Mineral Cosmetics Up to 85% Off
     *   Truly Clear Light Therapy Up to 80% Off
-    
     *   skyn ICELAND
     *   D24K by D'OR Luxury Skin Care Up to 90% Off
     *   Designer Fragrances ft. Burberry &. Marc Jacobs
     *   Perfect Your Blowout: Hair Dryers &. More
-    *   Treat Yourself: Bath Bombs, Bubble Bars &. More
     
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Bath &. Body
     *   Fragrance
+    *   Supplements
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Hair Care
 
