@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Kevin O'Leary_: Shark's Advice: Ignore the Trump Circus, Focus on the Policy
+*   _Joe Concha_: Abuse It &. Lose It: Brennan, Clapper Don't Deserve Clearances
     
-*   _Robert Kuttner_: Yes, Dems Need to Run Left - on Economics
+*   _Eliot Cohen_: Another Norm Falls Victim to Trump
     
-*   _Stephen Moore_: The Liberal War on Work
+*   _Mollie Hemingway_: Media Can't Spin Fact Trump Campaign Was Spied On
     
-*   _Colbert King_: Trump's Laughable Targeting of Security Clearances
+*   _Robert Leonard_: Trump Has No Idea What Tariffs Have Unleashed for Farmers
     
-*   _Daniel McCarthy_: Comrade Brennan's Security Clearance Benefits
+*   _Commerce Secretary Wilbur Ross_: Trump's End Game Is 'Zero Tariffs'
     
-*   _Albert Hunt_: Yes, Russian Election Sabotage Helped Trump Win
+*   _Mark Penn_: Polling Could be Missing Reality, Again
     
-*   _Roger L. Simon_: The FBI Goes Full Nixon With FISA Report
+*   _Sarah Smarsh_: They Thought This Was Trump Country. Hell No
     
-*   _Richard Cohen_: Trump's Appeal Is Saying What His Supporters Think
+*   _Howie Carr_: Liz Warren Set to Join Tribe of Losers
     
-*   _Ned Ryun_: None Dared Call It Treason - When It Was a Democrat
+*   _Trudy Rubin_: Will We Ever Know What Trump Told Putin in Helsinki?
     
-*   _Doug Bock Clark_: The Untold Story of Otto Warmbier, American Hostage
+*   _Josh Rogin_: The Real Threat Isn't Russia, It's China
     
-*   _Jeffrey Sachs_: Trump Is Taking America Down the Path to Tyranny
+*   _Rocah &. Honig_: Cohen Tape Sounds Like It Could Bring Down Trump
     
-*   _Dennis Prager_: If Truth Mattered to the Hysterical Media
+*   _Derek Hunter_: Liberals &. Never-Trumpers Really Want Us to Care
     
-*   _Niall Stanage_: Democrats Grapple With Trump's Resilience
+*   _Michael Wolraich_: Tariffs Once Tore GOP Apart &. May Be Doing So Again
     
-*   _Eugene Robinson_: The Only Way to Constrain This Lunatic Administration: Vote
+*   _Roger L. Simon_: Trump's Trade Deal With EU a Nightmare for Democrats
     
-*   _Henry Olsen_: Trump Outrage: How Do Liberals Keep Getting It So Wrong?
+*   _David Faris_: Here Comes That Blue Wave
     
-*   _Rosie Gray_: Muzzling the Talking Heads of the Deep State
+*   _Joseph Curl_: More Americans Than Ever Find Dems Out of Mainstream
     
-*   _Secretary of State Mike Pompeo_: Persecution in Iran, China Must End Now
+*   _Ed Kilgore_: 'Democratic Extremism' Narrative Is a Handy Distraction
     
-*   _John Feffer_: Donald Trump's Flight 93 Doctrine
+*   _David Bossie_: Left's Inability to Let Go of Hillary's Loss Harming America
     
-*   _Bill Gertz_: U.S. 'Benign China' Policy Ending
+*   _Frank Figliuzzi_: Trump's Brazen Effort to Silence His Obama-Era Critics
     
-*   _Sen. Patrick Leahy_: Uncover the Truth About Brett Kavanaugh
+*   _Elliott Abrams_: Why Trump Is Right to Strip Ex-Officials' Security Clearances
     
-*   _Susan Ferrechio_: Kavanaugh Comes Knocking But Dems Won't Meet
+*   _Asawin Suebsaeng_: Kissinger Pushed Trump to Work w/Russia to Box In China
     
-*   _Adele Malpass_: Liberal Dems Push Party Toward Medicare for All
+*   _Leon Panetta_: How to Save America From Trump's Foreign Policy Hell
     
-*   _Michelle Goldberg_: Democrats Are Moving Left. Don't Panic.
+*   _Marc Thiessen_: Will Dems Still Be Russia Hawks When Trump Is Gone?
     
-*   _William Murchison_: The Socialist Surge That's Not Coming
+*   _John Cassidy_: The Really Bad News for Trump on the Cohen Tape
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Mulls Revoking Security Clearances From 6 Ex-Officials
-*   Georgia Runoff Puts Trump's Clout on the Line--Again
-*   Clapper: Trump Is "Petty," This Is "Retribution for Speaking Out"
-*   Trump Warns Iran's Rouhani to "Never, Ever Threaten" U.S.
-*   Sanders, Ocasio-Cortez Rally for Dem Candidates in Kansas
+*   Trump Hails Trade Progress in Agreement With EU
+*   Is There Recourse When Fact Checkers Get It Wrong?
+*   Pompeo: Obama the One Who Told Russia He'd Be "More Flexible"
+*   The Personal Privacy vs. Public Security Dilemma
+*   Citing VA Reforms, Trump Cements His Bond With Veterans
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Pennsylvania 17th District - Rothfus vs. LambMonmouth
-    *   Lamb53
-    *   Rothfus40Lamb +13
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve38
-    *   Disapprove58Disapprove +20
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
-*   Georgia Governor - Republican Primary Run-OffTrafalgar Group (R)
-    *   Kemp59
-    *   Cagle41Kemp +18
+*   Florida Senate - Scott vs. NelsonFlorida Atlantic University
+    *   Scott44
+    *   Nelson40Scott +4
+*   Wisconsin Senate - Republican PrimaryNBC News/Marist
+    *   Nicholson38
+    *   Vukmir28Nicholson +10
+*   Wisconsin Senate - Nicholson vs. BaldwinNBC News/Marist
+    *   Baldwin54
+    *   Nicholson39Baldwin +15
+*   Wisconsin Senate - Vukmir vs. BaldwinNBC News/Marist
+    *   Baldwin55
+    *   Vukmir38Baldwin +17
 
 More Latest Polls In The News
 
-*   Cohen Attorney Lanny Davis Releases Trump Tape To CNN: Someday, Cohen Will Speak Truth On Trump
-*   Giuliani: Trump Said "Don't Pay With Cash" On Cohen Tape, "The President Is Not An Idiot"
-*   DHS Kirstjen Nielsen: Anyone That Crosses Border Illegally Should Face Consequences For Illegal Entry
-*   Rep. Adam Schiff: Never Thought I Would See A President With An "Enemies List" In My Lifetime
-*   Mass. Independent Senate Candidate Shiva Ayyadurai Punched In Mouth By Elizabeth Warren Supporter
+*   Giuliani: Trump Did Not Know In Advance About Russia Meeting In Trump Tower, "Shocked" By Cohen
+*   Bernstein: Cohen Similar To John Dean, Wants To Spill Secrets In Exchange For Being Treated Leniently
+*   "Accidental Superpower" Author Peter Zeihan: President Trump's Foreign Policy In Geopolitical Context
+*   Pompeo vs. Markey: "Fear Not," Trump Not Being Fooled By North Korea. Hope You Sleep A Little Better Tonight
+*   Menendez Grills Pompeo: Has The President Told You What He Discussed In His Two-Hour Meeting With Putin?
 
 *   Politics
 *   Policy
