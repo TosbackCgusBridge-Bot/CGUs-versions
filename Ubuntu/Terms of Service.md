@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   First point release of 18.04 LTS available today ›
+*   AI, ML, &. Ubuntu: Everything you need to know ›
+*   Bringing Electron applications to millions of Linux users ›
 *   Ubuntu Server development summary – 24 July 2018 ›
 *   Graphical Abstinence, Living the Terminal Life ›
-*   Desktop team report from GUADEC 2018 ›
-*   PowerShell launches as a snap ›
-*   Snaps Add Flexibility with Tracks ›
