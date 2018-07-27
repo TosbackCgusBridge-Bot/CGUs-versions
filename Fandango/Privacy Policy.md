@@ -67,9 +67,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Robert De Niro Joins DC's Standalone 'Joker' Movie. Here's Everything We Know Read More
-    *   Exclusive: 'Aquaman' Director James Wan Explains the Film's First Trailer Read More
-    *   Coen Brothers Transform Their Western Series Into a Movie. Here's Everything We Know Read More
+    *   Ryan Reynolds to Produce 'Stoned Alone'. Here's Everything We Know Read More
+    *   Watch Exclusive 'Avengers: Infinity War' Featurette: Wakanda Forever Read More
+    *   Jason Scott Lee Joins Disney's Live-Action 'Mulan'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
