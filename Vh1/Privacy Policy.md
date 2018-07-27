@@ -4,14 +4,14 @@
     *   Shows A-Z
     *   TV Schedule
     *   VH1 App
-    *   America's Next Top Model
     *   Basketball Wives
     *   Black Ink Crew Chicago
     *   Hip Hop Squares
-    *   Leave It To Stevie
     *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Hollywood
-    *   Love &. Hip Hop MiamiSee all Shows
+    *   Martha &. Snoop's Potluck Dinner Party
+    *   RuPaul's Drag Race
+    *   Trailblazer HonorsSee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppAmerica's Next Top ModelBasketball WivesBlack Ink Crew ChicagoHip Hop SquaresLeave It To StevieLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodLove &. Hip Hop MiamiRuPaul's Drag RaceShaunie's Home CourtTeyana &. ImanTrailblazer Honorssee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBasketball WivesBlack Ink Crew ChicagoHip Hop SquaresLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodMartha &. Snoop's Potluck Dinner PartyRuPaul's Drag RaceTrailblazer Honorssee all Shows
 *   News
 *   Digital Originals
 *   Watch Live TV
