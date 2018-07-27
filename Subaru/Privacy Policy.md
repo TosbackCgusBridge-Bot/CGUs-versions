@@ -31,11 +31,11 @@ Subaru Confidence In Motion
 *   Build &. Price
 *   Find Retailer
 
-Impreza $18,495\* starting price 2018 Impreza
+Impreza $18,595\* starting price 2019 Impreza
 
 Starting at
 
-$18,495 MSRP
+$18,595 MSRP
 
 Up to
 
