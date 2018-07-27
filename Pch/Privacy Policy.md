@@ -1,5 +1,3 @@
-Español EnglishEnglish
-
 Privacy Policy  
 
 Last Updated: January 25, 2017
