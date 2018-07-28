@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms It's that time again: 12 shark facts that might surprise you Psyched for Shark Week? We've got the science behind these oft-misunderstood ocean predators AROUND NOAA // NOAA surveys the unsurveyed, leading the way in the U.S. Arctic \[EXT\] Where the sharks are: What we found cruising the Gulf of Mexico, in photos \[EXT\] Video: A symphony of sharks! Feast your eyes and ears on this \[EXT\] June 2018 was 5th warmest on record for the globe
+Enter Search Terms Where the sharks are: What we found cruising the Gulf of Mexico, in photos AROUND NOAA // NOAA surveys the unsurveyed, leading the way in the U.S. Arctic \[EXT\] Video: A symphony of sharks! Feast your eyes and ears on this \[EXT\] June 2018 was 5th warmest on record for the globe
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-Caribbean reef shark (iStock)
+Tiger shark (iStock)
