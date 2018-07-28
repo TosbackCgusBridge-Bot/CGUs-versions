@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Joe Concha_: Abuse It &. Lose It: Brennan, Clapper Don't Deserve Clearances
+*   _Walter Shapiro_: No, Dems Aren't Disarrayed, Riven and Imploding
     
-*   _Eliot Cohen_: Another Norm Falls Victim to Trump
+*   _James Pinkerton_: Democrats Seek to Reverse Course on Economic Boom
     
-*   _Mollie Hemingway_: Media Can't Spin Fact Trump Campaign Was Spied On
+*   _Susan Glasser_: The Awkard Art of Cleaning Up Trump's Messes
     
-*   _Robert Leonard_: Trump Has No Idea What Tariffs Have Unleashed for Farmers
+*   _Rush Limbaugh_: Trade War Surrender: The EU Blinks
     
-*   _Commerce Secretary Wilbur Ross_: Trump's End Game Is 'Zero Tariffs'
+*   _Matt Ford_: How a Democratic House Could Really Give Trump Hell
     
-*   _Mark Penn_: Polling Could be Missing Reality, Again
+*   _Ed Rogers_: Are Democrats Setting Trump Up for Reelection?
     
-*   _Sarah Smarsh_: They Thought This Was Trump Country. Hell No
+*   _Robin Wright_: Trump Admin Struggles to Defend Unruly Foreign Policy
     
-*   _Howie Carr_: Liz Warren Set to Join Tribe of Losers
+*   _Victor Davis Hanson_: Reforming NATO Is the Only Way to Save It
     
-*   _Trudy Rubin_: Will We Ever Know What Trump Told Putin in Helsinki?
+*   _Michael Caputo_: Baron Cohen Tried to Prank Me. How I Knew It Was a Scam.
     
-*   _Josh Rogin_: The Real Threat Isn't Russia, It's China
+*   _Kim Brooks_: Moms Are Being Arrested for Making Rational Decisions w/Kids
     
-*   _Rocah &. Honig_: Cohen Tape Sounds Like It Could Bring Down Trump
+*   _Carl Cannon_: When Hubert Humphrey Spoke Nobly, Sowing His Fate
     
-*   _Derek Hunter_: Liberals &. Never-Trumpers Really Want Us to Care
+*   _Marc Thiessen_: Trump Using Tariffs to Advance Radical Free-Trade Agenda
     
-*   _Michael Wolraich_: Tariffs Once Tore GOP Apart &. May Be Doing So Again
+*   _Paul Brandus_: America Is Paying for Trump's Trade War
     
-*   _Roger L. Simon_: Trump's Trade Deal With EU a Nightmare for Democrats
+*   _Fraser Howie_: China Has No Idea What To Do About Trump
     
-*   _David Faris_: Here Comes That Blue Wave
+*   _Shira Ovide_: How Facebook Went So Wrong So Fast
     
-*   _Joseph Curl_: More Americans Than Ever Find Dems Out of Mainstream
+*   _Gary Shapiro_: 5 Reasons Trump Is the Jobs President
     
-*   _Ed Kilgore_: 'Democratic Extremism' Narrative Is a Handy Distraction
+*   _E.J. Dionne_: Trump Lies. And Lies. And Lies
     
-*   _David Bossie_: Left's Inability to Let Go of Hillary's Loss Harming America
+*   _Wesley Pruden_: Trump a Master at Calling Out 'Them Lyin' Newspapers'
     
-*   _Frank Figliuzzi_: Trump's Brazen Effort to Silence His Obama-Era Critics
+*   _Chris Cillizza_: Cohen Just Dropped a Collusion Bombshell on Trump
     
-*   _Elliott Abrams_: Why Trump Is Right to Strip Ex-Officials' Security Clearances
+*   _Aaron Mate_: The Elite Fixation With Russiagate
     
-*   _Asawin Suebsaeng_: Kissinger Pushed Trump to Work w/Russia to Box In China
+*   _Caitlin Huey-Burns_: Ocasio-Cortez, the GOP's Midterm Boogeyman?
     
-*   _Leon Panetta_: How to Save America From Trump's Foreign Policy Hell
+*   _Molly Ball_: Can Stacey Abrams Turn Georgia Blue?
     
-*   _Marc Thiessen_: Will Dems Still Be Russia Hawks When Trump Is Gone?
+*   _Doug Schoen_: Calls for Open Borders Will Close Doors for Dems in Nov
     
-*   _John Cassidy_: The Really Bad News for Trump on the Cohen Tape
+*   _Jessica Valenti_: American Boys in Desperate Need of an Intervention
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Ocasio-Cortez, Republicans' Midterm Boogeyman?
 *   Trump Hails Trade Progress in Agreement With EU
-*   Is There Recourse When Fact Checkers Get It Wrong?
-*   Pompeo: Obama the One Who Told Russia He'd Be "More Flexible"
+*   Ross: Trump's End-Game Is "Zero Tariffs" With European Union
 *   The Personal Privacy vs. Public Security Dilemma
-*   Citing VA Reforms, Trump Cements His Bond With Veterans
+*   Is There Recourse When Fact Checkers Get It Wrong?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,33 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Florida Governor - Democratic PrimaryMason-Dixon
+    *   Graham27
+    *   Levine18
+    *   Greene12
+    *   Gillum10
+    *   King7Graham +9
+*   Florida Governor - Republican PrimaryMason-Dixon
+    *   DeSantis41
+    *   Putnam29
+    *   Nathan2
+    *   White0
+    *   Devine0
+    *   Baldauf0DeSantis +12
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove52Disapprove +6
 *   Florida Senate - Scott vs. NelsonFlorida Atlantic University
     *   Scott44
     *   Nelson40Scott +4
-*   Wisconsin Senate - Republican PrimaryNBC News/Marist
-    *   Nicholson38
-    *   Vukmir28Nicholson +10
-*   Wisconsin Senate - Nicholson vs. BaldwinNBC News/Marist
-    *   Baldwin54
-    *   Nicholson39Baldwin +15
-*   Wisconsin Senate - Vukmir vs. BaldwinNBC News/Marist
-    *   Baldwin55
-    *   Vukmir38Baldwin +17
 
 More Latest Polls In The News
 
 *   Giuliani: Trump Did Not Know In Advance About Russia Meeting In Trump Tower, "Shocked" By Cohen
 *   Bernstein: Cohen Similar To John Dean, Wants To Spill Secrets In Exchange For Being Treated Leniently
 *   "Accidental Superpower" Author Peter Zeihan: President Trump's Foreign Policy In Geopolitical Context
+*   April Ryan: Putin Is "Big Pimping" Trump Right Now. U.S. A Dictatorship Like Russia, China
 *   Pompeo vs. Markey: "Fear Not," Trump Not Being Fooled By North Korea. Hope You Sleep A Little Better Tonight
-*   Menendez Grills Pompeo: Has The President Told You What He Discussed In His Two-Hour Meeting With Putin?
 
 *   Politics
 *   Policy
