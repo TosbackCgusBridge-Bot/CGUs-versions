@@ -182,7 +182,7 @@ About 3 weeks ago
 
 “As a publisher, you stand to gain from those direct customers and, in general, data." - @Requidan on the topic of @ATT acquiring @AppNexus via @adexchanger. Read more here: bit.ly/2yLUFqC
 
-Last month
+About a month ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
