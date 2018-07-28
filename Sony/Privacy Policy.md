@@ -144,7 +144,7 @@ View Limited Edition 1TB PS4 Pro on Instagram
 
 Astro Bot Rescue Mission launches for #PSVR October 2! Pre-order at PS Store today and receive a theme, soundtrack, and 4 avatars.
 
-3 days ago
+4 days ago
 
 View Tweet
 
