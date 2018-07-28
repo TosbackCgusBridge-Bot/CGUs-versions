@@ -47,7 +47,24 @@ menu Close 0 Free Shipping on $50+
     
     BLOG
     *   The Journal
-*   Women WOMEN'S SALE >. SHOP BY SIZE RANGE
+*   Women WOMEN'S CLOTHING >.
+    
+    *   Swimsuits
+    *   Tops
+    *   Sweaters
+    *   Pants
+    *   Jeans
+    *   Dresses
+    *   Skirts
+    *   Fleece
+    *   Coats &. Jackets
+    *   Activewear
+    *   Pajamas &. Robes
+    *   Shorts
+    *   Blazers
+    *   Long Underwear
+    
+    SHOP BY SIZE RANGE
     
     *   Regular
     *   Petite
@@ -56,47 +73,32 @@ menu Close 0 Free Shipping on $50+
     *   Petite Plus
     *   Tall Plus
     
-    FEATURED SHOPS
+    PLUS SIZE CLOTHING >.
     
+    *   Plus Size Swimsuits
+    *   Plus Size Tops
+    *   Plus Size Sweaters
+    *   Plus Size Pants
+    *   Plus Size Jeans
+    *   Plus Size Dresses
+    *   Plus Size Fleece
+    *   Plus Size Coats &. Jackets
+    *   Plus Size Pajamas &. Robes
+    *   Plus Size Exclusive Styles
+    
+    WOMEN'S SHOES >.
+    
+    *   Casual &. Comfortable Shoes
+    *   Slip-On Flats &. Loafers
+    *   Boots
+    *   Water Shoes
+    *   Sandals
+    
+    WOMEN'S ACCESSORIES >. WOMEN'S BAGS >. FEATURED SHOPS
     *   New Arrivals
     *   The Starfish Collection
-    *   Tunic Shop
-    
-    WOMEN'S CLOTHING >.
-    
-    *   Swimsuits
-    *   Tops
-    *   Sweaters
-    *   Dresses
-    *   Pants
-    *   Jeans
-    *   Shorts
-    *   Skirts
-    *   Coats &. Jackets
-    *   Blazers
-    *   Activewear
-    *   Pajamas &. Robes
-    *   Long Underwear
-    
-    WOMEN'S BAGS >. WOMEN'S SHOES >.
-    
-    *   Athletic &. Water
-    *   Sandals
-    *   Casual
-    *   Boots
-    *   Flats
-    *   Heels
-    *   Slippers
-    
-    WOMEN'S ACCESSORIES >.
-    *   Scarves &. Wraps
-    *   Belts
-    *   Socks &. Tights
-    *   Jewelry
-    *   Hats
-    *   Small Accessories
-    *   Gloves
-*   Men MEN'S SALE >. SHOP BY SIZE RANGE
+    *   Tunic ShopWOMEN'S SALE >.
+*   Men SHOP BY SIZE RANGE
     
     *   Regular
     *   Tall
@@ -109,7 +111,7 @@ menu Close 0 Free Shipping on $50+
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
     
-    MEN'S CLOTHING >.
+    MEN'S SALE >. MEN'S CLOTHING >.
     
     *   Swimwear
     *   Polo Shirts
@@ -145,7 +147,7 @@ menu Close 0 Free Shipping on $50+
     *   Scarves
     *   Gloves
     *   Hats
-*   Kids Kids' Sale>. SHOP BY AGE RANGE
+*   Kids SHOP BY AGE RANGE
     
     *   Toddler Girls (2T-4T)
     *   Little Girls (4-7)
@@ -165,9 +167,8 @@ menu Close 0 Free Shipping on $50+
     *   Kids' Iron Knees Pants
     *   School Uniforms
     
-    Girls' Clothing>.
+    Kids' Sale>. Girls' Clothing>.
     
-    *   SHOP GIRLS' SALE
     *   Girls' Backpacks
     *   Girls' Swimsuits
     *   Girls' Tops &. Tees
@@ -183,9 +184,9 @@ menu Close 0 Free Shipping on $50+
     *   Girls' Long Underwear
     *   Girls' Pajamas &. Robes
     *   Girls' Shoes
+    *   Girls' Accessories
     
     Boys' Clothing>.
-    *   SHOP BOYS' SALE
     *   Boys' Backpacks
     *   Boys' Swimsuits
     *   Boys' Tops &. Tees
@@ -200,6 +201,7 @@ menu Close 0 Free Shipping on $50+
     *   Boys' Long Underwear
     *   Boys' Pajamas &. Robes
     *   Boys' Shoes
+    *   Boys' Accessories
 *   Swim WOMEN'S SWIMSUITS>.
     
     *   Women's Swim Sale
@@ -323,7 +325,7 @@ menu Close 0 Free Shipping on $50+
     *   Shoes
     *   Accessories
     *   Backpacks &. Bags
-*   Home HOME SALE >. BATH >.
+*   Home BATH >.
     
     *   Beach Towels
     *   Rugs &. Mats
@@ -362,10 +364,10 @@ menu Close 0 Free Shipping on $50+
     *   Sleeping Bags
     *   Baby Blankets
     
-    FEATURED SHOPS
+    DOG SHOP >. FEATURED SHOPS
     *   New Arrivals
     *   Supima Bedding &. Bath
-    *   Bedding BasicsDOG SHOP >.
+    *   Bedding BasicsHOME SALE >.
 *   Sale WOMEN'S SALE >.
     
     *   Regular
@@ -424,7 +426,23 @@ menu Close 0 Free Shipping on $50+
 *   Women
     *   Back
     *   Shop all Women
-    *   WOMEN'S SALE
+    *   WOMEN'S CLOTHING
+        *   Back
+        *   View All
+        *   Swimsuits
+        *   Tops
+        *   Sweaters
+        *   Pants
+        *   Jeans
+        *   Dresses
+        *   Skirts
+        *   Fleece
+        *   Coats &. Jackets
+        *   Activewear
+        *   Pajamas &. Robes
+        *   Shorts
+        *   Blazers
+        *   Long Underwear
     *   SHOP BY SIZE RANGE
         *   Back
         *   Regular
@@ -433,52 +451,38 @@ menu Close 0 Free Shipping on $50+
         *   Plus Size
         *   Petite Plus
         *   Tall Plus
+    *   PLUS SIZE CLOTHING
+        *   Back
+        *   View All
+        *   Plus Size Swimsuits
+        *   Plus Size Tops
+        *   Plus Size Sweaters
+        *   Plus Size Pants
+        *   Plus Size Jeans
+        *   Plus Size Dresses
+        *   Plus Size Fleece
+        *   Plus Size Coats &. Jackets
+        *   Plus Size Pajamas &. Robes
+        *   Plus Size Exclusive Styles
+    *   WOMEN'S SHOES
+        *   Back
+        *   View All
+        *   Casual &. Comfortable Shoes
+        *   Slip-On Flats &. Loafers
+        *   Boots
+        *   Water Shoes
+        *   Sandals
+    *   WOMEN'S ACCESSORIES
+    *   WOMEN'S BAGS
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
         *   The Starfish Collection
         *   Tunic Shop
-    *   WOMEN'S CLOTHING
-        *   Back
-        *   View All
-        *   Swimsuits
-        *   Tops
-        *   Sweaters
-        *   Dresses
-        *   Pants
-        *   Jeans
-        *   Shorts
-        *   Skirts
-        *   Coats &. Jackets
-        *   Blazers
-        *   Activewear
-        *   Pajamas &. Robes
-        *   Long Underwear
-    *   WOMEN'S BAGS
-    *   WOMEN'S SHOES
-        *   Back
-        *   View All
-        *   Athletic &. Water
-        *   Sandals
-        *   Casual
-        *   Boots
-        *   Flats
-        *   Heels
-        *   Slippers
-    *   WOMEN'S ACCESSORIES
-        *   Back
-        *   View All
-        *   Scarves &. Wraps
-        *   Belts
-        *   Socks &. Tights
-        *   Jewelry
-        *   Hats
-        *   Small Accessories
-        *   Gloves
+    *   WOMEN'S SALE
 *   Men
     *   Back
     *   Shop all Men
-    *   MEN'S SALE
     *   SHOP BY SIZE RANGE
         *   Back
         *   Regular
@@ -490,6 +494,7 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
+    *   MEN'S SALE
     *   MEN'S CLOTHING
         *   Back
         *   View All
@@ -532,7 +537,6 @@ menu Close 0 Free Shipping on $50+
 *   Kids
     *   Back
     *   Shop all Kids
-    *   Kids' Sale
     *   SHOP BY AGE RANGE
         *   Back
         *   Toddler Girls (2T-4T)
@@ -551,10 +555,10 @@ menu Close 0 Free Shipping on $50+
         *   Kids' Backpacks &. Lunch Boxes
         *   Kids' Iron Knees Pants
         *   School Uniforms
+    *   Kids' Sale
     *   Girls' Clothing
         *   Back
         *   View All
-        *   SHOP GIRLS' SALE
         *   Girls' Backpacks
         *   Girls' Swimsuits
         *   Girls' Tops &. Tees
@@ -570,10 +574,10 @@ menu Close 0 Free Shipping on $50+
         *   Girls' Long Underwear
         *   Girls' Pajamas &. Robes
         *   Girls' Shoes
+        *   Girls' Accessories
     *   Boys' Clothing
         *   Back
         *   View All
-        *   SHOP BOYS' SALE
         *   Boys' Backpacks
         *   Boys' Swimsuits
         *   Boys' Tops &. Tees
@@ -588,6 +592,7 @@ menu Close 0 Free Shipping on $50+
         *   Boys' Long Underwear
         *   Boys' Pajamas &. Robes
         *   Boys' Shoes
+        *   Boys' Accessories
 *   Swim
     *   Back
     *   Shop all Swim
@@ -723,7 +728,6 @@ menu Close 0 Free Shipping on $50+
 *   Home
     *   Back
     *   Shop all Home
-    *   HOME SALE
     *   BATH
         *   Back
         *   View All
@@ -764,12 +768,13 @@ menu Close 0 Free Shipping on $50+
         *   Bean Bag Chairs
         *   Sleeping Bags
         *   Baby Blankets
+    *   DOG SHOP
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
         *   Supima Bedding &. Bath
         *   Bedding Basics
-    *   DOG SHOP
+    *   HOME SALE
 *   Sale
     *   Back
     *   Shop all Sale
@@ -866,11 +871,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
+Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
