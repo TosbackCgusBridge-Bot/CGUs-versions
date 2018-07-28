@@ -6,7 +6,7 @@
 New Games Next in  xx:xx Categories &. more LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1575 games
+*   Best of new games 1552 games
 *   Most Popular Games 575 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -14,33 +14,33 @@ New Games Next in  xx:xx Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 22,748 games
-*   Driving &. Racing Games 6,659 games
-*   Strategy &. RPG Games 2,367 games
+*   Games for girls 22,762 games
+*   Driving &. Racing Games 6,658 games
+*   Strategy &. RPG Games 2,366 games
 *   Management Games 3,644 games
-*   Thinking Games 11,584 games
+*   Thinking Games 11,586 games
 *   Action &. Adventure Games 15,662 games
-*   Sports Games 2,205 games
-*   Shooting Games 8,022 games
+*   Sports Games 2,206 games
+*   Shooting Games 8,025 games
 *   Fighting Games 2,074 games
-*   Skill Games 10,085 games
-*   Arcade &. Classic Games 12,504 games
+*   Skill Games 10,086 games
+*   Arcade &. Classic Games 12,505 games
 *   Fun &. Crazy Games 2,388 games
 
 Tags
 
-*   Makeover / Make-up2,990
-*   Educational492
-*   Defense889
-*   Killing1,214
-*   Aircraft844
-*   Stick580
+*   Violence380
+*   1 player65,582
+*   Solitaire183
+*   Sniper310
+*   Vampire81
+*   School188
 *   View All Tags 371
 
 Play with friends  
-Powered by Y8 Account 131 Y8 Multiplayer Games 1,534 Y8 High Score Games 994 Y8 Achievements Games 794 Y8 Screenshots Games 1,346 Y8 Online Save Games 2,580 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 131 Y8 Multiplayer Games 1,535 Y8 High Score Games 995 Y8 Achievements Games 799 Y8 Screenshots Games 1,347 Y8 Online Save Games 2,586 All Y8 Games Games Last Highscore:
 
-**3,729** points on Bartender The Celebs Mix by anhhoang51nvx
+**717** points on Y8 Snakes by qwerty
 
 *   Contact Form
 *   Submit a Game or Video
@@ -49,7 +49,7 @@ Powered by Y8 Account 131 Y8 Multiplayer Games 1,534 Y8 High Score Games 994 Y8 
 *   Cookie Policy
 *   Terms of Use
 
-Bad translation? Share887K Register Log in My Profile 0 points
+Bad translation? Share888K Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
@@ -273,4 +273,4 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Privacy Policy
 *   Cookie Policy
 
-Share887K We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
+Share888K We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
