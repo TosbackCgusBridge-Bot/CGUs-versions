@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Dell XPS13 Developer Edition ships with Ubuntu 18.04 LTS pre-installed ›
+*   Kata Containers – now available in the Snap Store ›
 *   First point release of 18.04 LTS available today ›
 *   AI, ML, &. Ubuntu: Everything you need to know ›
 *   Bringing Electron applications to millions of Linux users ›
-*   Ubuntu Server development summary – 24 July 2018 ›
-*   Graphical Abstinence, Living the Terminal Life ›
