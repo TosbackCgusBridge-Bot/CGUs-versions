@@ -71,7 +71,6 @@ Close submenu ( Bottoms ) Bottoms
 *   Joggers + Lounge
 *   Pants
 *   Skirts
-*   Buy 1 Get 1 Free Jeans
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -134,7 +133,6 @@ Close submenu ( Bottoms ) Bottoms
 *   Shorts
 *   Pants
 *   Joggers + Sweats
-*   Buy 1 Get 1 Free Jeans
 
 Close submenu ( Jeans ) Jeans
 
@@ -146,7 +144,6 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
-*   Buy 1 Get 1 Free Jeans
 *   Low Rise Jegging
 *   High Rise Ankle Jegging
 *   High Rise Jegging
@@ -163,7 +160,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
-*   Buy 1 Get 1 Free Jeans
 *   Super Skinny
 *   Skinny
 *   Straight
@@ -252,7 +248,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **UP TO $25 OFF $100** USE CODE **SAVEMORE** **50-70% OFF + FREE SHIPPING OVER $50**
+**UP TO $25 OFF $100** USE CODE **SAVEMORE** **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -299,7 +295,6 @@ Menu Find a Store Aeropostale
         *   Joggers + Lounge
         *   Pants
         *   Skirts
-        *   Buy 1 Get 1 Free Jeans
         
     
     *   Swim
@@ -352,7 +347,6 @@ Menu Find a Store Aeropostale
         *   Shorts
         *   Pants
         *   Joggers + Sweats
-        *   Buy 1 Get 1 Free Jeans
         
     
     *   Jackets
@@ -363,13 +357,11 @@ Menu Find a Store Aeropostale
     *   Clearance
     *   Extended Sizes
     *   Trending
-    
 *   Jeans
     
     *   View Home
     *   Girls Jeans
         *   View All
-        *   Buy 1 Get 1 Free Jeans
         *   Low Rise Jegging
         *   High Rise Ankle Jegging
         *   High Rise Jegging
@@ -385,7 +377,6 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
-        *   Buy 1 Get 1 Free Jeans
         *   Super Skinny
         *   Skinny
         *   Straight
@@ -395,7 +386,6 @@ Menu Find a Store Aeropostale
         *   Relaxed
         *   Flex Effects
         *   Ripped Repaired Destroyed
-    
 *   Shorts
     
     *   View Home
@@ -499,7 +489,7 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
 
 Refer a friend and get $15 off.
 
