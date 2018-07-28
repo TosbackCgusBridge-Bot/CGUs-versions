@@ -12,16 +12,16 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Starting Lineups
     *   Hall of Fame
     *   Postseason history
-    *   Events
+    *   Awards
     *   MLB Draft
     *   All-Star Game
     
     Featured
     *   Cut4
+    *   Trade Talk
     *   Play Ball
     *   Players of the Week
     *   Pipeline
-    *   Awards
     *   MLB Photo Stream
     *   Entertainment
     *   Reporter's Inbox
