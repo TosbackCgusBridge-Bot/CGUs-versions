@@ -1,5 +1,5 @@
 Skip to Main Content × Saving your location allows us to provide you with more relevant information. Update Location  
-Clear Location × Default High Contrast Reset Increase Font SizeFont Decrease Font SizeFont Secure × ALERT!California is facing extreme heat and fire danger. Read More
+Clear Location × Default High Contrast Reset Increase Font SizeFont Decrease Font SizeFont Secure × ALERT!The Governor has Declared State of Emergency due to multiple Wildfires. To learn more about the fires go to http://caloes.ca.gov/ Impacted State employees go to the CalHR Website Read More
 
 *   Home
 *   Mobile Gallery
