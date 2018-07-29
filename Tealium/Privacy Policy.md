@@ -37,7 +37,7 @@
     *   Brand Assets
     *   Contact
 *   Blog
-*   For Developers
+*   Docs
 *   Login
 
 *   Products
