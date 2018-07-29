@@ -170,15 +170,15 @@ Last week
 
 Getting In On The 2020 Election Campaigns. Here's What Publishers Need to Know! bit.ly/2N4mkWe via @adexchanger @Requidan
 
-About 2 weeks ago
+About 3 weeks ago
 
 My week on Twitter : 3 Mentions, 54.5K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/Rxes…
 
-About 2 weeks ago
+About 3 weeks ago
 
 My week on Twitter : 3 Likes, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/56er…
 
-About 3 weeks ago
+Last month
 
 “As a publisher, you stand to gain from those direct customers and, in general, data." - @Requidan on the topic of @ATT acquiring @AppNexus via @adexchanger. Read more here: bit.ly/2yLUFqC
 
