@@ -77,17 +77,15 @@ New Cars by Category Make Price Best Sellers Sponsored Ford Crossovers Sponsored
 
 Sponsored by Ford New Car Showroom
 
-*   Consumer Reviews
 *   KBB.com Expert Reviews
 *   Fair Purchase Price
+*   Consumer Reviews
 
-Get the Latest Consumer  
-Reviews Before You Buy
+Expert Advice: Trusted For Over 85 Years
 
-Get the full scoop on new and used cars  
-from millions of people just like you.
+From Top 10 Lists to Video Reviews, consumers trust KBB.com.
 
-Get consumer advice
+See the reviews
 
 Sponsored
 
