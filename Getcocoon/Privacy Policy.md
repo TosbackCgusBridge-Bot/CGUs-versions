@@ -72,4 +72,4 @@ Email <div style="display:inline;">. <img height="1" width="1" style="border-sty
     *   YouTube
     *   LinkedIn
 
-© 2018 Virtual World Computing, LLC loading
+© 2018 Virtual World Computing, LLC We use cookies to understand how you use our site and to improve your experience. This includes personalizing content and advertising. By continuing to use our site you accept our use of cookies, revised Privacy Policy and Terms of Use. More Information I Agree loading
