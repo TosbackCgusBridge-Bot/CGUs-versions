@@ -38,12 +38,11 @@ Skip to main content
             11.  UNIVERSOUNIVERSOModern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households.UNIVERSO
             12.  USA NetworkUSA NetworkA powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
         4.  Digital Businesses
-            1.  AwesomenessAwesomenessAwesomeness is a leading multi-platform media company defining the future of entertainment.Awesomeness
-            2.  BluprintBluprintBluprint
-            3.  FandangoFandangoThe nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide.Fandango
-            4.  GolfNowGolfNowUses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times.GolfNow
-            5.  HuluHuluA premium streaming TV destination that seeks to captivate and connect viewers with the stories they love.Hulu
-            6.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
+            1.  BluprintBluprintBluprint
+            2.  FandangoFandangoThe nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide.Fandango
+            3.  GolfNowGolfNowUses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times.GolfNow
+            4.  HuluHuluA premium streaming TV destination that seeks to captivate and connect viewers with the stories they love.Hulu
+            5.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
         5.  Film
             
             1.  DreamWorks AnimationDreamWorks AnimationDreamWorks Animation
@@ -100,7 +99,6 @@ Skip to main content
                 *   UNIVERSO
                 *   USA Network
         *   *   DIGITAL BUSINESSES
-                *   Awesomeness
                 *   Bluprint
                 *   Fandango
                 *   GolfNow
@@ -337,4 +335,4 @@ For any questions or complaints about this Privacy Policy or our privacy practic
 *   Supply Chain Values
 *   Terms of Service
 
-© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/2672261" height="1" width="1" alt="" /></a></div>.
+© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/660693" height="1" width="1" alt="" /></a></div>.
