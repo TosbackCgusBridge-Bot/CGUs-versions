@@ -5,41 +5,41 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 
 *   Movies Now Playing
     
+    *   Mission: Impossible - Fallout
+    *   Mamma Mia! Here We Go Again
+    *   The Equalizer 2
     *   Hotel Transylvania 3: Summer Vacation
+    *   Teen Titans Go! To the Movies
     *   Ant-Man and the Wasp
-    *   Skyscraper (2018)
     *   Incredibles 2
     *   Jurassic World: Fallen Kingdom
+    *   Skyscraper (2018)
     *   The First Purge
-    *   Sorry to Bother You
-    *   Sicario: Day of the Soldado
-    *   Uncle Drew
-    *   Ocean's 8
-    *   Won't You Be My Neighbor?
+    *   Unfriended: Dark Web
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Mission: Impossible - Fallout
-    *   Teen Titans Go! To the Movies
-    *   Blindspotting
-    *   Detective Dee: The Four Heavenly Kings
-    *   Hot Summer Nights
-    *   Puzzle (2018)
-    *   Scotty and the Secret History of Hollywood
+    *   Christopher Robin
+    *   The Darkest Minds
+    *   Death of a Nation
+    *   The Spy Who Dumped Me
+    *   Eighth Grade
+    *   40 Years in the Making: The Magic Music Movie
+    *   The Miseducation of Cameron Post
+    *   Never Goin' Back
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Christopher Robin
-    *   The Darkest Minds
-    *   Death of a Nation
-    *   Searching (2018)
-    *   The Spy Who Dumped Me
     *   Dog Days (2018)
     *   The Meg
     *   Slender Man
+    *   Crazy Rich Asians
     *   Alpha
+    *   Mile 22
+    *   Searching (2018)
+    *   The Happytime Murders
     *   See All Coming Soon
     
     Explore More
@@ -67,9 +67,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Ryan Reynolds to Produce 'Stoned Alone'. Here's Everything We Know Read More
-    *   Watch Exclusive 'Avengers: Infinity War' Featurette: Wakanda Forever Read More
-    *   Jason Scott Lee Joins Disney's Live-Action 'Mulan'. Here's Everything We Know Read More
+    *   The Week in Movie News: Robert De Niro Joined 'Joker,' Ryan Reynolds Announced a 'Home Alone' Semi-Remake and More Read More
+    *   Next 3 Action Thrillers: 'The Meg,' 'Alpha,' 'The Predator' Read More
+    *   Carrie Fisher to Appear in 'Star Wars: Episode IX' With Previously Unused Footage. Here's What We Know So Far Read More
     
     Explore Content
     *   Movie Reviews
