@@ -45,4 +45,4 @@ Internet Brands, Inc. and its subsidiaries and corporate affiliates operate webs
 *   Work With Us
 *   Contact Us
 
-Copyright © 2014-2018 Internet Brands, Inc. All rights reserved.
+Copyright © 2014-2018 Internet Brands. All rights reserved.
