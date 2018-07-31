@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Kyle Smith_: Trump's Demise Has Been Greatly Exaggerated
+*   _Laura Hollis_: FBI Collusion: We Were Never Supposed to Know
     
-*   _Virginia Heffernan_: It's Becoming Clear: Trump Is an Illegitimate President
+*   _Charles Blow_: Michael Cohen Takes a Bullet
     
-*   _Derek Hunter_: Democrats Embracing Crazy Could Be A Gift To The GOP
+*   _Willis Krumholz_: Trump Tower Meeting Is Incriminating, But Not for Trump
     
-*   _Michael A. Cohen_: Americans Actually Like 'Socialist' Policies
+*   _Amanda Marcotte_: Tipping Point: Will Trump's Misdeeds Finally Hurt Him?
     
-*   _Deane Waldman_: Medicare for All: Socialist Dream, American Nightmare
+*   _Nate Cohn_: 99 Days to Go, Midterm Battleground Starts Coming Into Focus
     
-*   _Samantha Goldman_: Why I Organized the 'Handmaids' Protest of Pence
+*   _Michael Graham_: How Trump Turned Around Obama's Anemic Economy
     
-*   _Howie Carr_: Moonbats Plagued by Trump
+*   _Howard Yu_: Trump Doesn't Understand Benefits the U.S. Gets From Trade
     
-*   _Robert Reich_: Why 80% of Americans Live Paycheck to Paycheck
+*   _Peter Hasson_: Twitter's Censorship Problem Is Sparking a Backlash
     
-*   _Secretary Ben Carson_: Imagining a New Flint
+*   _Jules Witcover_: Trump's Fake War on True News
     
-*   _Don Lincoln_: Don't Pack Your Bags for Mars Just Yet
+*   _Adam Andrzejewski_: In FL, Public Employees with $100k+ Salaries Cost $5.5B
     
-*   _Megan McArdle_: Ghost of MySpace Haunting Facebook &. Twitter
+*   _Steve Coll_: Can Imran Khan Really Reform Pakistan?
     
-*   _Matthew Hennessey_: Wall St. Finally Taught Zuck the Lesson He Deserved
+*   _Jonathan Allen_: Strong Growth Hands Republicans Message. Will It Work?
     
-*   _Julian Zelizer_: Trouble Still Ahead for GOP - Even With a Growing Economy
+*   _Everett &. Schor_: Inside Democrats' Strategy to Defeat Kavanaugh
     
-*   _Irwin Stelzer_: Has Trump Won the Trade War With Europe?
+*   _Kimberley Strassel_: Devin Nunes, Washington's Public Enemy No. 1
     
-*   _Ed Kilgore_: Battle for the House: 100 Days Out, Dems on the Brink
+*   _Juan Williams_: What Does Putin Have on Trump?
     
-*   _Carl M. Cannon_: Trump Deserves a Nobel Prize -- in Physics
+*   _Ned Ryun_: Americans Need Clear Answers on FISA Abuse
     
-*   _John Myers_: Millions of Californians Living At or Near Poverty Line
+*   _Caitlin Huey-Burns_: Female Republican Candidates Eschew the Gender Card
     
-*   _Joel Kotkin_: The Hollowing-Out of the California Dream
+*   _Ezra Klein_: White Threat in a Browning America
     
-*   _Ruth Marcus_: All the President's Lies
+*   _Joel Kurtinitis_: The 'Racism' Charge Is Losing Its Meaning
     
-*   _Sens Grassley_: Blame Family Separation on Flores Agreement
+*   _Arthur Laffer_: Prosperity of Trump Era Marks Real Turning Point in History
     
-*   _Maureen Dowd_: The Don and His Badfellas
+*   _Gene Marks_: Republicans Tout Massive Tax Cut, But Is It a Boost or Bust?
     
-*   _Dan Gainor_: Trump's Tremendous Week Drowns Out Media Attacks
+*   _George Will_: Protectionism's Appeal Endures, Despite Its Disastrous Effects
     
-*   _Evan Osnos_: Why Is Trump Campaign Attacking Gillibrand?
+*   _Andy Puzder_: China Started the Trade War, Trump Is Just Trying to End It
     
-*   _Roger Kimball_: A Preposterous, Vicious Attack on Hillsdale
+*   _Bill Scher_: Democrats, Don't Forget the Senate
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Female Republican Candidates Eschew the Gender Card
 *   Ocasio-Cortez, Republicans' Midterm Boogeyman?
-*   Trump Hails Trade Progress in Agreement With EU
-*   Ross: Trump's End-Game Is "Zero Tariffs" With European Union
+*   Mnuchin: Trump Is Proving Naysayers Wrong With Sustained Growth
 *   The Personal Privacy vs. Public Security Dilemma
-*   Is There Recourse When Fact Checkers Get It Wrong?
+*   Trump Hails Trade Progress in Agreement With EU
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,25 +245,23 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Florida Governor - Democratic PrimaryMason-Dixon
-    *   Graham27
-    *   Levine18
-    *   Greene12
-    *   Gillum10
-    *   King7Graham +9
-*   Florida Governor - Republican PrimaryMason-Dixon
-    *   DeSantis41
-    *   Putnam29
-    *   Nathan2
-    *   White0
-    *   Devine0
-    *   Baldauf0DeSantis +12
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove52Disapprove +6
-*   Florida Senate - Scott vs. NelsonFlorida Atlantic University
-    *   Scott44
-    *   Nelson40Scott +4
+*   Wisconsin Senate - Republican PrimaryEmerson
+    *   Nicholson35
+    *   Vukmir35Tie
+*   Wisconsin Senate - Nicholson vs. BaldwinEmerson
+    *   Baldwin49
+    *   Nicholson40Baldwin +9
+*   Wisconsin Senate - Vukmir vs. BaldwinEmerson
+    *   Baldwin50
+    *   Vukmir36Baldwin +14
+*   Wisconsin Governor - Democratic PrimaryEmerson
+    *   Evers30
+    *   Vinehout10
+    *   McCabe5
+    *   Soglin5
+    *   Mitchell5
+    *   Roys7
+    *   Flynn5Evers +20
 
 More Latest Polls In The News
 
