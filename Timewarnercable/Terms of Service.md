@@ -1,12 +1,4 @@
-2700e474-53d9-45e8-b324-1c37fad5cce4
-
-*   Search
-*   Contact Us
-    
-*   En español
-*   Showing offers for zip code 80202(add zip code)
-    
-*   UPDATE
+a28c44fb-6d29-41e0-ab06-32cf58ac18b8
 
 *   Shop
 *   Manage Account
