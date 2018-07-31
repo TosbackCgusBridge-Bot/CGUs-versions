@@ -1,5 +1,5 @@
-Looks like there's a problem. But don't worry, we're working on it!
+StumbleUpon is gone.
 
-We're working quick like a bunny to fix it, and everything will be back to normal soon.
+From the makers of StumbleUpon, comes Mix, a new way to discover and save all your favorite things on the web.
 
-© 2001–2013 StumbleUpon
+Join Mix
