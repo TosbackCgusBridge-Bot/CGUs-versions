@@ -846,9 +846,11 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles!
+FREE 2-DAY SHIPPING
 
-code: STARFISH pin: 4538 DETAILS
+Receive 30% off full-price styles!
+
+code: LAKE pin: 8074 DETAILS
 
 Customer Service Menu
 
