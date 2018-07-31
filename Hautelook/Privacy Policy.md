@@ -8,6 +8,29 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Joie &. Soft Joie Up to 70% Off
+    *   CURRENT/ELLIOTT Up to 65% Off
+    *   Joie Shoes Up to 50% Off
+    *   FAVLUX Under $20
+    *   Last Call: Summer Styles
+    *   Sports Bras &. More Incl. Extended Sizes
+    *   Parke &. Ronen
+    *   JoFit Golf &. Tennis Starting at $30
+    *   Tahitian Pearl Jewelry &. More Under $80
+    *   Summer Sunnies Up to 70% Off
+    *   Botkier Handbags &. More
+    *   Luxe Locks: Alterna Hair Care
+    *   Madden Girl: Shoes Under $40
+    *   Full-On Glam: Zoe Ayla Skin Care, Brushes &. More
+    *   Gemstone Stacking Rings Starting at $25
+    *   Men's Jean Shop: Styles Under $70
+    *   Unsimply Stitched Loungewear &. More from $10
+    *   Original Penguin Shoes Up to 60% Off
+    *   Skechers Kids
+    *   Organization Essentials Starting at $10
+    *   Desk to Impress: Chic Organizers, Frames &. More
+    *   Frenchie Mini Couture Bath Under $15
+    *   Summer Styles for Baby ft. Little Me
     *   Romeo &. Juliet Couture Up to 75% Off
     *   First-Class Treatments: Skin Care Up to 90% Off
     *   Free Shipping: Kitchen Blowout
@@ -17,12 +40,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Men's Shoes Up to 65% Off
     *   Bulova &. Citizen Watches Up to 65% Off
     *   Johnny Was
+    
     *   Carlos by Carlos Santana Starting at $35
     *   Suit Yourself: Swim Incl. Plus Up to 70% Off
     *   Statement Jewelry Under $35
     *   G.H. Bass &. Co. Women Up to 45% Off
     *   Best of Italy: Handbags
-    *   Maceoo
     *   Summer Work Essentials Starting at $20
     *   Athena Alexander Up to 55% Off
     *   Michou Sterling Silver &. Gemstone Jewelry
@@ -42,16 +65,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Quay Australia Sun Under $25
     *   Tiare Hawaii
     *   Summer Must-Haves: Straw Bags &. More
-    
     *   A Che' Swim Up to 65% Off
     *   New Balance Men
     *   Curvy Couture Sleep &. Lingerie Incl. Plus
-    *   Unsimply Stitched Loungewear &. More from $10
+    *   Summer Workout: Shorts &. Tees Under $40
     *   Cecelia New York Up to 45% Off
     *   Raymond Weil Luxury Swiss Watches
-    *   NARS
     *   Your Favorite Summer Fragrances ft. Lalique
     *   CZ by Kenneth Jay Lane Up to 75% Off
+    
     *   Must-Have Heels Under $60
     *   New Balance Kids
     *   Made in Italy: Sphera Milano Jewelry from $20
@@ -59,59 +81,45 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Velvet by Graham &. Spencer
     *   Go for Gold: 24K Face Masks &. More from Azure
     *   Apartment Faves: Wine Racks, Floor Mats &. More
-    *   Summer Chic: Pants, Tops &. More Up to 70% Off
+    *   Pants, Tops &. More Up to 70% Off Including Plus &. Petites
+    *   NARS
     *   Algenist Skin Care
     *   ghd: Good Hair Day, Every Day
-    *   A.L.C. Up to 60% Off
-    *   Steve Madden Starting at $25
-    *   Sugarlips
-    *   Aldo Starting at $25
-    *   Valentino by Mario Valentino
-    *   Joan Vass
-    *   On-Trend 14K Gold Jewelry
-    *   Dr. Scholl's
-    *   Lime &. Vine Sport Up to 75% Off
-    *   Day to Night: End of Summer Steals
     *   John Varvatos Star USA
-    *   Steve Madden Men
-    *   Bralette Boutique: Styles Under $25
     *   Cuisinart
-    *   Men's Sport Sun
-    
-    *   Reef Starting at $15
-    *   On-Trend: Leather Bracelets &. More from $15
     *   James Tattersall Up to 75% Off
-    *   Elizabeth and James Up to 70% Off
     *   Free Shipping: Mid-Century Modern Steals
     *   Luxe Luggage ft. Hartmann
     *   Reef Men from $15
     *   Free Shipping: Pet-Friendly Covers, Beds &. More
-    *   Steve Madden Girls
     *   Plume Science: Brow &. Lash Solutions
-    *   Isaac Mizrahi Boys &. More Up to 65% Off
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
-    *   Perry Ellis Tailored Clothing Up to 65% Off
-    *   Diesel Up to 65% Off
-    *   Diesel Lounge &. Underwear Starting at $15
     *   Free Shipping: Hand-Painted Replicas
-    *   Diesel Men's Shoes Up to 55% Off
-    *   Coastal Under $30
     *   Ornate Metal Decor &. More
-    *   Men's Jewelry from MARZ Under $35
-    *   ChinUp Masks
-    *   All-Day Glow: skinChemists Up to 80% Off
     *   Ultra-Soft Towels Up to 75% Off
     *   Bedding Upgrade: Linens &. More Up to 80% Off
     *   School Pride: College Logo Wallets, Decor &. More
     *   Space Savers: Organization Essentials from $15
     *   Poo-Pourri Bathroom Scents
-    *   $30 &. Under: Boys' Dress Shoes
-    *   Free Shipping: Luxe 18-Piece Towel Sets &. More
+    *   Maceoo
+    *   Men's Jewelry from MARZ Under $35
     *   Summer Dress Code: Zunie &. More
-    *   Jumpsuits &. Rompers Up to 65% Off
-    *   Workwear Dresses ft. Tahari Up to 65% Off
 *   WomenShop Sale Events
     
+    *   Joie &. Soft Joie Up to 70% Off
+    *   CURRENT/ELLIOTT Up to 65% Off
+    *   Joie Shoes Up to 50% Off
+    *   FAVLUX Under $20
+    *   Last Call: Summer Styles
+    *   Sports Bras &. More Incl. Extended Sizes
+    *   JoFit Golf &. Tennis Starting at $30
+    *   Tahitian Pearl Jewelry &. More Under $80
+    *   Summer Sunnies Up to 70% Off
+    *   Botkier Handbags &. More
+    *   Luxe Locks: Alterna Hair Care
+    *   Madden Girl: Shoes Under $40
+    *   Full-On Glam: Zoe Ayla Skin Care, Brushes &. More
+    *   Gemstone Stacking Rings Starting at $25
     *   Romeo &. Juliet Couture Up to 75% Off
     *   First-Class Treatments: Skin Care Up to 90% Off
     *   Sunday Steals Up to 80% Off
@@ -126,6 +134,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Best of Italy: Handbags
     *   Summer Work Essentials Starting at $20
     *   Athena Alexander Up to 55% Off
+    
     *   Michou Sterling Silver &. Gemstone Jewelry
     *   PRJON Active Up to 80% Off
     *   National Lipstick Day: Nanacoco
@@ -142,69 +151,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Curvy Couture Sleep &. Lingerie Incl. Plus
     *   Cecelia New York Up to 45% Off
     *   Raymond Weil Luxury Swiss Watches
-    
-    *   NARS
     *   Your Favorite Summer Fragrances ft. Lalique
     *   CZ by Kenneth Jay Lane Up to 75% Off
     *   Must-Have Heels Under $60
     *   Made in Italy: Sphera Milano Jewelry from $20
     *   Go for Gold: 24K Face Masks &. More from Azure
-    *   Summer Chic: Pants, Tops &. More Up to 70% Off
+    *   Pants, Tops &. More Up to 70% Off Including Plus &. Petites
+    *   NARS
     *   Algenist Skin Care
     *   ghd: Good Hair Day, Every Day
-    *   A.L.C. Up to 60% Off
-    *   Steve Madden Starting at $25
-    *   Sugarlips
-    *   Aldo Starting at $25
-    *   Valentino by Mario Valentino
-    *   Joan Vass
-    *   On-Trend 14K Gold Jewelry
-    *   Dr. Scholl's
-    *   Lime &. Vine Sport Up to 75% Off
-    *   Day to Night: End of Summer Steals
-    *   Bralette Boutique: Styles Under $25
-    *   Reef Starting at $15
-    *   On-Trend: Leather Bracelets &. More from $15
-    *   Elizabeth and James Up to 70% Off
     *   Plume Science: Brow &. Lash Solutions
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
-    *   ChinUp Masks
-    *   All-Day Glow: skinChemists Up to 80% Off
-    *   Jumpsuits &. Rompers Up to 65% Off
-    *   Workwear Dresses ft. Tahari Up to 65% Off
     
     Shop By Category
     *   Clothing
     *   Jewelry
     *   Shoes
     *   Handbags
-    *   Lingerie
     *   Accessories
+    *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
+    *   Parke &. Ronen
+    *   Summer Sunnies Up to 70% Off
+    *   Men's Jean Shop: Styles Under $70
+    *   Unsimply Stitched Loungewear &. More from $10
+    *   Original Penguin Shoes Up to 60% Off
     *   Men's Shoes Up to 65% Off
     *   Bulova &. Citizen Watches Up to 65% Off
-    *   Maceoo
     *   Polo Ralph Lauren
     *   Teami Blends Detox Teas &. Supplements
     *   New Balance Men
-    *   Unsimply Stitched Loungewear &. More from $10
+    
+    *   Summer Workout: Shorts &. Tees Under $40
     *   Raymond Weil Luxury Swiss Watches
     *   Arka Tees Under $20
     *   Velvet by Graham &. Spencer
     *   John Varvatos Star USA
-    
-    *   Steve Madden Men
-    *   Men's Sport Sun
     *   James Tattersall Up to 75% Off
     *   Luxe Luggage ft. Hartmann
     *   Reef Men from $15
-    *   Perry Ellis Tailored Clothing Up to 65% Off
-    *   Diesel Up to 65% Off
-    *   Diesel Lounge &. Underwear Starting at $15
-    *   Diesel Men's Shoes Up to 55% Off
-    *   Coastal Under $30
+    *   Maceoo
     *   Men's Jewelry from MARZ Under $35
     
     Shop By Category
@@ -214,68 +202,68 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Skechers Kids
+    *   Frenchie Mini Couture Bath Under $15
+    *   Summer Styles for Baby ft. Little Me
     *   Belly Bandit
     *   Must-Haves for Baby Starting at $8
     *   New Balance Kids
-    *   Steve Madden Girls
-    *   Isaac Mizrahi Boys &. More Up to 65% Off
-    *   $30 &. Under: Boys' Dress Shoes
     *   Summer Dress Code: Zunie &. More
     
     Shop By Category
-    *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
+    *   Baby Girl
     *   Girls' Shoes
     *   Boys' Shoes
     *   Girls Sizes 2T-6X
-    *   Baby Girl
+    *   Baby Gear &. Essentials
     *   Baby Boy
     *   Girls Sizes 7-16
 *   HomeShop Sale Events
     
+    *   Organization Essentials Starting at $10
+    *   Desk to Impress: Chic Organizers, Frames &. More
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Fresh Bedding for Every Style
     *   Free Shipping: Inviting Decor Up to 70% Off
     *   Apartment Faves: Wine Racks, Floor Mats &. More
     *   Cuisinart
     *   Free Shipping: Mid-Century Modern Steals
+    
     *   Free Shipping: Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Hand-Painted Replicas
-    
     *   Ornate Metal Decor &. More
     *   Ultra-Soft Towels Up to 75% Off
     *   Bedding Upgrade: Linens &. More Up to 80% Off
     *   School Pride: College Logo Wallets, Decor &. More
     *   Space Savers: Organization Essentials from $15
     *   Poo-Pourri Bathroom Scents
-    *   Free Shipping: Luxe 18-Piece Towel Sets &. More
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Bath
     *   Storage &. Cleaning
     *   Pet Accessories
     *   Accent Furniture
+    *   Bath
     *   Luggage &. Travel
     *   Rugs
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Luxe Locks: Alterna Hair Care
+    *   Full-On Glam: Zoe Ayla Skin Care, Brushes &. More
     *   First-Class Treatments: Skin Care Up to 90% Off
     *   National Lipstick Day: Nanacoco
     *   Teami Blends Detox Teas &. Supplements
-    *   NARS
     *   Your Favorite Summer Fragrances ft. Lalique
-    *   Go for Gold: 24K Face Masks &. More from Azure
     
+    *   Go for Gold: 24K Face Masks &. More from Azure
+    *   NARS
     *   Algenist Skin Care
     *   ghd: Good Hair Day, Every Day
     *   Plume Science: Brow &. Lash Solutions
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
-    *   ChinUp Masks
-    *   All-Day Glow: skinChemists Up to 80% Off
     
     Shop By Category
     *   Skin Care
