@@ -17,8 +17,8 @@
     
     Get Advice
     *   Reverse mortgages
-    *   Reasons to use home equity
-    *   Buying a home
+    *   What is a home equity loan?
+    *   Home buying guide
     *   Refinance your mortgage
     *   First-time homebuyer tips
     *   FHA loans
@@ -110,6 +110,7 @@
     
     *   IRA CD rates
     *   Brokerage accounts
+    *   Brokerage reviews
     
     Use Calculators
     
