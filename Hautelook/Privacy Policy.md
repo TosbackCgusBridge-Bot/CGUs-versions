@@ -8,8 +8,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   SOREL Up to 50% Off
+    *   SOREL Men Up to 50% Off
+    *   SOREL Kids Starting at $30
+    *   Summer Spotlight: Day Dresses Up to 65% Off
+    *   Siwy Denim
+    *   Free Shipping: Bright &. Bold Bedding Blowout
+    *   Free Shipping: Accent &. Area Rugs Up to 65% Off
+    *   Free Shipping: Pillow &. Throw Blowout
+    *   Free Shipping: Quirky Art Prints &. More
+    *   Polarized Performance Sun
+    *   Love Sam
+    *   Shape ft. Yummie by Heather Thomson
+    *   Olivia Welles Jewelry Up to 75% Off
+    *   Skinn Cosmetics Up to 70% Off
+    *   On-Trend Summer Tops Under $30
+    *   Uplift Your Look: Push-Up Bras Under $30
+    *   Matt Bernson
+    *   K-Beauty Faves: Klairs &. By Wishtrend
+    *   14K Gold &. More Under $80
+    *   Aromatherapy: Eco Modern Essentials
+    *   Vanity Planet
+    *   BC Collection Up to 70% Off
+    *   Deux par Deux
+    *   Slate &. Stone
+    *   AnnLoren
+    *   Back to School: Jessica Simpson Sets &. More
+    *   Back to School: Boys' Levi's &. More
     *   Joie &. Soft Joie Up to 70% Off
     *   CURRENT/ELLIOTT Up to 65% Off
+    
     *   Joie Shoes Up to 50% Off
     *   FAVLUX Under $20
     *   Last Call: Summer Styles
@@ -39,17 +67,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Sterling Forever Jewelry from $15
     *   Men's Shoes Up to 65% Off
     *   Bulova &. Citizen Watches Up to 65% Off
-    *   Johnny Was
     
-    *   Carlos by Carlos Santana Starting at $35
-    *   Suit Yourself: Swim Incl. Plus Up to 70% Off
     *   Statement Jewelry Under $35
-    *   G.H. Bass &. Co. Women Up to 45% Off
-    *   Best of Italy: Handbags
-    *   Summer Work Essentials Starting at $20
-    *   Athena Alexander Up to 55% Off
     *   Michou Sterling Silver &. Gemstone Jewelry
-    *   PRJON Active Up to 80% Off
     *   National Lipstick Day: Nanacoco
     *   Polo Ralph Lauren
     *   Teami Blends Detox Teas &. Supplements
@@ -57,55 +77,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Inviting Decor Up to 70% Off
     *   Belly Bandit
     *   Must-Haves for Baby Starting at $8
-    *   Elan Under $40
-    *   New York Collective Up to 70% Off
-    *   Go Couture Blowout
-    *   New Balance
-    *   Plus Shop: Melissa McCarthy Seven7 &. More
-    *   Quay Australia Sun Under $25
-    *   Tiare Hawaii
-    *   Summer Must-Haves: Straw Bags &. More
-    *   A Che' Swim Up to 65% Off
     *   New Balance Men
-    *   Curvy Couture Sleep &. Lingerie Incl. Plus
     *   Summer Workout: Shorts &. Tees Under $40
-    *   Cecelia New York Up to 45% Off
-    *   Raymond Weil Luxury Swiss Watches
     *   Your Favorite Summer Fragrances ft. Lalique
-    *   CZ by Kenneth Jay Lane Up to 75% Off
-    
-    *   Must-Have Heels Under $60
-    *   New Balance Kids
-    *   Made in Italy: Sphera Milano Jewelry from $20
     *   Arka Tees Under $20
     *   Velvet by Graham &. Spencer
     *   Go for Gold: 24K Face Masks &. More from Azure
     *   Apartment Faves: Wine Racks, Floor Mats &. More
-    *   Pants, Tops &. More Up to 70% Off Including Plus &. Petites
-    *   NARS
     *   Algenist Skin Care
     *   ghd: Good Hair Day, Every Day
-    *   John Varvatos Star USA
     *   Cuisinart
-    *   James Tattersall Up to 75% Off
     *   Free Shipping: Mid-Century Modern Steals
-    *   Luxe Luggage ft. Hartmann
-    *   Reef Men from $15
     *   Free Shipping: Pet-Friendly Covers, Beds &. More
-    *   Plume Science: Brow &. Lash Solutions
-    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Free Shipping: Hand-Painted Replicas
     *   Ornate Metal Decor &. More
     *   Ultra-Soft Towels Up to 75% Off
-    *   Bedding Upgrade: Linens &. More Up to 80% Off
-    *   School Pride: College Logo Wallets, Decor &. More
-    *   Space Savers: Organization Essentials from $15
-    *   Poo-Pourri Bathroom Scents
     *   Maceoo
-    *   Men's Jewelry from MARZ Under $35
     *   Summer Dress Code: Zunie &. More
+    *   Go Couture Blowout
 *   WomenShop Sale Events
     
+    *   SOREL Up to 50% Off
+    *   Summer Spotlight: Day Dresses Up to 65% Off
+    *   Siwy Denim
+    *   Polarized Performance Sun
+    *   Love Sam
+    *   Shape ft. Yummie by Heather Thomson
+    *   Olivia Welles Jewelry Up to 75% Off
+    *   Skinn Cosmetics Up to 70% Off
+    *   On-Trend Summer Tops Under $30
+    *   Uplift Your Look: Push-Up Bras Under $30
+    *   Matt Bernson
+    *   K-Beauty Faves: Klairs &. By Wishtrend
+    *   14K Gold &. More Under $80
+    *   Aromatherapy: Eco Modern Essentials
+    *   Vanity Planet
+    *   AnnLoren
     *   Joie &. Soft Joie Up to 70% Off
     *   CURRENT/ELLIOTT Up to 65% Off
     *   Joie Shoes Up to 50% Off
@@ -113,6 +120,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Last Call: Summer Styles
     *   Sports Bras &. More Incl. Extended Sizes
     *   JoFit Golf &. Tennis Starting at $30
+    
     *   Tahitian Pearl Jewelry &. More Under $80
     *   Summer Sunnies Up to 70% Off
     *   Botkier Handbags &. More
@@ -126,144 +134,122 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Shoes We Love Up to 65% Off
     *   Free Shipping: Sterling Forever Jewelry from $15
     *   Bulova &. Citizen Watches Up to 65% Off
-    *   Johnny Was
-    *   Carlos by Carlos Santana Starting at $35
-    *   Suit Yourself: Swim Incl. Plus Up to 70% Off
     *   Statement Jewelry Under $35
-    *   G.H. Bass &. Co. Women Up to 45% Off
-    *   Best of Italy: Handbags
-    *   Summer Work Essentials Starting at $20
-    *   Athena Alexander Up to 55% Off
-    
     *   Michou Sterling Silver &. Gemstone Jewelry
-    *   PRJON Active Up to 80% Off
     *   National Lipstick Day: Nanacoco
     *   Teami Blends Detox Teas &. Supplements
-    *   Elan Under $40
-    *   New York Collective Up to 70% Off
-    *   Go Couture Blowout
-    *   New Balance
-    *   Plus Shop: Melissa McCarthy Seven7 &. More
-    *   Quay Australia Sun Under $25
-    *   Tiare Hawaii
-    *   Summer Must-Haves: Straw Bags &. More
-    *   A Che' Swim Up to 65% Off
-    *   Curvy Couture Sleep &. Lingerie Incl. Plus
-    *   Cecelia New York Up to 45% Off
-    *   Raymond Weil Luxury Swiss Watches
     *   Your Favorite Summer Fragrances ft. Lalique
-    *   CZ by Kenneth Jay Lane Up to 75% Off
-    *   Must-Have Heels Under $60
-    *   Made in Italy: Sphera Milano Jewelry from $20
     *   Go for Gold: 24K Face Masks &. More from Azure
-    *   Pants, Tops &. More Up to 70% Off Including Plus &. Petites
-    *   NARS
     *   Algenist Skin Care
     *   ghd: Good Hair Day, Every Day
-    *   Plume Science: Brow &. Lash Solutions
-    *   SIBU Sea Berry Therapy Skin Care &. Supplements
+    *   Go Couture Blowout
     
     Shop By Category
     *   Clothing
     *   Jewelry
     *   Shoes
-    *   Handbags
-    *   Accessories
     *   Lingerie
+    *   Accessories
     *   Watches
+    *   Handbags
 *   MenShop Sale Events
     
+    *   SOREL Men Up to 50% Off
+    *   Polarized Performance Sun
+    *   BC Collection Up to 70% Off
+    *   Slate &. Stone
     *   Parke &. Ronen
     *   Summer Sunnies Up to 70% Off
     *   Men's Jean Shop: Styles Under $70
     *   Unsimply Stitched Loungewear &. More from $10
     *   Original Penguin Shoes Up to 60% Off
+    
     *   Men's Shoes Up to 65% Off
     *   Bulova &. Citizen Watches Up to 65% Off
     *   Polo Ralph Lauren
     *   Teami Blends Detox Teas &. Supplements
     *   New Balance Men
-    
     *   Summer Workout: Shorts &. Tees Under $40
-    *   Raymond Weil Luxury Swiss Watches
     *   Arka Tees Under $20
     *   Velvet by Graham &. Spencer
-    *   John Varvatos Star USA
-    *   James Tattersall Up to 75% Off
-    *   Luxe Luggage ft. Hartmann
-    *   Reef Men from $15
     *   Maceoo
-    *   Men's Jewelry from MARZ Under $35
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   SOREL Kids Starting at $30
+    *   Deux par Deux
+    *   AnnLoren
+    *   Back to School: Jessica Simpson Sets &. More
+    *   Back to School: Boys' Levi's &. More
     *   Skechers Kids
+    
     *   Frenchie Mini Couture Bath Under $15
     *   Summer Styles for Baby ft. Little Me
     *   Belly Bandit
     *   Must-Haves for Baby Starting at $8
-    *   New Balance Kids
     *   Summer Dress Code: Zunie &. More
     
     Shop By Category
-    *   Baby Girl
-    *   Girls' Shoes
-    *   Boys' Shoes
-    *   Girls Sizes 2T-6X
-    *   Baby Gear &. Essentials
-    *   Baby Boy
     *   Girls Sizes 7-16
+    *   Girls Sizes 2T-6X
+    *   Baby Girl
+    *   Boys Sizes 2T-7
+    *   Girls' Shoes
+    *   Baby Boy
+    *   Baby Gear &. Essentials
+    *   Boys Sizes 8-20
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Bright &. Bold Bedding Blowout
+    *   Free Shipping: Accent &. Area Rugs Up to 65% Off
+    *   Free Shipping: Pillow &. Throw Blowout
+    *   Free Shipping: Quirky Art Prints &. More
     *   Organization Essentials Starting at $10
     *   Desk to Impress: Chic Organizers, Frames &. More
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Fresh Bedding for Every Style
+    
     *   Free Shipping: Inviting Decor Up to 70% Off
     *   Apartment Faves: Wine Racks, Floor Mats &. More
     *   Cuisinart
     *   Free Shipping: Mid-Century Modern Steals
-    
     *   Free Shipping: Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Hand-Painted Replicas
     *   Ornate Metal Decor &. More
     *   Ultra-Soft Towels Up to 75% Off
-    *   Bedding Upgrade: Linens &. More Up to 80% Off
-    *   School Pride: College Logo Wallets, Decor &. More
-    *   Space Savers: Organization Essentials from $15
-    *   Poo-Pourri Bathroom Scents
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Storage &. Cleaning
+    *   Rugs
     *   Pet Accessories
     *   Accent Furniture
+    *   Storage &. Cleaning
     *   Bath
-    *   Luggage &. Travel
-    *   Rugs
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Skinn Cosmetics Up to 70% Off
+    *   K-Beauty Faves: Klairs &. By Wishtrend
+    *   Aromatherapy: Eco Modern Essentials
+    *   Vanity Planet
     *   Luxe Locks: Alterna Hair Care
     *   Full-On Glam: Zoe Ayla Skin Care, Brushes &. More
     *   First-Class Treatments: Skin Care Up to 90% Off
+    
     *   National Lipstick Day: Nanacoco
     *   Teami Blends Detox Teas &. Supplements
     *   Your Favorite Summer Fragrances ft. Lalique
-    
     *   Go for Gold: 24K Face Masks &. More from Azure
-    *   NARS
     *   Algenist Skin Care
     *   ghd: Good Hair Day, Every Day
-    *   Plume Science: Brow &. Lash Solutions
-    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     
     Shop By Category
     *   Skin Care
@@ -271,8 +257,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Fragrance
     *   Supplements
     *   Nails
-    *   Bath &. Body
     *   Tools &. Accessories
+    *   Bath &. Body
     *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
@@ -461,4 +447,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest store.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
+Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
