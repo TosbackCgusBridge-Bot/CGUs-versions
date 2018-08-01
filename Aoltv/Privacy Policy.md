@@ -84,6 +84,10 @@ Switzerland (italiano) 
   
 Singapore (English) 
 
+日本（日本語）
+
+ 
+
 Slovenija (slovenščina)   
   
 Slovenská (slovenčina) 
@@ -126,6 +130,6 @@ Thailand (English) 
   
 臺灣 (繁體中文) 
 
-Build Brands People Love
+  Build Brands People Love
 
 ©2018 Oath Inc. All Rights Reserved.
