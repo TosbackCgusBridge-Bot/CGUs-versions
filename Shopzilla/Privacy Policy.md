@@ -40,6 +40,7 @@ Toggle navigationblog navsite nav
         *   Retailer Listings
         *   Retailer Site Monetization
         *   Publisher Monetization
+        *   Google Shopping Ads
 *   About
     *   Open Positions
     *   Benefits
