@@ -92,7 +92,23 @@ Main menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! How Will Jimmy McGill Get Back to Work in Season 4?
+search Your browser does not support JavaScript! Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode
+
+Introducing the MASTER Series OLED Television
+
+Close
+
+*   Share Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode on Facebook
+*   Share Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode on Twitter
+*   Copy URL to share Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode
+
+Play Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode Video
+
+Sony on YouTube - Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode
+
+Play Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/65\_A9F\_AF9\_blk\_ccw\_600x600\_PpsIPtK.jpg);" alt="A9F Master Series OLED ">. How Will Jimmy McGill Get Back to Work in Season 4?
 
 "Better Call Saul" Returns August 6
 
@@ -154,23 +170,23 @@ Close
 
 At Sony Square NYC
 
-<img class="bg-img" class="url(/en\_us/media/content/SSNYC-600x600\_eFFhtJb.jpg);" alt="Sony Square NYC">. See Where All of the Epic Scenes From “Outlander” Are Created
+<img class="bg-img" class="url(/en\_us/media/content/SSNYC-600x600\_eFFhtJb.jpg);" alt="Sony Square NYC">. The World Has Enough Superheroes: We Are Venom
 
-Take a Tour of the Writers Room
+In Theaters October 5
 
 Close
 
-*   Share See Where All of the Epic Scenes From “Outlander” Are Created on Facebook
-*   Share See Where All of the Epic Scenes From “Outlander” Are Created on Twitter
-*   Copy URL to share See Where All of the Epic Scenes From “Outlander” Are Created
+*   Share The World Has Enough Superheroes: We Are Venom on Facebook
+*   Share The World Has Enough Superheroes: We Are Venom on Twitter
+*   Copy URL to share The World Has Enough Superheroes: We Are Venom
 
-Play See Where All of the Epic Scenes From “Outlander” Are Created Video
+Play The World Has Enough Superheroes: We Are Venom Video
 
-Sony on YouTube - See Where All of the Epic Scenes From “Outlander” Are Created
+Sony on YouTube - The World Has Enough Superheroes: We Are Venom
 
-Play See Where All of the Epic Scenes From “Outlander” Are Created Video hotspot
+Play The World Has Enough Superheroes: We Are Venom Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/Outlander-600x600\_5zohAaD.jpg);" alt="Outlanders Writers Room Tour">. Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro
+<img class="bg-img" class="url(/en\_us/media/content/Venom-600x600\_mYXdyDZ.jpg);" alt="Venom Trailer">. Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro
 
 Learn More
 
