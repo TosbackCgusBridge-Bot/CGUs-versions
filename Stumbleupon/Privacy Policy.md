@@ -1,5 +1,5 @@
-StumbleUpon is gone.
+Hi. StumbleUpon moved to Mix. Come Join us.
 
-From the makers of StumbleUpon, comes Mix, a new way to discover and save all your favorite things on the web.
+New from our team, Mix lets you curate and discover the best of the web. The more you use it, the more it knows what you’ll love. Get started below.
 
-Join Mix
+Join MixLearn More
