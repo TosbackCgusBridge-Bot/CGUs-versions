@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Laura Hollis_: FBI Collusion: We Were Never Supposed to Know
+*   _Jeff Spross_: Why the Trump Economy Will Go Bust
     
-*   _Charles Blow_: Michael Cohen Takes a Bullet
+*   _Cal Thomas_: Trump's Economy Has Dems Singing Same Old Tax Song
     
-*   _Willis Krumholz_: Trump Tower Meeting Is Incriminating, But Not for Trump
+*   _John Cassidy_: What Is Giuliani Talking About?
     
-*   _Amanda Marcotte_: Tipping Point: Will Trump's Misdeeds Finally Hurt Him?
+*   _Peter Van Buren_: Trump Is Not the 'Manchurian Candidate'
     
-*   _Nate Cohn_: 99 Days to Go, Midterm Battleground Starts Coming Into Focus
+*   _Shan Wu_: Mueller Can't Afford to Lose the Manafort Trial
     
-*   _Michael Graham_: How Trump Turned Around Obama's Anemic Economy
+*   _Stephen Moore_: Trump's Trade Triumph
     
-*   _Howard Yu_: Trump Doesn't Understand Benefits the U.S. Gets From Trade
+*   _Yong Wang_: The Chinese View: Ten Truths About U.S.-China Trade
     
-*   _Peter Hasson_: Twitter's Censorship Problem Is Sparking a Backlash
+*   _Ivanka Trump_: Build Workers' Skills More Effectively to Ensure Bright Future
     
-*   _Jules Witcover_: Trump's Fake War on True News
+*   _Sen. Debbie Stabenow_: Kavanaugh the Wrong Choice for Michigan
     
-*   _Adam Andrzejewski_: In FL, Public Employees with $100k+ Salaries Cost $5.5B
+*   _Adam J. White_: Brett Kavanaugh's Supreme Influence
     
-*   _Steve Coll_: Can Imran Khan Really Reform Pakistan?
+*   _Paul Krugman_: Trump's Supreme Betrayal
     
-*   _Jonathan Allen_: Strong Growth Hands Republicans Message. Will It Work?
+*   _Karin McQuillan_: The Secret of Trump's Success: Patriotism
     
-*   _Everett &. Schor_: Inside Democrats' Strategy to Defeat Kavanaugh
+*   _Alex Castellanos_: How Trump Has Managed to Defy Gravity
     
-*   _Kimberley Strassel_: Devin Nunes, Washington's Public Enemy No. 1
+*   _Robert Kuttner_: Dem Wave In Midterms Looking More &. More Likely
     
-*   _Juan Williams_: What Does Putin Have on Trump?
+*   _David Catron_: Blue Wave Balderdash
     
-*   _Ned Ryun_: Americans Need Clear Answers on FISA Abuse
+*   _Tim Murphy_: Ocasio-Cortez Helping Others Beat the Dem Machine
     
-*   _Caitlin Huey-Burns_: Female Republican Candidates Eschew the Gender Card
+*   _Charles Cooke_: The Unserious Face of an Unserious Movement
     
-*   _Ezra Klein_: White Threat in a Browning America
+*   _Resnick_: Dems Already Making Frantic Moves for 2020
     
-*   _Joel Kurtinitis_: The 'Racism' Charge Is Losing Its Meaning
+*   _Gabriel Sherman_: Inside the Trump 2020 Campaign
     
-*   _Arthur Laffer_: Prosperity of Trump Era Marks Real Turning Point in History
+*   _Sean Trende_: Assessing Joe Manchin's Chances in West Virginia
     
-*   _Gene Marks_: Republicans Tout Massive Tax Cut, But Is It a Boost or Bust?
+*   _Karson &. Verhovek_: Beto O'Rourke Eyes an End to GOP Grip on Texas
     
-*   _George Will_: Protectionism's Appeal Endures, Despite Its Disastrous Effects
+*   _Sen. Ted Cruz_: Trump Has Rebuilt America's Bond With Israel
     
-*   _Andy Puzder_: China Started the Trade War, Trump Is Just Trying to End It
+*   _Trita Parsi_: Trump Meeting With Iran Won't Get U.S. a Better Deal
     
-*   _Bill Scher_: Democrats, Don't Forget the Senate
+*   _Glenn Harlan Reynolds_: China Benefits From Our Attention to Russia
     
 
 *   Previous
@@ -226,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Assessing Manchin's Chances in West Virginia
 *   Female Republican Candidates Eschew the Gender Card
+*   Full Replay: Trump Hosts Press Conference With Italian Prime Minister
 *   Ocasio-Cortez, Republicans' Midterm Boogeyman?
-*   Mnuchin: Trump Is Proving Naysayers Wrong With Sustained Growth
 *   The Personal Privacy vs. Public Security Dilemma
-*   Trump Hails Trade Progress in Agreement With EU
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,31 +247,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Wisconsin Senate - Republican PrimaryEmerson
-    *   Nicholson35
-    *   Vukmir35Tie
-*   Wisconsin Senate - Nicholson vs. BaldwinEmerson
-    *   Baldwin49
-    *   Nicholson40Baldwin +9
-*   Wisconsin Senate - Vukmir vs. BaldwinEmerson
-    *   Baldwin50
-    *   Vukmir36Baldwin +14
-*   Wisconsin Governor - Democratic PrimaryEmerson
-    *   Evers30
-    *   Vinehout10
-    *   McCabe5
-    *   Soglin5
-    *   Mitchell5
-    *   Roys7
-    *   Flynn5Evers +20
+*   Florida Senate - Scott vs. NelsonMason-Dixon
+    *   Scott47
+    *   Nelson44Scott +3
+*   Nevada Senate - Heller vs. RosenSuffolk\*
+    *   Rosen40
+    *   Heller41Heller +1
+*   Nevada Governor - Laxalt vs. SisolakSuffolk\*
+    *   Sisolak41
+    *   Laxalt42Laxalt +1
+*   Georgia Governor - Kemp vs. AbramsGravis
+    *   Abrams46
+    *   Kemp44Abrams +2
 
 More Latest Polls In The News
 
-*   Lindsey Graham: Trump Should Tell WTO, Enforce Trade Rules On China Or U.S. Will Quit
-*   Larry Kudlow: Trade Negotiations With The EU Will Begin "Immediately," Expect NAFTA Announcement Soon
+*   Mollie Hemingway: Huge Division Between Republican "Donor Base" And "Voter Base" On Immigration
+*   Rosenberg: "Collusion" And "Conspiracy" Are Synonyms. "Rudy Giuliani Makes Absolutely No Sense"
+*   Tucker Carlson: Trump Derangement Syndrome Has Made The Democratic Party Unrecognizable
+*   CFR President Richard Haass: Trump Summits With Russia, North Korea Leave Us Worse Off Than Before
 *   Devin Nunes: Looking At "Legal Remedies" To Stop Twitter "Shadow Banning" Republicans
-*   David Brooks: U.S. Imploding, Becoming A "Black Hole" Under Trump, Foreign Investors Not Interested
-*   "Accidental Superpower" Author Peter Zeihan: President Trump's Foreign Policy In Geopolitical Context
 
 *   Politics
 *   Policy
