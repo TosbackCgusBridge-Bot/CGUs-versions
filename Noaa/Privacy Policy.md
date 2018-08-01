@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Where the sharks are: What we found cruising the Gulf of Mexico, in photos AROUND NOAA // NOAA surveys the unsurveyed, leading the way in the U.S. Arctic \[EXT\] Video: A symphony of sharks! Feast your eyes and ears on this \[EXT\] June 2018 was 5th warmest on record for the globe
+Enter Search Terms Below-average ‘dead zone’ measured in Gulf of Mexico Persistently strong westerly winds and waves likely led to smaller than expected zone size AROUND NOAA // NOAA surveys the unsurveyed, leading the way in the U.S. Arctic \[EXT\] Video: A symphony of sharks! Feast your eyes and ears on this \[EXT\] June 2018 was 5th warmest on record for the globe
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-Tiger shark (iStock)
+NOAA
