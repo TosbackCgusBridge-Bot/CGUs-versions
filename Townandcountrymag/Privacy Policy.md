@@ -56,7 +56,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 10 Beauty Lessons We Learned From Jackie Kennedy 2 Why So Many People Are Betting on Beto O'Rourke 3 19 of the Best Summer Camps in the Country 4 The Weekly Covet: Summer Skin Saviors 5 10 Punches to Upgrade Your Next Summer Soirée Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Butler vs. House Manager: What's the Difference? 2 Why So Many People Are Betting on Beto O'Rourke 3 The Best Masks for Puffy Under Eyes 4 T&C Horoscopes: August 1-15 5 Easy (and Last Minute!) Labor Day Getaway Ideas Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
