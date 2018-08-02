@@ -230,9 +230,9 @@ View more results
     
     Recommended Games
     
-    *   Animal Jam
-    *   Wizard 101
+    *   PopTropica
     *   Roblox
+    *   My Free Farm 2
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
