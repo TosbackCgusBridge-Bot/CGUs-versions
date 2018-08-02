@@ -41,38 +41,46 @@
     *   Money market account vs. savings account
     *   Prime rate
     *   Credit union basics
-*   Credit Cards Compare Cards
+*   Credit Cards Credit Cards by Category
     
-    *   0 interest credit cards
-    *   Airline credit cards
-    *   Balance transfer credit cards
-    *   Business credit cards
-    *   Cash-back credit cards
-    *   Rewards credit cards
+    *   Best Credit Cards of 2018
+    *   Rewards
+    *   Travel
+    *   Cash back
+    *   Balance transfer
+    *   0% interest
+    *   Low interest
+    *   Business
+    *   No annual fee
+    *   Student
+    
+    Credit Cards by Credit Needed
+    
+    *   Excellent credit
+    *   Good credit
+    *   Fair credit
+    *   Bad credit
+    *   No credit
+    *   Secured cards
+    *   Prepaid and Debit
+    
+    Credit Cards by Issuer
+    
+    *   American Express
+    *   Bank of America
+    *   Capital One
+    *   Chase
+    *   Citi
+    *   Discover
+    *   Wells Fargo
+    *   Visa
+    *   MasterCard
+    
+    Resources
     *   Credit card reviews
-    
-    Use Calculators
-    
     *   Credit card payoff calculator
     *   Balance transfer calculator
-    *   Credit card consolidation calculator
-    *   All credit card calculators
-    
-    Get Advice
-    
-    *   Getting a secured credit card
-    *   Balance transfer pros and cons
-    *   Credit card fraud protection
-    *   Manage your credit
-    
-    Best Offers
-    *   Best credit cards of 2018
-    *   Best reward cards
-    *   Best travel credit cards
-    *   Best balance transfer credit cards
-    *   Best cash-back credit cards
-    *   Best student credit cards
-    *   Best business credit cards
+    *   All Credit Card calculators
 *   Loans Compare Lenders
     
     *   Personal loan rates
