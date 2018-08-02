@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-Toggle initial options for NPR audio player ****Pick Your NPR Station**There are at least two stations nearby**Toggle more player options View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search
+Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On Air Now**Toggle more player options View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search
 
 *   NPR Home
 *   Set station
@@ -259,7 +259,7 @@ Back
 
 May 7, 20139:51 AM ET
 
-**Effective Date June 30, 2018**
+**Effective Date July 31, 2018**
 
 NPR Online Privacy Policy Highlights
 
