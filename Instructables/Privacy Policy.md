@@ -414,6 +414,7 @@ Products
 *   Manufacturing
 *   Product design
 *   Find by industry
+*   Industry collections
 
 Buying
 
@@ -469,6 +470,7 @@ Products
 *   Manufacturing
 *   Product design
 *   Find by industry
+*   Industry collections
 
 Buying
 
