@@ -108,7 +108,7 @@ Sony on YouTube - Watch Movies &. TV Shows How the Creators Intended With Our Ne
 
 Play Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/65\_A9F\_AF9\_blk\_ccw\_600x600\_PpsIPtK.jpg);" alt="A9F Master Series OLED ">. How Will Jimmy McGill Get Back to Work in Season 4?
+<img class="bg-img" class="url(/en\_us/media/content/A9F\_AF9-600x600.png);" alt="A9F Master Series OLED ">. How Will Jimmy McGill Get Back to Work in Season 4?
 
 "Better Call Saul" Returns August 6
 
@@ -152,7 +152,7 @@ WF-SP700N
 
 Designed to take smartphone photography to the next level, the #XperiaXZ2Premium is now available! Click here to learn more.
 
-23 hours ago
+1 day ago
 
 View Tweet
 
