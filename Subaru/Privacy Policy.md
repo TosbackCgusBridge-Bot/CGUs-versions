@@ -8,12 +8,12 @@ Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
-*   Shortline Subaru (7 miles)
-*   Groove Subaru (8 miles)
-*   Mike Shaw Subaru (9 miles)
-*   AutoNation Subaru West (10 miles)
-*   AutoNation Subaru Arapahoe (12 miles)
-*   Flatirons Subaru (21 miles)
+*   Money Subaru (89 miles)
+*   DuTeau Subaru (116 miles)
+*   Baxter Subaru (163 miles)
+*   Briggs Subaru of Topeka (164 miles)
+*   Beardmore Subaru (165 miles)
+*   Subaru of Wichita (167 miles)
 
 Submit
 
@@ -48,11 +48,11 @@ Up to
 
 2.0i Sport Sedan shown
 
-Legacy $22,195\* starting price 2018 Legacy
+Legacy $22,545\* starting price 2019 Legacy
 
 Starting at
 
-$22,195 MSRP
+$22,545 MSRP
 
 Up to
 
