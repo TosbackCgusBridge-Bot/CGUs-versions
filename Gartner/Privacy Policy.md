@@ -113,7 +113,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     
 *   **Call +1 855-515-4486 or contact us** **to become a Gartner client.**
 
-Become a Client **Call +1 855-515-4486 or contact us** **to become a Gartner client.**   Sign in   GARTNER PRIVACY POLICY Effective Date: May 2018  
+Become a Client **Call +1 855-515-4486 or contact us** **to become a Gartner client.**   Log in   GARTNER PRIVACY POLICY Effective Date: May 2018  
 
 Gartner and its affiliates are committed to protecting your information. Please read this Privacy Notice **("the Notice")** carefully as it sets out important information relating to how we handle your personal information.
 
@@ -436,4 +436,4 @@ Email Address: privacy@gartner.com
 *   Privacy Policy
 *   Terms of Use
 
-© 2018 Gartner, Inc. and/or its affiliates. All rights reserved.
+©2018 Gartner, Inc. and/or its affiliates. All rights reserved.
