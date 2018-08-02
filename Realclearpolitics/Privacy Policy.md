@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jeff Spross_: Why the Trump Economy Will Go Bust
+*   _Sullivan &. Schmidt_: Trump: Sessions Should Stop 'Rigged Witch Hunt Right Now'
     
-*   _Cal Thomas_: Trump's Economy Has Dems Singing Same Old Tax Song
+*   _Peter Beinart_: We're All Michael Cohen
     
-*   _John Cassidy_: What Is Giuliani Talking About?
+*   _Keith Koffler_: Trump's Economy Is Bad News for Dems in the Midterms
     
-*   _Peter Van Buren_: Trump Is Not the 'Manchurian Candidate'
+*   _Steve Israel_: Is Trump Trying to Elect a Democratic Majority in 2018?
     
-*   _Shan Wu_: Mueller Can't Afford to Lose the Manafort Trial
+*   _Steve Cortes_: Mr. President, Go to the Wall Over Border Security
     
-*   _Stephen Moore_: Trump's Trade Triumph
+*   _Matt Ford_: What Are Republicans Hiding About Brett Kavanaugh?
     
-*   _Yong Wang_: The Chinese View: Ten Truths About U.S.-China Trade
+*   _Boyden Gray_: Senate Democrats Should Meet With Judge Kavanaugh
     
-*   _Ivanka Trump_: Build Workers' Skills More Effectively to Ensure Bright Future
+*   _Max Diamond_: Obama Feds Embraced Diversity...and the Needle Barely Budged
     
-*   _Sen. Debbie Stabenow_: Kavanaugh the Wrong Choice for Michigan
+*   _Nathaniel Rich_: The Decade We Almost Stopped Climate Change
     
-*   _Adam J. White_: Brett Kavanaugh's Supreme Influence
+*   _Bob McClure_: Frivolous Climate Change Suits Could Leave Cities in Ruin
     
-*   _Paul Krugman_: Trump's Supreme Betrayal
+*   _Hal Brands_: Trump Can't Split Russia From China--Yet
     
-*   _Karin McQuillan_: The Secret of Trump's Success: Patriotism
+*   _Sen. Mark Warner_: Time to Learn From Failures, Adapt Laws to Internet Age
     
-*   _Alex Castellanos_: How Trump Has Managed to Defy Gravity
+*   _Nick Bilton_: The Start of Washington's War on Silicon Valley
     
-*   _Robert Kuttner_: Dem Wave In Midterms Looking More &. More Likely
+*   _Rich Lowry_: Like It or Not, America Now Seriously Debating Socialism
     
-*   _David Catron_: Blue Wave Balderdash
+*   _Lawrence Martin_: Like Trump, Roosevelt Was a Disrupter-in-Chief
     
-*   _Tim Murphy_: Ocasio-Cortez Helping Others Beat the Dem Machine
+*   _Harry Kazianis_: Trump Doctrine Has Foreign Policy Elites Pulling Out Their Hair
     
-*   _Charles Cooke_: The Unserious Face of an Unserious Movement
+*   _Sarah Jones_: Where Is the Left Wing's Foreign Policy?
     
-*   _Resnick_: Dems Already Making Frantic Moves for 2020
+*   _Victor Davis Hanson_: How Trump Drives Liberals Backwards
     
-*   _Gabriel Sherman_: Inside the Trump 2020 Campaign
+*   _Bonnie Kristian_: Trump's Unutterably Stupid Trade War
     
-*   _Sean Trende_: Assessing Joe Manchin's Chances in West Virginia
+*   _Stephen Moore_: How Trump Could Be Like Reagan
     
-*   _Karson &. Verhovek_: Beto O'Rourke Eyes an End to GOP Grip on Texas
+*   _Jonathan Chait_: Trump's 2020 Bid Already in Trouble
     
-*   _Sen. Ted Cruz_: Trump Has Rebuilt America's Bond With Israel
+*   _Adele Malpass_: In 'Year of the Woman,' Poll Finds Gender Isn't Key
     
-*   _Trita Parsi_: Trump Meeting With Iran Won't Get U.S. a Better Deal
+*   _Noah Millman_: America's Politically Homeless Heartland
     
-*   _Glenn Harlan Reynolds_: China Benefits From Our Attention to Russia
+*   _Anthony Scaramucci_: Call It the Granite City Comeback
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   In "Year of the Woman," Poll Finds Gender Isn't Key
 *   Assessing Manchin's Chances in West Virginia
+*   Trump Holds Rally in Tampa, FL for DeSantis: "I've Kept My Promises"
 *   Female Republican Candidates Eschew the Gender Card
-*   Full Replay: Trump Hosts Press Conference With Italian Prime Minister
 *   Ocasio-Cortez, Republicans' Midterm Boogeyman?
-*   The Personal Privacy vs. Public Security Dilemma
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,26 +247,27 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Florida Senate - Scott vs. NelsonMason-Dixon
-    *   Scott47
-    *   Nelson44Scott +3
-*   Nevada Senate - Heller vs. RosenSuffolk\*
-    *   Rosen40
-    *   Heller41Heller +1
-*   Nevada Governor - Laxalt vs. SisolakSuffolk\*
-    *   Sisolak41
-    *   Laxalt42Laxalt +1
-*   Georgia Governor - Kemp vs. AbramsGravis
-    *   Abrams46
-    *   Kemp44Abrams +2
+*   Ohio 12th District Special Election - Balderson vs. O'ConnorMonmouth\*
+    *   Balderson46
+    *   O'Connor45Balderson +1
+*   Arizona Senate - Republican PrimaryABC 15/OH Predictive Insights
+    *   McSally35
+    *   Ward27
+    *   Arpaio15McSally +8
+*   Arizona Senate - McSally vs. SinemaABC 15/OH Predictive Insights
+    *   Sinema48
+    *   McSally44Sinema +4
+*   Arizona Senate - Ward vs. SinemaABC 15/OH Predictive Insights
+    *   Sinema51
+    *   Ward41Sinema +10
 
 More Latest Polls In The News
 
-*   Mollie Hemingway: Huge Division Between Republican "Donor Base" And "Voter Base" On Immigration
+*   CNN's Acosta Posts Video Of Trump Supporters Shouting At Him, Giving Middle Finger: "Sad Scene"
+*   Joe Scarborough on Trump/Russia: Forget The Word Collusion, "This Is A Conspiracy"
+*   Hannity to CNN's Acosta: "The People Of This Country, They're Screaming At You For A Reason"
+*   Steve Schmidt: Trump Is "An Agent De Facto Of Russia". He Wants Democrats To Take House Majority
 *   Rosenberg: "Collusion" And "Conspiracy" Are Synonyms. "Rudy Giuliani Makes Absolutely No Sense"
-*   Tucker Carlson: Trump Derangement Syndrome Has Made The Democratic Party Unrecognizable
-*   CFR President Richard Haass: Trump Summits With Russia, North Korea Leave Us Worse Off Than Before
-*   Devin Nunes: Looking At "Legal Remedies" To Stop Twitter "Shadow Banning" Republicans
 
 *   Politics
 *   Policy
