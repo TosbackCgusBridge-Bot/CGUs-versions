@@ -67,9 +67,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Priyanka Chopra Joins Chris Pratt in 'Cowboy Ninja Viking'. Here's Everything We Know Read More
+    *   'The Sandlot' Prequel on Its Way. Here's What We Know So Far Read More
     *   First Look at Pedro Pascal in 'Wonder Woman 1984'. Here's Everything We Know Read More
-    *   Carrie Fisher to Appear in 'Star Wars: Episode IX' With Previously Unused Footage. Here's What We Know So Far Read More
+    *   'Terminator' Reboot Adds 3 Newcomers. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -326,9 +326,9 @@ Offers
     
     Buy tickets to 'Mamma Mia! Here We Go Again' and own the first movie for just $4.99! BUY TICKETS
     
-*   'Skyscraper' Gift With Purchase
+*   'Ant-Man and The Wasp' Gift With Purchase
     
-    Receive a FREE\* 'Skyscraper' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 
 New + Coming soon
@@ -369,11 +369,11 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   July Celebrity Birthdays
+*   August Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
