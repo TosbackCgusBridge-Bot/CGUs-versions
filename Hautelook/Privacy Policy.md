@@ -8,15 +8,45 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Saint Laurent Sun &. More
+    *   Gracia
+    *   Love Stitch
+    *   Camper
+    *   New for Fall: Elodie &. More
+    *   Pre-Fall Essentials: Chic Boots
+    *   Autumn Obsessed: Coats &. Jackets Up to 60% Off
+    *   New for Fall: Men's Chukka Boots &. More
+    *   Men's Fall Preview: Jackets, Sweaters &. More
+    *   Love Stitch Dresses
+    *   Stila
+    *   Back to School Prep: Panty Packs
+    *   Lightweight Cardigans &. Pullovers Under $40
+    *   Savvy Cie Jewelry Up to 80% Off
+    *   LFL Up to 50% Off
+    *   Caudalie
+    *   Style Update: Fresh Fall Flats &. Slip-Ons
+    *   House of Harlow 1960 &. More Up to 60% Off
+    *   Hudson+Bleecker Cosmetic Bags
+    *   SmoothSkin Gold Hair Removal System
+    *   Men's Designer Shop
+    *   Modern Workwear: Sport Coats &. Denim Under $200
+    *   Free Shipping: Vintage-Inspired Drinkware &. More
+    *   Keep It Fresh: Kitchen Containers &. More
+    *   Surf &. Sun: Rip Curl
+    *   Bacco Bucci Up to 60% Off
+    *   Envya Swimwear
+    *   Book Smart: Classics &. New Faves for Kids
+    *   Thacker New York &. More
+    *   Free Shipping: Bright &. Bold Bedding Blowout
+    *   Free Shipping: Accent &. Area Rugs Up to 65% Off
+    
+    *   Free Shipping: Pillow &. Throw Blowout
+    *   Free Shipping: Quirky Art Prints &. More
     *   SOREL Up to 50% Off
     *   SOREL Men Up to 50% Off
     *   SOREL Kids Starting at $30
     *   Summer Spotlight: Day Dresses Up to 65% Off
     *   Siwy Denim
-    *   Free Shipping: Bright &. Bold Bedding Blowout
-    *   Free Shipping: Accent &. Area Rugs Up to 65% Off
-    *   Free Shipping: Pillow &. Throw Blowout
-    *   Free Shipping: Quirky Art Prints &. More
     *   Polarized Performance Sun
     *   Love Sam
     *   Shape ft. Yummie by Heather Thomson
@@ -33,24 +63,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Deux par Deux
     *   Slate &. Stone
     *   AnnLoren
-    *   Back to School: Jessica Simpson Sets &. More
-    *   Back to School: Boys' Levi's &. More
     *   Joie &. Soft Joie Up to 70% Off
     *   CURRENT/ELLIOTT Up to 65% Off
-    
     *   Joie Shoes Up to 50% Off
-    *   FAVLUX Under $20
-    *   Last Call: Summer Styles
-    *   Sports Bras &. More Incl. Extended Sizes
     *   Parke &. Ronen
-    *   JoFit Golf &. Tennis Starting at $30
     *   Tahitian Pearl Jewelry &. More Under $80
-    *   Summer Sunnies Up to 70% Off
-    *   Botkier Handbags &. More
     *   Luxe Locks: Alterna Hair Care
-    *   Madden Girl: Shoes Under $40
     *   Full-On Glam: Zoe Ayla Skin Care, Brushes &. More
     *   Gemstone Stacking Rings Starting at $25
+    
     *   Men's Jean Shop: Styles Under $70
     *   Unsimply Stitched Loungewear &. More from $10
     *   Original Penguin Shoes Up to 60% Off
@@ -59,50 +80,56 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Desk to Impress: Chic Organizers, Frames &. More
     *   Frenchie Mini Couture Bath Under $15
     *   Summer Styles for Baby ft. Little Me
-    *   Romeo &. Juliet Couture Up to 75% Off
     *   First-Class Treatments: Skin Care Up to 90% Off
     *   Free Shipping: Kitchen Blowout
-    *   Sunday Steals Up to 80% Off
-    *   Shoes We Love Up to 65% Off
-    *   Free Shipping: Sterling Forever Jewelry from $15
     *   Men's Shoes Up to 65% Off
-    *   Bulova &. Citizen Watches Up to 65% Off
-    
-    *   Statement Jewelry Under $35
-    *   Michou Sterling Silver &. Gemstone Jewelry
     *   National Lipstick Day: Nanacoco
     *   Polo Ralph Lauren
     *   Teami Blends Detox Teas &. Supplements
     *   Free Shipping: Fresh Bedding for Every Style
     *   Free Shipping: Inviting Decor Up to 70% Off
-    *   Belly Bandit
-    *   Must-Haves for Baby Starting at $8
-    *   New Balance Men
-    *   Summer Workout: Shorts &. Tees Under $40
     *   Your Favorite Summer Fragrances ft. Lalique
-    *   Arka Tees Under $20
-    *   Velvet by Graham &. Spencer
     *   Go for Gold: 24K Face Masks &. More from Azure
     *   Apartment Faves: Wine Racks, Floor Mats &. More
-    *   Algenist Skin Care
-    *   ghd: Good Hair Day, Every Day
+    *   Back to School: Jessica Simpson Sets &. More
+    *   Back to School: Boys' Levi's &. More
+    *   Free Shipping: Pet-Friendly Covers, Beds &. More
+    *   Go Couture Blowout
+    *   Ornate Metal Decor &. More
+    *   Maceoo
     *   Cuisinart
     *   Free Shipping: Mid-Century Modern Steals
-    *   Free Shipping: Pet-Friendly Covers, Beds &. More
+    *   FAVLUX Under $20
+    *   Last Call: Summer Styles
     *   Free Shipping: Hand-Painted Replicas
-    *   Ornate Metal Decor &. More
-    *   Ultra-Soft Towels Up to 75% Off
-    *   Maceoo
-    *   Summer Dress Code: Zunie &. More
-    *   Go Couture Blowout
 *   WomenShop Sale Events
     
+    *   Saint Laurent Sun &. More
+    *   Gracia
+    *   Love Stitch
+    *   Camper
+    *   New for Fall: Elodie &. More
+    *   Pre-Fall Essentials: Chic Boots
+    *   Autumn Obsessed: Coats &. Jackets Up to 60% Off
+    *   Love Stitch Dresses
+    *   Stila
+    *   Back to School Prep: Panty Packs
+    *   Lightweight Cardigans &. Pullovers Under $40
+    *   Savvy Cie Jewelry Up to 80% Off
+    *   LFL Up to 50% Off
+    *   Caudalie
+    *   Style Update: Fresh Fall Flats &. Slip-Ons
+    *   House of Harlow 1960 &. More Up to 60% Off
+    *   Hudson+Bleecker Cosmetic Bags
+    *   SmoothSkin Gold Hair Removal System
+    *   Thacker New York &. More
     *   SOREL Up to 50% Off
     *   Summer Spotlight: Day Dresses Up to 65% Off
     *   Siwy Denim
     *   Polarized Performance Sun
     *   Love Sam
     *   Shape ft. Yummie by Heather Thomson
+    
     *   Olivia Welles Jewelry Up to 75% Off
     *   Skinn Cosmetics Up to 70% Off
     *   On-Trend Summer Tops Under $30
@@ -116,33 +143,18 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Joie &. Soft Joie Up to 70% Off
     *   CURRENT/ELLIOTT Up to 65% Off
     *   Joie Shoes Up to 50% Off
-    *   FAVLUX Under $20
-    *   Last Call: Summer Styles
-    *   Sports Bras &. More Incl. Extended Sizes
-    *   JoFit Golf &. Tennis Starting at $30
-    
     *   Tahitian Pearl Jewelry &. More Under $80
-    *   Summer Sunnies Up to 70% Off
-    *   Botkier Handbags &. More
     *   Luxe Locks: Alterna Hair Care
-    *   Madden Girl: Shoes Under $40
     *   Full-On Glam: Zoe Ayla Skin Care, Brushes &. More
     *   Gemstone Stacking Rings Starting at $25
-    *   Romeo &. Juliet Couture Up to 75% Off
     *   First-Class Treatments: Skin Care Up to 90% Off
-    *   Sunday Steals Up to 80% Off
-    *   Shoes We Love Up to 65% Off
-    *   Free Shipping: Sterling Forever Jewelry from $15
-    *   Bulova &. Citizen Watches Up to 65% Off
-    *   Statement Jewelry Under $35
-    *   Michou Sterling Silver &. Gemstone Jewelry
     *   National Lipstick Day: Nanacoco
     *   Teami Blends Detox Teas &. Supplements
     *   Your Favorite Summer Fragrances ft. Lalique
     *   Go for Gold: 24K Face Masks &. More from Azure
-    *   Algenist Skin Care
-    *   ghd: Good Hair Day, Every Day
     *   Go Couture Blowout
+    *   FAVLUX Under $20
+    *   Last Call: Summer Styles
     
     Shop By Category
     *   Clothing
@@ -150,62 +162,63 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Shoes
     *   Lingerie
     *   Accessories
-    *   Watches
     *   Handbags
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Saint Laurent Sun &. More
+    *   New for Fall: Men's Chukka Boots &. More
+    *   Men's Fall Preview: Jackets, Sweaters &. More
+    *   Men's Designer Shop
+    *   Modern Workwear: Sport Coats &. Denim Under $200
+    *   Surf &. Sun: Rip Curl
+    *   Bacco Bucci Up to 60% Off
     *   SOREL Men Up to 50% Off
     *   Polarized Performance Sun
     *   BC Collection Up to 70% Off
+    
     *   Slate &. Stone
     *   Parke &. Ronen
-    *   Summer Sunnies Up to 70% Off
     *   Men's Jean Shop: Styles Under $70
     *   Unsimply Stitched Loungewear &. More from $10
     *   Original Penguin Shoes Up to 60% Off
-    
     *   Men's Shoes Up to 65% Off
-    *   Bulova &. Citizen Watches Up to 65% Off
     *   Polo Ralph Lauren
     *   Teami Blends Detox Teas &. Supplements
-    *   New Balance Men
-    *   Summer Workout: Shorts &. Tees Under $40
-    *   Arka Tees Under $20
-    *   Velvet by Graham &. Spencer
     *   Maceoo
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Envya Swimwear
+    *   Book Smart: Classics &. New Faves for Kids
     *   SOREL Kids Starting at $30
     *   Deux par Deux
     *   AnnLoren
-    *   Back to School: Jessica Simpson Sets &. More
-    *   Back to School: Boys' Levi's &. More
     *   Skechers Kids
-    
     *   Frenchie Mini Couture Bath Under $15
     *   Summer Styles for Baby ft. Little Me
-    *   Belly Bandit
-    *   Must-Haves for Baby Starting at $8
-    *   Summer Dress Code: Zunie &. More
+    *   Back to School: Jessica Simpson Sets &. More
+    *   Back to School: Boys' Levi's &. More
     
     Shop By Category
     *   Girls Sizes 7-16
     *   Girls Sizes 2T-6X
-    *   Baby Girl
     *   Boys Sizes 2T-7
+    *   Toys
     *   Girls' Shoes
-    *   Baby Boy
     *   Baby Gear &. Essentials
+    *   Baby Boy
     *   Boys Sizes 8-20
     *   Boys' Shoes
+    *   Baby Girl
 *   HomeShop Sale Events
     
+    *   Free Shipping: Vintage-Inspired Drinkware &. More
+    *   Keep It Fresh: Kitchen Containers &. More
     *   Free Shipping: Bright &. Bold Bedding Blowout
     *   Free Shipping: Accent &. Area Rugs Up to 65% Off
     *   Free Shipping: Pillow &. Throw Blowout
@@ -213,16 +226,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Organization Essentials Starting at $10
     *   Desk to Impress: Chic Organizers, Frames &. More
     *   Free Shipping: Kitchen Blowout
-    *   Free Shipping: Fresh Bedding for Every Style
     
+    *   Free Shipping: Fresh Bedding for Every Style
     *   Free Shipping: Inviting Decor Up to 70% Off
     *   Apartment Faves: Wine Racks, Floor Mats &. More
+    *   Free Shipping: Pet-Friendly Covers, Beds &. More
+    *   Ornate Metal Decor &. More
     *   Cuisinart
     *   Free Shipping: Mid-Century Modern Steals
-    *   Free Shipping: Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Hand-Painted Replicas
-    *   Ornate Metal Decor &. More
-    *   Ultra-Soft Towels Up to 75% Off
     
     Shop By Category
     *   Home Decor
@@ -232,28 +244,29 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Pet Accessories
     *   Accent Furniture
     *   Storage &. Cleaning
-    *   Bath
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Stila
+    *   Caudalie
+    *   Hudson+Bleecker Cosmetic Bags
+    *   SmoothSkin Gold Hair Removal System
     *   Skinn Cosmetics Up to 70% Off
     *   K-Beauty Faves: Klairs &. By Wishtrend
     *   Aromatherapy: Eco Modern Essentials
     *   Vanity Planet
+    
     *   Luxe Locks: Alterna Hair Care
     *   Full-On Glam: Zoe Ayla Skin Care, Brushes &. More
     *   First-Class Treatments: Skin Care Up to 90% Off
-    
     *   National Lipstick Day: Nanacoco
     *   Teami Blends Detox Teas &. Supplements
     *   Your Favorite Summer Fragrances ft. Lalique
     *   Go for Gold: 24K Face Masks &. More from Azure
-    *   Algenist Skin Care
-    *   ghd: Good Hair Day, Every Day
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Fragrance
     *   Supplements
     *   Nails
