@@ -90,7 +90,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: July 25, 2018
+Last Updated: Aug 1, 2018
 
 **1\. Introduction**
 
@@ -314,7 +314,7 @@ Indeed reserves the right to verify and confirm the identity of any party associ
 
 **4.9 Facilitating Payment**
 
-If you provide credit, debit or other payment card and related details to us in order to make a payment, Indeed will use such information only for the purpose of processing the payment (e.g., the last four digits of credit card numbers and related verification information).
+If you provide credit, debit or other payment card and related details to us in order to make a payment, Indeed will use such information only for the purpose of processing the payment (e.g., the last four digits of credit card numbers and related verification information). Any credit card and related billing and payment information that you provide to Indeed may be shared by Indeed with companies who work on Indeed’s behalf, such as payment processors and/or credit agencies, solely for the purposes of checking credit, effecting payment to Indeed and servicing your account.
 
 **4.10 Automated Processing of Your Personal Data**
 
@@ -338,9 +338,11 @@ Employers agree to comply with all their responsibilities under applicable data 
 
 We may use third parties to perform services in connection with our operations, to improve the Site and our services, products and features, and to protect our users. These third parties may include (but are not limited to) service providers and vendors.
 
-Indeed may also transfer your Personal Data in limited situations to certain third-party vendors that assist Indeed with protecting our users and maintaining the quality of our services, products and features provided to those users. An example would be vendors Indeed uses for fraud detection purposes. Examples of those vendors include: SiftScience and Emailage.
+Indeed may transfer your Personal Data in limited situations to certain third-party vendors that assist Indeed with protecting our users and maintaining the quality of our services, products and features provided to those users. An example would be vendors Indeed uses for fraud detection purposes. Examples of those vendors include: SiftScience and Emailage.
 
-In the course of providing these services, those companies may have access to Personal Data, and this may involve transfers of such Personal Data to other countries. Such transfers are only made for the purposes set forth in sections 4, 5 and 9 of this Privacy Policy, to the extent applicable. Those companies are also contractually required to treat such Personal Data in accordance with this Privacy Policy, and in accordance with all applicable laws with respect to such transfers and any processing performed by those third parties on such Personal Data.
+Indeed may also share any credit card and related billing and payment information that you provide to Indeed with companies who work on Indeed’s behalf, such as payment processors and/or credit agencies, solely for the purposes of checking credit, effecting payment to Indeed and servicing your account. Examples of those vendors include: CVENT.
+
+In the course of providing these services, those companies may have access to Personal Data, and this may involve transfers of such Personal Data to other countries. Such transfers are only made for the purposes set forth in sections 4, 5 and 9 of this Privacy Policy, to the extent applicable and necessary. Those companies are also contractually required to treat such Personal Data in accordance with this Privacy Policy, and in accordance with all applicable laws with respect to such transfers and any processing performed by those third parties on such Personal Data.
 
 **_– Transfers to Cloud Service Providers_**
 
@@ -1103,4 +1105,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cjq065vb1a1o5ts&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cjsijctia54mdg4&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
