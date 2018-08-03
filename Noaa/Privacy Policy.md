@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Below-average ‘dead zone’ measured in Gulf of Mexico Persistently strong westerly winds and waves likely led to smaller than expected zone size AROUND NOAA // 2017 was one of three warmest years on record, international report confirms NOAA surveys the unsurveyed, leading the way in the U.S. Arctic \[EXT\] June 2018 was 5th warmest on record for the globe
+Enter Search Terms Below-average ‘dead zone’ measured in Gulf of Mexico Persistently strong westerly winds and waves likely led to smaller than expected zone size AROUND NOAA // 2017 was one of three warmest years on record, international report confirms NOAA to roll out ride sharing – for satellites \[EXT\] June 2018 was 5th warmest on record for the globe
 
 *   About our agency
 *   News and features
