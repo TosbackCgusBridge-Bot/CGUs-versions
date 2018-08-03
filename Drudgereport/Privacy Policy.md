@@ -164,6 +164,10 @@ If you are a resident of the EEA or Switzerland, we respect your rights accordin
 
 LATEST ON TWITTER
 
+Check out these steps toward promoting a safer browsing experience for web users via Intermarkets blog! twitter.com/Jambrose…
+
+About 8 hours ago
+
 My week on Twitter : 1 Mention, 1.16K Mention Reach, 1 Like, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/DYxm…
 
 About 2 weeks ago
@@ -179,10 +183,6 @@ About 3 weeks ago
 My week on Twitter : 3 Likes, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/56er…
 
 Last month
-
-“As a publisher, you stand to gain from those direct customers and, in general, data." - @Requidan on the topic of @ATT acquiring @AppNexus via @adexchanger. Read more here: bit.ly/2yLUFqC
-
-About a month ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
