@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Opera launches as a Snap for Linux users ›
 *   Ubuntu Server development summary – 31 July 2018 ›
 *   Create your Linux development workstation in seconds ›
 *   National Cyber Security Centre publish Ubuntu 18.04 LTS Security Guide ›
 *   Dell XPS13 Developer Edition ships with Ubuntu 18.04 LTS pre-installed ›
-*   Kata Containers – now available in the Snap Store ›
