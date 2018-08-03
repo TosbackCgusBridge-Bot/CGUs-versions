@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Sullivan &. Schmidt_: Trump: Sessions Should Stop 'Rigged Witch Hunt Right Now'
+*   _Charles Blow_: Trump: Afraid? Weak? Egotistical? Attack!
     
-*   _Peter Beinart_: We're All Michael Cohen
+*   _Adriana Cohen_: Obama Is the Gift That Keeps Giving to Republicans
     
-*   _Keith Koffler_: Trump's Economy Is Bad News for Dems in the Midterms
+*   _Bill Scher_: The Smart Move for Never-Trumpers Is to Become Democrats
     
-*   _Steve Israel_: Is Trump Trying to Elect a Democratic Majority in 2018?
+*   _Grady Means_: Trump Is Getting Good Results, Benefiting All Americans
     
-*   _Steve Cortes_: Mr. President, Go to the Wall Over Border Security
+*   _Franklin Foer_: This Is So Much Bigger Than Paul Manafort
     
-*   _Matt Ford_: What Are Republicans Hiding About Brett Kavanaugh?
+*   _Branko Marcetic_: Why Many Liberals Are Skeptical of the Russia Probe
     
-*   _Boyden Gray_: Senate Democrats Should Meet With Judge Kavanaugh
+*   _Nikki Usher_: How Republicans Trick Facebook and Twitter With Claims of Bias
     
-*   _Max Diamond_: Obama Feds Embraced Diversity...and the Needle Barely Budged
+*   _Kathleen McKinley_: Twitter Banned Me for Being Politically Incorrect
     
-*   _Nathaniel Rich_: The Decade We Almost Stopped Climate Change
+*   _Ben Healy_: How to Make Friends, According to Science
     
-*   _Bob McClure_: Frivolous Climate Change Suits Could Leave Cities in Ruin
+*   _Linda Greenhouse_: Is Clarence Thomas the Supreme Court's Future?
     
-*   _Hal Brands_: Trump Can't Split Russia From China--Yet
+*   _Linda Thorson_: Heitkamp Should Vote to Confirm Kavanaugh
     
-*   _Sen. Mark Warner_: Time to Learn From Failures, Adapt Laws to Internet Age
+*   _Victor Davis Hanson_: The American Art of Renewal
     
-*   _Nick Bilton_: The Start of Washington's War on Silicon Valley
+*   _Joseph Stiglitz_: The U.S. Is at Risk of Losing a Trade War With China
     
-*   _Rich Lowry_: Like It or Not, America Now Seriously Debating Socialism
+*   _Sen. Orrin Hatch_: Dems Have Gone 'Borking Mad' on Brett Kavanaugh
     
-*   _Lawrence Martin_: Like Trump, Roosevelt Was a Disrupter-in-Chief
+*   _Leah Sears_: Justice Ginsburg Says She'll Stay for 5 More Years. That's Terrific
     
-*   _Harry Kazianis_: Trump Doctrine Has Foreign Policy Elites Pulling Out Their Hair
+*   _Lee Smith_: Privately, Intel Officials Back Shutting Out Brennan, Clapper
     
-*   _Sarah Jones_: Where Is the Left Wing's Foreign Policy?
+*   _Ruth Marcus_: Trump's Mueller Tweets Pose Threat to Rule of Law
     
-*   _Victor Davis Hanson_: How Trump Drives Liberals Backwards
+*   _John Solomon_: FBI Was Proactive on Anna Chapman. Why Not on Maria Butina?
     
-*   _Bonnie Kristian_: Trump's Unutterably Stupid Trade War
+*   _Frank Bruni_: Manafort's Trial Is Donald Trump's, Too
     
-*   _Stephen Moore_: How Trump Could Be Like Reagan
+*   _Corey Lewandowski_: Trump Haters Are Gaslighting America on the Economy
     
-*   _Jonathan Chait_: Trump's 2020 Bid Already in Trouble
+*   _Jen Psaki_: Trump Has No Earthly Clue About How Real People Buy Groceries
     
-*   _Adele Malpass_: In 'Year of the Woman,' Poll Finds Gender Isn't Key
+*   _Michael Cannon_: Obamacare Is Now Optional
     
-*   _Noah Millman_: America's Politically Homeless Heartland
+*   _Jane Mayer_: Trump vs. Koch Is a Custody Battle Over Congress
     
-*   _Anthony Scaramucci_: Call It the Granite City Comeback
+*   _Sally Persons_: Speaker Race: If Trump Endorses, Will It Matter?
     
 
 *   Previous
@@ -228,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Speaker Race: If Trump Endorses, Will It Matter?
+*   Obama Endorses Dozens of Dems in Midterm Races
+*   Giuliani: Bring Russia Probe to a Close, Time to Put Up or Shut Up
 *   In "Year of the Woman," Poll Finds Gender Isn't Key
 *   Assessing Manchin's Chances in West Virginia
-*   Trump Holds Rally in Tampa, FL for DeSantis: "I've Kept My Promises"
-*   Female Republican Candidates Eschew the Gender Card
-*   Ocasio-Cortez, Republicans' Midterm Boogeyman?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,6 +245,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove49Approve +1
 *   Ohio 12th District Special Election - Balderson vs. O'ConnorMonmouth\*
     *   Balderson46
     *   O'Connor45Balderson +1
@@ -257,17 +258,14 @@ Latest PollsAll Polls
 *   Arizona Senate - McSally vs. SinemaABC 15/OH Predictive Insights
     *   Sinema48
     *   McSally44Sinema +4
-*   Arizona Senate - Ward vs. SinemaABC 15/OH Predictive Insights
-    *   Sinema51
-    *   Ward41Sinema +10
 
 More Latest Polls In The News
 
-*   CNN's Acosta Posts Video Of Trump Supporters Shouting At Him, Giving Middle Finger: "Sad Scene"
-*   Joe Scarborough on Trump/Russia: Forget The Word Collusion, "This Is A Conspiracy"
-*   Hannity to CNN's Acosta: "The People Of This Country, They're Screaming At You For A Reason"
-*   Steve Schmidt: Trump Is "An Agent De Facto Of Russia". He Wants Democrats To Take House Majority
-*   Rosenberg: "Collusion" And "Conspiracy" Are Synonyms. "Rudy Giuliani Makes Absolutely No Sense"
+*   Mollie Hemingway: Trump Did Not Create Distrust Of The Media, Distrust Of The Media Created Trump
+*   CNN's Acosta vs. Sarah Sanders: Say The Press Is Not The Enemy Of The People. Walks Out Of Briefing
+*   BBC Host To Sean Spicer: "You Have Corrupted Discourse For The Entire World By Going Along With \[Trump's\] Lies"
+*   MSNBC's Nicole Wallace Bans Clips Of "Vile" Sarah Sanders From Her Show Forever: "It Makes Me Sweat"
+*   Hannity to Acosta: Where Were You When Huckabee Sanders Was Attacked?. Hannity vs. Acosta on Twitter
 
 *   Politics
 *   Policy
