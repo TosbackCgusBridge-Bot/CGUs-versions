@@ -10,7 +10,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   The Equalizer 2
     *   Hotel Transylvania 3: Summer Vacation
     *   Teen Titans Go! To the Movies
-    *   Ant-Man and the Wasp
+    *   Ant-Man and the Wasp (2018)
     *   Incredibles 2
     *   Jurassic World: Fallen Kingdom
     *   Skyscraper (2018)
@@ -67,9 +67,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'The Sandlot' Prequel on Its Way. Here's What We Know So Far Read More
-    *   First Look at Pedro Pascal in 'Wonder Woman 1984'. Here's Everything We Know Read More
-    *   'Terminator' Reboot Adds 3 Newcomers. Here's Everything We Know Read More
+    *   Margot Robbie, Nicole Kidman Join Charlize Theron in Fox News Movie. Here's Everything We Know Read More
+    *   Ben Affleck and Matt Damon Reunite for McDonald's Monopoly Conspiracy Movie. Here's Everything We Know Read More
+    *   First Look at the Women in New 'Terminator'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -335,7 +335,7 @@ New + Coming soon
 
 *   Incredibles 2
 *   Jurassic World: Fallen Kingdom
-*   Ant-Man and the Wasp
+*   Ant-Man and the Wasp (2018)
 *   Hotel Transylvania 3: Summer Vacation
 *   Mamma Mia! Here We Go Again
 *   The Equalizer 2
