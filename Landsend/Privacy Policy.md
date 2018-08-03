@@ -171,6 +171,7 @@ menu Close 0 Free Shipping on $50+
     
     *   Girls' Backpacks
     *   Girls' Swimsuits
+    *   Girls' Outerwear
     *   Girls' Tops &. Tees
     *   Girls' Polos
     *   Girls' Sweaters
@@ -179,7 +180,6 @@ menu Close 0 Free Shipping on $50+
     *   Girls' Jeans
     *   Girls' Shorts
     *   Girls' Skirts &. Skorts
-    *   Girls' Outerwear
     *   Girls' Blazers
     *   Girls' Long Underwear
     *   Girls' Pajamas &. Robes
@@ -189,6 +189,7 @@ menu Close 0 Free Shipping on $50+
     Boys' Clothing>.
     *   Boys' Backpacks
     *   Boys' Swimsuits
+    *   Boys' Outerwear
     *   Boys' Tops &. Tees
     *   Boys' Polos
     *   Boys' Sweaters
@@ -196,7 +197,6 @@ menu Close 0 Free Shipping on $50+
     *   Boys' Jeans
     *   Boys' Shorts
     *   Boys' Activewear
-    *   Boys' Outerwear
     *   Boys' Blazers
     *   Boys' Long Underwear
     *   Boys' Pajamas &. Robes
@@ -561,6 +561,7 @@ menu Close 0 Free Shipping on $50+
         *   View All
         *   Girls' Backpacks
         *   Girls' Swimsuits
+        *   Girls' Outerwear
         *   Girls' Tops &. Tees
         *   Girls' Polos
         *   Girls' Sweaters
@@ -569,7 +570,6 @@ menu Close 0 Free Shipping on $50+
         *   Girls' Jeans
         *   Girls' Shorts
         *   Girls' Skirts &. Skorts
-        *   Girls' Outerwear
         *   Girls' Blazers
         *   Girls' Long Underwear
         *   Girls' Pajamas &. Robes
@@ -580,6 +580,7 @@ menu Close 0 Free Shipping on $50+
         *   View All
         *   Boys' Backpacks
         *   Boys' Swimsuits
+        *   Boys' Outerwear
         *   Boys' Tops &. Tees
         *   Boys' Polos
         *   Boys' Sweaters
@@ -587,7 +588,6 @@ menu Close 0 Free Shipping on $50+
         *   Boys' Jeans
         *   Boys' Shorts
         *   Boys' Activewear
-        *   Boys' Outerwear
         *   Boys' Blazers
         *   Boys' Long Underwear
         *   Boys' Pajamas &. Robes
@@ -846,9 +846,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 25% off full-price styles!
 
-code: PLAY pin: 3265 DETAILS
+code: BUTTERFLY pin: 1873 DETAILS
 
 Customer Service Menu
 
