@@ -1,4 +1,4 @@
-Skip to main content Welcome to Cheaptickets.com **Continue to the U.S. site at Cheaptickets.com** close Booking travel on behalf of Done Get CheapCash Search anything Search
+Skip to main content Welcome to {{domainText}} **Continue to the U.S. site at {{usSiteDomain}}** close Booking travel on behalf of Done Get CheapCash Search anything Search
 
 Show Menu Hide Menu
 
@@ -38,7 +38,7 @@ Show Menu Hide Menu
     *   Customer Support
     *   Feedback
 
-//a.travel-assets.com/globalcontrols-service/content/b69988b530be85f05bbbbb4b6afe9df3e5b899d6 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/91c3afc7168b08b5c1615b63dcdcae9c0c3e33bb Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Vacation Packages
