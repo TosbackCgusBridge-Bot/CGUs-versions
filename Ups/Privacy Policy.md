@@ -1,6 +1,9 @@
-1/1
+Previous1/2Next
 
 *   Volcanic Activity Impacting Service in Areas of Hawaii...More
+*   Wildfires Impacting Areas of California...More
+*   Volcanic Activity Impacting Service in Areas of Hawaii...More
+*   Wildfires Impacting Areas of California...More
 
 Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
@@ -94,7 +97,7 @@ Search Close
     *   Expanding Globally
     *   ResourcesExplore All Articles
 
-Customer Service Customer Service Need help now?
+Customer ServiceCustomer Service Need help now?
 
 Ask Our Virtual Assistant
 
@@ -102,10 +105,6 @@ Ask Our Virtual Assistant
 *   Get Started with UPS
 *   Change Delivery
 *   Delivery Issues
-
-*   Email Us
-*   Call Us
-*   See All Contact Options
 
 *   Log In
 *   Sign Up
