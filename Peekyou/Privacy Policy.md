@@ -66,9 +66,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 7%  7%  7%  7%  Arrest Records &. Driving Infractions
+What is PeekScore? Public Records &. Background Checks 9%  9%  9%  9%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -109,7 +109,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7%  Twitter 7%  Instagram 7%  Myspace 7%  Pinterest 7%  Wikipedia 7%  Google+ 7%  Music 7%  Photo Albums 7%  Web Search 7%  Images 7% 
+Facebook 9%  Twitter 9%  Instagram 9%  Myspace 9%  Pinterest 9%  Wikipedia 9%  Google+ 9%  Music 9%  Photo Albums 9%  Web Search 9%  Images 9% 
 
 *   About PeekYou
 *   Privacy Policy
