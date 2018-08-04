@@ -34,10 +34,9 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   $15 Special
 *   SWIM SALE
-*   5 for $25 Undies
-*   $3 Undies
+*   3 for $12 Undies
+*   $2.87 Undies
 *   Uniform
 *   Denim Guide
 *   Flex Effects
@@ -60,6 +59,7 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Sweaters
 *   Active Tops
+*   Buy 1 Get 2 Free Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -104,7 +104,7 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   $15 Special
+*   Buy 1 Get 2 Accessories
 *   Uniform
 *   Denim Guide
 *   Flex Effects
@@ -124,6 +124,7 @@ Close submenu ( Tops ) Tops
 *   Long Sleeve
 *   Hoodies + Sweatshirts
 *   Sweaters
+*   Buy 1 Get 2 Free Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -247,7 +248,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**UP TO $25 OFF $100** USE CODE **SAVEMORE** **50-70% OFF + FREE SHIPPING OVER $50**
+**FREE SHIPPING ON ANY JEANS PURCHASE** USE CODE **LEGIT** **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -259,10 +260,9 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   $15 Special
         *   SWIM SALE
-        *   5 for $25 Undies
-        *   $3 Undies
+        *   3 for $12 Undies
+        *   $2.87 Undies
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -284,6 +284,7 @@ Menu Find a Store Aeropostale
         *   Shirts
         *   Sweaters
         *   Active Tops
+        *   Buy 1 Get 2 Free Tees
     
     *   Bottoms
         *   View All
@@ -320,7 +321,7 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   $15 Special
+        *   Buy 1 Get 2 Accessories
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -339,6 +340,7 @@ Menu Find a Store Aeropostale
         *   Long Sleeve
         *   Hoodies + Sweatshirts
         *   Sweaters
+        *   Buy 1 Get 2 Free Tees
     
     *   Bottoms
         *   View All
@@ -355,6 +357,7 @@ Menu Find a Store Aeropostale
     *   Clearance
     *   Extended Sizes
     *   Trending
+    
 *   Jeans
     
     *   View Home
@@ -384,6 +387,7 @@ Menu Find a Store Aeropostale
         *   Relaxed
         *   Flex Effects
         *   Ripped Repaired Destroyed
+    
 *   Shorts
     
     *   View Home
@@ -453,7 +457,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Get Store Coupon Shop Girls Flex Effects Shop Guys Flex Effects Shop All Our Jeans Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shorts Shop Guys Shorts Shop Girls Polos Shop Guys Polos Shop Girls Tees Shop Guys Tees Shop Girls Uniform Shop Guys Uniform Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Shop Girls Flex Effects Shop Guys Flex Effects Shop All Our Jeans Shop Girls Shop Guys Shop Girls Shorts Shop Guys Shorts Shop Girls Polos Shop Guys Polos Shop Girls Tees Shop Guys Tees Shop Girls Uniform Shop Guys Uniform Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
