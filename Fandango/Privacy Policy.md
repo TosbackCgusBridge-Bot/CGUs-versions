@@ -68,8 +68,8 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   Margot Robbie, Nicole Kidman Join Charlize Theron in Fox News Movie. Here's Everything We Know Read More
-    *   Ben Affleck and Matt Damon Reunite for McDonald's Monopoly Conspiracy Movie. Here's Everything We Know Read More
-    *   First Look at the Women in New 'Terminator'. Here's Everything We Know Read More
+    *   Matt Reeves Talks "Noir-Driven" Batman Again. Here's Everything We Know Read More
+    *   The Week in Movie News: The Women of the 'Terminator' Reboot, New 'Venom' Trailer and More Read More
     
     Explore Content
     *   Movie Reviews
