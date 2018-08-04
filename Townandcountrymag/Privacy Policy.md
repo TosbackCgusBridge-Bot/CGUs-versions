@@ -56,7 +56,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 Carys Zeta Douglas On Growing Up In the Spotlight 2 Butler vs. House Manager: What's the Difference? 3 Why So Many People Are Betting on Beto O'Rourke 4 T&C Horoscopes: August 1-15 5 Easy (and Last Minute!) Labor Day Getaway Ideas Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Carys Zeta Douglas On Growing Up In the Spotlight 2 Butler vs. House Manager: What's the Difference? 3 T&C Horoscopes: August 1-15 4 Easy (and Last Minute!) Labor Day Getaway Ideas 5 Beatrice Will Serve as Eugenie's Maid of Honor Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
