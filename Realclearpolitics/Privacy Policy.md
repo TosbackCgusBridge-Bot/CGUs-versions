@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Charles Blow_: Trump: Afraid? Weak? Egotistical? Attack!
+*   _Marc Thiessen_: Liberal Contempt Is Helping President Trump
     
-*   _Adriana Cohen_: Obama Is the Gift That Keeps Giving to Republicans
+*   _Olivia Paschal_: Trump's Tweets and the Creation of 'Illusory Truth'
     
-*   _Bill Scher_: The Smart Move for Never-Trumpers Is to Become Democrats
+*   _Saritha Prabhu_: How Spygate Is Turning Dems Like Me Against Our Party
     
-*   _Grady Means_: Trump Is Getting Good Results, Benefiting All Americans
+*   _Lucian Truscott_: Trump's Matter-of-Fact Fascism
     
-*   _Franklin Foer_: This Is So Much Bigger Than Paul Manafort
+*   _Joe Concha_: New York Times Changes Its Tune on What's Too Offensive
     
-*   _Branko Marcetic_: Why Many Liberals Are Skeptical of the Russia Probe
+*   _Sottek &. Patel_: NYT Is Right to Stand by Jeong in Face of Feigned Outrage
     
-*   _Nikki Usher_: How Republicans Trick Facebook and Twitter With Claims of Bias
+*   _Seth Barron_: Get Whitey: Identity-Politics Hypocrisy at New York Times
     
-*   _Kathleen McKinley_: Twitter Banned Me for Being Politically Incorrect
+*   _Aja Romano_: The Times Shuts Down a Major Bullying Tactic of the Right
     
-*   _Ben Healy_: How to Make Friends, According to Science
+*   _Sean Trende_: Assessing Tuesday's Special Election in Ohio
     
-*   _Linda Greenhouse_: Is Clarence Thomas the Supreme Court's Future?
+*   _Dominic Green_: How Long Will Theresa May Last as Prime Minister?
     
-*   _Linda Thorson_: Heitkamp Should Vote to Confirm Kavanaugh
+*   _Josh Rogin_: Ethnic Cleansing Makes a Comeback--in China
     
-*   _Victor Davis Hanson_: The American Art of Renewal
+*   _Amie Parnes_: Trump Takes Us-Versus-Them Media War to New Heights
     
-*   _Joseph Stiglitz_: The U.S. Is at Risk of Losing a Trade War With China
+*   _Andrew Klavan_: The American Press Today Has No Claim to Respect
     
-*   _Sen. Orrin Hatch_: Dems Have Gone 'Borking Mad' on Brett Kavanaugh
+*   _Susan Glasser_: It's True: Trump Is Lying More, and Doing It on Purpose
     
-*   _Leah Sears_: Justice Ginsburg Says She'll Stay for 5 More Years. That's Terrific
+*   _Thomas Edsall_: Are Democrats Having an Identity Crisis?
     
-*   _Lee Smith_: Privately, Intel Officials Back Shutting Out Brennan, Clapper
+*   _Byron York_: Will the Trump-Koch Feud Damage Republicans?
     
-*   _Ruth Marcus_: Trump's Mueller Tweets Pose Threat to Rule of Law
+*   _Ross Baker_: Dems Shouldn't Sacrifice Their Seats to Oppose Kavanaugh
     
-*   _John Solomon_: FBI Was Proactive on Anna Chapman. Why Not on Maria Butina?
+*   _Gov. Andrew Cuomo_: Trump's Brazen Attack on America's Future
     
-*   _Frank Bruni_: Manafort's Trial Is Donald Trump's, Too
+*   _Liz Peek_: Thanks to Trump, American Workers Are Getting Big Raises
     
-*   _Corey Lewandowski_: Trump Haters Are Gaslighting America on the Economy
+*   _Margot Cleveland_: FISA Apps Reveal More Mysteries About Joseph Mifsud
     
-*   _Jen Psaki_: Trump Has No Earthly Clue About How Real People Buy Groceries
+*   _Walter Shapiro_: What If Trump Is Trying to Throw the 2018 Elections?
     
-*   _Michael Cannon_: Obamacare Is Now Optional
+*   _Douglas MacKinnon_: Sanders Exposes Dishonest, Hysterical Dem Media
     
-*   _Jane Mayer_: Trump vs. Koch Is a Custody Battle Over Congress
+*   _Alice Driver_: Ivanka Trump's 'Good Cop' Routine Is a Sham
     
-*   _Sally Persons_: Speaker Race: If Trump Endorses, Will It Matter?
+*   _Ace_: The New York Times Defends Leftist Anti-White Racism
     
 
 *   Previous
@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Speaker Race: If Trump Endorses, Will It Matter?
-*   Obama Endorses Dozens of Dems in Midterm Races
-*   Giuliani: Bring Russia Probe to a Close, Time to Put Up or Shut Up
+*   Trump Team Moves to Roll Back Obama-Era Mileage Standards
+*   Safeguarding Election Is Top Trump Priority, Officials Say
+*   Hemingway: Trump Did Not Create Distrust of the Media
 *   In "Year of the Woman," Poll Finds Gender Isn't Key
 *   Assessing Manchin's Chances in West Virginia
 *   Presidential Job Approval
@@ -245,27 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Oklahoma Governor - Republican Primary Run-OffRemington Research (R)
+    *   Stitt47
+    *   Cornett37Stitt +10
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve41
+    *   Disapprove50Disapprove +9
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
-*   Ohio 12th District Special Election - Balderson vs. O'ConnorMonmouth\*
-    *   Balderson46
-    *   O'Connor45Balderson +1
-*   Arizona Senate - Republican PrimaryABC 15/OH Predictive Insights
-    *   McSally35
-    *   Ward27
-    *   Arpaio15McSally +8
-*   Arizona Senate - McSally vs. SinemaABC 15/OH Predictive Insights
-    *   Sinema48
-    *   McSally44Sinema +4
+    *   Approve48
+    *   Disapprove50Disapprove +2
+*   Oregon Governor - Buehler vs. BrownClout Research (R)
+    *   Brown42
+    *   Buehler43Buehler +1
 
 More Latest Polls In The News
 
 *   Mollie Hemingway: Trump Did Not Create Distrust Of The Media, Distrust Of The Media Created Trump
+*   MSNBC's Mika Brzezinski: "The President Of The United States Is Completely Unhinged"
+*   April Ryan: Acosta's Life "Was In Jeopardy" At Trump Rally. Sarah Sanders Gets Security And We Don't
 *   CNN's Acosta vs. Sarah Sanders: Say The Press Is Not The Enemy Of The People. Walks Out Of Briefing
 *   BBC Host To Sean Spicer: "You Have Corrupted Discourse For The Entire World By Going Along With \[Trump's\] Lies"
-*   MSNBC's Nicole Wallace Bans Clips Of "Vile" Sarah Sanders From Her Show Forever: "It Makes Me Sweat"
-*   Hannity to Acosta: Where Were You When Huckabee Sanders Was Attacked?. Hannity vs. Acosta on Twitter
 
 *   Politics
 *   Policy
