@@ -7,7 +7,8 @@
     *   Military
     *   New!
     
-    Occasions*   Taste of Summer
+    Occasions*   College Gifting
+    *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -46,7 +47,8 @@
     
     View All Categories Shop by Category*   Taste of Summer
     
-    Occasions*   Birthday Gifts
+    Occasions*   College Gifting
+    *   Birthday Gifts
     *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
@@ -73,7 +75,8 @@
     *   Military
     *   New!
     
-    Occasions*   Taste of Summer
+    Occasions*   College Gifting
+    *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -112,7 +115,8 @@
     
     View All Categories Shop by Category*   Taste of Summer
     
-    Occasions*   Birthday Gifts
+    Occasions*   College Gifting
+    *   Birthday Gifts
     *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
@@ -122,7 +126,7 @@
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Friends &. Family Sale: Save 20% sitewide + $5 shipping! Discount applied in cart. Wine Gifts excluded
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Privacy Policy
