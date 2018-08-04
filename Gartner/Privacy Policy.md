@@ -3,117 +3,258 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-**Call +1 855-515-4486 or contact us** **to become a Gartner client.** Toggle navigation
+Call +1 855-833-7887 or contact us
 
-*   Who we serve (current) Main Menu Finance Back Finance Leaders Human Resources Back Human Resource Leaders Information Technology Back CIO &. IT Executives Applications Data &. Analytics Enterprise Architecture &. Technology Infrastructure &. Operations Program &. Portfolio Management Security &. Risk Management Sourcing &. Vendor Relationships Technical Professionals Innovation &. Strategy Back Innovation &. Strategy Leaders Legal &. Compliance Back Legal &. Compliance Leaders Marketing &. Communications Back CMO &. Business Unit Leaders Communications Customer Experience Digital Commerce Market Insights Marketing Analytics Marketing Technology Multichannel Marketing Procurement &. Operations Back Procurement &. Operations Leaders Risk &. Audit Back Risk &. Audit Leaders Sales &. Service Back Sales Leaders Customer Service &. Support Leaders Supply Chain Back Supply Chain Leaders Industries Back Banking &. Investment Services IT Education Energy &. Utilities Financial Services Management Government &. Public Sector Healthcare High Tech &. Telecom Providers Insurance Manufacturing Media Professional Services Retail
+to become a Gartner client.
+
+Toggle navigation
+
+*   Who we serve (current)
     
-    Manage Finance Talent Supply &. Demand
+    Who we serve
     
-    Read article
+    Finance
     
-    Gartner Top 10 Strategic Technology Trends for 2018
+    Finance
     
-    Read article
+    Audit Leaders Enterprise Risk Management Leaders Finance Leaders Procurement Leaders Human Resources
     
-    Creating a Culture That Performs
+    Human Resources
     
-    Learn more
+    Chief Human Resource Executive Human Resource Leaders Human Resources Business Partners Information Technology
     
-    Speed Up Legal Reviews
+    Information Technology
     
-    Read article
+    Chief Information Officers Applications Data &. Analytics Enterprise Architecture &. Technology Infrastructure &. Operations Program &. Portfolio Management Security &. Risk Management Sourcing &. Vendor Relationships Technical Professionals Innovation &. Strategy
     
-    How to Create a More Effective Marketing Strategy
+    Innovation &. Strategy
     
-    Learn more
+    Strategy Leaders Legal
     
-    Top Challenges for Customer Service &. Support Leaders
+    Legal
     
-    Learn more
+    Audit Leaders Legal &. Compliance Leaders Marketing &. Communications
     
-    Gartner Predictions for the Future of Supply Chain Operations in 2018
+    Marketing &. Communications
     
-    Read article
+    Chief Marketing Officers Communications Customer Experience Digital Commerce Market Insights Marketing Analytics Marketing Technology Multichannel Marketing Supply Chain &. Procurement
     
-    Calculated Risk Taking: A How-To
+    Supply Chain &. Procurement
     
-    Read article
+    Chief Supply Chain Officers Procurement Leaders Supply Chain Customer Service Supply Chain IT Supply Chain Logistics Supply Chain Manufacturing Supply Chain Planning Supply Chain Quality Supply Chain Sourcing Sales &. Services
     
-    Audit Hot Spots for 2018
+    Sales &. Services
     
-    Learn more
+    Customer Service &. Support Leaders Sales Leaders Industries
     
-    Digital Procurement: New Benchmarks
+    Industries
     
-    Read article
+    Financial Services Management Education Energy &. Utilities Government &. Public Sector Healthcare High Tech &. Telecom Providers Manufacturing Retail Article Manage Finance Talent Supply &. Demand
     
-    To the Point: Lifting the Fog Around AI and Advanced Analytics in Healthcare
+    Read Article
+    
+    Article Creating a Culture That Performs
+    
+    Learn More
+    
+    Article Gartner Top 10 Strategic Technology Trends for 2018
+    
+    Read Article
+    
+    Managing R&D Portfolios
+    
+    Learn More
+    
+    Article Speed Up Legal Reviews
+    
+    Read Article
+    
+    Article Should You Build or Buy a Customer Data Platform?
+    
+    Read Article
+    
+    Article Gartner Predictions for the Future of Supply Chain Operations in 2018
+    
+    Read Article
+    
+    Article Effortless Experience Explained
+    
+    Read Article
+    
+    Webinar To the Point: Lifting the Fog Around AI and Advanced Analytics in Healthcare
     
     Watch now
     
-*   What we do Main Menu Research Back Overview Analysts Research Methodologies Research Products &. Services Consulting Back Overview Benchmarking For your industry For your initiatives For your role Conferences Back Conference Calendar
+*   What we do
     
-    Gain an essential edge with independent, objective, accurate and rigorously researched insights drawn from over 1,900+ analysts and 380,000 client interactions — including 130,000+ executive interactions — each year.
+    What we do
+    
+    Research
+    
+    Research
+    
+    Experts Research Methodology Research Products &. Services Magic Quandrants Consulting
+    
+    Consulting
+    
+    Overview Benchmark Analytics Strategic Consulting Contract Optimization Conferences
+    
+    Conferences
+    
+    Conference Calendar Gain an essential edge with independent, objective, accurate and rigorously researched insights drawn from over 1,900+ analysts and 380,000 client interactions — including 130,000+ executive interactions — each year.
     
     Improve performance, reduce risk and optimize return on your investments through our combination of research insight, benchmarking data, problem-solving methodologies and hands-on experience.
     
     Master your role, transform your business and tap into an unsurpassed peer network through our world-leading conference series.
     
-*   Conferences Main Menu All Conferences Back Conference Calendar Human Resources Back Human Resources Information Technology Back CIO &. Senior IT Leaders Applications Data &. Analytics Enterprise Architecture &. Technology Innovation Infrastructure &. Operations Program &. Portfolio Management Security &. Risk Management Sourcing &. Vendor Relationships Technical Professionals High Tech &. Telecom Providers Marketing &. Sales Back Digital Marketing Sales &. Marketing Supply Chain Back Supply Chain Technology &. Service Providers Back Technology &. Service Providers
+*   Conferences
     
-    View Our Event Calendar
+    Conferences
     
-    Learn more
+    All Conferences
     
-    ReimagineHR
+    All Conferences
     
-    Learn more
+    Conference Calendar Human Resources
     
-    Gartner Security &. Risk Management Summit 2018
+    Human Resources
     
-    Learn more
+    Human Resources Information Technology
     
-    Gartner Digital Marketing Conference 2018
+    Information Technology
     
-    Learn more
+    CIO &. Senior IT Leaders Applications Data &. Analytics Enterprise Architecture &. Technology Innovation Infrastructure &. Operations Program &. Portfolio Management Security &. Risk Management Sourcing &. Vendor Relationships Technical Professionals High Tech &. Telecom Providers Marketing &. Sales
     
-    Supply Chain Executive Conference
+    Marketing &. Sales
     
-    Learn more
+    Digital Marketing Sales &. Marketing Supply Chain
     
-    Tech Growth &. Innovation Conference
+    Supply Chain
     
-    Learn more
+    Supply Chain Technology &. Service Providers
     
-*   Insights Main Menu Top Priorities Back Business Value of IT CIO Leadership Cost Optimization Data &. Analytics Digital Transformation HR Optimization Marketing Strategy Security and Risk Trending Topics Back Artificial Intelligence Internet of Things Top 10 Technology Trends Blockchain Cybersecurity Cloud Strategy Smarter with Gartner Back Human Resources Information Technology Marketing Sales Supply Chain Finance Blogs Back Gartner Blog Network Gartner for Marketers Supply Chain World Digital Daily Insights Webinars Back Information Technology Marketing Podcasts Back Most Recent Leadership Trends &. Predicts Peer Insights Back Peer Insights
+    Technology &. Service Providers
     
-    Your Job as CIO Is Changing. Here's How to Master the New One.
+    Technology &. Service Providers Conference View Our Event Calendar
     
-    Learn more
+    Learn More
     
-    Manage evolving cyber attacks
+    Conference ReimagineHR
     
-    Learn more
+    Learn More
     
-    6 Ways the Workplace Will Change in the Next 10 Years
+    Conference Gartner Security &. Risk Management Summit 2018
     
-    Learn more
+    Learn More
     
-    Feed your business — not the newsfeed
+    Conference Gartner Digital Marketing Conference 2018
+    
+    Learn More
+    
+    Conference Supply Chain Executive Conference
+    
+    Learn More
+    
+    Conference Tech Growth &. Innovation Conference
+    
+    Learn More
+    
+*   Insights
+    
+    Insights
+    
+    Technology Insights
+    
+    Technology Insights
+    
+    Artificial Intelligence Blockchain Business Value of IT CIO Agenda Cloud Cybersecurity Data &. Analytics Special Reports Trends &. Predictions Compliance Insights
+    
+    Compliance Insights
+    
+    Compliance Program Management HR Insights
+    
+    HR Insights
+    
+    Change Management Digital Talent Employee Value Proposition High Potentials Leadership and Professional Development Learning Measurement Performance Management Talent Analytics Sales Insights
+    
+    Sales Insights
+    
+    Challenger Sale Efficient Growth Effortless Experience Smarter With Gartner
+    
+    Smarter With Gartner
+    
+    Human Resources Information Technology Marketing Sales Supply Chain Finance Customer Service &. Support Legal &. Compliance Blogs
+    
+    Blogs
+    
+    Gartner Blog Network Gartner for Marketers Supply Chain World Digital Daily Insights Webinars &. Podcasts
+    
+    Webinars &. Podcasts
+    
+    Information Technology Marketing Most Recent Podcasts Leadership Podcasts Trends &. Predicts Podcasts Peer Insights
+    
+    Peer Insights
+    
+    Choose IT Solutions with confidence Gartner Books
+    
+    Gartner Books
+    
+    Books Your Job as CIO Is Changing. Here's How to Master the New One.
+    
+    Learn More
+    
+    Article 6 Ways Compliance Can Build Data Analytics Skills
+    
+    Read Article
+    
+    Article Lead Culture Change
+    
+    Read Article
+    
+    Article Make it Easier for Customers to Buy
+    
+    Read Article
+    
+    Article 6 Ways the Workplace Will Change in the Next 10 Years
+    
+    Learn More
+    
+    Blog Feed your business — not the newsfeed
     
     Read blog
     
-    CIOs Must Transform into Digital Leaders
+    Podcast CIOs Must Transform into Digital Leaders
     
     Listen now
     
-    Managing Risk and Security at the Speed of Digital Business
+    Understand the continuous evolution of the B2B buying journey
     
-    Watch now
+    Learn More
     
-*   **Call +1 855-515-4486 or contact us** **to become a Gartner client.**
+*   About
+    
+    About
+    
+    About Gartner
+    
+    About Gartner
+    
+    Corporate Overview Investor Relations Newsroom Careers
+    
+    Careers
+    
+    Career Opportunities Life at Gartner Campus Contact Gartner
+    
+    Contact Gartner
+    
+    Become a Client General Contacts Worldwide Offices Media Relations Privacy Officers Technical Support
+    
+*   Call +1 855-833-7887 or contact us
+    
+    to become a Gartner client.
+    
 
-Become a Client **Call +1 855-515-4486 or contact us** **to become a Gartner client.**   Log in   GARTNER PRIVACY POLICY Effective Date: May 2018  
+Become a Client Log in Become a client Gartner Privacy Policy Effective Date: May 2018
 
 Gartner and its affiliates are committed to protecting your information. Please read this Privacy Notice **("the Notice")** carefully as it sets out important information relating to how we handle your personal information.
 
@@ -433,6 +574,18 @@ Email Address: privacy@gartner.com
 *   IT Glossary
 *   Contact Us
 
+*   Privacy Policy
+*   Terms of Use
+
+*   About Gartner
+*   Careers
+*   Newsroom
+*   Ombudsman
+*   Investor Relations
+
+*   Policies
+*   IT Glossary
+*   Contact Us
 *   Privacy Policy
 *   Terms of Use
 
