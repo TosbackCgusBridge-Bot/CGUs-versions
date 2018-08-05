@@ -1,14 +1,39 @@
 PROMarketplaceSeeking Alpha
 
 *   Portfolio
-    
-    *   My Portfolios
-    
-    *   Model Portfolios
-    
 *   People
 *   News
+    
+    *   Most Used
+    *   Market News (by date)
+    *   Top News
+    *   Wall Street Breakfast
+    *   Dividend News
+    *   Earnings Calendar
+    *   See All Sections
+    
+    *   Recommended
+    *   Energy News
+    *   Healthcare News
+    *   Tech News
+    *   On The Move
+    *   Latest StockTalks
 *   Analysis
+    
+    *   Most Used
+    *   Dividends
+    *   Dividend Ideas
+    *   Market Outlook
+    *   Stock Ideas
+    *   REITs
+    *   See All Sections
+    
+    *   Recommended
+    *   Short Ideas
+    *   Closed End Funds
+    *   Today's Market
+    *   ETF Screener
+    *   Gold &. Precious Metals
 
 Sign in / Join Now Privacy
 
@@ -96,4 +121,4 @@ Seeking Alpha's Privacy Policy is to share personal information only with the ow
 
 _Updated: August 9, 2017_
 
-Top Authors|RSS Feeds|Sitemap|About Us|Contact UsTerms of Use|Privacy|Xignite quote data|© 2018 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <img src="https://www.facebook.com/tr?id=228550053985270&ev=PageView&noscript=1" height="1" width="1" style="display:none" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>.
+Top Authors|RSS Feeds|Sitemap|About Us|Contact UsTerms of Use|Privacy|Xignite quote data|© 2018 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <img src="https://www.facebook.com/tr?id=228550053985270&ev=PageView&noscript=1" height="1" width="1" style="display:none" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
