@@ -8,17 +8,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Always &. Forever and More Under $30
-    *   Summer Essentials: Sandals Under $25
-    *   Flip Flops &. Sandals from Havaianas
-    *   Men's Flip Flops ft. Havaianas
-    *   Wear Now: Men's Summer Essentials
+    *   Chantelle Lingerie
+    *   Designer Sun ft. Balmain Up to 75% Off
+    *   Go Couture
+    *   Matisse
+    *   Fall Preview: Peep-Toe Booties
+    *   Few Moda
+    *   Face Masks We Love Up to 85% Off
+    *   Fall Preview: Casually-Chic Bags
+    *   Saha Swim Blowout
+    *   Dex Under $40
+    *   Closet Update: Chic Sneakers Starting at $25
+    *   Peyote Bird Designs Jewelry
+    *   Affliction &. More Up to 70% Off
+    *   Warrior by Danica Patrick Active Up to 75% Off
+    *   Hunter Men's Outerwear
+    *   Perricone MD
+    *   Unsimply Stitched Up to 80% Off
+    *   Public Opinion Men's Tees &. More Under $30
+    *   Free Shipping: Gold Jewelry &. More from $15
+    *   Yoga &. Fitness Accessories ft. Manduka
+    *   Hair Extensions Up to 90% Off
+    *   Free Shipping: Luxe Rug Steals
+    *   Free Shipping: Antique-Inspired Signs &. More
     *   Michele Watches
     *   Naked Zebra
     *   Marc Fisher LTD
     *   Dresses We Love ft. Sharagano
     *   BLVD Under $50
     *   Pave Crystal Earrings, Bracelets &. More
+    
     *   HAH | Hot-As-Hell Swim &. Cover-Ups
     *   Baci &. Amici
     *   Sole Society Up to 50% Off
@@ -32,15 +51,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Pool Party Essentials Starting at $10
     *   On-Trend Accent Furniture
     *   NYDJ Incl. Plus &. Petites Up to 60% Off
-    *   Clarks Starting at $40
-    *   MAAC London Up to 70% Off
-    *   LAMARQUE
-    *   Nine West Starting at $40
-    
-    *   Mia Marcelle Swim Up to 75% Off
-    *   Blanc Noir Sport Up to 75% Off
-    *   Made in Italy: Summit Up to 70% Off
-    *   Made in Italy: Carmen Sol Shoes &. Bags
     *   Korean Beauty: Leaders Cosmetics
     *   Men's Premium Denim Shop: Hudson Jeans &. More
     *   Lacoste Bedding
@@ -49,25 +59,18 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kenneth Cole Reaction Men Up to 55% Off
     *   NutriChef Kitchen Electrics
     *   Favorite Friends: Minnie Mouse Kids' Tees &. More
-    *   New for Fall: Elodie &. More
-    *   Pre-Fall Essentials: Chic Boots
-    *   Autumn Obsessed: Coats &. Jackets Up to 60% Off
     *   New for Fall: Men's Chukka Boots &. More
     *   Stila
-    *   Savvy Cie Jewelry Up to 80% Off
     *   Caudalie
-    *   House of Harlow 1960 &. More Up to 60% Off
     *   Hudson+Bleecker Cosmetic Bags
     *   SmoothSkin Gold Hair Removal System
     *   Men's Designer Shop
     *   Modern Workwear: Sport Coats &. Denim Under $200
     *   Free Shipping: Vintage-Inspired Drinkware &. More
+    
     *   Keep It Fresh: Kitchen Containers &. More
     *   Surf &. Sun: Rip Curl
     *   Bacco Bucci Up to 60% Off
-    
-    *   Envya Swimwear
-    *   Book Smart: Classics &. New Faves for Kids
     *   Free Shipping: Bright &. Bold Bedding Blowout
     *   Free Shipping: Accent &. Area Rugs Up to 65% Off
     *   Free Shipping: Pillow &. Throw Blowout
@@ -76,27 +79,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   K-Beauty Faves: Klairs &. By Wishtrend
     *   Aromatherapy: Eco Modern Essentials
     *   Vanity Planet
-    *   BC Collection Up to 70% Off
-    *   Slate &. Stone
-    *   Luxe Locks: Alterna Hair Care
-    *   Full-On Glam: Zoe Ayla Skin Care, Brushes &. More
     *   Organization Essentials Starting at $10
     *   Desk to Impress: Chic Organizers, Frames &. More
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Fresh Bedding for Every Style
     *   Free Shipping: Inviting Decor Up to 70% Off
-    *   Apartment Faves: Wine Racks, Floor Mats &. More
+    *   Flip Flops &. Sandals from Havaianas
+    *   Men's Flip Flops ft. Havaianas
+    *   Always &. Forever and More Under $30
+    *   Summer Essentials: Sandals Under $25
+    *   Wear Now: Men's Summer Essentials
     *   Men's Fall Preview: Jackets, Sweaters &. More
-    *   Joe Fresh Incl. Plus
+    *   Envya Swimwear
+    *   Book Smart: Classics &. New Faves for Kids
+    *   MAAC London Up to 70% Off
     *   Gracia
     *   Camper
     *   Love Stitch
-    *   Lightweight Cardigans &. Pullovers Under $40 incl. Plus &. Petites
 *   WomenShop Sale Events
     
-    *   Always &. Forever and More Under $30
-    *   Summer Essentials: Sandals Under $25
-    *   Flip Flops &. Sandals from Havaianas
+    *   Chantelle Lingerie
+    *   Designer Sun ft. Balmain Up to 75% Off
+    *   Go Couture
+    *   Matisse
+    *   Fall Preview: Peep-Toe Booties
+    *   Few Moda
+    *   Face Masks We Love Up to 85% Off
+    *   Fall Preview: Casually-Chic Bags
+    *   Saha Swim Blowout
+    *   Dex Under $40
+    *   Closet Update: Chic Sneakers Starting at $25
+    *   Peyote Bird Designs Jewelry
+    *   Affliction &. More Up to 70% Off
+    *   Warrior by Danica Patrick Active Up to 75% Off
+    *   Hunter Men's Outerwear
+    *   Perricone MD
+    *   Free Shipping: Gold Jewelry &. More from $15
+    *   Yoga &. Fitness Accessories ft. Manduka
+    *   Hair Extensions Up to 90% Off
     *   Michele Watches
     *   Naked Zebra
     *   Marc Fisher LTD
@@ -104,6 +124,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   BLVD Under $50
     *   Pave Crystal Earrings, Bracelets &. More
     *   HAH | Hot-As-Hell Swim &. Cover-Ups
+    
     *   Baci &. Amici
     *   Sole Society Up to 50% Off
     *   Travel in Color: CALPAK Luggage &. More
@@ -112,67 +133,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Gemstone Earrings in 10K Gold &. More
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   NYDJ Incl. Plus &. Petites Up to 60% Off
-    *   Clarks Starting at $40
-    *   MAAC London Up to 70% Off
-    *   LAMARQUE
-    *   Nine West Starting at $40
-    *   Mia Marcelle Swim Up to 75% Off
-    *   Blanc Noir Sport Up to 75% Off
-    
-    *   Made in Italy: Summit Up to 70% Off
-    *   Made in Italy: Carmen Sol Shoes &. Bags
     *   Korean Beauty: Leaders Cosmetics
     *   Luseta Beauty Hair Care from $10
-    *   New for Fall: Elodie &. More
-    *   Pre-Fall Essentials: Chic Boots
-    *   Autumn Obsessed: Coats &. Jackets Up to 60% Off
     *   Stila
-    *   Savvy Cie Jewelry Up to 80% Off
     *   Caudalie
-    *   House of Harlow 1960 &. More Up to 60% Off
     *   Hudson+Bleecker Cosmetic Bags
     *   SmoothSkin Gold Hair Removal System
     *   Skinn Cosmetics Up to 70% Off
     *   K-Beauty Faves: Klairs &. By Wishtrend
     *   Aromatherapy: Eco Modern Essentials
     *   Vanity Planet
-    *   Luxe Locks: Alterna Hair Care
-    *   Full-On Glam: Zoe Ayla Skin Care, Brushes &. More
-    *   Joe Fresh Incl. Plus
+    *   Flip Flops &. Sandals from Havaianas
+    *   Always &. Forever and More Under $30
+    *   Summer Essentials: Sandals Under $25
+    *   MAAC London Up to 70% Off
     *   Gracia
     *   Camper
     *   Love Stitch
-    *   Lightweight Cardigans &. Pullovers Under $40 incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Tech Accessories
     *   Handbags
+    *   Tech Accessories
+    *   Lingerie
     *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
-    *   Men's Flip Flops ft. Havaianas
-    *   Wear Now: Men's Summer Essentials
+    *   Unsimply Stitched Up to 80% Off
+    *   Public Opinion Men's Tees &. More Under $30
+    *   Yoga &. Fitness Accessories ft. Manduka
     *   Travel in Color: CALPAK Luggage &. More
     *   PX Under $30
     *   Men's Premium Denim Shop: Hudson Jeans &. More
     *   Tropical Getaway: Men's Swimwear
     *   Kenneth Cole Reaction Men Up to 55% Off
-    *   New for Fall: Men's Chukka Boots &. More
     
+    *   New for Fall: Men's Chukka Boots &. More
     *   Men's Designer Shop
     *   Modern Workwear: Sport Coats &. Denim Under $200
     *   Surf &. Sun: Rip Curl
     *   Bacco Bucci Up to 60% Off
-    *   BC Collection Up to 70% Off
-    *   Slate &. Stone
+    *   Men's Flip Flops ft. Havaianas
+    *   Wear Now: Men's Summer Essentials
     *   Men's Fall Preview: Jackets, Sweaters &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Accessories
 *   KidsShop Sale Events
     
     *   Favorite Friends: Minnie Mouse Kids' Tees &. More
@@ -187,6 +198,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Boys Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Free Shipping: Luxe Rug Steals
+    *   Free Shipping: Antique-Inspired Signs &. More
     *   Instax Fujifilm Cameras
     *   Pool Party Essentials Starting at $10
     *   On-Trend Accent Furniture
@@ -194,9 +207,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   NutriChef Kitchen Electrics
     *   Free Shipping: Vintage-Inspired Drinkware &. More
     *   Keep It Fresh: Kitchen Containers &. More
+    
     *   Free Shipping: Bright &. Bold Bedding Blowout
     *   Free Shipping: Accent &. Area Rugs Up to 65% Off
-    
     *   Free Shipping: Pillow &. Throw Blowout
     *   Free Shipping: Quirky Art Prints &. More
     *   Organization Essentials Starting at $10
@@ -204,7 +217,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Fresh Bedding for Every Style
     *   Free Shipping: Inviting Decor Up to 70% Off
-    *   Apartment Faves: Wine Racks, Floor Mats &. More
     
     Shop By Category
     *   Home Decor
@@ -218,25 +230,26 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Pet Accessories
 *   BeautyShop Sale Events
     
+    *   Face Masks We Love Up to 85% Off
+    *   Perricone MD
+    *   Hair Extensions Up to 90% Off
     *   Able Skincare
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Korean Beauty: Leaders Cosmetics
     *   Luseta Beauty Hair Care from $10
     *   Stila
+    
     *   Caudalie
     *   Hudson+Bleecker Cosmetic Bags
-    
     *   SmoothSkin Gold Hair Removal System
     *   Skinn Cosmetics Up to 70% Off
     *   K-Beauty Faves: Klairs &. By Wishtrend
     *   Aromatherapy: Eco Modern Essentials
     *   Vanity Planet
-    *   Luxe Locks: Alterna Hair Care
-    *   Full-On Glam: Zoe Ayla Skin Care, Brushes &. More
     
     Shop By Category
-    *   Makeup
     *   Skin Care
+    *   Makeup
     *   Hair Care
     *   Tools &. Accessories
     *   Bath &. Body
