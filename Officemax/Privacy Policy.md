@@ -1,7 +1,5 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55Q8D33&gtm\_auth=q0cT323RvsH39vnjqScr4Q&gtm\_preview=env-16&gtm\_cookies\_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe>. SEG1 hp
 
-×
-
 *   Weekly Ad
 *   Office Depot Business Solution
 
@@ -14,7 +12,7 @@
     enter your number below.
 *   Login or Register
 
-Office Depot Deals vuK1V88cJZgZeptCsIKPSAv
+Office Depot Deals tOxd7lYhYw-XUB\_LVWa5ojZ
 
 Search Suggestions
 
@@ -234,6 +232,6 @@ As you view items, each will be listed here for quick review or purchase.
 
 x We're making back-to-school shopping easier this year.
 
-To help us better help you, let us know who you're shopping for:
+We're proud to help you go back to school this year. Who are you shopping for?
 
 K-12 >. College >. My Classroom >.
