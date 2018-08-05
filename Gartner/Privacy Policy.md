@@ -3,7 +3,7 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Call +1 855-833-7887 or contact us
+Call +1 855-507-2929 or contact us
 
 to become a Gartner client.
 
@@ -93,7 +93,7 @@ Toggle navigation
     
     Research
     
-    Experts Research Methodology Research Products &. Services Magic Quandrants Consulting
+    Experts Research Methodology Research Products &. Services Magic Quadrants Consulting
     
     Consulting
     
@@ -249,7 +249,7 @@ Toggle navigation
     
     Become a Client General Contacts Worldwide Offices Media Relations Privacy Officers Technical Support
     
-*   Call +1 855-833-7887 or contact us
+*   Call +1 855-507-2929 or contact us
     
     to become a Gartner client.
     
