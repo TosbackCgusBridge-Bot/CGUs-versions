@@ -71,12 +71,12 @@
         *   Access Ulster
 *   Business
     *   *   Business
-        *   Career Development &. Employment Opportunities
-        *   Conference Office
-        *   Development &. Alumni Relations Office
-        *   Innovation Ulster Ltd
-        *   Business Support Services
-        *   Continuing Professional Development
+        *   Career Development &. Employment Opportunities  
+        *   Conference Office  
+        *   Development &. Alumni Relations Office  
+        *   Innovation Ulster Ltd  
+        *   Business Support Services  
+        *   Continuing Professional Development  
 
 *   Alumni
 *   International
@@ -143,7 +143,7 @@ Follow us:
 *   Twitter
 *   Facebook
 *   Flickr
-*   YouTube
+*   YouTube  
 
 © Copyright 2015 Ulster University
 
@@ -154,4 +154,4 @@ Follow us:
 
 Ulster.ac.uk uses cookies to give users the best experience possible. Find out more about cookies
 
-Close <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1513386092226899&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1380040395442892&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1570238933105241&amp;ev=PageView&amp;noscript=1">
+Close <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1513386092226899&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1380040395442892&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1570238933105241&amp;ev=PageView&amp;noscript=1">.
