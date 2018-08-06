@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Fred Barnes_: Dems &. the Dossier: They Almost Got Away With It
+*   _Joel Kotkin_: The New McCarthyism of Our Censorious Age
     
-*   _Colbert King_: Follow the Russian Money, and Tighten Your Seatbelt
+*   _Kara Swisher_: Zuck's Facebook Changed the World - Not for the Better
     
-*   _Byron York_: 12 Times Steele Fed Allegations to FBI After the Election
+*   _Paul Sperry_: Twitter Is Run by Democratic Donors and Activists
     
-*   _Paul Callan_: The Bonfire of Paul Manafort's Vanities
+*   _Adam Davidson_: Trump Just Admitted Attempted Collusion With Russia
     
-*   _Andrew Mayeda_: Tit-for-Tat Becomes the Norm as U.S., China Dig In
+*   _Peder Zane_: Forget Russia, It's Dems Undermining Democracy
     
-*   _Minxin Pei_: China's Summer of Discontent
+*   _Carol Anderson_: If You Want to End Racism, Stop Forgiving Racists
     
-*   _David Marcus_: NYT Is Being Dishonest About Its Racial Double Standard
+*   _Thaddeus McCotter_: Don't Let Times Off Hook for Abetting Racism
     
-*   _Zack Beauchamp_: In Defense of Sarah Jeong
+*   _Josh Voorhees_: Is Ted Cruz in Trouble?
     
-*   _Piers Morgan_: What If I Tweeted That I Wished to 'Cancel Black People'?
+*   _Saritha Prabhu_: On Immigration, GOP Is the Grown-Up Party
     
-*   _Andres Velasco_: The Promise of Liberal Identity Politics
+*   _Xuan Loc Doan_: China's New Woes Unravel Xi's Personality Cult
     
-*   _Van Moody_: Why Black Faith Leaders Are Working With Trump
+*   _Vivian Bercovici_: Israel's Army No Match for Hamas's Flaming Condom Bombs
     
-*   _Mika Brzezinski_: The President of the U.S. Is Completely Unhinged
+*   _Laura Greenfield_: The Dangerous Kardashian Effect
     
-*   _Chris Buskirk_: Somebody's Coming Unhinged, But It Isn't Trump
+*   _Elaine Godfrey_: The Progressives' Plan to Win in 2018
     
-*   _Robert Creamer_: Brett Kavanaugh's Confirmation Is Far From Inevitable
+*   _Salena Zito_: Trump-era GOP Faces Test in Ohio Special Election
     
-*   _Lisa Blatt_: I'm a Liberal Lawyer--Dems Should Support Kavanaugh
+*   _Julian Zelizer_: All Democrats Need to Do Is Run Against Donald Trump
     
-*   _Kristan Hawkins_: Why Full Reporting of Abortion Safety Data Is Needed
+*   _Roger Kimball_: Who Cares If Trump Isn't 'Presidential'? He's Successful
     
-*   _Ian Bogost_: Apple: This Is What It Really Looks Like to 'Change the World'
+*   _Steven Rattner_: Trump's Economic Claims Are Overblown
     
-*   _Marc Thiessen_: Liberal Contempt Is Helping President Trump
+*   _Mike Solon_: Both the Budget and Economy Are Winning
     
-*   _Olivia Paschal_: Trump's Tweets and the Creation of 'Illusory Truth'
+*   _Jeffrey Sachs_: Medicare for All Makes a Lot of Sense
     
-*   _Saritha Prabhu_: How Spygate Is Turning Dems Like Me Against Our Party
+*   _Marc Siegel_: Medicare for All Is a Pipe Dream
     
-*   _Lucian Truscott_: Trump's Matter-of-Fact Fascism
+*   _Carl M. Cannon_: White House &. Media Both Need to Tone It Down
     
-*   _Joe Concha_: New York Times Changes Its Tune on What's Too Offensive
+*   _Simon Tisdall_: Trump's War on the Media Has Deadly Implications
     
-*   _Sottek &. Patel_: NYT Is Right to Stand by Jeong in Face of Feigned Outrage
+*   _Dan Gainor_: Anti-Trump Media Just Can't Help Themselves
     
-*   _Seth Barron_: Get Whitey: Identity-Politics Hypocrisy at New York Times
+*   _Jessica Prois_: Sarah Jeong Has a Right to Be Angry
     
 
 *   Previous
@@ -247,6 +247,11 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Kansas Governor - Republican PrimaryTrafalgar Group (R)
+    *   Kobach43
+    *   Colyer36
+    *   Barnett11
+    *   Selzer5Kobach +7
 *   Oklahoma Governor - Republican Primary Run-OffRemington Research (R)
     *   Stitt47
     *   Cornett37Stitt +10
@@ -256,17 +261,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve48
     *   Disapprove50Disapprove +2
-*   Oregon Governor - Buehler vs. BrownClout Research (R)
-    *   Brown42
-    *   Buehler43Buehler +1
 
 More Latest Polls In The News
 
+*   Brennan to Schiff: Can You Agree, We've Seen No Evidence Of Trump-Russia Conspiracy?. Schiff: No
+*   Bolton Denies U.S. Involvement In Maduro Assassination Attempt, Could Be A "Pretext Set-Up"
+*   James Corbett on Yellow Journalism: "Faking It, How The Media Manipulates The World Into War"
+*   Markos Moulitsas: Democrats Better Embrace "Socialist" Label If They Want To Win, Despite Wealth Of Candidates
 *   FIREWORKS: Max Boot vs. Stephen F. Cohen: You're A Russian Apologist. Cohen: "You Are Criticizing Diplomacy"
-*   Mollie Hemingway: Trump Did Not Create Distrust Of The Media, Distrust Of The Media Created Trump
-*   MSNBC's Mika Brzezinski: "The President Of The United States Is Completely Unhinged"
-*   April Ryan: Acosta's Life "Was In Jeopardy" At Trump Rally. Sarah Sanders Gets Security And We Don't
-*   CNN's Acosta vs. Sarah Sanders: Say The Press Is Not The Enemy Of The People. Walks Out Of Briefing
 
 *   Politics
 *   Policy
