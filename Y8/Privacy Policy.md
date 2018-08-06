@@ -14,33 +14,33 @@ New Games Next in  xx:xx Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 22,840 games
-*   Driving &. Racing Games 6,664 games
-*   Strategy &. RPG Games 2,365 games
-*   Management Games 3,645 games
-*   Thinking Games 11,595 games
-*   Action &. Adventure Games 15,660 games
+*   Games for girls 22,846 games
+*   Driving &. Racing Games 6,665 games
+*   Strategy &. RPG Games 2,367 games
+*   Management Games 3,646 games
+*   Thinking Games 11,597 games
+*   Action &. Adventure Games 15,663 games
 *   Sports Games 2,208 games
-*   Shooting Games 8,054 games
+*   Shooting Games 8,057 games
 *   Fighting Games 2,074 games
-*   Skill Games 10,111 games
+*   Skill Games 10,116 games
 *   Arcade &. Classic Games 12,538 games
 *   Fun &. Crazy Games 2,393 games
 
 Tags
 
-*   Dragon218
-*   Educational492
-*   American Football64
-*   Baseball90
-*   Coloring410
-*   Fishing195
+*   Dora127
+*   Swimming145
+*   Arcade2,316
+*   Water900
+*   Ninja497
+*   Android692
 *   View All Tags 371
 
 Play with friends  
-Powered by Y8 Account 131 Y8 Multiplayer Games 1,545 Y8 High Score Games 1,008 Y8 Achievements Games 802 Y8 Screenshots Games 1,351 Y8 Online Save Games 2,599 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 131 Y8 Multiplayer Games 1,547 Y8 High Score Games 1,009 Y8 Achievements Games 802 Y8 Screenshots Games 1,351 Y8 Online Save Games 2,601 All Y8 Games Games Last Highscore:
 
-**1,637** points on Pixel Road Taxi Depot by Egor\_Play\_666\_TV
+**76,554** points on Clicker Troops by Fieryblood
 
 *   Contact Form
 *   Submit a Game or Video
