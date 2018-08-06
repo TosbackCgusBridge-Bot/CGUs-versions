@@ -152,7 +152,7 @@ WF-SP700N
 
 Designed to take smartphone photography to the next level, the #XperiaXZ2Premium is now available! Click here to learn more.
 
-4 days ago
+5 days ago
 
 View Tweet
 
