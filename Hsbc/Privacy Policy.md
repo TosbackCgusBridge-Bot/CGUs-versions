@@ -99,7 +99,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Investor contacts
         
     
-    *   Interim Results 2018 HSBC Holdings plc will announce its Interim Results 2018 on 6 August.
+    *   Interim Results 2018 HSBC Holdings plc announced its Interim Results on 6 August.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
