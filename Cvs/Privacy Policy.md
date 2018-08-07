@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: April 10, 2018
+Effective Date: August 6, 2018
 
   
 
@@ -186,11 +186,16 @@ We may use analytics providers that use cookies, pixel tags and other, similar t
   
 Physical Location
 
-We and our service providers may collect the physical location of your device by, for example, using satellite, cell phone tower, WiFi signals, beacons, Bluetooth, and near field communication protocols, when you are in or near a CVS store. We may use your device's physical location to provide you with personalized location-based services and content, including for marketing purposes. We may also use such information to understand traffic patterns in, near, and across our store locations. We may share aggregated statistics derived from the location and other information we collect with advertisers and other third parties. You may be permitted to allow or deny such collection of your device's location, such as through the settings on your mobile device and/or, to avoid the collection of location by beacons, by disabling Bluetooth. If you choose to deny such collection, we and our service providers may not be able to provide you with certain personalized services and content. We use cameras in and around our stores for security purposes and for operational purposes. These cameras may provide us with your location.
+We and our service providers may collect the physical location of your device by, for example, using satellite, cell phone tower, WiFi signals, beacons, Bluetooth, and near field communication protocols, when you are in or near a CVS store. We may use your device's physical location to provide you with personalized location-based services and content, including for marketing purposes. We may also use such information to understand traffic patterns in, near, and across our store locations. We may share aggregated statistics derived from the location and other information we collect with advertisers and other third parties. You may be permitted to allow or deny such collection of your device's location, such as through the settings on your mobile device and/or, to avoid the collection of location by beacons, by disabling Bluetooth. If you choose to deny such collection, we and our service providers may not be able to provide you with certain personalized services and content.
 
   
 
-For example, precise geo-location can be used to identify your deviceâ€™s latitude and longitude or your deviceâ€™s location capabilities (e.g., GPS or Wi-Fi) to help you find nearby CVS stores. Or, in-store location through the use of your phoneâ€™s blue tooth signal, LED light chip technologies or other technologies will permit CVS to provide additional services to you.
+For example, precise geo-location can be used to identify your device's latitude and longitude or your device's location capabilities (e.g., GPS or Wi-Fi) to help you find nearby CVS stores. Or, in-store location through the use of your phone's blue tooth signal, LED light chip technologies or other technologies will permit CVS to provide additional services to you.
+
+  
+Cameras
+
+We use cameras in and around our stores for security purposes and for operational purposes such as observing traffic patterns. Cameras in stores may use electronic device tracking for fraud, theft prevention, and/or security.
 
   
 Fraudulent Sites, Spam &. Phishing
