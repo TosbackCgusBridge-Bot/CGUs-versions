@@ -172,8 +172,6 @@ Regulatory
 
 CA Price Guide - Local Exchange Services
 
-CA Access Services Tariff – Intrastate
-
 Terms and Conditions of Global Calling
 
 Sonic’s Global Calling feature is for normal residential use only and can’t be used for commercial or other special purposes. Global Calling is subject to reasonable use parameters as determined by Sonic. Customers are liable for all charges incurred from fraudulent use.
@@ -239,4 +237,4 @@ S
 *   Software Disclaimer
 *   Sonic Wire Plan
 
-Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=6485"
+Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=6513"
