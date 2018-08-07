@@ -68,8 +68,8 @@ Main menuSONY
     *   Digital Paper
     *   Future Lab Program
     *   Life Space UX
-    *   Robotics Kits
-    *   Engagement App DevelopmentView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
+    *   Engagement App Development
+    *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
 *   PlayStation
 *   EntertainmentEntertainment
     *   <img src="//www.sony.com/image/c8d568c456f06d3fa734b3331f100352?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Video Games" class="0 ">Video Games
@@ -150,15 +150,15 @@ WF-SP700N
 
 <img class="bg-img" class="url(/en\_us/media/content/WF-SP700N\_W\_9472-RGB-600x600\_fZaLZHQ.jpg);" alt="WF-SP700N Headphones">.
 
-Designed to take smartphone photography to the next level, the #XperiaXZ2Premium is now available! Click here to learn more.
+Designed to complement your surroundings – discover #Xperia XZ2 Compact in White Silver.
 
-5 days ago
+32 minutes ago
 
 View Tweet
 
-View Searching on Instagram
+View Red Dead Redemption 2 on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/3b67d9a15f8facd5531731d1222a104c/5BDB3207/t51.2885-15/e35/31463405\_617206148630272\_2166506427521171456\_n.jpg);" alt="">. Immerse Yourself in a Different Dimension of Sound
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/24a15082c6e0cedefd9f7cea7aac768a/5B6B788E/t51.2885-15/e15/37890089\_2188042994542621\_1991175357008445440\_n.jpg);" alt="">. Immerse Yourself in a Different Dimension of Sound
 
 At Sony Square NYC
 
@@ -170,23 +170,23 @@ Close
 
 At Sony Square NYC
 
-<img class="bg-img" class="url(/en\_us/media/content/SSNYC-600x600\_eFFhtJb.jpg);" alt="Sony Square NYC">. The World Has Enough Superheroes: We Are Venom
+<img class="bg-img" class="url(/en\_us/media/content/SSNYC-600x600\_eFFhtJb.jpg);" alt="Sony Square NYC">. Start Football Season Early With "Madden NFL 19" on PS4®
 
-In Theaters October 5
+Achieve Gridiron Greatness This Week
 
 Close
 
-*   Share The World Has Enough Superheroes: We Are Venom on Facebook
-*   Share The World Has Enough Superheroes: We Are Venom on Twitter
-*   Copy URL to share The World Has Enough Superheroes: We Are Venom
+*   Share Start Football Season Early With "Madden NFL 19" on PS4® on Facebook
+*   Share Start Football Season Early With "Madden NFL 19" on PS4® on Twitter
+*   Copy URL to share Start Football Season Early With "Madden NFL 19" on PS4®
 
-Play The World Has Enough Superheroes: We Are Venom Video
+Play Start Football Season Early With "Madden NFL 19" on PS4® Video
 
-Sony on YouTube - The World Has Enough Superheroes: We Are Venom
+Sony on YouTube - Start Football Season Early With "Madden NFL 19" on PS4®
 
-Play The World Has Enough Superheroes: We Are Venom Video hotspot
+Play Start Football Season Early With "Madden NFL 19" on PS4® Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/Venom-600x600\_mYXdyDZ.jpg);" alt="Venom Trailer">. Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro
+<img class="bg-img" class="url(/en\_us/media/content/madden-nfl-19-screenshot-03-ps4-us-600x600.jpg);" alt="Madden 19 Trailer">. Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro
 
 Learn More
 
@@ -208,9 +208,9 @@ PS VR
 
 <img class="bg-img" class="url(/en\_us/media/content/VR\_Headset-600x600\_KVgyveA.jpg);" alt="Playstation VR ">.
 
-View Camila Cabello on Instagram
+View Venom on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/cf0b9595862eb8a14d67d5ea4a8811aa/5C06439B/t51.2885-15/e35/36580907\_288284178583760\_4491412408559992832\_n.jpg);" alt="">. "No Man's Sky" Gets a Massive Multi-Player Update
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/b1dde7c88156cf3382c45932614c2a21/5B6A789E/t51.2885-15/e15/37807706\_312227936016392\_465370607148597248\_n.jpg);" alt="">. "No Man's Sky" Gets a Massive Multi-Player Update
 
 Find Out About "Next"
 
@@ -254,23 +254,23 @@ Sony on YouTube - Is Calvin Harris' "One Kiss"
 
 Play Is Calvin Harris' "One Kiss" Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/Calvin\_Harris\_-\_Photo\_Credit\_Conor\_McDonnell-600x600.jpg);" alt="Calvin Harris &quot;One Kiss&quot. video">. See Why Denzel Washington Is the Only One Who Could Return As Robert McCall
+<img class="bg-img" class="url(/en\_us/media/content/Calvin\_Harris\_-\_Photo\_Credit\_Conor\_McDonnell-600x600.jpg);" alt="Calvin Harris &quot;One Kiss&quot. video">. Is "Slender Man" Real or Just an Urban Legend?
 
-“The Equalizer 2” Now Playing in Theaters
+Find Out On August 10
 
 Close
 
-*   Share See Why Denzel Washington Is the Only One Who Could Return As Robert McCall on Facebook
-*   Share See Why Denzel Washington Is the Only One Who Could Return As Robert McCall on Twitter
-*   Copy URL to share See Why Denzel Washington Is the Only One Who Could Return As Robert McCall
+*   Share Is "Slender Man" Real or Just an Urban Legend? on Facebook
+*   Share Is "Slender Man" Real or Just an Urban Legend? on Twitter
+*   Copy URL to share Is "Slender Man" Real or Just an Urban Legend?
 
-Play See Why Denzel Washington Is the Only One Who Could Return As Robert McCall Video
+Play Is "Slender Man" Real or Just an Urban Legend? Video
 
-Sony on YouTube - See Why Denzel Washington Is the Only One Who Could Return As Robert McCall
+Sony on YouTube - Is "Slender Man" Real or Just an Urban Legend?
 
-Play See Why Denzel Washington Is the Only One Who Could Return As Robert McCall Video hotspot
+Play Is "Slender Man" Real or Just an Urban Legend? Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/EQUALIZER\_2\_600x600\_4oMYNr3.jpg);" alt="Equalizer 2 ">. Learn How to Capture “Ghostly” Trails in Your Photos
+<img class="bg-img" class="url(/en\_us/media/content/SlenderMan-600x600.jpg);" alt="Slender Man Trailer">. Learn How to Capture “Ghostly” Trails in Your Photos
 
 By Shooting Long Exposures
 
@@ -300,9 +300,9 @@ Play See Why the RX0 Is Perfect for Video Blogging Video hotspot
 
 <img class="bg-img" class="url(/en\_us/media/content/RX0Vlogging-600x600.jpg);" alt="RX0 Vlogging Video">.
 
-View Wrecking Ball on Instagram
+View Donald Glover on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/17158d835527d6b3d44c0922bdad48c8/5BF30863/t51.2885-15/e35/37183922\_565679057163208\_8179798071731814400\_n.jpg);" alt="">. Close
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/ebde135d9f55596d2b224e125ddd6e9d/5BF91445/t51.2885-15/e35/36924884\_270942357025552\_4035208309593079808\_n.jpg);" alt="">. Close
 
 *   Share RX100M6 on Facebook
 *   Share RX100M6 on Twitter
