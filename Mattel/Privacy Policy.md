@@ -1,6 +1,7 @@
 Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price Shop Hot Wheels Shop Mattel Shop Barbie Shop Mattel Online Privacy Statement
 
 *   Select Language
+    *   United States (English)
     *   Dansk (Danmark)
     *   Deutch (Deutschland)
     *   Eesti (Eesti)
@@ -9,7 +10,6 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   Lietuva (Lietuvos)
     *   Slovenija (Slovenski)
     *   Suomi (Suomi)
-    *   United States (English)
     *   България (Български)
     *   Dutch (Nederlands)
     *   Español (España)
@@ -40,6 +40,7 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
 
 *   Menu
     *   Select Language
+        *   United States (English)
         *   Dansk (Danmark)
         *   Deutch (Deutschland)
         *   Eesti (Eesti)
@@ -48,7 +49,6 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
         *   Lietuva (Lietuvos)
         *   Slovenija (Slovenski)
         *   Suomi (Suomi)
-        *   United States (English)
         *   България (Български)
         *   Dutch (Nederlands)
         *   Español (España)
