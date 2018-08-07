@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Joel Kotkin_: The New McCarthyism of Our Censorious Age
+*   _Henry Olsen_: Why the Midterms Won't Be Won by Playing to the Base
     
-*   _Kara Swisher_: Zuck's Facebook Changed the World - Not for the Better
+*   _E.J. Dionne_: Will Reform Be the Silver Lining in a Cloud of Scandal?
     
-*   _Paul Sperry_: Twitter Is Run by Democratic Donors and Activists
+*   _Harry Kazianis_: Here's What the Left Doesn't Get About America
     
-*   _Adam Davidson_: Trump Just Admitted Attempted Collusion With Russia
+*   _Simon Rosenberg_: Trump's Brand Is His Xenophobic Immigration Strategy
     
-*   _Peder Zane_: Forget Russia, It's Dems Undermining Democracy
+*   _James Gagliano_: 'Abolish ICE' Is Leftist Lunacy
     
-*   _Carol Anderson_: If You Want to End Racism, Stop Forgiving Racists
+*   _David Graham_: The Damage of the President's Trump Tower Admission
     
-*   _Thaddeus McCotter_: Don't Let Times Off Hook for Abetting Racism
+*   _Byron York_: On a Quiet Sunday, Trump Tower Mania Strikes
     
-*   _Josh Voorhees_: Is Ted Cruz in Trouble?
+*   _Paczkowski &. Warzel_: Apple, Facebook &. YouTube Shut Down Alex Jones
     
-*   _Saritha Prabhu_: On Immigration, GOP Is the Grown-Up Party
+*   _John Sexton_: Left-Wing Mob Ruins Candace Owens' Breakfast
     
-*   _Xuan Loc Doan_: China's New Woes Unravel Xi's Personality Cult
+*   _Michael Dobie_: The Deadly Price of a Hotter Earth
     
-*   _Vivian Bercovici_: Israel's Army No Match for Hamas's Flaming Condom Bombs
+*   _Carl M. Cannon_: Gertie's Epic Swim Across the English Channel
     
-*   _Laura Greenfield_: The Dangerous Kardashian Effect
+*   _Irwin Stelzer_: Is Trump's Booming Economy Sustainable?
     
-*   _Elaine Godfrey_: The Progressives' Plan to Win in 2018
+*   _Michael Tomasky_: What Are Capitalists Thinking?
     
-*   _Salena Zito_: Trump-era GOP Faces Test in Ohio Special Election
+*   _Karol Markowicz_: Sorry, Socialists, You're Still Pushing Poison
     
-*   _Julian Zelizer_: All Democrats Need to Do Is Run Against Donald Trump
+*   _Frank Rich_: In 2008, We Stopped Believing in the American Dream
     
-*   _Roger Kimball_: Who Cares If Trump Isn't 'Presidential'? He's Successful
+*   _Victor Davis Hanson_: The Elites' War on the Deplorables
     
-*   _Steven Rattner_: Trump's Economic Claims Are Overblown
+*   _Gracy Olmstead_: Young People Fleeing Small Towns for Big Cities
     
-*   _Mike Solon_: Both the Budget and Economy Are Winning
+*   _John Fund_: Columbus, Ohio, Is America's Test Market
     
-*   _Jeffrey Sachs_: Medicare for All Makes a Lot of Sense
+*   _Julian Zelizer_: The Press Doesn't Cause Wars, Presidents Do
     
-*   _Marc Siegel_: Medicare for All Is a Pipe Dream
+*   _Charles Hurt_: Democracy Dies in Dimwittedness
     
-*   _Carl M. Cannon_: White House &. Media Both Need to Tone It Down
+*   _Charles Blow_: President Dumb and Dumber
     
-*   _Simon Tisdall_: Trump's War on the Media Has Deadly Implications
+*   _Dan Hannan_: The Soft Bigotry of the New York Times
     
-*   _Dan Gainor_: Anti-Trump Media Just Can't Help Themselves
+*   _Francis Wilkinson_: How Democrats Can Fight Brett Kavanaugh
     
-*   _Jessica Prois_: Sarah Jeong Has a Right to Be Angry
+*   _Ken Blackwell_: Kavanaugh the Good Umpire the Supreme Court Needs
     
 
 *   Previous
@@ -229,10 +227,10 @@ RecommendedPolitics
 *   Investigations
 
 *   Assessing Tuesday's Special Election in Ohio
-*   Trump Team Moves to Roll Back Obama-Era Mileage Standards
-*   Hemingway: Trump Did Not Create Distrust of the Media
+*   Republican Senators Rave About Kavanaugh. Dems Prepare to Grill Him
+*   Lane: China Hoping Trump Receives a Setback in Mid-Term Elections
+*   U.S. Mends Ties With Allies, Prepares for Trade Battle With China
 *   Safeguarding Election Is Top Trump Priority, Officials Say
-*   In "Year of the Woman," Poll Finds Gender Isn't Key
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,28 +245,28 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Kansas Governor - Republican PrimaryTrafalgar Group (R)
-    *   Kobach43
-    *   Colyer36
-    *   Barnett11
-    *   Selzer5Kobach +7
-*   Oklahoma Governor - Republican Primary Run-OffRemington Research (R)
-    *   Stitt47
-    *   Cornett37Stitt +10
-*   President Trump Job ApprovalIBD/TIPP
+*   Ohio 12th District Special Election - Balderson vs. O'ConnorEmerson
+    *   Balderson46
+    *   O'Connor47O'Connor +1
+*   Kansas Governor - Republican PrimaryRemington Research (R)
+    *   Colyer34
+    *   Kobach32
+    *   Barnett14
+    *   Selzer9Colyer +2
+*   Rhode Island Governor - Fung vs. RaimondoWPRI/Roger Williams\*
+    *   Raimondo39
+    *   Fung37Raimondo +2
+*   President Trump Job ApprovalGallup
     *   Approve41
-    *   Disapprove50Disapprove +9
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
+    *   Disapprove54Disapprove +13
 
 More Latest Polls In The News
 
+*   Peggy Noonan: Trump Says Things He'd Like To Be True As If They Were True, Believes "Statement Is Father To Reality"
 *   Brennan to Schiff: Can You Agree, We've Seen No Evidence Of Trump-Russia Conspiracy?. Schiff: No
 *   Bolton Denies U.S. Involvement In Maduro Assassination Attempt, Could Be A "Pretext Set-Up"
 *   James Corbett on Yellow Journalism: "Faking It, How The Media Manipulates The World Into War"
 *   Markos Moulitsas: Democrats Better Embrace "Socialist" Label If They Want To Win, Despite Wealth Of Candidates
-*   FIREWORKS: Max Boot vs. Stephen F. Cohen: You're A Russian Apologist. Cohen: "You Are Criticizing Diplomacy"
 
 *   Politics
 *   Policy
