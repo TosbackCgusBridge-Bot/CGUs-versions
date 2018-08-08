@@ -456,7 +456,6 @@ Menu
         *   Esprit procurement program
         *   Residencies and Fellowships
         *   Postdoctoral R&D
-    *   Undergraduates
     *   Apprenticeships
         *   Back
         *   Apprenticeships
@@ -466,6 +465,7 @@ Menu
         *   Development and benefits
         *   Parents and teachers
         *   Application tips and process
+    *   Undergraduates
     *   High school students
     *   Employee rights under federal law
     *   Veterans' Leaders Program
