@@ -2,7 +2,6 @@
     
     *   Mortgage rates
     *   Refinance rates
-    *   Home equity loan rates
     *   Mortgage lender reviews
     
     Use Calculators
@@ -12,12 +11,10 @@
     *   Mortgage refinance calculator
     *   Mortgage payment calculator
     *   Amortization calculator
-    *   All home equity calculators
     *   All mortgage calculators
     
     Get Advice
     *   Reverse mortgages
-    *   What is a home equity loan?
     *   Home buying guide
     *   Refinance your mortgage
     *   First-time homebuyer tips
@@ -135,6 +132,23 @@
     *   Roth IRA vs. traditional IRA
     *   What type of CD is best?
     *   IRA basics
+*   Home Equity Compare Lenders
+    
+    *   Home equity loan rates
+    
+    Use Calculators
+    
+    *   Should you borrow from Home Equity
+    *   HELOC Calculator
+    *   Debt consolidation calculator
+    *   Remodeling estimate calculators
+    *   All home equity calculators
+    
+    Get Advice
+    *   What is a home equity loan?
+    *   5 questions to ask before borrowing home equity
+    *   HELOC Pros and Cons
+    *   Home equity loans with bad credit
 *   Personal Finance Compare
     
     *   Current interest rates
