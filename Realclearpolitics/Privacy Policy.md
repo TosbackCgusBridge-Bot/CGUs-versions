@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Henry Olsen_: Why the Midterms Won't Be Won by Playing to the Base
+*   _Victor Davis Hanson_: How Can Americans Now Trust Corrupted Intel Agencies?
     
-*   _E.J. Dionne_: Will Reform Be the Silver Lining in a Cloud of Scandal?
+*   _Cass Sunstein_: Trump Tower Meeting Was an Ugly and Unpatriotic Act
     
-*   _Harry Kazianis_: Here's What the Left Doesn't Get About America
+*   _George Neumayr_: Who Hired Stefan Halper?
     
-*   _Simon Rosenberg_: Trump's Brand Is His Xenophobic Immigration Strategy
+*   _Sam Stein_: The Democratic Party Has Entered Its No Bulls\*\*t Phase
     
-*   _James Gagliano_: 'Abolish ICE' Is Leftist Lunacy
+*   _Heather Mac Donald_: Shooting Up Chicago
     
-*   _David Graham_: The Damage of the President's Trump Tower Admission
+*   _Dean Obeidallah_: Trump's Attacks on LeBron James Fit a Disturbing Pattern
     
-*   _Byron York_: On a Quiet Sunday, Trump Tower Mania Strikes
+*   _Rich Logis_: Dear LeBron: Dems, Not Trump, Ran Cities Into the Ground
     
-*   _Paczkowski &. Warzel_: Apple, Facebook &. YouTube Shut Down Alex Jones
+*   _Stephen Moore_: Trump Rules Make Driving Safer and Cheaper
     
-*   _John Sexton_: Left-Wing Mob Ruins Candace Owens' Breakfast
+*   _Jeffrey Sachs_: We Are All Climate Refugees Now
     
-*   _Michael Dobie_: The Deadly Price of a Hotter Earth
+*   _Rob Bradley_: Failed Prognostications of Climate Alarm
     
-*   _Carl M. Cannon_: Gertie's Epic Swim Across the English Channel
+*   _Grace Schulman_: The Nation Magazine Betrays a Poet--and Itself
     
-*   _Irwin Stelzer_: Is Trump's Booming Economy Sustainable?
+*   _Juan Williams_: Shutdown Would Be Loser for Trump and Republicans
     
-*   _Michael Tomasky_: What Are Capitalists Thinking?
+*   _Gouveia &. Edelman_: I'm an Immigrant--and Trump Is Right on Immigration
     
-*   _Karol Markowicz_: Sorry, Socialists, You're Still Pushing Poison
+*   _Albert Hunt_: Texas Democrats Are Actually Optimistic for a Change
     
-*   _Frank Rich_: In 2008, We Stopped Believing in the American Dream
+*   _Nick Corasaniti_: In Deeply Blue NJ, an Unexpectedly Tight Senate Battle
     
-*   _Victor Davis Hanson_: The Elites' War on the Deplorables
+*   _Daniel Mahoney_: Post-Communist Russia Is Not the Soviet Union
     
-*   _Gracy Olmstead_: Young People Fleeing Small Towns for Big Cities
+*   _Jill Abramson_: Giuliani Turns Out to Be a Dangerous Liability for Trump
     
-*   _John Fund_: Columbus, Ohio, Is America's Test Market
+*   _Jonathan Turley_: If Trump Meeting Is Illegal, Then the Dem Dossier Is Too
     
-*   _Julian Zelizer_: The Press Doesn't Cause Wars, Presidents Do
+*   _Joseph Holt_: The Press Isn't the Enemy, It's the Protector
     
-*   _Charles Hurt_: Democracy Dies in Dimwittedness
+*   _Stella Morabito_: NYT and the Anti-Human Bigotry of Identity Politics
     
-*   _Charles Blow_: President Dumb and Dumber
+*   _Steve Cortes_: President Trump: Please Help Save Chicago
     
-*   _Dan Hannan_: The Soft Bigotry of the New York Times
+*   _Richard Cohen_: Trump Is the President the Founding Fathers Feared
     
-*   _Francis Wilkinson_: How Democrats Can Fight Brett Kavanaugh
+*   _Adam Rubenstein_: How Charlie Kirk Makes It His Business to 'Own the Libs'
     
-*   _Ken Blackwell_: Kavanaugh the Good Umpire the Supreme Court Needs
+*   _Lou Cannon_: State-Level Dems Could Ride a Wave in November
     
 
 *   Previous
@@ -226,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Reimposes Sanctions to Levy Economic Pressure on Iran
 *   Assessing Tuesday's Special Election in Ohio
+*   Scarborough Credits Obama: "This Is Not an Economy Donald Trump Gave Us"
 *   Republican Senators Rave About Kavanaugh. Dems Prepare to Grill Him
-*   Lane: China Hoping Trump Receives a Setback in Mid-Term Elections
 *   U.S. Mends Ties With Allies, Prepares for Trade Battle With China
-*   Safeguarding Election Is Top Trump Priority, Officials Say
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,6 +247,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove51Disapprove +4
 *   Ohio 12th District Special Election - Balderson vs. O'ConnorEmerson
     *   Balderson46
     *   O'Connor47O'Connor +1
@@ -256,17 +261,14 @@ Latest PollsAll Polls
 *   Rhode Island Governor - Fung vs. RaimondoWPRI/Roger Williams\*
     *   Raimondo39
     *   Fung37Raimondo +2
-*   President Trump Job ApprovalGallup
-    *   Approve41
-    *   Disapprove54Disapprove +13
 
 More Latest Polls In The News
 
-*   Peggy Noonan: Trump Says Things He'd Like To Be True As If They Were True, Believes "Statement Is Father To Reality"
+*   Mattis Takes Press Questions Outside Pentagon: Taliban Peace Talks, Hunting ISIS, Election Security
+*   John Bolton on Iran, Russia, North Korea: Kim Has Not "Taken Effective Steps" To Denuclearize
+*   Alex Jones to Trump: You Must Blow Whistle On Chinese Communist Infiltration Of Silicon Valley, Democrat Party
+*   Peggy Noonan: Trump Says Things He'd Like To Be True As If They Were True, Trying To Make Them True
 *   Brennan to Schiff: Can You Agree, We've Seen No Evidence Of Trump-Russia Conspiracy?. Schiff: No
-*   Bolton Denies U.S. Involvement In Maduro Assassination Attempt, Could Be A "Pretext Set-Up"
-*   James Corbett on Yellow Journalism: "Faking It, How The Media Manipulates The World Into War"
-*   Markos Moulitsas: Democrats Better Embrace "Socialist" Label If They Want To Win, Despite Wealth Of Candidates
 
 *   Politics
 *   Policy
