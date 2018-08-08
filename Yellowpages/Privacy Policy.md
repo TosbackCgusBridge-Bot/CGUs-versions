@@ -9,12 +9,31 @@
 *   About AT&T
 
 *   About AT&T
-*   About
+*   COMPANY
     *   AT&T Profile
     *   Leadership Team
-    *   Values
-    *   Diversity &. Inclusion
-*   Investors
+    *   Communications
+        
+        *   *   AT&T Communications Profile
+            *   Leadership
+            *   Consumer
+            *   Business
+            *   Technology
+    *   WarnerMedia
+        
+        *   *   WarnerMedia Company Profile
+            *   HBO
+            *   Turner
+            *   Warner Bros
+    *   AT&T Latin America
+        
+        *   *   AT&T Latin America Profile
+            *   Mexico
+            *   Vrio
+    *   AT&T advertising &. analytics
+        
+        *   *   AT&T advertising &. analytics Profile
+*   INVESTORS
     *   Investor Profile
     *   News &. Events
     *   Financial Reports
@@ -22,38 +41,25 @@
     *   Stockholder Services
     *   Corporate Governance
     *   Resources
-*   AT&T  
-    Communications
-    *   AT&T Communications Profile
-    *   Leadership
-    *   Consumer
-    *   Business
-    *   Technology &. Innovation
+*   VALUES
     *   Social Responsibility
-    *   Careers
-*   WarnerMedia
-    *   WarnerMedia Company Profile
-    *   HBO
-    *   Turner
-    *   Warner Bros
-*   AT&T  
-    International
-    *   AT&T International Profile
-    *   Mexico
-    *   Vrio
-*   AT&T  
-    advertising &. analytics
-    *   AT&T advertising &. analytics Profile
-*   Social  
-    Responsibility
-    *   AT&T Communications
-    *   It Can Wait
-    *   Aspire
-    *   AT&T Mexico
-    *   Vrio
-    *   Sustainability Reporting
-*   Careers
+        
+        *   *   Corporate Social Responsibility
+            *   It Can Wait
+            *   AT&T Aspire
+            *   WarnerMedia CSR
+            *   AT&T Mexico CSR
+            *   Vrio CSR
+            *   CSR Reporting
+    *   Diversity &. Inclusion
+*   CAREERS
     
+*   NEWS
+    *   All News
+    *   Brand Assets
+    *   Contacts
+    *   Innovation Blog
+    *   Inside Connections Blog
 *   More from AT&T
 *   X
 
