@@ -22,7 +22,7 @@
 *   Video
 *   Training Camp
 
-*   Training Camp
+*   Fantasy
 
 *   *   Free Agency
     *   Game Pass
