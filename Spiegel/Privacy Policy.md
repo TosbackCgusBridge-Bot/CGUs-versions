@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   7\. August 2018
+*   8\. August 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.598,21ǀ
+*   DAX 12.648,19ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -67,6 +67,7 @@ Anmelden
         *   Eurojackpot
         *   Glücksspirale
         *   Sportwetten
+        *   Gutscheine
 *   Sport
     
     *   *   Übersicht
@@ -224,6 +225,11 @@ Anmelden
     *   Amazon
     *   Otto
     *   Douglas
+    *   Expedia
+    *   About You
+    *   Peter Hahn
+    *   Lidl
+    *   notebooksbilliger.de
 
 Abbrechen Zeitraumallesletzte Wocheletzter Monatletztes Jahrseit 2005vor 2005vor 2000vor 1995vor 1990vor 1980vor 1970vor 1960 Überschrift und VorspannVolltextAutor  
   
@@ -388,4 +394,4 @@ Bitte prüfen Sie, ob Sie ähnliche Erweiterungen, Do-not-Track-Funktionen oder 
 
 Welche Bedeutung Werbung für SPIEGEL ONLINE hat, was wir für Ihre Sicherheit im Netz tun, wie unsere Redaktion arbeitet – Fragen und Antworten finden Sie hier.
 
-<div id="HRfYMgFQjha">. <div id="HRfYMgFQjhb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
+<div id="WtOmLOZiDCa">. <div id="WtOmLOZiDCb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
