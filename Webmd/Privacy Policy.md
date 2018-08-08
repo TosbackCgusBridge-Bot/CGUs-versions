@@ -52,8 +52,8 @@ Skip to main content
     *   Commonly Abused Drugs
     *   Taking Meds When Pregnant
     
-    Featured Topics*   Slideshow 10 Diseases Vaccines Can Prevent
-    *   Slideshow Vitamins &. Minerals From A - Zinc
+    Featured Topics*   Slideshow Vitamins You Need as You Age
+    *   Slideshow Supplements for Better Digestion
 *   Living  
     Healthy Living Healthy Living Healthy Diet, Food &. Fitness
     
@@ -77,7 +77,7 @@ Skip to main content
     *   Healthy Teens
     *   Fit Kids
     
-    Featured Topics*   Slideshow Best and Worst Salads
+    Featured Topics*   Slideshow Working Out When You're Over 50
     *   Slideshow Tips to Help You Stop Wasting Time
 *   Family &  
     Pregnancy Family &. Pregnancy Family &. Pregnancy All About Pregnancy
