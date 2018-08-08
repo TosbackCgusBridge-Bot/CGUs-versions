@@ -846,9 +846,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 50% off all backpacks and lunch boxes, plus free shipping!
 
-code: BUTTERFLY pin: 1873 DETAILS
+code: BACKPACK50 pin: 2018 DETAILS
 
 Customer Service Menu
 
