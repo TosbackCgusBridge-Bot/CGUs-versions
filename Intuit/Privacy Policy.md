@@ -1,17 +1,17 @@
 Loading.. SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
 
+*   $35.99 sale
+    
+    was $48 JanSport® SuperBreak® Backpack(117)Add To Cart
 *   $36.99 sale
     
     was $50 Nike Brasilia XL Backpack(4)Add To Cart
-*   $35.99 sale
-    
-    was $48 JanSport® SuperBreak® Backpack(115)Add To Cart
 *   $47.99 sale
     
     was $64 JanSport® Big Student Backpack(85)Add To Cart
 *   $40.99 sale
     
-    was $55 Nike® Hayward Futura Backpack(9)Add To Cart
+    was $55 Nike® Hayward Futura Backpack(10)Add To Cart
 *   $32.99 sale
     
     was $45 adidas Foundation IV Backpack(2)Add To Cart
