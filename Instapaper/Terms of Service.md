@@ -2,7 +2,7 @@ Instapaper Terms of Service
 
 Instapaper turns web content - articles, stories, posts, videos, and even long emails - into a great reading experience, anywhere, anytime.
 
-Please read these Terms of Service (collectively with Instapaper's Privacy Policy and DMCA Copyright Policy, the "Terms of Service) fully and carefully before using www.instapaper.com (the "Site") and the services, features, content or applications, including the Instapaper application (the "Application") offered by Instapaper Holdings, Inc. ("Instapaper", "we", "us" or "our") (together with the Site, the "Services"). These Terms of Service set forth the legally binding terms and conditions for your use of the Site and the Services.
+Please read these Terms of Service (collectively with Instapaper's Privacy Policy and DMCA Copyright Policy, the "Terms of Service) fully and carefully before using www.instapaper.com (the "Site") and the services, features, content or applications, including the Instapaper application (the "Application") offered by Instant Paper, Inc. ("Instapaper", "we", "us" or "our") (together with the Site, the "Services"). These Terms of Service set forth the legally binding terms and conditions for your use of the Site and the Services.
 
 1\. Acceptance of Terms of Service.
 
@@ -14,7 +14,7 @@ c. These Terms of Service apply to all users of the Services, including, without
 
 2\. Eligibility
 
-You represent and warrant that you are at least 13 years of age. If you are under age 13, you may not, under any circumstances or for any reason, use the Services. We may, in our sole discretion, refuse to offer the Services to any person or entity and change its eligibility criteria at any time. You are solely responsible for ensuring that these Terms of Service are in compliance with all laws, rules and regulations applicable to you and the right to access the Services is revoked where these Terms of Service or use of the Services is prohibited or to the extent offering, sale or provision of the Services conflicts with any applicable law, rule or regulation. Further, the Services are offered only for your personal use, and not for any commercial use or the use or benefit of any third party.
+You represent and warrant that you are at least 16 years of age. If you are under age 16, you may not, under any circumstances or for any reason, use the Services. We may, in our sole discretion, refuse to offer the Services to any person or entity and change its eligibility criteria at any time. You are solely responsible for ensuring that these Terms of Service are in compliance with all laws, rules and regulations applicable to you and the right to access the Services is revoked where these Terms of Service or use of the Services is prohibited or to the extent offering, sale or provision of the Services conflicts with any applicable law, rule or regulation. Further, the Services are offered only for your personal use, and not for any commercial use or the use or benefit of any third party.
 
 3\. Registration
 
@@ -164,4 +164,4 @@ f. No Waiver. Our failure to enforce any part of these Terms of Service shall no
 
 g. Headings. The section and paragraph headings in these Terms of Service are for convenience only and shall not affect their interpretation.
 
-Contact. You may contact us at the following address: 29 Little West 12th St., New York NY 10014 Effective Date of Terms of Service: 9/9/2013
+Contact. You may contact us at the following address: P.O. Box 22717, Oakland, CA 94609 Effective Date of Terms of Service: August 7th, 2018
