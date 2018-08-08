@@ -192,4 +192,4 @@ Subscribe
 
 See our Privacy Policy
 
-Close Feedback Address Verification close
+Close Feedback
