@@ -11,13 +11,12 @@ new icn messageflickr-free-ic3d pan white
     *   The Weekly Flickr
     *   Flickr Blog
 *   Create
-*   Get Pro
 
 *   _Upload_
 *   Log In
 *   Sign Up
 
-Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Blog Get Pro Flickr Pro Additional Terms of Service
+Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Blog Flickr Pro Additional Terms of Service
 
 Click here to review the Flickr Gift Purchaser Terms.
 
