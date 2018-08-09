@@ -3,7 +3,7 @@ At SparkPeople, we respect your privacy and believe you should be informed about
 By using or accessing the Website, you agree to the terms of this Privacy Policy. Capitalized terms not defined in this Privacy Policy have the meanings set forth in the Terms of Use.  
   
 The Website may provide links or references to websites operated by third parties. Once you enter another website, please be aware that SparkPeople is not responsible for the privacy practices of these other sites. We encourage you to review the privacy policies of each site that you visit through a link on our Website.  
-MDD Treatment Learn About A Treatment Option For Major Depressive Disorder www.depression-add-on-medication.com  
+  
 **Modifications to the Privacy Policy**  
 We may make changes to the Privacy Policy from time to time. A link to the most current Privacy Policy will be available on the SparkPeople home page. In the event of significant changes to the Privacy Policy, we may also place a special notice on the Website or communicate the changes by email. Your continued use of the Website following the posting of such changes constitutes your acceptance of any such changes. If you do not agree with this Privacy Policy, or any revised versions thereof, you may not use the Website.  
   
