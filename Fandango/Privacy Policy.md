@@ -69,7 +69,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
 *   Movie News Featured Movie News
     
     *   Samuel L. Jackson and Cobie Smulders Join 'Spider-Man: Far From Home'. Here's Everything We Know Read More
-    *   Matt Reeves Talks "Noir-Driven" Batman Again. Here's Everything We Know Read More
+    *   Guy Pearce Joins Vin Diesel in Comic Book Movie 'Bloodshot'. Here's Everything We Know Read More
     *   First Look at Margot Robbie as Sharon Tate in 'Once Upon a Time in Hollywood'. Here's Everything We Know Read More
     
     Explore Content
@@ -314,9 +314,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   WELCOME TO THE SUMMER OF MORE
+*   'Fantastic Beasts: The Crimes of Grindelwald' FanAlert Sweepstakes
     
-    EARN 150 VIP+ POINTS FOR EVERY TICKET YOU BUY. 600 VIP+ Points unlocks a $6 reward. SEE DETAILS
+    You could win a trip to explore The Wizarding World of Harry Potter™ at Universal Parks &. Resorts™ in Orlando or Hollywood! ENTER NOW
     
 *   'Mission: Impossible - Fallout' Gift With Purchase
     
