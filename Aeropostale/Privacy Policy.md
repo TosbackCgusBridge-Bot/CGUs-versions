@@ -250,7 +250,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**SAVE UP TO 15% OFF** USE CODE **FLASH15** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+**SHOP NEW ARRIVALS**  GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
