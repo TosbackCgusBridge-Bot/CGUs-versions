@@ -8,13 +8,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   rag &. bone Up to 65% Off
-    *   rag &. bone Shoes and Handbags Up to 60% Off
-    *   rag &. bone Men's Shoes Up to 60% Off
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
+    *   Bobbi Brown
+    *   Brooks
+    *   Religion
+    *   Wolford
+    *   Tea Collection
+    *   Crocs for the Family
+    *   Back to School: Backpacks ft. JanSport
+    *   Free Shipping: BergHOFF
+    *   Dance and Marvel
+    *   Derek Lam Up to 70% Off
+    *   Wolford Hosiery
+    *   Raisins Swim Under $20
+    *   Summer Must-Haves: Espadrilles, Mules &. More
+    *   Sterling Silver Jewelry &. More Up to 55% Off
+    *   Barney Cools
+    *   Brooks Men
+    *   Save Khaki
+    *   Brooks Brothers Tailored Clothing
+    *   Jiusko Dive Watches &. More
+    *   Preschool Prep Company
+    *   Free Shipping: Bright Boho-Chic Pillows &. More
+    *   ZAC Zac Posen
+    *   Free Shipping: Textured Bedding &. More from $20
+    *   Wildkin Backpacks, Lunchboxes &. More
     *   Trending Now: Photographic Art &. More
     *   Free Shipping: Glam Modern Accent Furniture
     *   Lighten Up: Whimsical Lamps
     *   Get Organized: Vanity Storage &. More from $10
+    
+    *   rag &. bone Up to 65% Off
+    *   rag &. bone Shoes and Handbags Up to 60% Off
+    *   rag &. bone Men's Shoes Up to 60% Off
     *   Summer Shades for Him &. Her Up to 65% Off
     *   NANETTE nanette lepore Dresses
     *   Freida Rothman Jewelry
@@ -35,75 +61,63 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free People Up to 50% Off
     *   Free People Shoes Starting at $40
     *   Free People Lingerie &. Sleep Starting at $15
-    *   LOVE Moschino
     *   Ted Baker London Men
-    
-    *   Casual Styles ft. H By Bordeaux Incl. Plus
-    *   Buy Now, Wear Now: Sandals &. Slides
-    *   Sunglasses Under $25
     *   Ted Baker London Tailored Clothing
-    *   Essential Tees Under $20
-    *   Chase &. Chloe Starting at $20
     *   Ted Baker London Shoes &. Accessories
-    *   Fall Trend: Boho Embellished Bags
     *   Mani Mondays: Reusable Manicures from $10
     *   TR Premium Up to 85% Off
     *   Gab+Cos Rainbow Jewelry Starting at $20
-    *   Top It Off: Baseball Hats Starting at $10
+    
     *   Melissa &. Doug
     *   Free Shipping: Momeni Rugs Up to 50% Off
     *   Masala Baby &. Kids
     *   Olivia Miller Girls' Shoes Up to 65% Off
     *   Rowdy Sprout
-    *   Acrobat Up to 75% Off
-    *   Summer Styles Up to 65% Off
-    *   Last Call: Summer Steals Up to 80% Off
-    *   Diamonds, Gemstones &. More Up to 80% Off
     *   Men's Final Few Up to 85% Off
     *   Men's Shoes Up to 60% Off
-    *   Rocker Chic: King Baby Jewelry Up to 55% Off
     *   Hair Tools Up to 85% Off
     *   Workout Blowout: Fitness Trackers &. More
     *   Scotch &. Soda
     *   Fresh Faced: Serums for Every Need
-    *   Free Shipping: 14K Gold &. More
-    
     *   Cotton On &. Co. Under $45
     *   Seven7 Up to 75% Off
     *   Men's Dress Shoes Up to 50% Off
     *   Stay Hydrated: Insulated Stainless Steel Bottles
-    *   Cotton On &. Co. Kids
-    *   Baby Shop: Styles Starting at $9
-    *   Rachel Pally Maternity
     *   Face Masks We Love Up to 85% Off
-    *   Hunter Men's Outerwear
     *   Perricone MD
-    *   Unsimply Stitched Up to 80% Off
     *   Hair Extensions Up to 90% Off
     *   Free Shipping: Luxe Rug Steals
     *   Free Shipping: Antique-Inspired Signs &. More
-    *   Able Skincare
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Instax Fujifilm Cameras
     *   Pool Party Essentials Starting at $10
     *   On-Trend Accent Furniture
     *   Lacoste Bedding
     *   NutriChef Kitchen Electrics
-    *   Free Shipping: Vintage-Inspired Drinkware &. More
-    *   Keep It Fresh: Kitchen Containers &. More
     *   Luxe Essentials: Bedding &. Bath from $20
-    *   Public Opinion Men's Tees &. More Under $30
-    *   L'Artiste
-    *   Cotton On &. Co.
     *   MIKOH Swim
-    *   Go Couture
+    *   LOVE Moschino
 *   WomenShop Sale Events
     
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
+    *   Bobbi Brown
+    *   Brooks
+    *   Religion
+    *   Wolford
+    *   Crocs for the Family
+    *   Dance and Marvel
+    *   Derek Lam Up to 70% Off
+    *   Wolford Hosiery
+    *   Raisins Swim Under $20
+    *   Summer Must-Haves: Espadrilles, Mules &. More
+    *   Sterling Silver Jewelry &. More Up to 55% Off
+    *   Jiusko Dive Watches &. More
+    *   ZAC Zac Posen
     *   rag &. bone Up to 65% Off
     *   rag &. bone Shoes and Handbags Up to 60% Off
     *   Summer Shades for Him &. Her Up to 65% Off
     *   NANETTE nanette lepore Dresses
     *   Freida Rothman Jewelry
+    
     *   Lucy Paris
     *   bebe Sport
     *   Hush Puppies
@@ -114,67 +128,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free People Up to 50% Off
     *   Free People Shoes Starting at $40
     *   Free People Lingerie &. Sleep Starting at $15
-    *   LOVE Moschino
-    *   Casual Styles ft. H By Bordeaux Incl. Plus
-    *   Buy Now, Wear Now: Sandals &. Slides
-    *   Sunglasses Under $25
-    *   Essential Tees Under $20
-    *   Chase &. Chloe Starting at $20
-    *   Fall Trend: Boho Embellished Bags
-    
     *   Mani Mondays: Reusable Manicures from $10
     *   Gab+Cos Rainbow Jewelry Starting at $20
-    *   Top It Off: Baseball Hats Starting at $10
-    *   Acrobat Up to 75% Off
-    *   Summer Styles Up to 65% Off
-    *   Last Call: Summer Steals Up to 80% Off
-    *   Diamonds, Gemstones &. More Up to 80% Off
-    *   Rocker Chic: King Baby Jewelry Up to 55% Off
     *   Hair Tools Up to 85% Off
     *   Fresh Faced: Serums for Every Need
-    *   Free Shipping: 14K Gold &. More
-    *   Rachel Pally Maternity
     *   Face Masks We Love Up to 85% Off
     *   Perricone MD
     *   Hair Extensions Up to 90% Off
-    *   Able Skincare
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   L'Artiste
-    *   Cotton On &. Co.
     *   MIKOH Swim
-    *   Go Couture
+    *   LOVE Moschino
     
     Shop By Category
     *   Clothing
     *   Jewelry
-    *   Shoes
     *   Handbags
-    *   Accessories
+    *   Shoes
     *   Lingerie
+    *   Accessories
     *   Tech Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Crocs for the Family
+    *   Barney Cools
+    *   Brooks Men
+    *   Save Khaki
+    *   Brooks Brothers Tailored Clothing
+    *   Jiusko Dive Watches &. More
     *   rag &. bone Men's Shoes Up to 60% Off
     *   Summer Shades for Him &. Her Up to 65% Off
     *   Mavi &. More
     *   Get Packing: Luggage ft. Delsey
     *   Gym Ready: Men's Active Under $25
+    
     *   Visive Starting at $20
     *   Ted Baker London Men
     *   Ted Baker London Tailored Clothing
     *   Ted Baker London Shoes &. Accessories
     *   TR Premium Up to 85% Off
-    
     *   Men's Final Few Up to 85% Off
     *   Men's Shoes Up to 60% Off
-    *   Rocker Chic: King Baby Jewelry Up to 55% Off
     *   Scotch &. Soda
     *   Cotton On &. Co. Under $45
     *   Seven7 Up to 75% Off
     *   Men's Dress Shoes Up to 50% Off
-    *   Hunter Men's Outerwear
-    *   Unsimply Stitched Up to 80% Off
-    *   Public Opinion Men's Tees &. More Under $30
     
     Shop By Category
     *   Clothing
@@ -183,53 +180,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Tea Collection
+    *   Crocs for the Family
+    *   Back to School: Backpacks ft. JanSport
+    *   Preschool Prep Company
+    *   Wildkin Backpacks, Lunchboxes &. More
     *   Heart to Heart Decor &. Accessories
+    
     *   Zaxy Jelly Shoes Starting at $10
     *   Pippa &. Julie and More
     *   Melissa &. Doug
     *   Masala Baby &. Kids
     *   Olivia Miller Girls' Shoes Up to 65% Off
     *   Rowdy Sprout
-    *   Cotton On &. Co. Kids
-    *   Baby Shop: Styles Starting at $9
-    *   Rachel Pally Maternity
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Baby Girl
     *   Girls' Shoes
-    *   Boys Sizes 2T-7
-    *   Baby Boy
-    *   Girls Sizes 7-16
     *   Toys
-    *   Boys Sizes 8-20
+    *   Baby Girl
+    *   Girls Sizes 7-16
     *   Baby Gear &. Essentials
+    *   Baby Boy
+    *   Boys Sizes 2T-7
+    *   Boys Sizes 8-20
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: BergHOFF
+    *   Free Shipping: Bright Boho-Chic Pillows &. More
+    *   Free Shipping: Textured Bedding &. More from $20
     *   Trending Now: Photographic Art &. More
     *   Free Shipping: Glam Modern Accent Furniture
     *   Lighten Up: Whimsical Lamps
     *   Get Organized: Vanity Storage &. More from $10
     *   Free Shipping: Momeni Rugs Up to 50% Off
     *   Workout Blowout: Fitness Trackers &. More
+    
     *   Stay Hydrated: Insulated Stainless Steel Bottles
     *   Free Shipping: Luxe Rug Steals
     *   Free Shipping: Antique-Inspired Signs &. More
-    
     *   Instax Fujifilm Cameras
     *   Pool Party Essentials Starting at $10
     *   On-Trend Accent Furniture
     *   Lacoste Bedding
     *   NutriChef Kitchen Electrics
-    *   Free Shipping: Vintage-Inspired Drinkware &. More
-    *   Keep It Fresh: Kitchen Containers &. More
     *   Luxe Essentials: Bedding &. Bath from $20
     
     Shop By Category
     *   Home Decor
-    *   Rugs
     *   Kitchen &. Tabletop
+    *   Rugs
     *   Accent Furniture
     *   Bedding
     *   Storage &. Cleaning
@@ -239,6 +240,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Pet Accessories
 *   BeautyShop Sale Events
     
+    *   Bobbi Brown
     *   Glow On: Sheet Masks &. More ft. It's Skin
     *   Mani Mondays: Reusable Manicures from $10
     *   Hair Tools Up to 85% Off
@@ -246,8 +248,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Face Masks We Love Up to 85% Off
     *   Perricone MD
     *   Hair Extensions Up to 90% Off
-    *   Able Skincare
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
     
     Shop By Category
     *   Skin Care
