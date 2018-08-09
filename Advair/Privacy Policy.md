@@ -127,7 +127,6 @@ GSK Global Website www.gsk.com
     *   Press releases
     *   Press Kits
         *   Press Kits
-        *   Fluarix Quadrivalent
         *   Altius Institute for Biomedical Sciences
         *   ANORO™ ELLIPTA™
         *   Arnuity™ Ellipta® &. Incruse® Ellipta®
@@ -136,11 +135,10 @@ GSK Global Website www.gsk.com
         *   BREO® ELLIPTA™
         *   Building Bridges for Asthma Care
         *   COPD materials
-        *   Flulaval Quadrivalent for infants 6 months and older
-        *   FluLaval® Quadrivalent (Influenza Virus) and Fluarix® Quadrivalent (Influenza Vaccine)
         *   Hepatitis B vaccination and diabetes
-        *   Influenza resources
+        *   FLULAVAL QUADRIVALENT and FLUARIX QUADRIVALENT
         *   Mekinist® (trametinib) in combination with Tafinlar® (dabrafenib)
+        *   Influenza resources
         *   Melanoma resources
         *   Navy Yard
         *   NUCALA® (mepolizumab)
@@ -175,8 +173,8 @@ GSK Global Website www.gsk.com
     *   Image and video library
 *   Business to business
     *   Business to business
-    *   US Supplier Diversity
-        *   US Supplier Diversity
+    *   Supplier Diversity Initiative
+        *   Supplier Diversity Initiative
         *   Corporate commitment
         *   Becoming a GSK supplier
         *   What we buy
@@ -216,8 +214,8 @@ Menu
         *   Harnessing the body’s electrical language to treat disease
         *   Epigenetics: turn-ons and turn-offs
         *   Inside the open lab
-        *   Scientists or detectives? Seeking new clues in COPD
         *   The race to richer data in clinical trials
+        *   Scientists or detectives? Seeking new clues in COPD
         *   Cell and gene therapy: a new era of medicine
         *   On target for a new era of drug discovery?
         *   Take a deep breath - your lung microbiome will appreciate it
