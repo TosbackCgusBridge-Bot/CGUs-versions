@@ -42,10 +42,10 @@
     43/44 est MPG19 Build Specials
 *   $58,365 as shown1 2018 Mirai $58,365 starting1  
     67/67 est MPG13 Specials
-*   $28,585 as shown1 2018 86 $26,455 starting1  
-    21/28 est MPG3 Build Specials
-*   $37,090 as shown1 2018 Sienna $30,850 starting1  
-    19/27 est MPG15 Build Specials
+*   $28,585 as shown1 2019 86 $26,455 starting1  
+    21/28 est MPG18 Build Specials
+*   $37,265 as shown1 2019 Sienna $31,115 starting1  
+    19/27 est MPG21 Build Specials
 
 *   $34,685 as shown1 2018 Tacoma $25,400 starting1  
     18/22 est MPG3 Build Specials
@@ -124,9 +124,9 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris $15,635 starting1
 54/133 est MPG9 $42,200 as shown1 2019 Avalon $35,500 starting1  
 22/32 est MPG19 $42,800 as shown1 2019 Avalon Hybrid $36,500 starting1  
 43/44 est MPG19 $58,365 as shown1 2018 Mirai $58,365 starting1  
-67/67 est MPG13 $28,585 as shown1 2018 86 $26,455 starting1  
-21/28 est MPG3 $37,090 as shown1 2018 Sienna $30,850 starting1  
-19/27 est MPG15 Trucks $34,685 as shown1 2018 Tacoma $25,400 starting1  
+67/67 est MPG13 $28,585 as shown1 2019 86 $26,455 starting1  
+21/28 est MPG18 $37,265 as shown1 2019 Sienna $31,115 starting1  
+19/27 est MPG21 Trucks $34,685 as shown1 2018 Tacoma $25,400 starting1  
 18/22 est MPG3 $47,280 as shown1 2018 Tundra $31,320 starting1  
 15/19 est MPG3 Crossovers &. SUVs $26,000 as shown1 2019 C-HR $20,945 starting1  
 27/31 est MPG19 $29,545 as shown1 2018 RAV4 $24,660 starting1  
@@ -191,6 +191,8 @@ Fax: 310-468-7814
 M-F 7:00 a.m. - 7:00 p.m. CT  
 Sat. 7:00 a.m. - 4:30 p.m. CT
 
+TTY/TDD Users: Dial 711, then request the operator dial 1-800-331-4331
+
 Email
 
 Before you email us, please check out our FAQ section. Many of our visitors have found quick answers to their questions by searching our FAQs.
@@ -198,13 +200,6 @@ Before you email us, please check out our FAQ section. Many of our visitors have
 Email Us Postal Mail **Toyota Motor Sales, U.S.A., Inc.**  
 P.O. Box 259001  
 Plano, TX 75025-9001  
-Submit a Proposal
-
-Thank you for considering Toyota as a potential partner. Please click the link below to begin the proposal submission process.
-
-*   Submit Your Proposal  
-    
-
 Toyota Owners
 
 A website just for you. Keep track of service history, watch how-to videos, chat with other Toyota owners, and more.
@@ -249,6 +244,13 @@ Whether you're across town or across the country, use this feature to find the n
 Toyota USA Newsroom
 
 For more information about Toyota, or to register as a journalist and access contact information for our public affairs team, log on to pressroom.toyota.com.
+
+Submit a Proposal
+
+Thank you for considering Toyota as a potential partner. Please click the link below to begin the proposal submission process.
+
+*   Submit Your Proposal  
+    
 
 Toyota Vehicles
 
@@ -1197,6 +1199,7 @@ Help
 *   18\. 2019 preliminary mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
 *   19\. 2019 EPA-estimated mileage. Actual mileage will vary.
 *   20\. 2019 Corolla Hatchback XSE with automatic transmission preliminary 30 city/38 hwy/33 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
+*   21\. 2019 Sienna preliminary 19 city/27 hwy/22 combined mpg estimates determined by Toyota. EPA ratings not available at time of printing. Actual mileage will vary.
 
 YOUR GARAGE NONELog In
 
