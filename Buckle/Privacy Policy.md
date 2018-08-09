@@ -238,7 +238,7 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
     *   *   Featured Trends
         
         *   New Arrivals
-        *   Summer Checklist
+        *   Fall Essentials
         *   Top Rated
         *   Best Sellers
         *   BOGO 30% Off BKE Jewelry
