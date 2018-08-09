@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Victor Davis Hanson_: How Can Americans Now Trust Corrupted Intel Agencies?
+*   _David Catanese_: In Ohio, a Wash, Not a Wave
     
-*   _Cass Sunstein_: Trump Tower Meeting Was an Ugly and Unpatriotic Act
+*   _Sean Trende_: Tuesday Night Is a Bad Sign for Republican House Chances
     
-*   _George Neumayr_: Who Hired Stefan Halper?
+*   _Bill Bennett_: States Are Resisting the Janus Decision on Public Unions
     
-*   _Sam Stein_: The Democratic Party Has Entered Its No Bulls\*\*t Phase
+*   _Dahlia Lithwick_: Who Cares if Brett Kavanaugh Is a Nice Man?
     
-*   _Heather Mac Donald_: Shooting Up Chicago
+*   _Chris Buskirk_: Dems Should Stop Trying to Delegitimize the 2016 Election
     
-*   _Dean Obeidallah_: Trump's Attacks on LeBron James Fit a Disturbing Pattern
+*   _Elizabeth Drew_: Trump's Manafort Problem
     
-*   _Rich Logis_: Dear LeBron: Dems, Not Trump, Ran Cities Into the Ground
+*   _Ben Weingarten_: Feinstein's China Ties Go Way Deeper Than Alleged Spy
     
-*   _Stephen Moore_: Trump Rules Make Driving Safer and Cheaper
+*   _Kathryn Hinderaker_: Run-Amok-PC Sends Open Discourse Underground
     
-*   _Jeffrey Sachs_: We Are All Climate Refugees Now
+*   _Suzanne Nossel_: What the Trump Admin Gets Very Wrong About Free Speech
     
-*   _Rob Bradley_: Failed Prognostications of Climate Alarm
+*   _John Lott_: A Good Guy With a Gun Has Saved Many Lives in Florida
     
-*   _Grace Schulman_: The Nation Magazine Betrays a Poet--and Itself
+*   _David Ignatius_: A Chinese Threat That an Aircraft Carrier Can't Stop
     
-*   _Juan Williams_: Shutdown Would Be Loser for Trump and Republicans
+*   _Sahil Kapur_: Republican Clings to Narrow Lead in Ohio Special Election
     
-*   _Gouveia &. Edelman_: I'm an Immigrant--and Trump Is Right on Immigration
+*   _Henry Olsen_: Lessons for Republicans After the Ohio Squeaker
     
-*   _Albert Hunt_: Texas Democrats Are Actually Optimistic for a Change
+*   _Frank Bruni_: A Nail-Biter in Ohio Race Is a Democratic Triumph
     
-*   _Nick Corasaniti_: In Deeply Blue NJ, an Unexpectedly Tight Senate Battle
+*   _Michael Goodwin_: It's Time for Trump to Play His Ace in the Hole
     
-*   _Daniel Mahoney_: Post-Communist Russia Is Not the Soviet Union
+*   _Ezra Klein_: Watergate Had Tapes. Trump Has Tweets.
     
-*   _Jill Abramson_: Giuliani Turns Out to Be a Dangerous Liability for Trump
+*   _John Solomon_: DOJ's Ohr Had Frequent Contact With Fusion GPS, Steele
     
-*   _Jonathan Turley_: If Trump Meeting Is Illegal, Then the Dem Dossier Is Too
+*   _Charles Kesler_: Faking It: Our Partisan, Self-Deluded Press
     
-*   _Joseph Holt_: The Press Isn't the Enemy, It's the Protector
+*   _Mitch Albom_: 'Fake News' Press Is Not the Enemy of the People
     
-*   _Stella Morabito_: NYT and the Anti-Human Bigotry of Identity Politics
+*   _Caitlin Huey-Burns_: Benefit--or Liability--of Trump Support Depends on Where
     
-*   _Steve Cortes_: President Trump: Please Help Save Chicago
+*   _Tom Rogan_: Emanuel Has Failed. Chicago Needs Crime-Fighting Mayor
     
-*   _Richard Cohen_: Trump Is the President the Founding Fathers Feared
+*   _Kim Bellware_: Rudy Giuliani Is Wrong About Chicago's Bloodshed
     
-*   _Adam Rubenstein_: How Charlie Kirk Makes It His Business to 'Own the Libs'
+*   _McLennan &. Ross Manzo_: Dems' Anti-Clinton Women of 2018
     
-*   _Lou Cannon_: State-Level Dems Could Ride a Wave in November
+*   _Newt Gingrich_: The Next Step in Trump's Economic Revolution
     
 
 *   Previous
@@ -228,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Benefit--or Liability--of Trump Support Depends on Where
 *   Trump Reimposes Sanctions to Levy Economic Pressure on Iran
-*   Assessing Tuesday's Special Election in Ohio
-*   Scarborough Credits Obama: "This Is Not an Economy Donald Trump Gave Us"
+*   Ingraham Asks Donald Trump Jr. About Trump Tower Meeting
 *   Republican Senators Rave About Kavanaugh. Dems Prepare to Grill Him
 *   U.S. Mends Ties With Allies, Prepares for Trade Battle With China
 *   Presidential Job Approval
@@ -247,28 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Maine Senate - Brakey vs. KingSuffolk\*
+    *   King52
+    *   Brakey25King +27
+*   Maine Governor - Moody vs. MillsSuffolk\*
+    *   Moody39
+    *   Mills39Tie
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove51Disapprove +4
-*   Ohio 12th District Special Election - Balderson vs. O'ConnorEmerson
-    *   Balderson46
-    *   O'Connor47O'Connor +1
-*   Kansas Governor - Republican PrimaryRemington Research (R)
-    *   Colyer34
-    *   Kobach32
-    *   Barnett14
-    *   Selzer9Colyer +2
-*   Rhode Island Governor - Fung vs. RaimondoWPRI/Roger Williams\*
-    *   Raimondo39
-    *   Fung37Raimondo +2
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve44
+    *   Disapprove51Disapprove +7
 
 More Latest Polls In The News
 
+*   Nunes Tape: If Sessions Won't Unrecuse And Mueller Won't Clear The President, We're The Only Ones
+*   FIREWORKS: Candace Owens vs. Michael Eric Dyson In Shoutfest: "Democrats Are The Racists"
+*   Whitewater Counsel: Mueller Will Put Up With Pre-Conditions Because He Has Nothing To Subpoena Trump
 *   Mattis Takes Press Questions Outside Pentagon: Taliban Peace Talks, Hunting ISIS, Election Security
-*   John Bolton on Iran, Russia, North Korea: Kim Has Not "Taken Effective Steps" To Denuclearize
 *   Alex Jones to Trump: You Must Blow Whistle On Chinese Communist Infiltration Of Silicon Valley, Democrat Party
-*   Peggy Noonan: Trump Says Things He'd Like To Be True As If They Were True, Trying To Make Them True
-*   Brennan to Schiff: Can You Agree, We've Seen No Evidence Of Trump-Russia Conspiracy?. Schiff: No
 
 *   Politics
 *   Policy
