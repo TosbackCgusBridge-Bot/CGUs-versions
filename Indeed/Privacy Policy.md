@@ -14,7 +14,7 @@ Find JobsCompany ReviewsFind SalariesFind ResumesEmployers / Post Job Upload you
 
 Cookie Policy
 
-Last Updated: July 6, 2018
+Last Updated: August 8, 2018
 
 By using or accessing Indeed’s websites (“Site”), you are consenting to Indeed’s use of Cookies as outlined below. All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
@@ -82,7 +82,7 @@ Third party \_utmz Used by Google Analytics to track where a visitor came from 1
 
 Google Ads Settings
 
-Third party intercom-session-pn6o23fv Used by Intercom.io to allow users to ask customer service questions in real time 1 week Intercom.io opt-out Third party UIDR Used by Scorecardresearch.com to measure user volume 2 years Scorecardresearch.com opt-out Third party mkto.trk Used by Marketo to measure ad campaign effectiveness by linking visitor behavior to an email recipient 2 years Marketo opt-out Third party TS01d65e80 Used by f5 networks to maintain the performance, capacity, and reliability of our Website Current session f5 Networks opt-out
+Third party intercom-session-pn6o23fv Used by Intercom.io to allow users to ask customer service questions in real time 1 week Intercom.io opt-out Third party UIDR Used by Scorecardresearch.com to measure user volume 2 years Scorecardresearch.com opt-out Third party mkto.trk Used by Marketo to measure ad campaign effectiveness by linking visitor behavior to an email recipient 2 years Marketo opt-out Third party TS01d65e80 Used by f5 networks to maintain the performance, capacity, and reliability of our Website Current session f5 Networks opt-out Third party hjClosedSurveyInvites This cookie is set once a visitor interacts with a Survey invitation modal pop-up. It is used to ensure that the same invite does not reappear if it has already been shown. 1 year Hotjar opt-out
 
 **Changes To Our Cookie Policy**
 
@@ -90,7 +90,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: Aug 1, 2018
+Last Updated: Aug 8, 2018
 
 **1\. Introduction**
 
@@ -336,7 +336,9 @@ Employers agree to comply with all their responsibilities under applicable data 
 
 **_– Transfers to Service Providers and Vendors_**
 
-We may use third parties to perform services in connection with our operations, to improve the Site and our services, products and features, and to protect our users. These third parties may include (but are not limited to) service providers and vendors.
+We may use third parties to perform services in connection with our operations, to improve the Site and our services, products, and features, to protect our users and better understand their needs, and to optimize the services and the users’ experiences. These third parties may include (but are not limited to) service providers and vendors.
+
+These third parties may provide data points including how much time you spend on specific pages, which links you choose to click, and data that helps determine user preferences. This information enables us to build and maintain our services with user feedback. These third parties may use cookies and other technologies to collect data on your behavior and devices such as the device type, browser information, and preferred language. An example of one of these third parties is Hotjar. To opt-out of Hotjar’s cookies, please see the link in our Cookie Policy.
 
 Indeed may transfer your Personal Data in limited situations to certain third-party vendors that assist Indeed with protecting our users and maintaining the quality of our services, products and features provided to those users. An example would be vendors Indeed uses for fraud detection purposes. Examples of those vendors include: SiftScience and Emailage.
 
@@ -1105,4 +1107,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1ckc1027aa34je6i&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1ckej9a2e186d42p&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
