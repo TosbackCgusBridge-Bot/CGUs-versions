@@ -8,17 +8,17 @@ Internet Brands
 
 Privacy Policy Highlights
 
-Internet Brands, Inc. and its subsidiaries and corporate affiliates operate websites, provide products and services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full Privacy Policy. It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names.
+MH Sub I, LLC dba Internet Brands and its affiliates operate websites, provide products and services through mobile and other applications, and develop software. We govern these with a single Privacy Policy. This notice provides highlights of our full Privacy Policy. It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names.
 
 *   Personal Information
     
-    We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways: First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
+    We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways: First, we receive information directly from you. Second, we collect information automatically through use of cookies and other technologies.
     
 *   Your Choices
     *   You can stop receiving promotional emails from us by following the instructions in the email you receive.
     *   You may cancel your registration or deactivate your account, or update your preferences at any time.
     *   You can manage cookies using your browser controls.
-    *   You can opt out of the use of certain cookies.
+    *   You can opt-out of the use of certain cookies.
     *   Individual products or services may offer additional controls or preferences.
 *   Uses of Information
     
@@ -26,14 +26,14 @@ Internet Brands, Inc. and its subsidiaries and corporate affiliates operate webs
     
 *   Information Sharing
     
-    We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
+    We do not sell, rent or provide your personal information to third parties that are unaffiliated with us. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
     
 *   How to Contact Us
     *   Use our Privacy Contact form, or write to us at the address below.
       
     *   Privacy Office
-    *   Internet Brands, Inc.
-    *   909 N. Sepulveda Blvd., 11th Floor
+    *   MH Sub I, LLC
+    *   909 N. Pacific Coast Highway, 11th Floor
     *   El Segundo, CA 90245 U.S.A.
 
 **Internet Brands**
@@ -45,4 +45,4 @@ Internet Brands, Inc. and its subsidiaries and corporate affiliates operate webs
 *   Work With Us
 *   Contact Us
 
-Copyright © 2014-2018 Internet Brands. All rights reserved.
+Copyright © 2014-2018 MH Sub I, LLC dba Internet Brands. All rights reserved.
