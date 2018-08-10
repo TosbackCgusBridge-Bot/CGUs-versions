@@ -1,3 +1,20 @@
+*   DAL•21SF104th • 15:00
+*   IND19SEA•104th • 10:07
+*   LA0-07BAL1-033Final
+*   WAS0-117NE1-026Final
+*   TEN0-017GB0-031Final
+*   HOU1-017KC0-110Final
+*   CAR1-028BUF0-123Final
+*   CHI0-127CIN0-030Final
+*   NO1-024JAX0-120Final
+*   TB1-026MIA0-124Final
+*   CLE1-020NYG0-110Final
+*   PIT1-031PHI0-114Final
+*   ATL0-0NYJ0-0Fri, 7:30 pm ET
+*   DET0-0OAK0-0Fri, 10:30 pm ET
+*   MIN0-0DEN0-0Sat, 9:05 pm ET
+*   LAC0-0ARI0-0Sat, 10:00 pm ET
+
 *   News
 *   Scores
 *   Schedule
@@ -14,6 +31,23 @@
 *   Ways to Watch
 *   NFL Network
 *   Photos
+
+*   Big Play HighlightR.Mostert 23-yard runWatch NowDAL•21SF104th • 15:00
+*   IND19SEA•104th • 10:07
+*   LA7BAL33Final
+*   WAS17NE26Final
+*   TEN17GB31Final
+*   HOU17KC10Final
+*   CAR28BUF23Final
+*   CHI27CIN30Final
+*   NO24JAX20Final
+*   TB26MIA24Final
+*   CLE20NYG10Final
+*   PIT31PHI14Final
+*   ATL0-0NYJ0-0Fri, 7:30 pm ET
+*   DET0-0OAK0-0Fri, 10:30 pm ET
+*   MIN0-0DEN0-0Sat, 9:05 pm ET
+*   LAC0-0ARI0-0Sat, 10:00 pm ET
 
 *   News
 *   Scores
