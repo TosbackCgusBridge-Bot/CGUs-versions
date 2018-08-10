@@ -1,4 +1,4 @@
-THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details Gift Cards | Offers | Sign In Sign Out
+GET YOUR $6 REWARD 2X FASTER. 2 tickets = $6 reward for a limited time only. Details Gift Cards | Offers | Sign In Sign Out
 
 *   Fandango
 *   Go
@@ -70,7 +70,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     *   Samuel L. Jackson and Cobie Smulders Join 'Spider-Man: Far From Home'. Here's Everything We Know Read More
     *   Guy Pearce Joins Vin Diesel in Comic Book Movie 'Bloodshot'. Here's Everything We Know Read More
-    *   First Look at Margot Robbie as Sharon Tate in 'Once Upon a Time in Hollywood'. Here's Everything We Know Read More
+    *   What to Expect From the Future of the Spider-Man Universe Read More
     
     Explore Content
     *   Movie Reviews
@@ -314,9 +314,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Fantastic Beasts: The Crimes of Grindelwald' FanAlert Sweepstakes
+*   MILLIONS OF HAPPY MOVIEGOERS SERVED
     
-    You could win a trip to explore The Wizarding World of Harry Potter™ at Universal Parks &. Resorts™ in Orlando or Hollywood! ENTER NOW
+    And, for a limited time, we're upping the happy. GET YOUR $6 VIP+ REWARD 2X FASTER! BUY TICKETS
     
 *   'Mission: Impossible - Fallout' Gift With Purchase
     
@@ -375,4 +375,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
