@@ -41,20 +41,15 @@ Pornhub NETWORK
 
 Powered by **PornMD**
 
-Close
+Close Recent Searches Clear all Suggested Keywords Upload
 
 *   en
     *   DE Deutsch
     *   ES Español
     *   FR Français
     *   JP 日本語
-*   Straight
-    
-    *   Gay
-    *   Shemale
-*   Upload
-*   Login
 *   Sign up
+*   Login
 
 *   Videos
     *   Featured
@@ -118,7 +113,7 @@ Close
 *   Live Girls
 *   FUCK NOW
 
-Recent Searches Clear all Suggested Keywords You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close
+You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close
 
 *   Advertise
 *   Terms
