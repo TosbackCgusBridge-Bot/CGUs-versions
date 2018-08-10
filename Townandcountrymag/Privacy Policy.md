@@ -56,7 +56,7 @@ Search
 
 Type keyword(s) to search
 
-Today's Top Stories 1 T&C Horoscopes: August 1-15 2 Easy (and Last Minute!) Labor Day Getaway Ideas 3 Our Editor's Summer Beauty Must-Haves 4 Harry Is Worried About "Hysteria" Over Meghan 5 20 Top Movies Based on True Stories Privacy Policy Dec 1, 2014
+Today's Top Stories 1 Meet the Family That Inspired Crazy Rich Asians 2 Catherine Oxenberg on Her Daughter Joining a Cult 3 Easy, Last Minute Labor Day Getaway Ideas 4 Our Editor's Summer Beauty Must-Haves 5 20 Top Movies Based on True Stories Privacy Policy Dec 1, 2014
 
 Last revised on April 1, 2016
 
