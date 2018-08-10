@@ -56,9 +56,9 @@
     *   Integrations
     *   Join Us
 
-THE PROMISE OF  
-1:1 DIGITAL MARKETING  
-BOLDLY DELIVERED Watch Our Story
+HAVE COMPELLING  
+CONVERSATIONS THAT  
+LAST A LIFETIME Watch Our Story
 
 *   200+ MILLION Real People You Can  
     Message Right Now
@@ -78,6 +78,9 @@ The Latest News
 *   Conversant Launches Mesobase  
     Realize the promise of people-based marketing  
     
+*   Drive Measurable TV Tune-In  
+    Learn how to connect with TV viewers as individuals, not demos  
+    
 *   Attain One View of Consumers  
     5 questions for evaluating identity partners  
     
@@ -85,10 +88,7 @@ The Latest News
     Learn how AI enables personalization  
     
 *   Conversant Creates GDPR Tool  
-    Gain consumer consent and compliance  
-    
-*   Our Approach to the GDPR  
-    What the GDPR means for you
+    Gain consumer consent and compliance
 
 ← See our case study See our case study See our case study See our case study See our case study See our case study See our case study →
 
@@ -98,11 +98,12 @@ The Latest News
 *   4
 *   5
 
-Research  
-Five ways to win customers with tech  
-Hear from the experts >. New Guide  
-Know the Truth About Your Digital Vendors  
-Read it now >. Quiz Yourself  
+Cheat Sheet  
+How to get ahead  
+this holiday season  
+See the insights >. New Guide  
+Are customers leaking out of your digital pipeline?  
+Check your leakage >. Quiz Yourself  
 What do you know about ad tech?  
 Find out now >. SOME OF THE COMPANIES THAT  
 HARNESS OUR POWER
