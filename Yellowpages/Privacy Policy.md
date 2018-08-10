@@ -13,25 +13,21 @@
     *   AT&T Profile
     *   Leadership Team
     *   Communications
-        
         *   *   AT&T Communications Profile
             *   Leadership
             *   Consumer
             *   Business
             *   Technology
     *   WarnerMedia
-        
         *   *   WarnerMedia Company Profile
             *   HBO
             *   Turner
             *   Warner Bros
     *   AT&T Latin America
-        
         *   *   AT&T Latin America Profile
             *   Mexico
             *   Vrio
     *   AT&T advertising &. analytics
-        
         *   *   AT&T advertising &. analytics Profile
 *   INVESTORS
     *   Investor Profile
@@ -43,7 +39,6 @@
     *   Resources
 *   VALUES
     *   Social Responsibility
-        
         *   *   Corporate Social Responsibility
             *   It Can Wait
             *   AT&T Aspire
