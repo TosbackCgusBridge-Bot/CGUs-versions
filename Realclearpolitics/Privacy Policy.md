@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _David Catanese_: In Ohio, a Wash, Not a Wave
+*   _Neera Tanden_: Dems Not Divided, Just Mature Enough to Handle Debate
     
-*   _Sean Trende_: Tuesday Night Is a Bad Sign for Republican House Chances
+*   _Ned Ryun_: Bread and Circus Politics
     
-*   _Bill Bennett_: States Are Resisting the Janus Decision on Public Unions
+*   _Ross Barkan_: Ohio Nail Biter Shows Dems Ready to Battle Everywhere
     
-*   _Dahlia Lithwick_: Who Cares if Brett Kavanaugh Is a Nice Man?
+*   _David Bossie_: Lessons Republicans &. Voters Should Learn From Ohio 12
     
-*   _Chris Buskirk_: Dems Should Stop Trying to Delegitimize the 2016 Election
+*   _Day &. Sunkara_: The Constitution Is An Out-Dated, Anti-Democratic Relic
     
-*   _Elizabeth Drew_: Trump's Manafort Problem
+*   _Rush Limbaugh_: Evidence of the Left's March Toward Ending Elections
     
-*   _Ben Weingarten_: Feinstein's China Ties Go Way Deeper Than Alleged Spy
+*   _Jay Willis_: Ted Cruz Surrenders His Last Shred of Dignity to Donald Trump
     
-*   _Kathryn Hinderaker_: Run-Amok-PC Sends Open Discourse Underground
+*   _Ed Morrissey_: Ocasio-Cortez's Nonsense on Stilts
     
-*   _Suzanne Nossel_: What the Trump Admin Gets Very Wrong About Free Speech
+*   _McGuire &. Picciotti-Bayer_: Protecting Religious Liberty Aids Women's Causes
     
-*   _John Lott_: A Good Guy With a Gun Has Saved Many Lives in Florida
+*   _Rembert Browne_: Spike Lee Wants 'BlacKkKlansman' to Wake America Up
     
-*   _David Ignatius_: A Chinese Threat That an Aircraft Carrier Can't Stop
+*   _Kyle Smith_: Oscars to America: Please Notice Us Again
     
-*   _Sahil Kapur_: Republican Clings to Narrow Lead in Ohio Special Election
+*   _Henry Olsen_: Good News for Dems, But Warning Signs Too
     
-*   _Henry Olsen_: Lessons for Republicans After the Ohio Squeaker
+*   _Dana Milbank_: Trump, Down 3 TDs at Halftime, Declares Victory
     
-*   _Frank Bruni_: A Nail-Biter in Ohio Race Is a Democratic Triumph
+*   _Adele Malpass_: GOP's Special Election Wins Counter Media Spin
     
-*   _Michael Goodwin_: It's Time for Trump to Play His Ace in the Hole
+*   _Samuelsohn &. Gerstein_: Mueller's 'Slam Dunk' Manafort Case in Jeopardy
     
-*   _Ezra Klein_: Watergate Had Tapes. Trump Has Tweets.
+*   _Jonathan Chait_: The Whole GOP Seems to Be Going to Jail Now
     
-*   _John Solomon_: DOJ's Ohr Had Frequent Contact With Fusion GPS, Steele
+*   _Paul Sperry_: Feinstein Was an Easy Mark for China's Spy
     
-*   _Charles Kesler_: Faking It: Our Partisan, Self-Deluded Press
+*   _Kara Swisher_: Rules Won't Save Twitter, Values Will
     
-*   _Mitch Albom_: 'Fake News' Press Is Not the Enemy of the People
+*   _Mark Penn_: Don't Let Big Tech Become Big Brother
     
-*   _Caitlin Huey-Burns_: Benefit--or Liability--of Trump Support Depends on Where
+*   _Will Oremus_: Move to Ban Alex Jones Is an Encouraging Sign
     
-*   _Tom Rogan_: Emanuel Has Failed. Chicago Needs Crime-Fighting Mayor
+*   _David Harsanyi_: Social Media Giants Shouldn't Be Arbiters of Speech
     
-*   _Kim Bellware_: Rudy Giuliani Is Wrong About Chicago's Bloodshed
+*   _Daniel Shuchman_: Kavanaugh Empowers Pro-Choice Dem Women
     
-*   _McLennan &. Ross Manzo_: Dems' Anti-Clinton Women of 2018
+*   _Eric Segall_: Nomination Will Backfire on GOP If Kavanaugh Is Confirmed
     
-*   _Newt Gingrich_: The Next Step in Trump's Economic Revolution
+*   _Lucky &. Stephens_: Silicon Valley Should Stop Ostracizing the Military
     
 
 *   Previous
@@ -226,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Tuesday Night Is a Bad Sign for Republican Chances in House
 *   Benefit--or Liability--of Trump Support Depends on Where
+*   Fireworks: Candace Owens vs. Michael Eric Dyson--"Democrats Are the Racists"
 *   Trump Reimposes Sanctions to Levy Economic Pressure on Iran
-*   Ingraham Asks Donald Trump Jr. About Trump Tower Meeting
 *   Republican Senators Rave About Kavanaugh. Dems Prepare to Grill Him
-*   U.S. Mends Ties With Allies, Prepares for Trade Battle With China
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +247,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Maine Senate - Brakey vs. KingSuffolk\*
-    *   King52
-    *   Brakey25King +27
-*   Maine Governor - Moody vs. MillsSuffolk\*
-    *   Moody39
-    *   Mills39Tie
+*   Virginia Senate - Stewart vs. KaineVCU\*
+    *   Kaine49
+    *   Stewart26Kaine +23
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove51Disapprove +4
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve44
-    *   Disapprove51Disapprove +7
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve45
+    *   Disapprove52Disapprove +7
+*   2018 Generic Congressional VoteReuters/Ipsos
+    *   Democrats41
+    *   Republicans39Democrats +2
 
 More Latest Polls In The News
 
+*   Ocasio-Cortez: Under Medicare For All, You Won't Have To Worry About Funeral Expenses
+*   Acosta: People Get "Twisted" View Of Me By Those Doing Trump's Bidding. "I'm Not Supposed To Be The Story"
 *   Nunes Tape: If Sessions Won't Unrecuse And Mueller Won't Clear The President, We're The Only Ones
 *   FIREWORKS: Candace Owens vs. Michael Eric Dyson In Shoutfest: "Democrats Are The Racists"
 *   Whitewater Counsel: Mueller Will Put Up With Pre-Conditions Because He Has Nothing To Subpoena Trump
-*   Mattis Takes Press Questions Outside Pentagon: Taliban Peace Talks, Hunting ISIS, Election Security
-*   Alex Jones to Trump: You Must Blow Whistle On Chinese Communist Infiltration Of Silicon Valley, Democrat Party
 
 *   Politics
 *   Policy
