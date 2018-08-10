@@ -8,15 +8,43 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Ray-Ban Sunglasses
+    *   Dolce Vita Up to 55% Off
+    *   Equipment
+    *   Designer Shop: Fresh Fall Styles
+    *   Designer Coats Up to 60% Off
+    *   On Trend: Peep-Toe Booties &. Heels
+    *   New Styles from Sundry &. More
+    *   Mustard Seed Under $35
+    *   On-Trend Earrings ft. Dannijo
+    *   Fit to Print: Shoes to Suit Every Style
+    *   Essentials Under $25: Casual Tops &. More
+    *   Cool Classics: Active ft. Reebok
+    *   Luana Italy &. More Up to 60% Off
+    *   Soul Journey Jewelry
+    *   Flora Nikrooz Lingerie &. More
+    *   K-Beauty Must-Haves
+    *   Lacoste Shoes Starting at $25
+    *   Smart Watches from iTouch &. More
+    *   Reigning Champ
+    *   Jean Claude
+    *   Backyard BBQ: Men's Tees &. Shorts
+    *   Sleek Statements: Modern Mirrors, Lamps &. More
+    *   Make It Modern: Sleek Lighting Starting at $40
+    *   Mimi &. Maggie
+    *   Summer Sleepover: Kids' PJs Starting at $10
+    *   Preschool Looks: First-Day Wear Starting at $10
+    *   Tea Collection
+    *   School Ready: Boots &. More from SPROX
+    *   Miniclasix
+    
+    *   Crocs for the Family
     *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
     *   Bobbi Brown
     *   Brooks
-    *   Religion
     *   Wolford
-    *   Tea Collection
-    *   Crocs for the Family
-    *   Back to School: Backpacks ft. JanSport
     *   Free Shipping: BergHOFF
+    *   Religion
     *   Dance and Marvel
     *   Derek Lam Up to 70% Off
     *   Wolford Hosiery
@@ -32,24 +60,16 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Bright Boho-Chic Pillows &. More
     *   ZAC Zac Posen
     *   Free Shipping: Textured Bedding &. More from $20
-    *   Wildkin Backpacks, Lunchboxes &. More
+    *   Back to School: Backpacks ft. JanSport
     *   Trending Now: Photographic Art &. More
     *   Free Shipping: Glam Modern Accent Furniture
     *   Lighten Up: Whimsical Lamps
     *   Get Organized: Vanity Storage &. More from $10
-    
     *   rag &. bone Up to 65% Off
     *   rag &. bone Shoes and Handbags Up to 60% Off
+    
     *   rag &. bone Men's Shoes Up to 60% Off
-    *   Summer Shades for Him &. Her Up to 65% Off
-    *   NANETTE nanette lepore Dresses
     *   Freida Rothman Jewelry
-    *   Lucy Paris
-    *   bebe Sport
-    *   Hush Puppies
-    *   Liebeskind Berlin Handbags
-    *   Angie
-    *   CODEXMODE &. More
     *   Glow On: Sheet Masks &. More ft. It's Skin
     *   Mavi &. More
     *   Get Packing: Luggage ft. Delsey
@@ -58,52 +78,51 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Heart to Heart Decor &. Accessories
     *   Zaxy Jelly Shoes Starting at $10
     *   Pippa &. Julie and More
-    *   Free People Up to 50% Off
-    *   Free People Shoes Starting at $40
-    *   Free People Lingerie &. Sleep Starting at $15
     *   Ted Baker London Men
     *   Ted Baker London Tailored Clothing
     *   Ted Baker London Shoes &. Accessories
     *   Mani Mondays: Reusable Manicures from $10
     *   TR Premium Up to 85% Off
-    *   Gab+Cos Rainbow Jewelry Starting at $20
-    
-    *   Melissa &. Doug
     *   Free Shipping: Momeni Rugs Up to 50% Off
-    *   Masala Baby &. Kids
-    *   Olivia Miller Girls' Shoes Up to 65% Off
-    *   Rowdy Sprout
-    *   Men's Final Few Up to 85% Off
-    *   Men's Shoes Up to 60% Off
     *   Hair Tools Up to 85% Off
     *   Workout Blowout: Fitness Trackers &. More
-    *   Scotch &. Soda
     *   Fresh Faced: Serums for Every Need
-    *   Cotton On &. Co. Under $45
-    *   Seven7 Up to 75% Off
-    *   Men's Dress Shoes Up to 50% Off
     *   Stay Hydrated: Insulated Stainless Steel Bottles
-    *   Face Masks We Love Up to 85% Off
-    *   Perricone MD
-    *   Hair Extensions Up to 90% Off
     *   Free Shipping: Luxe Rug Steals
     *   Free Shipping: Antique-Inspired Signs &. More
     *   Instax Fujifilm Cameras
     *   Pool Party Essentials Starting at $10
     *   On-Trend Accent Furniture
-    *   Lacoste Bedding
-    *   NutriChef Kitchen Electrics
     *   Luxe Essentials: Bedding &. Bath from $20
-    *   MIKOH Swim
-    *   LOVE Moschino
+    *   Wildkin Backpacks, Lunchboxes &. More
+    *   NANETTE nanette lepore Dresses
+    *   Hush Puppies
 *   WomenShop Sale Events
     
+    *   Ray-Ban Sunglasses
+    *   Dolce Vita Up to 55% Off
+    *   Equipment
+    *   Designer Shop: Fresh Fall Styles
+    *   Designer Coats Up to 60% Off
+    *   On Trend: Peep-Toe Booties &. Heels
+    *   New Styles from Sundry &. More
+    *   Mustard Seed Under $35
+    *   On-Trend Earrings ft. Dannijo
+    *   Fit to Print: Shoes to Suit Every Style
+    *   Essentials Under $25: Casual Tops &. More
+    *   Cool Classics: Active ft. Reebok
+    *   Luana Italy &. More Up to 60% Off
+    *   Soul Journey Jewelry
+    *   Flora Nikrooz Lingerie &. More
+    *   K-Beauty Must-Haves
+    *   Smart Watches from iTouch &. More
+    *   Crocs for the Family
     *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
     *   Bobbi Brown
+    
     *   Brooks
-    *   Religion
     *   Wolford
-    *   Crocs for the Family
+    *   Religion
     *   Dance and Marvel
     *   Derek Lam Up to 70% Off
     *   Wolford Hosiery
@@ -114,99 +133,85 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   ZAC Zac Posen
     *   rag &. bone Up to 65% Off
     *   rag &. bone Shoes and Handbags Up to 60% Off
-    *   Summer Shades for Him &. Her Up to 65% Off
-    *   NANETTE nanette lepore Dresses
     *   Freida Rothman Jewelry
-    
-    *   Lucy Paris
-    *   bebe Sport
-    *   Hush Puppies
-    *   Liebeskind Berlin Handbags
-    *   Angie
-    *   CODEXMODE &. More
     *   Glow On: Sheet Masks &. More ft. It's Skin
-    *   Free People Up to 50% Off
-    *   Free People Shoes Starting at $40
-    *   Free People Lingerie &. Sleep Starting at $15
     *   Mani Mondays: Reusable Manicures from $10
-    *   Gab+Cos Rainbow Jewelry Starting at $20
     *   Hair Tools Up to 85% Off
     *   Fresh Faced: Serums for Every Need
-    *   Face Masks We Love Up to 85% Off
-    *   Perricone MD
-    *   Hair Extensions Up to 90% Off
-    *   MIKOH Swim
-    *   LOVE Moschino
+    *   NANETTE nanette lepore Dresses
+    *   Hush Puppies
     
     Shop By Category
     *   Clothing
+    *   Shoes
     *   Jewelry
     *   Handbags
-    *   Shoes
+    *   Tech Accessories
     *   Lingerie
     *   Accessories
-    *   Tech Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Ray-Ban Sunglasses
+    *   Lacoste Shoes Starting at $25
+    *   Smart Watches from iTouch &. More
+    *   Reigning Champ
+    *   Jean Claude
+    *   Backyard BBQ: Men's Tees &. Shorts
     *   Crocs for the Family
     *   Barney Cools
     *   Brooks Men
     *   Save Khaki
     *   Brooks Brothers Tailored Clothing
+    
     *   Jiusko Dive Watches &. More
     *   rag &. bone Men's Shoes Up to 60% Off
-    *   Summer Shades for Him &. Her Up to 65% Off
     *   Mavi &. More
     *   Get Packing: Luggage ft. Delsey
     *   Gym Ready: Men's Active Under $25
-    
     *   Visive Starting at $20
     *   Ted Baker London Men
     *   Ted Baker London Tailored Clothing
     *   Ted Baker London Shoes &. Accessories
     *   TR Premium Up to 85% Off
-    *   Men's Final Few Up to 85% Off
-    *   Men's Shoes Up to 60% Off
-    *   Scotch &. Soda
-    *   Cotton On &. Co. Under $45
-    *   Seven7 Up to 75% Off
-    *   Men's Dress Shoes Up to 50% Off
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
     *   Watches
 *   KidsShop Sale Events
     
+    *   Mimi &. Maggie
+    *   Summer Sleepover: Kids' PJs Starting at $10
+    *   Preschool Looks: First-Day Wear Starting at $10
     *   Tea Collection
+    *   School Ready: Boots &. More from SPROX
+    *   Miniclasix
     *   Crocs for the Family
-    *   Back to School: Backpacks ft. JanSport
-    *   Preschool Prep Company
-    *   Wildkin Backpacks, Lunchboxes &. More
-    *   Heart to Heart Decor &. Accessories
     
+    *   Preschool Prep Company
+    *   Back to School: Backpacks ft. JanSport
+    *   Heart to Heart Decor &. Accessories
     *   Zaxy Jelly Shoes Starting at $10
     *   Pippa &. Julie and More
-    *   Melissa &. Doug
-    *   Masala Baby &. Kids
-    *   Olivia Miller Girls' Shoes Up to 65% Off
-    *   Rowdy Sprout
+    *   Wildkin Backpacks, Lunchboxes &. More
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Girls' Shoes
-    *   Toys
     *   Baby Girl
     *   Girls Sizes 7-16
-    *   Baby Gear &. Essentials
     *   Baby Boy
+    *   Girls' Shoes
+    *   Baby Gear &. Essentials
+    *   Toys
     *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
     *   Boys' Shoes
+    *   Boys Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Sleek Statements: Modern Mirrors, Lamps &. More
+    *   Make It Modern: Sleek Lighting Starting at $40
     *   Free Shipping: BergHOFF
     *   Free Shipping: Bright Boho-Chic Pillows &. More
     *   Free Shipping: Textured Bedding &. More from $20
@@ -214,17 +219,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Glam Modern Accent Furniture
     *   Lighten Up: Whimsical Lamps
     *   Get Organized: Vanity Storage &. More from $10
+    
     *   Free Shipping: Momeni Rugs Up to 50% Off
     *   Workout Blowout: Fitness Trackers &. More
-    
     *   Stay Hydrated: Insulated Stainless Steel Bottles
     *   Free Shipping: Luxe Rug Steals
     *   Free Shipping: Antique-Inspired Signs &. More
     *   Instax Fujifilm Cameras
     *   Pool Party Essentials Starting at $10
     *   On-Trend Accent Furniture
-    *   Lacoste Bedding
-    *   NutriChef Kitchen Electrics
     *   Luxe Essentials: Bedding &. Bath from $20
     
     Shop By Category
@@ -240,20 +243,18 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Pet Accessories
 *   BeautyShop Sale Events
     
+    *   K-Beauty Must-Haves
     *   Bobbi Brown
     *   Glow On: Sheet Masks &. More ft. It's Skin
     *   Mani Mondays: Reusable Manicures from $10
     *   Hair Tools Up to 85% Off
     *   Fresh Faced: Serums for Every Need
-    *   Face Masks We Love Up to 85% Off
-    *   Perricone MD
-    *   Hair Extensions Up to 90% Off
     
     Shop By Category
     *   Skin Care
-    *   Tools &. Accessories
     *   Makeup
     *   Nails
+    *   Tools &. Accessories
     *   Bath &. Body
     *   Hair Care
 
