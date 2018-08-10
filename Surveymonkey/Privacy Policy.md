@@ -119,6 +119,7 @@ SurveyMonkey® ÷
     *   15\. Exercising your rights
     *   16\. Information specific to other services
 *   Cookies
+*   Cookies Used on Survey Pages
 *   Security
 *   General
 
