@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Conference Report: Fullstack 2018 London ›
 *   Ubuntu Server development summary – 07 August 2018 ›
 *   Fresh Snaps from July 2018 ›
 *   Opera launches as a Snap for Linux users ›
 *   Ubuntu Server development summary – 31 July 2018 ›
-*   Create your Linux development workstation in seconds ›
