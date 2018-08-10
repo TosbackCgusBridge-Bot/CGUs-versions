@@ -1,8 +1,59 @@
-Loading.. SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
+Accessible View
+
+*   My AccountSign InTrack MyOrders
+
+SHOP DEPARTMENTS
+
+*   Same Day Pickup
+*   Store Ads
+*   Back to School
+*   JCP Bonus Bucks
+*   Clearance
+*   Coupons
+
+Near YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAPHIC TEESShop All
+
+*   LIMITED TIME SPECIAL!
+    
+    $4.20 - $5.70 sale
+    
+    was $14 - $19 Arizona Short Sleeve Graphic T-Shirt - Girls' 4-16 &. Plus(5)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $6.60 - $8.10 sale
+    
+    was $22 - $27 Arizona SS Varsity Graphic Tie-Front Tee - Girls' 4-16 and PlusAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $4.20 sale
+    
+    was $14 Arizona Graphic T-Shirt Boys 4-20(3)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $6.60 - $8.10 sale
+    
+    was $22 - $27 Arizona Short Sleeve Split Graphic Tie Front Tee - Girls' 4-16 &. PlusAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $4.20 - $5.70 sale
+    
+    was $14 - $19 Arizona Short Sleeve Printed Crew Neck T-Shirt Boys 4-20(3)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $7.20 sale
+    
+    was $24 Arizona Short Sleeve Graphic T-Shirt-Juniors PlusAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $7.20 sale
+    
+    was $24 Arizona Short Sleeve Graphic T-Shirt-Juniors PlusAdd To Cart
+
+SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
 
 *   $35.99 sale
     
-    was $48 JanSport® SuperBreak® Backpack(117)Add To Cart
+    was $48 JanSport® SuperBreak® Backpack(122)Add To Cart
 *   $36.99 sale
     
     was $50 Nike Brasilia XL Backpack(4)Add To Cart
@@ -17,7 +68,7 @@ Loading.. SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
     was $45 adidas Foundation IV Backpack(2)Add To Cart
 *   $54.99 sale
     
-    was $74 JanSport® Cool Student Backpack(26)Add To Cart
+    was $74 JanSport® Cool Student Backpack(27)Add To Cart
 *   $29.99 sale
     
     was $40 Nike Brasilia Youth Backpack(3)Add To Cart
@@ -26,84 +77,4 @@ Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Get GE, LG and Samsung home appliances at amazing prices at our appliance sale. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadets that will make excellent gifts for any occassion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
-Show More
-
-*   Signup for text\* or email alerts, offers and promotionsSign Up
-*   **\*Text Alerts:** Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional text alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text HELP to 527365 for help and STOP to 527365 to cancel. Terms &. Conditions.Privacy Policy.
-
-*   Give us a call **1-800-322-1189**
-*   Need help? **Customer Service**
-*   Ask us on Twitter **@askJCP**
-
-JCPenney Rewards
-
-*   Enroll in Rewards
-*   Sign In to Rewards
-*   JCPenney Credit Card
-
-Customer Service
-
-*   Returns
-*   Shipping Information
-*   Rebates
-*   Same Day Pickup
-*   My JCP.com Account
-*   Track My Order
-*   Servicio Al Cliente
-*   Help
-
-Store Services
-
-*   JCP Salon
-*   Sephora
-*   JCP Portraits
-*   JCP Optical
-*   Gift Registry
-*   JCP Custom Window
-*   JCP Home Services
-*   Kids Zone
-*   View All Store Services
-
-More Ways To Shop
-
-*   See Our ads
-*   Coupons
-*   Download the App
-*   Recommendations
-*   JCPenney Rewards
-*   JCPenney Credit Card
-*   Gift Cards
-*   Accessible view
-
-Corporate Overview
-
-*   Careers
-*   Company Info
-*   Community
-*   Media
-*   Investors
-
-Connect With Us
-
-*   Facebook
-*   Twitter
-*   Pinterest
-*   Instagram
-*   Youtube
-*   JCPenney Blog
-
-JCPenney Credit
-
-*   Pay Bill
-*   Check Balance
-*   Apply Now
-
-*   Legal
-*   Recalls
-*   AdChoices
-
-*   Privacy Policy
-*   CA Privacy Rts
-*   CA Supply Chain Act
-
-© JCP Media, Inc. 2018 . All Rights Reserved undefined
+Show More undefined
