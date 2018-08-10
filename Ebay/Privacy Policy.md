@@ -1,4 +1,4 @@
-DatenschutzerklärungDiese Datenschutzerklärung wurde am 1. Mai 2018 veröffentlicht . Sie tritt für neue Nutzer sofort in Kraft. Für alle anderen eBay-Nutzer tritt sie ab 1. Juni 2018 in Kraft. Hier können Sie die vorherige Datenschutzerklärung einsehen .
+DatenschutzerklärungDiese Datenschutzerklärung wurde am 1. Mai 2018 veröffentlicht . Sie tritt für neue Nutzer sofort in Kraft. Für alle anderen eBay-Nutzer trat sie ab 1. Juni 2018 in Kraft. Hier können Sie die vorherige Datenschutzerklärung einsehen .
 
 Wenn Sie nicht ausgeräumte Bedenken bezüglich des Datenschutzes oder der Datennutzung haben oder der Meinung sind, Ihre Anfrage wäre nicht zu Ihrer Zufriedenheit bearbeitet worden, wenden Sie sich bitte unter https://feedback-form.truste.com/watchdog/request  an unseren unabhängigen Konfliktlösungsanbieter mit Sitz in den USA (kostenlos).
 
