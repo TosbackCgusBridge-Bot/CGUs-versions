@@ -180,7 +180,7 @@ menu Close 0 Free Shipping on $50+
     *   Girls' Jeans
     *   Girls' Shorts
     *   Girls' Skirts &. Skorts
-    *   Girls' Blazers
+    *   Girls' Activewear
     *   Girls' Long Underwear
     *   Girls' Pajamas &. Robes
     *   Girls' Shoes
@@ -245,7 +245,6 @@ menu Close 0 Free Shipping on $50+
     *   Beach Towels
     
     Featured Shops
-    *   Her Swim Looks To Love
     *   Little Black Suit
     *   Women's Swim Finder
     *   Women's Mix &. Match Tool
@@ -570,7 +569,7 @@ menu Close 0 Free Shipping on $50+
         *   Girls' Jeans
         *   Girls' Shorts
         *   Girls' Skirts &. Skorts
-        *   Girls' Blazers
+        *   Girls' Activewear
         *   Girls' Long Underwear
         *   Girls' Pajamas &. Robes
         *   Girls' Shoes
@@ -639,7 +638,6 @@ menu Close 0 Free Shipping on $50+
         *   Beach Towels
     *   Featured Shops
         *   Back
-        *   Her Swim Looks To Love
         *   Little Black Suit
         *   Women's Swim Finder
         *   Women's Mix &. Match Tool
