@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Adam Taylor_: How a Trump Tweet &. Erdogan Speech Shook Turkey's Economy
+    
+*   _Michael Barone_: Still Not Clear Which Party Will Lose the House
+    
+*   _Ryan Cooper_: The Left Is Just Getting Started
+    
+*   _John Hinderaker_: Minnesota Could Be Decisive Battleground in November
+    
+*   _Eugene Robinson_: Table Is Set for Dems to Take the House
+    
+*   _Michael Graham_: Believe It or Not, the GOP Could Keep the House
+    
+*   _Dick Polman_: The Democrats' Quest to Win the Senate
+    
+*   _Roger L. Simon_: Tennessee Senate Race May Be Most Crucial of 2018
+    
+*   _Susan Rice_: President Trump: The Autocrats' Best Friend
+    
+*   _James Rosen_: The World As It Wasn't
+    
+*   _Xu Yimiao_: China Can End Trade War by Conceding Defeat to Trump
+    
+*   _Marc Thiessen_: Dems Have Their Own Foreign Espionage Problem
+    
+*   _Harry Litman_: Enough. Time for Mueller to Subpoena the President
+    
+*   _John Solomon_: Exposed: What Fusion GPS Told DOJ About Trump
+    
+*   _A.B. Stoddard_: Jordan, McCarthy and Trump: A Love Triangle
+    
+*   _Julie Kelly_: Will Jordan Bring Trump-Style Attitude to Speakership?
+    
+*   _Sally Persons_: Are Trump Voters 2018's Fizzled 'Obama Coalition'?
+    
+*   _Jelani Cobb_: Sarah Jeong &. the Question of 'Context'
+    
+*   _Laura Hollis_: Democrats Have Become What They Despise
+    
+*   _J.B. Pritzker_: Gun Control, Stronger Communities Will End Violence
+    
+*   _Jack Dunphy_: The Real Reasons for Chicago's Deadly Crime Wave
+    
 *   _Neera Tanden_: Dems Not Divided, Just Mature Enough to Handle Debate
     
 *   _Ned Ryun_: Bread and Circus Politics
     
 *   _Ross Barkan_: Ohio Nail Biter Shows Dems Ready to Battle Everywhere
-    
-*   _David Bossie_: Lessons Republicans &. Voters Should Learn From Ohio 12
-    
-*   _Day &. Sunkara_: The Constitution Is An Out-Dated, Anti-Democratic Relic
-    
-*   _Rush Limbaugh_: Evidence of the Left's March Toward Ending Elections
-    
-*   _Jay Willis_: Ted Cruz Surrenders His Last Shred of Dignity to Donald Trump
-    
-*   _Ed Morrissey_: Ocasio-Cortez's Nonsense on Stilts
-    
-*   _McGuire &. Picciotti-Bayer_: Protecting Religious Liberty Aids Women's Causes
-    
-*   _Rembert Browne_: Spike Lee Wants 'BlacKkKlansman' to Wake America Up
-    
-*   _Kyle Smith_: Oscars to America: Please Notice Us Again
-    
-*   _Henry Olsen_: Good News for Dems, But Warning Signs Too
-    
-*   _Dana Milbank_: Trump, Down 3 TDs at Halftime, Declares Victory
-    
-*   _Adele Malpass_: GOP's Special Election Wins Counter Media Spin
-    
-*   _Samuelsohn &. Gerstein_: Mueller's 'Slam Dunk' Manafort Case in Jeopardy
-    
-*   _Jonathan Chait_: The Whole GOP Seems to Be Going to Jail Now
-    
-*   _Paul Sperry_: Feinstein Was an Easy Mark for China's Spy
-    
-*   _Kara Swisher_: Rules Won't Save Twitter, Values Will
-    
-*   _Mark Penn_: Don't Let Big Tech Become Big Brother
-    
-*   _Will Oremus_: Move to Ban Alex Jones Is an Encouraging Sign
-    
-*   _David Harsanyi_: Social Media Giants Shouldn't Be Arbiters of Speech
-    
-*   _Daniel Shuchman_: Kavanaugh Empowers Pro-Choice Dem Women
-    
-*   _Eric Segall_: Nomination Will Backfire on GOP If Kavanaugh Is Confirmed
-    
-*   _Lucky &. Stephens_: Silicon Valley Should Stop Ostracizing the Military
     
 
 *   Previous
@@ -228,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Tuesday Night Is a Bad Sign for Republican Chances in House
+*   Are Trump Voters 2018's Fizzled "Obama Coalition"?
+*   Democrats' Hopes to Take House Could Stumble in Minnesota
+*   York: The Link Between Christopher Steele and DOJ's Bruce Ohr
+*   Pence Outlines U.S. Space Force Plan for "Next Battlefield"
 *   Benefit--or Liability--of Trump Support Depends on Where
-*   Fireworks: Candace Owens vs. Michael Eric Dyson--"Democrats Are the Racists"
-*   Trump Reimposes Sanctions to Levy Economic Pressure on Iran
-*   Republican Senators Rave About Kavanaugh. Dems Prepare to Grill Him
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,12 +245,12 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove52Disapprove +6
 *   Virginia Senate - Stewart vs. KaineVCU\*
     *   Kaine49
     *   Stewart26Kaine +23
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove51Disapprove +4
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve45
     *   Disapprove52Disapprove +7
@@ -262,11 +260,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Kanye to Kimmel: "Liberals Can't Bully Me" For Trump Support, Blacks Supposed To Have Monolithic Thought
+*   Steve Schmidt: Donald Trump's Republican Party Must "Burn To The Ground" For There To Be New Growth
 *   Ocasio-Cortez: Under Medicare For All, You Won't Have To Worry About Funeral Expenses
 *   Acosta: People Get "Twisted" View Of Me By Those Doing Trump's Bidding. "I'm Not Supposed To Be The Story"
-*   Nunes Tape: If Sessions Won't Unrecuse And Mueller Won't Clear The President, We're The Only Ones
 *   FIREWORKS: Candace Owens vs. Michael Eric Dyson In Shoutfest: "Democrats Are The Racists"
-*   Whitewater Counsel: Mueller Will Put Up With Pre-Conditions Because He Has Nothing To Subpoena Trump
 
 *   Politics
 *   Policy
