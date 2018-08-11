@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 My week on Twitter : 5 Mentions, 1.25K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/W2bV…
 
-About 2 days ago
+About 3 days ago
 
 Check out these steps toward promoting a safer browsing experience for web users via Intermarkets blog! twitter.com/Jambrose…
 
@@ -182,7 +182,7 @@ Last month
 
 My week on Twitter : 3 Mentions, 54.5K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/Rxes…
 
-Last month
+About a month ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
