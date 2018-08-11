@@ -15,39 +15,39 @@ Near YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAP
 
 *   LIMITED TIME SPECIAL!
     
+    $7.20 sale
+    
+    was $24 Arizona Short Sleeve Graphic T-Shirt-Juniors PlusAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $7.20 sale
+    
+    was $24 Arizona "Mixed Feelings" Graphic T-Shirt- Juniors PlusAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $6 sale
+    
+    was $20 Arizona Short Sleeve Lace Up T-Shirt- Juniors(3)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $8.70 sale
+    
+    was $29 Arizona "What Ever" Graphic T-Shirt- Juniors PlusAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $4.20 - $5.70 sale
+    
+    was $14 - $19 Arizona Graphic T-Shirt Boys 4-20(4)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
     $4.20 - $5.70 sale
     
     was $14 - $19 Arizona Short Sleeve Graphic T-Shirt - Girls' 4-16 &. Plus(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $6.60 - $8.10 sale
-    
-    was $22 - $27 Arizona SS Varsity Graphic Tie-Front Tee - Girls' 4-16 and PlusAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $4.20 sale
-    
-    was $14 Arizona Graphic T-Shirt Boys 4-20(3)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $6.60 - $8.10 sale
-    
-    was $22 - $27 Arizona Short Sleeve Split Graphic Tie Front Tee - Girls' 4-16 &. PlusAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
     $4.20 - $5.70 sale
     
-    was $14 - $19 Arizona Short Sleeve Printed Crew Neck T-Shirt Boys 4-20(3)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $7.20 sale
-    
-    was $24 Arizona Short Sleeve Graphic T-Shirt-Juniors PlusAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $7.20 sale
-    
-    was $24 Arizona Short Sleeve Graphic T-Shirt-Juniors PlusAdd To Cart
+    was $14 - $19 Arizona SS Graphic Tee - Girls' 4-16 and Plus(1)Add To Cart
 
 SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
 
@@ -59,7 +59,7 @@ SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
     was $50 Nike Brasilia XL Backpack(4)Add To Cart
 *   $47.99 sale
     
-    was $64 JanSport® Big Student Backpack(85)Add To Cart
+    was $64 JanSport® Big Student Backpack(86)Add To Cart
 *   $40.99 sale
     
     was $55 Nike® Hayward Futura Backpack(10)Add To Cart
@@ -68,7 +68,7 @@ SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
     was $45 adidas Foundation IV Backpack(2)Add To Cart
 *   $54.99 sale
     
-    was $74 JanSport® Cool Student Backpack(27)Add To Cart
+    was $74 JanSport® Cool Student Backpack(28)Add To Cart
 *   $29.99 sale
     
     was $40 Nike Brasilia Youth Backpack(3)Add To Cart
