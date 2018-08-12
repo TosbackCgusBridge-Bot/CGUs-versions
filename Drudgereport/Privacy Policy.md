@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 My week on Twitter : 5 Mentions, 1.25K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/W2bV…
 
-About 3 days ago
+About 4 days ago
 
 Check out these steps toward promoting a safer browsing experience for web users via Intermarkets blog! twitter.com/Jambrose…
 
@@ -174,11 +174,11 @@ Last week
 
 My week on Twitter : 1 Mention, 1.16K Mention Reach, 1 Like, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/DYxm…
 
-About 3 weeks ago
+Last month
 
 Getting In On The 2020 Election Campaigns. Here's What Publishers Need to Know! bit.ly/2N4mkWe via @adexchanger @Requidan
 
-Last month
+About a month ago
 
 My week on Twitter : 3 Mentions, 54.5K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/Rxes…
 
