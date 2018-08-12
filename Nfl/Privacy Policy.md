@@ -1,3 +1,75 @@
+*   LAC•3ARI143rd • 05:36
+*   MIN1-042DEN0-128Final
+*   CAR1-028BUF0-123Final
+*   CHI0-227CIN1-030Final
+*   NO1-024JAX0-120Final
+*   TB1-026MIA0-124Final
+*   CLE1-020NYG0-110Final
+*   PIT1-031PHI0-114Final
+*   LA0-17BAL2-033Final
+*   WAS0-117NE1-026Final
+*   TEN0-117GB1-031Final
+*   HOU1-017KC0-110Final
+*   DAL0-121SF1-024Final
+*   IND1-019SEA0-117Final
+*   ATL0-10NYJ1-017Final
+*   DET0-110OAK1-016Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Video
+*   Training Camp
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Free Agency
+*   Game Pass
+*   Stats
+*   Ways to Watch
+*   NFL Network
+*   Photos
+
+*   Big Play HighlightA.Howard 7-yard INT returnWatch NowLAC•3ARI143rd • 05:36
+*   MIN42DEN28Final
+*   CAR28BUF23Final
+*   CHI27CIN30Final
+*   NO24JAX20Final
+*   TB26MIA24Final
+*   CLE20NYG10Final
+*   PIT31PHI14Final
+*   LA7BAL33Final
+*   WAS17NE26Final
+*   TEN17GB31Final
+*   HOU17KC10Final
+*   DAL21SF24Final
+*   IND19SEA17Final
+*   ATL0NYJ17Final
+*   DET10OAK16Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Video
+*   Training Camp
+
+*   Fantasy
+
+*   *   Free Agency
+    *   Game Pass
+    *   Stats
+    *   Ways to Watch
+    *   NFL Network
+    *   Photos
+
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
