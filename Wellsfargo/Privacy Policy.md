@@ -79,9 +79,9 @@ Search Use up and down arrows to navigate suggestions.
     
 *   Investing and Retirement Investing and Retirement Ways to Invest
     
-    *   With a Dedicated Advisor
-    *   Online With Guidance
-    *   Online Independently
+    *   Self-Directed Online Trading
+    *   Digital Investing Plus Advice
+    *   Dedicated Financial Advisor
     *   Compare Ways to Invest
     
     Investing Solutions
@@ -103,7 +103,7 @@ Search Use up and down arrows to navigate suggestions.
     *   Contact a Financial Advisor
     *   Open an IRA
     *   Open a WellsTrade® Account
-    *   Compare IRAs
+    *   Open an Intuitive Investor® Account
     *   My Retirement Plan
     *   Employer Plan 401(k) Sign On
 *   Wealth Management Wealth Management Wealth Services
