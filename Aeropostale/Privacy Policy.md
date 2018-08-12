@@ -13,7 +13,7 @@ Aeropostale
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Featured ) Featured
+*   Open submenu ( Collections ) Collections
 
 *   Open submenu ( Tops ) Tops
 
@@ -31,7 +31,7 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
 
-Close submenu ( Featured ) Featured
+Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
@@ -87,7 +87,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Featured ) Featured
+*   Open submenu ( Collections ) Collections
 
 *   Open submenu ( Tops ) Tops
 
@@ -102,7 +102,7 @@ Close submenu ( Guys ) Guys
 *   Extended Sizes
 *   Trending
 
-Close submenu ( Featured ) Featured
+Close submenu ( Featured ) Collections
 
 *   View All
 *   New Arrivals
@@ -184,7 +184,6 @@ Close submenu ( Girls Shorts ) Girls Shorts
 *   View All
 *   Low Rise Shorty
 *   High-Waisted Shorty
-*   High-Waisted Cheeky
 *   Low Rise Midi
 *   High-Waisted Midi
 *   Low Rise Twill Midi
@@ -259,7 +258,7 @@ Menu Find a Store Aeropostale
 *   Girls
     
     *   View Home
-    *   Featured
+    *   Collections
         *   View All
         *   New Arrivals
         *   SWIM SALE
@@ -321,7 +320,7 @@ Menu Find a Store Aeropostale
 *   Guys
     
     *   View Home
-    *   Featured
+    *   Collections
         *   View All
         *   New Arrivals
         *   Buy 1 Get 2 Underwear
@@ -397,7 +396,6 @@ Menu Find a Store Aeropostale
         *   View All
         *   Low Rise Shorty
         *   High-Waisted Shorty
-        *   High-Waisted Cheeky
         *   Low Rise Midi
         *   High-Waisted Midi
         *   Low Rise Twill Midi
