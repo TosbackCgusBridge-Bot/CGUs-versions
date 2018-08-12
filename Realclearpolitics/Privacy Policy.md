@@ -109,6 +109,40 @@
     *   About
     *   Media Kit
 
+*   _Gary Younge_: Dems Must Do More Than Oppose Trump
+    
+*   _Newt Gingrich_: The Trump GOP Rising Out of a Political Revolution
+    
+*   _Shadi Hamid_: Trump Made Socialism Great Again
+    
+*   _Eddie Scarry_: Will Media Ever Call Out Ocasio-Cortez's Ignorance?
+    
+*   _David Ignatius_: Pompeo Tries to Be the Disruptor's Diplomat
+    
+*   _Recep Tayyip Erdogan_: How Turkey Sees the Crisis With the U.S.
+    
+*   _Andrew McCarthy_: Of Course There Is Such a Thing as a 'Perjury Trap'
+    
+*   _Anne Applebaum_: Are You Still Sure There's No Need to Worry?
+    
+*   _Peter J. Wallison_: Why the Trump Tower Meeting Shows No Collusion
+    
+*   _Keith Oppenheim_: Journalists Need to Stop Playing Themselves in Movies
+    
+*   _Kristin Tate_: Hollywood Effort to Blacklist Trump Beyond Hypocritical
+    
+*   _Jelani Cobb_: The Lesson of Omarosa's New Trump Book
+    
+*   _Emily Jashinsky_: Media Hated Omarosa - Until She Dumped on Trump
+    
+*   _William Cohan_: The Big, Dangerous Bubble in Corporate Debt
+    
+*   _Liam Denning_: The Long Unraveling of Tesla's Master Plan
+    
+*   _Jeff Crouere_: NFL Millionaires Continue Their Protest
+    
+*   _LZ Granderson_: Don't Fall Into Trump's Trap on NFL Protests
+    
 *   _Adam Taylor_: How a Trump Tweet &. Erdogan Speech Shook Turkey's Economy
     
 *   _Michael Barone_: Still Not Clear Which Party Will Lose the House
@@ -117,45 +151,11 @@
     
 *   _John Hinderaker_: Minnesota Could Be Decisive Battleground in November
     
-*   _Eugene Robinson_: Table Is Set for Dems to Take the House
+*   _Matt Bai_: Running Against Bernie in 2020: It's Easier Than You Think
     
-*   _Michael Graham_: Believe It or Not, the GOP Could Keep the House
+*   _Peter Morici_: Dems Foolish to Oppose the Kavanaugh Nomination
     
-*   _Dick Polman_: The Democrats' Quest to Win the Senate
-    
-*   _Roger L. Simon_: Tennessee Senate Race May Be Most Crucial of 2018
-    
-*   _Susan Rice_: President Trump: The Autocrats' Best Friend
-    
-*   _James Rosen_: The World As It Wasn't
-    
-*   _Xu Yimiao_: China Can End Trade War by Conceding Defeat to Trump
-    
-*   _Marc Thiessen_: Dems Have Their Own Foreign Espionage Problem
-    
-*   _Harry Litman_: Enough. Time for Mueller to Subpoena the President
-    
-*   _John Solomon_: Exposed: What Fusion GPS Told DOJ About Trump
-    
-*   _A.B. Stoddard_: Jordan, McCarthy and Trump: A Love Triangle
-    
-*   _Julie Kelly_: Will Jordan Bring Trump-Style Attitude to Speakership?
-    
-*   _Sally Persons_: Are Trump Voters 2018's Fizzled 'Obama Coalition'?
-    
-*   _Jelani Cobb_: Sarah Jeong &. the Question of 'Context'
-    
-*   _Laura Hollis_: Democrats Have Become What They Despise
-    
-*   _J.B. Pritzker_: Gun Control, Stronger Communities Will End Violence
-    
-*   _Jack Dunphy_: The Real Reasons for Chicago's Deadly Crime Wave
-    
-*   _Neera Tanden_: Dems Not Divided, Just Mature Enough to Handle Debate
-    
-*   _Ned Ryun_: Bread and Circus Politics
-    
-*   _Ross Barkan_: Ohio Nail Biter Shows Dems Ready to Battle Everywhere
+*   _David Axe_: 'Space Force' Already Making Military Desperate &. Dumb
     
 
 *   Previous
