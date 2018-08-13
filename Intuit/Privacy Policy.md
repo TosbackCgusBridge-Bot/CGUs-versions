@@ -15,31 +15,6 @@ Near YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAP
 
 *   LIMITED TIME SPECIAL!
     
-    $4.20 - $5.70 sale
-    
-    was $14 - $19 Arizona Short Sleeve Printed Crew Neck T-Shirt Boys 4-20(3)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $4.20 - $5.70 sale
-    
-    was $14 - $19 Arizona Short Sleeve Graphic T-Shirt - Girls" 4-16 &. Plus(9)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $8.70 sale
-    
-    was $29 Arizona "Roar" Tiger Graphic T-Shirt- Juniors PlusAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $8.70 sale
-    
-    was $29 Arizona "What Ever" Graphic T-Shirt- Juniors PlusAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $4.20 - $4.99 sale
-    
-    was $14 Arizona Short Sleeve Graphic T-Shirt Boys 4-20 - Husky(12)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $7.20 sale
     
     was $24 Arizona Short Sleeve Graphic T-Shirt-Juniors PlusAdd To Cart
@@ -47,16 +22,41 @@ Near YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAP
     
     $4.20 - $5.70 sale
     
-    was $14 - $19 Arizona Short Sleeve Graphic T-Shirt - Girls' 4-16 &. Plus(20)Add To Cart
+    was $14 - $19 Arizona Short Sleeve Graphic Tee - Girls' 4-16 &. Plus(1)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $6.60 - $8.10 sale
+    
+    was $22 - $27 Arizona 3D Graphic Petal Top - Girls' 4-16 &. Plus(3)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $10.20 sale
+    
+    was $34 Arizona Long Sleeve Graphic T-ShirtAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $6.60 - $8.10 sale
+    
+    was $22 - $27 Arizona Short Sleeve Cutout Graphic Tee - Girls' 4-16 &. Plus(1)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $4.20 - $5.70 sale
+    
+    was $14 - $19 Arizona Short Sleeve Graphic Ringer Tee - Girls' 4-16 &. Plus(1)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $6.60 - $8.10 sale
+    
+    was $22 - $27 Arizona Short Sleeve Split Graphic Tie Front Tee - Girls' 4-16 &. PlusAdd To Cart
 
 SAVE ON BACKPACKSShop AllSAVE ON BACKPACKSShop All
 
 *   $35.99 sale
     
-    was $48 JanSport® SuperBreak® Backpack(123)Add To Cart
+    was $48 JanSport® SuperBreak® Backpack(124)Add To Cart
 *   $36.99 sale
     
-    was $50 Nike Brasilia XL Backpack(4)Add To Cart
+    was $50 Nike Brasilia XL Backpack(5)Add To Cart
 *   $47.99 sale
     
     was $64 JanSport® Big Student Backpack(87)Add To Cart
