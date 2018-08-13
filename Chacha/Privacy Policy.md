@@ -48,41 +48,26 @@ Vehicle Removed
 
 Limit Reached
 
-*   Home
-*   \>
-*   Car News
-*   \>
-*   Class of 2018: The New and Redesigned Cars, Trucks and SUVs
+Car Shopping  
+Made Easy KBB.com is your one-stop resource Price New/Used My Car's Value First Pics: See the New Cars Coming for 2018
 
-Advertisement Class of 2018: The New and Redesigned Cars, Trucks and SUVs by KBB.com Editors | January 25, 2018 4:39 PM 2018 Honda Accord
+Some of these new cars, trucks and SUVs are already here. Take a peek
 
-The 2018 model year is well under way, and most of this year's new and redesigned vehicles have made their way to dealer lots near you. There’s something new for everyone as automakers have revamped best-selling mainstream models like the Toyota Camry and Honda Accord, while offering up some tasty all-new entries like the Kia Stinger sport sedan and Alfa Romeo Stelvio SUV.
+Take a peek
 
-But even as automakers start unveiling the all-new cars, trucks and SUVs heading our way for 2019, surprises keep coming for 2018. At the 2017 Los Angeles Auto Show, for instance, the world premieres included a mix of both. 
+Get Your Instant Cash Offer
 
-Browse the gallery above for a preview and then explore the thumbnails below for a more in-depth look of what’s to come in the months ahead.
+Trade in or sell your car today, based on Kelley Blue Book Values. Get started
 
-2018 Alfa Romeo Stelvio 2018 Audi A5/S5 Cabriolet (+VIDEO) 2018 Audi A5 Sportback 2018 Audi Q5 2018 BMW X2 2018 BMW X3 2018 Buick Enclave 2018 Buick Regal (+VIDEO) 2018 Chevrolet Equinox 2018 Chevrolet Traverse 2018 Ferrari 812 Superfast 2018 Ford EcoSport 2018 Ford Expedition 2018 GMC Terrain 2018 Honda Accord 2018 Honda Odyssey 2018 Hyundai Accent 2018 Hyundai Elantra GT 2018 Hyundai Kona 2018 Jaguar E-Pace 2018 Jeep Wrangler 2018 Kia Rio 2018 Kia Stinger 2018 Land Rover Range Rover Velar 2018 Lexus LC 500 2018 Lexus LS 2018 Lexus RX L 2018 Lincoln Navigator 2018 McLaren 720S 2018 Mercedes-Benz E-Class Cabriolet 2018 Mercedes-Benz E-Class Coupe (+VIDEO) 2018 Mitsubishi Eclipse Cross (+VIDEO) 2018 Nissan Kicks 2018 Nissan Leaf 2018 Subaru Crosstrek 2018 Toyota Camry 2018 Toyota C-HR 2018 Volkswagen Atlas 2018 Volkswagen Tiguan 2018 Volvo XC60
+Get started
 
-Now that you're up to speed on what's coming for 2018, you might want to make sure you haven't missed any of the new cars, trucks and SUVs that debuted for the 2017 model year. 
+10 Best Sedans Under $25,000
 
-Advertisement Advertisement **New Car Spotlight**
+The top two sedans have been completely redesigned for 2018. Find your favorite
 
-Advertisement
+Find your favorite
 
-Advertisement Related Articles This Week in Car Buying: Flood of 2-row crossovers coming 2019 Ford Mustang Bullitt Mustang Milestone: Ford builds 10 millionth model 2019 Hyundai Veloster N Quick Take 2019 Range Rover and Range Rover Sport Introduced DIY: Is the back-yard mechanic really an endangered species? FAQ | Contact Us | About Us | Careers | Corporate | Advertising | Media | Site Map | Mobile | KBB Portugal | KBB Brazil | Follow Us © 1995-2018 Kelley Blue Book Co.®, Inc. All rights reserved. Copyrights &. Trademarks | Terms of Service | Privacy Policy | Linking Policy | Ad Choices
-
-Popular at KBB.com
-
-*   25 Best-Selling Cars of 2017
-*   First Pics: 2019 Models Unveiled
-*   10 Best SUVs Under $25,000
-*   New Car Buyer's Guide
-*   12 Best Buys of 2018
-*   25 Best-Selling Cars of 2017
-*   First Pics: 2019 Models Unveiled
-
-Advertisement Thanks for Supporting  
+New Cars by Category Make Price Best Sellers Sponsored SUV Crossover Sedan Truck Hatchback Convertible Luxury Coupe Electric Hybrid Van/Minivan Wagon Acura Alfa Romeo Aston Martin Audi Bentley BMW Buick Cadillac Chevrolet Chrysler Dodge Ferrari FIAT Ford Freightliner Genesis GMC Honda Hyundai INFINITI Jaguar Jeep Kia Lamborghini Land Rover Lexus Lincoln Lotus Maserati Mazda McLaren Mercedes-Benz MINI Mitsubishi Nissan Porsche Ram Rolls-Royce smart Subaru Tesla Toyota Volkswagen Volvo Range $0$5,000$10,000$15,000$20,000$25,000$30,000$35,000$40,000$45,000$50,000$55,000$60,000$65,000to $5,000$10,000$15,000$20,000$25,000$30,000$35,000$40,000$45,000$50,000$55,000$60,000$65,000No limit See Results Popular Searches Top-Rated Sedans Under $25,000 Top-Rated SUVs Under $25,000 Luxury Vehicles Under $35,000 3-Row Vehicles Under $35,000 Best MPG Under $35,000 Advertisement Advertisement FAQ | Contact Us | About Us | Careers | Corporate | Advertising | Media | Site Map | Mobile | KBB Portugal | KBB Brazil | Follow Us © 1995-2018 Kelley Blue Book Co.®, Inc. All rights reserved. Copyrights &. Trademarks | Terms of Service | Privacy Policy | Linking Policy | Ad Choices Thanks for Supporting  
 Kelley Blue Book. We deliver up-to-date car values, expert reviews and unbiased reporting at no  
 cost to you. To do this, we display ads from only trusted partners.  
   
