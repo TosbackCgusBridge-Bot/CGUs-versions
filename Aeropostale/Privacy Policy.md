@@ -13,7 +13,7 @@ Aeropostale
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Collections ) Collections
+*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -31,7 +31,7 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
 
-Close submenu ( Collections ) Collections
+Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
@@ -87,7 +87,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Collections ) Collections
+*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -102,7 +102,7 @@ Close submenu ( Guys ) Guys
 *   Extended Sizes
 *   Trending
 
-Close submenu ( Featured ) Collections
+Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
@@ -258,7 +258,7 @@ Menu Find a Store Aeropostale
 *   Girls
     
     *   View Home
-    *   Collections
+    *   Featured
         *   View All
         *   New Arrivals
         *   SWIM SALE
@@ -320,7 +320,7 @@ Menu Find a Store Aeropostale
 *   Guys
     
     *   View Home
-    *   Collections
+    *   Featured
         *   View All
         *   New Arrivals
         *   Buy 1 Get 2 Underwear
@@ -491,7 +491,7 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
 
 Refer a friend and get $15 off.
 
