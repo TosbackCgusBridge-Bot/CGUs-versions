@@ -1,4 +1,4 @@
-SUBSCRIBE NOW99¢ per month. Save 90%.
+close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%.
 
 *   Home
 *   News
@@ -75,7 +75,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso DJ suffers severe injuries in hit-and-runCrimeWant to work for Amazon? Now you can from homeNewsDallas Cowboys cheerleaders in lip sync videoNewsCouncil rejects petition to preserve open spaceLocalJuárez police make arrests in mass murder caseLocalPolice: Boy pleaded with dad before slayingTexasregionWoman charged in locker break-ins at El Paso gymsCrimeMan arrested in robbery of bank inside WalmartCrimeNancy Pelosi to visit El Paso over immigrationImmigrationPolice ID motorcyclist killed in accidentNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowNew West El Paso Walmart to open WednesdayLocalSuicide call to police leads to SWAT standoffCrimeHave you seen El Paso's most wanted fugitives?CrimeViolent hotel robbers sought in Crime of WeekCrimeFranklin High administrators take on La ChonaEntertainmentSam Elliott says El Paso feels 'like coming home'EventsI-10 Downtown to close for bridge repair workTrafficAguilar's Top 10 boxing pound-for-pound listBoxingRecall effort targets El Paso Mayor Dee MargoLocalComedian Carlos Mencia shows love for TacoholicsEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,3 +145,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dialog
