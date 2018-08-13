@@ -7,8 +7,8 @@ try pro free for 7 days Fill out the CAPTCHA to continue searching on Whitepages
 Not searching for business use? Complete the test, prove you’re a real human, and we’ll send you along to Whitepages.
 
 <div>. <div style="width: 302px. height: 422px. position: relative;">. <div style="width: 302px. height: 422px. position: absolute;">. <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LdC3UgUAAAAAJIcyA3Ym4j\_nCP-ainSgf1NoFku" frameborder="0" scrolling="no" style="width: 302px. height:422px. border-style: none;">. </iframe>. </div>. </div>. <div style="width: 300px. height: 60px. border-style: none. bottom: 12px. left: 25px. margin: 0px. padding: 0px. right: 25px. background: #f9f9f9. border: 1px solid #c1c1c1. border-radius: 3px;">. <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px. height: 40px. border: 1px solid #c1c1c1. margin: 10px 25px. padding: 0px. resize: none;" >. </textarea>. </div>. </div>.  
-You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-08-12 05:34:03 UTC.  
-Trace: 706cf569-ca31-48d9-be4e-36dc74321775 via 0954f75f-e05f-454f-b961-272a7ba8ac05
+You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-08-13 05:34:01 UTC.  
+Trace: 197b2c88-7722-4ed1-9bbd-c5e9e253dd24 via 0954f75f-e05f-454f-b961-272a7ba8ac05
 
 *   About
 *   Careers
