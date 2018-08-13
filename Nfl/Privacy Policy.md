@@ -1,4 +1,4 @@
-*   LAC•3ARI143rd • 05:36
+*   LAC0-117ARI1-024Final
 *   MIN1-042DEN0-128Final
 *   CAR1-028BUF0-123Final
 *   CHI0-227CIN1-030Final
@@ -32,7 +32,7 @@
 *   NFL Network
 *   Photos
 
-*   Big Play HighlightA.Howard 7-yard INT returnWatch NowLAC•3ARI143rd • 05:36
+*   LAC17ARI24Final
 *   MIN42DEN28Final
 *   CAR28BUF23Final
 *   CHI27CIN30Final
