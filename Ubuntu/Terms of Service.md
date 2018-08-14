@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Deploying Kubernetes on Public Clouds is hard – or is it? ›
+*   Design and Web team summary – 13 August 2018 ›
 *   Conference Report: Fullstack 2018 London ›
 *   Ubuntu Server development summary – 07 August 2018 ›
 *   Fresh Snaps from July 2018 ›
-*   Opera launches as a Snap for Linux users ›
-*   Ubuntu Server development summary – 31 July 2018 ›
