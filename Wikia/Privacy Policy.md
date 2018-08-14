@@ -205,4 +205,4 @@ Address: 360 Third Street, Suite 750, San Francisco, CA 94107 Email: support@fan
 
 In the EEA you may also make a complaint to our supervisory body for data protection matters (for example, the Information Commissioner's Office in the UK) or seek a remedy through local courts if you believe your rights have been breached.
 
-<link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/\_\_cb7110027110012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />Reset your tracking preferences
+<link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/\_\_cb7120027120012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />Reset your tracking preferences
