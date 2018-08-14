@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Brian Stelter_: The Dirty War on the Free Press Must End
+*   _Susan Estrich_: Trump's Numbers Not as Bad as Some Believe
     
-*   _Frank Miele_: Journalists Used to Fight Fake News, Not So Much Today
+*   _Robert Samuelson_: President Trump's No-Win Trade War
     
-*   _Steve Coll_: How Should We Challenge Hate-Mongering Online?
+*   _James Gagliano_: No Tears Shed Over Strzok's Firing
     
-*   _Thomas Lifson_: Media Covering (Up) Feinstein's Major Spy Scandal
+*   _Gromer Jeffers_: Can Dems Win in Texas? 2018 Is Best Shot Yet
     
-*   _Jonathan Cohn_: Obamacare's Future Hinges on Who Controls Washington
+*   _Amy Sikma_: Dear Wisconsin: It's Time to Send in the Marine
     
-*   _Steven Hayward_: Chile vs. Venezuela
+*   _Michael Arceneaux_: Sorry, Omarosa, Trump's Racism Is Not a Revelation
     
-*   _Lili Loofbourow_: Trump's War on California
+*   _Dana Perino_: Omarosa's Book Will Be Forgotten, Her Awful Behavior Won't
     
-*   _Kerry Jackson_: California's Sharp Left Turn Toward Authoritarianism
+*   _Randall King_: Make the American News Media Great Again
     
-*   _Barnes &. Mufson_: WH Counts on Kavanaugh in Battle vs. 'Administrative State'
+*   _Ed Morrissey_: This Is Journalism? Pro Publica's Silly Kavanaugh Search
     
-*   _Noah Rothman_: Yes, We Really Do Need a 'Space Force'
+*   _Liam Denning_: Elon Musk Hands Tesla's Wheel to Saudi Arabia
     
-*   _David Frum_: Dinesh D'Souza and the Decline of Conservatism
+*   _Matthew Betley_: The NFL Doesn't Actually Care About You, or Your Service
     
-*   _Kanye West_: "Liberals Can't Bully Me, News Can't Bully Me"
+*   _Nick Wadhams_: Trump's Tariffs and Sanctions a Risky Strategy
     
-*   _Michael Goodwin_: Trump's Foreign Policy Is Boosting America's Standing
+*   _Tim Morris_: Democrats Used to Be for Middle Class. Not Anymore
     
-*   _Fred Kaplan_: Another Week of Humiliation for America's Top Diplomats
+*   _Gabriel Debenedetti_: Ayanna Pressley Wants to Shake the Dems Again
     
-*   _Marc Thiessen_: Democrats Have a Big Foreign Espionage Problem
+*   _David Catron_: Is Ocasio-Cortez Afraid of Candace Owens?
     
-*   _Franklin Foer_: How Trump Radicalized ICE
+*   _Larry Elliott_: Turkey's Crisis May Widen, Its Options Are Running Out
     
-*   _Philip Ewing_: Is Robert Mueller Stumbling Into Time Trouble?
+*   _Lee Smith_: 2016 Trump Tower Meeting Increasingly Looks Like a Setup
     
-*   _Rush Limbaugh_: The Mueller Investigation Is a Deception Campaign, a Cover-Up
+*   _Chris Truax_: Mueller Needs to Subpoena Trump, Not Make a Deal
     
-*   _Michael Harriot_: This Is What They Meant By 'Great Again'
+*   _George Parry_: Did Nellie Ohr Avoid Surveillance With a Ham Radio?
     
-*   _Joel Pollak_: Who is Genuinely Interested in Overcoming Racism?
+*   _Chris Cillizza_: The Utter Collapse of Donald Trump's 'Best People' Boast
     
-*   _Jonah Goldberg_: A Steward of the Responsible Right
+*   _Liz Peek_: Media Giddy Over Trump-Hater Avenatti Possible WH Run
     
-*   _Michael Walsh_: Farewell to the 'Conservative Movement'
+*   _Josh Vorhees_: D Is for Defense
     
-*   _Benjamin Wallace-Wells_: The Fight for Purity in the Democratic Party
+*   _John Fund_: Nancy Pelosi Is Damaging Dems' Takeover Chances
     
-*   _Melvyn Leffler_: 'Europe First' and Why It Still Matters
+*   _Juan Williams_: The Real Danger of Trump's Media War
     
 
 *   Previous
@@ -228,10 +228,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   FBI Fires Peter Strzok, Months After Anti-Trump Texts Revealed
 *   Are Trump Voters 2018's Fizzled "Obama Coalition"?
+*   Kanye West on Kimmel: "Liberals Can't Bully Me" for Trump Support
 *   Democrats' Hopes to Take House Could Stumble in Minnesota
-*   York: The Link Between Christopher Steele and DOJ's Bruce Ohr
-*   Pence Outlines U.S. Space Force Plan for "Next Battlefield"
 *   Benefit--or Liability--of Trump Support Depends on Where
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -247,26 +247,27 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove52Disapprove +6
-*   Virginia Senate - Stewart vs. KaineVCU\*
-    *   Kaine49
-    *   Stewart26Kaine +23
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve45
-    *   Disapprove52Disapprove +7
-*   2018 Generic Congressional VoteReuters/Ipsos
-    *   Democrats41
-    *   Republicans39Democrats +2
+*   Maryland Governor - Hogan vs. JealousGonzales Research
+    *   Hogan52
+    *   Jealous36Hogan +16
+*   Minnesota Governor - Democratic PrimaryEmerson
+    *   Swanson29
+    *   Walz28
+    *   Murphy19Swanson +1
+*   Minnesota Governor - Republican PrimaryEmerson
+    *   Pawlenty43
+    *   Johnson34Pawlenty +9
+*   Minnesota Governor - Pawlenty vs. SwansonEmerson
+    *   Swanson44
+    *   Pawlenty36Swanson +8
 
 More Latest Polls In The News
 
-*   Lindsay Graham: These Investigations Against Trump Were Corrupt To The Core
-*   NYC Mayor Bill de Blasio: CNN Has No "Hourly Political Bias," Rupert Murdoch/FOX News Dividing America By Race
+*   Gowdy: Comey Must Not Have Felt Obstructed Because He Kept Working, Would Still Be FBI Director
+*   Pelosi to Dem Candidates: "Do Whatever You Have To Do, Just Win". NBC Undermining My Prospects As Speaker
+*   Lindsay Graham: These Investigations Against Trump Corrupt To The Core. Clinton Campaign Probe "Was A Joke"
 *   Rep. Tom Garrett: FBI Director Told Me Russians "Inter-Meddled" In Charlottesville To Stir Racial Tensions
 *   Kanye to Kimmel: "Liberals Can't Bully Me" For Trump Support, Blacks Supposed To Have Monolithic Thought
-*   Steve Schmidt: Donald Trump's Republican Party Must "Burn To The Ground" For There To Be New Growth
 
 *   Politics
 *   Policy
