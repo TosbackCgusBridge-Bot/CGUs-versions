@@ -1,5 +1,3 @@
-*   LAC0-117ARI1-024Final
-*   MIN1-042DEN0-128Final
 *   CAR1-028BUF0-123Final
 *   CHI0-227CIN1-030Final
 *   NO1-024JAX0-120Final
@@ -14,6 +12,8 @@
 *   IND1-019SEA0-117Final
 *   ATL0-10NYJ1-017Final
 *   DET0-110OAK1-016Final
+*   MIN1-042DEN0-128Final
+*   LAC0-117ARI1-024Final
 
 *   News
 *   Scores
@@ -32,8 +32,6 @@
 *   NFL Network
 *   Photos
 
-*   LAC17ARI24Final
-*   MIN42DEN28Final
 *   CAR28BUF23Final
 *   CHI27CIN30Final
 *   NO24JAX20Final
@@ -48,6 +46,8 @@
 *   IND19SEA17Final
 *   ATL0NYJ17Final
 *   DET10OAK16Final
+*   MIN42DEN28Final
+*   LAC17ARI24Final
 
 *   News
 *   Scores
