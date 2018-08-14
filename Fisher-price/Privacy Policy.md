@@ -1,5 +1,4 @@
-×Become a Very Important  
-Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu Go 0 Sign In / Register
+icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev iconicon-tag-close icon Toggle navigation Menu Go 0 Sign In / Register
 
 *   SHOP
     
@@ -47,13 +46,13 @@ Parent and Save 20%\* Become a Very Important Parent and Save 20%\* icon-arrow-d
     *   Jurassic World
     *   Disney
     *   Shimmer and Shine™
-    *   Blaze and the Monster Machines™
+    *   Sunny Day
     
-    *   Bob the Builder™
-    *   Dora &. Friends™
+    *   Blaze and the Monster Machines™
     *   Octonauts™
-    *   Alvin and the Chipmunks
-    *   Barney &. Friends
+    *   Grow-With-Me
+    *   Bob the Builder™
+    *   Sesame Street
     
     See all
     
@@ -211,11 +210,9 @@ CUSTOMER SERVICE
 *   Terms &. Conditions
 *   Terms of Sale
 *   Recalls
-*   Privacy Statement
+*   **NEW** Privacy Statement
 ADCHOICES*   Replacement parts
 *   Submit Product Ideas
-
-**\*Free shipping offer is valid on orders totaling $50 or more after discounts and before shipping, handling, and/or taxes are added, and applies automatically at checkout. Must select Standard Shipping to qualify. Excludes shipments to Alaska, Hawaii, Canada, Puerto Rico, international, PO box and APO/FPO addresses. Offer expires at 11:59 PM ET on 12/31/2018. We reserve the right to change or discontinue this offer at any time.**
 
 Home for Fisher-Price Toys &. More | Use of this site signifies your acceptance of the terms and conditions of use. ©2018 Mattel All Rights Reserved.
 
@@ -273,7 +270,7 @@ COUNTRY AustraliaBelgium (België)Brazil (Brasil)Bulgaria (България)Cana
 *   Careers
 
 *   Terms &. Conditions
-*   Privacy Statement
+*   NEW Privacy Statement
 
 out of
 
