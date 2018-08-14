@@ -152,7 +152,7 @@ WF-SP700N
 
 Designed to complement your surroundings – discover #Xperia XZ2 Compact in White Silver.
 
-6 days ago
+7 days ago
 
 View Tweet
 
@@ -356,6 +356,7 @@ News &. Info
 
 Other Sites
 
+*   Professional Products &. Solutions
 *   PlayStation
 *   Sony Pictures
 *   Sony Music
@@ -365,7 +366,7 @@ Other Sites
 
 United States
 
-For ProfessionalsCareersContact UsCompany InfoVoluntary Recall
+CareersContact UsCompany InfoVoluntary Recall
 
 *   Like us on Facebook
 
