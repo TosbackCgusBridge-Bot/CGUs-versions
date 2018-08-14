@@ -5,42 +5,45 @@ GET YOUR $6 REWARD 2X FASTER. 2 tickets = $6 reward for a limited time only. Det
 
 *   Movies Now Playing
     
+    *   The Meg
     *   Mission: Impossible - Fallout
     *   Christopher Robin
+    *   Slender Man
+    *   BlacKkKlansman
     *   The Spy Who Dumped Me
     *   Mamma Mia! Here We Go Again
     *   The Equalizer 2
     *   Hotel Transylvania 3: Summer Vacation
     *   Ant-Man and the Wasp (2018)
-    *   The Darkest Minds
     *   Incredibles 2
-    *   Teen Titans Go! To the Movies
-    *   Jurassic World: Fallen Kingdom
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   BlacKkKlansman
-    *   Dog Days (2018)
-    *   The Meg
-    *   Slender Man
-    *   Buybust
-    *   The Island (2018)
-    *   Madeline's Madeline
-    *   Skate Kitchen
+    *   Alpha
+    *   Crazy Rich Asians
+    *   Mile 22
+    *   Billionaire Boys Club (2018)
+    *   Blaze
+    *   Juliet, Naked
+    *   The Little Mermaid (2018)
+    *   Memoir of War
+    *   Minding the Gap
+    *   We the Animals
+    *   The Wife
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Crazy Rich Asians
-    *   Alpha
-    *   Mile 22
     *   A.X.L.
     *   The Happytime Murders
     *   Searching (2018)
     *   Kin (2018)
     *   Ya Veremos
     *   Operation Finale
+    *   God Bless the Broken Road
+    *   The Nun (2018)
+    *   Peppermint (2018)
     *   See All Coming Soon
     
     Explore More
@@ -68,9 +71,9 @@ GET YOUR $6 REWARD 2X FASTER. 2 tickets = $6 reward for a limited time only. Det
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Samuel L. Jackson and Cobie Smulders Join 'Spider-Man: Far From Home'. Here's Everything We Know Read More
-    *   Guy Pearce Joins Vin Diesel in Comic Book Movie 'Bloodshot'. Here's Everything We Know Read More
-    *   What to Expect From the Future of the Spider-Man Universe Read More
+    *   The Week in Movie News: The Future of DC Movies, the Latest on Spider-Man and His Spinoffs and More Read More
+    *   Next 3 Monster Movies: 'Overlord,' 'Fantastic Beasts 2,' 'Hellboy' Read More
+    *   First Look at Isabela Moner in 'Dora the Explorer'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -375,4 +378,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango advertisementadvertisementadvertisement
