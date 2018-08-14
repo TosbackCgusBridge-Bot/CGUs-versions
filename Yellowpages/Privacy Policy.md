@@ -12,7 +12,7 @@
 *   COMPANY
     *   AT&T Profile
     *   Leadership Team
-    *   Communications
+    *   AT&T Communications
         *   *   AT&T Communications Profile
             *   Leadership
             *   Consumer
@@ -53,8 +53,9 @@
     *   All News
     *   Brand Assets
     *   Contacts
-    *   Innovation Blog
-    *   Inside Connections Blog
+    *   Blogs
+        *   *   Innovation Blog
+            *   Inside Connections Blog
 *   More from AT&T
 *   X
 
