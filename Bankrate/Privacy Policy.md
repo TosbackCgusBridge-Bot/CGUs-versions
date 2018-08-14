@@ -41,37 +41,37 @@
 *   Credit Cards Credit Cards by Category
     
     *   Best Credit Cards of 2018
-    *   Rewards
-    *   Travel
-    *   Cash back
-    *   Balance transfer
-    *   0% interest
-    *   Low interest
-    *   Business
-    *   No annual fee
-    *   Student
+    *   Best Rewards Credit Cards
+    *   Best Travel Credit Cards
+    *   Best Cash Back Credit Cards
+    *   Best Balance Transfer Credit Cards
+    *   Best 0% APR Credit Cards
+    *   Best Low Interest Credit Cards
+    *   Best Business Credit Cards
+    *   Best Credit Cards with No Annual Fee
+    *   Best Student Credit Cards
     
     Credit Cards by Credit Needed
     
-    *   Excellent credit
-    *   Good credit
-    *   Fair credit
-    *   Bad credit
-    *   No credit
-    *   Secured cards
-    *   Prepaid and Debit
+    *   Best Credit Cards for Excellent Credit
+    *   Best Credit Cards for Good Credit
+    *   Best Credit Cards for Fair Credit
+    *   Best Credit Cards for Bad Credit
+    *   Best Credit Cards for No Credit
+    *   Best Secured Credit Cards
+    *   Best Prepaid and Debit Cards
     
     Credit Cards by Issuer
     
-    *   American Express
-    *   Bank of America
-    *   Capital One
-    *   Chase
-    *   Citi
-    *   Discover
-    *   Wells Fargo
-    *   Visa
-    *   MasterCard
+    *   Best American Express Credit Cards
+    *   Best Bank of America Credit Cards
+    *   Best Capital One Credit Cards
+    *   Best Chase Credit Cards
+    *   Best Citi Credit Cards
+    *   Best Discover Credit Cards
+    *   Best Wells Fargo Credit Cards
+    *   Best Visa Credit Cards
+    *   Best Mastercard Credit Cards
     
     Resources
     *   Credit card reviews
