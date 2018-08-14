@@ -1,4 +1,4 @@
-  Text Only BOOK &. REDEEM Close
+  Text Only Close**Coming soon:** a whole new experience on our site and app. We encourage you to manage your account and reservations before a planned disruption on August 18th. BOOK &. REDEEM Close
 
 *   Need to enter a destination for a destination search.
 *   Enter a state/province.
