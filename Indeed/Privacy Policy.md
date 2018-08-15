@@ -90,7 +90,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: Aug 8, 2018
+Last Updated: Aug 14, 2018
 
 **1\. Introduction**
 
@@ -119,6 +119,10 @@ Occasionally, we may refer to this Privacy Policy in notices on the Site, includ
 **1.4 Changes to the Privacy Policy**
 
 Please review the “Last Updated” legend at the top of this page to determine when this Privacy Policy was last amended. Any changes to this Privacy Policy will become effective on the “Last Updated” date indicated above. By using the Site or providing information to us following such changes, you will have accepted the amended Privacy Policy. If Indeed is going to use Personal Data collected through the Site in a manner materially different from that stated at the time of collection, then Indeed will notify users via email and/or by posting a notice on Indeed’s Site for 30 days prior to such use or by other means as required by law.
+
+**1.5 Indeed’s approach to privacy and the General Data Protection Regulation (GDPR).**
+
+Please note this Privacy Policy describes, in a comprehensive manner, how Indeed processes your data. For more information on Indeed’s approach to privacy and GDPR, click here.
 
 **2\. Information Collected**
 
@@ -1107,4 +1111,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1ckrf6tkaaftbbbu&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cku1hlmka4sqaql&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
