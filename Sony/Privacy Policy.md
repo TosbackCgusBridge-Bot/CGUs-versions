@@ -152,7 +152,7 @@ WF-SP700N
 
 Designed to complement your surroundings – discover #Xperia XZ2 Compact in White Silver.
 
-7 days ago
+8 days ago
 
 View Tweet
 
