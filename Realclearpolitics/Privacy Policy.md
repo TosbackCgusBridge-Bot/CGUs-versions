@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Susan Estrich_: Trump's Numbers Not as Bad as Some Believe
+*   _Bradsher & Myers_: Trump's Trade Fight Is Rattling China's Leaders
     
-*   _Robert Samuelson_: President Trump's No-Win Trade War
+*   _Anushay Hossain_: Trump Calling Omarosa a 'Dog' Is Sexist and Racist, Period
     
-*   _James Gagliano_: No Tears Shed Over Strzok's Firing
+*   _Jay Ambrose_: Why Trump Approval Is Rising Among Black Americans
     
-*   _Gromer Jeffers_: Can Dems Win in Texas? 2018 Is Best Shot Yet
+*   _Paul Krugman_: Who's Afraid of Nancy Pelosi?
     
-*   _Amy Sikma_: Dear Wisconsin: It's Time to Send in the Marine
+*   _Mollie Hemingway_: Devin Nunes vs. Dem Media Conspiracy Theories
     
-*   _Michael Arceneaux_: Sorry, Omarosa, Trump's Racism Is Not a Revelation
+*   _Matt Ford_: Is Roger Stone Next?
     
-*   _Dana Perino_: Omarosa's Book Will Be Forgotten, Her Awful Behavior Won't
+*   _Ed Rogers_: Sessions' Commitment to the Rule of Law Is Helping Trump
     
-*   _Randall King_: Make the American News Media Great Again
+*   _Steve Cortes_: Laura Ingraham, American Nationalism Isn't About Demography
     
-*   _Ed Morrissey_: This Is Journalism? Pro Publica's Silly Kavanaugh Search
+*   _Tara Golshan_: The Race to Unseat Walker in Wisconsin, Dems' White Whale
     
-*   _Liam Denning_: Elon Musk Hands Tesla's Wheel to Saudi Arabia
+*   _Joe Scarborough_: Republicans Must Put Country Ahead of Party
     
-*   _Matthew Betley_: The NFL Doesn't Actually Care About You, or Your Service
+*   _Kurt Schlichter_: They Are Not Never Trump--They Are Never You
     
-*   _Nick Wadhams_: Trump's Tariffs and Sanctions a Risky Strategy
+*   _Victor Davis Hanson_: The Legacies of Mueller's Investigations
     
-*   _Tim Morris_: Democrats Used to Be for Middle Class. Not Anymore
+*   _Bradley Moss_: Trump's Purge of the FBI Is Complete
     
-*   _Gabriel Debenedetti_: Ayanna Pressley Wants to Shake the Dems Again
+*   _Roger Simon_: Feinstein, Strzok and the Sinister Russia Probe
     
-*   _David Catron_: Is Ocasio-Cortez Afraid of Candace Owens?
+*   _Chris Cillizza_: Strzok's Firing Changes Russia Probe Less Than You Think
     
-*   _Larry Elliott_: Turkey's Crisis May Widen, Its Options Are Running Out
+*   _Liz Peek_: Why Obama's Economy Was Stuck and Trump's Is Booming
     
-*   _Lee Smith_: 2016 Trump Tower Meeting Increasingly Looks Like a Setup
+*   _Robert Kuttner_: The Economy Won't Help Republicans in the Midterms
     
-*   _Chris Truax_: Mueller Needs to Subpoena Trump, Not Make a Deal
+*   _Sen Roy Blunt_: Short-Term Health Plans Will Benefit Millions of Americans
     
-*   _George Parry_: Did Nellie Ohr Avoid Surveillance With a Ham Radio?
+*   _Bagley &. Gluck_: Trump's Sabotage of Obamacare Is Illegal
     
-*   _Chris Cillizza_: The Utter Collapse of Donald Trump's 'Best People' Boast
+*   _Rupert Darwall_: How Trump Crushed the Climate Change Hysterics
     
-*   _Liz Peek_: Media Giddy Over Trump-Hater Avenatti Possible WH Run
+*   _Eugene Robinson_: Trump and Omarosa Deserve Each Other
     
-*   _Josh Vorhees_: D Is for Defense
+*   _Thomas Lipscomb_: Omarosa, Fake News and News Fraud
     
-*   _John Fund_: Nancy Pelosi Is Damaging Dems' Takeover Chances
+*   _Albert Hunt_: Six U.S. Senate Races That Are Crucial in 2018
     
-*   _Juan Williams_: The Real Danger of Trump's Media War
+*   _Julie Kelly_: WI Race Shows Weakness of Old-Style Republican Politics
     
 
 *   Previous
@@ -228,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Lashes Out at Omarosa, Calls Her "That Dog"
 *   FBI Fires Peter Strzok, Months After Anti-Trump Texts Revealed
+*   Giuliani: Brennan Is Puppet Master, Should Be in Front of Grand Jury
 *   Are Trump Voters 2018's Fizzled "Obama Coalition"?
-*   Kanye West on Kimmel: "Liberals Can't Bully Me" for Trump Support
 *   Democrats' Hopes to Take House Could Stumble in Minnesota
-*   Benefit--or Liability--of Trump Support Depends on Where
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,26 +245,25 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Tennessee Senate - Blackburn vs. BredesenGravis
+    *   Bredesen44
+    *   Blackburn48Blackburn +4
+*   Tennessee Governor - Lee vs. DeanGravis
+    *   Lee51
+    *   Dean40Lee +11
 *   Maryland Governor - Hogan vs. JealousGonzales Research
     *   Hogan52
     *   Jealous36Hogan +16
-*   Minnesota Governor - Democratic PrimaryEmerson
-    *   Swanson29
-    *   Walz28
-    *   Murphy19Swanson +1
-*   Minnesota Governor - Republican PrimaryEmerson
-    *   Pawlenty43
-    *   Johnson34Pawlenty +9
-*   Minnesota Governor - Pawlenty vs. SwansonEmerson
-    *   Swanson44
-    *   Pawlenty36Swanson +8
+*   New Jersey 3rd District - MacArthur vs. KimMonmouth
+    *   Kim45
+    *   MacArthur44Kim +1
 
 More Latest Polls In The News
 
+*   CNN's Chris Cuomo Defends Antifa: Attacks On Police, Journalists "Not Equal" To Fighting Bigots
 *   Gowdy: Comey Must Not Have Felt Obstructed Because He Kept Working, Would Still Be FBI Director
 *   Pelosi to Dem Candidates: "Do Whatever You Have To Do, Just Win". NBC Undermining My Prospects As Speaker
 *   Lindsay Graham: These Investigations Against Trump Corrupt To The Core. Clinton Campaign Probe "Was A Joke"
-*   Rep. Tom Garrett: FBI Director Told Me Russians "Inter-Meddled" In Charlottesville To Stir Racial Tensions
 *   Kanye to Kimmel: "Liberals Can't Bully Me" For Trump Support, Blacks Supposed To Have Monolithic Thought
 
 *   Politics
