@@ -13,11 +13,10 @@ Skip to main content Online Trust Alliance
     _▼_
 *   Initiatives
     
-    *   Brand Protection
     *   Cyber Incident &. Breach Readiness
+    *   Online Trust Audit &. Honor Roll
     *   Email Marketing &. Security
     *   Internet of Things
-    *   Online Trust Audit &. Honor Roll
     *   Privacy
     *   Public Policy
     
@@ -114,11 +113,10 @@ More >>. Resources
 
 Initiatives
 
-*   Brand Protection
 *   Cyber Incident &. Breach Readiness
+*   Online Trust Audit &. Honor Roll
 *   Email Marketing &. Security
 *   Internet of Things
-*   Online Trust Audit &. Honor Roll
 *   Privacy
 *   Public Policy
 
