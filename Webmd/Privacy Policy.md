@@ -107,11 +107,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   New Drug Approved for Endometriosis Pain
-    *   USDA Warning: Parasite Could Be in Salads and Wraps
-    *   Caffeine May Not Help Your Diet
-    *   What You Eat Helps Manage Psoriasis
-    *   Many With Dementia Don’t Know They Have It
+    *   Mayo, Cleveland Clinics Again Top Hospital Rankings
+    *   Heart Drug Recall Expands
+    *   EPA Must Ban Sale of Pesticide
+    *   Exercise Good for Mental Health, but Don't Overdo It
+    *   Frequent Skin Cancers May Be a Sign of Other Cancers
     
     Experts &. Community
     
@@ -168,7 +168,7 @@ Customer Care
 
 *   About WebMD
 
-WebMD Privacy Policy Share on FacebookShare on TwitterShare on PinterestSaveEmailPrint
+WebMD Privacy Policy
 
 WebMD understands how important the privacy of personal information is to our users. This Privacy Policy will tell you what information we collect about you and about your use of WebMD and its services. It will explain the choices you have about how your personal information is used and how we protect that information. We urge you to read this Privacy Policy carefully.
 
@@ -376,7 +376,7 @@ To view our certification status click here.
 
 WebMD.com, MedicineNet.com, eMedicineHealth.com, and RxList.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-WebMD Policy Last updated on May 23, 2018 © 2018 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
+Last updated on May 23, 2018 © 2018 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
 
 Some of these might surprise you.
 
