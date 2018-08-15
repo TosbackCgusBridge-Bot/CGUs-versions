@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 My week on Twitter : 5 Mentions, 1.25K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/W2bV…
 
-About 6 days ago
+Last week
 
 Check out these steps toward promoting a safer browsing experience for web users via Intermarkets blog! twitter.com/Jambrose…
 
