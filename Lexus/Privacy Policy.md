@@ -102,7 +102,7 @@ COMPARE **NX**
 **RX HYBRID**
 
 *   Starting at $45,8953\*
-*   30-MPG COMBINED RATING2\*
+*   30-MPG COMBINED RATING7\*
 
 *   Build
 *   Current Offers
@@ -117,7 +117,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $85,6307\*
+*   Starting at $85,8308\*
 *   383-HP4\* V8, FULL-TIME 4WD
 
 *   Build
@@ -170,7 +170,7 @@ COMPARE **NX HYBRID**
 **RX HYBRID**
 
 *   Starting at $45,8953\*
-*   30-MPG COMBINED RATING2\*
+*   30-MPG COMBINED RATING7\*
 
 *   Build
 *   Current Offers
@@ -359,7 +359,9 @@ click here Important Info Important Info
 
 \[6\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
 
-\[7\] MSRP does not include delivery, processing and handling fee of $1,295. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
+\[7\] Preliminary mileage estimates determined by Lexus. EPA mileage estimates not available at time of posting. Actual mileage will vary.
+
+\[8\] MSRP does not include delivery, processing and handling fee of $1,295. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
 Leasing &. Finance
 
