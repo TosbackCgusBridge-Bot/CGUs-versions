@@ -60,21 +60,27 @@ Send Money Now
 
 \*Funds go quickly into their PayPal account. If they don't have one, they can sign up for free.
 
-Make your money go further with PayPal. Know your payments are secure
+You might be surprised with how many online stores accept PayPal. Shop 19 million online stores and counting. Shop your favorite brands.
 
-Whether you’re buying or selling, get the security you expect plus purchase or seller protection on all eligible transactions.
+PayPal is accepted where you shop – on over 75% of online merchants, from big brands to boutique sites.
 
-Accepted by millions of brands
+Who shops the world? You.
 
-Use PayPal at businesses, big and small, in 200+ countries around the world. Pay securely online, in apps, and in stores.
+With PayPal, you can shop online stores in 200+ markets around the world so it's all right at your fingertips.
 
-More payment choices
+Buy with confidence.
 
-With PayPal, use your favorite banks and cards and still earn card rewards. And get access to flexible payment options like PayPal Credit.
+There's a reason why over 200 million people trust PayPal: it's easy and secure with benefits like Return Shipping on Us\* and Purchase Protection.\*\*
+
+Shop now with PayPal at your favorite stores.
 
 Make the most of your money.
 
 Sign Up for Free
+
+\*Exclusions apply. This is an exclusive offer offered to eligible PayPal account owners. With this service you are eligible to receive up to 12 refunds per calendar year (between January 1st and December 31st), and may receive refunds of up to $30 USD per claim. PayPal reserves the right to cancel or modify part of or this entire Offer at any time without notice, for any reason in their sole discretion. See full terms and conditions.  
+  
+\*\*See more about Purchase Protection terms and limitations.
 
 *   Help &. Contact
 *   Fees
@@ -99,4 +105,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=909a1c32c885&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&csci=4c2b65e981a1482f976889d6aa9c5b84&comp=mppnodeweb&tsrce=mppnodeweb&xe=3945&xt=9426&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=1ce124fa77c3f&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&csci=fb2107b605a5424ab0e822a8f5c5a590&comp=mppnodeweb&tsrce=mppnodeweb&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
