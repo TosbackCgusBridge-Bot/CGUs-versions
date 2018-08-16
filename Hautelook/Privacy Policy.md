@@ -8,18 +8,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Bony Levy Fine Jewelry Up to 50% Off
     *   The North Face
+    *   Thale Blanc Up to 85% Off
+    *   Taylor &. Gabby Skye Dresses
+    *   Sperry Starting at $30
+    *   Sperry Kids
     *   The North Face Kids
-    *   The North Face Men
-    *   Up to 75% Off: Cashmere ft. Minnie Rose
-    *   Feminine Flair: Chic Day-to-Night Dresses
+    *   Back to School: Denim Under $40
+    *   Trend Alert: High-Waisted Denim
+    *   Fall Washes: Dark Denim &. More
+    *   New Arrivals: Genetic Denim Starting at $40
+    *   Denim Jackets Starting at $30
+    *   Men's Denim Shop
+    *   Sperry Men
+    *   Cashmere Shop Up to 75% Off ft. Inhabit
+    *   T3 Hair Tools
+    *   SEN Up to 70% Off
+    *   Marilyn Monroe Swim Up to 60% Off
+    *   Skechers Under $50
+    *   Honey Belle
+    *   Free Press &. Shimera
+    *   Suzy Levian Jewelry
+    *   Maxi to Mini: On-Trend Skirts
+    *   Psycho Bunny
+    *   TCSS
+    *   Travel Essentials ft. Flight 001
+    *   Sophie Catalou
+    *   A Day at the Zoo: Kids' Styles Starting at $8
+    *   Free Shipping: Original Paintings &. Unique Works
+    
+    *   Charging, Bluetooth &. Phone Accessories from $10
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Estee Lauder
     *   Le Creuset
     *   Free Shipping: California Design Den by NMK Bedding
     *   Free Shipping: Fashion-Forward Wall Art &. More
     *   Free Shipping: Statement Rugs Up to 70% Off
+    *   The North Face Men
     *   Melissa Starting at $30
+    *   Feminine Flair: Chic Day-to-Night Dresses
     *   Antelope Up To 50% Off
     *   DAFNI Ceramic Hot Brush
+    *   Up to 75% Off: Cashmere ft. Minnie Rose
     *   Emory Park
     *   Beauty Heroes: Serums, Oils &. More from $10
     *   New Outdoor &. Hiking Shoes from $30
@@ -35,18 +66,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   TOMS Kids Starting at $20
     *   TOMS Men Starting at $30
     *   TOMS Sunglasses Up to 70% Off
-    *   Romeo &. Juliet Couture Up to 80% Off
-    
-    *   On-Trend: Belt Bags
-    *   Ramy Brook Up to 70% Off
-    *   Fall Forward: Dress Shop
-    *   Musse &. Cloud and Coolway
     *   Dog &. Cat Print Cosmetic Bags from $10
-    *   Dolce Cabo
-    *   James Jeans
-    *   Street Chic: Active Up to 70% Off
-    *   PJ Couture Sleep &. More
-    *   Trending Now: Cute Oxfords &. Loafers
+    
     *   Exclusively Ours: Suits, Sport Coats &. More
     *   Tailored Recreation Under $15
     *   Office Essentials: Dress Shirts, Ties &. More
@@ -56,51 +77,55 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kids' Premium Denim Shop ft. Hudson Jeans
     *   Better in Pairs: Kids' Sets Starting at $12
     *   Hit Snooze: Kids' PJs Starting at $10
-    *   Vertigo Up to 85% Off
-    *   Jewelry Box Essentials Up to 80% Off
-    *   Summer Shoe Blowout
-    *   Just Add Water: Swim &. Cover-Ups Up to 80% Off
-    *   Final Few: Summer Styles Up to 80% Off
-    *   Samuel B Jewelry Starting at $20
     *   Brush Bar Up to 80% Off
-    *   Vintage Addiction Up to 80% Off
     *   Men's Shoes Up to 65% Off
-    
     *   Free Shipping: Luxe Towel Sets Up to 75% Off
     *   Predire Paris Luxury Skin Care
-    *   Statement Jewelry Under $35
     *   Robert Graham
     *   Luxe Dress Shoes ft. Bruno Magli
     *   Oakley Under $40
     *   Lorenzo Uomo Under $40
     *   Global Style: One-of-a-Kind Kantha Blankets
-    *   Funkyberry
-    *   Petit Lem &. More Starting at $7
-    *   14K Gold Jewelry &. More Starting at $20
     *   Sleek Strands: BaBylissPRO Hair Tools
-    *   Sovereign Code
-    *   Cult of Individuality
-    *   Designer Swim
-    *   Free Shipping: Modern Bedding &. More from $20
-    *   Homeward Bound: Pet Travel Accessories &. More
-    *   Dynamic Innovation Labs Skin Care from $10
-    *   Free Shipping: Wall Art Refresh
-    *   School Pride: Collegiate Picnic Essentials
+    *   Romeo &. Juliet Couture Up to 80% Off
+    *   Fall Forward: Dress Shop
+    *   James Jeans
+    *   Vertigo Up to 85% Off
     *   Sleek Statements: Modern Mirrors, Lamps &. More
     *   Make It Modern: Sleek Lighting Starting at $40
-    *   Free Shipping: BergHOFF
-    *   Free Shipping: Bright Boho-Chic Pillows &. More
-    *   Free Shipping: Textured Bedding &. More from $20
-    *   Swims Up to 65% Off
-    *   Bailey 44
+    *   Free Shipping: Modern Bedding &. More from $20
+    *   Homeward Bound: Pet Travel Accessories &. More
+    *   Free Shipping: Wall Art Refresh
+    *   School Pride: Collegiate Picnic Essentials
 *   WomenShop Sale Events
     
+    *   Bony Levy Fine Jewelry Up to 50% Off
     *   The North Face
-    *   Up to 75% Off: Cashmere ft. Minnie Rose
-    *   Feminine Flair: Chic Day-to-Night Dresses
+    *   Thale Blanc Up to 85% Off
+    *   Taylor &. Gabby Skye Dresses
+    *   Sperry Starting at $30
+    *   Back to School: Denim Under $40
+    *   Trend Alert: High-Waisted Denim
+    *   Fall Washes: Dark Denim &. More
+    *   New Arrivals: Genetic Denim Starting at $40
+    *   Denim Jackets Starting at $30
+    *   Cashmere Shop Up to 75% Off ft. Inhabit
+    *   T3 Hair Tools
+    *   SEN Up to 70% Off
+    *   Marilyn Monroe Swim Up to 60% Off
+    *   Skechers Under $50
+    *   Honey Belle
+    *   Free Press &. Shimera
+    *   Suzy Levian Jewelry
+    *   Maxi to Mini: On-Trend Skirts
+    *   Travel Essentials ft. Flight 001
+    *   Estee Lauder
     *   Melissa Starting at $30
+    
+    *   Feminine Flair: Chic Day-to-Night Dresses
     *   Antelope Up To 50% Off
     *   DAFNI Ceramic Hot Brush
+    *   Up to 75% Off: Cashmere ft. Minnie Rose
     *   Emory Park
     *   Beauty Heroes: Serums, Oils &. More from $10
     *   New Outdoor &. Hiking Shoes from $30
@@ -110,66 +135,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Gerry Backpacks for the Outdoors
     *   TOMS Starting at $35
     *   TOMS Sunglasses Up to 70% Off
-    *   Romeo &. Juliet Couture Up to 80% Off
-    *   On-Trend: Belt Bags
-    *   Ramy Brook Up to 70% Off
-    *   Fall Forward: Dress Shop
-    *   Musse &. Cloud and Coolway
     *   Dog &. Cat Print Cosmetic Bags from $10
-    
-    *   Dolce Cabo
-    *   James Jeans
-    *   Street Chic: Active Up to 70% Off
-    *   PJ Couture Sleep &. More
-    *   Trending Now: Cute Oxfords &. Loafers
     *   Detox Organics: Chocolate Superfoods
-    *   Vertigo Up to 85% Off
-    *   Jewelry Box Essentials Up to 80% Off
-    *   Summer Shoe Blowout
-    *   Just Add Water: Swim &. Cover-Ups Up to 80% Off
-    *   Final Few: Summer Styles Up to 80% Off
-    *   Samuel B Jewelry Starting at $20
     *   Brush Bar Up to 80% Off
-    *   Vintage Addiction Up to 80% Off
     *   Predire Paris Luxury Skin Care
-    *   Statement Jewelry Under $35
-    *   14K Gold Jewelry &. More Starting at $20
     *   Sleek Strands: BaBylissPRO Hair Tools
-    *   Dynamic Innovation Labs Skin Care from $10
-    *   Bailey 44
+    *   Romeo &. Juliet Couture Up to 80% Off
+    *   Fall Forward: Dress Shop
+    *   James Jeans
+    *   Vertigo Up to 85% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
-    *   Accessories
     *   Lingerie
+    *   Tech Accessories
+    *   Accessories
+    *   Handbags
     *   Watches
 *   MenShop Sale Events
     
+    *   Men's Denim Shop
+    *   Sperry Men
+    *   Psycho Bunny
+    *   TCSS
+    *   Travel Essentials ft. Flight 001
     *   The North Face Men
     *   Men's Outdoor &. Hiking Shoes from $20
     *   Skagen Watches
     *   Sweat in Style: Performance Sun from $30
     *   Dockers
     *   Gerry Backpacks for the Outdoors
+    
     *   TOMS Men Starting at $30
     *   TOMS Sunglasses Up to 70% Off
     *   Exclusively Ours: Suits, Sport Coats &. More
     *   Tailored Recreation Under $15
     *   Office Essentials: Dress Shirts, Ties &. More
-    
     *   Detox Organics: Chocolate Superfoods
     *   Men's Shoes Up to 65% Off
     *   Robert Graham
     *   Luxe Dress Shoes ft. Bruno Magli
     *   Oakley Under $40
     *   Lorenzo Uomo Under $40
-    *   Sovereign Code
-    *   Cult of Individuality
-    *   Designer Swim
-    *   Swims Up to 65% Off
     
     Shop By Category
     *   Clothing
@@ -178,59 +187,61 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Sperry Kids
     *   The North Face Kids
+    *   Sophie Catalou
+    *   A Day at the Zoo: Kids' Styles Starting at $8
     *   Kids' Outdoor Shoes ft. Blundstone &. More
     *   TOMS Kids Starting at $20
     *   Kids' Premium Denim Shop ft. Hudson Jeans
     *   Better in Pairs: Kids' Sets Starting at $12
     *   Hit Snooze: Kids' PJs Starting at $10
-    *   Funkyberry
-    *   Petit Lem &. More Starting at $7
     
     Shop By Category
     *   Girls Sizes 2T-6X
+    *   Girls' Shoes
     *   Girls Sizes 7-16
     *   Baby Girl
     *   Boys Sizes 2T-7
-    *   Girls' Shoes
     *   Boys Sizes 8-20
     *   Boys' Shoes
     *   Baby Boy
-    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Original Paintings &. Unique Works
+    *   Charging, Bluetooth &. Phone Accessories from $10
+    *   Free Shipping: Down &. Memory Foam Essentials
     *   Le Creuset
     *   Free Shipping: California Design Den by NMK Bedding
     *   Free Shipping: Fashion-Forward Wall Art &. More
     *   Free Shipping: Statement Rugs Up to 70% Off
     *   Versatile Tabletop Organizers &. More from $10
     *   Free Shipping: On-Trend Copper Barware &. More
+    
     *   Free Shipping: Luxe Towel Sets Up to 75% Off
     *   Global Style: One-of-a-Kind Kantha Blankets
+    *   Sleek Statements: Modern Mirrors, Lamps &. More
+    *   Make It Modern: Sleek Lighting Starting at $40
     *   Free Shipping: Modern Bedding &. More from $20
-    
     *   Homeward Bound: Pet Travel Accessories &. More
     *   Free Shipping: Wall Art Refresh
     *   School Pride: Collegiate Picnic Essentials
-    *   Sleek Statements: Modern Mirrors, Lamps &. More
-    *   Make It Modern: Sleek Lighting Starting at $40
-    *   Free Shipping: BergHOFF
-    *   Free Shipping: Bright Boho-Chic Pillows &. More
-    *   Free Shipping: Textured Bedding &. More from $20
     
     Shop By Category
-    *   Kitchen &. Tabletop
-    *   Bedding
     *   Home Decor
+    *   Bedding
+    *   Kitchen &. Tabletop
     *   Outdoor Living
     *   Pet Accessories
     *   Rugs
     *   Accent Furniture
     *   Bath
-    *   Storage &. Cleaning
     *   Luggage &. Travel
+    *   Storage &. Cleaning
 *   BeautyShop Sale Events
     
+    *   T3 Hair Tools
+    *   Estee Lauder
     *   DAFNI Ceramic Hot Brush
     *   Beauty Heroes: Serums, Oils &. More from $10
     *   Dog &. Cat Print Cosmetic Bags from $10
@@ -238,11 +249,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Brush Bar Up to 80% Off
     *   Predire Paris Luxury Skin Care
     *   Sleek Strands: BaBylissPRO Hair Tools
-    *   Dynamic Innovation Labs Skin Care from $10
     
     Shop By Category
-    *   Skin Care
     *   Tools &. Accessories
+    *   Skin Care
     *   Beauty Accessories
     *   Bath &. Body
     *   Makeup
