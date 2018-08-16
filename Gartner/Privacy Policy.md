@@ -3,11 +3,9 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Call +1 855-639-9426 or contact us
+Call +1 855-833-7887 or contact us
 
 to become a Gartner client.
-
-Toggle navigation
 
 *   Who we serve (current)
     
@@ -249,12 +247,12 @@ Toggle navigation
     
     Become a Client General Contacts Worldwide Offices Media Relations Privacy Officers Technical Support
     
-*   Call +1 855-639-9426 or contact us
+*   Call +1 855-833-7887 or contact us
     
     to become a Gartner client.
     
 
-Become a Client Log in Become a client GARTNER PRIVACY POLICY Effective Date: August 2018  
+Become a Client Log in Become a Client GARTNER PRIVACY POLICY Effective Date: August 2018  
 
 Gartner and its affiliates are committed to protecting your information. Please read this Privacy Notice ("**the Notice**") carefully as it sets out important information relating to how we handle your personal information.
 
