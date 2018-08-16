@@ -31,7 +31,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   HSBC’s archives
         *   Online gallery last item in this group
     
-    *   Leadership A guide to who’s who on our board and senior management team.
+    *   Our strategy How HSBC’s international network is key to its long-term success.
 *   Our approach Skip to Investor relations navigation
     
     *   Our values
@@ -59,7 +59,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Working with suppliers
         *   Modern Slavery Act last item in this group
     
-    *   Diversity and inclusion We want a workforce that reflects the communities where we operate.
+    *   Measuring our impact Our performance on environmental, social and governance issues.
 *   Investor relations Skip to News and insight navigation
     
     *   Group results and reporting
@@ -120,7 +120,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Rugby
         *   Other sponsorships last item in this group
     
-    *   China goes international More Chinese people than ever are enjoying life overseas.
+    *   Money’s digital future Trust is at the heart of successful monetary systems, says Darryl West.
 *   Careers Skip navigation
     
     *   Key hiring areas
@@ -152,8 +152,8 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Frequently asked questions
         
     
-    *   Why HSBC? Whatever your career stage, we offer many ways to realise your ambitions.
-    *   Explore our business Find opportunities which match your skills across our extensive network.
+    *   Graduate opportunities Build your career for the long term as part of a global team.
+    *   Application hints and tips Find out more about our recruitment process.
 
 Online bankingOnline banking
 
