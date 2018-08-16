@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Bradsher & Myers_: Trump's Trade Fight Is Rattling China's Leaders
+*   _Matthew Yglesias_: Elizabeth Warren Has a Plan to Save Capitalism
     
-*   _Anushay Hossain_: Trump Calling Omarosa a 'Dog' Is Sexist and Racist, Period
+*   _Michael Graham_: Tip for Dems: Massachusetts Liberal Not the Answer
     
-*   _Jay Ambrose_: Why Trump Approval Is Rising Among Black Americans
+*   _Dick Polman_: GOP Candidates Can't Keep Trump Out of Their Districts
     
-*   _Paul Krugman_: Who's Afraid of Nancy Pelosi?
+*   _Paul Mulshine_: Blue Wave or Red Ripple in 2018?
     
-*   _Mollie Hemingway_: Devin Nunes vs. Dem Media Conspiracy Theories
+*   _Margot Cleveland_: Bruce Ohr's Emerging Pivotal Role in Spygate
     
-*   _Matt Ford_: Is Roger Stone Next?
+*   _Karen Tumulty_: Trump Is Plenty Racist Without the N-Word
     
-*   _Ed Rogers_: Sessions' Commitment to the Rule of Law Is Helping Trump
+*   _Eddie Scarry_: No Sympathy for a Lying Press
     
-*   _Steve Cortes_: Laura Ingraham, American Nationalism Isn't About Demography
+*   _Susanne Koelbl_: The Courage of Afghan Pop Star Aryana Sayeed
     
-*   _Tara Golshan_: The Race to Unseat Walker in Wisconsin, Dems' White Whale
+*   _Michael Brendan Dougherty_: The Catholic Church's Rotherham
     
-*   _Joe Scarborough_: Republicans Must Put Country Ahead of Party
+*   _Strayed &. Almond_: How Can I Cure My Massive White Guilt?
     
-*   _Kurt Schlichter_: They Are Not Never Trump--They Are Never You
+*   _Tyler O'Neil_: The Left Is After Christian Baker Jack Phillips - Again
     
-*   _Victor Davis Hanson_: The Legacies of Mueller's Investigations
+*   _Vice President Mike Pence_: The Evidence Is Clear: America Is Back
     
-*   _Bradley Moss_: Trump's Purge of the FBI Is Complete
+*   _Alissa Quart_: Economic Anxiety Could Reshape America for the Better
     
-*   _Roger Simon_: Feinstein, Strzok and the Sinister Russia Probe
+*   _Michael Goodwin_: NYC's Booming Economy Bad News for Far Left
     
-*   _Chris Cillizza_: Strzok's Firing Changes Russia Probe Less Than You Think
+*   _Frank Bruni_: The Revenge of the Lesser Trumps
     
-*   _Liz Peek_: Why Obama's Economy Was Stuck and Trump's Is Booming
+*   _Joseph Curl_: Ocasio-Cortez Is Crashing and Burning Fast
     
-*   _Robert Kuttner_: The Economy Won't Help Republicans in the Midterms
+*   _Renee Graham_: Senator Warren Is Right - Our Justice System Is Racist
     
-*   _Sen Roy Blunt_: Short-Term Health Plans Will Benefit Millions of Americans
+*   _Scott Johnson_: Keith Ellison's Troubling Support of Cop Killers
     
-*   _Bagley &. Gluck_: Trump's Sabotage of Obamacare Is Illegal
+*   _Sally Persons_: Trump Twitter Support Is a Boon in GOP Primaries
     
-*   _Rupert Darwall_: How Trump Crushed the Climate Change Hysterics
+*   _Brian Dickerson_: Will Trump's Support Doom MI Republicans in Nov?
     
-*   _Eugene Robinson_: Trump and Omarosa Deserve Each Other
+*   _Joe Garofoli_: GOP to Weaponize Pelosi in California House Races
     
-*   _Thomas Lipscomb_: Omarosa, Fake News and News Fraud
+*   _Shan Wu_: What to Expect in Manafort Trial Closing Arguments
     
-*   _Albert Hunt_: Six U.S. Senate Races That Are Crucial in 2018
+*   _Matthew Walther_: Omarosa's 'Unhinged' an Unconvincing Mess of a Book
     
-*   _Julie Kelly_: WI Race Shows Weakness of Old-Style Republican Politics
+*   _Susan Glasser_: Dog Days: Trump &. His Toxic Twitter Insults of Omarosa
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Twitter Support Is a Boon in Republican Primaries
+*   Jeff Johnson Upsets Former Gov. Pawlenty in Minnesota Primary
+*   Giuliani: Brennan Is Puppet Master, Should Be in Front of Grand Jury
 *   Trump Lashes Out at Omarosa, Calls Her "That Dog"
 *   FBI Fires Peter Strzok, Months After Anti-Trump Texts Revealed
-*   Giuliani: Brennan Is Puppet Master, Should Be in Front of Grand Jury
-*   Are Trump Voters 2018's Fizzled "Obama Coalition"?
-*   Democrats' Hopes to Take House Could Stumble in Minnesota
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,30 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Tennessee Senate - Blackburn vs. BredesenGravis
-    *   Bredesen44
-    *   Blackburn48Blackburn +4
-*   Tennessee Governor - Lee vs. DeanGravis
-    *   Lee51
-    *   Dean40Lee +11
-*   Maryland Governor - Hogan vs. JealousGonzales Research
-    *   Hogan52
-    *   Jealous36Hogan +16
-*   New Jersey 3rd District - MacArthur vs. KimMonmouth
-    *   Kim45
-    *   MacArthur44Kim +1
+*   Indiana Senate - Braun vs. DonnellyTrafalgar Group (R)
+    *   Donnelly51
+    *   Braun39Donnelly +12
+*   Wyoming Governor - Republican PrimaryTrafalgar Group (R)
+    *   Friess21
+    *   Gordon20
+    *   Hageman16
+    *   Galeotos10
+    *   Haynes6
+    *   Dahlin2Friess +1
+*   President Trump Job ApprovalCNN
+    *   Approve44
+    *   Disapprove53Disapprove +9
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve49
+    *   Disapprove49Tie
 
 More Latest Polls In The News
 
+*   Hayden: Sarah Sanders Used "Threatening Tone" In Brennan Announcement, Warning Us To Be Quiet
+*   Bill Binney: Intel Agencies Have Become American "Praetorian Guard," Lie To Public, President, Each Other
+*   Piers Morgan: Omarosa Is A Ridiculous, Absurd, Fake Person And Everyone Should Stop Talking About Her
 *   CNN's Chris Cuomo Defends Antifa: Attacks On Police, Journalists "Not Equal" To Fighting Bigots
 *   Gowdy: Comey Must Not Have Felt Obstructed Because He Kept Working, Would Still Be FBI Director
-*   Pelosi to Dem Candidates: "Do Whatever You Have To Do, Just Win". NBC Undermining My Prospects As Speaker
-*   Lindsay Graham: These Investigations Against Trump Corrupt To The Core. Clinton Campaign Probe "Was A Joke"
-*   Kanye to Kimmel: "Liberals Can't Bully Me" For Trump Support, Blacks Supposed To Have Monolithic Thought
 
 *   Politics
 *   Policy
