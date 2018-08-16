@@ -66,8 +66,8 @@
     17/21 est MPG3 Build Specials
 *   $54,540 as shown1 2018 Sequoia $48,600 starting1  
     13/17 est MPG3 Build Specials
-*   $84,565 as shown1 2018 Land Cruiser $84,565 starting1  
-    13/18 est MPG5 Build Specials
+*   $84,765 as shown1 2019 Land Cruiser $84,765 starting1  
+    13/18 est MPG19 Build Specials
 
 *   $32,400 as shown1 2018 Camry Hybrid $27,950 starting1  
     51/53 est MPG3 Build Specials
@@ -135,8 +135,8 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris $15,635 starting1
 21/27 est MPG3 $48,480 as shown1 2018 Highlander Hybrid $36,870 starting1  
 30/28 est MPG3 $39,895 as shown1 2018 4Runner $34,810 starting1  
 17/21 est MPG3 $54,540 as shown1 2018 Sequoia $48,600 starting1  
-13/17 est MPG3 $84,565 as shown1 2018 Land Cruiser $84,565 starting1  
-13/18 est MPG5 Hybrids &. FCV $32,400 as shown1 2018 Camry Hybrid $27,950 starting1  
+13/17 est MPG3 $84,765 as shown1 2019 Land Cruiser $84,765 starting1  
+13/18 est MPG19 Hybrids &. FCV $32,400 as shown1 2018 Camry Hybrid $27,950 starting1  
 51/53 est MPG3 $42,800 as shown1 2019 Avalon Hybrid $36,500 starting1  
 43/44 est MPG19 $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
 34/30 est MPG3 $48,480 as shown1 2018 Highlander Hybrid $36,870 starting1  
