@@ -71,7 +71,7 @@ GET YOUR $6 REWARD 2X FASTER. 2 tickets = $6 reward for a limited time only. Det
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: The Future of DC Movies, the Latest on Spider-Man and His Spinoffs and More Read More
+    *   When and Where to Find this Fall's Big Awards Contenders Read More
     *   Next 3 Monster Movies: 'Overlord,' 'Fantastic Beasts 2,' 'Hellboy' Read More
     *   First Look at Isabela Moner in 'Dora the Explorer'. Here's Everything We Know Read More
     
@@ -103,7 +103,7 @@ GET YOUR $6 REWARD 2X FASTER. 2 tickets = $6 reward for a limited time only. Det
     
     Already a Fandango VIP? Sign In
 
-Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Fandango Gift Card Terms MovieTickets.com Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyFandango Gift Card TermsMovieTickets.com Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
+Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Fandango Gift Card Terms MovieTickets.com Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyFandango Gift Card TermsMovieTickets.com Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
 Last updated: May 25, 2018
 
