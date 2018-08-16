@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms NOAA forecasters lower Atlantic hurricane season prediction Preparedness still key as more storms expected to develop AROUND NOAA // NOAA red tide forecasts available for Florida and Texas \[EXT\] Teachers: Go back to school with NOAA July 2018 was 11th warmest July on record for U.S. 2017 was one of three warmest years on record, international report confirms
+Enter Search Terms NOAA forecasters lower Atlantic hurricane season prediction Preparedness still key as more storms expected to develop AROUND NOAA // Stern of World War II U.S. destroyer discovered off remote Alaskan island by NOAA-supported scientists NOAA red tide forecasts available for Florida and Texas \[EXT\] Teachers: Go back to school with NOAA July 2018 was 11th warmest July on record for U.S.
 
 *   About our agency
 *   News and features
