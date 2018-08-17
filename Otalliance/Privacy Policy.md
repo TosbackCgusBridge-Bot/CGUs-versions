@@ -23,19 +23,16 @@ Skip to main content Online Trust Alliance
     _▼_
 *   Resources
     
-    *   Advertising Integrity &. Fraud
+    *   IoT Resources
     *   Data Breach &. Protection
     *   Email Practices &. Reports
-    *   IoT Resources
+    *   Vision for Trust
+    *   Advertising Integrity &. Fraud
     *   OTA Members (Restricted)
     *   Report a Site Vulnerability
     
     _▼_
 *   Best Practices
-    
-    *   Industry Best Practices
-    
-    _▼_
 *   Committees
 *   Newsroom
     
@@ -44,7 +41,6 @@ Skip to main content Online Trust Alliance
     *   Upcoming Events
         
         *   Recent Events
-        *   Events Archive
         
         _▼_
     
@@ -59,7 +55,6 @@ Skip to main content Online Trust Alliance
     
     *   Members
     *   History &. Overview
-    *   Vision for Trust
     *   Staff
     
     _▼_
@@ -83,6 +78,10 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
+Tue, Sep 11, 2018 APAC IoT Workshop
+
+Asia-Pacific Regional IoT Workshop at APT Symposium on Cybersecurity 
+
 *   OTA Blog
 *   Newsletters
 
@@ -104,10 +103,11 @@ The past six months we have witnessed an un-paralleled level of questionable bus
 
 More >>. Resources
 
-*   Advertising Integrity &. Fraud
+*   IoT Resources
 *   Data Breach &. Protection
 *   Email Practices &. Reports
-*   IoT Resources
+*   Vision for Trust
+*   Advertising Integrity &. Fraud
 *   OTA Members (Restricted)
 *   Report a Site Vulnerability
 
@@ -120,17 +120,12 @@ Initiatives
 *   Privacy
 *   Public Policy
 
-Best Practices
-
-*   Industry Best Practices
-
 Newsroom
 
 *   Press Releases
 *   OTA In The News
 *   Upcoming Events
     *   Recent Events
-    *   Events Archive
 
 Membership
 
@@ -142,7 +137,6 @@ About Us
 *   Members
     *   Members
 *   History &. Overview
-*   Vision for Trust
 *   Staff
 
  
