@@ -45,11 +45,11 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Taste of Summer
+    View All Categories Shop by Category*   Labor Day Gifts
     
     Occasions*   College Gifting
-    *   Birthday Gifts
     *   Taste of Summer
+    *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Taste of Summer
@@ -112,11 +112,11 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Taste of Summer
+    View All Categories Shop by Category*   Labor Day Gifts
     
     Occasions*   College Gifting
-    *   Birthday Gifts
     *   Taste of Summer
+    *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Taste of Summer
