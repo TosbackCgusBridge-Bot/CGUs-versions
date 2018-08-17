@@ -108,21 +108,21 @@ Sony on YouTube - Be Adventurous, Be Brave, Be Relentless, Be Inspired, Be Alpha
 
 Play Be Adventurous, Be Brave, Be Relentless, Be Inspired, Be Alpha Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/BeAlpha-600x600\_GZeeMjw.jpg);" alt="Be Alpha">. Guardians: Watch the Bungie Developers Dicuss What's New in "Destiny 2: Forsaken"
+<img class="bg-img" class="url(/en\_us/media/content/BeAlpha-600x600\_GZeeMjw.jpg);" alt="Be Alpha">. Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken"
 
 Go to PlayStation.com to Find Out More
 
 Close
 
-*   Share Guardians: Watch the Bungie Developers Dicuss What's New in "Destiny 2: Forsaken" on Facebook
-*   Share Guardians: Watch the Bungie Developers Dicuss What's New in "Destiny 2: Forsaken" on Twitter
-*   Copy URL to share Guardians: Watch the Bungie Developers Dicuss What's New in "Destiny 2: Forsaken"
+*   Share Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" on Facebook
+*   Share Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" on Twitter
+*   Copy URL to share Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken"
 
-Play Guardians: Watch the Bungie Developers Dicuss What's New in "Destiny 2: Forsaken" Video
+Play Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" Video
 
-Sony on YouTube - Guardians: Watch the Bungie Developers Dicuss What's New in "Destiny 2: Forsaken"
+Sony on YouTube - Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken"
 
-Play Guardians: Watch the Bungie Developers Dicuss What's New in "Destiny 2: Forsaken" Video hotspot
+Play Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" Video hotspot
 
 <img class="bg-img" class="url(/en\_us/media/content/Destiny2-600x600.jpg);" alt="Destiny 2 Forsaken Video">. "No Man's Sky" Gets a Massive Multi-Player Update
 
@@ -140,19 +140,7 @@ Sony on YouTube - "No Man's Sky" Gets a Massive Multi-Player Update
 
 Play "No Man's Sky" Gets a Massive Multi-Player Update Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/no-mans-sky-screen-01-ps4-us-600x600.jpg);" alt="No Man&#39;s Sky NEXT Trailer">.
-
-View Xperia XZ2 on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/a30a471823a9fd46e322fef991991c71/5BF1C742/t51.2885-15/e35/38506526\_1224688681005756\_8222159798028730368\_n.jpg);" alt="">.
-
-Bend time to stay alive in futuristic #PSVR shooter Unearthing Mars 2, out September 18.
-
-2 hours ago
-
-View Tweet
-
-Close
+<img class="bg-img" class="url(/en\_us/media/content/no-mans-sky-screen-01-ps4-us-600x600.jpg);" alt="No Man&#39;s Sky NEXT Trailer">. Close
 
 *   Share PS VR on Facebook
 *   Share PS VR on Twitter
@@ -160,7 +148,17 @@ Close
 
 PS VR
 
-<img class="bg-img" class="url(/en\_us/media/content/VR\_Headset-600x600\_KVgyveA.jpg);" alt="Playstation VR ">. Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro
+<img class="bg-img" class="url(/en\_us/media/content/VR\_Headset-600x600\_KVgyveA.jpg);" alt="Playstation VR ">.
+
+Bend time to stay alive in futuristic #PSVR shooter Unearthing Mars 2, out September 18.
+
+1 day ago
+
+View Tweet
+
+View Aretha Franklin on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/43686116b471dc19a744d5ef7b88c1fe/5C0BF374/t51.2885-15/e35/38268667\_295025171275004\_7178118819636838400\_n.jpg);" alt="">. Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro
 
 Learn More
 
