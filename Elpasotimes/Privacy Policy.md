@@ -1,4 +1,4 @@
-close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dialogSUBSCRIBE NOW99¢ per month. Save 90%.
+SUBSCRIBE NOW$3 for 3 months. Save 90%.
 
 *   Home
 *   News
@@ -12,9 +12,9 @@ close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dial
 *   Insider
 *   USA TODAY
 *   Photo &. Video
-*   Subscribe
 *   Advertise with Us
 *   Public Notices
+*   Subscribe
 *   More
     *   Home
     *   News
@@ -28,9 +28,9 @@ close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dial
     *   Insider
     *   USA TODAY
     *   Photo &. Video
-    *   Subscribe
     *   Advertise with Us
     *   Public Notices
+    *   Subscribe
 
 *   socialFollow
 *   search
@@ -75,7 +75,7 @@ close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dial
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowNew West El Paso Walmart to open WednesdayLocalSuicide call to police leads to SWAT standoffCrimeHave you seen El Paso's most wanted fugitives?CrimeViolent hotel robbers sought in Crime of WeekCrimeFranklin High administrators take on La ChonaEntertainmentSam Elliott says El Paso feels 'like coming home'EventsI-10 Downtown to close for bridge repair workTrafficAguilar's Top 10 boxing pound-for-pound listBoxingRecall effort targets El Paso Mayor Dee MargoLocalComedian Carlos Mencia shows love for TacoholicsEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowThese breakfast foods contain weed killerNews2 of 3 children out of hospital in Tippin crashLocalTippin Elementary accident: What we knowNewsMost El Paso County schools meet state standardsEducationMinerpalooza: Jersey Shore DJ Pauly D, Drake BellEntertainmentComedian Kevin Hart coming to El PasoEntertainmentWoman accused of stealing $5,000 worth of itemsCrimeMan featured on most wanted list arrestedCrimeMissing 6-year-old boy found dead in trash bagLocal75 students seek counselors after school deathLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -116,7 +116,7 @@ LifestyleOpinion
 *   Columnists
 *   Letters to the Editor
 
-HomesObituariesUSA TODAYPhoto &. VideoSubscribePublic Notices
+HomesObituariesUSA TODAYPhoto &. VideoPublic NoticesSubscribe
 
 © 2018 elpasotimes.com, All rights reserved.
 
@@ -145,5 +145,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogGet Unlimited Access To Local News 99¢ Per MonthSubscribeclose dialog
