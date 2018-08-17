@@ -8,24 +8,22 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     
     *   What’s New
     *   Fan Faves
-    *   Gift Sets
     *   Award Winners
-    *   Clearance
-    
     *   Baby Gear
     *   Baby Toys
+    
     *   Playsets &. Action Figures
     *   Toy Cars, Trains &. Train Sets
     *   Dolls, Dollhouses &. Accessories
-    
     *   Ride-On Toys
     *   Learning &. Educational Toys
+    
     *   Building Toys
     *   Musical Toys
     *   Role Play Toys
-    
     *   Sports &. Outdoor Toys
     *   Apparel &. Bedroom
+    
     *   Books, Puzzles &. Games
     
     See all
