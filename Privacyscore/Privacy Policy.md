@@ -124,7 +124,7 @@ Connect with AVG
 
 English Log in to AVG MyAccount
 
-Privacy  |  Cookies  |  All third party trademarks are the property of their respective owners.  |  © 2018 AVG Technologies. All rights reserved.
+Privacy  |  Cookies  |  All third party trademarks are the property of their respective owners.  | © 1988-2018 Copyright Avast Software s.r.o.
 
 Skip to content Skip to menu Change language
 
