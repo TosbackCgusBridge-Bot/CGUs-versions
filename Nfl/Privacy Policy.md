@@ -1,6 +1,6 @@
-*   PHI0-1NE1-0Thu, 7:30 pm ET
-*   NYJ1-0WAS0-1Thu, 8:00 pm ET
-*   PIT1-0GB1-0Thu, 8:00 pm ET
+*   PHI0-220NE2-037Final
+*   NYJ1-113WAS1-115Final
+*   PIT1-134GB2-051Final
 *   KC0-1ATL0-1Fri, 7:00 pm ET
 *   NYG0-1DET0-1Fri, 7:00 pm ET
 *   MIA0-1CAR1-0Fri, 7:30 pm ET
@@ -32,9 +32,9 @@
 *   NFL Network
 *   Photos
 
-*   PHI0-1NE1-0Thu, 7:30 pm ET
-*   NYJ1-0WAS0-1Thu, 8:00 pm ET
-*   PIT1-0GB1-0Thu, 8:00 pm ET
+*   PHI20NE37Final
+*   NYJ13WAS15Final
+*   PIT34GB51Final
 *   KC0-1ATL0-1Fri, 7:00 pm ET
 *   NYG0-1DET0-1Fri, 7:00 pm ET
 *   MIA0-1CAR1-0Fri, 7:30 pm ET
