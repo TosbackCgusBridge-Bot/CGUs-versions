@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Matthew Yglesias_: Elizabeth Warren Has a Plan to Save Capitalism
+*   _Joe Concha_: With Bash-Trump Day, Press Acts Like Opposition Party
     
-*   _Michael Graham_: Tip for Dems: Massachusetts Liberal Not the Answer
+*   _Joel Simon_: If the Media Speaks With One Voice, Trump Will Have to Listen
     
-*   _Dick Polman_: GOP Candidates Can't Keep Trump Out of Their Districts
+*   _Ishmael Jones_: Brennan, the Spooks, and Russian Collusion
     
-*   _Paul Mulshine_: Blue Wave or Red Ripple in 2018?
+*   _Michael Tomasky_: Can the Democrats Fix Washington?
     
-*   _Margot Cleveland_: Bruce Ohr's Emerging Pivotal Role in Spygate
+*   _Alex Azar_: Obamacare Forgot About You. But Trump Didn't.
     
-*   _Karen Tumulty_: Trump Is Plenty Racist Without the N-Word
+*   _Erin Kaplan_: School Choice Is the Enemy of Justice
     
-*   _Eddie Scarry_: No Sympathy for a Lying Press
+*   _Walter Williams_: Liberal-Controlled Cities Have Let Down Black Americans
     
-*   _Susanne Koelbl_: The Courage of Afghan Pop Star Aryana Sayeed
+*   _Newt Gingrich_: Three Big Lessons From the Primaries This Week
     
-*   _Michael Brendan Dougherty_: The Catholic Church's Rotherham
+*   _David Smith_: Why Trump Could Be Toxic for Republicans at Midterms
     
-*   _Strayed &. Almond_: How Can I Cure My Massive White Guilt?
+*   _Carl Cannon_: Trump and Media Group-Think
     
-*   _Tyler O'Neil_: The Left Is After Christian Baker Jack Phillips - Again
+*   _Kevin Fallon_: When Aretha Franklin Proved She Was Greatest Diva Ever
     
-*   _Vice President Mike Pence_: The Evidence Is Clear: America Is Back
+*   _David Remnick_: Trump and the Enemies of the People
     
-*   _Alissa Quart_: Economic Anxiety Could Reshape America for the Better
+*   _Nolan Finley_: The Damage to the Media's Standing Is Self-Inflicted
     
-*   _Michael Goodwin_: NYC's Booming Economy Bad News for Far Left
+*   _Manny Garcia_: What Our Journalists Expose Isn't Fake News
     
-*   _Frank Bruni_: The Revenge of the Lesser Trumps
+*   _Rep. Thomas Massie_: Russia Collusion Hysteria Undercuts Our Values
     
-*   _Joseph Curl_: Ocasio-Cortez Is Crashing and Burning Fast
+*   _John Brennan_: President Trump's Claims of No Collusion Are Hogwash
     
-*   _Renee Graham_: Senator Warren Is Right - Our Justice System Is Racist
+*   _Michael Barone_: Either Trump's Delivering on Promises or He's Very Lucky
     
-*   _Scott Johnson_: Keith Ellison's Troubling Support of Cop Killers
+*   _David Catanese_: Pawlenty Rejected, Walker Retrenches
     
-*   _Sally Persons_: Trump Twitter Support Is a Boon in GOP Primaries
+*   _Dan Kaufman_: Will Education Break Republicans' Grip in Wisconsin?
     
-*   _Brian Dickerson_: Will Trump's Support Doom MI Republicans in Nov?
+*   _Betsy McCaughey_: Dems Are Out to Sabotage the Middle Class on Health Care
     
-*   _Joe Garofoli_: GOP to Weaponize Pelosi in California House Races
+*   _Justin Worland_: California Wildfires Are a Climate Change Disaster
     
-*   _Shan Wu_: What to Expect in Manafort Trial Closing Arguments
+*   _Francis Menton_: How Do You Tell If Earth Is Warming or Cooling?
     
-*   _Matthew Walther_: Omarosa's 'Unhinged' an Unconvincing Mess of a Book
+*   _Rebecca Mead_: A New Citizen Decides to Leave Trump's America
     
-*   _Susan Glasser_: Dog Days: Trump &. His Toxic Twitter Insults of Omarosa
+*   _Charles Sykes_: We're All Living in a Trumpian Reality Show
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Revokes Security Clearance for Ex-CIA Chief Brennan
 *   Trump Twitter Support Is a Boon in Republican Primaries
+*   Brennan on Losing Security Clearance: Irresponsible and Dangerous Actions
 *   Jeff Johnson Upsets Former Gov. Pawlenty in Minnesota Primary
-*   Giuliani: Brennan Is Puppet Master, Should Be in Front of Grand Jury
-*   Trump Lashes Out at Omarosa, Calls Her "That Dog"
 *   FBI Fires Peter Strzok, Months After Anti-Trump Texts Revealed
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -245,30 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Indiana Senate - Braun vs. DonnellyTrafalgar Group (R)
-    *   Donnelly51
-    *   Braun39Donnelly +12
-*   Wyoming Governor - Republican PrimaryTrafalgar Group (R)
-    *   Friess21
-    *   Gordon20
-    *   Hageman16
-    *   Galeotos10
-    *   Haynes6
-    *   Dahlin2Friess +1
-*   President Trump Job ApprovalCNN
-    *   Approve44
-    *   Disapprove53Disapprove +9
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve49
-    *   Disapprove49Tie
+    *   Disapprove50Disapprove +1
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve44
+    *   Disapprove52Disapprove +8
+*   2018 Generic Congressional VoteReuters/Ipsos
+    *   Democrats45
+    *   Republicans36Democrats +9
+*   2018 Generic Congressional VotePew Research
+    *   Democrats46
+    *   Republicans39Democrats +7
 
 More Latest Polls In The News
 
-*   Hayden: Sarah Sanders Used "Threatening Tone" In Brennan Announcement, Warning Us To Be Quiet
-*   Bill Binney: Intel Agencies Have Become American "Praetorian Guard," Lie To Public, President, Each Other
-*   Piers Morgan: Omarosa Is A Ridiculous, Absurd, Fake Person And Everyone Should Stop Talking About Her
-*   CNN's Chris Cuomo Defends Antifa: Attacks On Police, Journalists "Not Equal" To Fighting Bigots
-*   Gowdy: Comey Must Not Have Felt Obstructed Because He Kept Working, Would Still Be FBI Director
+*   Steve Schmidt: 40 Percent Of Americans Have Surrendered Their Intellectual Sovereignty To Donald Trump
+*   Clapper on Brennan: Trump Could Start Making Intel Community Members Declare Who They Voted For
+*   Tucker Carlson on Brennan: "State Media" Have Become "Faithful Handmaidens" Defending Clearance Access
+*   CNN's Don Lemon on Brennan: Trump Revoking Security Clearance "Straight Out Of A Dictator's Playbook"
+*   Craig Unger: Untold Story Of Trump, Russia/Soviet Partnership. Mafia Laundered Money Via Real Estate
 
 *   Politics
 *   Policy
