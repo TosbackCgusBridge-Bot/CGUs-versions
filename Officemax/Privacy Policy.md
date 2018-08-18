@@ -14,7 +14,7 @@
     enter your number below.
 *   Login or Register
 
-Office Depot Deals 7s622B0NQnwJETvhC1S3Kwh
+Office Depot Deals w4DCwWSNvf1HmaVs\_Z59Nym
 
 Search Suggestions
 
@@ -158,7 +158,7 @@ supplies, furniture, technology &. more
  **1-800-GO-DEPOT**  
 (1-800-463-3768)   Live Chat Available 24/7  **FREE** store pickup.  
 order online  
-pick up in 1 hour!  **A tapp away**  
+pick up in 1 hour!  **A tApp away**  
 quick reorders,  
 free instore  
 pickup &. more  Signup to receive  
@@ -232,6 +232,6 @@ Join Sign In
 
 /account/v2/editBillingDisplay,/orderhistory/subsManager,/orderhistory/submitReturn,/account/accountSummaryDisplay,/account/loginAccountDisplay,/account/myfiles,/csl/listAll x We're making back-to-school shopping easier this year.
 
-To help us better help you, let us know who you're shopping for:
+We're proud to help you go back to school this year. Who are you shopping for?
 
 K-12 >. College >. My Classroom >.
