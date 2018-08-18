@@ -52,6 +52,8 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   This Date in History
     *   Pitching Matchups
     *   First Pitch
+    *   Fan Favorites
+    *   The Catch &. Trading Bases
 *   Standings Standings Standings
     *   2018 Regular Season Standings
     *   2017 Regular Season Standings
