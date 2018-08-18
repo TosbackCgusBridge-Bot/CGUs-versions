@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
+SALE ON SALE: TAKE AN EXTRA 50% OFF – SHOP NOW.
 
 *   Women
 *   Men
@@ -101,6 +101,7 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Shop All
         
           
+          
         Give a Buckle Gift card
 *   Men
     *   *   Featured
@@ -164,6 +165,7 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Jewelry
         *   Shop All
         
+          
           
         Give a Buckle Gift card
 *   Kids
@@ -290,11 +292,7 @@ SALE ON SALE: EXTRA 20% OFF – SHOP NOW.
         *   Men's Denim Shop
         *   Women's Denim Shop
         *   Gifts That Give Back
-        *   Buckle Gift Cards
-        
-          
-          
-        Give a Buckle Gift card
+        *   Buckle Gift CardsGive a Buckle Gift card
 *   Sale
     *   *   Featured Sale
         
