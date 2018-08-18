@@ -325,10 +325,6 @@ Offers
     
     Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
     
-*   'Mamma Mia! Here We Go Again' Gift With Purchase
-    
-    Buy tickets to 'Mamma Mia! Here We Go Again' and own the first movie for just $4.99! BUY TICKETS
-    
 *   'Ant-Man and The Wasp' Gift With Purchase
     
     Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
