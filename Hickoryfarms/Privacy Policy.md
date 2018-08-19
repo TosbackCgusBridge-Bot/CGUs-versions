@@ -52,7 +52,7 @@
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Taste of Summer
+    *   Graduation &. CongratulationsMost Popular Labor Day Gifts
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
@@ -119,7 +119,7 @@
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Taste of Summer
+    *   Graduation &. CongratulationsMost Popular Labor Day Gifts
 *   Sale
     View All Categories Shop by Category*   Sale
     *   Steak &. Seafood Sale
