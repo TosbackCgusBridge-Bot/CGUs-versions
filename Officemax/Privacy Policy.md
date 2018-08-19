@@ -1,20 +1,18 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55Q8D33&gtm\_auth=q0cT323RvsH39vnjqScr4Q&gtm\_preview=env-16&gtm\_cookies\_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe>. SEG1 hp
-
-×
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55Q8D33&gtm\_auth=q0cT323RvsH39vnjqScr4Q&gtm\_preview=env-16&gtm\_cookies\_win=x" height="0" width="0" style="display: none. visibility: hidden"></iframe>. SEG1 hp
 
 *   Weekly Ad
 *   Office Depot Business Solution
 
 *   20+ Employee Businesses
-*   800-GO-DEPOT
-*   Chat or Call
-    *   Live Chat Customer service available 24/7
-    *   TXT 1-904-853-3768 Text us your questions and a representative will respond.
-    1-800-463-3768 Call us with your questions and a representative will help. 1-800-463-3768 Call us with your questions and a representative will help. 1-888-315-5073 Call us for all **Tech Service Subscription** questions and a representative will help. Have Us Call You Ensure your phone line is open and  
-    enter your number below.
-*   Login or Register
+*   *   800-GO-DEPOT
+    *   Chat or Call
+        *   Live Chat Customer service available 24/7
+        *   TXT 1-904-853-3768 Text us your questions and a representative will respond.
+        1-800-463-3768 Call us with your questions and a representative will help. 1-800-463-3768 Call us with your questions and a representative will help. 1-888-315-5073 Call us for all **Tech Service Subscription** questions and a representative will help. Have Us Call You Ensure your phone line is open and  
+        enter your number below.
+    *   Login or Register
 
-Office Depot Deals w4DCwWSNvf1HmaVs\_Z59Nym
+Office Depot Deals aAyQDKPlTwh2THXO6UmcRjI
 
 Search Suggestions
 
