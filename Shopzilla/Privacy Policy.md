@@ -20,11 +20,10 @@ Connexity
     *   Press
 
 *   *   US
+        *   UK
         *   FR
         *   DE
         *   IT
-        *   UK
-        *   AU
     *   Login
     
 *   Contact
@@ -39,7 +38,6 @@ Toggle navigationblog navsite nav
         *   Custom Research
     *   CPC Listings
         *   Retailer Listings
-        *   Retailer Site Monetization
         *   Publisher Monetization
         *   Google Shopping Ads
 *   About
@@ -225,8 +223,8 @@ Connexity
 
 <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=nuzib&p\_id=Twitter&tw\_sale\_amount=0&tw\_order\_quantity=0" />. <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn\_id=nuzib&p\_id=Twitter&tw\_sale\_amount=0&tw\_order\_quantity=0" />.
 
-© 2018 Connexity, Inc. / Privacy Policy / Cookie Policy / Site Map
+© 2018 Connexity, Inc. / Privacy Policy / Cookie Policy / Ad Opt-Out
 
-Connexity® and Hitwise® are registered trademarks of Connexity, Inc.
+Connexity® is a registered trademark of Connexity, Inc.
 
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JKMDBN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. SumoFocus Retriever
