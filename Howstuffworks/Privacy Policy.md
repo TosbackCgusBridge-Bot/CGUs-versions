@@ -229,7 +229,7 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .Gundry MDHe Transformed His Belly With One ThingGundry MDEverQuote Insurance QuotesDenver, Colorado: This Unbelievable, Tiny Company Is Gaining Speed With Colorado DriversEverQuote Insurance QuotesIcePopCouple Makes A Bet: No Eating Out, No Cheat Meals, No Alcohol. A Year After, That's What They Look LikeIcePopMiss Penny StocksRemember Sandra Bullock's Son? Try Not To Gasp When You See How He Looks NowMiss Penny StocksJuveTressThinning Hair? Pour This On Your Head And Watch What HappensJuveTressDr. Marty3 Ways Your Dog Asks For HelpDr. MartyRetailMeNot ExtensionYou Should Never Shop Online Without Using This Trick – Here’s WhyRetailMeNot ExtensionDermalMedix Skin CareDoctor's New Discovery Makes Foot Calluses "Vanish"DermalMedix Skin Care Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksEarly Humans Mated With Inbred Neanderthals — at a CostAnother Strike Against the Black Jelly BeanCan Humans Have Superpowers?The Missing States of the United StatesWhat Happens If You Don’t Poop for 47 Days?This Is Why Humans Don't Have a Mating Seasonby Taboolaby Taboola
+More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links Promoted Links Promoted Links .Gundry MDHe Transformed His Belly With One ThingGundry MDTopixoffbeatTattoo Fails: Try Not To Laugh HardTopixoffbeatEverQuote Insurance QuotesDenver, Colorado: This Unbelievable, Tiny Company Is Gaining Momentum With Colorado DriversEverQuote Insurance QuotesTravelfuntuRemember Loni Anderson? Try Not To Smile When You See Her NowTravelfuntuDermalMedix Skin CareDoctor's New Discovery Makes Foot Calluses "Vanish"DermalMedix Skin CareDr. Marty3 Ways Your Dog Asks For HelpDr. MartyRetailMeNot ExtensionYou Should Never Shop Online Without Using This Trick – Here’s WhyRetailMeNot ExtensionJuveTressThinning Hair? Pour This On Your Head And Watch What HappensJuveTress Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksWhy Do We Love to Pop Zits?10 Outrageous Experiments Conducted on HumansYou Can't Name Your Baby That!Why did Neanderthals become extinct?Do you really stay conscious after being decapitated?Why are most mass murderers men?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -237,7 +237,6 @@ More to Explore     by Taboola by Taboola Sponsored Links Sponsored Links
 *   Ad Choices
 *   Terms
 
-*   Store
 *   Careers
 *   Contact Us
 *   Help
