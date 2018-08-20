@@ -14,24 +14,29 @@ SHOP DEPARTMENTS
 
 Near YouFind a StoreBackSAVE ON NIKE SHOESShop AllSAVE ON NIKE SHOESShop All
 
-*   View Price in Cart
+*   LIMITED TIME SPECIAL!
+    
+    $56.25 sale
     
     was $75 Nike Quest Mens Running ShoesAdd To Cart
-*   View Price in Cart
-    
-    was $65 Nike Tanjun Prem Mens Running ShoesAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $42.50 sale
     
     was $85 Nike Flex 2017 Rn Mens Running ShoesAdd To Cart
-*   View Price in Cart
+*   LIMITED TIME SPECIAL!
+    
+    $19.99 sale
     
     was $40 Nike Benassi Duo Ultra Slide Womens Slide Sandals(26)Add To Cart
-*   View Price in Cart
+*   LIMITED TIME SPECIAL!
+    
+    $37.50 - $59.99 sale
     
     was $75 Nike Flex Contact Mens Running Shoes(18)Add To Cart
-*   View Price in Cart
+*   LIMITED TIME SPECIAL!
+    
+    $35 - $52.50 sale
     
     was $70 Nike Run Swift Se Trail Mens Running ShoesAdd To Cart
 *   LIMITED TIME SPECIAL!
@@ -39,6 +44,11 @@ Near YouFind a StoreBackSAVE ON NIKE SHOESShop AllSAVE ON NIKE SHOESShop All
     $48.75 sale
     
     was $65 Nike Flex Experience 7 Mens Running Shoes(10)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $63.75 sale
+    
+    was $85 Nike Flex 2018 Rn Mens Running ShoesAdd To Cart
 
 Shop and Save at JCPenney
 
