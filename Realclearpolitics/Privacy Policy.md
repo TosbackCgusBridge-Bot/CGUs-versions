@@ -109,6 +109,8 @@
     *   About
     *   Media Kit
 
+*   _Michael Kinsley_: The Simplest Reason to Oppose Brett Kavanaugh
+    
 *   _Niall Stanage_: For Trump, This Week Has Been Anything But Sleepy
     
 *   _Andrew McCarthy_: Yanking of Brennan's Security Clearance Was Way Overdue
@@ -154,8 +156,6 @@
 *   _Margaret Carlson_: Us Kids Knew Some Priests Were Monsters. So Did Bishops.
     
 *   _Ramesh Ponnuru_: The Catholic Church Is in Denial, Still
-    
-*   _Bay Buchanan_: McCaskill Has No Reason to Vote Against Kavanaugh
     
 
 *   Previous
@@ -260,11 +260,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Brennan: When Will Republicans, Congress Decide They've Had Enough of Trump?. "Drunk On Power"
+*   James Clapper: John Brennan's Rhetoric "An Issue In And Of Itself" Now, "Subtle Like A Freight Train"
+*   Trump: I Like "Taking On Voices" Like John Brennan's, Now People Will Find Out Who He Is
+*   Brennan: "I Stand Very Much By" Accusing President Trump Of Treason. "He's Bringing This Country Down"
+*   NYT's Maggie Haberman: President Trump Is Not What He Seems. "This Is Something Of A Game To Him"
 *   Steve Schmidt: 40 Percent Of Americans Have Surrendered Their Intellectual Sovereignty To Donald Trump
-*   Clapper on Brennan: Trump Could Start Making Intel Community Members Declare Who They Voted For
-*   Tucker Carlson on Brennan: "State Media" Have Become "Faithful Handmaidens" Defending Clearance Access
-*   CNN's Don Lemon on Brennan: Trump Revoking Security Clearance "Straight Out Of A Dictator's Playbook"
 
 *   Politics
 *   Policy
