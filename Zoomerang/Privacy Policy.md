@@ -101,4 +101,6 @@ send
 Thanks for your feedback!  
 **Would you like to receive more information about usability or digital insights?** Fill out the form below and click send.
 
-Name: E-mail: Send!No thanks!© Powered by MetrixLab
+Name: E-mail: Send!No thanks!© Powered by MetrixLab ×
+
+**Thank you for your message** **We will get back to you within 24 hours during a work week.**
