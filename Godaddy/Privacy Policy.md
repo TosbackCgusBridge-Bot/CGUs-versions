@@ -1,4 +1,4 @@
-**Last Revised: May 24, 2018**
+**Last Revised: August 20, 2018**
 
 _**To view our archived Privacy Policy, click here.**_  
 
@@ -145,7 +145,7 @@ Phone: 0303 123 1113
 
 **Contact us.**
 
-If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at privacy@godaddy.com.  In the alternative, you may contact us by either of the following means:
+If you have any privacy-related questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at privacy@godaddy.com.  In the alternative, you may contact us by either of the following means:
 
 *   By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal, Office of the DPO, 5th Floor, The Shipping Building, Old Vinyl Factory, 252-254 Blyth Road, Hayes, UB3 1HA. 
 *   By Phone: (480) 505-8877.
