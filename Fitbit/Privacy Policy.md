@@ -3,7 +3,7 @@
             *   Versa
             *   Ionic
         *   FITNESS TRACKERS
-            *   Charge 2
+            *   Charge 3
             *   Alta HR
             *   Alta
             *   Flex 2
@@ -252,8 +252,6 @@ Archive of Previous Privacy Policies
 Get the low-down on all things Fitbit legal.
 
 See all our legal policies
-
-Get the skinny on all things FitbitPlease enter an email address
 
 *   BLOG
 
