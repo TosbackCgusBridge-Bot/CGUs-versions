@@ -1,75 +1,3 @@
-*   CHI1-224DEN0-223Final
-*   SEA0-214LAC1-124Final
-*   JAX1-114MIN1-110Final
-*   OAK1-115LA1-119Final
-*   CIN2-021DAL0-213Final
-*   TB2-030TEN0-214Final
-*   SF1-113HOU2-016Final
-*   BAL2-0IND1-0Mon, 8:00 pm ET
-*   PHI0-220NE2-037Final
-*   NYJ1-113WAS1-115Final
-*   PIT1-134GB2-051Final
-*   KC1-128ATL0-214Final
-*   NYG1-130DET0-217Final
-*   MIA0-220CAR2-027Final
-*   BUF1-119CLE1-117Final
-*   ARI2-020NO1-115Final
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Video
-*   Training Camp
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-*   Free Agency
-*   Game Pass
-*   Stats
-*   Ways to Watch
-*   NFL Network
-*   Photos
-
-*   CHI24DEN23Final
-*   SEA14LAC24Final
-*   JAX14MIN10Final
-*   OAK15LA19Final
-*   CIN21DAL13Final
-*   TB30TEN14Final
-*   SF13HOU16Final
-*   BAL2-0IND1-0Mon, 8:00 pm ET
-*   PHI20NE37Final
-*   NYJ13WAS15Final
-*   PIT34GB51Final
-*   KC28ATL14Final
-*   NYG30DET17Final
-*   MIA20CAR27Final
-*   BUF19CLE17Final
-*   ARI20NO15Final
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Video
-*   Training Camp
-
-*   Fantasy
-
-*   *   Free Agency
-    *   Game Pass
-    *   Stats
-    *   Ways to Watch
-    *   NFL Network
-    *   Photos
-
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
@@ -259,13 +187,13 @@ Please also note that broadcasters and other third parties that are unconnected 
 
 **Transfers**: When we transfer your Personal Data to third parties as described in this Privacy Policy, some of these parties (for example, many members of the NFL Family) may be located in countries, such as the United States, other than your own, whose privacy and data protection laws may not be equivalent to those in your country of residence. When we transfer your personal information to other countries, including the United States, we apply appropriate safeguards, to protect your information and comply with applicable laws. For example, we implement measures such as standard data protection contractual clauses to ensure that any transferred Personal Data, remains protected and secure. A copy of these clauses can be obtained by emailing enquiries@nfl.com.
 
-**Your Rights:** You may be entitled, in accordance with applicable law, to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, of (e.g. if your Personal Data changes or is out of date), erasure of and portability of your own Personal Data in certain circumstances. Requests should be submitted by contacting us by emailing GPDR@nfl.com.  
+**Your Rights:** You may be entitled, in accordance with applicable law, to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, of (e.g. if your Personal Data changes or is out of date), erasure of and portability of your own Personal Data in certain circumstances. Requests should be submitted by contacting us by emailing GDPR@nfl.com.  
   
 If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. You may lodge a complaint with your local supervisory authority if you consider that our processing of your Personal Data infringes applicable law.
 
 **16\. Contact Us**
 
-If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at NFLPrivacy@nfl.com (or, if you are a user from the EU, at GPDR@nfl.com) or at the following address:
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at NFLPrivacy@nfl.com (or, if you are a user from the EU, at GDPR@nfl.com) or at the following address:
 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
