@@ -465,7 +465,6 @@ Returns
 Promotions
 
 *   15% Off Your First Buckle Credit Card Purchase
-*   Tax-Free Weekends
 *   All Promotions
 *   Store Events
 *   Military Discount
