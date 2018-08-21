@@ -4,7 +4,6 @@ Accessible View
 
 SHOP DEPARTMENTS
 
-*   Find a Store
 *   Same Day Pickup
 *   Store Ads
 *   Back to School
@@ -12,43 +11,43 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackSAVE ON NIKE SHOESShop AllSAVE ON NIKE SHOESShop All
+Near YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAPHIC TEESShop All
 
 *   LIMITED TIME SPECIAL!
     
-    $56.25 sale
+    $6.60 - $8.10 sale
     
-    was $75 Nike Quest Mens Running ShoesAdd To Cart
+    was $22 - $27 Arizona SS Mineral Wash Top - Girls' 4-16 and Plus(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $42.50 sale
+    $8.70 sale
     
-    was $85 Nike Flex 2017 Rn Mens Running ShoesAdd To Cart
+    was $29 Arizona Mesh Layered Graphic T-Shirt- Juniors PlusAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $19.99 sale
+    $4.20 - $5.70 sale
     
-    was $40 Nike Benassi Duo Ultra Slide Womens Slide Sandals(26)Add To Cart
+    was $14 - $19 Arizona Short Sleeve Graphic Ringer Tee - Girls' 4-16 &. Plus(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $37.50 - $59.99 sale
+    $6.60 - $8.10 sale
     
-    was $75 Nike Flex Contact Mens Running Shoes(18)Add To Cart
+    was $22 - $27 Arizona Short Sleeve Cutout Graphic Tee - Girls' 4-16 &. Plus(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $35 - $52.50 sale
+    $7.20 sale
     
-    was $70 Nike Run Swift Se Trail Mens Running ShoesAdd To Cart
+    was $24 Arizona "Trending" Graphic T-Shirt- Juniors PlusAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $48.75 sale
+    $6.60 - $8.10 sale
     
-    was $65 Nike Flex Experience 7 Mens Running Shoes(10)Add To Cart
+    was $22 - $27 Arizona Roll Sleeve Embroidered Tee - Girls' 4-16 &. PlusAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $63.75 sale
+    $4.20 - $5.70 sale
     
-    was $85 Nike Flex 2018 Rn Mens Running ShoesAdd To Cart
+    was $14 - $19 Arizona Short Sleeve Graphic Tee - Girls' 4-16 &. Plus(4)Add To Cart
 
 Shop and Save at JCPenney
 
