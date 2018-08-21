@@ -5,45 +5,45 @@ GET YOUR $6 REWARD 2X FASTER. 2 tickets = $6 reward for a limited time only. Det
 
 *   Movies Now Playing
     
+    *   Crazy Rich Asians
     *   The Meg
+    *   Mile 22
     *   Mission: Impossible - Fallout
+    *   Alpha
     *   Christopher Robin
-    *   Slender Man
     *   BlacKkKlansman
-    *   The Spy Who Dumped Me
+    *   Slender Man
+    *   Hotel Transylvania 3: Summer Vacation
     *   Mamma Mia! Here We Go Again
     *   The Equalizer 2
-    *   Hotel Transylvania 3: Summer Vacation
-    *   Ant-Man and the Wasp (2018)
-    *   Incredibles 2
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Alpha
-    *   Crazy Rich Asians
-    *   Mile 22
-    *   Billionaire Boys Club (2018)
-    *   Blaze
-    *   Juliet, Naked
-    *   The Little Mermaid (2018)
-    *   Memoir of War
-    *   Minding the Gap
-    *   We the Animals
-    *   The Wife
+    *   A.X.L.
+    *   The Happytime Murders
+    *   Beautifully Broken (2018)
+    *   Blue Iguana
+    *   The Bookshop
+    *   John McEnroe: In the Realm of Perfection
+    *   An L.A. Minute
+    *   Papillon (2018)
+    *   Searching (2018)
+    *   Support the Girls
     *   See All Opening This Week
     
     Coming Soon
     
-    *   A.X.L.
-    *   The Happytime Murders
-    *   Searching (2018)
     *   Kin (2018)
     *   Ya Veremos
     *   Operation Finale
     *   God Bless the Broken Road
     *   The Nun (2018)
     *   Peppermint (2018)
+    *   The Predator (2018)
+    *   A Simple Favor
+    *   Unbroken: Path to Redemption
+    *   White Boy Rick
     *   See All Coming Soon
     
     Explore More
@@ -73,7 +73,7 @@ GET YOUR $6 REWARD 2X FASTER. 2 tickets = $6 reward for a limited time only. Det
     
     *   When and Where to Find this Fall's Big Awards Contenders Read More
     *   Next 3 Monster Movies: 'Overlord,' 'Fantastic Beasts 2,' 'Hellboy' Read More
-    *   First Look at Isabela Moner in 'Dora the Explorer'. Here's Everything We Know Read More
+    *   Mark Wahlberg's Next 3 Movies: 'Instant Family, 'Wonderland,' 'Mile 22' Sequel Possibility Read More
     
     Explore Content
     *   Movie Reviews
@@ -374,4 +374,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
