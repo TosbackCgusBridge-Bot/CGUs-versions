@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 49%  49%  49%  2% 
+What is PeekScore? Public Records &. Background Checks 50%  50%  50%  3% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 49%  Twitter 2% 
+Facebook 50%  Twitter 3% 
 
 *   U.S. FDA - FDArecalls
     
@@ -333,7 +333,7 @@ Photo Albums 2% 
     Flickr (pronounced "flicker") is an image hosting service and video hosting service.It was created by Ludicorp in 2004. It has changed ownership several times and has been owned by SmugMug since April 2018.
     
 
-Web Search 48%  Images 2% 
+Web Search 49%  Images 2% 
 
 20
 
