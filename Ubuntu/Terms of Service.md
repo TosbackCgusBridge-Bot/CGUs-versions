@@ -36,7 +36,7 @@ This is Canonical’s modern slavery statement.
 
 Want a fully managed private cloud?
 
-BootStack is your OpenStack private cloud with our experts responsible for design, deployment and availability.
+BootStack is your Kubernetes private cloud with our experts responsible for design, deployment and availability.
 
 Get BootStack ›
 
