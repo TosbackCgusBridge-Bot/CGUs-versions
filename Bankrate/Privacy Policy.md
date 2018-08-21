@@ -185,7 +185,7 @@ For purposes of this Privacy Policy, “Your Information” means information ab
 
 This Privacy Policy applies to our Use of Your Information as a result of you using our Services, and does not apply to the following:
 
-*   Information collected through mediums other than our Services.
+*   Information collected through mediums other than our Services;
 *   Information collected through our Services where a separate privacy policy applies, such as a sweepstakes entry (you should refer to the official rules and privacy policy for each individual sweepstakes for our specific policies regarding information sharing and disclosure pursuant to sweepstakes entry). or
 *   Information collected by any person or entity other than us, even if related to our Services  
     (such as a third-party website, application, widget or lead form).
@@ -207,11 +207,11 @@ We might receive or collect several types of information about you, such as the 
 Information You Provide  
 The following are situations in which you may provide Your Information to us:
 
-*   When you fill out forms or fields through our Services.
-*   When you sign up for any newsletters or other materials, myBankrate, or other products and services through our Services.
-*   When you provide information to us through a third-party application, service or website.
-*   When you communicate with us or request information about us or our Services, whether via email or other means.
-*   When you participate in online surveys.
+*   When you fill out forms or fields through our Services;
+*   When you sign up for any newsletters or other materials, myBankrate, or other products and services through our Services;
+*   When you provide information to us through a third-party application, service or website;
+*   When you communicate with us or request information about us or our Services, whether via email or other means;
+*   When you participate in online surveys;
 *   When you participate in any of our marketing initiatives, including, contests, events, or promotions. and
 *   When you participate in forums or provide user generated content or submissions.
 
@@ -272,16 +272,16 @@ We will share your personally identifiable information with third parties only i
 
 We may disclose Your Information:
 
-*   To any person who, in our reasonable judgment, is authorized to receive Your Information as your agent, including as a result of your business dealings with that person (for example, your attorney).
-*   To our third-party vendors so that they may provide support for our internal and business operations, including for the handling of data processing, data verification, data storage, market measurement, surveys, research, internal marketing, delivery of promotional, marketing and transaction materials, and our Services’ maintenance and security. These companies are authorized to Use Your Information only as necessary to provide these services to us and are contractually obligated to keep Your Information confidential.
-*   To third parties when you use our Services to request a quote, services, or information from one or more of those third parties (e.g. an insurance provider in connection with your completion of an insurance quote form) (“Requested Service Providers”), such as by clicking “get your quotes” or other similar buttons at the end of a form, and we may be compensated for such disclosure.
+*   To any person who, in our reasonable judgment, is authorized to receive Your Information as your agent, including as a result of your business dealings with that person (for example, your attorney);
+*   To our third-party vendors so that they may provide support for our internal and business operations, including for the handling of data processing, data verification, data storage, market measurement, surveys, research, internal marketing, delivery of promotional, marketing and transaction materials, and our Services’ maintenance and security. These companies are authorized to Use Your Information only as necessary to provide these services to us and are contractually obligated to keep Your Information confidential;
+*   To third parties when you use our Services to request a quote, services, or information from one or more of those third parties (e.g. an insurance provider in connection with your completion of an insurance quote form) (“Requested Service Providers”), such as by clicking “get your quotes” or other similar buttons at the end of a form, and we may be compensated for such disclosure;
 *   To third parties when you engage in certain activities through our Services that are sponsored by them, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party, or electing to participate in contests, sweepstakes, games, market research or other programs sponsored or serviced, in whole or in part, by a third party. W hen we disclose Your Information to these third parties, we may be compensated, and Your Information will become subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of Your Information;
-*   To third parties that are interested in contacting you or providing offers to you that may be related to our Services or about products or services you may find of interest, and we may be compensated for such disclosure.
+*   To third parties that are interested in contacting you or providing offers to you that may be related to our Services or about products or services you may find of interest, and we may be compensated for such disclosure;
 *   As required by law or ordered by a court, regulatory, or administrative agency such as to comply with a subpoena, bankruptcy proceedings, or similar legal process;
-*   As we deem necessary, in our sole discretion, if we believe that you are violating any applicable law, rule or regulation, or are otherwise interfering with another’s rights or property, including, without limitation, our rights or property.
-*   If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency.
-*   To enforce our Terms of Use, this Privacy Policy, and any other applicable agreements and policies.
-*   To enforce or protect our rights.
+*   As we deem necessary, in our sole discretion, if we believe that you are violating any applicable law, rule or regulation, or are otherwise interfering with another’s rights or property, including, without limitation, our rights or property;
+*   If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency;
+*   To enforce our Terms of Use, this Privacy Policy, and any other applicable agreements and policies;
+*   To enforce or protect our rights;
 *   In connection with a Business Transfer, as defined below (see Business Transfers below). and
 *   To our affiliated companies (i.e., companies under common control or management with us).
 
