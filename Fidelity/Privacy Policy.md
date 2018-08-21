@@ -26,6 +26,7 @@ Search fidelity.com or get a quote
     *   Cash ManagementLog In Required
     *   BillPay Log In Required
     *   BillPay
+    *   Full ViewLog In Required
     *   Profile Log In Required
     *   Profile
     *   Account Features Log In Required
