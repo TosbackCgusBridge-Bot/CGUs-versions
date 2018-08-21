@@ -170,7 +170,7 @@ English–US &. Canada
     Remember me
     
     *   Forgot password
-    *   Create online accountOr sign in using:
+    *   Create online accountOr sign in using: Sign in to your account with Facebook
 *   My Account: Sign In • Join Now
 
 PRIVACY CENTER
