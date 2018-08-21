@@ -8,15 +8,25 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Insight Up to 75% Off
-    *   Weekend Wear: Pumps &. More Up to 60% Off
-    *   Stock Up: Face Masks Up to 85% Off
-    *   Up to 80% Off: Dresses, Sweaters &. More
-    *   Christopher Kon Up to 75% Off
-    *   Bedding Upgrade: Linens &. More Up to 80% Off
-    *   Gevril Watches Up to 85% Off
-    *   Men's Final Few Up to 75% Off
-    *   Men's Shoes Up to 65% Off
+    *   adidas
+    *   adidas Men
+    *   adidas Activewear &. More Up to 50% Off
+    *   adidas Men's Activewear
+    *   adidas Kids' Activewear Up to 50% Off
+    *   adidas Kids
+    *   Loveappella
+    *   New Arrivals from Alternative
+    *   Cape Robbin Shoes Under $40
+    *   Analili Up to 65% Off
+    *   Sky
+    *   Macadamia Natural Oil &. Professional Hair Care
+    *   Korean Beauty: Secret Key from $10
+    *   Wear Your Intention: Inspirational Jewelry from $15
+    *   Volcom
+    *   Kuwalla
+    *   Polarized Sun Starting at $15 ft. Steve Madden
+    *   Free Shipping: Hand-Painted Replicas
+    *   Poo-Pourri Bathroom Scents
     *   Max Studio
     *   Betsey Johnson &. Love...Ady Dresses
     *   Kendall &. Kylie Up to 60% Off
@@ -28,6 +38,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Keds Starting at $30
     *   Lysse Leggings &. More
     *   Matiko Up to 55% Off
+    
     *   Handcrafted in Colombia: Mishky Jewelry
     *   Handmade in Turkey: TMRW Studio Jewelry
     *   Bio Ionic Hair Tools
@@ -43,7 +54,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Prada Men's &. Women's Sun Up to 75% Off
     *   Go Couture Up to 80% Off
     *   Etienne Marcel
-    
     *   24/7 Comfort Starting at $15
     *   Trask Up to 65% Off
     *   Mirenesse Australia Up to 70% Off
@@ -53,74 +63,54 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Commando Lingerie
     *   Satva Yoga Under $30
     *   Vicenzo Leather
-    *   Candela
+    *   14K Gold Jewelry &. More Under $80
     *   Breuning Sterling Silver Jewelry Up to 60% Off
     *   Fall Outerwear Preview ft. Save the Duck
     *   Arka Tees Under $20
     *   Dr. Martens Men Up to 50% Off
     *   Free Shipping: LED Lighting &. More from $10
-    *   Threads 4 Thought
-    *   For the Family: Flip-Flops ft. Teva &. Havaianas
-    *   Back-to-School Essentials ft. CAD
-    *   Pre-Fall Essentials: Long Sleeve Tops Under $30
-    *   Collegiate Cool: Men's Shirts, Tees &. More
-    *   Z by Zella Girl
-    *   Tommy Bahama Men
-    *   Tommy Bahama
-    *   Tommy Bahama Swim
-    *   Tommy Bahama Luggage &. More
-    *   Transitional Staples: New Booties
-    *   Charles David Up to 70% Off
-    *   Brush On Block
-    *   Project Social T Under $25
-    *   CQbyCQ
-    *   Hudson London Up to 60% Off
-    *   Korean Beauty: JayJun &. VT Cosmetics
-    *   Under $30: Dresses Incl. Plus
-    *   OFRA Cosmetics
-    *   Men's Sun Under $50
     
+    *   Collegiate Cool: Men's Shirts, Tees &. More
+    *   Brush On Block
+    *   Korean Beauty: JayJun &. VT Cosmetics
+    *   OFRA Cosmetics
     *   Men's Loafers &. Slip-Ons Up to 60% Off
     *   Free Shipping: Luxe Faux Fur Accents
     *   Free Shipping: Photographic Wall Art &. More
-    *   Tommy Bahama Kids &. More
-    *   Vince Men Up to 55% Off
     *   D24K by D'OR Luxury Skin Care
-    *   Reebok Men
-    *   Reebok Men's Active Up to 50% Off
-    *   Gilded Age
     *   Free Shipping: Modern Accent Furniture &. More
     *   Free Shipping: Ultra-Soft Solid Bedding &. More
-    *   Rubie's Costumes
-    *   Jessica Simpson Baby
-    *   Cool Kicks: Kids' Shoes ft. Naturino
-    *   Minymo
-    *   Stock Up: Kids' Basics Starting at $7
-    *   T3 Hair Tools
     *   Free Shipping: Original Paintings &. Unique Works
     *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Sulfate-Free Hair Care from fave4
-    *   Estee Lauder
-    *   Le Creuset
-    *   Free Shipping: California Design Den by NMK Bedding
-    *   Andrew Marc Coats
-    *   Why Dress
-    *   Versatile Tabletop Organizers &. More from $10
-    *   Free Shipping: On-Trend Copper Barware &. More
-    *   Z By Zella Incl. Plus
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Invite These: Summer Party Sandals
-    *   Dress to Impress: Suits Under $250
+    *   Free Shipping: California Design Den by NMK Bedding
     *   Free Shipping: Fashion-Forward Wall Art &. More
     *   Free Shipping: Statement Rugs Up to 70% Off
-*   WomenShop Sale Events
-    
-    *   Insight Up to 75% Off
-    *   Weekend Wear: Pumps &. More Up to 60% Off
-    *   Stock Up: Face Masks Up to 85% Off
-    *   Up to 80% Off: Dresses, Sweaters &. More
+    *   Men's Shoes Up to 65% Off
     *   Christopher Kon Up to 75% Off
     *   Gevril Watches Up to 85% Off
+    *   Weekend Wear: Pumps &. More Up to 60% Off
+    *   Bedding Upgrade: Linens &. More Up to 80% Off
+    *   Men's Final Few Up to 75% Off
+    *   Stock Up: Face Masks Up to 85% Off
+    *   Up to 80% Off: Dresses, Sweaters &. More
+    *   Insight Up to 75% Off
+    *   Sulfate-Free Hair Care from fave4
+    *   Invite These: Summer Party Sandals
+    *   Dress to Impress: Suits Under $250
+*   WomenShop Sale Events
+    
+    *   adidas
+    *   adidas Activewear &. More Up to 50% Off
+    *   Loveappella
+    *   New Arrivals from Alternative
+    *   Cape Robbin Shoes Under $40
+    *   Analili Up to 65% Off
+    *   Sky
+    *   Macadamia Natural Oil &. Professional Hair Care
+    *   Korean Beauty: Secret Key from $10
+    *   Wear Your Intention: Inspirational Jewelry from $15
+    *   Polarized Sun Starting at $15 ft. Steve Madden
     *   Max Studio
     *   Betsey Johnson &. Love...Ady Dresses
     *   Kendall &. Kylie Up to 60% Off
@@ -136,6 +126,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bio Ionic Hair Tools
     *   Madeleine Maternity
     *   Prada Men's &. Women's Sun Up to 75% Off
+    
     *   Go Couture Up to 80% Off
     *   Etienne Marcel
     *   24/7 Comfort Starting at $15
@@ -144,68 +135,53 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   OnTwelfth
     *   MUK LUKS Starting at $15
     *   On-Trend Earrings &. More Starting at $15
-    
     *   Commando Lingerie
     *   Satva Yoga Under $30
     *   Vicenzo Leather
-    *   Candela
+    *   14K Gold Jewelry &. More Under $80
     *   Breuning Sterling Silver Jewelry Up to 60% Off
-    *   Threads 4 Thought
-    *   For the Family: Flip-Flops ft. Teva &. Havaianas
-    *   Back-to-School Essentials ft. CAD
-    *   Pre-Fall Essentials: Long Sleeve Tops Under $30
-    *   Tommy Bahama
-    *   Tommy Bahama Swim
-    *   Transitional Staples: New Booties
-    *   Charles David Up to 70% Off
     *   Brush On Block
-    *   Project Social T Under $25
-    *   CQbyCQ
-    *   Hudson London Up to 60% Off
     *   Korean Beauty: JayJun &. VT Cosmetics
-    *   Under $30: Dresses Incl. Plus
     *   OFRA Cosmetics
     *   D24K by D'OR Luxury Skin Care
-    *   T3 Hair Tools
+    *   Christopher Kon Up to 75% Off
+    *   Gevril Watches Up to 85% Off
+    *   Weekend Wear: Pumps &. More Up to 60% Off
+    *   Stock Up: Face Masks Up to 85% Off
+    *   Up to 80% Off: Dresses, Sweaters &. More
+    *   Insight Up to 75% Off
     *   Sulfate-Free Hair Care from fave4
-    *   Estee Lauder
-    *   Andrew Marc Coats
-    *   Why Dress
-    *   Z By Zella Incl. Plus
     *   Invite These: Summer Party Sandals
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Tech Accessories
+    *   Handbags
     *   Lingerie
     *   Accessories
     *   Watches
 *   MenShop Sale Events
     
-    *   Gevril Watches Up to 85% Off
-    *   Men's Final Few Up to 75% Off
-    *   Men's Shoes Up to 65% Off
+    *   adidas Men
+    *   adidas Men's Activewear
+    *   Volcom
+    *   Kuwalla
+    *   Polarized Sun Starting at $15 ft. Steve Madden
     *   Magnanni
     *   J Brand Men
     *   James Tattersall Up to 75% Off
     *   Prada Men's &. Women's Sun Up to 75% Off
+    
     *   Fall Outerwear Preview ft. Save the Duck
     *   Arka Tees Under $20
     *   Dr. Martens Men Up to 50% Off
-    *   For the Family: Flip-Flops ft. Teva &. Havaianas
-    
     *   Collegiate Cool: Men's Shirts, Tees &. More
-    *   Tommy Bahama Men
-    *   Tommy Bahama Luggage &. More
-    *   Men's Sun Under $50
     *   Men's Loafers &. Slip-Ons Up to 60% Off
-    *   Vince Men Up to 55% Off
-    *   Reebok Men
-    *   Reebok Men's Active Up to 50% Off
-    *   Gilded Age
+    *   Men's Shoes Up to 65% Off
+    *   Gevril Watches Up to 85% Off
+    *   Men's Final Few Up to 75% Off
     *   Dress to Impress: Suits Under $250
     
     Shop By Category
@@ -215,74 +191,65 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   adidas Kids' Activewear Up to 50% Off
+    *   adidas Kids
     *   Mini Melissa
     *   SOZO Up to 70% Off
     *   Madeleine Maternity
     *   Paulinie
     *   Swim Shop: Kids' Styles Starting at $10
     *   Tegu Blocks
-    *   For the Family: Flip-Flops ft. Teva &. Havaianas
-    
-    *   Z by Zella Girl
-    *   Tommy Bahama Kids &. More
-    *   Rubie's Costumes
-    *   Jessica Simpson Baby
-    *   Cool Kicks: Kids' Shoes ft. Naturino
-    *   Minymo
-    *   Stock Up: Kids' Basics Starting at $7
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Toys
-    *   Girls Sizes 7-16
     *   Girls' Shoes
     *   Baby Girl
     *   Baby Boy
+    *   Girls Sizes 7-16
     *   Boys Sizes 2T-7
     *   Boys Sizes 8-20
     *   Boys' Shoes
+    *   Toys
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   Bedding Upgrade: Linens &. More Up to 80% Off
+    *   Free Shipping: Hand-Painted Replicas
+    *   Poo-Pourri Bathroom Scents
     *   Energy Boost: Chargers, Phone Cases &. More
     *   Free Shipping: LED Lighting &. More from $10
     *   Free Shipping: Luxe Faux Fur Accents
     *   Free Shipping: Photographic Wall Art &. More
     *   Free Shipping: Modern Accent Furniture &. More
     *   Free Shipping: Ultra-Soft Solid Bedding &. More
-    *   Free Shipping: Original Paintings &. Unique Works
     
+    *   Free Shipping: Original Paintings &. Unique Works
     *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Le Creuset
-    *   Free Shipping: California Design Den by NMK Bedding
-    *   Versatile Tabletop Organizers &. More from $10
-    *   Free Shipping: On-Trend Copper Barware &. More
     *   Free Shipping: Down &. Memory Foam Essentials
+    *   Free Shipping: California Design Den by NMK Bedding
     *   Free Shipping: Fashion-Forward Wall Art &. More
     *   Free Shipping: Statement Rugs Up to 70% Off
+    *   Bedding Upgrade: Linens &. More Up to 80% Off
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
     *   Rugs
     *   Accent Furniture
-    *   Storage &. Cleaning
     *   Luggage &. Travel
+    *   Bath
     *   Outdoor Living
 *   BeautyShop Sale Events
     
-    *   Stock Up: Face Masks Up to 85% Off
+    *   Macadamia Natural Oil &. Professional Hair Care
+    *   Korean Beauty: Secret Key from $10
     *   Bio Ionic Hair Tools
     *   Mirenesse Australia Up to 70% Off
     *   Brush On Block
     *   Korean Beauty: JayJun &. VT Cosmetics
     *   OFRA Cosmetics
     *   D24K by D'OR Luxury Skin Care
-    *   T3 Hair Tools
+    *   Stock Up: Face Masks Up to 85% Off
     *   Sulfate-Free Hair Care from fave4
-    *   Estee Lauder
     
     Shop By Category
     *   Skin Care
