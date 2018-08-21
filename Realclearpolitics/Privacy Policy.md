@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Michael Kinsley_: The Simplest Reason to Oppose Brett Kavanaugh
+*   _Alfredo Ortiz_: Consumers Feel Better Than Ever Thanks to the Tax Cuts
     
-*   _Niall Stanage_: For Trump, This Week Has Been Anything But Sleepy
+*   _Bill Saporito_: Trump's Silly War Against Harley-Davidson
     
-*   _Andrew McCarthy_: Yanking of Brennan's Security Clearance Was Way Overdue
+*   _Jason Meister_: Why Trump Is Gaining Support Among African-Americans
     
-*   _Tim Weiner_: Trump Is Not a King
+*   _Siddique Malik_: Overly Cautious Dems Hurting Blue Wave
     
-*   _Rep. Todd Rokita_: Strzok Firing Is Another Step in Restoring Credibility of FBI
+*   _Jon Gabriel_: If Dems Keep Moving Left They're Going to Lose
     
-*   _Albert Hunt_: How the Republican Party Lost Its Way
+*   _Anne Helen Petersen_: Is Beto the Dem Texans Have Been Waiting For?
     
-*   _Adele Malpass_: Why Headwinds Facing Republicans Might Not Be So Strong
+*   _Kathryn Cora Hinderaker_: MN Senate Race Could Bolster GOP Firewall
     
-*   _Doug Wead_: How Google Shadowbans Conservative &. Pro-Trump Content
+*   _Mary Robinson_: Kofi Annan Will Inspire Generations
     
-*   _Doreen St. Felix_: Omarosa, the Tragic Narrator of Our Times
+*   _Michael Rubin_: Praise for Annan's Legacy Is Misplaced
     
-*   _Jack Phillips_: Despite Court Victory, I'm Still Under Attack for My Beliefs
+*   _Mya Frazier_: You Might Be Subsidizing Amazon's Power Bills
     
-*   _Matt Ford_: What Democrats Should Really Ask Brett Kavanaugh
+*   _Ryan Cooper_: The Musk Meltdown
     
-*   _Steve Baldwin_: Did Trump Save America?
+*   _David Ignatius_: Trump Takes Another Step Closer to the Abyss
     
-*   _Robert Samuelson_: Will Inflation Kill the Economy?
+*   _Peter Van Buren_: Brennan Doesn't Deserve a Security Clearance
     
-*   _Gail Collins_: The Bane That Is Betsy DeVos
+*   _Charles Blow_: Nixon, Clinton, and Trump
     
-*   _Liz Wolfe_: Identity Politics Are Destroying the Value of College Degrees
+*   _Kimberley Strassel_: The Washington Post's Misleading 'Fact Check' on Bruce Ohr
     
-*   _Timothy Dolan_: Confronting the Catholic Church's Scourge of Abuse
+*   _David Wasserman_: Why Even a Blue Wave Could Have Limited Gains
     
-*   _Sarah Jones_: Can the Catholic Church Reform From Within?
+*   _Sally Persons_: For Both Parties, Trump Seen as Key in Senate Races
     
-*   _Paul Saunders_: When 'Party Lines' Shape Reporting Instead of Facts
+*   _Anne McElvoy_: Dems Struggling to Make Sense of Socialist Surge
     
-*   _Amy Sorkin_: A Primer on Trump's Trouble With FBI, DOJ Couples
+*   _Newt Gingrich_: Dems Have No Idea What Demons They Are Unleashing
     
-*   _Gregg Jarrett_: Brennan Politicized and Weaponized False Intel vs. Trump
+*   _Bill Scher_: The Case for Nancy Pelosi
     
-*   _Frida Ghitis_: Trump's Flailing Efforts Against His Critics Are Doomed to Fail
+*   _Mark Joseph Stern_: Don McGahn Has Not Turned on Trump
     
-*   _Sean Spicer &. Tommy Hicks_: An Open Letter to the Colluding Press
+*   _Jonathan Turley_: Manafort Conviction Won't Add Firepower to Mueller Probe
     
-*   _Margaret Carlson_: Us Kids Knew Some Priests Were Monsters. So Did Bishops.
+*   _Andy Kroll_: Inside Trump's Judicial Takeover
     
-*   _Ramesh Ponnuru_: The Catholic Church Is in Denial, Still
+*   _David Horowitz_: Trump's Character and Trump's Presidency
     
 
 *   Previous
@@ -226,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   For Both Parties, Trump Seen as Key in Senate Races
+*   Minnesota Senate Race Could Bolster Republican Firewall
+*   Gaetz: When Did Rosenstein Learn Nellie Ohr Worked for Fusion GPS?
 *   After Stumbles, Trump and McConnell Forge Bond for Midterms
 *   Newspapers to Trump: We're Not Enemies of the People
-*   Kudlow at Cabinet Meeting: "We Are Crushing It" on Economy
-*   Trump Twitter Support Is a Boon in Republican Primaries
-*   Jeff Johnson Upsets Former Gov. Pawlenty in Minnesota Primary
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +247,27 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
-*   2018 Generic Congressional VotePew Research
-    *   Democrats46
-    *   Republicans39Democrats +7
-*   2018 Generic Congressional VoteReuters/Ipsos
-    *   Democrats45
-    *   Republicans36Democrats +9
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve44
-    *   Disapprove52Disapprove +8
+*   Michigan Senate - James vs. StabenowGravis
+    *   Stabenow51
+    *   James35Stabenow +16
+*   Michigan Governor - Schuette vs. WhitmerGravis
+    *   Whitmer52
+    *   Schuette37Whitmer +15
+*   New Mexico Senate - Rich vs. Heinrich vs. JohnsonEmerson
+    *   Heinrich39
+    *   Johnson21
+    *   Rich11Heinrich +18
+*   New Mexico Governor - Pearce vs. GrishamEmerson
+    *   Grisham42
+    *   Pearce40Grisham +2
 
 More Latest Polls In The News
 
+*   Noam Chomsky: In Most Of The World, Media Obsession With Trump-Russia Interference Story Is "A Joke"
+*   Paris Dennard vs. Phil Mudd: "Everyone In DC Knows" Consultants Get Paid More With Clearance
 *   James Clapper: John Brennan's Rhetoric "An Issue In And Of Itself" Now, "Subtle Like A Freight Train"
 *   Trump: I Like "Taking On Voices" Like John Brennan's, Now People Will Find Out Who He Is
 *   Brennan: "I Stand Very Much By" Accusing President Trump Of Treason. "He's Bringing This Country Down"
-*   NYT's Maggie Haberman: President Trump Is Not What He Seems. "This Is Something Of A Game To Him"
-*   Steve Schmidt: 40 Percent Of Americans Have Surrendered Their Intellectual Sovereignty To Donald Trump
 
 *   Politics
 *   Policy
