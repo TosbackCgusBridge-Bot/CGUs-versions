@@ -1,23 +1,6 @@
 Connexity
 
-*   Solutions
-    
-    *   hitwise
-    *   Overview
-    *   AudienceView
-    *   Online Intelligence
-    *   Research &. Data Solutions
-    
-    *   cpc listings
-    *   Retailer Listings
-    *   Retailer Site Monetization
-    *   Publisher Monetization
-    *   Google Shopping Ads
-*   About
-    *   Open Positions
-    *   Benefits
-    *   Team
-    *   Press
+*   Retailers Publishers Google Shopping Ads
 
 *   *   US
         *   UK
@@ -25,7 +8,6 @@ Connexity
         *   DE
         *   IT
     *   Login
-    
 *   Contact
 
 Toggle navigationblog navsite nav
@@ -227,4 +209,4 @@ Connexity
 
 Connexity® is a registered trademark of Connexity, Inc.
 
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JKMDBN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. SumoFocus Retriever
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JKMDBN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. loadingSumoFocus Retriever
