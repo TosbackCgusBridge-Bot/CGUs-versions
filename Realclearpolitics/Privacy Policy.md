@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Alfredo Ortiz_: Consumers Feel Better Than Ever Thanks to the Tax Cuts
+*   _Richard Cohen_: The Deep State Is About to Teach Trump a Lesson
     
-*   _Bill Saporito_: Trump's Silly War Against Harley-Davidson
+*   _Newt Gingrich_: Mueller's Fatal Mistake
     
-*   _Jason Meister_: Why Trump Is Gaining Support Among African-Americans
+*   _Stephen Hayes_: 'Truth Isn't Truth': The Trump Administration Motto
     
-*   _Siddique Malik_: Overly Cautious Dems Hurting Blue Wave
+*   _Alan Dershowitz_: Is 'The Truth' the Truth When It Comes to Prosecutors?
     
-*   _Jon Gabriel_: If Dems Keep Moving Left They're Going to Lose
+*   _Lily Geismer_: The Soccer Mom Strikes Back as Dems Seek Suburban Voters
     
-*   _Anne Helen Petersen_: Is Beto the Dem Texans Have Been Waiting For?
+*   _Karin McQuillan_: Nice Ladies Are Leaving the Democratic Party
     
-*   _Kathryn Cora Hinderaker_: MN Senate Race Could Bolster GOP Firewall
+*   _Kevin Rudd_: Could Trade War Lead to the Real Thing?
     
-*   _Mary Robinson_: Kofi Annan Will Inspire Generations
+*   _Steven Mosher_: The 21st Century May Not Belong to China After All
     
-*   _Michael Rubin_: Praise for Annan's Legacy Is Misplaced
+*   _Jerry Rogers_: Amazon Seeks to Dominate Government Contracting
     
-*   _Mya Frazier_: You Might Be Subsidizing Amazon's Power Bills
+*   _Lisa Miller_: David Hogg, After Parkland
     
-*   _Ryan Cooper_: The Musk Meltdown
+*   _Suzanne Fields_: Why People Are Listening to Jordan Peterson
     
-*   _David Ignatius_: Trump Takes Another Step Closer to the Abyss
+*   _Andrew McCarthy_: Mueller Shouldn't Even Ask Trump for an Interview
     
-*   _Peter Van Buren_: Brennan Doesn't Deserve a Security Clearance
+*   _John Avlon_: Trump's McCarthyism Charge Is Deeply Ironic
     
-*   _Charles Blow_: Nixon, Clinton, and Trump
+*   _David Bossie_: Bruce Ohr and the Anti-Trump Activities of Obama Officials
     
-*   _Kimberley Strassel_: The Washington Post's Misleading 'Fact Check' on Bruce Ohr
+*   _E.J. Dionne_: America Is Slouching Towards Autocracy
     
-*   _David Wasserman_: Why Even a Blue Wave Could Have Limited Gains
+*   _Mark Penn_: Only Courts Can Rein In 'King Rosenstein'
     
-*   _Sally Persons_: For Both Parties, Trump Seen as Key in Senate Races
+*   _Steven Thrasher_: N-Word Tape Wouldn't Tell Us Anything New About Trump
     
-*   _Anne McElvoy_: Dems Struggling to Make Sense of Socialist Surge
+*   _Patrice Onwuka_: Omarosa Can't Undermine Trump's Progress for Blacks
     
-*   _Newt Gingrich_: Dems Have No Idea What Demons They Are Unleashing
+*   _Julian Zelizer_: Keeping Pelosi Is the Right Answer for Democrats
     
-*   _Bill Scher_: The Case for Nancy Pelosi
+*   _Mary Linge_: CBS News Pollster Reveals Why a 'Blue Wave' Is Unlikely
     
-*   _Mark Joseph Stern_: Don McGahn Has Not Turned on Trump
+*   _Paul Krugman_: The Republican Party's Climate of Paranoia
     
-*   _Jonathan Turley_: Manafort Conviction Won't Add Firepower to Mueller Probe
+*   _Stephen Moore_: U.S. Left the Paris Accord, But Beats the Whining Signers
     
-*   _Andy Kroll_: Inside Trump's Judicial Takeover
+*   _Emily Atkin_: To Solve Climate Change, Modern Automobiles Must Die
     
-*   _David Horowitz_: Trump's Character and Trump's Presidency
+*   _Bill Zeiser_: When Is a Fact Check Not a Fact Check?
     
 
 *   Previous
@@ -230,7 +230,7 @@ RecommendedPolitics
 
 *   For Both Parties, Trump Seen as Key in Senate Races
 *   Minnesota Senate Race Could Bolster Republican Firewall
-*   Gaetz: When Did Rosenstein Learn Nellie Ohr Worked for Fusion GPS?
+*   FOX News' Steve Hilton Interviews Jordan Peterson
 *   After Stumbles, Trump and McConnell Forge Bond for Midterms
 *   Newspapers to Trump: We're Not Enemies of the People
 *   Presidential Job Approval
@@ -253,21 +253,21 @@ Latest PollsAll Polls
 *   Michigan Governor - Schuette vs. WhitmerGravis
     *   Whitmer52
     *   Schuette37Whitmer +15
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
 *   New Mexico Senate - Rich vs. Heinrich vs. JohnsonEmerson
     *   Heinrich39
     *   Johnson21
     *   Rich11Heinrich +18
-*   New Mexico Governor - Pearce vs. GrishamEmerson
-    *   Grisham42
-    *   Pearce40Grisham +2
 
 More Latest Polls In The News
 
+*   Schumer Dares Trump: You "Better Not Talk About Pardons" For Cohen And Manafort At Tonight's Rally, Or Ever
+*   U.S. Attorney: "As You Heard, Michael Cohen Pleads Guilty To 8 Felony Charges"
 *   Noam Chomsky: In Most Of The World, Media Obsession With Trump-Russia Interference Story Is "A Joke"
 *   Paris Dennard vs. Phil Mudd: "Everyone In DC Knows" Consultants Get Paid More With Clearance
 *   James Clapper: John Brennan's Rhetoric "An Issue In And Of Itself" Now, "Subtle Like A Freight Train"
-*   Trump: I Like "Taking On Voices" Like John Brennan's, Now People Will Find Out Who He Is
-*   Brennan: "I Stand Very Much By" Accusing President Trump Of Treason. "He's Bringing This Country Down"
 
 *   Politics
 *   Policy
