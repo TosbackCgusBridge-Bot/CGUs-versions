@@ -11,7 +11,6 @@
     *   *   The Economist brand family
         *   EuroFinance
         
-        *   Government brands
         *   Ideas People
         
         *   TVC
