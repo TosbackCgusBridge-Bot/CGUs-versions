@@ -53,10 +53,10 @@ Close Recent Searches Clear all Suggested Keywords Upload
 
 *   Videos
     *   Featured
+    *   Hottest
     *   Longest
     *   Comments
     *   Favorites
-    *   Hottest
     *   Views
     *   Votes
     *   Newest
@@ -96,13 +96,13 @@ Close Recent Searches Clear all Suggested Keywords Upload
     *   homemade
     *   italian
     *   massage
-    *   german
     *   brazzers
+    *   german
+    *   masturbation
     *   young
     *   arab
-    *   masturbation
-    *   interracial
     *   orgasm
+    *   interracial
     *   petite
     *   publicagent
     *   cumshot
@@ -804,7 +804,7 @@ Send Video Results For: Sort by: Relevance
 *   Favorites
 *   Featured
 *   Longest
-*   Magic
+*   Hottest
 *   Newest
 *   Rating
 *   Relevance
