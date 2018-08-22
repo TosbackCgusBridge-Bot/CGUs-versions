@@ -28,8 +28,6 @@ Skip to main content Online Trust Alliance
     *   Email Practices &. Reports
     *   Vision for Trust
     *   Advertising Integrity &. Fraud
-    *   OTA Members (Restricted)
-    *   Report a Site Vulnerability
     
     _▼_
 *   Best Practices
@@ -47,8 +45,7 @@ Skip to main content Online Trust Alliance
     _▼_
 *   Membership
     
-    *   Membership
-    *   OTA Members Portal (Log in Required)
+    *   Member Portal
     
     _▼_
 *   About Us
@@ -56,6 +53,7 @@ Skip to main content Online Trust Alliance
     *   Members
     *   History &. Overview
     *   Staff
+    *   Report a Site Vulnerability
     
     _▼_
 *   Blog
@@ -66,7 +64,7 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Home › Privacy Statement Privacy Statement
+Facebook Twitter LinkedIn Email Addthis Home › Privacy Statement Privacy Statement
 
 The Online Trust Alliance is now part of the Internet Society (ISOC) and governed by ISOC's Privacy Statement. As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here. Questions please email privacy@isoc.org.   
 
@@ -101,15 +99,36 @@ Tue, Dec 5, 2017 Will Uber Drive Us to Federal Breach Legislation ?
 
 The past six months we have witnessed an un-paralleled level of questionable business practices resulting from data breaches.  As trusted brands, Uber as well as Equifax and others, who have been entrusted with significant amounts of personal data have failed the American public.  The breach missteps and follies only continue.  Each time most within the security and privacy communities have rolled our eyes in disbelieve.
 
-More >>. Resources
+More >>. Main menu
 
-*   IoT Resources
-*   Data Breach &. Protection
-*   Email Practices &. Reports
-*   Vision for Trust
-*   Advertising Integrity &. Fraud
-*   OTA Members (Restricted)
-*   Report a Site Vulnerability
+*   Initiatives
+    *   Cyber Incident &. Breach Readiness
+    *   Online Trust Audit &. Honor Roll
+    *   Email Marketing &. Security
+    *   Internet of Things
+    *   Privacy
+    *   Public Policy
+*   Resources
+    *   IoT Resources
+    *   Data Breach &. Protection
+    *   Email Practices &. Reports
+    *   Vision for Trust
+    *   Advertising Integrity &. Fraud
+*   Best Practices
+*   Committees
+*   Newsroom
+    *   Press Releases
+    *   OTA In The News
+    *   Upcoming Events
+        *   Recent Events
+*   Membership
+    *   Member Portal
+*   About Us
+    *   Members
+    *   History &. Overview
+    *   Staff
+    *   Report a Site Vulnerability
+*   Blog
 
 Initiatives
 
@@ -129,15 +148,14 @@ Newsroom
 
 Membership
 
-*   Membership
-*   OTA Members Portal (Log in Required)
+*   Member Portal
 
 About Us
 
 *   Members
-    *   Members
 *   History &. Overview
 *   Staff
+*   Report a Site Vulnerability
 
  
 
