@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   21\. August 2018
+*   22\. August 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.331,30ǀ
+*   DAX 12.384,49ǀ
 *   Wetterǀ
 *   Schlagzeilenǀ
 
@@ -350,9 +350,9 @@ SPIEGEL GRUPPE
 *   SPIEGEL BIOGRAFIE
 *   Edition Wissen
 *   DER SPIEGEL
-*   Dein SPIEGEL
-*   SPIEGEL GESCHICHTE
 *   SPIEGEL WISSEN
+*   SPIEGEL GESCHICHTE
+*   Dein SPIEGEL
 *   UNI SPIEGEL
 *   SPIEGEL EXPEDITION
 *   Edition Geschichte
@@ -360,9 +360,9 @@ SPIEGEL GRUPPE
 *   SPIEGEL BIOGRAFIE
 *   Edition Wissen
 *   DER SPIEGEL
-*   Dein SPIEGEL
-*   SPIEGEL GESCHICHTE
 *   SPIEGEL WISSEN
+*   SPIEGEL GESCHICHTE
+*   Dein SPIEGEL
 *   UNI SPIEGEL
 
 12
@@ -394,4 +394,4 @@ Bitte prüfen Sie, ob Sie ähnliche Erweiterungen, Do-not-Track-Funktionen oder 
 
 Welche Bedeutung Werbung für SPIEGEL ONLINE hat, was wir für Ihre Sicherheit im Netz tun, wie unsere Redaktion arbeitet – Fragen und Antworten finden Sie hier.
 
-<div id="itnFKYyTZAa">. <div id="itnFKYyTZAb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
+<div id="AtyYiooWUCa">. <div id="AtyYiooWUCb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>. BESbswyBESbswyBESbswy
