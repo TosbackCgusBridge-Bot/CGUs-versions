@@ -169,6 +169,7 @@ Back to Mozilla Privacy Policy Mozilla Mozilla
 *   About
 *   Blog
 *   Contact Us
+*   Press Center
 *   Donate
 *   Contribute to this site
 *   Source code for this page
@@ -185,6 +186,7 @@ Firefox
 *   *   Twitter (@firefox)
     *   YouTube (firefoxchannel)
 
+*   Privacy
 *   Website Privacy Notice
 *   Cookies
 *   Legal
