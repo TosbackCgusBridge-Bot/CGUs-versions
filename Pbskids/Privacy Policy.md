@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-How to raise an emotionally resilient child. How to raise an emotionally resilient child. Read more.
+What parents should know about Common Core math. What parents should know about Common Core math. Learn more
 
 Toggle message bar
 
