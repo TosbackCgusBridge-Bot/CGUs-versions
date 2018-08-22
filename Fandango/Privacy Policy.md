@@ -325,9 +325,9 @@ Offers
     
     Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
     
-*   'Ant-Man and The Wasp' Gift With Purchase
+*   'Fantastic Beasts: The Crimes of Grindelwald' FanAlert Sweepstakes
     
-    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    You could win a trip to explore The Wizarding World of Harry Potter™ at Universal Parks &. Resorts™ in Orlando or Hollywood! ENTER NOW
     
 
 New + Coming soon
