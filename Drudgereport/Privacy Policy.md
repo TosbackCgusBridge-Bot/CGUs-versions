@@ -164,6 +164,10 @@ If you are a resident of the EEA or Switzerland, we respect your rights accordin
 
 LATEST ON TWITTER
 
+My week on Twitter : 5 Mentions, 54.9K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/IeOg…
+
+About 5 hours ago
+
 My week on Twitter : 5 Mentions, 1.25K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/W2bV…
 
 About 2 weeks ago
@@ -177,10 +181,6 @@ My week on Twitter : 1 Mention, 1.16K Mention Reach, 1 Like, 4 New Followers. Se
 About a month ago
 
 Getting In On The 2020 Election Campaigns. Here's What Publishers Need to Know! bit.ly/2N4mkWe via @adexchanger @Requidan
-
-About a month ago
-
-My week on Twitter : 3 Mentions, 54.5K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/Rxes…
 
 About a month ago
 
