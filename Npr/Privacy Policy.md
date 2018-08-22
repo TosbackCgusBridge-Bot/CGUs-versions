@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-Toggle initial options for NPR audio player ****Pick Your NPR Station**There are at least two stations nearby**Toggle more player options View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search
+Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On Air Now**Toggle more player options View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search
 
 *   NPR Home
 *   Set station
@@ -250,7 +250,7 @@ Back
 *   Set station
 *   **NPR** Shop
 
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9RKM5" height="0" width="0" style="display:none;visibility:hidden"></iframe>. **Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
+**Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
 
 *   **Facebook**
 *   **Twitter**
