@@ -1,5 +1,6 @@
 Aeropostale
 
+*   Open submenu ( New Arrivals ) New Arrivals
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
@@ -9,6 +10,37 @@ Aeropostale
 *   Help? - Contact Us Help? - Contact Us
 *   Sign Up/Login
 *   Refer a Friend
+
+Close submenu ( New Arrivals ) New Arrivals
+
+*   View Home
+*   Open submenu ( Girls ) Girls
+
+*   Open submenu ( Guys ) Guys
+
+Close submenu ( Girls ) Girls
+
+*   View All
+*   New Arrivals
+*   Flex Effects
+*   Knotted + Twisted
+*   Ripped + Repaired
+*   Lace Details
+*   Message Tees
+*   Go West
+*   Aviation Scents
+
+Close submenu ( Guys ) Guys
+
+*   View All
+*   New Arrivals
+*   Flex Effects
+*   Lounge
+*   Ripped + Repaired
+*   Camo Print
+*   Message Tees
+*   Layer Up
+*   Aviation Scents
 
 Close submenu ( Girls ) Girls
 
@@ -26,7 +58,6 @@ Close submenu ( Girls ) Girls
 *   Fragrance
 *   Shoes
 *   Extended Sizes
-*   Trending
 *   Clearance
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
@@ -100,7 +131,6 @@ Close submenu ( Guys ) Guys
 *   Cologne
 *   Clearance
 *   Extended Sizes
-*   Trending
 
 Close submenu ( Featured ) Featured
 
@@ -255,6 +285,34 @@ Close submenu ( Live Love Dream ) Live Love Dream
 
 Menu Find a Store Aeropostale
 
+*   New Arrivals
+    
+    *   View Home
+    *   Girls
+        *   View All
+        *   New Arrivals
+        *   Flex Effects
+        *   Knotted + Twisted
+        *   Ripped + Repaired
+        *   Lace Details
+        *   Message Tees
+        *   Go West
+        *   Aviation Scents
+    
+    *   Guys
+        *   View All
+        *   New Arrivals
+        *   Flex Effects
+        *   Lounge
+        *   Ripped + Repaired
+        *   Camo Print
+        *   Message Tees
+        *   Layer Up
+        *   Aviation Scents
+    
+    Shop Girls Shop Guys
+    
+    Shop Girls Shop Guys
 *   Girls
     
     *   View Home
@@ -305,7 +363,6 @@ Menu Find a Store Aeropostale
     *   Fragrance
     *   Shoes
     *   Extended Sizes
-    *   Trending
     *   Clearance
     
     *   Live Love Dream
@@ -359,7 +416,6 @@ Menu Find a Store Aeropostale
     *   Cologne
     *   Clearance
     *   Extended Sizes
-    *   Trending
 *   Jeans
     
     *   View Home
@@ -491,7 +547,7 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
 
 Refer a friend and get $15 off.
 
