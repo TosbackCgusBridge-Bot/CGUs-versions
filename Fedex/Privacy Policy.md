@@ -10,7 +10,7 @@ Your trust matters to us. That is why we protect your information and use it res
 
 Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from FedEx. We are committed to protecting your privacy and the security of your personal data. We have created this Privacy Notice to explain how FedEx collects and uses personal data.
 
-Global Privacy Policy Created with Sketch. FedEx Global Privacy Policy Global Privacy Policy FAQs FedEx Privacy Notice Privacy Notice FAQs WHAT?
+Global Privacy Policy Created with Sketch. Global Privacy Policy Global Privacy Policy FAQs Privacy Notice Privacy Notice FAQs WHAT?
 
 “Personal Data” is any information that can directly or indirectly be used to identify a natural person.  
 
