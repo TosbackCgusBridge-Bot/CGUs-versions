@@ -1,4 +1,4 @@
-New loyalty benefits are on the way! Until then, you may experience a temporary disruption accessing your account and other features. Thank you for your patience.  More details X Skip Main Navigation
+Skip Main Navigation
 
 expand
 
