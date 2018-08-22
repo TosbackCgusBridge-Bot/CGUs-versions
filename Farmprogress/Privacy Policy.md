@@ -1,4 +1,4 @@
-We use cookies to improve your website experience. To learn about our use of cookies and how you can manage your cookie settings, please see our Cookie Policy. By continuing to use the website, you consent to our use of cookies. × https://www.wallacesfarmer.com/sites/all/themes/penton\_subtheme\_wallacesfarmer/images/logos/footer.png Informa
+Informa
 
 Wallaces Farmer is part of the Global Exhibitions Division of Informa PLC
 
@@ -11,15 +11,16 @@ This site is operated by a business or businesses owned by Informa PLC and all c
 
 Discover:
 
+*   Quotes
+*   Weather
+*   Farmer Iron
+*   Iowa Farm Scene
+*   LISTEN: BASF Grow Smart Podcast
+*   LISTEN: Max Armstrong's Daily Updates
+*   WATCH: This Week in Agribusiness
+*   Advertise
 *   More
-    *   Quotes
-    *   Weather
-    *   Farmer Iron
-    *   Iowa Farm Scene
-    *   LISTEN: BASF Grow Smart Podcast
-    *   LISTEN: Max Armstrong's Daily Updates
-    *   WATCH: This Week in Agribusiness
-    *   Advertise
+    
 
 Menu Log In or Register
 
@@ -57,35 +58,8 @@ Menu Log In or Register
 *   Log In
 *   Register
 
-Recent Recent The other Monsanto chemical Bayer investors should watch Aug 20, 2018 FPS by the numbers Aug 20, 2018 Tyson to buy Keystone Foods for $2.5 billion Aug 17, 2018 Making global connections at Farm Progress Show Aug 17, 2018 Running a drone? How about insurance? Aug 17, 2018 Featured Scouting your crop insect pests Jun 12, 2018 I-LEAD program grows tomorrow’s ag leaders Jun 06, 2018 Improve soil biology to ease no-till planting Jun 11, 2018 Iowa farmland owners’ ages creep higher Jun 11, 2018 Top stories How well are you protected? Aug 20, 2018 Legal Issues: Keep these factors in mind as you review your farming operation’s liability insurance. Synching soybeans with rain Aug 20, 2018 Soybean Source: Timely late-season rain can rejuvenate a drought... Diversify your weed management Aug 18, 2018 Learn more about managing herbicide-resistant weeds at the 2018... Do you want to make a profit?
+Recent Recent Equipment maker launches new relationship, tools and tech Aug 21, 2018 The other Monsanto chemical Bayer investors should watch Aug 20, 2018 How well are you protected? Aug 20, 2018 FPS by the numbers Aug 20, 2018 Student team to display CY-ger tractor Aug 20, 2018 Featured Scouting your crop insect pests Jun 12, 2018 I-LEAD program grows tomorrow’s ag leaders Jun 06, 2018 Improve soil biology to ease no-till planting Jun 11, 2018 Iowa farmland owners’ ages creep higher Jun 11, 2018 Top stories Iowa developing Source Water Protection plans Aug 21, 2018 Iowa Learning Farms: Plans include goals and practices that prevent contaminants from entering public drinking water. Tips for harvesting high-quality corn silage Aug 21, 2018 Determining harvest moisture content is critical for making corn... New award recognizes ag educators Aug 21, 2018 Iowa FFA Foundation introduces an annual program to honor seven... Do you want to make a profit?
 
 This free guide from Penton Agriculture offers 5 ways to manage risk on the farm.
 
-GET IT NOW Student team to display CY-ger tractor Aug 20, 2018 Health and Safety Tent display information-filled Aug 20, 2018 market overviewMarkets:View All Commodities NEW Cash Grain Bids  
-Data provided by iNet Solutions Group, Inc. All prices delayed 10 minutes. Discover Cash Grain Bids in your areaGoBROUGHT TO YOU BY
-
-Sign up for the Wallaces Farmer Update newsletter.
-
-AfghanistanAland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCaribbean NetherlandsCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongo (Brazzaville)Congo (Kinshasa)Cook IslandsCosta RicaCroatiaCubaCuraçaoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHondurasHong Kong S.A.R., ChinaHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyIvory CoastJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacao S.A.R., ChinaMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorth KoreaNorwayOmanPakistanPalauPalestinian TerritoryPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussiaRwandaSaint BarthélemySaint HelenaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint MaartenSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwazilandSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluU.S. Virgin IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUnited States Minor Outlying IslandsUruguayUzbekistanVanuatuVaticanVenezuelaVietnamWallis and FutunaWestern SaharaYemenZambiaZimbabwe Sign Up
-
-Enter your email above to receive messages about offerings by Informa, its brands, affiliates and/or third-party partners, consistent with Informa's Privacy Statement.
-
-List Leave this field blank Today's weatherChange locationBROUGHT TO YOU BYWind66°F0%1 AM14 mph N65°F0%2 AM14 mph NNW64°F0%3 AM14 mph NNW63°F0%4 AM13 mph NNW63°F0%5 AM13 mph NNW63°F0%6 AM13 mph NNW63°F0%7 AM13 mph NNW65°F0%8 AM13 mph NNW67°F0%9 AM13 mph NNW69°F0%10 AM14 mph NNW71°F0%11 AM14 mph NNW73°F0%12 PM14 mph NNW75°F0%1 PM14 mph NNW75°F0%2 PM14 mph NNW75°F0%3 PM14 mph NNW76°F0%4 PM14 mph NNW75°F0%5 PM13 mph NNW74°F0%6 PM12 mph NNW73°F0%7 PM10 mph NNW71°F0%8 PM9 mph NNW69°F0%9 PM8 mph NNW67°F0%10 PM7 mph NNW66°F0%11 PM7 mph NNW65°F0%12 AM7 mph NNWsee detailed weather >. Energy NFU partners to expand use of American-grown fuels Aug 20, 2018 7 ag stories you might have missed this week - Aug. 10, 2018 Aug 10, 2018 Make your voice heard on E15, sign the petition Aug 10, 2018 Regulatory USDA invests $124 million to improve water infrastructure in 23 states Aug 20, 2018 EPA decision on dicamba formulation labels expected soon Aug 17, 2018 Judge reinstates WOTUS rule in 26 states Aug 17, 2018 Crops 7 ag stories you might have missed this week - Aug. 17, 2018 Aug 17, 2018 New network offers corn, soybean seed for 2019 Aug 17, 2018 Complete wheat genome sequence is ‘dream come true’ for Kansas farmers Aug 17, 2018 Soybean gall midge confirmed in 12 counties in Iowa Aug 17, 2018 Bale splitter keeps wrap, dumps out 2 halves Aug 17, 2018 Iowa Farm Scene Make your voice heard on E15, sign the petition Aug 10, 2018 Featured media Check out fair’s Top 11 events Jul 24, 2018 Slideshow: From new foods, exhibits, shows and activities to traditional favorites, the 2018 Iowa State Fair has something for everyone.
-
-*   The Farm Progress Network
-*   Leadership
-*   Marketing Solutions
-*   About
-*   Contact Us
-*   Advertise
-
-*   Ad Choices
-*   Sitemap
-*   Privacy Statement
-*   Terms of Service
-*   Cookie Policy
-*   Subscribe
-
-Follow us:
-
-© 2018 Informa USA, Inc., All Rights Reserved <img src="https://api.b2c.com/api/noscript-315re7h65uhsyo963dv.gif">.
+GET IT NOW Diversify your weed management Aug 18, 2018 Health and Safety Tent display information-filled Aug 20, 2018
