@@ -442,7 +442,6 @@ Click Here to View WebMD's Accreditation Seal >>
     *   eMedicineHealth
     *   RxList
     *   OnHealth
-    *   BootsWebMD
     *   WebMDRx
     *   First Aid
     *   WebMD Magazine
@@ -457,7 +456,6 @@ Click Here to View WebMD's Accreditation Seal >>
     *   Baby
     *   Allergy
     *   Medscape
-    *   TheHeart
     
     For Advertisers
     *   Advertise with Us
