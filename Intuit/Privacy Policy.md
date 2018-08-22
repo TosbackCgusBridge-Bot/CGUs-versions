@@ -11,28 +11,33 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAPHIC TEESShop All
+Find a StoreNear YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAPHIC TEESShop All
 
 *   LIMITED TIME SPECIAL!
     
-    $6.60 - $8.10 sale
+    $7.20 sale
     
-    was $22 - $27 Arizona SS Mineral Wash Top - Girls' 4-16 and Plus(2)Add To Cart
+    was $24 Arizona Short Sleeve Graphic T-Shirt-Juniors Plus(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $8.70 sale
+    $7.20 sale
     
-    was $29 Arizona Mesh Layered Graphic T-Shirt- Juniors PlusAdd To Cart
+    was $24 Arizona Short Sleeve Graphic T-Shirt-Juniors PlusAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $7.20 sale
+    
+    was $24 Arizona Short Sleeve Graphic T-Shirt-Juniors Plus(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $4.20 - $5.70 sale
     
-    was $14 - $19 Arizona Short Sleeve Graphic Ringer Tee - Girls' 4-16 &. Plus(1)Add To Cart
+    was $14 - $19 Arizona SS Graphic Tee - Girls' 4-16 and Plus(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $6.60 - $8.10 sale
+    $4.20 - $4.99 sale
     
-    was $22 - $27 Arizona Short Sleeve Cutout Graphic Tee - Girls' 4-16 &. Plus(1)Add To Cart
+    was $14 Arizona Short Sleeve Graphic T-Shirt Boys 4-20 - Husky(13)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $7.20 sale
@@ -42,12 +47,7 @@ Near YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAP
     
     $6.60 - $8.10 sale
     
-    was $22 - $27 Arizona Roll Sleeve Embroidered Tee - Girls' 4-16 &. PlusAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $4.20 - $5.70 sale
-    
-    was $14 - $19 Arizona Short Sleeve Graphic Tee - Girls' 4-16 &. Plus(4)Add To Cart
+    was $22 - $27 Arizona Short Sleeve Cutout Graphic Tee - Girls' 4-16 &. Plus(1)Add To Cart
 
 Shop and Save at JCPenney
 
