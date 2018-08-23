@@ -258,7 +258,7 @@ SALE ON SALE: TAKE AN EXTRA 50% OFF – SHOP NOW.
         *   Heels &. Wedges
         *   Hem Details
         *   Show Some Skin
-        *   Flower Power
+        *   School Shop
         
         *   Men's Trends
         
@@ -267,7 +267,7 @@ SALE ON SALE: TAKE AN EXTRA 50% OFF – SHOP NOW.
         *   Show Your Socks
         *   Dibs
         *   Street Style
-        *   Performance Apparel
+        *   Back To School
         *   Long Body
         *   Sports Team Gear
         *   Top It Off
@@ -464,7 +464,7 @@ Returns
 
 Promotions
 
-*   15% Off Your First Buckle Credit Card Purchase
+*   Thank You, Buckle Cardholders - 10% Off Credit Card Purchases
 *   All Promotions
 *   Store Events
 *   Military Discount
