@@ -66,7 +66,6 @@ Main menuSONY
     View AllNew Categories ›New Categories
     *   All New Categories Products ›
     *   Digital Paper
-    *   Future Lab Program
     *   Life Space UX
     *   Engagement App Development
     *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
@@ -152,7 +151,7 @@ PS VR
 
 Bend time to stay alive in futuristic #PSVR shooter Unearthing Mars 2, out September 18.
 
-6 days ago
+7 days ago
 
 View Tweet
 
