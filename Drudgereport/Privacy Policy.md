@@ -164,9 +164,9 @@ If you are a resident of the EEA or Switzerland, we respect your rights accordin
 
 LATEST ON TWITTER
 
-My week on Twitter : 5 Mentions, 54.9K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/IeOg…
+The latest by @Requidan -- Explosions Across Ad Tech: Signs Of Consolidation Or Growth? adexchanger.com/the-… @adexchanger
 
-About 5 hours ago
+About 10 hours ago
 
 My week on Twitter : 5 Mentions, 1.25K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/W2bV…
 
@@ -182,7 +182,7 @@ About a month ago
 
 Getting In On The 2020 Election Campaigns. Here's What Publishers Need to Know! bit.ly/2N4mkWe via @adexchanger @Requidan
 
-About a month ago
+About 2 months ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
