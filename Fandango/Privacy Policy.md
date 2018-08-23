@@ -72,8 +72,8 @@ GET YOUR $6 REWARD 2X FASTER. 2 tickets = $6 reward for a limited time only. Det
 *   Movie News Featured Movie News
     
     *   When and Where to Find this Fall's Big Awards Contenders Read More
-    *   Next 3 Monster Movies: 'Overlord,' 'Fantastic Beasts 2,' 'Hellboy' Read More
-    *   Mark Wahlberg's Next 3 Movies: 'Instant Family, 'Wonderland,' 'Mile 22' Sequel Possibility Read More
+    *   Michael Peña, Eva Longoria Join 'Dora the Explorer'. Here's Everything We Know Read More
+    *   'Crazy Rich Asians' Sequel on Its Way. Here's What We Know So Far Read More
     
     Explore Content
     *   Movie Reviews
@@ -325,9 +325,9 @@ Offers
     
     Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
     
-*   'Fantastic Beasts: The Crimes of Grindelwald' FanAlert Sweepstakes
+*   'Ant-Man and The Wasp' Gift With Purchase
     
-    You could win a trip to explore The Wizarding World of Harry Potter™ at Universal Parks &. Resorts™ in Orlando or Hollywood! ENTER NOW
+    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 
 New + Coming soon
