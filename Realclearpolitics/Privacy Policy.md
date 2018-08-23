@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -111,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Richard Cohen_: The Deep State Is About to Teach Trump a Lesson
+*   _Mollie Hemingway_: 6 Takeaways on Manafort &. Cohen's Legal Woes
     
-*   _Newt Gingrich_: Mueller's Fatal Mistake
+*   _E.J. Dionne_: Can Trump Survive?
     
-*   _Stephen Hayes_: 'Truth Isn't Truth': The Trump Administration Motto
+*   _Roger Kimball_: Mueller Will Stop at Nothing to Drive Trump From Office
     
-*   _Alan Dershowitz_: Is 'The Truth' the Truth When It Comes to Prosecutors?
+*   _Chuck Todd_: Paul Ryan Should Start Impeachment Proceedings Now
     
-*   _Lily Geismer_: The Soccer Mom Strikes Back as Dems Seek Suburban Voters
+*   _Andy Puzder_: Want More Power to the People? Choose Capitalism
     
-*   _Karin McQuillan_: Nice Ladies Are Leaving the Democratic Party
+*   _Jack Shafer_: Go Ahead, Ocasio-Cortez, Ban the Press
     
-*   _Kevin Rudd_: Could Trade War Lead to the Real Thing?
+*   _James Piereson_: Why Isn't Socialism a Hate Crime?
     
-*   _Steven Mosher_: The 21st Century May Not Belong to China After All
+*   _Ryan Cooper_: Democrats Caving to Kavanaugh
     
-*   _Jerry Rogers_: Amazon Seeks to Dominate Government Contracting
+*   _Roger L. Simon_: Social Media Companies Most Dangerous Monopolies Ever
     
-*   _Lisa Miller_: David Hogg, After Parkland
+*   _Jon Talton_: Google China Project a Battle for the Company's Soul
     
-*   _Suzanne Fields_: Why People Are Listening to Jordan Peterson
+*   _Victor Davis Hanson_: Was the Pre-Trump World Normal or Abnormal?
     
-*   _Andrew McCarthy_: Mueller Shouldn't Even Ask Trump for an Interview
+*   _Richard Wolffe_: Donald Trump's Reckoning Has Arrived
     
-*   _John Avlon_: Trump's McCarthyism Charge Is Deeply Ironic
+*   _George Neumayr_: A Collusion Probe That Has Nothing to Do With Collusion
     
-*   _David Bossie_: Bruce Ohr and the Anti-Trump Activities of Obama Officials
+*   _Harry Litman_: Michael Cohen Has Put a Target on Donald Trump's Back
     
-*   _E.J. Dionne_: America Is Slouching Towards Autocracy
+*   _Mark Penn_: Cohen's Plea Deal Is Prosecutor's Attempt to Set Up Trump
     
-*   _Mark Penn_: Only Courts Can Rein In 'King Rosenstein'
+*   _Ryan Lizza_: How Lanny Davis Is Wrangling Michael Cohen
     
-*   _Steven Thrasher_: N-Word Tape Wouldn't Tell Us Anything New About Trump
+*   _Steve Cortes_: Mainstream Media vs. Main Street USA
     
-*   _Patrice Onwuka_: Omarosa Can't Undermine Trump's Progress for Blacks
+*   _Jonathan Rauch_: Why Prosperity Has Increased But Happiness Has Not
     
-*   _Julian Zelizer_: Keeping Pelosi Is the Right Answer for Democrats
+*   _Jeff Jacoby_: Chelsea Clinton's Deep Thoughts on Abortion &. Economic Growth
     
-*   _Mary Linge_: CBS News Pollster Reveals Why a 'Blue Wave' Is Unlikely
+*   _Sally Persons_: WV Senate Race May Hinge on Trump's Coattails
     
-*   _Paul Krugman_: The Republican Party's Climate of Paranoia
+*   _Christopher Hooks_: The Battle for America's Soul Is Taking Place in Texas
     
-*   _Stephen Moore_: U.S. Left the Paris Accord, But Beats the Whining Signers
+*   _Michael Goodwin_: Cynthia Nixon Might Have One Trick Left Up Her Sleeve
     
-*   _Emily Atkin_: To Solve Climate Change, Modern Automobiles Must Die
+*   _Morton Kondracke_: The Media Are Missing a Movement
     
-*   _Bill Zeiser_: When Is a Fact Check Not a Fact Check?
+*   _Byron York_: Manafort Split Verdict Says Nothing on Trump, Russia, '16
     
 
 *   Previous
@@ -228,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   For Both Parties, Trump Seen as Key in Senate Races
+*   Cohen Pleads Guilty, Says He Paid Off Woman at Trump's Direction
+*   W.Va. Senate Race May Hinge on Trump's Coattails
+*   Davis: Trump Corrupted Our Democracy, Directed Cohen to Do Criminal Act
+*   "Scorched Earth" Spending in Wisconsin Governor's Race
 *   Minnesota Senate Race Could Bolster Republican Firewall
-*   FOX News' Steve Hilton Interviews Jordan Peterson
-*   After Stumbles, Trump and McConnell Forge Bond for Midterms
-*   Newspapers to Trump: We're Not Enemies of the People
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,27 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Michigan Senate - James vs. StabenowGravis
-    *   Stabenow51
-    *   James35Stabenow +16
-*   Michigan Governor - Schuette vs. WhitmerGravis
-    *   Whitmer52
-    *   Schuette37Whitmer +15
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
-*   New Mexico Senate - Rich vs. Heinrich vs. JohnsonEmerson
-    *   Heinrich39
-    *   Johnson21
-    *   Rich11Heinrich +18
+*   Wisconsin Senate - Vukmir vs. BaldwinMarquette
+    *   Baldwin49
+    *   Vukmir47Baldwin +2
+*   Florida Senate - Scott vs. NelsonFlorida Atlantic University
+    *   Scott45
+    *   Nelson39Scott +6
+*   New Jersey Senate - Hugin vs. MenendezQuinnipiac
+    *   Menendez43
+    *   Hugin37Menendez +6
+*   Minnesota Senate Special Election - Housley vs. SmithSuffolk\*
+    *   Smith44
+    *   Housley37Smith +7
 
 More Latest Polls In The News
 
-*   Schumer Dares Trump: You "Better Not Talk About Pardons" For Cohen And Manafort At Tonight's Rally, Or Ever
-*   U.S. Attorney: "As You Heard, Michael Cohen Pleads Guilty To 8 Felony Charges"
-*   Noam Chomsky: In Most Of The World, Media Obsession With Trump-Russia Interference Story Is "A Joke"
-*   Paris Dennard vs. Phil Mudd: "Everyone In DC Knows" Consultants Get Paid More With Clearance
-*   James Clapper: John Brennan's Rhetoric "An Issue In And Of Itself" Now, "Subtle Like A Freight Train"
+*   Warren to Tibbets Family: "This Is Hard" But We "Need" To Focus On "Real Problems" Like Family Separation
+*   Chuck Todd: A "Functional Washington" Would Be Looking For Ways To Draw Up Trump Impeachment Papers
+*   Dershowitz: Stormy Daniels Is A "Nothing" Case And "Sideshow," Avenatti's Predictions Rarely Come True
+*   Lanny Davis: Trump "Corrupted Our Democracy," He "Directed" Michael Cohen To Do A "Criminal Act"
+*   Scott Adams: Is Anyone Else Getting Tired Of Carl "This Is Worse Than Watergate" Bernstein?
 
 *   Politics
 *   Policy
