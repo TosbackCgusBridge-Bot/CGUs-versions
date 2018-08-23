@@ -6,20 +6,14 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   SHOP BY BRAND
     *   SHOP BY AGE
     
-    *   What’s New
-    *   Fan Faves
     *   Award Winners
     *   Baby Gear
     *   Baby Toys
-    
-    *   Playsets &. Action Figures
     *   Toy Cars, Trains &. Train Sets
-    *   Dolls, Dollhouses &. Accessories
     *   Ride-On Toys
-    *   Learning &. Educational Toys
     
+    *   Learning &. Educational Toys
     *   Building Toys
-    *   Musical Toys
     *   Role Play Toys
     *   Sports &. Outdoor Toys
     *   Apparel &. Bedroom
@@ -31,39 +25,36 @@ icon-arrow-down iconicon-arrow-fill-down iconicon-arrow-next iconicon-arrow-prev
     *   Everything Baby
     *   Little People®
     *   Thomas &. Friends™
-    *   Imaginext®
     *   Laugh &. Learn®
-    
     *   Think &. Learn
+    
     *   Loving Family™
     *   Little Mommy®
     *   Power Wheels®
-    *   MEGA BLOKS®
-    
-    *   Bright Beats™
     *   Jurassic World
     *   Disney
-    *   Shimmer and Shine™
-    *   Sunny Day
     
     *   Blaze and the Monster Machines™
     *   Octonauts™
     *   Grow-With-Me
     *   Bob the Builder™
-    *   Sesame Street
+    *   Barney &. Friends
+    
+    *   Alvin and the Chipmunks
+    *   Dora &. Friends™
+    *   Blonkers™
+    *   Tizzy Tongues™
+    *   Cleo &. Cuquin™
     
     See all
     
-    *   Baby on the Way
     *   Age Birth to 6 months
     *   Age 6-12 Months
-    *   Age 12-18 Months
     *   Age 18-24 Months
-    
     *   Age 2-3 Years
     *   Age 3-4 Years
-    *   Age 4-5 Years
-    *   Age 5+ YearsSee all
+    
+    *   Age 4-5 YearsSee all
 *   AGE-BY-AGE PLAYTIME GUIDE AGE-BY-AGE PLAYTIME GUIDE
     
     *   1 Month
