@@ -1,14 +1,9 @@
 Connexity
 
-*   Retailers Publishers Google Shopping Ads
-
-*   *   US
-        *   UK
-        *   FR
-        *   DE
-        *   IT
-    *   Login
-*   Contact
+*   Hitwise
+*   Connexity Commerce
+*   Shop Your Likes
+*   Press
 
 Toggle navigationblog navsite nav
 
@@ -67,8 +62,7 @@ If you have any questions or concerns about privacy at Connexity, please contact
 
 Our Sites are not designed or intended for use by children under 16;
 
-This Privacy Policy may change from time to time so please check this policy regularly. Any material changes will be notified to you by email as appropriate. and  
-Where you are based in the EU, you may have certain additional rights which are set out in section VIII below.
+This Privacy Policy may change from time to time so please check this policy regularly. Any material changes will be notified to you by email as appropriate. and Where you are based in the EU, you may have certain additional rights which are set out in section VIII below.
 
 I. What information do we collect about you and where do we collect it from?
 
@@ -160,28 +154,28 @@ If you are located in the European Union, in the event that you wish to make a c
 
 The details for each of these contacts are:
 
-Supervisory Authority  
-contact details Data Protection Representative  
-contact details Contact: Information Commissioner’s Office Attn: Data Protection Representative Postal  
-address: Wycliffe House  
+Supervisory Authority contact details Data Protection Representative contact details Contact: Information Commissioner’s Office Attn: Data Protection Representative Postal address: Wycliffe House  
 Water Lane  
 Wilmslow  
 Cheshire SK9 5AF  
-United Kingdom **United Kingdom**  
+United Kingdom
+
+**United Kingdom**  
 Connexity UK Ltd.  
 111 Buckingham Palace Rd., 4th Floor  
-London SW1WOSR  
+London SW1WOSR
+
 **Germany**  
 Connexity Europe GmbH  
 Ruschgraben 133  
-76139 Karlsruhe  
+76139 Karlsruhe
+
 **United States**  
 Connexity, Inc.  
 2120 Colorado Ave., Suite 400  
-Santa Monica, CA 90404 Email  
-enquiries: accessicoinformation@ico.org.uk legal@connexity.com or  
-dataprotection@connexity.com or  
-dataprotection@hitwise.com
+Santa Monica, CA 90404
+
+Email enquiries: accessicoinformation@ico.org.uk legal@connexity.com or dataprotection@connexity.com or dataprotection@hitwise.com
 
 EU individuals may direct any inquiries or complaints regarding our Privacy Shield compliance to Connexity’s Data Protection Representative contact above. Connexity will respond within 45 days. If you have an unresolved concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge), the International Centre for Dispute Resolution/American Arbitration Association, at http://go.adr.org/privacyshield.html. Finally, as a last resort and in limited situations, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel. Connexity’s commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
 
@@ -191,17 +185,24 @@ You acknowledge that we are a U.S.-based entity and that your data will be colle
 
 Copyright © Connexity, Inc. All Rights Reserved.
 
-Overview
-
-*   CPC Listings
-*   Hitwise
-
 Connexity
 
-*   Login
-*   Team
-*   Open Positions
-*   Press
+2120 Colorado Ave.
+
+Ste. 400
+
+Los Angeles, CA 90404
+
+(310) 571-1235
+
+Login Get Started Follow Us
+
+*   /Connexity
+*   /ConnexityInc
+*   /connexity
+*   /+ConnexityInc
+
+InquiriesContact Us
 
 <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=nuzib&p\_id=Twitter&tw\_sale\_amount=0&tw\_order\_quantity=0" />. <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn\_id=nuzib&p\_id=Twitter&tw\_sale\_amount=0&tw\_order\_quantity=0" />.
 
