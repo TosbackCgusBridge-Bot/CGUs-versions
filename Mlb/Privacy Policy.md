@@ -52,8 +52,8 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   This Date in History
     *   Pitching Matchups
     *   First Pitch
-    *   Fan Favorites
     *   The Catch &. Trading Bases
+    *   Fan Favorites
 *   Standings Standings Standings
     *   2018 Regular Season Standings
     *   2017 Regular Season Standings
@@ -72,8 +72,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
 *   Schedule Schedule Schedule
     *   2018 Regular Season
     *   2018 Postseason
-    *   2018 Spring Training
-    *   2017 Regular Season
+    *   2019 Regular Season
     *   Important Dates
     *   Team by Team Schedule
     *   National Broadcasts
