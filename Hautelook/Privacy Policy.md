@@ -8,14 +8,41 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   WILDFOX Starting at $30
-    *   Derek Lam 10 Crosby Up to 85% Off
-    *   ARATTA Up to 70% Off
+    *   tarte cosmetics
+    *   Dolce &. Gabbana Sunglasses Up to 70% Off
+    *   Level 99
+    *   Banjara
+    *   Splendid Up to 45% Off
+    *   Rainy Days: New Boots &. Umbrellas
+    *   Timeless Trenches: Raincoats &. More
+    *   Rain or Shine: Weatherproof Boots &. More
+    *   Rainy Day Wear: Men's Raincoats
+    *   Puddle Jumpers: New Kids' Rain Boots &. Coats
+    *   Isaac Mizrahi &. More Starting at $15
+    *   Melrose and Market Incl. Plus &. Petites
+    *   Lancaster Paris
+    *   W118 by Walter Baker Up to 75% Off
+    *   Love, Fire
+    *   Rachel Zoe Up to 80% Off
+    *   X by Gottex
+    *   Onia Swim &. More
+    *   Travis Mathew
+    *   JACK &. JONES Starting at $15
+    *   Giorgio Brutini Starting at $30
+    *   Wear to Work: Dress Shirts Starting at $30
+    *   Nautica Kids Under $20
+    *   Fall Dress Preview: Joe-Ella Up to 70% Off
+    *   Free Shipping: Luxe Bedding Up to 85% Off
+    *   Home Goals: Laundry Room Organizers &. More
     *   KitchenAid
     *   Nambe
     *   Make It Modern: Budget-Friendly Accent Furniture
+    
     *   Free Shipping: Colorful 8'x10' Area Rugs &. More
+    *   WILDFOX Starting at $30
+    *   ARATTA Up to 70% Off
     *   Vince Camuto Handbags &. Luggage
+    *   Derek Lam 10 Crosby Up to 85% Off
     *   Vanity Room
     *   Summer Statement Jewelry Starting at $15
     *   HYFVE
@@ -37,80 +64,60 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   School Supplies: Kids' Denim ft. True Religion
     *   Back to School: Girls' Brands We Love
     *   Back to School: Boys' Brands We Love
-    *   Max Studio
-    *   Betsey Johnson &. Love...Ady Dresses
-    
-    *   J.O.A. &. Moon River
-    *   Papillon Up to 80% Off
     *   adidas
     *   adidas Men
     *   adidas Activewear &. More Up to 50% Off
+    
     *   adidas Men's Activewear
     *   adidas Kids' Activewear Up to 50% Off
     *   adidas Kids
-    *   Loveappella
-    *   New Arrivals from Alternative
-    *   Cape Robbin Shoes Under $40
-    *   Analili Up to 65% Off
-    *   Sky
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Korean Beauty: Secret Key from $10
     *   Wear Your Intention: Inspirational Jewelry from $15
     *   Volcom
     *   Kuwalla
-    *   Polarized Sun Starting at $15 ft. Steve Madden
     *   Free Shipping: Hand-Painted Replicas
     *   Poo-Pourri Bathroom Scents
-    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
-    *   Mini Melissa
-    *   Handcrafted in Colombia: Mishky Jewelry
-    *   Handmade in Turkey: TMRW Studio Jewelry
     *   Bio Ionic Hair Tools
     *   Magnanni
     *   J Brand Men
     *   James Tattersall Up to 75% Off
-    *   SOZO Up to 70% Off
-    *   Madeleine Maternity
-    
-    *   Paulinie
-    *   Swim Shop: Kids' Styles Starting at $10
-    *   Tegu Blocks
     *   Energy Boost: Chargers, Phone Cases &. More
     *   Mirenesse Australia Up to 70% Off
-    *   Fall Outerwear Preview ft. Save the Duck
-    *   Arka Tees Under $20
-    *   Dr. Martens Men Up to 50% Off
     *   Free Shipping: LED Lighting &. More from $10
-    *   Brush On Block
-    *   Korean Beauty: JayJun &. VT Cosmetics
-    *   OFRA Cosmetics
     *   Free Shipping: Luxe Faux Fur Accents
     *   Free Shipping: Photographic Wall Art &. More
     *   Free Shipping: Modern Accent Furniture &. More
     *   Free Shipping: Ultra-Soft Solid Bedding &. More
-    *   Free Shipping: Original Paintings &. Unique Works
-    *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Free Shipping: Down &. Memory Foam Essentials
     *   Men's Shoes Up to 65% Off
-    *   Christopher Kon Up to 75% Off
-    *   Weekend Wear: Pumps &. More Up to 60% Off
     *   Bedding Upgrade: Linens &. More Up to 80% Off
     *   Men's Final Few Up to 75% Off
     *   Stock Up: Face Masks Up to 85% Off
-    *   Up to 80% Off: Dresses, Sweaters &. More
-    *   Insight Up to 75% Off
     *   Dress to Impress: Suits Under $250
-    *   Go Couture Up to 80% Off
-    *   Trask Up to 65% Off
-    *   14K Gold Jewelry &. More Under $80
+    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
 *   WomenShop Sale Events
     
+    *   tarte cosmetics
+    *   Dolce &. Gabbana Sunglasses Up to 70% Off
+    *   Level 99
+    *   Banjara
+    *   Splendid Up to 45% Off
+    *   Rainy Days: New Boots &. Umbrellas
+    *   Timeless Trenches: Raincoats &. More
+    *   Melrose and Market Incl. Plus &. Petites
+    *   Lancaster Paris
+    *   W118 by Walter Baker Up to 75% Off
+    *   Love, Fire
+    *   Rachel Zoe Up to 80% Off
+    *   X by Gottex
+    *   Onia Swim &. More
     *   WILDFOX Starting at $30
-    *   Derek Lam 10 Crosby Up to 85% Off
     *   ARATTA Up to 70% Off
     *   Vince Camuto Handbags &. Luggage
+    *   Derek Lam 10 Crosby Up to 85% Off
     *   Vanity Room
     *   Summer Statement Jewelry Starting at $15
+    
     *   HYFVE
     *   Raymond Weil Luxury Swiss Watches Up to 60% Off
     *   Born Starting at $40
@@ -121,69 +128,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Poolside Sun Starting at $15
     *   Jane Iredale Brushes
     *   Blend Mineral Cosmetics Up to 85% Off
-    *   Max Studio
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   J.O.A. &. Moon River
-    *   Papillon Up to 80% Off
     *   adidas
     *   adidas Activewear &. More Up to 50% Off
-    *   Loveappella
-    *   New Arrivals from Alternative
-    
-    *   Cape Robbin Shoes Under $40
-    *   Analili Up to 65% Off
-    *   Sky
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Korean Beauty: Secret Key from $10
     *   Wear Your Intention: Inspirational Jewelry from $15
-    *   Polarized Sun Starting at $15 ft. Steve Madden
-    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
-    *   Handcrafted in Colombia: Mishky Jewelry
-    *   Handmade in Turkey: TMRW Studio Jewelry
     *   Bio Ionic Hair Tools
-    *   Madeleine Maternity
     *   Mirenesse Australia Up to 70% Off
-    *   Brush On Block
-    *   Korean Beauty: JayJun &. VT Cosmetics
-    *   OFRA Cosmetics
-    *   Christopher Kon Up to 75% Off
-    *   Weekend Wear: Pumps &. More Up to 60% Off
     *   Stock Up: Face Masks Up to 85% Off
-    *   Up to 80% Off: Dresses, Sweaters &. More
-    *   Insight Up to 75% Off
-    *   Go Couture Up to 80% Off
-    *   Trask Up to 65% Off
-    *   14K Gold Jewelry &. More Under $80
+    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
     *   Handbags
-    *   Tech Accessories
+    *   Jewelry
     *   Accessories
     *   Lingerie
+    *   Tech Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Rain or Shine: Weatherproof Boots &. More
+    *   Rainy Day Wear: Men's Raincoats
+    *   Travis Mathew
+    *   JACK &. JONES Starting at $15
+    *   Giorgio Brutini Starting at $30
+    *   Wear to Work: Dress Shirts Starting at $30
     *   Spyder
     *   Raymond Weil Luxury Swiss Watches Up to 60% Off
     *   Alternative &. More Under $30
     *   Gordon Rush Up to 60% Off
     *   Bravado Concert Tees Starting at $15
+    
     *   Last Chance: Men's Sandals &. Slides
     *   adidas Men
     *   adidas Men's Activewear
     *   Volcom
     *   Kuwalla
-    
-    *   Polarized Sun Starting at $15 ft. Steve Madden
     *   Magnanni
     *   J Brand Men
     *   James Tattersall Up to 75% Off
-    *   Fall Outerwear Preview ft. Save the Duck
-    *   Arka Tees Under $20
-    *   Dr. Martens Men Up to 50% Off
     *   Men's Shoes Up to 65% Off
     *   Men's Final Few Up to 75% Off
     *   Dress to Impress: Suits Under $250
@@ -195,6 +180,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Puddle Jumpers: New Kids' Rain Boots &. Coats
+    *   Isaac Mizrahi &. More Starting at $15
+    *   Nautica Kids Under $20
+    *   Fall Dress Preview: Joe-Ella Up to 70% Off
     *   Kids' Character Faves: Harry Potter Tees &. More
     *   School Supplies: Kids' Denim ft. True Religion
     *   Back to School: Girls' Brands We Love
@@ -202,42 +191,32 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   adidas Kids' Activewear Up to 50% Off
     *   adidas Kids
     
-    *   Mini Melissa
-    *   SOZO Up to 70% Off
-    *   Madeleine Maternity
-    *   Paulinie
-    *   Swim Shop: Kids' Styles Starting at $10
-    *   Tegu Blocks
-    
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
     *   Boys Sizes 2T-7
     *   Boys Sizes 8-20
+    *   Boys' Shoes
     *   Girls' Shoes
     *   Baby Girl
     *   Baby Boy
-    *   Boys' Shoes
-    *   Toys
-    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Luxe Bedding Up to 85% Off
+    *   Home Goals: Laundry Room Organizers &. More
     *   KitchenAid
     *   Nambe
     *   Make It Modern: Budget-Friendly Accent Furniture
     *   Free Shipping: Colorful 8'x10' Area Rugs &. More
     *   Free Shipping: Hand-Painted Replicas
     *   Poo-Pourri Bathroom Scents
+    
     *   Energy Boost: Chargers, Phone Cases &. More
     *   Free Shipping: LED Lighting &. More from $10
-    
     *   Free Shipping: Luxe Faux Fur Accents
     *   Free Shipping: Photographic Wall Art &. More
     *   Free Shipping: Modern Accent Furniture &. More
     *   Free Shipping: Ultra-Soft Solid Bedding &. More
-    *   Free Shipping: Original Paintings &. Unique Works
-    *   Charging, Bluetooth &. Phone Accessories from $10
-    *   Free Shipping: Down &. Memory Foam Essentials
     *   Bedding Upgrade: Linens &. More Up to 80% Off
     
     Shop By Category
@@ -246,20 +225,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accent Furniture
     *   Rugs
     *   Kitchen &. Tabletop
+    *   Storage &. Cleaning
     *   Luggage &. Travel
     *   Bath
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   tarte cosmetics
     *   Jane Iredale Brushes
     *   Blend Mineral Cosmetics Up to 85% Off
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Korean Beauty: Secret Key from $10
     *   Bio Ionic Hair Tools
     *   Mirenesse Australia Up to 70% Off
-    *   Brush On Block
-    *   Korean Beauty: JayJun &. VT Cosmetics
-    *   OFRA Cosmetics
     *   Stock Up: Face Masks Up to 85% Off
     
     Shop By Category
