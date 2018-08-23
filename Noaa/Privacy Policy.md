@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Stern of World War II U.S. destroyer discovered off remote Alaskan island by NOAA-supported scientists AROUND NOAA // July 2018 was 4th warmest July on record for the globe NOAA forecasters lower Atlantic hurricane season prediction Teachers: Go back to school with NOAA NOAA red tide forecasts available for Florida and Texas \[EXT\]
+Enter Search Terms Powerful Hurricane Lane approaches main Hawaiian Islands Get the latest watches, warnings and track information AROUND NOAA // July 2018 was 4th warmest July on record for the globe Teachers: Go back to school with NOAA Stern of World War II U.S. destroyer discovered off remote Alaskan island by NOAA-supported scientists NOAA red tide forecasts available for Florida and Texas \[EXT\]
 
 *   About our agency
 *   News and features
