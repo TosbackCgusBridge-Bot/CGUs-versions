@@ -49,7 +49,7 @@
 
 *   $34,685 as shown1 2018 Tacoma $25,400 starting1  
     18/22 est MPG3 Build Specials
-*   $47,280 as shown1 2018 Tundra $31,320 starting1  
+*   $45,600 as shown1 2019 Tundra $31,420 starting1  
     15/19 est MPG3 Build Specials
 
 *   $26,000 as shown1 2019 C-HR $20,945 starting1  
@@ -64,8 +64,8 @@
     30/28 est MPG3 Build Specials
 *   $39,895 as shown1 2018 4Runner $34,810 starting1  
     17/21 est MPG3 Build Specials
-*   $54,540 as shown1 2018 Sequoia $48,600 starting1  
-    13/17 est MPG3 Build Specials
+*   $48,700 as shown1 2019 Sequoia $48,700 starting1  
+    13/17 est MPG18 Build Specials
 *   $84,765 as shown1 2019 Land Cruiser $84,765 starting1  
     13/18 est MPG19 Build Specials
 
@@ -95,10 +95,11 @@
 
 View All Vehicles
 
-*   Build &. Price
-*   Local Specials
-*   Search Inventory
-*   Kelley Blue Book Trade-In Value
+*   BUILD &. PRICE
+*   LOCAL SPECIALS
+*   SEARCH INVENTORY
+*   KELLEY BLUE BOOK  
+    TRADE-IN VALUE
 
 *   Request a Quote
 *   View Brochures
@@ -127,15 +128,15 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris $15,635 starting1
 67/67 est MPG13 $28,585 as shown1 2019 86 $26,455 starting1  
 21/28 est MPG18 $37,265 as shown1 2019 Sienna $31,115 starting1  
 19/27 est MPG21 Trucks $34,685 as shown1 2018 Tacoma $25,400 starting1  
-18/22 est MPG3 $47,280 as shown1 2018 Tundra $31,320 starting1  
+18/22 est MPG3 $45,600 as shown1 2019 Tundra $31,420 starting1  
 15/19 est MPG3 Crossovers &. SUVs $26,000 as shown1 2019 C-HR $20,945 starting1  
 27/31 est MPG19 $29,545 as shown1 2018 RAV4 $24,660 starting1  
 23/30 est MPG3 $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
 34/30 est MPG3 $41,750 as shown1 2018 Highlander $31,230 starting1  
 21/27 est MPG3 $48,480 as shown1 2018 Highlander Hybrid $36,870 starting1  
 30/28 est MPG3 $39,895 as shown1 2018 4Runner $34,810 starting1  
-17/21 est MPG3 $54,540 as shown1 2018 Sequoia $48,600 starting1  
-13/17 est MPG3 $84,765 as shown1 2019 Land Cruiser $84,765 starting1  
+17/21 est MPG3 $48,700 as shown1 2019 Sequoia $48,700 starting1  
+13/17 est MPG18 $84,765 as shown1 2019 Land Cruiser $84,765 starting1  
 13/18 est MPG19 Hybrids &. FCV $32,400 as shown1 2018 Camry Hybrid $27,950 starting1  
 51/53 est MPG3 $42,800 as shown1 2019 Avalon Hybrid $36,500 starting1  
 43/44 est MPG19 $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
@@ -150,10 +151,11 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris $15,635 starting1
 *   Español
 *   Owners
 
-*   Build &. Price
-*   Local Specials
-*   Search Inventory
-*   Kelley Blue Book Trade-In Value
+*   BUILD &. PRICE
+*   LOCAL SPECIALS
+*   SEARCH INVENTORY
+*   KELLEY BLUE BOOK  
+    TRADE-IN VALUE
 
 *   Request a Quote
 *   Find a Dealer
