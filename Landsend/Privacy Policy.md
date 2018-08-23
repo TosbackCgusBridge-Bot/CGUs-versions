@@ -44,6 +44,7 @@ menu Close 0 Free Shipping on $50+
     SHOP NEW COLLECTIONS
     
     *   Weather Channel Collection
+    *   The Heritage Collection
     
     BLOG
     *   The Journal
@@ -97,7 +98,8 @@ menu Close 0 Free Shipping on $50+
     WOMEN'S ACCESSORIES >. WOMEN'S BAGS >. FEATURED SHOPS
     *   New Arrivals
     *   The Starfish Collection
-    *   Tunic ShopWOMEN'S SALE >.
+    *   Tunic Shop
+    *   The Heritage CollectionWOMEN'S SALE >.
 *   Men SHOP BY SIZE RANGE
     
     *   Regular
@@ -110,6 +112,7 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
+    *   The Heritage Collection
     
     MEN'S SALE >. MEN'S CLOTHING >.
     
@@ -166,6 +169,7 @@ menu Close 0 Free Shipping on $50+
     *   Kids' Backpacks &. Lunch Boxes
     *   Kids' Iron Knees Pants
     *   School Uniforms
+    *   The Heritage Collection
     
     Kids' Sale>. Girls' Clothing>.
     
@@ -259,6 +263,7 @@ menu Close 0 Free Shipping on $50+
     *   Pouches &. Small Accessories
     *   Business &. Travel
     *   Diaper Bags
+    *   The Heritage Collection
     *   Sale
     
     CATEGORIES
@@ -278,6 +283,7 @@ menu Close 0 Free Shipping on $50+
     *   Hats, Gloves &. Scarves
     *   Long Underwear
     *   Weather Channel Collection
+    *   The Heritage Collection
     *   Sale
 *   School FIND YOUR SCHOOL>. FEATURED SHOPS
     
@@ -366,7 +372,8 @@ menu Close 0 Free Shipping on $50+
     DOG SHOP >. FEATURED SHOPS
     *   New Arrivals
     *   Supima Bedding &. Bath
-    *   Bedding BasicsHOME SALE >.
+    *   Bedding Basics
+    *   The Heritage CollectionHOME SALE >.
 *   Sale WOMEN'S SALE >.
     
     *   Regular
@@ -414,6 +421,7 @@ menu Close 0 Free Shipping on $50+
     *   SHOP NEW COLLECTIONS
         *   Back
         *   Weather Channel Collection
+        *   The Heritage Collection
     *   BLOG
         *   Back
         *   The Journal
@@ -478,6 +486,7 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   The Starfish Collection
         *   Tunic Shop
+        *   The Heritage Collection
     *   WOMEN'S SALE
 *   Men
     *   Back
@@ -493,6 +502,7 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
+        *   The Heritage Collection
     *   MEN'S SALE
     *   MEN'S CLOTHING
         *   Back
@@ -554,6 +564,7 @@ menu Close 0 Free Shipping on $50+
         *   Kids' Backpacks &. Lunch Boxes
         *   Kids' Iron Knees Pants
         *   School Uniforms
+        *   The Heritage Collection
     *   Kids' Sale
     *   Girls' Clothing
         *   Back
@@ -659,6 +670,7 @@ menu Close 0 Free Shipping on $50+
     *   Pouches &. Small Accessories
     *   Business &. Travel
     *   Diaper Bags
+    *   The Heritage Collection
     *   Sale
 *   Outerwear
     *   Back
@@ -669,6 +681,7 @@ menu Close 0 Free Shipping on $50+
         *   Hats, Gloves &. Scarves
         *   Long Underwear
         *   Weather Channel Collection
+        *   The Heritage Collection
         *   Sale
     *   Women
     *   Men
@@ -772,6 +785,7 @@ menu Close 0 Free Shipping on $50+
         *   New Arrivals
         *   Supima Bedding &. Bath
         *   Bedding Basics
+        *   The Heritage Collection
     *   HOME SALE
 *   Sale
     *   Back
@@ -869,7 +883,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Policy Last Updated: May 21, 2018
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
@@ -1111,4 +1129,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
