@@ -1,4 +1,4 @@
-Skip Main Navigation
+New loyalty benefits are here! Get helpful tips to the latest questions including easy steps to combine your accounts. Please visit status.marriott.com. X Skip Main Navigation
 
 expand
 
@@ -48,8 +48,9 @@ expand
 *   Site Map
 *   Contact Us
 
-English–US &. Canada
+THE RITZ CARLTON REWARDS Marriott Rewards Starwood Preferred Guest
 
+*   English–US &. Canada
 *   Collapsed Find &. Reserve Find a Hotel
     
     *   City search
