@@ -371,6 +371,8 @@ Español
 
 Français
 
+Bahasa Indonesia
+
 Italiano
 
 Português
