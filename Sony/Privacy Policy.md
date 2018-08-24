@@ -65,7 +65,9 @@ Main menuSONY
     
     View AllNew Categories ›New Categories
     *   All New Categories Products ›
+    *   Companion Robots
     *   Digital Paper
+    *   Future Experience Program
     *   Life Space UX
     *   Engagement App Development
     *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up
@@ -91,7 +93,23 @@ Main menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Your browser does not support JavaScript! Be Adventurous, Be Brave, Be Relentless, Be Inspired, Be Alpha
+search Your browser does not support JavaScript! No Matter What Kind of Day You've Had, aibo Is Ready to Play
+
+Unleash Wonder
+
+Close
+
+*   Share No Matter What Kind of Day You've Had, aibo Is Ready to Play on Facebook
+*   Share No Matter What Kind of Day You've Had, aibo Is Ready to Play on Twitter
+*   Copy URL to share No Matter What Kind of Day You've Had, aibo Is Ready to Play
+
+Play No Matter What Kind of Day You've Had, aibo Is Ready to Play Video
+
+Sony on YouTube - No Matter What Kind of Day You've Had, aibo Is Ready to Play
+
+Play No Matter What Kind of Day You've Had, aibo Is Ready to Play Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/aibo-600x600.jpg);" alt="aibo">. Be Adventurous, Be Brave, Be Relentless, Be Inspired, Be Alpha
 
 Welcome to the Future
 
@@ -107,39 +125,23 @@ Sony on YouTube - Be Adventurous, Be Brave, Be Relentless, Be Inspired, Be Alpha
 
 Play Be Adventurous, Be Brave, Be Relentless, Be Inspired, Be Alpha Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/BeAlpha-600x600\_GZeeMjw.jpg);" alt="Be Alpha">. Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken"
+<img class="bg-img" class="url(/en\_us/media/content/BeAlpha-600x600\_GZeeMjw.jpg);" alt="Be Alpha">. Here's to 500 Million PlayStation Consoles Sold
 
-Go to PlayStation.com to Find Out More
-
-Close
-
-*   Share Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" on Facebook
-*   Share Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" on Twitter
-*   Copy URL to share Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken"
-
-Play Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" Video
-
-Sony on YouTube - Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken"
-
-Play Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/Destiny2-600x600.jpg);" alt="Destiny 2 Forsaken Video">. "No Man's Sky" Gets a Massive Multi-Player Update
-
-Find Out About "Next"
+Learn About the Limited Edition PS4 Pro
 
 Close
 
-*   Share "No Man's Sky" Gets a Massive Multi-Player Update on Facebook
-*   Share "No Man's Sky" Gets a Massive Multi-Player Update on Twitter
-*   Copy URL to share "No Man's Sky" Gets a Massive Multi-Player Update
+*   Share Here's to 500 Million PlayStation Consoles Sold on Facebook
+*   Share Here's to 500 Million PlayStation Consoles Sold on Twitter
+*   Copy URL to share Here's to 500 Million PlayStation Consoles Sold
 
-Play "No Man's Sky" Gets a Massive Multi-Player Update Video
+Play Here's to 500 Million PlayStation Consoles Sold Video
 
-Sony on YouTube - "No Man's Sky" Gets a Massive Multi-Player Update
+Sony on YouTube - Here's to 500 Million PlayStation Consoles Sold
 
-Play "No Man's Sky" Gets a Massive Multi-Player Update Video hotspot
+Play Here's to 500 Million PlayStation Consoles Sold Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/no-mans-sky-screen-01-ps4-us-600x600.jpg);" alt="No Man&#39;s Sky NEXT Trailer">. Close
+<img class="bg-img" class="url(/en\_us/media/content/PS4Pro500Million-600x600.jpg);" alt="PS4 Limited Edition">. Close
 
 *   Share PS VR on Facebook
 *   Share PS VR on Twitter
@@ -149,87 +151,159 @@ PS VR
 
 <img class="bg-img" class="url(/en\_us/media/content/VR\_Headset-600x600\_KVgyveA.jpg);" alt="Playstation VR ">.
 
-Bend time to stay alive in futuristic #PSVR shooter Unearthing Mars 2, out September 18.
+Simplify your PlayStation setup and control your entertainment effortlessly with the new Cloud Remote for PS4.
 
-7 days ago
+37 minutes ago
 
 View Tweet
 
-View Aretha Franklin on Instagram
+View Xperia XZ2 Premium on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/43686116b471dc19a744d5ef7b88c1fe/5C0BF374/t51.2885-15/e35/38268667\_295025171275004\_7178118819636838400\_n.jpg);" alt="">. Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/9a575429b6adb74adfe858850299d697/5C35A53F/t51.2885-15/e35/39016303\_703125100025642\_2806886476556533760\_n.jpg);" alt="">. A Perfect Picture, No Matter How You View It
 
-Learn More
-
-Close
-
-*   Share Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro on Facebook
-*   Share Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro on Twitter
-*   Copy URL to share Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro
-
-Learn More
-
-<img class="bg-img" class="url(/en\_us/media/content/PS4ProSpiderManBundle-600x600\_Lk1aWrf.jpg);" alt="Spider-Man PS4 Pro">. Start Football Season Early With "Madden NFL 19" on PS4®
-
-Achieve Gridiron Greatness This Week
+Check Out the Z9F Master Series
 
 Close
 
-*   Share Start Football Season Early With "Madden NFL 19" on PS4® on Facebook
-*   Share Start Football Season Early With "Madden NFL 19" on PS4® on Twitter
-*   Copy URL to share Start Football Season Early With "Madden NFL 19" on PS4®
+*   Share A Perfect Picture, No Matter How You View It on Facebook
+*   Share A Perfect Picture, No Matter How You View It on Twitter
+*   Copy URL to share A Perfect Picture, No Matter How You View It
 
-Play Start Football Season Early With "Madden NFL 19" on PS4® Video
+Check Out the Z9F Master Series
 
-Sony on YouTube - Start Football Season Early With "Madden NFL 19" on PS4®
+<img class="bg-img" class="url(/en\_us/media/content/13-Z9F-600x600\_cMrnnYE.jpg);" alt="Z9F Television ">. How 13th Century Japan Was Recreated in the Upcoming "Ghost of Tsushima" Game
 
-Play Start Football Season Early With "Madden NFL 19" on PS4® Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/madden-nfl-19-screenshot-03-ps4-us-600x600.jpg);" alt="Madden 19 Trailer">. Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode
-
-Introducing the MASTER Series OLED Television
+See More Interviews With Our Game Developers
 
 Close
 
-*   Share Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode on Facebook
-*   Share Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode on Twitter
-*   Copy URL to share Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode
+*   Share How 13th Century Japan Was Recreated in the Upcoming "Ghost of Tsushima" Game on Facebook
+*   Share How 13th Century Japan Was Recreated in the Upcoming "Ghost of Tsushima" Game on Twitter
+*   Copy URL to share How 13th Century Japan Was Recreated in the Upcoming "Ghost of Tsushima" Game
 
-Play Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode Video
+Play How 13th Century Japan Was Recreated in the Upcoming "Ghost of Tsushima" Game Video
 
-Sony on YouTube - Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode
+Sony on YouTube - How 13th Century Japan Was Recreated in the Upcoming "Ghost of Tsushima" Game
 
-Play Watch Movies &. TV Shows How the Creators Intended With Our New Netflix Calibrated Mode Video hotspot
+Play How 13th Century Japan Was Recreated in the Upcoming "Ghost of Tsushima" Game Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/A9F\_AF9-600x600.png);" alt="A9F Master Series OLED ">. Is Calvin Harris' "One Kiss"
+<img class="bg-img" class="url(/en\_us/media/content/GhostofTsushima-600x600.jpg);" alt="Ghosts of Tsushima Interview">. For the Love of Prince: 37 Songs Now Available to Stream
 
-The Song of the Summer?
-
-Close
-
-*   Share Is Calvin Harris' "One Kiss" on Facebook
-*   Share Is Calvin Harris' "One Kiss" on Twitter
-*   Copy URL to share Is Calvin Harris' "One Kiss"
-
-Play Is Calvin Harris' "One Kiss" Video
-
-Sony on YouTube - Is Calvin Harris' "One Kiss"
-
-Play Is Calvin Harris' "One Kiss" Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/Calvin\_Harris\_-\_Photo\_Credit\_Conor\_McDonnell-600x600.jpg);" alt="Calvin Harris &quot;One Kiss&quot. video">. No Wires, No Noise
-
-All Music
+Listen Now
 
 Close
 
-*   Share No Wires, No Noise on Facebook
-*   Share No Wires, No Noise on Twitter
-*   Copy URL to share No Wires, No Noise
+*   Share For the Love of Prince: 37 Songs Now Available to Stream on Facebook
+*   Share For the Love of Prince: 37 Songs Now Available to Stream on Twitter
+*   Copy URL to share For the Love of Prince: 37 Songs Now Available to Stream
 
-All Music
+Listen Now
 
-<img class="bg-img" class="url(/en\_us/media/content/WH-C700N-600x600\_TWDCjfu.jpg);" alt="WH-CH700N Headphones">. Want to Borrow a Camera?
+<img class="bg-img" class="url(/en\_us/media/content/Prince-600x600\_cGXCrGW.jpg);" alt="Prince ">. Close
+
+*   Share RX100M6 on Facebook
+*   Share RX100M6 on Twitter
+*   Copy URL to share RX100M6
+
+RX100M6
+
+<img class="bg-img" class="url(/en\_us/media/content/DSC-RX100M6\_RX100-VI-600x600\_idA2SMB.jpg);" alt="RX100M6">.
+
+View Camila Cabello on Instagram
+
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/9336dc16e4d0d0b250f5f4a3248f8475/5BF83697/t51.2885-15/e35/38907499\_666974257002633\_740374468303519744\_n.jpg);" alt="">. No Wires, No Noise,
+
+No Distraction
+
+Close
+
+*   Share No Wires, No Noise, on Facebook
+*   Share No Wires, No Noise, on Twitter
+*   Copy URL to share No Wires, No Noise,
+
+No Distraction
+
+<img class="bg-img" class="url(/en\_us/media/content/WI-SP600N-600x600\_zd607BS.jpg);" alt="SP-600N Headphones ">. What If With the Flick of Your Hand,
+
+You Could Control a Screen?
+
+Close
+
+*   Share What If With the Flick of Your Hand, on Facebook
+*   Share What If With the Flick of Your Hand, on Twitter
+*   Copy URL to share What If With the Flick of Your Hand,
+
+Play What If With the Flick of Your Hand, Video
+
+Sony on YouTube - What If With the Flick of Your Hand,
+
+Play What If With the Flick of Your Hand, Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/Xperia\_Touch\_In\_Situation\_6-600x600.jpg);" alt="Xperia Touch">. Bring the Bass With You Everywhere—Even Under Water
+
+See the XB41 Wireless Speaker
+
+Close
+
+*   Share Bring the Bass With You Everywhere—Even Under Water on Facebook
+*   Share Bring the Bass With You Everywhere—Even Under Water on Twitter
+*   Copy URL to share Bring the Bass With You Everywhere—Even Under Water
+
+Play Bring the Bass With You Everywhere—Even Under Water Video
+
+Sony on YouTube - Bring the Bass With You Everywhere—Even Under Water
+
+Play Bring the Bass With You Everywhere—Even Under Water Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/SRS-XB41\_LIVESOUND-600x600.jpg);" alt=" XB41 Wireless Speaker">. John Cho Stars in a Revolutionary Thriller That's Told Via Everyday Tech Devices
+
+"Searching" Hits Theaters This Week
+
+Close
+
+*   Share John Cho Stars in a Revolutionary Thriller That's Told Via Everyday Tech Devices on Facebook
+*   Share John Cho Stars in a Revolutionary Thriller That's Told Via Everyday Tech Devices on Twitter
+*   Copy URL to share John Cho Stars in a Revolutionary Thriller That's Told Via Everyday Tech Devices
+
+Play John Cho Stars in a Revolutionary Thriller That's Told Via Everyday Tech Devices Video
+
+Sony on YouTube - John Cho Stars in a Revolutionary Thriller That's Told Via Everyday Tech Devices
+
+Play John Cho Stars in a Revolutionary Thriller That's Told Via Everyday Tech Devices Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/SRCH\_D12\_SET82\_John\_Cho\_PhotoCred\_Elizabeth\_Kitchens\_Clean\_clip\_7\_rv2-600x600.jpg);" alt="Searching Trailer">. The Season Finale of "Preacher" Is Finally Here
+
+Don't Miss It This Sunday
+
+Close
+
+*   Share The Season Finale of "Preacher" Is Finally Here on Facebook
+*   Share The Season Finale of "Preacher" Is Finally Here on Twitter
+*   Copy URL to share The Season Finale of "Preacher" Is Finally Here
+
+Play The Season Finale of "Preacher" Is Finally Here Video
+
+Sony on YouTube - The Season Finale of "Preacher" Is Finally Here
+
+Play The Season Finale of "Preacher" Is Finally Here Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/PRCH\_S3-600x600.jpg);" alt="Preacher Season Finale">. It's Back to School Time and It's Never Too Early to Learn to Code
+
+Learn About KOOV
+
+Close
+
+*   Share It's Back to School Time and It's Never Too Early to Learn to Code on Facebook
+*   Share It's Back to School Time and It's Never Too Early to Learn to Code on Twitter
+*   Copy URL to share It's Back to School Time and It's Never Too Early to Learn to Code
+
+Play It's Back to School Time and It's Never Too Early to Learn to Code Video
+
+Sony on YouTube - It's Back to School Time and It's Never Too Early to Learn to Code
+
+Play It's Back to School Time and It's Never Too Early to Learn to Code Video hotspot
+
+<img class="bg-img" class="url(/en\_us/media/content/KOOV-600x600\_CF2ZFNx.jpg);" alt="KOOV">. Want to Borrow a Camera?
 
 Find Out How
 
@@ -243,93 +317,17 @@ Find Out How
 
 <img class="bg-img" class="url(/en\_us/media/content/SSNYC-CameraLoanProgram-600x600\_0I8D8i1.jpg);" alt="Camera Loan at Sony Square NYC ">.
 
-View SSNYC Mobile Projector on Instagram
+View Dualshock Wireless Controllers on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/9c95b1724487446523ae94e1df05cdbc/5BFEA369/t51.2885-15/fr/e15/p1080x1080/37941959\_199439067594025\_6275328934674432000\_n.jpg);" alt="">. Immerse Yourself in a Different Dimension of Sound
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/5d7e48b9752edfa2fdc0701257ce537c/5C367ED0/t51.2885-15/e35/38507961\_1881596381887295\_7766424825454657536\_n.jpg);" alt="">. Close
 
-At Sony Square NYC
+*   Share Mp-CD1 Projector on Facebook
+*   Share Mp-CD1 Projector on Twitter
+*   Copy URL to share Mp-CD1 Projector
 
-Close
+Mp-CD1 Projector
 
-*   Share Immerse Yourself in a Different Dimension of Sound on Facebook
-*   Share Immerse Yourself in a Different Dimension of Sound on Twitter
-*   Copy URL to share Immerse Yourself in a Different Dimension of Sound
-
-At Sony Square NYC
-
-<img class="bg-img" class="url(/en\_us/media/content/SSNYC-600x600\_eFFhtJb.jpg);" alt="Sony Square NYC">. Is "Slender Man" Real or Just an Urban Legend?
-
-Find Out
-
-Close
-
-*   Share Is "Slender Man" Real or Just an Urban Legend? on Facebook
-*   Share Is "Slender Man" Real or Just an Urban Legend? on Twitter
-*   Copy URL to share Is "Slender Man" Real or Just an Urban Legend?
-
-Play Is "Slender Man" Real or Just an Urban Legend? Video
-
-Sony on YouTube - Is "Slender Man" Real or Just an Urban Legend?
-
-Play Is "Slender Man" Real or Just an Urban Legend? Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/SlenderMan-600x600.jpg);" alt="Slender Man Trailer">. How Dogs Became Man's Best Friend
-
-See "ALPHA" in Theaters This Week
-
-Close
-
-*   Share How Dogs Became Man's Best Friend on Facebook
-*   Share How Dogs Became Man's Best Friend on Twitter
-*   Copy URL to share How Dogs Became Man's Best Friend
-
-Play How Dogs Became Man's Best Friend Video
-
-Sony on YouTube - How Dogs Became Man's Best Friend
-
-Play How Dogs Became Man's Best Friend Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/ALpha-600x600.jpg);" alt="ALPHA Trailer">. See Why the RX0 Is Perfect for Video Blogging
-
-Find Out More
-
-Close
-
-*   Share See Why the RX0 Is Perfect for Video Blogging on Facebook
-*   Share See Why the RX0 Is Perfect for Video Blogging on Twitter
-*   Copy URL to share See Why the RX0 Is Perfect for Video Blogging
-
-Play See Why the RX0 Is Perfect for Video Blogging Video
-
-Sony on YouTube - See Why the RX0 Is Perfect for Video Blogging
-
-Play See Why the RX0 Is Perfect for Video Blogging Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/RX0Vlogging-600x600.jpg);" alt="RX0 Vlogging Video">.
-
-View Playstation Hits on Instagram
-
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/62ea78ff4f69dff2819023f4ecdeb6f2/5C094D26/t51.2885-15/e35/38081335\_2219702731595768\_1870539050037805056\_n.jpg);" alt="">. Close
-
-*   Share Venom Poster on Facebook
-*   Share Venom Poster on Twitter
-*   Copy URL to share Venom Poster
-
-Venom Poster
-
-<img class="bg-img" class="url(/en\_us/media/content/venom-600x600\_JHOzXCQ.jpg);" alt="Venom ">. Xperia Touch Makes Surfaces
-
-Touchscreens
-
-Close
-
-*   Share Xperia Touch Makes Surfaces on Facebook
-*   Share Xperia Touch Makes Surfaces on Twitter
-*   Copy URL to share Xperia Touch Makes Surfaces
-
-Touchscreens
-
-<img class="bg-img" class="url(/en\_us/media/content/08\_Xperia\_Touch\_Gaming-600x600\_FW2C2rJ.jpg);" alt="Xperia Touch">. You Bring Your Phone Everywhere So Find the Right One For You
+<img class="bg-img" class="url(/en\_us/media/content/MP-CD1\_600x600\_aCPrrtq.jpg);" alt="Mp-CD1 Projector">. You Bring Your Phone Everywhere So Find the Right One For You
 
 Meet the Xperia XZ2 Compact
 
