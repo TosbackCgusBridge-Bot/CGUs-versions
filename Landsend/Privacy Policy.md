@@ -165,7 +165,7 @@ menu Close 0 Free Shipping on $50+
     FEATURED SHOPS
     
     *   New Arrivals
-    *   Kids' Swim Shop
+    *   Kids' Outerwear Shop
     *   Kids' Backpacks &. Lunch Boxes
     *   Kids' Iron Knees Pants
     *   School Uniforms
@@ -175,7 +175,7 @@ menu Close 0 Free Shipping on $50+
     
     *   Girls' Backpacks
     *   Girls' Swimsuits
-    *   Girls' Outerwear
+    *   Girls' Coats &. Jackets
     *   Girls' Tops &. Tees
     *   Girls' Polos
     *   Girls' Sweaters
@@ -193,7 +193,7 @@ menu Close 0 Free Shipping on $50+
     Boys' Clothing>.
     *   Boys' Backpacks
     *   Boys' Swimsuits
-    *   Boys' Outerwear
+    *   Boys' Coats &. Jackets
     *   Boys' Tops &. Tees
     *   Boys' Polos
     *   Boys' Sweaters
@@ -314,7 +314,7 @@ menu Close 0 Free Shipping on $50+
     *   Skirts &. Skorts
     *   Blazers
     *   Activewear
-    *   Outerwear
+    *   Coats &. Jackets
     *   Shoes
     *   Accessories
     *   Backpacks &. Bags
@@ -326,7 +326,7 @@ menu Close 0 Free Shipping on $50+
     *   Shorts
     *   Blazers
     *   Activewear
-    *   Outerwear
+    *   Coats &. Jackets
     *   Shoes
     *   Accessories
     *   Backpacks &. Bags
@@ -560,7 +560,7 @@ menu Close 0 Free Shipping on $50+
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
-        *   Kids' Swim Shop
+        *   Kids' Outerwear Shop
         *   Kids' Backpacks &. Lunch Boxes
         *   Kids' Iron Knees Pants
         *   School Uniforms
@@ -571,7 +571,7 @@ menu Close 0 Free Shipping on $50+
         *   View All
         *   Girls' Backpacks
         *   Girls' Swimsuits
-        *   Girls' Outerwear
+        *   Girls' Coats &. Jackets
         *   Girls' Tops &. Tees
         *   Girls' Polos
         *   Girls' Sweaters
@@ -590,7 +590,7 @@ menu Close 0 Free Shipping on $50+
         *   View All
         *   Boys' Backpacks
         *   Boys' Swimsuits
-        *   Boys' Outerwear
+        *   Boys' Coats &. Jackets
         *   Boys' Tops &. Tees
         *   Boys' Polos
         *   Boys' Sweaters
@@ -719,7 +719,7 @@ menu Close 0 Free Shipping on $50+
         *   Skirts &. Skorts
         *   Blazers
         *   Activewear
-        *   Outerwear
+        *   Coats &. Jackets
         *   Shoes
         *   Accessories
         *   Backpacks &. Bags
@@ -732,7 +732,7 @@ menu Close 0 Free Shipping on $50+
         *   Shorts
         *   Blazers
         *   Activewear
-        *   Outerwear
+        *   Coats &. Jackets
         *   Shoes
         *   Accessories
         *   Backpacks &. Bags
@@ -858,9 +858,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 30% off your order!
 
-code: SUNNY pin: 8065 DETAILS
+code: STARFISH pin: 8421 DETAILS
 
 Customer Service Menu
 
@@ -1129,4 +1129,6 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>. sign up
+
+Privacy Policy &. Contact Info
