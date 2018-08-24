@@ -512,7 +512,6 @@ Business Support
 Account Support
 
 *   Check My Email
-*   View or Pay My Bill
 *   Help Understanding My Bill
 *   Check My Internet Speed Eligibility
 *   Seasonal Suspend &. Restore
