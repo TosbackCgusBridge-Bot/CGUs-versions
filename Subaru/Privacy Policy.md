@@ -339,6 +339,8 @@ Subaru Websites or Applications are not directed at children. If you are under 1
 
 All information posted on this site is intended for the US market only and will be interpreted and governed solely by US law. If you access this site from a location outside the US, you are responsible for compliance with all applicable non-US laws and regulations. Subaru distributes vehicles only in the United States (and excluding Hawaii).
 
+  
+
 **CALIFORNIA PRIVACY RIGHTS**
 
 Under California Civil Code Section 1798.83, also known as California's "Shine the Light Law," residents of California may request and receive, free of charge, a copy of Subaru's California Information Disclosure Notice for the previous calendar year. This Notice lists the third party entities with which Subaru shared Personal Information for the third parties' direct marketing purposes. To request this Notice, please go to the Contact Us page on this site.
