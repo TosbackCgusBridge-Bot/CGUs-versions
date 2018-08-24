@@ -8,18 +8,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   tarte cosmetics
-    *   Dolce &. Gabbana Sunglasses Up to 70% Off
-    *   Level 99
-    *   Banjara
-    *   Splendid Up to 45% Off
+    *   Dyson Up to 50% Off
+    *   BB Dakota
+    *   Cashmere Shop: M by Magaschoni &. More
+    *   ASTR the Label
+    *   CALPAK Luggage
+    *   Muche et Muchette
+    *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
+    *   Betsey Johnson Starting at $40
+    *   Donna Karan Active Starting at $15
+    *   Office Essentials: Styles Incl. Plus &. Petites
+    *   Ariat Up to 50% Off
+    *   Fall Favorites: Casually-Chic Bags
+    *   Josie &. Skarlett Blue
+    *   Cocktail Hour: Lauren Lorraine Up to 50% Off
+    *   Lost Ink Under $50
+    *   Parke &. Ronen
+    *   XRAY Up to 80% Off
+    *   Andrew Marc Shoes Up to 70% Off
+    *   Young &. Free
+    *   Stride Rite
+    *   Free Shipping: Modern Metallic Decor &. More
     *   Rainy Days: New Boots &. Umbrellas
     *   Timeless Trenches: Raincoats &. More
     *   Rain or Shine: Weatherproof Boots &. More
     *   Rainy Day Wear: Men's Raincoats
     *   Puddle Jumpers: New Kids' Rain Boots &. Coats
+    *   tarte cosmetics
+    
+    *   Dolce &. Gabbana Sunglasses Up to 70% Off
     *   Isaac Mizrahi &. More Starting at $15
+    *   Banjara
     *   Melrose and Market Incl. Plus &. Petites
+    *   Splendid Up to 45% Off
     *   Lancaster Paris
     *   W118 by Walter Baker Up to 75% Off
     *   Love, Fire
@@ -37,25 +58,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   KitchenAid
     *   Nambe
     *   Make It Modern: Budget-Friendly Accent Furniture
-    
     *   Free Shipping: Colorful 8'x10' Area Rugs &. More
-    *   WILDFOX Starting at $30
-    *   ARATTA Up to 70% Off
-    *   Vince Camuto Handbags &. Luggage
-    *   Derek Lam 10 Crosby Up to 85% Off
-    *   Vanity Room
     *   Summer Statement Jewelry Starting at $15
-    *   HYFVE
     *   Spyder
-    *   Raymond Weil Luxury Swiss Watches Up to 60% Off
-    *   Born Starting at $40
-    *   Sleek Shapewear &. More Up to 60% Off
-    *   On-Trend Bags ft. Izzy &. Ali
-    *   Catherine Catherine Malandrino Starting at $35
-    *   Kelsi Dagger Brooklyn Starting at $30
-    *   Poolside Sun Starting at $15
     *   Jane Iredale Brushes
     *   Blend Mineral Cosmetics Up to 85% Off
+    
     *   Alternative &. More Under $30
     *   Gordon Rush Up to 60% Off
     *   Bravado Concert Tees Starting at $15
@@ -64,79 +72,68 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   School Supplies: Kids' Denim ft. True Religion
     *   Back to School: Girls' Brands We Love
     *   Back to School: Boys' Brands We Love
-    *   adidas
-    *   adidas Men
-    *   adidas Activewear &. More Up to 50% Off
-    
     *   adidas Men's Activewear
-    *   adidas Kids' Activewear Up to 50% Off
-    *   adidas Kids
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Korean Beauty: Secret Key from $10
-    *   Wear Your Intention: Inspirational Jewelry from $15
     *   Volcom
     *   Kuwalla
     *   Free Shipping: Hand-Painted Replicas
     *   Poo-Pourri Bathroom Scents
     *   Bio Ionic Hair Tools
-    *   Magnanni
-    *   J Brand Men
-    *   James Tattersall Up to 75% Off
     *   Energy Boost: Chargers, Phone Cases &. More
-    *   Mirenesse Australia Up to 70% Off
     *   Free Shipping: LED Lighting &. More from $10
     *   Free Shipping: Luxe Faux Fur Accents
     *   Free Shipping: Photographic Wall Art &. More
-    *   Free Shipping: Modern Accent Furniture &. More
-    *   Free Shipping: Ultra-Soft Solid Bedding &. More
-    *   Men's Shoes Up to 65% Off
     *   Bedding Upgrade: Linens &. More Up to 80% Off
-    *   Men's Final Few Up to 75% Off
     *   Stock Up: Face Masks Up to 85% Off
-    *   Dress to Impress: Suits Under $250
-    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
+    *   ARATTA Up to 70% Off
+    *   Derek Lam 10 Crosby Up to 85% Off
+    *   Vanity Room
+    *   Raymond Weil Luxury Swiss Watches Up to 60% Off
+    *   Level 99
 *   WomenShop Sale Events
     
-    *   tarte cosmetics
-    *   Dolce &. Gabbana Sunglasses Up to 70% Off
-    *   Level 99
-    *   Banjara
-    *   Splendid Up to 45% Off
+    *   Dyson Up to 50% Off
+    *   BB Dakota
+    *   Cashmere Shop: M by Magaschoni &. More
+    *   ASTR the Label
+    *   CALPAK Luggage
+    *   Muche et Muchette
+    *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
+    *   Betsey Johnson Starting at $40
+    *   Donna Karan Active Starting at $15
+    *   Office Essentials: Styles Incl. Plus &. Petites
+    *   Ariat Up to 50% Off
+    *   Fall Favorites: Casually-Chic Bags
+    *   Josie &. Skarlett Blue
+    *   Cocktail Hour: Lauren Lorraine Up to 50% Off
+    *   Lost Ink Under $50
     *   Rainy Days: New Boots &. Umbrellas
     *   Timeless Trenches: Raincoats &. More
+    *   tarte cosmetics
+    *   Dolce &. Gabbana Sunglasses Up to 70% Off
+    *   Banjara
+    
     *   Melrose and Market Incl. Plus &. Petites
+    *   Splendid Up to 45% Off
     *   Lancaster Paris
     *   W118 by Walter Baker Up to 75% Off
     *   Love, Fire
     *   Rachel Zoe Up to 80% Off
     *   X by Gottex
     *   Onia Swim &. More
-    *   WILDFOX Starting at $30
-    *   ARATTA Up to 70% Off
-    *   Vince Camuto Handbags &. Luggage
-    *   Derek Lam 10 Crosby Up to 85% Off
-    *   Vanity Room
     *   Summer Statement Jewelry Starting at $15
-    
-    *   HYFVE
-    *   Raymond Weil Luxury Swiss Watches Up to 60% Off
-    *   Born Starting at $40
-    *   Sleek Shapewear &. More Up to 60% Off
-    *   On-Trend Bags ft. Izzy &. Ali
-    *   Catherine Catherine Malandrino Starting at $35
-    *   Kelsi Dagger Brooklyn Starting at $30
-    *   Poolside Sun Starting at $15
     *   Jane Iredale Brushes
     *   Blend Mineral Cosmetics Up to 85% Off
-    *   adidas
-    *   adidas Activewear &. More Up to 50% Off
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Korean Beauty: Secret Key from $10
-    *   Wear Your Intention: Inspirational Jewelry from $15
     *   Bio Ionic Hair Tools
-    *   Mirenesse Australia Up to 70% Off
     *   Stock Up: Face Masks Up to 85% Off
-    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
+    *   ARATTA Up to 70% Off
+    *   Derek Lam 10 Crosby Up to 85% Off
+    *   Vanity Room
+    *   Raymond Weil Luxury Swiss Watches Up to 60% Off
+    *   Level 99
     
     Shop By Category
     *   Clothing
@@ -144,34 +141,32 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Handbags
     *   Jewelry
     *   Accessories
-    *   Lingerie
     *   Tech Accessories
+    *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
+    *   Dyson Up to 50% Off
+    *   CALPAK Luggage
+    *   Parke &. Ronen
+    *   XRAY Up to 80% Off
+    *   Andrew Marc Shoes Up to 70% Off
     *   Rain or Shine: Weatherproof Boots &. More
     *   Rainy Day Wear: Men's Raincoats
     *   Travis Mathew
     *   JACK &. JONES Starting at $15
     *   Giorgio Brutini Starting at $30
+    
     *   Wear to Work: Dress Shirts Starting at $30
     *   Spyder
-    *   Raymond Weil Luxury Swiss Watches Up to 60% Off
     *   Alternative &. More Under $30
     *   Gordon Rush Up to 60% Off
     *   Bravado Concert Tees Starting at $15
-    
     *   Last Chance: Men's Sandals &. Slides
-    *   adidas Men
     *   adidas Men's Activewear
     *   Volcom
     *   Kuwalla
-    *   Magnanni
-    *   J Brand Men
-    *   James Tattersall Up to 75% Off
-    *   Men's Shoes Up to 65% Off
-    *   Men's Final Few Up to 75% Off
-    *   Dress to Impress: Suits Under $250
+    *   Raymond Weil Luxury Swiss Watches Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -180,6 +175,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Young &. Free
+    *   Stride Rite
     *   Puddle Jumpers: New Kids' Rain Boots &. Coats
     *   Isaac Mizrahi &. More Starting at $15
     *   Nautica Kids Under $20
@@ -188,56 +185,54 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   School Supplies: Kids' Denim ft. True Religion
     *   Back to School: Girls' Brands We Love
     *   Back to School: Boys' Brands We Love
-    *   adidas Kids' Activewear Up to 50% Off
-    *   adidas Kids
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
     *   Boys Sizes 2T-7
     *   Boys Sizes 8-20
-    *   Boys' Shoes
     *   Girls' Shoes
+    *   Boys' Shoes
     *   Baby Girl
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Dyson Up to 50% Off
+    *   CALPAK Luggage
+    *   Free Shipping: Modern Metallic Decor &. More
     *   Free Shipping: Luxe Bedding Up to 85% Off
     *   Home Goals: Laundry Room Organizers &. More
     *   KitchenAid
     *   Nambe
     *   Make It Modern: Budget-Friendly Accent Furniture
+    
     *   Free Shipping: Colorful 8'x10' Area Rugs &. More
     *   Free Shipping: Hand-Painted Replicas
     *   Poo-Pourri Bathroom Scents
-    
     *   Energy Boost: Chargers, Phone Cases &. More
     *   Free Shipping: LED Lighting &. More from $10
     *   Free Shipping: Luxe Faux Fur Accents
     *   Free Shipping: Photographic Wall Art &. More
-    *   Free Shipping: Modern Accent Furniture &. More
-    *   Free Shipping: Ultra-Soft Solid Bedding &. More
     *   Bedding Upgrade: Linens &. More Up to 80% Off
     
     Shop By Category
     *   Home Decor
+    *   Rugs
     *   Bedding
     *   Accent Furniture
-    *   Rugs
     *   Kitchen &. Tabletop
     *   Storage &. Cleaning
     *   Luggage &. Travel
     *   Bath
-    *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Dyson Up to 50% Off
     *   tarte cosmetics
     *   Jane Iredale Brushes
     *   Blend Mineral Cosmetics Up to 85% Off
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Korean Beauty: Secret Key from $10
     *   Bio Ionic Hair Tools
-    *   Mirenesse Australia Up to 70% Off
     *   Stock Up: Face Masks Up to 85% Off
     
     Shop By Category
