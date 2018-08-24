@@ -2,12 +2,12 @@ Skip to Main Content. Site navigation Fidelity.com Home
 
 *   Customer Service
 *   Open An Account
-*   Refer A Friend
+*   Profile
 *   Log In
 
 *   Customer Service
 *   Open An Account
-*   Refer A Friend
+*   Profile
 *   Log Out
 
 Search fidelity.com or get a quote
@@ -23,10 +23,12 @@ Search fidelity.com or get a quote
     *   Active Trader Pro
     *   Transfer Log In Required
     *   Transfer
-    *   Cash ManagementLog In Required
+    *   Cash Management Log In Required
+    *   Cash Management
     *   BillPay Log In Required
     *   BillPay
     *   Full ViewLog In Required
+    *   Full View
     *   Profile Log In Required
     *   Profile
     *   Account Features Log In Required
@@ -46,9 +48,9 @@ Search fidelity.com or get a quote
     *   Life Events
 *   News &. Research
     *   News
-    *   Watch ListLog In Required
+    *   Watch List Log In Required
     *   Quotes
-    *   AlertsLog In Required
+    *   Alerts Log In Required
     *   Mutual Funds
     *   Stocks
     *   Fixed Income, Bonds &. CDs
@@ -85,12 +87,12 @@ Search fidelity.com or get a quote
 
 *   Customer Service
 *   Open An Account
-*   Refer A Friend
+*   Profile
 *   Log In
 
 *   Customer Service
 *   Open An Account
-*   Refer A Friend
+*   Profile
 *   Log Out
 
 *   **Home**»
