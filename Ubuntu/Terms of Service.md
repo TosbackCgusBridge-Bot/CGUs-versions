@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   The Road to Kubernetes &. vSphere Integration ›
 *   Ubuntu Server development summary – 21 August 2018 ›
 *   Snapcraft at Europython 2018 ›
 *   Cloud Native, Docker, K8s Summit ›
 *   Ubuntu updates for L1 Terminal Fault vulnerabilities ›
-*   Retro Style Games on Linux ›
