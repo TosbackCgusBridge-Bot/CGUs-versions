@@ -51,10 +51,10 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Bottoms ) Bottoms
 
-*   Swim
 *   Dresses + Rompers
 *   Jackets
 *   Accessories
+*   Lifestyle + Beauty
 *   Fragrance
 *   Shoes
 *   Extended Sizes
@@ -66,9 +66,8 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   SWIM SALE
 *   3 for $12 Undies
-*   $2.87 Undies
+*   Buy 1 Get 2 Free Socks
 *   Uniform
 *   Denim Guide
 *   Flex Effects
@@ -125,7 +124,6 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Bottoms ) Bottoms
 
 *   Jackets
-*   Swim
 *   Accessories
 *   Underwear
 *   Cologne
@@ -176,6 +174,7 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
+*   $20 + Under
 *   Low Rise Jegging
 *   High Rise Ankle Jegging
 *   High Rise Jegging
@@ -192,6 +191,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
+*   $25 + Under
 *   Super Skinny
 *   Skinny
 *   Straight
@@ -251,6 +251,7 @@ Close submenu ( Girls ) Girls
 *   View All
 *   New to Clearance
 *   $9.99 + Under
+*   .99 Undies
 *   Tops
 *   Bottoms
 *   Dresses + Skirts
@@ -279,7 +280,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**ALL JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+**JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -319,9 +320,8 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   SWIM SALE
         *   3 for $12 Undies
-        *   $2.87 Undies
+        *   Buy 1 Get 2 Free Socks
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -356,10 +356,10 @@ Menu Find a Store Aeropostale
         *   Skirts
         
     
-    *   Swim
     *   Dresses + Rompers
     *   Jackets
     *   Accessories
+    *   Lifestyle + Beauty
     *   Fragrance
     *   Shoes
     *   Extended Sizes
@@ -410,7 +410,6 @@ Menu Find a Store Aeropostale
         
     
     *   Jackets
-    *   Swim
     *   Accessories
     *   Underwear
     *   Cologne
@@ -421,6 +420,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
+        *   $20 + Under
         *   Low Rise Jegging
         *   High Rise Ankle Jegging
         *   High Rise Jegging
@@ -436,6 +436,7 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
+        *   $25 + Under
         *   Super Skinny
         *   Skinny
         *   Straight
@@ -480,6 +481,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   New to Clearance
         *   $9.99 + Under
+        *   .99 Undies
         *   Tops
         *   Bottoms
         *   Dresses + Skirts
@@ -524,6 +526,7 @@ Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 *   Contact Us
 *   Help
 *   Coupon Page
+*   My Account
 
 Gift Cards
 
