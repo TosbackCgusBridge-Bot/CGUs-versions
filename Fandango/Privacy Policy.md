@@ -1,4 +1,4 @@
-GET YOUR $6 REWARD 2X FASTER. 2 tickets = $6 reward for a limited time only. Details Gift Cards | Offers | Sign In Sign Out
+THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details Gift Cards | Offers | Sign In Sign Out
 
 *   Fandango
 *   Go
@@ -72,8 +72,8 @@ GET YOUR $6 REWARD 2X FASTER. 2 tickets = $6 reward for a limited time only. Det
 *   Movie News Featured Movie News
     
     *   When and Where to Find this Fall's Big Awards Contenders Read More
-    *   Michael Peña, Eva Longoria Join 'Dora the Explorer'. Here's Everything We Know Read More
-    *   'Crazy Rich Asians' Sequel on Its Way. Here's What We Know So Far Read More
+    *   ‘Fantastic Beasts’ Set Visit: A Guide to the Wizarding World of France From ‘The Crimes of Grindelwald’ Read More
+    *   Watch New, Disturbing, Unsettling 'Suspiria' Trailer. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -317,10 +317,6 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   MILLIONS OF HAPPY MOVIEGOERS SERVED
-    
-    And, for a limited time, we're upping the happy. GET YOUR $6 VIP+ REWARD 2X FASTER! BUY TICKETS
-    
 *   'Mission: Impossible - Fallout' Gift With Purchase
     
     Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
