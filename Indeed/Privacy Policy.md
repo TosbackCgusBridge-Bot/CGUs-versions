@@ -10,6 +10,7 @@ Find JobsCompany ReviewsFind SalariesFind ResumesEmployers / Post Job Upload you
 *   Indeed Assessments Terms
 *   Indeed Prime Terms
 *   Indeed Targeted Ads Terms
+*   Indeed for Chrome Terms
 *   Indeed Vulnerability Reward Program
 
 Cookie Policy
@@ -90,7 +91,7 @@ From time to time, it may be necessary for us to change this cookie policy. We s
 
 Privacy Policy
 
-Last Updated: Aug 14, 2018
+Last Updated: Aug 23, 2018
 
 **1\. Introduction**
 
@@ -136,7 +137,7 @@ We collect data from you when you create an Indeed account, request information,
 
 **_– Through Your Activity on Indeed_**
 
-In addition, as part of the standard operation of the Site, Indeed may collect and analyze information from your computer or mobile device and actions taken on the Site, including, but not limited to, your resume, your searches on Indeed, the titles of jobs you search, click on or apply to, where those jobs are located, salary interest or experience, the general salary range or experience level of the jobs you view (where indicated), your activity time on the Site and each page, page views, clicks, taps, session activity, browser type, operating system, type of device, MAC address, IP address and the domain name from which you accessed the Site.
+In addition, as part of the standard operation of the Site, Indeed may collect and analyze information from your computer or mobile device and actions taken on the Site, including, but not limited to, your resume, your searches on Indeed, the titles of jobs you search, click on or apply to, where those jobs are located, salary interest or experience, the general salary range or experience level of the jobs you view (where indicated), your activity time on the Site and each page, page views, clicks, taps, session activity, browser type, operating system, type of device, MAC address, IP address and the domain name from which you accessed the Site. When you submit a photo to Job Spotter, this may include the provision of the location data of where the photo was taken. Indeed seeks your consent at the time of such provision, and such processing will only be performed where consent is secured. 
 
 **_– When Using Automated Phone Screening_**
 
@@ -198,7 +199,7 @@ A third ground relied upon for certain types of processing is that it is necessa
 
 **_– Consent_**
 
-Finally, in certain limited situations, Indeed relies on your consent in order to process your Personal Data. Where Indeed requires your consent in order to collect and process certain Personal Data, we seek your consent at the time of provision, and such processing will only be performed where consent is secured. For example, your consent will be sought where you provide your location when you use Indeed’s Job Spotter, or in certain instances where you initiate a job alert with Indeed (detailed in section 4 of this Privacy Policy).
+Finally, in certain limited situations, Indeed relies on your consent in order to process your Personal Data. Where Indeed requires your consent in order to collect and process certain Personal Data, we seek your consent at the time of provision, and such processing will only be performed where consent is secured. For example, your consent will be sought where you provide your location when you use Indeed’s Job Spotter, or in certain instances where you initiate a job alert with Indeed (detailed in section 4 of this Privacy Policy). You can withdraw your consent by clicking unsubscribe (or an equivalent action) where appropriate, or by sending an email to privacy-dept @ indeed.com.
 
 **3\. Limitation of Use or Disclosure of Personal Data**
 
@@ -362,6 +363,10 @@ When users post content on Indeed in a manner that is intended to make that cont
 
 You may also use certain third-party sites or services that you link to from Indeed’s Site. In such cases, all information you provide to a third party is provided to that third party and not to Indeed, and is subject to the third-party’s privacy policy and terms of service. Please see section 8 of this Privacy Policy titled Links to Third-Party Sites for more information.
 
+**_– Referrals_**
+
+If you apply to a job using a unique referral link provided to you by an individual from the  Employer company to which you are applying, the individual at the Employer company who is associated with that referral link will be notified once you apply. This allows that individual to add details as part of your referral process in regards to a given job application.
+
 **_– Transfers of Personal Data for individuals in the EU and Switzerland_**
 
 Please see sections 11 and 12 of this Privacy Policy for information related to this.
@@ -481,6 +486,8 @@ The Site is made available for use only by individuals searching for employment
 
 We may change this Agreement by notifying you of such changes by any reasonable means, including by posting a revised Agreement through the Site. Any such changes will not apply to any claim brought prior to the date on which we posted the revised Agreement incorporating such changes, or otherwise notified you of such changes. Your access to or use of the Site following any changes to this Agreement will constitute your acceptance of such changes. The “_Last Updated_” legends in each section of the terms and conditions indicate when this Agreement was last changed. We may, at any time and without liability, modify or discontinue all or part of the Site (including access to the Site via any third-party links). charge, modify or waive any fees required to use the Site. or offer opportunities to some or all Site users.
 
+We are committed to ensuring that there is no modern slavery or human trafficking in our supply chains or in any part of our business. For our full Modern Slavery Act statement, please click here.
+
 This Agreement hereby incorporates by this reference any additional terms and conditions posted by Indeed through the Site, or otherwise made available to you by Indeed. In particular:
 
 *   If you access or use the Indeed Ads Program, you are agreeing to be bound by the Indeed Ads Program Terms
@@ -492,7 +499,7 @@ This Agreement hereby incorporates by this reference any additional terms and co
 
 Indeed General Terms of Service
 
-Last Updated: August 16, 2018.
+Last Updated: August 23, 2018.
 
 **A.** The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.
 
@@ -1107,6 +1114,30 @@ You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, li
 
 \*For the purposes of this Agreement, the Asia-Pacific Region is defined as the following countries and territories: American Samoa, Antarctica, Australia, Bangladesh, Bhutan, Brunei, Cambodia, China, Christmas Island, Cocos Islands, Cook Islands, East Timor, Fiji, French Polynesia, French Southern Territories, Guam, Heard Island and McDonald Islands, Hong Kong, Indonesia, Japan, Kiribati, Laos, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, South Georgia and the South Sandwich Islands, South Korea, Sri Lanka, Taiwan, Thailand, Tokelau, Tonga, Tuvalu, Vanuatu, Vietnam, Wallis and Futuna.
 
+H. Indeed for Chrome Terms
+
+Last Updated: August 23, 2018
+
+1. **Introduction**
+
+Indeed for Chrome Terms (“IC Terms”) form a part of, and are incorporated into, the Indeed Terms of Service (the “Agreement”). By using Indeed for Chrome in any way, you agree to these IC Terms and the Indeed Terms of Service, which govern use of or access to Indeed’s online and/or mobile services and websites, and software provided by or on behalf of Indeed on or in connection with such services or websites (collectively, the “Site”). Any capitalized terms that are used but not defined in these IC Terms have the meaning set forth in the Agreement. “You” means any job seeker, individual or entity that downloads or uses Indeed for Chrome, and/or any agency or network acting on your behalf, which shall also be bound by these IC Terms.
+
+Indeed for Chrome is described on https://chrome.indeed.com/, and is a browser extension developed by Indeed, which can be downloaded from the Google Chrome Web Store. Indeed for Chrome serves as a free extension that allows You to utilize Indeed job-seeking functions from an extension window. Indeed for Chrome allows You to save jobs directly on the extension, and automatically recognizes many job postings. Indeed for Chrome recognizes job details, including title, company name, location, and post URL. If a job is saved, the relevant information is automatically filled into the job details fields. Further details and information can be manually entered by You, directly on the extension. Indeed for Chrome also allows access to notifications and messages present on your Indeed account.
+
+2. **Disclaimer and Limitation of Liability**
+
+INDEED’S PROVISION OF INDEED FOR CHROME AND THE SITE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. WITH RESPECT TO INDEED FOR CHROME AND YOUR USE THEREOF, INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, EXPRESSLY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY THAT ANY EMAIL ADDRESS THAT HAS BEEN PROVIDED TO INDEED IS VALID, THAT ANY EMAIL SENT BY INDEED AT YOUR REQUEST WILL REACH THE INTENDED RECIPIENT, THAT ANY INTENDED RECIPIENT OF ANY SUCH EMAIL WILL READ SUCH EMAIL, OR THAT ANY SUCH INTENDED RECIPIENT WILL ACT UPON SUCH EMAIL. INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, EXPRESSLY DISCLAIM ALL OTHER WARRANTIES INCLUDING WITHOUT LIMITATION FOR NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR ANY PURPOSE.
+
+EXCEPT FOR AMOUNTS PAYABLE PURSUANT TO SECTION 3, TO THE FULLEST EXTENT PERMITTED BY LAW: (a) NEITHER PARTY WILL BE LIABLE UNDER THESE IC TERMS FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. AND (b) EACH PARTY’S AGGREGATE LIABILITY TO THE OTHER UNDER THESE IC TERMS IS LIMITED TO AMOUNTS PAID OR PAYABLE TO INDEED BY YOU FOR THE INDEED SERVICE GIVING RISE TO THE CLAIM.
+
+3. **Indemnification**
+
+You agree to defend, indemnify and hold harmless Indeed from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: (a) your violation of any term of this Agreement. (b) your use of, and access to, Indeed for Chrome or the Site. (c) your loss of, or disclosure of, information gained from using Indeed for Chrome or the Site. (d) your violation of any applicable laws or regulations, any applicable employment, equality, or discrimination laws, and any applicable data protection or privacy laws. (e) your violation of any third party right, including without limitation any copyright, property, or privacy right. (f) any claim that your content caused damage to a third party. or (g) your actions as an Employer, including without limitation doing or not doing the following: screening, hiring, promoting, or demoting any employee or Candidate. You also agree that you have a duty to defend Indeed against such claims. You agree that this indemnity extends to requiring you to pay for Indeed’s reasonable attorneys’ fees, court costs, settlements and disbursements. This defense and indemnification obligation will survive this Agreement and your use of Indeed for Chrome.
+
+4\. **Termination**
+
+Indeed may suspend Indeed for Chrome, the Site, your account, or any other provision of tools to you, and we may terminate this Agreement with you, at our sole discretion, at any time, with or without notice. If you wish to terminate this Agreement, you may do so by notifying Indeed at any time and closing your account. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.   
+
 Indeed Vulnerability Reward Program
 
 **Program Description**
@@ -1117,4 +1148,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cliksf1t186p71b&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cll78h9sav8kc74&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
