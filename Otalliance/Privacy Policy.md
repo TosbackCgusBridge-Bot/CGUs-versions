@@ -64,7 +64,7 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Home › Privacy Statement Privacy Statement
+Facebook Twitter LinkedIn Email Addthis Home › Privacy Statement Privacy Statement
 
 The Online Trust Alliance is now part of the Internet Society (ISOC) and governed by ISOC's Privacy Statement. As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here. Questions please email privacy@isoc.org.   
 
@@ -83,6 +83,10 @@ Asia-Pacific Regional IoT Workshop at APT Symposium on Cybersecurity 
 *   OTA Blog
 *   Newsletters
 
+Thu, Aug 23, 2018 Announcing the Online Trust Audit &. Honor Roll Methodology for 2018
+
+Later this year, we’ll publish the 10th annual Online Trust Audit &. Honor Roll, which promotes responsible online privacy and data security practices and recognizes leaders in the public and private sectors who have embraced them. This morning, we released the methodology we’ll use for this year’s audit.
+
 Thu, May 10, 2018 Nest Alert: Protection From Pwned\* Passwords
 
 A colleague just received an “Urgent Security Alert - Action Requested” email from Nest (see the image below). At first glance it looked like either a phishing attempt or one of the way-too-often breach notifications we all receive these days.
@@ -94,10 +98,6 @@ I used to love the old Space Invaders arcade game - waves of enemy attackers cam
 Thu, Jan 25, 2018 The Cyber Incident Tsunami - Time to Get Ready
 
 In advance of Data Privacy &. Protection Day, we just released the Cyber Incident &. Breach Trends Report (press release here), a look back at the cyber incident trends in 2017 and what can be done to address them.
-
-Tue, Dec 5, 2017 Will Uber Drive Us to Federal Breach Legislation ?
-
-The past six months we have witnessed an un-paralleled level of questionable business practices resulting from data breaches.  As trusted brands, Uber as well as Equifax and others, who have been entrusted with significant amounts of personal data have failed the American public.  The breach missteps and follies only continue.  Each time most within the security and privacy communities have rolled our eyes in disbelieve.
 
 More >>. Main menu
 
