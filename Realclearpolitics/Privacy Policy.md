@@ -109,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Mollie Hemingway_: 6 Takeaways on Manafort &. Cohen's Legal Woes
+*   _Susan Glasser_: Is This Finally the President's Accountability Moment?
     
-*   _E.J. Dionne_: Can Trump Survive?
+*   _Charles Hurt_: A Dangerous and Dishonest Political Prosecution
     
-*   _Roger Kimball_: Mueller Will Stop at Nothing to Drive Trump From Office
+*   _William Saletan_: We Already Know Trump Is Betraying His Country
     
-*   _Chuck Todd_: Paul Ryan Should Start Impeachment Proceedings Now
+*   _Kevin O'Leary_: The Bull Market Will Continue, Thanks Largely to Trump
     
-*   _Andy Puzder_: Want More Power to the People? Choose Capitalism
+*   _Jill Filipovic_: Republican Climate Change Deniers Don't Deserve Public Office
     
-*   _Jack Shafer_: Go Ahead, Ocasio-Cortez, Ban the Press
+*   _Leslie Rutledge_: Trump's Clean Energy Plan Reinvigorates Federalism
     
-*   _James Piereson_: Why Isn't Socialism a Hate Crime?
+*   _Tammy Bruce_: The Latest Murder by an Illegal Immigrant
     
-*   _Ryan Cooper_: Democrats Caving to Kavanaugh
+*   _Michael Kruse_: 'He's Unraveling': Why Cohen's Betrayal Terrifies Trump
     
-*   _Roger L. Simon_: Social Media Companies Most Dangerous Monopolies Ever
+*   _Bradley Smith_: Those Payments Are Unseemly. That Doesn't Make Them Illegal
     
-*   _Jon Talton_: Google China Project a Battle for the Company's Soul
+*   _Ezra Klein_: Trump's Winning Argument in 2016 Is His Key Weakness Now
     
-*   _Victor Davis Hanson_: Was the Pre-Trump World Normal or Abnormal?
+*   _Scott Johnson_: The Weiner Laptop Revisited
     
-*   _Richard Wolffe_: Donald Trump's Reckoning Has Arrived
+*   _Salena Zito_: Trump's Enemies Won't Dent Him With Cohen, Manafort
     
-*   _George Neumayr_: A Collusion Probe That Has Nothing to Do With Collusion
+*   _Renato Mariotti_: Trump Was Winning. Until Tuesday
     
-*   _Harry Litman_: Michael Cohen Has Put a Target on Donald Trump's Back
+*   _Alan Dershowitz_: Did Trump Actually Violate Campaign Finance Laws?
     
-*   _Mark Penn_: Cohen's Plea Deal Is Prosecutor's Attempt to Set Up Trump
+*   _Bret Stephens_: Donald Trump's High Crimes and Misdemeanors
     
-*   _Ryan Lizza_: How Lanny Davis Is Wrangling Michael Cohen
+*   _Rush Limbaugh_: The 2016 Losers Seek to Void Trump's Victory
     
-*   _Steve Cortes_: Mainstream Media vs. Main Street USA
+*   _Jonathan Allen_: The Darkest Day for the Presidency Since Watergate
     
-*   _Jonathan Rauch_: Why Prosperity Has Increased But Happiness Has Not
+*   _Paul Sperry_: FBI Never Examined Vast Bulk of Weiner Laptop Emails
     
-*   _Jeff Jacoby_: Chelsea Clinton's Deep Thoughts on Abortion &. Economic Growth
+*   _Jason Zengerle_: How the Trump Admin Is Remaking the Courts
     
-*   _Sally Persons_: WV Senate Race May Hinge on Trump's Coattails
+*   _Nolan McCaskill_: Dems Use 'Co-Conspirator' Trump Line Against Kavanaugh
     
-*   _Christopher Hooks_: The Battle for America's Soul Is Taking Place in Texas
+*   _John Kass_: Separating Families? Let's Talk About Mollie Tibbetts.
     
-*   _Michael Goodwin_: Cynthia Nixon Might Have One Trick Left Up Her Sleeve
+*   _Jonathan Blitzer_: Who'll Be Held Accountable for Zero-Tolerance Policy?
     
-*   _Morton Kondracke_: The Media Are Missing a Movement
+*   _Adele Malpass_: AZ Senate Candidates Pine for Trump Endorsement
     
-*   _Byron York_: Manafort Split Verdict Says Nothing on Trump, Russia, '16
+*   _Christian Toto_: Why Hollywood's Silence on Free Speech Matters
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Arizona Senate Candidates Pine for Trump Endorsement
 *   Cohen Pleads Guilty, Says He Paid Off Woman at Trump's Direction
+*   Dershowitz: Candidates Entitled to Pay Hush Money, No Election Crime
 *   W.Va. Senate Race May Hinge on Trump's Coattails
-*   Davis: Trump Corrupted Our Democracy, Directed Cohen to Do Criminal Act
 *   "Scorched Earth" Spending in Wisconsin Governor's Race
-*   Minnesota Senate Race Could Bolster Republican Firewall
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Wisconsin Senate - Vukmir vs. BaldwinMarquette
-    *   Baldwin49
-    *   Vukmir47Baldwin +2
-*   Florida Senate - Scott vs. NelsonFlorida Atlantic University
-    *   Scott45
-    *   Nelson39Scott +6
-*   New Jersey Senate - Hugin vs. MenendezQuinnipiac
-    *   Menendez43
-    *   Hugin37Menendez +6
-*   Minnesota Senate Special Election - Housley vs. SmithSuffolk\*
-    *   Smith44
-    *   Housley37Smith +7
+*   Pennsylvania Senate - Barletta vs. CaseyNBC News/Marist
+    *   Casey53
+    *   Barletta38Casey +15
+*   Virginia Senate - Stewart vs. KaineRoanoke College\*
+    *   Kaine51
+    *   Stewart34Kaine +17
+*   Connecticut Senate - Corey vs. MurphyQuinnipiac
+    *   Murphy59
+    *   Corey31Murphy +28
+*   Connecticut Governor - Stefanowski vs. LamontQuinnipiac
+    *   Lamont53
+    *   Stefanowski37Lamont +16
 
 More Latest Polls In The News
 
-*   Warren to Tibbets Family: "This Is Hard" But We "Need" To Focus On "Real Problems" Like Family Separation
+*   Sen. Warner: Intelligence Community Assumed Trump Knew About Email Hackings All Along
+*   Warren to Tibbetts Family: "This Is Hard" But We "Need" To Focus On "Real Problems" Like Family Separation
 *   Chuck Todd: A "Functional Washington" Would Be Looking For Ways To Draw Up Trump Impeachment Papers
 *   Dershowitz: Stormy Daniels Is A "Nothing" Case And "Sideshow," Avenatti's Predictions Rarely Come True
 *   Lanny Davis: Trump "Corrupted Our Democracy," He "Directed" Michael Cohen To Do A "Criminal Act"
-*   Scott Adams: Is Anyone Else Getting Tired Of Carl "This Is Worse Than Watergate" Bernstein?
 
 *   Politics
 *   Policy
