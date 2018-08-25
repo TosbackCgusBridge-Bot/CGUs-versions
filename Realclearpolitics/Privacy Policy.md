@@ -109,6 +109,42 @@
     *   About
     *   Media Kit
 
+*   _Sally Persons_: Presidents' Descendants to Focus on White House Legacy
+    
+*   _Benner &. Fandos_: Trump Denounces Double Standard at Justice Dept.
+    
+*   _Eugene Robinson_: Trump the Mob Boss Wants Protection
+    
+*   _Conrad Black_: The Last Gasp of Mueller's Witch-Hunt
+    
+*   _Jeremy Stahl_: Cohen's Guilty Plea Is a Massive Victory for Mueller's Strategy
+    
+*   _Eddie Scarry_: What Happened to Russia 'Collusion'?
+    
+*   _Neal Katyal_: This Conspiracy Theory Should Worry Trump
+    
+*   _Fred Barnes_: Chuck Grassley's Moment
+    
+*   _Agnes Gibboney_: Neither My Son Nor Mollie Tibbetts Deserved to Die
+    
+*   _Barbara Shelly_: Trump Uses Tibbetts for Anti-Immigrant Agenda--It's Gross
+    
+*   _Alex Titus_: Trump's Iran Policies Undo Obama's Failures
+    
+*   _Paul Krugman_: The Tax-Cut Con Goes On
+    
+*   _Corey Lewandowski_: Economic Boom, Kept Promises, Make U.S. Great Again
+    
+*   _A.B. Stoddard_: Congressional Republicans Will Own Unchecked Corruption
+    
+*   _Dan Backer_: Why Should Congress Perpetuate This Witch Hunt?
+    
+*   _Salena Zito_: Facebook Censored My Column--and I Still Can't Find Out Why
+    
+*   _Marina Koren_: Mike Pence's Outer-Space Gospel
+    
+*   _Ann Corkery_: What Catholics Must Demand of Their Church
+    
 *   _Susan Glasser_: Is This Finally the President's Accountability Moment?
     
 *   _Charles Hurt_: A Dangerous and Dishonest Political Prosecution
@@ -120,42 +156,6 @@
 *   _Jill Filipovic_: Republican Climate Change Deniers Don't Deserve Public Office
     
 *   _Leslie Rutledge_: Trump's Clean Energy Plan Reinvigorates Federalism
-    
-*   _Tammy Bruce_: The Latest Murder by an Illegal Immigrant
-    
-*   _Michael Kruse_: 'He's Unraveling': Why Cohen's Betrayal Terrifies Trump
-    
-*   _Bradley Smith_: Those Payments Are Unseemly. That Doesn't Make Them Illegal
-    
-*   _Ezra Klein_: Trump's Winning Argument in 2016 Is His Key Weakness Now
-    
-*   _Scott Johnson_: The Weiner Laptop Revisited
-    
-*   _Salena Zito_: Trump's Enemies Won't Dent Him With Cohen, Manafort
-    
-*   _Renato Mariotti_: Trump Was Winning. Until Tuesday
-    
-*   _Alan Dershowitz_: Did Trump Actually Violate Campaign Finance Laws?
-    
-*   _Bret Stephens_: Donald Trump's High Crimes and Misdemeanors
-    
-*   _Rush Limbaugh_: The 2016 Losers Seek to Void Trump's Victory
-    
-*   _Jonathan Allen_: The Darkest Day for the Presidency Since Watergate
-    
-*   _Paul Sperry_: FBI Never Examined Vast Bulk of Weiner Laptop Emails
-    
-*   _Jason Zengerle_: How the Trump Admin Is Remaking the Courts
-    
-*   _Nolan McCaskill_: Dems Use 'Co-Conspirator' Trump Line Against Kavanaugh
-    
-*   _John Kass_: Separating Families? Let's Talk About Mollie Tibbetts.
-    
-*   _Jonathan Blitzer_: Who'll Be Held Accountable for Zero-Tolerance Policy?
-    
-*   _Adele Malpass_: AZ Senate Candidates Pine for Trump Endorsement
-    
-*   _Christian Toto_: Why Hollywood's Silence on Free Speech Matters
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Escalates Feud With Sessions
+*   Defiant Pelosi on the Midterms: "I Can Take the Heat"
+*   Trump: Press Isn't Enemy of the People, Fake News Is the Enemy
 *   Arizona Senate Candidates Pine for Trump Endorsement
-*   Cohen Pleads Guilty, Says He Paid Off Woman at Trump's Direction
-*   Dershowitz: Candidates Entitled to Pay Hush Money, No Election Crime
-*   W.Va. Senate Race May Hinge on Trump's Coattails
 *   "Scorched Earth" Spending in Wisconsin Governor's Race
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -245,25 +245,32 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Florida Governor - Republican PrimaryGravis
+    *   DeSantis39
+    *   Putnam24
+    *   Nathan4
+    *   White6
+    *   Baldauf
+    *   DevineDeSantis +15
+*   Florida Governor - Democratic PrimaryGravis
+    *   Graham26
+    *   Levine18
+    *   Greene19
+    *   Gillum15
+    *   King5Graham +7
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
 *   Pennsylvania Senate - Barletta vs. CaseyNBC News/Marist
     *   Casey53
     *   Barletta38Casey +15
-*   Virginia Senate - Stewart vs. KaineRoanoke College\*
-    *   Kaine51
-    *   Stewart34Kaine +17
-*   Connecticut Senate - Corey vs. MurphyQuinnipiac
-    *   Murphy59
-    *   Corey31Murphy +28
-*   Connecticut Governor - Stefanowski vs. LamontQuinnipiac
-    *   Lamont53
-    *   Stefanowski37Lamont +16
 
 More Latest Polls In The News
 
+*   Jimmy Dore: Instead Of Collusion, Mueller Finds Manafort Didn't Pay Taxes, Cohen Paid A Hooker. "Woo, You Got Em!"
+*   Tucker Carlson: Our Ruling Class Now Openly Endorses the Idea Of Racial Collective Punishment In South Africa
 *   Sen. Warner: Intelligence Community Assumed Trump Knew About Email Hackings All Along
 *   Warren to Tibbetts Family: "This Is Hard" But We "Need" To Focus On "Real Problems" Like Family Separation
-*   Chuck Todd: A "Functional Washington" Would Be Looking For Ways To Draw Up Trump Impeachment Papers
-*   Dershowitz: Stormy Daniels Is A "Nothing" Case And "Sideshow," Avenatti's Predictions Rarely Come True
 *   Lanny Davis: Trump "Corrupted Our Democracy," He "Directed" Michael Cohen To Do A "Criminal Act"
 
 *   Politics
