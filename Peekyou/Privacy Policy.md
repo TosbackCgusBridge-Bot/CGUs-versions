@@ -1,3 +1,5 @@
+We use cookies to improve your experience. By continuing to use our site, you accept our use of cookies, Privacy Policy, and Terms of Service. Learn more
+
 *   Name
 *   Username
 *   Phone
@@ -10,7 +12,7 @@ Please enter a Last Name
 
 Location
 
-LocationWorldUSAAlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutWashington, DCDelawareFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachussetsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+LocationAlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutWashington, DCDelawareFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
 
 Please enter the location
 
@@ -64,9 +66,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 49%  49%  49%  2% 
+What is PeekScore? Public Records &. Background Checks 45%  45%  45%  3% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -153,7 +155,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 49%  Twitter 2% 
+Facebook 45%  Twitter 3% 
 
 *   U.S. FDA - FDArecalls
     
@@ -199,7 +201,7 @@ Facebook 49%  Twitter 2% 
     
 *   Show Less ...
 
-Instagram 2% 
+Instagram 3% 
 
 *   Privacy Policy❌☠️ - prv.kennocha
     
@@ -237,7 +239,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Myspace 2% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -261,7 +263,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Pinterest 49%  Wikipedia 2% 
+Pinterest 45%  Wikipedia 3% 
 
 *   Privacy policy
     
@@ -276,14 +278,14 @@ Pinterest 49%  Wikipedia 2% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Google+ 2% 
+Google+ 3% 
 
 *   Application Privacy Policy - Google+ - Google Plus
     
     Application Privacy Policy ·... \* 収集する利用者情報及び収集方法 本ポリシー において、「利用者情報」とは、ユーザーの識別に係る情報、アプリケーション上の行動 履歴、その他ユーザーの端末情報であって、本ポリシーに基づき提供者が収集するもの  ...
     
 
-Music 2% 
+Music 3% 
 
 *   Pandora
     
@@ -329,7 +331,7 @@ Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 3% 
 
 *   Flickriver
     
@@ -340,7 +342,7 @@ Photo Albums 2% 
     Flickr (pronounced "flicker") is an image hosting service and video hosting service.It was created by Ludicorp in 2004. It has changed ownership several times and has been owned by SmugMug since April 2018.
     
 
-Web Search 49%  Images 2% 
+Web Search 45%  Images 3% 
 
 20
 
@@ -361,6 +363,6 @@ myspacex
 *   Blog
 *   Daily Searches
 
-Copyright 2017 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
+Copyright 2018 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
 
 Scroll
