@@ -92,7 +92,7 @@ menu Close 0 Free Shipping on $50+
     *   Casual &. Comfortable Shoes
     *   Slip-On Flats &. Loafers
     *   Boots
-    *   Water Shoes
+    *   Slippers
     *   Sandals
     
     WOMEN'S ACCESSORIES >. WOMEN'S BAGS >. FEATURED SHOPS
@@ -477,7 +477,7 @@ menu Close 0 Free Shipping on $50+
         *   Casual &. Comfortable Shoes
         *   Slip-On Flats &. Loafers
         *   Boots
-        *   Water Shoes
+        *   Slippers
         *   Sandals
     *   WOMEN'S ACCESSORIES
     *   WOMEN'S BAGS
@@ -1130,5 +1130,14 @@ Sustainability
 We're a proud partner of the National Forest Foundation. Learn More.
 
 <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>. sign up
+
+For your security, please confirm you are not a robot before submitting another email.
+
+Thank you for signing up.
+
+Your email address is: .  
+We’ll send you a notification when it launches.
+
+Continue Shopping
 
 Privacy Policy &. Contact Info
