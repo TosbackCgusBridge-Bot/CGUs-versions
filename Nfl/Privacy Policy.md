@@ -1,3 +1,75 @@
+*   GB3OAK•33rd • 12:01
+*   NE2-114CAR3-025Final
+*   NYG2-122NYJ1-216Final
+*   DEN1-229WAS1-217Final
+*   SEA0-220MIN1-121Final
+*   DET1-233TB2-130Final
+*   KC1-1CHI1-2Sat, 1:00 pm ET
+*   HOU2-0LA1-1Sat, 4:00 pm ET
+*   TEN0-2PIT1-1Sat, 4:00 pm ET
+*   SF1-1IND1-1Sat, 4:30 pm ET
+*   ATL0-2JAX1-1Sat, 7:00 pm ET
+*   BAL3-0MIA0-2Sat, 7:00 pm ET
+*   NO1-1LAC1-1Sat, 8:00 pm ET
+*   CIN2-0BUF1-1Sun, 4:00 pm ET
+*   ARI2-0DAL0-2Sun, 8:00 pm ET
+*   PHI0-30CLE2-15Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Video
+*   Training Camp
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Free Agency
+*   Game Pass
+*   Stats
+*   Ways to Watch
+*   NFL Network
+*   Photos
+
+*   GB3OAK•33rd • 12:01
+*   NE14CAR25Final
+*   NYG22NYJ16Final
+*   DEN29WAS17Final
+*   SEA20MIN21Final
+*   DET33TB30Final
+*   KC1-1CHI1-2Sat, 1:00 pm ET
+*   HOU2-0LA1-1Sat, 4:00 pm ET
+*   TEN0-2PIT1-1Sat, 4:00 pm ET
+*   SF1-1IND1-1Sat, 4:30 pm ET
+*   ATL0-2JAX1-1Sat, 7:00 pm ET
+*   BAL3-0MIA0-2Sat, 7:00 pm ET
+*   NO1-1LAC1-1Sat, 8:00 pm ET
+*   CIN2-0BUF1-1Sun, 4:00 pm ET
+*   ARI2-0DAL0-2Sun, 8:00 pm ET
+*   PHI0CLE5Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Video
+*   Training Camp
+
+*   Fantasy
+
+*   *   Free Agency
+    *   Game Pass
+    *   Stats
+    *   Ways to Watch
+    *   NFL Network
+    *   Photos
+
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
