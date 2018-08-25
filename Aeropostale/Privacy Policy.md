@@ -66,8 +66,6 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   3 for $12 Undies
-*   Buy 1 Get 2 Free Socks
 *   Uniform
 *   Denim Guide
 *   Flex Effects
@@ -76,6 +74,8 @@ Close submenu ( Featured ) Featured
 *   Basic Essentials
 *   Seriously Soft
 *   Online Only
+*   3 for $12 Undies
+*   Buy 1 Get 2 Free Socks
 
 Close submenu ( Tops ) Tops
 
@@ -134,7 +134,6 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Buy 1 Get 2 Accessories
 *   Uniform
 *   Denim Guide
 *   Flex Effects
@@ -143,6 +142,7 @@ Close submenu ( Featured ) Featured
 *   Logo Shop
 *   Back to Basics
 *   Online Only
+*   Buy 1 Get 2 Accessories
 
 Close submenu ( Tops ) Tops
 
@@ -320,8 +320,6 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   3 for $12 Undies
-        *   Buy 1 Get 2 Free Socks
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -330,6 +328,8 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Seriously Soft
         *   Online Only
+        *   3 for $12 Undies
+        *   Buy 1 Get 2 Free Socks
     
     *   Tops
         *   View All
@@ -380,7 +380,6 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Buy 1 Get 2 Accessories
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -389,6 +388,7 @@ Menu Find a Store Aeropostale
         *   Logo Shop
         *   Back to Basics
         *   Online Only
+        *   Buy 1 Get 2 Accessories
     
     *   Tops
         *   View All
