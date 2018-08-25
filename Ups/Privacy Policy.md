@@ -1,9 +1,9 @@
 Previous1/2Next
 
 *   Volcanic Activity Impacting Service in Areas of Hawaii...More
-*   Wildfires Impacting Areas of California...More
+*   Hurricane Lane Is Impacting Areas of Hawaii...More
 *   Volcanic Activity Impacting Service in Areas of Hawaii...More
-*   Wildfires Impacting Areas of California...More
+*   Hurricane Lane Is Impacting Areas of Hawaii...More
 
 Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
@@ -86,7 +86,7 @@ Search Close
     *   Healthcare
     *   Consumer Goods &. Retail
     *   High Tech
-    *   Industrial Manufacturing &. Distribution
+    *   Industrial Products
     *   Automotive
     *   **See All**
     
