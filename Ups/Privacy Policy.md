@@ -1,9 +1,9 @@
 Previous1/2Next
 
 *   Volcanic Activity Impacting Service in Areas of Hawaii...More
-*   Hurricane Lane Is Impacting Areas of Hawaii...More
+*   Hurricane Lane Continues to Impact Areas of Hawaii...More
 *   Volcanic Activity Impacting Service in Areas of Hawaii...More
-*   Hurricane Lane Is Impacting Areas of Hawaii...More
+*   Hurricane Lane Continues to Impact Areas of Hawaii...More
 
 Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
