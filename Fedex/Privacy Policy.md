@@ -4,7 +4,7 @@
 *   Locations All Location Types Find a Location
 *   Support New Customer Center Small Business Center FedEx Service Guide Account Management Tools File a Claim View &. Pay Bill Customer Support
 
-Sign Up or Log In USER ID USER ID PASSWORD PASSWORD Remember Me LOGIN FORGOT PASSWORD OR USER ID? Get exclusive benefits when you open a FedEx account. CREATE ACCOUNT Menu undefined Top Searched FedEx Privacy Notice FedEx Privacy Notice
+Sign Up or Log In USER ID USER ID PASSWORD SHOW PASSWORD Remember Me LOGIN FORGOT PASSWORD OR USER ID? Get exclusive benefits when you open a FedEx account. CREATE ACCOUNT Menu undefined Top Searched Door tag Shipping Label Door Tag Rewards Insight FedEx Privacy Notice FedEx Privacy Notice
 
 Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from FedEx. We are committed to protecting your privacy and the security of your personal data. We have created this Privacy Notice to explain how FedEx collects and uses personal data.
 
@@ -30,13 +30,13 @@ PROTECT
 
 We offer you the ability to manage what types of communications you receive from us, and your preferences.  
 
-WHAT?
+WHAT? Created with Sketch.
 
 This Privacy Notice applies to you if you are a customer of FedEx, a recipient of a package delivered by FedEx, a supplier of FedEx, or if you contact FedEx, for instance by applying for a position with FedEx, by visiting the FedEx website, using social media or if you receive emails from FedEx. 
 
 Our websites are for a general audience and not geared toward children. We do not knowingly or intentionally collect Personal Data from children under age 16. If you are under the age of 16, please do not submit any Personal Data to us, and rely on a parent or guardian to assist you. If you believe your child may have disclosed personally identifiable information to us, please contact us at dataprivacy@fedex.com and we will remove it.  
 
-WHY?
+WHY? Created with Sketch.
 
 Personal Data shall be collected, used, stored or otherwise processed if necessary within the framework of responsible, efficient and effective business management of FedEx. We process Personal Data because it is necessary to perform our contractual obligations with you, or it is necessary for us to comply with our legal obligations, or for other legitimate business interests of FedEx to provide quality and secure shipping services. More specifically, FedEx uses Personal Data for the following activities: 
 
@@ -60,7 +60,7 @@ You can manage your accounts with FedEx through the following.
 
 **Compliance with legal obligations**. This addresses the processing of Personal Data as necessary for compliance with laws, regulations and sector specific guidelines to which FedEx is subject (e.g., matching names of clients, suppliers and business partners against denied parties’ lists).  
 
-HOW?
+HOW? Created with Sketch.
 
 In the course of its business activities and providing the services, FedEx will need to process personal data. “Personal Data” is any information that can directly or indirectly be used to identify a natural person. You provide most of your Personal Data directly to FedEx, for instance: 
 
@@ -98,7 +98,7 @@ Due to the nature of our business and the services we provide to our clients, Fe
 
 For the European Union, such transfers to third parties will be governed by a contract based on the model contractual clauses for data transfer approved by the European Commission. 
 
-SHARE
+SHARE Created with Sketch.
 
 FedEx may share your Personal Data with third parties in the following circumstances:
 
@@ -107,7 +107,7 @@ FedEx may share your Personal Data with third parties in the following circumsta
 *   FedEx employees may have access to your Personal Data if necessary for the performance of their tasks. In such a case, access will be granted only if necessary for the purposes described above and only if the employee is bound by confidentiality. 
 *   FedEx may share your Personal Data if required to do so by law, court order or other legal process, for example, with law enforcement agencies or other governmental agencies, to establish or exercise our legal rights or in connection with a corporate transaction, such as a divesture, merger, consolidation or asset sale, or in the unlikely event of bankruptcy.
 
-PROTECT
+PROTECT Created with Sketch.
 
 **What measures does FedEx take to protect your Personal Data?** 
 
