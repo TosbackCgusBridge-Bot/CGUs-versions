@@ -8,25 +8,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   James Perse
+    *   Wacoal &. b.tempt'd by Wacoal
     *   MAC Cosmetics
+    *   Dyson Up to 50% Off
+    *   Luxe Skin Care
+    *   Lucky Brand Men
+    *   Seven7 Under $40
+    *   Valentino by Mario Valentino
+    *   American Twist Starting at $20
+    *   go >. by GoSilk Up to 75% Off
+    *   CZ by Kenneth Jay Lane Up to 70% Off
+    *   Superga
+    *   Reef Starting at $15
+    *   Amelia
+    *   Good Choice New York
+    *   Olivia Welles Jewelry Up to 75% Off
+    *   On-Trend Leather Bracelets Starting at $15
+    *   Party On: Shoes by Imagine Vince Camuto
+    *   Trending Now: Bodysuits We Love
+    *   Reef Men's Flip-Flops from $15
+    *   Tech Ready: Backpacks ft. HEX Accessories
+    *   Soul Star
+    *   Aldo Men Starting at $20
+    *   Score These: NFL Decor
+    *   Slippers for the Family from $10
+    *   Classic Chemises &. More Up to 60% Off
+    *   Sleep Sets Under $30
+    *   Cozy Robes Up to 60% Off
+    *   Relaxation Essentials: Men's Sleep &. Lounge
+    
+    *   Kids' Pajama Party Starting at $10
     *   Vince Camuto Incl. Plus &. Petites Under $30
     *   Tart Incl. Plus
+    *   Kenneth Cole New York Coats
     *   Kenneth Cole New York Shoes
     *   14K Gold &. More Under $80
-    *   Cozy Robes Up to 60% Off
-    *   Sleep Sets Under $30
-    *   Classic Chemises &. More Up to 60% Off
-    *   Relaxation Essentials: Men's Sleep &. Lounge
-    *   Kids' Pajama Party Starting at $10
-    *   Slippers for the Family from $10
-    *   Kenneth Cole New York Coats
     *   Pink Owl Under $40
     *   Z&L Europe
     *   Kooba Handbags
     *   Halston Heritage Up to 65% Off
     *   Chic Swim ft. Vince Camuto
     *   Loafers &. Flats Up to 50% Off
-    *   Trending Now: Bodysuits We Love
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Gemstone Jewelry from Mistraya Starting at $20
     *   Kenneth Cole New York Men
@@ -34,153 +57,129 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Victorinox Swiss Army Watches &. More Up to 50% Off
     *   Bespoke Up to 75% Off
     *   Kenneth Cole New York Men's Shoes
-    *   Dyson Up to 50% Off
     *   Free Shipping: Decor for Every Style
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
-    
     *   Last Chance: Straw Bags &. More Up to 75% Off
-    *   BB Dakota
-    *   Cashmere Shop: M by Magaschoni &. More
-    *   ASTR the Label
-    *   CALPAK Luggage
-    *   Muche et Muchette
     *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
-    *   Betsey Johnson Starting at $40
-    *   Donna Karan Active Starting at $15
-    *   Office Essentials: Styles Incl. Plus &. Petites
-    *   Ariat Up to 50% Off
-    *   Fall Favorites: Casually-Chic Bags
-    *   Josie &. Skarlett Blue
-    *   Cocktail Hour: Lauren Lorraine Up to 50% Off
-    *   Lost Ink Under $50
     *   Parke &. Ronen
     *   XRAY Up to 80% Off
     *   Andrew Marc Shoes Up to 70% Off
     *   Young &. Free
     *   Stride Rite
     *   Free Shipping: Modern Metallic Decor &. More
-    *   Rainy Days: New Boots &. Umbrellas
-    *   Timeless Trenches: Raincoats &. More
+    
     *   Rain or Shine: Weatherproof Boots &. More
     *   Rainy Day Wear: Men's Raincoats
-    *   Puddle Jumpers: New Kids' Rain Boots &. Coats
     *   tarte cosmetics
-    *   Isaac Mizrahi &. More Starting at $15
     *   Travis Mathew
-    
     *   JACK &. JONES Starting at $15
     *   Giorgio Brutini Starting at $30
     *   Wear to Work: Dress Shirts Starting at $30
-    *   Nautica Kids Under $20
-    *   Fall Dress Preview: Joe-Ella Up to 70% Off
     *   Free Shipping: Luxe Bedding Up to 85% Off
     *   Home Goals: Laundry Room Organizers &. More
     *   KitchenAid
     *   Nambe
     *   Make It Modern: Budget-Friendly Accent Furniture
     *   Free Shipping: Colorful 8'x10' Area Rugs &. More
-    *   Spyder
     *   Jane Iredale Brushes
     *   Blend Mineral Cosmetics Up to 85% Off
-    *   Alternative &. More Under $30
-    *   Gordon Rush Up to 60% Off
-    *   Bravado Concert Tees Starting at $15
-    *   Macadamia Natural Oil &. Professional Hair Care
-    *   Korean Beauty: Secret Key from $10
     *   Free Shipping: Hand-Painted Replicas
-    *   Level 99
-    *   Banjara
-    *   Melrose and Market Incl. Plus &. Petites
-    *   Last Chance: Men's Sandals &. Slides
-    *   Bedding Upgrade: Linens &. More Up to 80% Off
     *   Poo-Pourri Bathroom Scents
     *   Energy Boost: Chargers, Phone Cases &. More
-    *   Free Shipping: LED Lighting &. More from $10
+    *   Fall Dress Preview: Joe-Ella Up to 70% Off
+    *   Bedding Upgrade: Linens &. More Up to 80% Off
+    *   BB Dakota
+    *   Cashmere Shop: M by Magaschoni &. More
+    *   Muche et Muchette
+    *   Donna Karan Active Starting at $15
+    *   Office Essentials: Styles Incl. Plus &. Petites
+    *   Ariat Up to 50% Off
+    *   Timeless Trenches: Raincoats &. More
 *   WomenShop Sale Events
     
+    *   James Perse
+    *   Wacoal &. b.tempt'd by Wacoal
     *   MAC Cosmetics
+    *   Dyson Up to 50% Off
+    *   Luxe Skin Care
+    *   Seven7 Under $40
+    *   Valentino by Mario Valentino
+    *   American Twist Starting at $20
+    *   go >. by GoSilk Up to 75% Off
+    *   CZ by Kenneth Jay Lane Up to 70% Off
+    *   Superga
+    *   Reef Starting at $15
+    *   Amelia
+    *   Good Choice New York
+    *   Olivia Welles Jewelry Up to 75% Off
+    *   On-Trend Leather Bracelets Starting at $15
+    *   Party On: Shoes by Imagine Vince Camuto
+    *   Trending Now: Bodysuits We Love
+    *   Slippers for the Family from $10
+    *   Classic Chemises &. More Up to 60% Off
+    *   Sleep Sets Under $30
+    *   Cozy Robes Up to 60% Off
     *   Vince Camuto Incl. Plus &. Petites Under $30
     *   Tart Incl. Plus
+    
+    *   Kenneth Cole New York Coats
     *   Kenneth Cole New York Shoes
     *   14K Gold &. More Under $80
-    *   Cozy Robes Up to 60% Off
-    *   Sleep Sets Under $30
-    *   Classic Chemises &. More Up to 60% Off
-    *   Slippers for the Family from $10
-    *   Kenneth Cole New York Coats
     *   Pink Owl Under $40
     *   Z&L Europe
     *   Kooba Handbags
     *   Halston Heritage Up to 65% Off
     *   Chic Swim ft. Vince Camuto
     *   Loafers &. Flats Up to 50% Off
-    *   Trending Now: Bodysuits We Love
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Gemstone Jewelry from Mistraya Starting at $20
     *   Victorinox Swiss Army Watches &. More Up to 50% Off
-    *   Dyson Up to 50% Off
     *   Last Chance: Straw Bags &. More Up to 75% Off
-    *   BB Dakota
-    
-    *   Cashmere Shop: M by Magaschoni &. More
-    *   ASTR the Label
-    *   CALPAK Luggage
-    *   Muche et Muchette
     *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
-    *   Betsey Johnson Starting at $40
-    *   Donna Karan Active Starting at $15
-    *   Office Essentials: Styles Incl. Plus &. Petites
-    *   Ariat Up to 50% Off
-    *   Fall Favorites: Casually-Chic Bags
-    *   Josie &. Skarlett Blue
-    *   Cocktail Hour: Lauren Lorraine Up to 50% Off
-    *   Lost Ink Under $50
-    *   Rainy Days: New Boots &. Umbrellas
-    *   Timeless Trenches: Raincoats &. More
     *   tarte cosmetics
     *   Jane Iredale Brushes
     *   Blend Mineral Cosmetics Up to 85% Off
-    *   Macadamia Natural Oil &. Professional Hair Care
-    *   Korean Beauty: Secret Key from $10
-    *   Level 99
-    *   Banjara
-    *   Melrose and Market Incl. Plus &. Petites
+    *   BB Dakota
+    *   Cashmere Shop: M by Magaschoni &. More
+    *   Muche et Muchette
+    *   Donna Karan Active Starting at $15
+    *   Office Essentials: Styles Incl. Plus &. Petites
+    *   Ariat Up to 50% Off
+    *   Timeless Trenches: Raincoats &. More
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
-    *   Handbags
+    *   Shoes
     *   Lingerie
+    *   Handbags
     *   Tech Accessories
-    *   Accessories
     *   Watches
 *   MenShop Sale Events
     
-    *   Relaxation Essentials: Men's Sleep &. Lounge
+    *   Dyson Up to 50% Off
+    *   Lucky Brand Men
+    *   Reef Men's Flip-Flops from $15
+    *   Tech Ready: Backpacks ft. HEX Accessories
+    *   Soul Star
+    *   Aldo Men Starting at $20
     *   Slippers for the Family from $10
+    *   Relaxation Essentials: Men's Sleep &. Lounge
     *   Kenneth Cole New York Men
     *   RVCA Under $30
     *   Victorinox Swiss Army Watches &. More Up to 50% Off
+    
     *   Bespoke Up to 75% Off
     *   Kenneth Cole New York Men's Shoes
-    *   Dyson Up to 50% Off
-    *   CALPAK Luggage
     *   Parke &. Ronen
     *   XRAY Up to 80% Off
     *   Andrew Marc Shoes Up to 70% Off
-    
     *   Rain or Shine: Weatherproof Boots &. More
     *   Rainy Day Wear: Men's Raincoats
     *   Travis Mathew
     *   JACK &. JONES Starting at $15
     *   Giorgio Brutini Starting at $30
     *   Wear to Work: Dress Shirts Starting at $30
-    *   Spyder
-    *   Alternative &. More Under $30
-    *   Gordon Rush Up to 60% Off
-    *   Bravado Concert Tees Starting at $15
-    *   Last Chance: Men's Sandals &. Slides
     
     Shop By Category
     *   Clothing
@@ -189,30 +188,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Kids' Pajama Party Starting at $10
     *   Slippers for the Family from $10
+    *   Kids' Pajama Party Starting at $10
     *   Young &. Free
     *   Stride Rite
-    *   Puddle Jumpers: New Kids' Rain Boots &. Coats
-    *   Isaac Mizrahi &. More Starting at $15
-    *   Nautica Kids Under $20
     *   Fall Dress Preview: Joe-Ella Up to 70% Off
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Girls Sizes 7-16
-    *   Boys Sizes 2T-7
     *   Girls' Shoes
+    *   Boys Sizes 2T-7
+    *   Girls Sizes 7-16
     *   Boys Sizes 8-20
-    *   Boys' Shoes
     *   Baby Girl
+    *   Boys' Shoes
     *   Baby Boy
 *   HomeShop Sale Events
     
     *   Dyson Up to 50% Off
+    *   Score These: NFL Decor
     *   Free Shipping: Decor for Every Style
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
-    *   CALPAK Luggage
     *   Free Shipping: Modern Metallic Decor &. More
     *   Free Shipping: Luxe Bedding Up to 85% Off
     *   Home Goals: Laundry Room Organizers &. More
@@ -222,10 +218,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Make It Modern: Budget-Friendly Accent Furniture
     *   Free Shipping: Colorful 8'x10' Area Rugs &. More
     *   Free Shipping: Hand-Painted Replicas
-    *   Bedding Upgrade: Linens &. More Up to 80% Off
     *   Poo-Pourri Bathroom Scents
     *   Energy Boost: Chargers, Phone Cases &. More
-    *   Free Shipping: LED Lighting &. More from $10
+    *   Bedding Upgrade: Linens &. More Up to 80% Off
     
     Shop By Category
     *   Home Decor
@@ -234,24 +229,22 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bedding
     *   Storage &. Cleaning
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
     *   Bath
     *   Outdoor Living
 *   BeautyShop Sale Events
     
     *   MAC Cosmetics
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Dyson Up to 50% Off
+    *   Luxe Skin Care
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   tarte cosmetics
     *   Jane Iredale Brushes
     *   Blend Mineral Cosmetics Up to 85% Off
-    *   Macadamia Natural Oil &. Professional Hair Care
-    *   Korean Beauty: Secret Key from $10
     
     Shop By Category
     *   Makeup
-    *   Hair Care
     *   Skin Care
+    *   Hair Care
     *   Tools &. Accessories
     *   Bath &. Body
     *   Makeup Bags
