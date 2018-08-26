@@ -219,6 +219,7 @@ Close submenu ( Girls Shorts ) Girls Shorts
 *   Low Rise Twill Midi
 *   Low Rise Tomboy
 *   Low Rise Bermuda
+*   High-Waisted Cheeky
 *   Soft Shorts
 *   Shortall
 *   Lounge
@@ -458,6 +459,7 @@ Menu Find a Store Aeropostale
         *   Low Rise Twill Midi
         *   Low Rise Tomboy
         *   Low Rise Bermuda
+        *   High-Waisted Cheeky
         *   Soft Shorts
         *   Shortall
         *   Lounge
