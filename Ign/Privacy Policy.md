@@ -428,6 +428,4 @@ Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 19
 
 AdChoices
 
-Back to Top ​​​We tailor your experience and understand how you and other visitors use this website by using cookies and other technologies. This means we are able to keep this site free-of-charge to use.  
-  
-Please click **I Consent** below to give us permission to do this and also to show adverts tailored to your interests and allow our third party partners to do the same.More OptionsI ConsentClose
+Back to Top 100%
