@@ -1,3 +1,5 @@
+Cookie PolicySencha uses cookies (required, functionality, and advertising cookies) to improve user experience. By using our website you consent to all cookies in accordance with our Cookie policyNo, thanksYes, I consent
+
 Sencha.com
 
 *   Products
