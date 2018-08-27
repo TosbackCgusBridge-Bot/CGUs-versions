@@ -4,7 +4,6 @@ Accessible View
 
 SHOP DEPARTMENTS
 
-*   Find a Store
 *   Same Day Pickup
 *   Store Ads
 *   Back to School
@@ -12,28 +11,8 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAPHIC TEESShop All
+Find a StoreNear YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAPHIC TEESShop All
 
-*   LIMITED TIME SPECIAL!
-    
-    $4.20 - $5.70 sale
-    
-    was $14 - $19 Arizona SS Graphic Tee - Girls' 4-16 and Plus(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $6.60 - $8.10 sale
-    
-    was $22 - $27 Arizona Short Sleeve Cutout Graphic Tee - Girls' 4-16 &. Plus(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $7.20 sale
-    
-    was $24 Arizona Short Sleeve Graphic T-Shirt-Juniors PlusAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $4.20 - $5.70 sale
-    
-    was $14 - $19 Arizona Short Sleeve Graphic Tee - Girls' 4-16 &. Plus(3)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $4.20 - $5.70 sale
@@ -43,12 +22,32 @@ Near YouFind a StoreBack70% OFF ARIZONA GRAPHIC TEESShop All70% OFF ARIZONA GRAP
     
     $4.20 - $5.70 sale
     
-    was $14 - $19 Arizona Short Sleeve Graphic T-Shirt - Girls' 4-16 &. Plus(23)Add To Cart
+    was $14 - $19 Arizona SS Graphic Tee - Girls' 4-16 and Plus(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $4.20 - $5.70 sale
+    $6.60 - $8.10 sale
     
-    was $14 - $19 Arizona Short Sleeve Graphic Tee - Girls' 4-16 &. Plus(1)Add To Cart
+    was $22 - $27 Arizona SS Mineral Wash Top - Girls' 4-16 and Plus(2)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $6.60 sale
+    
+    was $22 Arizona Roll Sleeve Embroidered Tee - Girls' 4-16 &. PlusAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $9.60 sale
+    
+    was $32 Arizona Graphic T-Shirt-Big Kid Girls PlusAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $6.60 - $8.10 sale
+    
+    was $22 - $27 Arizona 3D Graphic Petal Top - Girls' 4-16 &. Plus(6)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $6.60 - $8.10 sale
+    
+    was $22 - $27 Arizona Short Sleeve Cutout Graphic Tee - Girls' 4-16 &. Plus(1)Add To Cart
 
 Shop and Save at JCPenney
 
