@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -249,31 +247,31 @@ Latest PollsAll Polls
 
 *   Florida Governor - Republican PrimaryGravis
     *   DeSantis39
-    *   Putnam24
+    *   Putnam27
     *   Nathan4
     *   White6
     *   Baldauf
-    *   DevineDeSantis +15
+    *   DevineDeSantis +12
 *   Florida Governor - Democratic PrimaryGravis
     *   Graham26
     *   Levine18
     *   Greene19
-    *   Gillum15
+    *   Gillum16
     *   King5Graham +7
-*   President Trump Job ApprovalRasmussen Reports
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve44
+    *   Disapprove52Disapprove +8
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
     *   Approve46
-    *   Disapprove53Disapprove +7
-*   Pennsylvania Senate - Barletta vs. CaseyNBC News/Marist
-    *   Casey53
-    *   Barletta38Casey +15
+    *   Disapprove51Disapprove +5
 
 More Latest Polls In The News
 
+*   Rep. Adam Schiff: We Should Not Talk About Impeachment Before All The Evidence Is In
+*   Chris Matthews: If Any Wrongdoing Happened With Russia, Trump Organization "Bookkeeper" Weiselberg Knows About It
+*   Trump To "Nasty" Dems: "Get Used To It. We Won The Election. We're Going To Win Again In 2020."
 *   Jimmy Dore: Instead Of Collusion, Mueller Finds Manafort Didn't Pay Taxes, Cohen Paid A Hooker. "Woo, You Got Em!"
-*   Tucker Carlson: Our Ruling Class Now Openly Endorses the Idea Of Racial Collective Punishment In South Africa
-*   Sen. Warner: Intelligence Community Assumed Trump Knew About Email Hackings All Along
-*   Warren to Tibbetts Family: "This Is Hard" But We "Need" To Focus On "Real Problems" Like Family Separation
-*   Lanny Davis: Trump "Corrupted Our Democracy," He "Directed" Michael Cohen To Do A "Criminal Act"
+*   Agnew Attorney: Trump Should Resign If He Has Any Interest In "Saving The Skin" Of His "Children"
 
 *   Politics
 *   Policy
