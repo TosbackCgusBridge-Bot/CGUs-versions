@@ -3,44 +3,44 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx Categories &. more LIBRARY
+New Games Next in  25:36 Categories &. more LIBRARY
 
-*   New Games Next in xx:xx
+*   New Games Next in 25:36
 *   Best of new games 1457 games
-*   Most Popular Games 17951 games
+*   Most Popular Games 17961 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,022 games
-*   Driving &. Racing Games 6,673 games
-*   Strategy &. RPG Games 2,371 games
+*   Games for girls 23,032 games
+*   Driving &. Racing Games 6,674 games
+*   Strategy &. RPG Games 2,373 games
 *   Management Games 3,643 games
-*   Thinking Games 11,608 games
-*   Action &. Adventure Games 15,680 games
+*   Thinking Games 11,612 games
+*   Action &. Adventure Games 15,682 games
 *   Sports Games 2,091 games
-*   Shooting Games 8,090 games
+*   Shooting Games 8,094 games
 *   Fighting Games 2,076 games
 *   Skill Games 10,176 games
-*   Arcade &. Classic Games 12,557 games
-*   Fun &. Crazy Games 2,406 games
+*   Arcade &. Classic Games 12,558 games
+*   Fun &. Crazy Games 2,407 games
 
 Tags
 
-*   Volleyball45
-*   Alien966
-*   Decorate1,724
-*   Billiards142
-*   Ball2,243
-*   Kung Fu77
+*   Chess58
+*   Motorcycle850
+*   Running867
+*   Arcade2,335
+*   Dog710
+*   Fighting1,700
 *   View All Tags 371
 
 Play with friends  
 Powered by Y8 Account 131 Y8 Multiplayer Games 1,554 Y8 High Score Games 979 Y8 Achievements Games 768 Y8 Screenshots Games 1,298 Y8 Online Save Games 2,561 All Y8 Games Games Last Highscore:
 
-**3,050** points on Plumber Duck by senric\_man
+**31** points on G-Switch 3 by CatmanJosiah
 
 *   Contact Form
 *   Submit a Game or Video
