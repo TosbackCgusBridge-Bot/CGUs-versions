@@ -1,5 +1,3 @@
-SUBSCRIBE NOW$3 for 3 months. Save 90%.
-
 *   Home
 *   News
 *   Sports
@@ -75,7 +73,7 @@ SUBSCRIBE NOW$3 for 3 months. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowThese breakfast foods contain weed killerNews2 of 3 children out of hospital in Tippin crashLocalTippin Elementary accident: What we knowNewsMost El Paso County schools meet state standardsEducationMinerpalooza: Jersey Shore DJ Pauly D, Drake BellEntertainmentComedian Kevin Hart coming to El PasoEntertainmentWoman accused of stealing $5,000 worth of itemsCrimeMan featured on most wanted list arrestedCrimeMissing 6-year-old boy found dead in trash bagLocal75 students seek counselors after school deathLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPepe Aguilar and family ride in El Paso showEntertainmentExpect boxer Ray Beltran to beat Jose PedrazaSportsDo you know El Paso's most-wanted fugitives?CrimeTexas Tech retirement draws concerns in El PasoEducationKidnapping suspect prompts sweep in desertCrimeSeparated immigrant families reunited in El PasoImmigrationTexas woman killed in I-10 crash in New MexicoLocalWoman arrested after gun, drugs found in motelCrimeNew Class 5A district brings intrigue to footballHigh-schoolCBP officers seize meth at El Paso port of entryCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -90,8 +88,9 @@ The page you're looking for isn't here.Either someone gave you a bad link or the
 
 HomeNews
 
-*   Fort Bliss
+*   Elections 2018
 *   Juárez
+*   Fort Bliss
 *   El Paso y Mas
 *   National Politics
 
