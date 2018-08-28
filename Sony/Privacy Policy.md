@@ -153,7 +153,7 @@ PS VR
 
 Simplify your PlayStation setup and control your entertainment effortlessly with the new Cloud Remote for PS4.
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -271,21 +271,21 @@ Sony on YouTube - John Cho Stars in a Revolutionary Thriller That's Told Via Eve
 
 Play John Cho Stars in a Revolutionary Thriller That's Told Via Everyday Tech Devices Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/SRCH\_D12\_SET82\_John\_Cho\_PhotoCred\_Elizabeth\_Kitchens\_Clean\_clip\_7\_rv2-600x600.jpg);" alt="Searching Trailer">. The Season Finale of "Preacher" Is Finally Here
+<img class="bg-img" class="url(/en\_us/media/content/SRCH\_D12\_SET82\_John\_Cho\_PhotoCred\_Elizabeth\_Kitchens\_Clean\_clip\_7\_rv2-600x600.jpg);" alt="Searching Trailer">. The Cast &. Crew of "Preacher" Discuss the Season 3 Finale
 
-Don't Miss It This Sunday
+Learn More About the Show
 
 Close
 
-*   Share The Season Finale of "Preacher" Is Finally Here on Facebook
-*   Share The Season Finale of "Preacher" Is Finally Here on Twitter
-*   Copy URL to share The Season Finale of "Preacher" Is Finally Here
+*   Share The Cast &. Crew of "Preacher" Discuss the Season 3 Finale on Facebook
+*   Share The Cast &. Crew of "Preacher" Discuss the Season 3 Finale on Twitter
+*   Copy URL to share The Cast &. Crew of "Preacher" Discuss the Season 3 Finale
 
-Play The Season Finale of "Preacher" Is Finally Here Video
+Play The Cast &. Crew of "Preacher" Discuss the Season 3 Finale Video
 
-Sony on YouTube - The Season Finale of "Preacher" Is Finally Here
+Sony on YouTube - The Cast &. Crew of "Preacher" Discuss the Season 3 Finale
 
-Play The Season Finale of "Preacher" Is Finally Here Video hotspot
+Play The Cast &. Crew of "Preacher" Discuss the Season 3 Finale Video hotspot
 
 <img class="bg-img" class="url(/en\_us/media/content/PRCH\_S3-600x600.jpg);" alt="Preacher Season Finale">. It's Back to School Time and It's Never Too Early to Learn to Code
 
