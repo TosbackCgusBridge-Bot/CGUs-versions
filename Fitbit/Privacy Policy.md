@@ -253,8 +253,6 @@ Get the low-down on all things Fitbit legal.
 
 See all our legal policies
 
-Get the skinny on all things FitbitPlease enter an email address
-
 *   BLOG
 
 *   Fitbit
