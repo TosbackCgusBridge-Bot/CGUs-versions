@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 The latest by @Requidan -- Explosions Across Ad Tech: Signs Of Consolidation Or Growth? adexchanger.com/the-… @adexchanger
 
-About 4 days ago
+About 5 days ago
 
 My week on Twitter : 5 Mentions, 1.25K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/W2bV…
 
@@ -174,7 +174,7 @@ About 3 weeks ago
 
 Check out these steps toward promoting a safer browsing experience for web users via Intermarkets blog! twitter.com/Jambrose…
 
-About 3 weeks ago
+Last month
 
 My week on Twitter : 1 Mention, 1.16K Mention Reach, 1 Like, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/DYxm…
 
