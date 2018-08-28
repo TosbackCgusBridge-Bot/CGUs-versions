@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Caroline Glick_: A Conversation With John Bolton
+*   _Christian Whiton_: Trump's New Trade Deal a YUGE Win for America
     
-*   _Kimberley Strassel_: When Justice Is Partial
+*   _Alex He_: Trade War an Attack on China's Economic Model
     
-*   _Harry Litman_: Donald Trump's Flailing Defense Against Cohen
+*   _Derrick Johnson_: Frustration with Racism Is Coming to the Ballot Box
     
-*   _Bradley Smith_: A Dangerous Road to Go Down on Campaign Finance Laws
+*   _Robert Knight_: From Border Hysteria to Impeachment Cheerleading
     
-*   _Dana Milbank_: Let Us Now Praise Attorney General Jeff Sessions
+*   _Ryan Cooper_: What on Earth Is Barack Obama Doing?
     
-*   _Adam Mill_: Trump Is Not Only Right, It's His Duty to Criticize Sessions
+*   _Julie Kelly_: Study Claiming Illegals Commit Less Crimes Is Bogus
     
-*   _Roger Cohen_: How Far America Has Fallen
+*   _Adele Stan_: Trump and the Rise of 21st Century Fascism
     
-*   _Rush Limbaugh_: The Steele Dossier Is Fake. The Economic Boom Is Real.
+*   _Scott McKay_: Socialism Is a Crime Against Humanity
     
-*   _Alex Shephard_: Would Trump Impeachment Crash the Stock Market?
+*   _Emma Green_: The Sex-Abuse Scandal Has Come for Pope Francis
     
-*   _Sen. Orrin Hatch_: Brett Kavanaugh and the Encroaching Administrative State
+*   _Kimberly Burton_: Why Do Feminists Hate Conservative Women?
     
-*   _Lilly Ledbetter_: Brett Kavanaugh Would Be Bad for Women
+*   _Carl M. Cannon_: John McCain and the Messages That Mattered
     
-*   _Nicole Russell_: Why Haven't Republicans Defunded Planned Parenthood?
+*   _Joel Kotkin_: The Triumph of Trumpism Will Outlast Trump
     
-*   _Ramesh Ponnuru_: The Case for Paid Family Leave
+*   _James Fallows_: It Would Only Take One Senator
     
-*   _Michael Kazin_: America's Never-Ending Culture War
+*   _David Catron_: The Left Still Has No Clue Why It's Losing
     
-*   _Stephen Hayes_: Rand Paul, Russian Stooge
+*   _Charles Blow_: Let's Hope Odd Bedfellows Trump Created Take Him Down
     
-*   _Charlie Kirk_: The Establishment's Collective Meltdown Over Russia
+*   _Ned Ryun_: America's Crisis Is Three-Tiered Justice
     
-*   _Michael Schuman_: Trump Paints Xi Into a Corner
+*   _Doyle McManus_: What We Lost in John McCain
     
-*   _John Gregory_: How China Attempts to Control Its Citizens
+*   _Newt Gingrich_: Why McCain Was Such an Inspiration to Me
     
-*   _Roger Kimball_: Mueller Has Been About Impeachment All Along
+*   _Sally Persons_: Will Cruz-O'Rourke Senate Race Turn Texas Blue?
     
-*   _Eliot Cohen_: Sooner or Later, Tyrants Are Always Abandoned by Followers
+*   _Alexandra DeSanctis_: GOP Underdog Fights for a Senate Seat in Wisconsin
     
-*   _Jill Filipovic_: Stormy Daniels, Feminist Hero
+*   _E.J. Dionne_: The Struggle to Stay Catholic
     
-*   _Monica Crowley_: Why Trump's Enemies Will Fail to Drive Him Out of Office
+*   _Gracy Olmstead_: Our Civic Institutions Are Self-Destructing
     
-*   _Brian Bennett_: Trump Is In Trouble. Here's How Much Worse It Can Get
+*   _Roland Martin_: Black Pastors Who Support Trump Are a Disgrace
     
-*   _Kurt Schlichter_: Democrats Value Open Borders Over Your Kids' Safety
+*   _Graham Hillard_: The Progressive War on 'Whiteness'
     
 
 *   Previous
@@ -226,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Can Cruz-O'Rourke Senate Race Turn Texas Blue?
+*   Presidents, Lawmakers Honor McCain's Life of Service
+*   Sperry: Most Emails on Weiner Laptop Were Never Examined
 *   Trump Calls Off Pompeo Visit to North Korea
 *   Defiant Pelosi on the Midterms: "I Can Take the Heat"
-*   Trump Hits "Nasty" Dems: Get Used To It. We're Going to Win Again in 2020.
-*   Arizona Senate Candidates Pine for Trump Endorsement
-*   "Scorched Earth" Spending in Wisconsin Governor's Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,6 +247,9 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
+*   Texas Senate - Cruz vs. O'RourkeEmerson
+    *   Cruz39
+    *   O'Rourke38Cruz +1
 *   Florida Governor - Republican PrimaryGravis
     *   DeSantis39
     *   Putnam27
@@ -258,19 +263,16 @@ Latest PollsAll Polls
     *   Greene19
     *   Gillum16
     *   King5Graham +7
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve44
-    *   Disapprove52Disapprove +8
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve46
-    *   Disapprove51Disapprove +5
+*   California 50th District - Hunter vs. Campa-NajjarKGTV-TV/SurveyUSA
+    *   Hunter47
+    *   Campa-Najjar39Hunter +8
 
 More Latest Polls In The News
 
 *   Rep. Adam Schiff: We Should Not Talk About Impeachment Before All The Evidence Is In
-*   Chris Matthews: If Any Wrongdoing Happened With Russia, Trump Organization "Bookkeeper" Weiselberg Knows About It
+*   Chris Matthews: If Any Wrongdoing Happened With Russia, Trump "Bookkeeper" Weiselberg Would Know About It
 *   Trump To "Nasty" Dems: "Get Used To It. We Won The Election. We're Going To Win Again In 2020."
-*   Jimmy Dore: Instead Of Collusion, Mueller Finds Manafort Didn't Pay Taxes, Cohen Paid A Hooker. "Woo, You Got Em!"
+*   Jimmy Dore: Mueller Finds Manafort Didn't Pay Taxes, Cohen Paid A Hooker. "Woo, You Got Em!"
 *   Agnew Attorney: Trump Should Resign If He Has Any Interest In "Saving The Skin" Of His "Children"
 
 *   Politics
