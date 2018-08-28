@@ -1,5 +1,3 @@
-*   ARI3-027DAL0-33Final
-*   CIN3-026BUF1-213Final
 *   PHI0-30CLE2-15Final
 *   NE2-114CAR3-025Final
 *   NYG2-122NYJ1-216Final
@@ -14,6 +12,8 @@
 *   ATL0-36JAX2-117Final
 *   BAL4-027MIA0-310Final
 *   NO2-136LAC1-27Final
+*   CIN3-026BUF1-213Final
+*   ARI3-027DAL0-33Final
 
 *   News
 *   Scores
@@ -32,8 +32,6 @@
 *   NFL Network
 *   Photos
 
-*   ARI27DAL3Final
-*   CIN26BUF13Final
 *   PHI0CLE5Final
 *   NE14CAR25Final
 *   NYG22NYJ16Final
@@ -48,6 +46,8 @@
 *   ATL6JAX17Final
 *   BAL27MIA10Final
 *   NO36LAC7Final
+*   CIN26BUF13Final
+*   ARI27DAL3Final
 
 *   News
 *   Scores
