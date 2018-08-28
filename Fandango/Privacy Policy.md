@@ -7,36 +7,33 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     *   Crazy Rich Asians
     *   The Meg
-    *   Mile 22
+    *   The Happytime Murders
     *   Mission: Impossible - Fallout
-    *   Alpha
     *   Christopher Robin
+    *   Mile 22
+    *   Alpha
     *   BlacKkKlansman
+    *   A.X.L.
     *   Slender Man
     *   Hotel Transylvania 3: Summer Vacation
-    *   Mamma Mia! Here We Go Again
-    *   The Equalizer 2
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   A.X.L.
-    *   The Happytime Murders
-    *   Beautifully Broken (2018)
-    *   Blue Iguana
-    *   The Bookshop
-    *   John McEnroe: In the Realm of Perfection
-    *   An L.A. Minute
-    *   Papillon (2018)
+    *   Operation Finale
+    *   Kin (2018)
     *   Searching (2018)
-    *   Support the Girls
+    *   Active Measures
+    *   Big Brother (2018)
+    *   Blood Fest
+    *   The Little Stranger
+    *   Pick of the Litter
+    *   Snow Queen 3: Fire and Ice
+    *   Ya Veremos
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Kin (2018)
-    *   Ya Veremos
-    *   Operation Finale
     *   God Bless the Broken Road
     *   The Nun (2018)
     *   Peppermint (2018)
@@ -44,6 +41,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   A Simple Favor
     *   Unbroken: Path to Redemption
     *   White Boy Rick
+    *   Fahrenheit 11/9
+    *   The House with a Clock in its Walls
+    *   Life Itself (2018)
     *   See All Coming Soon
     
     Explore More
@@ -71,9 +71,9 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   When and Where to Find this Fall's Big Awards Contenders Read More
-    *   ‘Fantastic Beasts’ Set Visit: A Guide to the Wizarding World of France From ‘The Crimes of Grindelwald’ Read More
-    *   Watch New, Disturbing, Unsettling 'Suspiria' Trailer. Here's Everything We Know Read More
+    *   Next 3 Engaging Family Adventures: 'The House With a Clock in Its Walls,' 'The Nutcracker and the Four Realms,' 'The Grinch' Read More
+    *   'Lord of the Rings' Star Dominic Monaghan Joins 'Star Wars: Episode IX'. Here's What We Know So Far Read More
+    *   Emma Watson Joins Greta Gerwig's 'Little Women'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -317,13 +317,21 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
+*   'Ant-Man and The Wasp' Gift With Purchase
+    
+    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    
 *   'Mission: Impossible - Fallout' Gift With Purchase
     
     Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
     
-*   'Ant-Man and The Wasp' Gift With Purchase
+*   FandangoNOW Fresh Picks: August
     
-    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
+    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    
+*   Kids &. Family Mega Sale
+    
+    Make it a family night with these fun movies for everyone. WATCH NOW
     
 
 New + Coming soon
@@ -370,4 +378,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
