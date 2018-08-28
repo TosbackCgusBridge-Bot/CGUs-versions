@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms July 2018 was 4th warmest July on record for the globe Polar sea ice coverage remains smaller than normal AROUND NOAA // Powerful Hurricane Lane approaches main Hawaiian Islands \[EXT\] Teachers: Go back to school with NOAA NOAA red tide forecasts available for Florida and Texas \[EXT\]
+Enter Search Terms July 2018 was 4th warmest July on record for the globe Polar sea ice coverage remains smaller than normal AROUND NOAA // Heat-seeking citizen scientists zero-in on D.C., Baltimore for mapping mission NOAA and partners mobilize to aid Southern Resident killer whale, J50 \[EXT\] New smoke data from NOAA satellites keeps traveling public out of harm's way \[EXT\] Teachers: Go back to school with NOAA
 
 *   About our agency
 *   News and features
