@@ -23,7 +23,7 @@ SALE ON SALE: TAKE AN EXTRA 50% OFF – SHOP NOW.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -638,4 +638,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop× <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
