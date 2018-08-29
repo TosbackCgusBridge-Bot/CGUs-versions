@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Christian Whiton_: Trump's New Trade Deal a YUGE Win for America
+*   _Thomas Friedman_: What If Trump Did Actually Shoot Someone on 5th Avenue?
     
-*   _Alex He_: Trade War an Attack on China's Economic Model
+*   _Charles Hurt_: Pro-Trump Juror Shows the Backbone of America
     
-*   _Derrick Johnson_: Frustration with Racism Is Coming to the Ballot Box
+*   _Brooke Singman_: FBI Official: Bureau Leaked Stories to Get FISA Warrants
     
-*   _Robert Knight_: From Border Hysteria to Impeachment Cheerleading
+*   _John Avlon_: Trump Presidency Is What Real Culture of Corruption Looks Like
     
-*   _Ryan Cooper_: What on Earth Is Barack Obama Doing?
+*   _Byron York_: Trump-McCain: A Rare DC Relationship Without Pretense, BS
     
-*   _Julie Kelly_: Study Claiming Illegals Commit Less Crimes Is Bogus
+*   _Espinosa &. Hidalgo_: The Climate Fight's Next Turning Point
     
-*   _Adele Stan_: Trump and the Rise of 21st Century Fascism
+*   _Bjorn Lomborg_: How the War on Climate Change Slams the World's Poor
     
-*   _Scott McKay_: Socialism Is a Crime Against Humanity
+*   _Matthew Schmitz_: A Catholic Civil War?
     
-*   _Emma Green_: The Sex-Abuse Scandal Has Come for Pope Francis
+*   _Michael O'Loughlin_: Papal Wrongdoing, or Palace Intrigue?
     
-*   _Kimberly Burton_: Why Do Feminists Hate Conservative Women?
+*   _Matthew Walther_: The Sneering Contempt of Pope Francis
     
-*   _Carl M. Cannon_: John McCain and the Messages That Mattered
+*   _Demetrios Karoutsos_: Was the Pentagon's Cloud Computing Project Rigged?
     
-*   _Joel Kotkin_: The Triumph of Trumpism Will Outlast Trump
+*   _Sohrab Ahmari_: Catholic Abuse Scandal Leads All the Way to the Vatican
     
-*   _James Fallows_: It Would Only Take One Senator
+*   _Daniel Burke_: The 'Coup' Against Pope Francis
     
-*   _David Catron_: The Left Still Has No Clue Why It's Losing
+*   _David Leonhardt_: McCain's Parting Message: Our Greatness Is in Peril
     
-*   _Charles Blow_: Let's Hope Odd Bedfellows Trump Created Take Him Down
+*   _Roger Kimball_: Liberals' Slathering Praise for John McCain Rings False
     
-*   _Ned Ryun_: America's Crisis Is Three-Tiered Justice
+*   _Tim Alberta_: Can Republicans Get Their Ideas Mojo Back?
     
-*   _Doyle McManus_: What We Lost in John McCain
+*   _Rep. Steve Scalise_: Trump Ends Obama's War on Coal
     
-*   _Newt Gingrich_: Why McCain Was Such an Inspiration to Me
+*   _Debra Saunders_: Why Trump Sees Bias at the Justice Department
     
-*   _Sally Persons_: Will Cruz-O'Rourke Senate Race Turn Texas Blue?
+*   _Michelle Goldberg_: What Democrats Can Do With Subpoena Power
     
-*   _Alexandra DeSanctis_: GOP Underdog Fights for a Senate Seat in Wisconsin
+*   _James Walker_: China--Not Russia--Elected Trump
     
-*   _E.J. Dionne_: The Struggle to Stay Catholic
+*   _Krishnadev Calamur_: Trump NAFTA Strategy: Bluff, Rebrand, Declare Victory
     
-*   _Gracy Olmstead_: Our Civic Institutions Are Self-Destructing
+*   _Sean Trende_: Sizing Up the Florida Senate Race
     
-*   _Roland Martin_: Black Pastors Who Support Trump Are a Disgrace
+*   _Max Greenwood_: Key Races to Watch as Florida, Arizona Head to Polls
     
-*   _Graham Hillard_: The Progressive War on 'Whiteness'
+*   _Matt Ford_: Elizabeth Warren vs. the Roberts Court
     
 
 *   Previous
@@ -178,7 +178,7 @@ This policy does not apply to the practices of third parties that RCP does not o
 Our primary goal in collecting PII is to provide you with a friendly, customized, and enhanced experience. We only collect PII that is relevant to the purpose of our Services. We may collect PII about our Users in various ways such as: directly from Users, via usage of our Services automatically, from publicly available sources or affiliated 3rd party services. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by Users, publicly available sources or third parties.
 
 1.  Data You Provide to Us
-    1.  _Registration_ - We collect and store PII such as name, address, e-mail, IP address, geo-location, title, job type, phone number, organization name, organization type, country, industry field of interest, credit card (where applicable) that Users voluntarily supply either while on our Sites or Applications. We use this information to enable Users on array of optional services and/or features such as online newsletters, notifications, online commenting, surveys, contact forms and paid subscriptions. For some services, Users may be able to submit information about other people. For example, you might submit a person’s name, email address, telephone number to send a link of interest or purchase a gifted paid-subscription for them.
+    1.  _Registration_ - We collect and store PII such as name, address, e-mail, IP address, geo-location, title, job type, phone number, organization name, organization type, country, industry field of interest, credit card (where applicable) that Users voluntarily supply either while on our Sites or Applications. We use this information to enable Users to an array of services and/or features such as online newsletters, notifications, online commenting, surveys, contact forms and paid subscriptions from RCP, partners and advertisers. For some services, Users may be able to submit information about other people. For example, you might submit a person’s name, email address, telephone number to send a link of interest or purchase a gifted paid-subscription for them.
     2.  _Social Media_ – If Users access or log-in to a RCP Service through a social media service or connect a RCP Service to a social media service, the PII we collect may also include User ID and/or user name associated with social media service, any other information or content Users have permitted the social media service to share with us, such as profile picture, email address or friends lists, and any information Users have made public in connection with that social media service. When accessing RCP Services through social media services, Users authorize RCP to collect, store and use such information and content in accordance with this Privacy Policy.
 2.  Data Automatically or Passively Collected
     1.  _Server Logs_ – when Users access and interact with RCP Services and its service providers, we receive and record certain “traffic data” on our server logs (which may be hosted by a 3rd party service) such as but not limited to: IP address, timestamp of visit, page visited or service used, geolocation, unique device identifier (if accessing via mobile, unique device identifier. We use this to permit a connection to our Services, help diagnose problems with our servers, analyze trends and administer our Services.
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Sizing Up the Florida Senate Race
+*   Filling McCain's Seat a Political Balancing Act for Governor
+*   Trump Announces U.S.-Mexico Deal: "We'll Get Rid of the Name NAFTA"
 *   Can Cruz-O'Rourke Senate Race Turn Texas Blue?
 *   Presidents, Lawmakers Honor McCain's Life of Service
-*   Sperry: Most Emails on Weiner Laptop Were Never Examined
-*   Trump Calls Off Pompeo Visit to North Korea
-*   Defiant Pelosi on the Midterms: "I Can Take the Heat"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,33 +247,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Texas Senate - Cruz vs. O'RourkeEmerson
-    *   Cruz39
-    *   O'Rourke38Cruz +1
-*   Florida Governor - Republican PrimaryGravis
-    *   DeSantis39
-    *   Putnam27
-    *   Nathan4
-    *   White6
-    *   Baldauf
-    *   DevineDeSantis +12
-*   Florida Governor - Democratic PrimaryGravis
-    *   Graham26
-    *   Levine18
-    *   Greene19
-    *   Gillum16
-    *   King5Graham +7
-*   California 50th District - Hunter vs. Campa-NajjarKGTV-TV/SurveyUSA
-    *   Hunter47
-    *   Campa-Najjar39Hunter +8
+*   Wisconsin Senate - Vukmir vs. BaldwinSuffolk
+    *   Baldwin50
+    *   Vukmir42Baldwin +8
+*   Wisconsin Governor - Walker vs. EversSuffolk
+    *   Evers46
+    *   Walker44Evers +2
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
+*   President Trump Job ApprovalHarvard-Harris
+    *   Approve46
+    *   Disapprove54Disapprove +8
 
 More Latest Polls In The News
 
-*   Rep. Adam Schiff: We Should Not Talk About Impeachment Before All The Evidence Is In
-*   Chris Matthews: If Any Wrongdoing Happened With Russia, Trump "Bookkeeper" Weiselberg Would Know About It
-*   Trump To "Nasty" Dems: "Get Used To It. We Won The Election. We're Going To Win Again In 2020."
-*   Jimmy Dore: Mueller Finds Manafort Didn't Pay Taxes, Cohen Paid A Hooker. "Woo, You Got Em!"
-*   Agnew Attorney: Trump Should Resign If He Has Any Interest In "Saving The Skin" Of His "Children"
+*   Graham: "No Evidence" Of Trump/Russia Collusion, But "Tons" Of Evidence Of Crimes Inside DOJ, FBI
+*   Meadows: "Hard Evidence" FBI Leaked Info To Press, Used Same Stories To Obtain FISA Warrants
+*   Tucker Carlson: Left Wants Trump Presidency "Annulled". Erased From History, Forgotten By Decree
+*   John Brennan: I Am Still "Uncertain" If My Security Clearance Really Has Been Stripped
+*   Chuck Todd: American Distrust Of Media Created By "Conservative Echo Chamber," "Not Based In Much Fact"
 
 *   Politics
 *   Policy
