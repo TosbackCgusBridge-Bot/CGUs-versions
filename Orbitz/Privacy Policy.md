@@ -21,6 +21,8 @@ Show Menu Hide Menu
     *   Rewards
     *   Travel Blog
 
+*   Add your property
+
 *   Account
     *   Sign in to see exclusive Member Pricing.
     *   Sign In
@@ -44,7 +46,7 @@ Show Menu Hide Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/70de6a7e15876aaedc0c978220da719f5bb1c234 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/e861204c17cf68c68e49290be0accd7408ba6d8d Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
@@ -77,7 +79,7 @@ Already have an account? Sign In Sign in to your account Sign in to your account
 
 Password
 
-Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Explore More Orbitz
+Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Add a property Explore More Orbitz
 
 *   About Orbitz
 *   Investor Relations
@@ -112,5 +114,9 @@ Other Links
 *   Mobile
 *   Vacations by Interest
 *   Unique Accommodation
+
+Partner Services
+
+*   Add a property
 
 © 2018 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
