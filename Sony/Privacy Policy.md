@@ -153,7 +153,7 @@ PS VR
 
 Simplify your PlayStation setup and control your entertainment effortlessly with the new Cloud Remote for PS4.
 
-4 days ago
+5 days ago
 
 View Tweet
 
