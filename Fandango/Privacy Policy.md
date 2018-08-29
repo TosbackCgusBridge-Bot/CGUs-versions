@@ -71,7 +71,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Engaging Family Adventures: 'The House With a Clock in Its Walls,' 'The Nutcracker and the Four Realms,' 'The Grinch' Read More
+    *   Alec Baldwin Is Playing Batman's Dad in 'Joker'. Here's Everything We Know Read More
     *   'Lord of the Rings' Star Dominic Monaghan Joins 'Star Wars: Episode IX'. Here's What We Know So Far Read More
     *   Emma Watson Joins Greta Gerwig's 'Little Women'. Here's Everything We Know Read More
     
@@ -317,33 +317,29 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Ant-Man and The Wasp' Gift With Purchase
+*   'The Predator' Gift with Purchase
     
-    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
-    
-*   'Mission: Impossible - Fallout' Gift With Purchase
-    
-    Own all of the previous 'Mission: Impossible' movies to watch at home for just $3.99 each with ticket purchase. BUY TICKETS
+    Buy tickets to 'The Predator' and get a FREE\* Predator digital comic-book with ticket purchase. BUY TICKETS
     
 *   FandangoNOW Fresh Picks: August
     
     100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
-*   Kids &. Family Mega Sale
+*   'Ant-Man and The Wasp' Gift With Purchase
     
-    Make it a family night with these fun movies for everyone. WATCH NOW
+    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 
 New + Coming soon
 
-*   Incredibles 2
-*   Jurassic World: Fallen Kingdom
 *   Ant-Man and the Wasp (2018)
-*   Hotel Transylvania 3: Summer Vacation
-*   Mamma Mia! Here We Go Again
-*   The Equalizer 2
 *   Unfriended: Dark Web
 *   Mission: Impossible - Fallout
+*   Crazy Rich Asians
+*   The Predator (2018)
+*   White Boy Rick
+*   The House with a Clock in its Walls
+*   Smallfoot
 
 Experience + Explore
 
