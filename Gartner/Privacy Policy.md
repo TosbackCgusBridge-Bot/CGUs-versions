@@ -3,7 +3,7 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Call +1 855-483-7821 or contact us
+Call +1 855-476-0138 or contact us
 
 to become a Gartner client.
 
@@ -247,7 +247,7 @@ to become a Gartner client.
     
     Become a Client General Contacts Worldwide Offices Media Relations Privacy Officers Technical Support
     
-*   Call +1 855-483-7821 or contact us
+*   Call +1 855-476-0138 or contact us
     
     to become a Gartner client.
     
@@ -443,7 +443,7 @@ Where legitimate interests are mentioned above, a legitimate interest will only 
 
 Our websites and online services are for individuals who are at least 18 years of age. Our online services are not designed to be used by individuals under the age of 18.
 
-In certain circumstances, if you do not provide personal information which is required (for example, in relation to activating your Gartner licence), we will not be able to perform our obligations under the contract with you or may not be able to provide you with products and services. We will make it clear if and when this situation arises and what the consequences of not providing the information will be. 
+In certain circumstances, if you do not provide personal information which is required (for example, in relation to activating your Gartner license), we will not be able to perform our obligations under the contract with you or may not be able to provide you with products and services. We will make it clear if and when this situation arises and what the consequences of not providing the information will be. 
 
 Communication with Colleagues
 
@@ -484,6 +484,10 @@ The countries to which we transfer data outside of the EEA may include any of th
 
 All Gartner entities have signed an Intragroup Agreement containing the European Union (“EU”) Commission Approved Standard Contractual Clauses for the transfer of data outside the European Economic Area. All Gartner entities have the same technical, physical, and administrative security controls and are required to comply with our data protection policies and procedures, applicable laws, and the terms of our client and member contracts governing the collection and use of information.
 
+**Privacy Shield.**  Gartner, Inc. and its wholly-owned subsidiary CEB Inc. comply with the EU-US and Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union and Switzerland to the United States, and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. Gartner has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program and to view our certification, please visit https://www.privacyshield.gov/.
+
+Gartner’s accountability for information that we receive under the Privacy Shield and subsequently transfer to a third party is described in the Privacy Shield Principles. In particular, we remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process the information on our behalf do so in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+
 4\. RETENTION PERIODS
 
 We will retain your personal information for as long as required to perform the purposes for which the data was collected, depending on the legal basis for which that data was obtained and/or whether additional legal/regulatory obligations mandate that we retain your personal information.  We may also retain personal information for the period during which a claim may be made in relation to our dealings with you.  
@@ -499,7 +503,7 @@ We believe it is important to give you choices about the use of your information
 
 Marketing Communications
 
-We will respect your wishes not to receive marketing communications. You can change your marketing preferences by contacting us at the address here . If you gave us your email address to receive marketing communications, you can opt-out at any time by using the unsubscribe links or instructions included at the bottom of our emails. Please note that we will continue to send you service-related communications regardless of any opt-out request. We will not sell or share your information or information with third parties (other than our subsidiaries or affiliates) for their own promotional or marketing purposes unless you give us consent to do so and where permitted by applicable law.
+We will respect your wishes not to receive marketing communications. You can change your marketing preferences by contacting us at the address here. If you gave us your email address to receive marketing communications, you can opt out at any time by using the unsubscribe links or instructions included at the bottom of our emails. Please note that we will continue to send you service-related communications regardless of any opt-out request. We will not sell or share your information or information with third parties (other than our subsidiaries or affiliates) for their own promotional or marketing purposes unless you give us consent to do so and where permitted by applicable law.
 
 Gartner Everywhere
 
@@ -568,6 +572,10 @@ In most cases, you have the right to receive all personal data you have provided
 **Right to lodge a complaint with a supervisory authority**  
 
 If you object to our processing of your personal data, you have the right to complain to the data protection authority (“DPA”) in the country where you reside, where you work, or where an alleged infringement of data protection laws has taken place.
+
+We agree that any disputes regarding our privacy policies and related actions regarding personal information from data subjects in the EU and Switzerland can be heard by a DPA and we will be subject to the determinations of those bodies (as further explained in the Privacy Shield Principles). Please contact us to be directed to the relevant DPA.
+
+In certain circumstances after they have first tried to resolve the dispute directly with us and with the DPA, data subjects in the EU and Switzerland may be able to invoke binding arbitration of disputes by the Privacy Shield arbitration panel.
 
 7\. SECURITY
 
