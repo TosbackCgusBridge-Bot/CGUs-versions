@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 The latest by @Requidan -- Explosions Across Ad Tech: Signs Of Consolidation Or Growth? adexchanger.com/the-… @adexchanger
 
-About 5 days ago
+About 6 days ago
 
 My week on Twitter : 5 Mentions, 1.25K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/W2bV…
 
@@ -178,7 +178,7 @@ Last month
 
 My week on Twitter : 1 Mention, 1.16K Mention Reach, 1 Like, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/DYxm…
 
-About a month ago
+About 2 months ago
 
 Getting In On The 2020 Election Campaigns. Here's What Publishers Need to Know! bit.ly/2N4mkWe via @adexchanger @Requidan
 
