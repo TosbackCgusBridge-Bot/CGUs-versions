@@ -23,6 +23,7 @@ Skip to main content Online Trust Alliance
     _▼_
 *   Resources
     
+    *   Report Archive
     *   IoT Resources
     *   Data Breach &. Protection
     *   Email Practices &. Reports
@@ -37,10 +38,6 @@ Skip to main content Online Trust Alliance
     *   Press Releases
     *   OTA In The News
     *   Upcoming Events
-        
-        *   Recent Events
-        
-        _▼_
     
     _▼_
 *   Membership
@@ -109,6 +106,7 @@ More >>. Main menu
     *   Privacy
     *   Public Policy
 *   Resources
+    *   Report Archive
     *   IoT Resources
     *   Data Breach &. Protection
     *   Email Practices &. Reports
@@ -120,7 +118,6 @@ More >>. Main menu
     *   Press Releases
     *   OTA In The News
     *   Upcoming Events
-        *   Recent Events
 *   Membership
     *   Member Portal
 *   About Us
@@ -144,7 +141,6 @@ Newsroom
 *   Press Releases
 *   OTA In The News
 *   Upcoming Events
-    *   Recent Events
 
 Membership
 
