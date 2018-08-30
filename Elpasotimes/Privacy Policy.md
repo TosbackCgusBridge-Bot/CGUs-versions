@@ -1,3 +1,5 @@
+close dialogONLY $1 FOR 3 MONTHSSubscribeclose dialog
+
 *   Home
 *   News
 *   Sports
@@ -30,7 +32,6 @@
     *   Public Notices
     *   Subscribe
 
-*   socialFollow
 *   search
 *   Firefly
     
@@ -73,7 +74,7 @@
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPepe Aguilar and family ride in El Paso showEntertainmentExpect boxer Ray Beltran to beat Jose PedrazaSportsDo you know El Paso's most-wanted fugitives?CrimeTexas Tech retirement draws concerns in El PasoEducationKidnapping suspect prompts sweep in desertCrimeSeparated immigrant families reunited in El PasoImmigrationTexas woman killed in I-10 crash in New MexicoLocalWoman arrested after gun, drugs found in motelCrimeNew Class 5A district brings intrigue to footballHigh-schoolCBP officers seize meth at El Paso port of entryCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPolice ask public for information in woman's deathCrimeTexas GOP posts Beto O'Rourke mugshot, band picPoliticsBilly Abraham arrested on criminal chargesCrimeTop 5 high school football rankings in El PasoSportsEthan Hawke in El Paso on new movie, politicsEntertainmentEthan Hawke calls Beto O'Rourke 'genuine'EntertainmentU. S. Rep. Beto O'Rourke to sit on Ellen's couchEntertainmentJuárez gang issues video threats against rivalsLocal15 arrested after immigrant stash house raidedLocalReport: Toddler dies shortly after ICE custodyImmigrationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -144,3 +145,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialogONLY $1 FOR 3 MONTHSSubscribeNo thanksclose dialogclose dialogONLY $1 FOR 3 MONTHSSubscribeclose dialog
