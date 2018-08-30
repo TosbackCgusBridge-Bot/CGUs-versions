@@ -18,14 +18,14 @@ OK Log in to AVG MyAccount Blog MENU Skip to content Close
     *   AVG AntiTrack
     *   All Products
 *   Mac
-    *   AVG Cleaner for Mac®
-    *   AVG AntiVirus for Mac®
+    *   AVG Cleaner for Mac
+    *   AVG AntiVirus for Mac
     *   AVG Secure VPN for Mac
     *   All products
 *   Mobile
     *   **Android Apps for Mobile and Tablet**
-    *   AVG AntiVirus for Android™
-    *   AVG Cleaner™ for Android™
+    *   AVG AntiVirus for Android
+    *   AVG Cleaner for Android
     *   AVG Secure VPN for Android
     *   AVG Secure VPN for iOs
     *   All Products
@@ -35,8 +35,8 @@ OK Log in to AVG MyAccount Blog MENU Skip to content Close
     *   AVG AntiVirus Business Edition
     *   AVG File Server Business Edition
     *   AVG PC TuneUp Business Edition
-    *   AVG AntiVirus for Android™ - Business
-    *   AVG Business AntiVirus for Mac®
+    *   AVG AntiVirus for Android - Business
+    *   AVG Business AntiVirus for Mac
     *   Compare products
 *   Services
     *   Premium Tech Support
