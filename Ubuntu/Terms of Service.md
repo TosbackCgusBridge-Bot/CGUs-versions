@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Moving towards a software defined IoT business model ›
 *   Ubuntu Server development summary – 28 August 2018 ›
 *   Fresh Linux Applications On Demand ›
 *   The Road to Kubernetes &. vSphere Integration ›
 *   Ubuntu Server development summary – 21 August 2018 ›
-*   Snapcraft at Europython 2018 ›
