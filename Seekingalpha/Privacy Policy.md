@@ -1,4 +1,4 @@
-PROMarketplaceSeeking Alpha
+MarketplaceSeeking AlphaSUBSCRIBE
 
 *   Portfolio
 *   People
