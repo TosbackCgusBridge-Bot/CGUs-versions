@@ -3,7 +3,7 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Call +1 855-476-0138 or contact us
+Call +1 855-635-8961 or contact us
 
 to become a Gartner client.
 
@@ -247,7 +247,7 @@ to become a Gartner client.
     
     Become a Client General Contacts Worldwide Offices Media Relations Privacy Officers Technical Support
     
-*   Call +1 855-476-0138 or contact us
+*   Call +1 855-635-8961 or contact us
     
     to become a Gartner client.
     
