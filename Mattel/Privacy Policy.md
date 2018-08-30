@@ -15,6 +15,7 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   Suomi (Suomi)
     *   България (Български)
     *   Русский (Россия)
+    *   繁體中文
     *   Dutch (Nederlands)
     *   Español (España)
     *   Italiano (Italia)
@@ -58,6 +59,7 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
         *   Suomi (Suomi)
         *   България (Български)
         *   Русский (Россия)
+        *   繁體中文
         *   Dutch (Nederlands)
         *   Español (España)
         *   Italiano (Italia)
@@ -758,7 +760,7 @@ For American Girl:
     email: service@americangirl.com
     
 
-Takaisin alkuun Back to Top mattel  
+Back to Top Back to Top mattel  
 XXXX  
 dev  
 left  
@@ -792,8 +794,8 @@ Helpful Links
 
 Follow Mattel
 
+*   Submit Product Ideas
 *   NEW Privacy Statement
-*   Terms &. Conditions
 
 *   © 2018 Mattel. All Rights Reserved
 
