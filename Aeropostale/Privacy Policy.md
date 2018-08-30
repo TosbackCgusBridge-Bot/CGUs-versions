@@ -4,7 +4,6 @@ Aeropostale
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
-*   Open submenu ( Shorts ) Shorts
 *   Open submenu ( Clearance ) Clearance
 
 *   Help? - Contact Us Help? - Contact Us
@@ -74,8 +73,6 @@ Close submenu ( Featured ) Featured
 *   Basic Essentials
 *   Seriously Soft
 *   Online Only
-*   3 for $12 Undies
-*   Buy 1 Get 2 Free Socks
 
 Close submenu ( Tops ) Tops
 
@@ -142,7 +139,6 @@ Close submenu ( Featured ) Featured
 *   Logo Shop
 *   Back to Basics
 *   Online Only
-*   Buy 1 Get 2 Accessories
 
 Close submenu ( Tops ) Tops
 
@@ -191,7 +187,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
-*   $25 + Under
+*   $24 + Under
 *   Super Skinny
 *   Skinny
 *   Straight
@@ -201,42 +197,6 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Relaxed
 *   Flex Effects
 *   Ripped Repaired Destroyed
-
-Close submenu ( Shorts ) Shorts
-
-*   View Home
-*   Open submenu ( Girls Shorts ) Girls Shorts
-
-*   Open submenu ( Guys Shorts ) Guys Shorts
-
-Close submenu ( Girls Shorts ) Girls Shorts
-
-*   View All
-*   Low Rise Shorty
-*   High-Waisted Shorty
-*   Low Rise Midi
-*   High-Waisted Midi
-*   Low Rise Twill Midi
-*   Low Rise Tomboy
-*   Low Rise Bermuda
-*   High-Waisted Cheeky
-*   Soft Shorts
-*   Shortall
-*   Lounge
-*   Active
-
-Close submenu ( Guys Shorts ) Guys Shorts
-
-*   View All
-*   Classic Chino Short
-*   Longboard
-*   Cargo Short
-*   Long Cargo
-*   Cut-Off Denim
-*   Cuffed Denim
-*   Color Denim
-*   Jogger Short
-*   Athletic
 
 Close submenu ( Clearance ) Clearance
 
@@ -281,7 +241,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+**BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **60% OFF + FREE SHIPPING OVER $50** 
 
 *   My Account My Account Login Register
 
@@ -329,8 +289,6 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Seriously Soft
         *   Online Only
-        *   3 for $12 Undies
-        *   Buy 1 Get 2 Free Socks
     
     *   Tops
         *   View All
@@ -389,7 +347,6 @@ Menu Find a Store Aeropostale
         *   Logo Shop
         *   Back to Basics
         *   Online Only
-        *   Buy 1 Get 2 Accessories
     
     *   Tops
         *   View All
@@ -437,7 +394,7 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
-        *   $25 + Under
+        *   $24 + Under
         *   Super Skinny
         *   Skinny
         *   Straight
@@ -447,35 +404,6 @@ Menu Find a Store Aeropostale
         *   Relaxed
         *   Flex Effects
         *   Ripped Repaired Destroyed
-*   Shorts
-    
-    *   View Home
-    *   Girls Shorts
-        *   View All
-        *   Low Rise Shorty
-        *   High-Waisted Shorty
-        *   Low Rise Midi
-        *   High-Waisted Midi
-        *   Low Rise Twill Midi
-        *   Low Rise Tomboy
-        *   Low Rise Bermuda
-        *   High-Waisted Cheeky
-        *   Soft Shorts
-        *   Shortall
-        *   Lounge
-        *   Active
-    
-    *   Guys Shorts
-        *   View All
-        *   Classic Chino Short
-        *   Longboard
-        *   Cargo Short
-        *   Long Cargo
-        *   Cut-Off Denim
-        *   Cuffed Denim
-        *   Color Denim
-        *   Jogger Short
-        *   Athletic
 *   Clearance
     
     *   View Home
@@ -517,7 +445,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Shop Girls Jeans Shop Guys Jeans Shop Girls Tees Shop Guys Tees Shop Girls Polos Shop Guys Polos Shop Girls Flex Effects Shop Guys Flex Effects Shop All Our Jeans Shop Girls Shop Guys Shop Girls Shorts Shop Guys Shorts Shop Girls Uniform Shop Guys Uniform Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Polos Shop Guys Polos Shop Girls Tees Shop Guys Tees Shop Girls Shorts Shop Guys Shorts Shop Girls Uniform Shop Guys Uniform Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 
 *   Order Status
@@ -552,7 +480,7 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
 
 Refer a friend and get $15 off.
 
