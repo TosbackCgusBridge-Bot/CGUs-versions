@@ -4,11 +4,11 @@
 *   Inventory
     
     *   New inventory
-    *   Certified pre-owned
+    *   Pre-owned
     
     Inventory Inventory
     *   New inventory
-    *   Certified pre-owned
+    *   Pre-owned
 *   *   Audi connect®
     *   e-tron®
     *   MMI®
@@ -184,4 +184,4 @@ Own
 Audi of America. All rights reserved.  
 © Copyright 2018
 
-<img src="https://audiag.112.2o7.net/b/ss/audiagaoacq5test/1/H.25--NS/1531631726837?cdp=2&amp;gn=%2Fcontent%2Faudiusa%2Fen%2F404" height="1" width="1" border="0" alt=""/>. <iframe src="//s.thebrighttag.com/iframe?c=a525KK2" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
+<img src="https://audiag.112.2o7.net/b/ss/audiagaoacq5test/1/H.25--NS/1535692801821?cdp=2&amp;gn=%2Fcontent%2Faudiusa%2Fen%2F404" height="1" width="1" border="0" alt=""/>. <iframe src="//s.thebrighttag.com/iframe?c=a525KK2" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
