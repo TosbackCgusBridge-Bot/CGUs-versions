@@ -1,6 +1,6 @@
 Toggle navigation Find Your Town Advertise Post Log in
 
-*   Thu, Aug 30
+*   Fri, Aug 31
 
 *   Post
 *   Advertise
