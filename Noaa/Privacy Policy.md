@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms July 2018 was 4th warmest July on record for the globe Polar sea ice coverage remains smaller than normal AROUND NOAA // Heat-seeking citizen scientists zero-in on D.C., Baltimore for mapping mission New smoke data from NOAA satellites keeps traveling public out of harm's way \[EXT\] Teachers: Go back to school with NOAA
+Enter Search Terms Labor Day holiday forecast: Seasonable temperatures, rain chances across much of U.S. AROUND NOAA // Fact vs. fiction: 3 things you thought you knew about jellyfish Teachers: Go back to school with NOAA Heat-seeking citizen scientists zero-in on D.C., Baltimore for mapping mission New smoke data from NOAA satellites keeps traveling public out of harm's way \[EXT\]
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+NOAA
