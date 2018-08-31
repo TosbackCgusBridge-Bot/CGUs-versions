@@ -144,7 +144,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Application hints and tips
         
     *   Careers events
-        
+        *   HSBC UK Diversity &. Inclusion Networking event last item in this group
     *   Students and graduates
         *   Student opportunities
         *   Graduate opportunities
