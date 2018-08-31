@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   The enterprise deployment game-plan: why multi-cloud is the future ›
+*   Top 10 Linux applications for entertainment and leisure ›
 *   Moving towards a software defined IoT business model ›
 *   Ubuntu Server development summary – 28 August 2018 ›
 *   Fresh Linux Applications On Demand ›
-*   The Road to Kubernetes &. vSphere Integration ›
-*   Ubuntu Server development summary – 21 August 2018 ›
