@@ -129,6 +129,15 @@
     *   All retirement calculators
     *   All investing calculators
     
+    Brokerage Reviews
+    
+    *   WellsTrade Review
+    *   Robinhood Review
+    *   Merrill Edge Review
+    *   Vanguard Review
+    *   Fidelity Review
+    *   E\*Trade Review
+    
     Get Advice
     *   Creating passive income
     *   Mutual fund vs. ETF
