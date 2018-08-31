@@ -20,13 +20,14 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Cut4
     *   Trade Talk
     *   Play Ball
+    *   States Play
     *   Players of the Week
     *   Pipeline
     *   MLB Photo Stream
     *   Entertainment
     *   Reporter's Inbox
-    *   Glossary
     *   This Date in History
+    *   Glossary
 *   Video Video Video
     
     In This Section
@@ -172,6 +173,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   News
     *   Pitch Smart
     *   Play Ball Near You
+    *   States Play
     *   Parent/Coach Education
     *   RBI
     *   Pitch, Hit &. Run
