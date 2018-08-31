@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Josh Voorhees_: The Progressive Left Finds a New Hero in Florida
+*   _David Winston_: 2 Years Later, the Elites Are Still Disconnected From Voters
     
-*   _Monica Crowley_: The Hidden Trump Voters That May Save the GOP in Nov
+*   _Gail Collins_: Trump's Swamp Things
     
-*   _David Von Drehle_: Diamonds Are Forever. Judges Are the Next Best Thing
+*   _Daniel Oliver_: MLK Would Be Pleased With Black Gains Under Trump
     
-*   _Margot Cleveland_: Deep State Sabotage Is the Real Threat
+*   _Fabiola Santiago_: DeSantis, Florida and the Era of Trump-Fueled Bigotry
     
-*   _Atossa Araxia Abrahamian_: Money for Nothing: The Case for Guaranteed Income
+*   _Charles Cooke_: The Press Disgraces Itself in Pursuit of Ron DeSantis
     
-*   _Christian Whiton_: Gavin Newsom's War on Middle Class Californians
+*   _Benjamin Wallace-Wells_: Andrew Gillum &. Democrats' Next Generation
     
-*   _Glenn Greenwald_: CNN Won't Respond to Claims It Lied to Its Audience
+*   _Michael Ledeen_: Will Sessions Crack Down on Corruption at CIA, FBI, DOJ?
     
-*   _Jonathan Turley_: Lanny Davis &. the Year of Lawyers Living Dangerously
+*   _Fred Wertheimer_: Trump Jr. Broke the Law at Trump Tower Meeting
     
-*   _Cass Sunstein_: The President Who Would Bring Back the Sedition Act
+*   _Victor Davis Hanson_: The Truth About Mueller's Russia Probe Will Set Us Free
     
-*   _John Kass_: The Silence of Pope Francis &. the Pain of a Church
+*   _Uri Friedman_: Inside the Dispute Derailing Nuclear Talks With North Korea
     
-*   _Carl Cannon_: When Civil Rights Became Hollywood's Cause Celebre
+*   _Robyn Dixon_: Is the U.S. in a New Cold War With China?
     
-*   _Michael Goodwin_: The Real Scandals Plaguing America
+*   _Russell Berman_: 'One of the Most Brutal Races in the Country' Has Begun
     
-*   _Paul Starr_: No, Trump Is Far From Finished
+*   _Adele Malpass_: For Both Parties, '98 Midterms Offer a Lesson for '18
     
-*   _Robert Merry_: Why Trump's Ratings Won't Budge: The Fight Is Bigger Than Him
+*   _Gregg Jarrett_: The DOJ, FBI Scheme to Clear Clinton, Damage Trump
     
-*   _Matthew Walther_: Gillum, McSally, and the Lessons of Tuesday's Primaries
+*   _Neera Tanden_: Trump and Republicans Have a Huge Corruption Problem
     
-*   _Caitlin Huey-Burns_: For 2020 Hopefuls, Midterms Offer a Leg Up
+*   _Lee Smith_: There's Method in Trump's Slackness on Opening Files
     
-*   _Ross Douthat_: What Did Pope Francis Know?
+*   _Kara Swisher_: Trump's Ludicrous Attack on Big Tech
     
-*   _Jill Filipovic_: The Pope Should Probably Resign
-    
-*   _Eugene Dunn_: Democrats and the Impeachment Delusion
-    
-*   _Robert Reich_: Don't Impeach Trump, Annul His Presidency
-    
-*   _John Solomon_: Clear Case of Collusion: Ohr, the FBI &. a Russian Oligarch
-    
-*   _Thomas Walkom_: Why Sign Trade Deal With an Untrustworthy Partner?
+*   _Michelle Malkin_: The Left's Long War on Conservative Free Speech
     
 *   _Christopher Balding_: How U.S.-Mexico Pact Could Turn Tables on China
     
-*   _Peter Berkowitz_: Israel Wrestles With Nationalism and Freedom
+*   _Veronique de Rugy_: How Special Interests Hide the True Costs of Tariffs
+    
+*   _Thomas Lifson_: Trump's Trade Strategy Is Succeeding Brilliantly
+    
+*   _Greg Sargent_: Shocking FL Outcome Sets Up a Big Test for Dems
+    
+*   _David Catanese_: The Tale of Two Arizona Senate Seats
+    
+*   _Christopher Buskirk_: Replacing McCain: Sorting Out the Options
     
 
 *   Previous
@@ -226,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   For Both Parties, 1998 Midterms Offer a Lesson for '18
 *   Fla. Governor's Race Pits Liberal Dem vs. Trump Republican
+*   Greenwald: A Humiliating Moment for CNN, Can't Admit They Lied
 *   For Likely 2020 Candidates, Midterms Offer a Leg Up
-*   Graham: No Evidence of Collusion, Tons of Evidence of DOJ/FBI Crimes
 *   Sizing Up the Florida Senate Race
-*   Can Cruz-O'Rourke Senate Race Turn Texas Blue?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +247,26 @@ Latest PollsAll Polls
 *   Governors 2016
 *   State of the Union
 
-*   Connecticut Senate - Corey vs. MurphyGravis
-    *   Murphy54
-    *   Corey37Murphy +17
-*   Connecticut Governor - Stefanowski vs. LamontGravis
-    *   Lamont49
-    *   Stefanowski40Lamont +9
-*   New York 22nd District - Tenney vs. BrindisiSiena
-    *   Brindisi46
-    *   Tenney44Brindisi +2
+*   Pennsylvania Senate - Barletta vs. CaseyFranklin &. Marshall\*
+    *   Casey47
+    *   Barletta34Casey +13
+*   Pennsylvania Governor - Wagner vs. WolfFranklin &. Marshall\*
+    *   Wolf52
+    *   Wagner35Wolf +17
+*   New York 19th District - Faso vs. DelgadoSiena
+    *   Faso45
+    *   Delgado40Faso +5
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove53Disapprove +6
+    *   Approve48
+    *   Disapprove51Disapprove +3
 
 More Latest Polls In The News
 
+*   Trump: Old And Corrupt Globalist Ruling Class Have Been Rejected, "The Whole World Understands"
+*   Tucker Carlson: Media Invites Discredited Neocon Morons, Unemployed Political Hacks To Fret Over GOP
+*   Princeton's Eddie Glaude on Monkeygate: "Obvious Racial Dogwhistle," Will The US Be A Racist Nation Or Not?
 *   Glenn Greenwald: This Is CNN's Most Humiliating Moment, "Can't Admit They Lied... To The Entire World"
-*   Schiff: "Double Standard" That Cohen Got Prosecuted And Trump Did Not. "He Should Be Worried"
-*   Mollie Hemingway: We Now Know FBI Used Clinton-Funded Research Document "To Secure A Wiretap"
 *   Graham: "No Evidence" Of Trump/Russia Collusion, But "Tons" Of Evidence Of Crimes Inside DOJ, FBI
-*   Meadows: "Hard Evidence" FBI Leaked Info To Press, Used Same Stories To Obtain FISA Warrants
 
 *   Politics
 *   Policy
