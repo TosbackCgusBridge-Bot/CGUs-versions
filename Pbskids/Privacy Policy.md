@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _special_
 
-The difference between praise and encouragement -- and why it matters. The difference between praise and encouragement -- and why it matters. Read more.
+Did you miss our new Splash and Bubbles special? Watch Pole-to-Pole now on the PBS KIDS Video app.Did you miss our new Splash and Bubbles special? Watch Pole-to-Pole now on the PBS KIDS Video app.Go now
 
 Toggle message bar
 
