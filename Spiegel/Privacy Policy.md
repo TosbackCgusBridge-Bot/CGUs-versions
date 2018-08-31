@@ -1,4 +1,4 @@
-Wir verwenden Cookies, um die Funktion unserer Website zu gewährleisten, Inhalte und Werbung zu personalisieren und unseren Datenverkehr zu analysieren. DatenschutzVerstanden <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQWWTD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQWWTD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
 
 Anmelden
 
@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   30\. August 2018
+*   31\. August 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.561,68ǀ
+*   DAX 12.494,24ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -377,19 +377,4 @@ SPIEGEL GRUPPE
 *   \-Hilfe
 
   
-
-Bitte deaktivieren Sie Ihren Adblocker!
-
-So schalten Sie Ihren Adblocker auf SPIEGEL ONLINE aus!!!:
-
-*   Klicken Sie auf das Adblocker-Zeichen in Ihrem Browser oder öffnen Sie in den Einstellungen den Bereich für Erweiterungen / Addons.
-*   Wählen Sie die Option „Deaktivieren auf: spiegel.de“ (oder ähnlich), um eine Ausnahme hinzuzufügen. Vielen Dank!
-*   Seite neu laden
-
-**Sie haben gar keinen Adblocker oder bereits eine Ausnahme hinzugefügt?**  
-  
-Bitte prüfen Sie, ob Sie ähnliche Erweiterungen, Do-not-Track-Funktionen oder den Inkognito-Modus aktiviert haben, die ebenfalls Werbung unterdrücken. Oder haben Sie einen anderen Browser? Hier finden Sie mehr Informationen.
-
-Welche Bedeutung Werbung für SPIEGEL ONLINE hat, was wir für Ihre Sicherheit im Netz tun, wie unsere Redaktion arbeitet – Fragen und Antworten finden Sie hier.
-
-<div id="YMAJueMKqca">. <div id="YMAJueMKqcb">. <!-- html\_132956 -->. <img src="//www.google-analytics.com/collect?v=1&t=event&tid=UA-26045149-12&cid=565bb7d3-6372-46bb-af41-f78d9bc2295e&ec=AdBlocker&ea=Show-nojs&aip=1&dl=http%3A%2F%2Fwww.spiegel.de%2Fextra%2Fallgemeine-nutzungsbedingungen-a-1207633.html" width="1" height="1" style="display:none;visibility:hidden"/>. </div>. </div>.
+BESbswyBESbswyBESbswy
