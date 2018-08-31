@@ -71,7 +71,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Alec Baldwin Is Playing Batman's Dad in 'Joker'. Here's Everything We Know Read More
+    *   Dwayne Johnson to Finally Play Hawaii's 'King'. Here's Everything We Know Read More
     *   'Lord of the Rings' Star Dominic Monaghan Joins 'Star Wars: Episode IX'. Here's What We Know So Far Read More
     *   Watch Ryan Gosling in Exciting New 'First Man' Trailer. Here's Everything We Know Read More
     
