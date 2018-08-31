@@ -44,7 +44,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -60,8 +59,9 @@ Close submenu ( Girls ) Girls
 *   Clearance
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
+*   Open submenu ( Collections ) Collections
 
-Close submenu ( Featured ) Featured
+Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
@@ -105,7 +105,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   View All
 *   Active
 *   Lounge
-*   Sleep
 *   Bras
 *   Undies
 *   Accessories
@@ -114,7 +113,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -126,8 +124,9 @@ Close submenu ( Guys ) Guys
 *   Cologne
 *   Clearance
 *   Extended Sizes
+*   Open submenu ( Collections ) Collections
 
-Close submenu ( Featured ) Featured
+Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
@@ -241,7 +240,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **60% OFF + FREE SHIPPING OVER $50** 
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **60% OFF + FREE SHIPPING OVER $50** 
 
 *   My Account My Account Login Register
 
@@ -278,9 +277,12 @@ Menu Find a Store Aeropostale
 *   Girls
     
     *   View Home
-    *   Featured
+    *   Collections
         *   View All
         *   New Arrivals
+        *   SWIM SALE
+        *   3 for $12 Undies
+        *   Buy 1 Get 2 Socks
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -328,7 +330,6 @@ Menu Find a Store Aeropostale
         *   View All
         *   Active
         *   Lounge
-        *   Sleep
         *   Bras
         *   Undies
         *   Accessories
@@ -336,9 +337,10 @@ Menu Find a Store Aeropostale
 *   Guys
     
     *   View Home
-    *   Featured
+    *   Collections
         *   View All
         *   New Arrivals
+        *   Buy 1 Get 2 Accessories
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -480,7 +482,7 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
 
 Refer a friend and get $15 off.
 
