@@ -66,7 +66,7 @@ THE RITZ CARLTON REWARDS Marriott Rewards Starwood Preferred Guest
     
     Check-out 1 night
     
-    August2018 SunMonTueWedThuFriSat2930311234567891011121314151617181920212223242526272829303112345678ClearDone
+    September2018 SunMonTueWedThuFriSat262728293031123456789101112131415161718192021222324252627282930123456ClearDone
     
     My dates are flexible
     
@@ -171,7 +171,7 @@ THE RITZ CARLTON REWARDS Marriott Rewards Starwood Preferred Guest
     Remember me
     
     *   Forgot password
-    *   Create online accountOr sign in using: Sign in to your account with Facebook
+    *   Create online accountOr sign in using:
 *   My Account: Sign In • Join Now
 
 PRIVACY CENTER
