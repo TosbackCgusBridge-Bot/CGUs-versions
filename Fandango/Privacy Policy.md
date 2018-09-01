@@ -73,7 +73,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     *   Dwayne Johnson to Finally Play Hawaii's 'King'. Here's Everything We Know Read More
     *   'Lord of the Rings' Star Dominic Monaghan Joins 'Star Wars: Episode IX'. Here's What We Know So Far Read More
-    *   Watch Ryan Gosling in Exciting New 'First Man' Trailer. Here's Everything We Know Read More
+    *   Final 'The Predator' Trailer Lets the Dogs Out. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -320,10 +320,6 @@ Offers
 *   'The Predator' Gift with Purchase
     
     Buy tickets to 'The Predator' and get a FREE\* Predator digital comic-book with ticket purchase. BUY TICKETS
-    
-*   FandangoNOW Fresh Picks: August
-    
-    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
 *   'Ant-Man and The Wasp' Gift With Purchase
     
