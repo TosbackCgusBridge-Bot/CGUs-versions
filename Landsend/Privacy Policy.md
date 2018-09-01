@@ -332,9 +332,9 @@ menu Close 0 Free Shipping on $50+
     *   Backpacks &. Bags
 *   Home BATH >.
     
-    *   Beach Towels
-    *   Rugs &. Mats
     *   Towels
+    *   Rugs &. Mats
+    *   Beach Towels
     *   Shower Curtains
     
     BEDDING >.
@@ -350,7 +350,12 @@ menu Close 0 Free Shipping on $50+
     *   Coverlets
     *   Quilts
     
-    Beach Towels >. More for the Home >.
+    HOLIDAY &. CHRISTMAS DECORATIONS >.
+    
+    *   Christmas Stockings
+    *   Christmas Ornaments
+    
+    More for the Home >.
     
     *   Outdoor Furniture
     *   Storage &. Organization
@@ -359,7 +364,7 @@ menu Close 0 Free Shipping on $50+
     *   Entertaining
     *   Summer Decor &. Entertaining
     
-    KIDS ROOM >.
+    DOG SHOP >. KIDS ROOM >.
     
     *   Kids Bedding
     *   Kids Towels
@@ -369,7 +374,7 @@ menu Close 0 Free Shipping on $50+
     *   Sleeping Bags
     *   Baby Blankets
     
-    DOG SHOP >. FEATURED SHOPS
+    FEATURED SHOPS
     *   New Arrivals
     *   Supima Bedding &. Bath
     *   Bedding Basics
@@ -742,9 +747,9 @@ menu Close 0 Free Shipping on $50+
     *   BATH
         *   Back
         *   View All
-        *   Beach Towels
-        *   Rugs &. Mats
         *   Towels
+        *   Rugs &. Mats
+        *   Beach Towels
         *   Shower Curtains
     *   BEDDING
         *   Back
@@ -759,7 +764,11 @@ menu Close 0 Free Shipping on $50+
         *   Decorative Pillows
         *   Coverlets
         *   Quilts
-    *   Beach Towels
+    *   HOLIDAY &. CHRISTMAS DECORATIONS
+        *   Back
+        *   View All
+        *   Christmas Stockings
+        *   Christmas Ornaments
     *   More for the Home
         *   Back
         *   View All
@@ -769,6 +778,7 @@ menu Close 0 Free Shipping on $50+
         *   Canvas Totes
         *   Entertaining
         *   Summer Decor &. Entertaining
+    *   DOG SHOP
     *   KIDS ROOM
         *   Back
         *   View All
@@ -779,7 +789,6 @@ menu Close 0 Free Shipping on $50+
         *   Bean Bag Chairs
         *   Sleeping Bags
         *   Baby Blankets
-    *   DOG SHOP
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
@@ -1129,4 +1138,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
