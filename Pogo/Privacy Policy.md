@@ -1,5 +1,6 @@
-Electronic Arts Inc.Privacy and Cookie Policy Last Updated: May 25, 2018  
-Effective Date: May 25, 2018  
+Electronic Arts Inc.Privacy and Cookie Policy Last Updated: August 31, 2018  
+Effective Date: October 1, 2018  
+  
   
   
 Your privacy is important to us, and we take our responsibility of caring for it seriously. This policy describes what information EA collects when you use the mobile, online and downloadable products and services offered by EA and its subsidiaries and/or attend live events hosted by or in connection with EA ("**products**"). For a list of our subsidiaries, visit https://www.sec.gov/Archives/edgar/data/712515/000071251518000024/ex-211subsidiariesofthereg.htm.  
@@ -59,7 +60,7 @@ C. Information Provided to Us by Third Parties
   
 **PlayStation®3 &. PlayStation®4 Computer Entertainment Systems.** By signing up to play our products on a PlayStation®3 or PlayStation®4 computer entertainment system, you agree your Sony Entertainment Network account information will be provided to EA so we can establish an EA Account for you. You need an EA Account to play EA's products online. From Sony, we receive information including your name, email address, Online ID, your country, state or province, language and date of birth. We do not receive your credit card number or other financial information.  
   
-\>**Xbox Live.** By signing up to play our products on Microsoft's Xbox Live Service, you agree that Microsoft may provide us with your Microsoft user account information so we can establish an EA Account for you. You need an EA Account to play EA's products online. From Microsoft, we receive information including your Gamertag, email address, state or province, country, language and age. We do not receive your credit card number or other financial information.  
+**Xbox Live.** By signing up to play our products on Microsoft's Xbox Live Service, you agree that Microsoft may provide us with your Microsoft user account information so we can establish an EA Account for you. You need an EA Account to play EA's products online. From Microsoft, we receive information including your Gamertag, email address, state or province, country, language and age. We do not receive your credit card number or other financial information.  
   
 **Wii / Wii U.** By signing up to play our products on a Nintendo Wii or Wii U console, you agree that Nintendo may provide us with your Nintendo user account information so we can establish an EA Account for you. You need an EA Account to play EA's products online. From Nintendo, the data we receive includes your Mii information, email address, Nintendo Network ID, friend list, country, language and date of birth. We do not receive your credit card number or other financial information.  
   
@@ -137,6 +138,7 @@ We use your personal and non-personal information, both individually and combine
 *   Identify, fix, and troubleshoot bugs and service errors;
 *   Provide software updates;
 *   Activate or authenticate your games and save game progress and stats;
+*   Run competitions and contests;
 *   Adhere to your preferences and to deliver dynamic content. and
 *   Help keep our services safe and fair, resolve disputes, investigate and help curb fraud and illegal behavior, comply with the law, and to enforce our agreements and policies.
 
@@ -197,7 +199,7 @@ Under no circumstances do we condition a child's participation in an activity—
   
 We give you meaningful choices when it comes to important uses and collection of information. For example, you can update your account information and preferences, choose to opt in or out of EA marketing emails and choose whether to share your information with select EA partners. If you would like to opt out at any time after providing your consent, contact the appropriate Privacy Policy Administrator for your country listed at privacyadmin.ea.com or write to Privacy Policy Administrator, Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City, CA 94065.  
   
-You also can review and change most of your preferences through your EA Account settings. If you need additional assistance, please contact help.ea.com. Where we rely on consent to collect and use information about you, you can withdraw your consent at any time.  
+You also can review and change most of your preferences through your EA Account settings. If you need additional assistance, please contact help.ea.com. If you no longer wish to receive marketing emails from EA, you may also click the unsubscribe link included in the footer of every marketing email we send. Where we rely on consent to collect and use information about you, you can withdraw your consent at any time.  
   
 You may deactivate your EA Account or delete the personal information associated with your account by contacting help.ea.com or your Privacy Policy Administrator in your country listed on our site at privacyadmin.ea.com. If you do so, you will no longer have access to the EA games or services associated with your account. Note that EA may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our products. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you services, create and improve our products, comply with the law, and to run our business.  
   
@@ -232,6 +234,7 @@ For more information and updates to this policy, visit privacy.ea.com.
   
 
 Previous Privacy and Cookie Policy:  
+Last Updated: May 25, 2018  
 Last Updated: January 18, 2018  
 Last Updated: July 31, 2017  
 Last Updated: October 28, 2016  
