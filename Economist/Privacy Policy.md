@@ -11,9 +11,13 @@
     *   *   The Economist brand family
         *   EuroFinance
         
-        *   Ideas People
+        *   \[E\] BrandConnect
+        
+        *   Ideas People Media
         
         *   TVC
+        
+        *   Signal Noise
         
     *   Our history
     *   Executive team
