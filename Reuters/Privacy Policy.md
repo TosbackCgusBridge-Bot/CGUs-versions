@@ -192,7 +192,7 @@ Thomson Reuters
 *   Site map
 *   Feedback
 
-Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
+<img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
 
 How would you rate your experience?
 
