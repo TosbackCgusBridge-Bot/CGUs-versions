@@ -2,18 +2,18 @@ Advertise With Us To Place An Advertisement
 
 advertising@ bostonherald.com
 
-_617-619-6185_
+_617-619-6401_
 
-For Print / Digital Advertising, please contact: Doris Picardi
+For Print / Digital Advertising, please contact: Jeff Swerdlick
 
-Display Advertising Director
+Multimedia Advertising Manager
 
-doris.picardi@bostonherald.com
+jeff.swerdlick@bostonherald.com
 
-_617-619-6123_
+_617-619-6401_
 
 For Classified Advertising:
 
-doris.picardi@bostonherald.com
+jeff.swerdlick@bostonherald.com
 
-_617-423-4545_
+_617-619-6401_
