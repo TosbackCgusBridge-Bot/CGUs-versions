@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Winston_: 2 Years Later, the Elites Are Still Disconnected From Voters
+*   _Kimberley Strassel_: What Bruce Ohr Told Congress
     
-*   _Gail Collins_: Trump's Swamp Things
+*   _Ben Rhodes_: We Are Not a 'Cabal,' Just Critics of Trump
     
-*   _Daniel Oliver_: MLK Would Be Pleased With Black Gains Under Trump
+*   _Ed Rogers_: Trump's Two-Win Tuesday
     
-*   _Fabiola Santiago_: DeSantis, Florida and the Era of Trump-Fueled Bigotry
+*   _Ronald Brownstein_: How the Democratic Party Can Turn the Sun Belt Blue
     
-*   _Charles Cooke_: The Press Disgraces Itself in Pursuit of Ron DeSantis
+*   _Karin McQuillan_: Young People Are Breaking Free From Liberal Thought Police
     
-*   _Benjamin Wallace-Wells_: Andrew Gillum &. Democrats' Next Generation
+*   _Tara Burton_: The Insidious Cultural History of Kanye West's Slavery Comments
     
-*   _Michael Ledeen_: Will Sessions Crack Down on Corruption at CIA, FBI, DOJ?
+*   _Yuval Harari_: Why Technology Favors Tyranny
     
-*   _Fred Wertheimer_: Trump Jr. Broke the Law at Trump Tower Meeting
+*   _Sterling Burnett_: Climate Alarmists Get 2 Strikes in Court--They Should Be Out
     
-*   _Victor Davis Hanson_: The Truth About Mueller's Russia Probe Will Set Us Free
+*   _Jason Mark_: The Climate-Wrecking Industry...and How to Beat It
     
-*   _Uri Friedman_: Inside the Dispute Derailing Nuclear Talks With North Korea
+*   _James Poniewozik_: One Last Time, McCain Counterprograms Trump
     
-*   _Robyn Dixon_: Is the U.S. in a New Cold War With China?
+*   _Joe Concha_: Where Was the Media's Praise for McCain in 2008?
     
-*   _Russell Berman_: 'One of the Most Brutal Races in the Country' Has Begun
+*   _John Micklethwait_: President Trump Doubles Down on Trump
     
-*   _Adele Malpass_: For Both Parties, '98 Midterms Offer a Lesson for '18
+*   _Marc Thiessen_: Impeachment Over Porn Star Payoffs Is Liberal Fantasy
     
-*   _Gregg Jarrett_: The DOJ, FBI Scheme to Clear Clinton, Damage Trump
+*   _J. Wilson-Hartgrove_: Trump's Cultural Fearmongering Catnip for Evangelicals
     
-*   _Neera Tanden_: Trump and Republicans Have a Huge Corruption Problem
+*   _Matthew Continetti_: Secrets to Trump' Success: Strong Economy, Biased Media
     
-*   _Lee Smith_: There's Method in Trump's Slackness on Opening Files
+*   _Mark Stern_: How Gillum Can Repeat His Staggering Primary Win in November
     
-*   _Kara Swisher_: Trump's Ludicrous Attack on Big Tech
+*   _John Fund_: It's Gonna Be Trump vs. the Looney Left in November
     
-*   _Michelle Malkin_: The Left's Long War on Conservative Free Speech
+*   _Gracy Olmstead_: Washington's Establishment Guard Is Crumbling
     
-*   _Christopher Balding_: How U.S.-Mexico Pact Could Turn Tables on China
+*   _Fred Barnes_: Nothing Good Ever Comes From a Special Counsel
     
-*   _Veronique de Rugy_: How Special Interests Hide the True Costs of Tariffs
+*   _Eugene Robinson_: The Trump Administration Doesn't See Latinos as Americans
     
-*   _Thomas Lifson_: Trump's Trade Strategy Is Succeeding Brilliantly
+*   _Star Parker_: A Dem Media Lie That GOP Is Hostile to Minorities
     
-*   _Greg Sargent_: Shocking FL Outcome Sets Up a Big Test for Dems
+*   _Alexis Madrigal_: Why Google Doesn't Rank Right-Wing Outlets Highly
     
-*   _David Catanese_: The Tale of Two Arizona Senate Seats
+*   _Noah Rothman_: Silicon Valley Right to Worry About Its Liberal Bias
     
-*   _Christopher Buskirk_: Replacing McCain: Sorting Out the Options
+*   _James Ellis_: Elon, What Were You Thinking?
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Justice Department Backs Asian-Americans in Harvard Case
 *   For Both Parties, 1998 Midterms Offer a Lesson for '18
+*   Trump: DOJ, FBI Have to "Straighten Out" or I Will Get Involved
 *   Fla. Governor's Race Pits Liberal Dem vs. Trump Republican
-*   Greenwald: A Humiliating Moment for CNN, Can't Admit They Lied
 *   For Likely 2020 Candidates, Midterms Offer a Leg Up
-*   Sizing Up the Florida Senate Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -240,33 +240,31 @@ Latest PollsAll Polls
 
 *   All Polls
 *   All Elections
-*   Republican Primary
-*   Democratic Primary
-*   General Election
-*   Senate 2016
-*   Governors 2016
+*   Senate 2018
+*   Governors 2018
+*   House 2018
 *   State of the Union
 
+*   West Virginia Senate - Morrisey vs. ManchinMetroNews
+    *   Manchin46
+    *   Morrisey38Manchin +8
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve38
+    *   Disapprove60Disapprove +22
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove50Disapprove +2
 *   Pennsylvania Senate - Barletta vs. CaseyFranklin &. Marshall\*
     *   Casey47
     *   Barletta34Casey +13
-*   Pennsylvania Governor - Wagner vs. WolfFranklin &. Marshall\*
-    *   Wolf52
-    *   Wagner35Wolf +17
-*   New York 19th District - Faso vs. DelgadoSiena
-    *   Faso45
-    *   Delgado40Faso +5
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
 
 More Latest Polls In The News
 
+*   April Ryan: The Trump WH "Will Go After You" When You Report The Truth, "They've Tried to Discredit Me"
 *   Trump: Old And Corrupt Globalist Ruling Class Have Been Rejected, "The Whole World Understands"
 *   Tucker Carlson: Media Invites Discredited Neocon Morons, Unemployed Political Hacks To Fret Over GOP
-*   Princeton's Eddie Glaude on Monkeygate: "Obvious Racial Dogwhistle," Will The US Be A Racist Nation Or Not?
+*   Hannity: "S-Hole Network" CNN Won't Retract Story, Wonders Why Crowds Of Americans Yell 'CNN Sucks'
 *   Glenn Greenwald: This Is CNN's Most Humiliating Moment, "Can't Admit They Lied... To The Entire World"
-*   Graham: "No Evidence" Of Trump/Russia Collusion, But "Tons" Of Evidence Of Crimes Inside DOJ, FBI
 
 *   Politics
 *   Policy
