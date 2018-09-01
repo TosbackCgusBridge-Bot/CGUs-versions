@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _special_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Did you miss our new Splash and Bubbles special? Watch Pole-to-Pole now on the PBS KIDS Video app.Did you miss our new Splash and Bubbles special? Watch Pole-to-Pole now on the PBS KIDS Video app.Go now
+Find fun, hands-on educational activities to do with your child. Find fun, hands-on educational activities to do with your child. Go now
 
 Toggle message bar
 
