@@ -54,8 +54,6 @@
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Labor Day Gifts
 *   Sale
-    View All Categories Shop by Category*   Sale
-    *   Steak &. Seafood Sale
 
 1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Skip to content Business Gifts Stores Account
 
@@ -121,8 +119,6 @@
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Labor Day Gifts
 *   Sale
-    View All Categories Shop by Category*   Sale
-    *   Steak &. Seafood Sale
 
 1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
@@ -192,4 +188,4 @@ Subscribe
 
 See our Privacy Policy
 
-Close
+Close Feedback
