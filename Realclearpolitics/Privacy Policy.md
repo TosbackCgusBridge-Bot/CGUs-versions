@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -245,18 +243,18 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve36
+    *   Disapprove56Disapprove +20
+*   2018 Generic Congressional VoteIBD/TIPP
+    *   Democrats50
+    *   Republicans39Democrats +11
+*   Direction of CountryIBD/TIPP
+    *   Right Direction47
+    *   Wrong Track53Wrong Track +6
 *   West Virginia Senate - Morrisey vs. ManchinMetroNews
     *   Manchin46
     *   Morrisey38Manchin +8
-*   President Trump Job ApprovalABC News/Wash Post
-    *   Approve38
-    *   Disapprove60Disapprove +22
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
-*   Pennsylvania Senate - Barletta vs. CaseyFranklin &. Marshall\*
-    *   Casey47
-    *   Barletta34Casey +13
 
 More Latest Polls In The News
 
