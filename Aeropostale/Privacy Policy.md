@@ -27,7 +27,7 @@ Close submenu ( Girls ) Girls
 *   Lace Details
 *   Message Tees
 *   Go West
-*   Aviation Scents
+*   Aviation Collection
 
 Close submenu ( Guys ) Guys
 
@@ -39,7 +39,7 @@ Close submenu ( Guys ) Guys
 *   Camo Print
 *   Message Tees
 *   Layer Up
-*   Aviation Scents
+*   Aviation Collection
 
 Close submenu ( Girls ) Girls
 
@@ -240,7 +240,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **60% OFF + FREE SHIPPING OVER $50** 
+**BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **60% OFF + FREE SHIPPING OVER $50** 
 
 *   My Account My Account Login Register
 
@@ -258,7 +258,7 @@ Menu Find a Store Aeropostale
         *   Lace Details
         *   Message Tees
         *   Go West
-        *   Aviation Scents
+        *   Aviation Collection
     
     *   Guys
         *   View All
@@ -269,7 +269,7 @@ Menu Find a Store Aeropostale
         *   Camo Print
         *   Message Tees
         *   Layer Up
-        *   Aviation Scents
+        *   Aviation Collection
     
     Shop Girls Shop Guys
     
@@ -455,12 +455,15 @@ Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
 *   Help
 *   Coupon Page
 *   My Account
+*   Buy Online Pick Up In Store
+*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 Gift Cards
 
 *   eGift Cards
 *   Lost/Stolen Gift Cards
 *   Check Gift Card Balance
+*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 About Us
 
@@ -470,6 +473,7 @@ About Us
 *   Privacy Policy
 *   CA Transparency Act
 *   Supply Chain
+*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 Stay Connected
 
@@ -477,6 +481,7 @@ Stay Connected
 *   Find Store Coupons
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
+*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 © 2018 Aeropostale. All Rights Reserved.
 
