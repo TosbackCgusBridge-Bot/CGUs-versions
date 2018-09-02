@@ -170,7 +170,7 @@ Last week
 
 My week on Twitter : 5 Mentions, 1.25K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/W2bV…
 
-About 3 weeks ago
+Last month
 
 Check out these steps toward promoting a safer browsing experience for web users via Intermarkets blog! twitter.com/Jambrose…
 
