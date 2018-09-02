@@ -1,4 +1,4 @@
-THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details Gift Cards | Offers | Sign In Sign Out
+Gift Cards | Offers | Sign In Sign Out
 
 *   Fandango
 *   Go
@@ -81,21 +81,21 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     *   Summer Movie Guide
     *   Family Guide
     *   Weekend Ticket
-*   My VIP Account Join FandangoVIP Get Points + Save
+*   My VIP Account Join FandangoVIP Refunds + Exchanges
     
-    More tickets = more points = more movies on us! Rack up VIP+ Points for every ticket you buy to score streaming movies and discounts on tickets and movie gear.
-    
-    Learn more Insider Perks
-    
-    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
     
     Learn more Partner Rewards
     
-    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
     
-    Learn more Refunds + Exchanges
+    Learn more My Fandango
     
-    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
+    Save your favorite theaters and movies to experience a customized Fandango just for you.
+    
+    Learn more Insider Perks
+    
+    Get the VIP treatment, free screenings, digital downloads, discounts and more.
     
     Learn more Join Fandango VIP For Free
     
@@ -103,7 +103,7 @@ THIS SUMMER, SEE MORE, GET MORE. More movie tickets = more movies on us. Details
     
     Already a Fandango VIP? Sign In
 
-Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Fandango Gift Card Terms MovieTickets.com Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyFandango Gift Card TermsMovieTickets.com Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
+Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Fandango Gift Card Terms MovieTickets.com Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyFandango Gift Card TermsMovieTickets.com Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms en Español | en Français | auf Deutsch
 
 Last updated: May 25, 2018
 
