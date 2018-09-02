@@ -8,20 +8,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Steve Madden
-    *   Beyond Threads Up to 70% Off
-    *   Love Stitch Starting at $25
-    *   Diesel Up to 70% Off
+    *   Go Couture Dresses Up to 80% Off
+    *   P.J. Salvage Sleep Up to 60% Off
+    *   Rivka Friedman Jewelry Up to 75% Off
+    *   Fall Kickoff: NFL Tees, Sweatshirts &. More
+    *   Brands We Love ft. Madisonne
+    *   New Fall Booties Up to 65% Off
+    *   Flying Tomato &. More Under $40
+    *   G-Star RAW Up to 50% Off
+    *   L.K. Bennett Up to 60% Off
+    *   Day &. Mood and More
+    *   Lime &. Vine Sport Up to 80% Off
+    *   Olive &. Oak Under $30
+    *   On Trend: Geo Tortoise Earrings &. More from $15
+    *   Manitobah Mukluks
+    *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
+    *   Grace &. Stella Skin Care
+    *   Fall Transition: Men's Outerwear
+    *   Kenneth Cole Reaction Men Up to 55% Off
+    *   BC Collection Up to 70% Off
+    *   Bacco Bucci Up to 60% Off
+    *   Cookware with Flair: Orla Kiely
+    *   Free Shipping: Intricate Woven Rugs
+    *   Go Couture Kids Up to 75% Off
     *   Fall Sweaters and More Incl. Plus &. Petites
+    *   PRJON Active Up to 80% Off
     *   Romeo &. Juliet Couture Up to 75% Off
     *   Wear Whenever: White Styles Up to 70% Off
-    *   Last Call: Sandals &. More Up to 65% Off
-    *   PRJON Active Up to 80% Off
     *   Men's Labor Day Blowout
+    *   Last Call: Sandals &. More Up to 65% Off
+    
     *   Good Call: On-Trend Phone Cases
-    *   End of Summer: Kids' Sandals Up to 50% Off
     *   End of Summer: Kids' Steals Up to 65% Off
+    *   End of Summer: Kids' Sandals Up to 50% Off
+    *   Steve Madden
+    *   Diesel Up to 70% Off
+    *   Love Stitch Starting at $25
     *   Love Stitch Dresses
+    *   Beyond Threads Up to 70% Off
     *   Date Night Style: Dresses, Shoes, Beauty &. More
     *   DKNY Lingerie &. More
     *   Goby Up to 60% Off
@@ -37,78 +61,69 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Black &. Denim Under $20
     *   Prints Charming: Colorful Bedding &. More
     *   Dooney &. Bourke Up to 50% Off
-    
-    *   Gracia
-    *   Abound
-    *   Logos We Love: Lingerie &. More ft. Aeropostale
-    *   Camper
-    *   1.STATE
-    *   FAVLUX Under $25
-    *   Tiare Hawaii
     *   14K Gold Jewelry Steals
-    *   Chic Shades Up to 70% Off
-    *   Designer Shop: Fresh Fall Styles
-    *   Our Favorite Booties Under $100
-    *   bebe
     *   Ben Sherman Up to 65% Off
     *   Ben Sherman Tailored Clothing Starting at $18
     *   Clarks Men
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Casual Kicks for Boys ft. Ben Sherman
+    
     *   AXNY &. Geoffrey Beene Boys
     *   Tween Scene: Fall Looks Starting at $10
     *   Girls' Dresses from Kid's Dream
     *   Free Shipping: Of-the-Moment Art Up to 60% Off
     *   Boho Chic: Fringed Throws, Towels &. More
-    *   Work Dresses ft. Tahari
-    *   Wear to Work: Calvin Klein Shoes &. More
-    *   Via Spiga Coats
     *   Workweek Style: New Men's Shoes
     *   Wear to Work: Fresh Suits for Fall
-    *   Tahitian Pearl Jewelry &. More Under $80
     *   Edward Bess Cosmetics Under $20
-    
     *   i smell great
     *   Kenneth Cole Reaction Up to 75% Off
     *   Merrell Men
     *   Rogue Starting at $13
     *   Velvet Chairs, Steel Barstools &. More
-    *   Nicole Miller Girls' Shoes Under $20
-    *   Lucky Brand Kids
-    *   Mia Belle Girls
-    *   Playground to Party: Girls' Dresses Under $20
     *   Cuisinart
     *   Chef Essentials: J.A. Henckels Knife Sets &. More
     *   Kitchen to Table: Bakeware, Serving Tools &. More
     *   Free Shipping: Classic Dinnerware &. More
-    *   True Religion Men Up to 65% Off
-    *   Brooks Brothers Starting at $25
-    *   Donald Pliner Men
     *   Teami Blends Detox Teas &. Supplements
-    *   Catherine Catherine Malandrino Inclu. Plus
-    *   Meghan LA
-    *   TUMI
+    *   Trilipiderm Skin Care
     *   Free Shipping: Ultra-Soft Towels Starting at $10
     *   Free Shipping: Modern Rugs Up to 70% Off
     *   Beach Towel Blowout
-    *   Free Shipping: Kitchen Blowout
     *   Very J
-    *   Trilipiderm Skin Care
-    *   Michael Todd Beauty Soniclear &. More Up to 60% Off
-    *   Score These: NFL Decor
     *   Sleep Well: Pillows &. Mattress Pads
+    *   Mia Belle Girls
+    *   Free Shipping: Kitchen Blowout
+    *   Gracia
+    *   FAVLUX Under $25
 *   WomenShop Sale Events
     
-    *   Steve Madden
-    *   Beyond Threads Up to 70% Off
-    *   Love Stitch Starting at $25
-    *   Diesel Up to 70% Off
+    *   Go Couture Dresses Up to 80% Off
+    *   P.J. Salvage Sleep Up to 60% Off
+    *   Rivka Friedman Jewelry Up to 75% Off
+    *   Brands We Love ft. Madisonne
+    *   New Fall Booties Up to 65% Off
+    *   Flying Tomato &. More Under $40
+    *   G-Star RAW Up to 50% Off
+    *   L.K. Bennett Up to 60% Off
+    *   Day &. Mood and More
+    *   Lime &. Vine Sport Up to 80% Off
+    *   Olive &. Oak Under $30
+    *   On Trend: Geo Tortoise Earrings &. More from $15
+    *   Manitobah Mukluks
+    *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
+    *   Grace &. Stella Skin Care
     *   Fall Sweaters and More Incl. Plus &. Petites
+    *   PRJON Active Up to 80% Off
     *   Romeo &. Juliet Couture Up to 75% Off
     *   Wear Whenever: White Styles Up to 70% Off
     *   Last Call: Sandals &. More Up to 65% Off
-    *   PRJON Active Up to 80% Off
+    *   Steve Madden
+    *   Diesel Up to 70% Off
+    
+    *   Love Stitch Starting at $25
     *   Love Stitch Dresses
+    *   Beyond Threads Up to 70% Off
     *   Date Night Style: Dresses, Shoes, Beauty &. More
     *   DKNY Lingerie &. More
     *   Goby Up to 60% Off
@@ -119,64 +134,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Statement Earrings &. More Starting at $10
     *   Poolside Party: Shades Under $30
     *   Dooney &. Bourke Up to 50% Off
-    *   Gracia
-    *   Abound
-    *   Logos We Love: Lingerie &. More ft. Aeropostale
-    
-    *   Camper
-    *   1.STATE
-    *   FAVLUX Under $25
-    *   Tiare Hawaii
     *   14K Gold Jewelry Steals
-    *   Chic Shades Up to 70% Off
-    *   Designer Shop: Fresh Fall Styles
-    *   Our Favorite Booties Under $100
-    *   bebe
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Work Dresses ft. Tahari
-    *   Wear to Work: Calvin Klein Shoes &. More
-    *   Via Spiga Coats
-    *   Tahitian Pearl Jewelry &. More Under $80
     *   Edward Bess Cosmetics Under $20
     *   i smell great
     *   Teami Blends Detox Teas &. Supplements
-    *   Catherine Catherine Malandrino Inclu. Plus
-    *   Meghan LA
-    *   TUMI
-    *   Very J
     *   Trilipiderm Skin Care
-    *   Michael Todd Beauty Soniclear &. More Up to 60% Off
+    *   Very J
+    *   Gracia
+    *   FAVLUX Under $25
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
     *   Accessories
     *   Lingerie
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Fall Kickoff: NFL Tees, Sweatshirts &. More
+    *   Fall Transition: Men's Outerwear
+    *   Kenneth Cole Reaction Men Up to 55% Off
+    *   BC Collection Up to 70% Off
+    *   Bacco Bucci Up to 60% Off
     *   Men's Labor Day Blowout
     *   Steve Madden Men
     *   Vince Camuto
     *   Poolside Party: Shades Under $30
     *   Champion
+    
     *   Black &. Denim Under $20
     *   Ben Sherman Up to 65% Off
     *   Ben Sherman Tailored Clothing Starting at $18
     *   Clarks Men
     *   Workweek Style: New Men's Shoes
-    
     *   Wear to Work: Fresh Suits for Fall
     *   Kenneth Cole Reaction Up to 75% Off
     *   Merrell Men
     *   Rogue Starting at $13
-    *   True Religion Men Up to 65% Off
-    *   Brooks Brothers Starting at $25
-    *   Donald Pliner Men
     *   Teami Blends Detox Teas &. Supplements
-    *   TUMI
     
     Shop By Category
     *   Clothing
@@ -184,59 +182,59 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
-    *   End of Summer: Kids' Sandals Up to 50% Off
+    *   Go Couture Kids Up to 75% Off
     *   End of Summer: Kids' Steals Up to 65% Off
+    *   End of Summer: Kids' Sandals Up to 50% Off
     *   Casual Kicks for Boys ft. Ben Sherman
     *   AXNY &. Geoffrey Beene Boys
     *   Tween Scene: Fall Looks Starting at $10
     *   Girls' Dresses from Kid's Dream
-    *   Nicole Miller Girls' Shoes Under $20
-    *   Lucky Brand Kids
     *   Mia Belle Girls
-    *   Playground to Party: Girls' Dresses Under $20
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
-    *   Boys Sizes 2T-7
     *   Boys Sizes 8-20
+    *   Boys Sizes 2T-7
+    *   Boys' Shoes
     *   Girls' Shoes
     *   Baby Girl
-    *   Boys' Shoes
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Cookware with Flair: Orla Kiely
+    *   Free Shipping: Intricate Woven Rugs
     *   Good Call: On-Trend Phone Cases
     *   Prints Charming: Colorful Bedding &. More
     *   Free Shipping: Of-the-Moment Art Up to 60% Off
     *   Boho Chic: Fringed Throws, Towels &. More
     *   Velvet Chairs, Steel Barstools &. More
     *   Cuisinart
+    
     *   Chef Essentials: J.A. Henckels Knife Sets &. More
     *   Kitchen to Table: Bakeware, Serving Tools &. More
-    
     *   Free Shipping: Classic Dinnerware &. More
-    *   TUMI
     *   Free Shipping: Ultra-Soft Towels Starting at $10
     *   Free Shipping: Modern Rugs Up to 70% Off
     *   Beach Towel Blowout
-    *   Free Shipping: Kitchen Blowout
-    *   Score These: NFL Decor
     *   Sleep Well: Pillows &. Mattress Pads
+    *   Free Shipping: Kitchen Blowout
     
     Shop By Category
     *   Kitchen &. Tabletop
-    *   Home Decor
-    *   Bath
-    *   Bedding
     *   Rugs
-    *   Accent Furniture
+    *   Bath
+    *   Home Decor
+    *   Bedding
     *   Outdoor Living
+    *   Accent Furniture
     *   Luggage &. Travel
     *   Pet Accessories
     *   Storage &. Cleaning
 *   BeautyShop Sale Events
     
+    *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
+    *   Grace &. Stella Skin Care
     *   Date Night Style: Dresses, Shoes, Beauty &. More
     *   Glow Up: K-Beauty Masks, Creams &. More from $11
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
@@ -244,11 +242,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   i smell great
     *   Teami Blends Detox Teas &. Supplements
     *   Trilipiderm Skin Care
-    *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     
     Shop By Category
-    *   Makeup
     *   Skin Care
+    *   Makeup
     *   Tools &. Accessories
     *   Fragrance
     *   Bath &. Body
