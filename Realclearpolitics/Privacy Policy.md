@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -109,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Kimberley Strassel_: What Bruce Ohr Told Congress
+*   _Elaina Plott_: This House Race Is The Future of Texas Politics
     
-*   _Ben Rhodes_: We Are Not a 'Cabal,' Just Critics of Trump
+*   _Salena Zito_: Five Midterm Races to Watch
     
-*   _Ed Rogers_: Trump's Two-Win Tuesday
+*   _Ratcliffe &. Sanchez_: Beto Faces New Perils as Fall Campaign Begins
     
-*   _Ronald Brownstein_: How the Democratic Party Can Turn the Sun Belt Blue
+*   _Ford O'Connell_: GOP Will Need More Than the Economy to Hold the House
     
-*   _Karin McQuillan_: Young People Are Breaking Free From Liberal Thought Police
+*   _Josh Kraushaar_: Democrats Blowing Winnable Governor's Races
     
-*   _Tara Burton_: The Insidious Cultural History of Kanye West's Slavery Comments
+*   _Carl M. Cannon_: John McCain's Gift to America
     
-*   _Yuval Harari_: Why Technology Favors Tyranny
+*   _Paul Mirengoff_: McCain's Funeral Turns Into a 'Resistance' Meeting
     
-*   _Sterling Burnett_: Climate Alarmists Get 2 Strikes in Court--They Should Be Out
+*   _Ruth Marcus_: Brace Yourself for the Kavanaugh Kabuki
     
-*   _Jason Mark_: The Climate-Wrecking Industry...and How to Beat It
+*   _Ken Blackwell_: What to Expect From the Kavanaugh Confirmation Hearing
     
-*   _James Poniewozik_: One Last Time, McCain Counterprograms Trump
+*   _Z. Byron Wolf_: President Trump's Summer From Hell
     
-*   _Joe Concha_: Where Was the Media's Praise for McCain in 2008?
+*   _Gary Varvel_: Why the Mueller Wins Haven't Shaken Trump Voters
     
-*   _John Micklethwait_: President Trump Doubles Down on Trump
+*   _Debra Saunders_: Trump Proof Voters Care More About Policies than Character
     
-*   _Marc Thiessen_: Impeachment Over Porn Star Payoffs Is Liberal Fantasy
+*   _Michelle Chen_: Affirmative Action Is Under Attack
     
-*   _J. Wilson-Hartgrove_: Trump's Cultural Fearmongering Catnip for Evangelicals
+*   _Heather MacDonald_: UCLA's Costly Infatuation With Diversity
     
-*   _Matthew Continetti_: Secrets to Trump' Success: Strong Economy, Biased Media
+*   _Nosheen Iqbal_: Rush to Rehab Louis C.K. Makes a Mockery of #MeToo
     
-*   _Mark Stern_: How Gillum Can Repeat His Staggering Primary Win in November
+*   _Ronica Cleary_: Why I Quit My Job as a White House Correspondent
     
-*   _John Fund_: It's Gonna Be Trump vs. the Looney Left in November
+*   _Thaddeus McCotter_: Hollywood Lands on the Moon
     
-*   _Gracy Olmstead_: Washington's Establishment Guard Is Crumbling
+*   _Newt Gingrich_: Amidst Noise, Trump Keeps Racking Up Policy Victories
     
-*   _Fred Barnes_: Nothing Good Ever Comes From a Special Counsel
+*   _Roger Cohen_: McCain and a Requiem for the American Century
     
-*   _Eugene Robinson_: The Trump Administration Doesn't See Latinos as Americans
+*   _F.H. Buckley_: How Trump Dismantled the Tone-Deaf Establishment
     
-*   _Star Parker_: A Dem Media Lie That GOP Is Hostile to Minorities
+*   _Paul Brandus_: Why a Roaring Economy Isn't Boosting Trump
     
-*   _Alexis Madrigal_: Why Google Doesn't Rank Right-Wing Outlets Highly
+*   _Rich Lowry_: DeVos Is Right to Close Campus Kangaroo Courts
     
-*   _Noah Rothman_: Silicon Valley Right to Worry About Its Liberal Bias
+*   _Bruni &. Higa_: 13 Democratic Faces That Tell the Story of 2018
     
-*   _James Ellis_: Elon, What Were You Thinking?
+*   _John McCormack_: Walker Once Again Faces a Very Tight Race in Wisconsin
     
 
 *   Previous
@@ -258,11 +260,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   John Kerry: Culture Divide Worsened By "So-Called Leaders" Who "Operate In A Fact-Less World"
 *   April Ryan: The Trump WH "Will Go After You" When You Report The Truth, "They've Tried to Discredit Me"
 *   Trump: Old And Corrupt Globalist Ruling Class Have Been Rejected, "The Whole World Understands"
 *   Tucker Carlson: Media Invites Discredited Neocon Morons, Unemployed Political Hacks To Fret Over GOP
 *   Hannity: "S-Hole Network" CNN Won't Retract Story, Wonders Why Crowds Of Americans Yell 'CNN Sucks'
-*   Glenn Greenwald: This Is CNN's Most Humiliating Moment, "Can't Admit They Lied... To The Entire World"
 
 *   Politics
 *   Policy
