@@ -229,7 +229,7 @@ PS VR
 
 The Sony Xperia XZ3 is here! Say hello to our most intelligent and beautiful smartphone yet. Find out more here.
 
-2 days ago
+3 days ago
 
 View Tweet
 
