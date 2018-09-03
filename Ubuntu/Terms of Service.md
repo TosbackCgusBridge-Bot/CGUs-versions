@@ -48,8 +48,4 @@ Download Ubuntu ›
 
 Further reading
 
-*   The enterprise deployment game-plan: why multi-cloud is the future ›
-*   Top 10 Linux applications for entertainment and leisure ›
-*   Moving towards a software defined IoT business model ›
-*   Ubuntu Server development summary – 28 August 2018 ›
-*   Fresh Linux Applications On Demand ›
+Error:The live news feed failed to load. Please report this bug and our team will fix the problem as soon as possible.
