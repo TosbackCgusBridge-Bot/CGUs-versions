@@ -7,36 +7,31 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   Crazy Rich Asians
     *   The Meg
-    *   The Happytime Murders
     *   Mission: Impossible - Fallout
+    *   Operation Finale
+    *   Searching (2018)
     *   Christopher Robin
-    *   Mile 22
     *   Alpha
+    *   The Happytime Murders
     *   BlacKkKlansman
-    *   A.X.L.
-    *   Slender Man
-    *   Hotel Transylvania 3: Summer Vacation
+    *   Mile 22
+    *   Incredibles 2
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Operation Finale
-    *   Kin (2018)
-    *   Searching (2018)
-    *   Active Measures
-    *   Big Brother (2018)
-    *   Blood Fest
-    *   The Little Stranger
-    *   Pick of the Litter
-    *   Snow Queen 3: Fire and Ice
-    *   Ya Veremos
+    *   God Bless the Broken Road
+    *   The Nun (2018)
+    *   Peppermint (2018)
+    *   The Apparition (2018)
+    *   Bisbee '17
+    *   Great Great Great
+    *   Hal (2018)
+    *   I Am Not a Witch
     *   See All Opening This Week
     
     Coming Soon
     
-    *   God Bless the Broken Road
-    *   The Nun (2018)
-    *   Peppermint (2018)
     *   The Predator (2018)
     *   A Simple Favor
     *   Unbroken: Path to Redemption
@@ -44,6 +39,9 @@ Gift Cards | Offers | Sign In Sign Out
     *   Fahrenheit 11/9
     *   The House with a Clock in its Walls
     *   Life Itself (2018)
+    *   Hell Fest
+    *   Little Women (2018)
+    *   Night School (2018)
     *   See All Coming Soon
     
     Explore More
@@ -320,10 +318,6 @@ Offers
 *   'The Predator' Gift with Purchase
     
     Buy tickets to 'The Predator' and get a FREE\* Predator digital comic-book with ticket purchase. BUY TICKETS
-    
-*   'Ant-Man and The Wasp' Gift With Purchase
-    
-    Receive a FREE\* exclusive 'Ant-Man and The Wasp' poster with ticket purchase (\*shipping &. handling not included). BUY TICKETS
     
 
 New + Coming soon
