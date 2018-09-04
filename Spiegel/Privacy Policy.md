@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   3\. September 2018
+*   4\. September 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.364,06ǀ
+*   DAX 12.346,41ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -327,9 +327,7 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
     *   Bücher bestellen
     *   Arztsuche
     *   Ferientermine
-*   *   Sudoku
-    *   Kenken
-    *   Street
+*   *   Spiele
 
 SPIEGEL GRUPPE
 
