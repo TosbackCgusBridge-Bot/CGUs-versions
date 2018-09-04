@@ -1,5 +1,3 @@
-We use cookies to improve your experience. By continuing to use our site, you accept our use of cookies, Privacy Policy, and Terms of Service. Learn more
-
 *   Name
 *   Username
 *   Phone
@@ -12,7 +10,7 @@ Please enter a Last Name
 
 Location
 
-LocationAlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutWashington, DCDelawareFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+LocationWorldUSAAlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutWashington, DCDelawareFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachussetsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
 
 Please enter the location
 
@@ -68,7 +66,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 47%  47%  47%  4% 
+What is PeekScore? Public Records &. Background Checks 50%  50%  50%  3% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -92,7 +90,7 @@ What is PeekScore? Public Records &. Background Checks 47%  47%  47%  4% 
     
     Known Cities: Hubbard, OH Possible Relatives: Jennifer I Policy, Kathleen N Policy, Michael J Policy, Irene Policy
     
-*   Mr Paul A Policy JR, age 58, Clermont, GA View Full Report
+*   Mr Paul A Policy JR, age 59, Clermont, GA View Full Report
     
     Known Cities: Clermont, GA, Flowery Branch, GA, Flowery Br, GA Possible Relatives: Donna Peterson-Policy, Nancie Lee Pugh, Sunset K Carson, Abigail Ornelas
     
@@ -155,41 +153,41 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 47%  Twitter 4% 
+Facebook 49%  Twitter 2% 
 
 *   NIH - NIH
     
 *   U.S. FDA - FDArecalls
     
-*   CDC - CDCgov
+*   The Dark Tangent - thedarktangent
     
-*   HIV.gov - HIVGov
+*   CDC - CDCgov
     
 *   Show More ...
 
-*   Free Privacy Policy - FreePrivacy1
-    
 *   CDC\_eHealth - CDC\_eHealth
+    
+*   Free Privacy Policy - FreePrivacy1
     
 *   U.S. FDA - US\_FDA
     
-*   CMSGov - CMSGov
+*   HTC USA - HTCUSA
     
 *   Bush Library - Bush41Library
     
+*   HIV.gov - HIVGov
+    
 *   Federal Reserve - federalreserve
+    
+*   Microsoft Privacy - MSFTPrivacy
     
 *   U.S. Census Bureau - uscensusbureau
     
 *   Dr. Robert R. Redfield - CDCDirector
     
-*   Updated Privacy Policy - EAEO
-    
 *   HHS.gov - HHSGov
     
 *   HealthCare.gov - HealthCareGov
-    
-*   FDA Drug Information - FDA\_Drug\_Info
     
 *   Cristiano Ronaldo - Cristiano
     
@@ -201,7 +199,7 @@ Facebook 47%  Twitter 4% 
     
 *   Show Less ...
 
-Instagram 4% 
+Instagram 2% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -253,7 +251,7 @@ Instagram 4% 
     
 *   Show Less ...
 
-Myspace 4% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -277,11 +275,11 @@ Myspace 4% 
     
 *   Show Less ...
 
-Pinterest 46%  Wikipedia 4% 
+Pinterest 49%  Wikipedia 2% 
 
 *   Privacy policy
     
-    A privacy policy is a statement or a legal document (in privacy law) that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data.It fulfills a legal requirement to protect a customer or client's privacy. Personal information can be anything that can be used to identify an individual, not limited to the …
+    A privacy policy is a statement or a legal document (in privacy law) that discloses some or all of the ways a party gathers, uses, discloses, and …
     
 *   Jumper
     
@@ -292,14 +290,14 @@ Pinterest 46%  Wikipedia 4% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Google+ 4% 
+Google+ 2% 
 
 *   Application Privacy Policy - Google+ - Google Plus
     
     Application Privacy Policy ·... \* 収集する利用者情報及び収集方法 本ポリシー において、「利用者情報」とは、ユーザーの識別に係る情報、アプリケーション上の行動 履歴、その他ユーザーの端末情報であって、本ポリシーに基づき提供者が収集するもの  ...
     
 
-Music 4% 
+Music 2% 
 
 *   Pandora
     
@@ -345,7 +343,7 @@ Music 4% 
     
 *   Show Less ...
 
-Photo Albums 4% 
+Photo Albums 2% 
 
 *   Flickriver
     
@@ -360,7 +358,7 @@ Photo Albums 4% 
     ‎Read reviews, compare customer ratings, see screenshots, and learn more about Flickr. Download Flickr and enjoy it on your iPhone, iPad, and iPod touch.
     
 
-Web Search 46%  Images 4% 
+Web Search 49%  Images 2% 
 
 20
 
@@ -381,6 +379,6 @@ myspacex
 *   Blog
 *   Daily Searches
 
-Copyright 2018 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
+Copyright 2017 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
 
 Scroll
