@@ -111,6 +111,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Gary Bauer_: For Labor Day, Trump Has Earned Workers' Support
+    
+*   _E.J. Dionne_: Trump's Words Don't Buy Dinner for Working Class
+    
+*   _Michael Graham_: Why Trump's Average Approval Rating Is Going Up
+    
+*   _Juan Williams_: Trump's 'Majority' Is Fake
+    
+*   _Joel Kotkin_: America Is Moving Toward an Oligarchical Socialism
+    
+*   _Byron York_: Congress Waits, Waits, Waits for Sally Yates Documents
+    
+*   _Jeffrey Toobin_: How Rudy Giuliani Turned Into Trump's Clown
+    
+*   _Julie Kelly_: NY Times Throws Up a Smokescreen for Bruce Ohr
+    
+*   _Adam Liptak_: How Kavanaugh Would Transform the Supreme Court
+    
+*   _Charles Hurt_: The Washington Gutter Oozes Everywhere
+    
+*   _Bill Scher_: Joe Biden: Master of Grief
+    
+*   _John Fund_: Media Obituaries Didn't Give Us 'The Full McCain'
+    
+*   _Dean Obeidallah_: Trump Demonization of Media Is Dangerous
+    
+*   _Julie Mason_: WH at War With the Press, But Trump Didn't Start It
+    
+*   _John Hinderaker_: Scandal of Liberal Journalists Covering a Liberal Pope
+    
+*   _Danny Westneat_: Has Seattle Gotten Better or Worse?
+    
+*   _Doug McIntyre_: California Dems' Boycott of In-N-Out Hard to Swallow
+    
 *   _Elaina Plott_: This House Race Is The Future of Texas Politics
     
 *   _Salena Zito_: Five Midterm Races to Watch
@@ -124,40 +158,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Carl M. Cannon_: John McCain's Gift to America
     
 *   _Paul Mirengoff_: McCain's Funeral Turns Into a 'Resistance' Meeting
-    
-*   _Ruth Marcus_: Brace Yourself for the Kavanaugh Kabuki
-    
-*   _Ken Blackwell_: What to Expect From the Kavanaugh Confirmation Hearing
-    
-*   _Z. Byron Wolf_: President Trump's Summer From Hell
-    
-*   _Gary Varvel_: Why the Mueller Wins Haven't Shaken Trump Voters
-    
-*   _Debra Saunders_: Trump Proof Voters Care More About Policies than Character
-    
-*   _Michelle Chen_: Affirmative Action Is Under Attack
-    
-*   _Heather MacDonald_: UCLA's Costly Infatuation With Diversity
-    
-*   _Nosheen Iqbal_: Rush to Rehab Louis C.K. Makes a Mockery of #MeToo
-    
-*   _Ronica Cleary_: Why I Quit My Job as a White House Correspondent
-    
-*   _Thaddeus McCotter_: Hollywood Lands on the Moon
-    
-*   _Newt Gingrich_: Amidst Noise, Trump Keeps Racking Up Policy Victories
-    
-*   _Roger Cohen_: McCain and a Requiem for the American Century
-    
-*   _F.H. Buckley_: How Trump Dismantled the Tone-Deaf Establishment
-    
-*   _Paul Brandus_: Why a Roaring Economy Isn't Boosting Trump
-    
-*   _Rich Lowry_: DeVos Is Right to Close Campus Kangaroo Courts
-    
-*   _Bruni &. Higa_: 13 Democratic Faces That Tell the Story of 2018
-    
-*   _John McCormack_: Walker Once Again Faces a Very Tight Race in Wisconsin
     
 
 *   Previous
@@ -245,18 +245,18 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalIBD/TIPP
-    *   Approve36
-    *   Disapprove56Disapprove +20
-*   2018 Generic Congressional VoteIBD/TIPP
-    *   Democrats50
-    *   Republicans39Democrats +11
-*   Direction of CountryIBD/TIPP
-    *   Right Direction47
-    *   Wrong Track53Wrong Track +6
-*   West Virginia Senate - Morrisey vs. ManchinMetroNews
-    *   Manchin46
-    *   Morrisey38Manchin +8
+*   President Trump Job ApprovalGallup
+    *   Approve41
+    *   Disapprove53Disapprove +12
+*   President Trump Job ApprovalEmerson
+    *   Approve38
+    *   Disapprove53Disapprove +15
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove51Disapprove +4
+*   2018 Generic Congressional VoteEmerson
+    *   Democrats52
+    *   Republicans39Democrats +13
 
 More Latest Polls In The News
 
