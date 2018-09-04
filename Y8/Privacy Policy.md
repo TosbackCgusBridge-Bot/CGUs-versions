@@ -3,42 +3,44 @@
 *   games
 *   videos
 
-New Games Next in  25:03 Categories &. more LIBRARY
+New Games Next in  23:59 Categories &. more LIBRARY
 
-*   New Games Next in 25:03
-*   Best of new games 1478 games
-*   Most Popular Games 17954 games
+*   New Games Next in 23:59
+*   Best of new games 1473 games
+*   Most Popular Games 17946 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,054 games
-*   Driving &. Racing Games 6,672 games
+*   Games for girls 23,067 games
+*   Driving &. Racing Games 6,668 games
 *   Strategy &. RPG Games 2,380 games
-*   Management Games 3,644 games
+*   Management Games 3,646 games
 *   Thinking Games 11,617 games
-*   Action &. Adventure Games 15,672 games
-*   Sports Games 2,094 games
-*   Shooting Games 8,105 games
-*   Fighting Games 2,077 games
-*   Skill Games 10,200 games
-*   Arcade &. Classic Games 12,561 games
+*   Action &. Adventure Games 15,667 games
+*   Sports Games 2,090 games
+*   Shooting Games 8,102 games
+*   Fighting Games 2,075 games
+*   Skill Games 10,197 games
+*   Arcade &. Classic Games 12,558 games
 *   Fun &. Crazy Games 2,411 games
 
 Tags
 
-*   Solitaire183
+*   Match 31,248
+*   Action RPG (Hack and Slash)180
+*   Decorate1,730
+*   Baby353
 *   Sports2,101
-*   Android597
-*   Birds748
-*   Asteroids336
-*   Boy1,145
+*   Motorcycle852
 *   View All Tags 372
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 1,556 Y8 High Score Games 980 Y8 Achievements Games 769 Y8 Screenshots Games 1,298 Y8 Online Save Games 2,563 All Y8 Games Games
+Powered by Y8 Account 129 Y8 Multiplayer Games 1,555 Y8 High Score Games 979 Y8 Achievements Games 769 Y8 Screenshots Games 1,296 Y8 Online Save Games 2,561 All Y8 Games Games Last Highscore:
+
+**14** points on Color Spin by Yumi
 
 *   Contact Form
 *   Submit a Game or Video
@@ -48,7 +50,7 @@ Powered by Y8 Account 130 Y8 Multiplayer Games 1,556 Y8 High Score Games 980 Y8 
 *   Cookie Policy
 *   Terms of Use
 
-Bad translation? Share888K Register Log in My Profile 0 points
+Bad translation? Share889K Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
@@ -272,4 +274,4 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Privacy Policy
 *   Cookie Policy
 
-Share888K We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
+Share889K We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
