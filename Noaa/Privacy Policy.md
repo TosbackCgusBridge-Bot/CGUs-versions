@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Labor Day holiday forecast: Seasonable temperatures, rain chances across much of U.S. AROUND NOAA // Fact vs. fiction: 3 things you thought you knew about jellyfish Teachers: Go back to school with NOAA Heat-seeking citizen scientists zero-in on D.C., Baltimore for mapping mission New smoke data from NOAA satellites keeps traveling public out of harm's way \[EXT\]
+Enter Search Terms Labor Day holiday forecast: Seasonable temperatures, rain chances across much of U.S. AROUND NOAA // Tropical Storm Gordon: Get the latest forecast from NOAA's National Hurricane Center \[EXT\] Fact vs. fiction: 3 things you thought you knew about jellyfish Teachers: Go back to school with NOAA Heat-seeking citizen scientists zero-in on D.C., Baltimore for mapping mission
 
 *   About our agency
 *   News and features
