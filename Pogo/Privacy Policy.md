@@ -1,5 +1,5 @@
 Electronic Arts Inc.Privacy and Cookie Policy Last Updated: August 31, 2018  
-Effective Date: October 1, 2018  
+Effective Date: September 30, 2018  
   
   
   
