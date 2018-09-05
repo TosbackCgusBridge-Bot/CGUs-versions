@@ -1,10 +1,10 @@
-c9f5bec1-e4c2-4988-822d-6f2f8810d522
+317e6f4a-3b44-4e7e-84f2-7c54d0c4d422
 
 *   Search
 *   Contact Us
     
 *   En español
-*   Showing offers for zip code 80202
+*   Showing offers for zip code 80201
     
 *   UPDATE
 
@@ -20,6 +20,7 @@ Toggle Navigation
     *   Internet
     *   Cable TV
     *   Phone
+    *   Mobile
     *   Latino
     *   Business
 *   Manage Account
@@ -34,6 +35,7 @@ Toggle Navigation
 *   Internet
 *   Cable TV
 *   Phone
+*   Mobile
 *   Latino
 *   Business
 
@@ -67,6 +69,9 @@ Shop Spectrum +
 *   Spectrum TV
 *   Spectrum Voice
 *   Mi Plan Latino
+*   Spectrum Mobile
+*   Spectrum Sports Networks
+*   Spectrum Premium Channels
 
 Explore Spectrum +
 
