@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Labor Day holiday forecast: Seasonable temperatures, rain chances across much of U.S. AROUND NOAA // Tropical Storm Gordon: Get the latest forecast from NOAA's National Hurricane Center \[EXT\] Fact vs. fiction: 3 things you thought you knew about jellyfish Teachers: Go back to school with NOAA Heat-seeking citizen scientists zero-in on D.C., Baltimore for mapping mission
+Enter Search Terms Gordon comes ashore west of the Alabama-Mississippi border NOAA's National Hurricane Center warns of life-threatening storm surge AROUND NOAA // Ask the scientist: How can the weather spark and spread wildfires? Teachers: Go back to school with NOAA Fact vs. fiction: 3 things you thought you knew about jellyfish
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-NOAA
+iStock
