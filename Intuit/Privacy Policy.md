@@ -4,7 +4,6 @@ Accessible View
 
 SHOP DEPARTMENTS
 
-*   Find a Store
 *   Same Day Pickup
 *   Store Ads
 *   Back to School
