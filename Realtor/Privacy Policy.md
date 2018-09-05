@@ -172,7 +172,6 @@ Page Content
     *   Move.com
     *   Relocation
     *   Moving.com
-    *   International
     *   Commercial
     *   SeniorHousingNet.com
     *   Doorsteps
