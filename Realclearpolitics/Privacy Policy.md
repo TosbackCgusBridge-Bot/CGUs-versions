@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Gary Bauer_: For Labor Day, Trump Has Earned Workers' Support
+*   _Julian Zelizer_: Kavanaugh Hearings Are Pivotal for Each Party in the Midterms
     
-*   _E.J. Dionne_: Trump's Words Don't Buy Dinner for Working Class
+*   _Margot Cleveland_: More Evidence Russia Probe Was a Setup All Along
     
-*   _Michael Graham_: Why Trump's Average Approval Rating Is Going Up
+*   _Eugene Robinson_: What's at Stake in November? Democracy.
     
-*   _Juan Williams_: Trump's 'Majority' Is Fake
+*   _Victor Davis Hanson_: As Things Get Better, Will Trump Get Credit?
     
-*   _Joel Kotkin_: America Is Moving Toward an Oligarchical Socialism
+*   _Paul Krugman_: Get Sick, Go Bankrupt and Die
     
-*   _Byron York_: Congress Waits, Waits, Waits for Sally Yates Documents
+*   _Carter &. Roff_: The Tax Law Schumer Hates--But Used to Praise
     
-*   _Jeffrey Toobin_: How Rudy Giuliani Turned Into Trump's Clown
+*   _Susan Glasser_: McCain Funeral Was the Biggest Resistance Meeting Yet
     
-*   _Julie Kelly_: NY Times Throws Up a Smokescreen for Bruce Ohr
+*   _David Goldman_: A Funeral for a World That Never Was
     
-*   _Adam Liptak_: How Kavanaugh Would Transform the Supreme Court
+*   _Kalev Leetaru_: Social Media's Opaque Response to Charges of Bias
     
-*   _Charles Hurt_: The Washington Gutter Oozes Everywhere
+*   _Hoffman &. Minsberg_: The Deafening Silence of Colin Kaepernick
     
-*   _Bill Scher_: Joe Biden: Master of Grief
+*   _Piers Morgan_: Kaepernick Won't Stand for Flag But Bows to Nike for Dollar
     
-*   _John Fund_: Media Obituaries Didn't Give Us 'The Full McCain'
+*   _Harper_: Kavanaugh Will Serve Justice Like Kennedy
     
-*   _Dean Obeidallah_: Trump Demonization of Media Is Dangerous
+*   _Jim Newell_: The 3 Big Fights Democrats Will Pick at Kavanaugh Hearings
     
-*   _Julie Mason_: WH at War With the Press, But Trump Didn't Start It
+*   _Carrie Severino_: Kavanaugh Hearings: Spectacle, and Civics Lesson
     
-*   _John Hinderaker_: Scandal of Liberal Journalists Covering a Liberal Pope
+*   _Garrett Epps_: Kavanaugh's Unsettling Use of 'Settled Law'
     
-*   _Danny Westneat_: Has Seattle Gotten Better or Worse?
+*   _Mark Pulliam_: Robert Bork: The Original Originalist
     
-*   _Doug McIntyre_: California Dems' Boycott of In-N-Out Hard to Swallow
+*   _Michelle Goldberg_: Mourning McCain, and America
     
-*   _Elaina Plott_: This House Race Is The Future of Texas Politics
+*   _Conrad Black_: McCain's Friends and Family Did Him No Honor
     
-*   _Salena Zito_: Five Midterm Races to Watch
+*   _Carl Cannon_: Mass Shootings in U.S.: Anatomy of a Hyped Statistic
     
-*   _Ratcliffe &. Sanchez_: Beto Faces New Perils as Fall Campaign Begins
+*   _Maureen Dowd_: The Trump Vibe Spreads Down Under
     
-*   _Ford O'Connell_: GOP Will Need More Than the Economy to Hold the House
+*   _Jenna Lifhits_: Under Pompeo, State Department Is Getting Its Groove Back
     
-*   _Josh Kraushaar_: Democrats Blowing Winnable Governor's Races
+*   _Samantha Vinograd_: Justin Trudeau Doesn't Want to Be the Odd Man Out
     
-*   _Carl M. Cannon_: John McCain's Gift to America
+*   _Donald Trump Jr._: Dem Reaction to Tibbetts' Death Heartless, Despicable
     
-*   _Paul Mirengoff_: McCain's Funeral Turns Into a 'Resistance' Meeting
+*   _Rob Tibbetts_: Don't Distort My Daughter's Death to Advance Racist View
     
 
 *   Previous
@@ -228,10 +228,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Mass Shootings in America: Anatomy of a Hyped Statistic
 *   Justice Department Backs Asian-Americans in Harvard Case
+*   Johnson: 30 Years Ago, Kavanaugh Would Have Passed Unanimously
 *   For Both Parties, 1998 Midterms Offer a Lesson for '18
-*   Trump: DOJ, FBI Have to "Straighten Out" or I Will Get Involved
-*   Fla. Governor's Race Pits Liberal Dem vs. Trump Republican
 *   For Likely 2020 Candidates, Midterms Offer a Leg Up
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve41
-    *   Disapprove53Disapprove +12
-*   President Trump Job ApprovalEmerson
-    *   Approve38
-    *   Disapprove53Disapprove +15
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove51Disapprove +4
-*   2018 Generic Congressional VoteEmerson
-    *   Democrats52
-    *   Republicans39Democrats +13
+*   Missouri Senate - Hawley vs. McCaskillNBC News/Marist
+    *   Hawley47
+    *   McCaskill47Tie
+*   Florida Senate - Scott vs. NelsonGravis
+    *   Scott47
+    *   Nelson47Tie
+*   Florida Governor - DeSantis vs. GillumGravis
+    *   Gillum47
+    *   DeSantis45Gillum +2
+*   Florida Governor - DeSantis vs. GillumQuinnipiac
+    *   Gillum50
+    *   DeSantis47Gillum +3
 
 More Latest Polls In The News
 
+*   Three Texas Doctors: We Saw Protesters Paid In Cash To Disrupt Kavanaugh Hearing On Line To Enter
+*   Sasse: SCOTUS Hearings Must Not Be "Substitute Political Battleground," Better Off Watching "Schoolhouse Rock"
 *   John Kerry: Culture Divide Worsened By "So-Called Leaders" Who "Operate In A Fact-Less World"
 *   April Ryan: The Trump WH "Will Go After You" When You Report The Truth, "They've Tried to Discredit Me"
 *   Trump: Old And Corrupt Globalist Ruling Class Have Been Rejected, "The Whole World Understands"
-*   Tucker Carlson: Media Invites Discredited Neocon Morons, Unemployed Political Hacks To Fret Over GOP
-*   Hannity: "S-Hole Network" CNN Won't Retract Story, Wonders Why Crowds Of Americans Yell 'CNN Sucks'
 
 *   Politics
 *   Policy
