@@ -13,7 +13,6 @@
     *   RuPaul's Drag Race
     *   Trailblazer HonorsSee all Shows
 *   News
-*   Digital Originals
 *   App
 *   Watch Live TV
 *   TV Provider Sign Out
@@ -22,7 +21,6 @@ VH1 MenuVH1
 
 *   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBasketball WivesBlack Ink Crew ChicagoHip Hop SquaresLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodMartha &. Snoop's Potluck Dinner PartyRuPaul's Drag RaceTrailblazer Honorssee all Shows
 *   News
-*   Digital Originals
 *   App
 *   Watch Live TV
 
@@ -403,5 +401,3 @@ closeAll ResultsShowsEpisodesVideosNewsEventsTrending
 *   Newsletter
 
 © 2018 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.
-
-**We've Updated Our Terms.** By continuing to use the Site, you agree to the Site's updated Terms of Use and consent to the collection, use, disclosure and transfer of information as described in this Site's updated Privacy Policy. Before you do, please read them and check out some of these changes (such as arbitration for disputes - see our FAQs). Please also note that you are accessing a site which is designed for and targeted to U.S. audiences and is governed by and operated in accordance with U.S. laws.
