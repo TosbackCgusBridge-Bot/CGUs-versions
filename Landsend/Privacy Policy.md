@@ -217,7 +217,6 @@ menu Close 0 Free Shipping on $50+
     *   Swim Skirts
     *   Board Shorts
     *   Swim Dresses
-    *   D Cup Swimsuits
     *   Mastectomy Swimsuits
     *   Long Torso Swimsuits
     
@@ -623,7 +622,6 @@ menu Close 0 Free Shipping on $50+
         *   Swim Skirts
         *   Board Shorts
         *   Swim Dresses
-        *   D Cup Swimsuits
         *   Mastectomy Swimsuits
         *   Long Torso Swimsuits
     *   GIRLS' SWIMSUITS
