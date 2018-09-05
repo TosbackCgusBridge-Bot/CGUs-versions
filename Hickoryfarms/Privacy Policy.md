@@ -8,7 +8,6 @@
     *   New!
     
     Occasions*   College Gifting
-    *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -45,14 +44,13 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Labor Day Gifts
+    View All Categories Shop by Category*   Game Day
     
     Occasions*   College Gifting
-    *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Labor Day Gifts
+    *   Graduation &. CongratulationsMost Popular Game Day
 *   Sale
 
 1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Skip to content Business Gifts Stores Account
@@ -73,7 +71,6 @@
     *   New!
     
     Occasions*   College Gifting
-    *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -110,14 +107,13 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Labor Day Gifts
+    View All Categories Shop by Category*   Game Day
     
     Occasions*   College Gifting
-    *   Taste of Summer
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Labor Day Gifts
+    *   Graduation &. CongratulationsMost Popular Game Day
 *   Sale
 
 1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Limited time! FREE SHIPPING ON SHIPMENTS OVER $35!\*
