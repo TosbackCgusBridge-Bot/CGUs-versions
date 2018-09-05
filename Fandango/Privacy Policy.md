@@ -69,8 +69,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Dwayne Johnson to Finally Play Hawaii's 'King'. Here's Everything We Know Read More
-    *   'Lord of the Rings' Star Dominic Monaghan Joins 'Star Wars: Episode IX'. Here's What We Know So Far Read More
+    *   The Week in Movie News: Dwayne Johnson Lines Up a Dream Role, Our Guides to the Fall Movies and More Read More
+    *   Next 3 Sci-Fi Worlds: 'Ad Astra,' 'Chaos Walking,' 'Captive State' Read More
     *   Final 'The Predator' Trailer Lets the Dogs Out. Here's Everything We Know Read More
     
     Explore Content
