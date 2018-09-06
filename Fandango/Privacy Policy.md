@@ -71,12 +71,11 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   The Week in Movie News: Dwayne Johnson Lines Up a Dream Role, Our Guides to the Fall Movies and More Read More
     *   Next 3 Sci-Fi Worlds: 'Ad Astra,' 'Chaos Walking,' 'Captive State' Read More
-    *   Final 'The Predator' Trailer Lets the Dogs Out. Here's Everything We Know Read More
+    *   Mark Wahlberg Stars in First, Comic 'Instant Family' Trailer. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
-    *   Summer Movie Guide
     *   Family Guide
     *   Weekend Ticket
 *   My VIP Account Join FandangoVIP Refunds + Exchanges
@@ -343,7 +342,6 @@ Experience + Explore
 Editorial Features
 
 *   Indie Movie Guide
-*   Summer Movie Guide
 *   Family Guide
 *   Movie News
 
