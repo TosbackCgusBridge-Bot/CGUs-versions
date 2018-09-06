@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Gordon comes ashore west of the Alabama-Mississippi border NOAA's National Hurricane Center warns of life-threatening storm surge AROUND NOAA // Ask the scientist: How can the weather spark and spread wildfires? Teachers: Go back to school with NOAA Fact vs. fiction: 3 things you thought you knew about jellyfish
+Enter Search Terms Gordon comes ashore west of the Alabama-Mississippi border Threat of heavy rain and flooding continues AROUND NOAA // Ask the scientist: How can the weather spark and spread wildfires? Teachers: Go back to school with NOAA Fact vs. fiction: 3 things you thought you knew about jellyfish
 
 *   About our agency
 *   News and features
