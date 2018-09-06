@@ -363,10 +363,10 @@ click here Important Info Important Info
 
 Leasing &. Finance
 
-*   Financing Options
-*   Financing Options
+*   Apply For Credit
+*   Reward &. Finance Programs
 *   End of Lease Options
-*   Financial Services Website
+*   Buy or Lease Quiz
 
 Owners
 
@@ -430,10 +430,10 @@ Brand &. Lifestyle
 *   Sendthemasignal.tumblr.com
 
 *   Leasing &. Finance
-    *   Financing Options
-    *   Financing Options
+    *   Apply For Credit
+    *   Reward &. Finance Programs
     *   End of Lease Options
-    *   Financial Services Website
+    *   Buy or Lease Quiz
 *   Owners
     *   Enform Subscription
     *   Owner Benefits
