@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   5\. September 2018
+*   6\. September 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.210,21ǀ
+*   DAX 12.040,46ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
