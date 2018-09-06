@@ -109,7 +109,7 @@ Sony on YouTube - A Brand New Spider-Man Adventure Set in a Realistic New York C
 
 Play A Brand New Spider-Man Adventure Set in a Realistic New York City Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/marvels-spider-man-600x600.jpg);" alt="Marvel&#39;s Spider-Man Gameplay Trailer">. Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro
+<img class="bg-img" class="url(/en\_us/media/content/marvels-spider-man-600x600-2.jpg);" alt="Marvel&#39;s Spider-Man Gameplay Trailer">. Marvel’s Spider-Man Fans: Don't Miss This Limited Edition PS4™ Pro
 
 Learn More
 
@@ -157,7 +157,7 @@ Sony on YouTube - Developers Give an Inside Look at
 
 Play Developers Give an Inside Look at Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/MSM\_Screen\_PS4\_Swing-600x600.jpg);" alt="Inside Look at Spider-Man Video">. What Makes You Different, Makes You Spider-Man
+<img class="bg-img" class="url(/en\_us/media/content/MSM\_Screen\_PS4\_Swing-600x600-2\_PCr7aa2.jpg);" alt="Inside Look at Spider-Man Video">. What Makes You Different, Makes You Spider-Man
 
 "Spider-Man: Into the Spider Verse" Coming Soon
 
