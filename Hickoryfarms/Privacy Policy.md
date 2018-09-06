@@ -7,11 +7,11 @@
     *   Military
     *   New!
     
-    Occasions*   College Gifting
+    Occasions*   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular College Gifting Birthday Gifts
+    *   Graduation &. CongratulationsMost Popular Game Day Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -70,11 +70,11 @@
     *   Military
     *   New!
     
-    Occasions*   College Gifting
+    Occasions*   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular College Gifting Birthday Gifts
+    *   Graduation &. CongratulationsMost Popular Game Day Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -116,7 +116,7 @@
     *   Graduation &. CongratulationsMost Popular Game Day
 *   Sale
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Limited time! FREE SHIPPING ON SHIPMENTS OVER $35!\*
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Privacy Policy
