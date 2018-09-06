@@ -3,44 +3,44 @@
 *   games
 *   videos
 
-New Games Next in  23:14 Categories &. more LIBRARY
+New Games Next in  xx:xx Categories &. more LIBRARY
 
-*   New Games Next in 23:14
-*   Best of new games 1474 games
-*   Most Popular Games 17951 games
+*   New Games Next in xx:xx
+*   Best of new games 1472 games
+*   Most Popular Games 17955 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,078 games
-*   Driving &. Racing Games 6,666 games
-*   Strategy &. RPG Games 2,380 games
+*   Games for girls 23,087 games
+*   Driving &. Racing Games 6,667 games
+*   Strategy &. RPG Games 2,381 games
 *   Management Games 3,647 games
 *   Thinking Games 11,622 games
 *   Action &. Adventure Games 15,669 games
-*   Sports Games 2,090 games
-*   Shooting Games 8,105 games
-*   Fighting Games 2,074 games
-*   Skill Games 10,198 games
-*   Arcade &. Classic Games 12,558 games
-*   Fun &. Crazy Games 2,410 games
+*   Sports Games 2,092 games
+*   Shooting Games 8,107 games
+*   Fighting Games 2,073 games
+*   Skill Games 10,201 games
+*   Arcade &. Classic Games 12,560 games
+*   Fun &. Crazy Games 2,412 games
 
 Tags
 
-*   Baby353
-*   Kissing247
-*   Racing1,599
-*   Football428
-*   2 player1,042
-*   Kung Fu77
+*   Girl22,103
+*   Scary259
+*   3+ Player81
+*   Asteroids336
+*   Android597
+*   Alien965
 *   View All Tags 372
 
 Play with friends  
-Powered by Y8 Account 129 Y8 Multiplayer Games 1,555 Y8 High Score Games 979 Y8 Achievements Games 769 Y8 Screenshots Games 1,296 Y8 Online Save Games 2,561 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 129 Y8 Multiplayer Games 1,555 Y8 High Score Games 979 Y8 Achievements Games 769 Y8 Screenshots Games 1,297 Y8 Online Save Games 2,561 All Y8 Games Games Last Highscore:
 
-**512** points on Death Run 3D by Jordyan124
+**39** points on Wheely 5: Armageddon by egor.geraskin.117658
 
 *   Contact Form
 *   Submit a Game or Video
@@ -50,7 +50,7 @@ Powered by Y8 Account 129 Y8 Multiplayer Games 1,555 Y8 High Score Games 979 Y8 
 *   Cookie Policy
 *   Terms of Use
 
-Bad translation? Share889K Register Log in My Profile 0 points
+Bad translation? Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
@@ -274,4 +274,4 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Privacy Policy
 *   Cookie Policy
 
-Share889K We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
+We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
