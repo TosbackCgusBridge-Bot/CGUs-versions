@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -37,20 +35,18 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   Video
 *   Writers
     *   Staff Writers
-    *   James Arkin
-    *   Tom Bevan
     *   Carl M. Cannon
+    *   Tom Bevan
+    *   Sally Persons
+    *   Adele Malpass
     *   Sean Trende
-    *   Caitlin Huey-Burns
     *   Columnist
     *   A.B. Stoddard
-    *   Anneke E. Green
     *   Contributors
-    *   Windsor Mann
-    *   Mark Salter
     *   Bill Scher
     *   Lou Cannon
     *   Charles Lipson
+    *   Mark Salter
     *   Joel Kotkin
     *   Peter Berkowitz
 *   More
@@ -111,53 +107,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Julian Zelizer_: Kavanaugh Hearings Are Pivotal for Each Party in the Midterms
+*   _Katie Pavlich_: Dems Should Be Ashamed of Kavanaugh Hearing Outbursts
     
-*   _Margot Cleveland_: More Evidence Russia Probe Was a Setup All Along
+*   _Jay Michaelson_: If Brett Kavanaugh Wins, the Supreme Court Loses
     
-*   _Eugene Robinson_: What's at Stake in November? Democracy.
+*   _John Yoo_: Kavanaugh Shows Why He'd Be a Great Supreme Court Justice
     
-*   _Victor Davis Hanson_: As Things Get Better, Will Trump Get Credit?
+*   _Peter Beinart_: The Key Lesson of Ayanna Pressley's Victory
     
-*   _Paul Krugman_: Get Sick, Go Bankrupt and Die
+*   _Roger Simon_: Bob Woodward's Latest Novel
     
-*   _Carter &. Roff_: The Tax Law Schumer Hates--But Used to Praise
+*   _Brent Budowsky_: Woodward Book Shames Trump Shills, Enablers
     
-*   _Susan Glasser_: McCain Funeral Was the Biggest Resistance Meeting Yet
+*   _Ed Yardeni_: What If Trump Trade War Leads to Lower Tariffs, More Jobs?
     
-*   _David Goldman_: A Funeral for a World That Never Was
+*   _Jill Filipovic_: Are Sexual Harassers About to Have Free Rein on Campus?
     
-*   _Kalev Leetaru_: Social Media's Opaque Response to Charges of Bias
+*   _Emily Yoffe_: Reining In the Excesses of Title IX
     
-*   _Hoffman &. Minsberg_: The Deafening Silence of Colin Kaepernick
+*   _Salena Zito_: The Twitter Trolls Attacking My Work Are All Wrong
     
-*   _Piers Morgan_: Kaepernick Won't Stand for Flag But Bows to Nike for Dollar
+*   _Gregg Kilday_: Michael Moore Plays His Trump Card
     
-*   _Harper_: Kavanaugh Will Serve Justice Like Kennedy
+*   _Stohr &. Litvan_: Kavanaugh's Supreme Court Hearing Has Rancorous Start
     
-*   _Jim Newell_: The 3 Big Fights Democrats Will Pick at Kavanaugh Hearings
+*   _Michael Goodwin_: Democrats Wage a Losing Battle Over Kavanaugh
     
-*   _Carrie Severino_: Kavanaugh Hearings: Spectacle, and Civics Lesson
+*   _Michael Long_: What's Wrong With Brett Kavanaugh's Originalism
     
-*   _Garrett Epps_: Kavanaugh's Unsettling Use of 'Settled Law'
+*   _Matthew Continetti_: A 40-Year Plan That Allows Trump to Reshape Courts
     
-*   _Mark Pulliam_: Robert Bork: The Original Originalist
+*   _Renato Mariotti_: Trump Can't Help Obstructing Justice
     
-*   _Michelle Goldberg_: Mourning McCain, and America
+*   _Byron York_: On Trump-Russia, Too Much Secrecy Keeps Public in Dark
     
-*   _Conrad Black_: McCain's Friends and Family Did Him No Honor
+*   _Gideon Resnick_: Pressley Ousts 20-Year Dem Incumbent in MA Shocker
     
-*   _Carl Cannon_: Mass Shootings in U.S.: Anatomy of a Hyped Statistic
+*   _John Kass_: Rahm Emanuel Drops Out, &. It's Lord of the Flies, Again
     
-*   _Maureen Dowd_: The Trump Vibe Spreads Down Under
+*   _Mark Zuckerberg_: How Facebook Can Help Protect Democracy
     
-*   _Jenna Lifhits_: Under Pompeo, State Department Is Getting Its Groove Back
+*   _Gideon Scopes_: A Facebook Engineer's Plea for Political Diversity
     
-*   _Samantha Vinograd_: Justin Trudeau Doesn't Want to Be the Odd Man Out
+*   _Kara Swisher_: The Politicians Are Coming for Silicon Valley
     
-*   _Donald Trump Jr._: Dem Reaction to Tibbetts' Death Heartless, Despicable
+*   _Heather Wilson_: The Law of War and the Power of Computing
     
-*   _Rob Tibbetts_: Don't Distort My Daughter's Death to Advance Racist View
+*   _Phyllis Chesler_: How Multiculturalism Hijacked Feminism
     
 
 *   Previous
@@ -228,11 +224,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Rancorous, Partisan Start for Kavanaugh High Court Hearing
+*   In MA Primary Stunner, Pressley Unseats Incumbent Rep. Capuano
+*   Sasse: Court Hearings Must Not Turn Into Substitute Political Battleground
 *   Mass Shootings in America: Anatomy of a Hyped Statistic
 *   Justice Department Backs Asian-Americans in Harvard Case
-*   Johnson: 30 Years Ago, Kavanaugh Would Have Passed Unanimously
-*   For Both Parties, 1998 Midterms Offer a Lesson for '18
-*   For Likely 2020 Candidates, Midterms Offer a Leg Up
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +241,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Missouri Senate - Hawley vs. McCaskillNBC News/Marist
-    *   Hawley47
-    *   McCaskill47Tie
-*   Florida Senate - Scott vs. NelsonGravis
-    *   Scott47
-    *   Nelson47Tie
-*   Florida Governor - DeSantis vs. GillumGravis
-    *   Gillum47
-    *   DeSantis45Gillum +2
-*   Florida Governor - DeSantis vs. GillumQuinnipiac
-    *   Gillum50
-    *   DeSantis47Gillum +3
+*   Indiana Senate - Braun vs. DonnellyNBC News/Marist
+    *   Donnelly49
+    *   Braun43Donnelly +6
+*   Florida Senate - Scott vs. NelsonQuinnipiac
+    *   Scott49
+    *   Nelson49Tie
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve43
+    *   Disapprove54Disapprove +11
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve42
+    *   Disapprove55Disapprove +13
 
 More Latest Polls In The News
 
+*   Rubio To Facebook/Twitter: What Happens When An Authoritarian Government Tells You To Shut Down Dissent?
+*   Alex Jones Confronts Marco Rubio, Ron Wyden: Why Are You Trying To Dehumanize Me, Censor Internet?
+*   Twitter CEO Jack Dorsey: "We Haven't Done Enough" To Stop Russian Bot Accounts
 *   Three Texas Doctors: We Saw Protesters Paid In Cash To Disrupt Kavanaugh Hearing On Line To Enter
 *   Sasse: SCOTUS Hearings Must Not Be "Substitute Political Battleground," Better Off Watching "Schoolhouse Rock"
-*   John Kerry: Culture Divide Worsened By "So-Called Leaders" Who "Operate In A Fact-Less World"
-*   April Ryan: The Trump WH "Will Go After You" When You Report The Truth, "They've Tried to Discredit Me"
-*   Trump: Old And Corrupt Globalist Ruling Class Have Been Rejected, "The Whole World Understands"
 
 *   Politics
 *   Policy
