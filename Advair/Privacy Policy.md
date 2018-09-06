@@ -442,7 +442,7 @@ Menu
         *   Thomas Breuer
         *   Kumaran Vadivelu
         *   Neil Barnes
-    *   Digital Platform professionals
+    *   Digital, Data and Analytics Professionals
     *   Agency worker opportunities
     *   Internships and co-ops
     *   MBA and Graduate Students
