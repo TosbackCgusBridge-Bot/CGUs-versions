@@ -292,7 +292,10 @@ SALE ON SALE: TAKE AN EXTRA 50% OFF – SHOP NOW.
         *   Men's Denim Shop
         *   Women's Denim Shop
         *   Gifts That Give Back
-        *   Buckle Gift CardsGive a Buckle Gift card
+        *   Buckle Gift Cards
+        
+          
+        Give a Buckle Gift card
 *   Sale
     *   *   Featured Sale
         
