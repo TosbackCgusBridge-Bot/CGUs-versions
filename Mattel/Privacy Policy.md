@@ -6,6 +6,7 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   United States (English)
     *   Dansk (Danmark)
     *   Deutch (Deutschland)
+    *   日本 (日本語)
     *   Eesti (Eesti)
     *   Hrvatska (Hrvatski)
     *   Latviešu (Latvija)
@@ -50,6 +51,7 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
         *   United States (English)
         *   Dansk (Danmark)
         *   Deutch (Deutschland)
+        *   日本 (日本語)
         *   Eesti (Eesti)
         *   Hrvatska (Hrvatski)
         *   Latviešu (Latvija)
@@ -791,11 +793,12 @@ Helpful Links
 *   Customer Service
 *   Recall Information
 *   Modern Slavery Act Transparency Statement
+*   Submit Product Ideas
 
 Follow Mattel
 
-*   Submit Product Ideas
 *   NEW Privacy Statement
+*   Terms &. Conditions
 
 *   © 2018 Mattel. All Rights Reserved
 
