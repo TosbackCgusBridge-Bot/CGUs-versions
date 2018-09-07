@@ -21,6 +21,7 @@ Close submenu ( Girls ) Girls
 
 *   View All
 *   New Arrivals
+*   Best Sellers
 *   Flex Effects
 *   Knotted + Twisted
 *   Ripped + Repaired
@@ -33,6 +34,7 @@ Close submenu ( Guys ) Guys
 
 *   View All
 *   New Arrivals
+*   Best Sellers
 *   Flex Effects
 *   Lounge
 *   Ripped + Repaired
@@ -99,6 +101,7 @@ Close submenu ( Bottoms ) Bottoms
 *   Joggers + Lounge
 *   Pants
 *   Skirts
+*   Buy 1 Get 1 Free Jeans
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -158,6 +161,7 @@ Close submenu ( Bottoms ) Bottoms
 *   Shorts
 *   Pants
 *   Joggers + Sweats
+*   Buy 1 Get 1 Free Jeans
 
 Close submenu ( Jeans ) Jeans
 
@@ -169,7 +173,7 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
-*   $20 + Under
+*   Buy 1 Get 1 Free Jeans
 *   Low Rise Jegging
 *   High Rise Ankle Jegging
 *   High Rise Jegging
@@ -186,7 +190,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
-*   $24 + Under
+*   Buy 1 Get 1 Free Jeans
 *   Super Skinny
 *   Skinny
 *   Straight
@@ -240,7 +244,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **BUY 1 GET 2 FREE TEES**  **GIRLS GUYS** **60% OFF + FREE SHIPPING OVER $50** 
+**JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -252,6 +256,7 @@ Menu Find a Store Aeropostale
     *   Girls
         *   View All
         *   New Arrivals
+        *   Best Sellers
         *   Flex Effects
         *   Knotted + Twisted
         *   Ripped + Repaired
@@ -263,6 +268,7 @@ Menu Find a Store Aeropostale
     *   Guys
         *   View All
         *   New Arrivals
+        *   Best Sellers
         *   Flex Effects
         *   Lounge
         *   Ripped + Repaired
@@ -312,6 +318,7 @@ Menu Find a Store Aeropostale
         *   Joggers + Lounge
         *   Pants
         *   Skirts
+        *   Buy 1 Get 1 Free Jeans
         
     
     *   Dresses + Rompers
@@ -363,6 +370,7 @@ Menu Find a Store Aeropostale
         *   Shorts
         *   Pants
         *   Joggers + Sweats
+        *   Buy 1 Get 1 Free Jeans
         
     
     *   Jackets
@@ -376,7 +384,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
-        *   $20 + Under
+        *   Buy 1 Get 1 Free Jeans
         *   Low Rise Jegging
         *   High Rise Ankle Jegging
         *   High Rise Jegging
@@ -392,7 +400,7 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
-        *   $24 + Under
+        *   Buy 1 Get 1 Free Jeans
         *   Super Skinny
         *   Skinny
         *   Straight
@@ -443,8 +451,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Polos Shop Guys Polos Shop Girls Tees Shop Guys Tees Shop Girls Shorts Shop Guys Shorts Shop Girls Uniform Shop Guys Uniform Shop Girls Shop Guys <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
-Text JOIN to 237687. Terms &. Conditions FOLLOW US Customer Care
+ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans Shop Girls Tees Shop Guys Tees Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Joggers Shop Guys Joggers Shop Girls Uniform Shop Guys Uniform Shop Girls Clearance Shop Guys Clearance <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 FOLLOW US Customer Care
 
 *   Order Status
 *   Track Your Order
@@ -478,7 +485,7 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
 
 Refer a friend and get $15 off.
 
