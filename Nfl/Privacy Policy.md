@@ -1,3 +1,75 @@
+*   ATL0-012PHI0-018Final
+*   BUF0-0BAL0-0Sun, 1:00 pm ET
+*   PIT0-0CLE0-0Sun, 1:00 pm ET
+*   CIN0-0IND0-0Sun, 1:00 pm ET
+*   TEN0-0MIA0-0Sun, 1:00 pm ET
+*   SF0-0MIN0-0Sun, 1:00 pm ET
+*   HOU0-0NE0-0Sun, 1:00 pm ET
+*   TB0-0NO0-0Sun, 1:00 pm ET
+*   JAX0-0NYG0-0Sun, 1:00 pm ET
+*   KC0-0LAC0-0Sun, 4:05 pm ET
+*   WAS0-0ARI0-0Sun, 4:25 pm ET
+*   DAL0-0CAR0-0Sun, 4:25 pm ET
+*   SEA0-0DEN0-0Sun, 4:25 pm ET
+*   CHI0-0GB0-0Sun, 8:20 pm ET
+*   NYJ0-0DET0-0Mon, 7:10 pm ET
+*   LA0-0OAK0-0Mon, 10:20 pm ET
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Video
+*   KICKOFF
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Free Agency
+*   Game Pass
+*   Stats
+*   Ways to Watch
+*   NFL Network
+*   Photos
+
+*   ATL12PHI18Final
+*   BUF0-0BAL0-0Sun, 1:00 pm ET
+*   PIT0-0CLE0-0Sun, 1:00 pm ET
+*   CIN0-0IND0-0Sun, 1:00 pm ET
+*   TEN0-0MIA0-0Sun, 1:00 pm ET
+*   SF0-0MIN0-0Sun, 1:00 pm ET
+*   HOU0-0NE0-0Sun, 1:00 pm ET
+*   TB0-0NO0-0Sun, 1:00 pm ET
+*   JAX0-0NYG0-0Sun, 1:00 pm ET
+*   KC0-0LAC0-0Sun, 4:05 pm ET
+*   WAS0-0ARI0-0Sun, 4:25 pm ET
+*   DAL0-0CAR0-0Sun, 4:25 pm ET
+*   SEA0-0DEN0-0Sun, 4:25 pm ET
+*   CHI0-0GB0-0Sun, 8:20 pm ET
+*   NYJ0-0DET0-0Mon, 7:10 pm ET
+*   LA0-0OAK0-0Mon, 10:20 pm ET
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Video
+*   KICKOFF
+
+*   Kickoff
+
+*   *   Free Agency
+    *   Game Pass
+    *   Stats
+    *   Ways to Watch
+    *   NFL Network
+    *   Photos
+
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
