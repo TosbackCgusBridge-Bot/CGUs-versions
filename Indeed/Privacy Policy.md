@@ -15,26 +15,26 @@ Find JobsCompany ReviewsFind SalariesFind ResumesEmployers / Post Job Upload you
 
 Cookie Policy
 
-Last Updated: August 8, 2018
+Last Updated: September 6, 2018
 
 By using or accessing Indeed’s websites (“Site”), you are consenting to Indeed’s use of Cookies as outlined below. All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
 For the purposes of this Cookie Policy, “Indeed” or “we” means Indeed, Inc. if you are a Job Seeker or Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Job Seeker or Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services.
 
-**Introduction: What is a cookie?**
+**1\. Introduction: What is a cookie?**
 
 This Cookie policy helps to explain the occasions when and why cookies may be sent to visitors to the Site (referred to in this policy as “we”, “us” or “our”). “Cookies” are text-only pieces of information that a website transfers to an individual’s hard drive or other website-browsing equipment for record-keeping purposes. Cookies allow the Site to remember important information that will make your use of the site more convenient. A cookie will typically contain the name of the domain from which the cookie has come, the “lifetime” of the cookie, and a randomly generated unique number or other value. Certain cookies will be used on the Site regardless of whether you are logged in to your account or not.  
 Session Cookies are temporary cookies that remain in the cookie file of your browser until you leave the Site.
 
 Persistent Cookies remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). When we use session cookies to track the total number of visitors to our Site, this is done on an anonymous aggregate basis (as cookies do not in themselves carry any personal data). We may also employ cookies so that we remember your computer when it is used to return to the Site to help customize your Indeed web experience. We may associate personal information with a cookie file in those instances.
 
-**How Indeed uses cookies**
+**2\. How Indeed uses cookies**
 
 Like most websites, we use cookies for a variety of purposes in order to improve your online experience, for analytics and for marketing, but specifically we use Cookies on the Site for the following purposes:
 
 **Analytical Purposes** We use cookies to analyze user activity in order to improve the Site. For example, we can use cookies to look at aggregate patterns like the average number of job searches that users perform. We can use such analysis to gain insights about how to improve the functionality and user experience of the Site. **Your Preferences &. User Experience** We use cookies to gather certain information about users, such as browser type, server, language preference, and country setting, in order to store user preferences on our Site to make your user experience more consistent and convenient. For example, we may store the recent searches you have performed in a cookie so that we can allow you to easily repeat those searches when you return to our Site. In addition, we use cookies to maintain your logged in state when you visit our Site repeatedly. We may also use your IP address to determine your geographic location in order to provide you with the most relevant search results. **Marketing** We use cookies from third-party partners such as Google and Facebook for marketing purposes. These cookies allow us to display Indeed promotional material to you on other sites you visit across the Internet. Indeed may also share information about your behavior on the Site with third parties (including operators of third-party websites and/or social networking sites) in order to show you targeted advertisements and other content that has been customized for you. We also use cookies to facilitate the Indeed Targeted Ads Program. In this Program, we use cookies to determine which ads users have seen, and how many times users have seen a particular ad. **Referral Tracking** We use cookies to associate user activity with the third party website that referred the user to our Site, or to associate user activity that Indeed referred to a third party website. These third party partner websites receive credit for the activity of users they refer to our Site, or give Indeed credit for the activity of users referred to such third party websites. We do not share any personal information or information about individual user activities with these partner entities. We also use cookies to associate user activity with the email campaign that referred the user to our Site. **Security Purposes** We use cookies to limit certain types of cyber attacks. **Testing, Usability, and Performance Improvement Purposes** We use cookies to ensure users receive a consistent user experience while we conduct A/B testing on certain aspects of our Site in order to improve our product offerings. We also use cookies to improve the performance and reliability of our Site. **Fraud/Spam prevention** We use cookies during fraud reviews and investigations. Some of our cookie/device tracking happens via 3rd party vendors like SiftScience, other times we use our own indexes to identify activity related to specific cookies.
 
-**Managing cookies in your browser**
+**3\. Managing cookies in your browser**
 
 Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. You can easily delete and manage any cookies that have been installed in the cookie folder of your browser by following the instructions provided by your particular browser manufacturer.
 
@@ -55,7 +55,7 @@ Indeed uses the AdWords and Remarketing Lists features of Google Analytics for D
 
 You may opt-out of Google Analytics for Display Advertisers including AdWords and opt-out of customized Google Display Network ads by visiting the Google Ads Preferences Manager. To provide website visitors more choice on how their data is collected by Google Analytics, Google has developed an Opt-out Browser add-on, which is available by visiting Google Analytics Opt-out Browser Add-on, to enable you to opt-out of Google’s programs.
 
-**Third-Party Cookies**
+**4\. Third-Party Cookies**
 
 The following cookie table lists a selection of the third party cookies used on Indeed. Although we may update this list periodically, please be advised that the names of cookies, pixels and other technologies are subject to change.
 
@@ -85,13 +85,13 @@ Google Ads Settings
 
 Third party intercom-session-pn6o23fv Used by Intercom.io to allow users to ask customer service questions in real time 1 week Intercom.io opt-out Third party UIDR Used by Scorecardresearch.com to measure user volume 2 years Scorecardresearch.com opt-out Third party mkto.trk Used by Marketo to measure ad campaign effectiveness by linking visitor behavior to an email recipient 2 years Marketo opt-out Third party TS01d65e80 Used by f5 networks to maintain the performance, capacity, and reliability of our Website Current session f5 Networks opt-out Third party hjClosedSurveyInvites This cookie is set once a visitor interacts with a Survey invitation modal pop-up. It is used to ensure that the same invite does not reappear if it has already been shown. 1 year Hotjar opt-out
 
-**Changes To Our Cookie Policy**
+**5\. Changes To Our Cookie Policy**
 
-From time to time, it may be necessary for us to change this cookie policy. We suggest that you check here periodically for any changes.
+Please review the “Last Updated” legend at the top of the Cookie Policy to determine when it was last amended. Any changes will become effective on the “Last Updated” date indicated above. By using the Site or providing information to us following such changes, you will have accepted the amended Cookie Policy. If Indeed is going to use Personal Data collected through the Site in a manner materially different from that stated at the time of collection, then Indeed will notify users via email and/or by posting a notice on Indeed’s Site for 30 days prior to such use or by other means as required by law.
 
 Privacy Policy
 
-Last Updated: August 29, 2018
+Last Updated: September 6, 2018
 
 **1\. Introduction**
 
@@ -103,13 +103,13 @@ In particular, this Privacy Policy details our collection, use and disclosure of
 
 All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
-With respect to Job Seekers, for the purposes of this Privacy Policy, “Indeed” or “we” means Indeed, Inc. if you are a Job Seeker located in the United States, or Indeed Ireland Operations Limited if you are a Job Seeker located outside of the United States.
+With respect to Job Seekers, for the purposes of this Privacy Policy, “Indeed” or “we” means Indeed, Inc. if you are a Job Seeker located in the United States, or Indeed Ireland Operations Limited if you are a Job Seeker located outside of the United States.
 
-With respect to Employers, “Indeed” or “we” means Indeed, Inc. if you are an Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services.
+With respect to Employers, “Indeed” or “we” means Indeed, Inc. if you are an Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Employer located elsewhere, and Indeed Hire, Inc. if you are receiving the Indeed Hire services. Indeed is the controller for the Personal Data we process, unless otherwise stated in these terms or provided for in a separate agreement.
 
 **1.2 Personal Data and Non-Personal Data**
 
-Personal data (“Personal Data”) refers to any information that identifies you as a specific individual, and non-personal data (“Non-Personal Data”) refers to any information that does not identify you as a specific individual. Please note that at all times Indeed will adhere to the applicable statutory definition in determining what is and is not Personal Data for the purposes of this Privacy Policy. Where this Privacy Policy refers to “information” or “your information” this may include both Personal and Non-Personal Data.
+Personal data (“Personal Data”) refers to any information that relates to an identified or identifiable individual, and non-personal data (“Non-Personal Data”) refers to any information that does not identify you as a specific individual. Please note that at all times Indeed will adhere to the applicable statutory definition in determining what is and is not Personal Data for the purposes of this Privacy Policy. Where this Privacy Policy refers to “information” or “your information” this may include both Personal and Non-Personal Data.
 
 **1.3 The Scope of Indeed’s Privacy Policy**
 
@@ -121,7 +121,7 @@ Occasionally, we may refer to this Privacy Policy in notices on the Site, includ
 
 Please review the “Last Updated” legend at the top of this page to determine when this Privacy Policy was last amended. Any changes to this Privacy Policy will become effective on the “Last Updated” date indicated above. By using the Site or providing information to us following such changes, you will have accepted the amended Privacy Policy. If Indeed is going to use Personal Data collected through the Site in a manner materially different from that stated at the time of collection, then Indeed will notify users via email and/or by posting a notice on Indeed’s Site for 30 days prior to such use or by other means as required by law.
 
-**1.5 Indeed’s approach to privacy and the General Data Protection Regulation (GDPR).**
+**1.5 Indeed’s approach to privacy and the General Data Protection Regulation (GDPR)**
 
 Please note this Privacy Policy describes, in a comprehensive manner, how Indeed processes your data. For more information on Indeed’s approach to privacy and GDPR, click here.
 
@@ -199,7 +199,7 @@ A third ground relied upon for certain types of processing is that it is necessa
 
 **_– Consent_**
 
-Finally, in certain limited situations, Indeed relies on your consent in order to process your Personal Data. Where Indeed requires your consent in order to collect and process certain Personal Data, we seek your consent at the time of provision, and such processing will only be performed where consent is secured. For example, your consent will be sought where you provide your location when you use Indeed’s Job Spotter, or in certain instances where you initiate a job alert with Indeed (detailed in section 4 of this Privacy Policy). You can withdraw your consent by clicking unsubscribe (or an equivalent action) where appropriate, or by sending an email to privacy-dept @ indeed.com.
+Finally, in certain limited situations, Indeed relies on your consent in order to process your Personal Data. Where Indeed requires your consent in order to collect and process certain Personal Data, we seek your consent at the time of provision, and such processing will only be performed where consent is secured. For example, your consent will be sought where you provide your location when you use Indeed’s Job Spotter, or in certain instances where you initiate a job alert with Indeed (detailed in section 4 of this Privacy Policy). You can withdraw your consent, as detailed in section 14 of this Privacy Policy where applicable, or by sending an email to privacy-dept @ indeed.com (remove spaces when sending email).
 
 **3\. Limitation of Use or Disclosure of Personal Data**
 
@@ -455,9 +455,9 @@ There may be a possibility, under certain limited conditions, for EU and Swiss i
 
 We do not respond to the browser “Do Not Track” (DNT) signal if enabled by the user in their web browser. When we set or read cookies on non-Indeed sites that have integrated our job search and display features, we do so, for example, to provide a personalized job search experience to users on those sites. We do not share any information about your use of Indeed with those third parties. When third parties that we have integrated into Indeed sites (as described in the Indeed Cookie Policy) set or read their own third-party cookies, they may or may not respond to the DNT signal.
 
-**14\. Opting Out**
+**14\. Opting Out of Receiving Marketing Communications**
 
-If you no longer want to receive marketing materials from us based upon your Personal Data, going forward, you may opt out of receiving such marketing related messages by sending an email to opt-out @ indeed.com (remove spaces when sending email). Please note that we may still send other messages to you, such as administrative messages. We will comply with your request as soon as reasonably practicable, and in accordance with applicable laws.
+If you no longer want to receive marketing materials from us based upon your Personal Data, going forward, you may opt out of receiving such marketing related messages by clicking unsubscribe (or an equivalent action) where applicable, or by sending an email to opt-out @ indeed.com (remove spaces when sending email). Please note that we may still send other messages to you, such as administrative messages. We will comply with your request as soon as reasonably practicable, and in accordance with applicable laws.
 
 **15\. General Inquiries and Complaints**
 
@@ -1148,4 +1148,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cmmmm87gaglf86p&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cmp8tep7afl58sq&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
