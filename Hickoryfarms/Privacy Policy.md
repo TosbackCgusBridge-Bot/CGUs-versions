@@ -46,7 +46,8 @@
     
     View All Categories Shop by Category*   Game Day
     
-    Occasions*   College Gifting
+    Occasions*   Game Day
+    *   College Gifting
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -109,14 +110,15 @@
     
     View All Categories Shop by Category*   Game Day
     
-    Occasions*   College Gifting
+    Occasions*   Game Day
+    *   College Gifting
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Game Day
 *   Sale
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Privacy Policy
