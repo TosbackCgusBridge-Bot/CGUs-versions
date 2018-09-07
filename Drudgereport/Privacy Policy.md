@@ -164,6 +164,10 @@ If you are a resident of the EEA or Switzerland, we respect your rights accordin
 
 LATEST ON TWITTER
 
+Publishers have a lot on their plates these days. White Glove Services allow publishers to have peace of mind and let experts take care of their ad buying needs. #programmatic #Advertising econtentmag.com/Arti…
+
+About 14 hours ago
+
 The latest by @Requidan -- Explosions Across Ad Tech: Signs Of Consolidation Or Growth? adexchanger.com/the-… @adexchanger
 
 About 2 weeks ago
@@ -177,10 +181,6 @@ Check out these steps toward promoting a safer browsing experience for web users
 About a month ago
 
 My week on Twitter : 1 Mention, 1.16K Mention Reach, 1 Like, 4 New Followers. See yours with sumall.com/performan… pic.twitter.com/DYxm…
-
-About 2 months ago
-
-Getting In On The 2020 Election Campaigns. Here's What Publishers Need to Know! bit.ly/2N4mkWe via @adexchanger @Requidan
 
 About 2 months ago
 
