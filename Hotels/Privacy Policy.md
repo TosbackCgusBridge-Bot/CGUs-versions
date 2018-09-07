@@ -14,7 +14,7 @@ Book online or call 800-246-8357This call is free. 24 hours a day. 7 days a week
     *   Create an account
     *   Your bookings
     *   Your Hotels
-    *   Review a hotel
+    *   Review a property
 *   Hotels.com® Rewards
 *   Your bookings
 
@@ -161,7 +161,7 @@ USA
 This Privacy Statement is effective as of October 4, 2015  
   
 
-Choose one of the following to unlock Secret Prices and pay less on select hotels.Email
+Choose one of the following to unlock Secret Prices and pay less on select properties.Email
 
 Sign up for our latest offers
 
@@ -203,10 +203,10 @@ Join now! Collect 10 nights, get 1 free\*
     *   FAQs
     *   Contact us
     *   Website feedback
-    *   Review a hotel
+    *   Review a property
 *   For Suppliers, Affiliates, and the Media
     *   Affiliate with us
-    *   Private Label
+    *   Expedia Partner Solutions
     *   Promote with Us
     *   Travel Agents
     *   Press Office
@@ -220,6 +220,7 @@ Join now! Collect 10 nights, get 1 free\*
 *   List your property
 *   Jobs
 
+*   Hotels near me
 *   Travel Guides
 *   Top 50 Cities
 *   All countries
