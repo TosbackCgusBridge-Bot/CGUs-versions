@@ -107,53 +107,53 @@
     *   About
     *   Media Kit
 
-*   _Katie Pavlich_: Dems Should Be Ashamed of Kavanaugh Hearing Outbursts
+*   _Ryan Cooper_: The Democratic Leadership Is Musty &. Weary
     
-*   _Jay Michaelson_: If Brett Kavanaugh Wins, the Supreme Court Loses
+*   _Molly Ball_: Pelosi Doesn't Care What You Think of Her, She's Not Leaving
     
-*   _John Yoo_: Kavanaugh Shows Why He'd Be a Great Supreme Court Justice
+*   _David Harsanyi_: NYT 'Anonymous' Op-Ed Pushes Electoral Sabotage
     
-*   _Peter Beinart_: The Key Lesson of Ayanna Pressley's Victory
+*   _Ezra Klein_: The Crisis Isn't Trump's. It's His Republican Enablers
     
-*   _Roger Simon_: Bob Woodward's Latest Novel
+*   _Steve Hilton_: The Week Washington's Elites Went Mad
     
-*   _Brent Budowsky_: Woodward Book Shames Trump Shills, Enablers
+*   _Jay Willis_: It's About Time Senate Democrats Showed Some Damn Backbone
     
-*   _Ed Yardeni_: What If Trump Trade War Leads to Lower Tariffs, More Jobs?
+*   _Derek Hunter_: Dems Are Not Serious, But You Must Take Them Seriously
     
-*   _Jill Filipovic_: Are Sexual Harassers About to Have Free Rein on Campus?
+*   _Eli Lake_: For John Kerry, Every Brag Is Humble
     
-*   _Emily Yoffe_: Reining In the Excesses of Title IX
+*   _Tim Roemer_: America Shouldn't Miss Its Chance With India
     
-*   _Salena Zito_: The Twitter Trolls Attacking My Work Are All Wrong
+*   _Frank Luntz_: Our Divided Nation Is United on Energy Independence
     
-*   _Gregg Kilday_: Michael Moore Plays His Trump Card
+*   _Ricky Jones_: Kaepernick Is the Ali of His Generation
     
-*   _Stohr &. Litvan_: Kavanaugh's Supreme Court Hearing Has Rancorous Start
+*   _Wayne Allyn Root_: Nike vs In-N-Out: The Silent Majority Has Spoken
     
-*   _Michael Goodwin_: Democrats Wage a Losing Battle Over Kavanaugh
+*   _Anonymous_: I Am Part of the Resistance Inside the Trump Administration
     
-*   _Michael Long_: What's Wrong With Brett Kavanaugh's Originalism
+*   _Scott Jennings_: How Dare an Admin Official Subvert a Duly Elected President
     
-*   _Matthew Continetti_: A 40-Year Plan That Allows Trump to Reshape Courts
+*   _Richard Wolffe_: Madness Is Pouring Out of White House for All to See
     
-*   _Renato Mariotti_: Trump Can't Help Obstructing Justice
+*   _Steve Cortes_: Cowardly 'Anonymous' &. the Media Resistance
     
-*   _Byron York_: On Trump-Russia, Too Much Secrecy Keeps Public in Dark
+*   _Garrett Epps_: A Judge Who Can't Be Vetted Shouldn't Be Confirmed
     
-*   _Gideon Resnick_: Pressley Ousts 20-Year Dem Incumbent in MA Shocker
+*   _Seth Lipsky_: Democrats' Mental Breakdown Over Kavanaugh
     
-*   _John Kass_: Rahm Emanuel Drops Out, &. It's Lord of the Flies, Again
+*   _Sean Trende_: Sizing Up the Florida Governor Race
     
-*   _Mark Zuckerberg_: How Facebook Can Help Protect Democracy
+*   _Gabriel DeBenedetti_: Can Bredesen Win Pro-Trump Tennessee for Dems?
     
-*   _Gideon Scopes_: A Facebook Engineer's Plea for Political Diversity
+*   _Sally Persons_: Trade Deal - or Lack of One - Key in N.D. Senate Race
     
-*   _Kara Swisher_: The Politicians Are Coming for Silicon Valley
+*   _Froma Harrop_: The Silly Debate About Socialism
     
-*   _Heather Wilson_: The Law of War and the Power of Computing
+*   _John Solomon_: Mueller's Troubling Reliance on Journalists as Sources
     
-*   _Phyllis Chesler_: How Multiculturalism Hijacked Feminism
+*   _Paul Sperry_: FBI Hid From FISA Court Russian View Carter Page Was an 'Idiot'
     
 
 *   Previous
@@ -224,11 +224,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Rancorous, Partisan Start for Kavanaugh High Court Hearing
+*   Sizing Up the Florida Governor Race
+*   Trade Deal--or Lack of One--Is Key in N.D. Senate Race
+*   Carlson: What Did NBC News Know About Harvey Weinstein?
 *   In MA Primary Stunner, Pressley Unseats Incumbent Rep. Capuano
-*   Sasse: Court Hearings Must Not Turn Into Substitute Political Battleground
 *   Mass Shootings in America: Anatomy of a Hyped Statistic
-*   Justice Department Backs Asian-Americans in Harvard Case
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -241,26 +241,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Indiana Senate - Braun vs. DonnellyNBC News/Marist
-    *   Donnelly49
-    *   Braun43Donnelly +6
-*   Florida Senate - Scott vs. NelsonQuinnipiac
-    *   Scott49
-    *   Nelson49Tie
-*   President Trump Job ApprovalEconomist/YouGov
+*   Tennessee Senate - Blackburn vs. BredesenNBC News/Marist
+    *   Bredesen48
+    *   Blackburn46Bredesen +2
+*   Tennessee Governor - Lee vs. DeanNBC News/Marist
+    *   Lee53
+    *   Dean40Lee +13
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
+*   President Trump Job ApprovalGrinnell/Selzer
     *   Approve43
-    *   Disapprove54Disapprove +11
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve42
-    *   Disapprove55Disapprove +13
+    *   Disapprove50Disapprove +7
 
 More Latest Polls In The News
 
-*   Rubio To Facebook/Twitter: What Happens When An Authoritarian Government Tells You To Shut Down Dissent?
+*   Full Replay: President Trump Hosts 'MAGA' Rally For Monatana Senate Candidate Matt Rosendale
+*   Sen. Cory Booker: "I'm Knowingly Violating The Rules" To Release Kavanaugh Emails
+*   Tucker Carlson on NYT Op-Ed: Trump's Attempts To Do What He Promised A Sign The System Is Working
+*   Rubio To Facebook/Twitter: What Happens When An Authoritarian Government Shuts You Down?
 *   Alex Jones Confronts Marco Rubio, Ron Wyden: Why Are You Trying To Dehumanize Me, Censor Internet?
-*   Twitter CEO Jack Dorsey: "We Haven't Done Enough" To Stop Russian Bot Accounts
-*   Three Texas Doctors: We Saw Protesters Paid In Cash To Disrupt Kavanaugh Hearing On Line To Enter
-*   Sasse: SCOTUS Hearings Must Not Be "Substitute Political Battleground," Better Off Watching "Schoolhouse Rock"
 
 *   Politics
 *   Policy
