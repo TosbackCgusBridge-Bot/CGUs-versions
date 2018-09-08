@@ -267,6 +267,10 @@ COMPARE **UX**
 
 *   CONCEPT CONVERTIBLE
 
+**LY 650**
+
+*   FUTURE YACHT
+
 *   sedans
     
 *   suvs
