@@ -9,13 +9,10 @@
     *   Tunisia (EN)
 *   Asia &. the Middle East
     
-    *   Armenia (EN)
-    *   Azerbaijan (EN)
     *   Bangladesh (EN)
     *   Cambodia (EN)
     *   China (ZH/EN)
     *   Egypt (EN/AR)
-    *   Georgia (EN)
     *   Hong Kong (EN/ZH)
     *   India (EN)
     *   Indonesia (EN/ID)
@@ -23,8 +20,8 @@
     *   Japan (JP)
     *   Kazakhstan (RU)
     *   Korea (KO)
-    
     *   Malaysia (EN)
+    
     *   Myanmar (EN)
     *   Pakistan (EN/UR)
     *   Philippines (EN)
@@ -35,7 +32,6 @@
     *   Thailand (EN)
     *   Turkey (TR)
     *   United Arab Emirates (EN)
-    *   Uzbekistan (EN)
     *   Vietnam (VI/EN)
 *   Australasia
     *   Australia (EN)
@@ -60,13 +56,12 @@
     *   Hungary (HU)
     *   Ireland (EN)
     *   Italy (IT)
-    *   Latvia (EN)
     
+    *   Latvia (EN)
     *   Lithuania (EN)
     *   Luxembourg (FR/NL/EN)
     *   Macedonia (EN)
     *   Malta (EN)
-    *   Moldova (EN)
     *   Netherlands (NL)
     *   Norway (NB)
     *   Poland (PL)
