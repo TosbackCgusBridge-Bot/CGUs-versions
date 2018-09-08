@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 Publishers have a lot on their plates these days. White Glove Services allow publishers to have peace of mind and let experts take care of their ad buying needs. #programmatic #Advertising econtentmag.com/Arti…
 
-About 14 hours ago
+About 2 days ago
 
 The latest by @Requidan -- Explosions Across Ad Tech: Signs Of Consolidation Or Growth? adexchanger.com/the-… @adexchanger
 
@@ -174,7 +174,7 @@ About 2 weeks ago
 
 My week on Twitter : 5 Mentions, 1.25K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/W2bV…
 
-Last month
+About a month ago
 
 Check out these steps toward promoting a safer browsing experience for web users via Intermarkets blog! twitter.com/Jambrose…
 
