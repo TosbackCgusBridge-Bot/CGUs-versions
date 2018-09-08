@@ -107,53 +107,53 @@
     *   About
     *   Media Kit
 
-*   _Ryan Cooper_: The Democratic Leadership Is Musty &. Weary
+*   _David Ignatius_: What's the Right Way to Deal With Life in 'Crazytown'?
     
-*   _Molly Ball_: Pelosi Doesn't Care What You Think of Her, She's Not Leaving
+*   _Conrad Black_: Taking On the Status Quo in DC Is a Winning Fight for Trump
     
-*   _David Harsanyi_: NYT 'Anonymous' Op-Ed Pushes Electoral Sabotage
+*   _Erwin Chemerinsky_: Brett Kavanaugh's 'Umpire' Nonsense
     
-*   _Ezra Klein_: The Crisis Isn't Trump's. It's His Republican Enablers
+*   _Karin McQuillan_: Democrats Are Right to Panic Over the Court
     
-*   _Steve Hilton_: The Week Washington's Elites Went Mad
+*   _Charlie Cook_: A Grim Fall Awaits Republicans
     
-*   _Jay Willis_: It's About Time Senate Democrats Showed Some Damn Backbone
+*   _John Crudele_: Why Republicans Will Likely Maintain Control of Congress
     
-*   _Derek Hunter_: Dems Are Not Serious, But You Must Take Them Seriously
+*   _Moskowitz &. Ellis_: Judaism Is Not Synonymous With Liberal Progressivism
     
-*   _Eli Lake_: For John Kerry, Every Brag Is Humble
+*   _Sean Gregory_: Kaepernick Hasn't Played in 2 Seasons, But He Keeps Winning
     
-*   _Tim Roemer_: America Shouldn't Miss Its Chance With India
+*   _Rich Cromwell_: Kardashian Has Done More for Reform Than Kaepernick
     
-*   _Frank Luntz_: Our Divided Nation Is United on Energy Independence
+*   _Adele Malpass_: Stakes Are High in New York Attorney General Race
     
-*   _Ricky Jones_: Kaepernick Is the Ali of His Generation
+*   _Steven Kurutz_: How to Retire in Your 30s With $1 Million in the Bank
     
-*   _Wayne Allyn Root_: Nike vs In-N-Out: The Silent Majority Has Spoken
+*   _Fred Barnes_: Desperate Democrats
     
-*   _Anonymous_: I Am Part of the Resistance Inside the Trump Administration
+*   _Paul Krugman_: Kavanaugh Will Kill the Constitution
     
-*   _Scott Jennings_: How Dare an Admin Official Subvert a Duly Elected President
+*   _Patrick Buchanan_: Regime Change - American Style
     
-*   _Richard Wolffe_: Madness Is Pouring Out of White House for All to See
+*   _Eugene Robinson_: This Week Confirms We're Already in a Constitutional Crisis
     
-*   _Steve Cortes_: Cowardly 'Anonymous' &. the Media Resistance
+*   _Newt Gingrich_: Liberal Media Colludes With the Anti-Trump Deep State
     
-*   _Garrett Epps_: A Judge Who Can't Be Vetted Shouldn't Be Confirmed
+*   _Doug Saunders_: 10 Yrs After 2008 Crash, We're Making Same Mistakes
     
-*   _Seth Lipsky_: Democrats' Mental Breakdown Over Kavanaugh
+*   _Sun Xi_: US-China Trade War: A Game Changer
     
-*   _Sean Trende_: Sizing Up the Florida Governor Race
+*   _John Mueller_: Despite Feud With Harley-Davidson, Bikers Still Love Trump
     
-*   _Gabriel DeBenedetti_: Can Bredesen Win Pro-Trump Tennessee for Dems?
+*   _William A. Reinsch_: Election-Meddling Sanctions Bills Penalize the Innocent
     
-*   _Sally Persons_: Trade Deal - or Lack of One - Key in N.D. Senate Race
+*   _Julian Zelizer_: Barack Obama Is Just What the Democrats Need
     
-*   _Froma Harrop_: The Silly Debate About Socialism
+*   _Roger L. Simon_: How Marsha Blackburn Can Stop Phil Bredesen
     
-*   _John Solomon_: Mueller's Troubling Reliance on Journalists as Sources
+*   _A.B. Stoddard_: Republicans Won't Hear What Trump Is Telling Them
     
-*   _Paul Sperry_: FBI Hid From FISA Court Russian View Carter Page Was an 'Idiot'
+*   _Erielle Davidson_: The Resistance Torches Devin Nunes' Family
     
 
 *   Previous
@@ -224,10 +224,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Campaigns in Montana, Lauds Kavanaugh's Progress
 *   Sizing Up the Florida Governor Race
+*   Booker: I'm Knowingly Violating Rules to Release Kavanaugh Emails
 *   Trade Deal--or Lack of One--Is Key in N.D. Senate Race
-*   Carlson: What Did NBC News Know About Harvey Weinstein?
-*   In MA Primary Stunner, Pressley Unseats Incumbent Rep. Capuano
 *   Mass Shootings in America: Anatomy of a Hyped Statistic
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -241,26 +241,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Tennessee Senate - Blackburn vs. BredesenNBC News/Marist
-    *   Bredesen48
-    *   Blackburn46Bredesen +2
-*   Tennessee Governor - Lee vs. DeanNBC News/Marist
-    *   Lee53
-    *   Dean40Lee +13
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
-*   President Trump Job ApprovalGrinnell/Selzer
-    *   Approve43
-    *   Disapprove50Disapprove +7
+*   Georgia Governor - Kemp vs. AbramsAtlanta Journal-Constitution
+    *   Abrams45
+    *   Kemp45Tie
+*   Utah 4th District - Love vs. McAdamsUtahPolicy/Dan Jones
+    *   Love49
+    *   McAdams46Love +3
+*   California 48th District - Rohrabacher vs. RoudaNY Times/Siena
+    *   Rouda45
+    *   Rohrabacher45Tie
+*   Illinois 6th District - Roskam vs. CastenNY Times/Siena
+    *   Roskam45
+    *   Casten44Roskam +1
 
 More Latest Polls In The News
 
+*   Full Replay: Obama Speaks On The State Of Democracy. "We're Supposed To Stand Up To Bullies, Not Follow Them"
+*   Obama: What Has Happened To The Republican Party? They Are Supposed To Be Against Communism
+*   Trump: NYT Must Reveal Anonymous Op-Ed Writer For Sake Of National Security, "Would Be Good Scoop"
+*   Dan Rather: Is 'Anonymous' NYT Op-Ed A Smokescreen For Kavanaugh SCOTUS Confirmation Hearing?
 *   Full Replay: President Trump Hosts 'MAGA' Rally For Monatana Senate Candidate Matt Rosendale
-*   Sen. Cory Booker: "I'm Knowingly Violating The Rules" To Release Kavanaugh Emails
-*   Tucker Carlson on NYT Op-Ed: Trump's Attempts To Do What He Promised A Sign The System Is Working
-*   Rubio To Facebook/Twitter: What Happens When An Authoritarian Government Shuts You Down?
-*   Alex Jones Confronts Marco Rubio, Ron Wyden: Why Are You Trying To Dehumanize Me, Censor Internet?
 
 *   Politics
 *   Policy
