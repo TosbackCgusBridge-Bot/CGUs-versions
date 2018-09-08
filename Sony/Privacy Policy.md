@@ -123,9 +123,9 @@ Learn More
 
 <img class="bg-img" class="url(/en\_us/media/content/PS4ProSpiderManBundle-600x600\_Lk1aWrf.jpg);" alt="Spider-Man PS4 Pro">.
 
-View Marvel's Spider-Man Pin on Instagram
+View Spider-Man PS4 on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/a7a0a0a8419b424eb67ff9a4f3f373c1/5C2B7ADB/t51.2885-15/e35/39192389\_318673408679839\_6848656504040456192\_n.jpg);" alt="">. Close
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/df38588cb4be9cabe9465d747d3528b3/5C2EE025/t51.2885-15/e35/40337995\_1690882484373297\_5877173722188554073\_n.jpg);" alt="">. Close
 
 *   Share Spider-Man Far From Home Logo on Facebook
 *   Share Spider-Man Far From Home Logo on Twitter
@@ -137,27 +137,23 @@ Spider-Man Far From Home Logo
 
 It’s new game season! Join us for a series of new Countdown to Launch celebrations for new info, behind-the-scenes looks and giveaways. First up, Marvel’s Spider-Man!
 
-1 day ago
+2 days ago
 
 View Tweet
 
-Developers Give an Inside Look at
+It’s Easier Than Ever to Earn Sony Rewards Points for Games &. More
 
-Marvel's Spider-Man
+Learn More
 
 Close
 
-*   Share Developers Give an Inside Look at on Facebook
-*   Share Developers Give an Inside Look at on Twitter
-*   Copy URL to share Developers Give an Inside Look at
+*   Share It’s Easier Than Ever to Earn Sony Rewards Points for Games &. More on Facebook
+*   Share It’s Easier Than Ever to Earn Sony Rewards Points for Games &. More on Twitter
+*   Copy URL to share It’s Easier Than Ever to Earn Sony Rewards Points for Games &. More
 
-Play Developers Give an Inside Look at Video
+Learn More
 
-Sony on YouTube - Developers Give an Inside Look at
-
-Play Developers Give an Inside Look at Video hotspot
-
-<img class="bg-img" class="url(/en\_us/media/content/MSM\_Screen\_PS4\_Swing-600x600-2\_PCr7aa2.jpg);" alt="Inside Look at Spider-Man Video">. What Makes You Different, Makes You Spider-Man
+<img class="bg-img" class="url(/en\_us/media/content/Sony600x600\_PSSMPromo.jpg);" alt="PlayStation Card">. What Makes You Different, Makes You Spider-Man
 
 "Spider-Man: Into the Spider Verse" Coming Soon
 
