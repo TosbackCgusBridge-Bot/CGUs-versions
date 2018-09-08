@@ -4,7 +4,7 @@
 *   Contact Us
     
 *   En español
-*   Showing offers for zip code (add your zip)
+*   Showing offers for zip code 80201
     
 *   UPDATE
 
