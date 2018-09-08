@@ -169,6 +169,7 @@ menu Close 0 Free Shipping on $50+
     *   Kids' Backpacks &. Lunch Boxes
     *   Kids' Iron Knees Pants
     *   School Uniforms
+    *   Kids' Pajama Shop
     *   The Heritage Collection
     
     Kids' Sale>. Girls' Clothing>.
@@ -400,8 +401,9 @@ menu Close 0 Free Shipping on $50+
     
     HOLIDAY &. CHRISTMAS DECORATIONS >.
     
-    *   Christmas Stockings
+    *   Personalized Christmas Stockings
     *   Christmas Ornaments
+    *   Christmas Candy &. Treats
     
     More for the Home >.
     
@@ -617,6 +619,7 @@ menu Close 0 Free Shipping on $50+
         *   Kids' Backpacks &. Lunch Boxes
         *   Kids' Iron Knees Pants
         *   School Uniforms
+        *   Kids' Pajama Shop
         *   The Heritage Collection
     *   Kids' Sale
     *   Girls' Clothing
@@ -866,8 +869,9 @@ menu Close 0 Free Shipping on $50+
     *   HOLIDAY &. CHRISTMAS DECORATIONS
         *   Back
         *   View All
-        *   Christmas Stockings
+        *   Personalized Christmas Stockings
         *   Christmas Ornaments
+        *   Christmas Candy &. Treats
     *   More for the Home
         *   Back
         *   View All
