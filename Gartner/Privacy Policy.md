@@ -3,9 +3,8 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Call +1 855-370-2407 or contact us
-
-to become a Gartner client.
+Become a client  
+Request a call or dial +1 855-637-4327
 
 *   Who we serve (current)
     
@@ -259,7 +258,7 @@ to become a Gartner client.
     
     Career Opportunities Life at Gartner Campus
     
-*   Call +1 855-370-2407 or contact us
+*   Call +1 855-637-4327 or contact us
     
     to become a Gartner client.
     
