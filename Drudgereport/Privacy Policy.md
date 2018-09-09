@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 Publishers have a lot on their plates these days. White Glove Services allow publishers to have peace of mind and let experts take care of their ad buying needs. #programmatic #Advertising econtentmag.com/Arti…
 
-About 2 days ago
+About 3 days ago
 
 The latest by @Requidan -- Explosions Across Ad Tech: Signs Of Consolidation Or Growth? adexchanger.com/the-… @adexchanger
 
