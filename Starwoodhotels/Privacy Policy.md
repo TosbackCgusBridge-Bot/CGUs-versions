@@ -1,4 +1,4 @@
-Skip Main Navigation
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy Skip Main Navigation
 
 expand
 
@@ -171,7 +171,7 @@ THE RITZ CARLTON REWARDS Marriott Rewards Starwood Preferred Guest
     Remember me
     
     *   Forgot password
-    *   Create online accountOr sign in using: Sign in to your account with Facebook
+    *   Create online accountOr sign in using:
 *   My Account: Sign In • Join Now
 
 PRIVACY CENTER
