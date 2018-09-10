@@ -1,25 +1,25 @@
-*   ATL0-112PHI1-018Final
-*   BUF0-0BAL0-0Sun, 1:00 pm ET
-*   PIT0-0CLE0-0Sun, 1:00 pm ET
-*   CIN0-0IND0-0Sun, 1:00 pm ET
-*   TEN0-0MIA0-0Sun, 1:00 pm ET
-*   SF0-0MIN0-0Sun, 1:00 pm ET
-*   HOU0-0NE0-0Sun, 1:00 pm ET
-*   TB0-0NO0-0Sun, 1:00 pm ET
-*   JAX0-0NYG0-0Sun, 1:00 pm ET
-*   KC0-0LAC0-0Sun, 4:05 pm ET
-*   WAS0-0ARI0-0Sun, 4:25 pm ET
-*   DAL0-0CAR0-0Sun, 4:25 pm ET
-*   SEA0-0DEN0-0Sun, 4:25 pm ET
-*   CHI0-0GB0-0Sun, 8:20 pm ET
+*   CHI0-123GB1-024Final
+*   BUF0-13BAL1-047Final
+*   PIT0-0-121CLE0-0-121Final (OT)
+*   CIN1-034IND0-123Final
+*   TEN0-120MIA1-027Final
+*   SF0-116MIN1-024Final
+*   HOU0-120NE1-027Final
+*   TB1-048NO0-140Final
+*   JAX1-020NYG0-115Final
+*   KC1-038LAC0-128Final
+*   WAS1-024ARI0-16Final
+*   DAL0-18CAR1-016Final
+*   SEA0-124DEN1-027Final
 *   NYJ0-0DET0-0Mon, 7:10 pm ET
 *   LA0-0OAK0-0Mon, 10:20 pm ET
+*   ATL0-112PHI1-018Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
-*   Video
+*   Highlights
 *   KICKOFF
 *   Fantasy
 *   Tickets
@@ -32,28 +32,28 @@
 *   NFL Network
 *   Photos
 
-*   ATL12PHI18Final
-*   BUF0-0BAL0-0Sun, 1:00 pm ET
-*   PIT0-0CLE0-0Sun, 1:00 pm ET
-*   CIN0-0IND0-0Sun, 1:00 pm ET
-*   TEN0-0MIA0-0Sun, 1:00 pm ET
-*   SF0-0MIN0-0Sun, 1:00 pm ET
-*   HOU0-0NE0-0Sun, 1:00 pm ET
-*   TB0-0NO0-0Sun, 1:00 pm ET
-*   JAX0-0NYG0-0Sun, 1:00 pm ET
-*   KC0-0LAC0-0Sun, 4:05 pm ET
-*   WAS0-0ARI0-0Sun, 4:25 pm ET
-*   DAL0-0CAR0-0Sun, 4:25 pm ET
-*   SEA0-0DEN0-0Sun, 4:25 pm ET
-*   CHI0-0GB0-0Sun, 8:20 pm ET
+*   CHI23GB24Final
+*   BUF3BAL47Final
+*   PIT21CLE21Final (OT)
+*   CIN34IND23Final
+*   TEN20MIA27Final
+*   SF16MIN24Final
+*   HOU20NE27Final
+*   TB48NO40Final
+*   JAX20NYG15Final
+*   KC38LAC28Final
+*   WAS24ARI6Final
+*   DAL8CAR16Final
+*   SEA24DEN27Final
 *   NYJ0-0DET0-0Mon, 7:10 pm ET
 *   LA0-0OAK0-0Mon, 10:20 pm ET
+*   ATL12PHI18Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
-*   Video
+*   Highlights
 *   KICKOFF
 
 *   Kickoff
