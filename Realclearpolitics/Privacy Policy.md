@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Sen. Thom Tillis_: Amid Dems' Partisan Stunts, Kavanaugh Never Flinched
+*   _Geoffrey Kabaservice_: Liberals Don't Know Much About Conservative History
     
-*   _Al Franken_: Kavanaugh Hearings Showcase Republican Hypocrisy
+*   _Cindy Otis_: Trump Chaos Is Dangerously Good News for U.S. Foes
     
-*   _Jeff Cox_: Trump Has Set Economic Growth on Fire. Here's How He Did It
+*   _Steve Hilton_: Unmask the Anti-Trump Deep State Sabotaging America
     
-*   _Norman Eisen_: 'Anonymous' Is an American Hero
+*   _Yi-Zheng Lian_: Could There Be Another Chinese Revolution?
     
-*   _Nikki Haley_: When I Challenge the President, I Do It Directly
+*   _Nikki Haley_: Combating Corruption Is About Ensuring Peace and Security
     
-*   _Jelani Cobb_: Obama Hits the Midterm Campaign Trail--and Trump
+*   _Brendan Cushing-Daniels_: Nativism and the Diminishment of American Rights
     
-*   _Julie Kelly_: Obama Will Hurt, Not Help, Democrats in Midterms
+*   _Mitch Albom_: Job-Shamed 'Cosby' Actor Exposes Addiction to Judging
     
-*   _Uri Friedman_: The Woodward Book Comes for James Mattis
+*   _Taya Kyle_: Nike, Tell Me Again What Kaepernick Sacrificed?
     
-*   _Michael Hirsh_: Surprise! Trump's Disruptive Foreign Policy May Be Working
+*   _Sally Jenkins_: Serena Williams Overpowered by Umpire's Power Play
     
-*   _Minxin Pei_: China Is Losing the New Cold War
+*   _Roger Kimball_: Whining Serena Williams Is Tennis' Hillary Clinton
     
-*   _Bernanke_: What We Need to Fight the Next Financial Crisis
+*   _Jeffrey Toobin_: The Deceptive Contrast Between Kavanaugh &. Trump
     
-*   _Liz Peek_: The Glory Days May Be Dead and Gone for Social Media Giants
+*   _Carl M. Cannon_: How the Senate Lost Its Decorum
     
-*   _Zeynep Tufekci_: An Avalanche of Speech Can Threaten Democracy
+*   _T.A. Frank_: Is Trump Too Doltish to Be Dangerous?
     
-*   _Yoram Hazony_: Liberalism as Imperialism
+*   _Frank Miele_: I'm Part of the Resistance Inside the Media &. I'm Not Anonymous
     
-*   _Bradford DeLong_: For Whom the Climate Bell Tolls
+*   _Paul Davidson_: Wages Are Finally Picking Up. Will It Last?
     
-*   _Fred Singer_: Peak Oil: A Lesson in False Prophecy
+*   _Christian Whiton_: Why Trump's Record Trumps Noise From Media
     
-*   _Amberin Zaman_: Turkey's Erdogan Gets No Love From Russia on Idlib
+*   _Robin Abcarian_: Obama's Back On the Trail, and This Time It's Personal
     
-*   _David Ignatius_: What's the Right Way to Deal With Life in 'Crazytown'?
+*   _Michael Goodwin_: Barack Obama's Uninspiring Return
     
-*   _Conrad Black_: Taking On the Status Quo in DC Is a Winning Fight for Trump
+*   _Albert Hunt_: Trump Wants to Elevate Personal Loyalty Above Rule of Law
     
-*   _Erwin Chemerinsky_: Brett Kavanaugh's 'Umpire' Nonsense
+*   _Andrew McCarthy_: Mr. Rosenstein, What Is the Crime?
     
-*   _Karin McQuillan_: Democrats Are Right to Panic Over the Court
+*   _Andrew Sullivan_: We Are Trump's Hostages
     
-*   _Charlie Cook_: A Grim Fall Awaits Republicans
+*   _Mark Penn_: White House in Chaos--What's New?
     
-*   _John Crudele_: Why Republicans Will Likely Maintain Control of Congress
+*   _John Kass_: John Kass for Mayor
     
-*   _Moskowitz &. Ellis_: Judaism Is Not Synonymous With Liberal Progressivism
+*   _Kotkin &. Cox_: A Generation Plans an Exodus From California
     
 
 *   Previous
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Georgia Governor - Kemp vs. AbramsAtlanta Journal-Constitution
-    *   Abrams45
-    *   Kemp45Tie
-*   Utah 4th District - Love vs. McAdamsUtahPolicy/Dan Jones
-    *   Love49
-    *   McAdams46Love +3
-*   California 48th District - Rohrabacher vs. RoudaNY Times/Siena
-    *   Rouda45
-    *   Rohrabacher45Tie
-*   Illinois 6th District - Roskam vs. CastenNY Times/Siena
-    *   Roskam45
-    *   Casten44Roskam +1
+*   Arizona Senate - McSally vs. SinemaGravis
+    *   Sinema48
+    *   McSally49McSally +1
+*   Arizona Governor - Ducey vs. GarciaGravis
+    *   Ducey48
+    *   Garcia44Ducey +4
+*   Minnesota 8th District - Stauber vs. RadinovichNY Times/Siena
+    *   Radinovich44
+    *   Stauber43Radinovich +1
+*   Kentucky 6th District - Barr vs. McGrathNY Times/Siena
+    *   Barr47
+    *   McGrath46Barr +1
 
 More Latest Polls In The News
 
-*   Charlie Cook: Democrats Tend To Win Toss-Up Senate Races, GOP Has Subpar Candidates Due To Trump
+*   Kellyanne Conway vs. Jake Tapper on Anonymous NYT Op-Ed: "An Investigation If There Is Criminal Activity"
+*   Sen. Sasse: I Think About Leaving Republican Party Every Day, Trump White House A "Reality TV Circus"
+*   Pence: Woodward Book A "Complete Misunderstanding Of How This White House Works," It's Not For Everybody
+*   Papadopoulos: "Campaign Was Fully Aware Of What I Was Doing," Sessions "Enthusiastic" About Putin
 *   David Brooks: How Do We Rebuild Norms Of Reality After Watching Past Two Years In "Shocked Horror?"
-*   Full Replay: Obama Speaks On The State Of Democracy. "We're Supposed To Stand Up To Bullies, Not Follow Them"
-*   Obama: What Has Happened To The Republican Party? They Are Supposed To Be Against Communism
-*   Dan Rather: Is 'Anonymous' NYT Op-Ed A Smokescreen For Kavanaugh SCOTUS Confirmation Hearing?
 
 *   Politics
 *   Policy
