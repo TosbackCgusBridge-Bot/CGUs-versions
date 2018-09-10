@@ -157,7 +157,7 @@ Free trial
 
 Subscribe
 
-—/year
+$1,575.00/year
 
 Software for Building Information Modeling
 
@@ -167,7 +167,7 @@ Free trial
 
 Subscribe
 
-—/year
+$2,250.00/year
 
 Fast, creative toolset for 3D animation, modeling, simulation, and rendering
 
@@ -177,7 +177,7 @@ Free trial
 
 Subscribe
 
-—/year
+$1,505.00/year
 
 Try, buy, or learn more about Autodesk products See all products The future of making things Gilbane Building Company schools the future workforce in prefab
 
