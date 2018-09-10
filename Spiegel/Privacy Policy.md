@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   9\. September 2018
+*   10\. September 2018
 *   Abo
 *   TV-Programmǀ
 *   DAX 11.959,63ǀ
@@ -373,3 +373,6 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
+
+  
+BESbswyBESbswyBESbswy
