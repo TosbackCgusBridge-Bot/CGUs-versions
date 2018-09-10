@@ -46,7 +46,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -62,6 +61,7 @@ Close submenu ( Girls ) Girls
 *   Clearance
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
+*   Open submenu ( Featured ) Featured
 
 Close submenu ( Featured ) Featured
 
@@ -116,7 +116,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -128,6 +127,7 @@ Close submenu ( Guys ) Guys
 *   Cologne
 *   Clearance
 *   Extended Sizes
+*   Open submenu ( Featured ) Featured
 
 Close submenu ( Featured ) Featured
 
@@ -462,12 +462,15 @@ ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Ov
 *   Help
 *   Coupon Page
 *   My Account
+*   Buy Online Pick Up In Store
+*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 Gift Cards
 
 *   eGift Cards
 *   Lost/Stolen Gift Cards
 *   Check Gift Card Balance
+*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 About Us
 
@@ -477,6 +480,7 @@ About Us
 *   Privacy Policy
 *   CA Transparency Act
 *   Supply Chain
+*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 Stay Connected
 
@@ -484,19 +488,6 @@ Stay Connected
 *   Find Store Coupons
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
+*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
