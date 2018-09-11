@@ -15,7 +15,7 @@ Jump to Content Enter Search Terms
 *   News and features
 *   Our work
 
-MENU CLOSE National Oceanic and Atmospheric AdministrationU.S. Department of Commerce Find your local weather Enter your ZIP code Enter Search Terms Content Protecting your privacy What to expect when visiting our website **The basics**
+MENU CLOSE National Oceanic and Atmospheric AdministrationU.S. Department of Commerce Find your local weather Enter your ZIP code Enter Search Terms Content SUB-MENU CLOSE Protecting your privacy What to expect when visiting our website **The basics**
 
 We are committed to the privacy of our visitors. We collect no personal information about you when you visit our website unless you choose to provide that information to us. Here is how we handle information about your visit to NOAA.gov: If you do nothing during your visit but browse through the website, read pages or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store information such as the following concerning your visit: 
 
@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Summer 2018 ranked 4th hottest on record for U.S. AROUND NOAA // Get the latest forecasts from NOAA's National Hurricane Center \[EXT\] Ask the scientist: How can the weather spark and spread wildfires? Fact vs. fiction: 3 things you thought you knew about jellyfish Teachers: Go back to school with NOAA
+Enter Search Terms Florence grows to major Cat. 4 hurricane. eyes U.S. Southeast, Mid-Atlantic Get the latest forecasts, watches and warnings from NOAA's National Hurricane Center AROUND NOAA // Summer 2018 ranked 4th hottest on record for U.S. Ask the scientist: How can the weather spark and spread wildfires? Teachers: Go back to school with NOAA
 
 *   About our agency
 *   News and features
