@@ -135,9 +135,9 @@ Spider-Man Far From Home Logo
 
 <img class="bg-img" class="url(/en\_us/media/content/SMFFH\_Logo-600x600\_BpA10iJ.jpg);" alt="Spider-Man Far From Home">.
 
-It’s new game season! Join us for a series of new Countdown to Launch celebrations for new info, behind-the-scenes looks and giveaways. First up, Marvel’s Spider-Man!
+New PS Blog Q&A: @Treyarch shares classified details on Blackout, @CallOfDuty: Black Ops 4's battle royale mode.
 
-4 days ago
+21 hours ago
 
 View Tweet
 
@@ -169,23 +169,23 @@ Sony on YouTube - What Makes You Different, Makes You Spider-Man
 
 Play What Makes You Different, Makes You Spider-Man Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/SpiderVerse\_600x600.jpg);" alt="Spider-Man: Into the Spider-Verse trailer ">. No Matter What Kind of Day You've Had, aibo Is Ready to Play
+<img class="bg-img" class="url(/en\_us/media/content/SpiderVerse\_600x600.jpg);" alt="Spider-Man: Into the Spider-Verse trailer ">. Who Is White Boy Rick? Learn More About the True Story Behind the Movie
 
-Unleash Wonder
+In Theaters Starting Friday
 
 Close
 
-*   Share No Matter What Kind of Day You've Had, aibo Is Ready to Play on Facebook
-*   Share No Matter What Kind of Day You've Had, aibo Is Ready to Play on Twitter
-*   Copy URL to share No Matter What Kind of Day You've Had, aibo Is Ready to Play
+*   Share Who Is White Boy Rick? Learn More About the True Story Behind the Movie on Facebook
+*   Share Who Is White Boy Rick? Learn More About the True Story Behind the Movie on Twitter
+*   Copy URL to share Who Is White Boy Rick? Learn More About the True Story Behind the Movie
 
-Play No Matter What Kind of Day You've Had, aibo Is Ready to Play Video
+Play Who Is White Boy Rick? Learn More About the True Story Behind the Movie Video
 
-Sony on YouTube - No Matter What Kind of Day You've Had, aibo Is Ready to Play
+Sony on YouTube - Who Is White Boy Rick? Learn More About the True Story Behind the Movie
 
-Play No Matter What Kind of Day You've Had, aibo Is Ready to Play Video hotspot
+Play Who Is White Boy Rick? Learn More About the True Story Behind the Movie Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/aibo-600x600.jpg);" alt="aibo">. Introducing the New Xperia XZ3 Smartphone
+<img class="bg-img" class="url(/en\_us/media/content/white-boy-rick-dom-DF-06555\_-600x600\_XX37bjz.jpg);" alt="White Boy Rick Trailer">. Introducing the New Xperia XZ3 Smartphone
 
 See More, Hear More, Feel More
 
@@ -243,9 +243,9 @@ Nothing Else
 
 <img class="bg-img" class="url(/en\_us/media/content/WH1000XM3\_global\_ad\_KV\_silver\_-600x600\_sGdE8FF.jpg);" alt="WH-1000XM3 Headphones">.
 
-View XB501G Google Assistant built-in Bluetooth Speaker on Instagram
+View Sony 4K Projectors on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/e2497562bc51b6621f6d20b88e1922ef/5C28F5E1/t51.2885-15/e35/40018393\_267146850584960\_5218141228893208576\_n.jpg);" alt="">. A Perfect Picture, No Matter How You View It
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/8832f0c13d31674da2072de86ad78fe7/5C27FC73/t51.2885-15/e35/39957945\_463219867532188\_2959643609468831788\_n.jpg);" alt="">. A Perfect Picture, No Matter How You View It
 
 Check Out the Z9F Master Series
 
@@ -257,23 +257,23 @@ Close
 
 Check Out the Z9F Master Series
 
-<img class="bg-img" class="url(/en\_us/media/content/13-Z9F-600x600\_cMrnnYE.jpg);" alt="Z9F Television ">. Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken"
+<img class="bg-img" class="url(/en\_us/media/content/13-Z9F-600x600\_cMrnnYE.jpg);" alt="Z9F Television ">. No Matter What Kind of Day You've Had, aibo Is Ready to Play
 
-Play It Today on PS4®
+Unleash Wonder
 
 Close
 
-*   Share Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" on Facebook
-*   Share Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" on Twitter
-*   Copy URL to share Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken"
+*   Share No Matter What Kind of Day You've Had, aibo Is Ready to Play on Facebook
+*   Share No Matter What Kind of Day You've Had, aibo Is Ready to Play on Twitter
+*   Copy URL to share No Matter What Kind of Day You've Had, aibo Is Ready to Play
 
-Play Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" Video
+Play No Matter What Kind of Day You've Had, aibo Is Ready to Play Video
 
-Sony on YouTube - Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken"
+Sony on YouTube - No Matter What Kind of Day You've Had, aibo Is Ready to Play
 
-Play Guardians: Watch the Bungie Developers Discuss What's New in "Destiny 2: Forsaken" Video hotspot
+Play No Matter What Kind of Day You've Had, aibo Is Ready to Play Video hotspot
 
-<img class="bg-img" class="url(/en\_us/media/content/Destiny2-600x600.jpg);" alt="Destiny 2 Forsaken Video">. Travis Scotts' "Astroworld" Continues to Climb the Charts
+<img class="bg-img" class="url(/en\_us/media/content/aibo-600x600.jpg);" alt="aibo">. Travis Scotts' "Astroworld" Continues to Climb the Charts
 
 Listen to the Album
 
@@ -287,9 +287,9 @@ Listen to the Album
 
 <img class="bg-img" class="url(/en\_us/media/content/traviscott-600x600\_Bb5mvlH.jpg);" alt="Travis Scott Astro World">.
 
-View White Boy Rick tickets on Instagram
+View The Girl in the Spider's Web on Instagram
 
-<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/ba96612a1d5eb27ef10a17c7ad57b356/5B914DBD/t51.2885-15/e15/39894898\_315060849254366\_2849411991431282688\_n.jpg);" alt="">. Close
+<img class="bg-img" class="url(https://scontent-sea1-1.cdninstagram.com/vp/a765bc5ce1453cda4397253434b2c68b/5B99A859/t51.2885-15/e15/40317117\_281210239160099\_4896370533577802663\_n.jpg);" alt="">. Close
 
 *   Share Bring the Bass Everywhere on Facebook
 *   Share Bring the Bass Everywhere on Twitter
