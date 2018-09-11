@@ -8,17 +8,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Hudson Jeans Up to 60% Off
+    *   Hobo Handbags
+    *   Makeup Geek
+    *   New Styles Added: Splendid
+    *   J.O.A. &. Moon River
+    *   Three Dots
+    *   Louise et Cie Up to 50% Off
+    *   Wow Couture
+    *   A. Calin &. More Under $35
+    *   Pour La Victoire Up to 70% Off
+    *   Ron Hami Fine Jewelry Up to 65% Off
+    *   Shape Up: Yummie by Heather Thomson &. More
+    *   Sun Starting at $15
+    *   Karl Lagerfeld Jewelry
+    *   Keep Glowing: Million Dollar Tan
+    *   Geox Up to 50% Off
+    *   Hudson Jeans Kids Up to 50% Off
+    *   On-Trend Girls' Outerwear Starting at $15
+    *   On-Trend Boys' Outerwear Starting at $14
+    *   Skechers Kids
+    *   Hudson Jeans Men Up to 70% Off
+    *   Free Shipping: Vibrant Scenic Art &. More
+    *   Traveler's Choice Luggage Up to 60% Off
+    *   Unsimply Stitched Lounge
+    *   Organize Your Home: Storage &. More from $10
     *   Romeo &. Juliet Blowout
     *   Savvy Cie Jewelry Up to 80% Off
     *   Summer Steals: Shoes Up to 60% Off
     *   Minnie Rose Up to 75% Off
+    
     *   Samuel B Sterling Silver Jewelry Under $80
     *   Men's Blowout
     *   Men's Shoes Up to 65% Off
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
     *   Sam Edelman Up to 55% Off
     *   NANETTE nanette lepore
-    *   ATM Anthony Thomas Melillo
     *   BCBGeneration
     *   Bulova Watches &. More Up to 70% Off
     *   Honey Punch Starting at $15
@@ -36,14 +61,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bravado Designs Maternity &. Nursing Intimates
     *   Fall Harvest: Charming Autumn Decor
     *   Face Masks Starting at $10
-    *   Splendid
     *   Desigual
-    
     *   Sliced Diamonds &. Gemstones Up to 80% Off
     *   Affliction
     *   Dansko
     *   Mad for Moto: Jackets &. More Up to 60% Off
     *   bebe Sport Under $25
+    
     *   New Fall Arrivals: LOVE Moschino
     *   Josie Maran
     *   Statement Necklaces &. More Under $35
@@ -54,54 +78,43 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Wolverine Men Up to 50% Off
     *   James Campbell Starting at $20
     *   Refreshing Steals: Water Bottles from $10
-    *   Converse Starting at $35
     *   Converse Men Starting at $35
-    *   Converse Kids Starting at $20
-    *   Love Token Up to 75% Off
-    *   Parker
     *   Diesel
-    *   Inhabit Cashmere Up to 75% Off
     *   Manna Kadar Cosmetics Up to 75% Off
-    *   Kristin Cavallari by Chinese Laundry &. More
-    *   Fall Edit: On-Trend Styles Under $30
-    *   Room Service &. Kensie Sleep
     *   Diesel Sun &. Watches Up to 85% Off
     *   Ben Sherman Luggage &. More
     *   Au Noir
-    *   Converse Kids' Clothing
-    
-    *   Kids' Backpacks &. More Starting at $8
     *   Free Shipping: Statement-Making Canvas Wall Art
-    *   Original Penguin
     *   Free Shipping: Amrapur Bedding Up to 80% Off
-    *   Original Penguin Dress Shirts &. Accessories
-    *   Crevo Starting at $30
     *   Dazzlepro Teeth Whitening Up to 75% Off
     *   ilike Organic Skin Care
-    *   DKNY Girls
-    *   Bestselling Toys ft. Melissa &. Doug
-    *   MIA Shoes Starting at $15
-    *   Fall Shoe Shop: Casual Boots &. Booties
-    *   Fall Shoe Shop: Dress Boots &. Booties
-    *   Fall Shoe Shop: Weather Boots
-    *   Fall Shoe Shop: Loafers &. Flats
-    *   Fall Shoe Shop: Heels &. Pumps
-    *   Fall Shoe Shop: Sneakers
-    *   Fall Shoe Shop: Men's Boots, Sneakers &. More
-    *   Fall Shoe Shop: Kids' Styles
     *   Free Shipping: BergHOFF
-    *   ghd: good hair day, every day
     *   Free Shipping: Modern Mirrors, Lamps &. More
+    *   Simply Chic: Our Fave Plus &. Petite Dresses
+    *   Wear-to-Work Suits
     *   Nature-Inspired Modern Wall Art &. More
     *   Finishing Touches: Decor &. More Under $100
     *   Office to Vanity: Organizers &. More
-    *   Free Shipping: NFL Tailgate Party Essentials
-    *   Nostalgia Kitchen Appliances Starting at $12
-    *   Wow Couture
-    *   Simply Chic: Our Fave Plus &. Petite Dresses
-    *   Wear-to-Work Suits
+    *   ATM Anthony Thomas Melillo
 *   WomenShop Sale Events
     
+    *   Hudson Jeans Up to 60% Off
+    *   Hobo Handbags
+    *   Makeup Geek
+    *   New Styles Added: Splendid
+    *   J.O.A. &. Moon River
+    *   Three Dots
+    *   Louise et Cie Up to 50% Off
+    *   Wow Couture
+    *   A. Calin &. More Under $35
+    *   Pour La Victoire Up to 70% Off
+    *   Ron Hami Fine Jewelry Up to 65% Off
+    *   Shape Up: Yummie by Heather Thomson &. More
+    *   Sun Starting at $15
+    *   Karl Lagerfeld Jewelry
+    *   Keep Glowing: Million Dollar Tan
+    *   Geox Up to 50% Off
+    *   Traveler's Choice Luggage Up to 60% Off
     *   Romeo &. Juliet Blowout
     *   Savvy Cie Jewelry Up to 80% Off
     *   Summer Steals: Shoes Up to 60% Off
@@ -109,9 +122,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Samuel B Sterling Silver Jewelry Under $80
     *   Sam Edelman Up to 55% Off
     *   NANETTE nanette lepore
-    *   ATM Anthony Thomas Melillo
     *   BCBGeneration
     *   Bulova Watches &. More Up to 70% Off
+    
     *   Honey Punch Starting at $15
     *   ECCO
     *   NANETTE nanette lepore Starting at $40
@@ -120,130 +133,111 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   PYT Hot Tools
     *   Kimi + Kai Maternity
     *   Face Masks Starting at $10
-    *   Splendid
     *   Desigual
     *   Sliced Diamonds &. Gemstones Up to 80% Off
     *   Affliction
     *   Dansko
     *   Mad for Moto: Jackets &. More Up to 60% Off
     *   bebe Sport Under $25
-    
     *   New Fall Arrivals: LOVE Moschino
     *   Josie Maran
     *   Statement Necklaces &. More Under $35
     *   Jewel Badgley Mischka Up to 50% Off
     *   Celebrity Strands Hair Extensions &. More
     *   Salvatore Ferragamo Sun &. Watches Up to 65% Off
-    *   Converse Starting at $35
-    *   Love Token Up to 75% Off
-    *   Parker
-    *   Inhabit Cashmere Up to 75% Off
     *   Manna Kadar Cosmetics Up to 75% Off
-    *   Kristin Cavallari by Chinese Laundry &. More
-    *   Fall Edit: On-Trend Styles Under $30
-    *   Room Service &. Kensie Sleep
     *   Dazzlepro Teeth Whitening Up to 75% Off
     *   ilike Organic Skin Care
-    *   Fall Shoe Shop: Casual Boots &. Booties
-    *   Fall Shoe Shop: Dress Boots &. Booties
-    *   Fall Shoe Shop: Weather Boots
-    *   Fall Shoe Shop: Loafers &. Flats
-    *   Fall Shoe Shop: Heels &. Pumps
-    *   Fall Shoe Shop: Sneakers
-    *   ghd: good hair day, every day
-    *   Wow Couture
     *   Simply Chic: Our Fave Plus &. Petite Dresses
+    *   ATM Anthony Thomas Melillo
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Accessories
     *   Lingerie
+    *   Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Hudson Jeans Men Up to 70% Off
+    *   Traveler's Choice Luggage Up to 60% Off
+    *   Unsimply Stitched Lounge
     *   Men's Blowout
     *   Men's Shoes Up to 65% Off
     *   Hickey Freeman
     *   Salute Up to 60% Off
     *   Salvatore Ferragamo Sun &. Watches Up to 65% Off
     *   Report Collection
+    
     *   Wolverine Men Up to 50% Off
     *   James Campbell Starting at $20
     *   Converse Men Starting at $35
     *   Diesel
-    
     *   Diesel Sun &. Watches Up to 85% Off
     *   Ben Sherman Luggage &. More
     *   Au Noir
-    *   Original Penguin
-    *   Original Penguin Dress Shirts &. Accessories
-    *   Crevo Starting at $30
     *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   Fall Shoe Shop: Men's Boots, Sneakers &. More
     *   Wear-to-Work Suits
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   Hudson Jeans Kids Up to 50% Off
+    *   On-Trend Girls' Outerwear Starting at $15
+    *   On-Trend Boys' Outerwear Starting at $14
+    *   Skechers Kids
     *   aden by aden + anais
     *   Kimi + Kai Maternity
     *   RuffleButts &. RuggedButts
     *   Cool Kicks from Carter's
     *   Bravado Designs Maternity &. Nursing Intimates
-    *   Converse Kids Starting at $20
-    
-    *   Converse Kids' Clothing
-    *   Kids' Backpacks &. More Starting at $8
-    *   DKNY Girls
-    *   Bestselling Toys ft. Melissa &. Doug
-    *   MIA Shoes Starting at $15
-    *   Fall Shoe Shop: Kids' Styles
     
     Shop By Category
     *   Girls' Shoes
-    *   Boys' Shoes
-    *   Toys
-    *   Girls Sizes 2T-6X
-    *   Girls Sizes 7-16
     *   Baby Boy
+    *   Baby Girl
     *   Baby Gear &. Essentials
     *   Boys Sizes 2T-7
-    *   Baby Girl
+    *   Girls Sizes 7-16
     *   Boys Sizes 8-20
+    *   Boys' Shoes
+    *   Girls Sizes 2T-6X
 *   HomeShop Sale Events
     
+    *   Free Shipping: Vibrant Scenic Art &. More
+    *   Traveler's Choice Luggage Up to 60% Off
+    *   Organize Your Home: Storage &. More from $10
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
     *   Fall Harvest: Charming Autumn Decor
     *   Refreshing Steals: Water Bottles from $10
     *   Free Shipping: Statement-Making Canvas Wall Art
+    
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Free Shipping: BergHOFF
-    
     *   Free Shipping: Modern Mirrors, Lamps &. More
     *   Nature-Inspired Modern Wall Art &. More
     *   Finishing Touches: Decor &. More Under $100
     *   Office to Vanity: Organizers &. More
-    *   Free Shipping: NFL Tailgate Party Essentials
-    *   Nostalgia Kitchen Appliances Starting at $12
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Accent Furniture
-    *   Outdoor Living
-    *   Bedding
     *   Storage &. Cleaning
+    *   Bedding
     *   Luggage &. Travel
+    *   Outdoor Living
     *   Rugs
 *   BeautyShop Sale Events
     
+    *   Makeup Geek
+    *   Keep Glowing: Million Dollar Tan
     *   PYT Hot Tools
     *   Face Masks Starting at $10
     *   Josie Maran
@@ -251,12 +245,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Manna Kadar Cosmetics Up to 75% Off
     *   Dazzlepro Teeth Whitening Up to 75% Off
     *   ilike Organic Skin Care
-    *   ghd: good hair day, every day
     
     Shop By Category
     *   Skin Care
-    *   Hair Care
     *   Makeup
+    *   Hair Care
     *   Tools &. Accessories
     *   Bath &. Body
     *   Fragrance
