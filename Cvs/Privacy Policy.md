@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: August 6, 2018
+Effective Date: September 10, 2018
 
   
 
@@ -195,7 +195,7 @@ For example, precise geo-location can be used to identify your device's latitude
   
 Cameras
 
-We use cameras in and around our stores for security purposes and for operational purposes such as observing traffic patterns. Cameras in stores may use electronic device tracking for fraud, theft prevention, and/or security.
+We use cameras in and around our stores for security purposes and for operational purposes such as observing traffic patterns and consumer engagement. Cameras in stores may use electronic device tracking for fraud, theft prevention, and/or security.
 
   
 Fraudulent Sites, Spam &. Phishing
