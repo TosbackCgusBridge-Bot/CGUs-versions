@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -109,53 +107,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Geoffrey Kabaservice_: Liberals Don't Know Much About Conservative History
+*   _Charles Blow_: Obama's Back, Loosening Trump's Stranglehold on News
     
-*   _Cindy Otis_: Trump Chaos Is Dangerously Good News for U.S. Foes
+*   _Charles Hurt_: Obama Reminds Voters Why They Elected Trump
     
-*   _Steve Hilton_: Unmask the Anti-Trump Deep State Sabotaging America
+*   _Helaine Olen_: Republicans' Suicide Mission on the Health Care Law
     
-*   _Yi-Zheng Lian_: Could There Be Another Chinese Revolution?
+*   _Erin Hawley_: Why Women Should Support Kavanaugh's Nomination
     
-*   _Nikki Haley_: Combating Corruption Is About Ensuring Peace and Security
+*   _Suzanne Nossel_: Williams Again Bears Brunt of Double Standards in Tennis
     
-*   _Brendan Cushing-Daniels_: Nativism and the Diminishment of American Rights
+*   _Martina Navratilova_: What Serena Williams Got Wrong
     
-*   _Mitch Albom_: Job-Shamed 'Cosby' Actor Exposes Addiction to Judging
+*   _Heather Mac Donald_: Duped by Diversity: Colleges Corrupt Their Curriculum
     
-*   _Taya Kyle_: Nike, Tell Me Again What Kaepernick Sacrificed?
+*   _Iris Kuo_: The 'Whitening' of Asian Americans
     
-*   _Sally Jenkins_: Serena Williams Overpowered by Umpire's Power Play
+*   _Byron York_: When a Foreign Adversary Meddled in a Presidential Election
     
-*   _Roger Kimball_: Whining Serena Williams Is Tennis' Hillary Clinton
+*   _David Leonhardt_: The Urgent Question of Trump &. Money Laundering
     
-*   _Jeffrey Toobin_: The Deceptive Contrast Between Kavanaugh &. Trump
+*   _Matt Labash_: Meet America's Preeminent Right-Wing Guerrilla Street Artist
     
-*   _Carl M. Cannon_: How the Senate Lost Its Decorum
+*   _Victor Davis Hanson_: The Circus of Resistance
     
-*   _T.A. Frank_: Is Trump Too Doltish to Be Dangerous?
+*   _Albert Hunt_: It's Too Late to Stop Democrats' Blue Wave
     
-*   _Frank Miele_: I'm Part of the Resistance Inside the Media &. I'm Not Anonymous
+*   _John McGinnis_: The Democrats Fire Blanks at Kavanaugh Hearings
     
-*   _Paul Davidson_: Wages Are Finally Picking Up. Will It Last?
+*   _E.J. Dionne_: The Kavanaugh Hustle
     
-*   _Christian Whiton_: Why Trump's Record Trumps Noise From Media
+*   _Stephen Moore_: Trump Deserves a Nobel Prize in Economics
     
-*   _Robin Abcarian_: Obama's Back On the Trail, and This Time It's Personal
+*   _Jennifer Moses_: Obamamania Optimism Amid Donald Trump Dread
     
-*   _Michael Goodwin_: Barack Obama's Uninspiring Return
+*   _Alfredo Ortiz_: Obama Comes Out of Retirement With Same Tired Message
     
-*   _Albert Hunt_: Trump Wants to Elevate Personal Loyalty Above Rule of Law
+*   _Natasha Korecki_: The Beginning of the End for Walker in Wisconsin?
     
-*   _Andrew McCarthy_: Mr. Rosenstein, What Is the Crime?
+*   _Nathan Gonzales_: 5 States Could Decide Whether Dems Take the House
     
-*   _Andrew Sullivan_: We Are Trump's Hostages
+*   _Mark Mills_: Silicon Valley's Political Perils
     
-*   _Mark Penn_: White House in Chaos--What's New?
+*   _Evan Osnos_: Zuckerberg Faces a Reckoning With the Power of Big Tech
     
-*   _John Kass_: John Kass for Mayor
+*   _Ned Ryun_: Stop China's Access to Internet of Things Data
     
-*   _Kotkin &. Cox_: A Generation Plans an Exodus From California
+*   _Charles Gasparino_: DC Has Done Nothing to Prevent Next Mega-Bailout
     
 
 *   Previous
@@ -226,11 +224,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Campaigns in Montana, Lauds Kavanaugh's Progress
+*   High Stakes as 2-Month Sprint to Election Day Begins
+*   Obama, on Campaign Swing, Urges "Sanity in Our Politics"
+*   Carlson: Obama Gets Severe Trump Derangement Syndrome
 *   Sizing Up the Florida Governor Race
-*   Booker: I'm Knowingly Violating Rules to Release Kavanaugh Emails
 *   Trade Deal--or Lack of One--Is Key in N.D. Senate Race
-*   Mass Shootings in America: Anatomy of a Hyped Statistic
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +241,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Arizona Senate - McSally vs. SinemaGravis
-    *   Sinema48
-    *   McSally49McSally +1
-*   Arizona Governor - Ducey vs. GarciaGravis
-    *   Ducey48
-    *   Garcia44Ducey +4
-*   Minnesota 8th District - Stauber vs. RadinovichNY Times/Siena
-    *   Radinovich44
-    *   Stauber43Radinovich +1
-*   Kentucky 6th District - Barr vs. McGrathNY Times/Siena
-    *   Barr47
-    *   McGrath46Barr +1
+*   West Virginia 3rd District - Miller vs. OjedaNY Times/Siena
+    *   Miller48
+    *   Ojeda40Miller +8
+*   Iowa Governor - Reynolds vs. HubbellEmerson
+    *   Hubbell36
+    *   Reynolds31Hubbell +5
+*   New York Governor - Democratic PrimarySiena
+    *   Cuomo63
+    *   Nixon22Cuomo +41
+*   Minnesota 3rd District - Paulsen vs. PhillipsNY Times/Siena
+    *   Phillips51
+    *   Paulsen42Phillips +9
 
 More Latest Polls In The News
 
-*   Kellyanne Conway vs. Jake Tapper on Anonymous NYT Op-Ed: "An Investigation If There Is Criminal Activity"
-*   Sen. Sasse: I Think About Leaving Republican Party Every Day, Trump White House A "Reality TV Circus"
-*   Pence: Woodward Book A "Complete Misunderstanding Of How This White House Works," It's Not For Everybody
-*   Papadopoulos: "Campaign Was Fully Aware Of What I Was Doing," Sessions "Enthusiastic" About Putin
-*   David Brooks: How Do We Rebuild Norms Of Reality After Watching Past Two Years In "Shocked Horror?"
+*   Michael Moore Swipes Microphone From David Hogg After He Asks Canadians To Vote In U.S. Elections
+*   Maxine Waters: "Impeachment! Impeachment! Impeachment! Impeachment!" "I'm Gonna Get Him"
+*   Lionel: Meet The "NYTAnon" Conspiracy. Anti-Trump Left Now Officially No More Credible Than "QAnon"
+*   Bolton to Federalist Society: U.S. No Longer Recognizes International Criminal Court (ICC) At The Hague
+*   Christie: "Richly Ironic" Obama Calls Trump "A Symptom Not The Cause," He Was President For 8 Years
 
 *   Politics
 *   Policy
