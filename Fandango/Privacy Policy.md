@@ -5,43 +5,46 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   The Nun (2018)
     *   Crazy Rich Asians
+    *   Peppermint (2018)
     *   The Meg
-    *   Mission: Impossible - Fallout
-    *   Operation Finale
     *   Searching (2018)
+    *   Mission: Impossible - Fallout
     *   Christopher Robin
+    *   Operation Finale
     *   Alpha
-    *   The Happytime Murders
     *   BlacKkKlansman
-    *   Mile 22
-    *   Incredibles 2
+    *   God Bless the Broken Road
     *   See All Now Playing
     
     Opening This Week = Limited Release
-    
-    *   God Bless the Broken Road
-    *   The Nun (2018)
-    *   Peppermint (2018)
-    *   The Apparition (2018)
-    *   Bisbee '17
-    *   Great Great Great
-    *   Hal (2018)
-    *   I Am Not a Witch
-    *   See All Opening This Week
-    
-    Coming Soon
     
     *   The Predator (2018)
     *   A Simple Favor
     *   Unbroken: Path to Redemption
     *   White Boy Rick
+    *   American Chaos
+    *   Antonio Lopez 1970: Sex Fashion &. Disco
+    *   Armed
+    *   Bel Canto
+    *   The Children Act
+    *   The Dawn Wall
+    *   Don't Leave Home
+    *   See All Opening This Week
+    
+    Coming Soon
+    
     *   Fahrenheit 11/9
     *   The House with a Clock in its Walls
     *   Life Itself (2018)
     *   Hell Fest
     *   Little Women (2018)
     *   Night School (2018)
+    *   Smallfoot
+    *   A Star Is Born (2018)
+    *   Venom (2018)
+    *   First Man
     *   See All Coming Soon
     
     Explore More
@@ -70,8 +73,8 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   We Remember the Great Burt Reynolds in Our Favorite Roles Read More
-    *   The Week in Movie News: Toronto Film Festival Preview, New ‘Halloween’ Trailer and More Read More
-    *   Mark Wahlberg Stars in First, Comic 'Instant Family' Trailer. Here's Everything We Know Read More
+    *   The Buzz on the Hottest Movies at the Toronto Film Festival Read More
+    *   Next 3 'Conjuring' Universe Thrillers: 'Annabelle 3,' 'The Conjuring 3,' 'The Crooked Man' Read More
     
     Explore Content
     *   Movie Reviews
@@ -317,6 +320,14 @@ Offers
 *   'The Predator' Gift with Purchase
     
     Buy tickets to 'The Predator' and get a FREE\* Predator digital comic-book with ticket purchase. BUY TICKETS
+    
+*   FandangoNOW Binge Bundles
+    
+    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
+    
+*   FandangoNOW Fresh Picks: September
+    
+    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
 
 New + Coming soon
