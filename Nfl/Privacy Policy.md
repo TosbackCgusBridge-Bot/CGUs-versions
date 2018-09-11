@@ -1,4 +1,6 @@
-*   CHI0-123GB1-024Final
+*   LA•13OAK133rd • 04:46
+*   NYJ1-048DET0-117Final
+*   ATL0-112PHI1-018Final
 *   BUF0-13BAL1-047Final
 *   PIT0-0-121CLE0-0-121Final (OT)
 *   CIN1-034IND0-123Final
@@ -11,9 +13,7 @@
 *   WAS1-024ARI0-16Final
 *   DAL0-18CAR1-016Final
 *   SEA0-124DEN1-027Final
-*   NYJ0-0DET0-0Mon, 7:10 pm ET
-*   LA0-0OAK0-0Mon, 10:20 pm ET
-*   ATL0-112PHI1-018Final
+*   CHI0-123GB1-024Final
 
 *   News
 *   Scores
@@ -32,7 +32,9 @@
 *   NFL Network
 *   Photos
 
-*   CHI23GB24Final
+*   Big Play HighlightJ.Cook 100-yard receiving in a gameWatch NowLA•13OAK133rd • 04:46
+*   NYJ48DET17Final
+*   ATL12PHI18Final
 *   BUF3BAL47Final
 *   PIT21CLE21Final (OT)
 *   CIN34IND23Final
@@ -45,9 +47,7 @@
 *   WAS24ARI6Final
 *   DAL8CAR16Final
 *   SEA24DEN27Final
-*   NYJ0-0DET0-0Mon, 7:10 pm ET
-*   LA0-0OAK0-0Mon, 10:20 pm ET
-*   ATL12PHI18Final
+*   CHI23GB24Final
 
 *   News
 *   Scores
