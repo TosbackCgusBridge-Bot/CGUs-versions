@@ -67,6 +67,7 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
+*   Stock Up Flash Sale
 *   Uniform
 *   Denim Guide
 *   Flex Effects
@@ -75,6 +76,7 @@ Close submenu ( Featured ) Featured
 *   Basic Essentials
 *   Seriously Soft
 *   Online Only
+*   Stock Up Flash Sale
 
 Close submenu ( Tops ) Tops
 
@@ -133,6 +135,7 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
+*   Stock Up Flash Sale
 *   Uniform
 *   Denim Guide
 *   Flex Effects
@@ -141,6 +144,7 @@ Close submenu ( Featured ) Featured
 *   Logo Shop
 *   Back to Basics
 *   Online Only
+*   Stock Up Flash Sale
 
 Close submenu ( Tops ) Tops
 
@@ -244,7 +248,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **SAVE UP TO 15% OFF** USE CODE **FLASH15** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -286,14 +290,16 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Uniform
-        *   Denim Guide
-        *   Flex Effects
-        *   Tribe Of Tees
-        *   Logo Shop
-        *   Basic Essentials
-        *   Seriously Soft
-        *   Online Only
+        *   Stock Up Flash Sale
+    *   Stock Up Flash Sale
+    *   Uniform
+    *   Denim Guide
+    *   Flex Effects
+    *   Tribe Of Tees
+    *   Logo Shop
+    *   Basic Essentials
+    *   Seriously Soft
+    *   Online Only
     
     *   Tops
         *   View All
@@ -344,14 +350,16 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Uniform
-        *   Denim Guide
-        *   Flex Effects
-        *   Lounge
-        *   Active
-        *   Logo Shop
-        *   Back to Basics
-        *   Online Only
+        *   Stock Up Flash Sale
+    *   Stock Up Flash Sale
+    *   Uniform
+    *   Denim Guide
+    *   Flex Effects
+    *   Lounge
+    *   Active
+    *   Logo Shop
+    *   Back to Basics
+    *   Online Only
     
     *   Tops
         *   View All
@@ -451,7 +459,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans Shop Girls Tees Shop Guys Tees Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Joggers Shop Guys Joggers Shop Girls Uniform Shop Guys Uniform Shop Girls Clearance Shop Guys Clearance <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 FOLLOW US Customer Care
+ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans Shop Girls Tees Shop Guys Tees Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Joggers Shop Guys Joggers Shop Girls Clearance Shop Guys Clearance <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 FOLLOW US Customer Care
 
 *   Order Status
 *   Track Your Order
@@ -462,15 +470,12 @@ ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Ov
 *   Help
 *   Coupon Page
 *   My Account
-*   Buy Online Pick Up In Store
-*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 Gift Cards
 
 *   eGift Cards
 *   Lost/Stolen Gift Cards
 *   Check Gift Card Balance
-*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 About Us
 
@@ -480,7 +485,6 @@ About Us
 *   Privacy Policy
 *   CA Transparency Act
 *   Supply Chain
-*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 Stay Connected
 
@@ -488,6 +492,5 @@ Stay Connected
 *   Find Store Coupons
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
-*   Buy Online Pick Up In StoreBuy Online Pick Up In Store
 
 © 2018 Aeropostale. All Rights Reserved.
