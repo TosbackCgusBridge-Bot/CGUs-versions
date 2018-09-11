@@ -19,7 +19,7 @@ Hello! Welcome to CareerBuilder Sign In Sign Up
 *   Help &. Support
 *   Post Jobs
 
-Search Location CareerBuilder: Find the right job. Right now. Search Location Recent Searches No Recent Searches Add your resume and let your next job find you. Add Your Resume Is your salary keeping up with your career? Find out what you could be earning with My Career Path. Find out what you could be earning with My Career Path. See My Career Path Check it out Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
+Search Location It's your career. It's your life. It's your time. Work can work.™ Search Location Recent Searches No Recent Searches   Add your resume and let your next job find you. Add Your Resume Is your salary keeping up with your career? Find out what you could be earning with My Career Path. Find out what you could be earning with My Career Path. See My Career Path Check it out Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
 
 No job recommendations yet, but opportunity is out there!
 
@@ -121,4 +121,5 @@ Search on the Go
 
 © 2018 CareerBuilder, LLC. All rights reserved.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=651028534974288&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=651028534974288&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=260078531510682&amp;ev=PageView&amp;noscript=1">. Close Finding a job is hard work.  
+Hiring the right person is hard work. Let us make it easier. Our advanced "hello to hire" HR technology is intuitive, efficient, and accurate - all powered by machine learning and AI. Your hard work is about to pay off. Search for a Job Find Talent
