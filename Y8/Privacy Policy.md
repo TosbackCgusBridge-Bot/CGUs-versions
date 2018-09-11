@@ -3,44 +3,44 @@
 *   games
 *   videos
 
-New Games Next in  22:22 Categories &. more LIBRARY
+New Games Next in  22:59 Categories &. more Hi there! Did you know we have a Y8 Forum Page? Yes, you may find a lot of discussions related to most of Y8 Games. So don't hesitate and jump into Y8 Forum! Go to Forum Hide LIBRARY
 
-*   New Games Next in 22:22
-*   Best of new games 1472 games
-*   Most Popular Games 17973 games
+*   New Games Next in 22:59
+*   Best of new games 1473 games
+*   Most Popular Games 17970 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,118 games
-*   Driving &. Racing Games 6,672 games
-*   Strategy &. RPG Games 2,384 games
-*   Management Games 3,647 games
-*   Thinking Games 11,631 games
+*   Games for girls 23,122 games
+*   Driving &. Racing Games 6,673 games
+*   Strategy &. RPG Games 2,376 games
+*   Management Games 3,646 games
+*   Thinking Games 11,630 games
 *   Action &. Adventure Games 15,673 games
 *   Sports Games 2,092 games
-*   Shooting Games 8,115 games
-*   Fighting Games 2,073 games
-*   Skill Games 10,214 games
-*   Arcade &. Classic Games 12,561 games
-*   Fun &. Crazy Games 2,419 games
+*   Shooting Games 8,114 games
+*   Fighting Games 2,071 games
+*   Skill Games 10,223 games
+*   Arcade &. Classic Games 12,562 games
+*   Fun &. Crazy Games 2,420 games
 
 Tags
 
-*   Sniper317
-*   Food2,872
-*   Racing1,595
-*   Defense890
-*   Motorcycle854
-*   American Football63
+*   War943
+*   Coloring417
+*   Restaurant142
+*   Tractor47
+*   Zombies1,473
+*   Stick590
 *   View All Tags 372
 
 Play with friends  
-Powered by Y8 Account 128 Y8 Multiplayer Games 1,559 Y8 High Score Games 983 Y8 Achievements Games 769 Y8 Screenshots Games 1,297 Y8 Online Save Games 2,564 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 123 Y8 Multiplayer Games 1,561 Y8 High Score Games 984 Y8 Achievements Games 769 Y8 Screenshots Games 1,292 Y8 Online Save Games 2,559 All Y8 Games Games Last Highscore:
 
-**276** points on Zombie Day by Jorens
+**1,176** points on Penalty Kicks by tung00428
 
 *   Contact Form
 *   Submit a Game or Video
