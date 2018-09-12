@@ -74,7 +74,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   We Remember the Great Burt Reynolds in Our Favorite Roles Read More
     *   The Buzz on the Hottest Movies at the Toronto Film Festival Read More
-    *   Next 3 'Conjuring' Universe Thrillers: 'Annabelle 3,' 'The Conjuring 3,' 'The Crooked Man' Read More
+    *   Dwayne Johnson Shares First Look at ‘Hobbs and Shaw’. Here’s Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -366,7 +366,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   August Celebrity Birthdays
+*   September Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
