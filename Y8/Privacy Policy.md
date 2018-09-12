@@ -3,10 +3,10 @@
 *   games
 *   videos
 
-New Games Next in  22:59 Categories &. more Hi there! Did you know we have a Y8 Forum Page? Yes, you may find a lot of discussions related to most of Y8 Games. So don't hesitate and jump into Y8 Forum! Go to Forum Hide LIBRARY
+New Games Next in  22:34 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 22:59
-*   Best of new games 1473 games
+*   New Games Next in 22:34
+*   Best of new games 1471 games
 *   Most Popular Games 17970 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -14,33 +14,33 @@ New Games Next in  22:59 Categories &. more Hi there! Did you know we have a Y8
 
 CATEGORIES
 
-*   Games for girls 23,122 games
-*   Driving &. Racing Games 6,673 games
-*   Strategy &. RPG Games 2,376 games
+*   Games for girls 23,127 games
+*   Driving &. Racing Games 6,675 games
+*   Strategy &. RPG Games 2,377 games
 *   Management Games 3,646 games
-*   Thinking Games 11,630 games
+*   Thinking Games 11,634 games
 *   Action &. Adventure Games 15,673 games
 *   Sports Games 2,092 games
-*   Shooting Games 8,114 games
+*   Shooting Games 8,115 games
 *   Fighting Games 2,071 games
-*   Skill Games 10,223 games
-*   Arcade &. Classic Games 12,562 games
+*   Skill Games 10,227 games
+*   Arcade &. Classic Games 12,565 games
 *   Fun &. Crazy Games 2,420 games
 
 Tags
 
-*   War943
-*   Coloring417
-*   Restaurant142
-*   Tractor47
-*   Zombies1,473
-*   Stick590
+*   Y8 Account2,559
+*   School189
+*   Cooking1,532
+*   Parking612
+*   Driving3,755
+*   Baby353
 *   View All Tags 372
 
 Play with friends  
-Powered by Y8 Account 123 Y8 Multiplayer Games 1,561 Y8 High Score Games 984 Y8 Achievements Games 769 Y8 Screenshots Games 1,292 Y8 Online Save Games 2,559 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 124 Y8 Multiplayer Games 1,565 Y8 High Score Games 987 Y8 Achievements Games 769 Y8 Screenshots Games 1,293 Y8 Online Save Games 2,563 All Y8 Games Games Last Highscore:
 
-**1,176** points on Penalty Kicks by tung00428
+**1** points on Mutant Fighting Arena by tung00428
 
 *   Contact Form
 *   Submit a Game or Video
