@@ -67,7 +67,6 @@ Music
 
 *   First Listen
 *   Songs We Love
-*   Music Articles
 *   Tiny Desk
 *   Videos
 
