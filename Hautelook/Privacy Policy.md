@@ -8,14 +8,41 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   SPANX Up to 50% Off
+    *   Nicole Miller
+    *   UNOde50 Jewelry &. Watches
+    *   Via Spiga
+    *   New for Fall: Sofia Cashmere &. More
+    *   Free Shipping: Modern Shag Rugs Up to 70% Off
+    *   Transform Your Space: Modern Wall Decor
+    *   Accents That Pop: Bold Throw Pillows
+    *   Modern Accent Furniture &. More
+    *   Sweet Dreams: Sheet Sets, Duvets &. More
+    *   Workweek Chic: Dresses
+    *   Splish, Splash: Rain Boots for Fall
+    *   Fall Sneak Peek: Coats Up to 60% Off
+    *   Slate &. Stone
+    *   Sky Organics
+    *   Darling Dresses &. Sets from AnnLoren
+    *   Versace Watches Up to 60% Off
+    *   Sculpt Supplements
+    *   TR Premium Up to 80% Off
+    *   Eastland Up to 55% Off
+    *   Layer It Up: Blazers Incl. Plus &. Petites
+    *   Dapper Dress Shoes from Venettini
+    *   Doodle Pants
+    *   Total Dreamz Nightlights
+    *   Get the Look: Sun &. More ft. kate spade new york
+    *   BC Footwear Up to 50% Off
+    *   Melrose and Market Incl. Plus &. Petites
+    *   Statement Earrings &. More Under $30
     *   Hudson Jeans Up to 60% Off
+    
     *   Hobo Handbags
     *   Makeup Geek
-    *   New Styles Added: Splendid
-    *   J.O.A. &. Moon River
     *   Three Dots
+    *   J.O.A. &. Moon River
     *   Louise et Cie Up to 50% Off
-    *   Wow Couture
     *   A. Calin &. More Under $35
     *   Pour La Victoire Up to 70% Off
     *   Ron Hami Fine Jewelry Up to 65% Off
@@ -29,27 +56,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   On-Trend Boys' Outerwear Starting at $14
     *   Skechers Kids
     *   Hudson Jeans Men Up to 70% Off
+    *   Traveler's Choice Luggage &. More Up to 60% Off
     *   Free Shipping: Vibrant Scenic Art &. More
-    *   Traveler's Choice Luggage Up to 60% Off
-    *   Unsimply Stitched Lounge
     *   Organize Your Home: Storage &. More from $10
     *   Romeo &. Juliet Blowout
     *   Savvy Cie Jewelry Up to 80% Off
     *   Summer Steals: Shoes Up to 60% Off
     *   Minnie Rose Up to 75% Off
-    
     *   Samuel B Sterling Silver Jewelry Under $80
     *   Men's Blowout
     *   Men's Shoes Up to 65% Off
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
-    *   Sam Edelman Up to 55% Off
-    *   NANETTE nanette lepore
-    *   BCBGeneration
+    
     *   Bulova Watches &. More Up to 70% Off
-    *   Honey Punch Starting at $15
-    *   ECCO
-    *   NANETTE nanette lepore Starting at $40
-    *   Honeydew Lingerie
     *   On-Trend Sterling Silver Jewelry from $15
     *   PYT Hot Tools
     *   Hickey Freeman
@@ -61,52 +80,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bravado Designs Maternity &. Nursing Intimates
     *   Fall Harvest: Charming Autumn Decor
     *   Face Masks Starting at $10
-    *   Desigual
-    *   Sliced Diamonds &. Gemstones Up to 80% Off
-    *   Affliction
-    *   Dansko
-    *   Mad for Moto: Jackets &. More Up to 60% Off
-    *   bebe Sport Under $25
-    
-    *   New Fall Arrivals: LOVE Moschino
     *   Josie Maran
-    *   Statement Necklaces &. More Under $35
-    *   Jewel Badgley Mischka Up to 50% Off
     *   Celebrity Strands Hair Extensions &. More
-    *   Salvatore Ferragamo Sun &. Watches Up to 65% Off
     *   Report Collection
     *   Wolverine Men Up to 50% Off
     *   James Campbell Starting at $20
     *   Refreshing Steals: Water Bottles from $10
-    *   Converse Men Starting at $35
-    *   Diesel
     *   Manna Kadar Cosmetics Up to 75% Off
-    *   Diesel Sun &. Watches Up to 85% Off
-    *   Ben Sherman Luggage &. More
-    *   Au Noir
     *   Free Shipping: Statement-Making Canvas Wall Art
     *   Free Shipping: Amrapur Bedding Up to 80% Off
-    *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   ilike Organic Skin Care
     *   Free Shipping: BergHOFF
-    *   Free Shipping: Modern Mirrors, Lamps &. More
-    *   Simply Chic: Our Fave Plus &. Petite Dresses
-    *   Wear-to-Work Suits
-    *   Nature-Inspired Modern Wall Art &. More
-    *   Finishing Touches: Decor &. More Under $100
-    *   Office to Vanity: Organizers &. More
     *   ATM Anthony Thomas Melillo
+    *   Unsimply Stitched Lounge
+    *   Wear-to-Work Suits
+    *   New Styles Added: Splendid
+    *   Free Shipping: Modern Mirrors, Lamps &. More
 *   WomenShop Sale Events
     
+    *   SPANX Up to 50% Off
+    *   Nicole Miller
+    *   UNOde50 Jewelry &. Watches
+    *   UNOde50 Jewelry &. Watches
+    *   Via Spiga
+    *   New for Fall: Sofia Cashmere &. More
+    *   Workweek Chic: Dresses
+    *   Splish, Splash: Rain Boots for Fall
+    *   Fall Sneak Peek: Coats Up to 60% Off
+    *   Sky Organics
+    *   Versace Watches Up to 60% Off
+    *   Sculpt Supplements
+    *   Layer It Up: Blazers Incl. Plus &. Petites
+    *   Get the Look: Sun &. More ft. kate spade new york
+    *   BC Footwear Up to 50% Off
+    *   Melrose and Market Incl. Plus &. Petites
+    *   Statement Earrings &. More Under $30
     *   Hudson Jeans Up to 60% Off
     *   Hobo Handbags
     *   Makeup Geek
-    *   New Styles Added: Splendid
-    *   J.O.A. &. Moon River
     *   Three Dots
+    *   J.O.A. &. Moon River
     *   Louise et Cie Up to 50% Off
-    *   Wow Couture
     *   A. Calin &. More Under $35
+    
     *   Pour La Victoire Up to 70% Off
     *   Ron Hami Fine Jewelry Up to 65% Off
     *   Shape Up: Yummie by Heather Thomson &. More
@@ -114,71 +129,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Karl Lagerfeld Jewelry
     *   Keep Glowing: Million Dollar Tan
     *   Geox Up to 50% Off
-    *   Traveler's Choice Luggage Up to 60% Off
+    *   Traveler's Choice Luggage &. More Up to 60% Off
     *   Romeo &. Juliet Blowout
     *   Savvy Cie Jewelry Up to 80% Off
     *   Summer Steals: Shoes Up to 60% Off
     *   Minnie Rose Up to 75% Off
     *   Samuel B Sterling Silver Jewelry Under $80
-    *   Sam Edelman Up to 55% Off
-    *   NANETTE nanette lepore
-    *   BCBGeneration
     *   Bulova Watches &. More Up to 70% Off
-    
-    *   Honey Punch Starting at $15
-    *   ECCO
-    *   NANETTE nanette lepore Starting at $40
-    *   Honeydew Lingerie
     *   On-Trend Sterling Silver Jewelry from $15
     *   PYT Hot Tools
     *   Kimi + Kai Maternity
     *   Face Masks Starting at $10
-    *   Desigual
-    *   Sliced Diamonds &. Gemstones Up to 80% Off
-    *   Affliction
-    *   Dansko
-    *   Mad for Moto: Jackets &. More Up to 60% Off
-    *   bebe Sport Under $25
-    *   New Fall Arrivals: LOVE Moschino
     *   Josie Maran
-    *   Statement Necklaces &. More Under $35
-    *   Jewel Badgley Mischka Up to 50% Off
     *   Celebrity Strands Hair Extensions &. More
-    *   Salvatore Ferragamo Sun &. Watches Up to 65% Off
     *   Manna Kadar Cosmetics Up to 75% Off
-    *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   ilike Organic Skin Care
-    *   Simply Chic: Our Fave Plus &. Petite Dresses
     *   ATM Anthony Thomas Melillo
+    *   New Styles Added: Splendid
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
-    *   Lingerie
     *   Accessories
+    *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
+    *   Slate &. Stone
+    *   Versace Watches Up to 60% Off
+    *   TR Premium Up to 80% Off
+    *   Eastland Up to 55% Off
     *   Hudson Jeans Men Up to 70% Off
-    *   Traveler's Choice Luggage Up to 60% Off
-    *   Unsimply Stitched Lounge
+    *   Traveler's Choice Luggage &. More Up to 60% Off
     *   Men's Blowout
     *   Men's Shoes Up to 65% Off
+    
     *   Hickey Freeman
     *   Salute Up to 60% Off
-    *   Salvatore Ferragamo Sun &. Watches Up to 65% Off
     *   Report Collection
-    
     *   Wolverine Men Up to 50% Off
     *   James Campbell Starting at $20
-    *   Converse Men Starting at $35
-    *   Diesel
-    *   Diesel Sun &. Watches Up to 85% Off
-    *   Ben Sherman Luggage &. More
-    *   Au Noir
-    *   Dazzlepro Teeth Whitening Up to 75% Off
+    *   Unsimply Stitched Lounge
     *   Wear-to-Work Suits
     
     Shop By Category
@@ -188,9 +180,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Darling Dresses &. Sets from AnnLoren
+    *   Dapper Dress Shoes from Venettini
+    *   Doodle Pants
+    *   Total Dreamz Nightlights
     *   Hudson Jeans Kids Up to 50% Off
     *   On-Trend Girls' Outerwear Starting at $15
     *   On-Trend Boys' Outerwear Starting at $14
+    
     *   Skechers Kids
     *   aden by aden + anais
     *   Kimi + Kai Maternity
@@ -201,41 +198,45 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     Shop By Category
     *   Girls' Shoes
     *   Baby Boy
-    *   Baby Girl
-    *   Baby Gear &. Essentials
-    *   Boys Sizes 2T-7
-    *   Girls Sizes 7-16
-    *   Boys Sizes 8-20
-    *   Boys' Shoes
     *   Girls Sizes 2T-6X
+    *   Girls Sizes 7-16
+    *   Baby Girl
+    *   Boys' Shoes
+    *   Boys Sizes 2T-7
+    *   Boys Sizes 8-20
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Modern Shag Rugs Up to 70% Off
+    *   Transform Your Space: Modern Wall Decor
+    *   Accents That Pop: Bold Throw Pillows
+    *   Modern Accent Furniture &. More
+    *   Sweet Dreams: Sheet Sets, Duvets &. More
+    *   Traveler's Choice Luggage &. More Up to 60% Off
     *   Free Shipping: Vibrant Scenic Art &. More
-    *   Traveler's Choice Luggage Up to 60% Off
     *   Organize Your Home: Storage &. More from $10
+    
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
     *   Fall Harvest: Charming Autumn Decor
     *   Refreshing Steals: Water Bottles from $10
     *   Free Shipping: Statement-Making Canvas Wall Art
-    
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Free Shipping: BergHOFF
     *   Free Shipping: Modern Mirrors, Lamps &. More
-    *   Nature-Inspired Modern Wall Art &. More
-    *   Finishing Touches: Decor &. More Under $100
-    *   Office to Vanity: Organizers &. More
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Accent Furniture
-    *   Storage &. Cleaning
     *   Bedding
+    *   Accent Furniture
+    *   Rugs
+    *   Storage &. Cleaning
     *   Luggage &. Travel
     *   Outdoor Living
-    *   Rugs
 *   BeautyShop Sale Events
     
+    *   Sky Organics
+    *   Sculpt Supplements
     *   Makeup Geek
     *   Keep Glowing: Million Dollar Tan
     *   PYT Hot Tools
@@ -243,8 +244,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Josie Maran
     *   Celebrity Strands Hair Extensions &. More
     *   Manna Kadar Cosmetics Up to 75% Off
-    *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   ilike Organic Skin Care
     
     Shop By Category
     *   Skin Care
