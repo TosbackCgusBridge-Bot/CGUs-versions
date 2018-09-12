@@ -970,9 +970,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: ROSE pin: 5128 DETAILS
+code: WINDY pin: 3702 DETAILS
 
 Customer Service Menu
 
