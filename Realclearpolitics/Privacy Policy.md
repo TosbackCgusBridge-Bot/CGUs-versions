@@ -107,53 +107,53 @@
     *   About
     *   Media Kit
 
-*   _Charles Blow_: Obama's Back, Loosening Trump's Stranglehold on News
+*   _Max Jaeger_: Why These 9/11 Monsters Still Haven't Been Tried
     
-*   _Charles Hurt_: Obama Reminds Voters Why They Elected Trump
+*   _Joe Scarborough_: Trump Has Done More Damage to America Than 9/11 Attack
     
-*   _Helaine Olen_: Republicans' Suicide Mission on the Health Care Law
+*   _Steve Cortes_: Scarborough Owes the President - and America - an Apology
     
-*   _Erin Hawley_: Why Women Should Support Kavanaugh's Nomination
+*   _Max Nisen_: Obamacare Is Poised for a Midterm Booster Shot
     
-*   _Suzanne Nossel_: Williams Again Bears Brunt of Double Standards in Tennis
+*   _Newt Gingrich_: The Two Universes America Faces After November
     
-*   _Martina Navratilova_: What Serena Williams Got Wrong
+*   _Katrina vanden Heuvel_: Focus on Trump's Ruinous Policies
     
-*   _Heather Mac Donald_: Duped by Diversity: Colleges Corrupt Their Curriculum
+*   _Mark Davis_: Obama's Return May Energize Republicans More Than Dems
     
-*   _Iris Kuo_: The 'Whitening' of Asian Americans
+*   _Michelle Goldberg_: The Handmaid's Court
     
-*   _Byron York_: When a Foreign Adversary Meddled in a Presidential Election
+*   _John Solomon_: Strzok, Page &. the FBI's 'Leak Strategy' With the Media
     
-*   _David Leonhardt_: The Urgent Question of Trump &. Money Laundering
+*   _John Koblin_: Moonves Put CBS on Top. Then It All Came Crashing Down
     
-*   _Matt Labash_: Meet America's Preeminent Right-Wing Guerrilla Street Artist
+*   _Mike Rowe_: The Man Nike Should Have Celebrated
     
-*   _Victor Davis Hanson_: The Circus of Resistance
+*   _Kean &. Hamilton_: On 9/11 Anniversary, Terrorists Readying to Attack Again
     
-*   _Albert Hunt_: It's Too Late to Stop Democrats' Blue Wave
+*   _Daniel Benjamin_: Nobody Cares About Terrorism Anymore. Good
     
-*   _John McGinnis_: The Democrats Fire Blanks at Kavanaugh Hearings
+*   _Tim Sullivan_: NYC Firefighter: How 9/11 Tragedy Can Inspire 17 Yrs Later
     
-*   _E.J. Dionne_: The Kavanaugh Hustle
+*   _Steven A. Miller_: Colleges Don't Need 9/11 Memorial Ceremonies
     
-*   _Stephen Moore_: Trump Deserves a Nobel Prize in Economics
+*   _William Murchison_: Where Did All the Unity Go?
     
-*   _Jennifer Moses_: Obamamania Optimism Amid Donald Trump Dread
+*   _David Sirota_: Let's Wipe Out Trump, and the Neoliberal Democrats, Too
     
-*   _Alfredo Ortiz_: Obama Comes Out of Retirement With Same Tired Message
+*   _Kyle Smith_: The Party of Kaepernick
     
-*   _Natasha Korecki_: The Beginning of the End for Walker in Wisconsin?
+*   _Myra Adams_: Florida Gov Race Reflects Battle for America's Future
     
-*   _Nathan Gonzales_: 5 States Could Decide Whether Dems Take the House
+*   _Eugene Robinson_: Trump's Radically Un-American Agenda
     
-*   _Mark Mills_: Silicon Valley's Political Perils
+*   _Tucker Carlson_: Did Google Meddle in 2016 Election More Than Russia?
     
-*   _Evan Osnos_: Zuckerberg Faces a Reckoning With the Power of Big Tech
+*   _Christian Farias_: Why Mueller's Papadopoulos Bombshell Fizzled
     
-*   _Ned Ryun_: Stop China's Access to Internet of Things Data
+*   _Robert Reich_: Kavanaugh Will Further Divide Us
     
-*   _Charles Gasparino_: DC Has Done Nothing to Prevent Next Mega-Bailout
+*   _Noemie Emery_: 31 Years Later, Dems Get Their High Court Just Deserts
     
 
 *   Previous
@@ -224,11 +224,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   For Trump, Pence and America: A Changed World Since 9/11
 *   High Stakes as 2-Month Sprint to Election Day Begins
+*   Kudlow: Biggest Story Is an Economic Boom Folks Said Couldn't Happen
 *   Obama, on Campaign Swing, Urges "Sanity in Our Politics"
-*   Carlson: Obama Gets Severe Trump Derangement Syndrome
 *   Sizing Up the Florida Governor Race
-*   Trade Deal--or Lack of One--Is Key in N.D. Senate Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -241,26 +241,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Texas 23rd District - Hurd vs. Ortiz JonesNY Times/Siena
+    *   Hurd51
+    *   Ortiz Jones43Hurd +8
+*   Nevada Senate - Heller vs. RosenSuffolk\*
+    *   Rosen42
+    *   Heller41Rosen +1
+*   Nevada Governor - Laxalt vs. SisolakSuffolk\*
+    *   Sisolak37
+    *   Laxalt35Sisolak +2
 *   West Virginia 3rd District - Miller vs. OjedaNY Times/Siena
     *   Miller48
     *   Ojeda40Miller +8
-*   Iowa Governor - Reynolds vs. HubbellEmerson
-    *   Hubbell36
-    *   Reynolds31Hubbell +5
-*   New York Governor - Democratic PrimarySiena
-    *   Cuomo63
-    *   Nixon22Cuomo +41
-*   Minnesota 3rd District - Paulsen vs. PhillipsNY Times/Siena
-    *   Phillips51
-    *   Paulsen42Phillips +9
 
 More Latest Polls In The News
 
+*   Trump at Flight 93 9/11 Memorial: Boarded Plane As Strangers, Entered Eternity Linked Forever As Heroes
+*   Tucker Carlson Hits Back on Diversity Monologue Backlash: "Not About Race," "Trying To Silence Us"
 *   Michael Moore Swipes Microphone From David Hogg After He Asks Canadians To Vote In U.S. Elections
 *   Maxine Waters: "Impeachment! Impeachment! Impeachment! Impeachment!" "I'm Gonna Get Him"
 *   Lionel: Meet The "NYTAnon" Conspiracy. Anti-Trump Left Now Officially No More Credible Than "QAnon"
-*   Bolton to Federalist Society: U.S. No Longer Recognizes International Criminal Court (ICC) At The Hague
-*   Christie: "Richly Ironic" Obama Calls Trump "A Symptom Not The Cause," He Was President For 8 Years
 
 *   Politics
 *   Policy
