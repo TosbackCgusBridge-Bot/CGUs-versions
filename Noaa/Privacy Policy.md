@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Florence grows to major Cat. 4 hurricane. eyes U.S. Southeast, Mid-Atlantic Life-threatening storm surge and 'catastrophic flooding' possible AROUND NOAA // Summer 2018 ranked 4th hottest on record for U.S. Ask the scientist: How can the weather spark and spread wildfires? Teachers: Go back to school with NOAA
+Enter Search Terms Dangerous Hurricane Florence churning toward U.S. Southeast coast Life-threatening storm surge and 'catastrophic' flooding, rainfall possible AROUND NOAA // Summer 2018 ranked 4th hottest on record for U.S. Ask the scientist: How can the weather spark and spread wildfires? Teachers: Go back to school with NOAA
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+NOAA
