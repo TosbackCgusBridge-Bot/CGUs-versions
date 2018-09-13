@@ -15,12 +15,12 @@
     *   Playsets &. Action Figures
     *   Toy Cars, Trains &. Train Sets
     *   Dolls, Dollhouses &. Accessories
-    *   Ride-On Toys
+    *   Ride-On Toys &. Vehicles
     *   Learning &. Educational Toys
     
     *   Building Toys
     *   Musical Toys
-    *   Role Play Toys
+    *   Role Play &. Pretend Play Toys
     *   Sports &. Outdoor Toys
     *   Apparel &. Bedroom
     
@@ -50,7 +50,7 @@
     *   Octonauts™
     *   Grow-With-Me
     *   Bob the Builder™
-    *   Sesame Street
+    *   Barney &. Friends
     
     See all
     
