@@ -1,8 +1,4 @@
-*   Pages Jaunes
-*   Pages Blanches
-*   Annuaire Inversé
-
-Conditions Générales d’Utilisation du site PagesJaunes
+Pages Blanches Annuaire Inversé Se référencer Conditions Générales d’Utilisation du site PagesJaunes
 
 Version du 03/05/2018
 
