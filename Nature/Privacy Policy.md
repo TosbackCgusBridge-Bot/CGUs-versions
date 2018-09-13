@@ -11,7 +11,7 @@
         *   How We Work
         *   Our History
     *   Where We Work
-        *   Local: Massachusetts
+        *   Local: Colorado
         *   Africa
         *   Asia Pacific
         *   Canada
@@ -304,7 +304,7 @@ Sign-Up for E-News Join the million supporters who stand with us in taking actio
 
 Please provide valid email address
 
-Get text updates from The Nature Conservancy
+\*Get text updates from The Nature Conservancy
 
 Please provide valid mobile number
 
@@ -312,6 +312,6 @@ GLOBAL SITES Australia Brazil Canada China Hong Kong Indonesia Latin America
 
 The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax identification number 53-0242652) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
 
-© Copyright 2018 The Nature Conservancy. Terms of Use | Privacy Policy | Charitable Solicitation Disclosures |
+© Copyright 2018 The Nature Conservancy. Terms of Use | Privacy Policy | Charitable Solicitation Disclosures | \*Mobile Service Provider's Terms of Use &. Privacy Policy |
 
 AddThis Sharing SidebarShare to FacebookFacebookShare to TwitterTwitterShare to PrintPrintShare to EmailEmailMore AddThis Share optionsAddthisHideShowCloseAddThis
