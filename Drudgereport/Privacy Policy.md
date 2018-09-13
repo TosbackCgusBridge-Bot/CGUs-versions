@@ -164,23 +164,23 @@ If you are a resident of the EEA or Switzerland, we respect your rights accordin
 
 LATEST ON TWITTER
 
+Congrats to our own Justin Hansen for winning the Q2 Top of the @STAQ award! Justin was able to double the CPM of one of our publishers in less than a month! staq.com/blog/2018/9…
+
+About 15 hours ago
+
 ICYMI: Publishers Turn to White-Glove Services for Ad Buying and Management Needs econtentmag.com/Arti…
 
-About a day ago
+About 2 days ago
 
 Publishers have a lot on their plates these days. White Glove Services allow publishers to have peace of mind and let experts take care of their ad buying needs. #programmatic #Advertising econtentmag.com/Arti…
 
-About 6 days ago
+Last week
 
 The latest by @Requidan -- Explosions Across Ad Tech: Signs Of Consolidation Or Growth? adexchanger.com/the-… @adexchanger
 
 About 3 weeks ago
 
 My week on Twitter : 5 Mentions, 1.25K Mention Reach. See yours with sumall.com/performan… pic.twitter.com/W2bV…
-
-About a month ago
-
-Check out these steps toward promoting a safer browsing experience for web users via Intermarkets blog! twitter.com/Jambrose…
 
 About a month ago
 
