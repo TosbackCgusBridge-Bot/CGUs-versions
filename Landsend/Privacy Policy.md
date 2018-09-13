@@ -50,15 +50,15 @@ menu Close 0 Free Shipping on $50+
     *   The Journal
 *   Women WOMEN'S CLOTHING >.
     
-    *   Swimsuits
+    *   Coats &. Jackets
+    *   Fleece
     *   Tops
     *   Sweaters
     *   Pants
     *   Jeans
     *   Dresses
     *   Skirts
-    *   Fleece
-    *   Coats &. Jackets
+    *   Swimsuits
     *   Activewear
     *   Pajamas &. Robes
     *   Shorts
@@ -76,14 +76,14 @@ menu Close 0 Free Shipping on $50+
     
     PLUS SIZE CLOTHING >.
     
-    *   Plus Size Swimsuits
+    *   Plus Size Coats &. Jackets
+    *   Plus Size Fleece
     *   Plus Size Tops
     *   Plus Size Sweaters
     *   Plus Size Pants
     *   Plus Size Jeans
     *   Plus Size Dresses
-    *   Plus Size Fleece
-    *   Plus Size Coats &. Jackets
+    *   Plus Size Swimsuits
     *   Plus Size Pajamas &. Robes
     *   Plus Size Exclusive Styles
     
@@ -116,7 +116,8 @@ menu Close 0 Free Shipping on $50+
     
     MEN'S SALE >. MEN'S CLOTHING >.
     
-    *   Swimwear
+    *   Coats &. Jackets
+    *   Fleece
     *   Polo Shirts
     *   Knit Tops &. Tees
     *   Pants
@@ -127,8 +128,7 @@ menu Close 0 Free Shipping on $50+
     *   Sportcoats &. Blazers
     *   Suiting
     *   Sweaters
-    *   Coats &. Jackets
-    *   Fleece
+    *   Swimwear
     *   Activewear
     *   Pajamas &. Robes
     *   Underwear &. Long Underwear
@@ -175,8 +175,8 @@ menu Close 0 Free Shipping on $50+
     Kids' Sale>. Girls' Clothing>.
     
     *   Girls' Backpacks
-    *   Girls' Swimsuits
     *   Girls' Coats &. Jackets
+    *   Girls' Swimsuits
     *   Girls' Tops &. Tees
     *   Girls' Polos
     *   Girls' Sweaters
@@ -193,8 +193,8 @@ menu Close 0 Free Shipping on $50+
     
     Boys' Clothing>.
     *   Boys' Backpacks
-    *   Boys' Swimsuits
     *   Boys' Coats &. Jackets
+    *   Boys' Swimsuits
     *   Boys' Tops &. Tees
     *   Boys' Polos
     *   Boys' Sweaters
@@ -207,70 +207,6 @@ menu Close 0 Free Shipping on $50+
     *   Boys' Pajamas &. Robes
     *   Boys' Shoes
     *   Boys' Accessories
-*   Swim WOMEN'S SWIMSUITS>.
-    
-    *   Women's Swim Sale
-    *   Tankinis &. Bikinis
-    *   One-piece Swimsuits
-    *   Rash Guards &. Swim Shirts
-    *   Cover-ups
-    *   Plus Size Swimsuits
-    *   Swim Skirts
-    *   Board Shorts
-    *   Swim Dresses
-    *   Mastectomy Swimsuits
-    *   Long Torso Swimsuits
-    
-    GIRLS' SWIMSUITS>.
-    
-    *   Girls' Swim Sale
-    *   Tankini &. Bikini Separates
-    *   Two-piece Swimsuit Sets
-    *   One-piece Bathing Suits
-    *   Rash Guards &. Swim Shirts
-    *   Cover-ups
-    
-    BOYS' SWIMSUITS>.
-    
-    *   Boys' Swim Sale
-    *   Swim Trunks
-    *   Rash Guards &. Swim Shirts
-    
-    MEN'S SWIMWEAR>.
-    
-    *   Men's Swim Sale
-    *   Swim Trunks
-    *   Rash Guards &. Swim Shirts
-    
-    More For Swim
-    
-    *   Water Shoes &. Sandals
-    *   Totes &. Beach Bags
-    *   Beach Towels
-    
-    Featured Shops
-    *   Little Black Suit
-    *   Women's Swim Finder
-    *   Women's Mix &. Match Tool
-    *   Kids' Swim Shop
-    *   Sale
-*   Bags SHOP BAGS
-    
-    *   View All
-    *   New Arrivals
-    *   Canvas Totes
-    *   Backpacks &. Lunch Boxes
-    *   Pouches &. Small Accessories
-    *   Business &. Travel
-    *   Diaper Bags
-    *   The Heritage Collection
-    *   Sale
-    
-    CATEGORIES
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
 *   Outerwear WOMEN'S COATS &. JACKETS >.
     
     *   Women's Coats
@@ -334,6 +270,70 @@ menu Close 0 Free Shipping on $50+
     FEATURED SHOPS
     *   The Weather Channel Collection
     *   The Heritage CollectionOUTERWEAR SALE >.
+*   Bags SHOP BAGS
+    
+    *   View All
+    *   New Arrivals
+    *   Canvas Totes
+    *   Backpacks &. Lunch Boxes
+    *   Pouches &. Small Accessories
+    *   Business &. Travel
+    *   Diaper Bags
+    *   The Heritage Collection
+    *   Sale
+    
+    CATEGORIES
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+*   Swim WOMEN'S SWIMSUITS>.
+    
+    *   Women's Swim Sale
+    *   Tankinis &. Bikinis
+    *   One-piece Swimsuits
+    *   Rash Guards &. Swim Shirts
+    *   Cover-ups
+    *   Plus Size Swimsuits
+    *   Swim Skirts
+    *   Board Shorts
+    *   Swim Dresses
+    *   Mastectomy Swimsuits
+    *   Long Torso Swimsuits
+    
+    GIRLS' SWIMSUITS>.
+    
+    *   Girls' Swim Sale
+    *   Tankini &. Bikini Separates
+    *   Two-piece Swimsuit Sets
+    *   One-piece Bathing Suits
+    *   Rash Guards &. Swim Shirts
+    *   Cover-ups
+    
+    BOYS' SWIMSUITS>.
+    
+    *   Boys' Swim Sale
+    *   Swim Trunks
+    *   Rash Guards &. Swim Shirts
+    
+    MEN'S SWIMWEAR>.
+    
+    *   Men's Swim Sale
+    *   Swim Trunks
+    *   Rash Guards &. Swim Shirts
+    
+    More For Swim
+    
+    *   Water Shoes &. Sandals
+    *   Totes &. Beach Bags
+    *   Beach Towels
+    
+    Featured Shops
+    *   Little Black Suit
+    *   Women's Swim Finder
+    *   Women's Mix &. Match Tool
+    *   Kids' Swim Shop
+    *   Sale
 *   School FIND YOUR SCHOOL>. FEATURED SHOPS
     
     *   Best-in-Class Polos
@@ -491,15 +491,15 @@ menu Close 0 Free Shipping on $50+
     *   WOMEN'S CLOTHING
         *   Back
         *   View All
-        *   Swimsuits
+        *   Coats &. Jackets
+        *   Fleece
         *   Tops
         *   Sweaters
         *   Pants
         *   Jeans
         *   Dresses
         *   Skirts
-        *   Fleece
-        *   Coats &. Jackets
+        *   Swimsuits
         *   Activewear
         *   Pajamas &. Robes
         *   Shorts
@@ -516,14 +516,14 @@ menu Close 0 Free Shipping on $50+
     *   PLUS SIZE CLOTHING
         *   Back
         *   View All
-        *   Plus Size Swimsuits
+        *   Plus Size Coats &. Jackets
+        *   Plus Size Fleece
         *   Plus Size Tops
         *   Plus Size Sweaters
         *   Plus Size Pants
         *   Plus Size Jeans
         *   Plus Size Dresses
-        *   Plus Size Fleece
-        *   Plus Size Coats &. Jackets
+        *   Plus Size Swimsuits
         *   Plus Size Pajamas &. Robes
         *   Plus Size Exclusive Styles
     *   WOMEN'S SHOES
@@ -562,7 +562,8 @@ menu Close 0 Free Shipping on $50+
     *   MEN'S CLOTHING
         *   Back
         *   View All
-        *   Swimwear
+        *   Coats &. Jackets
+        *   Fleece
         *   Polo Shirts
         *   Knit Tops &. Tees
         *   Pants
@@ -573,8 +574,7 @@ menu Close 0 Free Shipping on $50+
         *   Sportcoats &. Blazers
         *   Suiting
         *   Sweaters
-        *   Coats &. Jackets
-        *   Fleece
+        *   Swimwear
         *   Activewear
         *   Pajamas &. Robes
         *   Underwear &. Long Underwear
@@ -626,8 +626,8 @@ menu Close 0 Free Shipping on $50+
         *   Back
         *   View All
         *   Girls' Backpacks
-        *   Girls' Swimsuits
         *   Girls' Coats &. Jackets
+        *   Girls' Swimsuits
         *   Girls' Tops &. Tees
         *   Girls' Polos
         *   Girls' Sweaters
@@ -645,8 +645,8 @@ menu Close 0 Free Shipping on $50+
         *   Back
         *   View All
         *   Boys' Backpacks
-        *   Boys' Swimsuits
         *   Boys' Coats &. Jackets
+        *   Boys' Swimsuits
         *   Boys' Tops &. Tees
         *   Boys' Polos
         *   Boys' Sweaters
@@ -659,74 +659,6 @@ menu Close 0 Free Shipping on $50+
         *   Boys' Pajamas &. Robes
         *   Boys' Shoes
         *   Boys' Accessories
-*   Swim
-    *   Back
-    *   Shop all Swim
-    *   WOMEN'S SWIMSUITS
-        *   Back
-        *   View All
-        *   Women's Swim Sale
-        *   Tankinis &. Bikinis
-        *   One-piece Swimsuits
-        *   Rash Guards &. Swim Shirts
-        *   Cover-ups
-        *   Plus Size Swimsuits
-        *   Swim Skirts
-        *   Board Shorts
-        *   Swim Dresses
-        *   Mastectomy Swimsuits
-        *   Long Torso Swimsuits
-    *   GIRLS' SWIMSUITS
-        *   Back
-        *   View All
-        *   Girls' Swim Sale
-        *   Tankini &. Bikini Separates
-        *   Two-piece Swimsuit Sets
-        *   One-piece Bathing Suits
-        *   Rash Guards &. Swim Shirts
-        *   Cover-ups
-    *   BOYS' SWIMSUITS
-        *   Back
-        *   View All
-        *   Boys' Swim Sale
-        *   Swim Trunks
-        *   Rash Guards &. Swim Shirts
-    *   MEN'S SWIMWEAR
-        *   Back
-        *   View All
-        *   Men's Swim Sale
-        *   Swim Trunks
-        *   Rash Guards &. Swim Shirts
-    *   More For Swim
-        *   Back
-        *   Water Shoes &. Sandals
-        *   Totes &. Beach Bags
-        *   Beach Towels
-    *   Featured Shops
-        *   Back
-        *   Little Black Suit
-        *   Women's Swim Finder
-        *   Women's Mix &. Match Tool
-        *   Kids' Swim Shop
-        *   Sale
-*   Bags
-    *   Back
-    *   Shop all Bags
-    *   CATEGORIES
-        *   Back
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-    *   View All
-    *   New Arrivals
-    *   Canvas Totes
-    *   Backpacks &. Lunch Boxes
-    *   Pouches &. Small Accessories
-    *   Business &. Travel
-    *   Diaper Bags
-    *   The Heritage Collection
-    *   Sale
 *   Outerwear
     *   Back
     *   Shop all Outerwear
@@ -794,6 +726,74 @@ menu Close 0 Free Shipping on $50+
         *   The Weather Channel Collection
         *   The Heritage Collection
     *   OUTERWEAR SALE
+*   Bags
+    *   Back
+    *   Shop all Bags
+    *   CATEGORIES
+        *   Back
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+    *   View All
+    *   New Arrivals
+    *   Canvas Totes
+    *   Backpacks &. Lunch Boxes
+    *   Pouches &. Small Accessories
+    *   Business &. Travel
+    *   Diaper Bags
+    *   The Heritage Collection
+    *   Sale
+*   Swim
+    *   Back
+    *   Shop all Swim
+    *   WOMEN'S SWIMSUITS
+        *   Back
+        *   View All
+        *   Women's Swim Sale
+        *   Tankinis &. Bikinis
+        *   One-piece Swimsuits
+        *   Rash Guards &. Swim Shirts
+        *   Cover-ups
+        *   Plus Size Swimsuits
+        *   Swim Skirts
+        *   Board Shorts
+        *   Swim Dresses
+        *   Mastectomy Swimsuits
+        *   Long Torso Swimsuits
+    *   GIRLS' SWIMSUITS
+        *   Back
+        *   View All
+        *   Girls' Swim Sale
+        *   Tankini &. Bikini Separates
+        *   Two-piece Swimsuit Sets
+        *   One-piece Bathing Suits
+        *   Rash Guards &. Swim Shirts
+        *   Cover-ups
+    *   BOYS' SWIMSUITS
+        *   Back
+        *   View All
+        *   Boys' Swim Sale
+        *   Swim Trunks
+        *   Rash Guards &. Swim Shirts
+    *   MEN'S SWIMWEAR
+        *   Back
+        *   View All
+        *   Men's Swim Sale
+        *   Swim Trunks
+        *   Rash Guards &. Swim Shirts
+    *   More For Swim
+        *   Back
+        *   Water Shoes &. Sandals
+        *   Totes &. Beach Bags
+        *   Beach Towels
+    *   Featured Shops
+        *   Back
+        *   Little Black Suit
+        *   Women's Swim Finder
+        *   Women's Mix &. Match Tool
+        *   Kids' Swim Shop
+        *   Sale
 *   School
     *   Back
     *   Shop all School
