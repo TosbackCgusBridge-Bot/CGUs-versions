@@ -1,4 +1,4 @@
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy Skip Main Navigation
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyTRAVEL ALERT:  We are experiencing high call volume due to Hurricane Florence. For immediate action, please use Marriott.com or the Marriott mobile app to change or cancel your reservation. For the latest information, please go to news.marriott.com. X Skip Main Navigation
 
 expand
 
