@@ -1,10 +1,6 @@
 Accessible View
 
-*   Get the best of JCPenney Sign In create account
-    
-    Get the best of JCPenney Sign In create account
-    
-    My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 SHOP DEPARTMENTS
 
