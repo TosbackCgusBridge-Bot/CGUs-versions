@@ -16,7 +16,7 @@
     
     America’s Top 120  
     
-    $59 99 /mo 190  
+    $ 59 99 /mo 190  
     Channels
     
     Includes DVR  
@@ -37,7 +37,7 @@
             
             Our Most Popular Package
             
-            Our most popular package comes with 190 channels essential for any family, including USA, CMT, Disney Channel, E! and ESPN.
+            Our most popular package comes with 190 channels essential for any family including USA, CMT, Disney Channel, E! and ESPN.
             
         *   America’s Top 120 Plus
             
@@ -81,7 +81,7 @@
                 
                 Premium Channels
                 
-                Get the premium movies and series you want with HBO, Showtime, Cinemax, STARZ, DISH Movie Pack, EPIX, and more.
+                Get the premium movies and series you want with Showtime, STARZ, DISH Movie Pack, EPIX, and more.
                 
             *   Sports
                 
@@ -142,7 +142,7 @@
     
     We have the most technologically-advanced equipment in the industry but we designed it to be easy to use because we know you just want to relax and have everything work the way it should when it’s time to watch TV.
     
-    Equipment >
+    Equipment >.
     
     *   Equipment
         
@@ -152,23 +152,79 @@
         
     *   Features
         
-        Keep Your Equipment, Upgrade Your Experience
+        *   Netflix
+            
+            Netflix Integration
+            
+            DISH was the first TV provider to include a Netflix app right in our set top box. We are continually innovating to create the ultimate one-stop shop for the best entertainment experience.
+            
+        *   AutoHop
+            
+            AutoHop
+            
+            The most powerful DVR in the industry lets you skip TV ads with a push of a button.
+            
+        *   Primetime Anytime
+            
+            Primetime Anytime
+            
+            Take away the time commitment and easily record primetime shows with DISH. Record up to three hours of primetime television on each major network to watch later, for up to eight days after its original air date.
+            
+        *   Remote Finder
+            
+            Remote Finder
+            
+            By simply pressing a button on the set top box, the DISH remote will begin to emit a series of loud beeping noises and also light up to help you find it faster.
+            
+        *   Multi-View
+            
+            Multi-View
+            
+            The Hopper 3 includes an unique feature that divides your TV screen into 4 smaller screens while maintaing excellent picture quality.
+            
+        *   Picture Quality
+            
+            Picture Quality
+            
+            The Hopper 3 includes an unique feature that divides your TV screen into 4 smaller screens while maintaing excellent picture quality.
+            
         
-        We’re always working on the newest, most cutting-edge features, and we automatically update your equipment to give you the best TV entertainment experience possible.
+        Features
         
-    *   Hopper3™ DVR
+        The Hopper DVR is all you need. You get all the benefits of our hard work without lifting a finger, literally in the case of our Voice Remote.
         
-        Love TV? Experience the Hopper 3™
+    *   Hopper3 ™ DVR
+        
+        Love TV? Experience the Hopper 3 ™
         
         Discover a DVR above the rest, with the ability to watch and record up to 16 shows at once, the power to turn any TV into a smart TV, and much more.
         
-    *   HopperGO® Pocket DVR
+    *   Voice Control
         
-        Watch, Share, Go
+        *   Voice Remote
+            
+            Voice Remote
+            
+            Easily change channels or search for your favorite shows by simply speaking to our Voice Remote
+            
+        *   Alexa Integration
+            
+            Alexa Integration
+            
+            Only Dish + Amazon Alexa gives you the best hands-free entertainment experience
+            
+        *   Google Integration
+            
+            Google Integration
+            
+            Use your voice. Not your hands. Get the most from the Hopper with the Google Assistant.
+            
         
-        Share your recorded content on the go with this handy portable Wi-Fi connected storage device, even without an internet connection.
+        Voice Control
         
-    *   DISH Anywhere®
+        Only Dish + Amazon Alexa gives you the best hands-free entertainment experience
+        
+    *   DISH Anywhere ®
         
         All Your TV From Home, Anywhere You Go
         
@@ -199,13 +255,9 @@
     
 *   SERVICE
     
-    DISH is #1  
-    He\`s not a spokesperson,  
-    he\`s a Spokeslistener
+    Ranked #1 in Customer Satisfaction by ACSI
     
-    Some of our best ideas have come from you. Learn how we heard you and how we\`re listening for ways to continue to make the best home entertainment experience possible.
-    
-    Meet the Spokelistener >
+    Learn More >.
     
     *   Free Installation
         
@@ -239,12 +291,9 @@
         
 *   COMPARE
     
-    See Why  
-    DISH is #1
+    See why DISH has the best Value, Service &. Technology.
     
-    Upgrade your whole-home experience with amazing value, technology and service that's miles ahead of the competition.
-    
-    Compare DISH >
+    Compare DISH >.
     
     *   DISH vs Competition
         
@@ -309,7 +358,13 @@
 *   Call DISH 1-888-434-0112
 *   CHAT
 
-Get 190 channels for $59.99 with a Smart DVR Included + Free Voice Remote Get DISH Get America’s Top 120 for $49.99/mo for 2 years guaranteed! Learn More
+Get 190 channels for $59.99 with a Smart DVR Included + Free Voice Remote Get DISH Sign Up To Stay Updated On Our Best Offers Sign Up
+
+“DISH has consistently  
+great service, and they  
+don't nickel and dime you.”  
+  
+Steven - Aurora, CO
 
 Before you checkout, you need to select a Core package.
 
@@ -351,9 +406,15 @@ Back to Homepage
 1.  DISH
 2.  › Site
 
-Ranked #1 in Customer Service nationally by J.D. Power and our customers.
+DISH Cares connects our team with opportunities in local communities to make a difference for those who need it most.
+
+Ranked #1 in Customer Satisfaction
 
 24/7 Customer Support 99% Signal Quality Available Anywhere
+
+Get the full DISH experience!
+
+Stay in touch with DISH. Be sure to follow us on social media to get the latest updates on events, technology, offers and more.
 
 Get updates from DISH.
 
@@ -367,66 +428,48 @@ Sign Up POPULAR LINKS
 *   Equipment
 *   Internet
 
-EXPLORE
+VALUE
 
-*   Meet the Spokeslistener
-*   Alexa Integration
-*   NEW Hopper 3 Smart DVR
-*   DISH Anywhere
-*   HopperGO
-*   Internet &. Phone Bundles
-*   TV Channels and Packages
-*   Premium &. Movies
-*   HBO
-*   Showtime
-*   Cinemax
-*   STARZ
-*   Sports
-*   Adult
-*   TV Outdoors
-*   Smart Home Services
-*   Find a Retailer
-
-COMPARE DISH
-
-*   Compare DISH
-*   Compare DirecTV
-*   Compare Comcast
-*   Compare Time Warner Cable
-*   Compare Verizon Fios
-*   Compare Cable Companies
-*   Compare DISH Packages
-
-BUILD
-
-*   Packages
+*   DISH Packages
 *   Channel Lineup
-*   America's Top 120
-*   America's Top 120+
-*   America's Top 200
-*   America's Top 250
-*   Latino TV Packages
-*   Latino TV Add-Ons
-*   International TV Add-Ons
+*   Internet Bundles
+*   Add On Packages
+*   Premium Channels
+*   Sports Packages
+*   Adult Channels
+*   On Demand
+*   Latino Packages
+*   Latino Add Ons
+*   International Add Ons
 
-DISH RESOURCES
+TECHNOLOGY
 
-*   Accessibility
-*   About DISH
-*   Alliance Group
-*   News
-*   Investor Relations
-*   Availability
-*   Media Sales
-*   Contact Us
-*   The DISH Blog
-*   DISH Affiliate Program
-*   Door to Door Sales
-*   Service Agreements
-*   Supplier Resources
-*   Terms &. Conditions
-*   Locations
-*   DISH Online Public File
+*   Equipment
+*   Features
+*   Hopper 3
+*   HopperGO
+*   DISH Anywhere
+*   Whole Home DVR
+*   TV Outdoors
+*   Equipment Customized
+*   Compare DISH Equipment
+
+SERVICE
+
+*   Free Installation
+*   Smart Home Services
+*   Signal Reliability
+*   24/7 Service
+*   Available Nationwide
+
+COMPARE
+
+*   Compare Your Bill
+*   DISH vs. DirecTV
+*   DISH vs. Comcast Xfinity
+*   DISH vs. Charter Spectrum
+*   DISH vs. Cable
+*   DISH vs. Competition
 
 DISH SITES
 
@@ -437,7 +480,26 @@ DISH SITES
 *   SlingStudio
 *   Careers
 *   Become a Retailer
+*   The DISH Blog
 *   Sitemap
+
+DISH RESOURCES
+
+*   Contact Us
+*   About DISH
+*   News
+*   Investor Relations
+*   Service Agreements
+*   Terms &. Conditions
+*   Locations
+*   Accessibility
+*   DISH Affiliate Program
+*   Alliance Group
+*   Availability
+*   Media Sales
+*   Supplier Resources
+*   Retailer Door to Door Sales
+*   DISH Online Public File
 
 © 2018, DISH Network L.L.C. All rights reserved.
 
