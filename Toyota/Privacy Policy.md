@@ -28,8 +28,8 @@ Skip to main content
     28/36 est MPG20 Build Specials
 *   $24,090 as shown1 2019 Corolla Hatchback $19,990 starting1  
     30/38 est MPG21 Build Specials
-*   $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
-    48/43 est MPG3 Build Specials
+*   $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
+    48/43 est MPG20 Build Specials
 *   $32,115 as shown1 2018 Prius $23,475 starting1  
     54/50 est MPG17 Build Specials
 *   $34,995 as shown1 2019 Camry $23,845 starting1  
@@ -83,8 +83,8 @@ Skip to main content
     54/133 est MPG10 Build Specials
 *   $32,115 as shown1 2018 Prius $23,475 starting1  
     54/50 est MPG17 Build Specials
-*   $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
-    48/43 est MPG3 Build Specials
+*   $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
+    48/43 est MPG20 Build Specials
 *   $58,365 as shown1 2018 Mirai $58,365 starting1  
     67/67 est MPG14 Specials
 
@@ -118,8 +118,8 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 30/36 est MPG3 $18,550 as shown1 2019 Yaris $15,450 starting1  
 32/40 est MPG23 $22,180 as shown1 2019 Corolla $18,700 starting1  
 28/36 est MPG20 $24,090 as shown1 2019 Corolla Hatchback $19,990 starting1  
-30/38 est MPG21 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
-48/43 est MPG3 $32,115 as shown1 2018 Prius $23,475 starting1  
+30/38 est MPG21 $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
+48/43 est MPG20 $32,115 as shown1 2018 Prius $23,475 starting1  
 54/50 est MPG17 $34,995 as shown1 2019 Camry $23,845 starting1  
 29/41 est MPG4 $32,725 as shown1 2019 Camry Hybrid $28,150 starting1  
 51/53 est MPG20 $33,300 as shown1 2018 Prius Prime $27,300 starting1  
@@ -144,8 +144,8 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 34/30 est MPG3 $48,480 as shown1 2018 Highlander Hybrid $36,870 starting1  
 30/28 est MPG3 $33,300 as shown1 2018 Prius Prime $27,300 starting1  
 54/133 est MPG10 $32,115 as shown1 2018 Prius $23,475 starting1  
-54/50 est MPG17 $23,250 as shown1 2018 Prius _c_ $20,630 starting1  
-48/43 est MPG3 $58,365 as shown1 2018 Mirai $58,365 starting1  
+54/50 est MPG17 $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
+48/43 est MPG20 $58,365 as shown1 2018 Mirai $58,365 starting1  
 67/67 est MPG14 Upcoming Vehicles 2019 Supra Xfinity Series Race Car GR Supra Racing Concept 2019 RAV4 2019 TRD Pro Series FT-4X Concept
 
 *   Careers
