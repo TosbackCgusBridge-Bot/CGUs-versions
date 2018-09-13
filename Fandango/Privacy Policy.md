@@ -72,9 +72,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   We Remember the Great Burt Reynolds in Our Favorite Roles Read More
+    *   Watch First Trailer for Coen Brothers' 'The Ballad of Buster Scruggs'. Here's Everything We Know Read More
     *   The Buzz on the Hottest Movies at the Toronto Film Festival Read More
-    *   Dwayne Johnson Shares First Look at ‘Hobbs and Shaw’. Here’s Everything We Know Read More
+    *   A Blow-by-Blow of the 'Creed II' Set Visit Read More
     
     Explore Content
     *   Movie Reviews
