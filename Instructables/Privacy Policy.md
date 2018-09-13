@@ -4,6 +4,8 @@ You have been detected as being from . Where applicable, you can see country-spe
 
 Change country/language X
 
+Autodesk logo
+
 *   Sign In
     
     Autodesk Account
