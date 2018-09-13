@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -107,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Max Jaeger_: Why These 9/11 Monsters Still Haven't Been Tried
+*   _Conrad Black_: The Mueller Charade Has Been Exposed
     
-*   _Joe Scarborough_: Trump Has Done More Damage to America Than 9/11 Attack
+*   _Richard Cohen_: The Republican Party Has a Communicable Disease
     
-*   _Steve Cortes_: Scarborough Owes the President - and America - an Apology
+*   _Ned Ryun_: Kavanaugh Will Restore the Supreme Court to Its Proper Role
     
-*   _Max Nisen_: Obamacare Is Poised for a Midterm Booster Shot
+*   _Stephen Breyer_: America's Courts Can't Ignore the World
     
-*   _Newt Gingrich_: The Two Universes America Faces After November
+*   _Monica Crowley_: Whistleblower Speaks Out on Intel's Anti-Trump Abuses
     
-*   _Katrina vanden Heuvel_: Focus on Trump's Ruinous Policies
+*   _Paul Krugman_: Democrats Are Credible on Health Care
     
-*   _Mark Davis_: Obama's Return May Energize Republicans More Than Dems
+*   _Johnson &. Taylor_: How Betsy DeVos Is Undoing a Major Campus Injustice
     
-*   _Michelle Goldberg_: The Handmaid's Court
+*   _Justin Dent_: Time to Add Entrepreneurship to the College Curriculum
     
-*   _John Solomon_: Strzok, Page &. the FBI's 'Leak Strategy' With the Media
+*   _Anne Applebaum_: Polarization in Poland: A Warning From Europe
     
-*   _John Koblin_: Moonves Put CBS on Top. Then It All Came Crashing Down
+*   _Robert VerBruggen_: Did France's Gun Control Hurt Its Resistance to the Nazis?
     
-*   _Mike Rowe_: The Man Nike Should Have Celebrated
+*   _Semih Idiz_: Turkish-Russian 'Strategic Ties' Fail Stress Test on Syria
     
-*   _Kean &. Hamilton_: On 9/11 Anniversary, Terrorists Readying to Attack Again
+*   _Tanzi &. Miller_: Trump's 'Circus' Seen Drowning Out Good Economic News
     
-*   _Daniel Benjamin_: Nobody Cares About Terrorism Anymore. Good
+*   _Sally Persons_: Kavanaugh Fight Has Vulnerable Dems Ducking for Cover
     
-*   _Tim Sullivan_: NYC Firefighter: How 9/11 Tragedy Can Inspire 17 Yrs Later
+*   _Jedediah Purdy_: A Progressive's Guide to Reclaiming the Constitution
     
-*   _Steven A. Miller_: Colleges Don't Need 9/11 Memorial Ceremonies
+*   _David Harsanyi_: Obama Reminds Us Why Donald Trump Is President
     
-*   _William Murchison_: Where Did All the Unity Go?
+*   _David Ignatius_: What a Baby: Trump Places Image Over Principle
     
-*   _David Sirota_: Let's Wipe Out Trump, and the Neoliberal Democrats, Too
+*   _Lee Smith_: Decoding the Drips of Leak Upon Anti-Trump Leak
     
-*   _Kyle Smith_: The Party of Kaepernick
+*   _Thomas Friedman_: 'Anonymous' Is Hiding in Plain Sight
     
-*   _Myra Adams_: Florida Gov Race Reflects Battle for America's Future
+*   _Greenwood &. Hagen_: The 10 Senate Seats Most Likely to Flip in 2018
     
-*   _Eugene Robinson_: Trump's Radically Un-American Agenda
+*   _Rupert Darwall_: Trump's Shift Towards Energy Sanity Drives Dems Crazy
     
-*   _Tucker Carlson_: Did Google Meddle in 2016 Election More Than Russia?
+*   _Jill Filipovic_: Florence's Deadly Message: Climate Change Is Real
     
-*   _Christian Farias_: Why Mueller's Papadopoulos Bombshell Fizzled
+*   _Amanda Ripley_: Why Is College So Expensive?
     
-*   _Robert Reich_: Kavanaugh Will Further Divide Us
+*   _Piereson &. Riley_: Time for Colleges to Get Some Skin in the Game
     
-*   _Noemie Emery_: 31 Years Later, Dems Get Their High Court Just Deserts
+*   _Frank Bruni_: The Most Contrarian College in America
     
 
 *   Previous
@@ -224,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Kavanaugh Fight Has Vulnerable Dems Ducking for Cover
 *   For Trump, Pence and America: A Changed World Since 9/11
-*   High Stakes as 2-Month Sprint to Election Day Begins
-*   Kudlow: Biggest Story Is an Economic Boom Folks Said Couldn't Happen
+*   Carlson: Did Google Meddle in 2016 Election More Than Russia?
 *   Obama, on Campaign Swing, Urges "Sanity in Our Politics"
 *   Sizing Up the Florida Governor Race
 *   Presidential Job Approval
@@ -241,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Texas 23rd District - Hurd vs. Ortiz JonesNY Times/Siena
-    *   Hurd51
-    *   Ortiz Jones43Hurd +8
-*   Nevada Senate - Heller vs. RosenSuffolk\*
-    *   Rosen42
-    *   Heller41Rosen +1
-*   Nevada Governor - Laxalt vs. SisolakSuffolk\*
-    *   Sisolak37
-    *   Laxalt35Sisolak +2
-*   West Virginia 3rd District - Miller vs. OjedaNY Times/Siena
-    *   Miller48
-    *   Ojeda40Miller +8
+*   North Dakota Senate - Cramer vs. HeitkampFOX News
+    *   Cramer48
+    *   Heitkamp44Cramer +4
+*   Tennessee Senate - Blackburn vs. BredesenFOX News
+    *   Bredesen44
+    *   Blackburn47Blackburn +3
+*   Missouri Senate - Hawley vs. McCaskillFOX News
+    *   Hawley45
+    *   McCaskill45Tie
+*   Indiana Senate - Braun vs. DonnellyFOX News\*
+    *   Donnelly43
+    *   Braun45Braun +2
 
 More Latest Polls In The News
 
-*   Trump at Flight 93 9/11 Memorial: Boarded Plane As Strangers, Entered Eternity Linked Forever As Heroes
+*   Michael Moore: Trump Maybe Last President. "Dangerous" Because He Has A Complete Lack Of Ideology, Pence Does
+*   Scott Adams to Tucker Carlson and Don Lemon: Why Diversity Is A Strength (And It Is Not Racist To Ask)
+*   Dershowitz: Comey Leaked, Laundered Info Through Columbia Professor To Launch An Investigation
 *   Tucker Carlson Hits Back on Diversity Monologue Backlash: "Not About Race," "Trying To Silence Us"
-*   Michael Moore Swipes Microphone From David Hogg After He Asks Canadians To Vote In U.S. Elections
-*   Maxine Waters: "Impeachment! Impeachment! Impeachment! Impeachment!" "I'm Gonna Get Him"
-*   Lionel: Meet The "NYTAnon" Conspiracy. Anti-Trump Left Now Officially No More Credible Than "QAnon"
+*   Don Lemon: Tucker Carlson's "Anti-Diversity" Rant "Racist". He's Insists He's Not, Twitter Calling Tucker Racist
 
 *   Politics
 *   Policy
