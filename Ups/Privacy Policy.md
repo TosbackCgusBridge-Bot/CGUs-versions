@@ -1,6 +1,9 @@
-1/1
+Previous1/2Next
 
 *   Volcanic Activity Impacting Service in Areas of Hawaii...More
+*   Hurricane Florence Impacting Areas of the East Coast...More
+*   Volcanic Activity Impacting Service in Areas of Hawaii...More
+*   Hurricane Florence Impacting Areas of the East Coast...More
 
 Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
@@ -27,7 +30,7 @@ Search Close
     
     Explore All Tracking Find peace of mind with the details.
     
-    UPS tracking solutions show the progress of your shipment every step of the way, across town or around the world.
+    UPS tracking solutions show the progress of your shipment every step of the way, across town or around the world.  .
     
     Learn More
     
