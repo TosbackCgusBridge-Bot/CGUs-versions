@@ -129,27 +129,23 @@ READY TO MAKE ANYTHING
 
 We've combined our most powerful software and services to create one simple package, for one great price—Autodesk industry collections.
 
-Learn more
+learn more   _UNHCR refugee settlement in Bangladesh_  
+_Watch video_
 
-Generatively designed seat bracket  
-by General Motors Read more
+PRODUCT DESIGN &  
+MANUFACTURING COLLECTION
+
+Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial Subscribe
 
 ARCHITECTURE, ENGINEERING &.  
 CONSTRUCTION COLLECTION
 
 Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free trial Subscribe
 
-PRODUCT DESIGN &  
-MANUFACTURING COLLECTION
-
-Professional-grade CAD/CAM tools, including Inventor and AutoCAD Learn more Free trial Subscribe
-
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe
-
-Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
@@ -159,7 +155,7 @@ Free trial
 
 Subscribe
 
-$1,575.00/year
+—/year
 
 Software for Building Information Modeling
 
@@ -181,11 +177,11 @@ Subscribe
 
 $1,505.00/year
 
-Try, buy, or learn more about Autodesk products See all products The future of making things Gilbane Building Company schools the future workforce in prefab
+Try, buy, or learn more about Autodesk products See all products The future of making things woom Bikes makes lightweight bikes just for kids
 
-Builders construct a state-of-the-art academic facility using prefabrication, design-assist, and virtual reality—and, in the process, train the next generation of construction professionals.
+Two dads set out to create the best kids’ bikes possible. They produce some of the lightest bicycles for children on the market, custom-designing the bike parts to fit the needs of small riders.
 
-Read story
+Watch video
 
 Make anything.   Autodesk makes software for  
 people who make things Across the manufacturing, architecture, building, construction, media, and entertainment industries, Autodesk gives you the power to make anything. Learn more about Autodesk   Resources FREE SOFTWARE FOR STUDENTS file viewers Support Autodesk Community FEEDBACK FOLLOW AUTODESK
