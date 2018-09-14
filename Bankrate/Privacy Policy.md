@@ -158,8 +158,8 @@
     
     Get Advice
     *   What is a home equity loan?
-    *   5 questions to ask before borrowing home equity
-    *   HELOC Pros and Cons
+    *   HELOC vs. Home equity loan
+    *   Consolidate your debt using home equity
     *   Home equity loans with bad credit
 *   Personal Finance Compare
     
