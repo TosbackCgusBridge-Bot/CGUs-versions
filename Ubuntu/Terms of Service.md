@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   Ubuntu Server development summary – 11 September 2018 ›
-*   What is multi-cloud? ›
-*   Ubuntu Server development summary – 04 September 2018 ›
-*   The enterprise deployment game-plan: why multi-cloud is the future ›
-*   Top 10 Linux applications for entertainment and leisure ›
+*   Fresh Snaps from August 2018 ›
+*   Financial services: escaping the burning platform ›
+*   Leading the Vanilla design system ›
+*   Key considerations when choosing a robot’s operating system ›
+*   Robots that run Ubuntu ›
