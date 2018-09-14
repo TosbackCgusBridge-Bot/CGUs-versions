@@ -53,14 +53,14 @@ Close Recent Searches Clear all Suggested Keywords Upload
 
 *   Videos
     *   Featured
-    *   Hottest
-    *   Longest
-    *   Comments
-    *   Favorites
-    *   Views
-    *   Votes
     *   Newest
+    *   Hottest
     *   Rating
+    *   Longest
+    *   Views
+    *   Favorites
+    *   Votes
+    *   Comments
 *   Categories
     *   Teen
     *   Asian
@@ -95,14 +95,14 @@ Close Recent Searches Clear all Suggested Keywords Upload
     *   mom
     *   homemade
     *   sexxx
-    *   massage
     *   german
-    *   brazzers
+    *   massage
     *   young
-    *   masturbation
-    *   petite
+    *   brazzers
     *   arab
+    *   masturbation
     *   interracial
+    *   petite
     *   orgasm
     *   cumshot
     *   publicagent
