@@ -3,11 +3,11 @@
 *   games
 *   videos
 
-New Games Next in  23:31 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  23:30 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 23:31
-*   Best of new games 1471 games
-*   Most Popular Games 17956 games
+*   New Games Next in 23:30
+*   Best of new games 1469 games
+*   Most Popular Games 17957 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -15,32 +15,30 @@ New Games Next in  23:31 Categories &. more Hi there! Did you know there is a Y
 CATEGORIES
 
 *   Games for girls 23,123 games
-*   Driving &. Racing Games 6,664 games
-*   Strategy &. RPG Games 2,374 games
+*   Driving &. Racing Games 6,662 games
+*   Strategy &. RPG Games 2,371 games
 *   Management Games 3,641 games
-*   Thinking Games 11,634 games
-*   Action &. Adventure Games 15,653 games
-*   Sports Games 2,092 games
+*   Thinking Games 11,636 games
+*   Action &. Adventure Games 15,658 games
+*   Sports Games 2,093 games
 *   Shooting Games 8,115 games
 *   Fighting Games 2,070 games
-*   Skill Games 10,215 games
-*   Arcade &. Classic Games 12,551 games
-*   Fun &. Crazy Games 2,418 games
+*   Skill Games 10,220 games
+*   Arcade &. Classic Games 12,549 games
+*   Fun &. Crazy Games 2,417 games
 
 Tags
 
-*   Bowling108
-*   Zombies1,476
-*   Purchase Equipment Upgrades4,037
-*   Ben 1091
-*   Restaurant142
-*   Billiards143
+*   School189
+*   Blood1,290
+*   American Football63
+*   Clicker143
+*   Parking612
+*   Social26
 *   View All Tags 372
 
 Play with friends  
-Powered by Y8 Account 124 Y8 Multiplayer Games 1,565 Y8 High Score Games 987 Y8 Achievements Games 769 Y8 Screenshots Games 1,293 Y8 Online Save Games 2,562 All Y8 Games Games Last Highscore:
-
-**12,996** points on Bartender The Celebs Mix by datcamloi
+Powered by Y8 Account 124 Y8 Multiplayer Games 1,565 Y8 High Score Games 987 Y8 Achievements Games 769 Y8 Screenshots Games 1,293 Y8 Online Save Games 2,562 All Y8 Games Games
 
 *   Contact Form
 *   Submit a Game or Video
