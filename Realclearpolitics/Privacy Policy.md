@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Conrad Black_: The Mueller Charade Has Been Exposed
+*   _Linda Greenhouse_: A Supreme Court Transformed
     
-*   _Richard Cohen_: The Republican Party Has a Communicable Disease
+*   _Byron York_: New Woodward Book Raises Old Questions About Methods
     
-*   _Ned Ryun_: Kavanaugh Will Restore the Supreme Court to Its Proper Role
+*   _Leonard Pitts_: There Are No 'Adults in the Room' at the White House
     
-*   _Stephen Breyer_: America's Courts Can't Ignore the World
+*   _Liz Peek_: Thankfully, Trump Gets What Obama Failed to Grasp on Economy
     
-*   _Monica Crowley_: Whistleblower Speaks Out on Intel's Anti-Trump Abuses
+*   _Dana Goodyear_: Can Obama Help Turn Orange County Blue?
     
-*   _Paul Krugman_: Democrats Are Credible on Health Care
+*   _Rush Limbaugh_: It's Becoming Clear Mueller's Probe Is a Fraud
     
-*   _Johnson &. Taylor_: How Betsy DeVos Is Undoing a Major Campus Injustice
+*   _Melanie McFarland_: Norm MacDonald Has a Show. That's the Problem
     
-*   _Justin Dent_: Time to Add Entrepreneurship to the College Curriculum
+*   _David Harsanyi_: Why You Should Care What Norm MacDonald Thinks
     
-*   _Anne Applebaum_: Polarization in Poland: A Warning From Europe
+*   _Carl Cannon_: Smoke Signals: When Jimmy Carter Hosted Willie Nelson
     
-*   _Robert VerBruggen_: Did France's Gun Control Hurt Its Resistance to the Nazis?
+*   _Zack Beauchamp_: Warning Signs for U.S.: How Democracy Died in Hungary
     
-*   _Semih Idiz_: Turkish-Russian 'Strategic Ties' Fail Stress Test on Syria
+*   _David Goldman_: Hungary's Orban Is the Most Popular Leader in Europe
     
-*   _Tanzi &. Miller_: Trump's 'Circus' Seen Drowning Out Good Economic News
+*   _Stephen Moore_: This Economy Is Definitely Not Obama's Recovery
     
-*   _Sally Persons_: Kavanaugh Fight Has Vulnerable Dems Ducking for Cover
+*   _White &. Cook_: The One Thing Trump Can't Sell: A Booming Economy
     
-*   _Jedediah Purdy_: A Progressive's Guide to Reclaiming the Constitution
+*   _Wayne Allyn Root_: Why Small Business Owners Love Trump
     
-*   _David Harsanyi_: Obama Reminds Us Why Donald Trump Is President
+*   _Yoni Applebaum_: Americans Aren't Practicing Democracy Anymore
     
-*   _David Ignatius_: What a Baby: Trump Places Image Over Principle
+*   _Victor Davis Hanson_: Demonization of Devin Nunes a Window Into Our Times
     
-*   _Lee Smith_: Decoding the Drips of Leak Upon Anti-Trump Leak
+*   _Mark Follman_: Trump's Rhetoric Is Endangering People's Lives
     
-*   _Thomas Friedman_: 'Anonymous' Is Hiding in Plain Sight
+*   _Rep. Steve Scalise_: We Must Do More to Keep Violence Out of Politics
     
-*   _Greenwood &. Hagen_: The 10 Senate Seats Most Likely to Flip in 2018
+*   _E.J. Dionne_: The Grassroots Revolt Against Kavanaugh
     
-*   _Rupert Darwall_: Trump's Shift Towards Energy Sanity Drives Dems Crazy
+*   _Pam Bondi_: Bill Nelson Still Squirming &. Dodging on Kavanaugh
     
-*   _Jill Filipovic_: Florence's Deadly Message: Climate Change Is Real
+*   _Jonathan Chait_: How Warren Is Dominating the 2020 Dem Presidential Race
     
-*   _Amanda Ripley_: Why Is College So Expensive?
+*   _Sara Carter_: Strzok to Page: 'The Times is Angry With Us About the WP Scoop'
     
-*   _Piereson &. Riley_: Time for Colleges to Get Some Skin in the Game
+*   _Aaron Miller_: Trump Is Making Middle East Peace Even Harder
     
-*   _Frank Bruni_: The Most Contrarian College in America
+*   _Zev Chafets_: How Trump's Mideast Moves Are a Game Changer
     
 
 *   Previous
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   North Dakota Senate - Cramer vs. HeitkampFOX News
-    *   Cramer48
-    *   Heitkamp44Cramer +4
-*   Tennessee Senate - Blackburn vs. BredesenFOX News
-    *   Bredesen44
-    *   Blackburn47Blackburn +3
-*   Missouri Senate - Hawley vs. McCaskillFOX News
-    *   Hawley45
-    *   McCaskill45Tie
+*   Wisconsin 1st District - Steil vs. BryceNY Times/Siena
+    *   Steil50
+    *   Bryce44Steil +6
 *   Indiana Senate - Braun vs. DonnellyFOX News\*
     *   Donnelly43
     *   Braun45Braun +2
+*   North Dakota Senate - Cramer vs. HeitkampFOX News
+    *   Cramer48
+    *   Heitkamp44Cramer +4
+*   Minnesota Senate Special Election - Housley vs. SmithKSTP/SurveyUSA
+    *   Smith48
+    *   Housley39Smith +9
 
 More Latest Polls In The News
 
+*   Tucker Carlson vs. Michael Avenatti: You're Exploiting Stormy Daniels. She's Stripping, You Wear $1000 Suits
+*   Lindsey Graham: Latest Stzrok/Page Texts Scream For Second Special Counsel. Much To Be Uncovered
+*   Tucker Carlson Slams Jeffrey Toobin's "Racism" Accusation: Someday We'll Wake Up From This Insanity
 *   Michael Moore: Trump Maybe Last President. "Dangerous" Because He Has A Complete Lack Of Ideology, Pence Does
 *   Scott Adams to Tucker Carlson and Don Lemon: Why Diversity Is A Strength (And It Is Not Racist To Ask)
-*   Dershowitz: Comey Leaked, Laundered Info Through Columbia Professor To Launch An Investigation
-*   Tucker Carlson Hits Back on Diversity Monologue Backlash: "Not About Race," "Trying To Silence Us"
-*   Don Lemon: Tucker Carlson's "Anti-Diversity" Rant "Racist". He's Insists He's Not, Twitter Calling Tucker Racist
 
 *   Politics
 *   Policy
