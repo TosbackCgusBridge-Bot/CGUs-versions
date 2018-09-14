@@ -970,9 +970,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 30% off full-price styles!
 
-code: WINDY pin: 3702 DETAILS
+code: RAIN pin: 8061 DETAILS
 
 Customer Service Menu
 
