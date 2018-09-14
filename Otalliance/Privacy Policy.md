@@ -61,7 +61,7 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Facebook Twitter LinkedIn Email Addthis Home › Privacy Statement Privacy Statement
+Home › Privacy Statement Privacy Statement
 
 The Online Trust Alliance is now part of the Internet Society (ISOC) and governed by ISOC's Privacy Statement. As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here. Questions please email privacy@isoc.org.   
 
@@ -72,10 +72,6 @@ Previous OTA privacy policies are posted below
 
 *   Upcoming Events
 *   News
-
-Tue, Sep 11, 2018 APAC IoT Workshop
-
-The Asia-Pacific Telecommunity (APT) will organize the APT Symposium on Cybersecurity 2018 from 12 to 14 September 2018 in Seoul, Republic of Korea. The symposium will be hosted by the Ministry of Science and ICT (MSIT), Republic of Korea and supported by the Extra Budgetary Contributions from Australia and Korea.
 
 *   OTA Blog
 *   Newsletters
