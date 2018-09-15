@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Dangerous Hurricane Florence churning toward U.S. Southeast coast Life-threatening storm surge and 'catastrophic' flooding, rainfall possible AROUND NOAA // Summer 2018 ranked 4th hottest on record for U.S. Ask the scientist: How can the weather spark and spread wildfires? Teachers: Go back to school with NOAA
+Enter Search Terms Tropical Storm Florence is battering the Carolinas Life-threatening storm surge and 'catastrophic' flooding, rainfall likely AROUND NOAA // Summer 2018 ranked 4th hottest on record for U.S. Ask the scientist: How can the weather spark and spread wildfires? Teachers: Go back to school with NOAA
 
 *   About our agency
 *   News and features
