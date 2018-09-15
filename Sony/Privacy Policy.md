@@ -137,7 +137,7 @@ Spider-Man Far From Home Logo
 
 New PS Blog Q&A: @Treyarch shares classified details on Blackout, @CallOfDuty: Black Ops 4's battle royale mode.
 
-2 days ago
+3 days ago
 
 View Tweet
 
