@@ -1,1 +1,7 @@
-Click here to continue.
+   
+Buy this domain.  
+theapprovedcard.com 2018 Copyright. All Rights Reserved.  
+  
+The Sponsored Listings displayed above are served automatically by a third party. Neither the service provider nor the domain owner maintain any relationship with the advertisers. In case of trademark issues please contact the domain owner directly (contact information can be found in whois).  
+  
+Privacy Policy
