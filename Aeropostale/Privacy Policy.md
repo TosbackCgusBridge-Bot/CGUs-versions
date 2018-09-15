@@ -46,7 +46,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -62,8 +61,9 @@ Close submenu ( Girls ) Girls
 *   Clearance
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
+*   Open submenu ( Collections ) Collections
 
-Close submenu ( Featured ) Featured
+Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
@@ -81,11 +81,11 @@ Close submenu ( Tops ) Tops
 *   View All
 *   Tees
 *   Graphic Tees
-*   Camis + Tanks
 *   Polos
-*   Fashion Tops
 *   Long Sleeve
 *   Hoodies + Sweatshirts
+*   Camis + Tanks
+*   Fashion Tops
 *   Shirts
 *   Sweaters
 *   Active Tops
@@ -96,10 +96,10 @@ Close submenu ( Bottoms ) Bottoms
 *   View All
 *   Jeans
 *   Jeggings
-*   Shorts
 *   Leggings + Active
 *   Joggers + Lounge
 *   Pants
+*   Shorts
 *   Skirts
 *   Buy 1 Get 1 Free Jeans
 
@@ -116,7 +116,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -128,8 +127,9 @@ Close submenu ( Guys ) Guys
 *   Cologne
 *   Clearance
 *   Extended Sizes
+*   Open submenu ( Collections ) Collections
 
-Close submenu ( Featured ) Featured
+Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
@@ -148,9 +148,9 @@ Close submenu ( Tops ) Tops
 *   Tees
 *   Graphic Tees
 *   Polos
-*   Shirts
 *   Long Sleeve
 *   Hoodies + Sweatshirts
+*   Shirts
 *   Sweaters
 *   Buy 1 Get 2 Free Tees
 
@@ -158,9 +158,9 @@ Close submenu ( Bottoms ) Bottoms
 
 *   View All
 *   Jeans
-*   Shorts
-*   Pants
 *   Joggers + Sweats
+*   Pants
+*   Shorts
 *   Buy 1 Get 1 Free Jeans
 
 Close submenu ( Jeans ) Jeans
@@ -283,9 +283,12 @@ Menu Find a Store Aeropostale
 *   Girls
     
     *   View Home
-    *   Featured
+    *   Collections
         *   View All
         *   New Arrivals
+        *   SWIM SALE
+        *   3 for $12 Undies
+        *   Buy 1 Get 2 Socks
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -299,11 +302,11 @@ Menu Find a Store Aeropostale
         *   View All
         *   Tees
         *   Graphic Tees
-        *   Camis + Tanks
         *   Polos
-        *   Fashion Tops
         *   Long Sleeve
         *   Hoodies + Sweatshirts
+        *   Camis + Tanks
+        *   Fashion Tops
         *   Shirts
         *   Sweaters
         *   Active Tops
@@ -313,10 +316,10 @@ Menu Find a Store Aeropostale
         *   View All
         *   Jeans
         *   Jeggings
-        *   Shorts
         *   Leggings + Active
         *   Joggers + Lounge
         *   Pants
+        *   Shorts
         *   Skirts
         *   Buy 1 Get 1 Free Jeans
         
@@ -341,9 +344,10 @@ Menu Find a Store Aeropostale
 *   Guys
     
     *   View Home
-    *   Featured
+    *   Collections
         *   View All
         *   New Arrivals
+        *   Buy 1 Get 2 Accessories
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -358,18 +362,18 @@ Menu Find a Store Aeropostale
         *   Tees
         *   Graphic Tees
         *   Polos
-        *   Shirts
         *   Long Sleeve
         *   Hoodies + Sweatshirts
+        *   Shirts
         *   Sweaters
         *   Buy 1 Get 2 Free Tees
     
     *   Bottoms
         *   View All
         *   Jeans
-        *   Shorts
-        *   Pants
         *   Joggers + Sweats
+        *   Pants
+        *   Shorts
         *   Buy 1 Get 1 Free Jeans
         
     
@@ -462,12 +466,14 @@ ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Ov
 *   Help
 *   Coupon Page
 *   My Account
+*   Buy Online Pick Up In Store
 
 Gift Cards
 
 *   eGift Cards
 *   Lost/Stolen Gift Cards
 *   Check Gift Card Balance
+*   Buy Online Pick Up In Store
 
 About Us
 
@@ -477,6 +483,7 @@ About Us
 *   Privacy Policy
 *   CA Transparency Act
 *   Supply Chain
+*   Buy Online Pick Up In Store
 
 Stay Connected
 
@@ -484,6 +491,7 @@ Stay Connected
 *   Find Store Coupons
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
+*   Buy Online Pick Up In Store
 
 © 2018 Aeropostale. All Rights Reserved.
 
