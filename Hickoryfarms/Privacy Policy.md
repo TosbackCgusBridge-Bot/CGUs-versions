@@ -186,4 +186,24 @@ Subscribe
 
 See our Privacy Policy
 
-Close Feedback
+Thank you!
+
+%%Email Address%%
+
+is now subscribed.
+
+Check your email for your exclusive offer!
+
+Learn More.
+
+Already Subscribed!
+
+%%Email Address%%
+
+is already subscribed!
+
+You should be recieving Hickory Farms emails.
+
+Learn More.
+
+Feedback
