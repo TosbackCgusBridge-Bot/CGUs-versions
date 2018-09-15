@@ -28,7 +28,7 @@ Account 0
 *   GIFTS
 *   THE REGISTRY
 
-Live Chat Live Chat CALL US **ANY TIME**:1.800.777.0000  
+Live Chat CALL US **ANY TIME**:1.800.777.0000  
   
 We're available 24 hours, 7 days a week. menu
 
