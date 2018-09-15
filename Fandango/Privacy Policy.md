@@ -73,7 +73,7 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   The Buzz on the Hottest Movies at the Toronto Film Festival Read More
-    *   First Trailer for ‘Captive State’ Arrives. Here’s Everything We Know Read More
+    *   The Week in Movie News: 'Hobbs and Shaw' First Look, Toronto Film Festival Buzz and More Read More
     *   A Blow-by-Blow of the 'Creed II' Set Visit Read More
     
     Explore Content
