@@ -8,18 +8,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   360 &. Skull Cashmere Up to 65% Off
-    *   Designer Sun ft. Gucci, Prada &. More Up to 70% Off
-    *   Jeffrey Campbell Up to 55% Off
-    *   360 &. Skull Cashmere Accessories Up to 65% Off
+    *   Philosophy Apparel Incl. Plus &. Petites
+    *   Go Couture Dresses
+    *   Badgley Mischka
+    *   Levi's Starting at $25
+    *   Rachel Rachel Roy Including Plus
+    *   Levi's Jackets Up to 65% Off
+    *   Mustard Seed
+    *   2XU Active
+    *   Good Man Brand
+    *   Tommy Hilfiger Tailored Clothing
+    *   Pur Cosmetics Starting at $10
+    *   Storage Must-Haves Starting at $10
+    *   Kids' Fall Outerwear Starting at $15
+    *   14K Gold Jewelry &. More Under $80
+    *   Matisse
+    *   Amber Sceats Trend Jewelry Up to 60% Off
+    *   Hawke &. Co. Up to 70% Off
+    *   H by Hudson Up to 65% Off
+    *   Beyond Routine: Skin Treatment Devices &. More
+    *   Vicenzo Leather
     *   Designers We Love ft. BCBGMAXAZRIA
     *   Step into Autumn: Boots &. Booties from $40
     *   Dresses ft. bebe
     *   Fall Ready: Sport Coats
     *   Fall Refresh: Men's Chukka &. Chelsea Boots
+    *   Designer Sun ft. Gucci, Prada &. More Up to 70% Off
+    
+    *   360 &. Skull Cashmere Up to 65% Off
     *   Smashbox
+    *   Jeffrey Campbell Up to 55% Off
     *   Alexia Admor
     *   Dex Starting at $15
+    *   360 &. Skull Cashmere Accessories Up to 65% Off
     *   Free Shipping: Bedding for the Whole Family
     *   kate spade new york Girls
     *   nANA jUDY
@@ -33,76 +54,68 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cole Haan Up to 50% Off
     *   Cole Haan Men Up to 50% Off
     *   Cole Haan Coats Up to 70% Off
-    *   Cole Haan Handbags &. Accessories Up to 60% Off
     *   Cole Haan Men's Accessories Up to 70% Off
-    
-    *   Office Essentials ft. Monique Lagarde
-    *   Designer Shop: Nanette Lepore &. More
     *   Champagne-Infused Hair Care from Cuvee Beauty
     *   Free Shipping: Amrapur Towels Up to 80% Off
     *   Angel Dear Up to 70% Off
-    *   Mephisto
     *   Scotch &. Soda
     *   Olivia Miller Up to 60% Off
-    *   Bettye Muller Starting at $40
-    *   DRIFTER Up to 75% Off
-    *   Project Social T
     *   Rockabye
+    
     *   Serums We Love
-    *   Smart Watches, Headphones &. More
-    *   ALEX AND ANI Up to 50% Off
-    *   John Varvatos Collection
+    *   Ravensburger Puzzles for the Whole Family
+    *   Lafayette 148 New York
     *   Timberland Men Up to 50% Off
     *   Cargo Cosmetics
-    *   Blanc Noir Sport
-    *   DSGN Yoga Under $30
-    *   Men's Active Shop
-    *   Kids' Activewear ft. New Balance
-    *   New Balance Kids
-    *   New Balance
-    *   New Balance Men
+    *   Comfort Cooking Essentials: Cast Iron Cookware
+    *   Free Shipping: Down &. Memory Foam Essentials
     *   DIPLOMACY
+    *   Men's Active Shop
+    *   Free Shipping: Modern Shag Rugs Up to 70% Off
+    *   Transform Your Space: Modern Wall Decor
+    *   Accents That Pop: Bold Throw Pillows
+    *   New Balance Men
     *   Cole Haan Men's Outerwear Up to 70% Off
-    
-    *   Lafayette 148 New York
-    *   New Fall Arrivals: Dresses We Love
-    *   NIC+ZOE Including Plus
+    *   Rubie's Costumes
+    *   Lali Kids
     *   Modern Accent Furniture &. More
     *   Sweet Dreams: Sheet Sets, Duvets &. More
-    *   Slate &. Stone
     *   Sky Organics
     *   Sculpt Supplements
-    *   TR Premium Up to 80% Off
-    *   Eastland Up to 55% Off
-    *   Makeup Geek
-    *   Keep Glowing: Million Dollar Tan
     *   Free Shipping: Vibrant Scenic Art &. More
     *   Organize Your Home: Storage &. More from $10
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
     *   Fall Harvest: Charming Autumn Decor
-    *   Refreshing Steals: Water Bottles from $10
-    *   14K Gold Jewelry Steals
-    *   Rubie's Costumes
-    *   Timberland Kids Up to 55% Off
-    *   Comfort Cooking Essentials: Cast Iron Cookware
-    *   Lali Kids
-    *   Ravensburger Puzzles for the Whole Family
-    *   Free Shipping: Down &. Memory Foam Essentials
-    *   Free Shipping: Modern Shag Rugs Up to 70% Off
-    *   Transform Your Space: Modern Wall Decor
-    *   Accents That Pop: Bold Throw Pillows
+    *   Designer Shop: Nanette Lepore &. More
+    *   John Varvatos Collection
 *   WomenShop Sale Events
     
-    *   360 &. Skull Cashmere Up to 65% Off
-    *   Designer Sun ft. Gucci, Prada &. More Up to 70% Off
-    *   Jeffrey Campbell Up to 55% Off
-    *   360 &. Skull Cashmere Accessories Up to 65% Off
+    *   Philosophy Apparel Incl. Plus &. Petites
+    *   Go Couture Dresses
+    *   Badgley Mischka
+    *   Levi's Starting at $25
+    *   Rachel Rachel Roy Including Plus
+    *   Levi's Jackets Up to 65% Off
+    *   Mustard Seed
+    *   2XU Active
+    *   Pur Cosmetics Starting at $10
+    *   14K Gold Jewelry &. More Under $80
+    *   Matisse
+    *   Amber Sceats Trend Jewelry Up to 60% Off
+    *   Hawke &. Co. Up to 70% Off
+    *   Beyond Routine: Skin Treatment Devices &. More
+    *   Vicenzo Leather
     *   Designers We Love ft. BCBGMAXAZRIA
     *   Step into Autumn: Boots &. Booties from $40
     *   Dresses ft. bebe
+    *   Designer Sun ft. Gucci, Prada &. More Up to 70% Off
+    *   360 &. Skull Cashmere Up to 65% Off
     *   Smashbox
+    
+    *   Jeffrey Campbell Up to 55% Off
     *   Alexia Admor
     *   Dex Starting at $15
+    *   360 &. Skull Cashmere Accessories Up to 65% Off
     *   Made in Italy: Handbags Up to 65% Off
     *   Vince Camuto Handbags
     *   K-Beauty Essentials ft. Skin 79
@@ -112,30 +125,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Dana Rebecca Fine Jewelry Up to 65% Off
     *   Cole Haan Up to 50% Off
     *   Cole Haan Coats Up to 70% Off
-    *   Cole Haan Handbags &. Accessories Up to 60% Off
-    *   Office Essentials ft. Monique Lagarde
-    
-    *   Designer Shop: Nanette Lepore &. More
     *   Champagne-Infused Hair Care from Cuvee Beauty
-    *   Mephisto
-    *   Bettye Muller Starting at $40
-    *   DRIFTER Up to 75% Off
-    *   Project Social T
     *   Serums We Love
-    *   Smart Watches, Headphones &. More
-    *   ALEX AND ANI Up to 50% Off
-    *   Cargo Cosmetics
-    *   Blanc Noir Sport
-    *   DSGN Yoga Under $30
-    *   New Balance
     *   Lafayette 148 New York
-    *   New Fall Arrivals: Dresses We Love
-    *   NIC+ZOE Including Plus
+    *   Cargo Cosmetics
     *   Sky Organics
     *   Sculpt Supplements
-    *   Makeup Geek
-    *   Keep Glowing: Million Dollar Tan
-    *   14K Gold Jewelry Steals
+    *   Designer Shop: Nanette Lepore &. More
     
     Shop By Category
     *   Clothing
@@ -144,87 +140,82 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
     *   Handbags
     *   Lingerie
-    *   Watches
-    *   Tech Accessories
 *   MenShop Sale Events
     
-    *   Designer Sun ft. Gucci, Prada &. More Up to 70% Off
+    *   Good Man Brand
+    *   Tommy Hilfiger Tailored Clothing
+    *   H by Hudson Up to 65% Off
     *   Fall Ready: Sport Coats
     *   Fall Refresh: Men's Chukka &. Chelsea Boots
+    *   Designer Sun ft. Gucci, Prada &. More Up to 70% Off
     *   nANA jUDY
     *   Cole Haan Men Up to 50% Off
+    
     *   Cole Haan Men's Accessories Up to 70% Off
     *   Scotch &. Soda
-    *   Smart Watches, Headphones &. More
-    *   John Varvatos Collection
-    
     *   Timberland Men Up to 50% Off
+    *   DIPLOMACY
     *   Men's Active Shop
     *   New Balance Men
-    *   DIPLOMACY
     *   Cole Haan Men's Outerwear Up to 70% Off
-    *   Slate &. Stone
-    *   TR Premium Up to 80% Off
-    *   Eastland Up to 55% Off
+    *   John Varvatos Collection
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Kids' Fall Outerwear Starting at $15
     *   kate spade new york Girls
     *   Angel Dear Up to 70% Off
     *   Olivia Miller Up to 60% Off
     *   Rockabye
-    *   Kids' Activewear ft. New Balance
-    *   New Balance Kids
-    *   Rubie's Costumes
-    *   Timberland Kids Up to 55% Off
-    *   Lali Kids
     *   Ravensburger Puzzles for the Whole Family
+    *   Rubie's Costumes
+    *   Lali Kids
     
     Shop By Category
     *   Toys
     *   Girls' Shoes
-    *   Girls Sizes 7-16
-    *   Boys' Shoes
     *   Baby Girl
     *   Girls Sizes 2T-6X
     *   Baby Boy
+    *   Girls Sizes 7-16
     *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
     *   Baby Gear &. Essentials
+    *   Boys Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Storage Must-Haves Starting at $10
     *   Free Shipping: Bedding for the Whole Family
     *   Free Shipping: Amrapur Towels Up to 80% Off
+    *   Comfort Cooking Essentials: Cast Iron Cookware
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Free Shipping: Modern Shag Rugs Up to 70% Off
+    *   Transform Your Space: Modern Wall Decor
+    
+    *   Accents That Pop: Bold Throw Pillows
     *   Modern Accent Furniture &. More
     *   Sweet Dreams: Sheet Sets, Duvets &. More
     *   Free Shipping: Vibrant Scenic Art &. More
     *   Organize Your Home: Storage &. More from $10
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
-    
     *   Fall Harvest: Charming Autumn Decor
-    *   Refreshing Steals: Water Bottles from $10
-    *   Comfort Cooking Essentials: Cast Iron Cookware
-    *   Free Shipping: Down &. Memory Foam Essentials
-    *   Free Shipping: Modern Shag Rugs Up to 70% Off
-    *   Transform Your Space: Modern Wall Decor
-    *   Accents That Pop: Bold Throw Pillows
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Rugs
     *   Accent Furniture
-    *   Kitchen &. Tabletop
-    *   Bath
     *   Storage &. Cleaning
+    *   Bath
+    *   Kitchen &. Tabletop
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Pur Cosmetics Starting at $10
+    *   Beyond Routine: Skin Treatment Devices &. More
     *   Smashbox
     *   K-Beauty Essentials ft. Skin 79
     *   Champagne-Infused Hair Care from Cuvee Beauty
@@ -232,8 +223,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cargo Cosmetics
     *   Sky Organics
     *   Sculpt Supplements
-    *   Makeup Geek
-    *   Keep Glowing: Million Dollar Tan
     
     Shop By Category
     *   Skin Care
