@@ -3,42 +3,44 @@
 *   games
 *   videos
 
-New Games Next in  23:10 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  21:49 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 23:10
-*   Best of new games 1469 games
-*   Most Popular Games 17960 games
+*   New Games Next in 21:49
+*   Best of new games 1465 games
+*   Most Popular Games 17965 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,133 games
-*   Driving &. Racing Games 6,662 games
-*   Strategy &. RPG Games 2,371 games
-*   Management Games 3,641 games
-*   Thinking Games 11,639 games
-*   Action &. Adventure Games 15,659 games
+*   Games for girls 23,137 games
+*   Driving &. Racing Games 6,661 games
+*   Strategy &. RPG Games 2,372 games
+*   Management Games 3,642 games
+*   Thinking Games 11,642 games
+*   Action &. Adventure Games 15,657 games
 *   Sports Games 2,094 games
-*   Shooting Games 8,115 games
+*   Shooting Games 8,118 games
 *   Fighting Games 2,070 games
-*   Skill Games 10,224 games
-*   Arcade &. Classic Games 12,553 games
+*   Skill Games 10,225 games
+*   Arcade &. Classic Games 12,551 games
 *   Fun &. Crazy Games 2,418 games
 
 Tags
 
-*   Super Hero353
-*   Bubbles618
-*   Violence385
-*   Food Serving834
-*   Detective139
+*   Bubble Shooter477
+*   Dog715
+*   Multiplication67
 *   Space Invaders326
+*   Balloons374
+*   Chess59
 *   View All Tags 372
 
 Play with friends  
-Powered by Y8 Account 124 Y8 Multiplayer Games 1,565 Y8 High Score Games 987 Y8 Achievements Games 769 Y8 Screenshots Games 1,293 Y8 Online Save Games 2,562 All Y8 Games Games
+Powered by Y8 Account 124 Y8 Multiplayer Games 1,565 Y8 High Score Games 987 Y8 Achievements Games 769 Y8 Screenshots Games 1,293 Y8 Online Save Games 2,562 All Y8 Games Games Last Highscore:
+
+**54** points on Vampire Cannon by BigDaddy316
 
 *   Contact Form
 *   Submit a Game or Video
@@ -48,7 +50,7 @@ Powered by Y8 Account 124 Y8 Multiplayer Games 1,565 Y8 High Score Games 987 Y8 
 *   Cookie Policy
 *   Terms of Use
 
-Bad translation? Share889K Register Log in My Profile 0 points
+Bad translation? Share468 Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
