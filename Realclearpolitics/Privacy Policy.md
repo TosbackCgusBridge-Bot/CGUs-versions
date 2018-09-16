@@ -109,9 +109,27 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Deroy Murdock_: Why the Roaring Economy May Keep Congress Republican
+    
+*   _Timothy Egan_: The Secret to Cracking Trump's Base
+    
 *   _Adriana Cohen_: What Should Be Done About Google's Foul Play?
     
+*   _Kristina Dahl_: Florence Reminds Us Ignoring Climate Change Will Hurt Us
+    
+*   _Roy Spencer_: Hurricane Florence Isn't Climate Change. It's Just Weather.
+    
+*   _Farrow &. Mayer_: The Sexual-Misconduct Allegation Against Kavanaugh
+    
+*   _Scott McKay_: The Attacks on Kavanaugh Will Forever Stain Democratic Party
+    
+*   _Mason Adams_: How Democrats Can Win in Trump Country
+    
 *   _Bill Zeiser_: California Candidate Frisked Closely by Fact Checkers
+    
+*   _Kevin Williamson_: FDA: The Marlboro Man's Best Friend
+    
+*   _Steven Myers_: What Happened to China's Most Famous Actress?
     
 *   _Barry Ritholtz_: 10 Things We Still Get Wrong About the Financial Crisis
     
@@ -138,24 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _John Hinderaker_: It's Official: Google Is a Democratic Party Front
     
 *   _Kara Swisher_: The Real Google Censorship Scandal
-    
-*   _Sally Persons_: Hurricane Donald: Trump Creates New Twitter Storm
-    
-*   _Julie Kelly_: Hurricanes, Death Tolls, and Trump
-    
-*   _Katie Reilly_: What It's Like to Be a Teacher in America
-    
-*   _George Will_: The College Campus' Cult of Fragility
-    
-*   _Linda Greenhouse_: A Supreme Court Transformed
-    
-*   _Byron York_: New Woodward Book Raises Old Questions About Methods
-    
-*   _Leonard Pitts_: There Are No 'Adults in the Room' at the White House
-    
-*   _Liz Peek_: Thankfully, Trump Gets What Obama Failed to Grasp on Economy
-    
-*   _Dana Goodyear_: Can Obama Help Turn Orange County Blue?
     
 
 *   Previous
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Maine 2nd District - Poliquin vs. GoldenNY Times/Siena
+    *   Poliquin47
+    *   Golden42Poliquin +5
+*   Colorado 6th District - Coffman vs. CrowNY Times/Siena
+    *   Crow51
+    *   Coffman40Crow +11
 *   Florida Governor - DeSantis vs. GillumRasmussen Reports
     *   Gillum48
     *   DeSantis42Gillum +6
 *   Arkansas Governor - Hutchinson vs. HendersonTalk Business/Hendrix College\*
     *   Hutchinson60
     *   Henderson25Hutchinson +35
-*   Wisconsin 1st District - Steil vs. BryceNY Times/Siena
-    *   Steil50
-    *   Bryce44Steil +6
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove51Disapprove +4
 
 More Latest Polls In The News
 
+*   David Brooks: "Democrats Have Not Swung Super Far Left," Mostly Establishment Candidates Won
 *   Dershowitz: Trump White House Should Be Worried About Manafort Deal, "Big Win" For Mueller
-*   Rep. Jim Jordan: FBI Used Crushing Power Of The State To Take Dossier, Go To Secret Court And Get A Warrant
+*   Schiff: Manafort "Could" Divulge Details Of A Trump-Russia Conspiracy, "Quite A Coup" For Mueller
 *   Tucker Carlson vs. Michael Avenatti: You're Exploiting Stormy Daniels. She Strips, You're Wearing $1,000 Suits
 *   Lindsey Graham: Latest Stzrok/Page Texts Scream For Second Special Counsel. Much To Be Uncovered
-*   Michael Moore: Trump Maybe Last President. "Dangerous" Because He Has A Complete Lack Of Ideology, Pence Does
 
 *   Politics
 *   Policy
