@@ -46,7 +46,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Collections ) Collections
 
 *   Open submenu ( Tops ) Tops
 
@@ -62,6 +61,7 @@ Close submenu ( Girls ) Girls
 *   Clearance
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
+*   Open submenu ( Collections ) Collections
 
 Close submenu ( Collections ) Collections
 
@@ -116,7 +116,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Collections ) Collections
 
 *   Open submenu ( Tops ) Tops
 
@@ -128,6 +127,7 @@ Close submenu ( Guys ) Guys
 *   Cologne
 *   Clearance
 *   Extended Sizes
+*   Open submenu ( Collections ) Collections
 
 Close submenu ( Collections ) Collections
 
