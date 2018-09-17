@@ -13,14 +13,10 @@ SHOP DEPARTMENTS
 
 Near YouFind a StoreBack40% OFF WOMEN'S DRESS SHOESShop AllSELECT STYLES40% OFF WOMEN'S DRESS SHOESSELECT STYLESShop All
 
-*   $3599 sale
-    
-    was $60 Liz Claiborne Hara Womens Pumps(29)Add To Cart
+*   $3059after couponwas $60 Liz Claiborne Hara Womens Pumps(29)Add To Cart
 *   $3059after couponwas $60 Liz Claiborne Gemma Womens Heeled Sandals(63)Add To Cart
 *   $3059after couponwas $60 Liz Claiborne Helen Womens HeelsAdd To Cart
-*   $3599 sale
-    
-    was $60 Liz Claiborne Keegan Womens Pumps(131)Add To Cart
+*   $3059after couponwas $60 Liz Claiborne Keegan Womens Pumps(131)Add To Cart
 *   $3059after couponwas $60 Liz Claiborne Gemma Womens ShootiesAdd To Cart
 *   $3059after couponwas $60 Liz Claiborne Kaylee Womens Pumps(4)Add To Cart
 *   $3059after couponwas $60 Liz Claiborne Halki Womens PumpsAdd To Cart
