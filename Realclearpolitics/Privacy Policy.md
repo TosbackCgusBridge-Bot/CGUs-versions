@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Deroy Murdock_: Why the Roaring Economy May Keep Congress Republican
+*   _Noah Rothman_: Dems Have Disgraced Themselves Over Kavanaugh
     
-*   _Timothy Egan_: The Secret to Cracking Trump's Base
+*   _Frank Bruni_: Democrats' Top-Secret Formula for Victory
     
-*   _Adriana Cohen_: What Should Be Done About Google's Foul Play?
+*   _Kimberley Strassel_: How Republicans Can Persuade Voters in Swing Districts
     
-*   _Kristina Dahl_: Florence Reminds Us Ignoring Climate Change Will Hurt Us
+*   _Chris Cillizza_: Manafort's Cooperation Deal Tightens the Vise on Trumpworld
     
-*   _Roy Spencer_: Hurricane Florence Isn't Climate Change. It's Just Weather.
+*   _Roger Kimball_: Truth About Sham Mueller Probe Will Eventually Come Out
     
-*   _Farrow &. Mayer_: The Sexual-Misconduct Allegation Against Kavanaugh
+*   _Matt Ford_: Robert Mueller Is Winning Against Trump
     
-*   _Scott McKay_: The Attacks on Kavanaugh Will Forever Stain Democratic Party
+*   _John Solomon_: Lisa Page: FBI Couldn't Show Collusion Before Mueller Probe
     
-*   _Mason Adams_: How Democrats Can Win in Trump Country
+*   _Bari Weiss_: Money Talks. Will the Republican Party Listen?
     
-*   _Bill Zeiser_: California Candidate Frisked Closely by Fact Checkers
+*   _Ben Boychuk_: Why Obama Is Great for Republicans
     
-*   _Kevin Williamson_: FDA: The Marlboro Man's Best Friend
+*   _Smith &. Rozell_: Cruz-O'Rourke Increasingly Looks Like Allen-Webb
     
-*   _Steven Myers_: What Happened to China's Most Famous Actress?
+*   _Matt Friedman_: Bob Menendez's Political Fight for Survival in New Jersey
     
-*   _Barry Ritholtz_: 10 Things We Still Get Wrong About the Financial Crisis
+*   _Carl Cannon_: Trump Is Half-Right About Puerto Rico Deaths
     
-*   _Telly Davidson_: A Grim Anniversary for the Middle Class
+*   _John Davidson_: Time to End America's Forever War in Afghanistan
     
-*   _Dylan Matthews_: Minority Rule Brought Us Trump, and Worse.
+*   _Phillips &. Russell_: Roots of Next Financial Calamity Are Here
     
-*   _James Bovard_: Obama's Return Reminds Us How He Led to Trump
+*   _Michael Cannivet_: Don't Ignore Mark-to-Market's Role in 2008 Meltdown
     
-*   _Fareed Zakaria_: The Threat to Democracy - From the Left
+*   _Guy Bentley_: The FDA's Assault on Vaping Is a Gift to Big Tobacco
     
-*   _Matthew Walther_: Cuomo Was Never Going to Lose
+*   _Molly Roberts_: Google's Day of Reckoning Is Finally at Hand
     
-*   _Matt Ford_: New York Elects Its Next Anti-Trump Warrior
+*   _Neil Irwin_: Policymakers Saved Financial System--&. U.S. Never Forgave Them
     
-*   _Alex Titus_: No, Trump Doesn't Have an 'Anti-Palestinian Agenda'
+*   _Dean Baker_: The Bank Bailout of 2008 Was Unnecessary
     
-*   _Dov Waxman_: Punishing PLO Isn't Going to Win Trump 'Deal of Century'
+*   _Kotkin &. Cox_: Ten Years After Lehman Collapsed, We're Still Screwed
     
-*   _Michael Rubin_: John Kerry Deserves Jail for Secret Iran Diplomacy
+*   _Anand Giridharadas_: How Wall Street Avoided Justice
     
-*   _Susan Glasser_: It's Trump vs. Trumpworld on North Korea
+*   _Kathleen Parker_: An 11th Hour Attempt to Slander Brett Kavanaugh
     
-*   _John Hinderaker_: It's Official: Google Is a Democratic Party Front
+*   _Gabriel Sherman_: The President Is Seeing Enemies Everywhere
     
-*   _Kara Swisher_: The Real Google Censorship Scandal
+*   _Larry O'Connor_: FBI's 'Leak Strategy' Against Trump Needed a Complicit Media
     
 
 *   Previous
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Maine 2nd District - Poliquin vs. GoldenNY Times/Siena
-    *   Poliquin47
-    *   Golden42Poliquin +5
-*   Colorado 6th District - Coffman vs. CrowNY Times/Siena
-    *   Crow51
-    *   Coffman40Crow +11
-*   Florida Governor - DeSantis vs. GillumRasmussen Reports
-    *   Gillum48
-    *   DeSantis42Gillum +6
-*   Arkansas Governor - Hutchinson vs. HendersonTalk Business/Hendrix College\*
-    *   Hutchinson60
-    *   Henderson25Hutchinson +35
+*   Nevada Senate - Heller vs. RosenGravis
+    *   Rosen47
+    *   Heller45Rosen +2
+*   Minnesota Senate Special Election - Housley vs. SmithStar Tribune/Mason-Dixon
+    *   Smith44
+    *   Housley37Smith +7
+*   Minnesota Senate - Newberger vs. KlobucharStar Tribune/Mason-Dixon
+    *   Klobuchar60
+    *   Newberger30Klobuchar +30
+*   Nevada Governor - Laxalt vs. SisolakGravis
+    *   Sisolak50
+    *   Laxalt38Sisolak +12
 
 More Latest Polls In The News
 
+*   Ret. General Mike Flynn: It Is Time To Buckle Down And Stand Up To Fight For Our Way of Life
+*   Nunes: Shocking Number Of Americans "Drank Russia Kool-Aid," Truly Believe GOP Is Controlled By Kremlin
+*   James O'Keefe Teases "Deep State Unmasked" Documentary, Most Of Them "Brag They Can't Get Fired"
+*   Adam Schiff: Only Person Who Is Draining The Swamp Is Robert Mueller. Trump Trying To Pardon The Swamp
 *   David Brooks: "Democrats Have Not Swung Super Far Left," Mostly Establishment Candidates Won
-*   Dershowitz: Trump White House Should Be Worried About Manafort Deal, "Big Win" For Mueller
-*   Schiff: Manafort "Could" Divulge Details Of A Trump-Russia Conspiracy, "Quite A Coup" For Mueller
-*   Tucker Carlson vs. Michael Avenatti: You're Exploiting Stormy Daniels. She Strips, You're Wearing $1,000 Suits
-*   Lindsey Graham: Latest Stzrok/Page Texts Scream For Second Special Counsel. Much To Be Uncovered
 
 *   Politics
 *   Policy
