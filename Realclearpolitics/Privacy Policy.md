@@ -27,9 +27,9 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   State of Union Polls
 *   Election 2018
     *   RCP Senate Map
-    *   Current Senate
+    *   Senate No Toss Ups
     *   RCP Governors Map
-    *   Current State Houses
+    *   Governors No Toss Ups
     *   RCP House Map
     *   Current House
     *   Generic Congressional Ballot
@@ -65,9 +65,9 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   RCP Election 2018
         *   Election 2018
         *   RCP Senate Map
-        *   Current Senate
+        *   Senate No Toss Ups
         *   RCP Governors Map
-        *   Current State Houses
+        *   Governors No Toss Ups
         *   RCP House Map
         *   Current House
         *   Generic Congressional Ballot
@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Noah Rothman_: Dems Have Disgraced Themselves Over Kavanaugh
+*   _Ezra Klein_: Kavanaugh Allegations Are About the Present, Not Just the Past
     
-*   _Frank Bruni_: Democrats' Top-Secret Formula for Victory
+*   _David Harsanyi_: Why Republicans Must Not Surrender to Cynical Dem Ploy
     
-*   _Kimberley Strassel_: How Republicans Can Persuade Voters in Swing Districts
+*   _John Harris_: Why God Is Laughing at Brett Kavanaugh
     
-*   _Chris Cillizza_: Manafort's Cooperation Deal Tightens the Vise on Trumpworld
+*   _Doug Usher_: Historic Midterm Trends Tell Us...Nothing
     
-*   _Roger Kimball_: Truth About Sham Mueller Probe Will Eventually Come Out
+*   _Charles Blow_: Not Deranged. Democrats Are Determined!
     
-*   _Matt Ford_: Robert Mueller Is Winning Against Trump
+*   _Thomas Lifson_: Why Mueller's Russia Hoax Is a Constitutional Crisis
     
-*   _John Solomon_: Lisa Page: FBI Couldn't Show Collusion Before Mueller Probe
+*   _Michael Kazin_: The Origins of America's Enduring Divisions
     
-*   _Bari Weiss_: Money Talks. Will the Republican Party Listen?
+*   _Mary Eberstadt_: The Elephant in the Sacristy, Revisited
     
-*   _Ben Boychuk_: Why Obama Is Great for Republicans
+*   _John Tamny_: No, Paul Volcker Didn't Spark the Reagan Economic Boom
     
-*   _Smith &. Rozell_: Cruz-O'Rourke Increasingly Looks Like Allen-Webb
+*   _Thierry Cruvellier_: Why the ICC Should Rejoice When America Attacks It
     
-*   _Matt Friedman_: Bob Menendez's Political Fight for Survival in New Jersey
+*   _Rebeccah Heinrichs_: Bolton Underscores Administration Putting U.S. First
     
-*   _Carl Cannon_: Trump Is Half-Right About Puerto Rico Deaths
+*   _Myron Magnet_: Committee Vote on Kavanaugh Should Proceed as Planned
     
-*   _John Davidson_: Time to End America's Forever War in Afghanistan
+*   _David Lat_: Delay the Vote--for Kavanaugh, for His Accuser &. for the Court
     
-*   _Phillips &. Russell_: Roots of Next Financial Calamity Are Here
+*   _John Fund_: The Problem With Democrats' 'Anita Hill' Strategy
     
-*   _Michael Cannivet_: Don't Ignore Mark-to-Market's Role in 2008 Meltdown
+*   _Emma Goldberg_: Angry Women Will Protect the U.S. From Kavanaugh
     
-*   _Guy Bentley_: The FDA's Assault on Vaping Is a Gift to Big Tobacco
+*   _Pitlyk &. Taibleson_: Kavanaugh Is a Man of Rock-Solid Character, Integrity
     
-*   _Molly Roberts_: Google's Day of Reckoning Is Finally at Hand
+*   _Hillary Clinton_: American Democracy Is in Crisis
     
-*   _Neil Irwin_: Policymakers Saved Financial System--&. U.S. Never Forgave Them
+*   _Andrew McCarthy_: Russia Probe Was Always an Investigation Without a Crime
     
-*   _Dean Baker_: The Bank Bailout of 2008 Was Unnecessary
+*   _David Leonhardt_: 'Trump Derangement Syndrome' Is a Myth
     
-*   _Kotkin &. Cox_: Ten Years After Lehman Collapsed, We're Still Screwed
+*   _Charles Hurt_: D.C. Swamp Still Reeling From Hurricane Donald
     
-*   _Anand Giridharadas_: How Wall Street Avoided Justice
+*   _Bill Scher_: The Pragmatist Wing of Democratic Party Strikes Back
     
-*   _Kathleen Parker_: An 11th Hour Attempt to Slander Brett Kavanaugh
+*   _Liz Peek_: A Dem Takeover of Congress Would Crush the Good Times
     
-*   _Gabriel Sherman_: The President Is Seeing Enemies Everywhere
+*   _Christopher Balding_: A Roadmap for the Great U.S.-China Divorce
     
-*   _Larry O'Connor_: FBI's 'Leak Strategy' Against Trump Needed a Complicit Media
+*   _Jackson Diehl_: Trump's Foreign Policy Has Devolved Into Chaos
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Woman Accusing Kavanaugh of Sexual Misconduct Comes Forward
 *   Hurricane Donald: Trump Creates a New Twitter Storm
+*   Woodward: No Evidence of Collusion, I Searched for Two Years
 *   Cuomo Cruises Past Nixon in NY Gubernatorial Primary
-*   Graham: Latest Stzrok/Page Texts Scream for Second Special Counsel
 *   Kavanaugh Fight Has Vulnerable Dems Ducking for Cover
-*   Obama, on Campaign Swing, Urges "Sanity in Our Politics"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Nevada Senate - Heller vs. RosenGravis
-    *   Rosen47
-    *   Heller45Rosen +2
-*   Minnesota Senate Special Election - Housley vs. SmithStar Tribune/Mason-Dixon
-    *   Smith44
-    *   Housley37Smith +7
-*   Minnesota Senate - Newberger vs. KlobucharStar Tribune/Mason-Dixon
-    *   Klobuchar60
-    *   Newberger30Klobuchar +30
-*   Nevada Governor - Laxalt vs. SisolakGravis
-    *   Sisolak50
-    *   Laxalt38Sisolak +12
+*   Florida 26th District - Curbelo vs. Mucarsel-PowellNY Times/Siena
+    *   Curbelo47
+    *   Mucarsel-Powell44Curbelo +3
+*   Arizona Senate - McSally vs. SinemaCNN
+    *   Sinema50
+    *   McSally43Sinema +7
+*   Missouri Senate - Hawley vs. McCaskillTrafalgar Group (R)
+    *   Hawley47
+    *   McCaskill44Hawley +3
+*   Tennessee Senate - Blackburn vs. BredesenCNN
+    *   Bredesen50
+    *   Blackburn45Bredesen +5
 
 More Latest Polls In The News
 
+*   Trump Backs Kavanaugh: "One Of The Finest People I've Ever Known," One Of The Great Intellects
+*   Sen. Duckworth on Kavanaugh: Normal Behavior For Sexual Trauma Victims To "Wait Until The Last Minute"
 *   Ret. General Mike Flynn: It Is Time To Buckle Down And Stand Up To Fight For Our Way of Life
 *   Nunes: Shocking Number Of Americans "Drank Russia Kool-Aid," Truly Believe GOP Is Controlled By Kremlin
-*   James O'Keefe Teases "Deep State Unmasked" Documentary, Most Of Them "Brag They Can't Get Fired"
-*   Adam Schiff: Only Person Who Is Draining The Swamp Is Robert Mueller. Trump Trying To Pardon The Swamp
-*   David Brooks: "Democrats Have Not Swung Super Far Left," Mostly Establishment Candidates Won
+*   Woodward: No Evidence Of Collusion Between Trump and Russia, I Searched "Hard" For Two Years
 
 *   Politics
 *   Policy
