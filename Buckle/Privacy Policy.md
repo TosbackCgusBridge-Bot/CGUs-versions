@@ -304,8 +304,6 @@ WOMEN'S SALE DENIM IS NOW AN EXTRA 33% OFF – SHOP NOW.
         *   Accessories BOGO Free
         *   Sale Under $25
         *   Men's Barbershop Sale
-        *   Extra 10% Off Select Sale
-        *   Extra 20% Off Select Sale
         
         *   Women's Sale
         
@@ -466,7 +464,6 @@ Returns
 
 Promotions
 
-*   Double Points
 *   All Promotions
 *   Store Events
 *   Military Discount
