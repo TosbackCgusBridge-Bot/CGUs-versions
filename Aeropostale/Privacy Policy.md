@@ -46,6 +46,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Girls ) Girls
 
 *   View Home
+*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -61,9 +62,8 @@ Close submenu ( Girls ) Girls
 *   Clearance
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
-*   Open submenu ( Collections ) Collections
 
-Close submenu ( Collections ) Collections
+Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
@@ -116,6 +116,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
+*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -127,9 +128,8 @@ Close submenu ( Guys ) Guys
 *   Cologne
 *   Clearance
 *   Extended Sizes
-*   Open submenu ( Collections ) Collections
 
-Close submenu ( Collections ) Collections
+Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
@@ -283,12 +283,9 @@ Menu Find a Store Aeropostale
 *   Girls
     
     *   View Home
-    *   Collections
+    *   Featured
         *   View All
         *   New Arrivals
-        *   SWIM SALE
-        *   3 for $12 Undies
-        *   Buy 1 Get 2 Socks
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -344,10 +341,9 @@ Menu Find a Store Aeropostale
 *   Guys
     
     *   View Home
-    *   Collections
+    *   Featured
         *   View All
         *   New Arrivals
-        *   Buy 1 Get 2 Accessories
         *   Uniform
         *   Denim Guide
         *   Flex Effects
