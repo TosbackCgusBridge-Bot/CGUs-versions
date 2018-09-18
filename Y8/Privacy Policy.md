@@ -3,44 +3,44 @@
 *   games
 *   videos
 
-New Games Next in  24:03 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  22:28 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 24:03
-*   Best of new games 1462 games
-*   Most Popular Games 17966 games
+*   New Games Next in 22:28
+*   Best of new games 1465 games
+*   Most Popular Games 17968 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,147 games
-*   Driving &. Racing Games 6,661 games
+*   Games for girls 23,153 games
+*   Driving &. Racing Games 6,663 games
 *   Strategy &. RPG Games 2,373 games
-*   Management Games 3,642 games
-*   Thinking Games 11,644 games
-*   Action &. Adventure Games 15,659 games
+*   Management Games 3,644 games
+*   Thinking Games 11,647 games
+*   Action &. Adventure Games 15,660 games
 *   Sports Games 2,096 games
-*   Shooting Games 8,119 games
+*   Shooting Games 8,121 games
 *   Fighting Games 2,070 games
-*   Skill Games 10,229 games
-*   Arcade &. Classic Games 12,551 games
-*   Fun &. Crazy Games 2,419 games
+*   Skill Games 10,233 games
+*   Arcade &. Classic Games 12,552 games
+*   Fun &. Crazy Games 2,423 games
 
 Tags
 
-*   House180
-*   Hidden1,526
-*   Role Playing293
-*   1 player66,484
-*   Y8 Account2,562
-*   Funny615
+*   Blood1,292
+*   Dog715
+*   Vampire80
+*   Decorate1,736
+*   Puzzle7,064
+*   3+ Player81
 *   View All Tags 372
 
 Play with friends  
 Powered by Y8 Account 124 Y8 Multiplayer Games 1,565 Y8 High Score Games 987 Y8 Achievements Games 769 Y8 Screenshots Games 1,293 Y8 Online Save Games 2,562 All Y8 Games Games Last Highscore:
 
-**471,810** points on Farm Frenzy 2 by jakkajeee2
+**40** points on Masked Forces by Nash
 
 *   Contact Form
 *   Submit a Game or Video
@@ -50,7 +50,7 @@ Powered by Y8 Account 124 Y8 Multiplayer Games 1,565 Y8 High Score Games 987 Y8 
 *   Cookie Policy
 *   Terms of Use
 
-Bad translation? Register Log in My Profile 0 points
+Bad translation? Share889K Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
@@ -274,4 +274,4 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Privacy Policy
 *   Cookie Policy
 
-We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
+Share889K We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
