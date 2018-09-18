@@ -5,39 +5,36 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   The Predator (2018)
     *   The Nun (2018)
+    *   A Simple Favor
+    *   White Boy Rick
     *   Crazy Rich Asians
     *   Peppermint (2018)
     *   The Meg
     *   Searching (2018)
+    *   Unbroken: Path to Redemption
     *   Mission: Impossible - Fallout
     *   Christopher Robin
-    *   Operation Finale
-    *   Alpha
-    *   BlacKkKlansman
-    *   God Bless the Broken Road
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Predator (2018)
-    *   A Simple Favor
-    *   Unbroken: Path to Redemption
-    *   White Boy Rick
-    *   American Chaos
-    *   Antonio Lopez 1970: Sex Fashion &. Disco
-    *   Armed
-    *   Bel Canto
-    *   The Children Act
-    *   The Dawn Wall
-    *   Don't Leave Home
+    *   Fahrenheit 11/9
+    *   The House with a Clock in its Walls
+    *   Life Itself (2018)
+    *   American Dresser (2018)
+    *   Assassination Nation
+    *   Colette (2018)
+    *   Garry Winogrand: All Things Are Photographable
+    *   The Great Battle
+    *   Love, Gilda
+    *   The Pagan King
+    *   The Sisters Brothers
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Fahrenheit 11/9
-    *   The House with a Clock in its Walls
-    *   Life Itself (2018)
     *   Hell Fest
     *   Little Women (2018)
     *   Night School (2018)
@@ -45,6 +42,9 @@ Gift Cards | Offers | Sign In Sign Out
     *   A Star Is Born (2018)
     *   Venom (2018)
     *   First Man
+    *   Bad Times at the El Royale
+    *   Goosebumps 2: Haunted Halloween
+    *   Halloween (2018)
     *   See All Coming Soon
     
     Explore More
@@ -72,9 +72,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Buzz on the Hottest Movies at the Toronto Film Festival Read More
-    *   The Week in Movie News: 'Hobbs and Shaw' First Look, Toronto Film Festival Buzz and More Read More
-    *   A Blow-by-Blow of the 'Creed II' Set Visit Read More
+    *   Next 3 Unexpected Horror-Franchise Installments: 'Halloween,' 'Glass,' 'Doctor Sleep' Read More
+    *   Exclusive Behind the Scenes Look at 'Solo: A Star Wars Story' Read More
+    *   First Look at Joaquin Phoenix in 'Joker'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -328,6 +328,10 @@ Offers
 *   FandangoNOW Fresh Picks: September
     
     100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    
+*   'Hell Fest' Gift with Purchase
+    
+    Buy tickets to 'Hell Fest' and get a FREE\* t-shirt with ticket purchase (S&H not included). BUY TICKETS
     
 
 New + Coming soon
