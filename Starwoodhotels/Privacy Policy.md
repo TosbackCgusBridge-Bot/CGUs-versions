@@ -1,4 +1,4 @@
-TRAVEL ALERT:  We are experiencing high call volume due to Hurricane Florence. For immediate action, please use Marriott.com or the Marriott mobile app to change or cancel your reservation. For the latest information, please go to news.marriott.com. X Skip Main Navigation
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyTRAVEL ALERT:  We are experiencing high call volume due to Hurricane Florence. For immediate action, please use Marriott.com or the Marriott mobile app to change or cancel your reservation. For the latest information, please go to news.marriott.com. X Skip Main Navigation
 
 expand
 
@@ -171,7 +171,7 @@ THE RITZ CARLTON REWARDS Marriott Rewards Starwood Preferred Guest
     Remember me
     
     *   Forgot password
-    *   Create online accountOr sign in using: Sign in to your account with Facebook
+    *   Create online accountOr sign in using:
 *   My Account: Sign In • Join Now
 
 PRIVACY CENTER
@@ -552,5 +552,3 @@ Marriott For:
 Best Available Rate Guarantee assures you receive the best rates when you book directly with us. If you find a lower publicly available rate within 24 hours of booking, we will match that rate plus give you 25% off the lower rate, subject to guarantee terms and exclusions. Guarantee does not apply to Ritz-Carlton Montreal, The Ritz London, Ritz-Carlton Residences®, and Starwood-Branded Hotels, including Four Points Hotels, Sheraton Hotels, Aloft Hotels, W Hotels, Le Meridien Hotels, Luxury Collection Hotels, Element Hotels, Westin Hotels, St. Regis Hotels, Tribute Portfolio Hotels and Design Hotels. Marriott Rewards® and The Ritz-Carlton Rewards® members (“Rewards Members”) who book rooms through a Marriott® Direct Booking Channel, authorized travel agents or select corporate travel partners ("Eligible Channels") at hotels that participate in Marriott Rewards® and The Ritz-Carlton Rewards loyalty programs will receive an exclusive, preferred rate (“Marriott Rewards Member Rate”). Member Rates are available globally at all hotels that participate in Marriott Rewards. Exclusions apply. See our Terms &. Conditions for additional details related to our Best Available Rate Guarantee and Marriott Rewards Member Rate. Hotels shown on Marriott.com may be operated under a license from Marriott International, Inc. or one of its affiliates.
 
 © 1996 - 2018 Marriott International, Inc. All rights reserved. Marriott proprietary information
-
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
