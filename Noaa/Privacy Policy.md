@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Tropical Depression Florence continues to batter the Carolinas Life-threatening, catastrophic flash floods and prolonged river flooding likely AROUND NOAA // Evaluating Florence damage from the air: NOAA begins aerial surveys \[EXT\] Summer 2018 ranked 4th hottest on record for U.S. Ask the scientist: How can the weather spark and spread wildfires?
+Enter Search Terms Florence moves north bringing heavy rain to parts of the Mid-Atlantic Life-threatening flash floods and prolonged river flooding to continue AROUND NOAA // Evaluating Florence damage from the air: NOAA begins aerial surveys \[EXT\] Summer 2018 ranked 4th hottest on record for U.S. Ask the scientist: How can the weather spark and spread wildfires?
 
 *   About our agency
 *   News and features
