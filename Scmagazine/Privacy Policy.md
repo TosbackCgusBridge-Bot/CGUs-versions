@@ -42,8 +42,8 @@ Menu Close
         *   Director's Cut Videos
 *   EventsOpen Submenu
     *   Events Back
+        *   RiskSec 2019
         *   SC Awards 2019
-        *   RiskSec NY 2018
         *   Webcasts
         *   Virtual Conferences
 *   Resource Library
