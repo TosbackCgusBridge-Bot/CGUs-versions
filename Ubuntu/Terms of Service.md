@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Optimised Ubuntu Desktop images available in Microsoft Hyper-V gallery ›
 *   Fresh Snaps from August 2018 ›
 *   Financial services: escaping the burning platform ›
 *   Leading the Vanilla design system ›
 *   Key considerations when choosing a robot’s operating system ›
-*   Robots that run Ubuntu ›
