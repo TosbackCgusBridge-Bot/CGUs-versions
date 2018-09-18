@@ -52,7 +52,7 @@ Borrow for your business with affordable business loans. Learn more
 
 Get live support and seller protection.
 
-Get Started Send money to friends and family.
+Get Started Support Hurricane Florence Relief View Charities &. Donate Send money to friends and family.
 
 It's free to send money to friends and family in the U.S. when you use your bank account or PayPal balance.\*
 
@@ -105,4 +105,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=a19f14ee52599&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&csci=92d2f4484657489e97255ce515b37840&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&tmpl=home.dust&pgst=Unknown&calc=e368398e7d41c&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&csci=bec4b38d1a6c4ea9acd2934d99eb4a64&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&ccpg=us&bzsr=main&bchn=mktg&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
