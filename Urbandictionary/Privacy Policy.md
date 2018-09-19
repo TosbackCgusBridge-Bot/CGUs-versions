@@ -1,32 +1,32 @@
-Top definition privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 326 88 Get a privacy mug for your grandma Yasemin.2 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 147 77 Get a privacy mug for your fish Larisa.3 privacyunknownWhat was violated by the Patriot Act, and is now going to be violated in the near future by the National ID... that's right folks, you won't be able to hop on a plane without getting red lights shoved in your eye.Read it and weep. America is becoming the place for advertisements, pornography, and a complete lack of privacy.by ~The Nameless One~ June 03, 2005 100 61 Get a privacy mug for your mate Yasemin.4 privacyunknownsomething that Tokio Hotel don't have.They need privacy.#tokio hotel#privacy#celeb#private#lifeby zimmer483 October 12, 2011 18 10 Get a privacy mug for your Facebook friend Larisa.5 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 5 3 Get a privacy mug for your fish Manafort.Trending RN - September 17, 2018
+Top definition privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 326 88 Get a privacy mug for your Facebook friend Trump.2 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 148 77 Get a privacy mug for your grandma Riley.3 privacyunknownWhat was violated by the Patriot Act, and is now going to be violated in the near future by the National ID... that's right folks, you won't be able to hop on a plane without getting red lights shoved in your eye.Read it and weep. America is becoming the place for advertisements, pornography, and a complete lack of privacy.by ~The Nameless One~ June 03, 2005 101 61 Get a privacy mug for your brother Vivek.4 privacyunknownsomething that Tokio Hotel don't have.They need privacy.#tokio hotel#privacy#celeb#private#lifeby zimmer483 October 12, 2011 18 10 Get a privacy mug for your fish Günter.5 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 5 3 Get a privacy mug for your father-in-law Paul.Trending RN - September 18, 2018
 
-*     1.  half a bubble off plumb
-*     2.  Greg Paul
-*     3.  dick soak
-*     4.  Gorger
-*     5.  fuckor
-*     6.  goosh goosh
-*     7.  Periodtt
-*     8.  if a frog had wings
-*     9.  Horizontally Challenged
-*   10.  one-upped
-*   11.  over the moon
-*   12.  cammer
-*   13.  alphet
-*   14.  GOTIS
-*   15.  negger
-*   16.  syg
-*   17.  Beef tings
-*   18.  Clip that
-*   19.  Sugma
-*   20.  Fake Chow
-*   21.  dickie
-*   22.  kunji
-*   23.  Skanger
-*   24.  42069
-*   25.  a circle
-*   26.  pentz
-*   27.  Strop
-*   28.  slaying lewks
-*   29.  Sunday Scaries
-*   30.  fem
+*     1.  tweaking
+*     2.  Devils Triangle
+*     3.  Skanger
+*     4.  negger
+*     5.  Turn it up to eleven
+*     6.  Clip that
+*     7.  Nightwalk
+*     8.  invoke
+*     9.  The Triceratops
+*   10.  Hitachi
+*   11.  RHM
+*   12.  GOTIS
+*   13.  Bermuda Triangle
+*   14.  a circle
+*   15.  Triceratops Sex Position
+*   16.  Oh Honey!
+*   17.  tuh
+*   18.  Mackinaw Peaches
+*   19.  how about no
+*   20.  grilled
+*   21.  mondaze
+*   22.  floosy
+*   23.  Uncle Charlie
+*   24.  syg
+*   25.  The R-word
+*   26.  dick soak
+*   27.  where's the blow
+*   28.  pedo guy
+*   29.  Charlie Work
+*   30.  straw trick
