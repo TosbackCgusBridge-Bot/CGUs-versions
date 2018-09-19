@@ -181,8 +181,6 @@ Free trial Search
     *   LinkedIn
     *   YouTube
 
-Thomson Reuters
-
 *   Cookie policy
 *   Terms of use
 *   Privacy statement
