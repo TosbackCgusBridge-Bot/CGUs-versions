@@ -1,4 +1,4 @@
-**Last Revised: August 20, 2018**
+**Last Revised: September 18, 2018**
 
 _**To view our archived Privacy Policy, click here.**_  
 
@@ -133,7 +133,7 @@ We reserve the right to modify this Privacy Policy at any time. If we decide to 
 
 **Data Protection Authority.**
 
-If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the UK's Information Commissioner’s Office, as noted below:
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to your local supervisory authority or our lead supervisory authority, the UK's Information Commissioner’s Office, as noted below:
 
 www.ico.org.uk
 
