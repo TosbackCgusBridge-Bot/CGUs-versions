@@ -1,5 +1,6 @@
-skip to content skip to navigation skip to search Lands' End SIGN IN MY ACCOUNT
+skip to content skip to navigation skip to search
 
+*   Track My Order
 *   Stores
 *   Gift Cards
 *   Business Outfitters
@@ -17,21 +18,17 @@ skip to content skip to navigation skip to search Lands' End SIGN IN MY ACCOUNT
     *   FAQ
     *   Chat
 
-Close
+Hi, Sign in My Account
 
-*   Hi, Sign in  
-    **My Account**
-    *   Sign In
-    *   Create an Account
-    
-    *   Manage Account
-    *   Edit Order
-    *   Order History
-    *   Refer a Friend
-    *   Sign Out
-*   Bag 0
+*   Sign In
+*   Create an Account
 
-menu Close 0 Free Shipping on $50+
+*   Manage Account
+*   Edit Order
+*   Order History
+*   Refer a Friend
+
+Bag 0
 
 *   New SHOP NEW ARRIVALS
     
@@ -48,7 +45,7 @@ menu Close 0 Free Shipping on $50+
     
     BLOG
     *   The Journal
-*   Women WOMEN'S CLOTHING >.
+*   Women WOMEN'S CLOTHING >
     
     *   Coats &. Jackets
     *   Fleece
@@ -74,7 +71,7 @@ menu Close 0 Free Shipping on $50+
     *   Petite Plus
     *   Tall Plus
     
-    PLUS SIZE CLOTHING >.
+    PLUS SIZE CLOTHING >
     
     *   Plus Size Coats &. Jackets
     *   Plus Size Fleece
@@ -87,7 +84,7 @@ menu Close 0 Free Shipping on $50+
     *   Plus Size Pajamas &. Robes
     *   Plus Size Exclusive Styles
     
-    WOMEN'S SHOES >.
+    WOMEN'S SHOES >
     
     *   Casual &. Comfortable Shoes
     *   Slip-On Flats &. Loafers
@@ -95,11 +92,11 @@ menu Close 0 Free Shipping on $50+
     *   Slippers
     *   Sandals
     
-    WOMEN'S ACCESSORIES >. WOMEN'S BAGS >. FEATURED SHOPS
+    WOMEN'S ACCESSORIES >WOMEN'S BAGS >FEATURED SHOPS
     *   New Arrivals
     *   The Starfish Collection
     *   Tunic Shop
-    *   The Heritage CollectionWOMEN'S SALE >.
+    *   The Heritage CollectionWOMEN'S SALE >
 *   Men SHOP BY SIZE RANGE
     
     *   Regular
@@ -114,7 +111,7 @@ menu Close 0 Free Shipping on $50+
     *   Supima Shirts &. Sweaters
     *   The Heritage Collection
     
-    MEN'S SALE >. MEN'S CLOTHING >.
+    MEN'S SALE >MEN'S CLOTHING >
     
     *   Coats &. Jackets
     *   Fleece
@@ -133,7 +130,7 @@ menu Close 0 Free Shipping on $50+
     *   Pajamas &. Robes
     *   Underwear &. Long Underwear
     
-    MEN'S BAGS >. MEN'S SHOES >.
+    MEN'S BAGS >MEN'S SHOES >
     
     *   Athletic &. Water
     *   Casual
@@ -142,7 +139,7 @@ menu Close 0 Free Shipping on $50+
     *   Dress
     *   Slippers
     
-    MEN'S ACCESSORIES >.
+    MEN'S ACCESSORIES >
     *   Belts
     *   Socks
     *   Ties
@@ -172,7 +169,7 @@ menu Close 0 Free Shipping on $50+
     *   Kids' Pajama Shop
     *   The Heritage Collection
     
-    Kids' Sale>. Girls' Clothing>.
+    Kids' Sale>Girls' Clothing>
     
     *   Girls' Backpacks
     *   Girls' Coats &. Jackets
@@ -191,7 +188,7 @@ menu Close 0 Free Shipping on $50+
     *   Girls' Shoes
     *   Girls' Accessories
     
-    Boys' Clothing>.
+    Boys' Clothing>
     *   Boys' Backpacks
     *   Boys' Coats &. Jackets
     *   Boys' Swimsuits
@@ -207,7 +204,7 @@ menu Close 0 Free Shipping on $50+
     *   Boys' Pajamas &. Robes
     *   Boys' Shoes
     *   Boys' Accessories
-*   Outerwear WOMEN'S COATS &. JACKETS >.
+*   Outerwear WOMEN'S COATS &. JACKETS >
     
     *   Women's Coats
     *   Plus Size Coats
@@ -222,7 +219,7 @@ menu Close 0 Free Shipping on $50+
     *   Women's Fleece Jackets
     *   Women's Winter Vests
     
-    MEN'S COATS &. JACKETS >.
+    MEN'S COATS &. JACKETS >
     
     *   Men's Coats
     *   Men's Tall Coats
@@ -236,7 +233,7 @@ menu Close 0 Free Shipping on $50+
     *   Men's Fleece Jackets
     *   Men's Winter Vests
     
-    GIRLS' COATS &. JACKETS >.
+    GIRLS' COATS &. JACKETS >
     
     *   Big Girl (7-20)
     *   Little Girl (4-7)
@@ -247,7 +244,7 @@ menu Close 0 Free Shipping on $50+
     *   Girls' Fleece Jackets
     *   Girls' Winter Vests
     
-    BOYS' COATS &. JACKETS >.
+    BOYS' COATS &. JACKETS >
     
     *   Big Boy (7-20)
     *   Little Boy (4-7)
@@ -269,7 +266,7 @@ menu Close 0 Free Shipping on $50+
     
     FEATURED SHOPS
     *   The Weather Channel Collection
-    *   The Heritage CollectionOUTERWEAR SALE >.
+    *   The Heritage CollectionOUTERWEAR SALE >
 *   Bags SHOP BAGS
     
     *   View All
@@ -287,7 +284,7 @@ menu Close 0 Free Shipping on $50+
     *   Men
     *   Girls
     *   Boys
-*   Swim WOMEN'S SWIMSUITS>.
+*   Swim WOMEN'S SWIMSUITS>
     
     *   Women's Swim Sale
     *   Tankinis &. Bikinis
@@ -301,7 +298,7 @@ menu Close 0 Free Shipping on $50+
     *   Mastectomy Swimsuits
     *   Long Torso Swimsuits
     
-    GIRLS' SWIMSUITS>.
+    GIRLS' SWIMSUITS>
     
     *   Girls' Swim Sale
     *   Tankini &. Bikini Separates
@@ -310,13 +307,13 @@ menu Close 0 Free Shipping on $50+
     *   Rash Guards &. Swim Shirts
     *   Cover-ups
     
-    BOYS' SWIMSUITS>.
+    BOYS' SWIMSUITS>
     
     *   Boys' Swim Sale
     *   Swim Trunks
     *   Rash Guards &. Swim Shirts
     
-    MEN'S SWIMWEAR>.
+    MEN'S SWIMWEAR>
     
     *   Men's Swim Sale
     *   Swim Trunks
@@ -334,7 +331,7 @@ menu Close 0 Free Shipping on $50+
     *   Women's Mix &. Match Tool
     *   Kids' Swim Shop
     *   Sale
-*   School FIND YOUR SCHOOL>. FEATURED SHOPS
+*   School FIND YOUR SCHOOL>FEATURED SHOPS
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
@@ -353,7 +350,7 @@ menu Close 0 Free Shipping on $50+
     *   Young Men
     *   Adult
     
-    Girls &. Women>.
+    Girls &. Women>
     
     *   Tops
     *   Sweaters
@@ -368,7 +365,7 @@ menu Close 0 Free Shipping on $50+
     *   Accessories
     *   Backpacks &. Bags
     
-    Boys &. Men>.
+    Boys &. Men>
     *   Tops
     *   Sweaters
     *   Pants
@@ -379,14 +376,14 @@ menu Close 0 Free Shipping on $50+
     *   Shoes
     *   Accessories
     *   Backpacks &. Bags
-*   Home BATH >.
+*   Home BATH >
     
     *   Towels
     *   Rugs &. Mats
     *   Beach Towels
     *   Shower Curtains
     
-    BEDDING >.
+    BEDDING >
     
     *   Sheets &. Pillowcases
     *   Duvet Covers
@@ -399,13 +396,13 @@ menu Close 0 Free Shipping on $50+
     *   Coverlets
     *   Quilts
     
-    HOLIDAY &. CHRISTMAS DECORATIONS >.
+    HOLIDAY &. CHRISTMAS DECORATIONS >
     
     *   Personalized Christmas Stockings
     *   Christmas Ornaments
     *   Christmas Candy &. Treats
     
-    More for the Home >.
+    More for the Home >
     
     *   Outdoor Furniture
     *   Storage &. Organization
@@ -414,7 +411,7 @@ menu Close 0 Free Shipping on $50+
     *   Entertaining
     *   Summer Decor &. Entertaining
     
-    DOG SHOP >. KIDS ROOM >.
+    DOG SHOP >KIDS ROOM >
     
     *   Kids Bedding
     *   Kids Towels
@@ -428,8 +425,8 @@ menu Close 0 Free Shipping on $50+
     *   New Arrivals
     *   Supima Bedding &. Bath
     *   Bedding Basics
-    *   The Heritage CollectionHOME SALE >.
-*   Sale WOMEN'S SALE >.
+    *   The Heritage CollectionHOME SALE >
+*   Sale WOMEN'S SALE >
     
     *   Regular
     *   Plus
@@ -439,7 +436,7 @@ menu Close 0 Free Shipping on $50+
     *   Shoes
     *   Accessories
     
-    MEN'S SALE >.
+    MEN'S SALE >
     
     *   Regular
     *   Tall
@@ -448,14 +445,14 @@ menu Close 0 Free Shipping on $50+
     *   Shoes
     *   Accessories
     
-    GIRLS' SALE >.
+    GIRLS' SALE >
     
     *   Toddler Girls (2T-4T)
     *   Little Girls (size 4-7)
     *   Big Girls (size 7-16)
     *   Girls' Plus Sizes
     
-    BOYS' SALE >.
+    BOYS' SALE >
     
     *   Toddler Boys (2T-4T)
     *   Little Boys (size 4-7)
@@ -467,8 +464,12 @@ menu Close 0 Free Shipping on $50+
     *   Kids' Shoes
     *   Kids' Accessories
     
-    HOME SALE >. BAGS SALE >. SCHOOL UNIFORMS SALE >. FEATURED SHOPS
+    HOME SALE >BAGS SALE >SCHOOL UNIFORMS SALE >FEATURED SHOPS
     *   On The Counter
+
+Lands' End Sign In menu
+
+0 Free Shipping on $50+ Orders
 
 *   New
     *   Back
@@ -946,7 +947,7 @@ menu Close 0 Free Shipping on $50+
         *   Back
         *   On The Counter
 *   Business Outfitters
-*   Hi, Sign in My Account
+*   Hi, Sign inMy Account
     *   Back
     *   Sign In
     *   Create an Account
@@ -954,12 +955,13 @@ menu Close 0 Free Shipping on $50+
     *   Edit Order
     *   Order History
     *   Refer a Friend
-    *   Sign Out
-*   Contact us Call Text Chat Email
+*   Contact Us Call Text Chat Email
 *   Track My Order
 *   Stores
 *   Gift Cards
-*   Ship To 
+*   Business Outfitters
+*   Call or Text 1-800-963-4816
+*   Ship To
 *   Help
     *   Back
     *   Customer Service
@@ -970,9 +972,9 @@ menu Close 0 Free Shipping on $50+
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: RAIN pin: 8061 DETAILS
+code: CIDER pin: 1350 DETAILS
 
 Customer Service Menu
 
@@ -1169,11 +1171,7 @@ Addendum to Privacy Policy Page Text Message Terms of Use
 9.  If you have any questions, email us at talkback@landsend.com. You can also text the word HELP to 77344 to get additional information about the service. We do not charge for help or info messages. however, your normal carrier rates apply.
 10.  Terms are subject to change.
 
-sign up **Get exclusive Offers and News** Privacy Policy &. Contact Info sign up
-
-U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy
-
-Customer Service Chat
+sign up **Get exclusive Offers and News** Privacy Policy &. Contact Info sign up U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy Customer Service Chat
 
 *   Call Text Chat Email
 *   **Call or text us 1-800-963-4816**
