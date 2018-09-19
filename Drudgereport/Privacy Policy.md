@@ -166,15 +166,15 @@ LATEST ON TWITTER
 
 This just in from the blog: Justin Hansen Honored For Q2 Publisher Success! INTERMARKETS + @STAQ intermarkets.net/201…
 
-About 5 days ago
+About 6 days ago
 
 Congratulations to our own Justin Hansen, Yield Manager, for winning the Q2 Top of the @STAQ award. Much deserved and we are all proud of you! staq.com/blog
 
-About 5 days ago
+About 6 days ago
 
 Congrats to our own Justin Hansen for winning the Q2 Top of the @STAQ award! Justin was able to double the CPM of one of our publishers in less than a month! staq.com/blog/2018/9…
 
-About 6 days ago
+Last week
 
 ICYMI: Publishers Turn to White-Glove Services for Ad Buying and Management Needs econtentmag.com/Arti…
 
