@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Ezra Klein_: Kavanaugh Allegations Are About the Present, Not Just the Past
+*   _Noemie Emery_: Democrats' Sleazy Attack Comes From an Old Playbook
     
-*   _David Harsanyi_: Why Republicans Must Not Surrender to Cynical Dem Ploy
+*   _Anita Hill_: How to Get the Kavanaugh Hearings Right
     
-*   _John Harris_: Why God Is Laughing at Brett Kavanaugh
+*   _Andrea Peyser_: Accuser's Fuzzy Memory Shouldn't Bring Down Kavanaugh
     
-*   _Doug Usher_: Historic Midterm Trends Tell Us...Nothing
+*   _Dick Polman_: Kavanaugh Could Widen the Midterms' Gender Gap
     
-*   _Charles Blow_: Not Deranged. Democrats Are Determined!
+*   _Keith Koffler_: Why the Kavanaugh Ploy Will Backfire on Dems
     
-*   _Thomas Lifson_: Why Mueller's Russia Hoax Is a Constitutional Crisis
+*   _Timothy Heaphy_: What Trump Doesn't Get About Defendants Who Flip
     
-*   _Michael Kazin_: The Origins of America's Enduring Divisions
+*   _Mark Penn_: Time for Sunshine on Trump-Russia Investigation
     
-*   _Mary Eberstadt_: The Elephant in the Sacristy, Revisited
+*   _Juliana Knot_: Botched NYT Hit on Haley Shows Liberals Fear Her
     
-*   _John Tamny_: No, Paul Volcker Didn't Spark the Reagan Economic Boom
+*   _Nic Robertson_: Only a Fool Takes Vladimir Putin at His Word in Syria
     
-*   _Thierry Cruvellier_: Why the ICC Should Rejoice When America Attacks It
+*   _Gil Barndollar_: In Syria, Assad Has Won and America Must Go
     
-*   _Rebeccah Heinrichs_: Bolton Underscores Administration Putting U.S. First
+*   _Cass Sunstein_: The Problem With All Those Liberal Professors
     
-*   _Myron Magnet_: Committee Vote on Kavanaugh Should Proceed as Planned
+*   _Baker &. Hulse_: Echoes of Anita Hill, But in a Different Era for Women
     
-*   _David Lat_: Delay the Vote--for Kavanaugh, for His Accuser &. for the Court
+*   _Rich Lowry_: Kavanaugh Meets Kafka in Kangaroo Court
     
-*   _John Fund_: The Problem With Democrats' 'Anita Hill' Strategy
+*   _Caitlin Flanagan_: I Believe Christine Ford
     
-*   _Emma Goldberg_: Angry Women Will Protect the U.S. From Kavanaugh
+*   _Roger Kimball_: Smears Didn't Work on Thomas, Shouldn't Work Now Either
     
-*   _Pitlyk &. Taibleson_: Kavanaugh Is a Man of Rock-Solid Character, Integrity
+*   _Michelle Goldberg_: Boys Will Be Supreme Court Justices
     
-*   _Hillary Clinton_: American Democracy Is in Crisis
+*   _William McGurn_: It's Susan Collins's Moment
     
-*   _Andrew McCarthy_: Russia Probe Was Always an Investigation Without a Crime
+*   _Byron York_: Republicans See Signs of Hope in Tough Midterm Landscape
     
-*   _David Leonhardt_: 'Trump Derangement Syndrome' Is a Myth
+*   _Chris Cillizza_: It's NOT the Economy, Stupid!
     
-*   _Charles Hurt_: D.C. Swamp Still Reeling From Hurricane Donald
+*   _Adele Malpass_: Electorate Makeup Will Be Key to Midterm Outcome
     
-*   _Bill Scher_: The Pragmatist Wing of Democratic Party Strikes Back
+*   _Keith Bradsher_: China Once Looked Tough, But Its Trade Options Are Dwindling
     
-*   _Liz Peek_: A Dem Takeover of Congress Would Crush the Good Times
+*   _Dan Hannan_: A U.S.-U.K. Deal Would Revolutionize World Trade
     
-*   _Christopher Balding_: A Roadmap for the Great U.S.-China Divorce
+*   _Reps. Kelly &. Clay_: Bipartisan Bill Would Boost Infrastructure, Lift Up the Poor
     
-*   _Jackson Diehl_: Trump's Foreign Policy Has Devolved Into Chaos
+*   _James Carroll_: In Summoning Bishops, Is Francis Missing the Point?
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Woman Accusing Kavanaugh of Sexual Misconduct Comes Forward
-*   Hurricane Donald: Trump Creates a New Twitter Storm
-*   Woodward: No Evidence of Collusion, I Searched for Two Years
-*   Cuomo Cruises Past Nixon in NY Gubernatorial Primary
-*   Kavanaugh Fight Has Vulnerable Dems Ducking for Cover
+*   Electorate Makeup Will Be Key to Midterm Outcome
+*   Hearing Sets Up Dramatic Showdown Between Kavanaugh, Accuser
+*   Schumer: Dems Have Better Chance of Taking Senate Than People Think
+*   Trump Imposes Tariffs on $200 Billion More of Chinese Goods
+*   Historic Midterm Trends Tell Us...Nothing
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,25 +243,25 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Florida 26th District - Curbelo vs. Mucarsel-PowellNY Times/Siena
-    *   Curbelo47
-    *   Mucarsel-Powell44Curbelo +3
-*   Arizona Senate - McSally vs. SinemaCNN
-    *   Sinema50
-    *   McSally43Sinema +7
-*   Missouri Senate - Hawley vs. McCaskillTrafalgar Group (R)
-    *   Hawley47
-    *   McCaskill44Hawley +3
-*   Tennessee Senate - Blackburn vs. BredesenCNN
-    *   Bredesen50
-    *   Blackburn45Bredesen +5
+*   Texas 7th District - Culberson vs. FletcherNY Times/Siena
+    *   Culberson48
+    *   Fletcher45Culberson +3
+*   New Mexico 2nd District - Herrell vs. SmallNY Times/Siena
+    *   Small46
+    *   Herrell45Small +1
+*   Texas Senate - Cruz vs. O'RourkeQuinnipiac
+    *   Cruz54
+    *   O'Rourke45Cruz +9
+*   Wisconsin Senate - Vukmir vs. BaldwinMarquette
+    *   Baldwin53
+    *   Vukmir42Baldwin +11
 
 More Latest Polls In The News
 
-*   Trump Backs Kavanaugh: "One Of The Finest People I've Ever Known," One Of The Great Intellects
-*   Sen. Duckworth on Kavanaugh: Normal Behavior For Sexual Trauma Victims To "Wait Until The Last Minute"
-*   Ret. General Mike Flynn: It Is Time To Buckle Down And Stand Up To Fight For Our Way of Life
-*   Nunes: Shocking Number Of Americans "Drank Russia Kool-Aid," Truly Believe GOP Is Controlled By Kremlin
+*   Maddow to Hillary Clinton: Do You Support Due Process For Kavanaugh Like After Bill Clinton Allegations?
+*   Carlson: If Republicans Allow Kavanaugh Nomination To Be Derailed Over Unprovable Allegation, "It's Over"
+*   Kamala Harris: I Believe Kavanaugh Accuser, "She Has Nothing To Gain". "They're Going To Excoriate Her"
+*   Trump on Kavanaugh Accusation: "There Should Be Not Even A Little Doubt," "I Feel So Badly For Him"
 *   Woodward: No Evidence Of Collusion Between Trump and Russia, I Searched "Hard" For Two Years
 
 *   Politics
