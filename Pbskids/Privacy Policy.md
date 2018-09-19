@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _special_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Catch the all-new Daniel Tiger's Neighborhood movie Won't You Be Our Neighbor? - 9/17 on PBS KIDS!Catch the all-new Daniel Tiger's Neighborhood movie Won't You Be Our Neighbor? - 9/17 on PBS KIDS!Go now
+Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Go now
 
 Toggle message bar
 
