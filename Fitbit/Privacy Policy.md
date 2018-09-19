@@ -61,7 +61,7 @@ Fitbit Privacy Policy
 
 New! We recently revised this policy. Please review the summary of changes and updated policy below. You can find the earlier policy in our archive.
 
-Updated: April 23, 2018 Effective: May 24, 2018, unless you agree to this policy sooner, like when you create an account or pair your device. Then this policy is effective as of the date of your agreement.
+Effective: September 18, 2018
 
 We believe that transparency is the key to any healthy relationship. At Fitbit, we’re all about healthy. We appreciate that you are trusting us with information that is important to you, and we want to be transparent about how we use it.
 
@@ -97,15 +97,15 @@ You may also connect with friends on the Services or invite friends who have not
 
 If you contact us or participate in a survey, contest, or promotion, we collect the information you submit such as your name, contact information, and message.
 
-Information from Third-Party Services
-
-If you choose to connect your account on our Services to your account on another service, we may receive information from the other service. For example, if you connect to Facebook or Google, we may receive information like your name, profile picture, age range, language, email address, and friend list. You may also choose to grant us access to your exercise or activity data from another service. You can stop sharing the information from the other service with us by removing our access to that other service.
-
 Payment and Card Information
 
 Some Fitbit devices support payments and transactions with third parties. If you activate this feature, you must provide certain information for identification and verification, such as your name, credit, debit or other card number, card expiration date, and CVV code. This information is encrypted and sent to your card network, which upon approval sends back to your device a token, which is a set of random digits for engaging in transactions without exposing your card number. For your convenience, we store the last four digits of your card number and your card issuer’s name and contact information. You can remove the token from your account using your account settings. We do not store your transaction history.
 
 If you purchase Fitbit merchandise on our website, you provide your payment information, including your name, credit or debit card number, card expiration date, CVV code, and billing address. We do not store this payment information. We store your shipping address to fulfill your order. Note that third-party payment processors may retain this information in accordance with their own privacy policies and terms.
+
+Live Coaching Services
+
+Our live coaching services are a platform for you to communicate with a live health, fitness, or wellness coach (“Live Coaching Services”). Coaches may be provided by third parties, such as your employer or insurance company, or by our third-party coaching service providers. If you use our Live Coaching Services, we collect information about such use, including the plan, goals, and actions you record with your coach, your calendar events, communications with your coach, notes your coach records about you, and other information submitted by you or your coach.
 
 Information We Receive From Your Use of Our Services Device Information
 
@@ -121,6 +121,12 @@ When you access or use our Services, we receive certain usage data. This include
 
 We also collect data about the devices and computers you use to access the Services, including IP addresses, browser type, language, operating system, Fitbit or mobile device information (including device and application identifiers), the referring web page, pages visited, location (depending on the permissions you have granted us), and cookie information.
 
+INFORMATION WE RECEIVE FROM THIRD PARTIES
+
+If you choose to connect your account on our Services to your account on another service, we may receive information from the other service. For example, if you connect to Facebook or Google, we may receive information like your name, profile picture, age range, language, email address, and friend list. You may also choose to grant us access to your exercise or activity data from another service. You can stop sharing the information from the other service with us by removing our access to that other service.
+
+We may partner with third parties, such as employers and insurance companies that offer Fitbit services to their employees and customers. In such cases, those companies may provide us with your name, email address, or similar information (like a telephone number or subscriber ID) so that we can invite you to participate or determine your eligibility for particular benefits, such as discounts or free services.
+
 Health and Other Special Categories of Personal Data
 
 To the extent that information we collect is health data or another special category of personal data subject to the European Union’s General Data Protection Regulation (“GDPR”), we ask for your explicit consent to process the data. We obtain this consent separately when you take actions leading to our obtaining the data, for example, when you pair your device to your account, grant us access to your exercise or activity data from another service, or use the female health tracking feature. You can use your account settings and tools to withdraw your consent at any time, including by stopping use of a feature, removing our access to a third-party service, unpairing your device, or deleting your data or your account.
@@ -134,6 +140,8 @@ Provide and Maintain the Services
 Using the information we collect, we are able to deliver the Services to you and honor our Terms of Service contract with you. For example, we need to use your information to provide you with your Fitbit dashboard tracking your exercise, activity, and other trends. to enable the community features of the Services. and to give you customer support.
 
 For the Services’ community features, we may use your information to help you find and connect with other users and to allow other users to find and connect with you. For example, your account contact information allows other users to add you as a friend. When another user has your email or mobile phone number in their contact list or in their friend network on a connected service, we show that user that you are a user of the Services.
+
+If you use the Live Coaching Services, we use your information to connect you with coaches, allow you to communicate with them through our Services, and help you achieve your goals to lead a healthier, more active life. For example, the goals that you provide allow you to develop a personal plan and set of actions in consultation with your coach.
 
 Improve, Personalize, and Develop the Services
 
