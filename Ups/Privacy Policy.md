@@ -1,9 +1,9 @@
 Previous1/2Next
 
 *   Volcanic Activity Impacting Service in Areas of Hawaii...More
-*   Hurricane Florence Impacting Areas of the East Coast...More
+*   Hurricane Florence Impacting Areas of North Carolina and South Carolina...More
 *   Volcanic Activity Impacting Service in Areas of Hawaii...More
-*   Hurricane Florence Impacting Areas of the East Coast...More
+*   Hurricane Florence Impacting Areas of North Carolina and South Carolina...More
 
 Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
@@ -140,10 +140,6 @@ Were you trying to... Track a Package or Freight Ship a Package Ship Freight Get
 *   Get Started with UPS
 *   Change Delivery
 *   Delivery Issues
-
-*   Email UsOpen the link in a new window
-*   Call UsOpen the link in a new window
-*   See All Contact OptionsOpen the link in a new window
 
 This Site
 
