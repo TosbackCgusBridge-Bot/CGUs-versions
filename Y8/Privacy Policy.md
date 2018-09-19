@@ -3,44 +3,42 @@
 *   games
 *   videos
 
-New Games Next in  22:28 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  17:33 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 22:28
-*   Best of new games 1465 games
-*   Most Popular Games 17968 games
+*   New Games Next in 17:33
+*   Best of new games 1466 games
+*   Most Popular Games 17963 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,153 games
+*   Games for girls 23,154 games
 *   Driving &. Racing Games 6,663 games
 *   Strategy &. RPG Games 2,373 games
-*   Management Games 3,644 games
-*   Thinking Games 11,647 games
-*   Action &. Adventure Games 15,660 games
-*   Sports Games 2,096 games
-*   Shooting Games 8,121 games
-*   Fighting Games 2,070 games
-*   Skill Games 10,233 games
-*   Arcade &. Classic Games 12,552 games
+*   Management Games 3,643 games
+*   Thinking Games 11,648 games
+*   Action &. Adventure Games 15,656 games
+*   Sports Games 2,098 games
+*   Shooting Games 8,124 games
+*   Fighting Games 2,068 games
+*   Skill Games 10,239 games
+*   Arcade &. Classic Games 12,554 games
 *   Fun &. Crazy Games 2,423 games
 
 Tags
 
-*   Blood1,292
-*   Dog715
-*   Vampire80
-*   Decorate1,736
-*   Puzzle7,064
-*   3+ Player81
+*   3D2,817
+*   Drunk58
+*   Basketball227
+*   Kung Fu78
+*   Scary259
+*   Throwing878
 *   View All Tags 372
 
 Play with friends  
-Powered by Y8 Account 124 Y8 Multiplayer Games 1,565 Y8 High Score Games 987 Y8 Achievements Games 769 Y8 Screenshots Games 1,293 Y8 Online Save Games 2,562 All Y8 Games Games Last Highscore:
-
-**40** points on Masked Forces by Nash
+Powered by Y8 Account 124 Y8 Multiplayer Games 1,565 Y8 High Score Games 988 Y8 Achievements Games 770 Y8 Screenshots Games 1,293 Y8 Online Save Games 2,563 All Y8 Games Games
 
 *   Contact Form
 *   Submit a Game or Video
