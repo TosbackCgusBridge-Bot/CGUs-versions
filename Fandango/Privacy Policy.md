@@ -72,14 +72,15 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Unexpected Horror-Franchise Installments: 'Halloween,' 'Glass,' 'Doctor Sleep' Read More
-    *   Exclusive Behind the Scenes Look at 'Solo: A Star Wars Story' Read More
-    *   First Look at Joaquin Phoenix in 'Joker'. Here's Everything We Know Read More
+    *   Exclusive: Here’s The Latest on That New ‘Friday Night Lights’ Movie Read More
+    *   The First 'Captain Marvel' Trailer Has Landed. Here's Everything We Know So Far Read More
+    *   Patrick Stewart Joins the 'Charlie's Angels' Reboot. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
     *   Indie Movie Guide
     *   Family Guide
+    *   House Of Screams
     *   Weekend Ticket
 *   My VIP Account Join FandangoVIP Refunds + Exchanges
     
@@ -358,6 +359,7 @@ Editorial Features
 
 *   Indie Movie Guide
 *   Family Guide
+*   House Of Screams
 *   Movie News
 
 Videos
