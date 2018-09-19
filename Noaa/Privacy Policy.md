@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Florence moves north bringing heavy rain to parts of the Mid-Atlantic Life-threatening flash floods and prolonged river flooding to continue AROUND NOAA // Evaluating Florence damage from the air: NOAA begins aerial surveys \[EXT\] Summer 2018 ranked 4th hottest on record for U.S. Ask the scientist: How can the weather spark and spread wildfires?
+Enter Search Terms Florence bringing heavy rain to parts of Mid-Atlantic to southern New England Life-threatening flash floods and prolonged river flooding to continue AROUND NOAA // August 2018 was 5th hottest August on record for the globe Evaluating Florence damage from the air: NOAA begins aerial surveys \[EXT\] Ask the scientist: How can the weather spark and spread wildfires?
 
 *   About our agency
 *   News and features
