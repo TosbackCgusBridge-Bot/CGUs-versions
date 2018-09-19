@@ -3,8 +3,11 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Become a client  
-Request a call or dial +1 800 213 4848
+Log in
+
+Call +1 800 213 4848+1 800 213 4848 or contact us
+
+to become a Gartner client.
 
 Log in
 
@@ -48,7 +51,7 @@ Log in
     
     Industries
     
-    Financial Services Management Education Energy &. Utilities Government &. Public Sector Healthcare High Tech &. Telecom Providers Manufacturing Retail Article Manage Finance Talent Supply &. Demand
+    Financial Services Education Energy &. Utilities Government &. Public Sector Healthcare High Tech &. Telecom Providers Manufacturing Retail Article Manage Finance Talent Supply &. Demand
     
     Read Article
     
