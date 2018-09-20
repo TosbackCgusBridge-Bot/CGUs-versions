@@ -400,6 +400,7 @@ Bag 0
     
     *   Personalized Christmas Stockings
     *   Christmas Ornaments
+    *   Holiday Wreaths &. Garland
     *   Christmas Candy &. Treats
     
     More for the Home >
@@ -872,6 +873,7 @@ Lands' End Sign In menu
         *   View All
         *   Personalized Christmas Stockings
         *   Christmas Ornaments
+        *   Holiday Wreaths &. Garland
         *   Christmas Candy &. Treats
     *   More for the Home
         *   Back
