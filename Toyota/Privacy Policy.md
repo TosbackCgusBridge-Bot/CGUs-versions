@@ -6,7 +6,7 @@ Skip to main content
 *   Certified Used Vehicles
 *   Owners
 *   Español
-*   Your Location: 67301 Zip: 67301
+*   Set Location Set Zip
 
 *   Select Vehicle
 *   Shopping Tools
@@ -45,7 +45,7 @@ Skip to main content
 *   $58,365 as shown1 2018 Mirai $58,365 starting1  
     67/67 est MPG14 Specials
 *   $28,585 as shown1 2019 86 $26,455 starting1  
-    21/28 est MPG19 Build Specials
+    21/28 est MPG20 Build Specials
 *   $37,265 as shown1 2019 Sienna $31,115 starting1  
     19/27 est MPG22 Build Specials
 
@@ -127,7 +127,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 22/32 est MPG20 $42,800 as shown1 2019 Avalon Hybrid $36,500 starting1  
 43/44 est MPG20 $58,365 as shown1 2018 Mirai $58,365 starting1  
 67/67 est MPG14 $28,585 as shown1 2019 86 $26,455 starting1  
-21/28 est MPG19 $37,265 as shown1 2019 Sienna $31,115 starting1  
+21/28 est MPG20 $37,265 as shown1 2019 Sienna $31,115 starting1  
 19/27 est MPG22 Trucks $36,465 as shown1 2019 Tacoma $25,550 starting1  
 18/22 est MPG3 $45,600 as shown1 2019 Tundra $31,420 starting1  
 15/19 est MPG3 Crossovers &. SUVs $26,000 as shown1 2019 C-HR $20,945 starting1  
@@ -172,13 +172,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 *   Español
 *   Owners
 
-Close
-
-SET YOUR LOCATION
-
-Enter your Zip Code to find dealers, inventory, and special offers near you.
-
-Your ZIP is invalid. Submit
+Close Set your locationYour ZIP is invalid. Submit
 
 OR FIND A DEALER GO Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
