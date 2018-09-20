@@ -230,9 +230,9 @@ View more results
     
     Recommended Games
     
-    *   Wizard 101
-    *   Roblox
-    *   World of Tanks
+    *   Animal Jam
+    *   PopTropica
+    *   Star Stable
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
