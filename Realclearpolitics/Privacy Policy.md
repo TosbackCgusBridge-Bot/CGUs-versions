@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -109,53 +107,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Noemie Emery_: Democrats' Sleazy Attack Comes From an Old Playbook
+*   _Michael Tomasky_: What the Kavanaugh Accusation Means for Red-State Dems
     
-*   _Anita Hill_: How to Get the Kavanaugh Hearings Right
+*   _Andrew McCarthy_: If Kavanaugh Accuser Won't Testify, GOP Should Hold Vote
     
-*   _Andrea Peyser_: Accuser's Fuzzy Memory Shouldn't Bring Down Kavanaugh
+*   _Greg Sargent_: Republicans Aren't Acting in Good Faith
     
-*   _Dick Polman_: Kavanaugh Could Widen the Midterms' Gender Gap
+*   _John Kass_: Have You No Sense of Decency, Senator Feinstein?
     
-*   _Keith Koffler_: Why the Kavanaugh Ploy Will Backfire on Dems
+*   _Jonathan Van Meter_: Cory Booker Wants to Give You a Hug (and Be President)
     
-*   _Timothy Heaphy_: What Trump Doesn't Get About Defendants Who Flip
+*   _Kyle Trygstad_: John Hickenlooper Is Pondering a White House Run
     
-*   _Mark Penn_: Time for Sunshine on Trump-Russia Investigation
+*   _Penny Nance_: It's Fair to Question Accuser About Missing Details
     
-*   _Juliana Knot_: Botched NYT Hit on Haley Shows Liberals Fear Her
+*   _Nan Aron_: Every Woman in America Is Watching
     
-*   _Nic Robertson_: Only a Fool Takes Vladimir Putin at His Word in Syria
+*   _Mollie Hemingway_: A Miscarriage of Justice for Everyone
     
-*   _Gil Barndollar_: In Syria, Assad Has Won and America Must Go
+*   _Kara Swisher_: Can Those Who Almost Brought Down the Media Save It?
     
-*   _Cass Sunstein_: The Problem With All Those Liberal Professors
+*   _Daniel Krauthammer_: The Point of It All: My Dad's Final Book
     
-*   _Baker &. Hulse_: Echoes of Anita Hill, But in a Different Era for Women
+*   _Michael Goodwin_: Dems' Smash &. Smear Agenda Reaches New Heights
     
-*   _Rich Lowry_: Kavanaugh Meets Kafka in Kangaroo Court
+*   _Jill Filipovic_: Accuser Must Be Heard: Rapists Have No Place on SCOTUS
     
-*   _Caitlin Flanagan_: I Believe Christine Ford
+*   _Conrad Black_: Only the People Can End This Democratic Horror Show
     
-*   _Roger Kimball_: Smears Didn't Work on Thomas, Shouldn't Work Now Either
+*   _Richard Cohen_: The Republican Party Is About to Drown
     
-*   _Michelle Goldberg_: Boys Will Be Supreme Court Justices
+*   _Peter Van Buren_: What Ohio's Deplorables Really Want
     
-*   _William McGurn_: It's Susan Collins's Moment
+*   _Sally Persons_: Trump &. Obama Hit the Trail - for Better or Worse
     
-*   _Byron York_: Republicans See Signs of Hope in Tough Midterm Landscape
+*   _Marc Thiessen_: Chaos or Not, Trump Racking Up Foreign Policy Successes
     
-*   _Chris Cillizza_: It's NOT the Economy, Stupid!
+*   _Thomas Friedman_: The Broken Pieces of Middle East Peace
     
-*   _Adele Malpass_: Electorate Makeup Will Be Key to Midterm Outcome
+*   _Shmuley Boteach_: Should Jews Be Grateful to Trump?
     
-*   _Keith Bradsher_: China Once Looked Tough, But Its Trade Options Are Dwindling
+*   _Nathan Gardels_: Fukuyama: Identity Politics Undermining Democracy
     
-*   _Dan Hannan_: A U.S.-U.K. Deal Would Revolutionize World Trade
+*   _Roger L. Simon_: Dems Go Full Stalin on Kavanaugh and Declassification
     
-*   _Reps. Kelly &. Clay_: Bipartisan Bill Would Boost Infrastructure, Lift Up the Poor
+*   _Lili Loofbourow_: Men Are Now More Afraid Than Ever. Good.
     
-*   _James Carroll_: In Summoning Bishops, Is Francis Missing the Point?
+*   _Michelle Malkin_: 'Believe Women' Is Perilous Baloney
     
 
 *   Previous
@@ -226,9 +224,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump, Obama Hit the Trail--for Better and for Worse
 *   Electorate Makeup Will Be Key to Midterm Outcome
-*   Hearing Sets Up Dramatic Showdown Between Kavanaugh, Accuser
-*   Schumer: Dems Have Better Chance of Taking Senate Than People Think
+*   Trump: I Feel Badly for Kavanaugh, Should Be Not Even a Little Doubt
 *   Trump Imposes Tariffs on $200 Billion More of Chinese Goods
 *   Historic Midterm Trends Tell Us...Nothing
 *   Presidential Job Approval
@@ -243,26 +241,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Texas 7th District - Culberson vs. FletcherNY Times/Siena
-    *   Culberson48
-    *   Fletcher45Culberson +3
-*   New Mexico 2nd District - Herrell vs. SmallNY Times/Siena
-    *   Small46
-    *   Herrell45Small +1
-*   Texas Senate - Cruz vs. O'RourkeQuinnipiac
-    *   Cruz54
-    *   O'Rourke45Cruz +9
-*   Wisconsin Senate - Vukmir vs. BaldwinMarquette
-    *   Baldwin53
-    *   Vukmir42Baldwin +11
+*   California 25th District - Knight vs. HillNY Times/Siena
+    *   Knight47
+    *   Hill45Knight +2
+*   Florida Senate - Scott vs. NelsonFlorida Atlantic University
+    *   Scott42
+    *   Nelson41Scott +1
+*   Pennsylvania Senate - Barletta vs. CaseyRasmussen Reports
+    *   Casey52
+    *   Barletta38Casey +14
+*   Massachusetts Senate - Diehl vs. WarrenBoston Globe/Suffolk\*
+    *   Warren54
+    *   Diehl24Warren +30
 
 More Latest Polls In The News
 
-*   Maddow to Hillary Clinton: Do You Support Due Process For Kavanaugh Like After Bill Clinton Allegations?
+*   Coulter: Kavanaugh Scandal Shows Media Running The Country, Can Make Any "Non-Disprovable Claim"
+*   Brennan: FBI Has "Obligation" To Circumvent Trump, Took Constitutional Oath To United States
+*   Trump: I'm Disappointed In Jeff Sessions For Numerous Reasons, But "We Have An Attorney General"
+*   Maddow to Hillary Clinton: Do You Support Due Process For Kavanaugh Like After Bill Clinton Sexual Allegations?
 *   Carlson: If Republicans Allow Kavanaugh Nomination To Be Derailed Over Unprovable Allegation, "It's Over"
-*   Kamala Harris: I Believe Kavanaugh Accuser, "She Has Nothing To Gain". "They're Going To Excoriate Her"
-*   Trump on Kavanaugh Accusation: "There Should Be Not Even A Little Doubt," "I Feel So Badly For Him"
-*   Woodward: No Evidence Of Collusion Between Trump and Russia, I Searched "Hard" For Two Years
 
 *   Politics
 *   Policy
