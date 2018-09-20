@@ -176,14 +176,4 @@ Business Accounts
 *   1.800.715.1474
 *   Email Us
 
-PRIVACY POLICY TERMS OF USE SITE MAP © 2018 ALL RIGHTS RESERVED. close Enjoy 10% OFF
-
-on your next purchase when you sign up for exclusive email offers and gift ideas.
-
-Enter Your Email Address
-
-Subscribe
-
-See our Privacy Policy
-
-Close Feedback
+PRIVACY POLICY TERMS OF USE SITE MAP © 2018 ALL RIGHTS RESERVED. close Feedback
