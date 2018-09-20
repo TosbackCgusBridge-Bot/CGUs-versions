@@ -27,7 +27,7 @@ Read the Story
 
 Commitment
 
-For Crashes, Emissions and Congestion, Zero is More.
+For Crashes, Emissions and Congestion, Zero is More
 
 Read the Story
 
