@@ -129,7 +129,7 @@ View Spyro on Instagram
 
 Get to know our new litter of #aibo pups &. help us name them. Reply with your suggestions. #aiboroom #SonySquareNYC
 
-14 hours ago
+1 day ago
 
 View Tweet
 
@@ -145,19 +145,19 @@ Close
 
 Exclusively at Sony Square NYC
 
-<img class="bg-img" class="url(/en\_us/media/content/SSNYCSpiderManGallery-600x600.jpg);" alt="Marvel’s New York Spider-Man Gallery at Sony Square NYC ">. Marvel’s Spider-Man Fans:
+<img class="bg-img" class="url(/en\_us/media/content/SSNYCSpiderManGallery-600x600.jpg);" alt="Marvel’s New York Spider-Man Gallery at Sony Square NYC ">. The PlayStation Classic
 
-A Limited Edition PS4™ Pro
+Goes Mini
 
 Close
 
-*   Share Marvel’s Spider-Man Fans: on Facebook
-*   Share Marvel’s Spider-Man Fans: on Twitter
-*   Copy URL to share Marvel’s Spider-Man Fans:
+*   Share The PlayStation Classic on Facebook
+*   Share The PlayStation Classic on Twitter
+*   Copy URL to share The PlayStation Classic
 
-A Limited Edition PS4™ Pro
+Goes Mini
 
-<img class="bg-img" class="url(/en\_us/media/content/PS4ProSpiderManBundle-600x600\_Lk1aWrf.jpg);" alt="Spider-Man PS4 Pro">. It’s Easier Than Ever to Earn Sony Rewards Points for Games &. More
+<img class="bg-img" class="url(/en\_us/media/content/PSClassic-600x600\_TPIoPI8.jpg);" alt="Playstation Classic Mini">. It’s Easier Than Ever to Earn Sony Rewards Points for Games &. More
 
 Learn More
 
