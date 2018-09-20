@@ -16,7 +16,7 @@ Skip to main content
     *   Diabetes
     *   Eye Health
     *   Heart Disease
-    *   Heartburn/GERD
+    *   Lung Disease
     *   Pain Management
     *   Sexual Conditions
     *   Skin Problems
