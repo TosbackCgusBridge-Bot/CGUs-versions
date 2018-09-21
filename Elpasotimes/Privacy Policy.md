@@ -1,5 +1,3 @@
-close dialogGet Unlimited Access To Local News 99¢ Per Month\*Subscribeclose dialog
-
 *   Home
 *   News
 *   Sports
@@ -74,7 +72,7 @@ close dialogGet Unlimited Access To Local News 99¢ Per Month\*Subscribeclose di
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTV weatherman Chuck DeBroder no longer at KTSMTelevisionEl Paso 'Live PD' star Officer Zendejas injuredCrimeTeen in jail on $100,000 bond in girl's deathCrimeMelting Pot announces opening date for El PasoEntertainmentJudge OKs auction plan for 9 Downtown buildingsNewsVoters knew arena tied to sports, city arguesPoliticsTornillo tent shelter to grow to 3,800 bedsImmigration5 things to watch for when Khalid's in El PasoEntertainmentSex offender accused of exposing self to girl, 12CrimeTeen arrested in viral police video arrested againCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowHow to watch Cruz, O'Rourke debate FridayPoliticsConstruction of border wall to begin in El PasoImmigrationDriver admits in text to hitting DJ in accidentCrimeEl Paso triple-murder suspect was on probationCrimeMurder trial in death of former KLAQ DJ delayedCrimePolice: Teen shot over drugs. SWAT arrests suspectCrimeMissing El Paso woman found at hospitalNewsTexas Parks &. Wildlife closes Wyler Aerial TramwayLocalA new poll shows Cruz, O'Rourke tied in racePoliticsTeen arrested in viral video will remain jailedCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,5 +143,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogGet Unlimited Access To Local News 99¢ Per Month\*Subscribeclose dialogclose dialogGET READY FOR FALLNEWS  |  SPORTS  |  EVENTS99¢ Per MonthFor 3 MonthsSubscribe NowNo Thanksclose dialog
