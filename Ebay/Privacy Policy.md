@@ -1,4 +1,4 @@
-User Privacy NoticeThis Privacy Notice was posted on **May 1, 2018**. It is effective immediately for new users, and from **June 1, 2018** for all other users. See previous version of this Privacy Notice.
+User Privacy Notice This Privacy Notice was posted on **May 1, 2018**. It is effective immediately for new users, and from **June 1, 2018** for all other users. See previous version of this Privacy Notice.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
@@ -10,7 +10,7 @@ eBay is committed to your privacy. This privacy notice explains our collection, 
 This privacy notice applies to any eBay website, application, service or tool (collectively "Services") where this privacy notice is referenced, regardless of how you access or use them, including through mobile devices.
 
 **Learn more.**   
-  
+ 
 
   
 **Personal information we collect**
@@ -24,7 +24,7 @@ We do not consider personal information to include information that has been ano
 We collect personal information from you when you use our Services.
 
 **Learn more.**   
-  
+ 
 
   
 **How we use your personal information**
@@ -32,7 +32,7 @@ We collect personal information from you when you use our Services.
 We use your personal information to provide and improve our Services, provide you with a personalised experience on our sites, contact you about your account and our Services, provide you customer service, provide you with personalised advertising and marketing, and to detect, prevent, mitigate and investigate fraudulent or illegal activities.
 
 **Learn more.**  
-  
+ 
 
   
 **Your choices about how we use your personal information**
@@ -40,7 +40,7 @@ We use your personal information to provide and improve our Services, provide yo
 You have choices about how we use your personal information to communicate with you, to send you marketing information, how we provide you with customised and relevant advertising, and whether you want to stay signed into your account.
 
 **Learn more.**  
-  
+ 
 
   
 **Ways you can access, control, and correct your personal information**
@@ -60,7 +60,7 @@ We respect your right to access, correct, request deletion or request restrictio
 
   
 **Learn more.**  
-  
+ 
 
   
 **How we might share your personal information**
@@ -68,7 +68,7 @@ We respect your right to access, correct, request deletion or request restrictio
 We may disclose your personal information to other members of the eBay Inc. corporate family or to third parties. This disclosure may be required for us to provide you access to our Services, to comply with our legal obligations, to enforce our User Agreement, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. We attempt to minimise the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose. We do not sell, rent or otherwise disclose your personal information to third parties for their marketing and advertising purposes without your consent.
 
 **Learn more.**  
-  
+ 
 
   
 **How long we keep your personal information**
@@ -76,7 +76,7 @@ We may disclose your personal information to other members of the eBay Inc. corp
 We retain your personal information for as long as necessary to provide the Services you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our policies.
 
 **Learn more.**  
-  
+ 
 
   
 **Cookies &. Similar Technologies**
@@ -84,13 +84,9 @@ We retain your personal information for as long as necessary to provide the Serv
 When you visit or interact with our sites, services, applications, tools or messaging, we or our authorised service providers may use cookies and other similar technologies to help provide you with a better, faster and safer experience, and for advertising and marketing purposes. You can read our full User Cookie Notice for more information.
 
   
-
-  
 **How do we protect your Personal Information**
 
 We protect your personal information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorised access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centres, and information access authorisation controls. For more information about staying safe while buying and selling online, or to report an issue with your account please visit our Security Centre.
-
-  
 
   
 **Global Privacy Standards**
@@ -98,14 +94,12 @@ We protect your personal information using technical and administrative security
 We have established a set of global privacy standards for all eBay Inc. companies known as our Binding Corporate Rules (BCRs). They are our commitment to protect your personal information and honour our privacy obligations within our eBay Inc. corporate family. More information about our BCRs and our global privacy standards is available at our eBay Privacy Centre.
 
   
-
-  
 **Data Controllers and Data Protection Officers**
 
 Learn more about who is your data controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards, this privacy notice, as well as any applicable national laws.
 
 **Learn more.**  
-  
+ 
 
   
 **Other important Privacy Information**
@@ -113,7 +107,7 @@ Learn more about who is your data controller, and is responsible for the collect
 This section describes some additional privacy information related to your use of our Services that you may find important.
 
 **Learn more.**  
-  
+ 
 
   
 **Contact Us**
@@ -123,8 +117,6 @@ If you have a question or a complaint about this privacy notice, our global priv
 You can find more information on how to contact us and our data protection officers at our eBay Privacy Centre.
 
 Your right to file complaints with a data protection supervisory authority remains unaffected.
-
-  
 
 Scope
 
@@ -408,6 +400,8 @@ If you reside outside of the United States, you are contracting with one of our 
 *   If you reside in a country within the European Union (except the United Kingdom) you are contracting with eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany;
     
 *   If you reside in the United Kingdom you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom;
+    
+*   If you reside in India you are contracting with eBay Singapore Services Pte Ltd, 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315;
     
 *   If you reside in any other country, you are contracting with eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Switzerland.
     
