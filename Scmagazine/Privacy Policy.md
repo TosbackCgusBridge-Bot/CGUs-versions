@@ -227,13 +227,13 @@ Open Next page Close SC Corporate News Back to Top
     *   Subscribe
 
 *   Other SC Sites
+    *   SC RiskSec NY
     *   SC Resource Library
     *   SC Online Events
     *   SC Awards
-    *   SC RiskSec NY
 
 *   Copyright © 2018 Haymarket Media, Inc. All Rights Reserved  
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Close more info about Privacy Policy Loading... Close more info about Privacy Policy Loading... <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Close more info about Privacy Policy Loading... Close more info about Privacy Policy Loading... <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order.
