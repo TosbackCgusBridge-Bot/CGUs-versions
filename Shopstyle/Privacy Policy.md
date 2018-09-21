@@ -1,6 +1,6 @@
 POPSUGAR Privacy Policy
 
-**Effective Date: May 25, 2018**
+**Effective Date: September 20, 2018**
 
 **UPDATED PRIVACY POLICY**
 
@@ -22,9 +22,11 @@ Other Information
 
 We also collect **"Other Information"** from you or other sources which is information not considered Personal Information. Other Information may include, but is not limited to, information such as:
 
-*   Article preferences or topics of interest;
-*   Photos, for example, account photos and photos you submit to our Twinning Service.
-*   "About" information you provide;
+*   Article preferences, topics of interest or other content preferences by using "Like" or "Dislike" settings or creating lists;
+*   Display name, which in some cases may be different from your user name.
+*   Photos, for example, account photos and photos you submit to our Twinning Service;
+*   "About" or other biographical information you provide and/or post on the Services;
+*   Comments or other information you post on the Services, which may also contain Personal Information if such information identifies you;
 *   Links to your social media accounts and websites;
 *   Browsing history, including the pages of the Services you visited and third party pages or services you visited other than the Services;
 *   Device type, settings and software used;
@@ -48,7 +50,7 @@ All Personal Information and Other Information that we hold about you is referre
 
 We collect User Information across our Services, including as follows:
 
-*   When you register for our Services (for example, name, username, password, country or state of location, zip code, postal mail address and email address);
+*   When you register for our Services (for example, name, username, display name, password, country or state of location, zip code, postal mail address and email address);
 *   If you sign up for an email subscription on our Services, we collect your email address and may also collect other information about your subscription preferences and interests;
 *   For some of our Services, you may be asked to provide your mobile phone number in order to receive text messages containing information you have requested and other information that we think may be of interest to you;
 *   When you view or interact with our Services, we may collect certain data, including IP Address, language setting, operating system type, page you requested, Advertising ID, user agent, and time stamp;
@@ -73,10 +75,11 @@ We (and third parties with whom we partner) may also deliver a file known as a w
 User Information is used to provide Services to you by POPSUGAR and its partners, which includes using such information to:
 
 *   Allow you to set up an account and profile and log into your account on the Services and to access certain parts of the Services through such account;
+*   Allow you to share certain information about yourself with other users through your account profile;
 *   For our POPSUGAR Voices or Influencer platforms, to determine what assignments or projects are a good fit for your skills and interests and to process payments for your services if you are selected for a paid assignment;
 *   Personalize and improve the Services;
 *   Connect you across multiple devices or platforms where you are accessing our content;
-*   Customize the Services to provide advertisements, content or features on the Services or on other platforms (for example, social media platforms) that match your interests;
+*   Customize the Services to provide advertisements, content, features or recommendations on the Services or on other platforms (for example, social media platforms) that match your interests;
 *   Send you notices, updates and other administrative messages;
 *   Process transactions and send you related information;
 *   Send emails or newsletters to you, which may also offer or advertise POPSUGAR or third party products and/or services;
@@ -141,7 +144,7 @@ We may use social plugins on our Services, for instance plugins of the social ne
 
 User profiles and submissions
 
-Certain User Information from your profile such as a your user name or any video or image content that you have uploaded to the Services may be displayed to other users to facilitate user interaction within the Service or address your request for Services. For our POPSUGAR Voices and Influencer platforms, User Information from your profile may be shared with third parties including advertisers in connection with an advertising campaign, which may include publicly-available metrics related to your social media channels and a description of your blog or other content you have created in the past.
+Certain User Information from your profile such as a your user name, display name, biographical information, or any comments or video or image content that you have uploaded to the Services may be displayed to other users to facilitate user interaction within the Service or address your request for Services. In some applications, information you share in your profile will be publicly available to other users. For example, for our Binge service, certain profile information and a link to your complete profile may be found in the Binge public search feature. You may opt out of being included in the public search feature on Binge by turning off this setting in the profile tab of the Binge application. For our POPSUGAR Voices and Influencer platforms, User Information from your profile may be shared with third parties including advertisers in connection with an advertising campaign, which may include publicly-available metrics related to your social media channels and a description of your blog or other content you have created in the past.
 
 Third party offers
 
@@ -217,7 +220,7 @@ In order to de-link your POPSUGAR account from an account on another service suc
 
 Push notifications
 
-You may adjust the "Settings" on your mobile device to disable push notifications for any of our mobile applications for which you would like to stop receiving such notifications. You may adjust the "Notification" settings usually found in your browser "Preferences" or "Settings" to block or remove certain browser-based push notifications.
+You may adjust the "Settings" on your mobile device settings (or within the "profile" tab of certain applications) to disable push notifications for any of our mobile applications for which you would like to stop receiving such notifications. You may adjust the "Notification" settings usually found in your browser "Preferences" or "Settings" to block or remove certain browser-based push notifications.
 
 Third party offers
 
