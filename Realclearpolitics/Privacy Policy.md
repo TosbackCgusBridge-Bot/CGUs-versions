@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -107,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Michael Tomasky_: What the Kavanaugh Accusation Means for Red-State Dems
+*   _David Axelrod_: With Kavanaugh, McConnell's Throne Is On the Line
     
-*   _Andrew McCarthy_: If Kavanaugh Accuser Won't Testify, GOP Should Hold Vote
+*   _Sohrab Ahmari_: Dems, Media Mob Have Unfairly Besmirched Kavanaugh
     
-*   _Greg Sargent_: Republicans Aren't Acting in Good Faith
+*   _Chauncey DeVega_: Kavanaugh Is a Blend of Toxic Male Privilege and Affluenza
     
-*   _John Kass_: Have You No Sense of Decency, Senator Feinstein?
+*   _F.H. Buckley_: Why the Left and Right Can Embrace Nationalism
     
-*   _Jonathan Van Meter_: Cory Booker Wants to Give You a Hug (and Be President)
+*   _Jeff Spross_: China Bets on the Blue Wave
     
-*   _Kyle Trygstad_: John Hickenlooper Is Pondering a White House Run
+*   _Salena Zito_: He's Not Trumpy, He's Hogany: Interview With MD Governor
     
-*   _Penny Nance_: It's Fair to Question Accuser About Missing Details
+*   _Albert Hunt_: How to Be a Democrat in Trump Country
     
-*   _Nan Aron_: Every Woman in America Is Watching
+*   _Joseph Wulfsohn_: Dems' Kavanaugh Ploy May Come Back to Haunt Them
     
-*   _Mollie Hemingway_: A Miscarriage of Justice for Everyone
+*   _Peter Beinart_: A Growing Partisan Split Over Sexual-Misconduct Allegations
     
-*   _Kara Swisher_: Can Those Who Almost Brought Down the Media Save It?
+*   _Toby Young_: Ian Buruma and the Age of Sexual McCarthyism
     
-*   _Daniel Krauthammer_: The Point of It All: My Dad's Final Book
+*   _Joel Kotkin_: The Value of All Things Crazily Rich and Asian
     
-*   _Michael Goodwin_: Dems' Smash &. Smear Agenda Reaches New Heights
+*   _Jonathan Turley_: Kavanaugh and Blasey Ford Deserve Blind Justice
     
-*   _Jill Filipovic_: Accuser Must Be Heard: Rapists Have No Place on SCOTUS
+*   _Frida Ghitis_: Kavanaugh Case: How #MeToo Is Reshaping Society
     
-*   _Conrad Black_: Only the People Can End This Democratic Horror Show
+*   _Laura Ingraham_: Shades of the Duke Lacrosse Rush to Judgment
     
-*   _Richard Cohen_: The Republican Party Is About to Drown
+*   _Charles Blow_: What Are Republicans Hiding About Kavanaugh?
     
-*   _Peter Van Buren_: What Ohio's Deplorables Really Want
+*   _David Harsanyi_: There's No Reason to Delay Kavanaugh Vote Any Further
     
-*   _Sally Persons_: Trump &. Obama Hit the Trail - for Better or Worse
+*   _Richard Sokolsky_: North, South Take Important Steps to Demilitarize Korea
     
-*   _Marc Thiessen_: Chaos or Not, Trump Racking Up Foreign Policy Successes
+*   _John Cassidy_: The Danger of Trump's Trade War With China
     
-*   _Thomas Friedman_: The Broken Pieces of Middle East Peace
+*   _Christopher Buskirk_: Actually, Donald Trump Is a Free Trade Hero
     
-*   _Shmuley Boteach_: Should Jews Be Grateful to Trump?
+*   _Michael Barone_: The Air Has Seeped Out of Russia/Collusion Balloon
     
-*   _Nathan Gardels_: Fukuyama: Identity Politics Undermining Democracy
+*   _Jonathan Capehart_: DNC's Perez: We're Fighting for Our Democracy
     
-*   _Roger L. Simon_: Dems Go Full Stalin on Kavanaugh and Declassification
+*   _Alfredo Ortiz_: Hispanics Flourishing in the Trump Economy
     
-*   _Lili Loofbourow_: Men Are Now More Afraid Than Ever. Good.
+*   _Annie Lowrey_: Is America Facing a Labor Shortage?
     
-*   _Michelle Malkin_: 'Believe Women' Is Perilous Baloney
+*   _Betsy McCaughey_: How to Silence Dems' Preexisting Conditions Lie
     
 
 *   Previous
@@ -224,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Comforts Storm-Ravaged Carolinas With Hot Dogs, Hugs
 *   Trump, Obama Hit the Trail--for Better and for Worse
+*   Graham: Why Did Kavanaugh Accuser Take Polygraph If She Won't Testify?
 *   Electorate Makeup Will Be Key to Midterm Outcome
-*   Trump: I Feel Badly for Kavanaugh, Should Be Not Even a Little Doubt
 *   Trump Imposes Tariffs on $200 Billion More of Chinese Goods
-*   Historic Midterm Trends Tell Us...Nothing
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -241,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   California 25th District - Knight vs. HillNY Times/Siena
-    *   Knight47
-    *   Hill45Knight +2
-*   Florida Senate - Scott vs. NelsonFlorida Atlantic University
-    *   Scott42
-    *   Nelson41Scott +1
-*   Pennsylvania Senate - Barletta vs. CaseyRasmussen Reports
-    *   Casey52
-    *   Barletta38Casey +14
-*   Massachusetts Senate - Diehl vs. WarrenBoston Globe/Suffolk\*
-    *   Warren54
-    *   Diehl24Warren +30
+*   Rhode Island Senate - Flanders vs. WhitehouseWPRI/Roger Williams
+    *   Whitehouse54
+    *   Flanders35Whitehouse +19
+*   Rhode Island Governor - Fung vs. RaimondoWPRI/Roger Williams\*
+    *   Raimondo43
+    *   Fung36Raimondo +7
+*   Iowa 1st District - Blum vs. FinkenauerNY Times/Siena
+    *   Finkenauer52
+    *   Blum37Finkenauer +15
+*   Pennsylvania Governor - Wagner vs. WolfRasmussen Reports
+    *   Wolf52
+    *   Wagner40Wolf +12
 
 More Latest Polls In The News
 
+*   CNN Focus Group of Republican Women on Christine Blasey Ford's Allegation Against Brett Kavanaugh
 *   Coulter: Kavanaugh Scandal Shows Media Running The Country, Can Make Any "Non-Disprovable Claim"
 *   Brennan: FBI Has "Obligation" To Circumvent Trump, Took Constitutional Oath To United States
 *   Trump: I'm Disappointed In Jeff Sessions For Numerous Reasons, But "We Have An Attorney General"
 *   Maddow to Hillary Clinton: Do You Support Due Process For Kavanaugh Like After Bill Clinton Sexual Allegations?
-*   Carlson: If Republicans Allow Kavanaugh Nomination To Be Derailed Over Unprovable Allegation, "It's Over"
 
 *   Politics
 *   Policy
