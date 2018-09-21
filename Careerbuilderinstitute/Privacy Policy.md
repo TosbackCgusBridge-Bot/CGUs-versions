@@ -19,7 +19,7 @@ Hello! Welcome to CareerBuilder Sign In Sign Up
 *   Help &. Support
 *   Post Jobs
 
-Search Location It's your career. It's your life. It's your time. Work can work.™ Search Location Recent Searches No Recent Searches   Add your resume and let your next job find you. Add Your Resume Is your salary keeping up with your career? Find out what you could be earning with My Career Path. Find out what you could be earning with My Career Path. See My Career Path Check it out Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
+Search Location It's your career. It's your life. It's your time. Work can work.™ Search Location Recent Searches No Recent Searches Add your resume and let your next job find you. Add Your Resume Is your salary keeping up with your career? Find out what you could be earning with My Career Path. Find out what you could be earning with My Career Path. See My Career Path Check it out Quick Links Resumes Cover Letters Saved &. Applied Jobs Saved Searches Profile Job Recommendations
 
 No job recommendations yet, but opportunity is out there!
 
