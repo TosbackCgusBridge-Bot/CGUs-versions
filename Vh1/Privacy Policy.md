@@ -11,7 +11,7 @@
     *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Hollywood
     *   Martha &. Snoop's Potluck Dinner Party
-    *   RuPaul's Drag RaceSee all Shows
+    *   Remy &. Papoose: Meet The MackiesSee all Shows
 *   News
 *   App
 *   Watch Live TV
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBasketball WivesBlack Ink CrewBlack Ink Crew ChicagoHip Hop SquaresLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodMartha &. Snoop's Potluck Dinner PartyRuPaul's Drag Racesee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBasketball WivesBlack Ink CrewBlack Ink Crew ChicagoHip Hop SquaresLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodMartha &. Snoop's Potluck Dinner PartyRemy &. Papoose: Meet The Mackiessee all Shows
 *   News
 *   App
 *   Watch Live TV
