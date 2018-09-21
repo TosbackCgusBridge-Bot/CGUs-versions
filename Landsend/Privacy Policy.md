@@ -974,9 +974,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 40% off full-price styles!
 
-code: CIDER pin: 1350 DETAILS
+code: FAMILY pin: 6179 DETAILS
 
 Customer Service Menu
 
