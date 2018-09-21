@@ -262,18 +262,6 @@ We offer insurance by phone, online and through independent agents. Prices vary 
 
 
 
-Log In
-
-Welcome!
-
-User ID Password Show Save User ID
-
-Loading
-
- Need help logging in?
-
-New user? Register for an account
-
 Quote &. save today!
 
 Zip Code
