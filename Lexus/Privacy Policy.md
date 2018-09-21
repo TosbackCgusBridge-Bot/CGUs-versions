@@ -11,7 +11,7 @@
 
 MENU **IS**
 
-*   Starting at $38,2101\*
+*   Starting at $38,3101\*
 *   2.0L I-4 or 3.5L V6
 
 *   Build
@@ -59,16 +59,16 @@ MENU **IS**
 
 **LS**
 
-*   Starting at $75,0001\*
-*   416-HP4\* 3.5L V6 (RWD)
+*   Starting at $75,2001\*
+*   416-HP4, 5\* 3.5L V6
 
 *   Build
 *   Current Offers
 
 **LS HYBRID**
 
-*   Starting at $79,5101\*
-*   354 TOTAL SYSTEM HP4\*
+*   Starting at $79,7101\*
+*   354-HP4, 5\* 3.5L V6
 
 *   BUILD
 *   CURRENT OFFERS
@@ -86,7 +86,7 @@ COMPARE **NX**
 **NX HYBRID**
 
 *   Starting at $38,5352\*
-*   31-MPG combined rating5\*
+*   31-MPG combined rating6\*
 
 *   Build
 *   Current Offers
@@ -94,7 +94,7 @@ COMPARE **NX**
 **RX**
 
 *   Starting at $43,5702\*
-*   3 ROW SEATING UP TO 76\*
+*   3 ROW SEATING UP TO 77\*
 
 *   Build
 *   Current Offers
@@ -102,7 +102,7 @@ COMPARE **NX**
 **RX HYBRID**
 
 *   Starting at $45,9952\*
-*   30-MPG COMBINED RATING7\*
+*   30-MPG COMBINED RATING8\*
 
 *   Build
 *   Current Offers
@@ -117,7 +117,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $85,8308\*
+*   Starting at $85,8309\*
 *   383-HP4\* V8, FULL-TIME 4WD
 
 *   Build
@@ -162,7 +162,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **NX HYBRID**
 
 *   Starting at $38,5352\*
-*   31-MPG combined rating9\*
+*   31-MPG combined rating10\*
 
 *   Build
 *   Current Offers
@@ -170,7 +170,7 @@ COMPARE **NX HYBRID**
 **RX HYBRID**
 
 *   Starting at $45,9952\*
-*   30-MPG COMBINED RATING7\*
+*   30-MPG COMBINED RATING8\*
 
 *   Build
 *   Current Offers
@@ -193,8 +193,8 @@ COMPARE **NX HYBRID**
 
 **LS HYBRID**
 
-*   Starting at $79,5101\*
-*   354 TOTAL SYSTEM HP4\*
+*   Starting at $79,7101\*
+*   354-HP4, 5\* 3.5L V6
 
 *   BUILD
 *   CURRENT OFFERS
@@ -349,21 +349,23 @@ click here Important Info Important Info
 
 \[1\] MSRP does not include delivery, processing and handling fee of $1,025. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
 
-\[2\] MSRP does not include delivery, processing and handling fee of $1,025. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
+\[2\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
 \[3\] 2019 EPA estimates. Actual mileage will vary.
 
 \[4\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[5\] 2019 Lexus NX 300h (AWD) preliminary 33/city, 30/hwy, 31/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary.
+\[5\] Specs for RWD model shown.
 
-\[6\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
+\[6\] 2019 Lexus NX 300h (AWD) preliminary 33/city, 30/hwy, 31/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary.
 
-\[7\] 2019 Lexus RX 450h (AWD) preliminary 31/city, 28/hwy, 30/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary.
+\[7\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
 
-\[8\] MSRP does not include delivery, processing and handling fee of $1,295. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
+\[8\] 2019 Lexus RX 450h (AWD) preliminary 31/city, 28/hwy, 30/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary.
 
-\[9\] 2018 EPA estimates. Actual mileage will vary.
+\[9\] MSRP excludes delivery, processing and handling fee of $1,295, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
+
+\[10\] 2018 EPA estimates. Actual mileage will vary.
 
 Leasing &. Finance
 
