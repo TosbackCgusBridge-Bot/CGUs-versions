@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   20\. September 2018
+*   21\. September 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.219,02ǀ
+*   DAX 12.326,48ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -73,9 +73,8 @@ Anmelden
         *   Bundesliga
         *   Fußball-Liveticker
         *   Spielerindex SPIX
-        *   Fußball-News
-        *   US Open
         *   Champions League
+        *   Fußball-News
         *   Fußball-Tippspiel
         *   Formel 1
         *   Formel-1-Liveticker
