@@ -1,8 +1,8 @@
 Accessible View
 
-*   Get a better experience Sign In create account
+*   Start Earning Rewards! Sign In create account
     
-    Get a better experience Sign In create account
+    Start Earning Rewards! Sign In create account
     
     My AccountSign InTrack MyOrders
 
@@ -19,11 +19,13 @@ Near YouFind a StoreBack40% OFF LIZ CLAIBORNE DRESS SHOESShop AllSELECT STYLES40
 
 *   $3059after couponwas $60 Liz Claiborne Hara Womens Pumps(29)Add To Cart
 *   $3059after couponwas $60 Liz Claiborne Gemma Womens Heeled Sandals(63)Add To Cart
-*   $3059after couponwas $60 Liz Claiborne Helen Womens HeelsAdd To Cart
+*   $3059after couponwas $60 Liz Claiborne Helen Womens Heels(1)Add To Cart
 *   $3059after couponwas $60 Liz Claiborne Gemma Womens ShootiesAdd To Cart
-*   $3059after couponwas $60 Liz Claiborne Keegan Womens Pumps(131)Add To Cart
-*   $3059after couponwas $60 Liz Claiborne Halki Womens PumpsAdd To Cart
 *   $3059after couponwas $60 Liz Claiborne Medina Womens PumpsAdd To Cart
+*   $3059after couponwas $60 Liz Claiborne Halki Womens PumpsAdd To Cart
+*   $4199 sale
+    
+    was $70 Liz Claiborne Genesis Womens ShootiesAdd To Cart
 
 Shop and Save at JCPenney
 
