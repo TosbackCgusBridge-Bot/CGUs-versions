@@ -1,72 +1,58 @@
 Skip to main content
 
-*   Very Real
 *   Crime Time
 *   Martinis &. Murder
 *   Shop Oxygen
-*   Podcast
-
-Open menu
+*   Podcasts
 
 *   Shows
     
     *   See All Shows
     
-    *   A Wedding and a Murder
-    *   Aaron Hernandez Uncovered
-    *   Abuse of Power
-    *   Buried in the Backyard
     *   Chicago P.D.
     *   Cold Justice
     *   Dateline: Secrets Uncovered
-    
-    *   In Defense Of
-    *   In Ice Cold Blood
-    *   It Takes A Killer
+    *   Deadly Power
+    *   Dying To Belong
+    *   Golden State Killer: Main Suspect
+    *   Martinis &. Murder
     *   Snapped
-    *   The Case of: Caylee Anthony
-    *   The Price of Duty
-    *   The Turpin 13: Family Secrets Exposed
+    *   The Disappearance of Crystal Rogers
+    *   Unspeakable Crime: The Killing of Jessica Chambers
 *   Full Episodes
 *   Videos
 *   Schedule
 *   Channel Finder
-*   Podcast
+*   AR App
 
-Get Updates Facebook Twitter Newsletter Close menu Oxygen.com
+Get Updates Facebook Twitter Newsletter Oxygen.com
 
 *   Shows
     
     *   See All Shows
     
-    *   A Wedding and a Murder
-    *   Aaron Hernandez Uncovered
-    *   Abuse of Power
-    *   Buried in the Backyard
     *   Chicago P.D.
     *   Cold Justice
     *   Dateline: Secrets Uncovered
-    
-    *   In Defense Of
-    *   In Ice Cold Blood
-    *   It Takes A Killer
+    *   Deadly Power
+    *   Dying To Belong
+    *   Golden State Killer: Main Suspect
+    *   Martinis &. Murder
     *   Snapped
-    *   The Case of: Caylee Anthony
-    *   The Price of Duty
-    *   The Turpin 13: Family Secrets Exposed
+    *   The Disappearance of Crystal Rogers
+    *   Unspeakable Crime: The Killing of Jessica Chambers
 *   Full Episodes
 *   Videos
 *   Schedule
 *   Channel Finder
-*   Podcast
+*   AR App
 
-Get Updates Facebook Twitter Instagram Snapchat Newsletter Sites
+Get Updates Sites
 
-*   Very Real
 *   Crime Time
 *   Martinis &. Murder
 *   Shop Oxygen
-*   Podcast
+*   Podcasts
 
 Page Not Found
 
@@ -98,7 +84,6 @@ About Oxygen
 *   New Independent Programming Report
 *   Closed Captioning
 *   HTML Sitemap
-*   In Progress
 *   Oxygen Apps &. Support
 
 Get Involved
@@ -109,6 +94,6 @@ Get Involved
 *   Corporate Info
 *   AdChoices
 
-Stay Connected Facebook Twitter Instagram Snapchat Newsletter Stay Connected Facebook Twitter Instagram Snapchat Newsletter
+Stay Connected Stay Connected
 
 ©2018 Oxygen Media LLC. A Division of NBCUniversal
