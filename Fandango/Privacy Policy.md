@@ -20,11 +20,11 @@ Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
+    *   Assassination Nation
     *   Fahrenheit 11/9
     *   The House with a Clock in its Walls
     *   Life Itself (2018)
     *   American Dresser (2018)
-    *   Assassination Nation
     *   Colette (2018)
     *   Garry Winogrand: All Things Are Photographable
     *   The Great Battle
@@ -74,7 +74,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   Exclusive: Here’s The Latest on That New ‘Friday Night Lights’ Movie Read More
     *   The First 'Captain Marvel' Trailer Has Landed. Here's Everything We Know So Far Read More
-    *   Patrick Stewart Joins the 'Charlie's Angels' Reboot. Here's Everything We Know Read More
+    *   Cary Fukunaga Will Direct the Next James Bond Movie. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
