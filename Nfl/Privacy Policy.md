@@ -1,4 +1,4 @@
-*   NYJ1-1CLE0-1-1Thu, 8:20 pm ET
+*   NYJ1-217CLE1-1-121Final
 *   NO1-1ATL1-1Sun, 1:00 pm ET
 *   DEN2-0BAL1-1Sun, 1:00 pm ET
 *   CIN2-0CAR1-1Sun, 1:00 pm ET
@@ -32,7 +32,7 @@
 *   NFL Network
 *   Photos
 
-*   NYJ1-1CLE0-1-1Thu, 8:20 pm ET
+*   NYJ17CLE21Final
 *   NO1-1ATL1-1Sun, 1:00 pm ET
 *   DEN2-0BAL1-1Sun, 1:00 pm ET
 *   CIN2-0CAR1-1Sun, 1:00 pm ET
@@ -70,7 +70,7 @@
 *   Shop
 *   Teams
 
-NFL.com - Privacy Policy English
+BREAKING NEWSBrowns snap 19-game winless streak in Baker Mayfield's debutMayfield spearheads Cleveland's comeback vs. Jets to help deliver the team's first win since Dec. 24, 2016.READ MORE NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
 Updated: July 20, 2018**  
@@ -268,4 +268,6 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy
+Attn: Website Privacy Policy  
+
+  Mayfield spearheads Cleveland's comeback vs. Jets to help deliver the team's first win since Dec. 24, 2016.
