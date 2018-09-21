@@ -46,7 +46,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Collections ) Collections
+*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -63,7 +63,7 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
 
-Close submenu ( Collections ) Collections
+Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
@@ -116,7 +116,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Collections ) Collections
+*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -129,7 +129,7 @@ Close submenu ( Guys ) Guys
 *   Clearance
 *   Extended Sizes
 
-Close submenu ( Collections ) Collections
+Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
@@ -215,7 +215,6 @@ Close submenu ( Girls ) Girls
 *   View All
 *   New to Clearance
 *   $9.99 + Under
-*   .99 Undies
 *   Tops
 *   Bottoms
 *   Dresses + Skirts
@@ -283,12 +282,9 @@ Menu Find a Store Aeropostale
 *   Girls
     
     *   View Home
-    *   Collections
+    *   Featured
         *   View All
         *   New Arrivals
-        *   SWIM SALE
-        *   3 for $12 Undies
-        *   Buy 1 Get 2 Socks
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -344,10 +340,9 @@ Menu Find a Store Aeropostale
 *   Guys
     
     *   View Home
-    *   Collections
+    *   Featured
         *   View All
         *   New Arrivals
-        *   Buy 1 Get 2 Accessories
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -421,7 +416,6 @@ Menu Find a Store Aeropostale
         *   View All
         *   New to Clearance
         *   $9.99 + Under
-        *   .99 Undies
         *   Tops
         *   Bottoms
         *   Dresses + Skirts
@@ -466,12 +460,14 @@ ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Ov
 *   Help
 *   Coupon Page
 *   My Account
+*   Buy Online Pick Up In Store
 
 Gift Cards
 
 *   eGift Cards
 *   Lost/Stolen Gift Cards
 *   Check Gift Card Balance
+*   Buy Online Pick Up In Store
 
 About Us
 
@@ -481,6 +477,7 @@ About Us
 *   Privacy Policy
 *   CA Transparency Act
 *   Supply Chain
+*   Buy Online Pick Up In Store
 
 Stay Connected
 
@@ -488,6 +485,7 @@ Stay Connected
 *   Find Store Coupons
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
+*   Buy Online Pick Up In Store
 
 © 2018 Aeropostale. All Rights Reserved.
 
