@@ -199,4 +199,4 @@ Reston VA, 20190
 
 Home | About | Advertisers | Our Sites | Blog | Careers | Contact  
 Copyright © 2018 Intermarkets, Inc. All rights reserved.  
-Terms and Conditions | Privacy Policy | Log In
+Terms and Conditions | Privacy Policy
