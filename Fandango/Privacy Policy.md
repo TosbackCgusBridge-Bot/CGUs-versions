@@ -72,9 +72,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Exclusive: Here’s The Latest on That New ‘Friday Night Lights’ Movie Read More
+    *   Marvel's 'Eternals' Moves Ahead With Chloe Zhao Directing. Here's Everything We Know Read More
     *   The First 'Captain Marvel' Trailer Has Landed. Here's Everything We Know So Far Read More
-    *   Cary Fukunaga Will Direct the Next James Bond Movie. Here's Everything We Know Read More
+    *   The Week in Movie News: James Bond Found a New Director, First 'Captain Marvel' Trailer Arrived and More Read More
     
     Explore Content
     *   Movie Reviews
