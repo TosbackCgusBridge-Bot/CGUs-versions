@@ -1,76 +1,4 @@
-*   NYJ1-217CLE1-1-121Final
-*   NO1-1ATL1-1Sun, 1:00 pm ET
-*   DEN2-0BAL1-1Sun, 1:00 pm ET
-*   CIN2-0CAR1-1Sun, 1:00 pm ET
-*   NYG0-2HOU0-2Sun, 1:00 pm ET
-*   TEN1-1JAX2-0Sun, 1:00 pm ET
-*   SF1-1KC2-0Sun, 1:00 pm ET
-*   OAK0-2MIA2-0Sun, 1:00 pm ET
-*   BUF0-2MIN1-0-1Sun, 1:00 pm ET
-*   IND1-1PHI1-1Sun, 1:00 pm ET
-*   GB1-0-1WAS1-1Sun, 1:00 pm ET
-*   LAC1-1LA2-0Sun, 4:05 pm ET
-*   CHI1-1ARI0-2Sun, 4:25 pm ET
-*   DAL1-1SEA0-2Sun, 4:25 pm ET
-*   NE1-1DET0-2Sun, 8:20 pm ET
-*   PIT0-1-1TB2-0Mon, 8:15 pm ET
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Highlights
-*   KICKOFF
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-*   Free Agency
-*   Game Pass
-*   Stats
-*   Ways to Watch
-*   NFL Network
-*   Photos
-
-*   NYJ17CLE21Final
-*   NO1-1ATL1-1Sun, 1:00 pm ET
-*   DEN2-0BAL1-1Sun, 1:00 pm ET
-*   CIN2-0CAR1-1Sun, 1:00 pm ET
-*   NYG0-2HOU0-2Sun, 1:00 pm ET
-*   TEN1-1JAX2-0Sun, 1:00 pm ET
-*   SF1-1KC2-0Sun, 1:00 pm ET
-*   OAK0-2MIA2-0Sun, 1:00 pm ET
-*   BUF0-2MIN1-0-1Sun, 1:00 pm ET
-*   IND1-1PHI1-1Sun, 1:00 pm ET
-*   GB1-0-1WAS1-1Sun, 1:00 pm ET
-*   LAC1-1LA2-0Sun, 4:05 pm ET
-*   CHI1-1ARI0-2Sun, 4:25 pm ET
-*   DAL1-1SEA0-2Sun, 4:25 pm ET
-*   NE1-1DET0-2Sun, 8:20 pm ET
-*   PIT0-1-1TB2-0Mon, 8:15 pm ET
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Highlights
-*   KICKOFF
-
-*   Highlights
-
-*   *   Free Agency
-    *   Game Pass
-    *   Stats
-    *   Ways to Watch
-    *   NFL Network
-    *   Photos
-
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-
-BREAKING NEWSBrowns snap 19-game winless streak in Baker Mayfield's debutMayfield spearheads Cleveland's comeback vs. Jets to help deliver the team's first win since Dec. 24, 2016.READ MORE NFL.com - Privacy Policy English
+NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
 Updated: July 20, 2018**  
@@ -268,6 +196,4 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy  
-
-  Mayfield spearheads Cleveland's comeback vs. Jets to help deliver the team's first win since Dec. 24, 2016.
+Attn: Website Privacy Policy
