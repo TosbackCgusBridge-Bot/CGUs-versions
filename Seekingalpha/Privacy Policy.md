@@ -32,8 +32,8 @@ MarketplaceSeeking AlphaSUBSCRIBE
     *   Short Ideas
     *   Closed End Funds
     *   Today's Market
-    *   Investing Strategy
     *   ETF Screener
+    *   Investing Strategy
 
 Sign in / Join Now Privacy
 
