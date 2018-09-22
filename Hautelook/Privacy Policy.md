@@ -8,6 +8,25 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Hunter Shoes &. More Up to 55% Off
+    *   Hunter Men Up to 45% Off
+    *   GREY Jason Wu
+    *   Socialite
+    *   Alternative
+    *   Thale Blanc Up to 85% Off
+    *   PJ Salvage
+    *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
+    *   Hunter Kids Up to 50% Off
+    *   Free Shipping: Hand-Painted Replicas
+    *   CLE Cosmetics
+    *   RapidLash
+    *   Hunter Men's Outerwear Up to 45% Off
+    *   Velvet by Graham &. Spencer
+    *   Hush Puppies
+    *   24/7 Comfort Starting at $20
+    *   OnTwelfth
+    *   On-Trend Leather Bracelets Starting at $15
+    *   Kids' Sweater Styles Starting at $15
     *   Eileen Fisher Incl. Plus &. Petites
     *   Date Night: Dresses ft. Dress the Population
     *   Good Luck Gem
@@ -15,6 +34,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   GUESS Coats
     *   Freida Rothman Jewelry
     *   Spyder
+    
     *   Men's Denim Under $40
     *   Straight to Curly: Macadamia Natural Oil
     *   Make It Modern: Budget-Friendly Accent Furniture
@@ -25,34 +45,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Ramarim
     *   Jerry Leigh Character Tees &. More from $8
     *   See Kai Run
-    *   Nicole Miller Handbags
     *   Lorenzo Uomo Up to 60% Off
     *   Skinn Cosmetics Up to 70% Off
     *   Free Shipping: Rustic Decor ft. UMA
-    *   Cashmere Up to 70% Off
     *   Cardigans from $20 Incl. Plus &. Petites
     *   Pullovers from $15 Incl. Plus &. Petites
     *   Sweater Dresses from $25
     *   Men's Sweater Edit: Styles Up to 60% Off
-    *   Kids' Sweater Styles Starting at $15
-    *   Swiss Made: Burberry Watches Up to 50% Off
     *   Daniel Won
-    
-    *   New Weather-Ready Outdoor Shoes ft. Keen
     *   Mirenesse Up to 70% Off
-    *   Dresses For Every Occasion
     *   Free Shipping: 1000 Thread Count Sheets &. More
-    *   Oliver Peoples &. More: Sun Under $100
     *   art &. eden
-    *   L.K.Bennett Up to 50% Off
-    *   William Rast
-    *   Love + Harmony
-    *   Active Sneakers ft. PUMA, Reebok &. More
     *   Classics &. New Faves from HarperCollins
     *   Meira T Fine Jewelry
     *   Keen Kids
     *   Arka Tees Under $20
     *   Get Outdoors: Men's Hiking Shoes ft. Keen
+    
     *   Work Ready: Men's Dress Shoes from $30
     *   Beauty Must-Haves Starting at $10
     *   Sundari Skin Care
@@ -61,42 +70,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   KitchenAid
     *   Wusthof
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
-    *   Marc Jacobs Handbags Up to 50% Off
-    *   Marc Jacobs Jewelry &. Watches Up to 60% Off
     *   ECCO Men
-    *   Marc Jacobs Shoes Up to 50% Off
     *   Dr. Botanicals Natural Beauty
     *   Elchim Hair Tools
-    
-    *   TEDCO Toys
+    *   Cashmere Up to 70% Off
+    *   Nicole Miller Handbags
+    *   St. John Collection
     *   David Donahue
-    *   Skate into Fall: Kids' Styles ft. Volcom
     *   Goorin Bros.
-    *   Fun Girls' Shoes ft. MICHAEL Michael Kors
-    *   Red Wing Up to 50% Off
     *   Sigma Beauty
     *   On the Go: Wireless Earbuds, Chargers &. More
-    *   Lindbergh
-    *   Jean Claude Jewelry Up to 80% Off
-    *   New Fall Arrivals: Sweaters &. More Up to 75% Off
-    *   New Styles Added: Johnny Was
-    *   St. John Collection
-    *   Cozy Toes: SmartWool &. More
-    *   Best of Italy: Fall Handbags
-    *   Marc Jacobs Clothing Up to 65% Off
     *   Fragrances by Lollia &. More
-    *   Vanity Planet Up to 75% Off
-    *   Paula's Choice
     *   Free Shipping: Fresh Bedding for Fall
     *   Storage Must-Haves Starting at $10
     *   Work Dresses ft. Tahari Incl. Plus &. Petites
-    *   Sugarlips
-    *   Winter Essentials: Long Sleeve Tees
-    *   Vertigo Up to 85% Off
-    *   Free Shipping: Bedding for the Whole Family
+    *   Dresses For Every Occasion
     *   Free Shipping: Kitchen Blowout
 *   WomenShop Sale Events
     
+    *   Hunter Shoes &. More Up to 55% Off
+    *   GREY Jason Wu
+    *   Socialite
+    *   Alternative
+    *   Thale Blanc Up to 85% Off
+    *   PJ Salvage
+    *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
+    *   CLE Cosmetics
+    *   RapidLash
+    *   Hush Puppies
+    *   24/7 Comfort Starting at $20
+    *   OnTwelfth
+    *   On-Trend Leather Bracelets Starting at $15
     *   Eileen Fisher Incl. Plus &. Petites
     *   Date Night: Dresses ft. Dress the Population
     *   Good Luck Gem
@@ -105,126 +109,100 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Freida Rothman Jewelry
     *   Straight to Curly: Macadamia Natural Oil
     *   Trending Now: Fall Styles ft. Moon River
+    
     *   C&C California Sport Under $30
     *   Perfect for Fall: Pumps Starting at $30
     *   M by Bruno Magli
     *   Ramarim
-    *   Nicole Miller Handbags
     *   Skinn Cosmetics Up to 70% Off
-    *   Cashmere Up to 70% Off
     *   Cardigans from $20 Incl. Plus &. Petites
     *   Pullovers from $15 Incl. Plus &. Petites
     *   Sweater Dresses from $25
-    *   Swiss Made: Burberry Watches Up to 50% Off
-    *   New Weather-Ready Outdoor Shoes ft. Keen
     *   Mirenesse Up to 70% Off
-    *   Dresses For Every Occasion
-    *   Oliver Peoples &. More: Sun Under $100
-    *   L.K.Bennett Up to 50% Off
-    *   William Rast
-    
-    *   Love + Harmony
-    *   Active Sneakers ft. PUMA, Reebok &. More
     *   Meira T Fine Jewelry
     *   Beauty Must-Haves Starting at $10
     *   Sundari Skin Care
-    *   Marc Jacobs Handbags Up to 50% Off
-    *   Marc Jacobs Jewelry &. Watches Up to 60% Off
-    *   Marc Jacobs Shoes Up to 50% Off
     *   Dr. Botanicals Natural Beauty
     *   Elchim Hair Tools
-    *   Sigma Beauty
-    *   New Fall Arrivals: Sweaters &. More Up to 75% Off
-    *   New Styles Added: Johnny Was
+    *   Cashmere Up to 70% Off
+    *   Nicole Miller Handbags
     *   St. John Collection
-    *   Cozy Toes: SmartWool &. More
-    *   Best of Italy: Fall Handbags
-    *   Marc Jacobs Clothing Up to 65% Off
+    *   Sigma Beauty
     *   Fragrances by Lollia &. More
-    *   Vanity Planet Up to 75% Off
-    *   Paula's Choice
     *   Work Dresses ft. Tahari Incl. Plus &. Petites
-    *   Sugarlips
-    *   Winter Essentials: Long Sleeve Tees
-    *   Vertigo Up to 85% Off
+    *   Dresses For Every Occasion
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
-    *   Accessories
     *   Jewelry
+    *   Accessories
+    *   Handbags
     *   Tech Accessories
-    *   Watches
     *   Lingerie
 *   MenShop Sale Events
     
+    *   Hunter Men Up to 45% Off
+    *   Hunter Men's Outerwear Up to 45% Off
+    *   Velvet by Graham &. Spencer
     *   Spyder
     *   Men's Denim Under $40
     *   Lorenzo Uomo Up to 60% Off
     *   Men's Sweater Edit: Styles Up to 60% Off
-    *   Swiss Made: Burberry Watches Up to 50% Off
-    *   Daniel Won
-    *   Oliver Peoples &. More: Sun Under $100
-    *   Arka Tees Under $20
     
+    *   Daniel Won
+    *   Arka Tees Under $20
     *   Get Outdoors: Men's Hiking Shoes ft. Keen
     *   Work Ready: Men's Dress Shoes from $30
     *   ECCO Men
     *   David Donahue
     *   Goorin Bros.
-    *   Red Wing Up to 50% Off
-    *   Lindbergh
-    *   Jean Claude Jewelry Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Hunter Kids Up to 50% Off
+    *   Kids' Sweater Styles Starting at $15
     *   Jerry Leigh Character Tees &. More from $8
     *   See Kai Run
-    *   Kids' Sweater Styles Starting at $15
     *   art &. eden
     *   Classics &. New Faves from HarperCollins
     *   Keen Kids
-    *   TEDCO Toys
-    *   Skate into Fall: Kids' Styles ft. Volcom
-    *   Fun Girls' Shoes ft. MICHAEL Michael Kors
     
     Shop By Category
     *   Toys
-    *   Girls Sizes 7-16
     *   Girls Sizes 2T-6X
     *   Girls' Shoes
+    *   Girls Sizes 7-16
     *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
-    *   Baby Girl
     *   Boys' Shoes
+    *   Baby Girl
     *   Baby Boy
+    *   Boys Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Free Shipping: Hand-Painted Replicas
     *   Make It Modern: Budget-Friendly Accent Furniture
     *   Free Shipping: Rustic Decor ft. UMA
     *   Free Shipping: 1000 Thread Count Sheets &. More
     *   Free Shipping: Cottage-Chic Pillows, Art &. More
     *   New on HauteLook: Rowenta
     *   KitchenAid
-    *   Wusthof
     
+    *   Wusthof
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   On the Go: Wireless Earbuds, Chargers &. More
     *   Free Shipping: Fresh Bedding for Fall
     *   Storage Must-Haves Starting at $10
-    *   Free Shipping: Bedding for the Whole Family
     *   Free Shipping: Kitchen Blowout
     
     Shop By Category
-    *   Bedding
     *   Home Decor
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Accent Furniture
     *   Rugs
     *   Storage &. Cleaning
@@ -232,27 +210,26 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   CLE Cosmetics
+    *   RapidLash
     *   Straight to Curly: Macadamia Natural Oil
     *   Skinn Cosmetics Up to 70% Off
     *   Mirenesse Up to 70% Off
     *   Beauty Must-Haves Starting at $10
+    
     *   Sundari Skin Care
     *   Dr. Botanicals Natural Beauty
-    
     *   Elchim Hair Tools
     *   Sigma Beauty
     *   Fragrances by Lollia &. More
-    *   Vanity Planet Up to 75% Off
-    *   Paula's Choice
     
     Shop By Category
-    *   Makeup
     *   Skin Care
-    *   Tools &. Accessories
+    *   Makeup
     *   Hair Care
+    *   Tools &. Accessories
     *   Bath &. Body
     *   Fragrance
-    *   Makeup Bags
     *   Beauty Accessories
     *   Nails
 
