@@ -243,7 +243,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**SHOP NEW ARRIVALS**  GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+**ALL JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
