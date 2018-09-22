@@ -37,8 +37,8 @@ WOMEN'S SALE DENIM IS NOW AN EXTRA 33% OFF – SHOP NOW.
         *   SHOP ALL WOMEN'S
         *   New Arrivals
         *   Shop by Outfit
-        *   Shop by Brand
-        *   Shop Buckle Exclusive
+        *   Women's Brands
+        *   Buckle Exclusive
         *   Shop Instagram
         *   Plus Sizes
         *   BOGO 30% Off BKE Jewelry
@@ -49,53 +49,50 @@ WOMEN'S SALE DENIM IS NOW AN EXTRA 33% OFF – SHOP NOW.
         *   Tops
         
         *   2 For $35
-        *   Bodysuits
-        *   Tees
-        *   Tanks
-        *   Bralettes
-        *   Kimonos
-        *   Shirts/Blouses
+        *   Outerwear
+        *   Sweaters &. Cardigans
         *   Sweatshirts
-        *   Sweaters
-        *   Jackets
+        *   Vests
+        *   Shirts &. Blouses
+        *   Kimonos
+        *   T-Shirts
+        *   Tank Tops
+        *   Bralettes
         *   Shop All
         
         *   Bottoms
         
         *   Jeans
-        *   Curvy Jeans
-        *   Skinny Jeans
-        *   Jeans Under $50
-        *   Pants/Leggings
-        *   Crops/Capris
-        *   Shorts
+        *   Pants
+        *   Leggings
+        *   Crops &. Capris
         *   Skirts
-        *   Denim Skirts
-        *   The Denim Shop
+        *   Shorts
         *   Shop All
         
         *   Shoes
         
         *   Sandals
-        *   Flips
-        *   Sneakers
-        *   Trend Heels
-        *   Boots
-        *   Flats/Slides
-        *   Wedges
+        *   Booties
         *   Western Boots
+        *   Tall Boots
+        *   Sneakers
+        *   Flats/Slides
+        *   Heels
+        *   Wedges
+        *   Sandals
         *   Shop All
         
         *   More
         
         *   Accessories
-        *   Watches
-        *   Bags
         *   Dresses
-        *   Rompers/Jumpsuits
+        *   Rompers &. Jumpsuits
         *   Fragrance
+        *   Bags
         *   Hats
-        *   Activewear
+        *   Socks
+        *   Watches
         *   Sunglasses
         *   Swimwear
         *   Shop All
@@ -108,7 +105,7 @@ WOMEN'S SALE DENIM IS NOW AN EXTRA 33% OFF – SHOP NOW.
         
         *   SHOP ALL MEN'S
         *   New Arrivals
-        *   Shop by Brand
+        *   Men's Brand
         *   Promotions
         *   Shop by Outfit
         *   Shop Instagram
@@ -118,50 +115,47 @@ WOMEN'S SALE DENIM IS NOW AN EXTRA 33% OFF – SHOP NOW.
         *   Tops
         
         *   2 For $25
-        *   Graphic Tees
-        *   Solid Tees
-        *   Shirts
-        *   Polos
-        *   Tanks
-        *   Long Body
+        *   Outerwear
         *   Sweatshirts
-        *   Jackets
+        *   Sweaters
+        *   Shirts
+        *   T-Shirts
+        *   Polos
+        *   Vests
+        *   Tanks
         *   Shop All
         
         *   Bottoms
         
         *   Jeans
-        *   Bootcut Jeans
-        *   Straight Leg Jeans
-        *   Shorts
-        *   Swim/Boardshorts
-        *   Joggers
-        *   Pants/Chinos
         *   Stretch Jeans
-        *   Jeans Under $75
-        *   The Denim Shop
+        *   Khakis &. Chinos
+        *   Joggers
+        *   Pants
+        *   Shorts
+        *   Boardshorts
         *   Shop All
         
         *   Shoes
         
+        *   Boots
+        *   Dress Shoes
+        *   Sneakers
+        *   Casual Shoes
         *   Flips
         *   Slides
-        *   Sneakers
-        *   Casuals
-        *   Dress
-        *   Boots
         *   Shop All
         
         *   More
         
         *   Hats
-        *   Sunglasses
         *   Boxers
         *   Socks
-        *   Watches
         *   Belts
+        *   Watches
         *   Cologne
         *   Wallets
+        *   Sunglasses
         *   Jewelry
         *   Shop All
         
