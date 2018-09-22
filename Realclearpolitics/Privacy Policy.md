@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Axelrod_: With Kavanaugh, McConnell's Throne Is On the Line
+*   _Rich Lowry_: How the U.S. Senate Became a Campus Kangaroo Court
     
-*   _Sohrab Ahmari_: Dems, Media Mob Have Unfairly Besmirched Kavanaugh
+*   _Rebecca Solnit_: Time to Stop Blaming Women for the Sins of Men
     
-*   _Chauncey DeVega_: Kavanaugh Is a Blend of Toxic Male Privilege and Affluenza
+*   _Jennifer Braceras_: Brett Kavanaugh and the Limits of Hashtag Feminism
     
-*   _F.H. Buckley_: Why the Left and Right Can Embrace Nationalism
+*   _Michelle Goldberg_: Republicans Are Being Unfair. I Hope Ford Testifies Anyway.
     
-*   _Jeff Spross_: China Bets on the Blue Wave
+*   _Newt Gingrich_: Texas Race Offers Blueprint for Red Wave in November
     
-*   _Salena Zito_: He's Not Trumpy, He's Hogany: Interview With MD Governor
+*   _Bob Moser_: How South's New Progressives Are Taking On Republicans
     
-*   _Albert Hunt_: How to Be a Democrat in Trump Country
+*   _Adele Malpass_: Menendez in Jeopardy as NJ Senate Challenger Makes Push
     
-*   _Joseph Wulfsohn_: Dems' Kavanaugh Ploy May Come Back to Haunt Them
+*   _Sungku Jang_: 4 Big Revelations From the Kim-Moon Summit
     
-*   _Peter Beinart_: A Growing Partisan Split Over Sexual-Misconduct Allegations
+*   _John Delury_: Kim Jong-un Has a Dream--U.S. Should Help Him Realize It
     
-*   _Toby Young_: Ian Buruma and the Age of Sexual McCarthyism
+*   _Robert Goldberg_: War on Vaping Threatens Public Health
     
-*   _Joel Kotkin_: The Value of All Things Crazily Rich and Asian
+*   _Alan Dershowitz_: Refusing Study in Israel Is a Bitter Lesson in Discrimination
     
-*   _Jonathan Turley_: Kavanaugh and Blasey Ford Deserve Blind Justice
+*   _Kate Shaw_: How Strong Does the Evidence Against Kavanaugh Need to Be?
     
-*   _Frida Ghitis_: Kavanaugh Case: How #MeToo Is Reshaping Society
+*   _Marc Thiessen_: How Much Evidence Do We Need to Destroy Someone?
     
-*   _Laura Ingraham_: Shades of the Duke Lacrosse Rush to Judgment
+*   _Katie Pavlich_: Believe Him
     
-*   _Charles Blow_: What Are Republicans Hiding About Kavanaugh?
+*   _Catherine Rampell_: Why Should We Believe Kavanaugh?
     
-*   _David Harsanyi_: There's No Reason to Delay Kavanaugh Vote Any Further
+*   _Joe Concha_: Media Slinging Career-Ending Accusations With Abandon
     
-*   _Richard Sokolsky_: North, South Take Important Steps to Demilitarize Korea
+*   _Alex Ward_: Trump's Radical China Strategy Is Failing
     
-*   _John Cassidy_: The Danger of Trump's Trade War With China
+*   _Andy Xie_: Can Trade War Reset US-China Relations for the Better?
     
-*   _Christopher Buskirk_: Actually, Donald Trump Is a Free Trade Hero
+*   _Fred Barnes_: Trump Tries Something Surprising: Self-Control
     
-*   _Michael Barone_: The Air Has Seeped Out of Russia/Collusion Balloon
+*   _A.B. Stoddard_: How Many Women Does the GOP Want to Lose?
     
-*   _Jonathan Capehart_: DNC's Perez: We're Fighting for Our Democracy
+*   _Conrad Black_: Trump Can Prevail in Midterms by Being Cautious
     
-*   _Alfredo Ortiz_: Hispanics Flourishing in the Trump Economy
+*   _T.A. Frank_: Can Dems Overcome Political Schizophrenia By November?
     
-*   _Annie Lowrey_: Is America Facing a Labor Shortage?
+*   _Sec. of State Mike Pompeo_: We Remain the World's Most Generous Nation
     
-*   _Betsy McCaughey_: How to Silence Dems' Preexisting Conditions Lie
+*   _David Ignatius_: Is the Korea Denuclearization Process for Real?
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Comforts Storm-Ravaged Carolinas With Hot Dogs, Hugs
+*   "He's Been There": Trump Stumps for Sen. Heller in Vegas
+*   Former Aides Give Wisconsin Gov. Walker Re-Election Headache
+*   Page: We'd Be in Wars &. Conflicts If Comey, Clapper, Brennan Advised Trump
 *   Trump, Obama Hit the Trail--for Better and for Worse
-*   Graham: Why Did Kavanaugh Accuser Take Polygraph If She Won't Testify?
 *   Electorate Makeup Will Be Key to Midterm Outcome
-*   Trump Imposes Tariffs on $200 Billion More of Chinese Goods
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,25 +243,25 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Pennsylvania Senate - Barletta vs. CaseyMorning Call\*
+    *   Casey53
+    *   Barletta35Casey +18
+*   Michigan Senate - James vs. StabenowMitchell Research
+    *   Stabenow54
+    *   James41Stabenow +13
 *   Rhode Island Senate - Flanders vs. WhitehouseWPRI/Roger Williams
     *   Whitehouse54
     *   Flanders35Whitehouse +19
-*   Rhode Island Governor - Fung vs. RaimondoWPRI/Roger Williams\*
-    *   Raimondo43
-    *   Fung36Raimondo +7
-*   Iowa 1st District - Blum vs. FinkenauerNY Times/Siena
-    *   Finkenauer52
-    *   Blum37Finkenauer +15
-*   Pennsylvania Governor - Wagner vs. WolfRasmussen Reports
-    *   Wolf52
-    *   Wagner40Wolf +12
+*   Pennsylvania Governor - Wagner vs. WolfMorning Call\*
+    *   Wolf55
+    *   Wagner36Wolf +19
 
 More Latest Polls In The News
 
-*   CNN Focus Group of Republican Women on Christine Blasey Ford's Allegation Against Brett Kavanaugh
+*   Full Video: Ted Cruz And Beto O'Rourke Face Off In First TX Senate Debate. Immigration, Kavanaugh, Trump, More
+*   CNN Focus Group of Republican Women on Ford's Allegation Against Brett Kavanaugh
 *   Coulter: Kavanaugh Scandal Shows Media Running The Country, Can Make Any "Non-Disprovable Claim"
 *   Brennan: FBI Has "Obligation" To Circumvent Trump, Took Constitutional Oath To United States
-*   Trump: I'm Disappointed In Jeff Sessions For Numerous Reasons, But "We Have An Attorney General"
 *   Maddow to Hillary Clinton: Do You Support Due Process For Kavanaugh Like After Bill Clinton Sexual Allegations?
 
 *   Politics
