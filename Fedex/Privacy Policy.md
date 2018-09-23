@@ -1,4 +1,4 @@
-Hurricane Florence has impacted service in parts of North Carolina and South Carolina. For more information, go to https://www.fedex.com/en-us/service-alerts.html
+Hurricane Florence has impacted service in parts of North Carolina and South Carolina. For more information, go to https://www.fedex.com/en-us/service-alerts.html  
 
 *   Shipping Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
 *   Tracking Tracking ID Tracking ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
