@@ -197,7 +197,7 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
     *   Careers
     *   Investor Relations
     *   Network Information
-    *   Areas We Serve
+    *   Altice Connects
 *   Services
     *   Find Offers
     *   Moving?
@@ -216,6 +216,7 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
     *   Contact Us
     *   Online Help
     *   Terms &. Policies
+    *   Areas We Serve
     *   Law Enforcement
 
 *   About Altice USA
