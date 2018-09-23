@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   "He's Been There": Trump Stumps for Sen. Heller in Vegas
-*   Former Aides Give Wisconsin Gov. Walker Re-Election Headache
-*   Page: We'd Be in Wars &. Conflicts If Comey, Clapper, Brennan Advised Trump
+*   Menendez in Jeopardy as NJ Senate Challenger Makes Push
+*   Cruz, O'Rourke Trade Attacks During Testy 1st Texas Debate
+*   In MO, Trump Vows to Eliminate "Lingering Stench" at DOJ, FBI
 *   Trump, Obama Hit the Trail--for Better and for Worse
 *   Electorate Makeup Will Be Key to Midterm Outcome
 *   Presidential Job Approval
@@ -243,6 +243,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Iowa Governor - Reynolds vs. HubbellDes Moines Register
+    *   Hubbell43
+    *   Reynolds41Hubbell +2
 *   Pennsylvania Senate - Barletta vs. CaseyMorning Call\*
     *   Casey53
     *   Barletta35Casey +18
@@ -252,9 +255,6 @@ Latest PollsAll Polls
 *   Rhode Island Senate - Flanders vs. WhitehouseWPRI/Roger Williams
     *   Whitehouse54
     *   Flanders35Whitehouse +19
-*   Pennsylvania Governor - Wagner vs. WolfMorning Call\*
-    *   Wolf55
-    *   Wagner36Wolf +19
 
 More Latest Polls In The News
 
