@@ -72,7 +72,7 @@ WOMEN'S SALE DENIM IS NOW AN EXTRA 33% OFF – SHOP NOW.
         
         *   Shoes
         
-        *   Sandals
+        *   Boots
         *   Booties
         *   Western Boots
         *   Tall Boots
