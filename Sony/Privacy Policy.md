@@ -129,7 +129,7 @@ View Spyro on Instagram
 
 Get to know our new litter of #aibo pups &. help us name them. Reply with your suggestions. #aiboroom #SonySquareNYC
 
-4 days ago
+5 days ago
 
 View Tweet
 
