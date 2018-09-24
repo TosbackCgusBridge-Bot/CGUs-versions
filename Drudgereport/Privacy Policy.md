@@ -166,23 +166,23 @@ LATEST ON TWITTER
 
 This just in from the blog: Justin Hansen Honored For Q2 Publisher Success! INTERMARKETS + @STAQ intermarkets.net/201…
 
-Last week
+About 2 weeks ago
 
 Congratulations to our own Justin Hansen, Yield Manager, for winning the Q2 Top of the @STAQ award. Much deserved and we are all proud of you! staq.com/blog
 
-Last week
+About 2 weeks ago
 
 Congrats to our own Justin Hansen for winning the Q2 Top of the @STAQ award! Justin was able to double the CPM of one of our publishers in less than a month! staq.com/blog/2018/9…
 
-Last week
+About 2 weeks ago
 
 ICYMI: Publishers Turn to White-Glove Services for Ad Buying and Management Needs econtentmag.com/Arti…
 
-Last week
+About 2 weeks ago
 
 Publishers have a lot on their plates these days. White Glove Services allow publishers to have peace of mind and let experts take care of their ad buying needs. #programmatic #Advertising econtentmag.com/Arti…
 
-About 2 weeks ago
+About 3 weeks ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
