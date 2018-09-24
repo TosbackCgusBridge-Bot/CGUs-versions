@@ -249,6 +249,4 @@ Search Search Type Residential Business Support
 *   CableONE Site Map
 *   CableONE Remote Connect
 
-Facebook Twitter Instagram YouTube LinkedIn Copyright 2018, Cable ONE Inc ., All Rights Reserved.
-
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">. BESbswy
+Facebook Twitter Instagram YouTube LinkedIn Copyright 2018, Cable ONE Inc ., All Rights Reserved. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">.
