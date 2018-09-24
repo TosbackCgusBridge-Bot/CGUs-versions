@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Rich Lowry_: How the U.S. Senate Became a Campus Kangaroo Court
+*   _Albert Hunt_: What Color Is Ohio? Only Its Voters Know for Sure
     
-*   _Rebecca Solnit_: Time to Stop Blaming Women for the Sins of Men
+*   _Dan Walters_: California a Model of Green Prosperity? Not Quite
     
-*   _Jennifer Braceras_: Brett Kavanaugh and the Limits of Hashtag Feminism
+*   _Ingrid Jacques_: No Justice in Guilt by Accusation
     
-*   _Michelle Goldberg_: Republicans Are Being Unfair. I Hope Ford Testifies Anyway.
+*   _Jennifer Weiner_: The Patriarchy Will Always Have Its Revenge
     
-*   _Newt Gingrich_: Texas Race Offers Blueprint for Red Wave in November
+*   _Derek Hunter_: Hold the Damn Vote
     
-*   _Bob Moser_: How South's New Progressives Are Taking On Republicans
+*   _Danny Westneat_: How Trump Is Closing America Off From the World
     
-*   _Adele Malpass_: Menendez in Jeopardy as NJ Senate Challenger Makes Push
+*   _Wayne Allyn Root_: The Conspiracy Against President Trump
     
-*   _Sungku Jang_: 4 Big Revelations From the Kim-Moon Summit
+*   _Laurie Roberts_: Will the Most Brutal Political Ad Ever Matter?
     
-*   _John Delury_: Kim Jong-un Has a Dream--U.S. Should Help Him Realize It
+*   _Howie Carr_: A Kennedy Tweeting About Sexual Assault? That's Rich
     
-*   _Robert Goldberg_: War on Vaping Threatens Public Health
+*   _Michael Hobbes_: Everything You Know About Obesity Is Wrong
     
-*   _Alan Dershowitz_: Refusing Study in Israel Is a Bitter Lesson in Discrimination
+*   _Piers Morgan_: Stop Lying Tess, You're Morbidly Obese &. It Will Kill You
     
-*   _Kate Shaw_: How Strong Does the Evidence Against Kavanaugh Need to Be?
+*   _Byron York_: For Dems in Ford-Kavanaugh Fight, Believing Is Enough
     
-*   _Marc Thiessen_: How Much Evidence Do We Need to Destroy Someone?
+*   _Maureen Dowd_: Sick to Your Stomach? #MeToo
     
-*   _Katie Pavlich_: Believe Him
+*   _Paul Sperry_: How Feinstein Is Conspiring to Destroy Kavanaugh
     
-*   _Catherine Rampell_: Why Should We Believe Kavanaugh?
+*   _Ruth Marcus_: Have We Learned Nothing Since Anita Hill?
     
-*   _Joe Concha_: Media Slinging Career-Ending Accusations With Abandon
+*   _George Parry_: Resisting a Lynch Mob
     
-*   _Alex Ward_: Trump's Radical China Strategy Is Failing
+*   _Jelani Cobb_: Cruz-O'Rourke Debate Offers 2 Different Views of Texas
     
-*   _Andy Xie_: Can Trade War Reset US-China Relations for the Better?
+*   _Salena Zito_: Let's Be Real: Beto's Rise Is Mostly a Media Fantasy
     
-*   _Fred Barnes_: Trump Tries Something Surprising: Self-Control
+*   _Carl M. Cannon_: Blue Storm Rising?
     
-*   _A.B. Stoddard_: How Many Women Does the GOP Want to Lose?
+*   _Melanie Mason_: Can Next Gov Fix CA's Problems? It Depends on Palo Alto
     
-*   _Conrad Black_: Trump Can Prevail in Midterms by Being Cautious
+*   _Mark Penn_: Trump's Rosenstein Dilemma: This Is the Deep State Unraveling
     
-*   _T.A. Frank_: Can Dems Overcome Political Schizophrenia By November?
+*   _Charles Hurt_: Rod Rosenstein, Quit!
     
-*   _Sec. of State Mike Pompeo_: We Remain the World's Most Generous Nation
+*   _Dana Milbank_: America's Jews Are Watching Israel in Horror
     
-*   _David Ignatius_: Is the Korea Denuclearization Process for Real?
+*   _Jeremy Peters_: Sheldon Adelson Sees a Lot to Like in Trump's Washington
     
 
 *   Previous
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   California 49th District - Harkey vs. LevinNY Times/Siena
+    *   Levin51
+    *   Harkey41Levin +10
 *   Iowa Governor - Reynolds vs. HubbellDes Moines Register
     *   Hubbell43
     *   Reynolds41Hubbell +2
-*   Pennsylvania Senate - Barletta vs. CaseyMorning Call\*
-    *   Casey53
-    *   Barletta35Casey +18
-*   Michigan Senate - James vs. StabenowMitchell Research
-    *   Stabenow54
-    *   James41Stabenow +13
-*   Rhode Island Senate - Flanders vs. WhitehouseWPRI/Roger Williams
-    *   Whitehouse54
-    *   Flanders35Whitehouse +19
+*   President Trump Job ApprovalFOX News
+    *   Approve46
+    *   Disapprove52Disapprove +6
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve44
+    *   Disapprove52Disapprove +8
 
 More Latest Polls In The News
 
 *   Full Video: Ted Cruz And Beto O'Rourke Face Off In First TX Senate Debate. Immigration, Kavanaugh, Trump, More
+*   Trump on FBI: "There's A Lingering Stench, We're Going To Get Rid Of That". The "Bad Ones" Are Gone
 *   CNN Focus Group of Republican Women on Ford's Allegation Against Brett Kavanaugh
 *   Coulter: Kavanaugh Scandal Shows Media Running The Country, Can Make Any "Non-Disprovable Claim"
 *   Brennan: FBI Has "Obligation" To Circumvent Trump, Took Constitutional Oath To United States
-*   Maddow to Hillary Clinton: Do You Support Due Process For Kavanaugh Like After Bill Clinton Sexual Allegations?
 
 *   Politics
 *   Policy
