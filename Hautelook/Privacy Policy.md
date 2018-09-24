@@ -8,33 +8,60 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Insight Up to 75% Off
+    *   Step into Comfort: Born, Munro &. More
+    *   Gemstone Jewelry Finds Up to 80% Off
+    *   Sunday Steals Incl. Plus &. Petites Up to 70% Off
+    *   Free Shipping: On-Trend Jewelry from $15
+    *   Fall Must-Haves: Handbags Up to 75% Off
+    *   Women's Shoe Blowout
+    *   Blend Mineral Cosmetics Up to 75% Off
+    *   Men's Summer Blowout
+    *   Men's Shoes Up to 60% Off
+    *   Free Shipping: Bedding Essentials Blowout
+    *   Natori Up to 65% Off
+    *   Go Couture Tees &. More
+    *   Max Studio
+    *   D24K by D'OR: Luxe Creams, Serums &. More
+    *   SEVEN7
+    *   Boots &. Booties Starting at $30
+    *   CeCe by Cynthia Steffe Incl. Petites
+    *   Luxe Men's Dress Shoes ft. Bruno Magli
+    *   WALLIN &. BROS
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Paulinie
+    *   Sapling Child
+    *   Nest Jewelry
+    *   Chelsea and Walker Up to 75% Off
+    *   Electric Yoga Maternity
+    *   J. Renee Up to 55% Off
+    *   Summer Round-Up: Swim Up to 75% Off
+    *   Stand Out: Men's Printed Socks
+    *   Chic Shower Curtains
+    
     *   Lucky Brand Incl. Plus
     *   Lucky Brand Shoes Up to 45% Off
     *   Dolce Cabo
     *   Sigrid Olsen Cashmere
     *   Dress Forum
     *   CZ by Kenneth Jay Lane Up to 70% Off
-    *   Donna Karan Active
     *   K-Beauty Faves: Leaders Cosmetics
-    *   GREY LAB
     *   Lucky Brand Kids Starting at $10
     *   Glam It Up: Fashion-Themed Pillows &. More
     *   Vince Camuto Men
-    *   Karl Lagerfeld Up to 55% Off
     *   Loafers We Love Under $100
+    *   Donna Karan Active
     *   Thoughts That Count: Stationery Sets &. More
     *   Sole Society Starting at $35
     *   Meredith Leigh Gemstone Jewelry Under $80
     *   Seychelles Up to 45% Off
-    *   14K Gold &. More Under $80
+    *   GREY LAB
     *   Hunter Shoes &. More Up to 55% Off
-    *   Hunter Men Up to 45% Off
     *   GREY Jason Wu
     *   Socialite
     *   Alternative
     *   Thale Blanc Up to 85% Off
     *   PJ Salvage
-    
     *   Hunter Kids Up to 50% Off
     *   Free Shipping: Hand-Painted Replicas
     *   CLE Cosmetics
@@ -42,16 +69,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Hunter Men's Outerwear Up to 45% Off
     *   Velvet by Graham &. Spencer
     *   Hush Puppies
+    
     *   24/7 Comfort Starting at $20
-    *   OnTwelfth
-    *   Eileen Fisher Incl. Plus &. Petites
-    *   Eileen Fisher Shoes
-    *   Freida Rothman Jewelry
-    *   Spyder
-    *   Men's Denim Under $40
-    *   Straight to Curly: Macadamia Natural Oil
+    *   14K Gold &. More Under $80
+    *   Karl Lagerfeld Up to 55% Off
+    *   On-Trend Leather Bracelets Starting at $15
+    *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
     *   Make It Modern: Budget-Friendly Accent Furniture
-    *   Classics &. New Faves from HarperCollins
     *   Jerry Leigh Character Tees &. More from $8
     *   See Kai Run
     *   Lorenzo Uomo Up to 60% Off
@@ -61,47 +85,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Pullovers from $15 Incl. Plus &. Petites
     *   Sweater Dresses from $25
     *   Men's Sweater Edit: Styles Up to 60% Off
-    
-    *   Daniel Won
     *   Mirenesse Up to 70% Off
     *   Free Shipping: 1000 Thread Count Sheets &. More
-    *   Cashmere Up to 70% Off
-    *   Get Outdoors: Men's Hiking Shoes ft. Keen
-    *   Work Ready: Men's Dress Shoes from $30
     *   Beauty Must-Haves Starting at $10
+    *   OnTwelfth
+    *   Spyder
+    *   Men's Denim Under $40
+    *   Straight to Curly: Macadamia Natural Oil
+    *   Cashmere Up to 70% Off
     *   Sundari Skin Care
     *   Free Shipping: Cottage-Chic Pillows, Art &. More
     *   New on HauteLook: Rowenta
     *   KitchenAid
     *   Wusthof
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
-    *   Dr. Botanicals Natural Beauty
-    *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
-    *   On-Trend Leather Bracelets Starting at $15
-    *   art &. eden
-    *   Arka Tees Under $20
-    *   Elchim Hair Tools
     *   On the Go: Wireless Earbuds, Chargers &. More
-    *   Free Shipping: Fresh Bedding for Fall
-    *   Date Night: Dresses ft. Dress the Population
-    *   Good Luck Gem
-    *   GUESS Coats
-    *   Free Shipping: Kitchen Blowout
 *   WomenShop Sale Events
     
+    *   Insight Up to 75% Off
+    *   Step into Comfort: Born, Munro &. More
+    *   Gemstone Jewelry Finds Up to 80% Off
+    *   Sunday Steals Incl. Plus &. Petites Up to 70% Off
+    *   Free Shipping: On-Trend Jewelry from $15
+    *   Fall Must-Haves: Handbags Up to 75% Off
+    *   Women's Shoe Blowout
+    *   Blend Mineral Cosmetics Up to 75% Off
+    *   Natori Up to 65% Off
+    *   Go Couture Tees &. More
+    *   Max Studio
+    *   D24K by D'OR: Luxe Creams, Serums &. More
+    *   SEVEN7
+    *   Boots &. Booties Starting at $30
+    *   CeCe by Cynthia Steffe Incl. Petites
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Nest Jewelry
+    *   Chelsea and Walker Up to 75% Off
+    *   Electric Yoga Maternity
+    *   J. Renee Up to 55% Off
+    *   Summer Round-Up: Swim Up to 75% Off
     *   Lucky Brand Incl. Plus
     *   Lucky Brand Shoes Up to 45% Off
     *   Dolce Cabo
     *   Sigrid Olsen Cashmere
     *   Dress Forum
     *   CZ by Kenneth Jay Lane Up to 70% Off
-    *   Donna Karan Active
     *   K-Beauty Faves: Leaders Cosmetics
-    *   GREY LAB
+    
     *   Loafers We Love Under $100
+    *   Donna Karan Active
     *   Sole Society Starting at $35
     *   Meredith Leigh Gemstone Jewelry Under $80
-    *   14K Gold &. More Under $80
+    *   GREY LAB
     *   Hunter Shoes &. More Up to 55% Off
     *   GREY Jason Wu
     *   Socialite
@@ -111,121 +145,118 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   CLE Cosmetics
     *   RapidLash
     *   Hush Puppies
-    
     *   24/7 Comfort Starting at $20
-    *   OnTwelfth
-    *   Eileen Fisher Incl. Plus &. Petites
-    *   Eileen Fisher Shoes
-    *   Freida Rothman Jewelry
-    *   Straight to Curly: Macadamia Natural Oil
+    *   14K Gold &. More Under $80
+    *   On-Trend Leather Bracelets Starting at $15
+    *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
     *   Skinn Cosmetics Up to 70% Off
     *   Cardigans from $20 Incl. Plus &. Petites
     *   Pullovers from $15 Incl. Plus &. Petites
     *   Sweater Dresses from $25
     *   Mirenesse Up to 70% Off
-    *   Cashmere Up to 70% Off
     *   Beauty Must-Haves Starting at $10
+    *   OnTwelfth
+    *   Straight to Curly: Macadamia Natural Oil
+    *   Cashmere Up to 70% Off
     *   Sundari Skin Care
-    *   Dr. Botanicals Natural Beauty
-    *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
-    *   On-Trend Leather Bracelets Starting at $15
-    *   Elchim Hair Tools
-    *   Date Night: Dresses ft. Dress the Population
-    *   Good Luck Gem
-    *   GUESS Coats
     
     Shop By Category
     *   Clothing
     *   Jewelry
     *   Shoes
-    *   Accessories
-    *   Tech Accessories
     *   Lingerie
+    *   Accessories
     *   Handbags
+    *   Watches
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Men's Summer Blowout
+    *   Men's Shoes Up to 60% Off
+    *   Luxe Men's Dress Shoes ft. Bruno Magli
+    *   WALLIN &. BROS
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Stand Out: Men's Printed Socks
     *   Vince Camuto Men
-    *   Karl Lagerfeld Up to 55% Off
-    *   Hunter Men Up to 45% Off
+    
     *   Hunter Men's Outerwear Up to 45% Off
     *   Velvet by Graham &. Spencer
-    *   Spyder
-    *   Men's Denim Under $40
-    
+    *   Karl Lagerfeld Up to 55% Off
     *   Lorenzo Uomo Up to 60% Off
     *   Men's Sweater Edit: Styles Up to 60% Off
-    *   Daniel Won
-    *   Get Outdoors: Men's Hiking Shoes ft. Keen
-    *   Work Ready: Men's Dress Shoes from $30
-    *   Arka Tees Under $20
+    *   Spyder
+    *   Men's Denim Under $40
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Paulinie
+    *   Sapling Child
+    *   Electric Yoga Maternity
     *   Lucky Brand Kids Starting at $10
     *   Hunter Kids Up to 50% Off
-    *   Classics &. New Faves from HarperCollins
     *   Jerry Leigh Character Tees &. More from $8
     *   See Kai Run
-    *   art &. eden
     
     Shop By Category
-    *   Toys
     *   Girls Sizes 2T-6X
+    *   Baby Girl
+    *   Girls Sizes 7-16
     *   Girls' Shoes
     *   Boys Sizes 2T-7
-    *   Boys' Shoes
-    *   Girls Sizes 7-16
-    *   Baby Girl
     *   Baby Boy
+    *   Boys' Shoes
+    *   Boys Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Free Shipping: Bedding Essentials Blowout
+    *   Chic Shower Curtains
     *   Glam It Up: Fashion-Themed Pillows &. More
     *   Thoughts That Count: Stationery Sets &. More
     *   Free Shipping: Hand-Painted Replicas
     *   Make It Modern: Budget-Friendly Accent Furniture
     *   Free Shipping: Rustic Decor ft. UMA
+    
     *   Free Shipping: 1000 Thread Count Sheets &. More
     *   Free Shipping: Cottage-Chic Pillows, Art &. More
-    
     *   New on HauteLook: Rowenta
     *   KitchenAid
     *   Wusthof
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   On the Go: Wireless Earbuds, Chargers &. More
-    *   Free Shipping: Fresh Bedding for Fall
-    *   Free Shipping: Kitchen Blowout
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
-    *   Bedding
     *   Accent Furniture
+    *   Bedding
     *   Rugs
+    *   Kitchen &. Tabletop
+    *   Bath
     *   Storage &. Cleaning
     *   Outdoor Living
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Blend Mineral Cosmetics Up to 75% Off
+    *   D24K by D'OR: Luxe Creams, Serums &. More
     *   K-Beauty Faves: Leaders Cosmetics
     *   CLE Cosmetics
     *   RapidLash
-    *   Straight to Curly: Macadamia Natural Oil
     *   Skinn Cosmetics Up to 70% Off
     *   Mirenesse Up to 70% Off
     *   Beauty Must-Haves Starting at $10
+    *   Straight to Curly: Macadamia Natural Oil
     *   Sundari Skin Care
-    *   Dr. Botanicals Natural Beauty
-    *   Elchim Hair Tools
     
     Shop By Category
     *   Skin Care
     *   Makeup
-    *   Hair Care
     *   Tools &. Accessories
+    *   Hair Care
     *   Bath &. Body
     *   Beauty Accessories
     *   Nails
