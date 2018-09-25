@@ -20,65 +20,34 @@ Log In Webmail
 
 *   Sales: **(800) 986-0958**
 
-Create a Professional Looking Website Today!
+Get a Business Website Create Your Business Website in 3 Easy Steps
 
-Starter
+It's free, powerful, and professional.
 
-$7.99
+Try It Free Today »
 
-Ideal for creating an online web presence
+FREE for 30 days! Then pay only $7.99 per month.\*
 
-*   Easy-to-Use Site Builder
-*   Hundreds of Customizable Templates
-*   1.1 Million Royalty-Free Images
+ How it Works  Choose a Design
 
-Business
+Pick from hundreds of designs created for many industries. Get a complete, ready-to-use template with images andindustry-specific text.
 
-$22.99
+   Customize It
 
-Ideal for small business owners and ecommerce
+Drop in your own graphics, or use our free library of 250,000 images.Easily add your own logo or just type in your business name. Edit text, colors, images, fonts, and links.
 
-*   Personalized Domain Name
-*   Custom Email Addresses
-*   Multiple Sites and 5GB File Storage
+   Show the World
 
-Business Plus
+Publish your site with one click(we host it for you). Make changes to your site anytime. Get your own personalized domain name and email address.
 
-$62.99
+ Create your professional website today
 
-Ideal for medium-sized businesses
+Free for the first 30 days, $7.99/mo thereafter. No commitment, cancel any time.
 
-*   Sell Online
-*   All the Features of a Business Package
-*   Unlimited Sites and 10GB Files Storage
+Get Started Now » 
 
-**See a complete comparison of features included in our packages »**
-
-Powerful Tools To Customize Your Site
-
-**Simplified Site Building**
-
-No coding required. Point, click and publish!
-
-**Design Gallery**
-
-Choose from 100's of professional site designs.
-
-**Go Mobile**
-
-Create mobile site to reach more customers.
-
-**Go Social**
-
-Add Twitter &. Facebook widgets to stay connected.
-
-**Performance &. Stats**
-
-Easily analyze your site's traffic and performance.
-
-**World Class Support**
-
-Get help every step of the way.
+\*Website Offer Details  
+Your 30-day free trial period begins when you click on "Click Here to Finish" during the registration process. After the 30-day trial period, you will automatically be billed $7.99 per month for the Starter package, unless you upgrade to another package during sign-up or after your trial period. If you upgrade to a different package, you will be charged that package's monthly fee. Additional fees apply for add-on services. Terms, conditions, pricing, features, service and support are subject to change without notice.
 
 *   Create a Website
     *   Create a Website
