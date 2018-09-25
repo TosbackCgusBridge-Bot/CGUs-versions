@@ -155,7 +155,7 @@ Free trial
 
 Subscribe
 
-—/year
+$1,575.00/year
 
 Software for Building Information Modeling
 
@@ -175,7 +175,7 @@ Free trial
 
 Subscribe
 
-—/year
+$1,505.00/year
 
 Try, buy, or learn more about Autodesk products See all products The future of making things woom Bikes makes lightweight bikes just for kids
 
