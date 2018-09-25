@@ -48,7 +48,7 @@ For more information, please visit contact us.
 
 *   About Us
 *   Contact Us
-*   Media Kit
+*   Advertising
 *   Archives
 *   Corrections
 *   Disclaimer
