@@ -1,3 +1,5 @@
+?
+
 *   Home
 *   Car Values
     *   New &. Used Car Prices
@@ -48,34 +50,33 @@ Vehicle Removed
 
 Limit Reached
 
-Car Shopping  
-Made Easy KBB.com is your one-stop resource Price New/Used My Car's Value First Pics: See the New Cars Coming for 2018
+*   Home
+*   \>
+*   Car News
+*   \>
+*   Class of 2019: The New and Redesigned Cars, Trucks and SUVs
 
-Some of these new cars, trucks and SUVs are already here. Take a peek
+Advertisement Class of 2019: The New and Redesigned Cars, Trucks and SUVs by KBB.com Editors | March 15, 2018 10:10 PM 2019 Chevrolet Silverado
 
-Take a peek
+The 2017-18 auto show season is in full swing, with automakers introducing a number of new cars, trucks and SUVs at shows including the 2018 Detroit Auto Show and 2018 New York Auto Show. Many of these models are heading our way for the 2019 model year, and there's much more to come. Browse the gallery above for a preview, then explore the thumbnails below for a more in-depth look at the new cars coming our way in the months ahead. (And make sure you've seen all the new-for-2018 models, too.)
 
-Get Your Instant Cash Offer
+2019 Acura RDX 2019 Aston Martin Vantage 2019 Audi A6 2019 Audi A7 Sportback 2019 Audi A8 2019 Audi Q3 2019 Audi Q8 2019 Bentley Continental GT 2019 BMW 3 Series 2019 BMW X5 2019 BMW Z4 2019 BMW X4 2019 Cadillac XT4 + Video 2019 Chevrolet Silverado 2019 Ford Ranger +Video 2019 Genesis G70 2019 GMC Sierra 2019 Honda Insight 2019 Hyundai Kona EV 2019 Hyundai Nexo 2019 Hyundai Santa Fe 2019 Hyundai Veloster 2019 Infiniti QX50 2019 Jaguar I-Pace 2019 Jeep Wrangler Pickup 2019 Kia Forte 2019 Kia K900 2019 Kia Telluride 2019 Lamborghini Urus 2019 Lexus ES 2019 Lexus UX 2019 Lincoln Aviator + Video 2019 Mercedes-Benz A-Class 2019 Mercedes-Benz CLS450 2019 Lincoln Nautilus +Video 2019 Mercedes-Benz G-Class +Video 2019 Nissan Altima + Video 2019 Porsche Cayenne 2019 Ram 1500 2019 Rolls-Royce Cullinan 2019 Subaru Ascent 2019 Subaru Forester + Video 2019 Toyota Avalon 2019 Toyota Corolla Hatchback 2019 Toyota RAV4 + Video Volkswagen Atlas Cross Sport Concept + Video 2019 Volkswagen Arteon 2019 Volkswagen Jetta 2019 Volvo S60 Sedan 2019 Volvo V60 Next » Advertisement Advertisement **New Car Spotlight**
 
-Trade in or sell your car today, based on Kelley Blue Book Values. Get started
+Advertisement
 
-Get started
+Advertisement Related Articles Nissan Recalls 215,000 Vehicles Peugeot e-Legend Coupe Unveiled This Week in Car Buying: Polestar announces retailing plan 2018 Ford F-150 SC Introduced by Roush How to lower your monthly car payment 2019 BMW Z4 sDrive30i, 2020 BMW Z4 M40i Announced FAQ | Contact Us | About Us | Careers | Corporate | Advertising | Media | Site Map | Mobile | KBB Portugal | KBB Brazil | Follow Us © 1995-2018 Kelley Blue Book Co.®, Inc. All rights reserved. Copyrights &. Trademarks | Terms of Service | Privacy Policy | Linking Policy | Ad Choices
 
-The 2018 Chrysler Pacifica
+Popular at KBB.com
 
-Check style and versatility off your to-do list. Vehicle details
+*   25 Best-Selling Cars of 2017
+*   First Pics: 2019 Models Unveiled
+*   10 Best SUVs Under $25,000
+*   New Car Buyer's Guide
+*   12 Best Buys of 2018
+*   25 Best-Selling Cars of 2017
+*   First Pics: 2019 Models Unveiled
 
-Vehicle details
-
-New Cars by Category Make Price Best Sellers Sponsored SUV Crossover Sedan Truck Hatchback Convertible Luxury Coupe Electric Hybrid Van/Minivan Wagon Acura Alfa Romeo Aston Martin Audi Bentley BMW Buick Cadillac Chevrolet Chrysler Dodge Ferrari FIAT Ford Freightliner Genesis GMC Honda Hyundai INFINITI Jaguar Jeep Kia Lamborghini Land Rover Lexus Lincoln Lotus Maserati Mazda McLaren Mercedes-Benz MINI Mitsubishi Nissan Porsche Ram Rolls-Royce smart Subaru Tesla Toyota Volkswagen Volvo Range $0$5,000$10,000$15,000$20,000$25,000$30,000$35,000$40,000$45,000$50,000$55,000$60,000$65,000to $5,000$10,000$15,000$20,000$25,000$30,000$35,000$40,000$45,000$50,000$55,000$60,000$65,000No limit See Results Popular Searches
-
-*   Top-Rated Sedans Under $25,000
-*   Top-Rated SUVs Under $25,000
-*   Luxury Vehicles Under $35,000
-*   3-Row Vehicles Under $35,000
-*   Best MPG Under $35,000
-
-Advertisement Advertisement FAQ | Contact Us | About Us | Careers | Corporate | Advertising | Media | Site Map | Mobile | KBB Portugal | KBB Brazil | Follow Us © 1995-2018 Kelley Blue Book Co.®, Inc. All rights reserved. Copyrights &. Trademarks | Terms of Service | Privacy Policy | Linking Policy | Ad Choices Thanks for Supporting  
+Advertisement Thanks for Supporting  
 Kelley Blue Book. We deliver up-to-date car values, expert reviews and unbiased reporting at no  
 cost to you. To do this, we display ads from only trusted partners.  
   
