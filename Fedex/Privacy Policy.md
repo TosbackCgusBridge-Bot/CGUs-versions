@@ -64,41 +64,7 @@ You can manage your accounts with FedEx through the following.
 
 HOW? Created with Sketch.
 
-In the course of its business activities and providing the services, FedEx will need to process personal data. “Personal Data” is any information that can directly or indirectly be used to identify a natural person. You provide most of your Personal Data directly to FedEx, for instance: 
-
-*   **Contact information** _._ Such as your name, address, e-mail address and phone number;
-*   **Financial information** _._ Such as your bank account number, payment status and invoices;
-*   **Identification information** _._ Such as your driver’s license number;
-*   **Account information** _._ Log-in details, including your email address and password, and other information provided in your account;
-*   **Information related to shipment and services** _._ Such as shipment tracking number, shipment routing information, location data, status of a shipment, delivery location, packaging type, number of pieces, weight, picture of the parcel and customs information;
-*   **User and preference information** _._ Such as shipping amounts, complaints, history of purchases and related commercial activities, communication, survey information and shopping preferences.
-
-In addition, FedEx may obtain Personal Data automatically when you visit the FedEx website or any of its subpages, for system administration and troubleshooting, to identify you so we can enhance your online experience and to help FedEx understand the effectiveness of the content messaging and information provided. This information may consist of:
-
-*   IP address;
-*   Unique device or user ID;
-*   System and browser type; 
-*   Date and time stamps;
-*   Referring website address;
-*   Content and pages you access on our website or mobile apps;
-*   Dates, times and locations when actions take place;
-*   Collect websites you visit (if you connect to our in-store wireless service);
-*   Click-stream information. and
-*   Device location (if you turn on the feature in the mobile app).
-
-Certain features, including but not limited to FedEx Ship Manager® at fedex.com, FedEx InSight®, FedEx Return Manager®, FedEx® Billing Online, FedEx® Global Trade Manager and My FedEx Rewards require registration or a password for access, or may require other information to use the FedEx Digital Platforms. Information obtained from registered users of these areas may also be used for the purposes stated in this Privacy Policy, and cookies may be used in those and other areas, as is described in this Privacy Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas, including but not limited to FedEx Ship Manager at fedex.com, FedEx Return Manager, etc. In addition, visitors to fedex.com may choose to register for a fedex.com login user ID and password to simplify access to some interactive features on fedex.com. 
-
-Fedex.com login currently provides users with access to several FedEx applications such as FedEx Ship Manager at fedex.com and FedEx® Global Trade Manager. Other applications require separate registrations. In the future, FedEx may add other features to those accessed through fedex.com login.  
-
-This Personal Data is obtained through the use of cookies or similar technologies. To learn more about the use of these technologies, please consult our Digital Platform Privacy Notice.
-
-FedEx retains your Personal Data for a limited amount of time and will delete your Personal Data after it is no longer necessary for the purposes of the processing. The exact period of time is based on the type of the Personal Data and the legal obligations or business purposes for retaining it.
-
-**Where does FedEx store or transfer your Personal Data?**
-
-Due to the nature of our business and the services we provide to our clients, FedEx may need to transfer your Personal Data to locations outside the country where you reside. In any case where we transfer Personal Data, FedEx shall ensure that such a transfer is subject to appropriate safeguards.
-
-For the European Union, such transfers to third parties will be governed by a contract based on the model contractual clauses for data transfer approved by the European Commission. 
+In the course of its business activities and providing the services, FedEx will need to process personal data. �Personal Data� is any information that can directly or indirectly be used to identify a natural person. You provide most of your Personal Data directly to FedEx, for instance: 
 
 SHARE Created with Sketch.
 
