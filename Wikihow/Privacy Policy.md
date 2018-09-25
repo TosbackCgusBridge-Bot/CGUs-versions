@@ -268,7 +268,11 @@ Please note that this procedure is exclusively for notifying wikiHow and its aff
 
 Third-Party Links
 
-The Service may contain links to third-party websites, advertisers, services, special offers, or other events or activities that are not owned or controlled by wikiHow. As a participant in the Amazon Services LLC Associates Program, wikiHow may earn a commission on qualified purchases made through links to Amazon and its affiliates. wikiHow does not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services. If you access a third party website from the Service, you do so at your own risk, and you understand that this Agreement and wikiHow’s Privacy Policy do not apply to your use of such sites. You expressly relieve wikiHow from any and all liability arising from your use of any third-party website, service, or content. Additionally, your dealings with or participation in promotions of advertisers found on the Service, including payment and delivery of goods, and any other terms (such as warranties) are solely between you and such advertisers. You agree that wikiHow shall not be responsible for any loss or damage of any sort relating to your dealings with such advertisers.
+The Service may contain links to third-party websites, advertisers, services, special offers, or other events or activities that are not owned or controlled by wikiHow. wikiHow does not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services. If you access a third party website from the Service, you do so at your own risk, and you understand that this Agreement and wikiHow’s Privacy Policy do not apply to your use of such sites. You expressly relieve wikiHow from any and all liability arising from your use of any third-party website, service, or content. Additionally, your dealings with or participation in promotions of advertisers found on the Service, including payment and delivery of goods, and any other terms (such as warranties) are solely between you and such advertisers. You agree that wikiHow shall not be responsible for any loss or damage of any sort relating to your dealings with such advertisers.
+
+  
+
+  
 
 Indemnity
 
