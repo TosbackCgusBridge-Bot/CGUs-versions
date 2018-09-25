@@ -105,7 +105,7 @@ WOMEN'S SALE DENIM IS NOW AN EXTRA 33% OFF – SHOP NOW.
         
         *   SHOP ALL MEN'S
         *   New Arrivals
-        *   Men's Brand
+        *   Men's Brands
         *   Promotions
         *   Shop by Outfit
         *   Shop Instagram
@@ -173,13 +173,20 @@ WOMEN'S SALE DENIM IS NOW AN EXTRA 33% OFF – SHOP NOW.
         *   Girl's Clothing
         
         *   Tops
+        *   Jeans
         *   Bottoms
+        *   Shirts &. Blouses
+        *   T-Shirts
         *   Shop All
         
         *   Boy's Clothing
         
         *   Tops
+        *   Jeans
         *   Bottoms
+        *   Shirts
+        *   Sweatshirts
+        *   T-Shirts
         *   Shop All
         
           
@@ -188,22 +195,25 @@ WOMEN'S SALE DENIM IS NOW AN EXTRA 33% OFF – SHOP NOW.
 *   Jeans
     *   *   Women's Jeans
         
-        *   Jegging
         *   Ankle Skinny
-        *   Destructed Light Wash
-        *   Hem Details
-        *   Boyfriend
-        *   High Rise
+        *   Skinny
+        *   Straight
+        *   Bootcut
+        *   Flare
+        *   High Waisted
+        *   Cropped
         *   The Denim Shop
         *   Shop All
         
         *   Men's Jeans
         
-        *   Slim
-        *   Regular
-        *   Relaxed
-        *   Loose
-        *   Destructed
+        *   Slim Fit
+        *   Regular Fit
+        *   Relaxed Fit
+        *   Loose Fit
+        *   Tapered
+        *   Straight
+        *   Bootcut
         *   The Denim Shop
         *   Shop All
         
@@ -295,36 +305,31 @@ WOMEN'S SALE DENIM IS NOW AN EXTRA 33% OFF – SHOP NOW.
         
         *   Women's New to Sale
         *   Men's New to Sale
+        *   Extra 33% Off
         *   Accessories BOGO Free
         *   Sale Under $25
-        *   Men's Barbershop Sale
         
         *   Women's Sale
         
         *   Jeans
-        *   All Tops
-        *   Shirts/Blouses
+        *   Tops
+        *   Bottoms
         *   Dresses
-        *   Swimwear
-        *   Accessories
         *   Rompers/Jumpsuits
-        *   Crops/Capris
-        *   Shorts
         *   Shoes
+        *   Accessories
         *   Shop All
         
         *   Men's Sale
         
         *   Jeans
-        *   All Tops
-        *   Shirts
-        *   Tees
-        *   Tanks
-        *   Sweatshirts
-        *   Shorts
+        *   Tops
+        *   Bottoms
         *   Boardshorts
+        *   Sweatshirts
         *   Accessories
         *   Shoes
+        *   Hats
         *   Shop All
         
         *   Kid's Sale
