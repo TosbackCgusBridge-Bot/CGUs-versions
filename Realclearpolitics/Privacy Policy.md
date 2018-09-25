@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Albert Hunt_: What Color Is Ohio? Only Its Voters Know for Sure
+*   _Sean Davis_: GOP's Choice: Confirm Kavanaugh or Get Crushed in Nov
     
-*   _Dan Walters_: California a Model of Green Prosperity? Not Quite
+*   _Chris Cillizza_: Trump Calls Kavanaugh Hearings 'Totally Political.' He's Right
     
-*   _Ingrid Jacques_: No Justice in Guilt by Accusation
+*   _Charles Cooke_: The New Yorker's Grossly Irresponsible Story
     
-*   _Jennifer Weiner_: The Patriarchy Will Always Have Its Revenge
+*   _Lance Tarrance_: 'Geo-Economics,' Trump and the 2018 Midterms
     
-*   _Derek Hunter_: Hold the Damn Vote
+*   _Rochelle Riley_: It's Not a Blue Wave - It's a Black Wave
     
-*   _Danny Westneat_: How Trump Is Closing America Off From the World
+*   _Ronna McDaniel_: GOP Is Working Hard to Win the Votes of Latinos
     
-*   _Wayne Allyn Root_: The Conspiracy Against President Trump
+*   _Robert Samuelson_: Liberalism 3.0?
     
-*   _Laurie Roberts_: Will the Most Brutal Political Ad Ever Matter?
+*   _Harlan Hill_: America Needs Dealmakers, Not Demagogues, In Congress
     
-*   _Howie Carr_: A Kennedy Tweeting About Sexual Assault? That's Rich
+*   _Grady &. North_: How the Kavanaugh Allegations Became a Test for #MeToo
     
-*   _Michael Hobbes_: Everything You Know About Obesity Is Wrong
+*   _Joe Cunningham_: The Crucible, Featuring Brett Kavanaugh
     
-*   _Piers Morgan_: Stop Lying Tess, You're Morbidly Obese &. It Will Kill You
+*   _Nicholas Powers_: How Nike Uses Liberal Multiculturalism to Hide Abuse
     
-*   _Byron York_: For Dems in Ford-Kavanaugh Fight, Believing Is Enough
+*   _Piers Morgan_: Tiger's Comeback a Lesson for Self-Pitying Snowflakes
     
-*   _Maureen Dowd_: Sick to Your Stomach? #MeToo
+*   _Ben Fountain_: How Trump Has Put America's Identity in Peril
     
-*   _Paul Sperry_: How Feinstein Is Conspiring to Destroy Kavanaugh
+*   _Shelby Steele_: Why the Left Is Consumed With Hate
     
-*   _Ruth Marcus_: Have We Learned Nothing Since Anita Hill?
+*   _Sasha Abramsky_: Trump's GOP Running Harder Than Ever on Politics of Fear
     
-*   _George Parry_: Resisting a Lynch Mob
+*   _Victor Davis Hanson_: Obama's True Legacy: Dividing America
     
-*   _Jelani Cobb_: Cruz-O'Rourke Debate Offers 2 Different Views of Texas
+*   _E.J. Dionne_: The Ugly Attacks on Ford Were Inevitable
     
-*   _Salena Zito_: Let's Be Real: Beto's Rise Is Mostly a Media Fantasy
+*   _David Catron_: Dems Want to Nullify the Votes of 63 Million Americans
     
-*   _Carl M. Cannon_: Blue Storm Rising?
+*   _Andrew Kragie_: Christine Ford &. the Search for a Standard of Proof
     
-*   _Melanie Mason_: Can Next Gov Fix CA's Problems? It Depends on Palo Alto
+*   _Adriana Cohen_: Ruthless Dems' Set New Bar: Due Process Be Damned
     
-*   _Mark Penn_: Trump's Rosenstein Dilemma: This Is the Deep State Unraveling
+*   _Anne Applebaum_: Putin's War Is Transforming Ukraine
     
-*   _Charles Hurt_: Rod Rosenstein, Quit!
+*   _Robert Merry_: How the Left Gave Us Today's Foreign Policy Mess
     
-*   _Dana Milbank_: America's Jews Are Watching Israel in Horror
+*   _Senator Bernie Sanders_: Don't Cut Social Security. Expand It
     
-*   _Jeremy Peters_: Sheldon Adelson Sees a Lot to Like in Trump's Washington
+*   _John Goodman_: Why Is Anyone a Socialist?
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Tentative Deal Reached for Christine Blasey Ford to Testify Thursday
 *   Menendez in Jeopardy as NJ Senate Challenger Makes Push
-*   Cruz, O'Rourke Trade Attacks During Testy 1st Texas Debate
 *   In MO, Trump Vows to Eliminate "Lingering Stench" at DOJ, FBI
-*   Trump, Obama Hit the Trail--for Better and for Worse
+*   Cruz, O'Rourke Trade Attacks During Testy 1st Texas Debate
 *   Electorate Makeup Will Be Key to Midterm Outcome
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   California 49th District - Harkey vs. LevinNY Times/Siena
-    *   Levin51
-    *   Harkey41Levin +10
-*   Iowa Governor - Reynolds vs. HubbellDes Moines Register
-    *   Hubbell43
-    *   Reynolds41Hubbell +2
-*   President Trump Job ApprovalFOX News
-    *   Approve46
-    *   Disapprove52Disapprove +6
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve44
-    *   Disapprove52Disapprove +8
+*   Florida Senate - Scott vs. NelsonUNF
+    *   Scott45
+    *   Nelson45Tie
+*   Arizona Senate - McSally vs. SinemaEmerson\*
+    *   Sinema45
+    *   McSally39Sinema +6
+*   Florida Governor - DeSantis vs. GillumUNF
+    *   Gillum47
+    *   DeSantis43Gillum +4
+*   Arizona Governor - Ducey vs. GarciaEmerson\*
+    *   Ducey42
+    *   Garcia38Ducey +4
 
 More Latest Polls In The News
 
-*   Full Video: Ted Cruz And Beto O'Rourke Face Off In First TX Senate Debate. Immigration, Kavanaugh, Trump, More
-*   Trump on FBI: "There's A Lingering Stench, We're Going To Get Rid Of That". The "Bad Ones" Are Gone
+*   Dan Rather: Rosenstein, Kavanaugh Make Trump "Fear" Something Criminal Will Be Found Out About Him
+*   Full Interview: Judge Kavanaugh, Wife Speak to FNC's Martha MacCallum About Sexual Allegations
+*   Sen. Hirono on Kavanaugh: GOP Can't Face Idea "Women Do Not Sit Around Making These Things Up"
+*   Limbaugh: If Republicans Can't Get Kavanaugh Confirmed, You Can Kiss The Midterms Goodbye
 *   CNN Focus Group of Republican Women on Ford's Allegation Against Brett Kavanaugh
-*   Coulter: Kavanaugh Scandal Shows Media Running The Country, Can Make Any "Non-Disprovable Claim"
-*   Brennan: FBI Has "Obligation" To Circumvent Trump, Took Constitutional Oath To United States
 
 *   Politics
 *   Policy
