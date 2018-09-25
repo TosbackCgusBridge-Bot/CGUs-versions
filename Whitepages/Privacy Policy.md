@@ -6,124 +6,8 @@ try pro free for 7 days Fill out the CAPTCHA to continue searching on Whitepages
 
 Not searching for business use? Complete the test, prove you’re a real human, and we’ll send you along to Whitepages.
 
-<div>. <p><strong>JavaScript needs to be enabled to complete CAPTCHA.</strong></p>. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-09-24 05:36:55 UTC.  
-Trace: 8a3f77fc-1554-497b-8731-eb31bfffe69e via 47d589ff-d441-49af-b5e7-1c448344b38f
-
-*   About
-*   Careers
-*   Help
-*   Product Comparison
-
-*   Whitepages Premium for Consumers
-*   Business Risk Solutions
-*   Developers
-
-*   ✕
-
-*   Facebook
-*   Google+
-*   LinkedIn
-
-*   Premium
-*   Products
-*   Developers
-
-*   Privacy Policy
-*   Terms of Use
-*   Phone Scams
-*   Blog
-
-*   Yellow Pages Search by State City Yellow Pages
-    
-    *   Atlanta
-    *   Boston
-    *   Chicago
-    *   Cleveland
-    *   Dallas
-    
-    *   Denver
-    *   Detroit
-    *   Houston
-    *   Las Vegas
-    *   Los Angeles
-    
-    *   Miami
-    *   Minneapolis
-    *   New York
-    *   Philadelphia
-    *   Phoenix
-    
-    *   San Diego
-    *   San Francisco
-    *   Seattle
-    *   Tampa
-    *   Washington, DC
-*   White Pages Search by State City White Pages
-    
-    *   Atlanta
-    *   Boston
-    *   Chicago
-    *   Cleveland
-    *   Dallas
-    
-    *   Denver
-    *   Detroit
-    *   Houston
-    *   Las Vegas
-    *   Los Angeles
-    
-    *   Miami
-    *   Minneapolis
-    *   New York
-    *   Philadelphia
-    *   Phoenix
-    
-    *   San Diego
-    *   San Francisco
-    *   Seattle
-    *   Tampa
-    *   Washington, DC
-*   411.com
-
-*   Zip Codes
-*   Area Codes
-*   Phone Numbers
-*   Site Map
-
-*   People Search
-*   Phone Search
-*   Address Search
-*   Business Search
-
-© 2018 Whitepages Inc.
-
-*   People:
-*   A
-*   B
-*   C
-*   D
-*   E
-*   F
-*   G
-*   H
-*   I
-*   J
-*   K
-*   L
-*   M
-*   N
-*   O
-*   P
-*   Q
-*   R
-*   S
-*   T
-*   U
-*   V
-*   W
-*   X
-*   Y
-*   Z
+<div>. <p><strong>JavaScript needs to be enabled to complete CAPTCHA.</strong></p>. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-09-25 05:38:09 UTC.  
+Trace: 49ac9720-99c8-4975-82f2-55bcdf89aeaa via 6877ff77-92ad-4de5-9c68-afaf3f6b9b0e
 
 *   Facebook
 *   Google+
@@ -158,6 +42,8 @@ Trace: 8a3f77fc-1554-497b-8731-eb31bfffe69e via 47d589ff-d441-49af-b5e7-1c448344
 *   Whitepages Apps
 *   Phone Scams
 *   Developers
+*   Yellow Pages
+*   White Pages
 *   Yellow Pages Search by State City Yellow Pages
     
     *   Atlanta
