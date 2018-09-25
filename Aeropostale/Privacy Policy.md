@@ -46,7 +46,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -62,8 +61,9 @@ Close submenu ( Girls ) Girls
 *   Clearance
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
+*   Open submenu ( Collections ) Collections
 
-Close submenu ( Featured ) Featured
+Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
@@ -89,7 +89,6 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Sweaters
 *   Active Tops
-*   Buy 1 Get 2 Free Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -116,7 +115,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -128,8 +126,9 @@ Close submenu ( Guys ) Guys
 *   Cologne
 *   Clearance
 *   Extended Sizes
+*   Open submenu ( Collections ) Collections
 
-Close submenu ( Featured ) Featured
+Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
@@ -152,7 +151,6 @@ Close submenu ( Tops ) Tops
 *   Hoodies + Sweatshirts
 *   Shirts
 *   Sweaters
-*   Buy 1 Get 2 Free Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -243,7 +241,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**ALL JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **ONLINE ONLY! EXTRA 15% OFF** USE CODE **EXTRA15** **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -282,9 +280,12 @@ Menu Find a Store Aeropostale
 *   Girls
     
     *   View Home
-    *   Featured
+    *   Collections
         *   View All
         *   New Arrivals
+        *   SWIM SALE
+        *   3 for $12 Undies
+        *   Buy 1 Get 2 Socks
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -306,7 +307,6 @@ Menu Find a Store Aeropostale
         *   Shirts
         *   Sweaters
         *   Active Tops
-        *   Buy 1 Get 2 Free Tees
     
     *   Bottoms
         *   View All
@@ -340,9 +340,10 @@ Menu Find a Store Aeropostale
 *   Guys
     
     *   View Home
-    *   Featured
+    *   Collections
         *   View All
         *   New Arrivals
+        *   Buy 1 Get 2 Accessories
         *   Uniform
         *   Denim Guide
         *   Flex Effects
@@ -361,7 +362,6 @@ Menu Find a Store Aeropostale
         *   Hoodies + Sweatshirts
         *   Shirts
         *   Sweaters
-        *   Buy 1 Get 2 Free Tees
     
     *   Bottoms
         *   View All
@@ -449,7 +449,8 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Joggers Shop Guys Joggers Shop Girls Tees Shop Guys Tees Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 FOLLOW US Customer Care
+ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Joggers Shop Guys Joggers Shop Girls Tees Shop Guys Tees Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+Text JOIN to 237687. Terms &. Conditions Details FOLLOW US Customer Care
 
 *   Order Status
 *   Track Your Order
