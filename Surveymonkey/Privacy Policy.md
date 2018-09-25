@@ -5,78 +5,105 @@
 
 SurveyMonkey® ÷
 
-1.  Products Power your curiosity with our data platform
+1.  Products
     
     *   Surveys
     *   SurveyMonkey
         
         Create &. send surveys with the world’s leading online survey software
         
+    *   Enterprise
+        
+        Empower your organization with our secure survey platform
+        
+    *   Integrations &. plug-ins
+        
+        Bring survey insights into your business apps
+        
+    
+    *   Specialized products
+    
     *   Audience
         
         Collect survey responses from our global consumer panel
         
-    
-    *   Automated programs
     *   CX
         
         Understand &. improve customer experience (NPS®)
         
     *   Engage
         
-        Understand &. increase employee engagement
+        Measure &. increase employee engagement
         
+    
     *   TechValidate
         
         Create marketing content from customer feedback
         
-    
-    *   Forms and workflows
-    *   Wufoo
-        
-        Gather data &. payments with online forms
-        
     *   Apply
         
-        Collect, review &. manage applications online
-        ADD INTEGRATIONS &. PLUG-INS VIEW ALL PRODUCTS
-2.  Solutions Drive business forward with People Powered Data
+        Collect, review, &. manage applications online
+        
+    *   Wufoo
+        
+        Gather data &. accept payments with online forms
+        
+    *   View all products
+    
+2.  Solutions
+    
+    *   Survey types
+    *   Customer Satisfaction Customer Loyalty Event Surveys
+    *   Employee Engagement Job Satisfaction HR Surveys
+    *   Market Research Opinion Polls Concept Testing
+    *   Explore more survey types
+    
+    *   People Powered Data for business
     *   Customers
         
-        Win more business with Customer Powered Data
+        Win more business with  
+        Customer Powered Data
         
     *   Employees
         
-        Build a stronger workforce with Employee Powered Data
+        Build a stronger workforce with  
+        Employee Powered Data
         
     *   Markets
         
-        Validate business strategy with Market Powered Data
+        Validate business strategy with  
+        Market Powered Data
         
     
-    *   By Need
-    *   Customer Satisfaction
-    *   Employee Engagement
-    *   Market Research
-    *   Customer Loyalty
-    *   Job Satisfaction
-    *   Opinion Polls
-    *   Event Surveys
-    *   HR Surveys
-    *   Concept TestingVIEW MORE
-3.  Resources Seek the inspiration and expertise you need
+    *   Solutions for teams
+    *   Customer Experience
+        
+        Delight customers &. increase loyalty through feedback
+        
+    *   Human Resources
+        
+        Improve your employee experience, engagement &. retention
+        
+    *   Marketing
+        
+        Create winning campaigns, boost ROI &. drive growth
+        
+    
+3.  Resources
     *   Resources
         
-        Expert templates &. best practices
+        Best practices for using surveys &. survey data
         
     *   Curiosity at Work
         
-        Our blog for stories, news &. more
+        Our blog about surveys, tips for business, &. more
         
     *   Help Center
         
-        Survey how-to guides &. tutorials
+        Tutorials &. how-to guides for using SurveyMonkey
         
+    
+    Explore our 180+ survey templates
 4.  Plans &. Pricing
 
 *   Overview
@@ -823,6 +850,14 @@ Copyright © 1999-2018 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 You
         
         Create &. send surveys with the world’s leading online survey software
         
+    *   Enterprise
+        
+        Empower your organization with our secure survey platform
+        
+    *   Integrations &. plug-ins
+        
+        Bring survey insights into your business apps
+        
     *   Audience
         
         Collect survey responses from our global consumer panel
@@ -833,22 +868,21 @@ Copyright © 1999-2018 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 You
         
     *   Engage
         
-        Understand &. increase employee engagement
+        Measure &. increase employee engagement
         
     *   TechValidate
         
         Create marketing content from customer feedback
         
-    *   Wufoo
-        
-        Gather data &. payments with online forms
-        
     *   Apply
         
-        Collect, review &. manage applications online
+        Collect, review, &. manage applications online
         
-    *   ADD INTEGRATIONS &. PLUG-INS
-    *   VIEW ALL PRODUCTS
+    *   Wufoo
+        
+        Gather data &. accept payments with online forms
+        
+    *   View all products
 2.  Solutions
     *   Customers
         
@@ -862,6 +896,18 @@ Copyright © 1999-2018 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 You
         
         Validate business strategy with Market Powered Data
         
+    *   Customer Experience
+        
+        Delight customers &. increase loyalty through feedback
+        
+    *   Human Resources
+        
+        Improve your employee experience, engagement &. retention
+        
+    *   Marketing
+        
+        Create winning campaigns, boost ROI &. drive growth
+        
     *   Customer Satisfaction
     *   Customer Loyalty
     *   Event Surveys
@@ -872,21 +918,21 @@ Copyright © 1999-2018 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 You
     *   Opinion Polls
     *   Concept Testing
     
-    *   VIEW MORE
+    *   Explore more survey types
 3.  Resources
     *   Resources
         
-        Templates, best practices, case studies &. more
+        Best practices for using surveys &. survey data
         
     *   Curiosity at Work
         
-        Our blog for stories, news &. more
+        Our blog about surveys, tips for business, &. more
         
     *   Help Center
         
-        Survey how-to guides &. tutorials
+        Tutorials &. how-to guides for using SurveyMonkey
         
-    
+    *   Explore our 180+ survey templates
 4.  Plans &. Pricing
-5.  Sign Up
-6.  Log In
+5.  LOG IN
+6.  SIGN UP
