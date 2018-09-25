@@ -5,46 +5,46 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
-    *   The Predator (2018)
-    *   The Nun (2018)
+    *   The House with a Clock in its Walls
     *   A Simple Favor
-    *   White Boy Rick
+    *   The Nun (2018)
+    *   The Predator (2018)
     *   Crazy Rich Asians
+    *   White Boy Rick
     *   Peppermint (2018)
+    *   Fahrenheit 11/9
     *   The Meg
     *   Searching (2018)
-    *   Unbroken: Path to Redemption
-    *   Mission: Impossible - Fallout
-    *   Christopher Robin
+    *   Life Itself (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Assassination Nation
-    *   Fahrenheit 11/9
-    *   The House with a Clock in its Walls
-    *   Life Itself (2018)
-    *   American Dresser (2018)
-    *   Colette (2018)
-    *   Garry Winogrand: All Things Are Photographable
-    *   The Great Battle
-    *   Love, Gilda
-    *   The Pagan King
-    *   The Sisters Brothers
+    *   Hell Fest
+    *   Night School (2018)
+    *   Smallfoot
+    *   All About Nina
+    *   Bad Reputation (2018)
+    *   Black 47
+    *   Cruise
+    *   Free Solo
+    *   Golden Job
+    *   Little Women (2018)
+    *   Monsters and Men
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Hell Fest
-    *   Little Women (2018)
-    *   Night School (2018)
-    *   Smallfoot
     *   A Star Is Born (2018)
     *   Venom (2018)
     *   First Man
     *   Bad Times at the El Royale
     *   Goosebumps 2: Haunted Halloween
     *   Halloween (2018)
+    *   Serenity (2018)
+    *   Hunter Killer (2018)
+    *   Indivisible (2018)
+    *   Johnny English Strikes Again
     *   See All Coming Soon
     
     Explore More
@@ -73,7 +73,7 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Marvel's 'Eternals' Moves Ahead With Chloe Zhao Directing. Here's Everything We Know Read More
-    *   The First 'Captain Marvel' Trailer Has Landed. Here's Everything We Know So Far Read More
+    *   'Kingsman 3' Takes Over James Bond Release Date. Here's Everything We Know Read More
     *   The Week in Movie News: James Bond Found a New Director, First 'Captain Marvel' Trailer Arrived and More Read More
     
     Explore Content
@@ -337,14 +337,14 @@ Offers
 
 New + Coming soon
 
-*   Ant-Man and the Wasp (2018)
-*   Mission: Impossible - Fallout
 *   Crazy Rich Asians
-*   The Nun (2018)
+*   A Simple Favor
 *   The Predator (2018)
 *   White Boy Rick
 *   The House with a Clock in its Walls
 *   Smallfoot
+*   A Star Is Born (2018)
+*   Venom (2018)
 
 Experience + Explore
 
@@ -379,4 +379,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango sponsoredsponsoredsponsored
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
