@@ -185,7 +185,16 @@
     *   Personal finance glossary
 
 *   Free credit report
-*   myBankrate
+*   Sign In
+
+☰
+
+*   Dashboard
+*   Full Credit Report
+*   Alerts
+*   Settings
+*   Support
+*   Logout
 
 open Privacy Policy
 
