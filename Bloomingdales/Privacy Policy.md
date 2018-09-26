@@ -1,32 +1,45 @@
-Skip to Content
+Skip Navigation Stores &. Events My Account USD Have an Account? SIGN IN
 
-Skip Navigation **YOUR BROWSER NEEDS A QUICK MAKEOVER** We want to look our best! Update your browser now to access all of bloomingdales.com's fashion-packed features. UPDATE Firefox ×
-
-*   STORES &. EVENTS
-*    | 
-*   USD
-*    | 
-*   MY ACCOUNT
-*    | 
-*   WISH LIST
-*    | 
-*   BROWN BAG: (0)
-
-Account 0
-
-*   WOMEN
-*   SHOES
-*   HANDBAGS
-*   JEWELRY &. ACCESSORIES
-*   BEAUTY
-*   MEN
-*   KIDS
-*   HOME
-*   SALE
+*   Women
+*   Shoes
+*   Handbags
+*   Jewelry &. Accessories
+*   Beauty
+*   Men
+*   Kids
+*   Home
+*   Gifts
 *   DESIGNERS
-*   WHAT'S NEW
-*   GIFTS
+*   EDITORIAL
+
 *   THE REGISTRY
+*   Stores &. Events
+*   Promotions
+*   My Account
+    *   Account Overview
+    *   Bloomingdale’s Credit Card
+    *   bWallet
+    *   Loyallist
+        *   Already a Loyallist
+        *   Become a Loyallist
+        *   My Perks
+    *   Wish Lists
+
+USD Change Recent Searches
+
+*   Recent Searches Clear
+
+*   Women
+*   Shoes
+*   Handbags
+*   Jewelry &. Accessories
+*   Beauty
+*   Men
+*   Kids
+*   Home
+*   Gifts
+*   DESIGNERS
+*   EDITORIAL
 
 Live Chat CALL US **ANY TIME**:1.800.777.0000  
   
