@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Sean Davis_: GOP's Choice: Confirm Kavanaugh or Get Crushed in Nov
+*   _Michelle Goldberg_: Pigs All the Way Down
     
-*   _Chris Cillizza_: Trump Calls Kavanaugh Hearings 'Totally Political.' He's Right
+*   _Alexandra DeSanctis_: The Kavanaugh Circus Is Destroying #MeToo
     
-*   _Charles Cooke_: The New Yorker's Grossly Irresponsible Story
+*   _Matt Ford_: When Democrats Retaliate
     
-*   _Lance Tarrance_: 'Geo-Economics,' Trump and the 2018 Midterms
+*   _Byron York_: Are Democrats Trying to Scrap Ford's Testimony Again?
     
-*   _Rochelle Riley_: It's Not a Blue Wave - It's a Black Wave
+*   _Robinson Meyer_: Google's New Tool to Fight Climate Change
     
-*   _Ronna McDaniel_: GOP Is Working Hard to Win the Votes of Latinos
+*   _Rupert Darwall_: The War on Coal Is a Winner for China
     
-*   _Robert Samuelson_: Liberalism 3.0?
+*   _Josh Cohen_: Donald Trump Versus the Foreign Policy Blob
     
-*   _Harlan Hill_: America Needs Dealmakers, Not Demagogues, In Congress
+*   _John Kerry_: Saving Our Future
     
-*   _Grady &. North_: How the Kavanaugh Allegations Became a Test for #MeToo
+*   _John Tierney_: Reeducation Campus: The First-Year Indoctrination
     
-*   _Joe Cunningham_: The Crucible, Featuring Brett Kavanaugh
+*   _Clio Chang_: Whose Side Are Asian-Americans On?
     
-*   _Nicholas Powers_: How Nike Uses Liberal Multiculturalism to Hide Abuse
+*   _Chris Buskirk_: The Suicidal Sanctimony of Phony Conservatives
     
-*   _Piers Morgan_: Tiger's Comeback a Lesson for Self-Pitying Snowflakes
+*   : REITs Are Real Estate Working for All Americans and Reshaping Communities
     
-*   _Ben Fountain_: How Trump Has Put America's Identity in Peril
+*   _Heather Mac Donald_: Drive to Destroy Kavanaugh Is the Worst of Feminism
     
-*   _Shelby Steele_: Why the Left Is Consumed With Hate
+*   _Emily Witt_: The Boys' Club That Protects Brett Kavanaugh
     
-*   _Sasha Abramsky_: Trump's GOP Running Harder Than Ever on Politics of Fear
+*   _Glenn Reynolds_: Believe the Facts, Not Stereotypes About Men &. Women
     
-*   _Victor Davis Hanson_: Obama's True Legacy: Dividing America
+*   _Sean McElwee_: Lesson for Dems on Kavanaugh: It's Always Worth a Fight
     
-*   _E.J. Dionne_: The Ugly Attacks on Ford Were Inevitable
+*   _Mollie Hemingway_: The Smearing of Brett Kavanaugh Is Truly Evil
     
-*   _David Catron_: Dems Want to Nullify the Votes of 63 Million Americans
+*   _Andrew Cohen_: Brett Kavanaugh Has Already Disqualified Himself
     
-*   _Andrew Kragie_: Christine Ford &. the Search for a Standard of Proof
+*   _Curtis Ellis_: Why Trump's Tariffs Won't Cost Consumers a Nickel
     
-*   _Adriana Cohen_: Ruthless Dems' Set New Bar: Due Process Be Damned
+*   _Drew Fagan_: Why Canada Won't Budge on Trade
     
-*   _Anne Applebaum_: Putin's War Is Transforming Ukraine
+*   _James Warren_: China's Borrowing From Imperial Japan's Playbook
     
-*   _Robert Merry_: How the Left Gave Us Today's Foreign Policy Mess
+*   _Andrew McCarthy_: Rod Rosenstein's Resistance
     
-*   _Senator Bernie Sanders_: Don't Cut Social Security. Expand It
+*   _Eisen &. Rangappa_: Mueller's Long Game on Russia Probe Is Paying Off
     
-*   _John Goodman_: Why Is Anyone a Socialist?
+*   _James Freeman_: Is Trump Creating New Republicans?
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Tentative Deal Reached for Christine Blasey Ford to Testify Thursday
+*   Trump to Meet Rosenstein Thursday Amid Conflicting Reports on Future
+*   Kavanaugh Blasts "False Accusations": "I've Never Sexually Assaulted Anyone"
+*   Limbaugh: Kiss Midterms Goodbye If Republicans Can't Confirm Kavanaugh
 *   Menendez in Jeopardy as NJ Senate Challenger Makes Push
-*   In MO, Trump Vows to Eliminate "Lingering Stench" at DOJ, FBI
 *   Cruz, O'Rourke Trade Attacks During Testy 1st Texas Debate
-*   Electorate Makeup Will Be Key to Midterm Outcome
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Florida Senate - Scott vs. NelsonUNF
-    *   Scott45
-    *   Nelson45Tie
-*   Arizona Senate - McSally vs. SinemaEmerson\*
-    *   Sinema45
-    *   McSally39Sinema +6
-*   Florida Governor - DeSantis vs. GillumUNF
-    *   Gillum47
-    *   DeSantis43Gillum +4
-*   Arizona Governor - Ducey vs. GarciaEmerson\*
-    *   Ducey42
-    *   Garcia38Ducey +4
+*   Florida Senate - Scott vs. NelsonNBC News/Marist
+    *   Nelson48
+    *   Scott45Nelson +3
+*   Florida Senate - Scott vs. NelsonQuinnipiac
+    *   Nelson53
+    *   Scott46Nelson +7
+*   Arizona Senate - McSally vs. SinemaNBC News/Marist
+    *   Sinema48
+    *   McSally45Sinema +3
+*   Montana Senate - Rosendale vs. TesterGravis
+    *   Tester49
+    *   Rosendale45Tester +4
 
 More Latest Polls In The News
 
+*   Avenatti: Client With Allegations Against Kavanaugh Will Come Forward Within 48 Hours
 *   Dan Rather: Rosenstein, Kavanaugh Make Trump "Fear" Something Criminal Will Be Found Out About Him
 *   Full Interview: Judge Kavanaugh, Wife Speak to FNC's Martha MacCallum About Sexual Allegations
-*   Sen. Hirono on Kavanaugh: GOP Can't Face Idea "Women Do Not Sit Around Making These Things Up"
+*   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
 *   Limbaugh: If Republicans Can't Get Kavanaugh Confirmed, You Can Kiss The Midterms Goodbye
-*   CNN Focus Group of Republican Women on Ford's Allegation Against Brett Kavanaugh
 
 *   Politics
 *   Policy
