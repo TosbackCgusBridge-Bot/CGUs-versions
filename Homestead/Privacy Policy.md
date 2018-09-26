@@ -69,7 +69,6 @@ Your 30-day free trial period begins when you click on "Click Here to Finish" du
 *   About Us
     *   Why Homestead
     *   Directory
-    *   Blog
     *   Community
     *   Account Log In
     *   Webmail Log In
