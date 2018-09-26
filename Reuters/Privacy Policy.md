@@ -3,7 +3,7 @@
 *   Product LoginsProduct Logins
 *   Contact UsContact Us
 *   LoginLogin
-*   Cart
+*   Cart (0)
 
 Thomson Reuters Legal Search
 
@@ -180,6 +180,8 @@ Free trial Search
     *   Twitter
     *   LinkedIn
     *   YouTube
+
+Thomson Reuters
 
 *   Cookie policy
 *   Terms of use
