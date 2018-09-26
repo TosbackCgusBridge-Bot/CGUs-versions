@@ -66,7 +66,6 @@ Arts &. Life
 Music
 
 *   First Listen
-*   Songs We Love
 *   Tiny Desk
 *   Videos
 
@@ -118,7 +117,6 @@ Music
 
 *   First Listen
 *   All Songs Considered
-*   Songs We Love
 *   Tiny Desk
 *   Alt.Latino
 *   From The Top
@@ -191,9 +189,7 @@ Back
 Back
 
 *   Visit NPR
-*   NPR Presents
-*   Studio 1 Events
-*   Generation Listen
+*   NPR Events
 *   Book a Speaker
 *   Request Permissions
 *   Ways to Listen
