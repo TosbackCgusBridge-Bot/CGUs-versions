@@ -12,6 +12,7 @@
 *   COMPANY
     *   AT&T Profile
     *   Leadership Team
+        *   *   Leadership Insights
     *   AT&T Communications
         *   *   AT&T Communications Profile
             *   Leadership
@@ -27,8 +28,8 @@
         *   *   AT&T Latin America Profile
             *   Mexico
             *   Vrio
-    *   AT&T advertising &. analytics
-        *   *   AT&T advertising &. analytics Profile
+    *   Xandr
+        *   *   Xandr Profile
 *   INVESTORS
     *   Investor Profile
     *   News &. Events
