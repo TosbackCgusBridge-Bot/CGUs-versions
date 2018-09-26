@@ -21,6 +21,8 @@ Show Menu Hide Menu
     *   Rewards
     *   Travel Blog
 
+*   Add your property
+
 *   Account
     *   Sign in to see exclusive Member Pricing.
     *   Sign In
@@ -44,7 +46,7 @@ Show Menu Hide Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/fdcf1b62e72079bccf3c0abe562675de416208dd Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/bb7412ee168ceaa0f35b1862d1a6707c82281f06 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
@@ -71,13 +73,13 @@ Email address
 
 This email has already been used to sign up with CONNECTED\_THIRD\_PARTY\_NAMES. Try signing in with CONNECTED\_THIRD\_PARTY\_NAMES or use another email address. Create a password
 
-Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Send me emails with travel deals, special offers, and other information. Sign Up By creating an account, I agree to the Terms of Use and the Privacy Policy.
+Earn free travel rewards with Orbitz Rewards. opens in a new window By joining Orbitz Rewards, I accept all Terms and Conditions. opens in a new window Send me emails with travel deals, special offers, and other information. Sign Up By creating an account, I agree to the Terms of Use opens in a new window and the Privacy Policy opens in a new window.
 
 Already have an account? Sign In Sign in to your account Sign in to your account Sign In with Facebook Sign In with Google Sign In with Naver Looking for Sign In with Google? **OR** We apologize for our system failure. Please try again You may have entered an unknown email address or an incorrect password Authentication failure. Please try again Email address
 
 Password
 
-Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Explore More Orbitz
+Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Add your property Explore More Orbitz
 
 *   About Orbitz
 *   Investor Relations
@@ -112,5 +114,9 @@ Other Links
 *   Mobile
 *   Vacations by Interest
 *   Unique Accommodation
+
+Partner Services
+
+*   Add a property
 
 © 2018 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
