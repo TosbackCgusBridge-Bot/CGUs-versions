@@ -1,3 +1,75 @@
+*   PIT1-1-130TB2-127Final
+*   NYJ1-217CLE1-1-121Final
+*   NO2-143ATL1-237Final (OT)
+*   DEN2-114BAL2-127Final
+*   CIN2-121CAR2-131Final
+*   NYG1-227HOU0-322Final
+*   TEN2-19JAX2-16Final
+*   SF1-227KC3-038Final
+*   OAK0-320MIA3-028Final
+*   BUF1-227MIN1-1-16Final
+*   IND1-216PHI2-120Final
+*   GB1-1-117WAS2-131Final
+*   LAC1-223LA3-035Final
+*   CHI2-116ARI0-314Final
+*   DAL1-213SEA1-224Final
+*   NE1-210DET1-226Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Highlights
+*   KICKOFF
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Free Agency
+*   Game Pass
+*   Stats
+*   Ways to Watch
+*   NFL Network
+*   Photos
+
+*   PIT30TB27Final
+*   NYJ17CLE21Final
+*   NO43ATL37Final (OT)
+*   DEN14BAL27Final
+*   CIN21CAR31Final
+*   NYG27HOU22Final
+*   TEN9JAX6Final
+*   SF27KC38Final
+*   OAK20MIA28Final
+*   BUF27MIN6Final
+*   IND16PHI20Final
+*   GB17WAS31Final
+*   LAC23LA35Final
+*   CHI16ARI14Final
+*   DAL13SEA24Final
+*   NE10DET26Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Highlights
+*   KICKOFF
+
+*   Highlights
+
+*   *   Free Agency
+    *   Game Pass
+    *   Stats
+    *   Ways to Watch
+    *   NFL Network
+    *   Photos
+
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
