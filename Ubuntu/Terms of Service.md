@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical’s Current Security Certifications ›
 *   IoT Graphics: Mir Release 1.0 ›
 *   Ubuntu does Kubernetes ›
 *   Announcing Extended Security Maintenance for Ubuntu 14.04 LTS – “Trusty Tahr” ›
 *   Optimised Ubuntu Desktop images available in Microsoft Hyper-V gallery ›
-*   Fresh Snaps from August 2018 ›
