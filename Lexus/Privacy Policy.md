@@ -347,7 +347,7 @@ To read more about contact information
 
 click here Important Info Important Info
 
-\[1\] MSRP does not include delivery, processing and handling fee of $1,025. Excludes taxes, title, license and optional equipment. Dealer price will vary. Does not include accessory options installed by dealer.
+\[1\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
 \[2\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
