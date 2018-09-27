@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms August 2018 was 5th hottest August on record for the globe Polar sea ice coverage remains at near-record lows AROUND NOAA // After landfall: 4 ways NOAA is helping your community recover from Florence Evaluating Florence damage from the air: NOAA begins aerial surveys \[EXT\] Hurricane Florence: Get the latest from NOAA's National Hurricane Center \[EXT\]
+Enter Search Terms August 2018 was 5th hottest August on record for the globe Polar sea ice coverage remains at near-record lows AROUND NOAA // After landfall: 4 ways NOAA is helping your community recover from Florence Evaluating Florence damage from the air: NOAA begins aerial surveys \[EXT\] Humpback whales navigate an ocean of change \[EXT\]
 
 *   About our agency
 *   News and features
