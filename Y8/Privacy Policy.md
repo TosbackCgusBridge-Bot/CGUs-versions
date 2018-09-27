@@ -3,44 +3,44 @@
 *   games
 *   videos
 
-New Games Next in  18:21 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  21:45 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 18:21
-*   Best of new games 1462 games
-*   Most Popular Games 17993 games
+*   New Games Next in 21:45
+*   Best of new games 1461 games
+*   Most Popular Games 17999 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,183 games
-*   Driving &. Racing Games 6,669 games
+*   Games for girls 23,185 games
+*   Driving &. Racing Games 6,672 games
 *   Strategy &. RPG Games 2,379 games
-*   Management Games 3,644 games
-*   Thinking Games 11,668 games
-*   Action &. Adventure Games 15,671 games
-*   Sports Games 2,103 games
-*   Shooting Games 8,135 games
+*   Management Games 3,645 games
+*   Thinking Games 11,671 games
+*   Action &. Adventure Games 15,670 games
+*   Sports Games 2,106 games
+*   Shooting Games 8,140 games
 *   Fighting Games 2,072 games
-*   Skill Games 10,274 games
-*   Arcade &. Classic Games 12,582 games
-*   Fun &. Crazy Games 2,427 games
+*   Skill Games 10,276 games
+*   Arcade &. Classic Games 12,586 games
+*   Fun &. Crazy Games 2,429 games
 
 Tags
 
-*   Balancing376
-*   Burger158
-*   Sniper322
-*   Throwing879
-*   Ninja499
-*   Driving3,760
+*   Violence385
+*   Vampire80
+*   Purchase Equipment Upgrades4,055
+*   Birds750
+*   Shoot 'Em Up3,235
+*   Truck927
 *   View All Tags 372
 
 Play with friends  
-Powered by Y8 Account 124 Y8 Multiplayer Games 1,607 Y8 High Score Games 992 Y8 Achievements Games 771 Y8 Screenshots Games 1,303 Y8 Online Save Games 2,606 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 124 Y8 Multiplayer Games 1,613 Y8 High Score Games 992 Y8 Achievements Games 773 Y8 Screenshots Games 1,303 Y8 Online Save Games 2,614 All Y8 Games Games Last Highscore:
 
-**413** points on Cricket Fielder Challenge by dani1980
+**20,900** points on 100 Metres Race by Kla
 
 *   Contact Form
 *   Submit a Game or Video
