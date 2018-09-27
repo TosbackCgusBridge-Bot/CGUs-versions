@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Michelle Goldberg_: Pigs All the Way Down
+*   _Richard Wolf_: Tensions Rise as Kavanaugh Senate Hearing Nears
     
-*   _Alexandra DeSanctis_: The Kavanaugh Circus Is Destroying #MeToo
+*   _Adam White_: Where the Burden of Proof Really Rests
     
-*   _Matt Ford_: When Democrats Retaliate
+*   _Jill Filipovic_: When Boys Humiliate Girls at School
     
-*   _Byron York_: Are Democrats Trying to Scrap Ford's Testimony Again?
+*   _Lisa Boothe_: Why Democrats May Regret the Weaponization of #MeToo
     
-*   _Robinson Meyer_: Google's New Tool to Fight Climate Change
+*   _Robin Wright_: Trump's Speech at U.N. Triggers Laughter--and Disbelief
     
-*   _Rupert Darwall_: The War on Coal Is a Winner for China
+*   _Benny Avni_: Sticking It to the Globalists: Trump's Approach Is Working
     
-*   _Josh Cohen_: Donald Trump Versus the Foreign Policy Blob
+*   _Myra Adams_: Can the House Republicans Defy History in Midterms?
     
-*   _John Kerry_: Saving Our Future
+*   _David Sarasohn_: The Rise of West Coast Democrats
     
-*   _John Tierney_: Reeducation Campus: The First-Year Indoctrination
+*   _Stephen Moore_: Why Aren't Liberals Fun Anymore?
     
-*   _Clio Chang_: Whose Side Are Asian-Americans On?
+*   _Larry Krasner_: The Burden Lies With Judge Kavanaugh
     
-*   _Chris Buskirk_: The Suicidal Sanctimony of Phony Conservatives
+*   _Richard Reinsch_: For Judge Kavanaugh, It Must Be V for Victory
     
-*   : REITs Are Real Estate Working for All Americans and Reshaping Communities
+*   _Newt Gingrich_: The Real Question for Thursday--Who Governs America?
     
-*   _Heather Mac Donald_: Drive to Destroy Kavanaugh Is the Worst of Feminism
+*   _Frank Bruni_: The Many Faces of Brett Kavanaugh
     
-*   _Emily Witt_: The Boys' Club That Protects Brett Kavanaugh
+*   _Margot Cleveland_: Will Vulnerable Dems Vote for Decency or Smears?
     
-*   _Glenn Reynolds_: Believe the Facts, Not Stereotypes About Men &. Women
+*   _LA Kauffman_: The Republican Party Is About to Face the Wrath of Women
     
-*   _Sean McElwee_: Lesson for Dems on Kavanaugh: It's Always Worth a Fight
+*   _Roger Kimball_: Trump's Triumph at the U.N.
     
-*   _Mollie Hemingway_: The Smearing of Brett Kavanaugh Is Truly Evil
+*   _Jarrett Blanc_: Here's Why World Leaders Are Laughing at Trump
     
-*   _Andrew Cohen_: Brett Kavanaugh Has Already Disqualified Himself
+*   _Christian Whiton_: Elites Laugh, But Americans See Through the Globaloney
     
-*   _Curtis Ellis_: Why Trump's Tariffs Won't Cost Consumers a Nickel
+*   _Thomas Friedman_: Trump to China: 'I Own You.' Guess Again.
     
-*   _Drew Fagan_: Why Canada Won't Budge on Trade
+*   _John Judis_: What Trump Gets Right on Trade
     
-*   _James Warren_: China's Borrowing From Imperial Japan's Playbook
+*   _Sean Trende_: Sizing Up the Montana Senate Race
     
-*   _Andrew McCarthy_: Rod Rosenstein's Resistance
+*   _Cass Sunstein_: Beto O'Rourke, the Reaganesque Anti-Trump in Texas
     
-*   _Eisen &. Rangappa_: Mueller's Long Game on Russia Probe Is Paying Off
+*   _Al Weaver_: Kevin McCarthy: The Man Who Would Be Speaker
     
-*   _James Freeman_: Is Trump Creating New Republicans?
+*   _Sally Persons_: Ellison, MeToo Issues Shadow Female Candidates in Minn.
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Sizing Up the Montana Senate Race
+*   Ellison, MeToo Issues Shadow Female Candidates in Minn.
+*   Trump Challenges U.N., Pouring Scorn on the "Ideology of Globalism"
 *   Trump to Meet Rosenstein Thursday Amid Conflicting Reports on Future
-*   Kavanaugh Blasts "False Accusations": "I've Never Sexually Assaulted Anyone"
-*   Limbaugh: Kiss Midterms Goodbye If Republicans Can't Confirm Kavanaugh
-*   Menendez in Jeopardy as NJ Senate Challenger Makes Push
 *   Cruz, O'Rourke Trade Attacks During Testy 1st Texas Debate
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Florida Senate - Scott vs. NelsonNBC News/Marist
-    *   Nelson48
-    *   Scott45Nelson +3
-*   Florida Senate - Scott vs. NelsonQuinnipiac
-    *   Nelson53
-    *   Scott46Nelson +7
-*   Arizona Senate - McSally vs. SinemaNBC News/Marist
-    *   Sinema48
-    *   McSally45Sinema +3
-*   Montana Senate - Rosendale vs. TesterGravis
-    *   Tester49
-    *   Rosendale45Tester +4
+*   California Senate - Feinstein vs. de LeonPPIC
+    *   Feinstein40
+    *   Leon29Feinstein +11
+*   Delaware Senate - Arlett vs. CarperUniversity of Delaware\*
+    *   Carper61
+    *   Arlett24Carper +37
+*   California Governor - Cox vs. NewsomPPIC
+    *   Newsom51
+    *   Cox39Newsom +12
+*   New Jersey 3rd District - MacArthur vs. KimNY Times/Siena
+    *   Kim49
+    *   MacArthur39Kim +10
 
 More Latest Polls In The News
 
-*   Avenatti: Client With Allegations Against Kavanaugh Will Come Forward Within 48 Hours
-*   Dan Rather: Rosenstein, Kavanaugh Make Trump "Fear" Something Criminal Will Be Found Out About Him
-*   Full Interview: Judge Kavanaugh, Wife Speak to FNC's Martha MacCallum About Sexual Allegations
+*   Boxer: Republicans So "Hostile" To Women They Know They Have To Use A Woman to Question Ford
+*   Levin: Kavanaugh Accuser Needs To Be Aggressively Crossed Examined, "She's Not The Bubble Lady"
+*   CNN's Don Lemon: Kavanaugh Is Like Bill Cosby, Many People Could Not Believe It When First Accused
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Limbaugh: If Republicans Can't Get Kavanaugh Confirmed, You Can Kiss The Midterms Goodbye
+*   Gingrich: If Left Stops Kavanaugh We Will Never Get Another Conservative Justice In Our Lifetime
 
 *   Politics
 *   Policy
