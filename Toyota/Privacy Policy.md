@@ -91,7 +91,6 @@ Skip to main content
 *   2019 Supra Xfinity Series Race Car View More Info
 *   GR Supra Racing Concept View More Info
 *   2019 RAV4 View More Info
-*   2019 TRD Pro Series View More Info
 *   FT-4X Concept View More Info
 
 View All Vehicles
@@ -146,7 +145,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 54/133 est MPG10 $32,115 as shown1 2018 Prius $23,475 starting1  
 54/50 est MPG17 $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
 48/43 est MPG20 $58,365 as shown1 2018 Mirai $58,365 starting1  
-67/67 est MPG14 Upcoming Vehicles 2019 Supra Xfinity Series Race Car GR Supra Racing Concept 2019 RAV4 2019 TRD Pro Series FT-4X Concept
+67/67 est MPG14 Upcoming Vehicles 2019 Supra Xfinity Series Race Car GR Supra Racing Concept 2019 RAV4 FT-4X Concept
 
 *   Careers
 *   Español
