@@ -5,7 +5,7 @@ Effective Date:  September 25, 2018.  To see the previous version of the Priv
   
 This is the privacy policy ("Privacy Policy") of The Swiss Colony, LLC and the SwissColony.com website (referred to below as the "Site").  We describe in this Privacy Policy the types of information we gather about you, how we use and share that information, and how you can control how you’re marketed to.  Throughout this policy, "The Swiss Colony, LLC" means The Swiss Colony, and "we," "our," and "us" means "Our Family of Companies."  "Our Family of Companies" is also sometimes referred to herein as "Affiliates."  Please "Click here" to see a current listing of Our Family of Companies.  
   
-This Privacy Policy is principally intended to address the information collected from you at the Site, but we describe in certain places how we collect or use information in other ways, as well, such as if you contact our customer service and/or ordering departments by mail or telephone).  
+This Privacy Policy is principally intended to address the information collected from you at the Site, but we describe in certain places how we collect or use information in other ways, as well, such as if you contact our customer service and/or ordering departments by mail or telephone.  
   
 **More details about information we collect and share is presented in our Financial Privacy Notice relating to financial privacy, which is required by the federal Gramm-Leach-Bliley Act for companies that grant credit.** Click here **to see this Financial Privacy Notice**. In the event of a conflict between the terms of this Privacy Policy and our Financial Privacy Notice, the terms of the Financial Privacy Notice will prevail.  
   
@@ -14,8 +14,8 @@ We collect information from you in three ways:  first, we collect certain infor
 **_a.         Information We Collect Directly From You_**  
 We collect certain information directly from you, including when you make purchases or require delivery, when you establish an account with us, register to use certain features of our Site, or you otherwise communicate with us: 
 
-*   In ress, telephone number, and information related to the above. 
-*   Worder to make purchases, to access certain information, features or services at the Site or offerings of The Swiss Colony, you may be required to provide certain information that identifies you as an individual, including your name, address, email adde collect your credit card information and other payment details, when required to complete a transaction.
+*   In order to make purchases, to access certain information, features or services at the Site or offerings of The Swiss Colony, you may be required to provide certain information that identifies you as an individual, including your name, address, email address, telephone number, and information related to the above.
+*   We collect your credit card information and other payment details, when required to complete a transaction.
 *   If you use our credit plan or submit a credit application, we may collect other financial and personal information from and about you.
 *   If you provide comments or suggestions to us, we will keep those, and if you contact our customer service or other departments, we will maintain those communications and your contact details.
 *   We sometimes collect information from you through surveys, promotions, sweepstakes and contests, or other outreach programs.  Likewise, if you sign up for our wish list service, we will ask you for information concerning your gift selections.
@@ -117,7 +117,7 @@ We reserve the right to amend this policy from time to time and to apply any cha
 **15.       Applicability of Privacy Policy**  
 If you cease to be our customer, such as when your account is closed or becomes inactive, our information practices in this policy, as amended from time to time, will continue to apply.  
   
-Any dispute over non-financial privacy matters between you and The Swiss Colony is subject to the provisions of this **Privacy Policy** and to The Swiss Colony’s **Terms of Use**, which is incorporated herein and can be read by "Financial Privacy Notice, which can be accessed by clicking here.
+Any dispute over non-financial privacy matters between you and The Swiss Colony is subject to the provisions of this **Privacy Policy** and to The Swiss Colony’s **Terms of Use**, which is incorporated herein and can be read by "clicking here". For matters relating to financial privacy, see our **Financial Privacy Notice**, which can be accessed by clicking here.
 
 **16.       How to Contact Us**  
 Our postal address is:  
