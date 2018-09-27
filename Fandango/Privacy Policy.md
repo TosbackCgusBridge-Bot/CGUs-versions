@@ -41,7 +41,7 @@ Gift Cards | Offers | Sign In Sign Out
     *   Bad Times at the El Royale
     *   Goosebumps 2: Haunted Halloween
     *   Halloween (2018)
-    *   Serenity (2018)
+    *   Serenity (2019)
     *   Hunter Killer (2018)
     *   Indivisible (2018)
     *   Johnny English Strikes Again
@@ -330,10 +330,6 @@ Offers
     
     100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
-*   'Hell Fest' Gift with Purchase
-    
-    Buy tickets to 'Hell Fest' and get a FREE\* t-shirt with ticket purchase (S&H not included). BUY TICKETS
-    
 
 New + Coming soon
 
@@ -379,4 +375,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
