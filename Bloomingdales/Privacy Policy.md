@@ -1,4 +1,47 @@
-Skip Navigation Live Chat CALL US **ANY TIME**:1.800.777.0000  
+Skip Navigation Stores &. Events My Account USD Have an Account? SIGN IN
+
+*   Women
+*   Shoes
+*   Handbags
+*   Jewelry &. Accessories
+*   Beauty
+*   Men
+*   Kids
+*   Home
+*   Gifts
+*   DESIGNERS
+*   EDITORIAL
+
+*   THE REGISTRY
+*   Stores &. Events
+*   Promotions
+*   My Account
+    *   Account Overview
+    *   Bloomingdale’s Credit Card
+    *   bWallet
+    *   Loyallist
+        *   Already a Loyallist
+        *   Become a Loyallist
+        *   My Perks
+    *   Wish Lists
+
+USD Change Recent Searches
+
+*   Recent Searches Clear
+
+*   Women
+*   Shoes
+*   Handbags
+*   Jewelry &. Accessories
+*   Beauty
+*   Men
+*   Kids
+*   Home
+*   Gifts
+*   DESIGNERS
+*   EDITORIAL
+
+Live Chat CALL US **ANY TIME**:1.800.777.0000  
   
 We're available 24 hours, 7 days a week. menu
 
@@ -378,3 +421,38 @@ Does this answer your question? Yes No s
 *   Highlights of Bloomingdale’s Notice of Privacy Practices
 *   What is the shipping policy?
 *   How do I return an item purchased at a Bloomingdale's store?
+
+*   CUSTOMER SERVICE
+    *   Shipping Policy
+    *   Returns &. Exchanges
+    *   International
+*   MY ACCOUNT
+    *   Order Status
+    *   My Loyallist
+    *   My Profile
+*   MY CREDIT CARD
+    *   Pay Bill
+    *   Cardholder Benefits
+    *   Learn More &. Apply
+*   COMPANY
+    *   About Us
+    *   b.cause
+    *   Careers
+*   WAYS TO SHOP
+    *   Online &. Mobile
+    *   Stores
+    *   Pick Up In Store
+
+Customer Service 1-800-777-0000 Customer Service 1-800-777-0000
+
+*   Terms of Use
+*   Privacy
+*   CA Privacy Rights
+*   CA Transparency in Supply Chains Act
+*   Interest Based Ads
+*   Customers' Bill of Rights
+*   Product Recall
+*   Visually Impaired Customers
+*   Essential Accessibility
+
+© 2017 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
