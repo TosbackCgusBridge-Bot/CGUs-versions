@@ -1,4 +1,4 @@
-*   MIN1-1-1LA3-0Thu, 8:20 pm ET
+*   MIN1-2-131LA4-038Final
 *   MIA3-0NE1-2Sun, 1:00 pm ET
 *   PHI2-1TEN2-1Sun, 1:00 pm ET
 *   CIN2-1ATL1-2Sun, 1:00 pm ET
@@ -30,7 +30,7 @@
 *   NFL Network
 *   Photos
 
-*   MIN1-1-1LA3-0Thu, 8:20 pm ET
+*   MIN31LA38Final
 *   MIA3-0NE1-2Sun, 1:00 pm ET
 *   PHI2-1TEN2-1Sun, 1:00 pm ET
 *   CIN2-1ATL1-2Sun, 1:00 pm ET
