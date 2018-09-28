@@ -8,13 +8,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   AllSaints Clothing &. Coats
-    *   AllSaints Shoes
-    *   AllSaints Handbags &. Accessories
-    *   Petit Pois by Viviana G
+    *   MICHELE Watches
+    *   Aquatalia Up to 55% Off
+    *   Meghan LA
+    *   Desk to Dinner: Dresses
+    *   14K Gold Jewelry Steals
+    *   Wacoal &. b.tempt'd by Wacoal
+    *   dee elly Starting at $20
     *   True Religion Starting at $30
+    *   Grayers
+    *   ZAC Zac Posen Handbags
+    *   $100 &. Under: Men's Active Sneakers
+    *   Sophie Catalou
+    *   Pastourelle and Pippa &. Julie
+    *   Free Shipping: Ultra-Soft Towels from $10
+    *   Highlighter Sheets &. More from Mai Couture
+    *   Get Glam: Beth Bender Beauty
+    *   Elodie
+    *   Chan Luu Jewelry Starting at $30
+    *   1.State Starting at $40
+    *   Designer Scarves &. More
+    *   Soul Star
+    *   90s Throwbacks: Kids' Styles ft. DKNY
+    *   $25 &. Under: Original Penguin Boys' Shoes
+    *   Baking Stars: Essential Pans &. More
     *   True Religion Men
-    *   AllSaints Men's Clothing &. More
+    
+    *   Steve Madden Men's Accessories Starting at $13
+    *   Petit Pois by Viviana G
     *   Alpha &. Omega and More
     *   Fall Essentials: Sweaters &. More Up to 70% Off
     *   LOVE Moschino
@@ -30,76 +51,58 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jack Mason Watches &. More
     *   Bespoke Up to 80% Off
     *   Louis Raphael: Trousers Under $60
-    *   Jealous Tomato Under $35
-    *   Ethically Crafted: Handmade Jewelry by SOKO
     *   Cuisinart
     *   Free Shipping: Traditional Rugs Up to 70% Off
     *   Free Shipping: Modern Accent Furniture
     *   Free Shipping: Quirky Decorative Accents
-    
     *   Free Shipping: Colorful Boho Throws &. More
     *   Steve Madden
     *   Steve Madden Men
-    *   French Connection
-    *   Love Stitch Dresses
-    *   Chaser
-    *   Love Stitch
-    *   Steve Madden Jewelry, Watches &. Sun
     *   Steve Madden Handbags
-    *   Made in Italia Shoes
+    
     *   Teami Blends Detox Teas &. Supplements
     *   Crown Brush Starting at $10
     *   Kids' Fall Sleepwear Starting at $8
     *   Steve Madden Kids Up to 50% Off
-    *   French Connection Coats
-    *   Ash Shoes Up to 45% Off
-    *   Siwy Denim
-    *   Azura Shoes Starting at $30
     *   Fleece for Fall: Kids' Styles Starting at $8
     *   Kids' Fall Favorites: Harper Canyon &. More
     *   XRAY Up to 75% Off
-    *   Free People
-    *   Free People Shoes
-    *   Free People Lingerie &. More
     *   NuFACE Facial Toning Devices
-    *   Michou Gemstone &. Sterling Silver Jewelry
     *   Maui &. Sons Starting at $15
-    *   Joe-Ella Girls' Dresses
-    
-    *   Sovereign Code Boys Up to 60% Off
     *   Perfect Gifts: Quote Jar Candles &. More from $15
-    *   Chanteur Jewelry
-    *   Dr. Scholl's Kids
-    *   Hoop Earrings Starting at $10
     *   Casually Cool: Men's Sneakers Up to 50% Off
     *   Wrinkles Schminkles: Skin Smoothing Kits &. More
     *   Blend Mineral Cosmetics
-    *   Men's Summer Blowout
-    *   Men's Shoes Up to 60% Off
     *   Free Shipping: Bedding Essentials Blowout
     *   D24K by D'OR: Luxe Creams, Serums &. More
-    *   Luxe Men's Dress Shoes ft. Bruno Magli
-    *   WALLIN &. BROS
-    *   K-Beauty Faves: Leaders Cosmetics
     *   Glam It Up: Fashion-Themed Pillows &. More
+    *   Jealous Tomato Under $35
+    *   Ethically Crafted: Handmade Jewelry by SOKO
     *   Thoughts That Count: Stationery Sets &. More
     *   Free Shipping: Hand-Painted Replicas
-    *   Make It Modern: Budget-Friendly Accent Furniture
-    *   Free Shipping: Rustic Decor ft. UMA
     *   Public Opinion Starting at $15
     *   Thomas Pink Up to 70% Off
-    *   Stand Out: Men's Printed Socks
     *   Chic Shower Curtains
-    *   Steve Madden Men's Accessories Starting at $13
-    *   Trask Shoes &. Handbags Up to 65% Off
 *   WomenShop Sale Events
     
-    *   AllSaints Clothing &. Coats
-    *   AllSaints Shoes
-    *   AllSaints Handbags &. Accessories
-    *   Petit Pois by Viviana G
+    *   MICHELE Watches
+    *   Aquatalia Up to 55% Off
+    *   Meghan LA
+    *   Desk to Dinner: Dresses
+    *   14K Gold Jewelry Steals
+    *   Wacoal &. b.tempt'd by Wacoal
+    *   dee elly Starting at $20
     *   True Religion Starting at $30
+    *   ZAC Zac Posen Handbags
+    *   Highlighter Sheets &. More from Mai Couture
+    *   Get Glam: Beth Bender Beauty
+    *   Elodie
+    *   Chan Luu Jewelry Starting at $30
+    *   1.State Starting at $40
+    *   Designer Scarves &. More
+    *   Petit Pois by Viviana G
     *   Alpha &. Omega and More
+    
     *   Fall Essentials: Sweaters &. More Up to 70% Off
     *   LOVE Moschino
     *   Fall Refresh: K-Beauty Masks &. More
@@ -107,34 +110,16 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   LOVE Moschino Up to 45% Off
     *   Set to Sweat: Active Brands We Love
     *   Gone Country: Western-Inspired Shoes
-    *   Jealous Tomato Under $35
-    *   Ethically Crafted: Handmade Jewelry by SOKO
     *   Steve Madden
-    *   French Connection
-    *   Love Stitch Dresses
-    *   Chaser
-    *   Love Stitch
-    
-    *   Steve Madden Jewelry, Watches &. Sun
     *   Steve Madden Handbags
-    *   Made in Italia Shoes
     *   Teami Blends Detox Teas &. Supplements
     *   Crown Brush Starting at $10
-    *   French Connection Coats
-    *   Ash Shoes Up to 45% Off
-    *   Siwy Denim
-    *   Azura Shoes Starting at $30
-    *   Free People
-    *   Free People Shoes
-    *   Free People Lingerie &. More
     *   NuFACE Facial Toning Devices
-    *   Michou Gemstone &. Sterling Silver Jewelry
-    *   Hoop Earrings Starting at $10
     *   Wrinkles Schminkles: Skin Smoothing Kits &. More
     *   Blend Mineral Cosmetics
     *   D24K by D'OR: Luxe Creams, Serums &. More
-    *   K-Beauty Faves: Leaders Cosmetics
-    *   Trask Shoes &. Handbags Up to 65% Off
+    *   Jealous Tomato Under $35
+    *   Ethically Crafted: Handmade Jewelry by SOKO
     
     Shop By Category
     *   Clothing
@@ -146,25 +131,22 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   MenShop Sale Events
     
+    *   Grayers
+    *   $100 &. Under: Men's Active Sneakers
+    *   Soul Star
     *   True Religion Men
-    *   AllSaints Men's Clothing &. More
+    *   Steve Madden Men's Accessories Starting at $13
     *   Jack Mason Watches &. More
     *   Bespoke Up to 80% Off
     *   Louis Raphael: Trousers Under $60
+    
     *   Steve Madden Men
     *   Teami Blends Detox Teas &. Supplements
     *   XRAY Up to 75% Off
     *   Maui &. Sons Starting at $15
-    
     *   Casually Cool: Men's Sneakers Up to 50% Off
-    *   Men's Summer Blowout
-    *   Men's Shoes Up to 60% Off
-    *   Luxe Men's Dress Shoes ft. Bruno Magli
-    *   WALLIN &. BROS
     *   Public Opinion Starting at $15
     *   Thomas Pink Up to 70% Off
-    *   Stand Out: Men's Printed Socks
-    *   Steve Madden Men's Accessories Starting at $13
     
     Shop By Category
     *   Clothing
@@ -173,59 +155,61 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Sophie Catalou
+    *   Pastourelle and Pippa &. Julie
+    *   90s Throwbacks: Kids' Styles ft. DKNY
+    *   $25 &. Under: Original Penguin Boys' Shoes
     *   Splendid Kids Starting at $10
     *   Jessica Simpson Girls Starting at $9
+    
     *   Fall Kicks for Girls ft. Sam Edelman
     *   Kids' Fall Sleepwear Starting at $8
     *   Steve Madden Kids Up to 50% Off
     *   Fleece for Fall: Kids' Styles Starting at $8
-    
     *   Kids' Fall Favorites: Harper Canyon &. More
-    *   Joe-Ella Girls' Dresses
-    *   Sovereign Code Boys Up to 60% Off
-    *   Chanteur Jewelry
-    *   Dr. Scholl's Kids
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
-    *   Boys Sizes 2T-7
     *   Baby Girl
     *   Girls' Shoes
     *   Boys Sizes 8-20
-    *   Baby Boy
+    *   Boys Sizes 2T-7
     *   Boys' Shoes
+    *   Baby Boy
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Ultra-Soft Towels from $10
+    *   Baking Stars: Essential Pans &. More
     *   Kitchen Organization Must-Haves
     *   Cuisinart
     *   Free Shipping: Traditional Rugs Up to 70% Off
     *   Free Shipping: Modern Accent Furniture
     *   Free Shipping: Quirky Decorative Accents
+    
     *   Free Shipping: Colorful Boho Throws &. More
     *   Perfect Gifts: Quote Jar Candles &. More from $15
-    
     *   Free Shipping: Bedding Essentials Blowout
     *   Glam It Up: Fashion-Themed Pillows &. More
     *   Thoughts That Count: Stationery Sets &. More
     *   Free Shipping: Hand-Painted Replicas
-    *   Make It Modern: Budget-Friendly Accent Furniture
-    *   Free Shipping: Rustic Decor ft. UMA
     *   Chic Shower Curtains
     
     Shop By Category
     *   Home Decor
-    *   Accent Furniture
-    *   Rugs
     *   Kitchen &. Tabletop
+    *   Rugs
+    *   Accent Furniture
+    *   Bath
     *   Bedding
     *   Storage &. Cleaning
-    *   Bath
     *   Outdoor Living
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Highlighter Sheets &. More from Mai Couture
+    *   Get Glam: Beth Bender Beauty
     *   Fall Refresh: K-Beauty Masks &. More
     *   ChinUp Masks
     *   Teami Blends Detox Teas &. Supplements
@@ -234,11 +218,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Wrinkles Schminkles: Skin Smoothing Kits &. More
     *   Blend Mineral Cosmetics
     *   D24K by D'OR: Luxe Creams, Serums &. More
-    *   K-Beauty Faves: Leaders Cosmetics
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Tools &. Accessories
     *   Makeup Bags
 
