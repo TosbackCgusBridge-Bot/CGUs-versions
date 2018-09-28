@@ -129,7 +129,7 @@ View Marvel’s Spider-Man on Instagram
 
 Ready for Red Dead Redemption 2? Grab a new bundle including the game and a 1TB PS4 Pro system starting October 26.
 
-2 days ago
+3 days ago
 
 View Tweet
 
