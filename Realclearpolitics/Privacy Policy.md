@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Richard Wolf_: Tensions Rise as Kavanaugh Senate Hearing Nears
+*   _Peter Beinart_: The Fear Driving Conservative Support for Kavanaugh
     
-*   _Adam White_: Where the Burden of Proof Really Rests
+*   _D.C. McAllister_: Why Believe the Woman With No Evidence?
     
-*   _Jill Filipovic_: When Boys Humiliate Girls at School
+*   _Ruth Marcus_: Christine Blasey Ford's Testimony Was Devastating
     
-*   _Lisa Boothe_: Why Democrats May Regret the Weaponization of #MeToo
+*   _Ashley Baker_: I Stand With Kavanaugh Over Uncorroborated Accusations
     
-*   _Robin Wright_: Trump's Speech at U.N. Triggers Laughter--and Disbelief
+*   _Kate Manne_: Brett Kavanaugh and America's 'Himpathy' Reckoning
     
-*   _Benny Avni_: Sticking It to the Globalists: Trump's Approach Is Working
+*   _Ben Stein_: The Sad Facts: Some Women Lie. Politicians Lie
     
-*   _Myra Adams_: Can the House Republicans Defy History in Midterms?
+*   _Daniel Shapiro_: UN Speech Shows Trump Doesn't Know What Patriotism Is
     
-*   _David Sarasohn_: The Rise of West Coast Democrats
+*   _Salvatore Babones_: Trump Successes Show Principled Realism in Action
     
-*   _Stephen Moore_: Why Aren't Liberals Fun Anymore?
+*   _John Stossel_: Leaving the Left
     
-*   _Larry Krasner_: The Burden Lies With Judge Kavanaugh
+*   _Emily Witt_: Kavanaugh Battle Intensifies the Feminist Protest Movement
     
-*   _Richard Reinsch_: For Judge Kavanaugh, It Must Be V for Victory
+*   _Melissa Danford_: The Future Isn't Female--It Belongs to Daughters &. Sons
     
-*   _Newt Gingrich_: The Real Question for Thursday--Who Governs America?
+*   _Stephen Collinson_: A Day That Will Resonate in History
     
-*   _Frank Bruni_: The Many Faces of Brett Kavanaugh
+*   _Daniel Henninger_: The Kavanaugh Standard
     
-*   _Margot Cleveland_: Will Vulnerable Dems Vote for Decency or Smears?
+*   _Christina Cauterucci_: Toxic Bro Culture Finally Comes Under Scrutiny
     
-*   _LA Kauffman_: The Republican Party Is About to Face the Wrath of Women
+*   _Rich Lowry_: Avenatti the Perfect Standard Bearer for Democrats
     
-*   _Roger Kimball_: Trump's Triumph at the U.N.
+*   _E.J. Dionne_: This Fight Is Bigger Than Kavanaugh
     
-*   _Jarrett Blanc_: Here's Why World Leaders Are Laughing at Trump
+*   _James Robbins_: Demonizing Kavanaugh Could Cost Democrats
     
-*   _Christian Whiton_: Elites Laugh, But Americans See Through the Globaloney
+*   _Jack Holmes_: Trump's Presser Was Unhinged and Legitimately Scary
     
-*   _Thomas Friedman_: Trump to China: 'I Own You.' Guess Again.
+*   _Victor Davis Hanson_: The Truths Behind Our Current Political Turmoil
     
-*   _John Judis_: What Trump Gets Right on Trade
+*   _Ally Mutnick_: Massive House Map Continues to Grow
     
-*   _Sean Trende_: Sizing Up the Montana Senate Race
+*   _Wadi Gaitan_: Latinos in Position to Decide Majorities in Congress
     
-*   _Cass Sunstein_: Beto O'Rourke, the Reaganesque Anti-Trump in Texas
+*   _David Byler_: Best &. Worst Case Scenarios for Both Parties in Nov
     
-*   _Al Weaver_: Kevin McCarthy: The Man Who Would Be Speaker
+*   _Castro &. McLaughlin_: Conservatives Shouldn't Mess With Social Media
     
-*   _Sally Persons_: Ellison, MeToo Issues Shadow Female Candidates in Minn.
+*   _Adriana Cohen_: Facebook, Twitter Abuse Power to Stifle Conservatives
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Kavanaugh Hearing Runs Red Hot With Partisan Anger
 *   Sizing Up the Montana Senate Race
+*   Full Replay: Blasey Ford, Kavanaugh Testify Before Senate Committee
+*   Trump to World Leaders: China Out to Meddle in 2018 Election
 *   Ellison, MeToo Issues Shadow Female Candidates in Minn.
-*   Trump Challenges U.N., Pouring Scorn on the "Ideology of Globalism"
-*   Trump to Meet Rosenstein Thursday Amid Conflicting Reports on Future
-*   Cruz, O'Rourke Trade Attacks During Testy 1st Texas Debate
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Pennsylvania Senate - Barletta vs. CaseyFranklin &. Marshall\*
+    *   Casey50
+    *   Barletta33Casey +17
+*   Michigan Senate - James vs. StabenowEPIC-MRA
+    *   Stabenow56
+    *   James33Stabenow +23
 *   California Senate - Feinstein vs. de LeonPPIC
     *   Feinstein40
     *   Leon29Feinstein +11
 *   Delaware Senate - Arlett vs. CarperUniversity of Delaware\*
     *   Carper61
     *   Arlett24Carper +37
-*   California Governor - Cox vs. NewsomPPIC
-    *   Newsom51
-    *   Cox39Newsom +12
-*   New Jersey 3rd District - MacArthur vs. KimNY Times/Siena
-    *   Kim49
-    *   MacArthur39Kim +10
 
 More Latest Polls In The News
 
-*   Boxer: Republicans So "Hostile" To Women They Know They Have To Use A Woman to Question Ford
-*   Levin: Kavanaugh Accuser Needs To Be Aggressively Crossed Examined, "She's Not The Bubble Lady"
-*   CNN's Don Lemon: Kavanaugh Is Like Bill Cosby, Many People Could Not Believe It When First Accused
+*   Sen. Graham Explodes on Dems at Kavanaugh Hearing: "Despicable," I Hope You Never Get This Seat
+*   Kavanaugh Opening Statement on Ford: Advice And Consent Been Replaced With Search And Destroy
+*   Dr. Christine Blasey Ford Opening Testimony: Brett Kavanaugh, The Boy Who Sexually Assaulted Me
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Gingrich: If Left Stops Kavanaugh We Will Never Get Another Conservative Justice In Our Lifetime
+*   Megyn Kelly: Ford Would "Likely Lose" In Court, Democrats Should Be Happy This Isn't A Trial
 
 *   Politics
 *   Policy
