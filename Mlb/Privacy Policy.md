@@ -138,9 +138,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Jerseys
     *   PhotosAuctions
 *   MLB.TV MLB.TV MLB.TV
-    *   Buy MLB.TV
     *   Watch MLB.TV
-    *   Buy Gameday Audio
     *   Buy Follow Your Team
     *   Buy MLB.TV Gift Cards
     *   Select 2017 Archives
