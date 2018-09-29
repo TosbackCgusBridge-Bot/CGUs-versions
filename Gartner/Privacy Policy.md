@@ -3,7 +3,7 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Call +1 800 213 4848+1 800 213 4848 or contact us
+Call 1 855 457 25811 855 457 2581 or contact us
 
 to become a Gartner client.
 
@@ -261,12 +261,12 @@ Log in Become a Client
     
     Career Opportunities Life at Gartner Campus
     
-*   Call +1 800 213 4848+1 800 213 4848 or contact us
+*   Call 1 855 457 25811 855 457 2581 or contact us
     
     to become a Gartner client.
     
 
-Privacy GARTNER PRIVACY POLICY Effective Date: August 2018  
+GARTNER PRIVACY POLICY Effective Date: August 2018  
 
 Gartner and its affiliates are committed to protecting your information. Please read this Privacy Notice ("**the Notice**") carefully as it sets out important information relating to how we handle your personal information.
 
