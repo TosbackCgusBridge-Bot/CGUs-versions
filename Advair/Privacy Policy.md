@@ -127,14 +127,10 @@ GSK Global Website www.gsk.com
         *   Arnuity™ Ellipta® &. Incruse® Ellipta®
         *   Bioelectronics
         *   BREO® ELLIPTA™
-        *   Building Bridges for Asthma Care
-        *   COPD materials
         *   Hepatitis B vaccination and diabetes
         *   FLULAVAL QUADRIVALENT and FLUARIX QUADRIVALENT
         *   Influenza resources
-        *   Navy Yard
         *   NUCALA® (mepolizumab)
-        *   Our settlement with the US Government
         *   Partnership to Help Communities Protect and Care for Children Impacted by Disasters
         *   Shingles resources
         *   Shingrix
@@ -145,7 +141,6 @@ GSK Global Website www.gsk.com
             *   Nick Springer, U.S. Paralympian and meningitis survivor
             *   Dr. Leonard Friedland, VP, director of Scientific Affairs and Public Health, Vaccines, North America at GSK
         *   The IMPACT study: InforMing the PAthway of COPD Treatment
-        *   The State of Uncontrolled Asthma in America
         *   Trelegy Ellipta
         *   US IMPACT Awards
         *   Vaccinate for Life
@@ -208,8 +203,8 @@ Menu
         *   The race to richer data in clinical trials
         *   Cell and gene therapy: a new era of medicine
         *   On target for a new era of drug discovery?
-        *   Take a deep breath - your lung microbiome will appreciate it
         *   Welcome to the golden age of vaccine innovation
+        *   Take a deep breath - your lung microbiome will appreciate it
         *   How do consumer insights fuel our innovation?
         *   Lupus: the search for a cure continues
     *   Access to healthcare
