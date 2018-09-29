@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-SHIP FREE WITH THE PURCHASE OF A REGULAR PRICE BUCKLE BLACK JEAN. SHOP NOW.
+FREE SHIPPING WITH THE PURCHASE OF A REGULAR PRICE BUCKLE BLACK JEAN. SHOP NOW.
 
 *   Women
 *   Men
@@ -111,6 +111,7 @@ SHIP FREE WITH THE PURCHASE OF A REGULAR PRICE BUCKLE BLACK JEAN. SHOP NOW.
         *   Shop Instagram
         *   Buckle Exclusive
         *   buckle SELECT
+        *   Big &. Tall
         
         *   Tops
         
@@ -282,7 +283,6 @@ SHIP FREE WITH THE PURCHASE OF A REGULAR PRICE BUCKLE BLACK JEAN. SHOP NOW.
         *   Country Concerts
         *   The Basics
         *   Night Out
-        *   Festival Shop
         *   Active &. Lounge
         *   Shop Women's Outfits
         *   Shop Men's Outfits
