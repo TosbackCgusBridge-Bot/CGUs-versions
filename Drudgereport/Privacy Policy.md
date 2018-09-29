@@ -164,6 +164,10 @@ If you are a resident of the EEA or Switzerland, we respect your rights accordin
 
 LATEST ON TWITTER
 
+The Powerhouses of the Internet Are Turning Hostile to Websites | SparkToro sparktoro.com/blog/t…
+
+About 11 hours ago
+
 This just in from the blog: Justin Hansen Honored For Q2 Publisher Success! INTERMARKETS + @STAQ intermarkets.net/201…
 
 About 2 weeks ago
@@ -177,10 +181,6 @@ Congrats to our own Justin Hansen for winning the Q2 Top of the @STAQ award! Jus
 About 2 weeks ago
 
 ICYMI: Publishers Turn to White-Glove Services for Ad Buying and Management Needs econtentmag.com/Arti…
-
-About 2 weeks ago
-
-Publishers have a lot on their plates these days. White Glove Services allow publishers to have peace of mind and let experts take care of their ad buying needs. #programmatic #Advertising econtentmag.com/Arti…
 
 About 3 weeks ago
 
