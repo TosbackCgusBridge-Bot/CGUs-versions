@@ -46,7 +46,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -62,6 +61,7 @@ Close submenu ( Girls ) Girls
 *   Clearance
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
+*   Open submenu ( Featured ) Featured
 
 Close submenu ( Featured ) Featured
 
@@ -116,7 +116,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Featured ) Featured
 
 *   Open submenu ( Tops ) Tops
 
@@ -128,6 +127,7 @@ Close submenu ( Guys ) Guys
 *   Cologne
 *   Clearance
 *   Extended Sizes
+*   Open submenu ( Featured ) Featured
 
 Close submenu ( Featured ) Featured
 
@@ -243,7 +243,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **ALL JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
+**ALL JEANS BUY ONE GET ONE FREE  ** GIRLS GUYS **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -461,7 +461,7 @@ Text JOIN to 237687. Terms &. Conditions Details FOLLOW US Customer Care
 *   Help
 *   Coupon Page
 *   My Account
-*   Buy Online, Pink Up In Store
+*   Buy Online, Pick Up In Store
 
 Gift Cards
 
@@ -486,3 +486,17 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
