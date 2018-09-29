@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Peter Beinart_: The Fear Driving Conservative Support for Kavanaugh
+*   _Dahlia Lithwick_: Fear a Justice Brett Kavanaugh
     
-*   _D.C. McAllister_: Why Believe the Woman With No Evidence?
+*   _Marc Thiessen_: Reject This Campaign of Character Assassination
     
-*   _Ruth Marcus_: Christine Blasey Ford's Testimony Was Devastating
+*   _Doreen St. Felix_: A Grotesque Display of Patriarchal Resentment
     
-*   _Ashley Baker_: I Stand With Kavanaugh Over Uncorroborated Accusations
+*   _Kay Hymowitz_: Corroboration, Evidence Must Transcend Emotion
     
-*   _Kate Manne_: Brett Kavanaugh and America's 'Himpathy' Reckoning
+*   _Adam Serwer_: Brett Kavanaugh Showed Why He Was Unfit for the Court
     
-*   _Ben Stein_: The Sad Facts: Some Women Lie. Politicians Lie
+*   _Tomas Mendoza_: I'm a Dem--Thanks to Court Circus I'm Voting Republican
     
-*   _Daniel Shapiro_: UN Speech Shows Trump Doesn't Know What Patriotism Is
+*   _Nate Silver_: Why Our Model Thinks O'Rourke Really Has a Chance in Texas
     
-*   _Salvatore Babones_: Trump Successes Show Principled Realism in Action
+*   _Adele Malpass_: Midterm Early Voting Is in Full Swing--Will It Matter?
     
-*   _John Stossel_: Leaving the Left
+*   _Lionel Shriver_: Men Should Be Mad About #MeToo
     
-*   _Emily Witt_: Kavanaugh Battle Intensifies the Feminist Protest Movement
+*   _Frank Rich_: Republicans Were a Case Study in Misogyny
     
-*   _Melissa Danford_: The Future Isn't Female--It Belongs to Daughters &. Sons
+*   _Rod Dreher_: Brett Kavanaugh on Flight 93
     
-*   _Stephen Collinson_: A Day That Will Resonate in History
+*   _Peter Van Buren_: Kavanaugh Meets the Senate Star Chamber
     
-*   _Daniel Henninger_: The Kavanaugh Standard
+*   _Christina Cauterucci_: The Aggressive, Entitled Teen Shows His Face
     
-*   _Christina Cauterucci_: Toxic Bro Culture Finally Comes Under Scrutiny
+*   _Sen. Lindsey Graham_: I Hope the American People Can See Through This Sham
     
-*   _Rich Lowry_: Avenatti the Perfect Standard Bearer for Democrats
+*   _Emily Yellin_: Watching Her Speak for Us All
     
-*   _E.J. Dionne_: This Fight Is Bigger Than Kavanaugh
+*   _Dov Fischer_: The Resistance Is Resisted
     
-*   _James Robbins_: Demonizing Kavanaugh Could Cost Democrats
+*   _Richard Wolffe_: Kavanaugh's Credibility Did Not Survive the Hearing
     
-*   _Jack Holmes_: Trump's Presser Was Unhinged and Legitimately Scary
+*   _Mark Davis_: Yesterday's Hearing Was the Dems' Worst Nightmare
     
-*   _Victor Davis Hanson_: The Truths Behind Our Current Political Turmoil
+*   _William Saletan_: Ford's Uncertainty Is What Made Her Credible
     
-*   _Ally Mutnick_: Massive House Map Continues to Grow
+*   _Derek Hunter_: Do Facts Matter to Dems Any More? Ford Offered No Proof
     
-*   _Wadi Gaitan_: Latinos in Position to Decide Majorities in Congress
+*   _Alexandra Petri_: HOW DARE YOU DO THIS TO BRETT KAVANAUGH?
     
-*   _David Byler_: Best &. Worst Case Scenarios for Both Parties in Nov
+*   _Matthew Continetti_: Why Senators Must Vote on Kavanaugh Right Now
     
-*   _Castro &. McLaughlin_: Conservatives Shouldn't Mess With Social Media
+*   _Susan Rice_: Trump's America: Reckless, Alone and Ridiculed
     
-*   _Adriana Cohen_: Facebook, Twitter Abuse Power to Stifle Conservatives
+*   _Melanie Phillips_: Europe's Appeasement of Iran
     
 
 *   Previous
@@ -243,18 +243,18 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Pennsylvania Senate - Barletta vs. CaseyFranklin &. Marshall\*
-    *   Casey50
-    *   Barletta33Casey +17
-*   Michigan Senate - James vs. StabenowEPIC-MRA
-    *   Stabenow56
-    *   James33Stabenow +23
-*   California Senate - Feinstein vs. de LeonPPIC
-    *   Feinstein40
-    *   Leon29Feinstein +11
-*   Delaware Senate - Arlett vs. CarperUniversity of Delaware\*
-    *   Carper61
-    *   Arlett24Carper +37
+*   Maryland Governor - Hogan vs. JealousMason-Dixon\*
+    *   Hogan52
+    *   Jealous37Hogan +15
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove51Disapprove +4
+*   2018 Generic Congressional VoteGallup
+    *   Democrats51
+    *   Republicans42Democrats +9
+*   Congressional Job ApprovalGallup
+    *   Approve19
+    *   Disapprove76Disapprove +57
 
 More Latest Polls In The News
 
