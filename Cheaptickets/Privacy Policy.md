@@ -2,6 +2,7 @@ Skip to main content Welcome to {{domainText}} **Continue to the U.S. site at {{
 
 Show Menu Hide Menu
 
+*   Thanks for being one of our most valued customers!
 *   Shop Travel
     *   Home
     *   Vacation Packages
@@ -20,9 +21,11 @@ Show Menu Hide Menu
 *   Add your property
 
 *   Account
+    *   Thanks for being one of our most valued customers!
     *   Sign In
     *   Create an Account
 *   Hello, 's Account
+    *   Thanks for being one of our most valued customers!
     *   My Account
     *   Sign Out
     *   Not ?
@@ -37,10 +40,11 @@ Show Menu Hide Menu
     View your lists
 *   My Trips
 *   Support
+    *   Thanks for being one of our most valued customers!
     *   Customer Support
     *   Feedback
 
-//a.travel-assets.com/globalcontrols-service/content/9b3e532bcb8b98e70e3ea743f0285539ebeda92d Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/e5c0831bca4e42b34c4dbc35e2af96e8911fbbd7 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Vacation Packages
