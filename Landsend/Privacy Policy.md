@@ -218,6 +218,7 @@ Bag 0
     *   Women's Rain Coats
     *   Women's Fleece Jackets
     *   Women's Winter Vests
+    *   Women's Barn Coats
     
     MEN'S COATS &. JACKETS >
     
@@ -679,6 +680,7 @@ Lands' End Sign In menu
         *   Women's Rain Coats
         *   Women's Fleece Jackets
         *   Women's Winter Vests
+        *   Women's Barn Coats
     *   MEN'S COATS &. JACKETS
         *   Back
         *   View All
@@ -974,9 +976,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: FAMILY pin: 6179 DETAILS
+code: BRISK pin: 1742 DETAILS
 
 Customer Service Menu
 
