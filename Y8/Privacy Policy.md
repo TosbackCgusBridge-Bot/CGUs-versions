@@ -3,44 +3,44 @@
 *   games
 *   videos
 
-New Games Next in  18:19 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  24:11 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 18:19
-*   Best of new games 1459 games
-*   Most Popular Games 18007 games
+*   New Games Next in 24:11
+*   Best of new games 1458 games
+*   Most Popular Games 18010 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,188 games
+*   Games for girls 23,189 games
 *   Driving &. Racing Games 6,673 games
-*   Strategy &. RPG Games 2,379 games
+*   Strategy &. RPG Games 2,381 games
 *   Management Games 3,644 games
-*   Thinking Games 11,677 games
-*   Action &. Adventure Games 15,677 games
+*   Thinking Games 11,683 games
+*   Action &. Adventure Games 15,679 games
 *   Sports Games 2,108 games
-*   Shooting Games 8,141 games
-*   Fighting Games 2,074 games
-*   Skill Games 10,287 games
-*   Arcade &. Classic Games 12,596 games
-*   Fun &. Crazy Games 2,431 games
+*   Shooting Games 8,144 games
+*   Fighting Games 2,076 games
+*   Skill Games 10,294 games
+*   Arcade &. Classic Games 12,597 games
+*   Fun &. Crazy Games 2,433 games
 
 Tags
 
-*   Farm241
-*   Killing1,265
-*   3+ Player81
-*   Billiards147
-*   Wrestling31
-*   Solitaire185
+*   Dragon216
+*   Purchase Equipment Upgrades4,059
+*   Animal5,111
+*   First Person Shooter412
+*   Dora127
+*   Multiplayer303
 *   View All Tags 372
 
 Play with friends  
-Powered by Y8 Account 124 Y8 Multiplayer Games 1,617 Y8 High Score Games 995 Y8 Achievements Games 773 Y8 Screenshots Games 1,305 Y8 Online Save Games 2,618 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 124 Y8 Multiplayer Games 1,625 Y8 High Score Games 1,003 Y8 Achievements Games 773 Y8 Screenshots Games 1,312 Y8 Online Save Games 2,624 All Y8 Games Games Last Highscore:
 
-**885** points on Farm Frenzy 2 by kuang
+**72,900** points on Freeway Fury 2 by nengoflow4111
 
 *   Contact Form
 *   Submit a Game or Video
