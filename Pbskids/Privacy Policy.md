@@ -109,4 +109,4 @@ Please read the Terms of Use for Terms and Conditions for using this site.
 
 PBS KIDS | TV Times | Help  
   
-Copyright © 1995-2018 Public Broadcasting Service (PBS). All rights reserved. Come play again later! Come play again tomorrow! Come play again later! Come play again later!
+Copyright © 1995-2018 Public Broadcasting Service (PBS). All rights reserved.
