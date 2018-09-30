@@ -109,6 +109,42 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Kathleen Parker_: Sen. Graham Said What Every Fair-Minded Person Is Thinking
+    
+*   _Peter Beinart_: America Is Finally Listening to Women. It's Sparking a Crisis.
+    
+*   _John Kass_: Why Should We Believe Accusations Without Evidence?
+    
+*   _Erin Ryan_: The Empathy Theater of Grassley and His Ghouls
+    
+*   _Chris Buskirk_: Kavanaugh Vote Is a Victory for Decency, Fair Play
+    
+*   _Jill Abramson_: In Elevator, 2 Rape Survivors Show How Democracy Works
+    
+*   _Mukasey &. Gray_: It's Time to Release the DOJ/FBI Russia Probe Records
+    
+*   _Jeffrey Toobin_: Who Will Protect Mueller's Russia Probe?
+    
+*   _Phillip Elliott_: The Republican Plan to Win Hispanic Voters--and Swing States
+    
+*   _Alfredo Ortiz_: Better Jobs, Better Wages: Let the Economy Decide Your Vote
+    
+*   _Bryce Covert_: The Enduring Scam of Corporate Tax Breaks
+    
+*   _James Durso_: Is Erik Prince Pointing the Way Out of Afghanistan?
+    
+*   _Robert Kagan_: The World America Made--and Trump Wants to Unmake
+    
+*   _Brahma Chellaney_: China's Free Ride Could Be Coming to an End
+    
+*   _Sajeeb Wazed_: The Truth About Bangladesh's Upcoming Elections
+    
+*   _Roger Cohen_: Kavanaugh Is an Injudicious Man, Unfit for Supreme Court
+    
+*   _Stella Morabito_: Ritual Defamation of Kavanaugh Threatens All Americans
+    
+*   : REITs Are Real Estate Working for All Americans and Reshaping Communities
+    
 *   _Dahlia Lithwick_: Fear a Justice Brett Kavanaugh
     
 *   _Marc Thiessen_: Reject This Campaign of Character Assassination
@@ -120,42 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Adam Serwer_: Brett Kavanaugh Showed Why He Was Unfit for the Court
     
 *   _Tomas Mendoza_: I'm a Dem--Thanks to Court Circus I'm Voting Republican
-    
-*   _Nate Silver_: Why Our Model Thinks O'Rourke Really Has a Chance in Texas
-    
-*   _Adele Malpass_: Midterm Early Voting Is in Full Swing--Will It Matter?
-    
-*   _Lionel Shriver_: Men Should Be Mad About #MeToo
-    
-*   _Frank Rich_: Republicans Were a Case Study in Misogyny
-    
-*   _Rod Dreher_: Brett Kavanaugh on Flight 93
-    
-*   _Peter Van Buren_: Kavanaugh Meets the Senate Star Chamber
-    
-*   _Christina Cauterucci_: The Aggressive, Entitled Teen Shows His Face
-    
-*   _Sen. Lindsey Graham_: I Hope the American People Can See Through This Sham
-    
-*   _Emily Yellin_: Watching Her Speak for Us All
-    
-*   _Dov Fischer_: The Resistance Is Resisted
-    
-*   _Richard Wolffe_: Kavanaugh's Credibility Did Not Survive the Hearing
-    
-*   _Mark Davis_: Yesterday's Hearing Was the Dems' Worst Nightmare
-    
-*   _William Saletan_: Ford's Uncertainty Is What Made Her Credible
-    
-*   _Derek Hunter_: Do Facts Matter to Dems Any More? Ford Offered No Proof
-    
-*   _Alexandra Petri_: HOW DARE YOU DO THIS TO BRETT KAVANAUGH?
-    
-*   _Matthew Continetti_: Why Senators Must Vote on Kavanaugh Right Now
-    
-*   _Susan Rice_: Trump's America: Reckless, Alone and Ridiculed
-    
-*   _Melanie Phillips_: Europe's Appeasement of Iran
     
 
 *   Previous
@@ -243,6 +243,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Missouri Senate - Hawley vs. McCaskillMissouri Scout\*
+    *   Hawley48
+    *   McCaskill46Hawley +2
 *   Maryland Governor - Hogan vs. JealousMason-Dixon\*
     *   Hogan52
     *   Jealous37Hogan +15
@@ -252,9 +255,6 @@ Latest PollsAll Polls
 *   2018 Generic Congressional VoteGallup
     *   Democrats51
     *   Republicans42Democrats +9
-*   Congressional Job ApprovalGallup
-    *   Approve19
-    *   Disapprove76Disapprove +57
 
 More Latest Polls In The News
 
