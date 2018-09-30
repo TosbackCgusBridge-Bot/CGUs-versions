@@ -16,7 +16,7 @@ Near YouFind a StoreBackUP TO 50% OFF HOME SALEShop AllSELECT STYLESUP TO 50% OF
     
     from$12 sale
     
-    was $30 - $85 JCPenney Home™ 2" Faux-Wood Horizontal Blinds(886)Add To Cart
+    was $30 - $82 JCPenney Home™ 2" Faux-Wood Horizontal Blinds(886)Add To Cart
 *   BIG BUY!
     
     from$640 sale
@@ -26,7 +26,12 @@ Near YouFind a StoreBackUP TO 50% OFF HOME SALEShop AllSELECT STYLESUP TO 50% OF
     
     from$299 sale
     
-    was $10 - $18 JCPenney Home™ Quick Dri Textured Solid Bath Towels(832)Add To Cart
+    was $10 - $18 JCPenney Home™ Quick Dri Textured Solid Bath Towels(833)Add To Cart
+*   BIG BUY!
+    
+    $4999 sale
+    
+    was $100 Cooks 2.5L Air Fryer(161)Add To Cart
 *   BIG BUY!
     
     from$3999 sale
@@ -39,17 +44,15 @@ Near YouFind a StoreBackUP TO 50% OFF HOME SALEShop AllSELECT STYLESUP TO 50% OF
     was $40 - $108 JCPenney Home™ Light-Filtering Cordless Cellular Shade(264)Add To Cart
 *   BIG BUY!
     
-    from$7999 sale
-    
-    was $200 - $300 Home Expressions™ Cassandra Pieced Bedspread(504)Add To Cart
-*   BIG BUY!
-    
-    from$799 sale
-    
-    was $30 - $60 Home Expressions Microfiber Easy Care Wrinkle Resistant Sheet Set(1441)Add To Cart
+    from$6799after couponwas $200 - $300 Home Expressions™ Cassandra Pieced Bedspread(504)Add To Cart
 
 UP TO 60% OFF CARTER'SShop AllSELECT STYLESUP TO 60% OFF CARTER'SSELECT STYLESShop All
 
+*   LIMITED TIME SPECIAL!
+    
+    $799 sale
+    
+    was $20 Carters Bodysuit Pant Set -Baby(57)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1199 sale
@@ -59,27 +62,22 @@ UP TO 60% OFF CARTER'SShop AllSELECT STYLESUP TO 60% OFF CARTER'SSELECT STYLESSh
     
     $799 sale
     
-    was $20 Carters Bodysuit Pant Set -Baby(55)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $799 sale
-    
     was $20 Carter's 2-pc. Bodysuit Set - Baby Boys(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $799 sale
     
-    was $20 Carter's 2pc Bodysuit Pant Set-Baby Boy(28)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $899 sale
-    
-    was $24 Carter's 2-pc. Legging Set-Baby Girls(1)Add To Cart
+    was $20 Carter's 2pc Bodysuit Pant Set-Baby Boy(29)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1199 sale
     
     was $30 Carter's 2-pack Set-Toddler Girls(1)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $1299 sale
+    
+    was $34 Carter's 4pc Dino Snore Pajama Set - Toddler Boy(29)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1199 sale
