@@ -2,8 +2,9 @@ Skip to main content
 
 *   Crime Time
 *   Martinis &. Murder
-*   Shop Oxygen
+*   Trials
 *   Podcasts
+*   Shop Oxygen
 
 *   Shows
     
@@ -12,9 +13,8 @@ Skip to main content
     *   Chicago P.D.
     *   Cold Justice
     *   Dateline: Secrets Uncovered
-    *   Deadly Power
     *   Dying To Belong
-    *   Golden State Killer: Main Suspect
+    *   Kemper on Kemper: Inside The Mind of a Serial Killer
     *   Martinis &. Murder
     *   Snapped
     *   The Disappearance of Crystal Rogers
@@ -34,9 +34,8 @@ Get Updates Facebook Twitter Newsletter Oxygen.com
     *   Chicago P.D.
     *   Cold Justice
     *   Dateline: Secrets Uncovered
-    *   Deadly Power
     *   Dying To Belong
-    *   Golden State Killer: Main Suspect
+    *   Kemper on Kemper: Inside The Mind of a Serial Killer
     *   Martinis &. Murder
     *   Snapped
     *   The Disappearance of Crystal Rogers
@@ -51,8 +50,9 @@ Get Updates Sites
 
 *   Crime Time
 *   Martinis &. Murder
-*   Shop Oxygen
+*   Trials
 *   Podcasts
+*   Shop Oxygen
 
 Page Not Found
 
