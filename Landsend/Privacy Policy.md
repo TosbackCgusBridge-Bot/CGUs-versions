@@ -976,9 +976,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 30% off full-price styles!
 
-code: BRISK pin: 1742 DETAILS
+code: CLOUDY pin: 1598 DETAILS
 
 Customer Service Menu
 
