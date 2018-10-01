@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Kathleen Parker_: Sen. Graham Said What Every Fair-Minded Person Is Thinking
+*   _Kaitlyn Buss_: When Gender Trumps Justice
     
-*   _Peter Beinart_: America Is Finally Listening to Women. It's Sparking a Crisis.
+*   _Rebecca Traister_: Fury Is a Political Weapon - and Women Need to Wield It
     
-*   _John Kass_: Why Should We Believe Accusations Without Evidence?
+*   _Wayne Allyn Root_: Dems Launch a War on Fathers, Husbands, Brothers &. Sons
     
-*   _Erin Ryan_: The Empathy Theater of Grassley and His Ghouls
+*   _Matt Thompson_: This Was Never About Finding Out the Truth
     
-*   _Chris Buskirk_: Kavanaugh Vote Is a Victory for Decency, Fair Play
+*   _Willie Brown_: Democrats Their Own Worst Enemy in Kavanaugh Fight
     
-*   _Jill Abramson_: In Elevator, 2 Rape Survivors Show How Democracy Works
+*   _Michael Stern_: FBI Must Be Allowed Free Rein to Investigate Kavanaugh
     
-*   _Mukasey &. Gray_: It's Time to Release the DOJ/FBI Russia Probe Records
+*   _Alan Dershowitz_: Burden Is on Avenatti: Show Proof, or Face Consequences
     
-*   _Jeffrey Toobin_: Who Will Protect Mueller's Russia Probe?
+*   _Andres Oppenheimer_: Latin America Shifts Left Sooner Than Thought
     
-*   _Phillip Elliott_: The Republican Plan to Win Hispanic Voters--and Swing States
+*   _Henry Miller_: The Organic Food Industry Gets Fat on Lies
     
-*   _Alfredo Ortiz_: Better Jobs, Better Wages: Let the Economy Decide Your Vote
+*   _Jamelle Bouie_: Brett Kavanaugh Is Forever Toxic
     
-*   _Bryce Covert_: The Enduring Scam of Corporate Tax Breaks
+*   _Bruce Bialosky_: Kavanaugh or Die
     
-*   _James Durso_: Is Erik Prince Pointing the Way Out of Afghanistan?
+*   _Andrew Sullivan_: Everyone Lost at the Ford-Kavanaugh Hearings
     
-*   _Robert Kagan_: The World America Made--and Trump Wants to Unmake
+*   _Newt Gingrich_: Confirm Kavanaugh and Put an End to This Travesty
     
-*   _Brahma Chellaney_: China's Free Ride Could Be Coming to an End
+*   _Ruth Marcus_: What's a Week Delay Compared to a Lifetime on the Court?
     
-*   _Sajeeb Wazed_: The Truth About Bangladesh's Upcoming Elections
+*   _Michael Goodwin_: After Dems' Search &. Destroy Smear, Worst Is Yet to Come
     
-*   _Roger Cohen_: Kavanaugh Is an Injudicious Man, Unfit for Supreme Court
+*   _Maureen Dowd_: Capitol Hill Ralph Club
     
-*   _Stella Morabito_: Ritual Defamation of Kavanaugh Threatens All Americans
+*   _Derek Hunter_: Dear Flake, Collins &. Murkowski: Don't Let the Mob Win
     
-*   : REITs Are Real Estate Working for All Americans and Reshaping Communities
+*   _Josh Kraushaar_: After Kavanaugh Smear, They're All Trump Republicans Now
     
-*   _Dahlia Lithwick_: Fear a Justice Brett Kavanaugh
+*   _Kristin Tate_: The Texas Senate Race Should Frighten the GOP
     
-*   _Marc Thiessen_: Reject This Campaign of Character Assassination
+*   _Salena Zito_: The Democrats' Blue Wave Will Start Right Here
     
-*   _Doreen St. Felix_: A Grotesque Display of Patriarchal Resentment
+*   _Arwa Mahdawi_: Kavanaugh Fight Proves Yet Again America Hates Women
     
-*   _Kay Hymowitz_: Corroboration, Evidence Must Transcend Emotion
+*   _Clarice Feldman_: Life in a Gynocracy
     
-*   _Adam Serwer_: Brett Kavanaugh Showed Why He Was Unfit for the Court
+*   _Jochen Bittner_: Is Merkel to Blame for Brexit?
     
-*   _Tomas Mendoza_: I'm a Dem--Thanks to Court Circus I'm Voting Republican
+*   _Terry Branstad_: President Trump Wants Level Playing Field With China
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   In WV, Trump Uses Supreme Court Fight as Rallying Cry for Midterms
 *   Kavanaugh Hearing Runs Red Hot With Partisan Anger
-*   Sizing Up the Montana Senate Race
 *   Full Replay: Blasey Ford, Kavanaugh Testify Before Senate Committee
-*   Trump to World Leaders: China Out to Meddle in 2018 Election
+*   Sizing Up the Montana Senate Race
 *   Ellison, MeToo Issues Shadow Female Candidates in Minn.
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,6 +243,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Iowa 3rd District - Young vs. AxneNY Times/Siena
+    *   Axne44
+    *   Young43Axne +1
 *   Missouri Senate - Hawley vs. McCaskillMissouri Scout\*
     *   Hawley48
     *   McCaskill46Hawley +2
@@ -252,17 +255,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve47
     *   Disapprove51Disapprove +4
-*   2018 Generic Congressional VoteGallup
-    *   Democrats51
-    *   Republicans42Democrats +9
 
 More Latest Polls In The News
 
+*   Stephanopoulos to Hirono: Are You Confident Democrats Didn't Leak Blasey Ford Letter, Direct Her To Lawyer?
+*   Funny: SNL Season 44 Premiere Goes All In Mocking Kavanaugh Hearings With Matt Damon Cameo
 *   Sen. Graham Explodes on Dems at Kavanaugh Hearing: "Despicable," I Hope You Never Get This Seat
-*   Kavanaugh Opening Statement on Ford: Advice And Consent Been Replaced With Search And Destroy
-*   Dr. Christine Blasey Ford Opening Testimony: Brett Kavanaugh, The Boy Who Sexually Assaulted Me
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Megyn Kelly: Ford Would "Likely Lose" In Court, Democrats Should Be Happy This Isn't A Trial
+*   Kavanaugh Opening Statement on Ford: Advice And Consent Been Replaced With Search And Destroy
 
 *   Politics
 *   Policy
