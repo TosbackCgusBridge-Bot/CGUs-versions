@@ -3,44 +3,44 @@
 *   games
 *   videos
 
-New Games Next in  24:11 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  21:46 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 24:11
-*   Best of new games 1458 games
-*   Most Popular Games 18010 games
+*   New Games Next in 21:46
+*   Best of new games 1435 games
+*   Most Popular Games 18016 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,189 games
-*   Driving &. Racing Games 6,673 games
-*   Strategy &. RPG Games 2,381 games
+*   Games for girls 23,194 games
+*   Driving &. Racing Games 6,675 games
+*   Strategy &. RPG Games 2,382 games
 *   Management Games 3,644 games
-*   Thinking Games 11,683 games
-*   Action &. Adventure Games 15,679 games
+*   Thinking Games 11,689 games
+*   Action &. Adventure Games 15,678 games
 *   Sports Games 2,108 games
-*   Shooting Games 8,144 games
+*   Shooting Games 8,148 games
 *   Fighting Games 2,076 games
-*   Skill Games 10,294 games
+*   Skill Games 10,298 games
 *   Arcade &. Classic Games 12,597 games
-*   Fun &. Crazy Games 2,433 games
+*   Fun &. Crazy Games 2,434 games
 
 Tags
 
-*   Dragon216
-*   Purchase Equipment Upgrades4,059
-*   Animal5,111
-*   First Person Shooter412
-*   Dora127
-*   Multiplayer303
+*   Restaurant142
+*   Puzzle7,100
+*   Motorcycle858
+*   Boxing129
+*   Tennis63
+*   Princess1,348
 *   View All Tags 372
 
 Play with friends  
-Powered by Y8 Account 124 Y8 Multiplayer Games 1,625 Y8 High Score Games 1,003 Y8 Achievements Games 773 Y8 Screenshots Games 1,312 Y8 Online Save Games 2,624 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 125 Y8 Multiplayer Games 1,628 Y8 High Score Games 1,007 Y8 Achievements Games 774 Y8 Screenshots Games 1,314 Y8 Online Save Games 2,628 All Y8 Games Games Last Highscore:
 
-**72,900** points on Freeway Fury 2 by nengoflow4111
+**12** points on Wheely 4: Time travel by Dama
 
 *   Contact Form
 *   Submit a Game or Video
