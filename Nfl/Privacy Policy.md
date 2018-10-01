@@ -1,18 +1,18 @@
-*   MIN1-2-131LA4-038Final
-*   MIA3-0NE1-2Sun, 1:00 pm ET
-*   PHI2-1TEN2-1Sun, 1:00 pm ET
-*   CIN2-1ATL1-2Sun, 1:00 pm ET
-*   TB2-1CHI2-1Sun, 1:00 pm ET
-*   DET1-2DAL1-2Sun, 1:00 pm ET
-*   BUF1-2GB1-1-1Sun, 1:00 pm ET
-*   HOU0-3IND1-2Sun, 1:00 pm ET
-*   NYJ1-2JAX2-1Sun, 1:00 pm ET
-*   SEA1-2ARI0-3Sun, 4:05 pm ET
-*   CLE1-1-1OAK0-3Sun, 4:05 pm ET
-*   SF1-2LAC1-2Sun, 4:25 pm ET
-*   NO2-1NYG1-2Sun, 4:25 pm ET
-*   BAL2-1PIT1-1-1Sun, 8:20 pm ET
+*   BAL3-126PIT1-2-114Final
+*   MIA3-17NE2-238Final
+*   PHI2-223TEN3-126Final (OT)
+*   CIN3-137ATL1-336Final
+*   TB2-210CHI3-148Final
+*   DET1-324DAL2-226Final
+*   BUF1-30GB2-1-122Final
+*   HOU1-337IND1-334Final (OT)
+*   NYJ1-312JAX3-131Final
+*   SEA2-220ARI0-417Final
+*   CLE1-2-142OAK1-345Final (OT)
+*   SF1-327LAC2-229Final
+*   NO3-133NYG1-318Final
 *   KC3-0DEN2-1Mon, 8:15 pm ET
+*   MIN1-2-131LA4-038Final
 
 *   News
 *   Scores
@@ -30,21 +30,21 @@
 *   NFL Network
 *   Photos
 
-*   MIN31LA38Final
-*   MIA3-0NE1-2Sun, 1:00 pm ET
-*   PHI2-1TEN2-1Sun, 1:00 pm ET
-*   CIN2-1ATL1-2Sun, 1:00 pm ET
-*   TB2-1CHI2-1Sun, 1:00 pm ET
-*   DET1-2DAL1-2Sun, 1:00 pm ET
-*   BUF1-2GB1-1-1Sun, 1:00 pm ET
-*   HOU0-3IND1-2Sun, 1:00 pm ET
-*   NYJ1-2JAX2-1Sun, 1:00 pm ET
-*   SEA1-2ARI0-3Sun, 4:05 pm ET
-*   CLE1-1-1OAK0-3Sun, 4:05 pm ET
-*   SF1-2LAC1-2Sun, 4:25 pm ET
-*   NO2-1NYG1-2Sun, 4:25 pm ET
-*   BAL2-1PIT1-1-1Sun, 8:20 pm ET
+*   BAL26PIT14Final
+*   MIA7NE38Final
+*   PHI23TEN26Final (OT)
+*   CIN37ATL36Final
+*   TB10CHI48Final
+*   DET24DAL26Final
+*   BUF0GB22Final
+*   HOU37IND34Final (OT)
+*   NYJ12JAX31Final
+*   SEA20ARI17Final
+*   CLE42OAK45Final (OT)
+*   SF27LAC29Final
+*   NO33NYG18Final
 *   KC3-0DEN2-1Mon, 8:15 pm ET
+*   MIN31LA38Final
 
 *   News
 *   Scores
