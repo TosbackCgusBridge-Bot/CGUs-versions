@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Kaitlyn Buss_: When Gender Trumps Justice
+*   _Byron York_: In Court Fight, Dems Seek to Move Goalposts Far, Far Away
     
-*   _Rebecca Traister_: Fury Is a Political Weapon - and Women Need to Wield It
+*   _Heather Parton_: Male Rage Boils Over, But Women Aren't Scared Anymore
     
-*   _Wayne Allyn Root_: Dems Launch a War on Fathers, Husbands, Brothers &. Sons
+*   _Bre Payton_: Prosecutor Details 12 Huge Inconsistencies in Ford's Story
     
-*   _Matt Thompson_: This Was Never About Finding Out the Truth
+*   _Frank Bruni_: Brett Kavanaugh Loves His Beer
     
-*   _Willie Brown_: Democrats Their Own Worst Enemy in Kavanaugh Fight
+*   _Frank Cannon_: Kavanaugh Battle May Be a Tipping Point for Republicans
     
-*   _Michael Stern_: FBI Must Be Allowed Free Rein to Investigate Kavanaugh
+*   _Paul Starr_: Can a Blue Wave Save America?
     
-*   _Alan Dershowitz_: Burden Is on Avenatti: Show Proof, or Face Consequences
+*   _Steve Cortes_: Trade Deal Represents Big Win for U.S. and for Trump
     
-*   _Andres Oppenheimer_: Latin America Shifts Left Sooner Than Thought
+*   _John Tamny_: Despite What Central Bankers Believe, It's Not All About Them
     
-*   _Henry Miller_: The Organic Food Industry Gets Fat on Lies
+*   _Jack Shafer_: The Press Really Did Change in the 1960s--for the Better
     
-*   _Jamelle Bouie_: Brett Kavanaugh Is Forever Toxic
+*   _Andrew McCarthy_: To Avoid Media Scrutiny, It Helps to Be a Democrat
     
-*   _Bruce Bialosky_: Kavanaugh or Die
+*   _John MacDuffie_: The Future of Electric Cars Is Brighter with Elon Musk in It
     
-*   _Andrew Sullivan_: Everyone Lost at the Ford-Kavanaugh Hearings
+*   _Seitz-Wald &. Sarlin_: Predictions of 'Kavanaugh Wave'--But for Which Party?
     
-*   _Newt Gingrich_: Confirm Kavanaugh and Put an End to This Travesty
+*   _Rachel Tripp_: Validating Accusations Without Evidence Very Dangerous
     
-*   _Ruth Marcus_: What's a Week Delay Compared to a Lifetime on the Court?
+*   _Mara Gay_: Make My Sexual Assault Count
     
-*   _Michael Goodwin_: After Dems' Search &. Destroy Smear, Worst Is Yet to Come
+*   _Jeremy Markovich_: On Sex Assault, Women Share Pain But Not Politics
     
-*   _Maureen Dowd_: Capitol Hill Ralph Club
+*   _Mollie Hemingway_: Media Sink to New Lows to Aid Dem Smear Campaign
     
-*   _Derek Hunter_: Dear Flake, Collins &. Murkowski: Don't Let the Mob Win
+*   _Ana Archila_: Why I Confronted Jeff Flake in a Senate Elevator
     
-*   _Josh Kraushaar_: After Kavanaugh Smear, They're All Trump Republicans Now
+*   _James Comey_: The FBI Can Do This
     
-*   _Kristin Tate_: The Texas Senate Race Should Frighten the GOP
+*   _Lee Smith_: Sparing Rod: Unpacking a Trumpian Intrigue
     
-*   _Salena Zito_: The Democrats' Blue Wave Will Start Right Here
+*   _Rosenfeld &. Tan_: Canada Beats Deadline to Join Trade Deal With U.S., Mexico
     
-*   _Arwa Mahdawi_: Kavanaugh Fight Proves Yet Again America Hates Women
+*   _Juan Williams_: Trump Is Tearing the Racial Fabric
     
-*   _Clarice Feldman_: Life in a Gynocracy
+*   _Freddy Gray_: Ye He Kan! Why Kanye West's SNL Stunt Showed Courage
     
-*   _Jochen Bittner_: Is Merkel to Blame for Brexit?
+*   _Deroy Murdock_: Unlike Obama, Trump Displays Commanding Leadership at UN
     
-*   _Terry Branstad_: President Trump Wants Level Playing Field With China
+*   _Fred Kaplan_: Trump Said What About Kim Jong-Un?
     
 
 *   Previous
@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Canada and U.S. Reach Trade Deal to Revamp NAFTA
 *   In WV, Trump Uses Supreme Court Fight as Rallying Cry for Midterms
-*   Kavanaugh Hearing Runs Red Hot With Partisan Anger
-*   Full Replay: Blasey Ford, Kavanaugh Testify Before Senate Committee
+*   "60 Minutes" Interviews Flake, Coons, Graham, Hirono &. More on Court Battle
 *   Sizing Up the Montana Senate Race
 *   Ellison, MeToo Issues Shadow Female Candidates in Minn.
 *   Presidential Job Approval
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Iowa 3rd District - Young vs. AxneNY Times/Siena
-    *   Axne44
-    *   Young43Axne +1
-*   Missouri Senate - Hawley vs. McCaskillMissouri Scout\*
-    *   Hawley48
-    *   McCaskill46Hawley +2
-*   Maryland Governor - Hogan vs. JealousMason-Dixon\*
-    *   Hogan52
-    *   Jealous37Hogan +15
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove51Disapprove +4
+*   North Dakota Senate - Cramer vs. HeitkampNBC Valley News
+    *   Cramer51
+    *   Heitkamp41Cramer +10
+*   Ohio 1st District - Chabot vs. PurevalNY Times/Siena
+    *   Chabot50
+    *   Pureval41Chabot +9
+*   Nevada Senate - Heller vs. RosenCNN\*
+    *   Rosen47
+    *   Heller43Rosen +4
+*   New Jersey Senate - Hugin vs. MenendezStockton University\*
+    *   Menendez45
+    *   Hugin43Menendez +2
 
 More Latest Polls In The News
 
-*   Stephanopoulos to Hirono: Are You Confident Democrats Didn't Leak Blasey Ford Letter, Direct Her To Lawyer?
-*   Funny: SNL Season 44 Premiere Goes All In Mocking Kavanaugh Hearings With Matt Damon Cameo
-*   Sen. Graham Explodes on Dems at Kavanaugh Hearing: "Despicable," I Hope You Never Get This Seat
+*   Sen. Kennedy on Kavanaugh FBI Probe: If You Think This Is About The Truth, "Put Down The Bong"
+*   Swetnick: I Cannot Specifically Say That Kavanaugh Was One Of The Ones Who Assaulted Me
+*   '60 Minutes' Interviews Sens. Flake, Coons, Graham, Hirono &. More On Kavanaugh Delay Compromise
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Kavanaugh Opening Statement on Ford: Advice And Consent Been Replaced With Search And Destroy
+*   Kimberley Strassel: If We Are Willing to Overthrow Due Process, We've Got Some Really Big Problems
 
 *   Politics
 *   Policy
@@ -287,4 +287,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2018 RealClearHoldings, LLC. ©2018 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=0&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2018 RealClearHoldings, LLC. ©2018 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
