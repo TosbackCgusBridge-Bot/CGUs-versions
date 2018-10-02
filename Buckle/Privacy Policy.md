@@ -77,7 +77,7 @@ FREE SHIPPING WITH THE PURCHASE OF A REGULAR PRICE BUCKLE BLACK JEAN. SHOP NOW.
         *   Western Boots
         *   Tall Boots
         *   Sneakers
-        *   Flats/Slides
+        *   Flats &. Slides
         *   Heels
         *   Wedges
         *   Sandals
