@@ -1,4 +1,5 @@
-*   BAL3-126PIT1-2-114Final
+*   KC4-027DEN2-223Final
+*   MIN1-2-131LA4-038Final
 *   MIA3-17NE2-238Final
 *   PHI2-223TEN3-126Final (OT)
 *   CIN3-137ATL1-336Final
@@ -11,8 +12,7 @@
 *   CLE1-2-142OAK1-345Final (OT)
 *   SF1-327LAC2-229Final
 *   NO3-133NYG1-318Final
-*   KC3-0DEN2-1Mon, 8:15 pm ET
-*   MIN1-2-131LA4-038Final
+*   BAL3-126PIT1-2-114Final
 
 *   News
 *   Scores
@@ -30,7 +30,8 @@
 *   NFL Network
 *   Photos
 
-*   BAL26PIT14Final
+*   KC27DEN23Final
+*   MIN31LA38Final
 *   MIA7NE38Final
 *   PHI23TEN26Final (OT)
 *   CIN37ATL36Final
@@ -43,8 +44,7 @@
 *   CLE42OAK45Final (OT)
 *   SF27LAC29Final
 *   NO33NYG18Final
-*   KC3-0DEN2-1Mon, 8:15 pm ET
-*   MIN31LA38Final
+*   BAL26PIT14Final
 
 *   News
 *   Scores
