@@ -5,46 +5,43 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   Night School (2018)
+    *   Smallfoot
     *   The House with a Clock in its Walls
     *   A Simple Favor
     *   The Nun (2018)
-    *   The Predator (2018)
+    *   Hell Fest
     *   Crazy Rich Asians
+    *   The Predator (2018)
     *   White Boy Rick
     *   Peppermint (2018)
     *   Fahrenheit 11/9
-    *   The Meg
-    *   Searching (2018)
-    *   Life Itself (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Hell Fest
-    *   Night School (2018)
-    *   Smallfoot
-    *   All About Nina
-    *   Bad Reputation (2018)
-    *   Black 47
-    *   Cruise
-    *   Free Solo
-    *   Golden Job
-    *   Little Women (2018)
-    *   Monsters and Men
+    *   A Star Is Born (2018)
+    *   Venom (2018)
+    *   Chasing the Blues
+    *   The Hate U Give
+    *   Heavy Trip
+    *   Loving Pablo
+    *   Over the Limit
+    *   Shine (2018)
+    *   Studio 54
     *   See All Opening This Week
     
     Coming Soon
     
-    *   A Star Is Born (2018)
-    *   Venom (2018)
-    *   First Man
     *   Bad Times at the El Royale
+    *   First Man
     *   Goosebumps 2: Haunted Halloween
     *   Halloween (2018)
-    *   Serenity (2019)
     *   Hunter Killer (2018)
     *   Indivisible (2018)
     *   Johnny English Strikes Again
+    *   Nobody's Fool (2018)
+    *   The Nutcracker and the Four Realms
     *   See All Coming Soon
     
     Explore More
@@ -72,9 +69,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Final 'Fantastic Beasts: The Crimes of Grindelwald' Trailer Has Appeared. Here's Everything We Know Read More
-    *   The Week in Movie News: 'Kingsman' Booked a Third Movie, New 'Fantastic Beasts' Trailer and More Read More
-    *   Bruce Dern Replaces Burt Reynolds in 'Once Upon a Time in Hollywood'. Here's Everything We Know Read More
+    *   Next 3 Tiffany Haddish Movies: 'The Oath,' 'Nobody's Fool,' 'The Kitchen' Read More
+    *   Watch Taron Egerton as Elton John in First 'Rocketman' Teaser. Here's Everything We Know Read More
+    *   'Wonder Woman' Star Gal Gadot Joins 'Death on the Nile'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -326,6 +323,14 @@ Offers
     
     Buy tickets to 'Venom' and get a FREE\* mask with ticket purchase (S&H not included). BUY TICKETS
     
+*   FandangoNOW Fresh Picks: October
+    
+    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    
+*   FandangoNOW Binge Bundles
+    
+    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
+    
 
 New + Coming soon
 
@@ -364,7 +369,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   September Celebrity Birthdays
+*   October Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
