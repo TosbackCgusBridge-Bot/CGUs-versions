@@ -8,14 +8,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   AG
+    *   AG Men
+    *   Do + Be
+    *   Bed|Stu Up to 50% Off
+    *   Suzy Levian Jewelry
+    *   Wolford
+    *   Must-Have Wallets &. More
+    *   Vital Proteins
+    *   Free Shipping: Glam Accent Furniture
+    *   Cozy Bedding Essentials
+    *   aden + anais
+    *   AXNY &. Geoffrey Beene Boys
+    *   go >. by GoSilk Up to 75% Off
+    *   Pink Owl
+    *   Geox Kids
+    *   Satva Yoga Under $30
+    *   Cold Front: Wool Coats Up to 70% Off
+    *   $50 &. Under: Robert Wayne
+    *   Lauren Lorraine Up to 50% Off
+    *   AG Kids
+    *   Natural Blue Up to 70% Off
+    *   Rocket Dog Up to 50% Off
+    *   Graf Lantz
+    *   Hart Schaffner Marx
+    *   K-Beauty Essentials: Masks, Serums &. More
+    *   Layer It On: Essential Tees, Sweaters &. More
+    *   On-Trend Jewelry: ZENZII Starting at $15
+    *   Hale Bob
     *   Luma Italy Up to 75% Off
-    *   Shoe Styles Up to 60% Off
     *   Adornia Sterling Silver &. Gems Up to 80% Off
     *   Romeo &. Juliet &. More Blowout
     *   Travel Well: Totes, Wallets &. More from $15
     *   Terre Mere Organic Vegan Beauty Up to 65% Off
     *   Men's Designer Styles Blowout
     *   Men's Shoes Up to 65% Off
+    
     *   Raymond Weil Luxury Watches Up to 60% Off
     *   Vince Camuto Up to 50% Off
     *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
@@ -27,22 +55,16 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Uniquely Yours: Anuschka Bags
     *   Self-Care Essentials: Bath Bombs &. More
     *   Goby Up to 55% Off
-    *   Bedding, Art, Vases &. More Up to 70% Off
     *   Free Shipping: Accent Wall Must-Haves
     *   Belly Bandit
     *   Fall Favorites for Baby Boys Under $20
     *   Baby Essentials ft. Bumkins
-    *   Free Shipping: Budget-Friendly Rugs
     *   Gear Up for Baby: Diaper Bags, Blankets &. More
     *   Lazy Day Faves: Sleep &. Lounge Under $30
     *   Athra Luxe Sterling Silver Jewelry Under $80
     *   GUESS Men Starting at $25
-    *   Hale Bob
-    *   L'Atiste
-    *   Champion Starting at $10
     *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
     *   Furla Handbags
-    
     *   Bobeau Starting at $20 Incl. Plus &. Petites
     *   Beyond Threads Up to 70% Off
     *   Nine West Starting at $40
@@ -57,65 +79,62 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Fall for These: On-Trend Bracelets from $15
     *   14K Gold Jewelry Steals
     *   Our Favorite Flats Under $100
+    
     *   Moon and Jai Kits &. More
+    *   Men's Outerwear ft. Nautica
     *   Steve Madden Socks &. More
-    *   Nautica Coats
-    *   Designer Coats Up to 70% Off
-    *   Stuart Weitzman
-    *   Fall Dresses ft. Sharagano Up to 70% Off
-    *   Young Fabulous &. Broke
-    *   In Cashmere
-    *   Fine Jewelry ft. Lana 14K Gold Up to 60% Off
     *   Perry Ellis Up to 60% Off
     *   Men's Premium Denim Shop
     *   Billion Dollar Brows
     *   NCLA: Vegan &. Cruelty-Free Cosmetics
     *   Free Shipping: Quilts, Comforters &. More
-    *   Jessica Simpson Girls' PJs, Underwear &. More
     *   Base London
-    *   MUK LUKS Starting at $10
-    *   Botkier Handbags
-    *   Shine On: Evening Clutches
     *   Golf Shop ft. Callaway Starting at $20
-    
     *   Pangea Organics Skin Care
-    *   Twirl Worthy: Girls' Dresses &. Rompers from $14
-    *   Sapanyu Layered Multicolor Gemstones
-    *   Joules Rain Boots Starting at $40
-    *   X by Gottex
-    *   Men's Outerwear ft. Nautica
-    *   Grayers
-    *   $100 &. Under: Men's Active Sneakers
-    *   Sophie Catalou
-    *   Pastourelle and Pippa &. Julie
     *   Free Shipping: Ultra-Soft Towels from $10
-    *   Highlighter Sheets &. More from Mai Couture
-    *   Get Glam: Beth Bender Beauty
-    *   Soul Star
-    *   90s Throwbacks: Kids' Styles ft. DKNY
-    *   $25 &. Under: Original Penguin Boys' Shoes
     *   Fall Dresses Up to 65% Off Incl. Plus
-    *   Lost Ink &. More Starting at $25
-    *   ChinUp Masks
+    *   Get Glam: Beth Bender Beauty
+    *   Baking Stars: Essential Pans &. More
     *   Kitchen Organization Must-Haves
     *   Cuisinart
     *   Free Shipping: Traditional Rugs Up to 70% Off
     *   Free Shipping: Modern Accent Furniture
     *   Free Shipping: Quirky Decorative Accents
     *   Free Shipping: Colorful Boho Throws &. More
-    *   Perfect Gifts: Quote Jar Candles &. More from $15
+    *   Shoe Styles Up to 60% Off
+    *   L'Atiste
+    *   Free Shipping: Budget-Friendly Rugs
+    *   Champion Starting at $10
     *   Plus Shop: Sharagano &. More
     *   Levi's Up to 60% Off
     *   Night Life Kids' Pajamas &. More
-    *   Mad About Plaid: Styles Incl. Plus &. Petites
     *   Luxe Bedding Essentials ft. Pillow Guy
-    *   Baking Stars: Essential Pans &. More
-    *   Fall Refresh: K-Beauty Masks &. More
+    *   Highlighter Sheets &. More from Mai Couture
+    *   Bedding, Art, Vases &. More Up to 70% Off
+    *   Meghan LA
+    *   Desk to Dinner: Dresses
     *   Kids' Boots from Kamik &. More
 *   WomenShop Sale Events
     
+    *   AG
+    *   Do + Be
+    *   Bed|Stu Up to 50% Off
+    *   Suzy Levian Jewelry
+    *   Wolford
+    *   Must-Have Wallets &. More
+    *   Vital Proteins
+    *   go >. by GoSilk Up to 75% Off
+    *   Pink Owl
+    *   Satva Yoga Under $30
+    *   Cold Front: Wool Coats Up to 70% Off
+    *   Lauren Lorraine Up to 50% Off
+    *   Rocket Dog Up to 50% Off
+    *   Graf Lantz
+    *   K-Beauty Essentials: Masks, Serums &. More
+    *   Layer It On: Essential Tees, Sweaters &. More
+    *   On-Trend Jewelry: ZENZII Starting at $15
+    *   Hale Bob
     *   Luma Italy Up to 75% Off
-    *   Shoe Styles Up to 60% Off
     *   Adornia Sterling Silver &. Gems Up to 80% Off
     *   Romeo &. Juliet &. More Blowout
     *   Travel Well: Totes, Wallets &. More from $15
@@ -128,12 +147,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Diamond Rings, Necklaces &. More from $60
     *   Clarks Up to 50% Off
     *   Uniquely Yours: Anuschka Bags
+    
     *   Self-Care Essentials: Bath Bombs &. More
     *   Goby Up to 55% Off
     *   Lazy Day Faves: Sleep &. Lounge Under $30
     *   Athra Luxe Sterling Silver Jewelry Under $80
-    *   Hale Bob
-    *   L'Atiste
     *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
     *   Furla Handbags
     *   Bobeau Starting at $20 Incl. Plus &. Petites
@@ -144,62 +162,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Statement Jewelry Under $35
     *   Aldo Starting at $30
     *   Furla Watches Up to 50% Off
-    
     *   Fall for These: On-Trend Bracelets from $15
     *   14K Gold Jewelry Steals
     *   Our Favorite Flats Under $100
     *   Moon and Jai Kits &. More
     *   Steve Madden Socks &. More
-    *   Nautica Coats
-    *   Designer Coats Up to 70% Off
-    *   Stuart Weitzman
-    *   Fall Dresses ft. Sharagano Up to 70% Off
-    *   Young Fabulous &. Broke
-    *   In Cashmere
-    *   Fine Jewelry ft. Lana 14K Gold Up to 60% Off
     *   Billion Dollar Brows
     *   NCLA: Vegan &. Cruelty-Free Cosmetics
-    *   MUK LUKS Starting at $10
-    *   Botkier Handbags
-    *   Shine On: Evening Clutches
     *   Pangea Organics Skin Care
-    *   Sapanyu Layered Multicolor Gemstones
-    *   Joules Rain Boots Starting at $40
-    *   X by Gottex
-    *   Highlighter Sheets &. More from Mai Couture
-    *   Get Glam: Beth Bender Beauty
     *   Fall Dresses Up to 65% Off Incl. Plus
-    *   Lost Ink &. More Starting at $25
-    *   ChinUp Masks
+    *   Get Glam: Beth Bender Beauty
+    *   Shoe Styles Up to 60% Off
+    *   L'Atiste
     *   Plus Shop: Sharagano &. More
-    *   Mad About Plaid: Styles Incl. Plus &. Petites
-    *   Fall Refresh: K-Beauty Masks &. More
+    *   Highlighter Sheets &. More from Mai Couture
+    *   Meghan LA
+    *   Desk to Dinner: Dresses
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
-    *   Watches
     *   Lingerie
+    *   Watches
 *   MenShop Sale Events
     
+    *   AG Men
+    *   $50 &. Under: Robert Wayne
+    *   Natural Blue Up to 70% Off
+    *   Hart Schaffner Marx
     *   Men's Designer Styles Blowout
     *   Men's Shoes Up to 65% Off
     *   Raymond Weil Luxury Watches Up to 60% Off
     *   Kenneth Cole Reaction Up to 70% Off
     *   GUESS Men Starting at $25
-    *   Champion Starting at $10
-    *   JACK &. JONES Starting at $15
-    *   Perry Ellis Up to 60% Off
     
+    *   JACK &. JONES Starting at $15
+    *   Men's Outerwear ft. Nautica
+    *   Perry Ellis Up to 60% Off
     *   Men's Premium Denim Shop
     *   Base London
     *   Golf Shop ft. Callaway Starting at $20
-    *   Men's Outerwear ft. Nautica
-    *   Grayers
-    *   $100 &. Under: Men's Active Sneakers
-    *   Soul Star
+    *   Champion Starting at $10
     *   Levi's Up to 60% Off
     
     Shop By Category
@@ -209,78 +214,77 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   aden + anais
+    *   AXNY &. Geoffrey Beene Boys
+    *   Geox Kids
+    *   AG Kids
     *   Belly Bandit
     *   Fall Favorites for Baby Boys Under $20
+    
     *   Baby Essentials ft. Bumkins
     *   Gear Up for Baby: Diaper Bags, Blankets &. More
     *   Betsey Johnson Girls
-    *   Jessica Simpson Girls' PJs, Underwear &. More
-    *   Twirl Worthy: Girls' Dresses &. Rompers from $14
-    
-    *   Sophie Catalou
-    *   Pastourelle and Pippa &. Julie
-    *   90s Throwbacks: Kids' Styles ft. DKNY
-    *   $25 &. Under: Original Penguin Boys' Shoes
     *   Night Life Kids' Pajamas &. More
     *   Kids' Boots from Kamik &. More
     
     Shop By Category
-    *   Girls Sizes 7-16
-    *   Girls Sizes 2T-6X
-    *   Baby Girl
-    *   Boys Sizes 8-20
-    *   Boys' Shoes
     *   Boys Sizes 2T-7
+    *   Boys Sizes 8-20
+    *   Baby Gear &. Essentials
     *   Baby Boy
     *   Girls' Shoes
-    *   Baby Gear &. Essentials
+    *   Girls Sizes 2T-6X
+    *   Girls Sizes 7-16
+    *   Boys' Shoes
+    *   Baby Girl
 *   HomeShop Sale Events
     
-    *   Bedding, Art, Vases &. More Up to 70% Off
+    *   Free Shipping: Glam Accent Furniture
+    *   Cozy Bedding Essentials
     *   Free Shipping: Accent Wall Must-Haves
-    *   Free Shipping: Budget-Friendly Rugs
     *   Free Shipping: Luxe Faux Fur Pillows &. Throws
     *   Free Shipping: Quilts, Comforters &. More
     *   Free Shipping: Ultra-Soft Towels from $10
+    *   Baking Stars: Essential Pans &. More
     *   Kitchen Organization Must-Haves
-    *   Cuisinart
     
+    *   Cuisinart
     *   Free Shipping: Traditional Rugs Up to 70% Off
     *   Free Shipping: Modern Accent Furniture
     *   Free Shipping: Quirky Decorative Accents
     *   Free Shipping: Colorful Boho Throws &. More
-    *   Perfect Gifts: Quote Jar Candles &. More from $15
+    *   Free Shipping: Budget-Friendly Rugs
     *   Luxe Bedding Essentials ft. Pillow Guy
-    *   Baking Stars: Essential Pans &. More
+    *   Bedding, Art, Vases &. More Up to 70% Off
     
     Shop By Category
     *   Home Decor
+    *   Accent Furniture
     *   Rugs
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Accent Furniture
     *   Bath
     *   Storage &. Cleaning
-    *   Outdoor Living
     *   Luggage &. Travel
+    *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Vital Proteins
+    *   K-Beauty Essentials: Masks, Serums &. More
     *   Terre Mere Organic Vegan Beauty Up to 65% Off
     *   Self-Care Essentials: Bath Bombs &. More
     *   Predire Paris Luxury Skin Care
     *   Moon and Jai Kits &. More
+    
     *   Billion Dollar Brows
     *   NCLA: Vegan &. Cruelty-Free Cosmetics
-    
     *   Pangea Organics Skin Care
-    *   Highlighter Sheets &. More from Mai Couture
     *   Get Glam: Beth Bender Beauty
-    *   ChinUp Masks
-    *   Fall Refresh: K-Beauty Masks &. More
+    *   Highlighter Sheets &. More from Mai Couture
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Nails
