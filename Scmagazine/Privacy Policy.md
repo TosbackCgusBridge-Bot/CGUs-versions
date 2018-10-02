@@ -1,6 +1,4 @@
-Skip to navigation Skip to main content Login Register
-
-Menu Close
+Skip to navigation Skip to main content Login Register Menu Close
 
 *   NewsOpen Submenu
     *   News BackCybercrime
@@ -35,6 +33,7 @@ Menu Close
         *   Emerging Products
 *   In DepthOpen Submenu
     *   In Depth Back
+        *   SC Media Print Archive
         *   Reboot Leadership Awards 2018
         *   In Depth
         *   Director's Cut Videos
@@ -47,7 +46,7 @@ Menu Close
 *   Resource Library
 *   SC SOC
 
-Search... Submit
+Toggle Search Menu Search... Submit About SC Media
 
 Privacy Policy
 
@@ -234,4 +233,4 @@ Open Next page Close SC Corporate News Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Close more info about Privacy Policy Loading... Close more info about Privacy Policy Loading... <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
