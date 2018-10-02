@@ -9,7 +9,8 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Game Day
+    Occasions*   Halloween
+    *   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -61,14 +62,15 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Game Day
+    View All Categories Shop by Category*   Halloween
+    *   Thanksgiving Gifts
     
-    Occasions*   Game Day
+    Occasions*   Halloween
     *   College Gifting
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Game Day
+    *   Graduation &. CongratulationsMost Popular Halloween
 *   Sale
 *   New!
 
@@ -91,7 +93,8 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Game Day
+    Occasions*   Halloween
+    *   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -143,14 +146,15 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Game Day
+    View All Categories Shop by Category*   Halloween
+    *   Thanksgiving Gifts
     
-    Occasions*   Game Day
+    Occasions*   Halloween
     *   College Gifting
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Game Day
+    *   Graduation &. CongratulationsMost Popular Halloween
 *   Sale
 *   New!
 
