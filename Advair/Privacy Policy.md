@@ -110,7 +110,6 @@ GSK Global Website www.gsk.com
     *   Contact us
 *   Healthcare professionals
     *   Healthcare professionals
-    *   How we work with doctors
     *   Clinical Study Register
     *   Contact us
 *   Investors
@@ -298,10 +297,8 @@ Menu
         *   Biosecurity and pandemic preparedness
         *   The hope for a cure for HIV/AIDS in our lifetime
         *   Helping to Change the World
-        *   Letting the sunshine in – transparency that’ll grow trust
         *   How doctors and insurers get information about medicines
         *   Buyer beware: importing drugs comes with big risks
-        *   Changing the way we do business
         *   Fast-tracking our response to pandemics
         *   Putting it plainly
         *   Hunting for energy savings
@@ -530,16 +527,16 @@ Menu
     
     *   Back
     *   Responsibility
-    *   Health for all
-    *   Our behavior
+    *   Access to healthcare
+    *   Operating responsibly
     *   Our people
-    *   Our planet
+    *   Environment
     
-    *   Health for all
+    *   Access to healthcare
         
         We have the opportunity to improve the health and well-being of people around the world.
         
-    *   Our behavior
+    *   Operating responsibly
         
         Our values underpin everything we do – from ensuring rigorous safety standards in the development and manufacture of new medicines to interacting ethically with healthcare professionals, patient groups and political stakeholders.
         
@@ -547,7 +544,7 @@ Menu
         
         We aim to create a safe and inclusive workplace where everyone at GSK can feel able and inspired to realize their potential and help us meet global health challenges.
         
-    *   Our planet
+    *   Environment
         
         We aim to reduce environmental impacts across our value chain while extending access to our products for the people who need them.
         
