@@ -24,9 +24,12 @@ VH1 MenuVH1
 *   App
 *   Watch Live TV
 
-Privacy Policy And Your California Privacy Rights**Last Modified: June \[20\], 2018**  
-(See the **Legal Updates Summary** at http://legal.viacom.com/Changes/M+E/ to learn more)  
-PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS  
+Privacy Policy And Your California Privacy Rights
+
+**Last Modified: September 28, 2018**  
+(See the Legal Updates Summary to learn more)
+
+  
 
 This is the privacy policy (“Privacy Policy”) describing our privacy practices for the specific Internet website, application or other interactive service that includes an authorized link to this Privacy Policy and all other websites, applications and other interactive services you also use that are offered by the specific VII Brand (as defined below) that is providing this website, application or other interactive service (collectively, all such websites, applications and other interactive services, "Site," "we," "us" or "our"). The Site is owned, operated and/or provided on behalf of the applicable VII Brand by Viacom International Inc. (Viacom International Inc., along with its Affiliates, shall be referred to collectively as “VII”) through its Viacom Media Networks division, which offers television channel or programming services (such as television networks, websites, applications or other interactive services) and offers other products and services under various brands, such as those Viacom Media Networks brands and other VII brands listed at http://www.viacom.com/brands/pages/default.aspx (each, a “VII Brand”). This Site together with the associated VII television channel or programming service, if any, shall be referred to collectively as the “Channel”. “Affiliates” refers to Viacom International Inc.’s parent company Viacom Inc. and all affiliates that Viacom Inc. directly or indirectly owns or controls (such as Paramount Pictures Corporation and the other affiliates of Viacom Media Networks as described at http://www.viacom.com/brands/pages/default.aspx).
 
@@ -34,29 +37,29 @@ This Privacy Policy is intended to explain our privacy practices and covers the 
 
   
 
-1.  When This Privacy Policy Applies.
+1.  1\. When This Privacy Policy Applies.
     
-2.  U.S. Governing Law.
+2.  2\. U.S. Governing Law.
     
-3.  What Information Is Collected.
+3.  3\. What Information Is Collected.
     
-4.  How Is Collected Information Used.
+4.  4\. How Is Collected Information Used.
     
-5.  Your Choices.
+5.  5\. Your Choices.
     
-6.  Text Messaging Marketing and Promotions.
+6.  6\. Text Messaging Marketing and Promotions.
     
-7.  Sharing and Disclosure of Information.
+7.  7\. Sharing and Disclosure of Information.
     
-8.  Reviewing, Updating or Deleting Information. Settings.
+8.  8\. Reviewing, Updating or Deleting Information. Settings.
     
-9.  Protection of Information.
+9.  9\. Protection of Information.
     
-10.  Your California Privacy Rights
+10.  10\. Your California Privacy Rights
     
-11.  Changes to this Privacy Policy and Notice.
+11.  11\. Changes to this Privacy Policy and Notice.
     
-12.  Miscellaneous.
+12.  12\. Miscellaneous.
     
 
 1\. WHEN THIS PRIVACY POLICY APPLIES  
@@ -66,10 +69,15 @@ This Privacy Policy applies:
   
 
 *   Regardless of whether you are accessing the Site via a personal computer, a mobile device or any other technology or devices now known or hereafter developed or discovered (each, a “Device”);
+    
 *   Whether you are accessing the Site as a registered user (if offered by the Site) or other user of the Site;
+    
 *   To all Information (as that term is defined below) collected by the Site (as defined above);
+    
 *   To our use of combined information if we combine Information (as that term is defined below) collected by the Site with other information we collect from other sources, such as information received from VII (for example, information collected at a physical location), marketing companies or Advertisers. and
+    
 *   Will remain in full force and effect even if your use of or participation in the Site or any particular service, feature, function or promotional activity offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason.
+    
 
   
 
@@ -163,16 +171,27 @@ As set forth in this Privacy Policy, we may share Information with VII (includin
   
 
 *   Sending marketing and promotional emails, newsletters or, subject to Section 6 below (“_Text Messaging Marketing and Promotions_”), text messages offering goods and/or services that may be of interest to users, whether those goods and/or services are provided by the Site, VII or third parties (for example, we may send you an email about a product sold by a third party or about a new VII show);
+    
 *   Processing your registration with the Site, such as verifying that your email address is active and valid or recognizing you across Devices through Single VII Sign-On as an existing registered member of this Site or another VII website, application or other interactive service;
+    
 *   Contacting you regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any Promotions you have participated in or have entered, any goods and/or services you have ordered through e-Commerce services available on the Site or any other transactions you have undertaken with the Site;
+    
 *   Allowing you to participate in the public areas and/or other features of the Site;
+    
 *   Responding to your questions or other requests;
+    
 *   Contacting you regarding your use of the Site, for informational purposes related to the Site or, in our discretion, regarding changes to the Site’s policies;
+    
 *   Improving the Site or our services and for internal business purposes;
+    
 *   Tailoring your experience on, and/or otherwise customizing what you see when you visit, the Site and/or other sites, applications or other interactive services across Devices whether owned, operated and/or provided by VII or by third parties (for example, to provide recommendations on content or provide advertisements, emails or other content of more interest to you);
+    
 *   Saving your User ID or other Personal Information, so you don't have to re-enter it each time you visit the Site;
+    
 *   Otherwise to maintain and administer the Site. and
+    
 *   For other purposes disclosed at the time you provide the Personal Information (for example, as set forth in the Rules for any Promotions you enter).
+    
 
   
 
@@ -181,17 +200,29 @@ As set forth in this Privacy Policy, we may share Information with VII (includin
   
 
 *   Keeping count of your return visits to the Site or VII’s, Advertisers' or partners' sites, applications or other interactive services;
+    
 *   Accumulating and reporting aggregate, statistical information in connection with the Site and user activity;
+    
 *   Analyzing, determining or anticipating which features, webpages, products and services users like best to, among other things, help us operate the Site and/or other VII websites, applications or other interactive services, enhance and improve our services and the Site and/or other VII or third party websites, applications or other interactive services and display advertising and marketing information on the Site and/or other VII or third party websites, applications or other interactive services (for example, to provide ads of interest to you on the Site or third party sites, to analyze effectiveness of advertisements, to assess the appeal of certain content to our general site audience and to understand your interactions with email messages we send and the content contained in such messages (such as the links clicked on within marketing and promotional emails we send and whether such messages were opened or forwarded));
+    
 *   Preparing statistics reports;
+    
 *   Allowing you to participate in the public areas and/or other features of the Site (for example, to enable you to use shopping carts on the Site);
+    
 *   Improving our services, the Site and/or other websites, applications or other interactive services and for internal business purposes;
+    
 *   Tailoring your experience on, and/or otherwise customizing what you see when you visit the Site and/or other sites, applications or other interactive services across Devices whether owned, operated and/or provided by VII or by third parties (for example, to provide recommendations on content or provide advertisements, emails or other content of more interest to you);
+    
 *   Saving certain Other Information for use on your return visits to the Site and making your experience on this Site more convenient for you (for example, to recognize you by name when you return to the Site, to apply certain settings or preferences you have identified on this Site or other VII websites, to save your password in password-protected areas and to save your online game or video player settings);
+    
 *   Using certain characteristics that you enter about yourself on the Site, such as age or gender, for tailoring the online advertising and/or other content that you see when you visit the Site or other websites, applications or other interactive services whether owned, operated and/or provided by VII or by third parties, whether alone or in combination with other Information;
+    
 *   Otherwise to maintain and administer the Site (for example, to enable Single VII Sign-On so that you can move between associated VII sites without logging into each site, to prevent you from seeing the same advertisements too many times or seeing advertisements too frequently, to record if you have opted out of receiving personalized content or using IP address to pre-populate registration fields to facilitate your sign-up);
+    
 *   For the uses described for “Personal Information” above. and
+    
 *   For other purposes disclosed at or before the time the Other Information is collected.
+    
 
   
 
@@ -209,8 +240,11 @@ As set forth in this Privacy Policy, we may share Information with VII (includin
   
 
 *   you are not opting out of receiving newsletters from us (please see Section 5.1.2 below for your newsletter options) and
+    
 *   you are not opting out of receiving marketing and promotional emails from other VII Brands and you are only opting out of receiving marketing and promotional emails from the VII Brand described in the email.
+    
 *   Please note that, if you deactivate your registration as a member of the Site, you shall continue to receive marketing and promotional emails from the Site unless you subsequently exercise your opt-out options above.
+    
 
   
 
@@ -219,7 +253,9 @@ As set forth in this Privacy Policy, we may share Information with VII (includin
   
 
 *   you are not opting out of receiving marketing and promotional emails from us (please see Section 5.1.1 above for your marketing and promotional email options) and
+    
 *   you are not opting out of receiving newsletters from other VII websites, applications or other interactive services and you are only opting out of receiving newsletters from the VII Brand described in the newsletter.
+    
 
   
 
@@ -234,10 +270,15 @@ Please note that, if you deactivate your registration as a member of the Site, y
   
 
 *   You can opt-out of the use of Other Information for certain advertising purposes by using opt-out tools provided by Google’s DoubleClick tool at https://www.google.com/intl/en/policies/privacy/#infochoice and provided by certain other Third Party Service Providers as described in our Ad Choices link located at http://srp.viacom.com/sitefaq.html. If you use such opt-out tools, your choices only apply to the Third Party Service Providers identified in such links. **Please note that, if third party browser cookies are disabled (whether by you or automatically by the browser or Device) or you subsequently delete browser cookies, the opt-out choices you have exercised may not function and you may need to enable third party cookies or opt out again in order for your opt-out choices to function.**
+    
 *   In addition to the Third Party Service Providers described above, these and other Third Party Service Providers and Advertisers may participate in the Network Advertising Initiative’s Opt-Out Tool at http://www.networkadvertising.org/managing/opt\_out.asp and/or the Self-Regulatory Program for Online Behavioral Advertising at http://www.aboutads.info/choices/. For example, go to http://srp.viacom.com/sitefaq.html for more information on some Third Party Service Providers that we use to provide online behavioral advertising, sometimes called personalized advertising or tailored advertising. Please click on the links to these tools to learn more about your choices. **Please note that, if third party browser cookies are disabled (whether by you or automatically by the browser or Device) or you subsequently delete browser cookies, the opt-out choices you have exercised may not function and you may need to enable third party cookies or opt out again in order for your opt-out choices to function.**
+    
 *   You may also prevent or exercise choices regarding the use of certain Tracking Technologies for a particular Device and Internet browser combination by using the controls for the Internet browser as described in “More Information About Cookie Controls” in Section 5.2.3 below. Please note that using those controls may affect Tracking Technologies which are browser cookies but may not affect other Tracking Technologies such as Flash LSOs.
+    
 *   Nielsen Measurement: The player on this website and/or this app may feature Nielsen’s proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsen’s digital measurement privacy policy. For more information about Nielsen’s measurement software, see http://www.nielsen.com/digitalprivacy and see the “Choices” section of that digital measurement privacy policy to learn about your choices with respect to Nielsen’s measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options.
+    
 *   See the “_More Information on Managing Tracking Technologies_” section below for additional information about managing Tracking Technologies set by Third Party Service Providers and Advertisers and for information on your choices regarding Identifiers on mobile platforms.
+    
 
   
 
@@ -246,8 +287,9 @@ Please note that, if you deactivate your registration as a member of the Site, y
   
 
 *   You can prevent or exercise choices regarding the use of certain Tracking Technologies for a particular Device and Internet browser combination by using the controls in your Internet browser as described in “_More Information About Cookie Controls_” section below. Please note that using those controls may affect Tracking Technologies which are browser cookies but may not affect other Tracking Technologies such as Flash LSOs.
-  
+    
 *   See the “_More Information on Managing Tracking Technologies_” section below for additional information about managing Tracking Technologies set by the Site and for information on your choices regarding Identifiers on mobile platforms.
+    
 
   
 
@@ -262,9 +304,9 @@ Please note that if you exercise the Ad Choices opt-out above, that only applies
   
 
 *   Your Choices Regarding the Site’s Use of Information for Customized Advertising. You can prevent the Site’s use of Information collected through Tracking Technologies for Customized Advertising by exercising the opt-outs offered by Third Party Service Providers we use as described in our Ad Choices link located at http://srp.viacom.com/sitefaq.html. Some of your options available in our AdChoices link may opt you out of receiving Customized Advertising across Devices.
-  
+    
 *   More Information About Cookie Controls. For the following Internet browsers, you may prevent or exercise choices regarding browser cookies for a particular Device and Internet browser combination by using the controls described in the following:
-  
+    
 
 **Internet Explorer 11** - http://windows.microsoft.com/en-US/internet-explorer/delete-manage-cookies#ie=ie-11
 
@@ -279,9 +321,13 @@ If your Internet browser is not listed above or you otherwise are having difficu
   
 
 *   Delete existing browser cookies through the “Internet Options”, “Settings”, Preferences”, “Options” or similar menu selection in your browser’s menu or otherwise as directed by your browser’s support feature, which means that all pre-existing browser cookies are deleted but does not prevent browser cookies from being used in the future.
+    
 *   Disable browser cookies through the same browser controls which means that browser cookies shall not be used in the future but pre-existing browser cookies may not be deleted. Additional information on enabling or disabling browser cookies and other Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.) Disabling may sometimes be referred to as blocking or opting out of browser cookies and relies on browser cookies to remember your choices. If you delete browser cookies using the controls in your Web browser (as described above) after disabling browser cookies, you may have to disable browser cookies again to re-establish your preferences.
+    
 *   Choose to have the Device you use to access the Site warn you each time a browser cookie or certain other non-Flash LSO Tracking Technology is being set. (You can later choose to turn-off such warnings.) This may be available through your Internet browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser’s support feature.
+    
 *   Seek additional information from the provider of your Internet browser through your browser’s support features.
+    
 
   
 
@@ -289,15 +335,25 @@ The above options may cover browser cookies set by the Site, browser cookies not
 
   
 *   **Many tools discussed above are “Internet browser cookie based.”** This means that such tools rely on cookies to remember your choices. For example, if you delete Tracking Technologies using the controls in your Web browser after disabling such Tracking Technologies, you may have to disable such Tracking Technologies again to re-establish your preferences and, if you exercise opt-outs through the mechanisms described in our Ad Choices link, and then delete or block browser cookies, you may need to exercise your opt-outs through these mechanisms again.
+    
 *   **The tools are “Internet browser and Device-specific” or “Device-specific.”** Note that when you exercise your options using controls for the Internet browser, your choices shall only apply to the specific Internet browser on that Device and not across Devices. This means, for example, that if you block or disable browser cookies for Internet Explorer 9 on one Device, this choice shall not block or disable browser cookies when you use Mozilla Firefox on the same Device or on a different Device using Internet Explorer 9. Further, you may need to separately exercise your options for other platforms, such as mobile platform (as described below). See our Ad Choices link at http://srp.viacom.com/sitefaq.html for more information about this Site and other options you may have regarding Customized Advertising across Devices.
+    
 *   **Automatic Disabling of Third Party Cookies and Effect on Certain Opt-Outs.** Some Device manufacturers and/or browsers (such as Safari) may preset their browser to automatically disable browser cookies from websites, applications or other interactive services other than those you visit directly (sometimes referred to as third party cookies) and, **if so, the opt-out choices you have exercised with regard to third parties may not function and you may need to enable third party cookies in order for your opt-out choices to function.** For example, unless you enable third party cookies on Safari, your opt-out choices made on the Digital Advertising Alliance’s Self-Regulatory Program for Online Behavioral Advertising site and on the Network Advertising Initiative site may not function.
+    
 *   **You shall still receive advertisements.** Deleting or disabling Third Party Service Providers’, Advertisers’ or the Site’s Tracking Technologies does not mean that you shall no longer receive online ads. If you delete or disable third party Tracking Technologies (or, if third party Tracking Technologies are automatically disabled, if you do not enable such Tracking Technologies), this only means that such ads may no longer be tailored to your specific viewing habits or interests, but you shall continue to see ads on this Site and you may see the same advertisement repeatedly or may see advertisements more frequently unless you enable Tracking Technologies set by third parties or unless we offer alternative means such as enlisting the assistance of Third Party Service Providers in order for the Site to set Tracking Technologies for frequency capping purposes as described in the “_Information Collected Through Use of Cookies and Other Tracking Technologies_” section above.
+    
 *   **Limitations Regarding Web Beacons.** Web beacons cannot be deleted or disabled using the above opt-out options, but may be affected if such web beacons rely on browser cookies or other deleted or disabled Tracking Technologies to track your activities.
+    
 *   **How to Manage Flash LSOs (sometimes known as Flash Cookies). CONTROL OF FLASH LSOS (SOMETIMES KNOWN AS FLASH COOKIES) MUST BE HANDLED SEPARATELY. PLEASE NOTE THAT THE USE AND STORAGE OF FLASH LSOs TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR INTERNET BROWSER.** Deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Service Providers and Advertisers and set by this Site through the above options shall not remove Flash LSOs. For more information about Flash LSOs and how to remove them from your computer, please visit http://kb2.adobe.com/cps/526/52697ee8.html. If you remove Flash LSOs, you may not have access to certain features of the Site and some of our other services may not function properly.
+    
 *   **Other Effects of Managing Tracking Technologies.** In addition to the above, if you delete or disable Tracking Technologies set by the Site, the Site may no longer be able to offer certain features or functionality to you, such as remembering your preferences, remembering your username, enabling Single VII Sign-On, saving your player settings or other purposes described in “_Other Information Collected By Us_” above, and some of our other services may not function properly. In addition to the above, if you disable or delete Tracking Technologies set by Third Party Service Providers and Advertisers (or if such Tracking Technologies are automatically disabled on your Device or browser), the Site may no longer be able to offer certain functionality to you, such as enabling SMN login or saving your player settings and certain services or advertisements may not work for such Devices or browsers.
+    
 *   **Mobile Platforms.** Certain mobile platforms, such as Apple or Google, may offer users choice regarding the Identifiers we, Third Party Service Providers or Advertisers may access and use, which may not be browser cookie based. We encourage you to review and understand the choices that such mobile platforms may provide to you regarding these Identifiers.
+    
 *   **Certain Identifiers.** Certain Identifiers we set may not be deleted, blocked or disabled using the above opt-out options, but may be affected if such Identifiers rely on, or are associated with, browser cookies or other Tracking Technologies.
+    
 *   **Do-Not-Track Signals and Similar Mechanisms.** Some web browsers may transmit “do-not-track” signals to the websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals.
+    
 
   
 
@@ -333,12 +389,16 @@ Please note that you may always send a text message that says “HELP” to rece
 
   
 
-*   When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process) or if requested by a governmental agency or other authority as part of an investigation;
 *   If we believe your actions violate any law, rule, regulation and/or the **Terms of Use Agreement**, including, without limitation, this Privacy Policy or Additional Terms;
+    
 *   In connection with Promotions, as necessary to administer the Promotion or as required by applicable laws, rules or regulations (for example, to provide winners’ lists or make required filings as appropriate);
+    
 *   If you agree to have your Personal Information shared with or otherwise disclosed to a third party for marketing or other purposes, in which case the third party’s use of your Personal Information is subject to the third party’s own privacy policy;
+    
 *   If, in our sole discretion, we believe such disclosure to be necessary or appropriate: to investigate or resolve possible problems or inquiries. to protect our business and assets or the rights, property or safety of the Channel, VII, or any of its or their operational service providers, licensors, suppliers, Advertisers, customers, users, or any other party. to limit our legal liability. to defend our interests. to enforce this Privacy Policy or the Terms of Use Agreement and/or to comply with our legal, regulatory, audit and compliance obligations or requests by law enforcement or other governmental authorities and/or
+    
 *   In the event of a bankruptcy, merger, acquisition, sale, transfer of control, joint venture or other business combination involving us, or VII.
+    
 
   
 
@@ -401,7 +461,8 @@ Further, if you use any of the Communities features and functions made available
 
   
 
-This Privacy Policy was last modified on the date indicated above and is effective immediately.Copyright © 2018 Viacom International Inc. - All Rights Reserved.
+This Privacy Policy was last modified on the date indicated above and is effective immediately.  
+Copyright © 2018 Viacom International Inc. - All Rights Reserved.
 
 closeAll ResultsShowsEpisodesVideosNewsEventsTrending
 
