@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last Updated: June 19, 2018
+Last Updated: October 2, 2018
 
 Toodledo takes your privacy seriously. This document explains what we collect, how we use it, and what you can do with your personal information on Toodledo.
 
@@ -40,6 +40,8 @@ A cookie in no way gives us access to your computer or any information about you
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies. Declining cookies will prevent you from taking full advantage of the website.
 
+We also use cookies related to our affiliate scheme which are used to track how you first arrived on this website and, if appropriate, to award our affiliates.
+
 Log Files
 
 We use IP addresses and browser type to analyze trends and administer the site. We do not do reverse DNS lookups, so IP addresses are not linked to personally identifiable information. IP addresses stored in log files are automatically deleted after 90 days.
@@ -52,11 +54,13 @@ If you agree to become a beta tester, we may use additional 3rd party analytics 
 
 Sharing
 
-We may share aggregated information with our partners. This is not linked to any personally identifiable information.
+Toodledo does not rent or sell your information, but we do disclose your information to a limited set of third parties in the situations explained below, for which you, by using our services, hereby explicitly consent.
 
-We will share personally identifiable information only when requested by a legal authority.
+*   We will disclose your personal information where we are bound to do so, at law or via a court order as well as to meet any legal or regulatory requirement or obligations. We will use all reasonable efforts to ensure that those requirements or obligations are in accordance with Applicable Law.
+*   We reserve the right to disclose your information to any third party if we have reasonable information to believe that the disclosure is necessary for the purpose of an investigation and/or for the enforcement of any breaches of the Terms of Service (if applicable), to detect, prevent or otherwise address fraud, security, technical issues or other irregularities or illegalities, protect the rights and interests as well as the property of Toodledo.
+*   There are many third-party applications that can sync with Toodledo. If you choose to link your account with a third-party application, all of your information can be downloaded, read, modified and deleted by this third-party application as if it was you. Toodledo is not responsible for the privacy policies or actions of any third-party application to which you have given access to your account. When giving a third-party application access to your data, you should carefully read through the privacy policy of that third party application.
 
-There are many third-party applications that can sync with Toodledo. If you choose to link your account with a third-party application, all of your information can be downloaded, read, modified and deleted by this third-party application as if it was you. Toodledo is not responsible for the privacy policies or actions of any third-party application to which you have given access to your account. When giving a third-party application access to your data, you should carefully read through the privacy policy of that third party application.
+Toodledo also works with third party providers which provide important functions to us that allow us to provide you a better service. We need to disclose user data to them from time to time so that the services can be performed. We only share information with the third party that is required for the service they are offering and contractually bind these providers to keep any information we share with them as confidential and to be used only for particular purposes. For example, amongst others, we have providers that process our credit card transactions (Stripe, Paypal), market our products (Google, Facebook), and manage our marketing communications (CampaignMonitor). By using Toodledo, you explicitly consent to, and authorize us to sub-contract in this manner.
 
 Links
 
