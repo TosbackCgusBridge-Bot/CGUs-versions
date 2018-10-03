@@ -976,9 +976,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: CLOUDY pin: 1598 DETAILS
+code: APPLE pin: 1675 DETAILS
 
 Customer Service Menu
 
