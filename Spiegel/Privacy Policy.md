@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   2\. Oktober 2018
+*   3\. Oktober 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.339,03ǀ
+*   DAX 12.287,58ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -340,20 +340,20 @@ SPIEGEL GRUPPE
 *   \-Jobs
 
 *   SPIEGEL EXPEDITION
-*   Edition Geschichte
+*   EDITION GESCHICHTE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
-*   Edition Wissen
+*   EDITION WISSEN
 *   DER SPIEGEL
 *   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   Dein SPIEGEL
 *   UNI SPIEGEL
 *   SPIEGEL EXPEDITION
-*   Edition Geschichte
+*   EDITION GESCHICHTE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
-*   Edition Wissen
+*   EDITION WISSEN
 *   DER SPIEGEL
 *   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
