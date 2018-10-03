@@ -10,7 +10,7 @@ BRANDSAUDIENCEWORLDWIDEPRESSLEADERSHIPCAREERSCONTACT ZIFF DAVIS, LLC PRIVACY POL
 
   
 
-Effective July 31, 2018
+<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c" alt="TRUSTe"/>. <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a" alt="TRUSTe"/>. Effective October 1, 2018
 
 Version Française
 
@@ -66,6 +66,7 @@ This Privacy Policy covers information collected through the following websites 
 *   emedia.com, emedia.co.uk
 *   Salesify, B2BSignals
 *   Ziff Davis Data
+*   Best Black Friday
 
 Applications:
 
@@ -348,6 +349,8 @@ You can directly take steps to change your preferences for newsletters and onlin
 If you are an EU resident, you may have certain rights including: the right not to provide your Personal Information to us. the right of access to your Personal Information. the right to request rectification of inaccuracies. the right to request the erasure, or restriction of Processing, of your Personal Information. the right to object to the Processing of your Personal Information. the right to have your Personal Information transferred to another controller. the right to withdraw consent. and the right to lodge complaints with supervisory authorities. We may require proof of or need to verify your identity before we can give effect to these rights.
 
 You may directly take steps to change your preferences as follows:
+
+Access to Your Personal Information. Upon request Ziff Davis will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us through our DSAR Portal. We will respond to your request within a reasonable timeframe.
 
 _Your Newsletter and Email Subscriptions_. You can opt out or unsubscribe to a newsletter or other email list at any time by following the instructions at the end of the newsletters or emails you receive. Please allow five to ten business days for changes to take effect. On some Services, member service-related communications are an integral part of such Services to which you subscribe and you may continue to receive emails as part of that particular portion of the Services unless you cancel your account, even if you opt out of the newsletters or email list. If you have provided more than one email address to us, you may continue to be contacted unless you request to unsubscribe each email address you have provided.
 
