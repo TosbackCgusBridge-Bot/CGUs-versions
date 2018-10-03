@@ -31,10 +31,10 @@ Near YouFind a StoreBackUP TO 50% OFF WINDOW SALEShop AllSELECT STYLESUP TO 50% 
     from$18after couponwas $40 - $70 Linden Street Farmhouse Grommet Sheer Curtain Panel(12)Add To Cart
 *   BIG BUY!
     
-    from$1575after couponwas $35 - $65 Linden Street Farmhouse Rod-Pocket Sheer Curtain Panel(3)Add To Cart
+    from$1350after couponwas $30 - $60 JCPenney Home Batiste Tile Medallion Grommet-Top Sheer Curtain Panel(4)Add To Cart
 *   BIG BUY!
     
-    from$1350after couponwas $30 - $60 JCPenney Home Batiste Tile Medallion Grommet-Top Sheer Curtain Panel(4)Add To Cart
+    $36after couponwas $80 Liz Claiborne Tori Sheer Window Scarf(4)Add To Cart
 
 UP TO 60% OFF JUNIORS APPARELShop AllSELECT STYLESUP TO 60% OFF JUNIORS APPARELSELECT STYLESShop All
 
