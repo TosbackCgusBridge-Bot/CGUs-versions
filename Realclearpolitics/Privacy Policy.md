@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Byron York_: In Court Fight, Dems Seek to Move Goalposts Far, Far Away
+*   _Patricia Murphy_: Senate Already Went Nuclear. This Must Be Nuclear Plus
     
-*   _Heather Parton_: Male Rage Boils Over, But Women Aren't Scared Anymore
+*   _Rich Lowry_: Do Today's Liberals Think Atticus Finch Was a Villain?
     
-*   _Bre Payton_: Prosecutor Details 12 Huge Inconsistencies in Ford's Story
+*   _Howell Raines_: Court Battle Underscores Sexism of Senate Republicans
     
-*   _Frank Bruni_: Brett Kavanaugh Loves His Beer
+*   _Jenna Ellis_: No, It's Not Sexist to Support Kavanaugh's Confirmation
     
-*   _Frank Cannon_: Kavanaugh Battle May Be a Tipping Point for Republicans
+*   _Laura McGann_: Kavanagh Wants Us to Forget His Yearbook Jokes. I Don't.
     
-*   _Paul Starr_: Can a Blue Wave Save America?
+*   _Sally Persons_: Why a Loss on Kavanaugh Could Mean Win on Nov. 6
     
-*   _Steve Cortes_: Trade Deal Represents Big Win for U.S. and for Trump
+*   _F.H. Buckley_: NAFTA 2.0 Is Just a Warmup to Trump's Bout With China
     
-*   _John Tamny_: Despite What Central Bankers Believe, It's Not All About Them
+*   _Flores-Macias &. Sanchez-Talanquer_: Worse Than Nafta
     
-*   _Jack Shafer_: The Press Really Did Change in the 1960s--for the Better
+*   _Krishnadev Calamur_: World Might Protest, But Trump Is Winning on Trade
     
-*   _Andrew McCarthy_: To Avoid Media Scrutiny, It Helps to Be a Democrat
+*   _Ryan Lizza_: Is Nunes's Family Farm Hiding a Politically Explosive Secret?
     
-*   _John MacDuffie_: The Future of Electric Cars Is Brighter with Elon Musk in It
+*   _Mollie Hemingway_: Lizza's Hit Piece on Nunes Family Is Deeply Flawed
     
-*   _Seitz-Wald &. Sarlin_: Predictions of 'Kavanaugh Wave'--But for Which Party?
+*   _Tom Coburn_: 1st Principles Are at Stake in Kavanaugh Confirmation
     
-*   _Rachel Tripp_: Validating Accusations Without Evidence Very Dangerous
+*   _Anna North_: What Kavanaugh Defenders Get Wrong About Women's Anger
     
-*   _Mara Gay_: Make My Sexual Assault Count
+*   _Joy Pullmann_: Women Are Not Too Weak or Emotional to Bypass Evidence
     
-*   _Jeremy Markovich_: On Sex Assault, Women Share Pain But Not Politics
+*   _Erwin Chemerinsky_: A Very Tarnished Court
     
-*   _Mollie Hemingway_: Media Sink to New Lows to Aid Dem Smear Campaign
+*   _Jim Tankersley_: Trump Just Ripped Up Nafta. Here's What's in the New Deal
     
-*   _Ana Archila_: Why I Confronted Jeff Flake in a Senate Elevator
+*   _Christian Whiton_: A Turning Point in Global Trade &. U.S. Economic Power
     
-*   _James Comey_: The FBI Can Do This
+*   _David Rothkopf_: A Trumped-Up New Trade Deal
     
-*   _Lee Smith_: Sparing Rod: Unpacking a Trumpian Intrigue
+*   _Elaine Parker_: Women Are Winning in the Trump Economy
     
-*   _Rosenfeld &. Tan_: Canada Beats Deadline to Join Trade Deal With U.S., Mexico
+*   _Neil Young_: Why Women Will Abandon Republicans in the Midterms
     
-*   _Juan Williams_: Trump Is Tearing the Racial Fabric
+*   _Star Parker_: Why the Blue Wave Is Likely to Be a Mere Ripple
     
-*   _Freddy Gray_: Ye He Kan! Why Kanye West's SNL Stunt Showed Courage
+*   _Robert Kuttner_: What Democrats Should Do If They Win the House
     
-*   _Deroy Murdock_: Unlike Obama, Trump Displays Commanding Leadership at UN
+*   _James Piereson_: Citizenship and the Census
     
-*   _Fred Kaplan_: Trump Said What About Kim Jong-Un?
+*   _James Gagliano_: The Insufferable Hypocrisy of James Comey's Act II
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Boosts Blackburn in TN, Predicts Havoc If Dems Take Congress
 *   Canada and U.S. Reach Trade Deal to Revamp NAFTA
+*   ACLU Ad Compares Kavanaugh to Clinton, Cosby, Weinstein
 *   In WV, Trump Uses Supreme Court Fight as Rallying Cry for Midterms
-*   "60 Minutes" Interviews Flake, Coons, Graham, Hirono &. More on Court Battle
 *   Sizing Up the Montana Senate Race
-*   Ellison, MeToo Issues Shadow Female Candidates in Minn.
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Florida Governor - DeSantis vs. GillumMason-Dixon\*
+    *   Gillum45
+    *   DeSantis44Gillum +1
+*   Florida Senate - Scott vs. NelsonWCTV-TV
+    *   Nelson45
+    *   Scott44Nelson +1
+*   West Virginia Senate - Morrisey vs. ManchinWSAZ-TV\*
+    *   Manchin46
+    *   Morrisey38Manchin +8
 *   North Dakota Senate - Cramer vs. HeitkampNBC Valley News
     *   Cramer51
     *   Heitkamp41Cramer +10
-*   Ohio 1st District - Chabot vs. PurevalNY Times/Siena
-    *   Chabot50
-    *   Pureval41Chabot +9
-*   Nevada Senate - Heller vs. RosenCNN\*
-    *   Rosen47
-    *   Heller43Rosen +4
-*   New Jersey Senate - Hugin vs. MenendezStockton University\*
-    *   Menendez45
-    *   Hugin43Menendez +2
 
 More Latest Polls In The News
 
-*   Sen. Kennedy on Kavanaugh FBI Probe: If You Think This Is About The Truth, "Put Down The Bong"
-*   Swetnick: I Cannot Specifically Say That Kavanaugh Was One Of The Ones Who Assaulted Me
-*   '60 Minutes' Interviews Sens. Flake, Coons, Graham, Hirono &. More On Kavanaugh Delay Compromise
+*   Booker: Doesn't Matter If Kavanaugh Is "Innocent Or Guilty," Trump Should Nominate Someone Else
+*   Turley: Most People Believe Kavanaugh Allegations Were "Held To The Last Minute Right Before A Vote"
+*   Sen. Graham: NBC A "Co-Conspirator" In The Destruction Of Kavanaugh. A Ballot Box Issue
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Kimberley Strassel: If We Are Willing to Overthrow Due Process, We've Got Some Really Big Problems
+*   Sen. Kennedy on Kavanaugh FBI Probe: If You Think This Is About The Truth, "Put Down The Bong"
 
 *   Politics
 *   Policy
