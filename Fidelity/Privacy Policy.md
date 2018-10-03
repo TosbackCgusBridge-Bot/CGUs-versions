@@ -40,7 +40,6 @@ Search fidelity.com or get a quote
     *   OFFER See our featured trading offer. Learn more.
 *   Planning &. Advice
     *   What We Offer
-    *   My Goals
     *   Financial Basics
     *   Building Savings
     *   Wealth Management
