@@ -241,7 +241,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **$15 OFF $75** USE CODE **SAVEMORE** **50-70% OFF + FREE SHIPPING OVER $50**
+**UP TO $25 OFF $100** USE CODE **SAVEMORE** **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
