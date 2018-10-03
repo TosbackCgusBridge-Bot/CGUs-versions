@@ -468,12 +468,12 @@ closeAll ResultsShowsEpisodesVideosNewsEventsTrending
 
 *   FAQ/Help
 *   Jobs
-*   Terms of Use \[Updated 3/14/2017\]
-*   Privacy Policy/Privacy Rights \[Updated 6/22/2017\]
+*   Terms of Use
+*   Privacy Policy/Privacy Rights
 *   Copyright
 *   Closed Captioning
 *   Eventful
-*   Ad Partners
+*   Ad Choices
 
 *   facebook
 *   Twitter
