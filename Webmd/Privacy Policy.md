@@ -33,7 +33,7 @@ Skip to main content
     *   Insurance Guide
     *   Find a Doctor
     
-    Featured Topics*   Assessment Get Help for Migraine Relief
+    Featured Topics*   Slideshow Get Help for Migraine Relief
     *   Slideshow Things That Can Hurt Your Joints
 *   Drugs &  
     Supplements Drugs &. Supplements Drugs &. Supplements Find &. Review
