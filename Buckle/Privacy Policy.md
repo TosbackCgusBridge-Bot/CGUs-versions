@@ -308,6 +308,8 @@ FREE SHIPPING WITH THE PURCHASE OF A REGULAR PRICE BUCKLE BLACK JEAN. SHOP NOW.
         *   Extra 33% Off
         *   Accessories BOGO Free
         *   Sale Under $25
+        *   Spring &. Summer Sale
+        *   Fall &. Winter Sale
         
         *   Women's Sale
         
@@ -318,6 +320,7 @@ FREE SHIPPING WITH THE PURCHASE OF A REGULAR PRICE BUCKLE BLACK JEAN. SHOP NOW.
         *   Rompers/Jumpsuits
         *   Shoes
         *   Accessories
+        *   Swimwear
         *   Shop All
         
         *   Men's Sale
