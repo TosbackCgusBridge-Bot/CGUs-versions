@@ -149,12 +149,12 @@ Bag 0
     *   Hats
 *   Kids SHOP BY AGE RANGE
     
-    *   Toddler Girls (2T-4T)
+    *   Toddler &. Baby Girls (0-4T)
     *   Little Girls (4-7)
     *   Big Girls (7-16)
     *   Girls' Plus Sizes
     
-    *   Toddler Boys (2T-4T)
+    *   Toddler &. Baby Boys (0-4T)
     *   Little Boys (4-7)
     *   Big Boys (7-20)
     *   Boys' Husky Sizes
@@ -238,7 +238,7 @@ Bag 0
     
     *   Big Girl (7-20)
     *   Little Girl (4-7)
-    *   Toddler (2T-4T)
+    *   Toddler &. Baby Girls (0-4T)
     *   Girls' Plus Sizes
     
     *   Girls' Snow Pants &. Snow Bibs
@@ -249,7 +249,7 @@ Bag 0
     
     *   Big Boy (7-20)
     *   Little Boy (4-7)
-    *   Toddler (2T-4T)
+    *   Toddler &. Baby Boys (0-4T)
     *   Boys' Husky Sizes
     
     *   Boys' Snow Pants &. Snow Bibs
@@ -606,12 +606,12 @@ Lands' End Sign In menu
     *   Shop all Kids
     *   SHOP BY AGE RANGE
         *   Back
-        *   Toddler Girls (2T-4T)
+        *   Toddler &. Baby Girls (0-4T)
         *   Little Girls (4-7)
         *   Big Girls (7-16)
         *   Girls' Plus Sizes
         
-        *   Toddler Boys (2T-4T)
+        *   Toddler &. Baby Boys (0-4T)
         *   Little Boys (4-7)
         *   Big Boys (7-20)
         *   Boys' Husky Sizes
@@ -700,7 +700,7 @@ Lands' End Sign In menu
         *   View All
         *   Big Girl (7-20)
         *   Little Girl (4-7)
-        *   Toddler (2T-4T)
+        *   Toddler &. Baby Girls (0-4T)
         *   Girls' Plus Sizes
         
         *   Girls' Snow Pants &. Snow Bibs
@@ -711,7 +711,7 @@ Lands' End Sign In menu
         *   View All
         *   Big Boy (7-20)
         *   Little Boy (4-7)
-        *   Toddler (2T-4T)
+        *   Toddler &. Baby Boys (0-4T)
         *   Boys' Husky Sizes
         
         *   Boys' Snow Pants &. Snow Bibs
