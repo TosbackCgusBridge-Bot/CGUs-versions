@@ -3,11 +3,11 @@
 *   games
 *   videos
 
-New Games Next in  22:52 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  18:29 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 22:52
+*   New Games Next in 18:29
 *   Best of new games 1435 games
-*   Most Popular Games 18021 games
+*   Most Popular Games 18027 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -18,39 +18,31 @@ CATEGORIES
 *   Driving &. Racing Games 6,678 games
 *   Strategy &. RPG Games 2,384 games
 *   Management Games 3,645 games
-*   Thinking Games 11,691 games
-*   Action &. Adventure Games 15,681 games
-*   Sports Games 2,110 games
+*   Thinking Games 11,695 games
+*   Action &. Adventure Games 15,684 games
+*   Sports Games 2,111 games
 *   Shooting Games 8,154 games
-*   Fighting Games 2,077 games
-*   Skill Games 10,306 games
-*   Arcade &. Classic Games 12,605 games
+*   Fighting Games 2,079 games
+*   Skill Games 10,314 games
+*   Arcade &. Classic Games 12,608 games
 *   Fun &. Crazy Games 2,433 games
 
-Tags
-
-*   Water921
-*   Role Playing294
-*   Balancing377
-*   Food Serving835
-*   Maze534
-*   Match 31,272
-*   View All Tags 372
-
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 1,631 Y8 High Score Games 1,009 Y8 Achievements Games 774 Y8 Screenshots Games 1,315 Y8 Online Save Games 2,631 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 1,633 Y8 High Score Games 1,009 Y8 Achievements Games 774 Y8 Screenshots Games 1,317 Y8 Online Save Games 2,650 All Y8 Games Games Last Highscore:
 
-**61,066,530** points on Idle Choco Tycoon by shadow\_rider
+**1,545** points on Tunnel Rush by BriBankss
+
+Help us improve Bad translation? Social Share889K
 
 *   Contact Form
 *   Submit a Game or Video
 *   Games for Your Website
-*   Forum
 *   Privacy Policy
 *   Cookie Policy
 *   Terms of Use
+*   Forum
 
-Bad translation? Share889K Register Log in My Profile 0 points
+Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
