@@ -10,19 +10,17 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackUP TO 50% OFF WINDOW SALEShop AllSELECT STYLESUP TO 50% OFF WINDOW SALESELECT STYLESShop All
+Find a StoreNear YouFind a StoreBackUP TO 50% OFF WINDOW SALEShop AllSELECT STYLESUP TO 50% OFF WINDOW SALESELECT STYLESShop All
 
 *   BIG BUY!
     
-    from$18after couponwas $40 - $90 JCPenney Home™ Aurora Blackout Grommet-Top Curtain Panel(46)Add To Cart
+    from$18after couponwas $40 - $90 JCPenney Home™ Aurora Blackout Grommet-Top Curtain Panel(47)Add To Cart
 *   BIG BUY!
     
     from$1350after couponwas $30 - $60 Liz Claiborne Tori Rod-Pocket Sheer Curtain Panel(17)Add To Cart
 *   BIG BUY!
     
-    from$24 sale
-    
-    was $40 - $70 JCPenney Home™ Bismarck Grommet-Top Sheer Curtain Panel(17)Add To Cart
+    from$18after couponwas $40 - $70 JCPenney Home™ Bismarck Grommet-Top Sheer Curtain Panel(17)Add To Cart
 *   BIG BUY!
     
     from$2250after couponwas $50 - $80 Linden Street Elmsford Room Darkening Grommet-Top Curtain Panel(5)Add To Cart
@@ -67,7 +65,7 @@ UP TO 60% OFF JUNIORS APPARELShop AllSELECT STYLESUP TO 60% OFF JUNIORS APPARELS
     
     $899 sale
     
-    was $24 Arizona 3/4 Sleeve Varsity T-Shirt- Juniors(4)Add To Cart
+    was $24 Arizona 3/4 Sleeve Varsity T-Shirt- Juniors(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1680 sale
