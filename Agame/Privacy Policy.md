@@ -1,5 +1,3 @@
-We use cookies to personalize and enhance your experience on our site. Visit our Privacy Policy for more information on our data collection practices. By clicking Accept, you agree to our use of cookies for the purposes listed in our Cookie Consent Tool. Otherwise you can learn more about our use of cookies by clicking Options.SettingsAcceptA reminder you can control your user privacy preferenceshere
-
 Pick a theme
 
 *   Red
@@ -232,9 +230,9 @@ View more results
     
     Recommended Games
     
-    *   Game of Emperors
-    *   Farm Cliff
-    *   Animal Jam
+    *   Wizard 101
+    *   PopTropica
+    *   Star Stable
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
@@ -427,4 +425,4 @@ Copyright © 2018 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
+Your privacy settingsWe use cookies to personalize and enhance your experience on our site. Visit our Privacy Policy for more information on our data collection practices. By clicking Accept, you agree to our use of cookies for the purposes listed in our Cookie Consent Tool. Otherwise you can learn more about our use of cookies by clicking Settings.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
