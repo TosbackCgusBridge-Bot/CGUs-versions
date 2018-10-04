@@ -48,6 +48,7 @@
             *   Vrio CSR
             *   CSR Reporting
     *   Diversity &. Inclusion
+    *   Ethics &. Compliance
 *   CAREERS
     
 *   NEWS
