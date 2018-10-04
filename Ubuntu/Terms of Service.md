@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Fing: future-proofing Fingbox the IoT home network monitoring device ›
 *   Ubuntu Server development summary – 2 Oct 2018 ›
 *   How to build and deploy your first AI/ML model on Ubuntu ›
 *   Canonical’s Current Security Certifications ›
 *   IoT Graphics: Mir Release 1.0 ›
-*   Ubuntu does Kubernetes ›
