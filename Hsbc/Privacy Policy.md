@@ -136,7 +136,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
         *   Working in Global Banking and Markets
         *   Working in Global Private Banking
         *   Working in Retail Banking and Wealth Management
-        *   Working in HSBC Operations, Services and Technology
+        *   Working in Technology, Operations and Services
         *   Working in Global Functions last item in this group
     
     *   Meet our people
