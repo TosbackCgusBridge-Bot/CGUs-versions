@@ -44,7 +44,8 @@ Skip to navigation Skip to main content Login Register Menu Close
         *   Webcasts
         *   Virtual Conferences
 *   Resource Library
-*   SC SOC
+*   SC Security Ops Center
+*   SC UK
 
 Toggle Search Menu Search... Submit About SC Media
 
