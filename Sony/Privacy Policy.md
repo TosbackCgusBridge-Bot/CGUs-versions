@@ -137,7 +137,7 @@ Meet PS4™ Pro
 
 Time to start lining up. #BlackOps4 arrives on PS4 next week.
 
-22 hours ago
+1 day ago
 
 View Tweet
 
