@@ -976,9 +976,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 40% off full-price styles!
 
-code: APPLE pin: 1675 DETAILS
+code: SQUASH pin: 8992 DETAILS
 
 Customer Service Menu
 
