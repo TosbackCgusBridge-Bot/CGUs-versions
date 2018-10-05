@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 The Powerhouses of the Internet Are Turning Hostile to Websites | SparkToro sparktoro.com/blog/t…
 
-About 5 days ago
+About 6 days ago
 
 This just in from the blog: Justin Hansen Honored For Q2 Publisher Success! INTERMARKETS + @STAQ intermarkets.net/201…
 
@@ -183,8 +183,6 @@ About 3 weeks ago
 ICYMI: Publishers Turn to White-Glove Services for Ad Buying and Management Needs econtentmag.com/Arti…
 
 About 3 weeks ago
-
-Follow @intermarkets
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
