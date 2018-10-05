@@ -8,17 +8,40 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Designer Sun ft. Tom Ford Up to 70% Off
-    *   Moschino &. MCM Handbags &. Accessories
-    *   Designer Shop: Styles Up to 70% Off
-    *   Glam Galore: Dresses from Vera Wang &. More
-    *   High-Waisted Denim Starting at $25
+    *   Frye
+    *   Frye Handbags Up to 50% Off
+    *   Frye Men
+    *   Abound
+    *   Betsey Johnson &. Love...Ady Dresses
+    *   Papillon Up to 85% Off
+    *   Frye Men's Accessories
+    *   Tipsy Elves
+    *   skinChemists
+    *   Royale USA Hair Tools &. More from $10
+    *   Tart Incl. Plus
+    *   CQ by CQ
+    *   Free Shipping: Essential Solid Sheet Sets
+    *   Easy Upgrades: Jewelry Organizers &. More
+    *   Schylling Toys Starting at $8
+    *   Melissa &. Doug: Favorite Finds Starting at $8
+    *   Anna Beck 18K Gold &. Sterling Silver Jewelry
+    *   PJ Party: Tart &. More
+    *   Kevyn Aucoin
+    *   Seasonal Shoe Staples ft. Abound
+    *   Nanette Lepore Active
+    *   Nomad Footwear Starting at $20
+    *   Transition to Fall: Dolce Vita Girls
+    *   Rogue Starting at $13
+    *   Men's Activewear
     *   Barefoot Dreams Sleep
     *   Cashmere Shop ft. Magaschoni
-    *   Sweater Dresses ft. Solutions
     *   Fall Sweaters Under $30 Incl. Plus &. Petites
     *   Cozy Slippers Starting at $15
     *   Relax &. Unwind: Men's Sleepwear
+    *   Designer Sun ft. Tom Ford Up to 70% Off
+    
+    *   Moschino &. MCM Handbags &. Accessories
+    *   Designer Shop: Styles Up to 70% Off
     *   Brooks
     *   Show Me Your Mumu Up to 70% Off
     *   TOV
@@ -40,83 +63,72 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Little Giraffe &. More
     *   Me Too &. Minymo
     *   Unsimply Stitched Up to 80% Off
-    
     *   Trophy Skin Microdermabrasion Devices &. More
-    *   Do + Be
     *   Le Creuset
     *   Free Shipping: Barware, Dinnerware &. More
     *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Charming Fall Decor from $10
     *   Urban Decay Starting at $10
-    *   Naked Zebra Under $40
-    *   Cotton On &. Co.
-    *   Sam Edelman Dresses &. More
     *   adidas Men's Active
     *   Dogeared Jewelry Up to 55% Off
-    *   Hidden Jeans Starting at $35
+    
     *   Luxe Skin Care
     *   Tahitian Pearl Jewelry &. More Under $80
     *   Fall Favorites for Girls Under $25
     *   Fall Favorites for Boys Under $25
-    *   Kenneth Cole New York Up to 50% Off
-    *   Niko Ineko
-    *   Chase &. Chloe Under $40
-    *   Copper Fit Under $30
-    *   Work or Play: Cropped Pants Incl. Plus &. Petites
     *   Tailored Recreation Up to 70% Off
-    *   Roberto Cavalli &. More Watches Up to 50% Off
-    *   AG
-    *   AG Men
-    *   Suzy Levian Jewelry
     *   Vital Proteins
     *   Free Shipping: Glam Accent Furniture
     *   Cozy Bedding Essentials
-    *   aden + anais
-    *   AXNY &. Geoffrey Beene Boys
-    
-    *   Geox Kids
     *   $50 &. Under: Robert Wayne
-    *   AG Kids
     *   Natural Blue Up to 70% Off
     *   Hart Schaffner Marx
     *   K-Beauty Essentials: Masks, Serums &. More
-    *   On-Trend Jewelry: ZENZII Starting at $15
     *   Terre Mere Organic Vegan Beauty Up to 65% Off
-    *   Men's Designer Styles Blowout
-    *   Men's Shoes Up to 65% Off
-    *   Kenneth Cole Reaction Up to 70% Off
     *   Self-Care Essentials: Bath Bombs &. More
     *   Free Shipping: Accent Wall Must-Haves
-    *   GUESS Men Starting at $25
     *   Free Shipping: Luxe Faux Fur Pillows &. Throws
-    *   Predire Paris Luxury Skin Care
-    *   Moon and Jai Kits &. More
     *   Free Shipping: Quilts, Comforters &. More
-    *   Free Shipping: Ultra-Soft Towels from $10
-    *   Baking Stars: Essential Pans &. More
     *   Free Shipping: Budget-Friendly Rugs
-    *   Gilli
+    *   Luxe Bedding Essentials ft. Pillow Guy
+    *   Bedding, Art, Vases &. More Up to 70% Off
     *   Original Penguin Men Up to 60% Off
     *   Polo Ralph Lauren Up to 60% Off
-    *   Pink Owl
-    *   Cold Front: Wool Coats Up to 70% Off
-    *   Layer It On: Essential Tees, Sweaters &. More
-    *   Bedding, Art, Vases &. More Up to 70% Off
-    *   Champion Starting at $10
-    *   Luxe Bedding Essentials ft. Pillow Guy
+    *   Sweater Dresses ft. Solutions
+    *   Glam Galore: Dresses from Vera Wang &. More
+    *   High-Waisted Denim Starting at $25
+    *   Naked Zebra Under $40
+    *   Cotton On &. Co.
+    *   Sam Edelman Dresses &. More
+    *   Kenneth Cole New York Up to 50% Off
+    *   AXNY &. Geoffrey Beene Boys
 *   WomenShop Sale Events
     
+    *   Frye
+    *   Frye Handbags Up to 50% Off
+    *   Abound
+    *   Betsey Johnson &. Love...Ady Dresses
+    *   Papillon Up to 85% Off
+    *   Tipsy Elves
+    *   skinChemists
+    *   Royale USA Hair Tools &. More from $10
+    *   Tart Incl. Plus
+    *   CQ by CQ
+    *   Anna Beck 18K Gold &. Sterling Silver Jewelry
+    *   PJ Party: Tart &. More
+    *   Kevyn Aucoin
+    *   Seasonal Shoe Staples ft. Abound
+    *   Nanette Lepore Active
+    *   Nomad Footwear Starting at $20
+    *   Barefoot Dreams Sleep
+    *   Cashmere Shop ft. Magaschoni
+    *   Fall Sweaters Under $30 Incl. Plus &. Petites
+    *   Cozy Slippers Starting at $15
     *   Designer Sun ft. Tom Ford Up to 70% Off
     *   Moschino &. MCM Handbags &. Accessories
     *   Designer Shop: Styles Up to 70% Off
-    *   Glam Galore: Dresses from Vera Wang &. More
-    *   High-Waisted Denim Starting at $25
-    *   Barefoot Dreams Sleep
-    *   Cashmere Shop ft. Magaschoni
-    *   Sweater Dresses ft. Solutions
-    *   Fall Sweaters Under $30 Incl. Plus &. Petites
-    *   Cozy Slippers Starting at $15
     *   Brooks
+    
     *   Show Me Your Mumu Up to 70% Off
     *   TOV
     *   On Wednesdays: Pink Clothing, Shoes, Bags &. More
@@ -126,89 +138,69 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Oscar de la Renta Designer Jewelry from $70
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Trophy Skin Microdermabrasion Devices &. More
-    *   Do + Be
     *   Urban Decay Starting at $10
-    *   Naked Zebra Under $40
-    *   Cotton On &. Co.
-    
-    *   Sam Edelman Dresses &. More
     *   Dogeared Jewelry Up to 55% Off
-    *   Hidden Jeans Starting at $35
     *   Luxe Skin Care
     *   Tahitian Pearl Jewelry &. More Under $80
-    *   Kenneth Cole New York Up to 50% Off
-    *   Niko Ineko
-    *   Chase &. Chloe Under $40
-    *   Copper Fit Under $30
-    *   Work or Play: Cropped Pants Incl. Plus &. Petites
-    *   Roberto Cavalli &. More Watches Up to 50% Off
-    *   AG
-    *   Suzy Levian Jewelry
     *   Vital Proteins
     *   K-Beauty Essentials: Masks, Serums &. More
-    *   On-Trend Jewelry: ZENZII Starting at $15
     *   Terre Mere Organic Vegan Beauty Up to 65% Off
     *   Self-Care Essentials: Bath Bombs &. More
-    *   Predire Paris Luxury Skin Care
-    *   Moon and Jai Kits &. More
-    *   Gilli
-    *   Pink Owl
-    *   Cold Front: Wool Coats Up to 70% Off
-    *   Layer It On: Essential Tees, Sweaters &. More
+    *   Sweater Dresses ft. Solutions
+    *   Glam Galore: Dresses from Vera Wang &. More
+    *   High-Waisted Denim Starting at $25
+    *   Naked Zebra Under $40
+    *   Cotton On &. Co.
+    *   Sam Edelman Dresses &. More
+    *   Kenneth Cole New York Up to 50% Off
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
-    *   Handbags
-    *   Watches
+    *   Jewelry
     *   Accessories
+    *   Handbags
     *   Lingerie
-    *   Tech Accessories
 *   MenShop Sale Events
     
-    *   Designer Sun ft. Tom Ford Up to 70% Off
+    *   Frye Men
+    *   Frye Men's Accessories
+    *   Rogue Starting at $13
+    *   Men's Activewear
     *   Relax &. Unwind: Men's Sleepwear
+    *   Designer Sun ft. Tom Ford Up to 70% Off
     *   Brooks Men
     *   Men's Designer Shop
     *   Men's Designer Accessories
+    
     *   Unsimply Stitched Up to 80% Off
     *   adidas Men's Active
     *   Tailored Recreation Up to 70% Off
-    *   Roberto Cavalli &. More Watches Up to 50% Off
-    *   AG Men
-    
     *   $50 &. Under: Robert Wayne
     *   Natural Blue Up to 70% Off
     *   Hart Schaffner Marx
-    *   Men's Designer Styles Blowout
-    *   Men's Shoes Up to 65% Off
-    *   Kenneth Cole Reaction Up to 70% Off
-    *   GUESS Men Starting at $25
     *   Original Penguin Men Up to 60% Off
     *   Polo Ralph Lauren Up to 60% Off
-    *   Champion Starting at $10
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
-    *   Watches
+    *   Shoes
 *   KidsShop Sale Events
     
+    *   Schylling Toys Starting at $8
+    *   Melissa &. Doug: Favorite Finds Starting at $8
+    *   Transition to Fall: Dolce Vita Girls
     *   Snuggle Up: Kids' Character PJs
     *   Great Gifts Featuring Dr. Seuss &. More
     *   Ready for Fall: Peppercorn Kids
+    
     *   Cool Kicks ft. Naturino
     *   Little Giraffe &. More
     *   Me Too &. Minymo
-    
     *   Fall Favorites for Girls Under $25
     *   Fall Favorites for Boys Under $25
-    *   aden + anais
     *   AXNY &. Geoffrey Beene Boys
-    *   Geox Kids
-    *   AG Kids
     
     Shop By Category
     *   Boys Sizes 2T-7
@@ -217,29 +209,29 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Girls Sizes 7-16
     *   Toys
     *   Girls' Shoes
-    *   Baby Gear &. Essentials
     *   Baby Girl
-    *   Boys' Shoes
+    *   Baby Gear &. Essentials
     *   Baby Boy
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Essential Solid Sheet Sets
+    *   Easy Upgrades: Jewelry Organizers &. More
     *   Go Retro: Orla Kiely Cookware &. Stationery
     *   Free Shipping: Rustic Wooden Signs &. More
     *   Le Creuset
     *   Free Shipping: Barware, Dinnerware &. More
     *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Charming Fall Decor from $10
+    
     *   Free Shipping: Glam Accent Furniture
     *   Cozy Bedding Essentials
-    
     *   Free Shipping: Accent Wall Must-Haves
     *   Free Shipping: Luxe Faux Fur Pillows &. Throws
     *   Free Shipping: Quilts, Comforters &. More
-    *   Free Shipping: Ultra-Soft Towels from $10
-    *   Baking Stars: Essential Pans &. More
     *   Free Shipping: Budget-Friendly Rugs
-    *   Bedding, Art, Vases &. More Up to 70% Off
     *   Luxe Bedding Essentials ft. Pillow Guy
+    *   Bedding, Art, Vases &. More Up to 70% Off
     
     Shop By Category
     *   Home Decor
@@ -247,12 +239,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bedding
     *   Accent Furniture
     *   Rugs
-    *   Bath
+    *   Storage &. Cleaning
     *   Luggage &. Travel
     *   Outdoor Living
-    *   Storage &. Cleaning
+    *   Bath
 *   BeautyShop Sale Events
     
+    *   skinChemists
+    *   Royale USA Hair Tools &. More from $10
+    *   Kevyn Aucoin
     *   Trophy Skin Microdermabrasion Devices &. More
     *   Urban Decay Starting at $10
     *   Luxe Skin Care
@@ -260,12 +255,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   K-Beauty Essentials: Masks, Serums &. More
     *   Terre Mere Organic Vegan Beauty Up to 65% Off
     *   Self-Care Essentials: Bath Bombs &. More
-    *   Predire Paris Luxury Skin Care
-    *   Moon and Jai Kits &. More
     
     Shop By Category
     *   Skin Care
     *   Makeup
+    *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Nails
