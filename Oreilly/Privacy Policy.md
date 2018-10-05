@@ -48,7 +48,7 @@ See all About O’Reilly
 *   Tim O'Reilly
 *   Editorial Independence
 
-Privacy Policy This version (Version 4.0) is effective as of May 25, 2018.
+Privacy Policy This version (Version 4.1) is effective as of October 4, 2018.
 
 *   Overview
 *   About Us
@@ -101,6 +101,26 @@ privacy@oreilly.com
 The contact information above should also be used for communications relating to exercising the rights described in section 6.2 below.
 
 If we do not resolve your question or concern satisfactorily, then please contact our U.S.-based third party dispute resolution providers (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+Our EU Representative: As we, O'Reilly Media, Inc. and Safari Books Online, LLC, are not established in the EU, we have appointed O'Reilly UK Limited as our EU representative whom you may contact if you are located in the EU to raise any issues or queries you have have relating to our processing of your personal information and/or this Privacy Policy more generally. Our EU representative's contact details are:
+
+FAO
+
+Data Protection Manager
+
+Address
+
+O'Reilly UK Limited, 5 St George's Yard, Farnham, Surrey, GU9 7LW, UK
+
+Email
+
+privacy@oreilly.com
+
+Phone
+
++44 (0) 1252 721284
+
+If you prefer, you can of course always contact us using our US contact details set out above.
 
 1\. Information We Collect
 
@@ -179,7 +199,7 @@ We need to have further justification for collecting, storing and using this typ
 For example, we will collect special categories of information:
 
 *   when you apply to work for us (for diversity and equal opportunities records, to support your needs and facilitate access to our premises, and to carry out background checks);
-*   when you attend our events, visit our premises, or apply for a scholarship from us (to improve racial balance at our events, to make any necessary arrangements for your attendance, and to investigate claims about breaches of our Conference Code of Conduct).
+*   when you attend our events, visit our premises, or apply for a scholarship from us (to improve racial balance at our events), to make any necessary arrangements for your attendance, and to investigate claims about breaches of our Conference Code of Conduct.
 
 In limited circumstances, we may request your written consent to allow us to use certain particularly sensitive data. If we do so, we will provide you with full details of the information that we would like and the reason we need it, so that you can carefully consider whether you wish to consent.
 
@@ -346,7 +366,11 @@ California law requires us to let you know how we respond to web browser Do Not 
 
 Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your consent. If we make any material changes we will notify you by email or by means of a notice on this website prior to the change becoming effective. You can also view prior versions of the Policy by viewing the links in section 11 below.
 
-11\. Previous Versions of the Privacy Policy 11.1 O'Reilly privacy policies
+11\. Previous Versions of the Privacy Policy 11.1 O'Reilly and Safari privacy policies
+
+Click here for version 4.0
+
+11.2 O'Reilly privacy policies
 
 Click here for version 2.1
 
@@ -354,13 +378,13 @@ Click here for version 2.0
 
 Click here for version 1.1
 
-11.2 O'Reilly School of Technology privacy policies
+11.3 O'Reilly School of Technology privacy policies
 
 Click here for version 2.1
 
 Click here for version 2.0
 
-11.3 Safari privacy policies
+11.4 Safari privacy policies
 
 Click here for version 3.4
 
