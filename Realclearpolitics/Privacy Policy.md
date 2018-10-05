@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Patricia Murphy_: Senate Already Went Nuclear. This Must Be Nuclear Plus
+*   _Andrew Desiderio_: Kavanaugh's Chances Improve After FBI Probe
     
-*   _Rich Lowry_: Do Today's Liberals Think Atticus Finch Was a Villain?
+*   _Michael Mukasey_: On the Question of Judicial Temperament
     
-*   _Howell Raines_: Court Battle Underscores Sexism of Senate Republicans
+*   _Haley Sweetland Edwards_: How Christine Ford's Testimony Changed America
     
-*   _Jenna Ellis_: No, It's Not Sexist to Support Kavanaugh's Confirmation
+*   _Bret Stephens_: For Once, I'm Grateful for Trump
     
-*   _Laura McGann_: Kavanagh Wants Us to Forget His Yearbook Jokes. I Don't.
+*   _Domenico Montanaro_: Amid Kavanaugh Battle, Dem Enthusiasm Edge Vanishes
     
-*   _Sally Persons_: Why a Loss on Kavanaugh Could Mean Win on Nov. 6
+*   _Jennifer Rubin_: GOP's Misogyny Will Come Back to Haunt Them
     
-*   _F.H. Buckley_: NAFTA 2.0 Is Just a Warmup to Trump's Bout With China
+*   _Ellie Bufkin_: Conservative Women Will Make Dems Pay In November
     
-*   _Flores-Macias &. Sanchez-Talanquer_: Worse Than Nafta
+*   _Jonathan Alter_: If Dems Lose Again, Obama's Legacy Is Gone Forever
     
-*   _Krishnadev Calamur_: World Might Protest, But Trump Is Winning on Trade
+*   _Kelley Paul_: Dear Cory Booker: Please Condemn Political Violence
     
-*   _Ryan Lizza_: Is Nunes's Family Farm Hiding a Politically Explosive Secret?
+*   _Steve Gruber_: New Drinking Water Crisis Dwarfs Flint Tragedy
     
-*   _Mollie Hemingway_: Lizza's Hit Piece on Nunes Family Is Deeply Flawed
+*   _Robertson &. Riley_: How China Used a Tiny Chip to Infiltrate U.S. Companies
     
-*   _Tom Coburn_: 1st Principles Are at Stake in Kavanaugh Confirmation
+*   _Sohrab Ahmari_: Dems' Smear Against Kavanaugh Is Energizing the Right
     
-*   _Anna North_: What Kavanaugh Defenders Get Wrong About Women's Anger
+*   _Madeleine Aggeler_: The New Era of Confrontation
     
-*   _Joy Pullmann_: Women Are Not Too Weak or Emotional to Bypass Evidence
+*   _Victor Davis Hanson_: The Campus Comes to Congress
     
-*   _Erwin Chemerinsky_: A Very Tarnished Court
+*   _Margaret Carlson_: Welcome to the White Male Grievance Backlash Parade
     
-*   _Jim Tankersley_: Trump Just Ripped Up Nafta. Here's What's in the New Deal
+*   _Roger Kimball_: The Case Against Kavanaugh Disintegrates
     
-*   _Christian Whiton_: A Turning Point in Global Trade &. U.S. Economic Power
+*   _Tim Reid_: In N. Dakota, Kavanaugh Fight Tests Blue Wave - and #MeToo
     
-*   _David Rothkopf_: A Trumped-Up New Trade Deal
+*   _Salena Zito_: Red Ripples Amid Talk of a Blue Wave
     
-*   _Elaine Parker_: Women Are Winning in the Trump Economy
+*   _Maya Kosoff_: Will Anti-Trump Millennials Actually Turn Up to Vote?
     
-*   _Neil Young_: Why Women Will Abandon Republicans in the Midterms
+*   _A.B. Stoddard_: More Independents in the Senate - Please
     
-*   _Star Parker_: Why the Blue Wave Is Likely to Be a Mere Ripple
+*   _Clare Malone_: Yes, Dems Really Could Lose That Senate Seat in NJ
     
-*   _Robert Kuttner_: What Democrats Should Do If They Win the House
+*   _Cal Thomas_: Trump Promised to Put America First. He Wasn't Kidding
     
-*   _James Piereson_: Citizenship and the Census
+*   _Mary Dejevsky_: Threats &. Lovebombs: Trump's Unorthodox Style
     
-*   _James Gagliano_: The Insufferable Hypocrisy of James Comey's Act II
+*   _Brian Carney_: To Accelerate Trump's Boom, Rein In Proxy Advisors
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Boosts Blackburn in TN, Predicts Havoc If Dems Take Congress
-*   Canada and U.S. Reach Trade Deal to Revamp NAFTA
-*   ACLU Ad Compares Kavanaugh to Clinton, Cosby, Weinstein
-*   In WV, Trump Uses Supreme Court Fight as Rallying Cry for Midterms
-*   Sizing Up the Montana Senate Race
+*   McConnell Sets Friday Test Vote on Kavanaugh Nomination
+*   Gingrich: Republicans Need a 2018 Contract With America
+*   Graham: Republican of the Year Will Be a Dem--They United This Party
+*   Why a Loss on Kavanaugh Could Mean a Win on Nov. 6
+*   Trump Says It's a "Scary Time" for Young Men Facing False Charges
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Florida Governor - DeSantis vs. GillumMason-Dixon\*
-    *   Gillum45
-    *   DeSantis44Gillum +1
-*   Florida Senate - Scott vs. NelsonWCTV-TV
-    *   Nelson45
-    *   Scott44Nelson +1
-*   West Virginia Senate - Morrisey vs. ManchinWSAZ-TV\*
-    *   Manchin46
-    *   Morrisey38Manchin +8
-*   North Dakota Senate - Cramer vs. HeitkampNBC Valley News
-    *   Cramer51
-    *   Heitkamp41Cramer +10
+*   California 10th District - Denham vs. HarderBerkeley IGS
+    *   Harder50
+    *   Denham45Harder +5
+*   California 22nd District - Nunes vs. JanzBerkeley IGS
+    *   Nunes53
+    *   Janz45Nunes +8
+*   California 25th District - Knight vs. HillBerkeley IGS
+    *   Hill50
+    *   Knight46Hill +4
+*   California 39th District - Kim vs. CisnerosBerkeley IGS
+    *   Cisneros49
+    *   Kim48Cisneros +1
 
 More Latest Polls In The News
 
-*   Booker: Doesn't Matter If Kavanaugh Is "Innocent Or Guilty," Trump Should Nominate Someone Else
-*   Turley: Most People Believe Kavanaugh Allegations Were "Held To The Last Minute Right Before A Vote"
-*   Sen. Graham: NBC A "Co-Conspirator" In The Destruction Of Kavanaugh. A Ballot Box Issue
+*   Victor Davis Hanson: Dr. Christine Blasey Ford's Story Has "Collapsed". She Gave "One Too Many Narratives"
+*   Dem Sen. Coons: Without Jeff Flake, Kavanaugh Would Have Been Seated On The Supreme Court By Now
+*   Dershowitz: Kavanaugh Dispute Reminds Me Of When People Had To Prove They're Not Communists
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Sen. Kennedy on Kavanaugh FBI Probe: If You Think This Is About The Truth, "Put Down The Bong"
+*   Booker: Doesn't Matter If Kavanaugh Is "Innocent Or Guilty," Trump Should Nominate Someone Else
 
 *   Politics
 *   Policy
