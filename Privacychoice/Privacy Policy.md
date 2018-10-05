@@ -23,7 +23,6 @@ OK Log in to AVG MyAccount Blog MENU Skip to content Close
     *   AVG Secure VPN for Mac
     *   All products
 *   Mobile
-    *   **Android Apps for Mobile and Tablet**
     *   AVG AntiVirus for Android
     *   AVG Cleaner for Android
     *   AVG Secure VPN for Android
@@ -35,7 +34,6 @@ OK Log in to AVG MyAccount Blog MENU Skip to content Close
     *   AVG AntiVirus Business Edition
     *   AVG File Server Business Edition
     *   AVG PC TuneUp Business Edition
-    *   AVG AntiVirus for Android - Business
     *   AVG Business AntiVirus for Mac
     *   Compare products
 *   Services
@@ -43,14 +41,15 @@ OK Log in to AVG MyAccount Blog MENU Skip to content Close
     *   Remote Virus Removal
     *   Express Install
 *   Support
-    *   Home product support
-    *   Product downloads &. updates
-    *   FREE support for AVG home products
-    *   Remote Tech Support
-    *   Support for partner products
-    *   Contact us for partner support
-    *   Support for business products
-    *   Contact us for business support
+    *   Home products
+    *   Home Support
+    *   Premium Tech Support
+    *   Installation Files
+    *   Partner Products
+    *   Partner Support &. Contact
+    *   Business Products
+    *   Business Support &. Contact
+    *   Installation Files
 
 Log in to AVG MyAccount Blog English This domain is registered and owned by AVG Technologies
 
