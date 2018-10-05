@@ -27,7 +27,7 @@ VH1 MenuVH1
 Privacy Policy And Your California Privacy Rights
 
 **Last Modified: September 28, 2018**  
-(See the Legal Updates Summary to learn more)
+(See the **Legal Updates Summary** to learn more)
 
   
 
