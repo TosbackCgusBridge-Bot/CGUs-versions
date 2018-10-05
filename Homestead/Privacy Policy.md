@@ -7,7 +7,6 @@ Navigation:
     *   Design Templates
     *   Get a Domain
 *   Sell Online
-    *   Advanced Store
 *   Get Traffic
     *   Overview
     *   SEO Services
@@ -58,7 +57,6 @@ Your 30-day free trial period begins when you click on "Click Here to Finish" du
     *   Plans &. Pricing
 *   Sell Online
     *   Simple Store
-    *   Advanced Store
 *   Get Traffic
     *   SEO Services
     *   Paid Search Ads
