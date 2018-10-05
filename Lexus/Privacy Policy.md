@@ -37,16 +37,8 @@ MENU **IS**
 
 **GS**
 
-*   Starting at $46,5102\*
+*   Starting at $46,6102\*
 *   2.0L I-4 or 3.5L V6
-
-*   Build
-*   Current Offers
-
-**GS HYBRID**
-
-*   Starting at $63,6352\*
-*   338 TOTAL SYSTEM HP4\*
 
 *   Build
 *   Current Offers
@@ -145,7 +137,7 @@ COMPARE **RC**
 
 **LC**
 
-*   Starting at $92,0001\*
+*   Starting at $92,2002\*
 *   471-HP4\* 5.0L V8
 
 *   Build
@@ -153,7 +145,7 @@ COMPARE **RC**
 
 **LC HYBRID**
 
-*   Starting at $96,5101\*
+*   Starting at $96,7102\*
 *   354 TOTAL SYSTEM HP4\*
 
 *   Build
@@ -185,14 +177,6 @@ COMPARE **NX HYBRID**
 *   Build
 *   Current Offers
 
-**GS HYBRID**
-
-*   Starting at $63,6352\*
-*   338 TOTAL SYSTEM HP4\*
-
-*   Build
-*   Current Offers
-
 **LS HYBRID**
 
 *   Starting at $79,7101\*
@@ -203,7 +187,7 @@ COMPARE **NX HYBRID**
 
 **LC HYBRID**
 
-*   Starting at $96,5101\*
+*   Starting at $96,7102\*
 *   354 TOTAL SYSTEM HP4\*
 
 *   Build
@@ -229,7 +213,7 @@ COMPARE **RC F**
 
 **LC**
 
-*   Starting at $92,0001\*
+*   Starting at $92,2002\*
 *   471-HP4\* 5.0L V8
 
 *   Build
@@ -237,7 +221,7 @@ COMPARE **RC F**
 
 **LC HYBRID**
 
-*   Starting at $96,5101\*
+*   Starting at $96,7102\*
 *   354 TOTAL SYSTEM HP4\*
 
 *   Build
