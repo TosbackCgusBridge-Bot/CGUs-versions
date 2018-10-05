@@ -66,7 +66,6 @@
     *   Thanksgiving Gifts
     
     Occasions*   Halloween
-    *   College Gifting
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -150,7 +149,6 @@
     *   Thanksgiving Gifts
     
     Occasions*   Halloween
-    *   College Gifting
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
