@@ -1,4 +1,4 @@
-*   IND1-3NE2-2Thu, 8:20 pm ET
+*   IND1-424NE3-238Final
 *   TEN3-1BUF1-3Sun, 1:00 pm ET
 *   NYG1-3CAR2-1Sun, 1:00 pm ET
 *   MIA3-1CIN3-1Sun, 1:00 pm ET
@@ -30,7 +30,7 @@
 *   NFL Network
 *   Photos
 
-*   IND1-3NE2-2Thu, 8:20 pm ET
+*   IND24NE38Final
 *   TEN3-1BUF1-3Sun, 1:00 pm ET
 *   NYG1-3CAR2-1Sun, 1:00 pm ET
 *   MIA3-1CIN3-1Sun, 1:00 pm ET
