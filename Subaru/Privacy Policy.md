@@ -135,11 +135,11 @@ Up to
 
 Ascent Limited shown
 
-BRZ $25,595\* starting price 2018 BRZ
+BRZ $25,795\* starting price 2019 BRZ
 
 Starting at
 
-$25,595 MSRP
+$25,795 MSRP
 
 Up to
 
