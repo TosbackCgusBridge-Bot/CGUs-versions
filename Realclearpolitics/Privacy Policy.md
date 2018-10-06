@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Andrew Desiderio_: Kavanaugh's Chances Improve After FBI Probe
+*   _Amy Walter_: The War That Never Ends
     
-*   _Michael Mukasey_: On the Question of Judicial Temperament
+*   _Patricia Murphy_: This Was a Manufactured Hoax From the Outset
     
-*   _Haley Sweetland Edwards_: How Christine Ford's Testimony Changed America
+*   _Suzanne Moore_: Women's Anger Will Be Unstoppable If Kavanaugh Prevails
     
-*   _Bret Stephens_: For Once, I'm Grateful for Trump
+*   _Emily Yoffe_: Kavanaugh and the Problem With #BelieveSurvivors
     
-*   _Domenico Montanaro_: Amid Kavanaugh Battle, Dem Enthusiasm Edge Vanishes
+*   _Peter Hamby_: The Swift Boating of the Supreme Court
     
-*   _Jennifer Rubin_: GOP's Misogyny Will Come Back to Haunt Them
+*   _Adele Scalia_: I'm Voting Republican Over Dems' Treatment of Kavanaugh
     
-*   _Ellie Bufkin_: Conservative Women Will Make Dems Pay In November
+*   _Sean Trende_: Sizing Up the New Jersey Senate Race
     
-*   _Jonathan Alter_: If Dems Lose Again, Obama's Legacy Is Gone Forever
+*   _William Frey_: Trump Can't Win the War on Demography
     
-*   _Kelley Paul_: Dear Cory Booker: Please Condemn Political Violence
+*   _Roger Simon_: Kanye's Not Alone: Blacks Are Deserting the Democrats
     
-*   _Steve Gruber_: New Drinking Water Crisis Dwarfs Flint Tragedy
+*   _Lucian Truscott_: Kavanaugh, the Poster Boy for Toxic Privilege
     
-*   _Robertson &. Riley_: How China Used a Tiny Chip to Infiltrate U.S. Companies
+*   _Kimberley Strassel_: Kavanaugh: An Easy Vote
     
-*   _Sohrab Ahmari_: Dems' Smear Against Kavanaugh Is Energizing the Right
+*   _Brett Kavanaugh_: I Am an Independent, Impartial Judge
     
-*   _Madeleine Aggeler_: The New Era of Confrontation
+*   _Michelle Goldberg_: GOP to Ram Kavanaugh Through Over Women's Objections
     
-*   _Victor Davis Hanson_: The Campus Comes to Congress
+*   _Stephanie Gutmann_: Conservative Women Furious Over Smear of Kavanaugh
     
-*   _Margaret Carlson_: Welcome to the White Male Grievance Backlash Parade
+*   _Ludington_: We Drank With Kavanaugh. Don't Confirm Him
     
-*   _Roger Kimball_: The Case Against Kavanaugh Disintegrates
+*   _L. Lin Wood_: Advice to Judge Kavanaugh: Sue. Them. All.
     
-*   _Tim Reid_: In N. Dakota, Kavanaugh Fight Tests Blue Wave - and #MeToo
+*   _Sally Kohn_: THIS Is What Democracy Looks Like
     
-*   _Salena Zito_: Red Ripples Amid Talk of a Blue Wave
+*   _Adriana Cohen_: The #MeToo Mob &. Our Judicial System
     
-*   _Maya Kosoff_: Will Anti-Trump Millennials Actually Turn Up to Vote?
+*   _Christina Cauterucci_: How Christine Blasey Ford Changed Everything
     
-*   _A.B. Stoddard_: More Independents in the Senate - Please
+*   _Stuart Taylor Jr._: Christine Blasey Ford and the Implanted Memory Theory
     
-*   _Clare Malone_: Yes, Dems Really Could Lose That Senate Seat in NJ
+*   _Barton Swaim_: Lindsey Graham's Righteous Rage
     
-*   _Cal Thomas_: Trump Promised to Put America First. He Wasn't Kidding
+*   _Bill Schneider_: Defiance, Division &. 'Me Too' Lurch Toward 2020 Reckoning
     
-*   _Mary Dejevsky_: Threats &. Lovebombs: Trump's Unorthodox Style
+*   _Erick Erickson_: I'm a Never-Trumper, and I'm Voting for Trump in 2020
     
-*   _Brian Carney_: To Accelerate Trump's Boom, Rein In Proxy Advisors
+*   _David Ignatius_: Trump's Bullying Tactics With Iran Could Backfire
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   McConnell Sets Friday Test Vote on Kavanaugh Nomination
-*   Gingrich: Republicans Need a 2018 Contract With America
-*   Graham: Republican of the Year Will Be a Dem--They United This Party
+*   At MN Rally, Trump Slams Democrats for "Rage-Fueled Resistance"
+*   Democrats Embrace Obamacare in Tough Senate Races
+*   Hanson: Ford's Story Collapsed, She Gave One Too Many Narratives
 *   Why a Loss on Kavanaugh Could Mean a Win on Nov. 6
-*   Trump Says It's a "Scary Time" for Young Men Facing False Charges
+*   Gingrich: Republicans Need a 2018 Contract With America
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,6 +243,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   North Carolina 9th District - Harris vs. McCreadyNY Times/Siena
+    *   Harris47
+    *   McCready42Harris +5
 *   California 10th District - Denham vs. HarderBerkeley IGS
     *   Harder50
     *   Denham45Harder +5
@@ -252,17 +255,14 @@ Latest PollsAll Polls
 *   California 25th District - Knight vs. HillBerkeley IGS
     *   Hill50
     *   Knight46Hill +4
-*   California 39th District - Kim vs. CisnerosBerkeley IGS
-    *   Cisneros49
-    *   Kim48Cisneros +1
 
 More Latest Polls In The News
 
+*   Sen. Collins Supports Kavanaugh: We Will Be Ill-Served If We Abandon The Presumption Of Innocence
+*   Mary Matalin: "Nothing Short Of A Miracle" What Trump Has Done In The Face Of Constant Thwarting &. Virulent Attacks
 *   Victor Davis Hanson: Dr. Christine Blasey Ford's Story Has "Collapsed". She Gave "One Too Many Narratives"
-*   Dem Sen. Coons: Without Jeff Flake, Kavanaugh Would Have Been Seated On The Supreme Court By Now
-*   Dershowitz: Kavanaugh Dispute Reminds Me Of When People Had To Prove They're Not Communists
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Booker: Doesn't Matter If Kavanaugh Is "Innocent Or Guilty," Trump Should Nominate Someone Else
+*   Dershowitz: Kavanaugh Dispute Reminds Me Of When People Had To Prove They're Not Communists
 
 *   Politics
 *   Policy
