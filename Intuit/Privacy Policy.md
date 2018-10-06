@@ -15,9 +15,7 @@ Near YouFind a StoreBackUP TO 50% OFF WINDOW SALEShop AllSELECT STYLESUP TO 50% 
 
 *   BIG BUY!
     
-    from$1199 sale
-    
-    was $40 - $90 JCPenney Home™ Aurora Blackout Grommet-Top Curtain Panel(47)Add To Cart
+    from$959after couponwas $40 - $90 JCPenney Home™ Aurora Blackout Grommet-Top Curtain Panel(47)Add To Cart
 *   BIG BUY!
     
     from$1199after couponwas $50 - $100 JCPenney Home™ Jenner Cotton Grommet-Top Thermal Curtain Panel(98)Add To Cart
