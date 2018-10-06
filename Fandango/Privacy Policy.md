@@ -29,6 +29,7 @@ Gift Cards | Offers | Sign In Sign Out
     *   Over the Limit
     *   Shine (2018)
     *   Studio 54
+    *   Trouble (2018)
     *   See All Opening This Week
     
     Coming Soon
@@ -69,9 +70,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Tiffany Haddish Movies: 'The Oath,' 'Nobody's Fool,' 'The Kitchen' Read More
-    *   Watch Taron Egerton as Elton John in First 'Rocketman' Teaser. Here's Everything We Know Read More
-    *   'Wonder Woman' Star Gal Gadot Joins 'Death on the Nile'. Here's Everything We Know Read More
+    *   Exclusive: Drew Goddard Gives Updates on ‘X-Force’ and ‘Cabin in the Woods 2’ Read More
+    *   Interview: 'Venom' Producers Avi Arad and Matt Tolmach on Building a New Universe of Big-Screen Antiheroes Read More
+    *   Watch Exclusive 'The Old Man and the Gun' Featurette: Sundance Kids Reunited Read More
     
     Explore Content
     *   Movie Reviews
@@ -315,21 +316,17 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'The Predator' Gift with Purchase
+*   'Halloween' Gift with Purchase
     
-    Buy tickets to 'The Predator' and get a FREE\* Predator digital comic-book with ticket purchase. BUY TICKETS
-    
-*   'Venom' Gift with Purchase
-    
-    Buy tickets to 'Venom' and get a FREE\* mask with ticket purchase (S&H not included). BUY TICKETS
-    
-*   FandangoNOW Fresh Picks: October
-    
-    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    Pre-order your 'Halloween' tickets and get a download of the Halloween Theme song for free! BUY TICKETS
     
 *   FandangoNOW Binge Bundles
     
     Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
+    
+*   Fandango VIP
+    
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 
 New + Coming soon
