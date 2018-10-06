@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu events in October ›
 *   Ubuntu at GTC Europe 2018 ›
 *   How mir-kiosk enables a graphical IoT using Mir ›
 *   Fing: future-proofing Fingbox the IoT home network monitoring device ›
 *   Ubuntu Server development summary – 2 Oct 2018 ›
-*   How to build and deploy your first AI/ML model on Ubuntu ›
