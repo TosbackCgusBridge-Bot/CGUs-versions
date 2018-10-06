@@ -3,11 +3,11 @@
 *   games
 *   videos
 
-New Games Next in  20:47 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  xx:xx Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 20:47
+*   New Games Next in xx:xx
 *   Best of new games 1434 games
-*   Most Popular Games 18029 games
+*   Most Popular Games 18032 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -15,24 +15,24 @@ New Games Next in  20:47 Categories &. more Hi there! Did you know there is a Y
 CATEGORIES
 
 *   Games for girls 23,205 games
-*   Driving &. Racing Games 6,679 games
-*   Strategy &. RPG Games 2,384 games
+*   Driving &. Racing Games 6,680 games
+*   Strategy &. RPG Games 2,385 games
 *   Management Games 3,645 games
-*   Thinking Games 11,698 games
-*   Action &. Adventure Games 15,687 games
+*   Thinking Games 11,701 games
+*   Action &. Adventure Games 15,689 games
 *   Sports Games 2,110 games
-*   Shooting Games 8,159 games
+*   Shooting Games 8,161 games
 *   Fighting Games 2,079 games
-*   Skill Games 10,325 games
-*   Arcade &. Classic Games 12,611 games
+*   Skill Games 10,336 games
+*   Arcade &. Classic Games 12,614 games
 *   Fun &. Crazy Games 2,433 games
 
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 1,635 Y8 High Score Games 1,009 Y8 Achievements Games 774 Y8 Screenshots Games 1,317 Y8 Online Save Games 2,660 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 1,635 Y8 High Score Games 1,009 Y8 Achievements Games 774 Y8 Screenshots Games 1,317 Y8 Online Save Games 2,672 All Y8 Games Games Last Highscore:
 
-**12,330** points on Crime City 3D by rivera
+**50** points on Dungeon Clicker by few
 
-Help us improve Bad translation? Social
+Help us improve Bad translation? Social Share889K
 
 *   Contact Form
 *   Submit a Game or Video
@@ -266,4 +266,4 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Privacy Policy
 *   Cookie Policy
 
-We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
+Share889K We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
