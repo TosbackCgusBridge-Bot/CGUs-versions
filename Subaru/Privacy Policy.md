@@ -1,5 +1,3 @@
-We have updated our privacy policy. Read it hereclose X
-
       Confirm Your Location
 
 We'd like to show you nearby Subaru retailers, special offers, pricing, and vehicle inventory that are available in your area.
