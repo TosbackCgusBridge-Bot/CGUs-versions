@@ -264,4 +264,6 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy
+Attn: Website Privacy Policy  
+
+  We use our own and thrid-party cookies to improve your experience and our services. By continuing and using the site, including by remaning on the landing page, you consent to the use of cookies. Click here for information on our **Cookie Policy.**GOT IT
