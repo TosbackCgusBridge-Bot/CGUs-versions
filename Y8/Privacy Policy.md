@@ -3,34 +3,34 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  23:58 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in xx:xx
+*   New Games Next in 23:58
 *   Best of new games 1434 games
-*   Most Popular Games 18032 games
+*   Most Popular Games 18042 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,205 games
-*   Driving &. Racing Games 6,680 games
+*   Games for girls 23,209 games
+*   Driving &. Racing Games 6,682 games
 *   Strategy &. RPG Games 2,385 games
 *   Management Games 3,645 games
-*   Thinking Games 11,701 games
-*   Action &. Adventure Games 15,689 games
+*   Thinking Games 11,704 games
+*   Action &. Adventure Games 15,693 games
 *   Sports Games 2,110 games
-*   Shooting Games 8,161 games
+*   Shooting Games 8,162 games
 *   Fighting Games 2,079 games
-*   Skill Games 10,336 games
-*   Arcade &. Classic Games 12,614 games
+*   Skill Games 10,344 games
+*   Arcade &. Classic Games 12,617 games
 *   Fun &. Crazy Games 2,433 games
 
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 1,635 Y8 High Score Games 1,009 Y8 Achievements Games 774 Y8 Screenshots Games 1,317 Y8 Online Save Games 2,672 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 1,635 Y8 High Score Games 1,009 Y8 Achievements Games 774 Y8 Screenshots Games 1,317 Y8 Online Save Games 2,680 All Y8 Games Games Last Highscore:
 
-**50** points on Dungeon Clicker by few
+**23,361** points on Cover Orange Players Pack 2 by tomygreatest
 
 Help us improve Bad translation? Social Share889K
 
