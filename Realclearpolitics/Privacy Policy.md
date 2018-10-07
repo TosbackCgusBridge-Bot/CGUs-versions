@@ -109,6 +109,10 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Nancy Jacobson_: The Exit Strategy for Our Careening, Caustic Politics
+    
+*   _David Brady_: Polls: Opinions on Kavanaugh Grew More Entrenched
+    
 *   _Amy Walter_: The War That Never Ends
     
 *   _Patricia Murphy_: This Was a Manufactured Hoax From the Outset
@@ -152,10 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Barton Swaim_: Lindsey Graham's Righteous Rage
     
 *   _Bill Schneider_: Defiance, Division &. 'Me Too' Lurch Toward 2020 Reckoning
-    
-*   _Erick Erickson_: I'm a Never-Trumper, and I'm Voting for Trump in 2020
-    
-*   _David Ignatius_: Trump's Bullying Tactics With Iran Could Backfire
     
 
 *   Previous
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Sen. Collins Supports Kavanaugh: We Will Be Ill-Served If We Abandon The Presumption Of Innocence
-*   Mary Matalin: "Nothing Short Of A Miracle" What Trump Has Done In The Face Of Constant Thwarting &. Virulent Attacks
-*   Victor Davis Hanson: Dr. Christine Blasey Ford's Story Has "Collapsed". She Gave "One Too Many Narratives"
+*   McConnell: Senate Rules "Not Irreparably Damaged" Despite "Nasty" Kavanaugh Fight
+*   President Trump: Extra Week Turned Out "Really Good" For Kavanaugh. "He Looks Really Good"
+*   Bill Maher: Liberals Must Stop Chasing Conservatives Out Of Restaurants. Electoral College "Rigged" For Republicans
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Dershowitz: Kavanaugh Dispute Reminds Me Of When People Had To Prove They're Not Communists
+*   Mary Matalin: "Nothing Short Of A Miracle" What Trump Has Done In The Face Of Constant Thwarting &. Virulent Attacks
 
 *   Politics
 *   Policy
