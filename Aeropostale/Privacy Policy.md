@@ -241,7 +241,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**UP TO $25 OFF $100** USE CODE **SAVEMORE** **50-70% OFF + FREE SHIPPING OVER $50**
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **UP TO $25 OFF $100** USE CODE **SAVEMORE** **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -444,28 +444,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Excludes Clearance Shop Girls Shop Guys Get In Store Coupon Shop Girls Shop Guys Shop Girls Hoodies Shop Guys Hoodies Shop Girls Joggers &. Sweats Shop Guys Joggers &. Sweats Shop Girls Jeans Shop Guys Jeans Shop Girls Tribe Of Tees Shop Guys Long Sleeve Shop Girls Tees Shop Guys Tees Shop Girls Polos Shop Guys Polos Shop Girls Clearance Shop Guys Clearance Learn More More Ways  
-to Shop SHOP GIRLS  
-GRAPHICS SHOP GUYS  
-GRAPHICS SHOP GIRLS  
-JEANS SHOP GUYS  
-JEANS SHOP GIRLS  
-HOODIES SHOP GUYS  
-HOODIES SHOP GIRLS  
-NEW ARRIVALS SHOP GUYS  
-NEW ARRIVALS SHOP GIRLS  
-ACCESSORIES SHOP GUYS  
-ACCESSORIES More Ways to Shop SHOP GIRLS  
-GRAPHICS SHOP GIRLS  
-JEANS SHOP GIRLS  
-HOODIES SHOP GIRLS  
-NEW ARRIVALS SHOP GIRLS  
-ACCESSORIES SHOP GUYS  
-GRAPHICS SHOP GUYS  
-JEANS SHOP GUYS  
-HOODIES SHOP GUYS  
-NEW ARRIVALS SHOP GUYS  
-ACCESSORIES <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Excludes Clearance Shop Girls Shop Guys Get In Store Coupon Shop Girls Shop Guys Shop Girls Hoodies Shop Guys Hoodies Shop Girls Joggers &. Sweats Shop Guys Joggers &. Sweats Shop Girls Jeans Shop Guys Jeans Shop Girls Tribe Of Tees Shop Guys Long Sleeve Shop Girls Tees Shop Guys Tees Shop Girls Polos Shop Guys Polos Shop Girls Clearance Shop Guys Clearance Learn More <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions Details FOLLOW US Customer Care
 
 *   Order Status
@@ -502,17 +481,3 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
