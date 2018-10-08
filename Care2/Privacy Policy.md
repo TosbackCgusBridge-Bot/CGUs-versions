@@ -1,12 +1,12 @@
 **Privacy Policy**
 
-_Last Updated: 2017-10-19_
+_Last Updated: 2018-10-07_
 
 Care2.com (“Care2″) takes seriously the issue of safeguarding your privacy online. This privacy policy applies to the two websites owned and operated by Care2: Care2.com and ThePetitionSite.com. This privacy policy describes how Care2 collects and uses the personal information you provide on both websites.
 
 Residents of the EU can see the Care2 GDPR privacy policy and the Care2 EU-US Privacy Shield policy.
 
-When visiting a website displaying the TRUSTe Trustmark, you will be notified of what personally identifiable information of yours is collected:
+When visiting our website, you will be notified of what personally identifiable information of yours is collected:
 
 *   The organization collecting the information;
 *   How the information is used;
@@ -39,7 +39,7 @@ Advertising:
 
 Care2′s goal in collecting personal and demographic information is to provide our members with the most personalized web experience possible and to provide our advertisers with an efficient means to reach the right audience. By knowing about you, Care2 can deliver more relevant content and advertisements (e.g. banner ads), and hence better service, to you. In delivering targeted online advertisements, Care2 plays the middleman. Advertisers give us an ad and tell us the type of audience they want to reach (e.g. females over 35). Care2 or one of our ad server partners takes and displays the ad to users meeting those criteria. In this process, only Care2 — not the advertiser — can access individuals’ account information.
 
-We employ a third party service provider to display advertising on our Web site. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You would continue to receive generic ads.
+We employ a third party service provider to display advertising on our Web site. Our third party partner may use technologies such as cookies or other similar technologies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You would continue to receive generic ads.
 
 Advertising revenues help keep Care2 services free, and provide revenues for donations for wildlife conservation and other charities.
 
