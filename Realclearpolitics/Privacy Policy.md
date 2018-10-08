@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -109,6 +107,26 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Sen. Susan Collins_: Why I Will Vote to Confirm Judge Kavanaugh
+    
+*   _Susan Glasser_: The Triumph of Divisive, Loud Trumpism on Capitol Hill
+    
+*   _Thomas Lifson_: Dems Overplayed Their Hand &. It Will Cost Them Dearly
+    
+*   _Matt Yglesias_: Kavanaugh's Confirmation Will Delegitimize the Supreme Court
+    
+*   _Matthew Continetti_: For Republicans, Trump Is Peaking at the Right Time
+    
+*   _Thomas Edsall_: Machiavelli Would Have Loved This Year's Midterms
+    
+*   _Alfredo Ortiz_: Thanks to Tax Cuts, U.S. Hits Best Jobless Rate in 49 Years
+    
+*   _Hal Brands_: Nationalism Isn't a Bad Thing, But Trump's Version Is
+    
+*   _Edward Alden_: In the NAFTA Deal, Trump Got What Democrats Couldn't
+    
+*   _John Kass_: In Murder of Laquan McDonald, It Was Always the Video
+    
 *   _Nancy Jacobson_: The Exit Strategy for Our Careening, Caustic Politics
     
 *   _David Brady_: Polls: Opinions on Kavanaugh Grew More Entrenched
@@ -136,26 +154,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Kimberley Strassel_: Kavanaugh: An Easy Vote
     
 *   _Brett Kavanaugh_: I Am an Independent, Impartial Judge
-    
-*   _Michelle Goldberg_: GOP to Ram Kavanaugh Through Over Women's Objections
-    
-*   _Stephanie Gutmann_: Conservative Women Furious Over Smear of Kavanaugh
-    
-*   _Ludington_: We Drank With Kavanaugh. Don't Confirm Him
-    
-*   _L. Lin Wood_: Advice to Judge Kavanaugh: Sue. Them. All.
-    
-*   _Sally Kohn_: THIS Is What Democracy Looks Like
-    
-*   _Adriana Cohen_: The #MeToo Mob &. Our Judicial System
-    
-*   _Christina Cauterucci_: How Christine Blasey Ford Changed Everything
-    
-*   _Stuart Taylor Jr._: Christine Blasey Ford and the Implanted Memory Theory
-    
-*   _Barton Swaim_: Lindsey Graham's Righteous Rage
-    
-*   _Bill Schneider_: Defiance, Division &. 'Me Too' Lurch Toward 2020 Reckoning
     
 
 *   Previous
@@ -243,26 +241,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   North Carolina 9th District - Harris vs. McCreadyNY Times/Siena
-    *   Harris47
-    *   McCready42Harris +5
-*   California 10th District - Denham vs. HarderBerkeley IGS
-    *   Harder50
-    *   Denham45Harder +5
-*   California 22nd District - Nunes vs. JanzBerkeley IGS
-    *   Nunes53
-    *   Janz45Nunes +8
-*   California 25th District - Knight vs. HillBerkeley IGS
-    *   Hill50
-    *   Knight46Hill +4
+*   Michigan 11th District - Epstein vs. StevensNY Times/Siena
+    *   Stevens45
+    *   Epstein38Stevens +7
+*   Arizona Senate - McSally vs. SinemaCBS News/YouGov
+    *   Sinema47
+    *   McSally44Sinema +3
+*   Tennessee Senate - Blackburn vs. BredesenCBS News/YouGov
+    *   Blackburn50
+    *   Bredesen42Blackburn +8
+*   Texas Senate - Cruz vs. O'RourkeCBS News/YouGov
+    *   Cruz50
+    *   O'Rourke44Cruz +6
 
 More Latest Polls In The News
 
-*   McConnell: Senate Rules "Not Irreparably Damaged" Despite "Nasty" Kavanaugh Fight
-*   President Trump: Extra Week Turned Out "Really Good" For Kavanaugh. "He Looks Really Good"
-*   Bill Maher: Liberals Must Stop Chasing Conservatives Out Of Restaurants. Electoral College "Rigged" For Republicans
+*   Sen. Hirono: Even If They Don't Overturn Roe v. Wade, Republicans "Will Nullify It Pretty Much"
+*   President Trump Reacts To Brett Kavanaugh Confirmation In Phone Call To FNC's Jeanine Pirro
+*   Newt Gingrich: Unless Stopped, Radical Democrats Will Rule Or Ruin America
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Mary Matalin: "Nothing Short Of A Miracle" What Trump Has Done In The Face Of Constant Thwarting &. Virulent Attacks
+*   Colin Powell: I Am Not Sure Trump Is Capable Of Moral Leadership
 
 *   Politics
 *   Policy
