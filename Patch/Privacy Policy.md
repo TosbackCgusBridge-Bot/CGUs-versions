@@ -1,6 +1,6 @@
 Toggle navigation Find Your Town Advertise Post Log in
 
-*   Sun, Oct 7
+*   Mon, Oct 8
 
 *   Post
 *   Advertise
