@@ -165,7 +165,7 @@ Free trial
 
 Subscribe
 
-$2,250.00/year
+—/year
 
 Fast, creative toolset for 3D animation, modeling, simulation, and rendering
 
