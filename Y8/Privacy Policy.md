@@ -3,34 +3,34 @@
 *   games
 *   videos
 
-New Games Next in  23:51 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  xx:xx Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 23:51
+*   New Games Next in xx:xx
 *   Best of new games 1433 games
-*   Most Popular Games 18049 games
+*   Most Popular Games 18051 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,210 games
-*   Driving &. Racing Games 6,683 games
+*   Games for girls 23,220 games
+*   Driving &. Racing Games 6,684 games
 *   Strategy &. RPG Games 2,385 games
 *   Management Games 3,645 games
-*   Thinking Games 11,704 games
-*   Action &. Adventure Games 15,697 games
+*   Thinking Games 11,708 games
+*   Action &. Adventure Games 15,699 games
 *   Sports Games 2,110 games
-*   Shooting Games 8,168 games
+*   Shooting Games 8,170 games
 *   Fighting Games 2,079 games
-*   Skill Games 10,350 games
-*   Arcade &. Classic Games 12,620 games
+*   Skill Games 10,351 games
+*   Arcade &. Classic Games 12,623 games
 *   Fun &. Crazy Games 2,434 games
 
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 1,640 Y8 High Score Games 1,013 Y8 Achievements Games 774 Y8 Screenshots Games 1,317 Y8 Online Save Games 2,685 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 1,643 Y8 High Score Games 1,015 Y8 Achievements Games 774 Y8 Screenshots Games 1,317 Y8 Online Save Games 2,651 All Y8 Games Games Last Highscore:
 
-**24,780** points on Wheel Of Fortune by nacho
+**1** points on Mutant Fighting Arena by piterpiter
 
 Help us improve Bad translation? Social Share889K
 
