@@ -1,53 +1,51 @@
 I. Acceptance
 
-A.I.Studio (owner and maintainer of Feed43.com web site) provides its service («Service») to you, subject to the following Terms of Service («TOS»). By using the Service you are agreeing to be bound by the following terms and conditions.
+Plan43 (the owner and maintainer of Feed43.com website, hereafer, the «Owner») provides its service («Service») to you, subject to the following Terms of Service. By using the Service you are agreeing to be bound by the following terms and conditions.
 
 II. Your obligations
 
-You should be at least 13 years old to use this Service.
+You must be at least 13 years old to use this Service.
 
-You should use the free version of Service for personal non-commercial purposes only.
+You may use the free version of Service for personal non-commercial purposes only.
 
-If you use the Service to make profit either directly or indirectly, including, but not limited to, publishing feeds with your own advertisements inside, publishing feeds for your own commercial web site, you must purchase any of our paid plans.
+If you use the Service to make profit, either directly or indirectly, including, but not limited to, distributing your feeds to third parties, publishing feeds on your own website or on behalf of the owner of a commercial website, aggregating data for commerical purposes, you agree to purchase a paid subscription with the number of paid feeds matching or exceeding the number of feeds you use for such commerical purposes, and that subscription must stay active for the whole duration of your commercial use of the Service.
 
 III. Restrictions
 
-Automated creation or modification of feeds (e.g. by «bots») is prohibited.
+Automated creation or modification of feeds by the means of external software is prohibited.
 
-You should not syndicate news feeds created within this Service on any web site (public or intranet) without prior written permission of the copyright holder of original content.
+You may not use the Service for any illegal purposes including, but not limited to, violating the rights of the original content copyright holders. The Owner will have the right in their sole discretion to suspend or remove any feed or account that we determine offensive, unlawful, or otherwise objectionable or that violates the Terms of Service.
 
-You agree to obey polling interval defined in Feed43 feeds (6 hours), otherwise your access to the service will be blocked temporarily or permanently, depending on the severity of abuse.
-
-You may not use the Service for any illegal purposes. A.I.Studio will have the right in their sole discretion to remove any feed that we determine offensive, unlawful, pornographic or otherwise objectionable or that violates the TOS.
+You agree to obey polling interval defined in Feed43 feeds, otherwise your access to the service may be blocked temporarily or permanently, to the sole discretion of the Owner.
 
 You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service.
 
-You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by A.I.Studio.
+You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission from the Owner.
 
 IV. Content Rights
 
-Using this Service implies creating news feeds from third-party copyrighted material (content of web pages). You understand that the content of each news feed is the sole responsibility of the corresponding content author. A.I.Studio does not control the news feeds and does not guarantee the accuracy, integrity, or quality of the feeds.
+Using this Service implies creating news feeds from third-party copyrighted material (content of web pages). You understand that the content of each news feed is the sole responsibility of the corresponding content author. The Owner does not control the news feeds and does not guarantee the accuracy, integrity, or quality of the feeds.
 
 V. Disclaimer of Warranties
 
 Your use of the Service is at your sole risk. The service is provided on an «as is» and «as available» basis.
 
-A.I.Studio does not warrant that the service will meet your specific requirements, the service will be uninterrupted, timely, secure, or error-free, the results that may be obtained from the use of the service will be accurate or reliable, the quality of any products, services, information, and any errors in the Service will be corrected.
+The Owner does not warrant that the service will meet your specific requirements, the service will be uninterrupted, timely, secure, or error-free, the results that may be obtained from the use of the service will be accurate or reliable, the quality of any products, services, information, and any errors in the Service will be corrected.
 
-The failure of A.I.Studio to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and A.I.Studio and govern your use of the Service, superceding any prior agreements between you and A.I.Studio (including, but not limited to, any prior versions of the Terms of Service).
+The failure of the Owner to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and the Owner and govern your use of the Service, superceding any prior agreements between you and the Owner (including, but not limited to, any prior versions of the Terms of Service).
 
 VI. Indemnification
 
-You agree to indemnify and hold A.I.Studio, and its subsidiaries, affiliates or other partners, and employees, harmless from any alleged claim or demand, including reasonable attorney fees, made by any third party due to or arising out of your use of the Service, your connection to the Service, your violation of the TOS, or your violation of any rights of another. The user is solely responsible for his or her actions when using the Service.
+You agree to indemnify and hold the Owner, and its subsidiaries, affiliates or other partners, and employees, harmless from any alleged claim or demand, including reasonable attorney fees, made by any third party due to or arising out of your use of the Service, your connection to the Service, your violation of the Terms of Service, or your violation of any rights of another. The user is solely responsible for his or her actions when using the Service.
 
 VII. Limitation of Liability
 
-You expressly understand and agree that A.I.Studio shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if A.I.Studio has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service. (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service. (iii) unauthorized access to or alteration of your data. (iv) statements or conduct of any third party on the service. or (v) any other matter relating to the service.
+You expressly understand and agree that the Owner shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if the Owner has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service. (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service. (iii) unauthorized access to or alteration of your data. (iv) statements or conduct of any third party on the service. or (v) any other matter relating to the service.
 
 VIII. Modifications to Service
 
-A.I.Studio reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice at any time. A.I.Studio will not be liable to you or to any third party for any modification, suspension, or discontinuance of the Service.
+The Owner reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice at any time. The Owner will not be liable to you or to any third party for any modification, suspension, or discontinuance of the Service.
 
 IX. Modifications to Terms of Service
 
-A.I.Studio reserves the right to update and change the Terms of Service from time to time without notice. Continued use of the Service after any such changes shall constitute your consent to such changes.
+The Owner reserves the right to update and change the Terms of Service from time to time without notice. Continued use of the Service after any such changes shall constitute your consent to such changes.
