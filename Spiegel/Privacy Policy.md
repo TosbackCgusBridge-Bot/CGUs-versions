@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   8\. Oktober 2018
+*   9\. Oktober 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 12.111,90ǀ
+*   DAX 11.947,16ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
