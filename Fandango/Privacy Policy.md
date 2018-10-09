@@ -5,8 +5,10 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
-    *   Night School (2018)
+    *   Venom (2018)
+    *   A Star Is Born (2018)
     *   Smallfoot
+    *   Night School (2018)
     *   The House with a Clock in its Walls
     *   A Simple Favor
     *   The Nun (2018)
@@ -14,35 +16,34 @@ Gift Cards | Offers | Sign In Sign Out
     *   Crazy Rich Asians
     *   The Predator (2018)
     *   White Boy Rick
-    *   Peppermint (2018)
-    *   Fahrenheit 11/9
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   A Star Is Born (2018)
-    *   Venom (2018)
-    *   Chasing the Blues
-    *   The Hate U Give
-    *   Heavy Trip
-    *   Loving Pablo
-    *   Over the Limit
-    *   Shine (2018)
-    *   Studio 54
-    *   Trouble (2018)
+    *   Bad Times at the El Royale
+    *   First Man
+    *   Goosebumps 2: Haunted Halloween
+    *   Beautiful Boy (2018)
+    *   Bigger (2018)
+    *   Gosnell: The Trial of America's Biggest Serial Killer
+    *   The Happy Prince
+    *   Jane and Emma
+    *   Liyana
+    *   Look Away
+    *   The Oath (2018)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Bad Times at the El Royale
-    *   First Man
-    *   Goosebumps 2: Haunted Halloween
     *   Halloween (2018)
     *   Hunter Killer (2018)
     *   Indivisible (2018)
     *   Johnny English Strikes Again
+    *   Bohemian Rhapsody
     *   Nobody's Fool (2018)
     *   The Nutcracker and the Four Realms
+    *   Dr. Seuss' The Grinch (2018)
+    *   Overlord (2018)
     *   See All Coming Soon
     
     Explore More
@@ -70,9 +71,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Exclusive: Drew Goddard Gives Updates on ‘X-Force’ and ‘Cabin in the Woods 2’ Read More
-    *   Interview: 'Venom' Producers Avi Arad and Matt Tolmach on Building a New Universe of Big-Screen Antiheroes Read More
-    *   Watch Exclusive 'The Old Man and the Gun' Featurette: Sundance Kids Reunited Read More
+    *   Next 3 Tom Hardy Movies: 'Fonzo,' 'War Party,' 'Mad Max: The Wasteland' Read More
+    *   New 'Mortal Engines' Trailer Released. Here's Everything We Know Read More
+    *   Patty Jenkins Might Direct Margot Robbie in 'Barbie'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -320,13 +321,13 @@ Offers
     
     Pre-order your 'Halloween' tickets and get a download of the Halloween Theme song for free! BUY TICKETS
     
-*   FandangoNOW Binge Bundles
-    
-    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
-    
 *   Fandango VIP
     
     Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    
+*   FandangoNOW Fresh Picks: October
+    
+    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
 
 New + Coming soon
@@ -373,4 +374,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
