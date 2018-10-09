@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu does OpenStack ›
+*   Design and Web team summary – 8 October 2018 ›
 *   Ubuntu events in October ›
 *   Ubuntu at GTC Europe 2018 ›
 *   How mir-kiosk enables a graphical IoT using Mir ›
-*   Fing: future-proofing Fingbox the IoT home network monitoring device ›
-*   Ubuntu Server development summary – 2 Oct 2018 ›
