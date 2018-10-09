@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? Savor the science and species behind your favorite fish dishes AROUND NOAA // We may be past the peak, but hurricane season is far from over \[EXT\] New PORTS in Corpus Christi and Toledo bring safety, economic benefit \[EXT\] Photo feature: A ‘welcoming’ sun returns to the South Pole
+Enter Search Terms Hurricane warning issued for part of the Florida Gulf Coast Get Hurricane Michael information from NOAA's National Hurricane Center AROUND NOAA // During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\] New PORTS in Corpus Christi and Toledo bring safety, economic benefit \[EXT\] Photo feature: A ‘welcoming’ sun returns to the South Pole
 
 *   About our agency
 *   News and features
