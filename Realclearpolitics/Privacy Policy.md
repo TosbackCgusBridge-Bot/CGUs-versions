@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -107,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Sen. Susan Collins_: Why I Will Vote to Confirm Judge Kavanaugh
+*   _Garrett Epps_: Requiem for the Supreme Court
     
-*   _Susan Glasser_: The Triumph of Divisive, Loud Trumpism on Capitol Hill
+*   _Paul Mulshine_: Trump Strikes Back: Court Fight Energized Republicans
     
-*   _Thomas Lifson_: Dems Overplayed Their Hand &. It Will Cost Them Dearly
+*   _Richard Wolffe_: Kavanaugh Confirmation Isn't Democracy. It's a Coup
     
-*   _Matt Yglesias_: Kavanaugh's Confirmation Will Delegitimize the Supreme Court
+*   _Andrew McCarthy_: Uncomfortable Questions Remain About Christine Ford
     
-*   _Matthew Continetti_: For Republicans, Trump Is Peaking at the Right Time
+*   _Jason Sattler_: Punish Republicans at the Polls for Kavanaugh and Ford
     
-*   _Thomas Edsall_: Machiavelli Would Have Loved This Year's Midterms
+*   _Krista Kafer_: Why I Just Rejoined the Republican Party
     
-*   _Alfredo Ortiz_: Thanks to Tax Cuts, U.S. Hits Best Jobless Rate in 49 Years
+*   _Dexter Filkins_: A Connection Between a Russian Bank and Trump Camp?
     
-*   _Hal Brands_: Nationalism Isn't a Bad Thing, But Trump's Version Is
+*   _John Solomon_: Smoking Gun: FBI Redaction Wasn't for 'National Security'
     
-*   _Edward Alden_: In the NAFTA Deal, Trump Got What Democrats Couldn't
+*   _Steve Cortes_: Dress Rehearsal for Impeachment
     
-*   _John Kass_: In Murder of Laquan McDonald, It Was Always the Video
+*   _Matt Ford_: Brett Kavanaugh Is the Point of No Return
     
-*   _Nancy Jacobson_: The Exit Strategy for Our Careening, Caustic Politics
+*   _Christopher Caldwell_: Kavanaugh Conservatives vs. Booker Democrats
     
-*   _David Brady_: Polls: Opinions on Kavanaugh Grew More Entrenched
+*   _Margot Cleveland_: Democrats Face Kavanaugh Backlash Come November
     
-*   _Amy Walter_: The War That Never Ends
+*   _Charles Blow_: Liberals, This Is War
     
-*   _Patricia Murphy_: This Was a Manufactured Hoax From the Outset
+*   _Victor Davis Hanson_: As Facts Emerge, Ford Looks Less &. Less Credible
     
-*   _Suzanne Moore_: Women's Anger Will Be Unstoppable If Kavanaugh Prevails
+*   _Nesrine Malik_: Kavanaugh Case Reveals a System Rigged Against Women
     
-*   _Emily Yoffe_: Kavanaugh and the Problem With #BelieveSurvivors
+*   _Karol Markowicz_: The End of the Media's 'What Women Think' Scam
     
-*   _Peter Hamby_: The Swift Boating of the Supreme Court
+*   _E.J. Dionne_: Democrats Need to Stay Angry About Kavanaugh
     
-*   _Adele Scalia_: I'm Voting Republican Over Dems' Treatment of Kavanaugh
+*   _Newt Gingrich_: Kavanaugh Fight Is a Turning Point in American History
     
-*   _Sean Trende_: Sizing Up the New Jersey Senate Race
+*   _Juan Williams_: The Republican Party Can't Govern
     
-*   _William Frey_: Trump Can't Win the War on Demography
+*   _Sally Pipes_: Obamacare Costs Too Much, But Trump Is Helping
     
-*   _Roger Simon_: Kanye's Not Alone: Blacks Are Deserting the Democrats
+*   _William Ruger_: Public Realism on Afghanistan
     
-*   _Lucian Truscott_: Kavanaugh, the Poster Boy for Toxic Privilege
+*   _Kaya Oakes_: The Conservative Resistance Inside the Vatican
     
-*   _Kimberley Strassel_: Kavanaugh: An Easy Vote
+*   _Krumholz &. Delahunty_: Francis Looks Increasingly Blameworthy Amid Crisis
     
-*   _Brett Kavanaugh_: I Am an Independent, Impartial Judge
+*   _Sophie Gilbert_: The Remarkable Rise of the Feminist Dystopia
     
 
 *   Previous
@@ -224,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   At MN Rally, Trump Slams Democrats for "Rage-Fueled Resistance"
+*   Supreme Court Fight Sharpens the Stakes for Midterms
+*   Kavanaugh Sworn In to High Court After Rancorous Confirmation
+*   Gingrich: Why the Kavanaugh Fight Is a Turning Point in American History
+*   Sizing Up the New Jersey Senate Race
 *   Democrats Embrace Obamacare in Tough Senate Races
-*   Hanson: Ford's Story Collapsed, She Gave One Too Many Narratives
-*   Why a Loss on Kavanaugh Could Mean a Win on Nov. 6
-*   Gingrich: Republicans Need a 2018 Contract With America
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -241,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Michigan 11th District - Epstein vs. StevensNY Times/Siena
-    *   Stevens45
-    *   Epstein38Stevens +7
-*   Arizona Senate - McSally vs. SinemaCBS News/YouGov
-    *   Sinema47
-    *   McSally44Sinema +3
-*   Tennessee Senate - Blackburn vs. BredesenCBS News/YouGov
-    *   Blackburn50
-    *   Bredesen42Blackburn +8
-*   Texas Senate - Cruz vs. O'RourkeCBS News/YouGov
-    *   Cruz50
-    *   O'Rourke44Cruz +6
+*   Illinois 14th District - Hultgren vs. UnderwoodNY Times/Siena
+    *   Hultgren47
+    *   Underwood43Hultgren +4
+*   New York 1st District - Zeldin vs. GershonNY Times/Siena
+    *   Zeldin49
+    *   Gershon41Zeldin +8
+*   Pennsylvania 16th District - Kelly vs. DiNicolaNY Times/Siena
+    *   Kelly50
+    *   DiNicola42Kelly +8
+*   Texas Senate - Cruz vs. O'RourkeEmerson\*
+    *   Cruz47
+    *   O'Rourke42Cruz +5
 
 More Latest Polls In The News
 
 *   Sen. Hirono: Even If They Don't Overturn Roe v. Wade, Republicans "Will Nullify It Pretty Much"
+*   Carville: Kavanaugh "Worth A Lot More Alive Than Dead," "Democrats Are Going To Keep Digging Up Stuff"
 *   President Trump Reacts To Brett Kavanaugh Confirmation In Phone Call To FNC's Jeanine Pirro
-*   Newt Gingrich: Unless Stopped, Radical Democrats Will Rule Or Ruin America
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Colin Powell: I Am Not Sure Trump Is Capable Of Moral Leadership
+*   Newt Gingrich: Unless Stopped, Radical Democrats Will Rule Or Ruin America
 
 *   Politics
 *   Policy
