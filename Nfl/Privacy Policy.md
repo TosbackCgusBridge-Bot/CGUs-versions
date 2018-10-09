@@ -1,8 +1,5 @@
-*   DAL6HOU•72nd ? 13:40
-*   OAK1-410LAC3-226Final
-*   MIN2-2-123PHI2-321Final
-*   ARI1-428SF1-418Final
-*   LA5-033SEA2-331Final
+*   WAS6NO•262nd ? 01:41
+*   IND1-424NE3-238Final
 *   TEN3-212BUF2-313Final
 *   NYG1-431CAR3-133Final
 *   MIA3-217CIN4-127Final
@@ -11,8 +8,11 @@
 *   JAX3-214KC5-030Final
 *   DEN2-316NYJ2-334Final
 *   ATL1-417PIT2-2-141Final
-*   WAS2-1NO3-1Mon, 8:15 pm ET
-*   IND1-424NE3-238Final
+*   OAK1-410LAC3-226Final
+*   MIN2-2-123PHI2-321Final
+*   ARI1-428SF1-418Final
+*   LA5-033SEA2-331Final
+*   DAL2-316HOU2-319Final (OT)
 
 *   News
 *   Scores
@@ -30,11 +30,8 @@
 *   NFL Network
 *   Photos
 
-*   DAL6HOU•72nd ? 13:40
-*   OAK10LAC26Final
-*   MIN23PHI21Final
-*   ARI28SF18Final
-*   LA33SEA31Final
+*   WAS6NO•262nd ? 01:41
+*   IND24NE38Final
 *   TEN12BUF13Final
 *   NYG31CAR33Final
 *   MIA17CIN27Final
@@ -43,8 +40,11 @@
 *   JAX14KC30Final
 *   DEN16NYJ34Final
 *   ATL17PIT41Final
-*   WAS2-1NO3-1Mon, 8:15 pm ET
-*   IND24NE38Final
+*   OAK10LAC26Final
+*   MIN23PHI21Final
+*   ARI28SF18Final
+*   LA33SEA31Final
+*   DAL16HOU19Final (OT)
 
 *   News
 *   Scores
