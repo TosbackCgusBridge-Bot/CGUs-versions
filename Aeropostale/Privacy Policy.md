@@ -135,6 +135,7 @@ Close submenu ( Featured ) Featured
 *   Uniform
 *   Denim Guide
 *   Flex Effects
+*   Tribe of Tees
 *   Lounge
 *   Active
 *   Logo Shop
@@ -343,6 +344,7 @@ Menu Find a Store Aeropostale
         *   Uniform
         *   Denim Guide
         *   Flex Effects
+        *   Tribe of Tees
         *   Lounge
         *   Active
         *   Logo Shop
@@ -480,4 +482,18 @@ Stay Connected
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
