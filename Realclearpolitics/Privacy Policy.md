@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Garrett Epps_: Requiem for the Supreme Court
+*   _Patrick Buchanan_: The Democrats' Little Bighorn
     
-*   _Paul Mulshine_: Trump Strikes Back: Court Fight Energized Republicans
+*   _Katrina vanden Heuvel_: Blue Wave Could Be Start of a Progressive Sea Change
     
-*   _Richard Wolffe_: Kavanaugh Confirmation Isn't Democracy. It's a Coup
+*   _James Robbins_: Is Unhinged Mob Rule Really the Democracy We Want?
     
-*   _Andrew McCarthy_: Uncomfortable Questions Remain About Christine Ford
+*   _Zack Beauchamp_: How Nikki Haley Played the White House Game - and Won
     
-*   _Jason Sattler_: Punish Republicans at the Polls for Kavanaugh and Ford
+*   _Cal Thomas_: Susan Collins' Finest Hour
     
-*   _Krista Kafer_: Why I Just Rejoined the Republican Party
+*   _Matt Lewis_: Kavanaugh Officially Killed the Never-Trump Movement
     
-*   _Dexter Filkins_: A Connection Between a Russian Bank and Trump Camp?
+*   _Paul Begala_: McConnell Has Done Grave Damage to All 3 Branches of Govt
     
-*   _John Solomon_: Smoking Gun: FBI Redaction Wasn't for 'National Security'
+*   _Robert Stacy McCain_: Taylor Swift Is Wrong
     
-*   _Steve Cortes_: Dress Rehearsal for Impeachment
+*   _Jennifer Weiner_: How Do I Explain Justice Kavanaugh to My Daughters?
     
-*   _Matt Ford_: Brett Kavanaugh Is the Point of No Return
+*   _Jonathan David Farley_: Lock Up Your Sons
     
-*   _Christopher Caldwell_: Kavanaugh Conservatives vs. Booker Democrats
+*   _Eugene Robinson_: New Climate Report Reveals Planetary Horror Story
     
-*   _Margot Cleveland_: Democrats Face Kavanaugh Backlash Come November
+*   _Ross Clark_: Good News: We Now Have Until 2030 to Save the Earth
     
-*   _Charles Blow_: Liberals, This Is War
+*   _Michael D'Antonio_: Trumpism Is Winning - and It's Terrifying
     
-*   _Victor Davis Hanson_: As Facts Emerge, Ford Looks Less &. Less Credible
+*   _Noemie Emery_: A Savage, Frothing Left Has United GOP Around Trump
     
-*   _Nesrine Malik_: Kavanaugh Case Reveals a System Rigged Against Women
+*   _Ian Samuel_: Liberals Can Fight Back by Packing the Supreme Court
     
-*   _Karol Markowicz_: The End of the Media's 'What Women Think' Scam
+*   _Rich Lowry_: Democrats' Latest Excuse: Blame the Constitution
     
-*   _E.J. Dionne_: Democrats Need to Stay Angry About Kavanaugh
+*   _Thomas Friedman_: Praying for Jamal Khashoggi
     
-*   _Newt Gingrich_: Kavanaugh Fight Is a Turning Point in American History
+*   _Benny Avni_: Washington Can't Let the Saudis Get Away With This
     
-*   _Juan Williams_: The Republican Party Can't Govern
+*   _Eli Lake_: Suspend China From Interpol
     
-*   _Sally Pipes_: Obamacare Costs Too Much, But Trump Is Helping
+*   _David Craig_: Afghanistan: We Must Decide on a New War Strategy
     
-*   _William Ruger_: Public Realism on Afghanistan
+*   _Mark Penn_: Kavanaugh Lesson: Resist 'The Resistance' or Lose
     
-*   _Kaya Oakes_: The Conservative Resistance Inside the Vatican
+*   _Dana Milbank_: The Special Sauce That Flavors Betomania
     
-*   _Krumholz &. Delahunty_: Francis Looks Increasingly Blameworthy Amid Crisis
+*   _Sarah Jones_: Red State Dems Can Do Better Than Joe Manchin
     
-*   _Sophie Gilbert_: The Remarkable Rise of the Feminist Dystopia
+*   _Bryan Dean Wright_: Dems Bleeding Out From Self-Inflicted Wound
     
 
 *   Previous
@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Apologizes to Kavanaugh, Family for Campaign of "Lies and Deception"
 *   Supreme Court Fight Sharpens the Stakes for Midterms
-*   Kavanaugh Sworn In to High Court After Rancorous Confirmation
-*   Gingrich: Why the Kavanaugh Fight Is a Turning Point in American History
+*   Kavanaugh Formally Sworn In at White House Ceremony
 *   Sizing Up the New Jersey Senate Race
 *   Democrats Embrace Obamacare in Tough Senate Races
 *   Presidential Job Approval
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Illinois 14th District - Hultgren vs. UnderwoodNY Times/Siena
-    *   Hultgren47
-    *   Underwood43Hultgren +4
-*   New York 1st District - Zeldin vs. GershonNY Times/Siena
-    *   Zeldin49
-    *   Gershon41Zeldin +8
-*   Pennsylvania 16th District - Kelly vs. DiNicolaNY Times/Siena
-    *   Kelly50
-    *   DiNicola42Kelly +8
-*   Texas Senate - Cruz vs. O'RourkeEmerson\*
-    *   Cruz47
-    *   O'Rourke42Cruz +5
+*   Rhode Island Senate - Flanders vs. WhitehouseUNH
+    *   Whitehouse57
+    *   Flanders33Whitehouse +24
+*   Georgia Governor - Kemp vs. AbramsWXIA-TV/SurveyUSA
+    *   Kemp47
+    *   Abrams45Kemp +2
+*   Rhode Island Governor - Fung vs. RaimondoUNH\*
+    *   Raimondo48
+    *   Fung34Raimondo +14
+*   Maryland Governor - Hogan vs. JealousGonzales Research\*
+    *   Hogan54
+    *   Jealous36Hogan +18
 
 More Latest Polls In The News
 
-*   Sen. Hirono: Even If They Don't Overturn Roe v. Wade, Republicans "Will Nullify It Pretty Much"
+*   Hillary Clinton: "Civility Can Start Again" When Democrats Take Back The House And Or The Senate
+*   Sen. Cotton: "The Schumer Political Operation" Was Behind Release Of Dr. Ford's Letter From Very Beginning
 *   Carville: Kavanaugh "Worth A Lot More Alive Than Dead," "Democrats Are Going To Keep Digging Up Stuff"
-*   President Trump Reacts To Brett Kavanaugh Confirmation In Phone Call To FNC's Jeanine Pirro
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Newt Gingrich: Unless Stopped, Radical Democrats Will Rule Or Ruin America
+*   Sen. Hirono: Even If They Don't Overturn Roe v. Wade, Republicans "Will Nullify It Pretty Much"
 
 *   Politics
 *   Policy
