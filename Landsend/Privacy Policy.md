@@ -976,9 +976,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: SQUASH pin: 8992 DETAILS
+code: FOOTBALL pin: 9216 DETAILS
 
 Customer Service Menu
 
