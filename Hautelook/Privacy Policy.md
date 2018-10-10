@@ -8,99 +8,110 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Tommy Bahama Men's Clothing &. More
+    *   Tommy Bahama Clothing &. More
+    *   Feminine Flair: Fall Dresses Up to 65% Off
+    *   Tommy Bahama Luggage &. Handbags
+    *   Tommy Bahama Swim
+    *   KitchenAid
+    *   Fall Feast Ready: Staub Cast Iron Cookware
+    *   Halloween &. Holiday Doormats
+    *   Home Improvements: Organizers &. More from $10
+    *   Catherine Catherine Malandrino Up to 50% Off
+    *   Joan Vass
+    *   Mini Melissa
+    *   Boots Starting at $30
+    *   Illa Illa
+    *   Violet Voss
+    *   Way of Will Organic Skin Care
+    *   Peace Love World Kids
+    *   Preschool Prep Company
+    *   Favorite Fall Leggings
+    *   Go Neutral: Grey Styles Incl. Plus &. Petites
+    *   Standout Shoes: Prints, Applique &. More
+    *   Tommy Bahama Kids &. More Starting at $15
+    *   Giorgio Brutini
     *   Work Dresses ft. Tahari
     *   Loveappella
     *   Donald Pliner Up to 50% Off
     *   1.State
     *   Stila
     *   Kier &. J
+    
     *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
     *   Dr. Denim &. More Under $40
     *   Workweek Chic: Calvin Klein Shoes &. More
-    *   ...Lost
-    *   Drybar
     *   Donald Pliner Men
     *   Nixon Watches Up to 60% Off
     *   Free Shipping: Cozy Bedding Essentials
     *   Melissa &. Doug
-    *   HYFVE
     *   Masala Baby &. Kids
+    *   ...Lost
     *   X by Gottex
     *   Shoes Starting at $16 ft. Rock &. Candy
     *   Nicole Miller Girls' Shoes
     *   Andrew Marc Shoes Up to 70% Off
     *   Luseta Beauty Hair Care from $10
     *   Gallery-Quality Art Prints
-    *   Vertigo Up to 85% Off
     *   Savvy Cie Jewelry Up to 80% Off
     *   Sandals, Sneakers &. Boots Up to 60% Off
-    *   Sunday Style Blowout Incl. Plus &. Petites
     *   Christopher Kon Up to 75% Off
     *   Luxe Locks: Hair Tools Blowout
     *   Free Shipping: Sterling Forever Jewelry from $15
-    
     *   Men's Shoes Up to 70% Off
     *   Earbuds &. Beyond: Gym Accessory Blowout
     *   Cinq a Sept Up to 65% Off
-    *   Mother
-    *   Franco Sarto Up to 55% Off
-    *   Wishlist
-    *   DD+ Bra Faves ft. Chantelle
     *   Magnanni
     *   Free Shipping: Traditional Rugs Up to 70% Off
     *   Swarovski Jewelry &. Watches
     *   Million Polkadots
     *   Glow On: Sheet Masks &. More ft. It's Skin
-    *   Halston Heritage Up to 70% Off
-    *   JoFit Golf &. Tennis
-    *   Work or Weekend: On-Trend Wrap Dresses
-    *   Loafers, Mules &. Flats Under $50
-    *   Marrakech
     *   Frenchie Mini Couture
+    
     *   Wear to Work: Trousers Starting at $30
     *   Robert Graham
     *   Dynamic Innovation Labs Skin Care
-    *   ASICS
-    *   Catherine Catherine Malandrino Up to 70% Off
-    *   Go Couture Blowout
-    *   Miss Me
     *   ASICS Men
-    *   Chic Styles Under $35: Earrings &. Necklaces
-    *   W118 by Walter Baker Up to 75% Off
-    *   Peace Love World
     *   Lucky Brand Men's Denim
-    
     *   Fall Glow: True Moringa Oils &. More
     *   Free Shipping: Soft Microfiber Bedding &. More
     *   Lucky Brand Men's Lounge
-    *   Most Wanted USA Up to 60% Off
-    *   ASICS Kids
-    *   Ray-Ban Sun
-    *   Leather &. Suede Shoes Under $100
     *   Zoe Ayla Cosmetics
     *   Just Add Glam: On-Trend Accent Furniture &. More
-    *   FAVLUX Under $30
-    *   HUE
-    *   Savasana Saturday: Yogawear &. More
-    *   Travis Mathew &. More Up to 60% Off
+    *   Drybar
     *   Space Savers: Closet Organizers &. More from $10
     *   Snap to It: Fujifilm Cameras
-    *   BC Collection Up to 75% Off
     *   Glow on the Go: bkr Water Bottles
     *   Game On: College Football Wall Decor
-    *   skinChemists
-    *   Royale USA Hair Tools &. More from $10
     *   Free Shipping: Essential Solid Sheet Sets
     *   Easy Upgrades: Jewelry Organizers &. More
     *   Go Retro: Orla Kiely Cookware &. Stationery
     *   Free Shipping: Rustic Wooden Signs &. More
-    *   Free Shipping: Barware, Dinnerware &. More
-    *   Free Shipping: Marmont Hill Wall Art
-    *   Free Shipping: Charming Fall Decor from $10
     *   Too Faced
-    *   Kevyn Aucoin
+    *   HYFVE
+    *   Vertigo Up to 85% Off
+    *   Sunday Style Blowout Incl. Plus &. Petites
+    *   Mother
+    *   Wishlist
+    *   DD+ Bra Faves ft. Chantelle
+    *   Marrakech
+    *   Go Couture Blowout
+    *   Peace Love World
 *   WomenShop Sale Events
     
+    *   Tommy Bahama Clothing &. More
+    *   Feminine Flair: Fall Dresses Up to 65% Off
+    *   Tommy Bahama Luggage &. Handbags
+    *   Tommy Bahama Swim
+    *   Catherine Catherine Malandrino Up to 50% Off
+    *   Joan Vass
+    *   Boots Starting at $30
+    *   Illa Illa
+    *   Violet Voss
+    *   Way of Will Organic Skin Care
+    *   Favorite Fall Leggings
+    *   Go Neutral: Grey Styles Incl. Plus &. Petites
+    *   Standout Shoes: Prints, Applique &. More
     *   Work Dresses ft. Tahari
     *   Loveappella
     *   Donald Pliner Up to 50% Off
@@ -110,155 +121,139 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
     *   Dr. Denim &. More Under $40
     *   Workweek Chic: Calvin Klein Shoes &. More
-    *   Drybar
     *   Nixon Watches Up to 60% Off
-    *   HYFVE
     *   X by Gottex
+    
     *   Shoes Starting at $16 ft. Rock &. Candy
-    *   Vertigo Up to 85% Off
     *   Savvy Cie Jewelry Up to 80% Off
     *   Sandals, Sneakers &. Boots Up to 60% Off
-    *   Sunday Style Blowout Incl. Plus &. Petites
     *   Christopher Kon Up to 75% Off
     *   Luxe Locks: Hair Tools Blowout
     *   Free Shipping: Sterling Forever Jewelry from $15
     *   Cinq a Sept Up to 65% Off
+    *   Swarovski Jewelry &. Watches
+    *   Dynamic Innovation Labs Skin Care
+    *   Fall Glow: True Moringa Oils &. More
+    *   Zoe Ayla Cosmetics
+    *   Drybar
+    *   Glow on the Go: bkr Water Bottles
+    *   Too Faced
+    *   HYFVE
+    *   Vertigo Up to 85% Off
+    *   Sunday Style Blowout Incl. Plus &. Petites
     *   Mother
-    *   Franco Sarto Up to 55% Off
     *   Wishlist
     *   DD+ Bra Faves ft. Chantelle
-    *   Swarovski Jewelry &. Watches
-    
-    *   Halston Heritage Up to 70% Off
-    *   JoFit Golf &. Tennis
-    *   Work or Weekend: On-Trend Wrap Dresses
-    *   Loafers, Mules &. Flats Under $50
     *   Marrakech
-    *   Dynamic Innovation Labs Skin Care
-    *   ASICS
-    *   Catherine Catherine Malandrino Up to 70% Off
     *   Go Couture Blowout
-    *   Miss Me
-    *   Chic Styles Under $35: Earrings &. Necklaces
-    *   W118 by Walter Baker Up to 75% Off
     *   Peace Love World
-    *   Fall Glow: True Moringa Oils &. More
-    *   Most Wanted USA Up to 60% Off
-    *   Ray-Ban Sun
-    *   Leather &. Suede Shoes Under $100
-    *   Zoe Ayla Cosmetics
-    *   FAVLUX Under $30
-    *   HUE
-    *   Savasana Saturday: Yogawear &. More
-    *   Glow on the Go: bkr Water Bottles
-    *   skinChemists
-    *   Royale USA Hair Tools &. More from $10
-    *   Too Faced
-    *   Kevyn Aucoin
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Lingerie
+    *   Handbags
     *   Tech Accessories
     *   Watches
     *   Accessories
 *   MenShop Sale Events
     
-    *   ...Lost
+    *   Tommy Bahama Men's Clothing &. More
+    *   Tommy Bahama Luggage &. Handbags
+    *   Giorgio Brutini
     *   Donald Pliner Men
     *   Nixon Watches Up to 60% Off
+    *   ...Lost
     *   Andrew Marc Shoes Up to 70% Off
+    
     *   Men's Shoes Up to 70% Off
     *   Magnanni
     *   Wear to Work: Trousers Starting at $30
-    
     *   Robert Graham
     *   ASICS Men
     *   Lucky Brand Men's Denim
     *   Lucky Brand Men's Lounge
-    *   Ray-Ban Sun
-    *   Travis Mathew &. More Up to 60% Off
-    *   BC Collection Up to 75% Off
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Mini Melissa
+    *   Peace Love World Kids
+    *   Preschool Prep Company
+    *   Tommy Bahama Kids &. More Starting at $15
     *   Melissa &. Doug
     *   Masala Baby &. Kids
     *   Nicole Miller Girls' Shoes
     *   Million Polkadots
     *   Frenchie Mini Couture
-    *   ASICS Kids
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Boys Sizes 2T-7
     *   Girls' Shoes
-    *   Baby Girl
+    *   Boys Sizes 2T-7
     *   Toys
-    *   Baby Boy
+    *   Baby Girl
     *   Girls Sizes 7-16
-    *   Boys' Shoes
+    *   Baby Boy
     *   Boys Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Tommy Bahama Luggage &. Handbags
+    *   KitchenAid
+    *   Fall Feast Ready: Staub Cast Iron Cookware
+    *   Halloween &. Holiday Doormats
+    *   Home Improvements: Organizers &. More from $10
     *   Free Shipping: Cozy Bedding Essentials
     *   Gallery-Quality Art Prints
     *   Earbuds &. Beyond: Gym Accessory Blowout
     *   Free Shipping: Traditional Rugs Up to 70% Off
+    
     *   Free Shipping: Soft Microfiber Bedding &. More
     *   Just Add Glam: On-Trend Accent Furniture &. More
     *   Space Savers: Closet Organizers &. More from $10
     *   Snap to It: Fujifilm Cameras
-    
     *   Game On: College Football Wall Decor
     *   Free Shipping: Essential Solid Sheet Sets
     *   Easy Upgrades: Jewelry Organizers &. More
     *   Go Retro: Orla Kiely Cookware &. Stationery
     *   Free Shipping: Rustic Wooden Signs &. More
-    *   Free Shipping: Barware, Dinnerware &. More
-    *   Free Shipping: Marmont Hill Wall Art
-    *   Free Shipping: Charming Fall Decor from $10
     
     Shop By Category
-    *   Home Decor
     *   Bedding
+    *   Home Decor
     *   Rugs
-    *   Accent Furniture
-    *   Kitchen &. Tabletop
     *   Storage &. Cleaning
+    *   Kitchen &. Tabletop
+    *   Accent Furniture
     *   Luggage &. Travel
     *   Outdoor Living
     *   Bath
 *   BeautyShop Sale Events
     
+    *   Violet Voss
+    *   Way of Will Organic Skin Care
     *   Stila
-    *   Drybar
     *   Luseta Beauty Hair Care from $10
     *   Luxe Locks: Hair Tools Blowout
     *   Glow On: Sheet Masks &. More ft. It's Skin
+    
     *   Dynamic Innovation Labs Skin Care
     *   Fall Glow: True Moringa Oils &. More
-    
     *   Zoe Ayla Cosmetics
+    *   Drybar
     *   Glow on the Go: bkr Water Bottles
-    *   skinChemists
-    *   Royale USA Hair Tools &. More from $10
     *   Too Faced
-    *   Kevyn Aucoin
     
     Shop By Category
-    *   Skin Care
-    *   Hair Care
     *   Makeup
+    *   Skin Care
     *   Tools &. Accessories
+    *   Hair Care
     *   Bath &. Body
     *   Makeup Bags
 
