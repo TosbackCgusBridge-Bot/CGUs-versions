@@ -23,6 +23,7 @@ Gift Cards | Offers | Sign In Sign Out
     *   Bad Times at the El Royale
     *   First Man
     *   Goosebumps 2: Haunted Halloween
+    *   All Square
     *   Beautiful Boy (2018)
     *   Bigger (2018)
     *   Gosnell: The Trial of America's Biggest Serial Killer
@@ -30,7 +31,6 @@ Gift Cards | Offers | Sign In Sign Out
     *   Jane and Emma
     *   Liyana
     *   Look Away
-    *   The Oath (2018)
     *   See All Opening This Week
     
     Coming Soon
@@ -71,8 +71,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Tom Hardy Movies: 'Fonzo,' 'War Party,' 'Mad Max: The Wasteland' Read More
-    *   New 'Mortal Engines' Trailer Released. Here's Everything We Know Read More
+    *   James Gunn to Write and Maybe Direct 'Suicide Squad 2'. Here's Everything We Know Read More
+    *   Mamma Mia! Here We Go Again: Behind the Scenes - Telling A Story Read More
     *   Patty Jenkins Might Direct Margot Robbie in 'Barbie'. Here's Everything We Know Read More
     
     Explore Content
