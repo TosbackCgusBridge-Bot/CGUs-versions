@@ -247,7 +247,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Myspace 2% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -271,7 +271,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Pinterest 49%  Wikipedia 2% 
+Pinterest 50%  Wikipedia 3% 
 
 *   Privacy policy
     
@@ -286,7 +286,7 @@ Pinterest 49%  Wikipedia 2% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Google+ 49%  Music 2% 
+Google+ 50%  Music 3% 
 
 *   Pandora
     
@@ -332,7 +332,7 @@ Google+ 49%  Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 3% 
 
 *   Flickriver
     
@@ -347,7 +347,7 @@ Photo Albums 2% 
     ‎Read reviews, compare customer ratings, see screenshots, and learn more about Flickr. Download Flickr and enjoy it on your iPhone, iPad, and iPod touch.
     
 
-Web Search 49%  Images 2% 
+Web Search 50%  Images 3% 
 
 20
 
