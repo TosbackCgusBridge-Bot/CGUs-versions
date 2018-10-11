@@ -163,10 +163,10 @@ Bag 0
     
     *   New Arrivals
     *   Kids' Outerwear Shop
-    *   Kids' Backpacks &. Lunch Boxes
+    *   Kids' Hats, Gloves &. Scarves
     *   Kids' Iron Knees Pants
-    *   School Uniforms
     *   Kids' Pajama Shop
+    *   Kids' Backpacks &. Lunch Boxes
     *   The Heritage Collection
     
     Kids' Sale>Girls' Clothing>
@@ -336,10 +336,10 @@ Bag 0
     
     *   Best-in-Class Polos
     *   Iron Knee Pants
+    *   Universal Adaptive Clothing
     *   Phys-ed Locker Room
-    *   Backpacks &. Lunch Boxes
-    *   Spiritwear
-    *   After School
+    *   Winter Layers
+    *   Staffwear
     *   Sale
     
     SHOP BY AGE RANGE
@@ -619,10 +619,10 @@ Lands' End Sign In menu
         *   Back
         *   New Arrivals
         *   Kids' Outerwear Shop
-        *   Kids' Backpacks &. Lunch Boxes
+        *   Kids' Hats, Gloves &. Scarves
         *   Kids' Iron Knees Pants
-        *   School Uniforms
         *   Kids' Pajama Shop
+        *   Kids' Backpacks &. Lunch Boxes
         *   The Heritage Collection
     *   Kids' Sale
     *   Girls' Clothing
@@ -806,10 +806,10 @@ Lands' End Sign In menu
         *   Back
         *   Best-in-Class Polos
         *   Iron Knee Pants
+        *   Universal Adaptive Clothing
         *   Phys-ed Locker Room
-        *   Backpacks &. Lunch Boxes
-        *   Spiritwear
-        *   After School
+        *   Winter Layers
+        *   Staffwear
         *   Sale
     *   SHOP BY AGE RANGE
         *   Back
