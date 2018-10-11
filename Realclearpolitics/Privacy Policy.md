@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Patrick Buchanan_: The Democrats' Little Bighorn
+*   _John Kass_: Is Book Burning Next for Anti-Kavanaugh Liberals?
     
-*   _Katrina vanden Heuvel_: Blue Wave Could Be Start of a Progressive Sea Change
+*   _Paul Krugman_: The Paranoid Style in Republican Politics
     
-*   _James Robbins_: Is Unhinged Mob Rule Really the Democracy We Want?
+*   _Mollie Hemingway_: Trump's Kavanaugh Apology Showed True Leadership
     
-*   _Zack Beauchamp_: How Nikki Haley Played the White House Game - and Won
+*   _Amanda Marcotte_: Right-Wing Misogyny Is Now Laid Bare for All to See
     
-*   _Cal Thomas_: Susan Collins' Finest Hour
+*   _Alexandra DeSanctis_: Liberal Feminism's Identity-Politics Problem
     
-*   _Matt Lewis_: Kavanaugh Officially Killed the Never-Trump Movement
+*   _Uri Friedman_: Why Nikki Haley's Departure Shocked Washington
     
-*   _Paul Begala_: McConnell Has Done Grave Damage to All 3 Branches of Govt
+*   _Christian Whiton_: Haley Was a Big Success--What Trump Should Do Next
     
-*   _Robert Stacy McCain_: Taylor Swift Is Wrong
+*   _Thomas Friedman_: Donald Trump Versus the Jungle
     
-*   _Jennifer Weiner_: How Do I Explain Justice Kavanaugh to My Daughters?
+*   _John Mearsheimer_: The Great Delusion: Liberal Dreams, International Realities
     
-*   _Jonathan David Farley_: Lock Up Your Sons
+*   _Jeff Patch_: Bloomberg Embeds Green Warriors in Blue-State Governments
     
-*   _Eugene Robinson_: New Climate Report Reveals Planetary Horror Story
+*   _Judith Shulevitz_: Alexa, Should We Trust You?
     
-*   _Ross Clark_: Good News: We Now Have Until 2030 to Save the Earth
+*   _Jeremy Peters_: Kavanaugh Uproar Fuels GOP Races for Governor &. House
     
-*   _Michael D'Antonio_: Trumpism Is Winning - and It's Terrifying
+*   _Victor Davis Hanson_: Counting the Kavanaugh Casualties
     
-*   _Noemie Emery_: A Savage, Frothing Left Has United GOP Around Trump
+*   _Leonard Pitts_: Like Afrikaners, GOP Seeks to Enshrine Minority Rule
     
-*   _Ian Samuel_: Liberals Can Fight Back by Packing the Supreme Court
+*   _Marc Thiessen_: We Have Not Yet Plumbed the Depths of Dems' Ruthlessness
     
-*   _Rich Lowry_: Democrats' Latest Excuse: Blame the Constitution
+*   _Froma Harrop_: Democrats, Keep Cool and Keep Calm
     
-*   _Thomas Friedman_: Praying for Jamal Khashoggi
+*   _Brent Budowsky_: Code Red Alert for Democrats
     
-*   _Benny Avni_: Washington Can't Let the Saudis Get Away With This
+*   _Michael Goodwin_: Where's the Outrage Over Hillary's Call for Civil War?
     
-*   _Eli Lake_: Suspend China From Interpol
+*   _Harold Meyerson_: The Constitution's Anti-Majoritarian Bias
     
-*   _David Craig_: Afghanistan: We Must Decide on a New War Strategy
+*   _President Donald Trump_: Dems 'Medicare for All' Plan Threatens Our Seniors
     
-*   _Mark Penn_: Kavanaugh Lesson: Resist 'The Resistance' or Lose
+*   _Bob Moser_: The Fearless Rise of the Black Southern Progressive
     
-*   _Dana Milbank_: The Special Sauce That Flavors Betomania
+*   _Roger Kimball_: Is Alexandria Ocasio-Cortez a Republican Plant?
     
-*   _Sarah Jones_: Red State Dems Can Do Better Than Joe Manchin
+*   _Jia Tolentino_: One Year of #MeToo: Women's Speech Still Faces Limits
     
-*   _Bryan Dean Wright_: Dems Bleeding Out From Self-Inflicted Wound
+*   _Seth Barron_: #MeToo's Descent Into Theocratic Certitude
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Nikki Haley Stepping Down as UN Ambassador at End of This Year
 *   Trump Apologizes to Kavanaugh, Family for Campaign of "Lies and Deception"
+*   Clinton: Civility Can Start Again When Dems Take House and or Senate
 *   Supreme Court Fight Sharpens the Stakes for Midterms
-*   Kavanaugh Formally Sworn In at White House Ceremony
 *   Sizing Up the New Jersey Senate Race
-*   Democrats Embrace Obamacare in Tough Senate Races
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Rhode Island Senate - Flanders vs. WhitehouseUNH
-    *   Whitehouse57
-    *   Flanders33Whitehouse +24
-*   Georgia Governor - Kemp vs. AbramsWXIA-TV/SurveyUSA
-    *   Kemp47
-    *   Abrams45Kemp +2
-*   Rhode Island Governor - Fung vs. RaimondoUNH\*
-    *   Raimondo48
-    *   Fung34Raimondo +14
-*   Maryland Governor - Hogan vs. JealousGonzales Research\*
-    *   Hogan54
-    *   Jealous36Hogan +18
+*   Nevada Senate - Heller vs. RosenNY Times/Siena
+    *   Rosen45
+    *   Heller47Heller +2
+*   Michigan Senate - James vs. StabenowMitchell Research
+    *   Stabenow51
+    *   James42Stabenow +9
+*   Massachusetts Senate - Diehl vs. WarrenUMass Lowell\*
+    *   Warren56
+    *   Diehl31Warren +25
+*   Michigan Governor - Schuette vs. WhitmerMitchell Research
+    *   Whitmer46
+    *   Schuette38Whitmer +8
 
 More Latest Polls In The News
 
-*   Hillary Clinton: "Civility Can Start Again" When Democrats Take Back The House And Or The Senate
-*   Sen. Cotton: "The Schumer Political Operation" Was Behind Release Of Dr. Ford's Letter From Very Beginning
-*   Carville: Kavanaugh "Worth A Lot More Alive Than Dead," "Democrats Are Going To Keep Digging Up Stuff"
+*   Conway: Blue Wave Forecasts Coming From "Same Geniuses" That Predicted A Huge Clinton, Dem Win
+*   Sabato: "Red Wave Ain't Going To Happen, It's Just A Question About How Big The Blue Wave Is"
+*   Hillary Clinton: "Civility Can Start Again" When Democrats Take Control Of The House And Or The Senate
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Sen. Hirono: Even If They Don't Overturn Roe v. Wade, Republicans "Will Nullify It Pretty Much"
+*   Sen. Cotton: "The Schumer Political Operation" Was Behind Release Of Dr. Ford's Letter From Very Beginning
 
 *   Politics
 *   Policy
