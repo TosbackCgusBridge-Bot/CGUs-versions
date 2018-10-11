@@ -1,5 +1,3 @@
-Cookie PolicySencha uses cookies (required, functionality, and advertising cookies) to improve user experience. By using our website you consent to all cookies in accordance with our Cookie policyNo, thanksYes, I consent
-
 Sencha.com
 
 *   Products
@@ -33,9 +31,9 @@ Sencha.com
 *   SenchaDevs
 *   Search
 
-Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy _Published: January 24, 2004 | Last Updated: April 23, 2018_
+Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy _Published: January 24, 2004 | Last Updated: September 26, 2018_
 
-Idera Inc., together with its United States subsidiaries, CopperEgg Corporation, Uptime Software, Inc., AquaFold, Inc, Embarcadero Technologies, Inc., Sencha, Inc. and Precise Software Solutions, Inc. (collectively, the “Company”), is committed to respecting and protecting the privacy of our customers, partners, webinars attendees and website visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Statement we describe the Company’s privacy practices in relation to the use of the Company’s Websites (as defined below) and the related applications, services, products and programs offered by the Company (collectively, “Services”), as well as individuals’ choices regarding use, access and correction of personal information.
+Idera Inc., together with its United States subsidiaries, CopperEgg Corporation, Uptime Software, Inc., AquaFold, Inc, Embarcadero Technologies, Inc., Sencha, Inc., Precise Software Solutions, Inc. and Whole Tomato Software, LLC (collectively, the “Company”), is committed to respecting and protecting the privacy of our customers, partners, webinars attendees and website visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Statement we describe the Company’s privacy practices in relation to the use of the Company’s Websites (as defined below) and the related applications, services, products and programs offered by the Company (collectively, “Services”), as well as individuals’ choices regarding use, access and correction of personal information.
 
 The Company’s Services comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. You can view a description of how we comply with the Privacy Shield Principles in our Privacy Shield Notice. The Company has certified to the Department of Commerce that the Services described in our Privacy Shield Notice adhere to the Privacy Shield Principles. To learn more about the Privacy Shield principles, please visit https://www.privacyshield.gov/welcome.
 
@@ -43,7 +41,7 @@ If you have questions or complaints regarding the Company’s Privacy Statement 
 
 1\. Websites covered
 
-This Privacy Statement covers the information practices, including how the Company collects, uses, shares and secures the personal information you provide to websites that link to this Privacy Statement, which are the following websites www.idera.com, www.aquafold.com, www.embarcadero.com and www.sencha.com (collectively referred to as the “Company Websites”).
+This Privacy Statement covers the information practices, including how the Company collects, uses, shares and secures the personal information you provide to websites that link to this Privacy Statement, which are the following websites www.idera.com, www.aquafold.com, www.embarcadero.com, www.wholetomato.com and www.sencha.com (collectively referred to as the “Company Websites”).
 
 2\. Collection of Personal Information
 
