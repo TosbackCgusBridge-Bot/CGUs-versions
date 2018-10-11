@@ -36,11 +36,11 @@
     *   Porterhouse Steaks
     *   Tomahawk Steaks
     
-    Shop by Type*   Specialty Meats
-    *   Prime Steaks
-    *   Burgers
-    *   Combos
+    Shop by Type*   Prime Steaks
     *   Impressive Cuts
+    *   Combos
+    *   Burgers
+    *   Specialty Meats
     *   Seafood
 *   Gourmet Food
     
@@ -119,11 +119,11 @@
     *   Porterhouse Steaks
     *   Tomahawk Steaks
     
-    Shop by Type*   Specialty Meats
-    *   Prime Steaks
-    *   Burgers
-    *   Combos
+    Shop by Type*   Prime Steaks
     *   Impressive Cuts
+    *   Combos
+    *   Burgers
+    *   Specialty Meats
     *   Seafood
 *   Gourmet Food
     
