@@ -182,7 +182,7 @@ Last month
 
 ICYMI: Publishers Turn to White-Glove Services for Ad Buying and Management Needs econtentmag.com/Arti…
 
-Last month
+About a month ago
 
 Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
 
