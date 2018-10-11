@@ -73,7 +73,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   James Gunn to Write and Maybe Direct 'Suicide Squad 2'. Here's Everything We Know Read More
     *   Mamma Mia! Here We Go Again: Behind the Scenes - Telling A Story Read More
-    *   Patty Jenkins Might Direct Margot Robbie in 'Barbie'. Here's Everything We Know Read More
+    *   First 'Pet Sematary' Trailer Eerily Resurrects a Classic. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
