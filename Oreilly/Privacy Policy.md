@@ -48,7 +48,7 @@ See all About O’Reilly
 *   Tim O'Reilly
 *   Editorial Independence
 
-Privacy Policy This version (Version 4.1) is effective as of October 4, 2018.
+Privacy Policy This version (Version 4.2) is effective as of October 10, 2018.
 
 *   Overview
 *   About Us
@@ -179,7 +179,7 @@ In certain circumstances, we will receive information about you from other sourc
 *   **Your current and former employers, recruitment agencies, and referees.**
 *   **Service providers** including our website developers, IT support providers, cloud services providers, payment services providers, billing service providers, contractors, consultants, advertising agencies and platforms, digital performance monitoring and management providers, advertising analytics providers, marketing and sales service providers, user experience testing platforms, B2B contact databases, recruitment agencies, survey tool providers, customer relationship and customer support service providers, event ticket retailers, event management platform service providers, customer identity account management providers, HR service providers, couriers, instant messaging service providers.
 *   **Social media plugins.** By providing your social media account details you are authorizing that third-party provider to share with us certain information about you.
-*   **Publicly available sources** such as LinkedIn.
+*   **Publicly available sources** such as LinkedIn, Facebook, Twitter, and Google+.
 
 We might also receive information about you from other third parties if you have indicated to such third parties that you would like to hear from us.
 
@@ -199,7 +199,7 @@ We need to have further justification for collecting, storing and using this typ
 For example, we will collect special categories of information:
 
 *   when you apply to work for us (for diversity and equal opportunities records, to support your needs and facilitate access to our premises, and to carry out background checks);
-*   when you attend our events, visit our premises, or apply for a scholarship from us (to improve racial balance at our events), to make any necessary arrangements for your attendance, and to investigate claims about breaches of our Conference Code of Conduct.
+*   when you attend our events, visit our premises, or apply for a diversity and inclusion scholarship from us to attend one of our conferences (to improve racial balance at our events), to make any necessary arrangements for your attendance, and to investigate claims about breaches of our Conference Code of Conduct.
 
 In limited circumstances, we may request your written consent to allow us to use certain particularly sensitive data. If we do so, we will provide you with full details of the information that we would like and the reason we need it, so that you can carefully consider whether you wish to consent.
 
@@ -367,6 +367,8 @@ California law requires us to let you know how we respond to web browser Do Not 
 Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your consent. If we make any material changes we will notify you by email or by means of a notice on this website prior to the change becoming effective. You can also view prior versions of the Policy by viewing the links in section 11 below.
 
 11\. Previous Versions of the Privacy Policy 11.1 O'Reilly and Safari privacy policies
+
+Click here for version 4.1
 
 Click here for version 4.0
 
