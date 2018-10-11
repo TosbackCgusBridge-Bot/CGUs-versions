@@ -73,18 +73,6 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
-Mon, Oct 8, 2018 How to Make Trustworthy IoT LOCATION
-
-The HUB at Grand Central Tech  
-335 Madison Ave  
-4th Floor  
-New York, NY 10017  
-United States
-
-DESCRIPTION
-
-IoT Nation and the Internet Society New York Chapter (ISOC-NY) present 'How to Make Trustworthy IoT' - an IoT Privacy &. Security Workshop with the Online Trust Alliance (OTA).
-
 *   OTA Blog
 *   Newsletters
 
