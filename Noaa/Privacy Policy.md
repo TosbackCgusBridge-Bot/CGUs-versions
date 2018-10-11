@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Michael now a major hurricane expected to make landfall Wednesday Life-threatening storm surge, hurricane-force winds, heavy rain expected for northeastern Gulf Coast AROUND NOAA // September was 3rd wettest, 4th warmest on record for U.S. During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\] New PORTS in Corpus Christi and Toledo bring safety, economic benefit \[EXT\]
+Enter Search Terms Michael moves inland through southwestern Georgia Life-threatening storm surge, catastrophic winds, heavy rainfall continue AROUND NOAA // September was 3rd wettest, 4th warmest on record for U.S. During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\] New PORTS in Corpus Christi and Toledo bring safety, economic benefit \[EXT\]
 
 *   About our agency
 *   News and features
