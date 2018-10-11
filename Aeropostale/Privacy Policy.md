@@ -242,7 +242,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**$15 OFF $75** USE CODE **SAVEMORE** **50-70% OFF + FREE SHIPPING OVER $50**
+**$10 OFF $50** USE CODE **SAVEMORE** **50-70% OFF + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
@@ -483,17 +483,3 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
