@@ -88,8 +88,8 @@ Close Recent Searches Clear all Suggested Keywords Upload
     *   Big Dick
     *   Old/Young
 *   Tags
-    Top 20 Porntags*   xxx bf
-    *   japanese
+    Top 20 Porntags*   japanese
+    *   xxx bf
     *   japanese mature
     *   japan
     *   mom
@@ -99,8 +99,8 @@ Close Recent Searches Clear all Suggested Keywords Upload
     *   young
     *   arab
     *   german
-    *   masturbation
     *   orgasm
+    *   masturbation
     *   interracial
     *   sexxx
     *   petite
