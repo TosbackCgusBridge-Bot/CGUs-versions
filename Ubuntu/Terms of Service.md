@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Snapistics – Snaps in numbers ›
+*   Digital signage: the face of the smart city revolution ›
 *   Ubuntu does OpenStack ›
 *   Design and Web team summary – 8 October 2018 ›
 *   Ubuntu events in October ›
-*   Ubuntu at GTC Europe 2018 ›
-*   How mir-kiosk enables a graphical IoT using Mir ›
