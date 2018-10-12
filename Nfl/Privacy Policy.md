@@ -1,4 +1,4 @@
-*   PHI2-3NYG1-4Thu, 8:20 pm ET
+*   PHI3-334NYG1-513Final
 *   TB2-2ATL1-4Sun, 1:00 pm ET
 *   PIT2-2-1CIN4-1Sun, 1:00 pm ET
 *   LAC3-2CLE2-2-1Sun, 1:00 pm ET
@@ -24,14 +24,13 @@
 *   Tickets
 *   Shop
 *   Teams
-*   Free Agency
 *   Game Pass
 *   Stats
 *   Ways to Watch
 *   NFL Network
 *   Photos
 
-*   PHI2-3NYG1-4Thu, 8:20 pm ET
+*   PHI34NYG13Final
 *   TB2-2ATL1-4Sun, 1:00 pm ET
 *   PIT2-2-1CIN4-1Sun, 1:00 pm ET
 *   LAC3-2CLE2-2-1Sun, 1:00 pm ET
@@ -56,8 +55,7 @@
 
 *   Highlights
 
-*   *   Free Agency
-    *   Game Pass
+*   *   Game Pass
     *   Stats
     *   Ways to Watch
     *   NFL Network
