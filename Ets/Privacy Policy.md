@@ -308,10 +308,6 @@ Products
 *   TOEIC Tests
 *   View All
 
-Follow ETS
-
-_ETS LinkedIn_ _ETS Corporate Twitter_
-
 *   Send Feedback
 
 *   Legal
