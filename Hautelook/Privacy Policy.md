@@ -8,14 +8,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Trina Turk Clothing &. Swim Up to 65% Off
+    *   Just Me Dresses
+    *   Step into Comfort: Clarks, Dansko &. More
+    *   Get the Skinny: Hudson Jeans &. More
+    *   Mirenesse Australia Up to 70% Off
+    *   Sky
+    *   Free Shipping: Amrapur Bedding Up to 80% Off
+    *   English Laundry Starting at $20
+    *   You Know I'm Bad &. More
+    *   Trina Turk Jewelry Up to 60% Off
+    *   KicKee Pants
+    *   Manitobah Mukluks
+    *   Wild Style: Whimsical Animal Art
+    *   English Factory
+    *   Butter Super Soft
+    *   Rush by Gordon Rush
+    *   KYBOE! Watches Starting at $96
+    *   Our Favorite Women's Fashion Sneakers
+    *   Rizos Curls
+    *   Free Shipping: Farmhouse-Inspired Holiday Decor
+    *   Elizabeth and James Sun &. More Up to 75% Off
+    *   National Handbag Day: Styles Up to 60% Off
     *   PJ Salvage
     *   Dolce Vita Up to 50% Off
     *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
-    *   Rain Shoes ft. Hunter &. Sperry
-    *   National Handbag Day: Styles Up to 60% Off
     *   Joe Fresh Incl. Plus
     *   On Trend: Belt Bags
     *   Free Shipping: BergHOFF Up to 65% Off
+    
+    *   Rain Shoes ft. Hunter &. Sperry
     *   Alternative Apparel Men Starting at $13
     *   Cult of Individuality
     *   Mimi &. Maggie
@@ -31,80 +53,69 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Aldo Men Starting at $20
     *   Designer Fragrances: Calvin Klein &. More
     *   Free Shipping: Modern Accent Furniture &. More
-    *   Ben Sherman Men Up to 60% Off
-    *   Check It Out: Fall Prints Incl. Plus &. Petites
-    *   PJ Salvage Kids &. More
     *   KitchenAid
     *   Fall Feast Ready: Staub Cast Iron Cookware
     *   Halloween &. Holiday Doormats
-    
     *   Home Improvements: Organizers &. More from $10
     *   Tommy Bahama Men's Clothing &. More
     *   Tommy Bahama Clothing &. More
-    *   Tommy Bahama Luggage &. Handbags
     *   Tommy Bahama Swim
-    *   Catherine Catherine Malandrino Up to 50% Off
-    *   Joan Vass
-    *   Feminine Flair: Fall Dresses Up to 65% Off
     *   Mini Melissa
-    *   Boots Starting at $30
-    *   Illa Illa
     *   Violet Voss
     *   Way of Will Organic Skin Care
     *   Peace Love World Kids
     *   Preschool Prep Company
-    *   Favorite Fall Leggings
-    *   Go Neutral: Grey Styles Incl. Plus &. Petites
-    *   Standout Shoes: Prints, Applique &. More
+    
     *   Tommy Bahama Kids &. More Starting at $15
     *   Giorgio Brutini
     *   Stila
-    *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
     *   Donald Pliner Men
-    *   Nixon Watches Up to 60% Off
     *   Free Shipping: Cozy Bedding Essentials
-    *   Melissa &. Doug
-    *   Masala Baby &. Kids
     *   ...Lost
-    *   Nicole Miller Girls' Shoes
-    
     *   Andrew Marc Shoes Up to 70% Off
     *   Luseta Beauty Hair Care from $10
     *   Gallery-Quality Art Prints
     *   Luxe Locks: Hair Tools Blowout
-    *   Men's Shoes Up to 70% Off
     *   Earbuds &. Beyond: Gym Accessory Blowout
-    *   Magnanni
     *   Free Shipping: Traditional Rugs Up to 70% Off
     *   Glow On: Sheet Masks &. More ft. It's Skin
-    *   Wear to Work: Trousers Starting at $30
-    *   Robert Graham
     *   Dynamic Innovation Labs Skin Care
-    *   Fall Glow: True Moringa Oils &. More
     *   Free Shipping: Soft Microfiber Bedding &. More
-    *   Zoe Ayla Cosmetics
+    *   Ben Sherman Men Up to 60% Off
+    *   Check It Out: Fall Prints Incl. Plus &. Petites
+    *   Snap to It: Fujifilm Cameras
+    *   Work Dresses ft. Tahari
+    *   Joan Vass
+    *   Feminine Flair: Fall Dresses Up to 65% Off
+    *   Favorite Fall Leggings
+    *   Go Neutral: Grey Styles Incl. Plus &. Petites
+    *   PJ Salvage Kids &. More
     *   Just Add Glam: On-Trend Accent Furniture &. More
     *   Space Savers: Closet Organizers &. More from $10
-    *   Snap to It: Fujifilm Cameras
     *   Game On: College Football Wall Decor
-    *   Free Shipping: Essential Solid Sheet Sets
-    *   Easy Upgrades: Jewelry Organizers &. More
-    *   Kier &. J
-    *   Vertigo Up to 85% Off
-    *   Million Polkadots
-    *   Frenchie Mini Couture
-    *   Work Dresses ft. Tahari
-    *   Loveappella
 *   WomenShop Sale Events
     
+    *   Trina Turk Clothing &. Swim Up to 65% Off
+    *   Just Me Dresses
+    *   Step into Comfort: Clarks, Dansko &. More
+    *   Get the Skinny: Hudson Jeans &. More
+    *   Sky
+    *   Trina Turk Jewelry Up to 60% Off
+    *   Manitobah Mukluks
+    *   English Factory
+    *   KYBOE! Watches Starting at $96
+    *   Our Favorite Women's Fashion Sneakers
+    *   Rizos Curls
+    *   Elizabeth and James Sun &. More Up to 75% Off
+    *   National Handbag Day: Styles Up to 60% Off
     *   PJ Salvage
     *   Dolce Vita Up to 50% Off
     *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
-    *   Rain Shoes ft. Hunter &. Sperry
-    *   National Handbag Day: Styles Up to 60% Off
     *   Joe Fresh Incl. Plus
     *   On Trend: Belt Bags
+    *   Rain Shoes ft. Hunter &. Sperry
     *   Detox Organics: Chocolate Superfoods
+    
     *   Nicole Miller Up to 75% Off
     *   Derek Lam Up to 70% Off
     *   London Dress Company
@@ -112,61 +123,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Leather Wallets &. More Starting at $15
     *   Blackstone Up to 55% Off
     *   Designer Fragrances: Calvin Klein &. More
-    *   Check It Out: Fall Prints Incl. Plus &. Petites
     *   Tommy Bahama Clothing &. More
-    *   Tommy Bahama Luggage &. Handbags
     *   Tommy Bahama Swim
-    *   Catherine Catherine Malandrino Up to 50% Off
-    
-    *   Joan Vass
-    *   Feminine Flair: Fall Dresses Up to 65% Off
-    *   Boots Starting at $30
-    *   Illa Illa
     *   Violet Voss
     *   Way of Will Organic Skin Care
-    *   Favorite Fall Leggings
-    *   Go Neutral: Grey Styles Incl. Plus &. Petites
-    *   Standout Shoes: Prints, Applique &. More
     *   Stila
-    *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
-    *   Nixon Watches Up to 60% Off
     *   Luxe Locks: Hair Tools Blowout
     *   Dynamic Innovation Labs Skin Care
-    *   Fall Glow: True Moringa Oils &. More
-    *   Zoe Ayla Cosmetics
-    *   Kier &. J
-    *   Vertigo Up to 85% Off
+    *   Check It Out: Fall Prints Incl. Plus &. Petites
     *   Work Dresses ft. Tahari
-    *   Loveappella
+    *   Joan Vass
+    *   Feminine Flair: Fall Dresses Up to 65% Off
+    *   Favorite Fall Leggings
+    *   Go Neutral: Grey Styles Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Jewelry
-    *   Lingerie
-    *   Tech Accessories
+    *   Handbags
     *   Accessories
+    *   Lingerie
     *   Watches
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   English Laundry Starting at $20
+    *   You Know I'm Bad &. More
+    *   Rush by Gordon Rush
+    *   KYBOE! Watches Starting at $96
     *   Alternative Apparel Men Starting at $13
     *   Cult of Individuality
     *   Detox Organics: Chocolate Superfoods
-    *   Aldo Men Starting at $20
-    *   Ben Sherman Men Up to 60% Off
-    *   Tommy Bahama Men's Clothing &. More
-    *   Tommy Bahama Luggage &. Handbags
-    *   Giorgio Brutini
     
+    *   Aldo Men Starting at $20
+    *   Tommy Bahama Men's Clothing &. More
+    *   Giorgio Brutini
     *   Donald Pliner Men
-    *   Nixon Watches Up to 60% Off
     *   ...Lost
     *   Andrew Marc Shoes Up to 70% Off
-    *   Men's Shoes Up to 70% Off
-    *   Magnanni
-    *   Wear to Work: Trousers Starting at $30
-    *   Robert Graham
+    *   Ben Sherman Men Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -175,81 +171,77 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   KicKee Pants
+    *   Butter Super Soft
     *   Mimi &. Maggie
     *   Kickoff to Christmas: Toys Starting at $8
     *   Venettini
-    *   PJ Salvage Kids &. More
     *   Mini Melissa
     *   Peace Love World Kids
     *   Preschool Prep Company
-    
     *   Tommy Bahama Kids &. More Starting at $15
-    *   Melissa &. Doug
-    *   Masala Baby &. Kids
-    *   Nicole Miller Girls' Shoes
-    *   Million Polkadots
-    *   Frenchie Mini Couture
+    *   PJ Salvage Kids &. More
     
     Shop By Category
-    *   Girls Sizes 2T-6X
-    *   Girls' Shoes
-    *   Toys
-    *   Boys Sizes 2T-7
     *   Baby Girl
+    *   Girls Sizes 2T-6X
+    *   Toys
+    *   Girls' Shoes
     *   Girls Sizes 7-16
-    *   Boys Sizes 8-20
     *   Baby Boy
+    *   Boys Sizes 2T-7
+    *   Boys Sizes 8-20
     *   Boys' Shoes
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Amrapur Bedding Up to 80% Off
+    *   Wild Style: Whimsical Animal Art
+    *   Free Shipping: Farmhouse-Inspired Holiday Decor
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: Modern Accent Furniture &. More
     *   KitchenAid
     *   Fall Feast Ready: Staub Cast Iron Cookware
     *   Halloween &. Holiday Doormats
     *   Home Improvements: Organizers &. More from $10
-    *   Tommy Bahama Luggage &. Handbags
+    
     *   Free Shipping: Cozy Bedding Essentials
     *   Gallery-Quality Art Prints
-    
     *   Earbuds &. Beyond: Gym Accessory Blowout
     *   Free Shipping: Traditional Rugs Up to 70% Off
     *   Free Shipping: Soft Microfiber Bedding &. More
+    *   Snap to It: Fujifilm Cameras
     *   Just Add Glam: On-Trend Accent Furniture &. More
     *   Space Savers: Closet Organizers &. More from $10
-    *   Snap to It: Fujifilm Cameras
     *   Game On: College Football Wall Decor
-    *   Free Shipping: Essential Solid Sheet Sets
-    *   Easy Upgrades: Jewelry Organizers &. More
     
     Shop By Category
-    *   Bedding
-    *   Kitchen &. Tabletop
     *   Home Decor
-    *   Accent Furniture
+    *   Kitchen &. Tabletop
+    *   Bedding
     *   Rugs
+    *   Accent Furniture
     *   Storage &. Cleaning
-    *   Luggage &. Travel
     *   Outdoor Living
     *   Bath
 *   BeautyShop Sale Events
     
+    *   Mirenesse Australia Up to 70% Off
+    *   Rizos Curls
     *   Detox Organics: Chocolate Superfoods
     *   Designer Fragrances: Calvin Klein &. More
     *   Violet Voss
     *   Way of Will Organic Skin Care
+    
     *   Stila
     *   Luseta Beauty Hair Care from $10
-    
     *   Luxe Locks: Hair Tools Blowout
     *   Glow On: Sheet Masks &. More ft. It's Skin
     *   Dynamic Innovation Labs Skin Care
-    *   Fall Glow: True Moringa Oils &. More
-    *   Zoe Ayla Cosmetics
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Tools &. Accessories
     *   Hair Care
     *   Fragrance
