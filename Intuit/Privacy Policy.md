@@ -7,7 +7,6 @@ SHOP DEPARTMENTS
 *   Same Day Pickup
 *   Store Ads
 *   Halloween
-*   JCP Bonus Bucks
 *   Clearance
 *   Coupons
 
