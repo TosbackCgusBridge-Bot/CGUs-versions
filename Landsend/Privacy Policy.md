@@ -329,7 +329,6 @@ Bag 0
     Featured Shops
     *   Little Black Suit
     *   Women's Swim Finder
-    *   Women's Mix &. Match Tool
     *   Kids' Swim Shop
     *   Sale
 *   School FIND YOUR SCHOOL>FEATURED SHOPS
@@ -795,7 +794,6 @@ Lands' End Sign In menu
         *   Back
         *   Little Black Suit
         *   Women's Swim Finder
-        *   Women's Mix &. Match Tool
         *   Kids' Swim Shop
         *   Sale
 *   School
@@ -976,9 +974,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 30% off full-price styles!
 
-code: FOOTBALL pin: 9216 DETAILS
+code: FROST pin: 2365 DETAILS
 
 Customer Service Menu
 
