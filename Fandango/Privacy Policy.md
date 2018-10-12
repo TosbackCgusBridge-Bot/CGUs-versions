@@ -72,7 +72,7 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   James Gunn to Write and Maybe Direct 'Suicide Squad 2'. Here's Everything We Know Read More
-    *   Mamma Mia! Here We Go Again: Behind the Scenes - Telling A Story Read More
+    *   The Bad Guys Team Up in New 'Glass' Trailer: Here's Everything We Know Read More
     *   First 'Pet Sematary' Trailer Eerily Resurrects a Classic. Here's Everything We Know Read More
     
     Explore Content
@@ -324,6 +324,10 @@ Offers
 *   Fandango VIP
     
     Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    
+*   FandangoNOW Binge Bundles
+    
+    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
     
 *   FandangoNOW Fresh Picks: October
     
