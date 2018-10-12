@@ -280,7 +280,6 @@ FALL FAVORITES ON SALE! SHOP NOW.
         *   Looks
         
         *   The Campus Shop
-        *   Country Concerts
         *   The Basics
         *   Night Out
         *   Active &. Lounge
