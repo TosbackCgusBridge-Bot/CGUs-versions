@@ -107,11 +107,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Tai Chi Helps Seniors Avoid Dangerous Falls
-    *   Is Fish Oil the Answer for Heart Disease, Diabetes?
-    *   Vaccine Shows Promise Against a Range of Cancers
-    *   6.5 Million Pounds of Beef Products Recalled
-    *   Science Says 'Hug It Out'
+    *   Typhus Outbreak in California Continues to Grow
+    *   Smog Tied to Higher Odds for Mouth Cancers
+    *   Hospital Privacy Curtains Hold Risky Germs
+    *   Does Aspirin Help Prevent Liver Cancer?
+    *   Can Fasting Help Reverse Type 2 Diabetes?
     
     Experts &. Community
     
