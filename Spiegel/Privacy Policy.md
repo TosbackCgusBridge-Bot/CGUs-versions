@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   11\. Oktober 2018
+*   12\. Oktober 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.712,50ǀ
+*   DAX 11.539,35ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -321,12 +321,12 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 *   *   Eurojackpot
     *   Lottozahlen
     *   Glücksspirale
-    *   Sportwetten
-*   *   Gutscheine
+*   *   Sportwetten
+    *   Gutscheine
     *   Bücher bestellen
-    *   Arztsuche
+*   *   Arztsuche
     *   Ferientermine
-*   *   Spiele
+    *   Spiele
 
 SPIEGEL GRUPPE
 
