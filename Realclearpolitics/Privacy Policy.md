@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _John Kass_: Is Book Burning Next for Anti-Kavanaugh Liberals?
+*   _Thomas Edsall_: Is the Rust Belt Still Trump Country?
     
-*   _Paul Krugman_: The Paranoid Style in Republican Politics
+*   _Mollie Hemingway_: There's No Such Thing as a Moderate Democrat in 2018
     
-*   _Mollie Hemingway_: Trump's Kavanaugh Apology Showed True Leadership
+*   _Ella Nilsen_: Harry Reid Is Still a Democratic Kingmaker in Nevada
     
-*   _Amanda Marcotte_: Right-Wing Misogyny Is Now Laid Bare for All to See
+*   _Patrice Onwuka_: Kanye, Trump Can Deliver for Forgotten Black Community
     
-*   _Alexandra DeSanctis_: Liberal Feminism's Identity-Politics Problem
+*   _Tariro Mzezewa_: I Loved Kanye West, Hated Taylor Swift--Then 2018 Happened
     
-*   _Uri Friedman_: Why Nikki Haley's Departure Shocked Washington
+*   _James Lindsay_: How We Fooled Academic Liberals With Fake Studies
     
-*   _Christian Whiton_: Haley Was a Big Success--What Trump Should Do Next
+*   _Emily Atkin_: In Defense of Politicizing Hurricanes
     
-*   _Thomas Friedman_: Donald Trump Versus the Jungle
+*   _Julie Kelly_: Climate Change's Ever-Shifting Goalposts
     
-*   _John Mearsheimer_: The Great Delusion: Liberal Dreams, International Realities
+*   _Carl Cannon_: Carter, Obama and the Politicized Nobel Peace Prize
     
-*   _Jeff Patch_: Bloomberg Embeds Green Warriors in Blue-State Governments
+*   _Michael Fuchs_: Haley's Departure Reflects Chaos of Trump's Foreign Policy
     
-*   _Judith Shulevitz_: Alexa, Should We Trust You?
+*   _Seth Lipsky_: Haley Triumphed at the UN Because She Saw Through It
     
-*   _Jeremy Peters_: Kavanaugh Uproar Fuels GOP Races for Governor &. House
+*   _Conrad Black_: Kavanaugh Looks to Be Changing the Election Map
     
-*   _Victor Davis Hanson_: Counting the Kavanaugh Casualties
+*   _Reps. Bustos_: What Dems Will Do If We Win the House
     
-*   _Leonard Pitts_: Like Afrikaners, GOP Seeks to Enshrine Minority Rule
+*   _Betsy McCaughey_: Democrats' Socialist Ideas Would Tank Economy
     
-*   _Marc Thiessen_: We Have Not Yet Plumbed the Depths of Dems' Ruthlessness
+*   _Griffin &. Sides_: Economic Anxiety Didn't Elect Trump, and It May Hurt His Party
     
-*   _Froma Harrop_: Democrats, Keep Cool and Keep Calm
+*   _Adele Malpass_: Independents Likely Hold the Key to House Control
     
-*   _Brent Budowsky_: Code Red Alert for Democrats
+*   _Melissa Mackenzie_: Kanye and Trump: Real Hope and Change?
     
-*   _Michael Goodwin_: Where's the Outrage Over Hillary's Call for Civil War?
+*   _Christopher Hale_: Why Taylor Swift's Endorsements Could Be Powerful in TN
     
-*   _Harold Meyerson_: The Constitution's Anti-Majoritarian Bias
+*   _Mark Alderman_: Deja Vu for Democrats?
     
-*   _President Donald Trump_: Dems 'Medicare for All' Plan Threatens Our Seniors
+*   _Jonathan Tobin_: Latest UN Doomsaying Comes Off as Hyperbole, Not Science
     
-*   _Bob Moser_: The Fearless Rise of the Black Southern Progressive
+*   _Ban Ki-moon_: UN Climate Report Shows How Wrong Leaders Like Trump Are
     
-*   _Roger Kimball_: Is Alexandria Ocasio-Cortez a Republican Plant?
+*   _Steve Cortes_: The Stock Market Dip and the Trump Era of Main Street Growth
     
-*   _Jia Tolentino_: One Year of #MeToo: Women's Speech Still Faces Limits
+*   _Jane McAlevey_: Lessons for Democrats: Winning in November and Beyond
     
-*   _Seth Barron_: #MeToo's Descent Into Theocratic Certitude
+*   _Alan Dershowitz_: ACLU Opposition to Kavanaugh Sounds Its Death Knell
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Independents Likely Hold the Key to House Control
+*   Parties Take Fight for Votes Straight to Suburban Women
+*   Conway: Same Geniuses Talking "Blue Wave" Predicted Easy Clinton Win
 *   Nikki Haley Stepping Down as UN Ambassador at End of This Year
-*   Trump Apologizes to Kavanaugh, Family for Campaign of "Lies and Deception"
-*   Clinton: Civility Can Start Again When Dems Take House and or Senate
-*   Supreme Court Fight Sharpens the Stakes for Midterms
 *   Sizing Up the New Jersey Senate Race
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,24 +243,24 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Nevada Senate - Heller vs. RosenNY Times/Siena
-    *   Rosen45
-    *   Heller47Heller +2
-*   Michigan Senate - James vs. StabenowMitchell Research
-    *   Stabenow51
-    *   James42Stabenow +9
-*   Massachusetts Senate - Diehl vs. WarrenUMass Lowell\*
-    *   Warren56
-    *   Diehl31Warren +25
-*   Michigan Governor - Schuette vs. WhitmerMitchell Research
-    *   Whitmer46
-    *   Schuette38Whitmer +8
+*   Tennessee Senate - Blackburn vs. BredesenNY Times/Siena
+    *   Blackburn54
+    *   Bredesen40Blackburn +14
+*   Texas Senate - Cruz vs. O'RourkeNY Times/Siena
+    *   Cruz51
+    *   O'Rourke43Cruz +8
+*   Georgia Governor - Kemp vs. AbramsAtlanta Journal-Constitution\*
+    *   Kemp48
+    *   Abrams46Kemp +2
+*   Florida 27th District - Salazar vs. ShalalaMason-Dixon
+    *   Salazar44
+    *   Shalala42Salazar +2
 
 More Latest Polls In The News
 
-*   Conway: Blue Wave Forecasts Coming From "Same Geniuses" That Predicted A Huge Clinton, Dem Win
+*   Kanye West: President Trump Is "On His Hero's Journey," Wearing "MAGA" Hat Makes Me Feel Like Superman
+*   Chuck Todd: Republicans "Outraged" At Ugly Political Environment They Created. Painting Dems As A Mob
 *   Sabato: "Red Wave Ain't Going To Happen, It's Just A Question About How Big The Blue Wave Is"
-*   Hillary Clinton: "Civility Can Start Again" When Democrats Take Control Of The House And Or The Senate
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
 *   Sen. Cotton: "The Schumer Political Operation" Was Behind Release Of Dr. Ford's Letter From Very Beginning
 
