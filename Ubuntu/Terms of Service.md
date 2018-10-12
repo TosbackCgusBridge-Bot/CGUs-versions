@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Plex arrives in Canonical’s Snap Store ›
+*   Fresh Snaps from September 2018 ›
 *   Snapistics – Snaps in numbers ›
 *   Digital signage: the face of the smart city revolution ›
 *   Ubuntu does OpenStack ›
-*   Design and Web team summary – 8 October 2018 ›
-*   Ubuntu events in October ›
