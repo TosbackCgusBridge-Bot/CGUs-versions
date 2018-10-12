@@ -7,11 +7,11 @@
     *   Basketball Wives
     *   Black Ink Crew
     *   Black Ink Crew Chicago
-    *   Hip Hop Squares
     *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Hollywood
     *   Martha &. Snoop's Potluck Dinner Party
-    *   Remy &. Papoose: Meet The MackiesSee all Shows
+    *   Remy &. Papoose: Meet The Mackies
+    *   T.I. &. Tiny: Friends &. Family HustleSee all Shows
 *   News
 *   App
 *   Watch Live TV
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBasketball WivesBlack Ink CrewBlack Ink Crew ChicagoHip Hop SquaresLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodMartha &. Snoop's Potluck Dinner PartyRemy &. Papoose: Meet The Mackiessee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBasketball WivesBlack Ink CrewBlack Ink Crew ChicagoLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodMartha &. Snoop's Potluck Dinner PartyRemy &. Papoose: Meet The MackiesT.I. &. Tiny: Friends &. Family Hustlesee all Shows
 *   News
 *   App
 *   Watch Live TV
