@@ -375,7 +375,7 @@ Service &. Warranty
 *   Maintenance Schedule
 *   Find a Dealer
 *   Warranty Coverage
-*   SERVICE EXPERIENCE
+*   Service by Lexus
 *   Lexus Tire Center
 
 Help &. Support
@@ -438,7 +438,7 @@ Brand &. Lifestyle
     *   Maintenance Schedule
     *   Find a Dealer
     *   Warranty Coverage
-    *   SERVICE EXPERIENCE
+    *   Service by Lexus
     *   Lexus Tire Center
 *   Help &. Support
     *   Roadside Assistance
