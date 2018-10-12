@@ -3,34 +3,34 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  20:35 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in xx:xx
-*   Best of new games 1455 games
-*   Most Popular Games 18061 games
+*   New Games Next in 20:35
+*   Best of new games 1478 games
+*   Most Popular Games 18073 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,241 games
-*   Driving &. Racing Games 6,685 games
-*   Strategy &. RPG Games 2,387 games
+*   Games for girls 23,249 games
+*   Driving &. Racing Games 6,687 games
+*   Strategy &. RPG Games 2,388 games
 *   Management Games 3,645 games
-*   Thinking Games 11,717 games
-*   Action &. Adventure Games 15,705 games
-*   Sports Games 2,111 games
-*   Shooting Games 8,179 games
+*   Thinking Games 11,722 games
+*   Action &. Adventure Games 15,711 games
+*   Sports Games 2,112 games
+*   Shooting Games 8,190 games
 *   Fighting Games 2,080 games
-*   Skill Games 10,367 games
-*   Arcade &. Classic Games 12,633 games
+*   Skill Games 10,377 games
+*   Arcade &. Classic Games 12,636 games
 *   Fun &. Crazy Games 2,434 games
 
 Play with friends  
-Powered by Y8 Account 127 Y8 Multiplayer Games 1,648 Y8 High Score Games 1,019 Y8 Achievements Games 775 Y8 Screenshots Games 1,319 Y8 Online Save Games 2,654 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 128 Y8 Multiplayer Games 1,656 Y8 High Score Games 1,027 Y8 Achievements Games 776 Y8 Screenshots Games 1,322 Y8 Online Save Games 2,662 All Y8 Games Games Last Highscore:
 
-**50** points on Swimming Pro by NanderZFx
+**152** points on The Ultimate Clicker Squad by 2551\_HOME
 
 Help us improve Bad translation? Social Share889K Y8 Games Facebook
 
