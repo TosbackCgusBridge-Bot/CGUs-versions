@@ -34,8 +34,8 @@ Skip to navigation Skip to main content Login Register Menu Close
 *   In DepthOpen Submenu
     *   In Depth Back
         *   SC Media Print Archive
+        *   Features
         *   Reboot Leadership Awards 2018
-        *   In Depth
         *   Director's Cut Videos
 *   EventsOpen Submenu
     *   Events Back
@@ -43,9 +43,9 @@ Skip to navigation Skip to main content Login Register Menu Close
         *   SC Awards 2019
         *   Webcasts
         *   Virtual Conferences
+*   SC UK
 *   Resource Library
 *   SC Security Ops Center
-*   SC UK
 
 Toggle Search Menu Search... Submit About SC Media
 
