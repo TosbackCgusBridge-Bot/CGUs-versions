@@ -1,5 +1,6 @@
 Skip to main content
 
+*   Very Real
 *   Crime Time
 *   Martinis &. Murder
 *   Trials
@@ -12,9 +13,10 @@ Skip to main content
     
     *   Chicago P.D.
     *   Cold Justice
+    *   Criminal Confessions
     *   Dateline: Secrets Uncovered
-    *   Dying To Belong
     *   Kemper on Kemper: Inside The Mind of a Serial Killer
+    *   Killer Couples
     *   Martinis &. Murder
     *   Snapped
     *   The Disappearance of Crystal Rogers
@@ -33,9 +35,10 @@ Get Updates Facebook Twitter Newsletter Oxygen.com
     
     *   Chicago P.D.
     *   Cold Justice
+    *   Criminal Confessions
     *   Dateline: Secrets Uncovered
-    *   Dying To Belong
     *   Kemper on Kemper: Inside The Mind of a Serial Killer
+    *   Killer Couples
     *   Martinis &. Murder
     *   Snapped
     *   The Disappearance of Crystal Rogers
@@ -48,6 +51,7 @@ Get Updates Facebook Twitter Newsletter Oxygen.com
 
 Get Updates Sites
 
+*   Very Real
 *   Crime Time
 *   Martinis &. Murder
 *   Trials
@@ -97,5 +101,3 @@ Get Involved
 Stay Connected Stay Connected
 
 ©2018 Oxygen Media LLC. A Division of NBCUniversal
-
-AddThis SharingSHARESFacebookTwitterPrintAddthisAddThis SharingPinterestFacebookEmailCopy Link
