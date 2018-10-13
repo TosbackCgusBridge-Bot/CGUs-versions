@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   OpenStack Summit Berlin 2018 ›
+*   Firefox ESR 60 availability on Ubuntu ›
 *   Plex arrives in Canonical’s Snap Store ›
 *   Fresh Snaps from September 2018 ›
 *   Snapistics – Snaps in numbers ›
-*   Digital signage: the face of the smart city revolution ›
-*   Ubuntu does OpenStack ›
