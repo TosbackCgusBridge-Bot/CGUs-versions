@@ -3,34 +3,34 @@
 *   games
 *   videos
 
-New Games Next in  20:35 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  20:25 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 20:35
-*   Best of new games 1478 games
-*   Most Popular Games 18073 games
+*   New Games Next in 20:25
+*   Best of new games 1503 games
+*   Most Popular Games 18079 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,249 games
-*   Driving &. Racing Games 6,687 games
-*   Strategy &. RPG Games 2,388 games
-*   Management Games 3,645 games
-*   Thinking Games 11,722 games
-*   Action &. Adventure Games 15,711 games
+*   Games for girls 23,265 games
+*   Driving &. Racing Games 6,688 games
+*   Strategy &. RPG Games 2,389 games
+*   Management Games 3,646 games
+*   Thinking Games 11,726 games
+*   Action &. Adventure Games 15,713 games
 *   Sports Games 2,112 games
-*   Shooting Games 8,190 games
+*   Shooting Games 8,201 games
 *   Fighting Games 2,080 games
-*   Skill Games 10,377 games
-*   Arcade &. Classic Games 12,636 games
-*   Fun &. Crazy Games 2,434 games
+*   Skill Games 10,386 games
+*   Arcade &. Classic Games 12,638 games
+*   Fun &. Crazy Games 2,435 games
 
 Play with friends  
-Powered by Y8 Account 128 Y8 Multiplayer Games 1,656 Y8 High Score Games 1,027 Y8 Achievements Games 776 Y8 Screenshots Games 1,322 Y8 Online Save Games 2,662 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 128 Y8 Multiplayer Games 1,660 Y8 High Score Games 1,034 Y8 Achievements Games 779 Y8 Screenshots Games 1,326 Y8 Online Save Games 2,667 All Y8 Games Games Last Highscore:
 
-**152** points on The Ultimate Clicker Squad by 2551\_HOME
+**5,325** points on Moto X3M 3 by tommytshirt6799
 
 Help us improve Bad translation? Social Share889K Y8 Games Facebook
 
