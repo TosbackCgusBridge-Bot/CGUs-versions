@@ -64,7 +64,7 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
 What is PeekScore? Public Records &. Background Checks 49%  49%  49%  2% 
 
@@ -286,7 +286,14 @@ Pinterest 49%  Wikipedia 2% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Google+ 49%  Music 2% 
+Google+ 11% 
+
+*   Free Privacy Policy - Google+
+    
+    Affiliate marketers get paid for endorsing products and brands on the internet. The Federal Trade Commission (FTC) requires affiliate marketers to disclose that  ...
+    
+
+Music 2% 
 
 *   Pandora
     
