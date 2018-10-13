@@ -58,7 +58,7 @@ Thomson Reuters Legal Search
 Legal
 
 1.  Thomson Reuters Legal
-2.  asdf
+2.  Products
 3.  Westlaw Legal Research
 4.  Legal Current Events | Westlaw Practitioner Insights
 
