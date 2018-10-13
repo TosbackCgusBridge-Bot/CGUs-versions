@@ -71,9 +71,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   James Gunn to Write and Maybe Direct 'Suicide Squad 2'. Here's Everything We Know Read More
+    *   Disney's Live-Action 'Aladdin' Conjures Up a Trailer. Here's Everything We Know Read More
     *   The Bad Guys Team Up in New 'Glass' Trailer: Here's Everything We Know Read More
-    *   First 'Pet Sematary' Trailer Eerily Resurrects a Classic. Here's Everything We Know Read More
+    *   The Week in Movie News: James Gunn Writing 'Suicide Squad 2,' First 'Pet Sematary' Trailer and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -317,9 +317,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Halloween' Gift with Purchase
+*   'The Grinch' Gift with Purchase
     
-    Pre-order your 'Halloween' tickets and get a download of the Halloween Theme song for free! BUY TICKETS
+    Pre-order tickets to 'The Grinch' and get a FREE\* t-shirt while supplies last (S&H not included). BUY TICKETS
     
 *   Fandango VIP
     
