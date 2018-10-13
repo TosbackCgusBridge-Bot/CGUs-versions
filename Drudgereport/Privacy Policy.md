@@ -178,7 +178,7 @@ Last month
 
 Congrats to our own Justin Hansen for winning the Q2 Top of the @STAQ award! Justin was able to double the CPM of one of our publishers in less than a month! staq.com/blog/2018/9…
 
-Last month
+About a month ago
 
 ICYMI: Publishers Turn to White-Glove Services for Ad Buying and Management Needs econtentmag.com/Arti…
 
