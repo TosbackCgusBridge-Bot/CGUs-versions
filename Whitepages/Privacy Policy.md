@@ -6,8 +6,8 @@ try pro free for 7 days Fill out the CAPTCHA to continue searching on Whitepages
 
 Not searching for business use? Complete the test, prove you’re a real human, and we’ll send you along to Whitepages.
 
-<div>. <p><strong>JavaScript needs to be enabled to complete CAPTCHA.</strong></p>. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-10-12 05:38:48 UTC.  
-Trace: 46afcb9d-4282-4753-aa5b-fe1957afbe1d via 47d589ff-d441-49af-b5e7-1c448344b38f
+<div>. <p><strong>JavaScript needs to be enabled to complete CAPTCHA.</strong></p>. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-10-13 05:38:35 UTC.  
+Trace: bf70590c-fa38-41ae-8138-b23de1aa61a1 via 6877ff77-92ad-4de5-9c68-afaf3f6b9b0e
 
 *   Facebook
 *   Google+
