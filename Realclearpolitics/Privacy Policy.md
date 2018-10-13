@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Thomas Edsall_: Is the Rust Belt Still Trump Country?
+*   _Joy Pullmann_: 80% Say Political Correctness Is a National Problem
     
-*   _Mollie Hemingway_: There's No Such Thing as a Moderate Democrat in 2018
+*   _Clay Kane_: Kanye West Is a Fully Grown, Ignorant Man-Child
     
-*   _Ella Nilsen_: Harry Reid Is Still a Democratic Kingmaker in Nevada
+*   _Keith Koffler_: Kanye West Is the Sound of Opportunity for Republicans
     
-*   _Patrice Onwuka_: Kanye, Trump Can Deliver for Forgotten Black Community
+*   _Sarah Vowell_: Hell Frozen Over? My Republican Dad Is Voting for Tester in MT
     
-*   _Tariro Mzezewa_: I Loved Kanye West, Hated Taylor Swift--Then 2018 Happened
+*   _Marc Thiessen_: Trump: Best Modern Presidential Promise-Keeper?
     
-*   _James Lindsay_: How We Fooled Academic Liberals With Fake Studies
+*   _Sally Persons_: WH Sees Chinese Election Meddling. Others See No Red Flags
     
-*   _Emily Atkin_: In Defense of Politicizing Hurricanes
+*   _Gregory Gause_: Is the Saudi Crown Prince Too Disruptive Even for Trump?
     
-*   _Julie Kelly_: Climate Change's Ever-Shifting Goalposts
+*   _Tom Rogan_: Mohammed bin Salman Doesn't Care About World's Fury
     
-*   _Carl Cannon_: Carter, Obama and the Politicized Nobel Peace Prize
+*   _Emma Green_: The Catholic Sex-Abuse Scandal Takes Down a Cardinal
     
-*   _Michael Fuchs_: Haley's Departure Reflects Chaos of Trump's Foreign Policy
+*   _Susan Glasser_: The Increasingly Menacing Tone of Trump's Rallies
     
-*   _Seth Lipsky_: Haley Triumphed at the UN Because She Saw Through It
+*   _George Neumayr_: Liberalism an Increasingly Uncivil Ideology
     
-*   _Conrad Black_: Kavanaugh Looks to Be Changing the Election Map
+*   _Jim Manley_: Mitch McConnell Is Going to Kill the U.S. Senate
     
-*   _Reps. Bustos_: What Dems Will Do If We Win the House
+*   _Fred Barnes_: Kavanaugh's Character Assassinated by Cowardly Senate Dems
     
-*   _Betsy McCaughey_: Democrats' Socialist Ideas Would Tank Economy
+*   _Don Lemon_: Kanye's Minstrel Show Has His Mom Rolling Over in Her Grave
     
-*   _Griffin &. Sides_: Economic Anxiety Didn't Elect Trump, and It May Hurt His Party
+*   _Greg Gutfeld_: Trump and Kanye Eat the Democrats for Lunch
     
-*   _Adele Malpass_: Independents Likely Hold the Key to House Control
+*   _Ron Brownstein_: Trump Hurting GOP in Key House Swing Districts
     
-*   _Melissa Mackenzie_: Kanye and Trump: Real Hope and Change?
+*   _Byron York_: Republican Fortunes Rising After Court Fight, Trade Deal
     
-*   _Christopher Hale_: Why Taylor Swift's Endorsements Could Be Powerful in TN
+*   _Robert Draper_: The Democrats Have an Immigration Problem
     
-*   _Mark Alderman_: Deja Vu for Democrats?
+*   _E.J. Dionne_: Ohio: Where Dems Are Really Picking Up Trump Voters
     
-*   _Jonathan Tobin_: Latest UN Doomsaying Comes Off as Hyperbole, Not Science
+*   _John Podhoretz_: The Democrats' Blue Wave Is Drying Up
     
-*   _Ban Ki-moon_: UN Climate Report Shows How Wrong Leaders Like Trump Are
+*   _Miller &. Sokolsky_: The U.S.-Saudi Relationship Is Out of Control
     
-*   _Steve Cortes_: The Stock Market Dip and the Trump Era of Main Street Growth
+*   _John Bradley_: What the Media Aren't Telling You About Khashoggi
     
-*   _Jane McAlevey_: Lessons for Democrats: Winning in November and Beyond
+*   _Fareed Zakaria_: How Trump Can Win the Cold War With China
     
-*   _Alan Dershowitz_: ACLU Opposition to Kavanaugh Sounds Its Death Knell
+*   _Victor Davis Hanson_: A New Era for the China-Russia-U.S. Triangle
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Kanye West, in "MAGA" Hat, Meets With Trump in Oval Office
+*   WH Sees Chinese Election Meddling. Others See No Red Flags
+*   Lemon: Kanye Put on "Minstrel Show" for Trump, Needs a Father Figure
 *   Independents Likely Hold the Key to House Control
 *   Parties Take Fight for Votes Straight to Suburban Women
-*   Conway: Same Geniuses Talking "Blue Wave" Predicted Easy Clinton Win
-*   Nikki Haley Stepping Down as UN Ambassador at End of This Year
-*   Sizing Up the New Jersey Senate Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   CNN's S.E. Cupp on Kanye West: "Really Sad" To See Trump Willing To Exploit "A Man Who Is Clearly Not Okay"
+*   Don Lemon Explodes: Kanye West Put On A "Minstrel Show" For Trump, His Mother Is Rolling In Her Grave
 *   Kanye West: President Trump Is "On His Hero's Journey," Wearing "MAGA" Hat Makes Me Feel Like Superman
-*   Chuck Todd: Republicans "Outraged" At Ugly Political Environment They Created. Painting Dems As A Mob
-*   Sabato: "Red Wave Ain't Going To Happen, It's Just A Question About How Big The Blue Wave Is"
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Sen. Cotton: "The Schumer Political Operation" Was Behind Release Of Dr. Ford's Letter From Very Beginning
+*   Chuck Todd: Republicans "Outraged" At Ugly Political Environment They Created. Painting Dems As A Mob
 
 *   Politics
 *   Policy
