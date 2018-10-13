@@ -15,7 +15,7 @@ Jump to Content Enter Search Terms
 *   News and features
 *   Our work
 
-MENU CLOSE National Oceanic and Atmospheric AdministrationU.S. Department of Commerce Find your local weather Enter your ZIP code Enter Search Terms Content Protecting your privacy What to expect when visiting our website **The basics**
+MENU CLOSE National Oceanic and Atmospheric AdministrationU.S. Department of Commerce Find your local weather Enter your ZIP code Enter Search Terms Content SUB-MENU CLOSE Protecting your privacy What to expect when visiting our website **The basics**
 
 We are committed to the privacy of our visitors. We collect no personal information about you when you visit our website unless you choose to provide that information to us. Here is how we handle information about your visit to NOAA.gov: If you do nothing during your visit but browse through the website, read pages or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store information such as the following concerning your visit: 
 
@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Michael’s winds and life-threatening flash flooding affecting parts of N.C. and southern Mid-Atlantic AROUND NOAA // September was 3rd wettest, 4th warmest on record for U.S. During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\] New PORTS in Corpus Christi and Toledo bring safety, economic benefit \[EXT\]
+Enter Search Terms NOAA collecting and posting aerial images of damage from Michael Imagery viewer updated regularly and accessible to public AROUND NOAA // During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\] Above-average number of high-tide flood days predicted for 2018 \[EXT\] September was 3rd wettest, 4th warmest on record for U.S.
 
 *   About our agency
 *   News and features
