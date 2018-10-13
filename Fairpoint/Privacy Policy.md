@@ -187,7 +187,10 @@
     *   Locations
     *   Employment Verification
 
-*   My Account   
+*   My Account
+    *   Check Email
+    *   View or Pay My Bill
+    *   MyCCI.net
 
 *   About Us
     *   Investor Relations
@@ -512,9 +515,11 @@ Business Support
 Account Support
 
 *   Check My Email
+*   View or Pay My Bill
 *   Help Understanding My Bill
 *   Check My Internet Speed Eligibility
 *   Seasonal Suspend &. Restore
+*   MyCCI.net Support
 
 Phone Book
 
