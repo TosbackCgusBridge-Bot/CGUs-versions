@@ -405,12 +405,15 @@ Bag 0
     
     More for the Home >
     
-    *   Outdoor Furniture
     *   Storage &. Organization
     *   Door Mats
     *   Canvas Totes
     *   Entertaining
     *   Summer Decor &. Entertaining
+    
+    FURNITURE >
+    
+    *   Outdoor Furniture
     
     DOG SHOP >KIDS ROOM >
     
@@ -878,12 +881,15 @@ Lands' End Sign In menu
     *   More for the Home
         *   Back
         *   View All
-        *   Outdoor Furniture
         *   Storage &. Organization
         *   Door Mats
         *   Canvas Totes
         *   Entertaining
         *   Summer Decor &. Entertaining
+    *   FURNITURE
+        *   Back
+        *   View All
+        *   Outdoor Furniture
     *   DOG SHOP
     *   KIDS ROOM
         *   Back
@@ -1201,7 +1207,6 @@ Services
 
 *   Gift Cards
 *   Monogramming &. Embroidery
-*   Shop Your Way Rewards
 *   Shop Catalogs
 *   Catalog Requests
 *   Refer a Friend
@@ -1228,10 +1233,6 @@ Stores
 
 *   © 2018 lands' end
 *   Sitemap
-
-Shop Your Way Rewards
-
-Make every purchase rewarding. Join today. Earn today. It's free.
 
 Sustainability
 
