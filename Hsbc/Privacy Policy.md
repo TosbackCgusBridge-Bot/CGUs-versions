@@ -99,7 +99,7 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Investor contacts
         
     
-    *   Interim Results 2018 HSBC Holdings plc announced its Interim Results on 6 August.
+    *   3Q 2018 Earnings Release HSBC will announce its 3Q 2018 update on 29 October at 4 am GMT.
 *   News and insight Skip to Careers navigation
     
     *   Media resources
