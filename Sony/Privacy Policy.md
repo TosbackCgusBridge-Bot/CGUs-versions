@@ -137,7 +137,7 @@ Meet PS4™ Pro
 
 We celebrated the naming of our #aibo pups with treats and playtime at #SonySquareNYC. Stop by the #aiboroom to meet Maddie and Rocky, our newest family members.
 
-3 days ago
+4 days ago
 
 View Tweet
 
