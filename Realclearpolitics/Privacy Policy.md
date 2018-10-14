@@ -109,6 +109,10 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Adele Malpass_: Republicans Gain Momentum, But Spending Trails Dems'
+    
+*   _Thomas Lipscomb_: The Trouble With Peter Smith
+    
 *   _Joy Pullmann_: 80% Say Political Correctness Is a National Problem
     
 *   _Clay Kane_: Kanye West Is a Fully Grown, Ignorant Man-Child
@@ -152,10 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Miller &. Sokolsky_: The U.S.-Saudi Relationship Is Out of Control
     
 *   _John Bradley_: What the Media Aren't Telling You About Khashoggi
-    
-*   _Fareed Zakaria_: How Trump Can Win the Cold War With China
-    
-*   _Victor Davis Hanson_: A New Era for the China-Russia-U.S. Triangle
     
 
 *   Previous
