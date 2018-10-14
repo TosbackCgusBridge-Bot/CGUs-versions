@@ -159,7 +159,9 @@ Free trial
 
 Subscribe
 
-—/year
+$1,260.00/year
+
+$1,575.00
 
 Cost-effective 2D CAD
 
