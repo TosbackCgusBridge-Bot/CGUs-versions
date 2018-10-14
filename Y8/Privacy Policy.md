@@ -3,34 +3,34 @@
 *   games
 *   videos
 
-New Games Next in  20:25 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  17:17 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 20:25
-*   Best of new games 1503 games
-*   Most Popular Games 18079 games
+*   New Games Next in 17:17
+*   Best of new games 1527 games
+*   Most Popular Games 18083 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,265 games
-*   Driving &. Racing Games 6,688 games
-*   Strategy &. RPG Games 2,389 games
+*   Games for girls 23,270 games
+*   Driving &. Racing Games 6,691 games
+*   Strategy &. RPG Games 2,393 games
 *   Management Games 3,646 games
-*   Thinking Games 11,726 games
-*   Action &. Adventure Games 15,713 games
-*   Sports Games 2,112 games
-*   Shooting Games 8,201 games
+*   Thinking Games 11,736 games
+*   Action &. Adventure Games 15,714 games
+*   Sports Games 2,115 games
+*   Shooting Games 8,209 games
 *   Fighting Games 2,080 games
-*   Skill Games 10,386 games
-*   Arcade &. Classic Games 12,638 games
+*   Skill Games 10,397 games
+*   Arcade &. Classic Games 12,640 games
 *   Fun &. Crazy Games 2,435 games
 
 Play with friends  
 Powered by Y8 Account 128 Y8 Multiplayer Games 1,660 Y8 High Score Games 1,034 Y8 Achievements Games 779 Y8 Screenshots Games 1,326 Y8 Online Save Games 2,667 All Y8 Games Games Last Highscore:
 
-**5,325** points on Moto X3M 3 by tommytshirt6799
+**153** points on Disaster Will Strike 7 by Brave
 
 Help us improve Bad translation? Social Share889K Y8 Games Facebook
 
