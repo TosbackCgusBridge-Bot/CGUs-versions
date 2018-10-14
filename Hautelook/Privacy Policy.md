@@ -8,12 +8,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Movado
+    *   James Perse Starting at $35
+    *   Go Couture Sweaters Up to 75% Off
+    *   Louise et Cie Up to 50% Off
+    *   Diamonds, Gemstones &. More Up to 80% Off
+    *   Ready for Fall: Dresses
+    *   BCBGeneration
+    *   14K Gold Steals &. More
+    *   Wolverine
+    *   Laura Mercier
+    *   Secret Collagen
+    *   Home Organization Starting at $15
+    *   Allen Edmonds
+    *   Luxury Suits &. More Up to 50% Off
+    *   Last Chance: Lauren Lorraine Up to 70% Off
+    *   Single Los Angeles
+    *   ALEX Toys Starting at $7
+    *   Luxe Shoes We Love
+    *   Memorabilia Wall Art
+    *   James Tattersall Up to 75% Off
+    *   DSGN Yoga
+    *   Honey Belle
+    *   First Layers: Shapewear ft. Skinnygirl
     *   Level 99
     *   Camper
-    *   Denim Under $40
+    
+    *   Sofia Cashmere
     *   Kersh &. Press
     *   Fall Must-Haves: Styles Under $40
+    *   Denim Under $40
     *   Carlos by Carlos Santana
     *   Free Shipping: Timeless Accent Furniture &. More
     *   Get Nostalgic: Active Classics We Love
@@ -24,70 +47,63 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   PX
     *   Kenneth Cole Reaction Men Up to 55% Off
     *   Free Shipping: Luxe Faux Fur Accents
-    *   Laura Mercier
-    *   Sofia Cashmere
-    *   Best Tressed: Drybar, philosophy &. More
     *   Trina Turk Clothing &. Swim Up to 65% Off
-    *   Just Me Dresses
-    *   Step into Comfort: Clarks, Dansko &. More
-    *   Get the Skinny: Hudson Jeans &. More
     *   Mirenesse Australia Up to 70% Off
-    *   Sky
-    
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   English Laundry Starting at $20
     *   You Know I'm Bad &. More
     *   Trina Turk Jewelry Up to 60% Off
+    *   Mimi &. Maggie
     *   KicKee Pants
-    *   Manitobah Mukluks
     *   Wild Style: Whimsical Animal Art
-    *   English Factory
     *   Butter Super Soft
+    
     *   Rush by Gordon Rush
-    *   KYBOE! Watches Starting at $96
-    *   Our Favorite Women's Fashion Sneakers
     *   Rizos Curls
     *   Free Shipping: Farmhouse-Inspired Holiday Decor
-    *   National Handbag Day: Styles Up to 60% Off
-    *   PJ Salvage
-    *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Alternative Apparel Men Starting at $13
     *   Cult of Individuality
-    *   Mimi &. Maggie
     *   Detox Organics: Chocolate Superfoods
-    *   Kickoff to Christmas: Toys Starting at $8
-    *   Venettini
     *   Aldo Men Starting at $20
-    
     *   Designer Fragrances: Calvin Klein &. More
-    *   Free Shipping: Modern Accent Furniture &. More
+    *   Ben Sherman Men Up to 60% Off
     *   KitchenAid
     *   Fall Feast Ready: Staub Cast Iron Cookware
     *   Halloween &. Holiday Doormats
+    *   Best Tressed: Drybar, philosophy &. More
+    *   Free Shipping: Modern Accent Furniture &. More
     *   Home Improvements: Organizers &. More from $10
-    *   Tommy Bahama Men's Clothing &. More
+    *   Get the Skinny: Hudson Jeans &. More
+    *   English Factory
     *   Violet Voss
     *   Way of Will Organic Skin Care
-    *   Giorgio Brutini
-    *   Ben Sherman Men Up to 60% Off
-    *   Elizabeth and James Sun &. More Up to 75% Off
-    *   PJ Salvage Kids &. More
+    *   Free Shipping: Cozy Bedding Essentials
     *   Gallery-Quality Art Prints
     *   Earbuds &. Beyond: Gym Accessory Blowout
     *   Free Shipping: Traditional Rugs Up to 70% Off
-    *   Joe Fresh Incl. Plus
-    *   Peace Love World Kids
-    *   Stila
-    *   Free Shipping: Cozy Bedding Essentials
-    *   Luseta Beauty Hair Care from $10
-    *   Free Shipping: Soft Microfiber Bedding &. More
-    *   Just Add Glam: On-Trend Accent Furniture &. More
 *   WomenShop Sale Events
     
-    *   Movado
+    *   James Perse Starting at $35
+    *   Go Couture Sweaters Up to 75% Off
+    *   Louise et Cie Up to 50% Off
+    *   Diamonds, Gemstones &. More Up to 80% Off
+    *   Ready for Fall: Dresses
+    *   BCBGeneration
+    *   14K Gold Steals &. More
+    *   Wolverine
+    *   Laura Mercier
+    *   Secret Collagen
+    *   Last Chance: Lauren Lorraine Up to 70% Off
+    *   Single Los Angeles
+    *   Luxe Shoes We Love
+    *   DSGN Yoga
+    *   Honey Belle
+    *   First Layers: Shapewear ft. Skinnygirl
     *   Level 99
     *   Camper
+    *   Sofia Cashmere
+    
     *   Kersh &. Press
     *   Fall Must-Haves: Styles Under $40
     *   Carlos by Carlos Santana
@@ -96,135 +112,109 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Ready for Snow: Weatherproof Boots
     *   Vicenzo Leather
     *   Ariat
-    *   Laura Mercier
-    *   Sofia Cashmere
-    *   Best Tressed: Drybar, philosophy &. More
     *   Trina Turk Clothing &. Swim Up to 65% Off
-    *   Just Me Dresses
-    *   Step into Comfort: Clarks, Dansko &. More
-    *   Get the Skinny: Hudson Jeans &. More
-    
-    *   Sky
     *   Trina Turk Jewelry Up to 60% Off
-    *   Manitobah Mukluks
-    *   English Factory
-    *   KYBOE! Watches Starting at $96
-    *   Our Favorite Women's Fashion Sneakers
     *   Rizos Curls
-    *   National Handbag Day: Styles Up to 60% Off
-    *   PJ Salvage
-    *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
     *   Detox Organics: Chocolate Superfoods
     *   Designer Fragrances: Calvin Klein &. More
+    *   Best Tressed: Drybar, philosophy &. More
+    *   Get the Skinny: Hudson Jeans &. More
+    *   English Factory
     *   Violet Voss
     *   Way of Will Organic Skin Care
-    *   Elizabeth and James Sun &. More Up to 75% Off
-    *   Joe Fresh Incl. Plus
-    *   Stila
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Accessories
     *   Lingerie
-    *   Watches
     *   Tech Accessories
 *   MenShop Sale Events
     
-    *   Movado
+    *   Allen Edmonds
+    *   Luxury Suits &. More Up to 50% Off
+    *   James Tattersall Up to 75% Off
     *   Denim Under $40
     *   PX
     *   Kenneth Cole Reaction Men Up to 55% Off
     *   English Laundry Starting at $20
+    
     *   You Know I'm Bad &. More
     *   Rush by Gordon Rush
-    *   KYBOE! Watches Starting at $96
-    
     *   Alternative Apparel Men Starting at $13
     *   Cult of Individuality
     *   Detox Organics: Chocolate Superfoods
     *   Aldo Men Starting at $20
-    *   Tommy Bahama Men's Clothing &. More
-    *   Giorgio Brutini
     *   Ben Sherman Men Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   ALEX Toys Starting at $7
+    *   Mimi &. Maggie
     *   KicKee Pants
     *   Butter Super Soft
-    *   Mimi &. Maggie
-    *   Kickoff to Christmas: Toys Starting at $8
-    *   Venettini
-    *   PJ Salvage Kids &. More
-    *   Peace Love World Kids
     
     Shop By Category
     *   Baby Girl
     *   Girls Sizes 2T-6X
     *   Baby Boy
-    *   Girls Sizes 7-16
-    *   Girls' Shoes
     *   Toys
+    *   Girls Sizes 7-16
     *   Boys Sizes 8-20
     *   Boys Sizes 2T-7
-    *   Boys' Shoes
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Home Organization Starting at $15
+    *   Memorabilia Wall Art
     *   Free Shipping: Timeless Accent Furniture &. More
     *   Free Shipping: Luxe Faux Fur Accents
     *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Wild Style: Whimsical Animal Art
     *   Free Shipping: Farmhouse-Inspired Holiday Decor
     *   Free Shipping: BergHOFF Up to 65% Off
-    *   Free Shipping: Modern Accent Furniture &. More
     *   KitchenAid
-    *   Fall Feast Ready: Staub Cast Iron Cookware
     
+    *   Fall Feast Ready: Staub Cast Iron Cookware
     *   Halloween &. Holiday Doormats
+    *   Free Shipping: Modern Accent Furniture &. More
     *   Home Improvements: Organizers &. More from $10
+    *   Free Shipping: Cozy Bedding Essentials
     *   Gallery-Quality Art Prints
     *   Earbuds &. Beyond: Gym Accessory Blowout
     *   Free Shipping: Traditional Rugs Up to 70% Off
-    *   Free Shipping: Cozy Bedding Essentials
-    *   Free Shipping: Soft Microfiber Bedding &. More
-    *   Just Add Glam: On-Trend Accent Furniture &. More
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Accent Furniture
     *   Rugs
     *   Storage &. Cleaning
+    *   Accent Furniture
     *   Outdoor Living
-    *   Bath
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
     *   Laura Mercier
-    *   Best Tressed: Drybar, philosophy &. More
+    *   Secret Collagen
     *   Mirenesse Australia Up to 70% Off
     *   Rizos Curls
     *   Detox Organics: Chocolate Superfoods
     *   Designer Fragrances: Calvin Klein &. More
+    *   Best Tressed: Drybar, philosophy &. More
     *   Violet Voss
     *   Way of Will Organic Skin Care
-    *   Stila
-    *   Luseta Beauty Hair Care from $10
     
     Shop By Category
     *   Makeup
     *   Hair Care
-    *   Fragrance
     *   Skin Care
+    *   Fragrance
     *   Bath &. Body
     *   Makeup Bags
     *   Supplements
