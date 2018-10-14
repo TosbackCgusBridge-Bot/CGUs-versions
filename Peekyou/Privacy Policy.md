@@ -153,101 +153,53 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 49%  Twitter 2% 
+Facebook 49%  Twitter 19% 
 
-*   U.S. FDA - FDArecalls
-    
-*   U.S. FDA - US\_FDA
-    
-*   CDC - CDCgov
+*   NIH - NIH
     
 *   HIV.gov - HIVGov
     
-*   Show More ...
-
-*   Dr. Privacy Policy ߔ䠈as A PhD In Molecular Bio - PhageByte
-    
-*   Secretary Alex Azar - SecAzar
+*   U.S. FDA - FDArecalls
     
 *   CDC\_eHealth - CDC\_eHealth
     
-*   Free Privacy Policy - FreePrivacy1
-    
-*   CMSGov - CMSGov
-    
-*   HHS.gov - HHSGov
-    
-*   NIH - NIH
-    
+*   Show More ...
+
 *   Federal Reserve - federalreserve
     
-*   U.S. Census Bureau - uscensusbureau
-    
-*   Bush Library - Bush41Library
+*   CDC - CDCgov
     
 *   Dr. Robert R. Redfield - CDCDirector
     
+*   U.S. FDA - US\_FDA
+    
 *   HealthCare.gov - HealthCareGov
+    
+*   HHS.gov - HHSGov
     
 *   Cristiano Ronaldo - Cristiano
     
-*   FTC - FTC
+*   OAIC - OAICgov
+    
+*   Updated Privacy Policy - EAEO
+    
+*   Bush Library - Bush41Library
+    
+*   Free Privacy Policy - FreePrivacy1
+    
+*   U.S. Census Bureau - uscensusbureau
+    
+*   Mabuhay Miles - PALMabuhayMiles
     
 *   Justice Department - TheJusticeDept
     
-*   OAIC - OAICgov
+*   EuropeanPrivacyAssoc - europeanprivacy
+    
+*   FTC - FTC
     
 *   Show Less ...
 
-Instagram 2% 
-
-*   � - \_privacy.\_.policy\_\_
-    
-*   aidan miles - we\_updated\_our\_privacy\_policy
-    
-*   Privacy Policy - privacy05
-    
-*   blah blah blah - privacypolicy\_\_1234
-    
-*   Show More ...
-
-*   our privacy policy - itswinterhxe
-    
-*   Privacy Policy - mrprivacypolicy
-    
-*   Privacy Policy - insta\_privacy\_policy
-    
-*   privacy policy - szymonwlog
-    
-*   privacy policy - privacypolicy5831
-    
-*   Privacy Policy - privacypolicy7229
-    
-*   instagram\_service-iran - privacy\_policy\_insta\_iran
-    
-*   Privacy Policy. - privacypolicy.6974
-    
-*   Privacy Policy - privacy\_polict
-    
-*   InstagramRep. - privacy\_policy\_direct\_
-    
-*   Instagram Privacy Policy - igqualitycontrol
-    
-*   Djavid - \_privacy\_policy
-    
-*   Privacy Is The Best Policy - sumayasplanet
-    
-*   Privacy policy - privacydoor7
-    
-*   Karen McDowall - privacy\_\_\_policy
-    
-*   killhimpls - privacy\_policy\_\_
-    
-*   Are You Fed? - privacy\_policy\_\_\_\_
-    
-*   Show Less ...
-
-Myspace 2% 
+Instagram 49%  Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -286,7 +238,7 @@ Pinterest 49%  Wikipedia 2% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Google+ 11% 
+Google+ 2% 
 
 *   Free Privacy Policy - Google+
     
@@ -356,17 +308,13 @@ Photo Albums 2% 
 
 Web Search 49%  Images 2% 
 
-20
-
-19
-
 5
 
-twitterx
-
-instagramx
+20
 
 myspacex
+
+twitterx
 
 *   About PeekYou
 *   Privacy Policy
