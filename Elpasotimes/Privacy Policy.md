@@ -1,3 +1,5 @@
+SUBSCRIBE NOW30¢ first month. Save 97%
+
 *   Home
 *   News
 *   Sports
@@ -72,7 +74,7 @@
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowCruz, O'Rourke debate: Key takeawaysNewsConstruction of border wall to begin SaturdayNewsHow to watch O'Rourke, Cruz debate in HoustonPoliticsDebate bingo: Here are the phrases to expectNewsFriday night football — live coverageSportsConstruction of border wall to begin in El PasoImmigrationDriver admits in text to hitting DJ in accidentCrimeUTEP Texas flags, '88 jerseys among giveawaysUtepTalented Houston high school guard picks UTEPSportsWhat to watch for in the first Beto-Cruz debateNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSen. Ted Cruz pumps up Republican El PasoansNewsWinter-like cold coming to El Paso, Las CrucesNews4 killed in shooting at child's birthday partyTexasregionSpears, Gosling shock with 'Mickey Mouse Club' reunionEntertainmentArt colors Downtown sidewalks for Chalk the BlockLocalNew direct flights connect El Paso to tech cityNewsKhalid announces new EP, 'Suncity,' at Austin showMusicShawn Mendes, Khalid perform in El PasoMusicWild lion mountain sighting closes El Paso ZooLocalScores from Friday's high school football gamesHigh-schoolHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
