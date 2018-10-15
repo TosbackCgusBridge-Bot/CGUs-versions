@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Jon Gabriel_: Hillary Wants a War on Civility. Big Mistake
+    
+*   _Patti Solis Doyle_: What the Dems Need to Do to Win
+    
+*   _Josh Kraushaar_: In Missouri, Kavanaugh Fight Sparked a GOP Revival
+    
+*   _Guy Benson_: Is It Curtains for Media Heartthrob 'Beto' O'Rourke in Texas?
+    
+*   _Michelle Goldberg_: Democracy in Danger in Georgia
+    
+*   _John Kass_: Democrats Shame Kanye West to Protect Themselves
+    
+*   _Jelani Cobb_: Kanye, Trump, and the Truth About Chicago
+    
+*   _Nick James_: Blacks' Loyalty to Democrats Is Insane - Not Kanye West
+    
+*   _Julian Pecquet_: Saudi First Foreign Policy Comes Back to Bite Trump
+    
+*   _Barbara Kay_: Did #MeToo Target Top Professor for Blunt Lessons About Islam?
+    
+*   _Jonathan Merritt_: It's Getting Harder to Talk About God
+    
+*   _Bret Stephens_: Democrats Have Become Trump's Unwitting Ally
+    
+*   _Jill Lawrence_: Trump, Republicans Are Inflicting Non-Stop Crises on U.S.
+    
+*   _Conrad Black_: How Republicans Won the Kavanaugh Poker Match
+    
+*   _Christopher Sprigman_: Supreme Court Is a Regressive, Expendable Institution
+    
+*   _Ed Rogers_: Why Dems Are Panicking as Kanye &. Trump Stir the Pot
+    
+*   _Doreen St. Felix_: Kanye Flirts With Language of Men's-Rights Movement
+    
+*   _Roger Simon_: Kanye Is a One-Man Wrecking Crew to Liberal Identity Politics
+    
+*   _Rep. Adam Schiff_: How a Dem House Would Check Erratic President
+    
+*   _Newt Gingrich_: Susan Collins's Courage vs. Susan Rice's Dishonesty
+    
 *   _Adele Malpass_: Republicans Gain Momentum, But Spending Trails Dems'
     
+*   _Ben Rhodes_: A Fatal Abandonment of U.S. Leadership in Saudi Arabia
+    
+*   _Matthew Continetti_: Prudence Is the Right Response to Khashoggi Affair
+    
 *   _Thomas Lipscomb_: The Trouble With Peter Smith
-    
-*   _Joy Pullmann_: 80% Say Political Correctness Is a National Problem
-    
-*   _Clay Kane_: Kanye West Is a Fully Grown, Ignorant Man-Child
-    
-*   _Keith Koffler_: Kanye West Is the Sound of Opportunity for Republicans
-    
-*   _Sarah Vowell_: Hell Frozen Over? My Republican Dad Is Voting for Tester in MT
-    
-*   _Marc Thiessen_: Trump: Best Modern Presidential Promise-Keeper?
-    
-*   _Sally Persons_: WH Sees Chinese Election Meddling. Others See No Red Flags
-    
-*   _Gregory Gause_: Is the Saudi Crown Prince Too Disruptive Even for Trump?
-    
-*   _Tom Rogan_: Mohammed bin Salman Doesn't Care About World's Fury
-    
-*   _Emma Green_: The Catholic Sex-Abuse Scandal Takes Down a Cardinal
-    
-*   _Susan Glasser_: The Increasingly Menacing Tone of Trump's Rallies
-    
-*   _George Neumayr_: Liberalism an Increasingly Uncivil Ideology
-    
-*   _Jim Manley_: Mitch McConnell Is Going to Kill the U.S. Senate
-    
-*   _Fred Barnes_: Kavanaugh's Character Assassinated by Cowardly Senate Dems
-    
-*   _Don Lemon_: Kanye's Minstrel Show Has His Mom Rolling Over in Her Grave
-    
-*   _Greg Gutfeld_: Trump and Kanye Eat the Democrats for Lunch
-    
-*   _Ron Brownstein_: Trump Hurting GOP in Key House Swing Districts
-    
-*   _Byron York_: Republican Fortunes Rising After Court Fight, Trade Deal
-    
-*   _Robert Draper_: The Democrats Have an Immigration Problem
-    
-*   _E.J. Dionne_: Ohio: Where Dems Are Really Picking Up Trump Voters
-    
-*   _John Podhoretz_: The Democrats' Blue Wave Is Drying Up
-    
-*   _Miller &. Sokolsky_: The U.S.-Saudi Relationship Is Out of Control
-    
-*   _John Bradley_: What the Media Aren't Telling You About Khashoggi
     
 
 *   Previous
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Tennessee Senate - Blackburn vs. BredesenNY Times/Siena
-    *   Blackburn54
-    *   Bredesen40Blackburn +14
-*   Texas Senate - Cruz vs. O'RourkeNY Times/Siena
-    *   Cruz51
-    *   O'Rourke43Cruz +8
-*   Georgia Governor - Kemp vs. AbramsAtlanta Journal-Constitution\*
-    *   Kemp48
-    *   Abrams46Kemp +2
-*   Florida 27th District - Salazar vs. ShalalaMason-Dixon
-    *   Salazar44
-    *   Shalala42Salazar +2
+*   Minnesota 8th District - Stauber vs. RadinovichNY Times/Siena
+    *   Stauber49
+    *   Radinovich34Stauber +15
+*   Pennsylvania 1st District - Fitzpatrick vs. WallaceNY Times/Siena
+    *   Wallace50
+    *   Fitzpatrick43Wallace +7
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve43
+    *   Disapprove53Disapprove +10
+*   2018 Generic Congressional VoteABC News/Wash Post
+    *   Democrats53
+    *   Republicans42Democrats +11
 
 More Latest Polls In The News
 
+*   Trump to '60 Minutes' Stahl: Washington Is A Vicious Place. "In My Way, I Feel Very Comfortable Here"
+*   Larry Kudlow Defends Trump Comments On Federal Reserve, Interest Rates. "There's No Spike In Inflation"
 *   CNN's S.E. Cupp on Kanye West: "Really Sad" To See Trump Willing To Exploit "A Man Who Is Clearly Not Okay"
-*   Don Lemon Explodes: Kanye West Put On A "Minstrel Show" For Trump, His Mother Is Rolling In Her Grave
-*   Kanye West: President Trump Is "On His Hero's Journey," Wearing "MAGA" Hat Makes Me Feel Like Superman
 *   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Chuck Todd: Republicans "Outraged" At Ugly Political Environment They Created. Painting Dems As A Mob
+*   Don Lemon Explodes: Kanye West Put On A "Minstrel Show" For Trump, His Mother Is Rolling In Her Grave
 
 *   Politics
 *   Policy
