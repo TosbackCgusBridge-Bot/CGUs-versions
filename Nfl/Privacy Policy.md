@@ -1,7 +1,5 @@
-*   KC•3NE101st ? 03:36
-*   LA6-023DEN2-420Final
-*   JAX3-37DAL3-340Final
-*   BAL4-221TEN3-30Final
+*   SF1-530GB3-2-133Final
+*   PHI3-334NYG1-513Final
 *   TB2-329ATL2-434Final
 *   PIT3-2-128CIN4-221Final
 *   LAC4-238CLE2-3-114Final
@@ -11,8 +9,10 @@
 *   IND1-534NYJ3-342Final
 *   SEA3-327OAK1-53Final
 *   CAR3-217WAS3-223Final
-*   SF1-4GB2-2-1Mon, 8:15 pm ET
-*   PHI3-334NYG1-513Final
+*   LA6-023DEN2-420Final
+*   JAX3-37DAL3-340Final
+*   BAL4-221TEN3-30Final
+*   KC5-140NE4-243Final
 
 *   News
 *   Scores
@@ -30,10 +30,8 @@
 *   NFL Network
 *   Photos
 
-*   KC•3NE101st ? 03:36
-*   LA23DEN20Final
-*   JAX7DAL40Final
-*   BAL21TEN0Final
+*   SF30GB33Final
+*   PHI34NYG13Final
 *   TB29ATL34Final
 *   PIT28CIN21Final
 *   LAC38CLE14Final
@@ -43,8 +41,10 @@
 *   IND34NYJ42Final
 *   SEA27OAK3Final
 *   CAR17WAS23Final
-*   SF1-4GB2-2-1Mon, 8:15 pm ET
-*   PHI34NYG13Final
+*   LA23DEN20Final
+*   JAX7DAL40Final
+*   BAL21TEN0Final
+*   KC40NE43Final
 
 *   News
 *   Scores
