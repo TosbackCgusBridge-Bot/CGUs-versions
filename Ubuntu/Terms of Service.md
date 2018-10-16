@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Deploying Ubuntu root on ZFS with MAAS ›
+*   Self-containing dependencies LogMeIn to publish their first Snap ›
 *   OpenStack Summit Berlin 2018 ›
 *   Firefox ESR 60 availability on Ubuntu ›
 *   Plex arrives in Canonical’s Snap Store ›
-*   Fresh Snaps from September 2018 ›
-*   Snapistics – Snaps in numbers ›
