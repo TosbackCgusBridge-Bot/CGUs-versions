@@ -1,3 +1,5 @@
+We have updated our privacy policy. Read it hereclose X
+
       Confirm Your Location
 
 We'd like to show you nearby Subaru retailers, special offers, pricing, and vehicle inventory that are available in your area.
@@ -8,16 +10,16 @@ Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
-*   Shortline Subaru (7 miles)
-*   Groove Subaru (8 miles)
-*   Mike Shaw Subaru (9 miles)
-*   AutoNation Subaru West (10 miles)
-*   AutoNation Subaru Arapahoe (12 miles)
-*   Flatirons Subaru (21 miles)
+*   Money Subaru (89 miles)
+*   DuTeau Subaru (116 miles)
+*   Baxter Subaru (163 miles)
+*   Briggs Subaru of Topeka (164 miles)
+*   Beardmore Subaru (165 miles)
+*   Subaru of Wichita (167 miles)
 
 Submit
 
-*   Your Location: **80202**
+*   Your Location: **66952**
 *   For Owners
 *   Customer Support
 *   Search
