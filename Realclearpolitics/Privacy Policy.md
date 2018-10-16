@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jon Gabriel_: Hillary Wants a War on Civility. Big Mistake
+*   _Frank Bruni_: It's Not All About Trump
     
-*   _Patti Solis Doyle_: What the Dems Need to Do to Win
+*   _Steve Hilton_: Kanye West's Heresy: Supporting Trump While Black
     
-*   _Josh Kraushaar_: In Missouri, Kavanaugh Fight Sparked a GOP Revival
+*   _Nadifa Mohamed_: Kanye West Has Turned His Back on His Community
     
-*   _Guy Benson_: Is It Curtains for Media Heartthrob 'Beto' O'Rourke in Texas?
+*   _Sullivan &. DeBonis_: Republican Inroads With Hispanics Undercut Dem Chances
     
-*   _Michelle Goldberg_: Democracy in Danger in Georgia
+*   _Albert Hunt_: Six House Races to Watch for a Democratic Wave
     
-*   _John Kass_: Democrats Shame Kanye West to Protect Themselves
+*   _Jihwan Hwang_: Trump, Kim &. the New Order on Korean Peninsula
     
-*   _Jelani Cobb_: Kanye, Trump, and the Truth About Chicago
+*   _Nicholas Kristof_: If a Prince Murders a Journalist, That's Not a Hiccup
     
-*   _Nick James_: Blacks' Loyalty to Democrats Is Insane - Not Kanye West
+*   _David Goldman_: What U.S. Media Isn't Telling You About Jamal Khashoggi
     
-*   _Julian Pecquet_: Saudi First Foreign Policy Comes Back to Bite Trump
+*   _Kalev Leetaru_: The Game of the Name: Media Bias and Presidents
     
-*   _Barbara Kay_: Did #MeToo Target Top Professor for Blunt Lessons About Islam?
+*   _Gideon Rachman_: Warren Fights Trump 'Pocahontas' Taunt With DNA Test
     
-*   _Jonathan Merritt_: It's Getting Harder to Talk About God
+*   _David Harsanyi_: Elizabeth Warren's DNA Test Proves She Was Lying
     
-*   _Bret Stephens_: Democrats Have Become Trump's Unwitting Ally
+*   _Michael Goodwin_: Kanye, Trump Are Testing Dems' Hold on Black Voters
     
-*   _Jill Lawrence_: Trump, Republicans Are Inflicting Non-Stop Crises on U.S.
+*   _Charles Blow_: Trump's Callous Use of Kanye West
     
-*   _Conrad Black_: How Republicans Won the Kavanaugh Poker Match
+*   _Joy Villa_: Why I'm a Republican for the First Time in My Life
     
-*   _Christopher Sprigman_: Supreme Court Is a Regressive, Expendable Institution
+*   _John Diaz_: Nancy Pelosi's Hope for a Divided Government
     
-*   _Ed Rogers_: Why Dems Are Panicking as Kanye &. Trump Stir the Pot
+*   _Victor Davis Hanson_: Who and What Threaten the Constitution?
     
-*   _Doreen St. Felix_: Kanye Flirts With Language of Men's-Rights Movement
+*   _Juan Williams_: Trump, the Great Destroyer
     
-*   _Roger Simon_: Kanye Is a One-Man Wrecking Crew to Liberal Identity Politics
+*   _Chuck DeVore_: Trump Policies Creating Factory Jobs 10X Faster Than Obama
     
-*   _Rep. Adam Schiff_: How a Dem House Would Check Erratic President
+*   _Bill Scher_: A Democratic Kick in Their Own Shins
     
-*   _Newt Gingrich_: Susan Collins's Courage vs. Susan Rice's Dishonesty
+*   _Francis Wilkinson_: Why O'Rourke Matters to Dems Even If He Loses in TX
     
-*   _Adele Malpass_: Republicans Gain Momentum, But Spending Trails Dems'
+*   _Tom Rogan_: Long Shot John James Rises Against Stabenow in Mich.
     
-*   _Ben Rhodes_: A Fatal Abandonment of U.S. Leadership in Saudi Arabia
+*   _Ray Mabus_: Harvard Lawsuit Is a Threat to America's Diversity, Strength
     
-*   _Matthew Continetti_: Prudence Is the Right Response to Khashoggi Affair
+*   _Ying Ma_: Elite Universities Have Justified Discrimination for Too Long
     
-*   _Thomas Lipscomb_: The Trouble With Peter Smith
+*   _Alia Wong_: The Harvard Trial Is About More Than Affirmative Action
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Kanye West, in "MAGA" Hat, Meets With Trump in Oval Office
-*   WH Sees Chinese Election Meddling. Others See No Red Flags
-*   Lemon: Kanye Put on "Minstrel Show" for Trump, Needs a Father Figure
-*   Independents Likely Hold the Key to House Control
-*   Parties Take Fight for Votes Straight to Suburban Women
+*   At Ohio Rally, Trump Touts "Historic Week for America"
+*   Republicans Gain Momentum, But Midterm Spending Trails Dems'
+*   On "60 Minutes," Trump Talks Christine Ford, Putin, Kim and More
+*   Pence, Biden Rally Indiana Voters in Fierce Senate Race
+*   Independent Women a Key in Tightening Montana Senate Race
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,27 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Minnesota 8th District - Stauber vs. RadinovichNY Times/Siena
-    *   Stauber49
-    *   Radinovich34Stauber +15
-*   Pennsylvania 1st District - Fitzpatrick vs. WallaceNY Times/Siena
-    *   Wallace50
-    *   Fitzpatrick43Wallace +7
-*   President Trump Job ApprovalABC News/Wash Post
-    *   Approve43
-    *   Disapprove53Disapprove +10
-*   2018 Generic Congressional VoteABC News/Wash Post
-    *   Democrats53
-    *   Republicans42Democrats +11
+*   Nevada Senate - Heller vs. RosenEmerson\*
+    *   Heller48
+    *   Rosen41Heller +7
+*   Maryland Senate - Campbell vs. Cardin vs. SimonGonzales Research
+    *   Cardin49
+    *   Campbell22
+    *   Simon18Cardin +27
+*   Utah Senate - Romney vs. WilsonSalt Lake Tribune
+    *   Romney59
+    *   Wilson23Romney +36
+*   Nevada Governor - Laxalt vs. SisolakEmerson\*
+    *   Laxalt46
+    *   Sisolak41Laxalt +5
 
 More Latest Polls In The News
 
+*   Alec Baldwin: "We Need To Overthrow The Government Of The United States Under Donald Trump"
 *   Trump to '60 Minutes' Stahl: Washington Is A Vicious Place. "In My Way, I Feel Very Comfortable Here"
-*   Larry Kudlow Defends Trump Comments On Federal Reserve, Interest Rates. "There's No Spike In Inflation"
-*   CNN's S.E. Cupp on Kanye West: "Really Sad" To See Trump Willing To Exploit "A Man Who Is Clearly Not Okay"
-*   SponsoredREITs Are Real Estate Working For All Americans and Reshaping Communities
-*   Don Lemon Explodes: Kanye West Put On A "Minstrel Show" For Trump, His Mother Is Rolling In Her Grave
+*   Hillary Clinton: Bill's Affair With Monica Lewinsky Was Not An Abuse Of Power, What About Trump?
+*   Scarborough, 'Morning Joe' on Trump '60 Minutes' Interview: "What A Baby," "He's A Baby President"
+*   Michael Eric Dyson: Blacks Can Not Stand By Kanye West. This Is "White Supremacy By Ventriloquism"
 
 *   Politics
 *   Policy
