@@ -3,8 +3,9 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Become a client  
-Request a call or dial 1 855 558 87911 855 558 8791
+Call + 1 800 213 4848+ 1 800 213 4848 or contact us
+
+to become a Gartner client.
 
 Log in Become a Client
 
@@ -260,8 +261,9 @@ Log in Become a Client
     
     Career Opportunities Life at Gartner Campus
     
-*   Become a client  
-    Request a call or dial 1 855 558 87911 855 558 8791
+*   Call + 1 800 213 4848+ 1 800 213 4848 or contact us
+    
+    to become a Gartner client.
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018  
