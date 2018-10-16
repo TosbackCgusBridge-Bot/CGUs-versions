@@ -1,9 +1,9 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TM96J9" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
-*   Advertisers
-*   Publishers
-*   Portfolio
 *   About
+*   Advertisers
+*   Blog
+*   Contact
 
 Intermarkets Privacy Policyv
 
@@ -184,20 +184,20 @@ ICYMI: Publishers Turn to White-Glove Services for Ad Buying and Management Need
 
 About a month ago
 
-Intermarkets is committed to bringing together advertisers and consumers via high-quality content across digital channels and devices.
-
-GET IN TOUCH
-
-Contact Us  
-Request for Proposal  
   
-703.242.7878  
-solutions@intermarket.net  
-publishers@intermarkets.net  
-11951 Freedom Dr. 11th Floor  
-Reston VA, 20190
+  
 
-Home | About | Advertisers | Our Sites | Blog | Careers | Contact
+Contact Us | Request for Proposal  
+  
+703.242.7878 | solutions@intermarket.net  
+11951 Freedom Dr. 11th Floor | Reston VA, 20190
+
+LATEST FROM THE BLOG  
+Ad Tech Needs Humans to be Successful
+
+SEE MORE
+
+Home | About | Advertisers | Blog | Careers | Contact
 
   
 Copyright © 2018 Intermarkets, Inc. All rights reserved.  
