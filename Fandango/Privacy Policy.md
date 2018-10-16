@@ -7,35 +7,34 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   Venom (2018)
     *   A Star Is Born (2018)
+    *   First Man
+    *   Goosebumps 2: Haunted Halloween
     *   Smallfoot
     *   Night School (2018)
+    *   Bad Times at the El Royale
     *   The House with a Clock in its Walls
+    *   The Hate U Give
     *   A Simple Favor
     *   The Nun (2018)
-    *   Hell Fest
-    *   Crazy Rich Asians
-    *   The Predator (2018)
-    *   White Boy Rick
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Bad Times at the El Royale
-    *   First Man
-    *   Goosebumps 2: Haunted Halloween
-    *   All Square
-    *   Beautiful Boy (2018)
-    *   Bigger (2018)
-    *   Gosnell: The Trial of America's Biggest Serial Killer
-    *   The Happy Prince
-    *   Jane and Emma
-    *   Liyana
-    *   Look Away
+    *   Halloween (2018)
+    *   The Hate U Give
+    *   The Old Man &. the Gun
+    *   The Advocates
+    *   Can You Ever Forgive Me?
+    *   Change in the Air
+    *   The Guilty (2018)
+    *   Late Life: The Chien-Ming Wang Story
+    *   Mid90s
+    *   On Her Shoulders
+    *   The Price of Everything
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Halloween (2018)
     *   Hunter Killer (2018)
     *   Indivisible (2018)
     *   Johnny English Strikes Again
@@ -44,6 +43,7 @@ Gift Cards | Offers | Sign In Sign Out
     *   The Nutcracker and the Four Realms
     *   Dr. Seuss' The Grinch (2018)
     *   Overlord (2018)
+    *   The Girl in the Spider's Web
     *   See All Coming Soon
     
     Explore More
@@ -72,7 +72,7 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Disney's Live-Action 'Aladdin' Conjures Up a Trailer. Here's Everything We Know Read More
-    *   The Bad Guys Team Up in New 'Glass' Trailer: Here's Everything We Know Read More
+    *   Next 3 Timothée Chalamet Movies: 'The King,' 'Little Women,' 'Dune' Read More
     *   The Week in Movie News: James Gunn Writing 'Suicide Squad 2,' First 'Pet Sematary' Trailer and More Read More
     
     Explore Content
@@ -321,9 +321,9 @@ Offers
     
     Pre-order tickets to 'The Grinch' and get a FREE\* t-shirt while supplies last (S&H not included). BUY TICKETS
     
-*   Fandango VIP
+*   'Halloween' Gift with Purchase
     
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    Pre-order your 'Halloween' tickets and get a download of the Halloween Theme song for free! BUY TICKETS
     
 *   FandangoNOW Binge Bundles
     
