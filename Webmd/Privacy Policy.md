@@ -380,7 +380,7 @@ Last updated on September 26, 2018 © 2018 WebMD, LLC. All rights reserved. Toda
 
 Some of these might surprise you.
 
-Watch this new video for more information We wanted you to see this trending video Ad By **Sponsor** AdChoices Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
