@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   15\. Oktober 2018
+*   16\. Oktober 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.523,81ǀ
+*   DAX 11.614,16ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -50,7 +50,7 @@ Anmelden
         *   Versicherungen
         *   Unternehmen &. Märkte
         *   Staat &. Soziales
-        *   Mittelstand
+        *   Zukunft gestalten
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
         *   Immowelt
@@ -372,3 +372,6 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
+
+  
+BESbswyBESbswyBESbswy
