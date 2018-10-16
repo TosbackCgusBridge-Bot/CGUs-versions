@@ -34,7 +34,7 @@ When you are one of our customers, we use the information we collect about you t
 2.  to provide you with real-time logs of your use of the platform;
 3.  to respond to any requests you may submit for support or sales information, or similar communications;
 4.  to communicate with you (for example through newsletters, marketing emails, announcements or special offers) about our services;
-5.  for billing and collection purposes, if you have subscribed to one of our paid plans.
+5.  for billing and collection purposes, if you have subscribed to one of our paid plans;
 6.  for the investigation and prevention of fraud and breaches of the terms of service
 7.  to enable third parties to provide services to us;
 8.  for customers that request allocated dedicated IP addresses, for the purposes of assigning the dedicated IP address to that customer;
@@ -100,8 +100,8 @@ If you want to exercise any of the above rights, please email our privacy team a
 Individuals located in the EU with inquiries or complaints in relation to the information provided should first contact Mailgun at:
 
 Mailgun Technologies, Inc.  
-535 Mission St.  
-San Francisco, CA 94105  
+548 Market St. #43099  
+San Francisco, CA 94104  
 by email: privacy@mailgun.com
 
 Pursuant to Article 27 of the General Data Protection Regulation, VeraSafe has been appointed as Mailgun Technologies, Inc.’s representative in the EU for data protection matters. VeraSafe can be contacted in addition to privacy@mailgun.com, only on matters related to the processing of personal data. To make such an inquiry, please contact VeraSafe using this contact form: https://www.verasafe.com/privacy-services/contact-article-27-representative
