@@ -21,20 +21,18 @@ Near YouFind a StoreBackSAVE ON XERSION MENShop AllSELECT STYLESSAVE ON XERSION 
 *   $27
     
     Xersion Drawstring Pants(6)Add To Cart
-*   $32
+*   $36
     
-    Xersion Basketball Shorts(21)Add To Cart
+    Xersion Long Sleeve Fleece Hoodie(1)Add To Cart
 *   $40
     
     Xersion Long Sleeve Fleece Hoodie(1)Add To Cart
-*   BEST VALUE!
+*   $32
     
-    $9
+    Xersion Basketball Shorts(21)Add To Cart
+*   $37
     
-    Xersion Mesh Workout Shorts(16)Add To Cart
-*   $30
-    
-    Xersion Drawstring PantsAdd To Cart
+    Xersion Track Pants(12)Add To Cart
 
 Shop and Save at JCPenney
 
