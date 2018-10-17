@@ -2,12 +2,12 @@ Skip to Main Content. Site navigation Fidelity.com Home
 
 *   Customer Service
 *   Open An Account
-*   Profile
+*   Refer A Friend
 *   Log In
 
 *   Customer Service
 *   Open An Account
-*   Profile
+*   Refer A Friend
 *   Log Out
 
 Search fidelity.com or get a quote
@@ -87,12 +87,12 @@ Search fidelity.com or get a quote
 
 *   Customer Service
 *   Open An Account
-*   Profile
+*   Refer A Friend
 *   Log In
 
 *   Customer Service
 *   Open An Account
-*   Profile
+*   Refer A Friend
 *   Log Out
 
 *   **Home**»
