@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Frank Bruni_: It's Not All About Trump
+*   _Dan McLaughlin_: How Will the Senate Races Break?
     
-*   _Steve Hilton_: Kanye West's Heresy: Supporting Trump While Black
+*   _Sarah Jones_: Obamacare Is Going to Help Dems Win Back Congress
     
-*   _Nadifa Mohamed_: Kanye West Has Turned His Back on His Community
+*   _Steve Liesman_: With Optimism Soaring Don't Expect a Big Dem Wave This Fall
     
-*   _Sullivan &. DeBonis_: Republican Inroads With Hispanics Undercut Dem Chances
+*   _Byron York_: For Republicans, House Pickup Chances Rare, But Crucial
     
-*   _Albert Hunt_: Six House Races to Watch for a Democratic Wave
+*   _Joan Vennochi_: No More 'Pocahontas'
     
-*   _Jihwan Hwang_: Trump, Kim &. the New Order on Korean Peninsula
+*   _John Hinderaker_: Why Elizabeth Warren's Lies Are Good For America
     
-*   _Nicholas Kristof_: If a Prince Murders a Journalist, That's Not a Hiccup
+*   _Alan Bollard_: Trade War, Mounting Debt Risk Another Global Financial Crisis
     
-*   _David Goldman_: What U.S. Media Isn't Telling You About Jamal Khashoggi
+*   _Andrew Malcolm_: Trump's Dangerous, Vital Bid to Reshape China Policy
     
-*   _Kalev Leetaru_: The Game of the Name: Media Bias and Presidents
+*   _Monica Hesse_: The Enduring Dilemma of Bill Clinton
     
-*   _Gideon Rachman_: Warren Fights Trump 'Pocahontas' Taunt With DNA Test
+*   _Rich Lowry_: Why Hillary Can Never Admit the Truth About Bill
     
-*   _David Harsanyi_: Elizabeth Warren's DNA Test Proves She Was Lying
+*   _Ron Klain_: The World Is At Risk of Another Deadly Pandemic
     
-*   _Michael Goodwin_: Kanye, Trump Are Testing Dems' Hold on Black Voters
+*   _Scott Beauchamp_: Social Justice Warriors Aren't Funny
     
-*   _Charles Blow_: Trump's Callous Use of Kanye West
+*   _Sam Stein_: Dems to Obama: Where Are You?
     
-*   _Joy Villa_: Why I'm a Republican for the First Time in My Life
+*   _Victor Davis Hanson_: The Origins of Progressive Agony
     
-*   _John Diaz_: Nancy Pelosi's Hope for a Divided Government
+*   _John Judis_: What the Left Misses About Nationalism
     
-*   _Victor Davis Hanson_: Who and What Threaten the Constitution?
+*   _Cal Thomas_: Why Vote for Democrats?
     
-*   _Juan Williams_: Trump, the Great Destroyer
+*   _Joan Walsh_: Elizabeth Warren Will Not Let Donald Trump Define Her
     
-*   _Chuck DeVore_: Trump Policies Creating Factory Jobs 10X Faster Than Obama
+*   _Greg Gutfeld_: Hooray! Elizabeth Warren Just Killed Identity Politics
     
-*   _Bill Scher_: A Democratic Kick in Their Own Shins
+*   _Simon Moya-Smith_: I'm Native American and I Have Some Questions for Warren
     
-*   _Francis Wilkinson_: Why O'Rourke Matters to Dems Even If He Loses in TX
+*   _Howie Carr_: Fake News Matched Only by Fake Indian's Fake Math
     
-*   _Tom Rogan_: Long Shot John James Rises Against Stabenow in Mich.
+*   _Ben Jacobs_: Dem Senate Hopes Rest on Two Old White Men
     
-*   _Ray Mabus_: Harvard Lawsuit Is a Threat to America's Diversity, Strength
+*   _David Byler_: Martha McSally's Under-the-Radar Surge
     
-*   _Ying Ma_: Elite Universities Have Justified Discrimination for Too Long
+*   _Errol Louis_: Evil Speaks, Trump Mumbles Response
     
-*   _Alia Wong_: The Harvard Trial Is About More Than Affirmative Action
+*   _John Bradley_: How Trump Cleans Up the Saudi Mess
     
 
 *   Previous
@@ -226,7 +226,7 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   At Ohio Rally, Trump Touts "Historic Week for America"
+*   Mike Pompeo Meets Saudi King Over Khashoggi's Disappearance
 *   Republicans Gain Momentum, But Midterm Spending Trails Dems'
 *   On "60 Minutes," Trump Talks Christine Ford, Putin, Kim and More
 *   Pence, Biden Rally Indiana Voters in Fierce Senate Race
@@ -243,27 +243,27 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Nevada Senate - Heller vs. RosenEmerson\*
-    *   Heller48
-    *   Rosen41Heller +7
-*   Maryland Senate - Campbell vs. Cardin vs. SimonGonzales Research
-    *   Cardin49
-    *   Campbell22
-    *   Simon18Cardin +27
-*   Utah Senate - Romney vs. WilsonSalt Lake Tribune
-    *   Romney59
-    *   Wilson23Romney +36
-*   Nevada Governor - Laxalt vs. SisolakEmerson\*
-    *   Laxalt46
-    *   Sisolak41Laxalt +5
+*   Alaska Governor - Dunleavy vs. Begich vs. WalkerAlaska Survey Research
+    *   Dunleavy43
+    *   Walker27
+    *   Begich26Dunleavy +16
+*   Virginia 10th District - Comstock vs. WextonNY Times/Siena
+    *   Wexton48
+    *   Comstock41Wexton +7
+*   Texas Senate - Cruz vs. O'RourkeCNN
+    *   Cruz52
+    *   O'Rourke45Cruz +7
+*   California Senate - Feinstein vs. de LeonKABC/SurveyUSA
+    *   Feinstein40
+    *   Leon26Feinstein +14
 
 More Latest Polls In The News
 
+*   Cherokee Nation GOP Congressman: Elizabeth Warren Should Apologize, "Lie" is "Backfiring On Her"
+*   Tucker Carlson: Elizabeth Warren Roughly About As American Indian As Virtually Every White Person
+*   GA Dem Stacey Abrams: "Blue Wave" Comprised Of The "Documented And Undocumented"
 *   Alec Baldwin: "We Need To Overthrow The Government Of The United States Under Donald Trump"
 *   Trump to '60 Minutes' Stahl: Washington Is A Vicious Place. "In My Way, I Feel Very Comfortable Here"
-*   Hillary Clinton: Bill's Affair With Monica Lewinsky Was Not An Abuse Of Power, What About Trump?
-*   Scarborough, 'Morning Joe' on Trump '60 Minutes' Interview: "What A Baby," "He's A Baby President"
-*   Michael Eric Dyson: Blacks Can Not Stand By Kanye West. This Is "White Supremacy By Ventriloquism"
 
 *   Politics
 *   Policy
