@@ -243,7 +243,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **60% OFF JEANS + 70% OFF HOODIES**  **GIRLS GUYS** **FREE SHIPPING OVER $50** 
+**60% OFF JEANS + 70% OFF HOODIES**  **GIRLS GUYS** **FREE SHIPPING OVER $50** 
 
 *   My Account My Account Login Register
 
@@ -485,3 +485,17 @@ Stay Connected
 *   Use Student Discount
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
