@@ -6,8 +6,8 @@ try pro free for 7 days Fill out the CAPTCHA to continue searching on Whitepages
 
 Not searching for business use? Complete the test, prove you’re a real human, and we’ll send you along to Whitepages.
 
-<div>. <p><strong>JavaScript needs to be enabled to complete CAPTCHA.</strong></p>. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-10-16 05:39:48 UTC.  
-Trace: 19eea7bc-31a4-41d3-a57d-fabc02ed90bd via 6877ff77-92ad-4de5-9c68-afaf3f6b9b0e
+<div>. <p><strong>JavaScript needs to be enabled to complete CAPTCHA.</strong></p>. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-10-17 05:42:40 UTC.  
+Trace: 21bbbed3-55ef-4cef-8e08-ff5c18061297 via 47d589ff-d441-49af-b5e7-1c448344b38f
 
 *   Facebook
 *   Google+
@@ -23,10 +23,9 @@ Trace: 19eea7bc-31a4-41d3-a57d-fabc02ed90bd via 6877ff77-92ad-4de5-9c68-afaf3f6b
 **Find**
 
 *   People Search
-*   Phone Search
-*   Address Search
+*   Reverse Phone
+*   Reverse Address
 *   Email Search
-*   Business Search
 *   Background Search
 *   SmartCheck
 
@@ -44,7 +43,7 @@ Trace: 19eea7bc-31a4-41d3-a57d-fabc02ed90bd via 6877ff77-92ad-4de5-9c68-afaf3f6b
 *   Developers
 *   Yellow Pages
 *   White Pages
-*   Yellow Pages Search by State City Yellow Pages
+*   Yellow Pages Search by Province City Yellow Pages
     
     *   Atlanta
     *   Boston
@@ -69,7 +68,7 @@ Trace: 19eea7bc-31a4-41d3-a57d-fabc02ed90bd via 6877ff77-92ad-4de5-9c68-afaf3f6b
     *   Seattle
     *   Tampa
     *   Washington, DC
-*   White Pages Search by State City White Pages
+*   White Pages Search by Province City White Pages
     
     *   Atlanta
     *   Boston
@@ -96,7 +95,7 @@ Trace: 19eea7bc-31a4-41d3-a57d-fabc02ed90bd via 6877ff77-92ad-4de5-9c68-afaf3f6b
     *   Washington, DC
 *   411.com
 
-*   ZIP Codes
+*   Postal Codes
 *   Area Codes
 *   Phone Numbers
 *   People:
