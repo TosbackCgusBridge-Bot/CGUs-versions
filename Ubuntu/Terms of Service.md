@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 16 Oct 2018 ›
+*   Canonical collaborates with Eurotech on edge computing solutions ›
 *   Deploying Ubuntu root on ZFS with MAAS ›
-*   Self-containing dependencies LogMeIn to publish their first Snap ›
+*   Self-containing dependencies leads LogMeIn to publish their first Snap ›
 *   OpenStack Summit Berlin 2018 ›
-*   Firefox ESR 60 availability on Ubuntu ›
-*   Plex arrives in Canonical’s Snap Store ›
