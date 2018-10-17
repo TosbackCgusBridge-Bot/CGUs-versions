@@ -8,11 +8,38 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Sam Edelman Starting at $35
-    *   Naked Zebra
-    *   Desigual
+    *   Vince
+    *   Vince Men Up to 70% Off
+    *   Vince Shoes
+    *   Balenciaga Sun &. More Up to 70% Off
+    *   Wow Couture
+    *   Free Shipping: Amrapur Towels Up to 75% Off
+    *   Free Shipping: Traditional Area Rugs
+    *   On-the-Go Tech: Under Armour Phone Cases &. More
+    *   LED Lighting &. More Starting at $10
+    *   Adrianna Papell
+    *   Sechic 14K Gold &. Semi-Precious Jewelry
+    *   RAGA
+    *   Ones to Watch: Bodysuits
+    *   Time for NBA Season: Tissot Watches
+    *   Hair Tools We Love ft. BaBylissPRO
+    *   Komar Sleep &. More Starting at $10
+    *   Lindbergh
+    *   Standout Sweats
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Rockabye
+    *   Doodle Pants
+    *   Must-Have Toys Starting at $9
+    *   Liebeskind Berlin Handbags
+    *   PJ Couture Sleep
+    *   Lola Ramona
+    *   Small Steps: Carter's Shoes Up to 55% Off
+    *   Antelope Shoes Up to 45% Off
     *   Cardigans, Car Coats &. More Incl. Plus
     *   Haute Hippie Up to 75% Off
+    *   Sam Edelman Starting at $35
+    
+    *   Naked Zebra
     *   On-Trend Sterling Silver Jewelry Under $80
     *   Sam Edelman Handbags Up to 50% Off
     *   Le Lis Under $40
@@ -24,170 +51,131 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Fall Essentials: On-Trend Styles Incl. Plus &. Petite
     *   Fit for You: Shoes Incl. Extended Sizes
     *   Sovereign Code Boys &. Girls
-    *   Beetle &. Thread
-    *   Tea Collection
     *   Salute Up to 70%
     *   jane iredale Cosmetics
     *   Self Reflect: Wall Mirrors
     *   Power Up: Chargers, Lightning Cables &. More
-    *   Step It Up: Men's Dress Socks &. More
-    *   Fall Fresh: Men's Boots ft. Dr. Martens
-    *   Graphic Tees Starting at $13
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Sunday Steals Up to 80% Off Incl. Plus &. Petites
     *   Samuel B Jewelry Under $80
     *   Shoes Under $50
     *   Free Shipping: Dreamy Bedding Up to 70% Off
-    *   Laura Mercier
     *   LaFonn Simulated Diamond Jewelry Up to 75% Off
-    
     *   Face Masks We Love Starting at $10
     *   Vintage Addiction Up to 80% Off
     *   Men's Activewear Blowout
     *   Men's Shoes Up to 65% Off
-    *   Elie Tahari
-    *   Jag Jeans &. More Incl. Plus &. Petites
-    *   Love Token
-    *   Splendid Shoes Starting at $40
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   Fall into Color: Styles Incl. Plus &. Petites
-    *   Comfort Boots ft. Bearpaw
+    *   Tea Collection
     *   Olivia Welles Jewelry Up to 75% Off
     *   Korean Beauty: Secret Key
     *   Free Shipping: Playful Holiday Decor &. More
     *   Kinetix Starting at $30
     *   OshKosh Up to 60% Off
+    
     *   Clarks Men Up to 55% Off
     *   Levinas Up to 80% Off
     *   Free Shipping: Clever Doormats
-    *   Sultry Sleep ft. Eberjey
     *   Funkyberry
-    *   Patricia Green Starting at $15
-    *   Bulova Watches Up to 65% Off
-    *   James Perse Starting at $35
-    *   Go Couture Sweaters Up to 75% Off
-    *   Louise et Cie Up to 50% Off
-    *   Diamonds, Gemstones &. More Up to 80% Off
-    *   Ready for Fall: Dresses
-    *   BCBGeneration
-    *   Wolverine
     *   Secret Collagen
     *   Home Organization Starting at $15
-    
     *   Allen Edmonds
     *   Luxury Suits &. More Up to 50% Off
-    *   Last Chance: Lauren Lorraine Up to 70% Off
-    *   14K Gold Steals &. More
-    *   ALEX Toys Starting at $7
-    *   Luxe Shoes We Love
     *   Memorabilia Wall Art
     *   James Tattersall Up to 75% Off
-    *   DSGN Yoga
-    *   Honey Belle
-    *   First Layers: Shapewear ft. Skinnygirl
     *   Free Shipping: Timeless Accent Furniture &. More
-    *   Kenneth Cole Reaction Men Up to 55% Off
     *   Free Shipping: Luxe Faux Fur Accents
     *   Best Tressed: Drybar, philosophy &. More
-    *   Denim Under $40
+    *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Wild Style: Whimsical Animal Art
-    *   Rizos Curls
     *   Free Shipping: Farmhouse-Inspired Holiday Decor
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: Modern Accent Furniture &. More
-    *   KitchenAid
+    *   Desigual
+    *   Fall Fresh: Men's Boots ft. Dr. Martens
+    *   Graphic Tees Starting at $13
     *   Fall into Fleece: Men's Lounge &. More
-    *   Single Los Angeles
-    *   PX
-    *   Mirenesse Australia Up to 70% Off
-    *   Free Shipping: Amrapur Bedding Up to 80% Off
-    *   Fall Feast Ready: Staub Cast Iron Cookware
-    *   Halloween &. Holiday Doormats
-    *   Home Improvements: Organizers &. More from $10
+    *   Beetle &. Thread
+    *   Step It Up: Men's Dress Socks &. More
+    *   Diamonds, Gemstones &. More Up to 80% Off
+    *   Romeo &. Juliet Couture Up to 75% Off
+    *   Sunday Steals Up to 80% Off Incl. Plus &. Petites
+    *   Elie Tahari
+    *   Go Couture Sweaters Up to 75% Off
+    *   Laura Mercier
 *   WomenShop Sale Events
     
-    *   Sam Edelman Starting at $35
-    *   Naked Zebra
-    *   Desigual
+    *   Vince
+    *   Vince Shoes
+    *   Balenciaga Sun &. More Up to 70% Off
+    *   Wow Couture
+    *   Adrianna Papell
+    *   Sechic 14K Gold &. Semi-Precious Jewelry
+    *   RAGA
+    *   Ones to Watch: Bodysuits
+    *   Hair Tools We Love ft. BaBylissPRO
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Liebeskind Berlin Handbags
+    *   PJ Couture Sleep
+    *   Lola Ramona
+    *   Antelope Shoes Up to 45% Off
     *   Cardigans, Car Coats &. More Incl. Plus
     *   Haute Hippie Up to 75% Off
+    *   Sam Edelman Starting at $35
+    *   Naked Zebra
     *   On-Trend Sterling Silver Jewelry Under $80
     *   Sam Edelman Handbags Up to 50% Off
     *   Le Lis Under $40
     *   Perla Formentini Up to 60% Off
+    
     *   Michael Todd Beauty Soniclear &. More
     *   Electric Yoga Up to 75% Off
     *   Fall Essentials: On-Trend Styles Incl. Plus &. Petite
     *   Fit for You: Shoes Incl. Extended Sizes
     *   jane iredale Cosmetics
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Sunday Steals Up to 80% Off Incl. Plus &. Petites
     *   Samuel B Jewelry Under $80
     *   Shoes Under $50
-    *   Laura Mercier
     *   LaFonn Simulated Diamond Jewelry Up to 75% Off
     *   Face Masks We Love Starting at $10
     *   Vintage Addiction Up to 80% Off
-    *   Elie Tahari
-    *   Jag Jeans &. More Incl. Plus &. Petites
-    *   Love Token
-    *   Splendid Shoes Starting at $40
-    
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   Fall into Color: Styles Incl. Plus &. Petites
-    *   Comfort Boots ft. Bearpaw
     *   Olivia Welles Jewelry Up to 75% Off
     *   Korean Beauty: Secret Key
-    *   Sultry Sleep ft. Eberjey
-    *   Patricia Green Starting at $15
-    *   Bulova Watches Up to 65% Off
-    *   James Perse Starting at $35
-    *   Go Couture Sweaters Up to 75% Off
-    *   Louise et Cie Up to 50% Off
-    *   Diamonds, Gemstones &. More Up to 80% Off
-    *   Ready for Fall: Dresses
-    *   BCBGeneration
-    *   Wolverine
     *   Secret Collagen
-    *   Last Chance: Lauren Lorraine Up to 70% Off
-    *   14K Gold Steals &. More
-    *   Luxe Shoes We Love
-    *   DSGN Yoga
-    *   Honey Belle
-    *   First Layers: Shapewear ft. Skinnygirl
     *   Best Tressed: Drybar, philosophy &. More
-    *   Rizos Curls
-    *   Single Los Angeles
+    *   Desigual
+    *   Diamonds, Gemstones &. More Up to 80% Off
+    *   Romeo &. Juliet Couture Up to 75% Off
+    *   Sunday Steals Up to 80% Off Incl. Plus &. Petites
+    *   Elie Tahari
+    *   Go Couture Sweaters Up to 75% Off
+    *   Laura Mercier
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
-    *   Lingerie
-    *   Watches
     *   Tech Accessories
+    *   Accessories
+    *   Lingerie
 *   MenShop Sale Events
     
+    *   Vince Men Up to 70% Off
+    *   Time for NBA Season: Tissot Watches
+    *   Lindbergh
+    *   Standout Sweats
     *   Sleek Men's Sneakers &. More from Lacoste
     *   Salute Up to 70%
-    *   Step It Up: Men's Dress Socks &. More
-    *   Fall Fresh: Men's Boots ft. Dr. Martens
-    *   Graphic Tees Starting at $13
     *   Men's Activewear Blowout
     *   Men's Shoes Up to 65% Off
     *   Kinetix Starting at $30
-    *   Clarks Men Up to 55% Off
     
+    *   Clarks Men Up to 55% Off
     *   Levinas Up to 80% Off
-    *   Bulova Watches Up to 65% Off
     *   Allen Edmonds
     *   Luxury Suits &. More Up to 50% Off
     *   James Tattersall Up to 75% Off
-    *   Kenneth Cole Reaction Men Up to 55% Off
-    *   Denim Under $40
+    *   Fall Fresh: Men's Boots ft. Dr. Martens
+    *   Graphic Tees Starting at $13
     *   Fall into Fleece: Men's Lounge &. More
-    *   PX
+    *   Step It Up: Men's Dress Socks &. More
     
     Shop By Category
     *   Clothing
@@ -196,73 +184,77 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Komar Sleep &. More Starting at $10
+    *   Rockabye
+    *   Doodle Pants
+    *   Must-Have Toys Starting at $9
+    *   Small Steps: Carter's Shoes Up to 55% Off
     *   Sovereign Code Boys &. Girls
-    *   Beetle &. Thread
     *   Tea Collection
     *   OshKosh Up to 60% Off
     *   Funkyberry
-    *   ALEX Toys Starting at $7
+    *   Beetle &. Thread
     
     Shop By Category
     *   Girls Sizes 2T-6X
-    *   Baby Girl
-    *   Boys Sizes 2T-7
     *   Baby Boy
-    *   Toys
+    *   Boys Sizes 2T-7
+    *   Baby Girl
     *   Girls' Shoes
+    *   Toys
+    *   Boys Sizes 8-20
     *   Boys' Shoes
     *   Girls Sizes 7-16
     *   Baby Gear &. Essentials
-    *   Boys Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Free Shipping: Amrapur Towels Up to 75% Off
+    *   Free Shipping: Traditional Area Rugs
+    *   On-the-Go Tech: Under Armour Phone Cases &. More
+    *   LED Lighting &. More Starting at $10
     *   Free Shipping: Christmas Trees for Every Home
     *   Self Reflect: Wall Mirrors
     *   Power Up: Chargers, Lightning Cables &. More
     *   Free Shipping: Dreamy Bedding Up to 70% Off
     *   Free Shipping: Playful Holiday Decor &. More
     *   Free Shipping: Clever Doormats
+    
     *   Home Organization Starting at $15
     *   Memorabilia Wall Art
     *   Free Shipping: Timeless Accent Furniture &. More
     *   Free Shipping: Luxe Faux Fur Accents
-    
+    *   Free Shipping: Amrapur Bedding Up to 80% Off
     *   Wild Style: Whimsical Animal Art
     *   Free Shipping: Farmhouse-Inspired Holiday Decor
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: Modern Accent Furniture &. More
-    *   KitchenAid
-    *   Free Shipping: Amrapur Bedding Up to 80% Off
-    *   Fall Feast Ready: Staub Cast Iron Cookware
-    *   Halloween &. Holiday Doormats
-    *   Home Improvements: Organizers &. More from $10
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Storage &. Cleaning
     *   Accent Furniture
     *   Rugs
+    *   Storage &. Cleaning
+    *   Bath
     *   Luggage &. Travel
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Hair Tools We Love ft. BaBylissPRO
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Michael Todd Beauty Soniclear &. More
     *   jane iredale Cosmetics
-    *   Laura Mercier
     *   Face Masks We Love Starting at $10
     *   Korean Beauty: Secret Key
     *   Secret Collagen
     *   Best Tressed: Drybar, philosophy &. More
-    *   Rizos Curls
-    *   Mirenesse Australia Up to 70% Off
+    *   Laura Mercier
     
     Shop By Category
     *   Skin Care
-    *   Makeup
     *   Hair Care
-    *   Makeup Bags
+    *   Makeup
     *   Tools &. Accessories
     *   Bath &. Body
 
@@ -437,7 +429,7 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 
 *   About
 *   Careers
-*   Nordstrom Rewards
+*   Nordy Club
 *   Gift Cards
 
 *   Member Care
