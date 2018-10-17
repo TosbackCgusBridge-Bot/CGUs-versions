@@ -18,7 +18,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     
     Featured
     *   Cut4
-    *   Trade Talk
+    *   Free Agent &. Trade Talk
     *   Play Ball
     *   Players of the Week
     *   Pipeline
