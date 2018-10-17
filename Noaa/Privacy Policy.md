@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Aerial images of damage from Michael available Imagery viewer updated regularly and accessible to public AROUND NOAA // Hot days in the city? It’s all about location During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\] Above-average number of high-tide flood days predicted for 2018 \[EXT\]
+Enter Search Terms Aerial images of damage from Michael available Imagery viewer accessible to public AROUND NOAA // Aquaculture project could hold key to reviving ancient Hawaiian fishponds \[EXT\] Hot days in the city? It’s all about location During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\]
 
 *   About our agency
 *   News and features
