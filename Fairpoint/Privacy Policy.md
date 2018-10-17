@@ -149,6 +149,7 @@
             *   Fraud Protection
         *   Wholesale/Carrier Services
         *   Tariffs &. Service Catalogs
+        *   Rural Call Completion Contact
         *   Copyright Policies
             *   Copyright Infringement Policy
             *   Notice to Copyright Owners
@@ -299,6 +300,7 @@ Select Location
         *   Phone and Long Distance Terms &. Policies
         *   Wholesale/Carrier Services
         *   Tariffs &. Service Catalogs
+        *   Rural Call Completion Contact
         *   Copyright Policies
         *   Privacy Policy
         *   Website Terms of Use
@@ -354,6 +356,7 @@ Support
         *   Fraud Protection
     *   Wholesale/Carrier Services
     *   Tariffs &. Service Catalogs
+    *   Rural Call Completion Contact
     *   Copyright Policies
         *   Copyright Infringement Policy
         *   Notice to Copyright Owners
@@ -381,6 +384,12 @@ Regulatory Information &. Customer Specific Agreements
 Regulatory Information
 
 Customer Specific Agreements
+
+Rural Call Completion Contact
+
+Rural Call Completion Point of Contact information for Consolidated Communications to be used by service providers to report and seek assistance with rural call completion issues experienced by their subscribers.
+
+Get Contact Info
 
 **Product Terms &. Policies:**
 
