@@ -18,17 +18,11 @@ skip to content skip to navigation skip to search
     *   FAQ
     *   Chat
 
-Hi, Sign in My Account
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Customer Service Chat Email
 
-*   Sign In
-*   Create an Account
+Call or Text 1-800-963-4816
 
-*   Manage Account
-*   Edit Order
-*   Order History
-*   Refer a Friend
-
-Bag 0
+Refer a Friend for 40% OFF Full Price Items! Bag 0
 
 *   New SHOP NEW ARRIVALS
     
@@ -475,6 +469,12 @@ Lands' End Sign In menu
 
 0 Free Shipping on $50+ Orders
 
+*   track order
+    
+    stores
+    
+    get help
+    
 *   New
     *   Back
     *   Shop all New
@@ -980,9 +980,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: FROST pin: 2365 DETAILS
+code: YELLOW pin: 2056 DETAILS
 
 Customer Service Menu
 
