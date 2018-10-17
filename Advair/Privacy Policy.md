@@ -202,7 +202,6 @@ Menu
         *   The race to richer data in clinical trials
         *   Cell and gene therapy: a new era of medicine
         *   On target for a new era of drug discovery?
-        *   Welcome to the golden age of vaccine innovation
         *   Take a deep breath - your lung microbiome will appreciate it
         *   How do consumer insights fuel our innovation?
         *   Lupus: the search for a cure continues
