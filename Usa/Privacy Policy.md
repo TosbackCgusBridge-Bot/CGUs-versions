@@ -129,8 +129,8 @@ READY TO MAKE ANYTHING
 
 We've combined our most powerful software and services to create one simple package, for one great price—Autodesk industry collections.
 
-learn more   _UNHCR refugee settlement in Bangladesh_  
-_Watch video_
+learn more   _New Luis Eduardo Aybar Hospital, construction management by Lexco_  
+_Read story_
 
 PRODUCT DESIGN &  
 MANUFACTURING COLLECTION
@@ -159,7 +159,9 @@ Free trial
 
 Subscribe
 
-—/year
+$1,260.00/year
+
+$1,575.00
 
 Cost-effective 2D CAD
 
@@ -169,7 +171,9 @@ Free trial
 
 Subscribe
 
-—/year
+$312.00/year
+
+$390.00
 
 Get Revit LT and AutoCAD LT together at a great value
 
@@ -179,13 +183,13 @@ Free trial
 
 Subscribe
 
-—/year
+$412.00/year
 
-Try, buy, or learn more about Autodesk products See all products The future of making things woom Bikes makes lightweight bikes just for kids
+$515.00 Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 12–15, 2018 Explore the future of making at Autodesk University
 
-Two dads set out to create the best kids’ bikes possible. They produce some of the lightest bicycles for children on the market, custom-designing the bike parts to fit the needs of small riders.
+Join 10,000+ professionals in building, manufacturing, engineering, and media creation for four days of learning and networking at Autodesk’s annual customer conference.
 
-Watch video
+Learn more
 
 Make anything.   Autodesk makes software for  
 people who make things Across the manufacturing, architecture, building, construction, media, and entertainment industries, Autodesk gives you the power to make anything. Learn more about Autodesk   Resources FREE SOFTWARE FOR STUDENTS file viewers Support Autodesk Community FEEDBACK FOLLOW AUTODESK
