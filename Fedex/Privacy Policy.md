@@ -62,7 +62,7 @@ You can manage your accounts with FedEx through the following.
 
 HOW? Created with Sketch.
 
-In the course of its business activities and providing the services, FedEx will need to process personal data. �Personal Data� is any information that can directly or indirectly be used to identify a natural person. You provide most of your Personal Data directly to FedEx, for instance: 
+In the course of its business activities and providing the services, FedEx will need to process personal data. Personal Data is any information that can directly or indirectly be used to identify a natural person. You provide most of your Personal Data directly to FedEx, for instance: 
 
 SHARE Created with Sketch.
 
