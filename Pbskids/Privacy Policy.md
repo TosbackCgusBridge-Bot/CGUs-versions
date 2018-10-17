@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Take your strategy songs on the go! Download the free Daniel Tiger for Parents app today!Take your strategy songs on the go! Download the free Daniel Tiger for Parents app today!Get it now.
+Help your little engineer create a DIY carousel toy that moves! Help your little engineer create a DIY carousel toy that moves! Get the free template
 
 Toggle message bar
 
