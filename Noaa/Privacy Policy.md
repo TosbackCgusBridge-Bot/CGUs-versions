@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms Aerial images of damage from Michael available Imagery viewer accessible to public AROUND NOAA // Aquaculture project could hold key to reviving ancient Hawaiian fishponds \[EXT\] Hot days in the city? It’s all about location During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\]
+Enter Search Terms September 2018 and year to date were 4th hottest on record for the globe Polar sea ice coverage remains at near-record lows AROUND NOAA // Aquaculture project could hold key to reviving ancient Hawaiian fishponds \[EXT\] Aerial images of damage from Michael available \[EXT\] Hot days in the city? It’s all about location During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\]
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-Tropical Storm Michael on October 11, 2018.
+iStock
