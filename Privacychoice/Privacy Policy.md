@@ -16,6 +16,7 @@ OK Log in to AVG MyAccount Blog MENU Skip to content Close
     *   Privacy
     *   AVG Secure VPN for PC
     *   AVG AntiTrack
+    *   AVG Secure Browser
     *   All Products
 *   Mac
     *   AVG Cleaner for Mac
