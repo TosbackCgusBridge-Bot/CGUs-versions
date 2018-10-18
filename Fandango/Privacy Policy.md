@@ -71,9 +71,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Disney's Live-Action 'Aladdin' Conjures Up a Trailer. Here's Everything We Know Read More
+    *   Patrick Wilson, Vera Farmiga Join 'Annabelle 3'. Here's Everything We Know Read More
     *   Next 3 Timothée Chalamet Movies: 'The King,' 'Little Women,' 'Dune' Read More
-    *   The Week in Movie News: James Gunn Writing 'Suicide Squad 2,' First 'Pet Sematary' Trailer and More Read More
+    *   Idris Elba to Play Another Villain in 'Cats'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
