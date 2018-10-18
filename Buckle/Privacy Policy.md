@@ -263,7 +263,6 @@ FALL FAVORITES ON SALE! SHOP NOW.
         *   Heels &. Wedges
         *   Hem Details
         *   Show Some Skin
-        *   School Shop
         
         *   Men's Trends
         
@@ -272,7 +271,6 @@ FALL FAVORITES ON SALE! SHOP NOW.
         *   Show Your Socks
         *   Dibs
         *   Street Style
-        *   Back To School
         *   Long Body
         *   Sports Team Gear
         *   Top It Off
