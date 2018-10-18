@@ -1,4 +1,10 @@
-Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2R3" height="0" width="0" style="display:none;visibility:hidden"></iframe>.   Home Television Internet Phone Security Start Shopping
+Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2R3" height="0" width="0" style="display:none;visibility:hidden"></iframe>.  
+
+Free Online Installation Specials and Contract Buyouts up to $500.i Step 1: Complete your order online  
+Step 2: Send proof of early termination fee from a qualifying competitor (see order confirmation for details)  
+Step 3: Receive a credit up to $500.
+
+Home Television Internet Phone Security Start Shopping
 
 *   Current Customers
     *   My Services
@@ -34,6 +40,10 @@ Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2
 *   Internet
 *   Phone
 *   Security
+
+Free Online Installation Specials and Contract Buyouts up to $500.i Step 1: Complete your order online  
+Step 2: Send proof of early termination fee from a qualifying competitor (see order confirmation for details)  
+Step 3: Receive a credit up to $500.
 
 *   Residential Services Agreement
 
