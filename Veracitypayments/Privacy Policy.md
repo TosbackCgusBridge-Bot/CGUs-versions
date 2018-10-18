@@ -10,9 +10,9 @@ SearchUse up and down arrows to select available result. Press enter to go to se
 
 *   Markets We Serve
     *   Faith-Based
+    *   Education
     *   NonProfit
     *   Professional
-    *   Education
 *   About
 *   Partners
 *   Contact
@@ -20,9 +20,9 @@ SearchUse up and down arrows to select available result. Press enter to go to se
 
 *   MARKETS WE SERVE
     *   FAITH-BASED
+    *   EDUCATION
     *   NONPROFIT
     *   PROFESSIONAL
-    *   EDUCATION
 *   ABOUT
 *   PARTNERS
 *   CONTACT
@@ -53,11 +53,11 @@ Careers
 
 Faith-Based
 
+Education
+
 Nonprofit
 
 Professional Services
-
-Education
 
 **HEADQUARTERS**
 
@@ -95,11 +95,11 @@ MARKETS
 
 Faith Base
 
+Education
+
 Non Profit
 
 Professional Services
-
-Education
 
 CONTACT HEADQUARTERS
 
@@ -117,4 +117,4 @@ CALL US
 
 **Sales:** (855) 213-3705
 
-Copyright © 2018 Vanco Payment Solutions. All rights reserved. Privacy Policy | Terms and Conditions PCI Certified
+Copyright © 2018 Vanco. All rights reserved. Privacy Policy | Terms and Conditions PCI Certified
