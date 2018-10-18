@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Dan McLaughlin_: How Will the Senate Races Break?
+*   _Ron Klain_: The Case for Dem Optimism: Keep Calm and Midterm On
     
-*   _Sarah Jones_: Obamacare Is Going to Help Dems Win Back Congress
+*   _Tammy Bruce_: Trump's on Winning Streak as Dems Start Melting Down
     
-*   _Steve Liesman_: With Optimism Soaring Don't Expect a Big Dem Wave This Fall
+*   _Robin Wright_: Trump's Overeager Acceptance of Saudi Arabia's Excuse
     
-*   _Byron York_: For Republicans, House Pickup Chances Rare, But Crucial
+*   _Walter Russell Mead_: Don't Ditch Riyadh in a Fit of Righteousness
     
-*   _Joan Vennochi_: No More 'Pocahontas'
+*   _Adele Malpass_: With FL, IA House Races in Play, Ryan's PAC Ponies Up
     
-*   _John Hinderaker_: Why Elizabeth Warren's Lies Are Good For America
+*   _Nate Silver_: Odds Are, Your Next Governor Will Be a Democrat
     
-*   _Alan Bollard_: Trade War, Mounting Debt Risk Another Global Financial Crisis
+*   _Julie Kelly_: Carter Page Seeks Justice While the Spygate Perps Sweat
     
-*   _Andrew Malcolm_: Trump's Dangerous, Vital Bid to Reshape China Policy
+*   _Eugene Robinson_: Trump Subverts Our Democracy With His Lies
     
-*   _Monica Hesse_: The Enduring Dilemma of Bill Clinton
+*   _Steve Cortes_: Vote for the Wall on November 6
     
-*   _Rich Lowry_: Why Hillary Can Never Admit the Truth About Bill
+*   _William Pesek_: How Trump's Trade Battle Is Driving China Nuts
     
-*   _Ron Klain_: The World Is At Risk of Another Deadly Pandemic
+*   _Bill Gates_: What I Loved About Paul Allen
     
-*   _Scott Beauchamp_: Social Justice Warriors Aren't Funny
+*   _Marc Thiessen_: Voters Will Punish Dems for Depraved Treatment of Kavanaugh
     
-*   _Sam Stein_: Dems to Obama: Where Are You?
+*   _Jamelle Bouie_: Republicans Are Running on Bigotry, Not the Economy
     
-*   _Victor Davis Hanson_: The Origins of Progressive Agony
+*   _Katie Pavlich_: The Left's Identity Politics Falls Apart
     
-*   _John Judis_: What the Left Misses About Nationalism
+*   _Alex Shephard_: Democrats Finally Find a Midterm Message: Healthcare
     
-*   _Cal Thomas_: Why Vote for Democrats?
+*   _Megan McArdle_: Will Blue Wave Collapse Before It Reaches Shore?
     
-*   _Joan Walsh_: Elizabeth Warren Will Not Let Donald Trump Define Her
+*   _Sally Persons_: In Tight Governor Races, Ticket-Splitting May Be Key
     
-*   _Greg Gutfeld_: Hooray! Elizabeth Warren Just Killed Identity Politics
+*   _Brian Martucci_: If Republicans Can Win in Minnesota, This Is How
     
-*   _Simon Moya-Smith_: I'm Native American and I Have Some Questions for Warren
+*   _Jay Willis_: How the Dems Can Flip the House, Part 8
     
-*   _Howie Carr_: Fake News Matched Only by Fake Indian's Fake Math
+*   _Steve Hantler_: Gillum's Anti-Law Enforcement Agenda Will Hurt Florida
     
-*   _Ben Jacobs_: Dem Senate Hopes Rest on Two Old White Men
+*   _Thomas Friedman_: U.S. Dilemma: Censuring MBS &. Not Halting Saudi Reforms
     
-*   _David Byler_: Martha McSally's Under-the-Radar Surge
+*   _Lee Smith_: 10 Key Questions About the Khashoggi Affair
     
-*   _Errol Louis_: Evil Speaks, Trump Mumbles Response
+*   _Gideon Resnick &. Sam Stein_: Avenatti Making Moves to Run in 2020
     
-*   _John Bradley_: How Trump Cleans Up the Saudi Mess
+*   _John Podhoretz_: Avenatti Made His Liberal Fans Look Like Fools
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Mike Pompeo Meets Saudi King Over Khashoggi's Disappearance
-*   Republicans Gain Momentum, But Midterm Spending Trails Dems'
-*   On "60 Minutes," Trump Talks Christine Ford, Putin, Kim and More
-*   Pence, Biden Rally Indiana Voters in Fierce Senate Race
-*   Independent Women a Key in Tightening Montana Senate Race
+*   In Tight Governor Races, Ticket-Splitting May Be Key
+*   Trump Says He Won't Accept Blame If Republicans Lose House
+*   Trump on Russian Election Meddling: "FBI Played Right Into Their Hands"
+*   Pelosi Outlines Democratic Agenda If They Take the House
+*   With FL, IA House Races in Play, Ryan's PAC Ponies Up
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,27 +243,27 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Alaska Governor - Dunleavy vs. Begich vs. WalkerAlaska Survey Research
-    *   Dunleavy43
-    *   Walker27
-    *   Begich26Dunleavy +16
-*   Virginia 10th District - Comstock vs. WextonNY Times/Siena
-    *   Wexton48
-    *   Comstock41Wexton +7
-*   Texas Senate - Cruz vs. O'RourkeCNN
-    *   Cruz52
-    *   O'Rourke45Cruz +7
-*   California Senate - Feinstein vs. de LeonKABC/SurveyUSA
-    *   Feinstein40
-    *   Leon26Feinstein +14
+*   Kansas 3rd District - Yoder vs. DavidsNY Times/Siena
+    *   Davids48
+    *   Yoder39Davids +9
+*   Colorado 6th District - Coffman vs. CrowNY Times/Siena
+    *   Crow47
+    *   Coffman38Crow +9
+*   Florida Senate - Scott vs. NelsonSt. Pete Polls
+    *   Nelson47
+    *   Scott49Scott +2
+*   Indiana Senate - Braun vs. Donnelly vs. BrentonGravis
+    *   Donnelly44
+    *   Braun40
+    *   Brenton7Donnelly +4
 
 More Latest Polls In The News
 
+*   CNN's Stelter Accuses Eric Bolling Of Using Pro-Trump Talking Points: "You're Not At FOX Anymore"
+*   Trump: "If People Don't Go Out And Vote Then They Have Themselves To Blame" If Democrats Win
+*   TX-Sen: Ted Cruz Debates Beto O'Rourke: Dem Calls Cruz "Lyin' Ted," Says He's "All Talk, No Action"
+*   Ben Shapiro Gives 10 Reasons To Vote GOP: Economy, Courts, Culture Wars, Democrat-Media Complex, Mob Role
 *   Cherokee Nation GOP Congressman: Elizabeth Warren Should Apologize, "Lie" is "Backfiring On Her"
-*   Tucker Carlson: Elizabeth Warren Roughly About As American Indian As Virtually Every White Person
-*   GA Dem Stacey Abrams: "Blue Wave" Comprised Of The "Documented And Undocumented"
-*   Alec Baldwin: "We Need To Overthrow The Government Of The United States Under Donald Trump"
-*   Trump to '60 Minutes' Stahl: Washington Is A Vicious Place. "In My Way, I Feel Very Comfortable Here"
 
 *   Politics
 *   Policy
