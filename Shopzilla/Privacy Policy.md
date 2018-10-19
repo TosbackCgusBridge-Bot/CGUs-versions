@@ -3,6 +3,7 @@ Connexity
 *   Hitwise
 *   Connexity Commerce
 *   Shop Your Likes
+*   Careers
 *   Press
 
 Toggle navigationblog navsite nav
