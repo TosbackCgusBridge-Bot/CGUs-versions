@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Infographic: Snaps in numbers ›
+*   Ubuntu 18.10:Multi-cloud,new desktop theme &. enhanced snap integration ›
 *   Ubuntu Server development summary – 16 Oct 2018 ›
 *   Canonical collaborates with Eurotech on edge computing solutions ›
 *   Deploying Ubuntu root on ZFS with MAAS ›
-*   Self-containing dependencies leads LogMeIn to publish their first Snap ›
-*   OpenStack Summit Berlin 2018 ›
