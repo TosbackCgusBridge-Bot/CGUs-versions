@@ -1,4 +1,4 @@
-**Last Revised: October 15, 2018**
+**Last Revised: October 18, 2018**
 
 _**To view our archived Privacy Policy, click here.**_  
 
