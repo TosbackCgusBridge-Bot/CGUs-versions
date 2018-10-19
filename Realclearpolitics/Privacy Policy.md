@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Ron Klain_: The Case for Dem Optimism: Keep Calm and Midterm On
+*   _Victor Davis Hanson_: Could Trump Win 20% of African-American Vote in 2020?
     
-*   _Tammy Bruce_: Trump's on Winning Streak as Dems Start Melting Down
+*   _Charlotte Alter_: How the Anti-Trump Resistance Is Organizing Its Outrage
     
-*   _Robin Wright_: Trump's Overeager Acceptance of Saudi Arabia's Excuse
+*   _Mark Pulliam_: How the Kavanaugh Fight Backfired on Democrats
     
-*   _Walter Russell Mead_: Don't Ditch Riyadh in a Fit of Righteousness
+*   _Jim Newell_: Nancy Pelosi Will Rise Again
     
-*   _Adele Malpass_: With FL, IA House Races in Play, Ryan's PAC Ponies Up
+*   _Peter Navarro_: U.S. Economic Growth Under Trump Is No Accident
     
-*   _Nate Silver_: Odds Are, Your Next Governor Will Be a Democrat
+*   _Jeffrey Sachs_: Failure to Fight Climate Change Is a Crime Against Humanity
     
-*   _Julie Kelly_: Carter Page Seeks Justice While the Spygate Perps Sweat
+*   _Richard Epstein_: The Truth Behind the Latest Global Warming Scare
     
-*   _Eugene Robinson_: Trump Subverts Our Democracy With His Lies
+*   _Jeanne Mancini_: Unique From Day One: Pro-life Is Pro-Science
     
-*   _Steve Cortes_: Vote for the Wall on November 6
+*   _Margaret Carlson_: Year of the Woman Crashes Into President 'Horseface'
     
-*   _William Pesek_: How Trump's Trade Battle Is Driving China Nuts
+*   _Candace Owens_: Democrats Aren't the Party of Women
     
-*   _Bill Gates_: What I Loved About Paul Allen
+*   _Jamal Khashoggi_: What Arab World Needs Most Is Free Expression
     
-*   _Marc Thiessen_: Voters Will Punish Dems for Depraved Treatment of Kavanaugh
+*   _Carl Cannon_: Five Tribes of American Voters
     
-*   _Jamelle Bouie_: Republicans Are Running on Bigotry, Not the Economy
+*   _Josh Kraushaar_: 5 Crucial Races to Watch on Election Night
     
-*   _Katie Pavlich_: The Left's Identity Politics Falls Apart
+*   _Newt Gingrich_: Court Fight Is Causing a Major Shift Towards Republicans
     
-*   _Alex Shephard_: Democrats Finally Find a Midterm Message: Healthcare
+*   _Ezra Klein_: Trump, Kavanaugh and the Rigging of American Politics
     
-*   _Megan McArdle_: Will Blue Wave Collapse Before It Reaches Shore?
+*   _Hicks &. Ellis_: The Great Disruptor: Trump Succeeds in Creating Real Change
     
-*   _Sally Persons_: In Tight Governor Races, Ticket-Splitting May Be Key
+*   _E.J. Dionne_: Why Pelosi Doesn't Care What They Say About Her
     
-*   _Brian Martucci_: If Republicans Can Win in Minnesota, This Is How
+*   _Thomas Edsall_: The Democrats' Left Turn Is Not an Illusion
     
-*   _Jay Willis_: How the Dems Can Flip the House, Part 8
+*   _Jacob Sullum_: Kanye's Success: Trump Now Backs Criminal Justice Reform
     
-*   _Steve Hantler_: Gillum's Anti-Law Enforcement Agenda Will Hurt Florida
+*   _Zack Beauchamp_: Study Shows Racism Is Why Obama Voters Moved to Trump
     
-*   _Thomas Friedman_: U.S. Dilemma: Censuring MBS &. Not Halting Saudi Reforms
+*   _Larry Elder_: Is This the End of the Liberal Race-Baiting Hustle?
     
-*   _Lee Smith_: 10 Key Questions About the Khashoggi Affair
+*   _Nicholas Kristof_: Trump Is Providing Cover for Saudi Barbarism
     
-*   _Gideon Resnick &. Sam Stein_: Avenatti Making Moves to Run in 2020
+*   _Damon Linker_: Trump Breaks Through the Moralistic BS of U.S. Foreign Policy
     
-*   _John Podhoretz_: Avenatti Made His Liberal Fans Look Like Fools
+*   _Julie Kelly_: Glenn Simpson's Key Role in Russia Collusion Hoax
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Targets Tester for Defeat, Makes Third Visit to Montana
+*   Five Tribes of American Voters
+*   Cabinet Meeting: Trump Orders Agencies to Cut Budgets by 5%
 *   In Tight Governor Races, Ticket-Splitting May Be Key
-*   Trump Says He Won't Accept Blame If Republicans Lose House
-*   Trump on Russian Election Meddling: "FBI Played Right Into Their Hands"
-*   Pelosi Outlines Democratic Agenda If They Take the House
 *   With FL, IA House Races in Play, Ryan's PAC Ponies Up
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,19 +243,18 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Kansas 3rd District - Yoder vs. DavidsNY Times/Siena
-    *   Davids48
-    *   Yoder39Davids +9
-*   Colorado 6th District - Coffman vs. CrowNY Times/Siena
-    *   Crow47
-    *   Coffman38Crow +9
-*   Florida Senate - Scott vs. NelsonSt. Pete Polls
-    *   Nelson47
-    *   Scott49Scott +2
-*   Indiana Senate - Braun vs. Donnelly vs. BrentonGravis
-    *   Donnelly44
-    *   Braun40
-    *   Brenton7Donnelly +4
+*   West Virginia 3rd District - Miller vs. OjedaNY Times/Siena
+    *   Miller46
+    *   Ojeda41Miller +5
+*   Maine 2nd District - Poliquin vs. GoldenNY Times/Siena
+    *   Poliquin41
+    *   Golden41Tie
+*   Texas 23rd District - Hurd vs. Ortiz JonesNY Times/Siena
+    *   Hurd53
+    *   Ortiz Jones38Hurd +15
+*   New Jersey 11th District - Webber vs. SherrillNY Times/Siena
+    *   Sherrill49
+    *   Webber38Sherrill +11
 
 More Latest Polls In The News
 
