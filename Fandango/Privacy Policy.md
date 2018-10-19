@@ -39,7 +39,7 @@ Gift Cards | Offers | Sign In Sign Out
     *   Indivisible (2018)
     *   Johnny English Strikes Again
     *   Bohemian Rhapsody
-    *   Nobody's Fool (2018)
+    *   Nobody's Fool
     *   The Nutcracker and the Four Realms
     *   Dr. Seuss' The Grinch (2018)
     *   Overlord (2018)
@@ -72,7 +72,7 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Patrick Wilson, Vera Farmiga Join 'Annabelle 3'. Here's Everything We Know Read More
-    *   Next 3 Timothée Chalamet Movies: 'The King,' 'Little Women,' 'Dune' Read More
+    *   'The Curse of La Llorona' Trailer Introduces the Terrifying "Weeping Woman". Here's Everything We Know Read More
     *   Idris Elba to Play Another Villain in 'Cats'. Here's Everything We Know Read More
     
     Explore Content
