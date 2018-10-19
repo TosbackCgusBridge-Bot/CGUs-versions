@@ -21,7 +21,7 @@ MENU **IS**
 
 **ES**
 
-*   Starting at $39,5002\*
+*   Starting at $39,6002\*
 *   302-HP 3.5L V6
 
 *   Build
@@ -29,7 +29,7 @@ MENU **IS**
 
 **ES HYBRID**
 
-*   Starting at $41,3102\*
+*   Starting at $41,4102\*
 *   44-MPG combined rating3\*
 
 *   Build
@@ -171,7 +171,7 @@ COMPARE **NX HYBRID**
 
 **ES HYBRID**
 
-*   Starting at $41,3102\*
+*   Starting at $41,4102\*
 *   44-MPG COMBINED RATING3\*
 
 *   Build
