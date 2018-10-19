@@ -56,9 +56,9 @@
     *   Integrations
     *   Join Us
 
-HAVE COMPELLING  
-CONVERSATIONS THAT  
-LAST A LIFETIME Watch Our Story
+THE PROMISE OF  
+1:1 DIGITAL MARKETING  
+BOLDLY DELIVERED Watch Our Story
 
 *   160+ MILLION Real People You Can  
     Message Right Now
