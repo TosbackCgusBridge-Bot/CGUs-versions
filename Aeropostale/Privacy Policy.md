@@ -26,6 +26,7 @@ Close submenu ( Girls ) Girls
 *   Destroyed Denim
 *   Cozy
 *   Knotted + Twisted
+*   New Jean Fits
 *   Flex Effects
 *   Lace Up Details
 *   Message Tees
@@ -68,7 +69,6 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Uniform
 *   Denim Guide
 *   Flex Effects
 *   Tribe Of Tees
@@ -76,6 +76,7 @@ Close submenu ( Featured ) Featured
 *   Basic Essentials
 *   Seriously Soft
 *   Online Only
+*   Uniform
 
 Close submenu ( Tops ) Tops
 
@@ -103,6 +104,7 @@ Close submenu ( Bottoms ) Bottoms
 *   Pants
 *   Shorts
 *   Skirts
+*   Buy 1 Get 1 Free Jeans
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -134,7 +136,6 @@ Close submenu ( Featured ) Featured
 
 *   View All
 *   New Arrivals
-*   Uniform
 *   Denim Guide
 *   Flex Effects
 *   Tribe of Tees
@@ -143,6 +144,7 @@ Close submenu ( Featured ) Featured
 *   Logo Shop
 *   Back to Basics
 *   Online Only
+*   Uniform
 
 Close submenu ( Tops ) Tops
 
@@ -155,7 +157,6 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Sweaters
 *   Tees $5.87 + Up
-*   Buy 1 Get 2 Free Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -175,18 +176,21 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
+*   Buy 1 Get 1 Free Jeans
+*   New Fits
 *   Low Rise Jegging
 *   High Rise Ankle Jegging
 *   High Rise Jegging
-*   Cropped Jegging
 *   Super High Rise Jegging
 *   Skinny
 *   Bootcut
 *   Boyfriend
 *   Cheeky
+*   Flare
 *   Overalls
 *   Flex Effects
-*   Ripped Repaired Destroyed
+*   Eco-Friendly Repreve
+*   Destroyed Denim
 
 Close submenu ( Guys Jeans ) Guys Jeans
 
@@ -199,7 +203,7 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Slim Boot
 *   Relaxed
 *   Flex Effects
-*   Ripped Repaired Destroyed
+*   Destroyed Denim
 
 Close submenu ( Clearance ) Clearance
 
@@ -260,6 +264,7 @@ Menu Find a Store Aeropostale
         *   Destroyed Denim
         *   Cozy
         *   Knotted + Twisted
+        *   New Jean Fits
         *   Flex Effects
         *   Lace Up Details
         *   Message Tees
@@ -286,7 +291,6 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Uniform
         *   Denim Guide
         *   Flex Effects
         *   Tribe Of Tees
@@ -294,6 +298,7 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Seriously Soft
         *   Online Only
+        *   Uniform
     
     *   Tops
         *   View All
@@ -319,6 +324,7 @@ Menu Find a Store Aeropostale
         *   Pants
         *   Shorts
         *   Skirts
+        *   Buy 1 Get 1 Free Jeans
         
     
     *   Dresses + Rompers
@@ -344,7 +350,6 @@ Menu Find a Store Aeropostale
     *   Featured
         *   View All
         *   New Arrivals
-        *   Uniform
         *   Denim Guide
         *   Flex Effects
         *   Tribe of Tees
@@ -353,6 +358,7 @@ Menu Find a Store Aeropostale
         *   Logo Shop
         *   Back to Basics
         *   Online Only
+        *   Uniform
     
     *   Tops
         *   View All
@@ -364,7 +370,6 @@ Menu Find a Store Aeropostale
         *   Shirts
         *   Sweaters
         *   Tees $5.87 + Up
-        *   Buy 1 Get 2 Free Tees
     
     *   Bottoms
         *   View All
@@ -385,18 +390,21 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
+        *   Buy 1 Get 1 Free Jeans
+        *   New Fits
         *   Low Rise Jegging
         *   High Rise Ankle Jegging
         *   High Rise Jegging
-        *   Cropped Jegging
         *   Super High Rise Jegging
         *   Skinny
         *   Bootcut
         *   Boyfriend
         *   Cheeky
+        *   Flare
         *   Overalls
         *   Flex Effects
-        *   Ripped Repaired Destroyed
+        *   Eco-Friendly Repreve
+        *   Destroyed Denim
     
     *   Guys Jeans
         *   View All
@@ -408,7 +416,7 @@ Menu Find a Store Aeropostale
         *   Slim Boot
         *   Relaxed
         *   Flex Effects
-        *   Ripped Repaired Destroyed
+        *   Destroyed Denim
 *   Clearance
     
     *   View Home
