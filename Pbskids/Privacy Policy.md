@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
 
-Find fun, hands-on educational activities to do with your child. Find fun, hands-on educational activities to do with your child. Go now
+What to keep in mind when responding to toddlers' irrational behavior. What to keep in mind when responding to toddlers' irrational behavior. Read more.
 
 Toggle message bar
 
