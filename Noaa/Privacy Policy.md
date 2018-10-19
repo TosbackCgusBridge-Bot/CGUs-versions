@@ -106,7 +106,7 @@ Share This SHARE Share to Twitter Share to Facebook Share by email Print Nationa
 *   Budgets, grants and Corporate Services
 *   Educational resources
 
-Enter Search Terms September 2018 and year to date were 4th hottest on record for the globe Polar sea ice coverage remains at near-record lows AROUND NOAA // Aquaculture project could hold key to reviving ancient Hawaiian fishponds \[EXT\] Aerial images of damage from Michael available \[EXT\] Hot days in the city? It’s all about location During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\]
+Enter Search Terms Winter Outlook favors warmer temperatures for much of U.S. Wet southern states to contrast drought in West AROUND NOAA // September 2018 and year to date were 4th hottest on record for the globe Aquaculture project could hold key to reviving ancient Hawaiian fishponds \[EXT\] During National Seafood Month, the world is your oyster. Or shrimp? Skate? Halibut? \[EXT\] Aerial images of damage from Michael available \[EXT\]
 
 *   About our agency
 *   News and features
@@ -127,4 +127,4 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Staff Directory
 *   Need help?
 
-iStock
+Courtesy of Eric Druxman
