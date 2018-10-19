@@ -224,6 +224,8 @@ Subscribe
 
 See our Privacy Policy
 
+Applies to new email subscribers only. Offer will be delivered to your email address.
+
 Thank you!
 
 %%Email Address%%
@@ -232,16 +234,12 @@ is now subscribed.
 
 Check your email for your exclusive offer!
 
-Learn More.
-
 Already Subscribed!
 
 %%Email Address%%
 
 is already subscribed!
 
-You should be recieving Hickory Farms emails.
-
-Learn More.
+You should be receiving Hickory Farms emails.
 
 Feedback
