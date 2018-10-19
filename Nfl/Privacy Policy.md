@@ -1,4 +1,4 @@
-*   DEN2-4ARI1-5Thu, 8:20 pm ET
+*   DEN3-445ARI1-610Final
 *   TEN3-3LAC4-2Sun, 9:30 am ET
 *   NE4-2CHI3-2Sun, 1:00 pm ET
 *   BUF2-4IND1-5Sun, 1:00 pm ET
@@ -30,7 +30,7 @@
 *   NFL Network
 *   Photos
 
-*   DEN2-4ARI1-5Thu, 8:20 pm ET
+*   DEN45ARI10Final
 *   TEN3-3LAC4-2Sun, 9:30 am ET
 *   NE4-2CHI3-2Sun, 1:00 pm ET
 *   BUF2-4IND1-5Sun, 1:00 pm ET
