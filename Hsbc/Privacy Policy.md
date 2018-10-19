@@ -39,10 +39,12 @@ Close Press tab key to access skip links section. Press Alt+0 to access it anyti
     *   Diversity and inclusion
         *   Employee networks
         *   Valuing diversity last item in this group
-    *   Sustainability
+    *   Building a sustainable future
         *   Sustainable finance
-        *   Operations
-        *   Communities last item in this group
+        *   Sustainable supply chains
+        *   Employability and financial capability
+        *   Sustainable operations
+        *   Community investment last item in this group
     *   Remuneration
         
     
@@ -363,7 +365,7 @@ Contact Us Our approach
 
 *   Our values
 *   Diversity and inclusion
-*   Sustainability
+*   Building a sustainable future
 *   Measuring our impact
 *   Risk and responsibility
 *   Remuneration
