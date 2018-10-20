@@ -1,4 +1,6 @@
-✕ ✕
+Cookies help us keep internet content free. By continuing to use our website or by clicking "Got It", you agree to the use of cookies. **Learn More** | **Got It**
+
+AcceptDon't ask me again ✕ ✕
 
 *   What We Do
     *   Overview
