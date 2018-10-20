@@ -41,7 +41,7 @@
     *   Combos
     *   Burgers
     *   Specialty Meats
-    *   Seafood
+    *   SeafoodMost Popular Filet Mignon
 *   Gourmet Food
     
     View All Categories Shop by Category*   Condiments &. Spreads
@@ -124,7 +124,7 @@
     *   Combos
     *   Burgers
     *   Specialty Meats
-    *   Seafood
+    *   SeafoodMost Popular Filet Mignon
 *   Gourmet Food
     
     View All Categories Shop by Category*   Condiments &. Spreads
