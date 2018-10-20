@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Victor Davis Hanson_: Could Trump Win 20% of African-American Vote in 2020?
+*   _David Wasserman_: 9 Kinds of Races That Will Decide Fate of the House
     
-*   _Charlotte Alter_: How the Anti-Trump Resistance Is Organizing Its Outrage
+*   _Alexandra DeSanctis_: Why Braun May Have the Edge Over Donnelly in Indiana
     
-*   _Mark Pulliam_: How the Kavanaugh Fight Backfired on Democrats
+*   _Paul Krugman_: The Trump Tax Scam, Phase II
     
-*   _Jim Newell_: Nancy Pelosi Will Rise Again
+*   _President Donald Trump_: Democrats Produce Mobs, Republicans Produce Jobs
     
-*   _Peter Navarro_: U.S. Economic Growth Under Trump Is No Accident
+*   _Edward-Isaac Dovere_: Behind Tom Steyer's Massive Political Machine
     
-*   _Jeffrey Sachs_: Failure to Fight Climate Change Is a Crime Against Humanity
+*   _James Holmes_: Can U.S. &. China Avoid the Pull of Thucydides Trap?
     
-*   _Richard Epstein_: The Truth Behind the Latest Global Warming Scare
+*   _Amberin Zaman_: Turkey Eyes Washington for Its Next Khashoggi Move
     
-*   _Jeanne Mancini_: Unique From Day One: Pro-life Is Pro-Science
+*   _Demirjian &. Costa_: To Defend Trump, Conservatives Seek to Smear Khashoggi
     
-*   _Margaret Carlson_: Year of the Woman Crashes Into President 'Horseface'
+*   _Freddy Gray_: Telling Truth About Khashoggi Is Not a Smear Campaign
     
-*   _Candace Owens_: Democrats Aren't the Party of Women
+*   _Andrew Walworth_: 'Moynihan': A Brilliant Portrait of a Political Rarity
     
-*   _Jamal Khashoggi_: What Arab World Needs Most Is Free Expression
+*   _Fred Barnes_: What Trump Knows That Obama Didn't
     
-*   _Carl Cannon_: Five Tribes of American Voters
+*   _David Corn_: The Most Important Election of Our Lives
     
-*   _Josh Kraushaar_: 5 Crucial Races to Watch on Election Night
+*   _Ted Van Dyk_: Democrats Haven't Turned Back From 1968
     
-*   _Newt Gingrich_: Court Fight Is Causing a Major Shift Towards Republicans
+*   _Theodore Johnson_: How 2018 Became the 'Year of the Black Progressive'
     
-*   _Ezra Klein_: Trump, Kavanaugh and the Rigging of American Politics
+*   _Michael Barone_: Can Anti-Trump Hatred Carry the House for the Dems?
     
-*   _Hicks &. Ellis_: The Great Disruptor: Trump Succeeds in Creating Real Change
+*   _Fareed Zakaria_: Khashoggi's Murder Says as Much About America as Kingdom
     
-*   _E.J. Dionne_: Why Pelosi Doesn't Care What They Say About Her
+*   _Badran &. Doran_: Why the Saudis Despised Jamal Khashoggi
     
-*   _Thomas Edsall_: The Democrats' Left Turn Is Not an Illusion
+*   _Joanthan Schanzer_: The Experts Were Wrong About the Middle East
     
-*   _Jacob Sullum_: Kanye's Success: Trump Now Backs Criminal Justice Reform
+*   _Jason Greenblatt_: Trump's Mideast Plan a 'Path to Change' for Gaza
     
-*   _Zack Beauchamp_: Study Shows Racism Is Why Obama Voters Moved to Trump
+*   _Christian Esch_: The Rise of Russia's GRU Military Intelligence Service
     
-*   _Larry Elder_: Is This the End of the Liberal Race-Baiting Hustle?
+*   _Sheryl Gay Stolberg_: Meet the GOP's Best Chance for Flipping a House Seat
     
-*   _Nicholas Kristof_: Trump Is Providing Cover for Saudi Barbarism
+*   _Salena Zito_: The Prairie Populist Who Could Win S. Dakota for the Dems
     
-*   _Damon Linker_: Trump Breaks Through the Moralistic BS of U.S. Foreign Policy
+*   _James Moore_: Real Lessons From Beto O'Rourke's Magical Run in Texas
     
-*   _Julie Kelly_: Glenn Simpson's Key Role in Russia Collusion Hoax
+*   _David Harsanyi_: The Media Is Hopelessly in Love With Beto
     
 
 *   Previous
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   West Virginia 3rd District - Miller vs. OjedaNY Times/Siena
-    *   Miller46
-    *   Ojeda41Miller +5
-*   Maine 2nd District - Poliquin vs. GoldenNY Times/Siena
-    *   Poliquin41
-    *   Golden41Tie
-*   Texas 23rd District - Hurd vs. Ortiz JonesNY Times/Siena
-    *   Hurd53
-    *   Ortiz Jones38Hurd +15
-*   New Jersey 11th District - Webber vs. SherrillNY Times/Siena
-    *   Sherrill49
-    *   Webber38Sherrill +11
+*   Arizona Senate - McSally vs. SinemaNY Times/Siena
+    *   McSally48
+    *   Sinema46McSally +2
+*   Florida 15th District - Spano vs. CarlsonNY Times/Siena
+    *   Spano43
+    *   Carlson43Tie
+*   Pennsylvania 8th District - Chrin vs. CartwrightNY Times/Siena
+    *   Cartwright52
+    *   Chrin40Cartwright +12
+*   Maine Senate - Brakey vs. KingPan Atlantic\*
+    *   King57
+    *   Brakey30King +27
 
 More Latest Polls In The News
 
+*   Acosta: Trump's Rhetoric Plant Seeds Of Violence In His Own Supporters, In His Own Crowds
+*   Frank Luntz and VICE News Focus Group Featuring Debate Between Beto O'Rourke And Cruz Supporters
 *   CNN's Stelter Accuses Eric Bolling Of Using Pro-Trump Talking Points: "You're Not At FOX Anymore"
-*   Trump: "If People Don't Go Out And Vote Then They Have Themselves To Blame" If Democrats Win
 *   TX-Sen: Ted Cruz Debates Beto O'Rourke: Dem Calls Cruz "Lyin' Ted," Says He's "All Talk, No Action"
 *   Ben Shapiro Gives 10 Reasons To Vote GOP: Economy, Courts, Culture Wars, Democrat-Media Complex, Mob Role
-*   Cherokee Nation GOP Congressman: Elizabeth Warren Should Apologize, "Lie" is "Backfiring On Her"
 
 *   Politics
 *   Policy
