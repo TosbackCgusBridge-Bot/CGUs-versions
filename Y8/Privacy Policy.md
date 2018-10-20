@@ -3,34 +3,34 @@
 *   games
 *   videos
 
-New Games Next in  21:06 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  17:23 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 21:06
-*   Best of new games 1647 games
-*   Most Popular Games 18115 games
+*   New Games Next in 17:23
+*   Best of new games 1671 games
+*   Most Popular Games 18124 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,307 games
+*   Games for girls 23,310 games
 *   Driving &. Racing Games 6,697 games
 *   Strategy &. RPG Games 2,404 games
 *   Management Games 3,651 games
-*   Thinking Games 11,765 games
-*   Action &. Adventure Games 15,747 games
-*   Sports Games 2,123 games
-*   Shooting Games 8,233 games
-*   Fighting Games 2,081 games
-*   Skill Games 10,462 games
-*   Arcade &. Classic Games 12,647 games
-*   Fun &. Crazy Games 2,439 games
+*   Thinking Games 11,778 games
+*   Action &. Adventure Games 15,758 games
+*   Sports Games 2,124 games
+*   Shooting Games 8,239 games
+*   Fighting Games 2,083 games
+*   Skill Games 10,474 games
+*   Arcade &. Classic Games 12,649 games
+*   Fun &. Crazy Games 2,440 games
 
 Play with friends  
 Powered by Y8 Account 130 Y8 Multiplayer Games 1,680 Y8 High Score Games 1,034 Y8 Achievements Games 779 Y8 Screenshots Games 1,336 Y8 Online Save Games 2,689 All Y8 Games Games Last Highscore:
 
-**575** points on Farm Frenzy 2 by Dummkuuzzz
+**20** points on Masked Forces Zombie Survival by GamerZ
 
 Help us improve Bad translation? Social Share889K Y8 Games Facebook
 
