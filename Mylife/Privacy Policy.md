@@ -63,7 +63,7 @@ Find Anyone:
 
 We Value Your Privacy
 
-MyLife aggregates publicly available information from government, social, and other sources, plus personal reviews written by others. This third-party data is then indexed through methods similar to those used by Google or Bing to create a listing. Because MyLife only collects this data and does not create it, we cannot fully guarantee its accuracy
+MyLife aggregates publicly available information from government, social, and other sources, plus personal reviews written by others. This third-party data is then indexed through methods similar to those used by Google or Bing to create a listing. Because MyLife only collects this data and does not create it, we cannot fully guarantee its accuracy.
 
 Copyright ©2018 MyLife.com®, Inc. | User Agreement | Privacy Policy
 
