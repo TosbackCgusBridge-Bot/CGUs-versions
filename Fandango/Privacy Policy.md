@@ -71,7 +71,7 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Patrick Wilson, Vera Farmiga Join 'Annabelle 3'. Here's Everything We Know Read More
+    *   The Week in Movie News: Idris Elba Joins 'Cats,' the Warrens Return in 'Annabelle 3' and More Read More
     *   'The Curse of La Llorona' Trailer Introduces the Terrifying "Weeping Woman". Here's Everything We Know Read More
     *   Idris Elba to Play Another Villain in 'Cats'. Here's Everything We Know Read More
     
@@ -336,14 +336,14 @@ Offers
 
 New + Coming soon
 
-*   Crazy Rich Asians
-*   A Simple Favor
-*   The Predator (2018)
-*   White Boy Rick
-*   The House with a Clock in its Walls
-*   Smallfoot
 *   A Star Is Born (2018)
 *   Venom (2018)
+*   First Man
+*   Halloween (2018)
+*   Bohemian Rhapsody
+*   The Nutcracker and the Four Realms
+*   Dr. Seuss' The Grinch (2018)
+*   Fantastic Beasts: The Crimes of Grindelwald
 
 Experience + Explore
 
