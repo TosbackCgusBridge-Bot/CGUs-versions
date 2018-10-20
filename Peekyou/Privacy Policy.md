@@ -10,7 +10,7 @@ Please enter a Last Name
 
 Location
 
-LocationWorldUSAAlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutWashington, DCDelawareFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachussetsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+LocationAlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutWashington, DCDelawareFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachussetsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
 
 Please enter the location
 
@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 50%  50%  50%  3% 
+What is PeekScore? Public Records &. Background Checks 49%  49%  49%  2% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -359,6 +359,6 @@ myspacex
 *   Blog
 *   Daily Searches
 
-Copyright 2017 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
+Copyright 2018 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
 
 Scroll
