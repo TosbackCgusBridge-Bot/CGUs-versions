@@ -1,12 +1,32 @@
-Top definition privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 333 91 Get a privacy mug for your friend Sarah.2 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 150 77 Get a privacy mug for your cousin Vivek.3 privacyunknownWhat was violated by the Patriot Act, and is now going to be violated in the near future by the National ID... that's right folks, you won't be able to hop on a plane without getting red lights shoved in your eye.Read it and weep. America is becoming the place for advertisements, pornography, and a complete lack of privacy.by ~The Nameless One~ June 03, 2005 101 63 Get a privacy mug for your cat Jerry.4 privacyunknownsomething that Tokio Hotel don't have.They need privacy.#tokio hotel#privacy#celeb#private#lifeby zimmer483 October 12, 2011 18 11 Get a privacy mug for your bunkmate Günter.5 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 5 3 Get a privacy mug for your sister Rihanna.Categories
+Top definition privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 333 91 Get a privacy mug for your barber Manafort.2 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 150 77 Get a privacy mug for your fish Bob.3 privacyunknownWhat was violated by the Patriot Act, and is now going to be violated in the near future by the National ID... that's right folks, you won't be able to hop on a plane without getting red lights shoved in your eye.Read it and weep. America is becoming the place for advertisements, pornography, and a complete lack of privacy.by ~The Nameless One~ June 03, 2005 101 63 Get a privacy mug for your friend Jerry.4 privacyunknownsomething that Tokio Hotel don't have.They need privacy.#tokio hotel#privacy#celeb#private#lifeby zimmer483 October 12, 2011 18 11 Get a privacy mug for your mate Georges.5 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 5 3 Get a privacy mug for your sister-in-law Yasemin.Trending RN - October 20, 2018
 
-*   🍰 Food
-*   🎧 Music
-*   💬 Internet
-*   🙏 Religion
-*   🍆 Sex
-*   📈 Work
-*   🙋🏽 Name
-*   ⚽️ Sports
-*   🚬 Drugs
-*   🎓 College
+*     1.  crow eater
+*     2.  Hugh Janus
+*     3.  meef
+*     4.  KV
+*     5.  black supremacy
+*     6.  suck my
+*     7.  top 8
+*     8.  youthia
+*     9.  KETA
+*   10.  chuck a browneye
+*   11.  Oida
+*   12.  milli vanilli
+*   13.  Willy Waver
+*   14.  FGF
+*   15.  godsister
+*   16.  Friday Eve
+*   17.  seven figures
+*   18.  gloves
+*   19.  cooncil
+*   20.  silver scrapes
+*   21.  On crip
+*   22.  matter baby
+*   23.  patwari
+*   24.  Fenny
+*   25.  Happy Friday
+*   26.  crack cookies
+*   27.  car rally
+*   28.  finner
+*   29.  FriYAY
+*   30.  Pendejada
