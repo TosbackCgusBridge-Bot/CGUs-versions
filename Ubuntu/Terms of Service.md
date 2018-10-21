@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical and Ubuntu – user statistics ›
 *   Welcome Ubuntu Desktop 18.10 ›
 *   Ubuntu events in November ›
 *   Infographic: Snaps in numbers ›
 *   Ubuntu 18.10:Multi-cloud,new desktop theme &. enhanced snap integration ›
-*   Ubuntu Server development summary – 16 Oct 2018 ›
