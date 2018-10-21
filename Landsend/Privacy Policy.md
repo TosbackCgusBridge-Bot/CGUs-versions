@@ -395,6 +395,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Personalized Christmas Stockings
     *   Christmas Ornaments
     *   Holiday Wreaths &. Garland
+    *   Holiday Home Decor
     *   Christmas Candy &. Treats
     
     More for the Home >
@@ -403,13 +404,12 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Door Mats
     *   Canvas Totes
     *   Entertaining
-    *   Summer Decor &. Entertaining
     
     FURNITURE >
     
     *   Outdoor Furniture
     
-    DOG SHOP >KIDS ROOM >
+    KIDS ROOM >
     
     *   Kids Bedding
     *   Kids Towels
@@ -419,7 +419,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Sleeping Bags
     *   Baby Blankets
     
-    FEATURED SHOPS
+    DOG SHOP >FEATURED SHOPS
     *   New Arrivals
     *   Supima Bedding &. Bath
     *   Bedding Basics
@@ -877,6 +877,7 @@ Lands' End Sign In menu
         *   Personalized Christmas Stockings
         *   Christmas Ornaments
         *   Holiday Wreaths &. Garland
+        *   Holiday Home Decor
         *   Christmas Candy &. Treats
     *   More for the Home
         *   Back
@@ -885,12 +886,10 @@ Lands' End Sign In menu
         *   Door Mats
         *   Canvas Totes
         *   Entertaining
-        *   Summer Decor &. Entertaining
     *   FURNITURE
         *   Back
         *   View All
         *   Outdoor Furniture
-    *   DOG SHOP
     *   KIDS ROOM
         *   Back
         *   View All
@@ -901,6 +900,7 @@ Lands' End Sign In menu
         *   Bean Bag Chairs
         *   Sleeping Bags
         *   Baby Blankets
+    *   DOG SHOP
     *   FEATURED SHOPS
         *   Back
         *   New Arrivals
