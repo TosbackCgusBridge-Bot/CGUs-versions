@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -109,53 +107,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Wasserman_: 9 Kinds of Races That Will Decide Fate of the House
+*   _Ken Fisher_: GOP Is the Party of the Poor, Dems Are the Party of the Rich
     
-*   _Alexandra DeSanctis_: Why Braun May Have the Edge Over Donnelly in Indiana
+*   _Marshall Auerback_: The Democrats' Globalization Dilemma
     
-*   _Paul Krugman_: The Trump Tax Scam, Phase II
+*   _Mark Rozell_: Virginia May Help Dems Regain Control of the House
     
-*   _President Donald Trump_: Democrats Produce Mobs, Republicans Produce Jobs
+*   _Robert Stacy McCain_: Signs Point to Hope for GOP on Nov 6
     
-*   _Edward-Isaac Dovere_: Behind Tom Steyer's Massive Political Machine
+*   _Albert Hunt_: Walker Tries to Snatch Football From Dems One More Time
     
-*   _James Holmes_: Can U.S. &. China Avoid the Pull of Thucydides Trap?
+*   _Linda Stasi_: Khashoggi's Killers Brought a Bone Saw to a Fistfight
     
-*   _Amberin Zaman_: Turkey Eyes Washington for Its Next Khashoggi Move
+*   _Sebastian Gorka_: Why Media Tries to Hide Truth About Khashoggi
     
-*   _Demirjian &. Costa_: To Defend Trump, Conservatives Seek to Smear Khashoggi
+*   _Dana Milbank_: To Win, Republicans Need Selective Memory Loss
     
-*   _Freddy Gray_: Telling Truth About Khashoggi Is Not a Smear Campaign
+*   _Kevin McCullough_: 15 Days Till Trump Crushes Them Again
     
-*   _Andrew Walworth_: 'Moynihan': A Brilliant Portrait of a Political Rarity
+*   _Kathie Obradovich_: Lessons for Democrats From Watergate
     
-*   _Fred Barnes_: What Trump Knows That Obama Didn't
+*   _Salena Zito_: A 90-Minute Flight, 45 Presidents, and an 8-Year-Old Boy
     
-*   _David Corn_: The Most Important Election of Our Lives
+*   _Klein_: 5 Major Issues Dominating the 2018 Midterms
     
-*   _Ted Van Dyk_: Democrats Haven't Turned Back From 1968
+*   _David Drucker_: Republicans Still in the Fight to Hold the House
     
-*   _Theodore Johnson_: How 2018 Became the 'Year of the Black Progressive'
+*   _Ed Kilgore_: Dems Ending Once-Powerful GOP Midterm Turnout Advantage
     
-*   _Michael Barone_: Can Anti-Trump Hatred Carry the House for the Dems?
+*   _Carl M. Cannon_: Mob Rule and the Resistance
     
-*   _Fareed Zakaria_: Khashoggi's Murder Says as Much About America as Kingdom
+*   _Mark Penn_: No, Civility Isn't Optional
     
-*   _Badran &. Doran_: Why the Saudis Despised Jamal Khashoggi
+*   _Frank Bruni_: Donald Trump's Perverse Advantage
     
-*   _Joanthan Schanzer_: The Experts Were Wrong About the Middle East
+*   _Matt Lewis_: Elizabeth Warren &. Beto O'Rourke, Cultural Appropriators
     
-*   _Jason Greenblatt_: Trump's Mideast Plan a 'Path to Change' for Gaza
+*   _Maureen Dowd_: Step Away From the Orb
     
-*   _Christian Esch_: The Rise of Russia's GRU Military Intelligence Service
+*   _John Bradley_: Why MBS Will Likely Survive the Khashoggi Murder
     
-*   _Sheryl Gay Stolberg_: Meet the GOP's Best Chance for Flipping a House Seat
+*   _W.J. Hennigan_: Trump to Tear Up Nuke Weapons Treaty w/Russia. Now What?
     
-*   _Salena Zito_: The Prairie Populist Who Could Win S. Dakota for the Dems
+*   _Michael Goodwin_: Count on Hillary Running in 2020
     
-*   _James Moore_: Real Lessons From Beto O'Rourke's Magical Run in Texas
+*   _Honor Sachs_: How the Pocahontas Slur Props Up White Supremacy
     
-*   _David Harsanyi_: The Media Is Hopelessly in Love With Beto
+*   _Rebecca Nagle_: Warren's Cherokee Heritage Claim Is a Joke and an Insult
     
 
 *   Previous
@@ -226,11 +224,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Targets Tester for Defeat, Makes Third Visit to Montana
+*   At Arizona Rally, Trump Boosts McSally, Calls Sinema "Too Extreme"
+*   Trump: Saudi Arrests in Khashoggi Death "a Good First Step"
+*   Nikki Haley Cracks Jokes at the Al Smith Dinner
 *   Five Tribes of American Voters
-*   Cabinet Meeting: Trump Orders Agencies to Cut Budgets by 5%
 *   In Tight Governor Races, Ticket-Splitting May Be Key
-*   With FL, IA House Races in Play, Ryan's PAC Ponies Up
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +241,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Arizona Senate - McSally vs. SinemaNY Times/Siena
-    *   McSally48
-    *   Sinema46McSally +2
-*   Florida 15th District - Spano vs. CarlsonNY Times/Siena
-    *   Spano43
-    *   Carlson43Tie
-*   Pennsylvania 8th District - Chrin vs. CartwrightNY Times/Siena
-    *   Cartwright52
-    *   Chrin40Cartwright +12
-*   Maine Senate - Brakey vs. KingPan Atlantic\*
-    *   King57
-    *   Brakey30King +27
+*   Minnesota Senate Special Election - Housley vs. SmithStar Tribune/Mason-Dixon\*
+    *   Smith47
+    *   Housley41Smith +6
+*   Minnesota Senate - Newberger vs. KlobucharStar Tribune/Mason-Dixon\*
+    *   Klobuchar56
+    *   Newberger33Klobuchar +23
+*   Florida 27th District - Salazar vs. ShalalaNY Times/Siena
+    *   Shalala44
+    *   Salazar37Shalala +7
+*   Florida Senate - Scott vs. NelsonCNN
+    *   Scott45
+    *   Nelson50Nelson +5
 
 More Latest Polls In The News
 
+*   Nate Silver: "Trumpian News Cycle" Makes 2018 Prediction Difficult. Expect "An October Surprise Or Two"
+*   Sen. Lindsey Graham on Saudi Arabia: They Need Us More Than We Need Them
+*   Rand Paul: Saudi Claims About Khashoggi Murder Are "Insulting" To The "Civilized World"
+*   GOP Ad Calls Kavanaugh Allegations "Despicable Lies," Warns "Liberal Mob... Will Stop At Nothing"
 *   Acosta: Trump's Rhetoric Plant Seeds Of Violence In His Own Supporters, In His Own Crowds
-*   Frank Luntz and VICE News Focus Group Featuring Debate Between Beto O'Rourke And Cruz Supporters
-*   CNN's Stelter Accuses Eric Bolling Of Using Pro-Trump Talking Points: "You're Not At FOX Anymore"
-*   TX-Sen: Ted Cruz Debates Beto O'Rourke: Dem Calls Cruz "Lyin' Ted," Says He's "All Talk, No Action"
-*   Ben Shapiro Gives 10 Reasons To Vote GOP: Economy, Courts, Culture Wars, Democrat-Media Complex, Mob Role
 
 *   Politics
 *   Policy
