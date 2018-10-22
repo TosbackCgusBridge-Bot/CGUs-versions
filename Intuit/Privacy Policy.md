@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $99See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
