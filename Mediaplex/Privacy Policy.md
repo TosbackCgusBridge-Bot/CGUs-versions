@@ -58,9 +58,9 @@ AcceptDon't ask me again ✕ ✕
     *   Integrations
     *   Join Us
 
-THE PROMISE OF  
-1:1 DIGITAL MARKETING  
-BOLDLY DELIVERED Watch Our Story
+GET TO THE HEART  
+OF WHAT MATTERS  
+TO MILLIONS Watch Our Story
 
 *   160+ MILLION Real People You Can  
     Message Right Now
