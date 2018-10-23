@@ -11,6 +11,7 @@ Toggle navigation
     *   Team
 *   Work
     *   Our Culture
+    *   Why Softonic
     *   Join us!
 *   Blog
 *   Press Room
