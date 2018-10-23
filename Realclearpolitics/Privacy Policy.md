@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -107,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Ken Fisher_: GOP Is the Party of the Poor, Dems Are the Party of the Rich
+*   _Victor Davis Hanson_: The Nightmare of Democrats' Liberal Agenda
     
-*   _Marshall Auerback_: The Democrats' Globalization Dilemma
+*   _Nicholas Kristof_: Republican Party Has Lost Its Way, and It's Time to Start Over
     
-*   _Mark Rozell_: Virginia May Help Dems Regain Control of the House
+*   _Seth Lipsky_: What's Behind the Success of Trumponomics
     
-*   _Robert Stacy McCain_: Signs Point to Hope for GOP on Nov 6
+*   _Gideon Resnick_: Harry Reid's Political Machine Roars Again in Nevada
     
-*   _Albert Hunt_: Walker Tries to Snatch Football From Dems One More Time
+*   _Tiana Lowe_: Sinema's Moderate Facade Wears Thin in Arizona
     
-*   _Linda Stasi_: Khashoggi's Killers Brought a Bone Saw to a Fistfight
+*   _Michelle Goldberg_: Join the Women Trying to Save America From Trump
     
-*   _Sebastian Gorka_: Why Media Tries to Hide Truth About Khashoggi
+*   _Irina Bragin_: 'Believe All Women' Is a Recipe for Disaster
     
-*   _Dana Milbank_: To Win, Republicans Need Selective Memory Loss
+*   _Mollie Hemingway_: NYT: Sessions Doing Great Job vs. Liberal Bureaucracy
     
-*   _Kevin McCullough_: 15 Days Till Trump Crushes Them Again
+*   _Roberta Jacobson_: Extreme Chaos: My Year as a Trump Ambassador
     
-*   _Kathie Obradovich_: Lessons for Democrats From Watergate
+*   _David Bossie_: Americans Owe Don McGahn a Debt of Gratitude
     
-*   _Salena Zito_: A 90-Minute Flight, 45 Presidents, and an 8-Year-Old Boy
+*   _Olga Khazan_: Fewer Sex Partners Means a Happier Marriage
     
-*   _Klein_: 5 Major Issues Dominating the 2018 Midterms
+*   _Michael Grunwald_: How to Win Florida, the Ultimate Swing State
     
-*   _David Drucker_: Republicans Still in the Fight to Hold the House
+*   _Sally Persons_: Latino Voters Still Up for Grabs in Midterms
     
-*   _Ed Kilgore_: Dems Ending Once-Powerful GOP Midterm Turnout Advantage
+*   _John Fund_: Strong Economy, Bad Dem Behavior Are Boosting Republicans
     
-*   _Carl M. Cannon_: Mob Rule and the Resistance
+*   _Charles Blow_: Count Me Among the Mob
     
-*   _Mark Penn_: No, Civility Isn't Optional
+*   _David Gelernter_: The Real Reason Liberals Hate Trump
     
-*   _Frank Bruni_: Donald Trump's Perverse Advantage
+*   _Josh Kraushaar_: In California, Democrats Winning Battle of the Bases
     
-*   _Matt Lewis_: Elizabeth Warren &. Beto O'Rourke, Cultural Appropriators
+*   _Adele Malpass_: Five Reasons Republicans Can Hold the House
     
-*   _Maureen Dowd_: Step Away From the Orb
+*   _Byron York_: The End of the House Investigation of the Investigators?
     
-*   _John Bradley_: Why MBS Will Likely Survive the Khashoggi Murder
+*   _Matt Ford_: The Mueller Report Is More Important Than Ever
     
-*   _W.J. Hennigan_: Trump to Tear Up Nuke Weapons Treaty w/Russia. Now What?
+*   _Jonathan Turley_: Nellie Ohr Claims 'Spousal Privilege' to Stonewall Congress
     
-*   _Michael Goodwin_: Count on Hillary Running in 2020
+*   _Kalev Leetaru_: The Kavanaugh Confirmation Through the Eyes of Television
     
-*   _Honor Sachs_: How the Pocahontas Slur Props Up White Supremacy
+*   _Sarsour_: Women's Wave Is Coming--Republicans Should Fret
     
-*   _Rebecca Nagle_: Warren's Cherokee Heritage Claim Is a Joke and an Insult
+*   _Suzanne Venker_: Why Republicans Will Win Suburban Women Like Me
     
 
 *   Previous
@@ -224,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   At Arizona Rally, Trump Boosts McSally, Calls Sinema "Too Extreme"
-*   Trump: Saudi Arrests in Khashoggi Death "a Good First Step"
-*   Nikki Haley Cracks Jokes at the Al Smith Dinner
+*   Latino Voters Still Up for Grabs in Midterms
+*   Five Reasons Republicans Can Hold the House
+*   House Judiciary Chairman Previews Questioning of Rod Rosenstein
+*   The Kavanaugh Confirmation Through the Eyes of Television
 *   Five Tribes of American Voters
-*   In Tight Governor Races, Ticket-Splitting May Be Key
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -241,26 +243,27 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Minnesota Senate Special Election - Housley vs. SmithStar Tribune/Mason-Dixon\*
-    *   Smith47
-    *   Housley41Smith +6
-*   Minnesota Senate - Newberger vs. KlobucharStar Tribune/Mason-Dixon\*
-    *   Klobuchar56
-    *   Newberger33Klobuchar +23
-*   Florida 27th District - Salazar vs. ShalalaNY Times/Siena
-    *   Shalala44
-    *   Salazar37Shalala +7
-*   Florida Senate - Scott vs. NelsonCNN
-    *   Scott45
-    *   Nelson50Nelson +5
+*   Virginia 2nd District - Taylor vs. LuriaNY Times/Siena
+    *   Taylor45
+    *   Luria42Taylor +3
+*   Virginia 5th District - Riggleman vs. CockburnNY Times/Siena
+    *   Cockburn46
+    *   Riggleman45Cockburn +1
+*   Illinois 12th District - Bost vs. KellyNY Times/Siena
+    *   Bost48
+    *   Kelly39Bost +9
+*   Indiana Senate - Braun vs. Donnelly vs. BrentonSurveyUSA
+    *   Donnelly41
+    *   Braun40
+    *   Brenton8Donnelly +1
 
 More Latest Polls In The News
 
+*   Full Replay: Former President Obama Campaigns For Democrats At Las Vegas Rally
+*   Politicon: FNC's Tucker Carlson Debates The Young Turks' Cenk Uygur
+*   Florida Governor Candidates Andrew Gillum and Ron DeSantis Face Off In Heated Debate
 *   Nate Silver: "Trumpian News Cycle" Makes 2018 Prediction Difficult. Expect "An October Surprise Or Two"
-*   Sen. Lindsey Graham on Saudi Arabia: They Need Us More Than We Need Them
-*   Rand Paul: Saudi Claims About Khashoggi Murder Are "Insulting" To The "Civilized World"
 *   GOP Ad Calls Kavanaugh Allegations "Despicable Lies," Warns "Liberal Mob... Will Stop At Nothing"
-*   Acosta: Trump's Rhetoric Plant Seeds Of Violence In His Own Supporters, In His Own Crowds
 
 *   Politics
 *   Policy
