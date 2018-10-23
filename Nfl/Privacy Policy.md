@@ -1,4 +1,5 @@
-*   CIN4-310KC6-145Final
+*   NYG1-620ATL3-423Final
+*   DEN3-445ARI1-610Final
 *   TEN3-419LAC5-220Final
 *   NE5-238CHI3-331Final
 *   BUF2-55IND2-537Final
@@ -10,8 +11,7 @@
 *   NO5-124BAL4-323Final
 *   DAL3-417WAS4-220Final
 *   LA7-039SF1-610Final
-*   NYG1-5ATL2-4Mon, 8:15 pm ET
-*   DEN3-445ARI1-610Final
+*   CIN4-310KC6-145Final
 
 *   News
 *   Scores
@@ -30,7 +30,8 @@
 *   NFL Network
 *   Photos
 
-*   CIN10KC45Final
+*   NYG20ATL23Final
+*   DEN45ARI10Final
 *   TEN19LAC20Final
 *   NE38CHI31Final
 *   BUF5IND37Final
@@ -42,8 +43,7 @@
 *   NO24BAL23Final
 *   DAL17WAS20Final
 *   LA39SF10Final
-*   NYG1-5ATL2-4Mon, 8:15 pm ET
-*   DEN45ARI10Final
+*   CIN10KC45Final
 
 *   News
 *   Scores
