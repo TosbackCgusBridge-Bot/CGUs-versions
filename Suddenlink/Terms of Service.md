@@ -1,8 +1,6 @@
 Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2R3" height="0" width="0" style="display:none;visibility:hidden"></iframe>.  
 
-Free Online Installation Specials and Contract Buyouts up to $500.i Step 1: Complete your order online  
-Step 2: Send proof of early termination fee from a qualifying competitor (see order confirmation for details)  
-Step 3: Receive a credit up to $500.
+Free installation specials when you order online.
 
 Home Television Internet Phone Security Start Shopping
 
@@ -41,9 +39,7 @@ Home Television Internet Phone Security Start Shopping
 *   Phone
 *   Security
 
-Free Online Installation Specials and Contract Buyouts up to $500.i Step 1: Complete your order online  
-Step 2: Send proof of early termination fee from a qualifying competitor (see order confirmation for details)  
-Step 3: Receive a credit up to $500.
+Free installation specials when you order online.
 
 *   Residential Services Agreement
 
