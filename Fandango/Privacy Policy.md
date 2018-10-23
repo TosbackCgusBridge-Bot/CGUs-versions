@@ -5,45 +5,43 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
-    *   Venom (2018)
+    *   Halloween (2018)
     *   A Star Is Born (2018)
-    *   First Man
+    *   Venom (2018)
     *   Goosebumps 2: Haunted Halloween
+    *   First Man
+    *   The Hate U Give
     *   Smallfoot
     *   Night School (2018)
     *   Bad Times at the El Royale
+    *   The Old Man &. the Gun
     *   The House with a Clock in its Walls
-    *   The Hate U Give
-    *   A Simple Favor
-    *   The Nun (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Halloween (2018)
-    *   The Hate U Give
-    *   The Old Man &. the Gun
-    *   The Advocates
-    *   Can You Ever Forgive Me?
-    *   Change in the Air
-    *   The Guilty (2018)
-    *   Late Life: The Chien-Ming Wang Story
-    *   Mid90s
-    *   On Her Shoulders
-    *   The Price of Everything
+    *   Hunter Killer (2018)
+    *   Indivisible (2018)
+    *   Border (2018)
+    *   Burning (2018)
+    *   Johnny English Strikes Again
+    *   London Fields
+    *   Monrovia, Indiana
+    *   Suspiria (2018)
+    *   Viper Club
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Hunter Killer (2018)
-    *   Indivisible (2018)
-    *   Johnny English Strikes Again
     *   Bohemian Rhapsody
     *   Nobody's Fool
     *   The Nutcracker and the Four Realms
     *   Dr. Seuss' The Grinch (2018)
     *   Overlord (2018)
     *   The Girl in the Spider's Web
+    *   Fantastic Beasts: The Crimes of Grindelwald
+    *   Instant Family (2018)
+    *   Widows (2018)
     *   See All Coming Soon
     
     Explore More
@@ -71,7 +69,7 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Idris Elba Joins 'Cats,' the Warrens Return in 'Annabelle 3' and More Read More
+    *   Next 3 Long-awaited Sequels: 'The Girl in the Spider's Web,' 'Mary Poppins Returns,' 'Zombieland 2' Read More
     *   'The Curse of La Llorona' Trailer Introduces the Terrifying "Weeping Woman". Here's Everything We Know Read More
     *   Idris Elba to Play Another Villain in 'Cats'. Here's Everything We Know Read More
     
@@ -321,9 +319,9 @@ Offers
     
     Pre-order tickets to 'The Grinch' and get a FREE\* t-shirt while supplies last (S&H not included). BUY TICKETS
     
-*   'Halloween' Gift with Purchase
+*   Fandango VIP
     
-    Pre-order your 'Halloween' tickets and get a download of the Halloween Theme song for free! BUY TICKETS
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 *   FandangoNOW Binge Bundles
     
@@ -378,4 +376,8 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango **Help Us Make Fandango Better!** You have been selected to take part in a brief customer satisfaction survey to let us know how we can improve your experience.    
+  
+This survey is designed to measure your overall Fandango experience, please look for it at the conclusion of your visit.  
+Thank you – your feedback is important to us!  
+ Yes, I'll leave feedback
