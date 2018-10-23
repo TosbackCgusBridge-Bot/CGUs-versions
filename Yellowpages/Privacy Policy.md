@@ -16,6 +16,7 @@
     *   AT&T Communications
         *   *   AT&T Communications Profile
             *   Leadership
+            *   5G
             *   Consumer
             *   Business
             *   Technology
