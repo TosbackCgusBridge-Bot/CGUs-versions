@@ -34,7 +34,6 @@ OK Log in to AVG MyAccount Blog MENU Skip to content Close
     *   AVG Internet Security Business Edition
     *   AVG AntiVirus Business Edition
     *   AVG File Server Business Edition
-    *   AVG PC TuneUp Business Edition
     *   AVG Business AntiVirus for Mac
     *   Compare products
 *   Services
