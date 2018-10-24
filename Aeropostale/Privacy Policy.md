@@ -48,8 +48,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Featured ) Featured
-
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
@@ -65,18 +63,7 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Live Love Dream ) Live Love Dream
 
-Close submenu ( Featured ) Featured
-
-*   View All
-*   New Arrivals
-*   Denim Guide
-*   Flex Effects
-*   Tribe Of Tees
-*   Logo Shop
-*   Basic Essentials
-*   Seriously Soft
-*   Online Only
-*   Uniform
+*   Open submenu ( Collections ) Collections
 
 Close submenu ( Tops ) Tops
 
@@ -116,11 +103,22 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Accessories
 *   Clearance
 
+Close submenu ( Collections ) Collections
+
+*   View All
+*   New Arrivals
+*   Denim Guide
+*   Flex Effects
+*   Tribe Of Tees
+*   Logo Shop
+*   Basic Essentials
+*   Seriously Soft
+*   Online Only
+*   Uniform
+
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Featured ) Featured
-
 *   Open submenu ( Tops ) Tops
 
 *   Open submenu ( Bottoms ) Bottoms
@@ -132,19 +130,7 @@ Close submenu ( Guys ) Guys
 *   Clearance
 *   Extended Sizes
 
-Close submenu ( Featured ) Featured
-
-*   View All
-*   New Arrivals
-*   Denim Guide
-*   Flex Effects
-*   Tribe of Tees
-*   Lounge
-*   Active
-*   Logo Shop
-*   Back to Basics
-*   Online Only
-*   Uniform
+*   Open submenu ( Collections ) Collections
 
 Close submenu ( Tops ) Tops
 
@@ -165,6 +151,20 @@ Close submenu ( Bottoms ) Bottoms
 *   Joggers + Sweats
 *   Pants
 *   Shorts
+
+Close submenu ( Collections ) Collections
+
+*   View All
+*   New Arrivals
+*   Denim Guide
+*   Flex Effects
+*   Tribe of Tees
+*   Lounge
+*   Active
+*   Logo Shop
+*   Back to Basics
+*   Online Only
+*   Uniform
 
 Close submenu ( Jeans ) Jeans
 
@@ -288,18 +288,6 @@ Menu Find a Store Aeropostale
 *   Girls
     
     *   View Home
-    *   Featured
-        *   View All
-        *   New Arrivals
-        *   Denim Guide
-        *   Flex Effects
-        *   Tribe Of Tees
-        *   Logo Shop
-        *   Basic Essentials
-        *   Seriously Soft
-        *   Online Only
-        *   Uniform
-    
     *   Tops
         *   View All
         *   Tees
@@ -344,22 +332,21 @@ Menu Find a Store Aeropostale
         *   Undies
         *   Accessories
         *   Clearance
-*   Guys
     
-    *   View Home
-    *   Featured
+    *   Collections
         *   View All
         *   New Arrivals
         *   Denim Guide
         *   Flex Effects
-        *   Tribe of Tees
-        *   Lounge
-        *   Active
+        *   Tribe Of Tees
         *   Logo Shop
-        *   Back to Basics
+        *   Basic Essentials
+        *   Seriously Soft
         *   Online Only
         *   Uniform
+*   Guys
     
+    *   View Home
     *   Tops
         *   View All
         *   Tees
@@ -385,6 +372,19 @@ Menu Find a Store Aeropostale
     *   Cologne
     *   Clearance
     *   Extended Sizes
+    
+    *   Collections
+        *   View All
+        *   New Arrivals
+        *   Denim Guide
+        *   Flex Effects
+        *   Tribe of Tees
+        *   Lounge
+        *   Active
+        *   Logo Shop
+        *   Back to Basics
+        *   Online Only
+        *   Uniform
 *   Jeans
     
     *   View Home
