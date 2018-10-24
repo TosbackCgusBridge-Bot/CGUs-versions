@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Victor Davis Hanson_: The Nightmare of Democrats' Liberal Agenda
+*   _Glenn Reynolds_: Sorry, Dems: Voters Reject Your Political Correctness
     
-*   _Nicholas Kristof_: Republican Party Has Lost Its Way, and It's Time to Start Over
+*   _Robert Reich_: Democrats: Don't Go High or Low. Go Big and Bold
     
-*   _Seth Lipsky_: What's Behind the Success of Trumponomics
+*   _Alfredo Ortiz_: Welcome to the Big Choice Election
     
-*   _Gideon Resnick_: Harry Reid's Political Machine Roars Again in Nevada
+*   _Jay Willis_: Every Dem Should Copy Gillum's Vision for America
     
-*   _Tiana Lowe_: Sinema's Moderate Facade Wears Thin in Arizona
+*   _George Neumayr_: Andrew Gillum Is a Flim-Flam Artist
     
-*   _Michelle Goldberg_: Join the Women Trying to Save America From Trump
+*   _Robert Kuttner_: Will Democrats Win the Turnout War?
     
-*   _Irina Bragin_: 'Believe All Women' Is a Recipe for Disaster
+*   _Erick Erickson_: Fake Voter Suppression vs. Real Voter Fraud
     
-*   _Mollie Hemingway_: NYT: Sessions Doing Great Job vs. Liberal Bureaucracy
+*   _Rachel Lu_: Why Are Democrats Trying to Out-Trump Trump?
     
-*   _Roberta Jacobson_: Extreme Chaos: My Year as a Trump Ambassador
+*   _John Daniel Davidson_: Trump's Texas Rally Was a Preview Of 2020
     
-*   _David Bossie_: Americans Owe Don McGahn a Debt of Gratitude
+*   _Margaret Sullivan_: The Caravan Is Coming. Everyone Calm Down
     
-*   _Olga Khazan_: Fewer Sex Partners Means a Happier Marriage
+*   _Roger L. Simon_: The Caravan Means the Wall Will Be Built
     
-*   _Michael Grunwald_: How to Win Florida, the Ultimate Swing State
+*   _Bjorn Lomborg_: No, Giving Up Burgers Won't Save the Planet
     
-*   _Sally Persons_: Latino Voters Still Up for Grabs in Midterms
+*   _Stephen Collison_: President Trump Waging a Midterm Campaign of Fear
     
-*   _John Fund_: Strong Economy, Bad Dem Behavior Are Boosting Republicans
+*   _Piers Morgan_: Trump Is Winning, Dems Are Headed for Midterm Disaster
     
-*   _Charles Blow_: Count Me Among the Mob
+*   _Matt Flegenheimer_: In Montana, Tester Battles His Opponent - and Trump
     
-*   _David Gelernter_: The Real Reason Liberals Hate Trump
+*   _Byron York_: Trump &. Cruz Complete the Transaction in Texas
     
-*   _Josh Kraushaar_: In California, Democrats Winning Battle of the Bases
+*   _Adam Wren_: How to Win Indiana
     
-*   _Adele Malpass_: Five Reasons Republicans Can Hold the House
+*   _Lisa Boothe_: Migrant Caravan a Political Gift to Trump &. Republicans
     
-*   _Byron York_: The End of the House Investigation of the Investigators?
+*   _Joel Mathis_: Has Nationalism Killed Compassion in America?
     
-*   _Matt Ford_: The Mueller Report Is More Important Than Ever
+*   _Walter Russell Mead_: Trump Pushes Ahead With Ambitious Foreign Policy
     
-*   _Jonathan Turley_: Nellie Ohr Claims 'Spousal Privilege' to Stonewall Congress
+*   _James Baker_: The Trump Administration's Hard Choices on Saudi Arabia
     
-*   _Kalev Leetaru_: The Kavanaugh Confirmation Through the Eyes of Television
+*   _Sen. Charles Schumer_: McConnell Just Made the Case for a Democratic Senate
     
-*   _Sarsour_: Women's Wave Is Coming--Republicans Should Fret
+*   _Stephen Moore_: 'Medicare-for-All'
     
-*   _Suzanne Venker_: Why Republicans Will Win Suburban Women Like Me
+*   _Masha Gessen_: The Trauma of Trump's Attack on Transgender People
     
 
 *   Previous
@@ -228,7 +228,7 @@ RecommendedPolitics
 
 *   Latino Voters Still Up for Grabs in Midterms
 *   Five Reasons Republicans Can Hold the House
-*   House Judiciary Chairman Previews Questioning of Rod Rosenstein
+*   Pelosi: If Election Were Today, Democrats Would Handily Win the House
 *   The Kavanaugh Confirmation Through the Eyes of Television
 *   Five Tribes of American Voters
 *   Presidential Job Approval
@@ -243,27 +243,27 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Virginia 2nd District - Taylor vs. LuriaNY Times/Siena
-    *   Taylor45
-    *   Luria42Taylor +3
-*   Virginia 5th District - Riggleman vs. CockburnNY Times/Siena
-    *   Cockburn46
-    *   Riggleman45Cockburn +1
-*   Illinois 12th District - Bost vs. KellyNY Times/Siena
-    *   Bost48
-    *   Kelly39Bost +9
-*   Indiana Senate - Braun vs. Donnelly vs. BrentonSurveyUSA
-    *   Donnelly41
-    *   Braun40
-    *   Brenton8Donnelly +1
+*   New Mexico 2nd District - Herrell vs. SmallNY Times/Siena
+    *   Herrell45
+    *   Small44Herrell +1
+*   Florida Senate - Scott vs. NelsonFlorida Atlantic University
+    *   Nelson41
+    *   Scott42Scott +1
+*   Indiana Senate - Braun vs. Donnelly vs. BrentonIndy Politics/Mason Strategies (R)
+    *   Donnelly43
+    *   Braun47
+    *   Brenton3Braun +4
+*   Montana Senate - Rosendale vs. TesterMTN-MSU\*
+    *   Tester46
+    *   Rosendale43Tester +3
 
 More Latest Polls In The News
 
-*   Full Replay: Former President Obama Campaigns For Democrats At Las Vegas Rally
-*   Politicon: FNC's Tucker Carlson Debates The Young Turks' Cenk Uygur
+*   Acosta: Americans Are Wondering If President Trump Secretly Considers Himself A White Nationalist
+*   Don Lemon: Trump Rallying His Base on Immigrant Caravan Using His Bully Pulpit, And It's Working
+*   Obama on Trump: "This Is Not How America Works, That Is How Some Tin-Pot Dictatorship Works"
 *   Florida Governor Candidates Andrew Gillum and Ron DeSantis Face Off In Heated Debate
 *   Nate Silver: "Trumpian News Cycle" Makes 2018 Prediction Difficult. Expect "An October Surprise Or Two"
-*   GOP Ad Calls Kavanaugh Allegations "Despicable Lies," Warns "Liberal Mob... Will Stop At Nothing"
 
 *   Politics
 *   Policy
