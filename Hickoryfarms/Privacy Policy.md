@@ -63,6 +63,7 @@
 *   Holiday
     
     View All Categories Shop by Category*   Halloween
+    *   Entertaining
     *   Thanksgiving Gifts
     
     Occasions*   Halloween
@@ -146,6 +147,7 @@
 *   Holiday
     
     View All Categories Shop by Category*   Halloween
+    *   Entertaining
     *   Thanksgiving Gifts
     
     Occasions*   Halloween
