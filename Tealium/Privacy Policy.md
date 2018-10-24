@@ -1,4 +1,5 @@
 *   Products
+    *   Overview
     *   Tealium iQ Tag Management
     *   Tealium EventStream API Hub
     *   Tealium AudienceStream CDP
@@ -32,10 +33,11 @@
     *   Brand Assets
     *   Contact
 *   Blog
-*   Docs
+*   For Developers
 *   Login
 
 *   Products
+    *   Overview
     *   Tealium iQ Tag Management
     *   Tealium EventStream API Hub
     *   Tealium AudienceStream CDP
