@@ -27,6 +27,7 @@ Gift Cards | Offers | Sign In Sign Out
     *   Johnny English Strikes Again
     *   London Fields
     *   Monrovia, Indiana
+    *   Silencio (2018)
     *   Suspiria (2018)
     *   Viper Club
     *   See All Opening This Week
@@ -71,7 +72,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   Next 3 Long-awaited Sequels: 'The Girl in the Spider's Web,' 'Mary Poppins Returns,' 'Zombieland 2' Read More
     *   'The Curse of La Llorona' Trailer Introduces the Terrifying "Weeping Woman". Here's Everything We Know Read More
-    *   Idris Elba to Play Another Villain in 'Cats'. Here's Everything We Know Read More
+    *   John Lennon and Yoko Ono Biopic in the Works From 'Big Little Lies' Director. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -376,8 +377,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango **Help Us Make Fandango Better!** You have been selected to take part in a brief customer satisfaction survey to let us know how we can improve your experience.    
-  
-This survey is designed to measure your overall Fandango experience, please look for it at the conclusion of your visit.  
-Thank you – your feedback is important to us!  
- Yes, I'll leave feedback
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
