@@ -13,18 +13,18 @@ SHOP DEPARTMENTS
 
 *   Same Day Pickup
 *   Store Ads
-*   Halloween
+*   Holiday Gifts
 *   Clearance
 *   Coupons
 
 Near YouFind a StoreBackHot Sellers
 
-*   JCPenney Home™ 6-pc. Bath Towel Set(1201)
-*   Liz Claiborne Womens Block Heel Zip Trino Riding Boots
-*   Stafford Travel Wrinkle Free Stretch Oxford Long Sleeve Plaid Dress Shirt
-*   Arizona Womens Gillian Bootie Flat Heel Zip
-*   The Foundry Big &amp. Tall Supply Co.™ Quick-Dri® Polo(121)
+*   Arizona Original Flex Chino Pants(180)
+*   NORTH POLE TRADING COMPANY PLAID 2 PIECE PAJAMA SET - UNISEX TODDLER
+*   Stafford® Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt(297)
 *   Stafford® Travel Performance Super Shirt(1121)
+*   Arizona Womens Sierra Pull-on Winter Boots
+*   Stafford® 6-pk. Cotton Full-Cut Briefs(783)
 
 Shop and Save at JCPenney
 
