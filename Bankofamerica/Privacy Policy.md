@@ -455,7 +455,7 @@ Security tools
 hide More resources
 
 *   Online and Mobile Banking Security Guarantee
-*   Watch our video "Keeping Your Financial Info Safe"
+*   Learn more about security at Better Money Habits
 
 show Protect your devices
 
