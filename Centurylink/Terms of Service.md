@@ -16,7 +16,11 @@ viewing our corporate
 governance guidelines. Legal List of the relevant  
 terms and conditions  
 under which  
-CenturyLink abides. About Us Check For Deals At My Home About Us: Home Page Company Information Investor Relations Community News Room Careers Governance Legal My Account Support Support Center Contact Us Guidance Center Quick Bill Pay Contact Us Español For Home For Business Small Business: 1-10 Employees Medium - Enterprise Partners Public Sector Wholesale Search Sign In For Home QuickPay For Business Small Business/ 1-10 employees Medium Business/ 11-1,000 employees Enterprise/ 1,000-100,000+ employees
+CenturyLink abides. About Us Check For Deals At My Home About Us: Home Page Company Information Investor Relations Community News Room Careers Governance Legal My Account Support Support Center Contact Us Guidance Center Quick Bill Pay Contact Us Español For Home For Business Small Business: 1-10 Employees Medium - Enterprise Partners Public Sector Wholesale Search Sign In For Home QuickPay For Business Small Business/ 1-10 employees Medium Business/ 11-1,000 employees Enterprise/ 1,000-100,000+ employees **Level 3 is now CenturyLink.**
+
+Get support, access resources, and explore products and services at CenturyLink.com.
+
+Continue
 
 CenturyLink's Acceptable Use Policy
 
