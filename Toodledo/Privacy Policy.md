@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last Updated: October 22, 2018
+Last Updated: October 25, 2018
 
 Welcome to Toodledo, Inc.’s (“Toodledo”) Privacy Policy. We understand the importance of respecting your privacy, and we’re committed to protecting the personal information of our customers and site visitors.
 
@@ -135,7 +135,7 @@ We will only keep your personal data for as long as necessary to fulfil the purp
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data), generally for seven years after a transaction for tax purposes.
+We generally keep certain information about our customers (such as, Contact, Identity, Financial and Transaction Data) related to our customers' purchases for seven years after a transaction for tax purposes.
 
 In some circumstances you can ask us to delete your data. see Your Legal Rights below for further information.
 
