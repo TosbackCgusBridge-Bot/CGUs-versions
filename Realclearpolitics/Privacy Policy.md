@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Glenn Reynolds_: Sorry, Dems: Voters Reject Your Political Correctness
+*   _Thomas Friedman_: To Make America America Again, Elect Democrats
     
-*   _Robert Reich_: Democrats: Don't Go High or Low. Go Big and Bold
+*   _Andy Puzder_: Why the Surging Economy Means Trouble for Democrats
     
-*   _Alfredo Ortiz_: Welcome to the Big Choice Election
+*   _Juan Williams_: Republicans' Frightening, Ghoulish Anti-Immigrant Bigotry
     
-*   _Jay Willis_: Every Dem Should Copy Gillum's Vision for America
+*   _Saritha Prabhu_: I'm an Immigrant--Trump Represents My Views on Border
     
-*   _George Neumayr_: Andrew Gillum Is a Flim-Flam Artist
+*   _Todd Purdum_: Democrats Want to Flip Six Seats in California
     
-*   _Robert Kuttner_: Will Democrats Win the Turnout War?
+*   _Adam Smith_: A Few Thoughts on Gillum's FBI Scandal in Florida
     
-*   _Erick Erickson_: Fake Voter Suppression vs. Real Voter Fraud
+*   _Michelle Malkin_: Obama Reminds Americans of His Miserable Legacy
     
-*   _Rachel Lu_: Why Are Democrats Trying to Out-Trump Trump?
+*   _Nate Silver_: Trump's Job Approval Is Up--Republican House Chances Are Down
     
-*   _John Daniel Davidson_: Trump's Texas Rally Was a Preview Of 2020
+*   _Douglas Schoen_: Democrats' Problem From 2016 Has Not Gone Away
     
-*   _Margaret Sullivan_: The Caravan Is Coming. Everyone Calm Down
+*   _Frida Ghitis_: How Jamal Khashoggi's Murder Shook the World
     
-*   _Roger L. Simon_: The Caravan Means the Wall Will Be Built
+*   _James Carafano_: Trump's INF Treaty Termination Puts China on Notice--at Last
     
-*   _Bjorn Lomborg_: No, Giving Up Burgers Won't Save the Planet
+*   _Keith Koffler_: Will Move to the Left Haunt Democrats in 2018?
     
-*   _Stephen Collison_: President Trump Waging a Midterm Campaign of Fear
+*   _Frank Bruni_: The Republican Strategy? Fear and Lies
     
-*   _Piers Morgan_: Trump Is Winning, Dems Are Headed for Midterm Disaster
+*   _Liz Peek_: Why Middle-Class Voters Will Stick With Trump, Republicans
     
-*   _Matt Flegenheimer_: In Montana, Tester Battles His Opponent - and Trump
+*   _Jason Sattler_: 10 Reasons to Vote for Democrats and Against Trump
     
-*   _Byron York_: Trump &. Cruz Complete the Transaction in Texas
+*   _John Kass_: For Dems, Silence Is Consent on Immigrant Caravan
     
-*   _Adam Wren_: How to Win Indiana
+*   _Shannon O'Neil_: Cuts to Central America Aid Will Lead to More Caravans
     
-*   _Lisa Boothe_: Migrant Caravan a Political Gift to Trump &. Republicans
+*   _Rich Lowry_: Killing Our Nuke Treaty With Russia Is Common Sense
     
-*   _Joel Mathis_: Has Nationalism Killed Compassion in America?
+*   _Simon Tisdall_: Trump Is Creating a Nuke Threat Worse Than the Cold War
     
-*   _Walter Russell Mead_: Trump Pushes Ahead With Ambitious Foreign Policy
+*   _Patrick Maines_: Kavanaugh, the Court &. Liberalism's Death Rattle
     
-*   _James Baker_: The Trump Administration's Hard Choices on Saudi Arabia
+*   _Eric Posner_: The Far-Reaching Threats of a Conservative Court
     
-*   _Sen. Charles Schumer_: McConnell Just Made the Case for a Democratic Senate
+*   _Ben Shapiro_: On Sex, the Trump Administration Sticks to Science and the Law
     
-*   _Stephen Moore_: 'Medicare-for-All'
+*   _Evan Greer_: Trump Can't Erase Transgender People With a Memo
     
-*   _Masha Gessen_: The Trauma of Trump's Attack on Transgender People
+*   _John Lott_: The Problem With the FBI's 'Active Shooter' Data
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   2 Weeks Before Election, Crude Pipe Bombs Sent to Obama, Clintons, CNN
 *   Latino Voters Still Up for Grabs in Midterms
+*   Trump Denounces Attempted Bomb Attacks as "Despicable Acts"
 *   Five Reasons Republicans Can Hold the House
-*   Pelosi: If Election Were Today, Democrats Would Handily Win the House
 *   The Kavanaugh Confirmation Through the Eyes of Television
-*   Five Tribes of American Voters
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,27 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   New Mexico 2nd District - Herrell vs. SmallNY Times/Siena
-    *   Herrell45
-    *   Small44Herrell +1
-*   Florida Senate - Scott vs. NelsonFlorida Atlantic University
-    *   Nelson41
-    *   Scott42Scott +1
-*   Indiana Senate - Braun vs. Donnelly vs. BrentonIndy Politics/Mason Strategies (R)
-    *   Donnelly43
-    *   Braun47
-    *   Brenton3Braun +4
-*   Montana Senate - Rosendale vs. TesterMTN-MSU\*
-    *   Tester46
-    *   Rosendale43Tester +3
+*   Georgia Governor - Kemp vs. AbramsNBC News/Marist
+    *   Kemp49
+    *   Abrams47Kemp +2
+*   California 39th District - Kim vs. CisnerosNY Times/Siena
+    *   Cisneros47
+    *   Kim46Cisneros +1
+*   Florida 26th District - Curbelo vs. Mucarsel-PowellNY Times/Siena
+    *   Mucarsel-Powell45
+    *   Curbelo44Mucarsel-Powell +1
+*   Florida Senate - Scott vs. NelsonGravis
+    *   Nelson49
+    *   Scott45Nelson +4
 
 More Latest Polls In The News
 
-*   Acosta: Americans Are Wondering If President Trump Secretly Considers Himself A White Nationalist
-*   Don Lemon: Trump Rallying His Base on Immigrant Caravan Using His Bully Pulpit, And It's Working
-*   Obama on Trump: "This Is Not How America Works, That Is How Some Tin-Pot Dictatorship Works"
-*   Florida Governor Candidates Andrew Gillum and Ron DeSantis Face Off In Heated Debate
-*   Nate Silver: "Trumpian News Cycle" Makes 2018 Prediction Difficult. Expect "An October Surprise Or Two"
+*   Trump: Media Also Has A Responsibility To Set Civil Tone, Stop False Attacks And The Endless Hostility
+*   CNN Dem Voter Panel: Hillary Clinton More Of A Liability Than Asset, She's "Whining" At This Point
+*   Anderson Cooper: Will Not Be Showing Video Of Caravan on CNN Show, They Are Not An Invading Army
+*   CNN's Acosta: Americans Are Wondering If President Trump Secretly Considers Himself A White Nationalist
+*   Chuck Todd: "No Evidence Of Any Criminals In The Central American Caravan," Trump Ignoring Facts
 
 *   Politics
 *   Policy
