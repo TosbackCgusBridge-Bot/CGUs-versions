@@ -3,36 +3,32 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  13:16 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in xx:xx
-*   Best of new games 1763 games
-*   Most Popular Games 18141 games
+*   New Games Next in 13:16
+*   Best of new games 1784 games
+*   Most Popular Games 18146 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,368 games
-*   Driving &. Racing Games 6,707 games
-*   Strategy &. RPG Games 2,406 games
-*   Management Games 3,654 games
-*   Thinking Games 11,802 games
-*   Action &. Adventure Games 15,766 games
-*   Sports Games 2,124 games
-*   Shooting Games 8,256 games
+*   Games for girls 23,377 games
+*   Driving &. Racing Games 6,706 games
+*   Strategy &. RPG Games 2,404 games
+*   Management Games 3,655 games
+*   Thinking Games 11,811 games
+*   Action &. Adventure Games 15,765 games
+*   Sports Games 2,125 games
+*   Shooting Games 8,259 games
 *   Fighting Games 2,085 games
-*   Skill Games 10,523 games
-*   Arcade &. Classic Games 12,651 games
-*   Fun &. Crazy Games 2,447 games
+*   Skill Games 10,529 games
+*   Arcade &. Classic Games 12,654 games
+*   Fun &. Crazy Games 2,450 games
 
 Play with friends  
-Powered by Y8 Account 133 Y8 Multiplayer Games 1,683 Y8 High Score Games 1,036 Y8 Achievements Games 780 Y8 Screenshots Games 1,340 Y8 Online Save Games 2,696 All Y8 Games Games Last Highscore:
-
-**235** points on Goalkeeper Challenge by Nguyen\_Le\_Minh\_04052008
-
-Help us improve Bad translation? Social Share889K Y8 Games Facebook
+Powered by Y8 Account 134 Y8 Multiplayer Games 1,686 Y8 High Score Games 1,043 Y8 Achievements Games 784 Y8 Screenshots Games 1,341 Y8 Online Save Games 2,703 All Y8 Games Games Help us improve Bad translation? Social Share889K Y8 Games Facebook
 
 *   Contact Form
 *   Submit a Game or Video
