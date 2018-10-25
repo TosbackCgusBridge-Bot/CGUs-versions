@@ -52,7 +52,7 @@ Skip to main content
 *   $34,685 as shown1 2018 Tacoma $25,400 starting1  
     18/22 est MPG3 Build Specials
 *   $45,600 as shown1 2019 Tundra $31,420 starting1  
-    15/19 est MPG3 Build Specials
+    15/19 est MPG20 Build Specials
 
 *   $26,000 as shown1 2019 C-HR $20,945 starting1  
     27/31 est MPG20 Build Specials
@@ -129,7 +129,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 21/28 est MPG20 $37,265 as shown1 2019 Sienna $31,115 starting1  
 19/27 est MPG22 Trucks $34,685 as shown1 2018 Tacoma $25,400 starting1  
 18/22 est MPG3 $45,600 as shown1 2019 Tundra $31,420 starting1  
-15/19 est MPG3 Crossovers &. SUVs $26,000 as shown1 2019 C-HR $20,945 starting1  
+15/19 est MPG20 Crossovers &. SUVs $26,000 as shown1 2019 C-HR $20,945 starting1  
 27/31 est MPG20 Hybrid Available $29,545 as shown1 2018 RAV4 $24,660 starting1  
 23/30 est MPG3 Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
 34/30 est MPG3 Hybrid Available $41,750 as shown1 2018 Highlander $31,230 starting1  
