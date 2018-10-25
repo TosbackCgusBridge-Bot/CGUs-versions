@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
 
-Take your strategy songs on the go! Download the free Daniel Tiger for Parents app today!Take your strategy songs on the go! Download the free Daniel Tiger for Parents app today!Get it now.
+How to raise an emotionally resilient child. How to raise an emotionally resilient child. Read more.
 
 Toggle message bar
 
