@@ -1,9 +1,6 @@
-Previous1/2Next
+1/1
 
-*   Volcanic Activity Impacting Service in Areas of Hawaii...More
-*   Hurricane Michael Impacting Areas of Florida...More
-*   Volcanic Activity Impacting Service in Areas of Hawaii...More
-*   Hurricane Michael Impacting Areas of Florida...More
+*   Hurricane Michael Impacting Areas in Florida...More
 
 Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
@@ -97,14 +94,7 @@ Search Close
     *   Expanding Globally
     *   ResourcesExplore All Articles
 
-Customer ServiceCustomer Service Need help now?
-
-Ask Our Virtual Assistant
-
-*   Help and Support Center
-*   Get Started with UPS
-*   Change Delivery
-*   Delivery Issues
+Customer Service
 
 *   Log In
 *   Sign Up
@@ -140,10 +130,6 @@ Were you trying to... Track a Package or Freight Ship a Package Ship Freight Get
 *   Get Started with UPS
 *   Change Delivery
 *   Delivery Issues
-
-*   Email UsOpen the link in a new window
-*   Call UsOpen the link in a new window
-*   See All Contact OptionsOpen the link in a new window
 
 This Site
 
