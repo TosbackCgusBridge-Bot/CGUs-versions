@@ -980,9 +980,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 30% off full-price styles!
+Receive 30% off 1 full-price item!
 
-code: RAKE pin: 3695 DETAILS
+code: BRISK pin: 6352 DETAILS
 
 Customer Service Menu
 
