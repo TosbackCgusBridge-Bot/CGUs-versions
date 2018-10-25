@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   24\. Oktober 2018
+*   25\. Oktober 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.274,28ǀ
+*   DAX 11.191,63ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -364,7 +364,6 @@ SPIEGEL GRUPPE
 
 *   Twitter
 *   Facebook
-*   Google+
 
 *   Impressum
 *   \-Datenschutz
