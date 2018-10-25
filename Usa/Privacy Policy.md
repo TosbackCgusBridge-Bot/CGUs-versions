@@ -147,7 +147,7 @@ ENTERTAINMENT COLLECTION
 
 Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe
 
-SPECIAL OFFER - Save up to 25% on our most popular software including AutoCAD &. AutoCAD LT. Buy now
+SPECIAL OFFER EXTENDED - Save up to 25% on our most popular software. Ends October 31. Buy now 
 
 Try, buy, or learn more about Autodesk products See all products
 
@@ -169,7 +169,9 @@ Free trial
 
 Subscribe
 
-—/year
+$312.00/year
+
+$390.00
 
 Get Revit LT and AutoCAD LT together at a great value
 
@@ -179,16 +181,16 @@ Free trial
 
 Subscribe
 
-—/year
+$412.00/year
 
-Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 12–15, 2018 Explore the future of making at Autodesk University
+$515.00 Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 12–15, 2018 Explore the future of making at Autodesk University
 
 Join 10,000+ professionals in building, manufacturing, engineering, and media creation for four days of learning and networking at Autodesk’s annual customer conference.
 
 Learn more
 
 Make anything.   Autodesk makes software for  
-people who make things Across the manufacturing, architecture, building, construction, media, and entertainment industries, Autodesk gives you the power to make anything. Learn more about Autodesk   Resources FREE SOFTWARE FOR STUDENTS file viewers Support Autodesk Community FEEDBACK FOLLOW AUTODESK
+people who make things Across the manufacturing, architecture, building, construction, media, and entertainment industries, Autodesk gives you the power to make anything. Learn more about Autodesk   Resources FREE SOFTWARE FOR STUDENTS file viewers Support Autodesk Community Feedback FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
