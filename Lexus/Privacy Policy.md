@@ -11,7 +11,7 @@ Lexus.com
 *   L/Certified
 *   Find a Dealer
 
-MENU **IS**
+Search MENU **IS**
 
 *   Starting at $38,3101\*
 *   2.0L I-4 or 3.5L V6
@@ -121,7 +121,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC**
 
-*   Starting at $40,6401\*
+*   Starting at $41,1452\*
 *   2.0L I-4 OR 3.5L V6
 
 *   Build
@@ -257,6 +257,8 @@ COMPARE **UX**
 
 *   FUTURE YACHT
 
+*   Search
+    
 *   sedans
     
 *   suvs
