@@ -1,4 +1,4 @@
-*   MIA4-3HOU4-3Thu, 8:20 pm ET
+*   MIA4-423HOU5-342Final
 *   PHI3-4JAX3-4Sun, 9:30 am ET
 *   BAL4-3CAR4-2Sun, 1:00 pm ET
 *   NYJ3-4CHI3-3Sun, 1:00 pm ET
@@ -30,7 +30,7 @@
 *   NFL Network
 *   Photos
 
-*   MIA4-3HOU4-3Thu, 8:20 pm ET
+*   MIA23HOU42Final
 *   PHI3-4JAX3-4Sun, 9:30 am ET
 *   BAL4-3CAR4-2Sun, 1:00 pm ET
 *   NYJ3-4CHI3-3Sun, 1:00 pm ET
