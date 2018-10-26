@@ -71,8 +71,8 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Long-awaited Sequels: 'The Girl in the Spider's Web,' 'Mary Poppins Returns,' 'Zombieland 2' Read More
-    *   'The Curse of La Llorona' Trailer Introduces the Terrifying "Weeping Woman". Here's Everything We Know Read More
+    *   The Worlds of 'Ralph Breaks the Internet' Read More
+    *   Richard Linklater to Make a Bill Hicks Biopic. Here's Everything We Know Read More
     *   John Lennon and Yoko Ono Biopic in the Works From 'Big Little Lies' Director. Here's Everything We Know Read More
     
     Explore Content
