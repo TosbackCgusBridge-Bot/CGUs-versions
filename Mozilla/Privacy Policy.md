@@ -1,12 +1,5 @@
 Menu Mozilla
 
-*   Firefox
-*   Pocket
-*   Internet Health
-*   Technology
-*   About Us
-*   Get Involved
-
 Download Firefox — English (US)
 
 *   Windows 64-bit
@@ -43,61 +36,140 @@ Please follow these instructions to install Firefox.
 *   **Download Firefox**
 *   **Download Firefox**
 
-Firefox Privacy Notice Close
+Firefox Privacy Notice
 
-*   Firefox
+*   Firefox Close Firefox menu
     
-    Get the only browser built for people, not profit.
+    *   Firefox Quantum Desktop Browser
+        
+        Get the browser gives more power to you on Windows, Mac OS or Linux.
+        
+        *   Download
+        *   New Features
+        *   Extensions
+        *   Support
+        *   Privacy
+    *   Firefox Mobile Browsers
+        
+        Take Firefox and Firefox Focus with you. For Android and iOS.
+        
+        *   Get Firefox
+        *   Get Firefox Focus
+        *   New Features
+        *   Android Extensions
+        *   iOS Support
+        *   Android Support
     
-    *   Desktop
-    *   Mobile
-    *   Extensions
-    *   Support
-    *   Blog
-*   Pocket
+    *   Pocket by Firefox
+        
+        Save content. Absorb knowledge.
+        
+    *   Your Firefox Account
+        
+        Make the most of your Firefox experience, across every device.
+        
+    *   Firefox for Enterprise
+        
+        Same speed and safety you trust, designed just for business.
+        
+    *   Firefox for Fire TV
+        
+        Watch videos and browse the internet on your Amazon Fire TV.
+        
     
-    When you find something you want to view later, put it in Pocket.
+    <img class="mzp-c-card-image" src="/media/img/nav/cards/add-ons.91437385d52f.png" alt="">. Add-ons
     
-    *   Get Pocket
-*   Internet Health
+    Learn how to customize the way Firefox works.
     
-    Internet Health is crucial for the world to thrive. A healthy Internet is one that is private, inclusive, and collaborative.
+*   Projects Close Projects menu
     
-    *   About
-    *   Privacy &. Security
-    *   Openness
-    *   Decentralization
-    *   Digital Inclusion
-    *   Web Literacy
-*   Technology
+    *   Common Voice
+        
+        Donate your voice to help make voice recognition open to everyone.
+        
+    *   Firefox Reality
+        
+        Experience augmented and virtual reality with Firefox.
+        
     
-    Participate and explore our latest innovations — technology built in the open and designed to help keep the Internet healthy.
+    *   Web of Things (IoT)
+        
+        Make devices connected to the internet safe, secure and interoperable.
+        
+    *   Hubs
+        
+        Meet people in experimental Mixed Reality chatrooms with Firefox.
+        
     
-    *   Web Innovations
-    *   Developer Hub
-    *   Research
-    *   Virtual Reality
-    *   Games
-    *   Documentation
-    *   Hacks blog
-*   About Us
+    <img class="mzp-c-card-image" src="/media/img/nav/cards/firefox-reality.7c9245a63776.png" alt="">. Mozilla WebVR
     
-    We’re Mozilla, the proudly non-profit champions of a healthy Internet – keeping it open and accessible to all.
+    Mozilla brings Firefox to augmented and virtual reality.
     
-    *   Our Mission
-    *   Our History
-    *   Leadership
-    *   Foundation
-    *   Blogs
+*   Developers Close Developers menu
+    
+    *   Firefox Developer Edition
+        
+        Firefox, built just for developers.
+        
+    *   Firefox Beta
+        
+        Test soon-to-be-released features in our most stable pre-release build.
+        
+    *   Firefox Nightly
+        
+        Preview the latest build of Firefox and help us make it the best.
+        
+    
+    *   Developer Innovations
+        
+        Projects that help keep the internet open and accessible for all.
+        
+        *   Web Assembly
+        *   Rust
+        *   Gaming
+        *   Mixed Reality
+    *   Resources
+        
+        Resources for developers, by developers.
+        
+        *   MDN Web Docs
+        *   Firefox Playground
+        *   CSS Grid
+        *   Developer Blog
+        *   Mozilla Open Source Support (MOSS)
+    
+    <img class="mzp-c-card-image" src="/media/img/nav/cards/developer-edition.22ebe03a399c.png" alt="">. Firefox Developer Edition
+    
+    Build, test, scale and more with the only browser built just for developers.
+    
+*   About Close About menu
+    
+    *   Mozilla
+        
+        Meet the technology company that puts people before profit.
+        
+        *   About
+        *   Leadership
+        *   Mozilla Foundation
+        *   Mission
+        *   Press Center
+        *   Contact
     *   Careers
-    *   Contact Us
-*   Get Involved
+        
+        Work for a mission-driven organization that builds purpose-driven products.
+        
     
-    You can help Mozilla keep the Internet healthy – attend an event, volunteer, or make a donation.
+    *   Get involved
+        
+        Join the fight for a healthy internet.
+        
+        *   Events
+        *   Donate
     
-    *   Give
-    *   Volunteer
-    *   Events
+    <img class="mzp-c-card-image" src="/media/img/nav/cards/mozilla-festival.474a03ca8109.jpg" alt="">. The Mozilla Festival
+    
+    An event for advocates of a healthy Internet on Oct. 26-28 in London.
+    
 
 Websites, Communications &. Cookies Privacy Notice
 
