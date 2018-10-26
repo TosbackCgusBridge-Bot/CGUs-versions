@@ -165,39 +165,37 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     Kids' Sale>Girls' Clothing>
     
-    *   Girls' Backpacks
     *   Girls' Coats &. Jackets
-    *   Girls' Swimsuits
-    *   Girls' Tops &. Tees
-    *   Girls' Polos
-    *   Girls' Sweaters
-    *   Girls' Dresses
+    *   Girls' Shoes
+    *   Girls' Pajamas &. Robes
     *   Girls' Pants &. Leggings
     *   Girls' Jeans
-    *   Girls' Shorts
+    *   Girls' Tops &. Tees
+    *   Girls' Sweaters
+    *   Girls' Dresses
     *   Girls' Skirts &. Skorts
+    *   Girls' Shorts
     *   Girls' Activewear
     *   Girls' Long Underwear
-    *   Girls' Pajamas &. Robes
-    *   Girls' Shoes
     *   Girls' Accessories
+    *   Girls' Backpacks
+    *   Girls' Swimsuits
     
     Boys' Clothing>
-    *   Boys' Backpacks
     *   Boys' Coats &. Jackets
-    *   Boys' Swimsuits
-    *   Boys' Tops &. Tees
-    *   Boys' Polos
-    *   Boys' Sweaters
+    *   Boys' Shoes
+    *   Boys' Pajamas &. Robes
     *   Boys' Pants
     *   Boys' Jeans
+    *   Boys' Tops &. Tees
+    *   Boys' Blazers
+    *   Boys' Sweaters
     *   Boys' Shorts
     *   Boys' Activewear
-    *   Boys' Blazers
     *   Boys' Long Underwear
-    *   Boys' Pajamas &. Robes
-    *   Boys' Shoes
     *   Boys' Accessories
+    *   Boys' Backpacks
+    *   Boys' Swimsuits
 *   Outerwear WOMEN'S COATS &. JACKETS >
     
     *   Women's Coats
@@ -322,7 +320,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     Featured Shops
     *   Little Black Suit
-    *   Women's Swim Finder
     *   Kids' Swim Shop
     *   Sale
 *   School FIND YOUR SCHOOL>FEATURED SHOPS
@@ -630,40 +627,38 @@ Lands' End Sign In menu
     *   Girls' Clothing
         *   Back
         *   View All
-        *   Girls' Backpacks
         *   Girls' Coats &. Jackets
-        *   Girls' Swimsuits
-        *   Girls' Tops &. Tees
-        *   Girls' Polos
-        *   Girls' Sweaters
-        *   Girls' Dresses
+        *   Girls' Shoes
+        *   Girls' Pajamas &. Robes
         *   Girls' Pants &. Leggings
         *   Girls' Jeans
-        *   Girls' Shorts
+        *   Girls' Tops &. Tees
+        *   Girls' Sweaters
+        *   Girls' Dresses
         *   Girls' Skirts &. Skorts
+        *   Girls' Shorts
         *   Girls' Activewear
         *   Girls' Long Underwear
-        *   Girls' Pajamas &. Robes
-        *   Girls' Shoes
         *   Girls' Accessories
+        *   Girls' Backpacks
+        *   Girls' Swimsuits
     *   Boys' Clothing
         *   Back
         *   View All
-        *   Boys' Backpacks
         *   Boys' Coats &. Jackets
-        *   Boys' Swimsuits
-        *   Boys' Tops &. Tees
-        *   Boys' Polos
-        *   Boys' Sweaters
+        *   Boys' Shoes
+        *   Boys' Pajamas &. Robes
         *   Boys' Pants
         *   Boys' Jeans
+        *   Boys' Tops &. Tees
+        *   Boys' Blazers
+        *   Boys' Sweaters
         *   Boys' Shorts
         *   Boys' Activewear
-        *   Boys' Blazers
         *   Boys' Long Underwear
-        *   Boys' Pajamas &. Robes
-        *   Boys' Shoes
         *   Boys' Accessories
+        *   Boys' Backpacks
+        *   Boys' Swimsuits
 *   Outerwear
     *   Back
     *   Shop all Outerwear
@@ -796,7 +791,6 @@ Lands' End Sign In menu
     *   Featured Shops
         *   Back
         *   Little Black Suit
-        *   Women's Swim Finder
         *   Kids' Swim Shop
         *   Sale
 *   School
@@ -980,9 +974,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 30% off 1 full-price item!
+Receive 40% off full-price coats and jackets. 25% off all other full-price styles!
 
-code: BRISK pin: 6352 DETAILS
+code: GOLDEN pin: 7456 DETAILS
 
 Customer Service Menu
 
