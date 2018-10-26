@@ -1,8 +1,4 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
-
-How to raise an emotionally resilient child. How to raise an emotionally resilient child. Read more.
-
-Toggle message bar
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS Toggle message bar
 
 *   Apps
 *   Shop
