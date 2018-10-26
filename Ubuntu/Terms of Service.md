@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Advantage successfully passes MSPCV cloud certification process ›
 *   Canonical and Ubuntu – user statistics ›
 *   Welcome Ubuntu Desktop 18.10 ›
 *   Ubuntu events in November ›
 *   Infographic: Snaps in numbers ›
-*   Ubuntu 18.10:Multi-cloud,new desktop theme &. enhanced snap integration ›
