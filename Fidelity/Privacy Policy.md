@@ -253,6 +253,7 @@ The Fidelity Investments privacy policy is provided on behalf of:
 *   Fidelity Stock Plan Services, LLC
 *   Fidelity Investments Life Insurance Company
 *   Empire Fidelity Investments Life Insurance Company
+*   Fidelity Health Insurance Services, LLC
 *   Fidelity Insurance Agency, Inc.
 *   FIAM LLC
 *   National Financial Services LLC
@@ -278,7 +279,7 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds, including those advised by Strategic Advisers LLC.
 
   
-Effective June 2018      
+Effective October 2018      
 ©1998-2018 FMR LLC. All Rights Reserved.  
   
 Questions?
