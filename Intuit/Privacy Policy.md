@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $99See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -17,30 +17,14 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackHot Sellers
+Near YouFind a StoreBack COUPON CODE38FORYOUENDS IN00HOURS 40MINS 45SECS \*Offer ends October 26, 2018 Hot Sellers
 
-*   BUY MORE AND SAVE WITH CODE: 38FORYOU
-    
-    from$22
-    
-    Arizona Long Sleeve Textured T-Shirt Boys 4-20(1)
-*   BUY MORE AND SAVE WITH CODE: 38FORYOU
-    
-    $24after couponThe Foundry Big &amp. Tall Supply Co. Long Sleeve Flannel Shirt-Big and Tall(7)
-*   BEST VALUE!
-    
-    $39
-    
-    Yuu Womens Calissa Zip Bootie
-*   from$1574after couponwas $36 - $38 IZOD® Boys 4-20 Stretch Flat Front Pant - Slim, Reg &amp. Husky(54)
-*   BUY MORE AND SAVE WITH CODE: 38FORYOU
-    
-    $2520after couponArizona Original Flex Chino Pants(180)
-*   BUY 1 GET 1 40% OFF
-    
-    from$36
-    
-    Stafford® 4-pk. Cotton Crewneck T-Shirts–Big &amp. Tall(370)
+*   Stafford® 4-pk. Heavyweight Crewneck T-Shirts(674)
+*   Liz Claiborne Trio Grommet-Top Curtain Panel(752)
+*   Liz Claiborne Womens Block Heel Zip Trino Riding Boots
+*   The Foundry Big &amp. Tall Supply Co. Long Sleeve Flannel Shirt-Big and Tall(7)
+*   Arizona Original Flex Chino Pants(180)
+*   Carter's 3-pc. Pant Set Baby Boys(20)
 
 Shop and Save at JCPenney
 
