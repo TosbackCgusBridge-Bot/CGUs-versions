@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Thomas Friedman_: To Make America America Again, Elect Democrats
+*   _David Von Drehle_: Does McCaskill Have One More Trick Up Her Sleeve in MO?
     
-*   _Andy Puzder_: Why the Surging Economy Means Trouble for Democrats
+*   _Conrad Black_: About Those Claims of a 'Blue Wave'
     
-*   _Juan Williams_: Republicans' Frightening, Ghoulish Anti-Immigrant Bigotry
+*   _Stuart Rothenberg_: Wave or No Wave, Look for Democrats to Flip the House
     
-*   _Saritha Prabhu_: I'm an Immigrant--Trump Represents My Views on Border
+*   _Adele Malpass_: Is Trump Transforming Midterms With Arena-Size Rallies?
     
-*   _Todd Purdum_: Democrats Want to Flip Six Seats in California
+*   _John Nichols_: The 2018 Midterms Have Exposed a Democracy in Crisis
     
-*   _Adam Smith_: A Few Thoughts on Gillum's FBI Scandal in Florida
+*   _Kevin Brock_: Did McCabe Try to Set Up Rosenstein?
     
-*   _Michelle Malkin_: Obama Reminds Americans of His Miserable Legacy
+*   _Rod Dreher_: Democrats' Caravan of Political Cowardice
     
-*   _Nate Silver_: Trump's Job Approval Is Up--Republican House Chances Are Down
+*   _Fernando Garcia_: Trump's Grotesque Distortions of the Migrant Caravan
     
-*   _Douglas Schoen_: Democrats' Problem From 2016 Has Not Gone Away
+*   _Sohrab Ahmari_: Migrant Caravan Is Just Making Our Borders Stronger
     
-*   _Frida Ghitis_: How Jamal Khashoggi's Murder Shook the World
+*   _Charles Blow_: Rhetoric, Mobs and Terror
     
-*   _James Carafano_: Trump's INF Treaty Termination Puts China on Notice--at Last
+*   _Bre Payton_: NYT Calls for 'Civility,' Runs Fiction on Trump Assassination
     
-*   _Keith Koffler_: Will Move to the Left Haunt Democrats in 2018?
+*   _David Winston_: It's Still the Economy, Stupid: Why Republicans Are Rising
     
-*   _Frank Bruni_: The Republican Strategy? Fear and Lies
+*   _Gail Collins_: Things Can Get Worse, and With Trump, They Always Do
     
-*   _Liz Peek_: Why Middle-Class Voters Will Stick With Trump, Republicans
+*   _Rep. Steve Scalise_: Violence and Terror Have No Place in Politics
     
-*   _Jason Sattler_: 10 Reasons to Vote for Democrats and Against Trump
+*   _Dana Milbank_: What Trump's Violent Rhetoric Hath Wrought
     
-*   _John Kass_: For Dems, Silence Is Consent on Immigrant Caravan
+*   _Andrew McCarthy_: Pipe-Bombs Story: Another Reason No One Trusts Media
     
-*   _Shannon O'Neil_: Cuts to Central America Aid Will Lead to More Caravans
+*   _Sarah Yager_: Jon Tester Bets the Farm in Montana
     
-*   _Rich Lowry_: Killing Our Nuke Treaty With Russia Is Common Sense
+*   _Victor Davis Hanson_: Caravan, Kavanaugh Create Bad Midterm Optics for Dems
     
-*   _Simon Tisdall_: Trump Is Creating a Nuke Threat Worse Than the Cold War
+*   _Nicholas Kristof_: It's Not About Immigration. It's About Bigotry.
     
-*   _Patrick Maines_: Kavanaugh, the Court &. Liberalism's Death Rattle
+*   _Spencer Morrison_: Illegal Immigration Hurts Black Americans Most
     
-*   _Eric Posner_: The Far-Reaching Threats of a Conservative Court
+*   _Matt Ford_: Can State Courts Save the Liberal Agenda?
     
-*   _Ben Shapiro_: On Sex, the Trump Administration Sticks to Science and the Law
+*   _Tony Perkins_: Why Evangelicals Will Vote (It's Not What You Think)
     
-*   _Evan Greer_: Trump Can't Erase Transgender People With a Memo
+*   _Bill Scher_: 15 Races That Will Determine How Democrats Approach 2020
     
-*   _John Lott_: The Problem With the FBI's 'Active Shooter' Data
+*   _Jake Kastan_: The Danger of a Democratic House Majority
     
 
 *   Previous
@@ -227,10 +227,10 @@ RecommendedPolitics
 *   Investigations
 
 *   2 Weeks Before Election, Crude Pipe Bombs Sent to Obama, Clintons, CNN
-*   Latino Voters Still Up for Grabs in Midterms
-*   Trump Denounces Attempted Bomb Attacks as "Despicable Acts"
+*   DeSantis, Gillum Exchange Insults in Final Florida Debate
+*   At WI Rally, Trump Decries Violence, Calls on Media to End "Hostility"
 *   Five Reasons Republicans Can Hold the House
-*   The Kavanaugh Confirmation Through the Eyes of Television
+*   Latino Voters Still Up for Grabs in Midterms
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Georgia Governor - Kemp vs. AbramsNBC News/Marist
-    *   Kemp49
-    *   Abrams47Kemp +2
-*   California 39th District - Kim vs. CisnerosNY Times/Siena
-    *   Cisneros47
-    *   Kim46Cisneros +1
-*   Florida 26th District - Curbelo vs. Mucarsel-PowellNY Times/Siena
-    *   Mucarsel-Powell45
-    *   Curbelo44Mucarsel-Powell +1
-*   Florida Senate - Scott vs. NelsonGravis
-    *   Nelson49
-    *   Scott45Nelson +4
+*   California 10th District - Denham vs. HarderNY Times/Siena
+    *   Harder47
+    *   Denham45Harder +2
+*   California 49th District - Harkey vs. LevinNY Times/Siena
+    *   Levin53
+    *   Harkey39Levin +14
+*   Illinois 13th District - Davis vs. LondriganNY Times/Siena
+    *   Davis46
+    *   Londrigan41Davis +5
+*   New Jersey 3rd District - MacArthur vs. KimNY Times/Siena
+    *   MacArthur45
+    *   Kim44MacArthur +1
 
 More Latest Polls In The News
 
+*   Gingrich: "Odds Are Two Out Of Three" Nancy Pelosi Will Be Speaker, Who's Going To Stand Up To Her?
 *   Trump: Media Also Has A Responsibility To Set Civil Tone, Stop False Attacks And The Endless Hostility
 *   CNN Dem Voter Panel: Hillary Clinton More Of A Liability Than Asset, She's "Whining" At This Point
 *   Anderson Cooper: Will Not Be Showing Video Of Caravan on CNN Show, They Are Not An Invading Army
 *   CNN's Acosta: Americans Are Wondering If President Trump Secretly Considers Himself A White Nationalist
-*   Chuck Todd: "No Evidence Of Any Criminals In The Central American Caravan," Trump Ignoring Facts
 
 *   Politics
 *   Policy
