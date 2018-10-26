@@ -196,7 +196,7 @@
 *   Support
 *   Logout
 
-open Privacy Policy
+Privacy Policy
 
 Last updated: September 5, 2018
 
