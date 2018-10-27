@@ -6,7 +6,7 @@ Your privacy is important to us. We describe in this notice how we collect and u
 
 1\. Who are we?
 
-As you know, we are an email service provider. When collecting information about our customers or visitors of our website, we are, under European Union (“EU”) data protection laws, qualified as “data controller”. This means that we are responsible for deciding how we hold and use personal data about you.
+As you know, we are an email service provider. When collecting information about our customers or visitors of our website, we are, under European Union (“EU") data protection laws, qualified as “data controller". This means that we are responsible for deciding how we hold and use personal data about you.
 
 2\. How do we collect information about you?
 
