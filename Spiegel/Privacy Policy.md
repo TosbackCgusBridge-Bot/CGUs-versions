@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   26\. Oktober 2018
+*   27\. Oktober 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.307,12ǀ
+*   DAX 11.200,62ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -345,7 +345,6 @@ SPIEGEL GRUPPE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
-*   DER SPIEGEL
 *   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   Dein SPIEGEL
@@ -355,10 +354,10 @@ SPIEGEL GRUPPE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
-*   DER SPIEGEL
 *   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   Dein SPIEGEL
+*   UNI SPIEGEL
 
 12
 
