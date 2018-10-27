@@ -3,34 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  20:06 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+New Games Next in  18:22
 
-*   New Games Next in 20:06
-*   Best of new games 1811 games
-*   Most Popular Games 18149 games
+*   Brand New Games Next addition in 18:22
+
+*   Best of New Games Best games from last 2 months
+
+Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+
+*   New Games Next in 18:22
+*   Best of new games 1835 games
+*   Most Popular Games 18151 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,394 games
-*   Driving &. Racing Games 6,706 games
-*   Strategy &. RPG Games 2,403 games
-*   Management Games 3,656 games
-*   Thinking Games 11,814 games
-*   Action &. Adventure Games 15,768 games
+*   Games for girls 23,409 games
+*   Driving &. Racing Games 6,707 games
+*   Strategy &. RPG Games 2,406 games
+*   Management Games 3,657 games
+*   Thinking Games 11,816 games
+*   Action &. Adventure Games 15,778 games
 *   Sports Games 2,126 games
-*   Shooting Games 8,265 games
+*   Shooting Games 8,269 games
 *   Fighting Games 2,086 games
-*   Skill Games 10,534 games
-*   Arcade &. Classic Games 12,659 games
-*   Fun &. Crazy Games 2,455 games
+*   Skill Games 10,544 games
+*   Arcade &. Classic Games 12,661 games
+*   Fun &. Crazy Games 2,456 games
 
 Play with friends  
 Powered by Y8 Account 130 Y8 Multiplayer Games 1,684 Y8 High Score Games 1,041 Y8 Achievements Games 784 Y8 Screenshots Games 1,337 Y8 Online Save Games 2,699 All Y8 Games Games Last Highscore:
 
-**500** points on Impossible Bike Stunt 3D by sukuripukuri5
+**69** points on Masked Forces by chuatesutu
 
 Help us improve Bad translation? Social Share889K Y8 Games Facebook
 
