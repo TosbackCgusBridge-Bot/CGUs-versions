@@ -1227,6 +1227,7 @@ Stores
 
 *   © 2018 lands' end
 *   Sitemap
+*   Index
 
 Sustainability
 
