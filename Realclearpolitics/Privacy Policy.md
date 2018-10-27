@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Von Drehle_: Does McCaskill Have One More Trick Up Her Sleeve in MO?
+*   _Roger Kimball_: Bombgate and the New Species of Political Theatre
     
-*   _Conrad Black_: About Those Claims of a 'Blue Wave'
+*   _Michael D'Antonio_: Having Divided Us, Trump Cannot Unite Us
     
-*   _Stuart Rothenberg_: Wave or No Wave, Look for Democrats to Flip the House
+*   _Fred Barnes_: How Hawley Gained the Edge Over McCaskill in Missouri
     
-*   _Adele Malpass_: Is Trump Transforming Midterms With Arena-Size Rallies?
+*   _Sean McElwee_: How Progressives Can Win the Fight for the Supreme Court
     
-*   _John Nichols_: The 2018 Midterms Have Exposed a Democracy in Crisis
+*   _John Nolte_: NBC News Hid Info That Would've Helped Clear Kavanaugh
     
-*   _Kevin Brock_: Did McCabe Try to Set Up Rosenstein?
+*   _Benjamin Wallace-Wells_: Democrats vs. Rule by a Conservative Minority
     
-*   _Rod Dreher_: Democrats' Caravan of Political Cowardice
+*   _John Solomon_: Bloomberg, Exxon &. the Ethical Pollution of Buying Justice
     
-*   _Fernando Garcia_: Trump's Grotesque Distortions of the Migrant Caravan
+*   _Peter Groffman_: How States Can Fight Climate Change Under Trump
     
-*   _Sohrab Ahmari_: Migrant Caravan Is Just Making Our Borders Stronger
+*   _Paul Volcker_: What's Wrong With the 2 Percent Inflation Target
     
-*   _Charles Blow_: Rhetoric, Mobs and Terror
+*   _Lee Smith_: DOJ Ties a Trump FISA Release to Obstruction
     
-*   _Bre Payton_: NYT Calls for 'Civility,' Runs Fiction on Trump Assassination
+*   _Faisal Devji_: Jamal Khashoggi and the Competing Visions of Islam
     
-*   _David Winston_: It's Still the Economy, Stupid: Why Republicans Are Rising
+*   _Eugene Robinson_: Dear Democrats: You Can Do This
     
-*   _Gail Collins_: Things Can Get Worse, and With Trump, They Always Do
+*   _Christian Whiton_: Trump's Strategy May Make History on November 6
     
-*   _Rep. Steve Scalise_: Violence and Terror Have No Place in Politics
+*   _Jill Abramson_: Trump's Rhetoric Has Helped Stoke This Violent Time
     
-*   _Dana Milbank_: What Trump's Violent Rhetoric Hath Wrought
+*   _Andrea Peyser_: Left Wastes No Time in Blaming Trump for Acts of Terror
     
-*   _Andrew McCarthy_: Pipe-Bombs Story: Another Reason No One Trusts Media
+*   _Ruben Navarrette_: Warning to Trump: Caravan Focus Could Backfire
     
-*   _Sarah Yager_: Jon Tester Bets the Farm in Montana
+*   _Matthew Continetti_: Caravan a Threat to American Sovereignty
     
-*   _Victor Davis Hanson_: Caravan, Kavanaugh Create Bad Midterm Optics for Dems
+*   _Alex Isenstadt_: Trump Fears Florida Wipeout
     
-*   _Nicholas Kristof_: It's Not About Immigration. It's About Bigotry.
+*   _Rush Limbaugh_: Blue Wave Was a Lie, But It Could Be Even Worse for Democrats
     
-*   _Spencer Morrison_: Illegal Immigration Hurts Black Americans Most
+*   _E.J. Dionne_: Why Republicans Are Scared of Stacey Abrams in GA
     
-*   _Matt Ford_: Can State Courts Save the Liberal Agenda?
+*   _Michael Warren_: The Voter-Suppression Rap on Brian Kemp Is Unfair
     
-*   _Tony Perkins_: Why Evangelicals Will Vote (It's Not What You Think)
+*   _Mikhail Gorbachev_: A New Nuclear Arms Race Has Begun
     
-*   _Bill Scher_: 15 Races That Will Determine How Democrats Approach 2020
+*   _Zev Chafets_: How Kushner Can Get the Mideast Deal of the Century
     
-*   _Jake Kastan_: The Danger of a Democratic House Majority
+*   _Robin Wright_: Can the Crown Prince Survive the Khashoggi Murder?
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   2 Weeks Before Election, Crude Pipe Bombs Sent to Obama, Clintons, CNN
+*   Is Trump Transforming Midterms With Arena-Size Rallies?
 *   DeSantis, Gillum Exchange Insults in Final Florida Debate
 *   At WI Rally, Trump Decries Violence, Calls on Media to End "Hostility"
-*   Five Reasons Republicans Can Hold the House
+*   Grassley Refers Avenatti, Swetnick to DOJ for Criminal Investigation
 *   Latino Voters Still Up for Grabs in Midterms
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   California 10th District - Denham vs. HarderNY Times/Siena
-    *   Harder47
-    *   Denham45Harder +2
-*   California 49th District - Harkey vs. LevinNY Times/Siena
-    *   Levin53
-    *   Harkey39Levin +14
-*   Illinois 13th District - Davis vs. LondriganNY Times/Siena
-    *   Davis46
-    *   Londrigan41Davis +5
-*   New Jersey 3rd District - MacArthur vs. KimNY Times/Siena
-    *   MacArthur45
-    *   Kim44MacArthur +1
+*   Michigan Senate - James vs. StabenowMitchell Research
+    *   Stabenow52
+    *   James46Stabenow +6
+*   Michigan Governor - Schuette vs. WhitmerMitchell Research
+    *   Whitmer48
+    *   Schuette43Whitmer +5
+*   Illinois 6th District - Roskam vs. CastenNY Times/Siena
+    *   Casten46
+    *   Roskam44Casten +2
+*   Pennsylvania 10th District - Perry vs. ScottNY Times/Siena
+    *   Perry45
+    *   Scott43Perry +2
 
 More Latest Polls In The News
 
+*   Obama: Trump Is A Shameless Liar, "Let Me Run Through This Just To Jog Your Memory"
+*   Douglas Brinkley: "Neo-Fascist" Trump Came Off As A "Small" President In Response To Mailed Devices
 *   Gingrich: "Odds Are Two Out Of Three" Nancy Pelosi Will Be Speaker, Who's Going To Stand Up To Her?
-*   Trump: Media Also Has A Responsibility To Set Civil Tone, Stop False Attacks And The Endless Hostility
-*   CNN Dem Voter Panel: Hillary Clinton More Of A Liability Than Asset, She's "Whining" At This Point
-*   Anderson Cooper: Will Not Be Showing Video Of Caravan on CNN Show, They Are Not An Invading Army
-*   CNN's Acosta: Americans Are Wondering If President Trump Secretly Considers Himself A White Nationalist
+*   Coulter: U.S Will Become "Failed Latin American State" If We "Overwhelm" Country With Migrants
+*   Florida Candidates For Governor Andrew Gillum and Ron DeSantis Face Off In Heated Second Debate
 
 *   Politics
 *   Policy
