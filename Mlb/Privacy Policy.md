@@ -168,7 +168,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Follow @Fantasy4112018 Beat the Streak R.B.I. Baseball 2018 MLB Crypto Baseball
 *   Play Ball Play Ball Play Ball
     *   PlayBall.org
-    *   #MLBThePlay
+    *   Hank Aaron Invitational
     *   Videos
     *   Photos
     *   News
