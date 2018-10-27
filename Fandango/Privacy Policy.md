@@ -73,7 +73,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   The Worlds of 'Ralph Breaks the Internet' Read More
     *   Richard Linklater to Make a Bill Hicks Biopic. Here's Everything We Know Read More
-    *   John Lennon and Yoko Ono Biopic in the Works From 'Big Little Lies' Director. Here's Everything We Know Read More
+    *   The Week in Movie News: John Lennon and Yoko Ono Biopic, First 'Vox Lux' Trailer and Much More Read More
     
     Explore Content
     *   Movie Reviews
