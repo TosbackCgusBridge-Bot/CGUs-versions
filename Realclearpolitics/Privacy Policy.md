@@ -109,6 +109,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _David Remnick_: The Midterm Elections Are a Referendum on Trump
+    
+*   _Ken Masugi_: Duke Lacrosse Rape Hoax: A Preview of Kavanaugh
+    
+*   _Lawrence Martin_: Will the Mailed Pipe Bombs Help the Democrats?
+    
+*   _Alan Dershowitz_: The Trouble With Seeking Partisan Advantage on Bomb Scare
+    
+*   _Michelle Goldberg_: F-Bombs and Real Bombs
+    
+*   _Laura Hollis_: The Making of a Red Wave?
+    
+*   _Peter Bildsten_: I Respected Scott Walker. Then I Worked for Him.
+    
+*   _Liz Peek_: Florida Would Sabotage Its Own Success With Gillum as Governor
+    
+*   _Paul Krugman_: Health Care, Hatred and Lies
+    
+*   _Ryan Ellis_: Trump Is Making Obamacare Optional
+    
+*   _Andrew McCarthy_: In Europe, Free Speech Bows to Sharia
+    
+*   _Linda Greenhouse_: Playing the Long Game for the Supreme Court
+    
+*   _Ronn Blitzer_: Why Did NBC News Bury Evidence Backing Up Kavanaugh?
+    
+*   _Amanda Marcotte_: Now We Know Megyn Kelly's Racism Was Always Sincere
+    
+*   _John Davidson_: Remember When Fallon, Kimmel Performed in Blackface?
+    
+*   _Alan Draper_: The Politics of Bad Parenting
+    
+*   _David Von Drehle_: Glittering China Glamour Disguises Fist of Tyranny
+    
 *   _Roger Kimball_: Bombgate and the New Species of Political Theatre
     
 *   _Michael D'Antonio_: Having Divided Us, Trump Cannot Unite Us
@@ -122,40 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Benjamin Wallace-Wells_: Democrats vs. Rule by a Conservative Minority
     
 *   _John Solomon_: Bloomberg, Exxon &. the Ethical Pollution of Buying Justice
-    
-*   _Peter Groffman_: How States Can Fight Climate Change Under Trump
-    
-*   _Paul Volcker_: What's Wrong With the 2 Percent Inflation Target
-    
-*   _Lee Smith_: DOJ Ties a Trump FISA Release to Obstruction
-    
-*   _Faisal Devji_: Jamal Khashoggi and the Competing Visions of Islam
-    
-*   _Eugene Robinson_: Dear Democrats: You Can Do This
-    
-*   _Christian Whiton_: Trump's Strategy May Make History on November 6
-    
-*   _Jill Abramson_: Trump's Rhetoric Has Helped Stoke This Violent Time
-    
-*   _Andrea Peyser_: Left Wastes No Time in Blaming Trump for Acts of Terror
-    
-*   _Ruben Navarrette_: Warning to Trump: Caravan Focus Could Backfire
-    
-*   _Matthew Continetti_: Caravan a Threat to American Sovereignty
-    
-*   _Alex Isenstadt_: Trump Fears Florida Wipeout
-    
-*   _Rush Limbaugh_: Blue Wave Was a Lie, But It Could Be Even Worse for Democrats
-    
-*   _E.J. Dionne_: Why Republicans Are Scared of Stacey Abrams in GA
-    
-*   _Michael Warren_: The Voter-Suppression Rap on Brian Kemp Is Unfair
-    
-*   _Mikhail Gorbachev_: A New Nuclear Arms Race Has Begun
-    
-*   _Zev Chafets_: How Kushner Can Get the Mideast Deal of the Century
-    
-*   _Robin Wright_: Can the Crown Prince Survive the Khashoggi Murder?
     
 
 *   Previous
@@ -243,18 +243,18 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Iowa 3rd District - Young vs. AxneNY Times/Siena
+    *   Axne43
+    *   Young41Axne +2
+*   New York 11th District - Donovan vs. RoseNY Times/Siena
+    *   Donovan44
+    *   Rose40Donovan +4
 *   Michigan Senate - James vs. StabenowMitchell Research
     *   Stabenow52
     *   James46Stabenow +6
-*   Michigan Governor - Schuette vs. WhitmerMitchell Research
-    *   Whitmer48
-    *   Schuette43Whitmer +5
-*   Illinois 6th District - Roskam vs. CastenNY Times/Siena
-    *   Casten46
-    *   Roskam44Casten +2
-*   Pennsylvania 10th District - Perry vs. ScottNY Times/Siena
-    *   Perry45
-    *   Scott43Perry +2
+*   Missouri Senate - Hawley vs. McCaskillMissouri Scout\*
+    *   Hawley49
+    *   McCaskill45Hawley +4
 
 More Latest Polls In The News
 
