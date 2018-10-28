@@ -159,9 +159,7 @@ Free trial
 
 Subscribe
 
-$1,260.00/year
-
-$1,575.00
+—/year
 
 Cost-effective 2D CAD
 
@@ -171,9 +169,7 @@ Free trial
 
 Subscribe
 
-$312.00/year
-
-$390.00
+—/year
 
 Get Revit LT and AutoCAD LT together at a great value
 
@@ -183,16 +179,16 @@ Free trial
 
 Subscribe
 
-$412.00/year
+—/year
 
-$515.00 Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 12–15, 2018 Explore the future of making at Autodesk University
+Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 12–15, 2018 Explore the future of making at Autodesk University
 
 Join 10,000+ professionals in building, manufacturing, engineering, and media creation for four days of learning and networking at Autodesk’s annual customer conference.
 
 Learn more
 
 Make anything.   Autodesk makes software for  
-people who make things Across the manufacturing, architecture, building, construction, media, and entertainment industries, Autodesk gives you the power to make anything. Learn more about Autodesk   Resources FREE SOFTWARE FOR STUDENTS file viewers Support Autodesk Community Feedback FOLLOW AUTODESK
+people who make things Across the manufacturing, architecture, building, construction, media, and entertainment industries, Autodesk gives you the power to make anything. Learn more about Autodesk   Resources FREE SOFTWARE FOR STUDENTS file viewers Support Autodesk Community FEEDBACK FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
