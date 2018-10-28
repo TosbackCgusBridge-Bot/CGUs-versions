@@ -242,7 +242,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **EXTRA 20% OFF** ORDERS $50/MORE USE CODE **SCARY20** **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
+**EXTRA 20% OFF** ORDERS $50/MORE USE CODE **SCARY20** **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
 
 *   My Account My Account Login Register
 
