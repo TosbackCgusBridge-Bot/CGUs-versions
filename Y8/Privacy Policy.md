@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx
+New Games Next in  16:14
 
-*   Brand New Games Next addition in xx:xx
+*   Brand New Games Next addition in 16:14
 
 *   Best of New Games Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in xx:xx
-*   Best of new games 1859 games
-*   Most Popular Games 18156 games
+*   New Games Next in 16:14
+*   Best of new games 1886 games
+*   Most Popular Games 18160 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,427 games
-*   Driving &. Racing Games 6,708 games
+*   Games for girls 23,439 games
+*   Driving &. Racing Games 6,710 games
 *   Strategy &. RPG Games 2,410 games
 *   Management Games 3,658 games
-*   Thinking Games 11,822 games
-*   Action &. Adventure Games 15,782 games
-*   Sports Games 2,126 games
-*   Shooting Games 8,272 games
+*   Thinking Games 11,825 games
+*   Action &. Adventure Games 15,785 games
+*   Sports Games 2,127 games
+*   Shooting Games 8,280 games
 *   Fighting Games 2,086 games
-*   Skill Games 10,550 games
-*   Arcade &. Classic Games 12,664 games
-*   Fun &. Crazy Games 2,458 games
+*   Skill Games 10,563 games
+*   Arcade &. Classic Games 12,669 games
+*   Fun &. Crazy Games 2,459 games
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 1,685 Y8 High Score Games 1,042 Y8 Achievements Games 784 Y8 Screenshots Games 1,337 Y8 Online Save Games 2,700 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 1,685 Y8 High Score Games 1,042 Y8 Achievements Games 783 Y8 Screenshots Games 1,337 Y8 Online Save Games 2,699 All Y8 Games Games Last Highscore:
 
-**160** points on Y8 Football League by Darkran
+**1** points on Mutant Fighting Arena by kii
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
