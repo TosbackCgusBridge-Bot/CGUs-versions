@@ -6,6 +6,7 @@ Join Rewards Search anything Search
 
 Show Menu Hide Menu
 
+*   Thanks for being one of our most valued customers!
 *   Shop Travel
     *   Home
     *   Hotels
@@ -28,6 +29,7 @@ Show Menu Hide Menu
     *   Sign In
     *   New? Create an Account
 *   Hello, 's Account
+    *   Thanks for being one of our most valued customers!
     *   My Account
     *   Sign Out
     *   Not ?
@@ -46,7 +48,7 @@ Show Menu Hide Menu
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/9ae07bf837276fa2f504d0f2c02ed0ff061e05f0 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/1223e3ce3544190e40140160155d57a1b17377e8 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
@@ -64,7 +66,7 @@ Show Menu Hide Menu
 *   More
     *   Mobile
 
-Beginning of main content Create your free account Create your free account Sign Up with Facebook Sign Up with Google Sign Up with Naver Looking for Sign In with Google? **OR** We apologize for our system failure. Please try again Account already exists Authentication failure. Please try again Action required!  
+Beginning of main content Create an account Create your free account Create your free account Sign Up with Facebook Sign Up with Google Sign Up with Naver Looking for Sign In with Google? **OR** We apologize for our system failure. Please try again Account already exists Authentication failure. Please try again Action required!  
 To finish creating your account, please click the link we just sent to First name
 
 Last name
@@ -75,7 +77,7 @@ This email has already been used to sign up with CONNECTED\_THIRD\_PARTY\_NAMES.
 
 Earn free travel rewards with Orbitz Rewards. opens in a new window By joining Orbitz Rewards, I accept all Terms and Conditions. opens in a new window Send me emails with travel deals, special offers, and other information. Sign Up By creating an account, I agree to the Terms of Use opens in a new window and the Privacy Policy opens in a new window.
 
-Already have an account? Sign In Sign in to your account Sign in to your account Sign In with Facebook Sign In with Google Sign In with Naver Looking for Sign In with Google? **OR** We apologize for our system failure. Please try again You may have entered an unknown email address or an incorrect password Authentication failure. Please try again Email address
+Already have an account? Sign In Sign In Sign in to your account Sign in to your account Sign In with Facebook Sign In with Google Sign In with Naver Looking for Sign In with Google? **OR** We apologize for our system failure. Please try again You may have entered an unknown email address or an incorrect password Authentication failure. Please try again The security of your account is important to us. We have reset your password to keep your account secure. Please use the “forgot password” link to set a new password. Email address
 
 Password
 
