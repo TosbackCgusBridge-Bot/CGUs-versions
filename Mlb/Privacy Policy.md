@@ -138,10 +138,6 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Jerseys
     *   PhotosAuctions
 *   MLB.TV MLB.TV MLB.TV
-    *   Buy MLB.TV Postseason US
-    *   Buy MLB.TV Postseason International
-    *   MLB.TV Postseason Schedule
-    *   2018 MLB.TV Postseason FAQ
     *   Watch MLB.TV
     *   Buy MLB.TV Gift Cards
     *   Select 2017 Archives
