@@ -60,9 +60,9 @@ United States - EnglishChoose your Country/Region
 *   **日本** - 日本語
 *   **香港** - 繁體中文
 
-Contact Us 24/7Call us
++1 (480) 505-8877Call us
 
-*   Call our award-winning sales &. support team 24/7(480) 505-8877
+*   Call our award-winning support team 24/7+1 (480) 505-8877
 
 Global DirectoryPhone numbers and hoursHelp Center
 
