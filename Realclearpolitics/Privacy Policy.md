@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Remnick_: The Midterm Elections Are a Referendum on Trump
+*   _Niall Stanage_: Trump's Base Will Be Tested in Midterms
     
-*   _Ken Masugi_: Duke Lacrosse Rape Hoax: A Preview of Kavanaugh
+*   _Salena Zito_: Not Left vs. Right, But Insider vs. Outsider
     
-*   _Lawrence Martin_: Will the Mailed Pipe Bombs Help the Democrats?
+*   _Karen Tumulty_: The Slaughter in Pittsburgh Was Inevitable
     
-*   _Alan Dershowitz_: The Trouble With Seeking Partisan Advantage on Bomb Scare
+*   _David Harsanyi_: Left's Depraved Response to the Mass Shooting of Jews
     
-*   _Michelle Goldberg_: F-Bombs and Real Bombs
+*   _Dahlia Lithwick_: Look at What Trump's Followers Do
     
-*   _Laura Hollis_: The Making of a Red Wave?
+*   _Joe Battenfeld_: Blaming Trump, GOP Could Backfire for Dems
     
-*   _Peter Bildsten_: I Respected Scott Walker. Then I Worked for Him.
+*   _Gail Collins_: Disaster Candidates Beyond Trump
     
-*   _Liz Peek_: Florida Would Sabotage Its Own Success With Gillum as Governor
+*   _Scott Johnson_: Keith Ellison: Minnesota's Apostle of Hate
     
-*   _Paul Krugman_: Health Care, Hatred and Lies
+*   _Emma Platoff_: America's Weaponized Attorneys General
     
-*   _Ryan Ellis_: Trump Is Making Obamacare Optional
+*   _John Sexton_: NBC's Excuse for Holding Kavanaugh Story Doesn't Hold Up
     
-*   _Andrew McCarthy_: In Europe, Free Speech Bows to Sharia
+*   _Stereo Williams_: Megyn Kelly &. the Overwhelming Whiteness of TV News
     
-*   _Linda Greenhouse_: Playing the Long Game for the Supreme Court
+*   _Patrick Coyle_: Georgetown Prep After the Smear
     
-*   _Ronn Blitzer_: Why Did NBC News Bury Evidence Backing Up Kavanaugh?
+*   _Bari Weiss_: A Massacre in the Heart of Mr. Rogers' Neighborhood
     
-*   _Amanda Marcotte_: Now We Know Megyn Kelly's Racism Was Always Sincere
+*   _Jason Sattler_: The Tide of Hate &. the Man in the White House
     
-*   _John Davidson_: Remember When Fallon, Kimmel Performed in Blackface?
+*   _Heather Mac Donald_: Liberal Identity Politics Becomes Ever More Irrational
     
-*   _Alan Draper_: The Politics of Bad Parenting
+*   _Dan Balz_: Ten Days From Election, Trump Stands at Center of Storm
     
-*   _David Von Drehle_: Glittering China Glamour Disguises Fist of Tyranny
+*   _Michael Goodwin_: Neither of This Week's Attacks Will Affect the Midterms
     
-*   _Roger Kimball_: Bombgate and the New Species of Political Theatre
+*   _Sahil Kapur_: Democrats Get Best Shot in 30 Years to Turn Arizona Blue
     
-*   _Michael D'Antonio_: Having Divided Us, Trump Cannot Unite Us
+*   _Matt Vespa_: Sinema's Bid in Arizona Has Become a Total Train Wreck
     
-*   _Fred Barnes_: How Hawley Gained the Edge Over McCaskill in Missouri
+*   _Maureen Dowd_: Riling Up the Crazies
     
-*   _Sean McElwee_: How Progressives Can Win the Fight for the Supreme Court
+*   _Michael Brendan Dougherty_: The Caravan Exposes the Democrats
     
-*   _John Nolte_: NBC News Hid Info That Would've Helped Clear Kavanaugh
+*   _Virginia Heffernan_: Trump &. His Voters Are Racked With Status Anxiety
     
-*   _Benjamin Wallace-Wells_: Democrats vs. Rule by a Conservative Minority
+*   _Rick Moran_: NBC Hid Exculpatory Information on Brett Kavanaugh
     
-*   _John Solomon_: Bloomberg, Exxon &. the Ethical Pollution of Buying Justice
+*   _Andrew Sullivan_: Dems Can't Keep Dodging Immigration as a Real Issue
     
 
 *   Previous
@@ -243,26 +243,27 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Iowa 3rd District - Young vs. AxneNY Times/Siena
-    *   Axne43
-    *   Young41Axne +2
-*   New York 11th District - Donovan vs. RoseNY Times/Siena
-    *   Donovan44
-    *   Rose40Donovan +4
-*   Michigan Senate - James vs. StabenowMitchell Research
-    *   Stabenow52
-    *   James46Stabenow +6
-*   Missouri Senate - Hawley vs. McCaskillMissouri Scout\*
-    *   Hawley49
-    *   McCaskill45Hawley +4
+*   California 25th District - Knight vs. HillNY Times/Siena
+    *   Knight48
+    *   Hill44Knight +4
+*   Indiana Senate - Braun vs. Donnelly vs. BrentonCBS News/YouGov
+    *   Braun46
+    *   Donnelly43
+    *   Brenton3Braun +3
+*   Arizona Senate - McSally vs. SinemaCBS News/YouGov
+    *   McSally44
+    *   Sinema47Sinema +3
+*   Florida Senate - Scott vs. NelsonCBS News/YouGov
+    *   Nelson46
+    *   Scott46Tie
 
 More Latest Polls In The News
 
+*   DCCC Chairman Rep. Ben Ray Lujan: No One Should Politicize Violent Acts Of This Week
+*   FT's Gideon Rachman: Why Donald Trump May Embody The Spirit Of Our Age
 *   Obama: Trump Is A Shameless Liar, "Let Me Run Through This Just To Jog Your Memory"
-*   Douglas Brinkley: "Neo-Fascist" Trump Came Off As A "Small" President In Response To Mailed Devices
 *   Gingrich: "Odds Are Two Out Of Three" Nancy Pelosi Will Be Speaker, Who's Going To Stand Up To Her?
 *   Coulter: U.S Will Become "Failed Latin American State" If We "Overwhelm" Country With Migrants
-*   Florida Candidates For Governor Andrew Gillum and Ron DeSantis Face Off In Heated Second Debate
 
 *   Politics
 *   Policy
