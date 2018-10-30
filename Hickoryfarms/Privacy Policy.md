@@ -62,9 +62,9 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Halloween
+    View All Categories Shop by Category*   Thanksgiving Gifts
     *   Entertaining
-    *   Thanksgiving Gifts
+    *   Christmas Gifts
     
     Occasions*   Halloween
     *   Birthday Gifts
@@ -146,9 +146,9 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Halloween
+    View All Categories Shop by Category*   Thanksgiving Gifts
     *   Entertaining
-    *   Thanksgiving Gifts
+    *   Christmas Gifts
     
     Occasions*   Halloween
     *   Birthday Gifts
