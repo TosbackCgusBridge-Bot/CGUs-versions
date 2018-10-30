@@ -1,4 +1,5 @@
-*   NO6-130MIN4-3-120Final
+*   NE6-225BUF2-66Final
+*   MIA4-423HOU5-342Final
 *   PHI4-424JAX3-518Final
 *   BAL4-421CAR5-236Final
 *   NYJ3-510CHI4-324Final
@@ -10,15 +11,14 @@
 *   IND3-542OAK1-628Final
 *   SF1-715ARI2-618Final
 *   GB3-3-127LA8-029Final
-*   NE5-2BUF2-5Mon, 8:15 pm ET
-*   MIA4-423HOU5-342Final
+*   NO6-130MIN4-3-120Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Highlights
-*   LONDON GAMES
+*   Playoff Picture
 *   Fantasy
 *   Tickets
 *   Shop
@@ -30,7 +30,8 @@
 *   NFL Network
 *   Photos
 
-*   NO30MIN20Final
+*   NE25BUF6Final
+*   MIA23HOU42Final
 *   PHI24JAX18Final
 *   BAL21CAR36Final
 *   NYJ10CHI24Final
@@ -42,15 +43,14 @@
 *   IND42OAK28Final
 *   SF15ARI18Final
 *   GB27LA29Final
-*   NE5-2BUF2-5Mon, 8:15 pm ET
-*   MIA23HOU42Final
+*   NO30MIN20Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Highlights
-*   LONDON GAMES
+*   Playoff Picture
 
 *   Highlights
 
