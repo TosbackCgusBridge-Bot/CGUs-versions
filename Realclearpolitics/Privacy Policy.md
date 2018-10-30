@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Niall Stanage_: Trump's Base Will Be Tested in Midterms
+*   _Steve Bousquet_: Gillum's Dilemma: Florida Is Actually Five States
     
-*   _Salena Zito_: Not Left vs. Right, But Insider vs. Outsider
+*   _Sen. Mitch McConnell_: U.S. Is Thriving Under Republican Leadership
     
-*   _Karen Tumulty_: The Slaughter in Pittsburgh Was Inevitable
+*   _Kevin Robillard_: Here's Where Dems' Fight for the House Will Be Decided
     
-*   _David Harsanyi_: Left's Depraved Response to the Mass Shooting of Jews
+*   _David Shribman_: Anti-Semitism Comes to a City of Tolerance
     
-*   _Dahlia Lithwick_: Look at What Trump's Followers Do
+*   _John Podhoretz_: What I Learned as a U.S. Jew After the Pittsburgh Attack
     
-*   _Joe Battenfeld_: Blaming Trump, GOP Could Backfire for Dems
+*   _Cass Sunstein_: How Trump's Hateful Speech Raises the Risks of Violence
     
-*   _Gail Collins_: Disaster Candidates Beyond Trump
+*   _Dov Fischer_: Here We Go Again: 'It's All Trump's Fault'
     
-*   _Scott Johnson_: Keith Ellison: Minnesota's Apostle of Hate
+*   _Emily Shugerman_: Female Candidates Key to Turning State Houses Blue
     
-*   _Emma Platoff_: America's Weaponized Attorneys General
+*   _Adriana Cohen_: It's Time for Women to Flee the Democratic Party
     
-*   _John Sexton_: NBC's Excuse for Holding Kavanaugh Story Doesn't Hold Up
+*   _David Andelman_: China May Try to Wait It Out Rather Than Deal With Trump
     
-*   _Stereo Williams_: Megyn Kelly &. the Overwhelming Whiteness of TV News
+*   _Conrad Black_: Trump's Foreign Policy Is Coming Into Focus
     
-*   _Patrick Coyle_: Georgetown Prep After the Smear
+*   _Stephen Moore_: Liberals Are Angry Because They Were Sure Trump Would Fail
     
-*   _Bari Weiss_: A Massacre in the Heart of Mr. Rogers' Neighborhood
+*   _Jonathan Chait_: Win or Lose, Republicans Will Get More Extreme
     
-*   _Jason Sattler_: The Tide of Hate &. the Man in the White House
+*   _Frank Miele_: Be Glad Trump, Not Clinton, Is Protecting the Border
     
-*   _Heather Mac Donald_: Liberal Identity Politics Becomes Ever More Irrational
+*   _Ruth Marcus_: Trump Has Stoked the Fears of Bowerses Among Us
     
-*   _Dan Balz_: Ten Days From Election, Trump Stands at Center of Storm
+*   _Daniel McCarthy_: Bowers Disliked Trump for His Support of Israel, Jews
     
-*   _Michael Goodwin_: Neither of This Week's Attacks Will Affect the Midterms
+*   _Jonathan Greenblatt_: The Latest, Worst Instance of Rising Anti-Semitism
     
-*   _Sahil Kapur_: Democrats Get Best Shot in 30 Years to Turn Arizona Blue
+*   _Michael Ledeen_: Jews Must Defend Themselves and Fight Their Enemies
     
-*   _Matt Vespa_: Sinema's Bid in Arizona Has Become a Total Train Wreck
+*   _Graeme Wood_: In Europe, Speech Is an Alienable Right
     
-*   _Maureen Dowd_: Riling Up the Crazies
+*   _Bill Scher_: What You Will Get If You Vote for Democrats
     
-*   _Michael Brendan Dougherty_: The Caravan Exposes the Democrats
+*   _Victor Davis Hanson_: Caravan Contradictions
     
-*   _Virginia Heffernan_: Trump &. His Voters Are Racked With Status Anxiety
+*   _Raul Reyes_: Don't Be Fooled by Trump's Caravan Misinformation Campaign
     
-*   _Rick Moran_: NBC Hid Exculpatory Information on Brett Kavanaugh
+*   _Paul Sperry_: 'Nothing to Gain,' Blasey Ford Raises Nearly $1 Million
     
-*   _Andrew Sullivan_: Dems Can't Keep Dodging Immigration as a Real Issue
+*   _Damon Linker_: Clinton Was Right About Trump's 'Basket of Deplorables'
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   With Redistricting in Mind, Dems' Midterm Focus Is on States
 *   Is Trump Transforming Midterms With Arena-Size Rallies?
+*   Obama Slams Trump in WI: "Nobody in My Administration Got Indicted"
 *   DeSantis, Gillum Exchange Insults in Final Florida Debate
-*   At WI Rally, Trump Decries Violence, Calls on Media to End "Hostility"
 *   Grassley Refers Avenatti, Swetnick to DOJ for Criminal Investigation
-*   Latino Voters Still Up for Grabs in Midterms
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,27 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   California 25th District - Knight vs. HillNY Times/Siena
-    *   Knight48
-    *   Hill44Knight +4
-*   Indiana Senate - Braun vs. Donnelly vs. BrentonCBS News/YouGov
-    *   Braun46
-    *   Donnelly43
-    *   Brenton3Braun +3
-*   Arizona Senate - McSally vs. SinemaCBS News/YouGov
-    *   McSally44
-    *   Sinema47Sinema +3
-*   Florida Senate - Scott vs. NelsonCBS News/YouGov
-    *   Nelson46
-    *   Scott46Tie
+*   Pennsylvania 1st District - Fitzpatrick vs. WallaceNY Times/Siena
+    *   Fitzpatrick47
+    *   Wallace46Fitzpatrick +1
+*   Pennsylvania 10th District - Perry vs. ScottSusquehanna
+    *   Perry49
+    *   Scott46Perry +3
+*   Utah 4th District - Love vs. McAdamsKUTV/Dixie Strategies
+    *   McAdams50
+    *   Love43McAdams +7
+*   New Jersey Senate - Hugin vs. MenendezEmerson
+    *   Menendez47
+    *   Hugin42Menendez +5
 
 More Latest Polls In The News
 
-*   DCCC Chairman Rep. Ben Ray Lujan: No One Should Politicize Violent Acts Of This Week
-*   FT's Gideon Rachman: Why Donald Trump May Embody The Spirit Of Our Age
+*   Trump: Nationalism Means I Love The Country. I'm Not A Globalist, I Want To Take Care Of United States First
+*   CNN Acosta vs. Huckabee Sanders: Have The Guts To Name Which Journalists Are The Enemy Of The People
+*   Huckabee Sanders to NBC Reporter: You Have Huge Role In Dividing Country, 90% Of News Is Anti-Trump
+*   Scarborough Links Caravan "Frenzy" To Synagogue Shooting: Trump "Spreading Hatred Across America"
 *   Obama: Trump Is A Shameless Liar, "Let Me Run Through This Just To Jog Your Memory"
-*   Gingrich: "Odds Are Two Out Of Three" Nancy Pelosi Will Be Speaker, Who's Going To Stand Up To Her?
-*   Coulter: U.S Will Become "Failed Latin American State" If We "Overwhelm" Country With Migrants
 
 *   Politics
 *   Policy
