@@ -9,41 +9,42 @@ Gift Cards | Offers | Sign In Sign Out
     *   A Star Is Born (2018)
     *   Venom (2018)
     *   Goosebumps 2: Haunted Halloween
-    *   First Man
+    *   Hunter Killer (2018)
     *   The Hate U Give
+    *   First Man
     *   Smallfoot
     *   Night School (2018)
-    *   Bad Times at the El Royale
+    *   Mid90s
     *   The Old Man &. the Gun
-    *   The House with a Clock in its Walls
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Hunter Killer (2018)
-    *   Indivisible (2018)
-    *   5 Weddings
-    *   Border (2018)
-    *   Burning (2018)
-    *   Johnny English Strikes Again
-    *   London Fields
-    *   Monrovia, Indiana
-    *   Silencio (2018)
+    *   Bohemian Rhapsody
+    *   Nobody's Fool
+    *   The Nutcracker and the Four Realms
+    *   Beautiful Boy (2018)
     *   Suspiria (2018)
-    *   Viper Club
+    *   Bodied
+    *   Boy Erased
+    *   In Harm's Way (2018)
+    *   In Search of Greatness
+    *   Maria by Callas
+    *   A Private War
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Bohemian Rhapsody
-    *   Nobody's Fool
-    *   The Nutcracker and the Four Realms
     *   Dr. Seuss' The Grinch (2018)
     *   Overlord (2018)
     *   The Girl in the Spider's Web
     *   Fantastic Beasts: The Crimes of Grindelwald
     *   Instant Family (2018)
     *   Widows (2018)
+    *   Creed II
+    *   Green Book
+    *   Ralph Breaks the Internet
+    *   Robin Hood (2018)
     *   See All Coming Soon
     
     Explore More
@@ -72,8 +73,8 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   The Worlds of 'Ralph Breaks the Internet' Read More
-    *   Richard Linklater to Make a Bill Hicks Biopic. Here's Everything We Know Read More
-    *   The Week in Movie News: John Lennon and Yoko Ono Biopic, First 'Vox Lux' Trailer and Much More Read More
+    *   Next 3 Major Horror Remakes: 'Pet Sematary,' 'Hellboy,' 'Grudge' Read More
+    *   New 'Clueless' on Its Way. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
