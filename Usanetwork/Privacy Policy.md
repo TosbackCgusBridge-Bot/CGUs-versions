@@ -55,8 +55,8 @@ Skip to main content
             Parks
             1.  Universal Orlando ResortUniversal Orlando ResortOffers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions.Universal Orlando Resort
             2.  Universal Studios HollywoodUniversal Studios HollywoodGet ready for the ultimate Hollywood movie experience!Universal Studios Hollywood
-            3.  Universal Studios JapanUniversal Studios JapanOffers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions.Universal Studios Japan
-            4.  Universal Studios SingaporeUniversal Studios SingaporeOffers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions.Universal Studios Singapore
+            3.  Universal Studios JapanUniversal Studios JapanOffers guests unique and popular entertainment experiences. Its renowned theme park features some of the world’s most thrilling film and TV based attractions.Universal Studios Japan
+            4.  Universal Studios SingaporeUniversal Studios SingaporeOffers guests unique and popular entertainment experiences. Its renowned theme park features some of the world’s most thrilling film and TV based attractions.Universal Studios Singapore
         6.  TV Studios Production
             1.  Telemundo StudiosTelemundo StudiosTelemundo Studios is a full service facilities company owned and operated by Telemundo / NBCUniversal.Telemundo Studios
             2.  Universal Cable ProductionsUniversal Cable ProductionsCreates innovative and critically acclaimed original scripted content for all media platforms.Universal Cable Productions
@@ -335,4 +335,4 @@ For any questions or complaints about this Privacy Policy or our privacy practic
 *   Supply Chain Values
 *   Terms of Service
 
-© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/1866666" height="1" width="1" alt="" /></a></div>.
+© 2018 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/3096409" height="1" width="1" alt="" /></a></div>.
