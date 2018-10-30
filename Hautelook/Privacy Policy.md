@@ -8,29 +8,55 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   rag &. bone Up to 65% Off
+    *   TOMS Starting at $35
+    *   TOMS Men Starting at $30
+    *   Cashmere Shop ft. Knyt &. Lynk
+    *   TOMS Kids Starting at $20
+    *   High Tech Style: Anoraks, Trenches &. More
+    *   Milk Makeup
+    *   New from GOOD LUCK GEM
+    *   Dress Forum
+    *   Olive &. Oak Under $30
+    *   Disney Handbags &. More ft. Danielle Nicole
+    *   Bench. Up to 70% Off
+    *   Good Man Brand Up to 70% Off
+    *   Free Shipping: Colorfully Bold Wall Art
+    *   Guest Ready: Holiday Pillows
+    *   Nest Jewelry: Agate &. Gemstones
+    *   Melissa &. Doug: Holiday Head Start
+    *   K-Beauty Faves: Klairs &. By Wishtrend
+    *   Organization Essentials Starting at $10
+    *   Rogue Starting at $13
     *   rag &. bone Men Up to 60% Off
-    *   rag &. bone Shoes Up to 60% Off
-    *   rag &. bone Handbags Up to 50% Off
+    *   rag &. bone Up to 65% Off
     *   Romeo &. Juliet Couture Up to 75% Off
-    *   Free Shipping: On-Trend Jewelry from $15
-    *   Free Shipping: Kitchen Blowout
+    *   Great Lengths: Long Sleeve Blouses from $17
+    *   Work It: C&C California Sport &. More
+    *   Warm for Winter: Dog Jackets, Sweaters &. More
+    *   TOMS Sun
+    *   Lucchese: Handmade Since 1883
     *   Lola Made In Italy Up to 75% Off
+    *   LOVE Moschino
+    *   ARATTA Up to 70% Off
+    *   CQ by CQ
+    *   Free Shipping: On-Trend Jewelry from $15
+    *   Pink Owl
+    *   DKNY Lingerie
+    
     *   Sunday Steals Up to 75% Off
+    *   Free Shipping: Kitchen Blowout
     *   One-of-a-Kind Bags &. More Up to 80% Off
     *   Shoe Steals ft. Superga Up to 70% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Men's Shoes Up to 65% Off
     *   Bulova &. Citizen Watches Up to 65% Off
-    *   CQ by CQ
-    *   Pink Owl
+    *   rag &. bone Shoes Up to 60% Off
+    *   rag &. bone Handbags Up to 50% Off
     *   Kenneth Cole New York
-    *   DKNY Lingerie
     *   Free Shipping: Eddie Bauer Bedding
     *   Bravado Designs Maternity &. Nursing Intimates
     *   JACK &. JONES Starting at $13
     *   Soul Journey Jewelry
-    *   ARATTA Up to 70% Off
     *   Best for Baby: Footies, Sets &. More
     *   Get into Gear: Must-Haves ft. Baby Tula
     *   Kids' Rain Boots ft. Lilly of New York from $10
@@ -43,7 +69,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Catherine Catherine Malandrino Shoes from $35
     *   Flying Tomato &. More
     *   Street-Chic Coats: Puffers, Motos &. More
-    
     *   LaFonn Simulated Diamond Jewelry Up to 75% Off
     *   Socialite
     *   Predire Paris Luxury Skin Care
@@ -52,6 +77,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rothschild Kids' Outerwear
     *   Comfy Quilts
     *   KMO Paris Jewelry
+    
     *   Made in Italy: Summit Up to 70% Off
     *   Fall Dresses Under $30
     *   Lime &. Vine Up to 80% Off
@@ -62,78 +88,64 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Layered &. Multicolored Gemstone Jewelry
     *   Stacy Adams
     *   Men's Rugged &. Work Boots Up to 60% Off
-    *   Glam Galore: Monique Lhuillier Dresses &. More
-    *   Night Out: Party-Ready Booties, Pumps &. More
-    *   Cocktail Hour: Crislu Jewelry Up to 65% Off
-    *   Party Dresses ft. Ali &. Jay
     *   Men's Dress Shoes Under $100
-    *   Designer Shoes Up to 75% Off ft. Ferragamo &. Versace
-    *   Men's Designer Shoes Up to 60% Off ft. Versace
-    *   Designer Shop Up to 65% Off
-    *   Designer Handbags &. Accessories Up to 70% Off
-    *   Why Dress
-    *   Z&L Europe
-    *   Ramy Brook Up to 75% Off
-    *   Resort Swim Styles &. More Up to 60% Off
-    *   Exclusively Ours: Fall Accessories from $10
     *   Men's Designer Accessories Shop from $50
     *   Men's Designer Shop from $25
-    *   Splendid Kids
-    
     *   Free Shipping: Whimsical Wall Art
-    *   Kids' Bomber Jackets &. More Starting at $19
-    *   Josie &. Skarlett Blue
-    *   YMI Jeans Under $25
     *   Natural Beauty: E Nature Korean Skin Care
     *   Rouge Bunny Rouge Cosmetics
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
-    *   14K Gold Jewelry Steals
     *   Home Organization
-    *   Hoo
-    *   Arka Tees Under $20
-    *   Timberland Men Up to 50% Off
-    *   Tailored Recreation Premium Up to 70% Off
-    *   Men's Fall Looks ft. Coats &. More
     *   Teami Blends Detox Teas &. Supplements
     *   Tiziana Terenzi Luxury Fragrances &. Candles
-    *   Nostalgia Up to 70% Off
+    *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Accent Furniture Under $200
-    *   Nordstrom Exclusives ft. Zella &. Halogen
-    *   Nordstrom Exclusives &. More: Kids' Clothing &. Shoes
-    *   Algenist Skin Care
-    *   Free Shipping: Traditional Rugs Up to 75% Off
-    *   Free Shipping: Ultra-Soft Towels Starting at $10
     *   SUSINA and 14th &. Union Incl. Plus &. Petites
-    *   Pillows That Pop
+    *   Free Shipping: Traditional Rugs Up to 75% Off
     *   BLANKNYC Up to 70% Off
+    *   Pillows That Pop
+    *   Cuisinart
     *   Sharpen Up: Wusthof Cutlery
     *   Free Shipping: Wall Art &. More for Every Style
+    *   Dress to Impress: Suiting Under $250
+    *   Free Shipping: Ultra-Soft Towels Starting at $10
     *   Free Shipping: Metal &. Wooden Wall Art
     *   All-Clad
-    *   Free Shipping: Eye-Catching Wall Art
-    *   Poo-Pourri Bathroom Scents
-    *   Dress to Impress: Suiting Under $250
-    *   Free Shipping: Hand-Painted Replicas
-    *   Cuisinart
 *   WomenShop Sale Events
     
+    *   TOMS Starting at $35
+    *   Cashmere Shop ft. Knyt &. Lynk
+    *   High Tech Style: Anoraks, Trenches &. More
+    *   Milk Makeup
+    *   New from GOOD LUCK GEM
+    *   Dress Forum
+    *   Olive &. Oak Under $30
+    *   Disney Handbags &. More ft. Danielle Nicole
+    *   Nest Jewelry: Agate &. Gemstones
+    *   K-Beauty Faves: Klairs &. By Wishtrend
     *   rag &. bone Up to 65% Off
-    *   rag &. bone Shoes Up to 60% Off
-    *   rag &. bone Handbags Up to 50% Off
     *   Romeo &. Juliet Couture Up to 75% Off
-    *   Free Shipping: On-Trend Jewelry from $15
+    *   Great Lengths: Long Sleeve Blouses from $17
+    *   Work It: C&C California Sport &. More
+    *   TOMS Sun
+    *   Lucchese: Handmade Since 1883
     *   Lola Made In Italy Up to 75% Off
+    *   LOVE Moschino
+    *   ARATTA Up to 70% Off
+    *   CQ by CQ
+    *   Free Shipping: On-Trend Jewelry from $15
+    *   Pink Owl
+    *   DKNY Lingerie
     *   Sunday Steals Up to 75% Off
     *   One-of-a-Kind Bags &. More Up to 80% Off
     *   Shoe Steals ft. Superga Up to 70% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    
     *   Bulova &. Citizen Watches Up to 65% Off
-    *   CQ by CQ
-    *   Pink Owl
+    *   rag &. bone Shoes Up to 60% Off
+    *   rag &. bone Handbags Up to 50% Off
     *   Kenneth Cole New York
-    *   DKNY Lingerie
     *   Soul Journey Jewelry
-    *   ARATTA Up to 70% Off
     *   Sterling Silver Jewelry Starting at $15
     *   O'o Hawaii Skin Care
     *   Catherine Catherine Malandrino Up to 70% Off
@@ -146,67 +158,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   KMO Paris Jewelry
     *   Made in Italy: Summit Up to 70% Off
     *   Fall Dresses Under $30
-    
     *   Lime &. Vine Up to 80% Off
     *   Betsey Johnson Under $70
     *   ProCabello Hair Tools
     *   Layered &. Multicolored Gemstone Jewelry
-    *   Glam Galore: Monique Lhuillier Dresses &. More
-    *   Night Out: Party-Ready Booties, Pumps &. More
-    *   Cocktail Hour: Crislu Jewelry Up to 65% Off
-    *   Party Dresses ft. Ali &. Jay
-    *   Designer Shoes Up to 75% Off ft. Ferragamo &. Versace
-    *   Designer Shop Up to 65% Off
-    *   Designer Handbags &. Accessories Up to 70% Off
-    *   Why Dress
-    *   Z&L Europe
-    *   Ramy Brook Up to 75% Off
-    *   Resort Swim Styles &. More Up to 60% Off
-    *   Exclusively Ours: Fall Accessories from $10
-    *   Josie &. Skarlett Blue
-    *   YMI Jeans Under $25
     *   Natural Beauty: E Nature Korean Skin Care
     *   Rouge Bunny Rouge Cosmetics
-    *   14K Gold Jewelry Steals
     *   Teami Blends Detox Teas &. Supplements
     *   Tiziana Terenzi Luxury Fragrances &. Candles
-    *   Nostalgia Up to 70% Off
-    *   Nordstrom Exclusives ft. Zella &. Halogen
-    *   Algenist Skin Care
     *   SUSINA and 14th &. Union Incl. Plus &. Petites
     *   BLANKNYC Up to 70% Off
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
-    *   Accessories
+    *   Shoes
     *   Handbags
     *   Lingerie
     *   Watches
+    *   Accessories
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   TOMS Men Starting at $30
+    *   Bench. Up to 70% Off
+    *   Good Man Brand Up to 70% Off
+    *   Rogue Starting at $13
     *   rag &. bone Men Up to 60% Off
+    *   TOMS Sun
     *   Men's Shoes Up to 65% Off
     *   Bulova &. Citizen Watches Up to 65% Off
     *   JACK &. JONES Starting at $13
     *   Tailorbyrd Starting at $25
     *   Kenneth Cole New York Men Up to 50% Off
+    
     *   Tavik Outerwear &. More
     *   Perry Ellis
     *   XRAY Up to 70% Off
     *   Men's Sweater Shop Under $100
     *   Stacy Adams
-    
     *   Men's Rugged &. Work Boots Up to 60% Off
     *   Men's Dress Shoes Under $100
-    *   Men's Designer Shoes Up to 60% Off ft. Versace
     *   Men's Designer Accessories Shop from $50
     *   Men's Designer Shop from $25
-    *   Arka Tees Under $20
-    *   Timberland Men Up to 50% Off
-    *   Tailored Recreation Premium Up to 70% Off
-    *   Men's Fall Looks ft. Coats &. More
     *   Teami Blends Detox Teas &. Supplements
     *   Dress to Impress: Suiting Under $250
     
@@ -217,27 +211,31 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   TOMS Kids Starting at $20
+    *   Melissa &. Doug: Holiday Head Start
     *   Bravado Designs Maternity &. Nursing Intimates
     *   Best for Baby: Footies, Sets &. More
     *   Get into Gear: Must-Haves ft. Baby Tula
     *   Kids' Rain Boots ft. Lilly of New York from $10
     *   Rothschild Kids' Outerwear
-    *   Splendid Kids
-    *   Kids' Bomber Jackets &. More Starting at $19
-    *   Hoo
-    *   Nordstrom Exclusives &. More: Kids' Clothing &. Shoes
     
     Shop By Category
-    *   Girls Sizes 7-16
-    *   Girls Sizes 2T-6X
     *   Girls' Shoes
-    *   Boys Sizes 8-20
+    *   Baby Gear &. Essentials
     *   Baby Girl
-    *   Boys Sizes 2T-7
     *   Boys' Shoes
     *   Baby Boy
+    *   Girls Sizes 2T-6X
+    *   Girls Sizes 7-16
+    *   Boys Sizes 8-20
+    *   Boys Sizes 2T-7
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Colorfully Bold Wall Art
+    *   Guest Ready: Holiday Pillows
+    *   Organization Essentials Starting at $10
+    *   Warm for Winter: Dog Jackets, Sweaters &. More
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Eddie Bauer Bedding
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
@@ -245,19 +243,17 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Whimsical Wall Art
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   Home Organization
+    
+    *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Accent Furniture Under $200
     *   Free Shipping: Traditional Rugs Up to 75% Off
-    *   Free Shipping: Ultra-Soft Towels Starting at $10
-    
     *   Pillows That Pop
+    *   Cuisinart
     *   Sharpen Up: Wusthof Cutlery
     *   Free Shipping: Wall Art &. More for Every Style
+    *   Free Shipping: Ultra-Soft Towels Starting at $10
     *   Free Shipping: Metal &. Wooden Wall Art
     *   All-Clad
-    *   Free Shipping: Eye-Catching Wall Art
-    *   Poo-Pourri Bathroom Scents
-    *   Free Shipping: Hand-Painted Replicas
-    *   Cuisinart
     
     Shop By Category
     *   Home Decor
@@ -265,12 +261,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rugs
     *   Bedding
     *   Accent Furniture
-    *   Bath
     *   Storage &. Cleaning
+    *   Pet Accessories
+    *   Bath
     *   Luggage &. Travel
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Milk Makeup
+    *   K-Beauty Faves: Klairs &. By Wishtrend
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   O'o Hawaii Skin Care
     *   Predire Paris Luxury Skin Care
@@ -279,11 +278,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rouge Bunny Rouge Cosmetics
     *   Teami Blends Detox Teas &. Supplements
     *   Tiziana Terenzi Luxury Fragrances &. Candles
-    *   Algenist Skin Care
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Supplements
     *   Hair Care
     *   Tools &. Accessories
