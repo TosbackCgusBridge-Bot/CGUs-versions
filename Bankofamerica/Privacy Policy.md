@@ -15,7 +15,11 @@ Search Term
 *   Report a Problem
 *   Resources link and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. FAQs Fraud Prevention Checklist Understand Merchant Compromise Glossary End of submenu
 
-Bank of America Privacy and Security Get information about privacy and security at Bank of America. Learn how we can help you protect your accounts and what you can do to help stay secure. bank of america security, bank of america privacy notice, bank of america privacy and security Bank of America Security Center Here’s what you need to know (and do) to stay as safe as possible Show all Answers  |  Hide all Answers
+Bank of America Privacy and Security Get information about privacy and security at Bank of America. Learn how we can help you protect your accounts and what you can do to help stay secure. bank of america security, bank of america privacy notice, bank of america privacy and security Bank of America Security Center Here’s what you need to know (and do) to stay as safe as possible
+
+You can add layers of security to your Online Banking and Mobile Banking app. See how to manage enhanced authentication
+
+Show all Answers  |  Hide all Answers
 
 *   Hide How we protect your accounts and identity
     
@@ -115,13 +119,15 @@ Bank of America Privacy and Security Get information about privacy and security 
     *   We’ll never ask you to send us personal information such as an account number, card PIN or Social Security or Tax ID over text or email. If you do receive a request like this or any other suspicious phishing email, please forward it to us at abuse@bankofamerica.com. We will only reply to your message if we require additional information.
     *   Scammers use a variety of techniques – here are a few examples.
         *   Using compromised business email addresses and impersonating executives, real estate agents, attorneys or others to insist that you redirect planned wire transfers to fraudulent accounts. Learn about business email compromise on the FBI website
-        *   Sending mailers to older adults that request the payment of a small fee in order to receive a big sweepstakes prize. Learn how to spot and help prevent elder abuse
-        *   Posing as government officials, security officers, tax collectors or tech support to resolve a non-existent issue or assist with a hypothetical software license renewal
+        *   Sending mailers to older adults that request the payment of a small fee in order to receive a big sweepstakes prize.
+        *   Posing as government officials, security officers, tax collectors, tech support or even as Bank of America. The scammer may say they’re helping you resolve an issue, can assist with a software license renewal or that there’s fraud on your account.
+    
+    See how to spot email scams
     
     **What you need to do:**
     
     *   If you receive a suspicious call, text or email from someone claiming to be from Bank of America, do not respond, click links or open attachments. If this has happened to you, contact us right away at 800.432.1000.
-    *   If you’re being asked to send money as the result of a call, text or email, here are some questions you need to consider:
+    *   If you’re being asked to send money or provide information as the result of a call, text or email, here are some questions you need to consider:
         *   Is the requestor rushing or pressuring you?
         *   Is the person asking for money someone you’ve never met?
         *   If a business is requesting that you wire money or send funds online, is it to a new account number or different from what was described on initial paperwork?
