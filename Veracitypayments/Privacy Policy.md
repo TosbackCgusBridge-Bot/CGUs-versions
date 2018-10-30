@@ -2,8 +2,6 @@ Search
 
 MyVanco Login
 
-SIGN UP
-
 Sales: **855-213-3705**   Support: **800-675-7430**
 
 SearchUse up and down arrows to select available result. Press enter to go to selected search result. Touch devices users can use touch and swipe gestures.  
@@ -32,8 +30,6 @@ SearchUse up and down arrows to select available result. Press enter to go to se
 **404** Page not found
 
 Sorry, the page you were looking for at this URL was not found.
-
-Return Home
 
 **INFORMATION ON VANCO**
 
