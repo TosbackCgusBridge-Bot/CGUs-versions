@@ -35,20 +35,17 @@ Show Menu Hide Menu
     *   Not ?
     *   Not ?  
         Log in to your account
-*   My Lists  
+*    
     
     Things you view while shopping are saved here.
     
-    Loading your lists...
-    
-    View your lists
 *   My Trips
 *   Support
     *   Customer Support
     *   Feedback
 *   Español
 
-//a.travel-assets.com/globalcontrols-service/content/1223e3ce3544190e40140160155d57a1b17377e8 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/62d0daf401f168722128004f5be0fc9c3ede017f Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Hotels
