@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   OpenStack Summit Berlin ›
 *   Low latency and real-time kernels for telco and NFV ›
 *   Ubuntu Advantage successfully passes MSPCV cloud certification process ›
 *   Canonical and Ubuntu – user statistics ›
 *   Welcome Ubuntu Desktop 18.10 ›
-*   Ubuntu events in November ›
