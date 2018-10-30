@@ -9,11 +9,7 @@ Menu
 
 *   About
 *   Services
-*   Subscribe
-    *   *   Email:
-            
-            Leave this field empty if you're human:
-    *   Close
+*   Newsletter Sign-Up
 *   Digital Store
 *   Search
 
