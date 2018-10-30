@@ -974,9 +974,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off full-price coats and jackets. 25% off all other full-price styles!
+Receive 25% off full-price styles!
 
-code: GOLDEN pin: 7456 DETAILS
+code: LEAVES pin: 1001 DETAILS
 
 Customer Service Menu
 
