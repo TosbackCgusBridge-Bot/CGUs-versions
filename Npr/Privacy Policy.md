@@ -253,13 +253,9 @@ Back
 *   **Flipboard**
 *   **Email**
 
-May 7, 20139:51 AM ET
+May 7, 20139:51 AM ET NPR Online Privacy Policy Highlights
 
-**Effective Date July 31, 2018**
-
-NPR Online Privacy Policy Highlights
-
-**Note:** The NPR Online Privacy Policy ("Privacy Policy") has been updated with an effective date of July 31, 2018. Please review the updated Privacy Policy carefully before using the NPR Services. By using any of the NPR Services, you consent to the terms of the updated Privacy Policy. This section highlights important features of the Privacy Policy. Please scroll down to see the full Privacy Policy or click on "Read more" to learn more about a specific area.
+**Note:** The NPR Online Privacy Policy ("Privacy Policy") has been updated with an effective date of October 29, 2018. Please review the updated Privacy Policy carefully before using the NPR Services. By using any of the NPR Services, you consent to the terms of the updated Privacy Policy. This section highlights important features of the Privacy Policy. Please scroll down to see the full Privacy Policy or click on "Read more" to learn more about a specific area.
 
 **Scope of Privacy Policy**
 
@@ -354,8 +350,7 @@ Read More in the Full Privacy Policy ↓
 *   You can stop the delivery of marketing emails or email newsletters from NPR by following the unsubscribe instructions in any such email you receive. You also can sign in to your NPR account to manage your NPR email newsletter subscriptions or contact us.
 *   You have choices about the collection and use of your information by third parties for the display of certain personalized or "interest-based" online sponsorship credits, as described in our section on interest-based messages in the "Your Choices" section of the Privacy Policy.
 *   If you grant your consent to our collection of your precise mobile device location information, you can revoke your consent at any time by using the privacy settings of your device and/or the settings of the applicable NPR mobile application.
-
-You have choices to prevent or limit the collection of information through cookies, pixel tags and other technology as further described in our section on cookies in the "Your Choices" section of the Privacy Policy. Further information about our use of cookies, pixel tags and other tracking technologies can be found here.
+*   You have choices to prevent or limit the collection of information through cookies, pixel tags and other technology as further described in our section on cookies in the "Your Choices" section of the Privacy Policy. Further information about our use of cookies, pixel tags and other tracking technologies can be found here.
 
 Read More in the Full Privacy Policy ↓
 
@@ -379,7 +374,7 @@ California residents can request and obtain from us once a year and free of char
 
 Full Version of NPR Online Privacy Policy
 
-**Effective Date July 31, 2018**
+**Effective Date October 29, 2018**
 
 Welcome to the NPR Online Privacy Policy ("Privacy Policy"). This Privacy Policy describes the information National Public Radio, Inc. and its affiliated organizations (owned or controlled by, or under common ownership or control with, National Public Radio, Inc.) (collectively, "NPR," "we" or "us") collect or allow others to collect from you and your computer or device when you use NPR.org or other sites, NPR One or other applications, email newsletters, digital platforms or other interactive services provided by NPR that link to or refer to this Privacy Policy (collectively, the "NPR Services" or "our Services"). This Privacy Policy also explains how that information may be used and shared and the choices you have to limit or prevent certain uses or sharing of that information. Please note that this Privacy Policy does not govern the websites and services of NPR's Member stations, or the websites and services of third parties that may link to or be linked to from the NPR Services.
 
@@ -439,7 +434,7 @@ Our Services also make use of third-party analytics, cookie data collection and 
 
 **How We Use the Information We Collect**
 
-We and our service providers collect and use information to provide you with a customized interactive experience and to make our Services more valuable to you. We also may use the information we collect for fundraising purposes to support our Member stations and public media mission. NPR and our service providers also may use the information collected through our Services:
+We and service providers working on our behalf collect and use information to provide you with a customized interactive experience and to make our Services more valuable to you. We also may use the information we collect for fundraising purposes to support our Member stations and public media mission. NPR and service providers working on our behalf also may use the information collected through our Services:
 
 *   To manage, administer and improve the NPR Services.
 *   To respond to your questions or messages.
@@ -464,23 +459,23 @@ We and our service providers collect and use information to provide you with a c
 
 **How We Disclose Information**
 
-NPR is committed to maintaining your trust. We want you to understand when and with whom we may share information about you that is collected through our Services.
+NPR is committed to maintaining your trust. We want you to understand when and with whom we and service providers working on our behalf may share information about you that is collected through our Services.
 
 **_User Materials._** Any User Materials you submit through our Contact Us page, social networking services or similar features can be seen, collected and used by us and anyone else who has access to the applicable service. Such information is likely to become public and we cannot be responsible for any unauthorized third-party use. Any User Materials you submit may also be freely used and shared by NPR and its Member stations and their respective licensees in accordance with our Terms of Use.
 
 **_Member stations._** NPR may share your name, email address, other contact information, and information about your listening activity, donations and interests with the Member stations that are associated with your account or that are local to you. When we do so, we require those Member stations to commit to the same policies regarding further sharing with third parties that we follow under this Privacy Policy. If you do not want us to share your name, contact information, or other information, including information about your donations to NPR, with Member stations, you can contact us any time. However, if you choose to donate to an NPR Member station through our Services, your information may be collected directly by that Member station. In that case, the collection of your information is subject to that Member station's privacy policy.
 
-**_Authorized service providers._** We may share any information we collect with service providers who provide us with specialized services or otherwise help us operate our Services including, without limitation, service providers that provide customer support, email deployment, account sign-in services, payment processing, order fulfillment, analytics, marketing, suppression list management, contest management and data processing services.
+**_Authorized service providers._** We may share any information we collect with service providers who provide us with specialized services or otherwise help us operate our Services including, without limitation, service providers that provide customer support, email deployment, account sign-in services, payment processing, order fulfillment, analytics, marketing, suppression list management, contest management and data processing services. Our service providers include the service providers' subcontractors that provide specialized services to us or otherwise help us operate our Services. If you wish to make a payment or receive a refund through our Services, your information will be collected and controlled by the payment processor and not by us and will be subject to that payment service provider's privacy policy and practices.
 
 **_Authorized third-party applications._** We may share with authorized third-party applications information that you provide directly through our Services and information collected automatically through technology for the purpose of providing certain NPR Services to you on the applications. In such cases, the information that we share may include your name, favorite stations, and listening activity. NPR prohibits the third-party developers of those applications from accessing, storing or sharing any such non-public information. However, please be aware that your use of the third-party application is otherwise subject to the third-party application's privacy policy, which we do not control and which may differ significantly from ours. NPR is not responsible for the privacy practices of any third-party application and we recommend that you familiarize yourself with the privacy policies of any third-party sites, applications, platforms, and services that you visit or access.
 
 **_Business transfers._** We may share any collected information in connection with a substantial corporate transaction, such as the sale of an NPR Service or division, a merger, a consolidation, an asset sale, or in the unlikely event of bankruptcy.
 
-**_Legal requirements._** We may disclose any collected information to respond to subpoenas, court orders, legal process, and other law enforcement measures, and to comply with legal or regulatory obligations.
+**_Legal requirements._** We and service providers working on our behalf may disclose any collected information to respond to subpoenas, court orders, legal process, and other law enforcement measures, and to comply with legal or regulatory obligations.
 
-**_Protect our Services and users._** We may disclose any collected information to enforce our Terms of Use and to protect and defend the legal rights, interests, and safety of NPR, NPR Member stations, their respective employees, agents, contractors, sponsors, listeners and users, members of the general public, or others.
+**_Protect our Services and users._** We and service providers working on our behalf may disclose any collected information to enforce our Terms of Use and to protect and defend the legal rights, interests, and safety of NPR, NPR Member stations, their respective employees, agents, contractors, sponsors, listeners and users, members of the general public, or others.
 
-**_With your consent._** We may share any collected information when you expressly or implicitly consent to such disclosure. For example, if you use our Services to email or text a story to a friend, we would disclose your name to that friend together with the content you directed us to send.
+**_With your consent._** We and service providers working on our behalf may share any collected information when you expressly or implicitly consent to such disclosure. For example, if you use our Services to email or text a story to a friend, we would disclose your name to that friend together with the content you directed us to send.
 
 **_Wireless carriers and automobile manufacturers._** Wireless carriers and automobile manufacturers also may collect contact and other information and precise location data from our mobile services users through processes we do not control. You should check the privacy policies of your wireless carriers and automobile manufacturers for additional information.
 
