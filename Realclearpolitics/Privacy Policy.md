@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Steve Bousquet_: Gillum's Dilemma: Florida Is Actually Five States
+*   _Dennis Prager_: The Pittsburgh Synagogue, Anti-Semitism and Trump
     
-*   _Sen. Mitch McConnell_: U.S. Is Thriving Under Republican Leadership
+*   _Catherine Rampell_: Trump Isn't to Blame. His Entire Party Is
     
-*   _Kevin Robillard_: Here's Where Dems' Fight for the House Will Be Decided
+*   _Ned Ryun_: In Defense of Americanism
     
-*   _David Shribman_: Anti-Semitism Comes to a City of Tolerance
+*   _John Nichols_: A New Reason to Impeach Trump: Birthright Citizenship
     
-*   _John Podhoretz_: What I Learned as a U.S. Jew After the Pittsburgh Attack
+*   _Roger Kimball_: The Audacity of Barack Obama's Lying
     
-*   _Cass Sunstein_: How Trump's Hateful Speech Raises the Risks of Violence
+*   _Ezra Klein_: How Trump Makes the Media Into the Opposition
     
-*   _Dov Fischer_: Here We Go Again: 'It's All Trump's Fault'
+*   _Lisa Boothe_: The Media's Orchestrated Smear of Brett Kavanaugh
     
-*   _Emily Shugerman_: Female Candidates Key to Turning State Houses Blue
+*   _Marcy Wheeler_: If Trump Fires Mueller, a Dem House Can Salvage the Probe
     
-*   _Adriana Cohen_: It's Time for Women to Flee the Democratic Party
+*   _Byron York_: Finally, a Day of Reckoning for Michael Avenatti?
     
-*   _David Andelman_: China May Try to Wait It Out Rather Than Deal With Trump
+*   _Carl Cannon_: Marshall's Plan: To Build Up Europe, Not His Image
     
-*   _Conrad Black_: Trump's Foreign Policy Is Coming Into Focus
+*   _Jonathan Turley_: Cultural Appropriation Turns Halloween Into a Nightmare
     
-*   _Stephen Moore_: Liberals Are Angry Because They Were Sure Trump Would Fail
+*   _Rahm Emanuel_: Biggest Story of Midterms Is One Dems Aren't Telling
     
-*   _Jonathan Chait_: Win or Lose, Republicans Will Get More Extreme
+*   _David Freedlander_: Do Blue-Collar Dems Want What 'New Left' Is Delivering?
     
-*   _Frank Miele_: Be Glad Trump, Not Clinton, Is Protecting the Border
+*   _Sean Trende_: 6 Looming Uncertainties as Midterms Come to a Close
     
-*   _Ruth Marcus_: Trump Has Stoked the Fears of Bowerses Among Us
+*   _James Bruno_: Two Congressional Races Show What's at Stake
     
-*   _Daniel McCarthy_: Bowers Disliked Trump for His Support of Israel, Jews
+*   _Robert Merry_: What Happens When the Caravan Gets Here?
     
-*   _Jonathan Greenblatt_: The Latest, Worst Instance of Rising Anti-Semitism
+*   _Matt Barreto_: Why Trump's Attacks on Immigrants Will Backfire
     
-*   _Michael Ledeen_: Jews Must Defend Themselves and Fight Their Enemies
+*   _Steve Cortes_: After Pittsburgh, Unfair Attacks on American Nationalism
     
-*   _Graeme Wood_: In Europe, Speech Is an Alienable Right
+*   _Paul Krugman_: Hate Is on the Ballot Next Week
     
-*   _Bill Scher_: What You Will Get If You Vote for Democrats
+*   _Steve Hilton_: The Truth About the Climate of Rage and Hate
     
-*   _Victor Davis Hanson_: Caravan Contradictions
+*   _Leonid Bershidsky_: Don't Write Off Merkel Just Yet
     
-*   _Raul Reyes_: Don't Be Fooled by Trump's Caravan Misinformation Campaign
+*   _Morgan Ortagus_: Trump Can Win at Foreign Policy in a Divided Govt
     
-*   _Paul Sperry_: 'Nothing to Gain,' Blasey Ford Raises Nearly $1 Million
+*   _Dominic Rushe_: Can Young Voters Save WI From Walker's Hard-Right Grip?
     
-*   _Damon Linker_: Clinton Was Right About Trump's 'Basket of Deplorables'
+*   _Noah Rothman_: Bob Menendez and the Shame of the Star-Ledger
     
 
 *   Previous
@@ -208,32 +208,6 @@ If you have any further question about this Privacy Policy, please contact us at
 
   
   
-RecommendedPolitics
-
-*   Politics
-*   Markets
-*   World
-*   Science
-*   History
-*   Future
-*   Energy
-*   Health
-*   Policy
-*   Religion
-*   Defense
-*   Sports
-*   Education
-*   Books
-*   Investigations
-
-*   With Redistricting in Mind, Dems' Midterm Focus Is on States
-*   Is Trump Transforming Midterms With Arena-Size Rallies?
-*   Obama Slams Trump in WI: "Nobody in My Administration Got Indicted"
-*   DeSantis, Gillum Exchange Insults in Final Florida Debate
-*   Grassley Refers Avenatti, Swetnick to DOJ for Criminal Investigation
-*   Presidential Job Approval
-*   Cartoons of the Week
-
 Latest PollsAll Polls
 
 *   All Polls
@@ -243,26 +217,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Pennsylvania 1st District - Fitzpatrick vs. WallaceNY Times/Siena
-    *   Fitzpatrick47
-    *   Wallace46Fitzpatrick +1
-*   Pennsylvania 10th District - Perry vs. ScottSusquehanna
-    *   Perry49
-    *   Scott46Perry +3
-*   Utah 4th District - Love vs. McAdamsKUTV/Dixie Strategies
-    *   McAdams50
-    *   Love43McAdams +7
-*   New Jersey Senate - Hugin vs. MenendezEmerson
-    *   Menendez47
-    *   Hugin42Menendez +5
+*   Tennessee Senate - Blackburn vs. BredesenNBC News/Marist
+    *   Blackburn51
+    *   Bredesen46Blackburn +5
+*   Tennessee Governor - Lee vs. DeanNBC News/Marist
+    *   Lee57
+    *   Dean40Lee +17
+*   Kansas 2nd District - Watkins vs. DavisNY Times/Siena
+    *   Davis41
+    *   Watkins37Davis +4
+*   North Carolina 9th District - Harris vs. McCreadyNY Times/Siena
+    *   Harris45
+    *   McCready44Harris +1
 
 More Latest Polls In The News
 
+*   Gloria Borger: "Elections Are Always About Fear," But Trump Is Pushing It With "Caravan," 14th Amendment
 *   Trump: Nationalism Means I Love The Country. I'm Not A Globalist, I Want To Take Care Of United States First
 *   CNN Acosta vs. Huckabee Sanders: Have The Guts To Name Which Journalists Are The Enemy Of The People
 *   Huckabee Sanders to NBC Reporter: You Have Huge Role In Dividing Country, 90% Of News Is Anti-Trump
 *   Scarborough Links Caravan "Frenzy" To Synagogue Shooting: Trump "Spreading Hatred Across America"
-*   Obama: Trump Is A Shameless Liar, "Let Me Run Through This Just To Jog Your Memory"
 
 *   Politics
 *   Policy
