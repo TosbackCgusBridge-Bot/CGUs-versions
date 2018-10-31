@@ -9,7 +9,7 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Halloween
+    Occasions*   Thanksgiving
     *   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
@@ -66,11 +66,10 @@
     *   Entertaining
     *   Christmas Gifts
     
-    Occasions*   Halloween
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Halloween
+    *   Graduation &. CongratulationsMost Popular Thanksgiving Gifts
 *   Sale
 *   New!
 
@@ -93,7 +92,7 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Halloween
+    Occasions*   Thanksgiving
     *   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
@@ -150,11 +149,10 @@
     *   Entertaining
     *   Christmas Gifts
     
-    Occasions*   Halloween
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Halloween
+    *   Graduation &. CongratulationsMost Popular Thanksgiving Gifts
 *   Sale
 *   New!
 
