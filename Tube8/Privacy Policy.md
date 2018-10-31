@@ -101,8 +101,8 @@ Close Recent Searches Clear all Suggested Keywords Upload
     *   petite
     *   sexxx
     *   orgasm
-    *   masturbation
     *   interracial
+    *   masturbation
     *   arab
     *   cumshot
     *   brazzers
@@ -115,7 +115,7 @@ Close Recent Searches Clear all Suggested Keywords Upload
 *   Live Girls
 *   FUCK NOW
 
-FREE WEEK on Premium - Click HERE
+Halloween Special! FREE WEEK on Premium! Click HERE
 
 You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close
 
