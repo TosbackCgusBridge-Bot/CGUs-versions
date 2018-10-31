@@ -14,27 +14,17 @@ SHOP DEPARTMENTS
 *   Same Day Pickup
 *   Store Ads
 *   Holiday Gifts
-    *   Gifts for Her
-    *   Gifts for Him
-    *   Gifts for Kids
-    *   Gifts for Baby
-    *   All Gifts
 *   Clearance
-    *   Women
-    *   Shoes
-    *   Men
-    *   Kids
-    *   More Categories
 *   Coupons
 
 Near YouFind a StoreBackHot Sellers
 
-*   $2099after couponwas $49 North Pole Trading Co. Family Sleep Fleece One Piece Pajama
-*   from$1874after couponwas $42 - $49 North Pole Trading Company Chillin 2 Piece Pajama Set -Men's
-*   $1499after couponwas $42 Arizona Flex Slim Straight Jeans(270)
-*   from$1199after couponwas $30 - $35 Arizona Knit Jogger Pants Boys 4-20 &. Husky(2)
-*   from$1199after couponwas $30 - $35 Arizona Original Fit Flex Jeans Boys 4-20, Slim &. HUsky(4)
-*   from$1461after couponwas $44 Stafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt(119)
+*   $4349after couponwas $110 Liz Claiborne Womens Block Heel Zip Trino Riding Boots
+*   $2249after couponwas $60 Arizona Garber Ankle Booties(166)
+*   $2774after couponwas $70 St. John's Bay Womens Eastern Wedge Heel Zip Bootie(2)
+*   from$1199after couponwas $30 - $82 JCPenney Home™ 2" Faux-Wood Horizontal Blinds(891)
+*   $3149after couponwas $80 Arizona Womens Cuala Wide Calf Riding Boots Flat Heel Zip(7)
+*   $2249after couponwas $60 Arizona Womens Gale Block Heel Bootie(27)
 
 Shop and Save at JCPenney
 
