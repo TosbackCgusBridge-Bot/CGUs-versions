@@ -1,4 +1,4 @@
-SUBSCRIBE NOW30¢ first month. Save 97%
+close dialogTelling Your StoryDedicated to making a local impact99¢ First MonthSubscribeclose dialogSUBSCRIBE NOW99¢ first month. Save 90%.
 
 *   Home
 *   News
@@ -74,7 +74,7 @@ SUBSCRIBE NOW30¢ first month. Save 97%
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSen. Ted Cruz pumps up Republican El PasoansNewsWinter-like cold coming to El Paso, Las CrucesNews4 killed in shooting at child's birthday partyTexasregionSpears, Gosling shock with 'Mickey Mouse Club' reunionEntertainmentArt colors Downtown sidewalks for Chalk the BlockLocalNew direct flights connect El Paso to tech cityNewsKhalid announces new EP, 'Suncity,' at Austin showMusicShawn Mendes, Khalid perform in El PasoMusicWild lion mountain sighting closes El Paso ZooLocalScores from Friday's high school football gamesHigh-schoolHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowCBP preps in riot gear. migrants sleep on bridgeImmigrationCruz's lead slips over O'Rourke in latest pollNewsUTEP fires longtime soccer coachCollegeBird temporarily halts El Paso scooter serviceMoneyMontwood band accused of taunting rivals at UILSportsHave you seen El Paso's Most Wanted fugitives?CrimeEl Paso man wanted on assault charges arrestedCrimeHospitals of Providence opening 2nd microhospitalNewsCity Council OKs Great Wolf Lodge tax breaksNewsAgainst a wall, UTEP turns to new quarterbackCollegeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,3 +145,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialogTelling your storyDedicated to making a local impact99¢for theFirst MonthSubscribe TodayNo Thanksclose dialogclose dialogTelling Your StoryDedicated to making a local impact99¢ First MonthSubscribeclose dialog
