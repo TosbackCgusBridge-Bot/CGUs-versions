@@ -6,6 +6,7 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   My Events
     *   My World Clock
     *   My Privacy
+    *   Become a Supporter
     *   Sign in
     *   Register
 *   BackHome
@@ -36,7 +37,7 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Calendar 2018
     *   Calendar 2019
     *   Monthly Calendar
-    *   Printable PDF Calendar
+    *   Printable Calendar (PDF)
     *   Add Your Own Calendar Events
     *   Calendar Creator
     *   Advanced Calendar Creator
@@ -157,6 +158,8 @@ When creating an account, you agree to our terms and conditions.
 Servers and Content Distribution
 
 Our servers are located in the USA, Germany, Singapore, Australia, and Norway. We also rely on third parties to host our services and our infrastructure, and to distribute our content, such as the newsletter.
+
+We take regular backups of our servers. Older backups are stored offline and are only used to recover data after a server crash or other incidents.
 
 Sensitive Information
 
