@@ -5,7 +5,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     
     In This Section
     
-    *   Probable Pitchers
+    *   Free Agent &. Trade Tracker
     *   Top Prospects
     *   Injury Updates
     *   Transactions
