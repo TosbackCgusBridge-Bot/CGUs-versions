@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $99See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -17,14 +17,14 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackHot Sellers
+Near YouFind a StoreBackFINAL HOURS OF COUPON CODETREAT38ENDS IN00HOURS 39MINS 58SECS \*Offer ends November 1, 2018 Hot Sellers
 
-*   $4349after couponwas $110 Liz Claiborne Womens Block Heel Zip Trino Riding Boots
-*   $2249after couponwas $60 Arizona Garber Ankle Booties(166)
-*   $2774after couponwas $70 St. John's Bay Womens Eastern Wedge Heel Zip Bootie(2)
-*   from$1199after couponwas $30 - $82 JCPenney Home™ 2" Faux-Wood Horizontal Blinds(891)
-*   $3149after couponwas $80 Arizona Womens Cuala Wide Calf Riding Boots Flat Heel Zip(7)
-*   $2249after couponwas $60 Arizona Womens Gale Block Heel Bootie(27)
+*   $1761after couponwas $44 Xersion Puffer Vest
+*   from$1461after couponwas $44 Stafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt(119)
+*   from$2999after couponwas $84 - $94 Arizona Heavyweight Puffer Jacket - Girls 4-16 &. Plus(1)
+*   $1761after couponwas $45 The Foundry Big &. Tall Supply Co. Long Sleeve Jersey Hoodie-Big and Tall(4)
+*   $1499after couponwas $40 St. John's Bay V Neck Long Sleeve Pullover Sweater(5)
+*   from$1874after couponwas $42 - $49 North Pole Trading Company Plaid Raglan 2 Piece Set -Men's(1)
 
 Shop and Save at JCPenney
 
@@ -89,6 +89,7 @@ Connect With Us
 *   Pinterest
 *   Instagram
 *   Youtube
+*   JCPenney Blog
 
 JCPenney Credit
 
