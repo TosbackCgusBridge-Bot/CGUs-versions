@@ -49,7 +49,7 @@ Skip to main content
 *   $37,265 as shown1 2019 Sienna $31,115 starting1  
     19/27 est MPG22 Build Specials
 
-*   $34,685 as shown1 2018 Tacoma $25,400 starting1  
+*   $36,465 as shown1 2019 Tacoma $25,550 starting1  
     18/22 est MPG3 Build Specials
 *   $45,600 as shown1 2019 Tundra $31,420 starting1  
     15/19 est MPG20 Build Specials
@@ -60,12 +60,12 @@ Skip to main content
     23/30 est MPG3 Build Specials
 *   Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
     34/30 est MPG3 Build Specials
-*   Hybrid Available $41,750 as shown1 2018 Highlander $31,230 starting1  
-    21/27 est MPG3 Build Specials
-*   Hybrid $48,480 as shown1 2018 Highlander Hybrid $36,870 starting1  
-    30/28 est MPG3 Build Specials
-*   $39,895 as shown1 2018 4Runner $34,810 starting1  
-    17/21 est MPG3 Build Specials
+*   Hybrid Available $41,900 as shown1 2019 Highlander $31,330 starting1  
+    21/27 est MPG20 Build Specials
+*   Hybrid $48,630 as shown1 2019 Highlander Hybrid $36,970 starting1  
+    30/28 est MPG20 Build Specials
+*   $39,995 as shown1 2019 4Runner $34,910 starting1  
+    17/21 est MPG20 Build Specials
 *   $57,195 as shown1 2019 Sequoia $48,700 starting1  
     13/17 est MPG19 Build Specials
 *   $84,765 as shown1 2019 Land Cruiser $84,765 starting1  
@@ -77,8 +77,8 @@ Skip to main content
     43/44 est MPG20 Build Specials
 *   Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
     34/30 est MPG3 Build Specials
-*   Hybrid $48,480 as shown1 2018 Highlander Hybrid $36,870 starting1  
-    30/28 est MPG3 Build Specials
+*   Hybrid $48,630 as shown1 2019 Highlander Hybrid $36,970 starting1  
+    30/28 est MPG20 Build Specials
 *   Plug-In Hybrid $33,300 as shown1 2018 Prius Prime $27,300 starting1  
     54/133 est MPG10 Build Specials
 *   Hybrid $32,115 as shown1 2018 Prius $23,475 starting1  
@@ -127,21 +127,21 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 43/44 est MPG20 Fuel Cell Vehicle $58,365 as shown1 2018 Mirai $58,365 starting1  
 67/67 est MPG14 $28,585 as shown1 2019 86 $26,455 starting1  
 21/28 est MPG20 $37,265 as shown1 2019 Sienna $31,115 starting1  
-19/27 est MPG22 Trucks $34,685 as shown1 2018 Tacoma $25,400 starting1  
+19/27 est MPG22 Trucks $36,465 as shown1 2019 Tacoma $25,550 starting1  
 18/22 est MPG3 $45,600 as shown1 2019 Tundra $31,420 starting1  
 15/19 est MPG20 Crossovers &. SUVs $26,000 as shown1 2019 C-HR $20,945 starting1  
 27/31 est MPG20 Hybrid Available $29,545 as shown1 2018 RAV4 $24,660 starting1  
 23/30 est MPG3 Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
-34/30 est MPG3 Hybrid Available $41,750 as shown1 2018 Highlander $31,230 starting1  
-21/27 est MPG3 Hybrid $48,480 as shown1 2018 Highlander Hybrid $36,870 starting1  
-30/28 est MPG3 $39,895 as shown1 2018 4Runner $34,810 starting1  
-17/21 est MPG3 $57,195 as shown1 2019 Sequoia $48,700 starting1  
+34/30 est MPG3 Hybrid Available $41,900 as shown1 2019 Highlander $31,330 starting1  
+21/27 est MPG20 Hybrid $48,630 as shown1 2019 Highlander Hybrid $36,970 starting1  
+30/28 est MPG20 $39,995 as shown1 2019 4Runner $34,910 starting1  
+17/21 est MPG20 $57,195 as shown1 2019 Sequoia $48,700 starting1  
 13/17 est MPG19 $84,765 as shown1 2019 Land Cruiser $84,765 starting1  
 13/18 est MPG20 Hybrids &. Fuel Cell Hybrid $32,725 as shown1 2019 Camry Hybrid $28,150 starting1  
 51/53 est MPG20 Hybrid $42,800 as shown1 All New 2019 Avalon Hybrid $36,500 starting1  
 43/44 est MPG20 Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
-34/30 est MPG3 Hybrid $48,480 as shown1 2018 Highlander Hybrid $36,870 starting1  
-30/28 est MPG3 Plug-In Hybrid $33,300 as shown1 2018 Prius Prime $27,300 starting1  
+34/30 est MPG3 Hybrid $48,630 as shown1 2019 Highlander Hybrid $36,970 starting1  
+30/28 est MPG20 Plug-In Hybrid $33,300 as shown1 2018 Prius Prime $27,300 starting1  
 54/133 est MPG10 Hybrid $32,115 as shown1 2018 Prius $23,475 starting1  
 54/50 est MPG17 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
 48/43 est MPG20 Fuel Cell Vehicle $58,365 as shown1 2018 Mirai $58,365 starting1  
