@@ -974,9 +974,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 25% off full-price styles!
+Receive 31% off your order!
 
-code: LEAVES pin: 1001 DETAILS
+code: CANDY pin: 6336 DETAILS
 
 Customer Service Menu
 
