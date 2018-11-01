@@ -322,18 +322,6 @@ Offers
     
     Pre-order tickets to 'The Grinch' and get a FREE\* t-shirt while supplies last (S&H not included). BUY TICKETS
     
-*   Fandango VIP
-    
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
-    
-*   FandangoNOW Binge Bundles
-    
-    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
-    
-*   FandangoNOW Fresh Picks: October
-    
-    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
-    
 
 New + Coming soon
 
@@ -379,4 +367,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
