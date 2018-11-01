@@ -147,7 +147,7 @@ ENTERTAINMENT COLLECTION
 
 Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe
 
-SPECIAL OFFER EXTENDED - Save up to 25% on our most popular software. Ends October 31. Buy now 
+FINAL HOURS - Save up to 25% on our most popular software including AutoCAD &. AutoCAD LT. Buy now 
 
 Try, buy, or learn more about Autodesk products See all products
 
