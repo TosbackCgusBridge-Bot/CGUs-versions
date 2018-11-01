@@ -8,9 +8,38 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Alexis Bittar
+    *   Tipsy Elves
+    *   Tipsy Elves Men
+    *   Kids' Holiday Preview: Giftable Shoes
+    *   Kids' Holiday Preview: PJs, Sets, Toys &. More
+    *   Gracia
+    *   Cotton On &. Co.
+    *   Dr. Martens Up to 50% Off
+    *   Coats for Every Style
+    *   Always On Trend: Denim Starting at $25
+    *   Tahitian Pearl Jewelry &. More Under $80
+    *   Affliction
+    *   Earring Edit: Chic Styles Under $30
+    *   Blend Mineral Cosmetics
+    *   Men's Fall Coat Refresh
+    *   Ben Sherman Shoes Up to 65% Off
+    *   Free Shipping True &. Tidy Steamers
+    *   Cotton On &. Co. Kids
+    *   Men's Twill Pants Starting at $30
+    *   Geox Up to 55% Off
+    *   Best Feet Forward: Socks &. Leg Warmers
+    *   Boots Starting at $25
+    *   Charles by Charles David from $40
+    *   Fall's Must-Have Leather Bags
+    *   Satva Yoga Under $30
+    *   Lois Hill: Intricately Detailed Sterling Silver
+    *   Bacco Bucci
+    *   Cotton On &. Co. Men
+    *   Infinity Gold Hair Tools
+    *   Free Shipping: Giftable Decor &. More from $13
+    
+    *   High Tech Style: Anoraks, Trenches &. More
     *   Aquatalia Up to 55% Off
-    *   Max Studio
     *   Psycho Bunny
     *   Fall Favorites ft. Fate
     *   On-Trend Denim ft. Plus &. Petites
@@ -34,16 +63,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   TOMS Starting at $35
     *   TOMS Men Starting at $30
     *   TOMS Kids Starting at $20
-    *   High Tech Style: Anoraks, Trenches &. More
     *   Milk Makeup
-    *   New from GOOD LUCK GEM
-    *   Dress Forum
-    *   Olive &. Oak Under $30
-    *   Disney Handbags &. More ft. Danielle Nicole
-    
     *   Bench. Up to 70% Off
     *   Good Man Brand Up to 70% Off
     *   Free Shipping: Colorfully Bold Wall Art
+    
     *   Guest Ready: Holiday Pillows
     *   Nest Jewelry: Agate &. Gemstones
     *   Melissa &. Doug: Holiday Head Start
@@ -51,65 +75,52 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Organization Essentials Starting at $10
     *   Rogue Starting at $13
     *   Warm for Winter: Dog Jackets, Sweaters &. More
-    *   TOMS Sun
-    *   Lucchese: Handmade Since 1883
-    *   LOVE Moschino
-    *   Work It: C&C California Sport &. More
-    *   Great Lengths: Long Sleeve Blouses from $17
-    *   Free Shipping: On-Trend Jewelry from $15
     *   Free Shipping: Kitchen Blowout
-    *   One-of-a-Kind Bags &. More Up to 80% Off
-    *   Shoe Steals ft. Superga Up to 70% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Men's Shoes Up to 65% Off
-    *   rag &. bone Up to 65% Off
-    *   rag &. bone Men Up to 60% Off
-    *   rag &. bone Shoes Up to 60% Off
-    *   rag &. bone Handbags Up to 50% Off
     *   Free Shipping: Eddie Bauer Bedding
-    *   Bravado Designs Maternity &. Nursing Intimates
     *   JACK &. JONES Starting at $13
-    *   Soul Journey Jewelry
-    *   Best for Baby: Footies, Sets &. More
-    *   Get into Gear: Must-Haves ft. Baby Tula
-    *   Kids' Rain Boots ft. Lilly of New York from $10
-    
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
-    *   Sterling Silver Jewelry Starting at $15
     *   O'o Hawaii Skin Care
     *   Tailorbyrd Starting at $25
     *   Kenneth Cole New York Men Up to 50% Off
     *   Predire Paris Luxury Skin Care
-    *   Tavik Outerwear &. More
-    *   Perry Ellis
     *   Comfy Quilts
-    *   XRAY Up to 70% Off
     *   ProCabello Hair Tools
-    *   Men's Sweater Shop Under $100
-    *   Stacy Adams
-    *   Men's Rugged &. Work Boots Up to 60% Off
-    *   Free Shipping: Whimsical Wall Art
-    *   Natural Beauty: E Nature Korean Skin Care
-    *   Rouge Bunny Rouge Cosmetics
-    *   Free Shipping: Brazilian Cowhide Up to 80% Off
+    *   Cashmere Shop ft. Knyt &. Lynk
+    *   Lola Made In Italy Up to 75% Off
     *   Home Organization
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Accent Furniture Under $200
-    *   Free Shipping: Traditional Rugs Up to 75% Off
-    *   Free Shipping: Ultra-Soft Towels Starting at $10
-    *   Pillows That Pop
-    *   Cashmere Shop ft. Knyt &. Lynk
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Kenneth Cole New York
-    *   Sunday Steals Up to 75% Off
-    *   ARATTA Up to 70% Off
-    *   Lola Made In Italy Up to 75% Off
+    *   Get Ready: Festive Holiday Decor
+    *   Free Shipping: Tailgate Must-Haves
+    *   Max Studio
+    *   Free Shipping: Whimsical Wall Art
+    *   Free Shipping: Brazilian Cowhide Up to 80% Off
 *   WomenShop Sale Events
     
-    *   Alexis Bittar
+    *   Tipsy Elves
+    *   Gracia
+    *   Cotton On &. Co.
+    *   Dr. Martens Up to 50% Off
+    *   Coats for Every Style
+    *   Always On Trend: Denim Starting at $25
+    *   Tahitian Pearl Jewelry &. More Under $80
+    *   Affliction
+    *   Earring Edit: Chic Styles Under $30
+    *   Blend Mineral Cosmetics
+    *   Geox Up to 55% Off
+    *   Best Feet Forward: Socks &. Leg Warmers
+    *   Boots Starting at $25
+    *   Charles by Charles David from $40
+    *   Fall's Must-Have Leather Bags
+    *   Satva Yoga Under $30
+    *   Lois Hill: Intricately Detailed Sterling Silver
+    *   Infinity Gold Hair Tools
+    *   High Tech Style: Anoraks, Trenches &. More
     *   Aquatalia Up to 55% Off
-    *   Max Studio
     *   Fall Favorites ft. Fate
+    
     *   On-Trend Denim ft. Plus &. Petites
     *   Salvatore Ferragamo Watches &. Accessories
     *   Lush Under $25
@@ -121,74 +132,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Slippers for the Family ft. MUK LUKS
     *   L'Amour Des Pieds Up to 55% Off
     *   TOMS Starting at $35
-    *   High Tech Style: Anoraks, Trenches &. More
     *   Milk Makeup
-    *   New from GOOD LUCK GEM
-    *   Dress Forum
-    *   Olive &. Oak Under $30
-    *   Disney Handbags &. More ft. Danielle Nicole
     *   Nest Jewelry: Agate &. Gemstones
     *   K-Beauty Faves: Klairs &. By Wishtrend
-    *   TOMS Sun
-    
-    *   Lucchese: Handmade Since 1883
-    *   LOVE Moschino
-    *   Work It: C&C California Sport &. More
-    *   Great Lengths: Long Sleeve Blouses from $17
-    *   Free Shipping: On-Trend Jewelry from $15
-    *   One-of-a-Kind Bags &. More Up to 80% Off
-    *   Shoe Steals ft. Superga Up to 70% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   rag &. bone Up to 65% Off
-    *   rag &. bone Shoes Up to 60% Off
-    *   rag &. bone Handbags Up to 50% Off
-    *   Soul Journey Jewelry
-    *   Sterling Silver Jewelry Starting at $15
     *   O'o Hawaii Skin Care
     *   Predire Paris Luxury Skin Care
     *   ProCabello Hair Tools
-    *   Natural Beauty: E Nature Korean Skin Care
-    *   Rouge Bunny Rouge Cosmetics
     *   Cashmere Shop ft. Knyt &. Lynk
-    *   Romeo &. Juliet Couture Up to 75% Off
-    *   Kenneth Cole New York
-    *   Sunday Steals Up to 75% Off
-    *   ARATTA Up to 70% Off
     *   Lola Made In Italy Up to 75% Off
+    *   Max Studio
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Accessories
     *   Lingerie
+    *   Accessories
     *   Watches
-    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Tipsy Elves Men
+    *   Men's Fall Coat Refresh
+    *   Ben Sherman Shoes Up to 65% Off
+    *   Men's Twill Pants Starting at $30
+    *   Bacco Bucci
+    *   Cotton On &. Co. Men
     *   Psycho Bunny
     *   Salvatore Ferragamo Watches &. Accessories
     *   BC Collection Up to 75% Off
     *   Slippers for the Family ft. MUK LUKS
+    
     *   Nordstrom Rack Suits &. More
     *   TOMS Men Starting at $30
     *   Bench. Up to 70% Off
     *   Good Man Brand Up to 70% Off
     *   Rogue Starting at $13
-    *   TOMS Sun
     *   Men's Shoes Up to 65% Off
-    
-    *   rag &. bone Men Up to 60% Off
     *   JACK &. JONES Starting at $13
     *   Tailorbyrd Starting at $25
     *   Kenneth Cole New York Men Up to 50% Off
-    *   Tavik Outerwear &. More
-    *   Perry Ellis
-    *   XRAY Up to 70% Off
-    *   Men's Sweater Shop Under $100
-    *   Stacy Adams
-    *   Men's Rugged &. Work Boots Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -196,26 +180,29 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Kids' Holiday Preview: Giftable Shoes
+    *   Kids' Holiday Preview: PJs, Sets, Toys &. More
+    *   Cotton On &. Co. Kids
     *   Mia Belle Girls
     *   Kids' Kicks from Naturino
     *   Slippers for the Family ft. MUK LUKS
     *   TOMS Kids Starting at $20
     *   Melissa &. Doug: Holiday Head Start
-    *   Bravado Designs Maternity &. Nursing Intimates
-    *   Best for Baby: Footies, Sets &. More
-    *   Get into Gear: Must-Haves ft. Baby Tula
-    *   Kids' Rain Boots ft. Lilly of New York from $10
     
     Shop By Category
     *   Girls Sizes 2T-6X
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Baby Gear &. Essentials
+    *   Boys Sizes 8-20
+    *   Girls Sizes 7-16
     *   Baby Girl
-    *   Baby Boy
     *   Toys
+    *   Baby Boy
+    *   Boys Sizes 2T-7
 *   HomeShop Sale Events
     
+    *   Free Shipping True &. Tidy Steamers
+    *   Free Shipping: Giftable Decor &. More from $13
     *   Free Shipping: Comfy Blankets &. More
     *   Warm Up: Coffee &. Tea Makers
     *   Free Shipping: Marmont Hill Wall Art
@@ -225,32 +212,32 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Organization Essentials Starting at $10
     *   Warm for Winter: Dog Jackets, Sweaters &. More
     *   Free Shipping: Kitchen Blowout
-    *   Free Shipping: Eddie Bauer Bedding
     
+    *   Free Shipping: Eddie Bauer Bedding
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Comfy Quilts
-    *   Free Shipping: Whimsical Wall Art
-    *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   Home Organization
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Accent Furniture Under $200
-    *   Free Shipping: Traditional Rugs Up to 75% Off
-    *   Free Shipping: Ultra-Soft Towels Starting at $10
-    *   Pillows That Pop
+    *   Get Ready: Festive Holiday Decor
+    *   Free Shipping: Tailgate Must-Haves
+    *   Free Shipping: Whimsical Wall Art
+    *   Free Shipping: Brazilian Cowhide Up to 80% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Rugs
-    *   Accent Furniture
     *   Storage &. Cleaning
+    *   Accent Furniture
+    *   Rugs
     *   Pet Accessories
-    *   Bath
-    *   Luggage &. Travel
     *   Outdoor Living
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Blend Mineral Cosmetics
+    *   Infinity Gold Hair Tools
     *   PURA D'OR Hair Care
     *   Milk Makeup
     *   K-Beauty Faves: Klairs &. By Wishtrend
@@ -258,8 +245,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   O'o Hawaii Skin Care
     *   Predire Paris Luxury Skin Care
     *   ProCabello Hair Tools
-    *   Natural Beauty: E Nature Korean Skin Care
-    *   Rouge Bunny Rouge Cosmetics
     
     Shop By Category
     *   Makeup
