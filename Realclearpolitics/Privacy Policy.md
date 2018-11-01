@@ -43,11 +43,13 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   Adele Malpass
     *   Sean Trende
     *   Columnist
-    *   A.B. Stoddard
-    *   Contributors
     *   Bill Scher
+    *   A.B. Stoddard
+    *   Frank Miele
+    *   Contributors
     *   Lou Cannon
     *   Charles Lipson
+    *   Anneke E Green
     *   Mark Salter
     *   Joel Kotkin
     *   Peter Berkowitz
@@ -109,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Dennis Prager_: The Pittsburgh Synagogue, Anti-Semitism and Trump
+*   _Jason Riley_: Democrats Struggle to Confront Trump-Era Reality
     
-*   _Catherine Rampell_: Trump Isn't to Blame. His Entire Party Is
+*   _Michael Bloomberg_: Trump Makes the Case for a Democratic Congress
     
-*   _Ned Ryun_: In Defense of Americanism
+*   _Mollie Hemingway_: Why Did Dems Abandon Investigation Into Kavanaugh?
     
-*   _John Nichols_: A New Reason to Impeach Trump: Birthright Citizenship
+*   _Garrett Epps_: The Citizenship Clause Means What It Says
     
-*   _Roger Kimball_: The Audacity of Barack Obama's Lying
+*   _John Eastman_: Revoking Birthright Citizenship Would Enforce Constitution
     
-*   _Ezra Klein_: How Trump Makes the Media Into the Opposition
+*   _Tom Perez_: Fight Republicans' Bigotry With Your Ballot
     
-*   _Lisa Boothe_: The Media's Orchestrated Smear of Brett Kavanaugh
+*   _Julie Kelly_: Is Trump's Republican Party Attracting Young Conservative Blacks?
     
-*   _Marcy Wheeler_: If Trump Fires Mueller, a Dem House Can Salvage the Probe
+*   _Reed Galen_: November Is Coming. Change Isn't.
     
-*   _Byron York_: Finally, a Day of Reckoning for Michael Avenatti?
+*   _Dean Kuipers_: 3 Ways to Combat Climate Change Through the Courts
     
-*   _Carl Cannon_: Marshall's Plan: To Build Up Europe, Not His Image
+*   _Robert Smith_: At 1st Whiff, New York AG's ExxonMobil Lawsuit Stinks
     
-*   _Jonathan Turley_: Cultural Appropriation Turns Halloween Into a Nightmare
+*   _Amy Sorkin_: After Merkel, Who Will Lead Germany--and Europe?
     
-*   _Rahm Emanuel_: Biggest Story of Midterms Is One Dems Aren't Telling
+*   _John Cassidy_: Trump Launches Operation Midterms Diversion
     
-*   _David Freedlander_: Do Blue-Collar Dems Want What 'New Left' Is Delivering?
+*   _Michael Goodwin_: Why Dems Are Staying Silent About the Migrant Caravan
     
-*   _Sean Trende_: 6 Looming Uncertainties as Midterms Come to a Close
+*   _Jamelle Bouie_: Trump's Rhetoric Enables Racially Violent Acts
     
-*   _James Bruno_: Two Congressional Races Show What's at Stake
+*   _Marc Thiessen_: Dems Are Hypocrites About Violent Political Rhetoric
     
-*   _Robert Merry_: What Happens When the Caravan Gets Here?
+*   _Steve Vladeck_: Trump's Plan to End Birthright Citizenship Is a Sham
     
-*   _Matt Barreto_: Why Trump's Attacks on Immigrants Will Backfire
+*   _Pedro Gonzalez_: Birthright Citizenship and Its Allies
     
-*   _Steve Cortes_: After Pittsburgh, Unfair Attacks on American Nationalism
+*   _Raul Reyes_: Latino Voters: Now Is Your Chance to Push Back at Trump
     
-*   _Paul Krugman_: Hate Is on the Ballot Next Week
+*   _Katie Pavlich_: Arizona Doesn't Deserve Kyrsten Sinema
     
-*   _Steve Hilton_: The Truth About the Climate of Rage and Hate
+*   _Gary Younge_: In WI, Trump's Base Is Fired Up, But Will That Be Enough?
     
-*   _Leonid Bershidsky_: Don't Write Off Merkel Just Yet
+*   _Robert Stacy McCain_: Dems &. Their Media Allies Seek to Silence Their Critics
     
-*   _Morgan Ortagus_: Trump Can Win at Foreign Policy in a Divided Govt
+*   _Chris Cillizza_: Sarah Sanders Can't Name a Single 'Fake News' Outlet
     
-*   _Dominic Rushe_: Can Young Voters Save WI From Walker's Hard-Right Grip?
+*   _Kalev Leetaru_: Data Show Trump Is Right About Mail Bomber Coverage
     
-*   _Noah Rothman_: Bob Menendez and the Shame of the Star-Ledger
+*   _Markay &. Sommer_: Inside the Crazy Cabal Trying to Smear Robert Mueller
     
 
 *   Previous
@@ -208,6 +210,32 @@ If you have any further question about this Privacy Policy, please contact us at
 
   
   
+RecommendedPolitics
+
+*   Politics
+*   Markets
+*   World
+*   Science
+*   History
+*   Future
+*   Energy
+*   Health
+*   Policy
+*   Religion
+*   Defense
+*   Sports
+*   Education
+*   Books
+*   Investigations
+
+*   6 Looming Uncertainties as Midterms Come to a Close
+*   With Redistricting in Mind, Dems' Midterm Focus Is on States
+*   Trump: Nationalism Means I Love the Country, I Want to Take Care of U.S. First
+*   Is Trump Transforming Midterms With Arena-Size Rallies?
+*   Obama Rips Trump, Republicans in Fiery Speeches for Midwest Dems
+*   Presidential Job Approval
+*   Cartoons of the Week
+
 Latest PollsAll Polls
 
 *   All Polls
@@ -217,26 +245,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Tennessee Senate - Blackburn vs. BredesenNBC News/Marist
-    *   Blackburn51
-    *   Bredesen46Blackburn +5
-*   Tennessee Governor - Lee vs. DeanNBC News/Marist
-    *   Lee57
-    *   Dean40Lee +17
-*   Kansas 2nd District - Watkins vs. DavisNY Times/Siena
-    *   Davis41
-    *   Watkins37Davis +4
-*   North Carolina 9th District - Harris vs. McCreadyNY Times/Siena
-    *   Harris45
-    *   McCready44Harris +1
+*   Arizona Senate - McSally vs. SinemaABC 15/OH Predictive Insights\*
+    *   Sinema45
+    *   McSally52McSally +7
+*   New Jersey 7th District - Lance vs. MalinowskiNY Times/Siena
+    *   Malinowski47
+    *   Lance39Malinowski +8
+*   Arizona Senate - McSally vs. SinemaFOX News
+    *   Sinema46
+    *   McSally46Tie
+*   Arizona Senate - McSally vs. SinemaCNN
+    *   Sinema51
+    *   McSally47Sinema +4
 
 More Latest Polls In The News
 
-*   Gloria Borger: "Elections Are Always About Fear," But Trump Is Pushing It With "Caravan," 14th Amendment
-*   Trump: Nationalism Means I Love The Country. I'm Not A Globalist, I Want To Take Care Of United States First
-*   CNN Acosta vs. Huckabee Sanders: Have The Guts To Name Which Journalists Are The Enemy Of The People
-*   Huckabee Sanders to NBC Reporter: You Have Huge Role In Dividing Country, 90% Of News Is Anti-Trump
-*   Scarborough Links Caravan "Frenzy" To Synagogue Shooting: Trump "Spreading Hatred Across America"
+*   CNN's Toobin vs. Kris Kobach: You Have Devoted Your Life To Stopping Poor And Black People From Voting
+*   Acosta: Trump Using "Hostile Rhetoric" Aimed At Immigrants, "Trying To Drive Up The Rage" To Get Voters
+*   RNC Chair Ronna McDaniel: Republicans Keep Control Of House, May Pick Up More Senate Seats
+*   Carlson: Establishment Siding With Foreigners Over Its Own People, That Tells You Everything
+*   Don Lemon: "Biggest Terror Threat In This Country Is White Men". We Had Muslim Ban, Why No "White Guy Ban?"
 
 *   Politics
 *   Policy
