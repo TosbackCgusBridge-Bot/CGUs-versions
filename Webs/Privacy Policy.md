@@ -1,5 +1,3 @@
-On 10/31 at 11:30pm EST, we will be performing scheduled maintenance on our servers. We expect 2 hours of downtime.
-
 Free Website Builder by Webs
 
 *   How It Works
