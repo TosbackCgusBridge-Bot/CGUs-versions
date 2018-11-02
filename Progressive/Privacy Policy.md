@@ -199,6 +199,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Health
         *   Home Financing
         *   Home Refinancing
+        *   Home Security
         *   ID Theft
         *   Life
         *   Mexico Auto
