@@ -18,6 +18,7 @@ Navigation
     *   FarmVille Tropic Escape
     *   Solitaire
     *   Wizard of Oz Magic Match
+    *   Wonka's World of Candy
     *   Words With Friends 2
     *   Yummy Gummy
 *   CASINO
