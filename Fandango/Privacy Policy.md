@@ -74,7 +74,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   'It' Director Andy Muschietti Plans an 'Attack on Titan' Movie. Here's Everything We Know Read More
     *   New 'Flash Gordon' on Its Way From 'Overlord' Director. Here's Everything We Know Read More
-    *   New 'Clueless' on Its Way. Here's Everything We Know Read More
+    *   Ewan McGregor Joins 'Birds of Prey'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -360,7 +360,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   October Celebrity Birthdays
+*   November Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
