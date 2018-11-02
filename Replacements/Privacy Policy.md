@@ -45,6 +45,7 @@ Specials
 *   Save Up to 50%
 *   Yard Sale
 *   Warehouse Sale
+*   Lookbooks
 
 Specialty Shops
 
@@ -63,7 +64,7 @@ Get Inspired
 *   The Dish - Blog
 *   Top Styles
 
-My Account Contact Us Shopping Cart Cart0 China  
+The Christmas Shoppe My Account Contact Us Shopping Cart Cart0 China  
 Dinnerware Crystal  
 Glassware Silver  
 Flatware Estate  
@@ -172,15 +173,16 @@ Jewelry
     *   Yard Sale
     
     *   Dinnerware Sets &. More
-    *   Warehouse SaleExplore Our Lookbooks >.
+    *   Warehouse Sale
+    *   LookbooksExplore Our Lookbooks >.
 
 *   Our Story
 *   Services
 *   Specialty Shops
-*   Get Inspired
 *   Register Patterns
 *   Store
 *   Contact Us
+*   The Christmas Shoppe
 
 Privacy Policy
 
@@ -326,14 +328,14 @@ By using our website, you signify your consent to the Privacy Policy of Replacem
 
 Last Updated: 05/24/2018
 
-Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Company Our Story Frequently Asked Questions In the News Careers Our Blog Services Pattern Identification Help Find This For Me Restoration and Repair Other Services
+1-800-REPLACE My Account Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Company Our Story Frequently Asked Questions In the News Careers Our Blog Designer Program Services Pattern Identification Help Find This For Me Restoration and Repair Other Services
 
 *   Follow Us
 
-1-800-REPLACE Our Blog | My Account Terms &. Conditions | Site Map | Privacy Policy
+1-800-REPLACE Our Blog Designer Program Terms &. Conditions | Site Map | Privacy Policy
 
 © 2018 Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301, USA
 
 <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PR6WVR' height='0' width='0' style='display:none;visibility:hidden'></iframe>.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2038432706376108&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2617602201571&amp;noscript=1">. <img src="https://events.xg4ken.com/pixel/v2?tid=KT-N3354-3EB&amp;noscript=1" width="1" height="1" style="display:none">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2038432706376108&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2617602201571&amp;noscript=1">. <img src="https://events.xg4ken.com/pixel/v2?tid=KT-N3354-3EB&amp;noscript=1" width="1" height="1" style="display:none">. Ideas Just For You×PlattersBlenko Online Signing EventTureens &. ServersExclusives
