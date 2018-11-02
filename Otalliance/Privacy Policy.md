@@ -47,7 +47,6 @@ Skip to main content Online Trust Alliance
     _▼_
 *   About Us
     
-    *   Members
     *   History &. Overview
     *   Staff
     *   Report a Site Vulnerability
@@ -61,7 +60,7 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Facebook Twitter LinkedIn Email Addthis Home › Privacy Statement Privacy Statement
+Home › Privacy Statement Privacy Statement
 
 The Online Trust Alliance is now part of the Internet Society (ISOC) and governed by ISOC's Privacy Statement. As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here. Questions please email privacy@isoc.org.   
 
@@ -117,7 +116,6 @@ More >>. Main menu
 *   Membership
     *   Member Portal
 *   About Us
-    *   Members
     *   History &. Overview
     *   Staff
     *   Report a Site Vulnerability
@@ -144,7 +142,6 @@ Membership
 
 About Us
 
-*   Members
 *   History &. Overview
 *   Staff
 *   Report a Site Vulnerability
