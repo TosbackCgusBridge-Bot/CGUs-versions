@@ -145,11 +145,7 @@ Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free tri
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe
-
-FINAL HOURS - Save up to 25% on our most popular software including AutoCAD &. AutoCAD LT. Buy now 
-
-Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
@@ -161,7 +157,7 @@ Subscribe
 
 —/year
 
-Cost-effective 2D CAD
+Software for Building Information Modeling
 
 Learn more
 
@@ -171,7 +167,7 @@ Subscribe
 
 —/year
 
-Get Revit LT and AutoCAD LT together at a great value
+Fast, creative toolset for 3D animation, modeling, simulation, and rendering
 
 Learn more
 
