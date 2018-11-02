@@ -8,12 +8,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Tipsy Elves
-    *   Tipsy Elves Men
-    *   Kids' Holiday Preview: Giftable Shoes
-    *   Kids' Holiday Preview: PJs, Sets, Toys &. More
+    *   ALEX AND ANI Starting at $15
+    *   Merrell
+    *   Best of the Season: Fall Dresses We Love
+    *   Derek Lam 10 Crosby
+    *   Logo Lounge &. Sleep ft. Retrospective
+    *   James Jeans
+    *   Endless Rose
+    *   7 For All Mankind Men
+    *   Raymond Weil Luxury Swiss Watches
+    *   Season's Best Sweaters Up to 70% Off
+    *   Free Shipping: Duvet Sets, Sheets &. More
+    *   Merrell Men
+    *   Reina Rebelde Cosmetics Starting at $10
+    *   World's Best Tweezers
+    *   Little Miss Twin Stars
+    *   Kristin Cavallari by Chinese Laundry
+    *   J. Renee Up to 60% Off
+    *   Betsey Johnson Handbags Under $60
+    *   Sun Brands We Love ft. Marc Jacobs
+    *   BAABUK Wool Sneakers for Women &. Men
+    *   Ella Moss Girls &. More
+    *   English Laundry Up to 60% Off
+    *   Boys' Dress Shoes ft. Deer Stags
+    *   On-Trend for Fall: Casual Button-Down Shirts
+    *   Joe Fresh Starting at $12
+    *   Premium Brand Shop: Great Finds for Kids
+    *   NutriChef Kitchen Electrics Up to 65% Off
+    *   Festive Farmhouse: Holiday Decor &. More
     *   Gracia
     *   Cotton On &. Co.
+    
     *   Dr. Martens Up to 50% Off
     *   Coats for Every Style
     *   Always On Trend: Denim Starting at $25
@@ -37,74 +62,66 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cotton On &. Co. Men
     *   Infinity Gold Hair Tools
     *   Free Shipping: Giftable Decor &. More from $13
-    
-    *   High Tech Style: Anoraks, Trenches &. More
-    *   Aquatalia Up to 55% Off
     *   Psycho Bunny
-    *   Fall Favorites ft. Fate
-    *   On-Trend Denim ft. Plus &. Petites
-    *   Salvatore Ferragamo Watches &. Accessories
-    *   Lush Under $25
-    *   FAVLUX
     *   PURA D'OR Hair Care
-    *   Pack These: Swim, Kaftans &. More
     *   Free Shipping: Comfy Blankets &. More
     *   Warm Up: Coffee &. Tea Makers
     *   Mia Belle Girls
     *   BC Collection Up to 75% Off
     *   Free Shipping: Marmont Hill Wall Art
-    *   Hit Snooze: Sleep &. Lounge Faves
-    *   Simply Couture Up to 70% Off
+    
     *   Free Shipping: Contemporary Accent Furniture
     *   Kids' Kicks from Naturino
-    *   Slippers for the Family ft. MUK LUKS
-    *   L'Amour Des Pieds Up to 55% Off
     *   Nordstrom Rack Suits &. More
-    *   TOMS Starting at $35
-    *   TOMS Men Starting at $30
-    *   TOMS Kids Starting at $20
     *   Milk Makeup
     *   Bench. Up to 70% Off
     *   Good Man Brand Up to 70% Off
     *   Free Shipping: Colorfully Bold Wall Art
-    
     *   Guest Ready: Holiday Pillows
-    *   Nest Jewelry: Agate &. Gemstones
-    *   Melissa &. Doug: Holiday Head Start
     *   K-Beauty Faves: Klairs &. By Wishtrend
     *   Organization Essentials Starting at $10
     *   Rogue Starting at $13
     *   Warm for Winter: Dog Jackets, Sweaters &. More
     *   Free Shipping: Kitchen Blowout
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Men's Shoes Up to 65% Off
     *   Free Shipping: Eddie Bauer Bedding
-    *   JACK &. JONES Starting at $13
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   O'o Hawaii Skin Care
-    *   Tailorbyrd Starting at $25
-    *   Kenneth Cole New York Men Up to 50% Off
-    *   Predire Paris Luxury Skin Care
     *   Comfy Quilts
-    *   ProCabello Hair Tools
-    *   Cashmere Shop ft. Knyt &. Lynk
-    *   Lola Made In Italy Up to 75% Off
-    *   Home Organization
-    *   Free Shipping: Hand-Painted Replicas
-    *   Free Shipping: Accent Furniture Under $200
+    *   Free Shipping: Whimsical Wall Art
+    *   Free Shipping: Brazilian Cowhide Up to 80% Off
+    *   Tipsy Elves
+    *   Tipsy Elves Men
+    *   Kids' Holiday Preview: Giftable Shoes
+    *   Kids' Holiday Preview: PJs, Sets, Toys &. More
     *   Get Ready: Festive Holiday Decor
     *   Free Shipping: Tailgate Must-Haves
     *   Max Studio
-    *   Free Shipping: Whimsical Wall Art
-    *   Free Shipping: Brazilian Cowhide Up to 80% Off
+    *   FAVLUX
 *   WomenShop Sale Events
     
-    *   Tipsy Elves
+    *   ALEX AND ANI Starting at $15
+    *   Merrell
+    *   Best of the Season: Fall Dresses We Love
+    *   Derek Lam 10 Crosby
+    *   Logo Lounge &. Sleep ft. Retrospective
+    *   James Jeans
+    *   Endless Rose
+    *   Raymond Weil Luxury Swiss Watches
+    *   Season's Best Sweaters Up to 70% Off
+    *   Reina Rebelde Cosmetics Starting at $10
+    *   World's Best Tweezers
+    *   Kristin Cavallari by Chinese Laundry
+    *   J. Renee Up to 60% Off
+    *   Betsey Johnson Handbags Under $60
+    *   Sun Brands We Love ft. Marc Jacobs
+    *   BAABUK Wool Sneakers for Women &. Men
     *   Gracia
     *   Cotton On &. Co.
     *   Dr. Martens Up to 50% Off
     *   Coats for Every Style
     *   Always On Trend: Denim Starting at $25
+    
     *   Tahitian Pearl Jewelry &. More Under $80
     *   Affliction
     *   Earring Edit: Chic Styles Under $30
@@ -117,90 +134,77 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Satva Yoga Under $30
     *   Lois Hill: Intricately Detailed Sterling Silver
     *   Infinity Gold Hair Tools
-    *   High Tech Style: Anoraks, Trenches &. More
-    *   Aquatalia Up to 55% Off
-    *   Fall Favorites ft. Fate
-    
-    *   On-Trend Denim ft. Plus &. Petites
-    *   Salvatore Ferragamo Watches &. Accessories
-    *   Lush Under $25
-    *   FAVLUX
     *   PURA D'OR Hair Care
-    *   Pack These: Swim, Kaftans &. More
-    *   Hit Snooze: Sleep &. Lounge Faves
-    *   Simply Couture Up to 70% Off
-    *   Slippers for the Family ft. MUK LUKS
-    *   L'Amour Des Pieds Up to 55% Off
-    *   TOMS Starting at $35
     *   Milk Makeup
-    *   Nest Jewelry: Agate &. Gemstones
     *   K-Beauty Faves: Klairs &. By Wishtrend
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   O'o Hawaii Skin Care
-    *   Predire Paris Luxury Skin Care
-    *   ProCabello Hair Tools
-    *   Cashmere Shop ft. Knyt &. Lynk
-    *   Lola Made In Italy Up to 75% Off
+    *   Tipsy Elves
     *   Max Studio
+    *   FAVLUX
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
-    *   Lingerie
     *   Accessories
+    *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
-    *   Tipsy Elves Men
+    *   7 For All Mankind Men
+    *   Raymond Weil Luxury Swiss Watches
+    *   Merrell Men
+    *   English Laundry Up to 60% Off
+    *   On-Trend for Fall: Casual Button-Down Shirts
+    *   Joe Fresh Starting at $12
     *   Men's Fall Coat Refresh
     *   Ben Sherman Shoes Up to 65% Off
     *   Men's Twill Pants Starting at $30
+    
     *   Bacco Bucci
     *   Cotton On &. Co. Men
     *   Psycho Bunny
-    *   Salvatore Ferragamo Watches &. Accessories
     *   BC Collection Up to 75% Off
-    *   Slippers for the Family ft. MUK LUKS
-    
     *   Nordstrom Rack Suits &. More
-    *   TOMS Men Starting at $30
     *   Bench. Up to 70% Off
     *   Good Man Brand Up to 70% Off
     *   Rogue Starting at $13
-    *   Men's Shoes Up to 65% Off
-    *   JACK &. JONES Starting at $13
-    *   Tailorbyrd Starting at $25
-    *   Kenneth Cole New York Men Up to 50% Off
+    *   Tipsy Elves Men
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
-    *   Kids' Holiday Preview: Giftable Shoes
-    *   Kids' Holiday Preview: PJs, Sets, Toys &. More
+    *   Little Miss Twin Stars
+    *   Ella Moss Girls &. More
+    *   Boys' Dress Shoes ft. Deer Stags
+    *   Premium Brand Shop: Great Finds for Kids
     *   Cotton On &. Co. Kids
     *   Mia Belle Girls
     *   Kids' Kicks from Naturino
-    *   Slippers for the Family ft. MUK LUKS
-    *   TOMS Kids Starting at $20
-    *   Melissa &. Doug: Holiday Head Start
+    *   Kids' Holiday Preview: Giftable Shoes
+    *   Kids' Holiday Preview: PJs, Sets, Toys &. More
     
     Shop By Category
     *   Girls Sizes 2T-6X
+    *   Girls Sizes 7-16
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Boys Sizes 8-20
-    *   Girls Sizes 7-16
     *   Baby Girl
+    *   Boys Sizes 8-20
     *   Toys
-    *   Baby Boy
     *   Boys Sizes 2T-7
+    *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Duvet Sets, Sheets &. More
+    *   NutriChef Kitchen Electrics Up to 65% Off
+    *   Festive Farmhouse: Holiday Decor &. More
     *   Free Shipping True &. Tidy Steamers
     *   Free Shipping: Giftable Decor &. More from $13
     *   Free Shipping: Comfy Blankets &. More
@@ -209,33 +213,32 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Contemporary Accent Furniture
     *   Free Shipping: Colorfully Bold Wall Art
     *   Guest Ready: Holiday Pillows
+    
     *   Organization Essentials Starting at $10
     *   Warm for Winter: Dog Jackets, Sweaters &. More
     *   Free Shipping: Kitchen Blowout
-    
     *   Free Shipping: Eddie Bauer Bedding
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Comfy Quilts
-    *   Home Organization
-    *   Free Shipping: Hand-Painted Replicas
-    *   Free Shipping: Accent Furniture Under $200
-    *   Get Ready: Festive Holiday Decor
-    *   Free Shipping: Tailgate Must-Haves
     *   Free Shipping: Whimsical Wall Art
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
+    *   Get Ready: Festive Holiday Decor
+    *   Free Shipping: Tailgate Must-Haves
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Storage &. Cleaning
-    *   Accent Furniture
     *   Rugs
+    *   Storage &. Cleaning
     *   Pet Accessories
     *   Outdoor Living
+    *   Accent Furniture
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Reina Rebelde Cosmetics Starting at $10
+    *   World's Best Tweezers
     *   Blend Mineral Cosmetics
     *   Infinity Gold Hair Tools
     *   PURA D'OR Hair Care
@@ -243,8 +246,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   K-Beauty Faves: Klairs &. By Wishtrend
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   O'o Hawaii Skin Care
-    *   Predire Paris Luxury Skin Care
-    *   ProCabello Hair Tools
     
     Shop By Category
     *   Makeup
@@ -424,7 +425,7 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 
 *   About
 *   Careers
-*   Nordy Club
+*   The Nordy Club
 *   Gift Cards
 
 *   Member Care
