@@ -1,4 +1,4 @@
-*   OAK1-6SF1-7Thu, 8:20 pm ET
+*   OAK1-73SF2-734Final
 *   PIT4-2-1BAL4-4Sun, 1:00 pm ET
 *   CHI4-3BUF2-6Sun, 1:00 pm ET
 *   TB3-4CAR5-2Sun, 1:00 pm ET
@@ -29,7 +29,7 @@
 *   NFL Network
 *   Photos
 
-*   OAK1-6SF1-7Thu, 8:20 pm ET
+*   OAK3SF34Final
 *   PIT4-2-1BAL4-4Sun, 1:00 pm ET
 *   CHI4-3BUF2-6Sun, 1:00 pm ET
 *   TB3-4CAR5-2Sun, 1:00 pm ET
