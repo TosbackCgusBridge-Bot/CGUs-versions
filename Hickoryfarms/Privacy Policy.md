@@ -77,7 +77,7 @@
 
 *   Welcome!
 *   Log In
-*   Register
+*   Create Account
 
   0 Catalog Navigation
 
