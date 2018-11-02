@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jason Riley_: Democrats Struggle to Confront Trump-Era Reality
+*   _Flegenheimer &. Ember_: Ohio: 'When You Think You've Got It Figured Out, It Flips'
     
-*   _Michael Bloomberg_: Trump Makes the Case for a Democratic Congress
+*   _Sean Trende_: What a Republican Hold in the House Might Look Like
     
-*   _Mollie Hemingway_: Why Did Dems Abandon Investigation Into Kavanaugh?
+*   _Conor Friedersdorf_: Why I'm Casting a Party-Line Vote for Democrats
     
-*   _Garrett Epps_: The Citizenship Clause Means What It Says
+*   _Rachel Stoltzfoos_: The Democratic Party vs. the American Way of Life
     
-*   _John Eastman_: Revoking Birthright Citizenship Would Enforce Constitution
+*   _Ezra Klein_: Republicans Used to Have a Health Plan--Now They Just Have Lies
     
-*   _Tom Perez_: Fight Republicans' Bigotry With Your Ballot
+*   _Sen. Bill Cassidy_: Here's the Truth About Obamacare &. Pre-Existing Conditions
     
-*   _Julie Kelly_: Is Trump's Republican Party Attracting Young Conservative Blacks?
+*   _Bernie Marcus_: Trump Needs a Fed Chair Who Won't Ride the Brakes
     
-*   _Reed Galen_: November Is Coming. Change Isn't.
+*   _James Stavridis_: Other Than Venezuela, S. America Is Now U.S.-Friendly
     
-*   _Dean Kuipers_: 3 Ways to Combat Climate Change Through the Courts
+*   _Danny Danon_: We Can Learn From Israel's Effective Anti-Terror Methods
     
-*   _Robert Smith_: At 1st Whiff, New York AG's ExxonMobil Lawsuit Stinks
+*   _Halie Soifer_: Trump Didn't Pull the Trigger in Pittsburgh, But He Is to Blame
     
-*   _Amy Sorkin_: After Merkel, Who Will Lead Germany--and Europe?
+*   _Karin McQuillan_: Trump's the Best President Ever for American Jews
     
-*   _John Cassidy_: Trump Launches Operation Midterms Diversion
+*   _Conrad Black_: Trump's Truly Transformative Presidency
     
-*   _Michael Goodwin_: Why Dems Are Staying Silent About the Migrant Caravan
+*   _E.J. Dionne_: Election Pits the Polarizer vs. the Problem-Solvers
     
-*   _Jamelle Bouie_: Trump's Rhetoric Enables Racially Violent Acts
+*   _Andy Puzder_: Reversal of Obama Policies Has Created Booming Economy
     
-*   _Marc Thiessen_: Dems Are Hypocrites About Violent Political Rhetoric
+*   _Heather Parton_: Will Trump Finally Pay the Price for Bigotry?
     
-*   _Steve Vladeck_: Trump's Plan to End Birthright Citizenship Is a Sham
+*   _Keith Koffler_: Trump Has Disarmed Liberals of Their P.C. Weapons
     
-*   _Pedro Gonzalez_: Birthright Citizenship and Its Allies
+*   _David Catanese_: The Improbable Run of Andrew Gillum in Florida
     
-*   _Raul Reyes_: Latino Voters: Now Is Your Chance to Push Back at Trump
+*   _Sally Persons_: RNC Pushes to Incorporate Trump Voters Into Republican Base
     
-*   _Katie Pavlich_: Arizona Doesn't Deserve Kyrsten Sinema
+*   _Ross Douthat_: Why I'm Hoping for Democrats to Win the House
     
-*   _Gary Younge_: In WI, Trump's Base Is Fired Up, But Will That Be Enough?
+*   _Roger Kimball_: Republicans Holding House Would Accelerate Elites' Tailspin
     
-*   _Robert Stacy McCain_: Dems &. Their Media Allies Seek to Silence Their Critics
+*   _A.B. Stoddard_: 10 Known Unknowns of the Midterms
     
-*   _Chris Cillizza_: Sarah Sanders Can't Name a Single 'Fake News' Outlet
+*   _Jordan Weissmann_: The Economy Is Doing That Cool Thing Where Wages Rise
     
-*   _Kalev Leetaru_: Data Show Trump Is Right About Mail Bomber Coverage
+*   _Gordan Chang_: Trump's Curveball: This Is What China Didn't Expect
     
-*   _Markay &. Sommer_: Inside the Crazy Cabal Trying to Smear Robert Mueller
+*   _Susan Rice_: Saudi Arabia: A Partner We Can't Depend On
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   RNC Pushes to Incorporate Trump Voters Into Republican Base
 *   6 Looming Uncertainties as Midterms Come to a Close
+*   Trump Rallies in Fort Myers, FL: "A Choice Between Results and Resistance"
 *   With Redistricting in Mind, Dems' Midterm Focus Is on States
-*   Trump: Nationalism Means I Love the Country, I Want to Take Care of U.S. First
 *   Is Trump Transforming Midterms With Arena-Size Rallies?
-*   Obama Rips Trump, Republicans in Fiery Speeches for Midwest Dems
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Arizona Senate - McSally vs. SinemaABC 15/OH Predictive Insights\*
-    *   Sinema45
-    *   McSally52McSally +7
-*   New Jersey 7th District - Lance vs. MalinowskiNY Times/Siena
-    *   Malinowski47
-    *   Lance39Malinowski +8
-*   Arizona Senate - McSally vs. SinemaFOX News
-    *   Sinema46
-    *   McSally46Tie
-*   Arizona Senate - McSally vs. SinemaCNN
-    *   Sinema51
-    *   McSally47Sinema +4
+*   Georgia Governor - Kemp vs. AbramsAtlanta Journal-Constitution
+    *   Kemp47
+    *   Abrams47Tie
+*   Minnesota Governor - Johnson vs. WalzKSTP/SurveyUSA
+    *   Walz49
+    *   Johnson41Walz +8
+*   Connecticut Governor - Stefanowski vs. LamontHearst/Sacred Heart\*
+    *   Lamont38
+    *   Stefanowski40Stefanowski +2
+*   Alaska At-Large District - Young vs. GalvinAlaska Survey Research
+    *   Galvin49
+    *   Young48Galvin +1
 
 More Latest Polls In The News
 
+*   Trump on Immigration Crisis: Our Generosity Will Not Be Abused, A Limit To What A Nation Can Absorb
+*   Axios Jim VandeHei to Trump: Do You Worry One Of Your Supporters Will Shoot A Reporter?
+*   Trump Twitter Campaign Ad Targets Criminal Illegal Immigrants: "Who Else Would Democrats Let In?"
 *   CNN's Toobin vs. Kris Kobach: You Have Devoted Your Life To Stopping Poor And Black People From Voting
-*   Acosta: Trump Using "Hostile Rhetoric" Aimed At Immigrants, "Trying To Drive Up The Rage" To Get Voters
-*   RNC Chair Ronna McDaniel: Republicans Keep Control Of House, May Pick Up More Senate Seats
-*   Carlson: Establishment Siding With Foreigners Over Its Own People, That Tells You Everything
-*   Don Lemon: "Biggest Terror Threat In This Country Is White Men". We Had Muslim Ban, Why No "White Guy Ban?"
+*   MSNBC's Eddie Glaude: "I Overestimated White People," I Didn't Think They Would Put Trump In Office
 
 *   Politics
 *   Policy
