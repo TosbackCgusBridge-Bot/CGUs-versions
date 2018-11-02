@@ -24,21 +24,6 @@ Call or Text 1-800-963-4816
 
 Refer a Friend for 40% OFF Full Price Items! Bag 0
 
-*   New SHOP NEW ARRIVALS
-    
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
-    
-    SHOP NEW COLLECTIONS
-    
-    *   Weather Channel Collection
-    *   The Heritage Collection
-    
-    BLOG
-    *   The Journal
 *   Women WOMEN'S CLOTHING >
     
     *   Coats &. Jackets
@@ -90,7 +75,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   New Arrivals
     *   The Starfish Collection
     *   Tunic Shop
-    *   The Heritage CollectionWOMEN'S SALE >
+    *   GiftsWOMEN'S SALE >
 *   Men SHOP BY SIZE RANGE
     
     *   Regular
@@ -103,7 +88,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   The Heritage Collection
+    *   Gifts
     
     MEN'S SALE >MEN'S CLOTHING >
     
@@ -161,7 +146,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Kids' Iron Knees Pants
     *   Kids' Pajama Shop
     *   Kids' Backpacks &. Lunch Boxes
-    *   The Heritage Collection
+    *   Gifts
     
     Kids' Sale>Girls' Clothing>
     
@@ -259,7 +244,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     FEATURED SHOPS
     *   The Weather Channel Collection
-    *   The Heritage CollectionOUTERWEAR SALE >
+    *   GiftsOUTERWEAR SALE >
 *   Bags SHOP BAGS
     
     *   View All
@@ -269,7 +254,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Pouches &. Small Accessories
     *   Business &. Travel
     *   Diaper Bags
-    *   The Heritage Collection
+    *   Gifts
     *   Sale
     
     CATEGORIES
@@ -420,7 +405,25 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   New Arrivals
     *   Supima Bedding &. Bath
     *   Bedding Basics
-    *   The Heritage CollectionHOME SALE >
+    *   GiftsHOME SALE >
+*   Gifts FEATURED SHOPS
+    
+    *   Matching Family Pajamas
+    *   Personalized Christmas Stockings
+    *   Christmas Sweaters
+    *   Holiday &. Christmas Decor
+    *   Down Vests &. Fleece
+    *   Blankets &. Throws
+    *   Totes &. Bags
+    *   Gift Cards
+    
+    GIFT By Recipient
+    *   For Her
+    *   For Him
+    *   For Girls
+    *   For Boys
+    *   For Home
+    *   For Dog
 *   Sale WOMEN'S SALE >
     
     *   Regular
@@ -472,21 +475,6 @@ Lands' End Sign In menu
     
     get help
     
-*   New
-    *   Back
-    *   Shop all New
-    *   SHOP NEW COLLECTIONS
-        *   Back
-        *   Weather Channel Collection
-        *   The Heritage Collection
-    *   BLOG
-        *   Back
-        *   The Journal
-    *   Women
-    *   Men
-    *   Girls
-    *   Boys
-    *   Home
 *   Women
     *   Back
     *   Shop all Women
@@ -543,7 +531,7 @@ Lands' End Sign In menu
         *   New Arrivals
         *   The Starfish Collection
         *   Tunic Shop
-        *   The Heritage Collection
+        *   Gifts
     *   WOMEN'S SALE
 *   Men
     *   Back
@@ -559,7 +547,7 @@ Lands' End Sign In menu
         *   New Arrivals
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
-        *   The Heritage Collection
+        *   Gifts
     *   MEN'S SALE
     *   MEN'S CLOTHING
         *   Back
@@ -622,7 +610,7 @@ Lands' End Sign In menu
         *   Kids' Iron Knees Pants
         *   Kids' Pajama Shop
         *   Kids' Backpacks &. Lunch Boxes
-        *   The Heritage Collection
+        *   Gifts
     *   Kids' Sale
     *   Girls' Clothing
         *   Back
@@ -725,7 +713,7 @@ Lands' End Sign In menu
     *   FEATURED SHOPS
         *   Back
         *   The Weather Channel Collection
-        *   The Heritage Collection
+        *   Gifts
     *   OUTERWEAR SALE
 *   Bags
     *   Back
@@ -743,7 +731,7 @@ Lands' End Sign In menu
     *   Pouches &. Small Accessories
     *   Business &. Travel
     *   Diaper Bags
-    *   The Heritage Collection
+    *   Gifts
     *   Sale
 *   Swim
     *   Back
@@ -900,8 +888,29 @@ Lands' End Sign In menu
         *   New Arrivals
         *   Supima Bedding &. Bath
         *   Bedding Basics
-        *   The Heritage Collection
+        *   Gifts
     *   HOME SALE
+*   Gifts
+    *   Back
+    *   Shop all Gifts
+    *   FEATURED SHOPS
+        *   Back
+        *   Matching Family Pajamas
+        *   Personalized Christmas Stockings
+        *   Christmas Sweaters
+        *   Holiday &. Christmas Decor
+        *   Down Vests &. Fleece
+        *   Blankets &. Throws
+        *   Totes &. Bags
+        *   Gift Cards
+    *   GIFT By Recipient
+        *   Back
+        *   For Her
+        *   For Him
+        *   For Girls
+        *   For Boys
+        *   For Home
+        *   For Dog
 *   Sale
     *   Back
     *   Shop all Sale
@@ -974,9 +983,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 31% off your order!
+Receive 40% off full-price styles!
 
-code: CANDY pin: 6336 DETAILS
+code: FAMILY pin: 5241 DETAILS
 
 Customer Service Menu
 
