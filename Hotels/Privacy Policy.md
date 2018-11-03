@@ -1,22 +1,24 @@
 Skip to main content.English (United States)USD
 
-Book online or call 800-219-4623This call is free. 24 hours a day. 7 days a week.
+*   Help
+    *   Change your booking
+    *   FAQs
+    *   Contact us
+    *   Website feedback
+    
+    *   24 hours a day. 7 days a week.
+    *   This call is free.
+    *   Call us on 888-227-6307
+*   Your bookings
+*   Create account
+*   Sign in
 
 *   Hotel Deals
-*   Packages
+*   Packages &. Flights
 *   Groups
 *   Gift Cards
 *   List your property
-*   Help
-
-*   Sign in &. Account
-    *   Sign in
-    *   Create an account
-    *   Your bookings
-    *   Your Hotels
-    *   Review a property
 *   Hotels.com® Rewards
-*   Your bookings
 
 Privacy PolicyPrint all sections
 
