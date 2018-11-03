@@ -264,7 +264,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Boys
 *   Swim WOMEN'S SWIMSUITS>
     
-    *   Women's Swim Sale
     *   Tankinis &. Bikinis
     *   One-piece Swimsuits
     *   Rash Guards &. Swim Shirts
@@ -275,27 +274,28 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Swim Dresses
     *   Mastectomy Swimsuits
     *   Long Torso Swimsuits
+    *   Women's Swim Sale
     
     GIRLS' SWIMSUITS>
     
-    *   Girls' Swim Sale
     *   Tankini &. Bikini Separates
     *   Two-piece Swimsuit Sets
     *   One-piece Bathing Suits
     *   Rash Guards &. Swim Shirts
     *   Cover-ups
+    *   Girls' Swim Sale
     
     BOYS' SWIMSUITS>
     
-    *   Boys' Swim Sale
     *   Swim Trunks
     *   Rash Guards &. Swim Shirts
+    *   Boys' Swim Sale
     
     MEN'S SWIMWEAR>
     
-    *   Men's Swim Sale
     *   Swim Trunks
     *   Rash Guards &. Swim Shirts
+    *   Men's Swim Sale
     
     More For Swim
     
@@ -304,6 +304,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Beach Towels
     
     Featured Shops
+    *   Mix &. Match Tool
     *   Little Black Suit
     *   Kids' Swim Shop
     *   Sale
@@ -739,7 +740,6 @@ Lands' End Sign In menu
     *   WOMEN'S SWIMSUITS
         *   Back
         *   View All
-        *   Women's Swim Sale
         *   Tankinis &. Bikinis
         *   One-piece Swimsuits
         *   Rash Guards &. Swim Shirts
@@ -750,27 +750,28 @@ Lands' End Sign In menu
         *   Swim Dresses
         *   Mastectomy Swimsuits
         *   Long Torso Swimsuits
+        *   Women's Swim Sale
     *   GIRLS' SWIMSUITS
         *   Back
         *   View All
-        *   Girls' Swim Sale
         *   Tankini &. Bikini Separates
         *   Two-piece Swimsuit Sets
         *   One-piece Bathing Suits
         *   Rash Guards &. Swim Shirts
         *   Cover-ups
+        *   Girls' Swim Sale
     *   BOYS' SWIMSUITS
         *   Back
         *   View All
-        *   Boys' Swim Sale
         *   Swim Trunks
         *   Rash Guards &. Swim Shirts
+        *   Boys' Swim Sale
     *   MEN'S SWIMWEAR
         *   Back
         *   View All
-        *   Men's Swim Sale
         *   Swim Trunks
         *   Rash Guards &. Swim Shirts
+        *   Men's Swim Sale
     *   More For Swim
         *   Back
         *   Water Shoes &. Sandals
@@ -778,6 +779,7 @@ Lands' End Sign In menu
         *   Beach Towels
     *   Featured Shops
         *   Back
+        *   Mix &. Match Tool
         *   Little Black Suit
         *   Kids' Swim Shop
         *   Sale
