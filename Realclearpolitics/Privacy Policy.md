@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Flegenheimer &. Ember_: Ohio: 'When You Think You've Got It Figured Out, It Flips'
+*   _Ronna McDaniel_: Keep the American Comeback Alive: Vote Republican
     
-*   _Sean Trende_: What a Republican Hold in the House Might Look Like
+*   _Donna Brazile_: Count on Democrats to Give Americans What They Want
     
-*   _Conor Friedersdorf_: Why I'm Casting a Party-Line Vote for Democrats
+*   _Kristen Anderson_: Wave or Whimper? Why 2018 Doesn't Feel Like 2010
     
-*   _Rachel Stoltzfoos_: The Democratic Party vs. the American Way of Life
+*   _Alex Shephard_: Florida's Referendum on Trump-Era Racism
     
-*   _Ezra Klein_: Republicans Used to Have a Health Plan--Now They Just Have Lies
+*   _Yoram Hazony_: Trump's Nationalism Isn't Racist, It's a Needed Appeal for Unity
     
-*   _Sen. Bill Cassidy_: Here's the Truth About Obamacare &. Pre-Existing Conditions
+*   _Mimi Swartz_: O'Rourke Appeals to Texas's Biggest Constituency: Nonvoters
     
-*   _Bernie Marcus_: Trump Needs a Fed Chair Who Won't Ride the Brakes
+*   _Bob Hugin_: Send in a Marine: N.J. Deserves Better Than Sen. Menendez
     
-*   _James Stavridis_: Other Than Venezuela, S. America Is Now U.S.-Friendly
+*   _Bryan Wright_: Hayden, Hitler and the Dark Art of Fearmongering
     
-*   _Danny Danon_: We Can Learn From Israel's Effective Anti-Terror Methods
+*   _Dexter Filkins_: Saudi Arabia Enters a Dangerous Period
     
-*   _Halie Soifer_: Trump Didn't Pull the Trigger in Pittsburgh, But He Is to Blame
+*   _John Bradley_: After Khashoggi: What Mohammad bin Salman Did Next
     
-*   _Karin McQuillan_: Trump's the Best President Ever for American Jews
+*   _Myra Adams_: Why Messianic Judaism Isn't Anti-Semitism
     
-*   _Conrad Black_: Trump's Truly Transformative Presidency
+*   _Tom Perez_: Vote for Dems to End Trump Assault on Truth, Working Families
     
-*   _E.J. Dionne_: Election Pits the Polarizer vs. the Problem-Solvers
+*   _Speaker Paul Ryan_: Vote Republican to Keep America Prosperous
     
-*   _Andy Puzder_: Reversal of Obama Policies Has Created Booming Economy
+*   _John Cassidy_: What the Polls Show in the Run-Up to November 6
     
-*   _Heather Parton_: Will Trump Finally Pay the Price for Bigotry?
+*   _Paul Theroux_: A Blue Wave Is Predicted, But I'm Not Convinced
     
-*   _Keith Koffler_: Trump Has Disarmed Liberals of Their P.C. Weapons
+*   _Sean Trende_: What a Democratic Wave in the House Might Look Like
     
-*   _David Catanese_: The Improbable Run of Andrew Gillum in Florida
+*   _Mark Penn_: Dems Don't Understand the Secret of Trump's Success
     
-*   _Sally Persons_: RNC Pushes to Incorporate Trump Voters Into Republican Base
+*   _Eugene Robinson_: Go to Polls Tuesday to Take Back the Country You Love
     
-*   _Ross Douthat_: Why I'm Hoping for Democrats to Win the House
+*   _Sohrab Ahmari_: GOP Has Delivered as Dems Went Off the Deep End
     
-*   _Roger Kimball_: Republicans Holding House Would Accelerate Elites' Tailspin
+*   _Alice Driver_: We Have Nothing to Fear From Caravan Migrants
     
-*   _A.B. Stoddard_: 10 Known Unknowns of the Midterms
+*   _Newt Gingrich_: Trump Reflecting Anger on Illegal Immigration, Not Creating It
     
-*   _Jordan Weissmann_: The Economy Is Doing That Cool Thing Where Wages Rise
+*   _Jim Newell_: Pete Sessions Is In the Fight of His Political Life
     
-*   _Gordan Chang_: Trump's Curveball: This Is What China Didn't Expect
+*   _Ginger Gibson_: Dem Struggles to Keep Hold on Teetering Minnesota District
     
-*   _Susan Rice_: Saudi Arabia: A Partner We Can't Depend On
+*   _Martin &. Burns_: Trump's Nationalism a Break Point for Some Suburban Voters
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   What a Republican Hold in the House Might Look Like
+*   What a Democratic Wave in the House Might Look Like
+*   Trump Twitter Ad Slams Dems, Targets Criminal Illegal Immigrants
 *   RNC Pushes to Incorporate Trump Voters Into Republican Base
 *   6 Looming Uncertainties as Midterms Come to a Close
-*   Trump Rallies in Fort Myers, FL: "A Choice Between Results and Resistance"
-*   With Redistricting in Mind, Dems' Midterm Focus Is on States
-*   Is Trump Transforming Midterms With Arena-Size Rallies?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Georgia Governor - Kemp vs. AbramsAtlanta Journal-Constitution
-    *   Kemp47
-    *   Abrams47Tie
-*   Minnesota Governor - Johnson vs. WalzKSTP/SurveyUSA
-    *   Walz49
-    *   Johnson41Walz +8
-*   Connecticut Governor - Stefanowski vs. LamontHearst/Sacred Heart\*
-    *   Lamont38
-    *   Stefanowski40Stefanowski +2
-*   Alaska At-Large District - Young vs. GalvinAlaska Survey Research
-    *   Galvin49
-    *   Young48Galvin +1
+*   Nevada Senate - Heller vs. RosenGravis
+    *   Heller45
+    *   Rosen47Rosen +2
+*   Ohio Senate - Renacci vs. BrownGravis
+    *   Brown46
+    *   Renacci37Brown +9
+*   Wisconsin Senate - Vukmir vs. BaldwinEmerson
+    *   Baldwin53
+    *   Vukmir44Baldwin +9
+*   New Jersey Senate - Hugin vs. MenendezStockton University\*
+    *   Menendez51
+    *   Hugin39Menendez +12
 
 More Latest Polls In The News
 
+*   Tucker Carlson: The Globalist Left's Program Is Finished And They Know It
 *   Trump on Immigration Crisis: Our Generosity Will Not Be Abused, A Limit To What A Nation Can Absorb
-*   Axios Jim VandeHei to Trump: Do You Worry One Of Your Supporters Will Shoot A Reporter?
+*   Trump to Caravan: Throwing Rocks Will Be Considered A Firearm at Border, "I Hope" Military Won't Shoot
+*   Don Lemon Doubles Down: Evidence Is Overwhelming Far-Right Radical White Men Nation's Biggest Threat
 *   Trump Twitter Campaign Ad Targets Criminal Illegal Immigrants: "Who Else Would Democrats Let In?"
-*   CNN's Toobin vs. Kris Kobach: You Have Devoted Your Life To Stopping Poor And Black People From Voting
-*   MSNBC's Eddie Glaude: "I Overestimated White People," I Didn't Think They Would Put Trump In Office
 
 *   Politics
 *   Policy
