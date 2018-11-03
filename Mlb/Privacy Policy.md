@@ -139,6 +139,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Jerseys
     *   PhotosAuctions
 *   MLB.TV MLB.TV MLB.TV
+    *   Buy MLB.TV Offseason Package
     *   Watch MLB.TV
     *   Buy MLB.TV Gift Cards
     *   Select 2017 Archives
