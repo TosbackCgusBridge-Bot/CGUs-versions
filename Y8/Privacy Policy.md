@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  17:59
+New Games Next in  16:48
 
-*   Brand New Games Next addition in 17:59
+*   Brand New Games Next addition in 16:48
 
 *   Best of New Games Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 17:59
-*   Best of new games 1981 games
-*   Most Popular Games 18170 games
+*   New Games Next in 16:48
+*   Best of new games 2003 games
+*   Most Popular Games 18144 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 312 games
-*   Driving &. Racing Games 6,715 games
-*   Strategy &. RPG Games 2,411 games
-*   Management Games 3,660 games
-*   Thinking Games 11,850 games
-*   Action &. Adventure Games 15,801 games
-*   Sports Games 2,129 games
-*   Shooting Games 8,297 games
-*   Fighting Games 2,086 games
-*   Skill Games 144 games
-*   Arcade &. Classic Games 73 games
-*   Fun &. Crazy Games 2,457 games
+*   Games for girls 23,482 games
+*   Driving &. Racing Games 6,712 games
+*   Strategy &. RPG Games 2,413 games
+*   Management Games 3,654 games
+*   Thinking Games 11,844 games
+*   Action &. Adventure Games 15,798 games
+*   Sports Games 40 games
+*   Shooting Games 8,298 games
+*   Fighting Games 8 games
+*   Skill Games 10,596 games
+*   Arcade &. Classic Games 12,661 games
+*   Fun &. Crazy Games 21 games
 
 Play with friends  
-Powered by Y8 Account 131 Y8 Multiplayer Games 1,706 Y8 High Score Games 1,045 Y8 Achievements Games 783 Y8 Screenshots Games 1,338 Y8 Online Save Games 2,721 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 131 Y8 Multiplayer Games 1,706 Y8 High Score Games 1,046 Y8 Achievements Games 783 Y8 Screenshots Games 1,339 Y8 Online Save Games 2,722 All Y8 Games Games Last Highscore:
 
-**16,683** points on Military Wars 3D Multiplayer by VAJB
+**4,751** points on Throne Defender by iman\_taehyung\_65
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
