@@ -39,17 +39,17 @@ Stock Quote and Chart
 
 Price
 
-$2.63
+$2.68
 
 Change
 
- + 0.07
+ + 0.05
 
 Percent Change
 
- (2.73%)
+ (1.90%)
 
-11/01/184:00 p.m. ET  
+11/02/184:00 p.m. ET  
 Data provided by Nasdaq. Minimum 15 minutes delayed.view details  
 Recent News10/24/18Office Depot to Announce Third Quarter 2018 Results Wednesday, November 7, 2018  
 view more
