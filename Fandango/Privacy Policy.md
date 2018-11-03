@@ -73,7 +73,7 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   'It' Director Andy Muschietti Plans an 'Attack on Titan' Movie. Here's Everything We Know Read More
-    *   New 'Flash Gordon' on Its Way From 'Overlord' Director. Here's Everything We Know Read More
+    *   The Week in Movie News: 'Flash Gordon' Remake Gets a Director, 'Clueless' Remake Announced and More Read More
     *   Ewan McGregor Joins 'Birds of Prey'. Here's Everything We Know Read More
     
     Explore Content
@@ -318,9 +318,17 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'The Grinch' Gift with Purchase
+*   FandangoNOW Fresh Picks: November
     
-    Pre-order tickets to 'The Grinch' and get a FREE\* t-shirt while supplies last (S&H not included). BUY TICKETS
+    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    
+*   Fandango VIP
+    
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    
+*   FandangoNOW Binge Bundles
+    
+    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
     
 
 New + Coming soon
