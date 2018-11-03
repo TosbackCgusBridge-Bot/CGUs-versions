@@ -34,8 +34,6 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   Children's Privacy Statement
     *   Parental Access Form
     *   Child-Directed Website Request Form
-*   Connected Products
-    *   Sproutling FAQs
 *   Your Choices
     *   Mattel Communications Preferences
     *   American Girl Communications Preferences
@@ -80,8 +78,6 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
         *   Children's Privacy Statement
         *   Parental Access Form
         *   Child-Directed Website Request Form
-    *   Connected Products
-        *   Sproutling FAQs
     *   Your Choices
         *   Mattel Communications Preferences
         *   American Girl Communications Preferences
