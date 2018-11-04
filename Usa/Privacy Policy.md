@@ -155,7 +155,7 @@ Free trial
 
 Subscribe
 
-—/year
+$1,575.00/year
 
 Software for Building Information Modeling
 
