@@ -111,6 +111,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Ramesh Ponnuru_: How Dems Gave Trump an Opening on Immigration
+    
+*   _Richard Wolffe_: The Only Thing Trump Fears Is a Lack of Fear Itself
+    
+*   _J.T. Young_: 'Jobs vs. Mobs'
+    
+*   _Michael Tomasky_: Democrats' Next Job: Bury Supply-Side Economics
+    
+*   _Alfredo Ortiz_: Your Pocketbook Is On the Ballot
+    
+*   _Edward-Isaac Dovere_: Obama Plays Closer for Dems as Midterms Approach
+    
+*   _Newt Gingrich_: We Need to Stop the Caravan and Build the Wall
+    
+*   _Jessie Daniels_: Republicans Make Closing Case About White Supremacy
+    
+*   _Deroy Murdock_: Black Americans Are Better Off Than They Were 2 Years Ago
+    
+*   _John Kass_: A Lesson in Decency From the Doctors in Pittsburgh
+    
+*   _Bari Weiss_: When a Terrorist Comes to Your Hometown
+    
+*   _Sara Carter_: Opioid Trafficking Is Domestic Terrorism
+    
+*   _Douglas Murray_: Merkel Is On Her Way Out--and So Is Her Vision for EU
+    
+*   _Robin Wright_: Will Khashoggi's Murder Help End Ghastly War in Yemen?
+    
+*   _Caleb Rossiter_: UN's Scary, Ever-Receding, Human-Caused Climate Crisis
+    
+*   _Michael Mann_: Climate Change Is Behind Extreme Summer Weather
+    
+*   _Bhaskar Sunkara_: Don't Get Rid of Apu. He's a Hero to Many of Us
+    
 *   _Ronna McDaniel_: Keep the American Comeback Alive: Vote Republican
     
 *   _Donna Brazile_: Count on Democrats to Give Americans What They Want
@@ -124,40 +158,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Mimi Swartz_: O'Rourke Appeals to Texas's Biggest Constituency: Nonvoters
     
 *   _Bob Hugin_: Send in a Marine: N.J. Deserves Better Than Sen. Menendez
-    
-*   _Bryan Wright_: Hayden, Hitler and the Dark Art of Fearmongering
-    
-*   _Dexter Filkins_: Saudi Arabia Enters a Dangerous Period
-    
-*   _John Bradley_: After Khashoggi: What Mohammad bin Salman Did Next
-    
-*   _Myra Adams_: Why Messianic Judaism Isn't Anti-Semitism
-    
-*   _Tom Perez_: Vote for Dems to End Trump Assault on Truth, Working Families
-    
-*   _Speaker Paul Ryan_: Vote Republican to Keep America Prosperous
-    
-*   _John Cassidy_: What the Polls Show in the Run-Up to November 6
-    
-*   _Paul Theroux_: A Blue Wave Is Predicted, But I'm Not Convinced
-    
-*   _Sean Trende_: What a Democratic Wave in the House Might Look Like
-    
-*   _Mark Penn_: Dems Don't Understand the Secret of Trump's Success
-    
-*   _Eugene Robinson_: Go to Polls Tuesday to Take Back the Country You Love
-    
-*   _Sohrab Ahmari_: GOP Has Delivered as Dems Went Off the Deep End
-    
-*   _Alice Driver_: We Have Nothing to Fear From Caravan Migrants
-    
-*   _Newt Gingrich_: Trump Reflecting Anger on Illegal Immigration, Not Creating It
-    
-*   _Jim Newell_: Pete Sessions Is In the Fight of His Political Life
-    
-*   _Ginger Gibson_: Dem Struggles to Keep Hold on Teetering Minnesota District
-    
-*   _Martin &. Burns_: Trump's Nationalism a Break Point for Some Suburban Voters
     
 
 *   Previous
@@ -245,22 +245,22 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Nevada Senate - Heller vs. RosenGravis
-    *   Heller45
-    *   Rosen47Rosen +2
-*   Ohio Senate - Renacci vs. BrownGravis
-    *   Brown46
-    *   Renacci37Brown +9
-*   Wisconsin Senate - Vukmir vs. BaldwinEmerson
-    *   Baldwin53
-    *   Vukmir44Baldwin +9
-*   New Jersey Senate - Hugin vs. MenendezStockton University\*
-    *   Menendez51
-    *   Hugin39Menendez +12
+*   Arizona Senate - McSally vs. SinemaTrafalgar Group (R)
+    *   Sinema50
+    *   McSally47Sinema +3
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve44
+    *   Disapprove52Disapprove +8
+*   2018 Generic Congressional VoteABC News/Wash Post
+    *   Democrats52
+    *   Republicans44Democrats +8
+*   Florida Senate - Scott vs. NelsonSt. Pete Polls
+    *   Nelson48
+    *   Scott49Scott +1
 
 More Latest Polls In The News
 
-*   Tucker Carlson: The Globalist Left's Program Is Finished And They Know It
+*   Tucker Carlson: The Globalist Left's Platform Is Over And They Know It
 *   Trump on Immigration Crisis: Our Generosity Will Not Be Abused, A Limit To What A Nation Can Absorb
 *   Trump to Caravan: Throwing Rocks Will Be Considered A Firearm at Border, "I Hope" Military Won't Shoot
 *   Don Lemon Doubles Down: Evidence Is Overwhelming Far-Right Radical White Men Nation's Biggest Threat
