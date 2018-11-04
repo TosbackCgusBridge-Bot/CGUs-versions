@@ -1,3 +1,69 @@
+*   OAK1-73SF2-734Final
+*   PIT4-2-1BAL4-4Sun, 1:00 pm ET
+*   CHI4-3BUF2-6Sun, 1:00 pm ET
+*   TB3-4CAR5-2Sun, 1:00 pm ET
+*   KC7-1CLE2-5-1Sun, 1:00 pm ET
+*   NYJ3-5MIA4-4Sun, 1:00 pm ET
+*   DET3-4MIN4-3-1Sun, 1:00 pm ET
+*   ATL3-4WAS5-2Sun, 1:00 pm ET
+*   HOU5-3DEN3-5Sun, 4:05 pm ET
+*   LAC5-2SEA4-3Sun, 4:05 pm ET
+*   LA8-0NO6-1Sun, 4:25 pm ET
+*   GB3-3-1NE6-2Sun, 8:20 pm ET
+*   TEN3-4DAL3-4Mon, 8:15 pm ET
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Highlights
+*   Playoff Picture
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Game Pass
+*   Stats
+*   Next Gen Stats
+*   Ways to Watch
+*   NFL Network
+*   Photos
+
+*   OAK3SF34Final
+*   PIT4-2-1BAL4-4Sun, 1:00 pm ET
+*   CHI4-3BUF2-6Sun, 1:00 pm ET
+*   TB3-4CAR5-2Sun, 1:00 pm ET
+*   KC7-1CLE2-5-1Sun, 1:00 pm ET
+*   NYJ3-5MIA4-4Sun, 1:00 pm ET
+*   DET3-4MIN4-3-1Sun, 1:00 pm ET
+*   ATL3-4WAS5-2Sun, 1:00 pm ET
+*   HOU5-3DEN3-5Sun, 4:05 pm ET
+*   LAC5-2SEA4-3Sun, 4:05 pm ET
+*   LA8-0NO6-1Sun, 4:25 pm ET
+*   GB3-3-1NE6-2Sun, 8:20 pm ET
+*   TEN3-4DAL3-4Mon, 8:15 pm ET
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Highlights
+*   Playoff Picture
+
+*   Highlights
+
+*   *   Game Pass
+    *   Stats
+    *   Next Gen Stats
+    *   Ways to Watch
+    *   NFL Network
+    *   Photos
+
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
