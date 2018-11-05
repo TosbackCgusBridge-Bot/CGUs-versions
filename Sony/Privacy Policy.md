@@ -107,7 +107,7 @@ search See What’s In Store for Jamie &. Claire as They Settle in Colonial Amer
 
 Last month was a big one, huh? Help decide the best new game of October 2018 in the  http://PlayStation.Blog  Players' Choice poll! Vote now:  https://play.st/2Pyjm0T  pic.twitter.com/Fz5BbC5UzQ
 
-2 days ago
+3 days ago
 
 View Tweet
 
