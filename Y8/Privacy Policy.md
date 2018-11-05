@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  18:26
+New Games Next in  14:20
 
-*   Brand New Games Next addition in 18:26
+*   Brand New Games Next addition in 14:20
 
 *   Best of New Games Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 18:26
-*   Best of new games 2025 games
-*   Most Popular Games 18053 games
+*   New Games Next in 14:20
+*   Best of new games 2050 games
+*   Most Popular Games 18057 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,395 games
-*   Driving &. Racing Games 21 games
+*   Games for girls 23,406 games
+*   Driving &. Racing Games 6,694 games
 *   Strategy &. RPG Games 2,404 games
 *   Management Games 3,631 games
-*   Thinking Games 11,779 games
-*   Action &. Adventure Games 15,775 games
-*   Sports Games 2,124 games
-*   Shooting Games 8,295 games
-*   Fighting Games 2,083 games
-*   Skill Games 10,563 games
-*   Arcade &. Classic Games 12,607 games
-*   Fun &. Crazy Games 2,449 games
+*   Thinking Games 11,786 games
+*   Action &. Adventure Games 15,781 games
+*   Sports Games 39 games
+*   Shooting Games 8,299 games
+*   Fighting Games 2,084 games
+*   Skill Games 142 games
+*   Arcade &. Classic Games 12,609 games
+*   Fun &. Crazy Games 2,454 games
 
 Play with friends  
-Powered by Y8 Account 131 Y8 Multiplayer Games 1,706 Y8 High Score Games 1,046 Y8 Achievements Games 783 Y8 Screenshots Games 1,339 Y8 Online Save Games 2,722 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 131 Y8 Multiplayer Games 1,707 Y8 High Score Games 1,047 Y8 Achievements Games 783 Y8 Screenshots Games 1,339 Y8 Online Save Games 2,723 All Y8 Games Games Last Highscore:
 
-**6,835** points on Farm Frenzy 2 by haineku
+**4,429** points on Orion Sandbox Enhanced by Alim
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
