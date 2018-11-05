@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Ramesh Ponnuru_: How Dems Gave Trump an Opening on Immigration
+*   _Dan Balz_: This Midterm Like No Other in a Generation
     
-*   _Richard Wolffe_: The Only Thing Trump Fears Is a Lack of Fear Itself
+*   _Robert Knight_: Issues That Dominate the Midterms
     
-*   _J.T. Young_: 'Jobs vs. Mobs'
+*   _Rochelle Riley_: On Tuesday, Vote For or Against Hate
     
-*   _Michael Tomasky_: Democrats' Next Job: Bury Supply-Side Economics
+*   _Tony Norman_: Democracy Is Coming to Blood-Red Georgia
     
-*   _Alfredo Ortiz_: Your Pocketbook Is On the Ballot
+*   _Robert Robb_: Will Arizona See a Blue Wave or Red Backlash?
     
-*   _Edward-Isaac Dovere_: Obama Plays Closer for Dems as Midterms Approach
+*   _Charlie Mahtesian_: The 2018 Race That Could Settle the Dems' Civil War
     
-*   _Newt Gingrich_: We Need to Stop the Caravan and Build the Wall
+*   _Salena Zito_: In Wealthy DC Suburbs, Comstock Tries to Hang On
     
-*   _Jessie Daniels_: Republicans Make Closing Case About White Supremacy
+*   _Seung Min Kim_: Trump-McConnell Alliance Pays Big Dividends for GOP
     
-*   _Deroy Murdock_: Black Americans Are Better Off Than They Were 2 Years Ago
+*   _Dana Milbank_: This Time, Our Eyes Are Wide Open on Trump
     
-*   _John Kass_: A Lesson in Decency From the Doctors in Pittsburgh
+*   _Daniel McCarthy_: Trump's Political Coalition Bodes Well for Republicans
     
-*   _Bari Weiss_: When a Terrorist Comes to Your Hometown
+*   _David Siders_: Democrats Confident of House Takeover
     
-*   _Sara Carter_: Opioid Trafficking Is Domestic Terrorism
+*   _Nicholas Waddy_: If Blue Wave Fails, Liberal Rage Will Be Out of Control
     
-*   _Douglas Murray_: Merkel Is On Her Way Out--and So Is Her Vision for EU
+*   _Dana Goodyear_: The Democrats' Quest to Turn Orange County Blue
     
-*   _Robin Wright_: Will Khashoggi's Murder Help End Ghastly War in Yemen?
+*   _Byron York_: Can Trump and Republicans Pull a Surprise in Minnesota?
     
-*   _Caleb Rossiter_: UN's Scary, Ever-Receding, Human-Caused Climate Crisis
+*   _Charles Lane_: IL's Roskam Finds Himself on Thinnest of Political Ice
     
-*   _Michael Mann_: Climate Change Is Behind Extreme Summer Weather
+*   _Thomas Klingenstein_: Our House Divided: Multiculturalism vs. America
     
-*   _Bhaskar Sunkara_: Don't Get Rid of Apu. He's a Hero to Many of Us
+*   _Andrew Sullivan_: Delivering a Defeat to Trump Critical for the Republic
     
-*   _Ronna McDaniel_: Keep the American Comeback Alive: Vote Republican
+*   _Mairead McArdle_: Kavanaugh Accuser Admits She Fabricated Allegations
     
-*   _Donna Brazile_: Count on Democrats to Give Americans What They Want
+*   _Burns &. Martin_: Nation In Turmoil Prepares to Deliver Verdict on Trump
     
-*   _Kristen Anderson_: Wave or Whimper? Why 2018 Doesn't Feel Like 2010
+*   _Michael Walsh_: Media's Deceitful, Un-American Bias Seeks to Divide Us
     
-*   _Alex Shephard_: Florida's Referendum on Trump-Era Racism
+*   _Frank Bruni_: What Kind of Democrat Can Beat Trump in 2020?
     
-*   _Yoram Hazony_: Trump's Nationalism Isn't Racist, It's a Needed Appeal for Unity
+*   _Laura Washington_: Hillary Remains Dems' Best Chance to Beat Trump
     
-*   _Mimi Swartz_: O'Rourke Appeals to Texas's Biggest Constituency: Nonvoters
+*   _Joshua Kendall_: Where Is Bill Clinton's #MeToo Reckoning?
     
-*   _Bob Hugin_: Send in a Marine: N.J. Deserves Better Than Sen. Menendez
+*   _Andrea Peyser_: How Come Alec Baldwin Always Gets Away With It?
     
 
 *   Previous
@@ -230,7 +230,7 @@ RecommendedPolitics
 
 *   What a Republican Hold in the House Might Look Like
 *   What a Democratic Wave in the House Might Look Like
-*   Trump Twitter Ad Slams Dems, Targets Criminal Illegal Immigrants
+*   Kudlow: Economic Gains Reaching Deep Into Blue-Collar Areas
 *   RNC Pushes to Incorporate Trump Voters Into Republican Base
 *   6 Looming Uncertainties as Midterms Come to a Close
 *   Presidential Job Approval
@@ -245,25 +245,25 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Arizona Senate - McSally vs. SinemaTrafalgar Group (R)
-    *   Sinema50
-    *   McSally47Sinema +3
-*   President Trump Job ApprovalABC News/Wash Post
-    *   Approve44
-    *   Disapprove52Disapprove +8
-*   2018 Generic Congressional VoteABC News/Wash Post
-    *   Democrats52
-    *   Republicans44Democrats +8
-*   Florida Senate - Scott vs. NelsonSt. Pete Polls
-    *   Nelson48
-    *   Scott49Scott +1
+*   Missouri Senate - Hawley vs. McCaskillTrafalgar Group (R)
+    *   Hawley48
+    *   McCaskill44Hawley +4
+*   Arizona Senate - McSally vs. SinemaABC 15/OH Predictive Insights\*
+    *   Sinema48
+    *   McSally49McSally +1
+*   New Hampshire Governor - Sununu vs. KellyUNH\*
+    *   Sununu49
+    *   Kelly49Tie
+*   New Hampshire 1st District - Edwards vs. PappasUNH\*
+    *   Pappas54
+    *   Edwards43Pappas +11
 
 More Latest Polls In The News
 
-*   Tucker Carlson: The Globalist Left's Platform Is Over And They Know It
-*   Trump on Immigration Crisis: Our Generosity Will Not Be Abused, A Limit To What A Nation Can Absorb
-*   Trump to Caravan: Throwing Rocks Will Be Considered A Firearm at Border, "I Hope" Military Won't Shoot
-*   Don Lemon Doubles Down: Evidence Is Overwhelming Far-Right Radical White Men Nation's Biggest Threat
+*   Ohio Democrat Tim Ryan: I Don't Know A Lot Of Democrats Who Want To Abolish ICE
+*   DSCC Chair Sen. Van Hollen: "Big Difference Between House And Senate Seats" For Democrats
+*   Chris Wallace to Mike Pompeo: Will U.S. Offer Any Concessions To North Korea?
+*   Napolitano: 14th Amendment Can't Be Changed With Stroke Of A Pen, Or Obama Would Have Changed 2nd
 *   Trump Twitter Campaign Ad Targets Criminal Illegal Immigrants: "Who Else Would Democrats Let In?"
 
 *   Politics
