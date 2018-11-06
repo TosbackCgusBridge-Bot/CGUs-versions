@@ -242,4 +242,4 @@ is already subscribed!
 
 You should be receiving Hickory Farms emails.
 
-Feedback
+Feedback Address Verification close
