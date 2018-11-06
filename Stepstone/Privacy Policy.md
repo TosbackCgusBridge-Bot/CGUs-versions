@@ -38,19 +38,19 @@ In this document we will inform you about the processing of personal data in con
 
 1.  **Who is responsible for the processing of your personal data?**
 
-The data controller (hereinafter referred to as “StepStone” or “we”) in the sense of the General Data Protection Regulation and other national data protection laws of the member states as well as other data protection regulations is:
+The data controller (hereinafter referred to as “StepStone” or “we”) in the sense of the GDPR and other national data protection laws of the member states as well as other data protection regulations is:
 
-StepStone GmbH
+StepStone Deutschland GmbH
 
-Axel-Springer-Str. 65
+Völklinger Straße 1
 
-10969 Berlin
+40219 Düsseldorf
 
-T +49 30 398 0620
+Germany
 
-F +49 30 398 09111
+T +49 211 93493-0
 
-E-mail : info@stepstone.com
+E-mail : info@stepstone.de
 
 2.      Contact details of the data protection officer
 
@@ -70,11 +70,9 @@ and by e-mail at datenschutz@stepstone.de
 
 In the following we inform you about the different purposes for which we process personal data, on which legal basis such processing takes place, and for how long we store the data.
 
-Insofar as we obtain the consent of the data subject for processing personal data, Art. 6 (1) (a) EU General Data Protection Regulation (GDPR) is the legal basis for the processing of personal data. If the processing of personal data is necessary for the performance of a contract to which the data subject is a party, Art. 6 (1) (b) GDPR will be the legal basis. This also applies to processing operations required to carry out pre-contractual actions. If processing of personal data is required to fulfill a legal obligation that our company is subject to, Art. 6 (1) (c) GDPR is the legal basis. If processing is necessary to safeguard the legitimate interests of our company or a third party, and if the interests, fundamental rights, and freedoms of the data subject do not prevail over the first interest, Art. 6 (1) (f) GDPR is the legal basis for processing.
+Insofar as we obtain the consent of the data subject for processing personal data, Art. 6 (1) (a) EU General Data Protection Regulation (GDPR) is the legal basis for the processing of personal data. If the processing of personal data is necessary for the performance of a contract to which the data subject is a party, Art. 6 (1) (b) GDPR will be the legal basis. This also applies to processing operations required to carry out pre-contractual actions. If processing of personal data is required to fulfill a legal obligation that our company is subject to, Art. 6 (1) (c) GDPR is the legal basis. If processing is necessary to safeguard the legitimate interests of our company or a third party, and if the interests, fundamental rights, and freedoms of the data subject do not prevail over the first interest, Art. 6 (1) (f) GDPR is the legal basis for processing. The personal data of the data subject will be stored for as long as the purpose continues.
 
-The personal data of the data subject will be stored for as long as the purpose continues.
-
-*   **General access to our Platforms**
+1.  **General access to our Platforms**
 
 With each access to our Platforms, we automatically collect data and information from the accessing device and store this data and information in the log files of the server. We may collect (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system accesses our website (known as referrers), (4) the sub-web pages that are accessed on our website (5) the date and time of access to the website, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system and (8) other similar data and information used to defend any attacks against our IT systems. For security purposes, i.e. to be able to reconstruct an eventual attack against our Platforms, we store such data including the IP address for 14 days and then anonymize or delete such data. The IP address is required during the connection to transfer the contents of our Platform to your device. The legal basis for the processing and storage of the IP address is a legitimate interest as per Article 6 (1) (f) GDPR. The legitimate interest for the transmission of the IP address is that it is required to display the contents of the website. without transmission of the IP address it is not possible to display the content of the Platform. The legimtiate interest for the temporary storage are our security interests.
 
