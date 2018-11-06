@@ -3,9 +3,8 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Call + 1 800 213 4848+ 1 800 213 4848 or contact us
-
-to become a Gartner client.
+Become a client  
+Request a call or dial +1 800 213 4848+1 800 213 4848
 
 Log in Become a Client
 
@@ -21,7 +20,7 @@ Log in Become a Client
     
     Human Resources
     
-    Chief Human Resource Executive Human Resource Leaders Human Resources Business Partners Information Technology
+    Chief Human Resource Executive Human Resource Leaders Human Resources Business Partners Diversity &. Inclusion Learning &. Development Total Reward Recruiting Leaders Information Technology
     
     Information Technology
     
@@ -29,9 +28,9 @@ Log in Become a Client
     
     Innovation &. Strategy
     
-    Innovation &. Strategy Leaders Legal
+    Innovation &. Strategy Leaders Legal &. Compliance
     
-    Legal
+    Legal &. Compliance
     
     Audit Leaders Legal &. Compliance Leaders Marketing &. Communications
     
@@ -49,11 +48,11 @@ Log in Become a Client
     
     Industries
     
-    Financial Services Education Energy &. Utilities Government &. Public Sector Healthcare High Tech &. Telecom Providers Manufacturing Retail Article Manage Finance Talent Supply &. Demand
+    Financial Services Education Energy &. Utilities Government &. Public Sector Healthcare High Tech &. Telecom Providers Manufacturing Retail Article Drive financially sound operational decisions
     
     Read Article
     
-    Article Creating a Culture That Performs
+    Article Q3 2018 Learning Quarterly
     
     Learn More
     
@@ -61,9 +60,9 @@ Log in Become a Client
     
     Read Article
     
-    Managing R&D Portfolios
+    Digital Technologies in R&D: Webinar Replay
     
-    Learn More
+    Watch now
     
     Article Speed Up Legal Reviews
     
@@ -171,9 +170,9 @@ Log in Become a Client
     
     Technology Insights
     
-    Artificial Intelligence Blockchain Business Value of IT CIO Agenda Cloud Cybersecurity Data &. Analytics Special Reports Trends &. Predictions Compliance Insights
+    Artificial Intelligence Blockchain Business Value of IT CIO Agenda Cloud Cybersecurity Data &. Analytics Special Reports Trends &. Predictions Legal &. Compliance Insights
     
-    Compliance Insights
+    Legal &. Compliance Insights
     
     Compliance Program Management HR Insights
     
@@ -203,7 +202,7 @@ Log in Become a Client
     
     Webinars &. Podcasts
     
-    Information Technology Marketing Most Recent Podcasts Leadership Podcasts Trends &. Predicts Podcasts Peer Insights
+    All Webinars Most Recent Podcasts Leadership Podcasts Trends &. Predictions Podcasts Peer Insights
     
     Peer Insights
     
@@ -235,9 +234,9 @@ Log in Become a Client
     
     Read blog
     
-    Podcast CIOs Must Transform into Digital Leaders
+    Webinars Gartner for Marketers Webinars
     
-    Listen now
+    Watch now
     
     Understand the continuous evolution of the B2B buying journey
     
@@ -261,9 +260,8 @@ Log in Become a Client
     
     Career Opportunities Life at Gartner Campus
     
-*   Call + 1 800 213 4848+ 1 800 213 4848 or contact us
-    
-    to become a Gartner client.
+*   Become a client  
+    Request a call or dial +1 800 213 4848+1 800 213 4848
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018  
