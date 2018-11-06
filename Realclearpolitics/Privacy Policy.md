@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Dan Balz_: This Midterm Like No Other in a Generation
+*   _Susan Page_: What's at Stake on Tuesday? Both Sides Say 'Everything'
     
-*   _Robert Knight_: Issues That Dominate the Midterms
+*   _Salena Zito_: Latino Voters in FL Could Help Republicans Win in Key Races
     
-*   _Rochelle Riley_: On Tuesday, Vote For or Against Hate
+*   _Lynda Tran_: Democrats' Closing Argument: 'We Are Better Than This'
     
-*   _Tony Norman_: Democracy Is Coming to Blood-Red Georgia
+*   _Margot Cleveland_: Grassley Further Exposes False Claims vs. Kavanaugh
     
-*   _Robert Robb_: Will Arizona See a Blue Wave or Red Backlash?
+*   _David Leonhardt_: What We Have to Fear If Republicans Win
     
-*   _Charlie Mahtesian_: The 2018 Race That Could Settle the Dems' Civil War
+*   _Byron York_: Who Says Trump's Not Talking About Booming Economy?
     
-*   _Salena Zito_: In Wealthy DC Suburbs, Comstock Tries to Hang On
+*   _Juan Williams_: The Healthcare Law Is Now a Big Winner for Democrats
     
-*   _Seung Min Kim_: Trump-McConnell Alliance Pays Big Dividends for GOP
+*   _Julie Kelly_: Will Trump Convince Hoosiers to Dump Donnelly?
     
-*   _Dana Milbank_: This Time, Our Eyes Are Wide Open on Trump
+*   _Charles McElwee_: How Pennsylvania Could Tip the Balance in the House
     
-*   _Daniel McCarthy_: Trump's Political Coalition Bodes Well for Republicans
+*   _Simon Jenkins_: Sanctions Against Iran Help U.S. Enemies, Weaken Friends
     
-*   _David Siders_: Democrats Confident of House Takeover
+*   _Alex Titus_: Trump's Iran Policies Are Proving Effective
     
-*   _Nicholas Waddy_: If Blue Wave Fails, Liberal Rage Will Be Out of Control
+*   _Chris Buskirk_: On Eve of Trump's First Midterm, We're in Uncharted Waters
     
-*   _Dana Goodyear_: The Democrats' Quest to Turn Orange County Blue
+*   _Allan Lichtman_: Midterms Will Show Voters' Love or Hate of Trump
     
-*   _Byron York_: Can Trump and Republicans Pull a Surprise in Minnesota?
+*   _Rep. Steve Stivers_: The Choice in 2018: More Progress or a Return to Pain
     
-*   _Charles Lane_: IL's Roskam Finds Himself on Thinnest of Political Ice
+*   _Sally Persons_: Judgment Day Is Nearly Here: A Midterm Overview
     
-*   _Thomas Klingenstein_: Our House Divided: Multiculturalism vs. America
+*   _Charles Blow_: Do You Want a Congress Full of Trump Puppets?
     
-*   _Andrew Sullivan_: Delivering a Defeat to Trump Critical for the Republic
+*   _Frank Miele_: If You Don't Vote for the Party, You're Not Doing Your Part
     
-*   _Mairead McArdle_: Kavanaugh Accuser Admits She Fabricated Allegations
+*   _Resnick &. Stein_: Dems Ponder the Unthinkable: What If They Lose?
     
-*   _Burns &. Martin_: Nation In Turmoil Prepares to Deliver Verdict on Trump
+*   _Jeff Greenfield_: How Trump Will Handle Defeat? Not Like Past Presidents
     
-*   _Michael Walsh_: Media's Deceitful, Un-American Bias Seeks to Divide Us
+*   _Sean Trende_: What Is a Wave Election, Anyway?
     
-*   _Frank Bruni_: What Kind of Democrat Can Beat Trump in 2020?
+*   _Tessa Stuart_: Inside the Final Days of Beto's Magical Senate Run
     
-*   _Laura Washington_: Hillary Remains Dems' Best Chance to Beat Trump
+*   _Roger Simon_: Tuesday America Takes an IQ Test
     
-*   _Joshua Kendall_: Where Is Bill Clinton's #MeToo Reckoning?
+*   _Francis Wilkinson_: GOP's Race War Predated Trump &. May Outlast Him
     
-*   _Andrea Peyser_: How Come Alec Baldwin Always Gets Away With It?
+*   _Charles Hurt_: Dem Media Nightmare: Black, Pro-Trump Voters
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Judgment Day Is Nearly Here: A Midterm Overview
+*   What Is a Wave Election, Anyway?
+*   Kudlow: Economic Gains Reaching Deep Into Blue-Collar Areas
 *   What a Republican Hold in the House Might Look Like
 *   What a Democratic Wave in the House Might Look Like
-*   Kudlow: Economic Gains Reaching Deep Into Blue-Collar Areas
-*   RNC Pushes to Incorporate Trump Voters Into Republican Base
-*   6 Looming Uncertainties as Midterms Come to a Close
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Missouri Senate - Hawley vs. McCaskillTrafalgar Group (R)
-    *   Hawley48
-    *   McCaskill44Hawley +4
+*   Indiana Senate - Braun vs. DonnellyHarrisX
+    *   Donnelly41
+    *   Braun42Braun +1
+*   Michigan Senate - James vs. StabenowMitchell Research
+    *   Stabenow49
+    *   James46Stabenow +3
+*   Michigan Senate - James vs. StabenowTrafalgar Group (R)
+    *   Stabenow53
+    *   James44Stabenow +9
 *   Arizona Senate - McSally vs. SinemaABC 15/OH Predictive Insights\*
-    *   Sinema48
-    *   McSally49McSally +1
-*   New Hampshire Governor - Sununu vs. KellyUNH\*
-    *   Sununu49
-    *   Kelly49Tie
-*   New Hampshire 1st District - Edwards vs. PappasUNH\*
-    *   Pappas54
-    *   Edwards43Pappas +11
+    *   McSally49
+    *   Sinema48McSally +1
 
 More Latest Polls In The News
 
-*   Ohio Democrat Tim Ryan: I Don't Know A Lot Of Democrats Who Want To Abolish ICE
-*   DSCC Chair Sen. Van Hollen: "Big Difference Between House And Senate Seats" For Democrats
+*   Limbaugh At Trump MAGA Rally in Cape Girardeau: Democrats Haven't Accepted They Lost In 2016
+*   President Obama Campaigns With Tim Kaine In Virginia: Don't Boo, Vote To Make Things Better
+*   Trump: I Think We're Going To Do Well In The House. "Something Interesting Happening"
 *   Chris Wallace to Mike Pompeo: Will U.S. Offer Any Concessions To North Korea?
 *   Napolitano: 14th Amendment Can't Be Changed With Stroke Of A Pen, Or Obama Would Have Changed 2nd
-*   Trump Twitter Campaign Ad Targets Criminal Illegal Immigrants: "Who Else Would Democrats Let In?"
 
 *   Politics
 *   Policy
