@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   5\. November 2018
+*   6\. November 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.518,99ǀ
+*   DAX 11.494,96ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -115,7 +115,6 @@ Anmelden
         *   ÜberMorgen
         *   Uno-Klimakonferenz 2017
     *   *   Sudoku
-        *   Kenken
 *   Gesundheit
     
     *   *   Übersicht
