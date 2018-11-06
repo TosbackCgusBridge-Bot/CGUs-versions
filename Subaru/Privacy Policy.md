@@ -1,7 +1,3 @@
-We have updated our privacy policy. Read it hereclose X
-
-Due to a technical error, we inadvertently posted our old privacy policy from September 15, 2018 through October 8, 2018. The error has been corrected and our current privacy policy is now posted. We apologize for any inconvenience.
-
       Confirm Your Location
 
 We'd like to show you nearby Subaru retailers, special offers, pricing, and vehicle inventory that are available in your area.
