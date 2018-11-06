@@ -5,39 +5,34 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
-    *   Halloween (2018)
+    *   Bohemian Rhapsody
+    *   The Nutcracker and the Four Realms
     *   A Star Is Born (2018)
+    *   Halloween (2018)
+    *   Nobody's Fool
     *   Venom (2018)
+    *   Smallfoot
     *   Goosebumps 2: Haunted Halloween
     *   Hunter Killer (2018)
     *   The Hate U Give
     *   First Man
-    *   Smallfoot
-    *   Night School (2018)
-    *   Mid90s
-    *   The Old Man &. the Gun
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Bohemian Rhapsody
-    *   Nobody's Fool
-    *   The Nutcracker and the Four Realms
-    *   Beautiful Boy (2018)
-    *   Suspiria (2018)
-    *   Bodied
-    *   Boy Erased
-    *   In Harm's Way (2018)
-    *   In Search of Greatness
-    *   Maria by Callas
-    *   A Private War
+    *   Dr. Seuss' The Grinch (2018)
+    *   The Girl in the Spider's Web
+    *   Overlord (2018)
+    *   El Angel (2018)
+    *   The Front Runner
+    *   Postcards from London
+    *   River Runs Red
+    *   Thugs of Hindostan
+    *   Weightless
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Dr. Seuss' The Grinch (2018)
-    *   Overlord (2018)
-    *   The Girl in the Spider's Web
     *   Fantastic Beasts: The Crimes of Grindelwald
     *   Instant Family (2018)
     *   Widows (2018)
@@ -45,6 +40,9 @@ Gift Cards | Offers | Sign In Sign Out
     *   Green Book
     *   Ralph Breaks the Internet
     *   Robin Hood (2018)
+    *   The Possession of Hannah Grace
+    *   Mortal Engines
+    *   Spider-Man: Into the Spider-Verse
     *   See All Coming Soon
     
     Explore More
@@ -72,9 +70,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'It' Director Andy Muschietti Plans an 'Attack on Titan' Movie. Here's Everything We Know Read More
-    *   The Week in Movie News: 'Flash Gordon' Remake Gets a Director, 'Clueless' Remake Announced and More Read More
-    *   Ewan McGregor Joins 'Birds of Prey'. Here's Everything We Know Read More
+    *   Next 3 Music-themed Movies: 'Vox Lux,' 'Mary Poppins Returns,' 'Rocketman' Read More
+    *   'The Color Purple' Will Hit the Big Screen Again in Musical Form. Here's Everything We Know Read More
+    *   Comics on Film: Who Is Black Mask, Ewan McGregor's Character in 'Birds of Prey'? Read More
     
     Explore Content
     *   Movie Reviews
@@ -330,6 +328,10 @@ Offers
     
     Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
     
+*   Fandango Gift Cards
+    
+    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
+    
 
 New + Coming soon
 
@@ -375,4 +377,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
