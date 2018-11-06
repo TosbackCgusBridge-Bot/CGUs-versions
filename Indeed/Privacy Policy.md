@@ -91,7 +91,7 @@ Please review the “Last Updated” legend at the top of the Cookie Policy to d
 
 Privacy Policy
 
-Last Updated: October 10, 2018
+Last Updated: November 5, 2018
 
 **1\. Introduction**
 
@@ -159,9 +159,9 @@ Indeed may also collect information about web sites and web pages you visit thro
 
 You may also create an account or log in to your Indeed account using third-party websites including, but not limited to, Facebook or Google. If you do not already have an Indeed account but log in to Indeed using your Facebook or Google account, this creates an Indeed account using the same email address used in your Facebook or Google account. If you agree to provide this information to Indeed, Facebook or Google will authenticate you and redirect you to Indeed’s Site. Please note, when you log in to Indeed using your Facebook or Google account, Facebook or Google will cookie you in order to authenticate you as a Facebook or Google user.
 
-By accessing Indeed through your Facebook or Google account, you understand that Facebook or Google will share certain data detailed above in this paragraph for the purposes of authentication to permit you to access our Site in a secure manner. You may stop this at any point from your Facebook or Google account. This information will be considered Indeed account information for purposes of your use of the Site.
+By accessing Indeed through your Facebook or Google account, you understand that Facebook or Google will share certain data detailed in the above paragraph for the purposes of authentication to permit you to access our Site in a secure manner. You may stop this at any point from your Facebook or Google account. This information will be considered Indeed account information for purposes of your use of the Site.
 
-You have the ability to disable the connection between your Facebook or Google account and your Indeed account at any time by accessing your privacy settings on your Facebook or Google account. Facebook may also ask for your permission to share certain other details with Indeed, including but not limited to your name, profile picture, public profile information, and email address. For those users that avail of Indeed Family specifically, Facebook may ask for permission to share your friends list, and Indeed may use some of this data to connect you with other users of Indeed Family.
+You have the ability to disable the connection between your Facebook or Google account and your Indeed account at any time by accessing your privacy settings on your Facebook or Google account. Facebook and Google may also ask for your permission to share certain other details with Indeed, including but not limited to your name, profile picture, public profile information, and email address. Once you give this permission, the requested information will be shared with Indeed, which may use this information to provide Services to you, including populating your Indeed profile. The shared information will remain associated with your Indeed profile until you modify or delete it. For those users that avail of Indeed Family specifically, Facebook may ask for permission to share your friends list, and Indeed may use some of this data to connect you with other users of Indeed Family.
 
 PLEASE NOTE THAT YOUR RELATIONSHIP WITH FACEBOOK OR GOOGLE OR ANY OTHER THIRD-PARTY WEBSITE IS GOVERNED SOLELY BY YOUR AGREEMENT WITH SUCH THIRD-PARTY WEBSITE.
 
@@ -500,7 +500,7 @@ This Agreement hereby incorporates by this reference any additional terms and co
 
 Indeed General Terms of Service
 
-Last Updated: October 19, 2018.
+Last Updated: November 5, 2018.
 
 **A.** The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.
 
@@ -685,15 +685,19 @@ You agree to waive your right to file a pre-suit discovery proceeding seeking a 
 
 By using the Site and in return for the services offered by Indeed, you acknowledge that Indeed can only offer you these services under the terms and conditions as presented herein. As partial consideration for your use of the Site and these services, you (either an Employer or Job Seeker) agree not to sue Indeed as a class plaintiff or class representative, join as a class member, or participate as an adverse party in any way in a class-action lawsuit against Indeed regarding your use of the Site. Additionally, as a Job Seeker, your use of the Site is at no charge and you acknowledge that part of the price you are paying to use this Site is your acceptance of these terms of service including this Class Action Waiver. If you do not agree to any part of these terms, do not continue your use of the Site. Nothing in this paragraph, however, limits your rights to bring a lawsuit as an individual plaintiff, including in small claims court, subject to section 11 above.
 
-**13\. Filtering**
+**13\. Severability and Reformation**
+
+Each provision of this Agreement is a separately enforceable provision. If any provision of this Agreement is determined to be or becomes unenforceable or illegal, such provision shall be reformed to the minimum extent necessary in order for this Agreement to remain in effect in accordance with its terms as modified by such reformation. The unenforceability or invalidity of any provision shall not affect any other provision of this Agreement, and this Agreement shall continue in full force and effect, and be construed and enforced, as if such provision had not been included, or had been modified as above provided, as the case may be.
+
+**14\. Filtering**
 
 We hereby notify you that parental control protections (such as computer hardware, software or filtering services) are commercially available that may assist you in limiting access to material that is harmful to minors. Information identifying current providers of such protections is available from GetNetWise (http://www.getnetwise.org/) and OnGuard Online (http://onguardonline.gov/). Please note that Company does not endorse any of the products or services listed on such sites.
 
-**14\. Information or Complaints**
+**15\. Information or Complaints**
 
 If you have a question or complaint regarding the Site, please use our Indeed Help Center. When you use the Indeed Help Center, you are accessing a third party site Zendesk and consent to receiving cookies from Zendesk, as set forth in their cookie policy. Please note that communications within Zendesk will not necessarily be secure. accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
 
-**15\. Miscellaneous**
+**16\. Miscellaneous**
 
 This Agreement (including the Indeed Ads Program Terms, Indeed Resume Program Terms, Indeed Prime Terms and Indeed Targeted Ads Terms incorporated herein, if applicable to you) constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes and replaces all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter. In the event of any irreconcilable conflict between this Agreement and the Indeed Ads Program Terms, Indeed Resume Program Terms, Indeed Prime Terms and Indeed Targeted Ads Terms (if applicable to you), the Indeed Ads Program Terms, Indeed Resume Program Terms, Indeed Prime Terms and Indeed Targeted Ads Terms will govern with respect to the Indeed Ads Program, Indeed Resume Program, Indeed Prime and Indeed Targeted Ads, respectively, and the Agreement will otherwise govern. Any waiver of any provision of this Agreement will be effective only if in writing and signed by Indeed. This Agreement, together with any amendments and any additional agreements you may enter into with Indeed in connection with the Site, shall constitute the entire agreement between you and Indeed concerning the Site. If any provision of this Agreement is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Agreement, which shall remain in full force and effect. You agree that this Agreement cannot be altered, amended, modified or overridden, except by a document signed by an authorized representative of each party. For the avoidance of doubt, email or phone communication between you and an Indeed employee shall not constitute an amendment or alteration of this Agreement.
 
@@ -707,15 +711,15 @@ Any notices to Indeed must be sent to the applicable Indeed entity identified in
 
 You may not assign or delegate any of your rights or obligations hereunder without Indeed’s prior written consent and any such attempt is void. Indeed may freely assign or delegate its rights and obligations hereunder without notice to you. Additionally, Indeed may assign any agreement between you and Indeed to any related Indeed entity by informing you of such assignment. Indeed and you are not legal partners or agents, but are independent contractors.
 
-**16\. Apple-Specific Terms**
+**17\. Apple-Specific Terms**
 
 In addition to your agreement with the foregoing terms and conditions, and notwithstanding anything to the contrary herein, the following provisions apply with respect to your use of any mobile application version of the Site compatible with the iOS operating system of Apple Inc. (“Apple”, and such mobile application, the “App”). Apple is not a party to this Agreement and does not own and is not responsible for the App. Apple is not providing any warranty for the App except, if applicable, to refund the purchase price for it. Apple is not responsible for maintenance or other support services for the App and shall not be responsible for any other claims, losses, liabilities, damages, costs or expenses with respect to the App, including any third-party product liability claims, claims that the App fails to conform to any applicable legal or regulatory requirement, claims arising under consumer protection or similar legislation, and claims with respect to intellectual property infringement. Any inquiries or complaints relating to the use of the App, including those pertaining to intellectual property rights, must be directed to Indeed in accordance with the “Information or Complaints” section above. The license you have been granted herein is limited to a non-transferable license to use the App on an Apple-branded product that runs Apple’s iOS operating system and is owned or controlled by you, or as otherwise permitted by the Usage Rules set forth in Apple’s App Store Terms of Service. In addition, you must comply with the terms of any third-party agreement applicable to you when using the App, such as your wireless data service agreement. Apple and Apple’s subsidiaries are third-party beneficiaries of this Agreement and, upon your acceptance of the terms and conditions of this Agreement, will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary thereof. notwithstanding the foregoing, Indeed’s right to enter into, rescind or terminate any variation, waiver or settlement under this Agreement is not subject to the consent of any third party.
 
-**17. The Indeed Apps**
+**18. The Indeed Apps**
 
 By using any of the Indeed Apps, including but not limited to the Indeed Job Search, Indeed Resume Search, Indeed Employer, Indeed Job Spotter or others, you agree that all of the terms and conditions found herein apply to your use of the Indeed App.  Additionally, you agree that the Indeed App may send you push notifications, if you turn on receipt of notifications and/or sign up to receive notifications.  By downloading and using the Indeed App, you are asking Indeed to make formatting changes to any Job Listings as they appear on your phone, in order to enable you to utilize your Indeed Resume.  You further acknowledge that your use of the Indeed Apps may require use of your data plan from your cellular provider.  You are responsible for payment of all data usage accrued based on your use of the Indeed App, and Indeed disclaims all responsibility for such data usage. In addition, if you allow Indeed Apps to utilize location services, the Indeed Apps may suggest to you and collect from you certain information based on your geographic location.
 
-**18\. Use of Site by Minors**
+**19\. Use of Site by Minors**
 
 The Site is not for use by anyone under the age of 16. To use the Site you agree that you must be the minimum age (described in this paragraph below) or older.
 
@@ -1151,4 +1155,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1crhaak72aghc800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1crjsmi9pa54p800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
