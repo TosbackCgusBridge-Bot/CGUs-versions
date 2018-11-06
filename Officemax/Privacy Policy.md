@@ -43,13 +43,13 @@ $2.68
 
 Change
 
- + 0.05
+0.00
 
 Percent Change
 
  (0.00%)
 
-11/02/184:00 p.m. ET  
+11/05/184:00 p.m. ET  
 Data provided by Nasdaq. Minimum 15 minutes delayed.view details  
 Recent News10/24/18Office Depot to Announce Third Quarter 2018 Results Wednesday, November 7, 2018  
 view more
