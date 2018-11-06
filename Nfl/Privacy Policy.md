@@ -1,4 +1,5 @@
-*   GB3-4-117NE7-231Final
+*   TEN4-428DAL3-514Final
+*   OAK1-73SF2-734Final
 *   PIT5-2-123BAL4-516Final
 *   CHI5-341BUF2-79Final
 *   TB3-528CAR6-242Final
@@ -9,8 +10,7 @@
 *   HOU6-319DEN3-617Final
 *   LAC6-225SEA4-417Final
 *   LA8-135NO7-145Final
-*   TEN3-4DAL3-4Mon, 8:15 pm ET
-*   OAK1-73SF2-734Final
+*   GB3-4-117NE7-231Final
 
 *   News
 *   Scores
@@ -29,7 +29,8 @@
 *   NFL Network
 *   Photos
 
-*   GB17NE31Final
+*   TEN28DAL14Final
+*   OAK3SF34Final
 *   PIT23BAL16Final
 *   CHI41BUF9Final
 *   TB28CAR42Final
@@ -40,8 +41,7 @@
 *   HOU19DEN17Final
 *   LAC25SEA17Final
 *   LA35NO45Final
-*   TEN3-4DAL3-4Mon, 8:15 pm ET
-*   OAK3SF34Final
+*   GB17NE31Final
 
 *   News
 *   Scores
