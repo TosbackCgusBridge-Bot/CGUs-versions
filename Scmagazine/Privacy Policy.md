@@ -35,6 +35,7 @@ Skip to navigation Skip to main content Login Register Menu Close
 *   In DepthOpen Submenu
     *   In Depth Back
         *   SC Media Print Archive
+        *   2018 Election Coverage
         *   Features
         *   Reboot Leadership Awards 2018
         *   Director's Cut Videos
