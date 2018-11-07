@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   How Ubuntu is at the forefront of security &. compliance ›
 *   A guide to snap permissions and interfaces ›
 *   Canonical’s Distribution of Kubernetes supported on Arm architecture ›
 *   Statement on the IBM acquisition of Red Hat ›
 *   OpenStack Summit Berlin ›
-*   Low latency and real-time kernels for telco and NFV ›
