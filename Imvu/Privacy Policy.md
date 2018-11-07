@@ -303,4 +303,4 @@ Redwood City, CA 94063.
 
 email: privacy@imvu.com
 
-Mobile | People | Groups | Forums | 3D Chat Rooms | 3D Virtual Catalog | Buy Credits | Earn Credits | Creator Center | Download About Us | Policies | Blog | Contact Us | Advertise | Jobs | Safety | Avatar | Help © 2018 IMVU All rights reserved
+Mobile | People | Groups | Forums | 3D Chat Rooms | 3D Virtual Catalog | Buy Credits | Earn Credits | Creator Center | Download About Us | Policies | Blog | Contact Us | Advertise | Jobs | Safety | Avatar | Help |  © 2018 IMVU All rights reserved
