@@ -14,7 +14,7 @@
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular New! Birthday Gifts
+    *   Graduation &. CongratulationsMost Popular New! Thanksgiving Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -41,7 +41,7 @@
     *   Combos
     *   Burgers
     *   Specialty Meats
-    *   SeafoodMost Popular Filet Mignon
+    *   SeafoodMost Popular Specialty Meats
 *   Gourmet Food
     
     View All Categories Shop by Category*   Condiments &. Spreads
@@ -97,7 +97,7 @@
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular New! Birthday Gifts
+    *   Graduation &. CongratulationsMost Popular New! Thanksgiving Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -124,7 +124,7 @@
     *   Combos
     *   Burgers
     *   Specialty Meats
-    *   SeafoodMost Popular Filet Mignon
+    *   SeafoodMost Popular Specialty Meats
 *   Gourmet Food
     
     View All Categories Shop by Category*   Condiments &. Spreads
@@ -242,4 +242,4 @@ is already subscribed!
 
 You should be receiving Hickory Farms emails.
 
-Feedback Address Verification close
+Feedback
