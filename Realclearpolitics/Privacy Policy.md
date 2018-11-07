@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Susan Page_: What's at Stake on Tuesday? Both Sides Say 'Everything'
+*   _Charles Mahtesian_: 11 Key Places That Will Decide the Midterm Outcome
     
-*   _Salena Zito_: Latino Voters in FL Could Help Republicans Win in Key Races
+*   _Dylan Matthews_: A Chance to Reverse Damage Trump Has Done to Democracy
     
-*   _Lynda Tran_: Democrats' Closing Argument: 'We Are Better Than This'
+*   _Brett Decker_: Trump Has Delivered on His Promises at Home and Abroad
     
-*   _Margot Cleveland_: Grassley Further Exposes False Claims vs. Kavanaugh
+*   _Nate Silver_: Dems Aren't Certain to Win House, But They're Clear Favorites
     
-*   _David Leonhardt_: What We Have to Fear If Republicans Win
+*   _Deroy Murdock_: 'Mirror, Mirror on the Wall, Who's the Leftest of Them All?'
     
-*   _Byron York_: Who Says Trump's Not Talking About Booming Economy?
+*   _Joshua Zeitz_: Dems Aren't Moving Left. They're Returning to Their Roots.
     
-*   _Juan Williams_: The Healthcare Law Is Now a Big Winner for Democrats
+*   _Alexandra DeSanctis_: Why Donnelly Is Vulnerable on Abortion in Indiana Race
     
-*   _Julie Kelly_: Will Trump Convince Hoosiers to Dump Donnelly?
+*   _Dan Kaufman_: Did Walker, Trump Deal Away Wisconsin Race to Foxconn?
     
-*   _Charles McElwee_: How Pennsylvania Could Tip the Balance in the House
+*   _Emma Green_: National Politics Has Taken Over America
     
-*   _Simon Jenkins_: Sanctions Against Iran Help U.S. Enemies, Weaken Friends
+*   _Joy Pullmann_: After Common Core: Test Scores Down, Indoctrination Up
     
-*   _Alex Titus_: Trump's Iran Policies Are Proving Effective
+*   _Elizabeth Gershoff_: Is the Era of Spanking Finally Over?
     
-*   _Chris Buskirk_: On Eve of Trump's First Midterm, We're in Uncharted Waters
+*   _President Donald Trump_: Vote Republican and Continue the Jobs Boom
     
-*   _Allan Lichtman_: Midterms Will Show Voters' Love or Hate of Trump
+*   _Michelle Goldberg_: The Women's Revolt: Can the Resistance Save America?
     
-*   _Rep. Steve Stivers_: The Choice in 2018: More Progress or a Return to Pain
+*   _Adriana Cohen_: Dems Wanted Us to 'Believe Women' Who Made Up Lies
     
-*   _Sally Persons_: Judgment Day Is Nearly Here: A Midterm Overview
+*   _Harris &. Johnson_: Will Trump Shatter His Own Mystique?
     
-*   _Charles Blow_: Do You Want a Congress Full of Trump Puppets?
+*   _Malpass &. Cannon_: Republicans, Democrats Push Get-Out-the-Vote Strategies
     
-*   _Frank Miele_: If You Don't Vote for the Party, You're Not Doing Your Part
+*   _Liz Peek_: What Democrats Don't Get About the Economic Resurgence
     
-*   _Resnick &. Stein_: Dems Ponder the Unthinkable: What If They Lose?
+*   _Andy Slavitt_: Vote Your Fears on Health Care, Not Caravan 'Crisis'
     
-*   _Jeff Greenfield_: How Trump Will Handle Defeat? Not Like Past Presidents
+*   _Mary Vought_: How Trump Has Improved Health Care for Americans
     
-*   _Sean Trende_: What Is a Wave Election, Anyway?
+*   _Brady &. Parker_: Flipping the House: What '94, '06, '10 Turnout Tells Us
     
-*   _Tessa Stuart_: Inside the Final Days of Beto's Magical Senate Run
+*   _Mark Penn_: The Paradox of Trump's Poll Numbers and the Midterms
     
-*   _Roger Simon_: Tuesday America Takes an IQ Test
+*   _James Comey_: Let's Vote to Uphold Our Nation's Values
     
-*   _Francis Wilkinson_: GOP's Race War Predated Trump &. May Outlast Him
+*   _David French_: The Democrats Have Not Earned Your Vote
     
-*   _Charles Hurt_: Dem Media Nightmare: Black, Pro-Trump Voters
+*   _Neera Tanden_: After Kavanaugh-Ford, Another Year of the Woman
     
 
 *   Previous
@@ -228,9 +228,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Republicans, Democrats Push Get-Out-the-Vote Strategies
 *   Judgment Day Is Nearly Here: A Midterm Overview
-*   What Is a Wave Election, Anyway?
-*   Kudlow: Economic Gains Reaching Deep Into Blue-Collar Areas
+*   Ryan: We've Got a Really Good Chance to Hold the House
 *   What a Republican Hold in the House Might Look Like
 *   What a Democratic Wave in the House Might Look Like
 *   Presidential Job Approval
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Indiana Senate - Braun vs. DonnellyHarrisX
-    *   Donnelly41
-    *   Braun42Braun +1
+*   Montana Senate - Rosendale vs. TesterTrafalgar Group (R)
+    *   Tester50
+    *   Rosendale49Tester +1
+*   Montana Senate - Rosendale vs. TesterHarrisX
+    *   Tester49
+    *   Rosendale43Tester +6
 *   Michigan Senate - James vs. StabenowMitchell Research
     *   Stabenow49
     *   James46Stabenow +3
 *   Michigan Senate - James vs. StabenowTrafalgar Group (R)
     *   Stabenow53
     *   James44Stabenow +9
-*   Arizona Senate - McSally vs. SinemaABC 15/OH Predictive Insights\*
-    *   McSally49
-    *   Sinema48McSally +1
 
 More Latest Polls In The News
 
-*   Limbaugh At Trump MAGA Rally in Cape Girardeau: Democrats Haven't Accepted They Lost In 2016
-*   President Obama Campaigns With Tim Kaine In Virginia: Don't Boo, Vote To Make Things Better
-*   Trump: I Think We're Going To Do Well In The House. "Something Interesting Happening"
-*   Chris Wallace to Mike Pompeo: Will U.S. Offer Any Concessions To North Korea?
-*   Napolitano: 14th Amendment Can't Be Changed With Stroke Of A Pen, Or Obama Would Have Changed 2nd
+*   Van Jones: This Is Not A Blue Wave, It's A Blue War. "Infestation Of Hate And Division" Remains
+*   Carville: "It's Not Going To Be A Wave Election" For Democrats, "Dissipating" Every Time I Check Results
+*   Sabato: "Inside Straight Chance" Republicans Hold House. We Predict Democrats Pick Up 30+ Seats
+*   Bolton: Iran Sanctions Having "Enormous" Economic Consequences. Iran Is In A Depression
+*   Limbaugh At Trump MAGA Rally in Cape Girardeau: Democrats Haven't Accepted That They Lost In 2016
 
 *   Politics
 *   Policy
