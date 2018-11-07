@@ -1,4 +1,4 @@
-SUBSCRIBE NOW99¢ first month. Save 90%
+close dialogTelling Your StoryDedicated to making a local impact99¢ First MonthSubscribeclose dialogSUBSCRIBE NOW99¢ first month. Save 90%
 
 *   Home
 *   News
@@ -74,7 +74,7 @@ SUBSCRIBE NOW99¢ first month. Save 90%
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowUTEP football live coverage: Miners beat RiceSportsBeto O'Rourke, Ted Cruz want you to votePoliticsUTEP ends country's longest losing streakSportsO'Rourke: Undercover Video aims to "polarize"PoliticsFollow El Paso high school football liveSportsWoman accused of drinking before fatal accidentCrimeDon't miss Natalicio's bun on limited T-shirtsLifePizza joint moves back to Central El Paso rootsBusinessSheriff: Woman tried to smuggle meth into jailCrimeMan sought for masturbating in parking lotCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowBeto comes up short in Texas Senate racePoliticsTexas Midterm Election: Statewide ResultsNewsEscobar becomes Texas' first Latina in CongressPolitics13 celebrites who want Beto O'Rourke to winNewsLive Election Day updates on Beto-Cruz racePoliticsEl Paso County Live election resultsNewsBeto O'Rourke votes in El Paso, says he'll winPoliticsBorder Patrol cancels 'crowd control' exerciseNewsBeto: 'El Paso, I love you more than I can say'PoliticsWhat's next for El Paso's Beto O'Rourke?PoliticsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -145,3 +145,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialogTelling your storyDedicated to making a local impact99¢for theFirst MonthSubscribe TodayNo Thanksclose dialogclose dialogTelling Your StoryDedicated to making a local impact99¢ First MonthSubscribeclose dialogclose dialogYour email is your passportUnlock exclusive access and special offersCreate free accountclose dialog
