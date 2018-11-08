@@ -2,9 +2,10 @@
 
 www.avg.com uses cookies to personalize your experience and help us improve content. Change your settings
 
-OK Log in to AVG MyAccount Blog MENU Skip to content Close
+OK Log in to AVG MyAccount Blog MENU Skip to content
 
 *   PC
+    *   PC
     *   The Best
     *   AVG Ultimate
     *   Protection
@@ -19,11 +20,13 @@ OK Log in to AVG MyAccount Blog MENU Skip to content Close
     *   AVG Secure Browser
     *   All Products
 *   Mac
+    *   Mac
     *   AVG Cleaner for Mac
     *   AVG AntiVirus for Mac
     *   AVG Secure VPN for Mac
     *   All products
 *   Mobile
+    *   Mobile
     *   AVG AntiVirus for Android
     *   AVG Cleaner for Android
     *   AVG Secure VPN for Android
@@ -31,16 +34,18 @@ OK Log in to AVG MyAccount Blog MENU Skip to content Close
     *   All Products
 *   Partners
 *   Business
+    *   Business
     *   AVG Internet Security Business Edition
     *   AVG AntiVirus Business Edition
     *   AVG File Server Business Edition
-    *   AVG Business AntiVirus for Mac
     *   Compare products
 *   Services
+    *   Services
     *   Premium Tech Support
     *   Remote Virus Removal
     *   Express Install
 *   Support
+    *   Support
     *   Home products
     *   Home Support
     *   Premium Tech Support
