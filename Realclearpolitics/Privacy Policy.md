@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Charles Mahtesian_: 11 Key Places That Will Decide the Midterm Outcome
+*   _David Siders_: Bragging Rights--and Disappointment--for Both Parties
     
-*   _Dylan Matthews_: A Chance to Reverse Damage Trump Has Done to Democracy
+*   _Peter Baker_: A Partisan War Awaits Trump. It Might Suit Him.
     
-*   _Brett Decker_: Trump Has Delivered on His Promises at Home and Abroad
+*   _Rahm Emanuel_: How Democrats Can Build a New Metropolitan Majority
     
-*   _Nate Silver_: Dems Aren't Certain to Win House, But They're Clear Favorites
+*   _Michael Goodwin_: Facing These Dems, Trump Will Be the Grown-Up in Room
     
-*   _Deroy Murdock_: 'Mirror, Mirror on the Wall, Who's the Leftest of Them All?'
+*   _William Saletan_: Republicans May Be Digging Themselves an Ideological Hole
     
-*   _Joshua Zeitz_: Dems Aren't Moving Left. They're Returning to Their Roots.
+*   _Everett &. Arkin_: How McConnell and Trump Blew Away Senate Democrats
     
-*   _Alexandra DeSanctis_: Why Donnelly Is Vulnerable on Abortion in Indiana Race
+*   _Mimi Swartz_: The Success in Beto O'Rourke's Texas Failure
     
-*   _Dan Kaufman_: Did Walker, Trump Deal Away Wisconsin Race to Foxconn?
+*   _Monica Showalter_: Biggest Loser of the Midterms? Barack Obama
     
-*   _Emma Green_: National Politics Has Taken Over America
+*   _Nick Troiano_: A Way Out of Pendulum Politics
     
-*   _Joy Pullmann_: After Common Core: Test Scores Down, Indoctrination Up
+*   _Lawrence Summers_: Why Trump's Fed Bashing Is a Fool's Game
     
-*   _Elizabeth Gershoff_: Is the Era of Spanking Finally Over?
+*   _John Eastman_: Trump Should Replace Sessions with Janice Rogers Brown
     
-*   _President Donald Trump_: Vote Republican and Continue the Jobs Boom
+*   _Carl Cannon_: Split Decision: Divided Government Returns to D.C.
     
-*   _Michelle Goldberg_: The Women's Revolt: Can the Resistance Save America?
+*   _Glenn Reynolds_: Forget the Blue Wave. Behold the Purple Puddle
     
-*   _Adriana Cohen_: Dems Wanted Us to 'Believe Women' Who Made Up Lies
+*   _Frank Bruni_: For Democrats--and America--a Sigh of Relief
     
-*   _Harris &. Johnson_: Will Trump Shatter His Own Mystique?
+*   _Ed Rogers_: Democrats Won the House, But Trump Won the Election
     
-*   _Malpass &. Cannon_: Republicans, Democrats Push Get-Out-the-Vote Strategies
+*   _Ezra Klein_: Trump's Political Strategy Is Failing
     
-*   _Liz Peek_: What Democrats Don't Get About the Economic Resurgence
+*   _Josh Kraushaar_: Voters Want Balance, Not Resistance
     
-*   _Andy Slavitt_: Vote Your Fears on Health Care, Not Caravan 'Crisis'
+*   _Byron York_: Kavanaugh Fight Was the Turning Point for Republicans
     
-*   _Mary Vought_: How Trump Has Improved Health Care for Americans
+*   _Jeff Spross_: Democrats' Health-Care Revenge
     
-*   _Brady &. Parker_: Flipping the House: What '94, '06, '10 Turnout Tells Us
+*   _George Neumayr_: Florida Survives Category 5 Liberalism
     
-*   _Mark Penn_: The Paradox of Trump's Poll Numbers and the Midterms
+*   _Harris &. Mahtesian_: Losses in the Suburbs a Warning Sign for Republicans
     
-*   _James Comey_: Let's Vote to Uphold Our Nation's Values
+*   _Tim Swarens_: How Mike Braun Won the Indiana Senate Race
     
-*   _David French_: The Democrats Have Not Earned Your Vote
+*   _Craig Gilbert_: Walker Era of Republican Dominance Ends in WI
     
-*   _Neera Tanden_: After Kavanaugh-Ford, Another Year of the Woman
+*   _Elie Honig_: Dems' Victory in House Provides Crucial Protection for Mueller
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Republicans, Democrats Push Get-Out-the-Vote Strategies
-*   Judgment Day Is Nearly Here: A Midterm Overview
-*   Ryan: We've Got a Really Good Chance to Hold the House
-*   What a Republican Hold in the House Might Look Like
-*   What a Democratic Wave in the House Might Look Like
+*   Divided Government Returns to Washington
+*   Republicans Expand Majority in the Senate With Key Victories
+*   Scott Victory Speech in FL: "I'm Going to D.C. to Get Something Done"
+*   Pelosi as House Speaker Would "Show the Power of the Gavel"
+*   Trump Celebrates Republican Gains, Threatens House Democrats
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -260,11 +260,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Watch: CNN Acosta's Press Credentials Revoked. Films Interaction With Secret Service Outside WH Gate
+*   Trump vs. Acosta Post-Election: "Let Me Run The Country, You Run CNN". "You Are A Rude, Terrible Person"
+*   Trump to Black PBS Reporter: Question About White Nationalism "Such A Racist Question"
+*   Graham: If Democrats Try To Impeach And Investigate Trump To Death It Will Blow Up In Their Face
 *   Van Jones: This Is Not A Blue Wave, It's A Blue War. "Infestation Of Hate And Division" Remains
-*   Carville: "It's Not Going To Be A Wave Election" For Democrats, "Dissipating" Every Time I Check Results
-*   Sabato: "Inside Straight Chance" Republicans Hold House. We Predict Democrats Pick Up 30+ Seats
-*   Bolton: Iran Sanctions Having "Enormous" Economic Consequences. Iran Is In A Depression
-*   Limbaugh At Trump MAGA Rally in Cape Girardeau: Democrats Haven't Accepted That They Lost In 2016
 
 *   Politics
 *   Policy
