@@ -24,7 +24,9 @@ Gift Cards | Offers | Sign In Sign Out
     *   The Girl in the Spider's Web
     *   Overlord (2018)
     *   El Angel (2018)
+    *   The Divide (2018)
     *   The Front Runner
+    *   In A Relationship
     *   Postcards from London
     *   River Runs Red
     *   Thugs of Hindostan
@@ -70,7 +72,7 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Music-themed Movies: 'Vox Lux,' 'Mary Poppins Returns,' 'Rocketman' Read More
+    *   Aaron Paul Touted to Star in 'Breaking Bad' Movie. Here's Everything We Know Read More
     *   'The Color Purple' Will Hit the Big Screen Again in Musical Form. Here's Everything We Know Read More
     *   Comics on Film: Who Is Black Mask, Ewan McGregor's Character in 'Birds of Prey'? Read More
     
