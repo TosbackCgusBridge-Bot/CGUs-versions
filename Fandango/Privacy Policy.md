@@ -74,7 +74,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     *   Aaron Paul Touted to Star in 'Breaking Bad' Movie. Here's Everything We Know Read More
     *   'The Color Purple' Will Hit the Big Screen Again in Musical Form. Here's Everything We Know Read More
-    *   Comics on Film: Who Is Black Mask, Ewan McGregor's Character in 'Birds of Prey'? Read More
+    *   'Jonny Quest' Gets 'Lego Batman Movie' Director. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
