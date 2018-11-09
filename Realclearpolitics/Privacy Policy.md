@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Siders_: Bragging Rights--and Disappointment--for Both Parties
+*   _Steve Israel_: Why Democrats Should Keep Pelosi as Their Leader
     
-*   _Peter Baker_: A Partisan War Awaits Trump. It Might Suit Him.
+*   _F.H. Buckley_: How a Democratic House Can Help Finish the Trump Agenda
     
-*   _Rahm Emanuel_: How Democrats Can Build a New Metropolitan Majority
+*   _John Della Volpe_: Midterms Saw Historic Turnout by Young Voters
     
-*   _Michael Goodwin_: Facing These Dems, Trump Will Be the Grown-Up in Room
+*   _Jack Shafer_: Jeff Sessions Is Gone, But Trump Can't Fire CNN
     
-*   _William Saletan_: Republicans May Be Digging Themselves an Ideological Hole
+*   _Bre Payton_: Jim Acosta's Self-Important Martyr Routine Is Growing Stale
     
-*   _Everett &. Arkin_: How McConnell and Trump Blew Away Senate Democrats
+*   _Mark Penn_: Trump Needs to Be a Unifier Now to Succeed
     
-*   _Mimi Swartz_: The Success in Beto O'Rourke's Texas Failure
+*   _Adam Serwer_: America's Problem Isn't Tribalism--It's Racism
     
-*   _Monica Showalter_: Biggest Loser of the Midterms? Barack Obama
+*   _Richard Porter_: Nationalism, America's Founding &. Where Liberals Went Wrong
     
-*   _Nick Troiano_: A Way Out of Pendulum Politics
+*   _Bryce Covert_: Democrats' Biggest Wins Are in Statehouses
     
-*   _Lawrence Summers_: Why Trump's Fed Bashing Is a Fool's Game
+*   _Steven Malanga_: Will New Dem Governors Revive Tax-and-Spend Agenda?
     
-*   _John Eastman_: Trump Should Replace Sessions with Janice Rogers Brown
+*   _Sosnik &. Fagen_: Here's a Road Map to the Next Decade of American Politics
     
-*   _Carl Cannon_: Split Decision: Divided Government Returns to D.C.
+*   _Conrad Black_: After Election Draw, How Will Trump &. Dems Move Forward?
     
-*   _Glenn Reynolds_: Forget the Blue Wave. Behold the Purple Puddle
+*   _Susan Glasser_: The Really Crazy Times Are Just Beginning
     
-*   _Frank Bruni_: For Democrats--and America--a Sigh of Relief
+*   _Newt Gingrich_: Trump Defeated Green Wave &. Liberal Media on Tuesday
     
-*   _Ed Rogers_: Democrats Won the House, But Trump Won the Election
+*   _Van Jones_: Reasons to be Excited About the Midterm Rainbow Wave
     
-*   _Ezra Klein_: Trump's Political Strategy Is Failing
+*   _Sean Trende_: Six Takeaways From the 2018 Midterms
     
-*   _Josh Kraushaar_: Voters Want Balance, Not Resistance
+*   _Todd Purdum_: Trump Jumps the Shark at Post-Election Presser
     
-*   _Byron York_: Kavanaugh Fight Was the Turning Point for Republicans
+*   _Michael Goodwin_: This Isn't Journalism, It's Narcissism
     
-*   _Jeff Spross_: Democrats' Health-Care Revenge
+*   _Michael Tomasky_: Trump Firing Sessions Is Post-Election Smoke Screen
     
-*   _George Neumayr_: Florida Survives Category 5 Liberalism
+*   _Gregg Jarrett_: Trump Did the Right Thing by Firing Sessions
     
-*   _Harris &. Mahtesian_: Losses in the Suburbs a Warning Sign for Republicans
+*   _Barr_: We Salute Jeff Sessions for a Job Well Done
     
-*   _Tim Swarens_: How Mike Braun Won the Indiana Senate Race
+*   _Andrew McCarthy_: Sessions' Replacement an Excellent Choice
     
-*   _Craig Gilbert_: Walker Era of Republican Dominance Ends in WI
+*   _Marc Lamont Hill_: Racism Won in Florida This Week
     
-*   _Elie Honig_: Dems' Victory in House Provides Crucial Protection for Mueller
+*   _David Smiley_: Liberal Agenda, FBI Probe Cost Gillum in Gov Race
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Six Takeaways From the Midterms
+*   Trump Hits Cooperative--and Feisty--Post-Midterm Notes
+*   Trump: Question About White Nationalism "Such a Racist Question"
+*   Exit Polls Show Suburbs as Likely 2020 Battlefield
 *   Divided Government Returns to Washington
-*   Republicans Expand Majority in the Senate With Key Victories
-*   Scott Victory Speech in FL: "I'm Going to D.C. to Get Something Done"
-*   Pelosi as House Speaker Would "Show the Power of the Gavel"
-*   Trump Celebrates Republican Gains, Threatens House Democrats
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -260,11 +260,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Michael Moore: Dems Have To Run "Beloved American" Like Michelle Obama or Sully Against Trump
+*   Protesters Mob Tucker Carlson's House, Call Him "Racist Scumbag". "We Know Where You Sleep At Night!"
 *   Watch: CNN Acosta's Press Credentials Revoked. Films Interaction With Secret Service Outside WH Gate
 *   Trump vs. Acosta Post-Election: "Let Me Run The Country, You Run CNN". "You Are A Rude, Terrible Person"
 *   Trump to Black PBS Reporter: Question About White Nationalism "Such A Racist Question"
-*   Graham: If Democrats Try To Impeach And Investigate Trump To Death It Will Blow Up In Their Face
-*   Van Jones: This Is Not A Blue Wave, It's A Blue War. "Infestation Of Hate And Division" Remains
 
 *   Politics
 *   Policy
