@@ -39,24 +39,24 @@ Stock Quote and Chart
 
 Price
 
-$3.41
+$3.37
 
 Change
 
- + 0.66
+ - 0.04
 
 Percent Change
 
  (0.00%)
 
-11/07/184:00 p.m. ET  
+11/08/184:00 p.m. ET  
 Data provided by Nasdaq. Minimum 15 minutes delayed.view details  
-Recent News11/07/18Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share  
+Recent News11/08/18Countdown to Black Friday Is On: Office Depot Unveils Hot Black Friday Deals  
 view more
 
 Recent News
 
-11/07/18Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share  
+11/08/18Countdown to Black Friday Is On: Office Depot Unveils Hot Black Friday Deals  
 view moreEvents11/07/18Q3 2018 Office Depot Inc. Earnings Webcast  
 view more
 
