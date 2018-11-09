@@ -1,47 +1,4 @@
-Skip Navigation Stores &. Events My Account USD Have an Account? SIGN IN
-
-*   Women
-*   Shoes
-*   Handbags
-*   Jewelry &. Accessories
-*   Beauty
-*   Men
-*   Kids
-*   Home
-*   Gifts
-*   DESIGNERS
-*   EDITORIAL
-
-*   THE REGISTRY
-*   Stores &. Events
-*   Promotions
-*   My Account
-    *   Account Overview
-    *   Bloomingdale’s Credit Card
-    *   bWallet
-    *   Loyallist
-        *   Already a Loyallist
-        *   Become a Loyallist
-        *   My Perks
-    *   Wish Lists
-
-USD Change Recent Searches
-
-*   Recent Searches Clear
-
-*   Women
-*   Shoes
-*   Handbags
-*   Jewelry &. Accessories
-*   Beauty
-*   Men
-*   Kids
-*   Home
-*   Gifts
-*   DESIGNERS
-*   EDITORIAL
-
-Live Chat CALL US **ANY TIME**:1.800.777.0000  
+Skip Navigation Live Chat CALL US **ANY TIME**:1.800.777.0000  
   
 We're available 24 hours, 7 days a week. menu
 
