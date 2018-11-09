@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Samsung announce Linux on DeX with Ubuntu: for developers on the move ›
+*   Keep legacy applications secure with Extended Security Maintenance ›
 *   KubeCon and CloudNativeCon ›
 *   How Ubuntu is at the forefront of security &. compliance ›
 *   A guide to snap permissions and interfaces ›
-*   Canonical’s Distribution of Kubernetes supported on Arm architecture ›
-*   Statement on the IBM acquisition of Red Hat ›
