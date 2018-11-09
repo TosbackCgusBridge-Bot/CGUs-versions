@@ -3,9 +3,8 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Call 1 855 643 37681 855 643 3768 or contact us
-
-to become a Gartner client.
+Become a client  
+Request a call or dial 1 855 457 33781 855 457 3378
 
 Log in Become a Client
 
@@ -261,9 +260,8 @@ Log in Become a Client
     
     Career Opportunities Life at Gartner Campus
     
-*   Call 1 855 643 37681 855 643 3768 or contact us
-    
-    to become a Gartner client.
+*   Become a client  
+    Request a call or dial 1 855 457 33781 855 457 3378
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018  
