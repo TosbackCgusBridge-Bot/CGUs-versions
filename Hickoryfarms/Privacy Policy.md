@@ -10,7 +10,6 @@
     *   New!
     
     Occasions*   Thanksgiving
-    *   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -93,7 +92,6 @@
     *   New!
     
     Occasions*   Thanksgiving
-    *   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
