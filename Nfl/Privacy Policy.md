@@ -1,4 +1,4 @@
-*   CAR6-2PIT5-2-1Thu, 8:20 pm ET
+*   CAR6-321PIT6-2-152Final
 *   DET3-5CHI5-3Sun, 1:00 pm ET
 *   NO7-1CIN5-3Sun, 1:00 pm ET
 *   ATL4-4CLE2-6-1Sun, 1:00 pm ET
@@ -30,7 +30,7 @@
 *   NFL Network
 *   Photos
 
-*   CAR6-2PIT5-2-1Thu, 8:20 pm ET
+*   CAR21PIT52Final
 *   DET3-5CHI5-3Sun, 1:00 pm ET
 *   NO7-1CIN5-3Sun, 1:00 pm ET
 *   ATL4-4CLE2-6-1Sun, 1:00 pm ET
@@ -52,6 +52,7 @@
 *   Highlights
 *   Playoff Picture
 
+*   Scores
 *   Highlights
 
 *   *   Game Pass
