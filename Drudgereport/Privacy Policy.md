@@ -192,8 +192,7 @@ Contact Us | Request for Proposal
 703.242.7878 | solutions@intermarket.net  
 11951 Freedom Dr. 11th Floor | Reston VA, 20190
 
-LATEST FROM THE BLOG  
-Ad Tech Needs Humans to be Successful
+LATEST FROM THE BLOGAd Tech Needs Humans to be SuccessfulSeptember 19, 2018
 
 SEE MORE
 
