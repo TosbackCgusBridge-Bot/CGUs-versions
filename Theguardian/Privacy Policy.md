@@ -7,16 +7,24 @@ We use your personal data for many reasons, from understanding how our users eng
 These are the main reasons why we collect and use data about our users:
 
 *   To show you journalism that is relevant to you and to improve your experience on our site
+    
 *   To provide the services you sign up for, such as subscriptions
+    
 *   To carry out marketing analysis and send you communications when we have your permission, or when permitted by law
+    
 *   To enable us to show advertising on our sites.
+    
 
 We think carefully about our use of personal data, and below you can find the details of what we do to protect your privacy. This policy covers, among other topics :
 
 *   Information about your rights and our obligations
+    
 *   Clarity about our dealings with you and transparency about how we collect and use your personal data
+    
 *   Commitments on how we protect your personal data
+    
 *   Commitments on how we will facilitate your rights and respond to your questions.
+    
 
 We will continue to examine how we can provide more clarity to our users about our use of data.
 
@@ -50,17 +58,22 @@ Personal data is any information about you by which you can be identified. This 
 *   debit card details;  
     
 *   information about your device (such as the IP address, which is a numerical code to identify your device that can provide information about the country, region or city where you are based). and
+    
 *   information relating to your personal circumstances and how you use our sites, apps and services.  
     
 
 Some of our other services have separate privacy policies. You can read them using these links:  
 
 *   Guardian Jobs (jobseekers)
+    
 *   Guardian Jobs (recruiters)
+    
 *   Guardian Soulmates
+    
 *   Guardian Holidays
-*   Guardian Courses
+    
 *   Guardian Crowd (pdf)
+    
 
 Sometimes our sites and apps may contain links to third party sites and services. These sites and services have their own privacy policies. If you follow a link to a third party, you should read the privacy policy shown on their site.
 
@@ -186,10 +199,13 @@ We will only use your personal data where we have a legal ground to do so. We de
     
 
 *   Our legitimate interests: Where it is necessary for us to understand our readers, promote our services and operate our sites and apps efficiently for the creation, publication and distribution of news, media and related journalistic content both online and in print form, globally. For example, we will rely on our legitimate interest when we analyse what content has been viewed on our sites and apps, so that we can understand how they are used. It is also in our legitimate interest to carry out marketing analysis to determine what products and services may be relevant to the interests of our readers. You can opt out from having your personal data used for marketing analysis in your account in the “emails and marketing” tab.
+    
 
 *   Performance of a contract with you (or in order to take steps prior to entering into a contract with you): For example, where you have purchased a subscription from us and we need to use your contact details and payment information in order to process your order and deliver your subscription.
+    
 
 *   Compliance with law: In some cases, we may have a legal obligation to use or keep your personal data.
+    
 
 _Updating your personal data and your profile page on our sites_
 
@@ -398,7 +414,9 @@ May 2017: updated information on the use of anonymous information for online adv
 
 February 2018: updated information on marketing preferences and use of children’s data
 
-May 2018: updated to reflect changes resulting from the General Data Protection Regulation.  
+May 2018: updated to reflect changes resulting from the General Data Protection Regulation.
+
+November 2018: Removal of reference to Guardian Courses.  
 
 Topics
 
