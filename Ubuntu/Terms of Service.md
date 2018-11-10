@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   How to harness big data for maximum business value ›
+*   The rise of the Digital Smart Kiosk ›
 *   Samsung announce Linux on DeX with Ubuntu: for developers on the move ›
 *   Keep legacy applications secure with Extended Security Maintenance ›
 *   KubeCon and CloudNativeCon ›
-*   How Ubuntu is at the forefront of security &. compliance ›
-*   A guide to snap permissions and interfaces ›
