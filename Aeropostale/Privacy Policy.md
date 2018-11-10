@@ -4,9 +4,8 @@ United States We now ship to your country with Borderfree. I'm shipping to: Afgh
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
+*   Open submenu ( Gifts ) Gifts
 *   Open submenu ( Clearance ) Clearance
-
-*   Select Country
 
 *   Help? - Contact Us Help? - Contact Us
 *   Sign Up/Login
@@ -23,27 +22,27 @@ Close submenu ( Girls ) Girls
 
 *   View All
 *   New Arrivals
-*   Aero One
+*   Gifts for Her
 *   Best Sellers
 *   Destroyed Denim
-*   Cozy
-*   Knotted + Twisted
 *   New Jean Fits
-*   Flex Effects
-*   Lace Up Details
-*   Message Tees
+*   Cozy
+*   Online Only
+*   Aero One
+*   Matching Sets
 
 Close submenu ( Guys ) Guys
 
 *   View All
 *   New Arrivals
-*   Aero One
+*   Gifts for Him
 *   Best Sellers
 *   Destroyed Denim
-*   Lounge
 *   Layer Up
-*   Message Tees
-*   Flex Effects
+*   Active
+*   Online Only
+*   Aero One
+*   Matching Sets
 
 Close submenu ( Girls ) Girls
 
@@ -52,12 +51,12 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Bottoms ) Bottoms
 
-*   Dresses + Rompers
 *   Jackets + Vests
-*   Winter Accessories
+*   Hats, Gloves + Scarves
+*   Dresses + Rompers
 *   Accessories
+*   Slippers + Slides
 *   Fragrance
-*   Shoes
 *   Extended Sizes
 *   Clearance
 
@@ -70,9 +69,9 @@ Close submenu ( Tops ) Tops
 *   View All
 *   Tees
 *   Graphic Tees
-*   Polos
 *   Long Sleeve
 *   Hoodies + Sweatshirts
+*   Polos
 *   Camis + Tanks
 *   Fashion Tops
 *   Shirts
@@ -105,13 +104,11 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Flash Sale
-*   Denim Guide
-*   Flex Effects
-*   Tribe Of Tees
-*   Logo Shop
-*   Seriously Soft
 *   Online Only
+*   Denim Guide
+*   Tribe Of Tees
+*   Basic Essentials
+*   Seriously Soft
 *   Uniform
 
 Close submenu ( Guys ) Guys
@@ -122,7 +119,7 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Bottoms ) Bottoms
 
 *   Jackets + Vests
-*   Winter Accessories
+*   Hats, Gloves + Scarves
 *   Accessories
 *   Underwear
 *   Cologne + Grooming
@@ -156,14 +153,12 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Flash Sale
+*   Online Only
 *   Denim Guide
-*   Flex Effects
 *   Tribe of Tees
 *   Lounge
 *   Active
-*   Logo Shop
-*   Online Only
+*   Back to Basics
 *   Uniform
 
 Close submenu ( Jeans ) Jeans
@@ -176,6 +171,7 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
+*   Destroyed Denim
 *   New Fits
 *   Low Rise Jegging
 *   High Rise Ankle Jegging
@@ -189,7 +185,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Overalls
 *   Flex Effects
 *   Eco-Friendly Repreve
-*   Destroyed Denim
 
 Close submenu ( Guys Jeans ) Guys Jeans
 
@@ -203,6 +198,40 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Relaxed
 *   Flex Effects
 *   Destroyed Denim
+
+Close submenu ( Gifts ) Gifts
+
+*   View Home
+*   Open submenu ( Gifts for Her ) Gifts for Her
+
+*   Open submenu ( Gifts for Him ) Gifts for Him
+
+*   Open submenu ( Gift Cards ) Gift Cards
+
+Close submenu ( Gifts for Her ) Gifts for Her
+
+*   View All
+*   Gifts Under $10
+*   Gifts Under $20
+*   Stocking Stuffers
+*   Comfy + Cozy
+*   Favorites For Her
+*   Best Sellers
+
+Close submenu ( Gifts for Him ) Gifts for Him
+
+*   View All
+*   Gifts Under $10
+*   Gifts Under $20
+*   Stocking Stuffers
+*   Lounge
+*   Favorites For Him
+*   Best Sellers
+
+Close submenu ( Gift Cards ) Gift Cards
+
+*   View All
+*   eGift Cards
 
 Close submenu ( Clearance ) Clearance
 
@@ -246,9 +275,8 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **EXTRA 15% OFF** USE CODE **FLASH15** GIRLS GUYS **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
+**SPEND $50 GET A $10 CASH CARD DETAILS** **FREE SHIPPING ON ORDERS OVER $50**
 
-*   Select Country
 *   My Account My Account Login Register
 
 Menu Find a Store Aeropostale
@@ -259,26 +287,26 @@ Menu Find a Store Aeropostale
     *   Girls
         *   View All
         *   New Arrivals
-        *   Aero One
+        *   Gifts for Her
         *   Best Sellers
         *   Destroyed Denim
-        *   Cozy
-        *   Knotted + Twisted
         *   New Jean Fits
-        *   Flex Effects
-        *   Lace Up Details
-        *   Message Tees
+        *   Cozy
+        *   Online Only
+        *   Aero One
+        *   Matching Sets
     
     *   Guys
         *   View All
         *   New Arrivals
-        *   Aero One
+        *   Gifts for Him
         *   Best Sellers
         *   Destroyed Denim
-        *   Lounge
         *   Layer Up
-        *   Message Tees
-        *   Flex Effects
+        *   Active
+        *   Online Only
+        *   Aero One
+        *   Matching Sets
     
     Shop Girls Shop Guys
     
@@ -290,9 +318,9 @@ Menu Find a Store Aeropostale
         *   View All
         *   Tees
         *   Graphic Tees
-        *   Polos
         *   Long Sleeve
         *   Hoodies + Sweatshirts
+        *   Polos
         *   Camis + Tanks
         *   Fashion Tops
         *   Shirts
@@ -311,12 +339,12 @@ Menu Find a Store Aeropostale
         *   Skirts
         
     
-    *   Dresses + Rompers
     *   Jackets + Vests
-    *   Winter Accessories
+    *   Hats, Gloves + Scarves
+    *   Dresses + Rompers
     *   Accessories
+    *   Slippers + Slides
     *   Fragrance
-    *   Shoes
     *   Extended Sizes
     *   Clearance
     
@@ -332,13 +360,11 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Flash Sale
-        *   Denim Guide
-        *   Flex Effects
-        *   Tribe Of Tees
-        *   Logo Shop
-        *   Seriously Soft
         *   Online Only
+        *   Denim Guide
+        *   Tribe Of Tees
+        *   Basic Essentials
+        *   Seriously Soft
         *   Uniform
 *   Guys
     
@@ -364,7 +390,7 @@ Menu Find a Store Aeropostale
         
     
     *   Jackets + Vests
-    *   Winter Accessories
+    *   Hats, Gloves + Scarves
     *   Accessories
     *   Underwear
     *   Cologne + Grooming
@@ -374,14 +400,12 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Flash Sale
+        *   Online Only
         *   Denim Guide
-        *   Flex Effects
         *   Tribe of Tees
         *   Lounge
         *   Active
-        *   Logo Shop
-        *   Online Only
+        *   Back to Basics
         *   Uniform
     
 *   Jeans
@@ -389,6 +413,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
+        *   Destroyed Denim
         *   New Fits
         *   Low Rise Jegging
         *   High Rise Ankle Jegging
@@ -402,7 +427,6 @@ Menu Find a Store Aeropostale
         *   Overalls
         *   Flex Effects
         *   Eco-Friendly Repreve
-        *   Destroyed Denim
     
     *   Guys Jeans
         *   View All
@@ -416,6 +440,30 @@ Menu Find a Store Aeropostale
         *   Flex Effects
         *   Destroyed Denim
     
+*   Gifts
+    
+    *   View Home
+    *   Gifts for Her
+        *   View All
+        *   Gifts Under $10
+        *   Gifts Under $20
+        *   Stocking Stuffers
+        *   Comfy + Cozy
+        *   Favorites For Her
+        *   Best Sellers
+    
+    *   Gifts for Him
+        *   View All
+        *   Gifts Under $10
+        *   Gifts Under $20
+        *   Stocking Stuffers
+        *   Lounge
+        *   Favorites For Him
+        *   Best Sellers
+    
+    *   Gift Cards
+        *   View All
+        *   eGift Cards
 *   Clearance
     
     *   View Home
@@ -451,14 +499,12 @@ Menu Find a Store Aeropostale
         *   Lounge
     
 
-*   Select Country
-
 *   Help? - Contact Us Help? - Contact Us
 *   Sign Up/Login
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 or When You Buy Jeans Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Hoodies Shop Guys Hoodies Shop Girls Tees Shop Guys Tees Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Learn More <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 or When You Buy Hoodies or Joggers Shop Girls Shop Guys Shop Girls Hoodies Shop Guys Hoodies Shop Girls Tees Shop Guys Tees Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Learn More <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions Details FOLLOW US Customer Care
 
 *   Order Status
@@ -493,19 +539,6 @@ Stay Connected
 *   Find Store Coupons
 *   Live Chat (9am - 10pm EST)Call Us
 *   Use Student Discount
+*   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
