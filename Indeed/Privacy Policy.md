@@ -91,7 +91,7 @@ Please review the “Last Updated” legend at the top of the Cookie Policy to d
 
 Privacy Policy
 
-Last Updated: November 5, 2018
+Last Updated: November 9, 2018
 
 **1\. Introduction**
 
@@ -164,6 +164,10 @@ By accessing Indeed through your Facebook or Google account, you understand that
 You have the ability to disable the connection between your Facebook or Google account and your Indeed account at any time by accessing your privacy settings on your Facebook or Google account. Facebook and Google may also ask for your permission to share certain other details with Indeed, including but not limited to your name, profile picture, public profile information, and email address. Once you give this permission, the requested information will be shared with Indeed, which may use this information to provide Services to you, including populating your Indeed profile. The shared information will remain associated with your Indeed profile until you modify or delete it. For those users that avail of Indeed Family specifically, Facebook may ask for permission to share your friends list, and Indeed may use some of this data to connect you with other users of Indeed Family.
 
 PLEASE NOTE THAT YOUR RELATIONSHIP WITH FACEBOOK OR GOOGLE OR ANY OTHER THIRD-PARTY WEBSITE IS GOVERNED SOLELY BY YOUR AGREEMENT WITH SUCH THIRD-PARTY WEBSITE.
+
+Indeed Embox is a browser extension or add-on developed by Indeed, which can be downloaded from the Google Chrome Web Store or G Suite Marketplace. Indeed Embox serves as a free extension or add-on in Gmail that allows you to manage your candidates by updating their application status and utilizing templates to respond to applications.
+
+If you use Indeed Embox, Indeed may collect information that you save or update while you use the extension or add-on, as well as information about your general activity within the extension or add-on. For example, Indeed collects your email address and notes or information about a candidate or candidate statuses that you save or update.
 
 **2.3 Any Other Personal Data Indeed May Receive from Third Parties**
 
@@ -1155,4 +1159,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1crrk4vapavgp800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cru5puqlaust800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
