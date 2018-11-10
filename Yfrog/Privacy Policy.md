@@ -62,7 +62,7 @@ United States - EnglishChoose your Country/Region
 
 Contact Us 24/7Call us
 
-*   Call our award-winning sales &. support team 24/7(480) 505-8877
+*   Call our award-winning sales &. support team 24/7(480) 505 8877
 
 Global DirectoryPhone numbers and hoursHelp Center
 
