@@ -73,7 +73,7 @@ Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Aaron Paul Touted to Star in 'Breaking Bad' Movie. Here's Everything We Know Read More
-    *   'The Color Purple' Will Hit the Big Screen Again in Musical Form. Here's Everything We Know Read More
+    *   The Week in Movie News: Spielberg Revisiting 'The Color Purple,' First 'Missing Link' Trailer and More Read More
     *   'Jonny Quest' Gets 'Lego Batman Movie' Director. Here's Everything We Know Read More
     
     Explore Content
