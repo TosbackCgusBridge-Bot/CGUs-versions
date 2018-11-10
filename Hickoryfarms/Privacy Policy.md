@@ -10,10 +10,7 @@
     *   New!
     
     Occasions*   Thanksgiving
-    *   Birthday Gifts
-    *   Weddings &. Showers
-    *   Thank You
-    *   Graduation &. CongratulationsMost Popular New! Thanksgiving Gifts
+    *   Birthday GiftsMost Popular New! Thanksgiving Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -52,6 +49,7 @@
     
     Effortless Meals*   Gourmet Meals
     *   Side Dishes &. Appetizers
+    *   Specialty Meats
     *   Burgers
 *   Sweets
     View All Categories Shop by Category*   Chocolates
@@ -92,10 +90,7 @@
     *   New!
     
     Occasions*   Thanksgiving
-    *   Birthday Gifts
-    *   Weddings &. Showers
-    *   Thank You
-    *   Graduation &. CongratulationsMost Popular New! Thanksgiving Gifts
+    *   Birthday GiftsMost Popular New! Thanksgiving Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -134,6 +129,7 @@
     
     Effortless Meals*   Gourmet Meals
     *   Side Dishes &. Appetizers
+    *   Specialty Meats
     *   Burgers
 *   Sweets
     View All Categories Shop by Category*   Chocolates
