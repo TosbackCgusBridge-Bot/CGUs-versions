@@ -236,7 +236,9 @@ Whenever Personal Information is stored on our computers (which may be for an in
 
 Of course, we appreciate your help in safeguarding the integrity of your own and others’ privacy. We hope you’ll use common sense whenever you disclose Personal Information over the Internet. Just as importantly, we encourage you to let us know immediately if you suspect that Personal Information you share with us is being used in any way contrary to this Privacy Policy. Finally, unfortunately no data transmission over the Internet nor any storage of information on servers or other media can be guaranteed or made to be 100% secure. and while we strive to protect Personal Information, as outlined in this Privacy Policy, we cannot promise, guarantee or warrant the complete security of information. To contact us, please send an email to:
 
-Privacy@move.com or Webmaster@move.com. Scope of this Privacy Policy: Outside Links
+Privacy@move.com or Webmaster@move.com.  
+  
+Scope of this Privacy Policy: Outside Links
 
 Be aware that our Sites link to other websites and media that may collect Personal Information. This Privacy Policy applies only to the Sites, and we are not responsible for the privacy practices, nor the content, associated with any linked websites. You should refer to the privacy policies and statements of other websites or contact the respective Webmasters of those websites to obtain information regarding their information collection, security, use and disclosure policies.
 
@@ -263,6 +265,10 @@ Move, Inc.
 Westlake Village, CA 91360  
 Fax: (805) 557-2680  
 Email: Privacy@move.com
+
+  
+  
+  
 
 *   About Us
 *   Careers
