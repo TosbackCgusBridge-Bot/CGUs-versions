@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   9\. November 2018
+*   10\. November 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.527,32ǀ
+*   DAX 11.529,16ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -79,7 +79,6 @@ Anmelden
         *   Formel 1
         *   Formel-1-Liveticker
         *   Ergebnisse
-        *   Künstliche Intelligenz
         *   Schach-WM 2018
     *   *   Sportwetten
 *   Kultur
