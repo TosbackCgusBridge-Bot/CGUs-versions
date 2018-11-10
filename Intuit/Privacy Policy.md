@@ -13,9 +13,19 @@ SHOP DEPARTMENTS
 
 *   Same Day Pickup
 *   Holiday Gifts
+    *   Gifts for Her
+    *   Gifts for Him
+    *   Gifts for Kids
+    *   Gifts for Baby
+    *   All Gifts
 *   Toys
 *   Store Ads
 *   Clearance
+    *   Women
+    *   Shoes
+    *   Men
+    *   Kids
+    *   More Categories
 *   Coupons
 
 Near YouFind a StoreBack SHOP NOW SHOP NOW
@@ -24,30 +34,30 @@ Near YouFind a StoreBack SHOP NOW SHOP NOW
     
     $18 sale
     
-    was $60 Liz Claiborne Savannah Womens Pumps(13)Add To Cart
+    was $60 Liz Claiborne Womens Savannah PumpsAdd To Cart
 *   from$18 sale
     
-    was $60 Liz Claiborne Selma Womens Ballet Flats(22)Add To Cart
+    was $60 Liz Claiborne Womens Selma Ballet Flats(22)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1650 sale
     
-    was $55 east 5th Aloha Womens Ballet Flats Slip-on Round Toe(2)Add To Cart
+    was $55 east 5th Womens Aloha Ballet Flats Slip-on Round Toe(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     from$1099 sale
     
-    was $55 Worthington Cohen Womens Pumps Zip Open Toe Stiletto Heel(33)Add To Cart
+    was $55 Worthington Womens Cohen Pumps Zip Open Toe Stiletto Heel(33)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1650 sale
     
-    was $55 east 5th Hawken Womens Ballet Flats Slip-on Round Toe(1)Add To Cart
+    was $55 east 5th Womens Hawken Ballet Flats Slip-on Round Toe(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1999 sale
     
-    was $55 a.n.a Glen Womens Ballet Flats Slip-on Pointed Toe(8)Add To Cart
+    was $55 a.n.a Womens Glen Ballet Flats Slip-on Pointed Toe(8)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $15 sale
@@ -60,42 +70,42 @@ SHOP NOW SHOP NOW
     
     $799 sale
     
-    was $19 a.n.a Favorite Layering Tee Long Sleeve Scoop Neck T-Shirt-Womens(17)Add To Cart
+    was $19 a.n.a Favorite Layering Tee Long Sleeve Scoop Neck T-Shirt-WomensAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $1299 sale
     
-    was $32 Worthington Long Sleeve V Neck Pullover Sweater(9)Add To Cart
+    was $32 Worthington Long Sleeve V Neck Pullover SweaterAdd To Cart
 *   from$1299 sale
     
-    was $37 Worthington Long Sleeve Crew Neck Pullover Sweater(6)Add To Cart
+    was $37 Worthington Long Sleeve Crew Neck Pullover SweaterAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $1299 sale
     
-    was $32 Worthington Long Sleeve Crew Neck Pullover Sweater(6)Add To Cart
+    was $32 Worthington Long Sleeve Crew Neck Pullover SweaterAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $1799 sale
     
-    was $44 Worthington Long Sleeve Open Front Cardigan(15)Add To Cart
+    was $44 Worthington Long Sleeve Open Front CardiganAdd To Cart
 *   from$1799 sale
     
-    was $44 a.n.a Long Sleeve Open Neck Cardigan(8)Add To Cart
+    was $44 a.n.a Long Sleeve Open Neck CardiganAdd To Cart
 *   from$799 sale
     
-    was $22 a.n.a. 3/4 Sleeve Scoop Neck T-Shirt(29)Add To Cart
+    was $22 a.n.a. 3/4 Sleeve Scoop Neck T-ShirtAdd To Cart
 
 Hot Sellers
 
-*   $3999after couponwas $79 Yuu Womens Bootie Zip(11)
-*   BIG BUY!
+*   $3199after couponwas $70 St. John's Bay Womens Leia Block Heel Zip Bootie(12)
+*   $3999 sale
     
-    $3399after couponwas $155 Cooks 16-pc. Block Triple Rivet Knife Set
-*   $599after couponwas $38 Decree Short Sleeve Plaid Button-Front Shirt(1)
-*   $4249after couponwas $140 Cooks 6 Quart Fast Pot Multi-Cooker(1)
-*   $3199after couponwas $70 a.n.a Womens Atlas Zip Bootie(24)
-*   from$1439after couponwas $39 - $44 Arizona Flex Woven Jogger Pants Boys 4-20 &. Husky(3)
+    was $59.50 | 32% offLevi's® 550™ Relaxed Fit Jeans(1143)
+*   $3199after couponwas $80 Arizona Womens Palmer Over the Knee Block Heel Pull-on Boots(11)
+*   $3199after couponwas $80 Arizona Womens Cuala Wide Calf Riding Boots Flat Heel Zip(8)
+*   from$3999after couponwas $100 - $200 Biddeford™ MicroPlush Heated Blanket(946)
+*   $1439after couponwas $39 North Pole Trading Company Chillin 2 Piece Set - Unisex Kid's
 
 Shop and Save at JCPenney
 
