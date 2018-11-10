@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Steve Israel_: Why Democrats Should Keep Pelosi as Their Leader
+*   _Timothy Egan_: One-Party Rule Is Over: Democracy Has a Pulse
     
-*   _F.H. Buckley_: How a Democratic House Can Help Finish the Trump Agenda
+*   _Ben Domenech_: The Potential for a Stolen Florida Election Is Real
     
-*   _John Della Volpe_: Midterms Saw Historic Turnout by Young Voters
+*   _Norman Ornstein_: Republicans Broke Congress. Democrats Can Fix It.
     
-*   _Jack Shafer_: Jeff Sessions Is Gone, But Trump Can't Fire CNN
+*   _Jonathan Tobin_: Have Trump's Reelection Prospects Improved?
     
-*   _Bre Payton_: Jim Acosta's Self-Important Martyr Routine Is Growing Stale
+*   _Nate Silver_: 2018 Map Looked a Lot Like 2012--What Does It Mean for 2020?
     
-*   _Mark Penn_: Trump Needs to Be a Unifier Now to Succeed
+*   _Suzanne Fields_: Kavanaugh's False Accusers Deserve to Be Prosecuted
     
-*   _Adam Serwer_: America's Problem Isn't Tribalism--It's Racism
+*   _Denise Balkissoon_: The White Women Who Drive Hate in America
     
-*   _Richard Porter_: Nationalism, America's Founding &. Where Liberals Went Wrong
+*   _Grazie Christie_: Federal Rule Protects Nuns' Stance on Obamacare Mandate
     
-*   _Bryce Covert_: Democrats' Biggest Wins Are in Statehouses
+*   _Ruth Marcus_: Whitaker Is the Wrong Choice to Replace Sessions
     
-*   _Steven Malanga_: Will New Dem Governors Revive Tax-and-Spend Agenda?
+*   _Mark Wauck_: Could Papadopoulos Blow the Russia Hoax Wide Open?
     
-*   _Sosnik &. Fagen_: Here's a Road Map to the Next Decade of American Politics
+*   _Carl Cannon_: A Tip o' the Cup to Irish Coffee
     
-*   _Conrad Black_: After Election Draw, How Will Trump &. Dems Move Forward?
+*   _Michael Barone_: Split Decision Sends Polarized Politics Toward 2020
     
-*   _Susan Glasser_: The Really Crazy Times Are Just Beginning
+*   _Eugene Robinson_: Dems Ready to Hold Trump Accountable. Grab the Popcorn
     
-*   _Newt Gingrich_: Trump Defeated Green Wave &. Liberal Media on Tuesday
+*   _Patrick Buchanan_: The War for the Soul of America
     
-*   _Van Jones_: Reasons to be Excited About the Midterm Rainbow Wave
+*   _Tom Steyer_: Why Democrats Must Impeach the President
     
-*   _Sean Trende_: Six Takeaways From the 2018 Midterms
+*   _Marc Thiessen_: Dems' Character Assassination of Kavanaugh Backfired
     
-*   _Todd Purdum_: Trump Jumps the Shark at Post-Election Presser
+*   _Joan Vennochi_: How the GOP Used Kavanaugh to Steal the Election
     
-*   _Michael Goodwin_: This Isn't Journalism, It's Narcissism
+*   _Byron York_: As World Moves On, Kavanaugh Fight Continues
     
-*   _Michael Tomasky_: Trump Firing Sessions Is Post-Election Smoke Screen
+*   _Moira Donegan_: 1/2 of White Women Vote GOP. What's Wrong w/Them?
     
-*   _Gregg Jarrett_: Trump Did the Right Thing by Firing Sessions
+*   _Allie Stuckey_: Sorry, Liberals: White Women Don't Need Your Saving
     
-*   _Barr_: We Salute Jeff Sessions for a Job Well Done
+*   _Gabriel DeBenedetti_: There's a New Electoral Map in Town
     
-*   _Andrew McCarthy_: Sessions' Replacement an Excellent Choice
+*   _Matthew Continetti_: The Lesson of 2018? Same As It Ever Was
     
-*   _Marc Lamont Hill_: Racism Won in Florida This Week
+*   _Katyal &. Conway_: Trump's Appointment of Whitaker Is Unconstitutional
     
-*   _David Smiley_: Liberal Agenda, FBI Probe Cost Gillum in Gov Race
+*   _Jonathan Turley_: Is Whitaker Stooge or Savior? His Actions Will Tell Us
     
 
 *   Previous
@@ -230,7 +230,7 @@ RecommendedPolitics
 
 *   Six Takeaways From the Midterms
 *   Trump Hits Cooperative--and Feisty--Post-Midterm Notes
-*   Trump: Question About White Nationalism "Such a Racist Question"
+*   Scott: I Won't Let "Unethical Liberals" Steal Election in Florida
 *   Exit Polls Show Suburbs as Likely 2020 Battlefield
 *   Divided Government Returns to Washington
 *   Presidential Job Approval
@@ -260,11 +260,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Tucker Carlson on Mob Protest At Home: They Were Threatening My Family To Get Me To Stop Talking
+*   Rubio: Democratic Lawyers "Descending On Florida" Not For A Recount, But To Change Outcome
 *   Michael Moore: Dems Have To Run "Beloved American" Like Michelle Obama or Sully Against Trump
 *   Protesters Mob Tucker Carlson's House, Call Him "Racist Scumbag". "We Know Where You Sleep At Night!"
-*   Watch: CNN Acosta's Press Credentials Revoked. Films Interaction With Secret Service Outside WH Gate
 *   Trump vs. Acosta Post-Election: "Let Me Run The Country, You Run CNN". "You Are A Rude, Terrible Person"
-*   Trump to Black PBS Reporter: Question About White Nationalism "Such A Racist Question"
 
 *   Politics
 *   Policy
