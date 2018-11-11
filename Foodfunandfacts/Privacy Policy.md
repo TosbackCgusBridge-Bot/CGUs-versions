@@ -1,6 +1,5 @@
-ドメインが無効な状態です。
-
-「 www.foodfunandfacts.com 」のページは、ドメインが無効な状態です。  
-ウェブサイト管理者の方はこちらから変更・更新を行ってください。
-
-「 www.foodfunandfacts.com 」is Expired or Suspended. The WHOIS is here.
+foodfunandfacts.com 2018 Copyright. All Rights Reserved.  
+  
+The Sponsored Listings displayed above are served automatically by a third party. Neither the service provider nor the domain owner maintain any relationship with the advertisers. In case of trademark issues please contact the domain owner directly (contact information can be found in whois).  
+  
+Privacy Policy
