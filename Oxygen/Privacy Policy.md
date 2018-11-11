@@ -1,6 +1,5 @@
 Skip to main content
 
-*   Very Real
 *   Crime Time
 *   Martinis &. Murder
 *   Trials
@@ -15,12 +14,14 @@ Skip to main content
     *   Cold Justice
     *   Criminal Confessions
     *   Dateline: Secrets Uncovered
-    *   Kemper on Kemper: Inside The Mind of a Serial Killer
     *   Killer Couples
     *   Martinis &. Murder
+    
+    *   Method Of A Serial Killer
     *   Snapped
-    *   The Disappearance of Crystal Rogers
+    *   The Disappearance of Phoenix Coldon
     *   Unspeakable Crime: The Killing of Jessica Chambers
+    *   Up and Vanished
 *   Full Episodes
 *   Videos
 *   Schedule
@@ -37,12 +38,14 @@ Get Updates Facebook Twitter Newsletter Oxygen.com
     *   Cold Justice
     *   Criminal Confessions
     *   Dateline: Secrets Uncovered
-    *   Kemper on Kemper: Inside The Mind of a Serial Killer
     *   Killer Couples
     *   Martinis &. Murder
+    
+    *   Method Of A Serial Killer
     *   Snapped
-    *   The Disappearance of Crystal Rogers
+    *   The Disappearance of Phoenix Coldon
     *   Unspeakable Crime: The Killing of Jessica Chambers
+    *   Up and Vanished
 *   Full Episodes
 *   Videos
 *   Schedule
@@ -51,7 +54,6 @@ Get Updates Facebook Twitter Newsletter Oxygen.com
 
 Get Updates Sites
 
-*   Very Real
 *   Crime Time
 *   Martinis &. Murder
 *   Trials
@@ -101,3 +103,5 @@ Get Involved
 Stay Connected Stay Connected
 
 ©2018 Oxygen Media LLC. A Division of NBCUniversal
+
+AddThis SharingSHARESFacebookTwitterPrintAddThisAddThis SharingPinterestFacebookEmailCopy Link
