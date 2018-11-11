@@ -154,7 +154,7 @@ Search Use up and down arrows to navigate suggestions.
     *   Go Far Rewards FAQs
     *   Credit Cards
 
-<div id="msgnojs">. <p>We're sorry, but some features of our site require JavaScript. Please enable JavaScript on your browser and refresh the page. <a class="c13" href="/help/faqs/troubleshoot-faqs">Learn More</a></p>. </div>. <img src="https://www.wellsfargo.com/assets/images/global/s.gif?Log=1&amp;jsoff=true" alt="" />.  
+<div id="msgnojs">. <p>We're sorry, but some features of our site require JavaScript. Please enable JavaScript on your browser and refresh the page. <a class="c13" href="/help/online-banking/troubleshoot-faqs/">Learn More</a></p>. </div>. <img src="https://www.wellsfargo.com/assets/images/global/s.gif?Log=1&amp;jsoff=true" alt="" />.  
 
 *   Personal
 *   Privacy, Security, and Legal
