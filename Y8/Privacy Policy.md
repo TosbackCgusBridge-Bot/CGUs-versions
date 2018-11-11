@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  23:13
+New Games Next in  xx:xx
 
-*   Brand New Games Next addition in 23:13
+*   Brand New Games Next addition in xx:xx
 
 *   Best of New Games Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 23:13
-*   Best of new games 2160 games
-*   Most Popular Games 18071 games
+*   New Games Next in xx:xx
+*   Best of new games 21 games
+*   Most Popular Games 309 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,465 games
-*   Driving &. Racing Games 6,701 games
-*   Strategy &. RPG Games 2,401 games
-*   Management Games 3,631 games
-*   Thinking Games 11,832 games
-*   Action &. Adventure Games 15,804 games
-*   Sports Games 2,129 games
-*   Shooting Games 8,316 games
-*   Fighting Games 2,088 games
-*   Skill Games 10,608 games
-*   Arcade &. Classic Games 12,641 games
-*   Fun &. Crazy Games 2,465 games
+*   Games for girls 313 games
+*   Driving &. Racing Games 21 games
+*   Strategy &. RPG Games 14 games
+*   Management Games 18 games
+*   Thinking Games 124 games
+*   Action &. Adventure Games 57 games
+*   Sports Games 39 games
+*   Shooting Games 29 games
+*   Fighting Games 8 games
+*   Skill Games 143 games
+*   Arcade &. Classic Games 71 games
+*   Fun &. Crazy Games 21 games
 
 Play with friends  
-Powered by Y8 Account 132 Y8 Multiplayer Games 1,712 Y8 High Score Games 1,054 Y8 Achievements Games 788 Y8 Screenshots Games 1,344 Y8 Online Save Games 2,734 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 4 Y8 Multiplayer Games 304 Y8 High Score Games 118 Y8 Achievements Games 87 Y8 Screenshots Games 159 Y8 Online Save Games 403 All Y8 Games Games Last Highscore:
 
-**2,305** points on Orion Sandbox Enhanced by ashli
+**173** points on Masked Forces by Hacker
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
