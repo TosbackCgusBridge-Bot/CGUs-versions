@@ -985,9 +985,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price outerwear including coats, snow boots, hats and gloves. 40% off all other full-price styles!
+Receive 40% off full-price styles!
 
-code: STORM pin: 7424 DETAILS
+code: APPLES pin: 5861 DETAILS
 
 Customer Service Menu
 
