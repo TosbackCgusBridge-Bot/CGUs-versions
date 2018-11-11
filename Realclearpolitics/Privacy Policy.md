@@ -23,15 +23,14 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   Election Polls
     *   Generic Ballot
     *   Donald Trump Favorability
-    *   Tax Cut Law
     *   State of Union Polls
 *   Election 2018
     *   RCP Senate Map
-    *   Senate No Toss Ups
+    *   Senate Final Results
     *   RCP Governors Map
-    *   Governors No Toss Ups
+    *   Governor Final Results
     *   RCP House Map
-    *   Current House
+    *   House Final Results
     *   Generic Congressional Ballot
     *   Latest Election 2018 Polls
 *   Video
@@ -62,16 +61,15 @@ We use cookies to offer you a better experience and to help us understand how yo
         *   Election Polls
         *   Generic Ballot
         *   Donald Trump Favorability
-        *   Tax Cut Law
         *   State of Union Polls
     *   RCP Election 2018
         *   Election 2018
         *   RCP Senate Map
-        *   Senate No Toss Ups
+        *   Senate Final Results
         *   RCP Governors Map
-        *   Governors No Toss Ups
+        *   Governor Final Results
         *   RCP House Map
-        *   Current House
+        *   House Final Results
         *   Generic Congressional Ballot
         *   Latest Election 2018 Polls
     *   Video
@@ -111,6 +109,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Molly Ball_: Redder. Bluer. Trumpier. What to Expect After the Midterms
+    
+*   _Newt Gingrich_: Dishonesty in Florida Threatens the Fabric of Our Country
+    
+*   _German Lopez_: There's No Evidence of Voter Fraud in Florida
+    
+*   _Daniel McCarthy_: 2018 Confirms Strength of the Trump-Led Republican Party
+    
+*   _Christopher Hooks_: How Beto O'Rourke Reanimated the TX Democratic Party
+    
+*   _Charles Lipson_: Forget the Sweet Talk--Both Parties Will Go to the Mat
+    
+*   _Marisa Schultz_: Comey Discussed Sensitive FBI Business on Private Email
+    
+*   _Ben-Veniste &. Frampton_: Mueller Has a Way Around Trump and His Minions
+    
+*   _Alic &. Cimmino_: The Tenuous Democratic House Majority
+    
+*   _Lou Cannon_: Democrats Gain in State Elections
+    
+*   _Clapper &. Pickering_: Trump Iran Policy Cannot Succeed Without Allies
+    
+*   _Freddy Gray_: Is Trump More Popular Than Macron in France?
+    
+*   _Tom Bevan_: Pollster Who Got It Right in 2016 Does It Again
+    
+*   _Philip Bump_: Trump Ties Unfounded Florida Claims to Russia Conspiracies
+    
+*   _Mollie Hemingway_: Media Looks Complicit in Dems' Florida Vote Scandal
+    
+*   _Tahseen Ali_: As Bangladesh Elections Approach, Falsehoods Escalate as Usual
+    
+*   _Entous &. Anderson_: The Mystery of the Havana Syndrome
+    
 *   _Timothy Egan_: One-Party Rule Is Over: Democracy Has a Pulse
     
 *   _Ben Domenech_: The Potential for a Stolen Florida Election Is Real
@@ -124,40 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Suzanne Fields_: Kavanaugh's False Accusers Deserve to Be Prosecuted
     
 *   _Denise Balkissoon_: The White Women Who Drive Hate in America
-    
-*   _Grazie Christie_: Federal Rule Protects Nuns' Stance on Obamacare Mandate
-    
-*   _Ruth Marcus_: Whitaker Is the Wrong Choice to Replace Sessions
-    
-*   _Mark Wauck_: Could Papadopoulos Blow the Russia Hoax Wide Open?
-    
-*   _Carl Cannon_: A Tip o' the Cup to Irish Coffee
-    
-*   _Michael Barone_: Split Decision Sends Polarized Politics Toward 2020
-    
-*   _Eugene Robinson_: Dems Ready to Hold Trump Accountable. Grab the Popcorn
-    
-*   _Patrick Buchanan_: The War for the Soul of America
-    
-*   _Tom Steyer_: Why Democrats Must Impeach the President
-    
-*   _Marc Thiessen_: Dems' Character Assassination of Kavanaugh Backfired
-    
-*   _Joan Vennochi_: How the GOP Used Kavanaugh to Steal the Election
-    
-*   _Byron York_: As World Moves On, Kavanaugh Fight Continues
-    
-*   _Moira Donegan_: 1/2 of White Women Vote GOP. What's Wrong w/Them?
-    
-*   _Allie Stuckey_: Sorry, Liberals: White Women Don't Need Your Saving
-    
-*   _Gabriel DeBenedetti_: There's a New Electoral Map in Town
-    
-*   _Matthew Continetti_: The Lesson of 2018? Same As It Ever Was
-    
-*   _Katyal &. Conway_: Trump's Appointment of Whitaker Is Unconstitutional
-    
-*   _Jonathan Turley_: Is Whitaker Stooge or Savior? His Actions Will Tell Us
     
 
 *   Previous
@@ -260,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Tucker Carlson on Mob Protest At Home: They Were Threatening My Family To Get Me To Stop Talking
+*   Florida Recount: Andrew Gillum Withdraws His Concession In Governor Race
 *   Rubio: Democratic Lawyers "Descending On Florida" Not For A Recount, But To Change Outcome
+*   Tucker Carlson on Mob Protest At Home: They Were Threatening My Family To Get Me To Stop Talking
 *   Michael Moore: Dems Have To Run "Beloved American" Like Michelle Obama or Sully Against Trump
 *   Protesters Mob Tucker Carlson's House, Call Him "Racist Scumbag". "We Know Where You Sleep At Night!"
-*   Trump vs. Acosta Post-Election: "Let Me Run The Country, You Run CNN". "You Are A Rude, Terrible Person"
 
 *   Politics
 *   Policy
