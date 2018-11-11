@@ -8,15 +8,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Denim in Fits for All
+    *   Naked Zebra
+    *   PUMA
+    *   Fate
+    *   LOVE Moschino
+    *   Dolce Cabo
+    *   American Twist Under $40
+    *   Comfort Boots ft. Bionica &. Naturalizer
+    *   PUMA Men
     *   SPANX
     *   NARS Starting at $10
+    *   Stephen Dweck Sterling Silver Jewelry
     *   Cashmere Shop Up to 65% Off
+    *   PUMA Kids
+    *   Free Shipping: Great Gifts for Him
+    *   Halston Heritage
+    *   Hair Tools We Love ft. Drybar
+    *   Layering Necklaces &. Statement Earrings Under $30
+    *   Casually Cool: Men's Chukkas &. Chelsea Boots
+    *   Men's Premium Denim Shop
+    *   Men's Cashmere Sweater Shop
+    *   Glam It Up: Press-on Nail Kits
+    *   Free Shipping: Wall Art
+    *   Persaman New York
+    *   Just Live Active
+    *   Mark Roberts
     *   NYDJ Incl. Plus &. Petites
     *   Michael Stars Up to 65% Off
-    *   Men's Cashmere Sweater Shop
-    *   Cashmere Accessories Up to 60% Off
     *   Anna Sui
+    
     *   Wear-to-Work Shoes ft. Calvin Klein
+    *   Work Dresses ft. Tahari
+    *   John Varvatos Collection
     *   Pajar Men
     *   Very J: Teddy Coats, Sweaters &. More
     *   Free Shipping: Sterling Forever Jewelry
@@ -31,82 +55,72 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   INKED by Dani Temporary Tattoos
     *   DAFNI Ceramic Hot Brushes
     *   Free Shipping: Kosta Boda &. Orrefors
-    *   John Varvatos Collection
-    *   Ray-Ban Sun
-    *   Work Dresses ft. Tahari
-    *   Waterproof Shoes from Blondo Starting at $40
-    *   LOVE Moschino
-    *   Sofia Cashmere
-    
-    *   Loveappella
     *   Mirenesse Australia Up to 75% Off
     *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
     *   Vince Camuto Men
     *   Reigning Champ
     *   Free Shipping: Rugs Up to 70% Off
     *   Rosie Pope
-    *   Kelsi Dagger Brooklyn Up to 55% Off
-    *   ZAC Zac Posen
-    *   Seychelles Up to 50% Off
-    *   Dramatic Detail: Ruffled Blouses &. More
     *   Lori Bonn Sterling Silver &. Gemstone Jewelry
     *   Limeapple
     *   James Campbell Up to 70% Off
     *   Dynamic Innovation Labs Skin Care from $10
     *   Free Shipping: Amrapur Bedding Up to 70% Off
     *   Free Shipping: One-of-a-Kind Kantha Blankets
+    
     *   Perricone MD
     *   Champagne-Infused Hair Care from Cuvee Beauty
     *   Dazzlepro Teeth Whitening Up to 75% Off
     *   ghd: good hair day, every day
-    *   Cole Haan Starting at $60
-    *   Cole Haan Men Starting at $60
     *   Cole Haan Men's Clothing Up to 65% Off
-    *   Cole Haan Jewelry &. Sun
-    *   Cole Haan Handbags
     *   Levis Starting at $10
-    *   The Perfect Gift: Kids' Character PJs &. Robes
     *   Free Shipping: Modern Storage Solutions from $10
-    
-    *   National Geographic Books
-    *   Frenchie Mini Couture
-    *   Australian Brands: Tiny Tribe &. SOOKIbaby
-    *   OshKosh Shoes Up to 60% Off
-    *   JACK &. JONES
+    *   14th &. Union
     *   Home Upgrades: Seating, Lamps &. More
     *   Free Shipping: Holiday Doormats &. More
     *   Free Shipping: Holiday Wall Decals &. More
     *   Holiday Entertaining: Barware &. More
-    *   Fragrances by Margot Elena &. More
-    *   Eton Tailored Clothing
-    *   Nanette Lepore Sport
-    *   14th &. Union
-    *   Grande Cosmetics: Lips &. Lashes
-    *   Free Shipping: Velvet Accent Furniture &. More
-    *   Cole Haan Coats Up to 65% Off
-    *   Car Storage &. Organization Essentials from $10
-    *   Free Shipping: Fashion-Forward Art
     *   Cuisinart
     *   Cozy for Winter: Ultra-Soft Bedding
-    *   Cover FX Starting at $10
+    *   Free Shipping: Velvet Accent Furniture &. More
+    *   Cashmere Accessories Up to 60% Off
+    *   National Geographic Books
+    *   Frenchie Mini Couture
+    *   JACK &. JONES
+    *   Fragrances by Margot Elena &. More
     *   Free Shipping: BergHOFF Up to 65% Off
-    *   Bright Ideas: LED-Accented Wall Art
+    *   Car Storage &. Organization Essentials from $10
     *   Tech Accessory Blowout: Chargers, Cables &. More
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   Levi's Starting at $25
     *   Wear-to-Work Essentials: Chic Cardigans
-    *   Favorite Fits: Bras &. More Starting at $18
+    *   LOVE Moschino
+    *   Sofia Cashmere
+    *   Loveappella
 *   WomenShop Sale Events
     
+    *   Denim in Fits for All
+    *   Naked Zebra
+    *   PUMA
+    *   Fate
+    *   LOVE Moschino
+    *   Dolce Cabo
+    *   American Twist Under $40
+    *   Comfort Boots ft. Bionica &. Naturalizer
     *   SPANX
     *   NARS Starting at $10
+    *   Stephen Dweck Sterling Silver Jewelry
     *   Cashmere Shop Up to 65% Off
+    *   Halston Heritage
+    *   Hair Tools We Love ft. Drybar
+    *   Layering Necklaces &. Statement Earrings Under $30
+    *   Glam It Up: Press-on Nail Kits
+    *   Just Live Active
     *   NYDJ Incl. Plus &. Petites
     *   Michael Stars Up to 65% Off
-    *   Cashmere Accessories Up to 60% Off
     *   Anna Sui
     *   Wear-to-Work Shoes ft. Calvin Klein
+    *   Work Dresses ft. Tahari
     *   Very J: Teddy Coats, Sweaters &. More
+    
     *   Free Shipping: Sterling Forever Jewelry
     *   Liza Schwartz Jewelry
     *   G by Guess Under $50
@@ -115,65 +129,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bulova Watches Up to 70% Off
     *   INKED by Dani Temporary Tattoos
     *   DAFNI Ceramic Hot Brushes
-    *   Ray-Ban Sun
-    *   Work Dresses ft. Tahari
-    *   Waterproof Shoes from Blondo Starting at $40
-    *   LOVE Moschino
-    *   Sofia Cashmere
-    *   Loveappella
-    
     *   Mirenesse Australia Up to 75% Off
     *   TARA Pearls: Tahitian &. Akoya Jewelry Up to 70% Off
-    *   Kelsi Dagger Brooklyn Up to 55% Off
-    *   ZAC Zac Posen
-    *   Dramatic Detail: Ruffled Blouses &. More
     *   Lori Bonn Sterling Silver &. Gemstone Jewelry
     *   Dynamic Innovation Labs Skin Care from $10
     *   Perricone MD
     *   Champagne-Infused Hair Care from Cuvee Beauty
     *   Dazzlepro Teeth Whitening Up to 75% Off
     *   ghd: good hair day, every day
-    *   Cole Haan Starting at $60
-    *   Cole Haan Jewelry &. Sun
-    *   Cole Haan Handbags
+    *   Cashmere Accessories Up to 60% Off
     *   Fragrances by Margot Elena &. More
-    *   Nanette Lepore Sport
-    *   Grande Cosmetics: Lips &. Lashes
-    *   Cole Haan Coats Up to 65% Off
-    *   Cover FX Starting at $10
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   Levi's Starting at $25
     *   Wear-to-Work Essentials: Chic Cardigans
-    *   Favorite Fits: Bras &. More Starting at $18
+    *   LOVE Moschino
+    *   Sofia Cashmere
+    *   Loveappella
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
-    *   Handbags
     *   Accessories
+    *   Lingerie
     *   Jewelry
+    *   Handbags
     *   Tech Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   PUMA Men
+    *   Casually Cool: Men's Chukkas &. Chelsea Boots
+    *   Men's Premium Denim Shop
     *   Men's Cashmere Sweater Shop
+    *   Persaman New York
+    *   John Varvatos Collection
     *   Pajar Men
     *   Bulova Watches Up to 70% Off
     *   American Stitch &. More
-    *   John Varvatos Collection
-    *   Ray-Ban Sun
+    
     *   Vince Camuto Men
     *   Reigning Champ
-    
     *   James Campbell Up to 70% Off
     *   Dazzlepro Teeth Whitening Up to 75% Off
-    *   Cole Haan Men Starting at $60
     *   Cole Haan Men's Clothing Up to 65% Off
     *   Levis Starting at $10
-    *   JACK &. JONES
-    *   Eton Tailored Clothing
     *   14th &. Union
+    *   JACK &. JONES
     
     Shop By Category
     *   Clothing
@@ -182,26 +181,28 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   PUMA Kids
     *   Coat Check: Kids' Outerwear
     *   Rosie Pope
     *   Limeapple
-    *   The Perfect Gift: Kids' Character PJs &. Robes
     *   National Geographic Books
     *   Frenchie Mini Couture
-    *   Australian Brands: Tiny Tribe &. SOOKIbaby
-    *   OshKosh Shoes Up to 60% Off
     
     Shop By Category
+    *   Baby Girl
+    *   Girls' Shoes
+    *   Baby Boy
     *   Girls Sizes 7-16
+    *   Boys' Shoes
     *   Girls Sizes 2T-6X
     *   Boys Sizes 2T-7
     *   Boys Sizes 8-20
-    *   Baby Girl
-    *   Baby Boy
-    *   Girls' Shoes
-    *   Boys' Shoes
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Great Gifts for Him
+    *   Free Shipping: Wall Art
+    *   Mark Roberts
     *   Free Shipping: Storage Must-Haves from $10
     *   Free Shipping: Kosta Boda &. Orrefors
     *   Free Shipping: Rugs Up to 70% Off
@@ -209,48 +210,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: One-of-a-Kind Kantha Blankets
     *   Free Shipping: Modern Storage Solutions from $10
     *   Home Upgrades: Seating, Lamps &. More
+    
     *   Free Shipping: Holiday Doormats &. More
     *   Free Shipping: Holiday Wall Decals &. More
-    
     *   Holiday Entertaining: Barware &. More
-    *   Free Shipping: Velvet Accent Furniture &. More
-    *   Car Storage &. Organization Essentials from $10
-    *   Free Shipping: Fashion-Forward Art
     *   Cuisinart
     *   Cozy for Winter: Ultra-Soft Bedding
+    *   Free Shipping: Velvet Accent Furniture &. More
     *   Free Shipping: BergHOFF Up to 65% Off
-    *   Bright Ideas: LED-Accented Wall Art
+    *   Car Storage &. Organization Essentials from $10
     *   Tech Accessory Blowout: Chargers, Cables &. More
     
     Shop By Category
     *   Kitchen &. Tabletop
     *   Home Decor
     *   Storage &. Cleaning
-    *   Accent Furniture
     *   Luggage &. Travel
+    *   Accent Furniture
     *   Outdoor Living
     *   Bedding
 *   BeautyShop Sale Events
     
     *   NARS Starting at $10
+    *   Hair Tools We Love ft. Drybar
+    *   Glam It Up: Press-on Nail Kits
     *   INKED by Dani Temporary Tattoos
     *   DAFNI Ceramic Hot Brushes
     *   Mirenesse Australia Up to 75% Off
+    
     *   Dynamic Innovation Labs Skin Care from $10
     *   Perricone MD
-    
     *   Champagne-Infused Hair Care from Cuvee Beauty
     *   Dazzlepro Teeth Whitening Up to 75% Off
     *   ghd: good hair day, every day
     *   Fragrances by Margot Elena &. More
-    *   Grande Cosmetics: Lips &. Lashes
-    *   Cover FX Starting at $10
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Bath &. Body
     *   Fragrance
+    *   Tools &. Accessories
     *   Nails
     *   Hair Care
 
