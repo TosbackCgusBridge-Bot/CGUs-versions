@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -258,11 +256,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Pelosi: Use Of Subpoena Power Will Be "Strategic," But Public Has A Right To Know
+*   House Judiciary Committee's Nadler: Whitaker Appointment Is Part Of A "Pattern Of Obstruction" Of Mueller
+*   Sen. Lindsey Graham: No Need For Whitaker To Recuse Himself From Supervising Mueller
+*   Rep. Adam Schiff: "We Are Going to Find Out" If Whitaker Interferes with Mueller
 *   Florida Recount: Andrew Gillum Withdraws His Concession In Governor Race
-*   Rubio: Democratic Lawyers "Descending On Florida" Not For A Recount, But To Change Outcome
-*   Tucker Carlson on Mob Protest At Home: They Were Threatening My Family To Get Me To Stop Talking
-*   Michael Moore: Dems Have To Run "Beloved American" Like Michelle Obama or Sully Against Trump
-*   Protesters Mob Tucker Carlson's House, Call Him "Racist Scumbag". "We Know Where You Sleep At Night!"
 
 *   Politics
 *   Policy
