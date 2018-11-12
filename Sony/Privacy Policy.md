@@ -127,7 +127,7 @@ Get the 1000XM3 Headphones
 
 New PlayStation games coming this week:  https://play.st/2PELb82  Tetris Effect, Déraciné, The Forest, and more pic.twitter.com/7CB93NHp5L
 
-6 days ago
+7 days ago
 
 View Tweet
 
