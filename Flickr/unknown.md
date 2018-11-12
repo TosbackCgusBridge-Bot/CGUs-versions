@@ -125,6 +125,10 @@ THE FOLLOWING ADDITIONAL TERMS AND CONDITIONS APPLY TO FLICKR GIFT PURCHASES ONL
 
 Last updated: 2018-04-03
 
+Flickr’s Pro and Free account offerings are changing. See what it means for you.
+
+Learn more
+
 *   About
 *   Jobs
 *   Blog
