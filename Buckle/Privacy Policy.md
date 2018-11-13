@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-SALE ON SALE! GET AN EXTRA 20% OFF SELECT SALE. SHOP NOW.
+FREE SHIPPING FOR A LIMITED TIME. SEE DETAILS.
 
 *   Women
 *   Men
@@ -23,7 +23,7 @@ SALE ON SALE! GET AN EXTRA 20% OFF SELECT SALE. SHOP NOW.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
