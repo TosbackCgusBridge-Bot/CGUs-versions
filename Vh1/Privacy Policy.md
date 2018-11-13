@@ -7,7 +7,7 @@
     *   Basketball Wives
     *   Black Ink Crew
     *   Black Ink Crew Chicago
-    *   Love &. Hip Hop Atlanta
+    *   Love &. Hip Hop New York
     *   Love &. Hip Hop Hollywood
     *   Martha &. Snoop's Potluck Dinner Party
     *   RuPaul’s Drag Race All Stars
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBasketball WivesBlack Ink CrewBlack Ink Crew ChicagoLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodMartha &. Snoop's Potluck Dinner PartyRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family Hustlesee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBasketball WivesBlack Ink CrewBlack Ink Crew ChicagoLove &. Hip Hop New YorkLove &. Hip Hop HollywoodMartha &. Snoop's Potluck Dinner PartyRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family Hustlesee all Shows
 *   News
 *   App
 *   Watch Live TV
