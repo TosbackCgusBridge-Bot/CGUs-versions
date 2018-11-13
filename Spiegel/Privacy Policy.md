@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   12\. November 2018
+*   13\. November 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.529,16ǀ
+*   DAX 11.325,44ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -78,7 +78,6 @@ Anmelden
         *   Fußball-Tippspiel
         *   Formel 1
         *   Formel-1-Liveticker
-        *   Ergebnisse
         *   Schach-WM 2018
     *   *   Sportwetten
 *   Kultur
@@ -345,6 +344,7 @@ SPIEGEL GRUPPE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
+*   DER SPIEGEL
 *   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   Dein SPIEGEL
@@ -354,10 +354,10 @@ SPIEGEL GRUPPE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
+*   DER SPIEGEL
 *   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   Dein SPIEGEL
-*   SPIEGEL EXPEDITION
 
 12
 
