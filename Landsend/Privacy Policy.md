@@ -985,9 +985,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles!
+Receive 50% off full-price styles!
 
-code: APPLES pin: 5861 DETAILS
+code: GOLD pin: 9624 DETAILS
 
 Customer Service Menu
 
