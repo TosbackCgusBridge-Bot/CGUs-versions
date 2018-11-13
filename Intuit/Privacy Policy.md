@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $99See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -13,12 +13,22 @@ SHOP DEPARTMENTS
 
 *   Same Day Pickup
 *   Holiday Gifts
+    *   Gifts for Her
+    *   Gifts for Him
+    *   Gifts for Kids
+    *   Gifts for Baby
+    *   All Gifts
 *   Toys
 *   Store Ads
 *   Clearance
+    *   Women
+    *   Shoes
+    *   Men
+    *   Kids
+    *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFINAL HOURS OF COUPON CODE6THANKSENDS IN00HOURS 40MINS 44SECS \*Offer ends November 12, 2018 SHOP NOW SHOP NOW
+Near YouFind a StoreBack SHOP NOW SHOP NOW
 
 *   LIMITED TIME SPECIAL!
     
@@ -60,7 +70,7 @@ SHOP NOW SHOP NOW
     
     $799 sale
     
-    was $19 a.n.a Favorite Layering Tee Long Sleeve Scoop Neck T-Shirt-Womens(18)Add To Cart
+    was $19 a.n.a Favorite Layering Tee Long Sleeve Scoop Neck T-Shirt-Womens(20)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1299 sale
@@ -79,23 +89,19 @@ SHOP NOW SHOP NOW
     was $44 Worthington Long Sleeve Open Front Cardigan(15)Add To Cart
 *   from$1799 sale
     
-    was $44 a.n.a Long Sleeve Open Neck Cardigan(8)Add To Cart
+    was $44 a.n.a Long Sleeve Open Neck Cardigan(10)Add To Cart
 *   from$799 sale
     
     was $22 a.n.a. 3/4 Sleeve Scoop Neck T-Shirt(29)Add To Cart
 
 Hot Sellers
 
-*   $2399after couponwas $59 - $60 Arizona Womens Kelly Bootie Flat Heel Slip-on(15)
-*   $639after couponwas $40 U.S. Polo Assn. Short Sleeve Checked Button-Front Shirt(6)
-*   from$3999after couponwas $100 - $200 Biddeford™ MicroPlush Heated Blanket(948)
-*   $1599after couponwas $42 Arizona Basic Flex Skinny Jeans(336)
-*   LIMITED TIME SPECIAL!
-    
-    $1960 sale
-    
-    was $49 | 60% offLiz Claiborne Pointelle Sweater with Infinity Scarf
-*   $1599after couponwas $42 Arizona Basic Original Straight Jeans(1756)
+*   $1499after couponwas $40 The Foundry Big &. Tall Supply Co. Long Sleeve Knit Polo Shirt Big and Tall
+*   $1499after couponwas $42 Arizona Basic Original Bootcut Jeans(549)
+*   from$1499after couponwas $42 - $49 North Pole Trading Company Plaid Papa Bear 2 Piece Set -Men's(4)
+*   $2999after couponwas $80 Arizona Womens Kerri Slouch Boots Flat Heel Pull-on(9)
+*   from$2625after couponwas $80 - $150 Liz Claiborne Quinn Leaf Grommet-Top Curtain Panel(765)
+*   $1349after couponwas $39 North Pole Trading Company Chillin 2 Piece Set - Unisex Kid's
 
 Shop and Save at JCPenney
 
