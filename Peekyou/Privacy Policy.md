@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 51%  51%  51%  2% 
+What is PeekScore? Public Records &. Background Checks 49%  49%  49%  2% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -153,49 +153,49 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 51%  Twitter 2% 
+Facebook 49%  Twitter 28% 
 
-*   NIH - NIH
-    
-*   HIV.gov - HIVGov
-    
-*   U.S. FDA - FDArecalls
-    
-*   CDC\_eHealth - CDC\_eHealth
-    
-*   Show More ...
-
-*   Federal Reserve - federalreserve
-    
-*   CDC - CDCgov
-    
-*   Dr. Robert R. Redfield - CDCDirector
+*   HealthCare.gov - HealthCareGov
     
 *   U.S. FDA - US\_FDA
     
-*   HealthCare.gov - HealthCareGov
-    
-*   HHS.gov - HHSGov
-    
-*   Cristiano Ronaldo - Cristiano
-    
-*   OAIC - OAICgov
-    
-*   Updated Privacy Policy - EAEO
-    
-*   Bush Library - Bush41Library
+*   U.S. FDA - FDArecalls
     
 *   Free Privacy Policy - FreePrivacy1
     
-*   U.S. Census Bureau - uscensusbureau
+*   Show More ...
+
+*   HIV.gov - HIVGov
     
-*   Mabuhay Miles - PALMabuhayMiles
+*   NIH - NIH
+    
+*   CDC\_eHealth - CDC\_eHealth
+    
+*   CDC - CDCgov
     
 *   Justice Department - TheJusticeDept
     
-*   EuropeanPrivacyAssoc - europeanprivacy
+*   Dr. Robert R. Redfield - CDCDirector
+    
+*   Mabuhay Miles - PALMabuhayMiles
+    
+*   Cristiano Ronaldo - Cristiano
+    
+*   U.S. Census Bureau - uscensusbureau
+    
+*   Bush Library - Bush41Library
+    
+*   HHS.gov - HHSGov
     
 *   FTC - FTC
+    
+*   Federal Reserve - federalreserve
+    
+*   EuropeanPrivacyAssoc - europeanprivacy
+    
+*   Updated Privacy Policy - EAEO
+    
+*   OAIC - OAICgov
     
 *   Show Less ...
 
@@ -255,7 +255,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Pinterest 51%  Wikipedia 2% 
+Pinterest 49%  Wikipedia 2% 
 
 *   Privacy policy
     
@@ -270,7 +270,7 @@ Pinterest 51%  Wikipedia 2% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Google+ 51%  Music 2% 
+Google+ 49%  Music 2% 
 
 *   Pandora
     
@@ -331,19 +331,19 @@ Photo Albums 2% 
     ‎Read reviews, compare customer ratings, see screenshots, and learn more about Flickr. Download Flickr and enjoy it on your iPhone, iPad, and iPod touch.
     
 
-Web Search 51%  Images 2% 
-
-20
+Web Search 49%  Images 2% 
 
 13
 
-5
+6
 
-twitterx
+20
 
 instagramx
 
 myspacex
+
+twitterx
 
 *   About PeekYou
 *   Privacy Policy
