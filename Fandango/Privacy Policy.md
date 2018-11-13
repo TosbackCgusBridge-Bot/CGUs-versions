@@ -5,46 +5,43 @@ Gift Cards | Offers | Sign In Sign Out
 
 *   Movies Now Playing
     
+    *   Dr. Seuss' The Grinch (2018)
     *   Bohemian Rhapsody
+    *   Overlord (2018)
     *   The Nutcracker and the Four Realms
+    *   The Girl in the Spider's Web
     *   A Star Is Born (2018)
-    *   Halloween (2018)
     *   Nobody's Fool
     *   Venom (2018)
-    *   Smallfoot
-    *   Goosebumps 2: Haunted Halloween
-    *   Hunter Killer (2018)
+    *   Halloween (2018)
     *   The Hate U Give
-    *   First Man
+    *   Smallfoot
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Dr. Seuss' The Grinch (2018)
-    *   The Girl in the Spider's Web
-    *   Overlord (2018)
-    *   El Angel (2018)
-    *   The Divide (2018)
-    *   The Front Runner
-    *   In A Relationship
-    *   Postcards from London
-    *   River Runs Red
-    *   Thugs of Hindostan
-    *   Weightless
+    *   Fantastic Beasts: The Crimes of Grindelwald
+    *   Instant Family (2018)
+    *   Widows (2018)
+    *   At Eternity's Gate
+    *   Green Book
+    *   Jonathan (2018)
+    *   The Last Race
+    *   Team Khan
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Fantastic Beasts: The Crimes of Grindelwald
-    *   Instant Family (2018)
-    *   Widows (2018)
     *   Creed II
-    *   Green Book
     *   Ralph Breaks the Internet
     *   Robin Hood (2018)
     *   The Possession of Hannah Grace
+    *   Once Upon a Deadpool
     *   Mortal Engines
+    *   The Mule (2018)
     *   Spider-Man: Into the Spider-Verse
+    *   Aquaman
+    *   Bumblebee
     *   See All Coming Soon
     
     Explore More
@@ -72,9 +69,9 @@ Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Aaron Paul Touted to Star in 'Breaking Bad' Movie. Here's Everything We Know Read More
-    *   The Week in Movie News: Spielberg Revisiting 'The Color Purple,' First 'Missing Link' Trailer and More Read More
-    *   'Jonny Quest' Gets 'Lego Batman Movie' Director. Here's Everything We Know Read More
+    *   Watch the First 'Pokémon: Detective Pikachu' Trailer. Here's Everything We Know Read More
+    *   Comic Book Legend Stan Lee, 95, Passes Away Read More
+    *   A Guide to the Enchanting Music of 'Mary Poppins Returns' Read More
     
     Explore Content
     *   Movie Reviews
@@ -318,9 +315,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   FandangoNOW Fresh Picks: November
+*   Get $5 off with Google Pay
     
-    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    Use code GPAY5OFFNOW at checkout. BUY TICKETS
     
 *   Fandango VIP
     
