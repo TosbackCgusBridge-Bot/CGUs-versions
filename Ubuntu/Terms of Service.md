@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Using Juju to manage evolving complex software ›
 *   Ubuntu Core and Kura: A framework for IoT gateways ›
 *   How to harness big data for maximum business value ›
 *   The rise of the Digital Smart Kiosk ›
 *   Samsung announce Linux on DeX with Ubuntu: for developers on the move ›
-*   Keep legacy applications secure with Extended Security Maintenance ›
