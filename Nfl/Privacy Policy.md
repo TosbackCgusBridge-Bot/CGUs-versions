@@ -1,4 +1,5 @@
-*   DAL4-527PHI4-520Final
+*   NYG2-727SF2-823Final
+*   CAR6-321PIT6-2-152Final
 *   DET3-622CHI6-334Final
 *   NO8-151CIN5-414Final
 *   ATL4-516CLE3-6-128Final
@@ -10,8 +11,7 @@
 *   LAC7-220OAK1-86Final
 *   MIA5-512GB4-4-131Final
 *   SEA4-531LA9-136Final
-*   NYG1-7SF2-7Mon, 8:15 pm ET
-*   CAR6-321PIT6-2-152Final
+*   DAL4-527PHI4-520Final
 
 *   News
 *   Scores
@@ -30,7 +30,8 @@
 *   NFL Network
 *   Photos
 
-*   DAL27PHI20Final
+*   NYG27SF23Final
+*   CAR21PIT52Final
 *   DET22CHI34Final
 *   NO51CIN14Final
 *   ATL16CLE28Final
@@ -42,8 +43,7 @@
 *   LAC20OAK6Final
 *   MIA12GB31Final
 *   SEA31LA36Final
-*   NYG1-7SF2-7Mon, 8:15 pm ET
-*   CAR21PIT52Final
+*   DAL27PHI20Final
 
 *   News
 *   Scores
