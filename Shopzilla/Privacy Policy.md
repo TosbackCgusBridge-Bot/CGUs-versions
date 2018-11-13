@@ -162,9 +162,11 @@ Cheshire SK9 5AF
 United Kingdom
 
 **United Kingdom**  
-Connexity UK Ltd.  
-111 Buckingham Palace Rd., 4th Floor  
-London SW1WOSR
+Connexity UK Limited  
+Level 4  
+Aviation House  
+125 Kingsway  
+London WC2B 6NH
 
 **Germany**  
 Connexity Europe GmbH  
