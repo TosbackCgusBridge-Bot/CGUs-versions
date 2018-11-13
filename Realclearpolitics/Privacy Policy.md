@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -107,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Molly Ball_: Redder. Bluer. Trumpier. What to Expect After the Midterms
+*   _Sheryl Stolberg_: Meet the New House Dems: They May Not Toe Party Line
     
-*   _Newt Gingrich_: Dishonesty in Florida Threatens the Fabric of Our Country
+*   _Stephen Moore_: Fannie Mae and 'Freddie Maxine'
     
-*   _German Lopez_: There's No Evidence of Voter Fraud in Florida
+*   _Ezra Klein_: Trump's Weakness Is Policy. Can Democrats Exploit It?
     
-*   _Daniel McCarthy_: 2018 Confirms Strength of the Trump-Led Republican Party
+*   _Reihan Salam_: The Virtues of Nationalism
     
-*   _Christopher Hooks_: How Beto O'Rourke Reanimated the TX Democratic Party
+*   _Adele Malpass_: More Women in Congress, But Was It a Pink Wave?
     
-*   _Charles Lipson_: Forget the Sweet Talk--Both Parties Will Go to the Mat
+*   _Williams &. Fox_: These Wealthy Neighborhoods Delivered Democrats the House
     
-*   _Marisa Schultz_: Comey Discussed Sensitive FBI Business on Private Email
+*   _Robert Merry_: How World War I Shaped America
     
-*   _Ben-Veniste &. Frampton_: Mueller Has a Way Around Trump and His Minions
+*   _Robin Wright_: Trump Completes a Shameful Trip to Paris
     
-*   _Alic &. Cimmino_: The Tenuous Democratic House Majority
+*   _Gavin Mortimer_: Europe's Leaders Losing the Battle With Their Own Voters
     
-*   _Lou Cannon_: Democrats Gain in State Elections
+*   _Joe Pinsker_: Even Bedtime Stories Are Becoming Political Now
     
-*   _Clapper &. Pickering_: Trump Iran Policy Cannot Succeed Without Allies
+*   _Mollie Hemingway_: Michelle Obama, Trump and the Need to Forgive
     
-*   _Freddy Gray_: Is Trump More Popular Than Macron in France?
+*   _Daniel Davis_: Veterans Are Not Honored by Forever War
     
-*   _Tom Bevan_: Pollster Who Got It Right in 2016 Does It Again
+*   _Hal Brands_: Three Reasons to Fear Another 'Great War' Today
     
-*   _Philip Bump_: Trump Ties Unfounded Florida Claims to Russia Conspiracies
+*   _Rachel Donadio_: Trump's Bromance With Macron Fizzles Spectacularly
     
-*   _Mollie Hemingway_: Media Looks Complicit in Dems' Florida Vote Scandal
+*   _Steve Cortes_: Macron Misses the Mark on Nationalism
     
-*   _Tahseen Ali_: As Bangladesh Elections Approach, Falsehoods Escalate as Usual
+*   _Steve Phillips_: Democrats Can't Play It Safe. They Need Inspiring Candidates.
     
-*   _Entous &. Anderson_: The Mystery of the Havana Syndrome
+*   _Sen. Lindsey Graham_: Democrats Can Not Be Allowed to Steal Florida's Senate Seat
     
-*   _Timothy Egan_: One-Party Rule Is Over: Democracy Has a Pulse
+*   _James Downie_: Rick Scott's Slimy Claim of Fraud
     
-*   _Ben Domenech_: The Potential for a Stolen Florida Election Is Real
+*   _Paul Sperry_: The Silence of Mueller's Trump-Russia 'Canaries'
     
-*   _Norman Ornstein_: Republicans Broke Congress. Democrats Can Fix It.
+*   _Bob Bauer_: An Open-and-Shut Violation of Campaign Finance Law
     
-*   _Jonathan Tobin_: Have Trump's Reelection Prospects Improved?
+*   _Stephen Vladeck_: Whitaker May Be Bad Choice, But He's a Legal One
     
-*   _Nate Silver_: 2018 Map Looked a Lot Like 2012--What Does It Mean for 2020?
+*   _Andrew McCarthy_: Obama's Judges Continue Thwarting Trump, Rule of Law
     
-*   _Suzanne Fields_: Kavanaugh's False Accusers Deserve to Be Prosecuted
+*   _Jane Mayer_: Is Kobach's Defeat in KS a Model for How to Beat Trump?
     
-*   _Denise Balkissoon_: The White Women Who Drive Hate in America
+*   _Hugh Hewitt_: Trump Is Getting Better and Better at His Job
     
 
 *   Previous
@@ -224,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   In Paris, Trump the "Nationalist" Stood Apart From Others
 *   Six Takeaways From the Midterms
+*   Graham: Democrats Can Not Be Allowed to Steal Florida's Senate Seat
 *   Trump Hits Cooperative--and Feisty--Post-Midterm Notes
-*   Scott: I Won't Let "Unethical Liberals" Steal Election in Florida
 *   Exit Polls Show Suburbs as Likely 2020 Battlefield
-*   Divided Government Returns to Washington
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -241,18 +243,18 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Montana Senate - Rosendale vs. TesterTrafalgar Group (R)
-    *   Tester50
-    *   Rosendale49Tester +1
-*   Montana Senate - Rosendale vs. TesterHarrisX
-    *   Tester49
-    *   Rosendale43Tester +6
-*   Michigan Senate - James vs. StabenowMitchell Research
-    *   Stabenow49
-    *   James46Stabenow +3
-*   Michigan Senate - James vs. StabenowTrafalgar Group (R)
-    *   Stabenow53
-    *   James44Stabenow +9
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove56Disapprove +18
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove52Disapprove +6
+*   Direction of CountryRasmussen Reports
+    *   Right Direction43
+    *   Wrong Track53Wrong Track +10
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve45
+    *   Disapprove52Disapprove +7
 
 More Latest Polls In The News
 
