@@ -1,4 +1,4 @@
-close dialogTelling Your StoryDedicated to making a local impact99¢ First MonthSubscribeclose dialogSUBSCRIBE NOW99¢ first month. Save 90%
+close dialogThanksgiving sale99¢ per monthSubscribeclose dialogSUBSCRIBE NOW99¢ first month. Save 90%
 
 *   Home
 *   News
@@ -74,7 +74,7 @@ close dialogTelling Your StoryDedicated to making a local impact99¢ First Month
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowBeto comes up short in Texas Senate racePoliticsTexas Midterm Election: Statewide ResultsNewsEscobar becomes Texas' first Latina in CongressPolitics13 celebrites who want Beto O'Rourke to winNewsLive Election Day updates on Beto-Cruz racePoliticsEl Paso County Live election resultsNewsBeto O'Rourke votes in El Paso, says he'll winPoliticsBorder Patrol cancels 'crowd control' exerciseNewsBeto: 'El Paso, I love you more than I can say'PoliticsWhat's next for El Paso's Beto O'Rourke?PoliticsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDeveloper: Great Wolf land swap is bad for cityNewsAaron Jones sets career records in Green Bay winSportsHave you seen El Paso's most wanted fugitives?CrimeGeorge Lopez faces battery charge in Hooters fightNewsUTEP fires volleyball coach after six seasonsSportsEx-EPISD administrator's cheating case divertedSpecial-reportsCBP inspector admits defrauding migrantsCrimeMigrant caravan numbers grow, heads to TijuanaNewsMan, woman hid meth between legs, CBP saysCrimeQuerida, Juan Gabriel is not alive, just rumorEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -146,4 +146,4 @@ Our Partners
 *   Thanksgiving.com
 *   Grateful
 
-close dialogTelling your storyDedicated to making a local impact99¢for theFirst MonthSubscribe TodayNo Thanksclose dialogclose dialogTelling Your StoryDedicated to making a local impact99¢ First MonthSubscribeclose dialogclose dialogYour email is your passportUnlock exclusive access and special offersCreate free accountclose dialog
+close dialogThanksgiving sale99¢ per monthSubscribeclose dialogclose dialogThanksgiving sale99¢ per monthlocal storieslocal sportslocal newsSubscribe TodayNo Thanksclose dialogclose dialogREGISTER FOR A CHANCE TO WINWeek in London VacationEnter NowSee official rules for detailsclose dialog
