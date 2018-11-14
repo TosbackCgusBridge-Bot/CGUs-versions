@@ -449,6 +449,17 @@ Congratulations! Your internet browser meets our security requirementsPlease upd
 
 Review requirements
 
+Update your privacy choices
+
+You can review and revise your marketing and information-sharing choices online.  
+(You may also visit a  
+financial center or  
+call 888.341.5000)
+
+Update your privacy choices
+
+Previously opted out of email from us? Visit this page to opt back in
+
 Security tools
 
 *   **Trusteer Rapport®**  
