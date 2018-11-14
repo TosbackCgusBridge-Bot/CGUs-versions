@@ -2,24 +2,29 @@ Cookies help us keep internet content free. By continuing to use our website or 
 
 AcceptDon't ask me again ✕ ✕
 
-*   What We Do
-    *   Overview
+*   Products
     *   Our Approach
-    *   Power of Conversant
-    *   Ad Quality
-    *   Industries We Serve
-*   What We Offer
-    *   Overview
     *   Marketing &. Media
     *   Intelligence
     *   Channels &. Formats
-*   What We Know
-    *   Overview
+    *   Creative
+    *   Ad Quality
+*   Industries
+    *   Retail
+    *   Restaurants
+    *   Travel
+    *   Financial Services
+    *   Media &. Entertainment
+    *   CPG
+    *   Grocery
+    *   Auto
+    *   ALL
+*   Resources
     *   Guides
     *   Case Studies
     *   Blog
-*   Who We Are
-    *   Overview
+*   About Us
+    *   Power of Conversant
     *   Our Management
     *   In the News
     *   Press Releases
@@ -27,7 +32,6 @@ AcceptDon't ask me again ✕ ✕
     *   Partners
     *   Giving Back
 *   Publishers
-    *   Overview
     *   Benefits
     *   Integrations
     *   Join Us
@@ -58,9 +62,9 @@ AcceptDon't ask me again ✕ ✕
     *   Integrations
     *   Join Us
 
-GET TO THE HEART  
-OF WHAT MATTERS  
-TO MILLIONS Watch Our Story
+HAVE COMPELLING  
+CONVERSATIONS THAT  
+LAST A LIFETIME Watch Our Story
 
 *   160+ MILLION Real People You Can  
     Message Right Now
@@ -112,25 +116,29 @@ HARNESS OUR POWER
 
 Ready to talk? Contact us 
 
-*   What We Do
-    *   Overview
+*   Products
     *   Our Approach
-    *   Power of Conversant
-    *   Ad Quality
-    *   Industries We Serve
-    
-*   What We Offer
-    *   Overview
     *   Marketing &. Media
     *   Intelligence
     *   Channels &. Formats
-*   What We Know
-    *   Overview
+    *   Creative
+    *   Ad Quality
+*   Industries
+    *   Retail
+    *   Restaurants
+    *   Travel
+    *   Financial Services
+    *   Media &. Entertainment
+    *   CPG
+    *   Grocery
+    *   Auto
+    *   ALL
+*   Resources
     *   Guides
     *   Case Studies
     *   Blog
-*   Who We Are
-    *   Overview
+*   About Us
+    *   Power of Conversant
     *   Our Management
     *   In the News
     *   Press Releases
@@ -138,7 +146,6 @@ Ready to talk? Contact us 
     *   Partners
     *   Giving Back
 *   Publishers
-    *   Overview
     *   Benefits
     *   Integrations
     *   Join Us
