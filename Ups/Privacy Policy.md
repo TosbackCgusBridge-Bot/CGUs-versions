@@ -1,6 +1,6 @@
 1/1
 
-*   Hurricane Michael Impacting Areas in Florida...More
+*   Wildfires Impacting Areas of California...More
 
 Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
@@ -10,7 +10,7 @@ Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 *   Locations Close
 *   View &. Pay Bill Close
 
-Search Close
+MenuSearch Close
 
 *   Tracking Tracking Track Shipments
     
@@ -56,11 +56,11 @@ Search Close
     *   Service Guide
     *   Order Supplies
     
-    Explore All Shipping Ship just a few times a week? No problem.
+    Explore All Shipping Convenient locations near you.
     
-    We took the guesswork out, and put the easy in.
+    With shipping locations around the globe and around the corner, UPS makes it easier to find reliable shipping.
     
-    Try It Now
+    Find the Nearest Location
     
 *   Services Services By Type
     
