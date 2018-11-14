@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Sheryl Stolberg_: Meet the New House Dems: They May Not Toe Party Line
+*   _Valerie Jarrett_: Nancy Pelosi Has the Toughness Democrats Need
     
-*   _Stephen Moore_: Fannie Mae and 'Freddie Maxine'
+*   _Sen. Mitch McConnell_: Will Dems Work With Us or Just Play Politics?
     
-*   _Ezra Klein_: Trump's Weakness Is Policy. Can Democrats Exploit It?
+*   _Robert Kuttner_: For Democrats, Progressive Is the New Moderate
     
-*   _Reihan Salam_: The Virtues of Nationalism
+*   _Ira Stoll_: Democrats Are Emerging As Party of the Rich
     
-*   _Adele Malpass_: More Women in Congress, But Was It a Pink Wave?
+*   _VandeHei &. Allen_: 2018 Election Was Terrible for Trump. 2020 Will Be Worse
     
-*   _Williams &. Fox_: These Wealthy Neighborhoods Delivered Democrats the House
+*   _Tim Huelskamp_: Lesson of 2018? Embracing Trump Key to GOP Victory
     
-*   _Robert Merry_: How World War I Shaped America
+*   _David Leonhardt_: GOP Would Rather Undermine Democracy Than Lose Fairly
     
-*   _Robin Wright_: Trump Completes a Shameful Trip to Paris
+*   _Daniel Sobieski_: Ending Election Fraud
     
-*   _Gavin Mortimer_: Europe's Leaders Losing the Battle With Their Own Voters
+*   _Josh Dehaas_: How to Stop Corporate Virtue-Signaling Before It's Too Late
     
-*   _Joe Pinsker_: Even Bedtime Stories Are Becoming Political Now
+*   _Daniel Kishi_: Amazon's Great HQ2 Swindle
     
-*   _Mollie Hemingway_: Michelle Obama, Trump and the Need to Forgive
+*   _Kate Julian_: Why Are Young People Having So Little Sex?
     
-*   _Daniel Davis_: Veterans Are Not Honored by Forever War
+*   _Dennis Prager_: If Sex Isn't Fixed, Why Is Age?
     
-*   _Hal Brands_: Three Reasons to Fear Another 'Great War' Today
+*   _Henry Olsen_: Midterms Show a Deeply Divided America
     
-*   _Rachel Donadio_: Trump's Bromance With Macron Fizzles Spectacularly
+*   _Robert Reich_: Amazon, and America's Real Divide
     
-*   _Steve Cortes_: Macron Misses the Mark on Nationalism
+*   _Jon Gabriel_: 5 Reasons Why Sinema Won Arizona
     
-*   _Steve Phillips_: Democrats Can't Play It Safe. They Need Inspiring Candidates.
+*   _Henry Grabar_: Why Can't Democrats Win Ohio?
     
-*   _Sen. Lindsey Graham_: Democrats Can Not Be Allowed to Steal Florida's Senate Seat
+*   _Rich Lowry_: The Left's 'Jim Crow' Fantasy of a Stolen Georgia Election
     
-*   _James Downie_: Rick Scott's Slimy Claim of Fraud
+*   _John Nichols_: Trump Proves That He Hates Democracy
     
-*   _Paul Sperry_: The Silence of Mueller's Trump-Russia 'Canaries'
+*   _Brandon Weichert_: Dems Are the Real Threat to Democracy
     
-*   _Bob Bauer_: An Open-and-Shut Violation of Campaign Finance Law
+*   _Rep. Mike Gallagher_: How to Salvage Congress
     
-*   _Stephen Vladeck_: Whitaker May Be Bad Choice, But He's a Legal One
+*   _Rep. Adam Schiff_: Matthew Whitaker, We're Watching You
     
-*   _Andrew McCarthy_: Obama's Judges Continue Thwarting Trump, Rule of Law
+*   _Margot Cleveland_: The Attacks Against Whitaker Are Unjust
     
-*   _Jane Mayer_: Is Kobach's Defeat in KS a Model for How to Beat Trump?
+*   _Samuel Earle_: Is Boris Johnson the Next Prime Minister?
     
-*   _Hugh Hewitt_: Trump Is Getting Better and Better at His Job
+*   _Rush Limbaugh_: Macron's Gross Misrepresentation of Trump's Nationalism
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   More Women in Congress, But Was It a Pink Wave?
+*   Florida Recount Chugs Along as More Irregularities Surface
+*   Pelosi: Dems' Approach to Subpoenas Will Be "Very Strategic"
 *   In Paris, Trump the "Nationalist" Stood Apart From Others
-*   Six Takeaways From the Midterms
-*   Graham: Democrats Can Not Be Allowed to Steal Florida's Senate Seat
-*   Trump Hits Cooperative--and Feisty--Post-Midterm Notes
-*   Exit Polls Show Suburbs as Likely 2020 Battlefield
+*   Proxy Advisors: The Realities of Robo-Voting
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,12 +243,12 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove56Disapprove +18
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve46
     *   Disapprove52Disapprove +6
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove56Disapprove +18
 *   Direction of CountryRasmussen Reports
     *   Right Direction43
     *   Wrong Track53Wrong Track +10
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Pelosi: Use Of Subpoena Power Will Be "Strategic," But Public Has A Right To Know
-*   House Judiciary Committee's Nadler: Whitaker Appointment Is Part Of A "Pattern Of Obstruction" Of Mueller
+*   CNN Suing President Trump And Top White House Aides For Barring Jim Acosta: "No Case Like This"
+*   Gillibrand on 2020: Fight To Restore Country's "Moral Compass" Lost Under Trump Presidency
+*   Hagel: Trump Skipping WWI Event An "Embarrassment". "Let Down" Veterans, "Let Down Our Country"
 *   Sen. Lindsey Graham: No Need For Whitaker To Recuse Himself From Supervising Mueller
-*   Rep. Adam Schiff: "We Are Going to Find Out" If Whitaker Interferes with Mueller
-*   Florida Recount: Andrew Gillum Withdraws His Concession In Governor Race
+*   Pelosi: Use Of Subpoena Power Will Be "Strategic," But Public Has A Right To Know
 
 *   Politics
 *   Policy
