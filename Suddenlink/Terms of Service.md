@@ -208,6 +208,7 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
     *   Contact Us
     *   Online Help
     *   Terms &. Policies
+    *   Privacy
     *   Areas We Serve
     *   Law Enforcement
 
@@ -219,5 +220,6 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
 © Copyright 2018 Suddenlink Communications, All Rights Reserved
 
 *   Terms and Policies
+*   Privacy
 
 <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=692091934276324&amp;ev=PageView&amp;noscript=1">.
