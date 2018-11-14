@@ -319,3 +319,5 @@ ETS — Measuring the Power of Learning.®
 
 Copyright © 2018 by Educational Testing Service. All rights reserved.  
 All trademarks are the property of their respective owners.
+
+Activate to launch comment card
