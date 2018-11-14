@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  01:21:39
+New Games Next in  01:21:03
 
-*   Brand New Games Next addition in 01:21:39
+*   By Date Next addition in 01:21:03
 
-*   Best of New Games Best games from last 2 months
+*   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 01:21:39
-*   Best of new games 2192 games
-*   Most Popular Games 18094 games
+*   New Games Next in 01:21:03
+*   Best of new games 2184 games
+*   Most Popular Games 18096 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,492 games
+*   Games for girls 23,494 games
 *   Driving &. Racing Games 6,703 games
-*   Strategy &. RPG Games 2,403 games
+*   Strategy &. RPG Games 2,402 games
 *   Management Games 3,631 games
-*   Thinking Games 11,843 games
-*   Action &. Adventure Games 15,820 games
+*   Thinking Games 11,846 games
+*   Action &. Adventure Games 15,821 games
 *   Sports Games 2,130 games
-*   Shooting Games 8,324 games
+*   Shooting Games 8,325 games
 *   Fighting Games 2,087 games
-*   Skill Games 10,625 games
-*   Arcade &. Classic Games 12,652 games
+*   Skill Games 10,629 games
+*   Arcade &. Classic Games 12,653 games
 *   Fun &. Crazy Games 2,473 games
 
 Play with friends  
-Powered by Y8 Account 133 Y8 Multiplayer Games 1,719 Y8 High Score Games 1,057 Y8 Achievements Games 788 Y8 Screenshots Games 1,347 Y8 Online Save Games 2,742 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 133 Y8 Multiplayer Games 1,720 Y8 High Score Games 1,057 Y8 Achievements Games 788 Y8 Screenshots Games 1,347 Y8 Online Save Games 2,743 All Y8 Games Games Last Highscore:
 
-**5,493** points on Cover Orange 2 by ZYS
+**8** points on Masked Forces 3 by vitiya
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
