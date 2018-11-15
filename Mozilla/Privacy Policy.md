@@ -1,4 +1,8 @@
-Menu Mozilla
+Your Firefox is out-of-date.
+
+Get the most recent version to keep browsing securely.
+
+Update FirefoxClose Menu Mozilla
 
 Download Firefox — English (US)
 
@@ -42,7 +46,7 @@ Firefox Privacy Notice
     
     *   Firefox Quantum Desktop Browser
         
-        Get the browser gives more power to you on Windows, Mac OS or Linux.
+        Get the browser that gives more power to you on Windows, Mac OS or Linux.
         
         *   Download
         *   New Features
