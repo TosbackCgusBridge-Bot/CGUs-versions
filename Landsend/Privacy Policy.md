@@ -989,9 +989,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles!
+Receive 50% off 1 full-price item!
 
-code: GOLD pin: 9624 DETAILS
+code: GOURD pin: 2134 DETAILS
 
 Customer Service Menu
 
