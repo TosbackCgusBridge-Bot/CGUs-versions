@@ -90,7 +90,7 @@ Skip to main content
 
 *   2019 Supra Xfinity Series Race Car View More Info
 *   GR Supra Racing Concept View More Info
-*   2019 RAV4 View More Info
+*   Hybrid Coming Soon All New 2019 RAV4 View More Info
 *   2017 FT-4X Concept View More Info
 
 View All Vehicles
@@ -145,7 +145,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 54/133 est MPG10 Hybrid $32,115 as shown1 2018 Prius $23,475 starting1  
 54/50 est MPG17 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
 48/43 est MPG20 Fuel Cell Vehicle $58,365 as shown1 2018 Mirai $58,365 starting1  
-67/67 est MPG14 Upcoming Vehicles $null as shown1 2019 Supra Xfinity Series Race Car $null as shown1 GR Supra Racing Concept $null as shown1 2019 RAV4 $null as shown1 2017 FT-4X Concept All Vehicles
+67/67 est MPG14 Upcoming Vehicles $null as shown1 2019 Supra Xfinity Series Race Car $null as shown1 GR Supra Racing Concept Hybrid Coming Soon $null as shown1 All New 2019 RAV4 $null as shown1 2017 FT-4X Concept All Vehicles
 
 *   Careers
 *   Español
@@ -409,13 +409,6 @@ Discontinued Vehicles
 *   Venza  
     
 *   All Discontinued Toyota Vehicles  
-    
-
-Compare Toyota vs. the Competition
-
-*   Toyota Corolla vs Honda Civic  
-    
-*   Toyota Camry vs Honda Accord  
     
 
 Features
