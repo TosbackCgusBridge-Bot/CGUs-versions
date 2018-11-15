@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  01:21:03
+New Games Next in  xx:xx
 
-*   By Date Next addition in 01:21:03
+*   By Date Next addition in xx:xx
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 01:21:03
-*   Best of new games 2184 games
-*   Most Popular Games 18096 games
+*   New Games Next in xx:xx
+*   Best of new games 2172 games
+*   Most Popular Games 18097 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,494 games
-*   Driving &. Racing Games 6,703 games
+*   Games for girls 23,493 games
+*   Driving &. Racing Games 6,704 games
 *   Strategy &. RPG Games 2,402 games
 *   Management Games 3,631 games
-*   Thinking Games 11,846 games
-*   Action &. Adventure Games 15,821 games
+*   Thinking Games 11,849 games
+*   Action &. Adventure Games 15,823 games
 *   Sports Games 2,130 games
 *   Shooting Games 8,325 games
-*   Fighting Games 2,087 games
-*   Skill Games 10,629 games
-*   Arcade &. Classic Games 12,653 games
-*   Fun &. Crazy Games 2,473 games
+*   Fighting Games 2,088 games
+*   Skill Games 10,631 games
+*   Arcade &. Classic Games 12,654 games
+*   Fun &. Crazy Games 2,474 games
 
 Play with friends  
-Powered by Y8 Account 133 Y8 Multiplayer Games 1,720 Y8 High Score Games 1,057 Y8 Achievements Games 788 Y8 Screenshots Games 1,347 Y8 Online Save Games 2,743 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 133 Y8 Multiplayer Games 1,730 Y8 High Score Games 1,057 Y8 Achievements Games 788 Y8 Screenshots Games 1,353 Y8 Online Save Games 2,752 All Y8 Games Games Last Highscore:
 
-**8** points on Masked Forces 3 by vitiya
+**850** points on Wheel Of Fortune by NIKE
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
