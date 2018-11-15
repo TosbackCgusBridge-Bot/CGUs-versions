@@ -9,7 +9,8 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Thanksgiving
+    Occasions*   Christmas
+    *   Thanksgiving
     *   Birthday GiftsMost Popular New! Thanksgiving Gifts
 *   Meat &. Cheese
     
@@ -59,9 +60,10 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Thanksgiving Gifts
+    View All Categories Shop by Category*   Christmas Gifts
+    *   Thanksgiving Gifts
     *   Entertaining
-    *   Christmas Gifts
+    *   Stocking Stuffers
     
     Occasions*   Birthday Gifts
     *   Weddings &. Showers
@@ -89,7 +91,8 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Thanksgiving
+    Occasions*   Christmas
+    *   Thanksgiving
     *   Birthday GiftsMost Popular New! Thanksgiving Gifts
 *   Meat &. Cheese
     
@@ -139,9 +142,10 @@
     *   DessertsMost Popular Cookies &. Cakes
 *   Holiday
     
-    View All Categories Shop by Category*   Thanksgiving Gifts
+    View All Categories Shop by Category*   Christmas Gifts
+    *   Thanksgiving Gifts
     *   Entertaining
-    *   Christmas Gifts
+    *   Stocking Stuffers
     
     Occasions*   Birthday Gifts
     *   Weddings &. Showers
@@ -228,12 +232,12 @@ is now subscribed.
 
 Check your email for your exclusive offer!
 
-Already Subscribed!
+Sorry, this offer is just for new subscribers!
 
 %%Email Address%%
 
-is already subscribed!
+is already subscribed.
 
-You should be receiving Hickory Farms emails.
+Watch your inbox to be the first to get exclusive Hickory Farms email offers!
 
 Feedback
