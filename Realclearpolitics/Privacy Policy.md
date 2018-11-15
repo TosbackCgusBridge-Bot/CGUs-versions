@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Valerie Jarrett_: Nancy Pelosi Has the Toughness Democrats Need
+*   _Paul Bonicelli_: Macron Picks a Fight With Trump Out of Empty Arrogance
     
-*   _Sen. Mitch McConnell_: Will Dems Work With Us or Just Play Politics?
+*   _David Andelman_: Trump Is in a Global Hole, and He Can't Stop Digging
     
-*   _Robert Kuttner_: For Democrats, Progressive Is the New Moderate
+*   _Bill Bennett_: We Should Want a President Who Puts U.S. &. Its People First
     
-*   _Ira Stoll_: Democrats Are Emerging As Party of the Rich
+*   _Richard Cohen_: With Dems in Charge, Trump Must Play by New Rules
     
-*   _VandeHei &. Allen_: 2018 Election Was Terrible for Trump. 2020 Will Be Worse
+*   _Brigitte Gabriel_: No Blue Wave, But a Tsunami of Liberal Intolerance
     
-*   _Tim Huelskamp_: Lesson of 2018? Embracing Trump Key to GOP Victory
+*   _Colin Dickey_: How Republican Conspiracies Have Warped Washington
     
-*   _David Leonhardt_: GOP Would Rather Undermine Democracy Than Lose Fairly
+*   _David Winston_: Independents Decided 2018--They'll Decide 2020 Too
     
-*   _Daniel Sobieski_: Ending Election Fraud
+*   _Ken Klukowski_: The First Amendment Does Not Protect What Acosta Did
     
-*   _Josh Dehaas_: How to Stop Corporate Virtue-Signaling Before It's Too Late
+*   _Sherrilyn Ifill_: When Trump Attacks One Black Woman, We All Feel It
     
-*   _Daniel Kishi_: Amazon's Great HQ2 Swindle
+*   _Claire Lehmann_: Camille Paglia: A New Map of the Gender World
     
-*   _Kate Julian_: Why Are Young People Having So Little Sex?
+*   _Kerry Howley_: How Did Larry Nassar Deceive So Many for So Long?
     
-*   _Dennis Prager_: If Sex Isn't Fixed, Why Is Age?
+*   _Alana Semuels_: Amazon's HQ2 Will Worsen America's 'Great Divergence'
     
-*   _Henry Olsen_: Midterms Show a Deeply Divided America
+*   _Abe Greenwald_: Old Europe's New Boogeyman
     
-*   _Robert Reich_: Amazon, and America's Real Divide
+*   _Adam Gopnik_: Wine, War, Donald Trump and Emmanuel Macron
     
-*   _Jon Gabriel_: 5 Reasons Why Sinema Won Arizona
+*   _John Fund_: The Dem Media's Dishonesty on the Florida Vote Fiasco
     
-*   _Henry Grabar_: Why Can't Democrats Win Ohio?
+*   _Jamelle Bouie_: Trump Thinks Legitimate Elections Are 'Voter Fraud'
     
-*   _Rich Lowry_: The Left's 'Jim Crow' Fantasy of a Stolen Georgia Election
+*   _Erin Montgomery_: Women Are Winning in the Trump Era
     
-*   _John Nichols_: Trump Proves That He Hates Democracy
+*   _Bill Scher_: Forget Pelosi. Democrats Should Challenge Hoyer.
     
-*   _Brandon Weichert_: Dems Are the Real Threat to Democracy
+*   _Katie Pavlich_: Democrats Owe Kavanaugh and His Family an Apology
     
-*   _Rep. Mike Gallagher_: How to Salvage Congress
+*   _Andy Slavitt_: Will Republicans Dig the Hole Deeper on Health Care?
     
-*   _Rep. Adam Schiff_: Matthew Whitaker, We're Watching You
+*   _Nate Cohn_: Weak Spots in Midterms Point to Dem Challenges in 2020
     
-*   _Margot Cleveland_: The Attacks Against Whitaker Are Unjust
+*   _Myra Adams_: Florida Exit Polls Reveal Tough 2020 Fight for Trump
     
-*   _Samuel Earle_: Is Boris Johnson the Next Prime Minister?
+*   _Jack Hunter_: No One Is Safe From the Mob Chasing Tucker Carlson
     
-*   _Rush Limbaugh_: Macron's Gross Misrepresentation of Trump's Nationalism
+*   _David Lurie_: CNN Will Win Lawsuit to Have Acosta's Press Pass Restored
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   More Women in Congress, But Was It a Pink Wave?
+*   Trump Eyeing Staffing Shakeup in Cabinet and at White House
 *   Florida Recount Chugs Along as More Irregularities Surface
-*   Pelosi: Dems' Approach to Subpoenas Will Be "Very Strategic"
-*   In Paris, Trump the "Nationalist" Stood Apart From Others
-*   Proxy Advisors: The Realities of Robo-Voting
+*   "Tucker Carlson Tonight" Investigates Broward Supervisor Brenda Snipes
+*   More Women in Congress, But Was It a Pink Wave?
+*   Proxy Advisors: The Big Thumb on the Scale--an Overview
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalMonmouth
+    *   Approve44
+    *   Disapprove49Disapprove +5
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve45
+    *   Disapprove54Disapprove +9
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve46
     *   Disapprove52Disapprove +6
-*   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove56Disapprove +18
-*   Direction of CountryRasmussen Reports
-    *   Right Direction43
-    *   Wrong Track53Wrong Track +10
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve45
-    *   Disapprove52Disapprove +7
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve43
+    *   Disapprove53Disapprove +10
 
 More Latest Polls In The News
 
-*   CNN Suing President Trump And Top White House Aides For Barring Jim Acosta: "No Case Like This"
-*   Gillibrand on 2020: Fight To Restore Country's "Moral Compass" Lost Under Trump Presidency
-*   Hagel: Trump Skipping WWI Event An "Embarrassment". "Let Down" Veterans, "Let Down Our Country"
-*   Sen. Lindsey Graham: No Need For Whitaker To Recuse Himself From Supervising Mueller
-*   Pelosi: Use Of Subpoena Power Will Be "Strategic," But Public Has A Right To Know
+*   Sen. Brown: If Stacey Abrams Doesn't Win Georgia Governorship, It's Clear That Republicans "Stole" It
+*   Trump Announces Criminal Justice Reform: "Redemption Is At The Heart Of The American Idea"
+*   Kornacki Map: Democrats Could End Up Picking Up 40 House Seats From Midterms. Gains Keep Growing
+*   Dershowitz: Impeaching Trump Would "Backfire" On Democrats, "Country Is Not Looking For That"
+*   Bakari Sellers: Gillum, Abrams, O'Rourke Did Not Lose. "They Fundamentally Rebranded Democratic Party"
 
 *   Politics
 *   Policy
