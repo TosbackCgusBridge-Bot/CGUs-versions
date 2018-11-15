@@ -49,7 +49,7 @@ Other Information
 
 Monster is not intended for children under 13 years of age.
 
-We participate in the EU-U.S. Privacy Shield framework, as described in more detail in the full Monster privacy policy.
+We participate in the EU-U.S. and Swiss-US Privacy Shield framework, as described in more detail in the full Monster privacy policy.
 
 We use cookies to help personalize and maximize your online experience on Monster. You may turn off cookies. however, this may limit your use of certain features or functions on our sites and applications.
 
@@ -61,7 +61,7 @@ Monster offers several mobile applications, including the Monster app and the Jo
 
 Contact Information
 
-You may contact us online for questions or concerns about our privacy practices or our EU-U.S. Privacy Shield participation. You may also write to us at:
+You may contact us online for questions or concerns about our privacy practices or our Privacy Shield participation. You may also write to us at:
 
 Privacy Office  
 Monster Worldwide, Inc.  
