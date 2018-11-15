@@ -96,7 +96,7 @@ Nous utilisons les informations que nous collectons via nos services existants a
 
 Proposer des services personnalisés, notamment en matière de contenu et d'annonces
 
-Nous utilisons les informations que nous collectons pour personnaliser nos services en fonction de vous, notamment pour vous proposer des recommandations, du contenu personnalisé et des résultats de recherche personnalisés. Par exemple, la vérification des paramètres de sécurité offre des astuces de sécurité adaptées à votre utilisation des produits Google. Le service Google Play exploite quant à lui des informations, telles que les applications que vous avez déjà installées et les vidéos que vous avez regardées sur YouTube pour vous proposer de nouvelles applications susceptibles de vous intéresser.
+Nous utilisons les informations que nous collectons pour personnaliser nos services en fonction de vous, notamment pour vous proposer des recommandations, du contenu personnalisé et des résultats de recherche personnalisés. Par exemple, le Check-up Sécurité offre des astuces de sécurité adaptées à votre utilisation des produits Google. Le service Google Play exploite quant à lui des informations, telles que les applications que vous avez déjà installées et les vidéos que vous avez regardées sur YouTube pour vous proposer de nouvelles applications susceptibles de vous intéresser.
 
 Selon vos paramètres, nous pouvons également vous présenter des annonces personnalisées sélectionnées sur la base de vos centres d'intérêt. Par exemple, si vous effectuez une recherche sur "VTT", il est possible qu'une annonce faisant la promotion d'équipement de sport s'affiche lorsque vous parcourez un site sur lequel la diffusion des annonces est assurée par Google. Vous pouvez accéder aux paramètres des annonces afin de gérer les informations que nous utilisons pour vous présenter des annonces.
 
@@ -129,9 +129,9 @@ Vos paramètres de confidentialité
 
 Vous pouvez décider des informations que nous collectons et de la façon dont nous les utilisons
 
-Cette section décrit les paramètres clés qui, au sein de nos services, vous permettent de gérer la confidentialité de vos informations. En outre, la vérification des paramètres de confidentialité vous permet d'examiner et d'ajuster d'importants paramètres de confidentialité. En plus de ces outils, nos produits contiennent des paramètres de confidentialité spécifiques. Pour en savoir plus, consultez notre Guide de confidentialité des produits.
+Cette section décrit les paramètres clés qui, au sein de nos services, vous permettent de gérer la confidentialité de vos informations. En outre, le Check-up Confidentialité vous permet d'examiner et d'ajuster d'importants paramètres de confidentialité. En plus de ces outils, nos produits contiennent des paramètres de confidentialité spécifiques. Pour en savoir plus, consultez notre Guide de confidentialité des produits.
 
-Accéder à la vérification des paramètres de confidentialité
+Accéder au Check-up Confidentialité
 
 Gérer, vérifier et mettre à jour les informations vous concernant
 
@@ -268,7 +268,7 @@ Tous les produits Google intègrent de puissantes fonctionnalités de sécurité
 Nous mettons en œuvre toutes les mesures de sécurité nécessaires pour vous protéger, ainsi que Google, contre tout accès, toute modification, divulgation ou destruction non autorisés des informations que nous détenons. Ces mesures sont notamment les suivantes :
 
 *   Nous chiffrons vos données afin d'en garantir la confidentialité dans le cadre de transferts.
-*   Nous proposons de nombreuses fonctionnalités de sécurité, telles que la navigation sécurisée, la vérification des paramètres de sécurité et la validation en deux étapes, pour vous aider à protéger votre compte.
+*   Nous proposons de nombreuses fonctionnalités de sécurité, telles que la navigation sécurisée, le Check-up Sécurité et la validation en deux étapes, pour vous aider à protéger votre compte.
 *   Nous menons des audits internes sur la collecte, le stockage et le traitement des données, y compris les mesures de sécurité physiques, afin d'empêcher tout accès non autorisé à nos systèmes.
 *   L'accès aux informations personnelles est strictement réservé aux employés, sous-traitants et agents de Google qui ont besoin d'y accéder afin de les traiter en notre nom. Toute personne y ayant accès est soumise à de strictes obligations de confidentialité et est susceptible de faire l'objet de sanctions disciplinaires pouvant aller jusqu'au licenciement en cas de manquement à ces obligations.
 
@@ -370,7 +370,7 @@ Autres ressources utiles
 Les liens suivants renvoient vers des ressources utiles qui vous permettent d'en savoir plus sur nos pratiques et nos paramètres de confidentialité.
 
 *   Votre compte Google comporte de nombreux paramètres vous permettant de le gérer.
-*   La vérification des paramètres de confidentialité vous présente les paramètres de confidentialité clés de votre compte Google.
+*   Le Check-up Confidentialité vous présente les paramètres de confidentialité clés de votre compte Google.
 *   Le centre de sécurité de Google propose des conseils visant à garantir la sécurité de vos informations.
 *   Le site de Google dédié à la confidentialité fournit davantage d'informations sur la façon dont nous assurons la confidentialité et la sécurité de vos données.
 *   Les Règles de confidentialité et Conditions d'utilisation offrent davantage de contexte en lien avec les présentes Règles de confidentialité et nos Conditions d'utilisation.
