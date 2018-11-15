@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Innovating toward safety: computer controlled aerial robotic systems ›
 *   Ubuntu Server development summary – 13 November 2018 ›
 *   Using Juju to manage evolving complex software ›
 *   Ubuntu Core and Kura: A framework for IoT gateways ›
 *   How to harness big data for maximum business value ›
-*   The rise of the Digital Smart Kiosk ›
