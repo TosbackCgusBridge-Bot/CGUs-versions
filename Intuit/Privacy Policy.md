@@ -13,55 +13,14 @@ SHOP DEPARTMENTS
 
 *   Same Day Pickup
 *   Holiday Gifts
-    *   Gifts for Her
-    *   Gifts for Him
-    *   Gifts for Kids
-    *   Gifts for Baby
-    *   All Gifts
 *   Toys
 *   Store Ads
 *   Clearance
-    *   Women
-    *   Shoes
-    *   Men
-    *   Kids
-    *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackHot Sellers
+Near YouFind a StoreBackShop and Save at JCPenney
 
-*   BUY MORE AND SAVE WITH CODE: GETNOW41
-    
-    from$2520after couponNorth Pole Trading Company Plaid Papa Bear 2 Piece Set -Men's(4)
-*   BUY MORE AND SAVE WITH CODE: GETNOW41
-    
-    $24after couponThe Foundry Big &. Tall Supply Co. Long Sleeve Flannel Shirt-Big and Tall(10)
-*   BUY 1 GET 1 50% OFF
-    
-    from$1949
-    
-    Stafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt(121)
-*   BUY 1 GET 1 50% OFF
-    
-    $36
-    
-    Stafford Travel Easy-Care Stretch Broadcloth Long Sleeve Broadcloth Dress Shirt(10)
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $80
-    
-    Arizona Womens Kerri Slouch Boots Flat Heel Pull-on(9)
-*   BUY 1 GET 1 40% OFF
-    
-    $5950
-    
-    Levi's® 550™ Relaxed Fit Jeans(1143)
-
-Shop and Save at JCPenney
-
-At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Get GE, LG and Samsung home appliances at amazing prices at our appliance sale. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadets that will make excellent gifts for any occassion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
+At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Get GE, LG and Samsung home appliances at amazing prices at our appliance sale. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
 *   Signup for text\* or email alerts, offers and promotionsSign Up
 *   **\*Text Alerts:** Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text HELP to 527365 for help and STOP to 527365 to cancel.  Terms &. Conditions. Privacy Policy.
