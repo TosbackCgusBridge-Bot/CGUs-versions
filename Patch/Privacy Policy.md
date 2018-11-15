@@ -1,12 +1,12 @@
-Toggle navigation Find Your Town Advertise Post Log in
+Toggle navigation Post Advertise Log in
 
-*   Wed, Nov 14
+*   Thu, Nov 15
 
 *   Post
 *   Advertise
-*   See All Patches
+*   See All Places
 
-Find Your Community See All Patches Regional
+See All Places Regional
 
 *   Alabama
 *   Alaska
