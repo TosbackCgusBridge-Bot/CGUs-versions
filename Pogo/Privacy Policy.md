@@ -1,7 +1,5 @@
-Electronic Arts Inc.Privacy and Cookie Policy Last Updated: August 31, 2018  
-Effective Date: September 30, 2018  
-  
-  
+Electronic Arts Inc.Privacy and Cookie Policy Last Updated: November 15, 2018  
+Effective Date: November 15, 2018  
   
 Your privacy is important to us, and we take our responsibility of caring for it seriously. This policy describes what information EA collects when you use the mobile, online and downloadable products and services offered by EA and its subsidiaries and/or attend live events hosted by or in connection with EA ("**products**"). For a list of our subsidiaries, visit https://www.sec.gov/Archives/edgar/data/712515/000071251518000024/ex-211subsidiariesofthereg.htm.  
   
@@ -163,7 +161,7 @@ We do not share personal information that directly identifies you (such as your 
   
 We employ third parties located in and outside of your country of residence (including outside of the European Economic Area (EEA)) to collect or process personal information on our behalf for various reasons, such as conducting market surveys, facilitating credit card processing, or sending emails. When our third party agents or service providers collect or receive personal information, we require that they use the data only on our behalf and for purposes consistent with this policy.  
   
-We do not knowingly disclose personal information about children under 18 years of age to independent third parties even with consent.  
+We do not knowingly disclose directly identifying personal information from children under 18 years of age to independent third parties even with consent.  
   
 However, in the event of a reorganization, divestiture, merger, sale or bankruptcy, we may transfer all information we collect to the relevant third party and will obtain your consent to do so if required by law.  
   
@@ -234,6 +232,7 @@ For more information and updates to this policy, visit privacy.ea.com.
   
 
 Previous Privacy and Cookie Policy:  
+Last Updated: August 31, 2018  
 Last Updated: May 25, 2018  
 Last Updated: January 18, 2018  
 Last Updated: July 31, 2017  
