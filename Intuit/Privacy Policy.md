@@ -1,4 +1,4 @@
-Accessible View
+Free Shipping Anywhere Over $49See DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -18,7 +18,34 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackShop and Save at JCPenney
+Near YouFind a StoreBackHot Sellers
+
+*   $2999 sale
+    
+    was $70 | 57% offa.n.a Womens Anita Booties Zip(6)
+*   $4999 sale
+    
+    was $79 | 36% offYuu Womens Regina Stacked Heel Zip Bootie(6)
+*   $4999 sale
+    
+    was $79 | 36% offAndrew Geller Womens Keira Dress Boots Block Zip Heel
+*   ADVERTISED DEAL!
+    
+    $2999 sale
+    
+    was $70 | 57% offeast 5th Womens Genova Booties Wedge Heel Zip(9)
+*   ADVERTISED DEAL!
+    
+    $2999 sale
+    
+    was $70 | 57% offeast 5th Womens Quiney Booties Stiletto Heel Elastic(1)
+*   ADVERTISED DEAL!
+    
+    $2999 sale
+    
+    was $70 | 57% offeast 5th Womens Quentin Booties Stiletto Heel Zip(3)
+
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Get GE, LG and Samsung home appliances at amazing prices at our appliance sale. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
