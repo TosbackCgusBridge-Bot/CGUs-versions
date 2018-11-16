@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Paul Bonicelli_: Macron Picks a Fight With Trump Out of Empty Arrogance
+*   _Jane Merrick_: Theresa May's Fate in the Balance as Brexit Deal Wobbles
     
-*   _David Andelman_: Trump Is in a Global Hole, and He Can't Stop Digging
+*   _Laura Ingraham_: The Integrity of Our Elections Is Imperiled in Florida
     
-*   _Bill Bennett_: We Should Want a President Who Puts U.S. &. Its People First
+*   _Dana Milbank_: The Real Fraudster in Florida Is Mitch McConnell
     
-*   _Richard Cohen_: With Dems in Charge, Trump Must Play by New Rules
+*   _Salena Zito_: Political Realignment: Look at the Republican Wins in Ohio
     
-*   _Brigitte Gabriel_: No Blue Wave, But a Tsunami of Liberal Intolerance
+*   _David Remnick_: Trump's Rages and the Case for Dem Optimism
     
-*   _Colin Dickey_: How Republican Conspiracies Have Warped Washington
+*   _Karl Rove_: Will Democrats Fall in Line for Pelosi?
     
-*   _David Winston_: Independents Decided 2018--They'll Decide 2020 Too
+*   _Joe Lieberman_: Problem Solvers on the Cusp of a Breakthrough
     
-*   _Ken Klukowski_: The First Amendment Does Not Protect What Acosta Did
+*   _Margaret Carlson_: So Just What Was That Melania Power Play About?
     
-*   _Sherrilyn Ifill_: When Trump Attacks One Black Woman, We All Feel It
+*   _Freddy Gray_: Melania Trump: America's Iron First Lady
     
-*   _Claire Lehmann_: Camille Paglia: A New Map of the Gender World
+*   _Alexis Madrigal_: The Problem With Kim Kardashian's Private Firefighters
     
-*   _Kerry Howley_: How Did Larry Nassar Deceive So Many for So Long?
+*   _Verret &. Glassman_: Now's the Time to Fix the Broken Proxy System
     
-*   _Alana Semuels_: Amazon's HQ2 Will Worsen America's 'Great Divergence'
+*   _Chris Buskirk_: It's Ocasio-Cortez's Party Now, Pelosi Is Just Leading It
     
-*   _Abe Greenwald_: Old Europe's New Boogeyman
+*   _Sasha Issenberg_: Maybe It's Time for America to Split Up
     
-*   _Adam Gopnik_: Wine, War, Donald Trump and Emmanuel Macron
+*   _Monica Crowley_: What Trump Can Learn From History
     
-*   _John Fund_: The Dem Media's Dishonesty on the Florida Vote Fiasco
+*   _John Cassidy_: Sinema Victory Is Biggest Dem Win of Trump Era
     
-*   _Jamelle Bouie_: Trump Thinks Legitimate Elections Are 'Voter Fraud'
+*   _Sally Persons_: In Minnesota's Iron Range, GOP Cut Into Dems' Turf
     
-*   _Erin Montgomery_: Women Are Winning in the Trump Era
+*   _Jamil Smith_: Andrew Gillum: I'm Not Leaving the Field
     
-*   _Bill Scher_: Forget Pelosi. Democrats Should Challenge Hoyer.
+*   _Cheryl Chumley_: Principles, Honor, &. the Coming Banana Republic
     
-*   _Katie Pavlich_: Democrats Owe Kavanaugh and His Family an Apology
+*   _George Monbiot_: Earth's in a Death Spiral. Only Radical Action Can Save Us
     
-*   _Andy Slavitt_: Will Republicans Dig the Hole Deeper on Health Care?
+*   _Conrad Black_: Trump Is Owed Thanks for Ditching Paris Climate Pact
     
-*   _Nate Cohn_: Weak Spots in Midterms Point to Dem Challenges in 2020
+*   _Walter Shaub_: This Is the Saturday Night Massacre
     
-*   _Myra Adams_: Florida Exit Polls Reveal Tough 2020 Fight for Trump
+*   _Julie Kelly_: NeverTrump's Billionaire Leftist Benefactors
     
-*   _Jack Hunter_: No One Is Safe From the Mob Chasing Tucker Carlson
+*   _Bradley Honan &. Arick Wierson_: Please, Hillary, Don't Do It
     
-*   _David Lurie_: CNN Will Win Lawsuit to Have Acosta's Press Pass Restored
+*   _Sen. Mike Lee_: A Conservative Case for Criminal Justice Reform
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Eyeing Staffing Shakeup in Cabinet and at White House
-*   Florida Recount Chugs Along as More Irregularities Surface
-*   "Tucker Carlson Tonight" Investigates Broward Supervisor Brenda Snipes
-*   More Women in Congress, But Was It a Pink Wave?
+*   In MN Mining Region, Republicans Cut Into Democrats' Turf
+*   Pelosi Unfazed as Group of Dems Claims Votes to Block Speaker Bid
+*   Trump Backs 1st Major Rewrite of Sentencing Laws in Decades
+*   House Republicans Elect McCarthy as Leader With Eye to 2020
 *   Proxy Advisors: The Big Thumb on the Scale--an Overview
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove50Disapprove +2
 *   President Trump Job ApprovalMonmouth
     *   Approve44
     *   Disapprove49Disapprove +5
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve45
     *   Disapprove54Disapprove +9
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove52Disapprove +6
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve43
     *   Disapprove53Disapprove +10
 
 More Latest Polls In The News
 
+*   Sen. Kamala Harris vs. ICE Nominee: Are You Aware Certain Communities See Parallels Between ICE &. KKK?
+*   Graham: Wouldn't It Be Ironic If Trump Fixed Problems Caused By 'Three Strikes' Law Passed By Clinton
+*   Tucker Carlson Rips CNN: One Of "Free Speech's Greatest Enemies" Now Posing As Its Defender
 *   Sen. Brown: If Stacey Abrams Doesn't Win Georgia Governorship, It's Clear That Republicans "Stole" It
-*   Trump Announces Criminal Justice Reform: "Redemption Is At The Heart Of The American Idea"
-*   Kornacki Map: Democrats Could End Up Picking Up 40 House Seats From Midterms. Gains Keep Growing
-*   Dershowitz: Impeaching Trump Would "Backfire" On Democrats, "Country Is Not Looking For That"
-*   Bakari Sellers: Gillum, Abrams, O'Rourke Did Not Lose. "They Fundamentally Rebranded Democratic Party"
+*   Schumer: "When All The Votes Are Counted In Florida," We Could Maintain 48 Democratic Senators
 
 *   Politics
 *   Policy
