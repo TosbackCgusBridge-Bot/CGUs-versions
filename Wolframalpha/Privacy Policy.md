@@ -1,124 +1,367 @@
-What would you like to know about ? Compute
+*   WolframAlpha.com
+*   WolframCloud.com
+*   All Sites &. Public Resources...
 
-*   Upgrade to Pro
-    *   For Everyone Pricing | Features
-    *   For Students Pricing | Features
-    *   For Educators Pricing | Features
-*   Apps
-    *   Web Apps
-    *   Problem Generator
-    *   Mobile Apps
-    *   All Products
-*   Tour
-*   Sign in
-    *   Favorites
-    *   History
-    *   Preferences
-    *   Downloads
-    *   Uploads
-    *   Account
-    *   My Widgets
-    *   My Apps (API)
-    *   Sign Out
+*   Products &. Services
+    *   *   Wolfram|One
+        *   Mathematica
+        *   Development Platform
+        *   Programming Lab
+        *   Data Science Platform
+        *   Finance Platform
+        *   SystemModeler
+        
+        *   *   Enterprise Private Cloud
+            *   Enterprise Mathematica
+            *   Wolfram|Alpha Appliance
+        *   Enterprise Solutions
+            *   Corporate Consulting
+            *   Technical Services
+            *   Wolfram|Alpha Business Solutions
+        
+        *   Products for Education
+        *   Wolfram|Alpha
+            *   Wolfram|Alpha Pro
+            *   Problem Generator
+            *   API
+        *   Data Drop
+        *   Data Repository
+        
+        *   Mobile Apps
+            *   Wolfram Player
+            *   Wolfram Cloud App
+            *   Wolfram|Alpha for Mobile
+            *   Wolfram|Alpha-Powered Apps
+        *   Services
+            *   Paid Project Support
+            *   Training
+            *   Summer Programs
+    *   All Products &. Services »
+*   Technologies
+    *   Wolfram Language Revolutionary knowledge-based programming language. Wolfram Cloud Central infrastructure for Wolfram's cloud products &. services. Wolfram Science Technology-enabling science of the computational universe. Computable Document Format Computation-powered interactive documents. Wolfram Engine Software engine implementing the Wolfram Language. Wolfram Natural Language Understanding System Knowledge-based broadly deployed natural language. Wolfram Data Framework Semantic framework for real-world data. Wolfram Universal Deployment System Instant deployment across cloud, desktop, mobile, and more. Wolfram Knowledgebase Curated computable knowledge powering Wolfram|Alpha.
+    *   All Technologies »
+*   Solutions
+    *   *   Engineering, R&D
+            *   Aerospace &. Defense
+            *   Chemical Engineering
+            *   Control Systems
+            *   Electrical Engineering
+            *   Image Processing
+            *   Industrial Engineering
+            *   Mechanical Engineering
+            *   Operations Research
+            *   _More..._
+        
+        *   Finance, Statistics &. Business Analysis
+            *   Actuarial Sciences
+            *   Bioinformatics
+            *   Data Science
+            *   Econometrics
+            *   Financial Risk Management
+            *   Statistics
+            *   _More..._
+        
+        *   Education
+            *   All Solutions for Education
+        *   Trends
+            *   Machine Learning
+            *   Multiparadigm Data Science
+            *   Internet of Things
+            *   High-Performance Computing
+            *   Hackathons
+        
+        *   Web &. Software
+            *   Authoring &. Publishing
+            *   Interface Development
+            *   Software Engineering
+            *   Web Development
+        *   Sciences
+            *   Astronomy
+            *   Biology
+            *   Chemistry
+            *   _More..._
+    *   All Solutions »
+*   Support &. Learning
+    *   *   Learning
+            *   Wolfram Language Documentation
+            *   Fast Introduction for Programmers
+            *   Training
+            *   Videos &. Screencasts
+        *    
+            *   Wolfram Language Introductory Book
+            *   Virtual Workshops
+            *   Summer Programs
+            *   Books
+        
+        *   Need Help?
+            *   Support FAQ
+            *   Wolfram Community
+            *   Contact Support
+        
+        *   Premium Support
+            *   Premier Service
+            *   Technical Services
+    *   All Support &. Learning »
+*   Company
+    *   *   About
+            *   Company Background
+            *   Wolfram Blog
+            *   Announcements
+            *   Events
+            *   Contact Us
+        
+        *   Work with Us
+            *   Careers at Wolfram
+            *   Internships
+            *   Other Wolfram Language Jobs
+        
+        *   Initiatives
+            *   Wolfram Foundation
+            *   MathWorld
+            *   Computer-Based Math
+            *   _A New Kind of Science_
+            *   Wolfram Technology for Hackathons
+            *   Student Ambassador Program
+        *    
+            *   Wolfram for Startups
+            *   Demonstrations Project
+            *   Wolfram Innovator Awards
+            *   Wolfram + Raspberry Pi
+            *   Summer Programs
+            *   _More..._
+    *   All Company »
 
-<header id="wa-common-header">. <nav>. <h1>. <a href="/">. <img class="tracking-header-logo" src="/html\_includes/header-footer/img/wolfram-alpha-logo.svg?v=2" alt="Wolfram|Alpha" width="166" height="25">. </a>. </h1>. <form id="header-input-form" class="input" action="/input/" method="get">. <label for="wa-top-input">What would you like to know about ?</label>. <input type="text" id="wa-top-input" name="i" placeholder="What would you like to know about ?">. <button>Compute</button>. </form>. <div class="menu-toggle"><span class="icon-hamburger-menu"></span></div>. <ul class="main-nav">. <li>. <a class="header-pro-link">Upgrade to Pro</a>. <ul class="pro-menu">. <li><a class="tracking-pro-link" href="/pro/">For Everyone</a></li>. <li><a class="tracking-pro-link" href="/pro-for-students/">For Students</a></li>. <li><a class="tracking-pro-link" href="/pro-for-educators/">For Educators</a></li>. <li><a class="tracking-pro-link" href="/pro/pricing/">Pricing</a></li>. </ul>. </li>. <li>. <a class="icon-apps">Apps</a>. <ul class="apps-menu">. <li><a class="web-apps-link tracking-apps-link" href="/web-apps">Web Apps</a></li>. <li><a class="wpg-link tracking-apps-link" href="/problem-generator">Problem Generator</a></li>. <li><a class="mobile-apps-link tracking-apps-link" href="http://products.wolframalpha.com/mobile/">Mobile Apps</a></li>. <li><a class="all-products-link tracking-apps-link" href="http://products.wolframalpha.com/">All Products</a></li>. </ul>. </li>. <li><a href="/tour/" class="tracking-header-link">Tour</a></li>. <li class="oauth">. <button class='signed-in icon-user-email'></button>. <ul class='user-menu'>. <div>. <li><a class="tracking-user-menu-link" href='/?lbox=auth-favorites'>Favorites</a></li>. <li><a class="tracking-user-menu-link" href='/?lbox=auth-history'>History</a></li>. <li><a class="tracking-user-menu-link" href='/?lbox=auth-preferences'>Preferences</a></li>. <li><a class="tracking-user-menu-link" href='/?lbox=auth-downloads'>Downloads</a></li>. <li><a class="tracking-user-menu-link" href='/?lbox=auth-uploads'>Uploads</a></li>. <li><a class="tracking-user-menu-link" href='/?lbox=auth-account'>Account</a></li>. </div>. <div>. <li><a class="tracking-user-menu-link" href='http://developer.wolframalpha.com/portal/mywidgets/'>My Widgets</a></li>. <li><a class="tracking-user-menu-link" href='http://developer.wolframalpha.com/portal/myapps/'>My Apps (API)</a></li>. </div>. </ul>. </li>. </ul>. </nav>. </header>. <div class="js-banner">. <img src="/exclam-icon.png"></img>. Enable Javascript to interact with content and submit forms on Wolfram|Alpha websites. <a href="http://enable-javascript.com">Learn How &raquo;</a>. </div>. Wolfram|Alpha Privacy Policy
+*   Search
+    
 
-We understand your concerns about how your information is used and shared, and we endeavor to use such information carefully and sensibly. This page explains how the information you provide is collected and used.
+LEGAL INFORMATION Wolfram Privacy Policy
+
+Wolfram understands your concerns about how your information is used and shared, and we endeavor to use such information carefully and sensibly. This policy explains how the information you provide is collected and used.
 
 What Information Do We Collect?
 
-We may collect both personally identifiable information about you and non-personally-identifiable information about your experience when you access the Wolfram|Alpha website.
+We may collect both personally identifiable information about you and non-personally-identifiable information through your experience on our websites, from your use of our services and products, and via other voluntary contact with you (collectively "Services").
 
-The personally identifiable information we collect on our website or through our service consists of information you submit to us, including your name, email address, and other personal information that you willingly provide. Because participation in these activities is voluntary, you have a choice whether or not to disclose such information.
+The personally identifiable information we collect through our Services primarily consists of information you submit to us, including your name, email address and other personal information that you willingly provide. Because participation in our Services is voluntary, you have a choice of whether or not to disclose such information.
 
-In addition to information that you provide to us through forms, we receive non-personally identifiable information whenever you interact with our websites, including your Internet Protocol (IP) address, browser type and version, geographical region, referral URLs, and other data automatically supplied by common web browsers.
+In addition to information that you provide to us voluntarily, we receive some additional personally identifiable information and non-personally-identifiable information whenever you interact with our Services online, including your Internet Protocol (IP) address, browser type and version, referral URLs and other data automatically supplied by most common web browsers.
 
-What Information Do We Collect from Third-Party Sites?
-
-When you use any Wolfram|Alpha application associated with a Third-Party Site ("TPS"), including but not limited to social networking sites such as Facebook, we may collect personally identifiable information about you from the profile you have established at the TPS.
-
-By authorizing Wolfram|Alpha to access your TPS profile, you are authorizing Wolfram|Alpha to collect, store, and use in accordance with this Privacy Policy any and all information that your privacy settings at the TPS allow Wolfram|Alpha to access through the TPS Application Programming Interface ("API").
-
-The personally identifiable information Wolfram|Alpha is allowed to access is affected by the privacy settings you have established at the TPS. Because the linkage between any TPS and Wolfram|Alpha is completely voluntary, and our ability to access your information at the TPS requires that linkage, you have a choice whether or not to disclose such information.
+We may also collect information from third-party sites, as described below in What Information Do We Collect from Third-Party Sites?
 
 How Is Your Information Used?
 
-Information about our users is an important part of our business, and we are not in the business of selling it to others. We do not sell, rent, or lease your information to third parties.
+The information we obtain from users, site participants and visitors helps us enhance and refine our Services. Non-personal information collected about you through your experience, queries and feedback is used to better understand the entire population that is utilizing our Services and how we might improve the collective experience. Except as noted below, we track and record IP addresses that access our Services for internal reporting, diagnostic analysis and security purposes only.
 
-The information we obtain from Wolfram|Alpha users helps us enhance and refine our service and content. Non-personal information collected about you through your experience and queries is used to better understand the entire population that is utilizing our website and how we might improve our services to improve the collective experience. Except as noted below, we track and record IP addresses that access our website for internal reporting, diagnostic, and analysis purposes only.
+Your IP address is used to determine, when possible, your approximate geographical location, which affects the computations or outputs provided by our Services for such things as default currency and units of measure based on what country you are in. Your browser type may be used to optimize your display, for example on mobile devices or to work around limitations of a particular browser. Referrer URLs may be used to generate usage statistics and analyze usage patterns.
 
-If you choose to receive communication from Wolfram|Alpha directly or via use of any submission forms associated with the website, we may send you an email response as well as notify you of other offers or services that may be of interest. When you send email or other communications to us, we may retain those communications to respond to you and improve our products and services.
+If you provide your email address to us, we may email you in response, as well as notify you of other offers or services that may be of interest. When you send email or other communication to us, we may retain that communication to respond to you and improve our Services. If at any time you want to stop receiving communication from us, please click the unsubscribe link in the footer of any email message from us, or contact our customer service online or by phone at 1-800-WOLFRAM. However, please note that we may still contact you with transactional communications associated with any software or service agreements you have with us or in direct response to any communication you send us.
 
-Your IP address is used to determine, when possible, your approximate geographical location, which affects such things as your results' default currency and units of measure, based on what country you are in. Your browser type may be used to fine-tune the results for optimal display, for example on mobile devices or to work around limitations of a particular browser. Referrer URLs may be used to generate usage statistics and analyze usage patterns.
+Disclosures of Your Information
 
-Other Disclosures of Your Information
+We do not sell, rent, trade or lease your information to third parties. Any information we share shall be subject to the parameters associated with your requested Services and preferences.
 
-We may release personally identifying information when we believe release is necessary to comply with lawful court orders. Any collected information associated with your use of the website (personal and non-personal) will be disclosed to government authorities or third parties only pursuant to a lawful request, subpoena, or other process that legally compels disclosure of that information.
+When we share personal information, we require the recipient to protect your personal information in compliance with the law. Wolfram may share information with affiliates, partners, service providers, authorized resellers and distributors and relevant third parties in order to fulfill the limited purposes described herein.
 
-We may also preserve, use, or disclose your information if necessary to enforce our Terms of Use and related agreements. to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website. to respond to support requests. or to protect the rights, property, or safety of Wolfram|Alpha, our users, or others.
+Any collected information (personal and non-personal) associated with your use of our Services may also be subject to disclosure to government authorities or other authorized third parties pursuant to a lawful request, subpoena or other process that legally compels disclosure of that information.
 
-Cookies
+We may also preserve, use or disclose your information if necessary to enforce our Terms of Use and related agreements. to detect, prevent or otherwise address fraud, security or technical issues, including suspiciously high-volume use of our Services. to respond to support requests. or to protect the rights, property or safety of our company, our users or others.
 
-When you visit our website, we, like most websites, send one or more cookies—small identifiers—to your computer that store information about your session and preferences as well as information that can help improve our services. While we do use strictly necessary and functional cookies for basic site functionality, as well as security and fraud investigation purposes, our primary purpose in using all other cookies is to enhance and improve your user experience by understanding and remembering your preferences, and by general tracking of our user trends. We utilize the following types of cookies:
+What Information Do We Collect from Third-Party Sites?
 
-1.  Default cookies: These strictly necessary and functional cookies support and facilitate the provision of services that you have requested on our website, and may enable enhanced features.
-2.  Additional cookies: These cookies collect information that we utilize to support the measurement of this website. On specific sites, Wolfram may use third-party cookies when working with outside partners for analytics and to optimize delivery of information that may be of interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
+When you use our Services to connect to or access data from a third-party site ("TPS"), including but not limited to social networking sites, we may collect personally identifiable information about you from any TPS profile for which you give our Services access credentials.
 
-Most browsers are initially set up to accept cookies, but can typically be configured to block all cookies or block all third-party cookies. Please be aware that our website may not have full functionality for you if your browser is set to block some or all cookies. Depending on your location, you may also be prompted to provide your consent to all cookies, other than strictly necessary and functional cookies, each time you visit our website. Any information about you collected by us is retained and protected in accordance with the law governing your location.
+By authorizing these Services to access your TPS profile, you are authorizing us, in accordance with this Privacy Policy, to collect, store and use any and all information that your privacy settings at the TPS allow our Services to access through the TPS application programming interface ("API").
+
+Because the linkage between any TPS and our Services is completely voluntary and our Services' abilities to access your information at the TPS require that linkage, and any information transmitted is controlled by your privacy settings at the TPS, you have a choice of whether or not to disclose such information.
 
 Links to Third-Party Websites
 
-From time to time, Wolfram|Alpha may contain links to other websites. We do not exercise any control over these websites, and we are not responsible for their privacy practices or content. We encourage all users to read the privacy policies of each and every website visited when following links from the Wolfram|Alpha website. This privacy policy applies solely to information collected by Wolfram|Alpha.
+From time to time, our Services may contain links to other websites. We do not exercise any control over these websites, and we are not responsible for their privacy practices or content. We encourage all users to read the privacy policies of each and every website visited when following links from our Services. This Privacy Policy applies solely to information collected by our Services.
 
-Accessing Wolfram|Alpha from Third-Party Sources
+Cookies
 
-Wolfram|Alpha may additionally be accessed through web widgets or gadgets that are embedded on third-party sites. If you choose to access Wolfram|Alpha via such tools, then depending on the third-party widget technology, your personal information and queries may be passed on to the third party's servers prior to being processed on the Wolfram|Alpha website.
+When you visit our websites, they, like most websites, send one or more cookies—small identifiers—to your computer that store information about your session and preferences as well as information that can help improve our Services. While we do use strictly necessary and functional cookies for basic site functionality, as well as security and fraud investigation purposes, our primary purpose in using all other cookies is to enhance and improve your user experience by understanding and remembering your preferences, and by general tracking of our user trends. We utilize the following types of cookies:
+
+*   Default cookies: These strictly necessary and functional cookies support and facilitate the provision of services that you have requested on our websites, and may enable enhanced features.
+*   Additional cookies: These cookies collect information that we utilize to support the measurement of our websites. On specific sites, Wolfram may use third-party cookies when working with outside partners for analytics and to optimize delivery of information that may be of interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
+
+Most browsers are initially set up to accept cookies, but can typically be configured to block all cookies or block all third-party cookies. Please be aware that our websites may not have full functionality for you if your browser is set to block some or all cookies. Depending on your location, you may also be prompted to provide your consent to all cookies, other than strictly necessary and functional cookies, each time you visit our websites. Any information about you collected by us is retained and protected in accordance with the laws governing your location.
 
 Security
 
-We take appropriate measures to ensure the security of our website and systems. This includes precautions to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, alteration, disclosure, or destruction of data.
+We take appropriate measures to ensure the security of our Services. These include precautions to safeguard your personal information against loss, theft and misuse, as well as against unauthorized access, alteration, disclosure or destruction of data.
 
-Despite our efforts to protect your personal information, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the internet may be intercepted. Your use of the website constitutes an acceptance of such risk.
+Despite our efforts to protect your personal information, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the internet may be intercepted. Your use of our Services constitutes an acceptance of such risk.
 
-Changes to This Privacy Policy
+Accessing Our Data Servers
 
-We may update or modify this Privacy Policy from time to time in the future. Any such updates or modifications shall be effective immediately upon their posting. Please refer back to this page often for the latest information.
+Various Wolfram Services offer some functionality for which they must access our data servers through the internet. When they do so, our data servers receive information similar to what our web servers receive when you visit our websites, as well as various Service-specific identifying information.
 
-Data Retention
+Specifically, using Wolfram|Alpha, or utilizing the Wolfram|Alpha functionality within other Services, will trigger the collection of information about the specific query. Some queries may require collecting additional information, such as session information covering the history of Wolfram Mathematica evaluations or the content of Wolfram Finance Platform notebooks containing the Wolfram|Alpha query. You will be given an opt-in prompt on a per-session basis about this expanded Wolfram|Alpha information collection.
+
+You can choose to prevent these Services from accessing our servers by disconnecting from the internet or by using the Internet Connectivity item in the Help menu to tell the Service not to connect to the internet. If you choose not to allow these Services to access our servers, our Services will not be able to perform certain functions.
+
+Under normal circumstances, we will never release information on accesses to our servers. We may, however, release information as described above in Disclosures of Your Information.
+
+Accessing Our Services from Third-Party Sources
+
+_This section is only applicable to Wolfram|Alpha and the Wolfram Cloud:_
+
+These Services may additionally be accessed through web widgets, scripts or gadgets that are embedded on third-party sites. If you choose to access these Services via such tools, then depending on the third-party technology, your personal information and input may be passed on to the third party's servers prior to being processed by our Services.
+
+Data Retention and the GDPR
 
 We collect and hold personal data about our customers, users and enthusiasts, employees and others in the European Union who access our resources and services in a manner consistent with the lawful bases as outlined in the European Union's General Data Protection Regulation (GDPR). Please see the Data Retention Policy Addendum to Wolfram's Privacy Policies, which outlines our GDPR compliance in collecting, processing and using your personal data. It also describes how you can contact us to review any personal data and withdraw any consent you have given us to store it.
 
-Questions and Concerns
+Changes to This Privacy Policy
 
-If you have any questions or concerns about this Privacy Policy, you may email us or contact us by U.S. mail at Wolfram Alpha LLC, Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237 USA.
+We may update or modify this Privacy Policy from time to time in the future. Any such updates or modifications shall be effective immediately upon their announcement. Please refer often to this document online for the latest information.
 
-Effective as of May 24, 2018
+Questions, Concerns and More Information
 
-Wolfram|Alpha Pages
+For information on policies related to the use of our Services, see our Legal portal.
 
-*   Pro
-*   Web Apps
-*   Mobile Apps
+If you have any questions or concerns about this Privacy Policy, you may contact us online or by US mail at Wolfram, Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237 USA.
+
+By using our Services, you are telling us either that you are 18 years or older and legally able to form contracts, or that an adult with authority to act on your behalf has agreed to these terms and to be responsible for ensuring your compliance with them in your use of the Services and any results you obtain from them. If you don't want to be bound by these terms, do not use the Services or their results.
+
+Revised October 29, 2018
+
+Legal
+
+*   Privacy Policies
+*   *   Wolfram Research
+    *   Wolfram|Alpha
+    *   Wolfram Cloud
+    *   Wolfram Demonstrations Project
+    *   Wolfram Mathematica
+    *   Wolfram Desktop
+    *   Wolfram SystemModeler
+    *   Wolfram Finance Platform
+    *   Wolfram CDF Player
+    *   WolframTones
+    *   Data Retention
+
+*   Terms of Use
+*   *   Wolfram Research
+    *   Wolfram|Alpha
+    *   Wolfram|Alpha API
+    *   Wolfram ID
+    *   Wolfram Cloud
+    *   Wolfram Enterprise Private Cloud
+    *   Wolfram Programming Lab
+    *   Wolfram Community
+    *   Wolfram Connected Devices Project
+    *   Wolfram Demonstrations Project
+    *   Mathworld
+    *   WolframTones
+    *   Wolfram Science
+    *   Wolfram Research Screensavers and Wallpapers
+    *   Wolfram User Portal
+    *   Wolfram Chat
+
+*   License Agreements
+*   *   Wolfram Mathematica
+    *   Wolfram Desktop
+    *   Wolfram SystemModeler
+    *   Wolfram SystemModeler Library
+    *   Wolfram Finance Platform
+    *   Wolfram Raspberry Pi Bundle
+    *   Wolfram CDF Player
+    *   webMathematica Professional
+    *   webMathematica Amateur
+    *   WolframTones
+    *   MathLink
+    *   J/Link
+    *   Wolfram|Alpha Toolbar
+    *   Other
+
+*   Publishing and Submissions
+*   *   Wolfram Challenges
+    *   Wolfram Data Repository
+    *   Wolfram Demonstrations
+    *   Wolfram Resource System
+
+*   Service Level Agreements
+*   *   Enterprise Support
+
+*   Accessibility
+*   *   Wolfram Mathematica
+    *   Wolfram CDF Player (desktop deployment)
+    *   Wolfram SystemModeler
+
 *   Products
-*   Business Solutions
-*   API &. Developer Solutions
-*   About
-*   Resources &. Tools
-*   Blog
-*   Community
+*   Wolfram|One
+*   Mathematica
+*   Development Platform
+*   Programming Lab
+*   Data Science Platform
+*   Wolfram|Alpha Pro
+*   Mobile Apps
+*   Finance Platform
+*   SystemModeler
+*   Wolfram Workbench
+*   CDF Player
+*   Volume &. Site Licensing
+*   Enterprise Private Cloud
+*   View all...
+
+*   Services
+*   Technical Services
+*   Corporate Consulting
+
+*   For Customers
+*   Online Store
+*   Product Registration
+*   Product Downloads
+*   Service Plans Benefits
+
+*   Support
+*   Support FAQ
+*   Customer Service
+*   Contact Support
+
+*   Learning
+*   Wolfram Language Documentation
+*   Wolfram Language Introductory Book
+*   Fast Introduction for Programmers
+*   Fast Introduction for Math Students
+*   Virtual Workshops
+*   Training
+*   Summer Programs
+*   Videos
+*   Books
+
+*   Public Resources
+*   Wolfram|Alpha
+*   Demonstrations Project
+*   Connected Devices Project
+*   Wolfram Data Drop
+*   Wolfram + Raspberry Pi
+*   Wolfram Science
+*   Computer-Based Math
+*   MathWorld
+*   Hackathons
+*   Computational Thinking
+*   View all...
+
+*   Company
+*   Announcements
+*   Events
+*   About Wolfram
+*   Careers
 *   Contact
 
-*   English
-    
-*   ©2018 Wolfram Alpha LLC
-*   Terms
-*   Privacy
+*   Connect
+*   Wolfram Community
+*   Wolfram Blog
+*   Newsletter
 
-Wolfram Research
+© 2018 Wolfram. All rights reserved.
 
-*   wolfram.com
-*   Wolfram Language
-*   Wolfram for Education
-*   Wolfram Demonstrations
-*   Mathematica
-*   MathWorld
+*   Legal
+*   Site Map
+*   WolframAlpha.com
+*   WolframCloud.com
+
+<div id="gl-noscript"><div><i><!-- --></i>Enable JavaScript to interact with content and submit forms on Wolfram websites. <a href="http://www.enable-javascript.com/" target="\_blank">Learn how&nbsp;&raquo;</a></div></div>.
