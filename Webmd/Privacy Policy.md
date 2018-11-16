@@ -360,7 +360,7 @@ Phone: 866-788-3097
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
-WebMD users from the EEA may also contact our Data Protection Officer, Lynn Walsh, at DPO@webmd.net.
+WebMD users from the EEA may also contact our Data Protection Officer at DPO@webmd.net.
 
 Changes to this Privacy Policy
 
