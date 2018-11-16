@@ -206,7 +206,7 @@ New York, NY 10001.**
     **Partner Content** is sponsored content brought to you by a vendor
     
 
-Open Next page Close SC Corporate News Back to Top
+Back to Top
 
 *   Company Info
     *   About Us
