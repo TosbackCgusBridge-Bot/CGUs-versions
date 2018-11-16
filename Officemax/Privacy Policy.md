@@ -39,24 +39,24 @@ Stock Quote and Chart
 
 Price
 
-$3.13
+$3.10
 
 Change
 
- - 0.12
+ - 0.03
 
 Percent Change
 
  (0.00%)
 
-11/14/184:00 p.m. ET  
+11/15/184:00 p.m. ET  
 Data provided by Nasdaq. Minimum 15 minutes delayed.view details  
-Recent News11/08/18Countdown to Black Friday Is On: Office Depot Unveils Hot Black Friday Deals  
+Recent News11/15/18Elf Yourself. Elf Your Friends. Floss Like Only an Elf Can. Office Depot’s Elf Yourself® is Back.  
 view more
 
 Recent News
 
-11/08/18Countdown to Black Friday Is On: Office Depot Unveils Hot Black Friday Deals  
+11/15/18Elf Yourself. Elf Your Friends. Floss Like Only an Elf Can. Office Depot’s Elf Yourself® is Back.  
 view moreEvents11/07/18Q3 2018 Office Depot Inc. Earnings Webcast  
 view more
 
