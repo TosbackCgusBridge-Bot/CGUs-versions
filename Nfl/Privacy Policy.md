@@ -1,4 +1,4 @@
-*   GB4-4-1SEA4-5Thu, 8:20 pm ET
+*   GB4-5-124SEA5-527Final
 *   DAL4-5ATL4-5Sun, 1:00 pm ET
 *   CIN5-4BAL4-5Sun, 1:00 pm ET
 *   CAR6-3DET3-6Sun, 1:00 pm ET
@@ -29,7 +29,7 @@
 *   NFL Network
 *   Photos
 
-*   GB4-4-1SEA4-5Thu, 8:20 pm ET
+*   GB24SEA27Final
 *   DAL4-5ATL4-5Sun, 1:00 pm ET
 *   CIN5-4BAL4-5Sun, 1:00 pm ET
 *   CAR6-3DET3-6Sun, 1:00 pm ET
