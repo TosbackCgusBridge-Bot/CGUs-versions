@@ -65,10 +65,10 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     WOMEN'S SHOES >
     
-    *   Casual &. Comfortable Shoes
-    *   Slip-On Flats &. Loafers
     *   Boots
     *   Slippers
+    *   Casual &. Comfortable Shoes
+    *   Slip-On Flats &. Loafers
     *   Sandals
     
     WOMEN'S ACCESSORIES >WOMEN'S BAGS >FEATURED SHOPS
@@ -522,10 +522,10 @@ Lands' End Sign In menu
     *   WOMEN'S SHOES
         *   Back
         *   View All
-        *   Casual &. Comfortable Shoes
-        *   Slip-On Flats &. Loafers
         *   Boots
         *   Slippers
+        *   Casual &. Comfortable Shoes
+        *   Slip-On Flats &. Loafers
         *   Sandals
     *   WOMEN'S ACCESSORIES
     *   WOMEN'S BAGS
@@ -989,9 +989,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off 1 full-price item!
+Receive 40% off full-price styles!
 
-code: GOURD pin: 2134 DETAILS
+code: JOLLY pin: 8524 DETAILS
 
 Customer Service Menu
 
