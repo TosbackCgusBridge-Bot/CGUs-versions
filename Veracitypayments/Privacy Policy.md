@@ -1,120 +1,81 @@
-Search
+United States - EnglishChoose your Country/Region
 
-MyVanco Login
+*   **Argentina** - Español
+*   **Australia** - English
+*   **België** - Nederlands
+*   **Belgique** - Français
+*   **Brasil** - Português
+*   **Canada** - English
+*   **Canada** - Français
+*   **Chile** - Español
+*   **Colombia** - Español
+*   **Danmark** - Dansk
+*   **Deutschland** - Deutsch
+*   **España** - Español
+*   **Estados Unidos** - Español
+*   **France** - Français
 
-SIGN UP
+*   **Hong Kong** - English
+*   **India** - English
+*   **India** - मराठी
+*   **India** - हिंदी
+*   **India** - தமிழ்
+*   **Indonesia** - Bahasa Indonesia
+*   **Ireland** - English
+*   **Israel** - English
+*   **Italia** - Italiano
+*   **Malaysia** - English
+*   **México** - Español
+*   **Nederland** - Nederlands
+*   **New Zealand** - English
+*   **Norge** - Bokmål
 
-Sales: **855-213-3705**   Support: **800-675-7430**
+*   **Österreich** - Deutsch
+*   **Pakistan** - English
+*   **Perú** - Español
+*   **Philippines** - English
+*   **Polska** - Polski
+*   **Portugal** - Português
+*   **Schweiz** - Deutsch
+*   **Singapore** - English
+*   **South Africa** - English
+*   **Suisse** - Français
+*   **Suomi** - Suomi
+*   **Sverige** - Svenska
+*   **Svizzera** - Italiano
+*   **Türkiye** - Türkçe
 
-SearchUse up and down arrows to select available result. Press enter to go to selected search result. Touch devices users can use touch and swipe gestures.  
+*   **United Arab Emirates** - English
+*   **United Kingdom** - English
+*   **United States** - English
+*   **Venezuela** - Español
+*   **Việt Nam** - Tiếng Việt
+*   **Ελλάδα** - Ελληνικά
+*   **Россия** - Русский
+*   **Україна** - Українська
+*   **ไทย** - ไทย
+*   **대한민국** - 한국어
+*   **台灣** - 繁體中文
+*   **新加坡** - 简体中文
+*   **日本** - 日本語
+*   **香港** - 繁體中文
 
-*   Markets We Serve
-    *   Faith-Based
-    *   Education
-    *   NonProfit
-    *   Professional
-*   About
-*   Partners
-*   Contact
-*   Sign Up
+Contact Us 24/7Call us
 
-*   MARKETS WE SERVE
-    *   FAITH-BASED
-    *   EDUCATION
-    *   NONPROFIT
-    *   PROFESSIONAL
-*   ABOUT
-*   PARTNERS
-*   CONTACT
-*   SIGN UP
-*   LOGIN
+*   Call our award-winning sales &. support team 24/7(480) 505 8877
 
-**404** Page not found
+Global DirectoryPhone numbers and hoursHelp Center
 
-Sorry, the page you were looking for at this URL was not found.
+Explore our online help resources
 
-Return Home
+Get Help Destination
 
-**INFORMATION ON VANCO**
+Unknown
 
-About Us
+Everything's working on our side, so the short link you clicked is either wrong or has been retired.
 
-Security
+If you need a new link:
 
-Partners
-
-Newsroom
-
-Contact Us
-
-Careers
-
-**MARKETS**
-
-Faith-Based
-
-Education
-
-Nonprofit
-
-Professional Services
-
-**HEADQUARTERS**
-
-400 Northridge Rd. | Suite 1200
-
-Atlanta, GA 30350
-
-**OPERATIONS**
-
-3800 American Blvd West | Suite 500
-
-Bloomington, MN 55431
-
-**CALL US**
-
-**Sales:** (855) 213-3705
-
-**Support:** (800) 675-7430
-
-INFORMATION ON VANCO
-
-About Vanco
-
-Security
-
-Partners
-
-Newsroom
-
-Contact Us
-
-Careers
-
-MARKETS
-
-Faith Base
-
-Education
-
-Non Profit
-
-Professional Services
-
-CONTACT HEADQUARTERS
-
-400 Northridge Rd. | Suite 1200  
-Atlanta, GA 30350
-
-OPERATIONS
-
-3800 American Blvd West | Suite 500  
-Bloomington, MN 55431
-
-CALL US
-
-**Support:** (800) 675-7430
-
-**Sales:** (855) 213-3705
-
-Copyright © 2018 Vanco. All rights reserved. Privacy Policy | Terms and Conditions PCI Certified
+Go Short main-xco-illustration  
+  
+Copyright © 1999 - 2018 GoDaddy Operating Company, LLC. All Rights Reserved. Privacy Policy
