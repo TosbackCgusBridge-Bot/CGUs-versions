@@ -20,30 +20,30 @@ SHOP DEPARTMENTS
 
 Near YouFind a StoreBackHot Sellers
 
+*   ADVERTISED DEAL!
+    
+    $2999 sale
+    
+    was $60 | 50% offArizona Womens Jones Combat Block Heel Zip Boots(19)
+*   ADVERTISED DEAL!
+    
+    $2999 sale
+    
+    was $80 | 62% offArizona Womens Kerri Slouch Boots Flat Heel Pull-on(10)
 *   $2999 sale
     
-    was $70 | 57% offa.n.a Womens Anita Booties Zip(6)
-*   $4999 sale
-    
-    was $79 | 36% offYuu Womens Regina Stacked Heel Zip Bootie(6)
-*   $4999 sale
-    
-    was $79 | 36% offAndrew Geller Womens Keira Dress Boots Block Zip Heel
+    was $70 | 57% offa.n.a Womens Fenwick Booties Block Heel Zip(3)
 *   ADVERTISED DEAL!
     
     $2999 sale
     
-    was $70 | 57% offeast 5th Womens Genova Booties Wedge Heel Zip(9)
-*   ADVERTISED DEAL!
+    was $80 | 62% offArizona Womens Cuala Wide Calf Riding Boots Flat Heel Zip(9)
+*   $2499 sale
     
-    $2999 sale
+    was $60 | 58% offZigi Soho Womens Brock Booties Pull-on(2)
+*   $3999 sale
     
-    was $70 | 57% offeast 5th Womens Quiney Booties Stiletto Heel Elastic(1)
-*   ADVERTISED DEAL!
-    
-    $2999 sale
-    
-    was $70 | 57% offeast 5th Womens Quentin Booties Stiletto Heel Zip(3)
+    was $110 | 63% offLiz Claiborne Womens Trevi Riding Block Heel Zip Boots(3)
 
 Shop and Save at JCPenney
 
