@@ -11,7 +11,7 @@
         *   How We Work
         *   Our History
     *   Where We Work
-        *   Local: California
+        *   Local: Colorado
         *   Africa
         *   Asia Pacific
         *   Canada
