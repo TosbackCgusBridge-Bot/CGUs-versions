@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Mastering the upgrading of OpenStack ›
 *   OpenStack Summit Berlin 2018, Mark Shuttleworth keynote ›
 *   Upgrading Charmed Kubernetes ›
 *   Innovating toward safety: computer controlled aerial robotic systems ›
 *   Ubuntu Server development summary – 13 November 2018 ›
-*   Using Juju to manage evolving complex software ›
