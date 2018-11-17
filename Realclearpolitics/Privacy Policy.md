@@ -109,6 +109,44 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Sean Trende_: Why 2018 Wasn't a Wave Election
+    
+*   _Carl Cannon_: Wilson, the Great War, and Women's Right to Vote
+    
+*   _Jessica Tarlov_: Dear GOP: Elections Have Consequences
+    
+*   _Fred Barnes_: Bipartisanship Is Overrated
+    
+*   _Robert Creamer_: Pelosi Should, and Will, Be Dems' Speaker of the House
+    
+*   _Marc Thiessen_: Democrats Are Trying to Steal an Election in Florida
+    
+*   _A.B. Stoddard_: DeSantis Has Two Years to Fix Florida Voting
+    
+*   _Ned Ryun_: Florida Recount Fight a Preview of 2020 Lawlessness
+    
+*   _Susan Glasser_: Adam Schiff: Mueller's New Wingman on Capitol Hill
+    
+*   _Kimberley Strassel_: Democrats Doubling Down on Mueller
+    
+*   _Maya Kosoff_: Zuckerberg Refuses Responsibility for Latest Scandal
+    
+*   _Kalev Leetaru_: The Perils to Democracy Posed by Big Tech
+    
+*   _Molly Roberts_: Sheryl Sandberg and the Emptiness of Leaning In
+    
+*   _Patrick Buchanan_: Trump Raises the Stakes With CNN
+    
+*   _E.J. Dionne_: Will Republicans Keep Dancing With Autocracy?
+    
+*   _Roger Kimball_: The Resurgence of Anti-Semitism in the Democratic Party
+    
+*   _David Ignatius_: U.S.'s Overt Payback for China's Covert Espionage
+    
+*   _Gaby Hinsliff_: Theresa May Is Running Out of Road
+    
+*   _Adriana Cohen_: Avenatti Falls Hard
+    
 *   _Jane Merrick_: Theresa May's Fate in the Balance as Brexit Deal Wobbles
     
 *   _Laura Ingraham_: The Integrity of Our Elections Is Imperiled in Florida
@@ -118,44 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Salena Zito_: Political Realignment: Look at the Republican Wins in Ohio
     
 *   _David Remnick_: Trump's Rages and the Case for Dem Optimism
-    
-*   _Karl Rove_: Will Democrats Fall in Line for Pelosi?
-    
-*   _Joe Lieberman_: Problem Solvers on the Cusp of a Breakthrough
-    
-*   _Margaret Carlson_: So Just What Was That Melania Power Play About?
-    
-*   _Freddy Gray_: Melania Trump: America's Iron First Lady
-    
-*   _Alexis Madrigal_: The Problem With Kim Kardashian's Private Firefighters
-    
-*   _Verret &. Glassman_: Now's the Time to Fix the Broken Proxy System
-    
-*   _Chris Buskirk_: It's Ocasio-Cortez's Party Now, Pelosi Is Just Leading It
-    
-*   _Sasha Issenberg_: Maybe It's Time for America to Split Up
-    
-*   _Monica Crowley_: What Trump Can Learn From History
-    
-*   _John Cassidy_: Sinema Victory Is Biggest Dem Win of Trump Era
-    
-*   _Sally Persons_: In Minnesota's Iron Range, GOP Cut Into Dems' Turf
-    
-*   _Jamil Smith_: Andrew Gillum: I'm Not Leaving the Field
-    
-*   _Cheryl Chumley_: Principles, Honor, &. the Coming Banana Republic
-    
-*   _George Monbiot_: Earth's in a Death Spiral. Only Radical Action Can Save Us
-    
-*   _Conrad Black_: Trump Is Owed Thanks for Ditching Paris Climate Pact
-    
-*   _Walter Shaub_: This Is the Saturday Night Massacre
-    
-*   _Julie Kelly_: NeverTrump's Billionaire Leftist Benefactors
-    
-*   _Bradley Honan &. Arick Wierson_: Please, Hillary, Don't Do It
-    
-*   _Sen. Mike Lee_: A Conservative Case for Criminal Justice Reform
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Why 2018 Wasn't a Wave Election
+*   Pelosi Claims "Overwhelming Support" for 2nd Act as Speaker
+*   Graham: Ironic If Trump Fixes "3 Strikes" Problem Passed by Clinton
 *   In MN Mining Region, Republicans Cut Into Democrats' Turf
-*   Pelosi Unfazed as Group of Dems Claims Votes to Block Speaker Bid
-*   Trump Backs 1st Major Rewrite of Sentencing Laws in Decades
-*   House Republicans Elect McCarthy as Leader With Eye to 2020
-*   Proxy Advisors: The Big Thumb on the Scale--an Overview
+*   Proxy Advisors: Empirical Evidence and the Case for Reform
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -244,8 +244,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
+    *   Approve49
+    *   Disapprove50Disapprove +1
 *   President Trump Job ApprovalMonmouth
     *   Approve44
     *   Disapprove49Disapprove +5
@@ -259,10 +259,10 @@ Latest PollsAll Polls
 More Latest Polls In The News
 
 *   Sen. Kamala Harris vs. ICE Nominee: Are You Aware Certain Communities See Parallels Between ICE &. KKK?
-*   Graham: Wouldn't It Be Ironic If Trump Fixed Problems Caused By 'Three Strikes' Law Passed By Clinton
+*   Laura Ingraham On Handling Of Florida Recounts: "People Are Going To Have To Go To Jail," Must Be Repercussions
 *   Tucker Carlson Rips CNN: One Of "Free Speech's Greatest Enemies" Now Posing As Its Defender
+*   Filmmaker Ami Horowitz Investigates Migrant Caravan: Organized, Well-Funded. Tools For Political Agenda
 *   Sen. Brown: If Stacey Abrams Doesn't Win Georgia Governorship, It's Clear That Republicans "Stole" It
-*   Schumer: "When All The Votes Are Counted In Florida," We Could Maintain 48 Democratic Senators
 
 *   Politics
 *   Policy
