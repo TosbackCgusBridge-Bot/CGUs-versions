@@ -155,7 +155,7 @@ Free trial
 
 Subscribe
 
-$1,575.00/year
+—/year
 
 Software for Building Information Modeling
 
@@ -165,7 +165,7 @@ Free trial
 
 Subscribe
 
-$2,250.00/year
+—/year
 
 Fast, creative toolset for 3D animation, modeling, simulation, and rendering
 
@@ -175,13 +175,13 @@ Free trial
 
 Subscribe
 
-$1,505.00/year
+—/year
 
-Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 12–15, 2018 Live stream Autodesk University sessions now
+Try, buy, or learn more about Autodesk products See all products Autodesk University is always in session
 
-Hear from Autodesk leadership and professionals in your industry as they explore what’s next in the future of making. Watch live-streamed keynotes and sessions from Autodesk’s customer conference.
+Missed Autodesk’s annual customer conference? Watch keynotes, class sessions, and personalize your experience on the AU website. Join the community year long with free online learning.
 
-Watch live
+Learn more
 
 Make anything.   Autodesk makes software for  
 people who make things Across the manufacturing, architecture, building, construction, media, and entertainment industries, Autodesk gives you the power to make anything. Learn more about Autodesk   Resources FREE SOFTWARE FOR STUDENTS file viewers Support Autodesk Community FEEDBACK FOLLOW AUTODESK
