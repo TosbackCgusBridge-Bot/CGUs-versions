@@ -1,4 +1,4 @@
-Skip to main content
+Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -108,10 +108,10 @@ Skip to main content
     Experts News &. Experts News &. Experts Health News
     
     *   Could Fasting Help You Lose Weight?
-    *   Club-Drug 'Ecstasy' Studied as Remedy for PTSD
-    *   Pediatricians Want Spanking Banned
-    *   Could Removing Appendix Lower Risk for Parkinson's?
-    *   Which Weight-Loss Surgery Is Best?
+    *   Another Blood Pressure Drug Recalled
+    *   Another Selfie? It May Be a Sign of a Narcissist
+    *   New Physical Activity Guidelines
+    *   1 Energy Drink May Harm Blood Vessels
     
     Experts &. Community
     
