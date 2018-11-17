@@ -43,13 +43,13 @@ $3.10
 
 Change
 
- - 0.03
+0.00
 
 Percent Change
 
  (0.00%)
 
-11/15/184:00 p.m. ET  
+11/16/184:00 p.m. ET  
 Data provided by Nasdaq. Minimum 15 minutes delayed.view details  
 Recent News11/15/18Elf Yourself. Elf Your Friends. Floss Like Only an Elf Can. Office Depot’s Elf Yourself® is Back.  
 view more
