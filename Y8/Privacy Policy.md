@@ -3,15 +3,15 @@
 *   games
 *   videos
 
-New Games Next in  01:21:24
+New Games Next in  01:20:49
 
-*   By Date Next addition in 01:21:24
+*   By Date Next addition in 01:20:49
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 01:21:24
+*   New Games Next in 01:20:49
 *   Best of new games 17 games
 *   Most Popular Games 309 games
 *   Played Games 0 games
@@ -36,7 +36,7 @@ CATEGORIES
 Play with friends  
 Powered by Y8 Account 4 Y8 Multiplayer Games 305 Y8 High Score Games 119 Y8 Achievements Games 87 Y8 Screenshots Games 159 Y8 Online Save Games 404 All Y8 Games Games Last Highscore:
 
-**1,452,116** points on Throne Defender by PAlMMII
+**1,367** points on Orion Sandbox Enhanced by T-moyashi
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
