@@ -8,16 +8,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   ASICS
+    *   Plus Shop: Must-Have Separates Starting at $10
+    *   Laundry by Shelli Segal
+    *   Go Couture Dresses Up to 75% Off
+    *   Diamonds, Gemstones &. More Up to 80% Off
+    *   Winter Warm Up: Active &. Tech Coats Up to 60% Off
+    *   Marc Fisher LTD Starting at $40
+    *   Pur Cosmetics
+    *   ASICS Men
+    *   Lucky Brand Men Starting at $10
+    *   ASICS Kids
+    *   Lingerie ft. Dita Von Teese
+    *   Free Shipping: Fine Art Up to 85% Off
+    *   ASICS
+    *   304
+    *   Free Shipping: Colorful Kantha Throws &. More
+    *   Bespoke Up to 80% Off
+    *   Free Shipping: Embroidered Pillows, Throws &. More
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Most Wanted USA Up to 60% Off
+    *   Go Couture Kids
+    *   Aldo Starting at $35
+    *   Tess+Tricia Coin Layering Necklaces &. More
+    *   Little Unicorn
     *   Free People
-    *   Free People Shoes Up to 60% Off
-    *   Hobo Handbags
     *   Free People Lingerie
+    *   Free People Shoes Up to 60% Off
+    *   Fall Dress Shop
+    *   Hobo Handbags
     *   Ted Baker London Luggage
     *   Ted Baker London Men's Shoes
+    *   Angel Dear: Great Gifts Up to 70% Off
     *   14K Gold Jewelry &. More Under $80
+    
     *   FENTY PUMA BY RIHANNA Active
+    *   New Styles Added: French Connection
     *   Beanies Starting at $10
-    *   Tommy Bahama Handbags
     *   Best in Snow: Bearpaw Kids
     *   Perfect Presents: Luxe Beauty &. Hair Tools
     *   Free Shipping: Holiday Pillows &. Throws
@@ -28,140 +56,109 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tattly Temporary Tattoos
     *   Glow On: Sheet Masks &. More ft. It's Skin
     *   James Tattersall Up to 75% Off
-    *   Fall Dress Shop
     *   Trask: Leather Shoes &. Accessories
     *   Peyote Bird Jewelry &. Watches Up to 50% Off
     *   M by Bruno Magli
     *   Wild Style: Leather, Animal Prints &. More
     *   LAGOS Up to 50% Off
-    *   Prada Sun
-    *   New Styles Added: French Connection
-    *   BB Dakota &. Jack
-    *   Nine West Starting at $40
-    *   Angel Dear: Great Gifts Up to 70% Off
     *   Men's Must-Haves: Henleys &. Flannel Shirts
     *   Robert Graham Shoes Up to 50% Off
     *   Bling on the Holidays: Tree Trimmings
-    
     *   French Soap, Lotion &. More from Pre de Provence
-    *   Imagine Vince Camuto Starting at $30
-    *   Just Me Dresses
-    *   L\*Space Swim
-    *   Perla Formentini Up to 60% Off
-    *   Manitobah Mukluks
     *   Joe-Ella Girls' Holiday Dresses
     *   Holiday Head Start: Rockabye Rockers
     *   Doodle Pants
-    *   Retro Toys Starting at $8
     *   Geox Kids
     *   Florsheim
     *   Robert Graham Up to 60% Off
     *   Portable Drinkware &. More from $10
     *   Kitchen Electrics &. More Starting at $20
+    *   The Holiday Edit: Dressed Up Styles
+    *   The Holiday Edit: Casual Party Styles
     *   The Holiday Edit: Heels, Boots &. More
     *   The Holiday Edit: Jewelry, Handbags &. More
+    
     *   The Holiday Edit: Men's Suiting &. More
     *   The Holiday Edit: Men's Shoes &. Accessories
-    *   JOE'S Jeans
+    *   The Holiday Edit: Boys' Party Looks
+    *   The Holiday Edit: Girls' Party Looks
     *   Urban Decay
     *   JOE'S Jeans Men Up to 60% Off
-    *   JOE'S Jeans Kids Starting at $15
     *   Free Shipping: Wall Murals &. More
-    *   Petit Lem
-    *   Chamilia Jewelry by Swarovski from $15
-    *   TechnoMarine Watches Up to 70% Off
-    *   Michou Gemstone &. Sterling Silver Jewelry
-    *   BCBGirls
     *   Aldo Men
     *   Natural Blue Up to 70% Off
     *   Men's Parkas &. Down Coats
     *   Sculpt Supplements
     *   NIGHT Youth-Boosting Pillows
-    
     *   Modern Accent Furniture &. More
     *   Gifts for Pet Lovers Starting at $10
-    *   The Holiday Edit: Girls' Party Looks
-    *   The Holiday Edit: Casual Party Styles
+    *   BB Dakota &. Jack
     *   Nambe Serveware &. Jewelry
     *   Free Shipping: Party-Ready Barware &. More
     *   Antica Farmacista Candles
     *   Holiday Prep: Kitchen Gadgets &. More
-    *   David Donahue
-    *   Jeremiah
     *   label.m Professional Hair Care
     *   Wrinkles Schminkles: Skin Smoothing Kits &. More
     *   Free Shipping: Area Rugs
-    *   Business Casual: Men's Boots, Sneakers &. More
-    *   Gordon Rush Up to 60% Off
-    *   Soul Star Up to 60% Off
-    *   tarte cosmetics
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   The Holiday Edit: Dressed Up Styles
     *   Winter Refresh: Pillows, Mugs &. More
-    *   Bailey 44
+    *   Melrose and Market Incl. Plus &. Petites
+    *   Free Shipping: Storage Essentials from $11
     *   Free Shipping: Bedding Essentials Blowout
     *   Free Shipping: Holiday Trees for Every Home
     *   Great Gifts for Sports Fans
     *   Now Playing: Bluetooth Record Players &. More
-    *   Free Shipping: Great Gifts for Him
-    *   Free Shipping: Wall Art
-    *   Mark Roberts
-    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
-    *   Melrose and Market Incl. Plus &. Petites
     *   On Trend: Women's Mule Loafers, Oxfords &. More
-    *   The Holiday Edit: Boys' Party Looks
-    *   Moon and Jai Kits &. More
-    *   Free Shipping: Storage Essentials from $11
+    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
 *   WomenShop Sale Events
     
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   ASICS
+    *   Plus Shop: Must-Have Separates Starting at $10
+    *   Laundry by Shelli Segal
+    *   Go Couture Dresses Up to 75% Off
+    *   Diamonds, Gemstones &. More Up to 80% Off
+    *   Winter Warm Up: Active &. Tech Coats Up to 60% Off
+    *   Marc Fisher LTD Starting at $40
+    *   Pur Cosmetics
+    *   Lingerie ft. Dita Von Teese
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Most Wanted USA Up to 60% Off
+    *   Aldo Starting at $35
+    *   Tess+Tricia Coin Layering Necklaces &. More
     *   Free People
-    *   Free People Shoes Up to 60% Off
-    *   Hobo Handbags
     *   Free People Lingerie
+    *   Free People Shoes Up to 60% Off
+    *   Fall Dress Shop
+    *   Hobo Handbags
     *   14K Gold Jewelry &. More Under $80
     *   FENTY PUMA BY RIHANNA Active
+    *   New Styles Added: French Connection
     *   Beanies Starting at $10
-    *   Tommy Bahama Handbags
+    
     *   Perfect Presents: Luxe Beauty &. Hair Tools
     *   Sun Under $30
     *   Tattly Temporary Tattoos
     *   Glow On: Sheet Masks &. More ft. It's Skin
-    *   Fall Dress Shop
     *   Trask: Leather Shoes &. Accessories
     *   Peyote Bird Jewelry &. Watches Up to 50% Off
     *   M by Bruno Magli
     *   Wild Style: Leather, Animal Prints &. More
     *   LAGOS Up to 50% Off
-    *   Prada Sun
-    *   New Styles Added: French Connection
-    *   BB Dakota &. Jack
-    *   Nine West Starting at $40
     *   French Soap, Lotion &. More from Pre de Provence
-    *   Imagine Vince Camuto Starting at $30
-    
-    *   Just Me Dresses
-    *   L\*Space Swim
-    *   Perla Formentini Up to 60% Off
-    *   Manitobah Mukluks
+    *   The Holiday Edit: Dressed Up Styles
+    *   The Holiday Edit: Casual Party Styles
     *   The Holiday Edit: Heels, Boots &. More
     *   The Holiday Edit: Jewelry, Handbags &. More
-    *   JOE'S Jeans
     *   Urban Decay
-    *   Chamilia Jewelry by Swarovski from $15
-    *   TechnoMarine Watches Up to 70% Off
-    *   Michou Gemstone &. Sterling Silver Jewelry
     *   Sculpt Supplements
     *   NIGHT Youth-Boosting Pillows
-    *   The Holiday Edit: Casual Party Styles
+    *   BB Dakota &. Jack
     *   label.m Professional Hair Care
     *   Wrinkles Schminkles: Skin Smoothing Kits &. More
-    *   tarte cosmetics
-    *   The Holiday Edit: Dressed Up Styles
-    *   Bailey 44
-    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
     *   Melrose and Market Incl. Plus &. Petites
     *   On Trend: Women's Mule Loafers, Oxfords &. More
-    *   Moon and Jai Kits &. More
+    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
     
     Shop By Category
     *   Clothing
@@ -174,28 +171,26 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   ASICS Men
+    *   Lucky Brand Men Starting at $10
+    *   ASICS
+    *   304
+    *   Bespoke Up to 80% Off
     *   Ted Baker London Luggage
     *   Ted Baker London Men's Shoes
     *   Golf Shop ft. Travis Mathew
     *   James Tattersall Up to 75% Off
-    *   Prada Sun
     *   Men's Must-Haves: Henleys &. Flannel Shirts
+    
     *   Robert Graham Shoes Up to 50% Off
     *   Florsheim
     *   Robert Graham Up to 60% Off
     *   The Holiday Edit: Men's Suiting &. More
     *   The Holiday Edit: Men's Shoes &. Accessories
-    
     *   JOE'S Jeans Men Up to 60% Off
-    *   TechnoMarine Watches Up to 70% Off
     *   Aldo Men
     *   Natural Blue Up to 70% Off
     *   Men's Parkas &. Down Coats
-    *   David Donahue
-    *   Jeremiah
-    *   Business Casual: Men's Boots, Sneakers &. More
-    *   Gordon Rush Up to 60% Off
-    *   Soul Star Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -204,32 +199,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
-    *   Best in Snow: Bearpaw Kids
+    *   ASICS Kids
+    *   Go Couture Kids
+    *   Little Unicorn
     *   Angel Dear: Great Gifts Up to 70% Off
+    *   Best in Snow: Bearpaw Kids
     *   Joe-Ella Girls' Holiday Dresses
+    
     *   Holiday Head Start: Rockabye Rockers
     *   Doodle Pants
-    *   Retro Toys Starting at $8
-    
     *   Geox Kids
-    *   JOE'S Jeans Kids Starting at $15
-    *   Petit Lem
-    *   BCBGirls
-    *   The Holiday Edit: Girls' Party Looks
     *   The Holiday Edit: Boys' Party Looks
+    *   The Holiday Edit: Girls' Party Looks
     
     Shop By Category
     *   Girls' Shoes
     *   Boys' Shoes
     *   Boys Sizes 2T-7
-    *   Girls Sizes 7-16
     *   Girls Sizes 2T-6X
-    *   Boys Sizes 8-20
+    *   Girls Sizes 7-16
     *   Baby Girl
+    *   Baby Gear &. Essentials
     *   Baby Boy
+    *   Boys Sizes 8-20
     *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Fine Art Up to 85% Off
+    *   Free Shipping: Colorful Kantha Throws &. More
+    *   Free Shipping: Embroidered Pillows, Throws &. More
     *   Free Shipping: Holiday Pillows &. Throws
     *   Free Shipping: Accent Furniture You'll Love
     *   Free Shipping: Modern Art Prints &. More
@@ -239,22 +237,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Wall Murals &. More
     *   Modern Accent Furniture &. More
     *   Gifts for Pet Lovers Starting at $10
+    
     *   Nambe Serveware &. Jewelry
     *   Free Shipping: Party-Ready Barware &. More
     *   Antica Farmacista Candles
-    
     *   Holiday Prep: Kitchen Gadgets &. More
     *   Free Shipping: Area Rugs
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Winter Refresh: Pillows, Mugs &. More
+    *   Free Shipping: Storage Essentials from $11
     *   Free Shipping: Bedding Essentials Blowout
     *   Free Shipping: Holiday Trees for Every Home
     *   Great Gifts for Sports Fans
     *   Now Playing: Bluetooth Record Players &. More
-    *   Free Shipping: Great Gifts for Him
-    *   Free Shipping: Wall Art
-    *   Mark Roberts
-    *   Free Shipping: Storage Essentials from $11
     
     Shop By Category
     *   Holiday Decorations
@@ -268,18 +263,18 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bath
 *   BeautyShop Sale Events
     
+    *   Pur Cosmetics
+    *   ORA Derma Roller &. Microdermabrasion Tools
     *   Perfect Presents: Luxe Beauty &. Hair Tools
     *   Tattly Temporary Tattoos
     *   Glow On: Sheet Masks &. More ft. It's Skin
     *   French Soap, Lotion &. More from Pre de Provence
+    
     *   Urban Decay
     *   Sculpt Supplements
-    
     *   NIGHT Youth-Boosting Pillows
     *   label.m Professional Hair Care
     *   Wrinkles Schminkles: Skin Smoothing Kits &. More
-    *   tarte cosmetics
-    *   Moon and Jai Kits &. More
     
     Shop By Category
     *   Makeup
