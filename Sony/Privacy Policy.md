@@ -103,7 +103,7 @@ Big City, Meet Little aibo
 
 Black Friday is nearly here, and that means big deals! Join the #PSVR party or snag a 1TB PS4 with a copy of Marvel's Spider-Man for for $199.99 USD. More details:  https://play.st/2RPxZdH  pic.twitter.com/JsQRTmBSyl
 
-4 days ago
+5 days ago
 
 View Tweet
 
