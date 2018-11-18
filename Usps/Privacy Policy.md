@@ -185,4 +185,4 @@ Skip Footer Navigation
     *   Inspector General ›
     *   Postal Explorer ›
 
-Copyright© 2018 USPS. All Rights Reserved. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MVCC8H" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=533374513433337&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2621041933204&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://alb.reddit.com/snoo.gif?q=CAAHAAABAAoACQAAAA8sjYvfAA==&amp;s=758ZB25Erv8S36eTAg3XLKvz7xb4K5BBW3pi8UyQQy8=">.
+Copyright© 2018 USPS. All Rights Reserved. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MVCC8H" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
