@@ -65,7 +65,7 @@
 *   Shop
 *   Teams
 
-NFL.com - Privacy Policy English
+DEVELOPING STORYCorrection: Joe Flacco (hip) not expected to play vs. BengalsRavens players expect Lamar Jackson to take the majority of snaps in Flacco's absence, NFL Network's Ian Rapoport and Tom Pelissero report.READ MORE NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
 Updated: July 20, 2018**  
@@ -263,4 +263,6 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy
+Attn: Website Privacy Policy  
+
+  Ravens players expect Lamar Jackson to take the majority of snaps in Flacco's absence, NFL Network's Ian Rapoport and Tom Pelissero report.
