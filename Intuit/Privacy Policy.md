@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $49See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -20,30 +20,30 @@ SHOP DEPARTMENTS
 
 Near YouFind a StoreBackHot Sellers
 
-*   ADVERTISED DEAL!
-    
-    $2999 sale
-    
-    was $60 | 50% offArizona Womens Jones Combat Block Heel Zip Boots(19)
-*   ADVERTISED DEAL!
-    
-    $2999 sale
-    
-    was $80 | 62% offArizona Womens Kerri Slouch Boots Flat Heel Pull-on(10)
-*   $2999 sale
-    
-    was $70 | 57% offa.n.a Womens Fenwick Booties Block Heel Zip(3)
-*   ADVERTISED DEAL!
-    
-    $2999 sale
-    
-    was $80 | 62% offArizona Womens Cuala Wide Calf Riding Boots Flat Heel Zip(9)
-*   $2499 sale
-    
-    was $60 | 58% offZigi Soho Womens Brock Booties Pull-on(2)
 *   $3999 sale
     
-    was $110 | 63% offLiz Claiborne Womens Trevi Riding Block Heel Zip Boots(3)
+    was $110 | 63% offLiz Claiborne Womens Anabella Over the Knee Block Heel Zip Boots(1)
+*   ADVERTISED DEAL!
+    
+    $1799 sale
+    
+    was $42 | 57% offArizona Basic Flex Skinny Jeans(336)
+*   ADVERTISED DEAL!
+    
+    $1799 sale
+    
+    was $42 | 57% offArizona Basic Original Bootcut Jeans(552)
+*   $3999 sale
+    
+    was $110 | 63% offLiz Claiborne Womens Block Heel Zip Trino Riding Boots(10)
+*   $2999 sale
+    
+    was $70 | 57% offa.n.a Womens Ann Booties Zip(9)
+*   ADVERTISED DEAL!
+    
+    $2999 sale
+    
+    was $80 | 62% offArizona Womens Denmark Riding Block Heel Zip Boots(11)
 
 Shop and Save at JCPenney
 
