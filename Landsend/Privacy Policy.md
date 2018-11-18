@@ -65,10 +65,10 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     WOMEN'S SHOES >
     
-    *   Boots
-    *   Slippers
     *   Casual &. Comfortable Shoes
     *   Slip-On Flats &. Loafers
+    *   Boots
+    *   Slippers
     *   Sandals
     
     WOMEN'S ACCESSORIES >WOMEN'S BAGS >FEATURED SHOPS
@@ -522,10 +522,10 @@ Lands' End Sign In menu
     *   WOMEN'S SHOES
         *   Back
         *   View All
-        *   Boots
-        *   Slippers
         *   Casual &. Comfortable Shoes
         *   Slip-On Flats &. Loafers
+        *   Boots
+        *   Slippers
         *   Sandals
     *   WOMEN'S ACCESSORIES
     *   WOMEN'S BAGS
@@ -1014,7 +1014,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Policy Last Updated: May 21, 2018
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
