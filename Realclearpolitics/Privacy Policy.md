@@ -149,14 +149,6 @@ We use cookies to offer you a better experience and to help us understand how yo
     
 *   _Adriana Cohen_: Avenatti Falls Hard
     
-*   _Jane Merrick_: Theresa May's Fate in the Balance as Brexit Deal Wobbles
-    
-*   _Laura Ingraham_: The Integrity of Our Elections Is Imperiled in Florida
-    
-*   _Dana Milbank_: The Real Fraudster in Florida Is Mitch McConnell
-    
-*   _Salena Zito_: Political Realignment: Look at the Republican Wins in Ohio
-    
 
 *   Previous
 *   Next
@@ -258,11 +250,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Nunes: We Finished Our Investigation. "Four Buckets Of Information We Want Declassified"
+*   Full FOX News Interview: President Trump on Divided Congress, Mueller, Foreign Policy, Fake News, More
+*   Rep. Adam Schiff: Trump Must Listen to Intelligence Professionals on Khashoggi Murder, Not Saudis
 *   David Brooks: Given The Atmosphere Trump Has Set, Acosta Was "Well Within Bounds" Of The New Norm
 *   Tucker Carlson: Turns Out Only Republicans Are Required To Accept Election Outcomes They Don't Like
-*   CNN's Acosta Talks To Media After Returning To White House: "This Was A Test And I Think We Passed The Test"
-*   Sen. Kamala Harris vs. ICE Nominee: Are You Aware Certain Communities See Parallels Between ICE &. KKK?
-*   Laura Ingraham On Handling Of Florida Recounts: "People Are Going To Have To Go To Jail," Must Be Repercussions
 
 *   Politics
 *   Policy
