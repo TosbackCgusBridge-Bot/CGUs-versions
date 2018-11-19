@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  01:20:49
+New Games Next in  xx:xx
 
-*   By Date Next addition in 01:20:49
+*   By Date Next addition in xx:xx
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 01:20:49
-*   Best of new games 17 games
-*   Most Popular Games 309 games
+*   New Games Next in xx:xx
+*   Best of new games 2120 games
+*   Most Popular Games 18120 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 312 games
-*   Driving &. Racing Games 21 games
-*   Strategy &. RPG Games 14 games
-*   Management Games 18 games
-*   Thinking Games 124 games
-*   Action &. Adventure Games 57 games
-*   Sports Games 39 games
-*   Shooting Games 29 games
-*   Fighting Games 9 games
-*   Skill Games 143 games
-*   Arcade &. Classic Games 71 games
-*   Fun &. Crazy Games 21 games
+*   Games for girls 23,495 games
+*   Driving &. Racing Games 6,710 games
+*   Strategy &. RPG Games 2,403 games
+*   Management Games 3,631 games
+*   Thinking Games 11,851 games
+*   Action &. Adventure Games 15,830 games
+*   Sports Games 2,134 games
+*   Shooting Games 8,328 games
+*   Fighting Games 2,090 games
+*   Skill Games 10,633 games
+*   Arcade &. Classic Games 12,654 games
+*   Fun &. Crazy Games 2,474 games
 
 Play with friends  
-Powered by Y8 Account 4 Y8 Multiplayer Games 305 Y8 High Score Games 119 Y8 Achievements Games 87 Y8 Screenshots Games 159 Y8 Online Save Games 404 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 134 Y8 Multiplayer Games 1,738 Y8 High Score Games 1,059 Y8 Achievements Games 788 Y8 Screenshots Games 1,357 Y8 Online Save Games 2,762 All Y8 Games Games Last Highscore:
 
-**1,367** points on Orion Sandbox Enhanced by T-moyashi
+**22,730** points on Basketball Legends by killthrill
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
