@@ -13,9 +13,9 @@ Skip to main content <p class="enable-js">. To enjoy our website, you'll need to
 Trending:
 
 *   Christian persecution
+*   Evangelism
 *   Transgender
 *   Unchurched
-*   Tithe
 *   Genocide
 
 Menu Search P404 Newsletter Close Menu 404 Page not found
@@ -38,9 +38,9 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 Hot Topics
 
 *   Christian persecution
+*   Evangelism
 *   Transgender
 *   Unchurched
-*   Tithe
 *   Genocide
 
 About Us
