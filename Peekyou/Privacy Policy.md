@@ -64,7 +64,7 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
 What is PeekScore? Public Records &. Background Checks 49%  49%  49%  2% 
 
@@ -199,59 +199,7 @@ Facebook 49%  Twitter 2% 
     
 *   Show Less ...
 
-Instagram 11% 
-
-*   our privacy policy - itswinterhxe
-    
-*   aidan miles - we\_updated\_our\_privacy\_policy
-    
-*   instagram privacy - instagramprivacypolicy
-    
-*   ahhhmmm\_privacy\_policy - ahhhmmm\_privacy\_policy
-    
-*   Show More ...
-
-*   1 follower - privacypolicy4072
-    
-*   Instagram Privacy Policy - deleting.instaprivacy
-    
-*   1 follower - igqualitycontrol
-    
-*   Instagram Privacy Policy - ig\_privacy\_policy\_company
-    
-*   SuprizedMyNameWasn'tTaken - terms.and.privacy.policy
-    
-*   Melanieeeee - terms\_and\_privacy\_policy
-    
-*   Pants - terms\_and\_privacy\_policy\_
-    
-*   Privacy policy - privacydoor7
-    
-*   Baul\_Plart - we\_updated\_our\_privacy\_policy\_
-    
-*   privacy policy - szymonwlog
-    
-*   PrivacyPolicy - privacypolicy4020
-    
-*   privacypolicy - privacypolicy7690
-    
-*   PrivacyPolicy - privacypolicy.3245
-    
-*   Privacy Policy - privadex\_do\_nuno
-    
-*   Instagramer - \_\_privacy\_policy\_\_
-    
-*   Bryan Russo - terms\_n\_privacy\_policy
-    
-*   st3phsprivacypolicy - st3phsprivacypolicy
-    
-*   IG POLICY PRIVACY - ig\_user\_verified
-    
-*   Рогов Хуго - privacypolicy
-    
-*   Show Less ...
-
-Myspace 2% 
+Instagram 49%  Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -290,7 +238,7 @@ Pinterest 49%  Wikipedia 2% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Google+ 48%  Music 1% 
+Google+ 49%  Music 2% 
 
 *   Pandora
     
@@ -336,7 +284,7 @@ Google+ 48%  Music 1% 
     
 *   Show Less ...
 
-Photo Albums 1% 
+Photo Albums 2% 
 
 *   Flickriver
     
@@ -351,19 +299,15 @@ Photo Albums 1% 
     ‎Read reviews, compare customer ratings, see screenshots, and learn more about Flickr. Download Flickr and enjoy it on your iPhone, iPad, and iPod touch.
     
 
-Web Search 48%  Images 1% 
+Web Search 49%  Images 2% 
 
 20
 
 7
 
-8
-
 twitterx
 
 myspacex
-
-instagramx
 
 *   About PeekYou
 *   Privacy Policy
