@@ -1,4 +1,4 @@
-Accessible View
+Black Friday deals–Beat the rush! – Shop the store adSee DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -11,39 +11,186 @@ Accessible View
 
 SHOP DEPARTMENTS
 
-*   Same Day Pickup
+*   Black Friday
 *   Holiday Gifts
 *   Toys
 *   Store Ads
-*   Clearance
-*   Coupons
 
-Near YouFind a StoreBackHot Sellers
+Near YouFind a StoreBackUP TO 80% OFF RED BOW DEALSShop AllSELECT STYLESUP TO 80% OFF RED BOW DEALSSELECT STYLESShop All
 
-*   $3999 sale
+*   LIMITED TIME SPECIAL!
     
-    was $110 | 63% offLiz Claiborne Womens Anabella Over the Knee Block Heel Zip Boots(1)
-*   ADVERTISED DEAL!
+    $25 sale
     
-    $1799 sale
+    was $124.98 Limited Time Special! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(6)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    was $42 | 57% offArizona Basic Flex Skinny Jeans(336)
-*   ADVERTISED DEAL!
+    $20 sale
     
-    $1799 sale
+    was $124.98 Limited Time Special - 1/10 CT. T.W. Double Halo Diamond Stud Earrings in Sterling Silver(680)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    was $42 | 57% offArizona Basic Original Bootcut Jeans(552)
-*   $3999 sale
+    $999 sale
     
-    was $110 | 63% offLiz Claiborne Womens Block Heel Zip Trino Riding Boots(10)
-*   $2999 sale
+    was $124.98 LIMITED TIME SPECIAL! Genuine Diamond 1/10 CT. T.W. Swirl Pendant Necklace in Sterling Silver(130)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    was $70 | 57% offa.n.a Womens Ann Booties Zip(9)
-*   ADVERTISED DEAL!
+    $25 sale
+    
+    was $124.98 Limited Time Special! 1/10 CT. T.W. Genuine Diamond Ring in Sterling Silver(15)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $999 sale
+    
+    was $49.98 LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(174)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $999 sale
+    
+    was $124.98 LIMITED TIME SPECIAL! 1/10 CT. T.W. Double Halo Diamond Pendant Necklace in Sterling Silver(409)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $999 sale
+    
+    was $49.98 Limited Time Special! 2 Pair Cultured Pearl &. Crystal Sterling Silver Earring Set(259)Add To Cart
+
+BIG BEAUTY DEALSShop AllGIFTS $25 &. UNDERBIG BEAUTY DEALSGIFTS $25 &. UNDERShop All
+
+*   $10
+    
+    SEPHORA COLLECTION Enchanted Sky Eyshadow Palette(22)Add To Cart
+*   $15
+    
+    SEPHORA COLLECTION Wish Upon A Star Mini Brush Set(3)Add To Cart
+*   $10
+    
+    SEPHORA COLLECTION Miniature Palette(306)Add To Cart
+*   from$12
+    
+    Too Faced Better Than Sex Mascara(13567)Add To Cart
+*   $16 sale
+    
+    was $24 SEPHORA COLLECTION Midnight Wishes Eyeshadow Palette(8)Add To Cart
+*   from$17
+    
+    Urban Decay Vice Lipstick(2313)Add To Cart
+*   $20
+    
+    DOLCE&GABBANA Light Blue Mini Duo Set(4)Add To Cart
+
+MEN'S XERSION $15 &. UNDERShop AllSELECT STYLESMEN'S XERSION $15 &. UNDERSELECT STYLESShop All
+
+*   BLACK FRIDAY DEAL!
+    
+    $999 sale
+    
+    was $30 Xersion Long Sleeve Fleece Hoodie(2)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $1399 sale
+    
+    was $40 Xersion Fleece Jogger Pants(1)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $1499 sale
+    
+    was $40 Xersion Puffer VestAdd To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $1399 sale
+    
+    was $30 Xersion Drawstring PantsAdd To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $1399 sale
+    
+    was $36 Xersion Long Sleeve Fleece Hoodie(2)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $999 sale
+    
+    was $32 Xersion Mens Drawstring Waist Basketball Shorts(22)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $1399 sale
+    
+    was $36 Xersion Long Sleeve Fleece Hoodie(2)Add To Cart
+
+UP TO 60% OFF COOKSShop AllSELECT STYLESUP TO 60% OFF COOKSSELECT STYLESShop All
+
+*   BLACK FRIDAY DEAL!
+    
+    $19 sale
+    
+    was $39 Cooks 13-pc. Nonstick Cookware Set(19)Add To Cart
+*   BLACK FRIDAY DEAL!
     
     $2999 sale
     
-    was $80 | 62% offArizona Womens Denmark Riding Block Heel Zip Boots(11)
+    was $155 Cooks 16-pc. Block Triple Rivet Knife Set(1)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $3999 sale
+    
+    was $100 Cooks Stainless Steel 21-pc. Cookware SetAdd To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $7999 sale
+    
+    was $260 Cooks Signature Black Matte 11-pc. Cookware Set(7)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $5999 sale
+    
+    was $160 Cooks 52-PC. Stainless Steel Cookware Set(9)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $7999 sale
+    
+    was $200 Cooks Ceramic 12-pc. Cookware Set(1)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $7999 sale
+    
+    was $200 Cooks Ceramic 12-pc. Cookware Set(2)Add To Cart
+
+40-60% OFF PAJAMASShop AllSELECT STYLES40-60% OFF PAJAMASSELECT STYLESShop All
+
+*   BLACK FRIDAY DEAL!
+    
+    $1299 sale
+    
+    was $32 Stafford Men's Flannel Pajama Pants(6)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $22 sale
+    
+    was $44 Liz Claiborne 3 Piece Plaid Pant Pajama Set With Socks(8)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $1299 sale
+    
+    was $32 Stafford Men's Microfleece Pajama Pants(8)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $22 sale
+    
+    was $44 Liz Claiborne Notch Collar Flannel Pajama Set(5)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $12 sale
+    
+    was $24 Sleep Chic Flannel Pajama Pants(1)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $2350 sale
+    
+    was $47 Liz Claiborne 3 Piece Pant Pajama Set With Socks-Tall(1)Add To Cart
+*   BLACK FRIDAY DEAL!
+    
+    $21 sale
+    
+    was $42 Adonna Crew Neck Waffle Pajama Set(4)Add To Cart
 
 Shop and Save at JCPenney
 
@@ -68,7 +215,6 @@ Customer Service
 *   Returns
 *   Shipping Information
 *   Rebates
-*   Same Day Pickup
 *   My JCP.com Account
 *   Track My Order
 *   Servicio Al Cliente
