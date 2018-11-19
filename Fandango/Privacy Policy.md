@@ -1,4 +1,4 @@
-Gift Cards | Offers | Sign In Sign Out
+GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In Sign Out
 
 *   Fandango
 *   Go
@@ -81,21 +81,21 @@ Gift Cards | Offers | Sign In Sign Out
     *   Family Guide
     *   House Of Screams
     *   Weekend Ticket
-*   My VIP Account Join FandangoVIP Refunds + Exchanges
+*   My VIP Account Join FandangoVIP Buy Movies. Get Movies.
     
-    Bypass the box office line at many theaters with guaranteed tickets. If something comes up, you can return or exchange up to two hours before showtime through Fandango.
-    
-    Learn more Partner Rewards
-    
-    Earn rewards points from our partners, including AMC Stubs, Regal Crown Club and more.
-    
-    Learn more My Fandango
-    
-    Save your favorite theaters and movies to experience a customized Fandango just for you.
+    Earn 125 points on every ticket you buy. Rack up 500 points and you'll score a $5 reward for more movies.
     
     Learn more Insider Perks
     
-    Get the VIP treatment, free screenings, digital downloads, discounts and more.
+    Get your swag on with discounted movies to stream at home, exclusive movie gear, access to advanced screenings and discounts galore.
+    
+    Learn more Partner Rewards
+    
+    Collect bonus rewards from our many partners, including AMC, Stubs, Cinemark Connections, Regal Crown Club when you link accounts.
+    
+    Learn more Refunds + Exchanges
+    
+    We know life happens, so if something comes up, you can return or exchange your tickets up until the posted showtime.
     
     Learn more Join Fandango VIP For Free
     
@@ -103,7 +103,7 @@ Gift Cards | Offers | Sign In Sign Out
     
     Already a Fandango VIP? Sign In
 
-Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Fandango Gift Card Terms MovieTickets.com Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP Rewards Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyFandango Gift Card TermsMovieTickets.com Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP Rewards Program Terms en Español | en Français | auf Deutsch
+Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Fandango Gift Card Terms MovieTickets.com Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyFandango Gift Card TermsMovieTickets.com Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
 Last updated: May 25, 2018
 
@@ -317,13 +317,13 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
+*   Fandango VIP+
+    
+    Earn 125 points on every ticket you buy. Rack up 500 points and get a $5 reward for more movies. BUY TICKETS
+    
 *   'Fantastic Beasts: The Crimes of Grindelwald' Gift with Purchase
     
     Own all of your Wizarding World favorites for $5.99 each with ticket purchase. BUY TICKETS
-    
-*   Fandango VIP
-    
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 *   FandangoNOW Binge Bundles
     
