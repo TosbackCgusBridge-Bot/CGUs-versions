@@ -1,16 +1,16 @@
-*   GB4-5-124SEA5-527Final
-*   DAL4-5ATL4-5Sun, 1:00 pm ET
-*   CIN5-4BAL4-5Sun, 1:00 pm ET
-*   CAR6-3DET3-6Sun, 1:00 pm ET
-*   TEN5-4IND4-5Sun, 1:00 pm ET
-*   TB3-6NYG2-7Sun, 1:00 pm ET
-*   HOU6-3WAS6-3Sun, 1:00 pm ET
-*   PIT6-2-1JAX3-6Sun, 1:00 pm ET
-*   OAK1-8ARI2-7Sun, 4:05 pm ET
-*   DEN3-6LAC7-2Sun, 4:05 pm ET
-*   PHI4-5NO8-1Sun, 4:25 pm ET
-*   MIN5-3-1CHI6-3Sun, 8:20 pm ET
+*   MIN5-4-120CHI7-325Final
+*   DAL5-522ATL4-619Final
+*   CIN5-521BAL5-524Final
+*   CAR6-419DET4-620Final
+*   TEN5-510IND5-538Final
+*   TB3-735NYG3-738Final
+*   HOU7-323WAS6-421Final
+*   PIT7-2-120JAX3-716Final
+*   OAK2-823ARI2-821Final
+*   DEN4-623LAC7-322Final
+*   PHI4-67NO9-148Final
 *   KC9-1LA9-1Mon, 8:15 pm ET
+*   GB4-5-124SEA5-527Final
 
 *   News
 *   Scores
@@ -29,19 +29,19 @@
 *   NFL Network
 *   Photos
 
-*   GB24SEA27Final
-*   DAL4-5ATL4-5Sun, 1:00 pm ET
-*   CIN5-4BAL4-5Sun, 1:00 pm ET
-*   CAR6-3DET3-6Sun, 1:00 pm ET
-*   TEN5-4IND4-5Sun, 1:00 pm ET
-*   TB3-6NYG2-7Sun, 1:00 pm ET
-*   HOU6-3WAS6-3Sun, 1:00 pm ET
-*   PIT6-2-1JAX3-6Sun, 1:00 pm ET
-*   OAK1-8ARI2-7Sun, 4:05 pm ET
-*   DEN3-6LAC7-2Sun, 4:05 pm ET
-*   PHI4-5NO8-1Sun, 4:25 pm ET
-*   MIN5-3-1CHI6-3Sun, 8:20 pm ET
+*   MIN20CHI25Final
+*   DAL22ATL19Final
+*   CIN21BAL24Final
+*   CAR19DET20Final
+*   TEN10IND38Final
+*   TB35NYG38Final
+*   HOU23WAS21Final
+*   PIT20JAX16Final
+*   OAK23ARI21Final
+*   DEN23LAC22Final
+*   PHI7NO48Final
 *   KC9-1LA9-1Mon, 8:15 pm ET
+*   GB24SEA27Final
 
 *   News
 *   Scores
@@ -65,7 +65,7 @@
 *   Shop
 *   Teams
 
-DEVELOPING STORYCorrection: Joe Flacco (hip) not expected to play vs. BengalsRavens players expect Lamar Jackson to take the majority of snaps in Flacco's absence, NFL Network's Ian Rapoport and Tom Pelissero report.READ MORE NFL.com - Privacy Policy English
+NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
 Updated: July 20, 2018**  
@@ -263,6 +263,4 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy  
-
-  Ravens players expect Lamar Jackson to take the majority of snaps in Flacco's absence, NFL Network's Ian Rapoport and Tom Pelissero report.
+Attn: Website Privacy Policy
