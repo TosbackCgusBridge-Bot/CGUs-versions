@@ -18,6 +18,7 @@
         *   TV
         *   Phone
         *   Bundles
+        *   Security Systems
     *   Medium &. Enterprise
         *   Data Networking
             *   Switched Ethernet
@@ -116,7 +117,6 @@
         *   Internet &. Email Support
         *   TV Support
         *   Phone Support
-        *   Home Security Support
         *   Refer a Friend
         *   Lifeline &. Assistance Programs
     *   Business Support
@@ -229,6 +229,7 @@ Select Location
         *   TV
         *   Phone
         *   Bundles
+        *   Security Systems
     *   Medium &. Enterprise
         *   Data Networking
         *   Voice
@@ -280,7 +281,6 @@ Select Location
         *   Internet &. Email Support
         *   TV Support
         *   Phone Support
-        *   Home Security Support
         *   Refer a Friend
         *   Lifeline &. Assistance Programs
     *   Business Support
@@ -323,7 +323,6 @@ Support
     *   Internet &. Email Support
     *   TV Support
     *   Phone Support
-    *   Home Security Support
     *   Refer a Friend
     *   Lifeline &. Assistance Programs
 *   Business Support
