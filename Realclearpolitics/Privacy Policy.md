@@ -109,45 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Adele Malpass_: Bloomberg Eyes 2020, But Would Dems Warm to Him?
+*   _Gov. Rick Scott_: Votes Are In--Now It's Time to Make Washington Work
     
-*   _Sean Trende_: Why 2018 Wasn't a Wave Election
+*   _Ross Baker_: Pelosi Should Be Speaker--the Plot Against Her Is Foolish
     
-*   _Carl Cannon_: Wilson, the Great War, and Women's Right to Vote
+*   _Douglas Schoen_: Numbers Make It Clear Dems Should Move On From Pelosi
     
-*   _Jessica Tarlov_: Dear GOP: Elections Have Consequences
+*   _Joan Williams_: Trump's Racism and the Democrats' White-People Problem
     
-*   _Fred Barnes_: Bipartisanship Is Overrated
+*   _Larry Elder_: If Trump Is 'Racist,' He's Terrible at It
     
-*   _Robert Creamer_: Pelosi Should, and Will, Be Dems' Speaker of the House
+*   _Jeffrey Toobin_: How Voting Rights Fared in the Midterms
     
-*   _Marc Thiessen_: Democrats Are Trying to Steal an Election in Florida
+*   _Becket Adams_: How the AP Slanted Its Coverage of 2 Election Disputes
     
-*   _A.B. Stoddard_: DeSantis Has Two Years to Fix Florida Voting
+*   _Sebastian Payne_: In Praise of Theresa May--'There Is No Alternative'
     
-*   _Ned Ryun_: Florida Recount Fight a Preview of 2020 Lawlessness
+*   _Roger Kimball_: Just Brexit! The UK's Future Is With the Anglosphere
     
-*   _Susan Glasser_: Adam Schiff: Mueller's New Wingman on Capitol Hill
+*   _Samuel Earle_: Is Boris Johnson Britain's Next Prime Minister?
     
-*   _Kimberley Strassel_: Democrats Doubling Down on Mueller
+*   _Jan Hoffman_: She Couldn't Quit Smoking. Then She Tried Juul.
     
-*   _Maya Kosoff_: Zuckerberg Refuses Responsibility for Latest Scandal
+*   _E.J. Dionne_: The Supreme Test of Nancy Pelosi's Wizardry
     
-*   _Kalev Leetaru_: The Perils to Democracy Posed by Big Tech
+*   _Liz Peek_: Democrats Are in Disarray. Does That Spell Trouble for 2020?
     
-*   _Molly Roberts_: Sheryl Sandberg and the Emptiness of Leaning In
+*   _David Siders_: Betomania Hits 2020: 'He's Barack Obama, But White'
     
-*   _Patrick Buchanan_: Trump Raises the Stakes With CNN
+*   _Daniel McCarthy_: The Way Trump Wins Again
     
-*   _E.J. Dionne_: Will Republicans Keep Dancing With Autocracy?
+*   _Thomas Gagen_: Don't Run, Senator Warren, Don't Run
     
-*   _Roger Kimball_: The Resurgence of Anti-Semitism in the Democratic Party
+*   _Frank Miele_: Jim Acosta and the Hubris of Celebrity Journalism
     
-*   _David Ignatius_: U.S.'s Overt Payback for China's Covert Espionage
+*   _Emily Bell_: Battle Against WH's Acosta Ban Should Mark Turning Point
     
-*   _Gaby Hinsliff_: Theresa May Is Running Out of Road
+*   _James Robbins_: Kill the Lights, Shut Off the Cameras, Reform WH Press Corps
     
-*   _Adriana Cohen_: Avenatti Falls Hard
+*   _Ari Berman_: America Is Becoming a Two-Tiered Democracy
+    
+*   _Steve Miller_: Palm Beach Went For Coloring Books Over New Voting Machines
+    
+*   _David Catron_: Dem Losers: Undignified and Dangerous
+    
+*   _Peter Bergen_: Finally, Abizaid Will Be an Adult in the Room With the Saudis
+    
+*   _Hans von Spakovsky_: The Attacks on Whitaker Are Baseless
     
 
 *   Previous
@@ -218,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   As Florida Recount Ends, Sen. Nelson Concedes Race to Scott
+*   Bloomberg Eyes 2020, But Would Dems Warm to Him?
+*   Chris Wallace Interviews President Trump on "Fox News Sunday"
 *   Why 2018 Wasn't a Wave Election
-*   Pelosi Claims "Overwhelming Support" for 2nd Act as Speaker
-*   Graham: Ironic If Trump Fixes "3 Strikes" Problem Passed by Clinton
-*   In MN Mining Region, Republicans Cut Into Democrats' Turf
-*   Proxy Advisors: Empirical Evidence and the Case for Reform
+*   Proxy Advisors: Consequences on Senior Investments
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -235,25 +243,25 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve43
+    *   Disapprove53Disapprove +10
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
+    *   Approve50
+    *   Disapprove49Approve +1
+*   Direction of CountryRasmussen Reports
+    *   Right Direction41
+    *   Wrong Track52Wrong Track +11
 *   President Trump Job ApprovalMonmouth
     *   Approve44
     *   Disapprove49Disapprove +5
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve45
-    *   Disapprove54Disapprove +9
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve43
-    *   Disapprove53Disapprove +10
 
 More Latest Polls In The News
 
 *   Nunes: We Finished Our Investigation. "Four Buckets Of Information We Want Declassified"
 *   Full FOX News Interview: President Trump on Divided Congress, Mueller, Foreign Policy, Fake News, More
 *   Rep. Adam Schiff: Trump Must Listen to Intelligence Professionals on Khashoggi Murder, Not Saudis
-*   David Brooks: Given The Atmosphere Trump Has Set, Acosta Was "Well Within Bounds" Of The New Norm
+*   Kirsten Powers: Voting For Trump Because You Didn't Like Hillary Clinton "Doesn't Make You Not Racist"
 *   Tucker Carlson: Turns Out Only Republicans Are Required To Accept Election Outcomes They Don't Like
 
 *   Politics
