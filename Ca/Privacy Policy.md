@@ -1,13 +1,13 @@
 Skip to Main Content × Saving your location allows us to provide you with more relevant information. Update Location  
-Clear Location × Default High Contrast Reset Increase Font SizeFont Decrease Font SizeFont Secure × ALERT!Acting Governor Newsom has declared multiple States of Emergency due to wildfires.
+Clear Location × Default High Contrast Reset Increase Font SizeFont Decrease Font SizeFont Secure × ALERT!
 
-*   LA and Ventura Counties Proclamation
-*   Butte County Proclamation
+Governor Brown Secures Presidential Major Disaster Declaration to Support Communities Impacted by Wildfires
 
-Wildfire resources that may help you:
+Read the news release
 
-*   Current Fire Information
-*   Ready for Wildfire website
+If you have been impacted by the wildfires, you can learn more about resources available to you at:
+
+wildfirerecovery.org disasterassistance.gov
 
 Read More
 
