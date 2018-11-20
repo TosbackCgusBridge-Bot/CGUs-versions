@@ -277,7 +277,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**SPEND $50 GET A $10 CASH CARD DETAILS** **FREE SHIPPING ON ORDERS OVER $50**
+**LAST DAY! SPEND $50 GET A $10 CASH CARD DETAILS** **FREE SHIPPING ON ORDERS OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -546,7 +546,7 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2018 Aeropostale. All Rights Reserved.
+© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
 
 Refer a friend and get $15 off.
 
