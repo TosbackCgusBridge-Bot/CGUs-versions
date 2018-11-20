@@ -1,4 +1,5 @@
-*   MIN5-4-120CHI7-325Final
+*   KC9-251LA10-154Final
+*   GB4-5-124SEA5-527Final
 *   DAL5-522ATL4-619Final
 *   CIN5-521BAL5-524Final
 *   CAR6-419DET4-620Final
@@ -9,8 +10,7 @@
 *   OAK2-823ARI2-821Final
 *   DEN4-623LAC7-322Final
 *   PHI4-67NO9-148Final
-*   KC9-1LA9-1Mon, 8:15 pm ET
-*   GB4-5-124SEA5-527Final
+*   MIN5-4-120CHI7-325Final
 
 *   News
 *   Scores
@@ -29,7 +29,8 @@
 *   NFL Network
 *   Photos
 
-*   MIN20CHI25Final
+*   KC51LA54Final
+*   GB24SEA27Final
 *   DAL22ATL19Final
 *   CIN21BAL24Final
 *   CAR19DET20Final
@@ -40,8 +41,7 @@
 *   OAK23ARI21Final
 *   DEN23LAC22Final
 *   PHI7NO48Final
-*   KC9-1LA9-1Mon, 8:15 pm ET
-*   GB24SEA27Final
+*   MIN20CHI25Final
 
 *   News
 *   Scores
