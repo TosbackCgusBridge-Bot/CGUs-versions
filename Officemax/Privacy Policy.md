@@ -39,17 +39,17 @@ Stock Quote and Chart
 
 Price
 
-$3.10
+$2.93
 
 Change
 
-0.00
+ - 0.17
 
 Percent Change
 
  (0.00%)
 
-11/16/184:00 p.m. ET  
+11/19/184:00 p.m. ET  
 Data provided by Nasdaq. Minimum 15 minutes delayed.view details  
 Recent News11/15/18Elf Yourself. Elf Your Friends. Floss Like Only an Elf Can. Office Depot’s Elf Yourself® is Back.  
 view more
