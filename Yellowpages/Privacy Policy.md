@@ -1,37 +1,28 @@
-*   Skip To Content
+Skip Navigation
 
-*   Personal
-*   Business
-    *   Small Business
-    *   Enterprise Business
-    *   Wholesale
-    *   Government
-*   About AT&T
-
-*   About AT&T
-*   COMPANY
+*   Company
     *   AT&T Profile
     *   Leadership Team
-        *   *   Leadership Insights
+        *   Leadership Insights
     *   AT&T Communications
-        *   *   AT&T Communications Profile
-            *   Leadership
-            *   5G
-            *   Consumer
-            *   Business
-            *   Technology
+        *   AT&T Communications Profile
+        *   Leadership
+        *   5G
+        *   Consumer
+        *   Business
+        *   Technology
     *   WarnerMedia
-        *   *   WarnerMedia Company Profile
-            *   HBO
-            *   Turner
-            *   Warner Bros
+        *   WarnerMedia Company Profile
+        *   HBO
+        *   Turner
+        *   Warner Bros.
     *   AT&T Latin America
-        *   *   AT&T Latin America Profile
-            *   Mexico
-            *   Vrio
+        *   AT&T Latin America Profile
+        *   Mexico
+        *   Vrio
     *   Xandr
-        *   *   Xandr Profile
-*   INVESTORS
+        *   Xandr Profile
+*   Investors
     *   Investor Profile
     *   News &. Events
     *   Financial Reports
@@ -39,30 +30,27 @@
     *   Stockholder Services
     *   Corporate Governance
     *   Resources
-*   VALUES
+*   Values
     *   Social Responsibility
-        *   *   Corporate Social Responsibility
-            *   It Can Wait
-            *   AT&T Aspire
-            *   WarnerMedia CSR
-            *   AT&T Mexico CSR
-            *   Vrio CSR
-            *   CSR Reporting
+        *   Corporate Social Responsibility
+        *   It Can Wait
+        *   AT&T Aspire
+        *   WarnerMedia CSR
+        *   AT&T Mexico CSR
+        *   Vrio CSR
+        *   CSR Reporting
     *   Diversity &. Inclusion
     *   Ethics &. Compliance
-*   CAREERS
-    
-*   NEWS
+*   Careers
+*   News
     *   All News
     *   Brand Assets
     *   Contacts
     *   Blogs
-        *   *   Innovation Blog
-            *   Inside Connections Blog
-*   More from AT&T
-*   X
+        *   Technology Blog
+        *   Inside Connections Blog
 
-About AT&T AT&T Privacy Policy  
+AT&T Privacy Policy  
 
 **En Español**  **En Français**
 
@@ -255,15 +243,9 @@ Lost or stolen phone?
 
 For help on what to do, visit att.com/stolenphone.
 
-Connect with us
-
 *   Privacy Policy
 *   Terms of Use
 *   Accessibility
 *   Contact Us
-
-© 2018 AT&T Intellectual Property. All rights reserved.
-
-Privacy Policy Terms of Use Accessibility Contact Us
 
 © 2018 AT&T Intellectual Property. All rights reserved.
