@@ -1,11 +1,13 @@
 Skip to Main Content. Site navigation Fidelity.com Home
 
 *   Customer Service
+*   Profile
 *   Open An Account
 *   Refer A Friend
 *   Log In
 
 *   Customer Service
+*   Profile
 *   Open An Account
 *   Refer A Friend
 *   Log Out
@@ -28,8 +30,6 @@ Search fidelity.com or get a quote
     *   BillPay
     *   Full ViewLog In Required
     *   Full View
-    *   Profile Log In Required
-    *   Profile
     *   Account Features Log In Required
     *   Account Features
     *   Statements Log In Required
@@ -86,11 +86,13 @@ Search fidelity.com or get a quote
     *   Security &. Protection
 
 *   Customer Service
+*   Profile
 *   Open An Account
 *   Refer A Friend
 *   Log In
 
 *   Customer Service
+*   Profile
 *   Open An Account
 *   Refer A Friend
 *   Log Out
