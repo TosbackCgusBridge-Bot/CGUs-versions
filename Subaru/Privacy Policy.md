@@ -39,7 +39,7 @@ $18,595 MSRP
 
 Up to
 
-38/28 MPG Hwy/City
+38/28 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -56,7 +56,7 @@ $22,545 MSRP
 
 Up to
 
-34/25 MPG Hwy/City
+34/25 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -73,7 +73,7 @@ $21,895 MSRP
 
 Up to
 
-33/27 MPG Hwy/City
+33/27 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -90,7 +90,7 @@ $24,295 MSRP
 
 Up to
 
-33/26 MPG Hwy/City
+33/26 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -107,7 +107,7 @@ $26,345 MSRP
 
 Up to
 
-32/25 MPG Hwy/City
+32/25 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -124,7 +124,7 @@ $31,995 MSRP
 
 Up to
 
-27/21 MPG Hwy/City
+27/21 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -132,6 +132,22 @@ Up to
 *   Build &. Price
 
 Ascent Limited shown
+
+Crosstrek Hybrid $34,995\* starting price 2019  
+Crosstrek Hybrid
+
+Starting at
+
+$34,995 MSRP
+
+Up to
+
+90 MPGe
+
+*   Overview
+*   Build &. Price
+
+Crosstrek Hybrid Touring Shown
 
 BRZ $25,795\* starting price 2019 BRZ
 
@@ -141,7 +157,7 @@ $25,795 MSRP
 
 Up to
 
-33/24 MPG Hwy/City
+33/24 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -158,14 +174,14 @@ $27,195 MSRP
 
 Up to
 
-27/21 MPG Hwy/City
+27/21 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build &. Price
 
-2019 WRX Limited shown
+WRX Limited Shown
 
 All Vehicles Find Your Subaru All Vehicles Certified Pre-Owned Certified Pre-Owned
 
@@ -435,7 +451,7 @@ Legal Disclaimers
 
 \* Manufacturer's suggested retail price does not include destination and delivery charges, tax, title and registration fees. Destination and delivery includes handling and inland freight fees and may vary in some states. Prices, specifications, options, features and models subject to change without notice.
 
-\*\* EPA-estimated fuel economy. Actual mileage may vary.
+\*\* EPA-estimated fuel economy. Actual mileage may vary. For Crosstrek Hybrid, EPA-estimated MPG equivalent on a full battery charge. Actual mileage will vary.
 
 \*\*\*Limited warranties are contingent on age and mileage. Whatever comes first concludes the warranty.
 
