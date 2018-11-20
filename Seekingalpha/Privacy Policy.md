@@ -1,4 +1,4 @@
-MarketplaceSeeking AlphaSUBSCRIBE
+MarketplaceSeeking AlphaSUBSCRIBESpecial Black Friday Offer  |  Save 50% Now
 
 *   Portfolio
 *   People
