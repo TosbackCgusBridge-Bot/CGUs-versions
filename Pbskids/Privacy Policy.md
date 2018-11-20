@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-New racing tracks out on the desktop version of Kart Kingdom every Monday! New racing tracks out on the desktop version of Kart Kingdom every Monday! Go now
+Help your little engineer create a DIY carousel toy that moves! Help your little engineer create a DIY carousel toy that moves! Get the free template
 
 Toggle message bar
 
