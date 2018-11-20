@@ -12,11 +12,11 @@ Skip to main content <p class="enable-js">. To enjoy our website, you'll need to
 
 Trending:
 
-*   Christian persecution
-*   Evangelism
-*   Transgender
+*   Witches
+*   Episcopal Church
+*   Prison Reform
 *   Unchurched
-*   Genocide
+*   Christian persecution
 
 Menu Search P404 Newsletter Close Menu 404 Page not found
 
@@ -37,11 +37,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Christian persecution
-*   Evangelism
-*   Transgender
+*   Witches
+*   Episcopal Church
+*   Prison Reform
 *   Unchurched
-*   Genocide
+*   Christian persecution
 
 About Us
 
@@ -56,6 +56,7 @@ About Us
 Stay Connected
 
 *   Contact Us
+*   RSS Feed
 *   Advertise With Us
 *   Media Kit
 *   Archives
