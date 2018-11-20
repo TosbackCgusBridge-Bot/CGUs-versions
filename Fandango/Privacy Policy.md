@@ -5,38 +5,34 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Fantastic Beasts: The Crimes of Grindelwald
     *   Dr. Seuss' The Grinch (2018)
     *   Bohemian Rhapsody
-    *   Overlord (2018)
+    *   Instant Family (2018)
+    *   Widows (2018)
     *   The Nutcracker and the Four Realms
-    *   The Girl in the Spider's Web
     *   A Star Is Born (2018)
+    *   Overlord (2018)
+    *   The Girl in the Spider's Web
     *   Nobody's Fool
     *   Venom (2018)
-    *   Halloween (2018)
-    *   The Hate U Give
-    *   Smallfoot
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Fantastic Beasts: The Crimes of Grindelwald
-    *   Instant Family (2018)
-    *   Widows (2018)
-    *   A Private War
-    *   At Eternity's Gate
+    *   Creed II
+    *   Ralph Breaks the Internet
+    *   Robin Hood (2018)
     *   Green Book
-    *   Jonathan (2018)
-    *   The Last Race
-    *   Team Khan
-    *   Welcome Home (2018)
+    *   The Front Runner
+    *   Becoming Astrid
+    *   The Favourite
+    *   Shoplifters
+    *   The World Before Your Feet
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Creed II
-    *   Ralph Breaks the Internet
-    *   Robin Hood (2018)
     *   The Possession of Hannah Grace
     *   Once Upon a Deadpool
     *   Mortal Engines
@@ -44,6 +40,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Spider-Man: Into the Spider-Verse
     *   Aquaman
     *   Bumblebee
+    *   Mary Poppins Returns (2018)
+    *   Second Act
+    *   Welcome to Marwen
     *   See All Coming Soon
     
     Explore More
@@ -71,9 +70,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Find Your Courage in First 'Dumbo' Trailer. Here's Everything We Know Read More
+    *   Next 3 Major Franchise Sequels: 'Glass,' 'Avengers 4,' 'John Wick 3' Read More
     *   The Week in Movie News: A Marvel Icon Passed On, First 'Detective Pikachu' Trailer Debuted and More Read More
-    *   A Guide to the Enchanting Music of 'Mary Poppins Returns' Read More
+    *   'Fantastic Beasts' So Far: Comparing the Stories and What They Mean for the Wizarding World Read More
     
     Explore Content
     *   Movie Reviews
@@ -317,13 +316,13 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   Fandango VIP+
+*   Get $5 off with Google Pay
     
-    Earn 125 points on every ticket you buy. Rack up 500 points and get a $5 reward for more movies. BUY TICKETS
+    Use code GPAYMOVIES at checkout. BUY TICKETS
     
-*   'Fantastic Beasts: The Crimes of Grindelwald' Gift with Purchase
+*   'Aquaman' Gift with Purchase
     
-    Own all of your Wizarding World favorites for $5.99 each with ticket purchase. BUY TICKETS
+    Get 5 FREE digital DC Comics with ticket purchase. BUY TICKETS
     
 *   FandangoNOW Binge Bundles
     
@@ -378,4 +377,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
