@@ -34,6 +34,9 @@
     *   Contact
 *   Blog
 *   Docs
+    *   Overview
+    *   Product Guide
+    *   Forum
 *   Login
 
 *   Products
@@ -72,6 +75,9 @@
     *   Contact
 *   Blog
 *   Docs
+    *   Overview
+    *   Product Guide
+    *   Forum
 *   Login
 
 Privacy at Tealium
