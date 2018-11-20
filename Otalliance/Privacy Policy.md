@@ -60,7 +60,7 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Home › Privacy Statement Privacy Statement
+Facebook Twitter LinkedIn Email AddThis Home › Privacy Statement Privacy Statement
 
 The Online Trust Alliance is now part of the Internet Society (ISOC) and governed by ISOC's Privacy Statement. As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here. Questions please email privacy@isoc.org.   
 
@@ -72,7 +72,7 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
-Tue, Nov 27, 2018 6th National Cyber Security Conference Wed, Nov 28, 2018 IoT Tech Expo North America Mon, Dec 3, 2018 ASAE Technology Conference &. Expo Thu, Dec 13, 2018 OECD Global Forum on Digital Security for Prosperity
+Tue, Nov 27, 2018 6th National Cyber Security Conference Wed, Nov 28, 2018 Cyber Security &. Cloud Expo Mon, Dec 3, 2018 ASAE Technology Conference &. Expo Thu, Dec 13, 2018 OECD Global Forum on Digital Security for Prosperity
 
 *   OTA Blog
 *   Newsletters
