@@ -66,7 +66,7 @@ THE PROMISE OF
 1:1 DIGITAL MARKETING  
 BOLDLY DELIVERED Watch Our Story
 
-*   160+ MILLION Real People You Can  
+*   200+ MILLION Real People You Can  
     Message Right Now
 *   7,000+ Dimensions to  
     Consumer Profiles
