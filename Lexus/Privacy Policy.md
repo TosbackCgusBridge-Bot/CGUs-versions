@@ -69,7 +69,23 @@ Search MENU **IS**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **NX**
+COMPARE **UX**
+
+*   Starting at $32,0001\*
+*   169-HP6\* 2.0L I-4
+
+*   Build
+*   Current Offers
+
+**UX HYBRID**
+
+*   Starting at $34,0001\*
+*   39-MPG COMBINED RATING7\*
+
+*   Build
+*   Current Offers
+
+**NX**
 
 *   Starting at $36,3852\*
 *   235-hp4\* 2.0L turbo
@@ -80,7 +96,7 @@ COMPARE **NX**
 **NX HYBRID**
 
 *   Starting at $38,7352\*
-*   31-MPG combined rating6\*
+*   31-MPG combined rating8\*
 
 *   Build
 *   Current Offers
@@ -88,7 +104,7 @@ COMPARE **NX**
 **RX**
 
 *   Starting at $43,5702\*
-*   3 ROW SEATING UP TO 77\*
+*   3 ROW SEATING UP TO 79\*
 
 *   Build
 *   Current Offers
@@ -96,7 +112,7 @@ COMPARE **NX**
 **RX HYBRID**
 
 *   Starting at $45,9952\*
-*   30-MPG COMBINED RATING8\*
+*   30-MPG COMBINED RATING10\*
 
 *   Build
 *   Current Offers
@@ -111,7 +127,7 @@ COMPARE **NX**
 
 **LX**
 
-*   Starting at $85,8309\*
+*   Starting at $85,83011\*
 *   383-HP4\* V8, FULL-TIME 4WD
 
 *   Build
@@ -153,10 +169,18 @@ COMPARE **RC**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **NX HYBRID**
+COMPARE **UX HYBRID**
+
+*   Starting at $34,0001\*
+*   39-MPG COMBINED RATING7\*
+
+*   Build
+*   Current Offers
+
+**NX HYBRID**
 
 *   Starting at $38,7352\*
-*   31-MPG combined rating10\*
+*   31-MPG combined rating12\*
 
 *   Build
 *   Current Offers
@@ -164,7 +188,7 @@ COMPARE **NX HYBRID**
 **RX HYBRID**
 
 *   Starting at $45,9952\*
-*   30-MPG COMBINED RATING8\*
+*   30-MPG COMBINED RATING10\*
 
 *   Build
 *   Current Offers
@@ -233,11 +257,7 @@ COMPARE **RC F**
 
 SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
-COMPARE **UX**
-
-*   Future Vehicle
-
-**LF-1 LIMITLESS**
+COMPARE **LF-1 LIMITLESS**
 
 *   Concept Vehicle
 
@@ -345,15 +365,19 @@ click here Important Info Important Info
 
 \[5\] Specs for RWD model shown.
 
-\[6\] 2019 Lexus NX 300h (AWD) preliminary 33/city, 30/hwy, 31/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary.
+\[6\] Ratings achieved using premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[7\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
+\[7\] 2019 Lexus UX 250h (AWD) EPA 41/city, 38/hwy, 39/comb MPG estimates. Actual mileage will vary.
 
-\[8\] 2019 Lexus RX 450h (AWD) preliminary 31/city, 28/hwy, 30/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary.
+\[8\] 2019 Lexus NX 300h (AWD) preliminary 33/city, 30/hwy, 31/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary.
 
-\[9\] MSRP excludes delivery, processing and handling fee of $1,295, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
+\[9\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
 
-\[10\] 2018 EPA estimates. Actual mileage will vary.
+\[10\] 2019 Lexus RX 450h (AWD) preliminary 31/city, 28/hwy, 30/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary.
+
+\[11\] MSRP excludes delivery, processing and handling fee of $1,295, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
+
+\[12\] 2018 EPA estimates. Actual mileage will vary.
 
 Leasing &. Finance
 
