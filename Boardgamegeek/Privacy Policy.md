@@ -280,7 +280,7 @@ If you purchase an item on the BoardGameGeek Store, we also may provide your con
 
 _Our payment processors_
 
-You may provide some financial information as part of the payment process, such as credit card numbers, but we are not able to access more than the last four digits of those numbers. We use Stripe, Inc., or another payment processor, to handle user payment services. See Stripe’s privacy policy (available at https://stripe.com/privacy) for how they handle your information. See PayPal’s privacy policy (available at https://paypal.com/privacy) for how they handle your information.
+You may provide some financial information as part of the payment process, such as credit card numbers, but we are not able to access more than the last four digits of those numbers. We use Stripe, Inc., or another payment processor, to handle user payment services. If you send us payments with a credit card, we may provide your email address to Stripe to allow you to more easily update your payment information. See Stripe’s privacy policy (available at https://stripe.com/privacy) for how they handle your information. See PayPal’s privacy policy (available at https://paypal.com/privacy) for how they handle your information.
 
 _Our email processor_
 
