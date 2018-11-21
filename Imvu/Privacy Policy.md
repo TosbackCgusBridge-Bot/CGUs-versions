@@ -1,4 +1,19 @@
-  **Sign Up Now to Chat in 3D!** Member Login
+IMVU logo
+
+*   Log In
+
+*   Terms of Service
+*   Community Guidelines
+*   Privacy Policy
+*   Creator Agreement and Policy
+*   Virtual Goods Rating Policy
+*   Digital Millennium Copyrights Act (DMCA)
+
+back Privacy Policy
+
+This policy outlines what personally identifiable and non-personally identifiable information is collected and how it is used. You will also find information about out communications to you (emails), minimum age requirements, third party advertisements, cookies, and more.
+
+Read MoreRead Less ><.
 
 Last updated as of: May 24, 2018
 
@@ -262,7 +277,7 @@ We respect the fact that your personal information is your information, and we'l
 
 Your right to rectification
 
-You have a right to rectify, update or complete any inaccurate personal data, pending verification of your identification. Most of this can be accomplished by going to your "Account Settings" and making any changes there. For instance, if your contact details change, or if you spot any errors in the information we hold about you, we recommend starting with your "Account Settings". If, after visiting your "Account Settings", you are still unable to rectify the information, please contact us directly here.
+You have a right to rectify, update or complete any inaccurate personal data, pending verification of your identification. Most of this can be accomplished by going to your "Account Settings" and making any changes there. For instance, if your contact details change, or if you spot any errors in the information we hold about you, we recommend starting with your "Account Settings". If, after visiting your "Account Settings", you are still unable to rectify the information, please contact us directly here
 
 Your right of access
 
@@ -294,7 +309,7 @@ For activities where you have provided consent to IMVU, you have a right to with
 
 Questions/Contact us
 
-If you have any questions regarding this Privacy Notice please contact IMVU, Inc. here by clicking on the "Request Support" tab and selecting "Privacy" as a Case Category or via mail at:
+If you have any questions regarding this Privacy Notice please contact IMVU, Inc. here by clicking on the 'Request Support' tab and selecting 'Privacy' as a Case Category or via mail at:
 
 Privacy Officer  
 IMVU, Inc.  
@@ -303,4 +318,4 @@ Redwood City, CA 94063.
 
 email: privacy@imvu.com
 
-Mobile | People | Groups | Forums | 3D Chat Rooms | 3D Virtual Catalog | Buy Credits | Earn Credits | Creator Center | Download About Us | Policies | Blog | Contact Us | Advertise | Jobs | Safety | Avatar | Help |  © 2018 IMVU All rights reserved
+back
