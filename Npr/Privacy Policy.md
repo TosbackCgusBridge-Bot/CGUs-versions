@@ -3,248 +3,101 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On Air Now**Toggle more player options View Navigation NPR NPR NPR Music **NPR** Books **NPR** About **NPR**Podcast Directory Search
+*   Sign In
+*   Shop
+*   Donate
+*   Open Navigation Menu
 
-*   NPR Home
-*   Set station
+Close Navigation Menu
 
-*   News
-*   Arts &. Life
-*   Music
-*   Topics
-*   Programs **&. Podcasts**
+*   Home
+*   News Expand/Collapse Submenu for News
+    *   National
+    *   World
+    *   Politics
+    *   Business
+    *   Health
+    *   Science
+    *   Technology
+    *   Race &. Culture
+*   Arts &. Life Expand/Collapse Submenu for Arts &. Life
+    *   Books
+    *   Movies
+    *   Television
+    *   Pop Culture
+    *   Food
+    *   Art &. Design
+    *   Performing Arts
+*   Music Expand/Collapse Submenu for Music
+    *   Tiny Desk
+    *   All Songs Considered
+    *   Music News
+    *   Features
+    *   New Music
+*   Shows &. Podcasts Expand/Collapse Submenu for Shows &. Podcasts Daily
+    
+    *   Morning Edition
+    *   All Things Considered
+    *   Fresh Air
+    *   Up First
+    
+    Featured
+    
+    *   How I Built This with Guy Raz
+    *   Wait Wait...Don't Tell Me!
+    *   Planet Money
+    *   Hidden Brain
+    
+    *   More Shows &. Podcasts
+*   Search
+*   Sign In
+*   Shop
 
-*   NPR Music
-*   News
+*   Tiny Desk
+*   All Songs Considered
+*   Music News
 *   Features
 *   New Music
-*   Video
-*   Tiny Desk
-
-*   NPR Books
-*   **Author** Interviews
-*   Find Books
-*   Reviews
 
 *   About NPR
-*   Overview
-*   Connect
-*   Support
-*   Press
-*   Careers
-
-*   Podcast Directory
-*   Categories
-
-*   Set station
-
-*   **NPR** Shop
-*   My Account
-
-Back News
-
-*   National
-*   World
-*   Politics
-*   Business
-*   Technology
-*   Science
-*   Health
-*   Race &. Culture
-*   Education
-
-Arts &. Life
-
-*   Books
-*   Movies
-*   Pop Culture
-*   Food
-*   Art &. Design
-*   Performing Arts
-*   Photography
-
-Music
-
-*   First Listen
-*   Tiny Desk
-*   Videos
-
-More
-
-*   Our Blogs
-*   Corrections
-*   All About NPR
-
-Back News &. Conversations
-
-*   Morning Edition
-*   All Things Considered
-*   Fresh Air
-*   Here &. Now
-*   1A
-*   Believed
-*   Code Switch
-*   Embedded
-*   The Indicator from Planet Money
-*   It's Been a Minute with Sam Sanders
-*   Latino USA
-*   NPR Politics Podcast
-*   On Point
-*   Rough Translation
-*   Up First
-*   Weekend Edition Saturday
-*   Weekend Edition Sunday
-*   What's Good with Stretch &. Bobbito
-*   Youth Radio
-
-Storytelling &. Humor
-
-*   Ask Me Another
-*   The Best Of Car Talk
-*   Bullseye
-*   Hidden Brain
-*   How I Built This
-*   Invisibilia
-*   Only A Game
-*   Planet Money
-*   Pop Culture Happy Hour
-*   Radio Ambulante
-*   StoryCorps
-*   TED Radio Hour
-*   Wait Wait...Don't Tell Me!
-*   Wow in the World
-
-Music
-
-*   First Listen
-*   All Songs Considered
-*   Tiny Desk
-*   Alt.Latino
-*   From The Top
-*   Jazz Night In America
-*   Mountain Stage
-*   Piano Jazz
-*   The Thistle &. Shamrock
-*   World Cafe
-
-More
-
-*   All Programs
-*   Podcast Directory
-*   NPR Podcasts
-
-Back
-
-*   Art &. Design
-*   Arts &. Entertainment
-*   Biography &. Memoir
-*   Business &. Economy
-*   Children's Books
-*   Comedy
-*   Comics &. Graphic Novels
-*   Digital Culture
-
-*   Faith &. Spirituality
-*   Food &. Wine
-*   History &. Society
-*   Historical Fiction
-*   Horror &. Supernatural
-*   Literary Fiction
-*   Mystery &. Thrillers
-*   Parenting &. Families
-
-*   Poetry
-*   Politics &. Public Affairs
-*   Romance
-*   Science Fiction &. Fantasy
-*   Science &. Health
-*   Sports
-*   Travel
-*   Young Adult
-
-*   Nonfiction
-*   Fiction
-
-Back
-
-*   Book Reviews
-*   This Week's Must Read
-*   My Guilty Pleasure
-*   Three Books...
-*   PG-13: Risky Reads
-*   You Must Read This
-*   Summer Books
-*   Best Books of the Year
-
-Back
-
-*   Overview
-*   Overview and History
-*   Mission and Vision
-*   Stations and Public Media
-*   NPR Finances
-*   People
-*   Ethics
-*   Awards
-
-Back
-
-*   Visit NPR
-*   NPR Events
-*   Book a Speaker
-*   Request Permissions
-*   Ways to Listen
-*   NPR Extra Blog
-*   Email Newsletters
-*   Shop NPR
-*   Get Help
-*   Contact Us
-
-Back
-
-*   Support Public Radio
-*   Corporate Sponsorship
-*   Volunteer
-
-Back
-
-*   Releases and Statements
-*   Photos and Logos
-*   Fact Sheet (PDF)
-*   Media Relations Contacts
-
-Back
-
-*   Careers at NPR
-*   Search Jobs
-*   Culture
-*   Applying
-*   Interns
-*   Fellows
-*   Digital
-
-Back
-
-*   Arts
-*   Business
-*   Comedy
-*   Education
-*   Games &. Hobbies
-*   Government &. Organizations
-*   Health
-*   Kids &. Family
-
-*   Music
-*   News &. Politics
-*   Religion &. Spirituality
-*   Science &. Medicine
-*   Society &. Culture
-*   Sports &. Recreation
-*   Technology
-*   TV &. Film
-
-*   Set station
-*   **NPR** Shop
+*   Expand/Collapse Submenu for Overview Overview
+    *   Overview and History
+    *   Mission and Vision
+    *   Stations and Public Media
+    *   NPR Finances
+    *   People
+    *   Ethics
+    *   Awards
+*   Expand/Collapse Submenu for Connect Connect
+    *   Visit NPR
+    *   NPR Presents
+    *   Studio 1 Events
+    *   Generation Listen
+    *   Book a Speaker
+    *   Request Permissions
+    *   Ways to Listen
+    *   NPR Extra Blog
+    *   Email Newsletters
+    *   Shop NPR
+    *   Get Help
+    *   Contact Us
+*   Expand/Collapse Submenu for Support Support
+    *   Support Public Radio
+    *   Corporate Sponsorship
+    *   Volunteer
+*   Expand/Collapse Submenu for Press Press
+    *   Releases and Statements
+    *   Photos and Logos
+    *   Fact Sheet (PDF)
+    *   Media Relations Contacts
+*   Expand/Collapse Submenu for Careers Careers
+    *   Careers at NPR
+    *   Search Jobs
+    *   Culture
+    *   Applying
+    *   Interns
+    *   Fellows
+    *   Digital
 
 **Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
 
@@ -582,7 +435,6 @@ Get Involved
 *   Privacy
 *   Your Privacy Choices
 *   Text Only
-*   © 2018 npr
 
 NPR thanks our sponsors
 
