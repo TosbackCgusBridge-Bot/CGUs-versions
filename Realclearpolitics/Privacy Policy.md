@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Gov. Rick Scott_: Votes Are In--Now It's Time to Make Washington Work
+*   _Gov. Jay Inslee_: Democrats: Look to Your Governors to Beat Trump
     
-*   _Ross Baker_: Pelosi Should Be Speaker--the Plot Against Her Is Foolish
+*   _Jeremy Frankel_: How the Republicans Won Florida
     
-*   _Douglas Schoen_: Numbers Make It Clear Dems Should Move On From Pelosi
+*   _Alex Shephard_: The Toothless Rebellion Against Nancy Pelosi
     
-*   _Joan Williams_: Trump's Racism and the Democrats' White-People Problem
+*   _President Donald Trump_: On Standing With Saudi Arabia and America First
     
-*   _Larry Elder_: If Trump Is 'Racist,' He's Terrible at It
+*   _Wesley Clark_: I Served 8 Commanders in Chief. Trump Doesn't Grasp the Role.
     
-*   _Jeffrey Toobin_: How Voting Rights Fared in the Midterms
+*   _Noah Rothman_: Kavanaugh, the Court and Social-Justice Injustice
     
-*   _Becket Adams_: How the AP Slanted Its Coverage of 2 Election Disputes
+*   _Paul Starr_: How Democrats Finally Won With Health Care
     
-*   _Sebastian Payne_: In Praise of Theresa May--'There Is No Alternative'
+*   _Bill Zeiser_: The Trouble With 'Half True' Fact-Checking Verdicts
     
-*   _Roger Kimball_: Just Brexit! The UK's Future Is With the Anglosphere
+*   _Bill Gates_: Want to Understand Silicon Valley? Watch 'Silicon Valley'
     
-*   _Samuel Earle_: Is Boris Johnson Britain's Next Prime Minister?
+*   _Ned Ryun_: Why It's Crucial That U.S. Beat China in Race to Build 5G Tech
     
-*   _Jan Hoffman_: She Couldn't Quit Smoking. Then She Tried Juul.
+*   _Abdulla Bin Rashid Al Khalifa_: Understanding Bahrain's Upcoming Elections
     
-*   _E.J. Dionne_: The Supreme Test of Nancy Pelosi's Wizardry
+*   _Lisa Boothe_: Democrats, the Party of Sore Losers
     
-*   _Liz Peek_: Democrats Are in Disarray. Does That Spell Trouble for 2020?
+*   _Eugene Robinson_: Trump Grows More Desperate, Pathetic by the Day
     
-*   _David Siders_: Betomania Hits 2020: 'He's Barack Obama, But White'
+*   _Byron York_: Acosta Decision Could Make It Easier to Kick Reporters Out
     
-*   _Daniel McCarthy_: The Way Trump Wins Again
+*   _Melinda Henneberger_: Pelosi Earned Gavel, and the Right to Train Successor
     
-*   _Thomas Gagen_: Don't Run, Senator Warren, Don't Run
+*   _Bade &. Caygle_: Pelosi's Bid for Speaker Imperiled as Opposition Grows
     
-*   _Frank Miele_: Jim Acosta and the Hubris of Celebrity Journalism
+*   _Kushner &. Philipson_: Criminal Justice Reform Can Cuts Costs, Recidivism
     
-*   _Emily Bell_: Battle Against WH's Acosta Ban Should Mark Turning Point
+*   _Jelani Cobb_: The Crucial Significance of McBath's Win in Georgia
     
-*   _James Robbins_: Kill the Lights, Shut Off the Cameras, Reform WH Press Corps
+*   _Paul Sperry_: 5 Flaws in 'Popular-Vote-Repudiates-Trump' Argument
     
-*   _Ari Berman_: America Is Becoming a Two-Tiered Democracy
+*   _Annie Lowrey_: The 'Madman' Behind Trump's Trade Theory
     
-*   _Steve Miller_: Palm Beach Went For Coloring Books Over New Voting Machines
+*   _Helen Raleigh_: Theresa May's Deal Is a Betrayal of British Voters
     
-*   _David Catron_: Dem Losers: Undignified and Dangerous
+*   _Anne McElvoy_: Sympathy Creeps In for Besieged Theresa May
     
-*   _Peter Bergen_: Finally, Abizaid Will Be an Adult in the Room With the Saudis
+*   _William Shawcross_: Kissinger and I Were Once at Odds, But Let Him Speak
     
-*   _Hans von Spakovsky_: The Attacks on Whitaker Are Baseless
+*   _Michael Walsh_: The Trouble With Climate Change Chicken Littles
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   As Florida Recount Ends, Sen. Nelson Concedes Race to Scott
+*   Judge Bars U.S. From Enforcing Trump Asylum Ban
+*   White House to Restore Acosta's Pass, With a Warning
+*   Nunes: "Fourth Bucket" of Emails Show Info Withheld From FISA Court
 *   Bloomberg Eyes 2020, But Would Dems Warm to Him?
-*   Chris Wallace Interviews President Trump on "Fox News Sunday"
-*   Why 2018 Wasn't a Wave Election
-*   Proxy Advisors: Consequences on Senior Investments
+*   Proxy Advisors: Examining Developments and Looking Forward
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalGallup
-    *   Approve43
-    *   Disapprove53Disapprove +10
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve41
+    *   Disapprove54Disapprove +13
+*   President Trump Job ApprovalCBS News
+    *   Approve39
+    *   Disapprove55Disapprove +16
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve50
     *   Disapprove49Approve +1
-*   Direction of CountryRasmussen Reports
-    *   Right Direction41
-    *   Wrong Track52Wrong Track +11
-*   President Trump Job ApprovalMonmouth
-    *   Approve44
-    *   Disapprove49Disapprove +5
+*   Direction of CountryCBS News
+    *   Right Direction36
+    *   Wrong Track58Wrong Track +22
 
 More Latest Polls In The News
 
+*   Obama: We Are Still Confused, Blind, Shrouded With Hate, Anger, Racism, Mommy Issues
+*   Tucker Carlson vs. Univision Anchor: Is Tijuana Protest Against Migrant Caravan Racist?
+*   Alexandria Ocasio-Cortez: Pelosi Opponents "Not Necessarily Reflective Of The Diversity Of The Party"
+*   Rush Limbaugh: Democrats Tried And Failed To Steal Elections In Florida And Georgia, Racism Blamed
 *   Nunes: We Finished Our Investigation. "Four Buckets Of Information We Want Declassified"
-*   Full FOX News Interview: President Trump on Divided Congress, Mueller, Foreign Policy, Fake News, More
-*   Rep. Adam Schiff: Trump Must Listen to Intelligence Professionals on Khashoggi Murder, Not Saudis
-*   Kirsten Powers: Voting For Trump Because You Didn't Like Hillary Clinton "Doesn't Make You Not Racist"
-*   Tucker Carlson: Turns Out Only Republicans Are Required To Accept Election Outcomes They Don't Like
 
 *   Politics
 *   Policy
