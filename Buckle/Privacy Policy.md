@@ -301,6 +301,7 @@ BLACK FRIDAY: UP TO 75% OFF SALE + MORE HOLIDAY SPECIALS. SHOP NOW.
         *   Sale Under $25
         *   Spring &. Summer Sale
         *   Fall &. Winter Sale
+        *   Holiday Specials
         
         *   Women's Sale
         
@@ -457,12 +458,14 @@ Returns
 
 Promotions
 
-*   All Promotions
+*   Free Dual Drink Holder
 *   Store Events
 *   Military Discount
+*   All Promotions
 
 Sweepstakes Official Rules/Winners
 
+*   Ratings and Reviews Giveaway Official Rules
 *   Social Give Away Official Rules
 *   Sweepstakes Winners
 
