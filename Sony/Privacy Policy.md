@@ -117,7 +117,7 @@ Big City, Meet Little aibo
 
 Your house. His home. Watch the @IntruderMovie trailer now and experience it in theaters this April. #TheIntruder pic.twitter.com/ffPqNfiu0R
 
-13 hours ago
+1 day ago
 
 View Tweet
 
