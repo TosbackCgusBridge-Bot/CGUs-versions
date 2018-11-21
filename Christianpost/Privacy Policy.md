@@ -10,14 +10,6 @@ Skip to main content <p class="enable-js">. To enjoy our website, you'll need to
 *   Voices
 *   Video
 
-Trending:
-
-*   Witches
-*   Episcopal Church
-*   Prison Reform
-*   Unchurched
-*   Christian persecution
-
 Menu Search P404 Newsletter Close Menu 404 Page not found
 
 Oops! This page is not available.  
@@ -37,11 +29,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Witches
-*   Episcopal Church
-*   Prison Reform
-*   Unchurched
+*   Christian marriage
+*   Sex ed
 *   Christian persecution
+*   Witches
+*   Unchurched
 
 About Us
 
