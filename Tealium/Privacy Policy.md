@@ -33,9 +33,9 @@
     *   Brand Assets
     *   Contact
 *   Blog
-*   Docs
-    *   Overview
-    *   Product Guide
+*   For Developers
+    *   Docs Overview
+    *   Product Guides
     *   Forum
 *   Login
 
@@ -75,8 +75,8 @@
     *   Contact
 *   Blog
 *   Docs
-    *   Overview
-    *   Product Guide
+    *   Docs Overview
+    *   Product Guides
     *   Forum
 *   Login
 
