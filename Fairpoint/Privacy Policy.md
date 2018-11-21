@@ -506,7 +506,6 @@ Residential Support
 *   Internet &. Email Support
 *   TV Support
 *   Phone Support
-*   Home Security Support
 *   Refer a Friend
 *   Lifeline &. Assistance Programs
 
