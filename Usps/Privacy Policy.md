@@ -20,10 +20,8 @@ End of sub links*   What We're Doing go to Newsroom header
 End of sub links*   Newsroom go to Careers header
     *   National News
     *   Local News
-    *   Electronic News Kits
     *   Testimony &. Speeches
     *   Broadcast Downloads
-    *   Audio Downloads
     *   Events Calendar
     *   Photo Gallery
     *   Service Alerts
@@ -65,10 +63,8 @@ End top navigation Search
     *   Overview
     *   National News
     *   Local News
-    *   Electronic News Kits
     *   Testimony &. Speeches
     *   Broadcast Downloads
-    *   Audio Downloads
     *   Events Calendar
     *   Photo Gallery
     *   Service Alerts
