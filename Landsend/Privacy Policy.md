@@ -65,11 +65,11 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     WOMEN'S SHOES >
     
+    *   Winter Boots
     *   Boots
     *   Slippers
     *   Casual &. Comfortable Shoes
     *   Slip-On Flats &. Loafers
-    *   Sandals
     
     WOMEN'S ACCESSORIES >WOMEN'S BAGS >FEATURED SHOPS
     *   New Arrivals
@@ -522,11 +522,11 @@ Lands' End Sign In menu
     *   WOMEN'S SHOES
         *   Back
         *   View All
+        *   Winter Boots
         *   Boots
         *   Slippers
         *   Casual &. Comfortable Shoes
         *   Slip-On Flats &. Loafers
-        *   Sandals
     *   WOMEN'S ACCESSORIES
     *   WOMEN'S BAGS
     *   FEATURED SHOPS
@@ -989,9 +989,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles. plus, today only, $30 women's Supima Christmas sweaters\*!
+Receive 40% off full-price styles. plus, today only, $20 CashTouch throws!
 
-code: SPICE pin: 4587 DETAILS
+code: HOME pin: 9642 DETAILS
 
 Customer Service Menu
 
