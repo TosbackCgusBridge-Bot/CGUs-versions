@@ -70,7 +70,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Major Franchise Sequels: 'Glass,' 'Avengers 4,' 'John Wick 3' Read More
+    *   'The Possession of Hannah Grace' May Scare the Dead Back to Life. Here's Everything We Know Read More
     *   'The Lego Movie 2: The Second Part': Watch Funny New Trailer Read More
     *   Truth Lies Beneath the Surface in New 'Serenity' Trailer. Here's Everything We Know Read More
     
@@ -328,9 +328,9 @@ Offers
     
     Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
-*   Get $5 off with Google Pay
+*   'Boy Erased' Donation
     
-    Use code GPAYMOVIES at checkout. BUY TICKETS
+    To give thanks to moviegoers seeing BOY ERASED, Focus Features will support LGBTQ organizations with a donation to their organizations. BUY TICKETS
     
 
 New + Coming soon
@@ -377,8 +377,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango **Help Us Make Fandango Better!** You have been selected to take part in a brief customer satisfaction survey to let us know how we can improve your experience.    
-  
-This survey is designed to measure your overall Fandango experience, please look for it at the conclusion of your visit.  
-Thank you – your feedback is important to us!  
- Yes, I'll leave feedback
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
