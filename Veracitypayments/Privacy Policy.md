@@ -117,4 +117,4 @@ CALL US
 
 **Sales:** (855) 712-8539
 
-Copyright © 2018 Vanco. All rights reserved. Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+Copyright © 2018 Vanco. All rights reserved. Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. load font
