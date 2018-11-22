@@ -1,16 +1,18 @@
-*   KC9-251LA10-154Final
-*   GB4-5-124SEA5-527Final
-*   DAL5-522ATL4-619Final
-*   CIN5-521BAL5-524Final
-*   CAR6-419DET4-620Final
-*   TEN5-510IND5-538Final
-*   TB3-735NYG3-738Final
-*   HOU7-323WAS6-421Final
-*   PIT7-2-120JAX3-716Final
-*   OAK2-823ARI2-821Final
-*   DEN4-623LAC7-322Final
-*   PHI4-67NO9-148Final
-*   MIN5-4-120CHI7-325Final
+*   CHI7-3DET4-6Thu, 12:30 pm ET
+*   WAS6-4DAL5-5Thu, 4:30 pm ET
+*   ATL4-6NO9-1Thu, 8:20 pm ET
+*   OAK2-8BAL5-5Sun, 1:00 pm ET
+*   JAX3-7BUF3-7Sun, 1:00 pm ET
+*   SEA5-5CAR6-4Sun, 1:00 pm ET
+*   CLE3-6-1CIN5-5Sun, 1:00 pm ET
+*   NE7-3NYJ3-7Sun, 1:00 pm ET
+*   NYG3-7PHI4-6Sun, 1:00 pm ET
+*   SF2-8TB3-7Sun, 1:00 pm ET
+*   ARI2-8LAC7-3Sun, 4:05 pm ET
+*   MIA5-5IND5-5Sun, 4:25 pm ET
+*   PIT7-2-1DEN4-6Sun, 4:25 pm ET
+*   GB4-5-1MIN5-4-1Sun, 8:20 pm ET
+*   TEN5-5HOU7-3Mon, 8:15 pm ET
 
 *   News
 *   Scores
@@ -29,19 +31,21 @@
 *   NFL Network
 *   Photos
 
-*   KC51LA54Final
-*   GB24SEA27Final
-*   DAL22ATL19Final
-*   CIN21BAL24Final
-*   CAR19DET20Final
-*   TEN10IND38Final
-*   TB35NYG38Final
-*   HOU23WAS21Final
-*   PIT20JAX16Final
-*   OAK23ARI21Final
-*   DEN23LAC22Final
-*   PHI7NO48Final
-*   MIN20CHI25Final
+*   CHI7-3DET4-6Thu, 12:30 pm ET
+*   WAS6-4DAL5-5Thu, 4:30 pm ET
+*   ATL4-6NO9-1Thu, 8:20 pm ET
+*   OAK2-8BAL5-5Sun, 1:00 pm ET
+*   JAX3-7BUF3-7Sun, 1:00 pm ET
+*   SEA5-5CAR6-4Sun, 1:00 pm ET
+*   CLE3-6-1CIN5-5Sun, 1:00 pm ET
+*   NE7-3NYJ3-7Sun, 1:00 pm ET
+*   NYG3-7PHI4-6Sun, 1:00 pm ET
+*   SF2-8TB3-7Sun, 1:00 pm ET
+*   ARI2-8LAC7-3Sun, 4:05 pm ET
+*   MIA5-5IND5-5Sun, 4:25 pm ET
+*   PIT7-2-1DEN4-6Sun, 4:25 pm ET
+*   GB4-5-1MIN5-4-1Sun, 8:20 pm ET
+*   TEN5-5HOU7-3Mon, 8:15 pm ET
 
 *   News
 *   Scores
