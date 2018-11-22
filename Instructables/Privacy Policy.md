@@ -429,6 +429,7 @@ Buying
 *   Download your software
 *   Returns &. refunds
 *   Subscription renewal
+*   Call us: 1-855-301-9562
 
 Support &. Learning
 
@@ -485,6 +486,7 @@ Buying
 *   Download your software
 *   Returns &. refunds
 *   Subscription renewal
+*   Call us: 1-855-301-9562
 
 Support &. Learning
 
