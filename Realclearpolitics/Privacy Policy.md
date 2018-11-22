@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Gov. Jay Inslee_: Democrats: Look to Your Governors to Beat Trump
+*   _Mollie Hemingway_: Establishment Gets Trump's Saudi Posture All Wrong
     
-*   _Jeremy Frankel_: How the Republicans Won Florida
+*   _Maria Cardona_: Dems Need Their Top General - Pelosi - in Age of Trump
     
-*   _Alex Shephard_: The Toothless Rebellion Against Nancy Pelosi
+*   _Michael Goodwin_: 'Trump Imitation Syndrome' Afflicting President's Enemies
     
-*   _President Donald Trump_: On Standing With Saudi Arabia and America First
+*   _Anonymous_: Diary of an Amazon Warehouse Worker
     
-*   _Wesley Clark_: I Served 8 Commanders in Chief. Trump Doesn't Grasp the Role.
+*   _Daniel Sobieski_: Two Americas: De Blasio's Amazon vs. Trump's Walmart
     
-*   _Noah Rothman_: Kavanaugh, the Court and Social-Justice Injustice
+*   _David Graham_: The Military Has Become Trump's Favorite Prop
     
-*   _Paul Starr_: How Democrats Finally Won With Health Care
+*   _Edward Chang_: Media Tries to Conscript Generals Into Their Anti-Trump War
     
-*   _Bill Zeiser_: The Trouble With 'Half True' Fact-Checking Verdicts
+*   _Gary Abernathy_: Trump Honoring Elvis? It's About Time
     
-*   _Bill Gates_: Want to Understand Silicon Valley? Watch 'Silicon Valley'
+*   _Carl Cannon_: 11/21/63: A Fateful Trip Begins With Hope, Trepidation
     
-*   _Ned Ryun_: Why It's Crucial That U.S. Beat China in Race to Build 5G Tech
+*   _Edward-Isaac Dovere_: Obama: Trump Doesn't Share His Vision of America
     
-*   _Abdulla Bin Rashid Al Khalifa_: Understanding Bahrain's Upcoming Elections
+*   _Lauren Appell_: Thanks to Trump, U.S. Better Off Than It Was 2 Years Ago
     
-*   _Lisa Boothe_: Democrats, the Party of Sore Losers
+*   _Dahlia Lithwick_: Trump Is Losing His War Against the Courts
     
-*   _Eugene Robinson_: Trump Grows More Desperate, Pathetic by the Day
+*   _Thomas Jipping_: 5 Yrs After Going Nuclear, Dems Reap What They Sowed
     
-*   _Byron York_: Acosta Decision Could Make It Easier to Kick Reporters Out
+*   _Thomas Friedman_: Oil, Guns &. Morals: Trump's Black Friday Sale
     
-*   _Melinda Henneberger_: Pelosi Earned Gavel, and the Right to Train Successor
+*   _John Bradley_: Trump Wise to Ignore Media's Moral Preening &. Hypocrisy
     
-*   _Bade &. Caygle_: Pelosi's Bid for Speaker Imperiled as Opposition Grows
+*   _Nate Silver_: Of Course 2018 Was a Wave
     
-*   _Kushner &. Philipson_: Criminal Justice Reform Can Cuts Costs, Recidivism
+*   _David Catron_: Defining the Blue Wave Down
     
-*   _Jelani Cobb_: The Crucial Significance of McBath's Win in Georgia
+*   _Jamil Smith_: Stacey Abrams: The Exit Interview
     
-*   _Paul Sperry_: 5 Flaws in 'Popular-Vote-Repudiates-Trump' Argument
+*   _Bernie Marcus_: Georgia Businesses Victims of Abrams' Sour Grapes
     
-*   _Annie Lowrey_: The 'Madman' Behind Trump's Trade Theory
+*   _Chris Smith_: Why Sherrod Brown Has an Edge on Sanders &. Warren
     
-*   _Helen Raleigh_: Theresa May's Deal Is a Betrayal of British Voters
+*   _Matthew Walther_: Liberals' Infantile Beto Fantasy
     
-*   _Anne McElvoy_: Sympathy Creeps In for Besieged Theresa May
+*   _Betsy DeVos_: It's Time to Balance Scales of Justice in Our Schools
     
-*   _William Shawcross_: Kissinger and I Were Once at Odds, But Let Him Speak
+*   _Amanda Marcotte_: Betsy DeVos Moves to Silence Sexual Abuse Victims
     
-*   _Michael Walsh_: The Trouble With Climate Change Chicken Littles
+*   _Thomas Sowell_: The Moral Bankruptcy of Charter School Opponents
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Says U.S. Stands With Saudi Arabia Despite Khashoggi Killing
+*   Challenges to Trump in 2020 Starting to Take Shape?
+*   Graham to Saudi Arabia: Replace MBS With Someone Who Is Not Crazy
 *   Judge Bars U.S. From Enforcing Trump Asylum Ban
-*   White House to Restore Acosta's Pass, With a Warning
-*   Nunes: "Fourth Bucket" of Emails Show Info Withheld From FISA Court
-*   Bloomberg Eyes 2020, But Would Dems Warm to Him?
-*   Proxy Advisors: Examining Developments and Looking Forward
+*   Proxy Advisors: Why Investors Should Be Concerned
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve41
-    *   Disapprove54Disapprove +13
-*   President Trump Job ApprovalCBS News
-    *   Approve39
-    *   Disapprove55Disapprove +16
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve45
+    *   Disapprove53Disapprove +8
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
-*   Direction of CountryCBS News
-    *   Right Direction36
-    *   Wrong Track58Wrong Track +22
+    *   Approve51
+    *   Disapprove48Approve +3
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve44
+    *   Disapprove51Disapprove +7
+*   Congressional Job ApprovalReuters/Ipsos
+    *   Approve30
+    *   Disapprove60Disapprove +30
 
 More Latest Polls In The News
 
+*   Scarborough: Trump Isn't Thinking About Re-Election, But All The Money He Can Make As Ex-President
+*   Full Debate: Republican Sen. Cindy Hyde-Smith vs. Democratic Candidate Mike Espy
 *   Obama: We Are Still Confused, Blind, Shrouded With Hate, Anger, Racism, Mommy Issues
 *   Tucker Carlson vs. Univision Anchor: Is Tijuana Protest Against Migrant Caravan Racist?
-*   Alexandria Ocasio-Cortez: Pelosi Opponents "Not Necessarily Reflective Of The Diversity Of The Party"
 *   Rush Limbaugh: Democrats Tried And Failed To Steal Elections In Florida And Georgia, Racism Blamed
-*   Nunes: We Finished Our Investigation. "Four Buckets Of Information We Want Declassified"
 
 *   Politics
 *   Policy
