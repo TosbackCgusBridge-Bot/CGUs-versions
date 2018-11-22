@@ -57,7 +57,7 @@ We collect User Information across our Services, including as follows:
 *   When you use the Services, we collect information about your search and click activity;
 *   We may collect or receive information about you when you sign up for a sweepstakes, contest or other giveaway or promotion (**"Promotions"**) offered by us or our partners;
 *   We may collect your user-generated content (for example, photos that you take or upload, comments that you provide or workout routines that you create, or URL links);
-*   The POPSUGAR What The Face app includes the TrueDepth API technology that has face recognition and the ability to collect information used to identify you, but we do not use those technologies to gather any data in any way (incidental or otherwise) in this app;
+*   The POPSUGAR What The Face and Staring Contest app include the TrueDepth API technology that has face recognition and the ability to collect information used to identify you, but we do not use those technologies to gather any data in any way (incidental or otherwise) in this app;
 *   When you make a purchase through our Services, we or our vendors may also collect your information as set forth below under WHAT INFORMATION WE SHARE WITH THIRD PARTIES;
 *   When you send an email to us, we will receive your email address and other information associated with your request;
 *   Your Personal Information may be provided by other users of the Services (for example, when another user gives you a gift subscription of our "Must Have" box Service and provides your email in connection with the gift);
