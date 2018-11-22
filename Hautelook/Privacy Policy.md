@@ -4,20 +4,43 @@ Nordstrom RackHauteLook
 *   Help
 *   Invite a Friend, Get $20
 
-CartYou have no items in your cartStart shopping now to take advantage of prices up to 75% off.HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
+CartYou have no items in your cartStart shopping now to take advantage of prices up to 75% off.HauteLookFREE SHIPPING SITEWIDE on Standard Orders, Now Through Monday!\*
 
 *   All EventsShop Sale Events
     
-    *   Rebecca Minkoff Handbags Up to 55% Off
-    *   Rebecca Minkoff Starting at $25
-    *   Thomas Pink Up to 70% Off
-    *   Z By Zella Incl. Plus
+    *   Dooney &. Bourke
+    *   Nanette Nanette Lepore Up to 80% Off
+    *   DD+ Bra Faves ft. Wacoal Up to 60% Off
+    *   CALPAK Luggage
+    *   Seven7 Under $45
+    *   Meghan LA Up to 80% Off
+    *   Splendid Up to 50% Off
+    *   14K Gold &. More Under $80
+    *   SUSINA and 14th &. Union Incl. Plus and Petites
+    *   Parke &. Ronen Up to 55% Off
+    *   Edward Bess Cosmetics
+    *   Wear-to-Work Shoes ft. Tahari Up to 50% Off
+    *   Men's Denim Under $60
+    *   Ready for Anything: Utility Backpacks &. More
+    *   Hush Puppies Starting at $40
+    *   On-Trend Kids' Styles from Deux Par Deux
+    *   Handcrafted in Colombia: Mishky Jewelry
+    *   Fun Footwear: Kids' Shoes Up to 55% Off
+    *   Blackstone Up to 60% Off
+    *   First-Class Skin Care Treatments
+    *   Free Shipping: Pop Art Pillows
+    *   Free Shipping: Trolley Carts &. More
+    *   Free Shipping: Professional Garment Steamers
+    *   Pink Owl
     *   Le Creuset
     *   Free Shipping: Modern Flatware
     *   Warm &. Inviting: Simple Soy Candle Co.
-    *   Tis the Season: Mantelpiece &. Tree Decor
+    *   Rebecca Minkoff Handbags Up to 55% Off
+    *   Rebecca Minkoff Starting at $25
+    
     *   Rebecca Minkoff Jewelry &. More Up to 50% Off
     *   Rebecca Minkoff Shoes Up to 50% Off
+    *   Thomas Pink Up to 70% Off
     *   Polished Perfection: Dresses, Coats &. More
     *   skinChemists
     *   Mezlan
@@ -31,91 +54,68 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   XRAY Up to 75% Off
     *   Get Gifting: Cufflinks &. More Up to 60% Off
     *   The Original Makeup Eraser
-    *   Slate &. Stone Up to 75% Off
-    *   Fall Favorites from Brands We Love
     *   Hudson Jeans
     *   Freida Rothman Jewelry
-    *   1.STATE Starting at $40
-    *   John &. Jenn and More
-    *   Leather Handbag Staples Starting at $50
-    *   POL Clothing
     *   Hudson Jeans Kids Up to 50% Off
     *   Free Shipping: Plush Hooded Throws &. More
-    *   Need Now: On-Trend Textures, Prints &. More
-    
     *   Celebrity Strands Hair Extensions &. More
-    *   Hosiery ft. Wolford
-    *   Crocs for the Family
-    *   The Sak
-    *   Gentle Souls by Kenneth Cole
-    *   LOVE Moschino Up to 55% Off
     *   Sophisticated Looks for Girls ft. Llum
     *   Earth Wood Watches Up to 70% Off
     *   Aquatalia Men
     *   Arka Tees Under $20
-    *   Free Shipping: Celeb-Inspired Pet Decor
-    *   Vintage-Inspired Mirrors, Decor &. More
-    *   Guest Ready: Bath Towels &. More Up to 80% Off
+    *   Men's Packable Outerwear
+    *   Tis the Season: Mantelpiece &. Tree Decor
+    *   Slate &. Stone Up to 75% Off
+    *   Z By Zella Incl. Plus
+    
+    *   Fall Favorites from Brands We Love
     *   Free Shipping: Kitchen Must-Haves Up to 65% Off
-    *   Gemstone Jewelry Finds Up to 80% Off
-    *   Lady Luxe: Silk &. Satin Styles Blowout
-    *   Boots &. Mules Starting at $20
     *   Vanity Planet Beauty Up to 70% Off
     *   Finds for Winter: Men's Blowout
     *   Kenneth Cole New York Men
     *   Bruno Magli Men
     *   by Terry Cosmetics
     *   kate spade new york Home Starting at $10
-    *   Bright &. Bold: Kids' Styles ft. Toobydoo
     *   B52 by Bullboxer
     *   Rosso Milano Starting at $13
     *   Treat Yourself: Bath Bombs, Bubble Bars &. More
-    *   See Kai Run
-    *   Million Polkadots
-    *   Sunday Funday: DIY for Kids
-    *   Electric Yoga Maternity
+    *   Free Shipping: Celeb-Inspired Pet Decor
+    *   Vintage-Inspired Mirrors, Decor &. More
     *   Men's Shoes Up to 65% Off
-    *   CZ by Kenneth Jay Lane Up to 70% Off
-    *   ASICS
-    
+    *   Guest Ready: Bath Towels &. More Up to 80% Off
     *   Pur Cosmetics
-    *   Blue Topaz Jewelry &. More Starting at $15
-    *   Lucky Brand Men Starting at $10
     *   Free Shipping: Fine Art Up to 85% Off
-    *   304
     *   Free Shipping: Colorful Kantha Throws &. More
-    *   Bespoke Up to 80% Off
     *   Free Shipping: Embroidered Pillows, Throws &. More
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Diamonds, Gemstones &. More Up to 80% Off
-    *   Perfect Presents: Luxe Beauty &. Hair Tools
     *   Free Shipping: Holiday Pillows &. Throws
     *   Free Shipping: Accent Furniture You'll Love
-    *   Men's Packable Outerwear
-    *   Festive Looks for Little Fashionistas
-    *   A+ Gifts: Preschool Prep Company
-    *   ASICS Men
     *   Free Shipping: Modern Art Prints &. More
-    *   Max Studio
-    *   On-Trend Sweaters Under $30
     *   Bling on the Holidays: Tree Trimmings
-    *   Go Couture Dresses Up to 75% Off
-    *   Kitchen Electrics &. More Starting at $20
-    *   Free Shipping: Wall Murals &. More
-    *   Modern Accent Furniture &. More
-    *   Gifts for Pet Lovers Starting at $10
-    *   Tommy Hilfiger
-    *   Hudson Jeans Men Up to 60% Off
-    *   Insight Up to 75% Off
-    *   Tattly Temporary Tattoos
-    *   Glow On: Sheet Masks &. More ft. It's Skin
     *   Portable Drinkware &. More from $10
+    *   Kitchen Electrics &. More Starting at $20
+    *   Hudson Jeans Men Up to 60% Off
 *   WomenShop Sale Events
     
+    *   Dooney &. Bourke
+    *   Nanette Nanette Lepore Up to 80% Off
+    *   DD+ Bra Faves ft. Wacoal Up to 60% Off
+    *   CALPAK Luggage
+    *   Seven7 Under $45
+    *   Meghan LA Up to 80% Off
+    *   Splendid Up to 50% Off
+    *   14K Gold &. More Under $80
+    *   SUSINA and 14th &. Union Incl. Plus and Petites
+    *   Edward Bess Cosmetics
+    *   Wear-to-Work Shoes ft. Tahari Up to 50% Off
+    *   Hush Puppies Starting at $40
+    *   Handcrafted in Colombia: Mishky Jewelry
+    *   First-Class Skin Care Treatments
+    *   Pink Owl
     *   Rebecca Minkoff Handbags Up to 55% Off
     *   Rebecca Minkoff Starting at $25
-    *   Z By Zella Incl. Plus
     *   Rebecca Minkoff Jewelry &. More Up to 50% Off
+    
     *   Rebecca Minkoff Shoes Up to 50% Off
     *   Polished Perfection: Dresses, Coats &. More
     *   skinChemists
@@ -123,143 +123,108 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Lucchese: Handmade Since 1883
     *   Ramarim Starting at $20
     *   The Original Makeup Eraser
-    *   Fall Favorites from Brands We Love
     *   Hudson Jeans
     *   Freida Rothman Jewelry
-    *   1.STATE Starting at $40
-    *   John &. Jenn and More
-    *   Leather Handbag Staples Starting at $50
-    *   POL Clothing
-    *   Need Now: On-Trend Textures, Prints &. More
     *   Celebrity Strands Hair Extensions &. More
-    *   Hosiery ft. Wolford
-    *   Crocs for the Family
-    *   The Sak
-    
-    *   Gentle Souls by Kenneth Cole
-    *   LOVE Moschino Up to 55% Off
     *   Earth Wood Watches Up to 70% Off
-    *   Gemstone Jewelry Finds Up to 80% Off
-    *   Lady Luxe: Silk &. Satin Styles Blowout
-    *   Boots &. Mules Starting at $20
+    *   Z By Zella Incl. Plus
+    *   Fall Favorites from Brands We Love
     *   Vanity Planet Beauty Up to 70% Off
     *   by Terry Cosmetics
     *   Treat Yourself: Bath Bombs, Bubble Bars &. More
-    *   Electric Yoga Maternity
-    *   CZ by Kenneth Jay Lane Up to 70% Off
     *   Pur Cosmetics
-    *   Blue Topaz Jewelry &. More Starting at $15
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Diamonds, Gemstones &. More Up to 80% Off
-    *   Perfect Presents: Luxe Beauty &. Hair Tools
-    *   Max Studio
-    *   On-Trend Sweaters Under $30
-    *   Go Couture Dresses Up to 75% Off
-    *   Tommy Hilfiger
-    *   Insight Up to 75% Off
-    *   Tattly Temporary Tattoos
-    *   Glow On: Sheet Masks &. More ft. It's Skin
     
     Shop By Category
     *   Clothing
+    *   Lingerie
     *   Shoes
     *   Jewelry
     *   Handbags
     *   Accessories
     *   Watches
-    *   Lingerie
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   CALPAK Luggage
+    *   Parke &. Ronen Up to 55% Off
+    *   Men's Denim Under $60
+    *   Ready for Anything: Utility Backpacks &. More
+    *   Blackstone Up to 60% Off
     *   Thomas Pink Up to 70% Off
     *   Mezlan
     *   Swims Up to 65% Off
     *   XRAY Up to 75% Off
     *   Get Gifting: Cufflinks &. More Up to 60% Off
-    *   Slate &. Stone Up to 75% Off
-    *   Crocs for the Family
     *   Earth Wood Watches Up to 70% Off
+    
     *   Aquatalia Men
     *   Arka Tees Under $20
+    *   Men's Packable Outerwear
+    *   Slate &. Stone Up to 75% Off
     *   Finds for Winter: Men's Blowout
     *   Kenneth Cole New York Men
-    
     *   Bruno Magli Men
     *   B52 by Bullboxer
     *   Rosso Milano Starting at $13
     *   Men's Shoes Up to 65% Off
-    *   ASICS
-    *   Lucky Brand Men Starting at $10
-    *   304
-    *   Bespoke Up to 80% Off
-    *   Men's Packable Outerwear
-    *   ASICS Men
     *   Hudson Jeans Men Up to 60% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   On-Trend Kids' Styles from Deux Par Deux
+    *   Fun Footwear: Kids' Shoes Up to 55% Off
     *   To Grandma's House: Wildkin Travel Accessories
     *   Character Craze: Kids' Tees &. More
     *   Tahari Girls' Shoes Up to 55% Off
     *   Hudson Jeans Kids Up to 50% Off
-    *   Crocs for the Family
     *   Sophisticated Looks for Girls ft. Llum
-    *   Bright &. Bold: Kids' Styles ft. Toobydoo
-    
-    *   See Kai Run
-    *   Million Polkadots
-    *   Sunday Funday: DIY for Kids
-    *   Electric Yoga Maternity
-    *   Festive Looks for Little Fashionistas
-    *   A+ Gifts: Preschool Prep Company
     
     Shop By Category
-    *   Girls Sizes 7-16
     *   Girls' Shoes
+    *   Girls Sizes 7-16
     *   Girls Sizes 2T-6X
     *   Boys Sizes 2T-7
-    *   Boys' Shoes
-    *   Baby Girl
     *   Boys Sizes 8-20
     *   Baby Boy
-    *   Toys
+    *   Baby Girl
+    *   Boys' Shoes
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Pop Art Pillows
+    *   Free Shipping: Trolley Carts &. More
+    *   Free Shipping: Professional Garment Steamers
     *   Le Creuset
     *   Free Shipping: Modern Flatware
     *   Warm &. Inviting: Simple Soy Candle Co.
-    *   Tis the Season: Mantelpiece &. Tree Decor
     *   Free Shipping: Plush Hooded Throws &. More
-    *   Free Shipping: Celeb-Inspired Pet Decor
-    *   Vintage-Inspired Mirrors, Decor &. More
-    *   Guest Ready: Bath Towels &. More Up to 80% Off
+    *   Tis the Season: Mantelpiece &. Tree Decor
     *   Free Shipping: Kitchen Must-Haves Up to 65% Off
     *   kate spade new york Home Starting at $10
-    *   Free Shipping: Fine Art Up to 85% Off
+    *   Free Shipping: Celeb-Inspired Pet Decor
     
+    *   Vintage-Inspired Mirrors, Decor &. More
+    *   Guest Ready: Bath Towels &. More Up to 80% Off
+    *   Free Shipping: Fine Art Up to 85% Off
     *   Free Shipping: Colorful Kantha Throws &. More
     *   Free Shipping: Embroidered Pillows, Throws &. More
     *   Free Shipping: Holiday Pillows &. Throws
     *   Free Shipping: Accent Furniture You'll Love
     *   Free Shipping: Modern Art Prints &. More
     *   Bling on the Holidays: Tree Trimmings
-    *   Kitchen Electrics &. More Starting at $20
-    *   Free Shipping: Wall Murals &. More
-    *   Modern Accent Furniture &. More
-    *   Gifts for Pet Lovers Starting at $10
     *   Portable Drinkware &. More from $10
+    *   Kitchen Electrics &. More Starting at $20
     
     Shop By Category
     *   Holiday Decorations
-    *   Kitchen &. Tabletop
     *   Home Decor
-    *   Accent Furniture
+    *   Kitchen &. Tabletop
     *   Luggage &. Travel
     *   Bedding
     *   Bath
@@ -267,22 +232,21 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Storage &. Organization
 *   BeautyShop Sale Events
     
+    *   Edward Bess Cosmetics
+    *   First-Class Skin Care Treatments
     *   skinChemists
     *   The Original Makeup Eraser
     *   Celebrity Strands Hair Extensions &. More
     *   Vanity Planet Beauty Up to 70% Off
     *   by Terry Cosmetics
     *   Treat Yourself: Bath Bombs, Bubble Bars &. More
-    
     *   Pur Cosmetics
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Perfect Presents: Luxe Beauty &. Hair Tools
-    *   Tattly Temporary Tattoos
-    *   Glow On: Sheet Masks &. More ft. It's Skin
     
     Shop By Category
-    *   Bath &. Body
     *   Makeup
+    *   Skin Care
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -470,4 +434,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
+Shipping &. ReturnsFree Shipping is valid on U.S. ground flat-rate standard shipping for any qualifying transaction, pretax, made between 9:01 PM PST on Wednesday, November 21, 2018, and 11:59 PM PST on Monday, November 26, 2018. Free Shipping is not valid on orders placed with Next Business-Day or Two Business-Day shipping. Product exclusions or additional shipping charges may apply, and will be reflected in the customer's cart. Credit will not be granted if transaction is canceled or item(s) are returned. Nordstromrack.com | HauteLook reserves the right to suspend or terminate this offer at any time.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
