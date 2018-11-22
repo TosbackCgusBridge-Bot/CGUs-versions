@@ -10,8 +10,7 @@
     *   New!
     
     Occasions*   Christmas
-    *   Thanksgiving
-    *   Birthday GiftsMost Popular New! Thanksgiving Gifts
+    *   Birthday GiftsMost Popular Fruit Baskets Christmas Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -61,14 +60,13 @@
 *   Holiday
     
     View All Categories Shop by Category*   Christmas Gifts
-    *   Thanksgiving Gifts
     *   Entertaining
     *   Stocking Stuffers
     
     Occasions*   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Thanksgiving Gifts
+    *   Graduation &. CongratulationsMost Popular Christmas Gifts
 *   Sale
 *   New!
 
@@ -92,8 +90,7 @@
     *   New!
     
     Occasions*   Christmas
-    *   Thanksgiving
-    *   Birthday GiftsMost Popular New! Thanksgiving Gifts
+    *   Birthday GiftsMost Popular Fruit Baskets Christmas Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -143,14 +140,13 @@
 *   Holiday
     
     View All Categories Shop by Category*   Christmas Gifts
-    *   Thanksgiving Gifts
     *   Entertaining
     *   Stocking Stuffers
     
     Occasions*   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Thanksgiving Gifts
+    *   Graduation &. CongratulationsMost Popular Christmas Gifts
 *   Sale
 *   New!
 
