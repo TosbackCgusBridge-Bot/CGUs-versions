@@ -48,7 +48,7 @@ See all About O’Reilly
 *   Tim O'Reilly
 *   Editorial Independence
 
-Privacy Policy This version (Version 4.2) is effective as of October 10, 2018.
+Privacy Policy This version (Version 4.3) is effective as of November 21, 2018.
 
 *   Overview
 *   About Us
@@ -102,7 +102,11 @@ The contact information above should also be used for communications relating to
 
 If we do not resolve your question or concern satisfactorily, then please contact our U.S.-based third party dispute resolution providers (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
-Our EU Representative: As we, O'Reilly Media, Inc. and Safari Books Online, LLC, are not established in the EU, we have appointed O'Reilly UK Limited as our EU representative whom you may contact if you are located in the EU to raise any issues or queries you have have relating to our processing of your personal information and/or this Privacy Policy more generally. Our EU representative's contact details are:
+For O’Reilly inquiries:
+
+For Safari inquiries:
+
+Our EU Representative: As we, O'Reilly Media, Inc. and Safari Books Online, LLC, are not established in the EU, we have appointed O'Reilly UK Limited as our EU representative whom you may contact if you are located in the EU to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. Our EU representative's contact details are:
 
 FAO
 
@@ -290,13 +294,13 @@ You can also play a part in keeping your information safe by:
 
 O'Reilly and Safari are both based in the United States of America.
 
-5.1 Safari Privacy Shield Certification
+5.1 Privacy Shield Certification
 
-Safari (and entities and subsidiaries that are, or may become, covered by Safari's privacy shield certification) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively the "Privacy Shield Framework"). Safari is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland ("Privacy Shield Covered Data"), respectively, in reliance on each Privacy Shield Framework, to the Framework's applicable Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability, including the 16 supplemental principles described in each Privacy Shield Framework (collectively, the "Privacy Shield Principles"). Safari has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield Framework and to view Safari's certification, please visit the U.S. Department of Commerce's Privacy Shield List available at https://www.privacyshield.gov. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Additionally, Safari may protect your data through other legally-valid methods, including international data transfer agreements.
+O'Reilly Media, Inc. and Safari Books Online, LLC (and entities and subsidiaries that are, or may become, covered by O'Reilly or Safari's privacy shield certification) participates in and have certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively the "Privacy Shield Framework"). O'Reilly and Safari are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland ("Privacy Shield Covered Data"), respectively, in reliance on each Privacy Shield Framework, to the Framework's applicable Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability, including the 16 supplemental principles described in each Privacy Shield Framework (collectively, the "Privacy Shield Principles"). O'Reilly and Safari have each certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield Framework and to view O'Reilly and Safari's certifications, please visit the U.S. Department of Commerce's Privacy Shield List available at https://www.privacyshield.gov. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Additionally, O'Reilly and Safari may protect your data through other legally-valid methods, including international data transfer agreements.
 
-Under the Privacy Shield Framework, Safari collects, uses, and discloses Privacy Shield Covered Data for the purposes described in this Policy. Under the Privacy Shield Framework, as described in Section 6 below, you may inquire as to whether Safari is processing personal information about you, request access to Personal Information, and ask that we correct, amend or delete your personal information where it is inaccurate or has been processed in violation of the Privacy Shield Principles. Safari is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Privacy Shield requires that Safari remain liable should its third parties process personal information in a manner inconsistent with the Privacy Shield Principles. Safari complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+Under the Privacy Shield Framework, O'Reilly and Safari collect, use, and disclose Privacy Shield Covered Data for the purposes described in this Policy. Under the Privacy Shield Framework, as described in Section 6 below, you may inquire as to whether O'Reilly and/or Safari is processing personal information about you, request access to Personal Information, and ask that we correct, amend or delete your personal information where it is inaccurate or has been processed in violation of the Privacy Shield Principles. O'Reilly and Safari are responsible for the processing of personal data each receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Privacy Shield requires that O'Reilly and Safari remain liable should its third parties process personal information in a manner inconsistent with the Privacy Shield Principles. O'Reilly and Safari comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to Privacy Shield Covered Data received or transferred pursuant to the Privacy Shield Framework, Safari is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (the "FTC"). The FTC has jurisdiction over Safari's compliance with the Privacy Shield Framework. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to Privacy Shield Covered Data received or transferred pursuant to the Privacy Shield Framework, O'Reilly and Safari are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (the "FTC"). The FTC has jurisdiction over O'Reilly and Safari's compliance with the Privacy Shield Framework. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you are an EU or Swiss citizen and feel that we are not abiding by the terms of this Privacy Notice, or that we are not in compliance with the Privacy Shield Principles, please contact us by using the contact information provided at the top of this Privacy Policy.
 
@@ -325,7 +329,7 @@ You have certain rights in respect of the information that we hold about you, in
 *   the right to request access to the information that we hold about you
 *   the right to request that we correct or rectify any information that we hold about you which is out of date or incorrect
 *   the right to withdraw your consent for our use of your information in reliance of your consent (refer to section 2 above to see when we are relying on your consent), which you can do by contacting us using any of the details at the top of this Privacy Policy
-*   the right to object to our using your information on the basis of our legitimate interests (refer to section 2 above to see when we are relying on our legitimate interests) (or those of a third party)) and there is something about your particular situation which makes you want to object to processing on this ground
+*   the right to object to our using your information on the basis of our legitimate interests (refer to section 2 above to see when we are relying on our legitimate interests) (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground
 *   the right to receive a copy of any information we hold about you (or request that we transfer this to another service provider) in a structured, commonly-used, machine readable format, in certain circumstances
 *   in certain circumstances, the right to ask us to limit or cease processing or erase information we hold about you
 *   the right to lodge a complaint about us to the UK Information Commissioner's Office (https://ico.org.uk/) as well as a right to lodge a complaint with the relevant authority in your country of work or residence
@@ -352,7 +356,7 @@ Our website is not intended for children. We do not knowingly collect or maintai
 
 8\. Sharing Data with Third Parties
 
-You might provide personal information directly to third parties as a consequence of your interactions with our website and other services offered by us. For example, our website may contain content and links to other third-party websites, plug-ins, and applications that are operated by third parties that may also operate cookies. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We don't control these third party websites or cookies, we are not responsible for their privacy statements, and this Privacy Policy does not apply to them. Please check the terms and conditions and privacy policy of the relevant third party website to find out how they collect and use your information. If you do not want us to share your personal information with these companies, contact us at using one of the methods described in the "Contact Us" section above.
+You might provide personal information directly to third parties as a consequence of your interactions with our website and other services offered by us. For example, our website may contain content and links to other third-party websites, plug-ins, and applications that are operated by third parties that may also operate cookies. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We don't control these third party websites or cookies, we are not responsible for their privacy statements, and this Privacy Policy does not apply to them. Please check the terms and conditions and privacy policy of the relevant third party website to find out how they collect and use your information. If you do not want us to share your personal information with these companies, contact us using one of the methods described in the "Contact Us" section above.
 
 Please be responsible with personal information of others when using our website and the services available on it. We are not responsible for your misuse of personal information, or for the direct relationship between you and others that takes place outside of the website or our services.
 
@@ -367,6 +371,8 @@ California law requires us to let you know how we respond to web browser Do Not 
 Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your consent. If we make any material changes we will notify you by email or by means of a notice on this website prior to the change becoming effective. You can also view prior versions of the Policy by viewing the links in section 11 below.
 
 11\. Previous Versions of the Privacy Policy 11.1 O'Reilly and Safari privacy policies
+
+Click here for version 4.2
 
 Click here for version 4.1
 
