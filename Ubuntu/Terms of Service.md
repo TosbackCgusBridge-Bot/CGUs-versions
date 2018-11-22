@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu, security &. compliance ›
 *   Behind the drone: how aerial robotics solve industrial IOT challenges ›
 *   egmde: a project that uses Mir ›
 *   Mastering the upgrading of OpenStack ›
 *   OpenStack Summit Berlin 2018, Mark Shuttleworth keynote ›
-*   Upgrading Charmed Kubernetes ›
