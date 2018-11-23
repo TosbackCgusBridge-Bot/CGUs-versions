@@ -29,11 +29,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Anne Graham Lotz
+*   Thanksgiving
+*   Holiday movies
+*   Existence of God
+*   Asia Bibi
 *   California fires
-*   Joni Eareckson Tada
-*   Christian marriage
-*   Sex ed
 
 About Us
 
