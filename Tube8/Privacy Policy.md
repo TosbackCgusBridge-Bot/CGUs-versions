@@ -120,7 +120,7 @@ Close Recent Searches Clear all Suggested Keywords Upload
 *   Live Girls
 *   FUCK NOW
 
-FREE WEEK on Premium! Click HERE
+BLACK FRIDAY DEAL! FREE WEEK on Premium! Click HERE
 
 You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close
 
