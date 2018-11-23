@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   22\. November 2018
+*   23\. November 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.244,17ǀ
+*   DAX 11.138,49ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
