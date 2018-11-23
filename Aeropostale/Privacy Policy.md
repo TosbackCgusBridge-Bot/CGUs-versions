@@ -518,12 +518,12 @@ Menu Find a Store Aeropostale
 Previous*   Joggers Starting at $9.87 Shop Girls Joggers Shop Guys Joggers
 *   Graphic Tees Starting at $5.87 Shop Girls Graphic Tees Shop Guys Graphic Tees
 *   Long Sleeve Starting at $7.87 Shop Girls Long Sleeve Shop Guys Long Sleeve
-*   Puffer Vests Starting at $14.87 Shop Girls Outerwear Shop Guys Outerwear
+*   Puffer Vests Starting at $15.87 Shop Girls Outerwear Shop Guys Outerwear
 *   Hoodies Starting at $14.87 Shop Girls Hoodies Shop Guys Hoodies
 *   Joggers Starting at $9.87 Shop Girls Joggers Shop Guys Joggers
 *   Graphic Tees Starting at $5.87 Shop Girls Graphic Tees Shop Guys Graphic Tees
 *   Long Sleeve Starting at $7.87 Shop Girls Long Sleeve Shop Guys Long Sleeve
-*   Puffer Vests Starting at $14.87 Shop Girls Outerwear Shop Guys Outerwear
+*   Puffer Vests Starting at $15.87 Shop Girls Outerwear Shop Guys Outerwear
 *   Hoodies Starting at $14.87 Shop Girls Hoodies Shop Guys Hoodies
 *   Joggers Starting at $9.87 Shop Girls Joggers Shop Guys Joggers
 *   Graphic Tees Starting at $5.87 Shop Girls Graphic Tees Shop Guys Graphic Tees
