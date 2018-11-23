@@ -151,7 +151,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     Kids' Sale>Girls' Clothing>
     
     *   Girls' Coats &. Jackets
-    *   Girls' Fleece
     *   Girls' Shoes
     *   Girls' Pajamas &. Robes
     *   Girls' Pants &. Leggings
@@ -169,7 +168,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     Boys' Clothing>
     *   Boys' Coats &. Jackets
-    *   Boys' Fleece
     *   Boys' Shoes
     *   Boys' Pajamas &. Robes
     *   Boys' Pants
@@ -619,7 +617,6 @@ Lands' End Sign In menu
         *   Back
         *   View All
         *   Girls' Coats &. Jackets
-        *   Girls' Fleece
         *   Girls' Shoes
         *   Girls' Pajamas &. Robes
         *   Girls' Pants &. Leggings
@@ -638,7 +635,6 @@ Lands' End Sign In menu
         *   Back
         *   View All
         *   Boys' Coats &. Jackets
-        *   Boys' Fleece
         *   Boys' Shoes
         *   Boys' Pajamas &. Robes
         *   Boys' Pants
@@ -989,9 +985,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles. plus, today only, $20 CashTouch throws!
+Receive 50% off full-price styles. plus, today only, men's and women's flannel pajamas\* from $18!
 
-code: HOME pin: 9642 DETAILS
+code: STUFFING pin: 2242 DETAILS
 
 Customer Service Menu
 
