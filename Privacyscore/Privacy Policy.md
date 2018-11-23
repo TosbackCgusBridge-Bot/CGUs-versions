@@ -30,7 +30,7 @@ OK Log in to AVG MyAccount Blog MENU Skip to content
     *   AVG AntiVirus for Android
     *   AVG Cleaner for Android
     *   AVG Secure VPN for Android
-    *   AVG Secure VPN for iOs
+    *   AVG Secure VPN for iOS
     *   All Products
 *   Partners
 *   Business
