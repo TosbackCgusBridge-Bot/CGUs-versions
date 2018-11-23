@@ -109,6 +109,46 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Maureen Dowd_: Of Monuments, Arguments, Vampires and Thanksgiving
+    
+*   _Myra Adams_: The Meaning of Thanksgiving: 1789, 1863, 1942, 2018
+    
+*   _Mark Hannah_: Trump's Stubborn Support for Saudi Arabia Is Indefensible
+    
+*   _Doran &. Badran_: Trump Is Crude. But He's Right About Saudi Arabia.
+    
+*   _Peter Beinart_: Pelosi Just Showed Us Why She's the Democratic Leader
+    
+*   _Robert Curry_: Judge Tigar Strikes Again
+    
+*   _Bradley Moss_: Investigate Ivanka Trump's Emails
+    
+*   _John Solomon_: Questions Grow on FBI Vetting of Steele's Russia Expertise
+    
+*   _Betsy McCaughey_: Even California Says Trump Is Right About the Wildfires
+    
+*   _Anna North_: How Trump Helped Inspire a Wave of Strict New Abortion Laws
+    
+*   _Michelle Malkin_: First Step Act: Time to Pass Criminal Justice Reform
+    
+*   _Glenn Reynolds_: Trump Must Bust the Big Tech Monopolies
+    
+*   _Hernandez &. Bui_: The American Dream Is Alive. In China.
+    
+*   _Hal Brands_: America's Secret Weapon Against China: Democracy
+    
+*   _Daniel Krauthammer_: Lessons My Father Taught Me About Being Thankful
+    
+*   _Bethany Thayer_: Why My Thanksgiving Dinner Won't Be Organic
+    
+*   _Sally Persons_: Challenges to Trump in 2020 Starting to Take Shape?
+    
+*   _Stephen Carter_: The Thanksgiving Address America Needs to Hear
+    
+*   _John Kass_: Police Families, Thanksgiving &. Wounds That Won't Heal
+    
+*   _Robin Wright_: Trump's Utter Denial About Saudi Arabia &. Crown Prince
+    
 *   _Mollie Hemingway_: Establishment Gets Trump's Saudi Posture All Wrong
     
 *   _Maria Cardona_: Dems Need Their Top General - Pelosi - in Age of Trump
@@ -116,46 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Michael Goodwin_: 'Trump Imitation Syndrome' Afflicting President's Enemies
     
 *   _Anonymous_: Diary of an Amazon Warehouse Worker
-    
-*   _Daniel Sobieski_: Two Americas: De Blasio's Amazon vs. Trump's Walmart
-    
-*   _David Graham_: The Military Has Become Trump's Favorite Prop
-    
-*   _Edward Chang_: Media Tries to Conscript Generals Into Their Anti-Trump War
-    
-*   _Gary Abernathy_: Trump Honoring Elvis? It's About Time
-    
-*   _Carl Cannon_: 11/21/63: A Fateful Trip Begins With Hope, Trepidation
-    
-*   _Edward-Isaac Dovere_: Obama: Trump Doesn't Share His Vision of America
-    
-*   _Lauren Appell_: Thanks to Trump, U.S. Better Off Than It Was 2 Years Ago
-    
-*   _Dahlia Lithwick_: Trump Is Losing His War Against the Courts
-    
-*   _Thomas Jipping_: 5 Yrs After Going Nuclear, Dems Reap What They Sowed
-    
-*   _Thomas Friedman_: Oil, Guns &. Morals: Trump's Black Friday Sale
-    
-*   _John Bradley_: Trump Wise to Ignore Media's Moral Preening &. Hypocrisy
-    
-*   _Nate Silver_: Of Course 2018 Was a Wave
-    
-*   _David Catron_: Defining the Blue Wave Down
-    
-*   _Jamil Smith_: Stacey Abrams: The Exit Interview
-    
-*   _Bernie Marcus_: Georgia Businesses Victims of Abrams' Sour Grapes
-    
-*   _Chris Smith_: Why Sherrod Brown Has an Edge on Sanders &. Warren
-    
-*   _Matthew Walther_: Liberals' Infantile Beto Fantasy
-    
-*   _Betsy DeVos_: It's Time to Balance Scales of Justice in Our Schools
-    
-*   _Amanda Marcotte_: Betsy DeVos Moves to Silence Sexual Abuse Victims
-    
-*   _Thomas Sowell_: The Moral Bankruptcy of Charter School Opponents
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Roberts, Trump Spar in Extraordinary Scrap Over Judges
 *   Trump Says U.S. Stands With Saudi Arabia Despite Khashoggi Killing
-*   Challenges to Trump in 2020 Starting to Take Shape?
 *   Graham to Saudi Arabia: Replace MBS With Someone Who Is Not Crazy
-*   Judge Bars U.S. From Enforcing Trump Asylum Ban
+*   Challenges to Trump in 2020 Starting to Take Shape?
 *   Proxy Advisors: Why Investors Should Be Concerned
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Howard Dean: "People Are Beginning To Understand That Trump Does Not Represent American Values"
 *   Scarborough: Trump Isn't Thinking About Re-Election, But All The Money He Can Make As Ex-President
 *   Full Debate: Republican Sen. Cindy Hyde-Smith vs. Democratic Candidate Mike Espy
 *   Obama: We Are Still Confused, Blind, Shrouded With Hate, Anger, Racism, Mommy Issues
 *   Tucker Carlson vs. Univision Anchor: Is Tijuana Protest Against Migrant Caravan Racist?
-*   Rush Limbaugh: Democrats Tried And Failed To Steal Elections In Florida And Georgia, Racism Blamed
 
 *   Politics
 *   Policy
