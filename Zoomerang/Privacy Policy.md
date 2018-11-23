@@ -101,4 +101,4 @@ Thanks for your feedback!
 
 Name: E-mail: Send!No thanks!© Powered by MetrixLab ×
 
-**Thank you for getting in touch!** **We have received your message. One of our colleagues will get back to you as soon as possible. Have a great day** <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3Z854N" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+**Thank you for getting in touch!** **We have received your message. One of our colleagues will get back to you as soon as possible.** **Have a great day** <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3Z854N" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
