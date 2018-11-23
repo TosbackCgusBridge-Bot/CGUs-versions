@@ -1,6 +1,6 @@
-*   CHI7-3DET4-6Thu, 12:30 pm ET
-*   WAS6-4DAL5-5Thu, 4:30 pm ET
-*   ATL4-6NO9-1Thu, 8:20 pm ET
+*   ATL4-717NO10-131Final
+*   CHI8-323DET4-716Final
+*   WAS6-523DAL6-531Final
 *   OAK2-8BAL5-5Sun, 1:00 pm ET
 *   JAX3-7BUF3-7Sun, 1:00 pm ET
 *   SEA5-5CAR6-4Sun, 1:00 pm ET
@@ -31,9 +31,9 @@
 *   NFL Network
 *   Photos
 
-*   CHI7-3DET4-6Thu, 12:30 pm ET
-*   WAS6-4DAL5-5Thu, 4:30 pm ET
-*   ATL4-6NO9-1Thu, 8:20 pm ET
+*   ATL17NO31Final
+*   CHI23DET16Final
+*   WAS23DAL31Final
 *   OAK2-8BAL5-5Sun, 1:00 pm ET
 *   JAX3-7BUF3-7Sun, 1:00 pm ET
 *   SEA5-5CAR6-4Sun, 1:00 pm ET
@@ -55,7 +55,7 @@
 *   Playoff Picture
 
 *   Scores
-*   Highlights
+*   SHOP
 
 *   *   Game Pass
     *   Stats
