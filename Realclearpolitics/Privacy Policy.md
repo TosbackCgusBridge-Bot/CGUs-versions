@@ -109,6 +109,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Dr. Jack Graham_: Black Friday: Beware Living w/Full Carts &. Empty Hearts
+    
+*   _Michael Grunwald_: How Everything Became the Culture War
+    
+*   _Victor Davis Hanson_: Blame It On 1968
+    
+*   _Eugene Robinson_: Trump a Clueless Clown, Not a Champion of Human Rights
+    
+*   _Richard Fernandez_: Democrats Are Trying to Co-opt Trump's Successes
+    
+*   _Daniel Politi_: Trump Doubles Down in Fight With Chief Justice Roberts
+    
+*   _Daniel Flynn_: Who Is John Roberts to Judge Trump?
+    
+*   _John Russo_: Ohio: Another Brick in the Red Wall
+    
+*   _Ronald Brownstein_: California Has Become a Crisis for the Republicans
+    
+*   _Bill Whalen_: Is Gavin Newsom on a Fast Track to a 2020 Bid?
+    
+*   _Jason Piccolo_: Kamala Harris' Hateful Comparison of ICE to KKK
+    
+*   _Jill Filipovic_: Hold 'Crooked Ivanka' Trump Accountable
+    
+*   _John Nolte_: 11 Reasons Comparing Ivanka's Emails to Clinton's Is Stupid
+    
+*   _David Ignatius_: Trump Must Find a Trade Victory With China at G20
+    
+*   _Adam Candeub_: Renegotiated NAFTA Will Entrench Big Tech Censorship
+    
+*   _Richard Cohen_: Dump Pelosi? That's Just Plain Dumb
+    
+*   _Tim Roemer_: Lay People Must Act to Protect Catholic Faith
+    
 *   _Maureen Dowd_: Of Monuments, Arguments, Vampires and Thanksgiving
     
 *   _Myra Adams_: The Meaning of Thanksgiving: 1789, 1863, 1942, 2018
@@ -122,40 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Robert Curry_: Judge Tigar Strikes Again
     
 *   _Bradley Moss_: Investigate Ivanka Trump's Emails
-    
-*   _John Solomon_: Questions Grow on FBI Vetting of Steele's Russia Expertise
-    
-*   _Betsy McCaughey_: Even California Says Trump Is Right About the Wildfires
-    
-*   _Anna North_: How Trump Helped Inspire a Wave of Strict New Abortion Laws
-    
-*   _Michelle Malkin_: First Step Act: Time to Pass Criminal Justice Reform
-    
-*   _Glenn Reynolds_: Trump Must Bust the Big Tech Monopolies
-    
-*   _Hernandez &. Bui_: The American Dream Is Alive. In China.
-    
-*   _Hal Brands_: America's Secret Weapon Against China: Democracy
-    
-*   _Daniel Krauthammer_: Lessons My Father Taught Me About Being Thankful
-    
-*   _Bethany Thayer_: Why My Thanksgiving Dinner Won't Be Organic
-    
-*   _Sally Persons_: Challenges to Trump in 2020 Starting to Take Shape?
-    
-*   _Stephen Carter_: The Thanksgiving Address America Needs to Hear
-    
-*   _John Kass_: Police Families, Thanksgiving &. Wounds That Won't Heal
-    
-*   _Robin Wright_: Trump's Utter Denial About Saudi Arabia &. Crown Prince
-    
-*   _Mollie Hemingway_: Establishment Gets Trump's Saudi Posture All Wrong
-    
-*   _Maria Cardona_: Dems Need Their Top General - Pelosi - in Age of Trump
-    
-*   _Michael Goodwin_: 'Trump Imitation Syndrome' Afflicting President's Enemies
-    
-*   _Anonymous_: Diary of an Amazon Warehouse Worker
     
 
 *   Previous
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Sen. Mazie Hirono: "These Are Not Normal Times, And We Don't Have A President Who Acts Normally"
 *   Howard Dean: "People Are Beginning To Understand That Trump Does Not Represent American Values"
 *   Scarborough: Trump Isn't Thinking About Re-Election, But All The Money He Can Make As Ex-President
 *   Full Debate: Republican Sen. Cindy Hyde-Smith vs. Democratic Candidate Mike Espy
 *   Obama: We Are Still Confused, Blind, Shrouded With Hate, Anger, Racism, Mommy Issues
-*   Tucker Carlson vs. Univision Anchor: Is Tijuana Protest Against Migrant Caravan Racist?
 
 *   Politics
 *   Policy
