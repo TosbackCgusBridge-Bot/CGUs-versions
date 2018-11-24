@@ -985,9 +985,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles. plus, today only, men's and women's flannel pajamas\* from $18!
+Receive 50% off full-price styles. plus, today only, men's and women's flannel shirts\* from $20!
 
-code: STUFFING pin: 2242 DETAILS
+code: FRIDAY pin: 4872 DETAILS
 
 Customer Service Menu
 
