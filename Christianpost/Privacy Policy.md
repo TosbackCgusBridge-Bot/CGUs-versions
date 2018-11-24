@@ -29,11 +29,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Thanksgiving
-*   Holiday movies
-*   Existence of God
+*   Missionary
+*   Stephen Colbert
+*   Anne Graham
+*   Planned Parenthood
 *   Asia Bibi
-*   California fires
 
 About Us
 
