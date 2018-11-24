@@ -12,7 +12,7 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 2067 games
+*   Best of new games 2053 games
 *   Most Popular Games 18149 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -20,23 +20,23 @@ Categories &. more Hi there! Did you know there is a Y8 Forum? Join other player
 
 CATEGORIES
 
-*   Games for girls 23,504 games
-*   Driving &. Racing Games 6,708 games
+*   Games for girls 23,505 games
+*   Driving &. Racing Games 6,709 games
 *   Strategy &. RPG Games 2,405 games
 *   Management Games 3,630 games
-*   Thinking Games 11,861 games
-*   Action &. Adventure Games 15,848 games
+*   Thinking Games 11,862 games
+*   Action &. Adventure Games 15,852 games
 *   Sports Games 2,136 games
-*   Shooting Games 8,332 games
+*   Shooting Games 8,335 games
 *   Fighting Games 2,089 games
-*   Skill Games 10,634 games
-*   Arcade &. Classic Games 12,657 games
-*   Fun &. Crazy Games 2,475 games
+*   Skill Games 10,636 games
+*   Arcade &. Classic Games 12,656 games
+*   Fun &. Crazy Games 2,474 games
 
 Play with friends  
-Powered by Y8 Account 138 Y8 Multiplayer Games 1,740 Y8 High Score Games 1,065 Y8 Achievements Games 791 Y8 Screenshots Games 1,361 Y8 Online Save Games 2,771 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 140 Y8 Multiplayer Games 1,742 Y8 High Score Games 1,066 Y8 Achievements Games 791 Y8 Screenshots Games 1,361 Y8 Online Save Games 2,775 All Y8 Games Games Last Highscore:
 
-**4,459** points on Orion Sandbox Enhanced by w0lf49
+**330** points on The Forsaken Lab 3D 2 by Mr1Zander8Punk
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
