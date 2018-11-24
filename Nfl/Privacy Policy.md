@@ -1,6 +1,6 @@
-*   ATL4-717NO10-131Final
 *   CHI8-323DET4-716Final
 *   WAS6-523DAL6-531Final
+*   ATL4-717NO10-131Final
 *   OAK2-8BAL5-5Sun, 1:00 pm ET
 *   JAX3-7BUF3-7Sun, 1:00 pm ET
 *   SEA5-5CAR6-4Sun, 1:00 pm ET
@@ -31,9 +31,9 @@
 *   NFL Network
 *   Photos
 
-*   ATL17NO31Final
 *   CHI23DET16Final
 *   WAS23DAL31Final
+*   ATL17NO31Final
 *   OAK2-8BAL5-5Sun, 1:00 pm ET
 *   JAX3-7BUF3-7Sun, 1:00 pm ET
 *   SEA5-5CAR6-4Sun, 1:00 pm ET
