@@ -7,8 +7,6 @@ United States We now ship to your country with Borderfree. I'm shipping to: Afgh
 *   Open submenu ( Gifts ) Gifts
 *   Open submenu ( Clearance ) Clearance
 
-*   Select Country
-
 *   Help? - Contact Us Help? - Contact Us
 *   Sign Up/Login
 *   Refer a Friend
@@ -279,12 +277,12 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**SHOP DOORBUSTERS**  GIRLS GUYS **60-70% OFF EVERYTHING + FREE SHIPPING OVER $25**
+Hurry! Black Friday Deals Are Going Fast! 365 Days 23 Hrs : Days 32 Mins : Days 50 Secs
 
 *   Select Country
 *   My Account My Account Login Register
 
-Menu Find a Store Aeropostale
+FREE SHIPPING OVER $25 + 60-70% OFF Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -506,8 +504,6 @@ Menu Find a Store Aeropostale
         *   Active
         *   Lounge
     
-
-*   Select Country
 
 *   Help? - Contact Us Help? - Contact Us
 *   Sign Up/Login
