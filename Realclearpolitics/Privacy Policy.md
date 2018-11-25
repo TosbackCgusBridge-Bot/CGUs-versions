@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Roberts, Trump Spar in Extraordinary Scrap Over Judges
-*   Trump Says U.S. Stands With Saudi Arabia Despite Khashoggi Killing
-*   Graham to Saudi Arabia: Replace MBS With Someone Who Is Not Crazy
+*   Trump Demands "Some Common Sense" From Judges
+*   Saudi Royal Says Crown Prince Is Here to Stay
+*   Trump Holds Teleconference With Military, Presser With Media
 *   Challenges to Trump in 2020 Starting to Take Shape?
 *   Proxy Advisors: Why Investors Should Be Concerned
 *   Presidential Job Approval
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   David Brooks: "I Don't Want To Get Hysterical," But Trump Is What Authoritarianism After A Democracy Looks Like
 *   Sen. Mazie Hirono: "These Are Not Normal Times, And We Don't Have A President Who Acts Normally"
 *   Howard Dean: "People Are Beginning To Understand That Trump Does Not Represent American Values"
 *   Scarborough: Trump Isn't Thinking About Re-Election, But All The Money He Can Make As Ex-President
 *   Full Debate: Republican Sen. Cindy Hyde-Smith vs. Democratic Candidate Mike Espy
-*   Obama: We Are Still Confused, Blind, Shrouded With Hate, Anger, Racism, Mommy Issues
 
 *   Politics
 *   Policy
