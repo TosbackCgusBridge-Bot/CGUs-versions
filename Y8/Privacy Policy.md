@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx
+New Games Next in  01:24:50
 
-*   By Date Next addition in xx:xx
+*   By Date Next addition in 01:24:50
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in xx:xx
-*   Best of new games 2053 games
-*   Most Popular Games 18149 games
+*   New Games Next in 01:24:50
+*   Best of new games 2042 games
+*   Most Popular Games 18159 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,505 games
-*   Driving &. Racing Games 6,709 games
-*   Strategy &. RPG Games 2,405 games
+*   Games for girls 23,507 games
+*   Driving &. Racing Games 6,711 games
+*   Strategy &. RPG Games 2,404 games
 *   Management Games 3,630 games
-*   Thinking Games 11,862 games
-*   Action &. Adventure Games 15,852 games
+*   Thinking Games 11,863 games
+*   Action &. Adventure Games 15,858 games
 *   Sports Games 2,136 games
-*   Shooting Games 8,335 games
+*   Shooting Games 8,333 games
 *   Fighting Games 2,089 games
-*   Skill Games 10,636 games
+*   Skill Games 10,639 games
 *   Arcade &. Classic Games 12,656 games
 *   Fun &. Crazy Games 2,474 games
 
 Play with friends  
-Powered by Y8 Account 140 Y8 Multiplayer Games 1,742 Y8 High Score Games 1,066 Y8 Achievements Games 791 Y8 Screenshots Games 1,361 Y8 Online Save Games 2,775 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 140 Y8 Multiplayer Games 1,742 Y8 High Score Games 1,066 Y8 Achievements Games 791 Y8 Screenshots Games 1,361 Y8 Online Save Games 2,774 All Y8 Games Games Last Highscore:
 
-**330** points on The Forsaken Lab 3D 2 by Mr1Zander8Punk
+**35,000** points on Downhill Rush by Rakeen
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
