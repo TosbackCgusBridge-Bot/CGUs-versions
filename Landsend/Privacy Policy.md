@@ -985,9 +985,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles. plus, today only, men's and women's flannel shirts\* from $20!
+Receive 50% off full-price styles. plus, today only, $20 women's cotton cable sweaters\*!
 
-code: FRIDAY pin: 4872 DETAILS
+code: SEASON pin: 5264 DETAILS
 
 Customer Service Menu
 
