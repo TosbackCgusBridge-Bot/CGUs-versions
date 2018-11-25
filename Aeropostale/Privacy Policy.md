@@ -277,12 +277,11 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-Hurry! Black Friday Deals Are Going Fast! 365 Days 23 Hrs : Days 32 Mins : Days 50 Secs
+**SHOP DOORBUSTERS**  GIRLS GUYS **60-70% OFF EVERYTHING + FREE SHIPPING OVER $25**
 
-*   Select Country
 *   My Account My Account Login Register
 
-FREE SHIPPING OVER $25 + 60-70% OFF Menu Find a Store Aeropostale
+Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -577,18 +576,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2018 Aeropostale. All Rights Reserved. close dialogY'all Yeti For this? Black Friday60-70% Off entire storePlease enter aboveShop NowTake me to Aeroclose dialog
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
+© 2018 Aeropostale. All Rights Reserved.
