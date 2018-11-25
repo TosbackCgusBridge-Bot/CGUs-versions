@@ -1,7 +1,3 @@
-Food, Fun, and Facts Health Portal
-
-Online Men’s Health Magazine
-
 *   Home
 *   Say Hello
 *   Who We Are
