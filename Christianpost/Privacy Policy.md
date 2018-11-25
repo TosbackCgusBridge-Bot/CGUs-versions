@@ -29,11 +29,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Missionary
-*   Stephen Colbert
-*   Anne Graham
+*   Kim Porter
+*   Holiday movies
+*   Missionary killed
+*   Anne Graham Lotz
 *   Planned Parenthood
-*   Asia Bibi
 
 About Us
 
