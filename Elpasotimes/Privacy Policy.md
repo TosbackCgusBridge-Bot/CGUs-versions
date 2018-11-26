@@ -1,4 +1,4 @@
-close dialogThanksgiving sale99¢ per monthSubscribeclose dialogSUBSCRIBE NOW99¢ first month. Save 90%
+close dialogCyber Sale On NowHURRY! ENDS 12/3$5 FOR 3 MONTHSSubscribe Nowclose dialogSUBSCRIBE NOW$5 for 3 months. Save 83%.
 
 *   Home
 *   News
@@ -14,7 +14,6 @@ close dialogThanksgiving sale99¢ per monthSubscribeclose dialogSUBSCRIBE NOW99�
 *   Photo &. Video
 *   Advertise with Us
 *   Public Notices
-*   Subscribe
 *   More
     *   Home
     *   News
@@ -30,51 +29,36 @@ close dialogThanksgiving sale99¢ per monthSubscribeclose dialogSUBSCRIBE NOW99�
     *   Photo &. Video
     *   Advertise with Us
     *   Public Notices
-    *   Subscribe
-
 *   search
-*   Firefly
+
+*   Subscribe
+*   Sign In
     
-    Hi
+    *   View Your Account
+    *   Today's e-Edition
+    *   Newsletters
+    *   Pay Your Bill
+    *   Report Delivery Issues
+    *   Temporary Stop/Restart
+    *   Member Guide
+    *   Help and Support
+    *   Sign Out
     
-    Already a subscriber?
+    Have an existing account?
     
-    Log in
+    Sign In
     
-    Subscribe today for full access on your desktop, tablet, and mobile device.
+    Already have a subscription?
     
-    Subscribe Now
+    Activate Your Account
     
-    Already a print edition subscriber, but don't have a login?
+    Don't have an account?
     
-    Activate your digital access.
-    
-    Manage your account settings.
-    
-    My Account
-    
-    View the E-Newspaper
-    
-    Manage your Newsletters
-    
-    View your Insider deals and more
-    
-    Member ID Card
-    
-    Chat Support
-    
-    Chat Support
-    
-    Support
-    
-    Support
-    
-    Log Out
-    
+    Create One
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDeveloper: Great Wolf land swap is bad for cityNewsAaron Jones sets career records in Green Bay winSportsHave you seen El Paso's most wanted fugitives?CrimeGeorge Lopez faces battery charge in Hooters fightNewsUTEP fires volleyball coach after six seasonsSportsEx-EPISD administrator's cheating case divertedSpecial-reportsCBP inspector admits defrauding migrantsCrimeMigrant caravan numbers grow, heads to TijuanaNewsMan, woman hid meth between legs, CBP saysCrimeQuerida, Juan Gabriel is not alive, just rumorEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMigrants in Tijuana rush US border, gas firedImmigrationMotorcyclist killed in crash during DPS chaseCrimePolice arrest driver in crash that killed teacherNewsWoman follows GPS, drives onto railroad tracksNational'Remain in Mexico' plan for asylum seekersNewsUTEP football season ends with a whimperCollegeTeacher killed in hit-and-run on Thanksgiving EveCrimeUTEP overwhelmed by Southern Miss in last gameCollegeMiners play best game of year in six-point lossCollegeMotorcyclist killed after falling from overpassCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -116,7 +100,7 @@ LifestyleOpinion
 *   Columnists
 *   Letters to the Editor
 
-HomesObituariesUSA TODAYPhoto &. VideoPublic NoticesSubscribe
+HomesObituariesUSA TODAYPhoto &. VideoPublic Notices
 
 © 2018 elpasotimes.com, All rights reserved.
 
@@ -146,4 +130,4 @@ Our Partners
 *   Thanksgiving.com
 *   Grateful
 
-close dialogThanksgiving sale99¢ per monthSubscribeclose dialogclose dialogThanksgiving sale99¢ per monthlocal storieslocal sportslocal newsSubscribe TodayNo Thanksclose dialogclose dialogREGISTER FOR A CHANCE TO WINWeek in London VacationEnter NowSee official rules for detailsclose dialog
+close dialogCyber Sale On NowHURRY! ENDS 12/3$5 FOR 3 MONTHSSubscribe Nowclose dialogclose dialog$5 FOR 3 MONTHSLOCAL STORIESLOCAL SPORTSLOCAL NEWSCyber Sale On NowSubscribe NowNo thanksclose dialog
