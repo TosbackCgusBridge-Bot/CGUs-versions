@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  01:24:50
+New Games Next in  01:23:52
 
-*   By Date Next addition in 01:24:50
+*   By Date Next addition in 01:23:52
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 01:24:50
-*   Best of new games 2042 games
-*   Most Popular Games 18159 games
+*   New Games Next in 01:23:52
+*   Best of new games 2027 games
+*   Most Popular Games 18168 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,507 games
-*   Driving &. Racing Games 6,711 games
+*   Games for girls 23,508 games
+*   Driving &. Racing Games 6,713 games
 *   Strategy &. RPG Games 2,404 games
 *   Management Games 3,630 games
 *   Thinking Games 11,863 games
-*   Action &. Adventure Games 15,858 games
-*   Sports Games 2,136 games
-*   Shooting Games 8,333 games
+*   Action &. Adventure Games 15,856 games
+*   Sports Games 2,135 games
+*   Shooting Games 8,335 games
 *   Fighting Games 2,089 games
-*   Skill Games 10,639 games
-*   Arcade &. Classic Games 12,656 games
+*   Skill Games 10,642 games
+*   Arcade &. Classic Games 12,655 games
 *   Fun &. Crazy Games 2,474 games
 
 Play with friends  
-Powered by Y8 Account 140 Y8 Multiplayer Games 1,742 Y8 High Score Games 1,066 Y8 Achievements Games 791 Y8 Screenshots Games 1,361 Y8 Online Save Games 2,774 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 142 Y8 Multiplayer Games 1,745 Y8 High Score Games 1,069 Y8 Achievements Games 791 Y8 Screenshots Games 1,363 Y8 Online Save Games 2,777 All Y8 Games Games Last Highscore:
 
-**35,000** points on Downhill Rush by Rakeen
+**6,779** points on Crime City 3D 2 by Awih
 
 Help us improve Bad translation? Social Share890K Y8 Games Facebook
 
