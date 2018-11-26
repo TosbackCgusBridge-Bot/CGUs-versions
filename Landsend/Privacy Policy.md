@@ -985,9 +985,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles. plus, today only, $20 women's cotton cable sweaters\*!
+Receive 50% off full-price styles. plus, today only, $24 women's down vests\*!
 
-code: SEASON pin: 5264 DETAILS
+code: FROST pin: 6231 DETAILS
 
 Customer Service Menu
 
