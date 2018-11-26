@@ -109,6 +109,34 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _John Solomon_: Biggest Threat to Journalism: The Loss of Neutral Reporting
+    
+*   _Michael Conway_: Nixon Waged War on Press--Trump's Attacks Are Worse
+    
+*   _Andrew McCarthy_: 'The Enemy of the People'
+    
+*   _Amy Sorkin_: The Leaderless Fight Against Nancy Pelosi's Leadership
+    
+*   _Stephen Presser_: Trump vs. Roberts: Why the President Prevails
+    
+*   _Zoffer &. Ferguson_: Will Mueller and a Blue House Finally Bring Down Trump?
+    
+*   _Alfredo Ortiz_: House Democrats' Agenda Threatens Economic Prosperity
+    
+*   _Paul Krugman_: How Democrats Can Deliver on Healthcare
+    
+*   _Eli Lake_: Trump Dares Congress to Do What He Won't on Saudi Arabia
+    
+*   _Christian Whiton_: Chattering Class Has No Idea How to Defend U.S.
+    
+*   _Jonah Goldberg_: Trump's Odd Definition of 'America First'
+    
+*   _Graeme Wood_: The Brutal Truth: MbS Has Done What America Has Asked
+    
+*   _Jochen Bittner_: It's Time for Angela Merkel to Leave
+    
+*   _Jacob Rees-Mogg_: Why Boris Johnson Would Make a Good Leader
+    
 *   _Dr. Jack Graham_: Black Friday: Beware Living w/Full Carts &. Empty Hearts
     
 *   _Michael Grunwald_: How Everything Became the Culture War
@@ -128,34 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Ronald Brownstein_: California Has Become a Crisis for the Republicans
     
 *   _Bill Whalen_: Is Gavin Newsom on a Fast Track to a 2020 Bid?
-    
-*   _Jason Piccolo_: Kamala Harris' Hateful Comparison of ICE to KKK
-    
-*   _Jill Filipovic_: Hold 'Crooked Ivanka' Trump Accountable
-    
-*   _John Nolte_: 11 Reasons Comparing Ivanka's Emails to Clinton's Is Stupid
-    
-*   _David Ignatius_: Trump Must Find a Trade Victory With China at G20
-    
-*   _Adam Candeub_: Renegotiated NAFTA Will Entrench Big Tech Censorship
-    
-*   _Richard Cohen_: Dump Pelosi? That's Just Plain Dumb
-    
-*   _Tim Roemer_: Lay People Must Act to Protect Catholic Faith
-    
-*   _Maureen Dowd_: Of Monuments, Arguments, Vampires and Thanksgiving
-    
-*   _Myra Adams_: The Meaning of Thanksgiving: 1789, 1863, 1942, 2018
-    
-*   _Mark Hannah_: Trump's Stubborn Support for Saudi Arabia Is Indefensible
-    
-*   _Doran &. Badran_: Trump Is Crude. But He's Right About Saudi Arabia.
-    
-*   _Peter Beinart_: Pelosi Just Showed Us Why She's the Democratic Leader
-    
-*   _Robert Curry_: Judge Tigar Strikes Again
-    
-*   _Bradley Moss_: Investigate Ivanka Trump's Emails
     
 
 *   Previous
@@ -243,6 +243,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Mississippi Senate Run-Off Election - Hyde-Smith vs. EspyBold Blue Campaigns/JMC
+    *   Hyde-Smith54
+    *   Espy44Hyde-Smith +10
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve45
     *   Disapprove53Disapprove +8
@@ -252,17 +255,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve44
     *   Disapprove51Disapprove +7
-*   Congressional Job ApprovalReuters/Ipsos
-    *   Approve30
-    *   Disapprove60Disapprove +30
 
 More Latest Polls In The News
 
+*   Schiff: House Intel Committee Will Look Into Whether "Russian Financial Hand" Is Pulling Trump's Strings
+*   Rep. Trey Gowdy Wants James Comey Deposition Taped And Made Public
+*   Dan Bongino on Spygate: Obama, Mueller &. The Biggest Spy Scandal In American History
 *   David Brooks: "I Don't Want To Get Hysterical," But Trump Is What Authoritarianism After A Democracy Looks Like
 *   Sen. Mazie Hirono: "These Are Not Normal Times, And We Don't Have A President Who Acts Normally"
-*   Howard Dean: "People Are Beginning To Understand That Trump Does Not Represent American Values"
-*   Scarborough: Trump Isn't Thinking About Re-Election, But All The Money He Can Make As Ex-President
-*   Full Debate: Republican Sen. Cindy Hyde-Smith vs. Democratic Candidate Mike Espy
 
 *   Politics
 *   Policy
