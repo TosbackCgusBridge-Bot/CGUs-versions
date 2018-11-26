@@ -328,10 +328,6 @@ Offers
     
     Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
-*   'Boy Erased' Donation
-    
-    To give thanks to moviegoers seeing BOY ERASED, Focus Features will support LGBTQ organizations with a donation to their organizations. BUY TICKETS
-    
 
 New + Coming soon
 
