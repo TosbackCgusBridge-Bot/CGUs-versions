@@ -5,35 +5,30 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
-    *   Fantastic Beasts: The Crimes of Grindelwald
+    *   Ralph Breaks the Internet
+    *   Creed II
     *   Dr. Seuss' The Grinch (2018)
+    *   Fantastic Beasts: The Crimes of Grindelwald
     *   Bohemian Rhapsody
     *   Instant Family (2018)
+    *   Robin Hood (2018)
     *   Widows (2018)
-    *   The Nutcracker and the Four Realms
+    *   Green Book
     *   A Star Is Born (2018)
-    *   Overlord (2018)
-    *   The Girl in the Spider's Web
-    *   Nobody's Fool
-    *   Venom (2018)
+    *   The Nutcracker and the Four Realms
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Creed II
-    *   Ralph Breaks the Internet
-    *   Robin Hood (2018)
-    *   Green Book
-    *   The Front Runner
-    *   Becoming Astrid
-    *   The Favourite
-    *   Shoplifters
-    *   The World Before Your Feet
+    *   The Possession of Hannah Grace
+    *   Anna and the Apocalypse
+    *   Head Full of Honey (2018)
+    *   Sicilian Ghost Story
+    *   Unstoppable (2018)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Possession of Hannah Grace
     *   Once Upon a Deadpool
     *   Mortal Engines
     *   The Mule (2018)
@@ -43,6 +38,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Mary Poppins Returns (2018)
     *   Second Act
     *   Welcome to Marwen
+    *   Holmes &. Watson
     *   See All Coming Soon
     
     Explore More
@@ -71,11 +67,12 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   'The Possession of Hannah Grace' May Scare the Dead Back to Life. Here's Everything We Know Read More
-    *   'The Lego Movie 2: The Second Part': Watch Funny New Trailer Read More
-    *   Truth Lies Beneath the Surface in New 'Serenity' Trailer. Here's Everything We Know Read More
+    *   First Teaser for 'The Lion King' Looks Amazing. Here's Everything We Know Read More
+    *   Next 3 Michael B. Jordan Movies: 'Just Mercy,' 'Wrong Answer,' 'A Bittersweet Life' Read More
     
     Explore Content
     *   Movie Reviews
+    *   Holiday Movie Guide
     *   Indie Movie Guide
     *   Family Guide
     *   House Of Screams
@@ -328,6 +325,10 @@ Offers
     
     Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
+*   'Fantastic Beasts: The Crimes of Grindelwald' Gift with Purchase
+    
+    Own all of your Wizarding World favorites for $5.99 each with ticket purchase. BUY TICKETS
+    
 
 New + Coming soon
 
@@ -351,6 +352,7 @@ Experience + Explore
 
 Editorial Features
 
+*   Holiday Movie Guide
 *   Indie Movie Guide
 *   Family Guide
 *   House Of Screams
