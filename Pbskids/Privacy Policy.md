@@ -1,8 +1,4 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
-
-New racing tracks out on the desktop version of Kart Kingdom every Monday! New racing tracks out on the desktop version of Kart Kingdom every Monday! Go now
-
-Toggle message bar
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS Toggle message bar
 
 *   Apps
 *   Shop
@@ -15,10 +11,7 @@ Toggle message bar
     
     Select your local station
     
-    *   Rocky Mountain PBS
-    *   Colorado Public Television / KBDI 12
-    
-    Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Find your stationBackPBS KIDS Super Vision
+    Results for . Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Find your stationBackPBS KIDS Super Vision
     
     See what your child is playing, watching, &. learning with our free Super Vision app for iPhone. _Super Vision app is connected_
     
