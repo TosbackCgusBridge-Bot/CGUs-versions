@@ -18,39 +18,39 @@ SHOP DEPARTMENTS
 *   Toys
 *   Coupons
 
-Near YouFind a StoreBackDAY 2 OF COUPON CODEHOLIDAY8ENDS IN23HOURS 40MINS 55SECS \*Offer ends November 27, 2018 30-50% OFF COOKSShop AllSMALL APPLIANCES30-50% OFF COOKSSMALL APPLIANCESShop All
+Near YouFind a StoreBackFINAL HOURS OF COUPON CODEHOLIDAY8ENDS IN00HOURS 40MINS 59SECS \*Offer ends November 27, 2018 30-50% OFF COOKSShop AllSMALL APPLIANCES30-50% OFF COOKSSMALL APPLIANCESShop All
 
 *   $4249after couponwas $100 Cooks Single Serve Coffee Maker(44)Add To Cart
 *   $2124after couponwas $70 Cooks 5-Qt. Programmable Latch and Travel Slow Cooker(212)Add To Cart
-*   $7649after couponwas $170 Cooks 5.3 Quart Air Fryer(59)Add To Cart
-*   $3399after couponwas $100 Cooks Fast Pot JR. 2 QT. Multi CookerAdd To Cart
-*   $1869after couponwas $40 Cooks 10" x 19" Non-Stick Griddle(363)Add To Cart
 *   $2124after couponwas $60 Cooks 4-Slice Toaster Oven(145)Add To Cart
-*   $1869after couponwas $40 Cooks 5-in-1 Power Blender(116)Add To Cart
+*   $1869after couponwas $40 Cooks 10" x 19" Non-Stick Griddle(363)Add To Cart
+*   $3399after couponwas $100 Cooks Fast Pot JR. 2 QT. Multi CookerAdd To Cart
+*   $1869after couponwas $40 Cooks 5-in-1 Power Blender(117)Add To Cart
+*   $4249after couponwas $100 Cooks 12x16 Smokeless GrillAdd To Cart
 
 BIG BEAUTY DEALSShop All$25 AND UNDER GIFTSBIG BEAUTY DEALS$25 AND UNDER GIFTSShop All
 
 *   $10
     
-    SEPHORA COLLECTION Enchanted Sky Eyshadow Palette(31)Add To Cart
+    SEPHORA COLLECTION Enchanted Sky Eyshadow Palette(34)Add To Cart
 *   from$12
     
-    Too Faced Better Than Sex Mascara(13600)Add To Cart
+    Too Faced Better Than Sex Mascara(13609)Add To Cart
 *   $12
     
-    SEPHORA COLLECTION Lip Potions Mini Cream Lip Stain Set(12)Add To Cart
+    SEPHORA COLLECTION Lip Potions Mini Cream Lip Stain Set(13)Add To Cart
 *   $14
     
     SEPHORA COLLECTION The Glowy Surprise Face and Lip Kit Popper(4)Add To Cart
 *   $18
     
-    SEPHORA COLLECTION The Enchanting Colors Eye and Face Palette(15)Add To Cart
+    SEPHORA COLLECTION The Enchanting Colors Eye and Face Palette(16)Add To Cart
 *   $10
     
     SEPHORA COLLECTION Give me some glitter set(3)Add To Cart
 *   $5
     
-    SEPHORA COLLECTION Foot Mask - Almond(13)Add To Cart
+    SEPHORA COLLECTION Foot Mask - Almond(14)Add To Cart
 
 60% OFF LUGGAGEShop AllAMERICAN TOURISTER60% OFF LUGGAGEAMERICAN TOURISTERShop All
 
@@ -65,40 +65,54 @@ BIG BEAUTY DEALSShop All$25 AND UNDER GIFTSBIG BEAUTY DEALS$25 AND UNDER GIFTSSh
     $5999after couponwas $200 American Tourister Fieldbrook Xlt 4-pc. Lightweight Luggage Set(3)Add To Cart
 *   ADVERTISED DEAL!
     
-    $7839after couponwas $280 American Tourister Pirouette X 28 Inch Hardside Luggage(9)Add To Cart
-*   ADVERTISED DEAL!
-    
     $5999after couponwas $200 American Tourister Pirouette X 20 Inch Hardside Luggage(8)Add To Cart
 *   ADVERTISED DEAL!
     
     $7199after couponwas $240 American Tourister Pirouette X 24 Inch Hardside Luggage(11)Add To Cart
 *   ADVERTISED DEAL!
     
+    $5999after couponwas $200 American Tourister Minnie Mouse 21 Inch Lightweight Luggage(21)Add To Cart
+*   ADVERTISED DEAL!
+    
     $5999after couponwas $200 American Tourister Fieldbrook Xlt 4-pc. Lightweight Luggage Set(3)Add To Cart
 
-19.99 A.N.A APPARELShop AllSELECT STYLES19.99 A.N.A APPARELSELECT STYLESShop All
+UP TO 40% OFF DISNEYShop AllSELECT STYLESUP TO 40% OFF DISNEYSELECT STYLESShop All
 
 *   ADVERTISED DEAL!
     
-    $1499after couponwas $49 a.n.a Modern Skinny Leg Jegging(155)Add To Cart
+    $75 sale
+    
+    was $125 Disney Olaf's Frozen Adventure Castle with Figures(1)Add To Cart
 *   ADVERTISED DEAL!
     
-    $1499after couponwas $44 a.n.a Long Sleeve Open Neck Cardigan(15)Add To Cart
+    $1080 sale
+    
+    was $18 Disney Minnie Mouse Stuffed AnimalAdd To Cart
 *   ADVERTISED DEAL!
     
-    $1499after couponwas $49 a.n.a Raw Hem Ripped Jegging(32)Add To Cart
+    $9 sale
+    
+    was $15 Disney Moana Doll(17)Add To Cart
 *   ADVERTISED DEAL!
     
-    $1499after couponwas $49 a.n.a Patch &. Repair Skinny Fit Jeggings(1)Add To Cart
+    $1440 sale
+    
+    was $24 Disney Collection Rapunzel Toddler Doll(37)Add To Cart
 *   ADVERTISED DEAL!
     
-    $1470after couponwas $49 a.n.a Modern Fit Jeggings(3)Add To Cart
+    $1440 sale
+    
+    was $24 Disney Collection Belle Toddler Doll(27)Add To Cart
 *   ADVERTISED DEAL!
     
-    $1499after couponwas $49 a.n.a Release Hem Skinny Fit Jeggings(2)Add To Cart
+    $36 sale
+    
+    was $60 Disney Mickey Mouse Firehouse with Mickey &. PlutoAdd To Cart
 *   ADVERTISED DEAL!
     
-    $1499after couponwas $49 a.n.a Floral Flocked Jegging(2)Add To Cart
+    $1440 sale
+    
+    was $24 Disney Moana Doll(3)Add To Cart
 
 50% OFF SLIPPERSShop AllSELECT STYLES50% OFF SLIPPERSSELECT STYLESShop All
 
@@ -113,33 +127,35 @@ BIG BEAUTY DEALSShop All$25 AND UNDER GIFTSBIG BEAUTY DEALS$25 AND UNDER GIFTSSh
     $1274after couponwas $34 Isotoner Microsuede Bootie Slippers with 360 Memory Foam(4)Add To Cart
 *   ADVERTISED DEAL!
     
-    $1124after couponwas $30 Isotoner Microsuede Clog Slippers with 360 Memory FoamAdd To Cart
-*   ADVERTISED DEAL!
-    
     $1124after couponwas $30 Dearfoams Knit Scuff Slip-On Slippers(3)Add To Cart
 *   ADVERTISED DEAL!
     
-    $1124after couponwas $30 Dearfoams Clog SlippersAdd To Cart
+    $1124after couponwas $30 Isotoner Microsuede Clog Slippers with 360 Memory FoamAdd To Cart
 *   ADVERTISED DEAL!
     
     $1124after couponwas $30 Isotoner Sweater Knit Clog Slippers with 360 Memory FoamAdd To Cart
+*   ADVERTISED DEAL!
+    
+    $1124after couponwas $30 Dearfoams Clog SlippersAdd To Cart
 
 Hot Sellers
 
 *   ADVERTISED DEAL!
     
-    $2999 sale
-    
-    was $79 | 62% offSky Rider DRW328R Eagle Pro 3 Wi-Fi Camera Drone
-*   $1649after couponwas $44 Stafford Travel Wrinkle Free Stretch Oxford Long Sleeve Plaid Dress Shirt
-*   $2124after couponwas $70 Cooks 5-Qt. Programmable Latch and Travel Slow Cooker(212)
-*   $3999 sale
-    
-    was $59.50 | 32% offLevi's® 501® Original Fit Jeans(721)
+    $3599after couponwas $120 St. John's Bay Heavyweight Puffer Jacket(3)
 *   ADVERTISED DEAL!
     
-    $1874after couponwas $60 Arizona Womens Jones Combat Block Heel Zip Boots(25)
-*   $1874after couponwas $50 St. John's Bay Mock Neck Long Sleeve Pullover Sweater(14)
+    $1499after couponwas $42 Arizona Basic Relaxed Straight Jeans(678)
+*   ADVERTISED DEAL!
+    
+    $1499after couponwas $100 Xersion Packable Water Resistant Lightweight Puffer Jacket(9)
+*   $1499after couponwas $40 The Foundry Big &. Tall Supply Co. Long Sleeve Henley Shirt-Big and Tall(5)
+*   $3999 sale
+    
+    was $59.50 | 32% offLevi's® 550™ Relaxed Fit Jeans(1143)
+*   ADVERTISED DEAL!
+    
+    $1649after couponwas $44 Stafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt(125)
 
 Shop and Save at JCPenney
 
