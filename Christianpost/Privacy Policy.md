@@ -8,6 +8,7 @@ Skip to main content <p class="enable-js">. To enjoy our website, you'll need to
 *   Living
 *   Opinion
 *   Voices
+*   Books
 *   Video
 
 Menu Search P404 Newsletter Close Menu 404 Page not found
@@ -25,15 +26,16 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 *   Living
 *   Opinion
 *   Voices
+*   Books
 *   Video
 
 Hot Topics
 
-*   Kim Porter
-*   Holiday movies
+*   Sodom
+*   Holy sexuality
+*   Jamal Bryant
 *   Missionary killed
-*   Anne Graham Lotz
-*   Planned Parenthood
+*   Macy's parade
 
 About Us
 
