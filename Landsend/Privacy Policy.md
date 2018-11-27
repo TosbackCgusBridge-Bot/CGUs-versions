@@ -985,9 +985,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles. plus, today only, $24 women's down vests\*!
+Receive 50% off full-price styles. plus, today only, $11 women's turtlenecks and mocks\*!
 
-code: FROST pin: 6231 DETAILS
+code: MONDAY pin: 3264 DETAILS
 
 Customer Service Menu
 
