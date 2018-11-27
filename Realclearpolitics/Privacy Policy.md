@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _John Solomon_: Biggest Threat to Journalism: The Loss of Neutral Reporting
+*   _Paul Waldman_: Don't Mess With Nancy Pelosi
     
-*   _Michael Conway_: Nixon Waged War on Press--Trump's Attacks Are Worse
+*   _Jesse Kelly_: Twitter Banned Me for No Reason--They'll Lose in the End
     
-*   _Andrew McCarthy_: 'The Enemy of the People'
+*   _David Smith_: Failure Looms for Trump as Dems Load Subpoena Cannon
     
-*   _Amy Sorkin_: The Leaderless Fight Against Nancy Pelosi's Leadership
+*   _Adriana Cohen_: Just a Few Questions, Mr. Comey and Ms. Lynch
     
-*   _Stephen Presser_: Trump vs. Roberts: Why the President Prevails
+*   _Robinson Meyer_: A Grave Climate Warning, Buried on Black Friday
     
-*   _Zoffer &. Ferguson_: Will Mueller and a Blue House Finally Bring Down Trump?
+*   _David Andelman_: Paris Gas Tax Protests Could Put Macron Future in Jeopardy
     
-*   _Alfredo Ortiz_: House Democrats' Agenda Threatens Economic Prosperity
+*   _Ryan Anderson_: NYT Reveals Painful Truths About Transgender Lives
     
-*   _Paul Krugman_: How Democrats Can Deliver on Healthcare
+*   _Albert Hunt_: Hoist a Glass, Democrats. Demographic Destiny Is Back.
     
-*   _Eli Lake_: Trump Dares Congress to Do What He Won't on Saudi Arabia
+*   _Reid Wilson_: Did Puerto Ricans Elect Rick Scott in Florida?
     
-*   _Christian Whiton_: Chattering Class Has No Idea How to Defend U.S.
+*   _Dara Lind_: The Border Crisis Is Real, But It's Not the Crisis Trump Thinks It Is
     
-*   _Jonah Goldberg_: Trump's Odd Definition of 'America First'
+*   _David Marcus_: What If Trump Hadn't Sent Troops to the Border?
     
-*   _Graeme Wood_: The Brutal Truth: MbS Has Done What America Has Asked
+*   _Marc Thiessen_: We Do Have Obama Judges and Trump Judges
     
-*   _Jochen Bittner_: It's Time for Angela Merkel to Leave
+*   _Harry Litman_: Roberts Can't Tame Trump, But Supreme Court Might
     
-*   _Jacob Rees-Mogg_: Why Boris Johnson Would Make a Good Leader
+*   _Sharyl Attkisson_: Media Has Suspended Its Standards When Covering Trump
     
-*   _Dr. Jack Graham_: Black Friday: Beware Living w/Full Carts &. Empty Hearts
+*   _Reps. Pelosi &. Sarbanes_: House Dems' 1st Order of Business: Restore Democracy
     
-*   _Michael Grunwald_: How Everything Became the Culture War
+*   _Charles Hurt_: Poor Chuckie Schumer: Still the Minority Leader
     
-*   _Victor Davis Hanson_: Blame It On 1968
+*   _Nan Whaley_: Ohio Isn't a Red State Yet
     
-*   _Eugene Robinson_: Trump a Clueless Clown, Not a Champion of Human Rights
+*   _Liah Greenfeld_: The World Nationalism Made
     
-*   _Richard Fernandez_: Democrats Are Trying to Co-opt Trump's Successes
+*   _E.J. Dionne_: Trump's Shameful Indifference to the Khashoggi Killing
     
-*   _Daniel Politi_: Trump Doubles Down in Fight With Chief Justice Roberts
+*   _Lee Smith_: Foreign Policy Establishment Hasn't Learned Its Lesson
     
-*   _Daniel Flynn_: Who Is John Roberts to Judge Trump?
+*   _Rhodes &. Sullivan_: A Chance to Repair America's Image Abroad
     
-*   _John Russo_: Ohio: Another Brick in the Red Wall
+*   _Steve Cortes_: The Perfidy of Illinois' Public Payrolls
     
-*   _Ronald Brownstein_: California Has Become a Crisis for the Republicans
+*   _Irwin Stelzer_: Big Tech Is in Big Trouble
     
-*   _Bill Whalen_: Is Gavin Newsom on a Fast Track to a 2020 Bid?
+*   _David Leonhardt_: The Monopolization of America
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Demands "Some Common Sense" From Judges
+*   Without a Rival Candidate, Pelosi Looks Headed for Speakership
+*   Mexico to Increase Security at Border After Migrants Try to Cross
+*   Gowdy: Record Comey's Deposition and Make It Public
 *   Saudi Royal Says Crown Prince Is Here to Stay
-*   Trump Holds Teleconference With Military, Presser With Media
 *   Challenges to Trump in 2020 Starting to Take Shape?
-*   Proxy Advisors: Why Investors Should Be Concerned
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,6 +243,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove60Disapprove +22
 *   Mississippi Senate Run-Off Election - Hyde-Smith vs. EspyBold Blue Campaigns/JMC
     *   Hyde-Smith54
     *   Espy44Hyde-Smith +10
@@ -252,17 +255,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve51
     *   Disapprove48Approve +3
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve44
-    *   Disapprove51Disapprove +7
 
 More Latest Polls In The News
 
+*   Trump On Tear Gas at Border: "Nobody Is Coming In Our Country Unless They Come In Legally"
+*   San Diego Border Patrol Chief: Asylum-Seekers Would Surrender, Not Throw Rocks
 *   Schiff: House Intel Committee Will Look Into Whether "Russian Financial Hand" Is Pulling Trump's Strings
 *   Rep. Trey Gowdy Wants James Comey Deposition Taped And Made Public
 *   Dan Bongino on Spygate: Obama, Mueller &. The Biggest Spy Scandal In American History
-*   David Brooks: "I Don't Want To Get Hysterical," But Trump Is What Authoritarianism After A Democracy Looks Like
-*   Sen. Mazie Hirono: "These Are Not Normal Times, And We Don't Have A President Who Acts Normally"
 
 *   Politics
 *   Policy
