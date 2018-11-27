@@ -1,4 +1,7 @@
-*   GB4-6-117MIN6-4-124Final
+*   TEN5-617HOU8-334Final
+*   CHI8-323DET4-716Final
+*   WAS6-523DAL6-531Final
+*   ATL4-717NO10-131Final
 *   OAK2-917BAL6-534Final
 *   JAX3-821BUF4-724Final
 *   SEA6-530CAR6-527Final
@@ -9,10 +12,7 @@
 *   ARI2-910LAC8-345Final
 *   MIA5-624IND6-527Final
 *   PIT7-3-117DEN5-624Final
-*   TEN5-5HOU7-3Mon, 8:15 pm ET
-*   CHI8-323DET4-716Final
-*   WAS6-523DAL6-531Final
-*   ATL4-717NO10-131Final
+*   GB4-6-117MIN6-4-124Final
 
 *   News
 *   Scores
@@ -31,7 +31,10 @@
 *   NFL Network
 *   Photos
 
-*   GB17MIN24Final
+*   TEN17HOU34Final
+*   CHI23DET16Final
+*   WAS23DAL31Final
+*   ATL17NO31Final
 *   OAK17BAL34Final
 *   JAX21BUF24Final
 *   SEA30CAR27Final
@@ -42,10 +45,7 @@
 *   ARI10LAC45Final
 *   MIA24IND27Final
 *   PIT17DEN24Final
-*   TEN5-5HOU7-3Mon, 8:15 pm ET
-*   CHI23DET16Final
-*   WAS23DAL31Final
-*   ATL17NO31Final
+*   GB17MIN24Final
 
 *   News
 *   Scores
