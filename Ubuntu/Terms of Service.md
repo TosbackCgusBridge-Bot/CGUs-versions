@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu at KubeCon &. CloudNativeCon ›
 *   How to effortlessly modernise your cloud ›
 *   Goodbye OpenStack, hello Open Infrastructure Summit ›
 *   Ubuntu, security &. compliance ›
 *   Behind the drone: how aerial robotics solve industrial IOT challenges ›
-*   egmde: a project that uses Mir ›
