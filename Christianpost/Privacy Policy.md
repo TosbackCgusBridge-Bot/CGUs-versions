@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Sodom
-*   Holy sexuality
-*   Jamal Bryant
-*   Missionary killed
-*   Macy's parade
+*   Dave Ramsey
+*   Flying preacher
+*   Christmas display
+*   Churches merge
+*   Archaeology
 
 About Us
 
