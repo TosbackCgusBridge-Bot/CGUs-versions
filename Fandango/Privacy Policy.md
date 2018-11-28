@@ -66,7 +66,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'The Possession of Hannah Grace' May Scare the Dead Back to Life. Here's Everything We Know Read More
+    *   First 'Artemis Fowl' Teaser Will Make You Believe. Here's Everything We Know Read More
     *   First Teaser for 'The Lion King' Looks Amazing. Here's Everything We Know Read More
     *   Next 3 Michael B. Jordan Movies: 'Just Mercy,' 'Wrong Answer,' 'A Bittersweet Life' Read More
     
@@ -332,14 +332,14 @@ Offers
 
 New + Coming soon
 
-*   First Man
-*   Bohemian Rhapsody
-*   The Nutcracker and the Four Realms
 *   The Girl in the Spider's Web
 *   Dr. Seuss' The Grinch (2018)
 *   Fantastic Beasts: The Crimes of Grindelwald
-*   Instant Family (2018)
-*   Widows (2018)
+*   Creed II
+*   Robin Hood (2018)
+*   Ralph Breaks the Internet
+*   Bumblebee
+*   Aquaman
 
 Experience + Explore
 
@@ -375,4 +375,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
