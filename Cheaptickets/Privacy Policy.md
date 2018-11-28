@@ -40,7 +40,7 @@ Show Menu Hide Menu
     *   Customer Support
     *   Feedback
 
-//a.travel-assets.com/globalcontrols-service/content/9cca9ce9c255b45cee4f2d9bbf984f64009272cf Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+//a.travel-assets.com/globalcontrols-service/content/69db5005336a1009aed60e564bf21106f79caa65 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Vacation Packages
