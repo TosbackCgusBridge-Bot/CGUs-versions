@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 27 November 2018 ›
+*   The power of installed-base snap metrics ›
 *   Ubuntu at KubeCon &. CloudNativeCon ›
 *   How to effortlessly modernise your cloud ›
 *   Goodbye OpenStack, hello Open Infrastructure Summit ›
-*   Ubuntu, security &. compliance ›
-*   Behind the drone: how aerial robotics solve industrial IOT challenges ›
