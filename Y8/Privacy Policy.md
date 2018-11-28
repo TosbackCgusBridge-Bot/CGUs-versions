@@ -3,42 +3,42 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx
+New Games Next in  01:22:05
 
-*   By Date Next addition in xx:xx
+*   By Date Next addition in 01:22:05
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in xx:xx
-*   Best of new games 2016 games
-*   Most Popular Games 18173 games
+*   New Games Next in 01:22:05
+*   Best of new games 2010 games
+*   Most Popular Games 18183 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,510 games
+*   Games for girls 23,512 games
 *   Driving &. Racing Games 6,715 games
 *   Strategy &. RPG Games 2,404 games
 *   Management Games 3,630 games
-*   Thinking Games 11,864 games
-*   Action &. Adventure Games 15,859 games
+*   Thinking Games 11,866 games
+*   Action &. Adventure Games 15,860 games
 *   Sports Games 2,135 games
-*   Shooting Games 8,338 games
+*   Shooting Games 8,340 games
 *   Fighting Games 2,090 games
-*   Skill Games 10,638 games
-*   Arcade &. Classic Games 12,656 games
-*   Fun &. Crazy Games 2,475 games
+*   Skill Games 10,644 games
+*   Arcade &. Classic Games 12,654 games
+*   Fun &. Crazy Games 2,474 games
 
 Play with friends  
-Powered by Y8 Account 143 Y8 Multiplayer Games 1,752 Y8 High Score Games 1,076 Y8 Achievements Games 793 Y8 Screenshots Games 1,367 Y8 Online Save Games 2,786 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 143 Y8 Multiplayer Games 1,754 Y8 High Score Games 1,078 Y8 Achievements Games 793 Y8 Screenshots Games 1,368 Y8 Online Save Games 2,788 All Y8 Games Games Last Highscore:
 
-**82** points on Match Drop by Dods
+**56,300** points on Big Bad Ape by vuthetoan
 
-Help us improve Bad translation? Social Y8 Games Facebook
+Help us improve Bad translation? Social Share890K
 
 *   Contact Form
 *   Submit a Game or Video
@@ -272,4 +272,4 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Privacy Policy
 *   Cookie Policy
 
-We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
+Share890K We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
