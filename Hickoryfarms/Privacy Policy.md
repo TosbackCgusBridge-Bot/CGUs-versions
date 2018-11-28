@@ -56,7 +56,7 @@
     *   Mints
     *   Cookies &. Cakes
     *   Candy &. Confections
-    *   DessertsMost Popular Cookies &. Cakes
+    *   DessertsMost Popular Chocolates
 *   Holiday
     
     View All Categories Shop by Category*   Christmas Gifts
@@ -67,7 +67,10 @@
     *   Weddings &. Showers
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Christmas Gifts
-*   Cyber Monday
+*   Cyber Week
+    View All Categories Shop by Category*   Chocolates
+    *   Filets
+    *   Gift Towers &. Crates
 
 1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Skip to content Business Gifts Stores Account
 
@@ -135,7 +138,7 @@
     *   Mints
     *   Cookies &. Cakes
     *   Candy &. Confections
-    *   DessertsMost Popular Cookies &. Cakes
+    *   DessertsMost Popular Chocolates
 *   Holiday
     
     View All Categories Shop by Category*   Christmas Gifts
@@ -146,9 +149,12 @@
     *   Weddings &. Showers
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Christmas Gifts
-*   Cyber Monday
+*   Cyber Week
+    View All Categories Shop by Category*   Chocolates
+    *   Filets
+    *   Gift Towers &. Crates
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Free Shipping, No Minimum! Shop Cyber Monday Today!\*
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Free Shipping on Shipments Over $35!\*
 
 1.  Home
 2.  Privacy Policy
