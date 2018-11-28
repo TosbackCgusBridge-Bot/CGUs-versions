@@ -276,11 +276,11 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-Hurry! Cyber Monday Deals Are Going Fast! 361 Days 23 Hrs : Days 32 Mins : Days 23 Secs
+**SHOP CYBER DEALS**  GIRLS GUYS **UP TO 70% OFF SITEWIDE  + FREE SHIPPING OVER $25**
 
 *   My Account My Account Login Register
 
-FREE SHIPPING OVER $25 + 70% OFF THROUGHOUT SITE Menu Find a Store Aeropostale
+Menu Find a Store Aeropostale
 
 *   New Arrivals
     
