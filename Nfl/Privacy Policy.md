@@ -55,7 +55,7 @@
 *   Playoff Picture
 
 *   Scores
-*   SHOP
+*   Highlights
 
 *   *   Game Pass
     *   Stats
