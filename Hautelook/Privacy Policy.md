@@ -4,208 +4,208 @@ Nordstrom RackHauteLook
 *   Help
 *   Invite a Friend, Get $20
 
-CartYou have no items in your cartStart shopping now to take advantage of prices up to 75% off.HauteLookFREE SHIPPING SITEWIDE on Standard Orders, Now Through Monday!\*
+CartYou have no items in your cartStart shopping now to take advantage of prices up to 75% off.HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Joie Up to 70% Off
+    *   CURRENT/ELLIOTT Up to 65% Off
+    *   Via Spiga Up to 55% Off
+    *   Designer Sun ft. Versace
+    *   KitchenAid
+    *   Lacoste Bedding
+    *   Free Shipping: Fresh Area Rugs
+    *   Free Shipping: Marmont Hill Wall Art
+    *   Betsey Johnson &. Love...Ady Dresses
+    *   Sapanyu Multicolor Gemstone Jewelry Under $65
+    *   Gym to Street: Active ft. Betsey Johnson
+    *   Designer Scarves
+    *   Scotch &. Soda Up to 50% Off
+    *   Luxe Dress Shoes ft. Vince Camuto
+    *   Canada Weather Gear Kids' Outerwear
+    *   Welden Handbags
+    *   Kensie &. Madden Girl
+    *   Sultry Sleep &. Lingerie ft. Betsey Johnson
+    *   Vintage Havana Up to 50% Off
+    *   Holiday Party Picks Starting at $20
+    *   Bruno Magli Watches
+    *   On-Trend Jewelry from Gabi Rielle from $17
+    *   STEM: Education &. Learning Toys
+    *   Skechers Kids Up to 50% Off
+    *   Tailored Recreation Starting at $13
+    *   Badgley Mischka Men's Shoes
+    *   Oakley Men Up to 50% Off
+    *   CURRENT/ELLIOTT Men Up to 65% Off
+    *   OFRA Cosmetics &. Lime Crime
+    *   On-the-Go Glam: Travel Accessories from $10
+    *   Teami Blends Detox Teas &. Supplements
+    *   Holiday Glow: Premier Skin Care
     *   BIRKENSTOCK Up to 40% Off
     *   BIRKENSTOCK Men Up to 50% Off
-    *   BIRKENSTOCK Kids Up to 45% Off
-    *   Dyson Up to 50% Off
-    *   Designer Fragrances Up to 50% Off ft. Burberry
     *   CQbyCQ Starting at $20
+    *   BIRKENSTOCK Kids Up to 45% Off
+    
     *   Cozy Robes &. Sleep ft. PJ Salvage
     *   Adornia Jewelry Up to 80% Off
     *   Hickey Freeman Up to 60% Off
-    *   Sweater Shop: Styles Under $35
-    *   PUMA Active
     *   Good Luck Gem Starting at $15
     *   cupcakes and cashmere Starting at $30
-    *   Isaac Mizrahi Boys' Dresswear
     *   Free Shipping: Sleek Accent Furniture &. More
-    *   Italian Collection Bags Up to 65% Off
     *   Best of Italy: Bags
     *   Subtle Luxury Cashmere Up to 70% Off
-    *   True Religion
     *   Boots &. Booties ft. Rebels Up to 50% Off
     *   Gifts Galore: Crayola &. More
+    *   Isaac Mizrahi Boys' Dresswear
     *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Kuwalla
     *   Sweet Gifts: Retro Kitchen Appliances
     *   Good Man Brand Under $100
     *   Korean Beauty: JayJun &. VT Cosmetics
     *   Michael Todd Beauty Soniclear &. More
-    *   Hanky Panky
     *   Free Shipping: Bold Modern Art
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
-    *   True Religion Men Up to 60% Off
-    *   True Religion Kids Up to 60% Off
-    *   Romeo &. Juliet Couture Up to 80% Off
+    *   Sweater Shop: Styles Under $35
+    *   Dyson Up to 50% Off
     *   14K Gold Jewelry Under $80
     *   Women's Shoe Blowout
     *   Fashion Finds: Styles Under $20
-    
     *   Free Shipping: Kitchen Blowout
-    *   Lush Starting at $10
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Gemstone Jewelry Under $75
     *   Free Shipping: Pillows &. Throws Blowout
     *   Men's Shoe Steals Up to 70% Off
-    *   W118 by Walter Baker Up to 70% Off
+    *   True Religion
+    *   Designer Fragrances Up to 50% Off ft. Burberry
+    *   True Religion Men Up to 60% Off
+    *   True Religion Kids Up to 60% Off
     *   On-Trend Sterling Silver Jewelry from $15
-    *   Lola Made in Italy Up to 75% Off
     *   Bulova &. Citizen Watches Up to 60% Off
     *   TEDCO Toys Science Kits &. More
+    
     *   Oh-So-Soft Basics for Baby
     *   Korean Beauty: Leaders Cosmetics
     *   BC Collection Up to 75% Off
     *   Add Joy: Holiday Decor &. More Up to 70% Off
-    *   Steve Madden Starting at $30
-    *   Western Girl Boots Under $50
     *   One-of-a-Kind Bags &. More Up to 80% Off
     *   Stocking Stuffers: Men's Accessories
     *   Luxe Warmth: Cashmere Throws &. More
-    *   Happy Dance: Giftable Kids' Shoes
-    *   Go Couture Sweater Blowout
-    *   Derek Lam 10 Crosby Up to 85% Off
-    *   Party Dresses from bebe &. More
     *   philosophy
-    *   Sliced Diamond Jewelry &. More Under $80
     *   New Balance Men
     *   Men's Leather Jackets ft. LAMARQUE
-    *   Norma Kamali Up to 70% Off
-    *   Elodie Starting at $15
     *   One Stop Shop: Christmas Decor
-    *   New Balance Kids
-    *   Rene Rofe Baby Under $15
-    *   Gold Jewelry &. More Starting at $15
     *   TR Premium Up to 80% Off
     *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
-    
     *   Predire Paris Luxury Skin Care
-    *   Cashmere Shop ft. M by Magaschoni Up to 70% Off
-    *   Gifts with Style: Looks She'll Love
-    *   Diesel Men Up to 60% Off
     *   Free Shipping: NMK Bedding Up to 75% Off
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   $60 &. Under: Crevo Men
-    *   Men's Boots Under $100
-    *   Sky Organics
-    *   New Balance
+    *   Scotch &. Soda Up to 65% Off
     *   Ultra-Soft Towels Starting at $10
     *   Free Shipping: Farmhouse-Inspired Decor
     *   Free Shipping: Budget-Friendly Accent Furniture
     *   Free Shipping: Modern Rugs Up to 70% Off
-    *   Royale USA Hair Tools
-    *   Zoe Ayla Cosmetics
-    *   Cosmetics Bags by Marc Tetro
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
     *   Free Shipping: Hand-Painted Replicas
     *   Steve Madden Men
-    *   Scotch &. Soda Up to 65% Off
-    *   Kooba Handbags
-    *   Taryn Rose Up to 45% Off
-    *   Trending Now: Pointed Toe Booties, Pumps &. More
-    *   Linea Paolo Up to 60% Off
     *   Men's Must-Haves: Sweaters Under $70
-    *   Kendra Scott Home &. Jewelry
     *   Manna Kadar Cosmetics
-    *   Tis the Season: Mantelpiece &. Tree Decor
     *   Free Shipping: Pop Art Pillows
+    *   Romeo &. Juliet Couture Up to 80% Off
+    *   Cashmere Shop ft. M by Magaschoni Up to 70% Off
+    *   Go Couture Sweater Blowout
+    *   Party Dresses from bebe &. More
+    *   Sky Organics
     *   Free Shipping: Trolley Carts &. More
     *   Free Shipping: Professional Garment Steamers
-    *   Free Shipping: Modern Flatware
-    *   Warm &. Inviting: Simple Soy Candle Co.
 *   WomenShop Sale Events
     
+    *   Joie Up to 70% Off
+    *   CURRENT/ELLIOTT Up to 65% Off
+    *   Via Spiga Up to 55% Off
+    *   Designer Sun ft. Versace
+    *   Betsey Johnson &. Love...Ady Dresses
+    *   Sapanyu Multicolor Gemstone Jewelry Under $65
+    *   Gym to Street: Active ft. Betsey Johnson
+    *   Designer Scarves
+    *   Welden Handbags
+    *   Kensie &. Madden Girl
+    *   Sultry Sleep &. Lingerie ft. Betsey Johnson
+    *   Vintage Havana Up to 50% Off
+    *   Holiday Party Picks Starting at $20
+    *   Bruno Magli Watches
+    *   On-Trend Jewelry from Gabi Rielle from $17
+    *   OFRA Cosmetics &. Lime Crime
+    *   On-the-Go Glam: Travel Accessories from $10
+    *   Teami Blends Detox Teas &. Supplements
+    *   Holiday Glow: Premier Skin Care
     *   BIRKENSTOCK Up to 40% Off
-    *   Designer Fragrances Up to 50% Off ft. Burberry
     *   CQbyCQ Starting at $20
     *   Cozy Robes &. Sleep ft. PJ Salvage
     *   Adornia Jewelry Up to 80% Off
-    *   Sweater Shop: Styles Under $35
-    *   PUMA Active
     *   Good Luck Gem Starting at $15
     *   cupcakes and cashmere Starting at $30
-    *   Italian Collection Bags Up to 65% Off
     *   Best of Italy: Bags
     *   Subtle Luxury Cashmere Up to 70% Off
-    *   True Religion
+    
     *   Boots &. Booties ft. Rebels Up to 50% Off
     *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Korean Beauty: JayJun &. VT Cosmetics
     *   Michael Todd Beauty Soniclear &. More
-    *   Hanky Panky
-    *   Romeo &. Juliet Couture Up to 80% Off
+    *   Sweater Shop: Styles Under $35
     *   14K Gold Jewelry Under $80
     *   Women's Shoe Blowout
     *   Fashion Finds: Styles Under $20
-    *   Lush Starting at $10
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Gemstone Jewelry Under $75
-    *   W118 by Walter Baker Up to 70% Off
+    *   True Religion
+    *   Designer Fragrances Up to 50% Off ft. Burberry
     *   On-Trend Sterling Silver Jewelry from $15
-    *   Lola Made in Italy Up to 75% Off
     *   Bulova &. Citizen Watches Up to 60% Off
-    
     *   Korean Beauty: Leaders Cosmetics
-    *   Steve Madden Starting at $30
-    *   Western Girl Boots Under $50
     *   One-of-a-Kind Bags &. More Up to 80% Off
-    *   Go Couture Sweater Blowout
-    *   Derek Lam 10 Crosby Up to 85% Off
-    *   Party Dresses from bebe &. More
     *   philosophy
-    *   Sliced Diamond Jewelry &. More Under $80
-    *   Norma Kamali Up to 70% Off
-    *   Elodie Starting at $15
-    *   Gold Jewelry &. More Starting at $15
     *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
     *   Predire Paris Luxury Skin Care
-    *   Cashmere Shop ft. M by Magaschoni Up to 70% Off
-    *   Gifts with Style: Looks She'll Love
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Sky Organics
-    *   New Balance
-    *   Royale USA Hair Tools
-    *   Zoe Ayla Cosmetics
-    *   Cosmetics Bags by Marc Tetro
     *   Scotch &. Soda Up to 65% Off
-    *   Kooba Handbags
-    *   Taryn Rose Up to 45% Off
-    *   Trending Now: Pointed Toe Booties, Pumps &. More
-    *   Linea Paolo Up to 60% Off
-    *   Kendra Scott Home &. Jewelry
     *   Manna Kadar Cosmetics
+    *   Romeo &. Juliet Couture Up to 80% Off
+    *   Cashmere Shop ft. M by Magaschoni Up to 70% Off
+    *   Go Couture Sweater Blowout
+    *   Party Dresses from bebe &. More
+    *   Sky Organics
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Lingerie
-    *   Handbags
+    *   Accessories
     *   Jewelry
     *   Watches
-    *   Accessories
+    *   Handbags
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Scotch &. Soda Up to 50% Off
+    *   Luxe Dress Shoes ft. Vince Camuto
+    *   Tailored Recreation Starting at $13
+    *   Badgley Mischka Men's Shoes
+    *   Oakley Men Up to 50% Off
+    *   CURRENT/ELLIOTT Men Up to 65% Off
+    *   Teami Blends Detox Teas &. Supplements
     *   BIRKENSTOCK Men Up to 50% Off
     *   Hickey Freeman Up to 60% Off
     *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Kuwalla
+    
     *   Good Man Brand Under $100
-    *   True Religion Men Up to 60% Off
     *   Men's Shoe Steals Up to 70% Off
+    *   True Religion Men Up to 60% Off
     *   Bulova &. Citizen Watches Up to 60% Off
     *   BC Collection Up to 75% Off
-    
     *   Stocking Stuffers: Men's Accessories
     *   New Balance Men
     *   Men's Leather Jackets ft. LAMARQUE
     *   TR Premium Up to 80% Off
-    *   Diesel Men Up to 60% Off
-    *   $60 &. Under: Crevo Men
-    *   Men's Boots Under $100
     *   Steve Madden Men
     *   Men's Must-Haves: Sweaters Under $70
     
@@ -216,87 +216,91 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Canada Weather Gear Kids' Outerwear
+    *   STEM: Education &. Learning Toys
+    *   Skechers Kids Up to 50% Off
     *   BIRKENSTOCK Kids Up to 45% Off
-    *   Isaac Mizrahi Boys' Dresswear
     *   Gifts Galore: Crayola &. More
+    *   Isaac Mizrahi Boys' Dresswear
     *   True Religion Kids Up to 60% Off
     *   TEDCO Toys Science Kits &. More
     *   Oh-So-Soft Basics for Baby
-    *   Happy Dance: Giftable Kids' Shoes
-    *   New Balance Kids
-    *   Rene Rofe Baby Under $15
     
     Shop By Category
     *   Girls' Shoes
-    *   Boys' Shoes
     *   Boys Sizes 2T-7
+    *   Boys' Shoes
     *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
     *   Boys Sizes 8-20
     *   Baby Boy
+    *   Toys
     *   Baby Girl
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   Dyson Up to 50% Off
+    *   KitchenAid
+    *   Lacoste Bedding
+    *   Free Shipping: Fresh Area Rugs
+    *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Sleek Accent Furniture &. More
     *   Sweet Gifts: Retro Kitchen Appliances
     *   Free Shipping: Bold Modern Art
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
+    *   Dyson Up to 50% Off
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Pillows &. Throws Blowout
     *   Add Joy: Holiday Decor &. More Up to 70% Off
+    
     *   Luxe Warmth: Cashmere Throws &. More
     *   One Stop Shop: Christmas Decor
     *   Free Shipping: NMK Bedding Up to 75% Off
     *   Ultra-Soft Towels Starting at $10
-    
     *   Free Shipping: Farmhouse-Inspired Decor
     *   Free Shipping: Budget-Friendly Accent Furniture
     *   Free Shipping: Modern Rugs Up to 70% Off
     *   Free Shipping: Brazilian Cowhide Up to 75% Off
     *   Free Shipping: Hand-Painted Replicas
-    *   Tis the Season: Mantelpiece &. Tree Decor
     *   Free Shipping: Pop Art Pillows
     *   Free Shipping: Trolley Carts &. More
     *   Free Shipping: Professional Garment Steamers
-    *   Free Shipping: Modern Flatware
-    *   Warm &. Inviting: Simple Soy Candle Co.
     
     Shop By Category
     *   Holiday Decorations
     *   Home Decor
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Accent Furniture
     *   Storage &. Organization
     *   Rugs &. Doormats
     *   Outdoor Living
-    *   Bedding
-    *   Bath
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
-    *   Designer Fragrances Up to 50% Off ft. Burberry
+    *   OFRA Cosmetics &. Lime Crime
+    *   On-the-Go Glam: Travel Accessories from $10
+    *   Teami Blends Detox Teas &. Supplements
+    *   Holiday Glow: Premier Skin Care
     *   Korean Beauty: JayJun &. VT Cosmetics
     *   Michael Todd Beauty Soniclear &. More
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    *   Designer Fragrances Up to 50% Off ft. Burberry
+    
     *   Korean Beauty: Leaders Cosmetics
     *   philosophy
     *   FOXYBAE Rose Gold Hair Tools Up to 65% Off
-    
     *   Predire Paris Luxury Skin Care
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Sky Organics
-    *   Royale USA Hair Tools
-    *   Zoe Ayla Cosmetics
-    *   Cosmetics Bags by Marc Tetro
     *   Manna Kadar Cosmetics
+    *   Sky Organics
     
     Shop By Category
     *   Fragrance
+    *   Makeup
+    *   Tools &. Accessories
     *   Skin Care
     *   Hair Care
     *   Bath &. Body
-    *   Tools &. Accessories
-    *   Makeup
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -484,4 +488,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree Shipping is valid on U.S. ground flat-rate standard shipping for any qualifying transaction, pretax, made between 9:01 PM PST on Wednesday, November 21, 2018, and 11:59 PM PST on Monday, November 26, 2018. Free Shipping is not valid on orders placed with Next Business-Day or Two Business-Day shipping. Product exclusions or additional shipping charges may apply, and will be reflected in the customer's cart. Credit will not be granted if transaction is canceled or item(s) are returned. Nordstromrack.com | HauteLook reserves the right to suspend or terminate this offer at any time.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
+Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
