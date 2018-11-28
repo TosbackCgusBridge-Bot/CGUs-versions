@@ -28,6 +28,34 @@ We can also be reached by phone at 1-800-NYTIMES (click here for a list of our l
 
 For information on how this Privacy Policy applies to your use of NYT Services, please visit the relevant section below.
 
+1\. What Personal Information Do We Gather About You?
+
+2\. What Do We Do With The Personal Information We Collect About You?
+
+3\. With Whom Do We Share The Personal Information We Gather?
+
+4\. Other Information Collected Using Technology
+
+5\. Third-Party Advertising
+
+6\. How Do I Opt Out From Receiving Emails?
+
+7\. Your California Privacy Rights
+
+8\. How Do I Access, Change or Update My Personal Information?
+
+9\. Sensitive Personal Information
+
+10\. Data Retention 
+
+11\. Is My Information Protected?
+
+12\. Children’s Guidelines
+
+13\. International Transfers
+
+14\. Changes to This Privacy Policy
+
 **1\. What Personal Information Do We Gather About You?**
 
 When you use the NYT Services by, among other actions, ordering a subscription or other product, providing registration details, setting newsletter preferences, browsing our sites, completing a survey, entering a contest or otherwise interacting with our NYT Services, we gather personal information. Personal information is information that identifies you as an individual or relates to an identifiable individual. Several different types of personal information can be gathered when you interact with the NYT Services, depending on the type of product or service being used. Collection of personal information is necessary to delivering you the NYT Services or to enhance your customer experience.
@@ -36,7 +64,7 @@ If you disclose any personal information relating to other people to us or to ou
 
 We and our service providers collect personal information in a variety of ways, including:
 
-_**A) Through the NYT Services.**_
+**A) Through the NYT Services.**
 
 i. **Registration:** When you register for a NYT Service, we collect personal information. For example, registration on NYTimes.com can be done by supplying a unique email address and password, or by linking your Facebook or Google accounts. See below under “From Other Sources” for more information about linking your Facebook or Google Accounts. Registration to an event or conference requires that you complete a form that will include, at a minimum, your name and email address. 
 
@@ -206,7 +234,7 @@ We retain personal information for as long as needed or permitted in light of th
 
 We seek to protect personal information with reasonable organizational, technological and physical safeguards commensurate to the sensitivity of the personal information.   Although we take appropriate measures to safeguard your information, we cannot guarantee its absolute security.To further protect your data, we recommend that you use complex passwords for your accounts with us and for accounts with third parties that you link to any of your accounts with us. Please do not use the same passwords you use for NYT Services for other services or share your password with unauthorized people. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section above.
 
- **12\. Children’s Guidelines**
+**12\. Children’s Guidelines**
 
 We do not knowingly collect or store any personal information from children except as permitted by applicable law.
 
