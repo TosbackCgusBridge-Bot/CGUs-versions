@@ -18,15 +18,15 @@ SHOP DEPARTMENTS
 *   Toys
 *   Coupons
 
-Near YouFind a StoreBackFINAL HOURS OF COUPON CODEHOLIDAY8ENDS IN00HOURS 40MINS 59SECS \*Offer ends November 27, 2018 30-50% OFF COOKSShop AllSMALL APPLIANCES30-50% OFF COOKSSMALL APPLIANCESShop All
+Near YouFind a StoreBackDAY 2 OF COUPON CODEHOLIDAY8ENDS IN23HOURS 41MINS 06SECS \*Offer ends November 29, 2018 30-50% OFF COOKSShop AllSMALL APPLIANCES30-50% OFF COOKSSMALL APPLIANCESShop All
 
+*   $4249after couponwas $100 Cooks 2.5L Air Fryer(205)
 *   $4249after couponwas $100 Cooks Single Serve Coffee Maker(44)Add To Cart
 *   $2124after couponwas $70 Cooks 5-Qt. Programmable Latch and Travel Slow Cooker(212)Add To Cart
 *   $2124after couponwas $60 Cooks 4-Slice Toaster Oven(145)Add To Cart
 *   $1869after couponwas $40 Cooks 10" x 19" Non-Stick Griddle(363)Add To Cart
 *   $3399after couponwas $100 Cooks Fast Pot JR. 2 QT. Multi CookerAdd To Cart
 *   $1869after couponwas $40 Cooks 5-in-1 Power Blender(117)Add To Cart
-*   $4249after couponwas $100 Cooks 12x16 Smokeless GrillAdd To Cart
 
 BIG BEAUTY DEALSShop All$25 AND UNDER GIFTSBIG BEAUTY DEALS$25 AND UNDER GIFTSShop All
 
@@ -80,6 +80,16 @@ UP TO 40% OFF DISNEYShop AllSELECT STYLESUP TO 40% OFF DISNEYSELECT STYLESShop A
 
 *   ADVERTISED DEAL!
     
+    $15 sale
+    
+    was $25 Disney Collection Woody Talking Action Figure(143)
+*   ADVERTISED DEAL!
+    
+    $66 sale
+    
+    was $110 Disney Princess 9-pc. Toy Playset - GirlsAdd To Cart
+*   ADVERTISED DEAL!
+    
     $75 sale
     
     was $125 Disney Olaf's Frozen Adventure Castle with Figures(1)Add To Cart
@@ -103,25 +113,15 @@ UP TO 40% OFF DISNEYShop AllSELECT STYLESUP TO 40% OFF DISNEYSELECT STYLESShop A
     $1440 sale
     
     was $24 Disney Collection Belle Toddler Doll(27)Add To Cart
-*   ADVERTISED DEAL!
-    
-    $36 sale
-    
-    was $60 Disney Mickey Mouse Firehouse with Mickey &. PlutoAdd To Cart
-*   ADVERTISED DEAL!
-    
-    $1440 sale
-    
-    was $24 Disney Moana Doll(3)Add To Cart
 
 50% OFF SLIPPERSShop AllSELECT STYLES50% OFF SLIPPERSSELECT STYLESShop All
 
 *   ADVERTISED DEAL!
     
-    $1124after couponwas $30 Dearfoams Lurex Clog Slippers(5)Add To Cart
+    $1124after couponwas $30 Isotoner Velour Hoodback Slippers with 360 Memory Foam(3)Add To Cart
 *   ADVERTISED DEAL!
     
-    $1124after couponwas $30 Isotoner Velour Hoodback Slippers with 360 Memory Foam(3)Add To Cart
+    $1124after couponwas $30 Dearfoams Lurex Clog Slippers(5)Add To Cart
 *   ADVERTISED DEAL!
     
     $1274after couponwas $34 Isotoner Microsuede Bootie Slippers with 360 Memory Foam(4)Add To Cart
@@ -133,29 +133,25 @@ UP TO 40% OFF DISNEYShop AllSELECT STYLESUP TO 40% OFF DISNEYSELECT STYLESShop A
     $1124after couponwas $30 Isotoner Microsuede Clog Slippers with 360 Memory FoamAdd To Cart
 *   ADVERTISED DEAL!
     
-    $1124after couponwas $30 Isotoner Sweater Knit Clog Slippers with 360 Memory FoamAdd To Cart
+    $1124after couponwas $30 Dearfoams Slip-On SlippersAdd To Cart
 *   ADVERTISED DEAL!
     
-    $1124after couponwas $30 Dearfoams Clog SlippersAdd To Cart
+    $1274after couponwas $34 Isotoner Knit Bootie Slippers with 360 Memory Foam(1)Add To Cart
 
 Hot Sellers
 
 *   ADVERTISED DEAL!
     
-    $3599after couponwas $120 St. John's Bay Heavyweight Puffer Jacket(3)
+    $2249after couponwas $70 Haggar® Premium No Iron Classic-Fit Flat-Front Khakis(556)
+*   $1649after couponwas $44 Stafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt(125)
 *   ADVERTISED DEAL!
     
     $1499after couponwas $42 Arizona Basic Relaxed Straight Jeans(678)
 *   ADVERTISED DEAL!
     
     $1499after couponwas $100 Xersion Packable Water Resistant Lightweight Puffer Jacket(9)
-*   $1499after couponwas $40 The Foundry Big &. Tall Supply Co. Long Sleeve Henley Shirt-Big and Tall(5)
-*   $3999 sale
-    
-    was $59.50 | 32% offLevi's® 550™ Relaxed Fit Jeans(1143)
-*   ADVERTISED DEAL!
-    
-    $1649after couponwas $44 Stafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt(125)
+*   $2249after couponwas $44 Lee® Relaxed-Fit Straight-Leg Jeans(481)
+*   $1499after couponwas $40 The Foundry Big &. Tall Supply Co. Long Sleeve Flannel Shirt-Big and Tall(15)
 
 Shop and Save at JCPenney
 
