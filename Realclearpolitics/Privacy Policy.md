@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Paul Waldman_: Don't Mess With Nancy Pelosi
+*   _William Murchison_: What to Expect From the New Dem House?
     
-*   _Jesse Kelly_: Twitter Banned Me for No Reason--They'll Lose in the End
+*   _Les Francis_: Pelosi's 'Reputation of Power' Is Needed as Speaker
     
-*   _David Smith_: Failure Looms for Trump as Dems Load Subpoena Cannon
+*   _Byron York_: Why Not Build a Border Barrier? It's the Law
     
-*   _Adriana Cohen_: Just a Few Questions, Mr. Comey and Ms. Lynch
+*   _Antonio De Loera-Brust_: Let the Caravan In
     
-*   _Robinson Meyer_: A Grave Climate Warning, Buried on Black Friday
+*   _Roger Kimball_: Beto, Progressive Dems Don't Believe in Borders
     
-*   _David Andelman_: Paris Gas Tax Protests Could Put Macron Future in Jeopardy
+*   _Elie Honig_: What the Collapse of the Manafort Deal Means for Mueller
     
-*   _Ryan Anderson_: NYT Reveals Painful Truths About Transgender Lives
+*   _David Oscar Markus_: Mueller Shouldn't Get to Decide If Manafort Is Lying
     
-*   _Albert Hunt_: Hoist a Glass, Democrats. Demographic Destiny Is Back.
+*   _Rep. Ilhan Omar_: Let Us Stand Together as Americans In Rejecting Hate
     
-*   _Reid Wilson_: Did Puerto Ricans Elect Rick Scott in Florida?
+*   _Scott W. Johnson_: Speaking of Hate, Rep.-elect Omar Promotes It
     
-*   _Dara Lind_: The Border Crisis Is Real, But It's Not the Crisis Trump Thinks It Is
+*   _Molly Langmuir_: Donald Trump Is Destroying My Marriage
     
-*   _David Marcus_: What If Trump Hadn't Sent Troops to the Border?
+*   _Julie Bindel_: Meghan Murphy, Twitter, and the New Trans Misogyny
     
-*   _Marc Thiessen_: We Do Have Obama Judges and Trump Judges
+*   _Carl Cannon_: Moscone, Milk ... and a Moment of Grace
     
-*   _Harry Litman_: Roberts Can't Tame Trump, But Supreme Court Might
+*   _Dana Milbank_: Trump Loves Kids So Much He's Tear-Gassing Them
     
-*   _Sharyl Attkisson_: Media Has Suspended Its Standards When Covering Trump
+*   _Stephan Dinan_: Tear Gas Used Once a Month at Border Under Obama
     
-*   _Reps. Pelosi &. Sarbanes_: House Dems' 1st Order of Business: Restore Democracy
+*   _Jared Yates Sexton_: America Is the Bad Guy Now
     
-*   _Charles Hurt_: Poor Chuckie Schumer: Still the Minority Leader
+*   _Rich Lowry_: Media, Trump Critics Dead Wrong About Caravan
     
-*   _Nan Whaley_: Ohio Isn't a Red State Yet
+*   _Rafael Behr_: Seismic Shock of Brexit Will Change UK's Politics For Ever
     
-*   _Liah Greenfeld_: The World Nationalism Made
+*   _Jonathan Miller_: Emmanuel Macron Is Toxic and Paris Is Burning
     
-*   _E.J. Dionne_: Trump's Shameful Indifference to the Khashoggi Killing
+*   _Eugene Robinson_: The World Is On Fire &. Trump Is Playing With Matches
     
-*   _Lee Smith_: Foreign Policy Establishment Hasn't Learned Its Lesson
+*   _Noah Rothman_: Climate Hysterics and Their Advocates
     
-*   _Rhodes &. Sullivan_: A Chance to Repair America's Image Abroad
+*   _Jesse Jackson_: Mississippi Faces Choice Between Hope or Hate
     
-*   _Steve Cortes_: The Perfidy of Illinois' Public Payrolls
+*   _Wesley Pruden_: Dems Run Their Playbook on Cindy Hyde-Smith
     
-*   _Irwin Stelzer_: Big Tech Is in Big Trouble
+*   _Bill Scher_: The Pathetic Pelosi Putsch
     
-*   _David Leonhardt_: The Monopolization of America
+*   _Adele Malpass_: How 3 Republican Governors Defied Blue State Voting Patterns
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   How 3 Republican Governors Defied Blue State Voting Patterns
+*   Trump Rallies Voters for Hyde-Smith as Espy Pushes Turnout in MS
+*   Trump: "Nobody Is Coming in Our Country Unless They Come in Legally"
 *   Without a Rival Candidate, Pelosi Looks Headed for Speakership
-*   Mexico to Increase Security at Border After Migrants Try to Cross
-*   Gowdy: Record Comey's Deposition and Make It Public
-*   Saudi Royal Says Crown Prince Is Here to Stay
-*   Challenges to Trump in 2020 Starting to Take Shape?
+*   Proxy Advisors: Raising the SEC's Resubmission Thresholds
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,6 +243,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve49
+    *   Disapprove49Tie
 *   President Trump Job ApprovalGallup
     *   Approve38
     *   Disapprove60Disapprove +22
@@ -252,17 +255,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve45
     *   Disapprove53Disapprove +8
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve51
-    *   Disapprove48Approve +3
 
 More Latest Polls In The News
 
+*   Julian Castro: It Will Be "Cathartic" For Democrats To Have 40 Candidates For President, Lots Of Debates
+*   Kudlow: "Good Possibility" A Deal Can Be Made At Dinner Meeting Between Trump and China's Xi
+*   Matthews: Manafort, Corsi, Papadopoulos Go To Prison While "Mastermind" Walks. Is This A RICO Situation?
 *   Trump On Tear Gas at Border: "Nobody Is Coming In Our Country Unless They Come In Legally"
 *   San Diego Border Patrol Chief: Asylum-Seekers Would Surrender, Not Throw Rocks
-*   Schiff: House Intel Committee Will Look Into Whether "Russian Financial Hand" Is Pulling Trump's Strings
-*   Rep. Trey Gowdy Wants James Comey Deposition Taped And Made Public
-*   Dan Bongino on Spygate: Obama, Mueller &. The Biggest Spy Scandal In American History
 
 *   Politics
 *   Policy
