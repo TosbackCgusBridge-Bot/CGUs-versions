@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _William Murchison_: What to Expect From the New Dem House?
+*   _Thomas Friedman_: We Need a High Wall With a Big Gate
     
-*   _Les Francis_: Pelosi's 'Reputation of Power' Is Needed as Speaker
+*   _Warren Henry_: Green Taxes Spark a Populist Revolt in France
     
-*   _Byron York_: Why Not Build a Border Barrier? It's the Law
+*   _Eric Scigliano_: My Trip to Top of the World Proved Climate Change Is Real
     
-*   _Antonio De Loera-Brust_: Let the Caravan In
+*   _Bossie &. Lewandowski_: How Obama Officials Invented the Russia Hoax
     
-*   _Roger Kimball_: Beto, Progressive Dems Don't Believe in Borders
+*   _Brian Beutler_: How Big Is Mueller's Latest Bombshell?
     
-*   _Elie Honig_: What the Collapse of the Manafort Deal Means for Mueller
+*   _George Neumayr_: Why UK Doesn't Want the Spygate Docs Released
     
-*   _David Oscar Markus_: Mueller Shouldn't Get to Decide If Manafort Is Lying
+*   _Biden &. Carpenter_: Foreign Dark Money Is Threatening American Democracy
     
-*   _Rep. Ilhan Omar_: Let Us Stand Together as Americans In Rejecting Hate
+*   _Meghan Murphy_: Twitter Banned Me, But I Wrote Nothing 'Hateful'
     
-*   _Scott W. Johnson_: Speaking of Hate, Rep.-elect Omar Promotes It
+*   _Zak Cheney-Rice_: Black Mississippi Deserves Better Than Hyde-Smith
     
-*   _Molly Langmuir_: Donald Trump Is Destroying My Marriage
+*   _Inez Stepman_: Why Liberal Identity Politics Are a Racist, Sexist Lie
     
-*   _Julie Bindel_: Meghan Murphy, Twitter, and the New Trans Misogyny
+*   _Uri Friedman_: The Beginning of the End of the Korean War
     
-*   _Carl Cannon_: Moscone, Milk ... and a Moment of Grace
+*   _Betsy McCaughey_: Trump's Plan to Stop the Caravan
     
-*   _Dana Milbank_: Trump Loves Kids So Much He's Tear-Gassing Them
+*   _Frances Lynch_: As Razor Wire Is Installed, Berlin Wall Images Resurface
     
-*   _Stephan Dinan_: Tear Gas Used Once a Month at Border Under Obama
+*   _Donald Graham_: Build the Wall, Congress--and Save the Dreamers
     
-*   _Jared Yates Sexton_: America Is the Bad Guy Now
+*   _Abe Greenwald_: The Paris Climate Discord: Not in My Wallet
     
-*   _Rich Lowry_: Media, Trump Critics Dead Wrong About Caravan
+*   _John Podesta_: Trump Wages War on Climate Change Science
     
-*   _Rafael Behr_: Seismic Shock of Brexit Will Change UK's Politics For Ever
+*   _Stephen Moore_: Another Government Report Is Dead Wrong About Earth
     
-*   _Jonathan Miller_: Emmanuel Macron Is Toxic and Paris Is Burning
+*   _Paul Krugman_: The Depravity of Climate-Change Denial
     
-*   _Eugene Robinson_: The World Is On Fire &. Trump Is Playing With Matches
+*   _Michelle Malkin_: Why Is Sarah Jeong on Twitter and Not Laura Loomer?
     
-*   _Noah Rothman_: Climate Hysterics and Their Advocates
+*   _Jack Shafer_: Wake Me Up When This Sad Conservative Uprising Is Over
     
-*   _Jesse Jackson_: Mississippi Faces Choice Between Hope or Hate
+*   _Christopher Caldwell_: What Is Populism?
     
-*   _Wesley Pruden_: Dems Run Their Playbook on Cindy Hyde-Smith
+*   _Patricia Murphy_: Pelosi's Leadership Lessons for Bossy Girls Everywhere
     
-*   _Bill Scher_: The Pathetic Pelosi Putsch
+*   _David Catron_: Mississippi Rejects Democrats' Race-Baiting
     
-*   _Adele Malpass_: How 3 Republican Governors Defied Blue State Voting Patterns
+*   _Frank Bruni_: Republicans Had One Black Woman in Congress. Now None.
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Hyde-Smith Defeats Espy in Mississippi Senate Runoff
+*   After Job Cuts, Trump Says All GM Subsidies Could Be Eliminated
+*   Jeffries Backs Pelosi: "There Will Be Opportunities for Next Generation"
 *   How 3 Republican Governors Defied Blue State Voting Patterns
-*   Trump Rallies Voters for Hyde-Smith as Espy Pushes Turnout in MS
-*   Trump: "Nobody Is Coming in Our Country Unless They Come in Legally"
-*   Without a Rival Candidate, Pelosi Looks Headed for Speakership
-*   Proxy Advisors: Raising the SEC's Resubmission Thresholds
+*   Global Trade Is at Stake as Trump and Xi Come Face to Face
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove49Tie
-*   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove60Disapprove +22
-*   Mississippi Senate Run-Off Election - Hyde-Smith vs. EspyBold Blue Campaigns/JMC
-    *   Hyde-Smith54
-    *   Espy44Hyde-Smith +10
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve45
     *   Disapprove53Disapprove +8
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove50Disapprove +2
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve44
+    *   Disapprove51Disapprove +7
+*   Congressional Job ApprovalReuters/Ipsos
+    *   Approve29
+    *   Disapprove60Disapprove +31
 
 More Latest Polls In The News
 
+*   Ret. Army Col. Macgregor: "Globalist Elite" In Pentagon, State Dept. Pressuring Trump To Stay In Afghanistan
+*   Pelosi: "We're In Pretty Good Shape" Ahead Of January Speaker Vote
+*   Corsi: I Was Caught In Mueller Probe "Perjury Trap," Probe Politically Driven By Clinton Operatives
 *   Julian Castro: It Will Be "Cathartic" For Democrats To Have 40 Candidates For President, Lots Of Debates
-*   Kudlow: "Good Possibility" A Deal Can Be Made At Dinner Meeting Between Trump and China's Xi
 *   Matthews: Manafort, Corsi, Papadopoulos Go To Prison While "Mastermind" Walks. Is This A RICO Situation?
-*   Trump On Tear Gas at Border: "Nobody Is Coming In Our Country Unless They Come In Legally"
-*   San Diego Border Patrol Chief: Asylum-Seekers Would Surrender, Not Throw Rocks
 
 *   Politics
 *   Policy
