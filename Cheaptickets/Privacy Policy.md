@@ -1,4 +1,4 @@
-Skip to main content Welcome to {{domainText}} **Continue to the U.S. site at {{usSiteDomain}}** close Booking travel on behalf of Done Get CheapCash Search anything Search
+Skip to main content Welcome to {{domainText}} **Continue to the U.S. site at {{usSiteDomain}}** close Booking travel on behalf of Done Get CheapCash
 
 Show Menu Hide Menu
 
@@ -18,7 +18,6 @@ Show Menu Hide Menu
     *   CheapCash
 
 *   Add your property
-
 *   Account
     *   Sign In
     *   Create an Account
@@ -40,7 +39,7 @@ Show Menu Hide Menu
     *   Customer Support
     *   Feedback
 
-//a.travel-assets.com/globalcontrols-service/content/69db5005336a1009aed60e564bf21106f79caa65 Search anything Search For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
+For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Home
 *   Vacation Packages
