@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Six reasons why developers choose Ubuntu Desktop ›
+*   Ubuntu available in new AWS Marketplace for Containers ›
 *   Ubuntu Server development summary – 27 November 2018 ›
 *   The power of installed-base snap metrics ›
 *   Ubuntu at KubeCon &. CloudNativeCon ›
-*   How to effortlessly modernise your cloud ›
-*   Goodbye OpenStack, hello Open Infrastructure Summit ›
