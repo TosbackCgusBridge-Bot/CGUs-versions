@@ -4,7 +4,7 @@ We use cookies to deliver the best possible experience on our website. To learn 
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
 Become a client  
-Contact us or dial 1 855 598 96011 855 598 9601
+Contact us or dial 1 855 635 89611 855 635 8961
 
 Log in Become a Client
 
@@ -261,7 +261,7 @@ Log in Become a Client
     Career Opportunities Life at Gartner Campus
     
 *   Become a client  
-    Contact us or dial 1 855 598 96011 855 598 9601
+    Contact us or dial 1 855 635 89611 855 635 8961
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018  
@@ -640,7 +640,7 @@ Email Address: privacy@gartner.com
 *   Investor Relations
 *   Policies
 *   IT Glossary
-*   Contact Us
+*   Contact Gartner
 
 *   Privacy Policy
 *   Terms of Use
@@ -653,7 +653,7 @@ Email Address: privacy@gartner.com
 
 *   Policies
 *   IT Glossary
-*   Contact Us
+*   Contact Gartner
 *   Privacy Policy
 *   Terms of Use
 
