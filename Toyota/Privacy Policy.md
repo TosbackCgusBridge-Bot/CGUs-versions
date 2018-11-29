@@ -56,8 +56,8 @@ Skip to main content
 
 *   $26,000 as shown1 2019 C-HR $20,945 starting1  
     27/31 est MPG20 Build Specials
-*   Hybrid Available $29,545 as shown1 2018 RAV4 $24,660 starting1  
-    23/30 est MPG3 Build Specials
+*   Hybrid Coming Soon $33,500 as shown1 2019 RAV4 $25,550 starting1  
+    26/35 est MPG19 Build Specials
 *   Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
     34/30 est MPG3 Build Specials
 *   Hybrid Available $41,900 as shown1 2019 Highlander $31,330 starting1  
@@ -91,10 +91,10 @@ Skip to main content
 *   Hybrid 2019 Prius View More Info
 *   2019 Nightshade Special Editions View More Info
 *   2020 Camry TRD and Avalon TRD View More Info
+*   Hybrid All New 2019 RAV4 Hybrid View More Info
 *   Hybrid Available All New 2020 Corolla View More Info
 *   2019 Supra Xfinity Series Race Car View More Info
 *   GR Supra Racing Concept View More Info
-*   Hybrid Coming Soon All New 2019 RAV4 View More Info
 *   2017 FT-4X Concept View More Info
 
 View All Vehicles
@@ -134,8 +134,8 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 19/27 est MPG22 Trucks $36,465 as shown1 2019 Tacoma $25,550 starting1  
 18/22 est MPG3 $45,600 as shown1 2019 Tundra $31,420 starting1  
 15/19 est MPG20 Crossovers &. SUVs $26,000 as shown1 2019 C-HR $20,945 starting1  
-27/31 est MPG20 Hybrid Available $29,545 as shown1 2018 RAV4 $24,660 starting1  
-23/30 est MPG3 Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
+27/31 est MPG20 Hybrid Coming Soon $33,500 as shown1 2019 RAV4 $25,550 starting1  
+26/35 est MPG19 Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
 34/30 est MPG3 Hybrid Available $41,900 as shown1 2019 Highlander $31,330 starting1  
 21/27 est MPG20 Hybrid $48,630 as shown1 2019 Highlander Hybrid $36,970 starting1  
 30/28 est MPG20 $39,995 as shown1 2019 4Runner $34,910 starting1  
@@ -149,7 +149,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 54/133 est MPG10 Hybrid $32,115 as shown1 2018 Prius $23,475 starting1  
 54/50 est MPG17 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
 48/43 est MPG20 Fuel Cell Vehicle $58,365 as shown1 2018 Mirai $58,365 starting1  
-67/67 est MPG14 Upcoming Vehicles Hybrid 2019 Prius 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD Hybrid Available All New 2020 Corolla 2019 Supra Xfinity Series Race Car GR Supra Racing Concept Hybrid Coming Soon All New 2019 RAV4 2017 FT-4X Concept All Vehicles
+67/67 est MPG14 Upcoming Vehicles Hybrid 2019 Prius 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD Hybrid All New 2019 RAV4 Hybrid Hybrid Available All New 2020 Corolla 2019 Supra Xfinity Series Race Car GR Supra Racing Concept 2017 FT-4X Concept All Vehicles
 
 *   Careers
 *   Español
