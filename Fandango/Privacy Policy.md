@@ -22,6 +22,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   The Possession of Hannah Grace
     *   Anna and the Apocalypse
+    *   Elliot: The Littlest Reindeer
     *   Head Full of Honey (2018)
     *   Sicilian Ghost Story
     *   Unstoppable (2018)
