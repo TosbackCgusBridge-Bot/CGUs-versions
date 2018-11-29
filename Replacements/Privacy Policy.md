@@ -1,5 +1,5 @@
-Skip to main content Free Standard U.S. Shipping on Orders ~$99~ $49+ with code 49CYBER\*\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping On Orders $49+  
-WITH CODE 49CYBER\*\*1-800-737-5223 Sign In / Create Account Home China - Dinnerware
+Skip to main content Free Standard U.S. Shipping on Orders ~$99~ $69+ with code 69SHIP\*\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping On Orders $69+  
+WITH CODE 69SHIP\*\*1-800-737-5223 Sign In / Create Account Home China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
@@ -175,7 +175,7 @@ Jewelry
     
     *   Dinnerware Sets &. More
     *   Warehouse Sale
-    *   LookbooksCyber Monday Deals Extended >.
+    *   LookbooksHoliday Lookbook >.
 
 *   Our Story
 *   Services
