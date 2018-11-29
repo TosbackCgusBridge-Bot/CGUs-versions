@@ -32,10 +32,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 Hot Topics
 
 *   Dave Ramsey
-*   Flying preacher
+*   Celine Dion
+*   US Christianity
+*   Devil Next Door
 *   Christmas display
-*   Churches merge
-*   Archaeology
 
 About Us
 
