@@ -1,4 +1,4 @@
-Last Revised: November 15, 2017
+Last Revised: November 29, 2018
 
 This Privacy Statement ("Statement") applies to the website located at starbucks.com, store.starbucks.com, Starbucks mobile applications, and any other websites or applications associated with Starbucks brands or products that direct the viewer or user to this Statement. In this Statement, the terms "Starbucks," "we," and "us" refers to Starbucks Corporation and its respective subsidiaries and affiliated companies. The term “your device" refers to any computer, tablet, smart phone or other device you are using to access our websites or to operate the Starbucks mobile applications. Websites that are owned and operated by Starbucks may contain links to websites that are owned and operated by other companies. This Statement does not apply to websites and services that are owned and operated by third parties.
 
