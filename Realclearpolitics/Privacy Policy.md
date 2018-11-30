@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Thomas Friedman_: We Need a High Wall With a Big Gate
+*   _Peter Roff_: Pelosi Will Be Speaker - But Can She Govern?
     
-*   _Warren Henry_: Green Taxes Spark a Populist Revolt in France
+*   _John Harwood_: All-GOP Govt Will End as it Began Under Trump, In Disarray
     
-*   _Eric Scigliano_: My Trip to Top of the World Proved Climate Change Is Real
+*   _Karl Rove_: Stopping the Socialist Resurgence
     
-*   _Bossie &. Lewandowski_: How Obama Officials Invented the Russia Hoax
+*   _David Andelman_: What Trump Needs to Do at the G20
     
-*   _Brian Beutler_: How Big Is Mueller's Latest Bombshell?
+*   _Hal Lambert_: Trump Plays Chess, Not Chinese Checkers, With Economy
     
-*   _George Neumayr_: Why UK Doesn't Want the Spygate Docs Released
+*   _Christian Farias_: What Is Robert Mueller Thinking?
     
-*   _Biden &. Carpenter_: Foreign Dark Money Is Threatening American Democracy
+*   _Mark Penn_: Is Mueller Team Bludgeoning to Get Narrative It Wants?
     
-*   _Meghan Murphy_: Twitter Banned Me, But I Wrote Nothing 'Hateful'
+*   _James Hohmann_: GOP Govs Who Survived in Blue States Share Advice
     
-*   _Zak Cheney-Rice_: Black Mississippi Deserves Better Than Hyde-Smith
+*   _Myra Adams_: 'Trump Will Not Run' Again? Unlikely, But Who Knows
     
-*   _Inez Stepman_: Why Liberal Identity Politics Are a Racist, Sexist Lie
+*   _Daniel McCarthy_: Is Cultural Conservatism Doomed by Demographics?
     
-*   _Uri Friedman_: The Beginning of the End of the Korean War
+*   _Nancy Jo Sales_: Inside the Strange World of Conservative College Women
     
-*   _Betsy McCaughey_: Trump's Plan to Stop the Caravan
+*   _David Harsanyi_: CNN Refuses To Condemn CNN Pundit's Anti-Semitism
     
-*   _Frances Lynch_: As Razor Wire Is Installed, Berlin Wall Images Resurface
+*   _William Davies_: Why We Stopped Trusting Elites
     
-*   _Donald Graham_: Build the Wall, Congress--and Save the Dreamers
+*   _Bjorn Lomborg_: The Media Got It All Wrong on New US Climate Report
     
-*   _Abe Greenwald_: The Paris Climate Discord: Not in My Wallet
+*   _Paul Brandus_: Lay Off GM, It's Adapting to the Market - As It Should
     
-*   _John Podesta_: Trump Wages War on Climate Change Science
+*   _Noam Scheiber_: GM, Not Trump, Is Real Villain to Some Ohio Factory Workers
     
-*   _Stephen Moore_: Another Government Report Is Dead Wrong About Earth
+*   _Frida Ghitis_: Trump's Unfounded Faith in His Gut Leaves Americans at Risk
     
-*   _Paul Krugman_: The Depravity of Climate-Change Denial
+*   _Larry Elder_: On Immigration, Clinton &. Kerry Discover Their Inner Trump
     
-*   _Michelle Malkin_: Why Is Sarah Jeong on Twitter and Not Laura Loomer?
+*   _Alex Shephard_: What Is Schumer Thinking Negotiating With Trump on Wall?
     
-*   _Jack Shafer_: Wake Me Up When This Sad Conservative Uprising Is Over
+*   _Scott Rasmussen_: The Public Supports Border Security, Our Elites Do Not
     
-*   _Christopher Caldwell_: What Is Populism?
+*   _Joan Walsh_: How Pelosi Won Over Progressive Insurgents
     
-*   _Patricia Murphy_: Pelosi's Leadership Lessons for Bossy Girls Everywhere
+*   _Mollie Hemingway_: The Latest Questionable Russia Conspiracy Story
     
-*   _David Catron_: Mississippi Rejects Democrats' Race-Baiting
+*   _Michael Schuman_: Why Xi Won't Cave to Trump at G-20
     
-*   _Frank Bruni_: Republicans Had One Black Woman in Congress. Now None.
+*   _Brian Kennedy_: 'America First' and the Killing of Khashoggi
     
 
 *   Previous
@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Hyde-Smith Defeats Espy in Mississippi Senate Runoff
-*   After Job Cuts, Trump Says All GM Subsidies Could Be Eliminated
-*   Jeffries Backs Pelosi: "There Will Be Opportunities for Next Generation"
+*   Pelosi, Nominated for Speaker, Must Now Get the Votes
+*   Senators Send Rebuke to Saudis, Trump Over Khashoggi Killing
+*   Rubio: Fully Fund the Wall--"Half of It Is as Good as None of It"
 *   How 3 Republican Governors Defied Blue State Voting Patterns
 *   Global Trade Is at Stake as Trump and Xi Come Face to Face
 *   Presidential Job Approval
@@ -246,23 +246,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve45
     *   Disapprove53Disapprove +8
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve44
     *   Disapprove51Disapprove +7
 *   Congressional Job ApprovalReuters/Ipsos
     *   Approve29
     *   Disapprove60Disapprove +31
+*   Congressional Job ApprovalEconomist/YouGov
+    *   Approve14
+    *   Disapprove68Disapprove +54
 
 More Latest Polls In The News
 
+*   DiGenova: Mueller's Pathetic Narrative Will Be "I Couldn't Prove Collusion Because They Wouldn't Let Me"
+*   Victor Davis Hanson: Haven't Had A Legal Accounting Of Comey, Brennan &. Clapper And It's Coming
+*   Gore: Trump Is The Principal Global Face Of Climate Denial, Americans Have Had It With "Constant Craziness"
+*   Corsi vs. MSNBC's Melber: "I Could Go To Jail For The Rest Of My Life". Willing To Die In Jail For Lying To Congress
 *   Ret. Army Col. Macgregor: "Globalist Elite" In Pentagon, State Dept. Pressuring Trump To Stay In Afghanistan
-*   Pelosi: "We're In Pretty Good Shape" Ahead Of January Speaker Vote
-*   Corsi: I Was Caught In Mueller Probe "Perjury Trap," Probe Politically Driven By Clinton Operatives
-*   Julian Castro: It Will Be "Cathartic" For Democrats To Have 40 Candidates For President, Lots Of Debates
-*   Matthews: Manafort, Corsi, Papadopoulos Go To Prison While "Mastermind" Walks. Is This A RICO Situation?
 
 *   Politics
 *   Policy
