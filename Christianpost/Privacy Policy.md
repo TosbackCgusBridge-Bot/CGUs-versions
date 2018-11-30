@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Dave Ramsey
-*   Celine Dion
-*   US Christianity
-*   Devil Next Door
-*   Christmas display
+*   Twitter ban
+*   Parental rights
+*   Migrant caravan
+*   Adam and Eve
+*   Costi Hinn
 
 About Us
 
