@@ -151,6 +151,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     Kids' Sale>Girls' Clothing>
     
     *   Girls' Coats &. Jackets
+    *   Girls' Fleece
     *   Girls' Shoes
     *   Girls' Pajamas &. Robes
     *   Girls' Pants &. Leggings
@@ -168,6 +169,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     Boys' Clothing>
     *   Boys' Coats &. Jackets
+    *   Boys' Fleece
     *   Boys' Shoes
     *   Boys' Pajamas &. Robes
     *   Boys' Pants
@@ -617,6 +619,7 @@ Lands' End Sign In menu
         *   Back
         *   View All
         *   Girls' Coats &. Jackets
+        *   Girls' Fleece
         *   Girls' Shoes
         *   Girls' Pajamas &. Robes
         *   Girls' Pants &. Leggings
@@ -635,6 +638,7 @@ Lands' End Sign In menu
         *   Back
         *   View All
         *   Boys' Coats &. Jackets
+        *   Boys' Fleece
         *   Boys' Shoes
         *   Boys' Pajamas &. Robes
         *   Boys' Pants
@@ -985,9 +989,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles. plus, today only, women's Supima cardigans\* from $20!
+Receive 50% off full-price styles!
 
-code: FIREWOOD pin: 4224 DETAILS
+code: SNOWBALL pin: 6242 DETAILS
 
 Customer Service Menu
 
@@ -1010,7 +1014,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Policy Last Updated: May 21, 2018
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
