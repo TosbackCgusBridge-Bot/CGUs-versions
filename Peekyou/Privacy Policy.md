@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 45%  45%  45%  2% 
+What is PeekScore? Public Records &. Background Checks 51%  51%  51%  2% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 45%  Twitter 2% 
+Facebook 51%  Twitter 2% 
 
 *   U.S. FDA - FDArecalls
     
@@ -275,7 +275,49 @@ Myspace 2% 
     
 *   Show Less ...
 
-Pinterest 45%  Wikipedia 2% 
+Google+ 2% 
+
+*   Lauren Weinstein
+    
+    Tech Systems &. Policy Analysis: Internet, Privacy, plus his other sundry topics.
+    
+*   i Hate Privacy Policy....0\_o
+    
+*   i Hate Privacy Policy....0\_o
+    
+*   Adv. Prashant Mali
+    
+    Cyber Law, Cyber Security Policy, Privacy Law expert in India
+    
+*   Show More ...
+
+*   Pedro Paranaguá
+    
+    Advisor to the ruling party at Brazil's House of Representatives for Internet, copyright, cybercrime, patent, online privacy, and related issues
+    
+*   Serge Masse
+    
+    Apps for dolphins and people - Privacy Policy: your data is private.
+    
+*   Matthew Hendrickson (Dr.)
+    
+    Doctor of Law &. Policy &. statistical analyst w/focus on big data and privacy. Connector through story telling.
+    
+*   Jules Polonetsky
+    
+    DC area
+    
+*   Debra Farber
+    
+    Data Privacy Expert | Public Policy at Visa | WISP Co-Founder | IANS Faculty | Public Speaker
+    
+*   Andrea Giannangelo
+    
+    Founder and Chairman of http://www.iubenda.com , Privacy Policy generator for websites. Web Designer by the age of 10.
+    
+*   Show Less ...
+
+Pinterest 51%  Wikipedia 2% 
 
 *   Privacy policy
     
@@ -290,7 +332,7 @@ Pinterest 45%  Wikipedia 2% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Google+ 45%  Music 2% 
+Music 2% 
 
 *   Pandora
     
@@ -351,7 +393,7 @@ Photo Albums 2% 
     Upload, access, organize, edit, and share your photos from any device, from anywhere in the world. • Put your free 1000GB to work - auto-upload all your photos and videos to your Flickr camera roll.
     
 
-Web Search 45%  Images 2% 
+Web Search 51%  Images 2% 
 
 20
 
@@ -359,11 +401,23 @@ Web Search 45%  Images 2% 
 
 7
 
+10
+
 twitterx
 
 instagramx
 
 myspacex
+
+googleplusx
+
+twitterx
+
+instagramx
+
+myspacex
+
+googleplusx
 
 *   About PeekYou
 *   Privacy Policy
