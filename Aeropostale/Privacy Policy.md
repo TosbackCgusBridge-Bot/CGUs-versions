@@ -24,11 +24,9 @@ Close submenu ( Girls ) Girls
 
 *   View All
 *   New Arrivals
-*   Cyber Deals
 *   Gifts for Her
 *   Best Sellers
 *   Destroyed Denim
-*   New Jean Fits
 *   Cozy
 *   Online Only
 *   Aero One
@@ -38,7 +36,6 @@ Close submenu ( Guys ) Guys
 
 *   View All
 *   New Arrivals
-*   Cyber Deals
 *   Gifts for Him
 *   Best Sellers
 *   Destroyed Denim
@@ -81,6 +78,7 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Sweaters
 *   Active Tops
+*   $5.87 Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -106,7 +104,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Cyber Deals
 *   New Arrivals
 *   Online Only
 *   Denim Guide
@@ -142,6 +139,7 @@ Close submenu ( Tops ) Tops
 *   Hoodies + Sweatshirts
 *   Shirts
 *   Sweaters
+*   $6.87 Graphic Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -155,11 +153,9 @@ Close submenu ( Bottoms ) Bottoms
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Cyber Deals
 *   New Arrivals
 *   Online Only
 *   Denim Guide
-*   Tribe of Tees
 *   Lounge
 *   Active
 *   Back to Basics
@@ -176,17 +172,13 @@ Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
 *   Destroyed Denim
-*   New Fits
 *   Low Rise Jegging
 *   High Rise Ankle Jegging
 *   High Rise Jegging
 *   Super High Rise Jegging
 *   Skinny
 *   Bootcut
-*   Boyfriend
 *   Cheeky
-*   Flare
-*   Overalls
 *   Flex Effects
 *   Eco-Friendly Repreve
 
@@ -279,12 +271,12 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-Hurry! Cyber Monday Deals Are Going Fast! 359 Days 23 Hrs : Days 33 Mins : Days 23 Secs
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy **50-70% OFF NEW ARRIVALS**  GIRLS GUYS **FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
 
-FREE SHIPPING OVER $25 + 70% OFF THROUGHOUT SITE Menu Find a Store Aeropostale
+Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -292,11 +284,9 @@ FREE SHIPPING OVER $25 + 70% OFF THROUGHOUT SITE Menu Find a Store Aeropostale
     *   Girls
         *   View All
         *   New Arrivals
-        *   Cyber Deals
         *   Gifts for Her
         *   Best Sellers
         *   Destroyed Denim
-        *   New Jean Fits
         *   Cozy
         *   Online Only
         *   Aero One
@@ -305,7 +295,6 @@ FREE SHIPPING OVER $25 + 70% OFF THROUGHOUT SITE Menu Find a Store Aeropostale
     *   Guys
         *   View All
         *   New Arrivals
-        *   Cyber Deals
         *   Gifts for Him
         *   Best Sellers
         *   Destroyed Denim
@@ -333,6 +322,7 @@ FREE SHIPPING OVER $25 + 70% OFF THROUGHOUT SITE Menu Find a Store Aeropostale
         *   Shirts
         *   Sweaters
         *   Active Tops
+        *   $5.87 Tees
     
     *   Bottoms
         *   View All
@@ -365,7 +355,6 @@ FREE SHIPPING OVER $25 + 70% OFF THROUGHOUT SITE Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Cyber Deals
         *   New Arrivals
         *   Online Only
         *   Denim Guide
@@ -385,6 +374,7 @@ FREE SHIPPING OVER $25 + 70% OFF THROUGHOUT SITE Menu Find a Store Aeropostale
         *   Hoodies + Sweatshirts
         *   Shirts
         *   Sweaters
+        *   $6.87 Graphic Tees
     
     *   Bottoms
         *   View All
@@ -405,11 +395,9 @@ FREE SHIPPING OVER $25 + 70% OFF THROUGHOUT SITE Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Cyber Deals
         *   New Arrivals
         *   Online Only
         *   Denim Guide
-        *   Tribe of Tees
         *   Lounge
         *   Active
         *   Back to Basics
@@ -421,17 +409,13 @@ FREE SHIPPING OVER $25 + 70% OFF THROUGHOUT SITE Menu Find a Store Aeropostale
     *   Girls Jeans
         *   View All
         *   Destroyed Denim
-        *   New Fits
         *   Low Rise Jegging
         *   High Rise Ankle Jegging
         *   High Rise Jegging
         *   Super High Rise Jegging
         *   Skinny
         *   Bootcut
-        *   Boyfriend
         *   Cheeky
-        *   Flare
-        *   Overalls
         *   Flex Effects
         *   Eco-Friendly Repreve
     
@@ -513,38 +497,22 @@ FREE SHIPPING OVER $25 + 70% OFF THROUGHOUT SITE Menu Find a Store Aeropostale
 *   Sign Up/Login
 *   Refer a Friend
 
-0 Your Shopping Cart is Empty FREE SHIPPING OVER $25 Search Catalog Search Free Shipping on Orders over $25 Shop Girls Shop Guys Shop Girls Shop Guys
+0 Your Shopping Cart is Empty FREE SHIPPING  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
 
-Previous*   Joggers Starting at $13.35 Shop Girls Joggers Shop Guys Joggers
-*   Graphic Tees Starting at $5.87 Shop Girls Graphic Tees Shop Guys Graphic Tees
-*   Long Sleeve Starting at $7.38 Shop Girls Long Sleeve Shop Guys Long Sleeve
-*   Puffer Vests Starting at $14.85 Shop Girls Outerwear Shop Guys Outerwear
-*   Hoodies Starting at $9.88 Shop Girls Hoodies Shop Guys Hoodies
-*   Joggers Starting at $13.35 Shop Girls Joggers Shop Guys Joggers
-*   Graphic Tees Starting at $5.87 Shop Girls Graphic Tees Shop Guys Graphic Tees
-*   Long Sleeve Starting at $7.38 Shop Girls Long Sleeve Shop Guys Long Sleeve
-*   Puffer Vests Starting at $14.85 Shop Girls Outerwear Shop Guys Outerwear
-*   Hoodies Starting at $9.88 Shop Girls Hoodies Shop Guys Hoodies
-*   Joggers Starting at $13.35 Shop Girls Joggers Shop Guys Joggers
-*   Graphic Tees Starting at $5.87 Shop Girls Graphic Tees Shop Guys Graphic Tees
-*   Long Sleeve Starting at $7.38 Shop Girls Long Sleeve Shop Guys Long Sleeve
+Previous*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
+*   Lounge Starting at $4.00 Shop Girls Shop Guys
+*   Stocking Stuffers Starting at $3.00 Shop Girls Shop Guys
+*   Gifts Under $10 Starting at $3.00 Shop Girls Shop Guys
+*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
+*   Lounge Starting at $4.00 Shop Girls Shop Guys
+*   Stocking Stuffers Starting at $3.00 Shop Girls Shop Guys
+*   Gifts Under $10 Starting at $3.00 Shop Girls Shop Guys
+*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
+*   Lounge Starting at $4.00 Shop Girls Shop Guys
 Next
 
-Previous*   Sweaters Starting at Shop Girls Sweaters
-*   Jeans Starting at $13.95 Shop Girls Jeans Shop Guys Jeans
-*   Shirts Starting at $11.85 Shop Girls Shirts Shop Guys Shirts
-*   Sleep Joggers Starting at $9.75 Shop Girls Sleep
-*   Sweaters Starting at Shop Girls Sweaters
-*   Jeans Starting at $13.95 Shop Girls Jeans Shop Guys Jeans
-*   Shirts Starting at $11.85 Shop Girls Shirts Shop Guys Shirts
-*   Sleep Joggers Starting at $9.75 Shop Girls Sleep
-*   Sweaters Starting at Shop Girls Sweaters
-*   Jeans Starting at $13.95 Shop Girls Jeans Shop Guys Jeans
-*   Shirts Starting at $11.85 Shop Girls Shirts Shop Guys Shirts
-*   Sleep Joggers Starting at $9.75 Shop Girls Sleep
-Next
-
-Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Shop Girls Hoodies Shop Guys Hoodies Shop Girls Tees Shop Guys Tees Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts Shop Gift Cards Visit the Help Desk <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+Shop Favorites For Her Shop Favorites For Him Shop Girls Hoodies Shop Guys Hoodies Shop Girls Tees Shop Guys Tees Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Shop Gift Cards Visit the Help Desk <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions Details FOLLOW US Customer Care
 
 *   Order Status
@@ -581,4 +549,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2018 Aeropostale. All Rights Reserved. close dialogY'all Yeti For this? Cyber Monday70% OffThroughout the site + free shipping on orders over $25Please enter aboveShop NowTake me to Aeroclose dialog
+© 2018 Aeropostale. All Rights Reserved.
