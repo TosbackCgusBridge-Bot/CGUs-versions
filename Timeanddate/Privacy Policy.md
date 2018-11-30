@@ -55,8 +55,9 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Sun Calculator
     *   Moon Calculator
     *   Moon Phases
-    *   Eclipses
     *   Seasons
+    *   Eclipses
+    *   Night Sky
     *   Day and Night Map
     *   Moon Light World Map
     *   Meteor Showers
