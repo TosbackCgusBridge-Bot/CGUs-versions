@@ -1,4 +1,4 @@
-*   NO10-1DAL6-5Thu, 8:20 pm ET
+*   NO10-210DAL7-513Final
 *   BAL6-5ATL4-7Sun, 1:00 pm ET
 *   DEN5-6CIN5-6Sun, 1:00 pm ET
 *   LA10-1DET4-7Sun, 1:00 pm ET
@@ -32,7 +32,7 @@
 *   NFL Network
 *   Photos
 
-*   NO10-1DAL6-5Thu, 8:20 pm ET
+*   NO10DAL13Final
 *   BAL6-5ATL4-7Sun, 1:00 pm ET
 *   DEN5-6CIN5-6Sun, 1:00 pm ET
 *   LA10-1DET4-7Sun, 1:00 pm ET
