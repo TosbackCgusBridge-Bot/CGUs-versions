@@ -1,15 +1,5 @@
 Skip to Main Content × Saving your location allows us to provide you with more relevant information. Update Location  
-Clear Location × Default High Contrast Reset Increase Font SizeFont Decrease Font SizeFont Secure × ALERT!
-
-Governor Brown Secures Presidential Major Disaster Declaration to Support Communities Impacted by Wildfires
-
-Read the news release
-
-If you have been impacted by the wildfires, you can learn more about resources available to you at:
-
-wildfirerecovery.org disasterassistance.gov
-
-Read More
+Clear Location × Default High Contrast Reset Increase Font SizeFont Decrease Font SizeFont Secure
 
 *   Home
 *   Mobile Gallery
