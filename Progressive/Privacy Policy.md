@@ -200,6 +200,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Home Financing
         *   Home Refinancing
         *   Home Security
+        *   Home Warranty
         *   ID Theft
         *   Life
         *   Mexico Auto
@@ -290,7 +291,7 @@ Or, quote another product
 *   Health
 *   Homeowners
 *   Home Financing
-*   Home Refinancing
+*   Home Warranty
 *   ID Theft
 *   Life
 *   Mexico Auto
@@ -304,7 +305,7 @@ Or, quote another product
 *   Travel
 *   Wedding &. Event
 
-Select a product Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHome FinancingHome RefinancingID TheftLifeMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event Select a productCurrently selected productAuto 
+Select a product Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHome FinancingHome WarrantyID TheftLifeMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event Select a productCurrently selected productAuto 
 
 Loading
 
