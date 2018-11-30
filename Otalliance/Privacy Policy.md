@@ -72,10 +72,14 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
-Tue, Nov 27, 2018 6th National Cyber Security Conference Wed, Nov 28, 2018 Cyber Security &. Cloud Expo Mon, Dec 3, 2018 ASAE Technology Conference &. Expo Thu, Dec 13, 2018 OECD Global Forum on Digital Security for Prosperity
+Wed, Nov 28, 2018 Cyber Security &. Cloud Expo Mon, Dec 3, 2018 ASAE Technology Conference &. Expo Thu, Dec 13, 2018 OECD Global Forum on Digital Security for Prosperity
 
 *   OTA Blog
 *   Newsletters
+
+Wed, Nov 28, 2018 New Report: Major Online Retailers Increase Email Marketing Trustworthiness and Follow Unsubscribe Best Practices
+
+Today, the Internet Society’s Online Trust Alliance released its fifth annual **Email Marketing &. Unsubscribe Audit.** OTA researchers analyzed the email marketing practices of 200 of North America’s top online retailers and, based on this analysis, offered prescriptive advice to help marketers provide consumers with choice and control over when and what messages they receive.
 
 Thu, Oct 4, 2018 National Cybersecurity Awareness Month = International IoT Security and Privacy Month
 
@@ -88,10 +92,6 @@ Later this year, we’ll publish the 10th annual Online Trust Audit &. Honor Rol
 Thu, May 10, 2018 Nest Alert: Protection From Pwned\* Passwords
 
 A colleague just received an “Urgent Security Alert - Action Requested” email from Nest (see the image below). At first glance it looked like either a phishing attempt or one of the way-too-often breach notifications we all receive these days.
-
-Tue, Apr 17, 2018 Space Invaders - Consumer-Grade IoT in the Enterprise
-
-I used to love the old Space Invaders arcade game - waves of enemy attackers came in faster and faster while you tried to defend your base. With experience you could learn their tactics and get pretty adept at stopping them. For today’s enterprise IT staff, consumer-grade IoT devices must certainly feel like those space invaders of old.
 
 More >>. Main menu
 
