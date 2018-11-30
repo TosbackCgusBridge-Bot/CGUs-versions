@@ -119,7 +119,7 @@ Skip to main content
     *   Expert Blogs
     *   News Center
     
-    Featured Topics*   Special Report America's Pain: The Opioid Epidemic
+    Featured Topics*   WebMD Investigates Lives Lost When ERs Break the Law
     *   Newsletters Sign Up to Receive Our Free Newsletters
 *   Mobile Apps
 *   Subscriptions
