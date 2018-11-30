@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   GitKraken picks up community demand to adopt snaps ›
+*   Running Android in the Cloud with Amazon EC2 A1 instances ›
 *   Six reasons why developers choose Ubuntu Desktop ›
 *   Ubuntu available in new AWS Marketplace for Containers ›
 *   Ubuntu Server development summary – 27 November 2018 ›
-*   The power of installed-base snap metrics ›
-*   Ubuntu at KubeCon &. CloudNativeCon ›
