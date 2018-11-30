@@ -27,7 +27,7 @@ MenuSearch Close
     
     Explore All Tracking Find peace of mind with the details.
     
-    UPS tracking solutions show the progress of your shipment every step of the way, across town or around the world.  .
+    UPS tracking solutions show the progress of your shipment every step of the way, across town or around the world.
     
     Learn More
     
