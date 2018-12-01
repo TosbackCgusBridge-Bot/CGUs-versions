@@ -70,7 +70,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   First 'Artemis Fowl' Teaser Will Make You Believe. Here's Everything We Know Read More
     *   First Teaser for 'The Lion King' Looks Amazing. Here's Everything We Know Read More
-    *   Next 3 Michael B. Jordan Movies: 'Just Mercy,' 'Wrong Answer,' 'A Bittersweet Life' Read More
+    *   The Week in Movie News: Holiday Movie Guide, First Look at 'Artemis Fowl' and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -370,7 +370,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   November Celebrity Birthdays
+*   December Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
