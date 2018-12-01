@@ -140,7 +140,7 @@ We will respond to your inquiry or investigate your concern as quickly as possib
   
 DATED: December 9, 2015
 
-Catalog &. Brochures Request View Online Buying Guides Need HelpFAQContact UsReturn PolicyChildren's Product RegistrationDelivery InformationStore DeliveryOnline DeliveryPicking with DeliveryTrack an OrderDelivery Terms &. ConditionsHelpful LinksFind an IKEA StoreAll ProductsPlanning ToolsIKEA Food &. RestaurantWarrantiesIKEA ServicesIKEA Gift CardThis is IKEAThe IKEA ConceptDemocratic DesignAbout the IKEA GroupPeople &. PlanetPress RoomRead our MaterialsIKEA FoundationJobs at IKEA © Inter IKEA Systems B.V. 1999 - 2017 | Privacy Policy <div style="display: none;">. <img src="https://smetrics.ikea.com/b/ss/ikeaallnojavascriptprod/5/?c8=us&amp;pageName=nojavascript" alt="" width="5" height="5" />. </div>. Feedback Help us improve by sharing your feedback. We love your feedback! Want to tell us more? Visit IKEA Feedback Center or share your thoughts at IKEA-USA.com/feedback.
+Catalog &. Brochures Request View Online Buying Guides Need HelpFAQContact UsReturn PolicyChildren's Product RegistrationDelivery InformationStore DeliveryOnline DeliveryPicking with DeliveryTrack an OrderDelivery Terms &. ConditionsHelpful LinksFind an IKEA StoreAll ProductsPlanning ToolsIKEA Food &. RestaurantWarrantiesIKEA ServicesIKEA Gift CardThis is IKEAThe IKEA ConceptDemocratic DesignAbout the IKEA GroupPeople &. PlanetPress RoomRead our MaterialsIKEA FoundationJobs at IKEA © Inter IKEA Systems B.V. 1999 - 2017 | Privacy Policy <div style="display: none;">. <img src="https://smetrics.ikea.com/b/ss/ikeaallnojavascriptprod/5/?c8=us&amp;pageName=nojavascript" alt="" width="5" height="5" />. </div>. Feedback Help us improve by sharing your feedback. We love your feedback! Please note that if you have a concern you need handled immediately, please contact our Customer Services
 
 How are we doing? Please rate your experience with our website today.
 
@@ -148,7 +148,7 @@ Hate Dislike Neutral Like Love Select an element on the page.
 
 false
 
-We love your feedback! Want to tell us more? Visit IKEA Feedback Center or share your thoughts at IKEA-USA.com/feedback.
+We love your feedback! Please note that if you have a concern you need handled immediately, please contact our Customer Services
 
 Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits? More information
 
