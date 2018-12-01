@@ -5,24 +5,22 @@
 *   Log inLog in
 *   Cart (0)
 
-Thomson Reuters Legal Search
+Thomson Reuters Legal
 
-*   Products Products Top products
+*   ProductsProducts Top products
     
     *   Westlaw
     *   Westlaw Edge
     *   Practical Law
     *   Practical Law Connect
     *   CLEAR
-    *   Law Books
+    *   Law books
+    *   All products
     
-    All products
-    *   Featured Thomson Reuters Westlaw Edge
-        
-        Introducing the most intelligent legal research service ever.
-        
-        Learn more
-*   Solutions Solutions Solutions
+    Featured
+    
+    **Thomson Reuters Westlaw Edge** Introducing the most intelligent legal research service ever. Learn more
+*   SolutionsSolutions Solutions
     
     *   Streamline legal research
     *   Maximize legal know-how
@@ -30,32 +28,30 @@ Thomson Reuters Legal Search
     *   Investigate and mitigate risk
     *   Simplify litigation
     *   Fast-track drafting and contracts
+    *   All solutions
     
-    All solutions
-    *   Featured Artificial intelligence
-        
-        See how legal AI can help you work faster and strengthen your practice.
-        
-        Learn more
-*   Insights Insights Insights
+    Featured
+    
+    **Artificial Intelligence** See how legal AI can help you work faster and strengthen your practice. Learn more
+*   InsightsInsights Insights
     
     *   Latest stories
     *   Case studies
+    *   All insights
     
-    All insights Popular topics
+    Popular topics
     *   Artificial intelligence
     *   Big data
     *   Data privacy
     *   FinTech
-*   Support Support
+*   SupportSupport Support
     *   Contact us
     *   Billing, returns &. refunds
     *   Reference attorneys
     *   Support by product
-    *   Product loginsSee all support
-*   Try and buy
-
-Legal
+    *   Product logins
+    *   See all support
+*   Try and buyTry and buy
 
 1.  Home
 2.  Products
@@ -194,7 +190,7 @@ Thomson Reuters
 
 <img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=215515565692587&ev=PageView&noscript=1" />.
 
-*   be\_ixf. js\_sdk. js\_sdk\_1.0.10
+*   be\_ixf. js\_sdk. js\_sdk\_1.0.11
 *   https://legal.thomsonreuters.com/en/products/westlaw/practitioner-insights
 *   https://legal.thomsonreuters.com/en/products/westlaw/practitioner-insights
 
