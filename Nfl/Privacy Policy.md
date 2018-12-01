@@ -71,7 +71,7 @@
 *   Shop
 *   Teams
 
-NFL.com - Privacy Policy English
+BREAKING NEWSFormer President George H.W. Bush dies at age 94The 41st President of the United States and former World War II naval aviator died Friday evening, family spokesman Jim McGrath announced.READ MORE NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
 Updated: July 20, 2018**  
@@ -269,4 +269,6 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy
+Attn: Website Privacy Policy  
+
+  The 41st President of the United States and former World War II naval aviator died Friday evening, family spokesman Jim McGrath announced.
