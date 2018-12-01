@@ -8,7 +8,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Designer Handbags ft. MCM &. More Up to 50% Off
+    *   Designer Shoes ft. Mercedes Castillo Up to 75% Off
+    *   Designer Shop Up to 70% Off
+    *   Let It Snow: Winter Boots &. Booties
+    *   Ready for Winter: Performance Jackets &. More
+    *   Socks ft. SmartWool
+    *   Keep It Cozy: Hoodies &. More
+    *   Men's Performance Jackets &. More
+    *   Men's Snow &. Outdoor Shoes
+    *   Warm &. Cozy Boots for Kids
+    *   Abound
+    *   Men's Designer Accessories &. Shoes Up to 50% Off
+    *   Men's Designer Clothing Shop Up to 65% Off
+    *   Dresses ft. Sharagano
+    *   Love Stitch
+    *   Designer Sun ft. MCM &. More
+    *   James Jeans
+    *   FAVLUX
+    *   NuMe Style Hair Tools
+    *   Hudson+Bleecker Cosmetic Bags
+    *   Free Shipping: Modern Metallic Decor &. More
+    *   Neat Ideas: Storage, Dispensers &. More
+    *   Gurhan Fine Jewelry
+    *   Juicy Couture Baby &. Girls
+    *   Suzy Levian Jewelry
+    *   MIA
+    *   Lindbergh
+    *   English Laundry Up to 60% Off
+    *   Grace &. Stella
+    *   Closet Organizers, Storage Boxes &. More from $10
+    *   Gifts for the Cook: Kitchen Gadgets &. More
+    *   On-Trend Outerwear for Kids
+    *   TOV Starting at $25
+    *   Black Orchid
     *   alice + olivia by Stacey Bendet Up to 60% Off
+    
     *   Jeffrey Campbell Up to 50% Off
     *   Holiday Party Sweaters from Tipsy Elves &. More
     *   Why Dress
@@ -35,27 +70,16 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Dirty Little Secret Cosmetics
     *   Free Shipping: Dinnerware &. Tabletop
     *   Empire Art
-    *   TOV Starting at $25
-    *   Black Orchid
-    *   Designer Coats Up to 65% Off
-    *   Dr. Martens Starting at $30
     *   14K Gold Jewelry Steals
-    
-    *   Glam Galore: Designer Dresses ft. Lumier
     *   Karl Lagerfeld Paris Up to 55% Off
-    *   Dreamers by Debut
-    *   Socialite
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Boho Looks for Girls ft. Mimi &. Maggie
     *   Gifts for Her ft. Lilly Pulitzer &. Vera Bradley
-    *   Mephisto
-    *   Casually Chic Bags
-    *   Skechers Starting at $30
-    *   Surell Cold-Weather Accessories
     *   Present Perfect: Books for Kids of All Ages
     *   Sovereign Code Kids Starting at $11
     *   Steve Madden Kids Up to 65% Off
     *   Rogue Starting at $13
+    
     *   Frank Wright Up to 65% Off
     *   Kinetix
     *   Blend Mineral Cosmetics
@@ -65,16 +89,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Lacoste Bedding
     *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Marmont Hill Wall Art
-    *   Joie Up to 70% Off
-    *   CURRENT/ELLIOTT Up to 65% Off
-    *   Sapanyu Multicolor Gemstone Jewelry Under $65
     *   Scotch &. Soda Up to 50% Off
     *   Luxe Dress Shoes ft. Vince Camuto
-    *   Canada Weather Gear Kids' Outerwear
-    *   On-Trend Jewelry from Gabi Rielle from $17
-    *   STEM: Education &. Learning Toys
-    
-    *   Skechers Kids Up to 50% Off
     *   Tailored Recreation Starting at $13
     *   Badgley Mischka Men's Shoes
     *   Oakley Men Up to 50% Off
@@ -83,36 +99,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   On-the-Go Glam: Travel Accessories from $10
     *   Teami Blends Detox Teas &. Supplements
     *   Holiday Glow: Premier Skin Care
-    *   Adornia Jewelry Up to 80% Off
-    *   Hickey Freeman Up to 60% Off
     *   Free Shipping: Sleek Accent Furniture &. More
-    *   Kuwalla
     *   Sweet Gifts: Retro Kitchen Appliances
-    *   Good Man Brand Under $100
     *   Korean Beauty: JayJun &. VT Cosmetics
     *   Michael Todd Beauty Soniclear &. More
     *   Free Shipping: Bold Modern Art
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
     *   Free Shipping: Kitchen Blowout
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Free Shipping: Pillows &. Throws Blowout
-    *   Korean Beauty: Leaders Cosmetics
     *   Add Joy: Holiday Decor &. More Up to 70% Off
     *   Luxe Warmth: Cashmere Throws &. More
     *   One Stop Shop: Christmas Decor
-    *   Free Shipping: NMK Bedding Up to 75% Off
-    *   Ultra-Soft Towels Starting at $10
-    *   Free Shipping: Farmhouse-Inspired Decor
-    *   Free Shipping: Budget-Friendly Accent Furniture
     *   Equipment
-    *   PUMA Active
+    *   Glam Galore: Designer Dresses ft. Lumier
+    *   Socialite
 *   WomenShop Sale Events
     
+    *   Designer Handbags ft. MCM &. More Up to 50% Off
+    *   Designer Shoes ft. Mercedes Castillo Up to 75% Off
+    *   Designer Shop Up to 70% Off
+    *   Let It Snow: Winter Boots &. Booties
+    *   Ready for Winter: Performance Jackets &. More
+    *   Socks ft. SmartWool
+    *   Keep It Cozy: Hoodies &. More
+    *   Abound
+    *   Dresses ft. Sharagano
+    *   Love Stitch
+    *   Designer Sun ft. MCM &. More
+    *   James Jeans
+    *   FAVLUX
+    *   NuMe Style Hair Tools
+    *   Hudson+Bleecker Cosmetic Bags
+    *   Gurhan Fine Jewelry
+    *   Suzy Levian Jewelry
+    *   MIA
+    *   Grace &. Stella
+    *   TOV Starting at $25
+    *   Black Orchid
     *   alice + olivia by Stacey Bendet Up to 60% Off
     *   Jeffrey Campbell Up to 50% Off
     *   Holiday Party Sweaters from Tipsy Elves &. More
     *   Why Dress
     *   Young Fabulous &. Broke Up to 60% Off
+    
     *   Tahitian Pearl Jewelry &. More Under $80
     *   Lancaster Paris
     *   Luxe Knits: Beyond Threads
@@ -126,58 +155,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   D24K by D'OR: Luxe Creams, Serums &. More
     *   Dirty Little Secret Cosmetics
-    *   TOV Starting at $25
-    *   Black Orchid
-    *   Designer Coats Up to 65% Off
-    *   Dr. Martens Starting at $30
     *   14K Gold Jewelry Steals
-    *   Glam Galore: Designer Dresses ft. Lumier
-    
-    *   Dreamers by Debut
-    *   Socialite
     *   Rivka Friedman Jewelry Up to 70% Off
-    *   Mephisto
-    *   Casually Chic Bags
-    *   Skechers Starting at $30
-    *   Surell Cold-Weather Accessories
     *   Blend Mineral Cosmetics
-    *   Joie Up to 70% Off
-    *   CURRENT/ELLIOTT Up to 65% Off
-    *   Sapanyu Multicolor Gemstone Jewelry Under $65
-    *   On-Trend Jewelry from Gabi Rielle from $17
     *   OFRA Cosmetics &. Lime Crime
     *   On-the-Go Glam: Travel Accessories from $10
     *   Teami Blends Detox Teas &. Supplements
     *   Holiday Glow: Premier Skin Care
-    *   Adornia Jewelry Up to 80% Off
     *   Korean Beauty: JayJun &. VT Cosmetics
     *   Michael Todd Beauty Soniclear &. More
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Korean Beauty: Leaders Cosmetics
     *   Equipment
-    *   PUMA Active
+    *   Glam Galore: Designer Dresses ft. Lumier
+    *   Socialite
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
     *   Jewelry
+    *   Handbags
     *   Lingerie
     *   Tech Accessories
-    *   Handbags
 *   MenShop Sale Events
     
+    *   Men's Performance Jackets &. More
+    *   Men's Snow &. Outdoor Shoes
+    *   Men's Designer Accessories &. Shoes Up to 50% Off
+    *   Men's Designer Clothing Shop Up to 65% Off
+    *   Lindbergh
+    *   English Laundry Up to 60% Off
     *   Ben Sherman
     *   Men's Bomber Jackets
     *   Minnetonka for the Family
     *   Salute Up to 70% Off
     *   Ben Sherman Shoes Up to 65% Off
     *   Gilded Age
+    
     *   Karl Lagerfeld Paris Up to 55% Off
     *   Rogue Starting at $13
     *   Frank Wright Up to 65% Off
     *   Kinetix
-    
     *   Scotch &. Soda Up to 50% Off
     *   Luxe Dress Shoes ft. Vince Camuto
     *   Tailored Recreation Starting at $13
@@ -185,9 +202,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Oakley Men Up to 50% Off
     *   CURRENT/ELLIOTT Men Up to 65% Off
     *   Teami Blends Detox Teas &. Supplements
-    *   Hickey Freeman Up to 60% Off
-    *   Kuwalla
-    *   Good Man Brand Under $100
     
     Shop By Category
     *   Clothing
@@ -195,27 +209,32 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Warm &. Cozy Boots for Kids
+    *   Juicy Couture Baby &. Girls
+    *   On-Trend Outerwear for Kids
     *   Holiday Sleepwear for Kids Starting at $12
     *   Minnetonka for the Family
     *   Boho Looks for Girls ft. Mimi &. Maggie
     *   Present Perfect: Books for Kids of All Ages
     *   Sovereign Code Kids Starting at $11
     *   Steve Madden Kids Up to 65% Off
-    *   Canada Weather Gear Kids' Outerwear
-    *   STEM: Education &. Learning Toys
-    *   Skechers Kids Up to 50% Off
     
     Shop By Category
-    *   Girls' Shoes
-    *   Boys' Shoes
     *   Boys Sizes 2T-7
+    *   Boys Sizes 8-20
+    *   Girls' Shoes
     *   Girls Sizes 2T-6X
     *   Baby Boy
-    *   Boys Sizes 8-20
     *   Girls Sizes 7-16
+    *   Boys' Shoes
+    *   Baby Girl
     *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Modern Metallic Decor &. More
+    *   Neat Ideas: Storage, Dispensers &. More
+    *   Closet Organizers, Storage Boxes &. More from $10
+    *   Gifts for the Cook: Kitchen Gadgets &. More
     *   Free Shipping: Cozy Winter Accents &. More
     *   Free Shipping: Dinnerware &. Tabletop
     *   Empire Art
@@ -224,11 +243,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Heated Blankets &. More
     *   KitchenAid
     *   Lacoste Bedding
+    
     *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Sleek Accent Furniture &. More
     *   Sweet Gifts: Retro Kitchen Appliances
-    
     *   Free Shipping: Bold Modern Art
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
     *   Free Shipping: Kitchen Blowout
@@ -236,37 +255,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Add Joy: Holiday Decor &. More Up to 70% Off
     *   Luxe Warmth: Cashmere Throws &. More
     *   One Stop Shop: Christmas Decor
-    *   Free Shipping: NMK Bedding Up to 75% Off
-    *   Ultra-Soft Towels Starting at $10
-    *   Free Shipping: Farmhouse-Inspired Decor
-    *   Free Shipping: Budget-Friendly Accent Furniture
     
     Shop By Category
+    *   Kitchen &. Tabletop
     *   Home Decor
     *   Holiday Decorations
-    *   Kitchen &. Tabletop
     *   Bedding
-    *   Accent Furniture
     *   Luggage &. Travel
+    *   Accent Furniture
+    *   Storage &. Organization
     *   Outdoor Living
     *   Rugs &. Doormats
     *   Bath
-    *   Storage &. Organization
 *   BeautyShop Sale Events
     
+    *   NuMe Style Hair Tools
+    *   Hudson+Bleecker Cosmetic Bags
+    *   Grace &. Stella
     *   Macadamia Natural Oil &. Professional Hair Care
     *   D24K by D'OR: Luxe Creams, Serums &. More
     *   Dirty Little Secret Cosmetics
     *   Blend Mineral Cosmetics
+    
     *   OFRA Cosmetics &. Lime Crime
     *   On-the-Go Glam: Travel Accessories from $10
-    
     *   Teami Blends Detox Teas &. Supplements
     *   Holiday Glow: Premier Skin Care
     *   Korean Beauty: JayJun &. VT Cosmetics
     *   Michael Todd Beauty Soniclear &. More
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Korean Beauty: Leaders Cosmetics
     
     Shop By Category
     *   Makeup
