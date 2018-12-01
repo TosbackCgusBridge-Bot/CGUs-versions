@@ -12,8 +12,8 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1981 games
-*   Most Popular Games 18195 games
+*   Best of new games 1966 games
+*   Most Popular Games 18201 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -23,20 +23,20 @@ CATEGORIES
 *   Games for girls 23,507 games
 *   Driving &. Racing Games 6,716 games
 *   Strategy &. RPG Games 2,405 games
-*   Management Games 3,630 games
-*   Thinking Games 11,873 games
-*   Action &. Adventure Games 15,858 games
+*   Management Games 3,632 games
+*   Thinking Games 11,874 games
+*   Action &. Adventure Games 15,859 games
 *   Sports Games 2,135 games
 *   Shooting Games 8,339 games
 *   Fighting Games 2,089 games
-*   Skill Games 10,652 games
-*   Arcade &. Classic Games 12,652 games
-*   Fun &. Crazy Games 2,470 games
+*   Skill Games 10,654 games
+*   Arcade &. Classic Games 12,654 games
+*   Fun &. Crazy Games 2,471 games
 
 Play with friends  
-Powered by Y8 Account 143 Y8 Multiplayer Games 1,758 Y8 High Score Games 1,080 Y8 Achievements Games 793 Y8 Screenshots Games 1,369 Y8 Online Save Games 2,791 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 143 Y8 Multiplayer Games 1,762 Y8 High Score Games 1,078 Y8 Achievements Games 793 Y8 Screenshots Games 1,371 Y8 Online Save Games 2,795 All Y8 Games Games Last Highscore:
 
-**13,000** points on Big Bad Ape by kamil445566
+**5** points on Masked Forces Unlimited by kanosh
 
 Help us improve Bad translation? Social
 
