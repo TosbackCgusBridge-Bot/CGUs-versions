@@ -24,17 +24,17 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF
     
     $999 sale
     
-    was $32 Xersion Mens Drawstring Waist Basketball Shorts(23)Add To Cart
+    was $32 Xersion Mens Drawstring Waist Basketball Short(23)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1199 sale
     
-    was $30 Xersion Long Sleeve Fleece Hoodie(4)Add To Cart
+    was $30 Xersion Long Sleeve Fleece Hoodie(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1199 sale
     
-    was $32 Xersion Mens Drawstring Waist Basketball Shorts(20)Add To Cart
+    was $32 Xersion Mens Drawstring Waist Basketball Short(20)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1799 sale
@@ -44,17 +44,17 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF
     
     $1999 sale
     
-    was $40 Xersion Puffer Vest(1)Add To Cart
+    was $40 Xersion Puffer Vest(3)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1199 sale
     
-    was $32 Xersion Mens Drawstring Waist Basketball Shorts(10)Add To Cart
+    was $32 Xersion Mens Drawstring Waist Basketball Short(10)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $599 sale
     
-    was $14 Xersion™ Xtreme Cotton Muscle Sleeveless Tee(13)Add To Cart
+    was $14 Xersion™ Xtreme Cotton Muscle Sleeveless Tee(14)Add To Cart
 
 UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
 
@@ -70,7 +70,7 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
     
     $1110 sale
     
-    was $37 Xersion Side Lace Up Sweatshirt(4)Add To Cart
+    was $37 Xersion Side Lace Up Sweatshirt(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1110 sale
@@ -83,27 +83,29 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
     
     $1320 sale
     
-    was $44 Xersion Cozy Knit Jogger Pants(3)Add To Cart
+    was $44 Xersion Cozy Knit Jogger Pants(4)Add To Cart
 *   from$1320 sale
     
-    was $37 - $44 Love Now Wear Now Shine(11)
+    was $37 - $44 Love Now Wear Now Shine(13)
 
 Hot Sellers
 
-*   $2999 sale
-    
-    was $44 | 31% offLee® Regular-Fit Straight-Leg Jeans(1563)
+*   $2249after couponwas $44 Lee® Relaxed-Fit Straight-Leg Jeans(481)
 *   ADVERTISED DEAL!
     
     $25 sale
     
     was $75 | 66% offQ7 Limited Time Special! Black Smartwatch(83)
-*   $2249after couponwas $44 Lee® Relaxed-Fit Straight-Leg Jeans(481)
 *   $1349after couponwas $42 Arizona Basic Original Bootcut Jeans(555)
 *   ADVERTISED DEAL!
     
-    $1649after couponwas $44 Stafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt(126)
-*   $2999after couponwas $84 Xersion Heavyweight Puffer Jacket -Big Kid Boys(2)
+    $9332after couponwas $449.98 1 CT. T.W. Genuine White Diamond Sterling Silver 2-pc. Jewelry Set(86)
+*   $2249after couponwas $40 Champion® Powerblend Fleece Pullover Hoodie(84)
+*   ADVERTISED DEAL!
+    
+    $3375 sale
+    
+    was $45 | 25% offNike Club OH Fleece Pant(47)
 
 Shop and Save at JCPenney
 
