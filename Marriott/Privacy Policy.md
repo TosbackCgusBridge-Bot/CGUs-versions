@@ -56,8 +56,10 @@ Languages
 *   Polish
 *   Portuguese
 *   Russian
+*   Simplified Chinese
 *   Spanish
 *   Thai
+*   Traditional Chinese
 *   Turkish
 
 Drawers
