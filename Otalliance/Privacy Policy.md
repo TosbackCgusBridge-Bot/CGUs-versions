@@ -72,7 +72,7 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
-Wed, Nov 28, 2018 Cyber Security &. Cloud Expo Mon, Dec 3, 2018 ASAE Technology Conference &. Expo Thu, Dec 13, 2018 OECD Global Forum on Digital Security for Prosperity
+Mon, Dec 3, 2018 ASAE Technology Conference &. Expo Thu, Dec 13, 2018 OECD Global Forum on Digital Security for Prosperity
 
 *   OTA Blog
 *   Newsletters
