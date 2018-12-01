@@ -1,14 +1,10 @@
-Skip Main Navigation
+For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
 
 expand
 
 *   MARRIOTT.COM HOME
-*   Sign In
-*   Join Marriott Rewards
-*   Change Language
-*   Help
 *   expandFIND &. RESERVE
-    *   Find a Hotel
+    *   Find a Hotel test
     *   Find a Hotel for Group (10+ rooms)
     *   Browse by Destination
 *   expandRESERVATIONS
@@ -17,22 +13,12 @@ expand
     *   Deals
     *   Hotel &. Flight Packages
     *   Cars, Tours, Activities
-*   expandMARRIOTT REWARDS
-    *   Marriott Rewards Overview
-    *   Earn Points
-    *   Use Points
-    *   Discover Benefits
-    *   Marriott Rewards Credit Card
-    *   Marriott Rewards Community
 *   expandMEETINGS &. EVENTS
     *   Meetings &. Events Overview
     *   Business Meetings
     *   Weddings
     *   Convention &. Resort Hotels
     *   European Convention Network
-*   expandSHOP MARRIOTT
-    *   Bedding, Bath &. Décor
-    *   Gift Cards
 *   expandNEWS
     *   News
     *   Bill Marriott’s Blog
@@ -51,97 +37,6 @@ expand
 THE RITZ CARLTON REWARDS Marriott Rewards Starwood Preferred Guest
 
 *   English
-*   Collapsed Find &. Reserve Find a Hotel
-    
-    *   City search
-    *   Address search
-    
-    Location Location
-    
-    Check-in
-    
-    November2018 SunMonTueWedThuFriSat2829303112345678910111213141516171819202122232425262728293012345678ClearDone
-    
-    Nights 123456789
-    
-    Check-out 1 night
-    
-    December2018 SunMonTueWedThuFriSat2526272829301234567891011121314151617181920212223242526272829303112345ClearDone
-    
-    My dates are flexible
-    
-    Rooms 1234-910-2526+
-    
-    *   1
-    *   2
-    *   3
-    *   4+
-    
-    Guests/room 123456
-    
-    *   1
-    *   2
-    *   3
-    *   4+
-    
-    Rewards number
-    
-    Use Rewards points What's this?
-    
-    Special Rates (proof of eligibility required at check-in)
-    
-    *   None
-    *   AAA/CAA
-    *   Senior Discount
-    *   Government &. Military
-    *   Corporate / promotional code promotional-code
-    
-    About special rates Hotels by Brand
-    
-    *   AC Hotels
-    *   Autograph Collection
-    *   Conference Centers
-    *   Courtyard
-    *   Delta Hotels and Resorts - NEW!
-    *   EDITION Hotels
-    *   Fairfield Inn &. Suites
-    *   Gaylord Hotels
-    *   JW Marriott
-    *   Marriott Executive Apartments
-    *   Marriott Hotels and Resorts
-    *   Marriott Vacation Club
-    *   MOXY Hotels
-    *   Protea Hotels
-    *   Renaissance Hotels
-    *   Residence Inn
-    *   SpringHill Suites
-    *   The Ritz-Carlton
-    *   TownePlace Suites
-    *   All brands
-    
-    _Find_
-    
-    Advanced search
-    
-    **Hotels For…**
-    
-    *   Business Meetings
-    *   Weddings
-    *   Conferences
-    
-    **Deals &. Packages**
-    
-    *   Hotel &. Flight Packages
-    *   Cars, Tours &. More
-    *   All Deals
-    
-    **Marriott Rewards® Member Rates**  
-    Our lowest rates when you book direct.
-    
-    See details
-    
-    CLOSE
-    
 *   Meetings &. Events
 *   Collapsed Reservations
     
@@ -166,13 +61,6 @@ THE RITZ CARLTON REWARDS Marriott Rewards Starwood Preferred Guest
     
     CLOSE
     
-*   Sign in to My Account Email or Rewards # Password Sign In
-    
-    Remember me
-    
-    *   Forgot password
-    *   Create online accountOr sign in using: Sign in to your account with Facebook
-*   My Account: Sign In • Join Now
 
 PRIVACY CENTER
 
@@ -234,8 +122,10 @@ Languages
 *   Polish
 *   Portuguese
 *   Russian
+*   Simplified Chinese
 *   Spanish
 *   Thai
+*   Traditional Chinese
 *   Turkish
 
 Drawers
