@@ -164,3 +164,5 @@ Under certain conditions, more fully described on the Privacy Shield website her
 **Contact Us**
 
 We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at http://customerservice.starbucks.com (by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, P.O. Box 93490 Albuquerque, NM 87199. You can also contact our privacy team us by submitting this form.
+
+View the Privacy Policies for our mobile applications: iOS and Android.
