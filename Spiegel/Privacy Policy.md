@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   30\. November 2018
+*   1\. Dezember 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.298,23ǀ
+*   DAX 11.257,24ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -344,7 +344,6 @@ SPIEGEL GRUPPE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
-*   DER SPIEGEL
 *   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   Dein SPIEGEL
@@ -354,10 +353,10 @@ SPIEGEL GRUPPE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
-*   DER SPIEGEL
 *   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   Dein SPIEGEL
+*   SPIEGEL EXPEDITION
 
 12
 
