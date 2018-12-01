@@ -48,7 +48,7 @@ Additional policies
 
 Additional policies on a range of subjects. Learn more
 
-If a YouTube creator’s on- and/or off-platform behavior harms our users, community or ecosystem, we may respond based on a number of factors including, but not limited to, the egregiousness of their actions and whether a pattern of harmful behavior exists.  
+If a YouTube creator’s on- and/or off-platform behavior harms our users, community, employees or ecosystem, we may respond based on a number of factors including, but not limited to, the egregiousness of their actions and whether a pattern of harmful behavior exists.  
 Our response will range from suspending a creator’s privileges to account termination.
 
 Your safety is important to us. Learn more about YouTube tools and resources, and get tips on many topics below.
