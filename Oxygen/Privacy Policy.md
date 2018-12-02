@@ -14,10 +14,11 @@ Skip to main content
     *   Cold Justice
     *   Criminal Confessions
     *   Dateline: Secrets Uncovered
+    *   Dirty John, The Dirty Truth
+    *   Homicide for the Holidays
+    
     *   Killer Couples
     *   Martinis &. Murder
-    
-    *   Method Of A Serial Killer
     *   Snapped
     *   The Disappearance of Phoenix Coldon
     *   Unspeakable Crime: The Killing of Jessica Chambers
@@ -38,10 +39,11 @@ Get Updates Facebook Twitter Newsletter Oxygen.com
     *   Cold Justice
     *   Criminal Confessions
     *   Dateline: Secrets Uncovered
+    *   Dirty John, The Dirty Truth
+    *   Homicide for the Holidays
+    
     *   Killer Couples
     *   Martinis &. Murder
-    
-    *   Method Of A Serial Killer
     *   Snapped
     *   The Disappearance of Phoenix Coldon
     *   Unspeakable Crime: The Killing of Jessica Chambers
@@ -103,5 +105,3 @@ Get Involved
 Stay Connected Stay Connected
 
 ©2018 Oxygen Media LLC. A Division of NBCUniversal
-
-AddThis SharingSHARESFacebookTwitterPrintAddThisAddThis SharingPinterestFacebookEmailCopy Link
