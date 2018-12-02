@@ -32,10 +32,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 Hot Topics
 
 *   Relentless Church
-*   Alcohol
-*   Transgender ideology
-*   The Voice
-*   Twitter ban
+*   George H. W. Bush
+*   Medical missions
+*   Missionary abduction
+*   Alcohol survey
 
 About Us
 
