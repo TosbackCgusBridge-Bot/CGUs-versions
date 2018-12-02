@@ -5,7 +5,7 @@
 *   Conferences
 *   Shop
 
-Search terms Search Your Account Open menuClose menu
+Search terms Search Sign In Open menuClose menu
 
 *   Ideas
 *   Learning Platform
