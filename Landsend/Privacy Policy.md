@@ -38,7 +38,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Activewear
     *   Pajamas &. Robes
     *   Shorts
-    *   Blazers
     *   Long Underwear
     
     SHOP BY SIZE RANGE
@@ -494,7 +493,6 @@ Lands' End Sign In menu
         *   Activewear
         *   Pajamas &. Robes
         *   Shorts
-        *   Blazers
         *   Long Underwear
     *   SHOP BY SIZE RANGE
         *   Back
