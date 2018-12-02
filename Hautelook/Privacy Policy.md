@@ -8,17 +8,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Designer Handbags ft. MCM &. More Up to 50% Off
-    *   Designer Shoes ft. Mercedes Castillo Up to 75% Off
-    *   Designer Shop Up to 70% Off
-    *   Let It Snow: Winter Boots &. Booties
+    *   Bobbi Brown
+    *   Go Couture Blowout
+    *   Peter Millar
+    *   Slippers for Him &. Her from $10
+    *   Kier &. J Cashmere
+    *   Mustard Seed Starting at $15
+    *   Vintage Havana Under $40
+    *   On-Trend Hoops, Pendants &. More from $15
+    *   Sleep &. Lounge ft. Laundry Room Starting at $15
+    *   Reebok
+    *   Affliction Up to 65% Off
+    *   L'Atiste
+    *   Best for Baby: Coccoli Up to 60% Off
+    *   Free Shipping: Melange Bedding
+    *   Swim Trends ft. KENDALL + KYLIE
+    *   Skechers Active
+    *   Rachel Pally Maternity
+    *   On-Trend Earrings &. Necklaces Under $30
+    *   Made in Italy: 1AR by UNOAERRE Statement Jewelry
+    *   Made in Italy: Summit
+    *   Trending Soles ft. Wild Diva Lounge
+    *   On Trend: Belt Bags Under $50
+    *   Reebok Men
+    *   Robert Wayne Up to 65% Off
+    *   Reebok Men's Active Up to 50% Off
+    *   NuFACE Facial Toning Devices
+    *   Holiday Cheer: Kitchen Towels, Wine Bags &. More
+    *   Holiday Charm: Gnomes, Mini Trees &. More
+    *   Projek Raw &. More
     *   Ready for Winter: Performance Jackets &. More
+    *   Let It Snow: Winter Boots &. Booties
     *   Socks ft. SmartWool
     *   Keep It Cozy: Hoodies &. More
     *   Men's Performance Jackets &. More
     *   Men's Snow &. Outdoor Shoes
+    
     *   Warm &. Cozy Boots for Kids
+    *   Designer Handbags ft. MCM &. More Up to 50% Off
+    *   Designer Shoes ft. Mercedes Castillo Up to 75% Off
     *   Abound
+    *   Designer Shop Up to 70% Off
     *   Men's Designer Accessories &. Shoes Up to 50% Off
     *   Men's Designer Clothing Shop Up to 65% Off
     *   Dresses ft. Sharagano
@@ -39,47 +69,25 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Grace &. Stella
     *   Closet Organizers, Storage Boxes &. More from $10
     *   Gifts for the Cook: Kitchen Gadgets &. More
-    *   On-Trend Outerwear for Kids
-    *   TOV Starting at $25
-    *   Black Orchid
     *   alice + olivia by Stacey Bendet Up to 60% Off
-    
-    *   Jeffrey Campbell Up to 50% Off
-    *   Holiday Party Sweaters from Tipsy Elves &. More
-    *   Why Dress
     *   Ben Sherman
-    *   Young Fabulous &. Broke Up to 60% Off
     *   Tahitian Pearl Jewelry &. More Under $80
-    *   Lancaster Paris
-    *   Luxe Knits: Beyond Threads
-    *   Wow Couture
     *   Macadamia Natural Oil &. Professional Hair Care
-    *   Rainy Day Style: Sperry &. More
     *   Holiday Sleepwear for Kids Starting at $12
     *   Free Shipping: Cozy Winter Accents &. More
-    *   X by Gottex
     *   Men's Bomber Jackets
-    *   Rieker &. Remonte
-    *   Minnetonka for the Family
-    *   Exclusively Ours: Accessories Under $35
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Salute Up to 70% Off
     *   Ben Sherman Shoes Up to 65% Off
+    
     *   Gilded Age
     *   D24K by D'OR: Luxe Creams, Serums &. More
     *   Dirty Little Secret Cosmetics
     *   Free Shipping: Dinnerware &. Tabletop
     *   Empire Art
-    *   14K Gold Jewelry Steals
     *   Karl Lagerfeld Paris Up to 55% Off
-    *   Rivka Friedman Jewelry Up to 70% Off
-    *   Boho Looks for Girls ft. Mimi &. Maggie
     *   Gifts for Her ft. Lilly Pulitzer &. Vera Bradley
-    *   Present Perfect: Books for Kids of All Ages
-    *   Sovereign Code Kids Starting at $11
-    *   Steve Madden Kids Up to 65% Off
     *   Rogue Starting at $13
-    
     *   Frank Wright Up to 65% Off
     *   Kinetix
     *   Blend Mineral Cosmetics
@@ -89,40 +97,54 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Lacoste Bedding
     *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Marmont Hill Wall Art
-    *   Scotch &. Soda Up to 50% Off
-    *   Luxe Dress Shoes ft. Vince Camuto
-    *   Tailored Recreation Starting at $13
-    *   Badgley Mischka Men's Shoes
-    *   Oakley Men Up to 50% Off
-    *   CURRENT/ELLIOTT Men Up to 65% Off
     *   OFRA Cosmetics &. Lime Crime
     *   On-the-Go Glam: Travel Accessories from $10
     *   Teami Blends Detox Teas &. Supplements
     *   Holiday Glow: Premier Skin Care
     *   Free Shipping: Sleek Accent Furniture &. More
-    *   Sweet Gifts: Retro Kitchen Appliances
-    *   Korean Beauty: JayJun &. VT Cosmetics
-    *   Michael Todd Beauty Soniclear &. More
     *   Free Shipping: Bold Modern Art
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Pillows &. Throws Blowout
+    *   On-Trend Outerwear for Kids
+    *   Holiday Party Sweaters from Tipsy Elves &. More
+    *   Why Dress
+    *   Young Fabulous &. Broke Up to 60% Off
+    *   Wow Couture
+    *   Boho Looks for Girls ft. Mimi &. Maggie
+    *   Present Perfect: Books for Kids of All Ages
     *   Add Joy: Holiday Decor &. More Up to 70% Off
-    *   Luxe Warmth: Cashmere Throws &. More
-    *   One Stop Shop: Christmas Decor
-    *   Equipment
-    *   Glam Galore: Designer Dresses ft. Lumier
-    *   Socialite
 *   WomenShop Sale Events
     
-    *   Designer Handbags ft. MCM &. More Up to 50% Off
-    *   Designer Shoes ft. Mercedes Castillo Up to 75% Off
-    *   Designer Shop Up to 70% Off
-    *   Let It Snow: Winter Boots &. Booties
+    *   Bobbi Brown
+    *   Go Couture Blowout
+    *   Slippers for Him &. Her from $10
+    *   Kier &. J Cashmere
+    *   Mustard Seed Starting at $15
+    *   Vintage Havana Under $40
+    *   On-Trend Hoops, Pendants &. More from $15
+    *   Sleep &. Lounge ft. Laundry Room Starting at $15
+    *   Reebok
+    *   Affliction Up to 65% Off
+    *   L'Atiste
+    *   Swim Trends ft. KENDALL + KYLIE
+    *   Skechers Active
+    *   Rachel Pally Maternity
+    *   On-Trend Earrings &. Necklaces Under $30
+    *   Made in Italy: 1AR by UNOAERRE Statement Jewelry
+    *   Made in Italy: Summit
+    *   Trending Soles ft. Wild Diva Lounge
+    *   On Trend: Belt Bags Under $50
+    *   NuFACE Facial Toning Devices
     *   Ready for Winter: Performance Jackets &. More
+    *   Let It Snow: Winter Boots &. Booties
     *   Socks ft. SmartWool
     *   Keep It Cozy: Hoodies &. More
+    *   Designer Handbags ft. MCM &. More Up to 50% Off
+    *   Designer Shoes ft. Mercedes Castillo Up to 75% Off
     *   Abound
+    
+    *   Designer Shop Up to 70% Off
     *   Dresses ft. Sharagano
     *   Love Stitch
     *   Designer Sun ft. MCM &. More
@@ -134,73 +156,54 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Suzy Levian Jewelry
     *   MIA
     *   Grace &. Stella
-    *   TOV Starting at $25
-    *   Black Orchid
     *   alice + olivia by Stacey Bendet Up to 60% Off
-    *   Jeffrey Campbell Up to 50% Off
-    *   Holiday Party Sweaters from Tipsy Elves &. More
-    *   Why Dress
-    *   Young Fabulous &. Broke Up to 60% Off
-    
     *   Tahitian Pearl Jewelry &. More Under $80
-    *   Lancaster Paris
-    *   Luxe Knits: Beyond Threads
-    *   Wow Couture
     *   Macadamia Natural Oil &. Professional Hair Care
-    *   Rainy Day Style: Sperry &. More
-    *   X by Gottex
-    *   Rieker &. Remonte
-    *   Minnetonka for the Family
-    *   Exclusively Ours: Accessories Under $35
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   D24K by D'OR: Luxe Creams, Serums &. More
     *   Dirty Little Secret Cosmetics
-    *   14K Gold Jewelry Steals
-    *   Rivka Friedman Jewelry Up to 70% Off
     *   Blend Mineral Cosmetics
     *   OFRA Cosmetics &. Lime Crime
     *   On-the-Go Glam: Travel Accessories from $10
     *   Teami Blends Detox Teas &. Supplements
     *   Holiday Glow: Premier Skin Care
-    *   Korean Beauty: JayJun &. VT Cosmetics
-    *   Michael Todd Beauty Soniclear &. More
-    *   Equipment
-    *   Glam Galore: Designer Dresses ft. Lumier
-    *   Socialite
+    *   Holiday Party Sweaters from Tipsy Elves &. More
+    *   Why Dress
+    *   Young Fabulous &. Broke Up to 60% Off
+    *   Wow Couture
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
-    *   Jewelry
     *   Handbags
+    *   Jewelry
+    *   Accessories
     *   Lingerie
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Peter Millar
+    *   Slippers for Him &. Her from $10
+    *   Reebok Men
+    *   Robert Wayne Up to 65% Off
+    *   Reebok Men's Active Up to 50% Off
+    *   Projek Raw &. More
     *   Men's Performance Jackets &. More
     *   Men's Snow &. Outdoor Shoes
     *   Men's Designer Accessories &. Shoes Up to 50% Off
     *   Men's Designer Clothing Shop Up to 65% Off
     *   Lindbergh
+    
     *   English Laundry Up to 60% Off
     *   Ben Sherman
     *   Men's Bomber Jackets
-    *   Minnetonka for the Family
     *   Salute Up to 70% Off
     *   Ben Sherman Shoes Up to 65% Off
     *   Gilded Age
-    
     *   Karl Lagerfeld Paris Up to 55% Off
     *   Rogue Starting at $13
     *   Frank Wright Up to 65% Off
     *   Kinetix
-    *   Scotch &. Soda Up to 50% Off
-    *   Luxe Dress Shoes ft. Vince Camuto
-    *   Tailored Recreation Starting at $13
-    *   Badgley Mischka Men's Shoes
-    *   Oakley Men Up to 50% Off
-    *   CURRENT/ELLIOTT Men Up to 65% Off
     *   Teami Blends Detox Teas &. Supplements
     
     Shop By Category
@@ -209,28 +212,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Best for Baby: Coccoli Up to 60% Off
+    *   Rachel Pally Maternity
     *   Warm &. Cozy Boots for Kids
     *   Juicy Couture Baby &. Girls
-    *   On-Trend Outerwear for Kids
     *   Holiday Sleepwear for Kids Starting at $12
-    *   Minnetonka for the Family
+    *   On-Trend Outerwear for Kids
     *   Boho Looks for Girls ft. Mimi &. Maggie
     *   Present Perfect: Books for Kids of All Ages
-    *   Sovereign Code Kids Starting at $11
-    *   Steve Madden Kids Up to 65% Off
     
     Shop By Category
-    *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
-    *   Girls' Shoes
     *   Girls Sizes 2T-6X
-    *   Baby Boy
     *   Girls Sizes 7-16
-    *   Boys' Shoes
     *   Baby Girl
+    *   Boys Sizes 8-20
+    *   Boys Sizes 2T-7
+    *   Baby Boy
+    *   Girls' Shoes
+    *   Boys' Shoes
     *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Melange Bedding
+    *   Holiday Cheer: Kitchen Towels, Wine Bags &. More
+    *   Holiday Charm: Gnomes, Mini Trees &. More
     *   Free Shipping: Modern Metallic Decor &. More
     *   Neat Ideas: Storage, Dispensers &. More
     *   Closet Organizers, Storage Boxes &. More from $10
@@ -240,54 +245,52 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Empire Art
     *   Gifts for Her ft. Lilly Pulitzer &. Vera Bradley
     *   Free Shipping: Charming Accents for the Home
+    
     *   Free Shipping: Heated Blankets &. More
     *   KitchenAid
     *   Lacoste Bedding
-    
     *   Free Shipping: Fresh Area Rugs
     *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Sleek Accent Furniture &. More
-    *   Sweet Gifts: Retro Kitchen Appliances
     *   Free Shipping: Bold Modern Art
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Pillows &. Throws Blowout
     *   Add Joy: Holiday Decor &. More Up to 70% Off
-    *   Luxe Warmth: Cashmere Throws &. More
-    *   One Stop Shop: Christmas Decor
     
     Shop By Category
     *   Kitchen &. Tabletop
     *   Home Decor
-    *   Holiday Decorations
     *   Bedding
     *   Luggage &. Travel
-    *   Accent Furniture
-    *   Storage &. Organization
+    *   Holiday Decorations
     *   Outdoor Living
     *   Rugs &. Doormats
     *   Bath
+    *   Storage &. Organization
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Bobbi Brown
+    *   NuFACE Facial Toning Devices
     *   NuMe Style Hair Tools
     *   Hudson+Bleecker Cosmetic Bags
     *   Grace &. Stella
     *   Macadamia Natural Oil &. Professional Hair Care
     *   D24K by D'OR: Luxe Creams, Serums &. More
+    
     *   Dirty Little Secret Cosmetics
     *   Blend Mineral Cosmetics
-    
     *   OFRA Cosmetics &. Lime Crime
     *   On-the-Go Glam: Travel Accessories from $10
     *   Teami Blends Detox Teas &. Supplements
     *   Holiday Glow: Premier Skin Care
-    *   Korean Beauty: JayJun &. VT Cosmetics
-    *   Michael Todd Beauty Soniclear &. More
     
     Shop By Category
     *   Makeup
     *   Tools &. Accessories
     *   Skin Care
+    *   Makeup Bags
     *   Bath &. Body
     *   Hair Care
 
