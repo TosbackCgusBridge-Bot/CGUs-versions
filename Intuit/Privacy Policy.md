@@ -90,22 +90,16 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
 
 Hot Sellers
 
-*   $2249after couponwas $44 Lee® Relaxed-Fit Straight-Leg Jeans(481)
-*   ADVERTISED DEAL!
+*   from$1349after couponwas $39 - $44 Arizona Rib Waist Jeggings Girls' 4-16 and Plus(7)
+*   $1499after couponwas $40 The Foundry Big &. Tall Supply Co. Long Sleeve Flannel Shirt-Big and Tall(15)
+*   from$1799after couponwas $60 Stafford® Executive Non-Iron Cotton Pinpoint Oxford Shirt(293)
+*   LIMITED TIME SPECIAL!
     
-    $25 sale
+    $1999 sale
     
-    was $75 | 66% offQ7 Limited Time Special! Black Smartwatch(83)
-*   $1349after couponwas $42 Arizona Basic Original Bootcut Jeans(555)
-*   ADVERTISED DEAL!
-    
-    $9332after couponwas $449.98 1 CT. T.W. Genuine White Diamond Sterling Silver 2-pc. Jewelry Set(86)
-*   $2249after couponwas $40 Champion® Powerblend Fleece Pullover Hoodie(84)
-*   ADVERTISED DEAL!
-    
-    $3375 sale
-    
-    was $45 | 25% offNike Club OH Fleece Pant(47)
+    was $40 | 50% offXersion Puffer Vest(3)
+*   from$2249after couponwas $64 - $139 North Pole Trading Co. Flannel Sheet Sets(13)
+*   $2249after couponwas $60 Arizona Womens Jones Combat Block Heel Zip Boots(30)
 
 Shop and Save at JCPenney
 
