@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   George H.W. Bush, 41st President of U.S., Dead at 94
 *   Trump Joins Leaders of Canada, Mexico to Sign New Trade Pact
-*   Michael Cohen Pleads Guilty to Lying to Congress Over Moscow Project
 *   Hanson: No Accounting of Comey, Brennan, Clapper--and It's Coming
+*   Michael Cohen Pleads Guilty to Lying to Congress Over Moscow Project
 *   Pelosi, Nominated for Speaker, Must Now Get the Votes
-*   How 3 Republican Governors Defied Blue State Voting Patterns
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -258,9 +258,9 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   David Brooks: When Trump Is Accused Of Something, He Just Shifts The Goalposts or "Re-Norms"
 *   Cardin on Michael Cohen: "Starting To Connect The Dots" Between Trump Campaign, Business, Russia
 *   Chuck Todd: How Different Would The World Be If Trump Lost? "Lots Of People Would Probably Be Happy"
-*   DiGenova: Mueller's Pathetic Narrative Will Be "I Couldn't Prove Collusion Because They Wouldn't Let Me"
 *   Victor Davis Hanson: Haven't Had A Legal Accounting Of Comey, Brennan &. Clapper And It's Coming
 *   Corsi vs. MSNBC's Melber: "I Could Go To Jail For The Rest Of My Life". Willing To Die In Jail For Lying To Congress
 
