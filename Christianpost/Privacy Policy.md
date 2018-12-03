@@ -32,10 +32,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 Hot Topics
 
 *   Relentless Church
-*   George H. W. Bush
+*   George H.W. Bush
 *   Medical missions
 *   Missionary abduction
-*   Alcohol survey
+*   Lauren Daigle
 
 About Us
 
