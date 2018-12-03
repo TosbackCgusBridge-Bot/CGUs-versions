@@ -44,12 +44,12 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF
     
     $1999 sale
     
-    was $40 Xersion Puffer Vest(3)Add To Cart
+    was $40 Xersion Puffer Vest(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1199 sale
     
-    was $32 Xersion Mens Drawstring Waist Basketball Short(10)Add To Cart
+    was $32 Xersion Mens Drawstring Waist Basketball Short(11)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $599 sale
@@ -65,7 +65,7 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
     
     $1320 sale
     
-    was $44 Xersion Tunic Top(4)Add To Cart
+    was $44 Xersion Tunic Top(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1110 sale
@@ -86,20 +86,20 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
     was $44 Xersion Cozy Knit Jogger Pants(4)Add To Cart
 *   from$1320 sale
     
-    was $37 - $44 Love Now Wear Now Shine(13)
+    was $37 - $44 Love Now Wear Now Shine(14)
 
 Hot Sellers
 
-*   from$1349after couponwas $39 - $44 Arizona Rib Waist Jeggings Girls' 4-16 and Plus(7)
-*   $1499after couponwas $40 The Foundry Big &. Tall Supply Co. Long Sleeve Flannel Shirt-Big and Tall(15)
-*   from$1799after couponwas $60 Stafford® Executive Non-Iron Cotton Pinpoint Oxford Shirt(293)
-*   LIMITED TIME SPECIAL!
+*   $2249after couponwas $60 Arizona Garber Ankle Booties(173)
+*   $1349after couponwas $39 Arizona Unicorn 2pc Pajama Set - Girls 4-16
+*   $4999 sale
     
-    $1999 sale
+    was $65 | 23% offNike Flex Experience 7 Womens Running Shoes Lace-up(27)
+*   $2249after couponwas $60 Arizona Womens Lilly Wedge Heel Lace-up Bootie(35)
+*   $2999 sale
     
-    was $40 | 50% offXersion Puffer Vest(3)
-*   from$2249after couponwas $64 - $139 North Pole Trading Co. Flannel Sheet Sets(13)
-*   $2249after couponwas $60 Arizona Womens Jones Combat Block Heel Zip Boots(30)
+    was $44 | 31% offLee® Regular-Fit Straight-Leg Jeans(1567)
+*   $1349after couponwas $42 Arizona Basic Original Straight Jeans(1763)
 
 Shop and Save at JCPenney
 
