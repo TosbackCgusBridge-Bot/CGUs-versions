@@ -271,7 +271,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**50-70% OFF NEW ARRIVALS**  GIRLS GUYS **FREE SHIPPING OVER $50**
+**UP TO 80% OFF CLEARANCE**  GIRLS GUYS **FREE SHIPPING OVER $50 + 50-70% OFF NEW ARRIVALS**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -498,7 +498,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
+ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
 
 Previous*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
@@ -549,4 +549,18 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
