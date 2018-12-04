@@ -29,7 +29,7 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF
     
     $1199 sale
     
-    was $30 Xersion Long Sleeve Fleece Hoodie(5)Add To Cart
+    was $30 Xersion Long Sleeve Fleece Hoodie(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1199 sale
@@ -78,7 +78,7 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
     was $37 Xersion Cotton LeggingsAdd To Cart
 *   from$810 sale
     
-    was $27 Xersion Long Sleeve Performance Tee(4)Add To Cart
+    was $27 Xersion Long Sleeve Performance Tee(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1320 sale
@@ -86,20 +86,22 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
     was $44 Xersion Cozy Knit Jogger Pants(4)Add To Cart
 *   from$1320 sale
     
-    was $37 - $44 Love Now Wear Now Shine(14)
+    was $37 - $44 Love Now Wear Now Shine(17)
 
 Hot Sellers
 
-*   $2249after couponwas $60 Arizona Garber Ankle Booties(173)
-*   $1349after couponwas $39 Arizona Unicorn 2pc Pajama Set - Girls 4-16
-*   $4999 sale
+*   $2249after couponwas $40 Champion® Powerblend Fleece Pullover Hoodie(84)
+*   $1424after couponwas $26 Champion® Jersey Pants(264)
+*   $16 sale
     
-    was $65 | 23% offNike Flex Experience 7 Womens Running Shoes Lace-up(27)
-*   $2249after couponwas $60 Arizona Womens Lilly Wedge Heel Lace-up Bootie(35)
-*   $2999 sale
+    was $24 | 33% offSEPHORA COLLECTION Midnight Wishes Eyeshadow Palette(12)
+*   $2962after couponwas $79 Yuu Womens Bootie Zip(22)
+*   $1349after couponwas $42 Arizona Basic Original Bootcut Jeans(558)
+*   LIMITED TIME SPECIAL!
     
-    was $44 | 31% offLee® Regular-Fit Straight-Leg Jeans(1567)
-*   $1349after couponwas $42 Arizona Basic Original Straight Jeans(1763)
+    $1799 sale
+    
+    was $60 | 70% offSt. John's Bay® Regular-Fit Comfort Stretch Denim Jeans(60)
 
 Shop and Save at JCPenney
 
