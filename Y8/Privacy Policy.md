@@ -12,8 +12,8 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1945 games
-*   Most Popular Games 18220 games
+*   Best of new games 1929 games
+*   Most Popular Games 18228 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more Hi there! Did you know there is a Y8 Forum? Join other player
 CATEGORIES
 
 *   Games for girls 23,513 games
-*   Driving &. Racing Games 6,721 games
+*   Driving &. Racing Games 6,722 games
 *   Strategy &. RPG Games 2,406 games
 *   Management Games 3,632 games
-*   Thinking Games 11,878 games
-*   Action &. Adventure Games 15,860 games
-*   Sports Games 2,135 games
+*   Thinking Games 11,879 games
+*   Action &. Adventure Games 15,861 games
+*   Sports Games 2,136 games
 *   Shooting Games 8,340 games
-*   Fighting Games 2,089 games
-*   Skill Games 10,657 games
-*   Arcade &. Classic Games 12,657 games
+*   Fighting Games 2,090 games
+*   Skill Games 10,663 games
+*   Arcade &. Classic Games 12,656 games
 *   Fun &. Crazy Games 2,472 games
 
 Play with friends  
-Powered by Y8 Account 143 Y8 Multiplayer Games 1,766 Y8 High Score Games 1,080 Y8 Achievements Games 793 Y8 Screenshots Games 1,373 Y8 Online Save Games 2,798 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 143 Y8 Multiplayer Games 1,776 Y8 High Score Games 1,081 Y8 Achievements Games 793 Y8 Screenshots Games 1,375 Y8 Online Save Games 2,808 All Y8 Games Games Last Highscore:
 
-**1,297** points on Wheely 2 by Phuc
+**203** points on Masked Forces by Hacker
 
 Help us improve Bad translation? Social
 
