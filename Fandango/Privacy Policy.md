@@ -6,27 +6,28 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Ralph Breaks the Internet
-    *   Creed II
     *   Dr. Seuss' The Grinch (2018)
+    *   Creed II
     *   Fantastic Beasts: The Crimes of Grindelwald
     *   Bohemian Rhapsody
     *   Instant Family (2018)
+    *   The Possession of Hannah Grace
     *   Robin Hood (2018)
     *   Widows (2018)
     *   Green Book
     *   A Star Is Born (2018)
-    *   The Nutcracker and the Four Realms
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Possession of Hannah Grace
-    *   Anna and the Apocalypse
-    *   Dead In A Week (Or Your Money Back)
-    *   Elliot: The Littlest Reindeer
-    *   Head Full of Honey (2018)
-    *   Sicilian Ghost Story
-    *   Unstoppable (2018)
+    *   Schindler's List 25th Anniversary
+    *   Ben is Back
+    *   Divide and Conquer: The Story of Roger Ailes
+    *   Great Great Great
+    *   Mary Queen of Scots (2018)
+    *   Swimming with Men
+    *   Tyrel
+    *   Vox Lux
     *   See All Opening This Week
     
     Coming Soon
@@ -69,7 +70,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   First 'Artemis Fowl' Teaser Will Make You Believe. Here's Everything We Know Read More
-    *   First Teaser for 'The Lion King' Looks Amazing. Here's Everything We Know Read More
+    *   Next 3 Major Awards Contenders: 'Mary Queen of Scots,' 'If Beale Street Could Talk,' 'Vice' Read More
     *   The Week in Movie News: Holiday Movie Guide, First Look at 'Artemis Fowl' and More Read More
     
     Explore Content
@@ -315,9 +316,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   Fandango VIP+
+*   'Mary Poppins Returns' Gift with Purchase
     
-    Earn 125 points on every ticket you buy. Rack up 500 points and get a $5 reward for more movies. BUY TICKETS
+    Get a free song download of 'Trip a Little Light Fantastic’ with ticket purchase. BUY TICKETS
     
 *   'Aquaman' Gift with Purchase
     
@@ -334,12 +335,12 @@ Offers
 
 New + Coming soon
 
-*   The Girl in the Spider's Web
 *   Dr. Seuss' The Grinch (2018)
 *   Fantastic Beasts: The Crimes of Grindelwald
 *   Creed II
 *   Robin Hood (2018)
 *   Ralph Breaks the Internet
+*   Spider-Man: Into the Spider-Verse
 *   Bumblebee
 *   Aquaman
 
