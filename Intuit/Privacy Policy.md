@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $49See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -90,18 +90,20 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
 
 Hot Sellers
 
-*   $2249after couponwas $40 Champion® Powerblend Fleece Pullover Hoodie(84)
-*   $1424after couponwas $26 Champion® Jersey Pants(264)
-*   $16 sale
-    
-    was $24 | 33% offSEPHORA COLLECTION Midnight Wishes Eyeshadow Palette(12)
-*   $2962after couponwas $79 Yuu Womens Bootie Zip(22)
-*   $1349after couponwas $42 Arizona Basic Original Bootcut Jeans(558)
 *   LIMITED TIME SPECIAL!
     
     $1799 sale
     
-    was $60 | 70% offSt. John's Bay® Regular-Fit Comfort Stretch Denim Jeans(60)
+    was $60 | 70% offUs Polo Assn. Quarter-Zip Pullover Big and Tall(1)
+*   $1799 sale
+    
+    was $25 | 28% offNike® Dri-FIT Short-Sleeve Tee - Big &. Tall(97)
+*   $561after couponwas $50 The Foundry Big &. Tall Supply Co.™ Quick-Dri® Polo(125)
+*   $2999 sale
+    
+    was $44 | 31% offLee® Regular-Fit Straight-Leg Jeans(1566)
+*   $1874after couponwas $60 Van Heusen Flex Quarter-Zip Sweater(36)
+*   from$24after couponwas $40 - $44 Stafford® 4-pk. Heavyweight Crewneck T-Shirts–Big &. Tall(605)
 
 Shop and Save at JCPenney
 
