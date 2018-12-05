@@ -29,7 +29,6 @@ Close submenu ( Girls ) Girls
 *   Destroyed Denim
 *   Cozy
 *   Online Only
-*   Aero One
 *   Matching Sets
 
 Close submenu ( Guys ) Guys
@@ -42,7 +41,6 @@ Close submenu ( Guys ) Guys
 *   Layer Up
 *   Active
 *   Online Only
-*   Aero One
 *   Matching Sets
 
 Close submenu ( Girls ) Girls
@@ -257,7 +255,6 @@ Close submenu ( Guys ) Guys
 *   $9.99 + Under
 *   Tops
 *   Bottoms
-*   Accessories
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -271,12 +268,12 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**UP TO 80% OFF CLEARANCE**  GIRLS GUYS **FREE SHIPPING OVER $50 + 50-70% OFF NEW ARRIVALS**
+Hurry! Clearance Sale Ends Soon! 353 Days 23 Hrs : Days 32 Mins : Days 40 Secs
 
 *   Select Country
 *   My Account My Account Login Register
 
-Menu Find a Store Aeropostale
+FREE SHIPPING OVER $50 + UP TO 80% OFF CLEARANCE Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -289,7 +286,6 @@ Menu Find a Store Aeropostale
         *   Destroyed Denim
         *   Cozy
         *   Online Only
-        *   Aero One
         *   Matching Sets
     
     *   Guys
@@ -301,7 +297,6 @@ Menu Find a Store Aeropostale
         *   Layer Up
         *   Active
         *   Online Only
-        *   Aero One
         *   Matching Sets
     
     Shop Girls Shop Guys
@@ -476,7 +471,6 @@ Menu Find a Store Aeropostale
         *   $9.99 + Under
         *   Tops
         *   Bottoms
-        *   Accessories
         
     
     *   Live Love Dream
