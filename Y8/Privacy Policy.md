@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1929 games
-*   Most Popular Games 18228 games
+*   Best of new games 1922 games
+*   Most Popular Games 18231 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,513 games
+*   Games for girls 23,515 games
 *   Driving &. Racing Games 6,722 games
-*   Strategy &. RPG Games 2,406 games
+*   Strategy &. RPG Games 2,405 games
 *   Management Games 3,632 games
-*   Thinking Games 11,879 games
-*   Action &. Adventure Games 15,861 games
-*   Sports Games 2,136 games
-*   Shooting Games 8,340 games
+*   Thinking Games 11,880 games
+*   Action &. Adventure Games 15,864 games
+*   Sports Games 2,137 games
+*   Shooting Games 8,344 games
 *   Fighting Games 2,090 games
-*   Skill Games 10,663 games
-*   Arcade &. Classic Games 12,656 games
+*   Skill Games 10,665 games
+*   Arcade &. Classic Games 12,660 games
 *   Fun &. Crazy Games 2,472 games
 
 Play with friends  
-Powered by Y8 Account 143 Y8 Multiplayer Games 1,776 Y8 High Score Games 1,081 Y8 Achievements Games 793 Y8 Screenshots Games 1,375 Y8 Online Save Games 2,808 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 144 Y8 Multiplayer Games 1,781 Y8 High Score Games 1,084 Y8 Achievements Games 793 Y8 Screenshots Games 1,377 Y8 Online Save Games 2,814 All Y8 Games Games Last Highscore:
 
-**203** points on Masked Forces by Hacker
+**3,316** points on Bartender Make Right Mix by munchie
 
 Help us improve Bad translation? Social
 
