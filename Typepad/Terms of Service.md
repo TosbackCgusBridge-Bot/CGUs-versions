@@ -204,8 +204,12 @@ NOTICE: We've updated our Terms of Service, as of October 17, 2018, to clarify e
 
 25.5 Regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Typepad Service, Typepad's Web properties through which the Typepad Service is available or this TOS must be filed within one (1) year after such claim or cause of action arose or be forever barred.
 
-25.6 The section titles in this TOS are for convenience only and have no legal or contractual effect. Click here for Domain Name Registration Agreement.
+25.6 The section titles in this TOS are for convenience only and have no legal or contractual effect.
 
-Last updated November 2, 2018.
+26\. DOMAIN REGISTRATION AGREEMENT
+
+26.1 Customers of TypePad wishing to register, transfer or renew a domain name must agree to the Domain Registration Agreement. Click here to view the Domain Name Registration Agreement.
+
+Last updated December 4, 2018.
 
 Copyright © 2018 Typepad, Inc. All rights reserved.
