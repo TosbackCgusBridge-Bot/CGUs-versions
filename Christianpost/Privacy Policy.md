@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Relentless Church
-*   Lauren Daigle
-*   Gentrification
-*   George H.W. Bush
-*   Missionary abduction
+*   Nativity
+*   Dear Lauren Daigle
+*   NewSpring
+*   Offering
+*   John MacArthur
 
 About Us
 
