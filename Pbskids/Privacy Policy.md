@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
 
-What parents should know about Common Core math. What parents should know about Common Core math. Learn more
+New racing tracks out on the desktop version of Kart Kingdom every Monday! New racing tracks out on the desktop version of Kart Kingdom every Monday! Go now
 
 Toggle message bar
 
