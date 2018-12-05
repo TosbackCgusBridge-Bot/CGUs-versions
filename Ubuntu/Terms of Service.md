@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical publishes auto-apply vulnerability patch for Kubernetes ›
+*   Ubuntu Server development summary – 04 December 2018 ›
+*   Design and Web team summary – 04 December 2018 ›
 *   Collaborative robots – Cobots and the changing nature of work ›
 *   GitKraken picks up community demand to adopt snaps ›
-*   Running Android in the Cloud with Amazon EC2 A1 instances ›
-*   Six reasons why developers choose Ubuntu Desktop ›
-*   Ubuntu available in new AWS Marketplace for Containers ›
