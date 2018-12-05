@@ -38,6 +38,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Activewear
     *   Pajamas &. Robes
     *   Shorts
+    *   Blazers
     *   Long Underwear
     
     SHOP BY SIZE RANGE
@@ -150,6 +151,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     Kids' Sale>Girls' Clothing>
     
     *   Girls' Coats &. Jackets
+    *   Girls' Fleece
     *   Girls' Shoes
     *   Girls' Pajamas &. Robes
     *   Girls' Pants &. Leggings
@@ -167,6 +169,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     Boys' Clothing>
     *   Boys' Coats &. Jackets
+    *   Boys' Fleece
     *   Boys' Shoes
     *   Boys' Pajamas &. Robes
     *   Boys' Pants
@@ -493,6 +496,7 @@ Lands' End Sign In menu
         *   Activewear
         *   Pajamas &. Robes
         *   Shorts
+        *   Blazers
         *   Long Underwear
     *   SHOP BY SIZE RANGE
         *   Back
@@ -615,6 +619,7 @@ Lands' End Sign In menu
         *   Back
         *   View All
         *   Girls' Coats &. Jackets
+        *   Girls' Fleece
         *   Girls' Shoes
         *   Girls' Pajamas &. Robes
         *   Girls' Pants &. Leggings
@@ -633,6 +638,7 @@ Lands' End Sign In menu
         *   Back
         *   View All
         *   Boys' Coats &. Jackets
+        *   Boys' Fleece
         *   Boys' Shoes
         *   Boys' Pajamas &. Robes
         *   Boys' Pants
@@ -983,9 +989,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles!
+Receive 50% off full-price styles. $11 women's turtlenecks and mocks!
 
-code: GRINCH pin: 8897 DETAILS
+code: SHINE pin: 3361 DETAILS
 
 Customer Service Menu
 
