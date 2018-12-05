@@ -316,9 +316,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Mary Poppins Returns' Gift with Purchase
+*   Golden Globes Awards Sweepstakes
     
-    Get a free song download of 'Trip a Little Light Fantastic’ with ticket purchase. BUY TICKETS
+    Enter for a chance to win a trip to Hollywood for the Ultimate Golden Globes Awards getaway! ENTER NOW
     
 *   'Aquaman' Gift with Purchase
     
