@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   4\. Dezember 2018
+*   5\. Dezember 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.465,46ǀ
+*   DAX 11.335,32ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -79,6 +79,7 @@ Anmelden
         *   Formel 1
         *   Formel-1-Liveticker
         *   Schach-WM 2018
+        *   Wintersport
     *   *   Sportwetten
 *   Kultur
     
@@ -151,7 +152,7 @@ Anmelden
         *   Deutschland
         *   Europa
         *   Fernweh
-        *   Skiatlas
+        *   Australien-Reisen
     
 *   Mobilität
     
