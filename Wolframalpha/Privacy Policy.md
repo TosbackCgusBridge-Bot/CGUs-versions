@@ -230,16 +230,8 @@ Revised October 29, 2018
 Legal
 
 *   Privacy Policies
-*   *   Wolfram Research
+*   *   Wolfram
     *   Wolfram|Alpha
-    *   Wolfram Cloud
-    *   Wolfram Demonstrations Project
-    *   Wolfram Mathematica
-    *   Wolfram Desktop
-    *   Wolfram SystemModeler
-    *   Wolfram Finance Platform
-    *   Wolfram CDF Player
-    *   WolframTones
     *   Data Retention
 
 *   Terms of Use
