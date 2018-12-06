@@ -116,7 +116,7 @@ This policy became effective on 2 May 2018.
 *   Terms of Service
 *   Investor Relations
 
-Copyright © 2004 - 2018 ASMALLWORLD AG Login × Login Remember me Forgot Login details? Login with Facebook Forgot Login Details? ×
+Copyright © 2004 - 2018 ASMALLWORLD AG Login × Login Forgot Login details? Login with Facebook Forgot Login Details? ×
 
 If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
 
