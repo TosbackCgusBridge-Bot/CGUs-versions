@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   5\. Dezember 2018
+*   6\. Dezember 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.335,32ǀ
+*   DAX 11.200,24ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -348,6 +348,7 @@ SPIEGEL GRUPPE
 *   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   Dein SPIEGEL
+*   SPIEGEL CHRONIK
 *   SPIEGEL EXPEDITION
 *   UNI SPIEGEL
 *   EDITION GESCHICHTE
@@ -357,7 +358,7 @@ SPIEGEL GRUPPE
 *   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   Dein SPIEGEL
-*   SPIEGEL EXPEDITION
+*   SPIEGEL CHRONIK
 
 12
 
