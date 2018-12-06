@@ -105,3 +105,5 @@ Get Involved
 Stay Connected Stay Connected
 
 ©2018 Oxygen Media LLC. A Division of NBCUniversal
+
+AddThis Sharing SidebarShare to PinterestPinterestShare to FacebookFacebookShare to EmailEmailShare to TwitterTwitterMore AddThis Share optionsAddThisHideShowCloseAddThisAddThis SharingPinterestFacebookEmailTwitterAddThisAddThis SharingPinterestFacebookEmailCopy Link
