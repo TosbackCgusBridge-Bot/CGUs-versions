@@ -171,9 +171,9 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   View All
 *   Destroyed Denim
 *   Low Rise Jegging
-*   High Rise Ankle Jegging
-*   High Rise Jegging
-*   Super High Rise Jegging
+*   High-Waisted Ankle Jegging
+*   High-Waisted Jegging
+*   Super High-Waisted Jegging
 *   Skinny
 *   Bootcut
 *   Cheeky
@@ -268,12 +268,12 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-Hurry! Clearance Sale Ends Soon! 353 Days 23 Hrs : Days 32 Mins : Days 40 Secs
+**50-70% OFF NEW ARRIVALS**  GIRLS GUYS **FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
 
-FREE SHIPPING OVER $50 + UP TO 80% OFF CLEARANCE Menu Find a Store Aeropostale
+Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -405,9 +405,9 @@ FREE SHIPPING OVER $50 + UP TO 80% OFF CLEARANCE Menu Find a Store Aeropostale
         *   View All
         *   Destroyed Denim
         *   Low Rise Jegging
-        *   High Rise Ankle Jegging
-        *   High Rise Jegging
-        *   Super High Rise Jegging
+        *   High-Waisted Ankle Jegging
+        *   High-Waisted Jegging
+        *   Super High-Waisted Jegging
         *   Skinny
         *   Bootcut
         *   Cheeky
@@ -492,15 +492,15 @@ FREE SHIPPING OVER $50 + UP TO 80% OFF CLEARANCE Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
+ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
 
 Previous*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
-*   Stocking Stuffers Starting at $3.00 Shop Girls Shop Guys
+*   Stocking Stuffers Starting at $4.00 Shop Girls Shop Guys
 *   Gifts Under $10 Starting at $3.00 Shop Girls Shop Guys
 *   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
-*   Stocking Stuffers Starting at $3.00 Shop Girls Shop Guys
+*   Stocking Stuffers Starting at $4.00 Shop Girls Shop Guys
 *   Gifts Under $10 Starting at $3.00 Shop Girls Shop Guys
 *   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
