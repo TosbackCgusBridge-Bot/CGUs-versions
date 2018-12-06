@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Minimum viable Kubernetes ›
 *   Canonical publishes auto-apply vulnerability patch for Kubernetes ›
 *   Ubuntu Server development summary – 04 December 2018 ›
 *   Design and Web team summary – 04 December 2018 ›
 *   Collaborative robots – Cobots and the changing nature of work ›
-*   GitKraken picks up community demand to adopt snaps ›
