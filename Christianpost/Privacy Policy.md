@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Nativity
-*   Dear Lauren Daigle
-*   NewSpring
+*   Cross
+*   Bush
+*   Christian response
+*   UMC bishop
 *   Offering
-*   John MacArthur
 
 About Us
 
