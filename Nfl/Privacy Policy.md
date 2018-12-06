@@ -1,19 +1,19 @@
-*   WAS6-613PHI6-628Final
-*   NO10-210DAL7-513Final
-*   BAL7-526ATL4-816Final
-*   DEN6-624CIN5-710Final
-*   LA11-130DET4-816Final
-*   ARI3-920GB4-7-117Final
-*   CLE4-7-113HOU9-329Final
-*   IND6-60JAX4-86Final
-*   BUF4-817MIA6-621Final
-*   CHI8-427NYG4-830Final (OT)
-*   CAR6-617TB5-724Final
-*   KC10-240OAK2-1033Final
-*   NYJ3-922TEN6-626Final
-*   MIN6-5-110NE9-324Final
-*   SF2-1016SEA7-543Final
-*   LAC9-333PIT7-4-130Final
+*   JAX4-8TEN6-6Thu, 8:20 pm ET
+*   NYJ3-9BUF4-8Sun, 1:00 pm ET
+*   CAR6-6CLE4-7-1Sun, 1:00 pm ET
+*   ATL4-8GB4-7-1Sun, 1:00 pm ET
+*   IND6-6HOU9-3Sun, 1:00 pm ET
+*   BAL7-5KC10-2Sun, 1:00 pm ET
+*   NE9-3MIA6-6Sun, 1:00 pm ET
+*   NO10-2TB5-7Sun, 1:00 pm ET
+*   NYG4-8WAS6-6Sun, 1:00 pm ET
+*   CIN5-7LAC9-3Sun, 4:05 pm ET
+*   DEN6-6SF2-10Sun, 4:05 pm ET
+*   DET4-8ARI3-9Sun, 4:25 pm ET
+*   PHI6-6DAL7-5Sun, 4:25 pm ET
+*   PIT7-4-1OAK2-10Sun, 4:25 pm ET
+*   LA11-1CHI8-4Sun, 8:20 pm ET
+*   MIN6-5-1SEA7-5Mon, 8:15 pm ET
 
 *   News
 *   Scores
@@ -32,22 +32,22 @@
 *   NFL Network
 *   Photos
 
-*   WAS13PHI28Final
-*   NO10DAL13Final
-*   BAL26ATL16Final
-*   DEN24CIN10Final
-*   LA30DET16Final
-*   ARI20GB17Final
-*   CLE13HOU29Final
-*   IND0JAX6Final
-*   BUF17MIA21Final
-*   CHI27NYG30Final (OT)
-*   CAR17TB24Final
-*   KC40OAK33Final
-*   NYJ22TEN26Final
-*   MIN10NE24Final
-*   SF16SEA43Final
-*   LAC33PIT30Final
+*   JAX4-8TEN6-6Thu, 8:20 pm ET
+*   NYJ3-9BUF4-8Sun, 1:00 pm ET
+*   CAR6-6CLE4-7-1Sun, 1:00 pm ET
+*   ATL4-8GB4-7-1Sun, 1:00 pm ET
+*   IND6-6HOU9-3Sun, 1:00 pm ET
+*   BAL7-5KC10-2Sun, 1:00 pm ET
+*   NE9-3MIA6-6Sun, 1:00 pm ET
+*   NO10-2TB5-7Sun, 1:00 pm ET
+*   NYG4-8WAS6-6Sun, 1:00 pm ET
+*   CIN5-7LAC9-3Sun, 4:05 pm ET
+*   DEN6-6SF2-10Sun, 4:05 pm ET
+*   DET4-8ARI3-9Sun, 4:25 pm ET
+*   PHI6-6DAL7-5Sun, 4:25 pm ET
+*   PIT7-4-1OAK2-10Sun, 4:25 pm ET
+*   LA11-1CHI8-4Sun, 8:20 pm ET
+*   MIN6-5-1SEA7-5Mon, 8:15 pm ET
 
 *   News
 *   Scores
@@ -57,7 +57,7 @@
 *   Playoff Picture
 
 *   Scores
-*   SHOP
+*   Highlights
 
 *   *   Game Pass
     *   Stats
