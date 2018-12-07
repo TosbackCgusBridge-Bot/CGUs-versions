@@ -64,9 +64,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 51%  51%  51%  2% 
+What is PeekScore? Public Records &. Background Checks 49%  49%  49%  2% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -153,7 +153,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 51%  Twitter 2% 
+Facebook 49%  Twitter 2% 
 
 *   U.S. FDA - FDArecalls
     
@@ -317,7 +317,7 @@ Google+ 2% 
     
 *   Show Less ...
 
-Pinterest 51%  Wikipedia 2% 
+Pinterest 49%  Wikipedia 2% 
 
 *   Privacy policy
     
@@ -393,7 +393,7 @@ Photo Albums 2% 
     Upload, access, organize, edit, and share your photos from any device, from anywhere in the world. • Put your free 1000GB to work - auto-upload all your photos and videos to your Flickr camera roll.
     
 
-Web Search 51%  Images 2% 
+Web Search 49%  Images 2% 
 
 20
 
