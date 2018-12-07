@@ -18,18 +18,70 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackUP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF MEN'S WORKOUT CLOTHESShop All
+Near YouFind a StoreBackBUY 1 GET 2 FREE TOWELSShop AllBUY 1 GET 2 FREE TOWELSShop All
+
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    from$16
+    
+    Liz Claiborne Luxury Egyptian Cotton Bath Towel(902)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    from$12
+    
+    Liz Claiborne Signature Plush Bath Towel Collection(58)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    from$10
+    
+    JCPenney Home™ Quick Dri Textured Solid Bath Towels(942)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    from$10
+    
+    JCPenney Home Performance Bath Towel Collection(39)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $76
+    
+    JCPenney Home Performance 6-Pc Bath Towel Set 6-pc. Bath Towel Set(6)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $72
+    
+    JCPenney Home™ Quick Dri Textured Solid 6-pc Bath Towel Set(84)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    from$6
+    
+    Home Expressions™ Ombre Stripe Bath Towels(501)Add To Cart
+
+UP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF MEN'S WORKOUT CLOTHESShop All
 
 *   LIMITED TIME SPECIAL!
     
     $1199 sale
     
-    was $32 Xersion Mens Drawstring Waist Basketball Short(23)Add To Cart
+    was $32 Xersion Mens Drawstring Waist Basketball Short(24)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1199 sale
     
-    was $30 Xersion Long Sleeve Fleece Hoodie(6)Add To Cart
+    was $30 Xersion Long Sleeve Fleece Hoodie(11)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1599 sale
@@ -49,7 +101,7 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF
     
     $1599 sale
     
-    was $32 Xersion Mens Drawstring Waist Basketball Short(11)Add To Cart
+    was $32 Xersion Mens Drawstring Waist Basketball Short(12)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $699 sale
@@ -65,12 +117,12 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
     
     $1320 sale
     
-    was $44 Xersion Tunic Top(5)Add To Cart
+    was $44 Xersion Tunic Top(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1110 sale
     
-    was $37 Xersion Side Lace Up Sweatshirt(5)Add To Cart
+    was $37 Xersion Side Lace Up Sweatshirt(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1110 sale
@@ -86,22 +138,18 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
     was $44 Xersion Cozy Knit Jogger Pants(4)Add To Cart
 *   from$1320 sale
     
-    was $37 - $44 Love Now Wear Now Shine(18)
+    was $37 - $44 Love Now Wear Now Shine(21)
 
 Hot Sellers
 
-*   $1599after couponwas $40 The Foundry Big &. Tall Supply Co. Long Sleeve Thermal Top Big and Tall(7)
-*   $4999 sale
+*   $1874after couponwas $80 North Pole Trading Co Ultra Faux Mink Reverse to Faux Sherpa Throw(12)
+*   $1999after couponwas $50 The Foundry Big &. Tall Supply Co. Long Sleeve Plaid Button-Front Shirt-Big and Tall(6)
+*   $3999 sale
     
-    was $69.50 | 28% offLevi's® 550™ Relaxed Fit Jeans-Big &. Tall(1143)
-*   from$2560after couponwas $40 - $44 Stafford® 4-pk. Heavyweight Crewneck T-Shirts–Big &. Tall(606)
-*   LIMITED TIME SPECIAL!
-    
-    $25 sale
-    
-    was $124.98 | 79% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Stud Earrings in Sterling Silver(39)
-*   $1759after couponwas $44 Xersion Puffer Vest(13)
-*   $1599after couponwas $40 The Foundry Big &. Tall Supply Co. Long Sleeve Henley Shirt-Big and Tall(7)
+    was $59.50 | 32% offLevi's® 501® Original Fit Jeans(721)
+*   $1279after couponwas $40 RoadTrip 12-Volt Digital Heated Travel Mug
+*   $1599after couponwas $80 Arizona Womens Molara Cowboy Boots Block Heel Pull-on(14)
+*   from$1439after couponwas $39 - $44 Xersion Fleece Jogger Pants Boys 4-20(6)
 
 Shop and Save at JCPenney
 
