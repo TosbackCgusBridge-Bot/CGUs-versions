@@ -121,5 +121,4 @@ Search on the Go
 
 © 2018 CareerBuilder, LLC. All rights reserved.
 
-Close Finding a job is hard work.  
-Hiring the right person is hard work. Let us make it easier. Our advanced "hello to hire" HR technology is intuitive, efficient, and accurate - all powered by machine learning and AI. Your hard work is about to pay off. Search for a Job Find Talent <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=651028534974288&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=260078531510682&amp;ev=PageView&amp;noscript=1">.
+Close WORK CAN WORK™ Technology That Works For You No matter which side of the interview desk you're on, CareerBuilder's Hello to Hire™ technology is here to help at every stage. No matter which side of the interview desk you're on, CareerBuilder is here to help at every stage. Search for Talent Find a Job <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=651028534974288&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=260078531510682&amp;ev=PageView&amp;noscript=1">.
