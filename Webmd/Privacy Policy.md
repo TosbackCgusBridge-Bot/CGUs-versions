@@ -1,4 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -107,11 +107,11 @@ Want to live your best life? Get the WebMD Daily newsletter for health tips, wel
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Herd Immunity: What It is, How It Protects Us
+    *   Too Much Sleep May Bring Heart Disease, Death Risk
+    *   Rapid Test for Cancer Developed by Researchers
+    *   Adenovirus Kills 12 in 2 States -- What Is It?
+    *   Study Says Autism Rates Higher Than Once Thought
     *   Why So Many Blood Pressure Drug Recalls?
-    *   Polio-Like Illness Often Misdiagnosed
-    *   Flu Medications: What's New and What's Best for You
-    *   Melatonin: Is It Safe?
     
     Experts &. Community
     
