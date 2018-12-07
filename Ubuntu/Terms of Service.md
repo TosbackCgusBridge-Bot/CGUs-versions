@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   Minimum viable Kubernetes ›
-*   Canonical publishes auto-apply vulnerability patch for Kubernetes ›
-*   Ubuntu Server development summary – 04 December 2018 ›
-*   Design and Web team summary – 04 December 2018 ›
-*   Collaborative robots – Cobots and the changing nature of work ›
+*   How to harness big data for maximum business value ›
+*   Canonical and Dell EMC provide certified, production-ready Kubernetes solution ›
+*   Canonical launches MicroK8s – deploy Kubernetes in seconds ›
+*   Canonical widens Kubernetes support with kubeadm ›
+*   Canonical and Supermicro collaborate to advance enterprises’ Kubernetes adoption ›
