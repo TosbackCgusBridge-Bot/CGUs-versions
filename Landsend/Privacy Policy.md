@@ -390,6 +390,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     FURNITURE >
     
     *   Outdoor Furniture
+    *   Kitchen &. Dining Furniture
     
     KIDS ROOM >
     
@@ -872,6 +873,7 @@ Lands' End Sign In menu
         *   Back
         *   View All
         *   Outdoor Furniture
+        *   Kitchen &. Dining Furniture
     *   KIDS ROOM
         *   Back
         *   View All
@@ -983,9 +985,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles. $12 women's and men's t-shirts!
+Receive 50% off full-price styles. $11 Supima bath towels!
 
-code: FAMILY pin: 6225 DETAILS
+code: CHILLY pin: 2345 DETAILS
 
 Customer Service Menu
 
