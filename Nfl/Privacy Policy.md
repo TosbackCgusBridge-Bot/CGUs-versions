@@ -1,4 +1,4 @@
-*   JAX4-8TEN6-6Thu, 8:20 pm ET
+*   JAX4-99TEN7-630Final
 *   NYJ3-9BUF4-8Sun, 1:00 pm ET
 *   CAR6-6CLE4-7-1Sun, 1:00 pm ET
 *   ATL4-8GB4-7-1Sun, 1:00 pm ET
@@ -32,7 +32,7 @@
 *   NFL Network
 *   Photos
 
-*   JAX4-8TEN6-6Thu, 8:20 pm ET
+*   JAX9TEN30Final
 *   NYJ3-9BUF4-8Sun, 1:00 pm ET
 *   CAR6-6CLE4-7-1Sun, 1:00 pm ET
 *   ATL4-8GB4-7-1Sun, 1:00 pm ET
