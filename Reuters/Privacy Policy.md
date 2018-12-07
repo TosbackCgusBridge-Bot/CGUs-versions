@@ -19,7 +19,7 @@ Thomson Reuters Legal
     
     Featured
     
-    **Thomson Reuters Westlaw Edge** Introducing the most intelligent legal research service ever. Learn more
+    **Westlaw Edge** Introducing the most intelligent legal research service ever. Learn more
 *   SolutionsSolutions Solutions
     
     *   Streamline legal research
@@ -32,7 +32,7 @@ Thomson Reuters Legal
     
     Featured
     
-    **Artificial Intelligence** See how legal AI can help you work faster and strengthen your practice. Learn more
+    **Practical Law Guided Tour** Explore the features that make our legal resources the ideal starting point for any legal task. Learn more
 *   InsightsInsights Insights
     
     *   Latest stories
