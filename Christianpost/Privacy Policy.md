@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Cross
+*   Michael W. Smith
+*   Christmas ban
 *   Bush
-*   Christian response
-*   UMC bishop
-*   Offering
+*   Cross
+*   John MacArthur
 
 About Us
 
