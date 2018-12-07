@@ -13,7 +13,7 @@ Create a wiki
 
 **WIKIA PRIVACY POLICY**
 
-Date of Last Revision: May 22, 2018. Please check back regularly to keep informed of updates to this policy.
+Date of Last Revision: December 6, 2018. Please check back regularly to keep informed of updates to this policy.
 
 This privacy policy outlines the personal information about you that Wikia, Inc. (“**Wikia**”, “**FANDOM**”, "**we**", "**us**", "**our**") collects, uses and stores via our sites at fandom.com, wikia.com and wikia.org (including all subdomains) and our mobile apps under the FANDOM or Wikia brands (collectively, our "**Website**").
 
@@ -50,7 +50,7 @@ Further details of how we do so are set out in each section of our privacy polic
 
 **Who we are**
 
-Wikia, Inc. is a company registered in the State of Delaware, U.S.A. (corporate number C2935209), whose registered office is at 360 3rd Street, Suite 750, San Francisco, CA 94107 and we are the data controller of the personal information that we collect from you as described in this privacy policy.
+Wikia, Inc. is a company registered in the State of Delaware, U.S.A. (corporate number C2935209), whose registered office is at 149 New Montgomery St, 3rd Floor, San Francisco CA 94105 and we are the data controller of the personal information that we collect from you as described in this privacy policy.
 
 We respect your right to privacy and will only process personal information you provide to us in accordance with applicable data protection laws.
 
@@ -197,12 +197,12 @@ We will also transfer the personal information that we collect about you to thir
 
 **Complaints, Questions and Comments**
 
-We have a Data Protection Officer to assist with all queries regarding our processing of personal information. Wade Warren who can be contacted at c/o Wikia, Inc., 360 Third Street, Suite 750, San Francisco, CA 94107. Email: DPO@fandom.com. Phone: (415) 980-5647
+We have a Data Protection Officer to assist with all queries regarding our processing of personal information. Wade Warren who can be contacted at c/o Wikia, Inc., 149 New Montgomery St, 3rd Floor, San Francisco CA 94105. Email: DPO@fandom.com. Phone: (415) 980-5647
 
 If you have any complaints about our Website, please contact us at:
 
-Address: 360 Third Street, Suite 750, San Francisco, CA 94107 Email: support@fandom.com Telephone: (415) 762-0780
+Address: 149 New Montgomery St, 3rd Floor, San Francisco CA 94105 Email: support@fandom.com Telephone: (415) 762-0780
 
 In the EEA you may also make a complaint to our supervisory body for data protection matters (for example, the Information Commissioner's Office in the UK) or seek a remedy through local courts if you believe your rights have been breached.
 
-<link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/\_\_cb7790017790012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />Reset your tracking preferences on wikia.com
+<link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/\_\_cb7800017800012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" />Reset your tracking preferences on wikia.com
