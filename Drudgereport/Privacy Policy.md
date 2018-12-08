@@ -166,7 +166,7 @@ LATEST ON TWITTER
 
 The Powerhouses of the Internet Are Turning Hostile to Websites | SparkToro sparktoro.com/blog/t…
 
-About 2 months ago
+About 3 months ago
 
 This just in from the blog: Justin Hansen Honored For Q2 Publisher Success! INTERMARKETS + @STAQ intermarkets.net/201…
 
