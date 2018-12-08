@@ -26,21 +26,21 @@ Near YouFind a StoreBackBUY 1 GET 2 FREE TOWELSShop AllBUY 1 GET 2 FREE TOWELSSh
     
     from$16
     
-    Liz Claiborne Luxury Egyptian Cotton Bath Towel(902)Add To Cart
+    Liz Claiborne Luxury Egyptian Cotton Bath Towel(904)Add To Cart
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
     from$12
     
-    Liz Claiborne Signature Plush Bath Towel Collection(58)Add To Cart
+    Liz Claiborne Signature Plush Bath Towel Collection(61)Add To Cart
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
     from$10
     
-    JCPenney Home™ Quick Dri Textured Solid Bath Towels(942)Add To Cart
+    JCPenney Home™ Quick Dri Textured Solid Bath Towels(954)Add To Cart
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
@@ -72,16 +72,12 @@ Near YouFind a StoreBackBUY 1 GET 2 FREE TOWELSShop AllBUY 1 GET 2 FREE TOWELSSh
 
 UP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF MEN'S WORKOUT CLOTHESShop All
 
-*   LIMITED TIME SPECIAL!
+*   DOORBUSTER!
     
-    $1199 sale
+    $799after couponwas $32 Xersion Mens Drawstring Waist Basketball Short(24)Add To Cart
+*   DOORBUSTER!
     
-    was $32 Xersion Mens Drawstring Waist Basketball Short(24)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1199 sale
-    
-    was $30 Xersion Long Sleeve Fleece Hoodie(11)Add To Cart
+    $799after couponwas $30 Xersion Long Sleeve Fleece Hoodie(12)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1599 sale
@@ -92,11 +88,9 @@ UP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF MEN'S WORKOUT CLOTHESSh
     $1799 sale
     
     was $60 Us Polo Assn. Long Sleeve Sweatshirt Big and Tall(1)Add To Cart
-*   LIMITED TIME SPECIAL!
+*   DOORBUSTER!
     
-    $1999 sale
-    
-    was $40 Xersion Puffer Vest(5)Add To Cart
+    $1199after couponwas $40 Xersion Puffer Vest(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1599 sale
@@ -112,7 +106,7 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
 
 *   from$1110 sale
     
-    was $37 Xersion Cotton Cutout Leggings(5)Add To Cart
+    was $37 Xersion Cotton Cutout Leggings(6)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1320 sale
@@ -142,14 +136,16 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
 
 Hot Sellers
 
-*   $1874after couponwas $80 North Pole Trading Co Ultra Faux Mink Reverse to Faux Sherpa Throw(12)
-*   $1999after couponwas $50 The Foundry Big &. Tall Supply Co. Long Sleeve Plaid Button-Front Shirt-Big and Tall(6)
-*   $3999 sale
+*   LIMITED TIME SPECIAL!
     
-    was $59.50 | 32% offLevi's® 501® Original Fit Jeans(721)
-*   $1279after couponwas $40 RoadTrip 12-Volt Digital Heated Travel Mug
-*   $1599after couponwas $80 Arizona Womens Molara Cowboy Boots Block Heel Pull-on(14)
-*   from$1439after couponwas $39 - $44 Xersion Fleece Jogger Pants Boys 4-20(6)
+    $1799 sale
+    
+    was $60 | 70% offLiz Claiborne Womens Selma Ballet Flats(26)
+*   $1519after couponwas $26 Champion® Jersey Pants(264)
+*   $3199after couponwas $110 Liz Claiborne Womens Trevi Riding Block Heel Zip Boots(6)
+*   $1599after couponwas $60 Arizona Garber Ankle Booties(180)
+*   $2399after couponwas $50 The Foundry Big &. Tall Supply Co.™ Flex Denim Jeans(124)
+*   $1599after couponwas $60 Arizona Womens Lilly Wedge Heel Lace-up Bootie(49)
 
 Shop and Save at JCPenney
 
