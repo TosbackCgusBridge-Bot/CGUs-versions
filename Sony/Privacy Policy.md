@@ -143,7 +143,7 @@ Now Playing
 
 The polls are officially open for November's Players' Choice awards. Vote now:  https://play.st/2Su0RZz  What was your favorite new game? pic.twitter.com/RmFYAFrtlc
 
-3 days ago
+4 days ago
 
 View Tweet
 
