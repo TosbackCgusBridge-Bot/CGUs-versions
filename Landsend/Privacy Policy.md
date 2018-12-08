@@ -985,9 +985,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles. $11 Supima bath towels!
+Receive 50% off full-price styles!
 
-code: CHILLY pin: 2345 DETAILS
+code: FIRE pin: 2246 DETAILS
 
 Customer Service Menu
 
