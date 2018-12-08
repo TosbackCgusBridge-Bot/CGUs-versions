@@ -272,12 +272,12 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**UP TO 80% OFF CLEARANCE  ** GIRLS GUYS **60-70% OFF + FREE SHIP ON ORDERS OVER $50**
+**Buy a $50 Gift Card get a FREE $10 Cash Card! SHOP NOW**
 
 *   Select Country
 *   My Account My Account Login Register
 
-Menu Find a Store Aeropostale
+FREE SHIPPING ON ORDERS OVER $50 + 60-70% OFF Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -530,7 +530,8 @@ Text JOIN to 237687. Terms &. Conditions Details FOLLOW US Customer Care
 
 Gift Cards
 
-*   eGift Cards
+*   Mail Gift Card
+*   Email Gift Card
 *   Lost/Stolen Gift Cards
 *   Check Gift Card Balance
 
