@@ -71,11 +71,12 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   First 'Artemis Fowl' Teaser Will Make You Believe. Here's Everything We Know Read More
     *   Next 3 Major Awards Contenders: 'Mary Queen of Scots,' 'If Beale Street Could Talk,' 'Vice' Read More
-    *   The Week in Movie News: Holiday Movie Guide, First Look at 'Artemis Fowl' and More Read More
+    *   First 'Avengers: Endgame' Trailer Arrives as Release Date Moves Up. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
     *   Holiday Movie Guide
+    *   Awards Watch
     *   Indie Movie Guide
     *   Family Guide
     *   House Of Screams
@@ -356,6 +357,7 @@ Experience + Explore
 Editorial Features
 
 *   Holiday Movie Guide
+*   Awards Watch
 *   Indie Movie Guide
 *   Family Guide
 *   House Of Screams
