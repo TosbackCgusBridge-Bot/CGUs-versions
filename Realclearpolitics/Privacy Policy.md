@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -109,53 +107,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Edward-Isaac Dovere_: Is Biden Running? He Just Can't Decide
+*   _Rich Lowry_: Yes, Voter Fraud Is Real
     
-*   _Ed Morrissey_: Dems' 2020 Field Overrun by Washington Insiders
+*   _Gluck &. Turret_: The Ticking Time Bomb Under Obamacare
     
-*   _Elizabeth Bruenig_: Why This Progressive Texan Can't Get Excited About Beto
+*   _Tom Rogan_: Huawei Arrest Is a Gloriously Stinging Rebuke to Xi Jinping
     
-*   _David Catron_: Democrats Are Just Too Darned Smart
+*   _Jane Timm_: No, 'Tariff Man,' China Doesn't Foot the Bill--Americans Do
     
-*   _Brian Dickerson_: Evicted MI GOP Want to Vandalize the Executive Branch
+*   _Emily Jashinsky_: The Insatiable Wokeness Police Take Out Kevin Hart
     
-*   _Bret Stephens_: France's Combustible Climate Politics
+*   _Michael Schulman_: Why Kevin Hart Had to Go as Oscars Host
     
-*   _Jan Krikke_: Why India Will Supersede China - Part 1
+*   _Eddie Scarry_: Are Liberals Prepared for No Collusion?
     
-*   _Tom Phillips_: 'A Slow-Motion Catastrophe': Venezuela 20 Yrs After Chavez
+*   _John Brennan_: Trump Is Increasingly Desperate, Sees Walls Closing In
     
-*   _Roger Kimball_: The Modern Day Blood Sport of Robert Mueller
+*   _Chris Cillizza_: Warren's DNA Debacle Is as Bad as You Thought It Was
     
-*   _Shira Ovide_: Zuckerberg More Ruthless Than Clueless
+*   _John Stossel_: Google and Facebook Cross 'The Creepy Line'
     
-*   _George P. Bush_: A Tribute to the Man I Called Gampy
+*   _Kara Swisher_: Can U.S. Stop China From Controlling Next Internet Age?
     
-*   _Conrad Black_: West Needs to Rediscover Talent for Self-Govt
+*   _Annie Lowrey_: Does Trump Even Understand How Tariffs Work?
     
-*   _Emily Schultheis_: Is It Time to Bury Merkel's Legacy?
+*   _Marc Thiessen_: China Tried to Strike at Trump--and Missed the Mark
     
-*   _Pankaj Mishra_: Macron Fans the Flames of Illiberalism
+*   _Ash Carter_: How a Divided Congress Could Unite Around Tech
     
-*   _Steve Cortes_: 3 Ways to Continue the Trump Economic Boom
+*   _Adriana Cohen_: Silicon Valley Morphing Into the Morality Police
     
-*   _Alex Lo_: The Long (and Political) Arm of U.S. Law Reaches for China
+*   _Brad Bannon_: Nancy Pelosi's Incredible Comeback
     
-*   _Roger L. Simon_: Trump Bets His Second Term on Trade Deal With China
+*   _Brendan O'Neill_: France Revolts Against the Tyranny of Environmentalism
     
-*   _John Harris_: Bush's Funeral Wasn't About Trump. But Of Course It Was.
+*   _Sen. Chuck Schumer_: No Infrastructure Deal Without Addressing Climate Change
     
-*   _Daniel Henninger_: Trump Didn't Kill Bush Values
+*   _Bill Whalen_: Bush Was George Bailey: It Was a Wonderful Life
     
-*   _Frida Ghitis_: America Is Paying an Awful Price for Trump
+*   _Byron York_: 10 Questions for James Comey
     
-*   _John Solomon_: Most Damning Evidence Yet of FISA Abuse by the FBI
+*   _Josh Campbell_: Mr. President, If You're Attacking the FBI, You're Losing
     
-*   _Monica Crowley_: How Trump Can Beat the Deep State Coup
+*   _Kimberley Strassel_: Mueller's Gift to Obama
     
-*   _Gabriel Sherman_: Is Trump Thinking of Jettisoning Pence?
+*   _Dana Milbank_: The Republicans' Post-Midterm Strategy: Thievery
     
-*   _John Podhoretz_: Dems' Huge 2020 Pack a Recipe for Chaos
+*   _Noah Rothman_: The Wisconsin 'Coup' That Wasn't
     
 
 *   Previous
@@ -226,11 +224,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Bush Final Farewell Takes On Personal, Distinctly Texas Feel
+*   Trump Will Nominate William Barr as Attorney General
+*   State Spokeswoman Heather Nauert Nominated for UN Ambassador
+*   Pelosi Says Dems Won't Fund Trump's "Immoral" Border Wall
 *   Republicans Sound Alarm After Women Candidates' Losses
-*   Former President George W. Bush Eulogizes His Father at State Funeral
-*   France Suspends Fuel Tax Hike That Spurred Protests
-*   After CIA Briefing, Senators Lay Blame on Saudi Crown Prince
+*   Book of the Week: "The Idol of Our Age" by Daniel Mahoney
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +241,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalNPR/PBS/Marist
+    *   Approve43
+    *   Disapprove49Disapprove +6
+*   Direction of CountryNPR/PBS/Marist
+    *   Right Direction35
+    *   Wrong Track56Wrong Track +21
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve46
     *   Disapprove52Disapprove +6
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve41
     *   Disapprove52Disapprove +11
-*   Congressional Job ApprovalReuters/Ipsos
-    *   Approve26
-    *   Disapprove61Disapprove +35
-*   Congressional Job ApprovalEconomist/YouGov
-    *   Approve13
-    *   Disapprove68Disapprove +55
 
 More Latest Polls In The News
 
-*   Tucker Carlson: Ruling Class Consider Themselves Gods, They Render Their Own Judgment
-*   Maureen Dowd: Bush Was Decent, Civil While Trump Is An "Endless Odyssey Of Narcissistic Self-Discovery"
+*   Rep. Gaetz: Trump Should Pardon Manafort, Commute Flynn's Sentence. Prosecuted For Politics, Not Crimes
+*   Brennan: Trump Is "Increasingly Desperate" About Mueller Probe, Sees "Walls Closing In On Him"
+*   Heather Mac Donald: Feminist Ambition Is To Take Over Civilization, "They're Trying To Disappear Males"
 *   Sen. Hirono: Democrats Have a Hard Time "Connecting" With People Because Of "How Smart We Are"
-*   Spielberg: More Important To Release Schindler's List Now Than 1993. Genocide Is What Follows "Collective Hate"
-*   Former President George W. Bush Eulogizes His Father At George H.W. Bush State Funeral
+*   Maureen Dowd: Bush Was Decent, Civil While Trump Is An "Endless Odyssey Of Narcissistic Self-Discovery"
 
 *   Politics
 *   Policy
