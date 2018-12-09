@@ -409,6 +409,8 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   GiftsHOME SALE >
 *   Gifts FEATURED SHOPS
     
+    *   Christmas Candy &. Treats
+    *   Stocking Stuffers
     *   Matching Family Pajamas
     *   Personalized Christmas Stockings
     *   Christmas Sweaters
@@ -897,6 +899,8 @@ Lands' End Sign In menu
     *   Shop all Gifts
     *   FEATURED SHOPS
         *   Back
+        *   Christmas Candy &. Treats
+        *   Stocking Stuffers
         *   Matching Family Pajamas
         *   Personalized Christmas Stockings
         *   Christmas Sweaters
@@ -1010,7 +1014,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Policy Last Updated: May 21, 2018
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
