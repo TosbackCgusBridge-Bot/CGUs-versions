@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Apostles' Creed
-*   Gender pronouns
-*   Radio host
-*   Rehab
-*   Michael W. Smith
+*   Ark Encounter
+*   Lauren Daigle
+*   Salvation Army
+*   Transgender ideology
+*   Virgin Mary
 
 About Us
 
