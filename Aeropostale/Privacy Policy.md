@@ -272,7 +272,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**Buy a $50 Gift Card get a FREE $10 Cash Card! SHOP NOW**
+**UP TO 80% OFF CLEARANCE  ** GIRLS GUYS **60-70% OFF + FREE SHIP ON ORDERS OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
