@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $49See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -18,66 +18,18 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackBUY 1 GET 2 FREE TOWELSShop AllBUY 1 GET 2 FREE TOWELSShop All
+Near YouFind a StoreBackUP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF MEN'S WORKOUT CLOTHESShop All
 
-*   BUY 1 GET 2 FOR FREE
+*   LIMITED TIME SPECIAL!
     
-    LIMITED TIME SPECIAL!
+    $1199 sale
     
-    from$16
+    was $32 Xersion Mens Drawstring Waist Basketball Short(24)Add To Cart
+*   LIMITED TIME SPECIAL!
     
-    Liz Claiborne Luxury Egyptian Cotton Bath Towel(904)Add To Cart
-*   BUY 1 GET 2 FOR FREE
+    $1199 sale
     
-    LIMITED TIME SPECIAL!
-    
-    from$12
-    
-    Liz Claiborne Signature Plush Bath Towel Collection(61)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    from$10
-    
-    JCPenney Home™ Quick Dri Textured Solid Bath Towels(954)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    from$10
-    
-    JCPenney Home Performance Bath Towel Collection(39)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $76
-    
-    JCPenney Home Performance 6-Pc Bath Towel Set 6-pc. Bath Towel Set(6)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $72
-    
-    JCPenney Home™ Quick Dri Textured Solid 6-pc Bath Towel Set(84)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    from$6
-    
-    Home Expressions™ Ombre Stripe Bath Towels(501)Add To Cart
-
-UP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF MEN'S WORKOUT CLOTHESShop All
-
-*   DOORBUSTER!
-    
-    $799after couponwas $32 Xersion Mens Drawstring Waist Basketball Short(24)Add To Cart
-*   DOORBUSTER!
-    
-    $799after couponwas $30 Xersion Long Sleeve Fleece Hoodie(12)Add To Cart
+    was $30 Xersion Long Sleeve Fleece Hoodie(12)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1599 sale
@@ -88,9 +40,11 @@ UP TO 70% OFF MEN'S WORKOUT CLOTHESShop AllUP TO 70% OFF MEN'S WORKOUT CLOTHESSh
     $1799 sale
     
     was $60 Us Polo Assn. Long Sleeve Sweatshirt Big and Tall(1)Add To Cart
-*   DOORBUSTER!
+*   LIMITED TIME SPECIAL!
     
-    $1199after couponwas $40 Xersion Puffer Vest(5)Add To Cart
+    $1999 sale
+    
+    was $40 Xersion Puffer Vest(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1599 sale
@@ -136,16 +90,12 @@ UP TO 70% OFF WOMEN'S ACTIVEWEARShop AllUP TO 70% OFF WOMEN'S ACTIVEWEARShop All
 
 Hot Sellers
 
-*   LIMITED TIME SPECIAL!
-    
-    $1799 sale
-    
-    was $60 | 70% offLiz Claiborne Womens Selma Ballet Flats(26)
-*   $1519after couponwas $26 Champion® Jersey Pants(264)
-*   $3199after couponwas $110 Liz Claiborne Womens Trevi Riding Block Heel Zip Boots(6)
-*   $1599after couponwas $60 Arizona Garber Ankle Booties(180)
-*   $2399after couponwas $50 The Foundry Big &. Tall Supply Co.™ Flex Denim Jeans(124)
-*   $1599after couponwas $60 Arizona Womens Lilly Wedge Heel Lace-up Bootie(49)
+*   $1759after couponwas $44 Stafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt(129)
+*   $1599after couponwas $60 Arizona Womens Murano Cowboy Boots Block Heel Slip-on(7)
+*   $1792after couponwas $28 Stafford® 6-pk. Cotton Full-Cut Briefs(806)
+*   $1599after couponwas $60 Arizona Womens Jones Combat Block Heel Zip Boots(35)
+*   $1599after couponwas $50 Stafford Flannel Pajama Set(6)
+*   $3199after couponwas $70 Pop Womens Ricardo Lace Up Boots Block Heel Zip(9)
 
 Shop and Save at JCPenney
 
