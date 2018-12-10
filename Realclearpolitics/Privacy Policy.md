@@ -109,6 +109,12 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Peter Navarro_: Why Economic Security Is National Security
+    
+*   _David Ignatius_: Information War Led to Khashoggi's Murder
+    
+*   _Pat Buchanan_: Who Lost the World Bush 41 Left Behind?
+    
 *   _Hans von Spakovsky_: New Court Filings, But Still No Russian Collusion
     
 *   _Adam Davidson_: The Cohen Sentencing Memos Are Damning for Trump
@@ -150,12 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Tom Rogan_: Huawei Arrest Is a Gloriously Stinging Rebuke to Xi Jinping
     
 *   _Jane Timm_: No, 'Tariff Man,' China Doesn't Foot the Bill--Americans Do
-    
-*   _Emily Jashinsky_: The Insatiable Wokeness Police Take Out Kevin Hart
-    
-*   _Michael Schulman_: Why Kevin Hart Had to Go as Oscars Host
-    
-*   _Eddie Scarry_: Are Liberals Prepared for No Collusion?
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   White House Chief of Staff John Kelly to Leave at Year's End
+*   Trump Is 10th Sitting President to Attend Army-Navy Game
+*   Jordan: Comey Said 245 Times "Don't Remember, Don't Recall, Don't Know"
 *   Prosecutors Recommend Several Years in Prison for Michael Cohen
-*   Comey Faces Off With Republicans Over Clinton Emails, Alleged Bias
-*   Comey: Notion That FISA Process Was Abused Is "Nonsense"
 *   Trump Will Nominate William Barr as Attorney General
-*   State Spokeswoman Heather Nauert Nominated for UN Ambassador
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Adam Schiff: Trump May Face "The Real Prospect Of Jail Time" When He Leaves Office
+*   Sen. Rand Paul: I Don't See What's Illegal About Trying To Build A Hotel In Russia
+*   Rep. Jerry Nadler: Trump Was At The Center Of "Several Massive Frauds Against The American People"
+*   Sen. Angus King: Not Enough Evidence Yet For Trump Impeachment. "We May Get There"
 *   Rep. Gaetz: Trump Should Pardon Manafort, Commute Flynn's Sentence. Prosecuted For Politics, Not Crimes
-*   Rep. Castro: Congress Has To Discuss Impeachment, This Is Not A "Partisan Grudge" Against Trump
-*   Brennan: Trump Is "Increasingly Desperate" About Mueller Probe, Sees "Walls Closing In On Him"
-*   Heather Mac Donald: Feminist Ambition Is To Take Over Civilization, "They're Trying To Disappear Males"
-*   Sen. Hirono: Democrats Have a Hard Time "Connecting" With People Because Of "How Smart We Are"
 
 *   Politics
 *   Policy
