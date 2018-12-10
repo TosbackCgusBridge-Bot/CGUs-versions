@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Take your strategy songs on the go! Download the free Daniel Tiger for Parents app today!Take your strategy songs on the go! Download the free Daniel Tiger for Parents app today!Get it now.
+Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Go now
 
 Toggle message bar
 
