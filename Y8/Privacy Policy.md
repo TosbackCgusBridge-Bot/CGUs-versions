@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1869 games
-*   Most Popular Games 18262 games
+*   Best of new games 1856 games
+*   Most Popular Games 18280 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,527 games
+*   Games for girls 23,526 games
 *   Driving &. Racing Games 6,723 games
-*   Strategy &. RPG Games 2,405 games
-*   Management Games 3,632 games
-*   Thinking Games 11,882 games
-*   Action &. Adventure Games 15,879 games
-*   Sports Games 2,137 games
-*   Shooting Games 8,354 games
+*   Strategy &. RPG Games 2,406 games
+*   Management Games 3,633 games
+*   Thinking Games 11,884 games
+*   Action &. Adventure Games 15,881 games
+*   Sports Games 2,138 games
+*   Shooting Games 8,355 games
 *   Fighting Games 2,090 games
-*   Skill Games 10,669 games
-*   Arcade &. Classic Games 12,660 games
+*   Skill Games 10,671 games
+*   Arcade &. Classic Games 12,661 games
 *   Fun &. Crazy Games 2,472 games
 
 Play with friends  
 Powered by Y8 Account 150 Y8 Multiplayer Games 1,786 Y8 High Score Games 1,087 Y8 Achievements Games 793 Y8 Screenshots Games 1,380 Y8 Online Save Games 2,824 All Y8 Games Games Last Highscore:
 
-**139,536,694** points on Harvest Story by Mochi
+**46,259** points on Throne Defender by Alexander
 
 Help us improve Bad translation? Social
 
