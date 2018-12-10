@@ -78,7 +78,6 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Sweaters
 *   Active Tops
-*   $5.87 Graphic Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -140,7 +139,6 @@ Close submenu ( Tops ) Tops
 *   Hoodies + Sweatshirts
 *   Shirts
 *   Sweaters
-*   $6.87 Graphic Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -244,6 +242,7 @@ Close submenu ( Girls ) Girls
 
 *   View All
 *   New to Clearance
+*   $5.87 Graphic Tees
 *   $9.99 + Under
 *   Tops
 *   Bottoms
@@ -256,6 +255,7 @@ Close submenu ( Guys ) Guys
 
 *   View All
 *   New to Clearance
+*   $6.87 Graphic Tees
 *   $9.99 + Under
 *   Tops
 *   Bottoms
@@ -272,12 +272,12 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**UP TO 80% OFF CLEARANCE  ** GIRLS GUYS **60-70% OFF + FREE SHIP ON ORDERS OVER $50**
+**Buy a $50 Gift Card get a FREE $10 Cash Card! SHOP NOW**
 
 *   Select Country
 *   My Account My Account Login Register
 
-FREE SHIPPING ON ORDERS OVER $50 + 60-70% OFF Menu Find a Store Aeropostale
+FREE SHIPPING + EXTRA 20% OFF ORDERS OF $50 OR MORE Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -324,7 +324,6 @@ FREE SHIPPING ON ORDERS OVER $50 + 60-70% OFF Menu Find a Store Aeropostale
         *   Shirts
         *   Sweaters
         *   Active Tops
-        *   $5.87 Graphic Tees
     
     *   Bottoms
         *   View All
@@ -376,7 +375,6 @@ FREE SHIPPING ON ORDERS OVER $50 + 60-70% OFF Menu Find a Store Aeropostale
         *   Hoodies + Sweatshirts
         *   Shirts
         *   Sweaters
-        *   $6.87 Graphic Tees
     
     *   Bottoms
         *   View All
@@ -434,6 +432,7 @@ FREE SHIPPING ON ORDERS OVER $50 + 60-70% OFF Menu Find a Store Aeropostale
         *   Flex Effects
         *   Destroyed Denim
     
+    Aero Jeans 18 fits and 81 washes means more chances to find your denim soul mate this season. In Stores &. Online $15.87 &. Up
 *   Gifts
     
     *   View Home
@@ -465,6 +464,7 @@ FREE SHIPPING ON ORDERS OVER $50 + 60-70% OFF Menu Find a Store Aeropostale
     *   Girls
         *   View All
         *   New to Clearance
+        *   $5.87 Graphic Tees
         *   $9.99 + Under
         *   Tops
         *   Bottoms
@@ -476,6 +476,7 @@ FREE SHIPPING ON ORDERS OVER $50 + 60-70% OFF Menu Find a Store Aeropostale
     *   Guys
         *   View All
         *   New to Clearance
+        *   $6.87 Graphic Tees
         *   $9.99 + Under
         *   Tops
         *   Bottoms
@@ -500,21 +501,21 @@ FREE SHIPPING ON ORDERS OVER $50 + 60-70% OFF Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
+ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
 
 Previous*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
-*   Stocking Stuffers Starting at $3.00 Shop Girls Shop Guys
-*   Gifts Under $10 Starting at $3.00 Shop Girls Shop Guys
+*   Stocking Stuffers Starting at $4.00 Shop Girls Shop Guys
+*   Gifts Under $10 Starting at $4.00 Shop Girls Shop Guys
 *   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
-*   Stocking Stuffers Starting at $3.00 Shop Girls Shop Guys
-*   Gifts Under $10 Starting at $3.00 Shop Girls Shop Guys
+*   Stocking Stuffers Starting at $4.00 Shop Girls Shop Guys
+*   Gifts Under $10 Starting at $4.00 Shop Girls Shop Guys
 *   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
 Next
 
-Shop Favorites For Her Shop Favorites For Him Shop Girls Hoodies Shop Guys Hoodies Shop Girls Tees Shop Guys Tees Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Shop Gift Cards Visit the Help Desk <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+Shop Favorites For Her Shop Favorites For Him Hoodies + Sweatshirts Our super-soft fleece makes the perfect gift for anyone who wants to look cool and keep warm. So...everyone on your list In Stores &. Online $11.87 &. Up Shop Girls Hoodies Shop Guys Hoodies Shop Girls Long Sleeve Shop Guys Long Sleeve Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Shop Gift Cards Visit the Help Desk <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions Details FOLLOW US Customer Care
 
 *   Order Status
