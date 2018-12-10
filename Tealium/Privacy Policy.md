@@ -33,7 +33,7 @@
     *   Brand Assets
     *   Contact
 *   Blog
-*   For Developers
+*   Docs
     *   Docs Overview
     *   Product Guides
     *   Forum
