@@ -18,22 +18,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackFINAL HOURS OF COUPON CODESUNDAY45ENDS IN00HOURS 41MINS 02SECS \*Offer ends December 10, 2018 Hot Sellers
-
-*   $3599after couponwas $120 St. John's Bay Heavyweight Puffer Jacket(14)
-*   $1499after couponwas $42 Arizona Bootcut Jeans-Juniors(103)
-*   $3999 sale
-    
-    was $59.50 | 32% offLevi's® 505™ Regular Fit Jeans(1238)
-*   LIMITED TIME SPECIAL!
-    
-    $3999 sale
-    
-    was $65 | 38% offNike Flex Experience 7 Mens Running Shoes Lace-up(26)
-*   $1349after couponwas $50 St. John's Bay® Easy-Care Classic Flat-Front Pants(429)
-*   $1349after couponwas $36 Van Heusen Mens Knit Pajama Pants
-
-Shop and Save at JCPenney
+Near YouFind a StoreBackFINAL HOURS OF COUPON CODE6ACTNOWENDS IN00HOURS 41MINS 06SECS \*Offer ends December 11, 2018 Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Get GE, LG and Samsung home appliances at amazing prices at our appliance sale. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
