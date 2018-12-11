@@ -1,6 +1,8 @@
-Cookies help us keep internet content free. By continuing to use our website or by clicking "Got It", you agree to the use of cookies. **Learn More** | **Got It**
+Cookies help us keep internet content free. By continuing to use our website or by clicking "Got It", you agree to the use of cookies. **Learn More**
 
-AcceptDon't ask me again ✕ ✕
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+
+AcceptDecline ✕ ✕
 
 *   Products
     *   Our Approach
