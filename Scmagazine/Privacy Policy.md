@@ -199,13 +199,6 @@ If you have any questions on our Privacy Policy, or questions about our handling
 10th Floor  
 New York, NY 10001.**
 
-*   Rohyt Belani, CEO, Cofense at RSA Conference 2018 Partner Content Powered by Cofense The "New Science of Cybersecurity" Defined by NTT Security Partner Content Powered by NTT Security Four bad archiving habits to break Partner Content Powered by Mimecast A new level of preparedness Partner Content Powered by Mimecast
-    
-    **Techscape** is SC Media’s content marketing platform. Industry experts share their views in the following categories
-    
-    **Partner Content** is sponsored content brought to you by a vendor
-    
-
 Back to Top
 
 *   Company Info
