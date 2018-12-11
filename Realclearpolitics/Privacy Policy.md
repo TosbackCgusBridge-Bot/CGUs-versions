@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Peter Navarro_: Why Economic Security Is National Security
+*   _Jon Henley_: Europe Holds Its Breath as Macron Moves to Quell Protests
     
-*   _David Ignatius_: Information War Led to Khashoggi's Murder
+*   _Stephen Hayward_: French Protests Giving U.S. Progessives a Panic Attack
     
-*   _Pat Buchanan_: Who Lost the World Bush 41 Left Behind?
+*   _Andrew Grice_: Theresa May Chooses the Lesser of 2 Humiliations
     
-*   _Hans von Spakovsky_: New Court Filings, But Still No Russian Collusion
+*   _Mark Penn_: Cohen's Pleas Concocted by Prosecutors to Snare Trump
     
-*   _Adam Davidson_: The Cohen Sentencing Memos Are Damning for Trump
+*   _Rahm Emanuel_: Trump Doesn't Want a Chief of Staff
     
-*   _George Neumayr_: Comey and the FISA Warrant Clinton Bought
+*   _James Gagliano_: Comey's Hubris Has Done Irreparable Damage to FBI
     
-*   _Jen Psaki_: Trump Surrounding Himself With Yes-Men and Yes-Women
+*   _Charlie Campbell_: Huawei CFO's Arrest Could Turn Out to Be a Very Big Deal
     
-*   _Andrew McCarthy_: Willam Barr: A Home Run Choice by Trump
+*   _David Goldman_: Did the Deep State Sandbag Trump with Huawei Arrest?
     
-*   _Michelle Bachelet_: Ignore Climate Change at Your Peril
+*   _Greg Sargent_: Trump's Latest Rage Tweets Expose Depth of His Corruption
     
-*   _Anne-Elisabeth Moutet_: In France, Les Deplorables Strike Back
+*   _John Nolte_: No Collusion, Media Want Trump Impeached Over 'Just Sex'
     
-*   _Uri Friedman_: Nikki Haley's Warning: Ignoring Human Rights Sparks Wars
+*   _Tina Nguyen_: How Hollywood Invented Ben Shapiro
     
-*   _Jerrod Laber_: War in Afghanistan Is Now About Only 1 Thing: Pride
+*   _Victor Davis Hanson_: Defeat and the Dossier Explain Everything
     
-*   _Debra Heine_: Why Michael Flynn Was Set Up
+*   _Charles Blow_: Surviving a Criminal Presidency
     
-*   _Berke_: Is This the Beginning of the End for Trump?
+*   _Peter Van Buren_: Mueller Probe Still Missing One Thing: A Crime
     
-*   _Mark Penn_: Dems Should Think Twice as They Start Impeachment Path
+*   _Richard Wolffe_: John Kelly the Latest Victim of Trump's Dumpster Fire
     
-*   _Lawrence Douglas_: Republicans Are Staging Mini-Coups Across the U.S.
+*   _Frank Miele_: Democrats Decry Polarization (When They Aren't Promoting It)
     
-*   _Robin Vos_: Skip the Outrage. Wisconsin Legislature Is Doing Our Job.
+*   _Charles Duhigg_: The Real Roots of American Rage
     
-*   _Liberty Vittert_: Facebook Is the Villain and We All Finally Know It
+*   _F.H. Buckley_: How 'Vice Signaling' Became the Language of Liberal Politics
     
-*   _Michael Beckerman_: Conservatives, Don't Fret, Internet Firms Help You Succeed
+*   _Dana Milbank_: The Utterly Lawless 'Individual-1'
     
-*   _Thomas Connor_: Out of Pearl Harbor Came Men Like George H.W. Bush
+*   _Victoria Toensing_: Why Has Mueller Ignored Obama Admin Crimes?
     
-*   _Rich Lowry_: Yes, Voter Fraud Is Real
+*   _Frank Bruni_: I Like Joe Biden. I Urge Him Not to Run
     
-*   _Gluck &. Turret_: The Ticking Time Bomb Under Obamacare
+*   _Natasha Korecki_: Elizabeth Warren Forges a 2020 Machine
     
-*   _Tom Rogan_: Huawei Arrest Is a Gloriously Stinging Rebuke to Xi Jinping
+*   _Gabriel DeBenedetti_: Sherrod Brown Has a Blueprint for America 2020
     
-*   _Jane Timm_: No, 'Tariff Man,' China Doesn't Foot the Bill--Americans Do
+*   _Liz Peek_: Ocasio-Cortez's Green Policies Would Cripple Our Economy
     
 
 *   Previous
@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   White House Chief of Staff John Kelly to Leave at Year's End
-*   Trump Is 10th Sitting President to Attend Army-Navy Game
-*   Jordan: Comey Said 245 Times "Don't Remember, Don't Recall, Don't Know"
+*   With Ayers Out of Running, Trump Mulls Other Names for Chief of Staff
+*   Top House Democrats Say Trump May Face Impeachment, Jail
+*   SNL: De Niro's Robert Mueller Visits Trump's Sons at Bedtime
 *   Prosecutors Recommend Several Years in Prison for Michael Cohen
 *   Trump Will Nominate William Barr as Attorney General
 *   Presidential Job Approval
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve40
+    *   Disapprove56Disapprove +16
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove51Disapprove +3
+*   Direction of CountryRasmussen Reports
+    *   Right Direction43
+    *   Wrong Track51Wrong Track +8
 *   President Trump Job ApprovalNPR/PBS/Marist
     *   Approve43
     *   Disapprove49Disapprove +6
-*   Direction of CountryNPR/PBS/Marist
-    *   Right Direction35
-    *   Wrong Track56Wrong Track +21
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve46
-    *   Disapprove52Disapprove +6
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve41
-    *   Disapprove52Disapprove +11
 
 More Latest Polls In The News
 
+*   Dershowitz: Media &. Dems Would Scream Witch Hunt If Clinton Paid Off Paula Jones And Was Investigated
+*   Robby Mook: Democrats Will Not Let Republicans Dodge Responsibility To Hold Trump Accountable
 *   Adam Schiff: Trump May Face "The Real Prospect Of Jail Time" When He Leaves Office
 *   Sen. Rand Paul: I Don't See What's Illegal About Trying To Build A Hotel In Russia
-*   Rep. Jerry Nadler: Trump Was At The Center Of "Several Massive Frauds Against The American People"
-*   Sen. Angus King: Not Enough Evidence Yet For Trump Impeachment. "We May Get There"
-*   Rep. Gaetz: Trump Should Pardon Manafort, Commute Flynn's Sentence. Prosecuted For Politics, Not Crimes
+*   Maxine Waters: "I Told You So," Trump Brought Criminal Enterprise Into WH. Not "Worthy" Of Office
 
 *   Politics
 *   Policy
