@@ -989,9 +989,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles!
+Receive 50% off full-price styles, plus great gifts from $6!
 
-code: FIRE pin: 2246 DETAILS
+code: SNOWMAN pin: 2246 DETAILS
 
 Customer Service Menu
 
