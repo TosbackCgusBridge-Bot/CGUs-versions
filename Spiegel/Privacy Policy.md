@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   10\. Dezember 2018
+*   11\. Dezember 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 10.788,09ǀ
+*   DAX 10.622,07ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
