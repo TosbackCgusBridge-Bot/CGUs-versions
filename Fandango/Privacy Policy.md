@@ -11,37 +11,36 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Fantastic Beasts: The Crimes of Grindelwald
     *   Bohemian Rhapsody
     *   Instant Family (2018)
-    *   The Possession of Hannah Grace
-    *   Robin Hood (2018)
-    *   Widows (2018)
     *   Green Book
+    *   Robin Hood (2018)
+    *   The Possession of Hannah Grace
+    *   Widows (2018)
     *   A Star Is Born (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Schindler's List 25th Anniversary
-    *   Ben is Back
-    *   Divide and Conquer: The Story of Roger Ailes
-    *   Great Great Great
-    *   Mary Queen of Scots (2018)
-    *   Swimming with Men
-    *   Tyrel
-    *   Vox Lux
+    *   Mortal Engines
+    *   The Mule (2018)
+    *   Spider-Man: Into the Spider-Verse
+    *   The Favourite
+    *   Once Upon a Deadpool
+    *   Capernaum (2018)
+    *   The House That Jack Built (2018)
+    *   If Beale Street Could Talk
+    *   The Wedding (2018)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Once Upon a Deadpool
-    *   Mortal Engines
-    *   The Mule (2018)
-    *   Spider-Man: Into the Spider-Verse
     *   Aquaman
     *   Bumblebee
     *   Mary Poppins Returns (2018)
     *   Second Act
     *   Welcome to Marwen
     *   Holmes &. Watson
+    *   Vice (2018)
+    *   Escape Room (2019)
     *   See All Coming Soon
     
     Explore More
@@ -69,9 +68,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   First 'Artemis Fowl' Teaser Will Make You Believe. Here's Everything We Know Read More
-    *   Next 3 Major Awards Contenders: 'Mary Queen of Scots,' 'If Beale Street Could Talk,' 'Vice' Read More
-    *   First 'Avengers: Endgame' Trailer Arrives as Release Date Moves Up. Here's Everything We Know Read More
+    *   Next 3 Marvel Studios Movies: 'Captain Marvel,' 'Avengers: Endgame,' 'Spider-Man: Far From Home' Read More
+    *   We Are the Pets in Second ‘Godzilla: King of the Monsters’ Trailer. Here’s Everything We Know Read More
+    *   'The Favourite' and 'Black Panther' Lead Critics' Choice Nominations Read More
     
     Explore Content
     *   Movie Reviews
