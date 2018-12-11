@@ -68,6 +68,7 @@
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Christmas Gifts
 *   Sale
+    View All Categories Shop by Category*   Green Monday
 
 1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Skip to content Business Gifts Stores Account
 
@@ -147,8 +148,9 @@
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Christmas Gifts
 *   Sale
+    View All Categories Shop by Category*   Green Monday
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Buy more, save more &. Free Shipping on Shipments Over $35!\*
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Free Shipping on Shipments Over $35!\*
 
 1.  Home
 2.  Privacy Policy
