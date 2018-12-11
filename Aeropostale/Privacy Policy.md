@@ -272,7 +272,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**Buy a $50 Gift Card get a FREE $10 Cash Card! SHOP NOW**
+Hurry! Green Monday Deals Are Going Fast! 347 Days 23 Hrs : Days 31 Mins : Days 45 Secs
 
 *   Select Country
 *   My Account My Account Login Register
@@ -432,7 +432,8 @@ FREE SHIPPING + EXTRA 20% OFF ORDERS OF $50 OR MORE Menu Find a Store Aeropostal
         *   Flex Effects
         *   Destroyed Denim
     
-    Aero Jeans 18 fits and 81 washes means more chances to find your denim soul mate this season. In Stores &. Online $15.87 &. Up
+    Aero Jeans 18 fits and 81 washes means  
+    more chances to find your denim soul mate this season. In Stores &. Online $15.87 &. Up
 *   Gifts
     
     *   View Home
@@ -503,15 +504,15 @@ FREE SHIPPING + EXTRA 20% OFF ORDERS OF $50 OR MORE Menu Find a Store Aeropostal
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
 
-Previous*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
+Previous*   Gifts Under $20 Starting at $8.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
-*   Stocking Stuffers Starting at $4.00 Shop Girls Shop Guys
-*   Gifts Under $10 Starting at $4.00 Shop Girls Shop Guys
-*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
+*   Stocking Stuffers Starting at $3.15 Shop Girls Shop Guys
+*   Gifts Under $10 Starting at $3.15 Shop Girls Shop Guys
+*   Gifts Under $20 Starting at $8.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
-*   Stocking Stuffers Starting at $4.00 Shop Girls Shop Guys
-*   Gifts Under $10 Starting at $4.00 Shop Girls Shop Guys
-*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
+*   Stocking Stuffers Starting at $3.15 Shop Girls Shop Guys
+*   Gifts Under $10 Starting at $3.15 Shop Girls Shop Guys
+*   Gifts Under $20 Starting at $8.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
 Next
 
