@@ -52,7 +52,7 @@ Borrow for your business with affordable business loans. Learn more
 
 Get live support and seller protection.
 
-Get Started Send money to friends and family.
+Get Started Shop, send, and return easily this holiday. Learn More Send money to friends and family.
 
 It's free to send money to friends and family in the U.S. when you use your bank account or PayPal balance.\*
 
@@ -70,7 +70,7 @@ With PayPal, you can shop online stores in 200+ markets around the world so it's
 
 Buy with confidence.
 
-There's a reason why over 200 million people trust PayPal: it's easy and secure with benefits like Return Shipping on Us\* and Purchase Protection.\*\*
+There's a reason why over 200 million people trust PayPal: it's easy and secure with benefits like Return Shipping on Us1 and Purchase Protection.2
 
 Shop now with PayPal at your favorite stores.
 
@@ -78,9 +78,9 @@ Make the most of your money.
 
 Sign Up for Free
 
-\*Exclusions apply. This is an exclusive offer offered to eligible PayPal account owners. With this service you are eligible to receive up to 12 refunds per calendar year (between January 1st and December 31st), and may receive refunds of up to $30 USD per claim. PayPal reserves the right to cancel or modify part of or this entire Offer at any time without notice, for any reason in their sole discretion. See full terms and conditions.  
+1Limitations apply. This program is open only to eligible U.S. PayPal account owners. Once the service is activated, participants may receive up to 12 refunds (up to $30 per refund request) per calendar year (January 1 – December 31) on qualifying returns of tangible items returned in accordance with seller’s return policy. Other limitations apply.  
   
-\*\*See more about Purchase Protection terms and limitations.
+2See more about Purchase Protection terms and limitations.
 
 *   Help
 *   Contact
@@ -105,4 +105,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=9f34f6f35529f&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=feeae0e91c19457eb49efac086146a82&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=5849d1eb59c22&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=d44a335d5408452680ae0bf89bf09853&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
