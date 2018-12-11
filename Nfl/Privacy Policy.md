@@ -1,4 +1,5 @@
-*   LA11-26CHI9-415Final
+*   MIN6-6-17SEA8-521Final
+*   JAX4-99TEN7-630Final
 *   NYJ4-927BUF4-923Final
 *   CAR6-720CLE5-7-126Final
 *   ATL4-920GB5-7-134Final
@@ -12,8 +13,7 @@
 *   DET5-817ARI3-103Final
 *   PHI6-723DAL8-529Final (OT)
 *   PIT7-5-121OAK3-1024Final
-*   MIN6-5-1SEA7-5Mon, 8:15 pm ET
-*   JAX4-99TEN7-630Final
+*   LA11-26CHI9-415Final
 
 *   News
 *   Scores
@@ -32,7 +32,8 @@
 *   NFL Network
 *   Photos
 
-*   LA6CHI15Final
+*   MIN7SEA21Final
+*   JAX9TEN30Final
 *   NYJ27BUF23Final
 *   CAR20CLE26Final
 *   ATL20GB34Final
@@ -46,8 +47,7 @@
 *   DET17ARI3Final
 *   PHI23DAL29Final (OT)
 *   PIT21OAK24Final
-*   MIN6-5-1SEA7-5Mon, 8:15 pm ET
-*   JAX9TEN30Final
+*   LA6CHI15Final
 
 *   News
 *   Scores
@@ -57,7 +57,7 @@
 *   Playoff Picture
 
 *   Scores
-*   Highlights
+*   SHOP
 
 *   *   Game Pass
     *   Stats
