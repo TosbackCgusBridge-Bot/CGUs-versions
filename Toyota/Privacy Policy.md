@@ -1202,15 +1202,17 @@ Help
 *   22\. 2019 Sienna preliminary 19 city/27 hwy/22 combined mpg estimates determined by Toyota. EPA ratings not available at time of printing. Actual mileage will vary.
 *   23\. 2019 EPA-estimated 32 city/40 highway/35 combined mpg for Yaris with automatic transmission. Actual mileage will vary.
 
-YOUR GARAGE NONELog In
+YOUR GARAGE NONE Log In
 
-*   SEARCHES
-*   INVENTORY
-*   OFFERS
-*   BUILDS
+*   SEARCHES (0)
+*   INVENTORY (0)
+*   OFFERS (0)
+*   BUILDS (0)
 
-OWNERS✕Your VehiclesEasily access your Toyota, Lexus and Scion vehicles directly from your garage.TOYOTA OWNERSLEXUS DRIVERS SEARCHES✕Easily save searches.Look through and edit searches you’ve saved and save new ones right here.Click to save.  
-Click to remove.GET STARTED INVENTORY✕Find your Toyota.Search dealer inventory and save your favorite vehicles here.Click to save.  
-Click to remove.GET STARTED OFFERS✕Keep an eye on offers.Find local specials and save them here. We’ll even notify you when they’re about to expire.Click to save.  
-Click to remove.GET STARTED BUILDS✕Build and save.Customize your Toyota, and save the details to your garage. We’ll help you find local inventory from there.Click to save.  
-Click to remove.GET STARTEDCLOSE   ✕ ✕ ✕
+OWNERS ✕ Your Vehicles Easily access your Toyota, Lexus and Scion vehicles directly from your garage. Toyota Owners  
+  
+Lexus Drivers SEARCHES ✕ Easily save Searches Look through and edit searches you’ve saved and save new ones right here. Click to save.  
+Click to remove. Start Your Search INVENTORY ✕ Find your Toyota Search inventory and save your favorite vehicles here. Click to save.  
+Click to remove. Search Inventory OFFERS ✕ Keep an eye on Offers Find local specials and save them here. We’ll even notify you when they’re about to expire. Click to save.  
+Click to remove. See Offers BUILDS ✕ Build and Save Customize your Toyota, and save the details to your garage. We’ll help you find local inventory from there. Click to save.  
+Click to remove. Start Building CLOSE   ✕ ✕ ✕
