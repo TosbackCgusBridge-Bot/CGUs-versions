@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Christmas myths
-*   Joni Eareckson Tada
-*   Salvation Army
+*   Lamborghini
+*   Rene Martinez
+*   Adoption
+*   Nativity
 *   Pedophilia
-*   Virgin Mary
 
 About Us
 
