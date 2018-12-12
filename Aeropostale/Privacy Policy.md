@@ -272,7 +272,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-Hurry! Green Monday Deals Are Going Fast! 347 Days 23 Hrs : Days 31 Mins : Days 45 Secs
+**Buy a $50 Gift Card get a FREE $10 Cash Card! SHOP NOW**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -433,7 +433,8 @@ FREE SHIPPING + EXTRA 20% OFF ORDERS OF $50 OR MORE Menu Find a Store Aeropostal
         *   Destroyed Denim
     
     Aero Jeans 18 fits and 81 washes means  
-    more chances to find your denim soul mate this season. In Stores &. Online $15.87 &. Up
+    more chances to find your  
+    denim soul mate this season. In Stores &. Online $15.87 &. Up
 *   Gifts
     
     *   View Home
@@ -555,17 +556,3 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
