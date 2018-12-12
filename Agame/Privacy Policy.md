@@ -60,12 +60,12 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Forge of Empires
-    *   Jackpot
-    *   Goodgame Empire
-    *   Goodgame Poker
-    *   Klondike - the lost expedition
-    *   Family BarnSpotlight Slotomania
+    *   Family Barn
+    *   Let's Fish!: Multiplayer Fishing Game Online
+    *   Backgammon: Board Game Online Multiplayer
+    *   Harvest Honors Classic: Multiplayer Harvester Game
+    *   Fireboy and Watergirl: The Forest Temple
+    *   WarbannerSpotlight Slotomania
 *   Top Categories
     
     *   Boy Games
@@ -86,12 +86,12 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Warbanner: Free Strategy War Game
-    *   Stunt Skateboard 3D
-    *   Stickman Archer 2
-    *   Fidget Spinner
+    *   Plants vs Zombies
+    *   Warbanner
     *   Apple Shooter: Arrow Game
-    *   Super Smash Flash 2Spotlight Uphill Rush 7: Waterpark
+    *   Stunt Skateboard 3D
+    *   Uphill Rush 7: Waterpark
+    *   Total Front: Army War GameSpotlight Uphill Rush 7: Waterpark
 *   Top Categories
     
     *   Platform Games
@@ -112,11 +112,11 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Troll Face Quest Video Games
-    *   Escaping the Prison: Stickman Escapist Game
-    *   Papa Louie 3: When Sundaes Attack
-    *   Slope: Neon Ball Rolling Game
-    *   Tomb Runner
+    *   Five Nights at Freddy's
+    *   Five Nights at Freddy's 2
+    *   Tom and Jerry: Mouse Maze
+    *   FNAF World
+    *   Crime City 3D: Police Game
     *   Uphill RushSpotlight Five Nights at Freddy's
 *   Top Categories
     
@@ -138,12 +138,12 @@ View more results
     *   Alphabetical Order
     
     Best Games
+    *   Cookie Crush 3
+    *   The Impossible Quiz: World's Hardest Quiz
     *   Bubble Shooter
-    *   Jewel Academy
     *   Harvest Honors Classic: Multiplayer Harvester Game
-    *   Deal or No Deal
-    *   TextTwist 2: Mind Game
-    *   1001 Arabian NightsSpotlight TenTrix
+    *   Fireboy and Watergirl: The Forest Temple
+    *   Deal or No DealSpotlight TenTrix
 *   Top Categories
     
     *   Dress Up
@@ -164,12 +164,12 @@ View more results
     *   Alphabetical Order
     
     Best Games
+    *   Pixel Art: Color by Number
     *   Love Tester 2.0
-    *   Theme Hotel
-    *   Bartender
-    *   Riddle School
-    *   Papa's Cupcakeria
-    *   Thrill Rush 5Spotlight My Dolphin Show 8
+    *   Ellie: Get Ready With Me
+    *   Electricman 2: Stickman Fighting Game
+    *   Fidget Spinner
+    *   Burger Restaurant ExpressSpotlight My Dolphin Show 8
 *   Top Categories
     
     *   BMX Games
@@ -190,12 +190,12 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Neon Biker
-    *   Uphill Rush 7: Waterpark
-    *   Happy Wheels
+    *   Madalin Stunt Cars 2
+    *   Highway Rider Extreme: Motorbike Game 3D
+    *   Bike Racing: Motorcycle Game
     *   Hill Racing Challenge
-    *   Bus Man Parking 3D
-    *   Russian Car DriverSpotlight Madalin Stunt Cars 2
+    *   Extreme Off-Road Cars 2
+    *   Uphill Rush 7: WaterparkSpotlight Madalin Stunt Cars 2
 *   Top Categories
     
     *   Athletics
@@ -215,12 +215,12 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Table Tennis World Tour
-    *   Baseball
+    *   Highway Rider Extreme: Motorbike Game 3D
     *   Apple Shooter: Arrow Game
-    *   Penalty Shooters
-    *   Sports Heads Basketball
-    *   Sprinter: Track Running GameSpotlight Stunt Skateboard 3D
+    *   Stunt Skateboard 3D
+    *   Table Tennis World Tour
+    *   Playing Soccer
+    *   BaseballSpotlight Stunt Skateboard 3D
 *   *   Multiplayer
     *   Action
     *   Adventure
