@@ -25,6 +25,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Spider-Man: Into the Spider-Verse
     *   The Favourite
     *   Once Upon a Deadpool
+    *   Beyond White Space
     *   Capernaum (2018)
     *   The House That Jack Built (2018)
     *   If Beale Street Could Talk
@@ -68,7 +69,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Marvel Studios Movies: 'Captain Marvel,' 'Avengers: Endgame,' 'Spider-Man: Far From Home' Read More
+    *   Scott Derrickson to Direct ‘Doctor Strange’ Sequel. Here’s Everything We Know Read More
     *   We Are the Pets in Second ‘Godzilla: King of the Monsters’ Trailer. Here’s Everything We Know Read More
     *   'The Favourite' and 'Black Panther' Lead Critics' Choice Nominations Read More
     
@@ -316,9 +317,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   Golden Globes Awards Sweepstakes
+*   'Spider-Man: Into the Spider-Verse' Gift with Purchase
     
-    Enter for a chance to win a trip to Hollywood for the Ultimate Golden Globes Awards getaway! ENTER NOW
+    Own 'Venom' for $10 with ticket purchase. BUY TICKETS
     
 *   'Aquaman' Gift with Purchase
     
