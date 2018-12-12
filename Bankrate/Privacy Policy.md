@@ -22,6 +22,7 @@
 *   Banking Compare Accounts
     
     *   CD rates
+    *   No Penalty CD
     *   Savings accounts
     *   Money market accounts
     *   Checking accounts
@@ -35,12 +36,17 @@
     *   All banking calculators
     
     Get Advice
+    
     *   How to save money
     *   Federal Reserve news
     *   What is a money market account?
     *   Which certificate of deposit account is best?
     *   How to open a savings account
     *   Credit union basics
+    
+    No Penalty CD
+    
+    Considering a No Penalty CD Learn More
 *   Credit Cards Credit Cards by Category
     
     *   Best Credit Cards of 2018
