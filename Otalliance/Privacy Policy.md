@@ -60,7 +60,7 @@ Skip to main content Online Trust Alliance
 *   Facebook
 *   Youtube
 
-Home › Privacy Statement Privacy Statement
+Facebook Twitter LinkedIn Email AddThis Home › Privacy Statement Privacy Statement
 
 The Online Trust Alliance is now part of the Internet Society (ISOC) and governed by ISOC's Privacy Statement. As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here. Questions please email privacy@isoc.org.   
 
@@ -72,7 +72,11 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
-Thu, Dec 13, 2018 OECD Global Forum on Digital Security for Prosperity
+Thu, Dec 13, 2018 OECD Global Forum on Digital Security for Prosperity Tue, Dec 18, 2018 Can Consumers Trust Retailers' Email? Findings from OTA's Email Marketing &. Unsubscribe Audit
+
+Can consumers trust the email they receive and that retailers will honor their choices? Join us as we review findings from the 5th annual Email Marketing &. Unsubscribe Audit, which reviews email practices of the top 200 US retailers.  
+  
+The presenters will be Jeff Wilbur, Technical Director of the Online Trust Alliance initiative at the Internet Society, Kevin Gallant of Yes Lifecycle Marketing and Sam Silberman of Endurance/Constant Contact.
 
 *   OTA Blog
 *   Newsletters
