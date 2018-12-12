@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jon Henley_: Europe Holds Its Breath as Macron Moves to Quell Protests
+*   _Andrew Desiderio_: Trump, Schumer, Pelosi Get Into Shouting Match Over Border
     
-*   _Stephen Hayward_: French Protests Giving U.S. Progessives a Panic Attack
+*   _Christopher Buskirk_: What Trump Needs From His Next Chief of Staff
     
-*   _Andrew Grice_: Theresa May Chooses the Lesser of 2 Humiliations
+*   _Richard Cohen_: Is America Great Again Yet?
     
-*   _Mark Penn_: Cohen's Pleas Concocted by Prosecutors to Snare Trump
+*   _Adriana Cohen_: Dirty Cop James Comey 'Can't Recall' Squat
     
-*   _Rahm Emanuel_: Trump Doesn't Want a Chief of Staff
+*   _Jim VandeHei_: What We Know About Trump &. Russia Is Damning &. Detailed
     
-*   _James Gagliano_: Comey's Hubris Has Done Irreparable Damage to FBI
+*   _Mollie Hemingway_: Axios's 'Damning' Info Is Uninformed and Idiotic
     
-*   _Charlie Campbell_: Huawei CFO's Arrest Could Turn Out to Be a Very Big Deal
+*   _Ezra Klein_: Paul Ryan's Long Con
     
-*   _David Goldman_: Did the Deep State Sandbag Trump with Huawei Arrest?
+*   _Joel Kotkin_: Climate Change Hysteria and the New French Rebellion
     
-*   _Greg Sargent_: Trump's Latest Rage Tweets Expose Depth of His Corruption
+*   _Stephen MacLean_: Brexit Retreat Opens Door for Boris Johnson
     
-*   _John Nolte_: No Collusion, Media Want Trump Impeached Over 'Just Sex'
+*   _Michael Scammell_: Solzhenitsyn: The Writer Who Destroyed an Empire
     
-*   _Tina Nguyen_: How Hollywood Invented Ben Shapiro
+*   _David Papadopoulos_: Venezuela's Socialist Experiment Is Deadlier Than Ever
     
-*   _Victor Davis Hanson_: Defeat and the Dossier Explain Everything
+*   _Tom Perez_: Republicans, Don't Break Our Democracy
     
-*   _Charles Blow_: Surviving a Criminal Presidency
+*   _Reps. Jordan &. Meadows_: Build the Wall--Do What We Said We'd Do
     
-*   _Peter Van Buren_: Mueller Probe Still Missing One Thing: A Crime
+*   _Jill Lawrence_: Why Democrats Need Nancy Pelosi as Speaker
     
-*   _Richard Wolffe_: John Kelly the Latest Victim of Trump's Dumpster Fire
+*   _Julie Kelly_: Will the Leakers in the Flynn Case Escape Justice?
     
-*   _Frank Miele_: Democrats Decry Polarization (When They Aren't Promoting It)
+*   _Eugene Robinson_: What Has the President Been 'Smocking'?
     
-*   _Charles Duhigg_: The Real Roots of American Rage
+*   _Byron York_: From Russia, Russia, Russia to...Campaign Finance?
     
-*   _F.H. Buckley_: How 'Vice Signaling' Became the Language of Liberal Politics
+*   _Richard Hasen_: Trump's 'Obama Did It Too' Defense Does Not Hold Water
     
-*   _Dana Milbank_: The Utterly Lawless 'Individual-1'
+*   _Peter Eavis_: Why Trump Might Be Right About Interest Rates
     
-*   _Victoria Toensing_: Why Has Mueller Ignored Obama Admin Crimes?
+*   _Rich Lowry_: How Theresa May Blew It
     
-*   _Frank Bruni_: I Like Joe Biden. I Urge Him Not to Run
+*   _Gideon Rachman_: Protests Show Leading France Is an Impossible Job
     
-*   _Natasha Korecki_: Elizabeth Warren Forges a 2020 Machine
+*   _Peter Berkowitz_: What the New Congress Can Learn From Aristotle
     
-*   _Gabriel DeBenedetti_: Sherrod Brown Has a Blueprint for America 2020
+*   _Jill Abramson_: Trump's Tweets Show How Rattled He Is by Mueller
     
-*   _Liz Peek_: Ocasio-Cortez's Green Policies Would Cripple Our Economy
+*   _Conrad Black_: Mueller's Got Nothing
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Says Military to Build Border Wall If Democrats Refuse
 *   With Ayers Out of Running, Trump Mulls Other Names for Chief of Staff
+*   McCarthy on Russia Investigation: "There's Nothing There"
 *   Top House Democrats Say Trump May Face Impeachment, Jail
-*   SNL: De Niro's Robert Mueller Visits Trump's Sons at Bedtime
-*   Prosecutors Recommend Several Years in Prison for Michael Cohen
 *   Trump Will Nominate William Barr as Attorney General
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,12 +243,12 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalCNN
+    *   Approve40
+    *   Disapprove53Disapprove +13
 *   President Trump Job ApprovalGallup
     *   Approve40
     *   Disapprove56Disapprove +16
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
 *   Direction of CountryRasmussen Reports
     *   Right Direction43
     *   Wrong Track51Wrong Track +8
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Pelosi: President Trump Does Not Have The Votes To Pay For His Wall
+*   Incoming Dem Caucus Chair Hakeem Jeffries: Trump "Conducts Himself Like An Organized Crime Boss"
+*   Meadows: Whistleblowers Allege FBI Investigating Pay For Play, Quid Pro Quo At Clinton Foundation
+*   Van Hollen: Comey Is "Scared To Death" Trump Is Taking A "Wrecking Ball" To The Justice Department
 *   Dershowitz: Media &. Dems Would Scream Witch Hunt If Clinton Paid Off Paula Jones And Was Investigated
-*   Robby Mook: Democrats Will Not Let Republicans Dodge Responsibility To Hold Trump Accountable
-*   Adam Schiff: Trump May Face "The Real Prospect Of Jail Time" When He Leaves Office
-*   Sen. Rand Paul: I Don't See What's Illegal About Trying To Build A Hotel In Russia
-*   Maxine Waters: "I Told You So," Trump Brought Criminal Enterprise Into WH. Not "Worthy" Of Office
 
 *   Politics
 *   Policy
