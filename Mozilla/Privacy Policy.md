@@ -77,7 +77,7 @@ Firefox Privacy Notice
         Watch videos and browse the internet on your Amazon Fire TV.
         
     
-    <img class="mzp-c-card-image" src="/media/img/nav/cards/add-ons.91437385d52f.png" alt="">. Add-ons
+    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/add-ons.91437385d52f.png" alt="">. Add-ons
     
     Learn how to customize the way Firefox works.
     
@@ -101,7 +101,7 @@ Firefox Privacy Notice
         Meet people in experimental Mixed Reality chatrooms with Firefox.
         
     
-    <img class="mzp-c-card-image" src="/media/img/nav/cards/firefox-reality.7c9245a63776.png" alt="">. Mozilla WebVR
+    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/firefox-reality.7c9245a63776.png" alt="">. Mozilla WebVR
     
     Mozilla brings Firefox to augmented and virtual reality.
     
@@ -138,7 +138,7 @@ Firefox Privacy Notice
         *   Developer Blog
         *   Mozilla Open Source Support (MOSS)
     
-    <img class="mzp-c-card-image" src="/media/img/nav/cards/developer-edition.22ebe03a399c.png" alt="">. Firefox Developer Edition
+    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/developer-edition.22ebe03a399c.png" alt="">. Firefox Developer Edition
     
     Build, test, scale and more with the only browser built just for developers.
     
@@ -166,7 +166,7 @@ Firefox Privacy Notice
         *   Events
         *   Donate
     
-    <img class="mzp-c-card-image" src="/media/img/nav/cards/mozilla-festival.474a03ca8109.jpg" alt="">. The Mozilla Festival
+    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/mozilla-festival.474a03ca8109.jpg" alt="">. The Mozilla Festival
     
     An event for advocates of a healthy Internet on Oct. 26-28 in London.
     
