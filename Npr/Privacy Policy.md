@@ -3,15 +3,16 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-*   Sign In
+Listen Live Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On Air Now**Toggle more player options
+
 *   Shop
-*   Donate
+
 *   Open Navigation Menu
 
 Close Navigation Menu
 
 *   Home
-*   News Expand/Collapse Submenu for News
+*   News Expand/collapse submenu for News
     *   National
     *   World
     *   Politics
@@ -20,7 +21,7 @@ Close Navigation Menu
     *   Science
     *   Technology
     *   Race &. Culture
-*   Arts &. Life Expand/Collapse Submenu for Arts &. Life
+*   Arts &. Life Expand/collapse submenu for Arts &. Life
     *   Books
     *   Movies
     *   Television
@@ -28,13 +29,14 @@ Close Navigation Menu
     *   Food
     *   Art &. Design
     *   Performing Arts
-*   Music Expand/Collapse Submenu for Music
+*   Music Expand/collapse submenu for Music
     *   Tiny Desk
     *   All Songs Considered
     *   Music News
-    *   Features
+    *   Music Features
     *   New Music
-*   Shows &. Podcasts Expand/Collapse Submenu for Shows &. Podcasts Daily
+    *   Best Music Of 2018
+*   Shows &. Podcasts Expand/collapse submenu for Shows &. Podcasts Daily
     
     *   Morning Edition
     *   All Things Considered
@@ -50,7 +52,7 @@ Close Navigation Menu
     
     *   More Shows &. Podcasts
 *   Search
-*   Sign In
+
 *   Shop
 
 *   Tiny Desk
@@ -60,7 +62,7 @@ Close Navigation Menu
 *   New Music
 
 *   About NPR
-*   Expand/Collapse Submenu for Overview Overview
+*   Expand/collapse submenu for Overview Overview
     *   Overview and History
     *   Mission and Vision
     *   Stations and Public Media
@@ -68,7 +70,7 @@ Close Navigation Menu
     *   People
     *   Ethics
     *   Awards
-*   Expand/Collapse Submenu for Connect Connect
+*   Expand/collapse submenu for Connect Connect
     *   Visit NPR
     *   NPR Presents
     *   Studio 1 Events
@@ -81,16 +83,16 @@ Close Navigation Menu
     *   Shop NPR
     *   Get Help
     *   Contact Us
-*   Expand/Collapse Submenu for Support Support
+*   Expand/collapse submenu for Support Support
     *   Support Public Radio
     *   Corporate Sponsorship
     *   Volunteer
-*   Expand/Collapse Submenu for Press Press
+*   Expand/collapse submenu for Press Press
     *   Releases and Statements
     *   Photos and Logos
     *   Fact Sheet (PDF)
     *   Media Relations Contacts
-*   Expand/Collapse Submenu for Careers Careers
+*   Expand/collapse submenu for Careers Careers
     *   Careers at NPR
     *   Search Jobs
     *   Culture
@@ -435,6 +437,7 @@ Get Involved
 *   Privacy
 *   Your Privacy Choices
 *   Text Only
+*   © 2018 npr
 
 NPR thanks our sponsors
 
