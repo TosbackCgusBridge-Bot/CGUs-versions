@@ -1,4 +1,4 @@
-Règles de confidentialité Google
+Règles de confidentialité GoogleUne version mise à jour de nos Règles de confidentialité entrera en vigueur le 22 janvier 2019.
 
 Lorsque vous utilisez nos services, vous nous faites confiance pour le traitement de vos informations. Nous savons qu'il s'agit d'une lourde responsabilité, c'est pourquoi nous nous efforçons de les protéger, tout en vous permettant d'en garder le contrôle.
 
