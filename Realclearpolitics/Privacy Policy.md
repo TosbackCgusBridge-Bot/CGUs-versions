@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Andrew Desiderio_: Trump, Schumer, Pelosi Get Into Shouting Match Over Border
+*   _Tyler Cowen_: Macron Just Doesn't Get It
     
-*   _Christopher Buskirk_: What Trump Needs From His Next Chief of Staff
+*   _Tom Rogan_: Why the Strasbourg Attack Is a Bigger Deal Than You Think
     
-*   _Richard Cohen_: Is America Great Again Yet?
+*   _Jeffrey Sachs_: U.S., Not China, Is Real Threat to International Law
     
-*   _Adriana Cohen_: Dirty Cop James Comey 'Can't Recall' Squat
+*   _Michael Graham_: An Uncompromising Wall Divides U.S. Politics
     
-*   _Jim VandeHei_: What We Know About Trump &. Russia Is Damning &. Detailed
+*   _Carl Leubsdorf_: Pelosi Shows Why Dems Need Her as Speaker
     
-*   _Mollie Hemingway_: Axios's 'Damning' Info Is Uninformed and Idiotic
+*   _Hans von Spakovsky_: Cohen Didn't Commit a Crime (&. Neither Did Trump)
     
-*   _Ezra Klein_: Paul Ryan's Long Con
+*   _Julian Zelizer_: The Tough Choice Facing Democrats on Impeachment
     
-*   _Joel Kotkin_: Climate Change Hysteria and the New French Rebellion
+*   _Scott Jennings_: The Democrats' Impeachment Flimflam
     
-*   _Stephen MacLean_: Brexit Retreat Opens Door for Boris Johnson
+*   _Emily Atkin_: Have Democrats Reached a Tipping Point on Climate Change?
     
-*   _Michael Scammell_: Solzhenitsyn: The Writer Who Destroyed an Empire
+*   _Jenny Beth Martin_: Leave New IRS Free Speech Rule in Place
     
-*   _David Papadopoulos_: Venezuela's Socialist Experiment Is Deadlier Than Ever
+*   _Ariel Levy_: Julia Louis-Dreyfus Acts Out
     
-*   _Tom Perez_: Republicans, Don't Break Our Democracy
+*   _Tammy Bruce_: How the Liberal Morality Police Ruin Lives
     
-*   _Reps. Jordan &. Meadows_: Build the Wall--Do What We Said We'd Do
+*   _Betsy McCaughey_: What's 'Immoral' About Caring for America's Poor First?
     
-*   _Jill Lawrence_: Why Democrats Need Nancy Pelosi as Speaker
+*   _Michelle Cottle_: The Chuck and Nancy and Donald Show
     
-*   _Julie Kelly_: Will the Leakers in the Flynn Case Escape Justice?
+*   _Matt Lewis_: Why Trump Won the Chuck-n-Nancy Meeting Showdown
     
-*   _Eugene Robinson_: What Has the President Been 'Smocking'?
+*   _Zigor Aldama_: Former WTO Head: Trump Will Achieve Nothing With Tariffs
     
-*   _Byron York_: From Russia, Russia, Russia to...Campaign Finance?
+*   _K.S. Bruce_: Trump's China Trade War Is Not About Trade
     
-*   _Richard Hasen_: Trump's 'Obama Did It Too' Defense Does Not Hold Water
+*   _Jonathan Freedland_: Now Is Not the Time for a Pointless Tory Feud
     
-*   _Peter Eavis_: Why Trump Might Be Right About Interest Rates
+*   _Warren Henry_: Macron's Malaise Speech
     
-*   _Rich Lowry_: How Theresa May Blew It
+*   _Kalev Leetaru_: As French Protests Grow, Media's Climate Focus Shrinks
     
-*   _Gideon Rachman_: Protests Show Leading France Is an Impossible Job
+*   _Bryant Harris_: Congress Seeks to Condemn MBS for Journalist's Death
     
-*   _Peter Berkowitz_: What the New Congress Can Learn From Aristotle
+*   _Cliff May_: Punishing Saudi Prince Rewards Iranian Mullahs
     
-*   _Jill Abramson_: Trump's Tweets Show How Rattled He Is by Mueller
+*   _Robert Kuttner_: Donald Trump and Robert Mueller: The End Game
     
-*   _Conrad Black_: Mueller's Got Nothing
+*   _Daniel McCarthy_: The Case for Trump Is Stronger Than Ever
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Says Military to Build Border Wall If Democrats Refuse
-*   With Ayers Out of Running, Trump Mulls Other Names for Chief of Staff
-*   McCarthy on Russia Investigation: "There's Nothing There"
-*   Top House Democrats Say Trump May Face Impeachment, Jail
-*   Trump Will Nominate William Barr as Attorney General
+*   In Heated Clash, Trump Debates Pelosi and Schumer on Border Wall
+*   Facing Pressure, McConnell Agrees to Criminal Justice Vote
+*   Full Video of Oval Office Meeting on Border Security, Funding
+*   A Rancorous First Glimpse of New Trump-Dem Dynamic
+*   Trump Administration Proposes Major Rollback of Water Regulations
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalCNN
-    *   Approve40
-    *   Disapprove53Disapprove +13
-*   President Trump Job ApprovalGallup
-    *   Approve40
-    *   Disapprove56Disapprove +16
-*   Direction of CountryRasmussen Reports
-    *   Right Direction43
-    *   Wrong Track51Wrong Track +8
-*   President Trump Job ApprovalNPR/PBS/Marist
+*   President Trump Job ApprovalFOX News
+    *   Approve46
+    *   Disapprove52Disapprove +6
+*   President Trump Job ApprovalEmerson
     *   Approve43
-    *   Disapprove49Disapprove +6
+    *   Disapprove47Disapprove +4
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve43
+    *   Disapprove54Disapprove +11
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve43
+    *   Disapprove52Disapprove +9
 
 More Latest Polls In The News
 
-*   Pelosi: President Trump Does Not Have The Votes To Pay For His Wall
-*   Incoming Dem Caucus Chair Hakeem Jeffries: Trump "Conducts Himself Like An Organized Crime Boss"
-*   Meadows: Whistleblowers Allege FBI Investigating Pay For Play, Quid Pro Quo At Clinton Foundation
-*   Van Hollen: Comey Is "Scared To Death" Trump Is Taking A "Wrecking Ball" To The Justice Department
-*   Dershowitz: Media &. Dems Would Scream Witch Hunt If Clinton Paid Off Paula Jones And Was Investigated
+*   Dem Rep. Lieu: "I Would Love To" Regulate Content Of Speech, But It's Better In The Long Run Not To
+*   Schumer Responds To Trump's "Temper Tantrum" In Oval Office: Holding Gov't "Hostage" For "Petty" Wall
+*   Sanders: "Absurd And Disgraceful" To Have A President Who Wants To Shut Down Government
+*   Jim Jordan Grills Google CEO On Effort To Turn Out Latino Vote In "Key States" In 2016
+*   Trump Debates Pelosi and Schumer On Border Wall, Government Shutdown: I Will Take The Blame
 
 *   Politics
 *   Policy
