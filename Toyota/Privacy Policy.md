@@ -347,11 +347,7 @@ Cars
     
 *   Corolla  
     
-*   Corolla iM  
-    
 *   Yaris  
-    
-*   Yaris iA  
     
 
 Minivan
