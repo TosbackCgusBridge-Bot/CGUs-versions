@@ -219,7 +219,7 @@ Reach real people, see big results.
 *   Realize your revenue potential: **$15B+ annually**
 *   Reach more global customers: **930M+ monthly**
 *   Engage in more meaningful interactions: **13B+ annually**
-*   Experience **30% revenue growth**in first year
+*   Experience **30% revenue growth** in first year
 *   See an **average of 17% YOY growth**
 
 Go to CJ Affiliate
