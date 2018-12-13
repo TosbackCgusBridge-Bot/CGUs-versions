@@ -11,7 +11,7 @@ Lexus.com
 *   L/Certified
 *   Find a Dealer
 
-Search MENU **IS**
+Close MENU **IS**
 
 *   Starting at $38,3101\*
 *   2.0L I-4 or 3.5L V6
