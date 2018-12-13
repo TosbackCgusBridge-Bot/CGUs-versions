@@ -43,20 +43,20 @@ $2.94
 
 Change
 
- + 0.05
+0.00
 
 Percent Change
 
  (0.00%)
 
-12/11/184:00 p.m. ET  
+12/12/184:00 p.m. ET  
 Data provided by Nasdaq. Minimum 15 minutes delayed.view details  
-Recent News11/20/18Office Depot Reveals Cyber Week Savings Available Online, In-Store and on the Office Depot App  
+Recent News12/12/18Office Depot Becomes Installation Partner for Google and Nest Smart Devices  
 view more
 
 Recent News
 
-11/20/18Office Depot Reveals Cyber Week Savings Available Online, In-Store and on the Office Depot App  
+12/12/18Office Depot Becomes Installation Partner for Google and Nest Smart Devices  
 view moreEvents11/07/18Q3 2018 Office Depot Inc. Earnings Webcast  
 view more
 
