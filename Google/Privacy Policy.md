@@ -1,4 +1,4 @@
-Privacybeleid van Google
+Privacybeleid van GoogleOp 22 januari 2019 wordt een geüpdatete versie van ons Privacybeleid van kracht.
 
 Wanneer u onze services gebruikt, vertrouwt u ons uw gegevens toe. We begrijpen dat dit een grote verantwoordelijkheid is en werken er hard aan om uw gegevens te beschermen en u er de controle over te geven.
 
