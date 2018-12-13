@@ -71,7 +71,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Scott Derrickson to Direct ‘Doctor Strange’ Sequel. Here’s Everything We Know Read More
     *   We Are the Pets in Second ‘Godzilla: King of the Monsters’ Trailer. Here’s Everything We Know Read More
-    *   'The Favourite' and 'Black Panther' Lead Critics' Choice Nominations Read More
+    *   'A Star Is Born' Leads Screen Actors Guild Award Nominations Read More
     
     Explore Content
     *   Movie Reviews
