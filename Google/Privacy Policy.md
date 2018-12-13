@@ -1,4 +1,4 @@
-Política de Privacidade do Google
+Política de Privacidade do GoogleUma versão atualizada da nossa Política de Privacidade entrará em vigor em 22 de janeiro de 2019.
 
 Quando você usa nossos serviços, está confiando a nós suas informações. Entendemos que isso é uma grande responsabilidade e trabalhamos duro para proteger essas informações e colocar você no controle.
 
