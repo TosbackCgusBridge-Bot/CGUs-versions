@@ -1,6 +1,6 @@
-Toggle navigation Post Advertise Log in
+Toggle navigation **Post** **Advertise** Log in
 
-*   Wed, Dec 12
+*   Thu, Dec 13
 
 *   Post
 *   Advertise
