@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Tricks for keeping a tidy Git commit history ›
+*   Secure VPN Connection with Ubuntu Core ›
 *   Canonical announces support for Kubernetes 1.13 on Ubuntu ›
 *   Using GPGPUs with Kubernetes ›
 *   Fresh Snaps from November 2018 ›
-*   How to harness big data for maximum business value ›
-*   Canonical and Dell EMC provide certified, production-ready Kubernetes solution ›
