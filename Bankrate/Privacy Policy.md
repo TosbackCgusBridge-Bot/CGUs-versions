@@ -413,6 +413,7 @@ California privacy rights requests must include the reference “Request for Cal
 *   Understand Bankrate's Averages
 *   Privacy Policy / Your California Privacy Rights
 *   Terms of Use
+*   GLBA Annual Notice
 *   Licenses
 *   Sitemap
 
