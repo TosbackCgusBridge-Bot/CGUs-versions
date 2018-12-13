@@ -1,4 +1,4 @@
-Google-Datenschutzerklärung
+Google-DatenschutzerklärungAm 22. Januar 2019 tritt eine aktualisierte Version unserer Datenschutzerklärung in Kraft.
 
 Wenn Sie unsere Dienste nutzen, vertrauen Sie uns Ihre Daten an. Wir sind uns bewusst, dass dies eine große Verantwortung ist und setzen alles daran, Ihre Daten zu schützen und zu gewährleisten, dass Sie die Kontrolle darüber behalten.
 
