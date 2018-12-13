@@ -272,12 +272,12 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**Buy a $50 Gift Card get a FREE $10 Cash Card! SHOP NOW**
+**Buy a $50 Gift Card get a FREE $10 Cash Card! SHOP NOW** **Up to $25 Off $100 SHOP GIRLS SHOP GUYS**
 
 *   Select Country
 *   My Account My Account Login Register
 
-FREE SHIPPING + EXTRA 20% OFF ORDERS OF $50 OR MORE Menu Find a Store Aeropostale
+8 DAYS LEFT FOR FREE DELIVERY BEFORE CHRISTMAS ($50 MIN) Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -503,7 +503,7 @@ FREE SHIPPING + EXTRA 20% OFF ORDERS OF $50 OR MORE Menu Find a Store Aeropostal
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
+ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Get In Store Coupon Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
 
 Previous*   Gifts Under $20 Starting at $8.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
@@ -517,7 +517,8 @@ Previous*   Gifts Under $20 Starting at $8.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
 Next
 
-Shop Favorites For Her Shop Favorites For Him Hoodies + Sweatshirts Our super-soft fleece makes the perfect gift for anyone who wants to look cool and keep warm. So...everyone on your list In Stores &. Online $11.87 &. Up Shop Girls Hoodies Shop Guys Hoodies Shop Girls Long Sleeve Shop Guys Long Sleeve Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Shop Gift Cards Visit the Help Desk <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+Shop Favorites For Her Shop Favorites For Him Hoodies + Sweatshirts Our super-soft fleece makes the perfect gift for anyone who wants to look cool and keep warm. So...everyone on your list In Stores &. Online $11.87 &. Up Shop Girls Hoodies Shop Guys Hoodies Long Sleeve In Stores &. Online $8 &. Up Shop Girls Long Sleeve Shop Guys Long Sleeve Aero Jeans 18 fits and 81 washes mean more chances  
+to find your perfect denim this season. In Stores &. Online $15.87 &. Up Shop Girls Jeans Shop Guys Jeans Jackets + Vests With jackets and vests in light, medium, or heavy weight, we've got outerwear for everyone on your gift list. In Stores &. Online $13.87 &. Up Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Shop Gift Cards Visit the Help Desk <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions Details FOLLOW US Customer Care
 
 *   Order Status
@@ -556,3 +557,17 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
