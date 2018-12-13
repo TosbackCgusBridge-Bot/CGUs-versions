@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
+*   Gender
+*   Walkout
 *   Lamborghini
-*   Rene Martinez
-*   Adoption
-*   Nativity
-*   Pedophilia
+*   Fraud
+*   Proving Christianity
 
 About Us
 
