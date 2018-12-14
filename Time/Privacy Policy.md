@@ -124,10 +124,11 @@ How to Contact Us
 
 If you have any questions or concerns about the Time Inc . Privacy Policy or its implementation please contact us via email by clicking here or by writing to:
 
-Time Customer Service  
-Attention: Consumer Affairs  
-3000 University Center Drive  
-Tampa, Florida 33612-6408
+Meredith Corporation  
+1716 Locust Street  
+Des Moines, Iowa 50309  
+Email: privacy@meredith.com  
+1-515-284-3000
 
 back to top
 
