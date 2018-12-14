@@ -989,9 +989,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-60% off full-price pants. 50% off all other full-price styles
+Receive 50% off your order!
 
-code: HAZELNUT pin: 2264 DETAILS
+code: COCOA pin: 2654 DETAILS
 
 Customer Service Menu
 
