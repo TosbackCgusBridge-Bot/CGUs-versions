@@ -109,6 +109,42 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Bill Zeiser_: An Impending Loss in the Fact-Checking Family?
+    
+*   _Helaine Olen_: Pelosi Is the Heroine the Resistance to Trump Needs
+    
+*   _John Kass_: Schumer, Pelosi and the Party of No Border Security
+    
+*   _William Saletan_: Trump Won't Win a Shutdown Over the Border Wall
+    
+*   _Karl Vick_: Jamal Khashoggi, the Guardians and the War on Truth
+    
+*   _John Bradley_: Calling Khashoggi a Truth Teller Insults Real Journalists
+    
+*   _Jerry Weinberger_: Green Madness
+    
+*   _Andrew Freedman_: Global Warming Brings Unprecedented Changes to Arctic
+    
+*   _Johnson &. Taylor_: Due Process: It's Not Just for Brett Kavanaugh
+    
+*   _Peter Beinart_: Trump &. the New Authoritarians Are Waging War on Women
+    
+*   _Kristan Hawkins_: All I Want for Christmas Is Planned Parenthood Defunded
+    
+*   _Louise Melling_: Will Supreme Court Overturn Roe v. Wade After All?
+    
+*   _Conrad Black_: Mueller's Collusion Hoax Collapses
+    
+*   _Renato Mariotti_: Did Trump Just Move Closer to Unindicted Co-Conspirator?
+    
+*   _Dan Backer_: No, Trump Did Not Violate Campaign Finance Law
+    
+*   _Kalev Leetaru_: Fact-Checkers' Choice: To Be Literal or Contextual?
+    
+*   _Steven Petrow_: LGBT Missteps by Murray, Hart Are a Teachable Moment
+    
+*   _Ellie Bufkin_: 18 Top Comedians Who Can Never Host the Oscars Now
+    
 *   _Tyler Cowen_: Macron Just Doesn't Get It
     
 *   _Tom Rogan_: Why the Strasbourg Attack Is a Bigger Deal Than You Think
@@ -120,42 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Carl Leubsdorf_: Pelosi Shows Why Dems Need Her as Speaker
     
 *   _Hans von Spakovsky_: Cohen Didn't Commit a Crime (&. Neither Did Trump)
-    
-*   _Julian Zelizer_: The Tough Choice Facing Democrats on Impeachment
-    
-*   _Scott Jennings_: The Democrats' Impeachment Flimflam
-    
-*   _Emily Atkin_: Have Democrats Reached a Tipping Point on Climate Change?
-    
-*   _Jenny Beth Martin_: Leave New IRS Free Speech Rule in Place
-    
-*   _Ariel Levy_: Julia Louis-Dreyfus Acts Out
-    
-*   _Tammy Bruce_: How the Liberal Morality Police Ruin Lives
-    
-*   _Betsy McCaughey_: What's 'Immoral' About Caring for America's Poor First?
-    
-*   _Michelle Cottle_: The Chuck and Nancy and Donald Show
-    
-*   _Matt Lewis_: Why Trump Won the Chuck-n-Nancy Meeting Showdown
-    
-*   _Zigor Aldama_: Former WTO Head: Trump Will Achieve Nothing With Tariffs
-    
-*   _K.S. Bruce_: Trump's China Trade War Is Not About Trade
-    
-*   _Jonathan Freedland_: Now Is Not the Time for a Pointless Tory Feud
-    
-*   _Warren Henry_: Macron's Malaise Speech
-    
-*   _Kalev Leetaru_: As French Protests Grow, Media's Climate Focus Shrinks
-    
-*   _Bryant Harris_: Congress Seeks to Condemn MBS for Journalist's Death
-    
-*   _Cliff May_: Punishing Saudi Prince Rewards Iranian Mullahs
-    
-*   _Robert Kuttner_: Donald Trump and Robert Mueller: The End Game
-    
-*   _Daniel McCarthy_: The Case for Trump Is Stronger Than Ever
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   In Heated Clash, Trump Debates Pelosi and Schumer on Border Wall
-*   Facing Pressure, McConnell Agrees to Criminal Justice Vote
-*   Full Video of Oval Office Meeting on Border Security, Funding
+*   Trump, Democrats Dig In for Fight Over Border-Wall Funding
 *   A Rancorous First Glimpse of New Trump-Dem Dynamic
-*   Trump Administration Proposes Major Rollback of Water Regulations
+*   Schumer Slams Trump "Temper Tantrum" Over "Petty" Border Wall
+*   Trump's China Trade War Is Not About Trade
+*   Facing Pressure, McConnell Agrees to Criminal Justice Vote
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -249,20 +249,20 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalEmerson
     *   Approve43
     *   Disapprove47Disapprove +4
+*   Congressional Job ApprovalCNN
+    *   Approve19
+    *   Disapprove71Disapprove +52
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve43
     *   Disapprove54Disapprove +11
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve43
-    *   Disapprove52Disapprove +9
 
 More Latest Polls In The News
 
+*   CNN's Cuomo vs. Kellyanne Conway: If I Have To, I Will Call You A Liar. Viewers Think I'm "Too Balanced"
+*   Trump: Cohen Made A Deal To "Embarrass" Me, Reduce Prison Sentence. "He Was OK on Television"
+*   Schumer: If Mexico Is Going To Pay For The Wall, We Don't Have To. "Let's Fund The Government"
 *   Dem Rep. Lieu: "I Would Love To" Regulate Content Of Speech, But It's Better In The Long Run Not To
-*   Schumer Responds To Trump's "Temper Tantrum" In Oval Office: Holding Gov't "Hostage" For "Petty" Wall
 *   Sanders: "Absurd And Disgraceful" To Have A President Who Wants To Shut Down Government
-*   Jim Jordan Grills Google CEO On Effort To Turn Out Latino Vote In "Key States" In 2016
-*   Trump Debates Pelosi and Schumer On Border Wall, Government Shutdown: I Will Take The Blame
 
 *   Politics
 *   Policy
