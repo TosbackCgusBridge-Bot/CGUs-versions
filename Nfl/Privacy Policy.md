@@ -1,4 +1,4 @@
-*   LAC10-3KC11-2Thu, 8:20 pm ET
+*   LAC11-329KC11-328Final
 *   HOU9-4NYJ4-9Sat, 4:30 pm ET
 *   CLE5-7-1DEN6-7Sat, 8:20 pm ET
 *   ARI3-10ATL4-9Sun, 1:00 pm ET
@@ -32,7 +32,7 @@
 *   NFL Network
 *   Photos
 
-*   LAC10-3KC11-2Thu, 8:20 pm ET
+*   LAC29KC28Final
 *   HOU9-4NYJ4-9Sat, 4:30 pm ET
 *   CLE5-7-1DEN6-7Sat, 8:20 pm ET
 *   ARI3-10ATL4-9Sun, 1:00 pm ET
