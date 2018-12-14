@@ -329,9 +329,9 @@ Offers
     
     Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
-*   'Fantastic Beasts: The Crimes of Grindelwald' Gift with Purchase
+*   It’s the Holiday Daily Giveaway &. Movie Sweeps!
     
-    Own all of your Wizarding World favorites for $5.99 each with ticket purchase. BUY TICKETS
+    Daily Prize: $25 gift card (5 winners/day) Grand prize: A year of movies! BUY NOW
     
 
 New + Coming soon
