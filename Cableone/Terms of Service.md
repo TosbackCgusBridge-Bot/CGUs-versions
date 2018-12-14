@@ -123,7 +123,7 @@ Excessive use means bandwidth or data usage that is significantly higher than ty
 
 In order to ensure an optimized Internet experience for all customers, data plans have been assigned to many Internet services plans:
 
-Plan name Data limit Lite Plan 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 600GB Data Plan Streamer &. Gamer Plan 900GB Data Plan Roommate Plan 1200GB Data Plan Power Home Plan 1500GB Data Plan\* GigaONE ® 1500GB Data Plan\*
+Plan name Data limit Lite Plan 100GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 600GB Data Plan Streamer &. Gamer Plan 900GB Data Plan Roommate Plan 1200GB Data Plan Power Home Plan 1500GB Data Plan\* GigaONE ® 1500GB Data Plan\*
 
 \* Names, speeds, and data plans are subject to change
 
@@ -151,7 +151,7 @@ Biloxi, Gulport, Pascagoula, MS customers sold "Plus" plans after 7/15/18
 
 Customers on plus plans in these two communities have designated data plans assigned to the levels of service subscribed. Customer who exceed their data plans are automatically provided with an additional 100GB block of data to be used during their data period, at an additional cost. A maximum charge of 5 blocks of 100GB of data will be provided per data period. Additional Data Block Details
 
-Plan name Data limit Lite Plan Plus 50GB Data Plan Starter Plan Plus 300GB Data Plan Streamer &. Gamer Plus 600GB Data Plan Turbo Plan Plus 900GB Data Plan GigaONE ® Plus 1200GB Data Plan
+Plan name Data limit Lite Plan Plus 100GB Data Plan Starter Plan Plus 300GB Data Plan Streamer &. Gamer Plus 600GB Data Plan Turbo Plan Plus 900GB Data Plan GigaONE ® Plus 1200GB Data Plan
 
 \* Names, speeds, and data plans are subject to change
 
