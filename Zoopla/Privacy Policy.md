@@ -6,6 +6,8 @@ This policy explains how we use any personal information that you provide to us 
 
 For the purposes of data protection law, the controller is Zoopla Limited of The Cooperage, 5 Copper Row, London SE1 2LH. Zoopla is part of the ZPG Limited group of companies, comprising ZPG Limited and its subsidiaries (the “**ZPG Companies**”).
 
+Our Data Protection Officer is Michael Haynes. You can contact him at dpo@zpg.co.uk or via our postal address below. Please mark the envelope 'Data Protection Officer'.
+
 Information we collect from you
 
 We may collect and process the following information about you:
@@ -107,7 +109,7 @@ Where you have a password to enable you to access some parts of our websites or 
 
 Unfortunately, transmission of information over the internet is not completely secure. We will do our best to protect your personal information, but we cannot guarantee its security and any transmission is at your own risk. Once we have received your personal information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-We keep your personal information for as long as is necessary for the purposes for which it is processed. These periods vary depending on the nature of the information and your interactions with us. If you would like to delete your MyZoopla account, please contact us using the details below.
+We keep your personal information for as long as is necessary for the purposes for which it is processed. These periods vary depending on the nature of the information and your interactions with us. If you would like us to delete your MyZoopla account, please contact us by emailing support@zoopla.co.uk.
 
 Cookies
 
@@ -133,12 +135,12 @@ Contact us
 
 If you have questions about this privacy policy or the way in which Zoopla processes your personal information, you can contact us using the details below:
 
-Post: Data Protection Manager, Zoopla Limited, The Cooperage, 5 Copper Row, London SE1 2LH
+Post: Data Protection Officer, Zoopla Limited, The Cooperage, 5 Copper Row, London SE1 2LH
 
 Email: privacy@zoopla.co.uk
 
 We hope that we will be able to resolve any questions or concerns you have. However, you may at any time raise your concern with the UK Information Commissioner at:
 
-Post: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+Post: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
 
 **Last updated:** 9 May 2018
