@@ -48,7 +48,7 @@ Download Ubuntu ›
 
 Further reading
 
-*   Tricks for keeping a tidy Git commit history ›
+*   How to manage your Git history: Tips for keeping your commits tidy ›
 *   Secure VPN Connection with Ubuntu Core ›
 *   Canonical announces support for Kubernetes 1.13 on Ubuntu ›
 *   Using GPGPUs with Kubernetes ›
