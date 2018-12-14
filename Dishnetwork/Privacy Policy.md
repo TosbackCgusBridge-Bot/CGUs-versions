@@ -1,4 +1,4 @@
-**Your web browser (Firefox 54) is out of date.** Update your browser for more security, speed and the best experience on this site. Update browser Ignore <iframe src="//www.googletagmanager.com/ns.html?id=GTM-G83D&#038;noscript=true" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to Accessibility Content
+**Your web browser (Firefox 54) is out of date.** Update your browser for more security, speed and the best experience on this site. Update browser Ignore <iframe src="//www.googletagmanager.com/ns.html?id=GTM-G83D&#038;noscript=true" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to Accessibility Content Skip to Content
 
 *   **CURRENT CUSTOMERS:**
 *   Visit MyDish
@@ -12,6 +12,7 @@
 *   Find a Retailer
 *   Watch DISH Anywhere
 
+*   Search
 *   VALUE
     
     America’s Top 120  
@@ -24,9 +25,6 @@
     Free Voice Remote
     
       
-    
-    **Call Now**  
-    1-888-434-0112
     
     New customers only. All offers require 2-year commitment with early termination fee and eAutopay.  
     Terms and Conditions
@@ -193,9 +191,9 @@
         
         The Hopper DVR is all you need. You get all the benefits of our hard work without lifting a finger, literally in the case of our Voice Remote.
         
-    *   Hopper3 ™ DVR
+    *   Hopper3™ DVR
         
-        Love TV? Experience the Hopper 3 ™
+        Love TV? Experience the Hopper 3™
         
         Discover a DVR above the rest, with the ability to watch and record up to 16 shows at once, the power to turn any TV into a smart TV, and much more.
         
@@ -224,7 +222,7 @@
         
         Only Dish + Amazon Alexa gives you the best hands-free entertainment experience
         
-    *   DISH Anywhere ®
+    *   DISH Anywhere®
         
         All Your TV From Home, Anywhere You Go
         
@@ -255,7 +253,7 @@
     
 *   SERVICE
     
-    Ranked #1 in Customer Satisfaction by ACSI
+    Rated #1 in Customer Satisfaction by ACSI
     
     Learn More >.
     
@@ -281,13 +279,19 @@
         
         24/7 Customer Service
         
-        DISH has been ranked #1 in call center satisfaction since 2010 and we have agents standing by 24/7 to help with technical issues so nothing interferes with your TV experience.
+        DISH has been rated #1 in call center satisfaction since 2010 and we have agents standing by 24/7 to help with technical issues so nothing interferes with your TV experience.
         
     *   Available Nationwide
         
         Nationwide Availability
         
         It can be hard to figure out what TV options you have in your area. DISH makes it easy. we are available anywhere you are.
+        
+    *   Award-Winning Service
+        
+        Award-Winning Service
+        
+        DISH has been rated #1 in Customer Satisfaction, #1 in Signal Reliability and the Best Value by the American Customer Satisfaction Index.
         
 *   COMPARE
     
@@ -354,11 +358,16 @@
     *   Support
 *   Find a Retailer
 
-*   OFFERS
-*   Call DISH 1-888-434-0112
+*   Build My Offer
+*   1-888-434-0112
 *   CHAT
 
-Get 190 channels for $59.99 with a Smart DVR Included + Free Voice Remote Get DISH Sign Up To Stay Updated On Our Best Offers Sign Up
+Search*   Menu
+
+LIMITED TIME
+
+Control TV with Your Voice. Get DISH and Get a FREE Google Home Mini. Get a FREE  
+Google Home Mini. Sign Up To Stay Updated On Our Best Offers Your Email Address Sign Up
 
 “DISH has consistently  
 great service, and they  
@@ -408,7 +417,7 @@ Back to Homepage
 
 DISH Cares connects our team with opportunities in local communities to make a difference for those who need it most.
 
-Ranked #1 in Customer Satisfaction
+Rated #1 in Customer Satisfaction
 
 24/7 Customer Support 99% Signal Quality Available Anywhere
 
@@ -418,7 +427,7 @@ Stay in touch with DISH. Be sure to follow us on social media to get the latest 
 
 Get updates from DISH.
 
-  
+Your Email Address  
 Sign Up POPULAR LINKS
 
 *   Packages
@@ -491,14 +500,12 @@ DISH RESOURCES
 *   Investor Relations
 *   Service Agreements
 *   Terms &. Conditions
-*   Locations
 *   Accessibility
 *   DISH Affiliate Program
 *   Alliance Group
 *   Availability
 *   Media Sales
 *   Supplier Resources
-*   Retailer Door to Door Sales
 *   DISH Online Public File
 
 © 2018, DISH Network L.L.C. All rights reserved.
