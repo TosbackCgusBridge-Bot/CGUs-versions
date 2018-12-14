@@ -8,13 +8,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Last-Minute Gifts for Kids Up to 75% Off
-    *   Dream Gifts: Free Press &. Shimera
+    *   J.Crew
+    *   Dolce Vita Up to 60% Off
+    *   Furla Handbags &. More
+    *   Adelyn Rae
+    *   Men's Premium Denim Shop
+    *   Fleece Active Jackets &. More
+    *   Cardi Party: Styles Under $30
+    *   Born Up to 50% Off
+    *   Gemstone Jewelry: Diamonds, Tourmaline &. More
+    *   PYT Beauty
+    *   Free Shipping: Fashion-Forward Wall Art &. More
+    *   Winter Wonders: Chic Blouses Under $35
+    *   Vicenzo Leather
+    *   Freida Rothman Jewelry
+    *   Soul Star Up to 60% Off
+    *   Men's Shoes from Born &. Rockport
+    *   Aldo Men
+    *   Sparkle &. Shine: Lelli Kelly Shoes
+    *   Molly Bracken
+    *   Nikiani Baby Gear
+    *   Cool Gifts: RCA Mini Fridges
+    *   Swig Life Tumblers &. More
     *   Ready for Santa: Quirky Christmas Styles &. More
-    *   UGG Men
-    *   MOTHER
+    *   Dream Gifts: Free Press &. Shimera
     *   Last-Minute Gifts for Men Up to 75% Off
+    *   Last-Minute Gifts for Kids Up to 75% Off
+    
     *   Koolaburra by UGG for Women &. Kids
+    *   MOTHER
     *   Hobo Handbags
     *   Dogeared Jewelry Up to 55% Off
     *   Cashmere from Portolano &. More
@@ -33,76 +55,58 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Fine Art
     *   Free Shipping: Modern Accent Furniture &. More
     *   Free Shipping: On-Trend Decor
-    *   1.State
     *   Free Shipping: Boldly Colorful Wall Art
     *   Free Shipping: Wi-Fi Gadgets &. More
     *   Free Shipping: Velvet Accent Furniture &. More
-    
     *   Free Shipping: Pet Beds &. Covers for Every Home
-    *   MICHELE Watches
-    *   FitFlop
-    *   Joe Fresh Including Plus
-    *   Wolford
     *   JOE'S Jeans Men Under $100
-    *   Love Tree: Teddy Coats &. More
-    *   Fit for 2019: Activewear Starting at $13
-    *   Winter Glam: Dresses &. Jumpsuits Under $60
     *   Tahitian Pearl Jewelry &. More Under $80
-    *   On-Trend Shoes: NANETTE nanette lepore &. JAGGAR
-    *   Solid &. Striped Swim
+    
     *   ghd: good hair day, every day
     *   Fab Looks for Little Fashionistas: Imoga
-    *   Gifts for the Traveler Starting at $7
     *   Giorgio Brutini
     *   Michou Gemstone &. Sterling Silver Jewelry
-    *   Italian Handbag Collection
-    *   Lola Ramona Bags &. Shoes Up to 50% Off
     *   Everly Grey Maternity
     *   Glamourmom Nursing Tanks &. More
     *   RuffleButts &. RuggedButts Swim
-    *   Little Me
     *   Kids' Holiday Closet
     *   Natural Blue Up to 75% Off
     *   Revivogen Solutions for Thicker, Healthier Hair
-    *   kate spade new york Clothing
-    *   kate spade new york Coats
-    *   kate spade new york Shoes
-    
-    *   kate spade new york Home
-    *   kate spade new york Girls
-    *   kate spade new york Accessories
     *   Eton Tailored Clothing
-    *   Frenchie Mini Couture
-    *   Stocking Stuffers: Kids' Toys Starting at $6
-    *   Cool Kids' Kicks from Naturino
     *   James Tattersall Up to 75% Off
     *   For the Outdoorsman: Boots Starting at $25
     *   Treat Him: Men's Skin Care, Cologne &. More
     *   LED Lighting &. More Starting at $10
     *   Elite Kitchen Electrics
     *   Quirky Kitchen Towels
-    *   Men's Shoe Steals Up to 70% Off
-    *   Theory Men
-    *   Holiday Gifts ft. Brouk &. Co
     *   Le Creuset
     *   Weatherproof Up to 60% Off
+    *   Ready to Party: Faux Fur, Animal Prints &. More
     *   Free Shipping: Luxe Faux Fur Accents
-    *   bareMinerals Starting at $10
     *   Free Shipping: Farmhouse Decor
     *   Amrapur Bedding Up to 70% Off
     *   Free Shipping: Hand-Painted Replicas
-    *   Fuzzy Pillows &. Throws
-    *   Andrew Marc Shoes Up to 70% Off
-    *   kate spade new york
-    *   kate spade new york Jewelry &. Watches
-    *   Ready to Party: Faux Fur, Animal Prints &. More
 *   WomenShop Sale Events
     
-    *   Dream Gifts: Free Press &. Shimera
+    *   J.Crew
+    *   Dolce Vita Up to 60% Off
+    *   Furla Handbags &. More
+    *   Adelyn Rae
+    *   Fleece Active Jackets &. More
+    *   Cardi Party: Styles Under $30
+    *   Born Up to 50% Off
+    *   Gemstone Jewelry: Diamonds, Tourmaline &. More
+    *   PYT Beauty
+    *   Winter Wonders: Chic Blouses Under $35
+    *   Vicenzo Leather
+    *   Freida Rothman Jewelry
+    *   Molly Bracken
     *   Ready for Santa: Quirky Christmas Styles &. More
-    *   MOTHER
+    *   Dream Gifts: Free Press &. Shimera
     *   Koolaburra by UGG for Women &. Kids
+    *   MOTHER
     *   Hobo Handbags
+    
     *   Dogeared Jewelry Up to 55% Off
     *   Cashmere from Portolano &. More
     *   Spense
@@ -113,99 +117,72 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Winter Layers: Cold-Weather Accessories
     *   Sapanyu Layered Multicolor Gemstone Jewelry
     *   LAFCO New York
-    *   1.State
-    *   MICHELE Watches
-    *   FitFlop
-    *   Joe Fresh Including Plus
-    *   Wolford
-    *   Love Tree: Teddy Coats &. More
-    
-    *   Fit for 2019: Activewear Starting at $13
-    *   Winter Glam: Dresses &. Jumpsuits Under $60
     *   Tahitian Pearl Jewelry &. More Under $80
-    *   On-Trend Shoes: NANETTE nanette lepore &. JAGGAR
-    *   Solid &. Striped Swim
     *   ghd: good hair day, every day
-    *   Gifts for the Traveler Starting at $7
     *   Michou Gemstone &. Sterling Silver Jewelry
-    *   Italian Handbag Collection
-    *   Lola Ramona Bags &. Shoes Up to 50% Off
     *   Everly Grey Maternity
     *   Glamourmom Nursing Tanks &. More
     *   Revivogen Solutions for Thicker, Healthier Hair
-    *   kate spade new york Clothing
-    *   kate spade new york Coats
-    *   kate spade new york Shoes
-    *   kate spade new york Accessories
-    *   bareMinerals Starting at $10
-    *   kate spade new york
-    *   kate spade new york Jewelry &. Watches
     *   Ready to Party: Faux Fur, Animal Prints &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Lingerie
+    *   Handbags
     *   Jewelry
     *   Accessories
-    *   Watches
     *   Tech Accessories
 *   MenShop Sale Events
     
-    *   UGG Men
+    *   Men's Premium Denim Shop
+    *   Soul Star Up to 60% Off
+    *   Men's Shoes from Born &. Rockport
+    *   Aldo Men
     *   Last-Minute Gifts for Men Up to 75% Off
     *   Bespoke Up to 80% Off
     *   Perry Ellis Men Under $100
     *   JOE'S Jeans Men Under $100
-    *   Gifts for the Traveler Starting at $7
+    
     *   Giorgio Brutini
     *   Natural Blue Up to 75% Off
     *   Eton Tailored Clothing
-    
     *   James Tattersall Up to 75% Off
     *   For the Outdoorsman: Boots Starting at $25
     *   Treat Him: Men's Skin Care, Cologne &. More
-    *   Men's Shoe Steals Up to 70% Off
-    *   Theory Men
-    *   Holiday Gifts ft. Brouk &. Co
     *   Weatherproof Up to 60% Off
-    *   Andrew Marc Shoes Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Sparkle &. Shine: Lelli Kelly Shoes
+    *   Nikiani Baby Gear
     *   Last-Minute Gifts for Kids Up to 75% Off
     *   Joe-Ella Up to 75% Off
     *   Fab Looks for Little Fashionistas: Imoga
     *   Everly Grey Maternity
     *   Glamourmom Nursing Tanks &. More
     *   RuffleButts &. RuggedButts Swim
-    
-    *   Little Me
     *   Kids' Holiday Closet
-    *   kate spade new york Girls
-    *   Frenchie Mini Couture
-    *   Stocking Stuffers: Kids' Toys Starting at $6
-    *   Cool Kids' Kicks from Naturino
     
     Shop By Category
-    *   Girls' Shoes
     *   Girls Sizes 2T-6X
-    *   Baby Girl
+    *   Girls' Shoes
     *   Girls Sizes 7-16
-    *   Boys' Shoes
-    *   Baby Boy
     *   Boys Sizes 2T-7
+    *   Baby Girl
+    *   Baby Boy
     *   Boys Sizes 8-20
-    *   Toys
+    *   Boys' Shoes
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Fashion-Forward Wall Art &. More
+    *   Cool Gifts: RCA Mini Fridges
+    *   Swig Life Tumblers &. More
     *   Free Shipping: Rugs Under $250
     *   Free Shipping: Fine Art
     *   Free Shipping: Modern Accent Furniture &. More
@@ -213,9 +190,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Boldly Colorful Wall Art
     *   Free Shipping: Wi-Fi Gadgets &. More
     *   Free Shipping: Velvet Accent Furniture &. More
-    *   Free Shipping: Pet Beds &. Covers for Every Home
-    *   kate spade new york Home
     
+    *   Free Shipping: Pet Beds &. Covers for Every Home
     *   LED Lighting &. More Starting at $10
     *   Elite Kitchen Electrics
     *   Quirky Kitchen Towels
@@ -224,27 +200,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Farmhouse Decor
     *   Amrapur Bedding Up to 70% Off
     *   Free Shipping: Hand-Painted Replicas
-    *   Fuzzy Pillows &. Throws
     
     Shop By Category
-    *   Home Decor
-    *   Luggage &. Travel
     *   Kitchen &. Tabletop
-    *   Holiday Decorations
+    *   Home Decor
     *   Bedding
-    *   Storage &. Organization
+    *   Luggage &. Travel
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   PYT Beauty
     *   Algenist Skin Care
     *   LAFCO New York
     *   ghd: good hair day, every day
     *   Revivogen Solutions for Thicker, Healthier Hair
     *   Treat Him: Men's Skin Care, Cologne &. More
-    *   bareMinerals Starting at $10
     
     Shop By Category
-    *   Makeup
     *   Bath &. Body
     *   Skin Care
     *   Fragrance
