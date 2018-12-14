@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Gender
-*   Walkout
-*   Lamborghini
-*   Fraud
-*   Proving Christianity
+*   Adoptive Church
+*   LGBT compromise
+*   Donnie McClurkin
+*   Sex abuse
+*   Former atheist
 
 About Us
 
