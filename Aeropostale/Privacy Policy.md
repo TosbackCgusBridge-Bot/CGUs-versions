@@ -278,7 +278,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Select Country
 *   My Account My Account Login Register
 
-7 DAYS LEFT FOR FREE DELIVERY BEFORE CHRISTMAS ($50 MIN) Menu Find a Store Aeropostale
+6 DAYS LEFT FOR FREE DELIVERY BEFORE CHRISTMAS ($50 MIN) Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -505,7 +505,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping on Orders over $50 Shop Girls Shop Guys Get In Store Coupon Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
+ON ORDERS OVER $50 Search Catalog Search GET IT THERE BY CHRISTMAS! Order by December 19, 11:59 PM EST For Economy Ground Cutoff Shop Girls Shop Guys Get In Store Coupon Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
 
 Previous*   Gifts Under $20 Starting at $8.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
