@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   14\. Dezember 2018
+*   15\. Dezember 2018
 *   Abo
 *   TV-Programmǀ
-*   DAX 10.924,70ǀ
+*   DAX 10.865,77ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -371,6 +371,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-BESbswyBESbswyBESbswy
