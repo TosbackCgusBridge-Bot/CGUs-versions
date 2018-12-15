@@ -1,7 +1,7 @@
 Skip to navigation Skip to main content Login Register Menu Close
 
 *   NewsOpen Submenu
-    *   News BackCybercrime
+    *   News Back
         
         *   **Cybercrime**
             *   Data Breaches
@@ -12,8 +12,6 @@ Skip to navigation Skip to main content Login Register Menu Close
             *   Insider Threats
             *   APTs/Cyberespionage
             *   Executive Insight
-        
-        Network Security
         
         *   **Network Security**
             *   Mobile Security
