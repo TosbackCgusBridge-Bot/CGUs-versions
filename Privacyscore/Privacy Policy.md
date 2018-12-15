@@ -42,7 +42,6 @@ OK Log in to AVG MyAccount Blog MENU Skip to content
 *   Services
     *   Services
     *   Premium Tech Support
-    *   Remote Virus Removal
     *   Express Install
 *   Support
     *   Support
