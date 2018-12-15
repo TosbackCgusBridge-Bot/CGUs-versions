@@ -989,9 +989,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off your order!
+Receive 50% off your order + FREE SHIPPING on orders over $50!
 
-code: COCOA pin: 2654 DETAILS
+code: PECAN pin: 2643 DETAILS
 
 Customer Service Menu
 
