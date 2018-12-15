@@ -24,22 +24,17 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% 
     
     $999 sale
     
-    was $30 St. John's Bay Long Sleeve Flannel Shirt(352)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $899 sale
-    
-    was $30 St. John's Bay Long Sleeve Henley Shirt(19)Add To Cart
+    was $30 St. John's Bay Long Sleeve Thermal Top(26)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $30 St. John's Bay Long Sleeve Thermal Top(26)Add To Cart
+    was $30 St. John's Bay Long Sleeve Flannel Shirt(352)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $899 sale
+    $1299 sale
     
-    was $30 St. John's Bay Long Sleeve Thermal Top(15)Add To Cart
+    was $36 Arizona Long Sleeve Spread Collar Flannel Shirts(12)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $799 sale
@@ -47,42 +42,27 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% 
     was $20 Arizona Long Sleeve Thermal TopAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $1299 sale
+    $899 sale
     
-    was $36 Arizona Long Sleeve Button Down Flannel(14)Add To Cart
+    was $30 St. John's Bay Long Sleeve Jersey Polo Shirt(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $1299 sale
+    $899 sale
     
-    was $36 Arizona Long Sleeve Spread Collar Flannel Shirts(12)Add To Cart
+    was $30 St. John's Bay Long Sleeve Henley Shirt(19)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $899 sale
+    
+    was $30 St. John's Bay Long Sleeve Henley Shirt(8)Add To Cart
 
 UP TO 70% OFF WOMEN'S SWEATERSShop AllUP TO 70% OFF WOMEN'S SWEATERSShop All
 
 *   LIMITED TIME SPECIAL!
     
-    $2640 sale
-    
-    was $44 Liz Claiborne Weekend Long Sleeve Drawstring HoodieAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1110 sale
-    
-    was $37 a.n.a Womens Round Neck Long Sleeve Pullover Sweater(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $999 sale
     
-    was $34 Flirtitude Womens Long Sleeve Jersey Hoodie-JuniorsAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1320 sale
-    
-    was $44 Worthington Womens Long Sleeve Open Front Cardigan(31)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1320 sale
-    
-    was $44 Worthington Womens Mock Neck Long Sleeve Pullover Sweater(7)Add To Cart
+    was $37 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(21)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
@@ -92,16 +72,80 @@ UP TO 70% OFF WOMEN'S SWEATERSShop AllUP TO 70% OFF WOMEN'S SWEATERSShop All
     
     $999 sale
     
+    was $32 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(13)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $1499 sale
+    
+    was $44 Worthington Womens Long Sleeve Open Front Cardigan(9)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $1320 sale
+    
+    was $44 a.n.a Long Sleeve Open Neck Cardigan(27)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $999 sale
+    
+    was $37 Worthington Womens V Neck Long Sleeve Stripe Pullover Sweater(1)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $999 sale
+    
     was $44 a.n.a Womens V Neck Long Sleeve Pullover Sweater(12)Add To Cart
+
+UP TO 25% OFF FITBITShop Allselect stylesUP TO 25% OFF FITBITselect stylesShop All
+
+*   ADVERTISED DEAL!
+    
+    $14995 sale
+    
+    was $199.95 Fitbit Versa Peach Unisex Pink Smart Watch - Fb504rgpkAdd To Cart
+*   ADVERTISED DEAL!
+    
+    $14995 sale
+    
+    was $199.95 Fitbit Versa Unisex Black Smart Watch-Fb504gmbkAdd To Cart
+*   ADVERTISED DEAL!
+    
+    $14995 sale
+    
+    was $199.95 Fitbit Versa Unisex Gray Smart Watch-Fb504srgyAdd To Cart
+*   ADVERTISED DEAL!
+    
+    $17995 sale
+    
+    was $229.95 Fitbit Versa Lavender Printed Unisex Purple Smart Watch-Fb505rglvAdd To Cart
+*   ADVERTISED DEAL!
+    
+    $17995 sale
+    
+    was $229.95 Fitbit Versa Charcoal Printed Unisex Smart Watch-Fb505bkgyAdd To Cart
+*   ADVERTISED DEAL!
+    
+    $12995 sale
+    
+    was $149.95 Fitbit Charge 3 Unisex Gray Smart Watch-Fb409gmbkAdd To Cart
+*   ADVERTISED DEAL!
+    
+    $12995 sale
+    
+    was $149.95 Fitbit Charge 3 Unisex Blue Smart Watch-Fb409rggyAdd To Cart
 
 Hot Sellers
 
-*   $1874after couponwas $80 Arizona Denmark Riding Boots(72)
-*   $974after couponwas $65 Disney Mens Knit One Piece Pajama Long Sleeve(1)
-*   $1874after couponwas $60 Arizona Lilly Booties(55)
-*   $1349after couponwas $28 Stafford Men's Knit Pajama Pants(5)
-*   $1499after couponwas $40 St. John's Bay Crew Neck Long Sleeve Pullover Sweater(16)
-*   $2624after couponwas $70 Haggar® Premium No Iron Classic-Fit Flat-Front Khakis(559)
+*   $1874after couponwas $90 Worthington Womens Lara Slouch Cone Heel Zip Boots(9)
+*   $1499after couponwas $40 St. John's Bay V Neck Long Sleeve Pullover Sweater(24)
+*   ADVERTISED DEAL!
+    
+    $3749after couponwas $149.98 1/6 CT. T.W. Genuine White Diamond Sterling Silver 4mm Stud Earrings(2)
+*   $2962after couponwas $79 Yuu Womens Nev Zip Bootie(35)
+*   LIMITED TIME SPECIAL!
+    
+    $3999 sale
+    
+    was $65 | 38% offNike Flex Experience 7 Mens Running Shoes Lace-up(27)
+*   $1499after couponwas $42 Arizona Basic Original Straight Jeans(1776)
 
 Shop and Save at JCPenney
 
