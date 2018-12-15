@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Bill Zeiser_: An Impending Loss in the Fact-Checking Family?
+*   _David Ignatius_: Republicans Failed--Dems Have a Chance to Succeed
     
-*   _Helaine Olen_: Pelosi Is the Heroine the Resistance to Trump Needs
+*   _Michel Houellebecq_: Trump Is a Good President: One Foreigner's Perspective
     
-*   _John Kass_: Schumer, Pelosi and the Party of No Border Security
+*   _Bre Payton_: Mueller Team Destroyed Strzok/Page Texts Before Review
     
-*   _William Saletan_: Trump Won't Win a Shutdown Over the Border Wall
+*   _Frank Bruni_: Michael Cohen Got Wise. Will America?
     
-*   _Karl Vick_: Jamal Khashoggi, the Guardians and the War on Truth
+*   _Adele Malpass_: Republicans See 2018 'Autopsy' as Vital to Trump Re-Election
     
-*   _John Bradley_: Calling Khashoggi a Truth Teller Insults Real Journalists
+*   _Veronique de Rugy_: Will Uprisings Thwart Green Central Planners?
     
-*   _Jerry Weinberger_: Green Madness
+*   _John Kerry_: Forget Trump. We All Must Act on Climate Change.
     
-*   _Andrew Freedman_: Global Warming Brings Unprecedented Changes to Arctic
+*   _Albert Eisenberg_: LGBT Liberals Becoming the Bullies We Used to Fight
     
-*   _Johnson &. Taylor_: Due Process: It's Not Just for Brett Kavanaugh
+*   _Jonathan Rauch_: It's Time to Drop the 'LGBT' From 'LGBTQ'
     
-*   _Peter Beinart_: Trump &. the New Authoritarians Are Waging War on Women
+*   _Holan &. Sherman_: Lie of the Year: Online Smears vs. Parkland Students
     
-*   _Kristan Hawkins_: All I Want for Christmas Is Planned Parenthood Defunded
+*   _David Harsanyi_: Here's the Problem With PolitiFact's 'Lie of the Year'
     
-*   _Louise Melling_: Will Supreme Court Overturn Roe v. Wade After All?
+*   _Kimberley Strassel_: Checking Robert Mueller
     
-*   _Conrad Black_: Mueller's Collusion Hoax Collapses
+*   _Susan Glasser_: Trump and the Rapidly Expanding 'Witch Hunt'
     
-*   _Renato Mariotti_: Did Trump Just Move Closer to Unindicted Co-Conspirator?
+*   _Jonathan Turley_: Comey, Mueller Put Michael Flynn In a Cage &. Shot Him
     
-*   _Dan Backer_: No, Trump Did Not Violate Campaign Finance Law
+*   _Kenneth McCallion_: Prosecutors Have Strong Criminal Case Against Trump
     
-*   _Kalev Leetaru_: Fact-Checkers' Choice: To Be Literal or Contextual?
+*   _Rich Lowry_: Sorry, Trump Not Going to Jail Over Hush-Money Payments
     
-*   _Steven Petrow_: LGBT Missteps by Murray, Hart Are a Teachable Moment
+*   _Konrad Yakabuski_: Macron's Mea Culpa Won't Fix the French Malaise
     
-*   _Ellie Bufkin_: 18 Top Comedians Who Can Never Host the Oscars Now
+*   _Patrick Buchanan_: What Lies Behind the Malaise of the West?
     
-*   _Tyler Cowen_: Macron Just Doesn't Get It
+*   _Christina Patterson_: We're the Eggs Broken for This Rotten Brexit Omelette
     
-*   _Tom Rogan_: Why the Strasbourg Attack Is a Bigger Deal Than You Think
+*   _Matthew Continetti_: China's Drive to the Western Pacific
     
-*   _Jeffrey Sachs_: U.S., Not China, Is Real Threat to International Law
+*   _Eli Lake_: China Is Now the Greatest Threat to Americans' Privacy
     
-*   _Michael Graham_: An Uncompromising Wall Divides U.S. Politics
+*   _A.B. Stoddard_: The Best Shot for Democrats Is Biden/Beto
     
-*   _Carl Leubsdorf_: Pelosi Shows Why Dems Need Her as Speaker
+*   _Elle Griffiths_: Democrats Can Do Better Than Beto in 2020
     
-*   _Hans von Spakovsky_: Cohen Didn't Commit a Crime (&. Neither Did Trump)
+*   _Kyle Smith_: From Hero to Zero: The Rise &. Fall of Michael Avenatti
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Senate Rebukes Trump, Saudi Arabia Over Khashoggi, Yemen War
 *   Trump, Democrats Dig In for Fight Over Border-Wall Funding
+*   Trump: Dems Are "Hypocrites," Won't Do Wall Because of Me
 *   A Rancorous First Glimpse of New Trump-Dem Dynamic
-*   Schumer Slams Trump "Temper Tantrum" Over "Petty" Border Wall
 *   Trump's China Trade War Is Not About Trade
-*   Facing Pressure, McConnell Agrees to Criminal Justice Vote
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,6 +243,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalCNBC
+    *   Approve41
+    *   Disapprove47Disapprove +6
 *   President Trump Job ApprovalFOX News
     *   Approve46
     *   Disapprove52Disapprove +6
@@ -252,17 +255,14 @@ Latest PollsAll Polls
 *   Congressional Job ApprovalCNN
     *   Approve19
     *   Disapprove71Disapprove +52
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve43
-    *   Disapprove54Disapprove +11
 
 More Latest Polls In The News
 
+*   Luntz Analyzes 2020 Dem Field: Warren, Castro, O'Rourke, Biden, Sanders. "There Is No Frontrunner"
+*   Michael Cohen: Trump Knew What He Was Doing Was Wrong, "I Will Not Be The Villain Of His Story"
 *   CNN's Cuomo vs. Kellyanne Conway: If I Have To, I Will Call You A Liar. Viewers Think I'm "Too Balanced"
 *   Trump: Cohen Made A Deal To "Embarrass" Me, Reduce Prison Sentence. "He Was OK on Television"
 *   Schumer: If Mexico Is Going To Pay For The Wall, We Don't Have To. "Let's Fund The Government"
-*   Dem Rep. Lieu: "I Would Love To" Regulate Content Of Speech, But It's Better In The Long Run Not To
-*   Sanders: "Absurd And Disgraceful" To Have A President Who Wants To Shut Down Government
 
 *   Politics
 *   Policy
