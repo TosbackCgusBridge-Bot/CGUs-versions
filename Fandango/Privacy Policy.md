@@ -70,7 +70,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Scott Derrickson to Direct ‘Doctor Strange’ Sequel. Here’s Everything We Know Read More
-    *   We Are the Pets in Second ‘Godzilla: King of the Monsters’ Trailer. Here’s Everything We Know Read More
+    *   The Week in Movie News: Scott Derrickson to Direct ‘Doctor Strange 2,’ New ‘Godzilla: King of the Monsters’ Trailer and More Read More
     *   'A Star Is Born' Leads Screen Actors Guild Award Nominations Read More
     
     Explore Content
@@ -321,13 +321,13 @@ Offers
     
     Own 'Venom' for $10 with ticket purchase. BUY TICKETS
     
+*   'Mary Poppins Returns' Gift with Purchase
+    
+    Get a free song download of 'Trip a Little Light Fantastic’ with ticket purchase. BUY TICKETS
+    
 *   'Aquaman' Gift with Purchase
     
     Get 5 FREE digital DC Comics with ticket purchase. BUY TICKETS
-    
-*   Fandango Gift Cards
-    
-    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
 *   It’s the Holiday Daily Giveaway &. Movie Sweeps!
     
