@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Adoptive Church
-*   LGBT compromise
-*   Donnie McClurkin
-*   Sex abuse
-*   Former atheist
+*   Anne Graham Lotz
+*   Cross
+*   Darlene Zschech
+*   Tamela Mann
+*   Detained pastor
 
 About Us
 
