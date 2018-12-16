@@ -412,7 +412,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Christmas Candy &. Treats
     *   Stocking Stuffers
     *   Matching Family Pajamas
-    *   Christmas Stockings
+    *   Personalized Christmas Stockings
     *   Christmas Sweaters
     *   Holiday &. Christmas Decor
     *   Down Vests &. Fleece
@@ -902,7 +902,7 @@ Lands' End Sign In menu
         *   Christmas Candy &. Treats
         *   Stocking Stuffers
         *   Matching Family Pajamas
-        *   Christmas Stockings
+        *   Personalized Christmas Stockings
         *   Christmas Sweaters
         *   Holiday &. Christmas Decor
         *   Down Vests &. Fleece
