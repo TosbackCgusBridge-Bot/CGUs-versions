@@ -1,6 +1,5 @@
-*   LAC11-329KC11-328Final
-*   HOU9-4NYJ4-9Sat, 4:30 pm ET
-*   CLE5-7-1DEN6-7Sat, 8:20 pm ET
+*   CLE6-7-117DEN6-816Final
+*   HOU10-429NYJ4-1022Final
 *   ARI3-10ATL4-9Sun, 1:00 pm ET
 *   TB5-8BAL7-6Sun, 1:00 pm ET
 *   DET5-8BUF4-9Sun, 1:00 pm ET
@@ -14,6 +13,7 @@
 *   NE9-4PIT7-5-1Sun, 4:25 pm ET
 *   PHI6-7LA11-2Sun, 8:20 pm ET
 *   NO11-2CAR6-7Mon, 8:15 pm ET
+*   LAC11-329KC11-328Final
 
 *   News
 *   Scores
@@ -32,9 +32,8 @@
 *   NFL Network
 *   Photos
 
-*   LAC29KC28Final
-*   HOU9-4NYJ4-9Sat, 4:30 pm ET
-*   CLE5-7-1DEN6-7Sat, 8:20 pm ET
+*   CLE17DEN16Final
+*   HOU29NYJ22Final
 *   ARI3-10ATL4-9Sun, 1:00 pm ET
 *   TB5-8BAL7-6Sun, 1:00 pm ET
 *   DET5-8BUF4-9Sun, 1:00 pm ET
@@ -48,6 +47,7 @@
 *   NE9-4PIT7-5-1Sun, 4:25 pm ET
 *   PHI6-7LA11-2Sun, 8:20 pm ET
 *   NO11-2CAR6-7Mon, 8:15 pm ET
+*   LAC29KC28Final
 
 *   News
 *   Scores
