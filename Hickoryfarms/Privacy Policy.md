@@ -68,9 +68,6 @@
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Christmas Gifts
 *   Sale
-    View All Categories Shop by Category*   Gifts with Wine
-    *   Specialty Meats
-    *   Desserts
 
 1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Skip to content Business Gifts Stores Account
 
@@ -150,11 +147,8 @@
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Christmas Gifts
 *   Sale
-    View All Categories Shop by Category*   Gifts with Wine
-    *   Specialty Meats
-    *   Desserts
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Today Only! Free Shipping, No Minimum!\*
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Hurry! Free Shipping on Shipments Over $35 ends Tuesday!\*
 
 1.  Home
 2.  Privacy Policy
