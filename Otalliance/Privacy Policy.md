@@ -72,7 +72,7 @@ Previous OTA privacy policies are posted below
 *   Upcoming Events
 *   News
 
-Thu, Dec 13, 2018 OECD Global Forum on Digital Security for Prosperity Tue, Dec 18, 2018 Can Consumers Trust Retailers' Email? Findings from OTA's Email Marketing &. Unsubscribe Audit
+Tue, Dec 18, 2018 Can Consumers Trust Retailers' Email? Findings from OTA's Email Marketing &. Unsubscribe Audit
 
 Can consumers trust the email they receive and that retailers will honor their choices? Join us as we review findings from the 5th annual Email Marketing &. Unsubscribe Audit, which reviews email practices of the top 200 US retailers.  
   
