@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
+*   Deaths in 2018
+*   Cross display
+*   CP's top 10
+*   Chris Pratt
 *   Anne Graham Lotz
-*   Cross
-*   Darlene Zschech
-*   Tamela Mann
-*   Detained pastor
 
 About Us
 
