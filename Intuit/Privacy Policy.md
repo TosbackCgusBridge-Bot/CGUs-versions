@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $49See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -24,17 +24,17 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% 
     
     $999 sale
     
-    was $30 St. John's Bay Long Sleeve Thermal Top(26)Add To Cart
+    was $30 St. John's Bay Long Sleeve Thermal TopAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $30 St. John's Bay Long Sleeve Flannel Shirt(352)Add To Cart
+    was $30 St. John's Bay Long Sleeve Flannel ShirtAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $1299 sale
     
-    was $36 Arizona Long Sleeve Spread Collar Flannel Shirts(12)Add To Cart
+    was $36 Arizona Long Sleeve Spread Collar Flannel ShirtsAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $799 sale
@@ -44,17 +44,17 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% 
     
     $899 sale
     
-    was $30 St. John's Bay Long Sleeve Jersey Polo Shirt(5)Add To Cart
+    was $30 St. John's Bay Long Sleeve Jersey Polo ShirtAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $899 sale
     
-    was $30 St. John's Bay Long Sleeve Henley Shirt(19)Add To Cart
+    was $30 St. John's Bay Long Sleeve Henley ShirtAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $899 sale
     
-    was $30 St. John's Bay Long Sleeve Henley Shirt(8)Add To Cart
+    was $30 St. John's Bay Long Sleeve Henley ShirtAdd To Cart
 
 UP TO 70% OFF WOMEN'S SWEATERSShop AllUP TO 70% OFF WOMEN'S SWEATERSShop All
 
@@ -62,39 +62,39 @@ UP TO 70% OFF WOMEN'S SWEATERSShop AllUP TO 70% OFF WOMEN'S SWEATERSShop All
     
     $999 sale
     
-    was $37 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(21)Add To Cart
+    was $37 Worthington Womens Crew Neck Long Sleeve Pullover SweaterAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $32 Worthington Womens V Neck Long Sleeve Pullover Sweater(17)Add To Cart
+    was $32 Worthington Womens V Neck Long Sleeve Pullover SweaterAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $32 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(13)Add To Cart
+    was $32 Worthington Womens Crew Neck Long Sleeve Pullover SweaterAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $1499 sale
     
-    was $44 Worthington Womens Long Sleeve Open Front Cardigan(9)Add To Cart
+    was $44 Worthington Womens Long Sleeve Open Front CardiganAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $1320 sale
     
-    was $44 a.n.a Long Sleeve Open Neck Cardigan(27)Add To Cart
+    was $44 a.n.a Long Sleeve Open Neck CardiganAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $37 Worthington Womens V Neck Long Sleeve Stripe Pullover Sweater(1)Add To Cart
+    was $37 Worthington Womens V Neck Long Sleeve Stripe Pullover SweaterAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $44 a.n.a Womens V Neck Long Sleeve Pullover Sweater(12)Add To Cart
+    was $44 a.n.a Womens V Neck Long Sleeve Pullover SweaterAdd To Cart
 
-UP TO 25% OFF FITBITShop Allselect stylesUP TO 25% OFF FITBITselect stylesShop All
+UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
 
 *   ADVERTISED DEAL!
     
@@ -135,17 +135,19 @@ UP TO 25% OFF FITBITShop Allselect stylesUP TO 25% OFF FITBITselect stylesShop A
 Hot Sellers
 
 *   $1874after couponwas $90 Worthington Womens Lara Slouch Cone Heel Zip Boots(9)
-*   $1499after couponwas $40 St. John's Bay V Neck Long Sleeve Pullover Sweater(24)
-*   ADVERTISED DEAL!
-    
-    $3749after couponwas $149.98 1/6 CT. T.W. Genuine White Diamond Sterling Silver 4mm Stud Earrings(2)
-*   $2962after couponwas $79 Yuu Womens Nev Zip Bootie(35)
+*   $1874after couponwas $60 Arizona Womens Lilly Wedge Heel Lace-up Bootie(58)
 *   LIMITED TIME SPECIAL!
     
-    $3999 sale
+    $1799 sale
     
-    was $65 | 38% offNike Flex Experience 7 Mens Running Shoes Lace-up(27)
-*   $1499after couponwas $42 Arizona Basic Original Straight Jeans(1776)
+    was $60 | 70% offLiz Claiborne Womens Selma Ballet Flats(28)
+*   $1999 sale
+    
+    was $25 | 20% offNike Benassi JDI Mens Slide Sandals(54)
+*   $15 sale
+    
+    was $20 | 25% offNike® 6-pk. Men's Performance Quarter Socks(52)
+*   $1874after couponwas $50 St. John's Bay Mock Neck Long Sleeve Pullover Sweater(28)
 
 Shop and Save at JCPenney
 
