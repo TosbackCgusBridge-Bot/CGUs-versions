@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Senate Rebukes Trump, Saudi Arabia Over Khashoggi, Yemen War
-*   Trump, Democrats Dig In for Fight Over Border-Wall Funding
+*   Federal Judge Rules Health Care Overhaul Unconstitutional
+*   Republicans See 2018 "Autopsy" as Vital to Trump Re-election
 *   Trump: Dems Are "Hypocrites," Won't Do Wall Because of Me
-*   A Rancorous First Glimpse of New Trump-Dem Dynamic
-*   Trump's China Trade War Is Not About Trade
+*   Wisconsin's Walker Signs Lame-Duck Bills Curbing Successor's Power
+*   Sen. Kyl to Resign, Arizona Governor to Appoint Successor
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,6 +243,15 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Iowa Democratic Presidential CaucusDes Moines Register/CNN
+    *   Biden32
+    *   Sanders19
+    *   O'Rourke11
+    *   Warren8
+    *   Harris5
+    *   Booker4
+    *   Bloomberg3
+    *   Klobuchar3Biden +13
 *   President Trump Job ApprovalCNBC
     *   Approve41
     *   Disapprove47Disapprove +6
@@ -252,16 +261,13 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalEmerson
     *   Approve43
     *   Disapprove47Disapprove +4
-*   Congressional Job ApprovalCNN
-    *   Approve19
-    *   Disapprove71Disapprove +52
 
 More Latest Polls In The News
 
 *   Luntz Analyzes 2020 Dem Field: Warren, Castro, O'Rourke, Biden, Sanders. "There Is No Frontrunner"
 *   Michael Cohen: Trump Knew What He Was Doing Was Wrong, "I Will Not Be The Villain Of His Story"
 *   CNN's Cuomo vs. Kellyanne Conway: If I Have To, I Will Call You A Liar. Viewers Think I'm "Too Balanced"
-*   Trump: Cohen Made A Deal To "Embarrass" Me, Reduce Prison Sentence. "He Was OK on Television"
+*   Huckabee Sanders: Trump Understands People Needing A Paycheck More Than Pelosi Ever Will
 *   Schumer: If Mexico Is Going To Pay For The Wall, We Don't Have To. "Let's Fund The Government"
 
 *   Politics
