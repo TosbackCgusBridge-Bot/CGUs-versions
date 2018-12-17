@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Ignatius_: Republicans Failed--Dems Have a Chance to Succeed
+*   _Josh Kraushaar_: Why Beto Is a Bad Bet for Democrats
     
-*   _Michel Houellebecq_: Trump Is a Good President: One Foreigner's Perspective
+*   _Billy Freeland_: Ignore the Beto Skeptics
     
-*   _Bre Payton_: Mueller Team Destroyed Strzok/Page Texts Before Review
+*   _Joel Kotkin_: New Hipsters Threaten the Texas Miracle
     
-*   _Frank Bruni_: Michael Cohen Got Wise. Will America?
+*   _Jay Ambrose_: Mueller Probe Takes Swipes at Democracy
     
-*   _Adele Malpass_: Republicans See 2018 'Autopsy' as Vital to Trump Re-Election
+*   _Olivia Nuzzi_: How John Kelly Failed to Tame the West Wing
     
-*   _Veronique de Rugy_: Will Uprisings Thwart Green Central Planners?
+*   _Jonathan Turley_: No Glory in Comey Getting Away With Abuse of FBI Power
     
-*   _John Kerry_: Forget Trump. We All Must Act on Climate Change.
+*   _Max Nisen_: Celebration of Obamacare's Death Is Again Premature
     
-*   _Albert Eisenberg_: LGBT Liberals Becoming the Bullies We Used to Fight
+*   _Katherine Miller_: Is Anybody Nostalgic for the Clintons?
     
-*   _Jonathan Rauch_: It's Time to Drop the 'LGBT' From 'LGBTQ'
+*   _Christopher Caldwell_: Why Are Americans Unhinged Over Christmas?
     
-*   _Holan &. Sherman_: Lie of the Year: Online Smears vs. Parkland Students
+*   _Mitch Albom_: Santa Gives Us a Reason for Hope
     
-*   _David Harsanyi_: Here's the Problem With PolitiFact's 'Lie of the Year'
+*   _Dan Balz_: At Year's End, Trump More Isolated Than Ever
     
-*   _Kimberley Strassel_: Checking Robert Mueller
+*   _Carl M. Cannon_: A Justice Department Coup?
     
-*   _Susan Glasser_: Trump and the Rapidly Expanding 'Witch Hunt'
+*   _Julian Zelizer_: Why Mick Mulvaney Can't Save Trump's Presidency
     
-*   _Jonathan Turley_: Comey, Mueller Put Michael Flynn In a Cage &. Shot Him
+*   _Ford O'Connell_: Trump Will Likely Win Reelection in 2020
     
-*   _Kenneth McCallion_: Prosecutors Have Strong Criminal Case Against Trump
+*   _Jonathan Gruber_: Texas Judge Puts Our Health &. Democracy at Risk
     
-*   _Rich Lowry_: Sorry, Trump Not Going to Jail Over Hush-Money Payments
+*   _Puzder &. Talent_: Trump's Tough Stand on China Trade Benefits U.S., World
     
-*   _Konrad Yakabuski_: Macron's Mea Culpa Won't Fix the French Malaise
+*   _Julio Ricardo Varela_: 7-Year-Old's Death Is Trump's Fault, Not Her Father's
     
-*   _Patrick Buchanan_: What Lies Behind the Malaise of the West?
+*   _Michael Goodwin_: Funding 'The People's Wall'
     
-*   _Christina Patterson_: We're the Eggs Broken for This Rotten Brexit Omelette
+*   _Robinson Meyer_: Ryan Zinke Is the Blue Wave's First Casualty
     
-*   _Matthew Continetti_: China's Drive to the Western Pacific
+*   _Derek Hunter_: The Perfectly Legal Corruption No One Cares About
     
-*   _Eli Lake_: China Is Now the Greatest Threat to Americans' Privacy
+*   _Margaret Carlson_: Pelosi Will Run Rings Around Trump for Next 2 Years
     
-*   _A.B. Stoddard_: The Best Shot for Democrats Is Biden/Beto
+*   _Bob Barr_: Schumer &. Pelosi Should Take a Lesson From Bill Clinton
     
-*   _Elle Griffiths_: Democrats Can Do Better Than Beto in 2020
+*   _Matt Taibbi_: Does the Media Have It Out for Elizabeth Warren?
     
-*   _Kyle Smith_: From Hero to Zero: The Rise &. Fall of Michael Avenatti
+*   _Howie Carr_: White Lies Catch Up to Liz Warren
     
 
 *   Previous
@@ -252,23 +252,23 @@ Latest PollsAll Polls
     *   Booker4
     *   Bloomberg3
     *   Klobuchar3Biden +13
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve43
+    *   Disapprove54Disapprove +11
+*   Direction of CountryNBC News/Wall St. Jrnl
+    *   Right Direction33
+    *   Wrong Track56Wrong Track +23
 *   President Trump Job ApprovalCNBC
     *   Approve41
     *   Disapprove47Disapprove +6
-*   President Trump Job ApprovalFOX News
-    *   Approve46
-    *   Disapprove52Disapprove +6
-*   President Trump Job ApprovalEmerson
-    *   Approve43
-    *   Disapprove47Disapprove +4
 
 More Latest Polls In The News
 
-*   Luntz Analyzes 2020 Dem Field: Warren, Castro, O'Rourke, Biden, Sanders. "There Is No Frontrunner"
+*   Adam Schiff: If Mueller Won't Look Into Trump Business Deals, Congress Will Have To
+*   Stephen Miller: Trump "Absolutely" Willing To Shut Down Government Over Border Wall
+*   Chuck Schumer on "Awful" Obamacare Ruling: "We're Going To Fight This Tooth And Nail"
+*   Rudy Giuliani: "Pathetic" Michael Cohen Is Going To Be "Ripped Apart" On The Witness Stand
 *   Michael Cohen: Trump Knew What He Was Doing Was Wrong, "I Will Not Be The Villain Of His Story"
-*   CNN's Cuomo vs. Kellyanne Conway: If I Have To, I Will Call You A Liar. Viewers Think I'm "Too Balanced"
-*   Huckabee Sanders: Trump Understands People Needing A Paycheck More Than Pelosi Ever Will
-*   Schumer: If Mexico Is Going To Pay For The Wall, We Don't Have To. "Let's Fund The Government"
 
 *   Politics
 *   Policy
