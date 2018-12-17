@@ -1,4 +1,4 @@
-close dialogCyber Sale On NowHURRY! ENDS 12/3$5 FOR 3 MONTHSSubscribe Nowclose dialogSUBSCRIBE NOW$5 for 3 months. Save 83%.
+close dialogSubscribe Todayclose dialogSUBSCRIBE NOW99¢ per month. Save 90%.
 
 *   Home
 *   News
@@ -58,7 +58,7 @@ close dialogCyber Sale On NowHURRY! ENDS 12/3$5 FOR 3 MONTHSSubscribe Nowclose d
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMigrants in Tijuana rush US border, gas firedImmigrationMotorcyclist killed in crash during DPS chaseCrimePolice arrest driver in crash that killed teacherNewsWoman follows GPS, drives onto railroad tracksNational'Remain in Mexico' plan for asylum seekersNewsUTEP football season ends with a whimperCollegeTeacher killed in hit-and-run on Thanksgiving EveCrimeUTEP overwhelmed by Southern Miss in last gameCollegeMiners play best game of year in six-point lossCollegeMotorcyclist killed after falling from overpassCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowBeto, Escobar: Close $144M Tornillo shelterLocalIncumbents Lizarraga, Svarzbein keep council seatsPoliticsJoe Pickett to resign from House to battle cancerNewsFather wants inquiry into migrant girl's deathImmigrationPreservationists favor Duranguito over arenaNews'Canelo' Alvarez wins third division titleBoxingFather of migrant girl, 7, wants to say goodbyeNewsColleagues mourn Fox meteorologist Jessica Starr, who took her own lifeNewsBeto O'Rourke: Inquiry needed in girl's deathNewsCBS gave Dushku $9.5M after 'Bull' incidentEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -130,4 +130,4 @@ Our Partners
 *   Thanksgiving.com
 *   Grateful
 
-close dialogCyber Sale On NowHURRY! ENDS 12/3$5 FOR 3 MONTHSSubscribe Nowclose dialogclose dialog$5 FOR 3 MONTHSLOCAL STORIESLOCAL SPORTSLOCAL NEWSCyber Sale On NowSubscribe NowNo thanksclose dialog
+close dialogSubscribe Todayclose dialog
