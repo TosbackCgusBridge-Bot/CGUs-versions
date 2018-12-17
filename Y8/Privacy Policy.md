@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  01:19:07
+New Games Next in  xx:xx
 
-*   By Date Next addition in 01:19:07
+*   By Date Next addition in xx:xx
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 01:19:07
-*   Best of new games 1646 games
-*   Most Popular Games 18329 games
+*   New Games Next in xx:xx
+*   Best of new games 1609 games
+*   Most Popular Games 18332 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,548 games
-*   Driving &. Racing Games 6,729 games
+*   Games for girls 23,552 games
+*   Driving &. Racing Games 6,730 games
 *   Strategy &. RPG Games 2,405 games
 *   Management Games 3,635 games
-*   Thinking Games 11,892 games
-*   Action &. Adventure Games 15,881 games
+*   Thinking Games 11,891 games
+*   Action &. Adventure Games 15,883 games
 *   Sports Games 2,145 games
-*   Shooting Games 8,354 games
+*   Shooting Games 8,355 games
 *   Fighting Games 2,090 games
-*   Skill Games 10,681 games
-*   Arcade &. Classic Games 12,670 games
+*   Skill Games 10,682 games
+*   Arcade &. Classic Games 12,674 games
 *   Fun &. Crazy Games 2,475 games
 
 Play with friends  
-Powered by Y8 Account 138 Y8 Multiplayer Games 1,788 Y8 High Score Games 1,089 Y8 Achievements Games 795 Y8 Screenshots Games 1,384 Y8 Online Save Games 2,814 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 138 Y8 Multiplayer Games 1,789 Y8 High Score Games 1,090 Y8 Achievements Games 795 Y8 Screenshots Games 1,384 Y8 Online Save Games 2,815 All Y8 Games Games Last Highscore:
 
-**14,872** points on Crime City 3D by slayer
+**28** points on Pixel Road Taxi Depot by Vahagna
 
 Help us improve Bad translation? Social
 
