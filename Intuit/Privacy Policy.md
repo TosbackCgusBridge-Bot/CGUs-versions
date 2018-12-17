@@ -1,4 +1,4 @@
-Accessible View
+Free Shipping Anywhere Over $49See DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -134,20 +134,32 @@ UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop A
 
 Hot Sellers
 
-*   $1874after couponwas $90 Worthington Womens Lara Slouch Cone Heel Zip Boots(9)
-*   $1874after couponwas $60 Arizona Womens Lilly Wedge Heel Lace-up Bootie(58)
-*   LIMITED TIME SPECIAL!
+*   $3999 sale
     
-    $1799 sale
+    was $59.50 | 32% offLevi's® 514™ Straight Jeans(457)
+*   $1875 sale
     
-    was $60 | 70% offLiz Claiborne Womens Selma Ballet Flats(28)
-*   $1999 sale
+    was $25 | 25% offDisney Collection Buzz Lightyear Talking Action Figure(210)
+*   BUY 1 GET 2 FOR FREE
     
-    was $25 | 20% offNike Benassi JDI Mens Slide Sandals(54)
-*   $15 sale
+    LIMITED TIME SPECIAL!
     
-    was $20 | 25% offNike® 6-pk. Men's Performance Quarter Socks(52)
-*   $1874after couponwas $50 St. John's Bay Mock Neck Long Sleeve Pullover Sweater(28)
+    $70
+    
+    Arizona Womens Oxford Booties Zip
+*   $1599after couponwas $40 The Foundry Big &. Tall Supply Co. Long Sleeve Henley Shirt-Big and Tall(11)
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $60
+    
+    Arizona Womens Oakes Booties Block Heel Zip
+*   BUY 1 GET 1 50% OFF
+    
+    $20
+    
+    Nike® 6-pk. Performance Cotton Crew Socks(91)
 
 Shop and Save at JCPenney
 
