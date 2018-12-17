@@ -3,12 +3,12 @@
 *   Home
 *   Courses
     *   *   Courses
-        *   Course finder
-    *   Undergraduate
-    *   Postgraduate
-    *   Short courses
-    *   Part-time courses
-    *   eLearning
+        *   Course finder  
+    *   Undergraduate  
+    *   Postgraduate  
+    *   Short courses  
+    *   Part-time courses  
+    *   eLearning  
 
 *   Apply
     *   *   Apply
@@ -46,7 +46,7 @@
         *   Short courses
         *   International
         
-        *   Information for...
+        *   **Information for...**
         *   Parents and families
         *   Teachers and Advisers
         *   Further Education students
@@ -66,7 +66,7 @@
         *   FAQs
         *   Contact
         
-        *   More information
+        *   **More information**
         *   REF 2014
         *   Access Ulster
 *   Business
@@ -74,7 +74,7 @@
         *   Career Development &. Employment Opportunities
         *   Conference Office
         *   Development &. Alumni Relations Office
-        *   Innovation Ulster Ltd
+        *   Innovation Ulster Ltd  
         *   Business Support Services
         *   Continuing Professional Development
 
@@ -143,7 +143,7 @@ Follow us:
 *   Twitter
 *   Facebook
 *   Flickr
-*   YouTube
+*   YouTube  
 
 © Copyright 2015 Ulster University
 
@@ -152,4 +152,6 @@ Follow us:
 *   Freedom of Information
 *   Contact Us
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1513386092226899&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1380040395442892&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1570238933105241&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=307591029993045&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=246681609528519&amp;ev=PageView&amp;noscript=1">
+Ulster.ac.uk uses cookies to give users the best experience possible. Find out more about cookies
+
+Close <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1513386092226899&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1380040395442892&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1570238933105241&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=307591029993045&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=246681609528519&amp;ev=PageView&amp;noscript=1">.
