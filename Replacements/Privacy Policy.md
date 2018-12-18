@@ -1,5 +1,5 @@
-Skip to main content Free Standard U.S. Shipping on Orders ~$99~ $69+ with code 69SHIP\*\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping On Orders $69+  
-WITH CODE 69SHIP\*\*1-800-737-5223 Sign In / Create Account Home China - Dinnerware
+Skip to main content Free Standard U.S. Shipping on Orders $99 $69+ with code 69SHIP\*\*Express U.S. Shipping $19.99 with code EX1999\* Free Standard U.S. Shipping On Orders $69+  
+WITH CODE 69SHIP\*\*Express U.S. Shipping $19.99 with Code EX1999\*1-800-737-5223 Sign In / Create Account Home China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
