@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Josh Kraushaar_: Why Beto Is a Bad Bet for Democrats
+*   _Roger Kimball_: Donald Trump and the Art of the Bipartisan Deal
     
-*   _Billy Freeland_: Ignore the Beto Skeptics
+*   _Andy Slavitt_: Obamacare Unconstitutional? That's a Cruel Mistake
     
-*   _Joel Kotkin_: New Hipsters Threaten the Texas Miracle
+*   _Stephen Davis_: Fuel Tax Riots: The Breaking Point for France's Socialism?
     
-*   _Jay Ambrose_: Mueller Probe Takes Swipes at Democracy
+*   _Bill McKibben_: Divestment Is Hitting Fossil Fuel Industry Where It Hurts
     
-*   _Olivia Nuzzi_: How John Kelly Failed to Tame the West Wing
+*   _Alan Dershowitz_: Did Michael Flynn Lie? Or Did the FBI Act Improperly?
     
-*   _Jonathan Turley_: No Glory in Comey Getting Away With Abuse of FBI Power
+*   _Matt Ford_: Robert Mueller's Legal Masterpiece
     
-*   _Max Nisen_: Celebration of Obamacare's Death Is Again Premature
+*   _Kurt Schlichter_: Pardon Everyone (Except That Rat Cohen)
     
-*   _Katherine Miller_: Is Anybody Nostalgic for the Clintons?
+*   _Matt Batzel_: Here's How Trump Can Win Wisconsin in 2020
     
-*   _Christopher Caldwell_: Why Are Americans Unhinged Over Christmas?
+*   _Juan Williams_: The Republican Party's Worsening Problem With Women
     
-*   _Mitch Albom_: Santa Gives Us a Reason for Hope
+*   _Alexandra DeSanctis_: Planned Parenthood Is Wrong: Abortion Isn't Health Care
     
-*   _Dan Balz_: At Year's End, Trump More Isolated Than Ever
+*   _Kalev Leetaru_: Why Are First Ladies Still Fashion Accessories?
     
-*   _Carl M. Cannon_: A Justice Department Coup?
+*   _David Leonhardt_: The Secret to Democrats Winning in 2020
     
-*   _Julian Zelizer_: Why Mick Mulvaney Can't Save Trump's Presidency
+*   _Deroy Murdock_: Dems Were for the Wall Before They Were Against It
     
-*   _Ford O'Connell_: Trump Will Likely Win Reelection in 2020
+*   _Bill Scher_: Why the Coming Shutdown May Be a Long One
     
-*   _Jonathan Gruber_: Texas Judge Puts Our Health &. Democracy at Risk
+*   _Jonathan Turley_: Obamacare's Tortured History Catches Up With It
     
-*   _Puzder &. Talent_: Trump's Tough Stand on China Trade Benefits U.S., World
+*   _Jordan Weissmann_: The Affordable Care Act Is Not Dead Yet
     
-*   _Julio Ricardo Varela_: 7-Year-Old's Death Is Trump's Fault, Not Her Father's
+*   _Salena Zito_: Is Political Correctness Killing American Comedy?
     
-*   _Michael Goodwin_: Funding 'The People's Wall'
+*   _Rich Kiamco_: Unlike Kevin Hart, I Learned From My Bad Joke
     
-*   _Robinson Meyer_: Ryan Zinke Is the Blue Wave's First Casualty
+*   _Julie Kelly_: 2 More Good Reasons to Shut Down Mueller's Probe
     
-*   _Derek Hunter_: The Perfectly Legal Corruption No One Cares About
+*   _Jack Shafer_: Far From Winding Down, Mueller's Probe Feels Energized
     
-*   _Margaret Carlson_: Pelosi Will Run Rings Around Trump for Next 2 Years
+*   _Dmitri Simes_: China and Russia: Dangerous Liaisons
     
-*   _Bob Barr_: Schumer &. Pelosi Should Take a Lesson From Bill Clinton
+*   _Susan Glasser_: How Trump Made War on Angela Merkel and Europe
     
-*   _Matt Taibbi_: Does the Media Have It Out for Elizabeth Warren?
+*   _F.H. Buckley_: Welcome Back, American Nationalism
     
-*   _Howie Carr_: White Lies Catch Up to Liz Warren
+*   _John Hawkins_: Christine Blasey Ford Is the Poster Girl for Fake Allegations
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   White House Digs In on Border Wall Demand, Risking Shutdown
 *   Federal Judge Rules Health Care Overhaul Unconstitutional
+*   Schumer Hits "Awful" Obamacare Ruling: We'll Fight It "Tooth and Nail"
 *   Republicans See 2018 "Autopsy" as Vital to Trump Re-election
-*   Trump: Dems Are "Hypocrites," Won't Do Wall Because of Me
-*   Wisconsin's Walker Signs Lame-Duck Bills Curbing Successor's Power
 *   Sen. Kyl to Resign, Arizona Governor to Appoint Successor
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,6 +243,15 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve38
+    *   Disapprove57Disapprove +19
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove51Disapprove +4
+*   Direction of CountryRasmussen Reports
+    *   Right Direction41
+    *   Wrong Track53Wrong Track +12
 *   Iowa Democratic Presidential CaucusDes Moines Register/CNN
     *   Biden32
     *   Sanders19
@@ -252,23 +261,14 @@ Latest PollsAll Polls
     *   Booker4
     *   Bloomberg3
     *   Klobuchar3Biden +13
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve43
-    *   Disapprove54Disapprove +11
-*   Direction of CountryNBC News/Wall St. Jrnl
-    *   Right Direction33
-    *   Wrong Track56Wrong Track +23
-*   President Trump Job ApprovalCNBC
-    *   Approve41
-    *   Disapprove47Disapprove +6
 
 More Latest Polls In The News
 
+*   WSJ's Daniel Henninger: Trump Probe Looking Less Like A Prosecution And More Like A Persecution
+*   Graham: Same Folks Who Were In The Tank For Clinton Are On The Trail Of Flynn
 *   Adam Schiff: If Mueller Won't Look Into Trump Business Deals, Congress Will Have To
 *   Stephen Miller: Trump "Absolutely" Willing To Shut Down Government Over Border Wall
-*   Chuck Schumer on "Awful" Obamacare Ruling: "We're Going To Fight This Tooth And Nail"
 *   Rudy Giuliani: "Pathetic" Michael Cohen Is Going To Be "Ripped Apart" On The Witness Stand
-*   Michael Cohen: Trump Knew What He Was Doing Was Wrong, "I Will Not Be The Villain Of His Story"
 
 *   Politics
 *   Policy
