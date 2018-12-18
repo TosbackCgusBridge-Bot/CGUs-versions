@@ -278,7 +278,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Select Country
 *   My Account My Account Login Register
 
-5 DAYS LEFT FOR FREE DELIVERY BEFORE CHRISTMAS ($50 MIN) Menu Find a Store Aeropostale
+3 DAYS LEFT FOR FREE DELIVERY BEFORE CHRISTMAS ($50 MIN) Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -507,20 +507,20 @@ Close submenu ( Live Love Dream ) Live Love Dream
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ON ORDERS OVER $50 Search Catalog Search GET IT THERE BY CHRISTMAS! Order by December 19, 11:59 PM EST For Economy Ground Cutoff Shop Girls Shop Guys Get In Store Coupon Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts
 
-Previous*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
+Previous*   Gifts Under $20 Starting at $8.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
 *   Stocking Stuffers Starting at $3.15 Shop Girls Shop Guys
 *   Gifts Under $10 Starting at $3.15 Shop Girls Shop Guys
-*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
+*   Gifts Under $20 Starting at $8.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
 *   Stocking Stuffers Starting at $3.15 Shop Girls Shop Guys
 *   Gifts Under $10 Starting at $3.15 Shop Girls Shop Guys
-*   Gifts Under $20 Starting at $6.00 Shop Girls Shop Guys
+*   Gifts Under $20 Starting at $8.00 Shop Girls Shop Guys
 *   Lounge Starting at $4.00 Shop Girls Shop Guys
 Next
 
 Shop Favorites For Her Shop Favorites For Him Hoodies + Sweatshirts Our super-soft fleece makes the perfect gift for anyone who wants to look cool and keep warm. So...everyone on your list In Stores &. Online $11.87 &. Up Shop Girls Hoodies Shop Guys Hoodies Long Sleeve In Stores &. Online $8 &. Up Shop Girls Long Sleeve Shop Guys Long Sleeve Aero Jeans 18 fits and 81 washes mean more chances  
-to find your perfect denim this season. In Stores &. Online $15.87 &. Up Shop Girls Jeans Shop Guys Jeans Jackets + Vests With jackets and vests in light, medium, or heavy weight, we've got outerwear for everyone on your gift list. In Stores &. Online $11.87 &. Up Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Shop Gift Cards Visit the Help Desk <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+to find your perfect denim this season. In Stores &. Online $15.87 &. Up Shop Girls Jeans Shop Guys Jeans Jackets + Vests With jackets and vests in light, medium, or heavy weight, we've got outerwear for everyone on your gift list. In Stores &. Online $11.87 &. Up Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Shop Gift Cards Visit the Help Desk Learn More <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions Details FOLLOW US Customer Care
 
 *   Order Status
