@@ -6,7 +6,7 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   My Events
     *   My World Clock
     *   My Privacy
-    *   Become a Supporter
+    *   Paid Services
     *   Sign in
     *   Register
 *   BackHome
