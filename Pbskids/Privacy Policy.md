@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-What parents should know about Common Core math. What parents should know about Common Core math. Learn more
+Find fun, hands-on educational activities to do with your child. Find fun, hands-on educational activities to do with your child. Go now
 
 Toggle message bar
 
