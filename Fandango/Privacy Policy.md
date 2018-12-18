@@ -5,43 +5,44 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
-    *   Ralph Breaks the Internet
+    *   Spider-Man: Into the Spider-Verse
+    *   The Mule (2018)
     *   Dr. Seuss' The Grinch (2018)
+    *   Ralph Breaks the Internet
+    *   Mortal Engines
     *   Creed II
-    *   Fantastic Beasts: The Crimes of Grindelwald
     *   Bohemian Rhapsody
     *   Instant Family (2018)
+    *   Fantastic Beasts: The Crimes of Grindelwald
     *   Green Book
-    *   Robin Hood (2018)
-    *   The Possession of Hannah Grace
-    *   Widows (2018)
-    *   A Star Is Born (2018)
+    *   Once Upon a Deadpool
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Mortal Engines
-    *   The Mule (2018)
-    *   Spider-Man: Into the Spider-Verse
-    *   The Favourite
-    *   Once Upon a Deadpool
-    *   Beyond White Space
-    *   Capernaum (2018)
-    *   The House That Jack Built (2018)
-    *   If Beale Street Could Talk
-    *   The Wedding (2018)
+    *   Aquaman
+    *   Bumblebee
+    *   Mary Poppins Returns (2018)
+    *   They Shall Not Grow Old
+    *   Second Act
+    *   Welcome to Marwen
+    *   Mary Queen of Scots (2018)
+    *   Cold War (2018)
+    *   Moscow Never Sleeps
+    *   Swing Kids (2018)
+    *   Zero (2018)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Aquaman
-    *   Bumblebee
-    *   Mary Poppins Returns (2018)
-    *   Second Act
-    *   Welcome to Marwen
     *   Holmes &. Watson
     *   Vice (2018)
     *   Escape Room (2019)
+    *   A Dog's Way Home
+    *   The Upside
+    *   Glass (2019)
+    *   Serenity (2019)
+    *   The Kid Who Would Be King
     *   See All Coming Soon
     
     Explore More
@@ -317,9 +318,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Spider-Man: Into the Spider-Verse' Gift with Purchase
+*   Fandango Gift Cards
     
-    Own 'Venom' for $10 with ticket purchase. BUY TICKETS
+    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
 *   'Mary Poppins Returns' Gift with Purchase
     
