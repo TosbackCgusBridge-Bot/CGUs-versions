@@ -24,17 +24,17 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% 
     
     $999 sale
     
-    was $30 St. John's Bay Long Sleeve Thermal TopAdd To Cart
+    was $30 St. John's Bay Long Sleeve Thermal Top(28)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $30 St. John's Bay Long Sleeve Flannel ShirtAdd To Cart
+    was $30 St. John's Bay Long Sleeve Flannel Shirt(358)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1299 sale
     
-    was $36 Arizona Long Sleeve Spread Collar Flannel ShirtsAdd To Cart
+    was $36 Arizona Long Sleeve Spread Collar Flannel Shirts(18)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $799 sale
@@ -44,17 +44,17 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% 
     
     $899 sale
     
-    was $30 St. John's Bay Long Sleeve Jersey Polo ShirtAdd To Cart
+    was $30 St. John's Bay Long Sleeve Jersey Polo Shirt(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $899 sale
     
-    was $30 St. John's Bay Long Sleeve Henley ShirtAdd To Cart
+    was $30 St. John's Bay Long Sleeve Henley Shirt(26)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $899 sale
     
-    was $30 St. John's Bay Long Sleeve Henley ShirtAdd To Cart
+    was $30 St. John's Bay Long Sleeve Henley Shirt(12)Add To Cart
 
 UP TO 70% OFF WOMEN'S SWEATERSShop AllUP TO 70% OFF WOMEN'S SWEATERSShop All
 
@@ -62,37 +62,37 @@ UP TO 70% OFF WOMEN'S SWEATERSShop AllUP TO 70% OFF WOMEN'S SWEATERSShop All
     
     $999 sale
     
-    was $37 Worthington Womens Crew Neck Long Sleeve Pullover SweaterAdd To Cart
+    was $37 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(26)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $32 Worthington Womens V Neck Long Sleeve Pullover SweaterAdd To Cart
+    was $32 Worthington Womens V Neck Long Sleeve Pullover Sweater(23)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $32 Worthington Womens Crew Neck Long Sleeve Pullover SweaterAdd To Cart
+    was $32 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(16)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1499 sale
     
-    was $44 Worthington Womens Long Sleeve Open Front CardiganAdd To Cart
+    was $44 Worthington Womens Long Sleeve Open Front Cardigan(11)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1320 sale
     
-    was $44 a.n.a Long Sleeve Open Neck CardiganAdd To Cart
+    was $44 a.n.a Long Sleeve Open Neck Cardigan(28)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $37 Worthington Womens V Neck Long Sleeve Stripe Pullover SweaterAdd To Cart
+    was $37 Worthington Womens V Neck Long Sleeve Stripe Pullover Sweater(1)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $44 a.n.a Womens V Neck Long Sleeve Pullover SweaterAdd To Cart
+    was $44 a.n.a Womens V Neck Long Sleeve Pullover Sweater(19)Add To Cart
 
 UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
 
@@ -134,20 +134,16 @@ UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop A
 
 Hot Sellers
 
-*   $3999 sale
-    
-    was $59.50 | 32% offLevi's® 514™ Straight Jeans(457)
-*   $1875 sale
-    
-    was $25 | 25% offDisney Collection Buzz Lightyear Talking Action Figure(210)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
-    $70
+    $79
     
-    Arizona Womens Oxford Booties Zip
-*   $1599after couponwas $40 The Foundry Big &. Tall Supply Co. Long Sleeve Henley Shirt-Big and Tall(11)
+    Yuu Womens Scarlet Wedge Heel Zip Bootie(5)
+*   $3999 sale
+    
+    was $59.50 | 32% offLevi's® 501® Original Fit Jeans(3004)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
@@ -155,11 +151,19 @@ Hot Sellers
     $60
     
     Arizona Womens Oakes Booties Block Heel Zip
-*   BUY 1 GET 1 50% OFF
+*   BUY 1 GET 2 FOR FREE
     
-    $20
+    LIMITED TIME SPECIAL!
     
-    Nike® 6-pk. Performance Cotton Crew Socks(91)
+    $70
+    
+    Arizona Womens Oxford Booties Zip
+*   $1999after couponwas $60 Van Heusen Flex Quarter-Zip Sweater(39)
+*   LIMITED TIME SPECIAL!
+    
+    $25 sale
+    
+    was $75 | 66% offQ7 Limited Time Special! Black Smartwatch(87)
 
 Shop and Save at JCPenney
 
