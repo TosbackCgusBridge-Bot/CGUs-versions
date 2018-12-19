@@ -206,22 +206,21 @@ I accept Menu
 *   Online banking
 *   Contact
 
-Online banking Contact Search HSBC Group corporate website | HSBC Holdings plc HSBC hits USD25bn  
-sustainability milestone Read more Businesses seek green gains
+Online banking Contact Search HSBC Group corporate website | HSBC Holdings plc Southeast Asia’s rising wealth Read more The new space race
 
-Businesses can benefit financially by encouraging their suppliers to be more sustainable.
+Satellites could help to connect 350 million people worldwide to the internet in the coming decade, says HSBC’s Davey Jose.
 
 Read more A smashing end to badminton’s year
 
 Top badminton players are competing at the HSBC BWF World Tour Finals, marking the end of the bank’s first year of sponsoring the sport.
 
-Read more The new space race
+Read more HSBC hits USD25bn sustainability milestone
 
-Satellites could help to connect 350 million people worldwide to the internet in the coming decade, says HSBC’s Davey Jose.
+The bank has set itself a target of providing USD100 billion in sustainable financing by 2025.
 
-Read more Made for China
+Read more Businesses seek green gains
 
-Understanding changing Chinese consumer tastes is key to unlocking business opportunities, according to HSBC's Navigator: Made for China report.
+Businesses can benefit financially by encouraging their suppliers to be more sustainable.
 
 Read more News and insight Our approach 100 100 Per CENT
 
