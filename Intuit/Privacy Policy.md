@@ -18,7 +18,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop All
+Near YouFind a StoreBackFINAL HOURS OF COUPON CODE4FLASHENDS IN00HOURS 41MINS 05SECS \*Offer ends December 19, 2018 UP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop All
 
 *   LIMITED TIME SPECIAL!
     
@@ -29,7 +29,7 @@ Near YouFind a StoreBackUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% 
     
     $999 sale
     
-    was $30 St. John's Bay Long Sleeve Flannel Shirt(358)Add To Cart
+    was $30 St. John's Bay Long Sleeve Flannel Shirt(359)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1299 sale
@@ -78,21 +78,25 @@ UP TO 70% OFF WOMEN'S SWEATERSShop AllUP TO 70% OFF WOMEN'S SWEATERSShop All
     $1499 sale
     
     was $44 Worthington Womens Long Sleeve Open Front Cardigan(11)Add To Cart
-*   LIMITED TIME SPECIAL!
+*   BUY 1 GET 2 FOR FREE
     
-    $1320 sale
+    LIMITED TIME SPECIAL!
     
-    was $44 a.n.a Long Sleeve Open Neck Cardigan(28)Add To Cart
+    $44
+    
+    a.n.a Long Sleeve Open Neck Cardigan(28)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
     was $37 Worthington Womens V Neck Long Sleeve Stripe Pullover Sweater(1)Add To Cart
-*   LIMITED TIME SPECIAL!
+*   BUY 1 GET 2 FOR FREE
     
-    $999 sale
+    LIMITED TIME SPECIAL!
     
-    was $44 a.n.a Womens V Neck Long Sleeve Pullover Sweater(19)Add To Cart
+    $44
+    
+    a.n.a Womens V Neck Long Sleeve Pullover Sweater(19)Add To Cart
 
 UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
 
@@ -134,36 +138,22 @@ UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop A
 
 Hot Sellers
 
-*   BUY 1 GET 2 FOR FREE
+*   from$15 sale
     
-    LIMITED TIME SPECIAL!
-    
-    $79
-    
-    Yuu Womens Scarlet Wedge Heel Zip Bootie(5)
+    was $50 | 60 - 70% offStafford Flannel Pajama Set(7)
+*   $1874after couponwas $60 Van Heusen Flex Quarter-Zip Sweater(39)
+*   $2249after couponwas $60 Us Polo Assn. Quarter-Zip Pullover Big and Tall(4)
+*   $2249after couponwas $44 Lee® Relaxed-Fit Straight-Leg Jeans(484)
 *   $3999 sale
     
-    was $59.50 | 32% offLevi's® 501® Original Fit Jeans(3004)
+    was $49 | 18% offYuu Womens Camron Wide Calf Riding Boots(12)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
     $60
     
-    Arizona Womens Oakes Booties Block Heel Zip
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $70
-    
-    Arizona Womens Oxford Booties Zip
-*   $1999after couponwas $60 Van Heusen Flex Quarter-Zip Sweater(39)
-*   LIMITED TIME SPECIAL!
-    
-    $25 sale
-    
-    was $75 | 66% offQ7 Limited Time Special! Black Smartwatch(87)
+    Arizona Womens Lilly Wedge Heel Lace-up Bootie(58)
 
 Shop and Save at JCPenney
 
