@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1569 games
-*   Most Popular Games 18337 games
+*   Best of new games 1536 games
+*   Most Popular Games 18347 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,554 games
+*   Games for girls 23,560 games
 *   Driving &. Racing Games 6,730 games
 *   Strategy &. RPG Games 2,405 games
 *   Management Games 3,635 games
-*   Thinking Games 11,892 games
-*   Action &. Adventure Games 15,887 games
+*   Thinking Games 11,893 games
+*   Action &. Adventure Games 15,888 games
 *   Sports Games 2,145 games
-*   Shooting Games 8,356 games
+*   Shooting Games 8,360 games
 *   Fighting Games 2,090 games
-*   Skill Games 10,683 games
-*   Arcade &. Classic Games 12,673 games
+*   Skill Games 10,684 games
+*   Arcade &. Classic Games 12,674 games
 *   Fun &. Crazy Games 2,476 games
 
 Play with friends  
-Powered by Y8 Account 137 Y8 Multiplayer Games 1,789 Y8 High Score Games 1,090 Y8 Achievements Games 795 Y8 Screenshots Games 1,384 Y8 Online Save Games 2,815 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 138 Y8 Multiplayer Games 1,792 Y8 High Score Games 1,092 Y8 Achievements Games 795 Y8 Screenshots Games 1,384 Y8 Online Save Games 2,818 All Y8 Games Games Last Highscore:
 
-**299** points on Pixel Road Taxi Depot by Muhammad
+**51** points on Slope Y8 by Komodo554
 
 Help us improve Bad translation? Social
 
@@ -272,4 +272,4 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Privacy Policy
 *   Cookie Policy
 
-We've recently updated our Privacy Policy and our Cookie Policy. Please take a moment to check them out. By continuing on our website, you consent that you read and understood these updated policies. Got it
+We and our partners collect data and use cookies for ad personalization and measurement, content personalization and traffic analysis. By continuing on our website you consent to it. Learn how reading our Privacy Policy and Cookie Policy. Got it
