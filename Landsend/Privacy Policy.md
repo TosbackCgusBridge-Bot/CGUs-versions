@@ -989,9 +989,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles. fleece from $13!
+Receive 50% off your order + FREE SHIPPING on orders over $50!
 
-code: CHEER pin: 2564 DETAILS
+code: RIBBON pin: 3648 DETAILS
 
 Customer Service Menu
 
