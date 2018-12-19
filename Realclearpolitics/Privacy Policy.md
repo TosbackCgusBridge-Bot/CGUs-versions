@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Roger Kimball_: Donald Trump and the Art of the Bipartisan Deal
+*   _Eli Lake_: Michael Flynn Is Owed an Apology
     
-*   _Andy Slavitt_: Obamacare Unconstitutional? That's a Cruel Mistake
+*   _Michelle Goldberg_: Yes, Russian Trolls Helped Elect Trump
     
-*   _Stephen Davis_: Fuel Tax Riots: The Breaking Point for France's Socialism?
+*   _Byron York_: What Happened to Strzok and Page's iPhones?
     
-*   _Bill McKibben_: Divestment Is Hitting Fossil Fuel Industry Where It Hurts
+*   _Mark Stern_: Roberts Will Never Take the New Obamacare Ruling Seriously
     
-*   _Alan Dershowitz_: Did Michael Flynn Lie? Or Did the FBI Act Improperly?
+*   _Damon Linker_: The Perils of Our Great Awokening
     
-*   _Matt Ford_: Robert Mueller's Legal Masterpiece
+*   _Brandon Weichert_: Seriously, Just Order the Pentagon to Build the Wall
     
-*   _Kurt Schlichter_: Pardon Everyone (Except That Rat Cohen)
+*   _Jonathan Allen_: Trump Is Losing Badly on Illegal Immigration
     
-*   _Matt Batzel_: Here's How Trump Can Win Wisconsin in 2020
+*   _Giancarlo Sopo_: Why Florida Remains the Democrats' Gordian Knot
     
-*   _Juan Williams_: The Republican Party's Worsening Problem With Women
+*   _Benedict Kiely_: The New Threat to Iraq's Christians
     
-*   _Alexandra DeSanctis_: Planned Parenthood Is Wrong: Abortion Isn't Health Care
+*   _Jianying Zha_: China's Bizarre Program to Keep Activists in Check
     
-*   _Kalev Leetaru_: Why Are First Ladies Still Fashion Accessories?
+*   _Lenore Skenazy_: Top 10 Worst Helicopter Parenting Moments of 2018
     
-*   _David Leonhardt_: The Secret to Democrats Winning in 2020
+*   _Rich Lowry_: Trump Totally Unbowed by the Weight of the Presidency
     
-*   _Deroy Murdock_: Dems Were for the Wall Before They Were Against It
+*   _Patti Davis_: A Child Occupies the White House - and the World Knows It
     
-*   _Bill Scher_: Why the Coming Shutdown May Be a Long One
+*   _George Neumayr_: James Comey's Latest Charade
     
-*   _Jonathan Turley_: Obamacare's Tortured History Catches Up With It
+*   _Jason Zengerle_: How Far Will These Dems Go Investigating Trump?
     
-*   _Jordan Weissmann_: The Affordable Care Act Is Not Dead Yet
+*   _Ben Weingarten_: Dem Makes Definitive Case Against Impeaching Trump
     
-*   _Salena Zito_: Is Political Correctness Killing American Comedy?
+*   _Robert Kuttner_: Trump Is Coming Apart--Can Dems Come Together?
     
-*   _Rich Kiamco_: Unlike Kevin Hart, I Learned From My Bad Joke
+*   _Steve Hilton_: It's Time to Admit This Is a Successful Presidency
     
-*   _Julie Kelly_: 2 More Good Reasons to Shut Down Mueller's Probe
+*   _Andrew Gawthorpe_: Trump Delivering for Conservatives on the Judiciary
     
-*   _Jack Shafer_: Far From Winding Down, Mueller's Probe Feels Energized
+*   _David Brooks_: Who Killed The Weekly Standard?
     
-*   _Dmitri Simes_: China and Russia: Dangerous Liaisons
+*   _Chris Buskirk_: Weekly Standard's Death Signals Rebirth of the Right
     
-*   _Susan Glasser_: How Trump Made War on Angela Merkel and Europe
+*   _Henrik Enderlein_: If Macron Fails, Europe Fails
     
-*   _F.H. Buckley_: Welcome Back, American Nationalism
+*   _Walter Russell Mead_: The Twilight of Human-Rights Diplomacy
     
-*   _John Hawkins_: Christine Blasey Ford Is the Poster Girl for Fake Allegations
+*   _Kevin Rudd_: Prospects for US-China Relations in 2019
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   After the Fed's Likely Rate Hike This Week, All Bets Are Off
 *   White House Digs In on Border Wall Demand, Risking Shutdown
+*   Graham: Same Folks Who Were in Tank for Clinton Tried to Get Flynn
 *   Federal Judge Rules Health Care Overhaul Unconstitutional
-*   Schumer Hits "Awful" Obamacare Ruling: We'll Fight It "Tooth and Nail"
 *   Republicans See 2018 "Autopsy" as Vital to Trump Re-election
-*   Sen. Kyl to Resign, Arizona Governor to Appoint Successor
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,32 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Kentucky Governor - Bevin vs. BeshearMason-Dixon
+    *   Beshear48
+    *   Bevin40Beshear +8
+*   Kentucky Governor - Bevin vs. GrimesMason-Dixon
+    *   Bevin47
+    *   Grimes46Bevin +1
+*   Kentucky Governor - Bevin vs. AdkinsMason-Dixon
+    *   Adkins42
+    *   Bevin41Adkins +1
 *   President Trump Job ApprovalGallup
     *   Approve38
     *   Disapprove57Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove51Disapprove +4
-*   Direction of CountryRasmussen Reports
-    *   Right Direction41
-    *   Wrong Track53Wrong Track +12
-*   Iowa Democratic Presidential CaucusDes Moines Register/CNN
-    *   Biden32
-    *   Sanders19
-    *   O'Rourke11
-    *   Warren8
-    *   Harris5
-    *   Booker4
-    *   Bloomberg3
-    *   Klobuchar3Biden +13
 
 More Latest Polls In The News
 
-*   WSJ's Daniel Henninger: Trump Probe Looking Less Like A Prosecution And More Like A Persecution
-*   Graham: Same Folks Who Were In The Tank For Clinton Are On The Trail Of Flynn
-*   Adam Schiff: If Mueller Won't Look Into Trump Business Deals, Congress Will Have To
-*   Stephen Miller: Trump "Absolutely" Willing To Shut Down Government Over Border Wall
-*   Rudy Giuliani: "Pathetic" Michael Cohen Is Going To Be "Ripped Apart" On The Witness Stand
+*   Acosta on Flynn: "Detachment From Reality" On Full Display At "Rare" Sanders White House Briefing
+*   Malcolm Nance: Russia Ran a Disinformation Campaign For Years So U.S. Would "Welcome An Invasion"
+*   Andrew Napolitano On "Doomsday" Scenario For Trump: Cohen Case Could Go To A Senate Jury
+*   Tucker Carlson: Why Is Congress Happy To Pay For Walls In Israel But Not On The U.S. Border?
+*   Graham: Same Folks Who Were In The Tank For Clinton Are On Flynn's Trail. "They Hated Trump And Liked Her"
 
 *   Politics
 *   Policy
