@@ -8,12 +8,16 @@ Menu PayPal
     *   PayPal Can Do That _Discover ways to manage and move your money_
     *   Shopping and More _Deals, gift cards and donations_Close
 *   BusinessBusiness
-    *   All Business Solutions _Merchant services, invoicing, and more_
-    *   Get Paid in Person _Mobile card readers and POS solutions_
-    *   Credit Card Processing _Accept credit, debit cards, and PayPal_
+    *   All Solutions _Our business products and services_
     *   Business Loans _Fast and fair financing_
-    *   Add PayPal to Your Checkout _Add the button to accept payments_
-    *   Offer Credit to Your Customers _Promote financing to help increase sales_Close
+    *   Payments _Take payments online and in-person_
+    *   Credit for Your Customers _Promote financing to help sell more_
+    *   Online Business Services _Solutions to build, run, and expand_
+    *   Business in a Box _Easy, all-in-one ecommerce tool_
+    *   *   Help
+        *   Fees
+        *   Business Resource Center
+        *   Setup CenterClose
 *   Send
 *   Request
 
@@ -105,4 +109,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=3bc4f9ab6fe1&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=304d74bd4b16475f85bd38d83d6ca6de&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=26650163c472e&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=a0e070f049a046048dff961fe74c389a&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
