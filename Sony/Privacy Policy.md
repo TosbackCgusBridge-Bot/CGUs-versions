@@ -125,7 +125,7 @@ Be a Hero in Your Community
 
 Over an hour of extras, including deleted &. extended scenes. Pick up #Venom on digital now or on Blu-ray December 18. pic.twitter.com/oDJAWemREq
 
-5 days ago
+6 days ago
 
 View Tweet
 
