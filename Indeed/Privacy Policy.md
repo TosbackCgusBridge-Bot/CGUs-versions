@@ -91,7 +91,7 @@ Please review the “Last Updated” legend at the top of the Cookie Policy to d
 
 Privacy Policy
 
-Last Updated: November 15, 2018
+Last Updated: December 18, 2018
 
 **1\. Introduction**
 
@@ -191,7 +191,7 @@ Indeed collects and processes your Personal Data on the basis of different legal
 
 **_– Performance of a Contract_**
 
-Most of the Personal Data processed by Indeed is performed on the basis that it is necessary for the performance of our agreement with you, or in order to take steps at the request of the user prior to entering such an agreement. An example of this would be where Indeed matches Job Seekers with Employers.
+Some of the Personal Data processed by Indeed is performed on the basis that it is necessary for the performance of our agreement with you, or in order to take steps at the request of the user prior to entering such an agreement. An example of this would be where Indeed sends a Job Seeker’s application to an Employer.
 
 **_– Legitimate Interest_**
 
@@ -299,7 +299,7 @@ If you have an Indeed account or an Indeed-hosted resume, you agree that Indeed 
 
 Indeed provides two-way message proxy and relay services to the users of our Indeed products (“Relay Service”), including: Indeed Resume, Indeed Apply, Post a Job, Indeed Chat, and Indeed Onboarding and other electronic communication services whether in the form of text, video or audio. By utilizing any Relay Service, you acknowledge that you are asking Indeed to send these messages on your behalf. This includes your resumes, cover letters, applications, messages, questionnaire answers, responses, offer letters and other materials.
 
-We process, monitor, review, store and analyze such content, including via automated means, for data analysis, quality control, enforcement of the Site Rules and other Indeed policies, content moderation, and to improve the Site or any other Indeed product or service. Examples of such improvements would be optimizing our search results, improving Job Listings, ensuring you are provide with personally relevant product features, and communications, and preventing fraud and spam. As a result of this activity, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient. Indeed may (but is not obligated to) notify you in such an event. By using a Relay Service or otherwise providing User Content through the Site, you consent to this activity and acknowledge that this activity is necessary for maintaining the quality of the Site and for providing the Relay Service.
+We process, monitor, review, store and analyze such content, including via automated means, for data analysis, quality control, enforcement of the Site Rules and other Indeed policies, content moderation, and to improve the Site or any other Indeed product or service. Examples of such improvements would be optimizing our search results, improving Job Listings, ensuring you are provide with personally relevant product features and communications, and preventing fraud and spam. As a result of this activity, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient. Indeed may (but is not obligated to) notify you in such an event. By using a Relay Service or otherwise providing User Content through the Site, you consent to this activity and acknowledge that this activity is necessary for maintaining the quality of the Site and for providing the Relay Service.
 
 **4.7 Sending You Text Messages About Employer Appointments**
 
@@ -339,7 +339,9 @@ Such transfers are performed in full compliance with applicable data protection 
 
 **_– Transfers to Employers_**
 
-Employers agree to comply with all their responsibilities under applicable data protection rules with respect to the collection, processing and storage of Personal Data, as well as providing adequate protection of all data subject rights provided for under all applicable data protection rules.
+Indeed sends Personal Data to Employers to which a Job Seeker applies and as described in sections 2 and 4 of this Privacy Policy. Such Personal Data will be processed in accordance with these terms and those of the relevant Employer. Job Seekers that apply to jobs through Indeed that are outside their own country may involve sending their Personal Data to countries with lower levels of data protection.
+
+Employer account holders agree to comply with all their responsibilities under applicable data protection rules with respect to the collection, processing and storage of Personal Data, as well as providing adequate protection of all data subject rights provided for under all applicable data protection rules.
 
 **_– Transfers to Service Providers and Vendors_**
 
@@ -504,7 +506,7 @@ This Agreement hereby incorporates by this reference any additional terms and co
 
 Indeed General Terms of Service
 
-Last Updated: December 13, 2018.
+Last Updated: December 18, 2018.
 
 **A.** The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.
 
@@ -733,7 +735,7 @@ The minimum age for these purposes shall be 16, however if local laws require th
 
 B. Indeed Resume/CV Program Terms
 
-Last Updated: October 17, 2018
+Last Updated: December 18, 2018
 
 These Indeed Resume Program Terms or Indeed CV Program Terms (collectively, “IRP Terms”) form a part of, and are incorporated into, the Indeed Terms of Service (the “Agreement”), and apply to any Employer that accesses or uses the Indeed Resume Program, or that otherwise indicates its acceptance of these Indeed Resume Program Terms.
 
@@ -1161,4 +1163,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cv013pmg20do000&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2018 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1cv2jcentacov800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
