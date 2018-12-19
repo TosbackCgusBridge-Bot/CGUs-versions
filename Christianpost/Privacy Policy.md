@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Evangelism
-*   Deaths in 2018
-*   CP's top 10
-*   Occult
-*   Dog the Bounty Hunter
+*   Christian airline
+*   Tamela Mann
+*   Santa Claus
+*   Funeral
+*   Francesca Battistelli
 
 About Us
 
