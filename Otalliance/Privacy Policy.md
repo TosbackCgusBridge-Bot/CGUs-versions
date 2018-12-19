@@ -32,6 +32,10 @@ Skip to main content Online Trust Alliance
     
     _▼_
 *   Best Practices
+    
+    *   Archive
+    
+    _▼_
 *   Committees
 *   Newsroom
     
@@ -114,6 +118,7 @@ More >>. Main menu
     *   Vision for Trust
     *   Advertising Integrity &. Fraud
 *   Best Practices
+    *   Archive
 *   Committees
 *   Newsroom
     *   Press Releases
@@ -135,6 +140,10 @@ Initiatives
 *   Internet of Things
 *   Privacy
 *   Public Policy
+
+Best Practices
+
+*   Archive
 
 Newsroom
 
