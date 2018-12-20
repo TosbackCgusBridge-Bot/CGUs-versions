@@ -146,6 +146,7 @@
             *   911 Requirements for PBX Operators
             *   Long Distance Terms &. Conditions
             *   Local Number Portability
+            *   ETC Lifeline
             *   Fraud Protection
         *   Wholesale/Carrier Services
         *   Tariffs &. Service Catalogs
@@ -352,6 +353,7 @@ Support
         *   911 Requirements for PBX Operators
         *   Long Distance Terms &. Conditions
         *   Local Number Portability
+        *   ETC Lifeline
         *   Fraud Protection
     *   Wholesale/Carrier Services
     *   Tariffs &. Service Catalogs
@@ -416,6 +418,7 @@ Phone and Long Distance Terms &. Policies
 *   911 Requirements for PBX Operators
 *   Long Distance Terms &. Conditions
 *   Local Number Portability
+*   Eligible Telecommunications Carrier (ETC) Information
 *   Fraud Protection
 
 Phone and Long Distance Terms &. Policies
