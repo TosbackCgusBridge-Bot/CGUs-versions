@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Design and Web team summary – 19 December 2018 ›
+*   Unity8: a project that uses Mir ›
 *   KDE apps at the snap of your fingers ›
 *   How to manage your Git history: Tips for keeping your commits tidy ›
 *   Secure VPN Connection with Ubuntu Core ›
-*   Canonical announces support for Kubernetes 1.13 on Ubuntu ›
-*   Using GPGPUs with Kubernetes ›
