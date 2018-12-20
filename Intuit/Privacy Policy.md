@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $49See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -18,7 +18,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackFINAL HOURS OF COUPON CODE4FLASHENDS IN00HOURS 41MINS 05SECS \*Offer ends December 19, 2018 UP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop All
+Near YouFind a StoreBackUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop All
 
 *   LIMITED TIME SPECIAL!
     
@@ -78,25 +78,21 @@ UP TO 70% OFF WOMEN'S SWEATERSShop AllUP TO 70% OFF WOMEN'S SWEATERSShop All
     $1499 sale
     
     was $44 Worthington Womens Long Sleeve Open Front Cardigan(11)Add To Cart
-*   BUY 1 GET 2 FOR FREE
+*   LIMITED TIME SPECIAL!
     
-    LIMITED TIME SPECIAL!
+    $1320 sale
     
-    $44
-    
-    a.n.a Long Sleeve Open Neck Cardigan(28)Add To Cart
+    was $44 a.n.a Long Sleeve Open Neck Cardigan(28)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
     was $37 Worthington Womens V Neck Long Sleeve Stripe Pullover Sweater(1)Add To Cart
-*   BUY 1 GET 2 FOR FREE
+*   LIMITED TIME SPECIAL!
     
-    LIMITED TIME SPECIAL!
+    $999 sale
     
-    $44
-    
-    a.n.a Womens V Neck Long Sleeve Pullover Sweater(19)Add To Cart
+    was $44 a.n.a Womens V Neck Long Sleeve Pullover Sweater(19)Add To Cart
 
 UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
 
@@ -138,22 +134,18 @@ UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop A
 
 Hot Sellers
 
-*   from$15 sale
+*   $1875 sale
     
-    was $50 | 60 - 70% offStafford Flannel Pajama Set(7)
-*   $1874after couponwas $60 Van Heusen Flex Quarter-Zip Sweater(39)
-*   $2249after couponwas $60 Us Polo Assn. Quarter-Zip Pullover Big and Tall(4)
-*   $2249after couponwas $44 Lee® Relaxed-Fit Straight-Leg Jeans(484)
-*   $3999 sale
+    was $25 | 25% offNike® Benassi JDI Womens Athletic Sandals(15)
+*   $1439after couponwas $60 Liz Claiborne Booties(79)
+*   $1599after couponwas $54 Van Heusen Flex Long-Sleeve Polo Shirt(29)
+*   from$2560after couponwas $40 - $44 Stafford® 4-pk. Heavyweight V-Neck T-Shirts - Big &. Tall(210)
+*   $3750 sale
     
-    was $49 | 18% offYuu Womens Camron Wide Calf Riding Boots(12)
-*   BUY 1 GET 2 FOR FREE
+    was $50 | 25% offNike Club Cargo Fleece Pant(63)
+*   $4899 sale
     
-    LIMITED TIME SPECIAL!
-    
-    $60
-    
-    Arizona Womens Lilly Wedge Heel Lace-up Bootie(58)
+    was $69.50 | 29% offLevi's® 511™ Slim Jeans Stretch(763)
 
 Shop and Save at JCPenney
 
