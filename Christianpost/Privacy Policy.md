@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
+*   Lysa TerKeurst
+*   Harvest Bible Chapel
 *   Christian airline
 *   Tamela Mann
-*   Santa Claus
-*   Funeral
-*   Francesca Battistelli
+*   Prison reform
 
 About Us
 
