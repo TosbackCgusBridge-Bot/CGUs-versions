@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Eli Lake_: Michael Flynn Is Owed an Apology
+*   _Sharyl Attkisson_: Mueller Has a Big Problem If Carter Page Isn't a Diabolical Spy
     
-*   _Michelle Goldberg_: Yes, Russian Trolls Helped Elect Trump
+*   _Chris Cillizza_: Trump's Flynn-Sized Blind Spot Was Just Exposed Again
     
-*   _Byron York_: What Happened to Strzok and Page's iPhones?
+*   _Deroy Murdock_: Flynn Is Innocent--His Guilty Plea Should Be Thrown Out
     
-*   _Mark Stern_: Roberts Will Never Take the New Obamacare Ruling Seriously
+*   _Sue Halpern_: The Search for Anti-Conservative Bias on Google
     
-*   _Damon Linker_: The Perils of Our Great Awokening
+*   _Ned Ryun_: Break Up Google for the Public Good
     
-*   _Brandon Weichert_: Seriously, Just Order the Pentagon to Build the Wall
+*   _Sen. Sheldon Whitehouse_: Stop Losing: A Battle Plan for Beating the Right
     
-*   _Jonathan Allen_: Trump Is Losing Badly on Illegal Immigration
+*   _Stephen Moore_: China Will Cave and Trump Will Win the Trade War
     
-*   _Giancarlo Sopo_: Why Florida Remains the Democrats' Gordian Knot
+*   _Jennifer Hillman_: How Trump Is Making Trade War With China Even Worse
     
-*   _Benedict Kiely_: The New Threat to Iraq's Christians
+*   _Josh Kraushaar_: Prepare for a Long, Chaotic Dem Primary Fight
     
-*   _Jianying Zha_: China's Bizarre Program to Keep Activists in Check
+*   _Karol Markowicz_: The Rise in Suicide and an Epidemic of Loneliness
     
-*   _Lenore Skenazy_: Top 10 Worst Helicopter Parenting Moments of 2018
+*   _Mark Lilla_: Two Roads for the New French Right
     
-*   _Rich Lowry_: Trump Totally Unbowed by the Weight of the Presidency
+*   _Osita Nwanevu_: The Surprising Success of Criminal Justice Reform
     
-*   _Patti Davis_: A Child Occupies the White House - and the World Knows It
+*   _Alfredo Ortiz_: Federal Reserve Threatens the Booming U.S. Economy
     
-*   _George Neumayr_: James Comey's Latest Charade
+*   _Harold Meyerson_: Imperatives for Democrats
     
-*   _Jason Zengerle_: How Far Will These Dems Go Investigating Trump?
+*   _Byron York_: Judge's False Accusations Mar Flynn Sentencing Hearing
     
-*   _Ben Weingarten_: Dem Makes Definitive Case Against Impeaching Trump
+*   _Michael Stern_: Flynn Lesson: Don't Blame FBI for Your Crimes
     
-*   _Robert Kuttner_: Trump Is Coming Apart--Can Dems Come Together?
+*   _Matthew Walther_: The Mueller Delusion
     
-*   _Steve Hilton_: It's Time to Admit This Is a Successful Presidency
+*   _Richard Cohen_: Trump's Secrets of Success Have Finally Failed Him
     
-*   _Andrew Gawthorpe_: Trump Delivering for Conservatives on the Judiciary
+*   _Betsy McCaughey_: Trump's Making Health Insurance More Affordable
     
-*   _David Brooks_: Who Killed The Weekly Standard?
+*   _Dahlia Lithwick_: Ruth Bader Ginsburg, Feminist Gladiator
     
-*   _Chris Buskirk_: Weekly Standard's Death Signals Rebirth of the Right
+*   _Alexandra DeSanctis_: The Progressive Patriarchy
     
-*   _Henrik Enderlein_: If Macron Fails, Europe Fails
+*   _Bruce DuMont_: The Christian Case for Criminal Justice Reform
     
-*   _Walter Russell Mead_: The Twilight of Human-Rights Diplomacy
+*   _Thomas Friedman_: Is This the End of the Europian Union?
     
-*   _Kevin Rudd_: Prospects for US-China Relations in 2019
+*   _Max Boot_: We Need a New Weekly Standard Untainted by Trump
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Senate Passes Sweeping Criminal Justice Bill in Bipartisan Vote
+*   McSally Appointed to Replace Kyl in AZ Senate Seat Held by McCain
+*   Schumer: Trump Is Not Getting the Wall "Plain and Simple"
 *   After the Fed's Likely Rate Hike This Week, All Bets Are Off
-*   White House Digs In on Border Wall Demand, Risking Shutdown
-*   Graham: Same Folks Who Were in Tank for Clinton Tried to Get Flynn
 *   Federal Judge Rules Health Care Overhaul Unconstitutional
-*   Republicans See 2018 "Autopsy" as Vital to Trump Re-election
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Kentucky Governor - Bevin vs. BeshearMason-Dixon
-    *   Beshear48
-    *   Bevin40Beshear +8
-*   Kentucky Governor - Bevin vs. GrimesMason-Dixon
-    *   Bevin47
-    *   Grimes46Bevin +1
-*   Kentucky Governor - Bevin vs. AdkinsMason-Dixon
-    *   Adkins42
-    *   Bevin41Adkins +1
-*   President Trump Job ApprovalGallup
-    *   Approve38
-    *   Disapprove57Disapprove +19
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve43
+    *   Disapprove54Disapprove +11
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve39
+    *   Disapprove52Disapprove +13
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve43
+    *   Disapprove52Disapprove +9
 
 More Latest Polls In The News
 
-*   Acosta on Flynn: "Detachment From Reality" On Full Display At "Rare" Sanders White House Briefing
+*   Lindsey Graham: Withdrawal From Syria Is An "Obama-Like Mistake". "ISIS Is Going To Get A Shot In The Arm"
+*   Limbaugh: Trump Got Less Than Nothing, Democrats Got Everything. Victory For "Denizens Of The Swamp"
+*   Victor Davis Hanson: Elites Haven't Faced Consequences. Brennan, Comey, Clapper, McCabe, Rice All Lied
 *   Malcolm Nance: Russia Ran a Disinformation Campaign For Years So U.S. Would "Welcome An Invasion"
-*   Andrew Napolitano On "Doomsday" Scenario For Trump: Cohen Case Could Go To A Senate Jury
-*   Tucker Carlson: Why Is Congress Happy To Pay For Walls In Israel But Not On The U.S. Border?
-*   Graham: Same Folks Who Were In The Tank For Clinton Are On Flynn's Trail. "They Hated Trump And Liked Her"
+*   Acosta on Flynn: "Detachment From Reality" On Full Display At "Rare" Sanders White House Briefing
 
 *   Politics
 *   Policy
