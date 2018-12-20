@@ -70,7 +70,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Scott Derrickson to Direct ‘Doctor Strange’ Sequel. Here’s Everything We Know Read More
+    *   First ‘Hellboy’ Trailer Arrives Just in Time. Here’s Everything We Know Read More
     *   The Week in Movie News: Scott Derrickson to Direct ‘Doctor Strange 2,’ New ‘Godzilla: King of the Monsters’ Trailer and More Read More
     *   'A Star Is Born' Leads Screen Actors Guild Award Nominations Read More
     
@@ -318,21 +318,17 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   Fandango Gift Cards
+*   'On the Basis of Sex' Sweepstakes
     
-    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
-    
-*   'Mary Poppins Returns' Gift with Purchase
-    
-    Get a free song download of 'Trip a Little Light Fantastic’ with ticket purchase. BUY TICKETS
+    Enter for a chance to win a script of the movie signed by cast &. filmakers! ENTER NOW
     
 *   'Aquaman' Gift with Purchase
     
     Get 5 FREE digital DC Comics with ticket purchase. BUY TICKETS
     
-*   It’s the Holiday Daily Giveaway &. Movie Sweeps!
+*   Fandango Gift Cards
     
-    Daily Prize: $25 gift card (5 winners/day) Grand prize: A year of movies! BUY NOW
+    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
 
 New + Coming soon
@@ -381,4 +377,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
