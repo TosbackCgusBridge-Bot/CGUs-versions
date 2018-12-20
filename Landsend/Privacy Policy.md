@@ -989,9 +989,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off your order + FREE SHIPPING on orders over $50!
+Receive 50% off full-price styles!
 
-code: RIBBON pin: 3648 DETAILS
+code: CAROLS pin: 9842 DETAILS
 
 Customer Service Menu
 
