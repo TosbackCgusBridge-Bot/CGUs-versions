@@ -154,7 +154,7 @@
     *   Sausage &. Salami
     *   Snacks &. Nuts
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Just Extended! Free Shipping on Shipments Over $35!\*
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go 2-day shipping only $10! Save $15 and get gifts in time for Christmas\*
 
 1.  Home
 2.  Privacy Policy
