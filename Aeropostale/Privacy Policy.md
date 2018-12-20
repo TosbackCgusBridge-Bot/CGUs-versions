@@ -175,7 +175,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
 *   Destroyed Denim
-*   Low Rise Jegging
 *   High-Waisted Ankle Jegging
 *   High-Waisted Jegging
 *   Super High-Waisted Jegging
@@ -278,7 +277,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Select Country
 *   My Account My Account Login Register
 
-2 DAYS LEFT FOR FREE DELIVERY BEFORE CHRISTMAS ($50 MIN) Menu Find a Store Aeropostale
+Select 2 Business Days by 1:30 PM EST for Delivery Before Christmas Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -414,7 +413,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
     *   Girls Jeans
         *   View All
         *   Destroyed Denim
-        *   Low Rise Jegging
         *   High-Waisted Ankle Jegging
         *   High-Waisted Jegging
         *   Super High-Waisted Jegging
@@ -505,20 +503,20 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search GET IT THERE BY CHRISTMAS! Order by December 19, 11:59 PM EST For Economy Ground Cutoff Shop Girls Shop Guys Shop Girls Shop Guys
+ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Shop Girls Shop Guys Shop Girls Shop Guys
 
 Previous*   Shirts Starting at $11.87 Shop Guys Flannels
-*   Puffer Vests Starting at $11.87 Shop Girls Outerwear Shop Guys Outerwear
+*   Puffer Vests Starting at $9.87 Shop Girls Outerwear Shop Guys Outerwear
 *   $5.87 Graphic Tees Starting at $5.87 Shop Girls Shop Guys
 *   Hoodies + Joggers Starting at $8.87 Shop Girls Hoodies + Joggers Shop Guys Hoodies + Joggers
 *   Fashion Tops Starting at $6.87 Shop Girls Fashion Tops
 *   Shirts Starting at $11.87 Shop Guys Flannels
-*   Puffer Vests Starting at $11.87 Shop Girls Outerwear Shop Guys Outerwear
+*   Puffer Vests Starting at $9.87 Shop Girls Outerwear Shop Guys Outerwear
 *   $5.87 Graphic Tees Starting at $5.87 Shop Girls Shop Guys
 *   Hoodies + Joggers Starting at $8.87 Shop Girls Hoodies + Joggers Shop Guys Hoodies + Joggers
 *   Fashion Tops Starting at $6.87 Shop Girls Fashion Tops
 *   Shirts Starting at $11.87 Shop Guys Flannels
-*   Puffer Vests Starting at $11.87 Shop Girls Outerwear Shop Guys Outerwear
+*   Puffer Vests Starting at $9.87 Shop Girls Outerwear Shop Guys Outerwear
 *   $5.87 Graphic Tees Starting at $5.87 Shop Girls Shop Guys
 Next
 
