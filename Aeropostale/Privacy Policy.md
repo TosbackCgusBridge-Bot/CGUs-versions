@@ -183,6 +183,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Cheeky
 *   Flex Effects
 *   Eco-Friendly Repreve
+*   Copy of Low Rise Jegging
 
 Close submenu ( Guys Jeans ) Guys Jeans
 
@@ -277,7 +278,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Select Country
 *   My Account My Account Login Register
 
-Select 2 Business Days by 1:30 PM EST for Delivery Before Christmas Menu Find a Store Aeropostale
+Select Overnight by 1:30 PM EST for Delivery Before Christmas Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -421,6 +422,7 @@ Select 2 Business Days by 1:30 PM EST for Delivery Before Christmas Menu Find a 
         *   Cheeky
         *   Flex Effects
         *   Eco-Friendly Repreve
+        *   Copy of Low Rise Jegging
     
     *   Guys Jeans
         *   View All
@@ -561,17 +563,3 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
