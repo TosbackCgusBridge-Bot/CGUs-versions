@@ -318,10 +318,6 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'On the Basis of Sex' Sweepstakes
-    
-    Enter for a chance to win a script of the movie signed by cast &. filmakers! ENTER NOW
-    
 *   'Aquaman' Gift with Purchase
     
     Get 5 FREE digital DC Comics with ticket purchase. BUY TICKETS
@@ -330,17 +326,25 @@ Offers
     
     Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
+*   'Second Act' Gift with Purchase
+    
+    Get a free song download of 'Limitless’ by Jennifer Lopez with ticket purchase. BUY TICKETS
+    
+*   'On the Basis of Sex' Sweepstakes
+    
+    Enter for a chance to win a script of the movie signed by cast &. filmakers! ENTER NOW
+    
 
 New + Coming soon
 
 *   Dr. Seuss' The Grinch (2018)
-*   Fantastic Beasts: The Crimes of Grindelwald
-*   Creed II
-*   Robin Hood (2018)
-*   Ralph Breaks the Internet
+*   Mary Queen of Scots (2018)
 *   Spider-Man: Into the Spider-Verse
+*   Mary Poppins Returns (2018)
+*   Second Act
 *   Bumblebee
 *   Aquaman
+*   On the Basis of Sex
 
 Experience + Explore
 
