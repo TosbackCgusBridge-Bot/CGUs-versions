@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Sharyl Attkisson_: Mueller Has a Big Problem If Carter Page Isn't a Diabolical Spy
+*   _Matt Barreto_: No, Trump Is Not Winning on So-Called Border Security
     
-*   _Chris Cillizza_: Trump's Flynn-Sized Blind Spot Was Just Exposed Again
+*   _Rush Limbaugh_: Do the Right Thing and Be a Hero, Mr. President
     
-*   _Deroy Murdock_: Flynn Is Innocent--His Guilty Plea Should Be Thrown Out
+*   _David Lurie_: Trump's A.G. Pick Sounds Like He Would Fire Mueller
     
-*   _Sue Halpern_: The Search for Anti-Conservative Bias on Google
+*   _Mollie Hemingway_: Making Comey's Firing a Crime Will Destroy DOJ
     
-*   _Ned Ryun_: Break Up Google for the Public Good
+*   _Sen. Ron Wyden_: Time for Congress to Step In to Protect Facebook Users
     
-*   _Sen. Sheldon Whitehouse_: Stop Losing: A Battle Plan for Beating the Right
+*   _Doug Bandow_: Why Trump Is Right to Withdraw Troops
     
-*   _Stephen Moore_: China Will Cave and Trump Will Win the Trade War
+*   _Tim Kaine_: Democrats Need to Start Talking About National Security
     
-*   _Jennifer Hillman_: How Trump Is Making Trade War With China Even Worse
+*   _Asma Khalid_: Democrats Can't Avoid Identity Politics in 2020
     
-*   _Josh Kraushaar_: Prepare for a Long, Chaotic Dem Primary Fight
+*   _Peter Wallison_: DeVos Rule on Sexual Harassment Restores Primacy of Law
     
-*   _Karol Markowicz_: The Rise in Suicide and an Epidemic of Loneliness
+*   _Mike Konczal_: The Green New Deal Is Good for the Planet and Democrats
     
-*   _Mark Lilla_: Two Roads for the New French Right
+*   _Stephen Moore_: Follow the (Climate Change) Money
     
-*   _Osita Nwanevu_: The Surprising Success of Criminal Justice Reform
+*   _David Ignatius_: U.S. Withdrawal From Syria Is a Risky Mistake
     
-*   _Alfredo Ortiz_: Federal Reserve Threatens the Booming U.S. Economy
+*   _John Bradley_: Ignore the Critics, Syria Withdrawal Is Bold &. Brave
     
-*   _Harold Meyerson_: Imperatives for Democrats
+*   _Seth Lipsky_: We All Need to Cool It With the 'Treason' Talk
     
-*   _Byron York_: Judge's False Accusations Mar Flynn Sentencing Hearing
+*   _Lucian Truscott IV_: Flynn Isn't a Traitor, But He Did Sell Out His Country
     
-*   _Michael Stern_: Flynn Lesson: Don't Blame FBI for Your Crimes
+*   _Alan Dershowitz_: Judge Sullivan Was Flat Out Wrong About Flynn
     
-*   _Matthew Walther_: The Mueller Delusion
+*   _Joel Simon_: Why Were So Many Journalists Murdered in 2018?
     
-*   _Richard Cohen_: Trump's Secrets of Success Have Finally Failed Him
+*   _Noah Rothman_: Trump Isn't to Blame for Journalism's Dangerous Year
     
-*   _Betsy McCaughey_: Trump's Making Health Insurance More Affordable
+*   _Tammy Duckworth_: We Cannot Allow Our Country to Be Turned Into a War Zone
     
-*   _Dahlia Lithwick_: Ruth Bader Ginsburg, Feminist Gladiator
+*   _Sean Davis_: Trump's New 'Bump Stock' Ban Is a Legal Abomination
     
-*   _Alexandra DeSanctis_: The Progressive Patriarchy
+*   _Hal Brands_: China Is Blowing a Golden Opportunity
     
-*   _Bruce DuMont_: The Christian Case for Criminal Justice Reform
+*   _Ben Judah_: Bibi Was Right
     
-*   _Thomas Friedman_: Is This the End of the Europian Union?
+*   _Mort Kondracke_: No Brainer: An Immigration/Budget Deal
     
-*   _Max Boot_: We Need a New Weekly Standard Untainted by Trump
+*   _Victor Davis Hanson_: It Was Always About the Wall
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump to Withdraw All U.S. Troops From Syria, Declaring ISIS Defeat
+*   Federal Reserve Raises Rates, Trims Forecast for Hikes in 2019
+*   Graham Slams Trump's "Obama-Like Mistake" to Pull Out Troops
 *   Senate Passes Sweeping Criminal Justice Bill in Bipartisan Vote
 *   McSally Appointed to Replace Kyl in AZ Senate Seat Held by McCain
-*   Schumer: Trump Is Not Getting the Wall "Plain and Simple"
-*   After the Fed's Likely Rate Hike This Week, All Bets Are Off
-*   Federal Judge Rules Health Care Overhaul Unconstitutional
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalUSA Today/Suffolk
+    *   Approve42
+    *   Disapprove54Disapprove +12
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove51Disapprove +3
+*   Direction of CountryUSA Today/Suffolk
+    *   Right Direction35
+    *   Wrong Track54Wrong Track +19
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve43
     *   Disapprove54Disapprove +11
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve39
-    *   Disapprove52Disapprove +13
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve43
-    *   Disapprove52Disapprove +9
 
 More Latest Polls In The News
 
-*   Lindsey Graham: Withdrawal From Syria Is An "Obama-Like Mistake". "ISIS Is Going To Get A Shot In The Arm"
+*   Fmr. Sec Def Cohen: Trump Has "Taken A Wrecking Ball" To Every Pillar Of Stability Erected Over Past 70 Years
+*   Rep. Gutierrez vs. DHS Nielsen: Shame On Us Allowing Her To Lie As We Celebrate Birth Of Christ
+*   DHS Sec. Nielsen: Illegal Aliens Will Have To Wait In Their Own Countries For Asylum
+*   Rand Paul: Promise To End The War In Syria Is Why Trump Won The Election
 *   Limbaugh: Trump Got Less Than Nothing, Democrats Got Everything. Victory For "Denizens Of The Swamp"
-*   Victor Davis Hanson: Elites Haven't Faced Consequences. Brennan, Comey, Clapper, McCabe, Rice All Lied
-*   Malcolm Nance: Russia Ran a Disinformation Campaign For Years So U.S. Would "Welcome An Invasion"
-*   Acosta on Flynn: "Detachment From Reality" On Full Display At "Rare" Sanders White House Briefing
 
 *   Politics
 *   Policy
