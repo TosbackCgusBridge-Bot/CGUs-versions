@@ -1,6 +1,6 @@
 Pages Blanches Annuaire Inversé Se référencer Conditions Générales d’Utilisation du site PagesJaunes
 
-Version du 09/10/2018
+Version du 10/12/2018
 
 Mentions légales
 
@@ -84,7 +84,7 @@ Les Conditions d’Utilisation sont opposables à l’Utilisateur pendant toute 
 
 4 – Présentation des principaux Services 4.1 Services Editoriaux
 
-Services de consultation d’avis : ce service permet à tout Utilisateur de consulter des avis consommateurs sur les Professionnels. L’Utilisateur est informé que certains avis sont fournis par nos Partenaires « Avis Vérifiés », « Critizr »,  « Custplace», « GarageScore », « Guest Suite »,  « Immodvisor »,  et « Opinion System ». Ces avis sont identifiables sur le service par le biais d’une signalétique « Avis par Avis Vérifiés » et/ou « Avis par Critizr » et/ou « Avis par Custplace» et/ou « Avis par GarageScore » et/ou « Avis par Guest Suite » et/ou « Avis par Immodvisor » et/ou « Avis par Opinion System ». Pour des raisons éditoriales les pseudonymes des clients de nos partenaires ont été générés automatiquement par PagesJaunes. Ces avis sont soumis aux conditions générales ainsi qu’aux règles de modération du Partenaire concerné. PagesJaunes ne revoit ni ne contrôle les avis fournis par des Partenaires et ne sera en aucun cas tenu pour responsable des Contenus Partenaires. PagesJaunes se réserve néanmoins le droit de supprimer à son entière discrétion sans préavis et pour toute raison, tout Contenu Partenaires.
+Services de consultation d’avis : ce service permet à tout Utilisateur de consulter des avis consommateurs sur les Professionnels. L’Utilisateur est informé que certains avis sont fournis par nos Partenaires « Avis Vérifiés », « Critizr »,  « Custplace», « GarageScore », « Guest Suite »,  « Immodvisor »,  « FidCar », « Q3 Advocacy » et « Opinion System ». Ces avis sont identifiables sur le service par le biais d’une signalétique « Avis par Avis Vérifiés » et/ou « Avis par Critizr » et/ou « Avis par Custplace» et/ou « Avis par GarageScore » et/ou « Avis par Guest Suite » et/ou « Avis par Immodvisor » et/ou « FidCar » et/ou « Q3 Advocacy » et/ou « Avis par Opinion System ». Pour des raisons éditoriales les pseudonymes des clients de nos partenaires ont été générés automatiquement par PagesJaunes. Ces avis sont soumis aux conditions générales ainsi qu’aux règles de modération du Partenaire concerné. PagesJaunes ne revoit ni ne contrôle les avis fournis par des Partenaires et ne sera en aucun cas tenu pour responsable des Contenus Partenaires. PagesJaunes se réserve néanmoins le droit de supprimer à son entière discrétion sans préavis et pour toute raison, tout Contenu Partenaires.
 
 4.2 Services du Compte
 
