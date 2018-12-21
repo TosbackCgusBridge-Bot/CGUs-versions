@@ -1,5 +1,3 @@
-<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
-
 Pick a theme
 
 *   Red
@@ -118,8 +116,8 @@ View more results
     *   Five Nights at Freddy's 2
     *   FNAF World
     *   Tom and Jerry: Mouse Maze
-    *   Uphill Rush
-    *   Five Nights at Freddy's 4Spotlight Crime City 3D: Police Game
+    *   Five Nights at Freddy's 4
+    *   Uphill RushSpotlight Crime City 3D: Police Game
 *   Top Categories
     
     *   Bubble Shooter
@@ -429,4 +427,4 @@ Copyright © 2018 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-Your privacy settingsWe use cookies to personalize and enhance your experience on our site. Visit our Privacy Policy for more information on our data collection practices. By clicking Accept, you agree to our use of cookies for the purposes listed in our Cookie Consent Tool. Otherwise you can learn more about our use of cookies by clicking Settings.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Your privacy settingsWe use cookies to personalize and enhance your experience on our site. Visit our Privacy Policy for more information on our data collection practices. By clicking Accept, you agree to our use of cookies for the purposes listed in our Cookie Consent Tool. Otherwise you can learn more about our use of cookies by clicking Settings.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
