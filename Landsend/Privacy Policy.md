@@ -143,13 +143,13 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Kids' Outerwear Shop
     *   Kids' Hats, Gloves &. Scarves
     *   Kids' Iron Knees Pants
-    *   Kids' Pajama Shop
     *   Kids' Backpacks &. Lunch Boxes
     *   Gifts
     
     Kids' Sale>Girls' Clothing>
     
     *   Girls' Coats &. Jackets
+    *   Girls' Fleece
     *   Girls' Shoes
     *   Girls' Pajamas &. Robes
     *   Girls' Pants &. Leggings
@@ -167,6 +167,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     Boys' Clothing>
     *   Boys' Coats &. Jackets
+    *   Boys' Fleece
     *   Boys' Shoes
     *   Boys' Pajamas &. Robes
     *   Boys' Pants
@@ -610,7 +611,6 @@ Lands' End Sign In menu
         *   Kids' Outerwear Shop
         *   Kids' Hats, Gloves &. Scarves
         *   Kids' Iron Knees Pants
-        *   Kids' Pajama Shop
         *   Kids' Backpacks &. Lunch Boxes
         *   Gifts
     *   Kids' Sale
@@ -618,6 +618,7 @@ Lands' End Sign In menu
         *   Back
         *   View All
         *   Girls' Coats &. Jackets
+        *   Girls' Fleece
         *   Girls' Shoes
         *   Girls' Pajamas &. Robes
         *   Girls' Pants &. Leggings
@@ -636,6 +637,7 @@ Lands' End Sign In menu
         *   Back
         *   View All
         *   Boys' Coats &. Jackets
+        *   Boys' Fleece
         *   Boys' Shoes
         *   Boys' Pajamas &. Robes
         *   Boys' Pants
@@ -989,9 +991,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 50% off full-price styles!
+Receive savings up to 65% during the Great Winter Sale, plus 40% off full-price styles!
 
-code: CAROLS pin: 9842 DETAILS
+code: SNOWMAN pin: 2469 DETAILS
 
 Customer Service Menu
 
