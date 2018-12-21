@@ -52,6 +52,7 @@
     *   Best Credit Cards of 2018
     *   Best Rewards Credit Cards
     *   Best Travel Credit Cards
+    *   Best Airline Credit Cards
     *   Best Cash Back Credit Cards
     *   Best Balance Transfer Credit Cards
     *   Best 0% APR Credit Cards
