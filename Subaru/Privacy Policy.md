@@ -8,16 +8,16 @@ Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
-*   Money Subaru (89 miles)
-*   DuTeau Subaru (116 miles)
-*   Baxter Subaru (163 miles)
-*   Briggs Subaru of Topeka (164 miles)
-*   Beardmore Subaru (165 miles)
-*   Subaru of Wichita (167 miles)
+*   Money Subaru (89 Miles)
+*   DuTeau Subaru (116 Miles)
+*   Baxter Subaru (163 Miles)
+*   Briggs Subaru of Topeka (164 Miles)
+*   Beardmore Subaru (165 Miles)
+*   Subaru of Wichita (167 Miles)
 
 Submit
 
-*   Your Location: **80202**
+*   Your Location: **66952**
 *   For Owners
 *   Customer Support
 *   Search
