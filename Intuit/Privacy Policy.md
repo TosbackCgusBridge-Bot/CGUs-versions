@@ -1,4 +1,4 @@
-Accessible View
+Free Shipping Anywhere Over $49See DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -18,83 +18,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop AllUP TO 70% OFF MEN'S LONG SLEEVE SHIRTSShop All
-
-*   LIMITED TIME SPECIAL!
-    
-    $999 sale
-    
-    was $30 St. John's Bay Long Sleeve Thermal Top(28)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $999 sale
-    
-    was $30 St. John's Bay Long Sleeve Flannel Shirt(359)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1299 sale
-    
-    was $36 Arizona Long Sleeve Spread Collar Flannel Shirts(18)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $799 sale
-    
-    was $20 Arizona Long Sleeve Thermal TopAdd To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $899 sale
-    
-    was $30 St. John's Bay Long Sleeve Jersey Polo Shirt(5)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $899 sale
-    
-    was $30 St. John's Bay Long Sleeve Henley Shirt(26)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $899 sale
-    
-    was $30 St. John's Bay Long Sleeve Henley Shirt(12)Add To Cart
-
-UP TO 70% OFF WOMEN'S SWEATERSShop AllUP TO 70% OFF WOMEN'S SWEATERSShop All
-
-*   LIMITED TIME SPECIAL!
-    
-    $999 sale
-    
-    was $37 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(26)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $999 sale
-    
-    was $32 Worthington Womens V Neck Long Sleeve Pullover Sweater(23)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $999 sale
-    
-    was $32 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(16)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1499 sale
-    
-    was $44 Worthington Womens Long Sleeve Open Front Cardigan(11)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1320 sale
-    
-    was $44 a.n.a Long Sleeve Open Neck Cardigan(28)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $999 sale
-    
-    was $37 Worthington Womens V Neck Long Sleeve Stripe Pullover Sweater(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $999 sale
-    
-    was $44 a.n.a Womens V Neck Long Sleeve Pullover Sweater(19)Add To Cart
-
-UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
+Near YouFind a StoreBackUP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
 
 *   ADVERTISED DEAL!
     
@@ -131,21 +55,6 @@ UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop A
     $12995 sale
     
     was $149.95 Fitbit Charge 3 Unisex Blue Smart Watch-Fb409rggyAdd To Cart
-
-Hot Sellers
-
-*   $1875 sale
-    
-    was $25 | 25% offNike® Benassi JDI Womens Athletic Sandals(15)
-*   $1439after couponwas $60 Liz Claiborne Booties(79)
-*   $1599after couponwas $54 Van Heusen Flex Long-Sleeve Polo Shirt(29)
-*   from$2560after couponwas $40 - $44 Stafford® 4-pk. Heavyweight V-Neck T-Shirts - Big &. Tall(210)
-*   $3750 sale
-    
-    was $50 | 25% offNike Club Cargo Fleece Pant(63)
-*   $4899 sale
-    
-    was $69.50 | 29% offLevi's® 511™ Slim Jeans Stretch(763)
 
 Shop and Save at JCPenney
 
