@@ -175,6 +175,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
 *   Destroyed Denim
+*   Low Rise Jegging
 *   High-Waisted Ankle Jegging
 *   High-Waisted Jegging
 *   Super High-Waisted Jegging
@@ -183,7 +184,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Cheeky
 *   Flex Effects
 *   Eco-Friendly Repreve
-*   Copy of Low Rise Jegging
 
 Close submenu ( Guys Jeans ) Guys Jeans
 
@@ -278,7 +278,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Select Country
 *   My Account My Account Login Register
 
-Select Overnight by 1:30 PM EST for Delivery Before Christmas Menu Find a Store Aeropostale
+2 Days Left To Buy Online + Pick Up In Store Before Christmas DETAILS Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -414,6 +414,7 @@ Select Overnight by 1:30 PM EST for Delivery Before Christmas Menu Find a Store 
     *   Girls Jeans
         *   View All
         *   Destroyed Denim
+        *   Low Rise Jegging
         *   High-Waisted Ankle Jegging
         *   High-Waisted Jegging
         *   Super High-Waisted Jegging
@@ -422,7 +423,6 @@ Select Overnight by 1:30 PM EST for Delivery Before Christmas Menu Find a Store 
         *   Cheeky
         *   Flex Effects
         *   Eco-Friendly Repreve
-        *   Copy of Low Rise Jegging
     
     *   Guys Jeans
         *   View All
@@ -505,7 +505,7 @@ Select Overnight by 1:30 PM EST for Delivery Before Christmas Menu Find a Store 
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Shop Girls Shop Guys Shop Girls Shop Guys
+ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Shop Girls Shop Guys Shop E-Gift Cards Shop Girls Shop Guys
 
 Previous*   Shirts Starting at $11.87 Shop Guys Flannels
 *   Puffer Vests Starting at $9.87 Shop Girls Outerwear Shop Guys Outerwear
@@ -563,3 +563,17 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
