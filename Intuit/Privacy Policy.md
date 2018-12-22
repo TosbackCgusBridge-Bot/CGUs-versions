@@ -49,12 +49,21 @@ Near YouFind a StoreBackUP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF F
     
     $12995 sale
     
-    was $149.95 Fitbit Charge 3 Unisex Gray Smart Watch-Fb409gmbkAdd To Cart
+    was $149.95 Fitbit Charge 3 Unisex Gray Smart Watch-Fb409gmbk(1)Add To Cart
 *   ADVERTISED DEAL!
     
     $12995 sale
     
-    was $149.95 Fitbit Charge 3 Unisex Blue Smart Watch-Fb409rggyAdd To Cart
+    was $149.95 Fitbit Charge 3 Unisex Blue Smart Watch-Fb409rggy(1)Add To Cart
+
+Hot Sellers
+
+*   $1599after couponwas $70 Arizona Oxford Booties
+*   $1599after couponwas $60 Arizona Lilly Booties(63)
+*   $1439after couponwas $36 Stafford Travel Easy-Care Stretch Broadcloth Mens Collar Neck Long Sleeve Dress Shirt(24)
+*   $1599after couponwas $50 Stafford Flannel Pajama Set(11)
+*   $1599after couponwas $70 Worthington Lady Booties(18)
+*   $1439after couponwas $40 St. John's Bay Puffer Vest(20)
 
 Shop and Save at JCPenney
 
