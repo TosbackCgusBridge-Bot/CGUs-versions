@@ -8,7 +8,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Miraclesuit Swim
+    *   MIKOH Swim
+    *   Tiare Hawaii
+    *   Sunshine Ahead: Resort Sandals
+    *   Men's Resort Shop
+    *   Resort Wear for Kids
+    *   Havaianas for the Family
+    *   Converse Up to 60% Off
+    *   Converse Men Up to 50% Off
+    *   Level 99
+    *   Alternative
+    *   Converse Kids Up to 60% Off
+    *   CeCe by Cynthia Steffe
     *   Eileen Fisher Incl. Petites Up to 60% Off
+    *   Ron Hami Fine Jewelry Up to 50% Off
+    *   Free Shipping: Colorful Area Rugs Up to 80% Off
+    *   Day &. Mood: Leather Bags Starting at $40
+    *   Winter Vacay Faves for Kids
+    *   Sapanyu Layered Multicolor Gemstones
+    *   Ramarim
+    *   Converse Kids' Clothing
+    *   PX
+    *   XRAY Up to 70% Off
+    *   Alternative Apparel Men Up to 60% Off
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Budget-Friendly Accent Furniture
+    *   Mommy &. Me: Sleep Jumpsuits &. More ft. PJ Couture
+    *   Great Lengths: Mini, Midi &. Maxi Skirts
+    *   Ready, Set, Go: Men's Activewear
+    *   Kitchen Essentials Starting at $10
+    
     *   Eileen Fisher Shoes
     *   14K Gold Jewelry Steals
     *   Feminine Flair: Dresses Up to 65% Off
@@ -18,7 +48,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Seven7
     *   Must-Have Smoothers &. Shapers ft. Skinnygirl
     *   Brooks Brothers
-    *   Ben Sherman Up to 60% Off
     *   Ready for Takeoff: Travel Accessories
     *   On The Road
     *   Gentle Souls by Kenneth Cole
@@ -35,21 +64,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Korean Beauty: TONYMOLY
     *   Tiziana Terenzi Luxury Fragrances &. Candles
     *   Home Organization Starting at $11
-    *   2XU Active
-    
-    *   Rebecca Taylor
-    *   GUESS Coats Up to 65% Off
     *   Stocking Stuffers: ALEX AND ANI Bracelets
-    *   Naked Zebra
-    *   Carlos by Carlos Santana Starting at $35
-    *   Joan Vass Including Plus
-    *   Free Press
     *   Dr. Botanicals Natural Beauty
     *   Free Shipping: Amrapur Towels Up to 80% Off
     *   FREEZE Kids' Character Tees &. Hoodies
     *   The Little Holiday Shop ft. Joe Fresh
-    *   Panty Packs &. Tanks Starting at $10
-    *   Lodis Wallets &. More Starting at $20
+    
     *   BC Collection Up to 75% Off
     *   Swims Up to 65% Off
     *   Base London
@@ -61,45 +81,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   Free Shipping: Charming Home Accents
     *   Free Shipping: Ski Lodge-Inspired Decor &. More
-    *   adidas
-    *   adidas Men
-    *   adidas Active
-    *   adidas Kids' Shoes &. Clothing
-    
-    *   adidas Men's Active
     *   skinChemists
     *   Men's Cold-Weather Accessories Up to 70% Off
-    *   Vital Proteins
+    *   Ben Sherman Up to 60% Off
     *   Laura Mercier
     *   Poo-Pourri Bathroom Scents
-    *   Rogue Starting at $13
-    *   $60 &. Under: GBX
     *   NIGHT Youth-Boosting Pillows
     *   Car Storage &. Organization Essentials from $10
-    *   Kevyn Aucoin &. Lipstick Queen
     *   Free Shipping: Ultra-Soft Towels from $10
-    *   Celebrity Strands Hair Extensions &. More
     *   Free Shipping: Bedding Essentials Up to 75% Off
     *   Where the Heart Is: Rustic Home Accents &. More
-    *   Travel in Style: Chic Luggage Up to 75% Off
     *   Room Upgrade: Bold Area Rugs
     *   Down &. Memory Foam Essentials
-    *   Free Shipping: Microfiber Bedding &. More
-    *   Chinese Laundry Up to 55% Off
-    *   Free Shipping: Steamer Steals
-    *   Free Shipping: Gold Accent Furniture &. More
-    *   Winter Looks: Sweaters &. Button-Down Shirts
+    *   2XU Active
+    *   Rebecca Taylor
+    *   Joan Vass Including Plus
+    *   Vital Proteins
     *   Barefoot Dreams
     *   Gift Yourself: On-Trend Flats, Booties &. More
     *   Last Chance: Gifts for Men
 *   WomenShop Sale Events
     
+    *   Miraclesuit Swim
+    *   MIKOH Swim
+    *   Tiare Hawaii
+    *   Sunshine Ahead: Resort Sandals
+    *   Havaianas for the Family
+    *   Converse Up to 60% Off
+    *   Level 99
+    *   Alternative
+    *   CeCe by Cynthia Steffe
     *   Eileen Fisher Incl. Petites Up to 60% Off
+    *   Ron Hami Fine Jewelry Up to 50% Off
+    *   Day &. Mood: Leather Bags Starting at $40
+    *   Sapanyu Layered Multicolor Gemstones
+    *   Ramarim
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Mommy &. Me: Sleep Jumpsuits &. More ft. PJ Couture
+    *   Great Lengths: Mini, Midi &. Maxi Skirts
     *   Eileen Fisher Shoes
     *   14K Gold Jewelry Steals
     *   Feminine Flair: Dresses Up to 65% Off
     *   Inhabit Up to 75% Off
     *   Thale Blanc Up to 85% Off
+    
     *   Jewel Badgley Mischka Up to 50% Off
     *   Seven7
     *   Must-Have Smoothers &. Shapers ft. Skinnygirl
@@ -110,57 +135,46 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rivka Friedman Jewelry Starting at $25
     *   Korean Beauty: TONYMOLY
     *   Tiziana Terenzi Luxury Fragrances &. Candles
-    *   2XU Active
-    *   Rebecca Taylor
-    *   GUESS Coats Up to 65% Off
     *   Stocking Stuffers: ALEX AND ANI Bracelets
-    
-    *   Naked Zebra
-    *   Carlos by Carlos Santana Starting at $35
-    *   Joan Vass Including Plus
-    *   Free Press
     *   Dr. Botanicals Natural Beauty
-    *   Panty Packs &. Tanks Starting at $10
-    *   Lodis Wallets &. More Starting at $20
     *   Kiss 2018 Goodbye: Too Faced Lipstick &. More
-    *   adidas
-    *   adidas Active
     *   skinChemists
-    *   Vital Proteins
     *   Laura Mercier
     *   NIGHT Youth-Boosting Pillows
-    *   Kevyn Aucoin &. Lipstick Queen
-    *   Celebrity Strands Hair Extensions &. More
-    *   Travel in Style: Chic Luggage Up to 75% Off
-    *   Chinese Laundry Up to 55% Off
+    *   2XU Active
+    *   Rebecca Taylor
+    *   Joan Vass Including Plus
+    *   Vital Proteins
     *   Barefoot Dreams
     *   Gift Yourself: On-Trend Flats, Booties &. More
     
     Shop By Category
-    *   Shoes
     *   Clothing
-    *   Lingerie
+    *   Shoes
     *   Jewelry
+    *   Lingerie
     *   Handbags
     *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Resort Shop
+    *   Havaianas for the Family
+    *   Converse Men Up to 50% Off
+    *   PX
+    *   XRAY Up to 70% Off
+    *   Alternative Apparel Men Up to 60% Off
+    *   Ready, Set, Go: Men's Activewear
     *   Brooks Brothers
-    *   Ben Sherman Up to 60% Off
     *   Ready for Takeoff: Travel Accessories
+    
     *   Men's Dress Shoes Under $100
     *   Men's Fleece Outerwear &. More
     *   BC Collection Up to 75% Off
     *   Swims Up to 65% Off
     *   Base London
-    
     *   Men's Denim Under $60
-    *   adidas Men
-    *   adidas Men's Active
     *   Men's Cold-Weather Accessories Up to 70% Off
-    *   Rogue Starting at $13
-    *   $60 &. Under: GBX
-    *   Winter Looks: Sweaters &. Button-Down Shirts
+    *   Ben Sherman Up to 60% Off
     *   Last Chance: Gifts for Men
     
     Shop By Category
@@ -169,26 +183,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Resort Wear for Kids
+    *   Havaianas for the Family
+    *   Converse Kids Up to 60% Off
+    *   Winter Vacay Faves for Kids
+    *   Converse Kids' Clothing
+    *   Mommy &. Me: Sleep Jumpsuits &. More ft. PJ Couture
+    
     *   Hannah Banana &. More
     *   Mini Must-Haves: Footies, Rompers &. More
     *   GEOX Kids Up to 55% Off
     *   AnnLoren Up to 70% Off
     *   FREEZE Kids' Character Tees &. Hoodies
     *   The Little Holiday Shop ft. Joe Fresh
-    *   adidas Kids' Shoes &. Clothing
     
     Shop By Category
     *   Boys' Shoes
     *   Girls' Shoes
-    *   Girls Sizes 2T-6X
     *   Girls Sizes 7-16
-    *   Boys Sizes 8-20
-    *   Boys Sizes 2T-7
+    *   Girls Sizes 2T-6X
     *   Baby Boy
     *   Baby Girl
+    *   Boys Sizes 8-20
+    *   Boys Sizes 2T-7
+    *   Toys
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Colorful Area Rugs Up to 80% Off
+    *   Budget-Friendly Accent Furniture
+    *   Kitchen Essentials Starting at $10
     *   Free Shipping: Kitchen Blowout
     *   Chic Bedding Starting at $20
     *   Home Organization Starting at $11
@@ -196,43 +220,38 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Rugs Starting at $25
     *   Free Shipping: Comfy Blankets &. More
     *   KitchenAid
+    
     *   Free Shipping: Brazilian Cowhide Up to 80% Off
     *   Free Shipping: Charming Home Accents
     *   Free Shipping: Ski Lodge-Inspired Decor &. More
     *   Poo-Pourri Bathroom Scents
-    
     *   Car Storage &. Organization Essentials from $10
     *   Free Shipping: Ultra-Soft Towels from $10
     *   Free Shipping: Bedding Essentials Up to 75% Off
     *   Where the Heart Is: Rustic Home Accents &. More
-    *   Travel in Style: Chic Luggage Up to 75% Off
     *   Room Upgrade: Bold Area Rugs
     *   Down &. Memory Foam Essentials
-    *   Free Shipping: Microfiber Bedding &. More
-    *   Free Shipping: Steamer Steals
-    *   Free Shipping: Gold Accent Furniture &. More
     
     Shop By Category
     *   Luggage &. Travel
     *   Kitchen &. Tabletop
     *   Storage &. Organization
-    *   Rugs &. Doormats
     *   Home Decor
-    *   Outdoor Living
     *   Accent Furniture
+    *   Rugs &. Doormats
+    *   Outdoor Living
     *   Bedding
 *   BeautyShop Sale Events
     
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Korean Beauty: TONYMOLY
     *   Tiziana Terenzi Luxury Fragrances &. Candles
     *   Dr. Botanicals Natural Beauty
     *   Kiss 2018 Goodbye: Too Faced Lipstick &. More
     *   skinChemists
-    *   Vital Proteins
     *   Laura Mercier
     *   NIGHT Youth-Boosting Pillows
-    *   Kevyn Aucoin &. Lipstick Queen
-    *   Celebrity Strands Hair Extensions &. More
+    *   Vital Proteins
     
     Shop By Category
     *   Makeup
