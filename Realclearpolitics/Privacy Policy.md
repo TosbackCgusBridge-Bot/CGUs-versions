@@ -109,6 +109,44 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Samantha Vinograd_: Why You Shouldn't Feel Sorry for Michael Flynn
+    
+*   _Steve Miller_: Texas Ballot-Fraud Convictions Outpace Past 5 Years Combined
+    
+*   _Gen. Anthony Tata_: Jim Mattis' Outstanding Service to Trump &. America
+    
+*   _Fred Kaplan_: The Last Grown-Up Is Gone. You're Right to Be Worried
+    
+*   _Matt Purple_: DC Melts Down Over Trump's Syria Withdrawal
+    
+*   _Nick Wadhams_: The Leash Is Now Off Trump's 'America First' Doctrine
+    
+*   _Kimberley Strassel_: What's Next in FBI Oversight
+    
+*   _Matt Taibbi_: Yes, Bernie Should Run
+    
+*   _Caitlin Flanagan_: Gillibrand's Invocation of 'Intersectionality' Backfires
+    
+*   _David Harsanyi_: Colorado Is Still Trying to Destroy Jack Phillips
+    
+*   _Sally Kohn_: Border Wall GoFundMe Sums Up Trump's Presidency
+    
+*   _Daniel Sobieski_: Ted Cruz Is Right: Make El Chapo Pay for the Wall
+    
+*   _Jennifer Guttenberg_: Arming Teachers Is Not the Answer
+    
+*   _Gary Abernathy_: Is Arming Teachers a Good Idea? Depends on Where You Live
+    
+*   _Miguel Salazar_: Do America's Socialists Have a Race Problem?
+    
+*   _Kalev Leetaru_: Are We Bored With Climate Change?
+    
+*   _Nick Bilton_: Can Facebook Ever Solve Its Truthiness Problem?
+    
+*   _Jim Treacher_: German Reporter Was a Bad Apple. CNN Went Bananas for Him
+    
+*   _Myra Adams_: 'Merry Federal Holiday' -- the Future of Christmas?
+    
 *   _Matt Barreto_: No, Trump Is Not Winning on So-Called Border Security
     
 *   _Rush Limbaugh_: Do the Right Thing and Be a Hero, Mr. President
@@ -118,44 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Mollie Hemingway_: Making Comey's Firing a Crime Will Destroy DOJ
     
 *   _Sen. Ron Wyden_: Time for Congress to Step In to Protect Facebook Users
-    
-*   _Doug Bandow_: Why Trump Is Right to Withdraw Troops
-    
-*   _Tim Kaine_: Democrats Need to Start Talking About National Security
-    
-*   _Asma Khalid_: Democrats Can't Avoid Identity Politics in 2020
-    
-*   _Peter Wallison_: DeVos Rule on Sexual Harassment Restores Primacy of Law
-    
-*   _Mike Konczal_: The Green New Deal Is Good for the Planet and Democrats
-    
-*   _Stephen Moore_: Follow the (Climate Change) Money
-    
-*   _David Ignatius_: U.S. Withdrawal From Syria Is a Risky Mistake
-    
-*   _John Bradley_: Ignore the Critics, Syria Withdrawal Is Bold &. Brave
-    
-*   _Seth Lipsky_: We All Need to Cool It With the 'Treason' Talk
-    
-*   _Lucian Truscott IV_: Flynn Isn't a Traitor, But He Did Sell Out His Country
-    
-*   _Alan Dershowitz_: Judge Sullivan Was Flat Out Wrong About Flynn
-    
-*   _Joel Simon_: Why Were So Many Journalists Murdered in 2018?
-    
-*   _Noah Rothman_: Trump Isn't to Blame for Journalism's Dangerous Year
-    
-*   _Tammy Duckworth_: We Cannot Allow Our Country to Be Turned Into a War Zone
-    
-*   _Sean Davis_: Trump's New 'Bump Stock' Ban Is a Legal Abomination
-    
-*   _Hal Brands_: China Is Blowing a Golden Opportunity
-    
-*   _Ben Judah_: Bibi Was Right
-    
-*   _Mort Kondracke_: No Brainer: An Immigration/Budget Deal
-    
-*   _Victor Davis Hanson_: It Was Always About the Wall
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump to Withdraw All U.S. Troops From Syria, Declaring ISIS Defeat
+*   Mattis Resigning as Pentagon Chief After Trump Disagreements
+*   Officials: American Troops to Be Pulled From Afghanistan
+*   Lee: Trump Is Right on Syria, It's the Opposite of an Obama-Like Decision
+*   Democrats to Start Presidential Primary Debates in June 2019
 *   Federal Reserve Raises Rates, Trims Forecast for Hikes in 2019
-*   Graham Slams Trump's "Obama-Like Mistake" to Pull Out Troops
-*   Senate Passes Sweeping Criminal Justice Bill in Bipartisan Vote
-*   McSally Appointed to Replace Kyl in AZ Senate Seat Held by McCain
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -246,23 +246,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalUSA Today/Suffolk
     *   Approve42
     *   Disapprove54Disapprove +12
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
 *   Direction of CountryUSA Today/Suffolk
     *   Right Direction35
     *   Wrong Track54Wrong Track +19
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve43
     *   Disapprove54Disapprove +11
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve39
+    *   Disapprove52Disapprove +13
 
 More Latest Polls In The News
 
+*   McConnell: Senate Should Put National Interest Ahead Of "Personal Spite" For The President
 *   Fmr. Sec Def Cohen: Trump Has "Taken A Wrecking Ball" To Every Pillar Of Stability Erected Over Past 70 Years
 *   Rep. Gutierrez vs. DHS Nielsen: Shame On Us Allowing Her To Lie As We Celebrate Birth Of Christ
 *   DHS Sec. Nielsen: Illegal Aliens Will Have To Wait In Their Own Countries For Asylum
 *   Rand Paul: Promise To End The War In Syria Is Why Trump Won The Election
-*   Limbaugh: Trump Got Less Than Nothing, Democrats Got Everything. Victory For "Denizens Of The Swamp"
 
 *   Politics
 *   Policy
