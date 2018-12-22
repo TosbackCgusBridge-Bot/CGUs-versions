@@ -33,7 +33,7 @@ Welcome to POF. If you are located in the European Union, these Terms of Use are
     
     Though POF strives to encourage a respectful user experience, it is not responsible for the conduct of any user on or off of the Service. You agree to use caution in all interactions with other users, particularly if you decide to communicate off the Service or meet in person. In addition, you agree to review and follow POF's Safety Tips prior to using the Service. You agree that you will not provide your financial information (for example, your credit card or bank account information), or wire or otherwise send money, to other users.
     
-    YOU ARE SOLELY RESPONSIBLE FOR YOUR INTERACTIONS WITH OTHER USERS. YOU UNDERSTAND THAT POF DOES NOT CONDUCT CRIMINAL BACKGROUND CHECKS ON ITS USERS OR OTHERWISE INQUIRE INTO THE BACKGROUND OF ITS USERS. POF MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF USERS. POF RESERVES THE RIGHT TO CONDUCT - AND YOU AGREE POF MAY CONDUCT - ANY CRIMINAL BACKGROUND CHECK OR OTHER SCREENINGS (SUCH AS SEX OFFENDER REGISTER SEARCHES) AT ANY TIME USING AVAILABLE PUBLIC RECORDS.
+    **YOU ARE SOLELY RESPONSIBLE FOR YOUR INTERACTIONS WITH OTHER USERS. YOU UNDERSTAND THAT POF DOES NOT CONDUCT CRIMINAL BACKGROUND CHECKS ON ITS USERS OR OTHERWISE INQUIRE INTO THE BACKGROUND OF ITS USERS. POF MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF USERS. POF RESERVES THE RIGHT TO CONDUCT - AND YOU AGREE POF MAY CONDUCT - ANY CRIMINAL BACKGROUND CHECK OR OTHER SCREENINGS (SUCH AS SEX OFFENDER REGISTER SEARCHES) AT ANY TIME USING AVAILABLE PUBLIC RECORDS.**
     
 6.  **Rights POF Grants You**
     
