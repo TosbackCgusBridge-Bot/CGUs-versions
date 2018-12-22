@@ -166,9 +166,9 @@ Firefox Privacy Notice
         *   Events
         *   Donate
     
-    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/mozilla-festival.474a03ca8109.jpg" alt="">. The Mozilla Festival
+    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/manifesto.97bc84fbcdf7.png" alt="">. Mozilla Manifesto
     
-    An event for advocates of a healthy Internet on Oct. 26-28 in London.
+    Your right to security and privacy on the internet is fundamental – never optional.
     
 
 Websites, Communications &. Cookies Privacy Notice
