@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Chinese church
-*   Harvest Bible Chapel
-*   Ex-imam
-*   Christian airline
-*   Tamela Mann
+*   Progressive Christianity
+*   Switchfoot
+*   Transgender bathroom
+*   Jack Phillips
+*   You Say
 
 About Us
 
