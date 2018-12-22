@@ -71,7 +71,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   First ‘Hellboy’ Trailer Arrives Just in Time. Here’s Everything We Know Read More
-    *   The Week in Movie News: Scott Derrickson to Direct ‘Doctor Strange 2,’ New ‘Godzilla: King of the Monsters’ Trailer and More Read More
+    *   The Week in Movie News: First ‘Hellboy’ Trailer, Favorite Movies of 2018 and More Read More
     *   'A Star Is Born' Leads Screen Actors Guild Award Nominations Read More
     
     Explore Content
