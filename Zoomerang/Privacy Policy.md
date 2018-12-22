@@ -16,37 +16,55 @@
 *   Careers
 *   Contact
 
-MetrixLab MetrixLab
+MetrixLab MetrixLab We help you make smarter business decisions faster.
 
-Next generation data and insights that empower and inspire
+Emotions sell brands: How to capture the emotional resonance of your brands, ads and products
 
-We are experts in digital, social, mobile and big data. And we pioneer new technologies and techniques to disrupt traditional research thinking. This enables us to provide high-quality insights at scale, at speed and for an unparalleled value.
+Sell more products in store: Optimize all your sales conversion tactics
 
-Trusted globally in over 90 countries, we help world-leading brands to win at:
+Our solutions Advertising &. brand Product innovation Customer value Point-of-purchase influencers Pre-testing Packaging design Social insights Case stories Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights 5 steps to creating successful branded video content
 
-Advertising &. Brand
+Broad vs narrow audiences: How to maximize the impact of your investment in mobile video ads on Facebook
 
-Insights for Brand Performance, Creative Development, Media Effectiveness
+8 elements that should feature on your product packaging design
 
-Brand Engagement
+Press release: MetrixLab expands into Italy and appoints Luca Antonietti as Managing Director
 
-Product Innovation
+Webinar: Groundbreaking tips on DTC digital advertising
 
-Insights for Market Exploration, Product Development and Sales Activation
+Instagram advertising: 5 tips for Instagram Stories ads
 
-Product Innovation
+Your questions about social influencers answered
 
-Customer Value
+Whitepaper: Nine best practices for creating powerful packaging designs
 
-Insights for Customer Acquisition, Experience, Value Management and Retention
+More insights and news
 
-Customer Value
+Our story
 
-We are changing research. Join the MetrixLab revolution.
+MetrixLab is a leading global market research agency. We’re experts in brand engagement, product innovation and customer value. We combine pioneering digital technologies, global capabilities and an agile approach, to help you make smarter business decisions faster.
 
-_“What really struck us about MetrixLab was their hunger and passion for what they do and how they can make a difference to our business…Critically, because they are so digitally literate, we’re getting high quality research in extra-quick time.”_
+Active in more than 90 countries, our clients include half of the world’s top 100 brands. As part of the **Macromill Group**, we are the fastest-growing global market research company.
 
-MetrixLab is part of the Macromill Group.
+Find out more:
+
+Download our infographic
+
+Our clients’ stories
+
+“Beyond their expertise in the topic, the key strength of MetrixLab lies in their flexibility and dedication to our project.”  
+“MetrixLab is not an agency of status-quo, you know there is always something brewing that might benefit you at some stage in terms of innovation.”  
+**– Francky David | Global HCP &. Consumer Insights | Nestlé**
+
+Make smarter decisions faster. Let us show you how:
+
+Message
+
+Chat
+
+Call
+
+Connect
 
 Want to know more? Get in touch!
 
