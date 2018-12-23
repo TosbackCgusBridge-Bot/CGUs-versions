@@ -278,7 +278,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Select Country
 *   My Account My Account Login Register
 
-2 Days Left To Buy Online + Pick Up In Store Before Christmas DETAILS Menu Find a Store Aeropostale
+1 Day Left To Buy Online + Pick Up In Store Before Christmas DETAILS Menu Find a Store Aeropostale
 
 *   New Arrivals
     
