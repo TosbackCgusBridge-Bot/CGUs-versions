@@ -58,12 +58,12 @@ Near YouFind a StoreBackUP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF F
 
 Hot Sellers
 
-*   $1599after couponwas $70 Arizona Oxford Booties
-*   $1599after couponwas $60 Arizona Lilly Booties(63)
-*   $1439after couponwas $36 Stafford Travel Easy-Care Stretch Broadcloth Mens Collar Neck Long Sleeve Dress Shirt(24)
-*   $1599after couponwas $50 Stafford Flannel Pajama Set(11)
-*   $1599after couponwas $70 Worthington Lady Booties(18)
-*   $1439after couponwas $40 St. John's Bay Puffer Vest(20)
+*   $1439after couponwas $40 Stafford Mens Microfleece Pajama Set Long Sleeve
+*   from$1199after couponJournee Collection Womens Mavrik Booties Block Heel Buckle(2)
+*   $1699after couponwas $40 Cooks 10" x 19" Non-Stick Griddle(377)
+*   $1999after couponwas $50 St. John's Bay Mock Neck Long Sleeve Pullover Sweater(32)
+*   $1599after couponwas $42 Arizona Basic Original Bootcut Jeans(568)
+*   $1599after couponwas $42 Arizona Basic Original Straight Jeans(1778)
 
 Shop and Save at JCPenney
 
