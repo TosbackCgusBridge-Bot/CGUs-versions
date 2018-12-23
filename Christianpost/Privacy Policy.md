@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Progressive Christianity
-*   Switchfoot
-*   Transgender bathroom
-*   Jack Phillips
-*   You Say
+*   Convicted priest
+*   CP's top 10
+*   Gifts for pastors
+*   Killing babies
+*   Atheism
 
 About Us
 
