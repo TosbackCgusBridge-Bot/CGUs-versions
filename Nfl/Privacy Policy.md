@@ -1,5 +1,5 @@
-*   WAS7-7TEN8-6Sat, 4:30 pm ET
-*   BAL8-6LAC11-3Sat, 8:20 pm ET
+*   BAL9-622LAC11-410Final
+*   WAS7-816TEN9-625Final
 *   NYG5-9IND8-6Sun, 1:00 pm ET
 *   JAX4-10MIA7-7Sun, 1:00 pm ET
 *   ATL5-9CAR6-8Sun, 1:00 pm ET
@@ -32,8 +32,8 @@
 *   NFL Network
 *   Photos
 
-*   WAS7-7TEN8-6Sat, 4:30 pm ET
-*   BAL8-6LAC11-3Sat, 8:20 pm ET
+*   BAL22LAC10Final
+*   WAS16TEN25Final
 *   NYG5-9IND8-6Sun, 1:00 pm ET
 *   JAX4-10MIA7-7Sun, 1:00 pm ET
 *   ATL5-9CAR6-8Sun, 1:00 pm ET
