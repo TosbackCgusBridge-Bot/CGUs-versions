@@ -109,6 +109,8 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Erec Smith_: A Guide to Keeping Holiday Conversations Civil
+    
 *   _Samantha Vinograd_: Why You Shouldn't Feel Sorry for Michael Flynn
     
 *   _Steve Miller_: Texas Ballot-Fraud Convictions Outpace Past 5 Years Combined
@@ -154,8 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _David Lurie_: Trump's A.G. Pick Sounds Like He Would Fire Mueller
     
 *   _Mollie Hemingway_: Making Comey's Firing a Crime Will Destroy DOJ
-    
-*   _Sen. Ron Wyden_: Time for Congress to Step In to Protect Facebook Users
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Holiday-Season Gridlock in DC Brings Partial Federal Closure
+*   Justice Ginsburg Has 2 Cancerous Nodules Removed From Lung
+*   McConnell: Senate Should Put U.S. Interest Ahead of Spite for President
 *   Mattis Resigning as Pentagon Chief After Trump Disagreements
 *   Officials: American Troops to Be Pulled From Afghanistan
-*   Lee: Trump Is Right on Syria, It's the Opposite of an Obama-Like Decision
-*   Democrats to Start Presidential Primary Debates in June 2019
-*   Federal Reserve Raises Rates, Trims Forecast for Hikes in 2019
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   McConnell: Senate Should Put National Interest Ahead Of "Personal Spite" For The President
+*   Trump: Totally Up To The Democrats Whether We Have A Shutdown. "Prepared For A Very Long Shutdown"
+*   Schumer to Trump: You Will Not Get Border Wall, Abandon Shutdown Strategy. "Most Chaotic Presidency Ever"
+*   Sanders: "Sad Day" When Mexico Does More To Protect America's Borders Than Senate Democrats
 *   Fmr. Sec Def Cohen: Trump Has "Taken A Wrecking Ball" To Every Pillar Of Stability Erected Over Past 70 Years
 *   Rep. Gutierrez vs. DHS Nielsen: Shame On Us Allowing Her To Lie As We Celebrate Birth Of Christ
-*   DHS Sec. Nielsen: Illegal Aliens Will Have To Wait In Their Own Countries For Asylum
-*   Rand Paul: Promise To End The War In Syria Is Why Trump Won The Election
 
 *   Politics
 *   Policy
