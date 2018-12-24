@@ -47,7 +47,7 @@ Change
 
 Percent Change
 
- (9.01%)
+ (0.00%)
 
 12/21/184:00 p.m. ET  
 Data provided by Nasdaq. Minimum 15 minutes delayed.view details  
