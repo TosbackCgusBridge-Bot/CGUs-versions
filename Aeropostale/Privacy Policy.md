@@ -278,7 +278,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Select Country
 *   My Account My Account Login Register
 
-1 Day Left To Buy Online + Pick Up In Store Before Christmas DETAILS Menu Find a Store Aeropostale
+Menu Find a Store Aeropostale
 
 *   New Arrivals
     
@@ -540,7 +540,6 @@ _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
 Gift Cards
 
-*   Mail Gift Card
 *   Email Gift Card
 *   Lost/Stolen Gift Cards
 *   Check Gift Card Balance
