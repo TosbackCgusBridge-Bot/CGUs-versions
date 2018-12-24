@@ -92,8 +92,8 @@ View more results
     *   Warbanner
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
-    *   Uphill Rush 7: Waterpark
-    *   Total Front: Army War GameSpotlight Super Smash Flash 2
+    *   Total Front: Army War Game
+    *   Uphill Rush 7: WaterparkSpotlight Super Smash Flash 2
 *   Top Categories
     
     *   Platform Games
@@ -170,8 +170,8 @@ View more results
     *   Love Tester 2.0
     *   Ellie: Get Ready With Me
     *   Electricman 2: Stickman Fighting Game
-    *   Fidget Spinner
-    *   Burger Restaurant ExpressSpotlight My Dolphin Show 8
+    *   Bartender
+    *   Fidget SpinnerSpotlight My Dolphin Show 8
 *   Top Categories
     
     *   BMX Games
