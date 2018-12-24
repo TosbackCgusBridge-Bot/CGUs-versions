@@ -18,7 +18,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackUP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
+Near YouFind a StoreBackFINAL HOURS OF COUPON CODETOSAVE7ENDS IN00HOURS 41MINS 04SECS \*Offer ends December 24, 2018 UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
 
 *   ADVERTISED DEAL!
     
@@ -58,12 +58,24 @@ Near YouFind a StoreBackUP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF F
 
 Hot Sellers
 
-*   $1439after couponwas $40 Stafford Mens Microfleece Pajama Set Long Sleeve
-*   from$1199after couponJournee Collection Womens Mavrik Booties Block Heel Buckle(2)
-*   $1699after couponwas $40 Cooks 10" x 19" Non-Stick Griddle(377)
-*   $1999after couponwas $50 St. John's Bay Mock Neck Long Sleeve Pullover Sweater(32)
-*   $1599after couponwas $42 Arizona Basic Original Bootcut Jeans(568)
-*   $1599after couponwas $42 Arizona Basic Original Straight Jeans(1778)
+*   LIMITED TIME SPECIAL!
+    
+    from$15 sale
+    
+    was $50 - $120 | 70% offJCPenney Home™ Kathryn Room-Darkening Grommet-Top Curtain Panel(645)
+*   ADVERTISED DEAL!
+    
+    $1875 sale
+    
+    was $25 | 25% offNike® Benassi JDI Womens Athletic Sandals(15)
+*   $1349after couponwas $36 Stafford Travel Easy-Care Stretch Broadcloth Mens Collar Neck Long Sleeve Dress Shirt(25)
+*   $1620after couponwas $54 a.n.a Womens Turtleneck Long Sleeve Pullover Sweater(16)
+*   LIMITED TIME SPECIAL!
+    
+    $1875 sale
+    
+    was $25 | 25% offNike Benassi JDI Mens Slide Sandals(54)
+*   $749after couponwas $50 St. John's Bay Crew Neck Long Sleeve Pullover Sweater(9)
 
 Shop and Save at JCPenney
 
