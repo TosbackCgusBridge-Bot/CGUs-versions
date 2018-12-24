@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Erec Smith_: A Guide to Keeping Holiday Conversations Civil
+*   _Caygle_: No Shutdown End in Sight as All Sides Dig In
     
-*   _Samantha Vinograd_: Why You Shouldn't Feel Sorry for Michael Flynn
+*   _Christian Whiton_: Trump Is Right to Fight for Border Wall
     
-*   _Steve Miller_: Texas Ballot-Fraud Convictions Outpace Past 5 Years Combined
+*   _Dylan Scott_: Why the Blame Game Over the Govt Shutdown Is Pointless
     
-*   _Gen. Anthony Tata_: Jim Mattis' Outstanding Service to Trump &. America
+*   _Daniel McCarthy_: Trump Is a Man of Peace--His Critics Are a War Machine
     
-*   _Fred Kaplan_: The Last Grown-Up Is Gone. You're Right to Be Worried
+*   _David Ignatius_: The Loyal Soldier Reached His Limit
     
-*   _Matt Purple_: DC Melts Down Over Trump's Syria Withdrawal
+*   _Daniel Sobieski_: Did the Media Care When Obama Fired Mattis?
     
-*   _Nick Wadhams_: The Leash Is Now Off Trump's 'America First' Doctrine
+*   _Daniel Hemel &. Eric Posner_: Bill Barr Just Argued Himself Out of a Job
     
-*   _Kimberley Strassel_: What's Next in FBI Oversight
+*   _Andrew McCarthy_: A Weak Attack on William Barr's Nomination
     
-*   _Matt Taibbi_: Yes, Bernie Should Run
+*   _Paul Sperry_: The Justice Department Sheriff Who Never Quite Rode Into Town
     
-*   _Caitlin Flanagan_: Gillibrand's Invocation of 'Intersectionality' Backfires
+*   _Anne Applebaum_: Lure of Chaos Leading Britain Straight Into the Abyss
     
-*   _David Harsanyi_: Colorado Is Still Trying to Destroy Jack Phillips
+*   _Marshall Auerback_: All of Our Bets on China Have Been Wrong
     
-*   _Sally Kohn_: Border Wall GoFundMe Sums Up Trump's Presidency
+*   _Carl M. Cannon_: The NATO Country Where Journalism Is a Crime
     
-*   _Daniel Sobieski_: Ted Cruz Is Right: Make El Chapo Pay for the Wall
+*   _William E. Simon &. James Piereson_: In Defense of Philip Anschutz
     
-*   _Jennifer Guttenberg_: Arming Teachers Is Not the Answer
+*   _Michael Higgins_: After a Terrible Year, Can Pope Francis Right the Ship?
     
-*   _Gary Abernathy_: Is Arming Teachers a Good Idea? Depends on Where You Live
+*   _Ross Douthat_: Staying Catholic at Christmas
     
-*   _Miguel Salazar_: Do America's Socialists Have a Race Problem?
+*   _Flatley &. Wasson_: Partial Shutdown Begins as Talks Fail to Break Impasse
     
-*   _Kalev Leetaru_: Are We Bored With Climate Change?
+*   _Eliot Cohen_: You Can't Serve Both Trump and America
     
-*   _Nick Bilton_: Can Facebook Ever Solve Its Truthiness Problem?
+*   _Andrew McCarthy_: U.S. Will No Longer Accept Incoherent Mideast Adventurism
     
-*   _Jim Treacher_: German Reporter Was a Bad Apple. CNN Went Bananas for Him
+*   _Eli Lake_: Mattis Puts Trump's Presidency in Peril
     
-*   _Myra Adams_: 'Merry Federal Holiday' -- the Future of Christmas?
+*   _Friedman & Logan_: We've Defeated ISIS--Trump Is Right to Withdraw
     
-*   _Matt Barreto_: No, Trump Is Not Winning on So-Called Border Security
+*   _Ezra Klein_: Trump Endangers America Because Republicans Let Him
     
-*   _Rush Limbaugh_: Do the Right Thing and Be a Hero, Mr. President
+*   _Ronna McDaniel_: Dems, Stop Opposing the Wall, Sensible Border Security
     
-*   _David Lurie_: Trump's A.G. Pick Sounds Like He Would Fire Mueller
+*   _James Hamblin_: The Worrisome Word in Ginsburg's Cancer Diagnosis
     
-*   _Mollie Hemingway_: Making Comey's Firing a Crime Will Destroy DOJ
+*   _Quin Hillyer_: Ryan Leaves With Ideals Intact, But Somewhat Unrealized
     
 
 *   Previous
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Trump: Totally Up To The Democrats Whether We Have A Shutdown. "Prepared For A Very Long Shutdown"
+*   Corker: Shutdown Is "Contrived," "Made Up Fight" So The President Can Look Like He's Fighting
+*   Sen. Jeff Merkley: Democrats Will Not Support Any Funding For A Border Wall. "None"
+*   Rep. Mark Meadows: Nancy Pelosi Is Driving Most Of Government Shutdown Negotiations
+*   Gaetz: Mitch McConnell Should Use Nuclear Option. It's "Border Security Or A Long Shutdown"
 *   Schumer to Trump: You Will Not Get Border Wall, Abandon Shutdown Strategy. "Most Chaotic Presidency Ever"
-*   Sanders: "Sad Day" When Mexico Does More To Protect America's Borders Than Senate Democrats
-*   Fmr. Sec Def Cohen: Trump Has "Taken A Wrecking Ball" To Every Pillar Of Stability Erected Over Past 70 Years
-*   Rep. Gutierrez vs. DHS Nielsen: Shame On Us Allowing Her To Lie As We Celebrate Birth Of Christ
 
 *   Politics
 *   Policy
