@@ -110,11 +110,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Hidden Dangers in Dust
-    *   Does Diabetes Harm the Brain?
-    *   Adenovirus Kills 12 in 2 States -- What Is It?
+    *   Loneliness Haunts Us, and Not Just in Old Age
+    *   2 Types of Diabetes Meds May Raise Heart Risks
+    *   Certain Antibiotics Tied to Deadly Heart Vessel Tears
+    *   Just 6 Months of Walking May Boost Aging Brains
     *   Dozens of Blood Pressure Drugs Recalled in 2018
-    *   AFM: Doctors Trying 'Whatever Works'
     
     Experts &. Community
     
