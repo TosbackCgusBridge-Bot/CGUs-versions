@@ -31,10 +31,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Convicted priest
+*   Christmas services
+*   Indonesia
 *   CP's top 10
-*   Gifts for pastors
-*   Killing babies
+*   Convicted priest
 *   Atheism
 
 About Us
