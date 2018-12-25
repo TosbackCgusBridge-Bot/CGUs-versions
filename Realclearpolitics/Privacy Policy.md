@@ -109,6 +109,44 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Julian Zelizer_: The Trump Shutdown Is a Crisis That Could've Been Avoided
+    
+*   _Newt Gingrich &. Donald Graham_: Fund the Wall and Save the Dreamers
+    
+*   _Decker &. Renne_: Trump Can Fund the Border Wall Without Congress
+    
+*   _Michael Bloomberg_: One Week Sums Up a Failing Presidency
+    
+*   _Keith Kellogg_: We Succeeded in Syria. Now It's Time to Leave.
+    
+*   _Susan Rice_: Trump's Reckless Withdrawals Are a Threat to America
+    
+*   _Roger Kimball_: The So-Called 'Adults' Are Surprisingly Childish
+    
+*   _Jonathan Turley_: The Steele Dossier and the Perils of 'Insurance' Policies
+    
+*   _Josh Campbell_: Trump's Relationship With Whitaker Imperils Rule of Law
+    
+*   _Victor Davis Hanson_: Those Targeting Flynn Are More Guilty Than Him
+    
+*   _Moore &. Woodhill_: Fire the Fed
+    
+*   _Alex Kotlowitz_: The Small-Town Cost of Donald Trump's Trade Wars
+    
+*   _Terence Corcoran_: China's Most Dangerous Export Is Socialism
+    
+*   _Frank Miele_: George Washington, Donald Trump, and a Christmas Wish
+    
+*   _Lili Loofbourow_: The Year of the Old Boys
+    
+*   _John McWhorter_: The Virtue Signalers Won't Change the World
+    
+*   _Douglas Murray_: How Terror Changed Europe's Christmas Markets
+    
+*   _Baker &. Haberman_: For Trump, 'a War Every Day,' Waged Increasingly Alone
+    
+*   _Michael Goodwin_: Don't Expect Trump to Stop Being Trump in 2019
+    
 *   _Caygle_: No Shutdown End in Sight as All Sides Dig In
     
 *   _Christian Whiton_: Trump Is Right to Fight for Border Wall
@@ -118,44 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Daniel McCarthy_: Trump Is a Man of Peace--His Critics Are a War Machine
     
 *   _David Ignatius_: The Loyal Soldier Reached His Limit
-    
-*   _Daniel Sobieski_: Did the Media Care When Obama Fired Mattis?
-    
-*   _Daniel Hemel &. Eric Posner_: Bill Barr Just Argued Himself Out of a Job
-    
-*   _Andrew McCarthy_: A Weak Attack on William Barr's Nomination
-    
-*   _Paul Sperry_: The Justice Department Sheriff Who Never Quite Rode Into Town
-    
-*   _Anne Applebaum_: Lure of Chaos Leading Britain Straight Into the Abyss
-    
-*   _Marshall Auerback_: All of Our Bets on China Have Been Wrong
-    
-*   _Carl M. Cannon_: The NATO Country Where Journalism Is a Crime
-    
-*   _William E. Simon &. James Piereson_: In Defense of Philip Anschutz
-    
-*   _Michael Higgins_: After a Terrible Year, Can Pope Francis Right the Ship?
-    
-*   _Ross Douthat_: Staying Catholic at Christmas
-    
-*   _Flatley &. Wasson_: Partial Shutdown Begins as Talks Fail to Break Impasse
-    
-*   _Eliot Cohen_: You Can't Serve Both Trump and America
-    
-*   _Andrew McCarthy_: U.S. Will No Longer Accept Incoherent Mideast Adventurism
-    
-*   _Eli Lake_: Mattis Puts Trump's Presidency in Peril
-    
-*   _Friedman & Logan_: We've Defeated ISIS--Trump Is Right to Withdraw
-    
-*   _Ezra Klein_: Trump Endangers America Because Republicans Let Him
-    
-*   _Ronna McDaniel_: Dems, Stop Opposing the Wall, Sensible Border Security
-    
-*   _James Hamblin_: The Worrisome Word in Ginsburg's Cancer Diagnosis
-    
-*   _Quin Hillyer_: Ryan Leaves With Ideals Intact, But Somewhat Unrealized
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   After Criticism, Trump Pushes Out Mattis Sooner Than Planned
 *   Holiday-Season Gridlock in DC Brings Partial Federal Closure
+*   McLaughlin Group: The Political Best and Worst of 2018
 *   Justice Ginsburg Has 2 Cancerous Nodules Removed From Lung
-*   McConnell: Senate Should Put U.S. Interest Ahead of Spite for President
-*   Mattis Resigning as Pentagon Chief After Trump Disagreements
 *   Officials: American Troops to Be Pulled From Afghanistan
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalGallup
+    *   Approve40
+    *   Disapprove55Disapprove +15
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove52Disapprove +6
+*   Direction of CountryRasmussen Reports
+    *   Right Direction40
+    *   Wrong Track55Wrong Track +15
 *   President Trump Job ApprovalUSA Today/Suffolk
     *   Approve42
     *   Disapprove54Disapprove +12
-*   Direction of CountryUSA Today/Suffolk
-    *   Right Direction35
-    *   Wrong Track54Wrong Track +19
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve43
-    *   Disapprove54Disapprove +11
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve39
-    *   Disapprove52Disapprove +13
 
 More Latest Polls In The News
 
+*   Stephen Moore: "We Do Not Have An Inflation Problem," We Need To Be Putting More Liquidity In The Economy
+*   Scarborough: Trump Running A "Rogue Presidency". What Can Congress Do, Should Congress Do?
 *   Corker: Shutdown Is "Contrived," "Made Up Fight" So The President Can Look Like He's Fighting
-*   Sen. Jeff Merkley: Democrats Will Not Support Any Funding For A Border Wall. "None"
 *   Rep. Mark Meadows: Nancy Pelosi Is Driving Most Of Government Shutdown Negotiations
 *   Gaetz: Mitch McConnell Should Use Nuclear Option. It's "Border Security Or A Long Shutdown"
-*   Schumer to Trump: You Will Not Get Border Wall, Abandon Shutdown Strategy. "Most Chaotic Presidency Ever"
 
 *   Politics
 *   Policy
