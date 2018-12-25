@@ -273,7 +273,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**Buy a $50 Gift Card get a FREE $10 Cash Card! SHOP NOW** **60-70% Off + Shop Last Minute Gifts Ideas GIRLS GUYS**
+**EXTRA 15% OFF** USE CODE **MERRY** GIRLS GUYS **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -562,17 +562,3 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
