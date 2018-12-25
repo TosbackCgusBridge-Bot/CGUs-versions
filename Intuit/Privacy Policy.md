@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $49See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -18,13 +18,8 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackFINAL HOURS OF COUPON CODETOSAVE7ENDS IN00HOURS 41MINS 04SECS \*Offer ends December 24, 2018 UP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
+Near YouFind a StoreBackUP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
 
-*   ADVERTISED DEAL!
-    
-    $14995 sale
-    
-    was $199.95 Fitbit Versa Peach Unisex Pink Smart Watch - Fb504rgpkAdd To Cart
 *   ADVERTISED DEAL!
     
     $14995 sale
@@ -34,17 +29,12 @@ Near YouFind a StoreBackFINAL HOURS OF COUPON CODETOSAVE7ENDS IN00HOURS 41MINS 0
     
     $14995 sale
     
+    was $199.95 Fitbit Versa Peach Unisex Pink Smart Watch - Fb504rgpkAdd To Cart
+*   ADVERTISED DEAL!
+    
+    $14995 sale
+    
     was $199.95 Fitbit Versa Unisex Gray Smart Watch-Fb504srgyAdd To Cart
-*   ADVERTISED DEAL!
-    
-    $17995 sale
-    
-    was $229.95 Fitbit Versa Lavender Printed Unisex Purple Smart Watch-Fb505rglvAdd To Cart
-*   ADVERTISED DEAL!
-    
-    $17995 sale
-    
-    was $229.95 Fitbit Versa Charcoal Printed Unisex Smart Watch-Fb505bkgyAdd To Cart
 *   ADVERTISED DEAL!
     
     $12995 sale
@@ -52,30 +42,34 @@ Near YouFind a StoreBackFINAL HOURS OF COUPON CODETOSAVE7ENDS IN00HOURS 41MINS 0
     was $149.95 Fitbit Charge 3 Unisex Gray Smart Watch-Fb409gmbk(1)Add To Cart
 *   ADVERTISED DEAL!
     
+    $17995 sale
+    
+    was $229.95 Fitbit Versa Lavender Printed Unisex Purple Smart Watch-Fb505rglvAdd To Cart
+*   ADVERTISED DEAL!
+    
     $12995 sale
     
     was $149.95 Fitbit Charge 3 Unisex Blue Smart Watch-Fb409rggy(1)Add To Cart
+*   ADVERTISED DEAL!
+    
+    $22995 sale
+    
+    was $269.95 Fitbit Ionic Smart WatchAdd To Cart
 
 Hot Sellers
 
+*   $1599after couponwas $70 east 5th Womens Quentin Booties Stiletto Heel Zip(14)
+*   from$4875
+    
+    Nike® Tanjun Womens Running Shoes(77)
+*   $1599after couponwas $42 Arizona Original Flex Chino Pants(190)
+*   $1999after couponwas $50 St. John's Bay Mock Neck Long Sleeve Pullover Sweater(34)
+*   $1599after couponwas $80 Arizona Womens Denmark Riding Block Heel Zip Boots(108)
 *   LIMITED TIME SPECIAL!
     
-    from$15 sale
+    from$3999 sale
     
-    was $50 - $120 | 70% offJCPenney Home™ Kathryn Room-Darkening Grommet-Top Curtain Panel(645)
-*   ADVERTISED DEAL!
-    
-    $1875 sale
-    
-    was $25 | 25% offNike® Benassi JDI Womens Athletic Sandals(15)
-*   $1349after couponwas $36 Stafford Travel Easy-Care Stretch Broadcloth Mens Collar Neck Long Sleeve Dress Shirt(25)
-*   $1620after couponwas $54 a.n.a Womens Turtleneck Long Sleeve Pullover Sweater(16)
-*   LIMITED TIME SPECIAL!
-    
-    $1875 sale
-    
-    was $25 | 25% offNike Benassi JDI Mens Slide Sandals(54)
-*   $749after couponwas $50 St. John's Bay Crew Neck Long Sleeve Pullover Sweater(9)
+    was $65 | 30 - 38% offNike Flex Experience 7 Womens Running Shoes Lace-up(35)
 
 Shop and Save at JCPenney
 
