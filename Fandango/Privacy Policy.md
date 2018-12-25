@@ -5,44 +5,38 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Aquaman
+    *   Mary Poppins Returns (2018)
+    *   Bumblebee
     *   Spider-Man: Into the Spider-Verse
     *   The Mule (2018)
     *   Dr. Seuss' The Grinch (2018)
+    *   Second Act
     *   Ralph Breaks the Internet
-    *   Mortal Engines
-    *   Creed II
-    *   Bohemian Rhapsody
-    *   Instant Family (2018)
-    *   Fantastic Beasts: The Crimes of Grindelwald
-    *   Green Book
-    *   Once Upon a Deadpool
+    *   Welcome to Marwen
+    *   Mary Queen of Scots (2018)
+    *   The Favourite
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Aquaman
-    *   Bumblebee
-    *   Mary Poppins Returns (2018)
-    *   They Shall Not Grow Old
-    *   Second Act
-    *   Welcome to Marwen
-    *   Mary Queen of Scots (2018)
-    *   Cold War (2018)
-    *   Moscow Never Sleeps
-    *   Swing Kids (2018)
-    *   Zero (2018)
+    *   Holmes &. Watson
+    *   Vice (2018)
+    *   Destroyer (2018)
+    *   On the Basis of Sex
+    *   Stan &. Ollie
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Holmes &. Watson
-    *   Vice (2018)
     *   Escape Room (2019)
     *   A Dog's Way Home
     *   The Upside
     *   Glass (2019)
     *   Serenity (2019)
     *   The Kid Who Would Be King
+    *   Jacob's Ladder (2018)
+    *   Miss Bala (2019)
     *   See All Coming Soon
     
     Explore More
