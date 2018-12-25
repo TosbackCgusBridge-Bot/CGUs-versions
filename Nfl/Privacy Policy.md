@@ -1,4 +1,6 @@
-*   KC11-431SEA9-638Final
+*   DEN6-914OAK4-1127Final
+*   WAS7-816TEN9-625Final
+*   BAL9-622LAC11-410Final
 *   NYG5-1027IND9-628Final
 *   JAX5-1017MIA7-87Final
 *   ATL6-924CAR6-910Final
@@ -11,9 +13,7 @@
 *   LA12-331ARI3-129Final
 *   CHI11-414SF4-119Final
 *   PIT8-6-128NO13-231Final
-*   DEN6-8OAK3-11Mon, 8:15 pm ET
-*   WAS7-816TEN9-625Final
-*   BAL9-622LAC11-410Final
+*   KC11-431SEA9-638Final
 
 *   News
 *   Scores
@@ -32,7 +32,9 @@
 *   NFL Network
 *   Photos
 
-*   KC31SEA38Final
+*   DEN14OAK27Final
+*   WAS16TEN25Final
+*   BAL22LAC10Final
 *   NYG27IND28Final
 *   JAX17MIA7Final
 *   ATL24CAR10Final
@@ -45,9 +47,7 @@
 *   LA31ARI9Final
 *   CHI14SF9Final
 *   PIT28NO31Final
-*   DEN6-8OAK3-11Mon, 8:15 pm ET
-*   WAS16TEN25Final
-*   BAL22LAC10Final
+*   KC31SEA38Final
 
 *   News
 *   Scores
