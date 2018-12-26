@@ -1,7 +1,5 @@
 User Privacy Notice This Privacy Notice was posted on **May 1, 2018**. It is effective immediately for new users, and from **June 1, 2018** for all other users. See previous version of this Privacy Notice.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
-
 eBay is committed to your privacy. This privacy notice explains our collection, use, disclosure, retention and protection of your personal information.
 
   
