@@ -70,7 +70,6 @@ Search fidelity.com or get a quote
     *   Fixed Income, Bonds &. CDs
     *   ETFs
     *   Options
-    *   Margin Loans
     *   Sector Investing
     *   Cash Management &. Credit Cards
     *   Managed Accounts
@@ -78,6 +77,7 @@ Search fidelity.com or get a quote
     *   529 College Savings
     *   Annuities
     *   Life Insurance &. Long Term Care
+    *   Charitable Giving
 *   Why Fidelity
     *   The Fidelity Advantage
     *   Planning &. Advice
