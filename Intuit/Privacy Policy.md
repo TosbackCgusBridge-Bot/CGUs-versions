@@ -18,58 +18,86 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackUP TO 25% OFF FITBITShop AllSELECT STYLESUP TO 25% OFF FITBITSELECT STYLESShop All
+Near YouFind a StoreBackFINAL HOURS OF COUPON CODESHOPPINGENDS IN00HOURS 41MINS 11SECS \*Offer ends December 26, 2018 BUY 1 GET 2 FREE BOOTSSHOP ALLSELECT STYLESBUY 1 GET 2 FREE BOOTSSELECT STYLESSHOP ALL
 
-*   ADVERTISED DEAL!
+*   BUY 1 GET 2 FOR FREE
     
-    $14995 sale
+    LIMITED TIME SPECIAL!
     
-    was $199.95 Fitbit Versa Unisex Black Smart Watch-Fb504gmbkAdd To Cart
-*   ADVERTISED DEAL!
+    $80
     
-    $14995 sale
+    Arizona Womens Denmark Riding Block Heel Zip Boots(111)Add To Cart
+*   BUY 1 GET 2 FOR FREE
     
-    was $199.95 Fitbit Versa Peach Unisex Pink Smart Watch - Fb504rgpkAdd To Cart
-*   ADVERTISED DEAL!
+    LIMITED TIME SPECIAL!
     
-    $14995 sale
+    $80
     
-    was $199.95 Fitbit Versa Unisex Gray Smart Watch-Fb504srgyAdd To Cart
-*   ADVERTISED DEAL!
+    Arizona Womens Denmark Wide Calf Riding Boots Block Heel Zip(51)Add To Cart
+*   BUY 1 GET 2 FOR FREE
     
-    $12995 sale
+    LIMITED TIME SPECIAL!
     
-    was $149.95 Fitbit Charge 3 Unisex Gray Smart Watch-Fb409gmbk(1)Add To Cart
-*   ADVERTISED DEAL!
+    $90
     
-    $17995 sale
+    Worthington Womens Lara Slouch Cone Heel Zip Boots(19)Add To Cart
+*   BUY 1 GET 2 FOR FREE
     
-    was $229.95 Fitbit Versa Lavender Printed Unisex Purple Smart Watch-Fb505rglvAdd To Cart
-*   ADVERTISED DEAL!
+    LIMITED TIME SPECIAL!
     
-    $12995 sale
+    $79
     
-    was $149.95 Fitbit Charge 3 Unisex Blue Smart Watch-Fb409rggy(1)Add To Cart
-*   ADVERTISED DEAL!
+    Yuu Womens Nev Zip Bootie(39)Add To Cart
+*   BUY 1 GET 2 FOR FREE
     
-    $22995 sale
+    LIMITED TIME SPECIAL!
     
-    was $269.95 Fitbit Ionic Smart WatchAdd To Cart
+    $60
+    
+    Arizona Womens Lilly Wedge Heel Lace-up Bootie(66)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $80
+    
+    Arizona Womens Cuala Riding Flat Heel Zip Boots(69)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $70
+    
+    Arizona Womens Oxford Booties ZipAdd To Cart
 
 Hot Sellers
 
-*   $1599after couponwas $70 east 5th Womens Quentin Booties Stiletto Heel Zip(14)
-*   from$4875
+*   BIG BUY!
     
-    Nike® Tanjun Womens Running Shoes(77)
-*   $1599after couponwas $42 Arizona Original Flex Chino Pants(190)
-*   $1999after couponwas $50 St. John's Bay Mock Neck Long Sleeve Pullover Sweater(34)
-*   $1599after couponwas $80 Arizona Womens Denmark Riding Block Heel Zip Boots(108)
+    from$1499after couponwas $50 - $159 Studio™ 550 TC UltraFit Solid Performance Sheet Set(1560)
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $42
+    
+    Arizona Bootcut Jeans-Juniors(19)
 *   LIMITED TIME SPECIAL!
     
-    from$3999 sale
+    $25 sale
     
-    was $65 | 30 - 38% offNike Flex Experience 7 Womens Running Shoes Lace-up(35)
+    was $75 | 66% offQ7 Limited Time Special! Black Smartwatch(93)
+*   ADVERTISED DEAL!
+    
+    $1875 sale
+    
+    was $25 | 25% offNike® Benassi JDI Womens Athletic Sandals(15)
+*   $1499after couponwas $50 Stafford Soft Touch Hooded Robe(123)
+*   BUY 1 GET 1 FOR FREE
+    
+    $42
+    
+    Arizona Original Flex Chino Pants(190)
 
 Shop and Save at JCPenney
 
