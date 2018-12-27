@@ -312,21 +312,21 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Aquaman' Gift with Purchase
-    
-    Get 5 FREE digital DC Comics with ticket purchase. BUY TICKETS
-    
 *   Fandango Gift Cards
     
     Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
-*   'Second Act' Gift with Purchase
+*   It’s the Holiday Daily Giveaway &. Movie Sweeps!
     
-    Get a free song download of 'Limitless’ by Jennifer Lopez with ticket purchase. BUY TICKETS
+    Daily Prize: $25 gift card (5 winners/day) Grand prize: A year of movies! BUY NOW
     
 *   'On the Basis of Sex' Sweepstakes
     
     Enter for a chance to win a script of the movie signed by cast &. filmakers! ENTER NOW
+    
+*   Fandango VIP+
+    
+    Earn 125 points on every ticket you buy. Rack up 500 points and get a $5 reward for more movies. BUY TICKETS
     
 
 New + Coming soon
