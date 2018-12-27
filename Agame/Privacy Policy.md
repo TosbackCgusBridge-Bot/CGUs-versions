@@ -90,8 +90,8 @@ View more results
     *   Warbanner
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
-    *   Total Front: Army War Game
-    *   Sniper Team 2Spotlight Super Smash Flash 2
+    *   Sniper Team 2
+    *   Total Front: Army War GameSpotlight Super Smash Flash 2
 *   Top Categories
     
     *   Platform Games
@@ -116,8 +116,8 @@ View more results
     *   Five Nights at Freddy's 2
     *   FNAF World
     *   Five Nights at Freddy's 4
-    *   Tom and Jerry: Mouse Maze
-    *   Uphill RushSpotlight Crime City 3D: Police Game
+    *   Uphill Rush
+    *   Tom and Jerry: Mouse MazeSpotlight Crime City 3D: Police Game
 *   Top Categories
     
     *   Bubble Shooter
@@ -166,8 +166,8 @@ View more results
     Best Games
     *   Pixel Art: Color by Number
     *   Love Tester 2.0
-    *   Ellie: Get Ready With Me
     *   Electricman 2: Stickman Fighting Game
+    *   Ellie: Get Ready With Me
     *   Bartender
     *   Fidget SpinnerSpotlight My Dolphin Show 8
 *   Top Categories
@@ -194,8 +194,8 @@ View more results
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Bike Racing: Motorcycle Game
     *   Hill Racing Challenge
-    *   Extreme Off-Road Cars 2
-    *   Madalin Cars MultiplayerSpotlight Madalin Cars Multiplayer
+    *   Madalin Cars Multiplayer
+    *   Extreme Off-Road Cars 2Spotlight Madalin Cars Multiplayer
 *   Top Categories
     
     *   Athletics
@@ -232,9 +232,9 @@ View more results
     
     Recommended Games
     
-    *   PopTropica
     *   Roblox
     *   Wizard 101
+    *   World of Tanks
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
