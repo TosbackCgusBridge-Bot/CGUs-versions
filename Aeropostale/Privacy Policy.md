@@ -4,7 +4,6 @@ United States We now ship to your location with Borderfree. I'm shipping to: Afg
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
-*   Open submenu ( Gifts ) Gifts
 *   Open submenu ( Clearance ) Clearance
 
 *   Select Country
@@ -24,27 +23,19 @@ Close submenu ( Girls ) Girls
 
 *   View All
 *   New Arrivals
-*   Doorbusters
-*   Gifts for Her
 *   Best Sellers
 *   Destroyed Denim
 *   Cozy
-*   Holiday Party
 *   Online Only
-*   Matching Sets
 
 Close submenu ( Guys ) Guys
 
 *   View All
 *   New Arrivals
-*   Doorbusters
-*   Gifts for Him
 *   Best Sellers
 *   Destroyed Denim
-*   Layer Up
 *   Active
 *   Online Only
-*   Matching Sets
 
 Close submenu ( Girls ) Girls
 
@@ -79,7 +70,6 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Sweaters
 *   Active Tops
-*   $5.87 Graphic Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -106,7 +96,6 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Doorbusters
 *   Online Only
 *   Denim Guide
 *   Tribe Of Tees
@@ -141,7 +130,6 @@ Close submenu ( Tops ) Tops
 *   Hoodies + Sweatshirts
 *   Shirts
 *   Sweaters
-*   $5.87 Graphic Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -156,7 +144,6 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Doorbusters
 *   Online Only
 *   Denim Guide
 *   Lounge
@@ -198,40 +185,6 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Flex Effects
 *   Destroyed Denim
 
-Close submenu ( Gifts ) Gifts
-
-*   View Home
-*   Open submenu ( Gifts for Her ) Gifts for Her
-
-*   Open submenu ( Gifts for Him ) Gifts for Him
-
-*   Open submenu ( Gift Cards ) Gift Cards
-
-Close submenu ( Gifts for Her ) Gifts for Her
-
-*   View All
-*   Gifts Under $10
-*   Gifts Under $20
-*   Stocking Stuffers
-*   Comfy + Cozy
-*   Favorites For Her
-*   Best Sellers
-
-Close submenu ( Gifts for Him ) Gifts for Him
-
-*   View All
-*   Gifts Under $10
-*   Gifts Under $20
-*   Stocking Stuffers
-*   Lounge
-*   Favorites For Him
-*   Best Sellers
-
-Close submenu ( Gift Cards ) Gift Cards
-
-*   View All
-*   eGift Cards
-
 Close submenu ( Clearance ) Clearance
 
 *   View Home
@@ -260,6 +213,7 @@ Close submenu ( Guys ) Guys
 *   $9.99 + Under
 *   Tops
 *   Bottoms
+*   Accessories
 
 Close submenu ( Live Love Dream ) Live Love Dream
 
@@ -273,7 +227,7 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Active
 *   Lounge
 
-**EXTRA 15% OFF** USE CODE **MERRY** GIRLS GUYS **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
+**UP TO 80% OFF CLEARANCE  ** GIRLS GUYS **50-70% OFF + FREE SHIP ON ORDERS OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -286,30 +240,18 @@ Menu Find a Store Aeropostale
     *   Girls
         *   View All
         *   New Arrivals
-        *   Doorbusters
-        *   Gifts for Her
         *   Best Sellers
         *   Destroyed Denim
         *   Cozy
-        *   Holiday Party
         *   Online Only
-        *   Matching Sets
     
     *   Guys
         *   View All
         *   New Arrivals
-        *   Doorbusters
-        *   Gifts for Him
         *   Best Sellers
         *   Destroyed Denim
-        *   Layer Up
         *   Active
         *   Online Only
-        *   Matching Sets
-    
-    Shop Girls Shop Guys
-    
-    Shop Girls Shop Guys
 *   Girls
     
     *   View Home
@@ -325,7 +267,6 @@ Menu Find a Store Aeropostale
         *   Shirts
         *   Sweaters
         *   Active Tops
-        *   $5.87 Graphic Tees
     
     *   Bottoms
         *   View All
@@ -359,7 +300,6 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Doorbusters
         *   Online Only
         *   Denim Guide
         *   Tribe Of Tees
@@ -378,7 +318,6 @@ Menu Find a Store Aeropostale
         *   Hoodies + Sweatshirts
         *   Shirts
         *   Sweaters
-        *   $5.87 Graphic Tees
     
     *   Bottoms
         *   View All
@@ -400,14 +339,12 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Doorbusters
         *   Online Only
         *   Denim Guide
         *   Lounge
         *   Active
         *   Back to Basics
         *   Uniform
-    
 *   Jeans
     
     *   View Home
@@ -435,35 +372,6 @@ Menu Find a Store Aeropostale
         *   Relaxed
         *   Flex Effects
         *   Destroyed Denim
-    
-    Aero Jeans 18 fits and 81 washes means  
-    more chances to find your  
-    denim soul mate this season. In Stores &. Online Up to 70% OFF
-*   Gifts
-    
-    *   View Home
-    *   Gifts for Her
-        *   View All
-        *   Gifts Under $10
-        *   Gifts Under $20
-        *   Stocking Stuffers
-        *   Comfy + Cozy
-        *   Favorites For Her
-        *   Best Sellers
-    
-    *   Gifts for Him
-        *   View All
-        *   Gifts Under $10
-        *   Gifts Under $20
-        *   Stocking Stuffers
-        *   Lounge
-        *   Favorites For Him
-        *   Best Sellers
-    
-    *   Gift Cards
-        *   View All
-        *   eGift Cards
-    
 *   Clearance
     
     *   View Home
@@ -484,6 +392,7 @@ Menu Find a Store Aeropostale
         *   $9.99 + Under
         *   Tops
         *   Bottoms
+        *   Accessories
         
     
     *   Live Love Dream
@@ -496,7 +405,6 @@ Menu Find a Store Aeropostale
         *   Swim
         *   Active
         *   Lounge
-    
 
 *   Select Country
 
@@ -505,25 +413,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Shop Girls Shop Guys Shop E-Gift Cards Shop Girls Shop Guys
-
-Previous*   Shirts Starting at $11.87 Shop Guys Flannels
-*   Puffer Vests Starting at $9.87 Shop Girls Outerwear Shop Guys Outerwear
-*   $5.87 Graphic Tees Starting at $5.87 Shop Girls Shop Guys
-*   Hoodies + Joggers Starting at $8.87 Shop Girls Hoodies + Joggers Shop Guys Hoodies + Joggers
-*   Fashion Tops Starting at $6.87 Shop Girls Fashion Tops
-*   Shirts Starting at $11.87 Shop Guys Flannels
-*   Puffer Vests Starting at $9.87 Shop Girls Outerwear Shop Guys Outerwear
-*   $5.87 Graphic Tees Starting at $5.87 Shop Girls Shop Guys
-*   Hoodies + Joggers Starting at $8.87 Shop Girls Hoodies + Joggers Shop Guys Hoodies + Joggers
-*   Fashion Tops Starting at $6.87 Shop Girls Fashion Tops
-*   Shirts Starting at $11.87 Shop Guys Flannels
-*   Puffer Vests Starting at $9.87 Shop Girls Outerwear Shop Guys Outerwear
-*   $5.87 Graphic Tees Starting at $5.87 Shop Girls Shop Guys
-Next
-
-Shop Girls Gifts Shop Guys Gifts Shop Favorites For Her Shop Favorites For Him Hoodies + Sweatshirts Our super-soft fleece makes the perfect gift for anyone who wants to look cool and keep warm. So...everyone on your list In Stores &. Online Up to 70% OFF Shop Girls Hoodies Shop Guys Hoodies Long Sleeve In Stores &. Online Up to 70% OFF Shop Girls Long Sleeve Shop Guys Long Sleeve Aero Jeans 18 fits and 81 washes mean more chances  
-to find your perfect denim this season. In Stores &. Online Up to 70% OFF Shop Girls Jeans Shop Guys Jeans Jackets + Vests With jackets and vests in light, medium, or heavy weight, we've got outerwear for everyone on your gift list. In Stores &. Online Up to 70% OFF Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Shop Gift Cards Visit the Help Desk Learn More <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Girls Clearance Guys Clearance New Year. New Jeans. In Stores &. Online Aero Jeans Destroyed to Perfection. Buy One Get One Free. Select Styles. Girls Destroyed Jeans Guys Destroyed Jeans Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys AERO GIRLS TEES In Stores &. Online $8 &. Up Shop Girls Graphics Shop Girls Long Sleeve Shop Girls Bodycon AERO GUYS TEES In Stores &. Online $8 &. Up Shop Guys Graphics Shop Guys Long Sleeve HOODIES &. SWEATSHIRTS In Stores &. Online $10 &. Up Shop Girls Shop Guys JACKETS &. VESTS In Stores &. Online $10 &. Up Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
