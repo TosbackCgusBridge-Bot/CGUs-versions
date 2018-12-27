@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Julian Zelizer_: The Trump Shutdown Is a Crisis That Could've Been Avoided
+*   _Tom Basile_: The Trump Doctrine Takes Shape
     
-*   _Newt Gingrich &. Donald Graham_: Fund the Wall and Save the Dreamers
+*   _Angelo Codevilla_: Trump's Syria Withdrawal Hinges on Turkey
     
-*   _Decker &. Renne_: Trump Can Fund the Border Wall Without Congress
+*   _Dana Milbank_: Thanks for Calling the White House. We Aren't Functioning Now
     
-*   _Michael Bloomberg_: One Week Sums Up a Failing Presidency
+*   _Becket Adams_: Dear Dems: The Nativity Story Isn't About Refugees
     
-*   _Keith Kellogg_: We Succeeded in Syria. Now It's Time to Leave.
+*   _Simon Tisdall_: Outside EU, Britain Faces Bleak Future in Trump's World
     
-*   _Susan Rice_: Trump's Reckless Withdrawals Are a Threat to America
+*   _Peter Morici_: Why Britain Should Just Quit Europe
     
-*   _Roger Kimball_: The So-Called 'Adults' Are Surprisingly Childish
+*   _Bill Saporito_: Trump's King Minus Touch
     
-*   _Jonathan Turley_: The Steele Dossier and the Perils of 'Insurance' Policies
+*   _Tana Goertz_: Democrats and the Destroy-Trump Media
     
-*   _Josh Campbell_: Trump's Relationship With Whitaker Imperils Rule of Law
+*   _Robert Kraft_: Finding the USS Indianapolis - And the Human Side of War
     
-*   _Victor Davis Hanson_: Those Targeting Flynn Are More Guilty Than Him
+*   _Carl Cannon_: When Churchill and FDR Found Themselves 'in the Same Boat'
     
-*   _Moore &. Woodhill_: Fire the Fed
+*   _Thomas Friedman_: Time for G.O.P. to Threaten to Fire Trump
     
-*   _Alex Kotlowitz_: The Small-Town Cost of Donald Trump's Trade Wars
+*   _David Catron_: Trump: The Best President I Didn't Vote For
     
-*   _Terence Corcoran_: China's Most Dangerous Export Is Socialism
+*   _Eugene Robinson_: Heaven Help Us: Trump's Incompetent, Narcissistic &. Amoral
     
-*   _Frank Miele_: George Washington, Donald Trump, and a Christmas Wish
+*   _Conrad Black_: Trump's Foes and Their Confected Drama
     
-*   _Lili Loofbourow_: The Year of the Old Boys
+*   _Robert Kuttner_: Donald Trump, Walled Off From Reality
     
-*   _John McWhorter_: The Virtue Signalers Won't Change the World
+*   _Betsy McCaughey_: Dems at It Again, Smearing Wall Supporters as 'Deplorables'
     
-*   _Douglas Murray_: How Terror Changed Europe's Christmas Markets
+*   _Froma Harrop_: U.S. Taking Security for Granted Amid Trump Chaos?
     
-*   _Baker &. Haberman_: For Trump, 'a War Every Day,' Waged Increasingly Alone
+*   _Christian Whiton_: After Mattis, Trump Needs a Different Kind of SecDef
     
-*   _Michael Goodwin_: Don't Expect Trump to Stop Being Trump in 2019
+*   _David Axe_: The U.S. Air Force Is Headed for a Crash
     
-*   _Caygle_: No Shutdown End in Sight as All Sides Dig In
+*   _Metin Gurcan_: Will U.S. Exit From Syria Change Turkey's Road Map?
     
-*   _Christian Whiton_: Trump Is Right to Fight for Border Wall
+*   _Christopher Rufo_: Seattle Under Siege
     
-*   _Dylan Scott_: Why the Blame Game Over the Govt Shutdown Is Pointless
+*   _Jamelle Bouie_: It's Going to Be Tough Path for White Democrats in 2020
     
-*   _Daniel McCarthy_: Trump Is a Man of Peace--His Critics Are a War Machine
+*   _Steve Cortes_: Anti-Catholic Senators
     
-*   _David Ignatius_: The Loyal Soldier Reached His Limit
+*   _Richard Cohen_: NY Times Downplays Alice Walker's Anti-Semitism
     
 
 *   Previous
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Trump in Iraq: Mid-East Nations Must Take More Responsibility. "We're Not The Suckers Of The World"
+*   Sebastian Gorka: Trump Will Never Give Up On Building The Wall. If Not For Twitter, Hillary Would Be President
 *   Stephen Moore: "We Do Not Have An Inflation Problem," We Need To Be Putting More Liquidity In The Economy
 *   Scarborough: Trump Running A "Rogue Presidency". What Can Congress Do, Should Congress Do?
 *   Corker: Shutdown Is "Contrived," "Made Up Fight" So The President Can Look Like He's Fighting
-*   Rep. Mark Meadows: Nancy Pelosi Is Driving Most Of Government Shutdown Negotiations
-*   Gaetz: Mitch McConnell Should Use Nuclear Option. It's "Border Security Or A Long Shutdown"
 
 *   Politics
 *   Policy
