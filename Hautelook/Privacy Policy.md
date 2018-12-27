@@ -8,22 +8,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   The Coat Shop Incl. Plus &. Petites Up to 65% Off
+    *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
+    *   Vince Camuto Shoes Starting at $40
+    *   Vince Camuto Handbags Up to 50% Off
+    *   Vince Camuto Men's Clothing &. Shoes
+    *   Vince Camuto Luggage Up to 75% Off
+    *   Shahida Parides Up to 60% Off
+    *   Room Service Sleep &. Lounge Starting at $25
+    *   Free Shipping: Throws &. Sheets
+    *   Street Chic: Hoodies, Joggers &. More from $17
+    *   RAGA Up to 60% Off
     *   Ramy Brook Up to 75% Off
-    *   ZAC Zac Posen
-    *   Free Shipping: BergHOFF
-    *   Threads 4 Thought Men
+    *   Catherine Catherine Malandrino Up to 80% Off
+    *   O'o Hawaii Skin Care
+    *   Top Toys for Tots
+    *   Vince Camuto Jewelry &. Watches from $10
+    *   Finishing Touches: Cufflinks, Tie Bars &. More
+    *   Macadamia Natural Oil &. Professional Hair Care
+    *   Vintage-Inspired Wall Art, D%uFFFDcor &. More
+    *   Transform Your Space: Modern Wall Decor
+    *   Studded, Printed &. Embellished Shoes
+    *   Lancaster Paris
     *   YMI Jeans Under $30
     *   Marc New York Performance Up to 60% Off
-    *   Comfort Boots ft. Born &. Clarks
+    *   ZAC Zac Posen
+    
     *   Tops Under $20 Incl. Plus &. Petites
     *   Threads 4 Thought Starting at $8
+    *   Free Shipping: BergHOFF
+    *   Threads 4 Thought Men
+    *   Comfort Boots ft. Born &. Clarks
     *   Start Your Regimens: K-Beauty Skin Care
     *   Tosca Blu Handbags
     *   Men's Underwear ft. Mosmann Australia
     *   English Laundry Shoes Up to 60% Off
     *   Nourison Rugs
     *   Beauty Favorites: Nanacoco Cosmetics
-    *   Men's Outerwear Up to 80% Off
+    *   Men's Outerwear Up to 70% Off
     *   On-Trend Sterling Forever Jewelry Under $25
     *   $25 &. Under: Nicole Miller Girls' Shoes
     *   Rain Boots &. Booties Up to 50% Off
@@ -31,75 +53,62 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   14K Gold &. More Under $80
     *   Tosca Blu Shoes
     *   Stila
-    *   Sweaters Under $30 Incl. Plus &. Petites
     *   AG Men's Denim
-    *   Nicole Miller Up to 70% Off
-    *   Charles by Charles David from $40
-    
-    *   Snuggle Up: Sleep Sets &. Robes Under $30
     *   On-Trend Jewelry ft. Argento from $15
-    *   Sugarlips Under $40
-    *   Keep It Casual: Vacation-Ready Styles from $10
     *   Diesel Watches &. More for Him Starting at $80
-    *   FAVLUX Starting at $15
     *   Kitchen Storage
     *   See Kai Run
-    *   Steve Madden Handbags &. Accessories
-    *   Heels &. Pumps Starting at $30
     *   Fun &. Fancy: Girls' Dresses ft. Splendid
+    
     *   Cool Looks for Boys ft. Ben Sherman
     *   TR Premium Up to 80% Off
     *   Hawke &. Co. Up to 70% Off
     *   Men's Waterproof &. Outdoor Shoes
     *   Kitchen Electrics Starting at $15
     *   Keep It Clean: Storage &. Organizers from $10
-    *   Gemstone Jewelry Under $75
-    *   Boots, Sneakers &. More Up to 60% Off
-    *   Last Chance: Men's Designer Steals Up to 80% Off
     *   Men's Shoes Up to 65% Off
-    *   Kids' Holiday Clothing Blowout
-    *   Kids' Sleepwear Blowout
-    *   PUMA Kids
     *   PUMA Men
-    *   Blue Topaz Jewelry &. More Starting at $16
     *   Style Brush Up: Hair Tool Must-Haves
-    
-    *   Paulinie
-    *   Frenchie Mini Couture Bath
-    *   Sweet Sets for Baby Up to 75% Off
-    *   Handmade in Turkey: TMRW Studio Jewelry from $15
     *   Seven7 Starting at $15
     *   Luxe Skin Care: D24K by D'OR &. More
     *   Kantha Blankets
     *   On-Trend Phone Cases
     *   RapidLash
     *   Free Shipping: Sleek Modern Accent Furniture
-    *   TOMS Men Up to 50% Off
     *   Upgrade Your Routine: K-Beauty Masks &. More
     *   Free Shipping: Modern Vases &. More
     *   Free Shipping: Colorful Area Rugs Up to 80% Off
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Budget-Friendly Accent Furniture
     *   Free Shipping: Kitchen Blowout
     *   Chic Bedding Starting at $20
     *   Home Organization Starting at $11
-    *   Free Shipping: Amrapur Towels Up to 80% Off
-    *   Free Shipping: Rugs Starting at $25
-    *   Free Shipping: Comfy Blankets &. More
     *   Free Shipping: Dog Clothing, Collars &. More
-    *   Cozy Shoes ft. EMU Australia Starting at $15
     *   Free Shipping: NMK Bedding Blowout
-    *   Suiting Under $200
     *   Kitchen Essentials Starting at $10
 *   WomenShop Sale Events
     
+    *   The Coat Shop Incl. Plus &. Petites Up to 65% Off
+    *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
+    *   Vince Camuto Shoes Starting at $40
+    *   Vince Camuto Handbags Up to 50% Off
+    *   Shahida Parides Up to 60% Off
+    *   Room Service Sleep &. Lounge Starting at $25
+    *   Street Chic: Hoodies, Joggers &. More from $17
+    *   RAGA Up to 60% Off
     *   Ramy Brook Up to 75% Off
-    *   ZAC Zac Posen
+    *   Catherine Catherine Malandrino Up to 80% Off
+    *   O'o Hawaii Skin Care
+    *   Vince Camuto Jewelry &. Watches from $10
+    *   Macadamia Natural Oil &. Professional Hair Care
+    *   Studded, Printed &. Embellished Shoes
+    *   Lancaster Paris
     *   YMI Jeans Under $30
     *   Marc New York Performance Up to 60% Off
-    *   Comfort Boots ft. Born &. Clarks
+    
+    *   ZAC Zac Posen
     *   Tops Under $20 Incl. Plus &. Petites
     *   Threads 4 Thought Starting at $8
+    *   Comfort Boots ft. Born &. Clarks
     *   Start Your Regimens: K-Beauty Skin Care
     *   Tosca Blu Handbags
     *   Beauty Favorites: Nanacoco Cosmetics
@@ -108,27 +117,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   14K Gold &. More Under $80
     *   Tosca Blu Shoes
     *   Stila
-    *   Sweaters Under $30 Incl. Plus &. Petites
-    *   Nicole Miller Up to 70% Off
-    *   Charles by Charles David from $40
-    
-    *   Snuggle Up: Sleep Sets &. Robes Under $30
     *   On-Trend Jewelry ft. Argento from $15
-    *   Sugarlips Under $40
-    *   Keep It Casual: Vacation-Ready Styles from $10
-    *   FAVLUX Starting at $15
-    *   Steve Madden Handbags &. Accessories
-    *   Heels &. Pumps Starting at $30
-    *   Gemstone Jewelry Under $75
-    *   Boots, Sneakers &. More Up to 60% Off
-    *   Blue Topaz Jewelry &. More Starting at $16
     *   Style Brush Up: Hair Tool Must-Haves
-    *   Handmade in Turkey: TMRW Studio Jewelry from $15
     *   Luxe Skin Care: D24K by D'OR &. More
     *   RapidLash
     *   Upgrade Your Routine: K-Beauty Masks &. More
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Cozy Shoes ft. EMU Australia Starting at $15
     
     Shop By Category
     *   Clothing
@@ -136,27 +129,26 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jewelry
     *   Handbags
     *   Lingerie
-    *   Tech Accessories
-    *   Accessories
     *   Watches
+    *   Tech Accessories
 *   MenShop Sale Events
     
+    *   Vince Camuto Men's Clothing &. Shoes
+    *   Vince Camuto Luggage Up to 75% Off
+    *   Finishing Touches: Cufflinks, Tie Bars &. More
     *   Threads 4 Thought Men
     *   Men's Underwear ft. Mosmann Australia
     *   English Laundry Shoes Up to 60% Off
-    *   Men's Outerwear Up to 80% Off
+    *   Men's Outerwear Up to 70% Off
     *   AG Men's Denim
+    
     *   Diesel Watches &. More for Him Starting at $80
     *   TR Premium Up to 80% Off
     *   Hawke &. Co. Up to 70% Off
-    
     *   Men's Waterproof &. Outdoor Shoes
-    *   Last Chance: Men's Designer Steals Up to 80% Off
     *   Men's Shoes Up to 65% Off
     *   PUMA Men
     *   Seven7 Starting at $15
-    *   TOMS Men Up to 50% Off
-    *   Suiting Under $200
     
     Shop By Category
     *   Shoes
@@ -165,30 +157,28 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Top Toys for Tots
     *   $25 &. Under: Nicole Miller Girls' Shoes
     *   Nicole Miller Baby &. Girls
     *   See Kai Run
     *   Fun &. Fancy: Girls' Dresses ft. Splendid
     *   Cool Looks for Boys ft. Ben Sherman
-    *   Kids' Holiday Clothing Blowout
-    
-    *   Kids' Sleepwear Blowout
-    *   PUMA Kids
-    *   Paulinie
-    *   Frenchie Mini Couture Bath
-    *   Sweet Sets for Baby Up to 75% Off
     
     Shop By Category
-    *   Girls' Shoes
     *   Girls Sizes 2T-6X
-    *   Baby Girl
-    *   Girls Sizes 7-16
+    *   Girls' Shoes
     *   Boys Sizes 2T-7
-    *   Boys' Shoes
+    *   Girls Sizes 7-16
+    *   Baby Girl
     *   Baby Boy
     *   Boys Sizes 8-20
+    *   Boys' Shoes
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Throws &. Sheets
+    *   Vintage-Inspired Wall Art, D%uFFFDcor &. More
+    *   Transform Your Space: Modern Wall Decor
     *   Free Shipping: BergHOFF
     *   Nourison Rugs
     *   Kitchen Storage
@@ -196,17 +186,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Keep It Clean: Storage &. Organizers from $10
     *   Kantha Blankets
     *   On-Trend Phone Cases
+    
     *   Free Shipping: Sleek Modern Accent Furniture
     *   Free Shipping: Modern Vases &. More
     *   Free Shipping: Colorful Area Rugs Up to 80% Off
-    
     *   Budget-Friendly Accent Furniture
     *   Free Shipping: Kitchen Blowout
     *   Chic Bedding Starting at $20
     *   Home Organization Starting at $11
-    *   Free Shipping: Amrapur Towels Up to 80% Off
-    *   Free Shipping: Rugs Starting at $25
-    *   Free Shipping: Comfy Blankets &. More
     *   Free Shipping: Dog Clothing, Collars &. More
     *   Free Shipping: NMK Bedding Blowout
     *   Kitchen Essentials Starting at $10
@@ -214,16 +201,17 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     Shop By Category
     *   Kitchen &. Tabletop
     *   Pet Accessories
-    *   Storage &. Organization
     *   Home Decor
+    *   Storage &. Organization
     *   Bedding
-    *   Accent Furniture
     *   Luggage &. Travel
+    *   Accent Furniture
     *   Outdoor Living
-    *   Bath
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   O'o Hawaii Skin Care
+    *   Macadamia Natural Oil &. Professional Hair Care
     *   Start Your Regimens: K-Beauty Skin Care
     *   Beauty Favorites: Nanacoco Cosmetics
     *   Stila
@@ -231,7 +219,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Luxe Skin Care: D24K by D'OR &. More
     *   RapidLash
     *   Upgrade Your Routine: K-Beauty Masks &. More
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     
     Shop By Category
     *   Makeup
