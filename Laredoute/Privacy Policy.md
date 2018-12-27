@@ -1,4 +1,4 @@
-Retour POLITIQUE DE CONFIDENTIALITE
+Retour POLITIQUE DE CONFIDENTIALITÉ
 
 Soucieuse de la protection de votre vie privée, la Redoute s’engage à assurer le meilleur niveau de protection de vos données à caractère personnel.
 
@@ -15,25 +15,25 @@ Dans les formulaires de collecte de données à caractère personnel sur le site
   
 SOMMAIRE
 
-_1._ QUI COLLECTE LES DONNEES A CARACTERE PERSONNEL ?  
-_2._ QUELLES SONT LES FINALITES DE LA COLLECTE DE VOS DONNEES PERSONNELLES ET QUELLES SONT NOS RAISONS ?  
-_3._ A QUI VOS DONNEES SONT ELLES TRANSMISES ?  
-_4._ QUELS SONT MES DROITS SUR LES DONNEES ?  
+_1._ QUI COLLECTE LES DONNÉES A CARACTERE PERSONNEL ?  
+_2._ QUELLES SONT LES FINALITES DE LA COLLECTE DE VOS DONNÉES PERSONNELLES ET QUELLES SONT NOS RAISONS ?  
+_3._ A QUI VOS DONNÉES SONT ELLES TRANSMISES ?  
+_4._ QUELS SONT MES DROITS SUR LES DONNÉES ?  
 _4.1._ Quels sont mes droits ?  
 _4.2._ Que faire ensuite ?  
 _4.3._ Quelles sont les conséquences de l’exercice du droit d’opposition au profilage ?  
 _4.4._ Quels sont mes droits ?  
-_5._ QUEL EST LE SORT DE MES DONNEES APRES MON DECES ?  
-_6._ MES DONNEES SONT ELLE ENVOYEES HORS DE L’UE ?  
-_7._ COMBIEN DE TEMPS MES DONNEES SONT-ELLES CONSERVEES ?  
+_5._ QUEL EST LE SORT DE MES DONNÉES APRES MON DECES ?  
+_6._ MES DONNÉES SONT ELLE ENVOYEES HORS DE L’UE ?  
+_7._ COMBIEN DE TEMPS MES DONNÉES SONT-ELLES CONSERVEES ?  
 _7.1._ Règles générales concernant la gestion de la relation commerciale :  
 _7.2._ Règles spécfiques concernant certains traitements de données :  
-_8._ QUELLES MESURES DE SECURITE SONT PRISES POUR PROTEGER MES DONNEES ?  
+_8._ QUELLES MESURES DE SECURITE SONT PRISES POUR PROTEGER MES DONNÉES ?  
 _8.1._ Règles générales  
 _8.2._ Règles applicables aux données bancaires et à la carte bancaire  
 _8.3._ Lutte contre la fraude sur internet  
-_9._ QUE FAUT-IL SAVOIR DES DONNEES COLLECTEES PAR LES RÉSEAUX SOCIAUX ?  
-_10._ DES DONNEES SUR LES MINEURS DE MOINS DE 16 ANS SONT ELLES COLLECTEES ?  
+_9._ QUE FAUT-IL SAVOIR DES DONNÉES COLLECTEES PAR LES RÉSEAUX SOCIAUX ?  
+_10._ DES DONNÉES SUR LES MINEURS DE MOINS DE 16 ANS SONT ELLES COLLECTEES ?  
 _11._ VAIS-JE RECEVOIR DES SOLLICITATIONS COMMERCIALES ?  
 _11.1._ Principes applicables à La Redoute  
 _11.2._ Prospection par email et sms  
@@ -48,18 +48,18 @@ _12.3.1._ Paramétrage de votre logiciel de navigation
 _12.3.2._ Paramétrage du système d’exploitation de votre smartphone  
 _12.3.3._ Refus des cookies avec un outil proposé par La Redoute  
 _12.3.4._ Liste d’opposition permettant de gérer le dépôt des cookies  
-_13._ QU’EST-CE QUE LE DÉLÉGUÉ A LA PROTECTION DES DONNEES DE LA REDOUTE  
+_13._ QU’EST-CE QUE LE DÉLÉGUÉ A LA PROTECTION DES DONNÉES DE LA REDOUTE  
 _13.1._ QUELLES SONT SES MISSIONS ?  
-_13.2._ COMMENT CONTACTER LE DELEGUE A LA PROTECTION DES DONNEES ?
+_13.2._ COMMENT CONTACTER LE DELEGUE A LA PROTECTION DES DONNÉES ?
 
-1\. QUI COLLECTE LES DONNEES A CARACTERE PERSONNEL ?
+1\. QUI COLLECTE LES DONNÉES A CARACTERE PERSONNEL ?
 
 La société qui collecte les données à caractère personnel et met en œuvre les traitements de donnée est :
 
 La Redoute, Société par Actions Simplifié au capital de 353 490 250 Euros, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186 dont le siège social est situé au 110 rue de Blanchemaille à Roubaix (59100).
 
   
-2\. QUELLES SONT LES FINALITES DE LA COLLECTE DE VOS DONNEES PERSONNELLES ET QUELLES SONT NOS RAISONS ?
+2\. QUELLES SONT LES FINALITES DE LA COLLECTE DE VOS DONNÉES PERSONNELLES ET QUELLES SONT NOS RAISONS ?
 
 **2.1 BASE JURIDIQUE DES TRAITEMENTS**
 
@@ -156,7 +156,7 @@ Les opérations de luttre contre la fraude et d’évaluation du risque de fraud
 Les opérations de mise en relation des personnes ayant des problèmes de sourdité reposent sur le consentement express de la personne concernée. La personne concernée à la faculté de retirer son consentement en effectuant une demande en cliquant ici
 
      
-3\. A QUI VOS DONNEES SONT ELLES TRANSMISES ?
+3\. A QUI VOS DONNÉES SONT ELLES TRANSMISES ?
 
 Vos données sont transmises à des partenaires de La Redoute qui peuvent traiter les données pour leur compte (ce sont des destinataires) ou uniquement pour le compte et selon les instructions de La Redoute (ce sont des sous-traitants).
 
@@ -217,7 +217,7 @@ La Redoute peut également partager les données à caractère personnnel si la 
 *   Si une telle transaction a lieu, La Redoute s’assurera que l’autre partie respecte la législation sur la protection des données.
 
    
-4\. QUELS SONT MES DROITS SUR LES DONNEES 4.1. Quels sont mes droits ?
+4\. QUELS SONT MES DROITS SUR LES DONNÉES 4.1. Quels sont mes droits ?
 
 En application des articles 14 à 22 du du règlement 2016/679 du 27 avril 2016, toute personne physique utilisant le service a la faculté d’exercer les droits suivants :
 
@@ -254,17 +254,15 @@ En cas de non réponse ou de réponse non satisfaisante, la personne concernée 
 
 *   En France, la CNIL : https://www.cnil.fr/
 
-   
-
   
-5\. QUEL EST LE SORT DE MES DONNEES APRES MON DECES ?
+5\. QUEL EST LE SORT DE MES DONNÉES APRES MON DÉCÈS ?
 
 L’Utilisateur peut formuler des directives relatives à la conservation, à l'effacement et à la communication de ses données à caractère personnel après son décès conformément à l’article 40-1 de la loi 78-17 du 6 janvier 1978. Ces directives peuvent être générales ou particulières.
 
 L’Utilisateur peut formuler ses directives anticipées en cliquant ici.
 
    
-6\. MES DONNEES SONT ELLE ENVOYEES HORS DE L’UE ?
+6\. MES DONNÉES SONT ELLE ENVOYÉES HORS DE L’UE ?
 
 Vous êtes informé que des données à caractère personnel vous concernant peuvent être transmises pour les besoins des finalités définies ci-dessus à des sociétés situées dans des pays hors de l’Union Européenne et ne présentant pas un niveau de protection adéquat en ce qui concerne la protection des données personnelles.
 
@@ -305,7 +303,7 @@ Clauses contractuelles types
 Pour plus d’information sur l’encadrement des flux transfrontières, vous pouvez contacter le délégué à la protection des données.
 
    
-7\. COMBIEN DE TEMPS MES DONNEES SONT-ELLES CONSERVEES ?
+7\. COMBIEN DE TEMPS MES DONNÉES SONT-ELLES CONSERVEES ?
 
 La Redoute a déterminé des règles précises concernant la durée de conservation des données à caractère personnel des Utilisateurs.
 
@@ -335,7 +333,7 @@ En voici quelques exemples :
 Pour plus d’informations sur les durées de conservation appliquées par la Redoute, vous pouvez contacter le délégué à la protection des données (cf. point 12).
 
   
-8\. QUELLES MESURES DE SECURITE SONT PRISES POUR PROTEGER MES DONNEES ? 8.1. Règles générales
+8\. QUELLES MESURES DE SÉCURITÉ SONT PRISES POUR PROTÉGER MES DONNÉES ? 8.1. Règles générales
 
 En tant que responsable de traitement, la société Redoute, prend toutes les précautions utiles pour préserver la sécurité et la confidentialité des données et notamment, empêcher qu’elles soient déformées, endommagées, ou que des tiers non autorisés y aient accès.
 
@@ -356,7 +354,7 @@ Si vous avez fait le choix d’enregistrer vos cartes bancaires, celles-ci sont 
 Afin de sécuriser les paiements et les livraisons et vous assurer une qualité de service optimale, les données personnelles collectées sur le site sont également traitées par La Redoute pour déterminer le niveau de risque de fraude associé à chaque commande et, le cas échéant, aider à moduler les conditions d’exécution de celle-ci. La Redoute a obtenu une autorisation n°1754559 de la CNIL pour mettre en œuvre ce traitement de lutte contre la fraude.
 
   
-9\. QUE FAUT-IL SAVOIR DES DONNEES COLLECTEES PAR LES RÉSEAUX SOCIAUX ?
+9\. QUE FAUT-IL SAVOIR DES DONNÉES COLLECTEES PAR LES RÉSEAUX SOCIAUX ?
 
 La Redoute vous propose de recourir aux réseaux sociaux pour améliorer la relation commerciale et vous proposer des offres publicitaires ciblées sur ces réseaux.
 
@@ -367,7 +365,7 @@ Par exemple, si vous êtes connecté au réseau social Facebook sur votre ordina
 La Redoute vous invite à consulter les politiques de gestion des données personnelles des différents réseaux sociaux pour avoir connaissance des données personnelles pouvant être transmises par ceux-ci.
 
   
-10\. DES DONNEES SUR LES MINEURS DE MOINS DE 16 ANS SONT ELLES COLLECTEES ?
+10\. DES DONNÉES SUR LES MINEURS DE MOINS DE 16 ANS SONT ELLES COLLECTEES ?
 
 Conformément aux conditions générales de vente, il est nécessaire d’avoir 16 ans pour créer un compte sur le site de La Redoute et effectuer des achats.
 
@@ -516,13 +514,13 @@ Liste d’opposition permettant de gérer le dépôt des cookies
 Vous avez également la possibilité de vous opposer au dépôt des cookies en accédant au site internet http://www.youronlinechoices.com/fr/controler-ses-cookies/.
 
   
-13\. QU’EST-CE QUE LE DÉLÉGUÉ A LA PROTECTION DES DONNEES DE LA REDOUTE 13.1. QUELLES SONT SES MISSIONS ?
+13\. QU’EST-CE QUE LE DÉLÉGUÉ A LA PROTECTION DES DONNÉES DE LA REDOUTE 13.1. QUELLES SONT SES MISSIONS ?
 
 Le délégué à la protection des données nommé au sein de la Redoute a pour mission de veiller au respect de la réglementation et des règles décrites dans le présent document.
 
 Il veille notamment à établir un registre des traitements de données à caractère personnel mis en œuvre dans l’entreprise et à s’assurer de la conformité de ceux-ci avec la réglementation et ses évolutions.
 
-Il assure une sensibilisation des équipes et répond aux utilisateurs souhaitant exercer leurs droits concernant les données personnelles collectées par la Redoute 13.2. COMMENT CONTACTER LE DELEGUE A LA PROTECTION DES DONNEES
+Il assure une sensibilisation des équipes et répond aux utilisateurs souhaitant exercer leurs droits concernant les données personnelles collectées par la Redoute 13.2. COMMENT CONTACTER LE DELEGUE A LA PROTECTION DES DONNÉES
 
 Vous avez la possibilité de contacter le délégué à la protection des données à l’adresse dpo@redoute.fr
 
