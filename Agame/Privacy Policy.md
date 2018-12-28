@@ -21,8 +21,6 @@ Games
 
 View more results
 
-*   Advent Calendar
-    
 *   Apps
     
 *   Multiplayer
