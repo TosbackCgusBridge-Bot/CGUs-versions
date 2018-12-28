@@ -73,8 +73,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     WOMEN'S ACCESSORIES >WOMEN'S BAGS >FEATURED SHOPS
     *   New Arrivals
     *   The Starfish Collection
-    *   Tunic Shop
-    *   GiftsWOMEN'S SALE >
+    *   Tunic ShopWOMEN'S SALE >
 *   Men SHOP BY SIZE RANGE
     
     *   Regular
@@ -87,7 +86,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   New Arrivals
     *   No Iron Shop
     *   Supima Shirts &. Sweaters
-    *   Gifts
     
     MEN'S SALE >MEN'S CLOTHING >
     
@@ -144,7 +142,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Kids' Hats, Gloves &. Scarves
     *   Kids' Iron Knees Pants
     *   Kids' Backpacks &. Lunch Boxes
-    *   Gifts
     
     Kids' Sale>Girls' Clothing>
     
@@ -243,8 +240,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Dog Jackets
     
     FEATURED SHOPS
-    *   The Weather Channel Collection
-    *   GiftsOUTERWEAR SALE >
+    *   The Weather Channel CollectionOUTERWEAR SALE >
 *   Bags SHOP BAGS
     
     *   View All
@@ -254,7 +250,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Pouches &. Small Accessories
     *   Business &. Travel
     *   Diaper Bags
-    *   Gifts
     *   Sale
     
     CATEGORIES
@@ -406,28 +401,22 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     DOG SHOP >FEATURED SHOPS
     *   New Arrivals
     *   Supima Bedding &. Bath
-    *   Bedding Basics
-    *   GiftsHOME SALE >
-*   Gifts FEATURED SHOPS
+    *   Bedding BasicsHOME SALE >
+*   New SHOP NEW ARRIVALS
     
-    *   Christmas Candy &. Treats
-    *   Stocking Stuffers
-    *   Matching Family Pajamas
-    *   Christmas Stockings
-    *   Christmas Sweaters
-    *   Holiday &. Christmas Decor
-    *   Down Vests &. Fleece
-    *   Blankets &. Throws
-    *   Totes &. Bags
-    *   Gift Cards
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
     
-    GIFT By Recipient
-    *   For Her
-    *   For Him
-    *   For Girls
-    *   For Boys
-    *   For Home
-    *   For Dog
+    SHOP NEW COLLECTIONS
+    
+    *   Weather Channel Collection
+    *   The Heritage Collection
+    
+    BLOG
+    *   The Journal
 *   Sale WOMEN'S SALE >
     
     *   Regular
@@ -534,7 +523,6 @@ Lands' End Sign In menu
         *   New Arrivals
         *   The Starfish Collection
         *   Tunic Shop
-        *   Gifts
     *   WOMEN'S SALE
 *   Men
     *   Back
@@ -550,7 +538,6 @@ Lands' End Sign In menu
         *   New Arrivals
         *   No Iron Shop
         *   Supima Shirts &. Sweaters
-        *   Gifts
     *   MEN'S SALE
     *   MEN'S CLOTHING
         *   Back
@@ -612,7 +599,6 @@ Lands' End Sign In menu
         *   Kids' Hats, Gloves &. Scarves
         *   Kids' Iron Knees Pants
         *   Kids' Backpacks &. Lunch Boxes
-        *   Gifts
     *   Kids' Sale
     *   Girls' Clothing
         *   Back
@@ -717,7 +703,6 @@ Lands' End Sign In menu
     *   FEATURED SHOPS
         *   Back
         *   The Weather Channel Collection
-        *   Gifts
     *   OUTERWEAR SALE
 *   Bags
     *   Back
@@ -735,7 +720,6 @@ Lands' End Sign In menu
     *   Pouches &. Small Accessories
     *   Business &. Travel
     *   Diaper Bags
-    *   Gifts
     *   Sale
 *   Swim
     *   Back
@@ -894,31 +878,22 @@ Lands' End Sign In menu
         *   New Arrivals
         *   Supima Bedding &. Bath
         *   Bedding Basics
-        *   Gifts
     *   HOME SALE
-*   Gifts
+*   New
     *   Back
-    *   Shop all Gifts
-    *   FEATURED SHOPS
+    *   Shop all New
+    *   SHOP NEW COLLECTIONS
         *   Back
-        *   Christmas Candy &. Treats
-        *   Stocking Stuffers
-        *   Matching Family Pajamas
-        *   Christmas Stockings
-        *   Christmas Sweaters
-        *   Holiday &. Christmas Decor
-        *   Down Vests &. Fleece
-        *   Blankets &. Throws
-        *   Totes &. Bags
-        *   Gift Cards
-    *   GIFT By Recipient
+        *   Weather Channel Collection
+        *   The Heritage Collection
+    *   BLOG
         *   Back
-        *   For Her
-        *   For Him
-        *   For Girls
-        *   For Boys
-        *   For Home
-        *   For Dog
+        *   The Journal
+    *   Women
+    *   Men
+    *   Girls
+    *   Boys
+    *   Home
 *   Sale
     *   Back
     *   Shop all Sale
