@@ -345,6 +345,7 @@ Menu Find a Store Aeropostale
         *   Active
         *   Back to Basics
         *   Uniform
+    
 *   Jeans
     
     *   View Home
@@ -372,6 +373,7 @@ Menu Find a Store Aeropostale
         *   Relaxed
         *   Flex Effects
         *   Destroyed Denim
+    
 *   Clearance
     
     *   View Home
@@ -430,7 +432,7 @@ _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
 Gift Cards
 
-*   Email Gift Card
+*   eGift Cards
 *   Lost/Stolen Gift Cards
 *   Check Gift Card Balance
 
@@ -452,17 +454,3 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
