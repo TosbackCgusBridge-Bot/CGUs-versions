@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Top Snaps in 2018 ›
+*   I have a need, a need for snap ›
+*   The evolution of Canonical at KubeCon ›
 *   Our Kubernetes deployment pipeline ›
 *   Ubuntu Core Smart Speaker ›
-*   Design and Web team summary – 19 December 2018 ›
-*   Unity8: a project that uses Mir ›
-*   KDE apps at the snap of your fingers ›
