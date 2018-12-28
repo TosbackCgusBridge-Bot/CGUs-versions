@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Tom Basile_: The Trump Doctrine Takes Shape
+*   _Bradley Moss_: Politicizing the Military Is Uniformly Wrong
     
-*   _Angelo Codevilla_: Trump's Syria Withdrawal Hinges on Turkey
+*   _Joe Concha_: The Lengths the Media Will Go to Sour Trump's Troop Visit
     
-*   _Dana Milbank_: Thanks for Calling the White House. We Aren't Functioning Now
+*   _David Leonhardt_: Finally, a Check on Trump
     
-*   _Becket Adams_: Dear Dems: The Nativity Story Isn't About Refugees
+*   _Henry Olsen_: Government Shutdown Is Another Good Gamble by Trump
     
-*   _Simon Tisdall_: Outside EU, Britain Faces Bleak Future in Trump's World
+*   _Joshua Geltzer &. Dipayan Ghosh_: Silicon Valley Will Be a Target for All in 2019
     
-*   _Peter Morici_: Why Britain Should Just Quit Europe
+*   _Daniel Davis_: Why Donald Trump Needs a Realist Secretary of Defense
     
-*   _Bill Saporito_: Trump's King Minus Touch
+*   _John Nichols_: The Trouble With Patrick Shanahan
     
-*   _Tana Goertz_: Democrats and the Destroy-Trump Media
+*   _Jim Hanson_: New Info Khashoggi Was a Foreign Influence Agent
     
-*   _Robert Kraft_: Finding the USS Indianapolis - And the Human Side of War
+*   _Art Goldhammer_: The Rough Year Ahead for France
     
-*   _Carl Cannon_: When Churchill and FDR Found Themselves 'in the Same Boat'
+*   _Peter Berkowitz_: Crafting a Constructive Gaza Policy
     
-*   _Thomas Friedman_: Time for G.O.P. to Threaten to Fire Trump
+*   _Byron York_: When Dems Embraced the 'Southern Border Fencing Strategy'
     
-*   _David Catron_: Trump: The Best President I Didn't Vote For
+*   _Aaron Mak_: Government Shutdown Is Going to Hurt More People Each Day
     
-*   _Eugene Robinson_: Heaven Help Us: Trump's Incompetent, Narcissistic &. Amoral
+*   _Matt Mackowiak_: Dems Would Rather Oppose Trump Than Secure the Border
     
-*   _Conrad Black_: Trump's Foes and Their Confected Drama
+*   _Kimberly Dozier_: Trump Takes a War-Zone Victory Lap and Trips
     
-*   _Robert Kuttner_: Donald Trump, Walled Off From Reality
+*   _Tom Rogan_: Three Reasons Trump's Iraq Visit Is So Important
     
-*   _Betsy McCaughey_: Dems at It Again, Smearing Wall Supporters as 'Deplorables'
+*   _David Rothkopf_: Trump's Lies and Corruption Disgrace Other Presidents
     
-*   _Froma Harrop_: U.S. Taking Security for Granted Amid Trump Chaos?
+*   _Victor Davis Hanson_: Mueller Stirring Up More Trouble Than He Finds
     
-*   _Christian Whiton_: After Mattis, Trump Needs a Different Kind of SecDef
+*   _Patrick Radden Keefe_: How a Reality-TV Producer Resurrected Trump
     
-*   _David Axe_: The U.S. Air Force Is Headed for a Crash
+*   _Dominic Green_: Trump's Mideast Carve-Up
     
-*   _Metin Gurcan_: Will U.S. Exit From Syria Change Turkey's Road Map?
+*   _Bret Stephens_: Donald Trump Is Bad for Israel
     
-*   _Christopher Rufo_: Seattle Under Siege
+*   _Emmett Tyrrell_: The Crisis of America's Upper Class
     
-*   _Jamelle Bouie_: It's Going to Be Tough Path for White Democrats in 2020
+*   _Froma Harrop_: The Self-Destruction of U.S. Farmers
     
-*   _Steve Cortes_: Anti-Catholic Senators
+*   _Robert Johnson_: Have No Fear of Stock Market Unrest
     
-*   _Richard Cohen_: NY Times Downplays Alice Walker's Anti-Semitism
+*   _Dylan Scott_: The Suburbs Might Not Come Back to Republicans
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   White House, Congressional Democrats See No Deal on Border
+*   Trump Makes First Visit to U.S. Troops in Harm's Way
+*   Trump in Iraq: "We're No Longer the Suckers, Folks"
 *   After Criticism, Trump Pushes Out Mattis Sooner Than Planned
-*   Holiday-Season Gridlock in DC Brings Partial Federal Closure
-*   McLaughlin Group: The Political Best and Worst of 2018
 *   Justice Ginsburg Has 2 Cancerous Nodules Removed From Lung
-*   Officials: American Troops to Be Pulled From Afghanistan
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve44
+    *   Disapprove52Disapprove +8
+*   Congressional Job ApprovalEconomist/YouGov
+    *   Approve11
+    *   Disapprove70Disapprove +59
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
 *   President Trump Job ApprovalGallup
     *   Approve40
     *   Disapprove55Disapprove +15
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove52Disapprove +6
-*   Direction of CountryRasmussen Reports
-    *   Right Direction40
-    *   Wrong Track55Wrong Track +15
-*   President Trump Job ApprovalUSA Today/Suffolk
-    *   Approve42
-    *   Disapprove54Disapprove +12
 
 More Latest Polls In The News
 
+*   Sheriff on Murder Of Immigrant Officer By Illegal Immigrant: Shining Example of the "American Dream"
+*   CNN's Barbara Starr Criticizes Troops, Trump For Hat Signing in Iraq: "How Did The Red Hats Get There?"
+*   Scarborough: Trump Used "Captive Audience Of American Heroes" To Push Unpopular Domestic Agenda
+*   Richard Haass: Iran Is The Most Likely Setting For A Major New War In 2019
 *   Trump in Iraq: Mid-East Nations Must Take More Responsibility. "We're Not The Suckers Of The World"
-*   Sebastian Gorka: Trump Will Never Give Up On Building The Wall. If Not For Twitter, Hillary Would Be President
-*   Stephen Moore: "We Do Not Have An Inflation Problem," We Need To Be Putting More Liquidity In The Economy
-*   Scarborough: Trump Running A "Rogue Presidency". What Can Congress Do, Should Congress Do?
-*   Corker: Shutdown Is "Contrived," "Made Up Fight" So The President Can Look Like He's Fighting
 
 *   Politics
 *   Policy
