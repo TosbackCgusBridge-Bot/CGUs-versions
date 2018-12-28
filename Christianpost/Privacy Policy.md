@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
+*   Lysa Terkeurst
+*   Most popular of 2018
+*   Abortion
+*   Calvinists
 *   Boy in drag
-*   Max Lucado
-*   Coach prayer ban
-*   Former criminal
-*   Trust in clergy
 
 About Us
 
