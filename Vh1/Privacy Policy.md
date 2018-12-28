@@ -4,12 +4,12 @@
     *   Shows A-Z
     *   TV Schedule
     *   VH1 App
-    *   Basketball Wives
     *   Black Ink Crew
     *   Black Ink Crew Chicago
+    *   Cartel Crew
+    *   Grown &. Sexy
     *   Love &. Hip Hop Miami
     *   Love &. Hip Hop New York
-    *   Martha &. Snoop's Potluck Dinner Party
     *   RuPaul’s Drag Race All Stars
     *   T.I. &. Tiny: Friends &. Family HustleSee all Shows
 *   News
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBasketball WivesBlack Ink CrewBlack Ink Crew ChicagoLove &. Hip Hop MiamiLove &. Hip Hop New YorkMartha &. Snoop's Potluck Dinner PartyRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family Hustlesee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBlack Ink CrewBlack Ink Crew ChicagoCartel CrewGrown &. SexyLove &. Hip Hop MiamiLove &. Hip Hop New YorkRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family Hustlesee all Shows
 *   News
 *   App
 *   Watch Live TV
