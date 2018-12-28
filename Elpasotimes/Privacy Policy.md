@@ -1,4 +1,4 @@
-close dialogSubscribe Todayclose dialogSUBSCRIBE NOW99¢ per month. Save 90%.
+SUBSCRIBE NOWOnly $3 for 3 months. Save 90%.
 
 *   Home
 *   News
@@ -58,7 +58,7 @@ close dialogSubscribe Todayclose dialogSUBSCRIBE NOW99¢ per month. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowBeto, Escobar: Close $144M Tornillo shelterLocalIncumbents Lizarraga, Svarzbein keep council seatsPoliticsJoe Pickett to resign from House to battle cancerNewsFather wants inquiry into migrant girl's deathImmigrationPreservationists favor Duranguito over arenaNews'Canelo' Alvarez wins third division titleBoxingFather of migrant girl, 7, wants to say goodbyeNewsColleagues mourn Fox meteorologist Jessica Starr, who took her own lifeNewsBeto O'Rourke: Inquiry needed in girl's deathNewsCBS gave Dushku $9.5M after 'Bull' incidentEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPossible snow flurries, cooler weather comingNewsFort Bliss soldier jailed in stabbing murderCrimeICE to release 500 more migrants in El PasoImmigrationEl Paso, NM hospitals check 450 migrant kidsNewsOfficers shoot man wielding knife, police sayCrimeMore migrants dropped off in Downtown on ChristmasImmigrationGuatemalan boy's dad heard it was OK to crossNewsGuatemalan migrant boy dies in US custodyImmigrationCastro: Migrant center conditions are subhumanNewsMeet "Coco" book author Diana Lopez at AlamoEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -118,6 +118,7 @@ Services
 *   Accessibility Support
 
 *   Public Notices
+*   Sitemap
 
 Our Partners
 
@@ -129,5 +130,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogSubscribe Todayclose dialog
