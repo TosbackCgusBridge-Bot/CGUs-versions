@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
+*   'Ex-gay' app
 *   Lysa Terkeurst
-*   Most popular of 2018
-*   Abortion
-*   Calvinists
-*   Boy in drag
+*   Sodom
+*   Sherri Shepherd
+*   John Crist
 
 About Us
 
