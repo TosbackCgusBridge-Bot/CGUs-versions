@@ -64,9 +64,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   First ‘Hellboy’ Trailer Arrives Just in Time. Here’s Everything We Know Read More
-    *   The Week in Movie News: First ‘Hellboy’ Trailer, Favorite Movies of 2018 and More Read More
-    *   Watch First, Totally Unnerving 'Us' Trailer. Here's Everything We Know Read More
+    *   2019 Movie Preview: Disney Is About To Have One of The Greatest Years Ever Read More
+    *   The Week in Movie News: 2019 Previews, First ‘Us’ Trailer and More Read More
+    *   Moviegoers Name ‘Avengers: Endgame’ the Most Anticipated Release of 2019 Read More
     
     Explore Content
     *   Movie Reviews
