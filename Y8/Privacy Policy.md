@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  01:18:59
+New Games Next in  xx:xx
 
-*   By Date Next addition in 01:18:59
+*   By Date Next addition in xx:xx
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 01:18:59
-*   Best of new games 1207 games
-*   Most Popular Games 18427 games
+*   New Games Next in xx:xx
+*   Best of new games 1179 games
+*   Most Popular Games 18437 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,589 games
+*   Games for girls 23,601 games
 *   Driving &. Racing Games 6,734 games
 *   Strategy &. RPG Games 2,407 games
-*   Management Games 3,634 games
+*   Management Games 3,635 games
 *   Thinking Games 11,895 games
-*   Action &. Adventure Games 15,897 games
+*   Action &. Adventure Games 15,898 games
 *   Sports Games 2,149 games
-*   Shooting Games 8,367 games
+*   Shooting Games 8,369 games
 *   Fighting Games 2,091 games
-*   Skill Games 10,703 games
+*   Skill Games 10,705 games
 *   Arcade &. Classic Games 12,688 games
 *   Fun &. Crazy Games 2,480 games
 
 Play with friends  
-Powered by Y8 Account 138 Y8 Multiplayer Games 1,794 Y8 High Score Games 1,093 Y8 Achievements Games 795 Y8 Screenshots Games 1,385 Y8 Online Save Games 2,825 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 140 Y8 Multiplayer Games 1,796 Y8 High Score Games 1,094 Y8 Achievements Games 795 Y8 Screenshots Games 1,385 Y8 Online Save Games 2,828 All Y8 Games Games Last Highscore:
 
-**37,097** points on Throne Defender by greg
+**2** points on Wheely 5: Armageddon by thucubithinh
 
 Help us improve Bad translation? Social
 
