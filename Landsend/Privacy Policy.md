@@ -142,6 +142,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Kids' Hats, Gloves &. Scarves
     *   Kids' Iron Knees Pants
     *   Kids' Backpacks &. Lunch Boxes
+    *   Kids' Swim Shop
     
     Kids' Sale>Girls' Clothing>
     
@@ -599,6 +600,7 @@ Lands' End Sign In menu
         *   Kids' Hats, Gloves &. Scarves
         *   Kids' Iron Knees Pants
         *   Kids' Backpacks &. Lunch Boxes
+        *   Kids' Swim Shop
     *   Kids' Sale
     *   Girls' Clothing
         *   Back
@@ -966,9 +968,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive savings up to 65% during the Great Winter Sale, plus 40% off full-price styles!
+Receive 20% off your order!
 
-code: SNOWMAN pin: 2469 DETAILS
+code: SHINE pin: 6428 DETAILS
 
 Customer Service Menu
 
