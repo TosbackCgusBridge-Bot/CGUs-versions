@@ -56,7 +56,7 @@ Borrow for your business with affordable business loans. Learn more
 
 Get live support and seller protection.
 
-Get Started Shop, send, and return easily this holiday. Learn More Send money to friends and family.
+Get Started Send money to friends and family.
 
 It's free to send money to friends and family in the U.S. when you use your bank account or PayPal balance.\*
 
@@ -109,4 +109,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=6574b013b0d76&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=1146ceaf52a04ad0b6a8bb94d3a09e67&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=39b9f85517494&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=eb10132054ce40fe8331b8327ca2fbea&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
