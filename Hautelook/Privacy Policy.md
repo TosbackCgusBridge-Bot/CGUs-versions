@@ -8,19 +8,40 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Anthropologie Home
+    *   The Active Shop: Clothing &. Shoes from $15
+    *   The Active Shop: Men's Clothing &. Shoes from $15
+    *   Native Kids Starting at $20
+    *   Gracia
+    *   CQbyCQ Up to 65% Off
+    *   Designer Shoes ft. Badgley Mischka &. Mercedes Castillo
+    *   SUSINA and 14th &. Union Incl. Plus and Petites
+    *   Winter Blues: Denim for Every Style Under $50
+    *   Predire Paris Luxury Skin Care
+    *   Start Fresh: 2019 Agendas &. More
+    *   Smart Watches &. Active Accessories
+    *   The Active Shop: Kids' Shoes &. Clothing from $15
+    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
+    *   Marc Fisher
+    *   Creative Hair Tools
+    *   Office Style: Casual Friday Finds for Him
+    *   Made in Italy: Handbags Starting at $65
+    *   Arka Tees Under $20
+    *   Rugs for Every Room
+    *   Free Shipping: ZUO Accent Furniture
+    *   Bacco Bucci Up to 55% Off
+    *   Kids' Sets Starting at $12
     *   Lucky Brand Incl. Plus Up to 60% Off
     *   Lucky Brand Shoes
+    
     *   Lucky Brand Men Under $50
     *   Lucky Brand Jewelry &. Handbags Up to 50% Off
-    *   Andy &. Evan
-    *   Lucky Brand Kids
     *   Vintage Havana from $13
     *   Vanity Room Up to 60% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Fanco Starting at $30
     *   Dresses Under $40 Incl. Plus &. Petites
-    *   The Coat Shop Incl. Plus &. Petites Up to 65% Off
-    *   Free Shipping: End-Of-Year Bedding Up to 75% Off
+    *   Andy &. Evan
     *   Free Shipping: Organization Essentials from $10
     *   MUK LUKS Boots, Socks &. More from $10
     *   i smell great
@@ -29,95 +50,79 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Nautica Men's Suiting &. More Up to 75% Off
     *   Diamond Supply
     *   Wallity Art
-    *   Ben Sherman Boys' Shoes
     *   Luxe Men's Shoes ft. Badgley Mischka
     *   Mia Belle Girls' Blowout
-    
     *   Rainbow Jewelry &. More Starting at $15
+    *   Ben Sherman Boys' Shoes
+    *   Lucky Brand Kids
     *   Vince Camuto Shoes Starting at $40
     *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
-    *   Room Service Sleep &. Lounge Starting at $25
     *   Vince Camuto Handbags Up to 50% Off
-    *   Shahida Parides Up to 60% Off
     *   Vince Camuto Men's Clothing &. Shoes
-    *   Vince Camuto Luggage Up to 75% Off
+    
     *   Free Shipping: Throws &. Sheets
-    *   Catherine Catherine Malandrino Up to 80% Off
     *   O'o Hawaii Skin Care
     *   Top Toys for Tots
     *   Vince Camuto Jewelry &. Watches from $10
-    *   RAGA Up to 60% Off
     *   Finishing Touches: Cufflinks, Tie Bars &. More
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Vintage-Inspired Wall Art, Decor &. More
     *   Transform Your Space: Modern Wall Decor
-    *   Studded, Printed &. Embellished Shoes
-    *   Street Chic: Hoodies, Joggers &. More from $17
-    *   Lancaster Paris
     *   Free Shipping: BergHOFF
     *   Start Your Regimens: K-Beauty Skin Care
     *   English Laundry Shoes Up to 60% Off
-    
     *   Nourison Rugs
     *   Beauty Favorites: Nanacoco Cosmetics
-    *   On-Trend Sterling Forever Jewelry Under $25
-    *   $25 &. Under: Nicole Miller Girls' Shoes
-    *   Nicole Miller Baby &. Girls
-    *   14K Gold &. More Under $80
     *   Stila
-    *   Diesel Watches &. More for Him Starting at $80
     *   Kitchen Storage
-    *   TR Premium Up to 80% Off
-    *   Hawke &. Co. Up to 70% Off
-    *   Men's Waterproof &. Outdoor Shoes
     *   Kitchen Electrics Starting at $15
     *   Keep It Clean: Storage &. Organizers from $10
-    *   Style Brush Up: Hair Tool Must-Haves
-    *   Luxe Skin Care: D24K by D'OR &. More
     *   Kantha Blankets
     *   On-Trend Phone Cases
     *   Free Shipping: Sleek Modern Accent Furniture
     *   Free Shipping: Modern Vases &. More
-    *   Free Shipping: Colorful Area Rugs Up to 80% Off
-    *   Budget-Friendly Accent Furniture
     *   Free Shipping: Dog Clothing, Collars &. More
-    *   Kitchen Essentials Starting at $10
+    *   Free Shipping: End-Of-Year Bedding Up to 75% Off
+    *   The Coat Shop Incl. Plus &. Petites Up to 65% Off
+    *   Lancaster Paris
 *   WomenShop Sale Events
     
+    *   The Active Shop: Clothing &. Shoes from $15
+    *   Gracia
+    *   CQbyCQ Up to 65% Off
+    *   Designer Shoes ft. Badgley Mischka &. Mercedes Castillo
+    *   SUSINA and 14th &. Union Incl. Plus and Petites
+    *   Winter Blues: Denim for Every Style Under $50
+    *   Predire Paris Luxury Skin Care
+    *   Smart Watches &. Active Accessories
+    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
+    *   Marc Fisher
+    *   Creative Hair Tools
+    *   Made in Italy: Handbags Starting at $65
     *   Lucky Brand Incl. Plus Up to 60% Off
     *   Lucky Brand Shoes
     *   Lucky Brand Jewelry &. Handbags Up to 50% Off
     *   Vintage Havana from $13
     *   Vanity Room Up to 60% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    
     *   Fanco Starting at $30
     *   Dresses Under $40 Incl. Plus &. Petites
-    *   The Coat Shop Incl. Plus &. Petites Up to 65% Off
     *   MUK LUKS Boots, Socks &. More from $10
     *   i smell great
     *   LifeStride Up to 55% Off
     *   Rainbow Jewelry &. More Starting at $15
     *   Vince Camuto Shoes Starting at $40
     *   Vince Camuto Incl. Plus &. Petites Up to 70% Off
-    *   Room Service Sleep &. Lounge Starting at $25
     *   Vince Camuto Handbags Up to 50% Off
-    
-    *   Shahida Parides Up to 60% Off
-    *   Catherine Catherine Malandrino Up to 80% Off
     *   O'o Hawaii Skin Care
     *   Vince Camuto Jewelry &. Watches from $10
-    *   RAGA Up to 60% Off
     *   Macadamia Natural Oil &. Professional Hair Care
-    *   Studded, Printed &. Embellished Shoes
-    *   Street Chic: Hoodies, Joggers &. More from $17
-    *   Lancaster Paris
     *   Start Your Regimens: K-Beauty Skin Care
     *   Beauty Favorites: Nanacoco Cosmetics
-    *   On-Trend Sterling Forever Jewelry Under $25
-    *   14K Gold &. More Under $80
     *   Stila
-    *   Style Brush Up: Hair Tool Must-Haves
-    *   Luxe Skin Care: D24K by D'OR &. More
+    *   The Coat Shop Incl. Plus &. Petites Up to 65% Off
+    *   Lancaster Paris
     
     Shop By Category
     *   Clothing
@@ -129,81 +134,85 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tech Accessories
 *   MenShop Sale Events
     
+    *   The Active Shop: Men's Clothing &. Shoes from $15
+    *   Smart Watches &. Active Accessories
+    *   Office Style: Casual Friday Finds for Him
+    *   Arka Tees Under $20
+    *   Bacco Bucci Up to 55% Off
     *   Lucky Brand Men Under $50
     *   Men's Ski-Ready Jackets ft. Helly Hansen
+    
     *   Nautica Men's Suiting &. More Up to 75% Off
     *   Diamond Supply
     *   Luxe Men's Shoes ft. Badgley Mischka
     *   Vince Camuto Men's Clothing &. Shoes
-    *   Vince Camuto Luggage Up to 75% Off
-    
     *   Finishing Touches: Cufflinks, Tie Bars &. More
     *   English Laundry Shoes Up to 60% Off
-    *   Diesel Watches &. More for Him Starting at $80
-    *   TR Premium Up to 80% Off
-    *   Hawke &. Co. Up to 70% Off
-    *   Men's Waterproof &. Outdoor Shoes
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Native Kids Starting at $20
+    *   The Active Shop: Kids' Shoes &. Clothing from $15
+    *   Kids' Sets Starting at $12
     *   Andy &. Evan
-    *   Lucky Brand Kids
-    *   Ben Sherman Boys' Shoes
     *   Mia Belle Girls' Blowout
+    *   Ben Sherman Boys' Shoes
+    *   Lucky Brand Kids
     *   Top Toys for Tots
-    *   $25 &. Under: Nicole Miller Girls' Shoes
-    *   Nicole Miller Baby &. Girls
     
     Shop By Category
-    *   Girls' Shoes
-    *   Toys
-    *   Baby Boy
-    *   Baby Girl
-    *   Girls Sizes 2T-6X
     *   Boys' Shoes
-    *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
+    *   Girls' Shoes
     *   Girls Sizes 7-16
+    *   Girls Sizes 2T-6X
+    *   Baby Girl
+    *   Baby Boy
+    *   Boys Sizes 2T-7
+    *   Toys
+    *   Boys Sizes 8-20
 *   HomeShop Sale Events
     
-    *   Free Shipping: End-Of-Year Bedding Up to 75% Off
+    *   Anthropologie Home
+    *   Start Fresh: 2019 Agendas &. More
+    *   Rugs for Every Room
+    *   Free Shipping: ZUO Accent Furniture
     *   Free Shipping: Organization Essentials from $10
     *   Wallity Art
     *   Free Shipping: Throws &. Sheets
     *   Vintage-Inspired Wall Art, Decor &. More
     *   Transform Your Space: Modern Wall Decor
     *   Free Shipping: BergHOFF
+    
     *   Nourison Rugs
     *   Kitchen Storage
     *   Kitchen Electrics Starting at $15
-    
     *   Keep It Clean: Storage &. Organizers from $10
     *   Kantha Blankets
     *   On-Trend Phone Cases
     *   Free Shipping: Sleek Modern Accent Furniture
     *   Free Shipping: Modern Vases &. More
-    *   Free Shipping: Colorful Area Rugs Up to 80% Off
-    *   Budget-Friendly Accent Furniture
     *   Free Shipping: Dog Clothing, Collars &. More
-    *   Kitchen Essentials Starting at $10
+    *   Free Shipping: End-Of-Year Bedding Up to 75% Off
     
     Shop By Category
-    *   Pet Accessories
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
-    *   Accent Furniture
+    *   Pet Accessories
     *   Bedding
+    *   Bath
+    *   Luggage &. Travel
+    *   Rugs &. Doormats
     *   Storage &. Organization
     *   Outdoor Living
-    *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Predire Paris Luxury Skin Care
+    *   Creative Hair Tools
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   i smell great
     *   O'o Hawaii Skin Care
@@ -211,8 +220,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Start Your Regimens: K-Beauty Skin Care
     *   Beauty Favorites: Nanacoco Cosmetics
     *   Stila
-    *   Style Brush Up: Hair Tool Must-Haves
-    *   Luxe Skin Care: D24K by D'OR &. More
     
     Shop By Category
     *   Makeup
