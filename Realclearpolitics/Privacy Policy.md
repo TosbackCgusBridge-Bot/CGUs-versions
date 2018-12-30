@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   White House, Congressional Democrats See No Deal on Border
+*   Trump, Democrats Play Blame Game in Battle Over Border Wall
+*   EPA Targets Obama Crackdown on Mercury From Coal Plants
+*   Meadows: We Could Be In for a "Very Long-Term Shutdown"
 *   Trump Makes First Visit to U.S. Troops in Harm's Way
-*   Trump in Iraq: "We're No Longer the Suckers, Folks"
 *   After Criticism, Trump Pushes Out Mattis Sooner Than Planned
-*   Justice Ginsburg Has 2 Cancerous Nodules Removed From Lung
 *   Presidential Job Approval
 *   Cartoons of the Week
 
