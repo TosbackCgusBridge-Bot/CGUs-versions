@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1179 games
-*   Most Popular Games 18437 games
+*   Best of new games 1139 games
+*   Most Popular Games 18444 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,601 games
+*   Games for girls 23,604 games
 *   Driving &. Racing Games 6,734 games
 *   Strategy &. RPG Games 2,407 games
 *   Management Games 3,635 games
-*   Thinking Games 11,895 games
-*   Action &. Adventure Games 15,898 games
-*   Sports Games 2,149 games
+*   Thinking Games 11,896 games
+*   Action &. Adventure Games 15,899 games
+*   Sports Games 2,150 games
 *   Shooting Games 8,369 games
 *   Fighting Games 2,091 games
-*   Skill Games 10,705 games
+*   Skill Games 10,707 games
 *   Arcade &. Classic Games 12,688 games
 *   Fun &. Crazy Games 2,480 games
 
 Play with friends  
-Powered by Y8 Account 140 Y8 Multiplayer Games 1,796 Y8 High Score Games 1,094 Y8 Achievements Games 795 Y8 Screenshots Games 1,385 Y8 Online Save Games 2,828 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 140 Y8 Multiplayer Games 1,796 Y8 High Score Games 1,095 Y8 Achievements Games 796 Y8 Screenshots Games 1,385 Y8 Online Save Games 2,829 All Y8 Games Games Last Highscore:
 
-**2** points on Wheely 5: Armageddon by thucubithinh
+**2,855** points on Yeti Sensation by buithanhtaiagok
 
 Help us improve Bad translation? Social
 
