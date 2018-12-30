@@ -85,11 +85,11 @@ View more results
     
     Best Games
     *   Plants vs Zombies
-    *   Warbanner
     *   Apple Shooter: Arrow Game
+    *   Warbanner
     *   Stunt Skateboard 3D
     *   Sniper Team 2
-    *   Total Front: Army War GameSpotlight Super Smash Flash 2
+    *   Uphill Rush 7: WaterparkSpotlight Super Smash Flash 2
 *   Top Categories
     
     *   Platform Games
@@ -115,7 +115,7 @@ View more results
     *   FNAF World
     *   Five Nights at Freddy's 4
     *   Uphill Rush
-    *   FNAF: Sister Location Custom NightSpotlight Crime City 3D: Police Game
+    *   Five Nights at Freddy's: Sister LocationSpotlight Crime City 3D: Police Game
 *   Top Categories
     
     *   Bubble Shooter
@@ -138,8 +138,8 @@ View more results
     Best Games
     *   Cookie Crush 3
     *   The Impossible Quiz: World's Hardest Quiz
-    *   Bubble Shooter
     *   Fireboy and Watergirl: The Forest Temple
+    *   Bubble Shooter
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Deal or No DealSpotlight TenTrix
 *   Top Categories
@@ -163,11 +163,11 @@ View more results
     
     Best Games
     *   Pixel Art: Color by Number
-    *   Love Tester 2.0
     *   Electricman 2: Stickman Fighting Game
+    *   Love Tester 2.0
     *   Ellie: Get Ready With Me
     *   Bartender
-    *   Fidget SpinnerSpotlight My Dolphin Show 8
+    *   Burger Restaurant ExpressSpotlight My Dolphin Show 8
 *   Top Categories
     
     *   BMX Games
@@ -190,10 +190,10 @@ View more results
     Best Games
     *   Madalin Stunt Cars 2
     *   Highway Rider Extreme: Motorbike Game 3D
-    *   Bike Racing: Motorcycle Game
     *   Hill Racing Challenge
+    *   Bike Racing: Motorcycle Game
     *   Madalin Cars Multiplayer
-    *   Extreme Off-Road Cars 2Spotlight Madalin Cars Multiplayer
+    *   Uphill Rush 7: WaterparkSpotlight Madalin Cars Multiplayer
 *   Top Categories
     
     *   Athletics
