@@ -48,7 +48,7 @@ Close submenu ( Girls ) Girls
 *   Hats, Gloves + Scarves
 *   Dresses + Rompers
 *   Accessories
-*   Slippers + Slides
+*   Footwear
 *   Fragrance
 *   Extended Sizes
 *   Clearance
@@ -283,7 +283,7 @@ Menu Find a Store Aeropostale
     *   Hats, Gloves + Scarves
     *   Dresses + Rompers
     *   Accessories
-    *   Slippers + Slides
+    *   Footwear
     *   Fragrance
     *   Extended Sizes
     *   Clearance
