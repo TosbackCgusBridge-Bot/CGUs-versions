@@ -34,8 +34,8 @@ Hot Topics
 *   Sterilizing kids
 *   'Ex-gay' app
 *   Lysa Terkeurst
-*   John Crist
-*   New Year Bible verses
+*   'No Safe Spaces'
+*   Chrissy Metz
 
 About Us
 
