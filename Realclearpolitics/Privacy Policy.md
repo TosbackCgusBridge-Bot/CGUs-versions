@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Moore &. Ortiz_: The Fed Must Repeal Its Disastrous Rate Increases
+*   _Dave Barry_: Is There Anything Good We Can Say About 2018?
     
-*   _David Ignatius_: Here's Hoping the U.S.-N. Korea Dialogue Continues
+*   _Steve Cortes_: Trump's Top 10 Achievements of 2018
     
-*   _Bradley Moss_: Politicizing the Military Is Uniformly Wrong
+*   _Elie Honig_: Brace Yourself for an Ugly Political Brawl in 2019
     
-*   _Joe Concha_: The Lengths the Media Will Go to Sour Trump's Troop Visit
+*   _Jonathan Turley_: Trump Is Completely Transforming the Democrats
     
-*   _David Leonhardt_: Finally, a Check on Trump
+*   _George Packer_: The Needless Cruelty of Trump's Syria Withdrawal
     
-*   _Henry Olsen_: Government Shutdown Is Another Good Gamble by Trump
+*   _Nicholas Waddy_: Well-Timed, Sensible Exit From Syria's Civil War
     
-*   _Joshua Geltzer &. Dipayan Ghosh_: Silicon Valley Will Be a Target for All in 2019
+*   _Karen Tumulty_: Trump's Tweets on Children Dying in U.S. Custody Are New Low
     
-*   _Daniel Davis_: Why Donald Trump Needs a Realist Secretary of Defense
+*   _Michael Goodwin_: Building Wall Will Prevent More Tragedies at the Border
     
-*   _John Nichols_: The Trouble With Patrick Shanahan
+*   _Carl M. Cannon_: Second Thoughts on 'America First'
     
-*   _Jim Hanson_: New Info Khashoggi Was a Foreign Influence Agent
+*   _Debra J. Saunders_: Killing of Cop May Upend Shutdown Debate
     
-*   _Art Goldhammer_: The Rough Year Ahead for France
+*   _Sen. Kamala Harris_: Everyone Gets Sick. And We Deserve Better.
     
-*   _Peter Berkowitz_: Crafting a Constructive Gaza Policy
+*   _Patrick Buchanan_: 2020: Year of the Democrats? Maybe Not
     
-*   _Byron York_: When Dems Embraced the 'Southern Border Fencing Strategy'
+*   _Jonathan Chait_: Why Bernie Must Crush Beto
     
-*   _Aaron Mak_: Government Shutdown Is Going to Hurt More People Each Day
+*   _Clarice Feldman_: Intersectionality at the Crossroads
     
-*   _Matt Mackowiak_: Dems Would Rather Oppose Trump Than Secure the Border
+*   _Jon Webb_: Is Your Christmas Gift Spying On You?
     
-*   _Kimberly Dozier_: Trump Takes a War-Zone Victory Lap and Trips
+*   _Andrea Peyser_: Chris Pratt Doesn't Deserve the Bashing He's Getting
     
-*   _Tom Rogan_: Three Reasons Trump's Iraq Visit Is So Important
+*   _Ben Domenech_: A Remembrance of Bre Payton
     
-*   _David Rothkopf_: Trump's Lies and Corruption Disgrace Other Presidents
+*   _Philip Klein_: Republicans Should Accelerate Judge Confirmations in '19
     
-*   _Victor Davis Hanson_: Mueller Stirring Up More Trouble Than He Finds
+*   _Paul Brandus_: Mueller, Dems and Economy Will End Trump's 'Great Time'
     
-*   _Patrick Radden Keefe_: How a Reality-TV Producer Resurrected Trump
+*   _Roger Kimball_: The Prague Delusion
     
-*   _Dominic Green_: Trump's Mideast Carve-Up
+*   _Matt Gallagher_: The President's Field Trip to the Forever War
     
-*   _Bret Stephens_: Donald Trump Is Bad for Israel
+*   _Chris Farrell_: Another Media Breakdown as Trump Fulfills Another Promise
     
-*   _Emmett Tyrrell_: The Crisis of America's Upper Class
+*   _David Fickling_: Can Trump's Trade War General Make Peace?
     
-*   _Froma Harrop_: The Self-Destruction of U.S. Farmers
+*   _Graeme Wood_: Jamal Khashoggi's Murder Remains a Mystery
     
 
 *   Previous
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Terry McAuliffe on 2020 Democratic Candidates: "We All Support Medicare For All"
+*   Conway: Trump "Already Compromised" On Border Wall Funding, Originally Asked for $25 Billion
+*   Retired Army Gen. Stanley McChrystal: President Trump Is Immoral, Doesn't Tell The Truth
 *   Eleanor Clift: Pelosi and Democrats Shouldn't Cave, They've Got The Votes. Don't Give In To "Bully" Trump
 *   Marc Thiessen: Democrats Are Demanding Absolute Submission While Trump Is Trying To Compromise
-*   CNN's Barbara Starr Criticizes Troops, Trump For Hat Signing in Iraq: "How Did The Red Hats Get There?"
-*   Sheriff on Murder Of Immigrant Officer By Illegal Immigrant: Shining Example of the "American Dream"
-*   Richard Haass: Iran Is The Most Likely Setting For A Major New War In 2019
 
 *   Politics
 *   Policy
