@@ -110,10 +110,10 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Loneliness Haunts Us, and Not Just in Old Age
-    *   2 Types of Diabetes Meds May Raise Heart Risks
+    *   Top Health Story of 2018: Opioid Crisis
+    *   You Really Can 'Break Your Heart'
+    *   Why Birthmarks Should Be Treated Quickly
     *   Certain Antibiotics Tied to Deadly Heart Vessel Tears
-    *   Just 6 Months of Walking May Boost Aging Brains
     *   Dozens of Blood Pressure Drugs Recalled in 2018
     
     Experts &. Community
