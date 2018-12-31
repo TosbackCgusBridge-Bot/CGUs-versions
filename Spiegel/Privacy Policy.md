@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   30\. Dezember 2018
+*   31\. Dezember 2018
 *   Abo
 *   TV-Programmǀ
 *   DAX 10.558,96ǀ
