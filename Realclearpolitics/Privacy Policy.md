@@ -109,6 +109,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Stephen Moore_: 2018 Was the Year of the Worker
+    
+*   _Julian Zelizer_: Six Big Political Questions for 2019
+    
+*   _Jay Cost_: Shutdown Symbolism and What It Means for 2020
+    
+*   _E.J. Dionne_: The Roots of the New Nationalism
+    
+*   _Victor Davis Hanson_: Our Exhausted American Mediocracy
+    
+*   _Bill Scher_: Trump Altered the Foreign Policy Debate. It's Time to Catch Up.
+    
+*   _Walter Russell Mead_: 2018's Biggest Loser Was the Liberal International Order
+    
+*   _Frank Miele_: Commander-in-Chief? It's the President, Stupid
+    
+*   _Charles Lane_: Our Military Wasn't Built for Such a Partisan Nation
+    
+*   _James Antle_: Jim Webb for Defense Secretary
+    
+*   _Juan Williams_: Tech Companies Must Be Defanged by Government
+    
+*   _John Wasik_: Beware the Cyber-Den of Crypto-Thieves
+    
+*   _Nelson Cunningham_: Why Did John Roberts Intervene in the Mueller Probe?
+    
+*   _Robert Reich_: America's New Year's Resolution: Impeach &. Remove Trump
+    
+*   _David Catron_: The Divine Right of Democrats to Drool
+    
+*   _Albert Hunt_: No, Mr. Trump, the Press Is Only the Enemy of Lies
+    
+*   _Siraj Hashmi_: The Top 5 Worst Journalism Moments of 2018
+    
 *   _Dave Barry_: Is There Anything Good We Can Say About 2018?
     
 *   _Steve Cortes_: Trump's Top 10 Achievements of 2018
@@ -122,40 +156,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Nicholas Waddy_: Well-Timed, Sensible Exit From Syria's Civil War
     
 *   _Karen Tumulty_: Trump's Tweets on Children Dying in U.S. Custody Are New Low
-    
-*   _Michael Goodwin_: Building Wall Will Prevent More Tragedies at the Border
-    
-*   _Carl M. Cannon_: Second Thoughts on 'America First'
-    
-*   _Debra J. Saunders_: Killing of Cop May Upend Shutdown Debate
-    
-*   _Sen. Kamala Harris_: Everyone Gets Sick. And We Deserve Better.
-    
-*   _Patrick Buchanan_: 2020: Year of the Democrats? Maybe Not
-    
-*   _Jonathan Chait_: Why Bernie Must Crush Beto
-    
-*   _Clarice Feldman_: Intersectionality at the Crossroads
-    
-*   _Jon Webb_: Is Your Christmas Gift Spying On You?
-    
-*   _Andrea Peyser_: Chris Pratt Doesn't Deserve the Bashing He's Getting
-    
-*   _Ben Domenech_: A Remembrance of Bre Payton
-    
-*   _Philip Klein_: Republicans Should Accelerate Judge Confirmations in '19
-    
-*   _Paul Brandus_: Mueller, Dems and Economy Will End Trump's 'Great Time'
-    
-*   _Roger Kimball_: The Prague Delusion
-    
-*   _Matt Gallagher_: The President's Field Trip to the Forever War
-    
-*   _Chris Farrell_: Another Media Breakdown as Trump Fulfills Another Promise
-    
-*   _David Fickling_: Can Trump's Trade War General Make Peace?
-    
-*   _Graeme Wood_: Jamal Khashoggi's Murder Remains a Mystery
     
 
 *   Previous
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Trump on Warren's 2020 Chances: "You'd Have To Ask Her Psychiatrist". "Indian Heritage" Claim Ended Badly
+*   Lindsey Graham: "The Wall Has Become A Metaphor For Border Security," Democrats Supported In The Past
 *   Terry McAuliffe on 2020 Democratic Candidates: "We All Support Medicare For All"
 *   Conway: Trump "Already Compromised" On Border Wall Funding, Originally Asked for $25 Billion
-*   Retired Army Gen. Stanley McChrystal: President Trump Is Immoral, Doesn't Tell The Truth
 *   Eleanor Clift: Pelosi and Democrats Shouldn't Cave, They've Got The Votes. Don't Give In To "Bully" Trump
-*   Marc Thiessen: Democrats Are Demanding Absolute Submission While Trump Is Trying To Compromise
 
 *   Politics
 *   Policy
