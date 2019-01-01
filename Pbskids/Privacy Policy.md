@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Help your little engineer create a DIY carousel toy that moves! Help your little engineer create a DIY carousel toy that moves! Get the free template
+What parents should know about Common Core math. What parents should know about Common Core math. Learn more
 
 Toggle message bar
 
@@ -145,4 +145,4 @@ kids@pbs.org
 
 PBS KIDS | TV Times | Help  
   
-Copyright © 1995-2018 Public Broadcasting Service (PBS). All rights reserved. Come play again later! Come play again tomorrow! Come play again later! Come play again later!
+Copyright © 1995-2019 Public Broadcasting Service (PBS). All rights reserved. Come play again later! Come play again tomorrow! Come play again later! Come play again later!
