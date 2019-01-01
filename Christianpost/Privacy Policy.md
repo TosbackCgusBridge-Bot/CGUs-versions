@@ -31,10 +31,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
+*   Christian films
+*   Pastor's death
 *   Sterilizing kids
-*   'Ex-gay' app
-*   Lysa Terkeurst
-*   'No Safe Spaces'
+*   Facebook ban
 *   Chrissy Metz
 
 About Us
@@ -63,4 +63,4 @@ Follow Us
 *   Facebook
 *   Twitter
 
-  2018 The Christian Post, INC. All Rights Reserved.
+  2019 The Christian Post, INC. All Rights Reserved.
