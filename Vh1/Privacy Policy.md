@@ -382,7 +382,7 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 *   Instagram
 *   Newsletter
 
-© 2018 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.
+© 2019 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.
 
 closeAll ResultsShowsEpisodesVideosNewsEventsTrending
 
