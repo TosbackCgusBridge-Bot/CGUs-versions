@@ -345,14 +345,14 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Lesbian Dating
+*   Atlanta Dating
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
 *   Dating Safety Tips
 *   Security
 
-© OkCupid 2018 Your session has expired
+© OkCupid 2019 Your session has expired
 
 Still there?
 
