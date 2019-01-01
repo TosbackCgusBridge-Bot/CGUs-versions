@@ -582,7 +582,7 @@ With a powerful free website builder and professional website templates, Webs ca
   
 Ready to get started? Get helpful tips for small business websites and more in our resource center.
 
-©2018 Webs. A Vistaprint company. All Rights Reserved.
+©2019 Webs. A Vistaprint company. All Rights Reserved.
 
 Webs makes small business marketing simple.
 
