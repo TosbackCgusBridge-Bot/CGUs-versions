@@ -6,8 +6,8 @@ try pro free for 7 days Fill out the CAPTCHA to continue searching on Whitepages
 
 Not searching for business use? Complete the test, prove you’re a real human, and we’ll send you along to Whitepages.
 
-<div>. <p><strong>JavaScript needs to be enabled to complete CAPTCHA.</strong></p>. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-12-31 06:37:22 UTC.  
-Trace: a75d0590-e1db-408e-8de0-6478ac8c7e4a via 0954f75f-e05f-454f-b961-272a7ba8ac05
+<div>. <p><strong>JavaScript needs to be enabled to complete CAPTCHA.</strong></p>. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2019-01-01 06:36:06 UTC.  
+Trace: 45d61520-7432-4fde-a05c-d0b0056ea52e via e346b97e-fc75-43cd-bdce-f43f8a50eda0
 
 *   Facebook
 *   Google+
@@ -127,7 +127,7 @@ Trace: a75d0590-e1db-408e-8de0-6478ac8c7e4a via 0954f75f-e05f-454f-b961-272a7ba8
     *   Y
     *   Z
 
-*   © 2018 Whitepages Inc.
+*   © 2019 Whitepages Inc.
 *   Sitemap
 
 BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyThe quick brown fox jumps over the lazy dog.
