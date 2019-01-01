@@ -1,6 +1,6 @@
 Toggle navigation **Post** **Advertise** Log in
 
-*   Mon, Dec 31
+*   Tue, Jan 1
 
 *   Post
 *   Advertise
@@ -282,7 +282,7 @@ Support
 *   Terms of Use
 *   Privacy Policy
 
-© 2018 Patch Media. All Rights Reserved.
+© 2019 Patch Media. All Rights Reserved.
 
 Swipe for more from Patch »
 
