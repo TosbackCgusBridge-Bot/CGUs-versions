@@ -39,17 +39,17 @@ Stock Quote and Chart
 
 Price
 
-$2.52
+$2.58
 
 Change
 
- + 0.09
+ + 0.06
 
 Percent Change
 
- (3.70%)
+ (2.38%)
 
-12/28/184:00 p.m. ET  
+12/31/184:00 p.m. ET  
 Data provided by Nasdaq. Minimum 15 minutes delayed.view details  
 Recent News12/12/18Office Depot Becomes Installation Partner for Google and Nest Smart Devices  
 view more
@@ -94,6 +94,6 @@ view more
 *   Terms of Use
 |*   Privacy Policy
 
-*   ©2018 by Office Depot, Inc. All rights reserved.
+*   ©2019 by Office Depot, Inc. All rights reserved.
 
 Search Investor Relations×
