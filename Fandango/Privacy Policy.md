@@ -20,11 +20,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Opening This Week = Limited Release
     
-    *   Holmes &. Watson
-    *   Vice (2018)
-    *   Destroyer (2018)
-    *   On the Basis of Sex
-    *   Stan &. Ollie
+    *   Escape Room (2019)
+    *   Great Great Great
+    *   Mojin: The Worm Valley
     *   See All Opening This Week
     
     Coming Soon
@@ -312,9 +310,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   Fandango Gift Cards
+*   'Aquaman' Gift with Purchase
     
-    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
+    Get 5 FREE digital DC Comics with ticket purchase. BUY TICKETS
     
 *   It’s the Holiday Daily Giveaway &. Movie Sweeps!
     
@@ -350,13 +348,6 @@ Experience + Explore
 *   Gift Cards
 
 Editorial Features
-
-*   Holiday Movie Guide
-*   Awards Watch
-*   Indie Movie Guide
-*   Family Guide
-*   House Of Screams
-*   Movie News
 
 Videos
 
