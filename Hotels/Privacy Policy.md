@@ -227,7 +227,7 @@ Join now! Collect 10 nights, get 1 free\*
 *   All Hotels
 *   Site Index
 
-© 2018 Hotels.com, L.P. All rights reserved.
+© 2019 Hotels.com, L.P. All rights reserved.
 
 Hotels.com and the Hotels.com logo are trademarks or registered trademarks of Hotels.com, LP in the USA and/or other countries. All other trademarks are property of their respective owners.
 
