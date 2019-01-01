@@ -209,7 +209,7 @@ InquiriesContact Us
 
 <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn\_id=nuzib&p\_id=Twitter&tw\_sale\_amount=0&tw\_order\_quantity=0" />. <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn\_id=nuzib&p\_id=Twitter&tw\_sale\_amount=0&tw\_order\_quantity=0" />.
 
-© 2018 Connexity, Inc. / Privacy Policy / Cookie Policy / Ad Opt-Out
+© 2019 Connexity, Inc. / Privacy Policy / Cookie Policy / Ad Opt-Out
 
 Connexity® is a registered trademark of Connexity, Inc.
 
