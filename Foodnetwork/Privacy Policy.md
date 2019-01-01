@@ -158,4 +158,4 @@ This Privacy Policy as posted is the sole statement of our privacy policy with r
 *   :
 *   Contact Us
 
-All Rights Reserved ©2018 Scripps Networks Interactive, Inc
+All Rights Reserved ©2019 Scripps Networks Interactive, Inc
