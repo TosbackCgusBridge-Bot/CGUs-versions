@@ -17,9 +17,11 @@ Skip to main content
     *   Dateline: Secrets Uncovered
     *   Dirty John, The Dirty Truth
     *   Homicide for the Holidays
-    
     *   Killer Couples
+    
+    *   Mark of a Killer
     *   Martinis &. Murder
+    *   Smiley Face Killers: The Hunt For Justice
     *   Snapped
     *   The Disappearance of Phoenix Coldon
     *   Unspeakable Crime: The Killing of Jessica Chambers
@@ -43,9 +45,11 @@ Get Updates Facebook Twitter Newsletter Oxygen.com
     *   Dateline: Secrets Uncovered
     *   Dirty John, The Dirty Truth
     *   Homicide for the Holidays
-    
     *   Killer Couples
+    
+    *   Mark of a Killer
     *   Martinis &. Murder
+    *   Smiley Face Killers: The Hunt For Justice
     *   Snapped
     *   The Disappearance of Phoenix Coldon
     *   Unspeakable Crime: The Killing of Jessica Chambers
@@ -106,4 +110,6 @@ Get Involved
 
 Stay Connected Stay Connected
 
-©2018 Oxygen Media LLC. A Division of NBCUniversal
+©2019 Oxygen Media LLC. A Division of NBCUniversal
+
+AddThis Sharing SidebarShare to PinterestPinterestShare to FacebookFacebookShare to EmailEmailShare to TwitterTwitterMore AddThis Share optionsAddThisHideShowCloseAddThisAddThis SharingPinterestFacebookEmailTwitterAddThisAddThis SharingPinterestFacebookEmailCopy Link
