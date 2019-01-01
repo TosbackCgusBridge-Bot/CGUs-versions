@@ -4,7 +4,7 @@ expand
 
 *   MARRIOTT.COM HOME
 *   expandFIND &. RESERVE
-    *   Find a Hotel test
+    *   Find a Hotel
     *   Find a Hotel for Group (10+ rooms)
     *   Browse by Destination
 *   expandRESERVATIONS
