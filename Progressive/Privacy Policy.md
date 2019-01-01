@@ -164,7 +164,7 @@ Loading
 
 The #1 Insurance Site
 
-Copyright 1995 - 2018. Progressive Casualty Insurance Company. All Rights Reserved.
+Copyright 1995 - 2019. Progressive Casualty Insurance Company. All Rights Reserved.
 
 We offer insurance by phone, online and through independent agents. Prices vary based on how you buy.
 
