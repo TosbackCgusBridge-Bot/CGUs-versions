@@ -423,7 +423,7 @@ Thank you. We appreciate you taking the time to give us feedback.
 *   Visit Facebook
 *   Visit Youtube
 
-*   © HSBC Group 2018
+*   © HSBC Group 2019
 *   Terms and conditions
 *   Privacy notice
 *   Cookie policy
