@@ -248,4 +248,4 @@ For help on what to do, visit att.com/stolenphone.
 *   Accessibility
 *   Contact Us
 
-© 2018 AT&T Intellectual Property. All rights reserved.
+© 2019 AT&T Intellectual Property. All rights reserved.
