@@ -58,8 +58,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Family Barn
     *   Let's Fish!: Multiplayer Fishing Game Online
+    *   Family Barn
     *   Backgammon: Board Game Online Multiplayer
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
@@ -164,8 +164,8 @@ View more results
     Best Games
     *   Pixel Art: Color by Number
     *   Electricman 2: Stickman Fighting Game
-    *   Love Tester 2.0
     *   Ellie: Get Ready With Me
+    *   Love Tester 2.0
     *   Bartender
     *   Burger Restaurant ExpressSpotlight My Dolphin Show 8
 *   Top Categories
@@ -411,7 +411,7 @@ Languages
 *   Français
 *   Nederlands
 
-Copyright © 2018 SPIL GAMES All rights reserved.
+Copyright © 2019 SPIL GAMES All rights reserved.
 
 *   Terms of Use
 *   Privacy Policy
