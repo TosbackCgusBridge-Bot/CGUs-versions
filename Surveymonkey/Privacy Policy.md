@@ -843,7 +843,7 @@ If you are resident in the European Union and you are dissatisfied with how we h
 *   Suomi
 *   English (UK)
 
-Copyright © 1999-2018 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 Your payments are protected by the Direct Debit Guarantee
+Copyright © 1999-2019 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 Your payments are protected by the Direct Debit Guarantee
 
 1.  Products
     *   SurveyMonkey
