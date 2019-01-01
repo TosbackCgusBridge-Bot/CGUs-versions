@@ -142,7 +142,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Kids' Hats, Gloves &. Scarves
     *   Kids' Iron Knees Pants
     *   Kids' Backpacks &. Lunch Boxes
-    *   Kids' Swim Shop
     
     Kids' Sale>Girls' Clothing>
     
@@ -600,7 +599,6 @@ Lands' End Sign In menu
         *   Kids' Hats, Gloves &. Scarves
         *   Kids' Iron Knees Pants
         *   Kids' Backpacks &. Lunch Boxes
-        *   Kids' Swim Shop
     *   Kids' Sale
     *   Girls' Clothing
         *   Back
