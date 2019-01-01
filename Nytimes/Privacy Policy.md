@@ -258,7 +258,7 @@ Review our Help topics or chat with one of our Customer Care advocates.
 
 Return to top
 
-*   © 2018   The New York Times Company
+*   © 2019   The New York Times Company
 
 *   Contact Us
 *   Work with us
