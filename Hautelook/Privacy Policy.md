@@ -8,23 +8,49 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Pajar
+    *   Pajar Men
+    *   Love Token Up to 80% Off
+    *   Likely
+    *   Papillon Up to 80% Off
+    *   London Dress Company Up to 75% Off
+    *   Keep It Short: Cropped Pants &. Cutoffs
+    *   Blend Mineral Cosmetics
+    *   Casually Chic Bags
+    *   Curvy Couture Sleep &. Lingerie Under $30
+    *   Carter's Shoes Up to 55% Off
+    *   New Year, New Shoes: Pumps &. More
+    *   Tailorbyrd Up to 60% Off
+    *   Steve Madden Socks &. More Under $10
+    *   Bandolino Pumps &. More from $35
+    *   Moon and Jai
+    *   Salute Up to 75% Off
+    *   Free Shipping: Hangers &. Post-Holiday Storage
+    *   Kids' Premium Outerwear Shop
+    *   Free Shipping: Colorful Lamps
+    *   Modern Makeover: Sleek Accent Decor
+    *   Katy Perry Up to 60% Off
+    *   14K Gold Jewelry Steals
+    *   Stay Warm: Men's Down Jackets, Parkas &. More
+    *   Men's Warm Winter Accessories Up to 60% Off
     *   Vince Up to 60% Off
-    *   Vince Shoes Up to 50% Off
     *   Vince Men Up to 60% Off
     *   Romeo &. Juliet Couture Up to 75% Off
+    *   Leather Weather: Jackets, Skirts &. More
     *   Women's Shoe Blowout
+    
     *   LaFonn Simulated Diamond Jewelry Up to 75% Off
     *   Sunday Steals Up to 80% Off
     *   Sorial Handbags Up to 70% Off
+    *   John &. Jenn and More Up to 70% Off
+    *   Nanette Lepore Swim Up to 50% Off
     *   Buy Now, Wear Now: Men's Styles Up to 80% Off
     *   Men's Shoes Up to 65% Off
     *   TechnoMarine Watches Up to 70% Off
     *   Free Shipping: End-of-Year Art Blowout
+    *   Vince Shoes Up to 50% Off
     *   Lacoste Men's Shoes from $25
-    *   John &. Jenn and More Up to 70% Off
     *   Gurhan Jewelry &. More
-    *   Nanette Lepore Swim Up to 50% Off
-    *   Leather Weather: Jackets, Skirts &. More
     *   D24K by D'OR: Luxe Creams, Serums &. More
     *   Kimi + Kai Maternity
     *   Snuggle Up: Winter Bedding Up to 70% Off
@@ -37,14 +63,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Basics for Little Ones ft. Sterling Baby
     *   Avec Les Filles Active
     *   Men's Golf Shop ft. Callaway
-    *   Coats ft. Laundry by Shelli Segal Up to 65% Off
-    *   The Active Shop: Clothing &. Shoes from $15
-    
     *   Go Couture Sweater Blowout
     *   Laura Geller New York
+    *   Coats ft. Laundry by Shelli Segal Up to 65% Off
     *   Wear to Work: Shoes ft. Calvin Klein
     *   Beyond Threads Up to 70% Off
     *   Cover-Ups ft. Tori Richard
+    
     *   Vanity Storage &. More
     *   Cozy Sleep Sets, Loungewear &. More
     *   On Trend: Coin Necklaces &. More
@@ -54,68 +79,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Donald Pliner Men Up to 60% Off
     *   Welden Handbags
     *   NuMe Style Hair Tools
-    *   Polo Ralph Lauren Lounge Up to 60% Off
     *   Tailored Recreation Up to 75% Off
     *   Time to Shine: Jewelry Cleaners
-    *   English Laundry Men Up to 65% Off
     *   Anthropologie Home
-    *   The Active Shop: Men's Clothing &. Shoes from $15
-    *   Native Kids Starting at $20
-    *   Gracia
-    *   CQbyCQ Up to 65% Off
-    *   Designer Shoes ft. Badgley Mischka &. Mercedes Castillo
-    *   Winter Blues: Denim for Every Style Under $50
     *   Predire Paris Luxury Skin Care
     *   Start Fresh: 2019 Agendas &. More
-    *   SUSINA and 14th &. Union Incl. Plus and Petites
-    *   The Active Shop: Kids' Shoes &. Clothing from $15
-    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
-    *   Marc Fisher
-    
     *   Creative Hair Tools
     *   Office Style: Casual Friday Finds for Him
-    *   Made in Italy: Handbags Starting at $65
     *   Arka Tees Under $20
     *   Rugs for Every Room
     *   Free Shipping: ZUO Accent Furniture
+    *   Desk to Dinner: Styles Up to 65% Off
     *   Bacco Bucci Up to 55% Off
-    *   Kids' Sets Starting at $12
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Andy &. Evan
     *   Free Shipping: Organization Essentials from $10
     *   i smell great
-    *   Desk to Dinner: Styles Up to 65% Off
     *   Wallity Art
-    *   Luxe Men's Shoes ft. Badgley Mischka
-    *   Mia Belle Girls' Blowout
-    *   Ben Sherman Boys' Shoes
-    *   Lucky Brand Kids
     *   Free Shipping: Throws &. Sheets
-    *   O'o Hawaii Skin Care
-    *   Smart Watches &. Active Accessories
-    *   Macadamia Natural Oil &. Professional Hair Care
     *   Vintage-Inspired Wall Art, Decor &. More
     *   Transform Your Space: Modern Wall Decor
     *   Free Shipping: BergHOFF
     *   Nourison Rugs
-    *   Kitchen Storage
-    *   Kitchen Electrics Starting at $15
-    *   Keep It Clean: Storage &. Organizers from $10
-    *   Diamond Supply
 *   WomenShop Sale Events
     
+    *   Pajar
+    *   Love Token Up to 80% Off
+    *   Likely
+    *   Papillon Up to 80% Off
+    *   London Dress Company Up to 75% Off
+    *   Keep It Short: Cropped Pants &. Cutoffs
+    *   Blend Mineral Cosmetics
+    *   Casually Chic Bags
+    *   Curvy Couture Sleep &. Lingerie Under $30
+    *   New Year, New Shoes: Pumps &. More
+    *   Steve Madden Socks &. More Under $10
+    *   Bandolino Pumps &. More from $35
+    *   Moon and Jai
+    *   Katy Perry Up to 60% Off
+    *   14K Gold Jewelry Steals
     *   Vince Up to 60% Off
-    *   Vince Shoes Up to 50% Off
     *   Romeo &. Juliet Couture Up to 75% Off
+    *   Leather Weather: Jackets, Skirts &. More
     *   Women's Shoe Blowout
     *   LaFonn Simulated Diamond Jewelry Up to 75% Off
     *   Sunday Steals Up to 80% Off
     *   Sorial Handbags Up to 70% Off
-    *   TechnoMarine Watches Up to 70% Off
     *   John &. Jenn and More Up to 70% Off
-    *   Gurhan Jewelry &. More
     *   Nanette Lepore Swim Up to 50% Off
-    *   Leather Weather: Jackets, Skirts &. More
+    *   TechnoMarine Watches Up to 70% Off
+    *   Vince Shoes Up to 50% Off
+    
+    *   Gurhan Jewelry &. More
     *   D24K by D'OR: Luxe Creams, Serums &. More
     *   Kimi + Kai Maternity
     *   Trask Boots, Bags &. More Up to 65% Off
@@ -123,13 +137,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   On-Trend Jewelry ft. Gabi Rielle from $15
     *   Bang Beauty &. Luna by Luna
     *   Avec Les Filles Active
-    *   Coats ft. Laundry by Shelli Segal Up to 65% Off
-    *   The Active Shop: Clothing &. Shoes from $15
     *   Go Couture Sweater Blowout
     *   Laura Geller New York
+    *   Coats ft. Laundry by Shelli Segal Up to 65% Off
     *   Wear to Work: Shoes ft. Calvin Klein
     *   Beyond Threads Up to 70% Off
-    
     *   Cover-Ups ft. Tori Richard
     *   Cozy Sleep Sets, Loungewear &. More
     *   On Trend: Coin Necklaces &. More
@@ -138,81 +150,64 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Comfort Boots &. More ft. GEOX
     *   Welden Handbags
     *   NuMe Style Hair Tools
-    *   Gracia
-    *   CQbyCQ Up to 65% Off
-    *   Designer Shoes ft. Badgley Mischka &. Mercedes Castillo
-    *   Winter Blues: Denim for Every Style Under $50
     *   Predire Paris Luxury Skin Care
-    *   SUSINA and 14th &. Union Incl. Plus and Petites
-    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
-    *   Marc Fisher
     *   Creative Hair Tools
-    *   Made in Italy: Handbags Starting at $65
+    *   Desk to Dinner: Styles Up to 65% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   i smell great
-    *   Desk to Dinner: Styles Up to 65% Off
-    *   O'o Hawaii Skin Care
-    *   Smart Watches &. Active Accessories
-    *   Macadamia Natural Oil &. Professional Hair Care
     
     Shop By Category
     *   Shoes
     *   Clothing
     *   Lingerie
-    *   Watches
-    *   Tech Accessories
     *   Jewelry
     *   Handbags
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Pajar Men
+    *   Tailorbyrd Up to 60% Off
+    *   Salute Up to 75% Off
+    *   Stay Warm: Men's Down Jackets, Parkas &. More
+    *   Men's Warm Winter Accessories Up to 60% Off
     *   Vince Men Up to 60% Off
     *   Buy Now, Wear Now: Men's Styles Up to 80% Off
     *   Men's Shoes Up to 65% Off
     *   TechnoMarine Watches Up to 70% Off
+    
     *   Lacoste Men's Shoes from $25
     *   Kuwalla
     *   Men's Golf Shop ft. Callaway
     *   Donald Pliner Men Up to 60% Off
-    *   Polo Ralph Lauren Lounge Up to 60% Off
-    
     *   Tailored Recreation Up to 75% Off
-    *   English Laundry Men Up to 65% Off
-    *   The Active Shop: Men's Clothing &. Shoes from $15
     *   Office Style: Casual Friday Finds for Him
     *   Arka Tees Under $20
     *   Bacco Bucci Up to 55% Off
-    *   Luxe Men's Shoes ft. Badgley Mischka
-    *   Smart Watches &. Active Accessories
-    *   Diamond Supply
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Carter's Shoes Up to 55% Off
+    *   Kids' Premium Outerwear Shop
     *   Kimi + Kai Maternity
     *   Basics for Little Ones ft. Sterling Baby
-    *   Native Kids Starting at $20
-    *   The Active Shop: Kids' Shoes &. Clothing from $15
-    *   Kids' Sets Starting at $12
-    *   Andy &. Evan
-    *   Mia Belle Girls' Blowout
-    *   Ben Sherman Boys' Shoes
-    *   Lucky Brand Kids
     
     Shop By Category
-    *   Boys' Shoes
     *   Girls' Shoes
-    *   Girls Sizes 7-16
-    *   Girls Sizes 2T-6X
-    *   Baby Girl
     *   Baby Boy
-    *   Boys Sizes 2T-7
+    *   Boys' Shoes
+    *   Girls Sizes 7-16
     *   Boys Sizes 8-20
+    *   Baby Girl
+    *   Girls Sizes 2T-6X
 *   HomeShop Sale Events
     
+    *   Free Shipping: Hangers &. Post-Holiday Storage
+    *   Free Shipping: Colorful Lamps
+    *   Modern Makeover: Sleek Accent Decor
     *   Free Shipping: End-of-Year Art Blowout
     *   Snuggle Up: Winter Bedding Up to 70% Off
     *   Take Note: Stationery &. More Under $10
@@ -220,42 +215,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Time to Shine: Jewelry Cleaners
     *   Anthropologie Home
     *   Start Fresh: 2019 Agendas &. More
+    
     *   Rugs for Every Room
     *   Free Shipping: ZUO Accent Furniture
     *   Free Shipping: Organization Essentials from $10
-    
     *   Wallity Art
     *   Free Shipping: Throws &. Sheets
     *   Vintage-Inspired Wall Art, Decor &. More
     *   Transform Your Space: Modern Wall Decor
     *   Free Shipping: BergHOFF
     *   Nourison Rugs
-    *   Kitchen Storage
-    *   Kitchen Electrics Starting at $15
-    *   Keep It Clean: Storage &. Organizers from $10
     
     Shop By Category
+    *   Bedding
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bedding
+    *   Luggage &. Travel
     *   Storage &. Organization
     *   Rugs &. Doormats
     *   Bath
-    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Blend Mineral Cosmetics
+    *   Moon and Jai
     *   D24K by D'OR: Luxe Creams, Serums &. More
     *   Bang Beauty &. Luna by Luna
     *   Laura Geller New York
     *   Beyond Routine: Skin Treatment Devices &. More
+    
     *   NuMe Style Hair Tools
     *   Predire Paris Luxury Skin Care
-    
     *   Creative Hair Tools
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   i smell great
-    *   O'o Hawaii Skin Care
-    *   Macadamia Natural Oil &. Professional Hair Care
     
     Shop By Category
     *   Makeup
@@ -442,7 +434,7 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 *   Contact Us
 *   Live Chat
 
-Terms &. ConditionsYour Privacy RightsInterest Based AdsCalifornia Supply Chains Act© 2018 HauteLook | A Nordstrom CompanyNordstromNordstrom RackHauteLookInvite a Friend, Get $20
+Terms &. ConditionsYour Privacy RightsInterest Based AdsCalifornia Supply Chains Act© 2019 HauteLook | A Nordstrom CompanyNordstromNordstrom RackHauteLookInvite a Friend, Get $20
 
 Get a $20 credit each time a friend you invite makes their first purchase. Limited time only. Terms &. Conditions
 
