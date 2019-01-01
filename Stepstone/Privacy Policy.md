@@ -352,7 +352,7 @@ You have no legal or contractual obligation to provide personal data on our plat
 
 We reserve the right to amend this Data Protection Policy in consideration of stipulations under data-protection law. You will always be able to locate the current version here or another corresponding, easily locatable point of our website or app_._ If we are intending to process your data for other purposes, i.e. those for which it was collected, we will notify you about this in advance in compliance with the statutory provisions.
 
-Copyright 1996-2018 StepStone GmbH All rights reserved
+Copyright 1996-2019 StepStone GmbH All rights reserved
 
 *   Contact us
 *   Terms of use
