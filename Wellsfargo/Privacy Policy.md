@@ -240,7 +240,7 @@ If we make updates to this Policy, we will update the Policy with the changes an
 *   Diversity &. Accessibility
 *   Ad Choices
 
-© 1999 - 2018 Wells Fargo. All rights reserved. NMLSR ID 399801
+© 1999 - 2019 Wells Fargo. All rights reserved. NMLSR ID 399801
 
   Comienzo de ventana emergente Esta página solo está disponible en inglés
 
