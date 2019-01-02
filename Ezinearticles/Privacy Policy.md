@@ -147,5 +147,5 @@ Publishers
 *   Manage Subscriptions
 *   EzineArticles RSS
 
-© 2018 EzineArticles  
+© 2019 EzineArticles  
 All Rights Reserved Worldwide
