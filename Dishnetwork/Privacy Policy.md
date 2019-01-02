@@ -275,7 +275,7 @@ DISH RESOURCES
 *   Supplier Resources
 *   DISH Online Public File
 
-© 2018, DISH Network L.L.C. All rights reserved.
+© 2019, DISH Network L.L.C. All rights reserved.
 
 Privacy Policy
 
