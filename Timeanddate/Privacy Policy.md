@@ -34,8 +34,8 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Time Zone Articles
 *   BackCalendar
     *   Calendar Info
-    *   Calendar 2018
     *   Calendar 2019
+    *   Calendar 2020
     *   Monthly Calendar
     *   Printable Calendar (PDF)
     *   Add Your Own Calendar Events
@@ -67,7 +67,6 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Timer
     *   Countdown to Any Date
     *   New Year Countdown
-    *   New Year Countdown World Map
     *   New Year Trivia
 *   BackCalculators
     *   Date to Date Calculator (duration)
