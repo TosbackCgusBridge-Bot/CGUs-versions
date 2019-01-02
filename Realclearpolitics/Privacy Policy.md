@@ -259,10 +259,10 @@ Latest PollsAll Polls
 More Latest Polls In The News
 
 *   Trump on Warren's 2020 Chances: "You'd Have To Ask Her Psychiatrist". "Indian Heritage" Claim Ended Badly
+*   Warren: I'm Launching A Presidential Exploratory Committee, Corporations Have "Enlisted Politicians"
 *   Lindsey Graham: "The Wall Has Become A Metaphor For Border Security," Democrats Supported In The Past
 *   Terry McAuliffe on 2020 Democratic Candidates: "We All Support Medicare For All"
 *   Conway: Trump "Already Compromised" On Border Wall Funding, Originally Asked for $25 Billion
-*   Eleanor Clift: Pelosi and Democrats Shouldn't Cave, They've Got The Votes. Don't Give In To "Bully" Trump
 
 *   Politics
 *   Policy
