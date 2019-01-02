@@ -18,7 +18,7 @@ skip to content skip to navigation skip to search
     *   FAQ
     *   Chat
 
-Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Customer Service Chat Email
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order New Arrivals Customer Service Chat Email
 
 Call or Text 1-800-963-4816
 
@@ -142,6 +142,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Kids' Hats, Gloves &. Scarves
     *   Kids' Iron Knees Pants
     *   Kids' Backpacks &. Lunch Boxes
+    *   Kids' Swim Shop
     
     Kids' Sale>Girls' Clothing>
     
@@ -599,6 +600,7 @@ Lands' End Sign In menu
         *   Kids' Hats, Gloves &. Scarves
         *   Kids' Iron Knees Pants
         *   Kids' Backpacks &. Lunch Boxes
+        *   Kids' Swim Shop
     *   Kids' Sale
     *   Girls' Clothing
         *   Back
@@ -966,9 +968,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive savings up to 65% during the Great Winter Sale, plus 30% off full-price styles!
+Receive 30% off your order!
 
-code: COCOA pin: 4269 DETAILS
+code: WISH pin: 2678 DETAILS
 
 Customer Service Menu
 
@@ -991,7 +993,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Policy Last Updated: May 21, 2018
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
