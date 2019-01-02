@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1060 games
-*   Most Popular Games 18457 games
+*   Best of new games 1023 games
+*   Most Popular Games 18461 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,610 games
+*   Games for girls 23,612 games
 *   Driving &. Racing Games 6,734 games
 *   Strategy &. RPG Games 2,405 games
-*   Management Games 3,636 games
+*   Management Games 3,635 games
 *   Thinking Games 11,897 games
-*   Action &. Adventure Games 15,899 games
+*   Action &. Adventure Games 15,900 games
 *   Sports Games 2,151 games
-*   Shooting Games 8,369 games
+*   Shooting Games 8,370 games
 *   Fighting Games 2,090 games
-*   Skill Games 10,707 games
-*   Arcade &. Classic Games 12,692 games
+*   Skill Games 10,711 games
+*   Arcade &. Classic Games 12,695 games
 *   Fun &. Crazy Games 2,482 games
 
 Play with friends  
-Powered by Y8 Account 134 Y8 Multiplayer Games 1,790 Y8 High Score Games 1,092 Y8 Achievements Games 796 Y8 Screenshots Games 1,378 Y8 Online Save Games 2,813 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 134 Y8 Multiplayer Games 1,791 Y8 High Score Games 1,093 Y8 Achievements Games 796 Y8 Screenshots Games 1,378 Y8 Online Save Games 2,814 All Y8 Games Games Last Highscore:
 
-**123** points on Total Tankage by khoa29090566
+**100** points on Rooftop Snipers by vinny
 
 Help us improve Bad translation? Social
 
