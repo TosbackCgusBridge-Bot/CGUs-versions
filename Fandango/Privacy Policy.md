@@ -314,17 +314,9 @@ Offers
     
     Get 5 FREE digital DC Comics with ticket purchase. BUY TICKETS
     
-*   It’s the Holiday Daily Giveaway &. Movie Sweeps!
-    
-    Daily Prize: $25 gift card (5 winners/day) Grand prize: A year of movies! BUY NOW
-    
 *   'On the Basis of Sex' Sweepstakes
     
     Enter for a chance to win a script of the movie signed by cast &. filmakers! ENTER NOW
-    
-*   Fandango VIP+
-    
-    Earn 125 points on every ticket you buy. Rack up 500 points and get a $5 reward for more movies. BUY TICKETS
     
 
 New + Coming soon
