@@ -33,9 +33,9 @@ Hot Topics
 
 *   Christian films
 *   Pastor's death
+*   Christian athletes
 *   Sterilizing kids
-*   Facebook ban
-*   Chrissy Metz
+*   Mass grave
 
 About Us
 
