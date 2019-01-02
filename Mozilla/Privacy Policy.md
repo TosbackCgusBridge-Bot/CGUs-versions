@@ -265,6 +265,6 @@ Firefox
 
 Visit Mozilla Corporation’s not-for-profit parent, the Mozilla Foundation.
 
-Portions of this content are ©1998–2018 by individual mozilla.org contributors. Content available under a Creative Commons license.
+Portions of this content are ©1998–2019 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
 Language Language عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दी (भारत)HrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиதமிழ்Go
