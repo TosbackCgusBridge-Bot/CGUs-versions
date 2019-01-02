@@ -412,7 +412,7 @@ About Us
 *   YouTube
 *   Newsletters
 
-© 2018 O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+© 2019 O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
 
   
 
