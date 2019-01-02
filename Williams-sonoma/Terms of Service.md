@@ -269,7 +269,7 @@ Effective Date: May 18, 2018
 
 Legal Statement
 
-Copyright 2018 Williams-Sonoma, Inc. All Rights Reserved.
+Copyright 2019 Williams-Sonoma, Inc. All Rights Reserved.
 
 Williams Sonoma© is a registered trademark of Williams-Sonoma, Inc.
 
