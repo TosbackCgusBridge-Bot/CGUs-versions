@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Stephen Moore_: 2018 Was the Year of the Worker
+*   _Lee Smith_: New Documents Suggest the Dossier Was a Deliberate Setup
     
-*   _Julian Zelizer_: Six Big Political Questions for 2019
+*   _Jason Sattler_: One Happy Thought: Democrats Can Subpoena Trump
     
-*   _Jay Cost_: Shutdown Symbolism and What It Means for 2020
+*   _Glenn Greenwald_: U.S. Media Should Reflect on Why 'Fake News' Resonates
     
-*   _E.J. Dionne_: The Roots of the New Nationalism
+*   _A.B. Stoddard_: Trump Wants Us Focused on the Wall, Not Whitaker
     
-*   _Victor Davis Hanson_: Our Exhausted American Mediocracy
+*   _Lauren Appell_: What's Behind Democrats' Flip-Flop on Border Security?
     
-*   _Bill Scher_: Trump Altered the Foreign Policy Debate. It's Time to Catch Up.
+*   _Christopher Hill_: America First Puts Syria Last
     
-*   _Walter Russell Mead_: 2018's Biggest Loser Was the Liberal International Order
+*   _David Goldman_: Establishment Neo-Cons Created Syria Mess, Not Trump
     
-*   _Frank Miele_: Commander-in-Chief? It's the President, Stupid
+*   _Edward-Isaac Dovere_: 10 New Factors That Will Shape the 2020 Dem Primary
     
-*   _Charles Lane_: Our Military Wasn't Built for Such a Partisan Nation
+*   _Colin Reed_: Warren Leads Democratic Contenders--in Bad Timing
     
-*   _James Antle_: Jim Webb for Defense Secretary
+*   _Jill Filipovic_: Elizabeth Warren's Brilliant Beginning
     
-*   _Juan Williams_: Tech Companies Must Be Defanged by Government
+*   _Surana &. Dreier_: What Happens When You Say No to MS-13
     
-*   _John Wasik_: Beware the Cyber-Den of Crypto-Thieves
+*   _Michael Grunwald_: Everything Was Awesome
     
-*   _Nelson Cunningham_: Why Did John Roberts Intervene in the Mueller Probe?
+*   _Rep. Steve Scalise_: Dems Choose Open Borders Over Open Government
     
-*   _Robert Reich_: America's New Year's Resolution: Impeach &. Remove Trump
+*   _Nir Kossovsky_: The Border Wall Is Trump's Alamo and It Won't End Well
     
-*   _David Catron_: The Divine Right of Democrats to Drool
+*   _Michelle Malkin_: Say His Name: RIP Cpl. Ronil Singh
     
-*   _Albert Hunt_: No, Mr. Trump, the Press Is Only the Enemy of Lies
+*   _David Ignatius_: A Look Into the Crystal Ball for Jan. 1, 2020
     
-*   _Siraj Hashmi_: The Top 5 Worst Journalism Moments of 2018
+*   _Dennis Prager_: The Media, Democrats Will Make 2019 a Dark Year
     
-*   _Dave Barry_: Is There Anything Good We Can Say About 2018?
+*   _Peter Bergen_: Now Trump Is at War With the Generals
     
-*   _Steve Cortes_: Trump's Top 10 Achievements of 2018
+*   _Curt Mills_: Secretary of Defense Jim Webb?
     
-*   _Elie Honig_: Brace Yourself for an Ugly Political Brawl in 2019
+*   _Mitt Romney_: President Trump's Character Falls Short
     
-*   _Jonathan Turley_: Trump Is Completely Transforming the Democrats
+*   _Ryan Cooper_: The Most Overrated and Underrated 2020 Democrats
     
-*   _George Packer_: The Needless Cruelty of Trump's Syria Withdrawal
+*   _David Axelrod_: Why Warren Will Be Such a Major Player in 2020
     
-*   _Nicholas Waddy_: Well-Timed, Sensible Exit From Syria's Civil War
+*   _Mark Pulliam_: RBG's Hubris Is a Gift for Donald Trump
     
-*   _Karen Tumulty_: Trump's Tweets on Children Dying in U.S. Custody Are New Low
+*   _Paul Krugman_: The Trump Tax Cut: Even Worse Than You've Heard
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump, Democrats Play Blame Game in Battle Over Border Wall
+*   Elizabeth Warren Takes Big Step Toward 2020 Presidential Bid
+*   Hill Leaders Invited to White House for Border Briefing
+*   Graham: "There Will Never Be a Deal Without Wall Funding"
 *   EPA Targets Obama Crackdown on Mercury From Coal Plants
-*   Meadows: We Could Be In for a "Very Long-Term Shutdown"
 *   Trump Makes First Visit to U.S. Troops in Harm's Way
-*   After Criticism, Trump Pushes Out Mattis Sooner Than Planned
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve44
-    *   Disapprove56Disapprove +12
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
-*   Direction of CountryHarvard-Harris
-    *   Right Direction38
-    *   Wrong Track54Wrong Track +16
 *   President Trump Job ApprovalEconomist/YouGov
-    *   Approve44
-    *   Disapprove52Disapprove +8
+    *   Approve45
+    *   Disapprove53Disapprove +8
+*   Congressional Job ApprovalEconomist/YouGov
+    *   Approve9
+    *   Disapprove71Disapprove +62
+*   Direction of CountryEconomist/YouGov
+    *   Right Direction36
+    *   Wrong Track55Wrong Track +19
+*   Direction of CountryRasmussen Reports
+    *   Right Direction39
+    *   Wrong Track55Wrong Track +16
 
 More Latest Polls In The News
 
-*   Trump on Warren's 2020 Chances: "You'd Have To Ask Her Psychiatrist". "Indian Heritage" Claim Ended Badly
-*   Warren: I'm Launching A Presidential Exploratory Committee, Corporations Have "Enlisted Politicians"
-*   Lindsey Graham: "The Wall Has Become A Metaphor For Border Security," Democrats Supported In The Past
-*   Terry McAuliffe on 2020 Democratic Candidates: "We All Support Medicare For All"
-*   Conway: Trump "Already Compromised" On Border Wall Funding, Originally Asked for $25 Billion
+*   Romney on Trump: My Op-Ed Was About "How We'll Work Together". No Decision On 2020 Endorsement
+*   Pelosi and Schumer After WH Meeting: We Gave Trump A Chance To Take Yes For An Answer
+*   Rand Paul to Romney: There Will Be A "Backlash" For His Petty, "Holier Than Thou" Anti-Trump Op-Ed
+*   Trump: If Mitt Romney Fought Against Obama The Way He Fights Me, He Would Have Won Election
+*   Giuliani: Mueller Team Justifies Doing Anything Because They Think Trump Is A "Monster"
 
 *   Politics
 *   Policy
