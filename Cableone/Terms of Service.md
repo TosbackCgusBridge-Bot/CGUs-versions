@@ -34,7 +34,7 @@ Skip to main content
 
 Internet Acceptable Use Policy Acceptable Use Policy
 
-Effective March 01, 2018
+Effective January 02, 2019
 
 Important Note: Cable One, Inc., may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Cable One residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Cable One users can be directed to abuse@cableone.net. Visit http://www.cableone.net/legal/open-internet to review Cable One's Network Management Disclosure Statement.
 
@@ -123,39 +123,35 @@ Excessive use means bandwidth or data usage that is significantly higher than ty
 
 In order to ensure an optimized Internet experience for all customers, data plans have been assigned to many Internet services plans:
 
-Plan name Data limit Lite Plan 100GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 600GB Data Plan Streamer &. Gamer Plan 900GB Data Plan Roommate Plan 1200GB Data Plan Power Home Plan 1500GB Data Plan\* GigaONE ® 1500GB Data Plan\*
+Internet Service Plan Name Data Plan Lite Plan 100GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 800GB Data Plan Streamer &. Gamer Plan Unlimited\* Data Plan Roommate Plan Unlimited\* Data Plan Power Home Plan Unlimited\* Data Plan GigaONE ® Unlimited\* Data Plan
 
-\* Names, speeds, and data plans are subject to change
+Names, speeds, and data plans are subject to change
 
 **Data Policy**
 
-Customers who exceed the above data plan 3 or more times in a rolling 12 month period may be required to upgrade to an Internet speed/plan that contains a larger data plan more suitable for their usage. The plan will be determined on the average of the months which customer usage exceeded their data plan and a customer must remain at the new plan for a minimum of 3 months. Customers will be notified via email and in-browser notifications and may monitor their data plan usage online at https://myaccount.cableone.net.
+Customers who exceed the above data plans associated with their Internet service plan 3 or more times in a rolling 12-month period may be required to upgrade to an Internet service plan that contains a data plan more suitable for their usage. The Internet service plan will be determined on the average of the months that customer usage exceeded the Internet service plan and a customer must maintain the new Internet service plan for a minimum of 3 months. Customers will be notified via email and in-browser notifications and may monitor their data plan usage online at https://myaccount.cableone.net.
+
+\*Customers on unlimited data plans who use more than 5TB of data during a data period may be subject to speed reductions for the remainder of their data period.
+
+Customers on "Plus" plans have designated data plans assigned to the levels of service subscribed. Customers who exceed their data plans are automatically provided with an additional 100GB block of data to be used during their data period, at an additional cost. A maximum charge of 5 blocks of 100GB of data will be provided per data period. Additional Data Block Details
+
+Internet Service Plan Name Data Plan Lite Plus 100GB Data Plan Starter Plus 300GB Data Plan Streamer &. Gamer Plus 600GB Data Plan Turbo Plus 900GB Data Plan GigaONE ® Plus 1200GB Data Plan
+
+Names, speeds, and data plans are subject to change
+
+Customers who (a) use more than 5TB of data who have opted into an unlimited data option or (b) receive a maximum of 5 additional blocks of data during a data period may be subject to speed reductions for the remainder of their data period.
 
 **Data Policy Exceptions**
 
-Fargo, ND and Odessa, Texas Customers sold "Plus" Internet plans after 01/01/2018
+Customers on "Plus" Internet service plans in the following Markets: Fargo, ND. Odessa, TX. and Emporia, KS.
 
-Emporia, KS customers sold "Plus" Internet plans after 6/15/18
+Internet Service Plan Name Data Plan Starter Plus NA Streamer &. Gamer Plus NA Turbo Plus NA GigaONE ® Plus NA
 
-Plan name Data limit Starter Plus Plan NA Streamer &. Gamer Plus Plan NA Turbo Plus Plan NA GigaONE ® Plus NA
-
-\* Names, speeds, and data plans are subject to change
+Names, speeds, and data plans are subject to change
 
 **Data Policy**
 
-Customers on Plus Internet plans in these two communities do not have designated data plans assigned to the levels of service subscribed. However, customers on these plans who use more than 5TB of data during a data period may be subject to speed reductions for the remainder of their data period.
-
-Bartlesville, OK and Sioux City, IA Customers sold "Plus" Internet plans after 03/01/2018
-
-Biloxi, Gulport, Pascagoula, MS customers sold "Plus" plans after 7/15/18
-
-Customers on plus plans in these two communities have designated data plans assigned to the levels of service subscribed. Customer who exceed their data plans are automatically provided with an additional 100GB block of data to be used during their data period, at an additional cost. A maximum charge of 5 blocks of 100GB of data will be provided per data period. Additional Data Block Details
-
-Plan name Data limit Lite Plan Plus 100GB Data Plan Starter Plan Plus 300GB Data Plan Streamer &. Gamer Plus 600GB Data Plan Turbo Plan Plus 900GB Data Plan GigaONE ® Plus 1200GB Data Plan
-
-\* Names, speeds, and data plans are subject to change
-
-Customers who a) use more than 5TB of data who have opted into an unlimited data option or b) receive a maximum of 5 additional blocks of data during a data period may be subject to speed reductions for the remainder of their data period.
+Customers on Plus Internet service plans in these communities do not have designated data plans assigned to the levels of service subscribed. However, customers on these Internet service plans who use more than 5TB of data during a data period may be subject to speed reductions for the remainder of their data period.
 
 **How does CableOne address Excessive Use or uncharacteristic use?**
 
@@ -183,7 +179,7 @@ V. MISCELLANEOUS PROVISIONS
 
 **Cable Modems**
 
-CableOne strives to produce a high level of reliability, stability and security for our High Speed Internet Subscribers. The cable modem is a critical network element which we constantly evaluate for compatibility and performance. Due to technical limitations, changes to our network, discontinued support by manufacturers, regulatory obligations, or defects, certain cable modem models that previously were certified may be deemed to no longer be suitable for our network. If you own your modem and in our sole but reasonable discretion it becomes unsuitable for any of these or other reasons, it will be your responsibility to purchase a new modem. CableOne's support website maintains a current list of certified modems for use on its network. CableOne reserves the right to upgrade, via software download and without subscriber notification, all cable modems currently connected to its network. Effective October 1, 2015, only DOCSIS 3.0 and DOCSIS 3.1 Modems and EMTAs will be compatible with our network.
+CableOne strives to produce a high level of reliability, stability and security for our High-Speed Internet Subscribers. The cable modem is a critical network element which we constantly evaluate for compatibility and performance. Due to technical limitations, changes to our network, discontinued support by manufacturers, regulatory obligations, or defects, certain cable modem models that previously were certified may be deemed to no longer be suitable for our network. If you own your modem and in our sole but reasonable discretion it becomes unsuitable for any of these or other reasons, it will be your responsibility to purchase a new modem. CableOne's support website maintains a current list of certified modems for use on its network. CableOne reserves the right to upgrade, via software download and without subscriber notification, all cable modems currently connected to its network. Effective October 1, 2015, only DOCSIS 3.0 and DOCSIS 3.1 Modems and EMTAs will be compatible with our network.
 
 **Communication**
 
