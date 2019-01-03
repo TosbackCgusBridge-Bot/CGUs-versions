@@ -101,4 +101,4 @@ Get Connected. See what's next for CenturyLink.
 *   Wholesale
 *   Feedback
 
-*   © 2018 CenturyLink. All Rights Reserved. Third party marks are the property of their respective owners.
+*   © 2019 CenturyLink. All Rights Reserved. Third party marks are the property of their respective owners.
