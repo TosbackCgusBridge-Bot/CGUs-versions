@@ -231,6 +231,8 @@ Policy updates and effective date
 
 If we make updates to this Policy, we will update the Policy with the changes and revise the “date of most recent update” posted at the top of this Policy. Any updates to the Policy become effective when we post the updates on the Site. Your use of the Site following the update to the Policy means that you accept the updated Policy.
 
+LRC-0318
+
 *   About Wells Fargo
 *   Careers
 *   Privacy, Cookies, Security &. Legal
