@@ -10,12 +10,12 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Bumblebee
     *   Spider-Man: Into the Spider-Verse
     *   The Mule (2018)
-    *   Dr. Seuss' The Grinch (2018)
+    *   Vice (2018)
+    *   Holmes &. Watson
     *   Second Act
     *   Ralph Breaks the Internet
-    *   Welcome to Marwen
+    *   Dr. Seuss' The Grinch (2018)
     *   Mary Queen of Scots (2018)
-    *   The Favourite
     *   See All Now Playing
     
     Opening This Week = Limited Release
@@ -27,8 +27,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Escape Room (2019)
     *   A Dog's Way Home
+    *   Replicas
     *   The Upside
     *   Glass (2019)
     *   Serenity (2019)
@@ -68,7 +68,6 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Explore Content
     *   Movie Reviews
-    *   Holiday Movie Guide
     *   Awards Watch
     *   Indie Movie Guide
     *   Family Guide
@@ -310,13 +309,17 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Aquaman' Gift with Purchase
+*   Fandango Gift Cards
     
-    Get 5 FREE digital DC Comics with ticket purchase. BUY TICKETS
+    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
 *   'On the Basis of Sex' Sweepstakes
     
     Enter for a chance to win a script of the movie signed by cast &. filmakers! ENTER NOW
+    
+*   Fandango VIP
+    
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 
 New + Coming soon
@@ -341,6 +344,12 @@ Experience + Explore
 
 Editorial Features
 
+*   Awards Watch
+*   Indie Movie Guide
+*   Family Guide
+*   House Of Screams
+*   Movie News
+
 Videos
 
 *   Movie Trailers
@@ -351,7 +360,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   December Celebrity Birthdays
+*   January Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
