@@ -543,16 +543,16 @@ Accessibility
 
 Toyota is committed to accessibility, diversity, and inclusion for all of its guests. We believe everyone should be able to visit Toyota.com, use our mobile apps, and access our service easily. We welcome feedback. If you notice any content, feature or functionality of the Site that you believe is not fully accessible to people with disabilities, please contact us and provide a description of the specific feature you feel is not fully accessible or a suggestion for improvement. We take your input seriously and will consider all feedback received as we evaluate ways to accommodate our customers and continuously improve our overall accessibility polices.
 
-Your Privacy Rights **Personal Information Sharing Practices for 2017**  
-During 2017, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
+Your Privacy Rights **Personal Information Sharing Practices for 2018**  
+During 2018, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
   
 Learn more  
-**Toyota Safety Connect® Connected Vehicle Services Privacy and Protection Notice**  
-Your vehicle may be equipped with Connected Vehicle Services technology that electronically transmits Vehicle Data to Toyota. These Services are called Safety Connect®. Toyota may use your Vehicle Data to respond to vehicle emergencies, find destinations you request, activate remote services, help you manage your vehicle service and maintenance, improve vehicle safety, develop new and better vehicles, confirm vehicle quality and analyze vehicle trends. We also collect and use your Personal Information to facilitate your usage of Connected Vehicle Services technology, fulfill your requests, and manage our relationship with you.  
+**Toyota Connected Services Privacy and Protection Notice**  
+Your vehicle may be equipped with Connected Services that electronically transmit Vehicle Data to Toyota. These Services may use your Vehicle Data to respond to vehicle emergencies, find destinations or activate remote services. This data may improve overall vehicle safety, develop new and better vehicles, and analyze vehicle trends. We also collect and use your Personal Information to facilitate your usage of Connected Services, fulfill your requests, and manage our relationship with you.  
   
 Learn more  
 **Toyota Privacy Statement – Summary**  
-This summary of our privacy statement applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our") (collectively referred to as the “Platforms”). Some of our products and services may have additional terms that apply, such as vehicles equipped with Connected Vehicle Services technologies. Where product- or service-specific terms conflict with this Privacy Statement, those terms shall govern. Last Updated January 1, 2018  
+This summary of our privacy statement applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our") (collectively referred to as the “Platforms”). Some of our products and services may have additional terms that apply, such as vehicles equipped with Connected Vehicle Services technologies. Where product- or service-specific terms conflict with this Privacy Statement, those terms shall govern. Last Updated January 1, 2019  
 **Information Collected**
 
 *   We collect personal information you choose to provide which may include your name, mailing address, email address, and phone number together with certain demographic information from you in connection with surveys or from commercially available third party services.
@@ -597,13 +597,13 @@ To read our full Privacy Statement click here.
 
 \[Versión en Español\]
 
-UPDATED AS OF: January 1, 2018
+UPDATED AS OF: January 1, 2019
 
-Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications (“Platforms”). If you are a resident of the European Union, please use the applicable European Union websites and applications, as our Platforms are intended only for the United States residents.
+Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications (“Platforms”). If you are located in the European Economic Area (“EEA”), which includes the European Union (“EU”) Member States, Lichtenstein, Iceland, Norway, and for purposes of this Privacy Statement, the United Kingdom, please visit https://www.toyota-europe.com/#/ajax/%2Fsys%2Fe-privacy%2Fsettings, as our Platforms are intended only for consumers located in the United States.
 
   
 
-**Toyota Safety Connect®** This Online Privacy Statement does not apply specifically to our Toyota Safety Connect® Connected Vehicles Services. Please go to www.toyota.com/privacyvts to learn more about our vehicle and personal data collection, use and sharing practices.
+**Toyota Connected Services®** This Online Privacy Statement does not apply specifically to our Toyota Safety Connect® Connected Services. Please go to www.toyota.com/privacyvts to learn more about our vehicle and personal data collection, use and sharing practices.
 
   
 **QUICK GUIDE TO CONTENTS**  
@@ -641,7 +641,9 @@ _Device Identifier._ We automatically collect your IP address or other unique id
 
 _Cookies. Pixel Tags._ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic images, sometimes called web beacons or tracking beacons, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, by using one of their applications either on or otherwise connected to our Platforms (e.g. social media log-in credentials or vehicle configuration shared to social media), you may enable interaction between your activities on the Platforms and your activities on such social networking sites. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location or demographic information). Please note that Dealer Advertising Associations may opt to place cookies or similar files on your Device to personalize your experience on their websites, including www.buyatoyota.com. A pixel tag may tell your browser to get content from another server.
 
-To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, please refer to your browser’s help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your Toyota account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. If you block or delete cookies, not all tracking that we have described in this privacy statement will stop. Some browsers have a "do not track" feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
+Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of the website may not function properly or may be slower if you refuse cookies. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. If you block or delete cookies, not all tracking that we have described in this privacy statement will stop.
+
+We use cookies provided by Google Analytics and BlueKai DMP to collect statistical information about the use of the website. You can opt-out of Google analytics, here: https://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on). You can manage your third-party data on BlueKai, here: https://datacloudoptout.oracle.com/registry/, and you can completely opt-out of BlueKai third-party data collection, here: https://datacloudoptout.oracle.com/#.
 
   
 
@@ -775,9 +777,9 @@ Plano, TX 75025-9001
 
   
 
-**PERSONAL INFORMATION SHARING PRACTICES FOR 2017**  
-(Effective as of January 01, 2018)  
-During 2017, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
+**PERSONAL INFORMATION SHARING PRACTICES FOR 2018**  
+(Effective as of January 01, 2019)  
+During 2018, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
 
 Name  
 Address  
@@ -806,7 +808,7 @@ Toyota Motor Sales, U.S.A., Inc.
 P.O. Box 259001  
 Plano, TX 75025-9001
 
-Legal Terms _Last Updated Date: January 2, 2018_  
+Legal Terms _Last Updated Date: January 1, 2019_  
   
 
 These Terms of Use (the "Terms") set forth the legally binding terms governing your access to and use of the Toyota family of Web sites, Web pages, interactive features, applications, widgets, blogs and their respective contents and unless otherwise indicated, any other interactive content that links to the Toyota family of Web sites owned and/or operated by Toyota (as defined herein) (collectively, the "Sites"). The Sites are operated by Toyota Motor Sales, U.S.A., Inc. (hereinafter referred to as "Toyota"), and any materials on the Sites are owned by Toyota or its affiliated companies, or licensed by Toyota from third parties and posted on the Sites.
@@ -1023,7 +1025,7 @@ You may forward information from any of the Sites to another individual person (
 
 **12\. PRIVACY.**
 
-You should review our Privacy Policy at http://toyota.com/support/privacy-rights for an explanation of our collection and use of personal information, and our tracking and targeting of your actions on and/or through the Sites, before further using the Sites, as you will be bound by the terms of such Privacy Policy, which is incorporated herein by reference.
+You should review our Privacy Policy at https://toyota.com/support/privacy-rights for an explanation of our collection and use of personal information, and our tracking and targeting of your actions on and/or through the Sites, before further using the Sites, as you will be bound by the terms of such Privacy Policy, which is incorporated herein by reference.
 
   
 
@@ -1098,7 +1100,7 @@ In no event shall any claim, action or proceeding by you related in any way to t
 
 **19\. CONTACT US.**
 
-If you have any questions, complaints or claims about any of the Sites, or if you are having any technical difficulties with any of the Sites, please email us through http://www.toyota.com/support/#!/app/ask or call us at 800-331-4331.
+If you have any questions, complaints or claims about any of the Sites, or if you are having any technical difficulties with any of the Sites, please email us through https://www.toyota.com/support/#!/app/ask or call us at 800-331-4331.
 
 Go
 
@@ -1169,11 +1171,11 @@ Help
 *   Site Map
 *   AdChoices
 
-©2018 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
+©2019 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
 
 \[#\] View All Disclosures
 
-*   1\. MSRP excludes the Delivery, Processing, and Handling Fee of $920 for Cars (Yaris, Yaris iA, 86, Corolla, Corolla HB, Camry, Camry HV, Prius LB, Prius _c_, Prius Prime, Mirai, Avalon, Avalon HV), $1045 for Small/Medium Trucks, SUVs and Van (C-HR, RAV4, RAV4 HV, Highlander, Highlander HV, 4Runner, Sienna, Tacoma), $1,295 for Large SUVs (Sequoia, Land Cruiser), and $1,395 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
+*   1\. MSRP excludes the Delivery, Processing, and Handling Fee of $930 for Cars (Yaris LB, Yaris Sedan, 86, Corolla, Corolla HB, Camry, Camry HV, Prius LB, Prius _c_, Prius Prime, Mirai, Avalon, Avalon HV), $1,095 for Small/Medium Trucks, SUVs and Van (C-HR, RAV4, RAV4 HV, Highlander, Highlander HV, 4Runner, Sienna, Tacoma), $1,295 for Large SUVs (Sequoia, Land Cruiser), and $1,495 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
 *   2\. 2017 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2018 EPA-estimated city/highway mileage. Actual mileage will vary.
 *   3\. 2018 EPA-estimated mileage. Actual mileage will vary.
