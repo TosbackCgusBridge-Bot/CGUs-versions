@@ -298,9 +298,9 @@ COMPARE **LF-1 LIMITLESS**
 *   Find a Dealer
     
 
-YOUR PRIVACY RIGHTS Lexus Personal Information Sharing Practices – 2017 (Effective as of January 1, 2018)
+YOUR PRIVACY RIGHTS Lexus Personal Information Sharing Practices – 2018 (Effective as of January 1, 2019)
 
-During 2017, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.
+During 2018, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.
 
 LEARN MORE
 
@@ -312,7 +312,7 @@ LEARN MORE
 
 Lexus Online Privacy Statement
 
-This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. ("Lexus," "we," "us," or "our") online. Last Updated January 1, 2018. Some of our products and services may have additional terms that apply, such as vehicles equipped with Connected Vehicle Services technologies. Where product-or-service-specific terms conflict with this Privacy Statement, those terms shall govern.
+This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. ("Lexus," "we," "us," or "our") online. Last Updated January 1, 2019. Some of our products and services may have additional terms that apply, such as vehicles equipped with Connected Vehicle Services technologies. Where product-or-service-specific terms conflict with this Privacy Statement, those terms shall govern.
 
 READ THE COMPLETE ONLINE PRIVACY STATEMENT Information Collected CLICK HERE FOR MORE INFORMATION
 
@@ -491,7 +491,7 @@ Brand &. Lifestyle
 
 Safety Recalls &. Service Campaigns  
 
-©2006-2018 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
+©2006-2019 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
 
 Notice for Internet Explorer® Users
 
