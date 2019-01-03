@@ -1,19 +1,9 @@
-*   MIA7-917BUF6-1042Final
-*   DET6-1031GB6-9-10Final
-*   JAX5-113HOU11-520Final
-*   NYJ4-123NE11-538Final
-*   CAR7-933NO13-314Final
-*   DAL10-636NYG5-1135Final
-*   ATL7-934TB5-1132Final
-*   CLE7-8-124BAL10-626Final
-*   OAK4-123KC12-435Final
-*   CHI12-424MIN8-7-110Final
-*   CIN6-1013PIT9-6-116Final
-*   PHI9-724WAS7-90Final
-*   LAC12-423DEN6-109Final
-*   SF4-1232LA13-348Final
-*   ARI3-1324SEA10-627Final
-*   IND10-633TEN9-717Final
+Playoffs - WILD CARD
+
+*   IND10-6HOU11-5Sat, 4:35 pm ET
+*   SEA10-6DAL10-6Sat, 8:15 pm ET
+*   LAC12-4BAL10-6Sun, 1:05 pm ET
+*   PHI9-7CHI12-4Sun, 4:40 pm ET
 
 *   News
 *   Scores
@@ -32,22 +22,12 @@
 *   NFL Network
 *   Photos
 
-*   MIA17BUF42Final
-*   DET31GB0Final
-*   JAX3HOU20Final
-*   NYJ3NE38Final
-*   CAR33NO14Final
-*   DAL36NYG35Final
-*   ATL34TB32Final
-*   CLE24BAL26Final
-*   OAK3KC35Final
-*   CHI24MIN10Final
-*   CIN13PIT16Final
-*   PHI24WAS0Final
-*   LAC23DEN9Final
-*   SF32LA48Final
-*   ARI24SEA27Final
-*   IND33TEN17Final
+Playoffs - WC
+
+*   IND10-6HOU11-5Sat, 4:35 pm ET
+*   SEA10-6DAL10-6Sat, 8:15 pm ET
+*   LAC12-4BAL10-6Sun, 1:05 pm ET
+*   PHI9-7CHI12-4Sun, 4:40 pm ET
 
 *   News
 *   Scores
