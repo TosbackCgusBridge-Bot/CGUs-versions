@@ -8,177 +8,168 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Stuart Weitzman
+    *   360 Cashmere + Skull Cashmere
+    *   Magnanni
+    *   Relax &. Restore: Sleepwear, Skin Care and Bedding
+    *   Casual &. Cozy: On-Trend Sweatshirts and More
+    *   Kick Back &. Relax: Pullovers, Hoodies and More
+    *   On Trend: Gorjana Jewelry from $15
+    *   HUE Leggings &. More Up to 60% Off
+    *   Emory Park Under $50
+    *   Surf's Up: Resort-Ready Swimwear
+    *   Full-On Fabulous: Jumpsuits &. More
+    *   M by Bruno Magli
+    *   Champion ft. Big &. Tall Styles
+    *   On-Trend Belt Bags
+    *   Keep It Classic: Men's Straight-Leg Denim
+    *   Teami Blends Detox Teas &. Supplements
+    *   Loafers, Mules &. Slides
+    *   Volcom Under $40
+    *   Lalafox Cosmetics
+    *   Gemstone Jewelry: Diamonds, Tourmaline &. More
+    *   Stride Rite
+    *   Free Shipping: Sensor Trash Cans Under $60
+    *   Something Strong Up to 75% Off
+    *   Free Shipping: Professional Garment Steamers
+    *   Petunia Pickle Bottom &. More Starting at $9
+    *   On the Rise: High-Waisted Denim from $30
+    *   Glam Galore: Cocktail &. Party Dresses
     *   Stay Hydrated: Insulated Stainless Steel Bottles
     *   Free Shipping: Marmont Hill Wall Art
+    
     *   Free Shipping: Sleek Tabletop Decor &. More
     *   Free Shipping: Jewelry Storage for Every Style
     *   Luxe Labels: Splendid &. More from $13
     *   Via Spiga Up to 60% Off
     *   EF Collection Fine Jewelry Up to 50% Off
-    *   Meghan LA Up to 80% Off
-    *   Via Spiga Coats Up to 60% Off
-    *   Wear-Anywhere Boots Up to 55% Off
     *   Goal Keepers: Leggings, Sports Bras &. More
+    *   Meghan LA Up to 80% Off
     *   Velvet by Graham &. Spencer Up to 65% Off
     *   Affliction Starting at $13
-    *   Start 2019 Right: Men's Active
-    *   CALPAK Starting at $30
     *   French Connection Handbags
+    *   Start 2019 Right: Men's Active
     *   Add Cozy: Faux Fur Jackets, Cardis &. More
     *   Cover FX
     *   Made in Italy: Summit Up to 80% Off
-    *   Perfect Fit: Rings in Sizes 5-12
     *   Trending Now: Winter Flannels &. Henleys
+    *   Perfect Fit: Rings in Sizes 5-12
     *   Earth Wood Watches Starting at $33
     *   Vintage Foundry Up to 75% Off
     *   Venettini
-    *   Joe Fresh Men Starting at $12
     *   Joe Fresh Kids
-    *   Pajar
+    *   Via Spiga Coats Up to 60% Off
+    *   Wear-Anywhere Boots Up to 55% Off
     *   Pajar Men
-    *   Love Token Up to 80% Off
-    *   Papillon Up to 80% Off
-    
-    *   London Dress Company Up to 75% Off
-    *   Keep It Short: Cropped Pants &. Cutoffs
     *   Blend Mineral Cosmetics
-    *   Casually Chic Bags
-    *   Curvy Couture Sleep &. Lingerie Under $30
     *   Carter's Shoes Up to 55% Off
-    *   New Year, New Shoes: Pumps &. More
-    *   Tailorbyrd Up to 60% Off
-    *   Steve Madden Socks &. More Under $10
-    *   Bandolino Pumps &. More from $35
     *   Moon and Jai
     *   Salute Up to 75% Off
     *   Free Shipping: Hangers &. Post-Holiday Storage
     *   Kids' Premium Outerwear Shop
+    
     *   Free Shipping: Colorful Lamps
     *   Modern Makeover: Sleek Accent Decor
-    *   Likely
-    *   Katy Perry Up to 60% Off
     *   14K Gold Jewelry Steals
-    *   Women's Shoe Blowout
-    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
-    *   Sorial Handbags Up to 70% Off
-    *   Buy Now, Wear Now: Men's Styles Up to 80% Off
     *   Men's Shoes Up to 65% Off
-    *   Free Shipping: End-of-Year Art Blowout
-    *   Vince Shoes Up to 50% Off
-    *   Vince Men Up to 60% Off
-    *   Lacoste Men's Shoes from $25
-    *   Gurhan Jewelry &. More
+    *   Stay Warm: Men's Down Jackets, Parkas &. More
+    *   Men's Warm Winter Accessories Up to 60% Off
     *   D24K by D'OR: Luxe Creams, Serums &. More
-    
-    *   Kimi + Kai Maternity
     *   Snuggle Up: Winter Bedding Up to 70% Off
-    *   On-Trend Jewelry ft. Gabi Rielle from $15
     *   Bang Beauty &. Luna by Luna
     *   Take Note: Stationery &. More Under $10
     *   Kuwalla
-    *   Basics for Little Ones ft. Sterling Baby
+    *   CALPAK Starting at $30
+    *   Joe Fresh Men Starting at $12
     *   Laura Geller New York
     *   Vanity Storage &. More
     *   Beyond Routine: Skin Treatment Devices &. More
-    *   Donald Pliner Men Up to 60% Off
     *   NuMe Style Hair Tools
-    *   Tailored Recreation Up to 75% Off
     *   Time to Shine: Jewelry Cleaners
     *   Anthropologie Home
-    *   Predire Paris Luxury Skin Care
     *   Start Fresh: 2019 Agendas &. More
-    *   Trask Boots, Bags &. More Up to 65% Off
-    *   Stay Warm: Men's Down Jackets, Parkas &. More
-    *   Men's Warm Winter Accessories Up to 60% Off
+    *   Free Shipping: End-of-Year Art Blowout
+    *   Lacoste Men's Shoes from $25
     *   Office Style: Casual Friday Finds for Him
-    *   Creative Hair Tools
     *   Rugs for Every Room
     *   Free Shipping: ZUO Accent Furniture
     *   Free Shipping: Organization Essentials from $10
     *   Wallity Art
-    *   Free Shipping: Throws &. Sheets
-    *   Vintage-Inspired Wall Art, Decor &. More
-    *   Transform Your Space: Modern Wall Decor
-    *   Vince Up to 60 Off
 *   WomenShop Sale Events
     
+    *   Stuart Weitzman
+    *   360 Cashmere + Skull Cashmere
+    *   Relax &. Restore: Sleepwear, Skin Care and Bedding
+    *   Casual &. Cozy: On-Trend Sweatshirts and More
+    *   On Trend: Gorjana Jewelry from $15
+    *   HUE Leggings &. More Up to 60% Off
+    *   Emory Park Under $50
+    *   Surf's Up: Resort-Ready Swimwear
+    *   Full-On Fabulous: Jumpsuits &. More
+    *   M by Bruno Magli
+    *   On-Trend Belt Bags
+    *   Teami Blends Detox Teas &. Supplements
+    *   Loafers, Mules &. Slides
+    *   Lalafox Cosmetics
+    *   Gemstone Jewelry: Diamonds, Tourmaline &. More
+    *   On the Rise: High-Waisted Denim from $30
+    *   Glam Galore: Cocktail &. Party Dresses
     *   Luxe Labels: Splendid &. More from $13
     *   Via Spiga Up to 60% Off
     *   EF Collection Fine Jewelry Up to 50% Off
-    *   Meghan LA Up to 80% Off
-    *   Via Spiga Coats Up to 60% Off
-    *   Wear-Anywhere Boots Up to 55% Off
     *   Goal Keepers: Leggings, Sports Bras &. More
+    
+    *   Meghan LA Up to 80% Off
     *   Velvet by Graham &. Spencer Up to 65% Off
     *   Affliction Starting at $13
-    *   CALPAK Starting at $30
     *   French Connection Handbags
     *   Add Cozy: Faux Fur Jackets, Cardis &. More
     *   Cover FX
     *   Made in Italy: Summit Up to 80% Off
     *   Perfect Fit: Rings in Sizes 5-12
     *   Earth Wood Watches Starting at $33
-    *   Pajar
-    *   Love Token Up to 80% Off
-    *   Papillon Up to 80% Off
-    *   London Dress Company Up to 75% Off
-    *   Keep It Short: Cropped Pants &. Cutoffs
+    *   Via Spiga Coats Up to 60% Off
+    *   Wear-Anywhere Boots Up to 55% Off
     *   Blend Mineral Cosmetics
-    *   Casually Chic Bags
-    *   Curvy Couture Sleep &. Lingerie Under $30
-    
-    *   New Year, New Shoes: Pumps &. More
-    *   Steve Madden Socks &. More Under $10
-    *   Bandolino Pumps &. More from $35
     *   Moon and Jai
-    *   Likely
-    *   Katy Perry Up to 60% Off
     *   14K Gold Jewelry Steals
-    *   Women's Shoe Blowout
-    *   LaFonn Simulated Diamond Jewelry Up to 75% Off
-    *   Sorial Handbags Up to 70% Off
-    *   Vince Shoes Up to 50% Off
-    *   Gurhan Jewelry &. More
     *   D24K by D'OR: Luxe Creams, Serums &. More
-    *   Kimi + Kai Maternity
-    *   On-Trend Jewelry ft. Gabi Rielle from $15
     *   Bang Beauty &. Luna by Luna
+    *   CALPAK Starting at $30
     *   Laura Geller New York
     *   Beyond Routine: Skin Treatment Devices &. More
     *   NuMe Style Hair Tools
-    *   Predire Paris Luxury Skin Care
-    *   Trask Boots, Bags &. More Up to 65% Off
-    *   Creative Hair Tools
-    *   Vince Up to 60 Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
-    *   Lingerie
+    *   Shoes
     *   Jewelry
     *   Handbags
+    *   Lingerie
     *   Accessories
 *   MenShop Sale Events
     
+    *   Magnanni
+    *   Kick Back &. Relax: Pullovers, Hoodies and More
+    *   Champion ft. Big &. Tall Styles
+    *   Keep It Classic: Men's Straight-Leg Denim
+    *   Teami Blends Detox Teas &. Supplements
+    *   Volcom Under $40
+    *   Something Strong Up to 75% Off
     *   Start 2019 Right: Men's Active
-    *   CALPAK Starting at $30
     *   Trending Now: Winter Flannels &. Henleys
     *   Earth Wood Watches Starting at $33
     *   Vintage Foundry Up to 75% Off
-    *   Joe Fresh Men Starting at $12
-    *   Pajar Men
-    *   Tailorbyrd Up to 60% Off
-    *   Salute Up to 75% Off
-    *   Buy Now, Wear Now: Men's Styles Up to 80% Off
     
+    *   Pajar Men
+    *   Salute Up to 75% Off
     *   Men's Shoes Up to 65% Off
-    *   Vince Men Up to 60% Off
-    *   Lacoste Men's Shoes from $25
-    *   Kuwalla
-    *   Donald Pliner Men Up to 60% Off
-    *   Tailored Recreation Up to 75% Off
     *   Stay Warm: Men's Down Jackets, Parkas &. More
     *   Men's Warm Winter Accessories Up to 60% Off
+    *   Kuwalla
+    *   CALPAK Starting at $30
+    *   Joe Fresh Men Starting at $12
+    *   Lacoste Men's Shoes from $25
     *   Office Style: Casual Friday Finds for Him
     
     Shop By Category
@@ -187,24 +178,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Stride Rite
+    *   Petunia Pickle Bottom &. More Starting at $9
     *   Venettini
     *   Joe Fresh Kids
     *   Carter's Shoes Up to 55% Off
     *   Kids' Premium Outerwear Shop
-    *   Kimi + Kai Maternity
-    *   Basics for Little Ones ft. Sterling Baby
     
     Shop By Category
-    *   Girls' Shoes
     *   Boys' Shoes
-    *   Baby Boy
+    *   Girls' Shoes
     *   Girls Sizes 7-16
+    *   Boys Sizes 2T-7
+    *   Girls Sizes 2T-6X
     *   Boys Sizes 8-20
     *   Baby Girl
-    *   Girls Sizes 2T-6X
-    *   Boys Sizes 2T-7
+    *   Baby Boy
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Sensor Trash Cans Under $60
+    *   Free Shipping: Professional Garment Steamers
     *   Stay Hydrated: Insulated Stainless Steel Bottles
     *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Sleek Tabletop Decor &. More
@@ -212,32 +206,31 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Hangers &. Post-Holiday Storage
     *   Free Shipping: Colorful Lamps
     *   Modern Makeover: Sleek Accent Decor
-    *   Free Shipping: End-of-Year Art Blowout
     *   Snuggle Up: Winter Bedding Up to 70% Off
+    
     *   Take Note: Stationery &. More Under $10
     *   Vanity Storage &. More
-    
     *   Time to Shine: Jewelry Cleaners
     *   Anthropologie Home
     *   Start Fresh: 2019 Agendas &. More
+    *   Free Shipping: End-of-Year Art Blowout
     *   Rugs for Every Room
     *   Free Shipping: ZUO Accent Furniture
     *   Free Shipping: Organization Essentials from $10
     *   Wallity Art
-    *   Free Shipping: Throws &. Sheets
-    *   Vintage-Inspired Wall Art, Decor &. More
-    *   Transform Your Space: Modern Wall Decor
     
     Shop By Category
     *   Bedding
     *   Home Decor
     *   Luggage &. Travel
     *   Kitchen &. Tabletop
-    *   Rugs &. Doormats
     *   Storage &. Organization
+    *   Rugs &. Doormats
     *   Bath
 *   BeautyShop Sale Events
     
+    *   Teami Blends Detox Teas &. Supplements
+    *   Lalafox Cosmetics
     *   Cover FX
     *   Blend Mineral Cosmetics
     *   Moon and Jai
@@ -246,8 +239,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Laura Geller New York
     *   Beyond Routine: Skin Treatment Devices &. More
     *   NuMe Style Hair Tools
-    *   Predire Paris Luxury Skin Care
-    *   Creative Hair Tools
     
     Shop By Category
     *   Makeup
