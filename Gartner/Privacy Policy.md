@@ -657,4 +657,4 @@ Email Address: privacy@gartner.com
 *   Privacy Policy
 *   Terms of Use
 
-©2018 Gartner, Inc. and/or its affiliates. All rights reserved.
+©2019 Gartner, Inc. and/or its affiliates. All rights reserved.
