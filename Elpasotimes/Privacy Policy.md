@@ -1,4 +1,4 @@
-SUBSCRIBE NOWOnly $3 for 3 months. Save 90%.
+close dialogdiscover more sports, news &. events in 201999¢ Per MonthSubscribe Todayclose dialogSUBSCRIBE NOWOnly $3 for 3 months. Save 90%.
 
 *   Home
 *   News
@@ -58,7 +58,7 @@ SUBSCRIBE NOWOnly $3 for 3 months. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPossible snow flurries, cooler weather comingNewsFort Bliss soldier jailed in stabbing murderCrimeICE to release 500 more migrants in El PasoImmigrationEl Paso, NM hospitals check 450 migrant kidsNewsOfficers shoot man wielding knife, police sayCrimeMore migrants dropped off in Downtown on ChristmasImmigrationGuatemalan boy's dad heard it was OK to crossNewsGuatemalan migrant boy dies in US custodyImmigrationCastro: Migrant center conditions are subhumanNewsMeet "Coco" book author Diana Lopez at AlamoEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTap Bar building part of final bankruptcy salesBusinessShots fired inside hotel near El Paso airportCrimeTexas mascot charges Georgia mascot before gameNewsMore blood pressure drugs recalled over cancer concernMoneyFour men accused of stealing $500K of tequilaNewsTear gas fired across border to stop migrantsNewsMan accused of burning vehicles at dealershipCrimeWhere to get menudo fix on New Year's DayLifeSkull, bones found in desert near Sunland ParkCrimeNew Year's baby born at 1:31 a.m. in El PasoNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -102,7 +102,7 @@ LifestyleOpinion
 
 HomesObituariesUSA TODAYPhoto &. VideoPublic Notices
 
-© 2018 elpasotimes.com, All rights reserved.
+© 2019 elpasotimes.com, All rights reserved.
 
 Services
 
@@ -130,3 +130,5 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
+
+close dialogdiscover more sports, news &. events in 201999¢ Per MonthSubscribe Todayclose dialogclose dialogdiscover more sports, news &. events in 201999¢ Per MonthSubscribe TodayNo thanksclose dialog
