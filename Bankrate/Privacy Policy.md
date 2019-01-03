@@ -49,7 +49,7 @@
     Considering a No Penalty CD Learn More
 *   Credit Cards Credit Cards by Category
     
-    *   Best Credit Cards of 2018
+    *   Best Credit Cards of 2019
     *   Best Rewards Credit Cards
     *   Best Travel Credit Cards
     *   Best Airline Credit Cards
