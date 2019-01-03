@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
+*   Mass grave
 *   Christian films
-*   Pastor's death
+*   Abortion talk
 *   Christian athletes
 *   Sterilizing kids
-*   Mass grave
 
 About Us
 
