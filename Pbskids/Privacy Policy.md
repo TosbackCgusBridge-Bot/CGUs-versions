@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Go now
+Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Visit the site
 
 Toggle message bar
 
