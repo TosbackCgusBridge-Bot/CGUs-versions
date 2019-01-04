@@ -154,9 +154,9 @@ Did you know?
 
 63% of people consider a company's privacy and security history before using their products or services.
 
-Privacy Policy Versions: January 1, 2019 (current)April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
+Privacy Policy Versions: January 2, 2019 (current)April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
 
-LAST UPDATED: JANUARY 1ST, 2019
+LAST UPDATED: JANUARY 2ND, 2019
 
 This Privacy Policy is effective upon acceptance for new users, and from January 18, 2019 for existing users.
 
