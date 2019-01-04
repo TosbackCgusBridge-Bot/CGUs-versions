@@ -966,9 +966,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 30% off your order!
+Receive 30% off full-price styles!
 
-code: WISH pin: 2678 DETAILS
+code: SNOWBALL pin: 9668 DETAILS
 
 Customer Service Menu
 
