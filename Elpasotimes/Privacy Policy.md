@@ -1,4 +1,4 @@
-close dialogdiscover more sports, news &. events in 201999¢ Per MonthSubscribe Todayclose dialogSUBSCRIBE NOWOnly $3 for 3 months. Save 90%.
+close dialogdiscover more sports, news &. events in 201999¢ Per MonthSubscribe Todayclose dialogSUBSCRIBE NOW99¢ per month. Save 90%.
 
 *   Home
 *   News
@@ -58,7 +58,7 @@ close dialogdiscover more sports, news &. events in 201999¢ Per MonthSubscribe 
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTap Bar building part of final bankruptcy salesBusinessShots fired inside hotel near El Paso airportCrimeTexas mascot charges Georgia mascot before gameNewsMore blood pressure drugs recalled over cancer concernMoneyFour men accused of stealing $500K of tequilaNewsTear gas fired across border to stop migrantsNewsMan accused of burning vehicles at dealershipCrimeWhere to get menudo fix on New Year's DayLifeSkull, bones found in desert near Sunland ParkCrimeNew Year's baby born at 1:31 a.m. in El PasoNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMontana Avenue freeway project to cost $370MLocalMMA fighter accused in random attack on coupleCrimeTap Bar building part of final bankruptcy salesBusinessMan accused of burning vehicles at dealershipCrimeShots fired inside hotel near El Paso airportCrimeMartin O'Malley: Beto O'Rourke for presidentPoliticsTexas mascot charges Georgia mascot before gameNewsEl Paso police identify woman killed in stabbingCrimeVeronica Escobar enters Congress a border leaderNewsMore blood pressure drugs recalled over cancer concernMoneyHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
