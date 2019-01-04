@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   3\. Januar 2019
+*   4\. Januar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 10.580,19ǀ
+*   DAX 10.416,66ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -339,9 +339,9 @@ SPIEGEL GRUPPE
 *   \-Werbung
 *   \-Jobs
 
+*   SPIEGEL COACHING
 *   SPIEGEL EXPEDITION
 *   UNI SPIEGEL
-*   EDITION GESCHICHTE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
@@ -349,9 +349,9 @@ SPIEGEL GRUPPE
 *   SPIEGEL GESCHICHTE
 *   Dein SPIEGEL
 *   SPIEGEL CHRONIK
+*   SPIEGEL COACHING
 *   SPIEGEL EXPEDITION
 *   UNI SPIEGEL
-*   EDITION GESCHICHTE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
