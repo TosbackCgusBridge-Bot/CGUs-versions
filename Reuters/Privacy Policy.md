@@ -53,7 +53,7 @@ Thomson Reuters Legal
     *   See all support
 *   Try and buyTry and buy
 
-1.  Home
+1.  Legal Technology, Products and Services
 2.  Products
 3.  Westlaw Legal Research
 4.  Legal Current Events | Westlaw Practitioner Insights
