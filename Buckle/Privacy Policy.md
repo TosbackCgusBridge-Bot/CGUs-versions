@@ -10,7 +10,7 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
 *   Men
 *   Kids
 *   Jeans
-*   Gifts
+*   Shoes
 *   Sale
 
 *   Search
@@ -23,7 +23,7 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -239,52 +239,69 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
         
           
         Give a Buckle Gift card
-*   Gifts
-    *   *   New Gifts
+*   Shoes
+    *   *   Women's Shoes
         
-        *   Women's New
-        *   Men's New
-        *   Girls
-        *   Boys
+        *   Sneakers
+        *   Flips &. Slides
+        *   Sandals
+        *   Wedges
+        *   Heels
+        *   Boots
+        *   Booties
+        *   Western Boots
+        *   Sale Shoes
+        *   Shop All
         
-        *   Gift Ideas
+        *   Men's Shoes
         
-        *   Fragrance
-        *   Cologne
-        *   Hats
-        *   Jewelry
-        *   Socks
-        *   Boxers
-        *   Sunglasses
-        *   Wallets
-        *   Watches
-        *   Buckle Gift Cards
+        *   Casuals
+        *   Sneakers
+        *   Flips
+        *   Slides
+        *   Dress Shoes
+        *   Boots
+        *   Sale Shoes
+        *   Shop All
         
-        *   Gifts by Price
+        *   Women's Featured Brands
         
-        *   $0 - $25
-        *   $25 - $50
-        *   $50 - $75
-        *   $75 - $100
-        *   $100 - $150
-        *   $150 &. Up
-        *   Special Offers
+        *   Mi.iM
+        *   New Balance
+        *   Timberland
+        *   Sorel
+        *   Blowfish
+        *   UGG
+        *   TOMS
+        *   Puma
+        *   Corral
+        *   Shop All
         
-        *   Unique Gifts
+        *   Men's Featured Brands
         
-        *   Jeans as a Gift
-        *   Exclusive Gifts
-        *   Gifts that Give Back
-        *   Most Popular
-        *   Give Cotton
+        *   Hey Dude
+        *   TOMS
+        *   Timberland
+        *   Reef
+        *   Puma
+        *   New Balance
+        *   Steve Madden
+        *   Crevo
+        *   UGG
+        *   Shop All
         
-        *   Easy Gifting
+        *   Shop By Size
         
-        *   Free Personal Shopper
-        *   Wish List
-        *   Gift Wrap Options
-        *   Gift Cards
-        *   All ServicesGive a Buckle Gift card
+        *   5 - 5.5
+        *   6 - 6.5
+        *   7 - 7.5
+        *   8 - 8.5
+        *   9 - 9.5
+        *   10 - 10.5
+        *   11 - 11.5
+        *   12
+        *   13 - Men's Only
+        *   14 - Men's OnlyGive a Buckle Gift card
 *   Sale
     *   *   Featured Sale
         
