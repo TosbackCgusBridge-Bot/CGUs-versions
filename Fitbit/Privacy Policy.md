@@ -261,6 +261,8 @@ Get the low-down on all things Fitbit legal.
 
 See all our legal policies
 
+Get the skinny on all things FitbitPlease enter an email addressThanks for signing up! Shop the Fitbit family here Shop the Fitbit family Shop Now
+
 *   BLOG
 
 *   Fitbit
@@ -275,7 +277,7 @@ See all our legal policies
 
 United States (change)
 
-*   ©2018 Fitbit, Inc. All rights reserved.
+*   ©2019 Fitbit, Inc. All rights reserved.
 *   Legal Terms
 *   Privacy Policy
 *   Returns &. Warranty
