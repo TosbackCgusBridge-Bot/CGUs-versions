@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Mass grave
-*   Christian films
-*   Abortion talk
-*   Christian athletes
+*   Benjamin Watson
 *   Sterilizing kids
+*   Mass grave
+*   Vicki Yohe
+*   Abortion talk
 
 About Us
 
