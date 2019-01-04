@@ -1,6 +1,6 @@
 Toggle navigation **Post** **Advertise** Log in
 
-*   Thu, Jan 3
+*   Fri, Jan 4
 
 *   Post
 *   Advertise
