@@ -317,9 +317,9 @@ Offers
     
     Enter for a chance to win a script of the movie signed by cast &. filmakers! ENTER NOW
     
-*   Fandango VIP
+*   Get $8 towards a movie ticket to see BumbleBee in theaters 12/21!
     
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    When you purchase participating Paramount DVD or BluRay. Offer Expires on 2/28/2019. ENTER NOW
     
 
 New + Coming soon
