@@ -4,7 +4,7 @@ We use cookies to deliver the best possible experience on our website. To learn 
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
 Become a client  
-Contact us or dial + 1 800 213 4848+ 1 800 213 4848
+Contact us or dial 1 855 658 73871 855 658 7387
 
 Log in Become a Client
 
@@ -52,11 +52,11 @@ Log in Become a Client
     
     Read Article
     
-    Article Q3 2018 Learning Quarterly
+    Article 2019 HR Executive Priorities
     
     Learn More
     
-    Article Gartner Top 10 Strategic Technology Trends for 2018
+    Article Gartner Top 10 Strategic Technology Trends for 2019
     
     Read Article
     
@@ -182,7 +182,7 @@ Log in Become a Client
     
     Sales Insights
     
-    Challenger Sale Effortless Experience Innovation &. Strategy Insights
+    Challenger Sale Effortless Experience Sales Manager Effectiveness Innovation &. Strategy Insights
     
     Innovation &. Strategy Insights
     
@@ -210,7 +210,7 @@ Log in Become a Client
     
     Gartner Books
     
-    Books Your Job as CIO Is Changing. Here's How to Master the New One.
+    Books Secure the foundation for digital business.
     
     Learn More
     
@@ -222,9 +222,9 @@ Log in Become a Client
     
     Read Article
     
-    Article Make it Easier for Customers to Buy
+    Ebook Elevate the Value of Sales Interactions
     
-    Read Article
+    Read Ebook
     
     Article 6 Ways the Workplace Will Change in the Next 10 Years
     
@@ -238,9 +238,7 @@ Log in Become a Client
     
     Watch now
     
-    Understand the continuous evolution of the B2B buying journey
-    
-    Learn More
+    Gartner books and leadership guides build on our compelling research to give leaders a thought-provoking view of topics that will fuel their business growth.
     
 *   About
     
@@ -261,7 +259,7 @@ Log in Become a Client
     Career Opportunities Life at Gartner Campus
     
 *   Become a client  
-    Contact us or dial + 1 800 213 4848+ 1 800 213 4848
+    Contact us or dial 1 855 658 73871 855 658 7387
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018
