@@ -70,7 +70,7 @@ Main menuSONY
     *   Future Experience Program
     *   Life Space UX
     *   Engagement App Development
-    *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/772de0f97ddbfa5852f511751a4e1bfb?fmt=jpeg&amp;wid=218" alt="" class="iq-img">2018 Sony Holiday Gift Guide Learn more
+    *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/7c02f7a959732e31b9d2127dadf58ee2?fmt=jpeg&amp;wid=218" alt="" class="iq-img">A smarter home for a smarter lifeSony’s suite of voice assistant enabled and compatible products works together seamlessly to make life easier 
 *   PlayStation
 *   EntertainmentEntertainment
     *   <img src="//www.sony.com/image/c8d568c456f06d3fa734b3331f100352?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Video Games" class="0 ">Video Games
@@ -105,7 +105,7 @@ Find Out More About the Animated Movie
 
 Kick-off your year with 2018’s “best movie.” Swing to your nearest theater today! #SpiderVerse 🕷️🎉 pic.twitter.com/tf7oS8QMXd
 
-13 hours ago
+1 day ago
 
 View Tweet
 
@@ -147,7 +147,7 @@ Tune-In Sundays on STARZ
 
 Put your New Year’s Resolutions to work with Maddie at #SonySquareNYC. #aibo pic.twitter.com/6D0JBiz19X
 
-14 hours ago
+1 day ago
 
 View Tweet
 
