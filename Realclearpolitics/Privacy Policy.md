@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Lee Smith_: New Documents Suggest the Dossier Was a Deliberate Setup
+*   _Speaker Pelosi &. Rep. McGovern_: House Dems Will Restore Transparency, Unity
     
-*   _Jason Sattler_: One Happy Thought: Democrats Can Subpoena Trump
+*   _David Harsanyi_: First on Pelosi's Agenda: Attacking Free Expression
     
-*   _Glenn Greenwald_: U.S. Media Should Reflect on Why 'Fake News' Resonates
+*   _Arthur Dong_: Apple's Problems Sound Alarm Bells About China's Future
     
-*   _A.B. Stoddard_: Trump Wants Us Focused on the Wall, Not Whitaker
+*   _Robert Rubin_: Why the World Needs America and China to Get Along
     
-*   _Lauren Appell_: What's Behind Democrats' Flip-Flop on Border Security?
+*   _Byron York_: Dems Ready New/Old Plan for Border Security
     
-*   _Christopher Hill_: America First Puts Syria Last
+*   _Eric Levitz_: Should the Left Unite Behind Elizabeth Warren?
     
-*   _David Goldman_: Establishment Neo-Cons Created Syria Mess, Not Trump
+*   _Ed Rogers_: Warren Personifies Democrats' 2020 Dilemma
     
-*   _Edward-Isaac Dovere_: 10 New Factors That Will Shape the 2020 Dem Primary
+*   _David Brock_: Don't Let Bernie Fans Poison Another Dem Primary
     
-*   _Colin Reed_: Warren Leads Democratic Contenders--in Bad Timing
+*   _Tucker Carlson_: Romney Supports the Status Quo of the Elites
     
-*   _Jill Filipovic_: Elizabeth Warren's Brilliant Beginning
+*   _Mark Leibovich_: Harry Reid Has a Few Words for Washington
     
-*   _Surana &. Dreier_: What Happens When You Say No to MS-13
+*   _Kyle Smith_: They're Lying About Louis C.K.
     
-*   _Michael Grunwald_: Everything Was Awesome
+*   _James Antle_: Donald Trump's Nationalist Moment
     
-*   _Rep. Steve Scalise_: Dems Choose Open Borders Over Open Government
+*   _E.J. Dionne_: Tough Love From Nancy Pelosi
     
-*   _Nir Kossovsky_: The Border Wall Is Trump's Alamo and It Won't End Well
+*   _Victor Davis Hanson_: Actually, 2018 Was a Pretty Good Year
     
-*   _Michelle Malkin_: Say His Name: RIP Cpl. Ronil Singh
+*   _Jon Wiener_: 2019 Will Be the Worst Year of Donald Trump's Life
     
-*   _David Ignatius_: A Look Into the Crystal Ball for Jan. 1, 2020
+*   _Justin Wallin_: Five Political Predictions for 2019
     
-*   _Dennis Prager_: The Media, Democrats Will Make 2019 a Dark Year
+*   _James Jay Carafano_: Sensible Border Security Justifies Govt Shutdown
     
-*   _Peter Bergen_: Now Trump Is at War With the Generals
+*   _Annie Lowery_: How to End Government Shutdowns, Forever
     
-*   _Curt Mills_: Secretary of Defense Jim Webb?
+*   _Adele Malpass_: Nadler-Trump Feud to Resume - With Higher Stakes
     
-*   _Mitt Romney_: President Trump's Character Falls Short
+*   _Michael Tomasky_: Dem 2020 Primary Getting Ugly Before It Really Begins
     
-*   _Ryan Cooper_: The Most Overrated and Underrated 2020 Democrats
+*   _Matt Taibbi_: In 2019, Let's Retire the Term 'Electability'
     
-*   _David Axelrod_: Why Warren Will Be Such a Major Player in 2020
+*   _Julie Kelly_: Trump Presidency the 'Bain' of Romney's Existence
     
-*   _Mark Pulliam_: RBG's Hubris Is a Gift for Donald Trump
+*   _Karen Tumulty_: The Romney Family Feud Takes Center Stage
     
-*   _Paul Krugman_: The Trump Tax Cut: Even Worse Than You've Heard
+*   _Paul Sperry_: The Sheriff, the Sheriff's Son, and the 'Coward of Broward'
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   After Border Talks Go Nowhere, Officials to Try Again Friday
+*   New Rivalry? Romney Barrels Into DC Attacking Trump's Character
+*   Trump: I Essentially Fired Mattis Over Poor Results in Afghanistan
+*   Trump Says He's Ready to Meet Again With North Korean Leader
 *   Elizabeth Warren Takes Big Step Toward 2020 Presidential Bid
-*   Hill Leaders Invited to White House for Border Briefing
-*   Graham: "There Will Never Be a Deal Without Wall Funding"
-*   EPA Targets Obama Crackdown on Mercury From Coal Plants
-*   Trump Makes First Visit to U.S. Troops in Harm's Way
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve45
-    *   Disapprove53Disapprove +8
-*   Congressional Job ApprovalEconomist/YouGov
-    *   Approve9
-    *   Disapprove71Disapprove +62
-*   Direction of CountryEconomist/YouGov
-    *   Right Direction36
-    *   Wrong Track55Wrong Track +19
-*   Direction of CountryRasmussen Reports
-    *   Right Direction39
-    *   Wrong Track55Wrong Track +16
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve41
+    *   Disapprove54Disapprove +13
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove51Disapprove +4
+*   Congressional Job ApprovalReuters/Ipsos
+    *   Approve26
+    *   Disapprove63Disapprove +37
+*   Direction of CountryReuters/Ipsos
+    *   Right Direction33
+    *   Wrong Track55Wrong Track +22
 
 More Latest Polls In The News
 
+*   Tucker Carlson: We Are Ruled By Mercenaries Who Feel No Long-Term Obligation To The People They Rule
 *   Romney on Trump: My Op-Ed Was About "How We'll Work Together". No Decision On 2020 Endorsement
+*   Rand Paul on Romney: There Will Be A "Backlash" For His Petty, "Holier Than Thou" Anti-Trump Op-Ed
 *   Pelosi and Schumer After WH Meeting: We Gave Trump A Chance To Take Yes For An Answer
-*   Rand Paul to Romney: There Will Be A "Backlash" For His Petty, "Holier Than Thou" Anti-Trump Op-Ed
 *   Trump: If Mitt Romney Fought Against Obama The Way He Fights Me, He Would Have Won Election
-*   Giuliani: Mueller Team Justifies Doing Anything Because They Think Trump Is A "Monster"
 
 *   Politics
 *   Policy
