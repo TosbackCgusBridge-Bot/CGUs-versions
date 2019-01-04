@@ -85,7 +85,6 @@ Get Connected. See what's next for CenturyLink.
 *   Tariffs
 *   Customers with Disabilities
 
-*   Store Locator
 *   Yellow Pages
 *   Referral Program
 *   CenturyLink Retailer
@@ -93,11 +92,12 @@ Get Connected. See what's next for CenturyLink.
 *   Fed Govt
 *   State &. Local Govt
 *   Education
-*   Partners
 
+*   Partners   
+    
 *   For Home
 *   Small Business
-*   Medium - Enterprise
+*   Enterprise
 *   Wholesale
 *   Feedback
 
