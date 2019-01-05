@@ -23,7 +23,7 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -264,7 +264,7 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
         *   Sale Shoes
         *   Shop All
         
-        *   Women's Featured Brands
+        *   Women's Brands
         
         *   Mi.iM
         *   New Balance
@@ -277,7 +277,7 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
         *   Corral
         *   Shop All
         
-        *   Men's Featured Brands
+        *   Men's Brands
         
         *   Hey Dude
         *   TOMS
