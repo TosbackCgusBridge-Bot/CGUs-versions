@@ -13,7 +13,7 @@ SHOP DEPARTMENTS
 
 *   Same Day Pickup
 *   Store Ads
-*   Clearance
+Deals*   Clearance
 *   Coupons
 
 Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO 70% OFF WOMEN'S SWEATERSSELECT STYLESShop All
@@ -25,9 +25,9 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO
     was $44 Liz Claiborne Womens Boat Neck Long Sleeve Ombre Pullover SweaterAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $2450 sale
+    $1799 sale
     
-    was $49 Liz Claiborne Womens Long Sleeve Open Front Stripe Cardigan(1)Add To Cart
+    was $44 St. John's Bay Womens Mock Neck Long Sleeve Pullover Sweater(14)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
@@ -35,14 +35,9 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO
     was $34 St. John's Bay Long Sleeve Turtleneck Sweater - Tall(4)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $1799 sale
-    
-    was $44 St. John's Bay Womens Mock Neck Long Sleeve Pullover Sweater(13)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $999 sale
     
-    was $34 St. John's Bay Long Sleeve Cable Crew Sweater - Tall(1)Add To Cart
+    was $34 St. John's Bay Long Sleeve Cable Crew Sweater - Tall(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1799 sale
@@ -53,6 +48,11 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO
     $999 sale
     
     was $34 St. John's Bay Long Sleeve Cable V-neck Sweater - Tall(5)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $1799 sale
+    
+    was $44 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(9)Add To Cart
 
 UP TO 70% CURTAINS &. DRAPES Shop AllSELECT STYLESUP TO 70% CURTAINS &. DRAPES SELECT STYLESShop All
 
@@ -60,7 +60,7 @@ UP TO 70% CURTAINS &. DRAPES Shop AllSELECT STYLESUP TO 70% CURTAINS &. DRAPES S
     
     from$12 sale
     
-    was $40 - $70 JCPenney Home™ Bismarck Grommet-Top Sheer Curtain Panel(19)Add To Cart
+    was $40 - $70 JCPenney Home™ Bismarck Grommet-Top Sheer Curtain Panel(20)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     from$18 sale
@@ -78,14 +78,14 @@ UP TO 70% CURTAINS &. DRAPES Shop AllSELECT STYLESUP TO 70% CURTAINS &. DRAPES S
     was $50 - $80 Linden Street Elmsford Room Darkening Grommet-Top Curtain Panel(7)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    from$12 sale
-    
-    was $40 - $70 Studio™ Capsule Grommet-Top Sheer Panel(37)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     from$15 sale
     
     was $50 - $100 Studio™ Finley Rod-Pocket/Back-Tab Curtain Panel(79)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    from$12 sale
+    
+    was $40 - $70 Studio™ Capsule Grommet-Top Sheer Panel(37)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $12 sale
@@ -94,28 +94,28 @@ UP TO 70% CURTAINS &. DRAPES Shop AllSELECT STYLESUP TO 70% CURTAINS &. DRAPES S
 
 Hot Sellers
 
-*   BUY 1 GET 1 50% OFF
+*   from$4999 sale
     
-    $30
+    was $100 - $200 | 50% offBiddeford™ MicroPlush Heated Blanket(991)
+*   $1799 sale
     
-    Stafford® 4-pk. Heavyweight Crewneck T-Shirts(678)
-*   from$1980 sale
+    was $36 | 50% offStafford Travel Easy-Care Stretch Broadcloth Mens Collar Neck Long Sleeve Dress Shirt(28)
+*   BIG BUY!
     
-    was $33 - $173 | 40% offJCPenney Home™ Cut-to-Width Light-Filtering Cordless Cellular Shade(362)
-*   $2999 sale
+    from$15 sale
     
-    was $79 | 62% offYuu Womens Regina Stacked Heel Zip Bootie(21)
-*   $2499 sale
-    
-    was $60 | 58% offArizona Womens Oakes Booties Block Heel Zip
+    was $50 - $120 | 70% offJCPenney Home™ Kathryn Room-Darkening Grommet-Top Curtain Panel(645)
 *   LIMITED TIME SPECIAL!
     
-    $3999 sale
+    $4250 sale
     
-    was $70 | 42% offNew Balance 560 Womens Running Shoes Lace-up
-*   $3499 sale
+    was $85 | 50% offNike Flex 2018 Womens Running Shoes Lace-up(1)
+*   $1999 sale
     
-    was $70 | 50% offHaggar® Premium No Iron Classic-Fit Flat-Front Khakis(564)
+    was $42 | 52% offArizona Flex Relaxed-Fit Straight Jeans(511)
+*   $2999 sale
+    
+    was $40 | 25% offMatrix Biolage Colorlast Value Set(3)
 
 Shop and Save at JCPenney
 
