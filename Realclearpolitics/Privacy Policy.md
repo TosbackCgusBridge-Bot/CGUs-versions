@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -109,53 +107,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Speaker Pelosi &. Rep. McGovern_: House Dems Will Restore Transparency, Unity
+*   _Russell Berman_: An Awkward Beginning to Democratic Control of the House
     
-*   _David Harsanyi_: First on Pelosi's Agenda: Attacking Free Expression
+*   _Joel Mathis_: Romney Just Joined the Resistance
     
-*   _Arthur Dong_: Apple's Problems Sound Alarm Bells About China's Future
+*   _Michael Knowles_: Mitt Romney's Character Problem
     
-*   _Robert Rubin_: Why the World Needs America and China to Get Along
+*   _Margaret Carlson_: Pelosi Knows Art of the Deal, Trump Just Talks About It
     
-*   _Byron York_: Dems Ready New/Old Plan for Border Security
+*   _Matthew Continetti_: The Coming Democratic Disillusion
     
-*   _Eric Levitz_: Should the Left Unite Behind Elizabeth Warren?
+*   _Susan Glasser_: Is Optimism Dead in the Trump Era?
     
-*   _Ed Rogers_: Warren Personifies Democrats' 2020 Dilemma
+*   _Kalev Leetaru_: Media's 'Blue Wave' Morphs Into a 'Diverse' Congress
     
-*   _David Brock_: Don't Let Bernie Fans Poison Another Dem Primary
+*   _Konstantin Kisin_: The New War on Comedy
     
-*   _Tucker Carlson_: Romney Supports the Status Quo of the Elites
+*   _Noah Berlatsky_: Privileged White Parents Help Prop Up Our Racist System
     
-*   _Mark Leibovich_: Harry Reid Has a Few Words for Washington
+*   _Walter Williams_: The Worst Enemy of Black People
     
-*   _Kyle Smith_: They're Lying About Louis C.K.
+*   _Greg Orman_: Why I Remained an Independent Candidate in Kansas
     
-*   _James Antle_: Donald Trump's Nationalist Moment
+*   _Simon Jenkins_: Trump's Right--World Must Start Solving Its Own Problems
     
-*   _E.J. Dionne_: Tough Love From Nancy Pelosi
+*   _David Ignatius_: Trump's Perilous Withdrawal From Syria
     
-*   _Victor Davis Hanson_: Actually, 2018 Was a Pretty Good Year
+*   _Ken Masugi_: Nationalism Is America's Comeback Kid
     
-*   _Jon Wiener_: 2019 Will Be the Worst Year of Donald Trump's Life
+*   _Ronald Brownstein_: Why New Dem Majority Could Work Better Than the Last
     
-*   _Justin Wallin_: Five Political Predictions for 2019
+*   _Rich Lowry_: Democrats' Irrational Allergy to the Wall
     
-*   _James Jay Carafano_: Sensible Border Security Justifies Govt Shutdown
+*   _Terry McAuliffe_: Countering Trump's Lies With Realistic Solutions
     
-*   _Annie Lowery_: How to End Government Shutdowns, Forever
+*   _Corey Lewandowski_: Three Top Priorities for 2019 to 'Keep America Great'
     
-*   _Adele Malpass_: Nadler-Trump Feud to Resume - With Higher Stakes
+*   _Peter Coy_: Does Trump Deserve the Blame for Stock Market Plunge?
     
-*   _Michael Tomasky_: Dem 2020 Primary Getting Ugly Before It Really Begins
+*   _John Harris_: Why Guys Like Mitt Romney Don't Scare Donald Trump
     
-*   _Matt Taibbi_: In 2019, Let's Retire the Term 'Electability'
+*   _Quin Hillyer_: Romney Hits Bull's-Eye With Trump Criticism
     
-*   _Julie Kelly_: Trump Presidency the 'Bain' of Romney's Existence
+*   _Monica Showalter_: Same Old Romney--He's Already Backtracking
     
-*   _Karen Tumulty_: The Romney Family Feud Takes Center Stage
+*   _Michelle Goldberg_: The Dem Primary Doesn't Have to Be a Nightmare
     
-*   _Paul Sperry_: The Sheriff, the Sheriff's Son, and the 'Coward of Broward'
+*   _Peter Beinart_: Misogyny Drives Elizabeth Warren's Low Approval Ratings
     
 
 *   Previous
@@ -226,10 +224,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Speaker Again, Pelosi Sees "New Dawn" for 116th Congress
 *   After Border Talks Go Nowhere, Officials to Try Again Friday
+*   Pence: No Deal Without a Wall, No Border Security Without a Wall
 *   New Rivalry? Romney Barrels Into DC Attacking Trump's Character
-*   Trump: I Essentially Fired Mattis Over Poor Results in Afghanistan
-*   Trump Says He's Ready to Meet Again With North Korean Leader
 *   Elizabeth Warren Takes Big Step Toward 2020 Presidential Bid
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -246,23 +244,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve41
     *   Disapprove54Disapprove +13
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove51Disapprove +4
 *   Congressional Job ApprovalReuters/Ipsos
     *   Approve26
     *   Disapprove63Disapprove +37
 *   Direction of CountryReuters/Ipsos
     *   Right Direction33
     *   Wrong Track55Wrong Track +22
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve45
+    *   Disapprove53Disapprove +8
 
 More Latest Polls In The News
 
+*   Schumer: Trump Told Us Shutdown Could Last A Very Long Time. "Months Or Even Years"
+*   Sanders: Trump Not Backing Off Border Wall. Pelosi Wasn't Elected To Play "Political Games"
+*   Full Replay: President Trump Press Conference After Meeting With Pelosi And Schumer
+*   New Dem Congresswoman Rashida Tlaib Rails Against Trump: "Going To Impeach The Motherf\*cker"
 *   Tucker Carlson: We Are Ruled By Mercenaries Who Feel No Long-Term Obligation To The People They Rule
-*   Romney on Trump: My Op-Ed Was About "How We'll Work Together". No Decision On 2020 Endorsement
-*   Rand Paul on Romney: There Will Be A "Backlash" For His Petty, "Holier Than Thou" Anti-Trump Op-Ed
-*   Pelosi and Schumer After WH Meeting: We Gave Trump A Chance To Take Yes For An Answer
-*   Trump: If Mitt Romney Fought Against Obama The Way He Fights Me, He Would Have Won Election
 
 *   Politics
 *   Policy
