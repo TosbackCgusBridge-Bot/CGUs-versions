@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Benjamin Watson
-*   Sterilizing kids
-*   Mass grave
-*   Vicki Yohe
-*   Abortion talk
+*   Abortion funding
+*   Pope Francis
+*   Brian Head Welch
+*   Beth Moore
+*   Dead Sea
 
 About Us
 
