@@ -87,8 +87,8 @@ View more results
     *   Plants vs Zombies
     *   Apple Shooter: Arrow Game
     *   Warbanner
-    *   Stunt Skateboard 3D
     *   Sniper Team 2
+    *   Stunt Skateboard 3D
     *   Super Smash Flash 2Spotlight Super Smash Flash 2
 *   Top Categories
     
@@ -166,8 +166,8 @@ View more results
     *   Electricman 2: Stickman Fighting Game
     *   Ellie: Get Ready With Me
     *   Love Tester 2.0
-    *   Bartender
-    *   Burger Restaurant ExpressSpotlight My Dolphin Show 8
+    *   Burger Restaurant Express
+    *   BartenderSpotlight My Dolphin Show 8
 *   Top Categories
     
     *   BMX Games
