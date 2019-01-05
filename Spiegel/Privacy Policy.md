@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   4\. Januar 2019
+*   5\. Januar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 10.416,66ǀ
+*   DAX 10.767,69ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
