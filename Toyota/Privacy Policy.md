@@ -56,7 +56,7 @@ Skip to main content
 
 *   $26,000 as shown1 2019 C-HR $20,945 starting1  
     27/31 est MPG20 Build Specials
-*   Hybrid Coming Soon $33,500 as shown1 2019 RAV4 $25,500 starting1  
+*   Hybrid Coming Soon $33,500 as shown1 All New 2019 RAV4 $25,500 starting1  
     26/35 est MPG19 Build Specials
 *   Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
     34/30 est MPG3 Build Specials
@@ -134,7 +134,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 19/27 est MPG22 Trucks $36,465 as shown1 2019 Tacoma $25,550 starting1  
 18/22 est MPG3 $45,600 as shown1 2019 Tundra $31,420 starting1  
 15/19 est MPG20 Crossovers &. SUVs $26,000 as shown1 2019 C-HR $20,945 starting1  
-27/31 est MPG20 Hybrid Coming Soon $33,500 as shown1 2019 RAV4 $25,500 starting1  
+27/31 est MPG20 Hybrid Coming Soon $33,500 as shown1 All New 2019 RAV4 $25,500 starting1  
 26/35 est MPG19 Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
 34/30 est MPG3 Hybrid Available $41,900 as shown1 2019 Highlander $31,330 starting1  
 21/27 est MPG20 Hybrid $48,630 as shown1 2019 Highlander Hybrid $36,970 starting1  
