@@ -309,17 +309,21 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   Fandango Gift Cards
-    
-    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
-    
 *   'On the Basis of Sex' Sweepstakes
     
     Enter for a chance to win a script of the movie signed by cast &. filmakers! ENTER NOW
     
+*   $8 to see ‘Mary Poppins Returns’
+    
+    When you buy $8 in Ivory Products. SEE DETAILS
+    
 *   Get $8 towards a movie ticket to see BumbleBee in theaters 12/21!
     
     When you purchase participating Paramount DVD or BluRay. Offer Expires on 2/28/2019. ENTER NOW
+    
+*   Fandango Gift Cards
+    
+    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
 
 New + Coming soon
