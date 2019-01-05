@@ -33,7 +33,7 @@
     *   Brand Assets
     *   Contact
 *   Blog
-*   Docs
+*   For Developers
     *   Docs Overview
     *   Product Guides
     *   Forum
@@ -172,6 +172,6 @@ Main: +1 (858) 779-1344
 
 Get a Demo
 
-Copyright All Rights Reserved © 2008-2018
+Copyright All Rights Reserved © 2008-2019
 
 This website uses cookies. By using our services, you agree to our use of cookies. Accept Learn More
