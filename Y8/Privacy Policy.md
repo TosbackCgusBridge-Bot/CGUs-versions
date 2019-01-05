@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 958 games
-*   Most Popular Games 18483 games
+*   Best of new games 922 games
+*   Most Popular Games 18489 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,625 games
-*   Driving &. Racing Games 6,735 games
+*   Games for girls 23,630 games
+*   Driving &. Racing Games 6,737 games
 *   Strategy &. RPG Games 2,405 games
 *   Management Games 3,636 games
-*   Thinking Games 11,898 games
-*   Action &. Adventure Games 15,902 games
+*   Thinking Games 11,899 games
+*   Action &. Adventure Games 15,904 games
 *   Sports Games 2,152 games
 *   Shooting Games 8,370 games
 *   Fighting Games 2,090 games
 *   Skill Games 10,713 games
-*   Arcade &. Classic Games 12,700 games
+*   Arcade &. Classic Games 12,702 games
 *   Fun &. Crazy Games 2,484 games
 
 Play with friends  
 Powered by Y8 Account 135 Y8 Multiplayer Games 1,793 Y8 High Score Games 1,095 Y8 Achievements Games 796 Y8 Screenshots Games 1,378 Y8 Online Save Games 2,816 All Y8 Games Games Last Highscore:
 
-**53** points on Military Wars 3D Multiplayer by eldomain77
+**573** points on Supercars Puzzle by Duc\_Duy
 
 Help us improve Bad translation? Social
 
