@@ -140,4 +140,4 @@ Last updated: 2018-04-03
 
  
 
-<img src="https://geo.yahoo.com/b?s=792600607" height="1" width="1" style="position: absolute;" />.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1049934251710414&ev=PageView&noscript=1"/>. <img src="https://geo.yahoo.com/b?s=792600607" height="1" width="1" style="position: absolute;" />.
