@@ -250,7 +250,7 @@ Follow eLearners:
 
 By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services. Privacy Policy. Privacy Policy | Terms of Use | Legal Notice
 
-Copyright eLearners.com 1999 - 2018
+Copyright eLearners.com 1999 - 2019
 
 EducationDynamics maintains business relationships with the schools it features
 
