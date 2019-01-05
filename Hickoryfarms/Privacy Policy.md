@@ -9,8 +9,7 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   New Year's
-    *   Game Day
+    Occasions*   Game Day
     *   Birthday GiftsMost Popular Fruit Baskets
 *   Meat &. Cheese
     
@@ -60,15 +59,14 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Entertaining
-    *   New Year's
+    View All Categories Shop by Category*   Valentine's Day Gifts
     
     Occasions*   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular New Year's
-*   Sale
+    *   Graduation &. CongratulationsMost Popular Valentine's Day Gifts
+*   Clearance Sale
 
 1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Skip to content Business Gifts Stores Account
 
@@ -89,8 +87,7 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   New Year's
-    *   Game Day
+    Occasions*   Game Day
     *   Birthday GiftsMost Popular Fruit Baskets
 *   Meat &. Cheese
     
@@ -140,17 +137,16 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Entertaining
-    *   New Year's
+    View All Categories Shop by Category*   Valentine's Day Gifts
     
     Occasions*   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular New Year's
-*   Sale
+    *   Graduation &. CongratulationsMost Popular Valentine's Day Gifts
+*   Clearance Sale
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Our Winter Sale is Happening Now! Save 40% sitewide!
+1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Privacy Policy
