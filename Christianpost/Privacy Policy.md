@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Abortion funding
-*   Pope Francis
-*   Brian Head Welch
+*   John Gray
 *   Beth Moore
-*   Dead Sea
+*   Abortion
+*   Transgender ideology
+*   Chrissy Metz
 
 About Us
 
