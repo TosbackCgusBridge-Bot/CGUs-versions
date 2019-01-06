@@ -13,21 +13,21 @@ SHOP DEPARTMENTS
 
 *   Same Day Pickup
 *   Store Ads
-Deals*   Clearance
+*   Clearance
 *   Coupons
 
 Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO 70% OFF WOMEN'S SWEATERSSELECT STYLESShop All
 
 *   LIMITED TIME SPECIAL!
     
-    $1760 sale
+    $1470 sale
     
-    was $44 Liz Claiborne Womens Boat Neck Long Sleeve Ombre Pullover SweaterAdd To Cart
+    was $49 St. John's Bay Zip Front Cable Cardigan - Plus(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1799 sale
     
-    was $44 St. John's Bay Womens Mock Neck Long Sleeve Pullover Sweater(14)Add To Cart
+    was $44 St. John's Bay Womens Mock Neck Long Sleeve Pullover Sweater(15)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
@@ -35,24 +35,24 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO
     was $34 St. John's Bay Long Sleeve Turtleneck Sweater - Tall(4)Add To Cart
 *   LIMITED TIME SPECIAL!
     
+    $1170 sale
+    
+    was $39 St. John's Bay Cable V-Neck Sweater - Plus(19)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
     $999 sale
     
     was $34 St. John's Bay Long Sleeve Cable Crew Sweater - Tall(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $1799 sale
+    $1170 sale
     
-    was $44 Liz Claiborne Womens Round Neck Long Sleeve Pullover Sweater(9)Add To Cart
+    was $39 St. John's Bay Cable Crew Neck Sweater - PlusAdd To Cart
 *   LIMITED TIME SPECIAL!
     
-    $999 sale
+    $1199 sale
     
-    was $34 St. John's Bay Long Sleeve Cable V-neck Sweater - Tall(5)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1799 sale
-    
-    was $44 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(9)Add To Cart
+    was $42 a.n.a Lace-Up Shoulder Detail Pullover Sweater - Plus(3)Add To Cart
 
 UP TO 70% CURTAINS &. DRAPES Shop AllSELECT STYLESUP TO 70% CURTAINS &. DRAPES SELECT STYLESShop All
 
@@ -94,28 +94,26 @@ UP TO 70% CURTAINS &. DRAPES Shop AllSELECT STYLESUP TO 70% CURTAINS &. DRAPES S
 
 Hot Sellers
 
-*   from$4999 sale
-    
-    was $100 - $200 | 50% offBiddeford™ MicroPlush Heated Blanket(991)
-*   $1799 sale
-    
-    was $36 | 50% offStafford Travel Easy-Care Stretch Broadcloth Mens Collar Neck Long Sleeve Dress Shirt(28)
-*   BIG BUY!
-    
-    from$15 sale
-    
-    was $50 - $120 | 70% offJCPenney Home™ Kathryn Room-Darkening Grommet-Top Curtain Panel(645)
 *   LIMITED TIME SPECIAL!
     
-    $4250 sale
+    $3999 sale
     
-    was $85 | 50% offNike Flex 2018 Womens Running Shoes Lace-up(1)
-*   $1999 sale
+    was $65 | 38% offNew Balance 590 Med Mens Running Shoes Lace-up
+*   from$2999 sale
     
-    was $42 | 52% offArizona Flex Relaxed-Fit Straight Jeans(511)
-*   $2999 sale
+    was $60 - $110 | 50 - 57% offJCPenney Home™ Waterproof Mattress Pad(234)
+*   from$42 sale
     
-    was $40 | 25% offMatrix Biolage Colorlast Value Set(3)
+    was $70 - $140 | 40% offLiz Claiborne Quinn Basketweave Room Darkening Grommet-Top Curtain Panel(565)
+*   $3999 sale
+    
+    was $70 | 42% offYuu™ Bethanee Slip-On Shoes(305)
+*   from$33 sale
+    
+    was $55 - $90 | 40% offJCPenney Home™ Prescott 1" Adjustable Curtain Rod(259)
+*   from$48 sale
+    
+    was $80 - $150 | 40% offLiz Claiborne Quinn Leaf Room Darkening Grommet-Top Curtain Panel(772)
 
 Shop and Save at JCPenney
 
