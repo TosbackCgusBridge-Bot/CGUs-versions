@@ -1,7 +1,7 @@
 Playoffs - WILD CARD
 
-*   IND10-6HOU11-5Sat, 4:35 pm ET
-*   SEA10-6DAL10-6Sat, 8:15 pm ET
+*   SEA10-722DAL11-624Final
+*   IND11-621HOU11-67Final
 *   LAC12-4BAL10-6Sun, 1:05 pm ET
 *   PHI9-7CHI12-4Sun, 4:40 pm ET
 
@@ -24,8 +24,8 @@ Playoffs - WILD CARD
 
 Playoffs - WC
 
-*   IND10-6HOU11-5Sat, 4:35 pm ET
-*   SEA10-6DAL10-6Sat, 8:15 pm ET
+*   SEA22DAL24Final
+*   IND21HOU7Final
 *   LAC12-4BAL10-6Sun, 1:05 pm ET
 *   PHI9-7CHI12-4Sun, 4:40 pm ET
 
@@ -51,7 +51,7 @@ Playoffs - WC
 *   Shop
 *   Teams
 
-NFL.com - Privacy Policy English
+BREAKING NEWSCowboys beat Seahawks to advance to Divisional RoundEzekiel Elliott, Dak Prescott lead Dallas to 24-22 win over Seattle.READ MORE NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
 Updated: December 20, 2018**  
@@ -249,4 +249,6 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy
+Attn: Website Privacy Policy  
+
+  Ezekiel Elliott, Dak Prescott lead Dallas to 24-22 win over Seattle.
