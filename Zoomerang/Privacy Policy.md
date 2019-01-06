@@ -18,27 +18,27 @@
 
 MetrixLab MetrixLab We help you make smarter business decisions faster.
 
-Emotions sell brands: How to capture the emotional resonance of your brands, ads and products
+Ditch the focus group for our faster, cheaper and more agile digital alternative
+
+How to maximize your Facebook and Instagram video advertising: Takeaways from our London event
+
+Our solutions Advertising &. brand Product innovation Customer value Point-of-purchase influencers Pre-testing Packaging design Social insights Case stories Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights Emotions sell brands: How to capture the emotional resonance of your brands, ads and products
 
 Sell more products in store: Optimize all your sales conversion tactics
 
-Our solutions Advertising &. brand Product innovation Customer value Point-of-purchase influencers Pre-testing Packaging design Social insights Case stories Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights 5 steps to creating successful branded video content
+5 steps to creating successful branded video content
 
 Broad vs narrow audiences: How to maximize the impact of your investment in mobile video ads on Facebook
 
 8 elements that should feature on your product packaging design
 
-Press release: MetrixLab expands into Italy and appoints Luca Antonietti as Managing Director
-
 Webinar: Groundbreaking tips on DTC digital advertising
-
-Instagram advertising: 5 tips for Instagram Stories ads
 
 Your questions about social influencers answered
 
-Whitepaper: Nine best practices for creating powerful packaging designs
+Whitepaper: 9 best practices for creating powerful packaging designs
 
-More insights and news
+Click for more research, insights and news
 
 Our story
 
