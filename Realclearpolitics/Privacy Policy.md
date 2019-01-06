@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -224,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Talks Resume After Trump Says Partial Shutdown Could Last Months, Years
 *   Speaker Again, Pelosi Sees "New Dawn" for 116th Congress
-*   After Border Talks Go Nowhere, Officials to Try Again Friday
-*   Pence: No Deal Without a Wall, No Border Security Without a Wall
+*   Full Replay: Trump Press Conference After Meeting With Lawmakers
 *   New Rivalry? Romney Barrels Into DC Attacking Trump's Character
 *   Elizabeth Warren Takes Big Step Toward 2020 Presidential Bid
 *   Presidential Job Approval
