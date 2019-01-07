@@ -63,7 +63,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   2019 Movie Preview: Disney Is About To Have One of The Greatest Years Ever Read More
-    *   The Week in Movie News: 2019 Previews, First ‘Us’ Trailer and More Read More
+    *   2019 Golden Globe Winners Read More
     *   Moviegoers Name ‘Avengers: Endgame’ the Most Anticipated Release of 2019 Read More
     
     Explore Content
