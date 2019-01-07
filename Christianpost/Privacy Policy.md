@@ -34,8 +34,8 @@ Hot Topics
 *   John Gray
 *   Beth Moore
 *   Abortion
-*   Transgender ideology
-*   Chrissy Metz
+*   Trump challengers
+*   '3rd gender'
 
 About Us
 
