@@ -58,8 +58,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Family Barn
+    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Backgammon: Board Game Online Multiplayer
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
@@ -167,7 +167,7 @@ View more results
     *   Electricman 2: Stickman Fighting Game
     *   Love Tester 2.0
     *   Burger Restaurant Express
-    *   BartenderSpotlight My Dolphin Show 8
+    *   Penguin Diner: Food Restaurant GameSpotlight My Dolphin Show 8
 *   Top Categories
     
     *   BMX Games
@@ -192,8 +192,8 @@ View more results
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Hill Racing Challenge
     *   Bike Racing: Motorcycle Game
-    *   Madalin Cars Multiplayer
-    *   Uphill Rush 7: WaterparkSpotlight Madalin Cars Multiplayer
+    *   Uphill Rush 7: Waterpark
+    *   Madalin Cars MultiplayerSpotlight Madalin Cars Multiplayer
 *   Top Categories
     
     *   Athletics
