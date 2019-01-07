@@ -105,7 +105,7 @@ Find Out More About the Animated Movie
 
 Kick-off your year with 2018’s “best movie.” Swing to your nearest theater today! #SpiderVerse 🕷️🎉 pic.twitter.com/tf7oS8QMXd
 
-3 days ago
+4 days ago
 
 View Tweet
 
@@ -147,7 +147,7 @@ Tune-In Sundays on STARZ
 
 Put your New Year’s Resolutions to work with Maddie at #SonySquareNYC. #aibo pic.twitter.com/6D0JBiz19X
 
-3 days ago
+4 days ago
 
 View Tweet
 
