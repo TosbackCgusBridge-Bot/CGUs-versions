@@ -1,4 +1,4 @@
-Ring in 2019 with up to 60% off! - shop the store adSee DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -20,39 +20,39 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO
 
 *   LIMITED TIME SPECIAL!
     
-    $1470 sale
+    $999 sale
     
-    was $49 St. John's Bay Zip Front Cable Cardigan - Plus(5)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1799 sale
-    
-    was $44 St. John's Bay Womens Mock Neck Long Sleeve Pullover Sweater(15)Add To Cart
+    was $32 Worthington Womens V Neck Long Sleeve Pullover Sweater(31)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $34 St. John's Bay Long Sleeve Turtleneck Sweater - Tall(4)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1170 sale
-    
-    was $39 St. John's Bay Cable V-Neck Sweater - Plus(19)Add To Cart
+    was $32 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(27)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
     
-    was $34 St. John's Bay Long Sleeve Cable Crew Sweater - Tall(2)Add To Cart
+    was $37 Worthington Womens V Neck Long Sleeve Stripe Pullover Sweater(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $1170 sale
+    $999 sale
     
-    was $39 St. John's Bay Cable Crew Neck Sweater - PlusAdd To Cart
+    was $37 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(34)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $1199 sale
+    $1320 sale
     
-    was $42 a.n.a Lace-Up Shoulder Detail Pullover Sweater - Plus(3)Add To Cart
+    was $44 Worthington Womens Long Sleeve Open Front Cardigan(55)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $1299 sale
+    
+    was $32 St. John's Bay Long Sleeve Cable V-Neck Pullover Sweater(111)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $1499 sale
+    
+    was $44 Worthington Womens Long Sleeve Open Front Cardigan(15)Add To Cart
 
 UP TO 70% CURTAINS &. DRAPES Shop AllSELECT STYLESUP TO 70% CURTAINS &. DRAPES SELECT STYLESShop All
 
@@ -94,26 +94,24 @@ UP TO 70% CURTAINS &. DRAPES Shop AllSELECT STYLESUP TO 70% CURTAINS &. DRAPES S
 
 Hot Sellers
 
-*   LIMITED TIME SPECIAL!
-    
-    $3999 sale
-    
-    was $65 | 38% offNew Balance 590 Med Mens Running Shoes Lace-up
 *   from$2999 sale
     
     was $60 - $110 | 50 - 57% offJCPenney Home™ Waterproof Mattress Pad(234)
-*   from$42 sale
+*   from$2499
     
-    was $70 - $140 | 40% offLiz Claiborne Quinn Basketweave Room Darkening Grommet-Top Curtain Panel(565)
-*   $3999 sale
+    Stafford Travel Stretch Performance Super Shirt Mens Collar Neck Long Sleeve Dress Shirt(6)
+*   $1999 sale
     
-    was $70 | 42% offYuu™ Bethanee Slip-On Shoes(305)
-*   from$33 sale
+    was $50 | 60% offStafford Flannel Pajama Set(18)
+*   from$30 sale
     
-    was $55 - $90 | 40% offJCPenney Home™ Prescott 1" Adjustable Curtain Rod(259)
-*   from$48 sale
+    was $60 - $130 | 50% offJCPenney Home Plaza Grommet-Top Lined Blackout Curtain Panel(1803)
+*   $2499 sale
     
-    was $80 - $150 | 40% offLiz Claiborne Quinn Leaf Room Darkening Grommet-Top Curtain Panel(772)
+    was $60 | 58% offArizona Womens Lilly Wedge Heel Lace-up Bootie(71)
+*   from$4999 sale
+    
+    was $100 - $200 | 50% offBiddeford™ MicroPlush Heated Blanket(992)
 
 Shop and Save at JCPenney
 
