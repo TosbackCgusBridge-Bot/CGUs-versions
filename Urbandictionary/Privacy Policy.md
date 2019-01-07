@@ -1,32 +1,12 @@
-Top definition privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 341 102 Get a privacy mug for your dog Georges.2 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 155 77 Get a privacy mug for your friend Zora.3 privacyunknownA thing that doesn't exist anymore.The government is always trying to find new ways to invade our privacy to the point where it is impossible to not be watched.by Dubiks October 29, 2018 6 1 Get a privacy mug for your grandma Yasemin.4 privacyunknownWhat was violated by the Patriot Act, and is now going to be violated in the near future by the National ID... that's right folks, you won't be able to hop on a plane without getting red lights shoved in your eye.Read it and weep. America is becoming the place for advertisements, pornography, and a complete lack of privacy.by ~The Nameless One~ June 03, 2005 105 64 Get a privacy mug for your girlfriend Julia.5 privacyunknownsomething that Tokio Hotel don't have.They need privacy.#tokio hotel#privacy#celeb#private#lifeby zimmer483 October 12, 2011 21 11 Get a privacy mug for your cousin Larisa.6 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 8 3 Get a privacy mug for your coworker Sarah.Trending RN - January 05, 2019
+Top definition privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 341 102 Get a privacy mug for your brother Günter.2 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 155 77 Get a privacy mug for your girlfriend Nathalie.3 privacyunknownA thing that doesn't exist anymore.The government is always trying to find new ways to invade our privacy to the point where it is impossible to not be watched.by Dubiks October 29, 2018 6 1 Get a privacy mug for your friend Beatrix.4 privacyunknownWhat was violated by the Patriot Act, and is now going to be violated in the near future by the National ID... that's right folks, you won't be able to hop on a plane without getting red lights shoved in your eye.Read it and weep. America is becoming the place for advertisements, pornography, and a complete lack of privacy.by ~The Nameless One~ June 03, 2005 105 64 Get a privacy mug for your cat Julia.5 privacyunknownsomething that Tokio Hotel don't have.They need privacy.#tokio hotel#privacy#celeb#private#lifeby zimmer483 October 12, 2011 21 11 Get a privacy mug for your coworker Abdul.6 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 8 3 Get a privacy mug for your dog Günter.Categories
 
-*     1.  NDP
-*     2.  the blowfish
-*     3.  soaring eagle
-*     4.  IDEKWTFID
-*     5.  log cutter
-*     6.  I'd split that in half
-*     7.  Dakke Dak
-*     8.  Invisible Children
-*     9.  cockle bread
-*   10.  Ferris Wheel
-*   11.  snowflake millennial
-*   12.  Hobbling
-*   13.  The Cooler
-*   14.  Brizz
-*   15.  total top
-*   16.  Deep Love
-*   17.  Kony 2012
-*   18.  pinkies up
-*   19.  Nancy Pelosi
-*   20.  sonned
-*   21.  Nappy Headed Hos
-*   22.  bottled it
-*   23.  slyly
-*   24.  chilango
-*   25.  chirps
-*   26.  Coachella
-*   27.  Cloutlighting
-*   28.  Jacking it in San Diego
-*   29.  Octopus Girl
-*   30.  sahm
+*   🍆 Sex
+*   🎓 College
+*   🚬 Drugs
+*   💬 Internet
+*   🎧 Music
+*   🍰 Food
+*   🙋🏽 Name
+*   📈 Work
+*   🙏 Religion
+*   ⚽️ Sports
