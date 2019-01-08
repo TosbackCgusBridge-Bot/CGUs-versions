@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   7\. Januar 2019
+*   8\. Januar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 10.767,69ǀ
+*   DAX 10.747,81ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -159,7 +159,6 @@ Anmelden
     *   *   Übersicht
         *   Tests
         *   Fahrkultur
-        *   IAA 2017
 *   Stil
     
     *   *   Übersicht
@@ -371,6 +370,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-BESbswyBESbswyBESbswy
