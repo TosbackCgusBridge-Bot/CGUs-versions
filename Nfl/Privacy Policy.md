@@ -1,9 +1,9 @@
 Playoffs - WILD CARD
 
-*   PHI10-716CHI12-515Final
-*   LAC13-423BAL10-717Final
 *   IND11-621HOU11-67Final
 *   SEA10-722DAL11-624Final
+*   LAC13-423BAL10-717Final
+*   PHI10-716CHI12-515Final
 
 *   News
 *   Scores
@@ -24,10 +24,10 @@ Playoffs - WILD CARD
 
 Playoffs - WC
 
-*   PHI16CHI15Final
-*   LAC23BAL17Final
 *   IND21HOU7Final
 *   SEA22DAL24Final
+*   LAC23BAL17Final
+*   PHI16CHI15Final
 
 *   News
 *   Scores
