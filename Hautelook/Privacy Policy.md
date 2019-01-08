@@ -8,47 +8,66 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Vertigo Up to 90% Off
+    *   AllSaints
+    *   AllSaints Men
+    *   AllSaints Coats
+    *   Sperry Booties, Sneakers &. More from $40
+    *   AllSaints Handbags
+    *   Sperry Men's Boots &. More
+    *   Nostalgia Up to 65% Off
+    *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
+    *   Casual Faves: Must-Have Dresses &. More
+    *   Angie
+    *   Norma Kamali Up to 70% Off
+    *   Beauty Heroes: Serums, Oils &. More from $10
+    *   Paisley &. Gray
+    *   Everyone Loves Leftovers: Christmas Sweaters
+    *   Free Shipping: Metal &. Wood Wall Decor
+    *   Little Miss Twin Stars
+    *   Skechers Kids from $15
+    *   Kids' Premium Denim Shop
+    *   Jag Jeans &. More Incl. Plus &. Petites
+    *   MUK LUKS Boots, Socks &. More Up to 65% Off
+    *   Backpacks Starting at $20
     *   Coats Up to 60% Off
-    *   Great Gifts: Men's Blowout
-    *   Jewelry Box Essentials Up to 80% Off
-    *   Amrapur Towels Up to 80% Off
-    *   Sunday Steals Up to 80% Off
-    *   Tech Blowout: Bluetooth Gadgets, Chargers &. More
-    *   On Trend: Olivia Welles Jewelry Up to 75% Off
-    *   Women's Loafers, Booties &. More Up to 60% Off
-    *   Men's Shoes Up to 65% Off
-    *   Designer Sun ft. Saint Laurent &. More
-    *   Nanette Nanette Lepore
+    *   Vertigo Up to 90% Off
     *   Michael Stars
-    *   Catherine Catherine Malandrino Shoes from $20
+    *   Jewelry Box Essentials Up to 80% Off
+    *   Women's Loafers, Booties &. More Up to 60% Off
+    *   On Trend: Olivia Welles Jewelry Up to 75% Off
+    *   Sunday Steals Up to 80% Off
+    *   Great Gifts: Men's Blowout
+    
+    *   Men's Shoes Up to 65% Off
+    *   Free Shipping: Amrapur Towels Up to 80% Off
+    *   Nanette Nanette Lepore
+    *   DKNY Lingerie &. Sleep
+    *   Tech Blowout: Bluetooth Gadgets, Chargers &. More
+    *   Diesel Men's Apparel Up to 50% Off
+    *   Designer Sun ft. Saint Laurent &. More
     *   New Year, New Look: Suits Under $250
     *   Valentino by Mario Valentino
     *   Vacay Ready: Denim Shorts &. More
-    *   Diesel Men's Shoes Up to 50% Off
-    *   Bulova &. Citizen Watches Up to 60% Off
-    *   bebe Sport
-    *   DKNY Lingerie &. Sleep
+    *   Bravado Designs Maternity &. Nursing Intimates
     *   Luxe Bedding for Every Style
     *   Spa Day Essentials: Bath Bombs
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   bebe Sport
     *   Good Choice New York Booties &. More from $30
     *   Diesel Men's Shoes
-    *   Bravado Designs Maternity &. Nursing Intimates
     *   Coccoli
     *   Natural Blue Up to 70% Off
     *   Electric Yoga Maternity
     *   Gear Up for Baby: Diaper Bags, Blankets &. More
-    *   Jag Jeans &. More Incl. Plus &. Petites
-    *   Spyder Outerwear
+    *   Catherine Catherine Malandrino Shoes from $20
     *   DR2 by Daniel Rainn Under $35 Incl. Plus &. Petites
-    
     *   Camper
     *   Adornia Jewelry Up to 80% Off
     *   Plus Shop: Office-Ready Dresses &. More
     *   Statement Earrings &. Necklaces Under $20
     *   Kenneth Cole Reaction Men
-    *   Trending Now: Men's Styles Under $40
     *   Skinn Cosmetics Up to 70% Off
+    
     *   Sanuk for the Family
     *   Culinary Upgrades: Breville Cookware &. More
     *   Honeydew Sleep &. Lingerie Under $30
@@ -60,74 +79,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Punk Royal
     *   Retro Metal &. Wooden Decor
     *   Hit Snooze: Pillows, Blankets &. More
+    *   New Steals Incl. Plus &. Petites
     *   Kenneth Cole New York
-    *   Go Couture Up to 80% Off
-    *   Booties, Sneakers &. More Up to 65% Off
-    *   Men's Sale Steals Up to 80% Off
     *   Men's Boots &. More Up to 75% Off
-    *   True Religion Starting at $60
-    *   True Religion Men Up to 65% Off
-    *   Steve Madden Starting at $20
-    *   Abound Under $35
-    *   Sisters Sweaters Up to 60% Off
-    *   18K Gold &. Sterling Silver ft. Anna Beck
     *   Best of Beauty: Makeup, Fragrances &. More
-    *   Meredith Leigh Gemstone Jewelry Under $80
-    *   True Religion Kids Up to 65% Off
     *   Show Your Love: Valentine's Day Decor
-    
     *   Steve Madden Men
-    *   Swim ft. Red Carter Up to 70% Off
-    *   Nordstrom Rack Exclusive: Abound Shoes
-    *   Betsey Johnson Handbags &. More Under $50
     *   Collagen Skin Care: Masks, Serums &. More
-    *   Boots ft. Eric Michael &. Crevo
     *   Free Shipping: Empire Art
-    *   On-Trend Looks for Tweens
-    *   LOVE Moschino
     *   OXO Kitchen Gadgets Starting at $10
     *   Sky Organics
-    *   Girls' Brands We Love Under $25
-    *   Ben Sherman Shoes Up to 65% Off
-    *   Lindbergh
     *   Free Shipping: Giftable Candles &. More
-    *   Boys' Brands We Love Under $25
-    *   Brands We Love: Kids' Shoes Under $25
-    *   Teami Blends Detox Teas &. Supplements
-    *   Lalafox Cosmetics
     *   Free Shipping: Sensor Trash Cans Under $60
     *   Free Shipping: Professional Garment Steamers
     *   Stay Hydrated: Insulated Stainless Steel Bottles
     *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Sleek Tabletop Decor &. More
     *   Free Shipping: Jewelry Storage for Every Style
-    *   Free Shipping: Hangers &. Post-Holiday Storage
-    *   Free Shipping: Colorful Lamps
-    *   Modern Makeover: Sleek Accent Decor
     *   Office Style: Casual Friday Finds for Him
-    *   New Steals Incl. Plus &. Petites
-    *   Top It Off: Polished Pieces Incl. Plus &. Petites
 *   WomenShop Sale Events
     
-    *   Vertigo Up to 90% Off
+    *   AllSaints
+    *   AllSaints Coats
+    *   Sperry Booties, Sneakers &. More from $40
+    *   AllSaints Handbags
+    *   Nostalgia Up to 65% Off
+    *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
+    *   Casual Faves: Must-Have Dresses &. More
+    *   Angie
+    *   Norma Kamali Up to 70% Off
+    *   Beauty Heroes: Serums, Oils &. More from $10
+    *   Jag Jeans &. More Incl. Plus &. Petites
+    *   MUK LUKS Boots, Socks &. More Up to 65% Off
     *   Coats Up to 60% Off
-    *   Jewelry Box Essentials Up to 80% Off
-    *   Sunday Steals Up to 80% Off
-    *   On Trend: Olivia Welles Jewelry Up to 75% Off
-    *   Women's Loafers, Booties &. More Up to 60% Off
-    *   Designer Sun ft. Saint Laurent &. More
-    *   Nanette Nanette Lepore
+    *   Vertigo Up to 90% Off
     *   Michael Stars
-    *   Catherine Catherine Malandrino Shoes from $20
+    *   Jewelry Box Essentials Up to 80% Off
+    *   Women's Loafers, Booties &. More Up to 60% Off
+    *   On Trend: Olivia Welles Jewelry Up to 75% Off
+    *   Sunday Steals Up to 80% Off
+    *   Nanette Nanette Lepore
+    *   DKNY Lingerie &. Sleep
+    *   Designer Sun ft. Saint Laurent &. More
     *   Valentino by Mario Valentino
     *   Vacay Ready: Denim Shorts &. More
+    
+    *   Spa Day Essentials: Bath Bombs
     *   Bulova &. Citizen Watches Up to 60% Off
     *   bebe Sport
-    *   DKNY Lingerie &. Sleep
-    *   Spa Day Essentials: Bath Bombs
     *   Good Choice New York Booties &. More from $30
     *   Electric Yoga Maternity
-    *   Jag Jeans &. More Incl. Plus &. Petites
+    *   Catherine Catherine Malandrino Shoes from $20
     *   DR2 by Daniel Rainn Under $35 Incl. Plus &. Petites
     *   Camper
     *   Adornia Jewelry Up to 80% Off
@@ -136,99 +138,78 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Skinn Cosmetics Up to 70% Off
     *   Sanuk for the Family
     *   Honeydew Sleep &. Lingerie Under $30
-    
     *   Socialite Starting at $10
     *   Lost Ink Starting at $30
     *   Western Boots &. Booties Up to 60% Off
     *   Seychelles Up to 45% Off
     *   MealEnders Lozenges
-    *   Kenneth Cole New York
-    *   Go Couture Up to 80% Off
-    *   Booties, Sneakers &. More Up to 65% Off
-    *   True Religion Starting at $60
-    *   Steve Madden Starting at $20
-    *   Abound Under $35
-    *   Sisters Sweaters Up to 60% Off
-    *   18K Gold &. Sterling Silver ft. Anna Beck
-    *   Best of Beauty: Makeup, Fragrances &. More
-    *   Meredith Leigh Gemstone Jewelry Under $80
-    *   Swim ft. Red Carter Up to 70% Off
-    *   Nordstrom Rack Exclusive: Abound Shoes
-    *   Betsey Johnson Handbags &. More Under $50
-    *   Collagen Skin Care: Masks, Serums &. More
-    *   Boots ft. Eric Michael &. Crevo
-    *   LOVE Moschino
-    *   Sky Organics
-    *   Teami Blends Detox Teas &. Supplements
-    *   Lalafox Cosmetics
     *   New Steals Incl. Plus &. Petites
-    *   Top It Off: Polished Pieces Incl. Plus &. Petites
+    *   Kenneth Cole New York
+    *   Best of Beauty: Makeup, Fragrances &. More
+    *   Collagen Skin Care: Masks, Serums &. More
+    *   Sky Organics
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Lingerie
     *   Handbags
-    *   Jewelry
     *   Accessories
-    *   Tech Accessories
+    *   Jewelry
     *   Watches
 *   MenShop Sale Events
     
+    *   AllSaints Men
+    *   Sperry Men's Boots &. More
+    *   Paisley &. Gray
+    *   Everyone Loves Leftovers: Christmas Sweaters
+    *   Backpacks Starting at $20
     *   Great Gifts: Men's Blowout
     *   Men's Shoes Up to 65% Off
+    *   Diesel Men's Apparel Up to 50% Off
     *   New Year, New Look: Suits Under $250
-    *   Diesel Men's Shoes Up to 50% Off
     *   Bulova &. Citizen Watches Up to 60% Off
+    
     *   Diesel Men's Shoes
     *   Natural Blue Up to 70% Off
-    *   Spyder Outerwear
     *   Kenneth Cole Reaction Men
-    *   Trending Now: Men's Styles Under $40
     *   Sanuk for the Family
-    
     *   MealEnders Lozenges
     *   Punk Royal
-    *   Men's Sale Steals Up to 80% Off
     *   Men's Boots &. More Up to 75% Off
-    *   True Religion Men Up to 65% Off
     *   Steve Madden Men
-    *   Ben Sherman Shoes Up to 65% Off
-    *   Lindbergh
-    *   Teami Blends Detox Teas &. Supplements
     *   Office Style: Casual Friday Finds for Him
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Little Miss Twin Stars
+    *   Skechers Kids from $15
+    *   Kids' Premium Denim Shop
     *   Bravado Designs Maternity &. Nursing Intimates
     *   Coccoli
     *   Electric Yoga Maternity
     *   Gear Up for Baby: Diaper Bags, Blankets &. More
     *   Sanuk for the Family
-    *   True Religion Kids Up to 65% Off
-    *   On-Trend Looks for Tweens
-    *   Girls' Brands We Love Under $25
-    *   Boys' Brands We Love Under $25
-    *   Brands We Love: Kids' Shoes Under $25
     
     Shop By Category
-    *   Boys Sizes 2T-7
-    *   Boys Sizes 8-20
-    *   Girls Sizes 7-16
-    *   Girls Sizes 2T-6X
     *   Girls' Shoes
-    *   Baby Boy
-    *   Baby Girl
-    *   Boys' Shoes
     *   Baby Gear &. Essentials
+    *   Boys' Shoes
+    *   Girls Sizes 7-16
+    *   Baby Girl
+    *   Baby Boy
+    *   Boys Sizes 2T-7
+    *   Girls Sizes 2T-6X
+    *   Boys Sizes 8-20
 *   HomeShop Sale Events
     
-    *   Amrapur Towels Up to 80% Off
+    *   Free Shipping: Metal &. Wood Wall Decor
+    *   Free Shipping: Amrapur Towels Up to 80% Off
     *   Tech Blowout: Bluetooth Gadgets, Chargers &. More
     *   Luxe Bedding for Every Style
     *   Culinary Upgrades: Breville Cookware &. More
@@ -236,36 +217,32 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Hit Snooze: Pillows, Blankets &. More
     *   Show Your Love: Valentine's Day Decor
     *   Free Shipping: Empire Art
+    
     *   OXO Kitchen Gadgets Starting at $10
     *   Free Shipping: Giftable Candles &. More
-    
     *   Free Shipping: Sensor Trash Cans Under $60
     *   Free Shipping: Professional Garment Steamers
     *   Stay Hydrated: Insulated Stainless Steel Bottles
     *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Sleek Tabletop Decor &. More
     *   Free Shipping: Jewelry Storage for Every Style
-    *   Free Shipping: Hangers &. Post-Holiday Storage
-    *   Free Shipping: Colorful Lamps
-    *   Modern Makeover: Sleek Accent Decor
     
     Shop By Category
     *   Kitchen &. Tabletop
-    *   Home Decor
     *   Luggage &. Travel
+    *   Home Decor
     *   Bath
     *   Storage &. Organization
     *   Bedding
 *   BeautyShop Sale Events
     
+    *   Beauty Heroes: Serums, Oils &. More from $10
     *   Spa Day Essentials: Bath Bombs
     *   Skinn Cosmetics Up to 70% Off
     *   MealEnders Lozenges
     *   Best of Beauty: Makeup, Fragrances &. More
     *   Collagen Skin Care: Masks, Serums &. More
     *   Sky Organics
-    *   Teami Blends Detox Teas &. Supplements
-    *   Lalafox Cosmetics
     
     Shop By Category
     *   Makeup
