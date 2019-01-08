@@ -64,7 +64,7 @@ Get Inspired
 *   The Dish - Blog
 *   Top Styles
 
-The Christmas Shoppe My Account Contact Us Shopping Cart Cart0 China  
+My Account Contact Us Shopping Cart Cart0 China  
 Dinnerware Crystal  
 Glassware Silver  
 Flatware Estate  
@@ -174,15 +174,15 @@ Jewelry
     
     *   Dinnerware Sets &. More
     *   Warehouse Sale
-    *   LookbooksHoliday Lookbook >.
+    *   LookbooksShop dinnerware, gifts &. more >.
 
 *   Our Story
 *   Services
 *   Specialty Shops
+*   Get Inspired
 *   Register Patterns
 *   Store
 *   Contact Us
-*   The Christmas Shoppe
 
 Privacy Policy
 
