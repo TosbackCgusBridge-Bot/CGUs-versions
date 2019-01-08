@@ -6,35 +6,44 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Aquaman
+    *   Escape Room (2019)
     *   Mary Poppins Returns (2018)
-    *   Bumblebee
     *   Spider-Man: Into the Spider-Verse
+    *   Bumblebee
     *   The Mule (2018)
     *   Vice (2018)
-    *   Holmes &. Watson
     *   Second Act
     *   Ralph Breaks the Internet
-    *   Dr. Seuss' The Grinch (2018)
-    *   Mary Queen of Scots (2018)
+    *   Holmes &. Watson
+    *   Bohemian Rhapsody
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Escape Room (2019)
-    *   Great Great Great
-    *   Mojin: The Worm Valley
-    *   See All Opening This Week
-    
-    Coming Soon
-    
     *   A Dog's Way Home
     *   Replicas
     *   The Upside
+    *   On the Basis of Sex
+    *   The Aspern Papers
+    *   Perfectos Desconocidos
+    *   Sgt. Will Gardner
+    *   The Untold Story
+    *   See All Opening This Week
+    
+    Pre Sales Tickets
+    
+    *   Captain Marvel (2019)
+    
+    Coming Soon
+    
     *   Glass (2019)
     *   Serenity (2019)
     *   The Kid Who Would Be King
-    *   Jacob's Ladder (2018)
     *   Miss Bala (2019)
+    *   Cold Pursuit
+    *   The Lego Movie 2: The Second Part
+    *   The Prodigy (2019)
+    *   What Men Want
     *   See All Coming Soon
     
     Explore More
@@ -62,9 +71,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   2019 Movie Preview: Disney Is About To Have One of The Greatest Years Ever Read More
-    *   2019 Golden Globe Winners Read More
-    *   Moviegoers Name ‘Avengers: Endgame’ the Most Anticipated Release of 2019 Read More
+    *   First ‘Hellboy’ Trailer Arrives Just in Time. Here’s Everything We Know Read More
+    *   2019 Golden Globes: Top 5 Moments Read More
+    *   'A Star Is Born' Leads Screen Actors Guild Award Nominations Read More
     
     Explore Content
     *   Movie Reviews
