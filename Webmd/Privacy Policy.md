@@ -80,7 +80,7 @@ Skip to main content
     *   Healthy Teens
     *   Fit Kids
     
-    Featured Topics*   Slideshow Heartburn Relief for Every Holiday
+    Featured Topics*   Slideshow 15 Ways to Keep Your Mind Young
     *   Slideshow Tips to Help You Stop Wasting Time
 *   Family &  
     Pregnancy Family &. Pregnancy Family &. Pregnancy All About Pregnancy
