@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -107,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Ryan Cooper_: A Green New Deal for Cars Would Be Easier Than You Think
+*   _Barry Ritholtz_: The Economy Is Finally Coming Through for U.S. Workers
     
-*   _Christopher Caldwell_: Europe Is a Continent in Crisis
+*   _J.D. Vance_: The Health of Nations
     
-*   _Adam Minter_: No, China Isn't Winning the Space Race
+*   _James Fallows_: Trump Is Grinding the System to a Halt
     
-*   _Alex Berenson_: What Advocates of Legalizing Pot Don't Want You to Know
+*   _Charles Hurt_: How About a Taxpayer Shutdown?
     
-*   _Russell Berman_: An Awkward Beginning to Democratic Control of the House
+*   _Howell Raines_: Democrats Have Changed the Game on Trump
     
-*   _Joel Mathis_: Romney Just Joined the Resistance
+*   _Ed Morrissey_: Ocasio-Cortez: Facts Don't Matter When You're 'Morally Right'
     
-*   _Michael Knowles_: Mitt Romney's Character Problem
+*   _Maureen Dowd_: Boogie Down, Bronx Girl
     
-*   _Margaret Carlson_: Pelosi Knows Art of the Deal, Trump Just Talks About It
+*   _Adriana Cohen_: A Good Dancer Who Is Clueless on Tax Policy
     
-*   _Matthew Continetti_: The Coming Democratic Disillusion
+*   _Fred Kaplan_: Are We Actually Getting Out of Syria?
     
-*   _Susan Glasser_: Is Optimism Dead in the Trump Era?
+*   _Eric Cortellessa_: The Democrats' Pop-Up Foreign Policy Problem
     
-*   _Kalev Leetaru_: Media's 'Blue Wave' Morphs Into a 'Diverse' Congress
+*   _Martin &. Burns_: Biden Sees Himself as Dems' Best Hope in 2020
     
-*   _Konstantin Kisin_: The New War on Comedy
+*   _Peter Van Buren_: Dems Need a Brutal Primary to Beat Trump
     
-*   _Noah Berlatsky_: Privileged White Parents Help Prop Up Our Racist System
+*   _Jill Lawrence_: 2020 Is Elizabeth Warren's Moment, Win or Lose
     
-*   _Walter Williams_: The Worst Enemy of Black People
+*   _Karol Markowicz_: It's Not Sexist to Call Elizabeth Warren 'Unlikable'
     
-*   _Greg Orman_: Why I Remained an Independent Candidate in Kansas
+*   _Richard Wolffe_: Will It Be a Black Woman Who Runs Trump Out of Office?
     
-*   _Simon Jenkins_: Trump's Right--World Must Start Solving Its Own Problems
+*   _Frank Miele_: Mitt Romney: 'Ready for My Close-Up, Mr. DeMille'
     
-*   _David Ignatius_: Trump's Perilous Withdrawal From Syria
+*   _Rashida Tlaib &. John Bonifaz_: The Time to Impeach Trump Is Now
     
-*   _Ken Masugi_: Nationalism Is America's Comeback Kid
+*   _Byron York_: What, Precisely, Do Democrats Want to Impeach Trump For?
     
-*   _Ronald Brownstein_: Why New Dem Majority Could Work Better Than the Last
+*   _James Piereson_: On Machiavelli, Trump and Modern Politics
     
-*   _Rich Lowry_: Democrats' Irrational Allergy to the Wall
+*   _Tobin Harshaw_: Richard Danzig on China, Soft Power, and Endless War
     
-*   _Terry McAuliffe_: Countering Trump's Lies With Realistic Solutions
+*   _Mary Anastasia O'Grady_: Brazil's Primal Scream for Freedom
     
-*   _Corey Lewandowski_: Three Top Priorities for 2019 to 'Keep America Great'
+*   _Tina Park_: Why 2019 Holds the Key to Peace on the Korean Peninsula
     
-*   _Peter Coy_: Does Trump Deserve the Blame for Stock Market Plunge?
+*   _Bradley Blakeman_: Trump Is Right to Stand Firm on Border Promise
     
-*   _John Harris_: Why Guys Like Mitt Romney Don't Scare Donald Trump
+*   _Mattathias Schwartz_: In the Rio Grande Valley With U.S. Border Patrol
     
 
 *   Previous
@@ -224,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Talks Resume After Trump Says Partial Shutdown Could Last Months, Years
+*   Trump's Unpredictable Negotiating Style Faces Test
+*   Bolton Puts Conditions on Plan for Withdrawal From Syria
+*   Durbin: Deal Remains Elusive Because Trump "Doesn't Care"
 *   Speaker Again, Pelosi Sees "New Dawn" for 116th Congress
-*   Full Replay: Trump Press Conference After Meeting With Lawmakers
 *   New Rivalry? Romney Barrels Into DC Attacking Trump's Character
-*   Elizabeth Warren Takes Big Step Toward 2020 Presidential Bid
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -241,24 +243,24 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Direction of CountryRasmussen Reports
+    *   Right Direction37
+    *   Wrong Track57Wrong Track +20
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve41
     *   Disapprove54Disapprove +13
 *   Congressional Job ApprovalReuters/Ipsos
     *   Approve26
     *   Disapprove63Disapprove +37
-*   Direction of CountryReuters/Ipsos
-    *   Right Direction33
-    *   Wrong Track55Wrong Track +22
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve45
-    *   Disapprove53Disapprove +8
 
 More Latest Polls In The News
 
 *   Pelosi: The Impression You Get Is That Trump Would Like To "Abolish Congress," So He Will Be The Only Voice
-*   Chris Wallace to Sarah Sanders: Is Trump Serious About Declaring National Emergency To Build Wall?
 *   Sanders: Trump "Means What He Says" That Shutdown Could Last "Years". Democrats Unwilling To Let Trump "Win"
+*   Chris Wallace to Sarah Sanders: Is Trump Serious About Declaring National Emergency To Build Wall?
 *   Ocasio-Cortez: People More Concerned About Me Being "Factually Correct" Than "Morally Right"
 *   Trump: I Can Call A "National Emergency" And Build The Wall "Very Quickly". "I Haven't Done It, I May Do It"
 
