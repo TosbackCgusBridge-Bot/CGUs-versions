@@ -71,7 +71,7 @@ MenuSearch Close
     
     *   Individual Shipper
     *   Small Business
-    *   Mid-to-Large Businesses
+    *   Business Shipping: Mid-to-Large Businesses
     *   Customized Solutions
     
     By Industry
@@ -170,6 +170,6 @@ Legal
 
   
 
-Copyright ©1994- 2018 United Parcel Service of America, Inc. All rights reserved.
+Copyright ©1994- 2019 United Parcel Service of America, Inc. All rights reserved.
 
 Play IconFeedback
