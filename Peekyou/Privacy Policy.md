@@ -68,9 +68,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 46%  2% 
+What is PeekScore? Public Records &. Background Checks 50%  3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -116,7 +116,7 @@ What is PeekScore? Public Records &. Background Checks 46%  2% 
     
 *   Show Less ...
 
-46%  2% 
+50%  3% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -169,8 +169,6 @@ Arrest Records &. Driving Infractions
     Search their Arrest Records, Driving Records, Contact Information, Photos and More...
     
 
-Phonebook
-
 *   We Found Privacy Policy
     
 *   1) Privacy Policy's Phone &. Current Address View All Details
@@ -203,7 +201,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 2% 
+Facebook 3% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -263,7 +261,7 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 2% 
+Twitter 3% 
 
 *   CDC - CDCgov
     
@@ -309,7 +307,7 @@ Twitter 2% 
     
 *   Show Less ...
 
-Instagram 2% 
+Instagram 3% 
 
 *   our privacy policy - itswinterhxe
     
@@ -361,7 +359,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Myspace 2% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -385,7 +383,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Google+ 2% 
+Google+ 3% 
 
 *   Lauren Weinstein
     
@@ -427,7 +425,7 @@ Google+ 2% 
     
 *   Show Less ...
 
-Pinterest 46%  Wikipedia 2% 
+Pinterest 50%  Wikipedia 3% 
 
 *   Privacy policy
     
@@ -442,7 +440,7 @@ Pinterest 46%  Wikipedia 2% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Music 2% 
+Music 3% 
 
 *   Pandora
     
@@ -488,22 +486,7 @@ Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
-
-*   Flickriver
-    
-    Flickriver - view images as a 'river of photos' and more...
-    
-*   Flickr
-    
-    Flickr (pronounced "flicker") is an image hosting service and video hosting service.It was created by Ludicorp in 2004. It has changed ownership several times and has been owned by SmugMug since April 2018. In addition to being a popular website for users to share and embed personal photographs and an online community, the service is widely used by photo researchers and by bloggers to host ...
-    
-*   ‎Flickr on the App Store
-    
-    Upload, access, organize, edit, and share your photos from any device, from anywhere in the world. • Put your free 1000GB to work - auto-upload all your photos and videos to your Flickr camera roll.
-    
-
-Web Search 2% 
+Web Search 3% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -549,7 +532,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 3% 
 
 3
 
