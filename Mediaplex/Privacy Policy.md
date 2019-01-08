@@ -224,4 +224,5 @@ Reach real people, see big results.
 
 Go to CJ Affiliate
 
-By continuing to use this site you are giving us your consent to the processing of your personal data in accordance with and as described in the Epsilon Privacy Policy and Conversant Privacy Policy. You may withdraw your consent at any time as outlined in such policies.
+Epsilon Privacy Policy | Conversant Privacy Policy | Terms &. Conditions  
+©2018 Epsilon Data Management, LLC
