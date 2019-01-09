@@ -201,7 +201,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 3% 
+Facebook 2% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -261,7 +261,7 @@ Facebook 3% 
     
 *   Show Less ...
 
-Twitter 3% 
+Twitter 2% 
 
 *   CDC - CDCgov
     
@@ -307,7 +307,7 @@ Twitter 3% 
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 2% 
 
 *   our privacy policy - itswinterhxe
     
@@ -359,7 +359,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Myspace 3% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -383,7 +383,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Google+ 3% 
+Google+ 2% 
 
 *   Lauren Weinstein
     
@@ -425,7 +425,7 @@ Google+ 3% 
     
 *   Show Less ...
 
-Pinterest 50%  Wikipedia 3% 
+Pinterest 50%  Wikipedia 2% 
 
 *   Privacy policy
     
@@ -440,7 +440,7 @@ Pinterest 50%  Wikipedia 3% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Music 3% 
+Music 2% 
 
 *   Pandora
     
@@ -486,7 +486,7 @@ Music 3% 
     
 *   Show Less ...
 
-Web Search 3% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -532,7 +532,7 @@ Web Search 3% 
     
 *   Show Less ...
 
-Images 3% 
+Images 2% 
 
 3
 
