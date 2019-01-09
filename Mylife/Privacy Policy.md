@@ -9,7 +9,7 @@ Log in to MyLife
 
 Not a member yet? Join now.
 
-Log In with Facebook OR Log In Forgot your password?
+Log In Forgot your password?
 
 Find Anyone:
 
