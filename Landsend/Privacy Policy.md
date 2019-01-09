@@ -142,7 +142,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Kids' Hats, Gloves &. Scarves
     *   Kids' Iron Knees Pants
     *   Kids' Backpacks &. Lunch Boxes
-    *   Kids' Swim Shop
     
     Kids' Sale>Girls' Clothing>
     
@@ -412,8 +411,12 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Home
     
     SHOP NEW COLLECTIONS
+    
     *   Weather Channel Collection
     *   The Heritage Collection
+    
+    BLOG
+    *   The Journal
 *   Sale WOMEN'S SALE >
     
     *   Regular
@@ -596,7 +599,6 @@ Lands' End Sign In menu
         *   Kids' Hats, Gloves &. Scarves
         *   Kids' Iron Knees Pants
         *   Kids' Backpacks &. Lunch Boxes
-        *   Kids' Swim Shop
     *   Kids' Sale
     *   Girls' Clothing
         *   Back
@@ -884,6 +886,9 @@ Lands' End Sign In menu
         *   Back
         *   Weather Channel Collection
         *   The Heritage Collection
+    *   BLOG
+        *   Back
+        *   The Journal
     *   Women
     *   Men
     *   Girls
@@ -961,9 +966,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: SNOWBALL pin: 9668 DETAILS
+code: SHIMMER pin: 2567 DETAILS
 
 Customer Service Menu
 
