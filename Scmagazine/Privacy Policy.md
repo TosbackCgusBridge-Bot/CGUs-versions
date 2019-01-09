@@ -33,7 +33,7 @@ Skip to navigation Skip to main content Login Register Menu Close
 *   In DepthOpen Submenu
     *   In Depth Back
         *   SC Media Print Archive
-        *   SC Media December 2018-January 2019
+        *   Reboot 2018-19
         *   Features
         *   Reboot Leadership Awards 2018
         *   Director's Cut Videos
