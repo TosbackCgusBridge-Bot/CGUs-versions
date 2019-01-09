@@ -103,7 +103,7 @@ search Learn More About the Unveiling of Our Latest Innovative Technology Explor
 
 NEW: Step into the world of 8K. Introducing the all-new Sony MASTER Series Z9G 8K HDR LED TV #SonyMasterSeries #SonyCES Learn more:  http://bit.ly/SonyZ9G  pic.twitter.com/D0enOppcGh
 
-5 hours ago
+1 day ago
 
 View Tweet
 
@@ -143,7 +143,7 @@ See “A Dog’s Way Home” This Week
 
 Thanks to the #HFPA for selecting @SpiderVerse as Best Motion Picture - Animated at this year’s #GoldenGlobes! 🕷️ pic.twitter.com/pKwuo2lHZe
 
-1 day ago
+2 days ago
 
 View Tweet
 
