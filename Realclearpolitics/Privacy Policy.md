@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Barry Ritholtz_: The Economy Is Finally Coming Through for U.S. Workers
+*   _Ira Stoll_: Trump's Promise-Keeping Confounds the Fact Checkers
     
-*   _J.D. Vance_: The Health of Nations
+*   _Leon Krauze_: The Only Emergency on the Border Is Trump's Lies
     
-*   _James Fallows_: Trump Is Grinding the System to a Halt
+*   _Derek Hunter_: In What Way Do Democrats Support Border Security?
     
-*   _Charles Hurt_: How About a Taxpayer Shutdown?
+*   _George Packer_: This Is What the Suicide of a Great Democracy Looks Like
     
-*   _Howell Raines_: Democrats Have Changed the Game on Trump
+*   _Steve Cortes_: U.S. Manufacturing Jobs: From Carnage to Confidence
     
-*   _Ed Morrissey_: Ocasio-Cortez: Facts Don't Matter When You're 'Morally Right'
+*   _Paul Krugman_: The Economics of Soaking the Rich
     
-*   _Maureen Dowd_: Boogie Down, Bronx Girl
+*   _Tyler Cowen_: Dems' Latest Tax Idea Is Bad Economics, Worse Politics
     
-*   _Adriana Cohen_: A Good Dancer Who Is Clueless on Tax Policy
+*   _Charles Pena_: It's Well Past Time to Withdraw From Afghanistan
     
-*   _Fred Kaplan_: Are We Actually Getting Out of Syria?
+*   _Dominic Tierney_: The U.S. Isn't Really Leaving Syria and Afghanistan
     
-*   _Eric Cortellessa_: The Democrats' Pop-Up Foreign Policy Problem
+*   _Daniel DePetris_: Bolton: Foreign Policy Architect or Saboteur?
     
-*   _Martin &. Burns_: Biden Sees Himself as Dems' Best Hope in 2020
+*   _Nicholas Kristof_: Why 2018 Was the Best Year in Human History!
     
-*   _Peter Van Buren_: Dems Need a Brutal Primary to Beat Trump
+*   _Bill Scher_: Trump Is Losing--His Best Move Is to Fold Now
     
-*   _Jill Lawrence_: 2020 Is Elizabeth Warren's Moment, Win or Lose
+*   _John Feehery_: Trump Keeping His Wall Promise Is a Nightmare for Dems
     
-*   _Karol Markowicz_: It's Not Sexist to Call Elizabeth Warren 'Unlikable'
+*   _Richard Cohen_: Which Side of the Wall of Decency Are You On?
     
-*   _Richard Wolffe_: Will It Be a Black Woman Who Runs Trump Out of Office?
+*   _Amanda Prestigiacomo_: Why Does Pelosi Have a Wall Around Her Property?
     
-*   _Frank Miele_: Mitt Romney: 'Ready for My Close-Up, Mr. DeMille'
+*   _Robert Kaplan_: U.S. vs. China--A New Cold War Has Begun
     
-*   _Rashida Tlaib &. John Bonifaz_: The Time to Impeach Trump Is Now
+*   _Recep Tayyip Erdogan_: Trump Is Right on Syria. Turkey Can Get the Job Done.
     
-*   _Byron York_: What, Precisely, Do Democrats Want to Impeach Trump For?
+*   _Victor Davis Hanson_: An Epidemic of Erasures, Redactions, Omissions, Perjuries
     
-*   _James Piereson_: On Machiavelli, Trump and Modern Politics
+*   _Margaret Talbot_: Think Big: House Democrats' Best Path Forward
     
-*   _Tobin Harshaw_: Richard Danzig on China, Soft Power, and Endless War
+*   _Andy Puzder_: Strong Job &. Wage Growth Prove Liberal Pessimists Wrong
     
-*   _Mary Anastasia O'Grady_: Brazil's Primal Scream for Freedom
+*   _Lawrence Summers_: The Right Policy as Recession Looms
     
-*   _Tina Park_: Why 2019 Holds the Key to Peace on the Korean Peninsula
+*   _Malcolm Gladwell_: Is Marijuana as Safe as We Think?
     
-*   _Bradley Blakeman_: Trump Is Right to Stand Firm on Border Promise
+*   _David Goldman_: Trump Calls for U.S. to Recruit 'Smartest People in the World'
     
-*   _Mattathias Schwartz_: In the Rio Grande Valley With U.S. Border Patrol
+*   _Michael Hirsh_: Will Pelosi Be the First to Out-Bully Trump?
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump to Deliver Prime-Time Address, Travel to Southern Border
 *   Trump's Unpredictable Negotiating Style Faces Test
+*   Schiff: Declaring National Emergency to Build Border Wall Is a "Non-Starter"
 *   Bolton Puts Conditions on Plan for Withdrawal From Syria
-*   Durbin: Deal Remains Elusive Because Trump "Doesn't Care"
 *   Speaker Again, Pelosi Sees "New Dawn" for 116th Congress
-*   New Rivalry? Romney Barrels Into DC Attacking Trump's Character
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -258,11 +258,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Pelosi: The Impression You Get Is That Trump Would Like To "Abolish Congress," So He Will Be The Only Voice
-*   Sanders: Trump "Means What He Says" That Shutdown Could Last "Years". Democrats Unwilling To Let Trump "Win"
-*   Chris Wallace to Sarah Sanders: Is Trump Serious About Declaring National Emergency To Build Wall?
-*   Ocasio-Cortez: People More Concerned About Me Being "Factually Correct" Than "Morally Right"
-*   Trump: I Can Call A "National Emergency" And Build The Wall "Very Quickly". "I Haven't Done It, I May Do It"
+*   Pelosi, Schumer Deliver Response to Trump: End Shutdown And We'll Resolve Border Differences
+*   Alexandria Ocasio-Cortez: Illegal Immigrants Act More American Than Citizens Trying To Keep Them Out
+*   Kellyanne Conway Clashes With CNN's Jim Acosta: "Can You Promise The President Will Tell The Truth?"
+*   Carl Bernstein: Border Wall Is A Symbol That Says "Brown People, We Don't Want You"
+*   McConnell: "Silly" To Call Walls Immoral. Clinton And Obama Voted For Border Barrier In 2006
 
 *   Politics
 *   Policy
