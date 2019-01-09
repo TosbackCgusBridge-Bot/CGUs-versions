@@ -1,5 +1,5 @@
-Electronic Arts Inc.Privacy and Cookie Policy Last Updated: November 15, 2018  
-Effective Date: November 15, 2018  
+Electronic Arts Inc.Privacy and Cookie Policy Last Updated: January 8, 2019  
+Effective Date: January 8, 2019  
   
 Your privacy is important to us, and we take our responsibility of caring for it seriously. This policy describes what information EA collects when you use the mobile, online and downloadable products and services offered by EA and its subsidiaries and/or attend live events hosted by or in connection with EA ("**products**"). For a list of our subsidiaries, visit https://www.sec.gov/Archives/edgar/data/712515/000071251518000024/ex-211subsidiariesofthereg.htm.  
   
@@ -113,7 +113,7 @@ To learn more about some of these ad networks' practices, or to opt out of third
   
 D. Anti-Cheat and Fraud Prevention Technologies  
   
-EA strives to provide a safe and fair gaming environment for all players. When you log in to one of our products, set up an EA Account or make purchases, we or third parties may use cookies and similar technologies, or collect data about your machine or device, to create a machine "fingerprint" or "hash" of your machine components, for fraud prevention, security and authentication purposes. We also may use anti-cheat technology with our products, including automated anti-fraud and abuse algorithms. If you believe your access to our products and/or services was blocked by this technology in error, please contact EA Help at help.ea.com.  
+EA strives to provide a safe and fair gaming environment for all players. When you log in to one of our products, set up an EA Account or make purchases, we or third parties may use cookies and similar technologies, or collect data or files from your machine or device, to create a machine "fingerprint" or "hash" of your machine components, for fraud prevention, security and authentication purposes. We also may use anti-cheat technology with our products, including automated anti-fraud and abuse algorithms. If you believe your access to our products and/or services was blocked by this technology in error, please contact EA Help at help.ea.com.  
   
 3\. How We Use Your Information  
   
@@ -232,6 +232,7 @@ For more information and updates to this policy, visit privacy.ea.com.
   
 
 Previous Privacy and Cookie Policy:  
+Last Updated: November 15, 2018  
 Last Updated: August 31, 2018  
 Last Updated: May 25, 2018  
 Last Updated: January 18, 2018  
