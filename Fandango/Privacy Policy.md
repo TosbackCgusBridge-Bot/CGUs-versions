@@ -71,9 +71,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   First ‘Hellboy’ Trailer Arrives Just in Time. Here’s Everything We Know Read More
+    *   Dave Bautista Joins 'Dune'. Here's Everything We Know Read More
     *   2019 Golden Globes: Top 5 Moments Read More
-    *   'A Star Is Born' Leads Screen Actors Guild Award Nominations Read More
+    *   ‘Venom’ Sequel Officially in the Works. Here’s Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
