@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   8\. Januar 2019
+*   9\. Januar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 10.747,81ǀ
+*   DAX 10.803,98ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -370,3 +370,6 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
+
+  
+BESbswyBESbswyBESbswy
