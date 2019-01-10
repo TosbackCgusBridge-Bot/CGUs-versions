@@ -230,7 +230,7 @@ View more results
     
     Recommended Games
     
-    *   War Thunder
+    *   Dragon Awaken
     *   Crossout
     *   Animal Jam
     *   Madalin Stunt Cars 2
