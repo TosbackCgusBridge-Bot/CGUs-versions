@@ -13,7 +13,7 @@ SHOP DEPARTMENTS
 
 *   Same Day Pickup
 *   Store Ads
-*   Deals
+Deals*   Clearance
 *   Coupons
 
 Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO 70% OFF WOMEN'S SWEATERSSELECT STYLESShop All
@@ -50,9 +50,9 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO
     was $49 St. John's Bay Zip Front Cable Cardigan - Plus(5)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $1499 sale
+    $1799 sale
     
-    was $44 Worthington Womens Long Sleeve Open Front Cardigan(15)Add To Cart
+    was $44 St. John's Bay Womens Mock Neck Long Sleeve Pullover Sweater(16)Add To Cart
 
 UP TO 70% OFF MEN'S SHIRTS &. TOPSShop AllSELECT STYLESUP TO 70% OFF MEN'S SHIRTS &. TOPSSELECT STYLESShop All
 
@@ -73,9 +73,9 @@ UP TO 70% OFF MEN'S SHIRTS &. TOPSShop AllSELECT STYLESUP TO 70% OFF MEN'S SHIRT
     was $36 Arizona Long Sleeve Spread Collar Flannel Shirts(36)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $899 sale
+    $2999 sale
     
-    was $30 St. John's Bay Mens Collar Neck Long Sleeve Polo Shirt(12)Add To Cart
+    was $50 Nike Mens Mock Neck Long Sleeve Thermal TopAdd To Cart
 *   LIMITED TIME SPECIAL!
     
     $899 sale
@@ -83,9 +83,9 @@ UP TO 70% OFF MEN'S SHIRTS &. TOPSShop AllSELECT STYLESUP TO 70% OFF MEN'S SHIRT
     was $30 St. John's Bay Mens Henley Neck Long Sleeve Henley Shirt(47)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $2999 sale
+    $899 sale
     
-    was $50 Nike Mens Mock Neck Long Sleeve Thermal TopAdd To Cart
+    was $30 St. John's Bay Mens Collar Neck Long Sleeve Polo Shirt(13)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $599 sale
@@ -94,24 +94,28 @@ UP TO 70% OFF MEN'S SHIRTS &. TOPSShop AllSELECT STYLESUP TO 70% OFF MEN'S SHIRT
 
 Hot Sellers
 
+*   $649 clearance
+    
+    was $34 | 80% offDisney® Mickey Mouse Fleece Pajama Pants(7)
+*   LIMITED TIME SPECIAL!
+    
+    $2520 sale
+    
+    was $84 | 70% offXersion Heavyweight Puffer Jacket -Big Kid Boys(7)
 *   BUY MORE AND SAVE WITH CODE: 49GOSHOP
     
-    from$20
+    from$33
     
-    Home Expressions Lisette Grommet-Top Sheer Curtain Panel(385)
+    JCPenney Home™ Cut-to-Width Light-Filtering Cordless Cellular Shade(362)
 *   BUY MORE AND SAVE WITH CODE: 49GOSHOP
     
-    from$24after couponPlaza Thermal Interlined Room Darkening Rod-Pocket Curtain Panel(207)
+    $2520after couponArizona Flex Slim Straight Jeans(273)
+*   $1699 clearance
+    
+    was $48.99 | 65% offAmerileather Casual Leather Handbag
 *   BUY MORE AND SAVE WITH CODE: 49GOSHOP
     
-    from$48after couponLiz Claiborne Quinn Leaf Room Darkening Grommet-Top Curtain Panel(773)
-*   from$1890after couponwas $36 - $38 IZOD® Boys 4-20 Stretch Flat Front Pant - Slim, Reg &. Husky(61)
-*   $2999 sale
-    
-    was $40 | 25% offMatrix Biolage Colorlast Value Set(6)
-*   $50
-    
-    Stafford Travel Stretch Performance Super Shirt Mens Collar Neck Long Sleeve Dress Shirt(6)
+    from$48after couponLiz Claiborne Quinn Leaf Room Darkening Grommet-Top Curtain Panel(774)
 
 Shop and Save at JCPenney
 
