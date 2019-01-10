@@ -450,4 +450,18 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2018 Aeropostale. All Rights Reserved. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
