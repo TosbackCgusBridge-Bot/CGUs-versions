@@ -42,8 +42,8 @@ Skip to main content
     22/32 est MPG20 Build Specials
 *   Hybrid $42,800 as shown1 All New 2019 Avalon Hybrid $36,500 starting1  
     43/44 est MPG20 Build Specials
-*   Fuel Cell Vehicle $58,365 as shown1 2018 Mirai $58,365 starting1  
-    67/67 est MPG14 Specials
+*   Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
+    67/67 est MPG20 Specials
 *   $28,585 as shown1 2019 86 $26,455 starting1  
     21/28 est MPG20 Build Specials
 *   $37,265 as shown1 2019 Sienna $31,115 starting1  
@@ -85,8 +85,8 @@ Skip to main content
     54/50 est MPG17 Build Specials
 *   Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
     48/43 est MPG20 Build Specials
-*   Fuel Cell Vehicle $58,365 as shown1 2018 Mirai $58,365 starting1  
-    67/67 est MPG14 Specials
+*   Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
+    67/67 est MPG20 Specials
 
 *   Hybrid 2019 Prius View More Info
 *   2019 Nightshade Special Editions View More Info
@@ -128,8 +128,8 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 51/53 est MPG20 Plug-In Hybrid $33,300 as shown1 2018 Prius Prime $27,300 starting1  
 54/133 est MPG10 Hybrid Available $42,200 as shown1 All New 2019 Avalon $35,500 starting1  
 22/32 est MPG20 Hybrid $42,800 as shown1 All New 2019 Avalon Hybrid $36,500 starting1  
-43/44 est MPG20 Fuel Cell Vehicle $58,365 as shown1 2018 Mirai $58,365 starting1  
-67/67 est MPG14 $28,585 as shown1 2019 86 $26,455 starting1  
+43/44 est MPG20 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
+67/67 est MPG20 $28,585 as shown1 2019 86 $26,455 starting1  
 21/28 est MPG20 $37,265 as shown1 2019 Sienna $31,115 starting1  
 19/27 est MPG22 Trucks $36,465 as shown1 2019 Tacoma $25,550 starting1  
 18/22 est MPG3 $45,600 as shown1 2019 Tundra $31,420 starting1  
@@ -148,8 +148,8 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 30/28 est MPG20 Plug-In Hybrid $33,300 as shown1 2018 Prius Prime $27,300 starting1  
 54/133 est MPG10 Hybrid $32,115 as shown1 2018 Prius $23,475 starting1  
 54/50 est MPG17 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
-48/43 est MPG20 Fuel Cell Vehicle $58,365 as shown1 2018 Mirai $58,365 starting1  
-67/67 est MPG14 Upcoming Vehicles Hybrid 2019 Prius 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD Hybrid All New 2019 RAV4 Hybrid Hybrid Available All New 2020 Corolla 2019 Supra Xfinity Series Race Car GR Supra Racing Concept 2017 FT-4X Concept All Vehicles
+48/43 est MPG20 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
+67/67 est MPG20 Upcoming Vehicles Hybrid 2019 Prius 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD Hybrid All New 2019 RAV4 Hybrid Hybrid Available All New 2020 Corolla 2019 Supra Xfinity Series Race Car GR Supra Racing Concept 2017 FT-4X Concept All Vehicles
 
 *   Careers
 *   Español
@@ -284,9 +284,9 @@ Toyota Vehicles
     
 *   Fuel-Efficient Cars  
     
+
 *   Fuel-Efficient SUVs  
     
-
 *   Cars Under $20,000  
     
 *   Cars Under $25,000  
@@ -309,18 +309,16 @@ Toyota Vehicles
     
 *   4-Door Sedans  
     
+
 *   2-Door Cars  
     
 *   All-Wheel-Drive Vehicles  
     
-
 *   Cars for Teenagers  
     
 *   Off-Road Vehicles  
     
 *   Luxury Cars  
-    
-*   Family SUVs  
     
 *   Search Inventory  
     
