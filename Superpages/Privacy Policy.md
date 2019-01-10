@@ -5,16 +5,16 @@ Toggle navigationSuperpages THE Local Business Directory  
 *   Sign In
 *   •
 
-*   *   Welcome
-    *   My Superpages
+*   *   My Profile
+    *   Account Settings
     *   Sign out
 
 *   *   Welcome !
     *   Sign Out
-    *   My Superpages
-        *   Favorites
+    *   My Profile
         *   Reviews
-        *   Coupons
+        *   Photos
+        *   Favorites
     
     *   Sign In
     *   Join
