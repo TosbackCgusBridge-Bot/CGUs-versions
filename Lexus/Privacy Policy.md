@@ -13,7 +13,7 @@ Lexus.com
 
 Close MENU **IS**
 
-*   Starting at $38,3101\*
+*   Starting at $38,4101\*
 *   2.0L I-4 or 3.5L V6
 
 *   Build
@@ -21,7 +21,7 @@ Close MENU **IS**
 
 **ES**
 
-*   Starting at $39,6002\*
+*   Starting at $39,6001\*
 *   302-HP 3.5L V6
 
 *   Build
@@ -29,15 +29,15 @@ Close MENU **IS**
 
 **ES HYBRID**
 
-*   Starting at $41,4102\*
-*   44-MPG combined rating3\*
+*   Starting at $41,4101\*
+*   44-MPG combined rating2\*
 
 *   Build
 *   Current Offers
 
 **GS**
 
-*   Starting at $46,6102\*
+*   Starting at $46,6101\*
 *   2.0L I-4 or 3.5L V6
 
 *   Build
@@ -45,24 +45,24 @@ Close MENU **IS**
 
 **GS F**
 
-*   Starting at $84,3502\*
-*   467-HP4\* 5.0L V8
+*   Starting at $84,3501\*
+*   467-HP3\* 5.0L V8
 
 *   Build
 *   Current Offers
 
 **LS**
 
-*   Starting at $75,2001\*
-*   416-HP4, 5\* 3.5L V6
+*   Starting at $75,2004\*
+*   416-HP3, 5\* 3.5L V6
 
 *   Build
 *   Current Offers
 
 **LS HYBRID**
 
-*   Starting at $79,7101\*
-*   354-HP4, 5\* 3.5L V6
+*   Starting at $79,7104\*
+*   354-HP3, 5\* 3.5L V6
 
 *   BUILD
 *   CURRENT OFFERS
@@ -71,7 +71,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **UX**
 
-*   Starting at $32,0001\*
+*   Starting at $32,0004\*
 *   169-HP6\* 2.0L I-4
 
 *   Build
@@ -79,7 +79,7 @@ COMPARE **UX**
 
 **UX HYBRID**
 
-*   Starting at $34,0002, 7\*
+*   Starting at $34,0001, 7\*
 *   39-MPG COMBINED RATING8\*
 
 *   Build
@@ -87,15 +87,15 @@ COMPARE **UX**
 
 **NX**
 
-*   Starting at $36,3852\*
-*   235-hp4\* 2.0L turbo
+*   Starting at $36,3851\*
+*   235-hp3\* 2.0L turbo
 
 *   Build
 *   Current Offers
 
 **NX HYBRID**
 
-*   Starting at $38,7352\*
+*   Starting at $38,7351\*
 *   31-MPG combined rating9\*
 
 *   Build
@@ -103,7 +103,7 @@ COMPARE **UX**
 
 **RX**
 
-*   Starting at $43,5702\*
+*   Starting at $43,5701\*
 *   3 ROW SEATING UP TO 710\*
 
 *   Build
@@ -111,7 +111,7 @@ COMPARE **UX**
 
 **RX HYBRID**
 
-*   Starting at $45,9952\*
+*   Starting at $45,9951\*
 *   30-MPG COMBINED RATING11\*
 
 *   Build
@@ -119,8 +119,8 @@ COMPARE **UX**
 
 **GX**
 
-*   Starting at $52,1552\*
-*   301-HP4\* V8, FULL-TIME 4WD
+*   Starting at $52,1551\*
+*   301-HP3\* V8, FULL-TIME 4WD
 
 *   Build
 *   Current Offers
@@ -128,7 +128,7 @@ COMPARE **UX**
 **LX**
 
 *   Starting at $85,83012\*
-*   383-HP4\* V8, FULL-TIME 4WD
+*   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
 *   Current Offers
@@ -137,7 +137,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC**
 
-*   Starting at $41,1452\*
+*   Starting at $41,1451\*
 *   2.0L I-4 OR 3.5L V6
 
 *   Build
@@ -145,24 +145,24 @@ COMPARE **RC**
 
 **RC F**
 
-*   Starting at $64,7502\*
-*   467-HP4\* 5.0L V8
+*   Starting at $64,7501\*
+*   467-HP3\* 5.0L V8
 
 *   Build
 *   Current Offers
 
 **LC**
 
-*   Starting at $92,2002\*
-*   471-HP4\* 5.0L V8
+*   Starting at $92,2001\*
+*   471-HP3\* 5.0L V8
 
 *   Build
 *   Current Offers
 
 **LC HYBRID**
 
-*   Starting at $96,7102\*
-*   354 TOTAL SYSTEM HP4\*
+*   Starting at $96,7101\*
+*   354 TOTAL SYSTEM HP3\*
 
 *   Build
 *   Current Offers
@@ -171,7 +171,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **UX HYBRID**
 
-*   Starting at $34,0002, 7\*
+*   Starting at $34,0001, 7\*
 *   39-MPG COMBINED RATING8\*
 
 *   Build
@@ -179,7 +179,7 @@ COMPARE **UX HYBRID**
 
 **NX HYBRID**
 
-*   Starting at $38,7352\*
+*   Starting at $38,7351\*
 *   31-MPG combined rating13\*
 
 *   Build
@@ -187,7 +187,7 @@ COMPARE **UX HYBRID**
 
 **RX HYBRID**
 
-*   Starting at $45,9952\*
+*   Starting at $45,9951\*
 *   30-MPG COMBINED RATING11\*
 
 *   Build
@@ -195,24 +195,24 @@ COMPARE **UX HYBRID**
 
 **ES HYBRID**
 
-*   Starting at $41,4102\*
-*   44-MPG COMBINED RATING3\*
+*   Starting at $41,4101\*
+*   44-MPG COMBINED RATING2\*
 
 *   Build
 *   Current Offers
 
 **LS HYBRID**
 
-*   Starting at $79,7101\*
-*   354-HP4, 5\* 3.5L V6
+*   Starting at $79,7104\*
+*   354-HP3, 5\* 3.5L V6
 
 *   BUILD
 *   CURRENT OFFERS
 
 **LC HYBRID**
 
-*   Starting at $96,7102\*
-*   354 TOTAL SYSTEM HP4\*
+*   Starting at $96,7101\*
+*   354 TOTAL SYSTEM HP3\*
 
 *   Build
 *   Current Offers
@@ -221,32 +221,32 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC F**
 
-*   Starting at $64,7502\*
-*   467-HP4\* 5.0L V8
+*   Starting at $64,7501\*
+*   467-HP3\* 5.0L V8
 
 *   Build
 *   Current Offers
 
 **GS F**
 
-*   Starting at $84,3502\*
-*   467-HP4\* 5.0L V8
+*   Starting at $84,3501\*
+*   467-HP3\* 5.0L V8
 
 *   Build
 *   Current Offers
 
 **LC**
 
-*   Starting at $92,2002\*
-*   471-HP4\* 5.0L V8
+*   Starting at $92,2001\*
+*   471-HP3\* 5.0L V8
 
 *   Build
 *   Current Offers
 
 **LC HYBRID**
 
-*   Starting at $96,7102\*
-*   354 TOTAL SYSTEM HP4\*
+*   Starting at $96,7101\*
+*   354 TOTAL SYSTEM HP3\*
 
 *   Build
 *   Current Offers
@@ -357,11 +357,11 @@ click here Important Info Important Info
 
 \[1\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
-\[2\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
+\[2\] 2019 EPA estimates. Actual mileage will vary.
 
-\[3\] 2019 EPA estimates. Actual mileage will vary.
+\[3\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[4\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
+\[4\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
 \[5\] Specs for RWD model shown.
 
