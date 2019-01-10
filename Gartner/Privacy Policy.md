@@ -4,7 +4,7 @@ We use cookies to deliver the best possible experience on our website. To learn 
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
 Become a client  
-Contact us or dial 1 855 648 78791 855 648 7879
+Contact us or dial + 1 800 213 4848+ 1 800 213 4848
 
 Log in Become a Client
 
@@ -146,11 +146,11 @@ Log in Become a Client
     
     Learn More
     
-    Conference Gartner Security &. Risk Management Summit 2018
+    Conference Data &. Analytics
     
     Learn More
     
-    Conference Gartner Digital Marketing Conference 2018
+    Conference Marketing Symposium/Xpo 2019
     
     Learn More
     
@@ -259,7 +259,7 @@ Log in Become a Client
     Career Opportunities Life at Gartner Campus
     
 *   Become a client  
-    Contact us or dial 1 855 648 78791 855 648 7879
+    Contact us or dial + 1 800 213 4848+ 1 800 213 4848
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018
