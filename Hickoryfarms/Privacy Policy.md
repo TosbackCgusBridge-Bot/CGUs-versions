@@ -66,7 +66,7 @@
     *   Weddings &. Showers
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Valentine's Day Gifts
-*   Sale
+*   Clearance Sale
 
 1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Skip to content Business Gifts Stores Account
 
@@ -144,7 +144,7 @@
     *   Weddings &. Showers
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Valentine's Day Gifts
-*   Sale
+*   Clearance Sale
 
 1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
