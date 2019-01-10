@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Apellix engineers safer work environments with Ubuntu powered aerial robotics ›
 *   Ubuntu Server development summary – 08 January 2019 ›
 *   Mark Shuttleworth on success with OpenStack ›
 *   Kata Containers – A form of art ›
 *   Top Snaps in 2018 ›
-*   I have a need, a need for snap ›
