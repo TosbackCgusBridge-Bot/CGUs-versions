@@ -23,7 +23,7 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -627,7 +627,7 @@ RESERVE IN STORE
 3.  Data Security Incident
 4.  Transparency In Supply Chains
 
-Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.Account×Military StatusBag Size ExceededClose Cart Threshold Modal×
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.Bag Size ExceededClose Cart Threshold Modal×
 
 Did you mean to add items to your wish list?
 
