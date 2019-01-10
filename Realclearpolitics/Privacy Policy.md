@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Ira Stoll_: Trump's Promise-Keeping Confounds the Fact Checkers
+*   _John Harris_: Trump's Not-So-Bully Pulpit
     
-*   _Leon Krauze_: The Only Emergency on the Border Is Trump's Lies
+*   _Newt Gingrich_: The Self-Destructive Appearance of Pelosi and Schumer
     
-*   _Derek Hunter_: In What Way Do Democrats Support Border Security?
+*   _Jorge Ramos_: Border Wall Is a Completely Useless Symbol of Hate
     
-*   _George Packer_: This Is What the Suicide of a Great Democracy Looks Like
+*   _Jonathan Turley_: Yes, Trump Has Authority to Declare Emergency for Wall
     
-*   _Steve Cortes_: U.S. Manufacturing Jobs: From Carnage to Confidence
+*   _Peter Beinart_: Why Trump Is Trying to Create a Crisis
     
-*   _Paul Krugman_: The Economics of Soaking the Rich
+*   _Mollie Hemingway_: How Media Botched Their 'Fact Checks' of Speech
     
-*   _Tyler Cowen_: Dems' Latest Tax Idea Is Bad Economics, Worse Politics
+*   _Josh Kraushaar_: Republicans Should Be Worried About Iowa
     
-*   _Charles Pena_: It's Well Past Time to Withdraw From Afghanistan
+*   _Stuart Rothenberg_: Why Doug Jones Starts as the Underdog in Alabama
     
-*   _Dominic Tierney_: The U.S. Isn't Really Leaving Syria and Afghanistan
+*   _Rep. Tulsi Gabbard_: Leaders Weaponizing Religion Play a Dangerous Game
     
-*   _Daniel DePetris_: Bolton: Foreign Policy Architect or Saboteur?
+*   _David Fickling_: Belt and Road Is More Chaos Than Conspiracy
     
-*   _Nicholas Kristof_: Why 2018 Was the Best Year in Human History!
+*   _Jasper Mortimer_: Turkish-U.S. Tension Builds as Syria Talks Founder
     
-*   _Bill Scher_: Trump Is Losing--His Best Move Is to Fold Now
+*   _Marc Thiessen_: Trump Won the Night. Schumer and Pelosi Lost
     
-*   _John Feehery_: Trump Keeping His Wall Promise Is a Nightmare for Dems
+*   _Ezra Klein_: An Underwhelming Speech by a President Without a Plan
     
-*   _Richard Cohen_: Which Side of the Wall of Decency Are You On?
+*   _Katie Pavlich_: Nancy Pelosi's Immoral Border Stance
     
-*   _Amanda Prestigiacomo_: Why Does Pelosi Have a Wall Around Her Property?
+*   _Josh Campbell_: Presidential Address: The One Word Trump Didn't Say
     
-*   _Robert Kaplan_: U.S. vs. China--A New Cold War Has Begun
+*   _Betsy McCaughey_: Democrats Are Campaigning to End Prosperity
     
-*   _Recep Tayyip Erdogan_: Trump Is Right on Syria. Turkey Can Get the Job Done.
+*   _Thomas Friedman_: The Green New Deal Rises Again
     
-*   _Victor Davis Hanson_: An Epidemic of Erasures, Redactions, Omissions, Perjuries
+*   _Emmett Tyrrell_: Ocasio-Cortez Faces Poverty's Demise Worldwide!
     
-*   _Margaret Talbot_: Think Big: House Democrats' Best Path Forward
+*   _Paul Krugman_: Elizabeth Warren and Her Party of Ideas
     
-*   _Andy Puzder_: Strong Job &. Wage Growth Prove Liberal Pessimists Wrong
+*   _John Steele Gordon_: Paul Krugman's Political Groundhog Day
     
-*   _Lawrence Summers_: The Right Policy as Recession Looms
+*   _John Cassidy_: Trump's Presidential Address Was a Big Non-Event
     
-*   _Malcolm Gladwell_: Is Marijuana as Safe as We Think?
+*   _Freddy Gray_: Wrinkled, White, and Wrong - The Face of the Democrats
     
-*   _David Goldman_: Trump Calls for U.S. to Recruit 'Smartest People in the World'
+*   _Elie Mystal_: Cut the Sob Stories About Trump Voters Hurt by His Policies
     
-*   _Michael Hirsh_: Will Pelosi Be the First to Out-Bully Trump?
+*   _Henry Olson_: Market Fundamentalism or Love of Country?
     
 
 *   Previous
@@ -226,9 +226,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump to Deliver Prime-Time Address, Travel to Southern Border
-*   Trump's Unpredictable Negotiating Style Faces Test
-*   Schiff: Declaring National Emergency to Build Border Wall Is a "Non-Starter"
+*   Trump Ratchets Up Border Wall Fight in Speech to the Nation
+*   Democrats: Trump Has Chosen to "Stoke Fear," "Manufacture a Crisis"
+*   Full Video/Transcript of President Trump's Address
 *   Bolton Puts Conditions on Plan for Withdrawal From Syria
 *   Speaker Again, Pelosi Sees "New Dawn" for 116th Congress
 *   Presidential Job Approval
@@ -243,18 +243,18 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Direction of CountryRasmussen Reports
-    *   Right Direction37
-    *   Wrong Track57Wrong Track +20
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve44
+    *   Disapprove53Disapprove +9
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
+    *   Approve47
+    *   Disapprove52Disapprove +5
 *   President Trump Job ApprovalReuters/Ipsos
-    *   Approve41
-    *   Disapprove54Disapprove +13
+    *   Approve40
+    *   Disapprove55Disapprove +15
 *   Congressional Job ApprovalReuters/Ipsos
-    *   Approve26
-    *   Disapprove63Disapprove +37
+    *   Approve23
+    *   Disapprove66Disapprove +43
 
 More Latest Polls In The News
 
