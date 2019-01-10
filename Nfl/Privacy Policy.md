@@ -1,9 +1,9 @@
-Playoffs - WILD CARD
+Playoffs - DIVISIONAL
 
-*   IND11-621HOU11-67Final
-*   SEA10-722DAL11-624Final
-*   LAC13-423BAL10-717Final
-*   PHI10-716CHI12-515Final
+*   IND11-6KC12-4Sat, 4:35 pm ET
+*   DAL11-6LA13-3Sat, 8:15 pm ET
+*   LAC13-4NE11-5Sun, 1:05 pm ET
+*   PHI10-7NO13-3Sun, 4:40 pm ET
 
 *   News
 *   Scores
@@ -16,18 +16,20 @@ Playoffs - WILD CARD
 *   Shop
 *   Teams
 *   Game Pass
+*   Super Bowl
+*   Pro Bowl
 *   Stats
 *   Next Gen Stats
 *   Ways to Watch
 *   NFL Network
 *   Photos
 
-Playoffs - WC
+Playoffs - DIV
 
-*   IND21HOU7Final
-*   SEA22DAL24Final
-*   LAC23BAL17Final
-*   PHI16CHI15Final
+*   IND11-6KC12-4Sat, 4:35 pm ET
+*   DAL11-6LA13-3Sat, 8:15 pm ET
+*   LAC13-4NE11-5Sun, 1:05 pm ET
+*   PHI10-7NO13-3Sun, 4:40 pm ET
 
 *   News
 *   Scores
@@ -40,6 +42,8 @@ Playoffs - WC
 *   Highlights
 
 *   *   Game Pass
+    *   Super Bowl
+    *   Pro Bowl
     *   Stats
     *   Next Gen Stats
     *   Ways to Watch
