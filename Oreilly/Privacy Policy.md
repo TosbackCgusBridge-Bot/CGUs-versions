@@ -1,54 +1,21 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P4V6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>. skip to main content
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P4V6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to main content
 
-*   Ideas
-*   Learning Platform
-*   Conferences
-*   Shop
+*   *   Sign In
+    *   Try Now
+*   *   Online Learning
+        *   Individuals
+        *   Teams
+        *   Enterprise
+        *   Government
+        *   Academic
+        *   Pricing
+    *   Conferences
+    *   Ideas
+    *   Our Approach
 
-Search terms Search Sign In Open menuClose menu
+Privacy Policy
 
-*   Ideas
-*   Learning Platform
-*   Conferences
-*   Shop
-
-Search terms Search On Our Radar
-
-*   AI
-*   Business
-*   Data
-*   Design
-*   Economy
-*   Jupyter
-*   Operations
-*   Security
-*   Software Architecture
-*   Software Engineering
-*   Web Programming
-
-See all On Our Radar
-
-*   AI
-*   Business
-*   Data
-*   Design
-*   Economy
-*   Jupyter
-*   Operations
-*   Security
-*   Software Architecture
-*   Software Engineering
-*   Web Programming
-
-See all About O’Reilly
-
-*   Contacts
-*   Resources
-*   Press Room
-*   Tim O'Reilly
-*   Editorial Independence
-
-Privacy Policy This version (Version 4.3) is effective as of November 21, 2018.
+This version (Version 4.3) is effective as of November 21, 2018.
 
 *   Overview
 *   About Us
@@ -92,7 +59,7 @@ Data Protection Officer
 
 Address
 
-O'Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472, USA
+O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472, USA
 
 Email
 
@@ -398,23 +365,43 @@ Click here for version 3.4
 
 Click here for version 3.3
 
-About Us
+Upcoming Conferences
+
+*   Software Architecture Feb 4–6, New York
+*   Strata Mar 26–28, San Francisco
+*   Artificial Intelligence Apr 16–18, New York
+*   Strata Apr 30–May 2, London
+*   Velocity Jun 11–13, San Jose
+*   Software Architecture Jun 11–13, San Jose
+
+The O'Reilly Approach
 
 *   Our Company
 *   Teach/Speak/Write
 *   Careers
+
+Solutions
+
+*   For Teams
+*   For Enterprise
+*   For Individuals
+*   For Government
+*   For Education
+
+Support
+
 *   Customer Service
 *   Contact Us
 
-*   Twitter
-*   Facebook
-*   LinkedIn
-*   YouTube
-*   Newsletters
+facebook-logo linkedin-logo youtube-logo email-logo Download the Safari App
 
-© 2019 O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+Take Safari with you—learn anywhere, anytime on your phone or tablet. Don’t wait! Download the app today and:
 
-  
+*   Get unlimited access to Safari content
+*   Never lose your place—all your devices are automatically synced.
+*   Read when you can focus—make good use of your commute time.
+
+© 2019, O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
 
 Terms of Service • Privacy Policy • Editorial Independence
 
