@@ -72,8 +72,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Dave Bautista Joins 'Dune'. Here's Everything We Know Read More
-    *   2019 Golden Globes: Top 5 Moments Read More
-    *   ‘Venom’ Sequel Officially in the Works. Here’s Everything We Know Read More
+    *   Marsai Martin Enters the Big Time in ‘Little’ Trailer. Here’s Everything We Know Read More
+    *   'The Favourite' Leads BAFTA Award Nominations Read More
     
     Explore Content
     *   Movie Reviews
