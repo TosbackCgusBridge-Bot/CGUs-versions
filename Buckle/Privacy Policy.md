@@ -23,7 +23,7 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -37,116 +37,103 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
         *   SHOP ALL WOMEN'S
         *   New Arrivals
         *   Shop by Outfit
-        *   Women's Brands
-        *   Buckle Exclusive
-        *   Shop Instagram
-        *   Plus Sizes
-        *   BOGO 30% Off BKE Jewelry
-        *   buckle SELECT
+        *   Buckle Exclusives
         *   Brill Boutique
         *   Promotions
+        *   buckle SELECT
         
-        *   Tops
+        *   Clothing
         
-        *   2 For $38 Long Sleeves
-        *   Outerwear
+        *   Coats, Jackets &. Blazers
         *   Sweaters &. Cardigans
         *   Sweatshirts
-        *   Vests
-        *   Shirts &. Blouses
-        *   Kimonos
-        *   T-Shirts
-        *   Tank Tops
-        *   Bralettes
-        *   Shop All
-        
-        *   Bottoms
-        
+        *   Tops
+        *   Dresses
         *   Jeans
-        *   Pants
-        *   Leggings
-        *   Crops &. Capris
-        *   Skirts
-        *   Shorts
+        *   Bottoms
+        *   Rompers &. Jumpsuits
+        *   Swimwear
+        *   Bralettes
+        *   Plus Sizes
         *   Shop All
         
         *   Shoes
         
+        *   Sneakers
+        *   Flips &. Slides
+        *   Sandals
+        *   Wedges
+        *   Heels
         *   Boots
         *   Booties
         *   Western Boots
-        *   Tall Boots
-        *   Sneakers
-        *   Flats &. Slides
-        *   Heels
-        *   Wedges
-        *   Sandals
         *   Shop All
-        
-        *   More
         
         *   Accessories
-        *   Dresses
-        *   Rompers &. Jumpsuits
+        
+        *   Hats
+        *   Belts
+        *   Hair Accessories
+        *   Jewelry
+        *   Watches
+        *   Scarves
+        *   Socks
+        *   Sunglasses
         *   Fragrance
         *   Bags
-        *   Hats
-        *   Socks
-        *   Watches
-        *   Sunglasses
-        *   Swimwear
         *   Shop All
         
-          
-        Give a Buckle Gift card
+        *   Featured Brands
+        
+        *   BKE
+        *   Buckle Black
+        *   Gimmicks
+        *   Willow &. Root
+        *   Billabong
+        *   White Crow
+        *   Gilded Intent
+        *   FITZ + EDDI
+        *   Free People
+        *   Levi's
+        *   Miss Me
+        *   Rock Revival
+        *   Shop AllGive a Buckle Gift card
 *   Men
     *   *   Featured
         
         *   SHOP ALL MEN'S
         *   New Arrivals
-        *   Men's Brands
-        *   Promotions
         *   Shop by Outfit
-        *   Shop Instagram
-        *   Buckle Exclusive
+        *   Buckle Exclusives
+        *   Promotions
         *   buckle SELECT
-        *   Big &. Tall
         
-        *   Tops
+        *   Clothing
         
-        *   2 For $25
-        *   Outerwear
-        *   Sweatshirts
+        *   Coats &. Jackets
         *   Sweaters
+        *   Sweatshirts
         *   Shirts
-        *   T-Shirts
         *   Polos
-        *   Vests
+        *   T-Shirts
         *   Tanks
-        *   Shop All
-        
         *   Bottoms
-        
         *   Jeans
-        *   Stretch Jeans
-        *   Khakis &. Chinos
-        *   Joggers
-        *   Pants
-        *   Shorts
         *   Boardshorts
+        *   Big &. Tall
         *   Shop All
         
         *   Shoes
         
-        *   Boots
-        *   Dress Shoes
+        *   Casuals
         *   Sneakers
-        *   Casual Shoes
         *   Flips
         *   Slides
+        *   Dress Shoes
+        *   Boots
         *   Shop All
         
-        *   More
+        *   Accessories
         
         *   Hats
         *   Boxers
@@ -155,12 +142,24 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
         *   Watches
         *   Cologne
         *   Wallets
+        *   Bags
         *   Sunglasses
         *   Jewelry
         *   Shop All
         
-          
-        Give a Buckle Gift card
+        *   Featured Brands
+        
+        *   BKE
+        *   Buckle Black
+        *   Departwest
+        *   Outpost Makers
+        *   Veece
+        *   Reclaim
+        *   Hurley
+        *   Affliction
+        *   Rock Revival
+        *   American Fighter
+        *   Shop AllGive a Buckle Gift card
 *   Kids
     *   *   Featured
         
