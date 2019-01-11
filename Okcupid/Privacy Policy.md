@@ -67,9 +67,9 @@ EFFECTIVE DATE: May 25, 2018
 If you live in the European Union, the company that is responsible for your information under this Privacy Policy (the "data controller") is:
 
 MTCH Technology Services Limited  
-Pembroke House  
-28 - 32 Pembroke Street Upper  
-Dublin 2, Ireland
+5 Harcourt Road  
+Dublin 2, D02 FW64  
+Ireland
 
 If you live outside the European Union, the company responsible for your information is:
 
@@ -291,9 +291,9 @@ By post:
 
 Privacy Officer  
 MTCH Technology Services Limited  
-Pembroke House  
-28 - 32 Pembroke Street Upper  
-Dublin 2, Ireland
+5 Harcourt Road  
+Dublin 2, D02 FW64  
+Ireland
 
 **If you live outside the European Union** :
 
@@ -345,7 +345,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Los Angeles Dating
+*   Vegan Dating
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
