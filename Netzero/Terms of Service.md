@@ -4,7 +4,7 @@ Sign in to your Email
 
 Main Menu
 
-Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Parental Consent Privacy Acceptable Use Terms of Service
+Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Parental Consent Privacy Acceptable Use Cookie Policy Terms of Service
 
 NetZero Services and NetZero Site Terms of Service
 
