@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   10\. Januar 2019
+*   11\. Januar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 10.893,32ǀ
+*   DAX 10.921,59ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -50,7 +50,7 @@ Anmelden
         *   Versicherungen
         *   Unternehmen &. Märkte
         *   Staat &. Soziales
-        *   Zukunft gestalten
+        *   Young-Money-Blog
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
         *   Immowelt
@@ -113,7 +113,6 @@ Anmelden
         *   Medizin
         *   Datenlese
         *   ÜberMorgen
-        *   Uno-Klimakonferenz 2017
     *   *   Sudoku
 *   Gesundheit
     
