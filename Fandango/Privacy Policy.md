@@ -23,6 +23,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   A Dog's Way Home
     *   Replicas
     *   The Upside
+    *   If Beale Street Could Talk
     *   On the Basis of Sex
     *   The Aspern Papers
     *   Perfectos Desconocidos
