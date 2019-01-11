@@ -18,7 +18,7 @@ skip to content skip to navigation skip to search
     *   FAQ
     *   Chat
 
-Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order New Arrivals Customer Service Chat Email
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Customer Service Chat Email
 
 Call or Text 1-800-963-4816
 
@@ -142,6 +142,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Kids' Hats, Gloves &. Scarves
     *   Kids' Iron Knees Pants
     *   Kids' Backpacks &. Lunch Boxes
+    *   Kids' Swim Shop
     
     Kids' Sale>Girls' Clothing>
     
@@ -411,12 +412,8 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Home
     
     SHOP NEW COLLECTIONS
-    
     *   Weather Channel Collection
     *   The Heritage Collection
-    
-    BLOG
-    *   The Journal
 *   Sale WOMEN'S SALE >
     
     *   Regular
@@ -599,6 +596,7 @@ Lands' End Sign In menu
         *   Kids' Hats, Gloves &. Scarves
         *   Kids' Iron Knees Pants
         *   Kids' Backpacks &. Lunch Boxes
+        *   Kids' Swim Shop
     *   Kids' Sale
     *   Girls' Clothing
         *   Back
@@ -886,9 +884,6 @@ Lands' End Sign In menu
         *   Back
         *   Weather Channel Collection
         *   The Heritage Collection
-    *   BLOG
-        *   Back
-        *   The Journal
     *   Women
     *   Men
     *   Girls
@@ -966,11 +961,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 30% off full-price styles!
 
-Only 0 HR 12 MIN 39 SEC Left!
-
-code: SHIMMER pin: 2567 DETAILS
+code: FROSTY pin: 9846 DETAILS
 
 Customer Service Menu
 
