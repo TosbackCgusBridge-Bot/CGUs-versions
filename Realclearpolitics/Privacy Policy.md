@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _John Harris_: Trump's Not-So-Bully Pulpit
+*   _Ronald Brownstein_: Push for Border Wall Could Cost Trump in 2020
     
-*   _Newt Gingrich_: The Self-Destructive Appearance of Pelosi and Schumer
+*   _Rep. Chip Roy_: Lawless Borders Are a Crisis It's Past Time to Finally Solve
     
-*   _Jorge Ramos_: Border Wall Is a Completely Useless Symbol of Hate
+*   _Dana Milbank_: Building a Wall Isn't Evil. It's Medieval
     
-*   _Jonathan Turley_: Yes, Trump Has Authority to Declare Emergency for Wall
+*   _Victor Davis Hanson_: The Ironies of Illegal Immigration
     
-*   _Peter Beinart_: Why Trump Is Trying to Create a Crisis
+*   _Molly Ball_: Art of the Duel: A New Year Has Dawned on Washington
     
-*   _Mollie Hemingway_: How Media Botched Their 'Fact Checks' of Speech
+*   _Alana Goodman_: Leaving Soon? Ginsburg's Absence Fuels Speculation
     
-*   _Josh Kraushaar_: Republicans Should Be Worried About Iowa
+*   _Nate Silver_: The 5 Key Constituencies of the '20 Democratic Primary
     
-*   _Stuart Rothenberg_: Why Doug Jones Starts as the Underdog in Alabama
+*   _Adele Malpass_: Dems' Diversity Push May Block White Males in 2020
     
-*   _Rep. Tulsi Gabbard_: Leaders Weaponizing Religion Play a Dangerous Game
+*   _Ned Ryun_: Department of Commerce Pushes Online Open Borders
     
-*   _David Fickling_: Belt and Road Is More Chaos Than Conspiracy
+*   _David Ignatius_: Life Without Mattis Is the Scary New Reality
     
-*   _Jasper Mortimer_: Turkish-U.S. Tension Builds as Syria Talks Founder
+*   _Greg Lawson_: Mattis Is a Great American, But He's Wrong and Trump Is Right
     
-*   _Marc Thiessen_: Trump Won the Night. Schumer and Pelosi Lost
+*   _John Kass_: A Workable Compromise Sitting in Front of Our Noses
     
-*   _Ezra Klein_: An Underwhelming Speech by a President Without a Plan
+*   _Gail Collins_: Trump Hits the Wall
     
-*   _Katie Pavlich_: Nancy Pelosi's Immoral Border Stance
+*   _David Harsanyi_: Can Democrats Explain Why the Border Wall Is 'Immoral'?
     
-*   _Josh Campbell_: Presidential Address: The One Word Trump Didn't Say
+*   _Jason Sattler_: Building a Border Wall Is About Racial Resentment
     
-*   _Betsy McCaughey_: Democrats Are Campaigning to End Prosperity
+*   _Conrad Black_: Trump's Rhetorical Knockout Blow
     
-*   _Thomas Friedman_: The Green New Deal Rises Again
+*   _Lindsey McPherson_: Why the Shutdown Is a Good Thing for House Dems
     
-*   _Emmett Tyrrell_: Ocasio-Cortez Faces Poverty's Demise Worldwide!
+*   _Douglas Schoen_: We Need Compromise on the Border, Not Posturing
     
-*   _Paul Krugman_: Elizabeth Warren and Her Party of Ideas
+*   _Monica Crowley_: How Trump's Economic Miracle Shatters the Left
     
-*   _John Steele Gordon_: Paul Krugman's Political Groundhog Day
+*   _Dahlia Lithwick_: Why Men Find the New Congresswomen So Frightening
     
-*   _John Cassidy_: Trump's Presidential Address Was a Big Non-Event
+*   _Alan Dershowitz_: Is Rashida Tlaib Guilty of Bigotry?
     
-*   _Freddy Gray_: Wrinkled, White, and Wrong - The Face of the Democrats
+*   _Myra Adams_: Unfunded Govt. Liabilities--Our Ticking Time Bomb
     
-*   _Elie Mystal_: Cut the Sob Stories About Trump Voters Hurt by His Policies
+*   _Sen. Ron Wyden_: It's Time for a 'Green New Deal'
     
-*   _Henry Olson_: Market Fundamentalism or Love of Country?
+*   _Chris Buskirk_: U.S. Southern Border Isn't Just a Crisis, It's a Disgrace
     
 
 *   Previous
@@ -226,13 +226,13 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Ratchets Up Border Wall Fight in Speech to the Nation
+*   Trump Heads to U.S. Border With Mexico to Press Case for Wall
 *   Democrats: Trump Has Chosen to "Stoke Fear," "Manufacture a Crisis"
+*   Harris: Spend on Issues That Matter, Not Trump's Vanity Project
+*   Dem Activist Tom Steyer Says He Won't Run for President in 2020
+*   Rosenstein Is Expected to Depart DOJ Once Barr Is Confirmed
 *   Full Video/Transcript of President Trump's Address
-*   Bolton Puts Conditions on Plan for Withdrawal From Syria
-*   Speaker Again, Pelosi Sees "New Dawn" for 116th Congress
 *   Presidential Job Approval
-*   Cartoons of the Week
 
 Latest PollsAll Polls
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve44
-    *   Disapprove53Disapprove +9
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve40
-    *   Disapprove55Disapprove +15
-*   Congressional Job ApprovalReuters/Ipsos
-    *   Approve23
-    *   Disapprove66Disapprove +43
+*   North Carolina: Trump vs. WarrenPPP (D)
+    *   Trump46
+    *   Warren46Tie
+*   North Carolina: Trump vs. O'RourkePPP (D)
+    *   Trump46
+    *   O'Rourke45Trump +1
+*   North Carolina: Trump vs. BidenPPP (D)
+    *   Biden49
+    *   Trump44Biden +5
+*   North Carolina: Trump vs. HarrisPPP (D)
+    *   Trump45
+    *   Harris45Tie
 
 More Latest Polls In The News
 
-*   Pelosi, Schumer Deliver Response to Trump: End Shutdown And We'll Resolve Border Differences
-*   Alexandria Ocasio-Cortez: Illegal Immigrants Act More American Than Citizens Trying To Keep Them Out
-*   Kellyanne Conway Clashes With CNN's Jim Acosta: "Can You Promise The President Will Tell The Truth?"
-*   Carl Bernstein: Border Wall Is A Symbol That Says "Brown People, We Don't Want You"
-*   McConnell: "Silly" To Call Walls Immoral. Clinton And Obama Voted For Border Barrier In 2006
+*   CNN's Acosta Mocked By White House After "Tranquil" Border Wall Visit: "Barriers Work! Great Job Jim!"
+*   Tucker Carlson Roasts Acosta: "In A Devastating Act of Journalism, CNN Killed The Wall". Take That, Bigots!
+*   CNN's Navarro Files Nails During Wall Debate With Steve Cortes: People Killed By Illegals Can't Do Their Nails
+*   Kamala Harris: $5.6 Billion Can Be Spent On "Issues That Impact" Americans, Not Trump's "Vanity Project"
+*   Napolitano on Collusion: Mueller Can Show Trump Campaign "Had A Connection To Russian Intel"
 
 *   Politics
 *   Policy
