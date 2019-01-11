@@ -81,7 +81,7 @@ Blueberry Ridge Boardwalk Bekah Herndon hikes amidst colorful fallen leaves on a
 
 Accountability
 
-Privacy Statement By visiting the Website, you are accepting the policies described in this Privacy Policy. THE NATURE CONSERVANCY WEBSITE PRIVACY POLICY
+Privacy Policy THE NATURE CONSERVANCY'S PRIVACY POLICY
 
 **_Updated September 2018_**
 
