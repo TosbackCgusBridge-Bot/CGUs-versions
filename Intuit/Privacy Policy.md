@@ -13,7 +13,7 @@ SHOP DEPARTMENTS
 
 *   Same Day Pickup
 *   Store Ads
-Deals*   Clearance
+*   Clearance
 *   Coupons
 
 Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO 70% OFF WOMEN'S SWEATERSSELECT STYLESShop All
@@ -22,12 +22,12 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO
     
     $999 sale
     
-    was $32 Worthington Womens V Neck Long Sleeve Pullover Sweater(31)Add To Cart
+    was $32 Worthington Womens V Neck Long Sleeve Pullover Sweater(33)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $1320 sale
+    $999 sale
     
-    was $44 Worthington Womens Mock Neck Long Sleeve Pullover Sweater(17)Add To Cart
+    was $37 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(36)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
@@ -35,14 +35,14 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO
     was $32 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(27)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $999 sale
+    $1320 sale
     
-    was $37 Worthington Womens Crew Neck Long Sleeve Pullover Sweater(34)Add To Cart
+    was $44 Worthington Womens Mock Neck Long Sleeve Pullover Sweater(18)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1320 sale
     
-    was $44 Worthington Womens Long Sleeve Open Front Cardigan(55)Add To Cart
+    was $44 Worthington Womens Long Sleeve Open Front Cardigan(57)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1470 sale
@@ -60,12 +60,7 @@ UP TO 70% OFF MEN'S SHIRTS &. TOPSShop AllSELECT STYLESUP TO 70% OFF MEN'S SHIRT
     
     $899 sale
     
-    was $30 St. John's Bay Mens Henley Neck Long Sleeve Thermal Top(48)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $899 sale
-    
-    was $30 St. John's Bay Mens Collar Neck Long Sleeve Flannel Shirt(383)Add To Cart
+    was $30 St. John's Bay Mens Henley Neck Long Sleeve Thermal Top(51)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
@@ -80,42 +75,43 @@ UP TO 70% OFF MEN'S SHIRTS &. TOPSShop AllSELECT STYLESUP TO 70% OFF MEN'S SHIRT
     
     $899 sale
     
-    was $30 St. John's Bay Mens Henley Neck Long Sleeve Henley Shirt(47)Add To Cart
+    was $30 St. John's Bay Mens Long Sleeve Flannel Shirt(385)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $899 sale
     
-    was $30 St. John's Bay Mens Collar Neck Long Sleeve Polo Shirt(13)Add To Cart
+    was $30 St. John's Bay Mens Long Sleeve Polo Shirt(13)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $899 sale
+    
+    was $30 St. John's Bay Mens Henley Neck Long Sleeve Henley Shirt(47)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $599 sale
     
-    was $20 Arizona Mens Crew Neck Long Sleeve Thermal TopAdd To Cart
+    was $20 Arizona Mens Crew Neck Long Sleeve Thermal Top(5)Add To Cart
 
 Hot Sellers
 
-*   $649 clearance
-    
-    was $34 | 80% offDisney® Mickey Mouse Fleece Pajama Pants(7)
-*   LIMITED TIME SPECIAL!
-    
-    $2520 sale
-    
-    was $84 | 70% offXersion Heavyweight Puffer Jacket -Big Kid Boys(7)
 *   BUY MORE AND SAVE WITH CODE: 49GOSHOP
     
-    from$33
-    
-    JCPenney Home™ Cut-to-Width Light-Filtering Cordless Cellular Shade(362)
+    from$27after couponVan Heusen Flex Boys Suit Pants 8-20 - Reg, Slim &. Husky(29)
 *   BUY MORE AND SAVE WITH CODE: 49GOSHOP
     
-    $2520after couponArizona Flex Slim Straight Jeans(273)
+    from$24after couponJCPenney Home Sullivan Blackout Grommet-Top Curtain Panel(26)
+*   from$80after couponHome Expressions™ Cassandra Pieced Bedspread(509)
+*   BUY MORE AND SAVE WITH CODE: 49GOSHOP
+    
+    from$42after couponLiz Claiborne Quinn Basketweave Room Darkening Grommet-Top Curtain Panel(566)
+*   BUY MORE AND SAVE WITH CODE: 49GOSHOP
+    
+    from$30
+    
+    Arizona Original Fit Flex Jeans Boys 4-20, Slim &. HUsky(19)
 *   $1699 clearance
     
     was $48.99 | 65% offAmerileather Casual Leather Handbag
-*   BUY MORE AND SAVE WITH CODE: 49GOSHOP
-    
-    from$48after couponLiz Claiborne Quinn Leaf Room Darkening Grommet-Top Curtain Panel(774)
 
 Shop and Save at JCPenney
 
