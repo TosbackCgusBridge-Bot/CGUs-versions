@@ -125,7 +125,6 @@
     
     *   IRA CD rates
     *   Brokerage accounts
-    *   Online Brokerage Comparison Tool
     *   Brokerage reviews
     
     Use Calculators
