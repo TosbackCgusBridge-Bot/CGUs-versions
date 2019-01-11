@@ -4,7 +4,7 @@ We use cookies to deliver the best possible experience on our website. To learn 
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
 Become a client  
-Contact us or dial + 1 800 213 4848+ 1 800 213 4848
+Contact us or dial 1 855 654 09901 855 654 0990
 
 Log in Become a Client
 
@@ -178,9 +178,9 @@ Log in Become a Client
     
     HR Insights
     
-    Change Management Digital Talent Employee Value Proposition High Potentials Leadership and Professional Development Learning Measurement Performance Management Talent Analytics Sales &. Sevice Insights
+    Change Management Digital Talent Employee Value Proposition High Potentials Leadership and Professional Development Learning Measurement Performance Management Talent Analytics Sales &. Service Insights
     
-    Sales &. Sevice Insights
+    Sales &. Service Insights
     
     Challenger Sale Effortless Experience Sales Manager Effectiveness Innovation &. Strategy Insights
     
@@ -259,7 +259,7 @@ Log in Become a Client
     Career Opportunities Life at Gartner Campus
     
 *   Become a client  
-    Contact us or dial + 1 800 213 4848+ 1 800 213 4848
+    Contact us or dial 1 855 654 09901 855 654 0990
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018
