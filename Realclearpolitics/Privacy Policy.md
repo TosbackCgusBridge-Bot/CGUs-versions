@@ -38,7 +38,6 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   Staff Writers
     *   Carl M. Cannon
     *   Tom Bevan
-    *   Sally Persons
     *   Adele Malpass
     *   Sean Trende
     *   Columnist
@@ -109,6 +108,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Susan Glasser_: Dems Think Trump Is a Bigger Threat Than Terrorism
+    
+*   _Michael Barone_: On Border Security Debate, Trump Factual, Dems Illogical
+    
+*   _Sen. Sherrod Brown_: Government Shutdown Betrays Workers
+    
+*   _Damon Linker_: How Dems Can Blow It: Keep Defending Bureaucrats
+    
+*   _Gary Abernathy_: The Wall Is Trump's 'Read My Lips' Pledge
+    
+*   _Bob Bauer_: What Trump Needs to Know About 'National Emergencies'
+    
+*   _Bill McKibben_: Ocasio-Cortez's Green New Deal a Stroke of Policy Genius
+    
+*   _Megan McArdle_: Sorry, AOC: It's Not Because You're a Woman
+    
+*   _Fred Kaplan_: The Worst Speech Ever by a Secretary of State
+    
+*   _Christian Whiton_: 3 Ways Pompeo's Cairo Speech Was a Turning Point
+    
+*   _Darren Samuelsohn_: The Only Impeachment Guide You'll Ever Need
+    
+*   _Stephen Presser_: Time to Put a Stop to Impeachment Talk
+    
+*   _Ed Kilgore_: Biden's Baggage Could Be a Heavy Lift in 2020
+    
+*   _Matthew Continetti_: Kamala Harris &. the Religious Test of the 'New Liberalism'
+    
+*   _Jon Meacham_: Ronald Reagan's Hopeful Farewell
+    
+*   _Larry O'Connor_: Media Fact-Checkers Finally Jumped the Shark
+    
+*   _Heather Wilhelm_: Farewell, Masculinity: We'll Miss You When You're Gone
+    
 *   _Ronald Brownstein_: Push for Border Wall Could Cost Trump in 2020
     
 *   _Rep. Chip Roy_: Lawless Borders Are a Crisis It's Past Time to Finally Solve
@@ -122,40 +155,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Alana Goodman_: Leaving Soon? Ginsburg's Absence Fuels Speculation
     
 *   _Nate Silver_: The 5 Key Constituencies of the '20 Democratic Primary
-    
-*   _Adele Malpass_: Dems' Diversity Push May Block White Males in 2020
-    
-*   _Ned Ryun_: Department of Commerce Pushes Online Open Borders
-    
-*   _David Ignatius_: Life Without Mattis Is the Scary New Reality
-    
-*   _Greg Lawson_: Mattis Is a Great American, But He's Wrong and Trump Is Right
-    
-*   _John Kass_: A Workable Compromise Sitting in Front of Our Noses
-    
-*   _Gail Collins_: Trump Hits the Wall
-    
-*   _David Harsanyi_: Can Democrats Explain Why the Border Wall Is 'Immoral'?
-    
-*   _Jason Sattler_: Building a Border Wall Is About Racial Resentment
-    
-*   _Conrad Black_: Trump's Rhetorical Knockout Blow
-    
-*   _Lindsey McPherson_: Why the Shutdown Is a Good Thing for House Dems
-    
-*   _Douglas Schoen_: We Need Compromise on the Border, Not Posturing
-    
-*   _Monica Crowley_: How Trump's Economic Miracle Shatters the Left
-    
-*   _Dahlia Lithwick_: Why Men Find the New Congresswomen So Frightening
-    
-*   _Alan Dershowitz_: Is Rashida Tlaib Guilty of Bigotry?
-    
-*   _Myra Adams_: Unfunded Govt. Liabilities--Our Ticking Time Bomb
-    
-*   _Sen. Ron Wyden_: It's Time for a 'Green New Deal'
-    
-*   _Chris Buskirk_: U.S. Southern Border Isn't Just a Crisis, It's a Disgrace
     
 
 *   Previous
@@ -226,13 +225,13 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Heads to U.S. Border With Mexico to Press Case for Wall
-*   Democrats: Trump Has Chosen to "Stoke Fear," "Manufacture a Crisis"
-*   Harris: Spend on Issues That Matter, Not Trump's Vanity Project
-*   Dem Activist Tom Steyer Says He Won't Run for President in 2020
-*   Rosenstein Is Expected to Depart DOJ Once Barr Is Confirmed
-*   Full Video/Transcript of President Trump's Address
+*   Trump Administration Eyes Disaster Money to Fund Border Wall
+*   U.S. Official Says Troop Withdrawal From Syria Has Started
+*   Trump at Border: Without the Wall There Will Be "Death, a Lot of Death"
+*   Pompeo Lays Out Mideast Policy, Assailing Obama in Speech
+*   Democrats' Diversity Push May Block White Males in 2020
 *   Presidential Job Approval
+*   Cartoons of the Week
 
 Latest PollsAll Polls
 
@@ -287,4 +286,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2018 RealClearHoldings, LLC. ©2018 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2019 RealClearHoldings, LLC. ©2018 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
