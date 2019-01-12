@@ -217,8 +217,8 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
     *   Table Tennis World Tour
-    *   Playing Soccer
-    *   BaseballSpotlight Ultimate Boxing
+    *   Baseball
+    *   Playing SoccerSpotlight Ultimate Boxing
 *   *   Multiplayer
     *   Action
     *   Adventure
