@@ -125,12 +125,12 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Hats
 *   Kids SHOP BY AGE RANGE
     
-    *   Toddler &. Baby Girls (0-4T)
+    *   Toddler Girls (2T-4T)
     *   Little Girls (4-7)
     *   Big Girls (7-16)
     *   Girls' Plus Sizes
     
-    *   Toddler &. Baby Boys (0-4T)
+    *   Toddler Boys (2T-4T)
     *   Little Boys (4-7)
     *   Big Boys (7-20)
     *   Boys' Husky Sizes
@@ -140,7 +140,6 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   New Arrivals
     *   Kids' Outerwear Shop
     *   Kids' Hats, Gloves &. Scarves
-    *   Kids' Iron Knees Pants
     *   Kids' Backpacks &. Lunch Boxes
     *   Kids' Swim Shop
     
@@ -580,12 +579,12 @@ Lands' End Sign In menu
     *   Shop all Kids
     *   SHOP BY AGE RANGE
         *   Back
-        *   Toddler &. Baby Girls (0-4T)
+        *   Toddler Girls (2T-4T)
         *   Little Girls (4-7)
         *   Big Girls (7-16)
         *   Girls' Plus Sizes
         
-        *   Toddler &. Baby Boys (0-4T)
+        *   Toddler Boys (2T-4T)
         *   Little Boys (4-7)
         *   Big Boys (7-20)
         *   Boys' Husky Sizes
@@ -594,7 +593,6 @@ Lands' End Sign In menu
         *   New Arrivals
         *   Kids' Outerwear Shop
         *   Kids' Hats, Gloves &. Scarves
-        *   Kids' Iron Knees Pants
         *   Kids' Backpacks &. Lunch Boxes
         *   Kids' Swim Shop
     *   Kids' Sale
@@ -986,11 +984,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
+Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
