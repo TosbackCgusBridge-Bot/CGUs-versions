@@ -74,7 +74,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Dave Bautista Joins 'Dune'. Here's Everything We Know Read More
     *   Marsai Martin Enters the Big Time in ‘Little’ Trailer. Here’s Everything We Know Read More
-    *   'The Favourite' Leads BAFTA Award Nominations Read More
+    *   The Week in Movie News: Golden Globe Winners, ‘Venom’ Sequel Moves Forward and More Read More
     
     Explore Content
     *   Movie Reviews
