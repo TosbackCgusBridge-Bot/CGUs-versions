@@ -23,7 +23,7 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO
     
     $999 sale
     
-    was $32 Worthington Womens V Neck Long Sleeve Pullover Sweater(34)Add To Cart
+    was $32 Worthington Womens V Neck Long Sleeve Pullover Sweater(35)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $999 sale
@@ -46,9 +46,9 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S SWEATERSShop AllSELECT STYLESUP TO
     was $44 Worthington Womens Long Sleeve Open Front Cardigan(58)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    $1299 sale
+    $1499 sale
     
-    was $32 St. John's Bay Womens Round Neck Long Sleeve Pullover Sweater(122)Add To Cart
+    was $44 Worthington Womens Long Sleeve Open Front Cardigan(15)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1799 sale
@@ -95,16 +95,14 @@ UP TO 70% OFF MEN'S SHIRTS &. TOPSShop AllSELECT STYLESUP TO 70% OFF MEN'S SHIRT
 
 Hot Sellers
 
-*   from$1499after couponwas $50 - $159 Studio™ 550 TC UltraFit Solid Performance Sheet Set(1579)
-*   $1599after couponwas $40 St. John's Bay Crew Neck Long Sleeve Pullover Sweater(41)
-*   HOT DEAL!
+*   $1599after couponwas $42 Arizona Original Flex Chino Pants(192)
+*   from$2624after couponwas $60 - $110 JCPenney Home™ Waterproof Mattress Pad(236)
+*   $1599after couponwas $40 St. John's Bay V Neck Long Sleeve Pullover Sweater(37)
+*   $1699after couponwas $60 Cooks 3-pc. Cast Iron Fry Pan Set(20)
+*   $1599after couponwas $42 Arizona Basic Relaxed Straight Jeans(687)
+*   $2999 sale
     
-    from$1199after couponwas $40 - $550 JCPenney Home™ Imperial Washable Rectangular Accent, Area &. Runner Rugs(1089)
-*   $1920after couponwas $30 Stafford® 4-pk. Heavyweight Crewneck T-Shirts(678)
-*   $4999 sale
-    
-    was $59.50 | 15% offLevi's® 501® Original Fit Jeans(3064)
-*   $1759after couponwas $44 Stafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt(142)
+    was $39 | 23% offYuu Womens Calissa Zip Bootie(23)
 
 Shop and Save at JCPenney
 
