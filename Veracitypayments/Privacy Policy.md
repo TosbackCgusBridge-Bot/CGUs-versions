@@ -4,7 +4,7 @@ MyVanco Login
 
 SIGN UP
 
-Sales: **855-712-8745**   Support: **800-675-7430**
+Sales: **855-247-0067**   Support: **800-675-7430**
 
 SearchUse up and down arrows to select available result. Press enter to go to selected search result. Touch devices users can use touch and swipe gestures.  
 
@@ -73,7 +73,7 @@ Bloomington, MN 55431
 
 **CALL US**
 
-**Sales:** (855) 712-8745
+**Sales:** (855) 247-0067
 
 **Support:** (800) 675-7430
 
@@ -115,6 +115,6 @@ CALL US
 
 **Support:** (800) 675-7430
 
-**Sales:** (855) 712-8745
+**Sales:** (855) 247-0067
 
-Copyright © 2019 Vanco. All rights reserved. Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+Copyright © 2019 Vanco. All rights reserved. Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. load font
