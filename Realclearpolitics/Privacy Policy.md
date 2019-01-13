@@ -108,6 +108,28 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Salena Zito_: Rick Scott Chased the Hispanic Vote in Florida and Got It
+    
+*   _Alice Driver_: There Is No Crisis: Trump's Border Visit Premised on Lies
+    
+*   _David Marcus_: Why Trump Will Win--and Democrats Will Have to Fold
+    
+*   _Marcos Breton_: Leave a Cop Killing Out of Border Wall Debate
+    
+*   _Adriana Cohen_: Democrats Becoming the Party of Drugs and Thugs
+    
+*   _Benjamin Wallace-Wells_: The Expert Efficiency of Warren's Populist Bid
+    
+*   _Graham Allison_: Xi Jinping Will Give Trump a Victory on Trade
+    
+*   _Chuck Ross_: Fusion GPS, Soros and a Russian 'False Flag' Operation
+    
+*   _Frida Ghitis_: Trump Creates a 'Crisis' to Distract From Flailing Presidency
+    
+*   _Mikhael Smits_: CNN Confirms Walled Part of the Border Is Crisis-Free
+    
+*   _Arthur Goldhammer_: Europe's Winter of Discontent
+    
 *   _Susan Glasser_: Dems Think Trump Is a Bigger Threat Than Terrorism
     
 *   _Michael Barone_: On Border Security Debate, Trump Factual, Dems Illogical
@@ -133,28 +155,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Stephen Presser_: Time to Put a Stop to Impeachment Talk
     
 *   _Ed Kilgore_: Biden's Baggage Could Be a Heavy Lift in 2020
-    
-*   _Matthew Continetti_: Kamala Harris &. the Religious Test of the 'New Liberalism'
-    
-*   _Jon Meacham_: Ronald Reagan's Hopeful Farewell
-    
-*   _Larry O'Connor_: Media Fact-Checkers Finally Jumped the Shark
-    
-*   _Heather Wilhelm_: Farewell, Masculinity: We'll Miss You When You're Gone
-    
-*   _Ronald Brownstein_: Push for Border Wall Could Cost Trump in 2020
-    
-*   _Rep. Chip Roy_: Lawless Borders Are a Crisis It's Past Time to Finally Solve
-    
-*   _Dana Milbank_: Building a Wall Isn't Evil. It's Medieval
-    
-*   _Victor Davis Hanson_: The Ironies of Illegal Immigration
-    
-*   _Molly Ball_: Art of the Duel: A New Year Has Dawned on Washington
-    
-*   _Alana Goodman_: Leaving Soon? Ginsburg's Absence Fuels Speculation
-    
-*   _Nate Silver_: The 5 Key Constituencies of the '20 Democratic Primary
     
 
 *   Previous
@@ -225,10 +225,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Partial Shutdown Becomes Longest Federal Closure in U.S. History
 *   Trump Administration Eyes Disaster Money to Fund Border Wall
-*   U.S. Official Says Troop Withdrawal From Syria Has Started
 *   Trump at Border: Without the Wall There Will Be "Death, a Lot of Death"
-*   Pompeo Lays Out Mideast Policy, Assailing Obama in Speech
+*   U.S. Official Says Troop Withdrawal From Syria Has Started
 *   Democrats' Diversity Push May Block White Males in 2020
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -257,11 +257,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Parscale: The Number One Reason People Will Vote For Trump Is Because Of Border Security Stance
+*   Dem Rep. Pramila Jayapal: Trump's Goal Is "To Make America Pure;" No Immigrants, People Of Color
 *   CNN's Acosta Mocked By White House After "Tranquil" Border Wall Visit: "Barriers Work! Great Job Jim!"
 *   Tucker Carlson Roasts Acosta: "In A Devastating Act of Journalism, CNN Killed The Wall". Take That, Bigots!
 *   CNN's Navarro Files Nails During Wall Debate With Steve Cortes: People Killed By Illegals Can't Do Their Nails
-*   Kamala Harris: $5.6 Billion Can Be Spent On "Issues That Impact" Americans, Not Trump's "Vanity Project"
-*   Napolitano on Collusion: Mueller Can Show Trump Campaign "Had A Connection To Russian Intel"
 
 *   Politics
 *   Policy
