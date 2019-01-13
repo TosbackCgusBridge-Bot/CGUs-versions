@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   DC Comics
-*   Tim Tebow
-*   Gov. Cuomo
-*   Joyce Meyer
+*   Hollywood actor
 *   Andy Stanley
+*   NY Gov. Cuomo
+*   Tim Tebow
+*   The Episcopal Church
 
 About Us
 
