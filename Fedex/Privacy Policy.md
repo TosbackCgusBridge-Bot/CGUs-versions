@@ -172,7 +172,7 @@ Frequently asked questions Our Company About FedEx Our Portfolio Investor Relati
 *   English
 *   Español
 
-Follow FedEx © FedEx 1995-2019 Feedback Site Map | Terms of Use | Privacy &. Security ×
+Follow FedEx © FedEx 1995-2019 Feedback | Site Map | Terms of Use | Privacy &. Security ×
 
 Supported Browsers
 
@@ -194,7 +194,7 @@ Get more information by going to fedex.com/us/securityupgrade/.
 *   Firefox 38+
 
   
-Close Do not show this message again.
+Close Do not show this message again. <img src="https://www.fedex.com/akam/10/pixel\_17a934f8?a=dD02OGRjMTM5MWVjODMxYzRiMjI2OWNjYWQ4YTU0MmNhOGQxZDY3MDQwJmpzPW9mZg==" style="visibility: hidden. position: absolute. left: -999px. top: -999px;" />.
 
 Ask FedEx Virtual Assistant
 
