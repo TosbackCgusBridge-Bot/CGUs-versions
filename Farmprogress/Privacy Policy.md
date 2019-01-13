@@ -2,7 +2,6 @@ We use cookies to improve your website experience. To learn about our use of coo
 
 *   More
     *   Weather
-    *   LISTEN: Farm Futures Market Update
     *   LISTEN: Max Armstrong's Daily Updates
     *   WATCH: This Week in Agribusiness
     *   Advertise
@@ -120,4 +119,4 @@ We couldn't find the page you were looking for.
 
 Follow us:
 
-© 2018 Informa USA, Inc., All Rights Reserved <img src="https://api.b2c.com/api/noscript-315re7h65uhsyo963dv.gif">.
+© 2019 Informa USA, Inc., All Rights Reserved <img src="https://api.b2c.com/api/noscript-315re7h65uhsyo963dv.gif">.
