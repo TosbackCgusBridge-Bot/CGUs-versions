@@ -105,7 +105,7 @@ Discover Our 8K OLED TV
 
 Our latest advances in gaming, audio, and digital imaging all on display at our #CES2019 booth. Explore #SonyCES now:  https://go.sony.com/2TuuMBk  pic.twitter.com/dpxd7AiTP0
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -143,7 +143,7 @@ See “A Dog’s Way Home” This Week
 
 Thanks to the #HFPA for selecting @SpiderVerse as Best Motion Picture - Animated at this year’s #GoldenGlobes! 🕷️ pic.twitter.com/pKwuo2lHZe
 
-5 days ago
+6 days ago
 
 View Tweet
 
