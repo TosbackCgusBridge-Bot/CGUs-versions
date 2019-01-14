@@ -222,4 +222,4 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
 *   Terms and Policies
 *   Privacy
 
-<img src="https://ad.doubleclick.net/ddm/activity/src=6869308;type=resident;cat=homepage;dc\_lat=;dc\_rdid=;tag\_for\_child\_directed\_treatment=;tfua=;npa=;ord=1?" width="1" height="1" alt=""/>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=692091934276324&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=692091934276324&amp;ev=PageView&amp;noscript=1">. <img src="https://ad.doubleclick.net/ddm/activity/src=6869308;type=resident;cat=homepage;dc\_lat=;dc\_rdid=;tag\_for\_child\_directed\_treatment=;tfua=;npa=;ord=1?" width="1" height="1" alt=""/>.
