@@ -108,53 +108,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Salena Zito_: Rick Scott Chased the Hispanic Vote in Florida and Got It
+*   _Julian Zelizer_: Make No Mistake -- This Is a GOP Shutdown
     
-*   _Alice Driver_: There Is No Crisis: Trump's Border Visit Premised on Lies
+*   _Ford O'Connell_: Trump Is Right: Walls Work on the Southern Border
     
-*   _David Marcus_: Why Trump Will Win--and Democrats Will Have to Fold
+*   _Dan Balz_: Start of a Long Year of Toxic Politics Between Dems &. Trump
     
-*   _Marcos Breton_: Leave a Cop Killing Out of Border Wall Debate
+*   _Michael Goodwin_: Dems Battle to See Who Can Be Most Radical
     
-*   _Adriana Cohen_: Democrats Becoming the Party of Drugs and Thugs
+*   _Yvonne Abraham_: Miss Your Government Yet?
     
-*   _Benjamin Wallace-Wells_: The Expert Efficiency of Warren's Populist Bid
+*   _Dov Fischer_: The Dems Who Cried Wolf
     
-*   _Graham Allison_: Xi Jinping Will Give Trump a Victory on Trade
+*   _Goldman_: FBI Probed If Trump Was Secretly Working on Behalf of Russia
     
-*   _Chuck Ross_: Fusion GPS, Soros and a Russian 'False Flag' Operation
+*   _Newt Gingrich_: NYT Report Shows How Deeply Sick the Establishment Is
     
-*   _Frida Ghitis_: Trump Creates a 'Crisis' to Distract From Flailing Presidency
+*   _Leonard Pitts_: Right Wing Has Gotten Panicky, Petty, Pathetic
     
-*   _Mikhael Smits_: CNN Confirms Walled Part of the Border Is Crisis-Free
+*   _Pedro Gonzalez_: Why Ocasio-Cortez Can't Be Wrong
     
-*   _Arthur Goldhammer_: Europe's Winter of Discontent
+*   _Bobby Ghosh_: Pompeo's Ugly, Cynical, Honest Speech in Cairo
     
-*   _Susan Glasser_: Dems Think Trump Is a Bigger Threat Than Terrorism
+*   _Stephen MacLean_: Brexit Beckons the Courage of Thomas Paine
     
-*   _Michael Barone_: On Border Security Debate, Trump Factual, Dems Illogical
+*   _George Will_: Referenda Delenda Est
     
-*   _Sen. Sherrod Brown_: Government Shutdown Betrays Workers
+*   _Maureen Dowd_: Nancy Pelosi Spanks the First Brat
     
-*   _Damon Linker_: How Dems Can Blow It: Keep Defending Bureaucrats
+*   _John Solomon_: How Media Omissions Shield Democrats on Russia Probe
     
-*   _Gary Abernathy_: The Wall Is Trump's 'Read My Lips' Pledge
+*   _Rex Murphy_: The American Press Should Be Grateful to Trump
     
-*   _Bob Bauer_: What Trump Needs to Know About 'National Emergencies'
+*   _Carl M. Cannon_: Cyntoia Brown and the Quality of Mercy
     
-*   _Bill McKibben_: Ocasio-Cortez's Green New Deal a Stroke of Policy Genius
+*   _Conrad Black_: America's Resurgence Is Reshaping the World
     
-*   _Megan McArdle_: Sorry, AOC: It's Not Because You're a Woman
+*   _Andrew Sullivan_: Welcome to Act III of the Trump Tragedy
     
-*   _Fred Kaplan_: The Worst Speech Ever by a Secretary of State
+*   _Michael Graham_: Note to Democrats--It's Time to Compromise
     
-*   _Christian Whiton_: 3 Ways Pompeo's Cairo Speech Was a Turning Point
+*   _Paul Brandus_: 6 Real Emergencies More Important Than the Border Wall
     
-*   _Darren Samuelsohn_: The Only Impeachment Guide You'll Ever Need
+*   _Newt Gingrich_: If Not Now to Secure the Border, When?
     
-*   _Stephen Presser_: Time to Put a Stop to Impeachment Talk
+*   _Alex Shephard_: Republicans Have Learned Nothing From Midterms
     
-*   _Ed Kilgore_: Biden's Baggage Could Be a Heavy Lift in 2020
+*   _Bruce Walker_: Good Luck Keeping the House Majority, Nancy
     
 
 *   Previous
@@ -257,11 +257,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Sen. Dick Durbin: "One Phone Call From Mitch McConnell" Can End Government Shutdown Tomorrow
+*   Rubio: No One In The World Should Be Making Unsafe Trip From Central America Across U.S. Border
+*   McCarthy: Who In America Would Believe Border Security Would Not Include Some Form Of Barrier?
+*   Trump on Border Crisis: Other Presidents Have Called National Emergencies For Less Than This
 *   Parscale: The Number One Reason People Will Vote For Trump Is Because Of Border Security Stance
-*   Dem Rep. Pramila Jayapal: Trump's Goal Is "To Make America Pure;" No Immigrants, People Of Color
-*   CNN's Acosta Mocked By White House After "Tranquil" Border Wall Visit: "Barriers Work! Great Job Jim!"
-*   Tucker Carlson Roasts Acosta: "In A Devastating Act of Journalism, CNN Killed The Wall". Take That, Bigots!
-*   CNN's Navarro Files Nails During Wall Debate With Steve Cortes: People Killed By Illegals Can't Do Their Nails
 
 *   Politics
 *   Policy
