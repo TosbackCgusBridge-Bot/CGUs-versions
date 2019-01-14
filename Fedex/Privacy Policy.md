@@ -194,7 +194,7 @@ Get more information by going to fedex.com/us/securityupgrade/.
 *   Firefox 38+
 
   
-Close Do not show this message again. <img src="https://www.fedex.com/akam/10/pixel\_17a934f8?a=dD02OGRjMTM5MWVjODMxYzRiMjI2OWNjYWQ4YTU0MmNhOGQxZDY3MDQwJmpzPW9mZg==" style="visibility: hidden. position: absolute. left: -999px. top: -999px;" />.
+Close Do not show this message again. <img src="https://www.fedex.com/akam/10/pixel\_17a9357d?a=dD02OGRjMTM5MWVjODMxYzRiMjI2OWNjYWQ4YTU0MmNhOGQxZDY3MDQwJmpzPW9mZg==" style="visibility: hidden. position: absolute. left: -999px. top: -999px;" />.
 
 Ask FedEx Virtual Assistant
 
