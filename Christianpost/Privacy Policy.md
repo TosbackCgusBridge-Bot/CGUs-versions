@@ -34,8 +34,8 @@ Hot Topics
 *   Hollywood actor
 *   Andy Stanley
 *   NY Gov. Cuomo
-*   Tim Tebow
-*   The Episcopal Church
+*   Switchfoot
+*   Gov't Shutdown
 
 About Us
 
