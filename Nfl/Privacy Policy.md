@@ -1,9 +1,9 @@
 Playoffs - DIVISIONAL
 
-*   DAL10-622LA13-330Final
+*   PHI9-714NO13-320Final
+*   LAC12-428NE11-541Final
 *   IND10-613KC12-431Final
-*   LAC12-4NE11-5Sun, 1:05 pm ET
-*   PHI9-7NO13-3Sun, 4:40 pm ET
+*   DAL10-622LA13-330Final
 
 *   News
 *   Scores
@@ -26,10 +26,10 @@ Playoffs - DIVISIONAL
 
 Playoffs - DIV
 
-*   DAL22LA30Final
+*   PHI14NO20Final
+*   LAC28NE41Final
 *   IND13KC31Final
-*   LAC12-4NE11-5Sun, 1:05 pm ET
-*   PHI9-7NO13-3Sun, 4:40 pm ET
+*   DAL22LA30Final
 
 *   News
 *   Scores
