@@ -3,7 +3,37 @@ MarketplaceSeeking AlphaSUBSCRIBESpecial Black Friday Offer  |  Save 50% Now
 *   Portfolio
 *   People
 *   News
+    
+    *   Most Used
+    *   Market News (by date)
+    *   Top News
+    *   Wall Street Breakfast
+    *   Dividend News
+    *   Earnings Calendar
+    *   See All Sections
+    
+    *   Recommended
+    *   Energy News
+    *   Healthcare News
+    *   Tech News
+    *   On The Move
+    *   Latest StockTalks
 *   Analysis
+    
+    *   Most Used
+    *   Dividends
+    *   Dividend Ideas
+    *   Market Outlook
+    *   Stock Ideas
+    *   REITs
+    *   See All Sections
+    
+    *   Recommended
+    *   Short Ideas
+    *   Closed End Funds
+    *   Today's Market
+    *   ETF Screener
+    *   Investing Strategy
 
 Sign in / Join Now Privacy
 
