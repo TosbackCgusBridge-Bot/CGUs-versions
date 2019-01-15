@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   14\. Januar 2019
+*   15\. Januar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 10.887,46ǀ
+*   DAX 10.855,91ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -344,7 +344,7 @@ SPIEGEL GRUPPE
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
 *   Dein SPIEGEL
-*   DER SPIEGEL
+*   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   SPIEGEL CHRONIK
 *   SPIEGEL COACHING
@@ -354,7 +354,7 @@ SPIEGEL GRUPPE
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
 *   Dein SPIEGEL
-*   DER SPIEGEL
+*   SPIEGEL WISSEN
 *   SPIEGEL GESCHICHTE
 *   SPIEGEL CHRONIK
 
