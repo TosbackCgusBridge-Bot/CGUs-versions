@@ -32,10 +32,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 Hot Topics
 
 *   Hollywood actor
-*   Andy Stanley
-*   NY Gov. Cuomo
+*   Caleb Hanna
+*   Anglican ambassador
 *   Switchfoot
-*   Gov't Shutdown
+*   Gov't shutdown
 
 About Us
 
