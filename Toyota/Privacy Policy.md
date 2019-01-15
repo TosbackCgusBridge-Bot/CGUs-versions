@@ -88,6 +88,7 @@ Skip to main content
 *   Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
     67/67 est MPG20 Specials
 
+*   All New 2020 GR Supra View More Info
 *   Hybrid 2019 Prius View More Info
 *   2019 Nightshade Special Editions View More Info
 *   2020 Camry TRD and Avalon TRD View More Info
@@ -149,7 +150,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 54/133 est MPG10 Hybrid $32,115 as shown1 2018 Prius $23,475 starting1  
 54/50 est MPG17 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
 48/43 est MPG20 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
-67/67 est MPG20 Upcoming Vehicles Hybrid 2019 Prius 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD Hybrid All New 2019 RAV4 Hybrid Hybrid Available All New 2020 Corolla 2019 Supra Xfinity Series Race Car GR Supra Racing Concept 2017 FT-4X Concept All Vehicles
+67/67 est MPG20 Upcoming Vehicles All New 2020 GR Supra Hybrid 2019 Prius 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD Hybrid All New 2019 RAV4 Hybrid Hybrid Available All New 2020 Corolla 2019 Supra Xfinity Series Race Car GR Supra Racing Concept 2017 FT-4X Concept All Vehicles
 
 *   Careers
 *   Español
