@@ -1,9 +1,9 @@
 Playoffs - DIVISIONAL
 
-*   PHI9-714NO13-320Final
-*   LAC12-428NE11-541Final
 *   IND10-613KC12-431Final
 *   DAL10-622LA13-330Final
+*   LAC12-428NE11-541Final
+*   PHI9-714NO13-320Final
 
 *   News
 *   Scores
@@ -26,10 +26,10 @@ Playoffs - DIVISIONAL
 
 Playoffs - DIV
 
-*   PHI14NO20Final
-*   LAC28NE41Final
 *   IND13KC31Final
 *   DAL22LA30Final
+*   LAC28NE41Final
+*   PHI14NO20Final
 
 *   News
 *   Scores
