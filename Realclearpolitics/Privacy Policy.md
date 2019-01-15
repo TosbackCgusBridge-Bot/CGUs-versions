@@ -108,53 +108,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Julian Zelizer_: Make No Mistake -- This Is a GOP Shutdown
+*   _Mollie Hemingway_: FBI Retaliated Against Trump for Firing Comey
     
-*   _Ford O'Connell_: Trump Is Right: Walls Work on the Southern Border
+*   _Strobe Talbott_: Trump's Foreign Policy: It's Already Collusion
     
-*   _Dan Balz_: Start of a Long Year of Toxic Politics Between Dems &. Trump
+*   _Mark Penn_: The Deep State Was Even Worse Than We Thought
     
-*   _Michael Goodwin_: Dems Battle to See Who Can Be Most Radical
+*   _Richard Hasen_: How the House Democrats Could Save American Democracy
     
-*   _Yvonne Abraham_: Miss Your Government Yet?
+*   _Niall Ferguson_: In a Choice Between Open Borders or Walls, Walls Win
     
-*   _Dov Fischer_: The Dems Who Cried Wolf
+*   _Juan Williams_: Trump's Border Wall Is Founded on Fiction
     
-*   _Goldman_: FBI Probed If Trump Was Secretly Working on Behalf of Russia
+*   _Kurt Schlichter_: Apocalypse Ruth: Preparing for Ginsberg's Retirement
     
-*   _Newt Gingrich_: NYT Report Shows How Deeply Sick the Establishment Is
+*   _Kalev Leetaru_: Is Ocasio-Cortez's Media Star Already Losing Its Luster?
     
-*   _Leonard Pitts_: Right Wing Has Gotten Panicky, Petty, Pathetic
+*   _Adam Serwer_: The Core of Trump's Philosophy Is White Supremacy
     
-*   _Pedro Gonzalez_: Why Ocasio-Cortez Can't Be Wrong
+*   _Victor Davis Hanson_: Liberal Identity Politics &. the Game of Pseudo-Authenticity
     
-*   _Bobby Ghosh_: Pompeo's Ugly, Cynical, Honest Speech in Cairo
+*   _Scott Pattison_: Governors Build Global Ties, Stability in Challenging Times
     
-*   _Stephen MacLean_: Brexit Beckons the Courage of Thomas Paine
+*   _Joel Kotkin_: Dems Finally Won the Suburbs. Will They Destroy Them?
     
-*   _George Will_: Referenda Delenda Est
+*   _Daniel Block_: Democrats Need Plan to Win Back the Heartland
     
-*   _Maureen Dowd_: Nancy Pelosi Spanks the First Brat
+*   _Rep. Ralph Norman_: Border Security a Fight We Must Not Lose
     
-*   _John Solomon_: How Media Omissions Shield Democrats on Russia Probe
+*   _Bill Scher_: Let's Have a Real Immigration Debate
     
-*   _Rex Murphy_: The American Press Should Be Grateful to Trump
+*   _Peter Baker_: Trump Confronts Prospect of 'Nonstop Political War' for Survival
     
-*   _Carl M. Cannon_: Cyntoia Brown and the Quality of Mercy
+*   _Gregg Jarrett_: The FBI's Outrageous Abuse of Power
     
-*   _Conrad Black_: America's Resurgence Is Reshaping the World
+*   _Ed Kilgore_: What 'Lanes' Will the 2020 Dem Candidates Run In?
     
-*   _Andrew Sullivan_: Welcome to Act III of the Trump Tragedy
+*   _A.B. Stoddard_: Sorry, Dems, the Likability Question Isn't Sexist
     
-*   _Michael Graham_: Note to Democrats--It's Time to Compromise
+*   _David Leonhardt_: Run, Joe, Run
     
-*   _Paul Brandus_: 6 Real Emergencies More Important Than the Border Wall
+*   _Michael Knowles_: Ocasio-Cortez, the Voice of an Ignorant Generation
     
-*   _Newt Gingrich_: If Not Now to Secure the Border, When?
+*   _Annie Lowery_: The Truth About the Gig Economy
     
-*   _Alex Shephard_: Republicans Have Learned Nothing From Midterms
+*   _Gov. John Kasich_: The Republican Party Is Still Mired in the 1950s
     
-*   _Bruce Walker_: Good Luck Keeping the House Majority, Nancy
+*   _Jason Hart_: John Kasich Exits Stage Left
     
 
 *   Previous
@@ -225,11 +225,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   2020 Democratic Primary Set to Intensify
+*   Trump Says U.S. Will Hurt Turkey Economically If It Hits Kurds
+*   Warner: Trump Will Go Down as the Worst Negotiator in History
 *   Partial Shutdown Becomes Longest Federal Closure in U.S. History
 *   Trump Administration Eyes Disaster Money to Fund Border Wall
-*   Trump at Border: Without the Wall There Will Be "Death, a Lot of Death"
-*   U.S. Official Says Troop Withdrawal From Syria Has Started
-*   Democrats' Diversity Push May Block White Males in 2020
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -242,26 +242,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   North Carolina: Trump vs. WarrenPPP (D)
-    *   Trump46
-    *   Warren46Tie
-*   North Carolina: Trump vs. O'RourkePPP (D)
-    *   Trump46
-    *   O'Rourke45Trump +1
-*   North Carolina: Trump vs. BidenPPP (D)
-    *   Biden49
-    *   Trump44Biden +5
-*   North Carolina: Trump vs. HarrisPPP (D)
-    *   Trump45
-    *   Harris45Tie
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve42
+    *   Disapprove54Disapprove +12
+*   President Trump Job ApprovalCNN
+    *   Approve37
+    *   Disapprove57Disapprove +20
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove55Disapprove +12
+*   Direction of CountryRasmussen Reports
+    *   Right Direction36
+    *   Wrong Track58Wrong Track +22
 
 More Latest Polls In The News
 
+*   House Oversight Committee Chair Elijah Cummings: We've Got To Hit The Ground "Flying"
 *   Sen. Dick Durbin: "One Phone Call From Mitch McConnell" Can End Government Shutdown Tomorrow
 *   Rubio: No One In The World Should Be Making Unsafe Trip From Central America Across U.S. Border
 *   McCarthy: Who In America Would Believe Border Security Would Not Include Some Form Of Barrier?
 *   Trump on Border Crisis: Other Presidents Have Called National Emergencies For Less Than This
-*   Parscale: The Number One Reason People Will Vote For Trump Is Because Of Border Security Stance
 
 *   Politics
 *   Policy
