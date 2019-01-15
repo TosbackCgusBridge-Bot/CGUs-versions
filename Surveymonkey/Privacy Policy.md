@@ -927,3 +927,5 @@ Copyright © 1999-2019 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 You
 4.  Plans &. Pricing
 5.  LOG IN
 6.  SIGN UP
+
+<iframe src="//s.thebrighttag.com/iframe?c=ZbjtK2N" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
