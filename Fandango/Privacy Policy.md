@@ -5,30 +5,24 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   The Upside
     *   Aquaman
+    *   A Dog's Way Home
+    *   Spider-Man: Into the Spider-Verse
     *   Escape Room (2019)
     *   Mary Poppins Returns (2018)
-    *   Spider-Man: Into the Spider-Verse
     *   Bumblebee
+    *   On the Basis of Sex
     *   The Mule (2018)
     *   Vice (2018)
-    *   Second Act
-    *   Ralph Breaks the Internet
-    *   Holmes &. Watson
     *   Bohemian Rhapsody
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   A Dog's Way Home
-    *   Replicas
-    *   The Upside
-    *   If Beale Street Could Talk
-    *   On the Basis of Sex
-    *   The Aspern Papers
-    *   Perfectos Desconocidos
-    *   Sgt. Will Gardner
-    *   The Untold Story
+    *   Glass (2019)
+    *   An Acceptable Loss
+    *   Adult Life Skills
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -37,7 +31,6 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Glass (2019)
     *   Serenity (2019)
     *   The Kid Who Would Be King
     *   Miss Bala (2019)
@@ -45,6 +38,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   The Lego Movie 2: The Second Part
     *   The Prodigy (2019)
     *   What Men Want
+    *   Isn't It Romantic
     *   See All Coming Soon
     
     Explore More
@@ -319,9 +313,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'On the Basis of Sex' Sweepstakes
+*   'How to Train Your Dragon: The Hidden World' Fandango Early Access
     
-    Enter for a chance to win a script of the movie signed by cast &. filmakers! ENTER NOW
+    See it 3 weeks before it hits theaters! Plus, stream a bonus DreamWorks movie on us with ticket purchase! BUY TICKETS
     
 *   $8 to see ‘Mary Poppins Returns’
     
