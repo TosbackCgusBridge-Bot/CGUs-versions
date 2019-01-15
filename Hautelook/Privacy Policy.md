@@ -8,18 +8,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Diane von Furstenberg Up to 60% Off
+    *   Champion Active
+    *   Dr. Martens from $30
+    *   Kensie
+    *   Forgotten Grace
+    *   Cuisinart
+    *   Our Best Bras ft. Natori
+    *   Luxe Basics: Designer Styles Up to 65% Off
+    *   14K Gold, Gemstones &. More Under $80
+    *   7 For All Mankind Men Under $100
+    *   Spring Dress Preview ft. Joe-Ella
+    *   BC Collection
+    *   Diane von Furstenberg &. More: Sun Under $80
+    *   Giorgio Brutini
+    *   Retro Kids' Sneakers from Reebok &. More
+    *   Starry Nights: Kids' Pajamas
+    *   Standout Button-Down Shirts
+    *   Bobbi Brown Cosmetics
+    *   Women's Boots &. More by Wolverine
+    *   Fragrances We Love ft. Burberry &. Calvin Klein
+    *   Patricia Green Up to 70% Off
     *   J Brand
+    *   Coats Up to 70% Off
+    *   Resort Ready: Love Stitch &. More
     *   Romeo &. Juliet Couture Blowout
-    *   Fine Jewelry Up to 70% Off
     *   Sunday Steals Up to 75% Off
-    *   Samuel B Jewelry Starting at $20
+    *   24/7 Comfort
+    
+    *   One-of-a-Kind Bags &. More Up to 80% Off
     *   On-Trend Boots, Sneakers &. More Up to 60% Off
     *   Men's Shoes Up to 65% Off
-    *   Last Call: Rugs, Seating &. More Up to 65% Off
-    *   Cold-Weather Accessories Blowout
+    *   J Brand Men Up to 60% Off
     *   Dyson Up to 50% Off
-    *   Eileen Fisher Up to 55% Off
-    *   Best Brands, Best Basics: Styles from $13
     *   1.State
     *   Vanity Planet Up to 75% Off
     *   Pippa &. Julie
@@ -28,217 +49,196 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   XRAY
     *   XRAY Shoes Up to 60% Off
     *   Baby Shop: On-Trend Styles ft. Tucker + Tate
-    *   Sweaters Under $50
-    *   On-Trend Sterling Silver Rings &. More 70% Off
     *   A.L.C. &. More
-    *   Michael Kors Men
     *   Black Orchid
     *   Kristin Cavallari by Chinese Laundry Up to 60% Off
     *   American Twist Under $40
     *   Dainty Details: Meira T Fine Jewelry
-    
     *   Wow Couture
-    *   LOVE Moschino Shoes
     *   Free Shipping: Cozy Comforters &. More
     *   Tiny Tribe
-    *   Our Best Brands: Men's Outerwear
-    *   ...Lost
     *   NIC+ZOE
     *   Lysse &. More
-    *   Travel Smart: Hardside Luggage
     *   Rush by Gordon Rush Up to 65% Off
-    *   Catherine Catherine Malandrino Up to 65% Off
-    *   Feminine Flair: Styles ft. Betsey Johnson
-    *   Everleigh
-    *   Nine West Up to 55% Off
-    *   14K Gold Steals &. More
-    *   Cotton On &. Co. Starting at $10
-    *   Tommy Hilfiger Up to 50% Off
-    *   Kids' Swim ft. Limeapple
     *   Fromm Beauty Must-Haves Starting at $10
-    *   Oliver Peoples Sun &. More
     *   Cheers to These: Chic Drinkware &. More
     *   Free Shipping: Storage Must-Haves from $10
-    *   Vicenzo Leather
+    
     *   Secret Collagen
     *   Dress Shirts Under $35
     *   Rogue Starting at $13
     *   Mirenesse Australia Up to 75% Off
     *   Marc New York Performance
-    
     *   Made in Italy: Meshmerise Jewelry from $20
-    *   Etienne Aigner Up to 55% Off
-    *   Robert Lee Morris Soho Jewelry
+    *   Free Shipping: Shelves, Storage &. More from $10
     *   Men's Skin Care
     *   Levi's Men Under $80
     *   Mezlan
-    *   Lime Crime
-    *   Free Shipping: Shelves, Storage &. More from $10
-    *   Free Shipping: Metal &. Wood Wall Decor
-    *   Air Fryers &. More from Kalorik
-    *   Free Shipping: BergHOFF Blowout
     *   Cookware &. More from Ayesha Curry Home
-    *   LOVE Moschino
-    *   Date Night-Ready Shoes
     *   Give or Get: V-Day Ready Men's Shoes from $10
-    *   Lingerie Faves Under $30
-    *   Coats Up to 70% Off
-    *   One-of-a-Kind Bags &. More Up to 80% Off
-    *   J Brand Men Up to 60% Off
-    *   Resort Ready: Love Stitch &. More
-    *   24/7 Comfort
+    *   Fine Jewelry Up to 70% Off
+    *   Sweaters Under $50
+    *   Etienne Aigner Up to 55% Off
+    *   Robert Lee Morris Soho Jewelry
+    *   Samuel B Jewelry Starting at $20
+    *   Cold-Weather Accessories Blowout
+    *   Last Call: Rugs, Seating &. More Up to 65% Off
+    *   Eileen Fisher Up to 55% Off
+    *   On-Trend Sterling Silver Rings &. More 70% Off
     *   GV2 by Gevril Watches Up to 85% Off
-    *   KicKee Pants
     *   Free Shipping: Chic Bedding Sets &. More
     *   Car Storage &. Organization Essentials from $10
-    *   Total Dreamz Nightlights
-    *   Ready, Set, Go: Kids' Sets Under $25
+    *   Free Shipping: BergHOFF Blowout
+    *   Air Fryers &. More from Kalorik
 *   WomenShop Sale Events
     
+    *   Diane von Furstenberg Up to 60% Off
+    *   Champion Active
+    *   Dr. Martens from $30
+    *   Kensie
+    *   Forgotten Grace
+    *   Our Best Bras ft. Natori
+    *   Luxe Basics: Designer Styles Up to 65% Off
+    *   14K Gold, Gemstones &. More Under $80
+    *   Diane von Furstenberg &. More: Sun Under $80
+    *   Bobbi Brown Cosmetics
+    *   Women's Boots &. More by Wolverine
+    *   Fragrances We Love ft. Burberry &. Calvin Klein
+    *   Patricia Green Up to 70% Off
     *   J Brand
+    *   Coats Up to 70% Off
+    *   Resort Ready: Love Stitch &. More
     *   Romeo &. Juliet Couture Blowout
-    *   Fine Jewelry Up to 70% Off
     *   Sunday Steals Up to 75% Off
-    *   Samuel B Jewelry Starting at $20
+    *   24/7 Comfort
+    *   One-of-a-Kind Bags &. More Up to 80% Off
     *   On-Trend Boots, Sneakers &. More Up to 60% Off
-    *   Cold-Weather Accessories Blowout
-    *   Eileen Fisher Up to 55% Off
-    *   Best Brands, Best Basics: Styles from $13
     *   1.State
     *   Vanity Planet Up to 75% Off
+    
     *   Louise et Cie Up to 60% Off
     *   Matisse
-    *   On-Trend Sterling Silver Rings &. More 70% Off
     *   A.L.C. &. More
     *   Black Orchid
     *   Kristin Cavallari by Chinese Laundry Up to 60% Off
     *   American Twist Under $40
     *   Dainty Details: Meira T Fine Jewelry
     *   Wow Couture
-    *   LOVE Moschino Shoes
     *   NIC+ZOE
     *   Lysse &. More
-    *   Travel Smart: Hardside Luggage
-    *   Catherine Catherine Malandrino Up to 65% Off
-    
-    *   Feminine Flair: Styles ft. Betsey Johnson
-    *   Everleigh
-    *   Nine West Up to 55% Off
-    *   14K Gold Steals &. More
-    *   Cotton On &. Co. Starting at $10
-    *   Tommy Hilfiger Up to 50% Off
     *   Fromm Beauty Must-Haves Starting at $10
-    *   Oliver Peoples Sun &. More
-    *   Vicenzo Leather
     *   Secret Collagen
     *   Mirenesse Australia Up to 75% Off
     *   Marc New York Performance
     *   Made in Italy: Meshmerise Jewelry from $20
+    *   Fine Jewelry Up to 70% Off
     *   Etienne Aigner Up to 55% Off
     *   Robert Lee Morris Soho Jewelry
-    *   Lime Crime
-    *   LOVE Moschino
-    *   Date Night-Ready Shoes
-    *   Lingerie Faves Under $30
-    *   Coats Up to 70% Off
-    *   One-of-a-Kind Bags &. More Up to 80% Off
-    *   Resort Ready: Love Stitch &. More
-    *   24/7 Comfort
+    *   Samuel B Jewelry Starting at $20
+    *   Cold-Weather Accessories Blowout
+    *   Eileen Fisher Up to 55% Off
+    *   On-Trend Sterling Silver Rings &. More 70% Off
     *   GV2 by Gevril Watches Up to 85% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie
-    *   Handbags
+    *   Jewelry
     *   Accessories
+    *   Handbags
     *   Watches
 *   MenShop Sale Events
     
+    *   7 For All Mankind Men Under $100
+    *   BC Collection
+    *   Giorgio Brutini
+    *   Standout Button-Down Shirts
+    *   Fragrances We Love ft. Burberry &. Calvin Klein
     *   Men's Shoes Up to 65% Off
+    *   J Brand Men Up to 60% Off
     *   XRAY
     *   XRAY Shoes Up to 60% Off
-    *   Sweaters Under $50
-    *   Michael Kors Men
-    *   Our Best Brands: Men's Outerwear
-    *   ...Lost
-    *   Travel Smart: Hardside Luggage
-    *   Rush by Gordon Rush Up to 65% Off
     
-    *   Oliver Peoples Sun &. More
+    *   Rush by Gordon Rush Up to 65% Off
     *   Dress Shirts Under $35
     *   Rogue Starting at $13
     *   Men's Skin Care
     *   Levi's Men Under $80
     *   Mezlan
     *   Give or Get: V-Day Ready Men's Shoes from $10
-    *   J Brand Men Up to 60% Off
+    *   Sweaters Under $50
     *   GV2 by Gevril Watches Up to 85% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   Spring Dress Preview ft. Joe-Ella
+    *   Retro Kids' Sneakers from Reebok &. More
+    *   Starry Nights: Kids' Pajamas
     *   Pippa &. Julie
     *   Baby Shop: On-Trend Styles ft. Tucker + Tate
     *   Tiny Tribe
-    *   Kids' Swim ft. Limeapple
-    *   KicKee Pants
-    *   Total Dreamz Nightlights
-    *   Ready, Set, Go: Kids' Sets Under $25
     
     Shop By Category
-    *   Baby Girl
-    *   Baby Boy
     *   Girls Sizes 2T-6X
-    *   Boys Sizes 2T-7
+    *   Girls' Sizes 2T-6X
+    *   Baby Girl
     *   Girls Sizes 7-16
+    *   Baby Boy
+    *   Boys Sizes 2T-7
+    *   Girls' Sizes 7-16
+    *   Boys' Shoes
+    *   Girls' Shoes
     *   Boys Sizes 8-20
-    *   Baby Gear &. Essentials
+    *   Boys' Sizes 8-20
+    *   Boys' Sizes 2T-7
 *   HomeShop Sale Events
     
-    *   Last Call: Rugs, Seating &. More Up to 65% Off
+    *   Cuisinart
     *   Dyson Up to 50% Off
     *   Free Shipping: Cozy Comforters &. More
     *   Cheers to These: Chic Drinkware &. More
     *   Free Shipping: Storage Must-Haves from $10
     *   Free Shipping: Shelves, Storage &. More from $10
     
-    *   Free Shipping: Metal &. Wood Wall Decor
-    *   Air Fryers &. More from Kalorik
-    *   Free Shipping: BergHOFF Blowout
     *   Cookware &. More from Ayesha Curry Home
+    *   Last Call: Rugs, Seating &. More Up to 65% Off
     *   Free Shipping: Chic Bedding Sets &. More
     *   Car Storage &. Organization Essentials from $10
+    *   Free Shipping: BergHOFF Blowout
+    *   Air Fryers &. More from Kalorik
     
     Shop By Category
     *   Kitchen &. Tabletop
-    *   Home Decor
     *   Bedding
-    *   Luggage &. Travel
+    *   Home Decor
     *   Storage &. Organization
+    *   Luggage &. Travel
     *   Rugs &. Doormats
+    *   Accent Furniture
     *   Holiday Decorations
     *   Outdoor Living
     *   Bath
-    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Bobbi Brown Cosmetics
+    *   Fragrances We Love ft. Burberry &. Calvin Klein
     *   Vanity Planet Up to 75% Off
     *   Fromm Beauty Must-Haves Starting at $10
     *   Secret Collagen
     *   Mirenesse Australia Up to 75% Off
     *   Men's Skin Care
-    *   Lime Crime
     
     Shop By Category
-    *   Makeup
     *   Skin Care
+    *   Makeup
     *   Tools &. Accessories
+    *   Fragrance
     *   Hair Care
     *   Bath &. Body
     *   Nails
