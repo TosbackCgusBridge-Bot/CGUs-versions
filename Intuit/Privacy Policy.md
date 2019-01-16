@@ -17,45 +17,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackBUY 1 GET 1 50% OFF ATHLETIC SHOESShop AllSELECT STYLESBUY 1 GET 1 50% OFF ATHLETIC SHOESSELECT STYLESShop All
-
-*   BUY 1 GET 1 50% OFF
-    
-    from$4549
-    
-    Nike Flex Experience 7 Womens Running Shoes Lace-up(41)Add To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $65
-    
-    Nike® Air Monarch IV Mens Training Shoes(509)Add To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $65
-    
-    Nike® Air Monarch IV Mens Training Shoes(509)Add To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $85
-    
-    Nike Flex Run 2018 Mens Running Shoes Lace-upAdd To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $85
-    
-    Nike Flex 2018 Womens Running Shoes Lace-up(1)Add To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    from$5949
-    
-    Nike Renew Rival Womens Running Shoes Lace-upAdd To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $65
-    
-    Nike Flex Experience 7 Mens Running Shoes Lace-up(33)Add To Cart
-
-UP TO 70% OFF WOMEN'S DRESSESShop AllSELECT STYLESUP TO 70% OFF WOMEN'S DRESSESSELECT STYLESShop All
+Near YouFind a StoreBackUP TO 70% OFF WOMEN'S DRESSESShop AllSELECT STYLESUP TO 70% OFF WOMEN'S DRESSESSELECT STYLESShop All
 
 *   LIMITED TIME SPECIAL!
     
@@ -67,11 +29,6 @@ UP TO 70% OFF WOMEN'S DRESSESShop AllSELECT STYLESUP TO 70% OFF WOMEN'S DRESSESS
     $4999 sale
     
     was $100 R &. M Richards 3/4 Sleeve Embellished Cape Shift Dress(1)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $6999 sale
-    
-    was $140 Jackie Jon Short Sleeve Beaded Evening Gown
 *   LIMITED TIME SPECIAL!
     
     $5999 sale
@@ -92,6 +49,11 @@ UP TO 70% OFF WOMEN'S DRESSESShop AllSELECT STYLESUP TO 70% OFF WOMEN'S DRESSESS
     $4299 sale
     
     was $89 Studio 1 Sleeveless Floral A-Line Dress-PetiteAdd To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $4299 sale
+    
+    was $89 Scarlett Short Sleeve Pattern Shift Dress-PetiteAdd To Cart
 
 UP TO 70% OFF MEN'S SHIRTS &. TOPSShop AllSELECT STYLESUP TO 70% OFF MEN'S SHIRTS &. TOPSSELECT STYLESShop All
 
@@ -133,28 +95,28 @@ UP TO 70% OFF MEN'S SHIRTS &. TOPSShop AllSELECT STYLESUP TO 70% OFF MEN'S SHIRT
 
 Hot Sellers
 
-*   BUY MORE AND SAVE WITH CODE: 63GETNOW
+*   BUY 1 GET 1 50% OFF
     
-    from$3840after couponNorth Pole Trading Co. Flannel Sheet Sets(53)
-*   BUY 1 GET 1 40% OFF
+    $50
     
-    $44
-    
-    Lee® Regular-Fit Straight-Leg Jeans(1589)
-*   BUY MORE AND SAVE WITH CODE: 63GETNOW
-    
-    $2520after couponArizona Basic Original Bootcut Jeans(577)
+    Stafford Travel Stretch Performance Super Shirt Mens Long Sleeve Dress Shirt(6)
 *   BUY MORE AND SAVE WITH CODE: 63GETNOW
     
     $30
     
     St. John's Bay Mens Long Sleeve Polo Shirt(13)
-*   $2999after couponwas $100 Xersion Packable Wind Resistant Lightweight Puffer Jacket(54)
 *   BUY MORE AND SAVE WITH CODE: 63GETNOW
     
-    $30
+    from$824after couponEclipse® Kendall Rod-Pocket Thermal Blackout Curtain Panel(26)
+*   BUY MORE AND SAVE WITH CODE: 63GETNOW
     
-    St. John's Bay Mens Henley Neck Long Sleeve Thermal Top(52)
+    $2520after couponArizona Original Flex Chino Pants(192)
+*   BUY MORE AND SAVE WITH CODE: 63GETNOW
+    
+    from$40
+    
+    JCPenney Home™ Light-Filtering Cordless Cellular Shade(266)
+*   from$1349after couponwas $30 - $535 JCPenney Home™ McKenzie Washable Rectangular Rug(412)
 
 Shop and Save at JCPenney
 
