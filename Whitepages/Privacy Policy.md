@@ -6,8 +6,8 @@ try pro free for 7 days Fill out the CAPTCHA to continue searching on Whitepages
 
 Not searching for business use? Complete the test, prove you’re a real human, and we’ll send you along to Whitepages.
 
-<div>. <p><strong>JavaScript needs to be enabled to complete CAPTCHA.</strong></p>. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2019-01-15 06:38:52 UTC.  
-Trace: b1fe3144-931c-4bdf-9716-132f9a56539b via e346b97e-fc75-43cd-bdce-f43f8a50eda0
+<div>. <p><strong>JavaScript needs to be enabled to complete CAPTCHA.</strong></p>. </div>. You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2019-01-16 06:39:58 UTC.  
+Trace: 28f415f5-cf52-47f0-ba8d-0445299a5180 via e346b97e-fc75-43cd-bdce-f43f8a50eda0
 
 *   Facebook
 *   Google+
@@ -23,9 +23,10 @@ Trace: b1fe3144-931c-4bdf-9716-132f9a56539b via e346b97e-fc75-43cd-bdce-f43f8a50
 **Find**
 
 *   People Search
-*   Reverse Phone
-*   Reverse Address
+*   Phone Search
+*   Address Search
 *   Email Search
+*   Business Search
 *   Background Search
 *   SmartCheck
 
