@@ -23,6 +23,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Glass (2019)
     *   An Acceptable Loss
     *   Adult Life Skills
+    *   Dragon Ball Super: Broly
+    *   The Heiresses
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -68,7 +70,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Dave Bautista Joins 'Dune'. Here's Everything We Know Read More
     *   Marsai Martin Enters the Big Time in ‘Little’ Trailer. Here’s Everything We Know Read More
-    *   The Week in Movie News: Golden Globe Winners, ‘Venom’ Sequel Moves Forward and More Read More
+    *   Spider-Man Meets Nick Fury in First ‘Spider-Man: Far From Home’ Trailer. Here’s Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
