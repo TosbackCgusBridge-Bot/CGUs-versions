@@ -93,7 +93,11 @@ Main menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Experience Big Screen Entertainment the Way Creators Intended
+search Tom Holland Returns as Peter Parker, and Swings Through Europe in “Spider-Man: Far From Home”
+
+In Theaters July 5
+
+<img class="bg-img" data-linkname="en:set\_e:position\_1|\_5x2-1:video:movies:SpiderManFarFromHomeTrailer-January-15-2019:sp:image:DYYtuKyMtY8" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Tom Holland Returns as Peter Parker, and Swings Through Europe in “Spider-Man: Far From Home” DYYtuKyMtY8 Spider-Man-Far-From-Home-Trailer" data-img1x="/content/dam/sony/homepage/2019-january/1-14/spider-man-far-from-home-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-14/spider-man-far-from-home-1276x500.jpg" src="/content/dam/sony/homepage/2019-january/1-14/spider-man-far-from-home-1276x500.jpg" alt="Spider-Man: Far From Home Trailer"/>. <img class="bg-img" data-linkname="en:set\_e:position\_1|\_5x2-1:video:movies:SpiderManFarFromHomeTrailer-January-15-2019:sp:image-mobile:DYYtuKyMtY8" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Tom Holland Returns as Peter Parker, and Swings Through Europe in “Spider-Man: Far From Home” DYYtuKyMtY8 Spider-Man-Far-From-Home-Trailer" data-img1x="/content/dam/sony/homepage/2019-january/1-14/spider-man-far-from-home-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-14/spider-man-far-from-home-1276x500.jpg" src="/content/dam/sony/homepage/2019-january/1-14/spider-man-far-from-home-600x600.jpg" alt="Spider-Man: Far From Home Trailer"/>. Experience Big Screen Entertainment the Way Creators Intended
 
 Discover Our 8K OLED TV
 
@@ -103,7 +107,7 @@ Discover Our 8K OLED TV
 
 Bring a touch of Chrome Black to the table with the seamless design of #Xperia XZ2 Premium.  http://bit.ly/TW-Xperia-XZ2Premium-Design … pic.twitter.com/QFpdzv4P5L
 
-18 hours ago
+1 day ago
 
 View Tweet
 
@@ -111,9 +115,9 @@ Check Out Our Booth At CES 2019
 
 <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-4:image:electronics:CESBooth-January-14-2019:sc:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Check Out Our Booth CES-Booth" data-img1x="/content/dam/sony/homepage/2019-january/1-7/B\_Boothwide01\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-7/B\_Boothwide01\_600x600.jpg" src="/content/dam/sony/homepage/2019-january/1-7/B\_Boothwide01\_600x600.jpg" alt="A9F Master Series TV"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-4:image:electronics:CESBooth-January-14-2019:sc:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Check Out Our Booth CES-Booth" data-img1x="/content/dam/sony/homepage/2019-january/1-7/B\_Boothwide01\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-7/B\_Boothwide01\_600x600.jpg" src="/content/dam/sony/homepage/2019-january/1-7/B\_Boothwide01\_600x600.jpg" alt="A9F Master Series TV"/>. Headphones + Alexa = Voice Control On the Go
 
-<img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:1000XM3Headphones-January-14-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Headphones + Alexa = 1000XM3-Headphones" data-img1x="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" src="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" alt="1000XM3 Headphones"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:1000XM3Headphones-January-14-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Headphones + Alexa = 1000XM3-Headphones" data-img1x="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" src="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" alt="1000XM3 Headphones"/>. Find the Gear to Unlock Your Creativity Explore Sony Cameras
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:1000XM3Headphones-January-14-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Headphones + Alexa = 1000XM3-Headphones" data-img1x="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" src="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" alt="1000XM3 Headphones"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:1000XM3Headphones-January-14-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Headphones + Alexa = 1000XM3-Headphones" data-img1x="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" src="/content/dam/sony/homepage/2019-january/1-7/P\_1000MX3\_02\_600x600.jpg" alt="1000XM3 Headphones"/>. Unleash Your Creative Potential Introducing the a6400 Camera
 
-<img class="bg-img" data-linkname="en:set\_a:position\_1|\_2x2-6:image:electronics:AlphaMountCES-January-14-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Find the Gear to Unlock Your Creativity Alpha-Mount-CES" data-img1x="/content/dam/sony/homepage/2019-january/1-7/B\_alpha01\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-7/B\_alpha01\_600x600.jpg" src="/content/dam/sony/homepage/2019-january/1-7/B\_alpha01\_600x600.jpg" alt="Digital Imaging Alpha Mount"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_2x2-6:image:electronics:AlphaMountCES-January-14-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Find the Gear to Unlock Your Creativity Alpha-Mount-CES" data-img1x="/content/dam/sony/homepage/2019-january/1-7/B\_alpha01\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-7/B\_alpha01\_600x600.jpg" src="/content/dam/sony/homepage/2019-january/1-7/B\_alpha01\_600x600.jpg" alt="Digital Imaging Alpha Mount"/>. How the Makers of “Spider-Man: Into the Spider-Verse” Created an Award-Winning New Style
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_2x2-6:image:electronics:a6400Camera-January-15-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Unleash Your Creative Potential a6400-Camera" data-img1x="/content/dam/sony/homepage/2019-january/1-14/a6400-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-14/a6400-600x600.jpg" src="/content/dam/sony/homepage/2019-january/1-14/a6400-600x600.jpg" alt="a6400 Camera"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_2x2-6:image:electronics:a6400Camera-January-15-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Unleash Your Creative Potential a6400-Camera" data-img1x="/content/dam/sony/homepage/2019-january/1-14/a6400-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-14/a6400-600x600.jpg" src="/content/dam/sony/homepage/2019-january/1-14/a6400-600x600.jpg" alt="a6400 Camera"/>. How the Makers of “Spider-Man: Into the Spider-Verse” Created an Award-Winning New Style
 
 Learn More About the Unique Animated Movie
 
@@ -147,7 +151,7 @@ Now In Theaters
 
 Enter the world of survival horror, fully prepared. Make the most of the Resident Evil 2 "1-Shot" Demo with these tips from Capcom:  https://play.st/2GZ1FER  pic.twitter.com/1hK0hJYKIW
 
-1 day ago
+2 days ago
 
 View Tweet
 
