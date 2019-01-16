@@ -1,6 +1,6 @@
 Skip to main content Welcome to {{domainText}} **Continue to the U.S. site at {{usSiteDomain}}** close Booking travel on behalf of Done Download the free app
 
-Earn 5% back + save 15% on first eligible hotel booking with code **APP15**
+Earn 5% back in app + save 15% on select hotels with code **APP15**
 
 Join Rewards
 
