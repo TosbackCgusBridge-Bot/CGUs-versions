@@ -18,6 +18,7 @@ Playoffs - DIVISIONAL
 *   Game Pass
 *   Super Bowl
 *   Pro Bowl
+*   NFL Honors
 *   Stats
 *   Next Gen Stats
 *   Ways to Watch
@@ -44,6 +45,7 @@ Playoffs - DIV
 *   *   Game Pass
     *   Super Bowl
     *   Pro Bowl
+    *   NFL Honors
     *   Stats
     *   Next Gen Stats
     *   Ways to Watch
