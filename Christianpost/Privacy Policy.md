@@ -33,9 +33,9 @@ Hot Topics
 
 *   Hollywood actor
 *   Caleb Hanna
-*   Anglican ambassador
-*   Switchfoot
-*   Gov't shutdown
+*   Ten Commandments
+*   Jayme Closs
+*   Church sign
 
 About Us
 
