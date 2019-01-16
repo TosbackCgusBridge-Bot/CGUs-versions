@@ -17,7 +17,7 @@
     
     America’s Top 120  
     
-    $ 59 99 /mo 190  
+    $ 69 99 /mo 190  
     Channels
     
     Includes DVR  
@@ -83,7 +83,7 @@
     
 *   SERVICE
     
-    Rated #1 in Customer Satisfaction by ACSI
+    DISH is ranked #1 in Customer Satisfaction by J.D. Power and our customers. §
     
     Learn More >.
     
@@ -96,7 +96,7 @@
     
     Award-Winning Service
     
-    DISH has been rated #1 in Customer Satisfaction, #1 in Signal Reliability and the Best Value by the American Customer Satisfaction Index.
+    DISH is ranked #1 in Customer Satisfaction by J.D. Power and our customers. §
     
 *   COMPARE
     
@@ -104,15 +104,15 @@
     
     Compare DISH >.
     
-    *   DISH vs Competition
-    *   DISH vs DirecTV
+    *   DISH vs. Competition
+    *   DISH vs. DirecTV
     *   DISH vs. Comcast Xfinity
     *   DISH vs. Charter Spectrum
     *   DISH vs. Cable
     *   Compare Your Bill To DISH and Save
     *   Compare DISH Equipment Options
     
-    DISH vs Competition
+    DISH vs. Competition
     
     You deserve a TV provider with technology that's easy to use and greatly improves your quality of life. Come enjoy TV on your terms with us. let's get the entertainment going.
     
@@ -132,9 +132,13 @@
 *   1-888-434-0112
 *   CHAT
 
-Search*   Menu
+*   Menu
 
-Free Voice Remote, and DVR Included Get DISH Sign Up To Stay Updated On Our Best Offers Your Email Address Sign Up
+Search
+
+DISH is ranked #1 In Customer Satisfaction by J.D. Power and our customers.§
+
+Get DISH Sign Up To Stay Updated On Our Best Offers Your Email Address Sign Up
 
 “DISH has consistently  
 great service, and they  
@@ -184,9 +188,15 @@ Back to Homepage
 
 DISH Cares connects our team with opportunities in local communities to make a difference for those who need it most.
 
-Rated #1 in Customer Satisfaction
+*   Ranked #1 in Customer Satisfaction by J.D. Power §
+*   #1 in Customer Service §
+*   #1 in in Performance and Reliability §
+*   #1 in Cost of Service §
+*   #1 in Billing Experience §
 
-24/7 Customer Support 99% Signal Quality Available Anywhere
+*   24/7 Customer Support
+*   99% Signal Quality
+*   Available Anywhere
 
 Get the full DISH experience!
 
