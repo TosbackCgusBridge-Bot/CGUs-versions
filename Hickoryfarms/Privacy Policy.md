@@ -10,7 +10,7 @@
     *   New!
     
     Occasions*   Game Day
-    *   Birthday GiftsMost Popular Fruit Baskets
+    *   Birthday GiftsMost Popular Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -45,7 +45,6 @@
     *   Nuts
     *   Crackers
     *   Popcorn Gifts
-    *   Tea &. Coffee Gifts
     
     Effortless Meals*   Gourmet Meals
     *   Side Dishes &. Appetizers
@@ -66,15 +65,16 @@
     *   Weddings &. Showers
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Valentine's Day Gifts
-*   Clearance Sale
+*   Business Gifts
+*   Sale
 
-1.800.753.8558 Business Gifts 1.800.753.8558 Search Catalog Skip to content Business Gifts Stores Account
+1.800.753.8558 Business Gifts Free Shipping on Shipments Over $35!\* Search Catalog Find a Store Skip to content My Account
 
 *   Welcome!
 *   Log In
 *   Create Account
 
-  0 Catalog Navigation
+0 1.800.753.8558 Catalog Navigation
 
 *   Gifts
     
@@ -88,7 +88,7 @@
     *   New!
     
     Occasions*   Game Day
-    *   Birthday GiftsMost Popular Fruit Baskets
+    *   Birthday GiftsMost Popular Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -123,7 +123,6 @@
     *   Nuts
     *   Crackers
     *   Popcorn Gifts
-    *   Tea &. Coffee Gifts
     
     Effortless Meals*   Gourmet Meals
     *   Side Dishes &. Appetizers
@@ -144,16 +143,17 @@
     *   Weddings &. Showers
     *   Thank You
     *   Graduation &. CongratulationsMost Popular Valentine's Day Gifts
-*   Clearance Sale
+*   Business Gifts
+*   Sale
 
-1.800.753.8558 Business Gifts Menu Search Stores Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+1.800.753.8558 Business Gifts Menu Search Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Privacy Policy
 
 <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. Information We Collect and How it is Used
 
-We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third-party advertising partner click here.
+We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous.
 
 If you request additional information or make an online purchase from us, you may receive e-mail from us about online specials and other events. If you do not want to receive e-mail from us in the future, please let us know by sending an e-mail to us at the above address and telling us that you do not want to receive e-mail from our company. We never sell or trade e-mail addresses with companies outside the Hickory Farms family of brands, which includes Pfaelzer Brothers.
 
@@ -174,16 +174,14 @@ Any dispute over privacy is subject to this Privacy Policy and our Terms of Use.
 **Security**  
 Hickory Farms is committed to maintaining safety and security for our web site users. Please refer to our security page for additional details.
 
-Sign up for gift ideas &. exclusive offers! Sign Up
+Sign up and get 10% off your first purchase! Sign Up
 
 Customer Service
 
+*   Business Gifts
 *   Order Tracking
-*   Gift Cards
-*   Where to Buy
 *   Request a Catalog
 *   My Account
-*   Security
 
 About Us
 
@@ -197,14 +195,7 @@ Contact Us
 *   1.800.753.8558
 *   Employment
 
-Business Accounts
-
-*   Business Gifts
-*   Request a Quote
-*   1.800.715.1474
-*   Email Us
-
-PRIVACY POLICY TERMS OF USE SITE MAP © 2018 ALL RIGHTS RESERVED. close Enjoy 10% OFF
+Find A Store © 2019 ALL RIGHTS RESERVED. PRIVACY POLICY TERMS OF USE SITE MAP close Enjoy 10% OFF
 
 on your next purchase when you sign up for exclusive email offers and gift ideas.
 
