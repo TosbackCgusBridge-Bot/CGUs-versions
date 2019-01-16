@@ -429,7 +429,6 @@ Topics
 *   Share via Email
 *   Share on LinkedIn
 *   Share on Pinterest
-*   Share on Google+
 *   Share on WhatsApp
 *   Share on Messenger
 
