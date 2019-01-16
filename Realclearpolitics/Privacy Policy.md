@@ -108,53 +108,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Mollie Hemingway_: FBI Retaliated Against Trump for Firing Comey
+*   _Leon Panetta_: Checks &. Balances: Who Leads in a Government Shutdown?
     
-*   _Strobe Talbott_: Trump's Foreign Policy: It's Already Collusion
+*   _Conrad Black_: Trump Surprise Could Upend Democrats' Plans
     
-*   _Mark Penn_: The Deep State Was Even Worse Than We Thought
+*   _Levitsky &. Ziblatt_: Why Autocrats Love Emergencies
     
-*   _Richard Hasen_: How the House Democrats Could Save American Democracy
+*   _Toensing &. diGenova_: Complicit Media Enables Brazen Plot Against Trump
     
-*   _Niall Ferguson_: In a Choice Between Open Borders or Walls, Walls Win
+*   _Max Boot_: 18 Reasons Trump Could Be a Russian Asset
     
-*   _Juan Williams_: Trump's Border Wall Is Founded on Fiction
+*   _Alexandra DeSanctis_: Are Dems Testing a Future Strategy Against Amy Barrett?
     
-*   _Kurt Schlichter_: Apocalypse Ruth: Preparing for Ginsberg's Retirement
+*   _Kalena Thomhave_: Reproductive Rights at Risk With or Without Roe
     
-*   _Kalev Leetaru_: Is Ocasio-Cortez's Media Star Already Losing Its Luster?
+*   _Tyler O'Neil_: New Poll: 65% Support Overturning Roe v. Wade
     
-*   _Adam Serwer_: The Core of Trump's Philosophy Is White Supremacy
+*   _Gavin Mortimer_: The Yellow Vests and the Politically Incorrect Uprising
     
-*   _Victor Davis Hanson_: Liberal Identity Politics &. the Game of Pseudo-Authenticity
+*   _Richard Cohen_: Trump's Syria Retreat--Will He Lose the Middle East?
     
-*   _Scott Pattison_: Governors Build Global Ties, Stability in Challenging Times
+*   _Alireza Ahmadi_: U.S. Military Adventurism in Mideast Isn't Working
     
-*   _Joel Kotkin_: Dems Finally Won the Suburbs. Will They Destroy Them?
+*   _Glenn Greenwald_: It's Not the FBI's Job to Criminalize Policy Differences
     
-*   _Daniel Block_: Democrats Need Plan to Win Back the Heartland
+*   _Renato Mariotti_: Obstruction Is Collusion
     
-*   _Rep. Ralph Norman_: Border Security a Fight We Must Not Lose
+*   _Roger Kimball_: The Obama Administration's Watergate by Any Other Name
     
-*   _Bill Scher_: Let's Have a Real Immigration Debate
+*   _Michelle Goldberg_: Our National Emergency Turns 2
     
-*   _Peter Baker_: Trump Confronts Prospect of 'Nonstop Political War' for Survival
+*   _Byron York_: Dems Seek 'Technological Wall' That Won't Keep Anyone Out
     
-*   _Gregg Jarrett_: The FBI's Outrageous Abuse of Power
+*   _Chris Cillizza_: Why Trump and Republicans Are Losing Shutdown Blame Game
     
-*   _Ed Kilgore_: What 'Lanes' Will the 2020 Dem Candidates Run In?
+*   _Senior Trump Official_: I Hope a Long Shutdown Smokes Out the Resistance
     
-*   _A.B. Stoddard_: Sorry, Dems, the Likability Question Isn't Sexist
+*   _Edward-Isaac Dovere_: Is This the Year for a Redistricting Revolution?
     
-*   _David Leonhardt_: Run, Joe, Run
+*   _Hagen &. Greenwood_: Republicans Map Out Early '20 Strategy to Retake House
     
-*   _Michael Knowles_: Ocasio-Cortez, the Voice of an Ignorant Generation
+*   _Joel Mathis_: The Castigation of Steve King
     
-*   _Annie Lowery_: The Truth About the Gig Economy
+*   _Jonathan Tobin_: Pelosi, Democrats Should Discipline Tlaib's Anti-Semitism
     
-*   _Gov. John Kasich_: The Republican Party Is Still Mired in the 1950s
+*   _Nate Silver_: Harris &. O'Rourke May Have More Upside Than Biden &. Sanders
     
-*   _Jason Hart_: John Kasich Exits Stage Left
+*   _Julie Kelly_: The Dem Media's Trump-Russia Death Spasms
     
 
 *   Previous
@@ -225,11 +225,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Says Partial Shutdown Solution "So Simple"
+*   House Republican Leader Strips Steve King of Committee Assignments
+*   Cummings on Investigations: We've Got to Hit the Ground Flying
 *   2020 Democratic Primary Set to Intensify
 *   Trump Says U.S. Will Hurt Turkey Economically If It Hits Kurds
-*   Warner: Trump Will Go Down as the Worst Negotiator in History
-*   Partial Shutdown Becomes Longest Federal Closure in U.S. History
-*   Trump Administration Eyes Disaster Money to Fund Border Wall
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -242,26 +242,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalIBD/TIPP
-    *   Approve42
-    *   Disapprove54Disapprove +12
-*   President Trump Job ApprovalCNN
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve41
+    *   Disapprove55Disapprove +14
+*   President Trump Job ApprovalGallup
     *   Approve37
-    *   Disapprove57Disapprove +20
+    *   Disapprove59Disapprove +22
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
     *   Disapprove55Disapprove +12
-*   Direction of CountryRasmussen Reports
-    *   Right Direction36
-    *   Wrong Track58Wrong Track +22
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve42
+    *   Disapprove54Disapprove +12
 
 More Latest Polls In The News
 
-*   House Oversight Committee Chair Elijah Cummings: We've Got To Hit The Ground "Flying"
-*   Sen. Dick Durbin: "One Phone Call From Mitch McConnell" Can End Government Shutdown Tomorrow
-*   Rubio: No One In The World Should Be Making Unsafe Trip From Central America Across U.S. Border
-*   McCarthy: Who In America Would Believe Border Security Would Not Include Some Form Of Barrier?
-*   Trump on Border Crisis: Other Presidents Have Called National Emergencies For Less Than This
+*   Bruni: Republicans Expressing "All The Shame They Feel" About Trump In Condemning Steve King
+*   Brit Hume on Steve King: We Need To Stop Throwing "Racist" Around, The Term Has Been "Weaponized"
+*   Dem Rep. Speier to Trump: Leaving NATO Would Be Ground For Impeachment, Use Of 25th Amendment
+*   CNN's Areva Martin Accuses Radio Host David Webb Of Having "White Privilege". Webb: "I'm Black"
+*   William Barr: It Is "Vitally Important" For Robert Mueller To Complete Russia Probe Without Interference
 
 *   Politics
 *   Policy
