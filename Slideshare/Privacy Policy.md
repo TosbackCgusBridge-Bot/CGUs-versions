@@ -445,7 +445,7 @@ If you have questions or complaints regarding this Policy, please first contact 
 *   Companies
 *   Universities
 
-LinkedIn Corporation _© 2018_
+LinkedIn Corporation _© 2019_
 
 *   User Agreement
 *   Privacy Policy
