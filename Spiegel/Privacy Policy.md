@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQWWTD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
+Wir verwenden Cookies, um die Funktion unserer Website zu gewährleisten, Inhalte und Werbung zu personalisieren und unseren Datenverkehr zu analysieren. DatenschutzVerstanden <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQWWTD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
 
 Anmelden
 
@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   15\. Januar 2019
+*   16\. Januar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 10.855,91ǀ
+*   DAX 10.891,79ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -343,8 +343,8 @@ SPIEGEL GRUPPE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
-*   Dein SPIEGEL
 *   SPIEGEL WISSEN
+*   Dein SPIEGEL
 *   SPIEGEL GESCHICHTE
 *   SPIEGEL CHRONIK
 *   SPIEGEL COACHING
@@ -353,8 +353,8 @@ SPIEGEL GRUPPE
 *   LITERATUR SPIEGEL
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
-*   Dein SPIEGEL
 *   SPIEGEL WISSEN
+*   Dein SPIEGEL
 *   SPIEGEL GESCHICHTE
 *   SPIEGEL CHRONIK
 
@@ -369,6 +369,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-BESbswyBESbswyBESbswy
