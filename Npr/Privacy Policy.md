@@ -5,8 +5,9 @@ Accessibility links
 
 Listen Live Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On Air Now**Toggle more player options
 
+*   Sign In
 *   Shop
-
+*   Donate
 *   Open Navigation Menu
 
 Close Navigation Menu
@@ -39,6 +40,8 @@ Close Navigation Menu
 *   Shows &. Podcasts Expand/collapse submenu for Shows &. Podcasts Daily
     
     *   Morning Edition
+    *   Weekend Edition Saturday
+    *   Weekend Edition Sunday
     *   All Things Considered
     *   Fresh Air
     *   Up First
@@ -52,7 +55,7 @@ Close Navigation Menu
     
     *   More Shows &. Podcasts
 *   Search
-
+*   Sign In
 *   Shop
 
 *   Tiny Desk
