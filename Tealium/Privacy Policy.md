@@ -33,7 +33,7 @@
     *   Brand Assets
     *   Contact
 *   Blog
-*   Docs
+*   For Developers
     *   Docs Overview
     *   Product Guides
     *   Forum
@@ -74,7 +74,7 @@
     *   Brand Assets
     *   Contact
 *   Blog
-*   Docs
+*   For Developers
     *   Docs Overview
     *   Product Guides
     *   Forum
