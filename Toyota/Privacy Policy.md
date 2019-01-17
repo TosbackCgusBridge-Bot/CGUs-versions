@@ -283,11 +283,9 @@ Toyota Vehicles
     
 *   Hatchback Cars  
     
-*   Fuel-Efficient Cars  
-    
-
 *   Fuel-Efficient SUVs  
     
+
 *   Cars Under $20,000  
     
 *   Cars Under $25,000  
@@ -310,9 +308,9 @@ Toyota Vehicles
     
 *   4-Door Sedans  
     
-
 *   2-Door Cars  
     
+
 *   All-Wheel-Drive Vehicles  
     
 *   Cars for Teenagers  
