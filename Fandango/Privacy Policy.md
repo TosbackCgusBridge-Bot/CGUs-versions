@@ -68,7 +68,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Dave Bautista Joins 'Dune'. Here's Everything We Know Read More
+    *   Jason Reitman is Directing ‘Ghostbusters 3’. Here’s Everything We Know Read More
     *   Marsai Martin Enters the Big Time in ‘Little’ Trailer. Here’s Everything We Know Read More
     *   Spider-Man Meets Nick Fury in First ‘Spider-Man: Far From Home’ Trailer. Here’s Everything We Know Read More
     
