@@ -115,8 +115,8 @@ Close submenu ( Guys ) Guys
 *   Accessories
 *   Underwear
 *   Cologne + Grooming
-*   Clearance
 *   Extended Sizes
+*   Clearance
 
 *   Open submenu ( Collections ) Collections
 
@@ -329,8 +329,8 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Underwear
     *   Cologne + Grooming
-    *   Clearance
     *   Extended Sizes
+    *   Clearance
     
     *   Collections
         *   View All
@@ -451,17 +451,3 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
