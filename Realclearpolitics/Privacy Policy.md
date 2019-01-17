@@ -40,15 +40,16 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   Tom Bevan
     *   Adele Malpass
     *   Sean Trende
-    *   Columnist
+    *   Columnists
     *   Bill Scher
     *   A.B. Stoddard
     *   Frank Miele
+    *   Steve Cortes
     *   Contributors
     *   Lou Cannon
     *   Charles Lipson
-    *   Anneke E Green
-    *   Mark Salter
+    *   Anneke E. Green
+    *   Myra Adams
     *   Joel Kotkin
     *   Peter Berkowitz
 *   More
@@ -108,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Leon Panetta_: Checks &. Balances: Who Leads in a Government Shutdown?
+*   _Peter Beinart_: Nancy Pelosi Is Winning
     
-*   _Conrad Black_: Trump Surprise Could Upend Democrats' Plans
+*   _Walter Williams_: Why Are Democrats Against Securing the Border?
     
-*   _Levitsky &. Ziblatt_: Why Autocrats Love Emergencies
+*   _Art Cullen_: The Hypocrisy of Republicans' Sudden Distaste for Steve King
     
-*   _Toensing &. diGenova_: Complicit Media Enables Brazen Plot Against Trump
+*   _Kenneth Starr_: The Integrity of William Barr
     
-*   _Max Boot_: 18 Reasons Trump Could Be a Russian Asset
+*   _Elizabeth Drew_: Is Elizabeth Warren Actually 'Unlikable'?
     
-*   _Alexandra DeSanctis_: Are Dems Testing a Future Strategy Against Amy Barrett?
+*   _Alex Shephard_: Who's Afraid of Sanders? A Lot of Dems, Apparently
     
-*   _Kalena Thomhave_: Reproductive Rights at Risk With or Without Roe
+*   _Andy Puzder_: Sanders' Minimum Wage Plan Is Irrelevant Thanks to Trump
     
-*   _Tyler O'Neil_: New Poll: 65% Support Overturning Roe v. Wade
+*   _Nate Silver_: How 17 Long-Shot '20 Contenders Could Build a Winning Coalition
     
-*   _Gavin Mortimer_: The Yellow Vests and the Politically Incorrect Uprising
+*   _Roger Kimball_: Trump's Burger Fete Was a Masterpiece
     
-*   _Richard Cohen_: Trump's Syria Retreat--Will He Lose the Middle East?
+*   _Thomas Friedman_: Trump Tries to Destroy What Makes America Great
     
-*   _Alireza Ahmadi_: U.S. Military Adventurism in Mideast Isn't Working
+*   _Karin McQuillan_: The Fake Frog That Is Taking Down the Administrative State
     
-*   _Glenn Greenwald_: It's Not the FBI's Job to Criminalize Policy Differences
+*   _Amy Sorkin_: Theresa May Suffers a Historic Defeat--Now What?
     
-*   _Renato Mariotti_: Obstruction Is Collusion
+*   _Nile Gardiner_: A 'No Deal' Brexit Is Best for Britain and the United States
     
-*   _Roger Kimball_: The Obama Administration's Watergate by Any Other Name
+*   _Zack Beauchamp_: Theresa May Lost the Brexit Vote Because Brexit Was a Lie
     
-*   _Michelle Goldberg_: Our National Emergency Turns 2
+*   _Vice President Mike Pence_: It's Time for Democrats to Compromise
     
-*   _Byron York_: Dems Seek 'Technological Wall' That Won't Keep Anyone Out
+*   _Andrew Gawthorpe_: Trump's 'Big, Beautiful' Border Wall Will Never Work
     
-*   _Chris Cillizza_: Why Trump and Republicans Are Losing Shutdown Blame Game
+*   _Myra Adams_: 'The Wall': Stone's Campaign Slogan That Begot the Shutdown
     
-*   _Senior Trump Official_: I Hope a Long Shutdown Smokes Out the Resistance
+*   _Thomas Lifson_: Has Trump Suckered Democrats Into a Trap?
     
-*   _Edward-Isaac Dovere_: Is This the Year for a Redistricting Revolution?
+*   _David Ignatius_: Trump Is Teaching Democrats How to Win
     
-*   _Hagen &. Greenwood_: Republicans Map Out Early '20 Strategy to Retake House
+*   _Andrea Picciotti-Bayer_: Why Science Strengthens Pro-Life Argument
     
-*   _Joel Mathis_: The Castigation of Steve King
+*   _George Monbiot_: The Fear That Lies Behind Aggressive Masculinity
     
-*   _Jonathan Tobin_: Pelosi, Democrats Should Discipline Tlaib's Anti-Semitism
+*   _Michelle Malkin_: Procter &. Gamble's Toxic Sanctimony
     
-*   _Nate Silver_: Harris &. O'Rourke May Have More Upside Than Biden &. Sanders
+*   _Byron York_: FBI Interview Makes Big News--So Why Is It Still Secret?
     
-*   _Julie Kelly_: The Dem Media's Trump-Russia Death Spasms
+*   _Matt Ford_: Investigating Trump--Why FBI Made the Right Call
     
 
 *   Previous
@@ -225,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Says Partial Shutdown Solution "So Simple"
+*   Theresa May's Brexit Deal Is Voted Down in Historic Commons Defeat
+*   Sen. Kirsten Gillibrand Jumps Into 2020 Presidential Race
+*   Scott: Border Security Without Barriers Doesn't Make Any Sense
+*   Trump's Attorney General Nominee: "I Will Not Be Bullied"
 *   House Republican Leader Strips Steve King of Committee Assignments
-*   Cummings on Investigations: We've Got to Hit the Ground Flying
-*   2020 Democratic Primary Set to Intensify
-*   Trump Says U.S. Will Hurt Turkey Economically If It Hits Kurds
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -242,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve41
-    *   Disapprove55Disapprove +14
-*   President Trump Job ApprovalGallup
-    *   Approve37
-    *   Disapprove59Disapprove +22
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve45
+    *   Disapprove52Disapprove +7
+*   President Trump Job ApprovalPew Research
+    *   Approve39
+    *   Disapprove58Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve43
     *   Disapprove55Disapprove +12
-*   President Trump Job ApprovalIBD/TIPP
-    *   Approve42
-    *   Disapprove54Disapprove +12
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve41
+    *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
-*   Bruni: Republicans Expressing "All The Shame They Feel" About Trump In Condemning Steve King
-*   Brit Hume on Steve King: We Need To Stop Throwing "Racist" Around, The Term Has Been "Weaponized"
-*   Dem Rep. Speier to Trump: Leaving NATO Would Be Ground For Impeachment, Use Of 25th Amendment
+*   Pelosi Cites "Security" Concerns For Uninviting Trump From SOTU: "He Can Make It From The Oval Office"
+*   Tucker Carlson: When Did Dems Become The Party Of Bill Kristol And Other Discredited Neocon Hacks?
+*   Kirsten Powers: If You're Upset About Gillette Ad, You Should Be Asking Yourself What's Wrong With You
+*   Coulter: Trump "Dead In The Water If He Doesn't Build Wall". "Worst Negotiator God Ever Created"
 *   CNN's Areva Martin Accuses Radio Host David Webb Of Having "White Privilege". Webb: "I'm Black"
-*   William Barr: It Is "Vitally Important" For Robert Mueller To Complete Russia Probe Without Interference
 
 *   Politics
 *   Policy
