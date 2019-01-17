@@ -33,7 +33,7 @@ MarketplaceSeeking AlphaSUBSCRIBESpecial Black Friday Offer  |  Save 50% Now
     *   Closed End Funds
     *   Today's Market
     *   ETF Screener
-    *   Investing Strategy
+    *   Gold &. Precious Metals
 
 Sign in / Join Now Privacy
 
