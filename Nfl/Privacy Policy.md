@@ -1,9 +1,7 @@
-Playoffs - DIVISIONAL
+Playoffs - CONFERENCE
 
-*   IND10-613KC12-431Final
-*   DAL10-622LA13-330Final
-*   LAC12-428NE11-541Final
-*   PHI9-714NO13-320Final
+*   LA13-3NO13-3Sun, 3:05 pm ET
+*   NE11-5KC12-4Sun, 6:40 pm ET
 
 *   News
 *   Scores
@@ -25,12 +23,10 @@ Playoffs - DIVISIONAL
 *   NFL Network
 *   Photos
 
-Playoffs - DIV
+Playoffs - CON
 
-*   IND13KC31Final
-*   DAL22LA30Final
-*   LAC28NE41Final
-*   PHI14NO20Final
+*   LA13-3NO13-3Sun, 3:05 pm ET
+*   NE11-5KC12-4Sun, 6:40 pm ET
 
 *   News
 *   Scores
