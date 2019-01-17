@@ -20,10 +20,10 @@
     *   Cut4
     *   Free Agent &. Trade Talk
     *   Play Ball
-    *   Players of the Week
+    *   Spring workout dates
     *   Pipeline
     *   MLB Photo Stream
-    *   Entertainment
+    *   Fantasy Rankings
     *   Reporter's Inbox
     *   This Date in History
     *   Glossary
@@ -94,9 +94,9 @@
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   Season Tickets
+    *   2019 Spring Training tickets
     *   Big League Tours
-    *   2018 Postseason Ticket Terms &. Policies
-    *   StubHub.comBig League Tours 2018 Season Tickets Bank of America
+    *   StubHub.comBig League Tours Bank of America
 *   Apps Apps Apps
     *   MLB At Bat app
     *   MLB Ballpark app
