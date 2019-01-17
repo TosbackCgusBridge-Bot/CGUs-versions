@@ -161,17 +161,21 @@ If you supply us with your postal address online you may receive periodic mailin
 
 Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online, new products and services, or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us an e-mail at the above address.
 
-**Customer Mailing List**  
+Customer Mailing List
+
 We sometimes make our customer list available to carefully screened companies whose products or services we think you might enjoy. However, your e-mail address will NEVER be sold or given to any other companies. If you prefer not to receive other mailings, copy your mailing label exactly and mail to us at:  
 Mail Preference Service, P.O. Box 75 Maumee, OH 43537
 
-**Notice of Changes**  
+Notice of Changes
+
 Hickory Farms' Privacy Policy is subject to change without notice. At any time, you may visit our website to view the current policy.
 
-**Conditions of Use**  
+Conditions of Use
+
 Any dispute over privacy is subject to this Privacy Policy and our Terms of Use.
 
-**Security**  
+Security
+
 Hickory Farms is committed to maintaining safety and security for our web site users. Please refer to our security page for additional details.
 
 Sign up and get 10% off your first purchase! Sign Up
