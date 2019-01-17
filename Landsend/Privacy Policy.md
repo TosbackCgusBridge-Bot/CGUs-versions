@@ -212,7 +212,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     *   Big Girl (7-20)
     *   Little Girl (4-7)
-    *   Toddler &. Baby Girls (0-4T)
+    *   Toddler Girls (2T-4T)
     *   Girls' Plus Sizes
     
     *   Girls' Snow Pants &. Snow Bibs
@@ -223,7 +223,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     
     *   Big Boy (7-20)
     *   Little Boy (4-7)
-    *   Toddler &. Baby Boys (0-4T)
+    *   Toddler Boys (2T-4T)
     *   Boys' Husky Sizes
     
     *   Boys' Snow Pants &. Snow Bibs
@@ -451,8 +451,8 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Kids' Shoes
     *   Kids' Accessories
     
-    HOME SALE >BAGS SALE >SCHOOL UNIFORMS SALE >FEATURED SHOPS
-    *   On The Counter
+    HOME SALE >BAGS SALE >SCHOOL UNIFORMS SALE >ON THE COUNTER  
+    (FINAL SALE) >
 
 Lands' End Sign In menu
 
@@ -671,7 +671,7 @@ Lands' End Sign In menu
         *   View All
         *   Big Girl (7-20)
         *   Little Girl (4-7)
-        *   Toddler &. Baby Girls (0-4T)
+        *   Toddler Girls (2T-4T)
         *   Girls' Plus Sizes
         
         *   Girls' Snow Pants &. Snow Bibs
@@ -682,7 +682,7 @@ Lands' End Sign In menu
         *   View All
         *   Big Boy (7-20)
         *   Little Boy (4-7)
-        *   Toddler &. Baby Boys (0-4T)
+        *   Toddler Boys (2T-4T)
         *   Boys' Husky Sizes
         
         *   Boys' Snow Pants &. Snow Bibs
@@ -930,9 +930,8 @@ Lands' End Sign In menu
     *   HOME SALE
     *   BAGS SALE
     *   SCHOOL UNIFORMS SALE
-    *   FEATURED SHOPS
-        *   Back
-        *   On The Counter
+    *   ON THE COUNTER  
+        
 *   Business Outfitters
 *   Hi, Sign inMy Account
     *   Back
