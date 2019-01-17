@@ -91,7 +91,7 @@ Please review the “Last Updated” legend at the top of the Cookie Policy to d
 
 Privacy Policy
 
-Last Updated: December 18, 2018
+Last Updated: January 16, 2019
 
 **1\. Introduction**
 
@@ -352,6 +352,8 @@ These third parties may provide data points including how much time you spend o
 Indeed may transfer your Personal Data in limited situations to certain third-party vendors that assist Indeed with protecting our users and maintaining the quality of our services, products and features provided to those users. An example would be vendors Indeed uses for fraud detection purposes. Examples of those vendors include: SiftScience and Emailage.
 
 Indeed may also share any credit card and related billing and payment information that you provide to Indeed with companies who work on Indeed’s behalf, such as payment processors and/or credit agencies, solely for the purposes of checking credit, effecting payment to Indeed and servicing your account. Examples of those vendors include: CVENT.
+
+Indeed may additionally share your Personal Data with service providers when you download, install and/or use the Indeed App. This may be done for a variety of purposes, including facilitating user log-in through third party accounts or ad attribution. When you download or install an Indeed App, you acknowledge and accept that your Personal Data may be transferred to these service providers. Examples of the types of technologies that may support this behavior include software development kits (SDKs), pixels, javascript snippets, or cookies.
 
 In the course of providing these services, those companies may have access to Personal Data, and this may involve transfers of such Personal Data to other countries. Such transfers are only made for the purposes set forth in sections 4, 5 and 9 of this Privacy Policy, to the extent applicable and necessary. Those companies are also contractually required to treat such Personal Data in accordance with this Privacy Policy, and in accordance with all applicable laws with respect to such transfers and any processing performed by those third parties on such Personal Data.
 
@@ -1163,4 +1165,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2018 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1d1amjm2ua14k800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1d1d92922ausr800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
