@@ -97,7 +97,10 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
         *   Levi's
         *   Miss Me
         *   Rock Revival
-        *   Shop AllGive a Buckle Gift card
+        *   Shop All
+        
+          
+        Give a Buckle Gift card
 *   Men
     *   *   Featured
         
@@ -159,7 +162,10 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
         *   Affliction
         *   Rock Revival
         *   American Fighter
-        *   Shop AllGive a Buckle Gift card
+        *   Shop All
+        
+          
+        Give a Buckle Gift card
 *   Kids
     *   *   Featured
         
@@ -237,6 +243,7 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
         *   Shop All Factory Seconds Jeans
         
           
+          
         Give a Buckle Gift card
 *   Shoes
     *   *   Women's Shoes
@@ -300,7 +307,11 @@ CELEBRATE WITH SAVINGS UP TO 75% OFF! SHOP NOW.
         *   11 - 11.5
         *   12
         *   13 - Men's Only
-        *   14 - Men's OnlyGive a Buckle Gift card
+        *   14 - Men's Only
+        
+          
+          
+        Give a Buckle Gift card
 *   Sale
     *   *   Featured Sale
         
