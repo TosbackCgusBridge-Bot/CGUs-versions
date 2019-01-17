@@ -37,7 +37,7 @@ Close MENU **IS**
 
 **GS**
 
-*   Starting at $46,6101\*
+*   Starting at $46,7101\*
 *   2.0L I-4 or 3.5L V6
 
 *   Build
@@ -45,7 +45,7 @@ Close MENU **IS**
 
 **GS F**
 
-*   Starting at $84,3501\*
+*   Starting at $84,4501\*
 *   467-HP3\* 5.0L V8
 
 *   Build
@@ -53,7 +53,7 @@ Close MENU **IS**
 
 **LS**
 
-*   Starting at $75,2004\*
+*   Starting at $75,3004\*
 *   416-HP3, 5\* 3.5L V6
 
 *   Build
@@ -61,7 +61,7 @@ Close MENU **IS**
 
 **LS HYBRID**
 
-*   Starting at $79,7104\*
+*   Starting at $79,8104\*
 *   354-HP3, 5\* 3.5L V6
 
 *   BUILD
@@ -153,7 +153,7 @@ COMPARE **RC**
 
 **LC**
 
-*   Starting at $92,2001\*
+*   Starting at $92,3001\*
 *   471-HP3\* 5.0L V8
 
 *   Build
@@ -161,7 +161,7 @@ COMPARE **RC**
 
 **LC HYBRID**
 
-*   Starting at $96,7101\*
+*   Starting at $96,8101\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
@@ -203,7 +203,7 @@ COMPARE **UX HYBRID**
 
 **LS HYBRID**
 
-*   Starting at $79,7104\*
+*   Starting at $79,8104\*
 *   354-HP3, 5\* 3.5L V6
 
 *   BUILD
@@ -211,7 +211,7 @@ COMPARE **UX HYBRID**
 
 **LC HYBRID**
 
-*   Starting at $96,7101\*
+*   Starting at $96,8101\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
@@ -229,7 +229,7 @@ COMPARE **RC F**
 
 **GS F**
 
-*   Starting at $84,3501\*
+*   Starting at $84,4501\*
 *   467-HP3\* 5.0L V8
 
 *   Build
@@ -237,7 +237,7 @@ COMPARE **RC F**
 
 **LC**
 
-*   Starting at $92,2001\*
+*   Starting at $92,3001\*
 *   471-HP3\* 5.0L V8
 
 *   Build
@@ -245,7 +245,7 @@ COMPARE **RC F**
 
 **LC HYBRID**
 
-*   Starting at $96,7101\*
+*   Starting at $96,8101\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
