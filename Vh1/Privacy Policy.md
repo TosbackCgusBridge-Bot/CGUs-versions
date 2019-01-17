@@ -7,9 +7,9 @@
     *   Black Ink Crew
     *   Black Ink Crew Chicago
     *   Cartel Crew
-    *   Grown &. Sexy
     *   Love &. Hip Hop Miami
     *   Love &. Hip Hop New York
+    *   Mob Wives
     *   RuPaul’s Drag Race All Stars
     *   T.I. &. Tiny: Friends &. Family HustleSee all Shows
 *   News
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBlack Ink CrewBlack Ink Crew ChicagoCartel CrewGrown &. SexyLove &. Hip Hop MiamiLove &. Hip Hop New YorkRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family Hustlesee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBlack Ink CrewBlack Ink Crew ChicagoCartel CrewLove &. Hip Hop MiamiLove &. Hip Hop New YorkMob WivesRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family Hustlesee all Shows
 *   News
 *   App
 *   Watch Live TV
