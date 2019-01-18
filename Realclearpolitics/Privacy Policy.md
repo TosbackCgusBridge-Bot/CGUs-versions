@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Peter Beinart_: Nancy Pelosi Is Winning
+*   _Andrew Bacevich_: Our Elites' Selective Support for Democracy
     
-*   _Walter Williams_: Why Are Democrats Against Securing the Border?
+*   _Barbara Res_: In Nancy Pelosi, Trump Has Met His Match
     
-*   _Art Cullen_: The Hypocrisy of Republicans' Sudden Distaste for Steve King
+*   _David Catron_: The State of the Shutdown
     
-*   _Kenneth Starr_: The Integrity of William Barr
+*   _Kirsten Powers_: Men Should Shut Up About Gillette Ad &. Adapt to #MeToo Era
     
-*   _Elizabeth Drew_: Is Elizabeth Warren Actually 'Unlikable'?
+*   _Becket Adams_: Ilhan Omar Knows How to Smear With the Best of Them
     
-*   _Alex Shephard_: Who's Afraid of Sanders? A Lot of Dems, Apparently
+*   _Sabrina Siddiqui_: Can the #MeToo Senator Become Madam President?
     
-*   _Andy Puzder_: Sanders' Minimum Wage Plan Is Irrelevant Thanks to Trump
+*   _Thomas Lifson_: Beto Bombs Bigly In Washington Post Interview
     
-*   _Nate Silver_: How 17 Long-Shot '20 Contenders Could Build a Winning Coalition
+*   _Bryce Covert_: Democrats' $15 Minimum Wage Bill Is a Big Deal
     
-*   _Roger Kimball_: Trump's Burger Fete Was a Masterpiece
+*   _Alfredo Ortiz_: Raising the Minimum Wage Will Cut Entry-Level Jobs
     
-*   _Thomas Friedman_: Trump Tries to Destroy What Makes America Great
+*   _Thomas Edsall_: The Fight Over Men Is Shaping Our Political Future
     
-*   _Karin McQuillan_: The Fake Frog That Is Taking Down the Administrative State
+*   _Kevin Williamson_: David Webb's White Privilege
     
-*   _Amy Sorkin_: Theresa May Suffers a Historic Defeat--Now What?
+*   _Carl M. Cannon_: Iran-Contra and the Fallability of Presidential Deal Making
     
-*   _Nile Gardiner_: A 'No Deal' Brexit Is Best for Britain and the United States
+*   _Yoni Applebaum_: Impeach Donald Trump
     
-*   _Zack Beauchamp_: Theresa May Lost the Brexit Vote Because Brexit Was a Lie
+*   _Emmett Tyrrell_: The Democrats' Blueprint for Impeachment
     
-*   _Vice President Mike Pence_: It's Time for Democrats to Compromise
+*   _Farhad Manjoo_: There's Nothing Wrong With Open Borders
     
-*   _Andrew Gawthorpe_: Trump's 'Big, Beautiful' Border Wall Will Never Work
+*   _Dennis Prager_: The Left, the Wall, the Truth
     
-*   _Myra Adams_: 'The Wall': Stone's Campaign Slogan That Begot the Shutdown
+*   _Jeff Greenfield_: Pelosi Just Blew Up the State of the Union. And That's OK.
     
-*   _Thomas Lifson_: Has Trump Suckered Democrats Into a Trap?
+*   _Michael Walsh_: Take This SOTU and Shove It
     
-*   _David Ignatius_: Trump Is Teaching Democrats How to Win
+*   _Lili Loofbourow_: Ocasio-Cortez Thriving Despite Sexist Attacks by Right
     
-*   _Andrea Picciotti-Bayer_: Why Science Strengthens Pro-Life Argument
+*   _Monica Crowley_: Newly Elected and Too Big For Her Britches
     
-*   _George Monbiot_: The Fear That Lies Behind Aggressive Masculinity
+*   _Denis MacShane_: UK No Closer to Finding the Answer to Brexit
     
-*   _Michelle Malkin_: Procter &. Gamble's Toxic Sanctimony
+*   _Nigel Farage_: Britain Ended Up in Mess by Defying the Will of Voters
     
-*   _Byron York_: FBI Interview Makes Big News--So Why Is It Still Secret?
+*   _Alex Shephard_: Who's Afraid of Bernie? A Lot of Dems, Apparently
     
-*   _Matt Ford_: Investigating Trump--Why FBI Made the Right Call
+*   _Victor Davis Hanson_: Trump's Re-Election Chances Better Than You Think
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Pelosi Cites "Security" Concerns for Uninviting Trump From SOTU
+*   Who Will Blink First in Fight Over Border Wall Funding?
+*   Hoyer: The State of the Union Is "Not Officially Off"
 *   Theresa May's Brexit Deal Is Voted Down in Historic Commons Defeat
 *   Sen. Kirsten Gillibrand Jumps Into 2020 Presidential Race
-*   Scott: Border Security Without Barriers Doesn't Make Any Sense
-*   Trump's Attorney General Nominee: "I Will Not Be Bullied"
-*   House Republican Leader Strips Steve King of Committee Assignments
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalNPR/PBS/Marist
+    *   Approve40
+    *   Disapprove54Disapprove +14
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve45
     *   Disapprove52Disapprove +7
 *   President Trump Job ApprovalPew Research
     *   Approve39
     *   Disapprove58Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove55Disapprove +12
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve41
     *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
+*   Schiff: We're In "Otherworldly Situation" Where White House Uses "Same Talking Points" As The Kremlin
+*   Giuliani vs. Cuomo: I Never Said There Was No Collusion Between People In Trump Campaign And Russia
+*   Gregory Meeks on Steve King: Trump Inspires Racists To "Come Out Of The Closet," Uncover Their Faces
+*   Rep. Ilhan Omar Defends 2012 Tweet Accusing Israel of "Evil Doings" And "Hypnotising The World"
 *   Pelosi Cites "Security" Concerns For Uninviting Trump From SOTU: "He Can Make It From The Oval Office"
-*   Tucker Carlson: When Did Dems Become The Party Of Bill Kristol And Other Discredited Neocon Hacks?
-*   Kirsten Powers: If You're Upset About Gillette Ad, You Should Be Asking Yourself What's Wrong With You
-*   Coulter: Trump "Dead In The Water If He Doesn't Build Wall". "Worst Negotiator God Ever Created"
-*   CNN's Areva Martin Accuses Radio Host David Webb Of Having "White Privilege". Webb: "I'm Black"
 
 *   Politics
 *   Policy
