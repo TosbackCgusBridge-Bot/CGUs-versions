@@ -91,7 +91,7 @@ Please review the “Last Updated” legend at the top of the Cookie Policy to d
 
 Privacy Policy
 
-Last Updated: January 16, 2019
+Last Updated: January 17, 2019
 
 **1\. Introduction**
 
@@ -167,7 +167,7 @@ PLEASE NOTE THAT YOUR RELATIONSHIP WITH FACEBOOK OR GOOGLE OR ANY OTHER THIRD-PA
 
 Indeed Embox is a browser extension or add-on developed by Indeed, which can be downloaded from the Google Chrome Web Store or G Suite Marketplace. Indeed Embox serves as a free extension or add-on in Gmail that allows you to manage your candidates by updating their application status and utilizing templates to respond to applications.
 
-If you use Indeed Embox, Indeed may collect information that you save or update while you use the extension or add-on, as well as information about your general activity within the extension or add-on. For example, Indeed collects your email address and notes or information about a candidate or candidate statuses that you save or update.
+If you use Indeed Embox, Indeed may collect information that you save or update while you use the extension or add-on, as well as information about your general activity within the extension or add-on. For example, Indeed collects your email address and notes or information about a candidate or candidate statuses that you save or update. Indeed may use this information to add labels to candidates in your inbox, which you may remove, if you so wish. Embox may detect if you receive an email through Indeed’s email relay service and automatically launch the extension or add-on.
 
 **2.3 Any Other Personal Data Indeed May Receive from Third Parties**
 
@@ -1165,4 +1165,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1d1d92922ausr800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1d1fr962d1a09000&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
