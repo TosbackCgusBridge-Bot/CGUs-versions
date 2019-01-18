@@ -34,6 +34,16 @@ Newer games may also store some of their resources on third party websites. You 
   
 None of the data collected through web beacons, cookies, Flash cookies or web log data provides us with any personal information about you. We use this data on an aggregated basis to analyze how our users are interacting with the site and to customize your experience. If you are logged in to the site, we could associate information about your site usage that is collected by cookies with your user account. However, we don't do this on an individual basis other than in cases of suspected abuse or illegal behavior.  
   
+On the web, you can opt out of participating companies by visiting the following sites:  
+  
+http://optout.networkadvertising.org/  
+http://optout.aboutads.info/  
+http://youronlinechoices.eu/  
+  
+To opt out of CPMStar's tracking cookies please visit this address:  
+  
+http://server.cpmstar.com/optout.aspx  
+  
 **IP Addresses**  
   
 We collect your IP address in areas like registration, sign ins and any information you might post on the site (like forum posts). This helps us distinguish between users, find common patterns in our moderation systems and to give us an idea as to whether or not multiple account names might actually belong to the same person.  
