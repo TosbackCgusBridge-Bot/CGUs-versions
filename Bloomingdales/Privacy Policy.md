@@ -1,4 +1,4 @@
-Skip Navigation Stores &. Events My Account USD Have an Account? SIGN IN
+Skip Navigation Skip to Content Stores &. Events My Account USD Have an Account? SIGN IN
 
 *   Women
 *   Shoes
@@ -422,28 +422,33 @@ Does this answer your question? Yes No s
 *   What is the shipping policy?
 *   How do I return an item purchased at a Bloomingdale's store?
 
-*   CUSTOMER SERVICE
-    *   Shipping Policy
-    *   Returns &. Exchanges
-    *   International
-*   MY ACCOUNT
-    *   Order Status
-    *   My Loyallist
-    *   My Profile
-*   MY CREDIT CARD
-    *   Pay Bill
-    *   Cardholder Benefits
-    *   Learn More &. Apply
-*   COMPANY
-    *   About Us
-    *   b.cause
-    *   Careers
-*   WAYS TO SHOP
-    *   Online &. Mobile
-    *   Stores
-    *   Pick Up In Store
+SAVE 10%: Sign Up for Emails or Texts! FREE SHIPPING EVERY DAY! PLUS, FREE RETURNS Loyallists: No Minimum. Everyone Else: $150+ Info/Exclusions CUSTOMER SERVICE
 
-Customer Service 1-800-777-0000 Customer Service 1-800-777-0000
+*   1-800-777-0000
+*   FAQs &. Help
+*   Shipping policy
+*   Returns &. Exchanges
+
+MY ACCOUNT
+
+*   Pay My Bill
+*   Order Status
+*   Loyallist Rewards
+*   Bloomingdale's Credit Card
+
+ABOUT BLOOMINGDALE'S
+
+*   About Us
+*   b.Cause
+*   Careers
+
+SHOPPING SERVICES
+
+*   Personal Shopping
+*   Corporate Gifts
+*   Pick Up In Store
+
+FOLLOW US
 
 *   Terms of Use
 *   Privacy
@@ -455,4 +460,4 @@ Customer Service 1-800-777-0000 Customer Service 1-800-777-0000
 *   Visually Impaired Customers
 *   Essential Accessibility
 
-© 2017 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
+© 2018 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
