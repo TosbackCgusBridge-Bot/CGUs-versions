@@ -225,7 +225,7 @@ Children’s privacy
 
 From our web pages, we do not knowingly collect personal information from individuals under the age of 13 without obtaining verifiable consent from their parents.  We request that such individuals do not provide personal information through the services.
 
-For more information about the Children’s Online Privacy Protection Act (COPPA), visit the FTC website: www.ftc.gov.
+For more information about the Children’s Online Privacy Protection Act (COPPA), visit the FTC website: www.ftc.govOpens Dialog.
 
 Policy updates and effective date
 
