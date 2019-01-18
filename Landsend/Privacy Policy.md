@@ -265,7 +265,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Cover-ups
     *   Plus Size Swimsuits
     *   Swim Skirts
-    *   Board Shorts
+    *   Swim Shorts &. Board Shorts
     *   Swim Dresses
     *   Mastectomy Swimsuits
     *   Long Torso Swimsuits
@@ -336,6 +336,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Shoes
     *   Accessories
     *   Backpacks &. Bags
+    *   Adaptive Clothing
     
     Boys &. Men>
     *   Tops
@@ -347,7 +348,8 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
     *   Coats &. Jackets
     *   Shoes
     *   Accessories
-    *   Backpacks &. Bags
+    *   Backpacks &: Bags
+    *   Adaptive Clothing
 *   Home BATH >
     
     *   Towels
@@ -729,7 +731,7 @@ Lands' End Sign In menu
         *   Cover-ups
         *   Plus Size Swimsuits
         *   Swim Skirts
-        *   Board Shorts
+        *   Swim Shorts &. Board Shorts
         *   Swim Dresses
         *   Mastectomy Swimsuits
         *   Long Torso Swimsuits
@@ -802,6 +804,7 @@ Lands' End Sign In menu
         *   Shoes
         *   Accessories
         *   Backpacks &. Bags
+        *   Adaptive Clothing
     *   Boys &. Men
         *   Back
         *   View All
@@ -814,7 +817,8 @@ Lands' End Sign In menu
         *   Coats &. Jackets
         *   Shoes
         *   Accessories
-        *   Backpacks &. Bags
+        *   Backpacks &: Bags
+        *   Adaptive Clothing
 *   Home
     *   Back
     *   Shop all Home
