@@ -8,18 +8,38 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Designer Sun ft. Fendi, Gucci &. More Up to 75% Off
+    *   Dresses ft. Sharagano Up to 70% Off
+    *   Denim Steals: Jeans &. Shorts Under $30
+    *   Felina
+    *   Camper
+    *   TARA Diamonds &. Gemstone Jewelry
+    *   Tiare Hawaii
+    *   Men's Designer Accessories Up to 70% Off
+    *   Men's Designer Clothing Up to 70% Off
+    *   Bruno Magli Men
+    *   Free Shipping: Fine Art
+    *   Appaman
+    *   Layer Up: Kids' Hoodies ft. Champion
+    *   Made in Italy: 14K Gold &. Sterling from $15
+    *   Beyond the Workout: Active Starting at $10
+    *   Raymond Weil Luxury Swiss Watches
+    *   Moonlit Skincare
+    *   Botkier Up to 60% Off
+    *   PX
+    *   Mephisto
+    *   Top Off Your Look: Styles Under $25
     *   GREY Jason Wu
+    
     *   Splendid Up to 65% Off
     *   Yumi Kim
+    *   Splendid Swim
     *   Get Now, Wear Now: Coats Up to 75% Off
     *   Seasonal Steals: Boots &. Booties Up to 60% Off
     *   Men's Boot Steals Up to 70% Off
     *   Layer on the Savings: Men's Outerwear
     *   Kids' Outerwear &. Shoes Up to 70% Off
-    *   ASICS Starting at $40
     *   Max Studio: New Denim &. More
-    *   Splendid Swim
-    *   ASICS Men's Shoes &. Active Starting at $40
     *   AG Denim Men Up to 50% Off
     *   Mustard Seed
     *   Chan Luu: Layering Necklaces &. Bracelets
@@ -32,186 +52,161 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Soul Star
     *   Kids' Favorite Books ft. Dr. Seuss &. More
     *   Sandro Moscoloni
-    
-    *   Mephisto
     *   Free Shipping: Bedding for Every Style
+    
     *   Free Shipping: Colorful Decor
     *   Free Shipping: Wall Murals &. More
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
-    *   GOOD LUCK GEM &. CODEXMODE
+    *   ASICS Starting at $40
+    *   ASICS Men's Shoes &. Active Starting at $40
     *   ASICS Active
-    *   Frye Handbags
-    *   Fate
-    *   Show Me Your Mumu Up to 70% Off
-    *   Yoga &. Fitness Accessories ft. Manduka
     *   Tahitian &. Akoya Pearls and More Under $80
     *   Champagne Dreams: Cuvee Beauty
     *   Go Couture Kids
-    *   Modern Suiting Under $250
     *   OFRA Cosmetics Starting at $10
-    *   dav Waterproof Booties, Bags &. More
-    *   Cecelia New York
-    *   Accessory Brands We Love ft. Madewell &. Brixton
     *   Cult of Individuality
     *   James Tattersall
-    *   Men's Sport Sun
-    *   Skinny Girl Jeans Up to 60% Off
-    *   Diane von Furstenberg Up to 60% Off
-    
     *   Cuisinart
-    *   14K Gold, Gemstones &. More Under $80
-    *   Spring Dress Preview ft. Joe-Ella
     *   BC Collection
-    *   Diane von Furstenberg &. More: Sun Under $80
     *   Giorgio Brutini
-    *   Retro Kids' Sneakers from Reebok &. More
-    *   Starry Nights: Kids' Pajamas
     *   Fragrances We Love ft. Burberry &. Calvin Klein
-    *   Men's Shoes Up to 65% Off
+    *   Our Best Bras ft. Natori
     *   Dyson Up to 50% Off
     *   Vanity Planet Up to 75% Off
-    *   Coats Up to 70% Off
-    *   XRAY Shoes Up to 60% Off
     *   Free Shipping: Cozy Comforters &. More
     *   Cheers to These: Chic Drinkware &. More
     *   Free Shipping: Storage Must-Haves from $10
-    *   Men's Skin Care
-    *   Free Shipping: Chic Bedding Sets &. More
-    *   Car Storage &. Organization Essentials from $10
-    *   Our Best Bras ft. Natori
-    *   XRAY
 *   WomenShop Sale Events
     
+    *   Designer Sun ft. Fendi, Gucci &. More Up to 75% Off
+    *   Dresses ft. Sharagano Up to 70% Off
+    *   Denim Steals: Jeans &. Shorts Under $30
+    *   Felina
+    *   Camper
+    *   TARA Diamonds &. Gemstone Jewelry
+    *   Tiare Hawaii
+    *   Made in Italy: 14K Gold &. Sterling from $15
+    *   Beyond the Workout: Active Starting at $10
+    *   Raymond Weil Luxury Swiss Watches
+    *   Moonlit Skincare
+    *   Botkier Up to 60% Off
+    *   Mephisto
+    *   Top Off Your Look: Styles Under $25
     *   GREY Jason Wu
     *   Splendid Up to 65% Off
     *   Yumi Kim
+    
+    *   Splendid Swim
     *   Get Now, Wear Now: Coats Up to 75% Off
     *   Seasonal Steals: Boots &. Booties Up to 60% Off
-    *   ASICS Starting at $40
     *   Max Studio: New Denim &. More
-    *   Splendid Swim
     *   Mustard Seed
     *   Chan Luu: Layering Necklaces &. Bracelets
     *   NuFACE Facial Toning Devices
     *   Addicted Beauty
-    *   Mephisto
-    *   GOOD LUCK GEM &. CODEXMODE
+    *   ASICS Starting at $40
     *   ASICS Active
-    *   Frye Handbags
-    *   Fate
-    
-    *   Show Me Your Mumu Up to 70% Off
-    *   Yoga &. Fitness Accessories ft. Manduka
     *   Tahitian &. Akoya Pearls and More Under $80
     *   Champagne Dreams: Cuvee Beauty
     *   OFRA Cosmetics Starting at $10
-    *   dav Waterproof Booties, Bags &. More
-    *   Cecelia New York
-    *   Accessory Brands We Love ft. Madewell &. Brixton
-    *   Skinny Girl Jeans Up to 60% Off
-    *   Diane von Furstenberg Up to 60% Off
-    *   14K Gold, Gemstones &. More Under $80
-    *   Diane von Furstenberg &. More: Sun Under $80
     *   Fragrances We Love ft. Burberry &. Calvin Klein
-    *   Vanity Planet Up to 75% Off
-    *   Coats Up to 70% Off
     *   Our Best Bras ft. Natori
+    *   Vanity Planet Up to 75% Off
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Lingerie
     *   Jewelry
     *   Accessories
+    *   Watches
     *   Handbags
 *   MenShop Sale Events
     
+    *   Designer Sun ft. Fendi, Gucci &. More Up to 75% Off
+    *   Men's Designer Accessories Up to 70% Off
+    *   Men's Designer Clothing Up to 70% Off
+    *   Bruno Magli Men
+    *   Raymond Weil Luxury Swiss Watches
+    *   PX
     *   Men's Boot Steals Up to 70% Off
     *   Layer on the Savings: Men's Outerwear
-    *   ASICS Men's Shoes &. Active Starting at $40
     *   AG Denim Men Up to 50% Off
+    
     *   Beat the Chill: Men's Cold-Weather Accessories
     *   Soul Star
     *   Sandro Moscoloni
-    *   Yoga &. Fitness Accessories ft. Manduka
-    *   Modern Suiting Under $250
+    *   ASICS Men's Shoes &. Active Starting at $40
     *   Cult of Individuality
-    
     *   James Tattersall
-    *   Men's Sport Sun
     *   BC Collection
     *   Giorgio Brutini
     *   Fragrances We Love ft. Burberry &. Calvin Klein
-    *   Men's Shoes Up to 65% Off
-    *   XRAY Shoes Up to 60% Off
-    *   Men's Skin Care
-    *   XRAY
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Appaman
+    *   Layer Up: Kids' Hoodies ft. Champion
     *   Kids' Outerwear &. Shoes Up to 70% Off
     *   Sophie Catalou
     *   Kids' Favorite Books ft. Dr. Seuss &. More
     *   Go Couture Kids
-    *   Spring Dress Preview ft. Joe-Ella
-    *   Retro Kids' Sneakers from Reebok &. More
-    *   Starry Nights: Kids' Pajamas
     
     Shop By Category
     *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
-    *   Girls' Shoes
-    *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
-    *   Boys' Shoes
+    *   Boys' Sizes 8-20
+    *   Girls' Shoes
     *   Toys
     *   Baby Girl
     *   Baby Boy
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Fine Art
     *   Prep for Success: Kitchen Storage &. Gadgets
     *   Down &. Memory Foam Essentials
     *   Free Shipping: Bedding for Every Style
     *   Free Shipping: Colorful Decor
     *   Free Shipping: Wall Murals &. More
+    
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
     *   Cuisinart
-    
     *   Dyson Up to 50% Off
     *   Free Shipping: Cozy Comforters &. More
     *   Cheers to These: Chic Drinkware &. More
     *   Free Shipping: Storage Must-Haves from $10
-    *   Free Shipping: Chic Bedding Sets &. More
-    *   Car Storage &. Organization Essentials from $10
     
     Shop By Category
     *   Bedding
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
     *   Storage &. Organization
     *   Holiday Decorations
     *   Rugs &. Doormats
+    *   Luggage &. Travel
     *   Bath
 *   BeautyShop Sale Events
     
+    *   Moonlit Skincare
     *   NuFACE Facial Toning Devices
     *   Addicted Beauty
     *   Champagne Dreams: Cuvee Beauty
     *   OFRA Cosmetics Starting at $10
     *   Fragrances We Love ft. Burberry &. Calvin Klein
     *   Vanity Planet Up to 75% Off
-    *   Men's Skin Care
     
     Shop By Category
     *   Fragrance
-    *   Skin Care
     *   Tools &. Accessories
     *   Makeup
+    *   Skin Care
     *   Hair Care
     *   Bath &. Body
 
