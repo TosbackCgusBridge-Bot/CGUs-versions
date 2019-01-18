@@ -63,7 +63,13 @@ View more results
     *   Backgammon: Board Game Online Multiplayer
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
-    *   WarbannerSpotlight Slotomania
+    *   Warbanner
+    *   Madalin Cars Multiplayer
+    *   Bubble Machine: 2 Player Game
+    *   Klondike - the lost expedition
+    *   Total Front: Army War Game
+    *   Crystical: 2 Player Puzzle Game
+    *   Fireboy &. Watergirl 2: The Light Temple
 *   Top Categories
     
     *   Boy Games
@@ -89,7 +95,13 @@ View more results
     *   Warbanner
     *   Sniper Team 2
     *   Super Smash Flash 2
-    *   Stunt Skateboard 3DSpotlight Super Smash Flash 2
+    *   Stunt Skateboard 3D
+    *   Uphill Rush 7: Waterpark
+    *   Deer Hunter
+    *   Total Front: Army War Game
+    *   Slither.io
+    *   Electricman 2: Stickman Fighting Game
+    *   Penguin Diner: Food Restaurant Game
 *   Top Categories
     
     *   Platform Games
@@ -115,7 +127,13 @@ View more results
     *   FNAF World
     *   Five Nights at Freddy's 4
     *   Uphill Rush
-    *   Five Nights at Freddy's: Sister LocationSpotlight Crime City 3D: Police Game
+    *   Five Nights at Freddy's: Sister Location
+    *   Trap Adventure 2
+    *   FNAF: Sister Location Custom Night
+    *   Tom and Jerry: Mouse Maze
+    *   TJOC: The Joy Of Creation
+    *   FNAF - Sister Location Custom
+    *   Papa's Sushiria
 *   Top Categories
     
     *   Bubble Shooter
@@ -138,10 +156,16 @@ View more results
     Best Games
     *   Cookie Crush 3
     *   The Impossible Quiz: World's Hardest Quiz
-    *   Fireboy and Watergirl: The Forest Temple
     *   Bubble Shooter
+    *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
-    *   Deal or No DealSpotlight TenTrix
+    *   Deal or No Deal
+    *   Fireboy &. Watergirl 4: Crystal Temple
+    *   The Impossible Quiz 2
+    *   Bubble Machine: 2 Player Game
+    *   TenTrix
+    *   Snail Bob
+    *   Crystical: 2 Player Puzzle Game
 *   Top Categories
     
     *   Dress Up
@@ -166,8 +190,14 @@ View more results
     *   Ellie: Get Ready With Me
     *   Electricman 2: Stickman Fighting Game
     *   Burger Restaurant Express
+    *   Penguin Diner: Food Restaurant Game
     *   Love Tester 2.0
-    *   Penguin Diner: Food Restaurant GameSpotlight My Dolphin Show 8
+    *   Papa's Freezeria
+    *   Bartender
+    *   Create a House: Building Game
+    *   Papa's Cupcakeria
+    *   Fidget Spinner
+    *   Back To School: Princesses Rush
 *   Top Categories
     
     *   BMX Games
@@ -193,7 +223,13 @@ View more results
     *   Hill Racing Challenge
     *   Bike Racing: Motorcycle Game
     *   Uphill Rush 7: Waterpark
-    *   Madalin Cars MultiplayerSpotlight Madalin Cars Multiplayer
+    *   Madalin Cars Multiplayer
+    *   Bus Man Parking 3D
+    *   Happy Wheels
+    *   Extreme Off-Road Cars 2
+    *   Parking Training
+    *   Russian Car Driver
+    *   Neon Biker
 *   Top Categories
     
     *   Athletics
@@ -218,7 +254,13 @@ View more results
     *   Stunt Skateboard 3D
     *   Table Tennis World Tour
     *   Baseball
-    *   Playing SoccerSpotlight Ultimate Boxing
+    *   Playing Soccer
+    *   Neon Biker
+    *   8-Ball
+    *   Ultimate Boxing
+    *   Goalkeeper Premier: Football Game
+    *   Billiards Master Pro
+    *   4x4 Soccer
 *   *   Multiplayer
     *   Action
     *   Adventure
