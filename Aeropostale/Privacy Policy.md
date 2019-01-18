@@ -70,6 +70,7 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Sweaters
 *   Active Tops
+*   $5.87 Graphic Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -89,8 +90,6 @@ Close submenu ( Live Love Dream ) Live Love Dream
 *   Lounge
 *   Bras
 *   Undies
-*   Accessories
-*   Clearance
 
 Close submenu ( Collections ) Collections
 
@@ -129,6 +128,7 @@ Close submenu ( Tops ) Tops
 *   Long Sleeve
 *   Hoodies + Sweatshirts
 *   Shirts
+*   $6.87 Graphic Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -190,8 +190,6 @@ Close submenu ( Clearance ) Clearance
 
 *   Open submenu ( Guys ) Guys
 
-*   Open submenu ( Live Love Dream ) Live Love Dream
-
 Close submenu ( Girls ) Girls
 
 *   View All
@@ -200,9 +198,9 @@ Close submenu ( Girls ) Girls
 *   Tops
 *   Bottoms
 *   Dresses + Skirts
-*   Swim
 *   Accessories
-*   Intimates
+*   Bras + Undies
+*   Swim
 
 Close submenu ( Guys ) Guys
 
@@ -213,19 +211,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-Close submenu ( Live Love Dream ) Live Love Dream
-
-*   View All
-*   New to Clearance
-*   $9.99 + Under
-*   Tops
-*   Bottoms
-*   Intimates
-*   Swim
-*   Active
-*   Lounge
-
-**FREE SHIPPING WHEN YOU BUY JEANS** **FREE SHIPPING ON ORDERS OVER $50**
+ONLINE ONLY! **Extra 30% Off Clearance** Use Code **EXTRA30** **FREE SHIPPING ON ORDERS OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -265,6 +251,7 @@ Menu Find a Store Aeropostale
         *   Shirts
         *   Sweaters
         *   Active Tops
+        *   $5.87 Graphic Tees
     
     *   Bottoms
         *   View All
@@ -292,8 +279,6 @@ Menu Find a Store Aeropostale
         *   Lounge
         *   Bras
         *   Undies
-        *   Accessories
-        *   Clearance
     
     *   Collections
         *   View All
@@ -315,6 +300,7 @@ Menu Find a Store Aeropostale
         *   Long Sleeve
         *   Hoodies + Sweatshirts
         *   Shirts
+        *   $6.87 Graphic Tees
     
     *   Bottoms
         *   View All
@@ -341,7 +327,6 @@ Menu Find a Store Aeropostale
         *   Active
         *   Back to Basics
         *   Uniform
-    
 *   Jeans
     
     *   View Home
@@ -369,7 +354,6 @@ Menu Find a Store Aeropostale
         *   Relaxed
         *   Flex Effects
         *   Destroyed Denim
-    
 *   Clearance
     
     *   View Home
@@ -380,9 +364,9 @@ Menu Find a Store Aeropostale
         *   Tops
         *   Bottoms
         *   Dresses + Skirts
-        *   Swim
         *   Accessories
-        *   Intimates
+        *   Bras + Undies
+        *   Swim
     
     *   Guys
         *   View All
@@ -393,17 +377,6 @@ Menu Find a Store Aeropostale
         *   Accessories
         
     
-    *   Live Love Dream
-        *   View All
-        *   New to Clearance
-        *   $9.99 + Under
-        *   Tops
-        *   Bottoms
-        *   Intimates
-        *   Swim
-        *   Active
-        *   Lounge
-    
 
 *   Select Country
 
@@ -412,7 +385,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Get In Store Coupon Shop Girls Shop Guys Girls Clearance Guys Clearance Shop Girls Shop Guys AERO GIRLS TEES In Stores &. Online $7 &. Up Shop Girls Graphics Shop Girls Long Sleeve Shop Girls Bodycon AERO GUYS TEES In Stores &. Online $8 &. Up Shop Guys Graphics Shop Guys Long Sleeve HOODIES &. SWEATSHIRTS In Stores &. Online $9 &. Up Shop Girls Shop Guys JACKETS &. VESTS In Stores &. Online $10 &. Up Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Girls Clearance Guys Clearance Shop Girls Shop Guys AERO GIRLS TEES In Stores &. Online $5.87 &. Up Shop Girls Graphics Shop Girls Long Sleeve Shop Girls Bodycon Shop Girls Shop Guys AERO GUYS TEES In Stores &. Online $6.87 &. Up Shop Guys Graphics Shop Guys Long Sleeve HOODIES &. SWEATSHIRTS In Stores &. Online $14 &. Up Shop Girls Shop Guys JACKETS &. VESTS In Stores &. Online $13 &. Up Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -451,3 +424,17 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
