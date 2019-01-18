@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   17\. Januar 2019
+*   18\. Januar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 10.931,24ǀ
+*   DAX 10.918,62ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -51,6 +51,7 @@ Anmelden
         *   Unternehmen &. Märkte
         *   Staat &. Soziales
         *   Young-Money-Blog
+        *   Weltwirtschaftsforum in Davos 2019
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
         *   Immowelt
@@ -101,6 +102,7 @@ Anmelden
         *   Gadgets
         *   Games
         *   Apps
+        *   Datenschutz im Netz
     
 
 *   Wissenschaft
