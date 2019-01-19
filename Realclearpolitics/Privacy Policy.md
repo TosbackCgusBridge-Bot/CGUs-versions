@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Andrew Bacevich_: Our Elites' Selective Support for Democracy
+*   _Deroy Murdock_: Trump Should Deliver State of the Union--as Planned
     
-*   _Barbara Res_: In Nancy Pelosi, Trump Has Met His Match
+*   _Joan Walsh_: Pelosi Is Done Enabling Trump and the Republicans
     
-*   _David Catron_: The State of the Shutdown
+*   _Newt Gingrich_: Why No FBI Investigation Into Feinstein's China Collusion?
     
-*   _Kirsten Powers_: Men Should Shut Up About Gillette Ad &. Adapt to #MeToo Era
+*   _Elie Honig_: Rudy Giuliani's Remarkable Retreat on Collusion
     
-*   _Becket Adams_: Ilhan Omar Knows How to Smear With the Best of Them
+*   _Leopold &. Cormier_: Trump Directed Cohen to Lie About Moscow Project
     
-*   _Sabrina Siddiqui_: Can the #MeToo Senator Become Madam President?
+*   _Kalev Leetaru_: The Problem With Fact Checking Whether ISIS Is 'Defeated'
     
-*   _Thomas Lifson_: Beto Bombs Bigly In Washington Post Interview
+*   _Georgi Boorman_: Video: 8 Weeks After Conception, Baby Kicks Arms, Legs
     
-*   _Bryce Covert_: Democrats' $15 Minimum Wage Bill Is a Big Deal
+*   _Dawn Huckelbridge_: The Anti-Choice Movement Is About Controlling Women
     
-*   _Alfredo Ortiz_: Raising the Minimum Wage Will Cut Entry-Level Jobs
+*   _Roth &. Whitworth_: What School Choice Advocates Want Wis. Governor to See
     
-*   _Thomas Edsall_: The Fight Over Men Is Shaping Our Political Future
+*   _Paul Krugman_: The Real Governments of Blue America
     
-*   _Kevin Williamson_: David Webb's White Privilege
+*   _Mike Dawson_: Ohio's Now a Red State. Can Dems Ever Take It Back?
     
-*   _Carl M. Cannon_: Iran-Contra and the Fallability of Presidential Deal Making
+*   _Susan Glasser_: The State of the Union Is Not Strong
     
-*   _Yoni Applebaum_: Impeach Donald Trump
+*   _Kimberley Strassel_: What Bruce Ohr Told the FBI
     
-*   _Emmett Tyrrell_: The Democrats' Blueprint for Impeachment
+*   _Rep. Veronica Escobar_: Trump Worsens Border Crisis w/Incompetence &. Cruelty
     
-*   _Farhad Manjoo_: There's Nothing Wrong With Open Borders
+*   _George Neumayr_: The Immorality of the Open Borders Party
     
-*   _Dennis Prager_: The Left, the Wall, the Truth
+*   _Nia-Malika Henderson_: Beto's Excellent Adventure Drips w/White Male Privilege
     
-*   _Jeff Greenfield_: Pelosi Just Blew Up the State of the Union. And That's OK.
+*   _Matthew Continetti_: Lackluster 2020 Dems: From 7 Dwarfs to 20 Smurfs
     
-*   _Michael Walsh_: Take This SOTU and Shove It
+*   _Rep. Debbie Wasserman Schultz_: Why I Refuse to Walk With the Women's March
     
-*   _Lili Loofbourow_: Ocasio-Cortez Thriving Despite Sexist Attacks by Right
+*   _Rebecca Traister_: Don't Give Up on the Women's March
     
-*   _Monica Crowley_: Newly Elected and Too Big For Her Britches
+*   _Carl Anderson_: Poll Shows Most Americans Favor Limits on Abortion
     
-*   _Denis MacShane_: UK No Closer to Finding the Answer to Brexit
+*   _James Pardew_: Congress Must Act Now to Save NATO From Trump
     
-*   _Nigel Farage_: Britain Ended Up in Mess by Defying the Will of Voters
+*   _Patrick Buchanan_: At Age 70, Time to Rethink NATO
     
-*   _Alex Shephard_: Who's Afraid of Bernie? A Lot of Dems, Apparently
+*   _Ella Whelan_: Brexit Exposes Elitist Rot at Heart of Westminster
     
-*   _Victor Davis Hanson_: Trump's Re-Election Chances Better Than You Think
+*   _Lee Smith_: Washington's Foreign-Influence Racket: A Clear &. Present Muddle
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Pelosi Cites "Security" Concerns for Uninviting Trump From SOTU
+*   As Fight Heats Up, Trump Grounds Pelosi's Overseas Trip
+*   Trump Says U.S. Will Develop Space-Based Missile Defense
+*   Schumer: Dems Must Stay Strong, Trump Thought We Would Crack
 *   Who Will Blink First in Fight Over Border Wall Funding?
-*   Hoyer: The State of the Union Is "Not Officially Off"
-*   Theresa May's Brexit Deal Is Voted Down in Historic Commons Defeat
-*   Sen. Kirsten Gillibrand Jumps Into 2020 Presidential Race
+*   Poll Shows Most Americans Favor Limits on Abortion
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,6 +243,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove55Disapprove +11
 *   President Trump Job ApprovalNPR/PBS/Marist
     *   Approve40
     *   Disapprove54Disapprove +14
@@ -252,17 +255,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalPew Research
     *   Approve39
     *   Disapprove58Disapprove +19
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve41
-    *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
+*   Buzzfeed's Anthony Cormier On Explosive Trump Story: This 100% Happened
 *   Schiff: We're In "Otherworldly Situation" Where White House Uses "Same Talking Points" As The Kremlin
 *   Giuliani vs. Cuomo: I Never Said There Was No Collusion Between People In Trump Campaign And Russia
 *   Gregory Meeks on Steve King: Trump Inspires Racists To "Come Out Of The Closet," Uncover Their Faces
 *   Rep. Ilhan Omar Defends 2012 Tweet Accusing Israel of "Evil Doings" And "Hypnotising The World"
-*   Pelosi Cites "Security" Concerns For Uninviting Trump From SOTU: "He Can Make It From The Oval Office"
 
 *   Politics
 *   Policy
