@@ -962,9 +962,9 @@ Lands' End Sign In menu
     *   FAQ
     *   Chat
 
-Receive 40% off 1 full-price item!
+Receive 30% off full-price styles!
 
-code: SHIMMER pin: 3479 DETAILS
+code: COCOA pin: 7456 DETAILS
 
 Customer Service Menu
 
