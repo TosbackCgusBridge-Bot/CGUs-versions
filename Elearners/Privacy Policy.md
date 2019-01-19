@@ -1,4 +1,4 @@
-Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PDDPX5" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+Skip to main content
 
 *   Online Degrees
     *   All Subjects
@@ -254,4 +254,4 @@ Copyright eLearners.com 1999 - 2019
 
 EducationDynamics maintains business relationships with the schools it features
 
-Find Schools AddThis SharingFacebook, Number of sharesLinkedIn, Number of sharesTwitter, Number of sharesPinterest, Number of sharesAddThis SharingSHARESFacebookLinkedInTwitterPinterest
+Find Schools
