@@ -1,3 +1,5 @@
+ 
+
 **Privacy Policy**
 
 This policy describes how PersonalizationMall.com, LLC, and its Affiliates collect, use, and share personal information, unless a particular Affiliate has a different privacy policy posted on its website, in which case that privacy policy shall describe that Affiliate’s collection, use, and sharing of personal information.  The “Affiliates” referred to in this privacy policy mean Bed Bath &. Beyond, buybuy BABY, Christmas Tree Shops And That!, Harmon and Harmon Face Values, Cost Plus and Cost Plus World Market, One Kings Lane, Of a Kind, Decorist, Chef Central and such other Affiliates as we may acquire or launch from time to time.
@@ -156,7 +158,7 @@ Service@PersonalizationMall.com
 
 PersonalizationMall.com  
 51 Shore Dr.  
-Burr Ridge, IL 60527
+Burr Ridge, IL 60527 
 
 ·         **Changes To This Privacy Policy.** We may change our privacy policy and practices over time.  To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information.  
 
