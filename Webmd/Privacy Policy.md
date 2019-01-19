@@ -110,11 +110,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Government Shutdown and Food Safety
+    *   Plague Cases Confirmed -- What You Need to Know
+    *   Are You a Risk-Taker? It May Be in Your DNA
+    *   Sit Less, Live Longer?
+    *   Why Your Heart Needs a Good Night's Sleep
     *   People With Cancer May Face Greater Shingles Risk
-    *   Diet Soda Linked to Risk for Diabetic Blindness
-    *   Will a 'Dry January' Help Your Health?
-    *   Update: Dozens of Blood Pressure Drugs Recalled
     
     Experts &. Community
     
