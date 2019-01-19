@@ -334,14 +334,14 @@ Offers
 
 New + Coming soon
 
-*   Dr. Seuss' The Grinch (2018)
-*   Mary Queen of Scots (2018)
-*   Spider-Man: Into the Spider-Verse
-*   Mary Poppins Returns (2018)
-*   Second Act
-*   Bumblebee
 *   Aquaman
-*   On the Basis of Sex
+*   Glass (2019)
+*   The Kid Who Would Be King
+*   Miss Bala (2019)
+*   Fandango Early Access: How to Train Your Dragon: The Hidden World
+*   Cold Pursuit
+*   What Men Want
+*   Captain Marvel (2019)
 
 Experience + Explore
 
