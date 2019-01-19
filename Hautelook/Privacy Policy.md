@@ -8,11 +8,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Tommy Bahama Men's Clothing &. More
+    *   Tommy Bahama
+    *   Tommy Bahama Swim Up to 60% Off
+    *   Layer on the Luxe: Cashmere Sweaters &. More
+    *   Slip into Comfort: Cozy Slippers &. More from $13
+    *   No Chill: Men's Sweaters, Hoodies &. More
+    *   Sleep In: Pajama &. Lounge Blowout
+    *   Tommy Bahama Handbags Starting at $20
+    *   Free City Up to 70% Off
+    *   Maxi Dresses &. More ft. West Kei Inclu. Plus &. Petites
+    *   Sky
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Boys' Boat Shoes &. More ft. Polo Ralph Lauren
+    *   L'Amour Des Pieds
+    *   Wow-Worthy Brows from Chella
+    *   Bespoke
+    *   Blondo Waterproof Booties &. More
+    *   Final Few: Bedding &. More Up to 75% Off
     *   Designer Sun ft. Fendi, Gucci &. More Up to 75% Off
     *   Dresses ft. Sharagano Up to 70% Off
     *   Denim Steals: Jeans &. Shorts Under $30
     *   Felina
     *   Camper
+    
     *   TARA Diamonds &. Gemstone Jewelry
     *   Tiare Hawaii
     *   Men's Designer Accessories Up to 70% Off
@@ -20,32 +39,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Bruno Magli Men
     *   Free Shipping: Fine Art
     *   Appaman
-    *   Layer Up: Kids' Hoodies ft. Champion
     *   Made in Italy: 14K Gold &. Sterling from $15
     *   Beyond the Workout: Active Starting at $10
     *   Raymond Weil Luxury Swiss Watches
     *   Moonlit Skincare
     *   Botkier Up to 60% Off
     *   PX
-    *   Mephisto
     *   Top Off Your Look: Styles Under $25
-    *   GREY Jason Wu
-    
-    *   Splendid Up to 65% Off
-    *   Yumi Kim
-    *   Splendid Swim
+    *   Layer Up: Kids' Hoodies ft. Champion
     *   Get Now, Wear Now: Coats Up to 75% Off
     *   Seasonal Steals: Boots &. Booties Up to 60% Off
     *   Men's Boot Steals Up to 70% Off
-    *   Layer on the Savings: Men's Outerwear
     *   Kids' Outerwear &. Shoes Up to 70% Off
-    *   Max Studio: New Denim &. More
-    *   AG Denim Men Up to 50% Off
-    *   Mustard Seed
     *   Chan Luu: Layering Necklaces &. Bracelets
     *   NuFACE Facial Toning Devices
     *   Prep for Success: Kitchen Storage &. Gadgets
     *   Sophie Catalou
+    
     *   Addicted Beauty
     *   Beat the Chill: Men's Cold-Weather Accessories
     *   Down &. Memory Foam Essentials
@@ -53,94 +63,87 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kids' Favorite Books ft. Dr. Seuss &. More
     *   Sandro Moscoloni
     *   Free Shipping: Bedding for Every Style
-    
     *   Free Shipping: Colorful Decor
     *   Free Shipping: Wall Murals &. More
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
-    *   ASICS Starting at $40
-    *   ASICS Men's Shoes &. Active Starting at $40
-    *   ASICS Active
-    *   Tahitian &. Akoya Pearls and More Under $80
     *   Champagne Dreams: Cuvee Beauty
-    *   Go Couture Kids
     *   OFRA Cosmetics Starting at $10
     *   Cult of Individuality
+    *   Our Best Bras ft. Natori
     *   James Tattersall
     *   Cuisinart
-    *   BC Collection
-    *   Giorgio Brutini
     *   Fragrances We Love ft. Burberry &. Calvin Klein
-    *   Our Best Bras ft. Natori
     *   Dyson Up to 50% Off
-    *   Vanity Planet Up to 75% Off
     *   Free Shipping: Cozy Comforters &. More
-    *   Cheers to These: Chic Drinkware &. More
-    *   Free Shipping: Storage Must-Haves from $10
+    *   Splendid Up to 65% Off
+    *   Mephisto
 *   WomenShop Sale Events
     
+    *   Tommy Bahama
+    *   Tommy Bahama Swim Up to 60% Off
+    *   Layer on the Luxe: Cashmere Sweaters &. More
+    *   Slip into Comfort: Cozy Slippers &. More from $13
+    *   Sleep In: Pajama &. Lounge Blowout
+    *   Tommy Bahama Handbags Starting at $20
+    *   Free City Up to 70% Off
+    *   Maxi Dresses &. More ft. West Kei Inclu. Plus &. Petites
+    *   Sky
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   L'Amour Des Pieds
+    *   Wow-Worthy Brows from Chella
+    *   Blondo Waterproof Booties &. More
     *   Designer Sun ft. Fendi, Gucci &. More Up to 75% Off
     *   Dresses ft. Sharagano Up to 70% Off
     *   Denim Steals: Jeans &. Shorts Under $30
     *   Felina
     *   Camper
     *   TARA Diamonds &. Gemstone Jewelry
+    
     *   Tiare Hawaii
     *   Made in Italy: 14K Gold &. Sterling from $15
     *   Beyond the Workout: Active Starting at $10
     *   Raymond Weil Luxury Swiss Watches
     *   Moonlit Skincare
     *   Botkier Up to 60% Off
-    *   Mephisto
     *   Top Off Your Look: Styles Under $25
-    *   GREY Jason Wu
-    *   Splendid Up to 65% Off
-    *   Yumi Kim
-    
-    *   Splendid Swim
     *   Get Now, Wear Now: Coats Up to 75% Off
     *   Seasonal Steals: Boots &. Booties Up to 60% Off
-    *   Max Studio: New Denim &. More
-    *   Mustard Seed
     *   Chan Luu: Layering Necklaces &. Bracelets
     *   NuFACE Facial Toning Devices
     *   Addicted Beauty
-    *   ASICS Starting at $40
-    *   ASICS Active
-    *   Tahitian &. Akoya Pearls and More Under $80
     *   Champagne Dreams: Cuvee Beauty
     *   OFRA Cosmetics Starting at $10
-    *   Fragrances We Love ft. Burberry &. Calvin Klein
     *   Our Best Bras ft. Natori
-    *   Vanity Planet Up to 75% Off
+    *   Fragrances We Love ft. Burberry &. Calvin Klein
+    *   Splendid Up to 65% Off
+    *   Mephisto
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Lingerie
     *   Jewelry
     *   Accessories
-    *   Watches
     *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
+    *   Tommy Bahama Men's Clothing &. More
+    *   No Chill: Men's Sweaters, Hoodies &. More
+    *   Bespoke
     *   Designer Sun ft. Fendi, Gucci &. More Up to 75% Off
     *   Men's Designer Accessories Up to 70% Off
     *   Men's Designer Clothing Up to 70% Off
     *   Bruno Magli Men
     *   Raymond Weil Luxury Swiss Watches
+    
     *   PX
     *   Men's Boot Steals Up to 70% Off
-    *   Layer on the Savings: Men's Outerwear
-    *   AG Denim Men Up to 50% Off
-    
     *   Beat the Chill: Men's Cold-Weather Accessories
     *   Soul Star
     *   Sandro Moscoloni
-    *   ASICS Men's Shoes &. Active Starting at $40
     *   Cult of Individuality
     *   James Tattersall
-    *   BC Collection
-    *   Giorgio Brutini
     *   Fragrances We Love ft. Burberry &. Calvin Klein
     
     Shop By Category
@@ -150,63 +153,62 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Boys' Boat Shoes &. More ft. Polo Ralph Lauren
     *   Appaman
     *   Layer Up: Kids' Hoodies ft. Champion
     *   Kids' Outerwear &. Shoes Up to 70% Off
     *   Sophie Catalou
     *   Kids' Favorite Books ft. Dr. Seuss &. More
-    *   Go Couture Kids
     
     Shop By Category
     *   Girls' Sizes 2T-6X
-    *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
+    *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
     *   Girls' Shoes
+    *   Boys' Shoes
     *   Toys
     *   Baby Girl
     *   Baby Boy
-    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Final Few: Bedding &. More Up to 75% Off
     *   Free Shipping: Fine Art
     *   Prep for Success: Kitchen Storage &. Gadgets
     *   Down &. Memory Foam Essentials
     *   Free Shipping: Bedding for Every Style
     *   Free Shipping: Colorful Decor
-    *   Free Shipping: Wall Murals &. More
     
+    *   Free Shipping: Wall Murals &. More
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
     *   Cuisinart
     *   Dyson Up to 50% Off
     *   Free Shipping: Cozy Comforters &. More
-    *   Cheers to These: Chic Drinkware &. More
-    *   Free Shipping: Storage Must-Haves from $10
     
     Shop By Category
     *   Bedding
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Storage &. Organization
-    *   Holiday Decorations
-    *   Rugs &. Doormats
-    *   Luggage &. Travel
     *   Bath
+    *   Storage &. Organization
+    *   Luggage &. Travel
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Wow-Worthy Brows from Chella
     *   Moonlit Skincare
     *   NuFACE Facial Toning Devices
     *   Addicted Beauty
     *   Champagne Dreams: Cuvee Beauty
     *   OFRA Cosmetics Starting at $10
     *   Fragrances We Love ft. Burberry &. Calvin Klein
-    *   Vanity Planet Up to 75% Off
     
     Shop By Category
     *   Fragrance
-    *   Tools &. Accessories
     *   Makeup
     *   Skin Care
+    *   Tools &. Accessories
     *   Hair Care
     *   Bath &. Body
 
