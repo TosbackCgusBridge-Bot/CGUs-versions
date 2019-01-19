@@ -89,9 +89,9 @@ UP TO 70% OFF ROYAL VELVET CURTAINSShop AllSELECT STYLESUP TO 70% OFF ROYAL VELV
     was $60 Royal Velvet Supreme Rod-Pocket Scallop Valance(139)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    from$18 sale
+    from$12 sale
     
-    was $60 - $130 Royal Velvet® Geneva Rod-Pocket Curtain Panel(91)Add To Cart
+    was $40 - $90 Royal Velvet Hilton Rod-Pocket Curtain Panel(35)Add To Cart
 
 UP TO 70% OFF BEDDINGShop AllSELECT STYLESUP TO 70% OFF BEDDINGSELECT STYLESShop All
 
@@ -102,14 +102,14 @@ UP TO 70% OFF BEDDINGShop AllSELECT STYLESUP TO 70% OFF BEDDINGSELECT STYLESShop
     was $64 - $139 North Pole Trading Co. Flannel Sheet Set(55)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    from$4299 sale
-    
-    was $145 - $185 JCPenney Home Mink/Faux Fur Heavyweight Reversible Comforter(28)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     from$4999 sale
     
     was $149 - $199 Alpine Down Feather &. Down Comforter(22)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    from$4299 sale
+    
+    was $145 - $185 JCPenney Home Mink/Faux Fur Heavyweight Reversible Comforter(28)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     from$1470 sale
@@ -133,24 +133,26 @@ UP TO 70% OFF BEDDINGShop AllSELECT STYLESUP TO 70% OFF BEDDINGSELECT STYLESShop
 
 Hot Sellers
 
-*   $16 sale
+*   LIMITED TIME SPECIAL!
     
-    was $20 | 20% offNike® 6-pk. Men's Performance Quarter Socks(52)
-*   $68
+    from$1899 sale
     
-    SEPHORA COLLECTION Sephora PRO Editorial Eyeshadow Palette(223)
-*   $1439after couponwas $36 Stafford® Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt(297)
+    was $64 - $139 | 70% offNorth Pole Trading Co. Flannel Sheet Set(58)
+*   $10199after couponwas $300 Rachael Ray 18-pc. Aluminum Non-Stick Cookware Set(1)
+*   from$1259after couponwas $29 - $59 Home Expressions Classic Plus Mattress Pad(25)
+*   $1699 clearance
+    
+    was $48.99 | 65% offAmerileather Casual Leather Handbag
+*   BUY 1 GET 1 50% OFF
+    
+    $30
+    
+    Stafford® 4-pk. Heavyweight Crewneck T-Shirts(678)
 *   LIMITED TIME SPECIAL!
     
     $2999 sale
     
     was $90 | 66% offWorthington Womens Lara Slouch Cone Heel Zip Boots(26)
-*   LIMITED TIME SPECIAL!
-    
-    from$1899 sale
-    
-    was $64 - $139 | 70% offNorth Pole Trading Co. Flannel Sheet Set(55)
-*   from$3779after couponwas $90 - $190 Biddeford™ Comfort Knit Heated Blanket(389)
 
 Shop and Save at JCPenney
 
