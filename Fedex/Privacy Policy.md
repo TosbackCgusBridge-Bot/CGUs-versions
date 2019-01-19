@@ -1,3 +1,11 @@
+Scheduled Maintenance - 1/19/2019, 9:00:00 PM CST - 1/20/2019, 12:01:00 AM CST.
+
+To improve your online experience with FedEx, we will be performing system maintenance on 1/19/2019, 9:00:00 PM CST - 1/20/2019, 12:01:00 AM CST. You may experience slow response times or failures during this time period.  
+
+We regret any inconvenience due to this service disruption and, as always, we appreciate your patience.
+
+ShowHide
+
 *   Shipping Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
 *   Tracking Tracking ID Tracking ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
 *   Printing Services Start Online Printing Order Posters, Signs &. Banners Presentations &. Manuals Marketing Materials Ideas &. Custom Solutions Get Coupons &. Deals ALL PRINTING SERVICES
@@ -63,6 +71,13 @@ You can manage your accounts with FedEx through the following.
 HOW? Created with Sketch.
 
 In the course of its business activities and providing the services, FedEx will need to process personal data. Personal Data is any information that can directly or indirectly be used to identify a natural person. You provide most of your Personal Data directly to FedEx, for instance: 
+
+*   **Contact information** _._ Such as your name, address, e-mail address and phone number.
+*   **Financial information** _._ Such as your bank account number, payment status and invoices.
+*   **Identification information** _._ Such as your driver’s license number.
+*   **Account information** _._ Log-in details, including your email address and password, and other information provided in your account.
+*   **Information related to shipment and services** _._ Such as shipment tracking number, shipment routing information, location data, status of a shipment, delivery location, packaging type, number of pieces, weight, picture of the parcel and customs information.
+*   **User and preference information**. Such as shipping amounts, complaints, history of purchases and related commercial activities, communication, survey information  and shipping preference.
 
 SHARE Created with Sketch.
 
@@ -167,7 +182,7 @@ More Questions?
 
 We have compiled a list of the top questions we hear from our customers. If you are looking for more information, check our FAQs.
 
-Frequently asked questions Our Company About FedEx Our Portfolio Investor Relations Careers FedEx Blog Corporate Responsibility Newsroom Contact Us More From FedEx FedEx Compatible Developer Resource Center FedEx Cross Border Language United States English
+Frequently asked questions Our Company About FedEx Our Portfolio Investor Relations Careers FedEx Blog Corporate Responsibility Newsroom Contact Us More From FedEx FedEx Compatible Developer Resource Center FedEx Logistics Language United States English
 
 *   English
 *   Español
