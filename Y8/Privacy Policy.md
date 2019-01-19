@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx
+New Games Next in  01:19:50
 
-*   By Date Next addition in xx:xx
+*   By Date Next addition in 01:19:50
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in xx:xx
+*   New Games Next in 01:19:50
 *   Best of new games 692 games
-*   Most Popular Games 18568 games
+*   Most Popular Games 18574 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,663 games
+*   Games for girls 23,665 games
 *   Driving &. Racing Games 6,754 games
 *   Strategy &. RPG Games 2,405 games
 *   Management Games 3,639 games
 *   Thinking Games 11,905 games
 *   Action &. Adventure Games 15,921 games
 *   Sports Games 2,157 games
-*   Shooting Games 8,382 games
+*   Shooting Games 8,383 games
 *   Fighting Games 2,091 games
-*   Skill Games 10,743 games
+*   Skill Games 10,751 games
 *   Arcade &. Classic Games 12,723 games
 *   Fun &. Crazy Games 2,482 games
 
 Play with friends  
-Powered by Y8 Account 136 Y8 Multiplayer Games 1,837 Y8 High Score Games 1,114 Y8 Achievements Games 797 Y8 Screenshots Games 1,385 Y8 Online Save Games 2,854 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 136 Y8 Multiplayer Games 1,846 Y8 High Score Games 1,115 Y8 Achievements Games 797 Y8 Screenshots Games 1,386 Y8 Online Save Games 2,862 All Y8 Games Games Last Highscore:
 
-**5** points on Masked Forces Unlimited by mckinziemax
+**1** points on Slope Y8 by FootBall
 
 Help us improve Bad translation? Social
 
