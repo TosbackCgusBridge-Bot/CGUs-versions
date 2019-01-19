@@ -91,7 +91,7 @@ Please review the “Last Updated” legend at the top of the Cookie Policy to d
 
 Privacy Policy
 
-Last Updated: January 17, 2019
+Last Updated: January 18, 2019
 
 **1\. Introduction**
 
@@ -299,7 +299,7 @@ If you have an Indeed account or an Indeed-hosted resume, you agree that Indeed 
 
 Indeed provides two-way message proxy and relay services to the users of our Indeed products (“Relay Service”), including: Indeed Resume, Indeed Apply, Post a Job, Indeed Chat, and Indeed Onboarding and other electronic communication services whether in the form of text, video or audio. By utilizing any Relay Service, you acknowledge that you are asking Indeed to send these messages on your behalf. This includes your resumes, cover letters, applications, messages, questionnaire answers, responses, offer letters and other materials.
 
-We process, monitor, review, store and analyze such content, including via automated means, for data analysis, quality control, enforcement of the Site Rules and other Indeed policies, content moderation, and to improve the Site or any other Indeed product or service. Examples of such improvements would be optimizing our search results, improving Job Listings, ensuring you are provide with personally relevant product features and communications, and preventing fraud and spam. As a result of this activity, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient. Indeed may (but is not obligated to) notify you in such an event. By using a Relay Service or otherwise providing User Content through the Site, you consent to this activity and acknowledge that this activity is necessary for maintaining the quality of the Site and for providing the Relay Service.
+We process, monitor, review, store and analyze such content, including via automated means, for data analysis, quality control, enforcement of the Site Rules and other Indeed policies, content moderation, and to improve the Site or any other Indeed product or service. Examples of such improvements would be optimizing our search results, improving Job Listings, ensuring you are provided with personally relevant product features and communications, and preventing fraud and spam. As a result of this activity, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient. Indeed may (but is not obligated to) notify you in such an event. By using a Relay Service or otherwise providing User Content through the Site, you consent to this activity and acknowledge that this activity is necessary for maintaining the quality of the Site and for providing the Relay Service.
 
 **4.7 Sending You Text Messages About Employer Appointments**
 
@@ -331,7 +331,7 @@ For example, such processing allows Indeed to match Job Seekers with Employers e
 
 **4.11 Transfer of Information to Indeed Affiliated Entities**
 
-Any information shared by you with Indeed may be shared with or transferred to any Indeed affiliated entity (including Indeed Hire, Inc.), no matter where located, for the purpose of providing you services and improving the Site. This includes Indeed affiliated entities located outside the European Union (“EU”) or Switzerland.
+Any information shared by you with Indeed may be shared with or transferred to any Indeed affiliated entity (including Indeed Hire, Inc.), no matter where located, for the purpose of providing you services and improving the Site, and other purposes as described in this Policy. This includes Indeed affiliated entities located outside the European Union (“EU”) or Switzerland.
 
 Such transfers are performed in full compliance with applicable data protection rules and subject to appropriate safeguards, primarily through the use of extensive data protection agreements, in order to ensure adequate protection of users’ Personal Data. The services provided to you and the functionality of the Site could not be provided without such a transfer. If you do not wish your information to be transferred in this way you should not use this Site.
 
@@ -508,7 +508,7 @@ This Agreement hereby incorporates by this reference any additional terms and co
 
 Indeed General Terms of Service
 
-Last Updated: December 18, 2018.
+Last Updated: January 18, 2018.
 
 **A.** The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.
 
@@ -558,7 +558,7 @@ By using Indeed Apply and answering screener questions, you acknowledge that Emp
 
 The Site contains links to other sites on the Internet which are owned and/or operated by third-party vendors and other third parties (the “External Sites”). You acknowledge that Indeed is not responsible or liable for any such third parties or for the availability of, or the materials located on or through, any External Sites. You should contact the site administrator or webmaster for the applicable External Site if you have any concerns regarding such links or the materials located on an External Site.
 
-In addition, Indeed may provide you with links to certain third party sites that offer you services for your use or benefit. We may stop offering any such third party sites or services at any time. If you choose to use such third party sites or services, you enter into an agreement with such third party alone at your own risk. When entering into an agreement with such parties, you are giving them your data directly and your rights and their obligations are determined by their privacy policies and terms of service. We are not responsible for any content or services provided by these third parties, and disclaim all liability from anything that may occur when you utilize such third parties. We are additionally not responsible for any payment that may be asked of you by such third party. You will be notified on the site that these are third party sites and services, and not Indeed.
+In addition, Indeed may provide you with links to certain third party sites that offer you services for your use or benefit. We may stop offering any such third party sites or services at any time. **If you choose to use such third party sites or services, you enter into an agreement with such third party alone at your own risk.** When entering into an agreement with such parties, you are giving them your data directly and your rights and their obligations are determined by their privacy policies and terms of service. **We are not responsible for any content or services provided by these third parties, and disclaim all liability from anything that may occur when you utilize such third parties. We are additionally not responsible for any payment that may be asked of you by such third party. You will be notified on the site that these are third party sites and services, and not Indeed.**
 
 Specifically, Indeed may provide you with access to a link on Indeed to GoodHire’s background check services. If you choose to use this link and these services, you are contracting directly with GoodHire and Indeed is not a party to this contract. If you choose to order a GoodHire background report, either on yourself if you are a Jobseeker or on a candidate if you are an Employer, please note (and you acknowledge) that Indeed cannot and does not assemble, access, view, analyze, manipulate, alter, evaluate or store the background check reports provided by GoodHire to you or to any GoodHire client. Indeed operates solely as a technical conduit, allowing the transmission of background checks sent by GoodHire to you. Further, you agree to fully indemnify and defend Indeed for any claims arising out of your use of GoodHire’s services or a background check provided to you by GoodHire.
 
@@ -1165,4 +1165,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1d1fr962d1a09000&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1d1idqcpaa3t3800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
