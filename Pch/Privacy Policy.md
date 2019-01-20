@@ -14,23 +14,25 @@ At Publishers Clearing House ("PCH") we take your privacy seriously, which is wh
 
 4\. Does PCH disclose user information to third parties?
 
-5\. Can I opt-out of PCH's data collection and/or distribution?
+5\. Targeted or Behavioral Advertising
 
-6\. What about external web sites?
+6\. Can I opt-out of PCH's data collection and/or distribution?
 
-7\. Does PCH allow users access to their information for review and updating?
+7\. What about external web sites?
 
-8\. What does PCH do to keep their digital properties secure?
+8\. Does PCH allow users access to their information for review and updating?
 
-9\. Does PCH collect information from users outside of the United States?
+9\. What does PCH do to keep their digital properties secure?
 
-10\. Does PCH collect personal information from children?
+10\. Does PCH collect information from users outside of the United States?
 
-11\. Your California Privacy Rights
+11\. Does PCH collect personal information from children?
 
-12\. What about PCH's off-line information and privacy practices?
+12\. Your California Privacy Rights
 
-13\. Further Questions?
+13\. What about PCH's off-line information and privacy practices?
+
+14\. Further Questions?
 
 **1\. Why does PCH collect personal information?**
 
@@ -107,7 +109,9 @@ You should also know that when you order a magazine subscription from PCH, we ne
 
 We use other third parties vendors such as credit card processors and e-mail service providers to provide order fulfillment and e-mail delivery services on our site. When you register on our site, we will share your personal information as necessary for these third parties to provide these services. These third parties are prohibited from using your personal information for any other purpose including their own marketing purposes and we maintain strict security measures and monitoring with such vendors to insure consumer information is safe. When you register with pch.com we may share your name and information with third parties who may contact you by mail with relevant offers. If you wish to opt out of such exchanges you may click here . We may share your personally identifiable information with our affiliates, our technical consultants, auditors and other third parties who work with us to make our sites and services available, enhance their functionality, or provide associated services such as delivering you content, samples, products, and gifts and prizes. We may also use your personally identifiable information to exchange, link or combine it with third party data groups to help understand your needs and provide you with better and more relevant service.
 
-**5\. Targeted or Behavioral Advertising:** Targeted advertising (also known as Behavioral Advertising) uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to select which PCH advertisement should be displayed to a particular individual on websites other than PCH. For example, if you have shown a preference for cooking while visiting PCH, you may be served an advertisement from PCH for cooking related products when you visit a site other than PCH. The information collected is only linked to an anonymous cookie ID (alphanumeric number). it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from PCH or through third party website publishers. We may use your personal data to serve you relevant ads based upon your interests through our own and select third party ad partners. In such cases, PCH will provide your personal data such as encrypted email address and mobile advertising identifier to such third party service providers so that we may serve you with ads that may be of interest to you. If you would like to opt out of targeted advertising from PCH that occurs when visiting our third party advertising publishers, please click here : If you are accessing our promotions and content through our mobile apps, you may opt out of such targeted advertising by opening the menu options on our APP, clicking on “Ad Preferences” and completing your opt out preferences as indicated. Please note that this will opt you out of targeted ads from PCH and any other participating advertisers. If you opt out, you will continue to receive online advertising from Publishers Clearing House. however, these ads may not be as relevant to you.
+**5\. Targeted or Behavioral Advertising:**
+
+Targeted advertising (also known as Behavioral Advertising) uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to select which PCH advertisement should be displayed to a particular individual on websites other than PCH. For example, if you have shown a preference for cooking while visiting PCH, you may be served an advertisement from PCH for cooking related products when you visit a site other than PCH. The information collected is only linked to an anonymous cookie ID (alphanumeric number). it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from PCH or through third party website publishers. We may use your personal data to serve you relevant ads based upon your interests through our own and select third party ad partners. In such cases, PCH will provide your personal data such as encrypted email address and mobile advertising identifier to such third party service providers so that we may serve you with ads that may be of interest to you. If you would like to opt out of targeted advertising from PCH that occurs when visiting our third party advertising publishers, please click here : If you are accessing our promotions and content through our mobile apps, you may opt out of such targeted advertising by opening the menu options on our APP, clicking on “Ad Preferences” and completing your opt out preferences as indicated. Please note that this will opt you out of targeted ads from PCH and any other participating advertisers. If you opt out, you will continue to receive online advertising from Publishers Clearing House. however, these ads may not be as relevant to you.
 
 **6\. Can I opt-out of PCH's data collection and/or distribution?**
 
