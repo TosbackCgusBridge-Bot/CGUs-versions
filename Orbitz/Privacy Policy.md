@@ -121,4 +121,4 @@ Partner Services
 
 *   Add a property
 
-© 2018 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
+© 2019 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
