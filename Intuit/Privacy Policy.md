@@ -1,4 +1,4 @@
-Accessible View
+Power on &. turn up the savings!- shop the store adSee DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -79,19 +79,19 @@ UP TO 70% OFF ROYAL VELVET CURTAINSShop AllSELECT STYLESUP TO 70% OFF ROYAL VELV
     was $30 - $80 Royal Velvet Hilton Rod-Pocket Curtain Panel(335)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    from$510 sale
-    
-    was $17 - $35 Royal Velvet® Crushed Voile Rod-Pocket Sheer Curtain Panel(941)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
     $18 sale
     
     was $60 Royal Velvet Supreme Rod-Pocket Scallop Valance(139)Add To Cart
 *   LIMITED TIME SPECIAL!
     
-    from$12 sale
+    from$510 sale
     
-    was $40 - $90 Royal Velvet Hilton Rod-Pocket Curtain Panel(35)Add To Cart
+    was $17 - $35 Royal Velvet® Crushed Voile Rod-Pocket Sheer Curtain Panel(941)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    from$15 sale
+    
+    was $50 - $100 Royal Velvet Plaza Embroidery Grommet-Top Sheer Curtain Panel(82)Add To Cart
 
 UP TO 70% OFF BEDDINGShop AllSELECT STYLESUP TO 70% OFF BEDDINGSELECT STYLESShop All
 
@@ -133,26 +133,18 @@ UP TO 70% OFF BEDDINGShop AllSELECT STYLESUP TO 70% OFF BEDDINGSELECT STYLESShop
 
 Hot Sellers
 
-*   LIMITED TIME SPECIAL!
+*   from$1799 sale
     
-    from$1899 sale
+    was $60 | 33 - 70% offLiz Claiborne Womens Selma Ballet Flats(34)
+*   $1599after couponwas $42 Arizona Basic Original Straight Jeans(1797)
+*   from$3570 sale
     
-    was $64 - $139 | 70% offNorth Pole Trading Co. Flannel Sheet Set(58)
-*   $10199after couponwas $300 Rachael Ray 18-pc. Aluminum Non-Stick Cookware Set(1)
-*   from$1259after couponwas $29 - $59 Home Expressions Classic Plus Mattress Pad(25)
-*   $1699 clearance
+    was $59.50 | 15 - 40% offLevi's® 505™ Regular Fit Jeans(2290)
+*   $2999 sale
     
-    was $48.99 | 65% offAmerileather Casual Leather Handbag
-*   BUY 1 GET 1 50% OFF
-    
-    $30
-    
-    Stafford® 4-pk. Heavyweight Crewneck T-Shirts(678)
-*   LIMITED TIME SPECIAL!
-    
-    $2999 sale
-    
-    was $90 | 66% offWorthington Womens Lara Slouch Cone Heel Zip Boots(26)
+    was $39 | 23% offYuu Womens Calissa Zip Bootie(26)
+*   $3599after couponwas $90 Men's JF J. Ferrar® Stretch Gabardine Flat-Front Straight-Leg Slim Fit Suit Pants(244)
+*   from$1680after couponwas $40 - $80 JCPenney Home Sullivan Blackout Grommet-Top Curtain Panel(28)
 
 Shop and Save at JCPenney
 
