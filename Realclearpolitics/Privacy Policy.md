@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Deroy Murdock_: Trump Should Deliver State of the Union--as Planned
+*   _Annie Karni_: Trump Offers 'Dreamer' Relief in Exchange for Wall Funding
     
-*   _Joan Walsh_: Pelosi Is Done Enabling Trump and the Republicans
+*   _Johnson &. Everett_: Trump's Bid to Negotiate Met by Democratic Rejection
     
-*   _Newt Gingrich_: Why No FBI Investigation Into Feinstein's China Collusion?
+*   _Daniel McCarthy_: This Time Trump's Really, Really Going Down, Isn't He?
     
-*   _Elie Honig_: Rudy Giuliani's Remarkable Retreat on Collusion
+*   _Natasha Bertrand_: Why Dems Have Suddenly Started Talking Impeachment
     
-*   _Leopold &. Cormier_: Trump Directed Cohen to Lie About Moscow Project
+*   _Ashley McGuire_: Dems' Support for Abortion Is Out of Step With Americans
     
-*   _Kalev Leetaru_: The Problem With Fact Checking Whether ISIS Is 'Defeated'
+*   _Emily Atkin_: A Coal Baron's Takeover of the EPA Is Nearly Complete
     
-*   _Georgi Boorman_: Video: 8 Weeks After Conception, Baby Kicks Arms, Legs
+*   _Thomas Sowell_: Climate Change, Tax Cuts and the Media's Fact-Free Politics
     
-*   _Dawn Huckelbridge_: The Anti-Choice Movement Is About Controlling Women
+*   _Adam Smith_: FL's DeSantis Channels Hamilton With Bold, Energetic Start
     
-*   _Roth &. Whitworth_: What School Choice Advocates Want Wis. Governor to See
+*    _Coy &. Dmitrieva_: Ocasio-Cortez Is a Nightmare for the Right
     
-*   _Paul Krugman_: The Real Governments of Blue America
+*   _Amelia Irvine_: Ocasio-Cortez Sets Women Back Light-Years in Politics
     
-*   _Mike Dawson_: Ohio's Now a Red State. Can Dems Ever Take It Back?
+*   _Alan Dershowitz_: A Vivid Example of 'Get Trump' Media Mindset
     
-*   _Susan Glasser_: The State of the Union Is Not Strong
+*   _Frank Bruni_: Did Trump Actually Want to Be President?
     
-*   _Kimberley Strassel_: What Bruce Ohr Told the FBI
+*   _Roger Simon_: BuzzFeed, Acosta and the Non-Existence of Journalism
     
-*   _Rep. Veronica Escobar_: Trump Worsens Border Crisis w/Incompetence &. Cruelty
+*   _Julian Zelizer_: Impeachment Inquiry Is the Right Idea Right Now
     
-*   _George Neumayr_: The Immorality of the Open Borders Party
+*   _John Crudele_: Caravans Changed My Mind--We Need to Build Border Wall
     
-*   _Nia-Malika Henderson_: Beto's Excellent Adventure Drips w/White Male Privilege
+*   _Nate Silver_: Why Shutdown May Hurt Trump's Re-Election Chances
     
-*   _Matthew Continetti_: Lackluster 2020 Dems: From 7 Dwarfs to 20 Smurfs
+*   _Jonathan Tobin_: Dems' Fanciful Quest to Revive the Obama Coalition
     
-*   _Rep. Debbie Wasserman Schultz_: Why I Refuse to Walk With the Women's March
+*   _John Brabender_: A Coming Young-Voter Storm for Republicans
     
-*   _Rebecca Traister_: Don't Give Up on the Women's March
+*   _Christina Cauterucci_: Women's March Leaders Are Not the Women's Movement
     
-*   _Carl Anderson_: Poll Shows Most Americans Favor Limits on Abortion
+*   _Jeanne Mancini_: Science Has Changed, Now Abortion Laws Must Change
     
-*   _James Pardew_: Congress Must Act Now to Save NATO From Trump
+*   _Daniel Hemel_: What Happens If Ginsburg Is Too Sick to Work? Nothing!
     
-*   _Patrick Buchanan_: At Age 70, Time to Rethink NATO
+*   _Michael Delaney_: Trump Bucked Orthodoxy on China, and It Just Might Work
     
-*   _Ella Whelan_: Brexit Exposes Elitist Rot at Heart of Westminster
+*   _Frida Ghitis_: Putin Is Smiling as He Watches Trump Carry Out His Agenda
     
-*   _Lee Smith_: Washington's Foreign-Influence Racket: A Clear &. Present Muddle
+*   _Tucker Carlson_: Dems Becoming the Party of Discredited Neocon Hacks?
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   As Fight Heats Up, Trump Grounds Pelosi's Overseas Trip
-*   Trump Says U.S. Will Develop Space-Based Missile Defense
-*   Schumer: Dems Must Stay Strong, Trump Thought We Would Crack
-*   Who Will Blink First in Fight Over Border Wall Funding?
-*   Poll Shows Most Americans Favor Limits on Abortion
+*   Trump Offers "Dreamers" Relief for Wall Funds in Bid to Break Impasse
+*   Could Dems' 2020 Nominee Be Someone You've Never Heard Of?
+*   Trump Addresses "March for Life": "Every Life Is Worth Protecting"
+*   Trump and Kim Jong-un to Hold Second Summit Meeting Next Month
+*   The Problem With Fact Checking Whether ISIS Is "Defeated"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -258,7 +258,7 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
-*   Buzzfeed's Anthony Cormier On Explosive Trump Story: This 100% Happened
+*   BuzzFeed's Anthony Cormier On Explosive Trump Story: This 100% Happened
 *   Schiff: We're In "Otherworldly Situation" Where White House Uses "Same Talking Points" As The Kremlin
 *   Giuliani vs. Cuomo: I Never Said There Was No Collusion Between People In Trump Campaign And Russia
 *   Gregory Meeks on Steve King: Trump Inspires Racists To "Come Out Of The Closet," Uncover Their Faces
