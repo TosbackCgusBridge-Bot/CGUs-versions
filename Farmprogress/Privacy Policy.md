@@ -100,9 +100,7 @@ We use cookies to improve your website experience. To learn about our use of coo
     *   Beef Producer
     *   Farm Industry News
 
-**Site update:** Looking for a different site? Select the down arrow next to the logo to change your preferred brand  
-  
- ... read more X Whoops!
+Whoops!
 
 We couldn't find the page you were looking for.
 
