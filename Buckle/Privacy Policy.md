@@ -23,7 +23,7 @@ IN-SEASON STYLES ON SALE UP TO 75% OFF - SHOP NOW.
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
