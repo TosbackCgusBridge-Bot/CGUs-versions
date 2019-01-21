@@ -1,11 +1,3 @@
-Scheduled Maintenance - 1/19/2019, 9:00:00 PM CST - 1/20/2019, 12:01:00 AM CST.
-
-To improve your online experience with FedEx, we will be performing system maintenance on 1/19/2019, 9:00:00 PM CST - 1/20/2019, 12:01:00 AM CST. You may experience slow response times or failures during this time period.  
-
-We regret any inconvenience due to this service disruption and, as always, we appreciate your patience.
-
-ShowHide
-
 *   Shipping Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
 *   Tracking Tracking ID Tracking ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
 *   Printing Services Start Online Printing Order Posters, Signs &. Banners Presentations &. Manuals Marketing Materials Ideas &. Custom Solutions Get Coupons &. Deals ALL PRINTING SERVICES
@@ -209,7 +201,7 @@ Get more information by going to fedex.com/us/securityupgrade/.
 *   Firefox 38+
 
   
-Close Do not show this message again.
+Close Do not show this message again. <img src="https://www.fedex.com/akam/10/pixel\_17a9366a?a=dD02OGRjMTM5MWVjODMxYzRiMjI2OWNjYWQ4YTU0MmNhOGQxZDY3MDQwJmpzPW9mZg==" style="visibility: hidden. position: absolute. left: -999px. top: -999px;" />.
 
 Ask FedEx Virtual Assistant
 
