@@ -1,20 +1,20 @@
 Playoffs - CONFERENCE
 
-*   LA13-3NO13-3Sun, 3:05 pm ET
-*   NE11-5KC12-4Sun, 6:40 pm ET
+*   NE11-537KC12-431Final (OT)
+*   LA13-326NO13-323Final (OT)
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Highlights
-*   Playoff Picture
+*   Super Bowl
 *   Fantasy
 *   Tickets
 *   Shop
 *   Teams
 *   Game Pass
-*   Super Bowl
+*   Playoff Picture
 *   Pro Bowl
 *   NFL Honors
 *   Stats
@@ -25,21 +25,21 @@ Playoffs - CONFERENCE
 
 Playoffs - CON
 
-*   LA13-3NO13-3Sun, 3:05 pm ET
-*   NE11-5KC12-4Sun, 6:40 pm ET
+*   NE37KC31Final (OT)
+*   LA26NO23Final (OT)
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Highlights
-*   Playoff Picture
+*   Super Bowl
 
 *   Scores
 *   Highlights
 
 *   *   Game Pass
-    *   Super Bowl
+    *   Playoff Picture
     *   Pro Bowl
     *   NFL Honors
     *   Stats
