@@ -68,8 +68,8 @@ View more results
     *   Bubble Machine: 2 Player Game
     *   Klondike - the lost expedition
     *   Total Front: Army War Game
-    *   Crystical: 2 Player Puzzle Game
     *   Fireboy &. Watergirl 2: The Light Temple
+    *   Crystical: 2 Player Puzzle Game
 *   Top Categories
     
     *   Boy Games
@@ -133,7 +133,7 @@ View more results
     *   Tom and Jerry: Mouse Maze
     *   FNAF - Sister Location Custom
     *   TJOC: The Joy Of Creation
-    *   Papa's Sushiria
+    *   World Craft 2
 *   Top Categories
     
     *   Bubble Shooter
@@ -164,8 +164,8 @@ View more results
     *   The Impossible Quiz 2
     *   Bubble Machine: 2 Player Game
     *   TenTrix
+    *   Fireboy &. Watergirl 2: The Light Temple
     *   Snail Bob
-    *   Crystical: 2 Player Puzzle Game
 *   Top Categories
     
     *   Dress Up
@@ -191,13 +191,13 @@ View more results
     *   Electricman 2: Stickman Fighting Game
     *   Burger Restaurant Express
     *   Penguin Diner: Food Restaurant Game
-    *   Love Tester 2.0
-    *   Papa's Freezeria
     *   Bartender
+    *   Papa's Freezeria
+    *   Love Tester 2.0
     *   Create a House: Building Game
     *   Papa's Cupcakeria
-    *   Fidget Spinner
     *   Back To School: Princesses Rush
+    *   Fidget Spinner
 *   Top Categories
     
     *   BMX Games
