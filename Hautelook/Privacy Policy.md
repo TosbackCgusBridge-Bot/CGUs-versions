@@ -8,15 +8,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Insight Up to 80% Off
+    *   Free Shipping: Kitchen Blowout
+    *   Pants Up to 75% Off
+    *   LaFonn Jewelry Up to 80% Off
+    *   Step Forward: Transitional Shoes Up to 65% Off
+    *   Men's Designer Blowout
+    *   Roberto Cavalli &. Ferre Milano Watches from $50
+    *   Men's Shoes Up to 70% Off
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   Theory Men's Tailored Clothing Up to 65% Off
+    *   Skin Care We Love ft. Murad &. Kate Somerville
+    *   Office Essentials: Styles ft. Adrianna Papell
+    *   Whatever the Weather: Rain Coats &. More
+    *   Schutz Up to 70% Off
+    *   Dolce Cabo
+    *   Dex Starting at $15
+    *   LOVE Moschino Handbags
+    *   Casual Classics ft. Roxy
+    *   Saachi Gemstone &. Leather Jewelry from $15
+    *   Ultra-Soft Towels Starting at $10
+    *   Everly Grey Maternity
+    *   Super Bowl Ready: NFL Team Gear
+    *   Free Shipping: Gold Jewelry Starting at $20
+    *   Luseta Beauty Hair Care
+    *   Funkyberry
+    *   $60 &. Under: Crevo
+    *   Oh, Baby: Footies, Blankets &. More
     *   Level 99
+    
     *   Go Couture Sweater Blowout
     *   Wacoal &. b.tempt'd by Wacoal
-    *   Jeffrey Campbell Up to 55% Off
-    *   Z By Zella Incl. Plus
-    *   Vince Camuto Incl. Plus &. Petites Up to 65% Off
     *   Barse Sterling Silver &. Gemstone Jewelry from $15
     *   Catherine Catherine Malandrino Up to 80% Off
-    *   English Laundry Men Up to 65% Off
     *   Men's Wool Coats Up to 65% Off
     *   ghd: good hair day, every day
     *   Free Shipping: iCanvas Art
@@ -32,7 +56,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tommy Bahama Men's Clothing &. More
     *   Tommy Bahama
     *   Tommy Bahama Swim Up to 60% Off
-    
+    *   Final Few: Bedding &. More Up to 75% Off
     *   Tommy Bahama Handbags Starting at $20
     *   Free City Up to 70% Off
     *   Maxi Dresses &. More ft. West Kei Inclu. Plus &. Petites
@@ -41,59 +65,63 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Boys' Boat Shoes &. More ft. Polo Ralph Lauren
     *   L'Amour Des Pieds
     *   Wow-Worthy Brows from Chella
+    
     *   Bespoke
-    *   Sleep In: Pajama &. Lounge Blowout
-    *   Designer Sun ft. Fendi, Gucci &. More Up to 75% Off
-    *   TARA Diamonds &. Gemstone Jewelry
-    *   Men's Designer Accessories Up to 70% Off
-    *   Men's Designer Clothing Up to 70% Off
-    *   Bruno Magli Men
+    *   Jeffrey Campbell Up to 55% Off
+    *   Z By Zella Incl. Plus
+    *   Vince Camuto Incl. Plus &. Petites Up to 65% Off
     *   Free Shipping: Fine Art
     *   Appaman
-    *   Made in Italy: 14K Gold &. Sterling from $15
     *   Moonlit Skincare
     *   PX
     *   Layer Up: Kids' Hoodies ft. Champion
-    *   Men's Boot Steals Up to 70% Off
-    *   Kids' Favorite Books ft. Dr. Seuss &. More
     *   NuFACE Facial Toning Devices
-    
     *   Prep for Success: Kitchen Storage &. Gadgets
     *   Addicted Beauty
-    *   Beat the Chill: Men's Cold-Weather Accessories
     *   Down &. Memory Foam Essentials
-    *   Soul Star
-    *   Sandro Moscoloni
     *   Free Shipping: Bedding for Every Style
     *   Free Shipping: Colorful Decor
     *   Free Shipping: Wall Murals &. More
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
-    *   Champagne Dreams: Cuvee Beauty
-    *   Blondo Waterproof Booties &. More
-    *   Final Few: Bedding &. More Up to 75% Off
-    *   Sophie Catalou
-    *   Splendid Up to 65% Off
     *   Cuisinart
-    *   Dyson Up to 50% Off
+    *   Step into Comfort: SUSINA, Naturalizer &. More
+    *   English Laundry Men Up to 65% Off
+    *   Sleep In: Pajama &. Lounge Blowout
+    *   Blondo Waterproof Booties &. More
     *   Dresses ft. Sharagano Up to 70% Off
-    *   Denim Steals: Jeans &. Shorts Under $30
-    *   Camper
     *   Tiare Hawaii
+    *   Men's Designer Clothing Up to 70% Off
+    *   Bruno Magli Men
     *   Beyond the Workout: Active Starting at $10
-    *   OFRA Cosmetics Starting at $10
 *   WomenShop Sale Events
     
+    *   Insight Up to 80% Off
+    *   Pants Up to 75% Off
+    *   LaFonn Jewelry Up to 80% Off
+    *   Step Forward: Transitional Shoes Up to 65% Off
+    *   Roberto Cavalli &. Ferre Milano Watches from $50
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   Skin Care We Love ft. Murad &. Kate Somerville
+    *   Office Essentials: Styles ft. Adrianna Papell
+    *   Whatever the Weather: Rain Coats &. More
+    *   Schutz Up to 70% Off
+    *   Dolce Cabo
+    *   Dex Starting at $15
+    *   LOVE Moschino Handbags
+    *   Casual Classics ft. Roxy
+    *   Saachi Gemstone &. Leather Jewelry from $15
+    *   Everly Grey Maternity
+    *   Free Shipping: Gold Jewelry Starting at $20
+    *   Luseta Beauty Hair Care
     *   Level 99
     *   Go Couture Sweater Blowout
     *   Wacoal &. b.tempt'd by Wacoal
-    *   Jeffrey Campbell Up to 55% Off
-    *   Z By Zella Incl. Plus
-    *   Vince Camuto Incl. Plus &. Petites Up to 65% Off
     *   Barse Sterling Silver &. Gemstone Jewelry from $15
     *   Catherine Catherine Malandrino Up to 80% Off
     *   ghd: good hair day, every day
     *   New York Collective
     *   Persaman New York
+    
     *   14K Gold Under $80
     *   First-Class Treatments: Skin Care from $15
     *   Layer on the Luxe: Cashmere Sweaters &. More
@@ -103,55 +131,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tommy Bahama Handbags Starting at $20
     *   Free City Up to 70% Off
     *   Maxi Dresses &. More ft. West Kei Inclu. Plus &. Petites
-    
     *   Sky
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   L'Amour Des Pieds
     *   Wow-Worthy Brows from Chella
-    *   Sleep In: Pajama &. Lounge Blowout
-    *   Designer Sun ft. Fendi, Gucci &. More Up to 75% Off
-    *   TARA Diamonds &. Gemstone Jewelry
-    *   Made in Italy: 14K Gold &. Sterling from $15
+    *   Jeffrey Campbell Up to 55% Off
+    *   Z By Zella Incl. Plus
+    *   Vince Camuto Incl. Plus &. Petites Up to 65% Off
     *   Moonlit Skincare
     *   NuFACE Facial Toning Devices
     *   Addicted Beauty
-    *   Champagne Dreams: Cuvee Beauty
+    *   Step into Comfort: SUSINA, Naturalizer &. More
+    *   Sleep In: Pajama &. Lounge Blowout
     *   Blondo Waterproof Booties &. More
-    *   Splendid Up to 65% Off
     *   Dresses ft. Sharagano Up to 70% Off
-    *   Denim Steals: Jeans &. Shorts Under $30
-    *   Camper
     *   Tiare Hawaii
     *   Beyond the Workout: Active Starting at $10
-    *   OFRA Cosmetics Starting at $10
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Lingerie
     *   Jewelry
-    *   Accessories
     *   Handbags
     *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
-    *   English Laundry Men Up to 65% Off
+    *   Men's Designer Blowout
+    *   Roberto Cavalli &. Ferre Milano Watches from $50
+    *   Men's Shoes Up to 70% Off
+    *   Theory Men's Tailored Clothing Up to 65% Off
+    *   Super Bowl Ready: NFL Team Gear
+    *   $60 &. Under: Crevo
     *   Men's Wool Coats Up to 65% Off
     *   Modern Fiction Up to 60% Off
+    
     *   Arka
     *   No Chill: Men's Sweaters, Hoodies &. More
     *   Tommy Bahama Men's Clothing &. More
     *   Bespoke
-    *   Designer Sun ft. Fendi, Gucci &. More Up to 75% Off
-    
-    *   Men's Designer Accessories Up to 70% Off
+    *   PX
+    *   English Laundry Men Up to 65% Off
     *   Men's Designer Clothing Up to 70% Off
     *   Bruno Magli Men
-    *   PX
-    *   Men's Boot Steals Up to 70% Off
-    *   Beat the Chill: Men's Cold-Weather Accessories
-    *   Soul Star
-    *   Sandro Moscoloni
     
     Shop By Category
     *   Clothing
@@ -160,35 +183,37 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Everly Grey Maternity
+    *   Funkyberry
+    *   Oh, Baby: Footies, Blankets &. More
     *   Boys' Boat Shoes &. More ft. Polo Ralph Lauren
     *   Appaman
     *   Layer Up: Kids' Hoodies ft. Champion
-    *   Kids' Favorite Books ft. Dr. Seuss &. More
-    *   Sophie Catalou
     
     Shop By Category
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
-    *   Girls' Sizes 7-16
-    *   Boys' Shoes
-    *   Boys' Sizes 8-20
-    *   Toys
     *   Baby Girl
+    *   Boys' Shoes
+    *   Girls' Sizes 7-16
+    *   Boys' Sizes 8-20
     *   Baby Boy
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Kitchen Blowout
+    *   Ultra-Soft Towels Starting at $10
     *   Free Shipping: iCanvas Art
+    *   Final Few: Bedding &. More Up to 75% Off
     *   Free Shipping: Fine Art
     *   Prep for Success: Kitchen Storage &. Gadgets
+    
     *   Down &. Memory Foam Essentials
     *   Free Shipping: Bedding for Every Style
     *   Free Shipping: Colorful Decor
-    
     *   Free Shipping: Wall Murals &. More
     *   Free Shipping: Boho-Chic Decor Up to 70% Off
-    *   Final Few: Bedding &. More Up to 75% Off
     *   Cuisinart
-    *   Dyson Up to 50% Off
     
     Shop By Category
     *   Home Decor
@@ -196,10 +221,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kitchen &. Tabletop
     *   Bath
     *   Storage &. Organization
-    *   Luggage &. Travel
     *   Rugs &. Doormats
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Skin Care We Love ft. Murad &. Kate Somerville
+    *   Luseta Beauty Hair Care
     *   ghd: good hair day, every day
     *   First-Class Treatments: Skin Care from $15
     *   ORA Derma Roller &. Microdermabrasion Tools
@@ -207,13 +234,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Moonlit Skincare
     *   NuFACE Facial Toning Devices
     *   Addicted Beauty
-    *   Champagne Dreams: Cuvee Beauty
-    *   OFRA Cosmetics Starting at $10
     
     Shop By Category
     *   Skin Care
-    *   Makeup
     *   Hair Care
+    *   Makeup
     *   Tools &. Accessories
     *   Bath &. Body
 
