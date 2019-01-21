@@ -270,4 +270,6 @@ Cookies
 
 Copyright © Time and Date AS 1995–2019. All rights reserved.
 
-Feedback | Short URL | <a id=LRFL href="/information/feedback.html">Feedback</a>. | About Us | Advertising | Disclaimer | Privacy | Sitemap
+Feedback | Short URL | <a id=LRFL href="/information/feedback.html">Feedback</a>. | About Us | Advertising | Disclaimer | Privacy | Sitemap x
+
+**LIVE TOTAL LUNAR ECLIPSE** – Watch the eclipse as it happens
