@@ -211,7 +211,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-ONLINE ONLY! **Extra 30% Off Clearance** Use Code **EXTRA30** **FREE SHIPPING ON ORDERS OVER $50**
+Online Only! **Extra 40% Off Clearance** Use Code **EXTRA40** **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
