@@ -1,3 +1,5 @@
+Skip to main navigation
+
 *   Home
 *   News &. Events
     *   Press Releases
@@ -8,9 +10,8 @@
     *   SEC Filings
     *   Supplemental Data
 *   Stock Information
-    *   Stock Quote
-    *   Stock Chart
-    *   Historical Price Lookup
+    *   Stock Quote &. Chart
+    *   Historic Price Lookup
     *   Investment Calculator
     *   Dividends
     *   Analyst Coverage
@@ -27,12 +28,10 @@
     *   Investor Alerts
 *   Contact Us
 
-Latest Quarterly EarningsQ3November 7, 2018 9:00 am ET  
-Q3 2018 Office Depot Inc. Earnings Webcast (Replay)view moreLatest Quarterly EarningsQ3November 7, 2018 9:00 am ET  
-Q3 2018 Office Depot Inc. Earnings Webcast (Replay)view moreCompany Profile
+Latest Quarterly Earnings Q3 Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast Click here for webcast view more Latest Quarterly Earnings Q3 Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast Click here for webcast view more Investor Relations Company Profile
 
-Office Depot, Inc. (NASDAQ:ODP) is a leading provider of business services and supplies, products and technology solutions through its fully integrated omni-channel platform of approximately 1,400 stores, online presence, and dedicated sales professionals and technicians to small, medium and enterprise businesses. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, the company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit officedepot.com, download the Office Depot app on your iPhone or Android and follow @officedepot on Facebook, Twitter and Instagram.  
-  
+Office Depot, Inc. (NASDAQ:ODP) is a leading provider of business services and supplies, products and technology solutions through its fully integrated omni-channel platform of approximately 1,400 stores, online presence, and dedicated sales professionals and technicians to small, medium and enterprise businesses. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, the company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit officedepot.com, download the Office Depot app on your iPhone or Android and follow @officedepot on Facebook, Twitter and Instagram.
+
 Office Depot is a trademark of The Office Club, Inc. OfficeMax is a trademark of OMX, Inc. CompuCom is a trademark of CompuCom Systems, Inc. Grand&Toy is a trademark of Grand &. Toy, LLC in Canada. ©2018 Office Depot, Inc. All rights reserved. Any other product or company names mentioned herein are the trademarks of their respective owners.
 
 Stock Quote and Chart
@@ -43,33 +42,16 @@ $2.99
 
 Change
 
- - 0.03
+\-0.03
 
 Percent Change
 
- (0.99%)
+(0.00%)
 
-01/18/194:00 p.m. ET  
-Data provided by Nasdaq. Minimum 15 minutes delayed.view details  
-Recent News12/12/18Office Depot Becomes Installation Partner for Google and Nest Smart Devices  
-view more
+Copyright West LLC. Minimum 15 minutes delayed.
 
-Recent News
-
-12/12/18Office Depot Becomes Installation Partner for Google and Nest Smart Devices  
-view moreEvents11/07/18Q3 2018 Office Depot Inc. Earnings Webcast  
-view more
-
-Events
-
-11/07/18Q3 2018 Office Depot Inc. Earnings Webcast  
-view morePresentations Office Depot Third Quarter 2018 Earnings Webcast Presentation Office Depot Second Quarter 2018 Earnings Webcast Presentation  
-view more
-
-Presentations
-
-Office Depot Third Quarter 2018 Earnings Webcast Presentation  
-view more
+view details  
+Recent News Dec 12, 2018 Office Depot Becomes Installation Partner for Google and Nest Smart Devices view more Recent News Dec 12, 2018 Office Depot Becomes Installation Partner for Google and Nest Smart Devices view more Events Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast view more Events Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast view more Presentations Nov 07, 2018 Office Depot Third Quarter 2018 Earnings Webcast Presentation view more Presentations Nov 07, 2018 Office Depot Third Quarter 2018 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
@@ -89,11 +71,7 @@ view more
 *   Linkedin
 *   Pinterest
 
-  
-
 *   Terms of Use
 |*   Privacy Policy
 
 *   ©2019 by Office Depot, Inc. All rights reserved.
-
-Search Investor Relations×
