@@ -1,7 +1,7 @@
 Playoffs - CONFERENCE
 
-*   NE11-537KC12-431Final (OT)
 *   LA13-326NO13-323Final (OT)
+*   NE11-537KC12-431Final (OT)
 
 *   News
 *   Scores
@@ -25,8 +25,8 @@ Playoffs - CONFERENCE
 
 Playoffs - CON
 
-*   NE37KC31Final (OT)
 *   LA26NO23Final (OT)
+*   NE37KC31Final (OT)
 
 *   News
 *   Scores
