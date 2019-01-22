@@ -5,26 +5,28 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Glass (2019)
     *   The Upside
+    *   Dragon Ball Super: Broly
     *   Aquaman
-    *   A Dog's Way Home
     *   Spider-Man: Into the Spider-Verse
+    *   A Dog's Way Home
     *   Escape Room (2019)
     *   Mary Poppins Returns (2018)
     *   Bumblebee
     *   On the Basis of Sex
     *   The Mule (2018)
-    *   Vice (2018)
-    *   Bohemian Rhapsody
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Glass (2019)
-    *   An Acceptable Loss
-    *   Adult Life Skills
-    *   Dragon Ball Super: Broly
-    *   The Heiresses
+    *   The Kid Who Would Be King
+    *   Serenity (2019)
+    *   Bricked
+    *   In Like Flynn
+    *   The Invisibles (2019)
+    *   Jihadists
+    *   Never Look Away
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -33,14 +35,15 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Serenity (2019)
-    *   The Kid Who Would Be King
     *   Miss Bala (2019)
     *   Cold Pursuit
     *   The Lego Movie 2: The Second Part
     *   The Prodigy (2019)
     *   What Men Want
+    *   Happy Death Day 2U
     *   Isn't It Romantic
+    *   Alita: Battle Angel
+    *   How to Train Your Dragon: The Hidden World
     *   See All Coming Soon
     
     Explore More
