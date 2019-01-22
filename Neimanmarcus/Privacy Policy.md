@@ -96,7 +96,7 @@ Privacy Policy &. Terms of Use
     
     If you choose to write to us, please include your name and address, and state one of the following:
     
-    "NO MAIL OFFERS" (if you don't want to receive offers by mail);  
+    "NO MAIL OFFERS" (if you don't want to receive offers by mail).  
     "NO PHONE OFFERS" (if you don't want to receive offers by phone). or  
     "NO PHONE OR MAIL OFFERS" (if you don't want to receive either).
     
@@ -133,7 +133,7 @@ Privacy Policy &. Terms of Use
     
     Google Analytics: To learn more about Google Analytics' privacy practices and any opt-out choices it offers, click here. (https://support.google.com/analytics/answer/6004245)
     
-    Adobe Analytics: To learn more about Adobe Analytics? privacy practices or to opt-out of cookies set to facilitate reporting by Adobe Analytics, click here. (https://www.adobe.com/privacy/opt-out.html)
+    Adobe Analytics: To learn more about Adobe Analytics??? privacy practices or to opt-out of cookies set to facilitate reporting by Adobe Analytics, click here. (https://www.adobe.com/privacy/opt-out.html)
     
     Please note that your opt-out status may be maintained by placement of an "opt-out" cookie on your device. If the cookie is removed or deleted, or you upgrade to a new version of your browser, change browsers or visit us from a different device, you will need to repeat this process to indicate your preference.
     
@@ -248,8 +248,6 @@ Privacy Policy &. Terms of Use
     
     The trademarks or trade dress of Neiman Marcus and our affiliates may not be used without our written permission. Trademarks or trade dress include the Neiman Marcus name and logo, and other graphics, logos, page headers, button icons, scripts, and service names of Neiman Marcus products, services, and programs, and those of our affiliates.
     
-    VELCRO® is a registered trademark of Velcro Industries, B.V.
-    
     All other trademarks that appear on this site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by us or our affiliates.
     
     Patents
@@ -284,6 +282,8 @@ Privacy Policy &. Terms of Use
     
     As part of our ongoing commitment to ensure that your shopping experience with NeimanMarcus.com is protected, NeimanMarcus.com will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law.
     
+    Last Updated January 18, 2019
+    
 *   Security Against Fraud
     
     It should come as no surprise that one of our highest priorities at The Neiman Marcus Group is keeping your personal information secure and confidential. To that end, we would like to share some of the most common types of internet scams and suggestions on how you can be aware of and help protect yourself against identity theft.
@@ -302,7 +302,7 @@ Privacy Policy &. Terms of Use
     
     *   Name and address
     *   Social Security numbers
-    *   Credit card numbers/bank account numbers
+    f*   Credit card numbers/bank account numbers
     *   PIN numbers/passwords
     
       
@@ -315,12 +315,16 @@ Privacy Policy &. Terms of Use
     A similar but low-tech scam circulates occasionally, in the form of a check, purportedly from The Neiman Marcus Group or one of our divisions, and instructions to deposit it right away, usually in order to receive the balance of a larger sum you have "won" or that has otherwise come to you unexpectedly. You will be instructed to immediately send a payment, in the form of a second personal check, wire transfer, or similar, to some third party to cover taxes, processing fees, administrative costs, or some similarly vague expense. The check you receive in the mail likely would look quite authentic and probably would have our Neiman Marcus Group trademark on it. Do not deposit the check or follow the instructions you receive with it. The check you deposit will bounce. the check you write or funds you wire will clear, before you know about the bounce, and certainly before you can stop payment on your own check.
     
     Important Risk-Reducing Tips
+    
     *   Never respond to emails that cannot be verified.
     *   Never provide personal information via email.
     *   Contact the business by using legitimate phone numbers to verify the request.
     *   Enter websites using your browser and not by clicking on provided links.
     *   Be cautious of any solicitation requesting that you deposit a check or pay a fee to collect a prize, get a job, or cover vaguely described "costs".
-    *   Consider filing a report with the Federal Trade Commission and/or state attorney general's consumer protection office, or the FBI. Online complaints may be filed with the FTC at www.ftccomplaintassistant.gov, and white collar crimes may be reported to the FBI at www.ic3.gov/complaint/default.aslix.
+    *   Consider filing a report with the Federal Trade Commission and/or state attorney general's consumer protection office, or the FBI. Online complaints may be filed with the FTC at www.ftccomplaintassistant.gov, and white collar crimes may be reported to the FBI at www.ic3.gov/complaint/default.aspx.
+    
+    Last Updated January 18, 2019
+    
 *   Mobile Terms of Use NEIMAN MARCUS MOBILE APPLICATION TERMS OF USE
     
     **THE FOLLOWING TERMS OF USE ("TERMS OF USE") APPLY TO YOUR USE OF THE NEIMAN MARCUS MOBILE APP, WHICH IS CURRENTLY AVAILABLE IN THE APPLE® APP STORE. TO THE EXTENT YOU USE THE MOBILE APP TO ACCESS THE NEIMAN MARCUS WEBSITE, OR YOUR USE OF THE NEIMAN MARCUS MOBILE APP OTHERWISE INCLUDES THE USE OF THE NEIMAN MARCUS WEBSITE, THE POLICIES, TERMS AND CONDITIONS GOVERNING YOUR USE OF THE WEBSITE (COLLECTIVELY, THE "WEBSITE TERMS"), WHICH TERMS ARE AVAILABLE AT WWW.NEIMANMARCUS.COM, APPLY TO SUCH USE. IN THE EVENT OF A CONFLICT BETWEEN THE WEBSITE TERMS AND THESE TERMS OF USE, THESE TERMS OF USE SHALL CONTROL. You must download the Neiman Marcus mobile application known as the "NM App" onto your compatible mobile device (currently iOs devices) in order to use it. The NM App includes different services and your use of each service is subject to the service-specific terms described below, as well as the general terms applicable to your use of the NM App. The NM App offers the following services, as well as general NM App features:**
@@ -412,11 +416,11 @@ Privacy Policy &. Terms of Use
     12\. Image Recognition Service.  
     The Image Recognition Service allows you to submit to us photos of products that you take using your Supported Device to access the NM Mobile Site or on which the NM App is stored. We take these photos, compare them against products we have for sale, and, through the NM Mobile site and/or NM App, provide you with information regarding products we sell that are similar to the products in your photos. If you use the Image Recognition Service on your Supported Device, you agree to the following terms:  
     (a) to only submit photos using the Image Recognition Service that you have taken yourself, that you own and that you have the right to submit to us.  
-    (b) to only take photos of products with the permission of the product owner;  
-    (c) that we may send your photos to one or more third party service providers who assist us in providing the Image Recognition Service;  
-    (d) that the photos and all data contained or appended to the computer file of your photo become our property once you submit them to us. (Please note that unless you include it in a photo, your photo file should not include any of your personal information);  
-    (e) to use reasonable care to prevent harm to yourself and others when taking photos and uploading them to the Image Recognition Service;  
-    (f) that the Image Recognition Service does not determine the manufacturer of or trademark(s) associated with the products imaged, but rather the Image Recognition Service searches our product database for similar items using shape, size and other physical characteristics. You agree to refrain from communicating any manufacturer's name or logo information to us except such information that happens to be captured in the photo itself;  
+    (b) to only take photos of products with the permission of the product owner.  
+    (c) that we may send your photos to one or more third party service providers who assist us in providing the Image Recognition Service.  
+    (d) that the photos and all data contained or appended to the computer file of your photo become our property once you submit them to us. (Please note that unless you include it in a photo, your photo file should not include any of your personal information).  
+    (e) to use reasonable care to prevent harm to yourself and others when taking photos and uploading them to the Image Recognition Service.  
+    (f) that the Image Recognition Service does not determine the manufacturer of or trademark(s) associated with the products imaged, but rather the Image Recognition Service searches our product database for similar items using shape, size and other physical characteristics. You agree to refrain from communicating any manufacturer's name or logo information to us except such information that happens to be captured in the photo itself.  
     (g) you may not use the Image Recognition Service to submit a photo of any person, including, but not limited to, any persons under the age of 18. and  
     (h) you understand that depending on your photo and other factors, the results you obtain from your use of the Image Recognition Service may not be satisfactory. You agree that we can use, and share with our third party service providers for their use, information we learn through your use of the Image Recognition Service. This information will not contain any personally identifiable information.  
     
