@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   What will be the biggest development trends in 2019? ›
 *   Where eagles snap – snap security overview ›
 *   MAAS 2.5 : Growing the ecosystem and support for KVM micro-clouds ›
 *   Fresh Snaps from December 2018 ›
 *   Snap up your development – Tools for making the snap trek easier ›
-*   Apellix engineers safer work environments with Ubuntu powered aerial robotics ›
