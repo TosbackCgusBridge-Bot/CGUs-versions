@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Thomas Sowell_: Climate Change, Tax Cuts and the Media's Fact-Free Politics
+*   _Cyntoia Brown_: Celebrate MLK by Listening to People Who Aren't Like Us
     
-*   _Amelia Irvine_: Ocasio-Cortez Sets Women Back Light-Years in Politics
+*   _Bari Weiss_: Ilhan Omar and the Myth of Jewish Hypnosis
     
-*   _Adam Smith_: FL's DeSantis Channels Hamilton With Bold, Energetic Start
+*   _Jill Lepore_: Does Journalism Have a Future?
     
-*   _Ashley McGuire_: Dems' Support for Abortion Is Out of Step With Americans
+*   _Buck Sexton_: Only Matter of Time Before Social Media Mob Comes for You
     
-*   _Alan Dershowitz_: A Vivid Example of 'Get Trump' Media Mindset
+*   _Melanie Mason_: Kamala Harris Makes It Official
     
-*   _Frank Bruni_: Did Trump Actually Want to Be President?
+*   _Ronna McDaniel_: Trump's Two Years of Promises Made, Promises Kept
     
-*   _Roger Simon_: BuzzFeed, Acosta and the Non-Existence of Journalism
+*   _Buettner &. Haberman_: In Business &. Governing, Trump Seeks Victory in Chaos
     
-*   _Julian Zelizer_: Impeachment Inquiry Is the Right Idea Right Now
+*   _David Axelrod_: The Revealing Words Trump Said About Pelosi's Trip
     
-*   _John Crudele_: Caravans Changed My Mind--We Need to Build Border Wall
+*   _Sidney Powell_: Red Handed: All the Collusion Was in the Deep State
     
-*   _Nate Silver_: Why Shutdown May Hurt Trump's Re-Election Chances
+*   _David Ignatius_: What Americans Are Fighting for in Manbij, Syria
     
-*   _Jonathan Tobin_: Dems' Fanciful Quest to Revive the Obama Coalition
+*   _Daniel Davis_: The 'Stay Forever' in Syria Troop Trap Has Failed
     
-*   _John Brabender_: A Coming Young-Voter Storm for Republicans
+*   _Jeff Jacoby_: As MLK Foresaw, U.S. Racism's Been Largely Overcome
     
-*   _Christina Cauterucci_: Women's March Leaders Are Not the Women's Movement
+*   _Colbert King_: MLK Would Be Outraged at How We've Backtracked
     
-*   _Jeanne Mancini_: Science Has Changed, Now Abortion Laws Must Change
+*   _Frank Miele_: Identity Politics, and the Divisible Nation for Which It Stands
     
-*   _Daniel Hemel_: What Happens If Ginsburg Is Too Sick to Work? Nothing!
+*   _Isaac Chotiner_: How Journalism Survives: Interview With Jill Abramson
     
-*   _Michael Delaney_: Trump Bucked Orthodoxy on China, and It Just Might Work
+*   _John Nolte_: Lying Media Shell-Shocked by BuzzFeed Fiasco
     
-*   _Frida Ghitis_: Putin Is Smiling as He Watches Trump Carry Out His Agenda
+*   _Dana Milbank_: The Comically Disastrous Way Trump Runs the U.S.
     
-*   _Tucker Carlson_: Dems Becoming the Party of Discredited Neocon Hacks?
+*   _John Fund_: How Long Can Democrats Refuse to Compromise?
     
-*   _Fareed Zakaria_: The Two Issues That Undermined the E.U.
+*   _Hunter Hooligan_: What It Felt Like to Stare Down the MAGA Teens
     
-*   _Conrad Black_: May May Yet Win the Day on Brexit
+*   _Robby Soave_: Media Got Catholic School Protester Story Completely Wrong
     
-*   _Isaac Chotiner_: Did Aliens Find Us? Interview With a Harvard Astronomer
+*   _Liza Donnelly_: The Women's March Was a Party With a Purpose
     
-*   _Deroy Murdock_: Trump Should Deliver State of the Union--as Planned
+*   _Sarah Williams_: Everyone Urged Abortion. I Chose Love.
     
-*   _Joan Walsh_: Pelosi Is Done Enabling Trump and the Republicans
+*   _Lionel Shriver_: The New Normal: Banishing the Work of Great Artists
     
-*   _Newt Gingrich_: Why No FBI Investigation Into Feinstein's China Collusion?
+*   _Roger Cohen_: The Strange Persistent Troubling Russian Hang-Up of Trump
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Kamala Harris Jumps Into Presidential Race
 *   Trump Offers "Dreamers" Relief for Wall Funds in Bid to Break Impasse
+*   Clyburn: Prefacing Claim With "If This Is True" Gives All the Cover You Need
 *   Could Dems' 2020 Nominee Be Someone You've Never Heard Of?
-*   Trump Addresses "March for Life": "Every Life Is Worth Protecting"
 *   Trump and Kim Jong-un to Hold Second Summit Meeting Next Month
-*   The Problem With Fact Checking Whether ISIS Is "Defeated"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,16 +245,16 @@ Latest PollsAll Polls
 
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve44
-    *   Disapprove55Disapprove +11
+    *   Disapprove56Disapprove +12
+*   Direction of CountryRasmussen Reports
+    *   Right Direction33
+    *   Wrong Track61Wrong Track +28
 *   President Trump Job ApprovalNPR/PBS/Marist
     *   Approve40
     *   Disapprove54Disapprove +14
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve45
     *   Disapprove52Disapprove +7
-*   President Trump Job ApprovalPew Research
-    *   Approve39
-    *   Disapprove58Disapprove +19
 
 More Latest Polls In The News
 
