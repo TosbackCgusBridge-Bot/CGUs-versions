@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQWWTD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
+Wir verwenden Cookies, um die Funktion unserer Website zu gewährleisten, Inhalte und Werbung zu personalisieren und unseren Datenverkehr zu analysieren. DatenschutzVerstanden <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQWWTD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
 
 Anmelden
 
@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   21\. Januar 2019
+*   22\. Januar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.205,54ǀ
+*   DAX 11.136,20ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -371,6 +371,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-BESbswyBESbswyBESbswy
