@@ -78,7 +78,9 @@ In store we provide you with the option to leave a personal comment to the store
 **Website**  
 We collect information on our website using cookies. Cookies are small data files that downloaded onto your computer when you use our web site. We use cookies and the information they provide to improve our web site and the quality of your experience with our web site. Cookies can be disabled in your web browser.  
   
-When you visit our web site, we also collect anonymous information from you. This includes the Internet browser you are using. the computer operating system you are using, time spent visiting the web site, usage patterns within the web site, and the domain name of the web site from which you linked to our site. This information is not matched to your personal information and does not personally identify you. We collect this information to help improve your experience on the web site. Additionally, IKEA may share account or other information when we believe it is necessary to comply with the law or protect our interests and property. This may include sharing information with other companies, lawyers or government agencies in connection with issues related to fraud or government subpoenas and warrants.
+When you visit our web site, we also collect anonymous information from you. This includes the Internet browser you are using. the computer operating system you are using, time spent visiting the web site, usage patterns within the web site, and the domain name of the web site from which you linked to our site. This information is not matched to your personal information and does not personally identify you. We collect this information to help improve your experience on the web site. Additionally, IKEA may share account or other information when we believe it is necessary to comply with the law or protect our interests and property. This may include sharing information with other companies, lawyers or government agencies in connection with issues related to fraud or government subpoenas and warrants.  
+  
+Disclaimer Version RS.US.201.407.01
 
 **FREE Hotspot Wireless Internet**  
 IKEA USA provides a FREE Hotspot wireless internet Service in our IKEA stores provided by IKEA for use by customers of IKEA. All users are required to log-in individually as an independent user. Click here to view our full FREE wireless internet terms and conditions
@@ -138,7 +140,7 @@ Conshohocken, PA 19428
   
 We will respond to your inquiry or investigate your concern as quickly as possible.  
   
-DATED: December 9, 2015
+Last updated: January 21st, 2019
 
 Catalog &. Brochures Request View Online Buying Guides Need HelpFAQContact UsFeedbackReturn PolicyChildren's Product RegistrationDelivery InformationStore DeliveryOnline DeliveryPicking with DeliveryTrack an OrderDelivery Terms &. ConditionsHelpful LinksFind an IKEA StoreAll ProductsPlanning ToolsIKEA Food &. RestaurantWarrantiesIKEA ServicesIKEA Gift CardThis is IKEAThe IKEA ConceptDemocratic DesignAbout the IKEA GroupPeople &. PlanetPress RoomRead our MaterialsIKEA FoundationJobs at IKEA © Inter IKEA Systems B.V. 1999 - 2018 | Privacy Policy | Responsible Disclosure Feedback Help us improve by sharing your feedback. We love your feedback! Please note that if you have a concern you need handled immediately, please contact our Customer Services
 
