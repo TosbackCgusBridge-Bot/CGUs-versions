@@ -107,7 +107,7 @@ Discover Our 8K OLED TV
 
 Bring a touch of Chrome Black to the table with the seamless design of #Xperia XZ2 Premium.  http://bit.ly/TW-Xperia-XZ2Premium-Design … pic.twitter.com/QFpdzv4P5L
 
-6 days ago
+7 days ago
 
 View Tweet
 
@@ -151,7 +151,7 @@ Now In Theaters
 
 Enter the world of survival horror, fully prepared. Make the most of the Resident Evil 2 "1-Shot" Demo with these tips from Capcom:  https://play.st/2GZ1FER  pic.twitter.com/1hK0hJYKIW
 
-7 days ago
+8 days ago
 
 View Tweet
 
