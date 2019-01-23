@@ -8,12 +8,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   TUMI
+    *   Desk to Dinner: Dresses Up to 65% Off
+    *   Philosophy Apparel from $15 Incl. Plus &. Petites
+    *   KitchenAid
+    *   Missoni Home
+    *   Personal Touch: Monogrammed Barware &. More
+    *   Designer Sun ft. Balenciaga &. More
+    *   1.STATE Starting at $30
+    *   Love + Harmony
+    *   Gemstone Jewelry Finds Up to 80% Off
+    *   Free Press &. Shimera
+    *   Beauty Favorites: Smashbox &. Urban Decay
+    *   Reebok Men's Active &. More
+    *   Kelsi Dagger Brooklyn Up to 55% Off
+    *   Rodial Skin Care
+    *   Workwear Faves &. More from Free Press
+    *   Tosca Blu
+    *   Men's Sock Shop Under $20
+    *   $50 &. Under: Robert Wayne
+    *   Girls' Brands We Love Under $25
+    *   Boys' Brands We Love Under $25
+    *   Free Shipping: Pop Art Pillows Under $24
     *   UGG
     *   UGG Kids
     *   UGG Men
-    *   UGG Sleep &. Throws
+    
     *   Love Stitch
     *   UGG Accessories
+    *   UGG Sleep &. Throws
     *   Etienne Marcel
     *   BCBGeneration
     *   Dress Forum
@@ -26,145 +49,111 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Men's Denim Under $50
     *   Llum
     *   Kids' Favorite Denim Brands
-    *   Get Out &. Play: Kids' Activewear
     *   Bluebellgray Bedding &. More
-    *   Volcom Men Under $40
-    *   Waterproof Boots &. More ft. Western Chief
     *   Insight Up to 80% Off
-    *   Wacoal &. b.tempt'd by Wacoal
-    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
-    *   Level 99
-    *   Z By Zella Incl. Plus
-    
     *   Free Shipping: Kitchen Blowout
-    *   Pants Up to 75% Off
     *   LaFonn Jewelry Up to 80% Off
     *   Step Forward: Transitional Shoes Up to 65% Off
-    *   Office Essentials: Styles ft. Adrianna Papell
-    *   Men's Designer Blowout
     *   Roberto Cavalli &. Ferre Milano Watches from $50
     *   Men's Shoes Up to 70% Off
     *   Theory Men's Tailored Clothing Up to 65% Off
     *   Skin Care We Love ft. Murad &. Kate Somerville
-    *   Whatever the Weather: Rain Coats &. More
-    *   Schutz Up to 70% Off
-    *   Dolce Cabo
-    *   Dex Starting at $15
-    *   LOVE Moschino Handbags
-    *   Casual Classics ft. Roxy
     *   Saachi Gemstone &. Leather Jewelry from $15
+    
     *   Ultra-Soft Towels Starting at $10
     *   Everly Grey Maternity
-    *   Super Bowl Ready: NFL Team Gear
     *   Free Shipping: Gold Jewelry Starting at $20
     *   Luseta Beauty Hair Care
     *   Funkyberry
     *   $60 &. Under: Crevo
     *   Oh, Baby: Footies, Blankets &. More
-    *   Go Couture Sweater Blowout
     *   Final Few: Bedding &. More Up to 75% Off
-    
-    *   Barse Sterling Silver &. Gemstone Jewelry from $15
-    *   Catherine Catherine Malandrino Up to 80% Off
     *   ghd: good hair day, every day
     *   Free Shipping: iCanvas Art
-    *   New York Collective
-    *   Persaman New York
-    *   14K Gold Under $80
     *   First-Class Treatments: Skin Care from $15
-    *   Jeffrey Campbell Up to 55% Off
-    *   Vince Camuto Incl. Plus &. Petites Up to 65% Off
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Wow-Worthy Brows from Chella
-    *   Bespoke
-    *   Free Shipping: Fine Art
-    *   Moonlit Skincare
-    *   Prep for Success: Kitchen Storage &. Gadgets
-    *   Down &. Memory Foam Essentials
-    *   Free Shipping: Bedding for Every Style
-    *   Step into Comfort: SUSINA, Naturalizer &. More
     *   Modern Fiction Up to 60% Off
     *   Arka
-    *   No Chill: Men's Sweaters, Hoodies &. More
-    *   Free Shipping: Colorful Decor
-    *   Free Shipping: Wall Murals &. More
-    *   Free Shipping: Boho-Chic Decor Up to 70% Off
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Wow-Worthy Brows from Chella
+    *   Free Shipping: Fine Art
+    *   Prep for Success: Kitchen Storage &. Gadgets
+    *   Down &. Memory Foam Essentials
+    *   Volcom Men Under $40
+    *   Waterproof Boots &. More ft. Western Chief
+    *   Get Out &. Play: Kids' Activewear
+    *   Pants Up to 75% Off
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   Level 99
 *   WomenShop Sale Events
     
+    *   TUMI
+    *   Desk to Dinner: Dresses Up to 65% Off
+    *   Philosophy Apparel from $15 Incl. Plus &. Petites
+    *   Designer Sun ft. Balenciaga &. More
+    *   1.STATE Starting at $30
+    *   Love + Harmony
+    *   Gemstone Jewelry Finds Up to 80% Off
+    *   Free Press &. Shimera
+    *   Beauty Favorites: Smashbox &. Urban Decay
+    *   Kelsi Dagger Brooklyn Up to 55% Off
+    *   Rodial Skin Care
+    *   Workwear Faves &. More from Free Press
+    *   Tosca Blu
     *   UGG
-    *   UGG Sleep &. Throws
     *   Love Stitch
     *   UGG Accessories
+    *   UGG Sleep &. Throws
     *   Etienne Marcel
     *   BCBGeneration
     *   Dress Forum
     *   Boho-Chic Bags &. Jewelry
+    
     *   RapidLash
     *   bebe Sport
     *   Korean Beauty: Masks, Cleansers &. More
-    *   Waterproof Boots &. More ft. Western Chief
     *   Insight Up to 80% Off
-    *   Wacoal &. b.tempt'd by Wacoal
-    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
-    *   Level 99
-    *   Z By Zella Incl. Plus
-    *   Pants Up to 75% Off
     *   LaFonn Jewelry Up to 80% Off
     *   Step Forward: Transitional Shoes Up to 65% Off
-    *   Office Essentials: Styles ft. Adrianna Papell
     *   Roberto Cavalli &. Ferre Milano Watches from $50
     *   Skin Care We Love ft. Murad &. Kate Somerville
-    *   Whatever the Weather: Rain Coats &. More
-    
-    *   Schutz Up to 70% Off
-    *   Dolce Cabo
-    *   Dex Starting at $15
-    *   LOVE Moschino Handbags
-    *   Casual Classics ft. Roxy
     *   Saachi Gemstone &. Leather Jewelry from $15
     *   Everly Grey Maternity
     *   Free Shipping: Gold Jewelry Starting at $20
     *   Luseta Beauty Hair Care
-    *   Go Couture Sweater Blowout
-    *   Barse Sterling Silver &. Gemstone Jewelry from $15
-    *   Catherine Catherine Malandrino Up to 80% Off
     *   ghd: good hair day, every day
-    *   New York Collective
-    *   Persaman New York
-    *   14K Gold Under $80
     *   First-Class Treatments: Skin Care from $15
-    *   Jeffrey Campbell Up to 55% Off
-    *   Vince Camuto Incl. Plus &. Petites Up to 65% Off
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Wow-Worthy Brows from Chella
-    *   Moonlit Skincare
-    *   Step into Comfort: SUSINA, Naturalizer &. More
+    *   Waterproof Boots &. More ft. Western Chief
+    *   Pants Up to 75% Off
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   Level 99
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
     *   Jewelry
     *   Handbags
     *   Watches
+    *   Lingerie
     *   Accessories
 *   MenShop Sale Events
     
+    *   TUMI
+    *   Reebok Men's Active &. More
+    *   Men's Sock Shop Under $20
+    *   $50 &. Under: Robert Wayne
     *   UGG Men
     *   Men's Polarized Sun Starting at $30
     *   Men's Denim Under $50
-    *   Volcom Men Under $40
-    *   Men's Designer Blowout
+    
     *   Roberto Cavalli &. Ferre Milano Watches from $50
     *   Men's Shoes Up to 70% Off
-    
     *   Theory Men's Tailored Clothing Up to 65% Off
-    *   Super Bowl Ready: NFL Team Gear
     *   $60 &. Under: Crevo
-    *   Bespoke
     *   Modern Fiction Up to 60% Off
     *   Arka
-    *   No Chill: Men's Sweaters, Hoodies &. More
+    *   Volcom Men Under $40
     
     Shop By Category
     *   Clothing
@@ -173,52 +162,56 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Girls' Brands We Love Under $25
+    *   Boys' Brands We Love Under $25
     *   UGG Kids
     *   Frenchie Mini Couture
     *   Llum
     *   Kids' Favorite Denim Brands
-    *   Get Out &. Play: Kids' Activewear
     *   Everly Grey Maternity
     *   Funkyberry
     *   Oh, Baby: Footies, Blankets &. More
+    *   Get Out &. Play: Kids' Activewear
     
     Shop By Category
     *   Girls' Sizes 2T-6X
-    *   Baby Girl
-    *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
+    *   Girls' Sizes 7-16
+    *   Baby Girl
+    *   Boys' Sizes 8-20
     *   Baby Boy
     *   Girls' Shoes
-    *   Boys' Sizes 8-20
     *   Boys' Shoes
     *   Baby Gear &. Essentials
     *   Toys
 *   HomeShop Sale Events
     
+    *   TUMI
+    *   KitchenAid
+    *   Missoni Home
+    *   Personal Touch: Monogrammed Barware &. More
+    *   Free Shipping: Pop Art Pillows Under $24
     *   Bluebellgray Bedding &. More
     *   Free Shipping: Kitchen Blowout
+    
     *   Ultra-Soft Towels Starting at $10
     *   Final Few: Bedding &. More Up to 75% Off
     *   Free Shipping: iCanvas Art
     *   Free Shipping: Fine Art
-    
     *   Prep for Success: Kitchen Storage &. Gadgets
     *   Down &. Memory Foam Essentials
-    *   Free Shipping: Bedding for Every Style
-    *   Free Shipping: Colorful Decor
-    *   Free Shipping: Wall Murals &. More
-    *   Free Shipping: Boho-Chic Decor Up to 70% Off
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Bath
-    *   Storage &. Organization
-    *   Rugs &. Doormats
     *   Luggage &. Travel
+    *   Storage &. Organization
 *   BeautyShop Sale Events
     
+    *   Beauty Favorites: Smashbox &. Urban Decay
+    *   Rodial Skin Care
     *   RapidLash
     *   Korean Beauty: Masks, Cleansers &. More
     *   Skin Care We Love ft. Murad &. Kate Somerville
@@ -227,12 +220,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   First-Class Treatments: Skin Care from $15
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Wow-Worthy Brows from Chella
-    *   Moonlit Skincare
     
     Shop By Category
     *   Skin Care
-    *   Hair Care
     *   Makeup
+    *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
 
