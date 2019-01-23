@@ -330,9 +330,9 @@ Offers
     
     When you purchase participating Paramount DVD or BluRay. Offer Expires on 2/28/2019. ENTER NOW
     
-*   'On the Basis of Sex' Sweepstakes
+*   Fandango Gift Cards
     
-    Enter for a chance to win a script of the movie signed by cast &. filmakers! ENTER NOW
+    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
 
 New + Coming soon
