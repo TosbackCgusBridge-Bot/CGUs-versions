@@ -1,10 +1,10 @@
-Privacybeleid van GoogleOp 22 januari 2019 wordt een geüpdatete versie van ons Privacybeleid van kracht.
+Privacybeleid van Google
 
 Wanneer u onze services gebruikt, vertrouwt u ons uw gegevens toe. We begrijpen dat dit een grote verantwoordelijkheid is en werken er hard aan om uw gegevens te beschermen en u er de controle over te geven.
 
 Dit privacybeleid is bedoeld om u inzicht te geven in de gegevens die we verzamelen, waarom we deze gegevens verzamelen en hoe u deze gegevens kunt updaten, beheren, exporteren en verwijderen.
 
-Datum van inwerkingtreding 25 mei 2018 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
+Datum van inwerkingtreding 22 januari 2019 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
 
 We bouwen een reeks services waarmee miljoenen mensen dagelijks de wereld op nieuwe manieren kunnen verkennen en er interactie mee kunnen hebben. Onze services bestaan onder meer uit:
 
@@ -70,7 +70,7 @@ Uw locatie kan met een verschillende mate van nauwkeurigheid worden bepaald door
 *   sensorgegevens van uw apparaat.
 *   informatie over zaken in de buurt van uw apparaat, zoals wifi-toegangspunten, zendmasten en Bluetooth-apparaten
 
-De soorten locatiegegevens die we verzamelen, zijn deels afhankelijk van uw apparaat- en accountinstellingen. U kunt bijvoorbeeld de locatie van uw Android-apparaat in- of uitschakelen via de instellingen-app van het apparaat. U kunt ook Locatiegeschiedenis inschakelen als u uw locatiegegevens wilt opslaan en beheren in uw account.
+De soorten locatiegegevens die we verzamelen, zijn deels afhankelijk van uw apparaat- en accountinstellingen. U kunt bijvoorbeeld de locatie van uw Android-apparaat in- of uitschakelen via de instellingen app van het apparaat. U kunt ook Locatiegeschiedenis inschakelen als u een privékaart wilt maken van waar u naartoe gaat met de apparaten waarbij u bent ingelogd.
 
 In sommige omstandigheden verzamelt Google ook gegevens over u via openbaar toegankelijke bronnen. Als bijvoorbeeld uw naam wordt vermeld in de lokale krant, kan de zoekmachine van Google dat artikel indexeren en weergeven aan anderen als ze op uw naam zoeken. We kunnen ook gegevens over u verzamelen die afkomstig zijn van vertrouwde partners, waaronder marketingpartners die ons informatie verstrekken over potentiële klanten of onze zakelijke services en beveiligingspartners die ons informatie verstrekken om te beschermen tegen misbruik. We ontvangen ook informatie van adverteerders om namens hen advertenties en onderzoeksservices te bieden.
 
@@ -229,7 +229,7 @@ We delen persoonlijke gegevens niet met bedrijven, organisaties en individuen bu
 
 Met uw toestemming
 
-We delen persoonlijke gegevens buiten Google als we uw toestemming hebben. Als u bijvoorbeeld Google Home gebruikt om een rit te bestellen bij een service voor het delen van ritten, vragen we om uw toestemming voordat we uw adres met die service delen. We vragen om uw uitdrukkelijke toestemming voordat we gevoelige persoonlijke gegevens delen.
+We delen persoonlijke informatie buiten Google als we uw toestemming hebben. Als u bijvoorbeeld een Google Home gebruikt om een reservering te maken via een boekingsservice, krijgen we uw toestemming voordat we uw naam of telefoonnummer delen met het restaurant. We vragen om uw uitdrukkelijke toestemming voordat we gevoelige persoonlijke informatie delen.
 
 Met domeinbeheerders
 
@@ -307,6 +307,8 @@ Europese vereisten
 
 Indien de gegevensbeschermingswetgeving van de Europese Unie (EU) van toepassing is op uw gegevens, bieden we de in dit beleid beschreven opties, zodat u gebruik kunt maken van het recht op inzage om uw gegevens te updaten, te wissen en de verwerking ervan te beperken. U heeft ook het recht om bezwaar te maken tegen de verwerking van uw gegevens of om de gegevens te exporteren naar een andere service.
 
+Voor gebruikers woonachtig in de Europese Economische Ruimte of Zwitserland is Google Ireland Limited de verwerkingsverantwoordelijke voor uw informatie, tenzij anderszins aangegeven in een servicespecifieke privacymededeling. Met andere woorden, Google Ireland Limited is de aangesloten Google-entiteit die verantwoordelijk is voor de verwerking van uw informatie en de naleving van de toepasselijke privacywetgeving.
+
 We verwerken uw gegevens voor de doeleinden zoals beschreven in dit beleid op basis van de volgende rechtsgronden:
 
 Met uw toestemming
@@ -324,7 +326,7 @@ We verwerken uw gegevens voor onze gerechtvaardigde belangen en die van derden w
 *   Marketing om gebruikers te informeren over onze services.
 *   Advertenties bieden om veel van onze services gratis beschikbaar te maken voor gebruikers.
 *   Het detecteren, voorkomen of anderszins aanpakken van fraude, misbruik, beveiligings- of technische problemen met onze services.
-*   Bescherming van de rechten, eigendom of veiligheid van Google, onze gebruikers of het publiek, zoals vereist of toegestaan volgens de wet.
+*   Bescherming van de rechten, het eigendom of de veiligheid van Google, onze gebruikers of het publiek, zoals vereist of toegestaan volgens de wet, waaronder gegevens vrijgeven aan overheidsinstanties
 *   Uitvoering van onderzoek waarmee onze services worden verbeterd voor onze gebruikers en die het publiek tot voordeel strekken.
 *   Voldoen aan verplichtingen jegens onze partners, zoals ontwikkelaars en houders van rechten.
 *   Handhaving van juridische vorderingen, waaronder het onderzoeken van mogelijke schending van toepasselijke servicevoorwaarden.
@@ -360,10 +362,10 @@ De volgende privacykennisgevingen bieden aanvullende informatie over enkele Goog
 *   Play Boeken
 *   Payments
 *   Fiber
-*   Project Fi
+*   Google Fi
 *   G Suite for Education
 *   YouTube Kids
-*   Google-accounts die worden beheerd met Family Link
+*   Met Family Link beheerde Google-accounts, voor kinderen die jonger zijn dan dertien jaar (of de toepasselijke leeftijd in uw land)
 
 Andere nuttige bronnen
 
@@ -371,15 +373,13 @@ De volgende links leiden naar nuttige bronnen waar u meer informatie over proced
 
 *   Uw Google-account is de plek waar u veel van de instellingen vindt waarmee u uw account kunt beheren
 *   De Privacycheck begeleidt u door de belangrijkste privacyinstellingen voor uw Google-account
-*   Het veiligheidscentrum van Google biedt adviezen om uw account veilig en beschermd te houden
-*   De privacywebsite van Google biedt meer informatie over de manier waarop we uw gegevens privé en veilig houden
+*   In het Veiligheidscentrum van Google vindt u meer informatie over onze ingebouwde beveiliging, privacyopties en tools die u helpen om online digitale basisregels voor uw gezin in te stellen
 *   De Privacyvoorwaarden bieden meer context met betrekking tot dit privacybeleid en onze Servicevoorwaarden
-*   Technologieën en principes bevatten meer informatie over:
+*   Het gedeelte Technologieën bevat meer informatie over:
     *   Hoe Google cookies gebruikt
     *   technologieën die worden gebruikt voor advertenties;
     *   hoe Google patroonherkenning gebruikt om dingen te herkennen, zoals gezichten op foto's;
-    *   een pagina die toelicht welke gegevens worden gedeeld met Google wanneer u websites bezoekt die gebruikmaken van onze advertentie-, analyse- en sociale producten;
-    *   Hoe Google gegevens gebruikt wanneer u sites of apps van onze partners gebruikt
+    *   Hoe Google gegevens gebruikt van sites of apps die onze services gebruiken
 
 advertenties die u het nuttigst vindt
 
@@ -421,7 +421,7 @@ Voorbeelden van deze services zijn onder meer:
 
 *   Google Hangouts, voor het uitvoeren van nationale en internationale oproepen
 *   Google Voice, voor het uitvoeren van oproepen, verzending van sms-berichten en beheer van voicemail
-*   Project Fi, voor een telefoonabonnement
+*   Google Fi, voor een telefoonabonnement
 
 sensorgegevens van uw apparaat.
 
@@ -451,6 +451,7 @@ Voorbeelden van hoe we uw gegevens gebruiken om onze services te leveren:
 *   We maken gebruik van unieke ID's die zijn opgeslagen in cookies op uw apparaat om ons te helpen u te verifiëren als de persoon die toegang mag krijgen tot uw Google-account.
 *   Foto's en video's die u uploadt naar Google Foto's, worden gebruikt om albums, animaties en andere creaties te maken die u kunt delen. Meer informatie
 *   Een bevestigingsmail voor een vlucht kan worden gebruikt om een knop Inchecken te maken die wordt weergegeven in uw Gmail.
+*   Wanneer u services of fysieke producten bij ons koopt, kunt u informatie aan ons verstrekken zoals uw verzendadres of bezorginstructies. We gebruiken deze gegevens onder meer voor het verwerken, uitvoeren en bezorgen van uw bestelling en om ondersteuning te bieden voor het product dat of de service die u koopt.
 
 waarborgen dat onze services werken zoals bedoeld
 
@@ -548,7 +549,7 @@ We kunnen bijvoorbeeld een Google-doodle weergeven op de homepage van Google Zoe
 
 Aangesloten bedrijven
 
-Een aangesloten bedrijf is een entiteit die behoort tot de Google-groep van bedrijven, waaronder de volgende bedrijven die consumentenservices aanbieden in de EU: Google Commerce Ltd, Google Payment Corp en Google Dialer Inc. Meer informatie over de bedrijven die zakelijke services aanbieden in de EU.
+Een aangesloten entiteit is een entiteit die behoort tot de Google-groep van bedrijven, waaronder de volgende bedrijven die consumentenservices aanbieden in de EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp en Google Dialer Inc. Meer informatie over de bedrijven die zakelijke services aanbieden in de EU.
 
 Algoritme
 
