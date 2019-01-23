@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Cyntoia Brown_: Celebrate MLK by Listening to People Who Aren't Like Us
+*   _Steve Cortes_: BuzzFeed, Covington Catholic, and the Harm of False Witness
     
-*   _Bari Weiss_: Ilhan Omar and the Myth of Jewish Hypnosis
+*   _John Cassidy_: At Halfway Mark, the Resistance Winning Against Trump
     
-*   _Jill Lepore_: Does Journalism Have a Future?
+*   _Nolan Finley_: Trump Should Give the SOTU in Michigan
     
-*   _Buck Sexton_: Only Matter of Time Before Social Media Mob Comes for You
+*   _Clare Malone_: The Young Left's Anti-Capitalist Manifesto
     
-*   _Melanie Mason_: Kamala Harris Makes It Official
+*   _Edward Conard_: The Crippling Cost of 70% Tax Rates
     
-*   _Ronna McDaniel_: Trump's Two Years of Promises Made, Promises Kept
+*   _Jill Filipovic_: Are Liberals Ready for a Nuanced Debate About Kamala?
     
-*   _Buettner &. Haberman_: In Business &. Governing, Trump Seeks Victory in Chaos
+*   _David Harsanyi_: Biden's Career Is Proof of Democrats' Hard Left Turn
     
-*   _David Axelrod_: The Revealing Words Trump Said About Pelosi's Trip
+*   _Ruth Graham_: The MAGA Teens Aren't Innocent Victims
     
-*   _Sidney Powell_: Red Handed: All the Collusion Was in the Deep State
+*   _Michael Davis_: The Progressive War on Catholic Private Schools
     
-*   _David Ignatius_: What Americans Are Fighting for in Manbij, Syria
+*   _Sen. Jacky Rosen_: We Must Fight to Protect Our Health Care System
     
-*   _Daniel Davis_: The 'Stay Forever' in Syria Troop Trap Has Failed
+*   _Noemie Emery_: As RBG Recovers, the Left Courts Disaster
     
-*   _Jeff Jacoby_: As MLK Foresaw, U.S. Racism's Been Largely Overcome
+*   _Michelle Goldberg_: May the Best Woman Win
     
-*   _Colbert King_: MLK Would Be Outraged at How We've Backtracked
+*   _Jaclyn Cashman_: 3 Hard-Left Women a Recipe for Dem 2020 Disaster
     
-*   _Frank Miele_: Identity Politics, and the Divisible Nation for Which It Stands
+*   _Reston &. Collinson_: 2020 Democrats Confront How to Deal With Trump
     
-*   _Isaac Chotiner_: How Journalism Survives: Interview With Jill Abramson
+*   _Tucker Carlson_: Covington Catholic Students Smeared by Media
     
-*   _John Nolte_: Lying Media Shell-Shocked by BuzzFeed Fiasco
+*   _Issac Bailey_: Trump's MAGA Hats Have Become Potent Symbol of Racism
     
-*   _Dana Milbank_: The Comically Disastrous Way Trump Runs the U.S.
+*   _Julie Kelly_: Virtue-Signaling Conservatives Join the Left's Lynch Mob
     
-*   _John Fund_: How Long Can Democrats Refuse to Compromise?
+*   _Julie Irwin Zimmerman_: I Failed the Covington Catholic Test
     
-*   _Hunter Hooligan_: What It Felt Like to Stare Down the MAGA Teens
+*   _Debra Heine_: Media Doubles Down with Another Covington Catholic Smear
     
-*   _Robby Soave_: Media Got Catholic School Protester Story Completely Wrong
+*   _Susan Crabtree_: Trump Compromise Offer Solidifies GOP Behind Him
     
-*   _Liza Donnelly_: The Women's March Was a Party With a Purpose
+*   _David Faris_: The Shutdown Is Going to Do Major Damage to the GOP
     
-*   _Sarah Williams_: Everyone Urged Abortion. I Chose Love.
+*   _Stephen Moore_: Now Pelosi Owns the Shutdown
     
-*   _Lionel Shriver_: The New Normal: Banishing the Work of Great Artists
+*   _Ursula von der Leyen_: The World Still Needs NATO
     
-*   _Roger Cohen_: The Strange Persistent Troubling Russian Hang-Up of Trump
+*   _Robert Merry_: NATO Is a Danger, Not a Guarantor of Peace
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump's Immigration Offer Solidifies Republicans Behind Him
 *   Kamala Harris Jumps Into Presidential Race
-*   Trump Offers "Dreamers" Relief for Wall Funds in Bid to Break Impasse
-*   Clyburn: Prefacing Claim With "If This Is True" Gives All the Cover You Need
+*   Gingrich: Media More Hostile to Trump Than Any President Since Lincoln
+*   The Media's BuzzFeeding Frenzy: Tracking the Cohen Story
 *   Could Dems' 2020 Nominee Be Someone You've Never Heard Of?
-*   Trump and Kim Jong-un to Hold Second Summit Meeting Next Month
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove56Disapprove +12
-*   Direction of CountryRasmussen Reports
-    *   Right Direction33
-    *   Wrong Track61Wrong Track +28
-*   President Trump Job ApprovalNPR/PBS/Marist
-    *   Approve40
-    *   Disapprove54Disapprove +14
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve45
-    *   Disapprove52Disapprove +7
+*   General Election: Trump vs. BidenPPP (D)
+    *   Biden53
+    *   Trump41Biden +12
+*   General Election: Trump vs. WarrenPPP (D)
+    *   Warren48
+    *   Trump42Warren +6
+*   General Election: Trump vs. HarrisPPP (D)
+    *   Harris48
+    *   Trump41Harris +7
+*   General Election: Trump vs. O'RourkePPP (D)
+    *   O'Rourke47
+    *   Trump41O'Rourke +6
 
 More Latest Polls In The News
 
-*   Clyburn: If You Preface Statement With "If This Is True" That Gives You All The Cover You Need
-*   Pence: President Offered A "Good-Faith Compromise," Democrats Offering Sound Bites
-*   Giuliani: "So What" If Michael Cohen Spoke To Trump About Testimony If It Is The Truth?
-*   BuzzFeed's Anthony Cormier On Explosive Trump Story: This 100% Happened
-*   Gregory Meeks on Steve King: Trump Inspires Racists To "Come Out Of The Closet," Uncover Their Faces
+*   Huckabee Sanders on Covington Media Coverage: "I've Never Seen People So Happy To Destroy A Kid's Life"
+*   Behar: Covington Catholic Incident Happened Because "We're Desperate To Get Trump Out Of Office"
+*   Mark Levin Challenges "Media Creation" Ocasio-Cortez: "Have The Guts" To Do An Interview With Me
+*   Trump Jr.: The Media Wants Bunch Of White Catholic School Boys In MAGA Hats To Be "The Enemy"
+*   John Kerry at Davos Forum: Donald Trump Should Resign. "He Doesn't Take Any Of This Seriously"
 
 *   Politics
 *   Policy
