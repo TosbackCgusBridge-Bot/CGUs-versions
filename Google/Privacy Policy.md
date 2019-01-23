@@ -1,10 +1,10 @@
-Règles de confidentialité GoogleUne version mise à jour de nos Règles de confidentialité entrera en vigueur le 22 janvier 2019.
+Règles de confidentialité Google
 
 Lorsque vous utilisez nos services, vous nous faites confiance pour le traitement de vos informations. Nous savons qu'il s'agit d'une lourde responsabilité, c'est pourquoi nous nous efforçons de les protéger, tout en vous permettant d'en garder le contrôle.
 
 Les présentes Règles de confidentialité visent à vous indiquer quelles informations nous collectons et pour quelle raison, ainsi que la façon de les mettre à jour, de les gérer, de les exporter et de les supprimer.
 
-À compter du 25 mai 2018 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
+À compter du 22 janvier 2019 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
 
 Notre gamme de services permet tous les jours à des millions de personnes d'explorer le monde et d'interagir avec celui-ci de manière innovante. Voici certains des services que nous proposons :
 
@@ -70,7 +70,7 @@ Votre position géographique peut être déterminée avec des degrés de précis
 *   Les données des capteurs de votre appareil
 *   Des informations relatives à des éléments à proximité de votre appareil, tels que des points d'accès Wi-Fi, des antennes-relais et des appareils sur lesquels le Bluetooth est activé
 
-Le type de données de localisation que nous collectons dépend en partie des paramètres définis dans votre appareil et votre compte. Vous pouvez par exemple activer ou désactiver la position géographique de votre appareil Android dans les paramètres de ce dernier. Vous pouvez également activer l'historique des positions si vous souhaitez enregistrer et gérer les informations relatives à votre position géographique dans votre compte.
+Le type de données de localisation que nous collectons dépend en partie des paramètres définis dans votre appareil et votre compte. Vous pouvez par exemple activer ou désactiver la position géographique de votre appareil Android dans les paramètres de ce dernier. Vous pouvez également activer l'historique des positions si vous souhaitez créer une carte privée des lieux où vous vous rendez avec vos appareils connectés.
 
 Dans certains cas, nous collectons également des informations vous concernant dans des sources accessibles publiquement. Par exemple, si votre nom est mentionné dans votre journal local, le moteur de recherche Google est susceptible de répertorier l'article en question et de l'afficher dans une recherche effectuée sur votre nom par d'autres utilisateurs. Nous pouvons également recueillir des informations vous concernant auprès de partenaires de confiance, dont des partenaires de marketing qui nous fournissent des données sur des clients potentiels, susceptibles de faire appel à nos services professionnels, et des partenaires de sécurité qui nous fournissent des données afin que nous puissions assurer une protection contre les abus. Nous recevons également des informations de la part d'annonceurs afin d'assurer des services publicitaires et de recherche en leur nom.
 
@@ -229,7 +229,7 @@ Nous ne communiquons vos informations personnelles à des entreprises, des organ
 
 Avec votre consentement
 
-Nous ne communiquons vos informations personnelles à des tiers qu'avec votre consentement. Par exemple, si vous utilisez Google Home pour faire appel à un chauffeur via un service de covoiturage, nous vous demanderons votre autorisation avant de partager votre adresse avec le service en question. Nous vous demanderons votre consentement explicite à partager des informations personnelles sensibles.
+Nous ne communiquons vos informations personnelles à des tiers qu'avec votre consentement. Par exemple, si vous utilisez Google Home pour effectuer une réservation via un service prévu à cet effet, nous vous demanderons votre autorisation avant de communiquer votre nom ou votre numéro de téléphone au restaurant. Nous vous demanderons votre consentement explicite pour le partage des informations personnelles sensibles.
 
 Avec des administrateurs de domaines
 
@@ -307,6 +307,8 @@ Exigences européennes
 
 Si la législation de l'Union européenne (UE) s'applique au traitement de vos informations, nous mettons à votre disposition les outils décrits dans les présentes règles afin de vous permettre d'exercer votre droit de demande d'accès, de mise à jour, de suppression et de restriction du traitement de vos informations. Vous avez également le droit de vous opposer au traitement de vos informations ou d'exporter ces dernières vers un autre service.
 
+Pour les utilisateurs résidant dans l'Espace économique européen ou en Suisse, le responsable du traitement chargé de vos informations est Google Ireland Limited, sauf indication contraire dans un avis de confidentialité propre à un service. En d'autres termes, Google Ireland Limited est la société affiliée de Google chargée de traiter vos informations et de respecter les lois applicables en matière de respect de la vie privée.
+
 Nous traitons vos informations aux fins décrites dans les présentes règles et conformément aux fondements juridiques suivants :
 
 Avec votre consentement
@@ -324,7 +326,7 @@ Nous traitons vos informations conformément à nos intérêts légitimes, ainsi
 *   Mener des actions de marketing en vue de faire connaître nos services auprès des utilisateurs.
 *   Avoir recours à la publicité afin de rendre un grand nombre de nos services disponibles gratuitement pour les utilisateurs.
 *   Déceler, éviter ou traiter des activités frauduleuses, des abus, des atteintes à la sécurité ou tout problème d'ordre technique rencontré par nos services.
-*   Se prémunir contre toute atteinte aux droits, aux biens ou à la sécurité de Google, de ses utilisateurs ou du public, en application et dans le respect de la loi.
+*   Nous nous prémunissons contre toute atteinte aux droits, aux biens ou à la sécurité de Google, ainsi qu'à ceux de nos utilisateurs ou du public, en application et dans le respect de la loi. Nous pouvons par exemple divulguer des informations aux organismes gouvernementaux.
 *   Effectuer des recherches qui améliorent nos services pour nos utilisateurs et profitent au public.
 *   Remplir des obligations envers nos partenaires (développeurs et détenteurs de droits, par exemple).
 *   Faire respecter des décisions de justice, y compris pour constater d'éventuels cas de non-respect des conditions d'utilisation applicables.
@@ -360,10 +362,10 @@ Les avis de confidentialité suivants fournissent des informations supplémentai
 *   Play Livres
 *   Payments
 *   Fiber
-*   Project Fi
+*   Google Fi
 *   G Suite pour l'éducation
 *   YouTube Kids
-*   Comptes Google gérés avec Family Link
+*   Comptes Google gérés avec Family Link, pour les enfants de moins de 13 ans (ou l'âge légal de consentement dans votre pays)
 
 Autres ressources utiles
 
@@ -371,15 +373,13 @@ Les liens suivants renvoient vers des ressources utiles qui vous permettent d'en
 
 *   Votre compte Google comporte de nombreux paramètres vous permettant de le gérer.
 *   Le Check-up Confidentialité vous présente les paramètres de confidentialité clés de votre compte Google.
-*   Le centre de sécurité de Google propose des conseils visant à garantir la sécurité de vos informations.
-*   Le site de Google dédié à la confidentialité fournit davantage d'informations sur la façon dont nous assurons la confidentialité et la sécurité de vos données.
+*   Le Centre de sécurité de Google vous permet d'en savoir plus sur les options de sécurité intégrées, les paramètres de confidentialité et les outils qui permettent de définir des règles de base pour votre famille concernant l'utilisation de produits numériques en ligne.
 *   Les Règles de confidentialité et Conditions d'utilisation offrent davantage de contexte en lien avec les présentes Règles de confidentialité et nos Conditions d'utilisation.
-*   La page Technologies et principes inclut davantage d'informations sur les éléments suivants :
+*   La page Technologies inclut davantage d'informations sur les éléments suivants :
     *   Comment Google utilise les cookies
     *   Technologies utilisées à des fins publicitaires
     *   Utilisation de la reconnaissance de formes par Google pour détecter des éléments, tels que des visages sur des photos
-    *   Une page qui explique quelles données vous nous transmettez lorsque vous consultez des sites Web qui utilisent nos produits publicitaires, nos outils d'analyse et nos réseaux sociaux.
-    *   Comment Google utilise certaines données collectées lorsque vous utilisez des sites ou applications de nos partenaires
+    *   Comment utilisons-nous les informations collectées via les sites ou applications qui font appel à nos services ?
 
 annonces que vous trouvez les plus utiles
 
@@ -421,7 +421,7 @@ Voici quelques exemples de ces services :
 
 *   Google Hangouts, qui permet de passer des appels nationaux et internationaux.
 *   Google Voice, qui permet de passer des appels, d'envoyer des SMS et de gérer les messages vocaux.
-*   Project Fi, qui propose un forfait téléphonique.
+*   Google Fi, qui propose un forfait téléphonique
 
 Les données des capteurs de votre appareil
 
@@ -451,6 +451,7 @@ Voici quelques exemples de la façon dont nous utilisons vos informations pour p
 *   Nous utilisons des identifiants uniques stockés dans des cookies sur votre appareil pour vous authentifier comme la personne ayant accès à votre compte Google.
 *   Nous utilisons les photos et vidéos que vous importez dans Google Photos pour créer des albums, des animations et d'autres éléments que vous pouvez partager. En savoir plus
 *   Nous pouvons nous servir d'un e-mail de confirmation de vol que vous recevez pour créer un bouton d'enregistrement dans votre compte Gmail.
+*   Lorsque vous achetez des services ou des produits physiques auprès de nous, vous pouvez être amené à nous fournir des informations telles que votre adresse de livraison ou des instructions concernant la livraison. Ces informations nous servent à traiter, honorer et livrer votre commande, ainsi qu'à fournir une assistance en lien avec le produit ou le service que vous achetez.
 
 nous assurer que nos services fonctionnent correctement
 
@@ -548,7 +549,7 @@ Par exemple, nous pouvons afficher un doodle Google sur la page d'accueil de la 
 
 Affiliés
 
-Une société affiliée est une entité qui appartient au groupe d'entreprises Google. Google Commerce Ltd, Google Payment Corp et Google Dialer Inc en font partie et fournissent des services grand public dans l'UE. En savoir plus sur les entreprises qui fournissent des services professionnels dans l'UE
+Une société affiliée est une entité qui appartient au groupe d'entreprises Google. Google Ireland Limited, Google Commerce Ltd, Google Payment Corp et Google Dialer Inc en font partie et fournissent des services grand public dans l'UE. En savoir plus sur les entreprises qui fournissent des services professionnels dans l'UE
 
 Algorithme
 
