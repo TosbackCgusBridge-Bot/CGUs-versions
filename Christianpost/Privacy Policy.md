@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
+*   Karen Pence
+*   Lady Gaga
 *   Covington Catholic
+*   Communist posters
 *   James MacDonald
-*   Blood Moon
-*   Iranian Christians
-*   Joni &. Nick
 
 About Us
 
