@@ -25,8 +25,8 @@ Close submenu ( Girls ) Girls
 *   New Arrivals
 *   Best Sellers
 *   Destroyed Denim
-*   Cozy
 *   Online Only
+*   Valentine's Day
 
 Close submenu ( Guys ) Guys
 
@@ -34,8 +34,8 @@ Close submenu ( Guys ) Guys
 *   New Arrivals
 *   Best Sellers
 *   Destroyed Denim
-*   Active
 *   Online Only
+*   Active
 
 Close submenu ( Girls ) Girls
 
@@ -45,7 +45,7 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Bottoms ) Bottoms
 
 *   Jackets + Vests
-*   Hats, Gloves + Scarves
+*   Hats + Scarves
 *   Dresses + Rompers
 *   Accessories
 *   Footwear
@@ -110,7 +110,6 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Bottoms ) Bottoms
 
 *   Jackets + Vests
-*   Hats, Gloves + Scarves
 *   Accessories
 *   Underwear
 *   Cologne + Grooming
@@ -211,7 +210,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-Online Only! **Extra 40% Off Clearance** Use Code **EXTRA40** **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
+ONLINE ONLY! **Extra 30% Off Clearance** Use Code **EXTRA30** **FREE SHIPPING ON ORDERS OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -226,16 +225,16 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Best Sellers
         *   Destroyed Denim
-        *   Cozy
         *   Online Only
+        *   Valentine's Day
     
     *   Guys
         *   View All
         *   New Arrivals
         *   Best Sellers
         *   Destroyed Denim
-        *   Active
         *   Online Only
+        *   Active
 *   Girls
     
     *   View Home
@@ -265,7 +264,7 @@ Menu Find a Store Aeropostale
         
     
     *   Jackets + Vests
-    *   Hats, Gloves + Scarves
+    *   Hats + Scarves
     *   Dresses + Rompers
     *   Accessories
     *   Footwear
@@ -311,7 +310,6 @@ Menu Find a Store Aeropostale
         
     
     *   Jackets + Vests
-    *   Hats, Gloves + Scarves
     *   Accessories
     *   Underwear
     *   Cologne + Grooming
@@ -376,7 +374,6 @@ Menu Find a Store Aeropostale
         *   Bottoms
         *   Accessories
         
-    
 
 *   Select Country
 
@@ -419,7 +416,7 @@ Stay Connected
 
 *   Visit A Store
 *   Find Store Coupons
-*   Live Chat (9am - 10pm EST)Call Us
+*   Live Chat (9am - 10pm EST) Call Us
 *   Use Student Discount
 *   Store FAQs
 
