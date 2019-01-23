@@ -1,10 +1,10 @@
-Google-DatenschutzerklärungAm 22. Januar 2019 tritt eine aktualisierte Version unserer Datenschutzerklärung in Kraft.
+Google-Datenschutzerklärung
 
 Wenn Sie unsere Dienste nutzen, vertrauen Sie uns Ihre Daten an. Wir sind uns bewusst, dass dies eine große Verantwortung ist und setzen alles daran, Ihre Daten zu schützen und zu gewährleisten, dass Sie die Kontrolle darüber behalten.
 
 In dieser Datenschutzerklärung erfahren Sie, welche Daten von uns erhoben werden, welche Zwecke wir damit verfolgen und wie Sie Ihre Daten aktualisieren, verwalten, exportieren und löschen können.
 
-Wirksam ab dem 25. Mai 2018 | Archivierte Versionen | PDF herunterladenInhaltEinführungVon Google erhobene DatenGründe für die Datenerhebung durch GoogleDatenschutzeinstellungenDatenweitergabeGewährleistung der DatensicherheitLöschen und Exportieren Ihrer DatenCompliance und Zusammenarbeit mit RegierungsbehördenInformationen über diese DatenschutzerklärungWeitere Informationen zum Datenschutz
+Wirksam ab dem 22. Januar 2019 | Archivierte Versionen | PDF herunterladenInhaltEinführungVon Google erhobene DatenGründe für die Datenerhebung durch GoogleDatenschutzeinstellungenDatenweitergabeGewährleistung der DatensicherheitLöschen und Exportieren Ihrer DatenCompliance und Zusammenarbeit mit RegierungsbehördenInformationen über diese DatenschutzerklärungWeitere Informationen zum Datenschutz
 
 Wir entwickeln eine Vielzahl von Diensten, die Millionen von Menschen Tag für Tag helfen, die Welt ganz neu zu entdecken und mit ihr zu interagieren. Zu unseren Diensten zählen:
 
@@ -70,7 +70,7 @@ Ihr Standort kann mit unterschiedlicher Genauigkeit bestimmt werden. Dazu verwen
 *   Sensordaten von Ihrem Gerät
 *   Informationen über Objekte in der Nähe Ihres Geräts, wie etwa WLAN-Zugriffspunkte, Funkmasten und Bluetooth-fähige Geräte
 
-Die von uns erhobenen Typen von Standortdaten hängen zum Teil von Ihren Geräte- und Kontoeinstellungen ab. So können Sie zum Beispiel über die App "Einstellungen" auf Ihrem Gerät die Standorterfassung Ihres Android-Geräts aktivieren oder deaktivieren. Wenn Sie Ihre Standortdaten in Ihrem Konto speichern und verwalten möchten, können Sie auch den Standortverlauf aktivieren.
+Die durch uns erhobenen Typen von Standortdaten hängen zum Teil von Ihren Geräte- und Kontoeinstellungen ab. Zum Beispiel können Sie mit der App "Einstellungen" in Ihrem Android-Gerät die Standorterfassung Ihres Geräts aktivieren oder deaktivieren. Wenn Sie eine private Karte mit Orten erstellen möchten, die Sie mit Ihren angemeldeten Geräten besuchen, können Sie auch den Standortverlauf aktivieren.
 
 In manchen Fällen erhebt Google auch Daten über Sie aus öffentlich zugänglichen Quellen. Wenn beispielsweise Ihr Name in Ihrer lokalen Zeitung erscheint, kann die Google-Suchmaschine diesen Artikel indexieren und anderen Personen zeigen, wenn sie nach Ihrem Namen suchen. Unter Umständen erhalten wir auch Daten über Sie von vertrauenswürdigen Partnern . Dazu zählen Marketingpartner, die uns Daten über potenzielle Kunden unserer Geschäftsdienste bereitstellen und Sicherheitspartner, die uns Daten liefern, mit denen wir uns vor Missbrauch schützen können. Wir erhalten auch Daten von Werbetreibenden, damit wir in deren Namen Werbung und Recherchedienste bereitstellen können.
 
@@ -229,7 +229,7 @@ Wir geben personenbezogene Daten an Unternehmen, Organisationen oder Personen au
 
 Mit Ihrer Einwilligung
 
-Wir geben personenbezogene Daten außerhalb von Google weiter, wenn wir Ihre Einwilligung dazu haben. Wenn Sie beispielsweise Google Home verwenden, um eine Fahrt bei einem Fahrgemeinschaftsdienst zu buchen, holen wir Ihre Einwilligung ein, bevor wir Ihre Adresse für diesen Dienst freigeben. Vor der Weitergabe von sensiblen personenbezogenen Daten holen wir Ihre ausdrückliche Einwilligung ein.
+Wir geben personenbezogene Daten außerhalb von Google weiter, wenn wir Ihre Einwilligung dazu haben. Wenn Sie beispielsweise Google Home verwenden, um eine Tischreservierung vorzunehmen, holen wir Ihre Einwilligung ein, bevor wir dem Restaurant Ihren Namen oder Ihre Telefonnummer weitergeben. Vor der Weitergabe von vertraulichen personenbezogenen Daten holen wir Ihre ausdrückliche Einwilligung ein.
 
 Im Falle von Domain-Administratoren
 
@@ -307,6 +307,8 @@ Anforderungen in Europa
 
 Wenn das Datenschutzrecht der Europäischen Union (EU) für die Verarbeitung Ihrer Daten Anwendung findet, stellen wir Ihnen die in dieser Datenschutzerklärung beschriebenen Steuerungsmöglichkeiten zur Verfügung, damit Sie Ihr Recht ausüben können, Auskunft über Ihre Daten zu erhalten, sie zu aktualisieren, zu löschen und deren Verarbeitung einzuschränken. Darüber hinaus haben Sie das Recht, der Verarbeitung Ihrer Daten zu widersprechen oder Ihre Daten in einen anderen Dienst zu exportieren.
 
+Bei Nutzern, die ihren gewöhnlichen Aufenthalt im Europäischen Wirtschaftsraum oder der Schweiz haben, ist Google Ireland Limited der für Ihre Daten zuständige Verantwortliche, sofern dies in den Datenschutzhinweisen eines bestimmten Dienstes nicht anders angegeben ist. Google Ireland Limited ist demnach das mit Google verbundene Unternehmen, welches für die Verarbeitung Ihrer Daten und die Einhaltung der anwendbaren Datenschutzgesetze verantwortlich ist.
+
 Wir verarbeiten Ihre Daten zu den in dieser Datenschutzerklärung beschriebenen Zwecken auf der Basis der folgenden rechtlichen Grundlagen:
 
 Mit Ihrer Einwilligung
@@ -324,7 +326,7 @@ Wir verarbeiten Ihre Daten, soweit wir oder Dritte ein berechtigtes Interessen d
 *   Marketing, um Nutzer über unsere Dienste zu informieren
 *   Werbung, um viele unserer Dienste Nutzern kostenlos zur Verfügung stellen zu können
 *   Aufdecken, Verhindern oder anderweitiges Bekämpfen von Betrug, Sicherheitsmängeln oder technischen Problemen
-*   Schutz der Rechte, des Eigentums oder der Sicherheit von Google, unserer Nutzer oder der Öffentlichkeit vor Schaden, soweit dies gesetzlich zulässig oder erforderlich ist
+*   Schutz der Rechte, des Eigentums oder der Sicherheit von Google, unserer Nutzer oder der Öffentlichkeit vor Schaden, soweit dies gesetzlich zulässig oder erforderlich ist, einschließlich der Offenlegung von Informationen gegenüber Behörden
 *   Durchführen von Recherchen, mit der unsere Dienste für unsere Nutzer verbessert werden können und die für die Öffentlichkeit von Vorteil sind
 *   Einhalten von Verpflichtungen gegenüber unseren Partnern wie Entwicklern und Rechteinhabern
 *   Durchsetzen rechtlicher Forderungen, einschließlich der Untersuchung möglicher Verletzungen anwendbarer Nutzungsbedingungen
@@ -360,10 +362,10 @@ Die folgenden Datenschutzhinweise bieten zusätzliche Informationen zu manchen G
 *   Play Bücher
 *   Payments
 *   Fiber
-*   Projekt Fi
+*   Google Fi
 *   G Suite for Education
 *   YouTube Kids
-*   Google-Konten, die mit Family Link verwaltet werden
+*   Mit Family Link verwaltete Google-Konten für Kinder unter 13 Jahren (in einigen Ländern gilt ein anderes Mindestalter für Google-Konten)
 
 Weitere hilfreiche Ressourcen
 
@@ -371,15 +373,13 @@ Die folgenden Links bieten hilfreiche Ressourcen, um weitere Informationen über
 
 *   Ihr Google-Konto verfügt über zahlreiche Einstellungen, mit denen Sie Ihr Konto verwalten können.
 *   Der Privatsphärecheck führt Sie durch die wichtigsten Datenschutzeinstellungen für Ihr Google-Konto.
-*   Das Sicherheitscenter von Google bietet Ratschläge zu Sicherheitsfragen.
-*   Die Datenschutz-Website von Google bietet weitere Informationen darüber, wie Sie Ihre Daten schützen können.
+*   Im Google Sicherheitscenter erhalten Sie Informationen zu unseren integrierten Sicherheitsmaßnahmen und Datenschutzeinstellungen. Außerdem können Sie hier die Tools kennenlernen, mit denen Sie innerhalb Ihrer Familie Grundregeln für die Nutzung digitaler Onlinemedien aufstellen können.
 *   Der Abschnitt Datenschutz &. Nutzungsbedingungen bietet weitere Hintergrundinformationen zu dieser Datenschutzerklärung und zu unseren Nutzungsbedingungen.
-*   Unter Technologien und Prinzipien finden Sie weitere Informationen zu folgenden Themen:
+*   Unter Technologien finden Sie weitere Informationen zu folgenden Themen:
     *   So verwendet Google Cookies
     *   Die für Werbung verwendeten Technologien
     *   Die Verwendung von Mustererkennung durch Google, um beispielsweise Gesichter in Fotos zu erkennen
-    *   Eine Seite, die erklärt, welche Daten an Google weitergegeben werden, wenn Sie Websites besuchen, die unsere Werbeprodukte, Analysetools und sozialen Produkte verwenden.
-    *   Datennutzung durch Google bei Ihrer Nutzung von Websites oder Apps unserer Partner
+    *   Wie wir Daten von Websites oder Apps verwenden, auf bzw. in denen unsere Dienste genutzt werden
 
 Werbung, die Sie besonders nützlich finden
 
@@ -421,7 +421,7 @@ Beispiele für diese Dienste sind:
 
 *   Google Hangouts zum Tätigen von Anrufen im Inland und ins Ausland
 *   Google Voice zum Tätigen von Anrufen, Senden von SMS und Verwalten der Mailbox
-*   Project Fi für einen Telefontarif
+*   Google Fi für einen Telefontarif
 
 Sensordaten von Ihrem Gerät
 
@@ -451,6 +451,7 @@ Im Folgenden finden Sie Beispiele dafür, wie wir Ihre Daten zur Bereitstellung 
 *   Wir verwenden eindeutige IDs, die in Cookies auf Ihrem Gerät gespeichert sind, um Sie als die Person zu authentifizieren, die auf Ihr Google-Konto zugreifen darf.
 *   Fotos und Videos, die Sie in Google Fotos hochladen, werden verwendet, um Ihnen zu helfen, Alben, Animationen und andere Werke zu erstellen, die Sie mit anderen teilen können. Weitere Informationen
 *   Eine Flugbestätigung, die Sie per E-Mail erhalten, kann verwendet werden, um eine Check-in-Schaltfläche in Gmail zu erstellen.
+*   Wenn Sie Dienstleistungen oder Artikel von uns kaufen, teilen Sie uns möglicherweise Informationen wie Ihre Lieferadresse oder Lieferanweisungen mit. Wir verwenden diese Informationen beispielsweise für die Verarbeitung, die Durchführung und die Lieferung Ihrer Bestellung sowie zur Bereitstellung des Supports für den Artikel oder die Dienstleistung, die Sie kaufen.
 
 Gewährleisten, dass unsere Dienste ordnungsgemäß funktionieren
 
@@ -548,7 +549,7 @@ Beispielsweise können wir ein Google-Doodle auf der Startseite der Suche zeigen
 
 Verbundene Unternehmen
 
-Eine Tochtergesellschaft ist eine Rechtspersönlichkeit, die zur Google-Unternehmensgruppe gehört, einschließlich der folgenden Unternehmen, die Dienstleistungen in der EU anbieten: Google Commerce Ltd, Google Payment Corp. und Google Dialer Inc. Weitere Informationen zu den Unternehmen, die Geschäftsdienstleistungen in der EU anbieten
+Ein verbundenes Unternehmen ist eine juristische Person, die zur Google-Unternehmensgruppe gehört, einschließlich der folgenden Unternehmen, die Dienstleistungen in der EU anbieten: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp und Google Dialer Inc. Weitere Informationen zu den Unternehmen, die Geschäftsdienstleistungen in der EU anbieten
 
 Algorithmus
 
