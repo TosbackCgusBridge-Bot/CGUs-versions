@@ -117,4 +117,4 @@ We couldn't find the page you were looking for.
 
 Follow us:
 
-© 2019 Informa USA, Inc., All Rights Reserved <img src="https://api.b2c.com/api/noscript-315re7h65uhsyo963dv.gif">.
+© 2019 Informa USA, Inc., All Rights Reserved <img src="https://api.b2c.com/api/noscript-315re7h65uhsyo963dv.gif">
