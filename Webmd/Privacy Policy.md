@@ -1,4 +1,4 @@
-Skip to main content
+Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -111,10 +111,10 @@ Skip to main content
     Experts News &. Experts News &. Experts Health News
     
     *   Plague Cases Confirmed -- What You Need to Know
-    *   Are You a Risk-Taker? It May Be in Your DNA
+    *   Blood Test May Show Early Warning of Alzheimer's
+    *   Will Healthy Seniors Benefit From Daily Aspirin?
     *   Sit Less, Live Longer?
     *   Why Your Heart Needs a Good Night's Sleep
-    *   People With Cancer May Face Greater Shingles Risk
     
     Experts &. Community
     
