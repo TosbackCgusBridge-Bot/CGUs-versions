@@ -1,7 +1,4 @@
-Playoffs - CONFERENCE
-
-*   LA13-326NO13-323Final (OT)
-*   NE11-537KC12-431Final (OT)
+*   AFCNFCSun, 3:00 pm ET
 
 *   News
 *   Scores
@@ -23,10 +20,7 @@ Playoffs - CONFERENCE
 *   NFL Network
 *   Photos
 
-Playoffs - CON
-
-*   LA26NO23Final (OT)
-*   NE37KC31Final (OT)
+*   AFCNFCSun, 3:00 pm ET
 
 *   News
 *   Scores
@@ -35,8 +29,8 @@ Playoffs - CON
 *   Highlights
 *   Super Bowl
 
-*   Scores
-*   Highlights
+*   Pro Bowl
+*   Shop
 
 *   *   Game Pass
     *   Playoff Picture
