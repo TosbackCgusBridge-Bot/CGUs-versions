@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Steve Cortes_: BuzzFeed, Covington Catholic, and the Harm of False Witness
+*   _Catherine Rampell_: Republicans Have Become the Soviet Party
     
-*   _John Cassidy_: At Halfway Mark, the Resistance Winning Against Trump
+*   _Conrad Black_: D.C. Logjam Loosens Amid Democratic Antics
     
-*   _Nolan Finley_: Trump Should Give the SOTU in Michigan
+*   _Charles Homans_: McConnell Got Everything He Wanted--at What Cost?
     
-*   _Clare Malone_: The Young Left's Anti-Capitalist Manifesto
+*   _John Kass_: Why the Dem Media Complex Smeared Covington Boys
     
-*   _Edward Conard_: The Crippling Cost of 70% Tax Rates
+*   _Jonathan Capehart_: Nothing Justifies What Covington Students Did
     
-*   _Jill Filipovic_: Are Liberals Ready for a Nuanced Debate About Kamala?
+*   _John Nolte_: Four Massive Media Hoaxes in First Three Weeks of 2019
     
-*   _David Harsanyi_: Biden's Career Is Proof of Democrats' Hard Left Turn
+*   _Cass Sunstein_: Barr's Baffling and Alarming View of Executive Power
     
-*   _Ruth Graham_: The MAGA Teens Aren't Innocent Victims
+*   _John Solomon_: How Clinton Machine Flooded FBI With Trump-Russia Dirt
     
-*   _Michael Davis_: The Progressive War on Catholic Private Schools
+*   _Arnott &. Tamny_: A Proposal to Ban the Terms 'Far Right' and 'Far Left'
     
-*   _Sen. Jacky Rosen_: We Must Fight to Protect Our Health Care System
+*   _Jill Abramson_: My Tumultuous Time at the New York Times
     
-*   _Noemie Emery_: As RBG Recovers, the Left Courts Disaster
+*   _John Lott_: BuzzFeed's Culture of Fake News Led by Its CEO Jonah Peretti
     
-*   _Michelle Goldberg_: May the Best Woman Win
+*   _Seth Barron_: Media Miscues Always Occur in the Liberal Direction
     
-*   _Jaclyn Cashman_: 3 Hard-Left Women a Recipe for Dem 2020 Disaster
+*   _Melinda Henneberger_: Covington Catholic: We Still Saw What We Saw
     
-*   _Reston &. Collinson_: 2020 Democrats Confront How to Deal With Trump
+*   _Matt Walsh_: Nathan Phillips Is a Bully Who Blatantly Lied
     
-*   _Tucker Carlson_: Covington Catholic Students Smeared by Media
+*   _Bob Cesca_: MAGA-Teen Defenders: Spare Us Your Phony Concern for Kids
     
-*   _Issac Bailey_: Trump's MAGA Hats Have Become Potent Symbol of Racism
+*   _Marc Thiessen_: While Democrats Pander, Trump Shows Leadership
     
-*   _Julie Kelly_: Virtue-Signaling Conservatives Join the Left's Lynch Mob
+*   _Robert Kuttner_: Why Trump Will Lose His Shutdown Ploy
     
-*   _Julie Irwin Zimmerman_: I Failed the Covington Catholic Test
+*   _Elisabeth Rosenthal_: Trump's New Rule Could Be Game-Changer for Health Care
     
-*   _Debra Heine_: Media Doubles Down with Another Covington Catholic Smear
+*   _Byron York_: What If Mueller Doesn't Give Democrats What They Want?
     
-*   _Susan Crabtree_: Trump Compromise Offer Solidifies GOP Behind Him
+*   _Robert Hunwick_: Trump and Xi: A Tale of Two Egos
     
-*   _David Faris_: The Shutdown Is Going to Do Major Damage to the GOP
+*   _Kenneth Rapoza_: China Is Losing the Trade War in Nearly Every Way
     
-*   _Stephen Moore_: Now Pelosi Owns the Shutdown
+*   _Edward-Isaac Dovere_: Pete Buttigieg Thinks All the 2020 Dems Are Too Old
     
-*   _Ursula von der Leyen_: The World Still Needs NATO
+*   _Perry Bacon_: How Kamala Harris Could Win the 2020 Dem Primary
     
-*   _Robert Merry_: NATO Is a Danger, Not a Guarantor of Peace
+*   _Tyler Cowen_: Kamala Harris's Disappointing Economics
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump's Immigration Offer Solidifies Republicans Behind Him
-*   Kamala Harris Jumps Into Presidential Race
-*   Gingrich: Media More Hostile to Trump Than Any President Since Lincoln
+*   Senate Sets Up Showdown Votes on Plans to Fund Wall, Reopen Government
+*   High Court Lets Military Implement Transgender Restrictions
+*   Covington Catholic Student Nick Sandmann: "I Was Not Disrespectful"
+*   Democratic Mayor Pete Buttigieg Joins 2020 Presidential Race
 *   The Media's BuzzFeeding Frenzy: Tracking the Cohen Story
-*   Could Dems' 2020 Nominee Be Someone You've Never Heard Of?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   General Election: Trump vs. BidenPPP (D)
-    *   Biden53
-    *   Trump41Biden +12
-*   General Election: Trump vs. WarrenPPP (D)
-    *   Warren48
-    *   Trump42Warren +6
-*   General Election: Trump vs. HarrisPPP (D)
-    *   Harris48
-    *   Trump41Harris +7
-*   General Election: Trump vs. O'RourkePPP (D)
-    *   O'Rourke47
-    *   Trump41O'Rourke +6
+*   President Trump Job ApprovalFOX News
+    *   Approve43
+    *   Disapprove54Disapprove +11
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve40
+    *   Disapprove55Disapprove +15
+*   Congressional Job ApprovalReuters/Ipsos
+    *   Approve23
+    *   Disapprove70Disapprove +47
+*   Congressional Job ApprovalFOX News
+    *   Approve18
+    *   Disapprove67Disapprove +49
 
 More Latest Polls In The News
 
+*   Hakeem Jeffries Defends "Candid Conversation" Calling Trump "Grand Wizard Of 1600 Pennsylvania Avenue"
+*   MAGA Covington Catholic Student Nick Sandmann: "I Was Not Disrespectful" To Nathan Phillips
 *   Huckabee Sanders on Covington Media Coverage: "I've Never Seen People So Happy To Destroy A Kid's Life"
 *   Behar: Covington Catholic Incident Happened Because "We're Desperate To Get Trump Out Of Office"
 *   Mark Levin Challenges "Media Creation" Ocasio-Cortez: "Have The Guts" To Do An Interview With Me
-*   Trump Jr.: The Media Wants Bunch Of White Catholic School Boys In MAGA Hats To Be "The Enemy"
-*   John Kerry at Davos Forum: Donald Trump Should Resign. "He Doesn't Take Any Of This Seriously"
 
 *   Politics
 *   Policy
