@@ -1,4 +1,4 @@
-angle-upangle-rightangle-downangle-leftcloseusermenu openmenu closedsearchglobebarsphonestore skip to contents skip to navigation skip to search skip to footer Legal Contact Us Search Search: Search Cancel ETS Navigation ETS Home >. Legal >. Privacy and Security Privacy and Security
+angle-upangle-rightangle-downangle-leftcloseusermenu openmenu closedsearchglobebarsphonestoreskip to contents skip to navigation skip to search skip to footer Legal Contact Us Search Search: Search Cancel ETS Navigation ETS Home >. Legal >. Privacy and Security Privacy and Security
 
 Educational Testing Service ("ETS") recognizes the importance of protecting your privacy. This privacy notice describes our practices related to personal information privacy and security.
 
@@ -320,4 +320,4 @@ ETS — Measuring the Power of Learning.®
 Copyright © 2019 by Educational Testing Service. All rights reserved.  
 All trademarks are the property of their respective owners.
 
-Activate to launch comment card
+Provide Feedback about this pageFeedback
