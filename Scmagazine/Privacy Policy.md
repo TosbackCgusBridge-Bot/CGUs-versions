@@ -1,7 +1,7 @@
 Skip to navigation Skip to main content Login Register Menu Close
 
-*   Security NewsOpen Submenu
-    *   Security News Back
+*   NewsOpen Submenu
+    *   News Back
         
         *   **Cybercrime**
             *   Data Breaches
