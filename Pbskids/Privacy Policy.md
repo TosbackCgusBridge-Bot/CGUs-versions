@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
 
-What to keep in mind when responding to toddlers' irrational behavior. What to keep in mind when responding to toddlers' irrational behavior. Read more.
+Get tips for back to school season! Download the free Daniel Tiger for Parents app today!Get tips for back to school season! Download the free Daniel Tiger for Parents app today!Get it now.
 
 Toggle message bar
 
