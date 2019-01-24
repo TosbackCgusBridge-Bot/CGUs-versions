@@ -132,4 +132,4 @@ Thailand (English) 
 
   Build Brands People Love
 
-©2018 Oath Inc. All Rights Reserved.
+©2019 Oath Inc. All Rights Reserved.
