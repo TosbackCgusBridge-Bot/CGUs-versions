@@ -68,9 +68,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 45%  3% 
+What is PeekScore? Public Records &. Background Checks 46%  3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -116,7 +116,7 @@ What is PeekScore? Public Records &. Background Checks 45%  3% 
     
 *   Show Less ...
 
-45%  3% 
+46%  3% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -309,53 +309,37 @@ Twitter 2% 
 
 Instagram 2% 
 
-*   our privacy policy - itswinterhxe
+*   Instagram privacy Policy - privacy\_intellectual\_policy
     
-*   aidan miles - we\_updated\_our\_privacy\_policy
+*   Wet Spagett - privacy\_policy\_update
     
-*   instagram privacy - instagramprivacypolicy
+*   Konstantin - \_privacy.\_.policy\_\_
     
-*   ahhhmmm\_privacy\_policy - ahhhmmm\_privacy\_policy
+*   Privacy Policy of Instagram - privacypolicy\_of\_the\_account
     
 *   Show More ...
 
-*   1 follower - privacypolicy4072
+*   Social Media Privacy policy - socialmediaprivacypolicy
     
-*   Instagram Privacy Policy - deleting.instaprivacy
+*   instagram\_service-iran - privacy\_policy\_insta\_iran
     
-*   Instagram Privacy Policy - ig\_privacy\_policy\_company
+*   Privacy Is The Best Policy ߑᠭ specialjitt
     
-*   1 follower - igqualitycontrol
+*   Privacy Policy - insta\_privacy\_policy
     
-*   SuprizedMyNameWasn'tTaken - terms.and.privacy.policy
+*   childrens\_privacy\_policy - childrens\_privacy\_policy
     
-*   Melanieeeee - terms\_and\_privacy\_policy
+*   Yung Imker - seamusprivacypolicy
     
-*   Pants - terms\_and\_privacy\_policy\_
+*   Ray - terms\_privacy\_\_policy\_\_
     
-*   Privacy policy - privacydoor7
+*   Djavid - \_privacy\_policy
     
-*   Baul\_Plart - we\_updated\_our\_privacy\_policy\_
+*   Privacy Policy - privacy05
     
-*   PrivacyPolicy - privacypolicy4020
+*   Karen McDowall - privacy\_\_\_policy
     
-*   privacypolicy - privacypolicy7690
-    
-*   PrivacyPolicy - privacypolicy.3245
-    
-*   Privacy Policy - privadex\_do\_nuno
-    
-*   Instagramer - \_\_privacy\_policy\_\_
-    
-*   privacy policy - privacy\_policy6
-    
-*   privacypolicy - findme1223
-    
-*   IG POLICY PRIVACY - ig\_user\_verified
-    
-*   Are You Fed? - privacy\_policy\_\_\_\_
-    
-*   Рогов Хуго - privacypolicy
+*   Christian Granda - childrens.privacy.policy
     
 *   Show Less ...
 
@@ -425,7 +409,7 @@ Google+ 2% 
     
 *   Show Less ...
 
-Pinterest 44%  Wikipedia 2% 
+Pinterest 46%  Wikipedia 2% 
 
 *   Privacy policy
     
@@ -534,11 +518,11 @@ Web Search 2% 
 
 Images 2% 
 
-4
+3
 
 20
 
-23
+15
 
 7
 
