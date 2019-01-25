@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Catherine Rampell_: Republicans Have Become the Soviet Party
+*   _Kay James_: Trump Has a Great Deal to Brag About in State of the Union
     
-*   _Conrad Black_: D.C. Logjam Loosens Amid Democratic Antics
+*   _Jamelle Bouie_: Trump's Wall of Shame and America's White Racial Hostility
     
-*   _Charles Homans_: McConnell Got Everything He Wanted--at What Cost?
+*   _Karin McQuillan_: Colorblind Fairness Will Win Against Dems' Race-Baiting
     
-*   _John Kass_: Why the Dem Media Complex Smeared Covington Boys
+*   _Amanda Marcotte_: No Matter How Long It Takes, Dems Should Stand Firm
     
-*   _Jonathan Capehart_: Nothing Justifies What Covington Students Did
+*   _Peter Beinart_: Democrats Are Blowing a Golden Opportunity
     
-*   _John Nolte_: Four Massive Media Hoaxes in First Three Weeks of 2019
+*   _Jonah Goldberg_: Trump Could Very Well Face a Primary Challenge
     
-*   _Cass Sunstein_: Barr's Baffling and Alarming View of Executive Power
+*   _Ace_: Conservatives Should Defund National Review
     
-*   _John Solomon_: How Clinton Machine Flooded FBI With Trump-Russia Dirt
+*   _David Leonhardt_: Three Impeachment Options for House Democrats
     
-*   _Arnott &. Tamny_: A Proposal to Ban the Terms 'Far Right' and 'Far Left'
+*   _Alan Dershowitz_: Would Democrats Violate the Constitution to 'Safeguard' It?
     
-*   _Jill Abramson_: My Tumultuous Time at the New York Times
+*   _Steven Mosher_: How Communism Is Dooming China's Economy
     
-*   _John Lott_: BuzzFeed's Culture of Fake News Led by Its CEO Jonah Peretti
+*   _Carl Cannon_: The Sterling Example of Churchill's Stirring Words
     
-*   _Seth Barron_: Media Miscues Always Occur in the Liberal Direction
+*   _E.J. Dionne_: There's Nothing 'Moderate' About Caving In to Trump
     
-*   _Melinda Henneberger_: Covington Catholic: We Still Saw What We Saw
+*   _Edward Morrissey_: Why Trump's Border Compromise Is a Shrewd Move
     
-*   _Matt Walsh_: Nathan Phillips Is a Bully Who Blatantly Lied
+*   _Alex Shephard_: This Is Nancy Pelosi's Finest Hour
     
-*   _Bob Cesca_: MAGA-Teen Defenders: Spare Us Your Phony Concern for Kids
+*   _David Clarke_: Wake Up Conservatives: Race-Hustling Media Is the Problem
     
-*   _Marc Thiessen_: While Democrats Pander, Trump Shows Leadership
+*   _Noah Berlatsky_: Wearing MAGA Hat Provokes and Insults People of Color
     
-*   _Robert Kuttner_: Why Trump Will Lose His Shutdown Ploy
+*   _David Azerrad_: Smirking While White: The Media's Frenzy of Hate
     
-*   _Elisabeth Rosenthal_: Trump's New Rule Could Be Game-Changer for Health Care
+*   _Caitlin Flanagan_: Media Botched Covington Story &. Damage Will Be Lasting
     
-*   _Byron York_: What If Mueller Doesn't Give Democrats What They Want?
+*   _Steve Israel_: The Strange Journey of Rudy Giuliani
     
-*   _Robert Hunwick_: Trump and Xi: A Tale of Two Egos
+*   _Victor Davis Hanson_: Auditing Our Auditors--Time for a 2nd Special Counsel?
     
-*   _Kenneth Rapoza_: China Is Losing the Trade War in Nearly Every Way
+*   _Myra Adams_: Why Kamala Harris Will Win the Democratic Nomination
     
-*   _Edward-Isaac Dovere_: Pete Buttigieg Thinks All the 2020 Dems Are Too Old
+*   _Wierson &. Hillsman_: Why Starbucks' Schultz Might Have a Shot at White House
     
-*   _Perry Bacon_: How Kamala Harris Could Win the 2020 Dem Primary
+*   _Elizabeth Brown_: How Dems Have Doomed Over-the-Counter Contraception
     
-*   _Tyler Cowen_: Kamala Harris's Disappointing Economics
+*   _Sabrina Schaeffer_: If Future Is Female, Republicans Need Women Candidates
     
 
 *   Previous
@@ -226,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Senate Sets Up Showdown Votes on Plans to Fund Wall, Reopen Government
-*   High Court Lets Military Implement Transgender Restrictions
-*   Covington Catholic Student Nick Sandmann: "I Was Not Disrespectful"
-*   Democratic Mayor Pete Buttigieg Joins 2020 Presidential Race
-*   The Media's BuzzFeeding Frenzy: Tracking the Cohen Story
+*   Trump Delays State of the Union Until Partial Shutdown Ends
+*   Votes on Senate Bills Seen as Progress Even If They Fail
+*   O'Donnell: Pelosi "Crushed" Trump Over State of the Union
+*   U.S. Recognizes Opposition Leader as Venezuela's Interim President
+*   Hillsdale: A Small College With Big Ambitions
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -246,23 +246,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalFOX News
     *   Approve43
     *   Disapprove54Disapprove +11
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove56Disapprove +12
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve40
     *   Disapprove55Disapprove +15
 *   Congressional Job ApprovalReuters/Ipsos
     *   Approve23
     *   Disapprove70Disapprove +47
-*   Congressional Job ApprovalFOX News
-    *   Approve18
-    *   Disapprove67Disapprove +49
 
 More Latest Polls In The News
 
-*   Hakeem Jeffries Defends "Candid Conversation" Calling Trump "Grand Wizard Of 1600 Pennsylvania Avenue"
-*   MAGA Covington Catholic Student Nick Sandmann: "I Was Not Disrespectful" To Nathan Phillips
-*   Huckabee Sanders on Covington Media Coverage: "I've Never Seen People So Happy To Destroy A Kid's Life"
-*   Behar: Covington Catholic Incident Happened Because "We're Desperate To Get Trump Out Of Office"
-*   Mark Levin Challenges "Media Creation" Ocasio-Cortez: "Have The Guts" To Do An Interview With Me
+*   Pelosi: Republicans Have "Let Them Eat Cake" Attitude Toward Federal Workers. "I Don't Quite Understand Why"
+*   Wilbur Ross: Federal Workers Should Be Able To Rely On Credit Or Loans Until They Get Paid
+*   Dem Sen. Bennet Rips Cruz On Senate Floor: Your "Crocodile Tears" Are "Too Hard For Me To Take"
+*   Kamala Harris on 2020: Our Grandchildren Are Going To Ask What We Did At This "Inflection Point" In History
+*   Sam Donaldson: Trump and Kellyanne Conway Have "Symbiotic" Relationship Like Mongoose And Cobra
 
 *   Politics
 *   Policy
