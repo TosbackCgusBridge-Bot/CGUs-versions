@@ -17,7 +17,7 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackUP TO 70% OFF WOMEN'S TOPSShop AllSELECT STYLESUP TO 70% OFF WOMEN'S TOPSSELECT STYLESShop All
+Near YouFind a StoreBackFINAL HOURS OF COUPON CODETOSAVE49ENDS IN00HOURS 41MINS 01SECS \*Offer ends January 25, 2019 UP TO 70% OFF WOMEN'S TOPSShop AllSELECT STYLESUP TO 70% OFF WOMEN'S TOPSSELECT STYLESShop All
 
 *   LIMITED TIME SPECIAL!
     
@@ -33,7 +33,7 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S TOPSShop AllSELECT STYLESUP TO 70%
     
     $1999 sale
     
-    was $47 Worthington Womens Long Sleeve Cardigan-Plus(17)Add To Cart
+    was $47 Worthington Womens Long Sleeve Cardigan-Plus(19)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $1399 sale
@@ -43,17 +43,17 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S TOPSShop AllSELECT STYLESUP TO 70%
     
     $1499 sale
     
-    was $32 St. John's Bay Active Long Sleeve Thermal Tunic(42)Add To Cart
+    was $32 St. John's Bay Active Long Sleeve Thermal Tunic(43)Add To Cart
+*   LIMITED TIME SPECIAL!
+    
+    $1320 sale
+    
+    was $44 St. John's Bay Embroidered Elbow Sleeve Top - Plus(2)Add To Cart
 *   LIMITED TIME SPECIAL!
     
     $799 sale
     
-    was $17 St. John's Bay-Womens Mock Neck Long Sleeve T-Shirt(71)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    $1299 sale
-    
-    was $42 Worthington V Neck Step Hem Tunic - Plus(8)Add To Cart
+    was $17 St. John's Bay-Womens V Neck Long Sleeve T-Shirt(14)Add To Cart
 
 UP TO 70% OFF MEN'S SHIRTSShop AllSELECT STYLESUP TO 70% OFF MEN'S SHIRTSSELECT STYLESShop All
 
@@ -100,27 +100,21 @@ Hot Sellers
     $2520after couponArizona Original Flex Chino Pants(191)
 *   BUY MORE AND SAVE WITH CODE: TOSAVE49
     
-    from$20
-    
-    Home Expressions Lisette Grommet-Top Sheer Curtain Panel(385)
+    from$36after couponJCPenney Home Plaza Grommet-Top Lined Blackout Curtain Panel(1805)
 *   BUY MORE AND SAVE WITH CODE: TOSAVE49
     
-    from$649
+    $2550after couponWomens Green Bangle Watch and Bracelet Set
+*   $4999 sale
     
-    St. John's Bay Mens Short Sleeve Polo Shirt(636)
-*   BUY 1 GET 1 50% OFF
+    was $60 | 16% offNike Revolution 4 Womens Running Shoes Lace-up(88)
+*   BUY MORE AND SAVE WITH CODE: TOSAVE49
     
-    $50
-    
-    Stafford Travel Stretch Performance Super Shirt Mens Long Sleeve Dress Shirt(6)
+    from$42after couponLiz Claiborne Quinn Basketweave Room Darkening Grommet-Top Curtain Panel(570)
 *   BUY 1 GET 1 40% OFF
     
-    $44
+    $28
     
-    Lee® Regular-Fit Straight-Leg Jeans(1591)
-*   BUY MORE AND SAVE WITH CODE: TOSAVE49
-    
-    from$30after couponStudio™ 550 TC UltraFit Solid Performance Sheet Set(1588)
+    Stafford® 4-pk. Woven Cotton Boxers(222)
 
 Shop and Save at JCPenney
 
