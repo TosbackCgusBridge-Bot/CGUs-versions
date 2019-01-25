@@ -393,11 +393,11 @@ Support
 *   Customer Service
 *   Contact Us
 
-facebook-logo linkedin-logo youtube-logo email-logo Download the Safari App
+facebook-logo linkedin-logo youtube-logo email-logo Download the O'Reilly App
 
-Take Safari with you—learn anywhere, anytime on your phone or tablet. Don’t wait! Download the app today and:
+Take O'Reilly online learning with you—learn anywhere, anytime on your phone or tablet. Don’t wait! Download the app today and:
 
-*   Get unlimited access to Safari content
+*   Get unlimited access to O'Reilly online learning content
 *   Never lose your place—all your devices are automatically synced.
 *   Read when you can focus—make good use of your commute time.
 
