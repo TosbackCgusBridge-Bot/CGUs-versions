@@ -8,13 +8,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Vince Camuto
-    *   Denim ft. 7 For All Mankind
-    *   Ramy Brook
+    *   LAGOS
+    *   Loveappella
+    *   Date Night: Valentine's-Ready Dresses &. Jumpsuits
+    *   Clarks Comfort Shoes from $39
+    *   DL1961 Up to 70% Off
+    *   Sugarlips
+    *   Mad for Plaid: Jackets, Dresses &. More
+    *   Wear Everyday Tees ft Psycho Bunny
+    *   Korean Beauty: Leaders Cosmetics
+    *   Free Shipping: Home Organization Essentials
+    *   Gentleman's Closet: Suiting, Accessories &. More
+    *   Perfect Pumps Starting at $30
+    *   Christopher Kon Up to 75% Off
+    *   Men's Sweaters Under $100
+    *   Free Shipping: Kantha Blankets &. More
+    *   TUMI
+    *   FREEZE Character Hoodies &. Tees
+    *   Playgro
+    *   Philosophy Apparel from $15 Incl. Plus &. Petites
+    *   Vacation Nation: Getaway-Ready Styles
+    *   Free Shipping: Spring Bedding
+    *   Green Amethyst Jewelry &. More Starting at $15
+    
     *   Resort Edit: Swim &. Accessories from $15
     *   Resort Edit: Slides, Espadrilles &. More from $25
     *   Resort Edit: Men's Swim &. More Up to 70% Off
     *   Resort Edit: Men's Slides, Sneakers &. More from $20
+    *   Vince Camuto
+    *   Denim ft. 7 For All Mankind
+    *   Ramy Brook
     *   Amanda &. Chelsea Incl. Plus and Petites
     *   Sun Brands We Love ft. Burberry
     *   Lush
@@ -24,71 +47,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Luxe Locks: Hair Tools Blowout
     *   Scotch &. Soda Up to 50% Off
     *   Dress Shirts Under $35
-    *   Free Shipping: Pop Art Pillows Under $24
     *   Mia Belle Girls
     *   Skarlett Blue Lingerie &. Sleep
     *   Nest Jewelry Gemstones &. More Up to 70% Off
     *   World's Best Tweezers
     *   Add to Your Mix: Kitchen Storage &. More
     *   Alternative Men Under $35
-    *   Splendid Kids
     
+    *   Splendid Kids
     *   Men's Supra Sneakers Up to 55% Off
-    *   Philosophy Apparel from $15 Incl. Plus &. Petites
-    *   Vacation Nation: Getaway-Ready Styles
-    *   Free Shipping: Spring Bedding
-    *   Love + Harmony
-    *   Designer Sun ft. Balenciaga &. More
-    *   Desk to Dinner: Dresses Up to 65% Off
     *   KitchenAid
     *   Missoni Home
     *   Personal Touch: Monogrammed Barware &. More
-    *   TUMI
-    *   1.STATE Starting at $30
     *   Gemstone Jewelry Finds Up to 80% Off
-    *   Workwear Faves &. More from Free Press
-    *   Love Stitch
-    *   Free Press &. Shimera
     *   Beauty Favorites: Smashbox &. Urban Decay
-    *   Reebok Men's Active &. More
-    *   Kelsi Dagger Brooklyn Up to 55% Off
     *   Rodial Skin Care
-    *   Tosca Blu
-    *   Men's Sock Shop Under $20
     *   $50 &. Under: Robert Wayne
     *   Girls' Brands We Love Under $25
-    
     *   Boys' Brands We Love Under $25
-    *   UGG
-    *   UGG Kids
-    *   UGG Men
     *   RapidLash
-    *   Frenchie Mini Couture
     *   Korean Beauty: Masks, Cleansers &. More
-    *   Llum
-    *   Kids' Favorite Denim Brands
     *   Bluebellgray Bedding &. More
-    *   UGG Accessories
-    *   Men's Shoes Up to 70% Off
-    *   Ultra-Soft Towels Starting at $10
     *   BCBGeneration
+    *   Ultra-Soft Towels Starting at $10
     *   Luseta Beauty Hair Care
-    *   $60 &. Under: Crevo
     *   Final Few: Bedding &. More Up to 75% Off
-    *   ghd: good hair day, every day
-    *   UGG Sleep &. Throws
+    *   Free Shipping: Pop Art Pillows Under $24
+    *   Desk to Dinner: Dresses Up to 65% Off
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: iCanvas Art
-    *   First-Class Treatments: Skin Care from $15
-    *   Free Shipping: Fine Art
-    *   Get Out &. Play: Kids' Activewear
 *   WomenShop Sale Events
     
+    *   LAGOS
+    *   Loveappella
+    *   Date Night: Valentine's-Ready Dresses &. Jumpsuits
+    *   Clarks Comfort Shoes from $39
+    *   DL1961 Up to 70% Off
+    *   Sugarlips
+    *   Mad for Plaid: Jackets, Dresses &. More
+    *   Korean Beauty: Leaders Cosmetics
+    *   Perfect Pumps Starting at $30
+    *   Christopher Kon Up to 75% Off
+    *   TUMI
+    *   Philosophy Apparel from $15 Incl. Plus &. Petites
+    *   Vacation Nation: Getaway-Ready Styles
+    *   Green Amethyst Jewelry &. More Starting at $15
+    *   Resort Edit: Swim &. Accessories from $15
+    *   Resort Edit: Slides, Espadrilles &. More from $25
     *   Vince Camuto
     *   Denim ft. 7 For All Mankind
     *   Ramy Brook
-    *   Resort Edit: Swim &. Accessories from $15
-    *   Resort Edit: Slides, Espadrilles &. More from $25
+    
     *   Amanda &. Chelsea Incl. Plus and Petites
     *   Sun Brands We Love ft. Burberry
     *   Lush
@@ -99,55 +108,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Skarlett Blue Lingerie &. Sleep
     *   Nest Jewelry Gemstones &. More Up to 70% Off
     *   World's Best Tweezers
-    *   Philosophy Apparel from $15 Incl. Plus &. Petites
-    *   Vacation Nation: Getaway-Ready Styles
-    *   Love + Harmony
-    *   Designer Sun ft. Balenciaga &. More
-    *   Desk to Dinner: Dresses Up to 65% Off
-    
-    *   TUMI
-    *   1.STATE Starting at $30
     *   Gemstone Jewelry Finds Up to 80% Off
-    *   Workwear Faves &. More from Free Press
-    *   Love Stitch
-    *   Free Press &. Shimera
     *   Beauty Favorites: Smashbox &. Urban Decay
-    *   Kelsi Dagger Brooklyn Up to 55% Off
     *   Rodial Skin Care
-    *   Tosca Blu
-    *   UGG
     *   RapidLash
     *   Korean Beauty: Masks, Cleansers &. More
-    *   UGG Accessories
     *   BCBGeneration
     *   Luseta Beauty Hair Care
-    *   ghd: good hair day, every day
-    *   UGG Sleep &. Throws
-    *   First-Class Treatments: Skin Care from $15
+    *   Desk to Dinner: Dresses Up to 65% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
     *   Jewelry
-    *   Accessories
+    *   Lingerie
     *   Handbags
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Wear Everyday Tees ft Psycho Bunny
+    *   Gentleman's Closet: Suiting, Accessories &. More
+    *   Men's Sweaters Under $100
+    *   TUMI
     *   Resort Edit: Men's Swim &. More Up to 70% Off
     *   Resort Edit: Men's Slides, Sneakers &. More from $20
+    
     *   Scotch &. Soda Up to 50% Off
     *   Dress Shirts Under $35
     *   Alternative Men Under $35
     *   Men's Supra Sneakers Up to 55% Off
-    *   TUMI
-    
-    *   Reebok Men's Active &. More
-    *   Men's Sock Shop Under $20
     *   $50 &. Under: Robert Wayne
-    *   UGG Men
-    *   Men's Shoes Up to 70% Off
-    *   $60 &. Under: Crevo
     
     Shop By Category
     *   Clothing
@@ -155,53 +145,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   FREEZE Character Hoodies &. Tees
+    *   Playgro
     *   Mia Belle Girls
     *   Splendid Kids
     *   Girls' Brands We Love Under $25
     *   Boys' Brands We Love Under $25
-    *   UGG Kids
-    *   Frenchie Mini Couture
-    *   Llum
-    *   Kids' Favorite Denim Brands
-    *   Get Out &. Play: Kids' Activewear
     
     Shop By Category
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
-    *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
+    *   Girls' Sizes 7-16
     *   Baby Boy
     *   Baby Girl
-    *   Girls' Shoes
-    *   Boys' Shoes
     *   Toys
 *   HomeShop Sale Events
     
-    *   Free Shipping: Pop Art Pillows Under $24
-    *   Add to Your Mix: Kitchen Storage &. More
+    *   Free Shipping: Home Organization Essentials
+    *   Free Shipping: Kantha Blankets &. More
+    *   TUMI
     *   Free Shipping: Spring Bedding
+    *   Add to Your Mix: Kitchen Storage &. More
     *   KitchenAid
     *   Missoni Home
-    *   Personal Touch: Monogrammed Barware &. More
-    *   TUMI
     
+    *   Personal Touch: Monogrammed Barware &. More
     *   Bluebellgray Bedding &. More
     *   Ultra-Soft Towels Starting at $10
     *   Final Few: Bedding &. More Up to 75% Off
+    *   Free Shipping: Pop Art Pillows Under $24
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: iCanvas Art
-    *   Free Shipping: Fine Art
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Bath
     *   Storage &. Organization
+    *   Bath
     *   Luggage &. Travel
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Korean Beauty: Leaders Cosmetics
     *   Luxe Locks: Hair Tools Blowout
     *   World's Best Tweezers
     *   Beauty Favorites: Smashbox &. Urban Decay
@@ -209,8 +196,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   RapidLash
     *   Korean Beauty: Masks, Cleansers &. More
     *   Luseta Beauty Hair Care
-    *   ghd: good hair day, every day
-    *   First-Class Treatments: Skin Care from $15
     
     Shop By Category
     *   Skin Care
