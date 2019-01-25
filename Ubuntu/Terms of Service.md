@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Zero to Snap – Rev up your packaging ›
 *   Ubuntu Core 18 released for secure, reliable IoT devices ›
 *   What will be the biggest development trends in 2019? ›
 *   Where eagles snap – snap security overview ›
 *   MAAS 2.5 : Growing the ecosystem and support for KVM micro-clouds ›
-*   Fresh Snaps from December 2018 ›
