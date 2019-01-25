@@ -26,7 +26,7 @@ Close submenu ( Girls ) Girls
 *   Best Sellers
 *   Destroyed Denim
 *   Online Only
-*   Valentine's Day
+*   Be My Aero Valentine
 
 Close submenu ( Guys ) Guys
 
@@ -35,6 +35,7 @@ Close submenu ( Guys ) Guys
 *   Best Sellers
 *   Destroyed Denim
 *   Online Only
+*   Be My Aero Valentine
 *   Active
 
 Close submenu ( Girls ) Girls
@@ -70,7 +71,6 @@ Close submenu ( Tops ) Tops
 *   Shirts
 *   Sweaters
 *   Active Tops
-*   $5.87 Graphic Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -113,6 +113,7 @@ Close submenu ( Guys ) Guys
 *   Accessories
 *   Underwear
 *   Cologne + Grooming
+*   Flip Flops
 *   Extended Sizes
 *   Clearance
 
@@ -127,7 +128,7 @@ Close submenu ( Tops ) Tops
 *   Long Sleeve
 *   Hoodies + Sweatshirts
 *   Shirts
-*   $6.87 Graphic Tees
+*   $7.87 Graphic Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -200,6 +201,7 @@ Close submenu ( Girls ) Girls
 *   Accessories
 *   Bras + Undies
 *   Swim
+*   $5.87 Graphic Tees
 
 Close submenu ( Guys ) Guys
 
@@ -210,7 +212,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-ONLINE ONLY! **Extra 30% Off Clearance** Use Code **EXTRA30** **FREE SHIPPING ON ORDERS OVER $50**
+**Buy More. Save More. $25 off $100** Use Code **SAVEMORE** **BUY 1 GET 1 FREE JEANS + FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -226,7 +228,7 @@ Menu Find a Store Aeropostale
         *   Best Sellers
         *   Destroyed Denim
         *   Online Only
-        *   Valentine's Day
+        *   Be My Aero Valentine
     
     *   Guys
         *   View All
@@ -234,6 +236,7 @@ Menu Find a Store Aeropostale
         *   Best Sellers
         *   Destroyed Denim
         *   Online Only
+        *   Be My Aero Valentine
         *   Active
 *   Girls
     
@@ -250,7 +253,6 @@ Menu Find a Store Aeropostale
         *   Shirts
         *   Sweaters
         *   Active Tops
-        *   $5.87 Graphic Tees
     
     *   Bottoms
         *   View All
@@ -299,7 +301,7 @@ Menu Find a Store Aeropostale
         *   Long Sleeve
         *   Hoodies + Sweatshirts
         *   Shirts
-        *   $6.87 Graphic Tees
+        *   $7.87 Graphic Tees
     
     *   Bottoms
         *   View All
@@ -313,6 +315,7 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Underwear
     *   Cologne + Grooming
+    *   Flip Flops
     *   Extended Sizes
     *   Clearance
     
@@ -325,6 +328,7 @@ Menu Find a Store Aeropostale
         *   Active
         *   Back to Basics
         *   Uniform
+    
 *   Jeans
     
     *   View Home
@@ -365,6 +369,7 @@ Menu Find a Store Aeropostale
         *   Accessories
         *   Bras + Undies
         *   Swim
+        *   $5.87 Graphic Tees
     
     *   Guys
         *   View All
@@ -374,6 +379,7 @@ Menu Find a Store Aeropostale
         *   Bottoms
         *   Accessories
         
+    
 
 *   Select Country
 
@@ -382,7 +388,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Girls Clearance Guys Clearance Shop Girls Shop Guys AERO GIRLS TEES In Stores &. Online $5.87 &. Up Shop Girls Graphics Shop Girls Long Sleeve Shop Girls Bodycon Shop Girls Shop Guys AERO GUYS TEES In Stores &. Online $6.87 &. Up Shop Guys Graphics Shop Guys Long Sleeve HOODIES &. SWEATSHIRTS In Stores &. Online $14 &. Up Shop Girls Shop Guys JACKETS &. VESTS In Stores &. Online $13 &. Up Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Shop Girls Shop Guys Shop Girls Shop Guys AERO GIRLS TEES In Stores &. Online $9 &. Up Shop Girls Graphics Shop Girls Long Sleeve Shop Girls Bodycon Shop Girls Shop Guys AERO GUYS TEES In Stores &. Online $8 &. Up Shop Guys Graphics Shop Guys Long Sleeve HOODIES &. SWEATSHIRTS In Stores &. Online $16 &. Up Shop Girls Shop Guys JACKETS &. VESTS In Stores &. Online $15 &. Up Shop Girls Shop Guys Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
