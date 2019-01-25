@@ -33,6 +33,7 @@ Sencha.com
 *   Docs
 *   Blog
 *   SenchaDevs
+*   Contact Us
 *   Search
 
 Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy _Published: January 24, 2004 | Last Updated: September 26, 2018_
@@ -174,7 +175,7 @@ Sencha.com
 
 US: 1 (800) 212-2802
 
-info@sencha.com Contact us
+info@sencha.com
 
 Stay Connected
 
@@ -253,4 +254,4 @@ Subscribe
     Sencha, Inc. may share your information with its parent company, Idera, Inc., its affiliates globally and its partners. For further details on how your data is used and stored, please review our Sencha Privacy Policy.
 *   EmailThis field is for validation purposes and should be left unchanged.
 
-This iframe contains the logic required to handle Ajax powered Gravity Forms. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1882987898627194&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52303&amp;fmt=gif">. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+This iframe contains the logic required to handle Ajax powered Gravity Forms. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1882987898627194&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52303&amp;fmt=gif">.
