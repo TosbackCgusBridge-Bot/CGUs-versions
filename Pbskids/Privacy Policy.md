@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Get tips for back to school season! Download the free Daniel Tiger for Parents app today!Get tips for back to school season! Download the free Daniel Tiger for Parents app today!Get it now.
+Find fun, hands-on educational activities to do with your child. Find fun, hands-on educational activities to do with your child. Go now
 
 Toggle message bar
 
