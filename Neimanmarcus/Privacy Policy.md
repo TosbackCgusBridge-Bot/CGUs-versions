@@ -76,7 +76,7 @@ Privacy Policy &. Terms of Use
     
     Service Providers: We also may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information. (b) assist us in distributing emails. (c) assist us with marketing and data collection. (d) provide us storage and analysis. (d) provide fraud prevention. and (e) provide other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them, use the information only to perform their obligations in our agreements with them, and abide by applicable data privacy laws.
     
-    Other Companies: Neiman Marcus may partner with select vendors to market goods and services to you which, based on your preferences, we believe may be of interest. If you do not wish for your information to be shared with these carefully selected outside companies, you may write to Neiman Marcus Customer Care at P.O. Box 650589, Dallas, TX, 75265-0589 or call toll-free 1-888-888-4757.
+    Other Companies: Neiman Marcus may partner with select vendors to market goods and services to you which, based on your preferences, we believe may be of interest. If you do not wish for your information to be shared with these carefully selected outside companies, you may write to Neiman Marcus Customer Care at P.O. Box 650589, Dallas, TX, 75265-0589 or call toll-free 1.888.888.4757.
     
     Business Transitions: We may transfer or share a copy of your personal information in the event that Neiman Marcus or one of its properties, affiliates, or subsidiaries goes through a business transition, such as a merger, acquisition, or selling a portion of its assets. You will be notified via email or prominent notice on our website prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of Neiman Marcus to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. Neiman Marcus specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information.
     
@@ -96,11 +96,11 @@ Privacy Policy &. Terms of Use
     
     If you choose to write to us, please include your name and address, and state one of the following:
     
-    "NO MAIL OFFERS" (if you don't want to receive offers by mail).  
+    "NO MAIL OFFERS" (if you don't want to receive offers by mail);  
     "NO PHONE OFFERS" (if you don't want to receive offers by phone). or  
     "NO PHONE OR MAIL OFFERS" (if you don't want to receive either).
     
-    These requests may also be made by calling our toll-free number: 1-888-888-4757.
+    These requests may also be made by calling our toll-free number: 1.888.888.4757.
     
     Because customer lists often are prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request.
     
@@ -124,16 +124,16 @@ Privacy Policy &. Terms of Use
     
     You may stop the use of the retargeting and/or remarketing feature by accessing the third party providers' cookie opt-out pages via the following links:
     
-    Google: https://support.google.com/ads/answer/2662922?hl=en  
-    Criteo : https://www.criteo.com/privacy/  
-    NAI Opt Out Tool: http://optout.networkadvertising.org/?c=1#!/  
-    Digital Advertising Alliance Opt Out Tool: http://optout.aboutads.info/?c=2#!/
+    Google: https://support.google.com/ads/answer/2662922  
+    Criteo: https://www.criteo.com/privacy  
+    NAI Opt Out Tool: http://optout.networkadvertising.org  
+    Digital Advertising Alliance Opt Out Tool: http://optout.aboutads.info
     
     NMG websites use third party web analytics to monitor site and app traffic and visitor behaviors.
     
     Google Analytics: To learn more about Google Analytics' privacy practices and any opt-out choices it offers, click here. (https://support.google.com/analytics/answer/6004245)
     
-    Adobe Analytics: To learn more about Adobe Analytics??? privacy practices or to opt-out of cookies set to facilitate reporting by Adobe Analytics, click here. (https://www.adobe.com/privacy/opt-out.html)
+    Adobe Analytics: To learn more about Adobe Analytics' privacy practices or to opt-out of cookies set to facilitate reporting by Adobe Analytics, click here. (https://www.adobe.com/privacy/opt-out.html)
     
     Please note that your opt-out status may be maintained by placement of an "opt-out" cookie on your device. If the cookie is removed or deleted, or you upgrade to a new version of your browser, change browsers or visit us from a different device, you will need to repeat this process to indicate your preference.
     
@@ -201,7 +201,7 @@ Privacy Policy &. Terms of Use
     
     We'll be happy to provide additional information or answer any questions. Please call us at toll-free 1.888.888.4757, or write to our Customer Care department at P.O. Box 650589, Dallas, TX 75265-0589.
     
-    Last updated on May 25, 2018.
+    Last Updated January 23, 2019
     
 *   Website Accessibility Policy
     
@@ -215,17 +215,19 @@ Privacy Policy &. Terms of Use
     *   Major activities in our application and content development life-cycle include specific steps to seek conformance with the standards referenced by this Accessibility Policy.
     *   Automated tools and manual inspection techniques are used to monitor, analyze and address accessibility issues found in the web applications and content referenced by this Accessibility Policy. The results of these tools and techniques are updated and reviewed with independent accessibility consultants on a regular basis.
     
-      
-    
     This Accessibility Policy is subject to annual review to ensure the scope, standards and best practices support NMG's commitment to diversity, inclusion and accessibility.
+    
+    Last Updated January 23, 2019
     
 *   Warranty Information
     
     Some items on our website have a manufacturer's warranty. this is noted in the product description. To obtain a written warranty for any of these items, send a specific written request to:
     
-    *   Neiman Marcus
+    *   The Neiman Marcus Group LLC
     *   P.O. Box 650589
     *   Dallas, TX 75265-0589
+    
+    Last Updated January 23, 2019
     
 *   Conditions of Use
     
@@ -239,7 +241,7 @@ Privacy Policy &. Terms of Use
     
     Copyright
     
-    The following elements of this website are the property of Neiman Marcus or our suppliers and are protected by United States and international copyright laws:
+    The following elements of this website are the property of The Neiman Marcus Group LLC or our suppliers and are protected by United States and international copyright laws:
     
     *   All text, graphics, logos, button icons, images, audio clips, digital downloads, and data compilations—both individually and as they are compiled on the site.
     *   All software.
@@ -282,7 +284,7 @@ Privacy Policy &. Terms of Use
     
     As part of our ongoing commitment to ensure that your shopping experience with NeimanMarcus.com is protected, NeimanMarcus.com will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law.
     
-    Last Updated January 18, 2019
+    Last Updated January 23, 2019
     
 *   Security Against Fraud
     
@@ -302,17 +304,16 @@ Privacy Policy &. Terms of Use
     
     *   Name and address
     *   Social Security numbers
-    f*   Credit card numbers/bank account numbers
+    *   Credit card numbers/bank account numbers
     *   PIN numbers/passwords
     
-      
     Pop-Up Advertisements Alert
     
     Some advertisements "pop up" in a separate browser window advising that you have won a contest or request that you participate in a survey to collect a prize. They may then ask that you provide personal information in order to receive your gift. By clicking on the link it is possible that you are also downloading viruses designed to capture or destroy information on your computer.
     
     Check Scam Alert
     
-    A similar but low-tech scam circulates occasionally, in the form of a check, purportedly from The Neiman Marcus Group or one of our divisions, and instructions to deposit it right away, usually in order to receive the balance of a larger sum you have "won" or that has otherwise come to you unexpectedly. You will be instructed to immediately send a payment, in the form of a second personal check, wire transfer, or similar, to some third party to cover taxes, processing fees, administrative costs, or some similarly vague expense. The check you receive in the mail likely would look quite authentic and probably would have our Neiman Marcus Group trademark on it. Do not deposit the check or follow the instructions you receive with it. The check you deposit will bounce. the check you write or funds you wire will clear, before you know about the bounce, and certainly before you can stop payment on your own check.
+    A similar but low-tech scam circulates occasionally, in the form of a check, purportedly from The Neiman Marcus Group LLC or one of our divisions, and instructions to deposit it right away, usually in order to receive the balance of a larger sum you have "won" or that has otherwise come to you unexpectedly. You will be instructed to immediately send a payment, in the form of a second personal check, wire transfer, or similar, to some third party to cover taxes, processing fees, administrative costs, or some similarly vague expense. The check you receive in the mail likely would look quite authentic and probably would have our Neiman Marcus Group trademark on it. Do not deposit the check or follow the instructions you receive with it. The check you deposit will bounce. the check you write or funds you wire will clear, before you know about the bounce, and certainly before you can stop payment on your own check.
     
     Important Risk-Reducing Tips
     
@@ -323,7 +324,7 @@ Privacy Policy &. Terms of Use
     *   Be cautious of any solicitation requesting that you deposit a check or pay a fee to collect a prize, get a job, or cover vaguely described "costs".
     *   Consider filing a report with the Federal Trade Commission and/or state attorney general's consumer protection office, or the FBI. Online complaints may be filed with the FTC at www.ftccomplaintassistant.gov, and white collar crimes may be reported to the FBI at www.ic3.gov/complaint/default.aspx.
     
-    Last Updated January 18, 2019
+    Last Updated January 23, 2019
     
 *   Mobile Terms of Use NEIMAN MARCUS MOBILE APPLICATION TERMS OF USE
     
