@@ -23,6 +23,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   The Kid Who Would Be King
     *   Serenity (2019)
     *   Bricked
+    *   Heartlock
     *   In Like Flynn
     *   The Invisibles (2019)
     *   Jihadists
@@ -71,9 +72,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Jason Reitman is Directing ‘Ghostbusters 3’. Here’s Everything We Know Read More
+    *   ‘Shazam!’ Set Visit: The Superhero Inside All of Us Read More
     *   Next 3 Action Thrillers: 'Miss Bala,' 'Cold Pursuit,' 'Alita: Battle Angel' Read More
-    *   Spider-Man Meets Nick Fury in First ‘Spider-Man: Far From Home’ Trailer. Here’s Everything We Know Read More
+    *   ‘Shazam’ Set Visit: A Different Kind of DC Superhero Movie Read More
     
     Explore Content
     *   Movie Reviews
