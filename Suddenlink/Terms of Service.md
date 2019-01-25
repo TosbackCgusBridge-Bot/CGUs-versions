@@ -199,7 +199,6 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
     *   Email
     *   Pricing &. Packages
 *   Products
-    *   Internet
     *   Phone
     *   Security
     *   Experience
