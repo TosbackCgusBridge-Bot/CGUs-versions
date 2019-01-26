@@ -1,6 +1,6 @@
 Privacy Policy
 
-**LAST UPDATED: May 2017**
+**LAST UPDATED: Jan 2019**
 
 **PRIVACY POLICY**
 
@@ -129,7 +129,7 @@ We will try to comply with your request(s) as soon as reasonably practicable.  
 
 **How you can access and update your Personal Information** 
 
-If you would like to review and update the Personal Information collected from you during registration, you may visit the Your Account page.  You may also contact our customer service department by email at members@thestreet.com or by telephone at (866) 321-8726, between the hours of 8:00 a.m. and 9:00 p.m. ET. 
+If you would like to review and update the Personal Information collected from you during registration, you may visit the Your Account page.  You may also contact our customer service department by email at members@thestreet.com or by telephone at (866) 321-8726, between the hours of 7:00 a.m. and 6:00 p.m. EST. 
 
 For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request.  We will try to comply with your request as soon as reasonably practicable.  Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change.
 
