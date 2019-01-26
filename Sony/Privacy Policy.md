@@ -145,7 +145,7 @@ Learn More About aibo
 
 Revealing new gameplay for a Far Cry New Dawn expedition set in Arizona – book your travel now! pic.twitter.com/9WDefTNIJh
 
-2 days ago
+3 days ago
 
 View Tweet
 
