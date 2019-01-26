@@ -73,7 +73,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   ‘Shazam!’ Set Visit: The Superhero Inside All of Us Read More
-    *   Next 3 Action Thrillers: 'Miss Bala,' 'Cold Pursuit,' 'Alita: Battle Angel' Read More
+    *   The Week in Movie News: Oscar Nominations, Sundance Preview and More Read More
     *   ‘Shazam’ Set Visit: A Different Kind of DC Superhero Movie Read More
     
     Explore Content
