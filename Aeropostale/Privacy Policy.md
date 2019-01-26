@@ -164,9 +164,12 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   High-Waisted Ankle Jegging
 *   High-Waisted Jegging
 *   Super High-Waisted Jegging
+*   Cropped Jegging
 *   Skinny
 *   Bootcut
 *   Cheeky
+*   Wide Leg
+*   Overalls
 *   Flex Effects
 *   Eco-Friendly Repreve
 
@@ -339,9 +342,12 @@ Menu Find a Store Aeropostale
         *   High-Waisted Ankle Jegging
         *   High-Waisted Jegging
         *   Super High-Waisted Jegging
+        *   Cropped Jegging
         *   Skinny
         *   Bootcut
         *   Cheeky
+        *   Wide Leg
+        *   Overalls
         *   Flex Effects
         *   Eco-Friendly Repreve
     
@@ -388,7 +394,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Shop Girls Shop Guys Shop Girls Shop Guys AERO GIRLS TEES In Stores &. Online $9 &. Up Shop Girls Graphics Shop Girls Long Sleeve Shop Girls Bodycon Shop Girls Shop Guys AERO GUYS TEES In Stores &. Online $8 &. Up Shop Guys Graphics Shop Guys Long Sleeve HOODIES &. SWEATSHIRTS In Stores &. Online $16 &. Up Shop Girls Shop Guys JACKETS &. VESTS In Stores &. Online $15 &. Up Shop Girls Shop Guys Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Shop Girls Shop Guys Shop Girls Shop Guys AERO GIRLS TEES In Stores &. Online $9 &. Up Shop Girls Graphics Shop Girls Long Sleeve Shop Girls Bodycon Shop Girls Shop Guys AERO GUYS TEES In Stores &. Online $8 &. Up Shop Guys Graphics Shop Guys Long Sleeve HOODIES &. SWEATSHIRTS In Stores &. Online $16 &. Up Shop Girls Shop Guys JACKETS &. VESTS In Stores &. Online $15 &. Up Shop Girls Shop Guys Girls Clearance Guys Clearance Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -427,3 +433,17 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
