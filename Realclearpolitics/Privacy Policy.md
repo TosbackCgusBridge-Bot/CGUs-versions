@@ -109,53 +109,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Kay James_: Trump Has a Great Deal to Brag About in State of the Union
+*   _Stolberg &. Fandos_: Trump Announces Deal to End Partial Shutdown for 3 Weeks
     
-*   _Jamelle Bouie_: Trump's Wall of Shame and America's White Racial Hostility
+*   _Michael Kruse_: Roger Stone's Last Dirty Trick
     
-*   _Karin McQuillan_: Colorblind Fairness Will Win Against Dems' Race-Baiting
+*   _Byron York_: In New Indictment, What Is Stone Charged With Doing?
     
-*   _Amanda Marcotte_: No Matter How Long It Takes, Dems Should Stand Firm
+*   _Matt Ford_: Uh-Oh: How Roger Stone Endangers Trump's Presidency
     
-*   _Peter Beinart_: Democrats Are Blowing a Golden Opportunity
+*   _Margot Cleveland_: Graham Must Pursue Those Who Lied About Kavanaugh
     
-*   _Jonah Goldberg_: Trump Could Very Well Face a Primary Challenge
+*   _Sarah Valliere_: I'm Moving Home to Texas to Provide Abortions
     
-*   _Ace_: Conservatives Should Defund National Review
+*   _Paul Sperry_: School-Safety Panel Said to Pull Punches, Fearing 'Racist' Tag
     
-*   _David Leonhardt_: Three Impeachment Options for House Democrats
+*   _Gil Spencer_: Quite a Few Questions Nathan Phillips Should Answer
     
-*   _Alan Dershowitz_: Would Democrats Violate the Constitution to 'Safeguard' It?
+*   _Brian Beutler_: The Covington Students and the Poison of Trumpism
     
-*   _Steven Mosher_: How Communism Is Dooming China's Economy
+*   _Kurt Schlichter_: Yeah, the Covington Kids Have a Legal Case
     
-*   _Carl Cannon_: The Sterling Example of Churchill's Stirring Words
+*   _Maxim Suchkov_: Putin, Erdogan Agree on Idlib But Maneuver on Kurds
     
-*   _E.J. Dionne_: There's Nothing 'Moderate' About Caving In to Trump
+*   _Wesley Pruden_: The Best and Worst Times for America
     
-*   _Edward Morrissey_: Why Trump's Border Compromise Is a Shrewd Move
+*   _Rachel Bitecofer_: Why Trump Will Lose in 2020
     
-*   _Alex Shephard_: This Is Nancy Pelosi's Finest Hour
+*   _Peter Roff_: Trump Will Be Harder to Beat Than Democrats Think
     
-*   _David Clarke_: Wake Up Conservatives: Race-Hustling Media Is the Problem
+*   _Marc Caputo_: New Numbers Show Florida Is Trump's State to Lose
     
-*   _Noah Berlatsky_: Wearing MAGA Hat Provokes and Insults People of Color
+*   _Allahpundit_: Elizabeth Ocasio-Warren: Let's Take a Few Trillion From Rich
     
-*   _David Azerrad_: Smirking While White: The Media's Frenzy of Hate
+*   _Eric Levitz_: The Founders Agree w/AOC: Billionaires a Threat to Democracy
     
-*   _Caitlin Flanagan_: Media Botched Covington Story &. Damage Will Be Lasting
+*   _Marc Thiessen_: If Alexandria Ocasio-Cortez Were a Conservative
     
-*   _Steve Israel_: The Strange Journey of Rudy Giuliani
+*   _Simon Tisdall_: Trump's Ship of Fools Heading for the Rocks in Venezuela
     
-*   _Victor Davis Hanson_: Auditing Our Auditors--Time for a 2nd Special Counsel?
+*   _Matthew Continetti_: Why Trump Is Right to Push for Maduro to Go
     
-*   _Myra Adams_: Why Kamala Harris Will Win the Democratic Nomination
+*   _Anne Applebaum_: A Crisis of Conservatism on Both Sides of the Atlantic
     
-*   _Wierson &. Hillsman_: Why Starbucks' Schultz Might Have a Shot at White House
+*   _Angelo Codevilla_: Desperate Embrace at Europe's Core
     
-*   _Elizabeth Brown_: How Dems Have Doomed Over-the-Counter Contraception
+*   _Lili Loofbourow_: The MAGA Teen News Cycle &. Our Toxic Era of 'Event Politics'
     
-*   _Sabrina Schaeffer_: If Future Is Female, Republicans Need Women Candidates
+*   _Jim Treacher_: I'm Ready to Buy a MAGA Hat Just to Spite Child-Hating A-Holes
     
 
 *   Previous
@@ -226,10 +226,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Delays State of the Union Until Partial Shutdown Ends
-*   Votes on Senate Bills Seen as Progress Even If They Fail
-*   O'Donnell: Pelosi "Crushed" Trump Over State of the Union
-*   U.S. Recognizes Opposition Leader as Venezuela's Interim President
+*   Trump, Congress Leaders Reach Deal to End Partial Shutdown for 3 Weeks
+*   Mueller Team Charges Stone With Lying, Obstruction, Witness Tampering
+*   CNN Airs Dramatic Footage of FBI Arresting Stone
+*   U.S. Faces Tough Choices as It Weighs Next Moves on Venezuela
 *   Hillsdale: A Small College With Big Ambitions
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -243,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve38
+    *   Disapprove58Disapprove +20
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve45
+    *   Disapprove54Disapprove +9
 *   President Trump Job ApprovalFOX News
     *   Approve43
     *   Disapprove54Disapprove +11
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove56Disapprove +12
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve40
     *   Disapprove55Disapprove +15
-*   Congressional Job ApprovalReuters/Ipsos
-    *   Approve23
-    *   Disapprove70Disapprove +47
 
 More Latest Polls In The News
 
-*   Pelosi: Republicans Have "Let Them Eat Cake" Attitude Toward Federal Workers. "I Don't Quite Understand Why"
-*   Wilbur Ross: Federal Workers Should Be Able To Rely On Credit Or Loans Until They Get Paid
+*   Bernie Sanders: It Is Time For The American People To Tell This President "He Is Not A Dictator"
+*   Chuck Schumer: Longest Shutdown In History Accomplished Nothing But "Pain And Suffering"
+*   Lindsey Graham to Democrats: Please Give President Trump A Deal On The Wall
+*   Warren on Wealth Tax: Assets Worldwide Will Be Taxed With A "Very High Rate of Monitoring, Auditing"
 *   Dem Sen. Bennet Rips Cruz On Senate Floor: Your "Crocodile Tears" Are "Too Hard For Me To Take"
-*   Kamala Harris on 2020: Our Grandchildren Are Going To Ask What We Did At This "Inflection Point" In History
-*   Sam Donaldson: Trump and Kellyanne Conway Have "Symbiotic" Relationship Like Mongoose And Cobra
 
 *   Politics
 *   Policy
