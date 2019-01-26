@@ -1,4 +1,4 @@
-*   AFCNFCSun, 3:00 pm ET
+*   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
 
 *   News
 *   Scores
@@ -20,7 +20,7 @@
 *   NFL Network
 *   Photos
 
-*   AFCNFCSun, 3:00 pm ET
+*   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
 
 *   News
 *   Scores
