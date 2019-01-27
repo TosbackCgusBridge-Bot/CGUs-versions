@@ -33,9 +33,9 @@ Hot Topics
 
 *   NY abortion
 *   Missionary
-*   Robot marriage
-*   Covington
-*   Asia Bibi
+*   Kate Hudson
+*   Georgia pastor
+*   Covington boys
 
 About Us
 
