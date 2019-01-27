@@ -8,6 +8,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   BLANKNYC
+    *   PJ SALVAGE
+    *   Tart
+    *   Franco Sarto Up to 55% Off
+    *   Dresses from Gabby Skye &. More
+    *   On Trend: Sterling Silver &. More Up to 85% Off
+    *   Go Couture Tees &. More Up to 80% Off
+    *   Free Shipping: Comforters &. More Up to 75% Off
+    *   Valentino by Mario Valentino
+    *   Hart Schaffner Marx
+    *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    *   Elodie
+    *   Get Fit: Fresh Activewear
+    *   Parkas &. Down Outerwear Starting at $50
+    *   Statement Jewelry Under $20
+    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
+    *   Free Shipping: Spring-Ready Duvet Sets &. More
+    *   skinChemists
+    *   Snow Day Ready: Kids' Must-Haves
+    *   Reef for the Family
+    *   Prints &. Studs: Boots, Sandals &. More Up to 60% Off
+    *   Threads 4 Thought Under $50
+    *   Free Shipping: Unique Metal Decor &. More
+    
     *   Free People Up to 60% Off
     *   Free People Lingerie &. More Starting at $7
     *   Free People Shoes Starting at $30
@@ -27,56 +51,55 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   On-Trend Bags Up to 70% Off
     *   Business Casual: Men's Shoes Up to 60% Off
     *   Jean Claude Up to 80% Off
-    *   Free Shipping: Spring Bedding
-    *   Green Amethyst Jewelry &. More Starting at $15
-    
-    *   Free Shipping: Amrapur Sheets Up to 85% Off
-    *   Resort Edit: Swim &. Accessories from $15
-    *   LAGOS
-    *   Loveappella
-    *   Date Night: Valentine's-Ready Dresses &. Jumpsuits
-    *   Clarks Comfort Shoes from $39
-    *   DL1961 Up to 70% Off
-    *   Sugarlips
-    *   Mad for Plaid: Jackets, Dresses &. More
-    *   Wear Everyday Tees ft Psycho Bunny
+    *   Mia Belle Girls
     *   Korean Beauty: Leaders Cosmetics
     *   Free Shipping: Home Organization Essentials
-    *   Gentleman's Closet: Suiting, Accessories &. More
-    *   Perfect Pumps Starting at $30
-    *   Christopher Kon Up to 75% Off
-    *   Men's Sweaters Under $100
     *   Free Shipping: Kantha Blankets &. More
+    
     *   FREEZE Character Hoodies &. Tees
     *   Playgro
+    *   Resort Edit: Swim &. Accessories from $15
     *   Resort Edit: Slides, Espadrilles &. More from $25
     *   Resort Edit: Men's Swim &. More Up to 70% Off
-    
     *   Resort Edit: Men's Slides, Sneakers &. More from $20
     *   Luxe Locks: Hair Tools Blowout
-    *   Mia Belle Girls
-    *   Nest Jewelry Gemstones &. More Up to 70% Off
     *   World's Best Tweezers
     *   Add to Your Mix: Kitchen Storage &. More
-    *   Splendid Kids
     *   Men's Supra Sneakers Up to 55% Off
     *   KitchenAid
     *   Missoni Home
     *   Personal Touch: Monogrammed Barware &. More
-    *   Rodial Skin Care
+    *   Free Shipping: Amrapur Sheets Up to 85% Off
+    *   Green Amethyst Jewelry &. More Starting at $15
+    *   Free Shipping: Spring Bedding
     *   Free Shipping: Pop Art Pillows Under $24
-    *   $50 &. Under: Robert Wayne
-    *   RapidLash
-    *   Korean Beauty: Masks, Cleansers &. More
+    *   Rodial Skin Care
     *   Bluebellgray Bedding &. More
     *   Free Shipping: Kitchen Blowout
     *   Ultra-Soft Towels Starting at $10
-    *   Free Shipping: iCanvas Art
+    *   Date Night: Valentine's-Ready Dresses &. Jumpsuits
 *   WomenShop Sale Events
     
+    *   BLANKNYC
+    *   PJ SALVAGE
+    *   Tart
+    *   Franco Sarto Up to 55% Off
+    *   Dresses from Gabby Skye &. More
+    *   On Trend: Sterling Silver &. More Up to 85% Off
+    *   Go Couture Tees &. More Up to 80% Off
+    *   Valentino by Mario Valentino
+    *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    *   Elodie
+    *   Get Fit: Fresh Activewear
+    *   Statement Jewelry Under $20
+    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
+    *   skinChemists
+    *   Reef for the Family
+    *   Prints &. Studs: Boots, Sandals &. More Up to 60% Off
     *   Free People Up to 60% Off
     *   Free People Lingerie &. More Starting at $7
     *   Free People Shoes Starting at $30
+    
     *   Beyond Threads Up to 70% Off
     *   Re:Named Apparel
     *   Simply Couture Up to 75% Off
@@ -87,26 +110,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Skinny Tan Starting at $10
     *   DAFNI Ceramic Hot Brushes
     *   On-Trend Bags Up to 70% Off
-    *   Green Amethyst Jewelry &. More Starting at $15
-    *   Resort Edit: Swim &. Accessories from $15
-    *   LAGOS
-    
-    *   Loveappella
-    *   Date Night: Valentine's-Ready Dresses &. Jumpsuits
-    *   Clarks Comfort Shoes from $39
-    *   DL1961 Up to 70% Off
-    *   Sugarlips
-    *   Mad for Plaid: Jackets, Dresses &. More
     *   Korean Beauty: Leaders Cosmetics
-    *   Perfect Pumps Starting at $30
-    *   Christopher Kon Up to 75% Off
+    *   Resort Edit: Swim &. Accessories from $15
     *   Resort Edit: Slides, Espadrilles &. More from $25
     *   Luxe Locks: Hair Tools Blowout
-    *   Nest Jewelry Gemstones &. More Up to 70% Off
     *   World's Best Tweezers
+    *   Green Amethyst Jewelry &. More Starting at $15
     *   Rodial Skin Care
-    *   RapidLash
-    *   Korean Beauty: Masks, Cleansers &. More
+    *   Date Night: Valentine's-Ready Dresses &. Jumpsuits
     
     Shop By Category
     *   Clothing
@@ -117,18 +128,18 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   MenShop Sale Events
     
+    *   Hart Schaffner Marx
+    *   Parkas &. Down Outerwear Starting at $50
+    *   Reef for the Family
+    *   Threads 4 Thought Under $50
     *   Lucky Brand Men's Denim
     *   Men's Active Under $30
+    
     *   Business Casual: Men's Shoes Up to 60% Off
     *   Jean Claude Up to 80% Off
-    *   Wear Everyday Tees ft Psycho Bunny
-    *   Gentleman's Closet: Suiting, Accessories &. More
-    
-    *   Men's Sweaters Under $100
     *   Resort Edit: Men's Swim &. More Up to 70% Off
     *   Resort Edit: Men's Slides, Sneakers &. More from $20
     *   Men's Supra Sneakers Up to 55% Off
-    *   $50 &. Under: Robert Wayne
     
     Shop By Category
     *   Clothing
@@ -136,27 +147,28 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Snow Day Ready: Kids' Must-Haves
+    *   Reef for the Family
     *   Kids' Shoes We Love Under $25
+    *   Mia Belle Girls
     *   FREEZE Character Hoodies &. Tees
     *   Playgro
-    *   Mia Belle Girls
-    *   Splendid Kids
     
     Shop By Category
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
     *   Girls' Shoes
-    *   Girls' Sizes 7-16
-    *   Boys' Sizes 8-20
-    *   Baby Boy
     *   Boys' Shoes
-    *   Baby Girl
+    *   Boys' Sizes 8-20
+    *   Girls' Sizes 7-16
     *   Toys
+    *   Baby Girl
 *   HomeShop Sale Events
     
+    *   Free Shipping: Comforters &. More Up to 75% Off
+    *   Free Shipping: Spring-Ready Duvet Sets &. More
+    *   Free Shipping: Unique Metal Decor &. More
     *   Free Shipping: Hand-Painted Replicas
-    *   Free Shipping: Spring Bedding
-    *   Free Shipping: Amrapur Sheets Up to 85% Off
     *   Free Shipping: Home Organization Essentials
     *   Free Shipping: Kantha Blankets &. More
     *   Add to Your Mix: Kitchen Storage &. More
@@ -164,22 +176,26 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     
     *   Missoni Home
     *   Personal Touch: Monogrammed Barware &. More
+    *   Free Shipping: Amrapur Sheets Up to 85% Off
+    *   Free Shipping: Spring Bedding
     *   Free Shipping: Pop Art Pillows Under $24
     *   Bluebellgray Bedding &. More
     *   Free Shipping: Kitchen Blowout
     *   Ultra-Soft Towels Starting at $10
-    *   Free Shipping: iCanvas Art
     
     Shop By Category
+    *   Bedding
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bedding
     *   Storage &. Organization
     *   Bath
     *   Luggage &. Travel
     *   Outdoor Living
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    *   skinChemists
     *   Beauty By Earth
     *   Skinny Tan Starting at $10
     *   DAFNI Ceramic Hot Brushes
@@ -187,13 +203,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Luxe Locks: Hair Tools Blowout
     *   World's Best Tweezers
     *   Rodial Skin Care
-    *   RapidLash
-    *   Korean Beauty: Masks, Cleansers &. More
     
     Shop By Category
     *   Skin Care
-    *   Tools &. Accessories
     *   Makeup
+    *   Tools &. Accessories
     *   Hair Care
     *   Bath &. Body
 
