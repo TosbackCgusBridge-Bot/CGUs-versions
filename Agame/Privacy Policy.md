@@ -190,10 +190,10 @@ View more results
     *   Ellie: Get Ready With Me
     *   Electricman 2: Stickman Fighting Game
     *   Burger Restaurant Express
-    *   Penguin Diner: Food Restaurant Game
     *   Bartender
-    *   Papa's Freezeria
+    *   Penguin Diner: Food Restaurant Game
     *   Love Tester 2.0
+    *   Papa's Freezeria
     *   Create a House: Building Game
     *   Papa's Cupcakeria
     *   Back To School: Princesses Rush
@@ -224,8 +224,8 @@ View more results
     *   Bike Racing: Motorcycle Game
     *   Madalin Cars Multiplayer
     *   Uphill Rush 7: Waterpark
-    *   Bus Man Parking 3D
     *   Happy Wheels
+    *   Bus Man Parking 3D
     *   Extreme Off-Road Cars 2
     *   Parking Training
     *   Russian Car Driver
@@ -258,8 +258,8 @@ View more results
     *   Neon Biker
     *   8-Ball
     *   Ultimate Boxing
-    *   Billiards Master Pro
     *   Goalkeeper Premier: Football Game
+    *   Billiards Master Pro
     *   4x4 Soccer
 *   *   Multiplayer
     *   Action
