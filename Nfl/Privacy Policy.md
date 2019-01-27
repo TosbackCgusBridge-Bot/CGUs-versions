@@ -30,7 +30,7 @@
 *   Super Bowl
 
 *   Pro Bowl
-*   Shop
+*   Scores
 
 *   *   Game Pass
     *   Playoff Picture
