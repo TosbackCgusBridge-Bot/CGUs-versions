@@ -31,8 +31,8 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   NY abortion
-*   Missionary
+*   Village Church
+*   Silicon Valley
 *   Kate Hudson
 *   Georgia pastor
 *   Covington boys
