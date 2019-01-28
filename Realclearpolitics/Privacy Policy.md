@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -241,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve43
+    *   Disapprove54Disapprove +11
+*   Direction of CountryNBC News/Wall St. Jrnl
+    *   Right Direction28
+    *   Wrong Track63Wrong Track +35
 *   President Trump Job ApprovalABC News/Wash Post
     *   Approve38
     *   Disapprove58Disapprove +20
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve45
     *   Disapprove54Disapprove +9
-*   President Trump Job ApprovalFOX News
-    *   Approve43
-    *   Disapprove54Disapprove +11
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve40
-    *   Disapprove55Disapprove +15
 
 More Latest Polls In The News
 
+*   Jerome Corsi: "Happy To Testify" That Roger Stone Asked Me To Reach Out To WikiLeaks
+*   Rep. Adam Schiff on Mueller Probe: If There Is Any Innocent Explanation, Why All The Lies?
+*   Joe Manchin: Democrats Want A "Holistic Approach" To Immigration Reform. Bring In The Professionals
+*   Scalise: Democrats Will Have To Put A Real Number On Paper For Border Security In Next Three Weeks
 *   Coulter vs. Maher: Attack Trump For Failed Border Wall Promise, "He Lied". You're Wasting Time With Russia
-*   Bernie Sanders: It Is Time For The American People To Tell This President "He Is Not A Dictator"
-*   Chuck Schumer: Longest Shutdown In History Accomplished Nothing But "Pain And Suffering"
-*   Lindsey Graham to Democrats: Please Give President Trump A Deal On The Wall
-*   Warren on Wealth Tax: Assets Worldwide Will Be Taxed With A "Very High Rate of Monitoring, Auditing"
 
 *   Politics
 *   Policy
