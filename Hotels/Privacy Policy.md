@@ -6,7 +6,7 @@ Menu
 
 *   Hotel Deals
 *   Packages
-*   Groups
+*   Groups &. Meetings
 *   Gift Cards
 *   List your property
 *   Help
