@@ -1,4 +1,8 @@
+SUPER BOWL
+
 *   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
+*   Move the SticksPatriots vs. Rams preview | Super Bowl LIII
+*   NFL GameDay PrimeSharpe, L.T. make final score predictions for Super Bowl LIII
 
 *   News
 *   Scores
@@ -20,7 +24,11 @@
 *   NFL Network
 *   Photos
 
+SUPER BOWL
+
 *   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
+*   Move the SticksPatriots vs. Rams preview | Super Bowl LIII
+*   NFL GameDay PrimeSharpe, L.T. make final score predictions for Super Bowl LIII
 
 *   News
 *   Scores
@@ -29,7 +37,7 @@
 *   Highlights
 *   Super Bowl
 
-*   Pro Bowl
+*   Super Bowl
 *   Scores
 
 *   *   Game Pass
