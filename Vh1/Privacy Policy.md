@@ -11,7 +11,7 @@
     *   Love &. Hip Hop New York
     *   RuPaul's Drag Race
     *   RuPaul’s Drag Race All Stars
-    *   T.I. &. Tiny: Friends &. Family HustleSee all Shows
+    *   Trailblazer HonorsSee all Shows
 *   News
 *   App
 *   Watch Live TV
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBlack Ink CrewBlack Ink Crew ChicagoCartel CrewLove &. Hip Hop MiamiLove &. Hip Hop New YorkRuPaul's Drag RaceRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family Hustlesee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBlack Ink CrewBlack Ink Crew ChicagoCartel CrewLove &. Hip Hop MiamiLove &. Hip Hop New YorkRuPaul's Drag RaceRuPaul’s Drag Race All StarsTrailblazer Honorssee all Shows
 *   News
 *   App
 *   Watch Live TV
