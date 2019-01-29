@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off full-price styles!
+Receive free two-day shipping to most U.S. addresses. 40% off full-price styles!
 
-code: FIREWOOD pin: 4367 DETAILS
+code: GLISTEN pin: 9632 DETAILS
 
 Customer Service Menu
 
