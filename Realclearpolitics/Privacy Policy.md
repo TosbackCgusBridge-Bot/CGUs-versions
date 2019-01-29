@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -109,53 +107,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Peter Baker_: For a President Consumed With Winning, a Stinging Defeat
+*   _Freddy Gray_: Trump Didn't Cave
     
-*   _Mark Davis_: Calculation or Cave? Time Will Tell
+*   _Joan Vennochi_: Pelosi Takes Trump and Washington to School
     
-*   _Ezra Klein_: The Vindication of Speaker Pelosi
+*   _Steve Cortes_: Democrats Supported Walls Before They Were Against Them
     
-*   _Dave Ray_: Schumer's $25 Billion Offer Was Never in Earnest
+*   _David Axelrod_: Kamala Harris' Big Challenge
     
-*   _John Podesta_: It Might Now Be Roger Stone's Time in the Barrel
+*   _Edward-Isaac Dovere_: Howard Schultz Could Help Get Trump Re-Elected
     
-*   _Rush Limbaugh_: Mueller Always Knew There Was No Collusion
+*   _Mollie Hemingway_: Bigotry Against Christians Harms Media's Reputation
     
-*   _Todd Purdum_: Trumpworld Follows a 'Godfather' Script--Literally
+*   _Michael Daly_: The Despicable History of Roger Stone
     
-*   _Jonathan Turley_: Stone Arrest Bad News for Dems Seeking Impeachment
+*   _Andrew McCarthy_: Stone Charges Show There's No Trump-Russia Conspiracy
     
-*   _Fabiana Perera_: What's Really Going On in Venezuela
+*   _Frank Miele_: How About a 'Grand Compromise' on D.C. Statehood?
     
-*   _Bret Stephens_: Yes, Venezuela Is a Socialist Catastrophe
+*   _Michael Kruse_: Has Grief Made Biden a More Formidable 2020 Candidate?
     
-*   _Andy Puzder_: Thanks to Trump, China's Economy Is Rapidly Decelerating
+*   _Cas Mudde_: Biden Is the Worst Candidate for the Democrats
     
-*   _Fareed Zakaria_: Davos Is a Microcosm of World--and Outlook Is Grim
+*   _Alexander Bolton_: Border Wall Negotiations Look Brutal for Trump
     
-*   _Steve Miller_: Now Schools Get Defense Budgets. Watch Them Grow.
+*   _Kevin McCullough_: Why Democrats Should Be More Panicked Than Ever
     
-*   _Ashley Pratte_: Biden Is the Democrats' Best Chance to Win in 2020
+*   _E.J. Dionne_: Border Wall Shows Intellectual Shutdown on the Right
     
-*   _Francey Hakes_: Who Allowed FISA Surveillance Abuse? New AG Must Find Out
+*   _Alan Dershowitz_: Stone Indictment Follows Concerning Mueller Pattern
     
-*   _Paul Callan_: Mueller Raid Was Intended to Send Message to Other Witnesses
+*   _Richard Wolffe_: Like Trump's Favorite Steaks, Stone Is Well and Truly Done
     
-*   _Cortney O'Brien_: Sarah Sanders: So Clinton Will Be Arrested Now Right?
+*   _Byron York_: On Closer Examination, Stone Arrest Is Less Than It Seems
     
-*   _Stolberg &. Fandos_: Trump Announces Deal to End Partial Shutdown for 3 Weeks
+*   _Simon Moya-Smith_: America Mocks and Dehumanizes Natives at Every Turn
     
-*   _Michael Kruse_: Roger Stone's Last Dirty Trick
+*   _Victor Davis Hanson_: The Covington Lie: We've Been Here Before
     
-*   _Byron York_: In New Indictment, What Is Stone Charged With Doing?
+*   _Bjorn Lomborg_: What Science Could Teach Dems About Climate Change
     
-*   _Matt Ford_: Uh-Oh: How Roger Stone Endangers Trump's Presidency
+*   _Brown &. Perry_: The World Is Two Minutes From Doom
     
-*   _Margot Cleveland_: Graham Must Pursue Those Who Lied About Kavanaugh
+*   _John Merline_: The 'Doomsday Clock' Is Little More Than a Liberal Angst Meter
     
-*   _Sarah Valliere_: I'm Moving Home to Texas to Provide Abortions
+*   _Bill Scher_: Britain's Brexiteers Should Copy Trump and Fold
     
-*   _Paul Sperry_: School-Safety Panel Said to Pull Punches, Fearing 'Racist' Tag
+*   _Frank Bruni_: The Loneliness of the Moderate Democrat
     
 
 *   Previous
@@ -226,11 +224,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump, Congress Leaders Reach Deal to End Partial Shutdown for 3 Weeks
+*   Trump Sets Odds of Reaching Deal on Border Wall at Less Than 50-50
+*   Kamala Harris Kicks Off 2020 Campaign, Says U.S. Is at "Inflection Point"
+*   Roger Stone Decries FBI's "Gestapo Tactics"
 *   Mueller Team Charges Stone With Lying, Obstruction, Witness Tampering
-*   CNN Airs Dramatic Footage of FBI Arresting Stone
 *   U.S. Faces Tough Choices as It Weighs Next Moves on Venezuela
-*   Hillsdale: A Small College With Big Ambitions
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +241,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+*   President Trump Job ApprovalMonmouth
     *   Approve43
-    *   Disapprove54Disapprove +11
-*   Direction of CountryNBC News/Wall St. Jrnl
-    *   Right Direction28
-    *   Wrong Track63Wrong Track +35
-*   President Trump Job ApprovalABC News/Wash Post
-    *   Approve38
-    *   Disapprove58Disapprove +20
+    *   Disapprove53Disapprove +10
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve45
     *   Disapprove54Disapprove +9
+*   Congressional Job ApprovalMonmouth
+    *   Approve18
+    *   Disapprove73Disapprove +55
+*   Direction of CountryRasmussen Reports
+    *   Right Direction34
+    *   Wrong Track61Wrong Track +27
 
 More Latest Polls In The News
 
+*   Acosta to Sarah Huckabee Sanders: Does Trump Believe His Presidency Is In Danger After Indictments?
+*   Pat Buchanan: Roger Stone Indictment Shows Trump Campaign Didn't Collude, Was Out Of The Loop
+*   Kamala Harris Formally Launches 2020 Presidential Campaign: "America, We Are Better Than This"
+*   Brokaw: Hispanics Should Work Harder At Assimilation, Learn To Speak English. "Cultures Are Conflicting"
 *   Jerome Corsi: "Happy To Testify" That Roger Stone Asked Me To Reach Out To WikiLeaks
-*   Rep. Adam Schiff on Mueller Probe: If There Is Any Innocent Explanation, Why All The Lies?
-*   Joe Manchin: Democrats Want A "Holistic Approach" To Immigration Reform. Bring In The Professionals
-*   Scalise: Democrats Will Have To Put A Real Number On Paper For Border Security In Next Three Weeks
-*   Coulter vs. Maher: Attack Trump For Failed Border Wall Promise, "He Lied". You're Wasting Time With Russia
 
 *   Politics
 *   Policy
