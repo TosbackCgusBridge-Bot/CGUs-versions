@@ -7,27 +7,23 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Glass (2019)
     *   The Upside
-    *   Dragon Ball Super: Broly
     *   Aquaman
+    *   The Kid Who Would Be King
     *   Spider-Man: Into the Spider-Verse
+    *   Green Book
     *   A Dog's Way Home
+    *   Serenity (2019)
     *   Escape Room (2019)
+    *   Dragon Ball Super: Broly
     *   Mary Poppins Returns (2018)
-    *   Bumblebee
-    *   On the Basis of Sex
-    *   The Mule (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Kid Who Would Be King
-    *   Serenity (2019)
-    *   Bricked
-    *   Heartlock
-    *   In Like Flynn
-    *   The Invisibles (2019)
-    *   Jihadists
-    *   Never Look Away
+    *   Miss Bala (2019)
+    *   Arctic (2018)
+    *   Ek Ladki Ko Dekha Toh Aisa Laga
+    *   The Wild Pear Tree
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -36,7 +32,6 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Miss Bala (2019)
     *   Cold Pursuit
     *   The Lego Movie 2: The Second Part
     *   The Prodigy (2019)
@@ -45,6 +40,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Isn't It Romantic
     *   Alita: Battle Angel
     *   How to Train Your Dragon: The Hidden World
+    *   Total Dhamaal
+    *   Tyler Perry's A Madea Family Funeral
     *   See All Coming Soon
     
     Explore More
@@ -73,7 +70,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   ‘Shazam!’ Set Visit: The Superhero Inside All of Us Read More
-    *   The Week in Movie News: Oscar Nominations, Sundance Preview and More Read More
+    *   Next 3 Exciting Family Adventures: 'Dumbo,' 'Detective Pikachu,' 'Aladdin' Read More
     *   ‘Shazam’ Set Visit: A Different Kind of DC Superhero Movie Read More
     
     Explore Content
@@ -327,7 +324,7 @@ Offers
     
     When you buy $8 in Ivory Products. SEE DETAILS
     
-*   Get $8 towards a movie ticket to see BumbleBee in theaters 12/21!
+*   Get $8 towards a movie ticket to see BumbleBee in theaters now!
     
     When you purchase participating Paramount DVD or BluRay. Offer Expires on 2/28/2019. ENTER NOW
     
