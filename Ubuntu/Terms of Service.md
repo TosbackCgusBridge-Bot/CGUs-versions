@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Taking Octavia for a ride with Kubernetes on OpenStack ›
 *   Our new team practices site, and the democratic repository behind it ›
 *   Zero to Snap – Rev up your packaging ›
 *   Ubuntu Core 18 released for secure, reliable IoT devices ›
 *   What will be the biggest development trends in 2019? ›
-*   Where eagles snap – snap security overview ›
