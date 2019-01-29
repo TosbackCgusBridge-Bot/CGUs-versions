@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Village Church
 *   Silicon Valley
-*   Kate Hudson
 *   Georgia pastor
-*   Covington boys
+*   R. Kelly
+*   Village Church
+*   Kate Hudson
 
 About Us
 
