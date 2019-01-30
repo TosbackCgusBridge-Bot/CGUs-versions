@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -107,53 +109,53 @@
     *   About
     *   Media Kit
 
-*   _Freddy Gray_: Trump Didn't Cave
+*   _Byron York_: In Border Talks, a New Fight for Barrier Deniers
     
-*   _Joan Vennochi_: Pelosi Takes Trump and Washington to School
+*   _Jill Filipovic_: It's Kamala's Race Right Now
     
-*   _Steve Cortes_: Democrats Supported Walls Before They Were Against Them
+*   _David Marcus_: Harris Plants Her Flag On the Far Left
     
-*   _David Axelrod_: Kamala Harris' Big Challenge
+*   _Katrina vanden Heuvel_: Warren's Wealth Tax Could Be a Game Changer
     
-*   _Edward-Isaac Dovere_: Howard Schultz Could Help Get Trump Re-Elected
+*   _Victor Davis Hanson_: The Progressive Race to the Bottom
     
-*   _Mollie Hemingway_: Bigotry Against Christians Harms Media's Reputation
+*   _Richard Cohen_: Howard Schultz - a Cup Too Far
     
-*   _Michael Daly_: The Despicable History of Roger Stone
+*   _Ken White_: Roger Stone's Greatest Liability
     
-*   _Andrew McCarthy_: Stone Charges Show There's No Trump-Russia Conspiracy
+*   _Tucker Carlson_: CNN No Longer Covering Mueller. They're Working w/Him
     
-*   _Frank Miele_: How About a 'Grand Compromise' on D.C. Statehood?
+*   _Nate Silver_: How President Trump Is Like A Terrible Poker Player
     
-*   _Michael Kruse_: Has Grief Made Biden a More Formidable 2020 Candidate?
+*   _Cardinal Timothy Dolan_: Why Are Cuomo, Democrats Alienating Catholics?
     
-*   _Cas Mudde_: Biden Is the Worst Candidate for the Democrats
+*   _Brian Feldman_: BuzzFeed's Experimental Era Is Over
     
-*   _Alexander Bolton_: Border Wall Negotiations Look Brutal for Trump
+*   _Roger Kimball_: A Sneak Preview of Jim Acosta's New Book
     
-*   _Kevin McCullough_: Why Democrats Should Be More Panicked Than Ever
+*   _Howard Schultz_: A Third-Party Centrist Like Me Could Win in 2020
     
-*   _E.J. Dionne_: Border Wall Shows Intellectual Shutdown on the Right
+*   _Eugene Robinson_: Schultz Capable of Winning the Election - For Trump
     
-*   _Alan Dershowitz_: Stone Indictment Follows Concerning Mueller Pattern
+*   _Conrad Black_: The Stage Is Set For a Deal With Democrats
     
-*   _Richard Wolffe_: Like Trump's Favorite Steaks, Stone Is Well and Truly Done
+*   _Neera Tanden_: Pelosi Beat Trump at His Own Game - &. She'll Do It Again
     
-*   _Byron York_: On Closer Examination, Stone Arrest Is Less Than It Seems
+*   _John Feehery_: Dear Dems: Resistance Is Not a Governing Strategy
     
-*   _Simon Moya-Smith_: America Mocks and Dehumanizes Natives at Every Turn
+*   _Stephen Collinson_: Trump Shows Weakness as 2020 Rivals Emerge
     
-*   _Victor Davis Hanson_: The Covington Lie: We've Been Here Before
+*   _Newt Gingrich_: Dems, Never Trumpers Will Keep Trump in White House
     
-*   _Bjorn Lomborg_: What Science Could Teach Dems About Climate Change
+*   _Jamil Smith_: Kamala Harris Makes Her Case
     
-*   _Brown &. Perry_: The World Is Two Minutes From Doom
+*   _Cathy Young_: The Future Is Female. And She's Furious
     
-*   _John Merline_: The 'Doomsday Clock' Is Little More Than a Liberal Angst Meter
+*   _John Farrell_: Watergate Created Roger Stone. Trump Completed Him.
     
-*   _Bill Scher_: Britain's Brexiteers Should Copy Trump and Fold
+*   _Charles Kolb_: Can We Give James Clapper the Roger Stone Treatment Yet?
     
-*   _Frank Bruni_: The Loneliness of the Moderate Democrat
+*   _Anthony Blinken_: Trump Admin Is Not Prepared for a Foreign Policy Crisis
     
 
 *   Previous
@@ -224,11 +226,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Sets Odds of Reaching Deal on Border Wall at Less Than 50-50
-*   Kamala Harris Kicks Off 2020 Campaign, Says U.S. Is at "Inflection Point"
-*   Roger Stone Decries FBI's "Gestapo Tactics"
-*   Mueller Team Charges Stone With Lying, Obstruction, Witness Tampering
-*   U.S. Faces Tough Choices as It Weighs Next Moves on Venezuela
+*   U.S. Charges Chinese Tech Giant Huawei, Top Executive
+*   Trump, Pelosi Agree on Feb. 5 for State of the Union Address
+*   "60 Minutes" Interview With Former Starbucks CEO Howard Schultz
+*   U.S. Hits Venezuela With Oil Sanctions to Pressure Maduro
+*   In Kabul, U.S. Reports "Agreements in Principle" With Taliban
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -241,26 +243,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalMonmouth
-    *   Approve43
-    *   Disapprove53Disapprove +10
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve38
+    *   Disapprove57Disapprove +19
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve45
     *   Disapprove54Disapprove +9
+*   President Trump Job ApprovalMonmouth
+    *   Approve43
+    *   Disapprove53Disapprove +10
 *   Congressional Job ApprovalMonmouth
     *   Approve18
     *   Disapprove73Disapprove +55
-*   Direction of CountryRasmussen Reports
-    *   Right Direction34
-    *   Wrong Track61Wrong Track +27
 
 More Latest Polls In The News
 
+*   Joy Behar to Howard Schultz: Your Candidacy "Will Guarantee Trump Another Four Years"
+*   Kamala Harris on Private Health Insurance Market: "Eliminate All Of That," "Let's Move On"
+*   Hume: Brokaw's Remarks About Assimilation Not Racist, Another Victim Of The "Weaponized" Term
+*   DACA Recipient to Kamala Harris: I Am Tired Of My Legal Status Being A Political Bargaining Chip
 *   Acosta to Sarah Huckabee Sanders: Does Trump Believe His Presidency Is In Danger After Indictments?
-*   Pat Buchanan: Roger Stone Indictment Shows Trump Campaign Didn't Collude, Was Out Of The Loop
-*   Kamala Harris Formally Launches 2020 Presidential Campaign: "America, We Are Better Than This"
-*   Brokaw: Hispanics Should Work Harder At Assimilation, Learn To Speak English. "Cultures Are Conflicting"
-*   Jerome Corsi: "Happy To Testify" That Roger Stone Asked Me To Reach Out To WikiLeaks
 
 *   Politics
 *   Policy
