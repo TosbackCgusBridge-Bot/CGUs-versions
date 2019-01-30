@@ -17,7 +17,30 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackShop and Save at JCPenney
+Near YouFind a StoreBackHot Sellers
+
+*   BUY MORE AND SAVE WITH CODE: 64SHOP
+    
+    from$824after couponEclipse® Kendall Rod-Pocket Thermal Blackout Curtain Panel(27)
+*   BUY 1 GET 1 50% OFF
+    
+    $36
+    
+    Stafford® Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt(297)
+*   BUY MORE AND SAVE WITH CODE: 64SHOP
+    
+    $2520after couponArizona Slim Straight Jeans
+*   BUY MORE AND SAVE WITH CODE: 64SHOP
+    
+    from$24after couponJCPenney Home Sullivan Blackout Grommet-Top Curtain Panel(28)
+*   BUY MORE AND SAVE WITH CODE: 64SHOP
+    
+    from$40after couponBiddeford™ MicroPlush Heated Blanket(1003)
+*   BUY MORE AND SAVE WITH CODE: 64SHOP
+    
+    from$24after couponPlaza Thermal Interlined Room Darkening Rod-Pocket Curtain Panel(209)
+
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Get GE, LG and Samsung home appliances at amazing prices at our appliance sale. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
