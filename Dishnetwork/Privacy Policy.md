@@ -179,7 +179,7 @@ Shop Core TV Packages
 View cart I know, frustrating right?  
 Let's get you back on track
 
-Error 404 - We Can't seem to find what you're looking for. Let's fix that. Go to the homepage or call us at 1-888-434-0112.
+404 Page could not be found - We Can't seem to find what you're looking for. Let's fix that. Go to the homepage or call us at 1-888-434-0112.
 
 Back to Homepage
 
