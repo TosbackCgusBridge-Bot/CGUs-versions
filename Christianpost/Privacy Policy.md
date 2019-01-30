@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Silicon Valley
+*   Pastor suicide
+*   White privilege
+*   Asia Bibi
+*   Trump advisers
 *   Georgia pastor
-*   R. Kelly
-*   Village Church
-*   Kate Hudson
 
 About Us
 
