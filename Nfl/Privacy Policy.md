@@ -2,7 +2,7 @@ SUPER BOWL
 
 *   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
 *   Move the SticksPatriots vs. Rams preview | Super Bowl LIII
-*   NFL GameDay PrimeSharpe, L.T. make final score predictions for Super Bowl LIII
+*   Game PreviewsPatriots vs. Rams | 'Madden NFL 19' Super Bowl LIII simulation
 
 *   News
 *   Scores
@@ -28,7 +28,7 @@ SUPER BOWL
 
 *   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
 *   Move the SticksPatriots vs. Rams preview | Super Bowl LIII
-*   NFL GameDay PrimeSharpe, L.T. make final score predictions for Super Bowl LIII
+*   Game PreviewsPatriots vs. Rams | 'Madden NFL 19' Super Bowl LIII simulation
 
 *   News
 *   Scores
