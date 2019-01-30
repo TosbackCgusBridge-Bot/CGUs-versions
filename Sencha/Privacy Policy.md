@@ -25,7 +25,6 @@ Sencha.com
     *   Docs
     *   Examples
 *   Buy Now
-*   Contact Us
 *   Free Trial
 
 *   日本語
@@ -175,7 +174,7 @@ Sencha.com
 
 US: 1 (800) 212-2802
 
-info@sencha.com
+info@sencha.com Contact us
 
 Stay Connected
 
