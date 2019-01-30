@@ -27,18 +27,18 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Women
 *   Men
 *   Kids
-*   Outerwear
-*   Bags
 *   Swim
+*   Bags
+*   Outerwear
 *   School
 *   Home
 *   New
 *   Sale
 *   Live chat
 
-Receive free two-day shipping to most U.S. addresses. 40% off full-price styles!
+Receive 40% off full-price styles. $10 women's and men's tees!
 
-code: GLISTEN pin: 9632 DETAILS
+code: FROST pin: 9764 DETAILS
 
 Customer Service Menu
 
