@@ -26,7 +26,8 @@ Close submenu ( Girls ) Girls
 *   Best Sellers
 *   Destroyed Denim
 *   Online Only
-*   Be My Aero Valentine
+*   #BeMyAero Valentine
+*   Swim
 
 Close submenu ( Guys ) Guys
 
@@ -35,7 +36,7 @@ Close submenu ( Guys ) Guys
 *   Best Sellers
 *   Destroyed Denim
 *   Online Only
-*   Be My Aero Valentine
+*   #BeMyAero Valentine
 *   Active
 
 Close submenu ( Girls ) Girls
@@ -51,6 +52,7 @@ Close submenu ( Girls ) Girls
 *   Accessories
 *   Footwear
 *   Fragrance
+*   Swim
 *   Extended Sizes
 *   Clearance
 
@@ -231,7 +233,8 @@ Menu Find a Store Aeropostale
         *   Best Sellers
         *   Destroyed Denim
         *   Online Only
-        *   Be My Aero Valentine
+        *   #BeMyAero Valentine
+        *   Swim
     
     *   Guys
         *   View All
@@ -239,7 +242,7 @@ Menu Find a Store Aeropostale
         *   Best Sellers
         *   Destroyed Denim
         *   Online Only
-        *   Be My Aero Valentine
+        *   #BeMyAero Valentine
         *   Active
 *   Girls
     
@@ -274,6 +277,7 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Footwear
     *   Fragrance
+    *   Swim
     *   Extended Sizes
     *   Clearance
     
@@ -433,17 +437,3 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
