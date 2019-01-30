@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 689 games
-*   Most Popular Games 18640 games
+*   Best of new games 694 games
+*   Most Popular Games 18646 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,686 games
+*   Games for girls 23,696 games
 *   Driving &. Racing Games 6,761 games
-*   Strategy &. RPG Games 2,404 games
+*   Strategy &. RPG Games 2,405 games
 *   Management Games 3,641 games
 *   Thinking Games 11,911 games
-*   Action &. Adventure Games 15,936 games
+*   Action &. Adventure Games 15,935 games
 *   Sports Games 2,161 games
 *   Shooting Games 8,391 games
-*   Fighting Games 2,092 games
-*   Skill Games 10,762 games
-*   Arcade &. Classic Games 12,737 games
+*   Fighting Games 2,093 games
+*   Skill Games 10,765 games
+*   Arcade &. Classic Games 12,742 games
 *   Fun &. Crazy Games 2,483 games
 
 Play with friends  
-Powered by Y8 Account 137 Y8 Multiplayer Games 1,854 Y8 High Score Games 1,118 Y8 Achievements Games 799 Y8 Screenshots Games 1,384 Y8 Online Save Games 2,877 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 137 Y8 Multiplayer Games 1,855 Y8 High Score Games 1,119 Y8 Achievements Games 800 Y8 Screenshots Games 1,384 Y8 Online Save Games 2,879 All Y8 Games Games Last Highscore:
 
-**209** points on Hide Online by YA\_TuT\_Ty\_TrUp
+**11,100** points on Mexico Rex by Shadow
 
 Help us improve Bad translation? Social
 
