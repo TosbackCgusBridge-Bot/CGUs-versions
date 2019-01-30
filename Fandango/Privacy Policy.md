@@ -23,6 +23,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Miss Bala (2019)
     *   Arctic (2018)
     *   Ek Ladki Ko Dekha Toh Aisa Laga
+    *   St. Bernard Syndicate
     *   The Wild Pear Tree
     *   See All Opening This Week
     
@@ -69,9 +70,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   ‘Shazam!’ Set Visit: The Superhero Inside All of Us Read More
+    *   ‘Dumbo’ Set Visit: Grounding a Flying Elephant Movie Read More
     *   Next 3 Exciting Family Adventures: 'Dumbo,' 'Detective Pikachu,' 'Aladdin' Read More
-    *   ‘Shazam’ Set Visit: A Different Kind of DC Superhero Movie Read More
+    *   ‘Dumbo’ Set Visit: The Cowboy, The Trickster, and the Hunter Read More
     
     Explore Content
     *   Movie Reviews
