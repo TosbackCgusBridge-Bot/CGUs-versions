@@ -110,7 +110,6 @@
     *   All calculators
     
     Get Advice
-    *   Personal loans guide
     *   Student loans guide
     *   Refinancing student loans
     *   Refinancing personal loans
