@@ -63,11 +63,11 @@ We're available 24 hours, 7 days a week. menu
 *   International
 *   Contact Us
 
-Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 04/10/2018 11:08 AM
+Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 01/30/2019 12:11 PM
 
-This Notice of Privacy Practices was updated on November 24, 2017.
+This Notice of Privacy Practices was updated on January 30, 2019.
 
-This Notice of Privacy Practices (“Notice”) applies to information collected, processed or stored by  Bloomingdale’s and Bloomingdale’s Outlet, online at bloomingdales.com, and via Bloomingdale’s mobile applications (e.g., Bloomingdale’s Big Brown Bag app or bloomingdales.com accessed through your mobile device) (Collectively, “Services”). This Notice describes the extent of data collection and use for these Bloomingdale’s Services.  
+This Notice of Privacy Practices (“Notice”) applies to information collected, processed or stored by  Bloomingdale’s and Bloomingdale’s Outlet, online at bloomingdales.com, and via Bloomingdale’s mobile applications (e.g., Bloomingdale’s Big Brown Bag app or bloomingdales.com accessed through your mobile device) (Collectively, “Services”). This Notice describes the extent of data collection and use for these Bloomingdale’s Services.
 
 To view your separate Department Store National Bank (DSNB) Privacy Statement for your Bloomingdale’s credit card or to read more information about our credit services, please click here.
 
@@ -82,7 +82,7 @@ This Notice of Privacy Practices explains:
 *   Additional Disclosures (including COPPA, California Privacy Rights, International)
 *   Safeguarding Information -Based Advertising
 
-  
+ 
 
 Your access to and use of our Services means you agree to the terms in this Notice and our Terms of Use. We encourage you to refer to this Notice periodically so that you understand our current privacy practices.  
   
@@ -116,7 +116,7 @@ We may combine information collected from different sources (see section on What
 *   To provide personal services such as b-connected (clienteling) or The Registry at Bloomingdale’s. and
 *   To administer loyalty programs (e.g., Loyallist).
 
-  
+ 
 
 2\. Marketing, Promotions &. Advertising (ADV)
 
@@ -125,7 +125,7 @@ We may combine information collected from different sources (see section on What
 *   To identify product preferences and shopping preferences (e.g., services and promotions of possible interest). and
 *   To administer contests, sweepstakes, promotions, surveys, and focus groups.
 
-  
+ 
 
 3\. Internal Operations (OPS)
 
@@ -133,7 +133,7 @@ We may combine information collected from different sources (see section on What
 *   To conduct research and analytics related to our operations. and
 *   To perform other logistics and operation activities as needed.
 
-  
+ 
 
 4\. Fraud Prevention, Security and Compliance (SEC)
 
@@ -142,7 +142,7 @@ We may combine information collected from different sources (see section on What
 *   To protect the security and integrity of our Services and our data. and
 *   To assist law enforcement and respond to legal/regulatory inquiries.
 
-  
+ 
 
 The rest of this Notice refers to the collection and use codes above (FUL. ADV. OPS. SEC). This is so you can better understand why we collect and use different types of information in accordance with our privacy practices and our Responsible Information Management program.  
   
@@ -150,7 +150,7 @@ Back to top
 
 WHAT WE COLLECT &. SHARE
 
-We collect information from a variety of sources, including: information provided by you, transaction information, technology-enabled services, and information we collect about you from third party sources. The following are select examples of the types of information we may collect and share:  
+We collect information from a variety of sources, including: information provided by you, transaction information, technology-enabled services, and information we collect about you from third party sources. The following are select examples of the types of information we may collect and share:
 
 *   Information you provide: (FUL, ADV, OPS, SEC)
 *   *   We collect various information when you create a profile, place an order, create a registry or take advantage of other programs online or in store. Information we may collect includes: Name, Address (billing and shipping), Zip code, e-mail address, Telephone number(s), Cellular phone number(s), Credit card number(s), Birth date, and Security question answers. (To express your preferences related to information you provide, go to the Manage Your Preferences section below).
@@ -255,7 +255,7 @@ Access to Accounts, Online Profiles, and Orders
 *   If you have any additional questions, please call our Customer Service department at 1-888-922-7026.
 *   If you are an international customer, and want to access your information, please click here to send an email to our international customer services teams who will be happy to assist you.
 
-  
+ 
 
 Data Sharing Preferences  
 If you prefer that we not share your information with third parties for marketing purposes, you can contact us:
@@ -264,10 +264,10 @@ If you prefer that we not share your information with third parties for marketin
         Bloomingdale’s Credit and Customer Services  
         ATTN: Privacy Office  
         P.O. Box 8215, Mason, OH 45040
-*   *   If you choose to write to us, please include your name, address, phone number, and last 4 digits of your Bloomingdale’s or Macy’s proprietary or American Express co-brand credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request.
+*   *   If you choose to write to us, please include your name, address, and phone number and state "NO THIRD PARTY SHARING" in your request.
 *   *   By phone at 1-888-922-7026
 
-  
+ 
 
 b-connected (Clienteling/Client Book)
 
@@ -299,7 +299,7 @@ Email Communications
       
     Note: Operational emails (e.g. shipping confirmation or product recall information) do not provide an opt-out option.
 
-  
+ 
 
 Direct Mail or Telemarketing
 
@@ -310,14 +310,12 @@ To opt-out of receiving direct mail or telemarketing calls, you may contact us:
     Bloomingdale's Credit and Customer Service  
     ATTN: Privacy Office  
     P.O. Box 8215, Mason, OH 45040
-*   *   If you choose to write us, please include your name, address, phone number and the last 4 digits of your Bloomingdale's or Macy's proprietary or American Express co-brand card account number (if you have one) and state one of the following:
+*   *   If you choose to write us, please include your name, address, and phone number and state one of the following:
     *   *   "NO MAIL OFFERS" (if you don't want to receive offers by mail);
         *   "NO PHONE OFFERS" (if you don't want to receive offers by phone). or
         *   "NO MAIL OR PHONE OFFERS" (if you don't want to receive either)
 
 *   Note on Opting-Out of Direct Mail: Because direct mailings are often prepared well in advance (12-16 weeks, in some cases) you may, for a period of time, continue to receive some physical mail after you send us your request.
-*     
-    
 
 Website &. Online Services Preferences
 
@@ -332,7 +330,7 @@ Website &. Online Services Preferences
     *   Twitter
     *   Yahoo!
 
-  
+ 
 
 Technology-Enabled Collection &. Use Preferences
 
@@ -343,7 +341,7 @@ Technology-Enabled Collection &. Use Preferences
     Note: To opt-out of interest-based advertising in mobile applications, you can turn off mobile device ad tracking or reset the advertising identifier in your device settings.
 *   In-Store Wi-Fi Services: If you do not wish for us to use your Wi-Fi analytic data in a de-identified manner, please turn off your phone or refrain from using our Wi-Fi Services. For more information, visit: https://smart-places.org .  
 
-  
+ 
 
 Back to top
 
