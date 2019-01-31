@@ -21,8 +21,10 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Opening This Week = Limited Release
     
     *   Miss Bala (2019)
+    *   Fandango Early Access: How to Train Your Dragon: The Hidden World
     *   Arctic (2018)
     *   Ek Ladki Ko Dekha Toh Aisa Laga
+    *   Kaake Da Viyah
     *   St. Bernard Syndicate
     *   The Wild Pear Tree
     *   See All Opening This Week
@@ -320,10 +322,6 @@ Offers
 *   'How to Train Your Dragon: The Hidden World' Fandango Early Access
     
     See it 3 weeks before it hits theaters! Plus, stream a bonus DreamWorks movie on us with ticket purchase! BUY TICKETS
-    
-*   $8 to see ‘Mary Poppins Returns’
-    
-    When you buy $8 in Ivory Products. SEE DETAILS
     
 *   Get $8 towards a movie ticket to see BumbleBee in theaters now!
     
