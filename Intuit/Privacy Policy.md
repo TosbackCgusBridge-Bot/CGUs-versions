@@ -17,28 +17,50 @@ SHOP DEPARTMENTS
 *   Clearance
 *   Coupons
 
-Near YouFind a StoreBackHot Sellers
+Near YouFind a StoreBackFragranceShop AllFragranceShop All
+
+*   from$35
+    
+    GIORGIO ARMANI BEAUTY - Armani Code(236)Add To Cart
+*   $89
+    
+    Giorgio Armani Beauty Acqua Di Gio Pour Homme Set(1)Add To Cart
+*   $65
+    
+    Kat Von D Love Like a Saint SetAdd To Cart
+*   $57
+    
+    philosophy Amazing Grace Gift Set(7)Add To Cart
+*   $89
+    
+    Marc Jacobs Fragrances Daisy Love Gift Set(3)Add To Cart
+*   $95
+    
+    BURBERRY My Burberry Black Gift Set(4)Add To Cart
+*   $85
+    
+    Yves Saint Laurent Y Eau de Toilette Gift Set(1)Add To Cart
+
+Hot Sellers
 
 *   BUY MORE AND SAVE WITH CODE: 64SHOP
     
-    from$824after couponEclipse® Kendall Rod-Pocket Thermal Blackout Curtain Panel(27)
+    $48after couponSt. John's Bay Heavyweight Puffer Jacket(39)
+*   BUY MORE AND SAVE WITH CODE: 64SHOP
+    
+    $2520after couponArizona Flex Relaxed-Fit Straight Jeans(519)
+*   RED BOW DEAL!
+    
+    $9374after couponwas $449.98 1 CT. T.W. Genuine White Diamond Sterling Silver 2-pc. Jewelry Set(93)
+*   $599after couponwas $32 Xersion Mens Drawstring Waist Workout Shorts
+*   BUY MORE AND SAVE WITH CODE: 64SHOP
+    
+    from$24after couponJCPenney Home™ Imperial Washable Rectangular Accent, Area &. Runner Rugs(1089)
 *   BUY 1 GET 1 50% OFF
     
-    $36
+    $44
     
-    Stafford® Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt(297)
-*   BUY MORE AND SAVE WITH CODE: 64SHOP
-    
-    $2520after couponArizona Slim Straight Jeans
-*   BUY MORE AND SAVE WITH CODE: 64SHOP
-    
-    from$24after couponJCPenney Home Sullivan Blackout Grommet-Top Curtain Panel(28)
-*   BUY MORE AND SAVE WITH CODE: 64SHOP
-    
-    from$40after couponBiddeford™ MicroPlush Heated Blanket(1003)
-*   BUY MORE AND SAVE WITH CODE: 64SHOP
-    
-    from$24after couponPlaza Thermal Interlined Room Darkening Rod-Pocket Curtain Panel(209)
+    Stafford Stafford Travel Wrinkle-Free Stretch Oxford Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(150)
 
 Shop and Save at JCPenney
 
