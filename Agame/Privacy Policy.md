@@ -1,9 +1,3 @@
-Pick a theme
-
-*   Red
-*   Blue
-*   Pink
-
 Apps
 
 *   {text}
@@ -101,7 +95,7 @@ View more results
     *   Total Front: Army War Game
     *   Slither.io
     *   Electricman 2: Stickman Fighting Game
-    *   Penguin Diner: Food Restaurant Game
+    *   Army Force Strike: 3D Shooting Game Online Multiplayer
 *   Top Categories
     
     *   Platform Games
@@ -165,7 +159,7 @@ View more results
     *   Bubble Machine: 2 Player Game
     *   TenTrix
     *   Fireboy &. Watergirl 2: The Light Temple
-    *   Crystical: 2 Player Puzzle Game
+    *   1001 Arabian Nights
 *   Top Categories
     
     *   Dress Up
@@ -192,8 +186,8 @@ View more results
     *   Burger Restaurant Express
     *   Bartender
     *   Penguin Diner: Food Restaurant Game
-    *   Papa's Freezeria
     *   Love Tester 2.0
+    *   Papa's Freezeria
     *   Create a House: Building Game
     *   Papa's Cupcakeria
     *   Back To School: Princesses Rush
@@ -273,7 +267,7 @@ View more results
     Recommended Games
     
     *   World of Warships
-    *   Roblox
+    *   Wizard 101
     *   Crossout
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
