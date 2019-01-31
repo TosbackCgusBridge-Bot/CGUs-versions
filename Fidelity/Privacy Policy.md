@@ -30,6 +30,8 @@ Search fidelity.com or get a quote
     *   BillPay
     *   Full ViewLog In Required
     *   Full View
+    *   Security SettingsLog In Required
+    *   Security Settings
     *   Account Features Log In Required
     *   Account Features
     *   Statements Log In Required
@@ -70,6 +72,7 @@ Search fidelity.com or get a quote
     *   Fixed Income, Bonds &. CDs
     *   ETFs
     *   Options
+    *   Margin Loans
     *   Sector Investing
     *   Cash Management &. Credit Cards
     *   Managed Accounts
@@ -77,7 +80,6 @@ Search fidelity.com or get a quote
     *   529 College Savings
     *   Annuities
     *   Life Insurance &. Long Term Care
-    *   Charitable Giving
 *   Why Fidelity
     *   The Fidelity Advantage
     *   Planning &. Advice
