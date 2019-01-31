@@ -22,7 +22,7 @@ Ditch the focus group for our faster, cheaper and more agile digital alternative
 
 How to maximize your Facebook and Instagram video advertising: Takeaways from our London event
 
-Our solutions Advertising &. brand Product innovation Customer value Point-of-purchase influencers Pre-testing Packaging design Social insights Case stories Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights Emotions sell brands: How to capture the emotional resonance of your brands, ads and products
+Our solutions Advertising &. brand Product innovation Customer value Point-of-purchase influencers Pre-testing Packaging design Social insights Case stories Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights Emotions sell brands: How to capture the emotional resonance of your brands, ads and products
 
 Sell more products in store: Optimize all your sales conversion tactics
 
