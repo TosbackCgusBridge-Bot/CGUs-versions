@@ -46,9 +46,9 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Bottoms ) Bottoms
 
-*   Jackets + Vests
+*   Jackets
 *   Hats + Scarves
-*   Dresses + Rompers
+*   Dresses
 *   Accessories
 *   Footwear
 *   Fragrance
@@ -111,7 +111,7 @@ Close submenu ( Guys ) Guys
 
 *   Open submenu ( Bottoms ) Bottoms
 
-*   Jackets + Vests
+*   Jackets
 *   Accessories
 *   Underwear
 *   Cologne + Grooming
@@ -130,7 +130,6 @@ Close submenu ( Tops ) Tops
 *   Long Sleeve
 *   Hoodies + Sweatshirts
 *   Shirts
-*   $7.87 Graphic Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -206,7 +205,6 @@ Close submenu ( Girls ) Girls
 *   Accessories
 *   Bras + Undies
 *   Swim
-*   $5.87 Graphic Tees
 
 Close submenu ( Guys ) Guys
 
@@ -271,9 +269,9 @@ Menu Find a Store Aeropostale
         *   Skirts
         
     
-    *   Jackets + Vests
+    *   Jackets
     *   Hats + Scarves
-    *   Dresses + Rompers
+    *   Dresses
     *   Accessories
     *   Footwear
     *   Fragrance
@@ -308,7 +306,6 @@ Menu Find a Store Aeropostale
         *   Long Sleeve
         *   Hoodies + Sweatshirts
         *   Shirts
-        *   $7.87 Graphic Tees
     
     *   Bottoms
         *   View All
@@ -318,7 +315,7 @@ Menu Find a Store Aeropostale
         *   Shorts
         
     
-    *   Jackets + Vests
+    *   Jackets
     *   Accessories
     *   Underwear
     *   Cologne + Grooming
@@ -379,7 +376,6 @@ Menu Find a Store Aeropostale
         *   Accessories
         *   Bras + Undies
         *   Swim
-        *   $5.87 Graphic Tees
     
     *   Guys
         *   View All
@@ -437,3 +433,17 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
