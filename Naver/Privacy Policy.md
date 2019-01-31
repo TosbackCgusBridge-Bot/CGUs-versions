@@ -364,7 +364,7 @@ NAVER Terms &. Privacy 한국어(Korean) 한국어(Korean) 영어(English)
 
 전 화 : 1588-3820
 
-메 일 : privacy@naver.com
+메 일 : 문의하기
 
 개인정보 보호담당자
 
@@ -376,7 +376,7 @@ NAVER Terms &. Privacy 한국어(Korean) 한국어(Korean) 영어(English)
 
 전 화 : 1588-3820
 
-메 일 : privacy@naver.com
+메 일 : 문의하기
 
 기타 개인정보 침해에 대한 신고나 상담이 필요한 경우에 아래 기관에 문의 가능합니다.
 
