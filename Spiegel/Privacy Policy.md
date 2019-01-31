@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   30\. Januar 2019
+*   31\. Januar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.218,83ǀ
+*   DAX 11.181,66ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -338,6 +338,7 @@ SPIEGEL GRUPPE
 *   \-buchreport
 *   \-Werbung
 *   \-Jobs
+*   \-Planestream
 
 *   SPIEGEL COACHING
 *   SPIEGEL EXPEDITION
