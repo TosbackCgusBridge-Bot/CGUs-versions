@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -18,21 +16,24 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   Polls
     *   Latest Polls
     *   Trump Job Approval
+    *   Pelosi Job Approval
+    *   Democratic Primary Polls
+    *   Republican Primary Polls
+    *   General Election Polls
     *   Direction of Country
-    *   Congress Job Approval
-    *   Election Polls
-    *   Generic Ballot
-    *   Donald Trump Favorability
-    *   State of Union Polls
-*   Election 2018
-    *   RCP Senate Map
-    *   Senate Final Results
-    *   RCP Governors Map
-    *   Governor Final Results
-    *   RCP House Map
-    *   House Final Results
+    *   Political Leaders Favorability
+    *   State of the Union Polls
+    *   All Latest Election Polls
+*   Election 2020
+    *   Democratic Primary Polls
+    *   Republican Primary Polls
+    *   General Election Polls
     *   Generic Congressional Ballot
-    *   Latest Election 2018 Polls
+    *   Senate 2020 Polls
+    *   Governor 2020 Polls
+    *   National Presidential Polls
+    *   State Presidential Polls
+    *   Latest Election 2020 Polls
 *   Video
 *   Writers
     *   Staff Writers
@@ -56,22 +57,25 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   Polls
         *   Latest Polls
         *   Trump Job Approval
+        *   Pelosi Job Approval
+        *   Democratic Primary Polls
+        *   Republican Primary Polls
+        *   General Election Polls
         *   Direction of Country
-        *   Congress Job Approval
-        *   Election Polls
-        *   Generic Ballot
-        *   Donald Trump Favorability
-        *   State of Union Polls
-    *   RCP Election 2018
-        *   Election 2018
-        *   RCP Senate Map
-        *   Senate Final Results
-        *   RCP Governors Map
-        *   Governor Final Results
-        *   RCP House Map
-        *   House Final Results
+        *   Political Leaders Favorability
+        *   State of the Union Polls
+        *   All Latest Election Polls
+    *   RCP Election 2020
+        *   Election 2020
+        *   Democratic Primary Polls
+        *   Republican Primary Polls
+        *   General Election Polls
         *   Generic Congressional Ballot
-        *   Latest Election 2018 Polls
+        *   Senate 2020 Polls
+        *   Governor 2020 Polls
+        *   National Presidential Polls
+        *   State Presidential Polls
+        *   Latest Election 2020 Polls
     *   Video
     *   Writers
         
@@ -109,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Byron York_: In Border Talks, a New Fight for Barrier Deniers
+*   _Rob Crilly_: How the Partial Shutdown Helped Trump
     
-*   _Jill Filipovic_: It's Kamala's Race Right Now
+*   _Thomas Edsall_: The 'Rotten Equilibrium' of Republican Politics
     
-*   _David Marcus_: Harris Plants Her Flag On the Far Left
+*   _Harris &. Ball_: Record Cold Forces Rethink on Global Warming
     
-*   _Katrina vanden Heuvel_: Warren's Wealth Tax Could Be a Game Changer
+*   _James Rainey_: Experts Say Extreme Cold Doesn't Debunk Global Warming
     
-*   _Victor Davis Hanson_: The Progressive Race to the Bottom
+*   _Alan Dershowitz_: Why Arrest Stone Instead of Asking Him to Surrender?
     
-*   _Richard Cohen_: Howard Schultz - a Cup Too Far
+*   _Joyce Vance_: Why You Should Have Faith in Mueller's Russia Probe
     
-*   _Ken White_: Roger Stone's Greatest Liability
+*   _Ben Shapiro_: Dem VA Governor Endorses Murder of Born-Alive Infants
     
-*   _Tucker Carlson_: CNN No Longer Covering Mueller. They're Working w/Him
+*   _Mark Stern_: Roe v. Wade Is Under Immediate Threat
     
-*   _Nate Silver_: How President Trump Is Like A Terrible Poker Player
+*   _Michael Dougherty_: Trump the Neophyte May Not Be Up to the Job
     
-*   _Cardinal Timothy Dolan_: Why Are Cuomo, Democrats Alienating Catholics?
+*   _Julie Kelly_: National Review: Still Clueless After All These Years
     
-*   _Brian Feldman_: BuzzFeed's Experimental Era Is Over
+*   _Josh Kraushaar_: Why Schultz's Candidacy Should Be Taken Seriously
     
-*   _Roger Kimball_: A Sneak Preview of Jim Acosta's New Book
+*   _Rep. James Clyburn_: Trump's Manufactured Border Security Crisis
     
-*   _Howard Schultz_: A Third-Party Centrist Like Me Could Win in 2020
+*   _Mollie Hemingway_: Is Congress Too Broken to Compromise on the Border?
     
-*   _Eugene Robinson_: Schultz Capable of Winning the Election - For Trump
+*   _David Rohde_: An Opportunity to End America's Longest War
     
-*   _Conrad Black_: The Stage Is Set For a Deal With Democrats
+*   _Ryan Crocker_: I Was Ambassador to Afghanistan. This Is Surrender.
     
-*   _Neera Tanden_: Pelosi Beat Trump at His Own Game - &. She'll Do It Again
+*   _Ross Douthat_: Trump Is Delivering a Better Republican Foreign Policy
     
-*   _John Feehery_: Dear Dems: Resistance Is Not a Governing Strategy
+*   _Nathan Smith_: Why I Sued Obama, My Commander-in-Chief
     
-*   _Stephen Collinson_: Trump Shows Weakness as 2020 Rivals Emerge
+*   _Glenn Kirschner_: Stone Indictment Suggests Mueller Isn't Done--Not Yet
     
-*   _Newt Gingrich_: Dems, Never Trumpers Will Keep Trump in White House
+*   _James Robbins_: The Collapse of the Russian Collusion Narrative
     
-*   _Jamil Smith_: Kamala Harris Makes Her Case
+*   _Yascha Mounk_: Kamala Harris's Message Can Win in 2020
     
-*   _Cathy Young_: The Future Is Female. And She's Furious
+*   _Rush Limbaugh_: Kamala Harris: Not New, Not Fresh, Not Different
     
-*   _John Farrell_: Watergate Created Roger Stone. Trump Completed Him.
+*   _Michelle Goldberg_: Howard Schultz, Please Don't Run for President
     
-*   _Charles Kolb_: Can We Give James Clapper the Roger Stone Treatment Yet?
+*   _Peter Berkowitz_: Conflating Ideas Weakens Constitutional Principles
     
-*   _Anthony Blinken_: Trump Admin Is Not Prepared for a Foreign Policy Crisis
+*   _Brent Bozell_: The NFL Recovers After Putting an End to Anthem Protests
     
 
 *   Previous
@@ -226,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   U.S. Charges Chinese Tech Giant Huawei, Top Executive
+*   U.S., China Launch High Level Trade Talks Amid Deep Differences
+*   Trump Says Lawmakers "Wasting Their Time" If Not Discussing Wall
+*   Christie: "God Bless Howard Schultz. Run, Howard, Run"
 *   Trump, Pelosi Agree on Feb. 5 for State of the Union Address
-*   "60 Minutes" Interview With Former Starbucks CEO Howard Schultz
 *   U.S. Hits Venezuela With Oil Sanctions to Pressure Maduro
-*   In Kabul, U.S. Reports "Agreements in Principle" With Taliban
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -243,26 +247,35 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve38
-    *   Disapprove57Disapprove +19
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove54Disapprove +9
-*   President Trump Job ApprovalMonmouth
-    *   Approve43
-    *   Disapprove53Disapprove +10
-*   Congressional Job ApprovalMonmouth
-    *   Approve18
-    *   Disapprove73Disapprove +55
+*   2020 Democratic Presidential NominationPolitico/Morning Consult
+    *   Biden33
+    *   Sanders15
+    *   O'Rourke6
+    *   Harris10
+    *   Booker3
+    *   Warren6
+    *   Bloomberg2
+    *   Castro1
+    *   Gabbard0
+    *   Brown1
+    *   Gillibrand1Biden +18
+*   Michigan: Trump vs. BidenDetroit News/WDIV-TV
+    *   Biden53
+    *   Trump40Biden +13
+*   Michigan: Trump vs. WarrenDetroit News/WDIV-TV
+    *   Warren46
+    *   Trump43Warren +3
+*   Michigan: Trump vs. HarrisDetroit News/WDIV-TV
+    *   Harris47
+    *   Trump42Harris +5
 
 More Latest Polls In The News
 
+*   Bloomberg: We Shouldn't Be Embarrassed About Capitalism, "Non-Capitalistic" Venezuela Is Collapsing
+*   Tucker Carlson: Tom Brokaw Expressed "An Unauthorized Opinion" on Immigration, A "Thought Crime"
+*   CNN Investigates: Does Trump Get His Border Talking Points From Movies? Uses "Fiction" For Rhetoric
+*   Christie Drinks With Colbert on 'Late Show': Trump "Blew It" On Shutdown, GOP "Something Different"
 *   Joy Behar to Howard Schultz: Your Candidacy "Will Guarantee Trump Another Four Years"
-*   Kamala Harris on Private Health Insurance Market: "Eliminate All Of That," "Let's Move On"
-*   Hume: Brokaw's Remarks About Assimilation Not Racist, Another Victim Of The "Weaponized" Term
-*   DACA Recipient to Kamala Harris: I Am Tired Of My Legal Status Being A Political Bargaining Chip
-*   Acosta to Sarah Huckabee Sanders: Does Trump Believe His Presidency Is In Danger After Indictments?
 
 *   Politics
 *   Policy
