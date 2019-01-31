@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles. $10 women's and men's tees!
+Receive 40% off 1 full-price item!
 
-code: FROST pin: 9764 DETAILS
+code: SNOWFLAKE pin: 8974 DETAILS
 
 Customer Service Menu
 
