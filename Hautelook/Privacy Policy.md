@@ -8,8 +8,32 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Makeup Palettes amp More ft. Urban Decay
+    *   sweatWELLth
+    *   Further Food
+    *   Alexis Bittar
+    *   Gracia
+    *   Via Spiga Up to 60% Off
+    *   Abound
+    *   W118 by Walter Baker Up to 70% Off
+    *   Puffer Coats &. More ft. Via Spiga
+    *   Papillon Up to 85% Off
+    *   14K Gold Jewelry Steals
+    *   Do + Be
+    *   Men's Premium Denim Shop
+    *   Free Shipping: Kitchen Essentials Starting at $10
+    *   Butter Super Soft
+    *   Nitya Gemstone Jewelry Under $80
+    *   Men's Bomber Jackets Up to 60% Off
+    *   Casually Chic Bags
+    *   Our Favorite Flats Up to 55% Off
+    *   Men's Graphic Tees Under $30
+    *   Free Shipping: Pet-Friendly Covers, Beds &. More
+    *   Free Shipping: Fresh Decor &. Bedding Up to 70% Off
+    *   Favorite Finds for Kids ft. Melissa &. Doug
     *   Free Shipping: BergHOFF
     *   Jonathan Adler
+    
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Free Shipping: Marmont Hill Wall Art
     *   Ted Baker London
@@ -32,71 +56,57 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   On the Go: Kids' Activewear
     *   JOE'S Jeans
     *   JOE'S Jeans Men Up to 60% Off
-    *   TOMS Starting at $30
-    *   Meghan LA
-    *   Active Brands We Love
-    
-    *   Alternative
     *   Lovely Layers: Gemstones, Stacking Rings &. More
-    *   Blazers to Bombers: Jackets Under $50
     *   Predire Paris Luxury Skin Care
     *   JOE'S Jeans Kids Under $25
-    *   New Booties Up to 60% Off
-    *   Circus by Sam Edelman Up to 50% Off
-    *   JOE'S Jeans &. More: Sun Under $25
+    
     *   Men's Dress Shoes Under $100
     *   Pajama Party: Kids' Character PJs Under $20
     *   Z By Zella Girl
-    *   Tie It Together: Men's Neckwear Under $20
     *   TOMS Kids Starting at $20
     *   Macadamia Natural Oil &. Professional Hair Care
-    *   Free Shipping: Spring Bedding
-    *   BIRKENSTOCK
-    *   Bruno Magli Watches
     *   Korean Beauty: It's Skin &. More
     *   Organization Essentials Starting at $10
-    *   Paulinie
     *   Fragrances ft. Lollia &. More
     *   My Magic Mud Oral Care
     *   Tech Essentials: Earbuds, Chargers &. More
-    *   Must-Haves for Baby Under $20
     *   Free Shipping: Comforters &. More Up to 75% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Free Shipping: Spring-Ready Duvet Sets &. More
-    
     *   skinChemists
-    *   Beauty By Earth
     *   Free Shipping: Hand-Painted Replicas
-    *   Skinny Tan Starting at $10
-    *   DAFNI Ceramic Hot Brushes
     *   Free Shipping: Home Organization Essentials
-    *   Free Shipping: Kantha Blankets &. More
-    *   Add to Your Mix: Kitchen Storage &. More
-    *   Surprise Steals: Men's Blowout
-    *   Sterling Forever Trend Jewelry Up to 70% Off
+    *   Fujifilm Cameras We Love
     *   Free Shipping: Bedding Essentials Blowout
     *   Men's Shoes Up to 60% Off
     *   Coats Up to 70% Off
-    *   Women's Shoe Blowout
-    *   Romeo &. Juliet Couture Blowout
-    *   Lola Made In Italy Up to 80% Off
+    *   Free Shipping: Kantha Blankets &. More
     *   Free Shipping: Trendsetting Home Decor
-    *   On Trend: Resort-Ready Earrings from $15
-    *   Swarovski Jewelry &. Watches
+    *   Meghan LA
     *   Free Shipping: Unique Metal Decor &. More
     *   Free Shipping: Amrapur Sheets Up to 85% Off
-    *   Fujifilm Cameras We Love
-    *   Lucky Brand Including Plus
-    *   Dresses ft. London Times Incl. Plus &. Petites
-    *   Chantelle
-    *   BLANKNYC
 *   WomenShop Sale Events
     
+    *   sweatWELLth
+    *   Further Food
+    *   Alexis Bittar
+    *   Gracia
+    *   Via Spiga Up to 60% Off
+    *   Abound
+    *   W118 by Walter Baker Up to 70% Off
+    *   Puffer Coats &. More ft. Via Spiga
+    *   Papillon Up to 85% Off
+    *   14K Gold Jewelry Steals
+    *   Do + Be
+    *   Nitya Gemstone Jewelry Under $80
+    *   Casually Chic Bags
+    *   Our Favorite Flats Up to 55% Off
     *   Ted Baker London
     *   Ted Baker London Handbags Up to 50% Off
     *   Ted Baker London Shoes
     *   Ted Baker London Watches &. Accessories Up to 50% Off
     *   Designer Swim ft. Ted Baker London
+    
     *   Cosabella
     *   Zoe Ayla Skin Care &. More
     *   Beauty Essentials: Face Masks, Mists &. More
@@ -105,62 +115,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   FAVLUX
     *   Kensie &. More
     *   JOE'S Jeans
-    *   TOMS Starting at $30
-    *   Meghan LA
-    *   Active Brands We Love
-    *   Alternative
     *   Lovely Layers: Gemstones, Stacking Rings &. More
-    *   Blazers to Bombers: Jackets Under $50
     *   Predire Paris Luxury Skin Care
-    *   New Booties Up to 60% Off
-    *   Circus by Sam Edelman Up to 50% Off
-    *   JOE'S Jeans &. More: Sun Under $25
-    
     *   Macadamia Natural Oil &. Professional Hair Care
-    *   BIRKENSTOCK
-    *   Bruno Magli Watches
     *   Korean Beauty: It's Skin &. More
     *   Fragrances ft. Lollia &. More
     *   My Magic Mud Oral Care
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   skinChemists
-    *   Beauty By Earth
-    *   Skinny Tan Starting at $10
-    *   DAFNI Ceramic Hot Brushes
-    *   Sterling Forever Trend Jewelry Up to 70% Off
     *   Coats Up to 70% Off
-    *   Women's Shoe Blowout
-    *   Romeo &. Juliet Couture Blowout
-    *   Lola Made In Italy Up to 80% Off
-    *   On Trend: Resort-Ready Earrings from $15
-    *   Swarovski Jewelry &. Watches
-    *   Lucky Brand Including Plus
-    *   Dresses ft. London Times Incl. Plus &. Petites
-    *   Chantelle
-    *   BLANKNYC
+    *   Meghan LA
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie
-    *   Tech Accessories
-    *   Accessories
     *   Handbags
+    *   Tech Accessories
+    *   Lingerie
+    *   Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Further Food
+    *   Men's Premium Denim Shop
+    *   Men's Bomber Jackets Up to 60% Off
+    *   Men's Graphic Tees Under $30
     *   Ted Baker London Men Up to 65% Off
     *   Ted Baker London Men's Shoes Up to 55% Off
+    
     *   Ted Baker London Watches &. Accessories Up to 50% Off
     *   Valentine's Ready: Great Gifts for Him
     *   JOE'S Jeans Men Up to 60% Off
-    *   JOE'S Jeans &. More: Sun Under $25
-    
     *   Men's Dress Shoes Under $100
-    *   Tie It Together: Men's Neckwear Under $20
-    *   Bruno Magli Watches
-    *   Surprise Steals: Men's Blowout
     *   Men's Shoes Up to 60% Off
     
     Shop By Category
@@ -170,6 +157,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Butter Super Soft
+    *   Favorite Finds for Kids ft. Melissa &. Doug
     *   Million Polkadots
     *   See Kai Run from $20
     *   On the Go: Kids' Activewear
@@ -177,69 +166,71 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Pajama Party: Kids' Character PJs Under $20
     *   Z By Zella Girl
     *   TOMS Kids Starting at $20
-    *   Paulinie
-    *   Must-Haves for Baby Under $20
     
     Shop By Category
     *   Girls' Shoes
-    *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
-    *   Boys' Shoes
     *   Boys' Sizes 2T-7
-    *   Baby Girl
+    *   Girls' Sizes 2T-6X
+    *   Boys' Shoes
     *   Boys' Sizes 8-20
+    *   Baby Girl
     *   Baby Boy
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Kitchen Essentials Starting at $10
+    *   Free Shipping: Pet-Friendly Covers, Beds &. More
+    *   Free Shipping: Fresh Decor &. Bedding Up to 70% Off
     *   Free Shipping: BergHOFF
     *   Jonathan Adler
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Free Shipping: Marmont Hill Wall Art
-    *   Free Shipping: Spring Bedding
     *   Organization Essentials Starting at $10
     *   Tech Essentials: Earbuds, Chargers &. More
     *   Free Shipping: Comforters &. More Up to 75% Off
-    *   Free Shipping: Spring-Ready Duvet Sets &. More
     
+    *   Free Shipping: Spring-Ready Duvet Sets &. More
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Home Organization Essentials
-    *   Free Shipping: Kantha Blankets &. More
-    *   Add to Your Mix: Kitchen Storage &. More
+    *   Fujifilm Cameras We Love
     *   Free Shipping: Bedding Essentials Blowout
+    *   Free Shipping: Kantha Blankets &. More
     *   Free Shipping: Trendsetting Home Decor
     *   Free Shipping: Unique Metal Decor &. More
     *   Free Shipping: Amrapur Sheets Up to 85% Off
-    *   Fujifilm Cameras We Love
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Storage &. Organization
     *   Kitchen &. Tabletop
+    *   Storage &. Organization
+    *   Pet Accessories
     *   Outdoor Living
     *   Accent Furniture
+    *   Bath
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Makeup Palettes amp More ft. Urban Decay
+    *   sweatWELLth
+    *   Further Food
     *   Zoe Ayla Skin Care &. More
     *   Beauty Essentials: Face Masks, Mists &. More
     *   Predire Paris Luxury Skin Care
+    
     *   Macadamia Natural Oil &. Professional Hair Care
     *   Korean Beauty: It's Skin &. More
     *   Fragrances ft. Lollia &. More
-    
     *   My Magic Mud Oral Care
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   skinChemists
-    *   Beauty By Earth
-    *   Skinny Tan Starting at $10
-    *   DAFNI Ceramic Hot Brushes
     
     Shop By Category
     *   Skin Care
     *   Makeup
-    *   Tools &. Accessories
     *   Bath &. Body
+    *   Tools &. Accessories
     *   Hair Care
     *   Fragrance
 
