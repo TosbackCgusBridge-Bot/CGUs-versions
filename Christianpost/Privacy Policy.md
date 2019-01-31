@@ -32,10 +32,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 Hot Topics
 
 *   Pastor suicide
-*   White privilege
-*   Asia Bibi
-*   Trump advisers
-*   Georgia pastor
+*   Abortion up to birth
+*   Feminists
+*   Va. abortion
+*   Principal
 
 About Us
 
