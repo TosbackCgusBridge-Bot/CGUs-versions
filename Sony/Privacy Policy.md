@@ -93,9 +93,9 @@ Main menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Score Access to All the Can’t-Miss Games With PlayStation™Vue Tune-In Sunday 2/3, 6:30 ET
+search Score Access to All the Can’t-Miss Action With PlayStation™ Vue Tune-In Sunday 2/3, 6:30 ET
 
-<img class="bg-img" data-linkname="en:set\_a:position\_1|\_3x2-1:image:playstation:PSVueSuperBowl-January-29-2019:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Score Access to All the Can’t-Miss Games With PlayStation™Vue PS-Vue-Super-Bowl" data-img1x="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_745x500 (1).jpg" src="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_745x500%20(1).jpg" alt="PlayStation™Vue Super Bowl "/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_3x2-1:image:playstation:PSVueSuperBowl-January-29-2019:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Score Access to All the Can’t-Miss Games With PlayStation™Vue PS-Vue-Super-Bowl" data-img1x="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_745x500 (1).jpg" src="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_600x600.jpg" alt="PlayStation™Vue Super Bowl "/>. All About the Start of Murtagh and Jocasta’s Relationship in Episode 413
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_3x2-1:image:playstation:PSVueSuperBowl-January-29-2019:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Score Access to All the Can’t-Miss Action With PlayStation™ Vue PS-Vue-Super-Bowl" data-img1x="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_745x500 (1).jpg" src="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_745x500%20(1).jpg" alt="PlayStation™Vue Super Bowl "/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_3x2-1:image:playstation:PSVueSuperBowl-January-29-2019:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Score Access to All the Can’t-Miss Action With PlayStation™ Vue PS-Vue-Super-Bowl" data-img1x="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_745x500 (1).jpg" src="/content/dam/sony/homepage/2019-january/1-28/VUE\_SUPERBOWL-2019-GENERIC-SONYREWARDS\_600x600.jpg" alt="PlayStation™Vue Super Bowl "/>. All About the Start of Murtagh and Jocasta’s Relationship in Episode 413
 
 Go Behind the Scenes of “Outlander” Season 4
 
@@ -119,7 +119,7 @@ In Theaters This Week
 
 New #SpiderManPS4 update! Celebrate the wall-crawler's history with the Fantastic Four by donning two striking new suits:  https://play.st/2TobsWV  pic.twitter.com/IHgKOkWI8u
 
-1 day ago
+2 days ago
 
 View Tweet
 
