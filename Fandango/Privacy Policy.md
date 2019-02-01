@@ -73,7 +73,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   ‘Dumbo’ Set Visit: Grounding a Flying Elephant Movie Read More
-    *   Next 3 Exciting Family Adventures: 'Dumbo,' 'Detective Pikachu,' 'Aladdin' Read More
+    *   Release Dates Set for 'The Batman' and 'The Suicide Squad' Read More
     *   ‘Dumbo’ Set Visit: The Cowboy, The Trickster, and the Hunter Read More
     
     Explore Content
@@ -319,6 +319,10 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
+*   Limited Time 'Miss Bala' Offer
+    
+    Get $5 off your tickets\* when you use promo code MISSBALA at checkout. \*Terms Apply. While Supplies Last. BUY TICKETS
+    
 *   'How to Train Your Dragon: The Hidden World' Fandango Early Access
     
     See it 3 weeks before it hits theaters! Plus, stream a bonus DreamWorks movie on us with ticket purchase! BUY TICKETS
@@ -326,10 +330,6 @@ Offers
 *   Get $8 towards a movie ticket to see BumbleBee in theaters now!
     
     When you purchase participating Paramount DVD or BluRay. Offer Expires on 2/28/2019. ENTER NOW
-    
-*   Fandango Gift Cards
-    
-    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
 
 New + Coming soon
