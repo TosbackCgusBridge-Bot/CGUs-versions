@@ -72,7 +72,6 @@ Search fidelity.com or get a quote
     *   Fixed Income, Bonds &. CDs
     *   ETFs
     *   Options
-    *   Margin Loans
     *   Sector Investing
     *   Cash Management &. Credit Cards
     *   Managed Accounts
