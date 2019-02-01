@@ -36,7 +36,9 @@ Please follow these instructions to install Firefox.
 *   **Download Firefox**
 *   **Download Firefox**
 
-Firefox Privacy Notice
+Firefox Privacy Notice Get a Firefox Account
+
+Check out the Benefits
 
 *   Firefox Close Firefox menu
     
