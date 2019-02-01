@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -25,14 +27,12 @@
     *   State of the Union Polls
     *   All Latest Election Polls
 *   Election 2020
-    *   Democratic Primary Polls
-    *   Republican Primary Polls
+    *   Democratic Nomination
     *   General Election Polls
     *   Generic Congressional Ballot
-    *   Senate 2020 Polls
-    *   Governor 2020 Polls
-    *   National Presidential Polls
-    *   State Presidential Polls
+    *   Presidential Primary Polls
+    *   Senate Polls
+    *   Governor Polls
     *   Latest Election 2020 Polls
 *   Video
 *   Writers
@@ -67,14 +67,12 @@
         *   All Latest Election Polls
     *   RCP Election 2020
         *   Election 2020
-        *   Democratic Primary Polls
-        *   Republican Primary Polls
+        *   Democratic Nomination
         *   General Election Polls
         *   Generic Congressional Ballot
-        *   Senate 2020 Polls
-        *   Governor 2020 Polls
-        *   National Presidential Polls
-        *   State Presidential Polls
+        *   Presidential Primary Polls
+        *   Senate Polls
+        *   Governor Polls
         *   Latest Election 2020 Polls
     *   Video
     *   Writers
@@ -113,53 +111,53 @@
     *   About
     *   Media Kit
 
-*   _Rob Crilly_: How the Partial Shutdown Helped Trump
+*   _Ron Brownstein_: The Coming Democratic Drama Over Medicare for All
     
-*   _Thomas Edsall_: The 'Rotten Equilibrium' of Republican Politics
+*   _Vice President Mike Pence_: Life Is Under Attack
     
-*   _Harris &. Ball_: Record Cold Forces Rethink on Global Warming
+*   _Edward Luce_: The Audacity of America's Oligarchy
     
-*   _James Rainey_: Experts Say Extreme Cold Doesn't Debunk Global Warming
+*   _Piers Morgan_: Listen to Schultz: America Won't Elect a Loony Lefty
     
-*   _Alan Dershowitz_: Why Arrest Stone Instead of Asking Him to Surrender?
+*   _George Will_: Klobuchar Could Break MN's Presidential Losing Streak
     
-*   _Joyce Vance_: Why You Should Have Faith in Mueller's Russia Probe
+*   _Paul Starr_: 5 Reasons MAGA Doesn't Add Up
     
-*   _Ben Shapiro_: Dem VA Governor Endorses Murder of Born-Alive Infants
+*   _Mene Ukueberuwa_: Politicians Put Populism Over Pensions
     
-*   _Mark Stern_: Roe v. Wade Is Under Immediate Threat
+*   _Amy Davidson Sorkin_: Brexit Enters Realm of Science Fiction
     
-*   _Michael Dougherty_: Trump the Neophyte May Not Be Up to the Job
+*   _Christopher Caldwell_: What Europe Thinks of Brexit
     
-*   _Julie Kelly_: National Review: Still Clueless After All These Years
+*   _Samantha Allen_: What Smollett's Attack Reveals About Hate Crime in America
     
-*   _Josh Kraushaar_: Why Schultz's Candidacy Should Be Taken Seriously
+*   _Patrick Poole_: Alleged Hate Crime Yields More Questions, No Answers
     
-*   _Rep. James Clyburn_: Trump's Manufactured Border Security Crisis
+*   _Carl M. Cannon_: Here's to You, Mr. Robinson
     
-*   _Mollie Hemingway_: Is Congress Too Broken to Compromise on the Border?
+*   _Victor Davis Hanson_: Much Has Changed for the Better Since 2016
     
-*   _David Rohde_: An Opportunity to End America's Longest War
+*   _Joel Mathis_: Trump Is On a Major Losing Streak
     
-*   _Ryan Crocker_: I Was Ambassador to Afghanistan. This Is Surrender.
+*   _Steve Cortes_: The Growing Radicalism of the Party of Death
     
-*   _Ross Douthat_: Trump Is Delivering a Better Republican Foreign Policy
+*   _Dana Milbank_: Roger Stone Clown Show a Mircocosm of Trump's Presidency
     
-*   _Nathan Smith_: Why I Sued Obama, My Commander-in-Chief
+*   _Andrew Napolitano_: Mueller's Jackbooted Thugs an American Nightmare
     
-*   _Glenn Kirschner_: Stone Indictment Suggests Mueller Isn't Done--Not Yet
+*   _Juan Guaido_: Venezuelans, Strength Is in Unity
     
-*   _James Robbins_: The Collapse of the Russian Collusion Narrative
+*   _Frida Ghitis_: Trump Is Right About Venezuela
     
-*   _Yascha Mounk_: Kamala Harris's Message Can Win in 2020
+*   _Megan McArdle_: Medicare-for-All Means 4 More Years of Trump
     
-*   _Rush Limbaugh_: Kamala Harris: Not New, Not Fresh, Not Different
+*   _Brent Budowsky_: Democrats Can Win a Landslide in 2020
     
-*   _Michelle Goldberg_: Howard Schultz, Please Don't Run for President
+*   _Monica Crowley_: Democrats Will Have a Hard Time Beating Trump
     
-*   _Peter Berkowitz_: Conflating Ideas Weakens Constitutional Principles
+*   _E.J. Dionne_: Howard Schultz and the Frappuccino Syndrome
     
-*   _Brent Bozell_: The NFL Recovers After Putting an End to Anthem Protests
+*   _Scott Paul_: Will Trump Flub the China Trade Talks?
     
 
 *   Previous
@@ -230,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Schumer Wields Leverage and a Flip Phone Against Trump
+*   McConnell Looks to Stymie Trump on Syria, Afghanistan Withdrawal
+*   Stone: More Sent to Arrest Me Than to Secure Benghazi Compound
+*   Potential Dem Candidates Weigh How to Recapture Voters in Midwest
 *   U.S., China Launch High Level Trade Talks Amid Deep Differences
-*   Trump Says Lawmakers "Wasting Their Time" If Not Discussing Wall
-*   Christie: "God Bless Howard Schultz. Run, Howard, Run"
-*   Trump, Pelosi Agree on Feb. 5 for State of the Union Address
-*   U.S. Hits Venezuela With Oil Sanctions to Pressure Maduro
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -271,11 +269,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Nancy Pelosi: "There's Not Going To Be Any Wall Money" From Bipartisan Committee
+*   Steve Schmidt: People Complaining About Howard Schultz Are Same People Who Said Trump Couldn't Win
 *   Bloomberg: We Shouldn't Be Embarrassed About Capitalism, "Non-Capitalistic" Venezuela Is Collapsing
 *   Tucker Carlson: Tom Brokaw Expressed "An Unauthorized Opinion" on Immigration, A "Thought Crime"
 *   CNN Investigates: Does Trump Get His Border Talking Points From Movies? Uses "Fiction" For Rhetoric
-*   Christie Drinks With Colbert on 'Late Show': Trump "Blew It" On Shutdown, GOP "Something Different"
-*   Joy Behar to Howard Schultz: Your Candidacy "Will Guarantee Trump Another Four Years"
 
 *   Politics
 *   Policy
