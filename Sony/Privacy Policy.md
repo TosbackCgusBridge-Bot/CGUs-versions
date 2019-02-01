@@ -119,7 +119,7 @@ In Theaters This Week
 
 New #SpiderManPS4 update! Celebrate the wall-crawler's history with the Fantastic Four by donning two striking new suits:  https://play.st/2TobsWV  pic.twitter.com/IHgKOkWI8u
 
-2 days ago
+3 days ago
 
 View Tweet
 
