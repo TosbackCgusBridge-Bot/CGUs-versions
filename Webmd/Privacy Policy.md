@@ -1,4 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -80,8 +80,8 @@ Want to live your best life? Get the WebMD Daily newsletter for health tips, wel
     *   Healthy Teens
     *   Fit Kids
     
-    Featured Topics*   Slideshow 15 Ways to Keep Your Mind Young
-    *   Slideshow Tips to Help You Stop Wasting Time
+    Featured Topics*   Slideshow Which Food Has More Saturated Fat?
+    *   Quiz Do You Know the Benefits of Walking?
 *   Family &  
     Pregnancy Family &. Pregnancy Family &. Pregnancy All About Pregnancy
     
@@ -464,7 +464,7 @@ Click Here to View WebMD's Accreditation Seal >>
     *   Advertise with Us
     *   Advertising Policy
 
-© 2005 - 2018 WebMD LLC. All rights reserved.
+© 2005 - 2019 WebMD LLC. All rights reserved.
 
 WebMD does not provide medical advice, diagnosis or treatment.
 
