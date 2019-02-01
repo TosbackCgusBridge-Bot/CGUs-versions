@@ -32,7 +32,7 @@ Thomson Reuters Legal
     
     Featured
     
-    **Practical Law Guided Tour** Explore the features that make our legal resources the ideal starting point for any legal task. Learn more
+    **Practical Law resources** Explore the features that make our legal resources the ideal starting point for any legal task. Learn more
 *   InsightsInsights Insights
     
     *   Latest stories
