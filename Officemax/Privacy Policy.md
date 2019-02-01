@@ -38,7 +38,7 @@ Stock Quote and Chart
 
 Price
 
-$2.94
+$2.95
 
 Change
 
