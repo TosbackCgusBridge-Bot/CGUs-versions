@@ -47,7 +47,6 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Bottoms ) Bottoms
 
 *   Jackets
-*   Hats + Scarves
 *   Dresses
 *   Accessories
 *   Footwear
@@ -130,6 +129,7 @@ Close submenu ( Tops ) Tops
 *   Long Sleeve
 *   Hoodies + Sweatshirts
 *   Shirts
+*   Sweaters
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -170,6 +170,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Bootcut
 *   Cheeky
 *   Wide Leg
+*   Mom Fit
 *   Overalls
 *   Flex Effects
 *   Eco-Friendly Repreve
@@ -215,7 +216,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Buy More. Save More. $25 off $100** Use Code **SAVEMORE** **BUY 1 GET 1 FREE JEANS + FREE SHIPPING OVER $50**
+**Online Only: Extra 15% off** Use Code **GAMEDAY15** **BUY 1 GET 1 FREE JEANS + FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -270,7 +271,6 @@ Menu Find a Store Aeropostale
         
     
     *   Jackets
-    *   Hats + Scarves
     *   Dresses
     *   Accessories
     *   Footwear
@@ -306,6 +306,7 @@ Menu Find a Store Aeropostale
         *   Long Sleeve
         *   Hoodies + Sweatshirts
         *   Shirts
+        *   Sweaters
     
     *   Bottoms
         *   View All
@@ -348,6 +349,7 @@ Menu Find a Store Aeropostale
         *   Bootcut
         *   Cheeky
         *   Wide Leg
+        *   Mom Fit
         *   Overalls
         *   Flex Effects
         *   Eco-Friendly Repreve
@@ -394,7 +396,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Shop Girls Shop Guys Shop Girls Shop Guys AERO GIRLS TEES In Stores &. Online $9 &. Up Shop Girls Graphics Shop Girls Long Sleeve Shop Girls Bodycon Shop Girls Shop Guys AERO GUYS TEES In Stores &. Online $8 &. Up Shop Guys Graphics Shop Guys Long Sleeve HOODIES &. SWEATSHIRTS In Stores &. Online $16 &. Up Shop Girls Shop Guys JACKETS &. VESTS In Stores &. Online $15 &. Up Shop Girls Shop Guys Girls Clearance Guys Clearance Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Shop Girls Shop Guys Shop Girls Shop Guys AERO GIRLS TEES In Stores &. Online $8 &. Up Shop Girls Graphics Shop Girls Long Sleeve Shop Girls Bodycon Shop Girls Shop Guys AERO GUYS TEES In Stores &. Online $8 &. Up Shop Guys Graphics Shop Guys Long Sleeve HOODIES &. SWEATSHIRTS In Stores &. Online $15 &. Up Shop Girls Shop Guys JACKETS &. VESTS In Stores &. Online Up To 60% Off Shop Girls Shop Guys Girls Clearance Guys Clearance Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
