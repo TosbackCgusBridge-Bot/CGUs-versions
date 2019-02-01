@@ -169,7 +169,6 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 *   Accessories
 *   Toyota Certified Used Vehicles
 *   Compare Vehicles
-*   Payment Estimator
 *   Contact a Dealer
 *   Find Your Match
 *   Buy Parts and Accessories
