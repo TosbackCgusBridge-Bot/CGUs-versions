@@ -1,14 +1,14 @@
-We use cookies
-
-We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information can be found in our Terms and conditions, Cookie policy and Privacy notice.
-
-I accept Skip to:
+Skip to:
 
 *   Primary navigation
 *   Main content
 *   Footer
 
-Menu
+We use cookies
+
+We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information can be found in our Terms and conditions, Cookie policy and Privacy notice.
+
+I accept Menu
 
 *   Who we are Who we are
     
@@ -206,21 +206,7 @@ Menu
 *   Online banking
 *   Contact
 
-Online banking Contact Search Online banking
-
-Go to my
-
-Toggle Go to my dropdown
-
-Account in
-
-Toggle Account in dropdown
-
-Go Remember me Go
-
-You are leaving HSBC.com. Please be aware that the external site policies, or those of another HSBC Group website, may differ from our website terms and conditions and privacy policy. The next site will open in a new browser window. Note: HSBC is not responsible for any content on third party sites, nor does a link suggest endorsement of those sites and/or their content.
-
-Learn about online security Close Close online banking panel Terms and conditions
+Online banking Contact Search Terms and conditions
 
 Before using this Site, you should read these Terms carefully, as well as our Cookie Policy. By accessing this Site, you agree to be bound by the Terms.
 
@@ -384,15 +370,6 @@ Share
 *   Print this page
 *   Subscribe to RSS
 
-Share
-
-*   Email Email a link to this page
-*   Twitter Tweet this Open in new window
-*   LinkedIn Share on LinkedIn Open in new window
-*   Facebook Share on Facebook Open in new window
-*   Facebook Messenger Share on Facebook Messenger Open in new window
-*   Whatsapp Share on WhatsApp Open in new window
-
 Did you find this page useful?
 
 *   Yes
@@ -432,4 +409,72 @@ Thank you. We appreciate you taking the time to give us feedback.
 
 Search (auto-suggestions will appear below field) Submit search
 
-**See all results** **No results** Close Close search panel
+**See all results** **No results** Close Close search panel Online banking
+
+Go to my
+
+Banking selector (auto-suggestions will appear below field)Toggle Go to my dropdown
+
+*   Personal banking
+*   Business banking
+*   Corporate and institutional banking
+*   Private banking
+
+Account in
+
+Location selector (auto-suggestions will appear below field) 36 results are availableToggle Account in dropdown
+
+*   Most popular
+*   Hong Kong
+*   UK
+*   USA
+*   All countries
+*   Argentina
+*   Armenia
+*   Australia
+*   Bahrain
+*   Bangladesh
+*   Bermuda
+*   Canada
+*   China
+*   Egypt
+*   France
+*   Greece
+*   Guernsey
+*   Hong Kong
+*   HSBC Expat
+*   India
+*   Indonesia
+*   Isle of Man
+*   Jersey
+*   Malaysia
+*   Malta
+*   Mauritius
+*   Mexico
+*   New Zealand
+*   Oman
+*   Philippines
+*   Qatar
+*   Saudi Arabia
+*   Singapore
+*   Sri Lanka
+*   Taiwan
+*   Turkey
+*   UAE
+*   UK
+*   UK - first direct
+*   USA
+*   Vietnam
+
+Go Remember me Go
+
+You are leaving HSBC.com. Please be aware that the external site policies, or those of another HSBC Group website, may differ from our website terms and conditions and privacy policy. The next site will open in a new browser window. Note: HSBC is not responsible for any content on third party sites, nor does a link suggest endorsement of those sites and/or their content.
+
+Learn about online security Close Close online banking panel Share
+
+*   Email Email a link to this page
+*   Twitter Tweet this Open in new window
+*   LinkedIn Share on LinkedIn Open in new window
+*   Facebook Share on Facebook Open in new window
+*   Facebook Messenger Share on Facebook Messenger Open in new window
+*   Whatsapp Share on WhatsApp Open in new window
