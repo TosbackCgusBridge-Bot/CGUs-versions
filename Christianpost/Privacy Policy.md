@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Pastor suicide
-*   Abortion up to birth
-*   Feminists
+*   Sanders
+*   Trump faith
+*   Oath
 *   Va. abortion
-*   Principal
+*   Pastor suicide
 
 About Us
 
