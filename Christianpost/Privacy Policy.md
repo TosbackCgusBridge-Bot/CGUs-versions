@@ -31,8 +31,8 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Sanders
-*   Trump faith
+*   Black history
+*   Super Bowl
 *   Oath
 *   Va. abortion
 *   Pastor suicide
