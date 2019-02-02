@@ -424,7 +424,7 @@ About NPR
 *   Finances
 *   People
 *   Press
-*   Ombudsman
+*   Public Editor
 *   Corrections
 
 Get Involved
