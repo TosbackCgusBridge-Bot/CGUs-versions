@@ -72,9 +72,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   ‘Dumbo’ Set Visit: Grounding a Flying Elephant Movie Read More
-    *   Release Dates Set for 'The Batman' and 'The Suicide Squad' Read More
-    *   ‘Dumbo’ Set Visit: The Cowboy, The Trickster, and the Hunter Read More
+    *   The Week in Movie News: Sundance Buzz, 'The Batman' and 'Suicide Squad 2' Updates and More Read More
+    *   Idris Elba is a Literally Super Villain in First ‘Hobbs &. Shaw’ Trailer. Here’s Everything We Know Read More
+    *   Today in Movie Culture: 'Die Hard' Meets 'Tropic Thunder,' 'Office Space' Trivia and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -319,13 +319,17 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   Limited Time 'Miss Bala' Offer
+*   'The Lego Movie 2: The Second Part' Sweepstakes
     
-    Get $5 off your tickets\* when you use promo code MISSBALA at checkout. \*Terms Apply. While Supplies Last. BUY TICKETS
+    Buy tickets for a chance to win a trip to The Lego® Movie™ World at Legoland® Florida Resort! BUY TICKETS
     
 *   'How to Train Your Dragon: The Hidden World' Fandango Early Access
     
     See it 3 weeks before it hits theaters! Plus, stream a bonus DreamWorks movie on us with ticket purchase! BUY TICKETS
+    
+*   Fandango VIP
+    
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 *   Get $8 towards a movie ticket to see BumbleBee in theaters now!
     
@@ -370,7 +374,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   January Celebrity Birthdays
+*   February Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
