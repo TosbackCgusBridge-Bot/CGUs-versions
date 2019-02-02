@@ -1,8 +1,8 @@
 SUPER BOWL
 
 *   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
+*   NFL experts make their Super Bowl LIII picks
 *   Move the SticksPatriots vs. Rams preview | Super Bowl LIII
-*   Game PreviewsPatriots vs. Rams | 'Madden NFL 19' Super Bowl LIII simulation
 
 *   News
 *   Scores
@@ -27,8 +27,8 @@ SUPER BOWL
 SUPER BOWL
 
 *   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
+*   NFL experts make their Super Bowl LIII picks
 *   Move the SticksPatriots vs. Rams preview | Super Bowl LIII
-*   Game PreviewsPatriots vs. Rams | 'Madden NFL 19' Super Bowl LIII simulation
 
 *   News
 *   Scores
