@@ -5,7 +5,7 @@
 *   Log inLog in
 *   Cart (0)
 
-Thomson Reuters Legal
+Thomson Reuters LEGAL
 
 *   ProductsProducts Top products
     
@@ -171,6 +171,8 @@ Free trial Search
     *   Billing, returns, and refunds
     *   Support by product
     *   Reference attorneys
+    *   Legal notices
+    *   About us
 *   Connect
     *   Facebook
     *   Twitter
@@ -183,10 +185,7 @@ Thomson Reuters
 *   Terms of use
 *   Privacy statement
 *   Copyright
-*   Careers
-*   Supply chain transparency
-*   Site map
-*   Feedback
+*   Accessibility
 
 <img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=215515565692587&ev=PageView&noscript=1" />.
 
