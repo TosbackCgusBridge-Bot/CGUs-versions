@@ -31,10 +31,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Black history
+*   Alexa
+*   'Annie Christ'
+*   Day of Mourning
 *   Super Bowl
-*   Oath
-*   Va. abortion
 *   Pastor suicide
 
 About Us
