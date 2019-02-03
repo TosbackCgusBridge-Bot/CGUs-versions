@@ -1,7 +1,7 @@
 SUPER BOWL
 
 *   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
-*   NFL experts make their Super Bowl LIII picks
+*   Game TheoryGame Theory: Super Bowl LIII win probability, score prediction
 *   Move the SticksPatriots vs. Rams preview | Super Bowl LIII
 
 *   News
@@ -27,7 +27,7 @@ SUPER BOWL
 SUPER BOWL
 
 *   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
-*   NFL experts make their Super Bowl LIII picks
+*   Game TheoryGame Theory: Super Bowl LIII win probability, score prediction
 *   Move the SticksPatriots vs. Rams preview | Super Bowl LIII
 
 *   News
