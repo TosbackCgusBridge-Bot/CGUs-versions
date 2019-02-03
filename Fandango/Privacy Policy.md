@@ -323,10 +323,6 @@ Offers
     
     Buy tickets for a chance to win a trip to The Lego® Movie™ World at Legoland® Florida Resort! BUY TICKETS
     
-*   'How to Train Your Dragon: The Hidden World' Fandango Early Access
-    
-    See it 3 weeks before it hits theaters! Plus, stream a bonus DreamWorks movie on us with ticket purchase! BUY TICKETS
-    
 *   Fandango VIP
     
     Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
