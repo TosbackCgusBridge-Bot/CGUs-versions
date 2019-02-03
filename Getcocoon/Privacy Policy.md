@@ -2,7 +2,7 @@
 
 *   *   Download
     *   Sign Up
-    *   Features
+    *   MyData Rewards
     *   How It Works
     *   Support
 
@@ -17,7 +17,7 @@
     *   Contact
 *   Download
 *   Sign Up
-*   Features
+*   MyData Rewards
 
 Company Info Pages
 
