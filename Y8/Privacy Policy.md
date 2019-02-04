@@ -12,8 +12,8 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 706 games
-*   Most Popular Games 18671 games
+*   Best of new games 707 games
+*   Most Popular Games 18678 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -25,18 +25,18 @@ CATEGORIES
 *   Strategy &. RPG Games 2,405 games
 *   Management Games 3,641 games
 *   Thinking Games 11,917 games
-*   Action &. Adventure Games 15,941 games
-*   Sports Games 2,164 games
-*   Shooting Games 8,391 games
+*   Action &. Adventure Games 15,942 games
+*   Sports Games 2,165 games
+*   Shooting Games 8,392 games
 *   Fighting Games 2,093 games
-*   Skill Games 10,777 games
-*   Arcade &. Classic Games 12,749 games
-*   Fun &. Crazy Games 2,483 games
+*   Skill Games 10,783 games
+*   Arcade &. Classic Games 12,750 games
+*   Fun &. Crazy Games 2,484 games
 
 Play with friends  
-Powered by Y8 Account 137 Y8 Multiplayer Games 1,858 Y8 High Score Games 1,120 Y8 Achievements Games 800 Y8 Screenshots Games 1,385 Y8 Online Save Games 2,882 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 137 Y8 Multiplayer Games 1,859 Y8 High Score Games 1,120 Y8 Achievements Games 800 Y8 Screenshots Games 1,385 Y8 Online Save Games 2,883 All Y8 Games Games Last Highscore:
 
-**25,818** points on Military Wars 3D Multiplayer by will
+**1,366** points on Penalty Kicks by anime5a1
 
 Help us improve Bad translation? Social
 
