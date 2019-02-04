@@ -8,33 +8,56 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Go Couture Dresses Up to 80% Off
+    *   Vertigo Up to 80% Off
+    *   Jewelry Box Essentials Up to 80% Off
+    *   Booties, Sandals &. More Up to 50% Off
+    *   Sunday Steals Up to 80% Off
+    *   Men's Shoes Up to 70% Off
+    *   Free Shipping: Amrapur Bedding Up to 75% Off
+    *   On-Trend Jewelry ft. Olivia Welles Up to 75% Off
+    *   Sperry Starting at $40
+    *   Sperry Men Starting at $40
+    *   For Your Valentine: Fragrances ft. Burberry
+    *   Murad
+    *   Jackets, Denim &. More ft. Sanctuary
+    *   Animal Instinct: Leopard-Print Styles &. More
+    *   Surf's Up: Sporty Swim Up to 60% Off
+    *   Minnie Rose Cashmere
+    *   Socks ft. Smartwool
+    *   Belstaff &. More Starting at $30
+    *   Sperry Kids Starting at $20
+    *   Free Shipping: Canvas Wall Art Up to 80% Off
+    *   Gurhan 24K Gold Jewelry &. More Up to 50% Off
+    *   Flats ft. Sandals &. Loafers Up to 50% Off
+    *   Men's Underwear, Socks &. More Up to 65% Off
+    *   Prep It Up: Boys' &. Girls' Styles ft. Nautica
+    *   Kendra Scott Starting at $15
+    *   Date Night Style: Men's Shirts, Jackets &. More
     *   Naked Zebra
+    *   Go Couture Dresses Up to 80% Off
     *   True Religion Men Up to 65% Off
     *   TOV
     *   Lacoste Men's Shoes Starting at $25
     *   Bed|Stu
+    
     *   Amelia Dresses
     *   BECCA Cosmetics
     *   Street Active ft. Ivy Park
+    *   Free Shipping: Laura Ashley Bedding
     *   Teami Blends Detox Teas &. Supplements
     *   On-Trend Jewelry ft. Gabi Rielle from $20
     *   Rachel Maddison Gemstone &. Sterling Jewelry
     *   Nordstrom Rack Exclusive: Abound Shoes
     *   Dr. Botanicals Natural Beauty
-    *   Free Shipping: Laura Ashley Bedding
     *   Travel Ready: Luggage for Every Style
     *   Down &. Memory Foam Essentials
     *   On the Go: Lightning Cables &. More
-    *   Hickey Freeman Up to 60% Off
-    *   7 For All Mankind Kids
     *   Pick Your Pair: Boots &. Booties Up to 70% Off
     *   Sleepwear for Every Season Under $30
     *   Men's Sweater Blowout
     *   Men's Boots Up to 70% Off
     *   Free Shipping: Luxury Accessories for Him
     *   Kids' Shoes Up to 70% Off
-    
     *   Designer Clothing Up to 70% Off
     *   Men's Designer Shoes ft. BALLY up to 60% Off
     *   Designer Shoes Up to 60% Off
@@ -44,16 +67,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   James Jeans
     *   14K Gold &. More Under $80
     *   Socialite
-    *   Pur Cosmetics Starting at $10
-    *   Free Shipping: Oliver Gal Gallery
-    *   Men's Designer Accessories Up to 60% Off
+    *   Must-Have Sweaters from $10 Incl. Plus &. Petites
+    *   Work or Play: Pants Under $25
+    *   SUSINA and 14th &. Union Incl. Plus &. Petites
+    *   HUE
+    
     *   Lancaster Paris
     *   Michou Gemstone &. Sterling Silver Jewelry
     *   Aldo &. More
     *   Now in Bloom: Candles, Notebooks &. More
-    *   SPANX
-    *   CZ by Kenneth Jay Lane Up to 70% Off
-    *   Rivka Friedman Jewelry Up to 70% Off
     *   Skinn Cosmetics Up to 75% Off
     *   Free Shipping: Bedding We Love Starting at $19
     *   Harper Canyon Starting at $10
@@ -61,7 +83,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Face Masks We Love
     *   Diadora Men
     *   NutriChef Kitchen Electrics Up to 60% Off
-    
     *   Boys' Tanks &. Trunks ft. Volcom
     *   Girls' Rompers &. Dresses ft. Jessica Simpson
     *   Makeup Palettes &. More ft. Urban Decay
@@ -70,28 +91,38 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Kitchen Essentials Starting at $10
     *   Free Shipping: Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Fresh Decor &. Bedding Up to 70% Off
-    *   Gracia
+    *   Free Shipping: BergHOFF
     *   Jonathan Adler
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
+    *   Hickey Freeman Up to 60% Off
+    *   Pur Cosmetics Starting at $10
+    *   Free Shipping: Oliver Gal Gallery
+    *   Men's Designer Accessories Up to 60% Off
+    *   Gracia
+    *   Fujifilm Cameras We Love
     *   Free Shipping: Marmont Hill Wall Art
-    *   Zoe Ayla Skin Care &. More
-    *   Must-Have Sweaters from $10 Incl. Plus &. Petites
-    *   Work or Play: Pants Under $25
-    *   SUSINA and 14th &. Union Incl. Plus &. Petites
-    *   HUE
     *   Need Now: Coats &. Jackets Up to 80% Off
     *   Free Shipping: Trendsetting Home Decor
-    *   Fujifilm Cameras We Love
-    *   Socks ft. Smartwool
-    *   Desk to Dinner: Dresses Incl. Plus &. Petites
-    *   Free Shipping: BergHOFF
-    *   Free Shipping: Bedding Essentials Blowout
-    *   Organization Essentials Starting at $10
-    *   Tech Essentials: Earbuds, Chargers &. More
 *   WomenShop Sale Events
     
-    *   Go Couture Dresses Up to 80% Off
+    *   Vertigo Up to 80% Off
+    *   Jewelry Box Essentials Up to 80% Off
+    *   Booties, Sandals &. More Up to 50% Off
+    *   Sunday Steals Up to 80% Off
+    *   On-Trend Jewelry ft. Olivia Welles Up to 75% Off
+    *   Sperry Starting at $40
+    *   For Your Valentine: Fragrances ft. Burberry
+    *   Murad
+    *   Jackets, Denim &. More ft. Sanctuary
+    *   Animal Instinct: Leopard-Print Styles &. More
+    *   Surf's Up: Sporty Swim Up to 60% Off
+    *   Minnie Rose Cashmere
+    *   Socks ft. Smartwool
+    *   Gurhan 24K Gold Jewelry &. More Up to 50% Off
+    *   Flats ft. Sandals &. Loafers Up to 50% Off
+    *   Kendra Scott Starting at $15
     *   Naked Zebra
+    *   Go Couture Dresses Up to 80% Off
     *   TOV
     *   Bed|Stu
     *   Amelia Dresses
@@ -100,6 +131,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Teami Blends Detox Teas &. Supplements
     *   On-Trend Jewelry ft. Gabi Rielle from $20
     *   Rachel Maddison Gemstone &. Sterling Jewelry
+    
     *   Nordstrom Rack Exclusive: Abound Shoes
     *   Dr. Botanicals Natural Beauty
     *   Pick Your Pair: Boots &. Booties Up to 70% Off
@@ -111,53 +143,51 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   James Jeans
     *   14K Gold &. More Under $80
     *   Socialite
-    
-    *   Pur Cosmetics Starting at $10
+    *   Must-Have Sweaters from $10 Incl. Plus &. Petites
+    *   Work or Play: Pants Under $25
+    *   SUSINA and 14th &. Union Incl. Plus &. Petites
+    *   HUE
     *   Lancaster Paris
     *   Michou Gemstone &. Sterling Silver Jewelry
     *   Aldo &. More
-    *   SPANX
-    *   CZ by Kenneth Jay Lane Up to 70% Off
-    *   Rivka Friedman Jewelry Up to 70% Off
     *   Skinn Cosmetics Up to 75% Off
     *   NuvaLash Natural Lash &. Brow Enhancing Serum
     *   Face Masks We Love
     *   sweatWELLth
     *   Further Food
+    *   Pur Cosmetics Starting at $10
     *   Gracia
-    *   Zoe Ayla Skin Care &. More
-    *   Must-Have Sweaters from $10 Incl. Plus &. Petites
-    *   Work or Play: Pants Under $25
-    *   SUSINA and 14th &. Union Incl. Plus &. Petites
-    *   HUE
     *   Need Now: Coats &. Jackets Up to 80% Off
-    *   Socks ft. Smartwool
-    *   Desk to Dinner: Dresses Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Tech Accessories
-    *   Lingerie
     *   Watches
+    *   Lingerie
     *   Handbags
 *   MenShop Sale Events
     
+    *   Men's Shoes Up to 70% Off
+    *   Sperry Men Starting at $40
+    *   Belstaff &. More Starting at $30
+    *   Men's Underwear, Socks &. More Up to 65% Off
+    *   Date Night Style: Men's Shirts, Jackets &. More
     *   True Religion Men Up to 65% Off
     *   Lacoste Men's Shoes Starting at $25
     *   Teami Blends Detox Teas &. Supplements
     *   Travel Ready: Luggage for Every Style
-    *   Hickey Freeman Up to 60% Off
+    
     *   Men's Sweater Blowout
     *   Men's Boots Up to 70% Off
-    
     *   Men's Designer Shoes ft. BALLY up to 60% Off
     *   Men's Designer Clothing Up to 60% Off
     *   Designer Watches &. Jewelry Up to 50% Off
-    *   Men's Designer Accessories Up to 60% Off
     *   Diadora Men
     *   Further Food
+    *   Hickey Freeman Up to 60% Off
+    *   Men's Designer Accessories Up to 60% Off
     
     Shop By Category
     *   Shoes
@@ -166,7 +196,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
-    *   7 For All Mankind Kids
+    *   Sperry Kids Starting at $20
+    *   Prep It Up: Boys' &. Girls' Styles ft. Nautica
     *   Kids' Shoes Up to 70% Off
     *   Harper Canyon Starting at $10
     *   Boys' Tanks &. Trunks ft. Volcom
@@ -176,58 +207,58 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Girls' Shoes
     *   Girls' Sizes 2T-6X
     *   Boys' Shoes
-    *   Boys' Sizes 8-20
     *   Girls' Sizes 7-16
+    *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
     *   Baby Girl
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Amrapur Bedding Up to 75% Off
+    *   Free Shipping: Canvas Wall Art Up to 80% Off
     *   Free Shipping: Laura Ashley Bedding
     *   Down &. Memory Foam Essentials
     *   On the Go: Lightning Cables &. More
     *   Free Shipping: Luxury Accessories for Him
-    *   Free Shipping: Oliver Gal Gallery
     *   Now in Bloom: Candles, Notebooks &. More
     *   Free Shipping: Bedding We Love Starting at $19
     *   NutriChef Kitchen Electrics Up to 60% Off
     *   Free Shipping: Kitchen Essentials Starting at $10
-    *   Free Shipping: Pet-Friendly Covers, Beds &. More
     
+    *   Free Shipping: Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Fresh Decor &. Bedding Up to 70% Off
+    *   Free Shipping: BergHOFF
     *   Jonathan Adler
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
+    *   Free Shipping: Oliver Gal Gallery
+    *   Fujifilm Cameras We Love
     *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Trendsetting Home Decor
-    *   Fujifilm Cameras We Love
-    *   Free Shipping: BergHOFF
-    *   Free Shipping: Bedding Essentials Blowout
-    *   Organization Essentials Starting at $10
-    *   Tech Essentials: Earbuds, Chargers &. More
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
     *   Pet Accessories
-    *   Storage &. Organization
     *   Luggage &. Travel
     *   Outdoor Living
+    *   Storage &. Organization
     *   Bath
 *   BeautyShop Sale Events
     
+    *   For Your Valentine: Fragrances ft. Burberry
+    *   Murad
     *   BECCA Cosmetics
     *   Teami Blends Detox Teas &. Supplements
     *   Dr. Botanicals Natural Beauty
-    *   Pur Cosmetics Starting at $10
     *   Skinn Cosmetics Up to 75% Off
-    *   NuvaLash Natural Lash &. Brow Enhancing Serum
     
+    *   NuvaLash Natural Lash &. Brow Enhancing Serum
     *   Face Masks We Love
     *   Makeup Palettes &. More ft. Urban Decay
     *   sweatWELLth
     *   Further Food
-    *   Zoe Ayla Skin Care &. More
+    *   Pur Cosmetics Starting at $10
     
     Shop By Category
     *   Skin Care
