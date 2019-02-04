@@ -1,3 +1,9 @@
+Pick a theme
+
+*   Red
+*   Blue
+*   Pink
+
 Apps
 
 *   {text}
@@ -52,8 +58,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Family Barn
     *   Let's Fish!: Multiplayer Fishing Game Online
+    *   Family Barn
     *   Backgammon: Board Game Online Multiplayer
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
@@ -461,5 +467,4 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
+Your privacy settingsWe use cookies to personalize and enhance your experience on our site. Visit our Privacy Policy for more information on our data collection practices. By clicking Accept, you agree to our use of cookies for the purposes listed in our Cookie Consent Tool. Otherwise you can learn more about our use of cookies by clicking Settings.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
