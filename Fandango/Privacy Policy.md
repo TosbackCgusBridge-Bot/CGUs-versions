@@ -21,7 +21,6 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Opening This Week = Limited Release
     
     *   Miss Bala (2019)
-    *   Fandango Early Access: How to Train Your Dragon: The Hidden World
     *   Arctic (2018)
     *   Ek Ladki Ko Dekha Toh Aisa Laga
     *   Kaake Da Viyah
