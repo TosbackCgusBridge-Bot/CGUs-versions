@@ -1,8 +1,8 @@
 SUPER BOWL
 
-*   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
-*   Game TheoryGame Theory: Super Bowl LIII win probability, score prediction
-*   Move the SticksPatriots vs. Rams preview | Super Bowl LIII
+*   NE11-513LA13-33Final
+*   Game HighlightsPatriots vs. Rams highlights | Super Bowl LIII
+*   Game HighlightsBrady and Edelman hug following Super Bowl LIII win
 
 *   News
 *   Scores
@@ -26,9 +26,9 @@ SUPER BOWL
 
 SUPER BOWL
 
-*   NE11-5LA13-3Sun, 2/3, 6:30 pm ET
-*   Game TheoryGame Theory: Super Bowl LIII win probability, score prediction
-*   Move the SticksPatriots vs. Rams preview | Super Bowl LIII
+*   NE13LA3Final
+*   Game HighlightsPatriots vs. Rams highlights | Super Bowl LIII
+*   Game HighlightsBrady and Edelman hug following Super Bowl LIII win
 
 *   News
 *   Scores
@@ -55,7 +55,7 @@ SUPER BOWL
 *   Shop
 *   Teams
 
-NFL.com - Privacy Policy English
+BREAKING NEWSPatriots defeat Rams to win Super Bowl LIIINew England holds Los Angeles to just 3 points. Tom Brady wins his sixth Super Bowl title. Julian Edelman named MVP.READ MORE NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
 Updated: December 20, 2018**  
@@ -253,4 +253,6 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy
+Attn: Website Privacy Policy  
+
+  New England holds Los Angeles to just 3 points. Tom Brady wins his sixth Super Bowl title. Julian Edelman named MVP.
