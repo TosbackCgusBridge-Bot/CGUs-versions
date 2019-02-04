@@ -31,9 +31,9 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Alexa
+*   Abortion
 *   'Annie Christ'
-*   Day of Mourning
+*   To our leaders
 *   Super Bowl
 *   Pastor suicide
 
