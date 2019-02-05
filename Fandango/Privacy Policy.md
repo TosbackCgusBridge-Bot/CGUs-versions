@@ -1,4 +1,4 @@
-GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In Sign Out
+GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In Sign Out SPECIAL OFFER X Get a free\* Valentine's Day bouquet with ticket purchase. \*Plus $15 delivery fee to ship free bouquet. Valid for your first purchase on bouqs.com. For new Bouqs users only. Offer is valid from 9:00 a.m. PT on 2/4/2019 through 9:00 a.m. PT on 2/12/2019, subject to availability. While supplies last. Each eligible purchaser on Fandango.com or via the Fandango App will receive a post-purchase email with a code redeemable on bouqs.com (”Code”) valid for a discount of up to $40 off the purchase price of a select bouquet available at thebouqs.com/vday-Fandango only. Code is valid for one product only. Code expires on 2/15/2019. Ticket purchase must be made with a Fandango VIP account. Fandango VIP is free to join. Offer valid in the U.S. only to residents 18 years of age or older. Limit one (1) Code per person and eligible transaction, regardless of the number of tickets purchased in a single transaction. Code may not be combined with any other offer or discount. This is a promotional code and is not to be shared, is non-transferable, is not for resale, has no cash value, and will not be replaced if lost or stolen.
 
 *   Fandango
 *   Go
@@ -7,25 +7,27 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Glass (2019)
     *   The Upside
+    *   Miss Bala (2019)
     *   Aquaman
-    *   The Kid Who Would Be King
     *   Spider-Man: Into the Spider-Verse
     *   Green Book
+    *   The Kid Who Would Be King
     *   A Dog's Way Home
-    *   Serenity (2019)
     *   Escape Room (2019)
-    *   Dragon Ball Super: Broly
+    *   They Shall Not Grow Old
     *   Mary Poppins Returns (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Miss Bala (2019)
-    *   Arctic (2018)
-    *   Ek Ladki Ko Dekha Toh Aisa Laga
-    *   Kaake Da Viyah
-    *   St. Bernard Syndicate
-    *   The Wild Pear Tree
+    *   Cold Pursuit
+    *   The Lego Movie 2: The Second Part
+    *   The Prodigy (2019)
+    *   What Men Want
+    *   Chokehold
+    *   Everybody Knows
+    *   Peppa Pig Celebrates Chinese New Year
+    *   Under The Eiffel Tower
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -34,16 +36,15 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Cold Pursuit
-    *   The Lego Movie 2: The Second Part
-    *   The Prodigy (2019)
-    *   What Men Want
     *   Happy Death Day 2U
     *   Isn't It Romantic
     *   Alita: Battle Angel
     *   How to Train Your Dragon: The Hidden World
-    *   Total Dhamaal
     *   Tyler Perry's A Madea Family Funeral
+    *   Greta (2019)
+    *   Five Feet Apart
+    *   Wonder Park
+    *   Us (2019)
     *   See All Coming Soon
     
     Explore More
@@ -71,9 +72,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Sundance Buzz, 'The Batman' and 'Suicide Squad 2' Updates and More Read More
-    *   Idris Elba is a Literally Super Villain in First ‘Hobbs &. Shaw’ Trailer. Here’s Everything We Know Read More
-    *   Today in Movie Culture: 'Die Hard' Meets 'Tropic Thunder,' 'Office Space' Trivia and More Read More
+    *   Watch Frightening New 'Us' Trailer. Here's Everything We Know Read More
+    *   New 'Toy Story 4' TV Spot Delights. Here's Everything We Know Read More
+    *   Next 3 Animated Adventures: 'The Lego Movie 2,' 'How to Train Your Dragon: Hidden World,' 'Wonder Park' Read More
     
     Explore Content
     *   Movie Reviews
@@ -318,9 +319,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'The Lego Movie 2: The Second Part' Sweepstakes
+*   The Bouqs Valentine's Day Offer
     
-    Buy tickets for a chance to win a trip to The Lego® Movie™ World at Legoland® Florida Resort! BUY TICKETS
+    Receive a free\* Valentine's Day bouquet with ticket purchase! (S&H not included). BUY TICKETS
     
 *   Fandango VIP
     
@@ -329,6 +330,10 @@ Offers
 *   Get $8 towards a movie ticket to see BumbleBee in theaters now!
     
     When you purchase participating Paramount DVD or BluRay. Offer Expires on 2/28/2019. ENTER NOW
+    
+*   'The Lego Movie 2: The Second Part' Sweepstakes
+    
+    Buy tickets for a chance to win a trip to The Lego® Movie™ World at Legoland® Florida Resort! BUY TICKETS
     
 
 New + Coming soon
