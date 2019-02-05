@@ -44,7 +44,7 @@ Check out the Benefits
     
     *   Firefox Quantum Desktop Browser
         
-        Get the browser that gives more power to you on Windows, Mac OS or Linux.
+        Get the browser that gives more power to you on Windows, macOS or Linux.
         
         *   Download
         *   New Features
