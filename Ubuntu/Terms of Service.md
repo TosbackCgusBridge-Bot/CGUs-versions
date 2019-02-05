@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu at Embedded World 2019 ›
+*   Design and Web team summary – 04 February 2019 ›
 *   Where eagles snap – A closer look ›
 *   Taking Octavia for a ride with Kubernetes on OpenStack ›
 *   Our new team practices site, and the democratic repository behind it ›
-*   Zero to Snap – Rev up your packaging ›
-*   Ubuntu Core 18 released for secure, reliable IoT devices ›
