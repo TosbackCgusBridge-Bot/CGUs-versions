@@ -216,7 +216,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Online Only: Extra 15% off** Use Code **GAMEDAY15** **BUY 1 GET 1 FREE JEANS + FREE SHIPPING OVER $50**
+**SHOP NEW ARRIVALS**  GIRLS GUYS **  SHOP NEW DENIM GUIDES + FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -365,6 +365,7 @@ Menu Find a Store Aeropostale
         *   Relaxed
         *   Flex Effects
         *   Destroyed Denim
+    
 *   Clearance
     
     *   View Home
@@ -387,7 +388,6 @@ Menu Find a Store Aeropostale
         *   Bottoms
         *   Accessories
         
-    
 
 *   Select Country
 
@@ -396,7 +396,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Shop Girls Shop Guys Shop Girls Shop Guys AERO GIRLS TEES In Stores &. Online $8 &. Up Shop Girls Graphics Shop Girls Long Sleeve Shop Girls Bodycon Shop Girls Shop Guys AERO GUYS TEES In Stores &. Online $8 &. Up Shop Guys Graphics Shop Guys Long Sleeve HOODIES &. SWEATSHIRTS In Stores &. Online $15 &. Up Shop Girls Shop Guys JACKETS &. VESTS In Stores &. Online Up To 60% Off Shop Girls Shop Guys Girls Clearance Guys Clearance Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Girls #BeMyAero Guys #BeMyAero Gift Cards Shop Girls Shop Guys Shop Super High Rise Shop Girls Jeans Shop Girls Shop Guys Shop Super Skinny Shop Guys Jeans Previous Next Shop The Girls Tribe Shop Guys Tops Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -435,17 +435,3 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
