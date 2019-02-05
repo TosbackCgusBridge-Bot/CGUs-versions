@@ -1,8 +1,8 @@
 SUPER BOWL
 
 *   NE11-513LA13-33Final
-*   Game HighlightsPatriots vs. Rams highlights | Super Bowl LIII
-*   Game HighlightsBrady and Edelman hug following Super Bowl LIII win
+*   New England PatriotsTime-lapse of Super Bowl LIII from start to finish
+*   Super Bowl LIIIBrady finds Kraft in postgame crowd to celebrate
 
 *   News
 *   Scores
@@ -27,8 +27,8 @@ SUPER BOWL
 SUPER BOWL
 
 *   NE13LA3Final
-*   Game HighlightsPatriots vs. Rams highlights | Super Bowl LIII
-*   Game HighlightsBrady and Edelman hug following Super Bowl LIII win
+*   New England PatriotsTime-lapse of Super Bowl LIII from start to finish
+*   Super Bowl LIIIBrady finds Kraft in postgame crowd to celebrate
 
 *   News
 *   Scores
@@ -55,7 +55,7 @@ SUPER BOWL
 *   Shop
 *   Teams
 
-BREAKING NEWSPatriots defeat Rams to win Super Bowl LIIINew England holds Los Angeles to just 3 points. Tom Brady wins his sixth Super Bowl title. Julian Edelman named MVP.READ MORE NFL.com - Privacy Policy English
+NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
 Updated: December 20, 2018**  
@@ -253,6 +253,4 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy  
-
-  New England holds Los Angeles to just 3 points. Tom Brady wins his sixth Super Bowl title. Julian Edelman named MVP.
+Attn: Website Privacy Policy
