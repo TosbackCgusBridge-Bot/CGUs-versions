@@ -64,7 +64,7 @@ THE RITZ CARLTON REWARDS Marriott Rewards Starwood Preferred Guest
 
 PRIVACY CENTER
 
-Last Updated:  **May 18, 2018**
+Last Updated:  **February 4, 2019**
 
 MARRIOTT GROUP GLOBAL PRIVACY STATEMENT
 
@@ -92,16 +92,27 @@ Communication Preferences
 
 We want to engage with you in a way that is valuable to you, including how often you want to hear from us. To set your preferences, please sign in to your loyalty account profile and select Communication Preferences. To unsubscribe, use the link at the bottom of any of our communications to you. NOTE: Even if you choose to opt out of communications, we will continue to send you transactional messages about your reservations or stays, including pre-arrival, confirmation and guest satisfaction surveys.
 
-Other Preferences
+Privacy Rights
 
-If you have other preferences, or are looking to exercise your individual rights under the GDPR, please email Privacy@Marriott.com, or mail us at:  
+If you would like to request to access, change, delete, restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form . If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
+
 Marriott International, Inc.  
 Global Compliance, Privacy  
 10400 Fernwood Road  
 Bethesda, MD 20817  
-United States of America  
-  
-We look forward to providing you with experiences that exceed your expectations both online and at our hotels.  For your protection, you may be asked to verify your identity before we respond to your request.
+United States of America 
+
+EEA Contact Information :  
+Marriott Hotels Limited  
+Global Compliance  
+Barnard’s Inn  
+86 Fetter Lane  
+London EC4A 1EN  
+United Kingdom
+
+For your protection, we only fulfill requests for the personal data associated with the email address and/or loyalty account number that you identify in your request, and we may need to verify your identity before fulfilling certain requests.  When permitted by law, we may charge an appropriate fee to cover the costs of responding to your request.
+
+Marriott acknowledges and respects our guests’ privacy and we will try to comply with your request as soon as reasonably practicable and consistent with applicable law.
 
 Drawers
 
@@ -260,6 +271,10 @@ We use Personal Data and Other Data in this way with your consent, to manage our
 
 We use Personal Data and Other Data in this way to manage our contractual relationship with you, comply with a legal obligation and/or because we have a legitimate interest to do so.
 
+Right to Withdraw Your Consent
+
+If you have given us consent in relation to particular processing or activities, you can withdraw your consent at any time by contacting us as indicated below.
+
 Disclosure of Personal Data and Other Data
 
 Our goal is to provide you with the highest level of hospitality and Services, and to do so, we share Personal Data and Other Data with the following:
@@ -324,15 +339,23 @@ Bethesda, MD 20817
 
 We will provide a list of the categories of Personal Data disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. We reserve our right not to respond to requests submitted to addresses other than the addresses specified in this paragraph.
 
-How You Can Request to Access, Change, Delete, or Restrict the Use of Your Personal Data
+How You Can Request to Access, Change, Delete, Restrict the Use or Object to the Processing of Your Personal Data
 
-If you would like to request to access, change, delete, or restrict the use of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form . If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
+If you would like to request to access, change, delete, restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form . If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
 
 Marriott International, Inc.  
 Global Compliance, Privacy  
 10400 Fernwood Road  
 Bethesda, MD 20817  
 United States of America
+
+EEA Contact Information:  
+Marriott Hotels Limited  
+Global Compliance  
+Barnard’s Inn  
+86 Fetter Lane  
+London EC4A 1EN  
+United Kingdom
 
 For your protection, we may need to verify your identity before fulfilling your request. We will try to comply with your request as soon as reasonably practicable and consistent with applicable law.  
 Please note that we often need to retain certain data for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or reservation, or enter a promotion, you may not be able to change or delete the Personal Data provided until after the completion of such purchase, reservation, or promotion). There may also be residual data that will remain within our databases and other records, which will not be removed. In addition, there may be certain data that we may not allow you to review for legal, security, or other reasons.
@@ -380,6 +403,14 @@ Global Compliance, Privacy
 10400 Fernwood Road  
 Bethesda, MD 20817  
 United States of America
+
+EEA Contact Information:  
+Marriott Hotels Limited  
+Global Compliance  
+Barnard’s Inn  
+86 Fetter Lane  
+London EC4A 1EN  
+United Kingdom
 
 For additional information about our complaints management practices and contacts, please refer to our Privacy Shield Guest Privacy Policy. Because your email communications to us may not always be secure, please do not include credit card or Sensitive Data in your emails to us.
 
