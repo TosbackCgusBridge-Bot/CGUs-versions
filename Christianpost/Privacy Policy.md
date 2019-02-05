@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Abortion
-*   'Annie Christ'
-*   To our leaders
+*   Alexa
+*   Former Muslim
+*   Late-term abortion
 *   Super Bowl
-*   Pastor suicide
+*   Multiethnic church
 
 About Us
 
