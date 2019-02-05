@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Sen. Rick Scott_: Washington Is Worse Than You've Heard
+*   _Adriana Cohen_: Northam, Democrats Have a Lot of Explaining to Do
     
-*   _Joseph Tobin_: Why a Border Wall Is Unethical and Inhumane
+*   _Monica Potts_: Northam's Cluelessness Is About Southern Whiteness
     
-*   _Kyle Sammin_: Abortion's John C. Calhoun Moment
+*   _Charles Hurt_: Dem Outrage Over Blackface, Silence Over Killing Babies
     
-*   _Christina Cauterucci_: Making the Case for Third-Trimester Abortions
+*   _Todd Purdum_: The Second Coming of Nancy Pelosi
     
-*   _Kristan Hawkins_: I Wasn't a Trump Fan, But I Wear a MAGA Hat These Days
+*   _Ed Rollins_: Politics Is Like Poker, and Trump Is the Wild Card in 2020
     
-*   _Eugene Robinson_: The Scariest Thing About Trump's Tweets
+*   _Gabriel DeBenedetti_: A Long Talk With Julian Castro
     
-*   _Sophia Nelson_: Virginia Gov. Ralph Northam Must Step Down
+*   _Anuradha Bhagwati_: Trump Is Getting It Right on Veterans Care
     
-*   _Tyler O'Neil_: Reminder: Northam Won After Calling Gillespie Racist
+*   _Victor Davis Hanson_: In CA, Assume 'Mad Max' Conditions at Any Time
     
-*   _Isaac Chotiner_: David Axelrod Talks Harris, Warren, Biden &. the '20 Field
+*   _Jemele Hill_: The NFL's Truce With Trump Wasn't Worth It
     
-*   _Michael Grunwald_: Is Cory Booker for Real?
+*   _Joseph Curl_: Not a Problem: Rams Said Team Might've Skipped WH Visit
     
-*   _Matthew Continetti_: The Democrats Lose Their Minds
+*   _Justin Peters_: The Most and Least Awful Commercials From the Super Bowl
     
-*   _Uri Friedman_: Trump Can't Be Both a Dealmaker and a Dealbreaker
+*   _Chris Cillizza_: Northam Has to Resign, Even If He Doesn't Know It Yet
     
-*   _Eli Lake_: Dems Should Welcome Trump's Withdrawal From INF Treaty
+*   _Kurt Schlichter_: Cheerleading Infanticide: A Tipping Point for Democrats?
     
-*   _Collin O'Mara_: Offshore Wind Agreement Is Win-Win for Energy, Wildlife
+*   _Rebecca Solnit_: Forget the Border--the Real Threat Is Inside the House
     
-*   _Ian Bogost_: Apple's Empty Grandstanding About Privacy
+*   _Byron York_: Can Dems Talk Pelosi Out of Her Rigid Border Position?
     
-*   _Ned Ryun_: Worried the Tech Giants Don't Respect Privacy? Just Wait
+*   _E.J. Dionne_: The State of the Union: Petrified
     
-*   _Andrew Sullivan_: The Nature of Sex: A Biological Reality
+*   _Warren Henry_: Democracy Dies When WP Avoids Dem Abortion Extremism
     
-*   _Susan Glasser_: After Humiliating Loss, Trump Tweets Alternative Reality
+*   _Julian NoiseCat_: Nathan Phillips Wants to Talk About Covington
     
-*   _Deroy Murdock_: Breaking News...Walls Do Work, and Dems Know It
+*   _Lin Wood_: Nick Sandmann: The Truth in 15 Minutes
     
-*   _Ben Domenech_: The Disturbing Thing We Don't Talk About
+*   _Newt Gingrich_: Chinese Companies Pose Serious Threats to U.S.
     
-*   _Michelle Goldberg_: No, Democrats Aren't Trying to Legalize Infanticide
+*   _Josh Kraushaar_: Why McConnell Wants to Undermine Trump's Foreign Policy
     
-*   _Francey Hakes_: Inside Obama's DOJ &. FBI: Anatomy of a Bloodless Coup?
+*   _James Antle_: Trump Should Call Congress's Bluff on Endless Wars
     
-*   _Matt Ford_: The False Martyrdom of Roger Stone
+*   _Sens. Schumer &. Sanders_: Limit Corporate Stock Buybacks
     
-*   _Marc Landy_: Presidents and the Lessons of 'Emergency'
+*   _Jonathan Turley_: Is the Russia Collusion Theory Dead?
     
 
 *   Previous
@@ -228,9 +228,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Suspends Arms Treaty, Citing Chinese, Russian Threats
+*   State of the Union Will Have a Unifying Tone, White House Says
 *   Virginia Gov. Ralph Northam Loses Key Support. Future in Doubt
-*   Trump: Pelosi Will Be Begging for Border Wall If We Move CA's to TX, AZ
+*   Lin Wood on Nick Sandmann: The Truth in 15 Minutes
 *   U.S. Employers Add Robust 304K Jobs in January
 *   New Jersey Democratic Sen. Cory Booker Launches 2020 Bid
 *   Presidential Job Approval
@@ -245,34 +245,36 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Iowa Democratic Presidential CaucusEmerson
+*   2020 Democratic Presidential NominationMonmouth
     *   Biden29
-    *   Sanders15
-    *   Harris18
-    *   Warren11
-    *   O'Rourke6
+    *   Sanders16
+    *   O'Rourke7
+    *   Harris11
+    *   Warren8
     *   Booker4
-    *   Klobuchar3
-    *   Brown4
-    *   Castro2
-    *   Gillibrand1Biden +11
-*   Iowa: Trump vs. HarrisEmerson
-    *   Trump53
-    *   Harris47Trump +6
-*   Iowa: Trump vs. WarrenEmerson
-    *   Trump52
-    *   Warren48Trump +4
-*   Iowa: Trump vs. BidenEmerson
-    *   Biden51
-    *   Trump49Biden +2
+    *   Bloomberg4
+    *   Castro1
+    *   Gabbard1
+    *   Brown1
+    *   Klobuchar2
+    *   Gillibrand1Biden +13
+*   President Trump Job ApprovalCNN
+    *   Approve42
+    *   Disapprove54Disapprove +12
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve39
+    *   Disapprove57Disapprove +18
+*   President Trump Job ApprovalPolitico/Morning Consult
+    *   Approve41
+    *   Disapprove56Disapprove +15
 
 More Latest Polls In The News
 
+*   Sarah Huckabee Sanders: Congress Has To Decide If They Love Our Country More Than They Hate Trump
+*   Wasserman Schultz: Trump Opposes Maduro In Venezuela While Acting Like A Dictator At The Same Time
+*   Sen. Sherrod Brown: We Have A Racist President, "He Built His Career On It"
 *   Shelby: Testimony From Border "Experts" This Week Could Get Us Off Politics And Onto Substance
 *   Rep. Tulsi Gabbard Officially Launches Presidential Campaign With Call To "End Regime Change Wars"
-*   Trump: Nancy Pelosi Is "Playing Games," Wants Open Borders, "Doesn't Mind Human Trafficking"
-*   David Brooks: Democrats Will Fund Some Border Security, Trump Will Call It A Wall Whether It's A Wall Or Not
-*   Dem Gov. Northam on Racist Photo: I Will Serve The Remainder Of My Term. UPDATE: It's Not Me!
 
 *   Politics
 *   Policy
