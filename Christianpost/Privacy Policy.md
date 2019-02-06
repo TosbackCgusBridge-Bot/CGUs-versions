@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Alexa
-*   Former Muslim
-*   Late-term abortion
-*   Super Bowl
-*   Multiethnic church
+*   Born Alive bill
+*   Foster parenting
+*   Ralph Northam
+*   Asia Bibi
+*   Gateway Church
 
 About Us
 
