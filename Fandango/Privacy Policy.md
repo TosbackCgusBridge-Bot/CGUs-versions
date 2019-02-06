@@ -338,13 +338,13 @@ Offers
 
 New + Coming soon
 
-*   Aquaman
-*   Glass (2019)
-*   The Kid Who Would Be King
-*   Miss Bala (2019)
-*   Fandango Early Access: How to Train Your Dragon: The Hidden World
+*   The Lego Movie 2: The Second Part
 *   Cold Pursuit
 *   What Men Want
+*   Isn't It Romantic
+*   Happy Death Day 2U
+*   Alita: Battle Angel
+*   How to Train Your Dragon: The Hidden World
 *   Captain Marvel (2019)
 
 Experience + Explore
