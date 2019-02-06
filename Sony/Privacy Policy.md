@@ -139,7 +139,7 @@ Now Playing In Theaters
 
 Wow, 2019... calm down. We're only a month into the year and we've already got Ace Combat 7, Kingdom Hearts III, Resident Evil 2, and a whole bunch more. Vote for January's best new game here!  https://play.st/2sWNdDp  pic.twitter.com/WHitd5a38K
 
-1 day ago
+2 days ago
 
 View Tweet
 
