@@ -18,7 +18,7 @@ skip to content skip to navigation skip to search
     *   FAQ
     *   Chat
 
-Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Customer Service Chat Email
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order New Arrivals Customer Service Chat Email
 
 Call or Text 1-800-963-4816
 
@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 25% off full-price styles!
+Receive 30% off 1 full-price item!
 
-code: COZY pin: 8924 DETAILS
+code: ROSE pin: 6589 DETAILS
 
 Customer Service Menu
 
