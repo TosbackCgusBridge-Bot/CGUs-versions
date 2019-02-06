@@ -38,11 +38,11 @@ Stock Quote and Chart
 
 Price
 
-$2.98
+$3.05
 
 Change
 
-+0.04
++0.07
 
 Percent Change
 
@@ -51,7 +51,7 @@ Percent Change
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Dec 12, 2018 Office Depot Becomes Installation Partner for Google and Nest Smart Devices view more Recent News Dec 12, 2018 Office Depot Becomes Installation Partner for Google and Nest Smart Devices view more Events Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast view more Events Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast view more Presentations Nov 07, 2018 Office Depot Third Quarter 2018 Earnings Webcast Presentation view more Presentations Nov 07, 2018 Office Depot Third Quarter 2018 Earnings Webcast Presentation view more
+Recent News Feb 05, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Recent News Feb 05, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Events Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast view more Events Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast view more Presentations Nov 07, 2018 Office Depot Third Quarter 2018 Earnings Webcast Presentation view more Presentations Nov 07, 2018 Office Depot Third Quarter 2018 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
