@@ -8,10 +8,31 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Rebecca Minkoff Handbags
+    *   Rebecca Minkoff
+    *   Rebecca Minkoff Shoes
+    *   Rebecca Minkoff Jewelry &. Watches
+    *   All-Clad Up to 50% Off
+    *   Gifts for the Home: Dyson, Vitamix &. More
+    *   Gifts for Her: Anthropologie Home &. More
+    *   Gifts for Pets &. Pet Lovers
+    *   Festival Ready: Styles ft. Angie
+    *   Date Night: Styles We Love Under $30
+    *   Rain or Shine: Jackets Up to 60% Off
+    *   Lingerie We Love: Full-Fit Bras
+    *   Nest Fragrances
+    *   Little Me
+    *   Men's Chukka &. Chelsea Boots Starting at $35
+    *   On-Trend Combat &. Lace-Up Booties
+    *   Paisley &. Gray Under $100
+    *   Men's Leather Accessories Up to 80% Off
+    *   Kendra Scott Starting at $15
+    *   Date Night Style: Men's Shirts, Jackets &. More
     *   Bony Levy Fine Jewelry Up to 50% Off
     *   Day Dresses We Love Up to 70% Off
     *   BB Dakota &. Jack
     *   Spring Fling: Floral Styles Incl. Plus &. Petites
+    
     *   Made in Italy: Designer Sneakers from P448
     *   Diesel
     *   Sport These: Streetwear ft. Donna Karan
@@ -25,69 +46,54 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Cool Kids' Sneakers from Geox &. More
     *   Men's Active Outerwear Up to 70% Off
     *   Cool Looks for Boys ft. Levi's
-    *   Kendra Scott Starting at $15
-    *   Date Night Style: Men's Shirts, Jackets &. More
     *   Sperry Starting at $40
     *   Sperry Men Starting at $40
     *   For Your Valentine: Fragrances ft. Burberry
     *   Murad
-    *   Jackets, Denim &. More ft. Sanctuary
-    *   Animal Instinct: Leopard-Print Styles &. More
-    *   Surf's Up: Sporty Swim Up to 60% Off
-    
-    *   Minnie Rose Cashmere
     *   Belstaff &. More Starting at $30
     *   Sperry Kids Starting at $20
     *   Free Shipping: Canvas Wall Art Up to 80% Off
     *   Gurhan 24K Gold Jewelry &. More Up to 50% Off
-    *   Flats ft. Sandals &. Loafers Up to 50% Off
     *   Men's Underwear, Socks &. More Up to 65% Off
     *   Prep It Up: Boys' &. Girls' Styles ft. Nautica
-    *   Naked Zebra
-    *   Go Couture Dresses Up to 80% Off
-    *   TOV
     *   Lacoste Men's Shoes Starting at $25
-    *   Bed|Stu
-    *   Amelia Dresses
+    
     *   BECCA Cosmetics
-    *   Street-Chic Active ft. Ivy Park
     *   Free Shipping: Laura Ashley Bedding
     *   Teami Blends Detox Teas &. Supplements
-    *   On-Trend Jewelry ft. Gabi Rielle from $20
-    *   Rachel Maddison Gemstone &. Sterling Jewelry
-    *   Nordstrom Rack Exclusive: Abound Shoes
     *   Dr. Botanicals Natural Beauty
-    *   Travel Ready: Luggage for Every Style
     *   Down &. Memory Foam Essentials
     *   On the Go: Lightning Cables &. More
-    *   Men's Boots Up to 70% Off
-    
     *   Free Shipping: Luxury Accessories for Him
     *   Pur Cosmetics Starting at $10
     *   Free Shipping: Oliver Gal Gallery
     *   Now in Bloom: Candles, Notebooks &. More
-    *   Skinn Cosmetics Up to 75% Off
     *   Free Shipping: Bedding We Love Starting at $19
-    *   NuvaLash Natural Lash &. Brow Enhancing Serum
-    *   Face Masks We Love
     *   NutriChef Kitchen Electrics Up to 60% Off
     *   Free Shipping: Kitchen Essentials Starting at $10
     *   Free Shipping: Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Fresh Decor &. Bedding Up to 70% Off
-    *   Free Shipping: BergHOFF
-    *   Jonathan Adler
-    *   Free Shipping: Donna Salyers' Fabulous Faux Furs
-    *   Free Shipping: Marmont Hill Wall Art
-    *   Sunday Steals Up to 80% Off
-    *   Vertigo Up to 80% Off
     *   Booties, Sandals &. More Up to 50% Off
     *   Jewelry Box Essentials Up to 80% Off
     *   Free Shipping: Amrapur Bedding Up to 75% Off
     *   Men's Shoes Up to 70% Off
-    *   Socks ft. Smartwool
+    *   Sunday Steals Up to 80% Off
+    *   Vertigo Up to 80% Off
     *   On-Trend Jewelry ft. Olivia Welles Up to 75% Off
+    *   Go Couture Dresses Up to 80% Off
 *   WomenShop Sale Events
     
+    *   Rebecca Minkoff Handbags
+    *   Rebecca Minkoff
+    *   Rebecca Minkoff Shoes
+    *   Rebecca Minkoff Jewelry &. Watches
+    *   Festival Ready: Styles ft. Angie
+    *   Date Night: Styles We Love Under $30
+    *   Rain or Shine: Jackets Up to 60% Off
+    *   Lingerie We Love: Full-Fit Bras
+    *   Nest Fragrances
+    *   On-Trend Combat &. Lace-Up Booties
+    *   Kendra Scott Starting at $15
     *   Bony Levy Fine Jewelry Up to 50% Off
     *   Day Dresses We Love Up to 70% Off
     *   BB Dakota &. Jack
@@ -95,65 +101,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Made in Italy: Designer Sneakers from P448
     *   Sport These: Streetwear ft. Donna Karan
     *   Best of Makeup
+    
     *   Our Fave Body &. Skin Care Essentials
     *   Betsey Johnson
     *   Best of Luggage ft. Samsonite Up to 60% Off
-    *   Kendra Scott Starting at $15
     *   Sperry Starting at $40
     *   For Your Valentine: Fragrances ft. Burberry
     *   Murad
-    *   Jackets, Denim &. More ft. Sanctuary
-    *   Animal Instinct: Leopard-Print Styles &. More
-    *   Surf's Up: Sporty Swim Up to 60% Off
-    *   Minnie Rose Cashmere
     *   Gurhan 24K Gold Jewelry &. More Up to 50% Off
-    *   Flats ft. Sandals &. Loafers Up to 50% Off
-    *   Naked Zebra
-    
-    *   Go Couture Dresses Up to 80% Off
-    *   TOV
-    *   Bed|Stu
-    *   Amelia Dresses
     *   BECCA Cosmetics
-    *   Street-Chic Active ft. Ivy Park
     *   Teami Blends Detox Teas &. Supplements
-    *   On-Trend Jewelry ft. Gabi Rielle from $20
-    *   Rachel Maddison Gemstone &. Sterling Jewelry
-    *   Nordstrom Rack Exclusive: Abound Shoes
     *   Dr. Botanicals Natural Beauty
     *   Pur Cosmetics Starting at $10
-    *   Skinn Cosmetics Up to 75% Off
-    *   NuvaLash Natural Lash &. Brow Enhancing Serum
-    *   Face Masks We Love
-    *   Sunday Steals Up to 80% Off
-    *   Vertigo Up to 80% Off
     *   Booties, Sandals &. More Up to 50% Off
     *   Jewelry Box Essentials Up to 80% Off
-    *   Socks ft. Smartwool
+    *   Sunday Steals Up to 80% Off
+    *   Vertigo Up to 80% Off
     *   On-Trend Jewelry ft. Olivia Welles Up to 75% Off
+    *   Go Couture Dresses Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
-    *   Tech Accessories
     *   Lingerie
+    *   Jewelry
     *   Handbags
+    *   Tech Accessories
+    *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Chukka &. Chelsea Boots Starting at $35
+    *   Paisley &. Gray Under $100
+    *   Men's Leather Accessories Up to 80% Off
+    *   Date Night Style: Men's Shirts, Jackets &. More
     *   Diesel
     *   Gordon Rush Up to 55% Off
     *   Best of Luggage ft. Samsonite Up to 60% Off
+    
     *   Men's Active Outerwear Up to 70% Off
-    *   Date Night Style: Men's Shirts, Jackets &. More
     *   Sperry Men Starting at $40
     *   Belstaff &. More Starting at $30
-    
     *   Men's Underwear, Socks &. More Up to 65% Off
     *   Lacoste Men's Shoes Starting at $25
     *   Teami Blends Detox Teas &. Supplements
-    *   Travel Ready: Luggage for Every Style
-    *   Men's Boots Up to 70% Off
     *   Men's Shoes Up to 70% Off
     
     Shop By Category
@@ -162,6 +153,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Little Me
     *   On-Trend Looks for Girls ft. Roxy
     *   Cool Kids' Sneakers from Geox &. More
     *   Cool Looks for Boys ft. Levi's
@@ -172,60 +164,59 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
     *   Girls' Shoes
+    *   Baby Girl
+    *   Baby Boy
     *   Boys' Sizes 8-20
     *   Boys' Shoes
     *   Girls' Sizes 2T-6X
-    *   Baby Boy
-    *   Baby Girl
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   All-Clad Up to 50% Off
+    *   Gifts for the Home: Dyson, Vitamix &. More
+    *   Gifts for Her: Anthropologie Home &. More
+    *   Gifts for Pets &. Pet Lovers
     *   Speck Phone Cases &. Tech Gear
     *   Free Shipping: Canvas Wall Art Up to 80% Off
     *   Free Shipping: Laura Ashley Bedding
     *   Down &. Memory Foam Essentials
     *   On the Go: Lightning Cables &. More
+    
     *   Free Shipping: Luxury Accessories for Him
     *   Free Shipping: Oliver Gal Gallery
     *   Now in Bloom: Candles, Notebooks &. More
     *   Free Shipping: Bedding We Love Starting at $19
-    
     *   NutriChef Kitchen Electrics Up to 60% Off
     *   Free Shipping: Kitchen Essentials Starting at $10
     *   Free Shipping: Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Fresh Decor &. Bedding Up to 70% Off
-    *   Free Shipping: BergHOFF
-    *   Jonathan Adler
-    *   Free Shipping: Donna Salyers' Fabulous Faux Furs
-    *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Amrapur Bedding Up to 75% Off
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
     *   Pet Accessories
-    *   Outdoor Living
+    *   Luggage &. Travel
     *   Storage &. Organization
+    *   Accent Furniture
+    *   Rugs &. Doormats
     *   Bath
 *   BeautyShop Sale Events
     
+    *   Nest Fragrances
     *   Best of Makeup
     *   Our Fave Body &. Skin Care Essentials
     *   For Your Valentine: Fragrances ft. Burberry
     *   Murad
     *   BECCA Cosmetics
     *   Teami Blends Detox Teas &. Supplements
-    
     *   Dr. Botanicals Natural Beauty
     *   Pur Cosmetics Starting at $10
-    *   Skinn Cosmetics Up to 75% Off
-    *   NuvaLash Natural Lash &. Brow Enhancing Serum
-    *   Face Masks We Love
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Fragrance
     *   Tools &. Accessories
     *   Makeup Bags
@@ -418,4 +409,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US, $10.95 for Canada and $25.95 for Australia. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
+Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
