@@ -1,8 +1,8 @@
 SUPER BOWL
 
 *   NE11-513LA13-33Final
-*   New England PatriotsTime-lapse of Super Bowl LIII from start to finish
-*   Super Bowl LIIIBrady finds Kraft in postgame crowd to celebrate
+*   Game HighlightsPatriots vs. Rams highlights | Super Bowl LIII
+*   Super Bowl LIIITony Romo's best calls | Super Bowl LIII
 
 *   News
 *   Scores
@@ -27,8 +27,8 @@ SUPER BOWL
 SUPER BOWL
 
 *   NE13LA3Final
-*   New England PatriotsTime-lapse of Super Bowl LIII from start to finish
-*   Super Bowl LIIIBrady finds Kraft in postgame crowd to celebrate
+*   Game HighlightsPatriots vs. Rams highlights | Super Bowl LIII
+*   Super Bowl LIIITony Romo's best calls | Super Bowl LIII
 
 *   News
 *   Scores
