@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 05 February 2019 ›
+*   Ubuntu 14.04 Trusty Tahr End of Life ›
+*   Fresh snaps from January 2019 ›
 *   Ubuntu at Embedded World 2019 ›
 *   Design and Web team summary – 04 February 2019 ›
-*   Where eagles snap – A closer look ›
-*   Taking Octavia for a ride with Kubernetes on OpenStack ›
-*   Our new team practices site, and the democratic repository behind it ›
