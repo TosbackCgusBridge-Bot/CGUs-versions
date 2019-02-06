@@ -4,7 +4,7 @@ We use cookies to deliver the best possible experience on our website. To learn 
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
 Become a client  
-Contact us or dial 1 855 662 90311 855 662 9031
+Contact us or dial 1 855 660 95921 855 660 9592
 
 Log in Become a Client
 
@@ -259,7 +259,7 @@ Log in Become a Client
     Career Opportunities Life at Gartner Campus
     
 *   Become a client  
-    Contact us or dial 1 855 662 90311 855 662 9031
+    Contact us or dial 1 855 660 95921 855 660 9592
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018
