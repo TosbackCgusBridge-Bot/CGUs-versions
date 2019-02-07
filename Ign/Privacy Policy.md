@@ -10,7 +10,7 @@ BRANDSAUDIENCEWORLDWIDEPRESSLEADERSHIPCAREERSCONTACT ZIFF DAVIS, LLC PRIVACY POL
 
   
 
-<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c" alt="TRUSTe"/>. <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a" alt="TRUSTe"/>. Effective October 1, 2018
+<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c" alt="TRUSTe"/>. <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a" alt="TRUSTe"/>. Effective February 6, 2019
 
 Version Française
 
@@ -61,17 +61,17 @@ This Privacy Policy covers information collected through the following websites 
 *   Tippit
 *   CouponCodes.com
 *   Black Friday
-*   Ookla, Speedtest.net, Speedtest Custom
 *   ZiffDavisB2B, Toolbox.com, Inside CRM, Inside-Erp, IT Management, IT Security, VoIP-News
 *   emedia.com, emedia.co.uk
 *   Salesify, B2BSignals
+*   Revenu8, MarTechAdvisor, ReadITQuick, HRTechnologist
+*   DemandShore, Technology Signals
 *   Ziff Davis Data
 *   Best Black Friday
 
 Applications:
 
 *   IGN: Video Game News, Reviews, Guides
-*   IGN App For PlayStation All-Stars Battle Royale
 *   IGN App For Elder Scrolls V: Skyrim
 *   IGN App For PlanetSide 2
 *   IGN: Video Game News, Reviews
@@ -80,10 +80,6 @@ Applications:
 *   IGN App For Dead Space 3
 *   PC Magazine
 *   TechBargains
-*   Mashable
-*   Offers.com
-*   Speedtest
-*   Black Friday
 
 *   **What Categories of Information We May Process**
 
@@ -155,7 +151,6 @@ We may collect or obtain User Information about you: directly from you (e.g., wh
 *   Relationship data: We may collect or obtain your Personal Information in the ordinary course of our relationship with you (e.g., if you purchase a service from us).
 *   Data you make public: We may collect or obtain your Personal Information that you clearly choose to make public, including via social media (e.g., we may collect information from your social media profile(s) if you make a public post about us) or through our chats, forums or communities on the Services.
 *   Service data: We may collect or obtain your Personal Information when you visit, download, use or register to use any part of our Service.
-*   Speedtest by Ookla: When conducting a test through Speedtest on any device or platform, we collect: (a) the test results. (b) non-precise information about the approximate physical location of your computer or device-derived from GeoIP Data and/or Precise Location Data (if your mobile device settings allow it). and (c) Other Information, including, but not limited to, the IP address, the ISP, college or organization that operates the network you test, and network, hardware and device identifiers such as your SSID or IMEI (if the test is conducted on a smartphone). If you install Speedtest on your smartphone or other mobile device, Ookla may collect your Precise Location Data, both while you are running a test and when the application is not actively in use but is running in the background on your device. If you install the Speedtest extension on your web browser, in addition to allowing you to run a test of your internet speed, the extension uses our Web Speed feature, which measures the load time for a particular website and allows you to measure how long it takes for a particular website to load. Through the Web Speed feature, we collect page load metrics for the websites you visit, including page URLs, load times, and GeoIP Data. Web Speed does analyze your IP address when you run a test to ascertain the approximate location of your device, but the IP addresses analyzed by Web Speed are not retained by Ookla and are deleted automatically after the test is completed. Note, however, that we also combine this information with recent Speedtest information collected from the same device.
 *   Content and advertising information: If you choose to interact with any third party content or advertising on the Services or Channels, we may receive User Information about you from the relevant third party.
 *   Third party information: We may collect or obtain your Personal Information from third parties who provide it to us. This may include offline channels such as through telephone or direct mail efforts. from customers, vendors, suppliers, third parties, commercially available or publicly-available sources (e.g., data brokers, data aggregators, public databases, etc.). third party affiliate network operators. referral sources. social network sites or services (e.g., Facebook, Twitter, LinkedIn, etc.). If you use a third party connection or log-in (e.g., Facebook Connect, Twitter, or Google+) to access the Services, create a membership or profile on any part of the Services, access our content or forward our content to another person, platform or service, we may also receive your username or email address for those third party services or other information available about you or collected from you on those services.
 
@@ -181,10 +176,9 @@ The purposes for which we may Process User Information, subject to applicable la
 *   Audience Engagement: identification and development of audience engagement, advertising and promotional strategies on various platforms and channels, both within the Service and on Channels.
 *   User Engagement and Purchases: tracking purchase traffic and activity across the Service and on Channels, including review of your browsing history (if available). provision of analytics and measurement of cost of traffic against money being made.
 *   Commerce Offerings: using cookies to track your browsing history and the amount of money spent at a particular third party merchant’s site to offer coupons and other offers that are relevant to your shopping experience. offering of coupons via SMS messages if a mobile phone number is provided.
-*   Lead Generation: business-to-business lead generation in the provision of leads to customers to improve customer’s target marketing campaigns and services through different strategies. This includes generating leads through phone calls and email newsletter marketing to drive you to content, such as white papers and webinars, offered by Ziff Davis B2B, emedia and Salesify, whereupon your contact information will be shared with our customer.
+*   Lead Generation: business-to-business lead generation in the provision of leads to customers to improve customer’s target marketing campaigns and services through different strategies. This includes generating leads through phone calls and email newsletter marketing to drive you to content, such as white papers and webinars, offered by Ziff Davis B2B, emedia, Salesify, DemandShore, Technology Signals, Revenu8, MarTech Advisor, HRTechnologist and ReadITQuik whereupon your contact information will be shared with our customer.
 *   B2BSignals Offering: providing a software product that offers customers to filter through a database of contacts by revenue, employee size, functional roles and more, that allows customers to find the right business-to-business leads to improve their marketing campaigns and services.
-*   Speedtest Offerings: Speedtest by Ookla is offered on multiple devices, products and platforms, such as an extension on your web browser or as an application in certain products such as routers. It enables you to test the speed, latency and other primary network characteristics of your TCP/IP network connections and be provided with the results. Your Speedtest results may be used by Ookla to conduct analyses and prepare product enhancements, as well as to prepare market reports. Ookla licenses the Speedtest results to its business customers. Ookla also licenses the Speedtest application to business customers who wish to have their end users test their own networks’ internet connectivity or to test an end user’s connection(s) between a product and the Ookla network of servers.
-*   Marketing to Customers: We may market to current and prospective customers and their employees who have indicated an interest in doing business with, or have previously conducted business with, Ziff Davis in order to further generate and promote our business. Such efforts include sending marketing emails or conducting phone calls to drive the purchase of advertising, Speedtest and Online Data licensing, lead generation and other business services offered by Ziff Davis.
+*   Marketing to Customers: We may market to current and prospective customers and their employees who have indicated an interest in doing business with, or have previously conducted business with, Ziff Davis in order to further generate and promote our business. Such efforts include sending marketing emails or conducting phone calls to drive the purchase of advertising, Online Data licensing, lead generation and other business services offered by Ziff Davis.
 *   IT Administration: administration of Ziff Davis’ information technology systems. network and device administration. network and device security. implementing data security and information systems policies. compliance audits in relation to internal policies. identification and mitigation of fraudulent activity. and compliance with legal requirements.
 *   Security: electronic security measures (including monitoring of login records and access details) to help mitigate the risk of and provide the ability to identify and rectify a security incident.
 *   Financial Management: general business and financial management purposes, including: economic, financial and administrative management. planning and reporting. personnel development. sales. accounting. finance. corporate audit. and compliance with legal requirements
@@ -242,9 +236,7 @@ In Processing your User Information in connection with the purposes set out in t
 *   Vital interests: We may Process your User Information where the Processing is necessary to protect the vital interests of any individual. or
 *   Legitimate interests: We may Process your User Information where we have a legitimate interest in carrying out the Processing for the purpose of managing, operating or promoting our business, and that legitimate interest is not overridden by your interests, fundamental rights, or freedoms.
 
-As described above, we have identified Speedtest offerings by Ookla, our lead generation services and how we market our business to our current and prospective customers as having a legitimate interest.
-
-For Speedtest, Ookla has a legitimate interest in sharing your Speedtest results with internet providers, hardware manufacturers and industry regulators to help them understand and create a better and faster internet.
+As described above, we have identified our lead generation services and how we market our business to our current and prospective customers as having a legitimate interest.
 
 *   **What Information We Disclose to Third Parties**
 
@@ -278,10 +270,6 @@ We may engage third party providers to assist with the collection, storage and s
 
 We may also engage third parties for the purpose of recognizing our users and delivering interest-based content and advertisements to them. We may share your User Information with our partners such as your name, postal address, email, or other identifier. Our partners may also: (i) collect information directly from your device, such as your IP address, device ID, advertising ID, and information about your browser or operating system. (ii) combine User Information about you received from Ziff Davis with information about you from other sites or services. and (iii) place or recognize a unique cookie on your browser.
 
-Except as otherwise described herein, the information we gather from all tests run through Ookla is collected anonymously and then aggregated to provide performance data to users on the Ookla websites, including its Speedtest server hosts, and/or to third parties to whom we license the information. We do this with the express intent of providing a neutral and unbiased monitoring and reporting resource for users around the world. The only Speedtest results we do not license to third parties are those test results from instances of Speedtest Custom which are made available pursuant to a paid subscription. In such instances, the Speedtest results are owned by the subscriber and are subject to that subscriber’s privacy policy.
-
-Information collected through Speedtest may not be anonymous as follows: for some ISPs and mobile carriers, Ookla will provide full IP addresses and/or network, hardware or device identifiers for such ISP or mobile carrier’s customers upon request. Ookla may also provide full IP addresses and/or network, hardware and device identifiers, to equipment manufacturers and core network, or wholesale providers on a case-by-case basis for network research purposes. Ookla may also collect GeoIP Data and/or Precise Location Data, and such data may also be licensed and/or transferred to third parties.
-
 If we engage a third-party Processor to Process your User Information, the Processor will be subject to binding contractual obligations to: (i) only Process the User Information in accordance with our prior written instructions. and (ii) use measures to protect the confidentiality and security of the User Information. together with any additional requirements under applicable law.
 
 The Services contain links to other sites or partners whose information practices may be different from ours. You should consult the privacy policy of these third parties to learn how your privacy is protected.
@@ -294,7 +282,7 @@ We may transfer your Personal Information to recipients in other countries. Ziff
 
 Because of the international nature of our business, we may need to transfer your User Information within the Ziff Davis group of companies, and to third parties as noted in Section 9 above, in connection with the purposes set out in this Policy. For this reason, we may transfer your User Information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
 
-Ziff Davis, LLC and its U.S. subsidiaries IGN Entertainment, Inc., emedia Communications, LLC, Salesify, Inc. d/b/a B2BSignals, Offers.com, LLC, and Ookla, LLC participate in and have certified its compliance with the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Ziff Davis is committed to subjecting all Personal Information received from European Union (E.U.) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s Privacy Shield List. Ziff Davis is responsible for the processing of Personal Information it receives under the Privacy Shield Framework and subsequent transfers to a third party acting as an agent on its behalf. Ziff Davis complies with the Privacy Shield principles for all onward transfers of Personal Information from the E.U. and Switzerland, including the onward transfer liability provisions. With respect to Personal Information received or transferred pursuant to the Privacy Shield Framework, Ziff Davis is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Ziff Davis may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you are a European individual with a privacy related complaint, concern or question about Ziff Davis’ privacy practices, please contact us through our DSAR Portal. Under certain conditions, more fully described on the Privacy Shield website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Ziff Davis, LLC and its U.S. subsidiaries IGN Entertainment, Inc., emedia Communications, LLC, Salesify, Inc., Offers.com, LLC and Mashable, Inc. participate in and have certified its compliance with the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Ziff Davis is committed to subjecting all Personal Information received from European Union (E.U.) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s Privacy Shield List. Ziff Davis is responsible for the processing of Personal Information it receives under the Privacy Shield Framework and subsequent transfers to a third party acting as an agent on its behalf. Ziff Davis complies with the Privacy Shield principles for all onward transfers of Personal Information from the E.U. and Switzerland, including the onward transfer liability provisions. With respect to Personal Information received or transferred pursuant to the Privacy Shield Framework, Ziff Davis is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Ziff Davis may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you are a European individual with a privacy related complaint, concern or question about Ziff Davis’ privacy practices, please contact us through our DSAR Portal. Under certain conditions, more fully described on the Privacy Shield website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our DSAR Portal.
 
@@ -350,7 +338,7 @@ If you are an EU resident, you may have certain rights including: the right not 
 
 You may directly take steps to change your preferences as follows:
 
-Access to Your Personal Information. Upon request Ziff Davis will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us through our DSAR Portal. We will respond to your request within a reasonable timeframe.
+_Access to Your Personal Information_. Upon request Ziff Davis will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us through our DSAR Portal. We will respond to your request within a reasonable timeframe.
 
 _Your Newsletter and Email Subscriptions_. You can opt out or unsubscribe to a newsletter or other email list at any time by following the instructions at the end of the newsletters or emails you receive. Please allow five to ten business days for changes to take effect. On some Services, member service-related communications are an integral part of such Services to which you subscribe and you may continue to receive emails as part of that particular portion of the Services unless you cancel your account, even if you opt out of the newsletters or email list. If you have provided more than one email address to us, you may continue to be contacted unless you request to unsubscribe each email address you have provided.
 
@@ -368,8 +356,6 @@ _Cookies and Pixel Tags_. You may stop or restrict cookies and pixel tags on you
 
 _Location Based Services_. You may opt-out of having your Precise Location Data collected by Ziff Davis at any time by editing the appropriate setting on your mobile device (which is usually located in the Settings area of your device).
 
-_Speedtest App and Web Speed Feature_. To turn off the background scanning feature of the Speedtest application, go to the settings or coverage maps features within the Speedtest application and switch the background scanning feature to “Off.” Please note if your smartphone or mobile device settings do not allow transmittal of Precise Location Data, certain features may not be available or their functions may be limited. You can opt out of the Speedtest Web Speed feature at any time by adjusting the settings on your web browser.
-
 _California Residents_. In accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ “do not track” signals. California’s “Shine the Light” law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in Section 17 below.
 
 _EU Residents_. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us using the DSAR Portal. If you are an EU resident and have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
@@ -378,13 +364,9 @@ _EU Residents_. GDPR provides certain rights for EU residents. You may decline t
 
 Summary – Terms of Use
 
-The Ookla Terms of Use governs your use of websites and services of Ookla (including Speedtest and Speedtest Custom).
+For all Services, the Ziff Davis Terms of Use will govern.
 
-For all other Services, the Ziff Davis Terms of Use will govern.
-
-For more information concerning your use of the websites and services of Ookla (including Speedtest and Speedtest Custom), please visit Ookla Terms of Use. The Ookla Terms of Use is incorporated by reference into this Privacy Policy.
-
-For more information concerning your use of all other Services, please visit the Ziff Davis Terms of Use. The Ziff Davis Terms of Use is incorporated by reference into this Privacy Policy.
+For more information concerning your use of the Services, please visit the Ziff Davis Terms of Use. The Ziff Davis Terms of Use is incorporated by reference into this Privacy Policy.
 
 We recommend that you review our Terms of Use regularly, in order to review any changes we might make from time to time.
 
@@ -419,6 +401,8 @@ We may change this Privacy Policy from time to time, and all changes will be eff
 
 **We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.**
 
+To review Ookla, LLC’s privacy policy and practices, please visit the Ookla Privacy Policy. The Ookla Terms of Use govern your use of websites and services of Ookla (including Speedtest and Speedtest Custom). To review Humble Bundle, Inc.’s privacy policy and practices, please visit the Humble Bundle Privacy Policy. The Humble Bundle Terms of Use govern your use of the websites and services of Humble Bundle. To review Everyday Health, Inc.’s privacy policy and practices, please visit the Everyday Health Terms of Use govern your use of the websites and services of Everyday Health.
+
 Comments are closed.
 
 Facebook Linkedin Twitter
@@ -431,4 +415,4 @@ Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 19
 
 AdChoices
 
-Back to Top 100%
+Back to Top
