@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   6\. Februar 2019
+*   7\. Februar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.367,98ǀ
+*   DAX 11.324,72ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -79,7 +79,6 @@ Anmelden
         *   Fußball-Tippspiel
         *   Formel 1
         *   Formel-1-Liveticker
-        *   Schach-WM 2018
         *   Wintersport
     *   *   Sportwetten
 *   Kultur
