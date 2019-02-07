@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
 
-What parents should know about Common Core math. What parents should know about Common Core math. Learn more
+How to raise an emotionally resilient child. How to raise an emotionally resilient child. Read more.
 
 Toggle message bar
 
