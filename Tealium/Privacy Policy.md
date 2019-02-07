@@ -147,7 +147,7 @@ Our Privacy Policy applies only to Tealium’s practices and services. If you pr
 
 **Questions or Comments or How to Contact Us**
 
-For more information on Tealium’s privacy and other information practices, please see Tealium’s full Privacy Policy. If you have questions or comments about our Privacy Policy, or need help using any of the tools on this website, please email us at privacy (at) tealstaging.wpengine.com. To contact Tealium’s Data Protection Officer, please send an email to dpo (at) tealstaging.wpengine.com. You can also contact us in writing at the address below:
+For more information on Tealium’s privacy and other information practices, please see Tealium’s full Privacy Policy. If you have questions or comments about our Privacy Policy, or need help using any of the tools on this website, please email us at privacy (at) tealium.com. To contact Tealium’s Data Protection Officer, please send an email to dpo (at) tealium.com. You can also contact us in writing at the address below:
 
 Tealium Inc.  
 11095 Torreyana Road  
