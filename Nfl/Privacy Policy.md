@@ -2,7 +2,7 @@ SUPER BOWL
 
 *   NE11-513LA13-33Final
 *   Game HighlightsPatriots vs. Rams highlights | Super Bowl LIII
-*   Super Bowl LIIITony Romo's best calls | Super Bowl LIII
+*   New England PatriotsBrady and his kids wave to crowd at Super Bowl LIII parade
 
 *   News
 *   Scores
@@ -28,7 +28,7 @@ SUPER BOWL
 
 *   NE13LA3Final
 *   Game HighlightsPatriots vs. Rams highlights | Super Bowl LIII
-*   Super Bowl LIIITony Romo's best calls | Super Bowl LIII
+*   New England PatriotsBrady and his kids wave to crowd at Super Bowl LIII parade
 
 *   News
 *   Scores
@@ -38,7 +38,7 @@ SUPER BOWL
 *   Super Bowl
 
 *   Super Bowl
-*   Scores
+*   Shop
 
 *   *   Game Pass
     *   Playoff Picture
