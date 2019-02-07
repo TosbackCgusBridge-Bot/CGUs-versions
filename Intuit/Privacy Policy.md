@@ -32,8 +32,8 @@ Near YouFind a StoreBack25 - 40% Off DressesShop All25 - 40% Off DressesShop All
 *   $2624after couponwas $60 Worthington Short Sleeve Wrap DressAdd To Cart
 *   $3411after couponwas $74 London Style Short Sleeve Blouson DressAdd To Cart
 *   $3936after couponwas $89 Maya Brooke 3/4 Sleeve Embellished Jacket DressAdd To Cart
-*   $2361after couponwas $54 Artesia 3/4 Sleeve Embroidered Peasant DressAdd To Cart
 *   $3411after couponwas $74 Studio 1 Short Sleeve Fit &. Flare DressAdd To Cart
+*   $2361after couponwas $54 Artesia 3/4 Sleeve Embroidered Peasant DressAdd To Cart
 *   from$3224after couponwas $74 Premier Amour 3/4 Sleeve Floral Lace Sheath DressAdd To Cart
 *   $3411after couponwas $74 Premier Amour Short Sleeve Cold Shoulder Sheath DressAdd To Cart
 
@@ -41,10 +41,10 @@ Beauty &. CologneShop AllBeauty &. CologneShop All
 
 *   $65
     
-    HUDA BEAUTY The New Nude Eyeshadow Palette(1094)Add To Cart
+    HUDA BEAUTY The New Nude Eyeshadow Palette(1096)Add To Cart
 *   $24
     
-    FENTY BEAUTY BY RIHANNA Stunna Lip Paint Longwear Fluid Lip Color(3599)Add To Cart
+    FENTY BEAUTY BY RIHANNA Stunna Lip Paint Longwear Fluid Lip Color(3602)Add To Cart
 *   from$28
     
     Versace Eros(273)Add To Cart
@@ -56,22 +56,22 @@ Beauty &. CologneShop AllBeauty &. CologneShop All
     Ralph Lauren Polo Red(76)Add To Cart
 *   $49
     
-    Urban Decay Naked Cherry Eyeshadow Palette(323)Add To Cart
-*   $24
+    Urban Decay Naked Cherry Eyeshadow Palette(325)Add To Cart
+*   from$72
     
-    Fresh Sugar Lip Treatment SPF 15(9040)Add To Cart
+    Yves Saint Laurent Black Opium(5266)Add To Cart
 
 Home Big BuysShop AllHome Big BuysShop All
 
 *   BIG BUY!
     
-    from$224after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1061)Add To Cart
+    from$224after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1062)Add To Cart
 *   BIG BUY!
     
     from$1499after couponwas $49 - $199 Studio 1000tc Luxury Performance Sheet Sets(251)Add To Cart
 *   BIG BUY!
     
-    from$630after couponwas $16 - $40 Home Expressions Lisette Rod-Pocket Sheer Panel(1155)Add To Cart
+    from$630after couponwas $16 - $40 Home Expressions Lisette Rod-Pocket Sheer Panel(1156)Add To Cart
 *   BIG BUY!
     
     from$20 sale
@@ -89,20 +89,7 @@ Home Big BuysShop AllHome Big BuysShop All
     
     from$25 sale
     
-    was $50 - $140 JCPenney Home™ Top-Down/Bottom-Up Cordless Cellular Shade - FREE SWATCH(178)Add To Cart
-
-Hot Sellers
-
-*   from$3549 sale
-    
-    was $59.50 | 32 - 40% offLevi's® 505™ Regular Fit Jeans(2299)
-*   $1574after couponwas $40 Stafford® Travel Performance Pinpoint Oxford Dress Shirt(665)
-*   from$1199after couponwas $30 - $35 Arizona Original Fit Flex Jeans Boys 4-20, Slim &. HUsky(20)
-*   BIG BUY!
-    
-    $1699after couponwas $50 Cuisinart Metallic 12-Pc. Cutlery Set(10)
-*   $1424after couponwas $36 Stafford® Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt(297)
-*   $1799after couponwas $28 Stafford® 6-pk. Cotton Full-Cut Briefs(826)
+    was $50 - $140 JCPenney Home™ Top-Down/Bottom-Up Cordless Cellular Shade - FREE SWATCH(179)Add To Cart
 
 Shop and Save at JCPenney
 
