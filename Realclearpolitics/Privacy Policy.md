@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _John Dickerson_: President Trump's Hollow Call For Unity
+*   _Frank Bruni_: In State of the Union, Trump Comes Out as a Feminist
     
-*   _Ford O'Connell_: Democrats: The Party of Illegal Immigration
+*   _Roger Kimball_: Donald Trump Chooses Greatness--and So Should We
     
-*   _Ledyard King_: Can Stacey Abrams Break the SOTU Response Curse?
+*   _Ezra Klein_: I Liked Parts of Trump Speech, Then I Remembered His Presidency
     
-*   _Philip Wegmann_: Trump's AIDS Moonshot: Will It Fly Tonight?
+*   _Peter Beinart_: A Reminder of Why Trump Is a Formidable Candidate
     
-*   _Amanda Marcotte_: GOP's Festival of Phony Outrage Over Late-Term Abortion
+*   _Ed Rogers_: Why Euphoria After Trump's SOTU May Be Short-Lived
     
-*   _David Harsanyi_: Why Democrats Can't Talk Honestly About Abortion
+*   _Conrad Black_: Democrats Need to Find a Centrist or They're Doomed
     
-*   _Frank Donatelli_: Howard Schultz Can Keep Both Parties Moderate
+*   _Christina Cauterucci_: Abrams Shows Dems How to Win the Abortion Fight
     
-*   _Jesse Jackson_: Northam Would Be Wise to Step Down
+*   _Charles Hurt_: Kermit Gosnell for Governor of Virginia?
     
-*   _Scott McKay_: Howard &. Ralph Are Victims of a Culture They Helped Create
+*   _David Leonhardt_: The Real State of the Union, in Charts
     
-*   _Tony Blair_: May's Deal Won't Supply the Brexit We Crave
+*   _David Harsanyi_: The State of Media 'Fact-Checking' Is Completely Useless
     
-*   _Charles Lipson_: Trump Admin Threads the Needle in Venezuela
+*   _Tim Roemer_: Five Tips for New Members of Congress
     
-*   _Laurie Roberts_: Hey GCU, Let Ben Shapiro Speak
+*   _Michael Goodwin_: Trump Shows He's Playing to Win With Bold Address
     
-*   _John Feehery_: Trump Has Smashed the Status Quo. That's a Good Thing
+*   _Sally Kohn_: Trump Pretends to Be Presidential to Con the Nation
     
-*   _John Cassidy_: The Shrunken State of Donald Trump's Presidency
+*   _Stephen Presser_: Ripping Off the Democrats' Mask
     
-*   _Walter Russell Mead_: Trump's Foreign-Policy Critics Are Losing
+*   _Vann Newkirk_: Stacey Abrams's New Strategy for Democrats
     
-*   _Robert Reich_: State of Disunion: Don't Give In to Trump's Hateful Speech
+*   _Tom Rogan_: Dems Won't Cheer for Record-Low Minority Unemployment
     
-*   _George Neumayr_: Northam Debacle a Fitting Nightmare for Dems
+*   _Zack Beauchamp_: Trump's SOTU Was Really About White Ethno-Nationalism
     
-*   _Jamelle Bouie_: Blackface Is the Tip of the Iceberg
+*   _Susan Crabtree_: Amid Notes of Unity, Trump Stands His Ground
     
-*   _Scott Jennings_: Blackface Is Bad. Slaughtering Babies Is Worse
+*   _Kathleen Parker_: Abortion Laws &. the Banality of Evil, 2019 Version
     
-*   _Damon Linker_: What Do Democratic Voters Want?
+*   _Gov. Andrew Cuomo_: Trump's Assault on Abortion Rights Must Be Rejected
     
-*   _Rep. Matt Gaetz_: Border Walls Work, and Democrats Know It
+*   _Jesse Kelly_: Congress's Vote to Keep Afghan War Sells Out U.S. Soldiers
     
-*   _Tim Murphy_: Ocasio-Cortez Showing Us the Future of Politics. Sort of.
+*   _David Ignatius_: Trump Is Stumbling His Way to a Middle East Retreat
     
-*   _Dominic Green_: Meet Alexandria Ocasio-Corbyn
+*   _Miller &. Sokolsky_: It's Time to Let Go of America's 18-Year Afghan War
     
-*   _Anuradha Bhagwati_: Trump Is Getting It Right on Veterans Care
+*   _Matt Walsh_: Justin Fairfax's Accuser Is More Credible Than Blasey Ford
     
 
 *   Previous
@@ -228,9 +228,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Pelosi Over His Shoulder: Trump Faces Empowered Dems at SOTU
-*   State of the Union Will Have a Unifying Tone, White House Says
-*   Sanders: Do Democrats Love the Country More Than They Hate Trump?
+*   Amid Notes of Unity, Trump Stands His Ground
+*   In Democratic Response, Abrams Sharply Rebukes Trump
+*   Full Video/Transcript of Trump's State of the Union Address
 *   Ginsburg Makes 1st Public Appearance Since Cancer Surgery
 *   Virginia Gov. Ralph Northam Loses Key Support. Future in Doubt
 *   Presidential Job Approval
@@ -245,36 +245,27 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationMonmouth
-    *   Biden29
-    *   Sanders16
-    *   O'Rourke7
-    *   Harris11
-    *   Warren8
-    *   Booker4
-    *   Bloomberg4
-    *   Castro1
-    *   Gabbard1
-    *   Brown1
-    *   Klobuchar2
-    *   Gillibrand1Biden +13
-*   President Trump Job ApprovalCNN
-    *   Approve42
-    *   Disapprove54Disapprove +12
-*   President Trump Job ApprovalIBD/TIPP
-    *   Approve39
-    *   Disapprove57Disapprove +18
-*   President Trump Job ApprovalPolitico/Morning Consult
-    *   Approve41
-    *   Disapprove56Disapprove +15
+*   Mississippi Governor - Reeves vs. HoodMason-Dixon
+    *   Hood44
+    *   Reeves42Hood +2
+*   Mississippi Governor - Reeves vs. Hood vs. WallerMason-Dixon
+    *   Hood40
+    *   Reeves38
+    *   Waller9Hood +2
+*   Mississippi Governor - Republican PrimaryMason-Dixon
+    *   Reeves62
+    *   Foster9Reeves +53
+*   General Election: Trump vs. BloombergRasmussen Reports
+    *   Bloomberg46
+    *   Trump40Bloomberg +6
 
 More Latest Polls In The News
 
-*   Stacey Abrams Delivers Democratic SOTU Response: Voter Suppression Is Real, Can No Longer Ignore
+*   Warren Apologizes For Listing Herself "American Indian" On Bar Registration: Never Used Heritage To Advance Career
+*   Alexandria Ocasio-Cortez: Trump Attacked Socialism Using Venezuela To "Confuse The Public"
 *   Trump: "America Will Never Be A Socialist Country". "We Were Born Free And We Will Stay Free"
-*   Trump: America's Political Class Push For Open Borders While Living Their Lives Behind Walls And Gates
-*   Cory Booker Questions Trump D.C. Circuit Judicial Nominee: Do You Believe Gay Marriage Is A Sin?
-*   Schumer: The State Of Trump's Administration Is Chaos, He Will "Ignore Reality And Spin Falsehoods"
+*   Stacey Abrams Delivers Democratic SOTU Response: Voter Suppression Is Real, Can No Longer Ignore
+*   CBS News Instant Poll: 72% Approve Of Trump's Immigration Ideas, 76% Approve Of SOTU Address
 
 *   Politics
 *   Policy
