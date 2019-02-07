@@ -25,6 +25,8 @@ Close submenu ( Girls ) Girls
 *   New Arrivals
 *   Best Sellers
 *   Destroyed Denim
+*   Seeing Stripes
+*   Twisted for Tie Dye
 *   Online Only
 *   #BeMyAero Valentine
 *   Swim
@@ -35,9 +37,11 @@ Close submenu ( Guys ) Guys
 *   New Arrivals
 *   Best Sellers
 *   Destroyed Denim
+*   Seeing Stripes
 *   Online Only
 *   #BeMyAero Valentine
 *   Active
+*   Twisted for Tie Dye
 
 Close submenu ( Girls ) Girls
 
@@ -129,7 +133,6 @@ Close submenu ( Tops ) Tops
 *   Long Sleeve
 *   Hoodies + Sweatshirts
 *   Shirts
-*   Sweaters
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -231,6 +234,8 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Best Sellers
         *   Destroyed Denim
+        *   Seeing Stripes
+        *   Twisted for Tie Dye
         *   Online Only
         *   #BeMyAero Valentine
         *   Swim
@@ -240,9 +245,12 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Best Sellers
         *   Destroyed Denim
+        *   Seeing Stripes
         *   Online Only
         *   #BeMyAero Valentine
         *   Active
+        *   Twisted for Tie Dye
+    
 *   Girls
     
     *   View Home
@@ -306,7 +314,6 @@ Menu Find a Store Aeropostale
         *   Long Sleeve
         *   Hoodies + Sweatshirts
         *   Shirts
-        *   Sweaters
     
     *   Bottoms
         *   View All
@@ -388,6 +395,7 @@ Menu Find a Store Aeropostale
         *   Bottoms
         *   Accessories
         
+    
 
 *   Select Country
 
@@ -396,7 +404,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Girls #BeMyAero Guys #BeMyAero Gift Cards Shop Girls Shop Guys Shop Super High Rise Shop Girls Jeans Shop Girls Shop Guys Shop Super Skinny Shop Guys Jeans Previous Next Shop The Girls Tribe Shop Guys Tops Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Girls #BeMyAero Guys #BeMyAero Gift Cards Shop Girls Shop Guys Shop Super High Rise Shop Girls Jeans Shop Girls Shop Guys Shop Super Skinny Shop Guys Jeans Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -435,3 +443,17 @@ Stay Connected
 *   Store FAQs
 
 © 2018 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
