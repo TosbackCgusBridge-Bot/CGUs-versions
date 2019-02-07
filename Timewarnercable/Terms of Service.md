@@ -1,4 +1,4 @@
-9fa49ce6-38c6-492f-8d9c-cbeebb52c057
+69b19767-74ce-4fed-94aa-5aaf823793ae
 
 *   Search
 *   Contact Us
@@ -151,6 +151,8 @@ Search Services by State+ Search for Services in Your Area
 *   Rural Carrier Call Completion
 *   Accessibility
 
+Not all products, pricing, and services are available in all areas. Pricing and actual speeds may vary. Restrictions apply.
+
 © 2019 Charter Communications. All rights reserved.
 
 Start AgainEspañol SEARCHING FOR BEST OFFERS
@@ -166,5 +168,3 @@ Plus, **NO CONTRACTS.**
 2-HOUR APPOINTMENT WINDOWS
 
 If our technician is not on time, **you get $20**
-
-✓Verify
