@@ -60,15 +60,15 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Family Barn
+    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Backgammon: Board Game Online Multiplayer
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Warbanner
     *   Madalin Cars Multiplayer
-    *   Bubble Machine: 2 Player Game
     *   Total Front: Army War Game
+    *   Bubble Machine: 2 Player Game
     *   Klondike - the lost expedition
     *   Slither.io
     *   Fireboy &. Watergirl 2: The Light Temple
@@ -194,8 +194,8 @@ View more results
     *   Love Tester 2.0
     *   Burger Restaurant Express
     *   Penguin Diner: Food Restaurant Game
-    *   Bartender
     *   Papa's Freezeria
+    *   Bartender
     *   Create a House: Building Game
     *   Papa's Cupcakeria
     *   Back To School: Princesses Rush
@@ -224,8 +224,8 @@ View more results
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Hill Racing Challenge
     *   Bike Racing: Motorcycle Game
-    *   Madalin Cars Multiplayer
     *   Happy Wheels
+    *   Madalin Cars Multiplayer
     *   Uphill Rush 7: Waterpark
     *   Bus Man Parking 3D
     *   Extreme Off-Road Cars 2
@@ -256,12 +256,12 @@ View more results
     *   Stunt Skateboard 3D
     *   Table Tennis World Tour
     *   Baseball
-    *   Neon Biker
     *   8-Ball
+    *   Neon Biker
     *   Playing Soccer
     *   Ultimate Boxing
-    *   Goalkeeper Premier: Football Game
     *   Billiards Master Pro
+    *   Goalkeeper Premier: Football Game
     *   4x4 Soccer
 *   *   Multiplayer
     *   Action
@@ -469,4 +469,5 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-Your privacy settingsWe use cookies to personalize and enhance your experience on our site. Visit our Privacy Policy for more information on our data collection practices. By clicking Accept, you agree to our use of cookies for the purposes listed in our Cookie Consent Tool. Otherwise you can learn more about our use of cookies by clicking Settings.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
