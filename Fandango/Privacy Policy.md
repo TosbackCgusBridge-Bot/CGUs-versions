@@ -327,9 +327,9 @@ Offers
     
     Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
-*   Get $8 towards a movie ticket to see BumbleBee in theaters now!
+*   Latest Movie Awards News
     
-    When you purchase participating Paramount DVD or BluRay. Offer Expires on 2/28/2019. ENTER NOW
+    Catch up on Awards news and get tickets to nominated movies, including Green Book and The Favourite. LEARN MORE
     
 *   'The Lego Movie 2: The Second Part' Sweepstakes
     
