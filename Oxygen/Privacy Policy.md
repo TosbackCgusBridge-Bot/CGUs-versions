@@ -13,10 +13,13 @@ Skip to main content
     *   Chicago P.D.
     *   Cold Justice
     *   Dateline: Secrets Uncovered
-    *   Dirty John, The Dirty Truth
+    *   Deadly Cults
+    *   In Ice Cold Blood
     *   Killer Couples
+    
     *   Mark of a Killer
     *   Martinis &. Murder
+    *   Seduced By Evil
     *   Smiley Face Killers: The Hunt For Justice
     *   Snapped
 *   Full Episodes
@@ -34,10 +37,13 @@ Get Updates Facebook Twitter Newsletter Oxygen.com
     *   Chicago P.D.
     *   Cold Justice
     *   Dateline: Secrets Uncovered
-    *   Dirty John, The Dirty Truth
+    *   Deadly Cults
+    *   In Ice Cold Blood
     *   Killer Couples
+    
     *   Mark of a Killer
     *   Martinis &. Murder
+    *   Seduced By Evil
     *   Smiley Face Killers: The Hunt For Justice
     *   Snapped
 *   Full Episodes
@@ -96,3 +102,10 @@ Get Involved
 Stay Connected Stay Connected
 
 ©2019 Oxygen Media LLC. A Division of NBCUniversal
+
+AddThis SharingPinterestFacebookEmailCopy LinkAddThis Sharing
+
+*   Facebook
+*   Twitter
+*   Email
+*   Pinterest
