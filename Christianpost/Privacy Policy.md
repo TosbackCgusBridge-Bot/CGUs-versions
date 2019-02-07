@@ -33,9 +33,9 @@ Hot Topics
 
 *   Born Alive bill
 *   Foster parenting
-*   Ralph Northam
+*   Cory Booker
 *   Asia Bibi
-*   Gateway Church
+*   Harper Collins
 
 About Us
 
@@ -49,6 +49,7 @@ About Us
 
 Stay Connected
 
+*   CP Newsletter
 *   Contact Us
 *   RSS Feed
 *   Advertise With Us
@@ -56,6 +57,7 @@ Stay Connected
 *   Archives
 *   Corrections
 *   Disclaimer
+*   Email Whitelisting
 *   Careers
 
 Follow Us
