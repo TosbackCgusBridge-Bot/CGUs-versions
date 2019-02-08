@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   7\. Februar 2019
+*   8\. Februar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.324,72ǀ
+*   DAX 11.022,02ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -54,7 +54,6 @@ Anmelden
         *   Weltwirtschaftsforum in Davos 2019
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
-        *   Immowelt
 *   Panorama
     
     *   *   Übersicht
