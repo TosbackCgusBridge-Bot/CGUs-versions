@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off 1 full-price item!
+Receive 25% off full-price styles!
 
-code: ROSE pin: 6589 DETAILS
+code: RED pin: 7894 DETAILS
 
 Customer Service Menu
 
