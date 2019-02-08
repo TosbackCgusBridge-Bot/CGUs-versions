@@ -1,5 +1,3 @@
-<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
-
 Pick a theme
 
 *   Red
@@ -194,8 +192,8 @@ View more results
     *   Love Tester 2.0
     *   Burger Restaurant Express
     *   Penguin Diner: Food Restaurant Game
-    *   Papa's Freezeria
     *   Bartender
+    *   Papa's Freezeria
     *   Create a House: Building Game
     *   Papa's Cupcakeria
     *   Back To School: Princesses Rush
@@ -260,8 +258,8 @@ View more results
     *   Neon Biker
     *   Playing Soccer
     *   Ultimate Boxing
-    *   Billiards Master Pro
     *   Goalkeeper Premier: Football Game
+    *   Billiards Master Pro
     *   4x4 Soccer
 *   *   Multiplayer
     *   Action
@@ -469,5 +467,4 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Your privacy settingsWe use cookies to personalize and enhance your experience on our site. Visit our Privacy Policy for more information on our data collection practices. By clicking Accept, you agree to our use of cookies for the purposes listed in our Cookie Consent Tool. Otherwise you can learn more about our use of cookies by clicking Settings.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
