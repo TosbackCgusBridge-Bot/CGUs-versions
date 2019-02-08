@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Creating multi-purpose hardware with IoT app stores ›
+*   Financial services businesses say multi-cloud is central to their plans for AI, containers and blockchain, 451 Research reveals ›
+*   Zero to Hero – Snap me up before you GO! ›
 *   Ubuntu at Mobile World Congress 2019 ›
 *   Ubuntu Server development summary – 05 February 2019 ›
-*   Ubuntu 14.04 Trusty Tahr End of Life ›
-*   Fresh snaps from January 2019 ›
-*   Ubuntu at Embedded World 2019 ›
