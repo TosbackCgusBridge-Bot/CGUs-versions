@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Frank Bruni_: In State of the Union, Trump Comes Out as a Feminist
+*   _Salena Zito_: How Media Tries to Cover Up Dems' Abortion Extremism
     
-*   _Roger Kimball_: Donald Trump Chooses Greatness--and So Should We
+*   _Michelle Goldberg_: Trump Lied About Abortion in State of the Union
     
-*   _Ezra Klein_: I Liked Parts of Trump Speech, Then I Remembered His Presidency
+*   _Lili Loofbourow_: Why Yearbooks Matter
     
-*   _Peter Beinart_: A Reminder of Why Trump Is a Formidable Candidate
+*   _John Nolte_: Fairfax Accuser Felt 'Powerless' After WP Spiked Her Story
     
-*   _Ed Rogers_: Why Euphoria After Trump's SOTU May Be Short-Lived
+*   _Caygle &. Ferris_: Pelosi Is Clearly Relishing Return to the Speaker's Chair
     
-*   _Conrad Black_: Democrats Need to Find a Centrist or They're Doomed
+*   _Christopher Buskirk_: No Wall, No Peace
     
-*   _Christina Cauterucci_: Abrams Shows Dems How to Win the Abortion Fight
+*   _Ron Brownstein_: Push for Border Wall Is Hurting Trump and Republicans
     
-*   _Charles Hurt_: Kermit Gosnell for Governor of Virginia?
+*   _Freddy Gray_: Trump Is Divisive. He Splits His Opposition Perfectly
     
-*   _David Leonhardt_: The Real State of the Union, in Charts
+*   _Larry Summers_: No Trade Deal Can Dictate Our Relationship With China
     
-*   _David Harsanyi_: The State of Media 'Fact-Checking' Is Completely Useless
+*   _Jim Talent_: A Bull in the China Shop
     
-*   _Tim Roemer_: Five Tips for New Members of Congress
+*   _Megan Molteni_: The World Might Actually Run Out of People
     
-*   _Michael Goodwin_: Trump Shows He's Playing to Win With Bold Address
+*   _David Graham_: As Goes Virginia, So Goes the Democratic Party
     
-*   _Sally Kohn_: Trump Pretends to Be Presidential to Con the Nation
+*   _Rich Lowry_: The Bonfire of the Democrats
     
-*   _Stephen Presser_: Ripping Off the Democrats' Mask
+*   _Bruce Haynes_: An America Both Great and Aggrieved
     
-*   _Vann Newkirk_: Stacey Abrams's New Strategy for Democrats
+*   _Amanda Marcotte_: Dem Women Send Trump a Message: We're Coming for You
     
-*   _Tom Rogan_: Dems Won't Cheer for Record-Low Minority Unemployment
+*   _David Catron_: Pelosi Outsmarted Herself on the SOTU
     
-*   _Zack Beauchamp_: Trump's SOTU Was Really About White Ethno-Nationalism
+*   _Kalev Leetaru_: How Media Treated the State of the Union Address
     
-*   _Susan Crabtree_: Amid Notes of Unity, Trump Stands His Ground
+*   _John Nichols_: Socialism Is More Popular Than You Think, Mr. President
     
-*   _Kathleen Parker_: Abortion Laws &. the Banality of Evil, 2019 Version
+*   _Roger Simon_: Why Trump's War on Socialism Is More Necessary Than Ever
     
-*   _Gov. Andrew Cuomo_: Trump's Assault on Abortion Rights Must Be Rejected
+*   _Dahlia Lithwick_: The Lies That Will Kill Roe v. Wade
     
-*   _Jesse Kelly_: Congress's Vote to Keep Afghan War Sells Out U.S. Soldiers
+*   _Jeanne Mancini_: The New Abortion Radicalism
     
-*   _David Ignatius_: Trump Is Stumbling His Way to a Middle East Retreat
+*   _Heather Digby Parton_: Trump Is Under Assault From All Directions
     
-*   _Miller &. Sokolsky_: It's Time to Let Go of America's 18-Year Afghan War
+*   _Julie Kelly_: Trump Tower Collusion Storyline Backfires
     
-*   _Matt Walsh_: Justin Fairfax's Accuser Is More Credible Than Blasey Ford
+*   _Brent Budowsky_: 2020 Democrats: The National Security Party
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Negotiators See Progress in Border Security Talks as Deadline Nears
+*   Democrats Mute Calls for Va. Resignations With Power at Risk
+*   Maddow: How the House Intel Committee Plans to Investigate Trump
+*   Attkisson: I'm Suing the Government. It Has a Problem With That.
 *   Amid Notes of Unity, Trump Stands His Ground
-*   In Democratic Response, Abrams Sharply Rebukes Trump
-*   Full Video/Transcript of Trump's State of the Union Address
-*   Ginsburg Makes 1st Public Appearance Since Cancer Surgery
-*   Virginia Gov. Ralph Northam Loses Key Support. Future in Doubt
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -261,11 +261,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Alexandria Ocasio-Cortez on Green New Deal: We Have Tried To Let Private Sector Take Care Of It For 40 Years
+*   Tucker Carlson: Stacey Abrams Says Identity Politics Will Unite Country. She Wants A Revolt, Not Unity
 *   Warren Apologizes For Listing Herself "American Indian" On Bar Registration: Never Used Heritage To Advance Career
-*   Alexandria Ocasio-Cortez: Trump Attacked Socialism Using Venezuela To "Confuse The Public"
 *   Trump: "America Will Never Be A Socialist Country". "We Were Born Free And We Will Stay Free"
 *   Stacey Abrams Delivers Democratic SOTU Response: Voter Suppression Is Real, Can No Longer Ignore
-*   CBS News Instant Poll: 72% Approve Of Trump's Immigration Ideas, 76% Approve Of SOTU Address
 
 *   Politics
 *   Policy
