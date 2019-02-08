@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-IN-SEASON STYLES ON SALE UP TO 75% OFF - SHOP NOW.
+Valentine’s Day Sales &. Specials are happening now - Shop your heart out!
 
 *   Women
 *   Men
