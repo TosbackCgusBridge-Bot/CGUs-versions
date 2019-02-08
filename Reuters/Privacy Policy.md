@@ -187,13 +187,7 @@ Thomson Reuters
 *   Copyright
 *   Accessibility
 
-<img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=215515565692587&ev=PageView&noscript=1" />.
-
-*   be\_ixf. js\_sdk. js\_sdk\_1.0.12
-*   https://legal.thomsonreuters.com/en/products/westlaw/practitioner-insights
-*   https://legal.thomsonreuters.com/en/products/westlaw/practitioner-insights
-
-Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
+<img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=215515565692587&ev=PageView&noscript=1" />. Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
 
 How would you rate your experience?
 
