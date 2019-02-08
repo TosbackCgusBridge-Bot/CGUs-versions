@@ -15,7 +15,7 @@ SUPER BOWL
 *   Shop
 *   Teams
 *   Game Pass
-*   Playoff Picture
+*   Combine
 *   Pro Bowl
 *   NFL Honors
 *   Stats
@@ -41,7 +41,7 @@ SUPER BOWL
 *   Shop
 
 *   *   Game Pass
-    *   Playoff Picture
+    *   Combine
     *   Pro Bowl
     *   NFL Honors
     *   Stats
