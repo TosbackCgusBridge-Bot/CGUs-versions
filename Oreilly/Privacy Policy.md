@@ -367,12 +367,12 @@ Click here for version 3.3
 
 Upcoming Conferences
 
-*   Software Architecture Feb 4–6, New York
 *   Strata Mar 26–28, San Francisco
 *   Artificial Intelligence Apr 16–18, New York
 *   Strata Apr 30–May 2, London
 *   Velocity Jun 11–13, San Jose
 *   Software Architecture Jun 11–13, San Jose
+*   Artificial Intelligence Jun 19–21, Beijing
 
 The O'Reilly Approach
 
