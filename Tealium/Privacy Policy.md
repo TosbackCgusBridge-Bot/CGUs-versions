@@ -9,6 +9,7 @@
     *   Mobile
     *   Identity Resolution
     *   Client-side &. Server-side Data
+    *   Customer Data Platform
     *   EDW or Data Lake + Tealium
     *   Preparing for GDPR
     *   Trust and Privacy
@@ -50,6 +51,7 @@
     *   Mobile
     *   Identity Resolution
     *   Client-side &. Server-side Data
+    *   Customer Data Platform
     *   EDW or Data Lake + Tealium
     *   Preparing for GDPR
     *   Trust and Privacy
