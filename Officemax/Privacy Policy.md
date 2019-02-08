@@ -38,7 +38,7 @@ Stock Quote and Chart
 
 Price
 
-$3.09
+$3.13
 
 Change
 
@@ -51,7 +51,7 @@ Percent Change
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Feb 05, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Recent News Feb 05, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Events Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast view more Events Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast view more Presentations Nov 07, 2018 Office Depot Third Quarter 2018 Earnings Webcast Presentation view more Presentations Nov 07, 2018 Office Depot Third Quarter 2018 Earnings Webcast Presentation view more
+Recent News Feb 07, 2019 Office Depot Inks New Deal with Xerox, the Latest Investment in the Company’s Print &. Copy Services view more Recent News Feb 07, 2019 Office Depot Inks New Deal with Xerox, the Latest Investment in the Company’s Print &. Copy Services view more Events Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast view more Events Nov 7, 2018 at 9:00 AM EST Q3 2018 Office Depot Inc. Earnings Webcast view more Presentations Nov 07, 2018 Office Depot Third Quarter 2018 Earnings Webcast Presentation view more Presentations Nov 07, 2018 Office Depot Third Quarter 2018 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
