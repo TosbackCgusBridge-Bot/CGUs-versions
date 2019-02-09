@@ -4,7 +4,7 @@ Book online or call 800-246-8357This call is free. 24 hours a day. 7 days a week
 
 Menu
 
-*   Hotel Deals
+*   Deals
 *   Packages
 *   Groups &. Meetings
 *   Gift Cards
