@@ -111,6 +111,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Eric Levitz_: AOC's Green New Deal Is Utopian - and Pragmatic
+    
+*   _David Harsanyi_: The 10 Most Insane Requirements of the Green New Deal
+    
+*   _Paul Krugman_: Trump Versus the Socialist Menace
+    
+*   _Kimberley Strassel_: The Little Socialist That Could
+    
+*   _Carlos Curbelo_: GOP Must Tackle Climate Change w/Market-Based Approach
+    
+*   _Douglas Williams_: Political Crisis in Virginia a Test for Democratic Party
+    
+*   _George Neumayr_: Liberalism's PC Petards
+    
+*   _Jessie Tarlov_: Democrats Are Not the Party of Infanticide
+    
+*   _Philip Wegmann_: Late-Term Abortion Stance a 2020 Trump Card?
+    
+*   _Jamelle Bouie_: The Biden Fallacy
+    
+*   _Daniel Flynn_: Elizabeth Warren Finished Before She Started
+    
+*   _James Comey_: Blackface Is a Tool of White Oppression
+    
+*   _John Kass_: Pols in Blackface? Beats Defending Late-Term Abortion
+    
+*   _Joe Lieberman_: Why Border Standoff Is Cause for So Much Concern
+    
+*   _Farhad Manjoo_: Abolish Billionaires
+    
+*   _John Stossel_: San Francisco Has Become the Slum By the Bay
+    
+*   _Jeff Bezos_: Sorry, Mr. Pecker, I Wil Not Be Blackmailed
+    
 *   _Salena Zito_: How Media Tries to Cover Up Dems' Abortion Extremism
     
 *   _Michelle Goldberg_: Trump Lied About Abortion in State of the Union
@@ -124,40 +158,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Christopher Buskirk_: No Wall, No Peace
     
 *   _Ron Brownstein_: Push for Border Wall Is Hurting Trump and Republicans
-    
-*   _Freddy Gray_: Trump Is Divisive. He Splits His Opposition Perfectly
-    
-*   _Larry Summers_: No Trade Deal Can Dictate Our Relationship With China
-    
-*   _Jim Talent_: A Bull in the China Shop
-    
-*   _Megan Molteni_: The World Might Actually Run Out of People
-    
-*   _David Graham_: As Goes Virginia, So Goes the Democratic Party
-    
-*   _Rich Lowry_: The Bonfire of the Democrats
-    
-*   _Bruce Haynes_: An America Both Great and Aggrieved
-    
-*   _Amanda Marcotte_: Dem Women Send Trump a Message: We're Coming for You
-    
-*   _David Catron_: Pelosi Outsmarted Herself on the SOTU
-    
-*   _Kalev Leetaru_: How Media Treated the State of the Union Address
-    
-*   _John Nichols_: Socialism Is More Popular Than You Think, Mr. President
-    
-*   _Roger Simon_: Why Trump's War on Socialism Is More Necessary Than Ever
-    
-*   _Dahlia Lithwick_: The Lies That Will Kill Roe v. Wade
-    
-*   _Jeanne Mancini_: The New Abortion Radicalism
-    
-*   _Heather Digby Parton_: Trump Is Under Assault From All Directions
-    
-*   _Julie Kelly_: Trump Tower Collusion Storyline Backfires
-    
-*   _Brent Budowsky_: 2020 Democrats: The National Security Party
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Negotiators See Progress in Border Security Talks as Deadline Nears
-*   Democrats Mute Calls for Va. Resignations With Power at Risk
-*   Maddow: How the House Intel Committee Plans to Investigate Trump
+*   Late-Term Abortion Stance May Be Trump Card in 2020
+*   Supreme Court Puts Hold on Louisiana Regulations on Abortion
+*   President Trump Speaks at 2019 National Prayer Breakfast
+*   Jeff Bezos Accuses National Enquirer of "Extortion and Blackmail"
 *   Attkisson: I'm Suing the Government. It Has a Problem With That.
-*   Amid Notes of Unity, Trump Stands His Ground
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,6 +245,12 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalThe Hill/HarrisX
+    *   Approve47
+    *   Disapprove53Disapprove +6
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove49Approve +1
 *   Mississippi Governor - Reeves vs. HoodMason-Dixon
     *   Hood44
     *   Reeves42Hood +2
@@ -252,20 +258,14 @@ Latest PollsAll Polls
     *   Hood40
     *   Reeves38
     *   Waller9Hood +2
-*   Mississippi Governor - Republican PrimaryMason-Dixon
-    *   Reeves62
-    *   Foster9Reeves +53
-*   General Election: Trump vs. BloombergRasmussen Reports
-    *   Bloomberg46
-    *   Trump40Bloomberg +6
 
 More Latest Polls In The News
 
+*   Cory Booker: Green New Deal Is "Bold," Like Defeating The Nazis Or Going To The Moon
+*   Kellyanne Conway Tells CNN How She Was "Assaulted" By "Unhinged" Woman In A Restaurant
+*   Sen. Ed Markey: Green New Deal Is "A Mission To Save All Of Creation By Engaging In Massive Job Creation"
 *   Alexandria Ocasio-Cortez on Green New Deal: We Have Tried To Let Private Sector Take Care Of It For 40 Years
-*   Tucker Carlson: Stacey Abrams Says Identity Politics Will Unite Country. She Wants A Revolt, Not Unity
-*   Warren Apologizes For Listing Herself "American Indian" On Bar Registration: Never Used Heritage To Advance Career
-*   Trump: "America Will Never Be A Socialist Country". "We Were Born Free And We Will Stay Free"
-*   Stacey Abrams Delivers Democratic SOTU Response: Voter Suppression Is Real, Can No Longer Ignore
+*   'Morning Joe' Panel Laughs At President Trump's Tweets On "Unlimited Presidential Harassment"
 
 *   Politics
 *   Policy
