@@ -1,4 +1,8 @@
-Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">Sony Sites<img src="//www.sony.com/image/9a512bd93333b3c884bdbe2ba1581755?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Group Site<img src="//www.sony.com/image/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//www.sony.com/image/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">PlayStation™<img src="//www.sony.com/image/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional<img src="//www.sony.com/image/bf805a8b340105d03fcff55e3d22fb18?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Mobile
+Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">
+
+Sony Sites
+
+<img src="//www.sony.com/image/9a512bd93333b3c884bdbe2ba1581755?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Group Site<img src="//www.sony.com/image/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//www.sony.com/image/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">PlayStation™<img src="//www.sony.com/image/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional<img src="//www.sony.com/image/bf805a8b340105d03fcff55e3d22fb18?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Mobile
 
 *   Sony and the EnvironmentHow we’re reducing our eco-footprint through energy efficiency and recycling initiatives.
 *   Sony PicturesThe hub for your favourite movies and TV shows.
@@ -8,17 +12,17 @@ Main menuSONY
 
 *   SONY
 *   Sony Sites
-*   ElectronicsElectronicsTelevisions &. Home Theater ›Televisions &. Home Theater
+*   ElectronicsElectronicsTelevisions &. Home Theater
     
-    *   All Television &. Home cinema products ›
+    *   All Television &. Home cinema products
     *   Televisions
     *   Home Theater &. Sound Bars
     *   Projectors
     *   Blu-ray &. DVD Players
     
-    View AllAudio ›Audio
+    View AllAudio
     
-    *   All Audio products ›
+    *   All Audio products
     *   Headphones
     *   MP3 Players
     *   Wireless Speakers
@@ -28,43 +32,43 @@ Main menuSONY
     *   Boomboxes, Radios &. Portable CD Players
     *   Home Theater
     
-    View AllCameras ›Cameras
+    View AllCameras
     
-    *   All Camera products ›
+    *   All Camera products
     *   Interchangeable-lens Cameras
     *   Lenses
     *   Compact Cameras
     
-    View AllMobile, Accessories &. Smart Devices ›Mobile, Accessories &. Smart Devices
+    View AllMobile, Accessories &. Smart Devices
     
-    *   All Mobile, Tablets &. Smart Devices products ›
+    *   All Mobile, Tablets &. Smart Devices products
     *   Cell Phones
     *   Accessories
     
-    View AllVideo Cameras ›Video Cameras
+    View AllVideo Cameras
     
-    *   All Video Cameras products ›
+    *   All Video Cameras products
     *   Camcorders
     *   Action Cameras
     *   Professional Camcorders
     
-    View AllCar &. Marine ›Car &. Marine
+    View AllCar &. Marine
     
-    *   All Car &. Marine products ›
+    *   All Car &. Marine products
     *   In-Car Receivers &. Players
     *   In-Car Speakers &. Amplifiers
     *   Marine Audio
     *   Automotive OEM Audio
     
-    View AllEnergy, Storage &. Cables ›Energy, Storage &. Cables
+    View AllEnergy, Storage &. Cables
     
-    *   All Energy, Storage &. Cables products ›
+    *   All Energy, Storage &. Cables products
     *   Batteries
     *   Memory Cards, Flash Drives &. SSD/HDD
     *   Cables
     
-    View AllNew Categories ›New Categories
-    *   All New Categories Products ›
+    View AllNew Categories
+    *   All New Categories Products
     *   Companion Robots
     *   Digital Paper
     *   Future Experience Program
@@ -73,9 +77,9 @@ Main menuSONY
     *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/7c02f7a959732e31b9d2127dadf58ee2?fmt=jpeg&amp;wid=218" alt="" class="iq-img">A smarter home for a smarter lifeSony’s suite of voice assistant enabled and compatible products works together seamlessly to make life easier 
 *   PlayStation
 *   EntertainmentEntertainment
-    *   <img src="//www.sony.com/image/c8d568c456f06d3fa734b3331f100352?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Video Games" class="0 ">Video Games
-    *   <img src="//www.sony.com/image/fc437c3658eed4b903e04f558e383d72?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Movies &amp. TV Shows" class="0 ">Movies &. TV Shows
-    *   <img src="//www.sony.com/image/e783b1218f8069830c258b94aa5870c2?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="Music" class="0 ">Music<img src="//www.sony.com/image/7a959cd929b51c2272e8fa8e9e8ed184?fmt=png-alpha&amp;wid=218" alt="" class="">Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android. Download our apps.
+    *   <img src="//www.sony.com/image/c8d568c456f06d3fa734b3331f100352?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Video Games
+    *   <img src="//www.sony.com/image/fc437c3658eed4b903e04f558e383d72?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Movies &. TV Shows
+    *   <img src="//www.sony.com/image/e783b1218f8069830c258b94aa5870c2?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Music<img src="//www.sony.com/image/7a959cd929b51c2272e8fa8e9e8ed184?fmt=png-alpha&amp;wid=218" alt="" class="">Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android.Download our apps.
 *   SupportSupport
     *   <img src="//www.sony.com/image/bf43c4ef8c2eb71880b73f458ec57373?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Support
     *   <img src="//www.sony.com/image/9e54e9a0759ae334e03e85366d4ba231?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Register a Product
@@ -93,7 +97,7 @@ Main menuSONY
 *   Search Sony
 *   Sony Sites
 
-search Innovation That Brings the Music Experience to Life for Both Artists and Listeners
+Search Sony Innovation That Brings the Music Experience to Life for Both Artists and Listeners
 
 Learn More About 360 Reality Audio
 
@@ -139,7 +143,7 @@ Now Playing In Theaters
 
 Wow, 2019... calm down. We're only a month into the year and we've already got Ace Combat 7, Kingdom Hearts III, Resident Evil 2, and a whole bunch more. Vote for January's best new game here!  https://play.st/2sWNdDp  pic.twitter.com/WHitd5a38K
 
-4 days ago
+5 days ago
 
 View Tweet
 
@@ -183,20 +187,20 @@ United States
 
 CareersContact UsCompany InfoVoluntary Recall
 
-*   Like us on Facebook
+Like us on Facebook
 
-*   Visit us on Facebook
+Visit us on Facebook
 
-*   Follow us on Twitter
+Follow us on Twitter
 
-*   Visit us on Twitter
+Visit us on Twitter
 
-*   Follow us on Instagram
-*   View on Instagram
+Follow us on Instagram
 
-*   Follow us on Tumblr
-*   Visit us on Tumblr
+View on Instagram
 
-FacebookTwitterInstagramTumblr© 2018 SONY CORPORATION OF AMERICA
+Follow us on Tumblr
+
+Visit us on TumblrFacebookTwitterInstagramTumblr© 2018 SONY CORPORATION OF AMERICA
 
 Terms and ConditionsPrivacy Policy/Your California Privacy Rights
