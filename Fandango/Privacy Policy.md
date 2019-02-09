@@ -72,9 +72,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Watch Frightening New 'Us' Trailer. Here's Everything We Know Read More
+    *   ‘Wicked’ Sets 2021 Release Date. Here’s Everything We Know Read More
     *   New 'Toy Story 4' TV Spot Delights. Here's Everything We Know Read More
-    *   Next 3 Animated Adventures: 'The Lego Movie 2,' 'How to Train Your Dragon: Hidden World,' 'Wonder Park' Read More
+    *   The Week in Movie News: New ‘Avengers: Endgame,’ ‘Captain Marvel’ and ‘Us’ Trailers and More Read More
     
     Explore Content
     *   Movie Reviews
