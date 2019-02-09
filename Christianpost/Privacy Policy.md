@@ -31,10 +31,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   SOTU
-*   Trump &. Evangelicals
+*   Prayer breakfast
+*   Unreached
+*   Justin Bieber
 *   Cory Booker
-*   Trump-Evangelicals response
 *   Millennials
 
 About Us
