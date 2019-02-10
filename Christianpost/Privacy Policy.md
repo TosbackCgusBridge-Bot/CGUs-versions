@@ -31,10 +31,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Prayer breakfast
-*   Unreached
-*   Justin Bieber
-*   Cory Booker
+*   Christian artists
+*   Trump SOTU reactions
+*   AOC
+*   Phil Robertson
 *   Millennials
 
 About Us
