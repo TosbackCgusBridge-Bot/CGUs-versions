@@ -2,14 +2,16 @@ Search
 
 MyVanco Login
 
-Sales: **855-213-3705**   Support: **800-675-7430**
+Sign Up
+
+Sales: **855-255-8834**   Support: **800-675-7430**
 
 SearchUse up and down arrows to select available result. Press enter to go to selected search result. Touch devices users can use touch and swipe gestures.  
 
 *   Markets We Serve
     *   Faith-Based
     *   Education
-    *   NonProfit
+    *   Nonprofit
     *   Professional
 *   About
 *   Partners
@@ -30,6 +32,8 @@ SearchUse up and down arrows to select available result. Press enter to go to se
 <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">. **404** Page not found
 
 Sorry, the page you were looking for at this URL was not found.
+
+Return Home
 
 **INFORMATION ON VANCO**
 
@@ -69,7 +73,7 @@ Bloomington, MN 55431
 
 **CALL US**
 
-**Sales:** (855) 213-3705
+**Sales:** (855) 255-8834
 
 **Support:** (800) 675-7430
 
@@ -111,6 +115,6 @@ CALL US
 
 **Support:** (800) 675-7430
 
-**Sales:** (855) 213-3705
+**Sales:** (855) 255-8834
 
 Copyright © 2019 Vanco. All rights reserved. Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
