@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Eric Levitz_: AOC's Green New Deal Is Utopian - and Pragmatic
+*   _Josh Kraushaar_: Dems Boosting Trump's Re-election Prospects
     
-*   _David Harsanyi_: The 10 Most Insane Requirements of the Green New Deal
+*   _Roger Cohen_: Trump Does His Divisive El Paso Number
     
-*   _Paul Krugman_: Trump Versus the Socialist Menace
+*   _Matthew Continetti_: Trump's Three Tests
     
-*   _Kimberley Strassel_: The Little Socialist That Could
+*   _Stephen Collinson_: The Battle Is On Between Trump &. His Democratic Foes
     
-*   _Carlos Curbelo_: GOP Must Tackle Climate Change w/Market-Based Approach
+*   _Joseph Curl_: Laughable Green New Deal a New Low for Dems
     
-*   _Douglas Williams_: Political Crisis in Virginia a Test for Democratic Party
+*   _Michelle Chen_: Climate Justice and Economic Justice Are Not in Conflict
     
-*   _George Neumayr_: Liberalism's PC Petards
+*   _Christopher Gage_: Socialism Will Work This Time
     
-*   _Jessie Tarlov_: Democrats Are Not the Party of Infanticide
+*   _John Harris_: Virginia, a Dignified Disaster
     
-*   _Philip Wegmann_: Late-Term Abortion Stance a 2020 Trump Card?
+*   _Curt Mills_: Ralph Northam Isn't Going Anywhere
     
-*   _Jamelle Bouie_: The Biden Fallacy
+*   _Michael Fuchs_: Is Progress With North Korea Possible Under Trump?
     
-*   _Daniel Flynn_: Elizabeth Warren Finished Before She Started
+*   _Fred Fleitz_: 9 Months Later, Trump's Iran-Deal Withdrawal a Clear Success
     
-*   _James Comey_: Blackface Is a Tool of White Oppression
+*   _Matt Ford_: Trump's Foot Soldier Sent Dems a Clear Message
     
-*   _John Kass_: Pols in Blackface? Beats Defending Late-Term Abortion
+*   _Debra Heine_: Footage of FBI Raid on Stone's Home Reveals Show of Force
     
-*   _Joe Lieberman_: Why Border Standoff Is Cause for So Much Concern
+*   _Jay Michaelson_: Kavanaugh Just Showed How He'd Roll Back Abortion
     
-*   _Farhad Manjoo_: Abolish Billionaires
+*   _Alexandra DeSanctis_: 'Late-Term Abortion' and Rhetorical Shell Games
     
-*   _John Stossel_: San Francisco Has Become the Slum By the Bay
+*   _John Tamny_: Malpass's World Bank Skepticism Makes Him the Ideal Choice
     
-*   _Jeff Bezos_: Sorry, Mr. Pecker, I Wil Not Be Blackmailed
+*   _Steny Hoyer_: My Friend, John Dingell
     
-*   _Salena Zito_: How Media Tries to Cover Up Dems' Abortion Extremism
+*   _Conrad Black_: Trump's Annihilation of the Democratic Party
     
-*   _Michelle Goldberg_: Trump Lied About Abortion in State of the Union
+*   _Paul Fanlund_: Clues From Wisconsin on How to Beat Trump in 2020
     
-*   _Lili Loofbourow_: Why Yearbooks Matter
+*   _Patrick Buchanan_: In What States Are Infanticide &. Socialism Winning Issues?
     
-*   _John Nolte_: Fairfax Accuser Felt 'Powerless' After WP Spiked Her Story
+*   _David Wallace-Wells_: Why Dems Should Embrace the Green New Deal
     
-*   _Caygle &. Ferris_: Pelosi Is Clearly Relishing Return to the Speaker's Chair
+*   _Mark Penn_: More Like Mao's Cultural Revolution Than FDR's New Deal
     
-*   _Christopher Buskirk_: No Wall, No Peace
+*   _Amanda Marcotte_: Republicans Aren't Just Hypocrites, They're Nihilists
     
-*   _Ron Brownstein_: Push for Border Wall Is Hurting Trump and Republicans
+*   _Robert Woodson_: It's Time to Stand Up to the Race Grievance Predators
     
 
 *   Previous
@@ -261,11 +261,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   David Brooks on VA Dem Turmoil: "A Lot Of Male Bad Behavior, Maybe We Should Have Only Women Leading"
 *   Cory Booker: Green New Deal Is "Bold," Like Defeating The Nazis Or Going To The Moon
 *   Kellyanne Conway Tells CNN How She Was "Assaulted" By "Unhinged" Woman In A Restaurant
 *   Sen. Ed Markey: Green New Deal Is "A Mission To Save All Of Creation By Engaging In Massive Job Creation"
 *   Alexandria Ocasio-Cortez on Green New Deal: We Have Tried To Let Private Sector Take Care Of It For 40 Years
-*   'Morning Joe' Panel Laughs At President Trump's Tweets On "Unlimited Presidential Harassment"
 
 *   Politics
 *   Policy
