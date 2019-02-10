@@ -1,7 +1,12 @@
-Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
+1/1
+
+*   Severe Weather Impacting Service in Washington State and Idaho...More
+
+Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
 *   Track Tracking Numbers Go
 *   Ship Close
+*   Find a Service Close
 *   Quote Close
 *   Locations Close
 *   View &. Pay Bill Close
@@ -31,6 +36,7 @@ MenuSearch Close
     
     *   Create a Shipment:  
         _Package &. Freight_
+    *   Find a Shipping Service
     *   Calculate Time &. Cost
     *   Schedule a Pickup
     *   Manage Online Orders:  
@@ -60,7 +66,8 @@ MenuSearch Close
     
 *   Services Services By Type
     
-    *   Shipping
+    *   Shipping Services
+    *   Shipping Tools
     *   Tracking
     *   Billing
     *   International Trade
