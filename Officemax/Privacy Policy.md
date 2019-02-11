@@ -38,9 +38,15 @@ Stock Quote and Chart
 
 Price
 
+$3.09
+
 Change
 
+\-0.04
+
 Percent Change
+
+(0.00%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
