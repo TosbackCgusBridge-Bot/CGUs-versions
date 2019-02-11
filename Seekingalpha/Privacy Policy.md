@@ -35,7 +35,13 @@ MarketplaceSeeking AlphaSUBSCRIBESpecial Black Friday Offer  |  Save 50% Now
     *   ETF Screener
     *   Gold &. Precious Metals
 
-Sign in / Join Now Privacy
+Sign in / Join Now
+
+*   Help
+*   Knowledge Base
+*   Feedback Forum
+
+Privacy
 
 Thank you for visiting https://seekingalpha.com (together with all other websites and services operated by or on behalf of Seeking Alpha, Ltd., the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at the Site. This Privacy Policy forms part of the Terms of Use.
 
