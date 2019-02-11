@@ -1,4 +1,4 @@
-<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Apps
+Apps
 
 *   {text}
     
@@ -61,8 +61,8 @@ View more results
     *   Madalin Cars Multiplayer
     *   Total Front: Army War Game
     *   Bubble Machine: 2 Player Game
-    *   Klondike - the lost expedition
     *   Slither.io
+    *   Klondike - the lost expedition
     *   Fireboy &. Watergirl 2: The Light Temple
 *   Top Categories
     
@@ -121,8 +121,8 @@ View more results
     *   FNAF World
     *   Five Nights at Freddy's 4
     *   Five Nights at Freddy's: Sister Location
-    *   Uphill Rush
     *   FNAF - Sister Location Custom
+    *   Uphill Rush
     *   FNAF: Sister Location Custom Night
     *   Trap Adventure 2
     *   World Craft 2
@@ -156,8 +156,8 @@ View more results
     *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   The Impossible Quiz 2
-    *   Bubble Machine: 2 Player Game
     *   TenTrix
+    *   Bubble Machine: 2 Player Game
     *   Fireboy &. Watergirl 2: The Light Temple
     *   1001 Arabian Nights
 *   Top Categories
@@ -461,5 +461,5 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
+<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
 Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
