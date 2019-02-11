@@ -32,10 +32,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 Hot Topics
 
 *   Christian artists
-*   Trump SOTU reactions
+*   Prayer Breakfast
 *   AOC
 *   Phil Robertson
-*   Millennials
+*   Chris Pratt
 
 About Us
 
