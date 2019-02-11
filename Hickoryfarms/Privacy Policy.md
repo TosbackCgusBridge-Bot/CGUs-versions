@@ -69,7 +69,7 @@
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Hurry! Free Shipping on Shipments $35+ Ends Monday!\* Search Catalog Find a Store Skip to content My Account
+1.800.753.8558 Business Gifts Ends Tomorrow – Guaranteed Delivery by 2/14 w/ Free Standard Shipping on Shipments $35+\* Search Catalog Find a Store Skip to content My Account
 
 *   Welcome!
 *   Log In
