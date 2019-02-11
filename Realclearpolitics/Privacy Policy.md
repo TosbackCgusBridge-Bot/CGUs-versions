@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Josh Kraushaar_: Dems Boosting Trump's Re-election Prospects
+*   _Jennifer Senior_: Our Brains Aren't Designed to Handle the Trump Era
     
-*   _Roger Cohen_: Trump Does His Divisive El Paso Number
+*   _Michael Goodwin_: Democrats' Disastrous Week Highlights Trump's Sanity
     
-*   _Matthew Continetti_: Trump's Three Tests
+*   _Rahm Emanuel_: The State of the Union Was Political Malpractice
     
-*   _Stephen Collinson_: The Battle Is On Between Trump &. His Democratic Foes
+*   _Clarice Feldman_: Virginia: When Identity Groups Collide
     
-*   _Joseph Curl_: Laughable Green New Deal a New Low for Dems
+*   _Danielle Campoamor_: The Endless Hypocrisy of Anti-Abortion Messaging
     
-*   _Michelle Chen_: Climate Justice and Economic Justice Are Not in Conflict
+*   _Jennifer Braceras_: Who's Afraid of Neomi Rao?
     
-*   _Christopher Gage_: Socialism Will Work This Time
+*   _Christopher Jacobs_: Book: Roberts Let Politics Sway His Obamacare Ruling
     
-*   _John Harris_: Virginia, a Dignified Disaster
+*   _Julian Zelizer_: Democrats Finally Have a Bully Pulpit of Their Own in the House
     
-*   _Curt Mills_: Ralph Northam Isn't Going Anywhere
+*   _John Solomon_: The Case for Russia Collusion...Against the Democrats
     
-*   _Michael Fuchs_: Is Progress With North Korea Possible Under Trump?
+*   _Samuel Abrams_: Data Is Clear: The American Dream Is Alive and Well
     
-*   _Fred Fleitz_: 9 Months Later, Trump's Iran-Deal Withdrawal a Clear Success
+*   _Ali Mamouri_: Will Iraq Ask U.S. Troops to Leave the Country?
     
-*   _Matt Ford_: Trump's Foot Soldier Sent Dems a Clear Message
+*   _Andy Puzder_: From Stagnation to Boom: The Story of Trump's Economy
     
-*   _Debra Heine_: Footage of FBI Raid on Stone's Home Reveals Show of Force
+*   _Rep. Lowey &. Sen. Shaheen_: Trump's Anti-Abortion Push vs. Women's Rights
     
-*   _Jay Michaelson_: Kavanaugh Just Showed How He'd Roll Back Abortion
+*   _Kristen Waggoner_: Why NY May Come to Regret Its Overreach on Abortion
     
-*   _Alexandra DeSanctis_: 'Late-Term Abortion' and Rhetorical Shell Games
+*   _Adele Stan_: Stacey Abrams, Nancy Pelosi Just May Save America
     
-*   _John Tamny_: Malpass's World Bank Skepticism Makes Him the Ideal Choice
+*   _Ben Shapiro_: Democrats Want a Racially Divided America
     
-*   _Steny Hoyer_: My Friend, John Dingell
+*   _Melinda Henneberger_: America's Racism, Misogyny Still Warp Our Politics
     
-*   _Conrad Black_: Trump's Annihilation of the Democratic Party
+*   _Lance Morrow_: The Longest Day for Trump's Adversaries
     
-*   _Paul Fanlund_: Clues From Wisconsin on How to Beat Trump in 2020
+*   _Eugene Robinson_: It's Time to Think Big on Climate Change
     
-*   _Patrick Buchanan_: In What States Are Infanticide &. Socialism Winning Issues?
+*   _Maureen Dowd_: Jeff Bezos: Daddy Warbucks Goes to War
     
-*   _David Wallace-Wells_: Why Dems Should Embrace the Green New Deal
+*   _Katrina Pierson_: Washington Post Fact Checkers Strike Out Big on SOTU
     
-*   _Mark Penn_: More Like Mao's Cultural Revolution Than FDR's New Deal
+*   _Benjamin Wallace-Wells_: Pete Buttigieg's Quiet Rebellion
     
-*   _Amanda Marcotte_: Republicans Aren't Just Hypocrites, They're Nihilists
+*   _George Packer_: Sherrod Brown: The Throwback Democrat
     
-*   _Robert Woodson_: It's Time to Stand Up to the Race Grievance Predators
+*   _Alex Azar_: How Trump Administration Is Bringing Drug Prices Down
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Top Democrats Call on Virginia's Lt. Gov. Fairfax to Resign
+*   Warren Makes Presidential Bid Official Amid Native Heritage Controversy
+*   Kudlow: Trump's Policies Ended Obama's "War on Business"
 *   Late-Term Abortion Stance May Be Trump Card in 2020
-*   Supreme Court Puts Hold on Louisiana Regulations on Abortion
-*   President Trump Speaks at 2019 National Prayer Breakfast
 *   Jeff Bezos Accuses National Enquirer of "Extortion and Blackmail"
-*   Attkisson: I'm Suing the Government. It Has a Problem With That.
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -261,11 +261,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Mulvaney: Government Shutdown "Still On The Table," Wall Will Be Built With Or Without Congress
+*   Rep. John Yarmuth: "If Mick Mulvaney Were President" We Could Have Made A Border Deal This Weekend
+*   Buttigieg: Word "Socialist" Has "Lost Its Meaning" For People Who Didn't Grow Up During Cold War
 *   David Brooks on VA Dem Turmoil: "A Lot Of Male Bad Behavior, Maybe We Should Have Only Women Leading"
-*   Cory Booker: Green New Deal Is "Bold," Like Defeating The Nazis Or Going To The Moon
-*   Kellyanne Conway Tells CNN How She Was "Assaulted" By "Unhinged" Woman In A Restaurant
-*   Sen. Ed Markey: Green New Deal Is "A Mission To Save All Of Creation By Engaging In Massive Job Creation"
-*   Alexandria Ocasio-Cortez on Green New Deal: We Have Tried To Let Private Sector Take Care Of It For 40 Years
+*   Elizabeth Warren Launches 2020 Campaign: Trump A Symptom of What's Gone Wrong In America
 
 *   Politics
 *   Policy
