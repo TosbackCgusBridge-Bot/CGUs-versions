@@ -12,8 +12,8 @@
 
 Hello! Welcome to CareerBuilder Sign In Sign Up
 
-*   Find Jobs
-*   Update Resume
+*   Jobs
+*   Resume
 *   Career Advice
 *   Explore Careers
 *   Help &. Support
