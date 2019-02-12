@@ -1,33 +1,34 @@
-GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In Sign Out SPECIAL OFFER X Get a free\* Valentine's Day bouquet with ticket purchase. \*Plus $15 delivery fee to ship free bouquet. Valid for your first purchase on bouqs.com. For new Bouqs users only. Offer is valid from 9:00 a.m. PT on 2/4/2019 through 9:00 a.m. PT on 2/12/2019, subject to availability. While supplies last. Each eligible purchaser on Fandango.com or via the Fandango App will receive a post-purchase email with a code redeemable on bouqs.com (”Code”) valid for a discount of up to $40 off the purchase price of a select bouquet available at thebouqs.com/vday-Fandango only. Code is valid for one product only. Code expires on 2/15/2019. Ticket purchase must be made with a Fandango VIP account. Fandango VIP is free to join. Offer valid in the U.S. only to residents 18 years of age or older. Limit one (1) Code per person and eligible transaction, regardless of the number of tickets purchased in a single transaction. Code may not be combined with any other offer or discount. This is a promotional code and is not to be shared, is non-transferable, is not for resale, has no cash value, and will not be replaced if lost or stolen.
+GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In Sign Out SPECIAL OFFER X Get a free\* Valentine's Day bouquet with ticket purchase. \*Plus $15 delivery fee to ship free bouquet. Valid for your first purchase on bouqs.com. For new Bouqs users only. Offer is valid from 9:00 a.m. PT on 2/4/2019 through 9:00 a.m. PT on 2/14/2019, subject to availability. While supplies last. Each eligible purchaser on Fandango.com or via the Fandango App will receive a post-purchase email with a code redeemable on bouqs.com (”Code”) valid for a discount of up to $40 off the purchase price of a select bouquet available at thebouqs.com/vday-Fandango only. Code is valid for one product only. Code expires on 2/17/2019. Ticket purchase must be made with a Fandango VIP account. Fandango VIP is free to join. Offer valid in the U.S. only to residents 18 years of age or older. Limit one (1) Code per person and eligible transaction, regardless of the number of tickets purchased in a single transaction. Code may not be combined with any other offer or discount. This is a promotional code and is not to be shared, is non-transferable, is not for resale, has no cash value, and will not be replaced if lost or stolen.
 
 *   Fandango
 *   Go
 
 *   Movies Now Playing
     
-    *   Glass (2019)
+    *   The Lego Movie 2: The Second Part
+    *   What Men Want
+    *   Cold Pursuit
     *   The Upside
-    *   Miss Bala (2019)
+    *   Glass (2019)
+    *   The Prodigy (2019)
+    *   Green Book
     *   Aquaman
     *   Spider-Man: Into the Spider-Verse
-    *   Green Book
-    *   The Kid Who Would Be King
+    *   Miss Bala (2019)
     *   A Dog's Way Home
-    *   Escape Room (2019)
-    *   They Shall Not Grow Old
-    *   Mary Poppins Returns (2018)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Cold Pursuit
-    *   The Lego Movie 2: The Second Part
-    *   The Prodigy (2019)
-    *   What Men Want
-    *   Chokehold
-    *   Everybody Knows
-    *   Peppa Pig Celebrates Chinese New Year
-    *   Under The Eiffel Tower
+    *   Alita: Battle Angel
+    *   Happy Death Day 2U
+    *   Isn't It Romantic
+    *   Birds of Passage (2018)
+    *   Donnybrook
+    *   Fighting with My Family
+    *   Hotel by the River
+    *   Ruben Brandt, Collector
+    *   Sorry Angel
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -36,15 +37,15 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Happy Death Day 2U
-    *   Isn't It Romantic
-    *   Alita: Battle Angel
     *   How to Train Your Dragon: The Hidden World
     *   Tyler Perry's A Madea Family Funeral
     *   Greta (2019)
     *   Five Feet Apart
     *   Wonder Park
+    *   Hotel Mumbai
+    *   Sunset (2019)
     *   Us (2019)
+    *   Dumbo (2019)
     *   See All Coming Soon
     
     Explore More
@@ -73,7 +74,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   ‘Wicked’ Sets 2021 Release Date. Here’s Everything We Know Read More
-    *   New 'Toy Story 4' TV Spot Delights. Here's Everything We Know Read More
+    *   Our First Look At 'Shazam!' Read More
     *   The Week in Movie News: New ‘Avengers: Endgame,’ ‘Captain Marvel’ and ‘Us’ Trailers and More Read More
     
     Explore Content
