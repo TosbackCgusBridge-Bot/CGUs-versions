@@ -52,16 +52,16 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Family Barn
+    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Backgammon: Board Game Online Multiplayer
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Warbanner
     *   Madalin Cars Multiplayer
     *   Total Front: Army War Game
-    *   Bubble Machine: 2 Player Game
     *   Slither.io
+    *   Bubble Machine: 2 Player Game
     *   Klondike - the lost expedition
     *   Fireboy &. Watergirl 2: The Light Temple
 *   Top Categories
@@ -89,8 +89,8 @@ View more results
     *   Warbanner
     *   Sniper Team 2
     *   Stunt Skateboard 3D
-    *   Super Smash Flash 2
     *   Uphill Rush 7: Waterpark
+    *   Super Smash Flash 2
     *   Deer Hunter
     *   Total Front: Army War Game
     *   Slither.io
@@ -155,8 +155,8 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   The Impossible Quiz 2
     *   TenTrix
+    *   The Impossible Quiz 2
     *   Bubble Machine: 2 Player Game
     *   Fireboy &. Watergirl 2: The Light Temple
     *   1001 Arabian Nights
@@ -247,8 +247,8 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
     *   Table Tennis World Tour
-    *   Baseball
     *   8-Ball
+    *   Baseball
     *   Neon Biker
     *   Playing Soccer
     *   Ultimate Boxing
@@ -461,5 +461,5 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
