@@ -1,4 +1,4 @@
-Sparks are flying at our V-Day Sale - shop the store adSee DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -32,7 +32,7 @@ Near YouFind a StoreBackLOVE NOW, WEAR NOWSHOP ALLLOVE NOW, WEAR NOWSHOP ALL
 *   $1980after couponwas $44 Liz Claiborne Womens Long Sleeve BlouseAdd To Cart
 *   from$1799after couponwas $48 - $54 Worthington Hi Waist Wide Leg Trousers(13)Add To Cart
 *   from$1086after couponwas $37 - $49 LOVE NOW, WEAR NOW BOLD STRIPES(207)
-*   from$1499after couponWorthington Womens Long Sleeve Modern Fit Button-Front Shirt(104)Add To Cart
+*   from$1049after couponWorthington Womens Long Sleeve Modern Fit Button-Front Shirt(104)Add To Cart
 *   from$599after couponwas $44 a.n.a Skinny Denim Ankle Crop Jeans(623)Add To Cart
 *   $1499after couponwas $37 Worthington Womens Crew Neck 3/4 Sleeve BlouseAdd To Cart
 *   from$1086after couponwas $49 a.n.a Skinny Jeans(207)Add To Cart
