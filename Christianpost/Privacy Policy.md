@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Christian artists
-*   Prayer Breakfast
-*   AOC
-*   Phil Robertson
 *   Chris Pratt
+*   SBC sex abuse
+*   Dirty Dozen
+*   Grammys
+*   Justin Bieber
 
 About Us
 
