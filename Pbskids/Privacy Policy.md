@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
 
-Get tips for back to school season! Download the free Daniel Tiger for Parents app today!Get tips for back to school season! Download the free Daniel Tiger for Parents app today!Get it now.
+Get real-time updates on what your kids are learning on pbskids.org with PBS KIDS Super Vision.Get real-time updates on what your kids are learning on pbskids.org with PBS KIDS Super Vision.Download the free app now
 
 Toggle message bar
 
