@@ -1,6 +1,6 @@
-Toggle navigation **Post** **Advertise** Log in
+Toggle navigation **Advertise** **Sign up** Log in
 
-*   Mon, Feb 11
+*   Tue, Feb 12
 
 *   Post
 *   Advertise
@@ -321,7 +321,9 @@ Support
 *   Terms of Use
 *   Privacy Policy
 
-© 2019 Patch Media. All Rights Reserved.
+© 2019 Patch Media. All Rights Reserved. Log in Sign up Log in to get started Log in Forgot your password?
+
+New to Patch? Sign up now
 
 Swipe for more from Patch »
 
