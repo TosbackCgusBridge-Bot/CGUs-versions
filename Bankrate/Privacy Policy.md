@@ -44,9 +44,13 @@
     *   How to open a savings account
     *   Credit union basics
     
-    No Penalty CD
-    
-    Considering a No Penalty CD Learn More
+    Bank Reviews
+    *   Capital One Bank
+    *   Marcus by Goldman Sachs
+    *   American Express National Bank
+    *   CIT Bank
+    *   Synchrony Bank
+    *   Barclays Bank
 *   Credit Cards Compare by Category
     
     *   Best Credit Cards of 2019
