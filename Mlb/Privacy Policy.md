@@ -100,11 +100,11 @@
 *   Apps Apps Apps
     *   MLB At Bat
     *   MLB Ballpark
-    *   MLB Franchise MVP
-    *   MLB Home Run Derby
-    *   MLB Line Drive
     *   R.B.I. Baseball 19
+    *   MLB Home Run Derby
     *   MLB Beat the Streak
+    *   MLB Line Drive
+    *   MLB Franchise MVP
     *   MLB At Bat FAQs
     *   MLB Ballpark FAQs
 *   Shop Shop US Shop
