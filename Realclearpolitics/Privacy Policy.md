@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jennifer Senior_: Our Brains Aren't Designed to Handle the Trump Era
+*   _Victor Davis Hanson_: Progressives Bearing Gifts
     
-*   _Michael Goodwin_: Democrats' Disastrous Week Highlights Trump's Sanity
+*   _David Leonhardt_: Trump's Nightmare Opponents
     
-*   _Rahm Emanuel_: The State of the Union Was Political Malpractice
+*   _Juan Williams_: Obama Casts Long Shadow Over 2020
     
-*   _Clarice Feldman_: Virginia: When Identity Groups Collide
+*   _Catharine Evans_: Virginia Train Wreck Has Set the Stage for 2020
     
-*   _Danielle Campoamor_: The Endless Hypocrisy of Anti-Abortion Messaging
+*   _Adam Holland_: Change How Facebook Uses Our Data
     
-*   _Jennifer Braceras_: Who's Afraid of Neomi Rao?
+*   _Coburn &. Andrzejewski_: Missing a Chance to Cut Federal Workforce
     
-*   _Christopher Jacobs_: Book: Roberts Let Politics Sway His Obamacare Ruling
+*   _Liam Denning_: The Green New Deal Is Unrealistic? Get Real
     
-*   _Julian Zelizer_: Democrats Finally Have a Bully Pulpit of Their Own in the House
+*   _Stephen Moore_: Green Is the New Red
     
-*   _John Solomon_: The Case for Russia Collusion...Against the Democrats
+*   _David Graham_: Walter Jones Was the Real Maverick
     
-*   _Samuel Abrams_: Data Is Clear: The American Dream Is Alive and Well
+*   _Carl Cannon_: Two Presidents and the Press Club
     
-*   _Ali Mamouri_: Will Iraq Ask U.S. Troops to Leave the Country?
+*   _E.J. Dionne_: Why Trump's War on Socialism Will Fail
     
-*   _Andy Puzder_: From Stagnation to Boom: The Story of Trump's Economy
+*   _Niall Ferguson_: Dems Commit Political Suicide by Embracing Socialism
     
-*   _Rep. Lowey &. Sen. Shaheen_: Trump's Anti-Abortion Push vs. Women's Rights
+*   _Robert Reich_: Trump Offers Socialism for the Rich, Capitalism for the Rest
     
-*   _Kristen Waggoner_: Why NY May Come to Regret Its Overreach on Abortion
+*   _Brandon Weichert_: Green New Deal Punishes Working-Class Americans
     
-*   _Adele Stan_: Stacey Abrams, Nancy Pelosi Just May Save America
+*   _Bill Scher_: The Weak Rollout of the Green New Deal
     
-*   _Ben Shapiro_: Democrats Want a Racially Divided America
+*   _Kate Zernike_: Can Kamala Harris Square the Circle?
     
-*   _Melinda Henneberger_: America's Racism, Misogyny Still Warp Our Politics
+*   _Colin Reed_: The Democrat Trump Would Most Like to Run Against
     
-*   _Lance Morrow_: The Longest Day for Trump's Adversaries
+*   _Nate Silver_: How Amy Klobuchar Could Win the Dem Nomination
     
-*   _Eugene Robinson_: It's Time to Think Big on Climate Change
+*   _Paul Mirengoff_: Don't Sleep on 'Spartacus'
     
-*   _Maureen Dowd_: Jeff Bezos: Daddy Warbucks Goes to War
+*   _Gromer Jeffers_: Republicans Hope Trump's El Paso Visit Helps, Not Hurts
     
-*   _Katrina Pierson_: Washington Post Fact Checkers Strike Out Big on SOTU
+*   _Frank Miele_: Dems' SOTU 'Sit-In' a Stain on Their White Coats
     
-*   _Benjamin Wallace-Wells_: Pete Buttigieg's Quiet Rebellion
+*   _Edward Howell_: Trump &. Kim, The Sequel: Same Plot, Same Sticking Points
     
-*   _George Packer_: Sherrod Brown: The Throwback Democrat
+*   _Andrew Scheer_: Justin Trudeau Has Betrayed Canadians
     
-*   _Alex Azar_: How Trump Administration Is Bringing Drug Prices Down
+*   _Margot Finn_: Trump and Pro-Lifers Have No Right to Call Me a Murderer
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Lawmakers Reach Agreement "in Principle" in Border Security Talks
+*   Dems' 2020 Field Now Includes Minnesota Sen. Amy Klobuchar
+*   President Trump Holds Rally at the Border in El Paso, Texas
 *   Top Democrats Call on Virginia's Lt. Gov. Fairfax to Resign
-*   Warren Makes Presidential Bid Official Amid Native Heritage Controversy
-*   Kudlow: Trump's Policies Ended Obama's "War on Business"
 *   Late-Term Abortion Stance May Be Trump Card in 2020
-*   Jeff Bezos Accuses National Enquirer of "Extortion and Blackmail"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,27 +245,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve52
+    *   Disapprove47Approve +5
+*   Direction of CountryRasmussen Reports
+    *   Right Direction40
+    *   Wrong Track55Wrong Track +15
 *   President Trump Job ApprovalThe Hill/HarrisX
     *   Approve47
     *   Disapprove53Disapprove +6
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
 *   Mississippi Governor - Reeves vs. HoodMason-Dixon
     *   Hood44
     *   Reeves42Hood +2
-*   Mississippi Governor - Reeves vs. Hood vs. WallerMason-Dixon
-    *   Hood40
-    *   Reeves38
-    *   Waller9Hood +2
 
 More Latest Polls In The News
 
-*   Mulvaney: Government Shutdown "Still On The Table," Wall Will Be Built With Or Without Congress
-*   Rep. John Yarmuth: "If Mick Mulvaney Were President" We Could Have Made A Border Deal This Weekend
-*   Buttigieg: Word "Socialist" Has "Lost Its Meaning" For People Who Didn't Grow Up During Cold War
-*   David Brooks on VA Dem Turmoil: "A Lot Of Male Bad Behavior, Maybe We Should Have Only Women Leading"
-*   Elizabeth Warren Launches 2020 Campaign: Trump A Symptom of What's Gone Wrong In America
+*   Trump: Open Border Proponents Are "Rich Liberals And Wealthy Donors" That Live Behind Walls. Me Too!
+*   Full Replay: Beto O'Rourke Hosts March Protesting Border Wall During Trump Rally In El Paso
+*   El Paso Mayor Dee Margo: President Trump Wrong To Say Border Fence Decreased Crime
+*   Sen. Warren: Donald Trump May Not Be President In 2020. "In Fact, He May Not Even Be A Free Person"
+*   CNN's Nina Turner vs. Democratic Congresswoman: Stop Blaming Trump For All Racism, Dems Are Racist Too
 
 *   Politics
 *   Policy
