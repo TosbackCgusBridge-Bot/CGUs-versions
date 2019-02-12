@@ -1,21 +1,15 @@
-SUPER BOWL
-
-*   NE11-513LA13-33Final
-*   Game HighlightsPatriots vs. Rams highlights | Super Bowl LIII
-*   New England PatriotsBrady and his kids wave to crowd at Super Bowl LIII parade
-
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Highlights
-*   Super Bowl
+*   Combine
 *   Fantasy
 *   Tickets
 *   Shop
 *   Teams
 *   Game Pass
-*   Combine
+*   Super Bowl
 *   Pro Bowl
 *   NFL Honors
 *   Stats
@@ -24,24 +18,18 @@ SUPER BOWL
 *   NFL Network
 *   Photos
 
-SUPER BOWL
-
-*   NE13LA3Final
-*   Game HighlightsPatriots vs. Rams highlights | Super Bowl LIII
-*   New England PatriotsBrady and his kids wave to crowd at Super Bowl LIII parade
-
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Highlights
-*   Super Bowl
+*   Combine
 
-*   Super Bowl
+*   Combine
 *   Shop
 
 *   *   Game Pass
-    *   Combine
+    *   Super Bowl
     *   Pro Bowl
     *   NFL Honors
     *   Stats
