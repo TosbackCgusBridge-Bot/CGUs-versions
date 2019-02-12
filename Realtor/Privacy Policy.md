@@ -131,14 +131,14 @@ About About*   About
 *   Leadership
 *   Awards
 Our Brands Advertise Media Media*   Media
-*   Corporate Blog
 *   Research
-Careers Careers*   Careers
+Investors Contact Careers Careers*   Careers
 *   Search
-Contact Investors More*   Our Brands
+Blog More*   Our Brands
 *   Advertise
-*   Contact
 *   Investors
+*   Contact
+*   Blog
 Privacy Policy This Privacy Policy was last updated February 8, 2019. Introduction
 
 MOVE TAKES MATTERS OF PRIVACY AND INFORMATION SERIOUSLY. Please read the following to learn more about our privacy policy (“Privacy Policy”). This Privacy Policy applies to the use of the Sites (as defined below), including by both consumers and Professionals. “Professional(s)” means individuals, companies and other organizations or persons acting as real estate professionals or otherwise engaged in a business relevant to the Sites, including, without limitation, REALTORS®, agents, providers of moving-related services, products or information, homebuilders, lenders, brokers, real estate professionals, re-modelers, seniors-related housing, product or service providers, home service professionals and other service professionals. Except as otherwise indicated, Professionals, consumers and other persons using the Sites are individually and collectively referred to as “you,” and Move, Inc., a subsidiary of News Corp, together with Move, Inc.’s subsidiaries and affiliates (some of which affiliates are listed here), is referred to as, “Move”, “we”, “us” and “our.” “Consumer” (or “consumer”) shall have its ordinary meaning but generally includes any visitor to or user of the Sites other than Professionals. We use the Sites to provide you with information, resources, tools, products and services specific to the real estate industry and related markets, and to provide you with information about us and our advertisers, and our respective products and services.
