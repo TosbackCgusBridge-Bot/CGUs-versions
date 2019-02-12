@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 703 games
-*   Most Popular Games 18726 games
+*   Best of new games 676 games
+*   Most Popular Games 18731 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,714 games
-*   Driving &. Racing Games 6,770 games
-*   Strategy &. RPG Games 2,406 games
-*   Management Games 3,641 games
-*   Thinking Games 11,924 games
-*   Action &. Adventure Games 15,949 games
-*   Sports Games 2,178 games
-*   Shooting Games 8,398 games
+*   Games for girls 23,717 games
+*   Driving &. Racing Games 6,771 games
+*   Strategy &. RPG Games 2,405 games
+*   Management Games 3,643 games
+*   Thinking Games 11,918 games
+*   Action &. Adventure Games 15,950 games
+*   Sports Games 2,175 games
+*   Shooting Games 8,397 games
 *   Fighting Games 2,093 games
-*   Skill Games 10,798 games
-*   Arcade &. Classic Games 12,762 games
-*   Fun &. Crazy Games 2,485 games
+*   Skill Games 10,790 games
+*   Arcade &. Classic Games 12,758 games
+*   Fun &. Crazy Games 2,484 games
 
 Play with friends  
-Powered by Y8 Account 138 Y8 Multiplayer Games 1,863 Y8 High Score Games 1,124 Y8 Achievements Games 800 Y8 Screenshots Games 1,390 Y8 Online Save Games 2,902 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 138 Y8 Multiplayer Games 1,863 Y8 High Score Games 1,124 Y8 Achievements Games 800 Y8 Screenshots Games 1,387 Y8 Online Save Games 2,888 All Y8 Games Games Last Highscore:
 
-**136** points on Battle Royale Gangs by ItsMaxy
+**1,917** points on Orion Sandbox Enhanced by baotran00225
 
 Help us improve Bad translation? Social
 
