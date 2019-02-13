@@ -1,8 +1,4 @@
-1/1
-
-*   Severe Weather Impacting Service in Washington State and Idaho...More
-
-Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
+Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
 *   Track Tracking Numbers Go
 *   Ship Close
