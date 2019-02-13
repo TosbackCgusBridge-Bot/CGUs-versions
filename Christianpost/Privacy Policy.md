@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Chris Pratt
-*   SBC sex abuse
 *   Dirty Dozen
-*   Grammys
-*   Justin Bieber
+*   Racism &. abortion
+*   Store mailer
+*   SBC sex abuse
+*   Chris Pratt
 
 About Us
 
