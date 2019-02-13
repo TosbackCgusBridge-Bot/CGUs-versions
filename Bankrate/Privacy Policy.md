@@ -409,6 +409,7 @@ California privacy rights requests must include the reference “Request for Cal
 *   Popular Topics
 *   Glossary
 *   Compare Rates
+*   Bank Reviews
 
 *   Understand Bankrate's Averages
 *   Privacy Policy / Your California Privacy Rights
