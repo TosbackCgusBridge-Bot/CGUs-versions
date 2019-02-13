@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 25% off full-price styles!
+Receive 30% off 1 full-price item!
 
-code: RED pin: 7894 DETAILS
+code: SWEETS pin: 6243 DETAILS
 
 Customer Service Menu
 
@@ -235,7 +235,7 @@ Addendum to Privacy Policy Page Text Message Terms of Use
 9.  If you have any questions, email us at talkback@landsend.com. You can also text the word HELP to 77344 to get additional information about the service. We do not charge for help or info messages. however, your normal carrier rates apply.
 10.  Terms are subject to change.
 
-sign up **Get exclusive Offers and News** Privacy Policy &. Contact Info sign up U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy Customer Service Chat
+sign up**Get exclusive Offers and News**Privacy Policy &. Contact Info sign up U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy Customer Service Chat
 
 *   Call Text Chat Email
 *   **Call or text us 1-800-963-4816**
@@ -263,6 +263,7 @@ Services
 
 *   Gift Cards
 *   Monogramming &. Embroidery
+*   Shop Your Way Rewards
 *   Shop Catalogs
 *   Catalog Requests
 *   Refer a Friend
@@ -278,7 +279,7 @@ Policies
 Stores
 
 *   Find a complete list of retail store locations, departments and store hours.
-*   Store locator
+
 *   **Locate Your Store**
 
 *   Privacy Policy
@@ -289,7 +290,10 @@ Stores
 
 *   © 2018 lands' end
 *   Sitemap
-*   Index
+
+Shop Your Way Rewards
+
+Make every purchase rewarding. Join today. Earn today. It's free.
 
 Sustainability
 
