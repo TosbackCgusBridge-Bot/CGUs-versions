@@ -65,44 +65,12 @@ Close Navigation Menu
 *   New Music
 
 *   About NPR
-*   Expand/collapse submenu for Overview Overview
-    *   Overview and History
-    *   Mission and Vision
-    *   Stations and Public Media
-    *   NPR Finances
-    *   People
-    *   Ethics
-    *   Awards
-*   Expand/collapse submenu for Connect Connect
-    *   Visit NPR
-    *   NPR Presents
-    *   Studio 1 Events
-    *   Generation Listen
-    *   Book a Speaker
-    *   Request Permissions
-    *   Ways to Listen
-    *   NPR Extra Blog
-    *   Email Newsletters
-    *   Shop NPR
-    *   Get Help
-    *   Contact Us
-*   Expand/collapse submenu for Support Support
-    *   Support Public Radio
-    *   Corporate Sponsorship
-    *   Volunteer
-*   Expand/collapse submenu for Press Press
-    *   Releases and Statements
-    *   Photos and Logos
-    *   Fact Sheet (PDF)
-    *   Media Relations Contacts
-*   Expand/collapse submenu for Careers Careers
-    *   Careers at NPR
-    *   Search Jobs
-    *   Culture
-    *   Applying
-    *   Interns
-    *   Fellows
-    *   Digital
+*   Overview
+*   Support
+*   Careers
+*   Connect
+*   Press
+*   Ethics
 
 **Privacy Policy** **Please read NPR's Privacy Policy.** **Privacy Policy** Privacy Policy
 
