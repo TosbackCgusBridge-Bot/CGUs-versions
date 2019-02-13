@@ -73,9 +73,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   ‘Wicked’ Sets 2021 Release Date. Here’s Everything We Know Read More
-    *   Our First Look At 'Shazam!' Read More
-    *   The Week in Movie News: New ‘Avengers: Endgame,’ ‘Captain Marvel’ and ‘Us’ Trailers and More Read More
+    *   Danny Boyle's 'Yesterday' Gets First Trailer. Here's Everything We Know Read More
+    *   New 'Toy Story 4' TV Spot Delights. Here's Everything We Know Read More
+    *   Next 3 Animated Adventures: 'The Lego Movie 2,' 'How to Train Your Dragon: Hidden World,' 'Wonder Park' Read More
     
     Explore Content
     *   Movie Reviews
@@ -320,9 +320,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   The Bouqs Valentine's Day Offer
+*   'A Madea Family Funeral' Gift with Purchase
     
-    Receive a free\* Valentine's Day bouquet with ticket purchase! (S&H not included). BUY TICKETS
+    Own 'Tyler Perry's Diary of a Mad Black Woman' with ticket purchase! BUY TICKETS
     
 *   Fandango VIP
     
@@ -378,7 +378,7 @@ Photos
 *   February Celebrity Birthdays
 *   Award Shows Red Carpets
 
-Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
+Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Privacy Policy Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
