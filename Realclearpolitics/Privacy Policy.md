@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Victor Davis Hanson_: Progressives Bearing Gifts
+*   _Salena Zito_: Why Did the Media Fail to Investigate Virginia Democrats?
     
-*   _David Leonhardt_: Trump's Nightmare Opponents
+*   _Erin Coulehan_: Trump's Distorted View of Life in El Paso
     
-*   _Juan Williams_: Obama Casts Long Shadow Over 2020
+*   _John Davidson_: O'Rourke Played Right Into Trump's Hand at the Border
     
-*   _Catharine Evans_: Virginia Train Wreck Has Set the Stage for 2020
+*   _Tina Nguyen_: Did Trump Just Turn O'Rourke Into a 2020 Front-Runner?
     
-*   _Adam Holland_: Change How Facebook Uses Our Data
+*   _Bill Scher_: How to Choose the Most Electable Democrat in 2020
     
-*   _Coburn &. Andrzejewski_: Missing a Chance to Cut Federal Workforce
+*   _Byron York_: House Democrats Ready for Ultimate Fishing Expedition
     
-*   _Liam Denning_: The Green New Deal Is Unrealistic? Get Real
+*   _Bob Bauer_: Can Freedom of the Press Survive David Pecker?
     
-*   _Stephen Moore_: Green Is the New Red
+*   _Arthur Goldberg_: Abortion's Devastating Impact on Black Americans
     
-*   _David Graham_: Walter Jones Was the Real Maverick
+*   _Jamelle Bouie_: Trail of Fears: Trump's Reactionary White Majoritarianism
     
-*   _Carl Cannon_: Two Presidents and the Press Club
+*   _Jim Treacher_: Mocking Warren Isn't Racist...She's Not Native American
     
-*   _E.J. Dionne_: Why Trump's War on Socialism Will Fail
+*   _James Bamford_: Maria Butina: The Russian Spy Who Wasn't
     
-*   _Niall Ferguson_: Dems Commit Political Suicide by Embracing Socialism
+*   _Dennis &. Edgerton_: Tentative Deal Reached in Border Security Talks
     
-*   _Robert Reich_: Trump Offers Socialism for the Rich, Capitalism for the Rest
+*   _Michael Walsh_: In Va., Dems Are Hoist With Their 'Intersectionality' Petard
     
-*   _Brandon Weichert_: Green New Deal Punishes Working-Class Americans
+*   _Michael Stern_: Blackface Is Bad. Trump's Orangeface Is Worse.
     
-*   _Bill Scher_: The Weak Rollout of the Green New Deal
+*   _Michelle Goldberg_: Ilhan Omar's Very Bad Tweets
     
-*   _Kate Zernike_: Can Kamala Harris Square the Circle?
+*   _Jeffrey Barrett_: Without Liberal Identity Politics, There Is Little Racism
     
-*   _Colin Reed_: The Democrat Trump Would Most Like to Run Against
+*   _Jeffrey Toobin_: Roger Stone and Jerome Corsi's Time in the Barrel
     
-*   _Nate Silver_: How Amy Klobuchar Could Win the Dem Nomination
+*   _James Freeman_: Is Adam Schiff Satisfied With NBC News?
     
-*   _Paul Mirengoff_: Don't Sleep on 'Spartacus'
+*   _Bill Press_: Democrats Dare to Think Big With Green New Deal
     
-*   _Gromer Jeffers_: Republicans Hope Trump's El Paso Visit Helps, Not Hurts
+*   _Kurt Schlichter_: Climate Change: The Latest Excuse for Liberal Power Grab
     
-*   _Frank Miele_: Dems' SOTU 'Sit-In' a Stain on Their White Coats
+*   _Philip Wegmann_: Will Sherrod Brown Carry the Blue-Collar Torch in 2020?
     
-*   _Edward Howell_: Trump &. Kim, The Sequel: Same Plot, Same Sticking Points
+*   _Frank Bruni_: Democrats, Stop Groveling
     
-*   _Andrew Scheer_: Justin Trudeau Has Betrayed Canadians
+*   _Robert VerBruggen_: How 'Sabotaging' Obamacare Is Benefitting Consumers
     
-*   _Margot Finn_: Trump and Pro-Lifers Have No Right to Call Me a Murderer
+*   _Jill Lepore_: Eugene V. Debs and the Endurance of Socialism
     
 
 *   Previous
@@ -229,9 +229,9 @@ RecommendedPolitics
 *   Investigations
 
 *   Lawmakers Reach Agreement "in Principle" in Border Security Talks
+*   Will Sherrod Brown Carry the Blue-Collar Torch in 2020?
+*   Trump: Rich Liberals, Wealthy Donors Push Open Borders, Live Behind Walls
 *   Dems' 2020 Field Now Includes Minnesota Sen. Amy Klobuchar
-*   President Trump Holds Rally at the Border in El Paso, Texas
-*   Top Democrats Call on Virginia's Lt. Gov. Fairfax to Resign
 *   Late-Term Abortion Stance May Be Trump Card in 2020
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -245,9 +245,6 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve52
-    *   Disapprove47Approve +5
 *   Direction of CountryRasmussen Reports
     *   Right Direction40
     *   Wrong Track55Wrong Track +15
@@ -257,14 +254,18 @@ Latest PollsAll Polls
 *   Mississippi Governor - Reeves vs. HoodMason-Dixon
     *   Hood44
     *   Reeves42Hood +2
+*   Mississippi Governor - Reeves vs. Hood vs. WallerMason-Dixon
+    *   Hood40
+    *   Reeves38
+    *   Waller9Hood +2
 
 More Latest Polls In The News
 
-*   Trump: Open Border Proponents Are "Rich Liberals And Wealthy Donors" That Live Behind Walls. Me Too!
-*   Full Replay: Beto O'Rourke Hosts March Protesting Border Wall During Trump Rally In El Paso
-*   El Paso Mayor Dee Margo: President Trump Wrong To Say Border Fence Decreased Crime
-*   Sen. Warren: Donald Trump May Not Be President In 2020. "In Fact, He May Not Even Be A Free Person"
-*   CNN's Nina Turner vs. Democratic Congresswoman: Stop Blaming Trump For All Racism, Dems Are Racist Too
+*   Howard Schultz: Alexandria Ocasio-Cortez's 'Green New Deal' "Unrealistic". How Do You Pay For It?
+*   Sen. Cotton: Media Complicit In "Disappearing" Ocasio-Cortez's Green New Deal Gaffe Down Memory Hole
+*   Sen. Booker: "We Are A Nation In Crisis," More People Feel This Democracy Is Not Working For Them
+*   Trump Trashes Beto O'Rourke: Protest Attendance "May Be End Of His Presidential Bid"
+*   Sen. Kamala Harris Backs Legalization: I Smoked Marijuana, I Inhaled. "I Think It Gives A Lot Of People Joy"
 
 *   Politics
 *   Policy
