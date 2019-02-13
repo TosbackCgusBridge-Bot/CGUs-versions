@@ -87,7 +87,7 @@ COMPARE **UX**
 
 **NX**
 
-*   Starting at $36,3851\*
+*   Starting at $36,4851\*
 *   235-hp3\* 2.0L turbo
 
 *   Build
@@ -95,7 +95,7 @@ COMPARE **UX**
 
 **NX HYBRID**
 
-*   Starting at $38,7351\*
+*   Starting at $38,8351\*
 *   31-MPG combined rating9\*
 
 *   Build
@@ -103,7 +103,7 @@ COMPARE **UX**
 
 **RX**
 
-*   Starting at $43,5701\*
+*   Starting at $43,6701\*
 *   3 ROW SEATING UP TO 710\*
 
 *   Build
@@ -111,7 +111,7 @@ COMPARE **UX**
 
 **RX HYBRID**
 
-*   Starting at $45,9951\*
+*   Starting at $46,0951\*
 *   30-MPG COMBINED RATING11\*
 
 *   Build
@@ -119,7 +119,7 @@ COMPARE **UX**
 
 **GX**
 
-*   Starting at $52,1551\*
+*   Starting at $52,3551\*
 *   301-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -127,7 +127,7 @@ COMPARE **UX**
 
 **LX**
 
-*   Starting at $85,83012\*
+*   Starting at $86,08012\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -179,7 +179,7 @@ COMPARE **UX HYBRID**
 
 **NX HYBRID**
 
-*   Starting at $38,7351\*
+*   Starting at $38,8351\*
 *   31-MPG combined rating13\*
 
 *   Build
@@ -187,7 +187,7 @@ COMPARE **UX HYBRID**
 
 **RX HYBRID**
 
-*   Starting at $45,9951\*
+*   Starting at $46,0951\*
 *   30-MPG COMBINED RATING11\*
 
 *   Build
