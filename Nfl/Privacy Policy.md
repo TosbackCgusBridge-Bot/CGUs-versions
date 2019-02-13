@@ -10,7 +10,7 @@
 *   Teams
 *   Game Pass
 *   Super Bowl
-*   Pro Bowl
+*   Draft
 *   NFL Honors
 *   Stats
 *   Next Gen Stats
@@ -26,11 +26,11 @@
 *   Combine
 
 *   Combine
-*   Shop
+*   Draft
 
 *   *   Game Pass
     *   Super Bowl
-    *   Pro Bowl
+    *   Draft
     *   NFL Honors
     *   Stats
     *   Next Gen Stats
