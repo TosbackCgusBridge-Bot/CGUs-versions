@@ -1,4 +1,4 @@
-Accessible View
+Sparks are flying at our V-Day Sale - shop the store adSee DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -14,9 +14,10 @@ Shop Departments
 *   Same Day Pickup
 *   Store Ads
 *   Valentine's Day Gifts
-    *   Gifts for Her
-    *   Gifts for Him
-    *   Gifts for Kids
+    *   Under $15
+    *   Under $25
+    *   Under $50
+    *   Under $100
     *   All Gifts
 *   Clearance
     *   Women
@@ -29,13 +30,13 @@ Shop Departments
 
 Near YouFind a StoreBackLOVE NOW, WEAR NOWSHOP ALLLOVE NOW, WEAR NOWSHOP ALL
 
-*   $1980after couponwas $44 Liz Claiborne Womens Long Sleeve BlouseAdd To Cart
-*   from$1799after couponwas $48 - $54 Worthington Hi Waist Wide Leg Trousers(13)Add To Cart
 *   from$1086after couponwas $37 - $49 LOVE NOW, WEAR NOW BOLD STRIPES(207)
-*   from$1049after couponWorthington Womens Long Sleeve Modern Fit Button-Front Shirt(104)Add To Cart
+*   from$1499after couponWorthington Womens Long Sleeve Modern Fit Button-Front Shirt(104)Add To Cart
 *   from$599after couponwas $44 a.n.a Skinny Denim Ankle Crop Jeans(623)Add To Cart
 *   $1499after couponwas $37 Worthington Womens Crew Neck 3/4 Sleeve BlouseAdd To Cart
 *   from$1086after couponwas $49 a.n.a Skinny Jeans(207)Add To Cart
+*   $2624after couponwas $60 Worthington Short Sleeve Wrap DressAdd To Cart
+*   $1649after couponwas $44 St. John's Bay Womens Mid Rise Skinny Fit Jean(95)Add To Cart
 
 Home Big BuysShop AllHome Big BuysShop All
 
@@ -44,7 +45,7 @@ Home Big BuysShop AllHome Big BuysShop All
     from$224after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1076)Add To Cart
 *   BIG BUY!
     
-    from$1499after couponwas $49 - $199 Studio 1000tc Luxury Performance Sheet Sets(253)Add To Cart
+    from$1499after couponwas $49 - $199 Studio 1000tc Luxury Performance Sheet Sets(254)Add To Cart
 *   BIG BUY!
     
     from$6after couponwas $16 - $40 Home Expressions Lisette Rod-Pocket Sheer Panel(1157)Add To Cart
@@ -63,11 +64,26 @@ Home Big BuysShop AllHome Big BuysShop All
     from$2250after couponwas $60 - $285 JCPenney Home Premium 2 1/2" Cut-to-Width Cordless Faux Wood Blinds
 *   BIG BUY!
     
-    from$7499after couponwas $260 - $300 Home Expressions Nina 10-pc Comforter Set(48)Add To Cart
+    from$25 sale
+    
+    was $50 - $140 JCPenney Home™ Top-Down/Bottom-Up Cordless Cellular Shade - FREE SWATCH(181)Add To Cart
+
+Hot Sellers
+
+*   from$1124after couponwas $60 Arizona Womens Lilly Wedge Heel Lace-up Bootie(76)
+*   $2249after couponwas $79 Yuu Womens Regina Stacked Heel Zip Bootie(26)
+*   $449after couponwas $40 Stafford Mens Microfleece Pajama Set Long Sleeve
+*   LIMITED TIME SPECIAL!
+    
+    $25 sale
+    
+    was $124.98 | 79% offLimited Time Special! 1/10 CT. T.W. Genuine Diamond Ring in Sterling Silver(94)
+*   $2249after couponwas $60 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Dress Shirt - Big and Tall(8)
+*   $1574after couponwas $70 Arizona Womens Oxford Booties Zip
 
 Shop and Save at JCPenney
 
-At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Get GE, LG and Samsung home appliances at amazing prices at our appliance sale. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
+At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
 *   Signup for text\* or email alerts, offers and promotionsSign Up
 *   **\*Text Alerts:** Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text HELP to 527365 for help and STOP to 527365 to cancel.  Terms &. Conditions. Privacy Policy.
