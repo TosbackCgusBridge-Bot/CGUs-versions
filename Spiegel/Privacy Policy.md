@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   12\. Februar 2019
+*   13\. Februar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.014,59ǀ
+*   DAX 11.126,08ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
