@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Dirty Dozen
-*   Racism &. abortion
-*   Store mailer
-*   SBC sex abuse
-*   Chris Pratt
+*   James MacDonald
+*   Tom Brady
+*   Censorship
+*   Wycliffe
+*   Coptic Christians
 
 About Us
 
@@ -46,6 +46,7 @@ About Us
 *   Editorial Policy
 *   Terms Of Service
 *   Privacy Policy
+*   Disclaimer
 
 Stay Connected
 
@@ -56,7 +57,6 @@ Stay Connected
 *   Media Kit
 *   Archives
 *   Corrections
-*   Disclaimer
 *   Email Whitelisting
 *   Careers
 
