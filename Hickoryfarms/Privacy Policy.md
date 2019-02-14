@@ -70,7 +70,7 @@
     *   Graduation &. CongratulationsMost Popular Valentine's Day Gifts
 *   Business Gifts
 
-1.800.753.8558 Business Gifts Final Hours! Next day Shipping for Valentine's day delivery ends tomorrow 3pm EST Search Catalog Find a Store Skip to content My Account
+1.800.753.8558 Business Gifts Search Catalog Find a Store Skip to content My Account
 
 *   Welcome!
 *   Log In
