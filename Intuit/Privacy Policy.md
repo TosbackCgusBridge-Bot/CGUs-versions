@@ -14,10 +14,9 @@ Shop Departments
 *   Same Day Pickup
 *   Store Ads
 *   Valentine's Day Gifts
-    *   Under $15
-    *   Under $25
-    *   Under $50
-    *   Under $100
+    *   Gifts for Her
+    *   Gifts for Him
+    *   Gifts for Kids
     *   All Gifts
 *   Clearance
     *   Women
@@ -31,7 +30,7 @@ Shop Departments
 Near YouFind a StoreBackLOVE NOW, WEAR NOWSHOP ALLLOVE NOW, WEAR NOWSHOP ALL
 
 *   from$1086after couponwas $37 - $49 LOVE NOW, WEAR NOW BOLD STRIPES(207)
-*   from$1499after couponWorthington Womens Long Sleeve Modern Fit Button-Front Shirt(104)Add To Cart
+*   from$1049after couponWorthington Womens Long Sleeve Modern Fit Button-Front Shirt(104)Add To Cart
 *   from$599after couponwas $44 a.n.a Skinny Denim Ankle Crop Jeans(623)Add To Cart
 *   $1499after couponwas $37 Worthington Womens Crew Neck 3/4 Sleeve BlouseAdd To Cart
 *   from$1086after couponwas $49 a.n.a Skinny Jeans(207)Add To Cart
@@ -48,12 +47,12 @@ Home Big BuysShop AllHome Big BuysShop All
     from$1499after couponwas $49 - $199 Studio 1000tc Luxury Performance Sheet Sets(254)Add To Cart
 *   BIG BUY!
     
-    from$6after couponwas $16 - $40 Home Expressions Lisette Rod-Pocket Sheer Panel(1157)Add To Cart
-*   BIG BUY!
-    
     from$20 sale
     
     was $40 - $108 JCPenney Home™ Light-Filtering Cordless Cellular Shade(268)Add To Cart
+*   BIG BUY!
+    
+    from$6after couponwas $16 - $40 Home Expressions Lisette Rod-Pocket Sheer Panel(1157)Add To Cart
 *   BIG BUY!
     
     from$30 sale
@@ -67,19 +66,6 @@ Home Big BuysShop AllHome Big BuysShop All
     from$25 sale
     
     was $50 - $140 JCPenney Home™ Top-Down/Bottom-Up Cordless Cellular Shade - FREE SWATCH(181)Add To Cart
-
-Hot Sellers
-
-*   from$1124after couponwas $60 Arizona Womens Lilly Wedge Heel Lace-up Bootie(76)
-*   $2249after couponwas $79 Yuu Womens Regina Stacked Heel Zip Bootie(26)
-*   $449after couponwas $40 Stafford Mens Microfleece Pajama Set Long Sleeve
-*   LIMITED TIME SPECIAL!
-    
-    $25 sale
-    
-    was $124.98 | 79% offLimited Time Special! 1/10 CT. T.W. Genuine Diamond Ring in Sterling Silver(94)
-*   $2249after couponwas $60 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Dress Shirt - Big and Tall(8)
-*   $1574after couponwas $70 Arizona Womens Oxford Booties Zip
 
 Shop and Save at JCPenney
 
