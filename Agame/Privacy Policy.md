@@ -95,7 +95,7 @@ View more results
     *   Total Front: Army War Game
     *   Slither.io
     *   Electricman 2: Stickman Fighting Game
-    *   Army Force Strike: 3D Shooting Game Online Multiplayer
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
 *   Top Categories
     
     *   Platform Games
@@ -122,8 +122,8 @@ View more results
     *   Five Nights at Freddy's 4
     *   Five Nights at Freddy's: Sister Location
     *   FNAF - Sister Location Custom
-    *   Uphill Rush
     *   FNAF: Sister Location Custom Night
+    *   Uphill Rush
     *   Trap Adventure 2
     *   World Craft 2
     *   Tom and Jerry: Mouse Maze
@@ -158,8 +158,8 @@ View more results
     *   TenTrix
     *   The Impossible Quiz 2
     *   Bubble Machine: 2 Player Game
-    *   Fireboy &. Watergirl 2: The Light Temple
     *   1001 Arabian Nights
+    *   Fireboy &. Watergirl 2: The Light Temple
 *   Top Categories
     
     *   Dress Up
@@ -188,8 +188,8 @@ View more results
     *   Penguin Diner: Food Restaurant Game
     *   Bartender
     *   Papa's Freezeria
-    *   Create a House: Building Game
     *   Papa's Cupcakeria
+    *   Create a House: Building Game
     *   Back To School: Princesses Rush
     *   Fidget Spinner
 *   Top Categories
@@ -216,8 +216,8 @@ View more results
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Hill Racing Challenge
     *   Bike Racing: Motorcycle Game
-    *   Happy Wheels
     *   Madalin Cars Multiplayer
+    *   Happy Wheels
     *   Uphill Rush 7: Waterpark
     *   Bus Man Parking 3D
     *   Extreme Off-Road Cars 2
@@ -250,8 +250,8 @@ View more results
     *   8-Ball
     *   Baseball
     *   Neon Biker
-    *   Playing Soccer
     *   Ultimate Boxing
+    *   Playing Soccer
     *   Goalkeeper Premier: Football Game
     *   Billiards Master Pro
     *   4x4 Soccer
@@ -266,9 +266,9 @@ View more results
     
     Recommended Games
     
-    *   World of Warships
+    *   Star Stable
+    *   Animal Jam
     *   Wizard 101
-    *   Crossout
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
