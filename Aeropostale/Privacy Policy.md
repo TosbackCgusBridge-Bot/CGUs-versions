@@ -133,7 +133,6 @@ Close submenu ( Tops ) Tops
 *   Long Sleeve
 *   Hoodies + Sweatshirts
 *   Shirts
-*   Buy 1 Get 2 Free Tees
 
 Close submenu ( Bottoms ) Bottoms
 
@@ -220,7 +219,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Buy an online only style, Get 14% off** Use Code **EXTRA14** **  SHOP NEW JEAN GUIDES + FREE SHIPPING OVER $50**
+**SHOP NEW ARRIVALS**  GIRLS GUYS **60% OFF ENTIRE SITE + FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -315,7 +314,6 @@ Menu Find a Store Aeropostale
         *   Long Sleeve
         *   Hoodies + Sweatshirts
         *   Shirts
-        *   Buy 1 Get 2 Free Tees
     
     *   Bottoms
         *   View All
@@ -406,7 +404,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Girls #BeMyAero Guys #BeMyAero Gift Cards Shop Girls Shop Guys Previous Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Next Shop Girls Shop Guys Shop Super High Rise Shop Girls Jeans Shop Super Skinny Shop Guys Jeans Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Shop Girls Shop Guys Girls #BeMyAero Guys #BeMyAero Gift Cards Shop Girls Shop Guys Previous Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Next Shop Super High Rise Shop Girls Jeans Shop Super Skinny Shop Guys Jeans Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
