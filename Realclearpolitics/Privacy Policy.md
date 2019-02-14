@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Salena Zito_: Why Did the Media Fail to Investigate Virginia Democrats?
+*   _Jesse Jackson_: AOC Is Under Fire Because She's Right
     
-*   _Erin Coulehan_: Trump's Distorted View of Life in El Paso
+*   _Conrad Black_: Democrats Are In the Throes of Sheer Lunacy
     
-*   _John Davidson_: O'Rourke Played Right Into Trump's Hand at the Border
+*   _Joe Garofoli_: Gavin Newsom Wants California to Be Its Own Nation-State
     
-*   _Tina Nguyen_: Did Trump Just Turn O'Rourke Into a 2020 Front-Runner?
+*   _John Kass_: The Dogma Lives Loudly Within Democrats in Virginia
     
-*   _Bill Scher_: How to Choose the Most Electable Democrat in 2020
+*   _Edward Alden_: Trump's Trade Warrior Takes the Fight to Beijing
     
-*   _Byron York_: House Democrats Ready for Ultimate Fishing Expedition
+*   _Tucker Carlson_: There Was No Russian Collusion - It Was All Fake
     
-*   _Bob Bauer_: Can Freedom of the Press Survive David Pecker?
+*   _David Brock_: Howard Schultz's Vanity Project Will Re-Elect Donald Trump
     
-*   _Arthur Goldberg_: Abortion's Devastating Impact on Black Americans
+*   _Myra Adams_: Who Is Qualified to Be President (2020 Edition)?
     
-*   _Jamelle Bouie_: Trail of Fears: Trump's Reactionary White Majoritarianism
+*   _Alex Shephard_: Jeff Bezos Is No Hero
     
-*   _Jim Treacher_: Mocking Warren Isn't Racist...She's Not Native American
+*   _Heather Mac Donald_: Borking Neomi Rao
     
-*   _James Bamford_: Maria Butina: The Russian Spy Who Wasn't
+*   _Benjamin Hart_: Early Facebook Investor Turned Zuckerberg Nemesis
     
-*   _Dennis &. Edgerton_: Tentative Deal Reached in Border Security Talks
+*   _Scott Douglas Gerber_: Celebrating Clarence Thomas's Place in Black History
     
-*   _Michael Walsh_: In Va., Dems Are Hoist With Their 'Intersectionality' Petard
+*   _Henry Olsen_: Take the Deal, Mr. President
     
-*   _Michael Stern_: Blackface Is Bad. Trump's Orangeface Is Worse.
+*   _Michelle Garcia_: In Border Deal, Democrats Gave Too Much Away
     
-*   _Michelle Goldberg_: Ilhan Omar's Very Bad Tweets
+*   _David Harsanyi_: The Media Is Lying on Behalf of Democrats
     
-*   _Jeffrey Barrett_: Without Liberal Identity Politics, There Is Little Racism
+*   _Quentin Karpilow &. Zachary Liscow_: The Green New Deal Is Good Economics
     
-*   _Jeffrey Toobin_: Roger Stone and Jerome Corsi's Time in the Barrel
+*   _Paul Kengor_: Green On the Outside, Red On the Inside
     
-*   _James Freeman_: Is Adam Schiff Satisfied With NBC News?
+*   _Geoffrey Skelley_: Is Socialism Still An Effective Political Bogeyman?
     
-*   _Bill Press_: Democrats Dare to Think Big With Green New Deal
+*   _Andy Puzder_: Capitalism Is What Fuels the American Dream
     
-*   _Kurt Schlichter_: Climate Change: The Latest Excuse for Liberal Power Grab
+*   _Barnaby Raine_: Ilhan Omar Should Be More Radical About Israel, Not Less
     
-*   _Philip Wegmann_: Will Sherrod Brown Carry the Blue-Collar Torch in 2020?
+*   _Michael Goodwin_: Can the Dems Ever Get Over Their Anti-Israel Bias?
     
-*   _Frank Bruni_: Democrats, Stop Groveling
+*   _Ezra Klein_: Howard Schultz's Campaign Is Based on 3 Ideas. They're All Wrong
     
-*   _Robert VerBruggen_: How 'Sabotaging' Obamacare Is Benefitting Consumers
+*   _Nolan Finley_: Warren's Lie Should End Her Campaign
     
-*   _Jill Lepore_: Eugene V. Debs and the Endurance of Socialism
+*   _Christoph Scheuermann_: Ben Rhodes: 'Trump Is Just Tearing Things Down'
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Lawmakers Reach Agreement "in Principle" in Border Security Talks
+*   Trump Not "Thrilled" With Border Deal But Leaning Toward It
+*   Dems' Struggle With "MeToo" Charges Extends to California
+*   Report: Senate Intel Committee Finds No Russia Collusion in Trump Campaign
+*   McConnell Announces Senate Will Take a Vote on Green New Deal
 *   Will Sherrod Brown Carry the Blue-Collar Torch in 2020?
-*   Trump: Rich Liberals, Wealthy Donors Push Open Borders, Live Behind Walls
-*   Dems' 2020 Field Now Includes Minnesota Sen. Amy Klobuchar
-*   Late-Term Abortion Stance May Be Trump Card in 2020
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,27 +245,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Direction of CountryRasmussen Reports
-    *   Right Direction40
-    *   Wrong Track55Wrong Track +15
-*   President Trump Job ApprovalThe Hill/HarrisX
-    *   Approve47
-    *   Disapprove53Disapprove +6
-*   Mississippi Governor - Reeves vs. HoodMason-Dixon
-    *   Hood44
-    *   Reeves42Hood +2
-*   Mississippi Governor - Reeves vs. Hood vs. WallerMason-Dixon
-    *   Hood40
-    *   Reeves38
-    *   Waller9Hood +2
+*   President Trump Job ApprovalFOX News
+    *   Approve46
+    *   Disapprove52Disapprove +6
+*   President Trump Job ApprovalGallup
+    *   Approve44
+    *   Disapprove52Disapprove +8
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve41
+    *   Disapprove57Disapprove +16
+*   President Trump Job ApprovalPolitico/Morning Consult
+    *   Approve45
+    *   Disapprove51Disapprove +6
 
 More Latest Polls In The News
 
-*   Howard Schultz: Alexandria Ocasio-Cortez's 'Green New Deal' "Unrealistic". How Do You Pay For It?
-*   Sen. Cotton: Media Complicit In "Disappearing" Ocasio-Cortez's Green New Deal Gaffe Down Memory Hole
-*   Sen. Booker: "We Are A Nation In Crisis," More People Feel This Democracy Is Not Working For Them
-*   Trump Trashes Beto O'Rourke: Protest Attendance "May Be End Of His Presidential Bid"
-*   Sen. Kamala Harris Backs Legalization: I Smoked Marijuana, I Inhaled. "I Think It Gives A Lot Of People Joy"
+*   Tucker Carlson: "Screechy Moron" Alexandria Ocasio-Cortez Not Demanding China To Adopt 'Green New Deal'
+*   Rep. Ilhan Omar vs. Elliott Abrams: Was El Salvador "Massacre" A "Fabulous Achievement" For U.S.?
+*   VP Mike Pence: "At Minimum" Rep. Ilhan Omar Should Be Removed From Foreign Affairs Committee
+*   Schumer to Trump: Deal Is "Last Train Leaving The Station" To Avoid Another Shutdown, Sign This Bill
+*   NBC: Senate Probe Finds No Evidence Of Russian Collusion In Trump Campaign, Bipartisan Agreement
 
 *   Politics
 *   Policy
