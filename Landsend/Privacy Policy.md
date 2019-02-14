@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off 1 full-price item!
+Receive 30% off full-price styles!
 
-code: SWEETS pin: 6243 DETAILS
+code: FAMILY pin: 4126 DETAILS
 
 Customer Service Menu
 
@@ -263,7 +263,6 @@ Services
 
 *   Gift Cards
 *   Monogramming &. Embroidery
-*   Shop Your Way Rewards
 *   Shop Catalogs
 *   Catalog Requests
 *   Refer a Friend
@@ -279,7 +278,7 @@ Policies
 Stores
 
 *   Find a complete list of retail store locations, departments and store hours.
-
+*   Store locator
 *   **Locate Your Store**
 
 *   Privacy Policy
@@ -290,10 +289,7 @@ Stores
 
 *   © 2018 lands' end
 *   Sitemap
-
-Shop Your Way Rewards
-
-Make every purchase rewarding. Join today. Earn today. It's free.
+*   Index
 
 Sustainability
 
