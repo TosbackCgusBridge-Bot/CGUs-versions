@@ -74,8 +74,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Danny Boyle's 'Yesterday' Gets First Trailer. Here's Everything We Know Read More
-    *   New 'Toy Story 4' TV Spot Delights. Here's Everything We Know Read More
-    *   Next 3 Animated Adventures: 'The Lego Movie 2,' 'How to Train Your Dragon: Hidden World,' 'Wonder Park' Read More
+    *   Edgy Octavia Spencer Stars in 'Ma'. Here's Everything We Know Read More
+    *   The First 'Frozen II' Teaser Has Us Ready for Fall. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -322,7 +322,7 @@ Offers
 
 *   'A Madea Family Funeral' Gift with Purchase
     
-    Own 'Tyler Perry's Diary of a Mad Black Woman' with ticket purchase! BUY TICKETS
+    Own the 8-movie Madea Collection for $15 with ticket purchase! BUY TICKETS
     
 *   Fandango VIP
     
