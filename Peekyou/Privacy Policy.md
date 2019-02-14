@@ -68,9 +68,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 46%  2% 
+What is PeekScore? Public Records &. Background Checks 45%  3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -116,7 +116,7 @@ What is PeekScore? Public Records &. Background Checks 46%  2% 
     
 *   Show Less ...
 
-46%  2% 
+45%  3% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -201,7 +201,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 2% 
+Facebook 3% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -261,7 +261,7 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 2% 
+Twitter 3% 
 
 *   CDC - CDCgov
     
@@ -307,7 +307,7 @@ Twitter 2% 
     
 *   Show Less ...
 
-Instagram 2% 
+Instagram 3% 
 
 *   Instagram privacy Policy - privacy\_intellectual\_policy
     
@@ -343,7 +343,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Myspace 2% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -367,7 +367,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Google+ 2% 
+Google+ 3% 
 
 *   Lauren Weinstein
     
@@ -391,10 +391,6 @@ Google+ 2% 
     
     Apps for dolphins and people - Privacy Policy: your data is private.
     
-*   Matthew Hendrickson (Dr.)
-    
-    Doctor of Law &. Policy &. statistical analyst w/focus on big data and privacy. Connector through story telling.
-    
 *   Jules Polonetsky
     
     DC area
@@ -407,9 +403,13 @@ Google+ 2% 
     
     Founder and Chairman of http://www.iubenda.com , Privacy Policy generator for websites. Web Designer by the age of 10.
     
+*   Beacon Hill Apartments
+    
+    Beacon Hill Apartments is an Auburn Hills, MI apartment community. 248-373-5080 bhapts.com/privacy-policy bhapts.com/terms-of-use
+    
 *   Show Less ...
 
-Pinterest 46%  Wikipedia 2% 
+Pinterest 45%  Wikipedia 3% 
 
 *   Privacy policy
     
@@ -424,7 +424,7 @@ Pinterest 46%  Wikipedia 2% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Music 2% 
+Music 3% 
 
 *   Pandora
     
@@ -470,7 +470,7 @@ Music 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search 3% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -516,7 +516,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 3% 
 
 3
 
@@ -534,7 +534,7 @@ instagramx
 
 myspacex
 
-9
+10
 
 facebookx
 
