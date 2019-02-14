@@ -1,4 +1,4 @@
-Updates are on the way! You might experience some issues as we launch Marriott Bonvoy™, our new loyalty program name. Thank you for your patience. X Skip Main Navigation
+For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
 
 expand
 
@@ -13,6 +13,13 @@ expand
     *   Deals
     *   Hotel &. Flight Packages
     *   Cars, Tours, Activities
+*   expandMARRIOTT BONVOY
+    *   Marriott Bonvoy Overview
+    *   Member Benefits
+    *   Earn Points
+    *   Redeem Points
+    *   Marriott Bonvoy Credit Card
+    *   Marriott Insiders
 *   expandMEETINGS &. EVENTS
     *   Meetings &. Events Overview
     *   Business Meetings
@@ -34,7 +41,7 @@ expand
 *   Site Map
 *   Contact Us
 
-THE RITZ CARLTON REWARDS Marriott Rewards Starwood Preferred Guest
+Marriott Rewards
 
 *   English
 *   Meetings &. Events
@@ -52,7 +59,7 @@ THE RITZ CARLTON REWARDS Marriott Rewards Starwood Preferred Guest
     
     Sign In to view your current reservations.
     
-    Email or Rewards # Password _Sign In_
+    Email or Marriott Bonvoy # Password _Sign In_
     
     Remember me What's this?
     
@@ -469,8 +476,6 @@ Marriott For:
 *   Hotels Near Me
 *   Tracking Preferences
 
-Best Available Rate Guarantee assures you receive the best rates when you book directly with us. If you find a lower publicly available rate within 24 hours of booking, we will match that rate plus give you 25% off the lower rate, subject to guarantee terms and exclusions. Guarantee does not apply to Ritz-Carlton Montreal, The Ritz London, Ritz-Carlton Residences®, and Starwood-Branded Hotels, including Four Points Hotels, Sheraton Hotels, Aloft Hotels, W Hotels, Le Meridien Hotels, Luxury Collection Hotels, Element Hotels, Westin Hotels, St. Regis Hotels, Tribute Portfolio Hotels and Design Hotels. Marriott Rewards® and The Ritz-Carlton Rewards® members (“Rewards Members”) who book rooms through a Marriott® Direct Booking Channel, authorized travel agents or select corporate travel partners ("Eligible Channels") at hotels that participate in Marriott Rewards® and The Ritz-Carlton Rewards loyalty programs will receive an exclusive, preferred rate (“Marriott Rewards Member Rate”). Member Rates are available globally at all hotels that participate in Marriott Rewards. Exclusions apply. See our Terms &. Conditions for additional details related to our Best Available Rate Guarantee and Marriott Rewards Member Rate. Hotels shown on Marriott.com may be operated under a license from Marriott International, Inc. or one of its affiliates.
-
-© 1996 - 2018 Marriott International, Inc. All rights reserved. Marriott proprietary information
+© 1996 - 2019 Marriott International, Inc. All rights reserved. Marriott proprietary information
 
 BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
