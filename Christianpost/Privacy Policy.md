@@ -33,9 +33,9 @@ Hot Topics
 
 *   James MacDonald
 *   Tom Brady
-*   Censorship
-*   Wycliffe
-*   Coptic Christians
+*   Jumbotron
+*   Fairness for all
+*   Valentine's
 
 About Us
 
