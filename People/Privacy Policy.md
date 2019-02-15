@@ -132,4 +132,4 @@ Email: privacy@meredith.com
 
 back to top
 
-This Privacy Policy was revised September 29, 2017.
+This Privacy Policy was revised February 1, 2019.
