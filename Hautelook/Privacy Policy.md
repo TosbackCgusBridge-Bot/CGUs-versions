@@ -8,10 +8,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Joie Up to 70% Off
-    *   CURRENT/ELLIOTT Up to 65% Off
+    *   Lafayette 148 New York Up to 70% Off
+    *   Dolce Vita Up to 55% Off
+    *   Vanity Room
+    *   Our Favorite Knit Tops Under $20
+    *   Lovely in Lace: Romantic Lingerie &. More
+    *   Free Shipping: Luxe Faux Fur Decor
+    *   Champion Men's Activewear Under $30
+    *   Stride Rite
+    *   Night Out: Chic Heels, Booties &. More
+    *   Bulova &. Citizen Watches Up to 70% Off
+    *   Mezlan
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   14K Gold, Gemstones &. More Under $80
+    *   Grande Cosmetics: Lips &. Lashes
+    *   Free Shipping: Pop Culture Art &. More
+    *   Vacation Ready: Andy &. Evan and More
+    *   Top Moda Up to 65% Off
+    *   Styles for Your Little Valentine
+    *   Most Wanted USA Up to 60% Off
     *   Kiehl's Since 1851
     *   Perricone MD
+    
+    *   Joie Up to 70% Off
+    *   CURRENT/ELLIOTT Up to 65% Off
     *   Ron Hami Fine Jewelry Up to 50% Off
     *   Wardrobe Essentials ft. H By Bordeaux
     *   Head-Turning Swim Under $30
@@ -26,61 +46,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: End-of-Season Bedding Steals
     *   Fun Tech Finds Starting at $10
     *   Joie Shoes
-    *   philosophy
     *   DKNY Girls &. More
-    *   Most Wanted USA Up to 60% Off
     *   Free Shipping: Kitchen Blowout
-    
     *   Free Shipping: Sheet Sets &. More Up to 75% Off
     *   Free Shipping: Quirky Decorative Accents
     *   Sassy Staples: Quotable Kitchen Towels
-    *   Tissot Watches
-    *   Glam Galore: Cocktail &. Party Dresses
-    *   Designer Sun Under $100
-    *   ZAC Zac Posen
-    *   Waterproof Booties &. More from Blondo
-    *   Wardrobe Refresh: Designers We Love
-    *   Staying-In Styles: Sleep &. Lounge
+    
     *   Oscar de la Renta Statement Jewelry
     *   Office Style: Men's Suiting
     *   Moon and Jai Kits &. More
     *   $30 &. Under: Dr. Scholl's Kids
-    *   New Suede Shoes Starting at $25
     *   Unsimply Stitched Lounge &. More
-    *   Ash Sneakers Up to 55% Off
     *   Ben Sherman Shoes Up to 65% Off
     *   Tween Scene: Styles ft. mymichelle
-    *   Donald Pliner
-    *   LAmade
     *   Free Shipping: Statement Wall Art Up to 55% Off
-    
-    *   Native Kids
-    *   Perry Ellis
     *   Home Office Upgrades: Desk Decor &. More
     *   Free Shipping: Jars, Wooden Boxes &. More
-    *   Make a Splash: Kids' Swim ft. Maaji
     *   Sun Bum Sunscreen &. Hair Care from $10
-    *   Spring Sportswear for Him
+    *   Free Shipping: ROLSER Trolley Carts &. More
     *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Men's Outdoor Shoes ft. adidas &. More
-    *   Noyah Natural Lip Care
-    *   Denim Ft. Mother
     *   Free Shipping: On-Trend Art ft. Mili Designs NYC
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
     *   Poo-Pourri Bathroom Scents
-    *   Free Shipping: ROLSER Trolley Carts &. More
-    *   Natori
-    *   Men's Oxfords &. More Up to 60% Off
     *   Free Shipping: Amrapur Towels Up to 75% Off
-    *   Men's Denim Blowout
-    *   Office Essentials ft. T Tahari
-    *   Free Shipping: Removable Wallpaper, Decals &. More
+    *   Keep It Casual: Men's Pants
+    *   philosophy
 *   WomenShop Sale Events
+    
+    *   Lafayette 148 New York Up to 70% Off
+    *   Dolce Vita Up to 55% Off
+    *   Vanity Room
+    *   Our Favorite Knit Tops Under $20
+    *   Lovely in Lace: Romantic Lingerie &. More
+    *   Night Out: Chic Heels, Booties &. More
+    *   Bulova &. Citizen Watches Up to 70% Off
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   14K Gold, Gemstones &. More Under $80
+    *   Grande Cosmetics: Lips &. Lashes
+    *   Top Moda Up to 65% Off
+    *   Most Wanted USA Up to 60% Off
+    *   Kiehl's Since 1851
+    *   Perricone MD
     
     *   Joie Up to 70% Off
     *   CURRENT/ELLIOTT Up to 65% Off
-    *   Kiehl's Since 1851
-    *   Perricone MD
     *   Ron Hami Fine Jewelry Up to 50% Off
     *   Wardrobe Essentials ft. H By Bordeaux
     *   Head-Turning Swim Under $30
@@ -88,81 +97,63 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Nanette Lepore Play
     *   Cute Sneakers ft. Keds Up to 50% Off
     *   Joie Shoes
-    *   philosophy
-    *   Most Wanted USA Up to 60% Off
-    *   Tissot Watches
-    *   Glam Galore: Cocktail &. Party Dresses
-    *   Designer Sun Under $100
-    
-    *   ZAC Zac Posen
-    *   Waterproof Booties &. More from Blondo
-    *   Wardrobe Refresh: Designers We Love
-    *   Staying-In Styles: Sleep &. Lounge
     *   Oscar de la Renta Statement Jewelry
     *   Moon and Jai Kits &. More
-    *   New Suede Shoes Starting at $25
-    *   Ash Sneakers Up to 55% Off
-    *   Donald Pliner
-    *   LAmade
     *   Sun Bum Sunscreen &. Hair Care from $10
     *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Noyah Natural Lip Care
-    *   Denim Ft. Mother
-    *   Natori
-    *   Office Essentials ft. T Tahari
+    *   philosophy
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Lingerie
-    *   Tech Accessories
-    *   Accessories
-    *   Handbags
     *   Jewelry
+    *   Tech Accessories
+    *   Handbags
     *   Watches
 *   MenShop Sale Events
     
+    *   Champion Men's Activewear Under $30
+    *   Bulova &. Citizen Watches Up to 70% Off
+    *   Mezlan
     *   Kiehl's Since 1851
     *   New Men's Loafers ft. Swims
     *   Men's Premium Jean Shop
+    
     *   nANA jUDY
-    *   Tissot Watches
     *   Office Style: Men's Suiting
     *   Unsimply Stitched Lounge &. More
-    
     *   Ben Sherman Shoes Up to 65% Off
-    *   Perry Ellis
-    *   Spring Sportswear for Him
     *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Men's Outdoor Shoes ft. adidas &. More
-    *   Men's Oxfords &. More Up to 60% Off
-    *   Men's Denim Blowout
+    *   Keep It Casual: Men's Pants
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Stride Rite
+    *   Vacation Ready: Andy &. Evan and More
+    *   Styles for Your Little Valentine
     *   OshKosh
     *   DKNY Girls &. More
     *   $30 &. Under: Dr. Scholl's Kids
     *   Tween Scene: Styles ft. mymichelle
-    *   LAmade
-    *   Native Kids
-    *   Make a Splash: Kids' Swim ft. Maaji
     
     Shop By Category
     *   Girls' Shoes
     *   Girls' Sizes 7-16
     *   Boys' Shoes
     *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
     *   Baby Girl
+    *   Boys' Sizes 2T-7
 *   HomeShop Sale Events
     
+    *   Free Shipping: Luxe Faux Fur Decor
+    *   Free Shipping: Pop Culture Art &. More
     *   Free Shipping: Chic Art, Pillows &. More
     *   Free Shipping: End-of-Season Bedding Steals
     *   Fun Tech Finds Starting at $10
@@ -170,16 +161,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Sheet Sets &. More Up to 75% Off
     *   Free Shipping: Quirky Decorative Accents
     *   Sassy Staples: Quotable Kitchen Towels
-    *   Free Shipping: Statement Wall Art Up to 55% Off
     
+    *   Free Shipping: Statement Wall Art Up to 55% Off
     *   Home Office Upgrades: Desk Decor &. More
     *   Free Shipping: Jars, Wooden Boxes &. More
+    *   Free Shipping: ROLSER Trolley Carts &. More
     *   Free Shipping: On-Trend Art ft. Mili Designs NYC
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
     *   Poo-Pourri Bathroom Scents
-    *   Free Shipping: ROLSER Trolley Carts &. More
     *   Free Shipping: Amrapur Towels Up to 75% Off
-    *   Free Shipping: Removable Wallpaper, Decals &. More
     
     Shop By Category
     *   Home Decor
@@ -192,19 +182,20 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Grande Cosmetics: Lips &. Lashes
     *   Kiehl's Since 1851
     *   Perricone MD
-    *   philosophy
     *   Moon and Jai Kits &. More
     *   Sun Bum Sunscreen &. Hair Care from $10
     *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Noyah Natural Lip Care
+    *   philosophy
     
     Shop By Category
     *   Skin Care
-    *   Makeup
     *   Bath &. Body
     *   Hair Care
+    *   Makeup
     *   Tools &. Accessories
     *   Fragrance
 
