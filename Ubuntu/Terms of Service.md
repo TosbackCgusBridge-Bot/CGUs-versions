@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   ACPI AML Runtime Debugger in Ubuntu 18.04 (x64) ›
+*   Bootstrap Your Snap ›
 *   A fresh look for releases.ubuntu.com ›
 *   Understanding containerised workloads for Telco ›
 *   Creating multi-purpose hardware with IoT app stores ›
-*   Financial services businesses say multi-cloud is central to their plans for AI, containers and blockchain, 451 Research reveals ›
-*   Zero to Hero – Snap me up before you GO! ›
