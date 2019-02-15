@@ -9,7 +9,6 @@ Skip Navigation Skip to Content Stores &. Events My Account USD Have an Account?
 *   Kids
 *   Home
 *   Gifts
-*   DESIGNERS
 *   EDITORIAL
 
 *   THE REGISTRY
@@ -38,7 +37,6 @@ USD Change Recent Searches
 *   Kids
 *   Home
 *   Gifts
-*   DESIGNERS
 *   EDITORIAL
 
 Live Chat CALL US **ANY TIME**:1.800.777.0000  
