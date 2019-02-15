@@ -11,7 +11,7 @@
 *   Game Pass
 *   Super Bowl
 *   Draft
-*   NFL Honors
+*   Free Agency
 *   Stats
 *   Next Gen Stats
 *   Ways to Watch
@@ -31,7 +31,7 @@
 *   *   Game Pass
     *   Super Bowl
     *   Draft
-    *   NFL Honors
+    *   Free Agency
     *   Stats
     *   Next Gen Stats
     *   Ways to Watch
