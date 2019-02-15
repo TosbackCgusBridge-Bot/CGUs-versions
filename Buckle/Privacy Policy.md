@@ -23,7 +23,7 @@ Valentine’s Day Sales &. Specials are happening now - Shop your heart out!
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -41,6 +41,8 @@ Valentine’s Day Sales &. Specials are happening now - Shop your heart out!
         *   Brill Boutique
         *   Promotions
         *   buckle SELECT
+        *   Vacation Shop
+        *   2 for $35 Tops
         
         *   Clothing
         
@@ -53,6 +55,7 @@ Valentine’s Day Sales &. Specials are happening now - Shop your heart out!
         *   Bottoms
         *   Rompers &. Jumpsuits
         *   Swimwear
+        *   Shorts
         *   Bralettes
         *   Plus Sizes
         *   Shop All
@@ -110,6 +113,8 @@ Valentine’s Day Sales &. Specials are happening now - Shop your heart out!
         *   Buckle Exclusives
         *   Promotions
         *   buckle SELECT
+        *   Vacation Shop
+        *   2 for $35 Shirts
         
         *   Clothing
         
@@ -120,8 +125,9 @@ Valentine’s Day Sales &. Specials are happening now - Shop your heart out!
         *   Polos
         *   T-Shirts
         *   Tanks
-        *   Bottoms
         *   Jeans
+        *   Bottoms
+        *   Shorts
         *   Boardshorts
         *   Big &. Tall
         *   Shop All
@@ -206,7 +212,8 @@ Valentine’s Day Sales &. Specials are happening now - Shop your heart out!
         *   Flare
         *   High Waisted
         *   Cropped
-        *   The Denim Shop
+        *   Black Jeans
+        *   Women's Denim Guide
         *   Shop All
         
         *   Men's Jeans
@@ -218,7 +225,8 @@ Valentine’s Day Sales &. Specials are happening now - Shop your heart out!
         *   Skinny
         *   Straight
         *   Bootcut
-        *   The Denim Shop
+        *   Black Jeans
+        *   Men's Denim Guide
         *   Shop All
         
         *   Stretch &. Tech Jeans
