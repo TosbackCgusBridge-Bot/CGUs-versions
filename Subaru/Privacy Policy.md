@@ -8,12 +8,12 @@ Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
-*   Money Subaru (89 Miles)
-*   DuTeau Subaru (116 Miles)
-*   Baxter Subaru (158 Miles)
-*   Briggs Subaru of Topeka (164 Miles)
-*   Beardmore Subaru (165 Miles)
-*   Subaru of Wichita (167 Miles)
+*   Schomp Subaru (7 Miles)
+*   Groove Subaru (8 Miles)
+*   Mike Shaw Subaru (9 Miles)
+*   AutoNation Subaru West (10 Miles)
+*   AutoNation Subaru Arapahoe (12 Miles)
+*   Flatirons Subaru (21 Miles)
 
 Submit
 
@@ -392,24 +392,14 @@ Enthusiasts
 *   Drive Performance
 *   Badge of Ownership
 
-Company
+About Subaru
 
-*   About Subaru
-*   Careers
-*   Partnerships
-*   News
-*   New Camden Home
-*   50th Anniversary
-
-Responsibility
-
-*   Corporate Responsibility
-*   Our Subaru Family
-*   Community
-*   Diversity
-*   SOA Foundation
-*   Environment
+*   Our Company
 *   Love Promise
+*   Subaru of America Foundation
+*   Diversity, Equity, and Inclusion
+*   News
+*   Join Our Team
 
 Owners
 
