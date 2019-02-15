@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jesse Jackson_: AOC Is Under Fire Because She's Right
+*   _Amy Barnhorst_: A New Model to Stop the Next School Shooting
     
-*   _Conrad Black_: Democrats Are In the Throes of Sheer Lunacy
+*   _Adam Mill_: As the Russia Hoax Unravels, the Gaslighting Begins
     
-*   _Joe Garofoli_: Gavin Newsom Wants California to Be Its Own Nation-State
+*   _Andrew McCabe_: Every Day Is a New Low in Trump's White House
     
-*   _John Kass_: The Dogma Lives Loudly Within Democrats in Virginia
+*   _Michael Tomasky_: The Green New Deal Is a Home Run--for McConnell
     
-*   _Edward Alden_: Trump's Trade Warrior Takes the Fight to Beijing
+*   _Leah Rigueur_: Will Power Trump Values in Virginia?
     
-*   _Tucker Carlson_: There Was No Russian Collusion - It Was All Fake
+*   _Monica Crowley_: Virginia Implosion: Northam &. Fairfax Are Goners
     
-*   _David Brock_: Howard Schultz's Vanity Project Will Re-Elect Donald Trump
+*   _Bill Schneider_: For 2020, Democrats Are Lookin' for Somebody to Love
     
-*   _Myra Adams_: Who Is Qualified to Be President (2020 Edition)?
+*   _Paul Sperry_: Trump Looks to Uproot Numbers-Only Racial Bias Test
     
-*   _Alex Shephard_: Jeff Bezos Is No Hero
+*   _Thomas Friedman_: The Two Codes Your Kids Need to Know
     
-*   _Heather Mac Donald_: Borking Neomi Rao
+*   _Cal Newport_: Is Email Making Professors Stupid?
     
-*   _Benjamin Hart_: Early Facebook Investor Turned Zuckerberg Nemesis
+*   _Richard Hanania_: Twitter's Bias vs. Conservatives: It's Not Your Imagination
     
-*   _Scott Douglas Gerber_: Celebrating Clarence Thomas's Place in Black History
+*   _Ed Rogers_: Exactly Which Trump Policies Do Dems Want to Undo?
     
-*   _Henry Olsen_: Take the Deal, Mr. President
+*   _Leana Wen_: What Gives Me Hope as Women's Rights Are Under Threat
     
-*   _Michelle Garcia_: In Border Deal, Democrats Gave Too Much Away
+*   _Betsy McCaughey_: The Troubling Truth About Late-Term Abortions
     
-*   _David Harsanyi_: The Media Is Lying on Behalf of Democrats
+*   _Max Cea_: The Cruelties of a Conservative, Trumpian America
     
-*   _Quentin Karpilow &. Zachary Liscow_: The Green New Deal Is Good Economics
+*   _Byron York_: Resistance Rattled by 'No Collusion' Talk
     
-*   _Paul Kengor_: Green On the Outside, Red On the Inside
+*   _Jeffrey Toobin_: Is Another Supreme Court Justice Ready to Go?
     
-*   _Geoffrey Skelley_: Is Socialism Still An Effective Political Bogeyman?
+*   _A.B. Stoddard_: Could AOC, Tlaib and Omar Be Dems' Blessing in Disguise?
     
-*   _Andy Puzder_: Capitalism Is What Fuels the American Dream
+*   _Francis Menton_: Climate Scare: More Shrill, Ever Less Serious
     
-*   _Barnaby Raine_: Ilhan Omar Should Be More Radical About Israel, Not Less
+*   _Naomi Klein_: The Battle Lines Have Been Drawn on the Green New Deal
     
-*   _Michael Goodwin_: Can the Dems Ever Get Over Their Anti-Israel Bias?
+*   _Joel Kotkin_: High-Speed Trains Won't Be Leaving the Station
     
-*   _Ezra Klein_: Howard Schultz's Campaign Is Based on 3 Ideas. They're All Wrong
+*   _Herman Cain_: Blocking Scalise Testimony Shows Dems' True Colors
     
-*   _Nolan Finley_: Warren's Lie Should End Her Campaign
+*   _Emily Witt_: Parkland to Sunrise: A Year of Extraordinary Youth Activism
     
-*   _Christoph Scheuermann_: Ben Rhodes: 'Trump Is Just Tearing Things Down'
+*   _Jonathan Williams_: Americans Continue Their March to Low-Tax States
     
 
 *   Previous
@@ -228,10 +228,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Not "Thrilled" With Border Deal But Leaning Toward It
+*   Trump Will Sign Border Security Bill and Declare Emergency
+*   Judge Finds Manafort Lied to Investigators in Russia Probe
+*   Carlson: There Was No Russian Collusion, It Was Always a Hoax
 *   Dems' Struggle With "MeToo" Charges Extends to California
-*   Report: Senate Intel Committee Finds No Russia Collusion in Trump Campaign
-*   McConnell Announces Senate Will Take a Vote on Green New Deal
 *   Will Sherrod Brown Carry the Blue-Collar Torch in 2020?
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -248,23 +248,23 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalFOX News
     *   Approve46
     *   Disapprove52Disapprove +6
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove49Approve +1
 *   President Trump Job ApprovalGallup
     *   Approve44
     *   Disapprove52Disapprove +8
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve41
     *   Disapprove57Disapprove +16
-*   President Trump Job ApprovalPolitico/Morning Consult
-    *   Approve45
-    *   Disapprove51Disapprove +6
 
 More Latest Polls In The News
 
+*   McCabe: I Ordered Trump Obstruction Of Justice Probe After Troubling Conversation. Trump: "Poor Little Angel"
 *   Tucker Carlson: "Screechy Moron" Alexandria Ocasio-Cortez Not Demanding China To Adopt 'Green New Deal'
+*   Don Lemon: It Is Not Okay To Say "I Don't See Color" In 2019. What Is This "So-Called Colorblind Ideology?"
+*   CNN's Jake Tapper on Rep. Ilhan Omar: What About Trump's History Of Anti-Semitic Comments?
 *   Rep. Ilhan Omar vs. Elliott Abrams: Was El Salvador "Massacre" A "Fabulous Achievement" For U.S.?
-*   VP Mike Pence: "At Minimum" Rep. Ilhan Omar Should Be Removed From Foreign Affairs Committee
-*   Schumer to Trump: Deal Is "Last Train Leaving The Station" To Avoid Another Shutdown, Sign This Bill
-*   NBC: Senate Probe Finds No Evidence Of Russian Collusion In Trump Campaign, Bipartisan Agreement
 
 *   Politics
 *   Policy
