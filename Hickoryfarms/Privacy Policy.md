@@ -12,7 +12,7 @@
     Occasions*   Valentine's Day
     *   Spring
     *   Game Day
-    *   Birthday GiftsMost Popular Valentine's Day Gifts Birthday Gifts
+    *   Birthday GiftsMost Popular Spring Gifts Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -60,17 +60,17 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Valentine's Day Gifts
+    View All Categories Shop by Category*   Easter Gifts
     
     Occasions*   Spring
     *   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Valentine's Day Gifts
+    *   Graduation &. CongratulationsMost Popular Spring Gifts
 *   Business Gifts
 
-1.800.753.8558 Business Gifts Search Catalog Find a Store Skip to content My Account
+1.800.753.8558 Business Gifts $5 Flat-Rate Standard Shipping - No Minimum!\* Search Catalog Find a Store Skip to content My Account
 
 *   Welcome!
 *   Log In
@@ -92,7 +92,7 @@
     Occasions*   Valentine's Day
     *   Spring
     *   Game Day
-    *   Birthday GiftsMost Popular Valentine's Day Gifts Birthday Gifts
+    *   Birthday GiftsMost Popular Spring Gifts Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -140,14 +140,14 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Valentine's Day Gifts
+    View All Categories Shop by Category*   Easter Gifts
     
     Occasions*   Spring
     *   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Valentine's Day Gifts
+    *   Graduation &. CongratulationsMost Popular Spring Gifts
 *   Business Gifts
 
 1.800.753.8558 Business Gifts Menu Search Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
