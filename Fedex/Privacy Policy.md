@@ -146,6 +146,8 @@ United States of America
 
 Email: dataprivacy@fedex.com
 
+Click here for your data subject requests.
+
 For Europe, you may also contact:  
 
 **FedEx Express – European Office**
@@ -159,6 +161,8 @@ Taurusavenue 111       
 The Netherlands 
 
 Email: dataprivacy@fedex.com
+
+Click here for your data subject requests.
 
 **What if I have other questions or complaints?**  
 
