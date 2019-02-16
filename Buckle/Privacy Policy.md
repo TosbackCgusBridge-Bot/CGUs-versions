@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Valentine’s Day Sales &. Specials are happening now - Shop your heart out!
+EARLY ACCESS: PRESIDENTS DAY SALE UP TO 75% OFF. SHOP NOW!
 
 *   Women
 *   Men
@@ -23,7 +23,7 @@ Valentine’s Day Sales &. Specials are happening now - Shop your heart out!
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
