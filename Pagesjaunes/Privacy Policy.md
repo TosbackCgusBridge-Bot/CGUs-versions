@@ -1,6 +1,6 @@
 Pages Blanches Annuaire Inversé Se référencer Conditions Générales d’Utilisation du site PagesJaunes
 
-Version du 10/12/2018
+Version du 07/01/2019
 
 Mentions légales
 
@@ -219,7 +219,7 @@ L’Utilisateur reconnaît que la société PAGESJAUNES ne pouvant pas vérifier
 
 De même, la société PAGESJAUNES exclut toute responsabilité quant aux prestations et/ou produits et/ou services des restaurateurs, lesquels sont fournis et/ou assurées sous la responsabilité de ceux-ci.
 
-La société PAGESJAUNES ne garantit pas à l’Utilisateur qu’il soit satisfait des produits, services et/ou pratiques commerciales des restaurateurs, ni que ?.
+La société PAGESJAUNES ne garantit pas à l’Utilisateur qu’il soit satisfait des produits, services et/ou pratiques commerciales des restaurateurs.
 
 4\. Réclamation clients
 
@@ -598,6 +598,6 @@ soit, s’il ne peut proposer aucune prestation de remplacement ou si celles-ci 
 
 Les dispositions du présent article sont applicables en cas de non-respect de l’obligation prévue au 13° de l’article R. 211-4
 
-PagesJaunes est une marque de SoLocal Group ©2018
+PagesJaunes est une marque de SoLocal Group ©2019
 
 Recrutement Charte du groupe
