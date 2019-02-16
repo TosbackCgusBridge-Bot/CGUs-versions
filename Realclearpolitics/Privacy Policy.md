@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Amy Barnhorst_: A New Model to Stop the Next School Shooting
+*   _Michael Goodwin_: McCabe's Corruption May Help Lift Shroud of Secrecy
     
-*   _Adam Mill_: As the Russia Hoax Unravels, the Gaslighting Begins
+*   _Nate Silver_: Trump Keeps Doubling Down on the Same Failed Strategy
     
-*   _Andrew McCabe_: Every Day Is a New Low in Trump's White House
+*   _Joel Pollak_: Border Deal--With Emergency Declaration--Is a Win for Trump
     
-*   _Michael Tomasky_: The Green New Deal Is a Home Run--for McConnell
+*   _Erwin Chemerinsky_: Trump's 'Emergency' Is Unlawful, Unconstitutional
     
-*   _Leah Rigueur_: Will Power Trump Values in Virginia?
+*   _Susan Crabtree_: Will Trump's Emergency Declaration Be a Pyrrhic Victory?
     
-*   _Monica Crowley_: Virginia Implosion: Northam &. Fairfax Are Goners
+*   _Veronica de Rugy_: Healthcare's Future Is Innovation, Not Government Control
     
-*   _Bill Schneider_: For 2020, Democrats Are Lookin' for Somebody to Love
+*   _Dahlia Lithwick_: In 2020, Voters Should Abandon Obsession With 'Authenticity'
     
-*   _Paul Sperry_: Trump Looks to Uproot Numbers-Only Racial Bias Test
+*   _Taylor Day_: Jussie Smollett's 'Hate Crime' Hoax Unravels
     
-*   _Thomas Friedman_: The Two Codes Your Kids Need to Know
+*   _David Ignatius_: Democrats Begin New Phase of Trump-Russia Probe
     
-*   _Cal Newport_: Is Email Making Professors Stupid?
+*   _Rivkin &. Foley_: Stop the Impeachment Fishing Expedition
     
-*   _Richard Hanania_: Twitter's Bias vs. Conservatives: It's Not Your Imagination
+*   _Brad Stone_: Amazon's Escape From New York
     
-*   _Ed Rogers_: Exactly Which Trump Policies Do Dems Want to Undo?
+*   _Peter Bergen_: There Is No National Emergency
     
-*   _Leana Wen_: What Gives Me Hope as Women's Rights Are Under Threat
+*   _Joe diGenova_: Trump on Solid Legal Ground in Declaring Emergency
     
-*   _Betsy McCaughey_: The Troubling Truth About Late-Term Abortions
+*   _Sally Kohn_: A Desperate Act of a Desperate Man
     
-*   _Max Cea_: The Cruelties of a Conservative, Trumpian America
+*   _Larry O'Connor_: A Revealing Two Weeks for Democrats
     
-*   _Byron York_: Resistance Rattled by 'No Collusion' Talk
+*   _Natasha Bertrand_: The Senate's Russia Probe Faces a Reckoning
     
-*   _Jeffrey Toobin_: Is Another Supreme Court Justice Ready to Go?
+*   _Julie Kelly_: After the Coup Is Gone
     
-*   _A.B. Stoddard_: Could AOC, Tlaib and Omar Be Dems' Blessing in Disguise?
+*   _Matthew Yglesias_: New York Is Better Off Without Amazon's HQ2
     
-*   _Francis Menton_: Climate Scare: More Shrill, Ever Less Serious
+*   _Steve Cuozzo_: The Amazon-Slayers Are Only Getting Started
     
-*   _Naomi Klein_: The Battle Lines Have Been Drawn on the Green New Deal
+*   _Jamelle Bouie_: Trump Is Making 'Socialism' Sound Pretty Good
     
-*   _Joel Kotkin_: High-Speed Trains Won't Be Leaving the Station
+*   _Matthew Continetti_: What to Do About the Rebirth of Socialism
     
-*   _Herman Cain_: Blocking Scalise Testimony Shows Dems' True Colors
+*   _Jeremy Ben-Ami_: Stop Alleging Anti-Semitism Just to Score Political Points
     
-*   _Emily Witt_: Parkland to Sunrise: A Year of Extraordinary Youth Activism
+*   _Qanta Ahmed_: Ilhan Omar Brings Shame to American Muslims
     
-*   _Jonathan Williams_: Americans Continue Their March to Low-Tax States
+*   _Isaac Chotiner_: Jake Sullivan on Inventing a Post-Trump Foreign Policy
     
 
 *   Previous
@@ -228,9 +228,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Will Sign Border Security Bill and Declare Emergency
-*   Judge Finds Manafort Lied to Investigators in Russia Probe
-*   Carlson: There Was No Russian Collusion, It Was Always a Hoax
+*   Trump Declares Declares U.S.-Mexico Border Emergency
+*   William Barr Sworn In for 2nd Stint as U.S. Attorney General
+*   Pelosi: Dem President Can Declare Emergency on Guns in Future
 *   Dems' Struggle With "MeToo" Charges Extends to California
 *   Will Sherrod Brown Carry the Blue-Collar Torch in 2020?
 *   Presidential Job Approval
@@ -245,26 +245,35 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalFOX News
-    *   Approve46
-    *   Disapprove52Disapprove +6
+*   2020 Democratic Presidential NominationMorning Consult\*
+    *   Biden29
+    *   Sanders22
+    *   Harris13
+    *   O'Rourke7
+    *   Warren8
+    *   Booker5
+    *   Bloomberg2
+    *   Castro1
+    *   Brown2
+    *   Klobuchar3
+    *   Gabbard1Biden +7
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve50
     *   Disapprove49Approve +1
+*   President Trump Job ApprovalFOX News
+    *   Approve46
+    *   Disapprove52Disapprove +6
 *   President Trump Job ApprovalGallup
     *   Approve44
     *   Disapprove52Disapprove +8
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve41
-    *   Disapprove57Disapprove +16
 
 More Latest Polls In The News
 
-*   McCabe: I Ordered Trump Obstruction Of Justice Probe After Troubling Conversation. Trump: "Poor Little Angel"
-*   Tucker Carlson: "Screechy Moron" Alexandria Ocasio-Cortez Not Demanding China To Adopt 'Green New Deal'
-*   Don Lemon: It Is Not Okay To Say "I Don't See Color" In 2019. What Is This "So-Called Colorblind Ideology?"
-*   CNN's Jake Tapper on Rep. Ilhan Omar: What About Trump's History Of Anti-Semitic Comments?
-*   Rep. Ilhan Omar vs. Elliott Abrams: Was El Salvador "Massacre" A "Fabulous Achievement" For U.S.?
+*   Ann Coulter: "The Only National Emergency Is That Our President Is An Idiot"
+*   Sarah Sanders: Ann Coulter Is Not "An Influential Voice In This Country" Or In The White House
+*   Schumer: Declaring National Emergency A "Lawless Act," "Gross Abuse" Of Presidential Power
+*   Alan Dershowitz: Using 25th Amendment To Oust Trump Is "Clearly An Attempt At A Coup D'Etat"
+*   Pelosi: Democratic President Will Now Be Able To Declare National Emergency On Guns In The Future
 
 *   Politics
 *   Policy
