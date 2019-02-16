@@ -44,6 +44,97 @@ expand
 Marriott Rewards
 
 *   English
+*   Collapsed Find &. Reserve Find a Hotel
+    
+    *   City search
+    *   Address search
+    
+    Location Location
+    
+    Check-in
+    
+    February2019 SunMonTueWedThuFriSat272829303112345678910111213141516171819202122232425262728123456789ClearDone
+    
+    Nights 123456789
+    
+    Check-out 1 night
+    
+    February2019 SunMonTueWedThuFriSat272829303112345678910111213141516171819202122232425262728123456789ClearDone
+    
+    My dates are flexible
+    
+    Rooms 1234-910-2526+
+    
+    *   1
+    *   2
+    *   3
+    *   4+
+    
+    Guests/room 123456
+    
+    *   1
+    *   2
+    *   3
+    *   4+
+    
+    Rewards number
+    
+    Use Rewards points What's this?
+    
+    Special Rates (proof of eligibility required at check-in)
+    
+    *   None
+    *   AAA/CAA
+    *   Senior Discount
+    *   Government &. Military
+    *   Corporate / promotional code promotional-code
+    
+    About special rates Hotels by Brand
+    
+    *   AC Hotels
+    *   Autograph Collection
+    *   Conference Centers
+    *   Courtyard
+    *   Delta Hotels and Resorts - NEW!
+    *   EDITION Hotels
+    *   Fairfield Inn &. Suites
+    *   Gaylord Hotels
+    *   JW Marriott
+    *   Marriott Executive Apartments
+    *   Marriott Hotels and Resorts
+    *   Marriott Vacation Club
+    *   MOXY Hotels
+    *   Protea Hotels
+    *   Renaissance Hotels
+    *   Residence Inn
+    *   SpringHill Suites
+    *   The Ritz-Carlton
+    *   TownePlace Suites
+    *   All brands
+    
+    _Find_
+    
+    Advanced search
+    
+    **Hotels For…**
+    
+    *   Business Meetings
+    *   Weddings
+    *   Conferences
+    
+    **Deals &. Packages**
+    
+    *   Hotel &. Flight Packages
+    *   Cars, Tours &. More
+    *   All Deals
+    
+    **Marriott Bonvoy® Member Rates**  
+    Our lowest rates when you book direct.
+    
+    See details
+    
+    CLOSE
+    
 *   Meetings &. Events
 *   Collapsed Reservations
     
