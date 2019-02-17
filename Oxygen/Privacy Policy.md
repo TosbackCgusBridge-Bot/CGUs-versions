@@ -1,22 +1,20 @@
-Skip to main content
+Skip to main content Verticals
 
 *   Crime Time
 *   Martinis &. Murder
-*   Trials
 *   Podcasts
 *   Shop Oxygen
 
+Toggle menu Main menu
+
 *   Shows
-    
     *   See All Shows
-    
     *   Chicago P.D.
     *   Cold Justice
     *   Dateline: Secrets Uncovered
     *   Deadly Cults
     *   In Ice Cold Blood
     *   Killer Couples
-    
     *   Mark of a Killer
     *   Martinis &. Murder
     *   Seduced By Evil
@@ -27,20 +25,18 @@ Skip to main content
 *   Schedule
 *   Channel Finder
 *   AR App
+*   Home
 
-Get Updates Facebook Twitter Newsletter Oxygen.com
+Get Updates Facebook Twitter Newsletter Close menu Oxygen.com Main menu
 
 *   Shows
-    
     *   See All Shows
-    
     *   Chicago P.D.
     *   Cold Justice
     *   Dateline: Secrets Uncovered
     *   Deadly Cults
     *   In Ice Cold Blood
     *   Killer Couples
-    
     *   Mark of a Killer
     *   Martinis &. Murder
     *   Seduced By Evil
@@ -51,12 +47,12 @@ Get Updates Facebook Twitter Newsletter Oxygen.com
 *   Schedule
 *   Channel Finder
 *   AR App
+*   Home
 
-Get Updates Sites
+Get Updates Facebook Twitter Instagram YouTube Newsletter Sites Verticals
 
 *   Crime Time
 *   Martinis &. Murder
-*   Trials
 *   Podcasts
 *   Shop Oxygen
 
@@ -99,13 +95,4 @@ Get Involved
 *   Corporate Info
 *   AdChoices
 
-Stay Connected Stay Connected
-
-©2019 Oxygen Media LLC. A Division of NBCUniversal
-
-AddThis SharingPinterestFacebookEmailCopy LinkAddThis Sharing
-
-*   Facebook
-*   Twitter
-*   Email
-*   Pinterest
+Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2019 Oxygen Media LLC. A Division of NBCUniversal
