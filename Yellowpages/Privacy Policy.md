@@ -61,7 +61,11 @@ AT&T Privacy Policy
 
   
 
-Our Privacy Commitments
+✕
+
+We've updated our Privacy Policy to list our advertising company Xandr as an AT&T affiliate and to clarify that the Policy considers advertising IDs as Anonymous Information when they can't be used to identify you. Learn more here.
+
+Code Snippet: Bottom Left Popup Styling Our Privacy Commitments
 
 **Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with us - including customers (wireless, Internet, digital TV, and telephone) and Web site visitors.**
 
@@ -77,7 +81,7 @@ About Our Privacy Policy
 Whenever you do something like buy one of our products, watch a show or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the actual policy is written in an easy to understand “Frequently Asked Questions” (FAQ) format. We want to simplify this explanation, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.  
 
   
-**Revised July 21, 2018**
+**Revised February 15, 2019**
 
 View Full Privacy Policy
 
@@ -146,7 +150,7 @@ Back to Top
 *   What is Personal Information? Information that identifies or reasonably can be used to identify you.
 *   What is Anonymous Information? This is information that doesn’t identify you and can't reasonably be used to identify you specifically.
 *   What is Aggregate Information? We take a whole bunch of people’s data and combine it into anonymous groups or categories.
-*   How do we use this information? We use and share this information in many ways including research, analysis, retail marketing, and Relevant Advertising. This data is also included in External Marketing &. Analytics Reports.
+*   How do we use this information? We use and share this information in many ways including research, analysis, retail marketing, and advertising. This data is also included in External Marketing &. Analytics Reports.
 *   Want to learn more? Go here.
 
 Back to Top
@@ -161,7 +165,7 @@ Back to Top
 
 *   For information about children’s safety and parental controls, view our AT&T Smart Controls and DIRECTV Parental Controls.
 *   You have choices about certain types of advertising you get from us;
-*   You can control whether your anonymous information is used in our External Marketing &. Analytics Reports;
+*   You can control whether your Anonymous Information is used in our External Marketing &. Analytics Reports;
 *   You can choose whether to receive marketing calls, e-mails or text messages or certain other communications from us;
 *   You have a choice about how we use your Customer Proprietary Network Information.
 
