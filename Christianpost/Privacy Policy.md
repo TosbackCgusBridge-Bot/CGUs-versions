@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Abortion survivor
-*   James MacDonald
 *   Purity rings
-*   Tim Tebow
-*   Jumbotron
+*   N. Korea
+*   Holy Spirit
+*   Mississippi
+*   Dirty dozen
 
 About Us
 
