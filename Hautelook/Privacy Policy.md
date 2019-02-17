@@ -8,189 +8,191 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Separates ft. M by Magaschoni Incl. Plus &. Petites
+    *   Tea Collection
+    *   Go Couture Sweaters, Knits &. Tees Blowout
+    *   FitFlop
     *   NARS
-    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
-    *   Born Comfort Sandals, Booties &. More
-    *   Resort Ready: West Kei &. More
+    *   Algenist Skin Care
+    *   Barse Sterling &. Gemstone Jewelry from $15
+    *   Free Shipping: Closet, Kitchen &. More Storage
+    *   Bed|Stu Sandals, Booties &. More Up to 50% Off
+    *   Vacation Ready: Styles Under $30
+    *   Chic &. Sleek: Skinnygirl Smoothers &. Shapers
+    *   Merrell Men
+    *   PEEK Beauty
+    *   Vacation Ready: Men's Swim, Tees &. More
+    *   Comfy Quilts
+    *   Spring Toy Preview ft. MagWorld
+    *   Barney Cools Under $50
     *   Presidents' Day Steals: Bottoms from $15
     *   Presidents' Day Steals: Tops &. More Up to 75% Off
     *   Presidents' Day Steals: Shoes Up to 75% Off
     *   Presidents' Day Steals: Men's Styles Up to 80% Off
     *   Presidents' Day Steals: Men's Shoes Up to 75% Off
+    
     *   Presidents' Day Steals: Coats Up to 80% Off
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
+    *   Resort Ready: West Kei &. More
     *   GOOD LUCK GEM
-    *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
-    *   HAH | Hot-As-Hell Swim &. Cover-Ups
+    *   Born Comfort Sandals, Booties &. More
     *   7 For All Mankind Men Starting at $30
     *   Reserved Footwear Up to 65% Off
     *   Fragrances Under $30
-    *   Barney Cools Under $50
     *   Free Shipping: Decor to Upgrade Your Walls
-    *   Kalorik Kitchen Appliances Starting at $18
+    *   HAH | Hot-As-Hell Swim &. Cover-Ups
     *   Carlos by Carlos Santana
     *   Free Shipping: Bath Towels &. More
     *   Perfect Sets for Kids Under $25
-    
-    *   Lafayette 148 New York Up to 70% Off
-    *   Dolce Vita Up to 55% Off
-    *   Vanity Room
-    *   Our Favorite Knit Tops Under $20
-    *   Lovely in Lace: Romantic Lingerie &. More
+    *   Kalorik Kitchen Appliances Starting at $18
     *   Free Shipping: Luxe Faux Fur Decor
     *   Champion Men's Activewear Under $30
     *   Stride Rite
-    *   Night Out: Chic Heels, Booties &. More
-    *   Bulova &. Citizen Watches Up to 70% Off
     *   Mezlan
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   14K Gold, Gemstones &. More Under $80
     *   Grande Cosmetics: Lips &. Lashes
     *   Free Shipping: Pop Culture Art &. More
+    
     *   Vacation Ready: Andy &. Evan and More
-    *   Top Moda Up to 65% Off
     *   Styles for Your Little Valentine
     *   Kiehl's Since 1851
     *   Perricone MD
-    *   Ron Hami Fine Jewelry Up to 50% Off
     *   New Men's Loafers ft. Swims
-    
-    *   Men's Premium Jean Shop
     *   Free Shipping: Chic Art, Pillows &. More
-    *   OshKosh
-    *   nANA jUDY
     *   Free Shipping: End-of-Season Bedding Steals
     *   Fun Tech Finds Starting at $10
-    *   DKNY Girls &. More
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Sheet Sets &. More Up to 75% Off
     *   Free Shipping: Quirky Decorative Accents
     *   Sassy Staples: Quotable Kitchen Towels
     *   Moon and Jai Kits &. More
-    *   Ben Sherman Shoes Up to 65% Off
     *   Free Shipping: Statement Wall Art Up to 55% Off
-    *   Keep It Casual: Men's Pants
-    *   philosophy
-    *   Free Shipping: ROLSER Trolley Carts &. More
-    *   Free Shipping: On-Trend Art ft. Mili Designs NYC
-    *   Free Shipping: Amrapur Towels Up to 75% Off
     *   Home Office Upgrades: Desk Decor &. More
     *   Free Shipping: Jars, Wooden Boxes &. More
+    *   Keep It Casual: Men's Pants
+    *   philosophy
+    *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
+    *   Free Shipping: Amrapur Towels Up to 75% Off
+    *   Free Shipping: ROLSER Trolley Carts &. More
 *   WomenShop Sale Events
     
+    *   Separates ft. M by Magaschoni Incl. Plus &. Petites
+    *   Go Couture Sweaters, Knits &. Tees Blowout
+    *   FitFlop
     *   NARS
-    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
-    *   Born Comfort Sandals, Booties &. More
-    *   Resort Ready: West Kei &. More
+    *   Algenist Skin Care
+    *   Barse Sterling &. Gemstone Jewelry from $15
+    *   Bed|Stu Sandals, Booties &. More Up to 50% Off
+    *   Vacation Ready: Styles Under $30
+    *   Chic &. Sleek: Skinnygirl Smoothers &. Shapers
+    *   PEEK Beauty
     *   Presidents' Day Steals: Bottoms from $15
     *   Presidents' Day Steals: Tops &. More Up to 75% Off
     *   Presidents' Day Steals: Shoes Up to 75% Off
     *   Presidents' Day Steals: Coats Up to 80% Off
-    *   GOOD LUCK GEM
-    *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
-    *   HAH | Hot-As-Hell Swim &. Cover-Ups
-    *   Fragrances Under $30
-    *   Carlos by Carlos Santana
-    *   Lafayette 148 New York Up to 70% Off
-    *   Dolce Vita Up to 55% Off
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
     
-    *   Vanity Room
-    *   Our Favorite Knit Tops Under $20
-    *   Lovely in Lace: Romantic Lingerie &. More
-    *   Night Out: Chic Heels, Booties &. More
-    *   Bulova &. Citizen Watches Up to 70% Off
+    *   Resort Ready: West Kei &. More
+    *   GOOD LUCK GEM
+    *   Born Comfort Sandals, Booties &. More
+    *   Fragrances Under $30
+    *   HAH | Hot-As-Hell Swim &. Cover-Ups
+    *   Carlos by Carlos Santana
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   14K Gold, Gemstones &. More Under $80
     *   Grande Cosmetics: Lips &. Lashes
-    *   Top Moda Up to 65% Off
     *   Kiehl's Since 1851
     *   Perricone MD
-    *   Ron Hami Fine Jewelry Up to 50% Off
     *   Moon and Jai Kits &. More
     *   philosophy
+    *   Handcrafted in Spain: UNOde50 Jewelry &. Watches
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
     *   Jewelry
     *   Tech Accessories
+    *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
+    *   Merrell Men
+    *   Vacation Ready: Men's Swim, Tees &. More
+    *   Barney Cools Under $50
     *   Presidents' Day Steals: Men's Styles Up to 80% Off
     *   Presidents' Day Steals: Men's Shoes Up to 75% Off
     *   7 For All Mankind Men Starting at $30
-    *   Reserved Footwear Up to 65% Off
-    *   Barney Cools Under $50
-    *   Champion Men's Activewear Under $30
-    *   Bulova &. Citizen Watches Up to 70% Off
     
+    *   Reserved Footwear Up to 65% Off
+    *   Champion Men's Activewear Under $30
     *   Mezlan
     *   Kiehl's Since 1851
     *   New Men's Loafers ft. Swims
-    *   Men's Premium Jean Shop
-    *   nANA jUDY
-    *   Ben Sherman Shoes Up to 65% Off
     *   Keep It Casual: Men's Pants
     
     Shop By Category
-    *   Shoes
     *   Clothing
-    *   Watches
+    *   Shoes
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Tea Collection
+    *   Spring Toy Preview ft. MagWorld
     *   Perfect Sets for Kids Under $25
     *   Stride Rite
     *   Vacation Ready: Andy &. Evan and More
     *   Styles for Your Little Valentine
-    *   OshKosh
-    *   DKNY Girls &. More
     
     Shop By Category
+    *   Girls' Sizes 2T-6X
     *   Girls' Shoes
+    *   Boys' Sizes 2T-7
+    *   Baby Girl
     *   Boys' Shoes
     *   Girls' Sizes 7-16
-    *   Girls' Sizes 2T-6X
-    *   Baby Girl
-    *   Boys' Sizes 8-20
     *   Baby Boy
-    *   Boys' Sizes 2T-7
+    *   Boys' Sizes 8-20
     *   Baby Gear &. Essentials
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Closet, Kitchen &. More Storage
+    *   Comfy Quilts
     *   Free Shipping: Decor to Upgrade Your Walls
-    *   Kalorik Kitchen Appliances Starting at $18
     *   Free Shipping: Bath Towels &. More
+    *   Kalorik Kitchen Appliances Starting at $18
     *   Free Shipping: Luxe Faux Fur Decor
     *   Free Shipping: Pop Culture Art &. More
     *   Free Shipping: Chic Art, Pillows &. More
     *   Free Shipping: End-of-Season Bedding Steals
     *   Fun Tech Finds Starting at $10
-    *   Free Shipping: Kitchen Blowout
     
+    *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Sheet Sets &. More Up to 75% Off
     *   Free Shipping: Quirky Decorative Accents
     *   Sassy Staples: Quotable Kitchen Towels
     *   Free Shipping: Statement Wall Art Up to 55% Off
-    *   Free Shipping: ROLSER Trolley Carts &. More
-    *   Free Shipping: On-Trend Art ft. Mili Designs NYC
-    *   Free Shipping: Amrapur Towels Up to 75% Off
     *   Home Office Upgrades: Desk Decor &. More
     *   Free Shipping: Jars, Wooden Boxes &. More
+    *   Free Shipping: Amrapur Towels Up to 75% Off
+    *   Free Shipping: ROLSER Trolley Carts &. More
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
+    *   Kitchen &. Tabletop
     *   Bath
     *   Storage &. Organization
+    *   Luggage &. Travel
+    *   Rugs &. Doormats
     *   Outdoor Living
     *   Accent Furniture
-    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
     *   NARS
+    *   Algenist Skin Care
+    *   PEEK Beauty
     *   Fragrances Under $30
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Grande Cosmetics: Lips &. Lashes
@@ -201,10 +203,10 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     
     Shop By Category
     *   Makeup
+    *   Fragrance
     *   Skin Care
     *   Bath &. Body
     *   Hair Care
-    *   Fragrance
     *   Nails
     *   Tools &. Accessories
 
