@@ -25,11 +25,11 @@ Shop Departments
 Near YouFind a StoreBackPROM DRESSESSHOP ALLPROM DRESSESSHOP ALL
 
 *   $8679after couponwas $169 Morgan &. Co. Sleeveless Party Dress-JuniorsAdd To Cart
-*   $8679after couponwas $169 B. Smart Sleeveless Party Dress-JuniorsAdd To Cart
-*   $12879after couponwas $250 DJ Jaz Sleeveless Applique Ball Gown-JuniorsAdd To Cart
 *   $10289after couponwas $200 City Triangle Sleeveless Dress Set-JuniorsAdd To Cart
+*   $12879after couponwas $250 DJ Jaz Sleeveless Applique Ball Gown-JuniorsAdd To Cart
 *   $10289after couponwas $200 City Triangle Sleeveless Party Dress-JuniorsAdd To Cart
 *   $8679after couponwas $169 My Michelle Sleeveless Fitted Gown-JuniorsAdd To Cart
+*   $8679after couponwas $169 B. Smart Sleeveless Party Dress-JuniorsAdd To Cart
 *   $8679after couponwas $169 Speechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
 
 Shop and Save at JCPenney
