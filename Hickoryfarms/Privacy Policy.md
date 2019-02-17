@@ -9,8 +9,7 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Valentine's Day
-    *   Spring
+    Occasions*   Spring
     *   Game Day
     *   Birthday GiftsMost Popular Spring Gifts Birthday Gifts
 *   Meat &. Cheese
@@ -89,8 +88,7 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Valentine's Day
-    *   Spring
+    Occasions*   Spring
     *   Game Day
     *   Birthday GiftsMost Popular Spring Gifts Birthday Gifts
 *   Meat &. Cheese
@@ -230,3 +228,5 @@ Sorry, this offer is just for new subscribers!
 is already subscribed.
 
 Watch your inbox to be the first to get exclusive Hickory Farms email offers!
+
+Feedback
