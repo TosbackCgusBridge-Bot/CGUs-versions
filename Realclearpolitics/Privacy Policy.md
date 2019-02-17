@@ -111,6 +111,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Josh Gerstein_: Legal War Looms Over Trump's Emergency Declaration
+    
+*   _Byron York_: A Glass Quarter Full Reading of Trump's Border Deal
+    
+*   _Annie Karni_: Trump's Familiar Playbook After a Loss: Distract &. Digress
+    
+*   _Eugene Robinson_: There's a National Emergency--Its Name Is Trump
+    
+*   _Dan Ferguson_: My Daughter Died Because Our Border Is Not Secure
+    
+*   _Susan Glasser_: Dems' Investigations of Trump More Real Than His Wall
+    
+*   _Roger Kimball_: The Deep Blob and Its Plot to Unseat the President
+    
+*   _Willis Krumholz_: Foreign Policy Establishment Is a Raging Dumpster Fire
+    
+*   _David Ignatius_: U.S. Might Stay in Syria and Leave at the Same Time
+    
+*   _Daniel Di Martino_: Venezuela Was My Home, and Socialism Destroyed It
+    
+*   _Jeremiah Moss_: Could This Be the End of the Neoliberal Hold on NYC?
+    
+*   _Doug Schoen_: Amazon's Cancellation Is a Catastrophic Loss for NYC
+    
+*   _Kalev Leetaru_: How Immigration Coverage Shifted From People to Barriers
+    
+*   _Julie Bindel_: Meghan Murphy's War on Twitter
+    
+*   _Keith Whittington_: Why Controversial Remarks by Faculty Must Be Protected
+    
+*   _Emma Green_: Why Does the Catholic Church Keep Failing on Sexual Abuse?
+    
+*   _Samuel Abrams_: Yes, Black Millennials Believe in the American Dream
+    
 *   _Michael Goodwin_: McCabe's Corruption May Help Lift Shroud of Secrecy
     
 *   _Nate Silver_: Trump Keeps Doubling Down on the Same Failed Strategy
@@ -124,40 +158,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Veronica de Rugy_: Healthcare's Future Is Innovation, Not Government Control
     
 *   _Dahlia Lithwick_: In 2020, Voters Should Abandon Obsession With 'Authenticity'
-    
-*   _Taylor Day_: Jussie Smollett's 'Hate Crime' Hoax Unravels
-    
-*   _David Ignatius_: Democrats Begin New Phase of Trump-Russia Probe
-    
-*   _Rivkin &. Foley_: Stop the Impeachment Fishing Expedition
-    
-*   _Brad Stone_: Amazon's Escape From New York
-    
-*   _Peter Bergen_: There Is No National Emergency
-    
-*   _Joe diGenova_: Trump on Solid Legal Ground in Declaring Emergency
-    
-*   _Sally Kohn_: A Desperate Act of a Desperate Man
-    
-*   _Larry O'Connor_: A Revealing Two Weeks for Democrats
-    
-*   _Natasha Bertrand_: The Senate's Russia Probe Faces a Reckoning
-    
-*   _Julie Kelly_: After the Coup Is Gone
-    
-*   _Matthew Yglesias_: New York Is Better Off Without Amazon's HQ2
-    
-*   _Steve Cuozzo_: The Amazon-Slayers Are Only Getting Started
-    
-*   _Jamelle Bouie_: Trump Is Making 'Socialism' Sound Pretty Good
-    
-*   _Matthew Continetti_: What to Do About the Rebirth of Socialism
-    
-*   _Jeremy Ben-Ami_: Stop Alleging Anti-Semitism Just to Score Political Points
-    
-*   _Qanta Ahmed_: Ilhan Omar Brings Shame to American Muslims
-    
-*   _Isaac Chotiner_: Jake Sullivan on Inventing a Post-Trump Foreign Policy
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Declares Declares U.S.-Mexico Border Emergency
-*   William Barr Sworn In for 2nd Stint as U.S. Attorney General
+*   Trump Declares U.S.-Mexico Border Emergency
+*   Supreme Court to Decide If 2020 Census Can Ask About Citizenship
 *   Pelosi: Dem President Can Declare Emergency on Guns in Future
+*   William Barr Sworn In for 2nd Stint as U.S. Attorney General
 *   Dems' Struggle With "MeToo" Charges Extends to California
-*   Will Sherrod Brown Carry the Blue-Collar Torch in 2020?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,31 +245,31 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationMorning Consult\*
-    *   Biden29
-    *   Sanders22
-    *   Harris13
-    *   O'Rourke7
-    *   Warren8
-    *   Booker5
+*   2020 Democratic Presidential NominationEmerson
+    *   Biden27
+    *   Sanders17
+    *   Harris15
+    *   Warren9
+    *   O'Rourke4
+    *   Booker9
+    *   Klobuchar5
     *   Bloomberg2
-    *   Castro1
-    *   Brown2
-    *   Klobuchar3
-    *   Gabbard1Biden +7
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
-*   President Trump Job ApprovalFOX News
-    *   Approve46
-    *   Disapprove52Disapprove +6
-*   President Trump Job ApprovalGallup
-    *   Approve44
-    *   Disapprove52Disapprove +8
+    *   Brown3
+    *   Gabbard2
+    *   Castro1Biden +10
+*   General Election: Trump vs. BidenEmerson
+    *   Biden55
+    *   Trump45Biden +10
+*   General Election: Trump vs. SandersEmerson
+    *   Sanders51
+    *   Trump49Sanders +2
+*   General Election: Trump vs. HarrisEmerson
+    *   Harris52
+    *   Trump48Harris +4
 
 More Latest Polls In The News
 
-*   Ann Coulter: "The Only National Emergency Is That Our President Is An Idiot"
+*   Coulter: "The Only National Emergency Is That Our President Is An Idiot". Trump "Fooling The Rubes"
 *   Sarah Sanders: Ann Coulter Is Not "An Influential Voice In This Country" Or In The White House
 *   Schumer: Declaring National Emergency A "Lawless Act," "Gross Abuse" Of Presidential Power
 *   Alan Dershowitz: Using 25th Amendment To Oust Trump Is "Clearly An Attempt At A Coup D'Etat"
