@@ -35,7 +35,7 @@ Hot Topics
 *   N. Korea
 *   Holy Spirit
 *   Mississippi
-*   Dirty dozen
+*   CCCU
 
 About Us
 
