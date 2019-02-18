@@ -23,7 +23,7 @@ EARLY ACCESS: PRESIDENTS DAY SALE UP TO 75% OFF. SHOP NOW!
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
