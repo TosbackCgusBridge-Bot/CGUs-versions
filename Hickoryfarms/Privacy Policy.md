@@ -148,7 +148,7 @@
     *   Graduation &. CongratulationsMost Popular Spring Gifts
 *   Business Gifts
 
-1.800.753.8558 Business Gifts Menu Search Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+1.800.753.8558 Business Gifts Menu Search 0 Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Privacy Policy
@@ -228,5 +228,3 @@ Sorry, this offer is just for new subscribers!
 is already subscribed.
 
 Watch your inbox to be the first to get exclusive Hickory Farms email offers!
-
-Feedback
