@@ -1,4 +1,4 @@
-Apps
+<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Apps
 
 *   {text}
     
@@ -52,8 +52,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Family Barn
     *   Let's Fish!: Multiplayer Fishing Game Online
+    *   Family Barn
     *   Backgammon: Board Game Online Multiplayer
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
@@ -88,12 +88,12 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Warbanner
     *   Sniper Team 2
-    *   Stunt Skateboard 3D
     *   Uphill Rush 7: Waterpark
-    *   Super Smash Flash 2
+    *   Stunt Skateboard 3D
     *   Slither.io
     *   Deer Hunter
     *   Total Front: Army War Game
+    *   Super Smash Flash 2
     *   Electricman 2: Stickman Fighting Game
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
 *   Top Categories
@@ -124,8 +124,8 @@ View more results
     *   FNAF - Sister Location Custom
     *   FNAF: Sister Location Custom Night
     *   Trap Adventure 2
-    *   Uphill Rush
     *   World Craft 2
+    *   Uphill Rush
     *   Tom and Jerry: Mouse Maze
     *   TJOC: The Joy Of Creation
 *   Top Categories
@@ -157,8 +157,8 @@ View more results
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   TenTrix
     *   Bubble Machine: 2 Player Game
-    *   The Impossible Quiz 2
     *   1001 Arabian Nights
+    *   The Impossible Quiz 2
     *   Fireboy &. Watergirl 2: The Light Temple
 *   Top Categories
     
@@ -181,16 +181,16 @@ View more results
     
     Best Games
     *   Pixel Art: Color by Number
-    *   Electricman 2: Stickman Fighting Game
     *   Ellie: Get Ready With Me
+    *   Electricman 2: Stickman Fighting Game
     *   Love Tester 2.0
     *   Burger Restaurant Express
     *   Bartender
     *   Penguin Diner: Food Restaurant Game
     *   Papa's Cupcakeria
     *   Create a House: Building Game
-    *   Papa's Freezeria
     *   Back To School: Princesses Rush
+    *   Papa's Freezeria
     *   Fidget Spinner
 *   Top Categories
     
@@ -221,8 +221,8 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Bus Man Parking 3D
     *   Extreme Off-Road Cars 2
-    *   Parking Training
     *   Russian Car Driver
+    *   Parking Training
     *   Neon Biker
 *   Top Categories
     
@@ -249,9 +249,9 @@ View more results
     *   Table Tennis World Tour
     *   8-Ball
     *   Neon Biker
-    *   Baseball
     *   Ultimate Boxing
     *   Playing Soccer
+    *   Baseball
     *   Billiards Master Pro
     *   Goalkeeper Premier: Football Game
     *   4x4 Soccer
@@ -462,4 +462,4 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookie Consent
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
