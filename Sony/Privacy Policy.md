@@ -129,7 +129,7 @@ Watch “Deadly Class” on SYFY
 
 Huge congrats to @HERMusicx, @MarkRonson, @diplo, Childish Gambino (@donaldglover), @leonbridges, @Pharrell, and @HAIMtheband on their #GRAMMYs wins 🙌
 
-5 days ago
+6 days ago
 
 View Tweet
 
@@ -149,7 +149,7 @@ Watch More Lost In Music Episodes
 
 Watch a master at work. Celebrated illustrator Yoji Shinkawa gives us a rare glimpse into his creative process. Full video and Q&A:  https://play.st/2tgKAfK  pic.twitter.com/wumgToOmIA
 
-5 days ago
+6 days ago
 
 View Tweet
 
