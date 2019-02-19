@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Daniel Greenfield_: The Incredible Hypocrisy of Jeff Bezos
+*   _Steve Cortes_: Make Media Great Again
     
-*   _Peter Shane_: Trump Trying to Hollow Out System of Checks &. Balances
+*   _Benjamin R. Dierker_: Why Do People Hope Hate Crimes Occurred?
     
-*   _Mark Penn_: FBI, DOJ Trampled Constitution in Attempt to Get Trump
+*   _Andrew Kragie_: The Furor in Virginia Has Quieted
     
-*   _Michelle Goldberg_: The Necessary Idealism of the Green New Deal
+*   _Francey Hakes_: McCabe's Shocking Claims Prove Bloodless Coup Rolls On
     
-*   _Justin Haskins_: Left's Green New Deal Would Destroy the American Dream
+*   _Adam Jentleson_: How Mitch McConnell Enables Trump
     
-*   _Parsi &. Wertheim_: Dem Party Elites Silence Ilhan Omar at Their Peril
+*   _Charles Hurt_: 'Never Trumpers' Are Suddenly Constitutionalists
     
-*   _James Freeman_: Ilhan Omar's History of America
+*   _Juan Williams_: America Needs Radical Solutions
     
-*   _Jay Michaelson_: It's Up to Chief Justice Roberts to Stop Trump's Wall
+*   _Ed Morrissey_: AOC Clearly Doesn't Know Anything About the Berlin Wall
     
-*   _F.H. Buckley_: Beto O'Rourke Is Being a Hypocrite About the Border Wall
+*   _John Dickerson_: A Brief History of Presidential-Candidacy Announcements
     
-*   _Bill Scher_: How Does a Straight White Male Democrat Run for President?
+*   _Dave Levinthal_: How Trump Created a Permanent Campaign
     
-*   _Debra Saunders_: McCabe Has History of Misleading Statements
+*   _Scott Powell_: Washington and Lincoln as Relevant Today as Ever
     
-*   _Eleanor Clift_: Pat Caddell's Political Evolution: From Carter to Trump
+*   _Victor Davis Hanson_: Autopsy of a Dead Coup
     
-*   _Jemele Hill_: Colin Kaepernick Won. The NFL Lost.
+*   _Andrew McCabe_: Investigating the President of the United States
     
-*   _Debra Heine_: How the Media Failed Again on the Jussie Smollett Hoax
+*   _Jason Chaffetz_: Andrew McCabe Should Be On Trial, Not a Book Tour
     
-*   _Josh Gerstein_: Legal War Looms Over Trump's Emergency Declaration
+*   _E.J. Dionne_: The Real National Emergency: The Triviality of Our Politics
     
-*   _Byron York_: A Glass Quarter Full Reading of Trump's Border Deal
+*   _Robert Stacy McCain_: Jussie Smollett: Bearing False Witness
     
-*   _Annie Karni_: Trump's Familiar Playbook After a Loss: Distract &. Digress
+*   _Kyle Smith_: Don't Expect Apologies Over the Smollett Race Hoax
     
-*   _Eugene Robinson_: There's a National Emergency--Its Name Is Trump
+*   _Sheryl Gay Stolberg_: GOP Already Demonizing Dems as Socialists &. Baby Killers
     
-*   _Dan Ferguson_: My Daughter Died Because Our Border Is Not Secure
+*   _Frank Miele_: Journalism 101: Let Answers Speak for Themselves
     
-*   _Susan Glasser_: Dems' Investigations of Trump More Real Than His Wall
+*   _David Leonhardt_: New York Did Us All a Favor By Standing Up to Amazon
     
-*   _Roger Kimball_: The Deep Blob and Its Plot to Unseat the President
+*   _Salena Zito_: AOC Kills Jobs Middle America Would Love to Have
     
-*   _Willis Krumholz_: Foreign Policy Establishment Is a Raging Dumpster Fire
+*   _Timothy O'Brien_: In Trump's World, He Never Loses
     
-*   _David Ignatius_: U.S. Might Stay in Syria and Leave at the Same Time
+*   _Jonathan Turley_: Why Trump Will Win the Wall Fight
     
-*   _Daniel Di Martino_: Venezuela Was My Home, and Socialism Destroyed It
+*   _Andrew Sullivan_: New Hope and New Danger on the Left
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Chicago Police Investigating Whether Smollett Coordinated Attack
 *   Trump Declares U.S.-Mexico Border Emergency
+*   Graham Pledges Investigation of "Bureaucratic Coup" Against Trump
 *   Supreme Court to Decide If 2020 Census Can Ask About Citizenship
-*   Pelosi: Dem President Can Declare Emergency on Guns in Future
 *   William Barr Sworn In for 2nd Stint as U.S. Attorney General
-*   Dems' Struggle With "MeToo" Charges Extends to California
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,6 +245,12 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove49Approve +1
+*   Direction of CountryRasmussen Reports
+    *   Right Direction40
+    *   Wrong Track55Wrong Track +15
 *   2020 Democratic Presidential NominationEmerson
     *   Biden27
     *   Sanders17
@@ -260,20 +266,14 @@ Latest PollsAll Polls
 *   General Election: Trump vs. BidenEmerson
     *   Biden55
     *   Trump45Biden +10
-*   General Election: Trump vs. SandersEmerson
-    *   Sanders51
-    *   Trump49Sanders +2
-*   General Election: Trump vs. HarrisEmerson
-    *   Harris52
-    *   Trump48Harris +4
 
 More Latest Polls In The News
 
+*   Andrew McCabe: Trump's Own Words Prompted Probe, He Spoke About The FBI "In A Derogatory Way"
 *   Stephen Miller Defends President Trump's Decision To Declare A National Emergency On The Southern Border
-*   Lindsey Graham Vows To Hold Hearing On McCabe's "Stunning" 25th Amendment Comments
+*   Graham Vows Hearing Into McCabe's 25th Amendment Comments, "Attempted Bureaucratic Coup"
 *   Biden: Trump's Brutality To Immigrants Is An "Embarrassment," Americans "Know That's Not Right"
 *   Coulter: "The Only National Emergency Is That Our President Is An Idiot". Trump "Fooling The Rubes"
-*   Alan Dershowitz: Using 25th Amendment To Oust Trump Is "Clearly An Attempt At A Coup D'Etat"
 
 *   Politics
 *   Policy
