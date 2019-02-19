@@ -5,30 +5,26 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Alita: Battle Angel
     *   The Lego Movie 2: The Second Part
+    *   Isn't It Romantic
     *   What Men Want
+    *   Happy Death Day 2U
     *   Cold Pursuit
     *   The Upside
     *   Glass (2019)
     *   The Prodigy (2019)
     *   Green Book
     *   Aquaman
-    *   Spider-Man: Into the Spider-Verse
-    *   Miss Bala (2019)
-    *   A Dog's Way Home
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Alita: Battle Angel
-    *   Happy Death Day 2U
-    *   Isn't It Romantic
-    *   Birds of Passage (2018)
-    *   Donnybrook
+    *   How to Train Your Dragon: The Hidden World
     *   Fighting with My Family
-    *   Hotel by the River
-    *   Ruben Brandt, Collector
-    *   Sorry Angel
+    *   Prosecuting Evil: The Extraordinary World of Ben Ferencz
+    *   Run the Race
+    *   Total Dhamaal
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -37,7 +33,6 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   How to Train Your Dragon: The Hidden World
     *   Tyler Perry's A Madea Family Funeral
     *   Greta (2019)
     *   Five Feet Apart
@@ -46,6 +41,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Sunset (2019)
     *   Us (2019)
     *   Dumbo (2019)
+    *   Unplanned (2019)
     *   See All Coming Soon
     
     Explore More
