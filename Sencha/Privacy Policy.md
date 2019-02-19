@@ -25,6 +25,7 @@ Sencha.com
     *   Docs
     *   Examples
 *   Buy Now
+*   Contact Us
 *   Free Trial
 
 *   日本語
