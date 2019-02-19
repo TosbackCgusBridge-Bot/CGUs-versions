@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 667 games
-*   Most Popular Games 18762 games
+*   Best of new games 672 games
+*   Most Popular Games 18769 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,731 games
+*   Games for girls 23,738 games
 *   Driving &. Racing Games 6,778 games
 *   Strategy &. RPG Games 2,406 games
-*   Management Games 3,642 games
+*   Management Games 3,641 games
 *   Thinking Games 11,928 games
-*   Action &. Adventure Games 15,959 games
-*   Sports Games 2,175 games
+*   Action &. Adventure Games 15,960 games
+*   Sports Games 2,177 games
 *   Shooting Games 8,402 games
-*   Fighting Games 2,094 games
-*   Skill Games 10,800 games
-*   Arcade &. Classic Games 12,764 games
+*   Fighting Games 2,093 games
+*   Skill Games 10,805 games
+*   Arcade &. Classic Games 12,767 games
 *   Fun &. Crazy Games 2,486 games
 
 Play with friends  
-Powered by Y8 Account 138 Y8 Multiplayer Games 1,865 Y8 High Score Games 1,126 Y8 Achievements Games 801 Y8 Screenshots Games 1,389 Y8 Online Save Games 2,891 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 138 Y8 Multiplayer Games 1,868 Y8 High Score Games 1,126 Y8 Achievements Games 801 Y8 Screenshots Games 1,391 Y8 Online Save Games 2,894 All Y8 Games Games Last Highscore:
 
-**19** points on Slope Y8 by Fire\_Gamer2
+**15,303** points on Colorboom by ToTo
 
 Help us improve Bad translation? Social
 
