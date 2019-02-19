@@ -12,7 +12,8 @@ I accept Menu
 
 *   Who we are Who we are
     
-    Founded in 1865, HSBC is the world’s leading international bank.
+    Founded in 1865, HSBC is one of the world’s  
+    leading international banks.
     
     Go to this section
     *   Main menu
@@ -40,7 +41,7 @@ I accept Menu
         *   Our brand
         *   Overview
         *   Sponsorship
-    *   Contact usOUR BUSINESSES We serve more than 38 million customers Close Navigation
+    *   Contact usOUR BUSINESSES We serve more than 39 million customers Close Navigation
 *   Our approach Our approach
     
     At HSBC, how we do business is as important as  
@@ -146,7 +147,7 @@ I accept Menu
         *   Annual General Meeting
     *   Investor FAQs
     *   Investor contacts
-    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)ANNUAL RESULTS 2018 Get the webcast and conference call details Close Navigation
+    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)ANNUAL RESULTS 2018 Find the documents and webcast details Close Navigation
 *   Media Media
     
     Find the latest media releases, key speeches by executives, and details of recent awards.
