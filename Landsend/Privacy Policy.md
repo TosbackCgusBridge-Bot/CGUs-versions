@@ -36,7 +36,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off full-price styles!
+Receive 40% off full-price styles!
 
 code: FAMILY pin: 4126 DETAILS
 
