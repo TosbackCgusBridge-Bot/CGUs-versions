@@ -47,6 +47,10 @@ End top navigation Search
     *   Government Relations
     *   Judicial Officer
     *   Legal
+        *   Section 508
+        *   USPS Privacy
+        *   FOIA
+        *   No FEAR Act
     *   Our History
     *   Postal Facts
 *   What We're Doing
