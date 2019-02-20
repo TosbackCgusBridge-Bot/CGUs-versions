@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Easy IoT with Ubuntu Core and Raspberry Pi ›
 *   The forecast is robots ›
 *   ACPI AML Runtime Debugger in Ubuntu 18.04 (x64) ›
 *   Bootstrap Your Snap ›
 *   A fresh look for releases.ubuntu.com ›
-*   Understanding containerised workloads for Telco ›
