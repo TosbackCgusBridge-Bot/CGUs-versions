@@ -32,10 +32,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 Hot Topics
 
 *   Harvest Bible
-*   Homeschooling
-*   Religious test
-*   Purity rings
-*   Holy Spirit
+*   SBC
+*   Neal McDonough
+*   Trudy Cathy White
+*   Cliff Sims
 
 About Us
 
