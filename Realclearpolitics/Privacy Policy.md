@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Steve Cortes_: Make Media Great Again
+*   _McElwee_: Republican Party Is Losing Precious Voters
     
-*   _Benjamin R. Dierker_: Why Do People Hope Hate Crimes Occurred?
+*   _Tucker Carlson_: Can Democrats Survive Without Stoking Race Hatred?
     
-*   _Andrew Kragie_: The Furor in Virginia Has Quieted
+*   _Ruth Graham_: Yearbooks, Harassment, Racism: What Is 'Dirt' in 2019?
     
-*   _Francey Hakes_: McCabe's Shocking Claims Prove Bloodless Coup Rolls On
+*   _Philip Wegmann_: Snapshots of Dems' 2020 Field as Sanders Enters the Fray
     
-*   _Adam Jentleson_: How Mitch McConnell Enables Trump
+*   _Sean Davis_: Trump on Solid Legal Ground in Declaring Border Emergency
     
-*   _Charles Hurt_: 'Never Trumpers' Are Suddenly Constitutionalists
+*   _Ian Millhiser_: How Congress Could Rein In the Supreme Court
     
-*   _Juan Williams_: America Needs Radical Solutions
+*   _John Tamny_: Why Are Libertarians So Up in Arms About Amazon?
     
-*   _Ed Morrissey_: AOC Clearly Doesn't Know Anything About the Berlin Wall
+*   _George Neumayr_: Time for a 2nd Special Counsel?
     
-*   _John Dickerson_: A Brief History of Presidential-Candidacy Announcements
+*   _Natasha Bertrand_: McCabe Couldn't Believe What Trump Said About Putin
     
-*   _Dave Levinthal_: How Trump Created a Permanent Campaign
+*   _Karol Markowicz_: We Shouldn't Let the ISIS Bride Come Back to U.S.
     
-*   _Scott Powell_: Washington and Lincoln as Relevant Today as Ever
+*   _Carl Cannon_: When Reagan Righted FDR's Wrong
     
-*   _Victor Davis Hanson_: Autopsy of a Dead Coup
+*   _Heather Mac Donald_: The Frenzied Search for Racism
     
-*   _Andrew McCabe_: Investigating the President of the United States
+*   _LZ Granderson_: Why I Am Still Hoping Jussie Smollett Is Telling the Truth
     
-*   _Jason Chaffetz_: Andrew McCabe Should Be On Trial, Not a Book Tour
+*   _Debra Heine_: Why Does the Dem Media Keep Falling for Obvious Hoaxes?
     
-*   _E.J. Dionne_: The Real National Emergency: The Triviality of Our Politics
+*   _Roger Cohen_: Europe to Mike Pence: No, Thank You
     
-*   _Robert Stacy McCain_: Jussie Smollett: Bearing False Witness
+*   _Walter Russell Mead_: Europe's Challenge Is Decline, Not Trump
     
-*   _Kyle Smith_: Don't Expect Apologies Over the Smollett Race Hoax
+*   _Max Greenwood_: Sanders Announces He'll Run for President Again in 2020
     
-*   _Sheryl Gay Stolberg_: GOP Already Demonizing Dems as Socialists &. Baby Killers
+*   _David Catanese_: The Early State of Play in Iowa
     
-*   _Frank Miele_: Journalism 101: Let Answers Speak for Themselves
+*   _Andy Puzder_: Dems Wage a Losing Battle Against Trump's Economy
     
-*   _David Leonhardt_: New York Did Us All a Favor By Standing Up to Amazon
+*   _Richard Cohen_: After Trump, Can America Ever Be Great Again?
     
-*   _Salena Zito_: AOC Kills Jobs Middle America Would Love to Have
+*   _Julie Kelly_: Adam Schiff: The Jussie Smollett of Russia Collusion
     
-*   _Timothy O'Brien_: In Trump's World, He Never Loses
+*   _Jack Shafer_: Mueller's Case for Collusion Comes Into View
     
-*   _Jonathan Turley_: Why Trump Will Win the Wall Fight
+*   _Charles Lipson_: The Bleeding Wounds of Our Constitutional Order
     
-*   _Andrew Sullivan_: New Hope and New Danger on the Left
+*   _Nolan Rappaport_: Trump Will Likely Win Legal Fight on Border Emergency
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Bernie Sanders Announces He's Running for President in 2020
 *   Chicago Police Investigating Whether Smollett Coordinated Attack
+*   Lara Logan Slams Media's Left-Wing Democratic Bias, Sinking Standards
 *   Trump Declares U.S.-Mexico Border Emergency
-*   Graham Pledges Investigation of "Bureaucratic Coup" Against Trump
 *   Supreme Court to Decide If 2020 Census Can Ask About Citizenship
-*   William Barr Sworn In for 2nd Stint as U.S. Attorney General
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,35 +245,35 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
-*   Direction of CountryRasmussen Reports
-    *   Right Direction40
-    *   Wrong Track55Wrong Track +15
-*   2020 Democratic Presidential NominationEmerson
-    *   Biden27
-    *   Sanders17
-    *   Harris15
-    *   Warren9
-    *   O'Rourke4
-    *   Booker9
-    *   Klobuchar5
+*   2020 Democratic Presidential NominationMorning Consult\*
+    *   Biden30
+    *   Sanders21
+    *   Harris11
+    *   Warren8
+    *   O'Rourke7
+    *   Booker5
+    *   Klobuchar4
     *   Bloomberg2
-    *   Brown3
-    *   Gabbard2
-    *   Castro1Biden +10
-*   General Election: Trump vs. BidenEmerson
-    *   Biden55
-    *   Trump45Biden +10
+    *   Brown1
+    *   Gabbard1
+    *   Castro1Biden +9
+*   North Carolina: Trump vs. BidenCivitas (R)
+    *   Trump43
+    *   Biden39Trump +4
+*   North Carolina: Trump vs. SandersCivitas (R)
+    *   Trump46
+    *   Sanders34Trump +12
+*   North Carolina: Trump vs. HarrisCivitas (R)
+    *   Trump45
+    *   Harris34Trump +11
 
 More Latest Polls In The News
 
-*   Andrew McCabe: Trump's Own Words Prompted Probe, He Spoke About The FBI "In A Derogatory Way"
-*   Stephen Miller Defends President Trump's Decision To Declare A National Emergency On The Southern Border
-*   Graham Vows Hearing Into McCabe's 25th Amendment Comments, "Attempted Bureaucratic Coup"
-*   Biden: Trump's Brutality To Immigrants Is An "Embarrassment," Americans "Know That's Not Right"
-*   Coulter: "The Only National Emergency Is That Our President Is An Idiot". Trump "Fooling The Rubes"
+*   Toobin: Having "So Many Bad Stories" About Trump "Almost Helps The President," Hard To Keep Up With
+*   Lara Logan Slams Media For Becoming Left-Wing "Propagandists" With "Horsesh\*t" Low Standards
+*   Trump Slams "Tyrannical Socialist Government" Of Venezuela: "This Will Never Happen To Us"
+*   Bernie Sanders on Howard Schultz: Any Billionaire Can Throw Ads On TV And Become Credible
+*   McCabe: We Told McConnell And Paul Ryan About FBI Counterintelligence Investigation Into Trump
 
 *   Politics
 *   Policy
