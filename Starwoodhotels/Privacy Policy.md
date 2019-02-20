@@ -1,4 +1,4 @@
-For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
 
 expand
 
@@ -568,5 +568,3 @@ Marriott For:
 *   Tracking Preferences
 
 © 1996 - 2019 Marriott International, Inc. All rights reserved. Marriott proprietary information
-
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
