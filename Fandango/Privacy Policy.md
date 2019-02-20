@@ -70,7 +70,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Danny Boyle's 'Yesterday' Gets First Trailer. Here's Everything We Know Read More
-    *   Edgy Octavia Spencer Stars in 'Ma'. Here's Everything We Know Read More
+    *   Today in Movie Culture: ‘Captain Marvel’ Parody, Oscar Nominee Impersonations, ‘Lego Movie 2’ Easter Eggs and More Read More
     *   The First 'Frozen II' Teaser Has Us Ready for Fall. Here's Everything We Know Read More
     
     Explore Content
