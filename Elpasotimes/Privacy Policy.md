@@ -1,4 +1,4 @@
-close dialogdiscover more sports, news &. events in 201999¢ Per MonthSubscribe Todayclose dialogSUBSCRIBE NOW99¢ per month. Save 90%.
+SUBSCRIBE NOWOnly $1 for 3 months. Save 97%.
 
 *   Home
 *   News
@@ -58,7 +58,7 @@ close dialogdiscover more sports, news &. events in 201999¢ Per MonthSubscribe 
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMore than 200 migrants detained by Border PatrolImmigrationFort Bliss soldier life-saving story questionedMilitaryWitness: Man attempted sex encounter after killingCrimeUTEP volleyball coach's El Paso roots run deepCollegeWoman in 20s is El Paso's 2nd flu-related deathHealthEx-soldier convicted in transgender woman's murderCrimeEx-UTEP basketball star Washburn joins GrizzliesSportsUTEP football loses Kansas State QB recruitCollegeDEA agent testifies about hunt for 'El Chapo,'CrimeSelf-defense claimed in transgender slayingCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowGabriel Iglesias to make El Paso laugh FridayEntertainmentSnow gets its 15 minutes Tuesday in El PasoWeatherThousands of 'zombie' deer are eaten each year, expert warnsHealthRecords raise questions about Hatch's residenceEducationMan allegedly abused by priest sues DioceseCrimeBorder Patrol museum protest sparks controversyCrimeMan killed in Upper Valley bar shootingCrimeMan killed after car crashes onto freeway rampTrafficHave you seen El Paso's most wanted fugitives?CrimeShots fired during Horizon City police chaseCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -131,4 +131,4 @@ Our Partners
 *   Thanksgiving.com
 *   Grateful
 
-close dialogdiscover more sports, news &. events in 201999¢ Per MonthSubscribe Todayclose dialogclose dialogdiscover more sports, news &. events in 201999¢ Per MonthSubscribe TodayNo thanksclose dialog
+close dialogLast Chance!tomorrow$1 for 3 monthsLocal StoriesLocal SportsLocal NewsSubscribe TodayNo thanksLast Chance!tomorrowclose dialog
