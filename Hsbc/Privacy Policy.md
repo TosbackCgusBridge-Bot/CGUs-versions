@@ -84,7 +84,6 @@ I accept Menu
         *   Culture and people
         *   Overview
         *   Diversity and inclusion
-        *   Our Charter
         *   Alumni
         *   Volunteering
         *   HSBC University
