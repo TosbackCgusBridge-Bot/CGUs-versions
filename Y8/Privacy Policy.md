@@ -12,8 +12,8 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 672 games
-*   Most Popular Games 18769 games
+*   Best of new games 669 games
+*   Most Popular Games 18775 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more Hi there! Did you know there is a Y8 Forum? Join other player
 CATEGORIES
 
 *   Games for girls 23,738 games
-*   Driving &. Racing Games 6,778 games
+*   Driving &. Racing Games 6,780 games
 *   Strategy &. RPG Games 2,406 games
 *   Management Games 3,641 games
-*   Thinking Games 11,928 games
-*   Action &. Adventure Games 15,960 games
-*   Sports Games 2,177 games
+*   Thinking Games 11,929 games
+*   Action &. Adventure Games 15,962 games
+*   Sports Games 2,178 games
 *   Shooting Games 8,402 games
-*   Fighting Games 2,093 games
-*   Skill Games 10,805 games
-*   Arcade &. Classic Games 12,767 games
-*   Fun &. Crazy Games 2,486 games
+*   Fighting Games 2,094 games
+*   Skill Games 10,807 games
+*   Arcade &. Classic Games 12,768 games
+*   Fun &. Crazy Games 2,487 games
 
 Play with friends  
-Powered by Y8 Account 138 Y8 Multiplayer Games 1,868 Y8 High Score Games 1,126 Y8 Achievements Games 801 Y8 Screenshots Games 1,391 Y8 Online Save Games 2,894 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 138 Y8 Multiplayer Games 1,880 Y8 High Score Games 1,126 Y8 Achievements Games 801 Y8 Screenshots Games 1,393 Y8 Online Save Games 2,906 All Y8 Games Games Last Highscore:
 
-**15,303** points on Colorboom by ToTo
+**30** points on Masked Forces Unlimited by ZURCK
 
 Help us improve Bad translation? Social
 
