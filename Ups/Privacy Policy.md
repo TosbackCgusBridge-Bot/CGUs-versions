@@ -1,11 +1,4 @@
-Previous1/2Next
-
-*   Severe Winter Weather Impacting Areas of Washington...More
-*   Severe Winter Weather Impacting Areas of California and Nevada...More
-*   Severe Winter Weather Impacting Areas of Washington...More
-*   Severe Winter Weather Impacting Areas of California and Nevada...More
-
-Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
+Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
 *   Track Tracking Numbers Go
 *   Ship Close
