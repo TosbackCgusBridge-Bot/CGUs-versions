@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-PRESIDENTS DAY SALE UP TO 75% OFF. SHOP NOW!
+ENDING SOON: UP TO 75% OFF SALE – SHOP NOW!
 
 *   Women
 *   Men
@@ -23,7 +23,7 @@ PRESIDENTS DAY SALE UP TO 75% OFF. SHOP NOW!
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
