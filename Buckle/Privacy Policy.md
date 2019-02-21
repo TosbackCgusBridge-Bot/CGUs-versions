@@ -23,7 +23,7 @@ ENDING SOON: UP TO 75% OFF SALE – SHOP NOW!
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -375,7 +375,7 @@ ENDING SOON: UP TO 75% OFF SALE – SHOP NOW!
           
         Give a Buckle Gift card
 
-SearchSubmitToggle Main MenuSearchSubmit × ClosePrivacy &. Security  
+SubmitSubmit × ClosePrivacy &. Security  
 
 **Buckle Privacy &. Security Policy**
 
