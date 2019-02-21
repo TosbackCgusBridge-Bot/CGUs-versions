@@ -50,7 +50,7 @@
     *   Chatting Cage
     *   Carry The Freight
     *   This Date in History
-    *   Business of Baseball
+    *   Front Office Focus
     *   First Pitch
     *   The Catch &. Trading Bases
     *   Fan Favorites
@@ -144,6 +144,8 @@
 *   MLB.TV MLB.TV MLB.TV
     *   Buy MLB.TV
     *   Watch MLB.TV
+    *   MLB.TV 2019 Spring Training Schedule
+    *   Buy Gameday Audio
     *   Buy MLB.TV Gift Cards
     *   MLB.TV Supported Devices
     *   MLB.TV with Extra Innings
