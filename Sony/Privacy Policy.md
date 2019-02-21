@@ -127,7 +127,7 @@ Learn More About 360 Reality Audio
 
 You'd have to be Heartless to not find the magic in Kingdom Hearts III. Discover what's enchanting critics:  https://play.st/2CYngbd  pic.twitter.com/ThgfN9XCxN
 
-16 hours ago
+1 day ago
 
 View Tweet
 
@@ -155,7 +155,7 @@ Play “Jump Force” on PS4™
 
 She’s no damsel-in-distress. 💥 @MissBala now in theaters! pic.twitter.com/gGY07DdFqQ
 
-1 day ago
+2 days ago
 
 View Tweet
 
