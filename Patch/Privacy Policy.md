@@ -1,6 +1,6 @@
 Toggle navigation **Advertise** **Sign up** Log in
 
-*   Wed, Feb 20
+*   Home
 
 *   Post
 *   Advertise
