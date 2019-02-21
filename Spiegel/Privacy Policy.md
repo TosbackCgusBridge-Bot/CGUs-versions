@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   20\. Februar 2019
+*   21\. Februar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.309,21ǀ
+*   DAX 11.401,97ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -239,6 +239,8 @@ Dienstag, **22.05.2018**   08:33 Uhr
 
   
 
+switch to English Version
+
 Liebe Leserin, lieber Leser,
 
 herzlich willkommen bei den digitalen Angeboten der SPIEGEL-Gruppe: bei der SPIEGEL-Produktfamilie, dem manager magazin und der manager lounge, dem Harvard Business Manager, bei Planestream und bento. An dieser Stelle finden Sie die Allgemeinen Nutzungsbedingungen unserer Seiten. Diese werden immer wieder aktualisiert und gelten in der jeweils aktuellen Version, sobald Sie unsere Angebote nutzen, auch ohne ausdrückliche Einwilligung. Erfüllungsort und Gerichtsstand ist Hamburg.
@@ -287,6 +289,7 @@ Zur Startseite Diesen Artikel...
 
 Verwandte Artikel
 
+*   SPIEGEL Group: General terms and conditions (20.02.2019)
 *   In eigener Sache: Wie SPIEGEL ONLINE arbeitet (16.08.2017)
 *   Datenschutzerklärung: So gehen wir mit Ihren Daten um (22.05.2018)
 *   Besondere Nutzungsbedingungen für Ihre Beiträge (22.05.2018)
