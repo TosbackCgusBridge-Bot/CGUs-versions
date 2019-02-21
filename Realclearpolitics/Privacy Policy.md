@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _McElwee_: Republican Party Is Losing Precious Voters
+*   _Matthew Dallek_: If Dems Don't Buck This Historical Trend, Trump Could Win
     
-*   _Tucker Carlson_: Can Democrats Survive Without Stoking Race Hatred?
+*   _Zac Petkanas_: Bernie Got a Pass From Media in 2016. Not This Time
     
-*   _Ruth Graham_: Yearbooks, Harassment, Racism: What Is 'Dirt' in 2019?
+*   _Victor Davis Hanson_: The Strange Paradoxes of Our Age
     
-*   _Philip Wegmann_: Snapshots of Dems' 2020 Field as Sanders Enters the Fray
+*   _Tina Nguyen_: Why the Right Wing Media Is So Furious About Jussie
     
-*   _Sean Davis_: Trump on Solid Legal Ground in Declaring Border Emergency
+*   _Jayme Metzgar_: What Happens When Your Religion Is Identity Politics
     
-*   _Ian Millhiser_: How Congress Could Rein In the Supreme Court
+*   _John Kass_: 1 Yr-Old Boy Shot in the Head Gets Set Aside for Smollett
     
-*   _John Tamny_: Why Are Libertarians So Up in Arms About Amazon?
+*   _Nic Robertson_: The World Looks Longingly at a Post-Trump Era
     
-*   _George Neumayr_: Time for a 2nd Special Counsel?
+*   _Joseph DeTrani_: S. Korea Working to Ensure Success of Trump-Kim Summit
     
-*   _Natasha Bertrand_: McCabe Couldn't Believe What Trump Said About Putin
+*   _Jill Filipovic_: Dear Progressives: Amy Klobuchar Must Be Defeated
     
-*   _Karol Markowicz_: We Shouldn't Let the ISIS Bride Come Back to U.S.
+*   _Max Diamond_: This 2020 Candidate Puts His Money on Universal Income
     
-*   _Carl Cannon_: When Reagan Righted FDR's Wrong
+*   _Patrick Murphy_: Are Democrats Doomed to Lose Florida?
     
-*   _Heather Mac Donald_: The Frenzied Search for Racism
+*   _Luke Thompson_: Ocasio-Cortez and Her Boyfriend Love the Swamp
     
-*   _LZ Granderson_: Why I Am Still Hoping Jussie Smollett Is Telling the Truth
+*   _Thomas Friedman_: Is America Becoming a Four-Party State?
     
-*   _Debra Heine_: Why Does the Dem Media Keep Falling for Obvious Hoaxes?
+*   _Noah Wall_: The Democratic Party Is In a Socialist Spiral
     
-*   _Roger Cohen_: Europe to Mike Pence: No, Thank You
+*   _Ryan Cooper_: How Bernie Can Win
     
-*   _Walter Russell Mead_: Europe's Challenge Is Decline, Not Trump
+*   _Capri Cafaro_: Sanders Will Further Fracture the Democratic Party
     
-*   _Max Greenwood_: Sanders Announces He'll Run for President Again in 2020
+*   _Scott Jennings_: The Cabal's Untruthful Narrative About Trump
     
-*   _David Catanese_: The Early State of Play in Iowa
+*   _Katrina vanden Heuvel_: Bring on the Green New Deal
     
-*   _Andy Puzder_: Dems Wage a Losing Battle Against Trump's Economy
+*   _Ben Stein_: Sheer Madness From Ms. Ocasio-Cortez
     
-*   _Richard Cohen_: After Trump, Can America Ever Be Great Again?
+*   _Philip Wegmann_: Buttigieg: 'Generational' Pain Awaits If Debt Ignored
     
-*   _Julie Kelly_: Adam Schiff: The Jussie Smollett of Russia Collusion
+*   _Mark Mazzetti_: Inside Trump's 2-Yr War on Investigations Encircling Him
     
-*   _Jack Shafer_: Mueller's Case for Collusion Comes Into View
+*   _Rich Lowry_: The Demented FBI Bid to Oust Trump
     
-*   _Charles Lipson_: The Bleeding Wounds of Our Constitutional Order
+*   _Eli Lake_: Rod Rosenstein Has Some Serious Explaining to Do
     
-*   _Nolan Rappaport_: Trump Will Likely Win Legal Fight on Border Emergency
+*   _Danielle Campoamor_: Border Emergency Is Fake, Here Are Some Real Ones
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Bernie Sanders Announces He's Running for President in 2020
-*   Chicago Police Investigating Whether Smollett Coordinated Attack
-*   Lara Logan Slams Media's Left-Wing Democratic Bias, Sinking Standards
-*   Trump Declares U.S.-Mexico Border Emergency
-*   Supreme Court to Decide If 2020 Census Can Ask About Citizenship
+*   Snapshots of Dems' 2020 Field as Sanders Enters the Fray
+*   Civilians Evacuated From Last Islamic State Holdout in Syria
+*   Trump: Sanders Was Not Treated With Respect by Clinton in 2016
+*   Buttigieg: "Generational" Pain Awaits If Debt Is Ignored
+*   When Reagan Righted FDR's Wrong
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,34 +245,25 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationMorning Consult\*
-    *   Biden30
-    *   Sanders21
-    *   Harris11
-    *   Warren8
-    *   O'Rourke7
-    *   Booker5
-    *   Klobuchar4
-    *   Bloomberg2
-    *   Brown1
-    *   Gabbard1
-    *   Castro1Biden +9
-*   North Carolina: Trump vs. BidenCivitas (R)
-    *   Trump43
-    *   Biden39Trump +4
-*   North Carolina: Trump vs. SandersCivitas (R)
-    *   Trump46
-    *   Sanders34Trump +12
-*   North Carolina: Trump vs. HarrisCivitas (R)
-    *   Trump45
-    *   Harris34Trump +11
+*   President Trump Job ApprovalPolitico/Morning Consult
+    *   Approve42
+    *   Disapprove53Disapprove +11
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve49
+    *   Disapprove51Disapprove +2
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve45
+    *   Disapprove52Disapprove +7
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve41
+    *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
+*   Trump: Andrew McCabe Has Made A Fool Out Of Himself This Week. "A Poor Man's J. Edgar Hoover"
+*   Warren: I Would Declare National Emergencies For Climate Change, Gun Violence, Student Loan Debt
 *   Toobin: Having "So Many Bad Stories" About Trump "Almost Helps The President," Hard To Keep Up With
 *   Lara Logan Slams Media For Becoming Left-Wing "Propagandists" With "Horsesh\*t" Low Standards
-*   Trump Slams "Tyrannical Socialist Government" Of Venezuela: "This Will Never Happen To Us"
-*   Bernie Sanders on Howard Schultz: Any Billionaire Can Throw Ads On TV And Become Credible
 *   McCabe: We Told McConnell And Paul Ryan About FBI Counterintelligence Investigation Into Trump
 
 *   Politics
