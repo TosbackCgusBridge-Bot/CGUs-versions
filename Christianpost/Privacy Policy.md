@@ -31,10 +31,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Harvest Bible
-*   SBC
+*   James MacDonald
 *   Neal McDonough
-*   Trudy Cathy White
+*   SBC
+*   Witches
 *   Cliff Sims
 
 About Us
