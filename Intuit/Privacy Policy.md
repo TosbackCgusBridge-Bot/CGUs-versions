@@ -1,4 +1,4 @@
-Accessible View
+Free Shipping Anywhere Over $99See DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -43,6 +43,23 @@ Near YouFind a StoreBackProm DressesShop AllProm DressesShop All
 *   BUY MORE AND SAVE WITH CODE: 21GOSHOP
     
     $10140after couponSpeechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
+
+Hot Sellers
+
+*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+    
+    $30after couponThe Foundry Big &. Tall Supply Co.™ Flex Denim Jeans(133)
+*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+    
+    $2520after couponArizona Basic Original Straight Jeans(1805)
+*   $1574after couponwas $70 east 5th Womens Quentin Booties Stiletto Heel Zip(24)
+*   from$3549 sale
+    
+    was $59.50 | 32 - 40% offLevi's® 505™ Regular Fit Jeans(2416)
+*   $1350after couponwas $60 Yuu Womens Imperial Slip-On Shoe Square Toe(3)
+*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+    
+    $2520after couponArizona Basic Original Bootcut Jeans(584)
 
 Shop and Save at JCPenney
 
