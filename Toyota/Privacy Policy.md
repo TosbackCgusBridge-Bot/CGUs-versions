@@ -7,7 +7,7 @@ Skip to main content
 *   Certified Used Vehicles
 *   Owners
 *   Español
-*   Your Location: 67301 Zip: 67301
+*   Set Location Set Zip
 
 *   Select Vehicle
 *   Shopping Tools
@@ -180,13 +180,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 *   Español
 *   Owners
 
-Close
-
-SET YOUR LOCATION
-
-Enter your Zip Code to find dealers, inventory, and special offers near you.
-
-Your ZIP is invalid. Submit
+Close Set your locationYour ZIP is invalid. Submit
 
 OR FIND A DEALER GO Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
