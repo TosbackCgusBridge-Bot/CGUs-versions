@@ -25,6 +25,7 @@ Close submenu ( Girls ) Girls
 *   New Arrivals
 *   Best Sellers
 *   Destroyed Denim
+*   Break In Spring
 *   Seeing Stripes
 *   Twisted for Tie Dye
 *   Online Only
@@ -36,10 +37,11 @@ Close submenu ( Guys ) Guys
 *   New Arrivals
 *   Best Sellers
 *   Destroyed Denim
+*   Break in Spring
 *   Seeing Stripes
 *   Twisted for Tie Dye
 *   Online Only
-*   Active
+*   Swim
 
 Close submenu ( Girls ) Girls
 
@@ -64,6 +66,7 @@ Close submenu ( Girls ) Girls
 Close submenu ( Tops ) Tops
 
 *   View All
+*   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
 *   Long Sleeve
@@ -78,6 +81,7 @@ Close submenu ( Tops ) Tops
 Close submenu ( Bottoms ) Bottoms
 
 *   View All
+*   Buy 1 Get 1 Free
 *   Jeans
 *   Jeggings
 *   Leggings + Active
@@ -116,6 +120,7 @@ Close submenu ( Guys ) Guys
 *   Accessories
 *   Underwear
 *   Cologne + Grooming
+*   Swim
 *   Flip Flops + Slides
 *   Extended Sizes
 *   Clearance
@@ -125,6 +130,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Tops ) Tops
 
 *   View All
+*   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
 *   Polos
@@ -135,6 +141,7 @@ Close submenu ( Tops ) Tops
 Close submenu ( Bottoms ) Bottoms
 
 *   View All
+*   Buy 1 Get 1 Free
 *   Jeans
 *   Joggers + Sweats
 *   Pants
@@ -218,7 +225,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**SHOP NEW ARRIVALS**  GIRLS GUYS **60% OFF ENTIRE SITE + FREE SHIPPING OVER $50**
+**BUY 1 GET 2 FREE TEES + BUY 1 GET 1 FREE BOTTOMS**  **FREE SHIPPING OVER $50 OR WHEN YOU BUY JEANS** 
 
 *   Select Country
 *   My Account My Account Login Register
@@ -233,6 +240,7 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Best Sellers
         *   Destroyed Denim
+        *   Break In Spring
         *   Seeing Stripes
         *   Twisted for Tie Dye
         *   Online Only
@@ -243,16 +251,18 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Best Sellers
         *   Destroyed Denim
+        *   Break in Spring
         *   Seeing Stripes
         *   Twisted for Tie Dye
         *   Online Only
-        *   Active
+        *   Swim
     
 *   Girls
     
     *   View Home
     *   Tops
         *   View All
+        *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
         *   Long Sleeve
@@ -266,6 +276,7 @@ Menu Find a Store Aeropostale
     
     *   Bottoms
         *   View All
+        *   Buy 1 Get 1 Free
         *   Jeans
         *   Jeggings
         *   Leggings + Active
@@ -305,6 +316,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Tops
         *   View All
+        *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
         *   Polos
@@ -314,6 +326,7 @@ Menu Find a Store Aeropostale
     
     *   Bottoms
         *   View All
+        *   Buy 1 Get 1 Free
         *   Jeans
         *   Joggers + Sweats
         *   Pants
@@ -324,6 +337,7 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Underwear
     *   Cologne + Grooming
+    *   Swim
     *   Flip Flops + Slides
     *   Extended Sizes
     *   Clearance
@@ -402,7 +416,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Exclusions Apply Shop Girls Shop Guys Shop Girls Shop Guys Previous Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Next Shop Super High Rise Shop Girls Jeans Shop Super Skinny Shop Guys Jeans Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping Learn More <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Exclusions Apply Shop Girls Bottoms Shop Guys Bottoms Shop Girls Graphics Shop Guys Graphics Shop Girls Jeans Guide Shop Guys Jeans Guide Previous Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Next Shop Cheeky Shop Girls Jeans Shop Slim Shop Guys Jeans Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping Learn More <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -441,3 +455,17 @@ Stay Connected
 *   Store FAQs
 
 © 2019 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
