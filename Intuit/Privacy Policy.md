@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $99See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -29,37 +29,20 @@ Near YouFind a StoreBackProm DressesShop AllProm DressesShop All
     $120after couponCity Triangle Sleeveless Dress Set-JuniorsAdd To Cart
 *   BUY MORE AND SAVE WITH CODE: 21GOSHOP
     
-    $150after couponDJ Jaz Sleeveless Applique Ball Gown-JuniorsAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
-    
     $10140after couponMy Michelle Sleeveless Fitted Gown-JuniorsAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
-    
-    $10140after couponMorgan &. Co. Sleeveless Party Dress-JuniorsAdd To Cart
 *   BUY MORE AND SAVE WITH CODE: 21GOSHOP
     
     $120after couponCity Triangle Sleeveless Party Dress-JuniorsAdd To Cart
 *   $10140after couponSocial Code Short Sleeve Dress Set-JuniorsAdd To Cart
 *   BUY MORE AND SAVE WITH CODE: 21GOSHOP
     
+    $120after couponCity Triangle Sleeveless Party Dress-Juniors(1)Add To Cart
+*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+    
+    $10140after couponB. Smart Sleeveless Party Dress-JuniorsAdd To Cart
+*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+    
     $10140after couponSpeechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
-
-Hot Sellers
-
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
-    
-    $30after couponThe Foundry Big &. Tall Supply Co.™ Flex Denim Jeans(133)
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
-    
-    $2520after couponArizona Basic Original Straight Jeans(1805)
-*   $1574after couponwas $70 east 5th Womens Quentin Booties Stiletto Heel Zip(24)
-*   from$3549 sale
-    
-    was $59.50 | 32 - 40% offLevi's® 505™ Regular Fit Jeans(2416)
-*   $1350after couponwas $60 Yuu Womens Imperial Slip-On Shoe Square Toe(3)
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
-    
-    $2520after couponArizona Basic Original Bootcut Jeans(584)
 
 Shop and Save at JCPenney
 
