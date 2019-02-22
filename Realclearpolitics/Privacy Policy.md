@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Matthew Dallek_: If Dems Don't Buck This Historical Trend, Trump Could Win
+*   _Ball &. Elliott_: Biggest Field Yet. A Divided Base. Welcome to the Dem Primary
     
-*   _Zac Petkanas_: Bernie Got a Pass From Media in 2016. Not This Time
+*   _E.W. Jackson_: The Liberal Lie That America Is Hateful and Bigoted
     
-*   _Victor Davis Hanson_: The Strange Paradoxes of Our Age
+*   _German Lopez_: Smollett's Arrest Doesn't Diminish the Reality of Hate Crimes
     
-*   _Tina Nguyen_: Why the Right Wing Media Is So Furious About Jussie
+*   _Nicole Russell_: Defamation Lawsuit Means Trouble for Washington Post
     
-*   _Jayme Metzgar_: What Happens When Your Religion Is Identity Politics
+*   _Neal Katyal_: The Mueller Report Is Coming. Here's What to Expect.
     
-*   _John Kass_: 1 Yr-Old Boy Shot in the Head Gets Set Aside for Smollett
+*   _Sebastian Gorka_: How President Trump Broke the Left
     
-*   _Nic Robertson_: The World Looks Longingly at a Post-Trump Era
+*   _Napolitano &. Breslau_: The Real National Emergencies Trump Is Ignoring
     
-*   _Joseph DeTrani_: S. Korea Working to Ensure Success of Trump-Kim Summit
+*   _Harrison_: Abortion Is Never Necessary to Save a Mother
     
-*   _Jill Filipovic_: Dear Progressives: Amy Klobuchar Must Be Defeated
+*   _Nate Silver_: How Sanders' Map Might Change Without the #NeverHillary Vote
     
-*   _Max Diamond_: This 2020 Candidate Puts His Money on Universal Income
+*   _Julian Zelizer_: Why Biden Should Skip Running for President
     
-*   _Patrick Murphy_: Are Democrats Doomed to Lose Florida?
+*   _Greg Orman_: Caddell's Heartfelt Advocacy for America's People, Ideals
     
-*   _Luke Thompson_: Ocasio-Cortez and Her Boyfriend Love the Swamp
+*   _Larry Elder_: Why So Many Hate Crime Hoaxes?
     
-*   _Thomas Friedman_: Is America Becoming a Four-Party State?
+*   _Samantha Allen_: After Smollett, Will Real Hate Crime Victims Be Heard?
     
-*   _Noah Wall_: The Democratic Party Is In a Socialist Spiral
+*   _John McWhorter_: Victimhood Chic: What the Smollett Story Reveals
     
-*   _Ryan Cooper_: How Bernie Can Win
+*   _Marc Thiessen_: Covington, Smollett and the Pattern of Media Dishonesty
     
-*   _Capri Cafaro_: Sanders Will Further Fracture the Democratic Party
+*   _Anthony Romero_: Border 'Emergency': See You in Court, President Trump
     
-*   _Scott Jennings_: The Cabal's Untruthful Narrative About Trump
+*   _Bill Zeiser_: A Larger-Than-Life Rebuke to Liberals' Anti-Business Politics
     
-*   _Katrina vanden Heuvel_: Bring on the Green New Deal
+*   _Bhaskar Sunkara_: Sanders Started a Revolution. In 2020, He Can Finish It
     
-*   _Ben Stein_: Sheer Madness From Ms. Ocasio-Cortez
+*   _Froma Harrop_: It's Over for Bernie Sanders
     
-*   _Philip Wegmann_: Buttigieg: 'Generational' Pain Awaits If Debt Ignored
+*   _Mark Hemingway_: What the Advertising Boycott Advocates Fail to Realize
     
-*   _Mark Mazzetti_: Inside Trump's 2-Yr War on Investigations Encircling Him
+*   _Tyler Cowen_: Venezuela Isn't Just a Failed State. It's a Failure of the Left.
     
-*   _Rich Lowry_: The Demented FBI Bid to Oust Trump
+*   _Paul Krugman_: On Paying for a Progressive Agenda
     
-*   _Eli Lake_: Rod Rosenstein Has Some Serious Explaining to Do
+*   _Susan Crabtree_: In Halting Calif. Rail Funds, Trump Sends Multiple Messages
     
-*   _Danielle Campoamor_: Border Emergency Is Fake, Here Are Some Real Ones
+*   _Michael Grunwald_: The Golden State Is Thriving After Years of Malaise
     
 
 *   Previous
@@ -228,11 +228,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   In Halting Calif. Rail Funds, Trump Sends Multiple Messages
+*   Smollett Faces Felony Charge for Falsely Reporting Racist Attack
+*   Thiessen: Covington, Smollett and the Pattern of Media Dishonesty
 *   Snapshots of Dems' 2020 Field as Sanders Enters the Fray
-*   Civilians Evacuated From Last Islamic State Holdout in Syria
-*   Trump: Sanders Was Not Treated With Respect by Clinton in 2016
-*   Buttigieg: "Generational" Pain Awaits If Debt Is Ignored
-*   When Reagan Righted FDR's Wrong
+*   What the Advertising Boycott Advocates Fail to Realize
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +245,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalPolitico/Morning Consult
-    *   Approve42
-    *   Disapprove53Disapprove +11
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove51Disapprove +2
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve45
-    *   Disapprove52Disapprove +7
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve41
-    *   Disapprove55Disapprove +14
+*   Arizona: Trump vs. BidenOH Predictive Insights
+    *   Trump46
+    *   Biden46Tie
+*   Arizona: Trump vs. SandersOH Predictive Insights
+    *   Trump49
+    *   Sanders37Trump +12
+*   Arizona: Trump vs. HarrisOH Predictive Insights
+    *   Trump49
+    *   Harris40Trump +9
+*   Arizona: Trump vs. WarrenOH Predictive Insights
+    *   Trump49
+    *   Warren38Trump +11
 
 More Latest Polls In The News
 
-*   Trump: Andrew McCabe Has Made A Fool Out Of Himself This Week. "A Poor Man's J. Edgar Hoover"
-*   Warren: I Would Declare National Emergencies For Climate Change, Gun Violence, Student Loan Debt
-*   Toobin: Having "So Many Bad Stories" About Trump "Almost Helps The President," Hard To Keep Up With
-*   Lara Logan Slams Media For Becoming Left-Wing "Propagandists" With "Horsesh\*t" Low Standards
-*   McCabe: We Told McConnell And Paul Ryan About FBI Counterintelligence Investigation Into Trump
+*   Dem Rep. Gregory Meeks: Bernie Sanders Should Not Run As A Democrat, He's Not A Democrat
+*   Don Lemon: Tucker Carlson, Sean Hannity &. Donald Trump Are Going To Eat Jussie Smollett's Lunch
+*   Blumenthal on Mueller Probe: AG William Barr Must Decide If He Is One Of The President's "Minions"
+*   Thiessen: The Left Jumps To Believe Anti-Trump Stories Due To Contempt For Trump, Trump Supporters
+*   Trevor Noah: People Are Willing To Believe Any Story About A Trump Supporter, White Person
 
 *   Politics
 *   Policy
