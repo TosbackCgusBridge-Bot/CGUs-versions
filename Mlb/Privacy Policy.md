@@ -1,4 +1,4 @@
-50 50 iconAccessibility iconAccessibility Parking iconAccessibility Seating iconAccordion Contract iconaccordion\_contractAccordion Expand iconADA Assistance iconAdd to Calendar iconAlternate Format Materials iconAmerican ExpressAndroid iconApps IconArrow Contract iconarrow-downArrow Down iconArrow Expand iconArrow Left iconCarousel Arrow Right iconCarousel Arrow Left iconArrow Right iconArrow Up iconAssistive Listening Device iconATM iconAudio iconBack to Start iconBallpark IconBaseball iconBaseball bat iconBaseball glove iconBeen here iconBeer Stein iconBike iconBilling iconBinoculars iconBlackout iconBoat iconBus iconCalendar iconCamera iconCar iconCarousel Arrow Left iconCarousel Arrow Right iconClock Fill iconClock Outline iconClose iconClosed Caption iconClosed captions iconLocal drink iconCoffee cup iconComments iconCommunity IconConnected Devices iconCopyright iconDesktop iconDiscoverDownload iconDrop-Off Pick-Up iconDual View Mode iconElectrical Outlet iconElevators iconEmail iconEmbed iconEmergency Evacuation iconEnter full screen iconEnter Fullscreen iconEV station iconExit full screen iconExit Fullscreen iconFacebook iconFacebook Watch iconFamily iconFans IconFantasy IconFast Forward 10 Seconds iconFirst Aid iconFood Beverage iconFood Truck iconFull Schedule iconFull Season Tickets iconFX iconGameday iconGavel iconGift iconGlobe iconGoogle Plus iconGrid Icon iconGroup iconGuest Services iconHalf-Season Tickets iconHearing Loop Location iconHigh Bandwidth iconHome IconHome plate iconHotel iconInstagram iconInterpreting Services iconLinescore iconLink iconList View iconLive iconLocal drink iconLogin iconLow Bandwidth iconMap iconMastercardMedium Bandwidth iconMicrophone iconMobile Phone iconMore iconMore Options iconMy location iconMy location iconParking iconPartial Tickets iconPause iconPDF iconPeriscope iconPet iconPhoto iconPinterest iconPIP View iconPIP view iconPlane iconPlay iconPlayBall IconPlay Overlay iconPlayer IconPopcorn iconPremium Seating iconPrinter iconProhibited iconPromo iconPublic Transportation iconQuad View Mode iconRecap iconRecycling iconReddit iconReplay iconRestrooms iconRewind 10 Seconds iconRunning bases iconScrub Head iconSearch iconSearch Ad iconSecurity iconService Animals iconSettings iconShare iconSheraton iconShopping Cart iconSingle View Mode iconSnapchat iconSold Out iconStadium iconStandings IconStats IconStudent iconSubway iconSupport iconT-Shirt iconTaxi iconTeams IconTelephone iconTelephone TTY iconTicket Exchange iconTickets iconTraffic light iconTrain iconTrolley iconTrophy iconTumblr iconTwitter iconUber iconUpgrade iconVideo Highlights iconVIP iconVisaVolume Control iconVolume Muted iconWatch iconWater Fountain iconWheelchair Storage iconWi-fi connect iconWi-fi off iconWorld Series Trophy iconYouTube iconGlobe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video Standings Stats Schedule Players Tickets Apps Shop MLB.TV Auction Fantasy Play Ball Teams EN
+50 50 iconAccessibility iconAccessibility Parking iconAccessibility Seating iconAccordion Contract iconaccordion\_contractAccordion Expand iconADA Assistance iconAdd to Calendar iconAlternate Format Materials iconAmerican ExpressAndroid iconApps IconArrow Contract iconarrow-downArrow Down iconArrow Expand iconArrow Left iconCarousel Arrow Right iconCarousel Arrow Left iconArrow Right iconArrow Up iconAssistive Listening Device iconATM iconAudio iconBack to Start iconBallpark IconBaseball iconBaseball bat iconBaseball glove iconBeen here iconBeer Stein iconBike iconBilling iconBinoculars iconBlackout iconBoat iconBus iconCalendar iconCamera iconCar iconCarousel Arrow Left iconCarousel Arrow Right iconClock Fill iconClock Outline iconClose iconClosed Caption iconClosed captions iconLocal drink iconCoffee cup iconComments iconCommunity IconConnected Devices iconCopyright iconDesktop iconDiscoverDownload iconDrop-Off Pick-Up iconDual View Mode iconElectrical Outlet iconElevators iconEmail iconEmbed iconEmergency Evacuation iconEnter full screen iconEnter Fullscreen iconEV station iconExit full screen iconExit Fullscreen iconFacebook iconFacebook Watch iconFamily iconFans IconFantasy IconFast Forward 10 Seconds iconFirst Aid iconFood Beverage iconFood Truck iconFull Schedule iconFull Season Tickets iconFX iconGameday iconGavel iconGift iconGlobe iconGoogle Plus iconGrid Icon iconGroup iconGuest Services iconHalf-Season Tickets iconHearing Loop Location iconHigh Bandwidth iconHome IconHome plate iconHotel iconInstagram iconInterpreting Services iconLinescore iconLink iconList View iconLive iconLocal drink iconLogin iconLow Bandwidth iconMap iconMastercardMedium Bandwidth iconMicrophone iconMobile Phone iconMore iconMore Options iconMy location iconMy location iconParking iconPartial Tickets iconPause iconPDF iconPeriscope iconPet iconPhoto iconPinterest iconPIP View iconPIP view iconPlane iconPlay iconPlayBall IconPlay Overlay iconPlayer IconPopcorn iconPremium Seating iconPrinter iconProhibited iconPromo iconPublic Transportation iconQuad View Mode iconRecap iconRecycling iconReddit iconReplay iconRestrooms iconRewind 10 Seconds iconRunning bases iconScrub Head iconSearch iconSearch Ad iconSecurity iconService Animals iconSettings iconShare iconSheraton iconShopping Cart iconSingle View Mode iconSnapchat iconSold Out iconStadium iconStandings IconStats IconStudent iconSubway iconSupport iconT-Shirt iconTaxi iconTeams IconTelephone iconTelephone TTY iconTicket Exchange iconTickets iconTraffic light iconTrain iconTrolley iconTrophy iconTumblr iconTwitter iconUber iconUpgrade iconVideo Highlights iconVIP iconVisaVolume Control iconVolume Muted iconWatch iconWater Fountain iconWheelchair Storage iconWi-fi connect iconWi-fi off iconWorld Series Trophy iconYouTube iconGlobe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video Standings Stats Schedule Players MLB.TV Tickets Apps Shop Auction Fantasy Play Ball Teams EN
 
 *   Scores
 *   News News News
@@ -91,6 +91,19 @@
     *   Mobile Player Alerts
     *   MLB Players Association
     *   Probable Pitchers
+*   MLB.TV MLB.TV MLB.TV
+    *   Buy MLB.TV
+    *   Watch MLB.TV
+    *   MLB.TV 2019 Spring Training Schedule
+    *   Buy Gameday Audio
+    *   Buy MLB.TV Gift Cards
+    *   MLB.TV Supported Devices
+    *   MLB.TV with Extra Innings
+    *   MLB.TV Help Center/FAQs
+    *   MLB.TV Blackouts FAQ
+    *   MLB.TV National Blackout Schedule
+    *   Contact Us
+    *   Forgot Password?
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   Season Tickets
@@ -141,22 +154,9 @@
     *   Game-Used
     *   Jerseys
     *   PhotosAuctions
-*   MLB.TV MLB.TV MLB.TV
-    *   Buy MLB.TV
-    *   Watch MLB.TV
-    *   MLB.TV 2019 Spring Training Schedule
-    *   Buy Gameday Audio
-    *   Buy MLB.TV Gift Cards
-    *   MLB.TV Supported Devices
-    *   MLB.TV with Extra Innings
-    *   MLB.TV Help Center/FAQs
-    *   MLB.TV Blackouts FAQ
-    *   MLB.TV National Blackout Schedule
-    *   Contact Us
-    *   Forgot Password?
 *   Auction
 *   Fantasy Fantasy Fantasy
-    *   2018 Beat the Streak
+    *   Beat the Streak
     *   R.B.I. Baseball 18
     *   MLB Home Run Derby
     *   MLB Line Drive
@@ -167,7 +167,7 @@
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   MLB Crypto Baseball
-    *   Follow @Fantasy4112018 Beat the Streak R.B.I. Baseball 2018 MLB Crypto Baseball
+    *   Follow @Fantasy4112019 Beat the Streak Yahoo Fantasy MLB Crypto Baseball
 *   Play Ball Play Ball Play Ball
     *   PlayBall.org
     *   Hank Aaron Invitational
@@ -424,6 +424,5 @@ Connect with MLB
 *   Privacy Policy (Updated May 24, 2018)
 *   Legal Notices
 *   Contact Us
-*   Cookie Preferences
 
 © 2019 MLB Advanced Media, LP. All rights reserved. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MD6MQQP" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
