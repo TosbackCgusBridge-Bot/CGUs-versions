@@ -33,6 +33,7 @@ Sencha.com
 *   Docs
 *   Blog
 *   SenchaDevs
+*   Contact Us
 *   Search
 
 Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy _Published: January 24, 2004 | Last Updated: September 26, 2018_
