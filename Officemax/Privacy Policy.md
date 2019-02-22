@@ -42,7 +42,7 @@ $3.37
 
 Change
 
-+0.06
+0
 
 Percent Change
 
