@@ -1,4 +1,4 @@
-2f0ee0d1-6abd-4254-aea9-bd69d7ad23d0
+dbf7e5fa-8bcb-429c-b303-32b466f7871c
 
 *   Search
 *   Contact Us
@@ -20,7 +20,8 @@ Toggle Navigation
     *   Internet
     *   Cable TV
     *   Home Phone
-    
+    *   Mobile
+    *   Latino
     *   Business
 *   Manage Account
 *   Support
@@ -67,7 +68,8 @@ Shop Spectrum +
 *   Spectrum Internet
 *   Spectrum TV
 *   Spectrum Voice
-
+*   Mi Plan Latino
+*   Spectrum Mobile
 *   Spectrum Sports Networks
 *   Spectrum Premium Channels
 
