@@ -25,6 +25,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Prosecuting Evil: The Extraordinary World of Ben Ferencz
     *   Run the Race
     *   Total Dhamaal
+    *   Wrestle (2018)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -69,8 +70,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'The Angry Birds Movie 2': See Exclusive Character Posters, Watch New Trailer Read More
-    *   Today in Movie Culture: ‘Captain Marvel’ Parody, Oscar Nominee Impersonations, ‘Lego Movie 2’ Easter Eggs and More Read More
+    *   'The Angry Birds Movie 2': See Exclusive Teaser Poster, Watch New Trailer Read More
+    *   Today in Movie Culture: Thanos Reviews the Best Picture Nominees, the True Stories of ‘BlacKkKlansman’ and ‘Bohemian Rhapsody’ and More Read More
     *   The First 'Frozen II' Teaser Has Us Ready for Fall. Here's Everything We Know Read More
     
     Explore Content
@@ -327,10 +328,6 @@ Offers
 *   Latest Movie Awards News
     
     Catch up on Awards news and get tickets to nominated movies, including Green Book and The Favourite. LEARN MORE
-    
-*   'The Lego Movie 2: The Second Part' Sweepstakes
-    
-    Buy tickets for a chance to win a trip to The Lego® Movie™ World at Legoland® Florida Resort! BUY TICKETS
     
 
 New + Coming soon
