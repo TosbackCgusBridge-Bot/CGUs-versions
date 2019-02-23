@@ -9,6 +9,7 @@
         *   Government
         *   Academic
         *   Pricing
+    *   Blended Courses
     *   Conferences
     *   Ideas
     *   Our Approach
