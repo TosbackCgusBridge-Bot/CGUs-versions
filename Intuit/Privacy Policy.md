@@ -1,4 +1,4 @@
-Accessible View
+3-day savings = BEST. WEEKEND. EVER - shop the store adSee DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -22,27 +22,26 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackProm DressesShop AllProm DressesShop All
+Near YouFind a StoreBackHot Sellers
 
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+*   $3999 sale
     
-    $120after couponCity Triangle Sleeveless Dress Set-JuniorsAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+    was $59.50 | 32% offLevi's® 550™ Relaxed Fit Jeans(1436)
+*   $749 clearance
     
-    $10140after couponMy Michelle Sleeveless Fitted Gown-JuniorsAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+    was $30 | 75% offSt. John's Bay Mens Long Sleeve Flannel Shirt(395)
+*   from$1499 clearance
     
-    $120after couponCity Triangle Sleeveless Party Dress-JuniorsAdd To Cart
-*   $10140after couponSocial Code Short Sleeve Dress Set-JuniorsAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+    was $60 | 60 - 75% offArizona Womens Lilly Wedge Heel Lace-up Bootie(77)
+*   $1249 clearance
     
-    $120after couponCity Triangle Sleeveless Party Dress-Juniors(1)Add To Cart
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+    was $36 | 65% offArizona Mens Long Sleeve Flannel Shirt(47)
+*   $499 clearance
     
-    $10140after couponB. Smart Sleeveless Party Dress-JuniorsAdd To Cart
-*   BUY MORE AND SAVE WITH CODE: 21GOSHOP
+    was $20 | 75% offXersion Graphic Tee Mens Crew Neck Short Sleeve T-Shirt(1)
+*   $1599 sale
     
-    $10140after couponSpeechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
+    was $40 | 60% offStafford Travel Easy-Care Broadcloth Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(42)
 
 Shop and Save at JCPenney
 
