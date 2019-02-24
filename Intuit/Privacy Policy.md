@@ -24,24 +24,26 @@ Shop Departments
 
 Near YouFind a StoreBackHot Sellers
 
-*   $3999 sale
+*   $399 clearance
     
-    was $59.50 | 32% offLevi's® 550™ Relaxed Fit Jeans(1436)
-*   $749 clearance
+    was $19.99 | 80% offHanes Sport Quick Dry Short Sleeve Solid Jersey Polo Shirt(3)
+*   from$2699 clearance
     
-    was $30 | 75% offSt. John's Bay Mens Long Sleeve Flannel Shirt(395)
-*   from$1499 clearance
+    was $79 | 60 - 65% offYuu Womens Nev Zip Bootie(69)
+*   $799 clearance
     
-    was $60 | 60 - 75% offArizona Womens Lilly Wedge Heel Lace-up Bootie(77)
-*   $1249 clearance
+    was $32 | 75% offXersion Mens Drawstring Waist Basketball Short(25)
+*   $649 clearance
     
-    was $36 | 65% offArizona Mens Long Sleeve Flannel Shirt(47)
+    was $34 | 81% offThe Grinch® Fleece Pajama Pants
+*   BUY 1 GET 1 FOR FREE
+    
+    $42
+    
+    Arizona Basic Original Straight Jeans(1807)
 *   $499 clearance
     
     was $20 | 75% offXersion Graphic Tee Mens Crew Neck Short Sleeve T-Shirt(1)
-*   $1599 sale
-    
-    was $40 | 60% offStafford Travel Easy-Care Broadcloth Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(42)
 
 Shop and Save at JCPenney
 
