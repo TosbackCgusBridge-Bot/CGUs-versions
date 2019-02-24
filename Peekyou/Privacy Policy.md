@@ -469,7 +469,7 @@ Google+ 2% 
     
 *   Show Less ...
 
-Pinterest 45%  Wikipedia 2% 
+Pinterest 46%  Wikipedia 2% 
 
 *   Privacy policy
     
