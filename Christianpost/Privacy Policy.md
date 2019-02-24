@@ -31,10 +31,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Suicide
+*   Drug crisis
 *   God's Voice
 *   Title X
-*   Tebow film
+*   'Run the Race'
 *   Church theft
 
 About Us
