@@ -8,131 +8,142 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Max Studio
     *   Maaji Up to 50% Off: New Styles Added
-    *   Designer Sun Up to 65% Off
+    *   Meghan LA
+    *   Jeffrey Campbell Up to 60% Off
+    *   Paul &. Joe Sister
+    *   Go Couture Dresses Up to 80% Off
+    *   Valentino by Mario Valentino
+    *   Gemstones, Diamonds &. More Up to 80% Off
+    *   Trask Up to 65% Off
+    *   Lime Crime &. OFRA Cosmetics
+    *   Betsey Johnson Swim
+    *   Look on the Bright Side: Lighting for Every Room
+    *   Champion Active
+    *   On-Trend Jewelry ft. Gabi Rielle from $30
+    *   Tiri Pro Hair Tools Up to 75% Off
+    *   English Laundry Starting at $20
+    *   Travel Accessories
+    *   Linen-Closet Faves: Towels &. More Up to 50% Off
+    *   Free Shipping: Fashionably Chic Art
+    *   Accessories for Girls ft. Curls &. Pearls
     *   Ramy Brook
+    *   Designer Sun Up to 65% Off
     *   Timberland Men Up to 50% Off
     *   Splendid Up to 60% Off
-    *   Lounge Around: Joggers &. More from $15
-    *   Cozy Life: Slippers, Robes, Sleep &. More
+    
+    *   On Trend for the Office: Elodie &. More
+    *   True Religion Starting at $60
+    *   True Religion Men's Clothing &. Accessories from $20
+    *   True Religion Kids Under $40
     *   Full-Fit Lingerie ft. Parfait
-    *   Weekend Wardrobe: Men's Lounge &. More
-    *   Cute &. Cozy Kids' PJs and Lounge
-    *   Spring Forward: Styles Starting at $15
+    *   Lounge Around: Joggers &. More from $15
     *   14K Gold Jewelry Starting at $40
     *   Bone Appetit: Pet Food Bowls &. More
     *   Free Shipping: Melange Bedding
-    *   On Trend for the Office: Elodie &. More
-    *   Peyote Bird Jewelry &. Watches Under $100
     *   Trophy Skin Anti-Aging Beauty Tools
     *   Circus by Sam Edelman Up to 50% Off
     *   Pink Haley
     *   aden by aden + anais
     *   Men's Swim Preview
     *   Finishing Touches Under $20 ft. Original Penguin
-    
     *   Little Giraffe
-    *   True Religion Starting at $60
-    *   True Religion Men's Clothing &. Accessories from $20
-    *   Spring Arrivals: Dresses Under $80
-    *   Camper
+    *   Peyote Bird Jewelry &. Watches Under $100
     *   Cuisinart
-    *   True Religion Kids Under $40
-    *   Casually Chic Bags
-    *   Designer Tops Up to 65% Off
     *   GoldynGlow
     *   Storage Must-Haves from $10
-    *   Support System: Active Socks &. Sports Bras
-    *   Cape Robbin Up to 50% Off
     *   Great Greenery: Faux Succulents from $10
-    *   TARA Pearls: Tahitian &. Akoya Jewelry
-    *   Spring Preview: Kids' Character Sleepwear ft. AME
-    *   Volcom
     *   New Men's Suede Shoes from $35
-    *   CZ by Kenneth Jay Lane Up to 70% Off
     *   Free Shipping: Rizzy Bedding &. Pillows
     *   truewhite Whitening System
-    *   Wellness Teas &. More from Teasane
     
+    *   Wellness Teas &. More from Teasane
     *   Free Shipping: Modern Decor &. Lighting
-    *   HarperCollins
-    *   Splendid &. Ella Moss Girls
     *   Korean Beauty: Skin Care &. More from $15
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Hair Tools 101: Brushes, Flat Irons &. More
-    *   Gorgeous Cosmetics
     *   Meal Prep All-Stars: Containers &. More from $10
     *   Free Shipping: Boho-Chic Decor Up to 75% Off
     *   Style Calling: On-Trend Phone Cases
-    *   Free Shipping: Closet, Kitchen &. More Storage
-    *   Comfy Quilts
     *   Free Shipping: Storage Up to 65% Off
-    *   Play All Day: Imaginative Toys ft. Mattel
+    *   Free Shipping: Modern Flatware
     *   Free Shipping: On-Trend Storage, Decor &. More
     *   Luxe Warmth: Cashmere Throws &. More
     *   Le Creuset: Stainless Steel, Toughened Nonstick &. More
-    *   Tommy Hilfiger Lounge &. Lingerie
-    *   Tommy Hilfiger Men
-    *   Free Shipping: Modern Flatware
-    *   Tommy Hilfiger Kids
+    *   Spring Forward: Styles Starting at $15
+    *   Cozy Life: Slippers, Robes, Sleep &. More
+    *   Cute &. Cozy Kids' PJs and Lounge
+    *   Weekend Wardrobe: Men's Lounge &. More
+    *   HarperCollins
+    *   TARA Pearls: Tahitian &. Akoya Jewelry
+    *   Spring Arrivals: Dresses Under $80
+    *   Designer Tops Up to 65% Off
+    *   Support System: Active Socks &. Sports Bras
 *   WomenShop Sale Events
     
+    *   Max Studio
     *   Maaji Up to 50% Off: New Styles Added
-    *   Designer Sun Up to 65% Off
+    *   Meghan LA
+    *   Jeffrey Campbell Up to 60% Off
+    *   Paul &. Joe Sister
+    *   Go Couture Dresses Up to 80% Off
+    *   Valentino by Mario Valentino
+    *   Gemstones, Diamonds &. More Up to 80% Off
+    *   Trask Up to 65% Off
+    *   Lime Crime &. OFRA Cosmetics
+    *   Champion Active
+    *   On-Trend Jewelry ft. Gabi Rielle from $30
+    *   Tiri Pro Hair Tools Up to 75% Off
     *   Ramy Brook
+    *   Designer Sun Up to 65% Off
     *   Splendid Up to 60% Off
-    *   Lounge Around: Joggers &. More from $15
-    *   Cozy Life: Slippers, Robes, Sleep &. More
-    *   Full-Fit Lingerie ft. Parfait
-    *   Spring Forward: Styles Starting at $15
-    *   14K Gold Jewelry Starting at $40
     *   On Trend for the Office: Elodie &. More
-    *   Peyote Bird Jewelry &. Watches Under $100
+    *   True Religion Starting at $60
+    *   Full-Fit Lingerie ft. Parfait
+    
+    *   Lounge Around: Joggers &. More from $15
+    *   14K Gold Jewelry Starting at $40
     *   Trophy Skin Anti-Aging Beauty Tools
     *   Circus by Sam Edelman Up to 50% Off
     *   Pink Haley
-    *   True Religion Starting at $60
-    *   Spring Arrivals: Dresses Under $80
-    
-    *   Camper
-    *   Casually Chic Bags
-    *   Designer Tops Up to 65% Off
+    *   Peyote Bird Jewelry &. Watches Under $100
     *   GoldynGlow
-    *   Support System: Active Socks &. Sports Bras
-    *   Cape Robbin Up to 50% Off
-    *   TARA Pearls: Tahitian &. Akoya Jewelry
-    *   CZ by Kenneth Jay Lane Up to 70% Off
     *   truewhite Whitening System
     *   Wellness Teas &. More from Teasane
     *   Korean Beauty: Skin Care &. More from $15
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Hair Tools 101: Brushes, Flat Irons &. More
-    *   Gorgeous Cosmetics
-    *   Tommy Hilfiger Lounge &. Lingerie
+    *   Spring Forward: Styles Starting at $15
+    *   Cozy Life: Slippers, Robes, Sleep &. More
+    *   TARA Pearls: Tahitian &. Akoya Jewelry
+    *   Spring Arrivals: Dresses Under $80
+    *   Designer Tops Up to 65% Off
+    *   Support System: Active Socks &. Sports Bras
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Lingerie
     *   Jewelry
-    *   Handbags
     *   Accessories
+    *   Handbags
     *   Watches
 *   MenShop Sale Events
     
+    *   English Laundry Starting at $20
+    *   Travel Accessories
     *   Designer Sun Up to 65% Off
     *   Timberland Men Up to 50% Off
-    *   Weekend Wardrobe: Men's Lounge &. More
-    *   Men's Swim Preview
-    *   Finishing Touches Under $20 ft. Original Penguin
     *   True Religion Men's Clothing &. Accessories from $20
+    *   Men's Swim Preview
     
+    *   Finishing Touches Under $20 ft. Original Penguin
     *   GoldynGlow
-    *   Volcom
     *   New Men's Suede Shoes from $35
     *   truewhite Whitening System
     *   Wellness Teas &. More from Teasane
-    *   Tommy Hilfiger Men
+    *   Weekend Wardrobe: Men's Lounge &. More
     
     Shop By Category
     *   Clothing
@@ -140,60 +151,61 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Cute &. Cozy Kids' PJs and Lounge
+    *   Betsey Johnson Swim
+    *   Accessories for Girls ft. Curls &. Pearls
+    *   True Religion Kids Under $40
     *   aden by aden + anais
     *   Little Giraffe
-    *   True Religion Kids Under $40
-    *   Spring Preview: Kids' Character Sleepwear ft. AME
+    *   Cute &. Cozy Kids' PJs and Lounge
     *   HarperCollins
-    *   Splendid &. Ella Moss Girls
-    *   Play All Day: Imaginative Toys ft. Mattel
-    *   Tommy Hilfiger Kids
     
     Shop By Category
     *   Boys' Sizes 2T-7
-    *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
+    *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
-    *   Baby Boy
     *   The Toy Shop
+    *   Baby Boy
     *   Baby Girl
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Look on the Bright Side: Lighting for Every Room
+    *   Linen-Closet Faves: Towels &. More Up to 50% Off
+    *   Free Shipping: Fashionably Chic Art
     *   Bone Appetit: Pet Food Bowls &. More
     *   Free Shipping: Melange Bedding
     *   Cuisinart
     *   Storage Must-Haves from $10
     *   Great Greenery: Faux Succulents from $10
     *   Free Shipping: Rizzy Bedding &. Pillows
+    
     *   Free Shipping: Modern Decor &. Lighting
     *   Meal Prep All-Stars: Containers &. More from $10
     *   Free Shipping: Boho-Chic Decor Up to 75% Off
-    
     *   Style Calling: On-Trend Phone Cases
-    *   Free Shipping: Closet, Kitchen &. More Storage
-    *   Comfy Quilts
     *   Free Shipping: Storage Up to 65% Off
+    *   Free Shipping: Modern Flatware
     *   Free Shipping: On-Trend Storage, Decor &. More
     *   Luxe Warmth: Cashmere Throws &. More
     *   Le Creuset: Stainless Steel, Toughened Nonstick &. More
-    *   Free Shipping: Modern Flatware
     
     Shop By Category
-    *   Bedding
     *   Home Decor
+    *   Bedding
     *   Kitchen &. Tabletop
     *   Storage &. Organization
     *   Pet Accessories
     *   Tech Accessories
     *   Outdoor Living
-    *   Rugs &. Doormats
     *   Accent Furniture
     *   Bath
     *   Luggage &. Travel
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Lime Crime &. OFRA Cosmetics
+    *   Tiri Pro Hair Tools Up to 75% Off
     *   Trophy Skin Anti-Aging Beauty Tools
     *   GoldynGlow
     *   truewhite Whitening System
@@ -201,12 +213,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Korean Beauty: Skin Care &. More from $15
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Hair Tools 101: Brushes, Flat Irons &. More
-    *   Gorgeous Cosmetics
     
     Shop By Category
     *   Skin Care
-    *   Makeup
     *   Tools &. Accessories
+    *   Makeup
     *   Bath &. Body
     *   Makeup Bags
 
