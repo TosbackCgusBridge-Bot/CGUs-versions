@@ -23,6 +23,7 @@ Close submenu ( Girls ) Girls
 
 *   View All
 *   New Arrivals
+*   Aero Essentials
 *   Best Sellers
 *   Destroyed Denim
 *   Break In Spring
@@ -36,6 +37,7 @@ Close submenu ( Guys ) Guys
 
 *   View All
 *   New Arrivals
+*   Aero Essentials
 *   Best Sellers
 *   Destroyed Denim
 *   Break in Spring
@@ -226,7 +228,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**BUY 1 GET 2 FREE TEES + BUY 1 GET 1 FREE BOTTOMS**  **FREE SHIPPING OVER $50 OR WHEN YOU BUY JEANS** 
+**EXTRA 15% OFF** USE CODE **FLASH15** GIRLS GUYS **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -239,6 +241,7 @@ Menu Find a Store Aeropostale
     *   Girls
         *   View All
         *   New Arrivals
+        *   Aero Essentials
         *   Best Sellers
         *   Destroyed Denim
         *   Break In Spring
@@ -251,6 +254,7 @@ Menu Find a Store Aeropostale
     *   Guys
         *   View All
         *   New Arrivals
+        *   Aero Essentials
         *   Best Sellers
         *   Destroyed Denim
         *   Break in Spring
@@ -418,7 +422,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Exclusions Apply Shop Girls Bottoms Shop Guys Bottoms Shop Girls Graphics Shop Guys Graphics Shop Girls Jeans Guide Shop Guys Jeans Guide Previous Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Next Shop Cheeky Shop Girls Jeans Shop Slim Shop Guys Jeans Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping Learn More <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Online Only For a Limited Time! 0 23 : Days 32 : Days 25 Girls Essentials Guys Essentials Exclusions Apply Shop Girls Bottoms Shop Guys Bottoms Exclusions Apply Shop Girls Graphics Shop Guys Graphics Shop Girls Shop Guys Contest Details Shop Girls Jeans Guide Shop Guys Jeans Guide Previous Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Next Shop Cheeky Shop Girls Jeans Shop Slim Shop Guys Jeans Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -457,17 +461,3 @@ Stay Connected
 *   Store FAQs
 
 © 2019 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
