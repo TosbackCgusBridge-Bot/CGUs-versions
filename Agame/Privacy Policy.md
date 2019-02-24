@@ -1,4 +1,4 @@
-<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Apps
+Apps
 
 *   {text}
     
@@ -52,8 +52,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Family Barn
+    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Backgammon: Board Game Online Multiplayer
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
@@ -91,11 +91,11 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Slither.io
     *   Total Front: Army War Game
-    *   Stunt Skateboard 3D
     *   Deer Hunter
+    *   Stunt Skateboard 3D
     *   Electricman 2: Stickman Fighting Game
-    *   Pixel Apocalypse
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
+    *   Pixel Apocalypse
 *   Top Categories
     
     *   Platform Games
@@ -126,8 +126,8 @@ View more results
     *   Trap Adventure 2
     *   FNAF: Sister Location Custom Night
     *   Tom and Jerry: Mouse Maze
-    *   Uphill Rush
     *   Fireboy and Watergirl 5: Elements
+    *   Uphill Rush
 *   Top Categories
     
     *   Bubble Shooter
@@ -186,8 +186,8 @@ View more results
     *   Love Tester 2.0
     *   Burger Restaurant Express
     *   Back To School: Princesses Rush
-    *   Penguin Diner: Food Restaurant Game
     *   Papa's Cupcakeria
+    *   Penguin Diner: Food Restaurant Game
     *   Bartender
     *   Create a House: Building Game
     *   Papa's Freezeria
@@ -220,8 +220,8 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Happy Wheels
     *   Extreme Off-Road Cars 2
-    *   Bus Man Parking 3D
     *   Russian Car Driver
+    *   Bus Man Parking 3D
     *   Parking Training
     *   Neon Biker
 *   Top Categories
@@ -461,5 +461,5 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
+<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
 Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
