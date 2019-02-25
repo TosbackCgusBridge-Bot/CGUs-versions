@@ -68,9 +68,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -100,7 +100,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -146,7 +146,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -176,7 +176,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -469,7 +469,7 @@ Google+ 2% 
     
 *   Show Less ...
 
-Pinterest 46%  Wikipedia 2% 
+Pinterest 45%  Wikipedia 2% 
 
 *   Privacy policy
     
@@ -494,39 +494,35 @@ Music 2% 
     
     Pandora's privacy policy explains the data we collect, use, store, and process while you use and access our Services. By using our Services, you have read, ...
     
-*   Information about Privacy on Pandora
+*   Pandora Account Privacy FAQ
     
-    Where can I view Pandora's privacy policy? For our current Privacy Policy, click here. Why does Pandora need my zip code, gender, and birth year? Pandora ...
+    What are Pandora's age requirements? I entered my birthdate, but can't register for a Pandora account. Why? Where can I view Pandora's privacy policy?
     
-*   Pandora Brand Audience Insights Terms of Service Pandora Brand ...
-    
-    ... (the "PBA Service") to you subject to the terms set forth herein, the Pandora Terms of Use, and the Pandora Privacy Policy (collectively, the "Agreement").
-    
-*   Show More ...
-
 *   Pandora
     
     Terms of Use · Subscription Terms · Premium Trial Terms · Privacy Policy · Community &. Content Policy · Intellectual Property Policy · Tax Policy ...
     
-*   How to use our Website
+*   Show More ...
+
+*   Privacy and Pandora Voice
     
-    Check the box to agree to the Terms Of Use and Privacy policy. Click the Register button. Create a Station. To create a station on the Pandora website: Type the ...
-    
-*   Create an Account
-    
-    Review the Terms Of Use and Privacy policy. Check or uncheck to remain signed in. Click Sign Up after you've reviewed that your information is accurate.
+    Where can I find Pandora's full privacy policy? What voice data does Pandora collect? Does this mean Pandora records everything I say? What does Pandora ...
     
 *   Pandora
     
-    In addition to these P4B Terms, the Pandora Services Terms of Use and the Pandora Privacy Policy (the "Pandora Agreement"), which you agreed to when you ...
+    How does it work? Advertisers may collect data about your online browsing activity and use it to show you targeted ads (a process known as "behavioral ...
+    
+*   Pandora
+    
+    We transfer your billing information to our payment processor(s) as disclosed in our Privacy Policy. If you purchase a Subscription through an External Service, ...
+    
+*   Pandora
+    
+    Terms of Use · Subscription Terms · Premium Trial Terms · Privacy Policy · Community &. Content Policy · Intellectual Property Policy · Tax Policy ...
     
 *   Pandora's UK Tax Strategy
     
     Terms of Use · Terms of Use · Subscription Terms · Premium Trial Terms · Privacy Policy · Community &. Content Policy · Intellectual Property Policy · Tax Policy ...
-    
-*   Pandora
-    
-    Terms of Use · Subscription Terms · Premium Trial Terms · Privacy Policy · Community &. Content Policy · Intellectual Property Policy · Tax Policy ...
     
 *   Show Less ...
 
