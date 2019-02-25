@@ -88,8 +88,8 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Warbanner
     *   Sniper Team 2
-    *   Uphill Rush 7: Waterpark
     *   Slither.io
+    *   Uphill Rush 7: Waterpark
     *   Total Front: Army War Game
     *   Deer Hunter
     *   Stunt Skateboard 3D
@@ -158,8 +158,8 @@ View more results
     *   TenTrix
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
-    *   The Impossible Quiz 2
     *   Fireboy &. Watergirl 2: The Light Temple
+    *   The Impossible Quiz 2
 *   Top Categories
     
     *   Dress Up
@@ -188,8 +188,8 @@ View more results
     *   Back To School: Princesses Rush
     *   Papa's Cupcakeria
     *   Penguin Diner: Food Restaurant Game
-    *   Bartender
     *   Create a House: Building Game
+    *   Bartender
     *   Papa's Freezeria
     *   Fidget Spinner
 *   Top Categories
@@ -220,9 +220,9 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Happy Wheels
     *   Extreme Off-Road Cars 2
+    *   Parking Training
     *   Russian Car Driver
     *   Bus Man Parking 3D
-    *   Parking Training
     *   Neon Biker
 *   Top Categories
     
@@ -461,5 +461,5 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
