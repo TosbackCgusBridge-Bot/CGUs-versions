@@ -23,7 +23,7 @@ SALE EXTENDED: Select styles are still up to 50% off – SHOP NOW!
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
@@ -487,7 +487,6 @@ Returns
 
 Promotions
 
-*   Get Rewarded Faster
 *   Store Events
 *   Military Discount
 *   All Promotions
