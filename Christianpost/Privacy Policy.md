@@ -33,9 +33,9 @@ Hot Topics
 
 *   Drug crisis
 *   God's Voice
-*   Title X
-*   'Run the Race'
-*   Church theft
+*   Pastor suicide
+*   James MacDonald
+*   'A Star Is Born'
 
 About Us
 
