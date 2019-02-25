@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
 
-Get real-time updates on what your kids are learning on pbskids.org with PBS KIDS Super Vision.Get real-time updates on what your kids are learning on pbskids.org with PBS KIDS Super Vision.Download the free app now
+Take your strategy songs on the go! Download the free Daniel Tiger for Parents app today!Take your strategy songs on the go! Download the free Daniel Tiger for Parents app today!Get it now.
 
 Toggle message bar
 
