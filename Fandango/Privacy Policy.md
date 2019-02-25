@@ -71,7 +71,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   'The Angry Birds Movie 2': See Exclusive Teaser Poster, Watch New Trailer Read More
-    *   Today in Movie Culture: Thanos Reviews the Best Picture Nominees, the True Stories of ‘BlacKkKlansman’ and ‘Bohemian Rhapsody’ and More Read More
+    *   2019 Academy Award Winners Read More
     *   'If Beale Street Could Talk' Dominates the Film Independent Spirit Awards Read More
     
     Explore Content
