@@ -1,4 +1,4 @@
-3-day savings = BEST. WEEKEND. EVER - shop the store adSee DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -24,26 +24,24 @@ Shop Departments
 
 Near YouFind a StoreBackHot Sellers
 
-*   $399 clearance
+*   $24 sale
     
-    was $19.99 | 80% offHanes Sport Quick Dry Short Sleeve Solid Jersey Polo Shirt(3)
-*   from$2699 clearance
+    was $30 | 20% offStafford® 4-pk. Heavyweight Crewneck T-Shirts(679)
+*   from$1999 sale
     
-    was $79 | 60 - 65% offYuu Womens Nev Zip Bootie(69)
-*   $799 clearance
+    was $50 - $159 | 49 - 60% offStudio™ 550 TC UltraFit Solid Performance Sheet Set(1607)
+*   from$1799 sale
     
-    was $32 | 75% offXersion Mens Drawstring Waist Basketball Short(25)
-*   $649 clearance
+    was $30 - $535 | 40 - 50% offJCPenney Home™ McKenzie Washable Rectangular Rug(412)
+*   from$499 clearance
     
-    was $34 | 81% offThe Grinch® Fleece Pajama Pants
-*   BUY 1 GET 1 FOR FREE
+    was $17 - $22 | 68 - 70% offArizona Girls Crew Neck Long Sleeve Glitter Graphic T-Shirt-Preschool(4)
+*   $349 clearance
     
-    $42
+    was $19.99 | 82% offHanes Mens Short Sleeve Polo Shirt(9)
+*   from$1099 clearance
     
-    Arizona Basic Original Straight Jeans(1807)
-*   $499 clearance
-    
-    was $20 | 75% offXersion Graphic Tee Mens Crew Neck Short Sleeve T-Shirt(1)
+    was $55 | 65 - 80% offWorthington Womens Freemont Mules Slip-on Open Toe(53)
 
 Shop and Save at JCPenney
 
