@@ -22,26 +22,15 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackHot Sellers
+Near YouFind a StoreBackPROM DRESSESSHOP ALLPROM DRESSESSHOP ALL
 
-*   $24 sale
-    
-    was $30 | 20% offStafford® 4-pk. Heavyweight Crewneck T-Shirts(679)
-*   from$1999 sale
-    
-    was $50 - $159 | 49 - 60% offStudio™ 550 TC UltraFit Solid Performance Sheet Set(1607)
-*   from$1799 sale
-    
-    was $30 - $535 | 40 - 50% offJCPenney Home™ McKenzie Washable Rectangular Rug(412)
-*   from$499 clearance
-    
-    was $17 - $22 | 68 - 70% offArizona Girls Crew Neck Long Sleeve Glitter Graphic T-Shirt-Preschool(4)
-*   $349 clearance
-    
-    was $19.99 | 82% offHanes Mens Short Sleeve Polo Shirt(9)
-*   from$1099 clearance
-    
-    was $55 | 65 - 80% offWorthington Womens Freemont Mules Slip-on Open Toe(53)
+*   $8849after couponwas $169 Speechless Sleeveless Party Dress-JuniorsAdd To Cart
+*   $8849after couponwas $169 by&by Sleeveless Party Dress-JuniorsAdd To Cart
+*   $10499after couponwas $200 B. Smart Short Sleeve Applique Party Dress-JuniorsAdd To Cart
+*   $10499after couponwas $200 B. Smart Sleeveless Party Dress-JuniorsAdd To Cart
+*   $10499after couponwas $200 Speechless Sleeveless Embellished Ball Gown-JuniorsAdd To Cart
+*   $13124after couponwas $250 DJ Jaz Sleeveless Beaded Fitted Gown-JuniorsAdd To Cart
+*   $8849after couponwas $169 My Michelle Long Sleeve Fitted Gown-JuniorsAdd To Cart
 
 Shop and Save at JCPenney
 
