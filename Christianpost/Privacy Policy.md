@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Drug crisis
-*   God's Voice
-*   Pastor suicide
-*   James MacDonald
+*   Oscars
 *   'A Star Is Born'
+*   Brian Head Welch
+*   Mental illness
+*   Sharing faith
 
 About Us
 
