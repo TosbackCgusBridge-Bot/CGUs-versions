@@ -5,27 +5,32 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   How to Train Your Dragon: The Hidden World
     *   Alita: Battle Angel
     *   The Lego Movie 2: The Second Part
+    *   Fighting with My Family
     *   Isn't It Romantic
     *   What Men Want
     *   Happy Death Day 2U
     *   Cold Pursuit
     *   The Upside
-    *   Glass (2019)
-    *   The Prodigy (2019)
+    *   Run the Race
     *   Green Book
-    *   Aquaman
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   How to Train Your Dragon: The Hidden World
-    *   Fighting with My Family
-    *   Prosecuting Evil: The Extraordinary World of Ben Ferencz
-    *   Run the Race
-    *   Total Dhamaal
-    *   Wrestle (2018)
+    *   Greta (2019)
+    *   Tyler Perry's A Madea Family Funeral
+    *   Apollo 11
+    *   Climax (2019)
+    *   Furie
+    *   ¡He Matado a mi Marido!
+    *   Mapplethorpe
+    *   Saint Judy
+    *   Styx
+    *   Transit (2019)
+    *   The Wedding Guest
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -34,15 +39,14 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Tyler Perry's A Madea Family Funeral
-    *   Greta (2019)
     *   Five Feet Apart
     *   Wonder Park
-    *   Hotel Mumbai
-    *   Sunset (2019)
     *   Us (2019)
     *   Dumbo (2019)
     *   Unplanned (2019)
+    *   The Best of Enemies
+    *   Pet Sematary (2019)
+    *   Shazam!
     *   See All Coming Soon
     
     Explore More
@@ -70,9 +74,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'The Angry Birds Movie 2': See Exclusive Teaser Poster, Watch New Trailer Read More
-    *   2019 Academy Award Winners Read More
-    *   'If Beale Street Could Talk' Dominates the Film Independent Spirit Awards Read More
+    *   Today in Movie Culture: ‘Captain Marvel’ Villain Guide, the Evolution of Regina King and More Read More
+    *   Five Most Memorable Oscar Moments: 2019 Edition Read More
+    *   Next 3 Potential Oscar Contenders: 'Gloria Bell,' 'The Highwaymen,' 'Once Upon a Time in Hollywood' Read More
     
     Explore Content
     *   Movie Reviews
@@ -328,6 +332,10 @@ Offers
 *   Latest Movie Awards News
     
     Catch up on Awards news and get tickets to nominated movies, including Green Book and The Favourite. LEARN MORE
+    
+*   Get $8 towards a movie ticket to see BumbleBee in theaters now!
+    
+    When you purchase participating Paramount DVD or BluRay. Offer Expires on 2/28/2019. ENTER NOW
     
 
 New + Coming soon
