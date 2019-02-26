@@ -1,4 +1,4 @@
-Apps
+<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Apps
 
 *   {text}
     
@@ -94,8 +94,8 @@ View more results
     *   Deer Hunter
     *   Stunt Skateboard 3D
     *   Electricman 2: Stickman Fighting Game
-    *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Pixel Apocalypse
+    *   Army Force Strike: 3D Shooting Game Online Multiplayer
 *   Top Categories
     
     *   Platform Games
@@ -127,7 +127,7 @@ View more results
     *   FNAF: Sister Location Custom Night
     *   Tom and Jerry: Mouse Maze
     *   Fireboy and Watergirl 5: Elements
-    *   Uphill Rush
+    *   TJOC: The Joy Of Creation
 *   Top Categories
     
     *   Bubble Shooter
@@ -215,8 +215,8 @@ View more results
     *   Madalin Stunt Cars 2
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Hill Racing Challenge
-    *   Madalin Cars Multiplayer
     *   Bike Racing: Motorcycle Game
+    *   Madalin Cars Multiplayer
     *   Uphill Rush 7: Waterpark
     *   Happy Wheels
     *   Extreme Off-Road Cars 2
@@ -462,4 +462,4 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookie Consent
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
