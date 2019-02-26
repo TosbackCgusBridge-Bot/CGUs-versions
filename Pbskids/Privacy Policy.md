@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Take your strategy songs on the go! Download the free Daniel Tiger for Parents app today!Take your strategy songs on the go! Download the free Daniel Tiger for Parents app today!Get it now.
+Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Get instructions
 
 Toggle message bar
 
