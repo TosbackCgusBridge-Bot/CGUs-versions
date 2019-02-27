@@ -59,8 +59,8 @@ Close submenu ( Girls ) Girls
 *   Swim
 *   Extended Sizes
 *   Clearance
-
-*   Open submenu ( Live Love Dream ) Live Love Dream
+*   Bras + Undies
+*   Live Love Dream
 
 *   Open submenu ( Collections ) Collections
 
@@ -90,14 +90,6 @@ Close submenu ( Bottoms ) Bottoms
 *   Pants
 *   Shorts
 *   Skirts
-
-Close submenu ( Live Love Dream ) Live Love Dream
-
-*   View All
-*   Active
-*   Lounge
-*   Bras
-*   Undies
 
 Close submenu ( Collections ) Collections
 
@@ -296,13 +288,8 @@ Menu Find a Store Aeropostale
     *   Swim
     *   Extended Sizes
     *   Clearance
-    
+    *   Bras + Undies
     *   Live Love Dream
-        *   View All
-        *   Active
-        *   Lounge
-        *   Bras
-        *   Undies
     
     *   Collections
         *   View All
@@ -313,6 +300,7 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Seriously Soft
         *   Uniform
+    
 *   Guys
     
     *   View Home
@@ -418,7 +406,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Exclusions Apply Shop Girls Bottoms Shop Guys Bottoms Exclusions Apply Shop Girls Graphics Shop Guys Graphics Shop Girls Shop Guys Contest Details Shop Girls Jeans Guide Shop Guys Jeans Guide Previous Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Next Shop Cheeky Shop Girls Jeans Shop Slim Shop Guys Jeans Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Free Shipping On Orders Over $50 Or When You Buy Jeans Exclusions Apply Shop Girls Bottoms Shop Guys Bottoms Exclusions Apply Shop Girls Graphics Shop Guys Graphics Contest Details Shop Girls Shop Guys Shop Girls Jeans Guide Shop Guys Jeans Guide Previous Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Next Shop Cheeky Shop Girls Jeans Shop Slim Shop Guys Jeans Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
