@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 25% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: GLISTEN pin: 2642 DETAILS
+code: SNOW pin: 6342 DETAILS
 
 Customer Service Menu
 
@@ -241,7 +241,6 @@ sign up**Get exclusive Offers and News**Privacy Policy &. Contact Info sign up U
 *   **Call or text us 1-800-963-4816**
 *   **Live Chat**
 *   Help Center
-*   Guaranteed. Period.®
 *   Track My Order
 *   Contact Us
 *   Shipping
@@ -287,7 +286,7 @@ Stores
 *   Recall &. Safety Info
 *   CA Transparency Act
 
-*   © 2018 lands' end
+*   © 2019 lands' end
 *   Sitemap
 *   Index
 
