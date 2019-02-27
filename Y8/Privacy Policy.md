@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx
+New Games Next in  01:19:01
 
-*   By Date Next addition in xx:xx
+*   By Date Next addition in 01:19:01
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in xx:xx
-*   Best of new games 695 games
-*   Most Popular Games 18808 games
+*   New Games Next in 01:19:01
+*   Best of new games 693 games
+*   Most Popular Games 18816 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,757 games
-*   Driving &. Racing Games 6,789 games
-*   Strategy &. RPG Games 2,407 games
-*   Management Games 3,642 games
-*   Thinking Games 11,941 games
-*   Action &. Adventure Games 15,970 games
+*   Games for girls 23,755 games
+*   Driving &. Racing Games 6,788 games
+*   Strategy &. RPG Games 2,408 games
+*   Management Games 3,646 games
+*   Thinking Games 11,940 games
+*   Action &. Adventure Games 15,973 games
 *   Sports Games 2,181 games
-*   Shooting Games 8,410 games
+*   Shooting Games 8,411 games
 *   Fighting Games 2,095 games
-*   Skill Games 10,836 games
-*   Arcade &. Classic Games 12,780 games
+*   Skill Games 10,838 games
+*   Arcade &. Classic Games 12,782 games
 *   Fun &. Crazy Games 2,489 games
 
 Play with friends  
-Powered by Y8 Account 139 Y8 Multiplayer Games 1,899 Y8 High Score Games 1,134 Y8 Achievements Games 806 Y8 Screenshots Games 1,399 Y8 Online Save Games 2,948 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 140 Y8 Multiplayer Games 1,899 Y8 High Score Games 1,134 Y8 Achievements Games 806 Y8 Screenshots Games 1,400 Y8 Online Save Games 2,944 All Y8 Games Games Last Highscore:
 
-**33** points on Military Wars 3D Multiplayer by alex
+**1,200** points on Football Legends 2016 by KILLERSILVER1
 
 Help us improve Bad translation? Social
 
