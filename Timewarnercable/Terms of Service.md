@@ -1,4 +1,4 @@
-74e19735-d636-4ee4-a182-ba47b8479389
+f5af9011-6e82-4097-a850-849ad21e881e
 
 *   Search
 *   Contact Us
@@ -20,8 +20,8 @@ Toggle Navigation
     *   Internet
     *   Cable TV
     *   Home Phone
-    *   Mobile
-    *   Latino
+    *   <div class="default linkComponent">. <div data-id="66982099-0b3d-40fb-ab44-e19281ed3ba2" class="text-left spectrum-icon-before ">. <a href="/mobile.html" target="\_self" data-target="#" data-linkname="Mobile" data-linktype="hamburger\_nav">. <span class="linkLabel ">. Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="66982099\\u002D0b3d\\u002D40fb\\u002Dab44\\u002De19281ed3ba2"\]').linkComponent(). }). </script>. </div>.
+    *   <div class="default linkComponent">. <div data-id="bf1436fd-32d6-49bd-81c4-25246acc73ab" class="text-left spectrum-icon-before ">. <a href="/latino-plans.html" target="\_self" data-target="#" data-linkname="Latino" data-linktype="hamburger\_nav">. <span class="linkLabel ">. Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="bf1436fd\\u002D32d6\\u002D49bd\\u002D81c4\\u002D25246acc73ab"\]').linkComponent(). }). </script>. </div>.
     *   Business
 *   Manage Account
 *   Support
@@ -68,8 +68,8 @@ Shop Spectrum +
 *   Spectrum Internet
 *   Spectrum TV
 *   Spectrum Voice
-*   Mi Plan Latino
-*   Spectrum Mobile
+*   <div class="default linkComponent">. <div data-id="7befba85-72ae-49df-a931-eccbf2e8253e" class="text-left spectrum-icon-before ">. <a href="/latino-plans" target="\_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global\_footer">. <span class="linkLabel ">. Mi Plan Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="7befba85\\u002D72ae\\u002D49df\\u002Da931\\u002Deccbf2e8253e"\]').linkComponent(). }). </script>. </div>.
+*   <div class="default linkComponent">. <div data-id="6cb75a43-f96a-443a-9f84-2f916af3ea48" class="text-left spectrum-icon-before ">. <a href="/mobile" target="\_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global\_footer">. <span class="linkLabel ">. Spectrum Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="6cb75a43\\u002Df96a\\u002D443a\\u002D9f84\\u002D2f916af3ea48"\]').linkComponent(). }). </script>. </div>.
 *   Spectrum Sports Networks
 *   Spectrum Premium Channels
 
@@ -168,5 +168,3 @@ Plus, **NO CONTRACTS.**
 2-HOUR APPOINTMENT WINDOWS
 
 If our technician is not on time, **you get $20**
-
-✓Verify
