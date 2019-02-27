@@ -74,7 +74,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Captain Marvel’ Villain Guide, the Evolution of Regina King and More Read More
+    *   New ‘Detective Pikachu’ Trailer Presents Unlikely But Lovable Heroes. Here’s Everything We Know Read More
     *   Five Most Memorable Oscar Moments: 2019 Edition Read More
     *   Next 3 Potential Oscar Contenders: 'Gloria Bell,' 'The Highwaymen,' 'Once Upon a Time in Hollywood' Read More
     
@@ -328,10 +328,6 @@ Offers
 *   Fandango VIP
     
     Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
-    
-*   Latest Movie Awards News
-    
-    Catch up on Awards news and get tickets to nominated movies, including Green Book and The Favourite. LEARN MORE
     
 *   Get $8 towards a movie ticket to see BumbleBee in theaters now!
     
