@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Oscars
+*   Joshua Holmes
+*   Korn
+*   Democrats pro-life
 *   'A Star Is Born'
-*   Brian Head Welch
-*   Mental illness
-*   Sharing faith
+*   Ed Newton
 
 About Us
 
