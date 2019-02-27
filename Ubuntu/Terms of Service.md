@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Using LXD on your Chromebook ›
+*   Ubuntu is EAL2 certified ›
+*   Securing IoT device data against physical access ›
 *   EdgeX Foundry, the common framework for IoT edge computing, now available as a snap ›
 *   Design and Web team summary – 20 February 2019 ›
-*   How selecting the right Linux OS expedites IoT time to market ›
-*   Easy IoT with Ubuntu Core and Raspberry Pi ›
-*   The forecast is robots ›
