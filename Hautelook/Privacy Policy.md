@@ -8,11 +8,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Sam Edelman Starting at $30
+    *   TOV
+    *   Free Shipping: Beach Towels Starting at $10
+    *   Keep It Cool: Insulated Stainless Steel Bottles
+    *   Make a Splash: Pool Floats, Neon Lights &. More
+    *   Pool Party Ready: Drinkware, Games &. More
+    *   Love...Ady Dresses
+    *   SUSINA and 14th &. Union Incl. Plus and Petites
+    *   Sam Edelman Handbags Up to 50% Off
+    *   London Fog Coats
+    *   Gemstone Jewelry Finds Up to 80% Off
+    *   Office to Outdoors: Jackets Incl. Plus &. Petites
+    *   Karen Walker &. More: Sun Up to 70% Off
+    *   The Original Makeup Eraser
+    *   Kenneth Cole Reaction Up to 65% Off
+    *   Sam Edelman Girls Starting at $20
+    *   Meet Your Mantra: Electric Yoga &. Onzie
+    *   Must-Have Mules Up to 60% Off
+    *   Men's Accessories Up to 80% Off
+    *   Diadora Men Starting at $30
+    *   Styles for Flower Girls &. Ring Bearers
+    *   Spring Forward: Rachel Roy Collection &. More
     *   Hudson Jeans
+    
     *   Hudson Jeans Men Up to 70% Off
     *   Work It: Dresses ft. Tahari Incl. Plus &. Petites
     *   Water-Resistant Boots &. Booties Up to 50% Off
-    *   Freida Rothman Jewelry
+    *   Freida Rothman Jewelry Up to 50% Off
     *   Latest Obsession: Bodysuits
     *   Free Shipping: Lace-Trim Sheet Sets &. More
     *   Hudson Jeans Kids Under $35
@@ -25,70 +48,56 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Whimsical Wants: Kitchen &. Dining Upgrades
     *   XRAY Men's Clothing Starting at $15
     *   XRAY Shoes Up to 60% Off
-    *   Aquatalia
-    *   Spring Forward: Rachel Roy Collection &. More
     *   Vintage Foundry Up to 80% Off
-    *   All in the Details: Tie-Front Styles &. More
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   NuReveal Organics
-    *   Panty Packs ft. Honeydew
-    *   Tart Sleep &. More
-    
     *   Free Shipping: Hand-Painted Replicas
     *   Spring Stock Up: Men's Graphic Tees
     *   Best for Baby: Footies, Sets &. More
-    *   Max Studio
-    *   Meghan LA
-    *   Jeffrey Campbell Up to 60% Off
-    *   Paul &. Joe Sister
-    *   Valentino by Mario Valentino
-    *   Gemstones, Diamonds &. More Up to 80% Off
-    *   Trask Up to 65% Off
     *   Lime Crime &. OFRA Cosmetics
-    *   Betsey Johnson Swim
+    
     *   Look on the Bright Side: Lighting for Every Room
-    *   On-Trend Jewelry ft. Gabi Rielle from $30
     *   Tiri Pro Hair Tools Up to 75% Off
-    *   Travel Accessories
     *   Linen-Closet Faves: Towels &. More Up to 50% Off
     *   Free Shipping: Fashionably Chic Art
-    *   Accessories for Girls ft. Curls &. Pearls
-    *   English Laundry Starting at $20
-    *   Timberland Men Up to 50% Off
     *   Bone Appetit: Pet Food Bowls &. More
     *   Free Shipping: Melange Bedding
     *   Trophy Skin Anti-Aging Beauty Tools
     *   Cuisinart
-    
-    *   GoldynGlow
     *   Storage Must-Haves from $10
     *   Great Greenery: Faux Succulents from $10
     *   Free Shipping: Rizzy Bedding &. Pillows
     *   Free Shipping: Modern Decor &. Lighting
-    *   Go Couture Dresses Up to 80% Off
-    *   Free Shipping: On-Trend Storage, Decor &. More
-    *   Luxe Warmth: Cashmere Throws &. More
-    *   Gevril Watches Up to 75% Off
-    *   Bulova Watches Up to 70% Off
     *   Casually Cool: Men's Shoes Up to 60% Off
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Sunday Steals Up to 75% Off
     *   Men's Final Few Up to 75% Off
     *   Lola Made In Italy Up to 75% Off
-    *   On Trend: Sterling Forever Jewelry Up to 70% Off
-    *   Champion Active
-    *   Free Shipping: Bedding Blowout
-    *   Naked Zebra Under $40
-    *   Free Shipping: Modern Flatware
-    *   Chef's Special: Cookware, Prep Tools &. More
     *   Sandals &. More Up to 60% Off
-    *   Maaji Up to 50% Off: New Styles Added
+    *   Free Shipping: Bedding Blowout
+    *   On Trend: Sterling Forever Jewelry Up to 70% Off
+    *   Chef's Special: Cookware, Prep Tools &. More
+    *   Max Studio
 *   WomenShop Sale Events
     
+    *   Sam Edelman Starting at $30
+    *   TOV
+    *   Love...Ady Dresses
+    *   SUSINA and 14th &. Union Incl. Plus and Petites
+    *   Sam Edelman Handbags Up to 50% Off
+    *   London Fog Coats
+    *   Gemstone Jewelry Finds Up to 80% Off
+    *   Office to Outdoors: Jackets Incl. Plus &. Petites
+    *   Karen Walker &. More: Sun Up to 70% Off
+    *   The Original Makeup Eraser
+    *   Meet Your Mantra: Electric Yoga &. Onzie
+    *   Must-Have Mules Up to 60% Off
+    *   Spring Forward: Rachel Roy Collection &. More
     *   Hudson Jeans
     *   Work It: Dresses ft. Tahari Incl. Plus &. Petites
     *   Water-Resistant Boots &. Booties Up to 50% Off
-    *   Freida Rothman Jewelry
+    *   Freida Rothman Jewelry Up to 50% Off
+    
     *   Latest Obsession: Bodysuits
     *   Michael Todd Beauty Soniclear &. More
     *   The Want List: Tops &. More from $10
@@ -96,84 +105,64 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Make Waves: Playful Swim ft. Ella Moss
     *   IT Luggage Up to 60% Off
     *   Vicenzo Leather
-    *   Aquatalia
-    *   Spring Forward: Rachel Roy Collection &. More
-    *   All in the Details: Tie-Front Styles &. More
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   NuReveal Organics
-    *   Panty Packs ft. Honeydew
-    *   Tart Sleep &. More
-    *   Max Studio
-    *   Meghan LA
-    
-    *   Jeffrey Campbell Up to 60% Off
-    *   Paul &. Joe Sister
-    *   Valentino by Mario Valentino
-    *   Gemstones, Diamonds &. More Up to 80% Off
-    *   Trask Up to 65% Off
     *   Lime Crime &. OFRA Cosmetics
-    *   On-Trend Jewelry ft. Gabi Rielle from $30
     *   Tiri Pro Hair Tools Up to 75% Off
     *   Trophy Skin Anti-Aging Beauty Tools
-    *   GoldynGlow
-    *   Go Couture Dresses Up to 80% Off
-    *   Gevril Watches Up to 75% Off
-    *   Bulova Watches Up to 70% Off
     *   Sunday Steals Up to 75% Off
     *   Lola Made In Italy Up to 75% Off
-    *   On Trend: Sterling Forever Jewelry Up to 70% Off
-    *   Champion Active
-    *   Naked Zebra Under $40
     *   Sandals &. More Up to 60% Off
-    *   Maaji Up to 50% Off: New Styles Added
+    *   On Trend: Sterling Forever Jewelry Up to 70% Off
+    *   Max Studio
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie
     *   Handbags
     *   Accessories
-    *   Watches
+    *   Lingerie
 *   MenShop Sale Events
     
+    *   Kenneth Cole Reaction Up to 65% Off
+    *   Men's Accessories Up to 80% Off
+    *   Diadora Men Starting at $30
     *   Hudson Jeans Men Up to 70% Off
     *   IT Luggage Up to 60% Off
     *   XRAY Men's Clothing Starting at $15
+    
     *   XRAY Shoes Up to 60% Off
     *   Vintage Foundry Up to 80% Off
     *   Spring Stock Up: Men's Graphic Tees
-    *   Travel Accessories
-    
-    *   English Laundry Starting at $20
-    *   Timberland Men Up to 50% Off
-    *   GoldynGlow
-    *   Gevril Watches Up to 75% Off
-    *   Bulova Watches Up to 70% Off
     *   Casually Cool: Men's Shoes Up to 60% Off
     *   Men's Final Few Up to 75% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Sam Edelman Girls Starting at $20
+    *   Styles for Flower Girls &. Ring Bearers
     *   Hudson Jeans Kids Under $35
     *   Best for Baby: Footies, Sets &. More
-    *   Betsey Johnson Swim
-    *   Accessories for Girls ft. Curls &. Pearls
     
     Shop By Category
     *   Baby Girl
-    *   Girls' Sizes 7-16
     *   Baby Boy
+    *   Girls' Sizes 7-16
+    *   Boys' Sizes 2T-7
+    *   Girls' Shoes
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 8-20
-    *   Boys' Sizes 2T-7
 *   HomeShop Sale Events
     
+    *   Free Shipping: Beach Towels Starting at $10
+    *   Keep It Cool: Insulated Stainless Steel Bottles
+    *   Make a Splash: Pool Floats, Neon Lights &. More
+    *   Pool Party Ready: Drinkware, Games &. More
     *   Free Shipping: Lace-Trim Sheet Sets &. More
     *   IT Luggage Up to 60% Off
     *   Whimsical Wants: Kitchen &. Dining Upgrades
@@ -181,46 +170,43 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Look on the Bright Side: Lighting for Every Room
     *   Linen-Closet Faves: Towels &. More Up to 50% Off
     *   Free Shipping: Fashionably Chic Art
+    
     *   Bone Appetit: Pet Food Bowls &. More
     *   Free Shipping: Melange Bedding
     *   Cuisinart
-    
     *   Storage Must-Haves from $10
     *   Great Greenery: Faux Succulents from $10
     *   Free Shipping: Rizzy Bedding &. Pillows
     *   Free Shipping: Modern Decor &. Lighting
-    *   Free Shipping: On-Trend Storage, Decor &. More
-    *   Luxe Warmth: Cashmere Throws &. More
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: Bedding Blowout
-    *   Free Shipping: Modern Flatware
     *   Chef's Special: Cookware, Prep Tools &. More
     
     Shop By Category
     *   Bedding
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Pet Accessories
-    *   Luggage &. Travel
     *   Bath
-    *   Storage &. Organization
+    *   Pet Accessories
     *   Outdoor Living
-    *   Accent Furniture
+    *   Luggage &. Travel
+    *   Cleaning &. Organization
+    *   Tech Accessories
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   The Original Makeup Eraser
     *   Michael Todd Beauty Soniclear &. More
     *   NuReveal Organics
     *   Lime Crime &. OFRA Cosmetics
     *   Tiri Pro Hair Tools Up to 75% Off
     *   Trophy Skin Anti-Aging Beauty Tools
-    *   GoldynGlow
     
     Shop By Category
+    *   Hair Care
     *   Makeup
     *   Tools &. Accessories
     *   Skin Care
-    *   Hair Care
     *   Bath &. Body
     *   Makeup Bags
 
