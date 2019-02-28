@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $99See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -29,27 +29,8 @@ Near YouFind a StoreBackPROM DRESSESSHOP ALLPROM DRESSESSHOP ALL
 *   $13124after couponwas $250 DJ Jaz Sleeveless Beaded Fitted Gown-JuniorsAdd To Cart
 *   $10499after couponwas $200 Speechless Sleeveless Embellished Ball Gown-JuniorsAdd To Cart
 *   $10499after couponwas $200 B. Smart Short Sleeve Applique Party Dress-JuniorsAdd To Cart
-*   $13499after couponwas $250 Speechless Sleeveless Embellished Ball Gown-JuniorsAdd To Cart
 *   $8849after couponwas $169 by&by Sleeveless Party Dress-JuniorsAdd To Cart
-
-Hot Sellers
-
-*   $509after couponwas $34 Carter's 4pc Sleeping Beauties Pajama Set- Baby Girl
-*   $389after couponwas $26 Carter's Long Sleeve Hooded Sweatshirt-Toddler Boys
-*   from$1299 clearance
-    
-    was $39 | 61 - 66% offeast 5th Womens Gaby Wedge Sandals(18)
-*   BUY MORE AND SAVE WITH CODE: 4FORYOU
-    
-    $30
-    
-    The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(9)
-*   $561after couponwas $30 St. John's Bay Mens Long Sleeve Polo Shirt(19)
-*   BUY MORE AND SAVE WITH CODE: 4FORYOU
-    
-    from$30
-    
-    Arizona Original Fit Flex Jeans Boys 4-20, Slim &. HUsky(21)
+*   $13499after couponwas $250 Speechless Sleeveless Embellished Ball Gown-JuniorsAdd To Cart
 
 Shop and Save at JCPenney
 
