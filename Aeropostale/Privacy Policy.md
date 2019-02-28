@@ -51,8 +51,8 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Bottoms ) Bottoms
 
-*   Jackets
 *   Dresses
+*   Jackets
 *   Accessories
 *   Sandals
 *   Fragrance
@@ -60,7 +60,6 @@ Close submenu ( Girls ) Girls
 *   Extended Sizes
 *   Clearance
 *   Bras + Undies
-*   Live Love Dream
 
 *   Open submenu ( Collections ) Collections
 
@@ -70,11 +69,11 @@ Close submenu ( Tops ) Tops
 *   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
-*   Long Sleeve
-*   Hoodies + Sweatshirts
 *   Polos
 *   Camis + Tanks
+*   Hoodies + Sweatshirts
 *   Fashion Tops
+*   Long Sleeve
 *   Shirts
 *   Sweaters
 *   Active Tops
@@ -85,10 +84,10 @@ Close submenu ( Bottoms ) Bottoms
 *   Buy 1 Get 1 Free
 *   Jeans
 *   Jeggings
+*   Shorts
 *   Leggings + Active
 *   Joggers + Lounge
 *   Pants
-*   Shorts
 *   Skirts
 
 Close submenu ( Collections ) Collections
@@ -98,6 +97,8 @@ Close submenu ( Collections ) Collections
 *   Online Only
 *   Jeans Guide
 *   Tribe Of Tees
+*   Active
+*   Lounge
 *   Basic Essentials
 *   Seriously Soft
 *   Uniform
@@ -127,8 +128,8 @@ Close submenu ( Tops ) Tops
 *   Tees
 *   Graphic Tees
 *   Polos
-*   Long Sleeve
 *   Hoodies + Sweatshirts
+*   Long Sleeve
 *   Shirts
 
 Close submenu ( Bottoms ) Bottoms
@@ -136,9 +137,9 @@ Close submenu ( Bottoms ) Bottoms
 *   View All
 *   Buy 1 Get 1 Free
 *   Jeans
+*   Shorts
 *   Joggers + Sweats
 *   Pants
-*   Shorts
 
 Close submenu ( Collections ) Collections
 
@@ -259,11 +260,11 @@ Menu Find a Store Aeropostale
         *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
-        *   Long Sleeve
-        *   Hoodies + Sweatshirts
         *   Polos
         *   Camis + Tanks
+        *   Hoodies + Sweatshirts
         *   Fashion Tops
+        *   Long Sleeve
         *   Shirts
         *   Sweaters
         *   Active Tops
@@ -273,15 +274,15 @@ Menu Find a Store Aeropostale
         *   Buy 1 Get 1 Free
         *   Jeans
         *   Jeggings
+        *   Shorts
         *   Leggings + Active
         *   Joggers + Lounge
         *   Pants
-        *   Shorts
         *   Skirts
         
     
-    *   Jackets
     *   Dresses
+    *   Jackets
     *   Accessories
     *   Sandals
     *   Fragrance
@@ -289,7 +290,6 @@ Menu Find a Store Aeropostale
     *   Extended Sizes
     *   Clearance
     *   Bras + Undies
-    *   Live Love Dream
     
     *   Collections
         *   View All
@@ -297,6 +297,8 @@ Menu Find a Store Aeropostale
         *   Online Only
         *   Jeans Guide
         *   Tribe Of Tees
+        *   Active
+        *   Lounge
         *   Basic Essentials
         *   Seriously Soft
         *   Uniform
@@ -310,17 +312,17 @@ Menu Find a Store Aeropostale
         *   Tees
         *   Graphic Tees
         *   Polos
-        *   Long Sleeve
         *   Hoodies + Sweatshirts
+        *   Long Sleeve
         *   Shirts
     
     *   Bottoms
         *   View All
         *   Buy 1 Get 1 Free
         *   Jeans
+        *   Shorts
         *   Joggers + Sweats
         *   Pants
-        *   Shorts
         
     
     *   Jackets
