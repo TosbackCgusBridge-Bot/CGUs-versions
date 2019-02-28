@@ -28,29 +28,21 @@
 *   Video Video In This Section
     
     *   Watch MLB.TV
-    *   Instant Replay
     *   Statcast
+    *   Instant Replay
     *   Players of the Week
     *   MLB Network
-    *   Sharable Video/GIFs
-    *   Stadium
+    *   Shareable Video/GIFs
     *   Podcasts
-    *   Real Fast
-    *   Most Popular
     
     Featured
-    *   Clinches &. Celebrations
-    *   Tip of the Cap
-    *   Dirtiest Plays
+    *   Most Popular
     *   Must C
+    *   First Pitch
+    *   Front Office Focus
     *   Chatting Cage
     *   Carry The Freight
-    *   This Date in History
-    *   Front Office Focus
-    *   First Pitch
-    *   The Catch &. Trading Bases
-    *   Fan Favorites
-    *   Pitching Matchups
+    *   Real Fast
 *   Standings Standings Standings
     *   2018 Regular Season Standings
     *   2018 Postseason Bracket
@@ -420,5 +412,6 @@ Connect with MLB
 *   Privacy Policy (Updated May 24, 2018)
 *   Legal Notices
 *   Contact Us
+*   Cookie Preferences
 
 © 2019 MLB Advanced Media, LP. All rights reserved. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MD6MQQP" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
