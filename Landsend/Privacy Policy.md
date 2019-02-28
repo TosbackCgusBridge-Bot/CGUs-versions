@@ -246,6 +246,7 @@ sign up**Get exclusive Offers and News**Privacy Policy &. Contact Info sign up U
 *   Shipping
 *   Returns
 *   Site Map
+*   Change Country/Currency
 
 Company
 
