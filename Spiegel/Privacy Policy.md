@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   27\. Februar 2019
+*   28\. Februar 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.540,79ǀ
+*   DAX 11.487,33ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -92,6 +92,7 @@ Anmelden
         *   Buchrezensionen
     
 *   Video
+*   Podcast
 *   Netzwelt
     
     *   *   Übersicht
@@ -316,7 +317,6 @@ TOP Die Homepage wurde aktualisiert. Jetzt aufrufen. Hinweis nicht mehr anzeigen
 
 *   FINANZEN
 *   Währungsrechner
-*   Immobilien-Börse
 *   Versicherungen
 
 *   FREIZEIT
