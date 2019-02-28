@@ -32,10 +32,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 Hot Topics
 
 *   Joshua Holmes
-*   Korn
-*   Democrats pro-life
-*   'A Star Is Born'
-*   Ed Newton
+*   UMC LGBT
+*   YouTube kids suicide
+*   Infanticide
+*   Fake resurrection
 
 About Us
 
