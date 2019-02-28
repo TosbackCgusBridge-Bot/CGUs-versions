@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Single-Node Kubernetes on Raspberry Pi with MicroK8s and Ubuntu ›
 *   Using LXD on your Chromebook ›
 *   Ubuntu is EAL2 certified ›
 *   Securing IoT device data against physical access ›
 *   EdgeX Foundry, the common framework for IoT edge computing, now available as a snap ›
-*   Design and Web team summary – 20 February 2019 ›
