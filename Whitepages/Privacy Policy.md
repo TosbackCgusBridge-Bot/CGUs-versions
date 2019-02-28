@@ -3,7 +3,6 @@ Search smarter and get more done with expanded identity data
 TRY PRO FREE FOR 7 DAYS
 
 *   Facebook
-*   Google+
 *   LinkedIn
 
 **Company**
