@@ -1,4 +1,4 @@
-For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
 
 expand
 
@@ -59,7 +59,7 @@ Marriott Rewards
     
     Check-out 1 night
     
-    February2019 SunMonTueWedThuFriSat272829303112345678910111213141516171819202122232425262728123456789ClearDone
+    March2019 SunMonTueWedThuFriSat242526272812345678910111213141516171819202122232425262728293031123456ClearDone
     
     My dates are flexible
     
@@ -568,5 +568,3 @@ Marriott For:
 *   Tracking Preferences
 
 © 1996 - 2019 Marriott International, Inc. All rights reserved. Marriott proprietary information
-
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
