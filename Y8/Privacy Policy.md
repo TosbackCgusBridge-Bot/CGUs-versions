@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  01:19:01
+New Games Next in  xx:xx
 
-*   By Date Next addition in 01:19:01
+*   By Date Next addition in xx:xx
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
-*   New Games Next in 01:19:01
-*   Best of new games 693 games
-*   Most Popular Games 18816 games
+*   New Games Next in xx:xx
+*   Best of new games 692 games
+*   Most Popular Games 18823 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,755 games
-*   Driving &. Racing Games 6,788 games
-*   Strategy &. RPG Games 2,408 games
+*   Games for girls 23,754 games
+*   Driving &. Racing Games 6,787 games
+*   Strategy &. RPG Games 2,409 games
 *   Management Games 3,646 games
-*   Thinking Games 11,940 games
-*   Action &. Adventure Games 15,973 games
-*   Sports Games 2,181 games
-*   Shooting Games 8,411 games
+*   Thinking Games 11,942 games
+*   Action &. Adventure Games 15,974 games
+*   Sports Games 2,180 games
+*   Shooting Games 8,412 games
 *   Fighting Games 2,095 games
-*   Skill Games 10,838 games
-*   Arcade &. Classic Games 12,782 games
-*   Fun &. Crazy Games 2,489 games
+*   Skill Games 10,840 games
+*   Arcade &. Classic Games 12,781 games
+*   Fun &. Crazy Games 2,490 games
 
 Play with friends  
-Powered by Y8 Account 140 Y8 Multiplayer Games 1,899 Y8 High Score Games 1,134 Y8 Achievements Games 806 Y8 Screenshots Games 1,400 Y8 Online Save Games 2,944 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 140 Y8 Multiplayer Games 1,900 Y8 High Score Games 1,135 Y8 Achievements Games 807 Y8 Screenshots Games 1,402 Y8 Online Save Games 2,947 All Y8 Games Games Last Highscore:
 
-**1,200** points on Football Legends 2016 by KILLERSILVER1
+**3,800** points on Taz Mechanic Simulator by mamamo
 
 Help us improve Bad translation? Social
 
