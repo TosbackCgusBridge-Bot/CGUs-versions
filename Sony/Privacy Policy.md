@@ -111,7 +111,7 @@ Learn More About the Sony Pictures Animation Movie
 
 There's a hero in all of us, and we couldn't have done it without you. Thank you to the Academy for recognizing the incredible team behind #SpiderVerse: Winner - Best Animated Feature 🏆 pic.twitter.com/qxBq9dJlHq
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -155,7 +155,7 @@ Learn More About aibo
 
 New PlayStation games coming this week:  https://play.st/2GDRxAl  Trials Rising, Dead or Alive 6, and more pic.twitter.com/C7syIwiKfu
 
-2 days ago
+3 days ago
 
 View Tweet
 
