@@ -32,7 +32,7 @@ Thomson Reuters Legal
     
     Featured
     
-    **Practical Law resources** Explore the features that make our legal resources the ideal starting point for any legal task. Learn more
+    Introducing **CLEAR Risk Inform** Gain immediate, reliable risk insights for individuals and businesses. Learn more
 *   InsightsInsights Insights
     
     *   Latest stories
