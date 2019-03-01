@@ -797,7 +797,7 @@ Helpful Links
 
 Follow Mattel
 
-*   NEW Privacy Statement
+*   Privacy Statement
 *   Terms &. Conditions
 
 *   © 2019 Mattel. All Rights Reserved
