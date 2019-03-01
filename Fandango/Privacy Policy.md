@@ -75,8 +75,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   New ‘Detective Pikachu’ Trailer Presents Unlikely But Lovable Heroes. Here’s Everything We Know Read More
-    *   Five Most Memorable Oscar Moments: 2019 Edition Read More
-    *   Next 3 Potential Oscar Contenders: 'Gloria Bell,' 'The Highwaymen,' 'Once Upon a Time in Hollywood' Read More
+    *   Today in Movie Culture: A 1990s Version of ‘Captain Marvel,’ a Real ‘How to Train Your Dragon’ Fire Sword and More Read More
+    *   New 'Dark Phoenix' Trailer Darkens the X-Men Universe: Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -325,14 +325,6 @@ Offers
     
     Own the 8-movie Madea Collection for $15 with ticket purchase! BUY TICKETS
     
-*   Fandango VIP
-    
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
-    
-*   Get $8 towards a movie ticket to see BumbleBee in theaters now!
-    
-    When you purchase participating Paramount DVD or BluRay. Offer Expires on 2/28/2019. ENTER NOW
-    
 
 New + Coming soon
 
@@ -372,7 +364,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   February Celebrity Birthdays
+*   March Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Privacy Policy Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
