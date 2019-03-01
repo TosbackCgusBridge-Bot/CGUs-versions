@@ -238,35 +238,38 @@ Some Mozilla websites allow you to make purchases (such as apps or gear) or make
 *   **Fraud Prevention**: Mozilla has implemented third-party technology, Google’s Invisible reCAPTCHA, that operates in the background of on some of our websites in order to identify fraudulent activity. Use of the Invisible reCAPTCHA is governed by the Google Privacy Policy and Terms of Use.
     
 
-Back to Mozilla Privacy Policy Mozilla Mozilla
+Back to Mozilla Privacy Policy Mozilla Company
 
 *   About
-*   Blog
-*   Contact Us
 *   Press Center
-*   Donate
-*   Contribute to this site
-*   Source code for this page
-*   *   Twitter (@mozilla)
-    *   Instagram (@mozilla)
+*   Careers
 
-Firefox
+Developers
 
-*   Download Firefox
-*   Desktop
-*   Mobile
-*   Features
-*   Beta, Nightly, Developer Edition
-*   *   Twitter (@firefox)
-    *   YouTube (firefoxchannel)
+*   Test New Features
+*   MDN Web Docs
+*   Tools
+
+Resources
+
+*   Privacy
+*   Contact
+
+Product Help
+
+*   Support
+*   File a Bug
+
+Language Language عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दी (भारत)HrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиதமிழ்Go
+
+*   Twitter (@mozilla)
+*   Instagram (@mozilla)
+
+Visit Mozilla Corporation’s not-for-profit parent, the Mozilla Foundation.  
+Portions of this content are ©1998–2019 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
 *   Privacy
 *   Website Privacy Notice
 *   Cookies
 *   Legal
-
-Visit Mozilla Corporation’s not-for-profit parent, the Mozilla Foundation.
-
-Portions of this content are ©1998–2019 by individual mozilla.org contributors. Content available under a Creative Commons license.
-
-Language Language عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दी (भारत)HrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиதமிழ்Go
+*   Community Participation Guidelines
