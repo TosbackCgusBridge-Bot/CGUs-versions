@@ -28,7 +28,7 @@ Skip to main navigation
     *   Investor Alerts
 *   Contact Us
 
-Latest Quarterly Earnings Q4 Feb 27, 2019 at 9:00 AM EST Q4 2018 Office Depot Inc Earnings Conference Call Click here for webcast view more Latest Quarterly Earnings Q4 Feb 27, 2019 at 9:00 AM EST Q4 2018 Office Depot Inc Earnings Conference Call Click here for webcast view more Investor Relations Company Profile
+Latest Quarterly Earnings Q4 Feb 27, 2019 Q4 2018 Office Depot Inc Earnings Conference Call view more Latest Quarterly Earnings Q4 Feb 27, 2019 Q4 2018 Office Depot Inc Earnings Conference Call view more Investor Relations Company Profile
 
 Office Depot, Inc. (NASDAQ:ODP) is a leading provider of business services and supplies, products and technology solutions through its fully integrated omni-channel platform of approximately 1,400 stores, online presence, and dedicated sales professionals and technicians to small, medium and enterprise businesses. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, the company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit officedepot.com, download the Office Depot app on your iPhone or Android and follow @officedepot on Facebook, Twitter and Instagram.
 
@@ -38,15 +38,15 @@ Stock Quote and Chart
 
 Price
 
-$3.58
+$3.47
 
 Change
 
-+0.31
+\-0.085
 
 Percent Change
 
-(+0.70%)
+(0.00%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
