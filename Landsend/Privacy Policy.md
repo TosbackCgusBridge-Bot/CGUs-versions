@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off 1 full-price item!
+Receive 25% off full-price styles!
 
-code: SNOW pin: 6342 DETAILS
+code: GREEN pin: 4126 DETAILS
 
 Customer Service Menu
 
