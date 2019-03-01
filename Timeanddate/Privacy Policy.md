@@ -229,8 +229,8 @@ Contacting the Website
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact:
 
 Time and Date AS  
-PO Box 27 Forus  
-NO-4064 Stavanger  
+Svanholmen 2  
+NO-4033 Stavanger  
 Norway  
 webmaster@timeanddate.comBecome a Supporter
 
