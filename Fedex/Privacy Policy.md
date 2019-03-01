@@ -206,9 +206,3 @@ Get more information by going to fedex.com/us/securityupgrade/.
 
   
 Close Do not show this message again.
-
-Ask FedEx Virtual Assistant
-
-END CHAT
-
-END CHAT FedEx: Hello, I'm the FedEx Virtual Assistant. I'm here to help you with your questions regarding FedEx® services. TYPE HERE SUBMIT
