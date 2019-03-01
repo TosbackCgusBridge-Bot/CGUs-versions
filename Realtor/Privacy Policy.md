@@ -69,6 +69,7 @@ Toggle navigation
     *   Refinance Calculator
     *   How Much House Can I Afford
     *   Rent vs. Buy
+    *   Find My Buying Power
     
     *   Finance Advice
     *   6 Ways Home Buyers Mess Up Getting a Mortgage
