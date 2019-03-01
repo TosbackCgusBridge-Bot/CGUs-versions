@@ -1,5 +1,3 @@
-Today is Free BareFark Day! If you like what you _don't_ see, sign up here.
-
 > Contents
 > 
 > *   1 Legal Stuff
