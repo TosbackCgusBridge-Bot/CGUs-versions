@@ -14,7 +14,7 @@ We use cookies to ensure you get the best experience on our website. By continui
         *   A DNS leak happens when you're using a bad VPN. So see if yours is up to snuff.
     *   **WebRTC Test**
         *   If your browser has a WebRTC leak, even a VPN can’t hide your location. We’ll tell you how to fix it.
-    *   **Proxy Tool**
+    *   **Web Proxy**
         *   Need some emergency privacy? Our free web proxy will give you one tab’s worth of secure browsing.More about HMA privacy tools
 *   **What is a VPN?**
 *   Blog
