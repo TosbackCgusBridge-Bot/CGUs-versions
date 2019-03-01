@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Building ROS2 snaps with Colcon ›
+*   Canonical adds containerd to Ubuntu Kubernetes ›
+*   How to backup your application settings ›
 *   Single-Node Kubernetes on Raspberry Pi with MicroK8s and Ubuntu ›
 *   Using LXD on your Chromebook ›
-*   Ubuntu is EAL2 certified ›
-*   Securing IoT device data against physical access ›
-*   EdgeX Foundry, the common framework for IoT edge computing, now available as a snap ›
