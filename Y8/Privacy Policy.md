@@ -12,8 +12,8 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 692 games
-*   Most Popular Games 18823 games
+*   Best of new games 658 games
+*   Most Popular Games 18826 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more Hi there! Did you know there is a Y8 Forum? Join other player
 CATEGORIES
 
 *   Games for girls 23,754 games
-*   Driving &. Racing Games 6,787 games
+*   Driving &. Racing Games 6,789 games
 *   Strategy &. RPG Games 2,409 games
 *   Management Games 3,646 games
-*   Thinking Games 11,942 games
-*   Action &. Adventure Games 15,974 games
+*   Thinking Games 11,944 games
+*   Action &. Adventure Games 15,982 games
 *   Sports Games 2,180 games
-*   Shooting Games 8,412 games
+*   Shooting Games 8,411 games
 *   Fighting Games 2,095 games
-*   Skill Games 10,840 games
-*   Arcade &. Classic Games 12,781 games
+*   Skill Games 10,841 games
+*   Arcade &. Classic Games 12,783 games
 *   Fun &. Crazy Games 2,490 games
 
 Play with friends  
 Powered by Y8 Account 140 Y8 Multiplayer Games 1,900 Y8 High Score Games 1,135 Y8 Achievements Games 807 Y8 Screenshots Games 1,402 Y8 Online Save Games 2,947 All Y8 Games Games Last Highscore:
 
-**3,800** points on Taz Mechanic Simulator by mamamo
+**3,035** points on Moto X3M 3 by 666
 
 Help us improve Bad translation? Social
 
