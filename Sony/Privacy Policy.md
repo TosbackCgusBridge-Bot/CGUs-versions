@@ -111,17 +111,15 @@ Learn More About the Sony Pictures Animation Movie
 
 There's a hero in all of us, and we couldn't have done it without you. Thank you to the Academy for recognizing the incredible team behind #SpiderVerse: Winner - Best Animated Feature 🏆 pic.twitter.com/qxBq9dJlHq
 
-4 days ago
+5 days ago
 
 View Tweet
 
 Watch Award-Winning Movies As the Creators Intended
 
-<img class="bg-img" data-linkname="en:set\_a:position\_2|\_1x1-4:image:electronics:4KOLEDTV-February-25-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Watch Award-Winning Movies 4K-OLED-TV" data-img1x="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" src="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" alt="A9G Master Series TV"/>. <img class="bg-img" data-linkname="en:set\_a:position\_2|\_1x1-4:image:electronics:4KOLEDTV-February-25-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Watch Award-Winning Movies 4K-OLED-TV" data-img1x="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" src="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" alt="A9G Master Series TV"/>. Innovative Technology That Reproduces Music the Way Artists Intended
+<img class="bg-img" data-linkname="en:set\_a:position\_2|\_1x1-4:image:electronics:4KOLEDTV-February-25-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Watch Award-Winning Movies 4K-OLED-TV" data-img1x="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" src="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" alt="A9G Master Series TV"/>. <img class="bg-img" data-linkname="en:set\_a:position\_2|\_1x1-4:image:electronics:4KOLEDTV-February-25-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Watch Award-Winning Movies 4K-OLED-TV" data-img1x="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" src="/content/dam/sony/homepage/2019-february/2-25/A9F\_600x600.jpg" alt="A9G Master Series TV"/>. Solange Releases A New Album Listen to “When I Get Home”
 
-Learn More About 360 Reality Audio
-
-<img class="bg-img" data-linkname="en:set\_a:position\_2|\_2x2-6:video:electronics:360RealityAudioYoutube-February-25-2019:gwt:image:XVKytmqrN9w" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Innovative Technology That Reproduces Music the Way Artists Intended XVKytmqrN9w 360-Reality-Audio-Youtube" data-img1x="/content/dam/sony/homepage/2019-february/2-19/360\_sony\_com\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-19/360\_sony\_com\_600x600.jpg" src="/content/dam/sony/homepage/2019-february/2-19/360\_sony\_com\_600x600.jpg" alt="360 Reality Audio Video"/>. <img class="bg-img" data-linkname="en:set\_a:position\_2|\_2x2-6:video:electronics:360RealityAudioYoutube-February-25-2019:gwt:image-mobile:XVKytmqrN9w" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Innovative Technology That Reproduces Music the Way Artists Intended XVKytmqrN9w 360-Reality-Audio-Youtube" data-img1x="/content/dam/sony/homepage/2019-february/2-19/360\_sony\_com\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-19/360\_sony\_com\_600x600.jpg" src="/content/dam/sony/homepage/2019-february/2-19/360\_sony\_com\_600x600.jpg" alt="360 Reality Audio Video"/>. What If a Child From Another World Comes to Earth, Not as a Hero, But as Something Else?
+<img class="bg-img" data-linkname="en:set\_a:position\_2|\_2x2-6:image:music:SolangeNewAlbum-March-01-2019:sme:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Solange Releases A New Album Solange-New-Album" data-img1x="/content/dam/sony/homepage/2019-march/3-4/Solange-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-march/3-4/Solange-600x600.jpg" src="/content/dam/sony/homepage/2019-march/3-4/Solange-600x600.jpg" alt="Solange"/>. <img class="bg-img" data-linkname="en:set\_a:position\_2|\_2x2-6:image:music:SolangeNewAlbum-March-01-2019:sme:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Solange Releases A New Album Solange-New-Album" data-img1x="/content/dam/sony/homepage/2019-march/3-4/Solange-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-march/3-4/Solange-600x600.jpg" src="/content/dam/sony/homepage/2019-march/3-4/Solange-600x600.jpg" alt="Solange"/>. What If a Child From Another World Comes to Earth, Not as a Hero, But as Something Else?
 
 “Brightburn” Hits Theaters in May
 
@@ -155,7 +153,7 @@ Learn More About aibo
 
 New PlayStation games coming this week:  https://play.st/2GDRxAl  Trials Rising, Dead or Alive 6, and more pic.twitter.com/C7syIwiKfu
 
-4 days ago
+5 days ago
 
 View Tweet
 
