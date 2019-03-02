@@ -22,22 +22,29 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackHot Sellers
+Near YouFind a StoreBackCOLD WEATHER GEARSHOP ALLCOLD WEATHER GEARSHOP ALL
 
-*   BUY 1 GET 1 50% OFF
+*   $4319after couponwas $180 St. John's Bay Heavyweight Puffer Jacket(55)Add To Cart
+*   $2199 clearance
     
-    from$20
+    was $49 Yuu Womens Camron Zip Riding Boots(22)Add To Cart
+*   from$719after couponwas $32 St. John's Bay Long Sleeve Cable V-Neck Pullover Sweater(132)Add To Cart
+*   $1699 clearance
     
-    Home Expressions Lisette Grommet-Top Sheer Curtain Panel(386)
-*   $4999 sale
-    
-    was $59.50 | 16% offLevi's® 501® Original Fit Jeans(4022)
-*   $2890after couponWomens Green Bangle Watch and Bracelet Set
-*   $1679after couponwas $70 Arizona Womens Oxford Booties Zip
-*   $1519after couponwas $55 Worthington Womens Cari Heeled Sandals(2)
-*   from$2299 clearance
-    
-    was $60 | 55 - 61% offColumbia® Flattop Ridge™ Full-Zip Fleece Jacket(256)
+    was $39 Yuu Womens Calissa Zip Bootie(38)Add To Cart
+*   $1199after couponwas $60 Arizona Womens Oakes Booties Block Heel ZipAdd To Cart
+*   $1679after couponwas $70 Arizona Womens Oxford Booties ZipAdd To Cart
+*   from$2159after couponwas $79 Yuu Womens Regina Stacked Heel Zip Bootie(29)Add To Cart
+
+COZY BLANKETSSHOP ALLCOZY BLANKETSSHOP ALL
+
+*   from$4319after couponwas $90 - $190 Biddeford™ Comfort Knit Heated Blanket(394)Add To Cart
+*   from$6399after couponwas $160 - $280 Biddeford Velour Reverse to Sherpa Heated Blanket(8)Add To Cart
+*   from$1599after couponwas $40 - $60 Home Expressions Velvet Plush Blanket(1495)Add To Cart
+*   from$2399after couponwas $65 - $105 Vellux® Blanket(452)Add To Cart
+*   from$3999after couponwas $100 - $200 Biddeford™ MicroPlush Heated Blanket(1017)Add To Cart
+*   from$1999after couponwas $50 - $90 JCP Home Luxury Cotton Blanket(87)Add To Cart
+*   from$1439after couponwas $35 - $55 Home Expressions Micro Fleece Satin Trim Blanket(17)Add To Cart
 
 Shop and Save at JCPenney
 
