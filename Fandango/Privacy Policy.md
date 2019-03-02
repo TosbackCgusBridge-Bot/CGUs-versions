@@ -74,9 +74,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   New ‘Detective Pikachu’ Trailer Presents Unlikely But Lovable Heroes. Here’s Everything We Know Read More
-    *   Today in Movie Culture: A 1990s Version of ‘Captain Marvel,’ a Real ‘How to Train Your Dragon’ Fire Sword and More Read More
-    *   New 'Dark Phoenix' Trailer Darkens the X-Men Universe: Here's Everything We Know Read More
+    *   Today in Movie Culture: ‘Greta’ Director Commentary, ‘Into the Spider-Verse’ Nods to Past Spider-Man Movies and More Read More
+    *   Oscar Winner Rami Malek to Play the Next Bond Villain. Here’s Everything We Know Read More
+    *   Red-Band ‘Hellboy’ Trailer Reminds Us the Reboot is R-Rated. Here’s Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -321,9 +321,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'A Madea Family Funeral' Gift with Purchase
+*   'A Star is Born Encore'
     
-    Own the 8-movie Madea Collection for $15 with ticket purchase! BUY TICKETS
+    This week only, see the encore of 'A Star is Born', with almost 12 minutes of extra footage. GET TICKETS
     
 
 New + Coming soon
