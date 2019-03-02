@@ -413,7 +413,7 @@ Search (auto-suggestions will appear below field) Submit search
 
 Go to my
 
-Banking selector (auto-suggestions will appear below field)Toggle Go to my dropdown
+Select banking type. Personal banking selected.Banking selector (auto-suggestions will appear below field)
 
 *   Personal banking
 *   Business banking
