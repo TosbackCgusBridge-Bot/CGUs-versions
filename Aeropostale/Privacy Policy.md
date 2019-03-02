@@ -1,9 +1,10 @@
 United States We now ship to your location with Borderfree. I'm shipping to: Afghanistan Albania Algeria Andorra Angola Anguilla Antigua and Barbuda Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo, Democratic Republic of the Congo, Republic of the Cook Islands Costa Rica Croatia Curaçao Cyprus Czech Republic Côte d'Ivoire Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norway Oman Pakistan Palau Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Romania Russian Federation Rwanda Réunion Saint Barthélemy Saint Kitts and Nevis Saint Lucia Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa Spain Sri Lanka Suriname Swaziland Sweden Switzerland Taiwan Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tonga Trinidad and Tobago Tunisia Turkey Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Uruguay Uzbekistan Vanuatu Vietnam Virgin Islands, British Wallis and Futuna Yemen Zambia Zimbabwe I'd like to see prices in: Australian Dollar Bahamian Dollar Bahraini Dinar Balboa Barbados Dollar Belize Dollar Boliviano Bosnian Convertible Mark Brazilian Real British Pound Bulgarian Lev CFA Franc BCEAO CFA Franc BEAC Canadian Dollar Cayman Islands Dollar Chilean Peso Colombian Peso Cordoba Oro Costa Rican Colon Croatian Kuna Czech Koruna Danish Krone Dominican Peso Egyptian Pound Euro Guarani Hong Kong Dollar Hungarian Forint Indian Rupee Israeli Shekel Jamaican Dollar Japanese Yen Jordanian Dinar Korean Won Kuwaiti Dinar Lebanese Pound Lempira Lilangeni Malayan Ringgit Mexican Peso Moroccan Dirham Namibia Dollar Nepalese Rupee Netherlands Antillan Guilder New Romanian Leu New Zealand Dollar Norwegian Krone Omani Rial Pakistan Rupee Peruvian Nuevo Sol Philippine Peso Polish Zloty Qatari Riyal Quetzal Riel Rufiyaa Russian Ruble Saudi Riyal Singapore Dollar South African Rand Sri Lanka Rupee Swedish Krona Swiss Franc Taiwan Dollar Taka Tenge Thai Baht Turkish Lira US Dollar Ukraine Hryvnia United Arab Emirates Dirham Uruguay New Peso Yuan Renminbi Aeropostale
 
-*   Open submenu ( New Arrivals ) New Arrivals
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
 *   Open submenu ( Jeans ) Jeans
+*   Open submenu ( Shorts ) Shorts
+*   Open submenu ( New Arrivals ) New Arrivals
 *   Open submenu ( Clearance ) Clearance
 
 *   Select Country
@@ -11,40 +12,6 @@ United States We now ship to your location with Borderfree. I'm shipping to: Afg
 *   Help? - Contact Us Help? - Contact Us
 *   Sign Up/Login
 *   Refer a Friend
-
-Close submenu ( New Arrivals ) New Arrivals
-
-*   View Home
-*   Open submenu ( Girls ) Girls
-
-*   Open submenu ( Guys ) Guys
-
-Close submenu ( Girls ) Girls
-
-*   View All
-*   New Arrivals
-*   Best Sellers
-*   Destroyed Denim
-*   Break In Spring
-*   Seeing Stripes
-*   Twisted for Tie Dye
-*   Online Only
-*   Swim
-*   Matching Sets
-*   Aero One
-
-Close submenu ( Guys ) Guys
-
-*   View All
-*   New Arrivals
-*   Best Sellers
-*   Destroyed Denim
-*   Break in Spring
-*   Seeing Stripes
-*   Twisted for Tie Dye
-*   Online Only
-*   Swim
-*   Aero One
 
 Close submenu ( Girls ) Girls
 
@@ -191,6 +158,74 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Flex Effects
 *   Destroyed Denim
 
+Close submenu ( Shorts ) Shorts
+
+*   View Home
+*   Open submenu ( Girls ) Girls
+
+*   Open submenu ( Guys ) Guys
+
+Close submenu ( Girls ) Girls
+
+*   View All
+*   Super High Rise
+*   High Rise
+*   Low Rise
+*   Cheeky
+*   Destroy
+*   Midi
+*   Flex Effects
+*   Bermuda
+*   Tomboy
+*   Active
+
+Close submenu ( Guys ) Guys
+
+*   View All
+*   Loose
+*   Slim
+*   Classic
+*   Longboard
+*   Classic Jogger
+*   Classic Cargo
+*   Longboard Cargo
+*   Athletic
+*   Swim
+
+Close submenu ( New Arrivals ) New Arrivals
+
+*   View Home
+*   Open submenu ( Girls ) Girls
+
+*   Open submenu ( Guys ) Guys
+
+Close submenu ( Girls ) Girls
+
+*   View All
+*   New Arrivals
+*   Best Sellers
+*   Destroyed Denim
+*   Break In Spring
+*   Seeing Stripes
+*   Twisted for Tie Dye
+*   Online Only
+*   Swim
+*   Matching Sets
+*   Aero One
+
+Close submenu ( Guys ) Guys
+
+*   View All
+*   New Arrivals
+*   Best Sellers
+*   Destroyed Denim
+*   Break in Spring
+*   Seeing Stripes
+*   Twisted for Tie Dye
+*   Online Only
+*   Swim
+*   Aero One
+
 Close submenu ( Clearance ) Clearance
 
 *   View Home
@@ -226,34 +261,6 @@ Close submenu ( Guys ) Guys
 
 Menu Find a Store Aeropostale
 
-*   New Arrivals
-    
-    *   View Home
-    *   Girls
-        *   View All
-        *   New Arrivals
-        *   Best Sellers
-        *   Destroyed Denim
-        *   Break In Spring
-        *   Seeing Stripes
-        *   Twisted for Tie Dye
-        *   Online Only
-        *   Swim
-        *   Matching Sets
-        *   Aero One
-    
-    *   Guys
-        *   View All
-        *   New Arrivals
-        *   Best Sellers
-        *   Destroyed Denim
-        *   Break in Spring
-        *   Seeing Stripes
-        *   Twisted for Tie Dye
-        *   Online Only
-        *   Swim
-        *   Aero One
-    
 *   Girls
     
     *   View Home
@@ -376,6 +383,62 @@ Menu Find a Store Aeropostale
         *   Relaxed
         *   Flex Effects
         *   Destroyed Denim
+    
+*   Shorts
+    
+    *   View Home
+    *   Girls
+        *   View All
+        *   Super High Rise
+        *   High Rise
+        *   Low Rise
+        *   Cheeky
+        *   Destroy
+        *   Midi
+        *   Flex Effects
+        *   Bermuda
+        *   Tomboy
+        *   Active
+    
+    *   Guys
+        *   View All
+        *   Loose
+        *   Slim
+        *   Classic
+        *   Longboard
+        *   Classic Jogger
+        *   Classic Cargo
+        *   Longboard Cargo
+        *   Athletic
+        *   Swim
+    
+*   New Arrivals
+    
+    *   View Home
+    *   Girls
+        *   View All
+        *   New Arrivals
+        *   Best Sellers
+        *   Destroyed Denim
+        *   Break In Spring
+        *   Seeing Stripes
+        *   Twisted for Tie Dye
+        *   Online Only
+        *   Swim
+        *   Matching Sets
+        *   Aero One
+    
+    *   Guys
+        *   View All
+        *   New Arrivals
+        *   Best Sellers
+        *   Destroyed Denim
+        *   Break in Spring
+        *   Seeing Stripes
+        *   Twisted for Tie Dye
+        *   Online Only
+        *   Swim
+        *   Aero One
     
 *   Clearance
     
