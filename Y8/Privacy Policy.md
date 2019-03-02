@@ -13,7 +13,7 @@ Categories &. more Hi there! Did you know there is a Y8 Forum? Join other player
 
 *   New Games Next in xx:xx
 *   Best of new games 658 games
-*   Most Popular Games 18826 games
+*   Most Popular Games 18832 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -24,19 +24,19 @@ CATEGORIES
 *   Driving &. Racing Games 6,789 games
 *   Strategy &. RPG Games 2,409 games
 *   Management Games 3,646 games
-*   Thinking Games 11,944 games
-*   Action &. Adventure Games 15,982 games
-*   Sports Games 2,180 games
+*   Thinking Games 11,946 games
+*   Action &. Adventure Games 15,981 games
+*   Sports Games 2,183 games
 *   Shooting Games 8,411 games
 *   Fighting Games 2,095 games
 *   Skill Games 10,841 games
-*   Arcade &. Classic Games 12,783 games
-*   Fun &. Crazy Games 2,490 games
+*   Arcade &. Classic Games 12,785 games
+*   Fun &. Crazy Games 2,491 games
 
 Play with friends  
 Powered by Y8 Account 140 Y8 Multiplayer Games 1,900 Y8 High Score Games 1,135 Y8 Achievements Games 807 Y8 Screenshots Games 1,402 Y8 Online Save Games 2,947 All Y8 Games Games Last Highscore:
 
-**3,035** points on Moto X3M 3 by 666
+**3,724,979** points on Treasures of the Mystic Sea by amelia9
 
 Help us improve Bad translation? Social
 
