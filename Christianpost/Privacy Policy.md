@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Bohemian Rhapsody
+*   Bill Hybels
+*   Unplanned
 *   UMC LGBT
-*   Infanticide
-*   Lauren Daigle
 *   Jesus movement
+*   Lauren Daigle
 
 About Us
 
@@ -50,7 +50,7 @@ About Us
 
 Stay Connected
 
-*   CP Newsletter
+*   Sign Up
 *   Contact Us
 *   RSS Feed
 *   Advertise With Us
