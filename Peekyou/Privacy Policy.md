@@ -68,9 +68,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 2% 
+What is PeekScore? Public Records &. Background Checks 4% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -100,7 +100,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-2% 
+4% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -146,7 +146,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-2% 
+4% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -176,7 +176,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-2% 
+4% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -261,7 +261,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 2% 
+Facebook 4% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -321,7 +321,7 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 2% 
+Twitter 4% 
 
 *   CMSGov - CMSGov
     
@@ -367,7 +367,7 @@ Twitter 2% 
     
 *   Show Less ...
 
-Instagram 2% 
+Instagram 4% 
 
 *   Instagram privacy Policy - privacy\_intellectual\_policy
     
@@ -403,7 +403,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Myspace 1% 
+Myspace 4% 
 
 *   Privacy Policy - 49086242
     
@@ -427,7 +427,7 @@ Myspace 1% 
     
 *   Show Less ...
 
-Google+ 1% 
+Google+ 3% 
 
 *   Lauren Weinstein
     
@@ -469,7 +469,7 @@ Google+ 1% 
     
 *   Show Less ...
 
-Pinterest 43%  Wikipedia 1% 
+Pinterest 45%  Wikipedia 3% 
 
 *   Privacy policy
     
@@ -484,7 +484,7 @@ Pinterest 43%  Wikipedia 1% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Music 1% 
+Music 3% 
 
 *   Pandora
     
@@ -526,7 +526,7 @@ Music 1% 
     
 *   Show Less ...
 
-Web Search 1% 
+Web Search 3% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -572,7 +572,7 @@ Web Search 1% 
     
 *   Show Less ...
 
-Images 1% 
+Images 3% 
 
 3
 
