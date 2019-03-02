@@ -1,3 +1,6 @@
+  
+  
+
 **THE SWISS COLONY AND SWISSCOLONY.COM PRIVACY POLICY**  
 Last modified September 25, 2018
 
