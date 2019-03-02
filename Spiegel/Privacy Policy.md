@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQWWTD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
+Wir verwenden Cookies, um die Funktion unserer Website zu gewährleisten, Inhalte und Werbung zu personalisieren und unseren Datenverkehr zu analysieren. DatenschutzVerstanden <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQWWTD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="https://count.spiegel.de/nm\_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />.  
 
 Anmelden
 
@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   1\. März 2019
+*   2\. März 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.515,64ǀ
+*   DAX 11.601,68ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
