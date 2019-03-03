@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 658 games
-*   Most Popular Games 18832 games
+*   Best of new games 659 games
+*   Most Popular Games 18846 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,754 games
+*   Games for girls 23,753 games
 *   Driving &. Racing Games 6,789 games
 *   Strategy &. RPG Games 2,409 games
-*   Management Games 3,646 games
-*   Thinking Games 11,946 games
-*   Action &. Adventure Games 15,981 games
+*   Management Games 3,647 games
+*   Thinking Games 11,948 games
+*   Action &. Adventure Games 15,985 games
 *   Sports Games 2,183 games
-*   Shooting Games 8,411 games
+*   Shooting Games 8,412 games
 *   Fighting Games 2,095 games
-*   Skill Games 10,841 games
-*   Arcade &. Classic Games 12,785 games
-*   Fun &. Crazy Games 2,491 games
+*   Skill Games 10,843 games
+*   Arcade &. Classic Games 12,786 games
+*   Fun &. Crazy Games 2,492 games
 
 Play with friends  
 Powered by Y8 Account 140 Y8 Multiplayer Games 1,900 Y8 High Score Games 1,135 Y8 Achievements Games 807 Y8 Screenshots Games 1,402 Y8 Online Save Games 2,947 All Y8 Games Games Last Highscore:
 
-**3,724,979** points on Treasures of the Mystic Sea by amelia9
+**4** points on Tic Tac Toe with Santa by prawira
 
 Help us improve Bad translation? Social
 
