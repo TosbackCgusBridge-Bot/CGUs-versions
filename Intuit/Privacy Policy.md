@@ -1,4 +1,4 @@
-Savings on active—priced to win! - shop the store adSee DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -22,28 +22,28 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackCOLD WEATHER GEARSHOP ALLCOLD WEATHER GEARSHOP ALL
+Near YouFind a StoreBackCOLD WEATHER GEARShop AllCOLD WEATHER GEARShop All
 
-*   $4319after couponwas $180 St. John's Bay Heavyweight Puffer Jacket(55)Add To Cart
+*   $4319after couponwas $180 St. John's Bay Heavyweight Puffer Jacket(56)Add To Cart
 *   $2199 clearance
     
     was $49 Yuu Womens Camron Zip Riding Boots(22)Add To Cart
+*   from$719after couponwas $32 St. John's Bay Long Sleeve Cable V-Neck Pullover Sweater(133)Add To Cart
 *   $1699 clearance
     
-    was $39 Yuu Womens Calissa Zip Bootie(38)Add To Cart
-*   from$719after couponwas $32 St. John's Bay Long Sleeve Cable V-Neck Pullover Sweater(132)Add To Cart
+    was $39 Yuu Womens Calissa Zip Bootie(39)Add To Cart
 *   $1199after couponwas $60 Arizona Womens Oakes Booties Block Heel ZipAdd To Cart
 *   from$2159after couponwas $79 Yuu Womens Regina Stacked Heel Zip Bootie(29)Add To Cart
-*   $1039after couponwas $44 a.n.a Long Sleeve Open Neck Cardigan(47)Add To Cart
+*   $1679after couponwas $70 Arizona Womens Oxford Booties ZipAdd To Cart
 
-COZY BLANKETSSHOP ALLCOZY BLANKETSSHOP ALL
+COZY BLANKETSShop AllCOZY BLANKETSShop All
 
 *   from$6399after couponwas $160 - $280 Biddeford Velour Reverse to Sherpa Heated Blanket(8)Add To Cart
-*   from$4319after couponwas $90 - $190 Biddeford™ Comfort Knit Heated Blanket(394)Add To Cart
+*   from$4319after couponwas $90 - $190 Biddeford™ Comfort Knit Heated Blanket(395)Add To Cart
+*   from$1599after couponwas $40 - $60 Home Expressions Velvet Plush Blanket(1500)Add To Cart
 *   from$2399after couponwas $65 - $105 Vellux® Blanket(453)Add To Cart
-*   from$1599after couponwas $40 - $60 Home Expressions Velvet Plush Blanket(1497)Add To Cart
 *   from$3999after couponwas $100 - $200 Biddeford™ MicroPlush Heated Blanket(1018)Add To Cart
-*   from$1999after couponwas $50 - $90 JCP Home Luxury Cotton Blanket(87)Add To Cart
+*   from$1999after couponwas $50 - $90 JCP Home Luxury Cotton Blanket(88)Add To Cart
 *   from$1439after couponwas $35 - $55 Home Expressions Micro Fleece Satin Trim Blanket(18)Add To Cart
 
 Shop and Save at JCPenney
