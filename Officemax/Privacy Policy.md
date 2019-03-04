@@ -46,7 +46,7 @@ Change
 
 Percent Change
 
-(+2.59%)
+(0.00%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
