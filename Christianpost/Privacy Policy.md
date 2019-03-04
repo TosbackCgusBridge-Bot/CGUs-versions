@@ -34,8 +34,8 @@ Hot Topics
 *   Church lawsuits
 *   Texas 'prophet'
 *   Transgender lie
-*   ‘Bohemian Rhapsody’
-*   Lauren Daigle
+*   Cussing Pastor
+*   Parental rights
 
 About Us
 
