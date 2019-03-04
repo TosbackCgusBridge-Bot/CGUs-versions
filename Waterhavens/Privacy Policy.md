@@ -1,4 +1,4 @@
- Home Contact   About Veronique   About Scott  Testimonials   For You:  Waterfront Blog   **Sellers**   **Buyers**  **Current Owners** Relocation Info   Info &. Listings:  **Lake Washington**   **West Seattle**  **Burien**  **Normandy Park**  **Des Moines**  **Federal Way**   Life On The Water:  **Activities** **Marinas**  Photos  **Books** **Stewardship**  **Marine Traffic** Public Beaches      Resources: Vacant Land   **Geotechnical** **Trams**  **Inspections**  Community Info   **Restaurants**   
+ Home Contact   About Veronique   About Scott  Testimonials   For You:  Waterfront Blog   **Sellers**   **Buyers**  **Current Owners** Relocation Info    Area Info:  **Lake Washington**   **West Seattle**  **Burien**  **Normandy Park**  **Des Moines**  **Federal Way**   Life On The Water:  **Activities** **Marinas**  Photos  **Books** **Stewardship**  **Marine Traffic** Public Beaches      Resources: Vacant Land   **Geotechnical** **Trams**  **Inspections**  Community Info   **Restaurants**   
 
 WaterHavens Copyright Notice
 
@@ -32,10 +32,10 @@ Brokerages
 
 Scott Price is a Washington licensed real estate broker with Summit Properties NW.
 
-Veronique Hval is a Washington licensed real estate broker with Windermere Real Estate South.
+Veronique Hval is a Washington licensed real estate broker with Windermere Real Estate Company.
 
 and
 
-Windermere Real Estate South and Summit Properties NW
+Windermere Real Estate and Summit Properties NW
 
 **© Copyright WaterHavens.com. All Rights Reserved.**
