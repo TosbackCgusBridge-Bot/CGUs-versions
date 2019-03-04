@@ -13,7 +13,7 @@ Categories &. more Hi there! Did you know there is a Y8 Forum? Join other player
 
 *   New Games Next in xx:xx
 *   Best of new games 659 games
-*   Most Popular Games 18846 games
+*   Most Popular Games 18849 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -22,21 +22,21 @@ CATEGORIES
 
 *   Games for girls 23,753 games
 *   Driving &. Racing Games 6,789 games
-*   Strategy &. RPG Games 2,409 games
+*   Strategy &. RPG Games 2,410 games
 *   Management Games 3,647 games
-*   Thinking Games 11,948 games
-*   Action &. Adventure Games 15,985 games
+*   Thinking Games 11,949 games
+*   Action &. Adventure Games 15,989 games
 *   Sports Games 2,183 games
-*   Shooting Games 8,412 games
-*   Fighting Games 2,095 games
-*   Skill Games 10,843 games
+*   Shooting Games 8,414 games
+*   Fighting Games 2,096 games
+*   Skill Games 10,846 games
 *   Arcade &. Classic Games 12,786 games
 *   Fun &. Crazy Games 2,492 games
 
 Play with friends  
-Powered by Y8 Account 140 Y8 Multiplayer Games 1,900 Y8 High Score Games 1,135 Y8 Achievements Games 807 Y8 Screenshots Games 1,402 Y8 Online Save Games 2,947 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 140 Y8 Multiplayer Games 1,901 Y8 High Score Games 1,135 Y8 Achievements Games 807 Y8 Screenshots Games 1,404 Y8 Online Save Games 2,950 All Y8 Games Games Last Highscore:
 
-**4** points on Tic Tac Toe with Santa by prawira
+**470** points on The Ultimate Clicker Squad by AlanWalkerFanKid
 
 Help us improve Bad translation? Social
 
