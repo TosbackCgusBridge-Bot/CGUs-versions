@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-SALE EXTENDED: Select styles are still up to 50% off – SHOP NOW!
+Free water bottle or beach towel with a $75 qualifying brand purchase. SHOP NOW!
 
 *   Women
 *   Men
