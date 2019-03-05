@@ -31,10 +31,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 
 Hot Topics
 
-*   Church lawsuits
-*   Texas 'prophet'
-*   Transgender lie
-*   Cussing Pastor
+*   Gender therapy
+*   Pastor death
+*   Co-pastoring
+*   Scammers
 *   Parental rights
 
 About Us
