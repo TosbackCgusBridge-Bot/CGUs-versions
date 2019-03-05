@@ -38,11 +38,11 @@ Stock Quote and Chart
 
 Price
 
-$3.56
+$3.49
 
 Change
 
-+0.09
+\-0.07
 
 Percent Change
 
@@ -51,7 +51,7 @@ Percent Change
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Feb 27, 2019 Office Depot Announces Fourth Quarter and Full Year 2018 Results view more Recent News Feb 27, 2019 Office Depot Announces Fourth Quarter and Full Year 2018 Results view more Events Feb 27, 2019 at 9:00 AM EST Q4 2018 Office Depot Inc Earnings Conference Call view more Events Feb 27, 2019 at 9:00 AM EST Q4 2018 Office Depot Inc Earnings Conference Call view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more
+Recent News Mar 04, 2019 Office Depot and Alibaba.com Form Strategic Collaboration to Serve U.S. Businesses view more Recent News Mar 04, 2019 Office Depot and Alibaba.com Form Strategic Collaboration to Serve U.S. Businesses view more Events Feb 27, 2019 at 9:00 AM EST Q4 2018 Office Depot Inc Earnings Conference Call view more Events Feb 27, 2019 at 9:00 AM EST Q4 2018 Office Depot Inc Earnings Conference Call view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
