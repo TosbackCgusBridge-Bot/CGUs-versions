@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 659 games
-*   Most Popular Games 18849 games
+*   Best of new games 664 games
+*   Most Popular Games 18853 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,753 games
+*   Games for girls 23,759 games
 *   Driving &. Racing Games 6,789 games
-*   Strategy &. RPG Games 2,410 games
+*   Strategy &. RPG Games 2,409 games
 *   Management Games 3,647 games
-*   Thinking Games 11,949 games
-*   Action &. Adventure Games 15,989 games
-*   Sports Games 2,183 games
+*   Thinking Games 11,953 games
+*   Action &. Adventure Games 15,990 games
+*   Sports Games 2,184 games
 *   Shooting Games 8,414 games
 *   Fighting Games 2,096 games
-*   Skill Games 10,846 games
-*   Arcade &. Classic Games 12,786 games
-*   Fun &. Crazy Games 2,492 games
+*   Skill Games 10,848 games
+*   Arcade &. Classic Games 12,787 games
+*   Fun &. Crazy Games 2,494 games
 
 Play with friends  
 Powered by Y8 Account 140 Y8 Multiplayer Games 1,901 Y8 High Score Games 1,135 Y8 Achievements Games 807 Y8 Screenshots Games 1,404 Y8 Online Save Games 2,950 All Y8 Games Games Last Highscore:
 
-**470** points on The Ultimate Clicker Squad by AlanWalkerFanKid
+**35** points on Masked Forces Unlimited by JJB
 
 Help us improve Bad translation? Social
 
