@@ -6,36 +6,26 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   How to Train Your Dragon: The Hidden World
+    *   Tyler Perry's A Madea Family Funeral
     *   Alita: Battle Angel
     *   The Lego Movie 2: The Second Part
+    *   Green Book
     *   Fighting with My Family
     *   Isn't It Romantic
+    *   Greta (2019)
     *   What Men Want
     *   Happy Death Day 2U
-    *   Cold Pursuit
-    *   The Upside
-    *   Run the Race
-    *   Green Book
+    *   Spider-Man: Into the Spider-Verse
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Greta (2019)
-    *   Tyler Perry's A Madea Family Funeral
-    *   Apollo 11
-    *   Climax (2019)
-    *   Furie
-    *   ¡He Matado a mi Marido!
-    *   Mapplethorpe
-    *   Saint Judy
-    *   Styx
-    *   Transit (2019)
-    *   The Wedding Guest
-    *   See All Opening This Week
-    
-    Pre Sales Tickets
-    
     *   Captain Marvel (2019)
+    *   An Elephant Sitting Still
+    *   Ferrante Fever
+    *   Gloria Bell
+    *   The Kid (2019)
+    *   See All Opening This Week
     
     Coming Soon
     
@@ -74,7 +64,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Greta’ Director Commentary, ‘Into the Spider-Verse’ Nods to Past Spider-Man Movies and More Read More
+    *   Today in Movie Culture: ‘Captain Marvel’ Brings Back a ‘90s Fad, Eddie Vedder and Judy Garland Cover ‘A Star is Born’ Songs and More Read More
     *   Oscar Winner Rami Malek to Play the Next Bond Villain. Here’s Everything We Know Read More
     *   Red-Band ‘Hellboy’ Trailer Reminds Us the Reboot is R-Rated. Here’s Everything We Know Read More
     
