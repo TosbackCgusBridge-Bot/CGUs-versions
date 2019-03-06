@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 25% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: GREEN pin: 4126 DETAILS
+code: SHIMMER pin: 8824 DETAILS
 
 Customer Service Menu
 
