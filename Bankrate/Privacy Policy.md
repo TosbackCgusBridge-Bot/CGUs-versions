@@ -121,36 +121,47 @@
     *   Refinancing auto loans
     *   How to get a personal loan
     *   Personal loan origination fees
-*   Investing Compare
+*   Investing Best of
     
-    *   IRA CD rates
-    *   Brokerage accounts
-    *   Brokerage reviews
-    
-    Use Calculators
-    
-    *   Investment calculator
-    *   Annuity calculator
-    *   401(K) calculator
-    *   Roth IRA calculator
-    *   All retirement calculators
-    *   All investing calculators
+    *   Best Investments
+    *   Best Roth IRA accounts
+    *   Best online brokers for stocks
+    *   Best online brokers for beginners
+    *   Best online brokers for mutual funds
     
     Brokerage Reviews
     
-    *   WellsTrade Review
-    *   Robinhood Review
+    *   TD Ameritrade Review
     *   Merrill Edge Review
-    *   Vanguard Review
+    *   Ally Invest Review
     *   Fidelity Review
+    *   Charles Schwab Review
+    *   Vanguard Review
+    *   Interactive Brokers Review
+    *   Robinhood Review
+    *   Tradestation Review
     *   E\*Trade Review
+    *   WellsTrade Review
+    *   All Brokerage Reviews
+    
+    Use Calculators
+    
+    *   401(K) Calculator
+    *   Retirement Savings Calculator
+    *   Roth IRA Calculator
+    *   Investment Earnings Calculator
+    *   Annuity Calculator
+    *   All Investing &. CD Calculators
+    *   All Retirement Calculators
     
     Get Advice
-    *   Creating passive income
-    *   Mutual fund vs. ETF
-    *   Roth IRA vs. traditional IRA
-    *   What type of CD is best?
-    *   IRA basics
+    *   What is the long-term capital gains tax?
+    *   Passive income: What it is and 5 ideas for 2019
+    *   How to buy stocks
+    *   What is an IRA?
+    *   What is a Roth 401(k)?
+    *   Penny stocks basics
+    *   IRA CD Rates
 *   Home Equity Compare Lenders
     
     *   Home equity loan rates
