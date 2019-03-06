@@ -208,6 +208,7 @@ Close submenu ( Girls ) Girls
 *   Break In Spring
 *   Seeing Stripes
 *   Twisted for Tie Dye
+*   Meadow Florals
 *   Online Only
 *   Swim
 *   Matching Sets
@@ -423,6 +424,7 @@ Menu Find a Store Aeropostale
         *   Break In Spring
         *   Seeing Stripes
         *   Twisted for Tie Dye
+        *   Meadow Florals
         *   Online Only
         *   Swim
         *   Matching Sets
