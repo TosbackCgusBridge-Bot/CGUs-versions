@@ -64,9 +64,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Captain Marvel’ Brings Back a ‘90s Fad, Eddie Vedder and Judy Garland Cover ‘A Star is Born’ Songs and More Read More
-    *   Oscar Winner Rami Malek to Play the Next Bond Villain. Here’s Everything We Know Read More
-    *   Red-Band ‘Hellboy’ Trailer Reminds Us the Reboot is R-Rated. Here’s Everything We Know Read More
+    *   New 'Shazam!' Trailer Electrifies. Here's Everything We Know Read More
+    *   Fly, 'Dumbo,' Fly. Here's Everything We Know Read More
+    *   Chloe Grace Moretz on Being Terrorized by the Legendary Isabelle Huppert in ‘Greta’ Read More
     
     Explore Content
     *   Movie Reviews
