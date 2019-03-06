@@ -114,6 +114,7 @@ I accept Menu
         *   Investing in HSBC
         *   Overview
         *   Our investment case
+        *   Investor factbooks
         *   Equity analyst coverage
         *   Financial calendar
     *   Results and announcements
