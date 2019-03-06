@@ -6,7 +6,7 @@ Accessibility links
 Listen Live Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On Air Now**Toggle more player options
 
 *   Sign In
-*   Shop
+*   NPR Shop
 *   Donate
 *   Open Navigation Menu
 
@@ -56,7 +56,7 @@ Close Navigation Menu
     *   More Shows &. Podcasts
 *   Search
 *   Sign In
-*   Shop
+*   NPR Shop
 
 *   Tiny Desk
 *   All Songs Considered
