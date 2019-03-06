@@ -1,4 +1,7 @@
-Print Privacy Policy/Legal Terms and Conditions for Use of This Site
+*   Largest Text SizeLarger Text SizeRegular Text Size
+*   Print
+
+Privacy Policy/Legal Terms and Conditions for Use of This Site
 
 Please read this page carefully. This page states the Terms and Conditions under which you, the website visitor (hereinafter "You" or "visitor"), may use this site, the content of which is owned by or licensed to KidsHealth and is operated and administered by The Nemours Center for Children's Health Media (collectively, "KidsHealth"). By using this site, You agree to be bound by all of the Terms and Conditions set forth below. If You do not accept these Terms and Conditions, please do not use this site. KidsHealth may, at its sole discretion, revise these Terms and Conditions at any time. therefore, You should visit this page periodically to review the Terms and Conditions.
 
