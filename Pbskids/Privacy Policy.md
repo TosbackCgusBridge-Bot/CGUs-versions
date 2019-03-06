@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
 
-How to raise an emotionally resilient child. How to raise an emotionally resilient child. Read more.
+What to keep in mind when responding to toddlers' irrational behavior. What to keep in mind when responding to toddlers' irrational behavior. Read more.
 
 Toggle message bar
 
