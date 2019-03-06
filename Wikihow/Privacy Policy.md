@@ -12,7 +12,27 @@ At wikiHow, our mission is to empower every person on the planet to learn how to
 
 Please see below for our official Terms of Use. We encourage you to read them carefully. Thank you for using and contributing to wikiHow. We appreciate your support in promoting our goal of sharing information freely around the world.  
 
-  
+Contents
+
+*   1 Introduction
+*   2 Use of Our Service
+*   3 Trusted Users
+*   4 User Content
+*   5 User Content License Grants
+*   6 Mobile Software
+*   7 Our Proprietary Rights
+*   8 wikiHow Property
+*   9 Medical Information
+*   10 Legal Information
+*   11 Privacy
+*   12 Security
+*   13 DMCA Notice
+*   14 Third-Party Links
+*   15 Indemnity
+*   16 No Warranty
+*   17 Limitation of Liability
+*   18 Governing Law and Arbitration.
+*   19 General
 
   
 
