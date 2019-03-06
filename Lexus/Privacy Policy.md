@@ -446,7 +446,6 @@ Brand &. Lifestyle
 *   Youtube.com/LexusVehicles
 *   Instagram.com/lexususa
 *   Pinterest.com/lexususa
-*   Plus.google.com/+Lexus
 *   Sendthemasignal.tumblr.com
 
 *   Leasing &. Finance
