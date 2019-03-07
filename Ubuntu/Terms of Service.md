@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Infographic: Snapcraft for developers ›
 *   How to quickly deploy production-ready Kubernetes ›
 *   MAAS – Fast and efficient virtualisation for small and medium enterprises ›
 *   Building ROS2 snaps with Colcon ›
 *   Canonical adds containerd to Ubuntu Kubernetes ›
-*   How to backup your application settings ›
