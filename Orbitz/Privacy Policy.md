@@ -81,7 +81,13 @@ Already have an account? Sign In Sign In Sign in to your account Sign in to your
 
 Password
 
-Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Add your property Explore More Orbitz
+Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Add your property Get the Orbitz app — text yourself a linkGet the Orbitz app — text yourself a linkSendOr scan the QR code!
+
+*   Book on app, get 5% back in Orbucks
+*   Paperless itineraries
+*   Real-time trip updates
+
+By providing your number, you agree to receive a one-time automated text message with a link to get the app. Our app offers promotions and booking services. No purchase necessary. Standard text message rates may apply. Explore More Orbitz
 
 *   About Orbitz
 *   Investor Relations
@@ -106,9 +112,10 @@ Orbitz Rewards
 
 Other Links
 
-*   Vacation Packages
-*   Car Rental
-*   Cruise
+*   USA Hotels
+*   USA Flights
+*   USA Vacation Packages
+*   USA Car Rentals
 *   Travel blog
 *   Customer Support
 *   Price Guarantee
@@ -121,4 +128,4 @@ Partner Services
 
 *   Add a property
 
-© 2019 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners.
+© 2019 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners. CST #2063530-50
