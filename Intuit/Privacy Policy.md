@@ -29,9 +29,9 @@ Near YouFind a StoreBackPROM DRESSESShop AllPROM DRESSESShop All
 *   $8849after couponwas $169 Speechless Sleeveless Party Dress-JuniorsAdd To Cart
 *   $13124after couponwas $250 DJ Jaz Sleeveless Applique Fitted Gown-JuniorsAdd To Cart
 *   $13124after couponwas $250 City Triangle Sleeveless Party Dress-JuniorsAdd To Cart
+*   $13124after couponwas $250 Speechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
+*   $10499after couponwas $200 My Michelle Sleeveless Evening Gown-JuniorsAdd To Cart
 *   $13124after couponwas $250 DJ Jaz Sleeveless Beaded Fitted Gown-JuniorsAdd To Cart
-*   $10499after couponwas $200 Speechless Sleeveless Party Dress-JuniorsAdd To Cart
-*   $13124after couponwas $250 Jump Apparel Sleeveless Beaded Party Dress-JuniorsAdd To Cart
 
 COLD WEATHER GEARShop AllCOLD WEATHER GEARShop All
 
@@ -43,9 +43,7 @@ COLD WEATHER GEARShop AllCOLD WEATHER GEARShop All
 *   from$674after couponwas $32 St. John's Bay Long Sleeve Cable V-Neck Pullover Sweater(133)Add To Cart
 *   $1124after couponwas $60 Arizona Womens Oakes Booties Block Heel ZipAdd To Cart
 *   $1574after couponwas $70 Arizona Womens Oxford Booties ZipAdd To Cart
-*   $1699 clearance
-    
-    was $39 Yuu Womens Calissa Zip Bootie(39)Add To Cart
+*   from$1409after couponwas $84 - $94 Arizona Heavyweight Puffer Jacket - Girls 4-16 &. Plus(5)Add To Cart
 
 COZY BLANKETSShop AllCOZY BLANKETSShop All
 
@@ -63,10 +61,10 @@ COZY BLANKETSShop AllCOZY BLANKETSShop All
     from$39after couponVellux® Blanket(453)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: 8TOSAVE
     
-    from$30after couponJCP Home Luxury Cotton Blanket(88)Add To Cart
+    from$40after couponBiddeford™ MicroPlush Heated Blanket(1019)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: 8TOSAVE
     
-    from$40after couponBiddeford™ MicroPlush Heated Blanket(1019)Add To Cart
+    from$30after couponJCP Home Luxury Cotton Blanket(88)Add To Cart
 *   BUY MORE AND SAVE WITH CODE: 8TOSAVE
     
     from$35
