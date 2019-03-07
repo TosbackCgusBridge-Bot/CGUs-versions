@@ -1,5 +1,6 @@
 Skip to main content <p class="enable-js">. To enjoy our website, you'll need to enable <b>JavaScript</b>. in your web browser. Please <a href="http://enable-javascript.com/" target="\_blank"><b>click here</b></a>. to learn how. </p>. Go
 
+*   Home
 *   Church &. Ministries
 *   U.S.
 *   World
@@ -16,8 +17,9 @@ Menu Search P404 Newsletter Close Menu 404 Page not found
 Oops! This page is not available.  
 Go to the homepage.
 
-The Christian Post Subscribe Now We want to hear from you! Overall Navigation Main Navigation
+The Christian Post Subscribe Now We want to hear from you! Overall Navigation SECTIONS
 
+*   Home
 *   Church &. Ministries
 *   U.S.
 *   World
@@ -32,10 +34,10 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation Ma
 Hot Topics
 
 *   Lent
-*   LGBT curriculum
+*   Baker
 *   Bibles survive
-*   Gender therapy
-*   Pastor death
+*   China persecution
+*   Born alive
 
 About Us
 
