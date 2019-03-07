@@ -8,17 +8,24 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Office Edit: Work-Ready Looks, Shoes &. More
+    *   Office Edit: Casual Separates, Shoes &. Accessories
+    *   Office Edit: Men's Workwear, Shoes &. Accessories
+    *   Festival Ready: Boho Looks We Love
+    *   Max Studio &. Leon Max Up to 50% Off
+    *   Mirenesse Australia
+    *   Show Your Stripes: Dresses, Tops &. More
+    *   Work-Ready Tech: Phone Cases &. More
+    *   Men's Tee Shop ft. Kinetix
     *   Free People Up to 55% Off
-    *   Tart Dresses
     *   Free People Lingerie
-    *   Anthropologie Home
-    *   Spring Cleaning: Dyson &. More
-    *   Cheers to Spring: Drinkware, Tabletop &. More
     *   Elodie
     *   Mini to Maxi: Spring Skirts
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Tart Dresses
     *   Sapanyu: Gemstones, Stacking Rings &. More
     *   Free People Shoes
+    
     *   Mezlan
     *   On Point: Pointed Toe Pumps, Mules &. More
     *   Spring Suits and More ft. Paisley &. Gray
@@ -26,89 +33,61 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Resort Ready: On-Trend Earrings from $20
     *   Travel Accessories
     *   Goodbye, Winter: Kids' Swim &. Travel Gear
-    *   Citizen Watches Up to 70% Off
     *   Urban Decay Under $25
     *   Kendra Scott Jewelry
-    
-    *   LOVE Moschino
-    *   Parker
-    *   Endless Rose
-    *   Trenches, Puffers &. More Up to 60% Off
-    *   LOVE Moschino Handbags
-    *   PUMA Active &. More
     *   Billabong Under $30
-    *   Trending Now: Bodysuits
-    *   M by Bruno Magli
     *   Raisins Swim
     *   Free Shipping: Kitchen Countertop Storage
     *   Closet Refresh: Spring Styles for Boys &. Girls
     *   Norton Books
     *   Original Penguin
-    *   Onia Men
-    *   Gold Jewelry &. More Starting at $15
-    *   Packable Men's Outerwear Up to 70% Off
+    *   LOVE Moschino
+    *   Endless Rose
+    
     *   Snow Teeth Whitening
-    *   Baby Gift Shop: Styles Starting at $6
     *   Teami Blends Detox Teas &. Supplements
     *   Korean Beauty: It's Skin &. More
-    
     *   Free Shipping: Chic Vanity Organizers
-    *   Predire Paris Luxury Skin Care
     *   Free Shipping: Oliver Gal
     *   Warm &. Inviting: Simple Soy Candle Co.
-    *   Rifle Paper Co.
-    *   Free Shipping: New Sheet Styles for Spring
-    *   Best in Show: Modern Pet Decor
     *   Free Shipping: Pillows &. Throws Blowout
-    *   Blue Topaz Jewelry &. More Starting at $15
     *   Men's Shoes Up to 70% Off
-    *   Spring Sandals, Mules &. More Up to 65% Off
     *   Men's Outdoor Shoes from Keen &. Merrell
     *   $35 &. Under: Keen Kids
-    *   Outdoor Sandals &. More from Keen &. Merrell
-    *   Josie Maran
-    *   Tops &. Tanks Up to 75% Off
-    *   Vertigo Up to 85% Off
-    *   Trina Turk Collection &. Swim Up to 65% Off
-    *   One-Piece Wonders: Jumpsuits &. Rompers
+    *   Spring Cleaning: Dyson &. More
+    *   Cheers to Spring: Drinkware, Tabletop &. More
+    *   Anthropologie Home
+    *   Joe Fresh Kids Under $20
+    *   Bright &. Bold: Kids' Styles ft. Toobydoo
+    *   Citizen Watches Up to 70% Off
 *   WomenShop Sale Events
     
+    *   Office Edit: Work-Ready Looks, Shoes &. More
+    *   Office Edit: Casual Separates, Shoes &. Accessories
+    *   Festival Ready: Boho Looks We Love
+    *   Max Studio &. Leon Max Up to 50% Off
+    *   Mirenesse Australia
+    *   Show Your Stripes: Dresses, Tops &. More
     *   Free People Up to 55% Off
-    *   Tart Dresses
     *   Free People Lingerie
     *   Elodie
     *   Mini to Maxi: Spring Skirts
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Tart Dresses
     *   Sapanyu: Gemstones, Stacking Rings &. More
+    
     *   Free People Shoes
     *   On Point: Pointed Toe Pumps, Mules &. More
     *   Boho Bags Starting at $25
     *   Resort Ready: On-Trend Earrings from $20
-    *   Citizen Watches Up to 70% Off
     *   Urban Decay Under $25
     *   Kendra Scott Jewelry
     *   LOVE Moschino
-    *   Parker
     *   Endless Rose
-    *   Trenches, Puffers &. More Up to 60% Off
-    
-    *   LOVE Moschino Handbags
-    *   PUMA Active &. More
-    *   Trending Now: Bodysuits
-    *   M by Bruno Magli
-    *   Gold Jewelry &. More Starting at $15
     *   Snow Teeth Whitening
     *   Teami Blends Detox Teas &. Supplements
     *   Korean Beauty: It's Skin &. More
-    *   Predire Paris Luxury Skin Care
-    *   Blue Topaz Jewelry &. More Starting at $15
-    *   Spring Sandals, Mules &. More Up to 65% Off
-    *   Outdoor Sandals &. More from Keen &. Merrell
-    *   Josie Maran
-    *   Tops &. Tanks Up to 75% Off
-    *   Vertigo Up to 85% Off
-    *   Trina Turk Collection &. Swim Up to 65% Off
-    *   One-Piece Wonders: Jumpsuits &. Rompers
+    *   Citizen Watches Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -119,19 +98,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   MenShop Sale Events
     
+    *   Office Edit: Men's Workwear, Shoes &. Accessories
+    *   Men's Tee Shop ft. Kinetix
     *   Mezlan
     *   Spring Suits and More ft. Paisley &. Gray
     *   Travel Accessories
-    *   Citizen Watches Up to 70% Off
     *   Billabong Under $30
-    *   Original Penguin
     
-    *   Onia Men
-    *   Packable Men's Outerwear Up to 70% Off
+    *   Original Penguin
     *   Snow Teeth Whitening
     *   Teami Blends Detox Teas &. Supplements
     *   Men's Shoes Up to 70% Off
     *   Men's Outdoor Shoes from Keen &. Merrell
+    *   Citizen Watches Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -144,57 +123,55 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Raisins Swim
     *   Closet Refresh: Spring Styles for Boys &. Girls
     *   Norton Books
-    *   Baby Gift Shop: Styles Starting at $6
     *   $35 &. Under: Keen Kids
+    *   Joe Fresh Kids Under $20
+    *   Bright &. Bold: Kids' Styles ft. Toobydoo
     
     Shop By Category
     *   Girls' Sizes 7-16
-    *   Baby Girl
-    *   Boys' Sizes 8-20
-    *   Baby Boy
     *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
+    *   Baby Girl
+    *   Baby Boy
     *   Girls' Shoes
     *   The Toy Shop
     *   Boys' Shoes
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   Anthropologie Home
-    *   Spring Cleaning: Dyson &. More
-    *   Cheers to Spring: Drinkware, Tabletop &. More
+    *   Work-Ready Tech: Phone Cases &. More
     *   Free Shipping: Kitchen Countertop Storage
     *   Free Shipping: Chic Vanity Organizers
     *   Free Shipping: Oliver Gal
-    
     *   Warm &. Inviting: Simple Soy Candle Co.
-    *   Rifle Paper Co.
-    *   Free Shipping: New Sheet Styles for Spring
-    *   Best in Show: Modern Pet Decor
     *   Free Shipping: Pillows &. Throws Blowout
+    *   Spring Cleaning: Dyson &. More
+    *   Cheers to Spring: Drinkware, Tabletop &. More
+    *   Anthropologie Home
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Kitchen &. Tabletop
-    *   Pet Accessories
+    *   Tech Accessories
     *   Cleaning &. Organization
     *   Luggage &. Travel
+    *   Bedding
+    *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Mirenesse Australia
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Urban Decay Under $25
     *   Snow Teeth Whitening
     *   Teami Blends Detox Teas &. Supplements
     *   Korean Beauty: It's Skin &. More
-    *   Predire Paris Luxury Skin Care
-    *   Josie Maran
     
     Shop By Category
-    *   Skin Care
     *   Makeup
-    *   Bath &. Body
     *   Hair Care
+    *   Skin Care
+    *   Bath &. Body
     *   Fragrance
     *   Tools &. Accessories
     *   Makeup Bags
