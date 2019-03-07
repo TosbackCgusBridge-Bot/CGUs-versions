@@ -25,11 +25,11 @@ Skip to main content
     30/36 est MPG3 Build Specials
 *   $18,550 as shown1 2019 Yaris $15,450 starting1  
     32/40 est MPG28 Build Specials
-*   Hybrid Available $23,950 as shown1 All New 2020 Corolla $19,500 starting1  
+*   Hybrid Available $23,950 as shown1 All-New 2020 Corolla $19,500 starting1  
     31/38 est MPG32 Build Specials
-*   Hybrid $23,345 as shown1 First Ever 2020 Corolla Hybrid $22,950 starting1  
+*   Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
     53/52 est MPG31 Build Specials
-*   $24,090 as shown1 All New 2019 Corolla Hatchback $19,990 starting1  
+*   $24,090 as shown1 All-New 2019 Corolla Hatchback $19,990 starting1  
     30/38 est MPG25 Build Specials
 *   Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
     54/50 est MPG26 Build Specials
@@ -41,9 +41,9 @@ Skip to main content
     51/53 est MPG5 Build Specials
 *   Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
     54/133 est. MPG15/MPGe16 Build Specials
-*   Hybrid Available $42,250 as shown1 All New 2019 Avalon $35,550 starting1  
+*   Hybrid Available $42,250 as shown1 All-New 2019 Avalon $35,550 starting1  
     22/32 est MPG24 Build Specials
-*   Hybrid $42,850 as shown1 All New 2019 Avalon Hybrid $36,550 starting1  
+*   Hybrid $42,850 as shown1 All-New 2019 Avalon Hybrid $36,550 starting1  
     43/44 est MPG24 Build Specials
 *   Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
     67/67 est. MPGe24 Specials
@@ -59,7 +59,7 @@ Skip to main content
 
 *   $26,550 as shown1 2019 C-HR $20,995 starting1  
     27/31 est MPG24 Build Specials
-*   Hybrid Coming Soon $33,500 as shown1 All New 2019 RAV4 $25,500 starting1  
+*   Hybrid Coming Soon $33,500 as shown1 All-New 2019 RAV4 $25,500 starting1  
     26/35 est MPG23 Build Specials
 *   Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
     34/30 est MPG3 Build Specials
@@ -76,9 +76,9 @@ Skip to main content
 
 *   Hybrid $32,825 as shown1 2019 Camry Hybrid $28,250 starting1  
     51/53 est MPG5 Build Specials
-*   Hybrid $23,345 as shown1 First Ever 2020 Corolla Hybrid $22,950 starting1  
+*   Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
     53/52 est MPG31 Build Specials
-*   Hybrid $42,850 as shown1 All New 2019 Avalon Hybrid $36,550 starting1  
+*   Hybrid $42,850 as shown1 All-New 2019 Avalon Hybrid $36,550 starting1  
     43/44 est MPG24 Build Specials
 *   Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
     34/30 est MPG3 Build Specials
@@ -93,14 +93,14 @@ Skip to main content
 *   Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
     67/67 est. MPGe24 Specials
 
-*   All New 2020 GR Supra View More Info
+*   All-New 2020 GR Supra View More Info
 *   2020 RAV4 TRD Off-Road View More Info
 *   2020 Tacoma View More Info
 *   2020 Sequoia TRD Pro View More Info
 *   2020 Land Cruiser Heritage Edition View More Info
 *   2019 Nightshade Special Editions View More Info
 *   2020 Camry TRD and Avalon TRD View More Info
-*   Hybrid All New 2019 RAV4 Hybrid View More Info
+*   Hybrid All-New 2019 RAV4 Hybrid View More Info
 *   2019 Supra Xfinity Series Race Car View More Info
 *   GR Supra Racing Concept View More Info
 
@@ -126,23 +126,23 @@ View All Vehicles
 
 Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1  
 30/36 est MPG3 $18,550 as shown1 2019 Yaris $15,450 starting1  
-32/40 est MPG28 Hybrid Available $23,950 as shown1 All New 2020 Corolla $19,500 starting1  
-31/38 est MPG32 Hybrid $23,345 as shown1 First Ever 2020 Corolla Hybrid $22,950 starting1  
-53/52 est MPG31 $24,090 as shown1 All New 2019 Corolla Hatchback $19,990 starting1  
+32/40 est MPG28 Hybrid Available $23,950 as shown1 All-New 2020 Corolla $19,500 starting1  
+31/38 est MPG32 Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
+53/52 est MPG31 $24,090 as shown1 All-New 2019 Corolla Hatchback $19,990 starting1  
 30/38 est MPG25 Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
 54/50 est MPG26 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
 48/43 est MPG24 Hybrid Available $35,095 as shown1 2019 Camry $23,945 starting1  
 29/41 est MPG5 Hybrid $32,825 as shown1 2019 Camry Hybrid $28,250 starting1  
 51/53 est MPG5 Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
-54/133 est. MPG15/MPGe16 Hybrid Available $42,250 as shown1 All New 2019 Avalon $35,550 starting1  
-22/32 est MPG24 Hybrid $42,850 as shown1 All New 2019 Avalon Hybrid $36,550 starting1  
+54/133 est. MPG15/MPGe16 Hybrid Available $42,250 as shown1 All-New 2019 Avalon $35,550 starting1  
+22/32 est MPG24 Hybrid $42,850 as shown1 All-New 2019 Avalon Hybrid $36,550 starting1  
 43/44 est MPG24 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
 67/67 est. MPGe24 $28,635 as shown1 2019 86 $26,505 starting1  
 21/28 est MPG24 $43,560 as shown1 2019 Sienna $31,315 starting1  
 19/27 est MPG27 Trucks $36,615 as shown1 2019 Tacoma $25,700 starting1  
 18/22 est MPG3 $45,700 as shown1 2019 Tundra $31,520 starting1  
 15/19 est MPG24 Crossovers &. SUVs $26,550 as shown1 2019 C-HR $20,995 starting1  
-27/31 est MPG24 Hybrid Coming Soon $33,500 as shown1 All New 2019 RAV4 $25,500 starting1  
+27/31 est MPG24 Hybrid Coming Soon $33,500 as shown1 All-New 2019 RAV4 $25,500 starting1  
 26/35 est MPG23 Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
 34/30 est MPG3 Hybrid Available $42,100 as shown1 2019 Highlander $31,530 starting1  
 21/27 est MPG24 Hybrid $49,225 as shown1 2019 Highlander Hybrid $37,170 starting1  
@@ -150,15 +150,15 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 17/21 est MPG24 $57,195 as shown1 2019 Sequoia $48,850 starting1  
 13/17 est MPG23 $85,015 as shown1 2019 Land Cruiser $85,015 starting1  
 13/18 est MPG24 Hybrids &. Fuel Cell Hybrid $32,825 as shown1 2019 Camry Hybrid $28,250 starting1  
-51/53 est MPG5 Hybrid $23,345 as shown1 First Ever 2020 Corolla Hybrid $22,950 starting1  
-53/52 est MPG31 Hybrid $42,850 as shown1 All New 2019 Avalon Hybrid $36,550 starting1  
+51/53 est MPG5 Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
+53/52 est MPG31 Hybrid $42,850 as shown1 All-New 2019 Avalon Hybrid $36,550 starting1  
 43/44 est MPG24 Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
 34/30 est MPG3 Hybrid $49,225 as shown1 2019 Highlander Hybrid $37,170 starting1  
 30/28 est MPG24 Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
 54/133 est. MPG15/MPGe16 Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
 54/50 est MPG26 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
 48/43 est MPG24 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
-67/67 est. MPGe24 Upcoming Vehicles All New 2020 GR Supra 2020 RAV4 TRD Off-Road 2020 Tacoma 2020 Sequoia TRD Pro 2020 Land Cruiser Heritage Edition 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD Hybrid All New 2019 RAV4 Hybrid 2019 Supra Xfinity Series Race Car GR Supra Racing Concept All Vehicles
+67/67 est. MPGe24 Upcoming Vehicles All-New 2020 GR Supra 2020 RAV4 TRD Off-Road 2020 Tacoma 2020 Sequoia TRD Pro 2020 Land Cruiser Heritage Edition 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD Hybrid All-New 2019 RAV4 Hybrid 2019 Supra Xfinity Series Race Car GR Supra Racing Concept All Vehicles
 
 *   FAQ
 *   Careers
@@ -191,7 +191,7 @@ SET YOUR LOCATION
 
 Enter your Zip Code to find dealers, inventory, and special offers near you.
 
-Your ZIP is invalid. Submit
+Submit
 
 OR FIND A DEALER GO Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
