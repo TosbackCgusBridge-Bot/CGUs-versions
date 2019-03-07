@@ -13,7 +13,7 @@
 Hello! Welcome to CareerBuilder Sign In Sign Up
 
 *   Find Jobs
-*   Update Resume
+*   Upload Resume
 *   Career Advice
 *   Explore Careers
 *   Help &. Support
