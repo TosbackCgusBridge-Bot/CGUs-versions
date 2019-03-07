@@ -1,20 +1,17 @@
 *   Products
     *   *   SMARTWATCHES
-            *   Versa
+            *   Versa Family
             *   Ionic
         *   FITNESS TRACKERS
             *   Charge 3
-            *   Alta HR
-            *   Alta
-            *   Ace
+            *   Inspire Family
+            *   Ace 2
         *   MORE PRODUCTS
             *   Aria 2  
                 Smart Scale
             *   Accessories
             *   Fitbit Coach  
                 Training App
-            *   Flyer  
-                Wireless Headphones
     *   Not sure which product is right for you? COMPARE PRODUCTS
 *   Why Fitbit
     *   Why Fitbit
