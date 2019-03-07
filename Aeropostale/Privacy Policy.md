@@ -26,9 +26,9 @@ Close submenu ( Girls ) Girls
 *   Flip Flops + Slides
 *   Fragrance
 *   Swim
+*   Bras + Undies
 *   Extended Sizes
 *   Clearance
-*   Bras + Undies
 
 *   Open submenu ( Collections ) Collections
 
@@ -296,9 +296,9 @@ Menu Find a Store Aeropostale
     *   Flip Flops + Slides
     *   Fragrance
     *   Swim
+    *   Bras + Undies
     *   Extended Sizes
     *   Clearance
-    *   Bras + Undies
     
     *   Collections
         *   View All
