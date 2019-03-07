@@ -210,16 +210,16 @@ New York, NY 10001.**
     *   Wendy’s to pay $50M in data breach settlement
     
     *   Vendor risk management
-    *   Going to RSA? How to leave with more than a buzzword hangover this year
-    *   Making cybersecurity great now
-    *   Undisclosed number of TurboTax accounts breached
-    *   Report: Bug bounty reward totals soared in 2018
+    *   Dow Jones database holding 2.4 million records of politically exposed persons
+    *   New B0r0nt0K ransomware roughs up Linux servers
+    *   Teen racks up more than $1M in bug bounties on HackerOne platform
+    *   The Criminal Element Gets Its Due
     
+    *   The winners of the 2019 SC Awards Honored in the U.S.
+    *   Peter Liebert, SC Awards CSO of the Year
+    *   IRS warns of new tax-related phishing scams
     *   NSA quietly abandons controversial surveillance program
     *   CMS hackers focus on WordPress
-    *   Rush University Medical Center data breach, 45,000 patients affected
-    *   Turning 30: World Wide Web, SC and security grow up together
-    *   Docker API vulnerability allows hackers to mine Monero
 
 Back to Top
 
