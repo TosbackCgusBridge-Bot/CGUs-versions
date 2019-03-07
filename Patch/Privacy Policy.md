@@ -321,7 +321,7 @@ Support
 *   Terms of Use
 *   Privacy Policy
 
-© 2019 Patch Media. All Rights Reserved. Log in Sign up Log in to get started Log in Forgot your password?
+© 2019 Patch Media. All Rights Reserved. Log in Sign up Log in to get started Show Log in Forgot your password?
 
 New to Patch? Sign up now
 
