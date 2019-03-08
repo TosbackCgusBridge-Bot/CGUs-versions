@@ -145,6 +145,7 @@ Connect
 *   Insurance Resources
 
 *   
+*   
 *   
 *   
 *   
@@ -262,7 +263,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
     *   Covering your jewelry &. engagement rings
     *   The average auto insurance price
 
- .
+
 
 Quote &. save today!
 
