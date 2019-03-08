@@ -35,6 +35,7 @@ Close submenu ( Girls ) Girls
 Close submenu ( Tops ) Tops
 
 *   View All
+*   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
 *   Polos
@@ -92,6 +93,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Tops ) Tops
 
 *   View All
+*   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
 *   Polos
@@ -255,7 +257,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**BUY 1 GET 1 FREE JEANS + SHORTS**  GIRLS GUYS **Free Ship Over $50 + Extra 20% off Use Code FREESHIP20** 
+**BUY 1 GET 1 FREE JEANS + SHORTS**  GIRLS GUYS **Free Ship Over $50 Or When You Buy Jeans or Shorts** 
 
 *   Select Country
 *   My Account My Account Login Register
@@ -267,6 +269,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Tops
         *   View All
+        *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
         *   Polos
@@ -317,6 +320,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Tops
         *   View All
+        *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
         *   Polos
@@ -473,7 +477,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Free Shipping On Orders Over $50 Details Shop Girls Shop Guys Get In Store Coupon Details Shop Girls Bottoms Shop Guys Bottoms Shop Girls Jeans Guide Shop Guys Jeans Guide Previous Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Cropped Jeggings Straight Ankle Jeggings Bootfit (Online Exclusive) Skinny Jean Relaxed Destroyed Jean Flex Effects Super High Rise Jeggings Super Skinny High Rise Jeggings Skinny Low Rise Jeggings Slim Cheeky Jeggings Slim Straight Next Details Shop Girls Graphics Shop Guys Graphics Shop Cheeky Shop Girls Jeans Shop Slim Shop Guys Jeans Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Details BOGO Girls BOGO Guys Shop Girls Shorts Guide Shop Guys Shorts Guide Previous Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose Next Shop Girls Shop Guys Details Shop Girls Graphics Shop Guys Graphics Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
