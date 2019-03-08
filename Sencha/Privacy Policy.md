@@ -4,6 +4,7 @@ Sencha.com
 
 *   Products
     *   Ext JS
+    *   ExtAngular
     *   ExtReact
     *   GXT
     *   Sencha Test
@@ -184,6 +185,7 @@ Subscribe
 
 *   Products
     *   Ext JS
+    *   ExtAngular
     *   ExtReact
     *   GXT
     *   Sencha Test
