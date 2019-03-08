@@ -41,7 +41,7 @@ expand
 *   Site Map
 *   Contact Us
 
-Marriott Rewards
+Marriott Bonvoy
 
 *   English
 *   Collapsed Find &. Reserve Find a Hotel
