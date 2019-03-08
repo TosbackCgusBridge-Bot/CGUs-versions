@@ -33,11 +33,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation SE
 
 Hot Topics
 
-*   Lent
-*   Baker
+*   UMC pastor
+*   Progressive Christian
+*   Seventh Day Slumber
+*   Falwell
 *   Bibles survive
-*   China persecution
-*   Born alive
 
 About Us
 
