@@ -204,22 +204,22 @@ New York, NY 10001.**
     *   Recent
     
     *   Undisclosed number of TurboTax accounts breached
-    *   Remote Desktop Protocol flaws could be exploited to attack RDP clients
     *   Image-I-Nation supply chain breach exposes data of major credit agencies' customers
+    *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Wendy’s to pay $50M in data breach settlement
     
-    *   Vendor risk management
-    *   Dow Jones database holding 2.4 million records of politically exposed persons
-    *   New B0r0nt0K ransomware roughs up Linux servers
-    *   Teen racks up more than $1M in bug bounties on HackerOne platform
+    *   Iridium cyberespionage gang behind Aussie parliament attacks
+    *   Missing: Qualified cybersecurity pros
+    *   Smaller orgs struggle to get the security resources they need (video)
     *   The Criminal Element Gets Its Due
+    *   Palisades Park receives $200,000 advance after cyberattack
     
-    *   The winners of the 2019 SC Awards Honored in the U.S.
-    *   Peter Liebert, SC Awards CSO of the Year
-    *   IRS warns of new tax-related phishing scams
-    *   NSA quietly abandons controversial surveillance program
-    *   CMS hackers focus on WordPress
+    *   Panel: Laws to curb influence campaigns on social media should stress transparency, collaboration
+    *   Pinchy Spider goes big game hunting with GandCrab
+    *   Information technology: Leading the way
+    *   Facebook's Zuckerberg commits to privacy-focused platform
+    *   Smaller orgs struggle to get the security resources they need (video)
 
 Back to Top
 
