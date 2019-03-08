@@ -16,7 +16,9 @@
 *   VALUE
     
     America’s Top 120  
-    190 Channels
+    
+    $ 59 99 /mo 190  
+    Channels
     
     Includes DVR  
     +  
