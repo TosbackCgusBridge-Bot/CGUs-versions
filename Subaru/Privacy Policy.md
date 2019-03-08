@@ -1,4 +1,4 @@
-      Confirm Your Location
+Skip to Content       Confirm Your Location
 
 We'd like to show you nearby Subaru retailers, special offers, pricing, and vehicle inventory that are available in your area.
 
