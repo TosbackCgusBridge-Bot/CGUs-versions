@@ -311,9 +311,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'A Star is Born Encore'
+*   Fandango VIP
     
-    This week only, see the encore of 'A Star is Born', with almost 12 minutes of extra footage. GET TICKETS
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 
 New + Coming soon
