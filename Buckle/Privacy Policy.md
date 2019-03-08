@@ -329,7 +329,6 @@ Free water bottle or beach towel with a $75 qualifying brand purchase. SHOP NOW!
         *   Women's New to Sale
         *   Men's New to Sale
         *   Sale Under $25
-        *   Spring &. Summer Sale
         *   Fall &. Winter Sale
         
         *   Women's Sale
