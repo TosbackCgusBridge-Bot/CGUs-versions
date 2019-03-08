@@ -70,7 +70,7 @@ The Economist Group is made up of several companies and this policy applies to a
 
 You should read this policy in conjunction with our Cookies policy and Terms of Use and ensure that you understand how we collect and use your information.
 
-Our policies will be updated from time-to-time. Please refer back regularly to keep yourself updated.
+Our policies will be updated from Time-to-time. Please refer back regularly to keep yourself updated.
 
 **Sections in this policy:**
 
@@ -263,7 +263,7 @@ The Economist Group does not intentionally, or knowingly, process personal infor
 
 **External links**
 
-This Privacy Policy only applies to The Economist Group’s use of data. Our websites, services or products may, from time-to-time, contain links to, use or be on external sites. The Economist Group is not responsible for the Privacy Policies or the content of such sites and we recommend that you read the Privacy Policies on any external sites you use. Similarly, if you are directed to our website from a third party we are not responsible for the Privacy Policy or practices of the third party. We strongly recommend you read their policy.
+This Privacy Policy only applies to The Economist Group’s use of data. Our websites, services or products may, from Time-to-time, contain links to, use or be on external sites. The Economist Group is not responsible for the Privacy Policies or the content of such sites and we recommend that you read the Privacy Policies on any external sites you use. Similarly, if you are directed to our website from a third party we are not responsible for the Privacy Policy or practices of the third party. We strongly recommend you read their policy.
 
 **Cookies**
 
@@ -366,7 +366,7 @@ You can update your preferences at any time, and for subscribers of _The Economi
 
 *   How do I make a complaint?
 
-If you have a complaint regarding any aspect of your personal information or this privacy policy, please write directly to the data privacy team.
+If you have a complaint regarding any aspect of your personal information or this Privacy Policy, please write directly to the data privacy team.
 
 If you are still not satisfied with the outcome of your complaint, you may write to the Information Commissioner's Office as set out below.
 
@@ -399,7 +399,7 @@ You also have the right to ask for us to update, delete or stop processing infor
 
 **Changes to this policy**
 
-From time-to-time, we may make changes to the Privacy Policy. This may be in relation to changes in the law, best practice or changes in our services. These changes will be reflected in this statement, so you should check here regularly.
+From Time-to-time, we may make changes to the Privacy Policy. This may be in relation to changes in the law, best practice or changes in our services. These changes will be reflected in this statement, so you should check here regularly.
 
   
 Last update: 15 August 2018
