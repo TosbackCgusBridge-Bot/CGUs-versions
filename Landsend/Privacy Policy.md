@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off 1 full-price item!
+Receive 30% off full-price styles!
 
-code: SHIMMER pin: 8824 DETAILS
+code: CLOVER pin: 5421 DETAILS
 
 Customer Service Menu
 
