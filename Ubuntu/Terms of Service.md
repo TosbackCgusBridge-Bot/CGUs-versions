@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical at NVIDIA GTC 2019 ›
+*   How to ensure the ongoing security and compliance of Ubuntu 14.04 LTS ‘Trusty Tahr’ ›
+*   How to create snapshots of your snaps ›
 *   Infographic: Snapcraft for developers ›
 *   How to quickly deploy production-ready Kubernetes ›
-*   MAAS – Fast and efficient virtualisation for small and medium enterprises ›
-*   Building ROS2 snaps with Colcon ›
-*   Canonical adds containerd to Ubuntu Kubernetes ›
