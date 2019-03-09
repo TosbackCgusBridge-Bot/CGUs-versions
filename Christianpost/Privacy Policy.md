@@ -1,6 +1,4 @@
-Skip to main content <p class="enable-js">. To enjoy our website, you'll need to enable <b>JavaScript</b>. in your web browser. Please <a href="http://enable-javascript.com/" target="\_blank"><b>click here</b></a>. to learn how. </p>. Go
-
-*   Home
+Skip to main content <p class="enable-js">. To enjoy our website, you'll need to enable <b>JavaScript</b>. in your web browser. Please <a href="http://enable-javascript.com/" target="\_blank"><b>click here</b></a>. to learn how. </p>. Go*   Home
 *   Church &. Ministries
 *   U.S.
 *   World
@@ -11,7 +9,6 @@ Skip to main content <p class="enable-js">. To enjoy our website, you'll need to
 *   Voices
 *   Books
 *   Video
-
 Menu Search P404 Newsletter Close Menu 404 Page not found
 
 Oops! This page is not available.  
@@ -30,14 +27,16 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation SE
 *   Voices
 *   Books
 *   Video
+*   Topics
 
 Hot Topics
 
+*   Spirit-led
+*   Churches in decline
+*   Star Parker
+*   Hailey Bieber
 *   UMC pastor
-*   Progressive Christian
-*   Seventh Day Slumber
-*   Falwell
-*   Bibles survive
+*   More Topics
 
 About Us
 
