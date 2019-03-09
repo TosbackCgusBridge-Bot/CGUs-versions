@@ -1,5 +1,7 @@
 wikiHow:Terms of Use
 
+Explore this Article Steps Related Articles
+
 At wikiHow, our mission is to empower every person on the planet to learn how to do anything. We do this by collaborating to create the world’s most helpful instructions. Before you read our detailed, legally binding Terms of Use, here is a non-legalese summary of some key information about reading or contributing to wikiHow:
 
 1.  You continue to own the copyrights of the content you submit to wikiHow. That said, by posting your content on wikiHow you give us multiple rights to use and change it (see “User Content License Grants” below for details).
