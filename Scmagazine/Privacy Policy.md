@@ -209,17 +209,17 @@ New York, NY 10001.**
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Wendy’s to pay $50M in data breach settlement
     
-    *   Iridium cyberespionage gang behind Aussie parliament attacks
-    *   Missing: Qualified cybersecurity pros
+    *   Coinhive closes its doors
+    *   Highly critical Drupal flaw being exploited in the wild
     *   Smaller orgs struggle to get the security resources they need (video)
-    *   The Criminal Element Gets Its Due
-    *   Palisades Park receives $200,000 advance after cyberattack
+    *   NSA quietly abandons controversial surveillance program
+    *   Sonic hit by $5 million suit over 2017 data breach
     
     *   Panel: Laws to curb influence campaigns on social media should stress transparency, collaboration
     *   Pinchy Spider goes big game hunting with GandCrab
-    *   Information technology: Leading the way
     *   Facebook's Zuckerberg commits to privacy-focused platform
     *   Smaller orgs struggle to get the security resources they need (video)
+    *   Perimeter has changed, not disappeared (video)
 
 Back to Top
 
