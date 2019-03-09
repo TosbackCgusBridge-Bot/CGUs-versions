@@ -64,9 +64,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   New 'Shazam!' Trailer Electrifies. Here's Everything We Know Read More
+    *   2019 SXSW Film Festival: The Biggest Movies Premiering and the Potential Breakout Hits Read More
     *   Fly, 'Dumbo,' Fly. Here's Everything We Know Read More
-    *   Chloe Grace Moretz on Being Terrorized by the Legendary Isabelle Huppert in ‘Greta’ Read More
+    *   The Week in Movie News: Idris Elba to Join ‘Suicide Squad 2,’ First ‘Midsommar’ Trailer and More Read More
     
     Explore Content
     *   Movie Reviews
