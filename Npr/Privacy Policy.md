@@ -6,7 +6,7 @@ Accessibility links
 Listen Live Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On Air Now**Toggle more player options
 
 *   Sign In
-*   NPR Shop
+*   Shop
 *   Donate
 *   Open Navigation Menu
 
@@ -51,12 +51,12 @@ Close Navigation Menu
     *   How I Built This with Guy Raz
     *   Wait Wait...Don't Tell Me!
     *   Planet Money
-    *   Hidden Brain
+    *   Invisibilia
     
     *   More Shows &. Podcasts
 *   Search
 *   Sign In
-*   NPR Shop
+*   Shop
 
 *   Tiny Desk
 *   All Songs Considered
