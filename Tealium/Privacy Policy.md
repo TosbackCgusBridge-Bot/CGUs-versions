@@ -178,7 +178,7 @@ Copyright All Rights Reserved © 2008-2019
 
 The Right Market
 
-Here we are using a reverse IP address lookup service to reveal a visitor’s industry. We’re then using that data point to relate to the visitor by powering personalized content.
+Here we are using a reverse IP address lookup service to reveal a visitor’s industry. Then using that data point to relate to the visitor by powering personalized content.
 
 **The following are the options you could have been presented:**
 
@@ -196,4 +196,4 @@ Financial
 
 Health/Beauty
 
-CLOSE This website uses cookies. By using our services, you agree to our use of cookies. Accept Learn More
+X This website uses cookies. By using our services, you agree to our use of cookies. Accept Learn More
