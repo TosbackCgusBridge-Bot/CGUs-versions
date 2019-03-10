@@ -3,7 +3,7 @@
 *   Schedule
 *   Standings
 *   Highlights
-*   Combine
+*   Free Agency
 *   Fantasy
 *   Tickets
 *   Shop
@@ -11,7 +11,6 @@
 *   Game Pass
 *   Super Bowl
 *   Draft
-*   Free Agency
 *   Stats
 *   Next Gen Stats
 *   Ways to Watch
@@ -23,15 +22,14 @@
 *   Schedule
 *   Standings
 *   Highlights
-*   Combine
+*   Free Agency
 
-*   Combine
+*   Free Agency
 *   Draft
 
 *   *   Game Pass
     *   Super Bowl
     *   Draft
-    *   Free Agency
     *   Stats
     *   Next Gen Stats
     *   Ways to Watch
@@ -43,7 +41,7 @@
 *   Shop
 *   Teams
 
-BREAKING NEWSSteelers closing in on trading Antonio Brown to BillsPittsburgh is close to trading standout receiver Antonio Brown to the Bills, NFL Network Insider Ian Rapoport reports.READ MORE NFL.com - Privacy Policy English
+NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
 Updated: December 20, 2018**  
@@ -241,6 +239,4 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
-Attn: Website Privacy Policy  
-
-  Pittsburgh is close to trading standout receiver Antonio Brown to the Bills, NFL Network Insider Ian Rapoport reports.
+Attn: Website Privacy Policy
