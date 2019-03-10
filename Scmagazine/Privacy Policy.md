@@ -198,28 +198,9 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
-    
     *   Popular
     *   Emailed
-    *   Recent
-    
-    *   Undisclosed number of TurboTax accounts breached
-    *   Image-I-Nation supply chain breach exposes data of major credit agencies' customers
-    *   The winners of the 2019 SC Awards Honored in the U.S.
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Wendy’s to pay $50M in data breach settlement
-    
-    *   Coinhive closes its doors
-    *   Highly critical Drupal flaw being exploited in the wild
-    *   Smaller orgs struggle to get the security resources they need (video)
-    *   NSA quietly abandons controversial surveillance program
-    *   Sonic hit by $5 million suit over 2017 data breach
-    
-    *   Panel: Laws to curb influence campaigns on social media should stress transparency, collaboration
-    *   Pinchy Spider goes big game hunting with GandCrab
-    *   Facebook's Zuckerberg commits to privacy-focused platform
-    *   Smaller orgs struggle to get the security resources they need (video)
-    *   Perimeter has changed, not disappeared (video)
+    *   RecentLoading... Loading... Loading...
 
 Back to Top
 
