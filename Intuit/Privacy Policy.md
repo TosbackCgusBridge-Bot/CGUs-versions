@@ -1,4 +1,4 @@
-Accessible View
+Reveal your deal-MYSTERY SALE is on - shop the store adSee DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -37,13 +37,13 @@ Near YouFind a StoreBackCOLD WEATHER GEARShop AllCOLD WEATHER GEARShop All
 
 COZY BLANKETSShop AllCOZY BLANKETSShop All
 
-*   from$8249after couponwas $160 - $280 Biddeford Velour Reverse to Sherpa Heated Blanket(10)Add To Cart
 *   from$4319after couponwas $90 - $190 Biddeford™ Comfort Knit Heated Blanket(395)Add To Cart
+*   from$8249after couponwas $160 - $280 Biddeford Velour Reverse to Sherpa Heated Blanket(10)Add To Cart
 *   from$2159after couponwas $40 - $60 Home Expressions Velvet Plush Blanket(1500)Add To Cart
 *   from$3599after couponwas $65 - $105 Vellux® Blanket(453)Add To Cart
+*   from$8549after couponwas $190 - $200 Sleep Philosophy Plush Removable Cover Weighted Blanket(31)Add To Cart
 *   from$5599after couponwas $100 - $200 Biddeford™ MicroPlush Heated Blanket(1019)Add To Cart
 *   from$2799after couponwas $50 - $90 JCP Home Luxury Cotton Blanket(88)Add To Cart
-*   from$8549after couponwas $190 - $200 Sleep Philosophy Plush Removable Cover Weighted Blanket(30)Add To Cart
 
 Shop and Save at JCPenney
 
