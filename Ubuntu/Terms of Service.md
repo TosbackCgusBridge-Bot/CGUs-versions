@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Fresh KDE snaps for February 2019 ›
 *   Canonical at NVIDIA GTC 2019 ›
 *   How to ensure the ongoing security and compliance of Ubuntu 14.04 LTS ‘Trusty Tahr’ ›
 *   How to create snapshots of your snaps ›
 *   Infographic: Snapcraft for developers ›
-*   How to quickly deploy production-ready Kubernetes ›
