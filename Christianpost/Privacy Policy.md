@@ -31,11 +31,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation SE
 
 Hot Topics
 
-*   Spirit-led
-*   Churches in decline
-*   Star Parker
-*   Hailey Bieber
-*   UMC pastor
+*   Katy Perry
+*   Christian movies
+*   Amazon censorship
+*   Lent
+*   Notable women
 *   More Topics
 
 About Us
