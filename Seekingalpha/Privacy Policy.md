@@ -29,9 +29,9 @@ MarketplaceSeeking AlphaSUBSCRIBE
     *   See All Sections
     
     *   Recommended
-    *   Short Ideas
     *   Closed End Funds
     *   Today's Market
+    *   Dividend Strategy
     *   ETF Screener
     *   Gold &. Precious Metals
 
