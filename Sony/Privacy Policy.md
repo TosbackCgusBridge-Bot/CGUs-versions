@@ -113,7 +113,7 @@ Meet the New Xperia 1
 
 Broaden your horizons with the beauty of a 21:9 Wide display on #Xperia 10.  http://bit.ly/TW-Xperia-10-Display … pic.twitter.com/HfQ2KLEBB0
 
-5 days ago
+6 days ago
 
 View Tweet
 
@@ -153,7 +153,7 @@ Play It on PS4™
 
 The Players' Choice polls for February are now open – get those votes in!  https://play.st/2EF7XpM  pic.twitter.com/QwMKbukDyE
 
-6 days ago
+7 days ago
 
 View Tweet
 
