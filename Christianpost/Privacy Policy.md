@@ -35,7 +35,7 @@ Hot Topics
 *   Christian movies
 *   Amazon censorship
 *   Lent
-*   Notable women
+*   Christian meditation
 *   More Topics
 
 About Us
