@@ -51,7 +51,6 @@ MenuSearch Close
         _UPS Import Control_
     *   International Toolset:  
         _UPS TradeAbility_
-    *   Service Guide
     *   Order Supplies
     
     Explore All Shipping Convenient locations near you.
@@ -123,7 +122,7 @@ To continue you can:
 *   Search ups.com using the **Search box** in the upper right corner of this page
 *   Follow one of the popular links below
 
-Were you trying to... Track a Package or Freight Ship a Package Ship Freight Get a Quote Find a UPS Location Go to the ups.com Home Page Go to ups.com for another Country or Territory Customer Service
+Were you trying to... Track a Package or Freight Ship a Package Get a Quote Find a UPS Location Go to the ups.com Home Page Go to ups.com for another Country or Territory Customer Service
 
 *   Help and Support Center
 *   Get Started with UPS
