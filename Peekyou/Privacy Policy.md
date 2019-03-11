@@ -68,9 +68,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 4% 
+What is PeekScore? Public Records &. Background Checks 3% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -100,7 +100,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-4% 
+3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -146,7 +146,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-4% 
+3% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -176,7 +176,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-4% 
+3% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -261,7 +261,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 4% 
+Facebook 3% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -321,7 +321,7 @@ Facebook 4% 
     
 *   Show Less ...
 
-Twitter 4% 
+Twitter 3% 
 
 *   CMSGov - CMSGov
     
@@ -367,43 +367,53 @@ Twitter 4% 
     
 *   Show Less ...
 
-Instagram 4% 
+Instagram 3% 
 
-*   Instagram privacy Policy - privacy\_intellectual\_policy
-    
-*   Wet Spagett - privacy\_policy\_update
+*   privacy policy - privacypolice1
     
 *   Konstantin - \_privacy.\_.policy\_\_
     
-*   Privacy Policy of Instagram - privacypolicy\_of\_the\_account
-    
-*   Show More ...
-
-*   Social Media Privacy policy - socialmediaprivacypolicy
-    
-*   instagram\_service-iran - privacy\_policy\_insta\_iran
-    
-*   Privacy Is The Best Policy ߑᠭ specialjitt
-    
-*   Privacy Policy - insta\_privacy\_policy
-    
-*   childrens\_privacy\_policy - childrens\_privacy\_policy
-    
-*   Yung Imker - seamusprivacypolicy
-    
-*   Ray - terms\_privacy\_\_policy\_\_
-    
-*   Djavid - \_privacy\_policy
+*   Wet Spagett - privacy\_policy\_update
     
 *   Privacy Policy - privacy05
     
-*   Karen McDowall - privacy\_\_\_policy
+*   Show More ...
+
+*   privacy\_policy\_4 - privacy\_policy\_4
     
-*   Christian Granda - childrens.privacy.policy
+*   Privacy Is The Best Policy ߑᠭ specialjitt
+    
+*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
+    
+*   aidan miles - we\_updated\_our\_privacy\_policy
+    
+*   childrens\_privacy\_policy - childrens\_privacy\_policy
+    
+*   Social Media Privacy policy - socialmediaprivacypolicy
+    
+*   Instagram privacy Policy - privacy\_intellectual\_policy
+    
+*   aliasssssss - privacy\_best\_policy
+    
+*   Djavid - \_privacy\_policy
+    
+*   Laura Moses - privacy\_policy\_\_privacy\_\_terms
+    
+*   privacy policy - mne.vse.pox
+    
+*   Christian Granada - childrens.privacy.policy
+    
+*   InstagramRep. - privacy\_policy\_direct\_
+    
+*   instagram\_service-iran - privacy\_policy\_insta\_iran
+    
+*   Are You Fed? - privacy\_policy\_\_\_\_
+    
+*   Karen McDowall - privacy\_\_\_policy
     
 *   Show Less ...
 
-Myspace 4% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -427,7 +437,7 @@ Myspace 4% 
     
 *   Show Less ...
 
-Google+ 4% 
+Google+ 3% 
 
 *   Lauren Weinstein
     
@@ -469,7 +479,7 @@ Google+ 4% 
     
 *   Show Less ...
 
-Pinterest 48%  Wikipedia 4% 
+Pinterest 4%  Wikipedia 3% 
 
 *   Privacy policy
     
@@ -484,7 +494,7 @@ Pinterest 48%  Wikipedia 4% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Music 4% 
+Music 3% 
 
 *   Pandora
     
@@ -526,7 +536,7 @@ Music 4% 
     
 *   Show Less ...
 
-Web Search 4% 
+Web Search 3% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -572,15 +582,15 @@ Web Search 4% 
     
 *   Show Less ...
 
-Images 4% 
+Images 3% 
 
-3
+9
 
 20
 
-15
+20
 
-7
+9
 
 facebookx
 
