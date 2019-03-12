@@ -5,38 +5,45 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Captain Marvel (2019)
     *   How to Train Your Dragon: The Hidden World
     *   Tyler Perry's A Madea Family Funeral
-    *   Alita: Battle Angel
     *   The Lego Movie 2: The Second Part
+    *   Alita: Battle Angel
     *   Green Book
-    *   Fighting with My Family
     *   Isn't It Romantic
+    *   Fighting with My Family
     *   Greta (2019)
+    *   Apollo 11
     *   What Men Want
-    *   Happy Death Day 2U
-    *   Spider-Man: Into the Spider-Verse
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Captain Marvel (2019)
-    *   An Elephant Sitting Still
-    *   Ferrante Fever
-    *   Gloria Bell
-    *   The Kid (2019)
+    *   Captive State
+    *   Five Feet Apart
+    *   Wonder Park
+    *   The Aftermath (2019)
+    *   Ash Is Purest White (2019)
+    *   Chimera Strain
+    *   Faith, Hope &. Love
+    *   The Hummingbird Project
+    *   Iceman
+    *   The Mustang
+    *   Nancy Drew and the Hidden Staircase (2019)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Five Feet Apart
-    *   Wonder Park
     *   Us (2019)
     *   Dumbo (2019)
     *   Unplanned (2019)
     *   The Best of Enemies
     *   Pet Sematary (2019)
     *   Shazam!
+    *   After (2019)
+    *   Hellboy (2019)
+    *   Missing Link (2019)
     *   See All Coming Soon
     
     Explore More
@@ -64,9 +71,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   2019 SXSW Film Festival: The Biggest Movies Premiering and the Potential Breakout Hits Read More
-    *   Fly, 'Dumbo,' Fly. Here's Everything We Know Read More
-    *   The Week in Movie News: Idris Elba to Join ‘Suicide Squad 2,’ First ‘Midsommar’ Trailer and More Read More
+    *   Jordan Peele's 'Us' Frightens SXSW. Here's Everything We Know Read More
+    *   Today in Movie Culture: ‘Captain Marvel’ Easter Eggs, Trivia, Timeline Explanation, Director Commentary and More Read More
+    *   Tim Burton’s Batman Is Turning Thirty! What He Thinks of the Superhero Genre and Who He Would Cast as His Next Batman Read More
     
     Explore Content
     *   Movie Reviews
