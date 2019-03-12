@@ -62,7 +62,7 @@ Legal research
 
 **Westlaw** Practitioner Insights  
 Start your day in the know with up-to-the-minute legal developments in your practice area  
-Free Trial Buy Now Westlaw
+Free trial Westlaw
 
 1.  Westlaw
 2.  Westlaw Edge
@@ -181,11 +181,11 @@ Free trial Search
 
 Thomson Reuters
 
-*   *   Cookie policy
-    *   Terms of use
-    *   Privacy statement
-    *   Copyright
-    *   Accessibility
+*   Cookie policy
+*   Terms of use
+*   Privacy statement
+*   Copyright
+*   Accessibility
 
 <img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=215515565692587&ev=PageView&noscript=1" />.
 
