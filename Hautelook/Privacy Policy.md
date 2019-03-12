@@ -8,33 +8,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Philosophy Apparel Up to 70% Off Incl. Plus &. Petites
-    *   Samuel B Jewelry Up to 70% Off
-    *   Women's Sandals, Pumps &. More Up to 70% Off
-    *   Sunday Steals Up to 75% Off
-    *   Vintage Addiction Up to 80% Off
-    *   Men's Designer Blowout
-    *   Men's Shoes Up to 65% Off
-    *   Swiss Watches from Gevril &. More Up to 75% Off
-    *   Free Shipping: Amrapur Towels Up to 75% Off
-    *   Everyday Kitchen Storage Blowout
+    *   Cole Haan Men Up to 55% Off
+    *   Cole Haan Up to 60% Off
+    *   Cole Haan Coats Up to 70% Off
+    *   Cole Haan Handbags &. Accessories Up to 50% Off
+    *   Amanda &. Chelsea Incl. Plus &. Petites
+    *   KENDALL + KYLIE Up to 80% Off
+    *   Adrianna Papell
+    *   Minnie Rose
+    *   Cole Haan Men's Clothing &. More Up to 70% Off
+    *   K-Beauty: 23 YEARS OLD
+    *   Champion Active Under $35 ft. Big &. Tall
+    *   Sharpen Up: Wusthof Cutlery
+    *   Notable Finds: Stationery &. More Under $15
+    *   Chase &. Chloe Starting at $20
+    *   Sterling Silver Rings &. More Up to 70% Off
     *   Gal Meets Glam
-    *   Wacoal &. b.tempt'd by Wacoal
     *   Best of Palettes
-    *   Seven7 Incl. Plus &. Petites
     *   Now in Bloom: Floral Dresses &. More
     *   Project Social T
     *   Seychelles Up to 45% Off
+    
     *   Jared Lang
     *   Fresh Kicks: Men's Sneakers Starting at $25
     *   Men's Lounge Starting at $12
-    *   Sterling Silver Rings &. More Up to 70% Off
     *   Sofft Up to 50% Off
     *   adidas Kids' Activewear
     *   Oh-So-Soft Basics for Baby ft. Coccoli
     *   J Brand
     *   Men's Premium Denim Shop ft. J Brand
-    
     *   Michael Stars Up to 65% Off
     *   On-Trend Sterling Silver &. More Up to 80% Off
     *   Night Out: Dresses
@@ -47,90 +49,64 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Vionic Comfort Sandals &. More
     *   Fancy Footwear from Hudson London
     *   On-the-Go Tech: Chargers, Headphones &. More
-    *   Bring on Spring Break: Kids' Swim
-    *   Converse Starting at $25
-    *   Converse Kids Starting at $20
-    *   Converse Men Starting at $25
-    *   Nicole Miller
-    *   ViX Swim
-    *   Alternative
-    *   Skin Fix: Face Masks, Serums &. More
-    *   bebe Up to 60% Off
-    *   Vintage Havana
-    *   LeSportsac Starting at $20
-    *   Antelope Up to 50% Off
-    *   Suzy Levian Jewelry
-    *   Suiting Under $250
     
-    *   Men's Surf Shop: Swim &. More Starting at $15
-    *   Tissot NBA Quickster Watches
-    *   Spring Break Must-Haves: Travel Bags
-    *   Lysse Leggings &. More
+    *   Bring on Spring Break: Kids' Swim
+    *   Skin Fix: Face Masks, Serums &. More
     *   Charming Decor ft. kate spade new york
-    *   Converse Kids' Clothing
-    *   Robert Graham
     *   Celebrity Strands
     *   Wanderlust Worthy: Scenic Wall Art
-    *   Men's Active Outerwear
-    *   Bacco Bucci Up to 55% Off
     *   Bedding Essentials
-    *   Office Edit: Work-Ready Looks, Shoes &. More
-    *   Office Edit: Casual Separates, Shoes &. Accessories
-    *   Office Edit: Men's Work-Ready Looks, Shoes &. More
-    *   Mirenesse Australia
     *   Work-Ready Tech: Phone Cases &. More
-    *   Free Shipping: Kitchen Countertop Storage
-    *   Premium Brand Shop: Great Finds ft. Nautica Kids
-    *   On-Trend Looks for Kids ft. Petit Lem
-    *   Gear Up for Baby: Must-Haves for Moms to Be
     *   Spring Cleaning: Dyson &. More
     *   Cheers to Spring: Drinkware, Tabletop &. More
     *   Anthropologie Home
-*   WomenShop Sale Events
-    
-    *   Philosophy Apparel Up to 70% Off Incl. Plus &. Petites
-    *   Samuel B Jewelry Up to 70% Off
-    *   Women's Sandals, Pumps &. More Up to 70% Off
+    *   Everyday Kitchen Storage Blowout
+    *   Men's Shoes Up to 65% Off
+    *   Philosophy Apparel Incl. Plus &. Petites
     *   Sunday Steals Up to 75% Off
+    *   Free Shipping: Amrapur Towels Up to 75% Off
     *   Vintage Addiction Up to 80% Off
     *   Swiss Watches from Gevril &. More Up to 75% Off
+    *   Women's Sandals, Pumps &. More Up to 70% Off
+    *   Samuel B Jewelry Up to 70% Off
+    *   Men's Designer Blowout
+*   WomenShop Sale Events
+    
+    *   Cole Haan Up to 60% Off
+    *   Cole Haan Coats Up to 70% Off
+    *   Cole Haan Handbags &. Accessories Up to 50% Off
+    *   Amanda &. Chelsea Incl. Plus &. Petites
+    *   KENDALL + KYLIE Up to 80% Off
+    *   Adrianna Papell
+    *   Minnie Rose
+    *   K-Beauty: 23 YEARS OLD
+    *   Chase &. Chloe Starting at $20
+    *   Sterling Silver Rings &. More Up to 70% Off
     *   Gal Meets Glam
-    *   Wacoal &. b.tempt'd by Wacoal
     *   Best of Palettes
-    *   Seven7 Incl. Plus &. Petites
     *   Now in Bloom: Floral Dresses &. More
     *   Project Social T
     *   Seychelles Up to 45% Off
-    *   Sterling Silver Rings &. More Up to 70% Off
     *   Sofft Up to 50% Off
     *   J Brand
+    
     *   Michael Stars Up to 65% Off
     *   On-Trend Sterling Silver &. More Up to 80% Off
     *   Night Out: Dresses
     *   Vanity Planet Up to 75% Off
     *   Spring Style: Activewear Essentials
-    
     *   Free Press &. Shimera
     *   Top Picks: Spring Blouses
     *   Kristin Cavallari by Chinese Laundry Up to 65% Off
     *   Vionic Comfort Sandals &. More
-    *   Converse Starting at $25
-    *   Nicole Miller
-    *   ViX Swim
-    *   Alternative
     *   Skin Fix: Face Masks, Serums &. More
-    *   bebe Up to 60% Off
-    *   Vintage Havana
-    *   LeSportsac Starting at $20
-    *   Antelope Up to 50% Off
-    *   Suzy Levian Jewelry
-    *   Tissot NBA Quickster Watches
-    *   Spring Break Must-Haves: Travel Bags
-    *   Lysse Leggings &. More
     *   Celebrity Strands
-    *   Office Edit: Work-Ready Looks, Shoes &. More
-    *   Office Edit: Casual Separates, Shoes &. Accessories
-    *   Mirenesse Australia
+    *   Philosophy Apparel Incl. Plus &. Petites
+    *   Sunday Steals Up to 75% Off
+    *   Vintage Addiction Up to 80% Off
+    *   Swiss Watches from Gevril &. More Up to 75% Off
+    *   Women's Sandals, Pumps &. More Up to 70% Off
+    *   Samuel B Jewelry Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -142,25 +118,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   MenShop Sale Events
     
-    *   Men's Designer Blowout
-    *   Men's Shoes Up to 65% Off
-    *   Swiss Watches from Gevril &. More Up to 75% Off
+    *   Cole Haan Men Up to 55% Off
+    *   Cole Haan Men's Clothing &. More Up to 70% Off
+    *   Champion Active Under $35 ft. Big &. Tall
     *   Jared Lang
     *   Fresh Kicks: Men's Sneakers Starting at $25
     *   Men's Lounge Starting at $12
+    
     *   Men's Premium Denim Shop ft. J Brand
     *   Men's Activewear Under $50
     *   Fancy Footwear from Hudson London
-    
-    *   Converse Men Starting at $25
-    *   Suiting Under $250
-    *   Men's Surf Shop: Swim &. More Starting at $15
-    *   Tissot NBA Quickster Watches
-    *   Spring Break Must-Haves: Travel Bags
-    *   Robert Graham
-    *   Men's Active Outerwear
-    *   Bacco Bucci Up to 55% Off
-    *   Office Edit: Men's Work-Ready Looks, Shoes &. More
+    *   Men's Shoes Up to 65% Off
+    *   Swiss Watches from Gevril &. More Up to 75% Off
+    *   Men's Designer Blowout
     
     Shop By Category
     *   Clothing
@@ -172,53 +142,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   adidas Kids' Activewear
     *   Oh-So-Soft Basics for Baby ft. Coccoli
     *   Bring on Spring Break: Kids' Swim
-    *   Converse Kids Starting at $20
-    *   Converse Kids' Clothing
-    *   Premium Brand Shop: Great Finds ft. Nautica Kids
-    *   On-Trend Looks for Kids ft. Petit Lem
-    *   Gear Up for Baby: Must-Haves for Moms to Be
     
     Shop By Category
     *   Boys' Sizes 8-20
-    *   Boys' Shoes
-    *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
-    *   Girls' Shoes
-    *   Baby Boy
     *   Baby Girl
+    *   Baby Boy
+    *   Girls' Sizes 2T-6X
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   Free Shipping: Amrapur Towels Up to 75% Off
-    *   Everyday Kitchen Storage Blowout
+    *   Sharpen Up: Wusthof Cutlery
+    *   Notable Finds: Stationery &. More Under $15
     *   On-the-Go Tech: Chargers, Headphones &. More
     *   Charming Decor ft. kate spade new york
     *   Wanderlust Worthy: Scenic Wall Art
     *   Bedding Essentials
     
     *   Work-Ready Tech: Phone Cases &. More
-    *   Free Shipping: Kitchen Countertop Storage
     *   Spring Cleaning: Dyson &. More
     *   Cheers to Spring: Drinkware, Tabletop &. More
     *   Anthropologie Home
+    *   Everyday Kitchen Storage Blowout
+    *   Free Shipping: Amrapur Towels Up to 75% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
     *   Tech Accessories
     *   Bedding
     *   Bath
     *   Cleaning &. Organization
+    *   Luggage &. Travel
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   K-Beauty: 23 YEARS OLD
     *   Best of Palettes
     *   Vanity Planet Up to 75% Off
     *   Skin Fix: Face Masks, Serums &. More
     *   Celebrity Strands
-    *   Mirenesse Australia
     
     Shop By Category
     *   Makeup
@@ -227,7 +191,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Hair Care
     *   Fragrance
     *   Nails
-    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
