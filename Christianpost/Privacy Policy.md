@@ -6,9 +6,6 @@ Skip to main content <p class="enable-js">. To enjoy our website, you'll need to
 *   Entertainment
 *   Living
 *   Opinion
-*   Voices
-*   Books
-*   Video
 Menu Search P404 Newsletter Close Menu 404 Page not found
 
 Oops! This page is not available.  
@@ -24,9 +21,9 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation SE
 *   Entertainment
 *   Living
 *   Opinion
-*   Voices
-*   Books
 *   Video
+*   Book
+*   Voices
 *   Topics
 
 Hot Topics
