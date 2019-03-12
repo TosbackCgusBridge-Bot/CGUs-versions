@@ -206,20 +206,20 @@ New York, NY 10001.**
     *   Undisclosed number of TurboTax accounts breached
     *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Image-I-Nation supply chain breach exposes data of major credit agencies' customers
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Wendy’s to pay $50M in data breach settlement
-    
-    *   Orgs detecting breaches quicker, attackers more persistent
-    *   Chrome updated to combat an exploited zero day
-    *   Former NSA Director: Public and private sectors must unite to prevail against advanced cyberattacks
-    *   Peter Liebert, SC Awards CSO of the Year
-    *   Are employees the weakest (cybersecurity) link? Sometimes
-    
-    *   International Women's Day: A nod to women in security
-    *   Meeting GDPR standards doesn't guarantee Calif. privacy law compliance, experts warn
     *   Software maker Citrix hacked, business documents removed
-    *   Can event-based analytics spot IP developers stealing their own assets?
-    *   Researchers hack cars via aftermarket alarm systems
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    
+    *   Columbia Surgical Specialists pay $15,000 ransom to unlock files
+    *   Unprotected MongoDB database exposes 763M unique email addresses, 'business intel'
+    *   Turning 30: World Wide Web, SC and security grow up together
+    *   Meeting GDPR standards doesn't guarantee Calif. privacy law compliance, experts warn
+    *   Trolley Talk, RSA 2019 edition: SC's second annual cable car chats (video)
+    
+    *   Trump proposed budget cuts will reduce R&D, hurt U.S. competitiveness, innovation
+    *   Facebook sues app makers over browser extensions that allegedly scraped user data
+    *   Chelsea Manning jailed for refusing to testify in WikiLeaks probe
+    *   Jackson County, Georgia pays $400,000 ransom to release files
+    *   Trolley Talk, RSA 2019 edition: SC's second annual cable car chats (video)
 
 Back to Top
 
