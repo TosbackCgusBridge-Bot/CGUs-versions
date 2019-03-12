@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Free water bottle or beach towel with a $75 qualifying brand purchase. SHOP NOW!
+Enter for your chance to win a $500 Buckle gift card. Count me in!
 
 *   Women
 *   Men
