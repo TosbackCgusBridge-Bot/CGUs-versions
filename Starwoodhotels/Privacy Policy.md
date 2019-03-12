@@ -1,4 +1,4 @@
-For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
 
 expand
 
@@ -192,7 +192,7 @@ We want to engage with you in a way that is valuable to you, including how often
 
 Privacy Rights
 
-If you would like to request to access, change, delete, restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form . If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
+If you would like to request to access, change, delete, restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form. . If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com or by mail at:
 
 Marriott International, Inc.  
 Global Compliance, Privacy  
@@ -200,7 +200,7 @@ Global Compliance, Privacy
 Bethesda, MD 20817  
 United States of America 
 
-EEA Contact Information :  
+EEA Contact Information: :  
 Marriott Hotels Limited  
 Global Compliance  
 Barnard’s Inn  
@@ -208,7 +208,7 @@ Barnard’s Inn
 London EC4A 1EN  
 United Kingdom
 
-For your protection, we only fulfill requests for the personal data associated with the email address and/or loyalty account number that you identify in your request, and we may need to verify your identity before fulfilling certain requests.  When permitted by law, we may charge an appropriate fee to cover the costs of responding to your request.
+For your protection, we only fulfill requests for the personal data associated with the email address and/or loyalty account number that you identify in your request, and we may need to verify your identity before fulfilling certain requests. When permitted by law, we may charge an appropriate fee to cover the costs of responding to your request.
 
 Marriott acknowledges and respects our guests’ privacy and we will try to comply with your request as soon as reasonably practicable and consistent with applicable law.
 
@@ -568,5 +568,3 @@ Marriott For:
 *   Tracking Preferences
 
 © 1996 - 2019 Marriott International, Inc. All rights reserved. Marriott proprietary information
-
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
