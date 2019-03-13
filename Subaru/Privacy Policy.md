@@ -17,7 +17,7 @@ or Use my current location Your Subaru Retailer Subaru Retailers Near You More S
 
 Submit
 
-*   Your Location: **80202**
+*   Your Location: **66952**
 *   For Owners
 *   Customer Support
 *   Search
@@ -289,7 +289,7 @@ At the end of your visit, session cookies used by Subaru are removed. However, i
 
 Our service providers or vendors may also use cookies and related technologies in order to personalize your experiences and adapt a particular Subaru Website or Application's functionality to your preferences and for purposes such as those listed above. You may set your browser to notify you when you receive a cookie or to refuse receiving it. You should be aware that this may interfere with or make you unable to use certain functionality on websites using cookies. For example, many websites will ask your permission to use a cookie that will enable you to automatically log onto the website. Disabling or removing cookies may require you to manually log on each time you wish to visit that website.
 
-When multiple devices are used by the same person to access Subaru-controlled websites and/or applications, we may link those devices. This linking of devices does not identify you personally, but only identifies that the same user is accessing Subaru-controlled websites and/or applications through more than one device. For more information about device linking or for information on how to opt-out of this linking, please go to https://crossdeviceprivacy.adobe.com.
+When multiple devices are used by the same person to access Subaru-controlled websites and/or applications, we may link those devices. This linking of devices does not identify you personally, but only identifies that the same user is accessing Subaru-controlled websites and/or applications through more than one device. For more information about device linking or for information on how to opt-out of this linking, please go to https://cross-device-privacy.adobe.com.
 
 **Online Behavioral Advertising.**
 
