@@ -23,7 +23,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackHP Video TestLOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NOWSHOP ALL
+Near YouFind a StoreBack HP Video Test LOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NOWSHOP ALL
 
 *   from$1359after couponWorthington Twill Ankle Pant(149)Add To Cart
 *   $3199after couponwas $70 Worthington Womens Classic Fit BlazerAdd To Cart
@@ -32,6 +32,19 @@ Near YouFind a StoreBackHP Video TestLOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NOWS
 *   $2320after couponWorthington Womens Sleeveless Mock Neck TopAdd To Cart
 *   $1759after couponwas $44 Worthington Womens Long Sleeve Button Cardigan(1)Add To Cart
 *   $3999after couponwas $90 Worthington Boucle JacketAdd To Cart
+
+Hot Sellers
+
+*   from$2159after couponwas $45 - $50 Van Heusen Suit Pants(31)
+*   LIMITED TIME SPECIAL!
+    
+    $25 sale
+    
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Diamond Ring in Sterling Silver(3)
+*   $1759after couponwas $42 Arizona Basic Loose Straight Jeans(1229)
+*   from$16after couponwas $40 - $80 JCPenney Home Sullivan Blackout Grommet-Top Curtain Panel(40)
+*   $1759after couponwas $44 Stafford Travel Oxford Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(166)
+*   from$1999after couponStafford Travel Stretch Performance Super Shirt Mens Long Sleeve Dress Shirt(14)
 
 Shop and Save at JCPenney
 
