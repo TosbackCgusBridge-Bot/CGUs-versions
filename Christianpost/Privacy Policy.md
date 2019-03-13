@@ -28,11 +28,11 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation SE
 
 Hot Topics
 
-*   Katy Perry
+*   James MacDonald
+*   Morgan Freeman
+*   Meditation
+*   Social justice
 *   Christian movies
-*   Amazon censorship
-*   Lent
-*   Christian meditation
 *   More Topics
 
 About Us
@@ -49,6 +49,7 @@ About Us
 Stay Connected
 
 *   Sign Up
+*   Submit an Article
 *   Contact Us
 *   RSS Feed
 *   Advertise With Us
