@@ -44,6 +44,7 @@ Enter for your chance to win a $500 Buckle gift card. Count me in!
         *   Vacation Shop
         *   2 for $35 Tops
         *   Black Jeans
+        *   Billabong X Sincerely Jules
         
         *   Clothing
         
