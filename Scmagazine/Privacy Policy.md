@@ -207,19 +207,19 @@ New York, NY 10001.**
     *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Image-I-Nation supply chain breach exposes data of major credit agencies' customers
     *   Software maker Citrix hacked, business documents removed
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Wendy’s to pay $50M in data breach settlement
     
-    *   Columbia Surgical Specialists pay $15,000 ransom to unlock files
-    *   Unprotected MongoDB database exposes 763M unique email addresses, 'business intel'
-    *   Turning 30: World Wide Web, SC and security grow up together
-    *   Meeting GDPR standards doesn't guarantee Calif. privacy law compliance, experts warn
-    *   Trolley Talk, RSA 2019 edition: SC's second annual cable car chats (video)
-    
-    *   Trump proposed budget cuts will reduce R&D, hurt U.S. competitiveness, innovation
-    *   Facebook sues app makers over browser extensions that allegedly scraped user data
-    *   Chelsea Manning jailed for refusing to testify in WikiLeaks probe
+    *   Report reveals how China leverages social media to influence U.S.
+    *   Improving security with micro-segmentation: Where do I start?
     *   Jackson County, Georgia pays $400,000 ransom to release files
-    *   Trolley Talk, RSA 2019 edition: SC's second annual cable car chats (video)
+    *   Pinchy Spider goes big game hunting with GandCrab
+    *   Information Technology: Leading the way
+    
+    *   Under GDPR, can a CISO be the DPO?
+    *   Ransomware attack targets college admissions data
+    *   Sen. Elizabeth Warren: Break up big tech to promote privacy and competition
+    *   Dutch Data Protection Authority chips away at 'cookie walls,' declaring they violate GDPR
+    *   GOP senator checks FTC on 'toothless' efforts to curb Facebook, Google privacy violations
 
 Back to Top
 
