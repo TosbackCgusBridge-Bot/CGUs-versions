@@ -73,7 +73,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Jordan Peele's 'Us' Frightens SXSW. Here's Everything We Know Read More
     *   Today in Movie Culture: ‘Captain Marvel’ Easter Eggs, Trivia, Timeline Explanation, Director Commentary and More Read More
-    *   Tim Burton’s Batman Is Turning Thirty! What He Thinks of the Superhero Genre and Who He Would Cast as His Next Batman Read More
+    *   First Full ‘Aladdin’ Trailer Opens Up a Whole New Live-action World. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
