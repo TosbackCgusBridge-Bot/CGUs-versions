@@ -7,10 +7,10 @@
     *   Black Ink Crew
     *   Black Ink Crew Chicago
     *   Cartel Crew
+    *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Miami
     *   Love &. Hip Hop New York
     *   RuPaul's Drag Race
-    *   RuPaul’s Drag Race All Stars
     *   Trailblazer HonorsSee all Shows
 *   News
 *   App
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBlack Ink CrewBlack Ink Crew ChicagoCartel CrewLove &. Hip Hop MiamiLove &. Hip Hop New YorkRuPaul's Drag RaceRuPaul’s Drag Race All StarsTrailblazer Honorssee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBlack Ink CrewBlack Ink Crew ChicagoCartel CrewLove &. Hip Hop AtlantaLove &. Hip Hop MiamiLove &. Hip Hop New YorkRuPaul's Drag RaceTrailblazer Honorssee all Shows
 *   News
 *   App
 *   Watch Live TV
