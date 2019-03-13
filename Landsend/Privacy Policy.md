@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: CLOVER pin: 5421 DETAILS
+code: RAINBOW pin: 2263 DETAILS
 
 Customer Service Menu
 
