@@ -4,7 +4,7 @@ We use cookies to deliver the best possible experience on our website. To learn 
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
 Become a client  
-Contact us or dial 1 855 604 14671 855 604 1467
+Contact us or dial 1 855 662 90311 855 662 9031
 
 Log in Become a Client
 
@@ -60,9 +60,9 @@ Log in Become a Client
     
     Read Article
     
-    Digital Technologies in R&D: Webinar Replay
+    Article Trend Sensing for Strategists: Top 3 Technologies
     
-    Watch now
+    Read Article
     
     Article Speed Up Legal Reviews
     
@@ -72,9 +72,9 @@ Log in Become a Client
     
     Read Article
     
-    Article Gartner Predictions for the Future of Supply Chain Operations in 2018
+    Article Make Buying Speedy and Effortless
     
-    Read Article
+    Learn More
     
     Article Effortless Experience Explained
     
@@ -226,6 +226,10 @@ Log in Become a Client
     
     Read Ebook
     
+    Journal Fi.r.st. Quarterly Journal for Finance, Risk and Strategy Leaders
+    
+    Read Journal
+    
     Article 6 Ways the Workplace Will Change in the Next 10 Years
     
     Learn More
@@ -259,7 +263,7 @@ Log in Become a Client
     Career Opportunities Life at Gartner Campus
     
 *   Become a client  
-    Contact us or dial 1 855 604 14671 855 604 1467
+    Contact us or dial 1 855 662 90311 855 662 9031
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018
