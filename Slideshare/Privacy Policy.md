@@ -1,7 +1,7 @@
-Linkedin
+LinkedIn
 
-*   Sign In
-*   Join Now
+*   Sign in
+*   Join now
 
 Main content starts below.
 
@@ -415,7 +415,7 @@ If you have questions or complaints regarding this Policy, please first contact 
     *   Čeština
     *   Dansk
     *   Deutsch
-    *   English
+    *   **English**
     *   Español
     *   繁體中文
     *   Français
@@ -441,6 +441,7 @@ If you have questions or complaints regarding this Policy, please first contact 
 
 *   Directories
 *   Members
+*   Pulse
 *   Companies
 *   Universities
 
@@ -453,4 +454,4 @@ LinkedIn Corporation _© 2019_
 *   Copyright Policy
 *   Unsubscribe
 
-<img src="http://b.scorecardresearch.com/b?c1=2&amp;c2=6402952&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display:none" width="0" height="0" alt="" /><img src="/csp/dtag?p=10" width="1" height="1" alt="" style="display:none"/>
+<img src="https://sb.scorecardresearch.com/b?c1=2&amp;c2=6402952&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display:none" width="0" height="0" alt="" />. <img src="/csp/dtag?p=10" width="1" height="1" alt="" style="display:none"/>.
