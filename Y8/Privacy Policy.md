@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 667 games
-*   Most Popular Games 18882 games
+*   Best of new games 665 games
+*   Most Popular Games 18888 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,758 games
+*   Games for girls 23,759 games
 *   Driving &. Racing Games 6,792 games
 *   Strategy &. RPG Games 2,411 games
 *   Management Games 3,648 games
-*   Thinking Games 11,965 games
-*   Action &. Adventure Games 15,993 games
-*   Sports Games 2,188 games
-*   Shooting Games 8,419 games
+*   Thinking Games 11,966 games
+*   Action &. Adventure Games 15,994 games
+*   Sports Games 2,189 games
+*   Shooting Games 8,421 games
 *   Fighting Games 2,097 games
-*   Skill Games 10,867 games
+*   Skill Games 10,871 games
 *   Arcade &. Classic Games 12,790 games
-*   Fun &. Crazy Games 2,496 games
+*   Fun &. Crazy Games 2,497 games
 
 Play with friends  
 Powered by Y8 Account 140 Y8 Multiplayer Games 1,909 Y8 High Score Games 1,136 Y8 Achievements Games 807 Y8 Screenshots Games 1,411 Y8 Online Save Games 2,963 All Y8 Games Games Last Highscore:
 
-**627,993** points on Rooster Warrior by hanguking
+**740** points on Y8 Football League by Juan
 
 Help us improve Bad translation? Social
 
