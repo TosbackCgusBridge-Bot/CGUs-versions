@@ -1,11 +1,19 @@
-Not yet a member? If you are a registered member you can
+Login Sign Up Log In Remember me on this device OR Sign in with Pornhub Forgot password? Resend activation email Don't have an account?Sign Up By signing up, you agree to our Terms of use. Register Now OR Sign up with Pornhub Already have an account?Sign In
 
-*   Download and watch your favorite videos whenever you want
-*   Upload videos and share them with our community
-*   Add personal comments and vote on any video
-*   Create your "Personal Favorites" videos collection
+Members Get More
 
-Sign Up Login or Sign Up Sign in with Pornhub OR Remember me on this device Log In Forgot password? Resend activation email Don't have an account?Sign Up Sign up with Pornhub OR By signing up, you agree to our Terms of use. Register Now Already have an account?Sign In Free Trial on Pornhub Premium Start Your Free Week Now
+If you are a registered member you can
+
+*   Watch and Get Paid
+*   Download Videos
+*   Personal Collections
+*   Leave Comments
+*   Exclusive Promotions
+*   Upload Your Videos
+*   Follow Pornstars
+*   Exclusive Channels
+
+Free Trial on Pornhub Premium Start Your Free Week Now
 
 *   No Ads
 *   Tons of New HD Videos Added Daily
@@ -68,6 +76,7 @@ Close Try Premium Upload
     *   Favorites
     *   Votes
     *   Comments
+    *   VIT
     *   Premium
     
     Hottest Videos
@@ -76,39 +85,39 @@ Close Try Premium Upload
     
     feelin myself
     
-    100% 24,305 views 12:55 HD
+    100% 29,749 views 12:55 HD
     
     Paris/Babysitter 3some
     
-    100% 31,191 views 06:44 HD
+    100% 38,671 views 06:44 HD
     
     Ms Paris and Her Taboo Tales "Boys"
     
-    100% 4,268 views 10:38 HD
+    100% 8,924 views 10:38 HD
     
     Step Mommy Gets a New Car
     
-    0% 1,964 views 03:24 HD
+    100% 8,863 views 03:24 HD
     
     Newest Videos
     
     View More
     
-    Pinky takes on Richard Mann
+    Hot cowgirl spanking and facial
     
-    0% 0 views 29:49 HD
+    0% 620 views 45:46
     
-    Busty teen handjob and tit-fucking
+    Perfect busty tits nude beach voyeur two for one
     
-    0% 930 views 04:01
+    0% 2,138 views 05:39 HD
     
-    Fistertwister - Vanessa and Ally
+    Virgin Rita shows pussy
     
-    100% 2,686 views 01:13 HD
+    0% 2,284 views 09:06
     
-    A junkie teenager down on her luck turns to porn for some quick cash
+    Marley Spreading Hairy Holes
     
-    100% 1,996 views 04:06
+    0% 533 views 06:58
     
     Popular Tags
     
@@ -118,8 +127,8 @@ Close Try Premium Upload
     *   mom
     *   bg sex
     *   homemade
-    *   young
     *   massage
+    *   young
     *   big tits
     *   masturbation
     *   www 89 com
@@ -129,8 +138,8 @@ Close Try Premium Upload
     *   nik
     *   christina rousaki
     *   blonde
-    *   xxx bf
     *   chris strokes
+    *   xxx bf
     *   brooke wylde
     *   View All
     
@@ -144,8 +153,8 @@ Close Try Premium Upload
     *   mom
     *   bg sex
     *   homemade
-    *   young
     *   massage
+    *   young
     *   big tits
     *   masturbation
     *   www 89 com
@@ -155,26 +164,26 @@ Close Try Premium Upload
     *   nik
     *   christina rousaki
     *   blonde
-    *   xxx bf
     *   chris strokes
+    *   xxx bf
     *   brooke wylde
     *   View All
 *   Categories
     
     Most Content
     
-    *   **HD** (150784)
-    *   **Amateur** (65307)
-    *   **Hardcore** (40875)
-    *   **Teen** (27818)
-    *   **Fetish** (18386)
-    *   **Erotic** (17507)
-    *   **Anal** (15318)
-    *   **Lesbian** (13566)
-    *   **Blowjob** (12836)
-    *   **Asian** (12504)
-    *   **Ebony** (7242)
-    *   **Mature** (5668)
+    *   **HD** (151182)
+    *   **Amateur** (65387)
+    *   **Hardcore** (40917)
+    *   **Teen** (27835)
+    *   **Fetish** (18450)
+    *   **Erotic** (17550)
+    *   **Anal** (15327)
+    *   **Lesbian** (13614)
+    *   **Blowjob** (12884)
+    *   **Asian** (12548)
+    *   **Ebony** (7290)
+    *   **Mature** (5686)
     
     Most Popular Categories
     
@@ -207,69 +216,69 @@ Close Try Premium Upload
     1
     
     *   Brazzers
-    *   Videos: **2869**
-    *   Views: **675,556,716**
-    *   Followers: **2,741**
+    *   Videos: **2871**
+    *   Views: **675,666,814**
+    *   Followers: **2,752**
     
     Rank  
     2
     
     *   Family Strokes
     *   Videos: **87**
-    *   Views: **7,353,268**
-    *   Followers: **2,015**
+    *   Views: **7,381,594**
+    *   Followers: **2,024**
     
     Rank  
     3
     
     *   Fake Taxi
-    *   Videos: **732**
-    *   Views: **181,500,360**
-    *   Followers: **1,379**
+    *   Videos: **733**
+    *   Views: **181,537,593**
+    *   Followers: **1,380**
     
     Rank  
     4
     
     *   Blacked
     *   Videos: **358**
-    *   Views: **154,067,005**
-    *   Followers: **1,301**
+    *   Views: **154,132,271**
+    *   Followers: **1,302**
     
     Trending Channels
     
     View More
     
     Rank  
-    19
+    13
     
-    *   Reality Kings
-    *   Videos: **1131**
-    *   Views: **63,025,290**
-    *   Followers: **937**
-    
-    Rank  
-    3
-    
-    *   Fake Taxi
-    *   Videos: **732**
-    *   Views: **181,500,360**
-    *   Followers: **1,379**
-    
-    Rank  
-    3
-    
-    *   Blacked
-    *   Videos: **358**
-    *   Views: **154,067,005**
-    *   Followers: **1,301**
+    *   Step Siblings Caught
+    *   Videos: **95**
+    *   Views: **6,498,065**
+    *   Followers: **744**
     
     Rank  
     5
     
-    *   Bratty Sis
-    *   Videos: **72**
-    *   Views: **5,986,034**
-    *   Followers: **1,537**
+    *   Vixen
+    *   Videos: **169**
+    *   Views: **31,638,788**
+    *   Followers: **1,435**
+    
+    Rank  
+    7
+    
+    *   Public Agent
+    *   Videos: **749**
+    *   Views: **187,569,479**
+    *   Followers: **1,186**
+    
+    Rank  
+    19
+    
+    *   My Family Pies
+    *   Videos: **31**
+    *   Views: **3,336,282**
+    *   Followers: **475**
 *   Pornstars
     
     Browse by
@@ -281,7 +290,12 @@ Close Try Premium Upload
     
     Trending pornstars
     
-    Rank 12
+    Rank 2
+    
+    *   Mia Khalifa
+    *   125 Videos
+    
+    Rank 11
     
     *   Lisa Ann
     *   324 Videos
@@ -296,15 +310,10 @@ Close Try Premium Upload
     *   Riley Reid
     *   214 Videos
     
-    Rank 20
+    Rank 19
     
     *   Dillion Harper
     *   206 Videos
-    
-    Rank 5
-    
-    *   Brandi Love
-    *   202 Videos
     
     Most Popular
     
@@ -313,6 +322,7 @@ Close Try Premium Upload
     *   Lana Rhoades
     *   Abella Danger
     *   Brandi Love
+*   Get paid
 *   Live Girls
 *   FUCK NOW
 *   ★Premium HD
@@ -339,13 +349,13 @@ Advertise On Tube8 \* Select subjectTube8 AdvertisingReport inappropriate conten
   
 \* I'm interested in: Global TrafficGeo-Targeted Traffic Send Start advertising on Tube8 today: Create your advertiser account. TUBE8 - Terms of service
 
-Last Modified: May 11, 2016
+Last Modified: March 04, 2019
 
 Acceptance of the Terms of Service
 
-The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these "**Terms of Service**"), govern your access to and use of www.tube8.com ("Tube8" or the "**Website**"), including any content, functionality and services offered on or through the Website, whether as a guest or a registered user. These Terms of Service apply to the Website, web pages, interactive features, applications, widgets, blogs, social networks, social network "tabs", or other online or wireless offerings that post a link to these Terms of Service, whether accessed via computer, mobile device or other technology, manner or means.
+The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these "**Terms of Service**"), govern your access to and use ofwww.tube8.com ("Tube8" or the "**Website**"), including any content, functionality and services offered on or through the Website, whether as a guest or a registered user. These Terms of Service apply to the Website, web pages, interactive features, applications, widgets, blogs, social networks, social network "tabs", or other online or wireless offerings that post a link to these Terms of Service, whether accessed via computer, mobile device or other technology, manner or means.
 
-Please read the Terms of Service carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree to be bound and abide by these Terms of Service and our Privacy Policy, found at https://www.tube8.com/info.html#privacy, incorporated herein by reference. If you do not want to agree to these Terms of Service or the Privacy Policy, you must not access or use the Website.
+Please read the Terms of Service carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree to be bound and abide by these Terms of Service and our Privacy Policy, found at https://www.tube8.com/info.html#privacy , incorporated herein by reference. If you do not want to agree to these Terms of Service or the Privacy Policy, you must not access or use the Website.
 
 If you access or use the Website, whether you click to accept or not, you agree to all of the various terms in these Terms of Service. If you do not understand all of these Terms of Service, you should consult an attorney before agreeing to any of the Terms of Service.
 
@@ -359,7 +369,7 @@ You affirm that you are at least 18 years of age or the age of majority in the j
 
 Changes to the Terms of Service
 
-We may modify or revise these Terms of Service from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to these Terms of Service, you are expected to periodically review the most up-to-date version found at https://www.tube8.com/info.html#terms, so you are aware of any changes, as they are binding on you.
+We may modify or revise these Terms of Service from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to these Terms of Service, you are expected to periodically review the most up-to-date version found at https://www.tube8.com/info.html#terms , so you are aware of any changes, as they are binding on you.
 
 If we change anything in these Terms of Service, the change will be reflected in the "last modified date". You agree that you will periodically review these terms and refresh the page when doing so. You agree to note the date of the last revision of these terms. If the "last modified" date is unchanged from the last time you reviewed these terms, then they are unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review the terms, and you agree to the new ones.
 
@@ -367,7 +377,7 @@ All changes are effective immediately when we post them, and apply to all access
 
 About Our Website
 
-The Website allows for uploading, sharing and general viewing of various types of adult-oriented content by registered and unregistered users who desire to share and view visual depictions of adult-oriented content, including sexually explicit images. In addition, the Website contains texts, messages, files, data, information, images, photos, videos, recordings, materials, code or content of any kind and other materials posted/uploaded by users.
+The Website allows for uploading, sharing and general viewing of various types of adult-oriented content by registered and unregistered users who desire to share and view visual depictions of adult-oriented content, including sexually explicit images. In addition, the Website contains texts, messages, files, data, information, images, photos, videos, recordings, materials, code or content of any kind and other materials posted/uploaded by registered users.
 
 The Website may contain links to third party websites that are not owned or controlled by the Website. The Website has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, the Website will not and cannot censor or edit the content of any third-party site. By using the Website, you expressly relieve it from all liability arising from your use of any third-party website. Accordingly, we encourage you to be aware when you leave the Website and to read the terms, conditions, and privacy policy of each other website that you visit.
 
@@ -383,10 +393,10 @@ We reserve the right to withdraw or amend this Website, and any service or mater
 
 You are responsible for:
 
-*   making all arrangements necessary for you to have access to the Website;
+*   making all arrangements necessary for you to have access to the Website.
 *   ensuring that all persons who access the Website through your internet connection are aware of these Terms of Service and comply with them.
 
-To access the Website or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Website that all the information you provide on the Website is correct, current and complete. You agree that all information you provide to register with this Website or otherwise, including but not limited to through the use of any interactive features on the Website, is governed by our Privacy Policy found at https://www.tube8.com/info.html#privacy, and you consent to all actions we take with respect to your information consistent with our Privacy Policy.
+To access the Website or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Website that all the information you provide on the Website is correct, current and complete. You agree that all information you provide to register with this Website or otherwise, including but not limited to through the use of any interactive features on the Website, is governed by our Privacy Policy found at https://www.tube8.com/info.html#privacy , and you consent to all actions we take with respect to your information consistent with our Privacy Policy.
 
 If you choose, or are provided with, a user name, password or any other piece of information as part of our security procedures, you must treat such information as confidential and, you must not disclose it to any other person or entity and you are fully responsible for all activities that occur under your user name or password. You also acknowledge that your account is personal to you and agree not to provide any other person with access to this Website or portions of it using your user name, password or other security information. You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security by contacting us at: support@tube8.com. You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information. Although the Website will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of the Website or others due to such unauthorized use.
 
@@ -398,7 +408,7 @@ You acknowledge that the Website reserves the right to charge fees for its servi
 
 Limited, Conditional License to Use Our Intellectual Property
 
-Tube8 and our associated logos and names are our trademarks and/or service marks. Other trademarks, service marks, names and logos used on or through the Website, such as trademarks, service marks, names or logos associated with third party Content providers, are the trademarks, service marks or logos of their respective owners. You are granted no right or license with respect to any of the aforesaid trademarks, service marks or logos.
+Tube8 and our associated logos and names are our trademarks and/or service marks. Other trademarks, service marks, names and logos used on or through the Website, such as trademarks, service marks, names or logos associated with third party Content providers, advertisers or service providers, are the trademarks, service marks or logos of their respective owners. You are granted no right or license with respect to any of the aforesaid trademarks, service marks or logos.
 
 The inclusion of images or text containing the trademarks or service marks or the name or likeness of any person, including any celebrity, does not constitute an endorsement, express or implied, by any such person, of the Website or vice versa.
 
@@ -412,21 +422,21 @@ The Website provides an "Embeddable Player" feature, which you may incorporate i
 
 The above described license is conditioned on your compliance with these Terms of Service, including, specifically, your agreement to view the Website whole and intact as presented by the website host, complete with any advertising, and shall terminate upon termination of these Terms of Service. If you breach any provision of these Terms of Service, any license you have obtained will be automatically rescinded and terminated. In order to protect our rights some Content made available on the Website may be controlled by digital rights management technologies, which will restrict how you may use the Content. You must not circumvent, remove, delete, disable, alter or otherwise interfere with any digital rights management technology. Such conduct is prohibited by law.
 
-If the Website allows you to download or otherwise copy our Works, you are not buying or being gifted copies thereof. Instead, you are licensing a limited, revocable, non-sublicensable, and non-exclusive right to possess and use the copies for personal, non-commercial use, subject to specific terms and conditions (the "**Download License**"). Under this Download License you may not thereafter reproduce, distribute, communicate to the public, make available, adapt, publicly perform, or publicly display the Website and Works or any adaptations thereof unless expressly set forth herein. Such conduct would exceed the scope of your Download License and constitute copyright infringement. At the expiration of your Download License or the termination of these Terms of Service, you will delete or otherwise dispose of all copies of Works in your possession.
+If the Website allows you to download or otherwise copy our Works, you are not buying or being gifted copies thereof. Instead, you are licensing a limited, revocable, non-sublicensable, and non-exclusive right to possess and use the copies for personal, non-commercial use, subject to specific terms and conditions (the " **Download License**"). Under this Download License you may not thereafter reproduce, distribute, communicate to the public, make available, adapt, publicly perform, or publicly display the Website and Works or any adaptations thereof unless expressly set forth herein. Such conduct would exceed the scope of your Download License and constitute copyright infringement. At the expiration of your Download License or the termination of these Terms of Service, you will delete or otherwise dispose of all copies of Works in your possession.
 
 Content Posted by Users
 
-The Website may contain message boards, chat rooms, personal web pages or profiles, playlists, forums, bulletin boards and other interactive features (collectively, "**Interactive Services**") that allow users to upload, post, create, submit, publish, make available, send, share, communicate, display or transmit to other users or other persons (collectively, "**post**") content, data, information, videos, images, recordings, materials, code or content of any kind (collectively, "**Content**") on or through the Website.
+The Website may contain message boards, chat rooms, personal web pages or profiles, playlists, forums, bulletin boards and other interactive features (collectively, "**Interactive Services**") that allow registered users to upload, post, create, submit, publish, make available, send, share, communicate, display or transmit to other users or other persons (collectively, "**post**") content, data, information, videos, images, recordings, materials, code or content of any kind (collectively, "**Content**") on or through the Website.
 
-As a Website account holder you may submit Content to the Website and other Websites linked to the Website including videos and user comments. You understand that the Website does not guarantee any confidentiality with respect to any Content you submit.
+As a registered user on our Website, you will be required to choose and identify yourself by providing account holder’s name in order to submit Content to the Website and to our affiliates, including videos and user comments. You understand that the Website does not guarantee any confidentiality with respect to any Content you submit.
 
 You shall be solely responsible for your own Content and the consequences of posting, uploading, publishing transmitting or otherwise making available your Content on the Website. You understand and acknowledge that you are responsible for any Content you submit or contribute, and you, not us, have full responsibility for such Content, including its legality, reliability, accuracy and appropriateness. We are not responsible, or liable to any third party, for the content or accuracy of any Content posted by you or any other user of the Website. We do not control Content you submit or contribute and we do not make any guarantee whatsoever related to Content submitted or contributed by users. Although we sometimes review Content submitted or contributed by users, we are not obligated to do so. Under no circumstances will we be liable or responsible in any way for any claim related to Content submitted or contributed by users.
 
-You affirm, represent, and warrant that you own or have the necessary licenses, rights, consents, and permissions to publish Content you submit. and you license to the Website all patent, trademark, trade secret, copyright or other proprietary rights in and to such Content for publication on the Website pursuant to these Terms of Service.
+**By posting any Content on our Website, you affirm, represent, and warrant that you own or have the necessary licenses, rights, consents, and permissions to publish Content you submit. and you license to the Website all patent, trademark, trade secret, copyright or other proprietary rights in and to such Content for publication on the Website pursuant to these Terms of Service.**
 
-You further agree that Content you submit to the Website will not contain third party copyrighted material, or material that is subject to other third party proprietary rights, unless you have permission from the rightful owner of the material or you are otherwise legally entitled to post the material and to grant to the Website all of the license rights granted herein.
+**You further agree that Content you submit to the Website will not contain third party copyrighted material, or material that is subject to other third party proprietary rights, unless you have permission from the rightful owner of the material or you are otherwise legally entitled to post the material and to grant to the Website all of the license rights granted herein.**
 
-For clarity, you retain all of your ownership rights in your Content. However, by submitting Content to the Website, you hereby grant the Website a worldwide, irrevocable, perpetual, non-exclusive, royalty-free, sublicenseable and transferable license to use, exploit, reproduce, distribute, prepare derivative works of, display, communicate, and perform the Content in connection with the Website's (and its successors' and affiliates') business, including without limitation for promoting and redistributing part or all of the Website (and derivative works thereof) in any media formats and through any media channels. You also waive to the full extent permitted by law any and all claims against us related to moral rights in the Content. In no circumstances will we be liable to you for any exploitation of any Content that you post. You also hereby grant each user of the Website a non-exclusive, royalty free license to access your Content through the Website, and to use, reproduce, distribute, display, communicate and perform such Content as permitted through the functionality of the Website and under these Terms of Service. The above licenses granted by you in video Content you submit to the Website terminate within a commercially reasonable time after you remove or delete your videos from the Website. You understand and agree, however, that the Website may retain, but not display, distribute, or perform, server copies of your videos that have been removed or deleted. The above licenses granted by you in user comments you submit are perpetual and irrevocable.
+For clarity, you retain all of your ownership rights in your Content. However, by submitting Content to the Website, you hereby grant the Website a worldwide, irrevocable, perpetual, non-exclusive, royalty-free, sublicensable and transferable license to use, exploit, reproduce, distribute, prepare derivative works of, display, communicate, and perform the Content in connection with the Website's (and its successors' and affiliates') business, including without limitation for promoting and redistributing part or all of the Website (and derivative works thereof) in any media formats and through any media channels. You also waive to the full extent permitted by law any and all claims against us related to moral rights in the Content. In no circumstances will we be liable to you for any exploitation of any Content that you post. You also hereby grant each user of the Website a non-exclusive, royalty free license to access your Content through the Website, and to use, reproduce, distribute, display, communicate and perform such Content as permitted through the functionality of the Website and under these Terms of Service. The above licenses granted by you in video Content you submit to the Website terminate within a commercially reasonable time after you remove or delete your videos from the Website. You understand and agree, however, that the Website may retain, but not display, distribute, or perform, server copies of your videos that have been removed or deleted. The above licenses granted by you in user comments you submit are perpetual and irrevocable.
 
 The Website does not endorse any Content submitted to it by any user or other licensor, or any opinion, recommendation, or advice expressed therein, and the Website expressly disclaims any and all liability in connection with Content. The Website does not permit copyright infringing activities and infringement of intellectual property rights on the Website, and the Website will remove all Content if properly notified that such Content infringes on another's intellectual property rights. The Website reserves the right to remove Content without prior notice.
 
@@ -437,6 +447,50 @@ If any of the Content that you post to or through the Website contains ideas, su
 In the process of posting Content to the Website, you may be asked to provide some personally identifying information, such as your name, address, e-mail address, a password, and other documentation. You may also be asked to provide such information in order to use certain features of the Website.
 
 We will keep a record of the information you provide, including your personally identifiable information. That information may be linked in our records to other information you provide, including Content. We will not provide your name or other personally identifying information to our advertisers or business partners without your permission. Please note that some of the information you provide in registering for and using the Website, including the name used in registering for and using the Website or other personally identifying information, may be displayed to other members of the Website, and may become public. In addition, we may disclose the personally identifying information and documentation you provide in some limited circumstances.
+
+VIT Users
+
+Tube8 is collaborating with Tokken MSB Inc. (“**Tokken**”), which is an independent third party, for a cryptocurrency program (collectively, the “**VIT Platform**”).
+
+Tube8 registered users now have the opportunity to register for free as VIT users (each, a “**VIT User**”) in order to participate in Tokken’s cryptocurrency program on our Website and collect (“**VIT**”).
+
+VIT is a form of cryptocurrency, or a blockchain-based engagement monetization solution, that allows its user to be rewarded for simply interacting with various form of entertainment content. Participation in VIT’s Platform program is subject to Tokken’s terms and conditions, available at the following link: https://visionindustry.com/disclaimer . For more information, please follow Tokken’s FAQ link: https://visionindustry.com/faqs.
+
+Here is a summary of how it works:
+
+*   **Register.** In order to participate in Tokken’s cryptocurrency program and become a VIT User, Tube8 registered users will first need to register to that program and create an account directly on the VIT Platform (the “**VIT Account**”) by choosing a VIT ID, which will be your identifier on the VIT Platform, and a password.
+
+*   The VIT ID and password will act as ‘keys’ for connecting on the VIT Platform, and will be different and independent from the Tube8 registered user account. **_Avoid using any real names, address or any identifier as VIT ID._** Tokken is an independent third party which complete terms and conditions are found at: https://visionindustry.com/disclaimer .
+*   \*\*\***IMPORTANT**\*\*\*: Please take good note and make sure to remember your VIT ID and your password – they are the ‘keys’ to access your VIT Account, your VIT and your VIT Wallet (as described herein). If you lost or do not remember your password, please contact Tokken directly at info@visionindustry.com.
+
+*   **Connect.** Each VIT User, once registered, can connect through the Website in order to submit content, interact with other content or to access its personal wallet page (the “**VIT Wallet**”). A VIT User may also connect directly through Tokken’s website, https://visionindustry.com/, to access and to use its VIT Wallet.
+
+*   VIT Wallet Terms:
+
+*   The VIT Wallet is provided to all VIT Users on an as-is, self-serve basis. No custody service of any digital assets is provided by Tube8 or any of its related or affiliated entities.
+*   VIT Users are at all times required to conduct themselves diligently and prudently in safeguarding their VIT Account and its associated information, including any passwords, private keys, security question answers, and/or PIN codes.
+*   As diligent and prudent VIT Users, VIT Users are strongly recommended to familiarize themselves with the functionality of the VIT Wallet, namely by reading any provided or associated documentation and/or start with “test” transactions of small amounts.
+*   VIT Users hereby acknowledge that Tube8 has no method of recovering such associated information in the event that such information is lost, misplaced, forgotten, or otherwise caused to be unavailable to any user. VIT Users hereby recognizes that Tube8 doesn’t control the VIT Platform and shall incur no responsibility whatsoever in the event of any loss (whether such loss is of material value, opportunity value, or of any other nature) resulting from misuse or malfunction of the VIT Wallet.
+*   Moreover, each VIT User personally assumes the risk of total or partial loss of digital assets stored on the VIT Wallet (with possible risks existing due to factors that are both inside and outside of the VIT User’s control) and as such, VIT Users agree to take the appropriate precautions in their use of the VIT Wallet, in accordance with their knowledge and expertise with cryptocurrency assets (and their associated storage methods), the VIT User’s won risk tolerance, and any other relevant factors.
+
+*   **Submit.** Each VIT User will be able to submit its videos uploaded on Tube8 on the VIT Platform (the “**VIT Content**”) by simply clicking the Tokken button. All VIT Content will be identified with the VIT logo.
+*   **Interact.** Each VIT User will be able to interact (liking and/or commenting, each an “**Interaction**”) with all VIT Content or other VIT User’s comments.
+*   **Use Power.** Each Interaction will use a VIT User-selected amount of “ **Power**” – ranging from 10% to 100% of the daily available Power, therefore limiting the amount of Interactions each VIT User can use each day. The more Power is used on a single Interaction, the bigger the potential reward could be.
+*   **Get Rewarded.** Each Interaction from a VIT User with any VIT Content will be rewarded with VIT to both the interacting VIT User and the VIT User that uploaded the VIT Content, depending on various aspects, notably:
+
+*   The Power each VIT User used. and
+*   The popularity of VIT User’s Interactions (for example: many ‘likes’ and comments on a VIT User’s comment or videos).
+
+*   **Enjoy.** All earned VIT will be accessible via each VIT User’s VIT Wallet. VIT can be spent to:
+
+*   **Increase VIT User’s Power –** Allowing more daily Interactions.
+*   **Transfer VIT –** Allowing free transfer of VIT between VIT Users.
+*   **And More –** More information on uses, withdrawing or trading VIT with other cryptocurrencies are available directly on Tokken‘s website at https://visionindustry.com/. Additionally, you can also email Tokken directly at info@visionindustry.com for more information.
+
+*   **Withdrawing VIT** – In order to exchange VIT for other currencies, you first need to transfer your VIT from your VIT Wallet to an exchange or trading platform that supports VIT, such as IDAX (https://www.idax.pro) or Cryptopia (https://cryptopia.co.nz/). To do so, sign up for an account on such an exchange, and locate your deposit address for VIT. In your VIT Wallet, transfer any desired and available amount of VIT to that deposit address. Once this transfer is complete, your VIT balance should show up in your deposit address account, which will give you the ability to trade your VIT for any currency supported by your exchange or trading platform.
+
+*   **Tips.** To maximize the VIT rewards, try to create valuable/positive Interactions with other VIT Users.
+*   **Questions?** Tokken is an independent third party, which complete terms and conditions can be found at https://visionindustry.com/disclaimer . For more questions on how the VIT Platform works, please follow the FAQ link: https://visionindustry.com/faqs, or contact Tokken directly at info@visionindustry.com .
 
 Prohibited Uses
 
@@ -451,18 +505,18 @@ You agree that you will not use or attempt to use any method, device, software o
 *   post any Content that depicts any person under 18 years of age (or older in any other location in which 18 is not the minimum age of majority).
 *   post any Content for which you have not maintained written documentation sufficient to confirm that all subjects of your posts are, in fact, over 18 years of age (or older in any other location in which 18 is not the minimum age of majority).
 *   post any Content depicting child pornography, rape, snuff, torture, death, violence, or incest, racial slurs or hate speech, (either aurally or via the written word).
-*   post any Content that contains falsehoods or misrepresentations that could damage the Website or any third party;
+*   post any Content that contains falsehoods or misrepresentations that could damage the Website or any third party.
 *   post any Content that is obscene, illegal, unlawful, defamatory, libelous, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate.
 *   post any Content containing unsolicited or unauthorized advertising, promotional materials, spam, junk mail, chain letters, pyramid schemes or any other form of unauthorized solicitation.
 *   post any Content containing sweepstakes, contests, or lotteries, or otherwise related to gambling.
 *   post any Content containing copyrighted materials, or materials protected by other intellectual property laws, that you do not own or for which you have not obtained all necessary written permissions and releases.
-*   post any Content which impersonates another person or falsely state or otherwise misrepresent your affiliation with a person;
+*   post any Content which impersonates another person or falsely state or otherwise misrepresent your affiliation with a person.
 *   deploy programs, software or applications designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment, including by engaging in any denial of service attack or similar conduct.
 *   deploy or use programs, software or applications designed to harm, interfere with the operation of, or access in an unauthorized manner, services, networks, servers, or other infrastructure.
-*   exceed your authorized access to any portion of the Website;
+*   exceed your authorized access to any portion of the Website.
 *   remove, delete, alter, circumvent, avoid or bypass any digital rights management technology, encryption or security tools used anywhere on the Website or in connection with our services.
-*   collect or store personal data about anyone;
-*   alter or modify without permission any part of the Website or its content, including ads;
+*   collect or store personal data about anyone.
+*   alter or modify without permission any part of the Website or its content, including ads.
 *   obtain or attempt to access or otherwise obtain any Content or information through any means not intentionally made available or provided for through the Website.
 *   exploit errors in design, features which are not documented and/or bugs to gain access that would otherwise not be available.
 
@@ -473,10 +527,10 @@ Additionally, you agree not to:
 *   use any manual process to monitor or copy any of the material on the Website or for any other unauthorized purpose without our prior written consent.
 *   use any information obtained from or through the Website to block or interfere with the display of any advertising on the Website, or for the purpose of implementing, modifying or updating any software or filter lists that block or interfere with the display of any advertising on the Website.
 *   use any device, bots, scripts, software or routine that interferes with the proper working of the Website or that shortcut or alter Website functions to run or appear in ways that are not intended by Website design.
-*   introduce or upload any viruses, Trojan horses, worms, logic bombs, time bombs, cancelbots, corrupted files or any other similar software, program or material which is malicious or technologically harmful or that that may damage the operation of another's property or of the Website or our services.
+*   introduce or upload any viruses, Trojan horses, worms, logic bombs, time bombs, cancelbots, corrupted files or any other similar software, program or material which is malicious or technologically harmful or that that may damage the operation of another\\'s property or of the Website or our services.
 *   attempt to gain unauthorized access to, interfere with, damage or disrupt any parts of the Website, the server on which the Website is stored, or any server, computer or database connected to the Website.
 *   remove any copyright or other proprietary notices from our Website or any of the materials contained therein.
-*   attack the Website via a denial-of-service attack or a distributed denial-of-service attack;
+*   attack the Website via a denial-of-service attack or a distributed denial-of-service attack.
 *   otherwise attempt to interfere with the proper working of the Website.
 
 Monitoring and Enforcement. Termination
@@ -495,17 +549,17 @@ To maintain our services in a manner we deem appropriate for our venue and to th
 
 However, we do not undertake to review Content before it is posted on the Website, and cannot ensure prompt removal of objectionable Content after it has been posted. Accordingly, we assume no liability for any action or inaction regarding transmissions, communications or Content provided by any user or third party. We have no liability or responsibility to anyone for performance or non-performance of the activities described in this section.
 
-Account Termination Policy
+**Account Termination Policy**
 
 While pornographic and adult-oriented Content is accepted, the Website reserves the right to decide whether Content is appropriate or violates these Terms of Service for reasons other than copyright infringement and violations of intellectual property rights, such as, but not limited to, obscene or defamatory material. The Website may at any time, without prior notice and in its sole discretion, remove such Content and/or terminate a user’s account for submitting such material in violation of these Terms of Service.
 
 If you violate the letter or spirit of these Terms of Service, or otherwise create risk or possible legal exposure for us, we can terminate access to the Website or stop providing all or part of the Website to you.
 
-Copyrights and Other Intellectual Property
+**Copyrights and Other Intellectual Property**
 
 The Website respects the intellectual property of others, and requires that you do the same. You may not upload, embed, post, email, transmit or otherwise make available any Content that infringes any copyright, patent, trademark, trade secret, privacy, publicity or other proprietary rights of any person or entity.
 
-The Website operates a clear Copyright Policy in relation to any Content alleged to infringe the copyright of a third party. Details of that policy can be found at https://www.tube8.com/info.html#dmca. If you believe that any Content violates your copyright, please see our Copyright Policy https://www.tube8.com/info.html#dmca for instructions on sending us a notice of copyright infringement.
+The Website operates a clear Copyright Policy in relation to any Content alleged to infringe the copyright of a third party. Details of that policy can be found at https://www.tube8.com/info.html#dmca . If you believe that any Content violates your copyright, please see our Copyright Policy https://www.tube8.com/info.html#dmca for instructions on sending us a notice of copyright infringement.
 
 As part of our Copyright Policy, the Website will terminate user access to the Website if, under appropriate circumstances, a user has been determined to be a repeat infringer.
 
@@ -523,7 +577,7 @@ We may update the content on this Website from time to time, but its content is 
 
 Information about You and Your Visits to the Website
 
-All information we collect on this Website is subject to our Privacy Policy https://www.tube8.com/info.html#privacy. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
+All information we collect on this Website is subject to our Privacy Policy https://www.tube8.com/info.html#privacy . By using the Website, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
 
 Collection and Use of Your Usage Information by Advertisers and Others
 
@@ -535,8 +589,8 @@ You may link to the Website, provided you do so in a way that is fair and legal 
 
 This Website may provide certain social media features that enable you to:
 
-*   link from your own or certain third-party websites to certain content on this Website;
-*   send e-mails or other communications with certain content, or links to certain content, on this Website;
+*   link from your own or certain third-party websites to certain content on this Website.
+*   send e-mails or other communications with certain content, or links to certain content, on this Website.
 *   cause limited portions of content on this Website to be displayed or appear to be displayed on your own or certain third-party websites.
 
 You may use these features solely as they are provided by us and solely with respect to the content they are displayed with and otherwise in accordance with any additional terms and conditions we provide with respect to such features. Subject to the foregoing, you must not:
@@ -724,15 +778,15 @@ TUBE8 - PRIVACY POLICY
 
 **Privacy Policy**
 
-**_Last Modified: May 21st, 2018_**
+**_Last Modified: March 04, 2019_**
 
-**Introduction**
+Introduction
 
-MG Freesite II Ltd (hereinafter “**we**”, “**us**” or “**our**”) operates the website Tube8.com (hereinafter “**Tube8**” or the “**Website**”) and is the controller of the information collected or provided via this Website.
+MG Freesite Ltd (hereinafter “**we**”, “**us**” or “**our**”) operates the websiteTube8.com (hereinafter “ **Tube8**” or the “**Website**”) and is the controller of the information collected or provided via this Website.
 
 Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data
 
-If you have any questions about our privacy practices, please see “_Contact Information_” below for information on how to contact us.
+If you have any questions about our privacy practices, please see “ _Contact Information_” below for information on how to contact us.
 
 We collect, process and retain personal data to the extent it is necessary to provide users with our service. This privacy policy applies to information we collect:
 
@@ -744,15 +798,15 @@ We collect, process and retain personal data to the extent it is necessary to pr
 It does not apply to information collected by:
 
 *   us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries). or
-*   any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements.
+*   any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements.
 
-**The Data We Collect About You**
+The Data We Collect About You
 
-Personal data, or personal information, means any information about an individual from which that person can be identified by (“**Personal Information**”). It does not include data that has been anonymized or pseudonymized.
+Personal data, or personal information, means any information about an individual from which that person can be identified by (“ **Personal Information**”). It does not include data that has been anonymized or pseudonymized.
 
 We may collect, use, store and transfer different kinds of personal data about you, which we have grouped together as follows:
 
-Persons who visit the Website without logging in or registering “**unregistered users**”
+Persons who visit the Website without logging in or registering “ **unregistered users**”
 
 *   **Technical Data** includes internet protocol (IP) address, which we pseudonymize (a technique that replaces or removes information in the dataset that identifies an individual), browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website.
 *   **User Submitted Data** includes data collected at your direction for a specific function, for example a contest or survey.
@@ -773,43 +827,43 @@ We may also collect, use and share your data to produce and share aggregated ins
 
 We do not collect special categories of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, political opinions, trade union membership, information about your health and genetic and biometric data). However, particular preferences and sexual orientation depend on how you use our Website and services. The processing of such Sensitive Personal Information may be necessary to provide some of our service to you.
 
-**How is Your Personal Information Collected?**
+How is Your Personal Information Collected?
 
 We use different methods to collect data from and about you including through:
 
-*   **_Direct interactions. _** Information that you provide when carrying out search queries on our Website or by filling in forms on our Website, in particular at the time of registering to use our Website, subscribing to our service, posting material, taking part in surveys, entering a contest or promotion sponsored by us, when reporting a problem with our Website, or requesting further services.
-*   **_Automated technologies or interactions_** . See “_Third-party Use of Cookies and Other Tracking Technologies_” for details of how we may automatically collect your personal data.
+*   **_Direct interactions._** Information that you provide when carrying out search queries on our Website or by filling in forms on our Website, in particular at the time of registering to use our Website, subscribing to our service, posting material, taking part in surveys, entering a contest or promotion sponsored by us, when reporting a problem with our Website, or requesting further services.
+*   **_Automated technologies or interactions_** . See “ _Third-party Use of Cookies and Other Tracking Technologies_” for details of how we may automatically collect your personal data.
 
-**User Contributions**
+User Contributions
 
-We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content (e.g., pictures, videos, audio files, etc.), and post comments or reviews of content found on the Website. Such postings are governed by our terms of use found at https://www.Tube8.com/information#terms. You should be aware that any Personal Information you submit, display, or publish in public areas of our website is considered publicly available and can be read, collected, used, and disclosed by others. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your Personal Information. To request removal of your personal information from our website, please refer to the section “your rights related to your personal information” in this policy.
+We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content (e.g., pictures, videos, audio files, etc.), and post comments or reviews of content found on the Website. Such postings are governed by our terms of use found at https://www.Tube8.com/information#terms . You should be aware that any Personal Information you submit, display, or publish in public areas of our website is considered publicly available and can be read, collected, used, and disclosed by others. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your Personal Information. To request removal of your personal information from our website, please refer to the section “your rights related to your personal information” in this policy.
 
-**Information Collected Through Automatic Data Collection Technologies**
+Information Collected Through Automatic Data Collection Technologies
 
 As you navigate through and interact with our Website, we use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information, search terms, and cookie information.
 
 The technologies we use for this automatic data collection may include:
 
-*   **Cookies (or browser cookies)**. Cookies are small text files that are stored in your web browser or downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie, and allow a website to recognize a user’s device.
+*   **Cookies (or browser cookies)** . Cookies are small text files that are stored in your web browser or downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie, and allow a website to recognize a user’s device.
 
 We currently use the following types of cookies:
 
-*   _Cookies that are strictly necessary_: These are cookies that are required for the operation of our Website. These include, for example, cookies that enable a user to log in to our Website and to check if a user is allowed access to a particular service or content.
-*   _Analytical cookies_: These cookies allow us to recognize and count the number of users and to see how users use and explore our Website. These cookies help us to improve our Website, for example by ensuring that all users are able to find what they are looking for easily.
-*   _Functionality cookies_: These cookies are not essential, but help us to personalize and enhance your online experience on our Website. This type of cookies allows us to recognize you when you return to our Website and to remember, for example, your choice of language.
-*   _Targeting cookies_: These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users' interests.
+*   _Cookies that are strictly necessary_ : These are cookies that are required for the operation of our Website. These include, for example, cookies that enable a user to log in to our Website and to check if a user is allowed access to a particular service or content.
+*   _Analytical cookies_ : These cookies allow us to recognize and count the number of users and to see how users use and explore our Website. These cookies help us to improve our Website, for example by ensuring that all users are able to find what they are looking for easily.
+*   _Functionality cookies_ : These cookies are not essential, but help us to personalize and enhance your online experience on our Website. This type of cookies allows us to recognize you when you return to our Website and to remember, for example, your choice of language.
+*   _Targeting cookies_ : These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users' interests.
 *   We do not require that you accept cookies and you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings. However, if you decline to accept cookies, some functionality on our Website may be disabled and you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves. some may expire after a few minutes while others may expire after multiple year
 
-*   **Web Beacons**. Pages of our Website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.
-*   **Analytics**. We use third party analytics and advertising tools and technologies, in particular Google Analytics and DoubleClick provided by Google, Inc., USA (“Google”). These tools and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies. The information generated by Google Analytics and DoubleClick about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. Because we activated IP anonymization for Google Analytics and Double Click, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity and managing advertising content. To learn how you can opt out from this information collection by Google see “_Choices About How We Collect, Use and Disclose Your Personal Information_” below.
+*   **Web Beacons** . Pages of our Website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.
+*   **Analytics** . We use third party analytics and advertising tools and technologies, in particular Google Analytics and DoubleClick provided by Google, Inc., USA (“Google”). These tools and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies. The information generated by Google Analytics and DoubleClick about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. Because we activated IP anonymization for Google Analytics and Double Click, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity and managing advertising content. To learn how you can opt out from this information collection by Google see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ” below.
 
-**Third-party Use of Cookies and Other Tracking Technologies**
+Third-party Use of Cookies and Other Tracking Technologies
 
 Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. Unless expressly stated otherwise, our website does not provide any Personal Information to these third parties, however they may collect information, including Personal Information, such as internet protocol (IP) address, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. They may use this information to provide you with interest-based advertising or other targeted content.
 
-We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “_Choices About How We Collect, Use and Disclose Your Personal Information_”.
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ”.
 
-**How We Use Your Personal Data**
+How We Use Your Personal Data
 
 We will only use your personal data when the applicable local law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
@@ -820,41 +874,46 @@ We will only use your personal data when the applicable local law allows us to. 
 
 Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data.
 
-**Purposes for Which We Use Your Personal Information**
+Purposes for Which We Use Your Personal Information
 
 In general, we use information that we collect about you or that you provide to us, including Personal Information and Sensitive Personal Information, for following purposes:
 
-*   **Provision of services (Registered Members Only)**: to present our Website and its contents to you, including any interactive features on our Website, and to provide you with information, products or services that you request from us. we also collect and use Personal Information to verify your eligibility and deliver prizes in connection with contests and sweepstakes;
-*   **Customer management (Registered Members Only)**: to manage a registered users’ account, to provide customer support and notices to the registered user about his account or subscription, including expiration and renewal notices, and notices about changes to our Website or any products or services we offer or provide through it;
-*   **Customization of content (Registered Members Only)**: to perform research and analysis about your use of, or interest in, our Website content, products, or services, in order to develop and display content and advertising tailored to your interests on our Website and other sites;
-*   **Analytics**: to determine whether users of the Website are unique, or whether the same user is using the Website on multiple occasions, and to monitor aggregate metrics such as total number of visitors, pages viewed, demographic patterns;
-*   **Functionality and security**: to diagnose or fix technology problems, and to detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement;
-*   **Compliance**: to enforce our terms and conditions and to comply with our legal obligations;
+*   **Provision of services (Registered Members Only)** : to present our Website and its contents to you, including any interactive features on our Website, and to provide you with information, products or services that you request from us. we also collect and use Personal Information to verify your eligibility and deliver prizes in connection with contests and sweepstakes.
+*   **Customer management (Registered Members Only)** : to manage a registered users’ account, to provide customer support and notices to the registered user about his account or subscription, including expiration and renewal notices, and notices about changes to our Website or any products or services we offer or provide through it.
+*   **Customization of content (Registered Members Only)** : to perform research and analysis about your use of, or interest in, our Website content, products, or services, in order to develop and display content and advertising tailored to your interests on our Website and other sites.
+*   **Analytics** : to determine whether users of the Website are unique, or whether the same user is using the Website on multiple occasions, and to monitor aggregate metrics such as total number of visitors, pages viewed, demographic patterns.
+*   **Functionality and security** : to diagnose or fix technology problems, and to detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement.
+*   **Compliance** : to enforce our terms and conditions and to comply with our legal obligations.
 *   in any other way we may describe when you provide the information. or for any other purpose with your consent provided separately from this privacy policy.
 
-**Disclosure of Your Personal Information**
+Disclosure of Your Personal Information
 
 We do not disclose your Personal Information except in the limited circumstances described here.
 
 *   We may disclose your Personal Information to members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) to the extent this is necessary for the purposes of provision of services, customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance.
 *   **Service providers.** To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, risk and fraud detection and mitigation, providing customer service, performing business and sales analysis, customization of content, analytics, security, supporting our Website functionality, surveys and other features offered through our Website. These service providers may have access to Personal Information needed to perform their functions but are not permitted to share or use such information for any other purposes.
-*   **Legal successors**. To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this privacy policy.
 
-We access, preserve and share your Personal Information with regulators, law enforcement or others where we reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, (d) protect against harm to the rights, property or safety of our company, our users, our employees, or others. or (e) to maintain and protect the security and integrity of our Website or infrastructure. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
+*   **VIT Users’ Information.** As described in our terms and conditions, Tube8 is collaborating with Tokken MSB Inc. (“**Tokken**”) to set up a “ **VIT Platform**” in order to allow participating users to earn a cryptocurrency called (“ **VIT**”). Tokken is an independent third party, which complete privacy policy can be found at https://visionindustry.com/disclaimer or at https://visionindustry.com/faqs .
+
+*   In order to allow our Tube8 registered users to participate in the VIT Program and collect VIT, as further explained in our terms and conditions, we required our Tube8 registered user to register a VIT Account and choose a VIT ID, which will act as a user identifier and will be shared with Tokken. Any additional information to be shared with Tokken will be “hashed”, therefore, except each user’s VIT ID, no additional identity data or accessible Personal Information will be shared with Tokken.
+
+*   **Legal successors** . To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this privacy policy.
+
+We access, preserve and share your Personal Information with regulators, law enforcement or others where we reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, (d) protect against harm to the rights, property or safety of our company, our users, our employees, or others. or (e) to maintain and protect the security and integrity of our Website or infrastructure. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We also may share aggregated information with third parties for conducting general business analysis. This information does not contain any Personal Information and may be used to develop content and services that we hope you and other users will find of interest.
 
-**Financial Information**
+Financial Information
 
 Financial information (including Personal Information) that you have provided to us will only be shared with our third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors who only use your financial information and Personal Information for that purpose. All financial data and related Personal Information will not be shared by us with third parties except with your authorization or when necessary to carry out all and any transactions requested by you with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party is subject to their terms and conditions.
 
-**Transfers of Your Personal Information to Other Countries**
+Transfers of Your Personal Information to Other Countries
 
 Whenever in the course of sharing information we transfer Personal Information to countries outside of the European Economic Area and other regions with comprehensive data protection laws, we will ensure that the information is transferred in accordance with this privacy policy and as permitted by the applicable laws on data protection.
 
 By using the Website you consent to the transfer of information that we collect about you, including personal information, to any country in which we, members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) or our service providers are located.
 
-**Retention of Personal Information**
+Retention of Personal Information
 
 We will only retain your Personal Data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
@@ -862,72 +921,72 @@ To determine the appropriate retention period for personal data, we consider the
 
 Where we no longer need to process your Personal Data for the purposes set out in this Privacy Policy, we will delete your Personal Data from our systems.
 
-Where permissible, we will also delete your Personal Data upon your request. Information on how to make a deletion request can be found under “_Your Rights Related to Your Personal Information_”.
+Where permissible, we will also delete your Personal Data upon your request. Information on how to make a deletion request can be found under “ _Your Rights Related to Your Personal Information_”.
 
-If you have questions about our data retention practices, please send us an e-mail at support@Tube8.com.
+If you have questions about our data retention practices, please send us an e-mail at support@Tube8.com.
 
 The period for which we keep your Personal Information that is necessary for compliance and legal enforcement purposes varies and depend on the nature of our legal obligations and claims in the individual case.
 
-**How We Protect the Security of Your Personal Information**
+How We Protect the Security of Your Personal Information
 
-We take appropriate security measures (including physical, electronic and procedural measures) to safeguard your Personal Information from unauthorized access and disclosure. For example, only authorized employees are permitted to access Personal Information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your Personal Information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your Personal Information. Please be advised, however, that we cannot fully eliminate security risks associated with the storage and transmission of Personal Data.
+We take appropriate security measures (including physical, electronic and procedural measures) to safeguard your Personal Information from unauthorized access and disclosure. For example, only authorized employees are permitted to access Personal Information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your Personal Information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your Personal Information. Please be advised, however, that we cannot fully eliminate security risks associated with the storage and transmission of Personal Data.
 
 You are responsible for maintaining the secrecy of your unique password and account information at all times. We are not responsible for circumventions of any privacy settings or security measures contained on the Website..
 
-**Choices About How We Collect, Use and Disclose Your Personal Information**
+Choices About How We Collect, Use and Disclose Your Personal Information
 
 We strive to provide you with choices regarding the Personal Information you provide to us.
 
 *   You can choose not to provide us with certain Personal Information, but that may result in you being unable to use certain features of our Website because such information may be required in order for you to register as a member. purchase products or services. participate in a contest, promotion, survey, or sweepstakes. ask a question. or initiate other transactions on our Website.
 *   You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly.
-*   You may opt out of the DoubleClick cookie or of Google Analytics by visiting the Google advertising opt-out page or by downloading and installing the browser plug-in available at Google Analytics opt-out page.
+*   You may opt out of the DoubleClick cookie or of Google Analytics by visiting the Google advertising opt-out page or by downloading and installing the browser plug-in available at Google Analytics opt-out page .
 *   When you register on our Website. If you no longer want to receive commercial or promotional emails or newsletters from us, you will need to avail yourself of the unsubscribe mechanism set out in the applicable communication. It may take up to seven days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
 *   If you submit Personal Information, you may delete and deactivate your account with us at any time. If you deactivate and delete the information of your account, your Personal Information and any and all other account related information including, but not limited to, user profile data, sharing data and any other data, or content specifically associated with your account will no longer be accessible by you. After deleting and deactivating your account, if you choose to have an account with us in the future, you will have to sign up for a new account as none of the information you previously provided or saved within your account will have been saved.
 
-**Your Rights Related to Your Personal Information**
+Your Rights Related to Your Personal Information
 
 Subject to local law, you have certain rights regarding the Personal Information we collect, use or disclose and that is related to you, including the right
 
-*   to receive information on the Personal Information concerning we hold about you and how such Personal Information is used (right to access);
-*   to rectify inaccurate Personal Information concerning you (right to data rectification);
-*   to delete/erase your Personal Information (right to erasure/deletion, “right to be forgotten”);
+*   to receive information on the Personal Information concerning we hold about you and how such Personal Information is used (right to access).
+*   to rectify inaccurate Personal Information concerning you (right to data rectification).
+*   to delete/erase your Personal Information (right to erasure/deletion, “right to be forgotten”).
 *   to receive the Personal Information provided by you in a structured, commonly used and machine-readable format and to transmit those Personal Information to another data controller (right to data portability)
 *   to object to the use of your Personal Information where such use is based on our legitimate interests or on public interests (right to object). and
 *   in some cases, to restrict our use of your Personal Information (right to restriction of processing).
 
 If we ask for your consent to use your Personal Information, you can withdraw your consent at any time. Note that in case of a withdrawal of your consent you may no longer able to use several functionalities of our Website and our services.
 
-You may, at any time, send us an e-mail at support@Tube8.com to exercise your above rights in accordance with the applicable legal requirements and limitations. If you are located in the European Economic Area, you have a right to lodge a complaint with your local data protection authority.
+You may, at any time, send us an e-mail at support@Tube8.com to exercise your above rights in accordance with the applicable legal requirements and limitations. If you are located in the European Economic Area, you have a right to lodge a complaint with your local data protection authority.
 
-Note that some requests to delete certain Personal Information will require the deletion of your user account as the provision of user accounts are inextricable linked to the use of certain Personal Information (_e.g._, your e-mail address). Also note that it is possible that we require additional information from you in order to verify your authorization to make the request and to honor your request.
+Note that some requests to delete certain Personal Information will require the deletion of your user account as the provision of user accounts are inextricable linked to the use of certain Personal Information ( _e.g._, your e-mail address). Also note that it is possible that we require additional information from you in order to verify your authorization to make the request and to honor your request.
 
-**Changes to Our Privacy Policy**
+Changes to Our Privacy Policy
 
 We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found here so you are aware of any changes, as they are binding on you.
 
 If we change anything in our privacy policy, the date of change will be reflected in the “last modified date”. You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last modified” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones. By continuing to use the Website subsequent to us making available an amended version of our privacy policy in a way that you can easily take notice of it, you thereby consent to such amendment.
 
-**Enforcement. Cooperation**
+Enforcement. Cooperation
 
 We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of Personal Information by contacting us through this Website at Tube8.com. When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the collection, use and disclosure of Personal Information that cannot be resolved by an individual and us.
 
-**No Rights of Third Parties**
+No Rights of Third Parties
 
 This privacy policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Website.
 
-**Our Policy Towards Minors**
+Our Policy Towards Minors
 
-Our Website is not directed to persons under the age of 18 or the applicable age of majority in the jurisdiction from which the Website is accessed and we do not knowingly collect Personal Information from minors. If you become aware that your child has provided us with Personal Information, please contact us at support@Tube8.com. If we become aware that a minor has provided us with Personal Information, we take steps to remove such information and terminate that person’s account.
+Our Website is not directed to persons under the age of 18 or the applicable age of majority in the jurisdiction from which the Website is accessed and we do not knowingly collect Personal Information from minors. If you become aware that your child has provided us with Personal Information, please contact us at support@Tube8.com. If we become aware that a minor has provided us with Personal Information, we take steps to remove such information and terminate that person’s account.
 
-**No Error Free Performance**
+No Error Free Performance
 
 We do not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. We shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy.
 
-**Contact Information**
+Contact Information
 
-If you have any questions about this privacy policy or our information-handling practices, please contact us at support@Tube8.com.
+If you have any questions about this privacy policy or our information-handling practices, please contact us at support@Tube8.com.
 
-You may also contact us at 195-197 Old Nicosia-Limassol Road, Block 1 Dali Industrial Zone, Cyprus 2540, Phone: +357 22662 320, Fax: +357 22343 282.
+You may also contact us at 195-197 Old Nicosia-Limassol Road, Block 1 Dali Industrial Zone, Cyprus 2540, Phone: +357 22662 320, Fax: +357 22343 282.
 
 REQUEST A COPY OF MY PERSONAL DATA DELETE MY PERSONAL DATA TUBE8 - Parental Control
 
