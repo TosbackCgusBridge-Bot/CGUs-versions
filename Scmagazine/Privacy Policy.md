@@ -209,17 +209,17 @@ New York, NY 10001.**
     *   Software maker Citrix hacked, business documents removed
     *   Wendy’s to pay $50M in data breach settlement
     
-    *   Report reveals how China leverages social media to influence U.S.
-    *   Improving security with micro-segmentation: Where do I start?
-    *   Jackson County, Georgia pays $400,000 ransom to release files
-    *   Pinchy Spider goes big game hunting with GandCrab
-    *   Information Technology: Leading the way
+    *   Peter Liebert, SC Awards CSO of the Year
+    *   Celebrating 30 years in cybersecurity
+    *   The winners of the 2019 SC Awards Honored in the U.S.
+    *   SSL/TLS certificate markets boom on dark web (video)
+    *   Chrome updated to combat an exploited zero day
     
-    *   Under GDPR, can a CISO be the DPO?
-    *   Ransomware attack targets college admissions data
-    *   Sen. Elizabeth Warren: Break up big tech to promote privacy and competition
-    *   Dutch Data Protection Authority chips away at 'cookie walls,' declaring they violate GDPR
-    *   GOP senator checks FTC on 'toothless' efforts to curb Facebook, Google privacy violations
+    *   Protecting the Critical Infrastructure from cyber warfare
+    *   Yatron ransomware uses NSA exploits
+    *   Dozens of high-profile Box accounts found leaking sensitive data
+    *   Berners-Lee says WWW needs bolstering against malicious cyberattacks, dysfunction
+    *   March Patch Tuesday: Microsoft addresses 18 critical security issues
 
 Back to Top
 
