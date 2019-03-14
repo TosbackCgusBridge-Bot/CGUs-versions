@@ -2,7 +2,7 @@
 *   Scores
 *   Schedule
 *   Standings
-*   Highlights
+*   Draft
 *   Free Agency
 *   Fantasy
 *   Tickets
@@ -10,7 +10,7 @@
 *   Teams
 *   Game Pass
 *   Super Bowl
-*   Draft
+*   Highlights
 *   Stats
 *   Next Gen Stats
 *   Ways to Watch
@@ -21,7 +21,7 @@
 *   Scores
 *   Schedule
 *   Standings
-*   Highlights
+*   Draft
 *   Free Agency
 
 *   Free Agency
@@ -29,7 +29,7 @@
 
 *   *   Game Pass
     *   Super Bowl
-    *   Draft
+    *   Highlights
     *   Stats
     *   Next Gen Stats
     *   Ways to Watch
