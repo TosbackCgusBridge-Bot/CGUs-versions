@@ -271,13 +271,11 @@ We, and our service providers, may observe your activities, preferences, and tra
 
 While we may collect or log this information, we do not identify you except if we believe doing so will help us better respond to a request you have made such as for a quote, identification of a local retailer, or similar request.
 
-Where such non-Personal Information is linked to your Personal Information we will treat such information as
+Where such non-Personal Information is linked to your Personal Information we will treat such information as Personal Information.
 
-Personal Information.
+Location Data.
 
-Location Data. Some Subaru Websites or Applications may capture and record certain location-data regarding your use of that
-
-Website or Application and your travels in order to provide location-related functionality ("Location Data"). We may link that Location Data to other information that you provide to us or that may be accessed in connection with your use of such a Subaru Website or Application. Your use of, and our ability to offer location based functionality is then enabled through our use and disclosure to third parties of Location Data and associated information.
+Some Subaru Websites or Applications may capture and record certain location-data regarding your use of that Website or Application and your travels in order to provide location-related functionality ("Location Data"). We may link that Location Data to other information that you provide to us or that may be accessed in connection with your use of such a Subaru Website or Application. Your use of, and our ability to offer location based functionality is then enabled through our use and disclosure to third parties of Location Data and associated information.
 
 **OUR COLLECTION AND USE OF NON-PERSONAL INFORMATION**
 
@@ -293,11 +291,7 @@ When multiple devices are used by the same person to access Subaru-controlled we
 
 **Online Behavioral Advertising.**
 
-Subaru may use the non-personal information collected on its Website for online behavioral advertising purposes, that is, to customize ads to you when you visit other (non-Subaru) sites. If you wish to opt-out of this process, click
-
-the OBA logo on our banner advertisements. You'll be directed to an opt-out page where you'll be able to select your data preferences. The page will also contain further instruction if additional questions remain. Notwithstanding any other provision in this Privacy Policy, we may also engage a third party partner for the purpose of recognizing users and delivering to them interest-based content and advertisements. We may share information about you with our partners such as your name, postal address, email, device ID, or other identifier in encrypted, hashed or de-identified form. Our partners also may collect information from you, such as your IP address and information about your browser or operating system. may combine our personal and non-personal offline information about you with information from other partners in data sharing cooperatives in which we participate. and may place or recognize a unique cookie on your browser. These cookies contain no personally identifiable information. they may contain demographic or other data in de-identified form. To opt-out of third party cookies, please go to
-
-http://www.aboutads.info/choices.
+Subaru may use the non-personal information collected on its Website for online behavioral advertising purposes, that is, to customize ads to you when you visit other (non-Subaru) sites. If you wish to opt-out of this process, click the OBA logo on our banner advertisements. You'll be directed to an opt-out page where you'll be able to select your data preferences. The page will also contain further instruction if additional questions remain. Notwithstanding any other provision in this Privacy Policy, we may also engage a third party partner for the purpose of recognizing users and delivering to them interest-based content and advertisements. We may share information about you with our partners such as your name, postal address, email, device ID, or other identifier in encrypted, hashed or de-identified form. Our partners also may collect information from you, such as your IP address and information about your browser or operating system. may combine our personal and non-personal offline information about you with information from other partners in data sharing cooperatives in which we participate. and may place or recognize a unique cookie on your browser. These cookies contain no personally identifiable information. they may contain demographic or other data in de-identified form. To opt-out of third party cookies, please go to http://www.aboutads.info/choices.
 
 WHEN SUBARU MAY SHARE INFORMATION
 
@@ -311,9 +305,7 @@ Service providers, vendors and suppliers are companies who perform services for 
 
 Retailers.
 
-Certain requests or questions that you direct to us are more appropriately answered by a retailer, such as a request for a price quote on a particular vehicle. In those instances, we will provide your Personal Information, along with your request or question, to a retailer or retailers for a response. The retailer(s) will have the right to use your
-
-Personal Information for purposes of responding to your request and for its/their own marketing purposes that may not relate to your requests or questions. Retailers' use of your Personal Information will be subject to the retailers' own privacy policies.
+Certain requests or questions that you direct to us are more appropriately answered by a retailer, such as a request for a price quote on a particular vehicle. In those instances, we will provide your Personal Information, along with your request or question, to a retailer or retailers for a response. The retailer(s) will have the right to use your Personal Information for purposes of responding to your request and for its/their own marketing purposes that may not relate to your requests or questions. Retailers' use of your Personal Information will be subject to the retailers' own privacy policies.
 
 **Marketing.**
 
