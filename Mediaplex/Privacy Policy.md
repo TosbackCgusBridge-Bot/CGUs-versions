@@ -126,14 +126,14 @@ Go to Epsilon Data
 **Data that’s protected, relevant, actionable and connectable.**  
 No one wants to hear that their data is a mess. But in reality, it’s often incomplete, unverified and difficult to use. To succeed, you need data that’s transparent, verifiable and trustworthy, giving you a 360-degree view of each customer as they move along the path to purchase.
 
-Go to Epsilon Data Nearly 3.6 trillion transactions across our data assets 95% client renewal rate Data that fuels marketing campaigns for 3,000 brands Transform ordinary customer experiences into connected human experiences.
+Go to Epsilon Data Nearly $3.6T in transactions across our data assets 95% client renewal rate Data that fuels marketing campaigns for 3,000 brands Transform ordinary customer experiences into connected human experiences.
 
 Gain access to a connected suite of industrial-strength data assets rooted in years of brand intelligence—ones that identify which people to connect with, and reveal what they purchase, need and care about. You’ll create custom audiences, activate more customers across more channels, use more of your data, and ensure that data is treated with the respect and privacy it deserves.
 
 What we do best is what marketers need to do next.
 
 *   We’ve spent decades curating &. building powerful data assets and making strategic acquisitions to strengthen our offerings.
-*   We’re stewards of more transactional data for marketing purposes than just about anyone in the world, with intelligence on nearly 3.5 trillion purchases.
+*   We’re stewards of more transactional data for marketing purposes than just about anyone in the world, with intelligence on nearly $3.6 trillion in purchases.
 *   We have breadth, depth and scale to connect the dots of customers across all channels.
 *   Integrity and loyalty fuel 95% client renewal rates.
 *   Our TotalSource Plus® consumer database has a combined ranking of #1 in the industry, according to a third-party audit.
