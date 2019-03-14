@@ -15,10 +15,9 @@ TRY PRO FREE FOR 7 DAYS
 **Find**
 
 *   People Search
-*   Phone Search
-*   Address Search
+*   Reverse Phone
+*   Reverse Address
 *   Email Search
-*   Business Search
 *   Background Search
 *   SmartCheck
 
