@@ -23,10 +23,10 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack HP Video Test LOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NOWSHOP ALL
+Near YouFind a StoreBack DAY 4 OF COUPON CODE4TOSAVEENDS IN23HOURS 41MINS 01SECS \*Offer ends March 25, 2019 HP Video Test LOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NOWSHOP ALL
 
 *   from$1359after couponWorthington Twill Ankle Pant(149)Add To Cart
-*   $3199after couponwas $70 Worthington Womens Classic Fit BlazerAdd To Cart
+*   $3199after couponwas $70 Worthington Womens Classic Fit Blazer(1)Add To Cart
 *   $1599after couponwas $37 Worthington Womens Round Neck Short Sleeve Blouse(1)Add To Cart
 *   $2799after couponwas $60 Worthington Womens Midi Pleated SkirtAdd To Cart
 *   $2320after couponWorthington Womens Sleeveless Mock Neck TopAdd To Cart
@@ -35,16 +35,18 @@ Near YouFind a StoreBack HP Video Test LOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NO
 
 Hot Sellers
 
-*   from$2159after couponwas $45 - $50 Van Heusen Suit Pants(31)
-*   LIMITED TIME SPECIAL!
+*   $2399after couponwas $44 Lee® Relaxed-Fit Straight-Leg Jeans(497)
+*   from$2159after couponwas $79 Yuu Womens Regina Stacked Heel Zip Bootie(30)
+*   $1615after couponCaboodles Vintage On The Go Girl Teal
+*   BIG BUY!
     
-    $25 sale
+    $1699 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Diamond Ring in Sterling Silver(3)
-*   $1759after couponwas $42 Arizona Basic Loose Straight Jeans(1229)
-*   from$16after couponwas $40 - $80 JCPenney Home Sullivan Blackout Grommet-Top Curtain Panel(40)
-*   $1759after couponwas $44 Stafford Travel Oxford Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(166)
-*   from$1999after couponStafford Travel Stretch Performance Super Shirt Mens Long Sleeve Dress Shirt(14)
+    was $50 | 66% offCooks 10" x 19" Non-Stick Griddle(390)
+*   $3499 sale
+    
+    was $70 | 50% offHaggar® Premium No Iron Classic-Fit Flat-Front Khakis(617)
+*   $1439after couponwas $37 a.n.a Womens High Neck Short Sleeve Blouse
 
 Shop and Save at JCPenney
 
