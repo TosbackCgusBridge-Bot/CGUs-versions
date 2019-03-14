@@ -36,6 +36,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Coming Soon
     
     *   Us (2019)
+    *   Fandango Early Access: Shazam!
     *   Dumbo (2019)
     *   Unplanned (2019)
     *   The Best of Enemies
@@ -72,7 +73,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Jordan Peele's 'Us' Frightens SXSW. Here's Everything We Know Read More
-    *   Today in Movie Culture: ‘Captain Marvel’ Easter Eggs, Trivia, Timeline Explanation, Director Commentary and More Read More
+    *   Destin Daniel Cretton to Direct Marvel’s ‘Shang-Chi’. Here’s Everything We Know Read More
     *   First Full ‘Aladdin’ Trailer Opens Up a Whole New Live-action World. Here's Everything We Know Read More
     
     Explore Content
@@ -318,6 +319,10 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
+*   'Shazam!' Free Gift with Purchase
+    
+    Get FREE Shazam! digital Comic Books from DC with ticket purchase! BUY TICKETS
+    
 *   Fandango VIP
     
     Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
