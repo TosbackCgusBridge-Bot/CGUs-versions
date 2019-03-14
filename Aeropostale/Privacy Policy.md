@@ -479,7 +479,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Free Shipping When You Buy Shorts Details BOGO Girls BOGO Guys Shop Girls Shorts Guide Shop Guys Shorts Guide Previous Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Next Shop Girls Shop Guys Details Shop Girls Graphics Shop Guys Graphics Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Details BOGO Girls BOGO Guys Shop Girls Shorts Guide Shop Guys Shorts Guide Previous Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Next Shop Girls Shop Guys Details Shop Girls Graphics Shop Guys Graphics Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -518,17 +518,3 @@ Stay Connected
 *   Store FAQs
 
 © 2019 Aeropostale. All Rights Reserved.
-
-Refer a friend and get $15 off.
-
-Refer a friend
-
-GET Our Gratitude when they make a purchase
-
-Refer Now
-
-Were You Referred to Us?
-
-Enter Your Friend's Code
-
-Submit ... Refer Now
