@@ -25,8 +25,6 @@ Twitter
 
 Pinterest
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">.
-
 Toggle navigation
 
 *   Health
@@ -231,7 +229,7 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links10 Child Prodigies1STMedieval Coffin Yields Fascinating Skeleton2NDHowStuffWorks NOW: Meet Graham, the Car-proof Man3RDWhat Did Your Address Look Like 250 Million Years Ago?4THLCR Health | SponsoredFeeling Old? Do This Once A Day And Watch What HappensLCR Health | SponsoredSenior Living | Search Ads | SponsoredLuxury Senior Living In Colorado Is Surprisingly AffordableSenior Living | Search Ads | SponsoredMyFinance | SponsoredTwo Banks That Pay 10x the Interest On Your SavingsMyFinance | SponsoredPeoplewhiz | SponsoredLocate Anyone By Entering Their NamePeoplewhiz | Sponsored tech10 Iconic Photographs That Captured the World’s ImaginationBY Nathan ChandlerscienceWhat existed before the big bang?BY Robert LambscienceAmateur Solves Part of Decades-Old Math ProblemBY Patrick J. KigerEverQuote Insurance Quotes | SponsoredDenver, Colorado Drivers Are Stunned By This New RuleEverQuote Insurance Quotes | SponsoredInvesting Outlook | SponsoredReclusive Millionaire Warns: "Get Out Of Cash Now"Investing Outlook | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff Works9 'Unsolved' Mysteries That Have Been SolvedCan You Really Delete Your Internet History?Is the U.S. Government Hiding New Proof of Alien Life?Where do bullets go when guns are fired straight up into the air?10 Common NightmaresThin Mints and More: The Girl Scout Cookie Quizby Taboolaby Taboola
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksKiss Your Beer Goodbye if Climate Change Continues Unchecked1STRidiculous History: 3 Times Society Refused to Accept Books on New Science2NDHow to Write an Acceptance Letter for a New Job3RDCorporal Punishment Continues in U.S. Schools, Despite Its Ineffectiveness4THKelley Blue Book | SponsoredSee Why Kelley Blue Book Says These Pickups Are Top NotchKelley Blue Book | SponsoredIcePop | SponsoredDrone Captures What No One Was Supposed to SeeIcePop | SponsoredMyFinance | SponsoredTwo Banks That Pay 10x the Interest On Your SavingsMyFinance | SponsoredMoneyWise.com | SponsoredThese Chain Restaurants Will Be The Next To Go UnderMoneyWise.com | Sponsored culture5 Ideas for DIY Theme Halloween PartiesBY Maria TrimarchicultureWhen College-bound Kids Have Their Acceptances RevokedBY Julia Laytonculture10 Fun for Fido Halloween CostumesBY Alison CooperCrossover SUVs | Search Ads | SponsoredAre You Ready For 2019 Crossover SUVs?Crossover SUVs | Search Ads | SponsoredPost Fun | SponsoredSteve Urkel 30 Years Later, See What He Looks Like TodayPost Fun | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff Works5 Kids' Halloween Party Invitation IdeasFamily Tree of Homo Sapiens Continues to Evolve5 Halloween Costume Photo Op Ideas5 Halloween Myths That Will Not DieHalloween GamesKids Halloween Costumesby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -263,4 +261,4 @@ Sign Up Now!
 
 Newsletter Policy &. Terms
 
-Testing this long verbose error message to check the behaviour <img src="https://soflopxl.com/px?partner\_id=31210">
+Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
