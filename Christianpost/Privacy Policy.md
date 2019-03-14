@@ -11,7 +11,7 @@ Menu Search P404 Newsletter Close Menu 404 Page not found
 Oops! This page is not available.  
 Go to the homepage.
 
-The Christian Post Subscribe Now We want to hear from you! Overall Navigation SECTIONS
+The Christian Post Subscribe Now We want to hear from you! Overall Navigation Main
 
 *   Home
 *   Church &. Ministries
@@ -21,19 +21,17 @@ The Christian Post Subscribe Now We want to hear from you! Overall Navigation SE
 *   Entertainment
 *   Living
 *   Opinion
-*   Video
-*   Book
+
+SECTIONS
+
+*   Business
+*   Finance
+*   Education
+*   Lifestyle
+*   Books
+*   Church Resource
 *   Voices
-*   Topics
-
-Hot Topics
-
-*   James MacDonald
-*   Morgan Freeman
-*   Meditation
-*   Social justice
-*   Christian movies
-*   More Topics
+*   Video
 
 About Us
 
@@ -45,6 +43,7 @@ About Us
 *   Terms Of Service
 *   Privacy Policy
 *   Disclaimer
+*   Email Whitelisting
 
 Stay Connected
 
@@ -56,7 +55,6 @@ Stay Connected
 *   Media Kit
 *   Archives
 *   Corrections
-*   Email Whitelisting
 *   Careers
 
 Follow Us
