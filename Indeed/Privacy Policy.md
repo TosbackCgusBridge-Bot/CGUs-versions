@@ -94,7 +94,7 @@ Please review the “Last Updated” legend at the top of the Cookie Policy to d
 
 Privacy Policy
 
-Last Updated: March 8, 2019
+Last Updated: March 14, 2019
 
 **1\. Introduction**
 
@@ -449,7 +449,7 @@ Indeed users are able to edit and update most of their Personal Data held by Ind
 
 Alternatively, if you do not wish to do this, you may make a formal request delete your Personal Data held by Indeed. In order to do so, please email to privacy-dept @ indeed.com (remove spaces when sending email) from the email address associated with your account, and paste the following sentence in your email: “I am requesting to delete my personal data.” Once your request has been confirmed, Indeed will initiate the necessary steps to execute this exercise, including the deletion of your Indeed account. Where the deletion request relates to Personal Data that you previously requested be made public on Indeed (e.g. a Job Seeker posting a public resume), we will make reasonable efforts to inform any other controllers of this request. If you have interacted with Indeed using more than one email address, please send a subsequent from the additional email addresses so that we may delete this personal data as well.
 
-**PLEASE NOTE: by requesting the deletion of your Personal Data, you will no longer be able to create an account with Indeed using the same email address. If you simply wish to close your account, please click the “close my account” button in your account page.**
+**PLEASE NOTE: by requesting the deletion of your Personal Data, you will no longer be able to create an account with Indeed using the same email address. If you simply wish to close your account, please click the “close my account” button in your account page. ** **Additionally, if you use Indeed Apply for an application or take any other action on the Site using the same email address associated with your deletion request, you may not receive certain communications associated with those actions from Indeed or other Indeed users.**
 
 **10.6 Some Limitations**
 
@@ -1227,4 +1227,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1d5tbtas7afdh800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1d5vu835818k8000&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
