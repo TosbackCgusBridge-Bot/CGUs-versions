@@ -73,8 +73,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Jordan Peele's 'Us' Frightens SXSW. Here's Everything We Know Read More
-    *   Destin Daniel Cretton to Direct Marvel’s ‘Shang-Chi’. Here’s Everything We Know Read More
-    *   First Full ‘Aladdin’ Trailer Opens Up a Whole New Live-action World. Here's Everything We Know Read More
+    *   Today in Movie Culture: ‘Avengers: Endgame’ Trailer Easter Eggs, ‘Apollo 11’ Director Commentary and More Read More
+    *   Captain Marvel Returns in New ‘Avengers: Endgame’ Trailer. Here’s Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
