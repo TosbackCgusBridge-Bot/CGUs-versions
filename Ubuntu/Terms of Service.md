@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Make your snap development faster ›
 *   ROS2 launch: required nodes ›
 *   FOSDEM 2019, a recap ›
 *   Fresh KDE snaps for February 2019 ›
 *   Canonical at NVIDIA GTC 2019 ›
-*   How to ensure the ongoing security and compliance of Ubuntu 14.04 LTS ‘Trusty Tahr’ ›
