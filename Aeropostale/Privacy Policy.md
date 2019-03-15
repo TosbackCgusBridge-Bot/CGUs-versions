@@ -26,7 +26,7 @@ Close submenu ( Girls ) Girls
 *   Accessories
 *   Flip Flops + Slides
 *   Fragrance
-*   Swim
+*   Swimwear
 *   Bras + Undies
 *   Extended Sizes
 *   Clearance
@@ -36,7 +36,6 @@ Close submenu ( Girls ) Girls
 Close submenu ( Tops ) Tops
 
 *   View All
-*   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
 *   Polos
@@ -94,7 +93,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Tops ) Tops
 
 *   View All
-*   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
 *   Polos
@@ -142,8 +140,8 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Bootcut
 *   Cheeky
 *   Wide Leg
-*   Mom Fit
-*   Boyfriend
+*   Mom Jeans
+*   Boyfriend Jeans
 *   Overalls
 *   Flex Effects
 *   Eco-Friendly Repreve
@@ -205,7 +203,7 @@ Close submenu ( New Arrivals ) New Arrivals
 Close submenu ( Girls ) Girls
 
 *   View All
-*   New Arrivals
+*   Just In
 *   Best Sellers
 *   Destroyed Denim
 *   Break In Spring
@@ -220,7 +218,7 @@ Close submenu ( Girls ) Girls
 Close submenu ( Guys ) Guys
 
 *   View All
-*   New Arrivals
+*   Just In
 *   Best Sellers
 *   Destroyed Denim
 *   Break in Spring
@@ -247,7 +245,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Skirts
 *   Accessories
 *   Bras + Undies
-*   Swim
+*   Swimwear
 
 Close submenu ( Guys ) Guys
 
@@ -258,7 +256,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**BUY 1 GET 1 FREE JEANS + SHORTS**  GIRLS GUYS **Free Ship Over $50 Or When You Buy Jeans or Shorts** 
+**BUY 1 GET 1 FREE JEANS + SHORTS**  GIRLS GUYS **Take Extra 20% off Use Code EARLY20 + Free Ship Over $50** 
 
 *   Select Country
 *   My Account My Account Login Register
@@ -270,7 +268,6 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Tops
         *   View All
-        *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
         *   Polos
@@ -300,7 +297,7 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Flip Flops + Slides
     *   Fragrance
-    *   Swim
+    *   Swimwear
     *   Bras + Undies
     *   Extended Sizes
     *   Clearance
@@ -322,7 +319,6 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Tops
         *   View All
-        *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
         *   Polos
@@ -373,8 +369,8 @@ Menu Find a Store Aeropostale
         *   Bootcut
         *   Cheeky
         *   Wide Leg
-        *   Mom Fit
-        *   Boyfriend
+        *   Mom Jeans
+        *   Boyfriend Jeans
         *   Overalls
         *   Flex Effects
         *   Eco-Friendly Repreve
@@ -424,7 +420,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls
         *   View All
-        *   New Arrivals
+        *   Just In
         *   Best Sellers
         *   Destroyed Denim
         *   Break In Spring
@@ -438,7 +434,7 @@ Menu Find a Store Aeropostale
     
     *   Guys
         *   View All
-        *   New Arrivals
+        *   Just In
         *   Best Sellers
         *   Destroyed Denim
         *   Break in Spring
@@ -460,7 +456,7 @@ Menu Find a Store Aeropostale
         *   Dresses + Skirts
         *   Accessories
         *   Bras + Undies
-        *   Swim
+        *   Swimwear
     
     *   Guys
         *   View All
@@ -479,7 +475,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Free Shipping When You Buy Jeans Or Shorts Details BOGO Girls BOGO Guys Shop Girls Shorts Guide Shop Guys Shorts Guide Previous Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Next Shop Girls Shop Guys Details Shop Girls Graphics Shop Guys Graphics Previous Next Shop The Girls Tribe Shop All Girls Graphics Shop Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! 0 23 : Days 31 : Days 39 Details Shop Girls Shop GuysGet In Store Coupon Shop Girls Shorts Guide Shop Guys Shorts Guide Previous Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Next Shop Girls Shop Guys Details BOGO Girls BOGO Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Of Tees Shop Guys Tees Shop Girls Shop Guys Shop Dresses Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -518,3 +514,17 @@ Stay Connected
 *   Store FAQs
 
 © 2019 Aeropostale. All Rights Reserved.
+
+Refer a friend and get $15 off.
+
+Refer a friend
+
+GET Our Gratitude when they make a purchase
+
+Refer Now
+
+Were You Referred to Us?
+
+Enter Your Friend's Code
+
+Submit ... Refer Now
