@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off 1 full-price item!
+Receive 31.4% off your order!
 
-code: RAINBOW pin: 2263 DETAILS
+code: APPLE pin: 3141 DETAILS
 
 Customer Service Menu
 
