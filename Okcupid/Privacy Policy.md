@@ -1,25 +1,4 @@
-Cookie Notice
-
-We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
-
-CloseAccept Cookies
-
-*   Your Privacy
-    
-*   Strictly Necessary Cookies
-    
-*   Targeting Cookies
-    
-*   More Information
-    
-
-Privacy Preference Centre
-
-Active
-
-Always Active
-
-Save SettingsAllow All OkCupid Join the best free dating site on Earth. Sign in Sign up Legal Information
+OkCupid Join the best free dating site on Earth. Sign in Sign up Legal Information
 
 *   Terms &. Conditions (0)
 *   Privacy (0)
@@ -366,7 +345,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Washington Dating
+*   Spiritual Singles
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
