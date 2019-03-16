@@ -179,6 +179,7 @@ Close submenu ( Girls ) Girls
 *   Bermuda
 *   Tomboy
 *   Active
+*   Soft Shorts
 
 Close submenu ( Guys ) Guys
 
@@ -256,7 +257,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**BUY 1 GET 1 FREE JEANS + SHORTS**  GIRLS GUYS **Take Extra 20% off Use Code EARLY20 + Free Ship Over $50** 
+**BUY 1 GET 1 FREE JEANS + SHORTS**  GIRLS GUYS **Take Extra 20% off Use Code TAKE20 + Free Ship Over $50** 
 
 *   Select Country
 *   My Account My Account Login Register
@@ -402,6 +403,7 @@ Menu Find a Store Aeropostale
         *   Bermuda
         *   Tomboy
         *   Active
+        *   Soft Shorts
     
     *   Guys
         *   View All
@@ -475,7 +477,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! 0 23 : Days 31 : Days 39 Details Shop Girls Shop GuysGet In Store Coupon Shop Girls Shorts Guide Shop Guys Shorts Guide Previous Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Next Shop Girls Shop Guys Details BOGO Girls BOGO Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Of Tees Shop Guys Tees Shop Girls Shop Guys Shop Dresses Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! -1 -1 : Days 28 : Days 58 Details Shop Girls Shop GuysGet In Store Coupon Shop Girls Shorts Guide Shop Guys Shorts Guide Previous Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Slim Low Rise Classic Destroy Classic Cargo Flex Effects Loose High Rise Longboard Cheeky Classic Jogger Midi Longboard Cargo Super High Rise Next Shop Girls Shop Guys Details BOGO Girls BOGO Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Of Tees Shop Guys Tees Shop Girls Shop Guys Shop Dresses Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -513,7 +515,7 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2019 Aeropostale. All Rights Reserved.
+© 2019 Aeropostale. All Rights Reserved. CHAT
 
 Refer a friend and get $15 off.
 
