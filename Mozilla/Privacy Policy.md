@@ -175,7 +175,7 @@ Check out the Benefits
 
 Websites, Communications &. Cookies Privacy Notice
 
-September 6, 2017
+March 15, 2019
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our Mozilla Privacy Policy describes how we handle that information.
 
@@ -198,13 +198,13 @@ We may receive personal information from you based on your interaction with us o
 *   **Product &. Policy Campaigns**: Some of our webpages host product or policy campaigns. For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues. We use third parties to manage these campaigns and handle any data that you choose to submit.  
     
 
-We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications. Learn More
+We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications.Learn More
 
-*   **Functionality**: We may use cookies, device information and IP addresses to enhance functionality of certain products, services, and communications. For example:
+*   **Functionality**: We may use information such as cookies, device information, and IP addresses to enhance functionality of certain products, services, and communications. For example:
     
-    *   Cookies are used to remember your Firefox language preference and Firefox add-ons. They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.
-    *   IP addresses are used to customize communications by language and country.
-    *   Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.
+    *   We use cookies are used to remember information about your Firefox settings (such as language preference and Firefox add-ons), and so that we can recommend relevant features and Add-ons to you based on your Firefox settings. They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.
+    *   We use IP addresses to customize communications by language and country.
+    *   We use certain device information such as country, language, operator and OEM, to customize your experience.
 *   **Metrics**: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
     
     *   Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content.
