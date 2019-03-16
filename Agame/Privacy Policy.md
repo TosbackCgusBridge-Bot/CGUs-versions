@@ -1,4 +1,4 @@
-Apps
+<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Apps
 
 *   {text}
     
@@ -62,8 +62,8 @@ View more results
     *   Warbanner
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Total Front: Army War Game
-    *   Bubble Machine: 2 Player Game
     *   Klondike - the lost expedition
+    *   Bubble Machine: 2 Player Game
 *   Top Categories
     
     *   Boy Games
@@ -462,4 +462,4 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookie Consent
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
