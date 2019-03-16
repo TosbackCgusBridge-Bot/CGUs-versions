@@ -212,11 +212,11 @@ New York, NY 10001.**
     *   Wendy’s to pay $50M in data breach settlement
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Protecting the Critical Infrastructure from cyber warfare
-    *   Report reveals how China leverages social media to influence U.S.
-    *   Equifax neglected cybersecurity prior to breach, Senate report finds
+    *   Can event-based analytics spot IP developers stealing their own assets?
+    *   Berners-Lee says WWW needs bolstering against malicious cyberattacks, dysfunction
     *   Information Technology: Leading the way
-    *   Malicious SDK installs SimBad adware on apps downloaded millions of times
+    *   Report reveals how China leverages social media to influence U.S.
+    *   GOP senator checks FTC on 'toothless' efforts to curb Facebook, Google privacy violations
     
     *   Researchers catch whiff of previously unknown POS sniffers and scrapers
     *   Stolen email credentials being used to pry into cloud accounts
