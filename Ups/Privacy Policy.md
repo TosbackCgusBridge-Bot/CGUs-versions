@@ -1,4 +1,8 @@
-Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
+1/1
+
+*   Severe Weather Impacting Areas of the Upper Midwest...More
+
+Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
 *   Track Tracking Numbers Go
 *   Ship Close
