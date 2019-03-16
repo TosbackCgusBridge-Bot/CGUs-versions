@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Porting Ubuntu Core 18 to Nvidia Jetson TX1 Developer Kit ›
 *   Make your snap development faster ›
 *   ROS2 launch: required nodes ›
 *   FOSDEM 2019, a recap ›
 *   Fresh KDE snaps for February 2019 ›
-*   Canonical at NVIDIA GTC 2019 ›
