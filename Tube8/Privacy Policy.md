@@ -85,39 +85,39 @@ Close Try Premium Upload
     
     Ms Paris and Her Taboo Tales "Boys"
     
-    100% 14,080 views 10:38 HD
+    100% 20,374 views 10:38 HD
     
     Step Mommy Gets a New Car
     
-    100% 15,788 views 03:24 HD
+    100% 22,646 views 03:24 HD
     
     Ms Paris and Her Taboo Tales "Birthday"
     
-    100% 3,403 views 08:04 HD
+    100% 8,277 views 08:04 HD
     
-    Tiny teen small blonde solo The Sex Crazed Stepkids
+    DANCING BEAR - Room Full Of Dick Suckers At A Wild And Crazy CFNM Party
     
-    99% 80,808 views 08:00 HD
+    96% 123,531 views 12:00 HD
     
     Newest Videos
     
     View More
     
-    Heather Deep hungry to eat cum after exercise
+    Claudia Mac 01 - Backstage before masturbation video 3DVR 360 UP-DOWN
     
-    100% 1,627 views 09:11
+    0% 157 views 05:53 HD
     
-    Jessa Rhodes Moms Teach Sex
+    Old Young - Teen Lusty Blonde Pussy Eaten By Horny Grandpa with Swallowing
     
-    0% 2,763 views 26:56 HD
+    0% 1,300 views 08:10 HD
     
-    Amateur ex girlfriend threesome with 2 guys
+    analized
     
-    100% 3,664 views 03:00
+    0% 0 views 08:50 HD
     
-    Mea Melone and Nekane in lesbian scene by Sapphic Erotica
+    Nina Elle has her huge tits bouncing up and down
     
-    100% 1,955 views 11:17 HD
+    0% 612 views 08:35 HD
     
     Popular Tags
     
@@ -126,8 +126,8 @@ Close Try Premium Upload
     *   japan
     *   mom
     *   homemade
-    *   bg sex
     *   massage
+    *   bg sex
     *   young
     *   big tits
     *   masturbation
@@ -152,8 +152,8 @@ Close Try Premium Upload
     *   japan
     *   mom
     *   homemade
-    *   bg sex
     *   massage
+    *   bg sex
     *   young
     *   big tits
     *   masturbation
@@ -172,18 +172,18 @@ Close Try Premium Upload
     
     Most Content
     
-    *   **HD** (151393)
-    *   **Amateur** (65418)
-    *   **Hardcore** (40950)
-    *   **Teen** (27851)
-    *   **Fetish** (18463)
-    *   **Erotic** (17578)
-    *   **Anal** (15341)
-    *   **Lesbian** (13653)
-    *   **Blowjob** (12892)
-    *   **Asian** (12558)
-    *   **Ebony** (7317)
-    *   **Mature** (5695)
+    *   **HD** (151568)
+    *   **Amateur** (65431)
+    *   **Hardcore** (40968)
+    *   **Teen** (27868)
+    *   **Fetish** (18481)
+    *   **Erotic** (17603)
+    *   **Anal** (15353)
+    *   **Lesbian** (13673)
+    *   **Blowjob** (12903)
+    *   **Asian** (12559)
+    *   **Ebony** (7337)
+    *   **Mature** (5704)
     
     Most Popular Categories
     
@@ -216,69 +216,69 @@ Close Try Premium Upload
     1
     
     *   Brazzers
-    *   Videos: **2872**
-    *   Views: **675,788,541**
-    *   Followers: **2,765**
+    *   Videos: **2874**
+    *   Views: **675,894,686**
+    *   Followers: **2,785**
     
     Rank  
     2
     
     *   Family Strokes
     *   Videos: **87**
-    *   Views: **7,396,284**
-    *   Followers: **2,031**
+    *   Views: **7,409,999**
+    *   Followers: **2,046**
     
     Rank  
     4
     
     *   Fake Taxi
     *   Videos: **733**
-    *   Views: **181,567,938**
-    *   Followers: **1,384**
+    *   Views: **181,594,904**
+    *   Followers: **1,389**
     
     Rank  
     3
     
     *   Blacked
     *   Videos: **358**
-    *   Views: **154,192,744**
-    *   Followers: **1,305**
+    *   Views: **154,246,740**
+    *   Followers: **1,311**
     
     Trending Channels
     
     View More
     
     Rank  
-    11
+    17
     
-    *   Sis Loves Me
-    *   Videos: **79**
-    *   Views: **4,332,554**
-    *   Followers: **901**
+    *   Backroom Casting Couch
+    *   Videos: **267**
+    *   Views: **139,072,534**
+    *   Followers: **558**
     
     Rank  
-    9
+    6
     
-    *   Tushy
-    *   Videos: **229**
-    *   Views: **67,239,062**
-    *   Followers: **886**
+    *   Vixen
+    *   Videos: **170**
+    *   Views: **31,675,088**
+    *   Followers: **1,450**
+    
+    Rank  
+    12
+    
+    *   Mom POV
+    *   Videos: **318**
+    *   Views: **48,890,335**
+    *   Followers: **642**
     
     Rank  
     15
     
     *   Bluebird Films
-    *   Videos: **75**
-    *   Views: **128,156**
-    *   Followers: **162**
-    
-    Rank  
-    17
-    
-    *   Backroom Casting Couch
-    *   Videos: **267**
-    *   Views: **139,058,891**
-    *   Followers: **553**
+    *   Videos: **76**
+    *   Views: **133,285**
+    *   Followers: **165**
 *   Pornstars
     
     Browse by
@@ -290,38 +290,38 @@ Close Try Premium Upload
     
     Trending pornstars
     
+    Rank 1
+    
+    *   Riley Reid
+    *   215 Videos
+    
     Rank 2
     
     *   Mia Khalifa
     *   125 Videos
     
-    Rank 11
+    Rank 3
     
-    *   Lisa Ann
-    *   324 Videos
+    *   Lana Rhoades
+    *   47 Videos
     
-    Rank 23
+    Rank 6
     
-    *   Madison Ivy
-    *   158 Videos
+    *   Mia Malkova
+    *   193 Videos
     
-    Rank 1
+    Rank 7
     
-    *   Riley Reid
-    *   214 Videos
-    
-    Rank 19
-    
-    *   Dillion Harper
-    *   206 Videos
+    *   Nicole Aniston
+    *   149 Videos
     
     Most Popular
     
     *   Riley Reid
     *   Mia Khalifa
     *   Lana Rhoades
-    *   Abella Danger
     *   Brandi Love
+    *   Abella Danger
 *   Get paid
 *   Live Girls
 *   FUCK NOW
@@ -332,7 +332,7 @@ Search Suggestions start typing for suggestions ... Suggested Pornstars start ty
 
 Recent Searches Clear
 
-FREE WEEK of PREMIUM No hidden fees!
+St. Patrick's Giveaway! FREE PREMIUM
 
 You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close
 
@@ -473,10 +473,9 @@ Here is a summary of how it works:
 *   VIT Users hereby acknowledge that Tube8 has no method of recovering such associated information in the event that such information is lost, misplaced, forgotten, or otherwise caused to be unavailable to any user. VIT Users hereby recognizes that Tube8 doesn’t control the VIT Platform and shall incur no responsibility whatsoever in the event of any loss (whether such loss is of material value, opportunity value, or of any other nature) resulting from misuse or malfunction of the VIT Wallet.
 *   Moreover, each VIT User personally assumes the risk of total or partial loss of digital assets stored on the VIT Wallet (with possible risks existing due to factors that are both inside and outside of the VIT User’s control) and as such, VIT Users agree to take the appropriate precautions in their use of the VIT Wallet, in accordance with their knowledge and expertise with cryptocurrency assets (and their associated storage methods), the VIT User’s won risk tolerance, and any other relevant factors.
 
-*   **Submit.** Each VIT User will be able to submit its videos uploaded on Tube8 on the VIT Platform (the “**VIT Content**”) by simply clicking the Tokken button. All VIT Content will be identified with the VIT logo.
 *   **Interact.** Each VIT User will be able to interact (liking and/or commenting, each an “**Interaction**”) with all VIT Content or other VIT User’s comments.
 *   **Use Power.** Each Interaction will use a VIT User-selected amount of “ **Power**” – ranging from 10% to 100% of the daily available Power, therefore limiting the amount of Interactions each VIT User can use each day. The more Power is used on a single Interaction, the bigger the potential reward could be.
-*   **Get Rewarded.** Each Interaction from a VIT User with any VIT Content will be rewarded with VIT to both the interacting VIT User and the VIT User that uploaded the VIT Content, depending on various aspects, notably:
+*   **Get Rewarded.** Each Interaction from a VIT User with any VIT Content will be rewarded with VIT to the interacting VIT User, depending on various aspects, notably:
 
 *   The Power each VIT User used. and
 *   The popularity of VIT User’s Interactions (for example: many ‘likes’ and comments on a VIT User’s comment or videos).
