@@ -73,8 +73,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Jordan Peele's 'Us' Frightens SXSW. Here's Everything We Know Read More
-    *   Today in Movie Culture: ‘Avengers: Endgame’ Trailer Easter Eggs, ‘Apollo 11’ Director Commentary and More Read More
-    *   Captain Marvel Returns in New ‘Avengers: Endgame’ Trailer. Here’s Everything We Know Read More
+    *   The Week in Movie News: James Gunn Returns for ‘Guardians of the Galaxy Vol. 3,’ Marvel’s ‘Shang-Chi’ Finds a Director and More Read More
+    *   Today in Movie Culture: If J. Jonah Jameson Was in ‘Avengers: Endgame,’ Actresses Almost Cast as Captain Marvel and More Read More
     
     Explore Content
     *   Movie Reviews
