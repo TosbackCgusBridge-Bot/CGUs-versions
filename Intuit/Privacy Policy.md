@@ -25,7 +25,7 @@ Shop Departments
 
 Near YouFind a StoreBack HP Video Test LOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NOWSHOP ALL
 
-*   from$639after couponWorthington Twill Ankle Pant(150)Add To Cart
+*   from$1359after couponWorthington Twill Ankle Pant(150)Add To Cart
 *   $3199after couponwas $70 Worthington Womens Classic Fit Blazer(2)Add To Cart
 *   $1599after couponwas $37 Worthington Womens Round Neck Short Sleeve Blouse(2)Add To Cart
 *   $2799after couponwas $60 Worthington Womens Midi Pleated SkirtAdd To Cart
@@ -42,12 +42,8 @@ BIGGEST WINDOW SALE OF THE SEASONSHOP ALLBIGGEST WINDOW SALE OF THE SEASONSHOP A
 *   from$16after couponwas $40 - $80 JCPenney Home Sullivan Blackout Grommet-Top Curtain Panel(40)Add To Cart
 *   from$680after couponwas $17 - $40 Home Expressions Crushed Voile Rod-Pocket Sheer Curtain Panel(955)Add To Cart
 *   from$1440after couponwas $30 - $60 JCPenney Home™ Bayview Grommet-Top Sheer Panel(231)Add To Cart
-*   LIMITED TIME SPECIAL!
-    
-    from$9 sale
-    
-    was $30 - $60 JCPenney Home Verona Grommet-Top Curtain Panel(19)Add To Cart
 *   from$1440after couponwas $30 - $80 JCPenney Home Hilton Rod-Pocket Curtain PanelAdd To Cart
+*   from$12after couponwas $25 - $55 Home Expressions Crushed Voile Grommet-Top Sheer Curtain Panel(340)Add To Cart
 
 Shop and Save at JCPenney
 
