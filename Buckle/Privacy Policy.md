@@ -23,7 +23,7 @@ Enter for your chance to win a $500 Buckle gift card. Count me in!
     *   Login
     *   |
     *   RegisterView Favorites
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY FAVORITES Login to save favorite items to your Buckle account.
     *   Login
