@@ -8,19 +8,31 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Gracia
+    *   Ramy Brook
+    *   Charles by Charles David Up to 60% Off
+    *   Dr. Scholl's &. More
+    *   On-Trend Shorts: Tie-Fronts, Denim &. More
+    *   Diesel Men's Shoes
+    *   Diesel Up to 60% Off
+    *   14K Gold Under $90
+    *   Honeydew Intimates
+    *   Luxe Skin Care Up to 90% Off
+    *   Sterling Silver &. Gemstone Jewelry from $15
+    *   Free Shipping: Storage Must-Haves from $10
+    *   Men's Accessories Up to 80% Off
+    *   Jessica Simpson Girls
+    *   Boys' Brands We Love
+    *   Girls' Brands We Love
+    *   Free Shipping: Floral Wall Art &. More
+    *   Modern Art: Metal Wall Decor
+    *   Fido Approves: Dog Bowls &. Gear
     *   MICHELE Watches
     *   Helmut Lang
     *   Embroidered Styles ft. RAGA
-    *   Beachy Keen: Maxi Dresses Incl. Plus &. Petites
-    *   Robin Piccone Swim
-    *   Vacation Bound: Espadrilles, Sandals &. More
-    *   Vacay All Day: Tops, Cropped Pants &. More
-    *   Pack These: Men's Vacation Essentials
-    *   Vacation Ready: Men's Sandals ft. Rainbow &. More
-    *   Destination Vacation: Luggage for Every Trip
-    *   Vacation Ready: Kids' Swim &. Accessories
     *   Sharagano Dresses Incl. Plus &. Petites
     *   Best of Skin Care
+    
     *   Catherine Catherine Malandrino
     *   Level Up: High-Waist Pants Incl. Plus &. Petites
     *   Juicy Couture Baby &. Girls
@@ -31,103 +43,94 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Color Pop: Resort-Ready Earrings from $15
     *   Get Active: Men's Running Shop Starting at $15
     *   Free Shipping: Professional Garment Steamers
-    
     *   SPROX
     *   French Connection Men's Shoes
-    *   Fido Approves: Dog Bowls &. Gear
     *   BCBGirls
-    *   Alexia Admor Dresses &. More
     *   Stuart Weitzman
-    *   Designer Sun Up to 75% Off
-    *   Cinq a Sept
-    *   Work Looks ft. T Tahari Incl. Plus &. Petites
-    *   cupcakes and cashmere Up to 75% Off
     *   Ben Sherman Up to 70% Off
     *   Free Shipping: Kitchen Blowout
     *   Champion
-    *   Matisse Starting at $20
     *   $22 &. Under: Tahari Girls' Shoes
     *   Bluetooth Accessories &. More Starting at $10
     *   Sovereign Code &. More Starting at $15
     *   Maison Forte
     *   Miniclasix
-    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
-    *   True Blues: Denim from $20 Incl. Plus &. Petites
     *   Men's Denim Under $60
-    *   Denim Jackets Up to 65% Off
-    
-    *   Hamilton Watches Up to 50% Off
-    *   14K Gold Steals &. More
     *   HOKA ONE ONE Men
-    *   Free Shipping: Floral Wall Art &. More
+    
     *   Skin Care Essentials Under $25
-    *   Sharpen Up: Wusthof Cutlery
-    *   On-Trend Jewelry from Lulu Frost
-    *   7 For All Mankind Men Up to 50% Off
     *   ghd
-    *   K-Beauty: 23 YEARS OLD
     *   Notable Finds: Stationery &. More Under $15
-    *   Tommy Hilfiger Men's Shoes
     *   Everyday Kitchen Storage Blowout
     *   Free Shipping: Amrapur Towels Up to 75% Off
     *   Neat Ideas: Storage, Dispensers &. More
     *   Spring Entertaining: Glassware, Decor &. More
     *   Sweet Sentiments: Spring Decor &. More
-    *   Culinary Greats: Nordic Ware Bakeware
-    *   On-the-Go Tech: Chargers, Headphones &. More
+    *   Tommy Hilfiger Men's Shoes
+    *   Beachy Keen: Maxi Dresses Incl. Plus &. Petites
+    *   Vacay All Day: Tops, Cropped Pants &. More
+    *   Vacation Bound: Espadrilles, Sandals &. More
+    *   Robin Piccone Swim
+    *   Vacation Ready: Kids' Swim &. Accessories
     *   Luseta Beauty Hair Care from $10
     *   Lighter Layers: Men's Spring Jackets
-    *   Springtime Staples: Men's Polos Under $40
-    *   Modern Art: Metal Wall Decor
+    *   Destination Vacation: Luggage for Every Trip
+    *   Vacation Ready: Men's Sandals ft. Rainbow &. More
+    *   Pack These: Men's Vacation Essentials
+    *   Culinary Greats: Nordic Ware Bakeware
+    *   Sharpen Up: Wusthof Cutlery
+    *   Cinq a Sept
+    *   Work Looks ft. T Tahari Incl. Plus &. Petites
+    *   Alexia Admor Dresses &. More
 *   WomenShop Sale Events
     
+    *   Gracia
+    *   Ramy Brook
+    *   Charles by Charles David Up to 60% Off
+    *   Dr. Scholl's &. More
+    *   On-Trend Shorts: Tie-Fronts, Denim &. More
+    *   14K Gold Under $90
+    *   Honeydew Intimates
+    *   Luxe Skin Care Up to 90% Off
+    *   Sterling Silver &. Gemstone Jewelry from $15
     *   MICHELE Watches
     *   Helmut Lang
     *   Embroidered Styles ft. RAGA
-    *   Beachy Keen: Maxi Dresses Incl. Plus &. Petites
-    *   Robin Piccone Swim
-    *   Vacation Bound: Espadrilles, Sandals &. More
-    *   Vacay All Day: Tops, Cropped Pants &. More
-    *   Destination Vacation: Luggage for Every Trip
     *   Sharagano Dresses Incl. Plus &. Petites
     *   Best of Skin Care
     *   Catherine Catherine Malandrino
     *   Level Up: High-Waist Pants Incl. Plus &. Petites
+    
     *   Thacker New York &. More
     *   Liza Schwartz Jewelry Under $75
     *   Chinese Laundry Up to 60% Off
     *   Color Pop: Resort-Ready Earrings from $15
-    *   Alexia Admor Dresses &. More
-    
     *   Stuart Weitzman
-    *   Designer Sun Up to 75% Off
+    *   Skin Care Essentials Under $25
+    *   ghd
+    *   Beachy Keen: Maxi Dresses Incl. Plus &. Petites
+    *   Vacay All Day: Tops, Cropped Pants &. More
+    *   Vacation Bound: Espadrilles, Sandals &. More
+    *   Robin Piccone Swim
+    *   Luseta Beauty Hair Care from $10
+    *   Destination Vacation: Luggage for Every Trip
     *   Cinq a Sept
     *   Work Looks ft. T Tahari Incl. Plus &. Petites
-    *   cupcakes and cashmere Up to 75% Off
-    *   Matisse Starting at $20
-    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
-    *   True Blues: Denim from $20 Incl. Plus &. Petites
-    *   Denim Jackets Up to 65% Off
-    *   Hamilton Watches Up to 50% Off
-    *   14K Gold Steals &. More
-    *   Skin Care Essentials Under $25
-    *   On-Trend Jewelry from Lulu Frost
-    *   ghd
-    *   K-Beauty: 23 YEARS OLD
-    *   Luseta Beauty Hair Care from $10
+    *   Alexia Admor Dresses &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Accessories
-    *   Watches
+    *   Lingerie
     *   Handbags
+    *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
-    *   Pack These: Men's Vacation Essentials
-    *   Vacation Ready: Men's Sandals ft. Rainbow &. More
-    *   Destination Vacation: Luggage for Every Trip
+    *   Diesel Men's Shoes
+    *   Diesel Up to 60% Off
+    *   Men's Accessories Up to 80% Off
     *   English Laundry Up to 65% Off
     *   Get Active: Men's Running Shop Starting at $15
     *   French Connection Men's Shoes
@@ -136,74 +139,77 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     
     *   Maison Forte
     *   Men's Denim Under $60
-    *   Hamilton Watches Up to 50% Off
     *   HOKA ONE ONE Men
-    *   7 For All Mankind Men Up to 50% Off
     *   Tommy Hilfiger Men's Shoes
     *   Lighter Layers: Men's Spring Jackets
-    *   Springtime Staples: Men's Polos Under $40
+    *   Destination Vacation: Luggage for Every Trip
+    *   Vacation Ready: Men's Sandals ft. Rainbow &. More
+    *   Pack These: Men's Vacation Essentials
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
-    *   Vacation Ready: Kids' Swim &. Accessories
+    *   Jessica Simpson Girls
+    *   Boys' Brands We Love
+    *   Girls' Brands We Love
     *   Juicy Couture Baby &. Girls
     *   SPROX
     *   BCBGirls
     *   Champion
     *   $22 &. Under: Tahari Girls' Shoes
     *   Miniclasix
+    *   Vacation Ready: Kids' Swim &. Accessories
     
     Shop By Category
-    *   Girls' Shoes
-    *   Baby Girl
-    *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
-    *   Baby Boy
+    *   Girls' Shoes
+    *   Girls' Sizes 2T-6X
+    *   Baby Girl
     *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
+    *   Baby Boy
     *   Boys' Shoes
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   Free Shipping: Professional Garment Steamers
+    *   Free Shipping: Storage Must-Haves from $10
+    *   Free Shipping: Floral Wall Art &. More
+    *   Modern Art: Metal Wall Decor
     *   Fido Approves: Dog Bowls &. Gear
+    *   Free Shipping: Professional Garment Steamers
     *   Free Shipping: Kitchen Blowout
     *   Bluetooth Accessories &. More Starting at $10
-    *   Free Shipping: Floral Wall Art &. More
-    *   Sharpen Up: Wusthof Cutlery
     *   Notable Finds: Stationery &. More Under $15
-    *   Everyday Kitchen Storage Blowout
     
+    *   Everyday Kitchen Storage Blowout
     *   Free Shipping: Amrapur Towels Up to 75% Off
     *   Neat Ideas: Storage, Dispensers &. More
     *   Spring Entertaining: Glassware, Decor &. More
     *   Sweet Sentiments: Spring Decor &. More
     *   Culinary Greats: Nordic Ware Bakeware
-    *   On-the-Go Tech: Chargers, Headphones &. More
-    *   Modern Art: Metal Wall Decor
+    *   Sharpen Up: Wusthof Cutlery
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
-    *   Tech Accessories
-    *   Bath
-    *   Cleaning &. Organization
+    *   Home Decor
     *   Luggage &. Travel
+    *   Cleaning &. Organization
+    *   Bath
+    *   Tech Accessories
+    *   Pet Accessories
     *   Outdoor Living
     *   Holiday Decorations
     *   Bedding
-    *   Pet Accessories
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Luxe Skin Care Up to 90% Off
     *   Best of Skin Care
     *   Skin Care Essentials Under $25
     *   ghd
-    *   K-Beauty: 23 YEARS OLD
     *   Luseta Beauty Hair Care from $10
     
     Shop By Category
