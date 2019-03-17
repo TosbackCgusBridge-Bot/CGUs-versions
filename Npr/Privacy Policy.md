@@ -3,8 +3,11 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-*   Shop
+Listen Live Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On Air Now**Toggle more player options
 
+*   Sign In
+*   Shop
+*   Donate
 *   Open Navigation Menu
 
 Close Navigation Menu
@@ -52,7 +55,7 @@ Close Navigation Menu
     
     *   More Shows &. Podcasts
 *   Search
-
+*   Sign In
 *   Shop
 
 *   Tiny Desk
@@ -405,6 +408,7 @@ Get Involved
 *   Privacy
 *   Your Privacy Choices
 *   Text Only
+*   © 2019 npr
 
 NPR thanks our sponsors
 
