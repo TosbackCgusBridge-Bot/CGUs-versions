@@ -212,17 +212,17 @@ New York, NY 10001.**
     *   Wendy’s to pay $50M in data breach settlement
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Can event-based analytics spot IP developers stealing their own assets?
+    *   Dutch Data Protection Authority chips away at 'cookie walls,' declaring they violate GDPR
+    *   Password-spraying attacks abuse IMAP to break into targets' cloud accounts
+    *   Tesla allegedly spied on and ran smear campaign on a whistleblower
+    *   Gates still helping with ongoing probes, Mueller asks for sentencing delay
     *   Berners-Lee says WWW needs bolstering against malicious cyberattacks, dysfunction
-    *   Information Technology: Leading the way
-    *   Report reveals how China leverages social media to influence U.S.
-    *   GOP senator checks FTC on 'toothless' efforts to curb Facebook, Google privacy violations
     
-    *   Researchers catch whiff of previously unknown POS sniffers and scrapers
-    *   Stolen email credentials being used to pry into cloud accounts
-    *   Belonard Trojan spread via zero days in Counter-Strike 1.6
-    *   Facebook reportedly under criminal probe for data sharing practices with 'partners'
-    *   3.14 National Pi Day: Numbers that matter for security leaders
+    *   Center for Internet Security warns of Trickbot
+    *   WordPress releases 14 fixes in latest security updates
+    *   Report: Chinese e-retailer Gearbest leaves database exposed, endangering 1.5 million records
+    *   Password-spraying attacks abuse IMAP to break into targets' cloud accounts
+    *   Understanding behavior is key to rebuffing malicious bots (Video)
 
 Back to Top
 
