@@ -62,11 +62,7 @@ AT&T Privacy Policy
 
   
 
-✕
-
-We've updated our Privacy Policy to list our advertising company Xandr as an AT&T affiliate and to clarify that the Policy considers advertising IDs as Anonymous Information when they can't be used to identify you. Learn more here.
-
-Code Snippet: Bottom Left Popup Styling Our Privacy Commitments
+Our Privacy Commitments
 
 **Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with us - including customers (wireless, Internet, digital TV, and telephone) and Web site visitors.**
 
@@ -227,6 +223,8 @@ Future Changes
 Choices &. Controls
 
 How to Contact Us
+
+Recent Updates
 
 We Want to Hear from You
 
