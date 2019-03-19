@@ -30,19 +30,19 @@ Skip to main navigation
 
 Latest Quarterly Earnings Q4 Feb 27, 2019 Q4 2018 Office Depot Inc Earnings view more Latest Quarterly Earnings Q4 Feb 27, 2019 Q4 2018 Office Depot Inc Earnings view more Investor Relations Company Profile
 
-Office Depot, Inc. (NASDAQ:ODP) is a leading provider of business services and supplies, products and technology solutions through its fully integrated omni-channel platform of approximately 1,400 stores, online presence, and dedicated sales professionals and technicians to small, medium and enterprise businesses. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, the company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit officedepot.com, download the Office Depot app on your iPhone or Android and follow @officedepot on Facebook, Twitter and Instagram.
+Office Depot, Inc. (NASDAQ:ODP) is a leading B2B integrated distribution company providing business services and supplies, productsand technology solutions through its fully integrated omni-channel platform of approximately 1,350 stores, online presence, and dedicated sales professionals and technicians to small, medium and enterprise businesses. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, the company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit news.officedepot.com and follow @officedepot on Facebook, Twitter and Instagram.
 
-Office Depot is a trademark of The Office Club, Inc. OfficeMax is a trademark of OMX, Inc. CompuCom is a trademark of CompuCom Systems, Inc. Grand&Toy is a trademark of Grand &. Toy, LLC in Canada. ©2018 Office Depot, Inc. All rights reserved. Any other product or company names mentioned herein are the trademarks of their respective owners.
+Office Depot is a trademark of The Office Club, Inc. OfficeMax is a trademark of OMX, Inc. CompuCom is a trademark of CompuComSystems, Inc.Grand&Toyis a trademark of Grand &. Toy, LLC in Canada. ©2019 Office Depot, Inc. All rights reserved. Any other product or company names mentioned herein are the trademarks of their respective owners.
 
 Stock Quote and Chart
 
 Price
 
-$3.36
+$3.47
 
 Change
 
-+0.07
++0.11
 
 Percent Change
 
