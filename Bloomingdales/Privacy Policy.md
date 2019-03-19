@@ -61,9 +61,9 @@ We're available 24 hours, 7 days a week. menu
 *   International
 *   Contact Us
 
-Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 01/30/2019 12:11 PM
+Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 03/18/2019 05:08 PM
 
-This Notice of Privacy Practices was updated on January 30, 2019.
+This Notice of Privacy Practices was updated on March 18, 2019.
 
 This Notice of Privacy Practices (“Notice”) applies to information collected, processed or stored by  Bloomingdale’s and Bloomingdale’s Outlet, online at bloomingdales.com, and via Bloomingdale’s mobile applications (e.g., Bloomingdale’s Big Brown Bag app or bloomingdales.com accessed through your mobile device) (Collectively, “Services”). This Notice describes the extent of data collection and use for these Bloomingdale’s Services.
 
@@ -189,7 +189,7 @@ At Bloomingdale’s we use two kinds of Cookies: session cookies and persistent 
 For options to manage your Cookie Preferences, click here.  If you block cookies from bloomingdales.com, you will not be able to make purchases on our websites.
 
 Website Optimization Services (ADV, OPS)  
-Bloomingdale’s shares data with IBM Digital Analytics tools to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics runs in the background of our sites analyzing site usage information and then returning reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Bloomingdale’s. Credit card or password data is not collected through IBM Digital Analytics.  
+Bloomingdale’s shares data with Adobe Analytics and IBM Digital Analytics tools to understand and optimize website performance and enhance site usability for our customers. These tools run in the background of our sites analyzing site usage information and then returning reports to us through an encrypted connection. Adobe Analytics and IBM Data Analytics are required to maintain data securely and confidentially, and are not permitted to share data collected with parties other than Bloomingdale’s. Credit card or password data is not collected through Adobe Analytics and IBM Digital Analytics.  
   
 To manage your Website Optimization Service Preferences including anonymous browsing and opt-out options, click here.    
   
@@ -318,7 +318,9 @@ To opt-out of receiving direct mail or telemarketing calls, you may contact us:
 Website &. Online Services Preferences
 
 *   *   Cookies &. Flash Cookies: Managing cookie preferences differs from browser to browser so please refer to your browser for further information. If you would like to disable cookies and web beacons, please use the help function in your web browser to restrict cookies from our website(s). If you block cookies from bloomingdales.com, you will not be able to make purchases on our website.  To manage the Flash Cookie settings and preferences for your computer, mobile phone or wireless device please click here and you will be directed to the Settings Manager on Adobe's website. You may also be able to manage Flash Cookies from your browser, depending on the version of your browser.
-    *   Website Optimization Services: You may choose to opt-out of IBM Digital Analytics' analysis of your browsing and purchasing behavior on our website, or you may choose to allow IBM Digital Analytics to analyze your behavior in a de-identified manner. Click here to learn more about your privacy preference options with respect to IBM Digital Analytics use on our site.
+    *   Website Optimization Services:
+        *   If you would like to opt-out of Adobe Analytics on a per browser basis, please click here. For more information on Adobe Analytics, click here.
+        *   You may choose to opt-out of IBM Digital Analytics' analysis of your browsing and purchasing behavior on our website, or you may choose to allow IBM Digital Analytics to analyze your behavior in a de-identified manner. Click here to learn more about your privacy preference options with respect to IBM Digital Analytics use on our site.
     *   Interest-Based Adverting: If you would like to opt-out of interest-based advertising, please click here.  Please note that you will be opted out of all interest-based advertising from all business members of the Network Advertising Initiative for that specific browser on that specific device. If you opt-out, you may continue to see or receive online advertising from Bloomingdale’s. however, these ads may not be as relevant to you.  
         Note: To opt-out of interest-based advertising in mobile applications, you can turn off mobile device ad tracking or reset the advertising identifier in your device settings.
     *   Social Network &. New Tech Advertising: You can manage your preferences for many of these advertising programs through the links provided below: 
