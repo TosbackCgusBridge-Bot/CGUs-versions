@@ -112,6 +112,7 @@ Toggle navigation
     *   Guides &. More
     *   The 5 Maintenance Skills All Homeowners Should Know
     *   First Time Home Buyer Resource Center
+    *   Mortgage Guide
     *   Veterans Home Buying Guide
     *   Real Estate Videos
     *   Housing Resources
