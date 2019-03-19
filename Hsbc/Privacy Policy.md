@@ -115,7 +115,7 @@ I accept Menu
         *   Overview
         *   Our investment case
         *   Investor factbooks
-        *   Equity analyst coverage
+        *   Consensus and analyst coverage
         *   Financial calendar
     *   Results and announcements
         *   Back
