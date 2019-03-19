@@ -13,7 +13,7 @@ Categories &. more Hi there! Did you know there is a Y8 Forum? Join other player
 
 *   New Games Next in xx:xx
 *   Best of new games 660 games
-*   Most Popular Games 18917 games
+*   Most Popular Games 18925 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more Hi there! Did you know there is a Y8 Forum? Join other player
 CATEGORIES
 
 *   Games for girls 23,776 games
-*   Driving &. Racing Games 6,795 games
-*   Strategy &. RPG Games 2,413 games
-*   Management Games 3,646 games
-*   Thinking Games 11,966 games
-*   Action &. Adventure Games 15,999 games
-*   Sports Games 2,187 games
-*   Shooting Games 8,423 games
+*   Driving &. Racing Games 6,796 games
+*   Strategy &. RPG Games 2,414 games
+*   Management Games 3,645 games
+*   Thinking Games 11,970 games
+*   Action &. Adventure Games 16,003 games
+*   Sports Games 2,189 games
+*   Shooting Games 8,422 games
 *   Fighting Games 2,097 games
 *   Skill Games 10,878 games
-*   Arcade &. Classic Games 12,790 games
+*   Arcade &. Classic Games 12,789 games
 *   Fun &. Crazy Games 2,496 games
 
 Play with friends  
-Powered by Y8 Account 140 Y8 Multiplayer Games 1,914 Y8 High Score Games 1,138 Y8 Achievements Games 808 Y8 Screenshots Games 1,411 Y8 Online Save Games 2,968 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 140 Y8 Multiplayer Games 1,919 Y8 High Score Games 1,138 Y8 Achievements Games 808 Y8 Screenshots Games 1,412 Y8 Online Save Games 2,973 All Y8 Games Games Last Highscore:
 
-**5,504** points on Orion Sandbox Enhanced by armored
+**2,388** points on Wheely by SweetBurger
 
 Help us improve Bad translation? Social
 
