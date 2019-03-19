@@ -62,8 +62,8 @@ View more results
     *   Warbanner
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Total Front: Army War Game
-    *   Klondike - the lost expedition
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
+    *   Klondike - the lost expedition
 *   Top Categories
     
     *   Boy Games
@@ -191,7 +191,7 @@ View more results
     *   Create a House: Building Game
     *   Papa's Freezeria
     *   Bartender
-    *   My Dolphin Show 7
+    *   Popstar Dentist
 *   Top Categories
     
     *   BMX Games
@@ -222,8 +222,8 @@ View more results
     *   Extreme Off-Road Cars 2
     *   Russian Car Driver
     *   Neon Biker
-    *   Parking Training
     *   Country Ride: Race Car Game
+    *   Parking Training
 *   Top Categories
     
     *   Athletics
