@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Enter for your chance to win a $500 Buckle gift card. Count me in!
+We’re giving away over 275 Buckle gift cards totaling $10,000. Enter now!
 
 *   Women
 *   Men
