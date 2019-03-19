@@ -212,17 +212,17 @@ New York, NY 10001.**
     *   Wendy’s to pay $50M in data breach settlement
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Facebook phishing campaign hitting iOS users
-    *   Senators propose they too should report when breached
-    *   Tesla allegedly spied on and ran smear campaign on a whistleblower
-    *   Companies unable to meet stringent GDPR data breach reporting requirements
-    *   Belonard Trojan spread via zero days in Counter-Strike 1.6
+    *   CEO blames unmanaged third-party code for recent attacks, data privacy scandals
+    *   Malspam campaign leverages Boeing 737 Max tragedy
+    *   Ransomware attack pays off as Delaware Guidance Services gives in to criminals
+    *   HHS operating divisions must improve security controls: OIG report
+    *   Reports: Israeli officials' devices hacked. data possessed by Iran
     
+    *   Improve cybersecurity program reporting with time-based metrics
     *   Center for Internet Security warns of Trickbot
     *   WordPress releases 14 fixes in latest security updates
     *   Report: Chinese e-retailer Gearbest leaves database exposed, endangering 1.5 million records
     *   Password-spraying attacks abuse IMAP to break into targets' cloud accounts
-    *   Understanding behavior is key to rebuffing malicious bots (Video)
 
 Back to Top
 
