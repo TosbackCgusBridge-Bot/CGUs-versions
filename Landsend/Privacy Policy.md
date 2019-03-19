@@ -5,7 +5,7 @@ skip to content skip to navigation skip to search
 *   Gift Cards
 *   Business Outfitters
 
-*   Free Shipping on $50+ Orders
+*   Free Shipping on $75+ Orders
 
 *   Call or Text 1-800-963-4816
 *   Ship To
