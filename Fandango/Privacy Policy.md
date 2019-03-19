@@ -6,37 +6,30 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Captain Marvel (2019)
+    *   Wonder Park
+    *   Five Feet Apart
     *   How to Train Your Dragon: The Hidden World
     *   Tyler Perry's A Madea Family Funeral
+    *   No Manches Frida 2
+    *   Captive State
     *   The Lego Movie 2: The Second Part
     *   Alita: Battle Angel
     *   Green Book
     *   Isn't It Romantic
-    *   Fighting with My Family
-    *   Greta (2019)
-    *   Apollo 11
-    *   What Men Want
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Captive State
-    *   Five Feet Apart
-    *   Wonder Park
-    *   The Aftermath (2019)
-    *   Ash Is Purest White (2019)
-    *   Chimera Strain
-    *   Faith, Hope &. Love
-    *   The Hummingbird Project
-    *   Iceman
-    *   The Mustang
-    *   Nancy Drew and the Hidden Staircase (2019)
+    *   Us (2019)
+    *   Fandango Early Access: Shazam!
+    *   Hotel Mumbai
+    *   Ramen Shop
+    *   Sunset (2019)
+    *   Triple Threat
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Us (2019)
-    *   Fandango Early Access: Shazam!
     *   Dumbo (2019)
     *   Unplanned (2019)
     *   The Best of Enemies
@@ -44,7 +37,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Shazam!
     *   After (2019)
     *   Hellboy (2019)
+    *   Little (2019)
     *   Missing Link (2019)
+    *   The Curse of La Llorona
     *   See All Coming Soon
     
     Explore More
@@ -72,9 +67,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Jordan Peele's 'Us' Frightens SXSW. Here's Everything We Know Read More
+    *   Check Out Brad Pitt and Leonardo DiCaprio in First 'Once Upon a Time in Hollywood’ Poster. Here's Everything We Know Read More
     *   The Week in Movie News: James Gunn Returns for ‘Guardians of the Galaxy Vol. 3,’ Marvel’s ‘Shang-Chi’ Finds a Director and More Read More
-    *   Today in Movie Culture: If J. Jonah Jameson Was in ‘Avengers: Endgame,’ Actresses Almost Cast as Captain Marvel and More Read More
+    *   Today in Movie Culture: ‘Shazam!’ Meets ‘Big,’ ‘Captain Marvel’ VFX Breakdown and More Read More
     
     Explore Content
     *   Movie Reviews
