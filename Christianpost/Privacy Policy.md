@@ -32,6 +32,7 @@ SECTIONS
 *   Church Resource
 *   Voices
 *   Video
+*   Podcast
 
 About Us
 
