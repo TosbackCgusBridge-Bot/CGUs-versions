@@ -5,7 +5,7 @@
 *   Tools
 *   Login
 
-No locations found Advertisement Your trust and privacy is of the greatest importance to Pollen.com
+No locations found Advert Your trust and privacy is of the greatest importance to Pollen.com
 
 We are committed to protecting the online privacy of our visitors' personally identifiable information. To better protect your privacy online, this statement explains our online information practices at this Web-site.
 
@@ -76,7 +76,7 @@ Plymouth Meeting, PA 19462
   
 Send us a message by clicking here.
 
-Advertisement Advertisement
+Advertisement Advert
 
 *   Home
 *   My Pollen.com
@@ -90,4 +90,4 @@ Advertisement Advertisement
 
 Copyright © 2019 IQVIA™. All rights reserved.
 
-Pollen.com and Allergy Alert are registered trademarks of IQVIA. Page last modified: 03/18/2019
+Pollen.com and Allergy Alert are registered trademarks of IQVIA. Page last modified: 03/19/2019
