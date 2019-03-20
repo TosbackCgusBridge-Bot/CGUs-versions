@@ -61,7 +61,7 @@ We're available 24 hours, 7 days a week. menu
 *   International
 *   Contact Us
 
-Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 03/18/2019 05:08 PM
+Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 03/19/2019 12:06 PM
 
 This Notice of Privacy Practices was updated on March 18, 2019.
 
