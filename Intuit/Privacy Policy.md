@@ -25,22 +25,13 @@ Shop Departments
 
 Near YouFind a StoreBack HP Video Test LOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NOWSHOP ALL
 
-*   from$1359after couponWorthington Twill Ankle Pant(150)Add To Cart
+*   from$639after couponWorthington Twill Ankle Pant(150)Add To Cart
 *   $3199after couponwas $70 Worthington Womens Classic Fit Blazer(2)Add To Cart
 *   $1599after couponwas $37 Worthington Womens Round Neck Short Sleeve Blouse(2)Add To Cart
 *   $2799after couponwas $60 Worthington Womens Midi Pleated SkirtAdd To Cart
 *   from$1439after couponWorthington Womens Sleeveless Mock Neck TopAdd To Cart
 *   from$1759after couponWorthington Womens Long Sleeve Button Cardigan(1)Add To Cart
 *   $3999after couponwas $90 Worthington Boucle JacketAdd To Cart
-
-Hot Sellers
-
-*   $1599after couponwas $55 Worthington Womens Beckwith Heeled Sandals(278)
-*   from$1919after couponwas $40 - $550 JCPenney Home™ Imperial Washable Rectangular Accent, Area &. Runner Rugs(1089)
-*   from$1439after couponwas $30 - $535 JCPenney Home™ McKenzie Washable Rectangular Rug(413)
-*   $1599after couponwas $55 Worthington Womens Kason Pumps Strap Pointed Toe Heel(14)
-*   $1759after couponwas $42 Arizona Flex Relaxed-Fit Straight Jeans(534)
-*   $1399after couponwas $50 St. John's Bay® Easy-Care Classic Flat-Front Pants(488)
 
 Shop and Save at JCPenney
 
