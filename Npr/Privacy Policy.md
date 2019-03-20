@@ -3,10 +3,10 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-Listen Live Toggle initial options for NPR audio player ****NPR 24 Hour Program Stream**On Air Now**Toggle more player options
+****NPR 24 Hour Program Stream**On Air Now**Toggle more player options ****Listen To NPR News In 5 Minutes**** Toggle more player options ****Play Live Radio**** Toggle more player options
 
 *   Sign In
-*   Shop
+*   NPR Shop
 *   Donate
 *   Open Navigation Menu
 
@@ -56,7 +56,7 @@ Close Navigation Menu
     *   More Shows &. Podcasts
 *   Search
 *   Sign In
-*   Shop
+*   NPR Shop
 
 *   Tiny Desk
 *   All Songs Considered
