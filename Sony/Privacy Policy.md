@@ -111,7 +111,7 @@ Lean More About Our MASTER Series
 
 Yep, Days Gone has Photo Mode! Here's how it works:  https://play.st/2OcEeaQ  pic.twitter.com/AFgnxuSLdl
 
-14 hours ago
+1 day ago
 
 View Tweet
 
@@ -140,7 +140,7 @@ Play "MLB® The Show™19" Only on PS4™
 
 Responsible recycling is integral at Sony, and we're proud to have received a Gold SMM Electronics Challenge Award from the @EPA last week. You can easily recycle any Sony product by visiting  http://sony.com/ecotrade  #SonyRoadToZero #ElectronicsChallenge pic.twitter.com/AzKNg4CXnX
 
-16 hours ago
+1 day ago
 
 View Tweet
 
