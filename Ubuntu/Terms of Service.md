@@ -49,7 +49,7 @@ Download Ubuntu ›
 Further reading
 
 *   The path to Ubuntu Core ›
-*   Porting Ubuntu Core 18 to Nvidia Jetson TX1 Developer Kit ›
+*   Porting Ubuntu Core 18 on Nvidia Jetson TX1 Developer Kit ›
 *   Make your snap development faster ›
 *   ROS2 launch: required nodes ›
 *   FOSDEM 2019, a recap ›
