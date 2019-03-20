@@ -209,20 +209,20 @@ New York, NY 10001.**
     *   Undisclosed number of TurboTax accounts breached
     *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Software maker Citrix hacked, business documents removed
-    *   Wendy’s to pay $50M in data breach settlement
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Wendy’s to pay $50M in data breach settlement
     
+    *   Beto O'Rourke was teen hacker in Cult of the Dead Cow
+    *   Persistence and scale signature moves of new Monero miner campaign
     *   CEO blames unmanaged third-party code for recent attacks, data privacy scandals
-    *   Malspam campaign leverages Boeing 737 Max tragedy
     *   Ransomware attack pays off as Delaware Guidance Services gives in to criminals
-    *   HHS operating divisions must improve security controls: OIG report
-    *   Reports: Israeli officials' devices hacked. data possessed by Iran
+    *   Understanding behavior is key to rebuffing malicious bots (Video)
     
-    *   Improve cybersecurity program reporting with time-based metrics
-    *   Center for Internet Security warns of Trickbot
-    *   WordPress releases 14 fixes in latest security updates
-    *   Report: Chinese e-retailer Gearbest leaves database exposed, endangering 1.5 million records
-    *   Password-spraying attacks abuse IMAP to break into targets' cloud accounts
+    *   Upgraded Cardinal RAT malware targets Israeli fintech firms
+    *   Mirai variant adds 11 news exploits, shifting focus to enterprise IoT devices
+    *   Top 12 phishing email subject lines
+    *   Norwegian aluminum producer Norsk Hydro hit by an unspecified cyberattack
+    *   Glitch exposes Sprint customer data to other users
 
 Back to Top
 
