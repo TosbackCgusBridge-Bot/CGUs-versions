@@ -395,7 +395,6 @@ New York, NY 10011
     *   LasMayores.com
     *   MLBCommunity.org
     *   AllStarGame.com
-    *   WorldSeries.com
     *   mlb.com/DR
     *   mlb.com/kids
     *   MLB Photostore
