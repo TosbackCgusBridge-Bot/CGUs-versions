@@ -67,8 +67,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Check Out Brad Pitt and Leonardo DiCaprio in First 'Once Upon a Time in Hollywood’ Poster. Here's Everything We Know Read More
-    *   The Week in Movie News: James Gunn Returns for ‘Guardians of the Galaxy Vol. 3,’ Marvel’s ‘Shang-Chi’ Finds a Director and More Read More
+    *   Ezra Miller is Writing ‘The Flash'. Here’s Everything We Know Read More
+    *   First 'Toy Story 4' Trailer Debuts. Here's Everything We Know Read More
     *   Today in Movie Culture: ‘Shazam!’ Meets ‘Big,’ ‘Captain Marvel’ VFX Breakdown and More Read More
     
     Explore Content
@@ -325,14 +325,14 @@ Offers
 
 New + Coming soon
 
-*   The Lego Movie 2: The Second Part
-*   Cold Pursuit
-*   What Men Want
-*   Isn't It Romantic
-*   Happy Death Day 2U
-*   Alita: Battle Angel
 *   How to Train Your Dragon: The Hidden World
 *   Captain Marvel (2019)
+*   Five Feet Apart
+*   Wonder Park
+*   Captive State
+*   Us (2019)
+*   Fandango Early Access: Shazam!
+*   Dumbo (2019)
 
 Experience + Explore
 
