@@ -13,7 +13,7 @@ Categories &. more Hi there! Did you know there is a Y8 Forum? Join other player
 
 *   New Games Next in xx:xx
 *   Best of new games 661 games
-*   Most Popular Games 18933 games
+*   Most Popular Games 18939 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -24,19 +24,19 @@ CATEGORIES
 *   Driving &. Racing Games 6,798 games
 *   Strategy &. RPG Games 2,414 games
 *   Management Games 3,646 games
-*   Thinking Games 11,971 games
-*   Action &. Adventure Games 16,005 games
+*   Thinking Games 11,973 games
+*   Action &. Adventure Games 16,011 games
 *   Sports Games 2,189 games
 *   Shooting Games 8,423 games
 *   Fighting Games 2,097 games
-*   Skill Games 10,882 games
+*   Skill Games 10,884 games
 *   Arcade &. Classic Games 12,790 games
 *   Fun &. Crazy Games 2,497 games
 
 Play with friends  
 Powered by Y8 Account 140 Y8 Multiplayer Games 1,924 Y8 High Score Games 1,140 Y8 Achievements Games 808 Y8 Screenshots Games 1,412 Y8 Online Save Games 2,978 All Y8 Games Games Last Highscore:
 
-**1,840** points on Taz Mechanic Simulator by narankhvv
+**17,746** points on Crime City 3D by Taufique
 
 Help us improve Bad translation? Social
 
