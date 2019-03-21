@@ -52,8 +52,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Family Barn
     *   Let's Fish!: Multiplayer Fishing Game Online
+    *   Family Barn
     *   Backgammon: Board Game Online Multiplayer
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
@@ -188,9 +188,9 @@ View more results
     *   Back To School: Princesses Rush
     *   Papa's Cupcakeria
     *   Fidget Spinner
+    *   Popstar Dentist
     *   Create a House: Building Game
     *   Papa's Freezeria
-    *   Popstar Dentist
     *   Bartender
 *   Top Categories
     
@@ -266,9 +266,9 @@ View more results
     
     Recommended Games
     
-    *   Star Stable
     *   Wizard 101
     *   Game of Thrones
+    *   Star Stable
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
