@@ -25,7 +25,7 @@ Skip to main content
     30/36 est MPG3 Build Specials
 *   $18,550 as shown1 2019 Yaris $15,450 starting1  
     32/40 est MPG28 Build Specials
-*   Hybrid Available $23,950 as shown1 All-New 2020 Corolla $19,500 starting1  
+*   Hybrid Available $25,450 as shown1 All-New 2020 Corolla $19,500 starting1  
     31/38 est MPG32 Build Specials
 *   Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
     53/52 est MPG31 Build Specials
@@ -126,7 +126,7 @@ View All Vehicles
 
 Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1  
 30/36 est MPG3 $18,550 as shown1 2019 Yaris $15,450 starting1  
-32/40 est MPG28 Hybrid Available $23,950 as shown1 All-New 2020 Corolla $19,500 starting1  
+32/40 est MPG28 Hybrid Available $25,450 as shown1 All-New 2020 Corolla $19,500 starting1  
 31/38 est MPG32 Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
 53/52 est MPG31 $24,090 as shown1 All-New 2019 Corolla Hatchback $19,990 starting1  
 30/38 est MPG25 Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
@@ -292,9 +292,11 @@ Toyota Vehicles
     
 *   Hatchback Cars  
     
-*   Fuel-Efficient SUVs  
+*   Fuel-Efficient Cars  
     
 
+*   Fuel-Efficient SUVs  
+    
 *   Cars Under $20,000  
     
 *   Cars Under $25,000  
@@ -317,9 +319,9 @@ Toyota Vehicles
     
 *   4-Door Sedans  
     
+
 *   2-Door Cars  
     
-
 *   All-Wheel-Drive Vehicles  
     
 *   Cars for Teenagers  
