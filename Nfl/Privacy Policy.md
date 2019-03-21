@@ -44,7 +44,7 @@
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
-Updated: December 20, 2018**  
+Updated: March 20, 2019**  
 
   
 
@@ -216,9 +216,7 @@ NFL International LLC is the data controller for processing personal information
 *   to produce, exhibit, advertise or otherwise use your image, voice or likeness in any and all media now or existing in future as part of NFL's commercial, advertising and marketing activities. and
 *   in the case of images or footage captured on CCTV cameras, to ensure the safety of the venues hosting NFL Events and of individuals attending NFL Events.
 
-**Legal Basis for Data Processing:** We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal data includes processing that is: necessary for the performance of the contract between you and the NFL (for example, to provide you with the Services you request and to identify and authenticate you so you may use the website). necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement as well as to ensure your safety and the safety of our venues if you attend an NFL Event). necessary for our legitimate interests (for example, to manage our relationship with you and to improve the website and our Services, and for NFL's commercial, advertising and marketing activities). **and based on consent by our customers (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time (by emailing GDPR@nfl.com) without affecting the lawfulness of processing based on consent before its withdrawal.**  
-  
-In some instances, you may be required to provide us with Personal Data for processing as described above, in order for us to be able to provide you all of our Services, and for you to use all the features of our website.
+**Legal Basis for Data Processing:** We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal data includes processing that is: necessary for the performance of the contract between you and the NFL (for example, to provide you with the Services you request and to identify and authenticate you so you may use the website). necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement as well as to ensure your safety and the safety of our venues if you attend an NFL Event). necessary for our legitimate interests (for example, to manage our relationship with you and to improve the website and our Services, and for NFL's commercial, advertising and marketing activities). and based on consent by our customers (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time (by submitting through our standard Data Rights Request Form, available at https://digitalcare.nfl.com/hc/en-us/requests/new?ticket\_form\_id=360000328793) without affecting the lawfulness of processing based on consent before its withdrawal.
 
 **Automated Decision-Making:** We use automated decision-making technologies, including profiling, to support our data processing activities. Our automated decision-making capabilities include logic that will send triggered messages based on fan data or behaviour. By using this logic, it helps us provide a better fan experience or you, this means that receiving messages based on data you have provided (for example a birthday email) or a behaviour (watching a video).
 
@@ -228,8 +226,8 @@ Please also note that broadcasters and other third parties that are unconnected 
 
 **Transfers**: When we transfer your Personal Data to third parties as described in this Privacy Policy, some of these parties (for example, many members of the NFL Family) may be located in countries, such as the United States, other than your own, whose privacy and data protection laws may not be equivalent to those in your country of residence. When we transfer your personal information to other countries, including the United States, we apply appropriate safeguards, to protect your information and comply with applicable laws. For example, we implement measures such as standard data protection contractual clauses to ensure that any transferred Personal Data, remains protected and secure. A copy of these clauses can be obtained by emailing enquiries@nfl.com.
 
-**Your Rights:** You may be entitled, in accordance with applicable law, to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, of (e.g. if your Personal Data changes or is out of date), erasure of and portability of your own Personal Data in certain circumstances. Requests should be submitted by contacting us by emailing GDPR@nfl.com.  
-  
+**Your Rights:** You may be entitled, in accordance with applicable law, to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, of (e.g. if your Personal Data changes or is out of date), erasure of and portability of your own Personal Data in certain circumstances. Requests should be submitted through our standard Data Rights Request Form, available at https://digitalcare.nfl.com/hc/en-us/requests/new?ticket\_form\_id=360000328793.
+
 If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. You may lodge a complaint with your local supervisory authority if you consider that our processing of your Personal Data infringes applicable law.
 
 **16\. Contact Us**
