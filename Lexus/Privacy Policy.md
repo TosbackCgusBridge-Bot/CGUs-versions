@@ -146,7 +146,7 @@ COMPARE **RC**
 **RC F**
 
 *   Starting at $64,7501\*
-*   467-HP3\* 5.0L V8
+*   472-HP3\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -222,7 +222,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **RC F**
 
 *   Starting at $64,7501\*
-*   467-HP3\* 5.0L V8
+*   472-HP3\* 5.0L V8
 
 *   Build
 *   Current Offers
