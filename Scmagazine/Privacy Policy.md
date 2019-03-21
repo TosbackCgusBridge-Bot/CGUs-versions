@@ -212,17 +212,17 @@ New York, NY 10001.**
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Wendy’s to pay $50M in data breach settlement
     
-    *   Beto O'Rourke was teen hacker in Cult of the Dead Cow
-    *   Persistence and scale signature moves of new Monero miner campaign
+    *   Stolen email credentials being used to pry into cloud accounts
     *   CEO blames unmanaged third-party code for recent attacks, data privacy scandals
-    *   Ransomware attack pays off as Delaware Guidance Services gives in to criminals
-    *   Understanding behavior is key to rebuffing malicious bots (Video)
+    *   Reports: Israeli officials' devices hacked. data possessed by Iran
+    *   Norwegian aluminum producer Norsk Hydro hit by an unspecified cyberattack
+    *   Improve cybersecurity program reporting with time-based metrics
     
+    *   Mozilla's latest Firefox releases fix 22 vulnerabilities
+    *   Google Photos bug leaked location history
+    *   How we got SOC 2 certified in less than 6 months - and how you can too
     *   Upgraded Cardinal RAT malware targets Israeli fintech firms
     *   Mirai variant adds 11 news exploits, shifting focus to enterprise IoT devices
-    *   Top 12 phishing email subject lines
-    *   Norwegian aluminum producer Norsk Hydro hit by an unspecified cyberattack
-    *   Glitch exposes Sprint customer data to other users
 
 Back to Top
 
