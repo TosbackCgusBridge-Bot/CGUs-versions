@@ -69,7 +69,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Ezra Miller is Writing ‘The Flash'. Here’s Everything We Know Read More
     *   First 'Toy Story 4' Trailer Debuts. Here's Everything We Know Read More
-    *   Today in Movie Culture: ‘Shazam!’ Meets ‘Big,’ ‘Captain Marvel’ VFX Breakdown and More Read More
+    *   Everything We Know About Quentin Tarantino's 'Once Upon A Time In Hollywood' Read More
     
     Explore Content
     *   Movie Reviews
@@ -318,9 +318,9 @@ Offers
     
     Get FREE Shazam! digital Comic Books from DC with ticket purchase! BUY TICKETS
     
-*   Fandango VIP
+*   Every 4 Tickets = $5 For You
     
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
     
 
 New + Coming soon
