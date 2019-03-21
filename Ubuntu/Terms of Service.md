@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Design and Web team summary – 15 March 2019 ›
+*   Debug ACPI DSDT and SSDT with ACPICA Utilities ›
 *   The path to Ubuntu Core ›
+*   Vertical rhythm and spacing in Vanilla Framework 2.0 ›
 *   Porting Ubuntu Core 18 on Nvidia Jetson TX1 Developer Kit ›
-*   Make your snap development faster ›
-*   ROS2 launch: required nodes ›
-*   FOSDEM 2019, a recap ›
