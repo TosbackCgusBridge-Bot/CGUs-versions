@@ -8,7 +8,7 @@ UIA
     *   Additional Services
     *   About
     *   Contact
-    *   Payment
+    *   Make a Payment
 *   Call 800-982-6898
 
 *   Ultimate Internet Access, Inc. Southern California’s Fastest and Friendliest Fiber Optic Internet Provider
@@ -86,7 +86,7 @@ Helendale Office**
 Wrightwood, CA 92397  
 760.530.6113
 
-*   Payment
+*   Make a Payment
 *   Privacy Policy
 
 Copyright © 2019 Ultimate Internet Access, Inc. All rights reserved.
