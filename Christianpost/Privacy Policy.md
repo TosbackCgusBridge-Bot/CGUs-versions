@@ -56,7 +56,6 @@ Stay Connected
 *   Media Kit
 *   Archives
 *   Corrections
-*   Careers
 
 Follow Us
 
