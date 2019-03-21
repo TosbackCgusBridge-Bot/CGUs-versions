@@ -1,6 +1,6 @@
 Skip to main content.English (United States)USD
 
-Book online or call 866-538-6164This call is free. 24 hours a day. 7 days a week.
+Book online or call 800-246-8357This call is free. 24 hours a day. 7 days a week.
 
 Menu
 
