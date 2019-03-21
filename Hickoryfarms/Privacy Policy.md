@@ -9,9 +9,10 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Spring
-    *   Game Day
-    *   Birthday GiftsMost Popular Spring Gifts Birthday Gifts
+    Occasions*   Easter
+    *   Birthday Gifts
+    *   Spring
+    *   Game DayMost Popular Easter Gifts Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -89,9 +90,10 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Spring
-    *   Game Day
-    *   Birthday GiftsMost Popular Spring Gifts Birthday Gifts
+    Occasions*   Easter
+    *   Birthday Gifts
+    *   Spring
+    *   Game DayMost Popular Easter Gifts Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -203,4 +205,32 @@ Contact Us
 *   1.800.753.8558
 *   Employment
 
-Find A Store © 2019 ALL RIGHTS RESERVED. PRIVACY POLICY TERMS OF USE SITE MAP close
+Find A Store © 2019 ALL RIGHTS RESERVED. PRIVACY POLICY TERMS OF USE SITE MAP close Enjoy 10% OFF
+
+on your next purchase when you sign up for exclusive email offers and gift ideas.
+
+Enter Your Email Address
+
+Subscribe
+
+See our Privacy Policy
+
+Applies to new email subscribers only. Offer will be delivered to your email address.
+
+Thank you!
+
+%%Email Address%%
+
+is now subscribed.
+
+Check your email for your exclusive offer!
+
+Sorry, this offer is just for new subscribers!
+
+%%Email Address%%
+
+is already subscribed.
+
+Watch your inbox to be the first to get exclusive Hickory Farms email offers!
+
+Play IconFeedback Address Verification close
