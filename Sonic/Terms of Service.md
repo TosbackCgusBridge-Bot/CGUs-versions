@@ -1,4 +1,4 @@
-From SonicWiki Jump to: navigation, search Contents
+From SonicWiki Jump to: navigation, search Contents \[hide\] 
 
 *   1 Sonic.net Policies
     *   1.1 Sonic.net, Inc. General Policy
@@ -22,8 +22,15 @@ From SonicWiki Jump to: navigation, search Contents
     *   1.11 Bandwidth and Disk use quotas
     *   1.12 Digital Millennium Copyright Act
     *   1.13 Billing Policy
-    *   1.14 Equipment Policy
-    *   1.15 Legal Process Policy
+    *   1.14 Promotion Policy
+    *   1.15 Equipment Policy
+    *   1.16 Sonic Wire Plan
+    *   1.17 Installation Policy
+    *   1.18 Legal Process Policy
+    *   1.19 Regulatory
+    *   1.20 Terms and Conditions of Global Calling
+        *   1.20.1 Normal, Reasonable Residential Use:
+        *   1.20.2 Impermissible Use:
 
 Sonic.net Policies Sonic.net, Inc. General Policy
 
@@ -141,17 +148,57 @@ Billing Policy
 
 Billing Policy
 
+Promotion Policy
+
+Promotion Policy
+
 Equipment Policy
 
 Equipment Policy
+
+Sonic Wire Plan
+
+Sonic Wire Plan
+
+Installation Policy
+
+Installation Policy
 
 Legal Process Policy
 
 Legal Process Policy
+
+Regulatory
+
+CA Price Guide - Local Exchange Services
+
+Terms and Conditions of Global Calling
+
+Sonic’s Global Calling feature is for normal residential use only and can’t be used for commercial or other special purposes. Global Calling is subject to reasonable use parameters as determined by Sonic. Customers are liable for all charges incurred from fraudulent use.
+
+Normal, Reasonable Residential Use:
+
+Sonic's residential unlimited voice plan and features are for residential members and are based on usage patterns of the average residential customer.
+
+Impermissible Use:
+
+Each of the following is impermissible under Sonic’s residential unlimited voice plan and considered outside of normal residential customer usage:
+
+• Sharing or reselling features
+
+• operating a business, even if operating from the residence
+
+• operating any other enterprise, including not-for-profit or governmental
+
+• operating a call center
+
+• automated dialing
+
+• telemarketing or bulk faxing
 
 Pages in category "Policies"
 
-The following 6 pages are in this category, out of 6 total.
+The following 10 pages are in this category, out of 10 total.
 
 B
 
@@ -161,6 +208,14 @@ D
 
 *   Dmca
 
+E
+
+*   Equipment Policy
+
+J
+
+*   Jobs FAQ
+
 L
 
 *   Legal Process Policy
@@ -169,6 +224,10 @@ O
 
 *   Open Internet Principals
 
+P
+
+*   Promotion Policy
+
 Q
 
 *   Quotas
@@ -176,5 +235,6 @@ Q
 S
 
 *   Software Disclaimer
+*   Sonic Wire Plan
 
-Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=4475"
+Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=6513"
