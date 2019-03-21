@@ -14,8 +14,16 @@ Skip to content Skip to navigation × cancel Country/Region &. Language Selector
     *   Communication Choices
 *   Contact Us
     *   Contact Us
+*   News
+    *   News
 
-Search Privacy Policy
+Search News
+
+The Walt Disney Company has acquired certain 21st Century Fox businesses.  Read important updates under **News** below.
+
+Learn More
+
+News Privacy Policy
 
 The Walt Disney Company has a rich tradition of bringing great stories, characters, and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that we have to offer on the platforms and devices our guests prefer.  When our guests use our sites and applications, we may obtain data from and about guests and their devices. We are dedicated to treating your personal information with care and respect. Our privacy policy is designed to provide transparency into our privacy practices and principles in a format that our guests can navigate, read and understand.  Our policy explains:
 
