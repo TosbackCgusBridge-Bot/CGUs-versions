@@ -178,7 +178,7 @@ Copyright All Rights Reserved © 2008-2019
 
 The Right Content
 
-Food truck succulents 8-bit shaman kinfolk, franzen affogato pour-over knausgaard sriracha kombucha quinoa heirloom woke glossier. Ugh paleo listicle fam master cleanse before they sold out.
+Using the Tealium Universal Data Hub, we’ve compiled your content topic and medium preferences based on your previous interactions with our digital properties.
 
 X
 
@@ -198,14 +198,8 @@ Here we are using a reverse IP address lookup service to reveal a visitor’s in
 
 Healthcare
 
-Airlines
-
 Retail
 
 Financial
-
-Financial
-
-Health/Beauty
 
 X This website uses cookies. By using our services, you agree to our use of cookies. Accept Learn More
