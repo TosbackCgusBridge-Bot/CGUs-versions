@@ -70,7 +70,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 4% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -100,7 +100,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-4% 
+2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -146,7 +146,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-4% 
+2% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -176,7 +176,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-4% 
+2% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -261,7 +261,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 4% 
+Facebook 2% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -321,7 +321,7 @@ Facebook 4% 
     
 *   Show Less ...
 
-Twitter 4% 
+Twitter 2% 
 
 *   CMSGov - CMSGov
     
@@ -367,7 +367,7 @@ Twitter 4% 
     
 *   Show Less ...
 
-Instagram 4% 
+Instagram 2% 
 
 *   privacy policy - privacypolice1
     
@@ -413,7 +413,7 @@ Instagram 4% 
     
 *   Show Less ...
 
-Myspace 4% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -437,7 +437,7 @@ Myspace 4% 
     
 *   Show Less ...
 
-Google+ 4% 
+Google+ 2% 
 
 *   Lauren Weinstein
     
@@ -479,12 +479,12 @@ Google+ 4% 
     
 *   Show Less ...
 
-Pinterest 13% 
+Pinterest 2% 
 
 *   The Home Depot (homedepot) - homedepot
     
 
-Wikipedia 4% 
+Wikipedia 2% 
 
 *   Privacy policy
     
@@ -499,7 +499,7 @@ Wikipedia 4% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Music 4% 
+Music 2% 
 
 *   Pandora
     
@@ -541,7 +541,7 @@ Music 4% 
     
 *   Show Less ...
 
-Web Search 4% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -587,15 +587,15 @@ Web Search 4% 
     
 *   Show Less ...
 
-Images 4% 
+Images 2% 
 
-3
-
-20
+9
 
 20
 
-7
+20
+
+9
 
 facebookx
 
