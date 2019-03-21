@@ -25,13 +25,22 @@ Shop Departments
 
 Near YouFind a StoreBack HP Video Test LOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NOWSHOP ALL
 
-*   from$639after couponWorthington Twill Ankle Pant(150)Add To Cart
+*   from$639after couponWorthington Twill Ankle Pant(151)Add To Cart
 *   $3199after couponwas $70 Worthington Womens Classic Fit Blazer(2)Add To Cart
 *   $1599after couponwas $37 Worthington Womens Round Neck Short Sleeve Blouse(2)Add To Cart
 *   $2799after couponwas $60 Worthington Womens Midi Pleated SkirtAdd To Cart
 *   from$1439after couponWorthington Womens Sleeveless Mock Neck TopAdd To Cart
 *   from$1759after couponWorthington Womens Long Sleeve Button Cardigan(1)Add To Cart
 *   $3999after couponwas $90 Worthington Boucle JacketAdd To Cart
+
+Hot Sellers
+
+*   $1920after couponwas $30 Stafford® 4-pk. Heavyweight Crewneck T-Shirts(681)
+*   from$1919after couponwas $40 - $550 JCPenney Home™ Imperial Washable Rectangular Accent, Area &. Runner Rugs(1089)
+*   $1440after couponwas $30 Liz Claiborne Womens V Neck 3/4 Sleeve Knit Blouse
+*   $1999after couponwas $50 Stafford Travel Easy-Care Stretch Broadcloth Big And Tall Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt
+*   $1999after couponwas $50 Arizona Forum Womens Footbed Sandals(1)
+*   $1599after couponwas $55 Worthington Womens Zoe Pumps Slip-on Closed Toe Stiletto Heel(2)
 
 Shop and Save at JCPenney
 
