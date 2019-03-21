@@ -52,6 +52,7 @@
     *   CIT Bank
     *   Synchrony Bank
     *   Barclays Bank
+    *   All Bank Reviews
 *   Credit Cards Compare by Category
     
     *   Best Credit Cards of 2019
@@ -422,7 +423,6 @@ California privacy rights requests must include the reference “Request for Cal
 *   Popular Topics
 *   Glossary
 *   Compare Rates
-*   Bank Reviews
 
 *   Understand Bankrate's Averages
 *   Privacy Policy / Your California Privacy Rights
