@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: September 10, 2018
+Effective Date: March 21, 2019
 
   
 
@@ -111,7 +111,7 @@ If you are a member of a prescription drug plan ("Plan") managed by CVS/caremark
   
 Links
 
-The Services may contain links to, or otherwise make available, third-party websites, services, or other resources not operated by us or on our behalf ("Third Party Services"). These links are provided as a convenience only and do not constitute an affiliation with, endorsement or sponsorship of the Third Party Services. In particular, you acknowledge that photo processing and order pick-up or delivery services provided in connection with the Services are provided by, respectively, Snapfish and Curbside, or other third parties, and not by CVS. Any information you provide to such third parties is not subject to the terms of this Privacy Policy, and we are not responsible for the privacy or security of the information you provide to them or their handling of your information. We recommend that you review the privacy policy of any third party to whom you provide personal information online.
+The Services may contain links to, or otherwise make available, third-party websites, services, or other resources not operated by us or on our behalf ("Third Party Services"). These links are provided as a convenience only and do not constitute an affiliation with, endorsement or sponsorship of the Third Party Services. In particular, you acknowledge that photo processing, contact lenses and glasses, and order pick-up or delivery services provided in connection with the Services are provided by, respectively, Snapfish, Premium Vision, and Curbside, or other third parties, and not by CVS. Any information you provide to such third parties is not subject to the terms of this Privacy Policy, and we are not responsible for the privacy or security of the information you provide to them or their handling of your information. We recommend that you review the privacy policy of any third party to whom you provide personal information online.
 
   
 
@@ -242,7 +242,7 @@ If you are a minor, you may remove or request removal of any content or informat
   
 Your California Privacy Rights
 
-If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at privacy.officer@cvshealth.com.
+If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at retailprivacy@cvshealth.com.
 
   
 Your Responsibility
