@@ -67,8 +67,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Ezra Miller is Writing ‘The Flash'. Here’s Everything We Know Read More
-    *   First 'Toy Story 4' Trailer Debuts. Here's Everything We Know Read More
+    *   ‘Godzilla: King of the Monsters’ Set Visit: 10 Things You Need to Know About the Sequel Read More
+    *   Today in Movie Culture: How Jordan Peele Transitioned From Comedy to Horror, Nicolas Cage in ‘Avengers: Endgame’ and More Read More
     *   Everything We Know About Quentin Tarantino's 'Once Upon A Time In Hollywood' Read More
     
     Explore Content
