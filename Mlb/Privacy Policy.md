@@ -105,7 +105,6 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   MLB Home Run Derby
     *   MLB Beat the Streak
     *   MLB Line Drive
-    *   MLB Franchise MVP
     *   MLB At Bat FAQs
     *   MLB Ballpark FAQs
 *   Shop Shop US Shop
@@ -144,11 +143,10 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   PhotosAuctions
 *   Auction
 *   Fantasy Fantasy Fantasy
-    *   Beat the Streak
-    *   R.B.I. Baseball 18
+    *   MLB Beat the Streak
+    *   R.B.I. Baseball 19
     *   MLB Home Run Derby
     *   MLB Line Drive
-    *   MLB Franchise MVP
     *   Player News &. Updates
     *   Closer Report
     *   Injury Report
