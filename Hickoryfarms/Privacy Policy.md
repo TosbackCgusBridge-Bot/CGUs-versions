@@ -233,4 +233,4 @@ is already subscribed.
 
 Watch your inbox to be the first to get exclusive Hickory Farms email offers!
 
-Play IconFeedback Address Verification close
+Play IconFeedback
