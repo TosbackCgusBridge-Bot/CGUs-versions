@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $99See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -25,9 +25,9 @@ Shop Departments
 
 Near YouFind a StoreBack HP Video Test LOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NOWSHOP ALL
 
-*   from$639after couponWorthington Twill Ankle Pant(151)Add To Cart
+*   from$1359after couponWorthington Twill Ankle Pant(151)Add To Cart
 *   $3199after couponwas $70 Worthington Womens Classic Fit Blazer(2)Add To Cart
-*   $1599after couponwas $37 Worthington Womens Round Neck Short Sleeve Blouse(2)Add To Cart
+*   $1599after couponwas $37 Worthington Womens Round Neck Short Sleeve Blouse(3)Add To Cart
 *   $2799after couponwas $60 Worthington Womens Midi Pleated SkirtAdd To Cart
 *   from$1439after couponWorthington Womens Sleeveless Mock Neck TopAdd To Cart
 *   from$1759after couponWorthington Womens Long Sleeve Button Cardigan(1)Add To Cart
@@ -35,12 +35,18 @@ Near YouFind a StoreBack HP Video Test LOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NO
 
 Hot Sellers
 
-*   $1920after couponwas $30 Stafford® 4-pk. Heavyweight Crewneck T-Shirts(681)
-*   from$1919after couponwas $40 - $550 JCPenney Home™ Imperial Washable Rectangular Accent, Area &. Runner Rugs(1089)
-*   $1440after couponwas $30 Liz Claiborne Womens V Neck 3/4 Sleeve Knit Blouse
-*   $1999after couponwas $50 Stafford Travel Easy-Care Stretch Broadcloth Big And Tall Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt
-*   $1999after couponwas $50 Arizona Forum Womens Footbed Sandals(1)
+*   from$1599after coupona.n.a Joy Womens Slip-on Round Toe Ballet Flats(15)
+*   $3699 sale
+    
+    was $62 | 40% offDockers® Classic Fit Signature Khaki Pants - Pleated D3(274)
 *   $1599after couponwas $55 Worthington Womens Zoe Pumps Slip-on Closed Toe Stiletto Heel(2)
+*   $1599after couponwas $55 Worthington Womens Beckwith Heeled Sandals(278)
+*   LIMITED TIME SPECIAL!
+    
+    $25 sale
+    
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Stud Earrings in Sterling Silver(158)
+*   $1759after couponwas $42 Arizona Basic Original Bootcut Jeans(588)
 
 Shop and Save at JCPenney
 
