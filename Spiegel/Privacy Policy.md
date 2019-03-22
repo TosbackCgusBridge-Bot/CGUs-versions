@@ -13,10 +13,10 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   21\. März 2019
+*   22\. März 2019
 *   Abo
 *   TV-Programmǀ
-*   DAX 11.603,89ǀ
+*   DAX 11.549,96ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
