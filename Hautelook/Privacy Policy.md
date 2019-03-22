@@ -8,147 +8,141 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Dolce Vita Swim
-    *   Festival Ready: Sunnies Under $40
-    *   Hit the Grounds: Sandals, Booties &. More
-    *   Cover-Ups ft. Boho Me
-    *   Festival Fever: Boho Tops, Dresses &. More
-    *   Rhythm Swim
-    *   Festival Essentials: Bags, Bottles, Tech &. More
-    *   Festival Weekend: Men's Clothing &. Accessories
-    *   Most-Wanted Lineup: Men's Sneakers &. More
-    *   Festival Bound: Girls' Boho Styles
-    *   Movado Watches
-    *   Dolce Vita
+    *   Vince Up to 55% Off
+    *   IPPOLITA Fine Jewelry
+    *   Vince Shoes Up to 50% Off
+    *   Vince Men's Clothing &. Shoes Up to 50% Off
+    *   J.O.A. &. Moon River
+    *   Full-Fit Faves ft. Curvy Couture Up to 60% Off
+    *   Spring Denim Under $50
+    *   Weekend-Ready Espadrilles, Sneakers &. More
+    *   Spring Tops ft. Ro &. De
+    *   Made in Italy: 14K Gold &. Sterling from $15
+    *   Korean Beauty: Leaders Cosmetics from $10
+    *   Men's Denim Shop Under $50
+    *   Stock the Bar: Glasses &. More
+    *   Whimsical Finds ft. Anthropologie Home &. More
+    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
+    *   Feeding Sets &. More ft. Bumkins
     *   Johnny Was
+    *   Dolce Vita
+    *   Dolce Vita Swim
     *   Show Me Your Mumu Up to 65% Off
     *   CODEXMODE
     *   TARA Pearls: Tahitian &. Akoya Jewelry
     *   Breeze into Spring: Wide Leg Pants &. More
+    
+    *   Meghan LA
     *   jane iredale
+    *   Lush
     *   Betsey Johnson Girls
     *   Carlos by Carlos Santana
     *   Men's Golf Shop ft. Callaway
     *   Madden Girl &. More: Handbags Under $50
     *   Tailored Perfection: Suits Under $250
-    *   Croscill Bedding
-    
     *   Sovereign Code Kids
     *   Dolce Vita Girls
+    *   Best-Selling Steals: Kitchen, Decor &. More
+    *   Croscill Bedding
     *   Free Shipping: Candles &. Diffusers
     *   Perfect Sets for Kids Under $25
-    *   Best-Selling Steals: Kitchen, Decor &. More
     *   UGG
     *   UGG Kids
-    *   UGG Men's Shoes &. More
-    *   Meghan LA
-    *   UGG Home Up to 50% Off
     *   UGG Sleep
-    *   Emory Park
-    *   Top of the Crop: Spring Style Must-Haves
+    *   UGG Men's Shoes &. More
+    *   UGG Home Up to 50% Off
     *   Michou Gemstone &. Sterling Silver Jewelry
     *   Isaac Mizrahi
-    *   Kiehl's Since 1851
-    *   Summer Stock-Up: Sandals from $20
     *   Maceoo
     *   Keep It Cool: Men's Short Sleeve Button-Ups
+    
     *   Slumber Party: Kids' Character Pajamas &. More
     *   Throw on and Go: Jumpsuits &. Rompers
-    *   tarte Cosmetics
-    *   Brooks Brothers
     *   Set the Table: Barware, Dinnerware &. More
-    
     *   SUPRA Men Up to 55% Off
-    *   aden + anais
-    *   Confetti Accessories ft. Mickey &. Minnie
-    *   Men's Shoes Up to 60% Off
-    *   Quirky Kitchen Towels
-    *   Steve Madden Men Starting at $25
-    *   Free Shipping: Contemporary Lamps &. More
-    *   Luxe Skin Care Up to 90% Off
-    *   Free Shipping: Storage Must-Haves from $10
-    *   Dresses ft. Eliza J &. More Incl. Plus &. Petites
-    *   SPANX
-    *   Denim ft. Hudson Jeans Incl. Plus &. Petites
-    *   Fido Approves: Dog Bowls &. Gear
-    *   Andrew Marc Men's Outerwear
     *   Free Shipping: Storage Up to 65% Off
+    *   Free Shipping: Contemporary Lamps &. More
+    *   Quirky Kitchen Towels
+    *   Free Shipping: Professional Garment Steamers
+    *   Fido Approves: Dog Bowls &. Gear
     *   Hair Care Essentials
     *   Free Shipping: Wall Murals &. More
-    *   Free Shipping: Kitchen Blowout
     *   Cuisinart
-    *   Lush
-    *   Free Shipping: Professional Garment Steamers
-    *   Bluetooth Accessories &. More Starting at $10
-*   WomenShop Sale Events
-    
-    *   Dolce Vita Swim
-    *   Festival Ready: Sunnies Under $40
-    *   Hit the Grounds: Sandals, Booties &. More
-    *   Cover-Ups ft. Boho Me
+    *   Festival Bound: Girls' Boho Styles
     *   Festival Fever: Boho Tops, Dresses &. More
     *   Rhythm Swim
-    *   Movado Watches
-    *   Dolce Vita
+    *   Cover-Ups ft. Boho Me
+    *   Festival Essentials: Bags, Bottles, Tech &. More
+    *   Free Shipping: Storage Must-Haves from $10
+    *   Festival Ready: Sunnies Under $40
+    *   Hit the Grounds: Sandals, Booties &. More
+    *   Most-Wanted Lineup: Men's Sneakers &. More
+    *   Festival Weekend: Men's Clothing &. Accessories
+    *   tarte Cosmetics
+*   WomenShop Sale Events
+    
+    *   Vince Up to 55% Off
+    *   IPPOLITA Fine Jewelry
+    *   Vince Shoes Up to 50% Off
+    *   J.O.A. &. Moon River
+    *   Full-Fit Faves ft. Curvy Couture Up to 60% Off
+    *   Spring Denim Under $50
+    *   Weekend-Ready Espadrilles, Sneakers &. More
+    *   Spring Tops ft. Ro &. De
+    *   Made in Italy: 14K Gold &. Sterling from $15
+    *   Korean Beauty: Leaders Cosmetics from $10
     *   Johnny Was
+    *   Dolce Vita
+    *   Dolce Vita Swim
     *   Show Me Your Mumu Up to 65% Off
     *   CODEXMODE
     *   TARA Pearls: Tahitian &. Akoya Jewelry
     *   Breeze into Spring: Wide Leg Pants &. More
+    
+    *   Meghan LA
     *   jane iredale
+    *   Lush
     *   Carlos by Carlos Santana
     *   Madden Girl &. More: Handbags Under $50
-    
     *   UGG
-    *   Meghan LA
     *   UGG Sleep
-    *   Emory Park
-    *   Top of the Crop: Spring Style Must-Haves
     *   Michou Gemstone &. Sterling Silver Jewelry
-    *   Kiehl's Since 1851
-    *   Summer Stock-Up: Sandals from $20
     *   Throw on and Go: Jumpsuits &. Rompers
-    *   tarte Cosmetics
-    *   Luxe Skin Care Up to 90% Off
-    *   Dresses ft. Eliza J &. More Incl. Plus &. Petites
-    *   SPANX
-    *   Denim ft. Hudson Jeans Incl. Plus &. Petites
     *   Hair Care Essentials
-    *   Lush
+    *   Festival Fever: Boho Tops, Dresses &. More
+    *   Rhythm Swim
+    *   Cover-Ups ft. Boho Me
+    *   Festival Ready: Sunnies Under $40
+    *   Hit the Grounds: Sandals, Booties &. More
+    *   tarte Cosmetics
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie
-    *   Handbags
-    *   Watches
+    *   Jewelry
     *   Accessories
+    *   Handbags
 *   MenShop Sale Events
     
-    *   Festival Weekend: Men's Clothing &. Accessories
-    *   Most-Wanted Lineup: Men's Sneakers &. More
-    *   Movado Watches
+    *   Vince Men's Clothing &. Shoes Up to 50% Off
+    *   Men's Denim Shop Under $50
     *   Men's Golf Shop ft. Callaway
     *   Tailored Perfection: Suits Under $250
     *   UGG Men's Shoes &. More
     *   Maceoo
-    
     *   Keep It Cool: Men's Short Sleeve Button-Ups
-    *   Brooks Brothers
     *   SUPRA Men Up to 55% Off
-    *   Men's Shoes Up to 60% Off
-    *   Steve Madden Men Starting at $25
-    *   Andrew Marc Men's Outerwear
+    *   Most-Wanted Lineup: Men's Sneakers &. More
+    *   Festival Weekend: Men's Clothing &. Accessories
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Festival Bound: Girls' Boho Styles
+    *   Feeding Sets &. More ft. Bumkins
     *   Betsey Johnson Girls
     *   Sovereign Code Kids
     *   Dolce Vita Girls
@@ -156,64 +150,62 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   UGG Kids
     *   Isaac Mizrahi
     *   Slumber Party: Kids' Character Pajamas &. More
-    *   aden + anais
-    *   Confetti Accessories ft. Mickey &. Minnie
+    *   Festival Bound: Girls' Boho Styles
     
     Shop By Category
-    *   Boys' Sizes 2T-7
     *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 2T-7
     *   Girls' Shoes
-    *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
+    *   Girls' Sizes 7-16
     *   Baby Girl
-    *   Baby Gear &. Essentials
     *   Baby Boy
+    *   Baby Gear &. Essentials
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Festival Essentials: Bags, Bottles, Tech &. More
+    *   Stock the Bar: Glasses &. More
+    *   Whimsical Finds ft. Anthropologie Home &. More
+    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
+    *   Best-Selling Steals: Kitchen, Decor &. More
     *   Croscill Bedding
     *   Free Shipping: Candles &. Diffusers
-    *   Best-Selling Steals: Kitchen, Decor &. More
     *   UGG Home Up to 50% Off
     *   Set the Table: Barware, Dinnerware &. More
-    *   Quirky Kitchen Towels
-    *   Free Shipping: Contemporary Lamps &. More
-    
-    *   Free Shipping: Storage Must-Haves from $10
-    *   Fido Approves: Dog Bowls &. Gear
     *   Free Shipping: Storage Up to 65% Off
-    *   Free Shipping: Wall Murals &. More
-    *   Free Shipping: Kitchen Blowout
-    *   Cuisinart
+    
+    *   Free Shipping: Contemporary Lamps &. More
+    *   Quirky Kitchen Towels
     *   Free Shipping: Professional Garment Steamers
-    *   Bluetooth Accessories &. More Starting at $10
+    *   Fido Approves: Dog Bowls &. Gear
+    *   Free Shipping: Wall Murals &. More
+    *   Cuisinart
+    *   Festival Essentials: Bags, Bottles, Tech &. More
+    *   Free Shipping: Storage Must-Haves from $10
     
     Shop By Category
-    *   Kitchen &. Tabletop
     *   Home Decor
+    *   Kitchen &. Tabletop
     *   Cleaning &. Organization
     *   Bedding
     *   Pet Accessories
     *   Tech Accessories
-    *   Outdoor Living
     *   Bath
     *   Luggage &. Travel
+    *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Korean Beauty: Leaders Cosmetics from $10
     *   jane iredale
-    *   Kiehl's Since 1851
-    *   tarte Cosmetics
-    *   Luxe Skin Care Up to 90% Off
     *   Hair Care Essentials
+    *   tarte Cosmetics
     
     Shop By Category
     *   Fragrance
     *   Skin Care
     *   Makeup
     *   Hair Care
-    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
