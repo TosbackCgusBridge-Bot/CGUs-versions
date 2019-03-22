@@ -210,19 +210,19 @@ New York, NY 10001.**
     *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Software maker Citrix hacked, business documents removed
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Wendy’s to pay $50M in data breach settlement
+    *   Facebook phishing campaign hitting iOS users
     
-    *   Stolen email credentials being used to pry into cloud accounts
+    *   Authorities had OK to use Broidy's hands, face to unlock phones confiscated in raid
+    *   Hack U: Ariana Grande file is one of 100+ ways attackers are exploiting WinRAR bug
     *   CEO blames unmanaged third-party code for recent attacks, data privacy scandals
-    *   Reports: Israeli officials' devices hacked. data possessed by Iran
-    *   Norwegian aluminum producer Norsk Hydro hit by an unspecified cyberattack
-    *   Improve cybersecurity program reporting with time-based metrics
+    *   Gates still helping with ongoing probes, Mueller asks for sentencing delay
+    *   Fujitsu wireless keyboard vulnerable to keystroke injection attack
     
+    *   Facebook patches denial-of-service flaw in its open-source Fizz TLS implementation
+    *   11 security patches released in CUJO Smart Firewall platform
+    *   Amex, Netflix customers targeted in phishing campaign
+    *   Rutland Regional Medical Center, Zoll reveal data breaches
     *   Mozilla's latest Firefox releases fix 22 vulnerabilities
-    *   Google Photos bug leaked location history
-    *   How we got SOC 2 certified in less than 6 months - and how you can too
-    *   Upgraded Cardinal RAT malware targets Israeli fintech firms
-    *   Mirai variant adds 11 news exploits, shifting focus to enterprise IoT devices
 
 Back to Top
 
