@@ -256,7 +256,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**BUY 1 GET 1 FREE JEANS + SHORTS**  GIRLS GUYS **50-70% OFF EVERYTHING + FREE SHIP OVER $50** 
+**BUY 1 GET 1 FREE JEANS + SHORTS**  GIRLS GUYS **Take Extra 20% off Use Code EARLY20 + Free Ship Over $50** 
 
 *   Select Country
 *   My Account My Account Login Register
@@ -312,6 +312,7 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Seriously Soft
         *   Uniform
+    
 *   Guys
     
     *   View Home
@@ -351,6 +352,7 @@ Menu Find a Store Aeropostale
         *   Active
         *   Back to Basics
         *   Uniform
+    
 *   Jeans
     
     *   View Home
@@ -383,6 +385,7 @@ Menu Find a Store Aeropostale
         *   Relaxed
         *   Flex Effects
         *   Destroyed Denim
+    
 *   Shorts
     
     *   View Home
@@ -411,6 +414,7 @@ Menu Find a Store Aeropostale
         *   Longboard Cargo
         *   Athletic
         *   Swim
+    
 *   New Arrivals
     
     *   View Home
@@ -471,7 +475,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! -6 -1 : Days 28 : Days 36 Details Shop Girls Shop Guys Shop Girls Bogo Bottoms Shop Guys Bogo Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys Details BOGO Girls BOGO Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Of Tees Shop Guys Tees Shop Girls Shop Guys Shop Dresses Shop Girls Shop Guys Shop Aero One Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! 8 23 : Days 32 : Days 04 Details Shop Girls Shop Guys Shop Girls Bogo Bottoms Shop Guys Bogo Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys Details BOGO Girls BOGO Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Of Tees Shop Guys Tees Shop Girls Shop Guys Shop Dresses Shop Girls Shop Guys Shop Aero One Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -509,4 +513,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2019 Aeropostale. All Rights Reserved.
+© 2019 Aeropostale. All Rights Reserved. CHAT
