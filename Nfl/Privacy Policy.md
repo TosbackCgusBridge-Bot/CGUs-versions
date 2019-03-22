@@ -10,6 +10,7 @@
 *   Teams
 *   Game Pass
 *   Super Bowl
+*   Combine
 *   Highlights
 *   Stats
 *   Next Gen Stats
@@ -29,6 +30,7 @@
 
 *   *   Game Pass
     *   Super Bowl
+    *   Combine
     *   Highlights
     *   Stats
     *   Next Gen Stats
