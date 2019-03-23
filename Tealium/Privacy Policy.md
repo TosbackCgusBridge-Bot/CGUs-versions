@@ -22,18 +22,18 @@
     *   Videos
     *   ROI Calculator
     *   MarTech Challenge
-    *   Tealium Learning Community
+    *   Tealium Learning Center
     *   Education
 *   Company
     *   People
     *   Careers
+    *   Blog
     *   Events
     *   News
     *   Executive Briefing Center
     *   Partners
     *   Brand Assets
     *   Contact
-*   Blog
 *   For Developers
     *   Docs Overview
     *   Product Guides
@@ -64,18 +64,18 @@
     *   Videos
     *   ROI Calculator
     *   MarTech Challenge
-    *   Tealium Learning Community
+    *   Tealium Learning Center
     *   Education
 *   Company
     *   People
     *   Careers
+    *   Blog
     *   Events
     *   News
     *   Executive Briefing Center
     *   Partners
     *   Brand Assets
     *   Contact
-*   Blog
 *   For Developers
     *   Docs Overview
     *   Product Guides
