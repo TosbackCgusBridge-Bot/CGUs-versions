@@ -68,8 +68,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   ‘Godzilla: King of the Monsters’ Set Visit: 10 Things You Need to Know About the Sequel Read More
-    *   Today in Movie Culture: How Jordan Peele Transitioned From Comedy to Horror, Nicolas Cage in ‘Avengers: Endgame’ and More Read More
-    *   Everything We Know About Quentin Tarantino's 'Once Upon A Time In Hollywood' Read More
+    *   Today in Movie Culture: Jordan Peele’s Guides to Horror Movies, ‘Us’ as a Superhero Movie and More Read More
+    *   The Week in Movie News: Noah Centineo is He-Man, First ’Toy Story 4’ and ‘Once Upon a Time in Hollywood’ Trailers and more Read More
     
     Explore Content
     *   Movie Reviews
