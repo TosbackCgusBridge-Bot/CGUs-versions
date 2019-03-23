@@ -1,4 +1,4 @@
-Accessible View
+Spring savings have sprung! - shop the store adSee DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -23,32 +23,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack HP Video Test LOVE NOW WEAR NOWSHOP ALLLOVE NOW WEAR NOWSHOP ALL
-
-*   from$1359after couponWorthington Twill Ankle Pant(151)Add To Cart
-*   $3199after couponwas $70 Worthington Womens Classic Fit Blazer(2)Add To Cart
-*   $1599after couponwas $37 Worthington Womens Round Neck Short Sleeve Blouse(3)Add To Cart
-*   $2799after couponwas $60 Worthington Womens Midi Pleated SkirtAdd To Cart
-*   from$1439after couponWorthington Womens Sleeveless Mock Neck TopAdd To Cart
-*   from$1759after couponWorthington Womens Long Sleeve Button Cardigan(1)Add To Cart
-*   $3999after couponwas $90 Worthington Boucle JacketAdd To Cart
-
-Hot Sellers
-
-*   from$1599after coupona.n.a Joy Womens Slip-on Round Toe Ballet Flats(15)
-*   $3699 sale
-    
-    was $62 | 40% offDockers® Classic Fit Signature Khaki Pants - Pleated D3(274)
-*   $1599after couponwas $55 Worthington Womens Zoe Pumps Slip-on Closed Toe Stiletto Heel(2)
-*   $1599after couponwas $55 Worthington Womens Beckwith Heeled Sandals(278)
-*   LIMITED TIME SPECIAL!
-    
-    $25 sale
-    
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Stud Earrings in Sterling Silver(158)
-*   $1759after couponwas $42 Arizona Basic Original Bootcut Jeans(588)
-
-Shop and Save at JCPenney
+Near YouFind a StoreBackShop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
