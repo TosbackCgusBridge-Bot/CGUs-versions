@@ -1,13 +1,13 @@
 *   be\_ixf. js\_sdk. js\_sdk\_1.0.14
-*   239 ms
-*   iy\_2019. im\_03. id\_21. ih\_22. imh\_31. i\_epoch:1553232715231
+*   406 ms
+*   iy\_2019. im\_03. id\_22. ih\_22. imh\_30. i\_epoch:1553319036540
 *   ixf-compiler. ixf-compiler\_1.0.0.0
 *   py\_2019. pm\_03. pd\_13. ph\_11. pmh\_15. p\_epoch:1552500916086
 
-*   DirectoryGlobal Directory
+*   Global directoryGlobal directory
 
-*   Product LoginsProduct Logins
-*   Contact UsContact Us
+*   Product loginsProduct logins
+*   Contact usContact us
 *   Log inLog in
 *   Cart (0)
 
