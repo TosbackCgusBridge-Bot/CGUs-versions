@@ -207,22 +207,22 @@ New York, NY 10001.**
     *   Recent
     
     *   Undisclosed number of TurboTax accounts breached
+    *   The death of the VPN - It’s time to say goodbye
     *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Software maker Citrix hacked, business documents removed
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Facebook phishing campaign hitting iOS users
     
-    *   Authorities had OK to use Broidy's hands, face to unlock phones confiscated in raid
-    *   Hack U: Ariana Grande file is one of 100+ ways attackers are exploiting WinRAR bug
-    *   CEO blames unmanaged third-party code for recent attacks, data privacy scandals
-    *   Gates still helping with ongoing probes, Mueller asks for sentencing delay
-    *   Fujitsu wireless keyboard vulnerable to keystroke injection attack
+    *   Glitch exposes Sprint customer data to other users
+    *   The death of the VPN - It’s time to say goodbye
+    *   Hedge fund manager sentenced to 60 months security fraud, hacking scheme
+    *   VMware security advisories issued
+    *   Will PSD2 Finally Kill The Password?
     
-    *   Facebook patches denial-of-service flaw in its open-source Fizz TLS implementation
-    *   11 security patches released in CUJO Smart Firewall platform
-    *   Amex, Netflix customers targeted in phishing campaign
-    *   Rutland Regional Medical Center, Zoll reveal data breaches
-    *   Mozilla's latest Firefox releases fix 22 vulnerabilities
+    *   Mueller turns in report on Russia probe to Barr
+    *   Hedge fund manager sentenced to 60 months security fraud, hacking scheme
+    *   WordPress plugin zero day exploited in the wild
+    *   Phishing scam stings Oregon Dept. of Human Services, compromises emails containing resident data
+    *   Medtronic defibrillators vulnerable to attack
 
 Back to Top
 
