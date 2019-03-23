@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Snapcraft Summit Montreal ›
 *   Magic Wormhole – Send files with ease ›
 *   Design and Web team summary – 15 March 2019 ›
 *   Debug ACPI DSDT and SSDT with ACPICA Utilities ›
 *   The path to Ubuntu Core ›
-*   Vertical rhythm and spacing in Vanilla Framework 2.0 ›
