@@ -15,9 +15,9 @@
 *   Search
 *   VALUE
     
-    America’s Top 120  
+      
     
-    $ 59 99 /mo 190  
+    $ /mo  
     Channels
     
     Includes DVR  
@@ -30,10 +30,7 @@
     Terms and Conditions
     
     *   Pre-Built Packages
-        *   America’s Top 120
-        *   America’s Top 120 Plus
-        *   America’s Top 200
-        *   America’s Top 250
+        
     *   Channel Lineup
     *   Internet Bundles
     *   TV Programming
