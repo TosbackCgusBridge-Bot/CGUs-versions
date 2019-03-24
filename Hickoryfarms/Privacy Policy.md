@@ -232,5 +232,3 @@ Sorry, this offer is just for new subscribers!
 is already subscribed.
 
 Watch your inbox to be the first to get exclusive Hickory Farms email offers!
-
-Play IconFeedback
