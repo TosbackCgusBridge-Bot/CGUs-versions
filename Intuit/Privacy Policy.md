@@ -23,7 +23,20 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackShop and Save at JCPenney
+Near YouFind a StoreBack HP Video Test Hot Sellers
+
+*   $1999after couponwas $50 Stafford Travel Easy-Care Stretch Broadcloth Big And Tall Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt
+*   $2890after couponWomens Green Bangle Watch and Bracelet Set
+*   $1599after couponwas $40 Arizona Womens Seymour Adjustable Strap Flat Sandals
+*   LIMITED TIME SPECIAL!
+    
+    $25 sale
+    
+    was $124.98 | 80% offLimited Time Special! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(45)
+*   $1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(18)
+*   $1599after couponwas $55 Worthington Womens Beckwith Heeled Sandals(279)
+
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
