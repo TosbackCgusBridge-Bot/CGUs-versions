@@ -212,11 +212,11 @@ New York, NY 10001.**
     *   Software maker Citrix hacked, business documents removed
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Glitch exposes Sprint customer data to other users
-    *   The death of the VPN - It’s time to say goodbye
-    *   Hedge fund manager sentenced to 60 months security fraud, hacking scheme
-    *   VMware security advisories issued
-    *   Will PSD2 Finally Kill The Password?
+    *   Norwegian aluminum producer Norsk Hydro hit by an unspecified cyberattack
+    *   Orange County hit and taken offline with ransomware
+    *   WordPress releases 14 fixes in latest security updates
+    *   Persistence and scale signature moves of new Monero miner campaign
+    *   Mozilla's latest Firefox releases fix 22 vulnerabilities
     
     *   Mueller turns in report on Russia probe to Barr
     *   Hedge fund manager sentenced to 60 months security fraud, hacking scheme
