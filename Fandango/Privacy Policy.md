@@ -314,10 +314,6 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Shazam!' Free Gift with Purchase
-    
-    Get FREE Shazam! digital Comic Books from DC with ticket purchase! BUY TICKETS
-    
 *   Every 4 Tickets = $5 For You
     
     Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
