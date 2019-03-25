@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content We’re giving away over 275 Buckle gift cards totaling $10,000. Enter now!
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentSupport Nebraska flood relief by donating to the American Red Cross - Donate Now.
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-We’re giving away over 275 Buckle gift cards totaling $10,000. Enter now!
+Support Nebraska flood relief by donating to the American Red Cross - Donate Now.
 
 *   Women
 *   Men
@@ -19,7 +19,7 @@ We’re giving away over 275 Buckle gift cards totaling $10,000. Enter now!
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY BAG
 
