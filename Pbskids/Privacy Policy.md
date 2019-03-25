@@ -1,24 +1,24 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
 
-Find fun, hands-on educational activities to do with your child. Find fun, hands-on educational activities to do with your child. Go now
+The difference between praise and encouragement -- and why it matters. The difference between praise and encouragement -- and why it matters. Read more.
 
 Toggle message bar
 
 *   Apps
 *   Shop
-*   KRMA
+
 *   Parents
 *   TV Times
 *   Settings PBS KIDS Settings_Close_Your Local PBS Station
     
-    Rocky Mountain PBS
+    Choose your station for TV schedules and local features
     
     Select your local station
     
     *   Rocky Mountain PBS
     *   Colorado Public Television / KBDI 12
     
-    Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Change your stationBackPBS KIDS Super Vision
+    Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Find your stationBackPBS KIDS Super Vision
     
     See what your child is playing, watching, &. learning with our free Super Vision app for iPhone. _Super Vision app is connected_
     
