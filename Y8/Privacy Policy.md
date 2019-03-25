@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 657 games
-*   Most Popular Games 18950 games
+*   Best of new games 654 games
+*   Most Popular Games 18955 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,783 games
+*   Games for girls 23,784 games
 *   Driving &. Racing Games 6,797 games
 *   Strategy &. RPG Games 2,413 games
 *   Management Games 3,646 games
-*   Thinking Games 11,977 games
-*   Action &. Adventure Games 16,019 games
+*   Thinking Games 11,980 games
+*   Action &. Adventure Games 16,018 games
 *   Sports Games 2,192 games
-*   Shooting Games 8,426 games
+*   Shooting Games 8,427 games
 *   Fighting Games 2,096 games
-*   Skill Games 10,885 games
-*   Arcade &. Classic Games 12,790 games
-*   Fun &. Crazy Games 2,497 games
+*   Skill Games 10,888 games
+*   Arcade &. Classic Games 12,789 games
+*   Fun &. Crazy Games 2,498 games
 
 Play with friends  
 Powered by Y8 Account 140 Y8 Multiplayer Games 1,927 Y8 High Score Games 1,141 Y8 Achievements Games 809 Y8 Screenshots Games 1,413 Y8 Online Save Games 2,981 All Y8 Games Games Last Highscore:
 
-**191** points on Orion Sandbox Enhanced by Ostrichboy
+**10,988** points on Bartender The Celebs Mix by ning2
 
 Help us improve Bad translation? Social
 
