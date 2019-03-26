@@ -153,6 +153,8 @@ EUROPE, MIDDLE EAST &. AFRICA
 
 *   België (Nederlands)
 *   Belgique (français)
+*   Česká republika
+*   Danmark
 *   Deutschland
 *   España
 *   Finland (English)
@@ -160,13 +162,20 @@ EUROPE, MIDDLE EAST &. AFRICA
 *   Italia
 *   Israel (English)
 *   Nederland
-
 *   Norge
+*   Polska
 *   Schweiz (Deutsch)
+
 *   South Africa
 *   Suisse (français)
+*   Suomi (Suomi)
+*   Sverige
 *   Türkiye
 *   United Kingdom
+*   Ελλάδα
+*   (ישראל (עברית
+*   Україна (українська)
+*   Украина (русский)
 *   المملكة العربية السعودية
 *   الإمارات العربية المتحدة
 *   الدول العربية
@@ -176,11 +185,18 @@ EUROPE, MIDDLE EAST &. AFRICA
 ASIA &. PACIFIC
 
 *   Australia
+*   India (English)
 *   Indonesia (Bahasa Indonesia)
 *   Korea (English)
+*   Malaysia (English)
 *   New Zealand
+*   Philippines (English)
 *   Singapore
+*   Việt Nam
 *   日本語
+*   대한민국 (한국어)
+*   臺灣
+*   ประเทศไทย
 
 *   Worldwide (English)
 
