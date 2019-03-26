@@ -212,17 +212,17 @@ New York, NY 10001.**
     *   Software maker Citrix hacked, business documents removed
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Center for Internet Security warns of Trickbot
-    *   Will PSD2 Finally Kill The Password?
-    *   Facebook stored hundreds of millions of user passwords in plain text
-    *   Iphone malvertising app downloaded millions of times calls 22 known malicious servers
-    *   Google, Facebook fraudster pleads guilty to stealing $123 million in BEC scams
+    *   Two U.S. chemical companies disclose cyberattack. LockerGoga ransomware reportedly the culprit. Following Norsk Hydro ransomware attack, two U.S. chemical companies disclose reportedly similar incidents
+    *   New Jersey bill would broaden PII requiring breach notification
+    *   Man steals stingray, threatens to leak nudes
+    *   Top 12 phishing email subject lines
+    *   Authorities had OK to use Broidy's hands, face to unlock phones confiscated in raid
     
+    *   FEMA shared personal data on more than 2M disaster survivors with contractor in 'privacy breach'
+    *   Paper: Leaked authentication secrets rampant across GitHub
     *   Mueller turns in report on Russia probe to Barr
     *   Hedge fund manager sentenced to 60 months security fraud, hacking scheme
     *   WordPress plugin zero day exploited in the wild
-    *   Phishing scam stings Oregon Dept. of Human Services, compromises emails containing resident data
-    *   Medtronic defibrillators vulnerable to attack
 
 Back to Top
 
