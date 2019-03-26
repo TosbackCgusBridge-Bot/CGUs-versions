@@ -8,20 +8,31 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Go Couture Dresses Up to 75% Off
-    *   Free Shipping: BergHOFF Up to 50% Off
-    *   Flats, Sandals &. More Up to 70% Off
-    *   In Top Form: Blouses &. More Up to 75% Off
-    *   One-of-a-Kind Bags &. More Up to 80% Off
+    *   JOE'S Jeans
+    *   JOE'S Jeans Men Up to 60% Off
+    *   Lovers + Friends &. Tularosa Up to 60% Off
+    *   Petit Pois By Viviana G
+    *   Jeffrey Campbell &. More
+    *   Suit Yourself: Work Essentials
+    *   JOE'S Jeans &. More: Sun Up to 80% Off
+    *   JOE'S Jeans Kids Up to 50% Off
+    *   Sleep &. Lounge ft. JOE'S Jeans
+    *   Chaco Under $100
+    *   skinChemists Up to 85% Off
+    *   Perry Ellis Up to 70% Off
+    *   Kooba Handbags
+    *   Street-Chic Active ft. X by Gottex
     *   Get Outdoors: Top Brands Up to 50% Off
-    *   Men's Outerwear Blowout
-    *   Men's Shoes Up to 70% Off
-    *   Free Shipping: Bedding Steals Up to 70% Off
+    *   Call It Spring Starting at $20
+    *   Bedding Sets Up to 70% Off
+    *   Hybrid Green Label
+    *   Fancy Footwear ft. Naturino
+    *   Exclusively Ours BestSelling Throws amp Pillows
     *   London Times &. Maggy London Incl. Plus &. Petites
     *   Thomas Pink Up to 65% Off
     *   Via Spiga Up to 65% Off
     *   ARATTA &. More Up to 70% Off
-    *   Kids' Premium Denim Starting at $14
+    
     *   Men's Designer Accessories
     *   English Factory
     *   Splendid Up to 60% Off
@@ -31,10 +42,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Orlando Pita Play
     *   Baby Shop: Premium Styles Under $25
     *   Zella &. Z By Zella Incl. Plus
-    *   Insight Up to 75% Off
     *   ZAC Zac Posen Handbags
-    
     *   Rock Revival &. MISS ME
+    *   Insight Up to 75% Off
     *   Schutz Up to 70% Off
     *   Mustard Seed
     *   June &. Hudson
@@ -44,52 +54,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Peter Millar Up to 65% Off
     *   Batter Up: 47 Brand &. More
     *   Made in Italy: Meshmerise Jewelry from $20
-    *   Free Shipping: NMK Bedding Up to 75% Off
     *   IT Luggage Up to 60% Off
     *   Home Office Improvements: Risers &. More from $10
-    *   ASICS Starting at $40
     *   ASICS Men Starting at $40
-    *   Tommy Hilfiger Starting at $17
-    *   SUSINA and 14th &. Union Incl. Plus and Petites
-    *   French Connection Coats &. More
-    *   Men's Dress Shoes Under $100
-    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
-    *   Croscill Bedding
-    *   ASICS Men's Active Starting at $20
-    *   ASICS Kids Starting at $30
-    *   Jessica Simpson &. More from $35
-    *   Spring Break Ready: Beach Towels from $10
     
-    *   Urban Expressions: On-Trend Bags Under $45
-    *   Velvet by Graham &. Spencer
-    *   Savvy Cie Jewels Up to 80% Off
-    *   Spring Faves for Boys: Tees, Polos &. More
-    *   24/7 Comfort
+    *   Spring Break Ready: Beach Towels from $10
     *   Detox &. Wellness Teas and Drops from Teasane
     *   Korean Beauty: Leaders Cosmetics from $10
-    *   Stock the Bar: Glasses &. More
-    *   Feeding Sets &. More ft. Bumkins
-    *   jane iredale
-    *   Set the Table: Barware, Dinnerware &. More
-    *   Sub\_Urban Riot
-    *   Timex Watches Up to 50% Off
-    *   Whimsical Finds ft. Anthropologie Home &. More
-    *   Free Shipping: Candles &. Diffusers
     *   Quirky Kitchen Towels
     *   Free Shipping: Sheets Up to 70% Off
     *   Free Shipping: Wall Murals &. More
     *   Cuisinart
-    *   Dress Up, Dress Down: Pumps, Sneakers &. More
-    *   Casual Spring Dresses ft. Spense
-    *   Proms to Promotions: Suiting &. More Under $150
-    *   Feminine Flair: Dresses Incl. Plus &. Petites
-*   WomenShop Sale Events
-    
+    *   Free Shipping: Bedding Steals Up to 70% Off
+    *   Free Shipping: NMK Bedding Up to 75% Off
+    *   Kids' Premium Denim Starting at $14
+    *   Men's Dress Shoes Under $100
+    *   Stock the Bar: Glasses &. More
+    *   Whimsical Finds ft. Anthropologie Home &. More
+    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
+    *   Free Shipping: Candles &. Diffusers
+    *   Croscill Bedding
     *   Go Couture Dresses Up to 75% Off
-    *   Flats, Sandals &. More Up to 70% Off
+    *   Free Shipping: BergHOFF Up to 50% Off
+    *   Men's Outerwear Blowout
     *   In Top Form: Blouses &. More Up to 75% Off
     *   One-of-a-Kind Bags &. More Up to 80% Off
+    *   Flats, Sandals &. More Up to 70% Off
+    *   Men's Shoes Up to 70% Off
+*   WomenShop Sale Events
+    
+    *   JOE'S Jeans
+    *   Lovers + Friends &. Tularosa Up to 60% Off
+    *   Petit Pois By Viviana G
+    *   Jeffrey Campbell &. More
+    *   Suit Yourself: Work Essentials
+    *   JOE'S Jeans &. More: Sun Up to 80% Off
+    *   Sleep &. Lounge ft. JOE'S Jeans
+    *   Chaco Under $100
+    *   skinChemists Up to 85% Off
+    *   Kooba Handbags
+    *   Street-Chic Active ft. X by Gottex
     *   Get Outdoors: Top Brands Up to 50% Off
+    *   Call It Spring Starting at $20
     *   London Times &. Maggy London Incl. Plus &. Petites
     *   Via Spiga Up to 65% Off
     *   ARATTA &. More Up to 70% Off
@@ -97,128 +103,113 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Splendid Up to 60% Off
     *   CZ by Kenneth Jay Lane Up to 70% Off
     *   Barefoot Dreams Sleep
+    
     *   In Cashmere &. More
     *   Orlando Pita Play
     *   Zella &. Z By Zella Incl. Plus
-    *   Insight Up to 75% Off
     *   ZAC Zac Posen Handbags
     *   Rock Revival &. MISS ME
+    *   Insight Up to 75% Off
     *   Schutz Up to 70% Off
     *   Mustard Seed
     *   June &. Hudson
-    
     *   Fits to a Tee: Tops Under $20
     *   Catch Some Waves: Active Swim Up to 60% Off
     *   Spring Staples: Mules &. Slides Up to 60% Off
     *   Made in Italy: Meshmerise Jewelry from $20
     *   IT Luggage Up to 60% Off
-    *   ASICS Starting at $40
-    *   Tommy Hilfiger Starting at $17
-    *   SUSINA and 14th &. Union Incl. Plus and Petites
-    *   French Connection Coats &. More
-    *   Jessica Simpson &. More from $35
-    *   Urban Expressions: On-Trend Bags Under $45
-    *   Savvy Cie Jewels Up to 80% Off
-    *   24/7 Comfort
     *   Detox &. Wellness Teas and Drops from Teasane
     *   Korean Beauty: Leaders Cosmetics from $10
-    *   jane iredale
-    *   Sub\_Urban Riot
-    *   Timex Watches Up to 50% Off
-    *   Dress Up, Dress Down: Pumps, Sneakers &. More
-    *   Casual Spring Dresses ft. Spense
-    *   Feminine Flair: Dresses Incl. Plus &. Petites
+    *   Go Couture Dresses Up to 75% Off
+    *   In Top Form: Blouses &. More Up to 75% Off
+    *   One-of-a-Kind Bags &. More Up to 80% Off
+    *   Flats, Sandals &. More Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Handbags
+    *   Jewelry
     *   Lingerie
-    *   Watches
     *   Accessories
 *   MenShop Sale Events
     
-    *   Men's Outerwear Blowout
-    *   Men's Shoes Up to 70% Off
+    *   JOE'S Jeans Men Up to 60% Off
+    *   JOE'S Jeans &. More: Sun Up to 80% Off
+    *   Perry Ellis Up to 70% Off
+    *   Hybrid Green Label
     *   Thomas Pink Up to 65% Off
     *   Men's Designer Accessories
     *   Peter Millar Up to 65% Off
+    
     *   Batter Up: 47 Brand &. More
     *   IT Luggage Up to 60% Off
-    
     *   ASICS Men Starting at $40
     *   Men's Dress Shoes Under $100
-    *   ASICS Men's Active Starting at $20
-    *   Velvet by Graham &. Spencer
-    *   Timex Watches Up to 50% Off
-    *   Proms to Promotions: Suiting &. More Under $150
+    *   Men's Outerwear Blowout
+    *   Men's Shoes Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
-    *   Kids' Premium Denim Starting at $14
+    *   JOE'S Jeans Kids Up to 50% Off
+    *   Fancy Footwear ft. Naturino
     *   Baby Shop: Premium Styles Under $25
-    *   ASICS Kids Starting at $30
-    *   Spring Faves for Boys: Tees, Polos &. More
-    *   Feeding Sets &. More ft. Bumkins
+    *   Kids' Premium Denim Starting at $14
     
     Shop By Category
-    *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
     *   Girls' Shoes
-    *   Boys' Shoes
     *   Baby Boy
-    *   Girls' Sizes 7-16
-    *   Baby Gear &. Essentials
-    *   Girls' Sizes 2T-6X
     *   Baby Girl
+    *   Boys' Sizes 2T-7
+    *   Girls' Sizes 7-16
+    *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 8-20
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Free Shipping: BergHOFF Up to 50% Off
-    *   Get Outdoors: Top Brands Up to 50% Off
-    *   Free Shipping: Bedding Steals Up to 70% Off
-    *   Free Shipping: NMK Bedding Up to 75% Off
+    *   Bedding Sets Up to 70% Off
+    *   Exclusively Ours BestSelling Throws amp Pillows
     *   IT Luggage Up to 60% Off
     *   Home Office Improvements: Risers &. More from $10
-    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
-    *   Croscill Bedding
     *   Spring Break Ready: Beach Towels from $10
-    
-    *   Stock the Bar: Glasses &. More
-    *   Set the Table: Barware, Dinnerware &. More
-    *   Whimsical Finds ft. Anthropologie Home &. More
-    *   Free Shipping: Candles &. Diffusers
     *   Quirky Kitchen Towels
     *   Free Shipping: Sheets Up to 70% Off
     *   Free Shipping: Wall Murals &. More
     *   Cuisinart
     
+    *   Free Shipping: Bedding Steals Up to 70% Off
+    *   Free Shipping: NMK Bedding Up to 75% Off
+    *   Stock the Bar: Glasses &. More
+    *   Whimsical Finds ft. Anthropologie Home &. More
+    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
+    *   Free Shipping: Candles &. Diffusers
+    *   Croscill Bedding
+    *   Free Shipping: BergHOFF Up to 50% Off
+    
     Shop By Category
     *   Bedding
-    *   Kitchen &. Tabletop
     *   Home Decor
+    *   Kitchen &. Tabletop
     *   Bath
     *   Outdoor Living
     *   Luggage &. Travel
     *   Cleaning &. Organization
-    *   Accent Furniture
     *   Tech Accessories
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   skinChemists Up to 85% Off
     *   Orlando Pita Play
     *   Detox &. Wellness Teas and Drops from Teasane
     *   Korean Beauty: Leaders Cosmetics from $10
-    *   jane iredale
     
     Shop By Category
-    *   Fragrance
     *   Skin Care
-    *   Makeup
+    *   Fragrance
     *   Hair Care
     *   Bath &. Body
 
