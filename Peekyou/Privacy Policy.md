@@ -68,9 +68,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -100,7 +100,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -146,7 +146,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -176,7 +176,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -261,7 +261,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 3% 
+Facebook 2% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -321,53 +321,53 @@ Facebook 3% 
     
 *   Show Less ...
 
-Twitter 3% 
+Twitter 2% 
 
-*   CMSGov - CMSGov
+*   Mental Health NIMH - NIMHgov
     
-*   CDC - CDCgov
+*   CMSGov - CMSGov
     
 *   U.S. FDA - US\_FDA
     
-*   BMW Group - BMWGroup
+*   U.S. FDA - FDArecalls
     
 *   Show More ...
 
-*   Francis S. Collins - NIHDirector
-    
-*   Free Privacy Policy - FreePrivacy1
-    
-*   IRS - IRSnews
+*   CDC - CDCgov
     
 *   NHS - NHSuk
     
-*   CDC\_eHealth - CDC\_eHealth
+*   HealthCare.gov - HealthCareGov
     
-*   Royal Caribbean - RoyalCaribbean
+*   Dr. Robert R. Redfield - CDCDirector
     
-*   HHS.gov - HHSGov
+*   USAIDSenegal - USAIDSenegal
     
-*   Secretary Alex Azar - SecAzar
+*   Free Privacy Policy - FreePrivacy1
     
-*   NIH - NIH
+*   HIV.gov - HIVGov
     
 *   Federal Reserve - federalreserve
     
+*   CDC\_eHealth - CDC\_eHealth
+    
+*   U.S. Census Bureau - uscensusbureau
+    
 *   FTC - FTC
     
-*   Mabuhay Miles - PALMabuhayMiles
-    
-*   EuropeanPrivacyAssoc - europeanprivacy
-    
-*   Updated Privacy Policy - EAEO
+*   HHS.gov - HHSGov
     
 *   Justice Department - TheJusticeDept
     
-*   Cristiano Ronaldo - Cristiano
+*   NIH - NIH
+    
+*   OAIC - OAICgov
+    
+*   Updated Privacy Policy - EAEO
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 2% 
 
 *   privacy policy - privacypolice1
     
@@ -413,7 +413,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Myspace 3% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -437,7 +437,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Google+ 3% 
+Google+ 2% 
 
 *   Lauren Weinstein
     
@@ -479,12 +479,12 @@ Google+ 3% 
     
 *   Show Less ...
 
-Pinterest 3% 
+Pinterest 2% 
 
 *   The Home Depot (homedepot) - homedepot
     
 
-Wikipedia 3% 
+Wikipedia 2% 
 
 *   Privacy policy
     
@@ -499,7 +499,7 @@ Wikipedia 3% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Music 3% 
+Music 2% 
 
 *   Pandora
     
@@ -541,7 +541,7 @@ Music 3% 
     
 *   Show Less ...
 
-Web Search 3% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -587,15 +587,15 @@ Web Search 3% 
     
 *   Show Less ...
 
-Images 3% 
+Images 2% 
 
-3
-
-20
+9
 
 20
 
-7
+20
+
+9
 
 facebookx
 
