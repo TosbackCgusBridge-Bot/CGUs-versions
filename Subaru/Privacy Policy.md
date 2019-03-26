@@ -8,16 +8,16 @@ Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
-*   Money Subaru (89 Miles)
-*   DuTeau Subaru (116 Miles)
-*   Baxter Subaru (158 Miles)
-*   Briggs Subaru of Topeka (164 Miles)
-*   Beardmore Subaru (165 Miles)
-*   Subaru of Wichita (167 Miles)
+*   Schomp Subaru (7 Miles)
+*   Groove Subaru (8 Miles)
+*   Mike Shaw Subaru (9 Miles)
+*   AutoNation Subaru West (10 Miles)
+*   AutoNation Subaru Arapahoe (12 Miles)
+*   Flatirons Subaru (21 Miles)
 
 Submit
 
-*   Your Location: **66952**
+*   Your Location: **80202**
 *   For Owners
 *   Customer Support
 *   Search
@@ -247,7 +247,7 @@ We do not collect Personal Information from you unless you voluntarily provide i
 
 **PERSONAL INFORMATION WE COLLECT AND HOW WE USE IT**
 
-Subaru collects and uses the information you provide to us. We may also obtain information about you from outside sources and may combine it with the information you provide to us. For example, we may obtain commercially available demographic information about you from third parties, get device ID information from mobile applications or advertisements or purchase e-mail or similar lists from third parties for advertising and marketing purposes. As ageneral matter, we may use or share your Personal Information where it is necessary for us to complete a transaction or do something that you have asked us to do. We may also use this information for our internal research purposes as we develop our products and services. We may use Personal Information and data collected for our advertising or marketing purposes including on other websites or media and we may communicate with you to provide you with information we think may be of interest to you. We do not collect "sensitive" information from or about you, such as your financial or health information.
+Subaru collects and uses the information you provide to us. We may also obtain information about you from outside sources and may combine it with the information you provide to us. For example, we may obtain commercially available demographic information about you from third parties, get device ID information from mobile applications or advertisements or purchase e-mail or similar lists from third parties for advertising and marketing purposes. As a general matter, we may use or share your Personal Information where it is necessary for us to complete a transaction or do something that you have asked us to do. We may also use this information for our internal research purposes as we develop our products and services. We may use Personal Information and data collected for our advertising or marketing purposes including on other websites or media and we may communicate with you to provide you with information we think may be of interest to you. We do not collect "sensitive" information from or about you, such as your financial or health information.
 
 If you make a request for information, for example, we might need to provide your name, mailing address, or email address to one of our retailers or a service provider with whom we have a relationship so that they can help us respond to you.
 
