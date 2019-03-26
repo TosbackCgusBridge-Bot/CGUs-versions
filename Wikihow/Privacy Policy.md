@@ -365,7 +365,6 @@ General Questions and Help
 
 *   Please contact Chris Hadley
     *   Email wiki@wikiHow.com
-    *   Call 650-492-8008
     *   Advertisers please contact: ads@wikiHow.com
 
 Snail Mail
@@ -383,7 +382,6 @@ Community Liaison
 
 *   Please contact Anna
     *   Email anna@wikiHow.com
-    *   Call 650-492-8008
 
   
 This Agreement was last modified on 4, December 2012.
