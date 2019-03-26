@@ -142,7 +142,56 @@ We will respond to your inquiry or investigate your concern as quickly as possib
   
 Last updated: January 21st, 2019
 
-Catalog &. Brochures Request View Online Buying Guides Need HelpFAQContact UsFeedbackReturn PolicyChildren's Product RegistrationDelivery InformationStore DeliveryOnline DeliveryPicking with DeliveryTrack an OrderDelivery Terms &. ConditionsHelpful LinksFind an IKEA StoreAll ProductsPlanning ToolsIKEA Food &. RestaurantWarrantiesIKEA ServicesIKEA Gift CardThis is IKEAThe IKEA ConceptDemocratic DesignAbout the IKEA GroupPeople &. PlanetPress RoomRead our MaterialsIKEA FoundationJobs at IKEA © Inter IKEA Systems B.V. 1999 - 2018 | Privacy Policy | Responsible Disclosure Feedback Help us improve by sharing your feedback. We love your feedback! Please note that if you have a concern you need handled immediately, please contact our Customer Services
+Catalog &. Brochures
+
+*   Request
+*   View Online
+*   Buying Guides
+
+Need Help
+
+*   FAQ
+*   Contact Us
+*   Feedback
+*   Return Policy
+*   Children's Product Registration
+*   Product Recalls
+
+Delivery Information
+
+*   Delivery
+*   Picking with Delivery
+*   Track an Order
+*   Delivery Terms &. Conditions
+
+Helpful Links
+
+*   Find an IKEA Store
+*   All Products
+*   Planning Tools
+*   IKEA Food &. Restaurant
+*   Warranties
+*   IKEA Services
+*   IKEA Credit Card Management
+*   IKEA Gift Card
+
+This is IKEA
+
+*   The IKEA Concept
+*   Democratic Design
+*   About the IKEA Group
+*   People &. Planet
+*   Press Room
+*   Read Our Materials
+*   IKEA Foundation
+
+Jobs at IKEA
+
+Partners
+
+*   TaskRabbit
+
+Follow IKEA on social media © Inter IKEA Systems B.V. 1999-2019 Feedback Help us improve by sharing your feedback. We love your feedback! Please note that if you have a concern you need handled immediately, please contact our Customer Services
 
 How are we doing? Please rate your experience with our website today.
 
