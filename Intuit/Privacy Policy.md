@@ -1,4 +1,4 @@
-Accessible View
+Free Shipping Anywhere Over $99See DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -23,16 +23,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack FINAL HOURS OF COUPON CODESUNDAY7ENDS IN00HOURS 40MINS 42SECS HP Video Test Hot Sellers
-
-*   $1599after couponwas $55 Worthington Womens Bristol Pumps Strap Open Toe Stiletto Heel(21)
-*   from$2399after couponwas $46 Lee® Wyoming Belted Cargo Shorts(202)
-*   from$1759after couponwas $42 Arizona Basic Original Bootcut Jeans(590)
-*   $1599after couponwas $55 a.n.a Joy Womens Slip-on Round Toe Ballet Flats(15)
-*   $1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(18)
-*   $1999after couponwas $50 Stafford Travel Easy-Care Stretch Broadcloth Big And Tall Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt
-
-Shop and Save at JCPenney
+Near YouFind a StoreBackShop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
