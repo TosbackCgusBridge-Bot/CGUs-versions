@@ -5,33 +5,32 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Us (2019)
     *   Captain Marvel (2019)
     *   Wonder Park
     *   Five Feet Apart
     *   How to Train Your Dragon: The Hidden World
     *   Tyler Perry's A Madea Family Funeral
+    *   Gloria Bell
     *   No Manches Frida 2
-    *   Captive State
     *   The Lego Movie 2: The Second Part
     *   Alita: Battle Angel
-    *   Green Book
-    *   Isn't It Romantic
+    *   Captive State
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Us (2019)
-    *   Fandango Early Access: Shazam!
-    *   Hotel Mumbai
-    *   Ramen Shop
-    *   Sunset (2019)
-    *   Triple Threat
+    *   The Beach Bum
+    *   Dumbo (2019)
+    *   Unplanned (2019)
+    *   Diane (2019)
+    *   Notebook (2019)
+    *   Screwball
+    *   Trinity Seven: Heaven's Library &. Crimson Lord
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Dumbo (2019)
-    *   Unplanned (2019)
     *   The Best of Enemies
     *   Pet Sematary (2019)
     *   Shazam!
@@ -40,6 +39,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Little (2019)
     *   Missing Link (2019)
     *   The Curse of La Llorona
+    *   Breakthrough (2019)
+    *   Penguins (2019)
     *   See All Coming Soon
     
     Explore More
@@ -67,9 +68,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   ‘Godzilla: King of the Monsters’ Set Visit: 10 Things You Need to Know About the Sequel Read More
-    *   Today in Movie Culture: Jordan Peele’s Guides to Horror Movies, ‘Us’ as a Superhero Movie and More Read More
-    *   The Week in Movie News: Noah Centineo is He-Man, First ’Toy Story 4’ and ‘Once Upon a Time in Hollywood’ Trailers and more Read More
+    *   ‘Us’ Explained: The Twist Ending, the Hidden Meanings, the Box Office Milestones and a Possible Sequel - Spoilers! Read More
+    *   First 'Dora and the City of Gold' Trailer Unleashes Its Wild Side. Here's Everything We Know Read More
+    *   Today in Movie Culture: ‘Us’ Easter Eggs and Plot Song, ‘Avengers: Endgame’ in Lego and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -321,14 +322,14 @@ Offers
 
 New + Coming soon
 
-*   How to Train Your Dragon: The Hidden World
 *   Captain Marvel (2019)
-*   Five Feet Apart
 *   Wonder Park
 *   Captive State
 *   Us (2019)
-*   Fandango Early Access: Shazam!
 *   Dumbo (2019)
+*   Pet Sematary (2019)
+*   Shazam!
+*   Hellboy (2019)
 
 Experience + Explore
 
