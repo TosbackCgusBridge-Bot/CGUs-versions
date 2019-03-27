@@ -5,10 +5,6 @@ Skip to main content.English (United States)USD
     *   FAQs
     *   Contact us
     *   Website feedback
-    
-    *   24 hours a day. 7 days a week.
-    *   This call is free.
-    *   Call us on 800-246-8357
 *   Your bookings
 *   Create account
 *   Sign in
