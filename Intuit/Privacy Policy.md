@@ -23,7 +23,17 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackShop and Save at JCPenney
+Near YouFind a StoreBackPROM DRESSESSHOP ALLPROM DRESSESSHOP ALL
+
+*   $10499after couponwas $200 B. Smart Sleeveless Applique Party Dress-Juniors(1)Add To Cart
+*   $8849after couponwas $169 Social Code Short Sleeve Dress Set-JuniorsAdd To Cart
+*   $10499after couponwas $200 Trixxi Short Sleeve Dress Set-Juniors(1)Add To Cart
+*   $13124after couponwas $250 Speechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
+*   $6749after couponwas $139 Speechless Sleeveless Party Dress-JuniorsAdd To Cart
+*   $8849after couponwas $169 City Triangle Short Sleeve Fitted Gown-JuniorsAdd To Cart
+*   $13124after couponwas $250 One By Eight Sleeveless Ball Gown-Juniors PlusAdd To Cart
+
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
