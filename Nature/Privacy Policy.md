@@ -310,7 +310,6 @@ Give
 *   Donate Now
 *   Membership
 *   Gift &. Estate Planning
-*   Gift Catalog
 
 Social
 
