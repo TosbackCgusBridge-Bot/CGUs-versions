@@ -10,8 +10,8 @@
     *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Miami
     *   Love &. Hip Hop New York
-    *   RuPaul's Drag Race
-    *   Trailblazer HonorsSee all Shows
+    *   Martha &. Snoop's Potluck Party Challenge
+    *   RuPaul's Drag RaceSee all Shows
 *   News
 *   App
 *   Watch Live TV
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBlack Ink CrewBlack Ink Crew ChicagoCartel CrewLove &. Hip Hop AtlantaLove &. Hip Hop MiamiLove &. Hip Hop New YorkRuPaul's Drag RaceTrailblazer Honorssee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppBlack Ink CrewBlack Ink Crew ChicagoCartel CrewLove &. Hip Hop AtlantaLove &. Hip Hop MiamiLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag RaceTrailblazer Honorssee all Shows
 *   News
 *   App
 *   Watch Live TV
