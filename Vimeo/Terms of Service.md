@@ -37,7 +37,7 @@ This Agreement includes our Privacy Policy and the addenda listed in **Section 1
 *   Embed our embeddable video player on third-party websites. and
 *   Use all related functionality that we may provide.
 
-The features available to you will depend on your plan. We may change features from time to time. If you have a paid account, we commit to providing the core video hosting and streaming features of your plan (including the bandwidth and storage capabilities stated at the time of purchase) during your current service period.
+The features available to you will depend on your plan. We may change features from time to time. If you have a paid account, we commit to providing the core video hosting and streaming features of your plan (including the bandwidth and storage capabilities stated at the time of purchase) during your current service period. We reserve the right to charge for excessive use of bandwidth where plays occur on third-party sites and applications outside our embeddable video player or Apps.
 
 **Transactions:** We may offer digital goods for sale. Purchases of Vimeo On Demand videos are governed by our Vimeo On Demand Viewer Agreement. Purchases of Vimeo Stock footage and licenses are governed by our Vimeo Stock License Agreement.
 
