@@ -176,6 +176,8 @@ Get a Demo
 
 Copyright All Rights Reserved © 2008-2019
 
+X
+
 The Right Content
 
 Using the Tealium Universal Data Hub, we’ve compiled your content topic and medium preferences based on your previous interactions with our digital properties.
