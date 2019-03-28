@@ -309,7 +309,6 @@ Join now! Collect 10 nights, get 1 free\*
 *   Travel Guides
 *   Top 50 Cities
 *   All countries
-*   All Hotels
 *   Site Index
 
 © 2019 Hotels.com, L.P. All rights reserved.
