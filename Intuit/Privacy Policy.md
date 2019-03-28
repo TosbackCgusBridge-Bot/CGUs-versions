@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $99See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -23,15 +23,52 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackPROM DRESSESSHOP ALLPROM DRESSESSHOP ALL
+Near YouFind a StoreBack FINAL HOURS OF COUPON CODEGETNOW6ENDS IN00HOURS 41MINS 09SECS PROM DRESSESSHOP ALLPROM DRESSESSHOP ALL
 
 *   $10499after couponwas $200 B. Smart Sleeveless Applique Party Dress-Juniors(1)Add To Cart
-*   $8849after couponwas $169 Social Code Short Sleeve Dress Set-JuniorsAdd To Cart
-*   $10499after couponwas $200 Trixxi Short Sleeve Dress Set-Juniors(1)Add To Cart
 *   $13124after couponwas $250 Speechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
+*   $10499after couponwas $200 Trixxi Short Sleeve Dress Set-Juniors(1)Add To Cart
 *   $6749after couponwas $139 Speechless Sleeveless Party Dress-JuniorsAdd To Cart
-*   $8849after couponwas $169 City Triangle Short Sleeve Fitted Gown-JuniorsAdd To Cart
 *   $13124after couponwas $250 One By Eight Sleeveless Ball Gown-Juniors PlusAdd To Cart
+*   $8849after couponwas $169 City Triangle Short Sleeve Fitted Gown-JuniorsAdd To Cart
+*   $13124after couponwas $250 DJ Jaz Sleeveless Beaded Fitted Gown-JuniorsAdd To Cart
+
+Hot Sellers
+
+*   BUY MORE AND SAVE WITH CODE: GETNOW6
+    
+    $2640after couponStafford Travel Oxford Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(167)
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $60
+    
+    Liz Claiborne Womens Janessa Wedge Sandals
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $60
+    
+    Liz Claiborne Womens Magenta Wedge Sandals(1)
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $40
+    
+    Arizona Womens Grape Slide Sandals
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $50
+    
+    Italiana By Italian Shoemakers Womens Amora Flat Sandals
+*   $2999 sale
+    
+    was $70 | 57% offHaggar® Premium No Iron Classic-Fit Flat-Front Khakis(629)
 
 Shop and Save at JCPenney
 
