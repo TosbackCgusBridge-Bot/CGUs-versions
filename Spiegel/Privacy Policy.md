@@ -13,10 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   27\. März 2019
+*   28\. März 2019
 *   Abo
-*   TV-Programmǀ
-*   DAX 11.419,48ǀ
+*   DAX 11.419,04ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -209,7 +208,6 @@ Anmelden
 *   Service
     
     *   Börse
-    *   TV-Programm
     *   Benzinpreis
     *   Bußgeldrechner
     *   Bücher bestellen
