@@ -59,10 +59,10 @@ Skip to main content
 
 *   $26,550 as shown1 2019 C-HR $20,995 starting1  
     27/31 est MPG24 Build Specials
-*   Hybrid Coming Soon $33,500 as shown1 All-New 2019 RAV4 $25,500 starting1  
-    26/35 est MPG23 Build Specials
-*   Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
-    34/30 est MPG3 Build Specials
+*   Hybrid Available $33,500 as shown1 All-New 2019 RAV4 $25,500 starting1  
+    26/35 est MPG34 Build Specials
+*   Hybrid $34,200 as shown1 All-New 2019 RAV4 Hybrid $33,700 starting1  
+    41/38 est MPG34 Build Specials
 *   Hybrid Available $42,100 as shown1 2019 Highlander $31,530 starting1  
     21/27 est MPG24 Build Specials
 *   Hybrid $49,225 as shown1 2019 Highlander Hybrid $37,170 starting1  
@@ -80,8 +80,8 @@ Skip to main content
     53/52 est MPG31 Build Specials
 *   Hybrid $42,850 as shown1 All-New 2019 Avalon Hybrid $36,550 starting1  
     43/44 est MPG24 Build Specials
-*   Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
-    34/30 est MPG3 Build Specials
+*   Hybrid $34,200 as shown1 All-New 2019 RAV4 Hybrid $33,700 starting1  
+    41/38 est MPG34 Build Specials
 *   Hybrid $49,225 as shown1 2019 Highlander Hybrid $37,170 starting1  
     30/28 est MPG24 Build Specials
 *   Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
@@ -100,7 +100,6 @@ Skip to main content
 *   2020 Land Cruiser Heritage Edition View More Info
 *   2019 Nightshade Special Editions View More Info
 *   2020 Camry TRD and Avalon TRD View More Info
-*   Hybrid All-New 2019 RAV4 Hybrid View More Info
 *   2019 Supra Xfinity Series Race Car View More Info
 *   GR Supra Racing Concept View More Info
 
@@ -142,9 +141,9 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 19/27 est MPG27 Trucks $36,615 as shown1 2019 Tacoma $25,700 starting1  
 18/22 est MPG3 $45,700 as shown1 2019 Tundra $31,520 starting1  
 15/19 est MPG24 Crossovers &. SUVs $26,550 as shown1 2019 C-HR $20,995 starting1  
-27/31 est MPG24 Hybrid Coming Soon $33,500 as shown1 All-New 2019 RAV4 $25,500 starting1  
-26/35 est MPG23 Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
-34/30 est MPG3 Hybrid Available $42,100 as shown1 2019 Highlander $31,530 starting1  
+27/31 est MPG24 Hybrid Available $33,500 as shown1 All-New 2019 RAV4 $25,500 starting1  
+26/35 est MPG34 Hybrid $34,200 as shown1 All-New 2019 RAV4 Hybrid $33,700 starting1  
+41/38 est MPG34 Hybrid Available $42,100 as shown1 2019 Highlander $31,530 starting1  
 21/27 est MPG24 Hybrid $49,225 as shown1 2019 Highlander Hybrid $37,170 starting1  
 30/28 est MPG24 $40,195 as shown1 2019 4Runner $35,110 starting1  
 17/21 est MPG24 $57,195 as shown1 2019 Sequoia $48,850 starting1  
@@ -152,13 +151,13 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 13/18 est MPG24 Hybrids &. Fuel Cell Hybrid $32,825 as shown1 2019 Camry Hybrid $28,250 starting1  
 51/53 est MPG5 Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
 53/52 est MPG31 Hybrid $42,850 as shown1 All-New 2019 Avalon Hybrid $36,550 starting1  
-43/44 est MPG24 Hybrid $32,485 as shown1 2018 RAV4 Hybrid $27,385 starting1  
-34/30 est MPG3 Hybrid $49,225 as shown1 2019 Highlander Hybrid $37,170 starting1  
+43/44 est MPG24 Hybrid $34,200 as shown1 All-New 2019 RAV4 Hybrid $33,700 starting1  
+41/38 est MPG34 Hybrid $49,225 as shown1 2019 Highlander Hybrid $37,170 starting1  
 30/28 est MPG24 Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
 54/133 est. MPG15/MPGe16 Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
 54/50 est MPG33 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
 48/43 est MPG24 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
-67/67 est. MPGe24 Upcoming Vehicles All-New 2020 GR Supra 2020 RAV4 TRD Off-Road 2020 Tacoma 2020 Sequoia TRD Pro 2020 Land Cruiser Heritage Edition 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD Hybrid All-New 2019 RAV4 Hybrid 2019 Supra Xfinity Series Race Car GR Supra Racing Concept All Vehicles
+67/67 est. MPGe24 Upcoming Vehicles All-New 2020 GR Supra 2020 RAV4 TRD Off-Road 2020 Tacoma 2020 Sequoia TRD Pro 2020 Land Cruiser Heritage Edition 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD 2019 Supra Xfinity Series Race Car GR Supra Racing Concept All Vehicles
 
 *   FAQ
 *   Careers
@@ -181,6 +180,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 *   Find Your Match
 *   Buy Parts and Accessories
 
+*   FAQ
 *   Careers
 *   Español
 *   Owners
@@ -307,8 +307,6 @@ Toyota Vehicles
     
 *   Full-Size SUVs  
     
-*   Mid-Size SUVs  
-    
 *   Full-Size Cars  
     
 *   Mid-Size Cars  
@@ -319,9 +317,9 @@ Toyota Vehicles
     
 *   4-Door Sedans  
     
-
 *   2-Door Cars  
     
+
 *   All-Wheel-Drive Vehicles  
     
 *   Cars for Teenagers  
@@ -726,7 +724,7 @@ The Platforms gives you choices. If you choose to receive e-mails from us about 
 
 If you provided Toyota with Personal Information through the Owners section of toyota.com, you may review and update that information by clicking on the Owners link on the homepage of toyota.com, registering or logging in and then clicking on "Update Profile." If you have signed up for the Toyota marketing e-mail list, you can access the Preferences page and change your user profile or unsubscribe from the Toyota e-mail list here.
 
-For users who are not currently registered on our owner site, please call Customer Satisfaction at 800-331-4331 to opt out from receiving e-mail communications from Toyota. If you receive an e-mail, you may opt-out at any time by following the opt-out instructions provided in the e-mail you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
+For users who are not currently registered on our owner site, please call Customer Satisfaction at 800-331-4331 to opt out from receiving e-mail communications from Toyota. If you receive an e-mail, you may opt-out at any time by following the opt-out instructions provided in the e-mail you receive. Your opt-out request will be processed within 10 days of the date on which we receive it.
 
 If you are participating in a Program, you may be able to access and update the information you provided as part of your participation in the Program. Please see the section of the Platforms concerning the specific Program to determine if you are able to access your information and how to do so.
 
@@ -1195,7 +1193,8 @@ Help
 
 *   1\. MSRP excludes the Delivery, Processing, and Handling Fee of $930 for Cars (Yaris LB, Yaris Sedan, 86, Corolla, Corolla HB, Camry, Camry HV, Prius LB, Prius _c_, Prius Prime, Mirai, Avalon, Avalon HV, GR Supra), $1,095 for Small/Medium Trucks, SUVs and Van (C-HR, RAV4, RAV4 HV, Highlander, Highlander HV, 4Runner, Sienna, Tacoma), $1,295 for Large SUVs (Sequoia, Land Cruiser), and $1,495 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
 *   2\. 2017 EPA-estimated city/highway mileage. Actual mileage will vary.  
-    2018 EPA-estimated city/highway mileage. Actual mileage will vary.
+    2018 EPA-estimated city/highway mileage. Actual mileage will vary.  
+    2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. Actual mileage will vary. 2019 RAV4 Hybrid LE, Hybrid XLE, Hybrid XSE and Hybrid Limited preliminary 41 city/38 hwy/40 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
 *   3\. 2018 EPA-estimated mileage. Actual mileage will vary.
 *   4\. 2019 EPA-estimated 29 city/41 highway/34 combined mpg for Camry L. Actual mileage will vary.
 *   5\. 2019 EPA-estimated 29 city/41 hwy/34 combined mpg for Camry L. 28 city/39 hwy/32 combined mpg for LE, SE, XLE 4-Cylinder and XSE 4-Cylinder. 22 city/33 hwy/26 combined mpg for XLE V6. 22 city/32 hwy/26 combined mpg for XSE V6. 51 city/53 hwy/52 combined mpg for Hybrid LE. and 44 city/47 hwy/46 combined mpg for Hybrid SE and Hybrid XLE. Actual mileage will vary.
@@ -1227,6 +1226,7 @@ Help
 *   31\. 2020 EPA-estimated 53 city/52 highway/52 combined mpg for Corolla LE Hybrid. Actual mileage will vary.
 *   32\. 2020 EPA-estimated 31 city/38 highway/34 combined mpg for Corolla XSE. Actual mileage will vary.
 *   33\. 2019 EPA-estimated 54 city/50 hwy/52 combined mpg estimates for Prius LE, XLE and Limited. Actual mileage will vary.
+*   34\. 2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. Actual mileage will vary. 2019 RAV4 Hybrid LE, Hybrid XLE, Hybrid XSE and Hybrid Limited preliminary 41 city/38 hwy/40 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
 
 YOUR GARAGE NONE Log In
 
