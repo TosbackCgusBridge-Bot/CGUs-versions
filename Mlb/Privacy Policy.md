@@ -82,8 +82,8 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
 *   MLB.TV MLB.TV MLB.TV
     *   Buy MLB.TV
     *   Watch MLB.TV
-    *   MLB.TV 2019 Spring Training Schedule
     *   Buy Gameday Audio
+    *   Buy Follow Your Team
     *   Buy MLB.TV Gift Cards
     *   MLB.TV Supported Devices
     *   MLB.TV with Extra Innings
