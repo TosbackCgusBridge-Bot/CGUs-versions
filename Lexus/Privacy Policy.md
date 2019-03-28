@@ -387,6 +387,7 @@ Leasing &. Finance
 *   Reward &. Finance Programs
 *   End of Lease Options
 *   Buy or Lease Quiz
+*   Lexus Complete Lease
 
 Owners
 
@@ -453,6 +454,7 @@ Brand &. Lifestyle
     *   Reward &. Finance Programs
     *   End of Lease Options
     *   Buy or Lease Quiz
+    *   Lexus Complete Lease
 *   Owners
     *   Enform Subscription
     *   Owner Benefits
