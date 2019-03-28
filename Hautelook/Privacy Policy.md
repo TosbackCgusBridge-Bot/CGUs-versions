@@ -8,122 +8,122 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Vince Camuto Incl. Plus &. Petites
+    *   Valentino by Mario Valentino
+    *   Pool Party Ready: Swim Under $50
+    *   Sandals We Love Under $50
+    *   Get on Board: Men's Swim Shorts
+    *   Poolside Ready: Men's Sandals &. More from $15
+    *   Kids' Swim Starting at $12
+    *   Kids' Sandals &. Water Shoes from $15
+    *   Nine West
+    *   Necessary Knits: Tops Under $20
+    *   WAYF Starting at $15
+    *   William Rast
+    *   Shapewear ft. Yummie by Heather Thomson
+    *   Vintage Foundry Up to 80% Off
+    *   Karen Walker &. More: Sun Up to 75% Off
+    *   Butter Super Soft
+    *   Rivka Friedman Jewelry Up to 65% Off
+    *   Down &. Memory Foam Essentials
+    *   Doucce
+    *   $40 &. Under: RVCA
+    *   Exclusively Ours: Bestselling Towels &. More
+    
+    *   Kids' Denim Short Shop: Levi's &. More
+    *   Decorate Your Walls: Art from $15
+    *   Vince Camuto Men's Tailored Clothing Up to 70% Off
+    *   Lovers + Friends &. Tularosa Up to 60% Off
+    *   Petit Pois By Viviana G
     *   Tommy Bahama Men's Clothing, Shoes &. Accessories
     *   Tommy Bahama Swim &. Collection Up to 60% Off
-    *   Naturalizer Starting at $30
     *   GOOD LUCK GEM &. More
-    *   Free Shipping: Metal Wall Art &. More
-    *   Home Scents: Candles ft. NEST Fragrances
-    *   Free Shipping: Hand-Painted Replicas
-    *   Decorative Pillows &. Throws
     *   Standout Sleeves: Tops, Dresses &. More
     *   Tommy Bahama Handbags
+    *   Naturalizer Starting at $30
     *   Spring Transition Sweaters ft. John &. Jenn
     *   GUESS Shoes &. More
     *   Underneath It All: Men's Socks, Underwear &. More
     *   Tommy Bahama Kids
-    *   Korean Beauty: JayJun Skin Care
     *   JOE'S Jeans
     *   JOE'S Jeans Men Up to 60% Off
-    *   Lovers + Friends &. Tularosa Up to 60% Off
-    *   Petit Pois By Viviana G
-    *   Jeffrey Campbell &. More
-    *   Suit Yourself: Work Essentials
-    
-    *   JOE'S Jeans &. More: Sun Up to 80% Off
     *   JOE'S Jeans Kids Up to 50% Off
-    *   Chaco Under $100
     *   skinChemists Up to 85% Off
     *   Perry Ellis Up to 70% Off
-    *   Kooba Handbags
-    *   Sleep &. Lounge ft. JOE'S Jeans
-    *   Street-Chic Active ft. X by Gottex
-    *   Call It Spring Starting at $20
     *   Bedding Sets Up to 70% Off
+    
     *   Hybrid Green Label
     *   Fancy Footwear ft. Naturino
-    *   Thomas Pink Up to 65% Off
-    *   Men's Designer Accessories
-    *   CZ by Kenneth Jay Lane Up to 70% Off
+    *   Free Shipping: Sheets Up to 70% Off
     *   Orlando Pita Play
-    *   Baby Shop: Premium Styles Under $25
     *   Home Office Improvements: Risers &. More from $10
     *   Spring Break Ready: Beach Towels from $10
-    *   Detox &. Wellness Teas and Drops from Teasane
-    *   Croscill Bedding
-    
-    *   Stock the Bar: Glasses &. More
-    *   Go Couture Dresses Up to 75% Off
-    *   Free Shipping: BergHOFF Up to 65% Off
-    *   Men's Outerwear Blowout
-    *   One-of-a-Kind Bags &. More Up to 80% Off
-    *   Flats, Sandals &. More Up to 70% Off
-    *   Men's Shoes Up to 70% Off
+    *   Korean Beauty: JayJun Skin Care
+    *   Suit Yourself: Work Essentials
     *   Exclusively Ours BestSelling Throws amp Pillows
     *   Free Shipping: Bedding Steals Up to 70% Off
-    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
-    *   Free Shipping: Candles &. Diffusers
-    *   In Top Form: Blouses &. More Up to 75% Off
-    *   London Times &. Maggy London Incl. Plus &. Petites
-    *   ARATTA &. More Up to 70% Off
-    *   Zella &. Z By Zella Incl. Plus
-    *   Rock Revival &. MISS ME
+    *   Men's Shoes Up to 70% Off
     *   Free Shipping: NMK Bedding Up to 75% Off
-    *   Free Shipping: Sheets Up to 70% Off
     *   Whimsical Finds ft. Anthropologie Home &. More
+    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
+    *   Home Scents: Candles ft. NEST Fragrances
+    *   Free Shipping: Hand-Painted Replicas
+    *   Free Shipping: Metal Wall Art &. More
+    *   Decorative Pillows &. Throws
+    *   Free Shipping: BergHOFF Up to 65% Off
+    *   London Times &. Maggy London Incl. Plus &. Petites
+    *   Stock the Bar: Glasses &. More
 *   WomenShop Sale Events
     
+    *   Vince Camuto Incl. Plus &. Petites
+    *   Valentino by Mario Valentino
+    *   Pool Party Ready: Swim Under $50
+    *   Sandals We Love Under $50
+    *   Nine West
+    *   Necessary Knits: Tops Under $20
+    *   WAYF Starting at $15
+    *   William Rast
+    *   Shapewear ft. Yummie by Heather Thomson
+    *   Karen Walker &. More: Sun Up to 75% Off
+    *   Rivka Friedman Jewelry Up to 65% Off
+    *   Doucce
+    *   Lovers + Friends &. Tularosa Up to 60% Off
+    *   Petit Pois By Viviana G
+    
     *   Tommy Bahama Swim &. Collection Up to 60% Off
-    *   Naturalizer Starting at $30
     *   GOOD LUCK GEM &. More
     *   Standout Sleeves: Tops, Dresses &. More
     *   Tommy Bahama Handbags
+    *   Naturalizer Starting at $30
     *   Spring Transition Sweaters ft. John &. Jenn
     *   GUESS Shoes &. More
-    *   Korean Beauty: JayJun Skin Care
     *   JOE'S Jeans
-    *   Lovers + Friends &. Tularosa Up to 60% Off
-    *   Petit Pois By Viviana G
-    *   Jeffrey Campbell &. More
-    *   Suit Yourself: Work Essentials
-    *   JOE'S Jeans &. More: Sun Up to 80% Off
-    *   Chaco Under $100
     *   skinChemists Up to 85% Off
-    
-    *   Kooba Handbags
-    *   Sleep &. Lounge ft. JOE'S Jeans
-    *   Street-Chic Active ft. X by Gottex
-    *   Call It Spring Starting at $20
-    *   CZ by Kenneth Jay Lane Up to 70% Off
     *   Orlando Pita Play
-    *   Detox &. Wellness Teas and Drops from Teasane
-    *   Go Couture Dresses Up to 75% Off
-    *   One-of-a-Kind Bags &. More Up to 80% Off
-    *   Flats, Sandals &. More Up to 70% Off
-    *   In Top Form: Blouses &. More Up to 75% Off
+    *   Korean Beauty: JayJun Skin Care
+    *   Suit Yourself: Work Essentials
     *   London Times &. Maggy London Incl. Plus &. Petites
-    *   ARATTA &. More Up to 70% Off
-    *   Zella &. Z By Zella Incl. Plus
-    *   Rock Revival &. MISS ME
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Jewelry
+    *   Handbags
     *   Lingerie
     *   Accessories
 *   MenShop Sale Events
     
+    *   Get on Board: Men's Swim Shorts
+    *   Poolside Ready: Men's Sandals &. More from $15
+    *   Vintage Foundry Up to 80% Off
+    *   $40 &. Under: RVCA
+    *   Vince Camuto Men's Tailored Clothing Up to 70% Off
     *   Tommy Bahama Men's Clothing, Shoes &. Accessories
+    
     *   Underneath It All: Men's Socks, Underwear &. More
     *   JOE'S Jeans Men Up to 60% Off
-    *   JOE'S Jeans &. More: Sun Up to 80% Off
     *   Perry Ellis Up to 70% Off
     *   Hybrid Green Label
-    *   Thomas Pink Up to 65% Off
-    *   Men's Designer Accessories
-    *   Men's Outerwear Blowout
     *   Men's Shoes Up to 70% Off
     
     Shop By Category
@@ -132,40 +132,44 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Kids' Swim Starting at $12
+    *   Kids' Sandals &. Water Shoes from $15
+    *   Butter Super Soft
+    *   Kids' Denim Short Shop: Levi's &. More
     *   Tommy Bahama Kids
     *   JOE'S Jeans Kids Up to 50% Off
     *   Fancy Footwear ft. Naturino
-    *   Baby Shop: Premium Styles Under $25
     
     Shop By Category
     *   Girls' Shoes
-    *   Baby Girl
-    *   Baby Boy
+    *   Girls' Sizes 2T-6X
+    *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
-    *   Girls' Sizes 7-16
-    *   Girls' Sizes 2T-6X
     *   Boys' Shoes
+    *   Baby Boy
+    *   Baby Girl
 *   HomeShop Sale Events
     
-    *   Free Shipping: Metal Wall Art &. More
-    *   Home Scents: Candles ft. NEST Fragrances
-    *   Free Shipping: Hand-Painted Replicas
-    *   Decorative Pillows &. Throws
+    *   Down &. Memory Foam Essentials
+    *   Exclusively Ours: Bestselling Towels &. More
+    *   Decorate Your Walls: Art from $15
     *   Bedding Sets Up to 70% Off
+    *   Free Shipping: Sheets Up to 70% Off
     *   Home Office Improvements: Risers &. More from $10
     *   Spring Break Ready: Beach Towels from $10
-    *   Croscill Bedding
-    *   Stock the Bar: Glasses &. More
-    
-    *   Free Shipping: BergHOFF Up to 65% Off
     *   Exclusively Ours BestSelling Throws amp Pillows
     *   Free Shipping: Bedding Steals Up to 70% Off
-    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
-    *   Free Shipping: Candles &. Diffusers
+    
     *   Free Shipping: NMK Bedding Up to 75% Off
-    *   Free Shipping: Sheets Up to 70% Off
     *   Whimsical Finds ft. Anthropologie Home &. More
+    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
+    *   Home Scents: Candles ft. NEST Fragrances
+    *   Free Shipping: Hand-Painted Replicas
+    *   Free Shipping: Metal Wall Art &. More
+    *   Decorative Pillows &. Throws
+    *   Free Shipping: BergHOFF Up to 65% Off
+    *   Stock the Bar: Glasses &. More
     
     Shop By Category
     *   Home Decor
@@ -173,23 +177,22 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kitchen &. Tabletop
     *   Bath
     *   Outdoor Living
-    *   Cleaning &. Organization
     *   Luggage &. Travel
-    *   Tech Accessories
+    *   Cleaning &. Organization
     *   Accent Furniture
+    *   Tech Accessories
 *   BeautyShop Sale Events
     
-    *   Korean Beauty: JayJun Skin Care
+    *   Doucce
     *   skinChemists Up to 85% Off
     *   Orlando Pita Play
-    *   Detox &. Wellness Teas and Drops from Teasane
+    *   Korean Beauty: JayJun Skin Care
     
     Shop By Category
-    *   Fragrance
-    *   Skin Care
-    *   Hair Care
-    *   Bath &. Body
     *   Makeup
+    *   Skin Care
+    *   Fragrance
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
