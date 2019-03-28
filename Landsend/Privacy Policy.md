@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles!
+Receive 40% off 1 full-price item!
 
-code: COCONUT pin: 6789 DETAILS
+code: SUNNY pin: 2624 DETAILS
 
 Customer Service Menu
 
