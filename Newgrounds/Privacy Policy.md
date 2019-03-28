@@ -16,7 +16,7 @@ We allow you to sign up with and log in via your Facebook and Google accounts. W
   
 **Information Sharing**  
   
-We do not share your personal information with any third parties, with the exception of any direct and credible requests from enforcement agencies in order to comply with any law, regulation or legal process. In rare cases, we may also volunteer your information to law enforcement agencies if we feel you or actions you make on Newgrounds pose a risk to us or to others.  
+We do not share your personal information with any third parties, with the exception of any direct and credible requests from enforcement agencies in order to comply with any law, regulation or legal process. In rare cases, we may also volunteer your information to law enforcement agencies if we receive a subpoena or feel you or actions you make on Newgrounds pose a risk to us or to others.  
   
 We may share information you have provided publicly in order to promote work you have done, or to publicize something you have participated in. For example, if you have uploaded a game, animation, piece of art or audio, we may promote that work. Similarly, if you have written an interesting blog article, we may choose to talk about that publicly in our own news posts.  
   
