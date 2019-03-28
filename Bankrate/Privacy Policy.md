@@ -170,8 +170,8 @@
     
     Use Calculators
     
-    *   Should you borrow from Home Equity
-    *   HELOC Calculator
+    *   Home Equity Calculator
+    *   Loan vs. Line Of Credit Calculator
     *   Debt consolidation calculator
     *   HELOC payoff calculator
     *   All home equity calculators
