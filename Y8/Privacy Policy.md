@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 631 games
-*   Most Popular Games 18953 games
+*   Best of new games 629 games
+*   Most Popular Games 18955 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,800 games
+*   Games for girls 23,803 games
 *   Driving &. Racing Games 6,779 games
 *   Strategy &. RPG Games 2,412 games
-*   Management Games 3,640 games
-*   Thinking Games 11,970 games
-*   Action &. Adventure Games 16,022 games
+*   Management Games 3,641 games
+*   Thinking Games 11,969 games
+*   Action &. Adventure Games 16,023 games
 *   Sports Games 2,190 games
 *   Shooting Games 8,422 games
 *   Fighting Games 2,095 games
-*   Skill Games 10,878 games
-*   Arcade &. Classic Games 12,786 games
+*   Skill Games 10,882 games
+*   Arcade &. Classic Games 12,787 games
 *   Fun &. Crazy Games 2,498 games
 
 Play with friends  
 Powered by Y8 Account 140 Y8 Multiplayer Games 1,927 Y8 High Score Games 1,141 Y8 Achievements Games 809 Y8 Screenshots Games 1,413 Y8 Online Save Games 2,981 All Y8 Games Games Last Highscore:
 
-**118** points on Death Run 3D by yuki
+**7** points on Noughts And Crosses by russell
 
 Help us improve Bad translation? Social
 
