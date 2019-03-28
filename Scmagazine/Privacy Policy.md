@@ -212,17 +212,17 @@ New York, NY 10001.**
     *   Software maker Citrix hacked, business documents removed
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Two U.S. chemical companies disclose cyberattack, LockerGoga suspected
-    *   WordPress plugin zero day exploited in the wild
-    *   Apple's latest round of security updates includes 51 iOS fixes
-    *   Rutland Regional Medical Center, Zoll reveal data breaches
-    *   Man steals stingray, threatens to leak nudes
-    
-    *   Leveraging the power of packet capture for machine learning in cybersecurity
-    *   ShadowHammer attack installed backdoors on a million ASUS devices
-    *   Decryption tool created for ransomware designed to boost PewDiePie subscriptions
-    *   Two U.S. chemical companies disclose cyberattack. LockerGoga ransomware reportedly the culprit. Following Norsk Hydro ransomware attack, two U.S. chemical companies disclose reportedly similar incidents
+    *   Asus issues patch, but questions still remain about ShadowHammer
+    *   Hedge fund manager sentenced to 60 months security fraud, hacking scheme
+    *   Damages from ransomware attack on Norsk Hydro reach as high as $40M
+    *   Kushner used WhatsApp, personal email for gov't biz. McFarland used AOL to discuss Saudi Arabia nuclear transfer
     *   Researchers get free Tesla for finding infotainment system bug
+    
+    *   Elfin, aka APT33, targets U.S., Saudi Arabian firms in cyberespionage campaign
+    *   GAO takes Fiscal Services to task over new and old cyber problems
+    *   Damages from ransomware attack on Norsk Hydro reach as high as $40M
+    *   Mozilla plugs two critical security holes in Thunderbird
+    *   UConn Health Center hit with $5M suite over breach
 
 Back to Top
 
