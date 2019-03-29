@@ -1,4 +1,4 @@
-Accessible View
+Free Shipping Anywhere Over $99See DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -23,7 +23,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack FINAL HOURS OF COUPON CODEGETNOW6ENDS IN00HOURS 41MINS 09SECS PROM DRESSESSHOP ALLPROM DRESSESSHOP ALL
+Near YouFind a StoreBackPROM DRESSESSHOP ALLPROM DRESSESSHOP ALL
 
 *   $10499after couponwas $200 B. Smart Sleeveless Applique Party Dress-Juniors(1)Add To Cart
 *   $13124after couponwas $250 Speechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
@@ -35,44 +35,46 @@ Near YouFind a StoreBack FINAL HOURS OF COUPON CODEGETNOW6ENDS IN00HOURS 41MINS 
 
 Hot Sellers
 
-*   BUY MORE AND SAVE WITH CODE: GETNOW6
-    
-    $2640after couponStafford Travel Oxford Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(167)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
-    $60
+    $54
     
-    Liz Claiborne Womens Janessa Wedge Sandals
+    Arizona Womens Tavari Gladiator Sandals
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
-    $60
+    $54
     
-    Liz Claiborne Womens Magenta Wedge Sandals(1)
+    Italiana By Italian Shoemakers Womens Amalia Wedge Sandals
+*   from$2099after couponwas $60 Liz Claiborne Womens Magenta Wedge Sandals(1)
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $54
+    
+    a.n.a Womens Saint Wedge Sandals
+*   BEST VALUE!
+    
+    $1999
+    
+    As Seen On TV® Finishing Touch Flawless Hair Remover(71)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
     $40
     
-    Arizona Womens Grape Slide Sandals
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $50
-    
-    Italiana By Italian Shoemakers Womens Amora Flat Sandals
-*   $2999 sale
-    
-    was $70 | 57% offHaggar® Premium No Iron Classic-Fit Flat-Front Khakis(629)
+    Arizona Womens Seymour Adjustable Strap Flat Sandals
 
 Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
+
+Add To Cart
 
 *   Signup for text\* or email alerts, offers and promotionsSign Up
 *   **\*Text Alerts:** Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text HELP to 527365 for help and STOP to 527365 to cancel.  Terms &. Conditions. Privacy Policy.
