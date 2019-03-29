@@ -1,6 +1,6 @@
 *   be\_ixf. js\_sdk. js\_sdk\_1.0.14
-*   528 ms
-*   iy\_2019. im\_03. id\_27. ih\_22. imh\_31. i\_epoch:1553751095300
+*   436 ms
+*   iy\_2019. im\_03. id\_28. ih\_22. imh\_31. i\_epoch:1553837465130
 *   ixf-compiler. ixf-compiler\_1.0.0.0
 *   py\_2019. pm\_03. pd\_13. ph\_11. pmh\_15. p\_epoch:1552500916086
 
@@ -34,12 +34,12 @@ Thomson Reuters Legal
     *   Investigate and mitigate risk
     *   Simplify litigation
     *   Fast-track drafting and contracts
-    *   Regulation and Compliance Management
+    *   Regulation &. compliance management
     *   All solutions
     
     Featured
     
-    Introducing **CLEAR Risk Inform** Gain immediate, reliable risk insights for individuals and businesses. Learn more
+    **5 steps to prove client value and increase profit** Discover new ways to increase referrals and improve client satisfaction. Learn more
 *   InsightsInsights Insights
     
     *   Latest stories
