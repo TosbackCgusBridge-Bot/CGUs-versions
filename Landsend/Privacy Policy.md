@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off 1 full-price item!
+Receive 25% off full-price styles!
 
-code: SUNNY pin: 2624 DETAILS
+code: LILY pin: 2465 DETAILS
 
 Customer Service Menu
 
