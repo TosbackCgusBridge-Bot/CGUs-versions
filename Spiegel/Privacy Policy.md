@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   28\. März 2019
+*   29\. März 2019
 *   Abo
-*   DAX 11.419,04ǀ
+*   DAX 11.428,16ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
