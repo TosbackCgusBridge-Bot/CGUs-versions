@@ -20,6 +20,7 @@
     *   First-time homebuyer grants and programs
     *   First-time homebuyer tips
     *   FHA loans
+    *   VA loans
 *   Banking Compare Accounts
     
     *   CD rates
