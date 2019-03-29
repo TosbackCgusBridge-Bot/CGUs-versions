@@ -8,17 +8,35 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   TOMS Starting at $30
+    *   TOMS Men Starting at $30
+    *   TOMS Kids Starting at $20
+    *   Max Studio
+    *   Loveappella
+    *   Harlowe &. Graham
+    *   Getaway Essentials ft. Z&L Europe
+    *   TOMS Sun Under $50
+    *   Tahitian &. Akoya Pearls &. More Under $85
+    *   Predire
+    *   John Varvatos Men
+    *   Ultra-Soft Printed Sheets &. More Up to 55% Off
+    *   TAVIK Swim &. More
+    *   14K Gold, Gemstones &. More Under $90
+    *   Free Shipping: Pet-Friendly Covers &. More
+    *   Free Shipping: Removable Wallpaper, Decals &. More
+    *   KORKS
+    *   French Connection Handbags
+    *   Men's Active Under $40
+    *   Speakers, Chargers &. More from $15
+    *   Betsey Johnson Girls' Sleep &. More
+    *   Top It Off: Kids' Tanks &. Tees Starting at $9
+    *   Vince Camuto Men's Tailored Clothing Up to 70% Off
+    
     *   Vince Camuto Incl. Plus &. Petites
-    *   Valentino by Mario Valentino
-    *   Pool Party Ready: Swim Under $50
-    *   Sandals We Love Under $50
-    *   Get on Board: Men's Swim Shorts
-    *   Poolside Ready: Men's Sandals &. More from $15
-    *   Kids' Swim Starting at $12
-    *   Kids' Sandals &. Water Shoes from $15
     *   Nine West
     *   Necessary Knits: Tops Under $20
     *   WAYF Starting at $15
+    *   Valentino by Mario Valentino
     *   William Rast
     *   Shapewear ft. Yummie by Heather Thomson
     *   Vintage Foundry Up to 80% Off
@@ -29,79 +47,69 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Doucce
     *   $40 &. Under: RVCA
     *   Exclusively Ours: Bestselling Towels &. More
-    
     *   Kids' Denim Short Shop: Levi's &. More
     *   Decorate Your Walls: Art from $15
-    *   Vince Camuto Men's Tailored Clothing Up to 70% Off
-    *   Lovers + Friends &. Tularosa Up to 60% Off
-    *   Petit Pois By Viviana G
     *   Tommy Bahama Men's Clothing, Shoes &. Accessories
-    *   Tommy Bahama Swim &. Collection Up to 60% Off
-    *   GOOD LUCK GEM &. More
-    *   Standout Sleeves: Tops, Dresses &. More
     *   Tommy Bahama Handbags
-    *   Naturalizer Starting at $30
-    *   Spring Transition Sweaters ft. John &. Jenn
-    *   GUESS Shoes &. More
     *   Underneath It All: Men's Socks, Underwear &. More
     *   Tommy Bahama Kids
-    *   JOE'S Jeans
-    *   JOE'S Jeans Men Up to 60% Off
-    *   JOE'S Jeans Kids Up to 50% Off
-    *   skinChemists Up to 85% Off
-    *   Perry Ellis Up to 70% Off
+    *   Korean Beauty: JayJun Skin Care
     *   Bedding Sets Up to 70% Off
     
     *   Hybrid Green Label
-    *   Fancy Footwear ft. Naturino
-    *   Free Shipping: Sheets Up to 70% Off
     *   Orlando Pita Play
     *   Home Office Improvements: Risers &. More from $10
     *   Spring Break Ready: Beach Towels from $10
-    *   Korean Beauty: JayJun Skin Care
-    *   Suit Yourself: Work Essentials
-    *   Exclusively Ours BestSelling Throws amp Pillows
-    *   Free Shipping: Bedding Steals Up to 70% Off
-    *   Men's Shoes Up to 70% Off
+    *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: NMK Bedding Up to 75% Off
-    *   Whimsical Finds ft. Anthropologie Home &. More
-    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
     *   Home Scents: Candles ft. NEST Fragrances
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Metal Wall Art &. More
     *   Decorative Pillows &. Throws
-    *   Free Shipping: BergHOFF Up to 65% Off
+    *   Kids' Sandals &. Water Shoes from $15
+    *   Poolside Ready: Men's Sandals &. More from $15
+    *   Pool Party Ready: Swim Under $50
+    *   Kids' Swim Starting at $12
+    *   Sandals We Love Under $50
+    *   Get on Board: Men's Swim Shorts
+    *   GOOD LUCK GEM &. More
+    *   skinChemists Up to 85% Off
+    *   Exclusively Ours BestSelling Throws amp Pillows
+    *   Free Shipping: Bedding Steals Up to 70% Off
     *   London Times &. Maggy London Incl. Plus &. Petites
-    *   Stock the Bar: Glasses &. More
+    *   Free Shipping: Sheets Up to 70% Off
 *   WomenShop Sale Events
     
+    *   TOMS Starting at $30
+    *   Max Studio
+    *   Loveappella
+    *   Harlowe &. Graham
+    *   Getaway Essentials ft. Z&L Europe
+    *   TOMS Sun Under $50
+    *   Tahitian &. Akoya Pearls &. More Under $85
+    *   Predire
+    *   TAVIK Swim &. More
+    *   14K Gold, Gemstones &. More Under $90
+    *   KORKS
+    *   French Connection Handbags
     *   Vince Camuto Incl. Plus &. Petites
-    *   Valentino by Mario Valentino
-    *   Pool Party Ready: Swim Under $50
-    *   Sandals We Love Under $50
     *   Nine West
     *   Necessary Knits: Tops Under $20
+    
     *   WAYF Starting at $15
+    *   Valentino by Mario Valentino
     *   William Rast
     *   Shapewear ft. Yummie by Heather Thomson
     *   Karen Walker &. More: Sun Up to 75% Off
     *   Rivka Friedman Jewelry Up to 65% Off
     *   Doucce
-    *   Lovers + Friends &. Tularosa Up to 60% Off
-    *   Petit Pois By Viviana G
-    
-    *   Tommy Bahama Swim &. Collection Up to 60% Off
-    *   GOOD LUCK GEM &. More
-    *   Standout Sleeves: Tops, Dresses &. More
     *   Tommy Bahama Handbags
-    *   Naturalizer Starting at $30
-    *   Spring Transition Sweaters ft. John &. Jenn
-    *   GUESS Shoes &. More
-    *   JOE'S Jeans
-    *   skinChemists Up to 85% Off
-    *   Orlando Pita Play
     *   Korean Beauty: JayJun Skin Care
-    *   Suit Yourself: Work Essentials
+    *   Orlando Pita Play
+    *   Pool Party Ready: Swim Under $50
+    *   Sandals We Love Under $50
+    *   GOOD LUCK GEM &. More
+    *   skinChemists Up to 85% Off
     *   London Times &. Maggy London Incl. Plus &. Petites
     
     Shop By Category
@@ -113,18 +121,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   MenShop Sale Events
     
-    *   Get on Board: Men's Swim Shorts
-    *   Poolside Ready: Men's Sandals &. More from $15
-    *   Vintage Foundry Up to 80% Off
-    *   $40 &. Under: RVCA
+    *   TOMS Men Starting at $30
+    *   TOMS Sun Under $50
+    *   John Varvatos Men
+    *   Men's Active Under $40
     *   Vince Camuto Men's Tailored Clothing Up to 70% Off
-    *   Tommy Bahama Men's Clothing, Shoes &. Accessories
+    *   Vintage Foundry Up to 80% Off
     
+    *   $40 &. Under: RVCA
+    *   Tommy Bahama Men's Clothing, Shoes &. Accessories
     *   Underneath It All: Men's Socks, Underwear &. More
-    *   JOE'S Jeans Men Up to 60% Off
-    *   Perry Ellis Up to 70% Off
     *   Hybrid Green Label
-    *   Men's Shoes Up to 70% Off
+    *   Poolside Ready: Men's Sandals &. More from $15
+    *   Get on Board: Men's Swim Shorts
     
     Shop By Category
     *   Clothing
@@ -132,67 +141,72 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Kids' Swim Starting at $12
-    *   Kids' Sandals &. Water Shoes from $15
+    *   TOMS Kids Starting at $20
+    *   Betsey Johnson Girls' Sleep &. More
+    *   Top It Off: Kids' Tanks &. Tees Starting at $9
     *   Butter Super Soft
     *   Kids' Denim Short Shop: Levi's &. More
     *   Tommy Bahama Kids
-    *   JOE'S Jeans Kids Up to 50% Off
-    *   Fancy Footwear ft. Naturino
+    *   Kids' Sandals &. Water Shoes from $15
+    *   Kids' Swim Starting at $12
     
     Shop By Category
     *   Girls' Shoes
     *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
-    *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
     *   Boys' Shoes
+    *   Boys' Sizes 8-20
+    *   Boys' Sizes 2T-7
     *   Baby Boy
     *   Baby Girl
 *   HomeShop Sale Events
     
+    *   Ultra-Soft Printed Sheets &. More Up to 55% Off
+    *   Free Shipping: Pet-Friendly Covers &. More
+    *   Free Shipping: Removable Wallpaper, Decals &. More
+    *   Speakers, Chargers &. More from $15
     *   Down &. Memory Foam Essentials
     *   Exclusively Ours: Bestselling Towels &. More
     *   Decorate Your Walls: Art from $15
     *   Bedding Sets Up to 70% Off
-    *   Free Shipping: Sheets Up to 70% Off
     *   Home Office Improvements: Risers &. More from $10
     *   Spring Break Ready: Beach Towels from $10
-    *   Exclusively Ours BestSelling Throws amp Pillows
-    *   Free Shipping: Bedding Steals Up to 70% Off
     
+    *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: NMK Bedding Up to 75% Off
-    *   Whimsical Finds ft. Anthropologie Home &. More
-    *   Kitchen Prep ft. KitchenAid, Vitamix &. More
     *   Home Scents: Candles ft. NEST Fragrances
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Metal Wall Art &. More
     *   Decorative Pillows &. Throws
-    *   Free Shipping: BergHOFF Up to 65% Off
-    *   Stock the Bar: Glasses &. More
+    *   Exclusively Ours BestSelling Throws amp Pillows
+    *   Free Shipping: Bedding Steals Up to 70% Off
+    *   Free Shipping: Sheets Up to 70% Off
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
     *   Bath
+    *   Pet Accessories
     *   Outdoor Living
-    *   Luggage &. Travel
-    *   Cleaning &. Organization
-    *   Accent Furniture
     *   Tech Accessories
+    *   Luggage &. Travel
+    *   Accent Furniture
+    *   Cleaning &. Organization
 *   BeautyShop Sale Events
     
+    *   Predire
     *   Doucce
-    *   skinChemists Up to 85% Off
-    *   Orlando Pita Play
     *   Korean Beauty: JayJun Skin Care
+    *   Orlando Pita Play
+    *   skinChemists Up to 85% Off
     
     Shop By Category
-    *   Makeup
     *   Skin Care
+    *   Makeup
     *   Fragrance
     *   Hair Care
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -366,6 +380,7 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 *   About
 *   Careers
 *   The Nordy Club
+*   Big Brother Big Sister
 *   Donate Clothes
 *   Gift Cards
 
