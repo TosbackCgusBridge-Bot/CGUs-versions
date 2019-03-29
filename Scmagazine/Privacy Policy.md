@@ -207,22 +207,22 @@ New York, NY 10001.**
     *   Recent
     
     *   The death of the VPN - It’s time to say goodbye
-    *   Undisclosed number of TurboTax accounts breached
     *   The winners of the 2019 SC Awards Honored in the U.S.
+    *   Undisclosed number of TurboTax accounts breached
     *   Software maker Citrix hacked, business documents removed
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Asus issues patch, but questions still remain about ShadowHammer
-    *   Hedge fund manager sentenced to 60 months security fraud, hacking scheme
-    *   Damages from ransomware attack on Norsk Hydro reach as high as $40M
-    *   Kushner used WhatsApp, personal email for gov't biz. McFarland used AOL to discuss Saudi Arabia nuclear transfer
-    *   Researchers get free Tesla for finding infotainment system bug
-    
-    *   Elfin, aka APT33, targets U.S., Saudi Arabian firms in cyberespionage campaign
-    *   GAO takes Fiscal Services to task over new and old cyber problems
-    *   Damages from ransomware attack on Norsk Hydro reach as high as $40M
+    *   Man steals stingray, threatens to leak nudes
+    *   Facebook patches denial-of-service flaw in its open-source Fizz TLS implementation
+    *   Tesla suing self-driving startup Zoox and former employees for data theft
     *   Mozilla plugs two critical security holes in Thunderbird
-    *   UConn Health Center hit with $5M suite over breach
+    *   South Korean websites hit with rare waterhole phishing scheme
+    
+    *   Gustuff banking trojan disables Google Protect and Accessibility Service mode
+    *   Cisco may have released a faulty patch in most recent update
+    *   Microsoft grabs APT35/Charming Kitten websites in court ordered take down
+    *   Schiff rebuffs calls to resign, recounts evidence of Trump team coordination with Russian operatives
+    *   South Korean websites hit with rare waterhole phishing scheme
 
 Back to Top
 
