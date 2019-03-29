@@ -69,8 +69,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   ‘Us’ Explained: The Twist Ending, the Hidden Meanings, the Box Office Milestones and a Possible Sequel - Spoilers! Read More
-    *   Creepy First Look at 'Annabelle Comes Home'. Here's Everything We Know Read More
-    *   Today in Movie Culture: ‘Us’ Easter Eggs and Plot Song, ‘Avengers: Endgame’ in Lego and More Read More
+    *   Today in Movie Culture: ‘Dumbo’ Director Commentary, Animated ‘Shazam!’ Promo and More Read More
+    *   Angelina Jolie to Star in Marvel's ‘The Eternals'. Here's Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
