@@ -156,6 +156,7 @@ Need Help
 *   Return Policy
 *   Children's Product Registration
 *   Product Recalls
+*   Privacy Policy
 
 Delivery Information
 
