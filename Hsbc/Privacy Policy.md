@@ -408,9 +408,9 @@ Thank you. We appreciate you taking the time to give us feedback.
 *   Accessibility
 *   Online security
 
-Search (auto-suggestions will appear below field) Submit search
+Search (auto-suggestions will appear below field) Clear text Submit search
 
-**See all results** **No results** Close Close search panel Online banking
+**See all results** **No results found. Please try a different search term.** Close Close search panel Online banking
 
 Go to my
 
