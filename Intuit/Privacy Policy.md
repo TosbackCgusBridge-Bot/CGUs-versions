@@ -26,49 +26,12 @@ Shop Departments
 Near YouFind a StoreBackPROM DRESSESSHOP ALLPROM DRESSESSHOP ALL
 
 *   $10499after couponwas $200 B. Smart Sleeveless Applique Party Dress-Juniors(1)Add To Cart
-*   $13124after couponwas $250 Speechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
 *   $10499after couponwas $200 Trixxi Short Sleeve Dress Set-Juniors(1)Add To Cart
+*   $13124after couponwas $250 Speechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
 *   $6749after couponwas $139 Speechless Sleeveless Party Dress-JuniorsAdd To Cart
+*   $13799after couponwas $250 DJ Jaz Sleeveless Beaded Fitted Gown-JuniorsAdd To Cart
 *   $13124after couponwas $250 One By Eight Sleeveless Ball Gown-Juniors PlusAdd To Cart
-*   $8849after couponwas $169 City Triangle Short Sleeve Fitted Gown-JuniorsAdd To Cart
-*   $13124after couponwas $250 DJ Jaz Sleeveless Beaded Fitted Gown-JuniorsAdd To Cart
-
-Hot Sellers
-
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $54
-    
-    Arizona Womens Tavari Gladiator Sandals
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $54
-    
-    Italiana By Italian Shoemakers Womens Amalia Wedge Sandals
-*   from$2099after couponwas $60 Liz Claiborne Womens Magenta Wedge Sandals(1)
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $54
-    
-    a.n.a Womens Saint Wedge Sandals
-*   BEST VALUE!
-    
-    $1999
-    
-    As Seen On TV® Finishing Touch Flawless Hair Remover(71)
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $40
-    
-    Arizona Womens Seymour Adjustable Strap Flat Sandals
+*   $9299after couponwas $169 City Triangle Short Sleeve Fitted Gown-JuniorsAdd To Cart
 
 Shop and Save at JCPenney
 
