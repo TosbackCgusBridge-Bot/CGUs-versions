@@ -4,7 +4,7 @@ We use cookies to deliver the best possible experience on our website. To learn 
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
 Become a client  
-Contact us or dial 1 855 306 49681 855 306 4968
+Contact us or dial 1 855 294 20741 855 294 2074
 
 Log in Become a Client
 
@@ -263,7 +263,7 @@ Log in Become a Client
     Career Opportunities Life at Gartner Campus
     
 *   Become a client  
-    Contact us or dial 1 855 306 49681 855 306 4968
+    Contact us or dial 1 855 294 20741 855 294 2074
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018
