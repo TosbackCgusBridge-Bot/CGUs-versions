@@ -61,12 +61,12 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   Spring Essentials
 *   Online Only
 *   Jeans Guide
 *   Tribe Of Tees
 *   Active
 *   Lounge
-*   Basic Essentials
 *   Seriously Soft
 *   Uniform
 
@@ -110,11 +110,11 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   Spring Essentials
 *   Online Only
 *   Denim Guide
 *   Lounge
 *   Active
-*   Back to Basics
 *   Uniform
 
 Close submenu ( Jeans ) Jeans
@@ -303,12 +303,12 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   Spring Essentials
         *   Online Only
         *   Jeans Guide
         *   Tribe Of Tees
         *   Active
         *   Lounge
-        *   Basic Essentials
         *   Seriously Soft
         *   Uniform
     
@@ -344,11 +344,11 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   Spring Essentials
         *   Online Only
         *   Denim Guide
         *   Lounge
         *   Active
-        *   Back to Basics
         *   Uniform
     
 *   Jeans
@@ -475,7 +475,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! 1 23 : Days 32 : Days 18 Details Shop Girls Shop Guys Shop Girls Bottoms Shop Guys Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys Shop Girls Shop Guys Details Aero Girls Graphic Tees Aero Guys Graphics Tees Previous Next Shop The Girls Tribe Shop Guys Tees Shop Girls Hoodies Shop Guys Hoodies Shop Dresses Shop Guys Shirts Shop Aero One Shop Girls Shop Guys Girls Accessories Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! Back By Popular Demand! 0 23 : Days 31 : Days 00 Details Shop Girls Shop Guys Shop Girls Bottoms Shop Guys Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys Shop Girls Shop Guys Details Aero Girls Graphic Tees Aero Guys Graphics Tees Previous Next Shop The Girls Tribe Shop Guys Tees Shop Girls Hoodies Shop Guys Hoodies Shop Dresses Shop Guys Shirts Shop Aero One Shop Girls Shop Guys Girls Accessories Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -513,4 +513,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2019 Aeropostale. All Rights Reserved.
+© 2019 Aeropostale. All Rights Reserved. CHAT
