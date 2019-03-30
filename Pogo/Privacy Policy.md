@@ -1,5 +1,5 @@
-Electronic Arts Inc.Privacy and Cookie Policy Last Updated: January 11, 2019  
-Effective Date: January 11, 2019  
+Electronic Arts Inc.Privacy and Cookie Policy Last Updated: March 29, 2019  
+Effective Date: March 29, 2019  
   
 Your privacy is important to us, and we take our responsibility of caring for it seriously. This policy describes what information EA collects when you use the mobile, online and downloadable products and services offered by EA and its subsidiaries and/or attend live events hosted by or in connection with EA ("**products**"). For a list of our subsidiaries, visit https://www.sec.gov/Archives/edgar/data/712515/000071251518000024/ex-211subsidiariesofthereg.htm.  
   
@@ -173,7 +173,7 @@ Personal information we collect may be stored and processed for the purposes set
   
 EA's privacy practices comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found at https://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx.  
   
-Information is collected by our parent company, Electronic Arts, Inc. For information from the European Economic Area (EEA), Electronic Arts, Inc. holds certifications under the EU-US and Swiss-US Privacy Shield (which are available at www.privacyshield.gov/participant?id=a2zt0000000GnuQAAS&status=Active). When Electronic Arts, Inc. transfers information from the EEA to other affiliates, agents or service providers that are outside the EEA, it will do so in compliance with the 'Accountability for Onward Transfer' principle of the Privacy Shield.  
+Information is collected by our parent company, Electronic Arts, Inc. For information from the European Economic Area (EEA), United Kingdom and Switzerland, Electronic Arts, Inc. holds certifications under the EU-US and Swiss-US Privacy Shield (which are available at www.privacyshield.gov/participant?id=a2zt0000000GnuQAAS&status=Active). When Electronic Arts, Inc. transfers information from the EEA, United Kingdom and Switzerland to other affiliates, agents or service providers that are outside the EEA, United Kingdom and Switzerland, it will do so in compliance with the 'Accountability for Onward Transfer' principle of the Privacy Shield.  
   
 6\. How We Protect Your Personal Information  
   
@@ -232,6 +232,7 @@ For more information and updates to this policy, visit privacy.ea.com.
   
 
 Previous Privacy and Cookie Policy:  
+Last Updated: January 11, 2019  
 Last Updated: January 8, 2019  
 Last Updated: November 15, 2018  
 Last Updated: August 31, 2018  
