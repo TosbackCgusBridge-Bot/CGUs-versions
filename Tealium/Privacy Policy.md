@@ -10,6 +10,7 @@
     *   Identity Resolution
     *   Client-side &. Server-side Data
     *   Customer Data Platform
+    *   Event Data Framework
     *   EDW or Data Lake + Tealium
     *   Preparing for GDPR
     *   Trust and Privacy
@@ -52,6 +53,7 @@
     *   Identity Resolution
     *   Client-side &. Server-side Data
     *   Customer Data Platform
+    *   Event Data Framework
     *   EDW or Data Lake + Tealium
     *   Preparing for GDPR
     *   Trust and Privacy
