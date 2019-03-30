@@ -212,17 +212,17 @@ New York, NY 10001.**
     *   Software maker Citrix hacked, business documents removed
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Man steals stingray, threatens to leak nudes
-    *   Facebook patches denial-of-service flaw in its open-source Fizz TLS implementation
-    *   Tesla suing self-driving startup Zoox and former employees for data theft
-    *   Mozilla plugs two critical security holes in Thunderbird
-    *   South Korean websites hit with rare waterhole phishing scheme
+    *   Two U.S. chemical companies disclose cyberattack, LockerGoga suspected
+    *   Mueller finds no coordination with Russia in election hack, influence campaign. leaves obstruction decision to Barr
+    *   Report: Uber employee used data-scraping tool to gather info on Australian competitor
+    *   UConn Health Center hit with $5M suite over breach
+    *   GAO takes Fiscal Services to task over new and old cyber problems
     
+    *   World Backup Day: Data loss underscores need to backup
+    *   Google rolls out expanded 2FA for G-Suite users
     *   Gustuff banking trojan disables Google Protect and Accessibility Service mode
     *   Cisco may have released a faulty patch in most recent update
     *   Microsoft grabs APT35/Charming Kitten websites in court ordered take down
-    *   Schiff rebuffs calls to resign, recounts evidence of Trump team coordination with Russian operatives
-    *   South Korean websites hit with rare waterhole phishing scheme
 
 Back to Top
 
