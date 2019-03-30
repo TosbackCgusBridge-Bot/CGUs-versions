@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
 
-Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Get instructions
+What to keep in mind when responding to toddlers' irrational behavior. What to keep in mind when responding to toddlers' irrational behavior. Read more.
 
 Toggle message bar
 
