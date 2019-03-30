@@ -68,9 +68,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   ‘Us’ Explained: The Twist Ending, the Hidden Meanings, the Box Office Milestones and a Possible Sequel - Spoilers! Read More
-    *   Today in Movie Culture: ‘Dumbo’ Director Commentary, Animated ‘Shazam!’ Promo and More Read More
-    *   Angelina Jolie to Star in Marvel's ‘The Eternals'. Here's Everything We Know Read More
+    *   Today in Movie Culture: ‘Shazam!’ as an ‘80s Movie, The History of Disney’s Live-Action Remakes and More Read More
+    *   New ‘Scary Stories to Tell in the Dark’ Teaser is Terrifying. Here's Everything We Know So Far Read More
+    *   The Week in Movie News: Angelina Jolie Joins the MCU, Michael B. Jordan to Play 400-Year-Old Man and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -318,6 +318,10 @@ Offers
 *   Every 4 Tickets = $5 For You
     
     Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
+    
+*   Celebrating 80 Years of Batman
+    
+    Go to FandangoNOW and watch your favorite version of the Caped Crusader. See the sale, with movies starting at $7.99. WATCH NOW
     
 
 New + Coming soon
