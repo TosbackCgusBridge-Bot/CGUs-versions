@@ -212,17 +212,17 @@ New York, NY 10001.**
     *   Software maker Citrix hacked, business documents removed
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Two U.S. chemical companies disclose cyberattack, LockerGoga suspected
-    *   Mueller finds no coordination with Russia in election hack, influence campaign. leaves obstruction decision to Barr
-    *   Report: Uber employee used data-scraping tool to gather info on Australian competitor
-    *   UConn Health Center hit with $5M suite over breach
+    *   Schiff rebuffs calls to resign, recounts evidence of Trump team coordination with Russian operatives
+    *   Hedge fund manager sentenced to 60 months security fraud, hacking scheme
+    *   Asus issues patch, but questions still remain about ShadowHammer
     *   GAO takes Fiscal Services to task over new and old cyber problems
+    *   Despite arrests, FIN7 launched 2018 attack campaigns featuring new malware
     
+    *   Insurance Companies collaborate to offer cybersecurity ratings
+    *   Toyota reports second breach in five weeks
+    *   Microsoft researchers find NSA-style backdoor in Huawei laptops
+    *   Massively invasive Italian spyware campaign found on Google Play
     *   World Backup Day: Data loss underscores need to backup
-    *   Google rolls out expanded 2FA for G-Suite users
-    *   Gustuff banking trojan disables Google Protect and Accessibility Service mode
-    *   Cisco may have released a faulty patch in most recent update
-    *   Microsoft grabs APT35/Charming Kitten websites in court ordered take down
 
 Back to Top
 
