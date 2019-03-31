@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $99See DetailsAccessible View
+Accessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -30,8 +30,8 @@ Near YouFind a StoreBackPROM DRESSESSHOP ALLPROM DRESSESSHOP ALL
 *   $13124after couponwas $250 Speechless Sleeveless Embellished Party Dress-JuniorsAdd To Cart
 *   $6749after couponwas $139 Speechless Sleeveless Party Dress-JuniorsAdd To Cart
 *   $13799after couponwas $250 DJ Jaz Sleeveless Beaded Fitted Gown-JuniorsAdd To Cart
+*   $8849after couponwas $169 City Triangle Sleeveless Dress Set-JuniorsAdd To Cart
 *   $13124after couponwas $250 One By Eight Sleeveless Ball Gown-Juniors PlusAdd To Cart
-*   $9299after couponwas $169 City Triangle Short Sleeve Fitted Gown-JuniorsAdd To Cart
 
 Shop and Save at JCPenney
 
