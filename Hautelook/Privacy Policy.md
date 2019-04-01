@@ -8,11 +8,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Lola Made in Italy Up to 70% Off
+    *   Free Shipping: Comforters Up to 70% Off
+    *   Gemstone Jewelry Finds Up to 80% Off
+    *   Give Winter the Cold Shoulder: Tanks from $10
+    *   Women's Shoe Blowout
+    *   Men's Shoes Up to 70% Off
+    *   Best of Body: philosophy &. Whish from $10
+    *   Diane von Furstenberg Up to 60% Off
+    *   Donald Pliner Up to 55% Off
+    *   Vanity Room Up to 65% Off
+    *   Chantelle
+    *   Sterling Forever Jewelry Up to 70% Off
+    *   Gym-Bound Active Styles ft. Koral
+    *   Silk Styles Featuring go >. by GoSilk
+    *   Love, Fire
+    *   Say I Do: Eternity Rings &. More Under $80
+    *   Nordstrom Rack Exclusives: Suits &. More
+    *   Men's Leather Accessories ft. Robert Graham
+    *   Donald Pliner Men
+    *   Billion Dollar Brows
+    *   Patio Perfect: Decor Under $100
+    *   Easter-Ready Styles ft. Pippa &. Julie
+    *   Easter Ready: Girls' Shoes ft. Nicole Miller
+    *   Best for Baby: Footies, Sets &. More
     *   Work Dresses ft. Tahari Incl. Plus &. Petites
     *   Denim Starting at $20 ft. True Religion
     *   Socialite Starting at $10
     *   Natori &. Josie Sleep
     *   Go Couture Sweaters, Knits &. Tees Blowout
+    
     *   Marc Fisher LTD Up to 60% Off
     *   On Trend: Sterling Silver &. More Up to 80% Off
     *   Hickey Freeman Up to 75% Off
@@ -34,7 +59,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Weekend Chic: Plus-Size Styles Up to 60% Off
     *   Our Fave Brands: Men's Styles in Big &. Tall
     *   Marc Jacobs
-    
     *   Marc Jacobs Jewelry, Watches &. Sun
     *   TOV
     *   Do + Be
@@ -43,6 +67,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Men's Denim Brands We Love
     *   Wolford
     *   Marc Jacobs Shoes Up to 50% Off
+    
     *   Tahari Jackets &. More
     *   Eddie Bauer Bedding
     *   Fragrances from Margot Elena
@@ -53,42 +78,41 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Lorenzo Uomo Up to 60% Off
     *   Z By Zella Girl
     *   Spring Arrivals for Kids ft. O'Neill
-    *   TOMS Starting at $30
-    *   TOMS Men Starting at $30
     *   TOMS Kids Starting at $20
-    *   TOMS Sun Under $50
-    *   Tahitian &. Akoya Pearls &. More Under $85
     *   Predire
-    *   John Varvatos Men
     *   Ultra-Soft Printed Sheets &. More Up to 55% Off
-    
-    *   14K Gold, Gemstones &. More Under $90
     *   Free Shipping: Pet-Friendly Covers &. More
     *   Free Shipping: Removable Wallpaper, Decals &. More
-    *   Men's Active Under $40
-    *   Speakers, Chargers &. More from $15
+    *   Splendid Kids Starting at $10
     *   Betsey Johnson Girls' Sleep &. More
     *   Top It Off: Kids' Tanks &. Tees Starting at $9
-    *   Vintage Foundry Up to 80% Off
     *   Down &. Memory Foam Essentials
     *   Doucce
-    *   Vince Camuto Incl. Plus &. Petites
-    *   Korean Beauty: JayJun Skin Care
-    *   Exclusively Ours: Best Selling Throws &. Pillows
-    *   Free Shipping: BergHOFF Up to 65% Off
+    *   Decorate Your Walls: Art from $15
+    *   Bedding Sets Up to 70% Off
     *   Home Scents: Candles ft. NEST Fragrances
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Metal Wall Art &. More
-    *   Decorative Pillows &. Throws
-    *   Poolside Ready: Men's Sandals &. More from $15
+    *   Speakers, Chargers &. More from $15
     *   Olivia Welles Jewelry Up to 75% Off
-    *   Splendid Kids Starting at $10
-    *   Max Studio
-    *   Decorate Your Walls: Art from $15
-    *   Bedding Sets Up to 70% Off
-    *   Free Shipping: Bedding Steals Up to 70% Off
+    *   Decorative Pillows &. Throws
 *   WomenShop Sale Events
     
+    *   Lola Made in Italy Up to 70% Off
+    *   Gemstone Jewelry Finds Up to 80% Off
+    *   Give Winter the Cold Shoulder: Tanks from $10
+    *   Women's Shoe Blowout
+    *   Best of Body: philosophy &. Whish from $10
+    *   Diane von Furstenberg Up to 60% Off
+    *   Donald Pliner Up to 55% Off
+    *   Vanity Room Up to 65% Off
+    *   Chantelle
+    *   Sterling Forever Jewelry Up to 70% Off
+    *   Gym-Bound Active Styles ft. Koral
+    *   Silk Styles Featuring go >. by GoSilk
+    *   Love, Fire
+    *   Say I Do: Eternity Rings &. More Under $80
+    *   Billion Dollar Brows
     *   Work Dresses ft. Tahari Incl. Plus &. Petites
     *   Denim Starting at $20 ft. True Religion
     *   Socialite Starting at $10
@@ -96,6 +120,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Go Couture Sweaters, Knits &. Tees Blowout
     *   Marc Fisher LTD Up to 60% Off
     *   On Trend: Sterling Silver &. More Up to 80% Off
+    
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Designers We Love Up to 70% Off ft. Walter Baker
     *   Nicole Miller Swim
@@ -107,7 +132,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Weekend Chic: Plus-Size Styles Up to 60% Off
     *   Marc Jacobs
     *   Marc Jacobs Jewelry, Watches &. Sun
-    
     *   TOV
     *   Do + Be
     *   Luxe Brands Up to 65% Off ft. Norma Kamali
@@ -116,43 +140,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tahari Jackets &. More
     *   Fragrances from Margot Elena
     *   ECCO
-    *   TOMS Starting at $30
-    *   TOMS Sun Under $50
-    *   Tahitian &. Akoya Pearls &. More Under $85
     *   Predire
-    *   14K Gold, Gemstones &. More Under $90
     *   Doucce
-    *   Vince Camuto Incl. Plus &. Petites
-    *   Korean Beauty: JayJun Skin Care
     *   Olivia Welles Jewelry Up to 75% Off
-    *   Max Studio
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
+    *   Lingerie
     *   Handbags
     *   Accessories
-    *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
+    *   Men's Shoes Up to 70% Off
+    *   Nordstrom Rack Exclusives: Suits &. More
+    *   Men's Leather Accessories ft. Robert Graham
+    *   Donald Pliner Men
     *   Hickey Freeman Up to 75% Off
     *   Lacoste Slides &. Sneakers from $25
     *   Dazzlepro Teeth Whitening Up to 85% Off
+    
     *   Men's Jewelry ft. Room 101
     *   On the Go: Luggage Up to 65% Off
     *   Our Fave Brands: Men's Styles in Big &. Tall
     *   ECCO Men
     *   Men's Denim Brands We Love
-    
     *   Lorenzo Uomo Up to 60% Off
-    *   TOMS Men Starting at $30
-    *   TOMS Sun Under $50
-    *   John Varvatos Men
-    *   Men's Active Under $40
-    *   Vintage Foundry Up to 80% Off
-    *   Poolside Ready: Men's Sandals &. More from $15
     
     Shop By Category
     *   Clothing
@@ -160,27 +175,33 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Easter-Ready Styles ft. Pippa &. Julie
+    *   Easter Ready: Girls' Shoes ft. Nicole Miller
+    *   Best for Baby: Footies, Sets &. More
     *   On-Trend Looks for Tweens ft. Poof
     *   SOOKIbaby Clothing &. Swim
     *   English Laundry Boys
+    
     *   Z By Zella Girl
     *   Spring Arrivals for Kids ft. O'Neill
     *   TOMS Kids Starting at $20
+    *   Splendid Kids Starting at $10
     *   Betsey Johnson Girls' Sleep &. More
     *   Top It Off: Kids' Tanks &. Tees Starting at $9
-    *   Splendid Kids Starting at $10
     
     Shop By Category
     *   Girls' Sizes 7-16
-    *   Girls' Shoes
     *   Girls' Sizes 2T-6X
+    *   Girls' Shoes
+    *   Baby Girl
     *   Boys' Shoes
     *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
-    *   Baby Girl
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Comforters Up to 70% Off
+    *   Patio Perfect: Decor Under $100
     *   Free Shipping: Shelves, Storage &. More from $10
     *   Barware, Dinnerware &. More
     *   On the Go: Luggage Up to 65% Off
@@ -189,35 +210,34 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Oliver Gal Up to 65% Off
     *   Free Shipping: Lighting &. Mirrors
     *   Ultra-Soft Printed Sheets &. More Up to 55% Off
+    
     *   Free Shipping: Pet-Friendly Covers &. More
     *   Free Shipping: Removable Wallpaper, Decals &. More
-    *   Speakers, Chargers &. More from $15
-    
     *   Down &. Memory Foam Essentials
-    *   Exclusively Ours: Best Selling Throws &. Pillows
-    *   Free Shipping: BergHOFF Up to 65% Off
+    *   Decorate Your Walls: Art from $15
+    *   Bedding Sets Up to 70% Off
     *   Home Scents: Candles ft. NEST Fragrances
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Metal Wall Art &. More
+    *   Speakers, Chargers &. More from $15
     *   Decorative Pillows &. Throws
-    *   Decorate Your Walls: Art from $15
-    *   Bedding Sets Up to 70% Off
-    *   Free Shipping: Bedding Steals Up to 70% Off
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
     *   Pet Accessories
-    *   Tech Accessories
     *   Luggage &. Travel
+    *   Tech Accessories
+    *   Cleaning &. Organization
 *   BeautyShop Sale Events
     
+    *   Best of Body: philosophy &. Whish from $10
+    *   Billion Dollar Brows
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Fragrances from Margot Elena
     *   Predire
     *   Doucce
-    *   Korean Beauty: JayJun Skin Care
     
     Shop By Category
     *   Makeup
