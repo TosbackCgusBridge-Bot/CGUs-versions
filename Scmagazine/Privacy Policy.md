@@ -209,14 +209,14 @@ New York, NY 10001.**
     *   The death of the VPN - It’s time to say goodbye
     *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Undisclosed number of TurboTax accounts breached
+    *   Microsoft researchers find NSA-style backdoor in Huawei laptops
     *   Software maker Citrix hacked, business documents removed
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Schiff rebuffs calls to resign, recounts evidence of Trump team coordination with Russian operatives
-    *   Hedge fund manager sentenced to 60 months security fraud, hacking scheme
-    *   Asus issues patch, but questions still remain about ShadowHammer
-    *   GAO takes Fiscal Services to task over new and old cyber problems
-    *   Despite arrests, FIN7 launched 2018 attack campaigns featuring new malware
+    *   ShadowHammer attack installed backdoors on a million ASUS devices
+    *   Mueller finds no coordination with Russia in election hack, influence campaign. leaves obstruction decision to Barr
+    *   Microsoft researchers find NSA-style backdoor in Huawei laptops
+    *   World Backup Day: Data loss underscores need to backup
+    *   Building protections from within for 2019
     
     *   Insurance Companies collaborate to offer cybersecurity ratings
     *   Toyota reports second breach in five weeks
