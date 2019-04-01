@@ -19,7 +19,7 @@ Nebraska Strong Tees: 100% of proceeds donated to the American Red Cross - Shop 
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY BAG
 
