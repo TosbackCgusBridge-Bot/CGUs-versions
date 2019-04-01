@@ -95,7 +95,7 @@ View more results
     *   Total Front: Army War Game
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Electricman 2: Stickman Fighting Game
-    *   Pixel Apocalypse
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
 *   Top Categories
     
     *   Platform Games
@@ -125,8 +125,8 @@ View more results
     *   Tom and Jerry: Mouse Maze
     *   Five Nights at Freddy's: Sister Location
     *   FNAF - Sister Location Custom
-    *   FNAF: Sister Location Custom Night
     *   Trap Adventure 2
+    *   FNAF: Sister Location Custom Night
     *   TJOC: The Joy Of Creation
 *   Top Categories
     
@@ -155,8 +155,8 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   1001 Arabian Nights
     *   TenTrix
+    *   1001 Arabian Nights
     *   Cut the Rope
     *   Bubble Machine: 2 Player Game
     *   Fireboy &. Watergirl 2: The Light Temple
