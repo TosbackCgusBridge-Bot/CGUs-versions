@@ -5,35 +5,36 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Dumbo (2019)
     *   Us (2019)
     *   Captain Marvel (2019)
-    *   Wonder Park
     *   Five Feet Apart
+    *   Unplanned (2019)
+    *   Wonder Park
     *   How to Train Your Dragon: The Hidden World
+    *   Hotel Mumbai
     *   Tyler Perry's A Madea Family Funeral
+    *   The Beach Bum
     *   Gloria Bell
-    *   No Manches Frida 2
-    *   The Lego Movie 2: The Second Part
-    *   Alita: Battle Angel
-    *   Captive State
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Beach Bum
-    *   Dumbo (2019)
-    *   Unplanned (2019)
-    *   Diane (2019)
-    *   Notebook (2019)
-    *   Screwball
-    *   Trinity Seven: Heaven's Library &. Crimson Lord
+    *   The Best of Enemies
+    *   Pet Sematary (2019)
+    *   Shazam!
+    *   Amazing Grace (2019)
+    *   Billboard (2019)
+    *   High Life (2019)
+    *   Khalid: Free Spirit
+    *   Peterloo
+    *   The Public
+    *   Storm Boy (2019)
+    *   The Wind (2018)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Best of Enemies
-    *   Pet Sematary (2019)
-    *   Shazam!
     *   After (2019)
     *   Hellboy (2019)
     *   Little (2019)
@@ -41,6 +42,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   The Curse of La Llorona
     *   Breakthrough (2019)
     *   Penguins (2019)
+    *   El Chicano (2019)
+    *   Long Shot
+    *   UglyDolls
     *   See All Coming Soon
     
     Explore More
@@ -68,9 +72,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Shazam!’ as an ‘80s Movie, The History of Disney’s Live-Action Remakes and More Read More
-    *   New ‘Scary Stories to Tell in the Dark’ Teaser is Terrifying. Here's Everything We Know So Far Read More
-    *   The Week in Movie News: Angelina Jolie Joins the MCU, Michael B. Jordan to Play 400-Year-Old Man and More Read More
+    *   Today in Movie Culture: ‘Us’ Movie Parody, Spotlight on ‘Dumbo’ Star Eva Green, ‘Aquaman 2’ Trailer Prank and More Read More
+    *   Next 3 Live-action Disney Remakes: 'Aladdin,' 'The Lion King,' 'Maleficent: Mistress of Evil' Read More
+    *   ‘Captain Marvel’ Actress Mckenna Grace to Star in ‘Ghostbusters 3'. Here’s Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -315,9 +319,17 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
+*   To give thanks to moviegoers seeing 'The Mustang' between 4/1 - 4/7
+    
+    Focus Features will support Return to Freedom with a donation (Donations will not exceed $10,000). BUY TICKETS
+    
 *   Every 4 Tickets = $5 For You
     
     Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
+    
+*   FandangoNOW Binge Bundles
+    
+    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
     
 *   Celebrating 80 Years of Batman
     
@@ -362,11 +374,11 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   March Celebrity Birthdays
+*   April Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Privacy Policy Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
