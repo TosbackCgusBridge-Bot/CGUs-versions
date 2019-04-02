@@ -129,7 +129,7 @@ See “The Angry Birds Movie 2” This Summer
 
 New PlayStation games coming this week:  https://play.st/2OkaOrw  MLB The Show 19, The Legend of Heroes: Trails of Cold Steel, Space Junkies, Assassin's Creed III Remastered, and more pic.twitter.com/S3LCgA57pI
 
-7 days ago
+8 days ago
 
 View Tweet
 
