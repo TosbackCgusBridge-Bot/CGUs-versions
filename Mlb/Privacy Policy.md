@@ -16,11 +16,11 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     
     Featured
     *   Cut4
-    *   Free Agent &. Trade Talk
     *   Play Ball
-    *   Projected lineups, rotations
+    *   London Series
     *   Pipeline
     *   MLB Photo Stream
+    *   Jackie Robinson Day
     *   Fantasy Rankings
     *   Reporter's Inbox
     *   This Date in History
@@ -38,7 +38,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     Featured
     *   Most Popular
     *   Must C
-    *   First Pitch
+    *   Extra Innings
     *   Front Office Focus
     *   Chatting Cage
     *   Carry The Freight
