@@ -24,7 +24,6 @@
 *   Banking Compare Accounts
     
     *   CD rates
-    *   No Penalty CD
     *   Savings accounts
     *   Money market accounts
     *   Checking accounts
