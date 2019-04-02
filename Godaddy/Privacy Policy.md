@@ -1,4 +1,4 @@
-**Last Revised: January 29, 2019**
+**Last Revised: April 1, 2019**
 
 _**To view our archived Privacy Policy, click here.**_  
 
@@ -63,6 +63,8 @@ Often, much of the data collected is aggregated or statistical data about how in
 *   Customer relationship management.
 
 We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilizing, sharing or retaining your personal data for any purpose other than as they have been specifically contracted for (or without your consent).
+
+We may also share your information with third parties for the purpose of facilitating/allowing a merger, acquisition or sale of all or substantially all of our assets, in which case the acquiring company may continue to utilize your data in the manner for which it was provided and intended.
 
 **Communicating with you.** We may contact you directly or through a third party service provider regarding products or services you have signed up or purchased from us, such as necessary to deliver transactional or service related communications. We may also contact you with offers for additional services we think you’ll find valuable if you give us consent, or where allowed based upon legitimate interests. You don’t need to provide consent as a condition to purchase our goods or services. These contacts may include:
 
