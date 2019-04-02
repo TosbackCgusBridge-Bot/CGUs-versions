@@ -794,20 +794,19 @@ About Mattel
 
 For the Collector
 
-*   The Mattel Vault™
 *   Barbie® Signature
 *   Hot Wheels® Collectors
+*   Customer Service
 
 Helpful Links
 
-*   Customer Service
 *   Recall Information
 *   Modern Slavery Act Transparency Statement
 *   Submit Product Ideas
+*   Privacy Statement
 
 Follow Mattel
 
-*   Privacy Statement
 *   Terms &. Conditions
 
 *   © 2019 Mattel. All Rights Reserved
