@@ -1,6 +1,6 @@
 Vimeo Terms of Service Agreement
 
-Last Updated: March 12, 2019
+Last Updated: March 27, 2019
 
 This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). Vimeo provides online video hosting and sharing services through our owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This Agreement governs your use of our Services.
 
