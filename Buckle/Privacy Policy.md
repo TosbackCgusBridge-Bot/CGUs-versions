@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentNebraska Strong Tees: 100% of proceeds donated to the American Red Cross - Shop Now!
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentNebraska Strong Tees: 100% of proceeds donated to the American Red Cross - Shop Now!
 
 *   United States
 *   FIND A STORE
@@ -19,7 +19,7 @@ Nebraska Strong Tees: 100% of proceeds donated to the American Red Cross - Shop 
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   MY BAG
 
@@ -643,7 +643,7 @@ RESERVE IN STORE
 3.  Data Security Incident
 4.  Transparency In Supply Chains
 
-Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. Bag Size ExceededClose Cart Threshold Modal×
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.Bag Size ExceededClose Cart Threshold Modal×
 
 Did you mean to add items to your wish list?
 
