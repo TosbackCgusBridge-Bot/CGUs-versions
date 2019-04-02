@@ -440,15 +440,6 @@ Here's how to enroll in **Verify Your Visa Card is With You**:
 4.  Turn on **Verify your Visa Card is With You**.
 5.  Make sure your location services is set to **always** for the Bank of America mobile. This option can usually be located in your phone’s settings.
 
-Browser check
-
-Browser in use:  
-Mozilla Firefox 54.0
-
-Congratulations! Your internet browser meets our security requirementsPlease update your Internet browser to ensure your information is secure
-
-Review requirements
-
 Update your privacy choices
 
 You can review and revise your marketing and information-sharing choices online.  
@@ -459,6 +450,15 @@ call 888.341.5000)
 Update your privacy choices
 
 Previously opted out of email from us? Visit this page to opt back in
+
+Browser check
+
+Browser in use:  
+Mozilla Firefox 54.0
+
+Congratulations! Your internet browser meets our security requirementsPlease update your Internet browser to ensure your information is secure
+
+Review requirements
 
 Security tools
 
