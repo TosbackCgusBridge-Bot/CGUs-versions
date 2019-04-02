@@ -96,6 +96,7 @@ Skip to main content
 *   All-New 2020 GR Supra View More Info
 *   2020 RAV4 TRD Off-Road View More Info
 *   2020 Tacoma View More Info
+*   2020 Yaris Hatchback View More Info
 *   2020 Sequoia TRD Pro View More Info
 *   2020 Land Cruiser Heritage Edition View More Info
 *   2019 Nightshade Special Editions View More Info
@@ -157,7 +158,7 @@ Cars &. Minivan $18,260 as shown1 2018 Yaris Liftback $15,635 starting1
 54/133 est. MPG15/MPGe16 Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
 54/50 est MPG33 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
 48/43 est MPG24 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
-67/67 est. MPGe24 Upcoming Vehicles All-New 2020 GR Supra 2020 RAV4 TRD Off-Road 2020 Tacoma 2020 Sequoia TRD Pro 2020 Land Cruiser Heritage Edition 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD 2019 Supra Xfinity Series Race Car GR Supra Racing Concept All Vehicles
+67/67 est. MPGe24 Upcoming Vehicles All-New 2020 GR Supra 2020 RAV4 TRD Off-Road 2020 Tacoma 2020 Yaris Hatchback 2020 Sequoia TRD Pro 2020 Land Cruiser Heritage Edition 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD 2019 Supra Xfinity Series Race Car GR Supra Racing Concept All Vehicles
 
 *   FAQ
 *   Careers
