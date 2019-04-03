@@ -4,7 +4,7 @@ We use cookies to deliver the best possible experience on our website. To learn 
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
 Become a client  
-Contact us or dial 1 855 736 57831 855 736 5783
+Contact us or dial + 1 800 213 4848+ 1 800 213 4848
 
 Log in Become a Client
 
@@ -48,9 +48,9 @@ Log in Become a Client
     
     Industries
     
-    Financial Services Education Energy &. Utilities Government &. Public Sector Healthcare High Tech &. Telecom Providers Manufacturing Retail Article Drive financially sound operational decisions
+    Financial Services Education Energy &. Utilities Government &. Public Sector Healthcare High Tech &. Telecom Providers Manufacturing Retail ebook Reduce the staggering cost of operational decisions
     
-    Read Article
+    Read Ebook
     
     Ebook 2019 HR Executive Priorities
     
@@ -72,7 +72,7 @@ Log in Become a Client
     
     Read Article
     
-    Article Make Buying Speedy and Effortless
+    Guidance Make Buying Speedy and Effortless
     
     Learn More
     
@@ -226,6 +226,10 @@ Log in Become a Client
     
     Read Ebook
     
+    Ebook Speed Up Your Digital Business Transformation
+    
+    Read Ebook
+    
     Journal Fi.r.st. Quarterly Journal for Finance, Risk and Strategy Leaders
     
     Read Journal
@@ -263,7 +267,7 @@ Log in Become a Client
     Career Opportunities Life at Gartner Campus
     
 *   Become a client  
-    Contact us or dial 1 855 736 57831 855 736 5783
+    Contact us or dial + 1 800 213 4848+ 1 800 213 4848
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018
