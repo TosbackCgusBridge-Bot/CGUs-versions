@@ -244,15 +244,16 @@ timeanddate.com
 4.  Feedback
 5.  Privacy Statement
 6.  Terms &. Conditions
-7.  Copyright
-8.  Logo Use
-9.  GeoNames
-10.  Support Us
-11.  Ad Blockers
-12.  Work Here
-13.  Advertise
-14.  Credits
-15.  Disclaimer
+7.  Refunds &. Cancellations
+8.  Copyright
+9.  Logo Use
+10.  GeoNames
+11.  Support Us
+12.  Ad Blockers
+13.  Work Here
+14.  Advertise
+15.  Credits
+16.  Disclaimer
 
 Index
 
