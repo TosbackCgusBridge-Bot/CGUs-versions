@@ -580,7 +580,7 @@ We do not share your information or data with third parties outside SurveyMonkey
 *   To help us provide certain aspects of our services we use our affiliates and trusted key partners – in particular, we engage third parties to:
     
     *   facilitate our email collectors for sending surveys by email to Respondents.
-    *   facilitate customers in making credit card payments.
+    *   facilitate customers in making payments.
     *   deliver and help us track our marketing and advertising content.
     *   help us track website conversion success metrics.
     *   manage our sales and customer support services to you.
