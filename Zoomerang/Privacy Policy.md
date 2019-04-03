@@ -18,9 +18,9 @@
 
 MetrixLab MetrixLab We help you make smarter business decisions faster.
 
-Ditch the focus group for our faster, cheaper and more agile digital alternative
+How well do you understand your campaign performance? Follow our flowchart!
 
-How to maximize your Facebook and Instagram video advertising: Takeaways from our London event
+Whitepaper: What makes a great ad?
 
 Our solutions Advertising &. brand Product innovation Customer value Point-of-purchase influencers Pre-testing Packaging design Social insights Case stories Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights Emotions sell brands: How to capture the emotional resonance of your brands, ads and products
 
