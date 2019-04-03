@@ -49,9 +49,9 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   2018 Regular Season Standings
     *   2017 Regular Season Standings
 *   Stats Stats Stats
-    *   2018 Regular Season Stats
-    *   2018 Regular Season League Leaders
-    *   2018 Sortable Team Stats
+    *   2019 Regular Season Stats
+    *   2019 Regular Season League Leaders
+    *   2019 Sortable Team Stats
     *   Spring Training Sortable Stats
     *   Postseason Sortable Stats
     *   Statcast Leaders
