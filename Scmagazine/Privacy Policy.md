@@ -212,17 +212,17 @@ New York, NY 10001.**
     *   Undisclosed number of TurboTax accounts breached
     *   Software maker Citrix hacked, business documents removed
     
-    *   WordPress plugin zero day exploited in the wild
-    *   Mueller finds no coordination with Russia in election hack, influence campaign. leaves obstruction decision to Barr
-    *   Cisco may have released a faulty patch in most recent update
-    *   World Backup Day: Data loss underscores need to backup
-    *   GAO takes Fiscal Services to task over new and old cyber problems
-    
-    *   April Fools study finds cybersecurity pros trust fictitious stats as much as or more than experts
-    *   Office Depot, Support.com to pay $35M in restitution over tech scam
     *   Albany, N.Y. hit with ransomware attack
-    *   Calling all women...
-    *   White House overruled security clearance denials, whistleblower says
+    *   Why 2019 will prove biometrics aren’t a security “silver bullet”
+    *   Massively invasive Italian spyware campaign found on Google Play
+    *   Insurance Companies collaborate to offer cybersecurity ratings
+    *   Damages from ransomware attack on Norsk Hydro reach as high as $40M
+    
+    *   Women in cybersecurity outpacing men to leadership roles, study
+    *   Arizona Beverages ransomware attack exacerbated by unpatched servers, poorly configured back-up system
+    *   Game of Thrones report finds the show is the most popular malware lure
+    *   Michigan medical practice folds after ransomware attack
+    *   American hackers among Project Raven operatives spying on media, dissidents for UAE
 
 Back to Top
 
