@@ -129,7 +129,7 @@ Watch The New Trailer
 
 Metal Gear Solid V leads the PlayStation Now lineup for April. Download or stream the stealth-action masterpiece starting today:  https://play.st/2I3w6IQ  pic.twitter.com/QQbCEh1BgN
 
-14 hours ago
+1 day ago
 
 View Tweet
 
