@@ -44,6 +44,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Carry The Freight
     *   Real Fast
 *   Standings Standings Standings
+    *   2019 Regular Season Standings
     *   2019 Spring Training Standings
     *   2018 Postseason Bracket
     *   2018 Regular Season Standings
@@ -60,8 +61,8 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Scoring Changes
     *   Glossary
 *   Schedule Schedule Schedule
-    *   2019 Spring Training
     *   2019 Regular Season
+    *   2019 Spring Training
     *   Important Dates
     *   2018 Regular Season
     *   2018 Postseason
@@ -95,7 +96,6 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   Season Tickets
-    *   2019 Spring Training tickets
     *   Big League Tours
     *   StubHub.comBig League Tours Bank of America
 *   Apps Apps Apps
