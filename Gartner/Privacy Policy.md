@@ -4,7 +4,7 @@ We use cookies to deliver the best possible experience on our website. To learn 
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
 Become a client  
-Contact us or dial + 1 800 213 4848+ 1 800 213 4848
+Contact us or dial 1 855 810 46091 855 810 4609
 
 Log in Become a Client
 
@@ -52,7 +52,7 @@ Log in Become a Client
     
     Read Ebook
     
-    Ebook 2019 HR Executive Priorities
+    Ebook Reinvent Talent Strategies
     
     Learn More
     
@@ -267,7 +267,7 @@ Log in Become a Client
     Career Opportunities Life at Gartner Campus
     
 *   Become a client  
-    Contact us or dial + 1 800 213 4848+ 1 800 213 4848
+    Contact us or dial 1 855 810 46091 855 810 4609
     
 
 GARTNER PRIVACY POLICY Effective Date: August 2018
