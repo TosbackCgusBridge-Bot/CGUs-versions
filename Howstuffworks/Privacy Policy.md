@@ -229,7 +229,7 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksRunning While Female: Safety Apps and Tech1STWho Wins and Loses in a Trade War?2NDCan my computer poison me?3RDAn Illustrated History of Energy4THKelley Blue Book | SponsoredThese Are The Top 10 Best Hybrid Cars, All Under $40kKelley Blue Book | SponsoredDefinition | SponsoredThe Controversial Scene That Took 'The Beverly Hillbillies' Off The AirDefinition | SponsoredMoneyWise.com Report | SponsoredThe 25 States That No One Should Ever Retire InMoneyWise.com Report | SponsoredTopixoffbeat | SponsoredVirtually Nobody Can Pass This Basic Logic QuizTopixoffbeat | Sponsored scienceProtein Allows Animals to Detect Earth's Magnetic FieldBY Jesslyn ShieldshealthU.S. Cancer Death Rate Continues Decades-Long DropBY Alia HoytscienceAmateur Solves Part of Decades-Old Math ProblemBY Patrick J. KigerNinjaJournalist | Sponsored25 Celebs You Didn't Know Were Gay - No. 13 Will Surprise WomenNinjaJournalist | SponsoredLuxury SUVs | Search Ads | SponsoredThe Best Luxury SUVs Of 2019 Have ArrivedLuxury SUVs | Search Ads | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksHowStuffWorks NOW: Meet Graham, the Car-proof ManShark Finning - The Big Picture of a Big ProblemRidiculous History: 3 Times Society Refused to Accept Books on New ScienceAbout Face: The U.S. Currency Portrait Quiz7 U.S. National Parks Hardly Anyone VisitsPlastic-Eating Enzyme May Be Our Planet's New Hopeby Taboolaby Taboola
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhere do bullets go when guns are fired straight up into the air?1STHowStuffWorks NOW: Meet Graham, the Car-proof Man2NDTowing Capacity Chart3RDHow to Find Out If You Have a Warrant4THRefinance Gold | SponsoredInside Ron Howard's Mansion Where He Lives With His PartnerRefinance Gold | SponsoredVikings: Free Online Game | SponsoredPlay this for 1 min and see why everyone is addicted!Vikings: Free Online Game | SponsoredKelley Blue Book | SponsoredThese Are The Top 10 Best Hybrid Cars, All Under $40kKelley Blue Book | SponsoredMyFinance | SponsoredTwo Savings Accounts That Pay 10x What Your Bank PaysMyFinance | Sponsored scienceHow England Broke off From Mainland Europe 450,000 Years AgoBY Patrick J. KigerlifestyleUnderwear You Can Wear 'for Weeks' Without WashingBY Nathan ChandleranimalsDon't Hate This Squirrel Because He's BeautifulBY Jamie AllenPostfun | SponsoredThey Laughed When He Buried 42 School Buses. But Now They Realize WhyPostfun | SponsoredMortgage Quotes | Fetcharate | SponsoredColorado Program Cuts Up To $350/Month Off Your House PaymentMortgage Quotes | Fetcharate | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksWhy do movies cost so much to make?What If You Eat Moldy Bread?Early Humans Mated With Inbred Neanderthals — at a CostWhat's the deal with dollar stores?Why Do Monk Seals Get Eels Up Their Noses?Hummingbirds: What to Feed Them and a Springtime Q&Aby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -246,8 +246,6 @@ Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromote
 
 Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings LLC, a System1 Company
 
-This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-
 Newsletter
 
 Get the best of HowStuffWorks by email. Keep up to date on:
@@ -261,4 +259,4 @@ Sign Up Now!
 
 Newsletter Policy &. Terms
 
-Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
+Testing this long verbose error message to check the behaviour BESbswyBESbswyBESbswy <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswy<img src="https://soflopxl.com/px?partner\_id=31210">
