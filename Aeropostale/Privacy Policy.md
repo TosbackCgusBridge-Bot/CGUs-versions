@@ -21,6 +21,7 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Bottoms ) Bottoms
 
 *   Dresses
+*   Jumpsuits + Rompers
 *   Matching Sets
 *   Jackets
 *   Accessories
@@ -177,6 +178,7 @@ Close submenu ( Girls ) Girls
 *   Bermuda
 *   Tomboy
 *   Active
+*   Shortall
 *   Soft Shorts
 
 Close submenu ( Guys ) Guys
@@ -258,7 +260,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**DAILY DEAL: EXTRA 15% OFF** USE CODE **DAY1** GIRLS GUYS **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
+**DAILY DEAL: EXTRA 15% OFF** USE CODE **DAY2** GIRLS GUYS **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -293,6 +295,7 @@ Menu Find a Store Aeropostale
         
     
     *   Dresses
+    *   Jumpsuits + Rompers
     *   Matching Sets
     *   Jackets
     *   Accessories
@@ -402,6 +405,7 @@ Menu Find a Store Aeropostale
         *   Bermuda
         *   Tomboy
         *   Active
+        *   Shortall
         *   Soft Shorts
     
     *   Guys
@@ -479,7 +483,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Details 4 DAYS 4 ONLINE ONLY DEALS DAY #1 DAY #1 EXTRA 15% OFF YOUR ENTIRE PURCHASE EXTRA 15% OFF YOUR ENTIRE PURCHASE WHEN YOU BUY ANYTHING FROM OUR SPRING BREAK SHOP Use Code DAY1 Girls Spring Break Guys Spring Break Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! -4 -1 : Days 28 : Days 58 Details Shop Girls Shop Guys Shop Girls Bogo Bottoms Shop Guys Bogo Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys BOGO Girls BOGO Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Guys Tees Shop Girls Shop Guys Shop Dresses Shop Guys Shirts Shop Aero One Shop Girls Polos Shop Guys Polos Girls Accessories Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Details 4 DAYS 4 ONLINE ONLY DEALS DAY #2 DAY #2 EXTRA 15% OFF YOUR ENTIRE PURCHASE EXTRA 15% OFF YOUR ENTIRE PURCHASE WHEN YOU BUY TEES Use Code DAY2 Girls Tees Shop Guys Tees Shop Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! -5 -1 : Days 28 : Days 34 Details Shop Girls Shop Guys Shop Girls Bogo Bottoms Shop Guys Bogo Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys BOGO Girls BOGO Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Guys Tees Shop Girls Shop Guys Shop Dresses Shop Guys Shirts Shop Aero One Shop Girls Polos Shop Guys Polos Girls Accessories Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
