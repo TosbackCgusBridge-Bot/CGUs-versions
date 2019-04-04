@@ -55,6 +55,7 @@ I accept Menu
         *   Back
         *   Our strategy
         *   Overview
+        *   Progress on our strategic priorities
         *   The value of our network
     *   Our values
     *   Building a sustainable future
@@ -99,7 +100,8 @@ I accept Menu
         *   Back
         *   Measuring our impact
         *   Overview
-        *   Sustainability membershipsOUR VALUES We are dependable, open and connected Close Navigation
+        *   Sustainability memberships
+        *   ESG reporting and policiesOUR VALUES We are dependable, open and connected Close Navigation
 *   Investors Investors
     
     Find information about our performance, dividends,  
@@ -147,7 +149,7 @@ I accept Menu
         *   Annual General Meeting
     *   Investor FAQs
     *   Investor contacts
-    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)ANNUAL RESULTS 2018 Find the documents and webcast details Close Navigation
+    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)ANNUAL GENERAL MEETING Our 2019 AGM will take place on 12 April Close Navigation
 *   Media Media
     
     Find the latest media releases, key speeches by executives, and details of recent awards.
