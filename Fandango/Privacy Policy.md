@@ -77,7 +77,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Today in Movie Culture: ‘Us’ Movie Parody, Spotlight on ‘Dumbo’ Star Eva Green, ‘Aquaman 2’ Trailer Prank and More Read More
-    *   Next 3 Live-action Disney Remakes: 'Aladdin,' 'The Lion King,' 'Maleficent: Mistress of Evil' Read More
+    *   First ‘Joker’ Teaser Will Put a Smile on Your Face. Here's Everything We Know Read More
     *   ‘Captain Marvel’ Actress Mckenna Grace to Star in ‘Ghostbusters 3'. Here’s Everything We Know Read More
     
     Explore Content
@@ -337,7 +337,7 @@ Offers
     
 *   Celebrating 80 Years of Batman
     
-    Go to FandangoNOW and watch your favorite version of the Caped Crusader. See the sale, with movies starting at $7.99. WATCH NOW
+    Watch your favorite version of the Caped Crusader – on sale, starting at $7.99. WATCH NOW
     
 
 New + Coming soon
