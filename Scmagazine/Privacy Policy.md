@@ -212,17 +212,17 @@ New York, NY 10001.**
     *   Undisclosed number of TurboTax accounts breached
     *   Software maker Citrix hacked, business documents removed
     
-    *   Albany, N.Y. hit with ransomware attack
-    *   Why 2019 will prove biometrics aren’t a security “silver bullet”
-    *   Massively invasive Italian spyware campaign found on Google Play
-    *   Insurance Companies collaborate to offer cybersecurity ratings
-    *   Damages from ransomware attack on Norsk Hydro reach as high as $40M
+    *   A v-CISO’s Take on the 5 Issues Facing Cybersecurity
+    *   Saudis hacked Jeff Bezos's personal data, probe finds
+    *   UConn Health Center hit with $5M suite over breach
+    *   Apple's latest round of security updates includes 51 iOS fixes
+    *   World Backup Day: Data loss underscores need to backup
     
-    *   Women in cybersecurity outpacing men to leadership roles, study
-    *   Arizona Beverages ransomware attack exacerbated by unpatched servers, poorly configured back-up system
-    *   Game of Thrones report finds the show is the most popular malware lure
-    *   Michigan medical practice folds after ransomware attack
-    *   American hackers among Project Raven operatives spying on media, dissidents for UAE
+    *   Bashlight’s back Alright, with new features!
+    *   Verizon phishing scam takes a mobile-first approach
+    *   81 potentially dangerous apps from in the Microsoft Store
+    *   Georgia Tech stung with 1.3 million-person data breach
+    *   It's raining phishes out there. do you know what your users are doing?
 
 Back to Top
 
