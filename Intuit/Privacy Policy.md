@@ -1,4 +1,4 @@
-Accessible View
+Free Shipping Anywhere Over $99See DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -32,6 +32,25 @@ Near YouFind a StoreBack ABC Impossible Encounters HP Video 40% Off St. John's B
 *   $1499after couponwas $37 St. John's Bay Womens Split Crew Neck 3/4 Sleeve Blouse-PetiteAdd To Cart
 *   $1499after couponwas $37 St. John's Bay Womens Split Crew Neck 3/4 Sleeve Blouse-Petite(2)Add To Cart
 *   $1349after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(18)Add To Cart
+
+Hot Sellers
+
+*   BUY MORE AND SAVE WITH CODE: 9ACTNOW
+    
+    from$2940after couponLiz Claiborne Luxury 600 TC Sateen Wrinkle Free Sheet Set(259)
+*   BUY MORE AND SAVE WITH CODE: 9ACTNOW
+    
+    $30after couponPop Womens Nelly Ballet Flats Slip-on Closed Toe(164)
+*   BUY MORE AND SAVE WITH CODE: 9ACTNOW
+    
+    from$30after couponStudio™ 550 TC UltraFit Solid Performance Sheet Set(1640)
+*   $1350after couponwas $60 Yuu Womens Doshie Slip-On Shoe Closed Toe(22)
+*   from$1349after couponwas $30 - $35 Arizona Original Fit Flex Jeans Boys 4-20, Slim &. HUsky(23)
+*   BUY 1 GET 1 50% OFF
+    
+    $50
+    
+    Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(18)
 
 Shop and Save at JCPenney
 
