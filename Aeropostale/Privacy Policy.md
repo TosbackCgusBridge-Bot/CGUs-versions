@@ -63,12 +63,13 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Spring Essentials
+*   Party Shop
 *   Online Only
 *   Jeans Guide
 *   Tribe Of Tees
 *   Active
 *   Lounge
+*   Basic Essentials
 *   Seriously Soft
 *   Uniform
 
@@ -113,12 +114,12 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Spring Essentials
+*   Party Shop
 *   Online Only
 *   Denim Guide
 *   Lounge
 *   Active
-*   Uniform
+*   Back to Basics
 
 Close submenu ( Jeans ) Jeans
 
@@ -208,9 +209,9 @@ Close submenu ( Girls ) Girls
 *   Just In
 *   Best Sellers
 *   Destroyed Denim
+*   Festival Ready
 *   Break In Spring
-*   Seeing Stripes
-*   Twisted for Tie Dye
+*   Tie Dye For Stripes
 *   Meadow Florals
 *   Online Only
 *   Swim
@@ -223,9 +224,9 @@ Close submenu ( Guys ) Guys
 *   Just In
 *   Best Sellers
 *   Destroyed Denim
+*   Festival Ready
 *   Break in Spring
-*   Seeing Stripes
-*   Twisted for Tie Dye
+*   Tie Dye For Stripes
 *   Online Only
 *   Swim
 *   Aero One
@@ -260,7 +261,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**DAILY DEAL: EXTRA 15% OFF** USE CODE **DAY2** GIRLS GUYS **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
+**DAILY DEAL: EXTRA 15% OFF** USE CODE **DAY3** GIRLS GUYS **50-70% OFF EVERYTHING + FREE SHIPPING OVER $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -309,12 +310,13 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Spring Essentials
+        *   Party Shop
         *   Online Only
         *   Jeans Guide
         *   Tribe Of Tees
         *   Active
         *   Lounge
+        *   Basic Essentials
         *   Seriously Soft
         *   Uniform
     
@@ -351,12 +353,12 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Spring Essentials
+        *   Party Shop
         *   Online Only
         *   Denim Guide
         *   Lounge
         *   Active
-        *   Uniform
+        *   Back to Basics
     
 *   Jeans
     
@@ -429,9 +431,9 @@ Menu Find a Store Aeropostale
         *   Just In
         *   Best Sellers
         *   Destroyed Denim
+        *   Festival Ready
         *   Break In Spring
-        *   Seeing Stripes
-        *   Twisted for Tie Dye
+        *   Tie Dye For Stripes
         *   Meadow Florals
         *   Online Only
         *   Swim
@@ -443,9 +445,9 @@ Menu Find a Store Aeropostale
         *   Just In
         *   Best Sellers
         *   Destroyed Denim
+        *   Festival Ready
         *   Break in Spring
-        *   Seeing Stripes
-        *   Twisted for Tie Dye
+        *   Tie Dye For Stripes
         *   Online Only
         *   Swim
         *   Aero One
@@ -483,7 +485,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Details 4 DAYS 4 ONLINE ONLY DEALS DAY #2 DAY #2 EXTRA 15% OFF YOUR ENTIRE PURCHASE EXTRA 15% OFF YOUR ENTIRE PURCHASE WHEN YOU BUY TEES Use Code DAY2 Girls Tees Shop Guys Tees Shop Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! -5 -1 : Days 28 : Days 34 Details Shop Girls Shop Guys Shop Girls Bogo Bottoms Shop Guys Bogo Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys BOGO Girls BOGO Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Guys Tees Shop Girls Shop Guys Shop Dresses Shop Guys Shirts Shop Aero One Shop Girls Polos Shop Guys Polos Girls Accessories Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Details 4 DAYS 4 ONLINE ONLY DEALS DAY #3 DAY #3 EXTRA 15% OFF YOUR ENTIRE PURCHASE EXTRA 15% OFF YOUR ENTIRE PURCHASE WHEN YOU BUY ANYTHING FROM OUR PARTY SHOP Use Code DAY3 Girls Party Shop Guys Party Shop Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! -6 -1 : Days 27 : Days 54 Details Shop Girls Shop Guys Shop Girls Bogo Bottoms Shop Guys Bogo Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys BOGO Girls BOGO Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Guys Tees Shop Girls Shop Guys Shop Dresses Shop Guys Shirts Shop Aero One Shop Girls Polos Shop Guys Polos Girls Accessories Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
