@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Winston_: Dems Go Silent After Senate's Green New Deal Debacle
+*   _Marc Thiessen_: Why Liberals Don't Want People to See 'Unplanned'
     
-*   _Frida Ghitis_: If Trump Really Wanted a Border Solution, He'd Do This
+*   _Jill Filipovic_: This Supreme Court Ruling Is Exceptionally Cruel
     
-*   _Roger Kimball_: Why Trump Will Win in 2020--and It Could Be a Landslide
+*   _Rich Lowry_: Dereliction of Duty: The Border Crisis Is Congress' Fault
     
-*   _Edward-Isaac Dovere_: Biden Bets Dems Will Accept His 'Affectionate' Style
+*   _Thomas Edsall_: 'Why Aren't Dems Winning the Hispanic Vote 80-20 or 90-10?'
     
-*   _John Solomon_: Biden's 2020 Ukrainian Nightmare: Closed Probe Is Revived
+*   _Conrad Black_: Democrats in 2020: Unelectable Nonentities
     
-*   _Shira Scheindlin_: Trump Is Capturing the Judiciary at an Alarming Rate
+*   _Eve Gerber_: Biden's Deviant Decency: That's What Makes Him Great
     
-*   _Jeanne Mancini_: Planned Parenthood on the Defensive
+*   _Adam Kotsko_: When the Cool Uncle Becomes the Creepy Uncle
     
-*   _Kirsten Powers_: Buttigieg's Approach to Christianity Is What U.S. Needs
+*   _Alfredo Ortiz_: Trump Fights to Fix Shipping Rates That Favor China
     
-*   _Susan Crabtree_: Senators Want Iran Sanctions Relief Tied to Prisoners' Release
+*   _Jonathan Chait_: I Was Right: Trump Was Compromised by Russia
     
-*   _Stephen Moore_: The Biggest College Scandal of All
+*   _Roger Simon_: Dems Have More to Fear on Russia Story Than Republicans
     
-*   _Neil Irwin_: Biggest Economic Challenge for U.S. May Be Demographic Decline
+*   _Semih Idiz_: Will Election Defeat Force Erdogan to Improve Ties w/West?
     
-*   _David Leonhardt_: In Biden's Defense
+*   _Jones &. Jackson_: Why We're Celebrating the First Step Act After 3 Months
     
-*   _Christina Cauterucci_: Joe Biden's Defense Doesn't Work in 2019
+*   _David Craig_: As NATO Turns 70, Survey Shows Frayed Bonds
     
-*   _Piers Morgan_: If Biden Isn't Virtuous Enough to Be President, Who Is?
+*   _Nicholas Kristof_: Even After a Trade Deal, Be Wary of China
     
-*   _Julian Castro_: My Plan to Put People First
+*   _Ronald Klain_: Democrats Failed in 2016. And We Can Learn From It.
     
-*   _Guy Benson_: Castro's Radical, Pro-Illegal Immigration Plan
+*   _Brad Parscale_: We Should Worry When Zuckerberg, Dems Start Agreeing
     
-*   _Jeff Faux_: Trump Is Laying a Trap for Democrats on Immigration
+*   _Garrett Epps_: Will John Roberts Block the Triumph of Legal Conservatism?
     
-*   _Chris Spear_: The Human Toll of Our Crumbling Infrastructure
+*   _Monica Crowley_: John Brennan, the Collusion Lie Ringleader?
     
-*   _James Carroll_: Ed Markey Hopeful for Green New Deal's Chances
+*   _Brian Beutler_: Mueller Report Coverup Can't Be Allowed to Succeed
     
-*   _Rep. Matt Gaetz_: It's Time for a Green Real Deal
+*   _John McCormack_: A Big Win for Conservatives in Wisconsin?
     
-*   _Bonnie Kristian_: Beto Is Our Christ? Stop Idolizing Your 2020 Picks
+*   _Gail Collins_: The Biden Sort-Of Lovefest
     
-*   _Michael Graham_: Elizabeth Warren: Forgotten, But Not Gone
+*   _KC Johnson_: By His Own 'Harassment' Standard, Biden Is Damned
     
-*   _Thomas Friedman_: The United Kingdom Has Gone Mad
+*   _Dana Milbank_: Sanders' Bid Makes No Sense. And Yet, He's Surging.
     
-*   _Andrew Coyne_: Trudeau, Liberals Show True Selves With Explusions
+*   _David Graham_: Why the Buttigieg Boomlet Has Staying Power
     
 
 *   Previous
