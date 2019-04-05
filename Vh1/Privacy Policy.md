@@ -3,15 +3,15 @@
     *   Full Episodes
     *   Shows A-Z
     *   TV Schedule
-    *   VH1 App
     *   The Best of Love &. Hip Hop
     *   Black Ink Crew
     *   Black Ink Crew Chicago
-    *   Cartel Crew
     *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Miami
     *   Love &. Hip Hop New York
-    *   Martha &. Snoop's Potluck Party ChallengeSee all Shows
+    *   Martha &. Snoop's Potluck Party Challenge
+    *   RuPaul's Drag Race
+    *   T.I. &. Tiny: Friends &. Family HustleSee all Shows
 *   News
 *   App
 *   Watch Live TV
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleVH1 AppThe Best of Love &. Hip HopBlack Ink CrewBlack Ink Crew ChicagoCartel CrewLove &. Hip Hop AtlantaLove &. Hip Hop MiamiLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag RaceT.I. &. Tiny: Friends &. Family HustleTrailblazer Honorssee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleThe Best of Love &. Hip HopBlack Ink CrewBlack Ink Crew ChicagoLove &. Hip Hop AtlantaLove &. Hip Hop MiamiLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag RaceT.I. &. Tiny: Friends &. Family Hustlesee all Shows
 *   News
 *   App
 *   Watch Live TV
