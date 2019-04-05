@@ -13,30 +13,30 @@ Categories &. more Hi there! Did you know there is a Y8 Forum? Join other player
 
 *   New Games Next in xx:xx
 *   Best of new games 619 games
-*   Most Popular Games 18986 games
+*   Most Popular Games 18992 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,821 games
-*   Driving &. Racing Games 6,778 games
-*   Strategy &. RPG Games 2,412 games
+*   Games for girls 23,820 games
+*   Driving &. Racing Games 6,779 games
+*   Strategy &. RPG Games 2,413 games
 *   Management Games 3,641 games
-*   Thinking Games 11,973 games
-*   Action &. Adventure Games 16,028 games
-*   Sports Games 2,192 games
+*   Thinking Games 11,975 games
+*   Action &. Adventure Games 16,030 games
+*   Sports Games 2,193 games
 *   Shooting Games 8,420 games
-*   Fighting Games 2,095 games
-*   Skill Games 10,899 games
-*   Arcade &. Classic Games 12,795 games
-*   Fun &. Crazy Games 2,497 games
+*   Fighting Games 2,094 games
+*   Skill Games 10,901 games
+*   Arcade &. Classic Games 12,794 games
+*   Fun &. Crazy Games 2,498 games
 
 Play with friends  
-Powered by Y8 Account 133 Y8 Multiplayer Games 1,932 Y8 High Score Games 1,140 Y8 Achievements Games 811 Y8 Screenshots Games 1,409 Y8 Online Save Games 2,985 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 133 Y8 Multiplayer Games 1,936 Y8 High Score Games 1,140 Y8 Achievements Games 811 Y8 Screenshots Games 1,410 Y8 Online Save Games 2,989 All Y8 Games Games Last Highscore:
 
-**23** points on Slope Y8 by bbos204
+**1,015** points on Farm Frenzy 2 by CathLee
 
 Help us improve Bad translation? Social
 
