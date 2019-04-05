@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Visual Studio Code launches as a snap ›
+*   Remote collaborative design ›
 *   AWS IoT Greengrass released as a snap ›
 *   MicroK8s in the Wild ›
 *   Snap startup time improvements ›
-*   Kubernetes 1.14 now available from Canonical ›
-*   Snapcraft Summit Montreal ›
