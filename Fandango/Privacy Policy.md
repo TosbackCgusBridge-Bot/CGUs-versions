@@ -76,9 +76,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Us’ Movie Parody, Spotlight on ‘Dumbo’ Star Eva Green, ‘Aquaman 2’ Trailer Prank and More Read More
+    *   Rachel Weisz and David Harbour Join Marvel’s ‘Black Widow’. Here's Everything We Know Read More
     *   First ‘Joker’ Teaser Will Put a Smile on Your Face. Here's Everything We Know Read More
-    *   ‘Captain Marvel’ Actress Mckenna Grace to Star in ‘Ghostbusters 3'. Here’s Everything We Know Read More
+    *   Today in Movie Culture: ‘Shazam!’ Fandom on Display, an Expert’s Guide to the Iconic Weapons of the MCU and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -334,10 +334,6 @@ Offers
 *   FandangoNOW Binge Bundles
     
     Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
-    
-*   Celebrating 80 Years of Batman
-    
-    Watch your favorite version of the Caped Crusader – on sale, starting at $7.99. WATCH NOW
     
 
 New + Coming soon
