@@ -212,17 +212,17 @@ New York, NY 10001.**
     *   Undisclosed number of TurboTax accounts breached
     *   Software maker Citrix hacked, business documents removed
     
-    *   A v-CISO’s Take on the 5 Issues Facing Cybersecurity
+    *   Calling all women...
+    *   Microsoft grabs APT35/Charming Kitten websites in court ordered take down
+    *   Mozilla plugs two critical security holes in Thunderbird
+    *   Massively invasive Italian spyware campaign found on Google Play
     *   Saudis hacked Jeff Bezos's personal data, probe finds
-    *   UConn Health Center hit with $5M suite over breach
-    *   Apple's latest round of security updates includes 51 iOS fixes
-    *   World Backup Day: Data loss underscores need to backup
     
+    *   Brazilian Banking Trojan BasBanke spreads via Facebook and WhatApp promos
+    *   Google researcher finds zero-day in P-Link SR20 router smart home hub
+    *   Chinese HR firms and recruiting agencies found to leak more than half a billion resumes
+    *   Three lessons from the top cybersecurity threats of 2018
     *   Bashlight’s back Alright, with new features!
-    *   Verizon phishing scam takes a mobile-first approach
-    *   81 potentially dangerous apps from in the Microsoft Store
-    *   Georgia Tech stung with 1.3 million-person data breach
-    *   It's raining phishes out there. do you know what your users are doing?
 
 Back to Top
 
