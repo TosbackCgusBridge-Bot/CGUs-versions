@@ -1,4 +1,4 @@
-Navigation:
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W955HZ9" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Navigation:
 
 *   Create a Website
     *   How it Works
@@ -74,6 +74,3 @@ Your 30-day free trial period begins when you click on "Click Here to Finish" du
 © 2018 Homestead Technologies Inc. All Rights Reserved. | Legal | Privacy
 
 Follow Us:
-
-  
-<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072632537/?value=0&amp;label=bcCiCNPvoQMQ2aW8\_wM&amp;guid=ON&amp;script=0"/>. </div>.
