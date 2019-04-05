@@ -191,8 +191,6 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Mobile Home
         *   RentersBundle Auto + Property
     *   Everything Else
-        *   Auto Financing
-        *   Auto Refinancing
         *   Business
         *   Car Shopping Service
         *   Commercial
@@ -278,8 +276,6 @@ Bundle and save 5%† or more on auto!
 Or, quote another product
 
 *   Auto
-*   Auto Financing
-*   Auto Refinancing
 *   Boat/PWC
 *   Business
 *   Car Shopping
@@ -292,6 +288,7 @@ Or, quote another product
 *   Health
 *   Homeowners
 *   Home Financing
+*   Home Security
 *   Home Warranty
 *   ID Theft
 *   Life
@@ -306,7 +303,7 @@ Or, quote another product
 *   Travel
 *   Wedding &. Event
 
-Select a product Auto + HomeAuto + RentersAuto + CondoAutoAuto FinancingAuto RefinancingBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHome FinancingHome WarrantyID TheftLifeMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event Select a productCurrently selected productAuto 
+Select a product Auto + HomeAuto + RentersAuto + CondoAutoBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHome FinancingHome SecurityHome WarrantyID TheftLifeMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event Select a productCurrently selected productAuto 
 
 Loading
 
