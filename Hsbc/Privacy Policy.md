@@ -10,7 +10,7 @@ We use cookies to give you the best experience on our website. By continuing to 
 
 I accept Menu
 
-*   Who we are Who we are
+*   Who we are Skip to Our approach Who we are
     
     Founded in 1865, HSBC is one of the world’s  
     leading international banks.
@@ -18,7 +18,6 @@ I accept Menu
     Go to this section
     *   Main menu
     *   Who we are
-    *   Overview
     *   Our businesses
         *   Back
         *   Our businesses
@@ -42,7 +41,7 @@ I accept Menu
         *   Overview
         *   Sponsorship
     *   Contact usOUR BUSINESSES We serve more than 39 million customers Close Navigation
-*   Our approach Our approach
+*   Our approach Skip to Investors Our approach
     
     At HSBC, how we do business is as important as  
     what we do.
@@ -50,7 +49,6 @@ I accept Menu
     Go to this section
     *   Main menu
     *   Our approach
-    *   Overview
     *   Our strategy
         *   Back
         *   Our strategy
@@ -100,9 +98,9 @@ I accept Menu
         *   Back
         *   Measuring our impact
         *   Overview
-        *   Sustainability memberships
-        *   ESG reporting and policiesOUR VALUES We are dependable, open and connected Close Navigation
-*   Investors Investors
+        *   ESG reporting and policies
+        *   Sustainability membershipsOUR VALUES We are dependable, open and connected Close Navigation
+*   Investors Skip to Media Investors
     
     Find information about our performance, dividends,  
     and investor events.
@@ -110,7 +108,6 @@ I accept Menu
     Go to this section
     *   Main menu
     *   Investors
-    *   Overview
     *   Investing in HSBC
         *   Back
         *   Investing in HSBC
@@ -150,21 +147,20 @@ I accept Menu
     *   Investor FAQs
     *   Investor contacts
     *   Investor information in Chinese - 投資者中文資訊 (opens in new window)ANNUAL GENERAL MEETING Our 2019 AGM will take place on 12 April Close Navigation
-*   Media Media
+*   Media Skip to Careers Media
     
     Find the latest media releases, key speeches by executives, and details of recent awards.
     
     Go to this section
     *   Main menu
     *   Media
-    *   Overview
     *   Media releases
     *   Speeches
     *   Media gallery
     *   Awards
     *   Social media
     *   Media contactsMEDIA CONTACTS How journalists can get in touch Close Navigation
-*   Careers Careers
+*   Careers Skip to Online banking Careers
     
     Endless possibilities, diverse outlooks. Build your  
     career at HSBC.
@@ -172,7 +168,6 @@ I accept Menu
     Go to this section
     *   Main menu
     *   Careers
-    *   Overview
     *   Life at HSBC
         *   Back
         *   Life at HSBC
@@ -397,11 +392,11 @@ Thank you. We appreciate you taking the time to give us feedback.
 *   Media
 *   Careers
 
-*   Visit Twitter
-*   Visit Linkedin
-*   Visit Instagram
-*   Visit Facebook
-*   Visit Youtube
+*   Visit Twitter (opens in new window)
+*   Visit Linkedin (opens in new window)
+*   Visit Instagram (opens in new window)
+*   Visit Facebook (opens in new window)
+*   Visit Youtube (opens in new window)
 
 *   © HSBC Group 2019
 *   Terms and conditions
@@ -412,7 +407,7 @@ Thank you. We appreciate you taking the time to give us feedback.
 
 Search (auto-suggestions will appear below field) Clear text Submit search
 
-**See all results** **No results found. Please try a different search term.** Close Close search panel Online banking
+See all results **No results found. Please try a different search term.** Close Close search panel Online banking
 
 Go to my
 
