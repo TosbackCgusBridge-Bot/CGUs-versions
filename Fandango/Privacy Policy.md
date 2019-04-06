@@ -76,9 +76,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Rachel Weisz and David Harbour Join Marvel’s ‘Black Widow’. Here's Everything We Know Read More
-    *   First ‘Joker’ Teaser Will Put a Smile on Your Face. Here's Everything We Know Read More
     *   Today in Movie Culture: ‘Shazam!’ Fandom on Display, an Expert’s Guide to the Iconic Weapons of the MCU and More Read More
+    *   The Week in Movie News: First ‘Joker’ Teaser Trailer, ‘Suicide Squad’ and ’Black Widow’ Casting and More Read More
+    *   Today in Movie Culture: ‘Pet Sematary’ Plot Song and Easter Eggs, ‘Shazam!' Spoofs and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -323,9 +323,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   To give thanks to moviegoers seeing 'The Mustang' between 4/1 - 4/7
+*   'Missing Link' Sweepstakes
     
-    Focus Features will support Return to Freedom with a donation (Donations will not exceed $10,000). BUY TICKETS
+    Enter now for a chance to win a custom 'Missing Link' Echo Dot from Amazon! BUY TICKETS
     
 *   Every 4 Tickets = $5 For You
     
