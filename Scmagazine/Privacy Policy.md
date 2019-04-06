@@ -209,20 +209,20 @@ New York, NY 10001.**
     *   The death of the VPN - It’s time to say goodbye
     *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Microsoft researchers find NSA-style backdoor in Huawei laptops
-    *   Undisclosed number of TurboTax accounts breached
     *   Software maker Citrix hacked, business documents removed
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Calling all women...
-    *   Microsoft grabs APT35/Charming Kitten websites in court ordered take down
-    *   Mozilla plugs two critical security holes in Thunderbird
-    *   Massively invasive Italian spyware campaign found on Google Play
-    *   Saudis hacked Jeff Bezos's personal data, probe finds
-    
-    *   Brazilian Banking Trojan BasBanke spreads via Facebook and WhatApp promos
-    *   Google researcher finds zero-day in P-Link SR20 router smart home hub
-    *   Chinese HR firms and recruiting agencies found to leak more than half a billion resumes
+    *   Threat actors use US data center to spread malware
     *   Three lessons from the top cybersecurity threats of 2018
-    *   Bashlight’s back Alright, with new features!
+    *   Chinese woman arrested with malware-laced thumb drive after illegally entering Mar-a-Lago
+    *   Gustuff banking trojan disables Google Protect and Accessibility Service mode
+    *   Microsoft grabs APT35/Charming Kitten websites in court ordered take down
+    
+    *   Xiaomi devices came with vulnerability baked into its pre installed security app
+    *   Motel 6 to pay $12M for sharing guest info with ICE
+    *   VoterVoice database leaks email addresses, messages to elected officials
+    *   Threat actors use US data center to spread malware
+    *   Calling all women...
 
 Back to Top
 
