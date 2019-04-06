@@ -32,7 +32,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Instant Replay
     *   Players of the Week
     *   MLB Network
-    *   Shareable Video/GIFs
+    *   GIF Hub
     *   Podcasts
     
     Featured
