@@ -170,10 +170,6 @@
         *   Employee Volunteerism
         *   Special Olympics Family Festival
         *   Environmental Responsibility
-    *   History
-        *   Telephone Museum
-            *   Museum History
-            *   Museum Exhibits
     *   Locations
 *   Contact Us
 *   Careers
@@ -197,7 +193,6 @@
     *   Leadership
     *   Careers
     *   Community Matters
-    *   History
     *   Locations
 *   Contact Us
 
