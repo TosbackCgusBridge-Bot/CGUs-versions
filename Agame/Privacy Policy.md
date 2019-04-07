@@ -91,8 +91,8 @@ View more results
     *   Warbanner
     *   Stunt Skateboard 3D
     *   Deer Hunter
-    *   Uphill Rush 7: Waterpark
     *   Total Front: Army War Game
+    *   Uphill Rush 7: Waterpark
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Electricman 2: Stickman Fighting Game
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
@@ -123,11 +123,11 @@ View more results
     *   Five Nights at Freddy's 4
     *   Fireboy and Watergirl 5: Elements
     *   Tom and Jerry: Mouse Maze
+    *   Short Life
     *   Five Nights at Freddy's: Sister Location
     *   FNAF - Sister Location Custom
-    *   Short Life
     *   Trap Adventure 2
-    *   FNAF: Sister Location Custom Night
+    *   TJOC: The Joy Of Creation
 *   Top Categories
     
     *   Bubble Shooter
@@ -220,8 +220,8 @@ View more results
     *   Happy Wheels
     *   Uphill Rush 7: Waterpark
     *   Extreme Off-Road Cars 2
-    *   Russian Car Driver
     *   Country Ride: Race Car Game
+    *   Russian Car Driver
     *   Neon Biker
     *   Moto X3M: Motorcycle Racing Game
 *   Top Categories
@@ -248,12 +248,12 @@ View more results
     *   Stunt Skateboard 3D
     *   Table Tennis World Tour
     *   Neon Biker
-    *   Playing Soccer
     *   Ultimate Boxing
+    *   Playing Soccer
     *   8-Ball
     *   Baseball
-    *   Billiards Master Pro
     *   Flip Diving
+    *   Billiards Master Pro
     *   Bouncy Dunk
 *   *   Multiplayer
     *   Action
