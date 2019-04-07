@@ -61,6 +61,7 @@
 *   Holiday
     
     View All Categories Shop by Category*   Easter Gifts
+    *   Mother's Day Gifts
     
     Occasions*   Spring
     *   Game Day
@@ -142,6 +143,7 @@
 *   Holiday
     
     View All Categories Shop by Category*   Easter Gifts
+    *   Mother's Day Gifts
     
     Occasions*   Spring
     *   Game Day
