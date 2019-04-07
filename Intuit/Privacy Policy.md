@@ -23,42 +23,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackLOWEST PRICES OF THE SEASON! DAY 1 ENDS IN\*Offer ends 04/07/19
-
-*   days
-*   00
-    
-    Hours
-    
-    Hrs
-    
-*   40Mins
-*   57Secs
-
-\*Offer ends 04/07/19Hot Sellers
-
-*   $2188 sale
-    
-    was $50 56% offThe Foundry Big &. Tall Supply Co. Mens Cargo Short Big and Tall(2)
-*   $1788 sale
-    
-    was $42 57% offArizona Flex Relaxed-Fit Straight Jeans(541)
-*   from$3549 sale
-    
-    was $59.50 32 - 40% offLevi's® 505™ Regular Fit Jeans(2481)
-*   BUY 1 GET 1 60% OFF
-    
-    $30
-    
-    Stafford® 4-pk. Heavyweight Crewneck T-Shirts(681)
-*   from$3799 sale
-    
-    was $69.50 28 - 45% offLevi's® 541™ Athletic Fit Stretch Jeans(704)
-*   $1788 sale
-    
-    was $42 57% offArizona Basic Loose Straight Jeans(1229)
-
-Shop and Save at JCPenney
+Near YouFind a StoreBackShop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
