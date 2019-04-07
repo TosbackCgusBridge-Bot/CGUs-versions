@@ -207,16 +207,16 @@ New York, NY 10001.**
     *   Recent
     
     *   The death of the VPN - It’s time to say goodbye
-    *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Microsoft researchers find NSA-style backdoor in Huawei laptops
+    *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Software maker Citrix hacked, business documents removed
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Threat actors use US data center to spread malware
-    *   Three lessons from the top cybersecurity threats of 2018
-    *   Chinese woman arrested with malware-laced thumb drive after illegally entering Mar-a-Lago
-    *   Gustuff banking trojan disables Google Protect and Accessibility Service mode
-    *   Microsoft grabs APT35/Charming Kitten websites in court ordered take down
+    *   2M credit cards exposed in Buca di Beppo, Earl of Sandwich, Planet Hollywood parent company breach
+    *   Massively invasive Italian spyware campaign found on Google Play
+    *   Saudis hacked Jeff Bezos's personal data, probe finds
+    *   It's raining phishes out there. do you know what your users are doing?
+    *   Albany, N.Y. hit with ransomware attack
     
     *   Xiaomi devices came with vulnerability baked into its pre installed security app
     *   Motel 6 to pay $12M for sharing guest info with ICE
