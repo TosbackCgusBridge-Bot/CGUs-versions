@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   7\. April 2019
+*   8\. April 2019
 *   Abo
 *   DAX 12.009,75ǀ
 *   Schlagzeilenǀ
