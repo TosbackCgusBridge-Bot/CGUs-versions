@@ -1,9 +1,3 @@
-*   be\_ixf. js\_sdk. js\_sdk\_1.0.14
-*   517 ms
-*   iy\_2019. im\_04. id\_06. ih\_22. imh\_30. i\_epoch:1554615048128
-*   ixf-compiler. ixf-compiler\_1.0.0.0
-*   py\_2019. pm\_03. pd\_13. ph\_11. pmh\_15. p\_epoch:1552500916086
-
 *   Global directoryGlobal directory
 
 *   Product loginsProduct logins
@@ -194,16 +188,7 @@ Thomson Reuters
 *   Copyright
 *   Accessibility
 
-<img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=215515565692587&ev=PageView&noscript=1" />.
-
-*   link-block-publisher. link-block-publisher\_1.0.0.0. bodystr
-*   p\_tstr:Wed Mar 13 2019 11:15:16 GMT-0400 (EDT). p\_epoch:1552500916086
-
-*   be\_ixf. js\_sdk. js\_sdk\_1.0.14
-*   https://legal.thomsonreuters.com/en/products/westlaw/practitioner-insights
-*   https://legal.thomsonreuters.com/en/products/westlaw/practitioner-insights
-
-Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
+<img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=215515565692587&ev=PageView&noscript=1" />. Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
 
 How would you rate your experience?
 
