@@ -126,8 +126,8 @@ View more results
     *   Short Life
     *   Five Nights at Freddy's: Sister Location
     *   FNAF - Sister Location Custom
-    *   Trap Adventure 2
     *   TJOC: The Joy Of Creation
+    *   FNAF: Sister Location Custom Night
 *   Top Categories
     
     *   Bubble Shooter
@@ -188,8 +188,8 @@ View more results
     *   Back To School: Princesses Rush
     *   Popstar Dentist
     *   Papa's Cupcakeria
-    *   Fidget Spinner
     *   The Princess: Sent to the Future - Dress Up Game
+    *   Fidget Spinner
     *   Papa's Freezeria
     *   My Dolphin Show 7
 *   Top Categories
@@ -461,5 +461,5 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookies
 *   Cookie Consent
 
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
+<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
