@@ -208,21 +208,21 @@ New York, NY 10001.**
     
     *   The death of the VPN - It’s time to say goodbye
     *   Microsoft researchers find NSA-style backdoor in Huawei laptops
-    *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Software maker Citrix hacked, business documents removed
+    *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
+    *   Critical vulnerability in Apache HTTP Server patched
+    *   Insurance Companies collaborate to offer cybersecurity ratings
+    *   Calling all women...
     *   2M credit cards exposed in Buca di Beppo, Earl of Sandwich, Planet Hollywood parent company breach
-    *   Massively invasive Italian spyware campaign found on Google Play
-    *   Saudis hacked Jeff Bezos's personal data, probe finds
-    *   It's raining phishes out there. do you know what your users are doing?
-    *   Albany, N.Y. hit with ransomware attack
+    *   RiskSec preview: Angelo Longo, CISO at Resorts Casino Hotel
     
+    *   DHS Secretary Nielsen resigns
     *   Xiaomi devices came with vulnerability baked into its pre installed security app
     *   Motel 6 to pay $12M for sharing guest info with ICE
     *   VoterVoice database leaks email addresses, messages to elected officials
     *   Threat actors use US data center to spread malware
-    *   Calling all women...
 
 Back to Top
 
