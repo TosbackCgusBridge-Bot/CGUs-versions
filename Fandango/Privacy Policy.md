@@ -5,17 +5,17 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Shazam!
+    *   Pet Sematary (2019)
     *   Dumbo (2019)
     *   Us (2019)
     *   Captain Marvel (2019)
+    *   The Best of Enemies
     *   Five Feet Apart
     *   Unplanned (2019)
     *   Wonder Park
     *   How to Train Your Dragon: The Hidden World
     *   Hotel Mumbai
-    *   Tyler Perry's A Madea Family Funeral
-    *   The Beach Bum
-    *   Gloria Bell
     *   See All Now Playing
     
     Opening This Week = Limited Release
@@ -39,16 +39,15 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   After (2019)
-    *   Hellboy (2019)
-    *   Little (2019)
-    *   Missing Link (2019)
     *   The Curse of La Llorona
     *   Breakthrough (2019)
     *   Penguins (2019)
     *   El Chicano (2019)
+    *   The Intruder (2019)
     *   Long Shot
     *   UglyDolls
+    *   Pokémon Detective Pikachu
+    *   The Hustle (2019)
     *   See All Coming Soon
     
     Explore More
@@ -76,9 +75,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Shazam!’ Fandom on Display, an Expert’s Guide to the Iconic Weapons of the MCU and More Read More
-    *   The Week in Movie News: First ‘Joker’ Teaser Trailer, ‘Suicide Squad’ and ’Black Widow’ Casting and More Read More
-    *   Today in Movie Culture: ‘Pet Sematary’ Plot Song and Easter Eggs, ‘Shazam!' Spoofs and More Read More
+    *   Idris Elba to Star in ‘Suicide Squad 2’ as a New Character. Here’s Everything We Know Read More
+    *   Kumail Nanjiani Joins Angelina Jolie for Marvel's ‘The Eternals'. Here's Everything We Know Read More
+    *   Today in Movie Culture: ‘Missing Link’ Music Video, ‘Shazam!’ Easter Eggs, the Real Places That Inspired ‘Pet Sematary’ and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -334,6 +333,10 @@ Offers
 *   FandangoNOW Binge Bundles
     
     Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
+    
+*   'Little' Sweepstakes
+    
+    Enter now for a chance to win a script signed by the cast! BUY TICKETS
     
 
 New + Coming soon
