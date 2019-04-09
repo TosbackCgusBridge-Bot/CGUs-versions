@@ -414,7 +414,6 @@ California privacy rights requests must include the reference “Request for Cal
 
 *   About Us
 *   Press Room
-*   Affiliate Center
 *   Contact Us
 *   Careers
 
