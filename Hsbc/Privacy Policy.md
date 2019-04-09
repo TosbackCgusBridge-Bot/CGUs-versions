@@ -1,14 +1,14 @@
-Skip to:
+We use cookies
+
+We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information can be found in our Terms and conditions, Cookie policy and Privacy notice.
+
+I accept Skip to:
 
 *   Primary navigation
 *   Main content
 *   Footer
 
-We use cookies
-
-We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information can be found in our Terms and conditions, Cookie policy and Privacy notice.
-
-I accept Menu
+Menu
 
 *   Who we are Skip to Our approach Who we are
     
@@ -99,7 +99,7 @@ I accept Menu
         *   Measuring our impact
         *   Overview
         *   ESG reporting and policies
-        *   Sustainability membershipsOUR VALUES We are dependable, open and connected Close Navigation
+        *   Sustainability membershipsMEASURING OUR IMPACT Read our latest ESG report and policies Close Navigation
 *   Investors Skip to Media Investors
     
     Find information about our performance, dividends,  
@@ -204,7 +204,21 @@ I accept Menu
 *   Online banking
 *   Contact
 
-Online banking Contact Search Terms and conditions
+Online banking Contact Search Online banking
+
+Go to my
+
+Account in
+
+Toggle Account in dropdown
+
+Go Remember me Go
+
+You are leaving HSBC.com. Please be aware that the external site policies, or those of another HSBC Group website, may differ from our website terms and conditions and privacy policy. The next site will open in a new browser window. Note: HSBC is not responsible for any content on third party sites, nor does a link suggest endorsement of those sites and/or their content.
+
+Learn about online security Close Close online banking panel Search (auto-suggestions will appear below field) Clear text Submit search
+
+See all results **No results found. Please try a different search term.** Close Close search panel Terms and conditions
 
 Before using this Site, you should read these Terms carefully, as well as our Cookie Policy. By accessing this Site, you agree to be bound by the Terms.
 
@@ -368,6 +382,15 @@ Share
 *   Print this page
 *   Subscribe to RSS
 
+Share
+
+*   Email Email a link to this page
+*   Twitter Tweet this Open in new window
+*   LinkedIn Share on LinkedIn Open in new window
+*   Facebook Share on Facebook Open in new window
+*   Facebook Messenger Share on Facebook Messenger Open in new window
+*   Whatsapp Share on WhatsApp Open in new window
+
 Did you find this page useful?
 
 *   Yes
@@ -404,70 +427,3 @@ Thank you. We appreciate you taking the time to give us feedback.
 *   Cookie policy
 *   Accessibility
 *   Online security
-
-Search (auto-suggestions will appear below field) Clear text Submit search
-
-See all results **No results found. Please try a different search term.** Close Close search panel Online banking
-
-Go to my
-
-Select banking type. Personal banking selected.Banking selector (auto-suggestions will appear below field)
-
-*   Personal banking
-*   Business banking
-*   Corporate and institutional banking
-*   Private banking
-
-Account in
-
-Location selector (auto-suggestions will appear below field) 36 results are availableToggle Account in dropdown
-
-*   Argentina
-*   Armenia
-*   Australia
-*   Bahrain
-*   Bangladesh
-*   Bermuda
-*   Canada
-*   China
-*   Egypt
-*   France
-*   Greece
-*   Guernsey
-*   Hong Kong
-*   HSBC Expat
-*   India
-*   Indonesia
-*   Isle of Man
-*   Jersey
-*   Malaysia
-*   Malta
-*   Mauritius
-*   Mexico
-*   New Zealand
-*   Oman
-*   Philippines
-*   Qatar
-*   Saudi Arabia
-*   Singapore
-*   Sri Lanka
-*   Taiwan
-*   Turkey
-*   UAE
-*   UK
-*   UK - first direct
-*   USA
-*   Vietnam
-
-Go Remember me Go
-
-You are leaving HSBC.com. Please be aware that the external site policies, or those of another HSBC Group website, may differ from our website terms and conditions and privacy policy. The next site will open in a new browser window. Note: HSBC is not responsible for any content on third party sites, nor does a link suggest endorsement of those sites and/or their content.
-
-Learn about online security Close Close online banking panel Share
-
-*   Email Email a link to this page
-*   Twitter Tweet this Open in new window
-*   LinkedIn Share on LinkedIn Open in new window
-*   Facebook Share on Facebook Open in new window
-*   Facebook Messenger Share on Facebook Messenger Open in new window
-*   Whatsapp Share on WhatsApp Open in new window
