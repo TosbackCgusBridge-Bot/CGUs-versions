@@ -209,20 +209,20 @@ New York, NY 10001.**
     *   The death of the VPN - It’s time to say goodbye
     *   Microsoft researchers find NSA-style backdoor in Huawei laptops
     *   Software maker Citrix hacked, business documents removed
-    *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   The winners of the 2019 SC Awards Honored in the U.S.
     
-    *   Critical vulnerability in Apache HTTP Server patched
+    *   74 Facebook groups for cybercriminals found
     *   Insurance Companies collaborate to offer cybersecurity ratings
-    *   Calling all women...
-    *   2M credit cards exposed in Buca di Beppo, Earl of Sandwich, Planet Hollywood parent company breach
-    *   RiskSec preview: Angelo Longo, CISO at Resorts Casino Hotel
+    *   DHS Secretary Nielsen resigns
+    *   Game of Thrones report finds the show is the most popular malware lure
+    *   Microsoft grabs APT35/Charming Kitten websites in court ordered take down
     
+    *   Cisco fixes previously issued flawed patches for routers
+    *   The Need for Trust amidst the “Zero Trust” Movement
     *   DHS Secretary Nielsen resigns
     *   Xiaomi devices came with vulnerability baked into its pre installed security app
     *   Motel 6 to pay $12M for sharing guest info with ICE
-    *   VoterVoice database leaks email addresses, messages to elected officials
-    *   Threat actors use US data center to spread malware
 
 Back to Top
 
@@ -254,4 +254,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+<img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
