@@ -111,53 +111,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Ronna McDaniel_: Trump Has Secured the Future of Our American Courts
+*   _Abby Phillip_: Kirstjen Nielsen's Ignominious End
     
-*   _Robert Reich_: Mitch McConnell Destroying the Senate - and American Govt
+*   _James Jay Carafano_: Blame Dems for Border Mess, Not Nielsen or Trump
     
-*   _Robert Charles_: Obama Is Right: Circular Firing Squad Ensures Trump Win
+*   _Michael Conway_: Barr's Redactions Will Decide His Place In History
     
-*   _Sahil Kapur_: Beto Bets on Obama-Like 'Hope' Amid Dems' Fury at Trump
+*   _Adam Mill_: Dems Will Regret Not Walking Away When They Could
     
-*   _Kyle Smith_: Pathetic Dems Have Become the Party of Apologies
+*   _Bernard Avishai_: Bibi, Gantz, &. 5 Scenarios for the Israeli Election
     
-*   _Gregory Wallace_: Aviation World Faces a Moment of Reckoning
+*   _Dan Feferman_: A Guide to Tomorrow’s Israeli Elections
     
-*   _Kim Guilfoyle_: Trump's Commitment to Israel a Refreshing Change From Obama
+*   _Bhaskar Sunkara_: Barack Obama Represents the Old Democratic Party
     
-*   _Abraham Riesman_: Whatever Happened to the Israeli Left?
+*   _Patrick O'Hannigan_: Calvinball Is the Only Game Democrats Play
     
-*   _Roger Kimball_: Why the Left Can't Understand Tucker Carlson
+*   _Charlotte Church_: I Ditched My iPhone and It Changed My Life
     
-*   _Nick Paumgarten_: The Rise and Fall of a New York Shock Jock
+*   _Abby Johnson_: I Really Did See an Abortion That Made Me Pro-Life
     
-*   _David Brooks_: The Moral Peril of Meritocracy
+*   _Charles Blow_: Trumpism Extols Its Folk Hero
     
-*   _Jeffrey Toobin_: William Barr's Choices
+*   _Victor Davis Hanson_: All the Progressive Plotters
     
-*   _Michael Goodwin_: One Truthful Dem Emerges to Call Out Party's 'Delusions'
+*   _Jim Newell_: Bernie's the Favorite. He Should Start Acting Like It
     
-*   _Bersin_: Yes, There's a Border Crisis. It's Trump's Fault
+*   _E.J. Dionne_: Despite It All, Joe Biden Should Run
     
-*   _Steve Cortes_: Stop Comparing Political Rivals to Nazis
+*   _Byron York_: Face It: Biden &. Bernie Are Too Old to be President
     
-*   _Richard Devine_: Smollett Case Gone, But Not About To Be Forgotten
+*   _Bill Scher_: Bernie Sanders Is Right to Go on Fox News
     
-*   _Nolan Finley_: America's Hate Crime Surge Is a Hoax
+*   _Frank Miele_: Why Do Republicans Keep Going on MSNBC &. CNN?
     
-*   _Josh Kraushaar_: Reality Check for 2020 Democrats
+*   _Elizabeth Weil_: Can Kamala Harris Win?
     
-*   _Derek Hunter_: The Democratic Field Is A Rainbow Of Sameness
+*   _Frank Donatelli_: Why Trump's Approval Ratings Barely Budge
     
-*   _Andrew Sullivan_: Is Buttigieg a Transformational Candidate?
+*   _Ryan Cooper_: Dems Shouldn't Fear Disrupting Private Health Insurance
     
-*   _John O'Sullivan_: If Brexit Fails, So Does Britain
+*   _Andy Puzder_: Roaring Economy Slows Dems' Minimum Wage Push
     
-*   _Jorg Schindler_: Amid Brexit Chaos, May's Conservative Party Implodes
+*   _Michael Tomasky_: Kirstjen Nielsen Wasn't Heartless Enough for Trump
     
-*   _Rex Murphy_: Justin Trudeau's Halo Is Gone
+*   _David Catron_: Democrats Feed on Voter Fears
     
-*   _Warren Farrell_: Multifaceted 'Boy Crisis' Threatens America's Future
+*   _Roger Cohen_: Will the Israeli 'King' Be Recrowned?
     
 
 *   Previous
