@@ -9,34 +9,34 @@ New Games Next in  xx:xx
 
 *   Most Liked Best games from last 2 months
 
-Categories &. more Hi there! Did you know there is a Y8 Forum? Join other players talking about games. Visit the Y8 Forum Go to Forum Hide LIBRARY
+Categories &. more Hey! Join us on y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 624 games
-*   Most Popular Games 19011 games
+*   Best of new games 641 games
+*   Most Popular Games 19014 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,835 games
+*   Games for girls 23,854 games
 *   Driving &. Racing Games 6,779 games
 *   Strategy &. RPG Games 2,413 games
 *   Management Games 3,642 games
-*   Thinking Games 11,981 games
+*   Thinking Games 11,982 games
 *   Action &. Adventure Games 16,034 games
-*   Sports Games 2,194 games
-*   Shooting Games 8,420 games
+*   Sports Games 2,195 games
+*   Shooting Games 8,422 games
 *   Fighting Games 2,094 games
-*   Skill Games 10,908 games
-*   Arcade &. Classic Games 12,797 games
-*   Fun &. Crazy Games 2,499 games
+*   Skill Games 10,912 games
+*   Arcade &. Classic Games 12,799 games
+*   Fun &. Crazy Games 2,500 games
 
 Play with friends  
 Powered by Y8 Account 133 Y8 Multiplayer Games 1,937 Y8 High Score Games 1,140 Y8 Achievements Games 811 Y8 Screenshots Games 1,410 Y8 Online Save Games 2,990 All Y8 Games Games Last Highscore:
 
-**1** points on Mutant Fighting Arena by fredeluces23
+**73** points on Military Wars 3D Multiplayer by Ritch
 
 Help us improve Bad translation? Social
 
