@@ -27,25 +27,27 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Glossary
 *   Video Video In This Section
     
-    *   Watch MLB.TV
-    *   Statcast
+    *   Watch Live Games
+    *   Condensed Games
+    *   Game Recaps
+    *   MLB in 60 Seconds
+    *   Daily FastCast
     *   Instant Replay
-    *   Players of the Week
+    *   10,000s of GIFs
     *   MLB Network
-    *   GIF Hub
     *   Podcasts
-    *   FastCast
-    *   Real Fast
+    *   Players of the Week
     
     Featured
     *   Most Popular
     *   Home Runs
     *   Walk-Offs
-    *   Must C
     *   Top Defensive Plays
-    *   Extra Innings
-    *   Front Office Focus
+    *   Grand Slams
+    *   Best of Statcast
+    *   Extra Inning Moments
     *   Chatting Cage
+    *   Front Office Focus
     *   Carry The Freight
 *   Standings Standings Standings
     *   2019 Regular Season Standings
