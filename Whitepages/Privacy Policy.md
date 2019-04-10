@@ -19,7 +19,7 @@ TRY PRO FREE FOR 7 DAYS
 *   Address Search
 *   Email Search
 *   Business Search
-*   Background Search
+*   Background Checks
 *   SmartCheck
 
 **Your Whitepages**
