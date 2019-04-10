@@ -8,13 +8,36 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Lucky Brand Up to 55% Off Incl. Plus
+    *   Lucky Brand Men Under $50
+    *   Lucky Brand Shoes Up to 50% Off
+    *   Kitchen to Table: Le Creuset
+    *   Free Shipping: Quirky Decorative Accents
+    *   Pretty in Pastel: Spring Bedding, Decor &. More
+    *   Kitchen Gadgets &. More
+    *   Date Night: Dresses from Bardot &. More
+    *   Lucky Brand Handbags &. Accessories from $15
+    *   Spring to It: Ruffles, Plaid &. More
+    *   Raincoats &. More ft. Joules
+    *   Aim High: On-Trend Shorts from $15
+    *   14K Gold &. More Under $80
+    *   Chic Sleep ft. Flora Nikrooz
+    *   Daeng Gi Meo Ri
+    *   Swims Up to 60% Off
+    *   Antelope Up to 50% Off
+    *   CRISLU Jewelry Up to 65% Off
+    *   Men's Spring Styles Under $35
+    *   Daddy &. Me: Marc Joseph New York
+    *   Lucky Brand Kids
+    
+    *   Easter Dresses ft. Laura Ashley
+    *   Velvet Torch
     *   Ted Baker London Up to 50% Off
     *   Ted Baker London Handbags Up to 50% Off
     *   Ted Baker London Men Up to 60% Off
     *   Ted Baker London Shoes Starting at $45
     *   Ted Baker London Watches &. Accessories Up to 50% Off
     *   Alternative
-    *   Onia Swim
     *   OnTwelfth
     *   Ted Baker London Luggage
     *   Ben Sherman Shoes from $30
@@ -24,126 +47,92 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Chargers, Headphones &. More Up to 80% Off
     *   Men's Sock Shop
     *   Kids' Premium Spring Denim
-    *   Ramy Brook
-    *   Dolce Vita Up to 60% Off
     *   On-Trend for Him: Spring Outerwear &. More
-    *   Velvet Torch
-    *   Frye Men Up to 50% Off
     *   Gemstone Jewelry Finds Up to 80% Off
-    *   ASTR the Label
-    
-    *   Gevril Watches Up to 70% Off
     *   On Trend: Sterling Rings &. More Up to 70% Off
-    *   Felina
     *   Reebok Men
+    
     *   Makeup We Love: Urban Decay, Lime Crime &. NARS
     *   Beauty Heroes: Serums, Oils &. More from $10
-    *   Great Lengths: Jeans &. Denim Shorts Under $30
-    *   Men's Active &. Outdoor Shoes Up to 45% Off
     *   Workout Upgrades: Vitamix, Tech &. More from $10
     *   Mario Badescu
-    *   Men's Designer Shoes ft. Versace
     *   Free Shipping: Bedding Essentials Up to 75% Off
-    *   RapidLash
     *   Free Shipping: Sheet Sets Starting at $23
-    *   Shinola Canfield Headphones at 50% Off
-    *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Feminine Chic: Dresses ft. Robbie Bee
-    *   Spring Comfort: Sandals, Sneakers &. More
-    *   New Balance Kids
-    *   New Balance
-    *   Snuggle Up: Kids' Character PJs ft. AME
-    *   Petit Lem
-    *   bebe and C&C California Active &. More
-    
-    *   On-Trend Spring Earrings Starting at $20
-    *   Flying Tomato &. More
-    *   Derek Lam 10 Crosby &. More Up to 70% Off
-    *   On-Trend Styles for Him from $15
     *   NCLA: Vegan &. Cruelty-Free Cosmetics
     *   New Balance Men
     *   Spoil Your Pet: Clothes &. Accessories
-    *   Scotch &. Soda
-    *   Perfect Wedding Gifts: Kitchen Essentials &. More
-    *   Roberto Cavalli Watches &. More Up to 70% Off
-    *   Vertigo Up to 85% Off
     *   Free Shipping: Amrapur Towels Up to 70% Off
     *   Men's Shoes Up to 70% Off
-    *   alice + olivia by Stacey Bendet
-    *   On-Trend Styles Under $30 Incl. Plus &. Petites
+    *   Vertigo Up to 85% Off
     *   Free Shipping: Kitchen Blowout
     *   Flats, Sandals &. More Under $50
-    *   Pack These: Festival-Ready Bralettes
-    *   Free Shipping: Spring-Fresh Bedding
     *   Spring Makeover: Pillows, Decor &. More
     *   Get Organized: Storage Starting at $10
+    *   alice + olivia by Stacey Bendet
+    *   On-Trend Styles Under $30 Incl. Plus &. Petites
+    *   Onia Swim
+    *   Ramy Brook
 *   WomenShop Sale Events
     
+    *   Lucky Brand Up to 55% Off Incl. Plus
+    *   Lucky Brand Shoes Up to 50% Off
+    *   Date Night: Dresses from Bardot &. More
+    *   Lucky Brand Handbags &. Accessories from $15
+    *   Spring to It: Ruffles, Plaid &. More
+    *   Raincoats &. More ft. Joules
+    *   Aim High: On-Trend Shorts from $15
+    *   14K Gold &. More Under $80
+    *   Chic Sleep ft. Flora Nikrooz
+    *   Daeng Gi Meo Ri
+    *   Antelope Up to 50% Off
+    *   CRISLU Jewelry Up to 65% Off
+    *   Velvet Torch
     *   Ted Baker London Up to 50% Off
     *   Ted Baker London Handbags Up to 50% Off
     *   Ted Baker London Shoes Starting at $45
     *   Ted Baker London Watches &. Accessories Up to 50% Off
+    
     *   Alternative
-    *   Onia Swim
     *   OnTwelfth
     *   Ted Baker London Luggage
     *   Kristin Cavallari by Chinese Laundry from $30
     *   Tress It Up: Big Sexy Hair, Drybar &. More
-    *   Ramy Brook
-    *   Dolce Vita Up to 60% Off
-    *   Velvet Torch
     *   Gemstone Jewelry Finds Up to 80% Off
-    *   ASTR the Label
-    *   Gevril Watches Up to 70% Off
     *   On Trend: Sterling Rings &. More Up to 70% Off
-    *   Felina
     *   Makeup We Love: Urban Decay, Lime Crime &. NARS
-    
     *   Beauty Heroes: Serums, Oils &. More from $10
-    *   Great Lengths: Jeans &. Denim Shorts Under $30
     *   Mario Badescu
-    *   RapidLash
-    *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Feminine Chic: Dresses ft. Robbie Bee
-    *   Spring Comfort: Sandals, Sneakers &. More
-    *   New Balance
-    *   bebe and C&C California Active &. More
-    *   On-Trend Spring Earrings Starting at $20
-    *   Flying Tomato &. More
-    *   Derek Lam 10 Crosby &. More Up to 70% Off
     *   NCLA: Vegan &. Cruelty-Free Cosmetics
-    *   Roberto Cavalli Watches &. More Up to 70% Off
+    *   Vertigo Up to 85% Off
+    *   Flats, Sandals &. More Under $50
     *   alice + olivia by Stacey Bendet
     *   On-Trend Styles Under $30 Incl. Plus &. Petites
-    *   Flats, Sandals &. More Under $50
-    *   Pack These: Festival-Ready Bralettes
+    *   Onia Swim
+    *   Ramy Brook
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
     *   Jewelry
     *   Handbags
-    *   Watches
     *   Accessories
+    *   Watches
+    *   Lingerie
 *   MenShop Sale Events
     
+    *   Lucky Brand Men Under $50
+    *   Swims Up to 60% Off
+    *   Men's Spring Styles Under $35
+    *   Daddy &. Me: Marc Joseph New York
     *   Ted Baker London Men Up to 60% Off
     *   Ted Baker London Watches &. Accessories Up to 50% Off
     *   Ted Baker London Luggage
+    
     *   Ben Sherman Shoes from $30
     *   Men's Sock Shop
     *   On-Trend for Him: Spring Outerwear &. More
-    *   Frye Men Up to 50% Off
-    *   Gevril Watches Up to 70% Off
-    
     *   Reebok Men
-    *   Men's Active &. Outdoor Shoes Up to 45% Off
-    *   Men's Designer Shoes ft. Versace
-    *   On-Trend Styles for Him from $15
     *   New Balance Men
-    *   Scotch &. Soda
-    *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Men's Shoes Up to 70% Off
     
     Shop By Category
@@ -153,65 +142,67 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Daddy &. Me: Marc Joseph New York
+    *   Lucky Brand Kids
+    *   Easter Dresses ft. Laura Ashley
     *   Disney for Kids
     *   Kids' Premium Spring Denim
-    *   New Balance Kids
-    *   Snuggle Up: Kids' Character PJs ft. AME
-    *   Petit Lem
     
     Shop By Category
-    *   Girls' Shoes
     *   Boys' Shoes
-    *   Boys' Sizes 2T-7
-    *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
+    *   Girls' Sizes 2T-6X
+    *   Baby Girl
+    *   Boys' Sizes 2T-7
+    *   Girls' Shoes
     *   Boys' Sizes 8-20
     *   Baby Boy
-    *   Baby Girl
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Kitchen to Table: Le Creuset
+    *   Free Shipping: Quirky Decorative Accents
+    *   Pretty in Pastel: Spring Bedding, Decor &. More
+    *   Kitchen Gadgets &. More
     *   Chargers, Headphones &. More Up to 80% Off
     *   Workout Upgrades: Vitamix, Tech &. More from $10
     *   Free Shipping: Bedding Essentials Up to 75% Off
-    *   Free Shipping: Sheet Sets Starting at $23
-    *   Shinola Canfield Headphones at 50% Off
-    *   Spoil Your Pet: Clothes &. Accessories
     
-    *   Perfect Wedding Gifts: Kitchen Essentials &. More
+    *   Free Shipping: Sheet Sets Starting at $23
+    *   Spoil Your Pet: Clothes &. Accessories
     *   Free Shipping: Amrapur Towels Up to 70% Off
     *   Free Shipping: Kitchen Blowout
-    *   Free Shipping: Spring-Fresh Bedding
     *   Spring Makeover: Pillows, Decor &. More
     *   Get Organized: Storage Starting at $10
     
     Shop By Category
     *   Bedding
-    *   Kitchen &. Tabletop
     *   Home Decor
+    *   Kitchen &. Tabletop
     *   Pet Accessories
-    *   Cleaning &. Organization
     *   Bath
+    *   Cleaning &. Organization
     *   Tech Accessories
-    *   Luggage &. Travel
     *   Outdoor Living
+    *   Luggage &. Travel
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Daeng Gi Meo Ri
     *   Tress It Up: Big Sexy Hair, Drybar &. More
     *   Makeup We Love: Urban Decay, Lime Crime &. NARS
     *   Beauty Heroes: Serums, Oils &. More from $10
     *   Mario Badescu
-    *   RapidLash
     *   NCLA: Vegan &. Cruelty-Free Cosmetics
-    *   Vertigo Up to 85% Off
     
     Shop By Category
     *   Makeup
+    *   Hair Care
     *   Skin Care
     *   Nails
-    *   Hair Care
     *   Bath &. Body
-    *   Makeup Bags
     *   Fragrance
+    *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -385,7 +376,7 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 *   About
 *   Careers
 *   The Nordy Club
-*   Big Brother Big Sister
+*   Big Brothers Big Sisters
 *   Donate Clothes
 *   Gift Cards
 
