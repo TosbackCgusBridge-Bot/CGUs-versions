@@ -11,8 +11,7 @@
     
     Occasions*   Easter
     *   Birthday Gifts
-    *   Spring
-    *   Game DayMost Popular Easter Gifts Birthday Gifts
+    *   SpringMost Popular Easter Gifts Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -64,7 +63,6 @@
     *   Mother's Day Gifts
     
     Occasions*   Spring
-    *   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
@@ -93,8 +91,7 @@
     
     Occasions*   Easter
     *   Birthday Gifts
-    *   Spring
-    *   Game DayMost Popular Easter Gifts Birthday Gifts
+    *   SpringMost Popular Easter Gifts Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -146,7 +143,6 @@
     *   Mother's Day Gifts
     
     Occasions*   Spring
-    *   Game Day
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
