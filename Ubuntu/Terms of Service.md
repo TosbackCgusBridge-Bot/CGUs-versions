@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Speed up your ROS snap builds ›
+*   Optimising IoT bandwith with delta updates ›
 *   API v3 of the yaml package for Go is available ›
 *   Visual Studio Code launches as a snap ›
 *   Remote collaborative design ›
-*   AWS IoT Greengrass released as a snap ›
-*   MicroK8s in the Wild ›
