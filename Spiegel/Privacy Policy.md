@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   9\. April 2019
+*   10\. April 2019
 *   Abo
-*   DAX 11.963,40ǀ
+*   DAX 11.850,57ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -179,7 +179,6 @@ Anmelden
         *   Germany
         *   Business
         *   Zeitgeist
-        *   BeyondTomorrow
         *   Newsletter
 *   SPIEGEL AKADEMIE
 *   DER SPIEGEL live
@@ -340,7 +339,7 @@ SPIEGEL GRUPPE
 *   \-Jobs
 *   \-Planestream
 
-*   SPIEGEL CHRONIK
+*   SPIEGEL GESCHICHTE
 *   SPIEGEL COACHING
 *   SPIEGEL EXPEDITION
 *   UNI SPIEGEL
@@ -348,9 +347,9 @@ SPIEGEL GRUPPE
 *   DER SPIEGEL
 *   SPIEGEL WISSEN
 *   Dein SPIEGEL
-*   SPIEGEL GESCHICHTE
+*   EDITION GESCHICHTE
 *   LITERATUR SPIEGEL
-*   SPIEGEL CHRONIK
+*   SPIEGEL GESCHICHTE
 *   SPIEGEL COACHING
 *   SPIEGEL EXPEDITION
 *   UNI SPIEGEL
@@ -358,7 +357,7 @@ SPIEGEL GRUPPE
 *   DER SPIEGEL
 *   SPIEGEL WISSEN
 *   Dein SPIEGEL
-*   SPIEGEL GESCHICHTE
+*   EDITION GESCHICHTE
 *   LITERATUR SPIEGEL
 
 12
