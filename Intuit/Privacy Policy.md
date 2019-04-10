@@ -30,16 +30,14 @@ Shop Departments
     *   Pajamas &. Robes
     *   View all Gifts
 
-Near YouFind a StoreBackHot Sellers
+Near YouFind a StoreBack ABC Impossible Encounters HP Video Hot Sellers
 
-*   $2239after couponwas $54 a.n.a Womens Broome Adjustable Strap Flat Sandals
-*   $1759after couponwas $44 Stafford Travel Wf Stretch Oxford Shirt Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(3)
-*   $1440after couponwas $60 Yuu Womens Doshie Slip-On Shoe Closed Toe(23)
-*   $3999 sale
-    
-    was $59.50 32% offLevi's® 550™ Relaxed Fit Jeans(1447)
-*   $1759after couponwas $42 Arizona Slim Straight Jeans(5)
-*   from$2159after couponwas $45 - $50 Van Heusen Suit Pants(31)
+*   $1759after couponwas $42 Arizona Basic Original Straight Jeans(1819)
+*   $1759after couponwas $42 Arizona Flex Slim Straight Flex Jeans(199)
+*   $1759after couponwas $42 Arizona Basic Original Bootcut Jeans(594)
+*   $1599after couponwas $40 The Foundry Big &. Tall Supply Co. Mens Chino Short-Big and Tall(4)
+*   $1439after couponwas $37 a.n.a Womens Sweetheart Neck Short Sleeve Blouse(6)
+*   from$2399after couponWorthington Womens Ankle Pant(5)
 
 Shop and Save at JCPenney
 
