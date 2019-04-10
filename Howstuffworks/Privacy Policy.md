@@ -229,11 +229,7 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksRunning While Female: Safety Apps and Tech1STEarly Humans Mated With Inbred Neanderthals — at a Cost2NDWhy do movies cost so much to make?3RDMedieval Coffin Yields Fascinating Skeleton4THRanker | Sponsored12 Facts About Saving Private Ryan That'll Make You Appreciate It Even MoreRanker | SponsoredMyFinance | SponsoredThese 2 Savings Accounts Pay 10x What Your Bank PaysMyFinance | SponsoredKelley Blue Book | Sponsored10 Best Used Cars Under $5,000Kelley Blue Book | SponsoredGraduatez | Sponsored21 Celebs Who Are Gay - No.13 Will Shock MenGraduatez | Sponsored healthWhy Do We Love to Pop Zits?BY Alia HoytscienceWhere do bullets go when guns are fired straight up into the air?
-
-HowStuffWorks NOW: Meet Graham, the Car-proof Man
-
-Direct Healthy | SponsoredRemember Barbi Benton? Try Not to Smile When You See Her NowDirect Healthy | SponsoredDefinition | SponsoredThe Controversial Scene That Took 'MASH' Off AirDefinition | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff Works10 Reasons Why You Should Care About Net NeutralityThis Is Why Humans Don't Have a Mating SeasonThe Hoverbike: The Future of Flight?Why Do Monk Seals Get Eels Up Their Noses?Protein Allows Animals to Detect Earth's Magnetic FieldWhy can't we manufacture water?by Taboolaby Taboola
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks NOW: Meet Graham, the Car-proof Man1STHow Do We Find Things in the Blackness of Space?2NDIf Humans Were Built to Withstand a Car Crash, They Might Look Like This3RDThere's a Healthier Way to Consume Your Media4THKelley Blue Book | Sponsored10 Best Used Trucks Under $10,000Kelley Blue Book | SponsoredGraduatez | SponsoredSusan Boyle is So Skinny Now and Looks Like A ModelGraduatez | SponsoredIcePop | Sponsored30 Photos Of Dubai That Will Make You Pay More AttentionIcePop | SponsoredGive It Love | Sponsored12 Surprising Dr. Seuss Facts You Need To KnowGive It Love | Sponsored cultureWhy We Use the Suffix '-Gate' for Scandals (And Can We Please Stop?)BY Patrick J. KigeranimalsBaby Giraffes Get Their Spots From MomBY Kristen Hall-GeislerhealthInterpreting Your DreamsBY DiscoveryHealth.com writersLuxury SUVs | Search Ads | SponsoredThe Best Luxury SUVs Of 2019 Have ArrivedLuxury SUVs | Search Ads | SponsoredWeightLossGroove | SponsoredRemember Robert Conrad? He's 83 And Looks Like This TodayWeightLossGroove | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksFire a Bullet Straight Up: How High Does It Go?Why Do We Love to Pop Zits?What is the history of the remote control?Running While Female: Safety Apps and TechWould Your Car Pass the Moose Test?Shark Finning - The Big Picture of a Big Problemby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -263,4 +259,4 @@ Sign Up Now!
 
 Newsletter Policy &. Terms
 
-Testing this long verbose error message to check the behaviour BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
+Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
