@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off full-price styles!
+40% off 1 full-price item
 
-code: GREEN pin: 3191 DETAILS
+code: TULIPS pin: 5424 DETAILS
 
 Customer Service Menu
 
