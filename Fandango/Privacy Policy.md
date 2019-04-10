@@ -20,17 +20,17 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Opening This Week = Limited Release
     
-    *   The Best of Enemies
-    *   Pet Sematary (2019)
-    *   Shazam!
-    *   Amazing Grace (2019)
-    *   Billboard (2019)
-    *   High Life (2019)
-    *   Khalid: Free Spirit
-    *   Peterloo
-    *   The Public
-    *   Storm Boy (2019)
-    *   The Wind (2018)
+    *   After (2019)
+    *   Hellboy (2019)
+    *   Little (2019)
+    *   Missing Link (2019)
+    *   A Dark Place
+    *   Mary Magdalene
+    *   Master Z: Ip Man Legacy
+    *   Mia and the White Lion
+    *   Rottentail
+    *   Stockholm (2019)
+    *   Teen Spirit
     *   See All Opening This Week
     
     Pre Sales Tickets
