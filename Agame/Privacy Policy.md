@@ -1,4 +1,4 @@
-<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Apps
+Apps
 
 *   {text}
     
@@ -127,7 +127,7 @@ View more results
     *   Five Nights at Freddy's: Sister Location
     *   FNAF - Sister Location Custom
     *   TJOC: The Joy Of Creation
-    *   Trap Adventure 2
+    *   FNAF: Sister Location Custom Night
 *   Top Categories
     
     *   Bubble Shooter
@@ -155,11 +155,11 @@ View more results
     *   The Impossible Quiz: World's Hardest Quiz
     *   Deal or No Deal
     *   TenTrix
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   1001 Arabian Nights
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Cut the Rope
     *   Bubble Machine: 2 Player Game
-    *   Fireboy &. Watergirl 2: The Light Temple
+    *   Crystical: 2 Player Puzzle Game
 *   Top Categories
     
     *   Dress Up
@@ -266,10 +266,10 @@ View more results
     
     Recommended Games
     
-    *   Game of Thrones
     *   Star Stable
+    *   Game of Thrones
     *   Roblox
-    *   Mars Tomorrow
+    *   Supremacy 1914
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Bubble Shooter HD
@@ -462,4 +462,4 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookie Consent
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
