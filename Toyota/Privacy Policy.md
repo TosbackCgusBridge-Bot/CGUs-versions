@@ -205,6 +205,8 @@ Toyota Vehicles
     
 *   Full-Size Cars  
     
+*   Mid-Size SUVs  
+    
 *   Mid-Size Cars  
     
 *   SUVs With Third-Row Seating  
@@ -213,9 +215,9 @@ Toyota Vehicles
     
 *   4-Door Sedans  
     
+
 *   2-Door Cars  
     
-
 *   All-Wheel-Drive Vehicles  
     
 *   Cars for Teenagers  
@@ -325,7 +327,9 @@ Compare Toyota vs. the Competition
     
 *   Toyota Highlander vs. Honda Pilot  
     
-*   Toyota C-HR vs. Honda H-RV  
+*   Toyota C-HR vs. Honda HR-V  
+    
+*   Toyota Camry vs. Honda Accord  
     
 
 Features
@@ -1111,6 +1115,8 @@ Help
 *   2018 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
 *   2019 Prius Prime 55 city/53 hwy/54 combined mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
 *   2019 Prius Prime 133 combined MPGe estimate determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary. Actual MPGe will vary for many reasons including driving conditions, and how you drive and maintain/charge your vehicle. Battery capacity will decrease with time and use. See www.fueleconomy.gov
+*   2019 Prius Prime EPA-estimated 55 city/53 hwy/54 combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
+*   2019 Prius Prime EPA-estimated 133 combined MPGe. Actual MPGe will vary. Battery capacity will decrease with time and use. See www.fueleconomy.gov.
 *   2017 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
 *   2018 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
 *   2018 C-HR preliminary 27 city/31 highway/29 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
