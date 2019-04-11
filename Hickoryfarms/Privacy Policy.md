@@ -182,7 +182,7 @@ Security
 
 Hickory Farms is committed to maintaining safety and security for our web site users. Please refer to our security page for additional details.
 
-Sign up and get 10% off your first purchase! Sign Up
+Sign up &. get 10% off your first purchase! Sign Up
 
 Customer Service
 
