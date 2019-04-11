@@ -57,9 +57,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -89,7 +89,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,7 +135,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -165,7 +165,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -250,7 +250,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 3% 
+Facebook 2% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -310,7 +310,7 @@ Facebook 3% 
     
 *   Show Less ...
 
-Twitter 3% 
+Twitter 2% 
 
 *   Mental Health NIMH - NIMHgov
     
@@ -356,18 +356,20 @@ Twitter 3% 
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 2% 
 
 *   privacy policy - privacypolice1
     
-*   Konstantin - \_privacy.\_.policy\_\_
-    
-*   Wet Spagett - privacy\_policy\_update
-    
 *   Privacy Policy - privacy05
+    
+*   privacy policy - mne.vse.pox
+    
+*   Konstantin - \_privacy.\_.policy\_\_
     
 *   Show More ...
 
+*   Wet Spagett - privacy\_policy\_update
+    
 *   privacy\_policy\_4 - privacy\_policy\_4
     
 *   Privacy Is The Best Policy ߑᠭ specialjitt
@@ -388,8 +390,6 @@ Instagram 3% 
     
 *   Laura Moses - privacy\_policy\_\_privacy\_\_terms
     
-*   privacy policy - mne.vse.pox
-    
 *   Christian Granada - childrens.privacy.policy
     
 *   InstagramRep. - privacy\_policy\_direct\_
@@ -402,7 +402,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Myspace 3% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -426,7 +426,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Google+ 3% 
+Google+ 2% 
 
 *   Lauren Weinstein
     
@@ -468,12 +468,12 @@ Google+ 3% 
     
 *   Show Less ...
 
-Pinterest 3% 
+Pinterest 2% 
 
 *   The Home Depot (homedepot) - homedepot
     
 
-Wikipedia 3% 
+Wikipedia 2% 
 
 *   Privacy policy
     
@@ -488,7 +488,7 @@ Wikipedia 3% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Music 3% 
+Music 2% 
 
 *   Pandora
     
@@ -530,7 +530,7 @@ Music 3% 
     
 *   Show Less ...
 
-Web Search 3% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -576,7 +576,7 @@ Web Search 3% 
     
 *   Show Less ...
 
-Images 3% 
+Images 2% 
 
 9
 
@@ -584,7 +584,7 @@ Images 3% 
 
 20
 
-9
+7
 
 facebookx
 
