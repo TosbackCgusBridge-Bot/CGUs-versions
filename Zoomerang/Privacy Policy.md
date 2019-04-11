@@ -56,6 +56,11 @@ Our clients’ stories
 “MetrixLab is not an agency of status-quo, you know there is always something brewing that might benefit you at some stage in terms of innovation.”  
 **– Francky David | Global HCP &. Consumer Insights | Nestlé**
 
+“We shared the report with our Marketing head and the Brand team and had a very good discussion on the next steps.  
+We are moving forward to airing the copy with more confidence than before armed with the results.”
+
+**– Annie Italia | Head of Marketing Strategy &. InsightsEssilor | AMERA**
+
 Make smarter decisions faster. Let us show you how:
 
 Message
