@@ -44,7 +44,8 @@ Skip to navigation Skip to main content Login Register Menu Close
         *   Webcasts
         *   Virtual Conferences
 *   TechScapeOpen Submenu
-    *   TechScape Back
+    *   TechScapePAID FOR BY  
+        BRAND PARTNER Back
         *   Cofense - Sharpening Your Defenses
 *   Resource Library
 *   SC Security Ops Center
@@ -209,20 +210,20 @@ New York, NY 10001.**
     *   The death of the VPN - It’s time to say goodbye
     *   Microsoft researchers find NSA-style backdoor in Huawei laptops
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   The winners of the 2019 SC Awards Honored in the U.S.
     *   Georgia Tech stung with 1.3 million-person data breach
+    *   The winners of the 2019 SC Awards Honored in the U.S.
     
-    *   April Adobe Patch Tuesday addresses several critical flaws in Flash, Acrobat and more
-    *   Game of Thrones report finds the show is the most popular malware lure
-    *   April Microsoft patch Tuesday addresses two actively exploited zero-days
-    *   Motel 6 to pay $12M for sharing guest info with ICE
-    *   Chinese HR firms and recruiting agencies found to leak more than half a billion resumes
-    
-    *   Stuxnet research reveals possible 4th accomplice, newly discovered versions of Flame and Duqu malware
-    *   Verizon FIOS, TP Link patch major vulnerabilities in routers
-    *   April Adobe Patch Tuesday addresses several critical flaws in Flash, Acrobat and more
-    *   Security update removes hard-coded credentials from MyCar Controls app
     *   What is a Threat Intelligence Platform?
+    *   Barr to probe origins of Russia counterintelligence investigation
+    *   Pharma firm Bayer hit with WINNTI malware
+    *   It’s Not All Bugs and Breaches: Influence Wars and U.S. Elections
+    *   Freshmen hack high school WiFi to avoid a test
+    
+    *   Researchers uncover new 'TajMahal' APT framework, plus a new Gaza Cybergang malware campaign
+    *   Join us for SC Media's 2019 RiskSec Conference
+    *   Grab-and-go Baldr stealer malware proves popular among thieves
+    *   Intel addresses flaws found across four products
+    *   Nearly one billion Chrome users vulnerable to exploit patched in later versions
 
 Back to Top
 
@@ -254,4 +255,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+<img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
