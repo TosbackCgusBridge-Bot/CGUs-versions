@@ -10,7 +10,7 @@ BRANDSAUDIENCEWORLDWIDEPRESSLEADERSHIPCAREERSCONTACT ZIFF DAVIS, LLC PRIVACY POL
 
   
 
-Effective April 9, 2019
+<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a" alt="TRUSTe"/>. <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c" alt="TRUSTe"/>. Effective April 9, 2019
 
 Version Française
 
@@ -415,4 +415,4 @@ Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 19
 
 AdChoices
 
-Back to Top 100%
+Back to Top
