@@ -112,53 +112,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Katrina vanden Heuvel_: Our Crisis of Democracy Is Taking Center Stage in 2020
+*   _Attorney General William Barr_: "Spying On a Political Campaign is a Big Deal"
     
-*   _Victor Davis Hanson_: Elites Share Common Interests Despite Changing Wisdom
+*   _Aaron Blake_: Barr's Highly Questionable Use of Trump's 'Spying' Talking Point
     
-*   _Ezra Klein_: Trump Is Wrong, America Isn’t Full
+*   _Mollie Hemingway_: Anti-Trump Spying Goes Well Beyond Just the FBI
     
-*   _Kris Kobach_: 3 Things Homeland Security Needs to Do Right Now
+*   _Amy Walter_: In 2020, Look at the Forest, Not the Trees
     
-*   _Asha Rangappa_: The Reason Congress Needs to See the Mueller Report
+*   _Mark Penn_: Obama Is Right - Dems' Circular Firing Squad Is On the Way
     
-*   _Rep. Andy Biggs_: Media Will Never Live Down Ignominy of Collusion Hoax
+*   _Shmuel Rosner_: Why Israel Still Loves Netanyahu
     
-*   _Lilly Jay_: My Own Close Encounter With Joe Biden
+*   _Jonathan Broder_: Ilhan Omar Is Changing the Conversation About Israel
     
-*   _Jay Ambrose_: Biden Hugged, Harris Ruined Lives. Who's More Reviled?
+*   _Rick Moran_: 'Some People Did Something': Ilhan Omar Describes 9/11
     
-*   _Tom Krattenmaker_: Reform Capitalism, or Young Will Embrace Socialism
+*   _Sophia Tesfaye_: Republicans Use Black Woman to Gaslight Congress
     
-*   _Miron &. Bourne_: Democratic Socialism Is the Scenic Route to Serfdom
+*   _Patricia McCarthy_: Candace Owens: The Anti-Ocasio-Cortez
     
-*   _David Dayen_: Final Battle in Big Tech's War to Dominate Your World
+*   _Jesus Rodriguez_: This Could Be America's First Slavery Reparations Policy
     
-*   _Jonathan Tobin_: Behind the DHS Shakeup: Trump Demands Results
+*   _Christian Toto_: Hollywood Owes Matt Damon a #MeToo Apology
     
-*   _Jonathan Bernstein_: Trump's Homeland Security Purge Is Destined to Fail
+*   _Damon Linker_: Election Proves There's No Left Left in Israel
     
-*   _Susan Crabtree_: Troubled Secret Service Faces New Leadership - Again
+*   _Dominic Green_: After Yet Another Win, What's Next for Netanyahu?
     
-*   _Ben Mathis-Lilley_: Why We're Stuck in a Never-Ending Border Crisis
+*   _Caroline Polisi_: The Endless Wait for the Mueller Report Is Almost Over
     
-*   _Sean Trende_: Evaluating the 2020 Democratic Primary Field
+*   _Newt Gingrich_: The Collusion Lie Came at a Tremendous Cost
     
-*   _Peter Canellos_: Why Beto and Buttigieg Pretend to Be Kennedys
+*   _Eric Lach_: Waiting Out William Barr
     
-*   _David Harsanyi_: Democrats Kiss the Ring of Al Sharpton
+*   _Roger L. Simon_: William Barr Is the Democrats' Worst Nightmare
     
-*   _Andrew Bacevich_: Donald Trump's Ugly, Myth-Busting Presidency
+*   _Michelle Cottle_: Stephen Miller Can't Act Alone
     
-*   _Rep. Devin Nunes_: Obama's DOJ/FBI's Abuse of Power Against Trump
+*   _Ben Shapiro_: The Open Borders Agenda Rears Its Ugly Head
     
-*   _Emma Green_: What Another Round of Netanyahu Will Mean for U.S. Jews
+*   _Dana Milbank_: Candace Owens Turns a Serious Inquiry Into a Farce
     
-*   _Dominic Green_: Trump Is Right to Brand the IRGC Terrorists
+*   _David Catron_: Owens Nukes Nadler's 'Hate Crime' Hearing
     
-*   _Kate Aronoff_: Could a Green New Deal Make Us Happier People?
+*   _Josh Voorhees_: Mayor Pete's Stunning Surge Only Goes So Far
     
-*   _Mark Mills_: The Green New Deal: An Exercise in Magical Thinking
+*   _David Byler_: Why Hasn't Elizabeth Warren Achieved Liftoff?
     
 
 *   Previous
@@ -235,4 +235,4 @@ If you have any further question about this Privacy Policy, please contact us at
 *   RSS
 *   View Mobile Site
 
-Copyright © 2019 RealClearHoldings, LLC. ©2018 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
