@@ -23,4 +23,5 @@ Terms of Usage
   Cooks.com is an archival collection of free cooking recipes and articles available to the general public. Information is provided free of charge without warranty of any kind. We are not responsible for any typographical errors or omissions. Your usage of this site constitues your agreement to the terms stated herein. If you do not agree to these terms, permission to access any information on this site is hereby rescinded.
 
   
-  top of page
+
+top of page
