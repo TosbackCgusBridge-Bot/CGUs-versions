@@ -19,7 +19,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Play Ball
     *   London Series
     *   Pipeline
-    *   MLB Photo Stream
+    *   MLB Photos
     *   Jackie Robinson Day
     *   Fantasy Rankings
     *   Reporter's Inbox
@@ -103,6 +103,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   General Ticket Information
     *   Season Tickets
     *   Big League Tours
+    *   Fan Value
     *   StubHub.comBig League Tours Bank of America
 *   Apps Apps Apps
     *   MLB At Bat
