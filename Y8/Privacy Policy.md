@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 649 games
-*   Most Popular Games 19021 games
+*   Best of new games 659 games
+*   Most Popular Games 19020 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,857 games
-*   Driving &. Racing Games 6,779 games
+*   Games for girls 23,854 games
+*   Driving &. Racing Games 6,777 games
 *   Strategy &. RPG Games 2,413 games
-*   Management Games 3,641 games
-*   Thinking Games 11,989 games
-*   Action &. Adventure Games 16,036 games
-*   Sports Games 2,196 games
-*   Shooting Games 8,422 games
+*   Management Games 3,642 games
+*   Thinking Games 11,994 games
+*   Action &. Adventure Games 16,037 games
+*   Sports Games 2,198 games
+*   Shooting Games 8,421 games
 *   Fighting Games 2,094 games
-*   Skill Games 10,918 games
-*   Arcade &. Classic Games 12,801 games
-*   Fun &. Crazy Games 2,502 games
+*   Skill Games 10,924 games
+*   Arcade &. Classic Games 12,807 games
+*   Fun &. Crazy Games 2,503 games
 
 Play with friends  
-Powered by Y8 Account 133 Y8 Multiplayer Games 1,938 Y8 High Score Games 1,140 Y8 Achievements Games 811 Y8 Screenshots Games 1,411 Y8 Online Save Games 2,991 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 133 Y8 Multiplayer Games 1,939 Y8 High Score Games 1,140 Y8 Achievements Games 811 Y8 Screenshots Games 1,411 Y8 Online Save Games 2,992 All Y8 Games Games Last Highscore:
 
-**69** points on Masked Forces Unlimited by XpertWolf
+**3,244** points on Orion Sandbox Enhanced by fah48fah
 
 Help us improve Bad translation? Social
 
