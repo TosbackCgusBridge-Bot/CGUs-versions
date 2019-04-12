@@ -8,10 +8,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   New on HauteLook: GRLFRND
-    *   Aquatalia
-    *   Glam Galore: Dress the Population &. More
+    *   Sperry Starting at $30
+    *   Sperry Men Starting at $25
+    *   Weekend Ready: Casually Cute Styles ft. Splendid
+    *   BLVD Starting at $15
+    *   Via Spiga Coats
+    *   Special Occasion Ready: Dresses Under $80
+    *   Forgotten Grace Under $30
+    *   Mirenesse Australia Up to 70% Off
+    *   Alo Active
+    *   Bulova &. Citizen Watches Up to 70% Off
+    *   Walk on the Wild Side: Sandals &. More
+    *   Robert Graham
+    *   Born on the Water: Costa Del Mar Sun &. More
+    *   Free Shipping: Bathroom Accessories
+    *   CALPAK Luggage
+    *   On-Trend Belt Bags Under $55
+    *   Circus by Sam Edelman from $25
+    *   Men's Golf Shop ft. Callaway
+    *   Sperry Kids Starting at $25
+    *   Brands We Love: Cuisinart, Vitamix &. More
+    *   Prep It Up: Kids' Styles Starting at $10
+    *   New Baby Checklist: Confetti &. More
     *   New on HauteLook: FRNCH
+    
     *   BeachLunchLounge
     *   Take the Plunge: Summer Swim Starting at $15
     *   Summer Essentials: On-Trend Sandals, Mules &. More
@@ -19,6 +39,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Heading into Summer: Men's Sandals &. More
     *   Countdown to Summer: Men's Tees &. More
     *   Kids' Summer Sneak Peek
+    *   New on HauteLook: GRLFRND
+    *   Glam Galore: Dress the Population &. More
     *   Aquatalia Men Up to 55% Off
     *   Suzy Levian Jewelry
     *   On-Trend for Spring: Banjara &. More
@@ -26,117 +48,103 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kitchen Storage
     *   $25 &. Under: Rachel Shoes
     *   Men's Designer Styles Under $50
-    *   LOVE Moschino Handbags
-    *   Nautica
-    *   Free Shipping: Spring Bedding Up to 55% Off
+    *   Aquatalia
     *   DKNY Girls' Sleep &. More
-    
+    *   Nautica
     *   Free Shipping: Quirky Decorative Accents
-    *   Lucky Brand Up to 55% Off Incl. Plus
     *   Lucky Brand Men Under $50
     *   Lucky Brand Shoes Up to 50% Off
-    *   Date Night: Dresses from Bardot &. More
     *   Lucky Brand Handbags &. Accessories from $15
-    *   Spring to It: Ruffles, Plaid &. More
-    *   Raincoats &. More ft. Joules
-    *   Aim High: On-Trend Shorts from $15
+    
     *   14K Gold &. More Under $80
-    *   Chic Sleep ft. Flora Nikrooz
-    *   Daeng Gi Meo Ri
-    *   Swims Up to 60% Off
-    *   Antelope Up to 50% Off
+    *   Pretty in Pastel: Spring Bedding, Decor &. More
+    *   Kitchen Gadgets &. More
     *   Men's Spring Styles Under $35
     *   Daddy &. Me: Marc Joseph New York
     *   Lucky Brand Kids
     *   Easter Dresses ft. Laura Ashley
     *   CRISLU Jewelry Up to 65% Off
     *   Kitchen to Table: Le Creuset
-    *   Ted Baker London Handbags Up to 50% Off
-    *   Ted Baker London Men Up to 60% Off
-    
-    *   Ted Baker London Shoes Starting at $45
-    *   Ted Baker London Luggage
     *   Ben Sherman Shoes from $30
     *   Tress It Up: Big Sexy Hair, Drybar &. More
-    *   Disney for Kids
     *   Chargers, Headphones &. More Up to 80% Off
-    *   Men's Sock Shop
-    *   Kids' Premium Spring Denim
-    *   Pretty in Pastel: Spring Bedding, Decor &. More
-    *   Kitchen Gadgets &. More
     *   Makeup We Love: Urban Decay, Lime Crime &. NARS
     *   Beauty Heroes: Serums, Oils &. More from $10
-    *   Healthy Living Essentials: Vitamix, Tech &. More
-    *   Free Shipping: Bedding Essentials Up to 75% Off
-    *   NCLA: Vegan &. Cruelty-Free Cosmetics
+    *   LOVE Moschino Handbags
+    *   Free Shipping: Spring Bedding Up to 55% Off
+    *   Daeng Gi Meo Ri
+    *   Swims Up to 60% Off
     *   Spoil Your Pet: Clothes &. Accessories
     *   Free Shipping: Amrapur Towels Up to 70% Off
-    *   Men's Shoes Up to 70% Off
     *   Free Shipping: Kitchen Blowout
-    *   Spring Makeover: Pillows, Decor &. More
-    *   Ted Baker London Up to 50% Off
-    *   Alternative
+    *   Date Night: Dresses from Bardot &. More
+    *   Raincoats &. More ft. Joules
 *   WomenShop Sale Events
     
-    *   New on HauteLook: GRLFRND
-    *   Aquatalia
-    *   Glam Galore: Dress the Population &. More
+    *   Sperry Starting at $30
+    *   Weekend Ready: Casually Cute Styles ft. Splendid
+    *   BLVD Starting at $15
+    *   Via Spiga Coats
+    *   Special Occasion Ready: Dresses Under $80
+    *   Forgotten Grace Under $30
+    *   Mirenesse Australia Up to 70% Off
+    *   Alo Active
+    *   Bulova &. Citizen Watches Up to 70% Off
+    *   Walk on the Wild Side: Sandals &. More
+    *   CALPAK Luggage
+    *   On-Trend Belt Bags Under $55
+    *   Circus by Sam Edelman from $25
     *   New on HauteLook: FRNCH
     *   BeachLunchLounge
     *   Take the Plunge: Summer Swim Starting at $15
     *   Summer Essentials: On-Trend Sandals, Mules &. More
     *   Summer Sneak Peek: Dresses, Tops &. More
+    
+    *   New on HauteLook: GRLFRND
+    *   Glam Galore: Dress the Population &. More
     *   Suzy Levian Jewelry
     *   On-Trend for Spring: Banjara &. More
     *   Korean Beauty: Masks, Makeup &. More
-    *   LOVE Moschino Handbags
-    *   Lucky Brand Up to 55% Off Incl. Plus
+    *   Aquatalia
     *   Lucky Brand Shoes Up to 50% Off
-    *   Date Night: Dresses from Bardot &. More
     *   Lucky Brand Handbags &. Accessories from $15
-    *   Spring to It: Ruffles, Plaid &. More
-    
-    *   Raincoats &. More ft. Joules
-    *   Aim High: On-Trend Shorts from $15
     *   14K Gold &. More Under $80
-    *   Chic Sleep ft. Flora Nikrooz
-    *   Daeng Gi Meo Ri
-    *   Antelope Up to 50% Off
     *   CRISLU Jewelry Up to 65% Off
-    *   Ted Baker London Handbags Up to 50% Off
-    *   Ted Baker London Shoes Starting at $45
-    *   Ted Baker London Luggage
     *   Tress It Up: Big Sexy Hair, Drybar &. More
     *   Makeup We Love: Urban Decay, Lime Crime &. NARS
     *   Beauty Heroes: Serums, Oils &. More from $10
-    *   NCLA: Vegan &. Cruelty-Free Cosmetics
-    *   Ted Baker London Up to 50% Off
-    *   Alternative
+    *   LOVE Moschino Handbags
+    *   Daeng Gi Meo Ri
+    *   Date Night: Dresses from Bardot &. More
+    *   Raincoats &. More ft. Joules
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Lingerie
     *   Watches
+    *   Accessories
+    *   Lingerie
 *   MenShop Sale Events
     
+    *   Sperry Men Starting at $25
+    *   Bulova &. Citizen Watches Up to 70% Off
+    *   Robert Graham
+    *   Born on the Water: Costa Del Mar Sun &. More
+    *   CALPAK Luggage
+    *   Men's Golf Shop ft. Callaway
     *   Heading into Summer: Men's Sandals &. More
     *   Countdown to Summer: Men's Tees &. More
+    
     *   Aquatalia Men Up to 55% Off
     *   Men's Designer Styles Under $50
     *   Nautica
     *   Lucky Brand Men Under $50
-    *   Swims Up to 60% Off
-    
     *   Men's Spring Styles Under $35
     *   Daddy &. Me: Marc Joseph New York
-    *   Ted Baker London Men Up to 60% Off
-    *   Ted Baker London Luggage
     *   Ben Sherman Shoes from $30
-    *   Men's Sock Shop
-    *   Men's Shoes Up to 70% Off
+    *   Swims Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -145,67 +153,67 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Sperry Kids Starting at $25
+    *   Prep It Up: Kids' Styles Starting at $10
+    *   New Baby Checklist: Confetti &. More
     *   Kids' Summer Sneak Peek
     *   $25 &. Under: Rachel Shoes
     *   DKNY Girls' Sleep &. More
     *   Daddy &. Me: Marc Joseph New York
     *   Lucky Brand Kids
     *   Easter Dresses ft. Laura Ashley
-    *   Disney for Kids
-    *   Kids' Premium Spring Denim
     
     Shop By Category
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
     *   Boys' Shoes
     *   Girls' Shoes
+    *   Boys' Sizes 8-20
+    *   Boys' Sizes 2T-7
     *   Baby Girl
     *   Baby Boy
-    *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Bathroom Accessories
+    *   CALPAK Luggage
+    *   Brands We Love: Cuisinart, Vitamix &. More
     *   Kitchen Storage
-    *   Free Shipping: Spring Bedding Up to 55% Off
     *   Free Shipping: Quirky Decorative Accents
-    *   Kitchen to Table: Le Creuset
-    *   Chargers, Headphones &. More Up to 80% Off
     *   Pretty in Pastel: Spring Bedding, Decor &. More
     *   Kitchen Gadgets &. More
     
-    *   Healthy Living Essentials: Vitamix, Tech &. More
-    *   Free Shipping: Bedding Essentials Up to 75% Off
+    *   Kitchen to Table: Le Creuset
+    *   Chargers, Headphones &. More Up to 80% Off
+    *   Free Shipping: Spring Bedding Up to 55% Off
     *   Spoil Your Pet: Clothes &. Accessories
     *   Free Shipping: Amrapur Towels Up to 70% Off
     *   Free Shipping: Kitchen Blowout
-    *   Spring Makeover: Pillows, Decor &. More
     
     Shop By Category
-    *   Bedding
-    *   Home Decor
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Bath
+    *   Home Decor
     *   Pet Accessories
+    *   Luggage &. Travel
     *   Tech Accessories
     *   Outdoor Living
     *   Cleaning &. Organization
-    *   Luggage &. Travel
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Mirenesse Australia Up to 70% Off
     *   Korean Beauty: Masks, Makeup &. More
-    *   Daeng Gi Meo Ri
     *   Tress It Up: Big Sexy Hair, Drybar &. More
     *   Makeup We Love: Urban Decay, Lime Crime &. NARS
     *   Beauty Heroes: Serums, Oils &. More from $10
-    *   NCLA: Vegan &. Cruelty-Free Cosmetics
+    *   Daeng Gi Meo Ri
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Hair Care
-    *   Nails
     *   Fragrance
     *   Bath &. Body
     *   Makeup Bags
