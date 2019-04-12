@@ -50,7 +50,6 @@ Close submenu ( Tops ) Tops
 Close submenu ( Bottoms ) Bottoms
 
 *   View All
-*   Buy 1 Get 1 Free
 *   Jeans
 *   Jeggings
 *   Shorts
@@ -104,7 +103,6 @@ Close submenu ( Tops ) Tops
 Close submenu ( Bottoms ) Bottoms
 
 *   View All
-*   Buy 1 Get 1 Free
 *   Jeans
 *   Shorts
 *   Joggers + Sweats
@@ -261,7 +259,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Buy More. Save More. $25 off $100** Use Code **SAVEMORE** **BUY 1 GET 1 FREE SELECT BOTTOMS + FREE SHIP OVER $50**
+**Take $10 Off Every $50 with code TAKE10 + Free Ship $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -285,7 +283,6 @@ Menu Find a Store Aeropostale
     
     *   Bottoms
         *   View All
-        *   Buy 1 Get 1 Free
         *   Jeans
         *   Jeggings
         *   Shorts
@@ -334,7 +331,6 @@ Menu Find a Store Aeropostale
     
     *   Bottoms
         *   View All
-        *   Buy 1 Get 1 Free
         *   Jeans
         *   Shorts
         *   Joggers + Sweats
@@ -485,7 +481,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Details Shop Girls Shop Guys Get In Store Coupon Details Shop Girls Shop Guys Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! Limited Time Only! -12 -1 : Days 28 : Days 45 Details Shop Girls Shop Guys Shop Girls Bogo Bottoms Shop Guys Bogo Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys BOGO Girls BOGO Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Guys Tees Shop Girls Shop Guys Shop Retro Shorts Shop Aero One Girls Accessories Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Details Shop Girls Shop Guys Details Shop Girls Shop Guys Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos -13 -1 : Days 27 : Days 53 Details Shop Girls Shop Guys Shop Girls Bottoms Shop Guys Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys Shop Girls Shop Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Guys Tees Shop Girls Shop Guys Shop Retro Shorts Shop Aero One Girls Accessories Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
