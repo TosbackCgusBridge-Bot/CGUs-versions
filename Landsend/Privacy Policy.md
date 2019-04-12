@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-40% off 1 full-price item
+Receive 50% off full-price women's and girl's dresses. 40% off all other full-price styles!
 
-code: TULIPS pin: 5424 DETAILS
+code: DAISY pin: 3641 DETAILS
 
 Customer Service Menu
 
