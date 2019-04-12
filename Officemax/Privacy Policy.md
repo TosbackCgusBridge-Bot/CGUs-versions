@@ -38,20 +38,20 @@ Stock Quote and Chart
 
 Price
 
-$2.70
+$2.62
 
 Change
 
-+0.12
+\-0.08
 
 Percent Change
 
-(0.00%)
+(-2.96%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Apr 04, 2019 Office Depot Announces Preliminary Financial Results for First Quarter 2019 view more Recent News Apr 04, 2019 Office Depot Announces Preliminary Financial Results for First Quarter 2019 view more Events Mar 12, 2019 at 3:30 PM EDT Office Depot at Bank of America Merrill Lynch's 2019 Consumer &. Retail Technology Conference view more Events Mar 12, 2019 at 3:30 PM EDT Office Depot at Bank of America Merrill Lynch's 2019 Consumer &. Retail Technology Conference view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more
+Recent News Apr 11, 2019 Office Depot Adds New Workonomy™ Hub Coworking Spaces to Chicago and Dallas Suburbs view more Recent News Apr 11, 2019 Office Depot Adds New Workonomy™ Hub Coworking Spaces to Chicago and Dallas Suburbs view more Events Mar 12, 2019 at 3:30 PM EDT Office Depot at Bank of America Merrill Lynch's 2019 Consumer &. Retail Technology Conference view more Events Mar 12, 2019 at 3:30 PM EDT Office Depot at Bank of America Merrill Lynch's 2019 Consumer &. Retail Technology Conference view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
