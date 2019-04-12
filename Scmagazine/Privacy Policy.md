@@ -32,6 +32,7 @@ Skip to navigation Skip to main content Login Register Menu Close
         *   Emerging Products
 *   In DepthOpen Submenu
     *   In Depth Back
+        *   SC Media's 30th Anniversary Celebration
         *   SC Media Print Archive
         *   Reboot 2018-19
         *   Features
@@ -39,6 +40,7 @@ Skip to navigation Skip to main content Login Register Menu Close
         *   Director's Cut Videos
 *   EventsOpen Submenu
     *   Events Back
+        *   SC Media's 30th Anniversary Celebration
         *   RiskSec 2019
         *   SC Awards 2019
         *   Webcasts
@@ -211,19 +213,19 @@ New York, NY 10001.**
     *   Microsoft researchers find NSA-style backdoor in Huawei laptops
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Georgia Tech stung with 1.3 million-person data breach
-    *   The winners of the 2019 SC Awards Honored in the U.S.
+    *   Michigan medical practice folds after ransomware attack
     
-    *   What is a Threat Intelligence Platform?
-    *   Barr to probe origins of Russia counterintelligence investigation
-    *   Pharma firm Bayer hit with WINNTI malware
-    *   It’s Not All Bugs and Breaches: Influence Wars and U.S. Elections
-    *   Freshmen hack high school WiFi to avoid a test
-    
-    *   Researchers uncover new 'TajMahal' APT framework, plus a new Gaza Cybergang malware campaign
-    *   Join us for SC Media's 2019 RiskSec Conference
+    *   Warren bill would send execs to jail for data breaches
+    *   Brazilian Banking Trojan BasBanke spreads via Facebook and WhatApp promos
     *   Grab-and-go Baldr stealer malware proves popular among thieves
-    *   Intel addresses flaws found across four products
-    *   Nearly one billion Chrome users vulnerable to exploit patched in later versions
+    *   Yahoo offers $117 million to settle 2016 data breach suit
+    *   It’s Not All Bugs and Breaches: Influence Wars and U.S. Elections
+    
+    *   Study: 67 percent of hotel websites grant third parties access to personal booking data, reservations
+    *   Massive SIM swap fraud leaves traditional 2FA users at risk
+    *   WordPress removes vulnerable Yuzo Related Posts plugin
+    *   Ransomware knocks Greenville, N.C. offline
+    *   VPN apps found insecurely storing session cookies
 
 Back to Top
 
@@ -255,8 +257,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-<img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
