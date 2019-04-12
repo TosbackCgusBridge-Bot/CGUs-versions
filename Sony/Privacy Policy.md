@@ -147,7 +147,7 @@ Learn More About “Concrete Genie”
 
 Take that! Witness the visual enhancements Capcom made for the Phoenix Wright: Ace Attorney Trilogy:  https://play.st/2Ig9c17  Court is in session on PS4 tomorrow. pic.twitter.com/nvTA1qvMfP
 
-2 days ago
+3 days ago
 
 View Tweet
 
