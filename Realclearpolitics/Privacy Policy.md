@@ -112,53 +112,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Attorney General William Barr_: "Spying On a Political Campaign is a Big Deal"
+*   _Eli Lake_: Focus on the Abuse of Power, Not Just the Spying
     
-*   _Aaron Blake_: Barr's Highly Questionable Use of Trump's 'Spying' Talking Point
+*   _Barbara McQuade_: Barr Sounds More and More Like Trump’s Roy Cohn
     
-*   _Mollie Hemingway_: Anti-Trump Spying Goes Well Beyond Just the FBI
+*   _Andy McCarthy_: We Should Be Alarmed by the Uproar Over Barr
     
-*   _Amy Walter_: In 2020, Look at the Forest, Not the Trees
+*   _Darren Samuelsohn_: Assange Charges Could Unsettle Left, Right and Trump
     
-*   _Mark Penn_: Obama Is Right - Dems' Circular Firing Squad Is On the Way
+*   _Ned Ryun_: On Puerto Rico, Trump Is Right
     
-*   _Shmuel Rosner_: Why Israel Still Loves Netanyahu
+*   _Bob Moser_: Why the Religious Right Is Terrified of Pete Buttigieg
     
-*   _Jonathan Broder_: Ilhan Omar Is Changing the Conversation About Israel
+*   _Ben Shapiro_: Pete Buttigieg's Bad-Faith Attack on Mike Pence
     
-*   _Rick Moran_: 'Some People Did Something': Ilhan Omar Describes 9/11
+*   _Greg Sargent_: Trump Reveals Reelection Strategy: Cruelty, Lies, Hate
     
-*   _Sophia Tesfaye_: Republicans Use Black Woman to Gaslight Congress
+*   _Josh Feldman_: Chuck Todd Tears Into Barr for Feeding ‘Conspiracy Theory’
     
-*   _Patricia McCarthy_: Candace Owens: The Anti-Ocasio-Cortez
+*   _Patricia McCarthy_: Democrats' Railings About Barr Going to End Badly for Them
     
-*   _Jesus Rodriguez_: This Could Be America's First Slavery Reparations Policy
+*   _Ben Caspit_: Israeli Right's Election Victory Buys More Time for Netanyahu
     
-*   _Christian Toto_: Hollywood Owes Matt Damon a #MeToo Apology
+*   _Carl Cannon_: When Law Enforcement &. the Media Dropped the Ball
     
-*   _Damon Linker_: Election Proves There's No Left Left in Israel
+*   _Stephen Collinson_: Attorney General Obliterates Honest Broker Persona
     
-*   _Dominic Green_: After Yet Another Win, What's Next for Netanyahu?
+*   _Byron York_: Barr Is Right, Spying on Trump Campaign Did Occur
     
-*   _Caroline Polisi_: The Endless Wait for the Mueller Report Is Almost Over
+*   _Tom Kuntz_: Why Last Year's Trump-Russia Pulitzer Was No Prize
     
-*   _Newt Gingrich_: The Collusion Lie Came at a Tremendous Cost
+*   _Ken Dilanian_: Barr Embraces Republican Talking Points on Russia Probe
     
-*   _Eric Lach_: Waiting Out William Barr
+*   _Tucker Carlson_: Dem Media Won’t Admit What Obama Team Did to Trump
     
-*   _Roger L. Simon_: William Barr Is the Democrats' Worst Nightmare
+*   _Shear_: The Border is Broken. And There is No Plan to Fix It
     
-*   _Michelle Cottle_: Stephen Miller Can't Act Alone
+*   _Zev Chafets_: Bibi Netanyahu Can Name His Team and His Price
     
-*   _Ben Shapiro_: The Open Borders Agenda Rears Its Ugly Head
+*   _Roger Cohen_: Israel's Lesson for the Democrats in 2020
     
-*   _Dana Milbank_: Candace Owens Turns a Serious Inquiry Into a Farce
+*   _Conrad Black_: Donald Trump, a Man for This Season
     
-*   _David Catron_: Owens Nukes Nadler's 'Hate Crime' Hearing
+*   _Alex Shephard_: Joe Biden’s Silent Majority in the Democratic Party
     
-*   _Josh Voorhees_: Mayor Pete's Stunning Surge Only Goes So Far
+*   _Oliver Roeder_: Sanders 2020 Off to a Fast Start
     
-*   _David Byler_: Why Hasn't Elizabeth Warren Achieved Liftoff?
+*   _AB Stoddard_: White House Whiplash: A Daily Hazard for Republicans
     
 
 *   Previous
