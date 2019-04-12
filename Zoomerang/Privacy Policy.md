@@ -59,7 +59,7 @@ Our clients’ stories
 “We shared the report with our Marketing head and the Brand team and had a very good discussion on the next steps.  
 We are moving forward to airing the copy with more confidence than before armed with the results.”
 
-**– Annie Italia | Head of Marketing Strategy &. InsightsEssilor | AMERA**
+**– Annie Italia | Head of Marketing Strategy &. Insights | Essilor AMERA**
 
 Make smarter decisions faster. Let us show you how:
 
