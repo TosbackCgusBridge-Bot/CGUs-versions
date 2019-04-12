@@ -19,7 +19,7 @@ Thomson Reuters Legal
     
     Featured
     
-    **Westlaw Edge** Introducing the most intelligent legal research service ever. Learn more
+    **Panoramic** Introducing a new and unique workflow solution that helps you plan, manage, and execute matters with data-driven confidence. Learn more
 *   SolutionsSolutions Solutions
     
     *   Streamline legal research
