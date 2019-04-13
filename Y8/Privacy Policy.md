@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 671 games
-*   Most Popular Games 19030 games
+*   Best of new games 683 games
+*   Most Popular Games 19032 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,856 games
+*   Games for girls 23,860 games
 *   Driving &. Racing Games 6,778 games
-*   Strategy &. RPG Games 2,414 games
+*   Strategy &. RPG Games 2,415 games
 *   Management Games 3,643 games
-*   Thinking Games 11,998 games
-*   Action &. Adventure Games 16,039 games
+*   Thinking Games 11,999 games
+*   Action &. Adventure Games 16,044 games
 *   Sports Games 2,199 games
 *   Shooting Games 8,421 games
 *   Fighting Games 2,094 games
-*   Skill Games 10,931 games
-*   Arcade &. Classic Games 12,812 games
+*   Skill Games 10,939 games
+*   Arcade &. Classic Games 12,813 games
 *   Fun &. Crazy Games 2,502 games
 
 Play with friends  
 Powered by Y8 Account 133 Y8 Multiplayer Games 1,939 Y8 High Score Games 1,140 Y8 Achievements Games 811 Y8 Screenshots Games 1,411 Y8 Online Save Games 2,992 All Y8 Games Games Last Highscore:
 
-**77,062** points on Bike Trials Junkyard 2 by adri\_tiquitimporta
+**495** points on Helix Jump by ItsMe
 
 Help us improve Bad translation? Social
 
