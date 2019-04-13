@@ -75,9 +75,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Detective Pikachu’ Pokémon Auditions, ‘Hellboy’ vs. ‘Avengers,’ ‘Dumbo’ VFX Breakdown and More Read More
-    *   Kumail Nanjiani Joins Angelina Jolie for Marvel's ‘The Eternals'. Here's Everything We Know Read More
-    *   Today in Movie Culture: ‘Missing Link’ Music Video, ‘Shazam!’ Easter Eggs, the Real Places That Inspired ‘Pet Sematary’ and More Read More
+    *   'Star Wars: The Rise of Skywalker" Debuts First Teaser. Top 5 Moments from Star Wars Celebration Read More
+    *   The Week in Movie News: ‘Shazam!’ Sequel in the Works, First ‘Star Wars: The Rise of Skywalker’ Teaser and More Read More
+    *   Today in Movie Culture: ‘Her Smell’ Music Video, ‘Hellboy’ Musical Parody, ‘Missing Link’ VFX Breakdown and More Read More
     
     Explore Content
     *   Movie Reviews
