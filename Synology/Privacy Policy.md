@@ -18,11 +18,15 @@ Effective 9/28/2018
 
 Updates
 
-Nov 2018
+March 2019
+
+We have updated the entire document to clarify and reflect our latest stance on safeguarding user privacy. We have more precisely defined "_Your Personal Data section_", "_Data Controllers, Contracting Parties, Transfer of Data section_", and "_Mobile Applications section_".
+
+November 2018
 
 We have updated the entire document to clarify and reflect our latest stance on safeguarding user privacy. We have more precisely defined users' rights to their data.
 
-Sep 2018
+September 2018
 
 We have added Package Activation section and its applicable packages to reflect the recent introduction of package activation mechanism, and Synology Account is part of the package activation process.
 
@@ -36,24 +40,22 @@ We have updated the entire document to clarify and reflect our latest stance on 
 
 Introduction
 
-Synology holds itself to high standards in handling and processing personal information. The statement outlined below establishes the boundaries of what Synology processes and what you, as our customer and the data subject ("**users**"), are entitled to. This Privacy Statement applies when you use our features and services ("**services**"). Additionally, we have a **Cookie Policy** for use of our website.
+Synology holds itself to high standards in handling and processing personal information. The statement outlined below establishes the boundaries of what Synology processes and what you, as our customer and the data subject ("**users**"), are entitled to. This Privacy Statement applies when you use our features and services ("**Services**"). Additionally, we have a **Cookie Policy** for use of our website.
 
 Synology operates around the world and has adopted English as the controlling language of this Privacy Statement. Additional translations are provided for convenience. You may switch to other languages by using the language selection button at the bottom of the webpage.
 
 Your Personal Data
 
-Personal data refers to identifying information that relates to an individual. Identification can be by the data alone or in conjunction with any other data in the data controller's possession or likely to come into such possession. Synology collects information only to provide you with services that you opted into. In order to provide you with our products or services, including responding to your inquiries, we may ask for your personal information. If you choose not to provide the requested information, we may be unable to deliver the desired services. Most of Synology's services are provided under a Synology Account, and if you no longer require the service or wish to have your data removed, you may delete your Synology Account.
+Personal data refers to identifying information that relates to an individual. Identification can be by the data alone or in conjunction with any other data in the data controller's possession or likely to come into such possession. Synology collects information only to provide you with the Services that you opted into. In order to provide you with our products or Services, including responding to your inquiries, we may ask for your personal information. If you choose not to provide the requested information, we may be unable to deliver the desired Services. Most of Synology's Services are provided under a Synology Account, and if you no longer require the Service or wish to have your data removed, you may delete your Synology Account.
 
-In general, Synology collects personal data from you for the purpose of delivering our Services to you, details of which are further set forth in the "Services" section of this policy, to operate our websites to provide you access to and use of our Services, to administer your use of our Services, to communicate with you and respond to your requests, to manage your account, to customize your Service experience with us, to improve our Services and products, to share your contact details with our subsidiaries, affiliates, authorized repair and support centers, authorized logistics companies, communications infrastructure, and other entities deemed necessary to carry out providing these Services to you, to share your contact details with our affiliate offices around the world within our group of companies for the purposes of internal administration and back-office support, to ensure our network security, and to prevent fraud, and to maintain the integrity and safety of our data technology systems that store and process your personal data. Examples of data we collect and store include:
+In general, Synology collects personal data from you via mail, email, telephone, or via our cookies for the purpose of delivering our Services to you, details of which are further set forth in the "Services" section of this policy, to operate our websites to provide you access to and use of our websites and Services, to administer your use of our Services, to communicate with you and respond to your requests, to manage your account, to customize your Service experience with us, to improve our Services and products, to provide you with our online or offline marketing measures and activities, including but not limited to newsletters, online and live event registrations, and other promotional information and materials, to share your contact details with our subsidiaries, affiliates, authorized repair and support centers, authorized logistics companies, communications infrastructure, and other entities deemed necessary to carry out providing these Services to you, to share your contact details with our affiliate offices around the world within our group of companies for the purposes of internal administration and back-office support, to ensure our network security, and to prevent fraud, to enforce or defend our policies or contract with you, and to maintain the integrity and safety of our data technology systems that store and process your personal data. Examples of data we collect and store include:
 
 *   Your e-mail address, which is used as identification for our services and as the primary communication method.
-    
 *   Your name, address, phone number, and additional contact information are used to provide registration, device shipping, and billing verification services.
-    
-*   Your payment method (credit card, bank account number, etc.), which is used for payment transactions for a service or product.
-    
-*   Your IP address and unique device identifiers are used for fraud prevention, security purposes, for warranty registration, support services, and for transactions.
-    
+*   Your payment method and financial data (credit card, bank account number, etc.), which is used for payment transactions for a service or product, logistics and billing data (such as customs ID and tracking number).
+*   Your IP address, unique device identifiers, referral URL, computer and connection data such as the type of operating system you use, device and software information, browser type, browser language and version, ad data, access times, browsing history, website preferences and web log information used for fraud prevention, security purposes, for warranty registration, support services, and for transactions.
+*   Your account login, account name, account number, password, account activity, files accessed or used by you, transaction data and any information you provide during a transaction, or other transaction-based content that you generate or connected to your account as a result of your transaction.
+*   Your chat and service history with us, and any other information you may provide us when you interact with us.
 
 Other information that you provide to us through digital or physical means may be stored on a case-by-case basis depending on the reason it was provided.
 
@@ -72,7 +74,7 @@ Lawful Bases and Other Usage
 
 The lawful bases for Synology to process your personal data for the various types of processing performed on your personal data are, as applicable, processing based on your consent, as necessary for us to enter into and to perform our contract with you, or in certain circumstances, as necessary for Synology to pursue our "legitimate interests", where our interests are not outweighed by your rights and freedoms.
 
-Situations necessitating such actions may include the following: to protect you, us, or others from security threats, to comply with laws we are subjected to, to implement information sharing within Synology's group affiliate companies, to prevent fraud, misuse of company IT systems, for purposes of mergers and acquisitions, and to perform auditing.
+"Legitimate interest" situations necessitating such actions may include the following: to protect you, us, or others from security threats, to comply with laws we are subjected to, to implement information sharing within Synology's group affiliates, to prevent fraud, misuse of company IT systems, to operate a whistleblowing scheme, for purposes of mergers and acquisitions, and to perform internal investigations and auditing.
 
 Synology will collect, process, and use the personal data supplied by you only for the purposes communicated to you and will not disclose your data to third parties except under the lawful bases set forth above. Synology does not share your personal information with third parties for the purpose of direct marketing.
 
@@ -90,7 +92,7 @@ If you reside in Designated Countries, Synology GmbH ("Synology Germany") will b
 
 For users residing outside of Designated Countries, Synology Inc. ("Synology Taiwan") will be the controller of your personal data. Your usage of services provided by Synology will be bound by the **Terms of Service** of the relevant service.
 
-Synology's Services include providing technical support, device replacement, payment services, event registration, as well as the transfer of data based on users' decisions, around the world. The nature of these Services require us to be able to transfer data into and out of the European Union (EU) to Synology subsidiaries, affiliates, authorized repair and support centers, authorized logistics companies, communications infrastructure, and other entities deemed necessary to carry out providing these services. We may share your personal data with governments and/or government-affiliated institutions, courts, or law enforcement agencies, to comply with our obligations under relevant laws and regulations, enforce or defend our policies or contract with you, respond to claims, or in response to a verified request relating to a government or criminal investigation. We may also provide your data to third parties involved in a legal proceeding, if they provide us with a court order or substantially similar legal procedure requiring us to do so. The above parties are the recipients of your personal data.
+Synology's Services include providing technical support, device replacement, payment services, event registration, as well as the transfer of data based on users' decisions, around the world. The nature of these Services requires us to be able to transfer data into and out of the European Union (EU) to Synology subsidiaries, affiliates, authorized repair and support centers, authorized logistics companies, communications infrastructure, and other entities deemed necessary to carry out providing these Services. We may also transfer your data to third-party service providers whom we subcontract to work on our behalf or for us and therefore may have access to the data only for purposes of performing these tasks on our behalf and under obligations similar to those described in this Privacy Statement, who perform functions such as data processing, auditing, order fulfillment, managing and enhancing customer data, providing customer service, conducting customer research or satisfaction surveys, marketing support, payment processing and invoice collection support, informational systems technical support, to help us provide, analyze, and improve our Services and to assist us in detecting and dealing with data breaches, illegal activities, and fraud. We may also share your personal data with governments and/or government-affiliated institutions, courts, or law enforcement agencies, to comply with our obligations under relevant laws and regulations, enforce or defend our policies or contract with you, respond to claims, or in response to a verified request relating to a government or criminal investigation. provided that, if any law enforcement agency requests your data, we will attempt to redirect the law enforcement agency to request that data directly from you, and in such event, we may provide your basic contact information to the law enforcement agency. We may also provide your data to third parties involved in a legal proceeding, if they provide us with a court order or substantially similar legal procedure requiring us to do so. The above parties are the recipients of your personal data.
 
 Synology safeguards EU personal data when transferred out by adopting European Commission-approved Standard Contractual Clauses as a legal mechanism for data transfers to locations the European Commission have not deemed to have an adequate level of data protection.
 
@@ -171,7 +173,7 @@ Synology only shares aggregated statistics that do not contain personal informat
 
 Package Activation Data we collect
 
-To activate certain Synology-published packages, your Synology Account is required to complete the activation. Synology collects device-specific information and information from your Synology Account such as hardware model name, user's type (business or home), data storage location, and company name).
+To activate certain Synology-published packages, your Synology Account is required to complete the activation. Synology collects device-specific information and information from your Synology Account such as hardware model name, user's type (business or home), data storage location, and company name.
 
 Applicable to:
 
@@ -225,7 +227,7 @@ Device analytics, or usage information sharing, is an opt-in\* option that you m
 
 Data we collect
 
-Synology collects usage information from your Synology device in order to help us understand how we can better improve our devices and software. The data we collect does not contain information that can identify you, the user. Your device will send to us, for example, information on the settings of the operating system and packages. Additionally, we may collect information on how you interact with certain functionality or user interface elements. None of this information contains any of your personal information or metadata pertaining to your files. Synology device analytics does not track your device's serial number, MAC, or IP addresses.
+Synology collects usage information from your Synology device in order to help us understand how we can better improve our devices and software. The data we collect does not contain information that can identify you, the user. Your Synology device will send to us, for example, information on the settings of Internet environment, the operating system, and packages. Additionally, we may collect information on how you interact with certain functionality or user interface elements. None of this information contains any of your personal information or metadata pertaining to your files. Synology device analytics does not track your device's serial number, MAC, or IP addresses.
 
 How we use your data
 
@@ -348,6 +350,8 @@ Synology collects device information from mobile apps supporting push notificati
 How we use your data
 
 Synology leverages aggregated application statistics from iOS or Android store platforms to better understand our user distribution. You can opt out any time by updating your preferences in the settings of the iOS or Android devices.
+
+Synology collects crash information from Firebase platform to improve quality and further develop our products and services. Crash information helps us to investigate problems and better understand what triggers them.
 
 How we store your data
 
