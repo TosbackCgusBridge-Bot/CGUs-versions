@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Georgia Tech stung with 1.3 million-person data breach
     *   Michigan medical practice folds after ransomware attack
     
+    *   Cisco fixes previously issued flawed patches for routers
+    *   April Microsoft Patch Tuesday addresses two actively exploited zero-days
+    *   Future-proof cybersecurity: Addressing implementation challenges in quantum cryptography
     *   Warren bill would send execs to jail for data breaches
-    *   Brazilian Banking Trojan BasBanke spreads via Facebook and WhatApp promos
-    *   Grab-and-go Baldr stealer malware proves popular among thieves
-    *   Yahoo offers $117 million to settle 2016 data breach suit
-    *   It’s Not All Bugs and Breaches: Influence Wars and U.S. Elections
+    *   Emotet now using stolen emails for new attacks
     
-    *   Study: 67 percent of hotel websites grant third parties access to personal booking data, reservations
-    *   Massive SIM swap fraud leaves traditional 2FA users at risk
-    *   WordPress removes vulnerable Yuzo Related Posts plugin
-    *   Ransomware knocks Greenville, N.C. offline
-    *   VPN apps found insecurely storing session cookies
+    *   CryptoPokemon ransomware decryptor developed
+    *   Garfield County, Utah falls victim to ransomware, pays attackers
+    *   'Dragonblood' flaws in WPA3 protocol could help adversaries recover passwords
+    *   Emotet now using stolen emails for new attacks
+    *   First Look: Barac ETV
 
 Back to Top
 
