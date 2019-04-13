@@ -146,7 +146,7 @@ I accept Menu
         *   Annual General Meeting
     *   Investor FAQs
     *   Investor contacts
-    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)ANNUAL GENERAL MEETING Our 2019 AGM will take place on 12 April Close Navigation
+    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)ANNUAL GENERAL MEETING Our 2019 AGM took place on 12 April Close Navigation
 *   Media Skip to Careers Media
     
     Find the latest media releases, key speeches by executives, and details of recent awards.
