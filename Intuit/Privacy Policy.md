@@ -30,34 +30,30 @@ Shop Departments
     *   Pajamas &. Robes
     *   View all Gifts
 
-Near YouFind a StoreBackHot Sellers
+Near YouFind a StoreBackSEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4.Hot Sellers
 
-*   BUY 1 GET 1 FOR A PENNY
+*   LIMITED TIME SPECIAL!
     
-    $40
+    $1699 sale
     
-    Arizona Womens Seymour Adjustable Strap Flat Sandals(1)
-*   BUY 1 GET 1 FOR A PENNY
+    was $34 | 50% offChristie &. Jill Heaven Girls Mary Jane Shoes - Little Kids/Big Kids
+*   $44
     
-    $37
-    
-    Worthington Womens V Neck Short Sleeve Blouse(2)
-*   $3599after couponwas $90 Men's JF J. Ferrar® Stretch Gabardine Flat-Front Straight-Leg Slim Fit Suit Pants(254)
+    Worthington Womens Ankle Pant(6)
+*   from$2399after couponwas $46 Lee® Wyoming Belted Cargo Shorts(203)
 *   BUY 1 GET 1 FOR A PENNY
     
     $42
     
-    Arizona Basic Original Straight Jeans(1819)
+    Arizona Flex Relaxed-Fit Straight Jeans(543)
+*   $3999 sale
+    
+    was $59.50 | 32% offLevi's® 505™ Regular Fit Jeans(2489)
 *   BUY 1 GET 1 FOR A PENNY
     
-    from$32
+    $54
     
-    Arizona Denim Bermuda - Girls' 4-16 &. Plus(2)
-*   BUY 1 GET 1 FOR A PENNY
-    
-    $27
-    
-    Xersion Boys Hooded Neck Long Sleeve Dri-Fit T-Shirt Preschool / Big Kid(4)
+    Arizona Sandra Womens Footbed Sandals(2)
 
 Shop and Save at JCPenney
 
