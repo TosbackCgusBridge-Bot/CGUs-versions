@@ -1,4 +1,4 @@
-Contact Us CenturyLink For Home Shop Internet Bundles DIRECTV® TV Home Phone Check For Deals At My Home Home Phone Special Offers Moving? My CenturyLink My Account Quick Bill Pay Enroll Support Support Center Contact Us Guidance Center For Business Small Business Enterprise Partners Public Sector Wholesale About Us Company Information Find everthing  
+Contact Us CenturyLink Residential Shop Internet Bundles DIRECTV® TV Home Phone Check For Deals At My Home Home Phone Special Offers Moving? My CenturyLink My Account Quick Bill Pay Enroll Support Support Center Contact Us Guidance Center Business Small Business Enterprise Partners Public Sector Wholesale About Us Company Information Find everthing  
 you need to know  
 about us. Investor Relations View financial  
 information  
@@ -16,7 +16,7 @@ viewing our corporate
 governance guidelines. Legal List of the relevant  
 terms and conditions  
 under which  
-CenturyLink abides. About Us Check For Deals At My Home About Us: Home Page Company Information Investor Relations Community News Room Careers Governance Legal My Account Support Support Center Contact Us Guidance Center Quick Bill Pay Contact Us Español For Home For Business Small Business Enterprise Partners Public Sector Wholesale Search Sign In For Home QuickPay For Business Small Business Enterprise **Level 3 is now CenturyLink.**
+CenturyLink abides. About Us Check For Deals At My Home About Us: Home Page Company Information Investor Relations Community News Room Careers Governance Legal My Account Support Support Center Contact Us Guidance Center Quick Bill Pay Contact Us Español Residential Business Small Business Enterprise Partners Public Sector Wholesale Search Sign In Residential QuickPay Business Small Business Enterprise **Level 3 is now CenturyLink.**
 
 Get support, access resources, and explore products and services at CenturyLink.com.
 
