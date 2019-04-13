@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price women's and girl's dresses. 40% off all other full-price styles!
+Receive women's Sport Knit capris and pants from $18. 40% off full-price styles!
 
-code: DAISY pin: 3641 DETAILS
+code: RAIN pin: 4712 DETAILS
 
 Customer Service Menu
 
@@ -290,6 +290,9 @@ Stores
 *   © 2019 lands' end
 *   Sitemap
 *   Index
+
+  
+If you are using a screen reader and are having problems using this website, please call 1-800-963-4816 for assistance.
 
 Sustainability
 
