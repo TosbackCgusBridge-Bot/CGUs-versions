@@ -12,7 +12,7 @@ Thomson Reuters Legal
     *   Westlaw
     *   Westlaw Edge
     *   Practical Law
-    *   Practical Law Connect
+    *   Panoramic
     *   CLEAR
     *   Law books
     *   All products
