@@ -482,6 +482,7 @@ Returns
 
 Promotions
 
+*   Buckle Credit Card Offer
 *   Store Events
 *   Military Discount
 *   All Promotions
