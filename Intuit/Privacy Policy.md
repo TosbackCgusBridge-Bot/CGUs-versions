@@ -30,30 +30,60 @@ Shop Departments
     *   Pajamas &. Robes
     *   View all Gifts
 
-Near YouFind a StoreBackSEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4.Hot Sellers
+Near YouFind a StoreBackBEDDINGSHOP ALLBEDDINGSHOP ALL
 
-*   LIMITED TIME SPECIAL!
+*   BIG BUY!
     
-    $1699 sale
+    $7999after couponwas $180 - $240 JCPenney Home Paris Jacquard 7-pc. Comforter Set(18)Add To Cart
+*   BIG BUY!
     
-    was $34 | 50% offChristie &. Jill Heaven Girls Mary Jane Shoes - Little Kids/Big Kids
-*   $44
+    from$1999after couponwas $79 - $119 Home Expressions Classic Reversible Down Alternative Comforter(21)Add To Cart
+*   BIG BUY!
     
-    Worthington Womens Ankle Pant(6)
-*   from$2399after couponwas $46 Lee® Wyoming Belted Cargo Shorts(203)
+    $4799after couponwas $145 - $185 JCPenney Home Faux Mink to Faux Fur Comforter(42)Add To Cart
+*   BIG BUY!
+    
+    from$3199after couponwas $99 - $149 JCPenney Home Level 1 Down Alternative Comforter(21)Add To Cart
+*   BIG BUY!
+    
+    from$7999after couponwas $219 - $259 JCPenney Home Crushed Velvet 3-pc. Comforter Set(5)Add To Cart
+*   BIG BUY!
+    
+    from$3199after couponwas $110 - $170 Home Expressions Rylan Floral Complete Bedding Set with Sheets(12)Add To Cart
+*   BIG BUY!
+    
+    $1999after couponwas $79 - $119 Home Expressions Extra Lightweight Warmth Down Alternative Comforter(15)Add To Cart
+
+Hot Sellers
+
 *   BUY 1 GET 1 FOR A PENNY
     
-    $42
+    from$16
     
-    Arizona Flex Relaxed-Fit Straight Jeans(543)
-*   $3999 sale
-    
-    was $59.50 | 32% offLevi's® 505™ Regular Fit Jeans(2489)
+    Home Expressions Lisette Rod-Pocket Sheer Panel(1172)
 *   BUY 1 GET 1 FOR A PENNY
     
-    $54
+    $50
     
-    Arizona Sandra Womens Footbed Sandals(2)
+    St. John's Bay Womens Irma Wedge Sandals(4)
+*   BUY 1 GET 1 FOR A PENNY
+    
+    $50
+    
+    Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(19)
+*   $45 sale
+    
+    was $60 | 25% offNike Revolution 4 Womens Lace-up Running Shoes(100)
+*   BUY 1 GET 1 FOR A PENNY
+    
+    $40
+    
+    Arizona Womens Gogo Flat Sandals(1)
+*   BUY 1 GET 1 FOR A PENNY
+    
+    $27
+    
+    Liz Claiborne Sleeveless Pleated Neck Knit Blouse(31)
 
 Shop and Save at JCPenney
 
