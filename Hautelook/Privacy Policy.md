@@ -8,10 +8,28 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Maaji Swim &. Active
+    *   1.State Under $30
+    *   Papillon Up to 75% Off
+    *   Rachel Roy Collection Incl. Plus &. Petites
+    *   Luxe Brands: Kenneth Cole New York &. More
+    *   Party Ready: Marina Dresses Incl. Plus &. Petites
+    *   Made in Italy: Meshmerise Jewelry from $20
+    *   Slide into These: Heeled &. Flat Sandals
+    *   David Donahue
+    *   Seychelles
+    *   Olivia Welles Jewelry Up to 75% Off
+    *   Staples for the Season: Leather Handbags
+    *   GrandeLASH-MD
+    *   Upgrade Their Walk: Dog Harnesses &. More
+    *   Slip into Spring: Men's Loafers &. More
+    *   Men's Running Shop: Tees, Jackets &. More
+    *   Girls' Swim Shop ft. Maaji
     *   Abound, 14th &. Union and More Incl. Plus &. Petites
     *   Free Press &. Shimera
     *   Our Exclusive Styles: Sandals, Pumps &. More
     *   Exclusively Ours: Men's Tees, Suits &. More
+    
     *   Exclusive Pairs: Men's Shoes ft. Public Opinion
     *   Exclusive Brands for Girls ft. Tucker + Tate
     *   Harper Canyon Shoes from $10
@@ -26,65 +44,52 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Steve Madden Kids Starting at $15
     *   Beauty Reaction
     *   Men's Underwear &. Lounge
-    *   Poo-Pourri Bathroom Scents
     *   Pillows &. Throws Starting at $10
     *   Sperry Starting at $30
     *   Sperry Men Starting at $25
-    *   Weekend Ready: Casually Cute Styles ft. Splendid
-    *   BLVD Starting at $15
-    
-    *   Via Spiga Coats
-    *   Special Occasion Ready: Dresses Under $80
-    *   Forgotten Grace Under $30
     *   Mirenesse Australia Up to 70% Off
-    *   Alo Active
-    *   Bulova &. Citizen Watches Up to 70% Off
-    *   Walk on the Wild Side: Sandals &. More
     *   Robert Graham
-    *   Born on the Water: Costa Del Mar Sun &. More
-    *   CALPAK Luggage
-    *   On-Trend Belt Bags Under $55
-    *   Circus by Sam Edelman from $25
     *   Men's Golf Shop ft. Callaway
     *   Sperry Kids Starting at $25
+    
     *   Free Shipping: Bathroom Accessories
     *   Brands We Love: Cuisinart, Vitamix &. More
     *   Prep It Up: Kids' Styles Starting at $10
     *   New Baby Checklist: Confetti &. More
-    *   New on HauteLook: FRNCH
-    *   BeachLunchLounge
-    *   Take the Plunge: Summer Swim Starting at $15
-    *   Summer Essentials: On-Trend Sandals, Mules &. More
     *   Heading into Summer: Men's Sandals &. More
-    *   Countdown to Summer: Men's Tees &. More
-    
-    *   Kids' Summer Sneak Peek
     *   Aquatalia Men Up to 55% Off
-    *   Suzy Levian Jewelry
     *   Korean Beauty: Masks, Makeup &. More
     *   Kitchen Storage
-    *   $25 &. Under: Rachel Shoes
-    *   Men's Designer Styles Under $50
-    *   Summer Sneak Peek: Dresses, Tops &. More
-    *   New on HauteLook: GRLFRND
-    *   Glam Galore: Dress the Population &. More
+    *   Nautica
     *   Free Shipping: Quirky Decorative Accents
     *   Daeng Gi Meo Ri
-    *   Swims Up to 60% Off
-    *   Kitchen to Table: Le Creuset
-    *   Tress It Up: Big Sexy Hair, Drybar &. More
+    *   Poo-Pourri Bathroom Scents
+    *   Summer Sneak Peek: Dresses, Tops &. More
     *   Chargers, Headphones &. More Up to 80% Off
-    *   Nautica
-    *   Free Shipping: Spring Bedding Up to 55% Off
-    *   DKNY Girls' Sleep &. More
-    *   Spoil Your Pet: Clothes &. Accessories
     *   Free Shipping: Amrapur Towels Up to 70% Off
     *   Free Shipping: Kitchen Blowout
+    *   Weekend Ready: Casually Cute Styles ft. Splendid
+    *   Special Occasion Ready: Dresses Under $80
+    *   Alo Active
+    *   Free Shipping: Spring Bedding Up to 55% Off
 *   WomenShop Sale Events
     
+    *   Maaji Swim &. Active
+    *   1.State Under $30
+    *   Papillon Up to 75% Off
+    *   Rachel Roy Collection Incl. Plus &. Petites
+    *   Luxe Brands: Kenneth Cole New York &. More
+    *   Party Ready: Marina Dresses Incl. Plus &. Petites
+    *   Made in Italy: Meshmerise Jewelry from $20
+    *   Slide into These: Heeled &. Flat Sandals
+    *   Seychelles
+    *   Olivia Welles Jewelry Up to 75% Off
+    *   Staples for the Season: Leather Handbags
+    *   GrandeLASH-MD
     *   Abound, 14th &. Union and More Incl. Plus &. Petites
     *   Free Press &. Shimera
     *   Our Exclusive Styles: Sandals, Pumps &. More
+    
     *   Steve Madden Starting at $30
     *   Dresses Up to 70% Off
     *   Steve Madden Handbags &. Accessories from $20
@@ -93,58 +98,38 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Designers We Love ft. Anna Sui
     *   Beauty Reaction
     *   Sperry Starting at $30
-    *   Weekend Ready: Casually Cute Styles ft. Splendid
-    *   BLVD Starting at $15
-    *   Via Spiga Coats
-    *   Special Occasion Ready: Dresses Under $80
-    *   Forgotten Grace Under $30
     *   Mirenesse Australia Up to 70% Off
-    
-    *   Alo Active
-    *   Bulova &. Citizen Watches Up to 70% Off
-    *   Walk on the Wild Side: Sandals &. More
-    *   CALPAK Luggage
-    *   On-Trend Belt Bags Under $55
-    *   Circus by Sam Edelman from $25
-    *   New on HauteLook: FRNCH
-    *   BeachLunchLounge
-    *   Take the Plunge: Summer Swim Starting at $15
-    *   Summer Essentials: On-Trend Sandals, Mules &. More
-    *   Suzy Levian Jewelry
     *   Korean Beauty: Masks, Makeup &. More
-    *   Summer Sneak Peek: Dresses, Tops &. More
-    *   New on HauteLook: GRLFRND
-    *   Glam Galore: Dress the Population &. More
     *   Daeng Gi Meo Ri
-    *   Tress It Up: Big Sexy Hair, Drybar &. More
+    *   Summer Sneak Peek: Dresses, Tops &. More
+    *   Weekend Ready: Casually Cute Styles ft. Splendid
+    *   Special Occasion Ready: Dresses Under $80
+    *   Alo Active
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie
     *   Handbags
+    *   Jewelry
     *   Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   David Donahue
+    *   Slip into Spring: Men's Loafers &. More
+    *   Men's Running Shop: Tees, Jackets &. More
     *   Exclusively Ours: Men's Tees, Suits &. More
     *   Exclusive Pairs: Men's Shoes ft. Public Opinion
     *   Steve Madden Men's Shoes &. Accessories from $20
     *   English Laundry
+    
     *   Men's Underwear &. Lounge
     *   Sperry Men Starting at $25
-    *   Bulova &. Citizen Watches Up to 70% Off
     *   Robert Graham
-    *   Born on the Water: Costa Del Mar Sun &. More
-    
-    *   CALPAK Luggage
     *   Men's Golf Shop ft. Callaway
     *   Heading into Summer: Men's Sandals &. More
-    *   Countdown to Summer: Men's Tees &. More
     *   Aquatalia Men Up to 55% Off
-    *   Men's Designer Styles Under $50
-    *   Swims Up to 60% Off
     *   Nautica
     
     Shop By Category
@@ -154,42 +139,38 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Girls' Swim Shop ft. Maaji
     *   Exclusive Brands for Girls ft. Tucker + Tate
     *   Harper Canyon Shoes from $10
     *   Steve Madden Kids Starting at $15
     *   Sperry Kids Starting at $25
     *   Prep It Up: Kids' Styles Starting at $10
     *   New Baby Checklist: Confetti &. More
-    *   Kids' Summer Sneak Peek
-    *   $25 &. Under: Rachel Shoes
-    *   DKNY Girls' Sleep &. More
     
     Shop By Category
     *   Girls' Shoes
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 8-20
-    *   Boys' Sizes 2T-7
-    *   Baby Girl
     *   Boys' Shoes
-    *   Baby Boy
+    *   Baby Girl
+    *   Boys' Sizes 2T-7
     *   Baby Gear &. Essentials
+    *   Boys' Sizes 8-20
+    *   Baby Boy
 *   HomeShop Sale Events
     
-    *   Poo-Pourri Bathroom Scents
+    *   Upgrade Their Walk: Dog Harnesses &. More
     *   Pillows &. Throws Starting at $10
-    *   CALPAK Luggage
     *   Free Shipping: Bathroom Accessories
     *   Brands We Love: Cuisinart, Vitamix &. More
     *   Kitchen Storage
     *   Free Shipping: Quirky Decorative Accents
     
-    *   Kitchen to Table: Le Creuset
+    *   Poo-Pourri Bathroom Scents
     *   Chargers, Headphones &. More Up to 80% Off
-    *   Free Shipping: Spring Bedding Up to 55% Off
-    *   Spoil Your Pet: Clothes &. Accessories
     *   Free Shipping: Amrapur Towels Up to 70% Off
     *   Free Shipping: Kitchen Blowout
+    *   Free Shipping: Spring Bedding Up to 55% Off
     
     Shop By Category
     *   Bedding
@@ -197,21 +178,21 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Home Decor
     *   Bath
     *   Pet Accessories
-    *   Luggage &. Travel
     *   Tech Accessories
+    *   Luggage &. Travel
     *   Outdoor Living
     *   Cleaning &. Organization
 *   BeautyShop Sale Events
     
+    *   GrandeLASH-MD
     *   Beauty Reaction
     *   Mirenesse Australia Up to 70% Off
     *   Korean Beauty: Masks, Makeup &. More
     *   Daeng Gi Meo Ri
-    *   Tress It Up: Big Sexy Hair, Drybar &. More
     
     Shop By Category
-    *   Hair Care
     *   Makeup
+    *   Hair Care
     *   Skin Care
     *   Bath &. Body
 
