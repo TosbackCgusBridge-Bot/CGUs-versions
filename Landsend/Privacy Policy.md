@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive women's Sport Knit capris and pants from $18. 40% off full-price styles!
+Receive Women's polos from $14. 40% off full-price styles!
 
-code: RAIN pin: 4712 DETAILS
+code: ROSES pin: 3445 DETAILS
 
 Customer Service Menu
 
