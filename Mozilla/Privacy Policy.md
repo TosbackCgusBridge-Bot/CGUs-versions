@@ -1,4 +1,8 @@
-Menu Mozilla
+Your Firefox is out-of-date.
+
+Get the most recent version to keep browsing securely.
+
+Update FirefoxClose Menu Mozilla
 
 Download Firefox — English (US)
 
