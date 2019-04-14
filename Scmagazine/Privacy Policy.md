@@ -215,11 +215,11 @@ New York, NY 10001.**
     *   Georgia Tech stung with 1.3 million-person data breach
     *   Michigan medical practice folds after ransomware attack
     
-    *   Cisco fixes previously issued flawed patches for routers
-    *   April Microsoft Patch Tuesday addresses two actively exploited zero-days
-    *   Future-proof cybersecurity: Addressing implementation challenges in quantum cryptography
-    *   Warren bill would send execs to jail for data breaches
-    *   Emotet now using stolen emails for new attacks
+    *   Intel addresses flaws found across four products
+    *   Samba updates eliminate pair of vulnerabilities
+    *   Motel 6 to pay $12M for sharing guest info with ICE
+    *   Brazilian Banking Trojan BasBanke spreads via Facebook and WhatApp promos
+    *   Assange arrested on hacking charge and removed from embassy, to be extradited to U.S.
     
     *   CryptoPokemon ransomware decryptor developed
     *   Garfield County, Utah falls victim to ransomware, pays attackers
