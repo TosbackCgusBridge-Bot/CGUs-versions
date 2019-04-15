@@ -215,11 +215,11 @@ New York, NY 10001.**
     *   Georgia Tech stung with 1.3 million-person data breach
     *   Michigan medical practice folds after ransomware attack
     
-    *   Intel addresses flaws found across four products
+    *   It’s Not All Bugs and Breaches: Influence Wars and U.S. Elections
+    *   First Look: Barac ETV
     *   Samba updates eliminate pair of vulnerabilities
-    *   Motel 6 to pay $12M for sharing guest info with ICE
-    *   Brazilian Banking Trojan BasBanke spreads via Facebook and WhatApp promos
-    *   Assange arrested on hacking charge and removed from embassy, to be extradited to U.S.
+    *   The Need for Trust amidst the “Zero Trust” Movement
+    *   Emotet now using stolen emails for new attacks
     
     *   CryptoPokemon ransomware decryptor developed
     *   Garfield County, Utah falls victim to ransomware, pays attackers
@@ -257,4 +257,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 2 seconds.
