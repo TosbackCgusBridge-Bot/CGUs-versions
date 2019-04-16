@@ -1,4 +1,4 @@
-<img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">. Apps
+Apps
 
 *   {text}
     
@@ -52,8 +52,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Family Barn
     *   Let's Fish!: Multiplayer Fishing Game Online
+    *   Family Barn
     *   Backgammon: Board Game Online Multiplayer
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
@@ -89,8 +89,8 @@ View more results
     *   Slither.io
     *   Warbanner
     *   Sniper Team 2
-    *   Stunt Skateboard 3D
     *   Total Front: Army War Game
+    *   Stunt Skateboard 3D
     *   Deer Hunter
     *   Uphill Rush 7: Waterpark
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
@@ -120,8 +120,8 @@ View more results
     *   Five Nights at Freddy's 2
     *   World Craft 2
     *   Five Nights at Freddy's 4
-    *   FNAF World
     *   Fireboy and Watergirl 5: Elements
+    *   FNAF World
     *   Tom and Jerry: Mouse Maze
     *   Short Life
     *   Five Nights at Freddy's: Sister Location
@@ -182,16 +182,16 @@ View more results
     Best Games
     *   Pixel Art: Color by Number
     *   Ellie: Get Ready With Me
-    *   Electricman 2: Stickman Fighting Game
     *   Love Tester 2.0
     *   Burger Restaurant Express
+    *   Electricman 2: Stickman Fighting Game
     *   Popstar Dentist
     *   Back To School: Princesses Rush
     *   The Princess: Sent to the Future - Dress Up Game
     *   Fidget Spinner
-    *   Papa's Cupcakeria
     *   Ella: Hips Surgery
-    *   Papa's Freezeria
+    *   Papa's Cupcakeria
+    *   Princess Rivalry
 *   Top Categories
     
     *   BMX Games
@@ -218,8 +218,8 @@ View more results
     *   Madalin Cars Multiplayer
     *   Bike Racing: Motorcycle Game
     *   Happy Wheels
-    *   Uphill Rush 7: Waterpark
     *   Country Ride: Race Car Game
+    *   Uphill Rush 7: Waterpark
     *   Extreme Off-Road Cars 2
     *   Russian Car Driver
     *   Neon Biker
@@ -248,8 +248,8 @@ View more results
     *   Stunt Skateboard 3D
     *   Table Tennis World Tour
     *   Ultimate Boxing
-    *   Neon Biker
     *   Playing Soccer
+    *   Neon Biker
     *   Baseball
     *   8-Ball
     *   Flip Diving
@@ -462,4 +462,4 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookie Consent
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere <img height="1" width="1" src="https://www.facebook.com/tr?id=665039917037235&amp;ev=PageView &amp;noscript=1">.
