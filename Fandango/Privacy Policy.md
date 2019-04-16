@@ -6,31 +6,31 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Shazam!
+    *   Little (2019)
+    *   Hellboy (2019)
     *   Pet Sematary (2019)
     *   Dumbo (2019)
-    *   Us (2019)
     *   Captain Marvel (2019)
+    *   Us (2019)
+    *   After (2019)
+    *   Missing Link (2019)
     *   The Best of Enemies
-    *   Five Feet Apart
     *   Unplanned (2019)
-    *   Wonder Park
-    *   How to Train Your Dragon: The Hidden World
-    *   Hotel Mumbai
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   After (2019)
-    *   Hellboy (2019)
-    *   Little (2019)
-    *   Missing Link (2019)
-    *   A Dark Place
-    *   Mary Magdalene
-    *   Master Z: Ip Man Legacy
-    *   Mia and the White Lion
-    *   Rottentail
-    *   Stockholm (2019)
-    *   Teen Spirit
+    *   Breakthrough (2019)
+    *   The Curse of La Llorona
+    *   Penguins (2019)
+    *   Fast Color
+    *   Grass (2019)
+    *   Hagazussa
+    *   High on the Hog
+    *   Little Woods
+    *   Kalank
+    *   Red Joan
+    *   Stuck (2019)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -39,15 +39,15 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   The Curse of La Llorona
-    *   Breakthrough (2019)
-    *   Penguins (2019)
     *   El Chicano (2019)
     *   The Intruder (2019)
     *   Long Shot
     *   UglyDolls
     *   Pokémon Detective Pikachu
     *   The Hustle (2019)
+    *   Poms
+    *   John Wick: Chapter 3 – Parabellum
+    *   The Sun Is Also a Star
     *   See All Coming Soon
     
     Explore More
@@ -75,9 +75,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'Star Wars: The Rise of Skywalker" Debuts First Teaser. Top 5 Moments from Star Wars Celebration Read More
+    *   First ‘Star Wars: The Rise of Skywalker’ Teaser Reveals a Major Villain’s Return. Here’s Everything We Know Read More
     *   The Week in Movie News: ‘Shazam!’ Sequel in the Works, First ‘Star Wars: The Rise of Skywalker’ Teaser and More Read More
-    *   Today in Movie Culture: ‘Her Smell’ Music Video, ‘Hellboy’ Musical Parody, ‘Missing Link’ VFX Breakdown and More Read More
+    *   Today in Movie Culture: Marvel Cinematic Universe Recap, ’Iron Man' vs. ‘Batman,’ ‘Us’ in Claymation and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -322,9 +322,9 @@ If you have any enquiries about how we use your information, please contact us a
 
 Offers
 
-*   'Missing Link' Sweepstakes
+*   'John Wick: Chapter 3 - Parabellum' Gift with Purchase
     
-    Enter now for a chance to win a custom 'Missing Link' Echo Dot from Amazon! BUY TICKETS
+    Own 'John Wick' or 'John Wick: Chapter Two' for FREE with ticket purchase! BUY TICKETS
     
 *   Every 4 Tickets = $5 For You
     
@@ -341,14 +341,14 @@ Offers
 
 New + Coming soon
 
-*   Captain Marvel (2019)
-*   Wonder Park
-*   Captive State
-*   Us (2019)
-*   Dumbo (2019)
-*   Pet Sematary (2019)
 *   Shazam!
-*   Hellboy (2019)
+*   Little (2019)
+*   Penguins (2019)
+*   Breakthrough (2019)
+*   The Curse of La Llorona
+*   Avengers: Endgame (2019)
+*   Pokémon Detective Pikachu
+*   John Wick: Chapter 3 – Parabellum
 
 Experience + Explore
 
