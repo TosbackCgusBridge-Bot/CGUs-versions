@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
 
-The Cat in the Hat Builds That App has been nominated for a webby! The Cat in the Hat Builds That App has been nominated for a webby! Vote today!
+New racing tracks out on the desktop version of Kart Kingdom every Monday! New racing tracks out on the desktop version of Kart Kingdom every Monday! Go now
 
 Toggle message bar
 
