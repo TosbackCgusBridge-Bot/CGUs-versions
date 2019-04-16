@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Georgia Tech stung with 1.3 million-person data breach
     *   Michigan medical practice folds after ransomware attack
     
+    *   Barr to probe origins of Russia counterintelligence investigation
+    *   Intel addresses flaws found across four products
     *   It’s Not All Bugs and Breaches: Influence Wars and U.S. Elections
-    *   First Look: Barac ETV
-    *   Samba updates eliminate pair of vulnerabilities
-    *   The Need for Trust amidst the “Zero Trust” Movement
-    *   Emotet now using stolen emails for new attacks
-    
     *   CryptoPokemon ransomware decryptor developed
-    *   Garfield County, Utah falls victim to ransomware, pays attackers
-    *   'Dragonblood' flaws in WPA3 protocol could help adversaries recover passwords
-    *   Emotet now using stolen emails for new attacks
-    *   First Look: Barac ETV
+    *   Second Triton/Trisis critical infrastructure attack spotted
+    
+    *   Threat actors gaining admin rights before ransomware infections
+    *   Microsoft web mail services breached after support agent's credentials are compromised
+    *   Russia targeted Sanders supporters on Twitter to sway support to Trump
+    *   Nearly half of firms suffer a data breach at the hands of vendors
+    *   Two Romanians convicted for roles in Bayrob malware operation
 
 Back to Top
 
@@ -257,6 +257,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
+
+<img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
