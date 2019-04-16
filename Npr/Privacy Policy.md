@@ -62,7 +62,7 @@ Close Navigation Menu
 *   All Songs Considered
 *   Music News
 *   Features
-*   Tiny Desk Contest
+*   New Music
 
 *   About NPR
 *   Overview
