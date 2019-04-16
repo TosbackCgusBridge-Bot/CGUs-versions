@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   15\. April 2019
+*   16\. April 2019
 *   Abo
-*   DAX 11.999,93ǀ
+*   DAX 12.020,28ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -36,6 +36,7 @@ Anmelden
     *   *   Übersicht
         *   Deutschland
         *   Ausland
+        *   Globale Gesellschaft
         *   Europa
         *   Meinung
     
