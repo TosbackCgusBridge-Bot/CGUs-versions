@@ -392,7 +392,7 @@ Buckle cares about the privacy of our guests. Our goal is to provide the best sh
 
 **How We Collect Your Information**
 
-We collect information about you when you’re in one of our stores, on our website, through our mobile application, during telephone conversations when you call us, social media and from third parties.
+We collect information about you when you’re in one of our stores, on our website, using our mobile application, speaking to our teammates during telephone conversations, utilizing social media, and we also collect information from third parties.
 
 *   Information you provide to us: You may provide the various types of information listed above to us in-store at the point of sale or by being present in-store, on buckle.com or our mobile app through purchases, account setup, sweepstakes/contest entries, creating a wish list or participating in a survey, through social media by using a platform’s tools to connect with us or sweepstakes/contest entries, or via telephone.
 *   Information we collect automatically: If you interact with us electronically, we receive certain types of information automatically. This information typically does not include personal information unless you provide it through our website or mobile app or you choose to share it with us. We obtain this information through some of the following technologies:
@@ -460,7 +460,7 @@ In addition, Buckle does not require you to disclose more information than is re
 
 **Effective Date**
 
-This Privacy &. Security Policy supersedes all prior policies and is effective September 5, 2018.
+This Privacy &. Security Policy supersedes all prior policies and is effective April 11, 2019.
 
 FAQs
 
