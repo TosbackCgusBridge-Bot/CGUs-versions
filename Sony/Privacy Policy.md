@@ -107,7 +107,7 @@ Available This Week on PS4™
 
 Angels assemble. November 15. #CharliesAngels pic.twitter.com/yoAZ36wG2a
 
-12 hours ago
+1 day ago
 
 View Tweet
 
