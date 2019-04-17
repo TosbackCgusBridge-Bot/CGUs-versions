@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles!
+Receive 50% off full-price swim tees and rash guards. 40% off full-price styles!
 
-code: THANKFUL pin: 2794 DETAILS
+code: SPLASH pin: 6782 DETAILS
 
 Customer Service Menu
 
