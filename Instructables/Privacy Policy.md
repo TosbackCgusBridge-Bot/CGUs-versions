@@ -60,6 +60,7 @@ Autodesk logo
     *   Industry solutions
         *   Building Information Modeling (BIM)
         *   Film &. TV
+        *   Construction
         *   Game design
         *   Manufacturing
         *   Product design
@@ -99,6 +100,8 @@ Autodesk logo
     *   Updates &. service packs
 *   Buy
     *   Buy Online
+    *   Purchase by phone:  
+        1-855-664-8618
     *   Find a reseller
     *   Special offers
     *   Renewal options
@@ -428,7 +431,7 @@ Buying
 *   Help with buying
 *   Download your software
 *   Returns &. refunds
-*   Subscription renewal
+*   Renewal options
 
 Support &. Learning
 
@@ -437,10 +440,10 @@ Support &. Learning
 *   Updates &. service packs
 *   System requirements
 *   Students &. educators
-*   Classes on demand
+*   Autodesk University
 *   Events &. training
 *   Training &. certification
-*   Autodesk University
+*   Autodesk Services Marketplace
 
 Autodesk
 
@@ -485,7 +488,7 @@ Buying
 *   Help with buying
 *   Download your software
 *   Returns &. refunds
-*   Subscription renewal
+*   Renewal options
 
 Support &. Learning
 
@@ -494,10 +497,10 @@ Support &. Learning
 *   Updates &. service packs
 *   System requirements
 *   Students &. educators
-*   Classes on demand
+*   Autodesk University
 *   Events &. training
 *   Training &. certification
-*   Autodesk University
+*   Autodesk Services Marketplace
 
 Autodesk
 
@@ -513,6 +516,63 @@ _Autodesk is a leader in 3D design, engineering and entertainment software._
 *   Affiliate Program
 *   Referral Program
 
-Privacy settings | Privacy/Cookies | About our Ads | Legal Notices &. Trademarks | Report Noncompliance | Site map | © 2019 Autodesk Inc. All rights reserved
+FOLLOW AUTODESK
+
+*   Facebook
+*   Instagram
+*   Twitter
+*   LinkedIn
+*   All social media
+*   Worldwide sites
+*   Worldwide sites
+
+Products
+
+*   Free product trials
+*   3D CAD software
+*   Civil engineering
+*   Drafting
+*   Manufacturing
+*   Product design
+*   Find by industry
+*   Industry collections
+
+Buying
+
+*   Buy online
+*   Special offers
+*   Manage your account
+*   Help with buying
+*   Download your software
+*   Returns &. refunds
+*   Renewal options
+
+Support &. Learning
+
+*   Product support
+*   Software installation, registration &. licensing
+*   Updates &. service packs
+*   System requirements
+*   Students &. educators
+*   Autodesk University
+*   Events &. training
+*   Training &. certification
+*   Autodesk Services Marketplace
+
+Autodesk
+
+_Autodesk is a leader in 3D design, engineering and entertainment software._
+
+*   About us
+*   Careers
+*   Contact us
+*   Investor relations
+*   Trust center
+*   Newsroom
+*   Suppliers
+*   Affiliate Program
+*   Referral Program
+
+Privacy settings | Privacy/Cookies | About our Ads | Legal | Report Noncompliance | Site map | © 2019 Autodesk Inc. All rights reserved
 
 Back to top
