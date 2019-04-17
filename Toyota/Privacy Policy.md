@@ -55,17 +55,17 @@ Skip to main content
 
 *   2020 GR Supra  
     View More Info
-*   2020 RAV4 TRD Off-Road  
-    View More Info
 *   2020 Tacoma  
+    View More Info
+*   2020 Highlander  
+    View More Info
+*   2020 RAV4 TRD Off-Road  
     View More Info
 *   2020 Yaris Hatchback  
     View More Info
 *   2020 Sequoia TRD Pro  
     View More Info
 *   2020 Land Cruiser Heritage Edition  
-    View More Info
-*   2019 Nightshade Special Editions  
     View More Info
 *   2020 Camry TRD and Avalon TRD  
     View More Info
