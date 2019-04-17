@@ -237,6 +237,7 @@ Legal
 *   Terms of Use
 *   *   Wolfram Research
     *   Wolfram|Alpha
+    *   Wolfram|Alpha Pro
     *   Wolfram|Alpha API
     *   Wolfram ID
     *   Wolfram Cloud
