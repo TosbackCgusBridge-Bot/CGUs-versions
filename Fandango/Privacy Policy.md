@@ -23,14 +23,14 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Breakthrough (2019)
     *   The Curse of La Llorona
     *   Penguins (2019)
+    *   Drunk Parents
+    *   Family (2019)
     *   Fast Color
     *   Grass (2019)
     *   Hagazussa
     *   High on the Hog
     *   Little Woods
     *   Kalank
-    *   Red Joan
-    *   Stuck (2019)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -326,9 +326,9 @@ Offers
     
     Own 'John Wick' or 'John Wick: Chapter Two' for FREE with ticket purchase! BUY TICKETS
     
-*   Every 4 Tickets = $5 For You
+*   VIP+ World Elite Mastercard®
     
-    Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
+    Get 2x the points pay with World Elite Mastercard®. BUY TICKETS
     
 *   FandangoNOW Binge Bundles
     
