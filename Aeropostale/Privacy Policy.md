@@ -149,9 +149,9 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   View All
 *   Super Skinny
 *   Skinny
-*   Straight
 *   Slim
 *   Slim Straight
+*   Straight
 *   Slim Boot
 *   Relaxed
 *   Flex Effects
@@ -167,30 +167,28 @@ Close submenu ( Shorts ) Shorts
 Close submenu ( Girls ) Girls
 
 *   View All
-*   Super High Rise
-*   High Rise
-*   Low Rise
-*   Cheeky
-*   Destroy
-*   Midi
-*   Flex Effects
-*   Bermuda
-*   Tomboy
-*   Active
-*   Shortall
+*   Super High Waisted Shorts
+*   High Waisted Shorts
+*   Midi Shorts
+*   Tomboy Shorts
+*   Bermuda Shorts
+*   Cheeky Shorts
 *   Soft Shorts
+*   Knit Shorts
+*   Short Overall
+*   Active Shorts
+*   Skirts
+*   Destroy
+*   Flex Effects
 
 Close submenu ( Guys ) Guys
 
 *   View All
-*   Loose
-*   Slim
-*   Beach
-*   Classic
-*   Longboard
-*   Classic Jogger
-*   Classic Cargo
-*   Longboard Cargo
+*   Denim Shorts
+*   7.5" Beach Shorts
+*   Flat Front Shorts
+*   Jogger Shorts
+*   Cargo Shorts
 *   Athletic
 *   Swim
 
@@ -380,9 +378,9 @@ Menu Find a Store Aeropostale
         *   View All
         *   Super Skinny
         *   Skinny
-        *   Straight
         *   Slim
         *   Slim Straight
+        *   Straight
         *   Slim Boot
         *   Relaxed
         *   Flex Effects
@@ -393,29 +391,27 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls
         *   View All
-        *   Super High Rise
-        *   High Rise
-        *   Low Rise
-        *   Cheeky
-        *   Destroy
-        *   Midi
-        *   Flex Effects
-        *   Bermuda
-        *   Tomboy
-        *   Active
-        *   Shortall
+        *   Super High Waisted Shorts
+        *   High Waisted Shorts
+        *   Midi Shorts
+        *   Tomboy Shorts
+        *   Bermuda Shorts
+        *   Cheeky Shorts
         *   Soft Shorts
+        *   Knit Shorts
+        *   Short Overall
+        *   Active Shorts
+        *   Skirts
+        *   Destroy
+        *   Flex Effects
     
     *   Guys
         *   View All
-        *   Loose
-        *   Slim
-        *   Beach
-        *   Classic
-        *   Longboard
-        *   Classic Jogger
-        *   Classic Cargo
-        *   Longboard Cargo
+        *   Denim Shorts
+        *   7.5" Beach Shorts
+        *   Flat Front Shorts
+        *   Jogger Shorts
+        *   Cargo Shorts
         *   Athletic
         *   Swim
     
@@ -481,7 +477,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Details Shop Girls Shop Guys Get In Store Coupon Details Shop Girls Shop Guys Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos -17 -1 : Days 28 : Days -8 Details Shop Girls Shop Guys Shop Girls Bottoms Shop Guys Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys Shop Girls Shop Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Guys Tees Shop Girls Shop Guys Shop Retro Shorts Shop Aero One Girls Accessories Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Details Shop Girls Shop Guys Get In Store Coupon Details Shop Girls Shop Guys Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos -18 -1 : Days 28 : Days -2 Details Shop Girls Shop Guys Shop Girls Bottoms Shop Guys Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys Shop Girls Shop Guys Details Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Guys Tees Shop Girls Shop Guys Shop Retro Shorts Shop Aero One Girls Accessories Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
