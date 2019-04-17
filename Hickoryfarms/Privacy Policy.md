@@ -70,7 +70,7 @@
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts $5 standard shipping for Easter delivery! Order by 3pm EST tomorrow\* Search Catalog Find a Store Skip to content My Account
+1.800.753.8558 Business Gifts 2 Day Shipping for Easter delivery ends tomorrow! Order by 3pm EST\* Search Catalog Find a Store Skip to content My Account
 
 *   Welcome!
 *   Log In
@@ -150,7 +150,7 @@
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Menu Search 0 Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+1.800.753.8558 Business Gifts Menu Search Cart Search Catalog Zip Code \* Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Privacy Policy
@@ -230,5 +230,3 @@ Sorry, this offer is just for new subscribers!
 is already subscribed.
 
 Watch your inbox to be the first to get exclusive Hickory Farms email offers!
-
-Play IconFeedback
