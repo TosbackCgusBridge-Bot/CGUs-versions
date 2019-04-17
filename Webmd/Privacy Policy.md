@@ -1,4 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -217,13 +217,13 @@ Market Research
 
 From time to time, WebMD may conduct online research surveys on behalf of itself and third parties through email invitations, pop-up surveys and online focus groups. When participating in a survey, we may require you to provide your location, age and if there’s a sweepstakes associated with the market research survey, your name and contact information for purposes of sweepstakes administration. The information you submit in a survey may be used by WebMD for research and measurement purposes, as described below, including to measure the effectiveness of content, advertising or programs. The personal information you provide in connection with a sweepstakes entry will be used for the sole purpose of administering the sweepstakes and as required by applicable law. We will not knowingly invite individuals who are under the age of 13 to participate in market research surveys. Market research surveys conducted by or on behalf of WebMD will contain a link to this Privacy Policy.
 
-WebMD Message Boards and Other Public Forums
+User Reviews, WebMD Message Boards, and Other Public Forums
 
-WebMD features several message board areas and other public forums where users with similar interests including with respect to certain medical conditions can share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by healthcare experts. Our message boards are open to the public and should not be considered private.
+In connection with the use of our Physician Directory, users are able to submit provider reviews. WebMD also features several message board areas and other public forums where users can post reviews, share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by healthcare experts. Our reviews feature in the Physician Directory and our message boards are open to the public and should not be considered private.
 
-**Any information (including personal information) you share in any online message board or other forum is by design open to the public and is not private. You should think carefully before posting any personal information in any public forum. What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, the information you post may also show up in third-party search engines.**
+Any information (including personal information) you share in any review, online message board, or other forum is by design open to the public and is not private. You should think carefully before posting any personal information in any public forum. What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, the information you post may also show up in third-party search engines.
 
-**If you mistakenly post personal information in our message board areas and would like it removed, you can send us an email to request that we remove it by using the _Contact Us_ link on every page of the WebMD Sites. In some cases, we may not be able to remove your personal information.**
+If you mistakenly post personal information in our message board areas and would like it removed, you can send us an email to request that we remove it by using the _Contact Us_ link on every page of the WebMD Sites. In some cases, we may not be able to remove your personal information.
 
 Emails You Send to WebMD
 
@@ -264,8 +264,6 @@ Information about your use of the Services may be used for the following purpose
 In addition, WebMD may use personal information about you for other purposes that are disclosed to you at the time we collect the information and/or with your consent.
 
 WebMD may combine your personal information and other information collected about your use of the Services, and also supplement with information from external sources for the purposes described in this Privacy Policy. For example, information that WebMD collects about you may be combined by WebMD with other information available to WebMD through third parties for research and measurement purposes, including measuring the effectiveness of content, advertising or programs. This information from other sources may include age, gender, demographic, geographic, personal interests, product purchase activity or other information. We may report aggregate information, which is not able to be identified back to an individual user of the WebMD Sites, to our current or prospective advertisers and other business partners.
-
-WebMD will not sell your personal information to third parties for their use without your consent.
 
 Sharing Your Information WebMD Subsidiaries and Corporate Affiliates
 
@@ -377,7 +375,7 @@ To view our certification status click here.
 
 WebMD.com, MedicineNet.com, eMedicineHealth.com, and RxList.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-Last updated on September 26, 2018 © 2018 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
+Last updated on April 15, 2019 © 2019 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
 
 Some of these might surprise you.
 
