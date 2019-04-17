@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Industrial &. Embedded Linux: Looking Ahead ›
 *   On the Case – High Resource Usage ›
 *   Make compelling videos with free software: Director’s Cut ›
 *   Why the Visual Studio Code team launched a snap ›
 *   Speed up your ROS snap builds ›
-*   Optimising IoT bandwidth with delta updates ›
