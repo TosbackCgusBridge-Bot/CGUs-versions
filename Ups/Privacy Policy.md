@@ -1,6 +1,6 @@
 1/1
 
-*   Severe Weather Impacting Areas of the Upper Midwest...More
+*   Severe Flooding Continues to Impact Areas of Iowa...More
 
 Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 
@@ -69,7 +69,7 @@ MenuSearch Close
     *   Shipping Tools
     *   Tracking
     *   Billing
-    *   International Trade
+    *   International Shipping
     *   Contract Logistics
     *   Integrating UPS Technology
     
@@ -131,7 +131,11 @@ Were you trying to... Track a Package or Freight Ship a Package Get a Quote Find
 *   Help and Support Center
 *   Get Started with UPS
 *   Change Delivery
-*   Delivery Issues
+*   Claims
+
+*   Email UsOpen the link in a new window
+*   Call UsOpen the link in a new window
+*   See All Contact OptionsOpen the link in a new window
 
 This Site
 
