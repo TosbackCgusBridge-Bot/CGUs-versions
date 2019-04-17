@@ -8,6 +8,7 @@
 *   BEAUTY
 *   ACCESSORIES
 *   SWIM
+*   GIFTS
 *   SALE
 
 Online Privacy Policy
