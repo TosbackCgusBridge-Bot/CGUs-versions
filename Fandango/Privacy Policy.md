@@ -76,7 +76,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   First ‘Star Wars: The Rise of Skywalker’ Teaser Reveals a Major Villain’s Return. Here’s Everything We Know Read More
-    *   The Week in Movie News: ‘Shazam!’ Sequel in the Works, First ‘Star Wars: The Rise of Skywalker’ Teaser and More Read More
+    *   Final 'Dark Phoenix' Trailer Threatens the X-Men Universe: Here's Everything We Know Read More
     *   Today in Movie Culture: Marvel Cinematic Universe Recap, ’Iron Man' vs. ‘Batman,’ ‘Us’ in Claymation and More Read More
     
     Explore Content
