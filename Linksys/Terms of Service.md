@@ -316,6 +316,7 @@ Support
 Change Region
 
 *   Become an Affiliate
+*   For Students
 *   Partner Portal
 *   Site Map
 *   Where To Buy
