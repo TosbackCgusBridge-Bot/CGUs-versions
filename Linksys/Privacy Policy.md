@@ -214,7 +214,7 @@ If you have complaints or concerns about this Privacy Policy, please contact us 
 
 Updated May 18, 2018
 
-linksys\_hybris4 CONNECT WITH LINKSYS This is a required field. Email id is invalid. SIGN UP
+linksys\_hybris5 CONNECT WITH LINKSYS This is a required field. Email id is invalid. SIGN UP
 
 × Thank You
 
@@ -258,6 +258,7 @@ Support
 Change Region
 
 *   Become an Affiliate
+*   For Students
 *   Partner Portal
 *   Site Map
 *   Where To Buy
