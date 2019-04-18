@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Georgia Tech stung with 1.3 million-person data breach
     *   Michigan medical practice folds after ransomware attack
     
-    *   Trump boots Secret Service chief in DHS shakeup
-    *   Study: 67 percent of hotel websites grant third parties access to personal booking data, reservations
-    *   April Microsoft Patch Tuesday addresses two actively exploited zero-days
-    *   Grab-and-go Baldr stealer malware proves popular among thieves
-    *   Russia targeted Sanders supporters on Twitter to sway support to Trump
-    
-    *   Adblock Plus Exploit allows threat actors to read Gmail and other Google services
     *   Wipro clients hit after firm falls for phishing attack
+    *   Report: Ecuadorian websites besieged by cyberattacks following Julian Assange's arrest
+    *   Researchers uncover new 'TajMahal' APT framework, plus a new Gaza Cybergang malware campaign
     *   Apache Tomcat vulnerability results in remote code exectuion
-    *   Student hacks online school government election
-    *   Researchers disclose six privilege escalation bugs in Shimo VPN client
+    *   Adblock Plus Exploit allows threat actors to read Gmail and other Google services
+    
+    *   EA Origin client bug allows threat actors to run remote code
+    *   European Commission: No evidence Kaspersky software is malicious
+    *   You’re on ‘The Nasty List’ scam looks to steal Instagram credentials
+    *   A Focused Approach to Zero Trust
+    *   Report: Ecuadorian websites besieged by cyberattacks following Julian Assange's arrest
 
 Back to Top
 
@@ -257,6 +257,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
+
+<img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
