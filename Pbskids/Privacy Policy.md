@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
 
-How to raise an emotionally resilient child. How to raise an emotionally resilient child. Read more.
+The difference between praise and encouragement -- and why it matters. The difference between praise and encouragement -- and why it matters. Read more.
 
 Toggle message bar
 
