@@ -14,7 +14,10 @@ New items have been added to sale! SHOP NOW
 *   Sale
 
 *   Search
-*   MY ACCOUNT
+*   MY ACCOUNTHello, guest.
+    *   Log In
+    *   |
+    *   Register
 *   MY FAVORITESLogin to save favorite items to your Buckle account.
     *   Login
     *   |
@@ -372,7 +375,7 @@ New items have been added to sale! SHOP NOW
           
         Give a Buckle Gift card
 
-SubmitSubmit × ClosePrivacy &. Security  
+SubmitSubmit × ClosePRIVACY &. SECURITY  
 
 **Buckle Privacy &. Security Policy**
 
