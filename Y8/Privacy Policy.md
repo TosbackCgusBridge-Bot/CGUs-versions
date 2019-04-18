@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 739 games
-*   Most Popular Games 19053 games
+*   Best of new games 750 games
+*   Most Popular Games 19054 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,898 games
-*   Driving &. Racing Games 6,780 games
+*   Games for girls 23,909 games
+*   Driving &. Racing Games 6,779 games
 *   Strategy &. RPG Games 2,416 games
 *   Management Games 3,644 games
 *   Thinking Games 12,006 games
-*   Action &. Adventure Games 16,055 games
+*   Action &. Adventure Games 16,057 games
 *   Sports Games 2,201 games
-*   Shooting Games 8,425 games
+*   Shooting Games 8,427 games
 *   Fighting Games 2,094 games
-*   Skill Games 10,958 games
-*   Arcade &. Classic Games 12,819 games
-*   Fun &. Crazy Games 2,501 games
+*   Skill Games 10,961 games
+*   Arcade &. Classic Games 12,818 games
+*   Fun &. Crazy Games 2,502 games
 
 Play with friends  
-Powered by Y8 Account 133 Y8 Multiplayer Games 1,939 Y8 High Score Games 1,140 Y8 Achievements Games 811 Y8 Screenshots Games 1,411 Y8 Online Save Games 2,992 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 133 Y8 Multiplayer Games 1,942 Y8 High Score Games 1,141 Y8 Achievements Games 811 Y8 Screenshots Games 1,412 Y8 Online Save Games 2,993 All Y8 Games Games Last Highscore:
 
-**142** points on Military Wars 3D Multiplayer by Ken
+**26** points on Epic Clicker Saga Of Middle Earth by kazu
 
 Help us improve Bad translation? Social
 
