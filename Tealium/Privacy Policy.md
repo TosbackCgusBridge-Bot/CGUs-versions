@@ -186,12 +186,6 @@ Using the Tealium Universal Data Hub, we’ve compiled your content topic and me
 
 X
 
-The Right Match
-
-Utilizing a service to reveal what 3rd party services a visitor’s presumed company uses on their site. We then compare those against our own list of integrations, and if there are any matches, present those logos here.
-
-X
-
 The Right Market
 
 Here we are using a reverse IP address lookup service to reveal a visitor’s industry. Then using that data point to relate to the visitor by powering personalized content.
@@ -205,5 +199,11 @@ Healthcare
 Retail
 
 Financial
+
+X
+
+The Right Match
+
+Utilizing a service to reveal what 3rd party services a visitor’s presumed company uses on their site. We then compare those against our own list of integrations, and if there are any matches, present those logos here.
 
 X This website uses cookies. By using our services, you agree to our use of cookies. Accept Learn More
