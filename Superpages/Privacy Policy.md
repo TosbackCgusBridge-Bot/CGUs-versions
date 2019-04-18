@@ -224,7 +224,7 @@ Contact InformationWho do I contact if I am concerned, or have questions, about 
 *   City Guides
 *   Featured Businesses
 *   Popular Categories
-*   Enlighten Me
+*   Advice/How-To
 *   Lottery Results
 *   Weather Forecasts
 
