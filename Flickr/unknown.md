@@ -17,7 +17,15 @@ new icn messageflickr-free-ic3d pan white
 *   Log In
 *   Sign Up
 
-Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Blog Get Pro Flickr Pro Additional Terms of Service
+*   Explore
+*   Trending
+*   The Commons
+*   Galleries
+*   Flickr Blog
+
+*   Get Pro
+
+Flickr Pro Additional Terms of Service
 
 Click here to review the Flickr Gift Purchaser Terms.
 
