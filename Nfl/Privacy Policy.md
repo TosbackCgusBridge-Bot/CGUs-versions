@@ -25,7 +25,7 @@
 *   Draft
 *   Free Agency
 
-*   Free Agency
+*   Schedule
 *   Draft
 
 *   *   Game Pass
