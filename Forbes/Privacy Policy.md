@@ -204,4 +204,4 @@
 *   Forbes Quote of the Day
 *   Advertise
 
-Forbes.com Privacy Statementfalse <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1494993704116832&amp;ev=PageView&amp;noscript=1">. <img src="https://api.b2c.com/api/noscript-4762fa40h248v8e08b1.gif">.
+Forbes.com Privacy Statementfalse <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1494993704116832&amp;ev=PageView&amp;noscript=1">.
