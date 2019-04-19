@@ -5,7 +5,7 @@ new icn messageflickr-free-ic3d pan white
     *   Trending
     *   Flickr VR
     *   The Commons
-    *   Galleries
+    *   Flickr Galleries
     *   World Map
     *   Camera Finder
     *   The Weekly Flickr
@@ -20,7 +20,7 @@ new icn messageflickr-free-ic3d pan white
 *   Explore
 *   Trending
 *   The Commons
-*   Galleries
+*   Flickr Galleries
 *   Flickr Blog
 
 *   Get Pro
