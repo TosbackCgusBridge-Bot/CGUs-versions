@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price tees, tanks and polos. 40% off all other full-price styles!
+Receive 40% off 1 full-price item!
 
-code: FRESHAIR pin: 3421 DETAILS
+code: CLOUDS pin: 3624 DETAILS
 
 Customer Service Menu
 
