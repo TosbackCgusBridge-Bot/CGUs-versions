@@ -159,8 +159,8 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Injury Report
     *   WGT Baseball: MLB
     *   Prospect Watch
-    *   MLB Crypto Baseball
-    *   Follow @Fantasy4112019 Beat the Streak Yahoo Fantasy MLB Crypto Baseball
+    *   MLB Champions
+    *   Follow @Fantasy4112019 Beat the Streak Yahoo Fantasy MLB Champions
 *   Play Ball Play Ball Play Ball
     *   PlayBall.org
     *   Hank Aaron Invitational
