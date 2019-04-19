@@ -8,6 +8,7 @@
         *   Enterprise
         *   Government
         *   Academic
+        *   Features
         *   Pricing
     *   Blended Courses
     *   Conferences
