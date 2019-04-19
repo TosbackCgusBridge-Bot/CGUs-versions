@@ -76,8 +76,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   First ‘Star Wars: The Rise of Skywalker’ Teaser Reveals a Major Villain’s Return. Here’s Everything We Know Read More
-    *   Final 'Dark Phoenix' Trailer Threatens the X-Men Universe: Here's Everything We Know Read More
-    *   Today in Movie Culture: Marvel Cinematic Universe Recap, ’Iron Man' vs. ‘Batman,’ ‘Us’ in Claymation and More Read More
+    *   Today in Movie Culture: ‘Avengers: Infinity War’ Recap, Marvel Superheroes in Real Life, ‘Us’ VFX Breakdown and More Read More
+    *   New ‘Hobbs &. Shaw’ Trailer is All About Family and a Ton of Action. Here’s Everything We Know Read More
     
     Explore Content
     *   Movie Reviews
@@ -324,7 +324,7 @@ Offers
 
 *   'John Wick: Chapter 3 - Parabellum' Gift with Purchase
     
-    Own 'John Wick' or 'John Wick: Chapter Two' for FREE with ticket purchase! BUY TICKETS
+    Own 'John Wick' and 'John Wick: Chapter Two' for $3.99 each with ticket purchase! BUY TICKETS
     
 *   VIP+ World Elite Mastercard®
     
