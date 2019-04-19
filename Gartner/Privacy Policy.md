@@ -4,7 +4,7 @@ We use cookies to deliver the best possible experience on our website. To learn 
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
 Become a client  
-Contact us or dial 1 855 549 48181 855 549 4818
+Contact us or dial 1 855 370 24071 855 370 2407
 
 Log in Become a Client
 
@@ -267,10 +267,10 @@ Log in Become a Client
     Career Opportunities Life at Gartner Campus
     
 *   Become a client  
-    Contact us or dial 1 855 549 48181 855 549 4818
+    Contact us or dial 1 855 370 24071 855 370 2407
     
 
-GARTNER PRIVACY POLICY Effective Date: August 2019
+GARTNER PRIVACY POLICY Effective Date: April 2019
 
 Gartner and its affiliates are committed to protecting your information. Please read this Privacy Policy ("**the Policy**") carefully as it sets out important information relating to how we handle your personal information.
 
@@ -478,19 +478,19 @@ Our websites and online services are for individuals who are at least 18 years o
 
 In certain circumstances, if you do not provide personal information which is required (for example, in relation to activating your Gartner license), we will not be able to perform our contractual obligations or provide you with products and services. When this is the case, we will make it clear. 
 
-Recorded Communications with Gartner
+**Recorded Communications with Gartner**
 
 We may ask to record calls for training, quality and research purposes. All recordings will be treated as confidential. If you do not want us to record your call, you will be given a chance to opt out. If your call is already in progress, you may ask us to turn off the recording at the start of the call. 
 
-Communication with Colleagues
+**Communication with Colleagues**
 
 You may use the send-to-colleague functionality on some of our sites or apps to send your colleagues information from Gartner or its subsidiaries. In order to fulfil this request, we will ask you for your and your colleagues' names and email addresses. We do not retain this data after the email is sent. Please be aware that your name and email address may be included in the communication sent to your colleague.
 
-My Favorites
+**My Favorites**
 
 The My Favorites feature of the member websites allows clients to save content available to the member’s Favorites list, add labels, tags, and notes to saved content, and share content and notes with and receive content and notes from other clients. We may review information about your use of My Favorites, including the content you save, folders you create, any tags, labels, or notes you add to your saved content or folders you have created, and any content that you share, and use such information to recommend content, tools, or other Gartner services we think may be of interest to you. Information about your use of My Favorites will only be accessible to Gartner and will not be visible to or otherwise shared with other Gartner clients unless you choose to share it.
 
-Restricted Areas
+**Restricted Areas**
 
 If you access the Restricted Areas of any of our sites (via browser or a Gartner app), we may collect information about your access to and use of research materials, decision-support tools, and other online and offline resources we offer.
 
@@ -507,7 +507,7 @@ We may disclose your personal information to third parties as follows:
 
 Your personal information may be shared if we anonymize and/or aggregate it, as in these circumstances the information will cease to be personal information.
 
-Utilization Information
+**Utilization Information**
 
 We may share information with our organizational clients about how their employees use the sites and the resources available to them through the sites (e.g., how employees used certain features of the sites, utilization trends, which features were most popular with the client’s employees).
 
@@ -540,29 +540,26 @@ In general terms, this will mean that your personal information will be kept for
 
 We believe it is important to give you choices about the use of your information. We will use your information as described in this Policy (or any other conference- or service-specific Privacy Policy). If we want to use your information for a purpose not described in this Policy, we will first get your consent to do so.
 
-Marketing Communications
+**Marketing Communications**
 
 We will respect your wishes not to receive marketing communications. You can change your marketing preferences by contacting us at the address here. If you gave us your email address to receive marketing communications, you can opt out at any time by using the unsubscribe links or instructions included at the bottom of our emails. Please note that we will continue to send you service-related communications regardless of any opt-out request. We will not sell or share your information or information with third parties (other than our subsidiaries or affiliates) for their own promotional or marketing purposes unless you give us consent to do so and where permitted by applicable law.
 
-Gartner Everywhere
+**Gartner Everywhere**
 
 Gartner Everywhere is an extension for Google Chrome that allows clients to customize their Gartner experience by providing them with Gartner research applicable to the websites they are browsing in real-time via an easy to access pop-up in their browser. You can easily disable the extension and its collection of URLs by doing the following:
 
-1\. Click the extension Gartner Everywhere button on the top of the browser window.
+1.  Click the extension Gartner Everywhere button on the top of the browser window.
+2.  Click the green toggle button to switch off.
+3.  Select the duration that you would like to switch off the extension for.
+4.  The extension will be automatically activated after the selected time period.
 
-2\. Click the green toggle button to switch off.
-
-3\. Select the duration that you would like to switch off the extension for.
-
-4\. The extension will be automatically activated after the selected time period.
-
-Conferences
+**Conferences**
 
 When you attend one of our conferences, you may be issued a conference badge with an RFID chip, which has a unique identifier that can be scanned from various distances. We may use the RFID information to administer and improve the conference experience and solicit feedback and/or interest in Gartner products and services. We will not sell or share RFID information with third parties (other than our subsidiaries and affiliates) for their own marketing and promotional purposes.  You may request a non-RFID enabled badge by asking conferences staff at the registration desk.
 
 We allow Exhibitors to scan attendee badges at our conferences. If you choose to allow an Exhibitor to scan your badge at the Exhibitor’s booth or when entering an Exhibitor session or function, you are giving us your consent to provide your contact details to that Exhibitor. Our Exhibitors’ use of any information you choose to share with them in this way is governed by each Exhibitor’s Privacy Policy. Badge scanning is **optional** and you may refuse to have your badge scanned by the Exhibitor.
 
-California Online Privacy Protection Act Notice Concerning Do Not Track Signals
+**California Online Privacy Protection Act Notice Concerning Do Not Track Signals**
 
 Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not recognize or respond to browser-related DNT signals, as the industry is currently working toward a common approach to responding to DNT. To learn more about Do Not Track, please click here.
 
