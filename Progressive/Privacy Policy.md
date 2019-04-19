@@ -203,6 +203,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   ID Theft
         *   Life
         *   Mexico Auto
+        *   Personal Loans
         *   Pet
         *   Travel
         *   Umbrella
@@ -295,6 +296,7 @@ Or, quote another product
 *   Mexico Auto
 *   Mobile Home
 *   Motorcycle/ATV
+*   Personal Loans
 *   Pet
 *   RV/Trailer
 *   Renters
@@ -303,7 +305,7 @@ Or, quote another product
 *   Travel
 *   Wedding &. Event
 
-Select a product Auto + HomeAuto + RentersAuto + CondoAutoBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHome FinancingHome SecurityHome WarrantyID TheftLifeMexico AutoMobile HomeMotorcycle/ATVPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event Select a productCurrently selected productAuto 
+Select a product Auto + HomeAuto + RentersAuto + CondoAutoBoat/PWCBusinessCar ShoppingClassic CarCommercialCondoElectronic DeviceFloodGolf CartHealthHomeownersHome FinancingHome SecurityHome WarrantyID TheftLifeMexico AutoMobile HomeMotorcycle/ATVPersonal LoansPetRV/TrailerRentersSegwaySnowmobileTravelWedding &. Event Select a productCurrently selected productAuto 
 
 Loading
 
