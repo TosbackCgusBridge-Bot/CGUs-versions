@@ -197,4 +197,4 @@ The Effective Date of this Privacy Policy is set forth at the top of this webpag
 HOW TO CONTACT US WITH QUESTIONS
 
   
-Please email us at consumeraffairs@hmausa.com, call us at (800) 633-5151, or write us at Hyundai Motor America/Phoenix, P.O. Box 83835, Phoenix, AZ 85071-3835 if you have any questions about this Privacy Policy.
+Please Contact Us, call us at (800) 633-5151, or write us at Hyundai Motor America/Phoenix, P.O. Box 83835, Phoenix, AZ 85071-3835 if you have any questions about this Privacy Policy.
