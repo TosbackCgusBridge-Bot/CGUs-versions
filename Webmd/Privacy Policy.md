@@ -1,4 +1,4 @@
-Skip to main content
+Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -110,8 +110,8 @@ Skip to main content
     
     *   2019 Measles Outbreak: What You Should Know
     *   Too Much Vitamin D: A Cautionary Tale
-    *   Is a New Remedy for Body Odor on the Horizon?
-    *   FDA Bans Sales of All Vaginal Mesh Products
+    *   'Superbugs' Hang Out on Hospital Patients
+    *   Can Weighted Blankets Really Help You Sleep?
     *   More Kids Having 'Tommy John' Surgery
     
     Experts &. Community
