@@ -8,10 +8,32 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Necessary Knits from $8 ft. Project Social T
+    *   Sandal Season: Perfect Pairs Up to 70% Off
+    *   Men's Jeans Under $50
+    *   Marathon Ready: Men's Active Shoes Under $100
+    *   Sam Edelman Starting at $35
+    *   LOVE Moschino
+    *   Sam Edelman Clothing Up to 55% Off
+    *   Sam Edelman Handbags Up to 50% Off
+    *   Magnanni
+    *   Graphic Tees &. More ft. Chaser
+    *   TARA Diamonds &. Gemstone Jewelry Up to 65% Off
+    *   Season's Best: Jackets &. Coats Up to 60% Off
+    *   Violet Voss Eyeshadow Palettes
+    *   Suits for Prom Under $200
+    *   Ready for Summer: White Denim from $19
+    *   Work Separates ft. Amanda &. Chelsea
+    *   Fairground Faves: Retro Appliances &. More
+    *   Fringed Beach Towels &. More
+    *   Steve Madden Socks
+    *   Tech Accessories Starting at $10
+    *   Get Out &. Play: Kids' Activewear
+    
+    *   BLANKNYC
     *   Dooney &. Bourke
     *   Work Dresses ft. Tahari
     *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Neutral to Bold: Colorful Styles from Elodie
     *   Spring Must-Haves: Blouses from $20
     *   Catherine Catherine Malandrino from $20
     *   Betsey Johnson Active
@@ -24,59 +46,51 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kalorik Kitchen Appliances
     *   Abound Sandals &. More from $10
     *   $20 &. Under: OshKosh Shoes
-    *   Best of Home Decor Under $50
-    *   BLANKNYC
-    *   A.L.C.
-    *   Franco Sarto Up to 50% Off
+    *   Best of Home Decor Under 50
     *   Sigma
-    
-    *   Scotch &. Soda Up to 65% Off
-    *   Sneakers for Spring Starting at $20
     *   On Trend: Sterling Silver &. More Up to 80% Off
-    *   Pair with Sun: Flip-Flops
     *   Jason Scott
     *   Free Shipping: Spring Artwork from Oliver Gal
+    
     *   Free Shipping: Shelves, Storage &. More from $10
-    *   The Laundry Room Sleep &. Lounge
     *   Men's Surf Styles from ...Lost
     *   Spring Glow: Lanterns &. More
     *   Vases &. More Starting at $10
     *   Stride Rite
-    *   adidas Men Starting at $45
-    *   adidas Kids Starting at $25
-    *   adidas Kids' Active Starting at $10
-    *   adidas Men's Active Starting at $15
-    *   14K Gold Jewelry Starting at $20
     *   Dynamic Innovation Labs Skin Care from $15
-    *   Lori Bonn Sterling Silver &. Gemstone Jewelry
-    *   ATM Anthony Thomas Melillo
-    *   JanSport
-    
     *   Pur
     *   Free Shipping: Surrealism Art
-    *   $100 &. Under: Maison Forte
     *   Free Shipping: Bedding Up to 70% Off
     *   Pet Apparel Blowout
-    *   Murad
     *   Celebrate in Style: Decor &. More
     *   Free Shipping: Vintage-Inspired Parisian Art
     *   Upgrade Their Walk: Dog Harnesses &. More
-    *   Poo-Pourri Bathroom Scents
-    *   Thank You Cards, Notebooks &. More
+    *   Neutral to Bold: Colorful Styles from Elodie
     *   Say It with Love: Gifts for Mom &. More
     *   Jewelry Storage for Every Style
     *   Sweet Dreams: Sheet Sets, Duvets &. More
     *   Men's Flip-Flops &. More ft. Rainbow
-    *   adidas Starting at $45
-    *   adidas Active Starting at $15
-    *   Taylor &. Gabby Skye Dresses
-    *   Spring Essentials: Linen Tops, Bottoms &. More
+    *   Thank You Cards, Notebooks &. More
+    *   JanSport
 *   WomenShop Sale Events
     
+    *   Necessary Knits from $8 ft. Project Social T
+    *   Sandal Season: Perfect Pairs Up to 70% Off
+    *   Sam Edelman Starting at $35
+    *   LOVE Moschino
+    *   Sam Edelman Clothing Up to 55% Off
+    *   Sam Edelman Handbags Up to 50% Off
+    *   Graphic Tees &. More ft. Chaser
+    *   TARA Diamonds &. Gemstone Jewelry Up to 65% Off
+    *   Season's Best: Jackets &. Coats Up to 60% Off
+    *   Violet Voss Eyeshadow Palettes
+    *   Ready for Summer: White Denim from $19
+    *   Work Separates ft. Amanda &. Chelsea
+    *   BLANKNYC
     *   Dooney &. Bourke
     *   Work Dresses ft. Tahari
+    
     *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Neutral to Bold: Colorful Styles from Elodie
     *   Spring Must-Haves: Blouses from $20
     *   Catherine Catherine Malandrino from $20
     *   Betsey Johnson Active
@@ -84,26 +98,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Tiziana Terenzi Luxury Candles
     *   Dress Up or Down: Flats for Every Occasion
     *   Abound Sandals &. More from $10
-    *   BLANKNYC
-    *   A.L.C.
-    *   Franco Sarto Up to 50% Off
     *   Sigma
-    
-    *   Scotch &. Soda Up to 65% Off
-    *   Sneakers for Spring Starting at $20
     *   On Trend: Sterling Silver &. More Up to 80% Off
-    *   Pair with Sun: Flip-Flops
-    *   The Laundry Room Sleep &. Lounge
-    *   14K Gold Jewelry Starting at $20
     *   Dynamic Innovation Labs Skin Care from $15
-    *   Lori Bonn Sterling Silver &. Gemstone Jewelry
-    *   JanSport
     *   Pur
-    *   Murad
-    *   adidas Starting at $45
-    *   adidas Active Starting at $15
-    *   Taylor &. Gabby Skye Dresses
-    *   Spring Essentials: Linen Tops, Bottoms &. More
+    *   Neutral to Bold: Colorful Styles from Elodie
+    *   JanSport
     
     Shop By Category
     *   Clothing
@@ -111,21 +111,20 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jewelry
     *   Handbags
     *   Lingerie
-    *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Jeans Under $50
+    *   Marathon Ready: Men's Active Shoes Under $100
+    *   Magnanni
+    *   Suits for Prom Under $200
     *   Diesel Men
     *   Kenneth Cole Reaction Men
+    
     *   Tiziana Terenzi Luxury Candles
     *   Jason Scott
     *   Men's Surf Styles from ...Lost
-    *   adidas Men Starting at $45
-    
-    *   adidas Men's Active Starting at $15
-    *   ATM Anthony Thomas Melillo
-    *   JanSport
-    *   $100 &. Under: Maison Forte
     *   Men's Flip-Flops &. More ft. Rainbow
+    *   JanSport
     
     Shop By Category
     *   Clothing
@@ -133,42 +132,41 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Get Out &. Play: Kids' Activewear
     *   $20 &. Under: OshKosh Shoes
     *   Stride Rite
-    *   adidas Kids Starting at $25
-    *   adidas Kids' Active Starting at $10
     *   JanSport
     
     Shop By Category
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Boys' Sizes 8-20
-    *   Boys' Sizes 2T-7
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
-    *   Baby Boy
-    *   Baby Girl
+    *   Boys' Sizes 2T-7
+    *   Boys' Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Fairground Faves: Retro Appliances &. More
+    *   Fringed Beach Towels &. More
+    *   Tech Accessories Starting at $10
     *   Free Shipping: Sensor Trash Cans Under $60
     *   Kalorik Kitchen Appliances
-    *   Best of Home Decor Under $50
+    *   Best of Home Decor Under 50
     *   Free Shipping: Spring Artwork from Oliver Gal
     *   Free Shipping: Shelves, Storage &. More from $10
     *   Spring Glow: Lanterns &. More
     *   Vases &. More Starting at $10
+    
     *   Free Shipping: Surrealism Art
     *   Free Shipping: Bedding Up to 70% Off
-    
     *   Pet Apparel Blowout
     *   Celebrate in Style: Decor &. More
     *   Free Shipping: Vintage-Inspired Parisian Art
     *   Upgrade Their Walk: Dog Harnesses &. More
-    *   Poo-Pourri Bathroom Scents
-    *   Thank You Cards, Notebooks &. More
     *   Say It with Love: Gifts for Mom &. More
     *   Jewelry Storage for Every Style
     *   Sweet Dreams: Sheet Sets, Duvets &. More
+    *   Thank You Cards, Notebooks &. More
     
     Shop By Category
     *   Home Decor
@@ -177,14 +175,15 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
     *   Bath
+    *   Outdoor Living
     *   Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Violet Voss Eyeshadow Palettes
     *   Tiziana Terenzi Luxury Candles
     *   Sigma
     *   Dynamic Innovation Labs Skin Care from $15
     *   Pur
-    *   Murad
     
     Shop By Category
     *   Makeup
