@@ -369,12 +369,12 @@ Click here for version 3.3
 
 Upcoming Conferences
 
-*   Artificial Intelligence Apr 16–18, New York
 *   Strata Apr 30–May 2, London
 *   Velocity Jun 11–13, San Jose
 *   Software Architecture Jun 11–13, San Jose
 *   Artificial Intelligence Jun 19–21, Beijing
 *   OSCON Jul 15–18, Portland
+*   Artificial Intelligence Sep 10–12, San Jose
 
 The O'Reilly Approach
 
