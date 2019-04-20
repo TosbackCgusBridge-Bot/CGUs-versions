@@ -76,8 +76,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   First ‘Star Wars: The Rise of Skywalker’ Teaser Reveals a Major Villain’s Return. Here’s Everything We Know Read More
-    *   Today in Movie Culture: ‘Avengers: Infinity War’ Recap, Marvel Superheroes in Real Life, ‘Us’ VFX Breakdown and More Read More
-    *   New ‘Hobbs &. Shaw’ Trailer is All About Family and a Ton of Action. Here’s Everything We Know Read More
+    *   Today in Movie Culture: Marvel Cinematic Universe Trivia, ‘The Curse of La Llorona’ Director Commentary and More Read More
+    *   The Week in Movie News: John Cena Joins ‘The Suicide Squad,’ New ‘Hobbs &. Shaw’ Trailer and More Read More
     
     Explore Content
     *   Movie Reviews
