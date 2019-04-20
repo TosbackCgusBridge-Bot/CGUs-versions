@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Announcing OpenJDK 11 packages in Ubuntu 18.04 LTS ›
 *   Open infrastructure, developer desktop and IoT are the focus for Ubuntu 19.04 ›
 *   Ubuntu Server development summary – 16 April 2019 ›
 *   Industrial &. Embedded Linux: Looking Ahead ›
 *   On the Case – High Resource Usage ›
-*   Make compelling videos with free software: Director’s Cut ›
