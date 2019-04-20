@@ -30,7 +30,7 @@ Shop Departments
     *   Pajamas &. Robes
     *   View all Gifts
 
-Near YouFind a StoreBackBuy 1 Get 2 for FreeShop AllBuy 1 Get 2 for FreeShop All
+Near YouFind a StoreBackBuy 1 Get 2 Free Women's SandalsShop AllBuy 1 Get 2 Free Women's SandalsShop All
 
 *   BUY 1 GET 2 FOR FREE
     
@@ -38,7 +38,14 @@ Near YouFind a StoreBackBuy 1 Get 2 for FreeShop AllBuy 1 Get 2 for FreeShop All
     
     $40
     
-    Arizona Womens Seymour Adjustable Strap Flat Sandals(2)Add To Cart
+    Arizona Womens Seymour Adjustable Strap Flat Sandals(3)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $50
+    
+    Arizona Forum Womens Footbed Sandals(5)Add To Cart
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
@@ -59,14 +66,7 @@ Near YouFind a StoreBackBuy 1 Get 2 for FreeShop AllBuy 1 Get 2 for FreeShop All
     
     $50
     
-    St. John's Bay Womens Irma Wedge Sandals(4)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $54
-    
-    Liz Claiborne Womens Twiggy Heeled Sandals(2)Add To Cart
+    St. John's Bay Womens Irma Wedge Sandals(6)Add To Cart
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
@@ -80,16 +80,28 @@ Near YouFind a StoreBackBuy 1 Get 2 for FreeShop AllBuy 1 Get 2 for FreeShop All
     
     $54
     
-    Arizona Sandra Womens Footbed Sandals(2)Add To Cart
+    Liz Claiborne Womens Twiggy Heeled Sandals(2)Add To Cart
 
 Hot Sellers
 
-*   $3599after couponwas $90 Men's JF J. Ferrar® Stretch Gabardine Flat-Front Straight-Leg Slim Fit Suit Pants(254)
-*   $1999after couponwas $54 Van Heusen 4-pc. Long Sleeves Suit Set - Boys 4-10(8)
-*   $1599after couponwas $55 Worthington Womens Zoe Pumps Slip-on Closed Toe Stiletto Heel(6)
-*   from$28after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room Darkening Grommet-Top Curtain Panel(588)
-*   $1599after couponwas $40 Arizona Mens Cargo Short(7)
-*   from$2159after couponwas $45 - $50 Van Heusen Flex Boy Suit Pants 8-20 - Regular &. Husky(3)
+*   from$1875 sale
+    
+    was $25 - $30 | 25% offNike® Benassi JDI Womens Athletic Sandals(24)
+*   $2799after couponwas $60 east 5th Womens Reno Heeled Sandals(4)
+*   $6375 sale
+    
+    was $85 | 25% offNike Air Max Motion 2 Womens Lace-up Running Shoes
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $40
+    
+    Arizona Womens Georgetown Slide Sandals
+*   $3999 sale
+    
+    was $59.50 | 32% offLevi's® 505™ Regular Fit Jeans(2489)
+*   $1599after couponwas $40 St. John's Bay Mens Cargo Short(8)
 
 Shop and Save at JCPenney
 
