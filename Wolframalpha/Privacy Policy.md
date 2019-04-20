@@ -260,7 +260,7 @@ Legal
     *   Wolfram SystemModeler Library
     *   Wolfram Finance Platform
     *   Wolfram Raspberry Pi Bundle
-    *   Wolfram CDF Player
+    *   Wolfram Player
     *   webMathematica Professional
     *   webMathematica Amateur
     *   WolframTones
