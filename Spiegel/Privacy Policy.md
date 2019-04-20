@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   19\. April 2019
+*   20\. April 2019
 *   Abo
 *   DAX 12.222,39ǀ
 *   Schlagzeilenǀ
@@ -372,6 +372,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-BESbswyBESbswyBESbswy
