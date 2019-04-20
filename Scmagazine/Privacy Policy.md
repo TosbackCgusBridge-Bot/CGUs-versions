@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Georgia Tech stung with 1.3 million-person data breach
     *   Michigan medical practice folds after ransomware attack
     
-    *   Nearly half of firms suffer a data breach at the hands of vendors
-    *   Study: 67 percent of hotel websites grant third parties access to personal booking data, reservations
-    *   Three apps claiming to improve Instagram exposed as an insta-scam
-    *   Ransomware knocks Greenville, N.C. offline
-    *   You’re on ‘The Nasty List’ scam looks to steal Instagram credentials
-    
-    *   Chipotle customers stewing over payment card hack
-    *   Cisco patches 29 vulnerabilities including one being actively exploited in Sea Turtle campaign
+    *   Join us for the 2019 RiskSec conference
+    *   Facebook says it 'unintentionally' harvested 1.5M users' email contacts via verification feature
+    *   5 Things You Need to Know About API Protection
     *   APT34 hacked back by Lab Dookhtegan
-    *   Malware attack rains on Weather Channel's parade, disrupts live broadcast
-    *   'Brazen' nation-state actors behind 'Sea Turtle' DNS hijacking campaign
+    *   Facebook leveraged user data as bargaining chip, considered selling to allies
+    
+    *   High-volume eGobbler malvertising campaign exploits zero-day Chrome bug
+    *   Ransomware ravages municipalities nationwide this week
+    *   Drupal releases correct four moderately critical third-party vulnerabilities
+    *   Chucky is a rogue IoT device in latest Child’s Play trailer
+    *   Mueller report details Russian interference in 2016 election, interactions with Trump team, WikiLeaks
 
 Back to Top
 
@@ -257,8 +257,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 2 seconds.
-
-<img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
