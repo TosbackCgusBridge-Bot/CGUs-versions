@@ -215,11 +215,11 @@ New York, NY 10001.**
     *   Georgia Tech stung with 1.3 million-person data breach
     *   Michigan medical practice folds after ransomware attack
     
-    *   Join us for the 2019 RiskSec conference
-    *   Facebook says it 'unintentionally' harvested 1.5M users' email contacts via verification feature
-    *   5 Things You Need to Know About API Protection
-    *   APT34 hacked back by Lab Dookhtegan
-    *   Facebook leveraged user data as bargaining chip, considered selling to allies
+    *   A Focused Approach to Zero Trust
+    *   Key pillars of the modern SOC
+    *   Malware attack rains on Weather Channel's parade, disrupts live broadcast
+    *   Lessons Learned: What Uber’s Approach to Decentralization Can Teach the Cybersecurity Industry
+    *   Facebook supply chain leak leads to Oculus headsets shipping with hidden messages
     
     *   High-volume eGobbler malvertising campaign exploits zero-day Chrome bug
     *   Ransomware ravages municipalities nationwide this week
