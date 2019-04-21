@@ -30,7 +30,7 @@ Shop Departments
     *   Pajamas &. Robes
     *   View all Gifts
 
-Near YouFind a StoreBackBuy 1 Get 2 Free Women's SandalsShop AllBuy 1 Get 2 Free Women's SandalsShop All
+Near YouFind a StoreBack FINAL HOURS OF COUPON CODEGOSHOP9ENDS IN00HOURS 41MINS 04SECS Buy 1 Get 2 Free Women's SandalsShop AllBuy 1 Get 2 Free Women's SandalsShop All
 
 *   BUY 1 GET 2 FOR FREE
     
@@ -38,7 +38,7 @@ Near YouFind a StoreBackBuy 1 Get 2 Free Women's SandalsShop AllBuy 1 Get 2 Free
     
     $40
     
-    Arizona Womens Seymour Adjustable Strap Flat Sandals(3)Add To Cart
+    Arizona Womens Gill Slide Sandals(2)Add To Cart
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
@@ -46,6 +46,13 @@ Near YouFind a StoreBackBuy 1 Get 2 Free Women's SandalsShop AllBuy 1 Get 2 Free
     $50
     
     Arizona Forum Womens Footbed Sandals(5)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $40
+    
+    Arizona Womens Seymour Adjustable Strap Flat Sandals(3)Add To Cart
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
@@ -74,34 +81,37 @@ Near YouFind a StoreBackBuy 1 Get 2 Free Women's SandalsShop AllBuy 1 Get 2 Free
     $40
     
     Arizona Womens Gogo Flat Sandals(2)Add To Cart
+
+Hot Sellers
+
+*   $4875 sale
+    
+    was $65 | 25% offNike® Air Monarch IV Mens Training Shoes(509)
+*   from$1875 sale
+    
+    was $25 - $30 | 25% offNike® Benassi JDI Womens Athletic Sandals(24)
+*   $1599after couponwas $37 Worthington Womens V Neck Short Sleeve Blouse(3)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
-    $54
+    $60
     
-    Liz Claiborne Womens Twiggy Heeled Sandals(2)Add To Cart
-
-Hot Sellers
-
-*   from$1875 sale
-    
-    was $25 - $30 | 25% offNike® Benassi JDI Womens Athletic Sandals(24)
-*   $2799after couponwas $60 east 5th Womens Reno Heeled Sandals(4)
-*   $6375 sale
-    
-    was $85 | 25% offNike Air Max Motion 2 Womens Lace-up Running Shoes
+    Italiana By Italian Shoemakers Womens Daphne Wedge Sandals(1)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
     $40
     
-    Arizona Womens Georgetown Slide Sandals
-*   $3999 sale
+    Arizona Womens Aurora Ankle Strap Flat Sandals
+*   BUY 1 GET 2 FOR FREE
     
-    was $59.50 | 32% offLevi's® 505™ Regular Fit Jeans(2489)
-*   $1599after couponwas $40 St. John's Bay Mens Cargo Short(8)
+    LIMITED TIME SPECIAL!
+    
+    $5999
+    
+    Journee Collection Womens Florence Flat Sandals
 
 Shop and Save at JCPenney
 
