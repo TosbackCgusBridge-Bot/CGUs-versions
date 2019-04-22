@@ -215,11 +215,11 @@ New York, NY 10001.**
     *   Georgia Tech stung with 1.3 million-person data breach
     *   Michigan medical practice folds after ransomware attack
     
-    *   A Focused Approach to Zero Trust
-    *   Key pillars of the modern SOC
+    *   Nearly half of firms suffer a data breach at the hands of vendors
     *   Malware attack rains on Weather Channel's parade, disrupts live broadcast
-    *   Lessons Learned: What Uber’s Approach to Decentralization Can Teach the Cybersecurity Industry
-    *   Facebook supply chain leak leads to Oculus headsets shipping with hidden messages
+    *   Key pillars of the modern SOC
+    *   Assange arrested on hacking charge and removed from embassy, to be extradited to U.S.
+    *   Two Romanians convicted for roles in Bayrob malware operation
     
     *   High-volume eGobbler malvertising campaign exploits zero-day Chrome bug
     *   Ransomware ravages municipalities nationwide this week
