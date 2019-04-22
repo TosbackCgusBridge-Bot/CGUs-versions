@@ -101,6 +101,8 @@ Miami, FL 33131
 
 646-543-8460
 
+<img src="/wp-content/uploads/2017/07/MC\_LOGO.png"/>
+
 *   About Us
 *   Digital Store
 *   Services
@@ -137,4 +139,4 @@ Subscribe to Our Newsletter
 
 **Error:** Password and password confirmation do not match
 
-Download Now We use cookies to ensure that we give you the best experience on our website. By continuing to use our website, you are agreeing to our use of cookies.AcceptPrivacy Policy Exact matches only Search in title Search in content Search in comments Search in excerpt Filter by Custom Post Type
+Download Now We use cookies to ensure that we give you the best experience on our website. By continuing to use our website, you are agreeing to our use of cookies.AcceptPrivacy Policy Exact matches only Search in title Search in content Search in comments Search in excerptFilter by Custom Post Type
