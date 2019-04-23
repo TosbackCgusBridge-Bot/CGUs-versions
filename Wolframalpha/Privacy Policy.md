@@ -294,7 +294,7 @@ Legal
 *   Finance Platform
 *   SystemModeler
 *   Wolfram Workbench
-*   CDF Player
+*   Wolfram Player
 *   Volume &. Site Licensing
 *   Enterprise Private Cloud
 *   View all...
