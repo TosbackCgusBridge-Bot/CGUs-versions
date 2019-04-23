@@ -5,37 +5,24 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   The Curse of La Llorona
     *   Shazam!
-    *   Little (2019)
-    *   Hellboy (2019)
-    *   Pet Sematary (2019)
-    *   Dumbo (2019)
+    *   Breakthrough (2019)
     *   Captain Marvel (2019)
-    *   Us (2019)
-    *   After (2019)
+    *   Little (2019)
+    *   Dumbo (2019)
+    *   Pet Sematary (2019)
     *   Missing Link (2019)
-    *   The Best of Enemies
-    *   Unplanned (2019)
+    *   Us (2019)
+    *   Hellboy (2019)
+    *   After (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Breakthrough (2019)
-    *   The Curse of La Llorona
-    *   Penguins (2019)
-    *   Drunk Parents
-    *   Family (2019)
-    *   Fast Color
-    *   Grass (2019)
-    *   Hagazussa
-    *   High on the Hog
-    *   Little Woods
-    *   Kalank
-    *   See All Opening This Week
-    
-    Pre Sales Tickets
-    
     *   Avengers: Endgame (2019)
+    *   The White Crow
+    *   See All Opening This Week
     
     Coming Soon
     
@@ -76,7 +63,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   First ‘Star Wars: The Rise of Skywalker’ Teaser Reveals a Major Villain’s Return. Here’s Everything We Know Read More
-    *   Today in Movie Culture: Marvel Cinematic Universe Trivia, ‘The Curse of La Llorona’ Director Commentary and More Read More
+    *   Today in Movie Culture: ‘The Curse of La Llorona’ Easter Eggs, ‘Avengers: Endgame’ Stars Name Their Favorite MCU Moments and More Read More
     *   The Week in Movie News: John Cena Joins ‘The Suicide Squad,’ New ‘Hobbs &. Shaw’ Trailer and More Read More
     
     Explore Content
