@@ -4,6 +4,7 @@
 *   Standings
 *   Draft
 *   Free Agency
+*   NFL 100
 *   Fantasy
 *   Tickets
 *   Shop
@@ -24,6 +25,7 @@
 *   Standings
 *   Draft
 *   Free Agency
+*   NFL 100
 
 *   Schedule
 *   Draft
