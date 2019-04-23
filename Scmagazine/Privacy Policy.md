@@ -204,28 +204,9 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
-    
     *   Popular
     *   Emailed
-    *   Recent
-    
-    *   The death of the VPN - It’s time to say goodbye
-    *   Microsoft researchers find NSA-style backdoor in Huawei laptops
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Georgia Tech stung with 1.3 million-person data breach
-    *   Michigan medical practice folds after ransomware attack
-    
-    *   Nearly half of firms suffer a data breach at the hands of vendors
-    *   Malware attack rains on Weather Channel's parade, disrupts live broadcast
-    *   Key pillars of the modern SOC
-    *   Assange arrested on hacking charge and removed from embassy, to be extradited to U.S.
-    *   Two Romanians convicted for roles in Bayrob malware operation
-    
-    *   High-volume eGobbler malvertising campaign exploits zero-day Chrome bug
-    *   Ransomware ravages municipalities nationwide this week
-    *   Drupal releases correct four moderately critical third-party vulnerabilities
-    *   Chucky is a rogue IoT device in latest Child’s Play trailer
-    *   Mueller report details Russian interference in 2016 election, interactions with Trump team, WikiLeaks
+    *   RecentLoading... Loading... Loading...
 
 Back to Top
 
@@ -257,4 +238,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 2 seconds.
