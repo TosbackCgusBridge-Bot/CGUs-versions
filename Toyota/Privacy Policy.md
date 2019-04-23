@@ -1255,9 +1255,7 @@ YOUR GARAGE NONE Log In
 *   OFFERS (0)
 *   BUILDS (0)
 
-OWNERS ✕ Your Vehicles Easily access your Toyota, Lexus and Scion vehicles directly from your garage. Toyota Owners  
-  
-Lexus Drivers SEARCHES ✕ Easily save Searches Look through and edit searches you’ve saved and save new ones right here. Click to save.  
+OWNERS ✕ Your Vehicles Easily access your Toyota, Lexus and Scion vehicles directly from your garage. Toyota Owners Lexus Drivers SEARCHES ✕ Easily save Searches Look through and edit searches you’ve saved and save new ones right here. Click to save.  
 Click to remove. Start Your Search INVENTORY ✕ Find your Toyota Search inventory and save your favorite vehicles here. Click to save.  
 Click to remove. Search Inventory OFFERS ✕ Keep an eye on Offers Find local specials and save them here. We’ll even notify you when they’re about to expire. Click to save.  
 Click to remove. See Offers BUILDS ✕ Build and Save Customize your Toyota, and save the details to your garage. We’ll help you find local inventory from there. Click to save.  
