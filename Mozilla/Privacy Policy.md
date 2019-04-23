@@ -260,7 +260,7 @@ Product Help
 *   Support
 *   File a Bug
 
-Language Language عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)ČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दी (भारत)HrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)RomânăРусскийСрпскиதமிழ்Go
+Language Language عربيবাংলাČeštinaDeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दी (भारत)HrvatskimagyarBahasa IndonesiaItaliano日本語МакедонскиNederlandsPolskiPortuguês (do Brasil)RomânăРусскийСрпскиதமிழ்ไทยTagalogTürkçeTiếng Việt中文 (简体)正體中文 (繁體)Go
 
 *   Twitter (@mozilla)
 *   Instagram (@mozilla)
