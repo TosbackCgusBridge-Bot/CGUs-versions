@@ -2,7 +2,7 @@ Warning!Are you sure? YesCancel    Free Music
 
 *   all djs
 
-find djs • invite friends       blog • sessions  
+find djs • invite friends  
 
 *   Site Map
 *   Privacy Policy
