@@ -58,8 +58,8 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Slither.io
-    *   Madalin Cars Multiplayer
     *   Warbanner
+    *   Madalin Cars Multiplayer
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Total Front: Army War Game
     *   Klondike - the lost expedition
@@ -91,8 +91,8 @@ View more results
     *   Sniper Team 2
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
-    *   Deer Hunter
     *   Uphill Rush 7: Waterpark
+    *   Deer Hunter
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Stickman Archer 2
@@ -247,8 +247,8 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
     *   Table Tennis World Tour
-    *   Baseball
     *   Ultimate Boxing
+    *   Baseball
     *   Playing Soccer
     *   Neon Biker
     *   8-Ball
