@@ -6,8 +6,8 @@
 
 *   Donate
 *   Give Monthly
-*   ABOUT US
-    *   ABOUT US
+*   About Us
+    *   About Us
     *   Who We Are
         *   Our People
         *   Our Science
