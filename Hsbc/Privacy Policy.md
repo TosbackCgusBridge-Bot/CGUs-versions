@@ -1,8 +1,8 @@
 Skip to:
 
-*   Primary navigation
-*   Main content
-*   Footer
+*   Skip toPrimary navigation
+*   Skip toMain content
+*   Skip toFooter
 
 We use cookies
 
