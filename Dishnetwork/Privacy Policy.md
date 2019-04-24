@@ -38,6 +38,7 @@
             *   Premium Channels
             *   Sports
             *   Adult
+            *   On Demand Subscriptions
         *   Sports
         *   On Demand
     *   Latino Packages
