@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  13:22
+New Games Next in  xx:xx
 
-*   By Date Next addition in 13:22
+*   By Date Next addition in xx:xx
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
-*   New Games Next in 13:22
-*   Best of new games 805 games
-*   Most Popular Games 19082 games
+*   New Games Next in xx:xx
+*   Best of new games 812 games
+*   Most Popular Games 19090 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 23,953 games
+*   Games for girls 23,958 games
 *   Driving &. Racing Games 6,781 games
 *   Strategy &. RPG Games 2,416 games
 *   Management Games 3,646 games
-*   Thinking Games 12,020 games
-*   Action &. Adventure Games 16,061 games
-*   Sports Games 2,202 games
+*   Thinking Games 12,023 games
+*   Action &. Adventure Games 16,064 games
+*   Sports Games 2,201 games
 *   Shooting Games 8,434 games
 *   Fighting Games 2,094 games
-*   Skill Games 10,990 games
-*   Arcade &. Classic Games 12,827 games
+*   Skill Games 10,994 games
+*   Arcade &. Classic Games 12,828 games
 *   Fun &. Crazy Games 2,504 games
 
 Play with friends  
 Powered by Y8 Account 133 Y8 Multiplayer Games 1,944 Y8 High Score Games 1,143 Y8 Achievements Games 812 Y8 Screenshots Games 1,414 Y8 Online Save Games 2,996 All Y8 Games Games Last Highscore:
 
-**3,955,280** points on Treasures of the Mystic Sea by amelia9
+**12** points on Masked Forces by Eniyanvijay21
 
 Help us improve Bad translation? Social
 
