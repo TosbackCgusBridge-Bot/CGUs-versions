@@ -34,7 +34,7 @@
             *   Wolfram|Alpha-Powered Apps
         *   Services
             *   Paid Project Support
-            *   Training
+            *   Wolfram U
             *   Summer Programs
     *   All Products &. Services »
 *   Technologies
@@ -85,7 +85,7 @@
     *   *   Learning
             *   Wolfram Language Documentation
             *   Fast Introduction for Programmers
-            *   Training
+            *   Wolfram U
             *   Videos &. Screencasts
         *    
             *   Wolfram Language Introductory Book
@@ -320,7 +320,7 @@ Legal
 *   Fast Introduction for Programmers
 *   Fast Introduction for Math Students
 *   Virtual Workshops
-*   Training
+*   Wolfram U
 *   Summer Programs
 *   Videos
 *   Books
