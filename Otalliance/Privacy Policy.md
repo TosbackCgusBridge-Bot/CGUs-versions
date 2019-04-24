@@ -80,7 +80,7 @@ Wed, Apr 24, 2019 Online Trust Audit &. Honor Roll: Highlights &. Discussion
 
 The Internet Society’s Online Trust Audit &. Honor Roll recognizes excellence in online consumer protection, data security, and privacy practices. This 10th annual audit of more than 1,200 predominantly consumer-facing websites is the largest undertaken by OTA, and was expanded this year to include payment services, video streaming, sports sites, and healthcare.
 
-*   OTA Blog
+*   OTA Blog(active tab)
 *   Newsletters
 
 Tue, Apr 16, 2019 Announcing the Online Trust Audit &. Honor Roll Results
