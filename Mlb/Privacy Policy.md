@@ -47,7 +47,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Best of Statcast
     *   Extra Inning Moments
     *   Chatting Cage
-    *   Front Office Focus
+    *   Business of Baseball
     *   Carry The Freight
 *   Standings Standings Standings
     *   2019 Regular Season Standings
