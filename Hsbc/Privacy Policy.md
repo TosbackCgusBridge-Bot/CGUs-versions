@@ -422,6 +422,11 @@ Account in
 
 Location selector (auto-suggestions will appear below field) 36 results are availableToggle Account in dropdown
 
+*   Most popular
+*   Hong Kong
+*   UK
+*   USA
+*   All countries and territories
 *   Argentina
 *   Armenia
 *   Australia
