@@ -30,7 +30,32 @@ Shop Departments
     *   Pajamas &. Robes
     *   View all Gifts
 
-Near YouFind a StoreBackShop and Save at JCPenney
+Near YouFind a StoreBackHot Sellers
+
+*   BUY MORE AND SAVE WITH CODE: SPRING19
+    
+    $2520after couponArizona Basic Original Straight Jeans(1823)
+*   $65
+    
+    Nike® Tanjun Womens Running Shoes(97)
+*   $2999 sale
+    
+    was $50 | 40% offLevi's® Carrier Cargo Ripstop Shorts(52)
+*   BUY 1 GET 2 FOR FREE
+    
+    from$17
+    
+    Arizona Girls Round Neck Glitter Tank Top(1)
+*   BUY MORE AND SAVE WITH CODE: SPRING19
+    
+    $2520after couponArizona Flex Relaxed-Fit Straight Jeans(549)
+*   BUY 1 GET 1 50% OFF
+    
+    from$50
+    
+    Vans Asher Slip-On Womens Skate Shoes(7)
+
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
