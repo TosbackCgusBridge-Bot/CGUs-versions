@@ -58,11 +58,11 @@ Get live support and seller protection.
 
 Get Started Send money to friends and family.
 
-It's free to send money to friends and family in the U.S. when you use your bank account or PayPal balance.\*
+It's free to send money to friends and family in the U.S. when you use your bank account or PayPal Cash or PayPal Cash Plus balance.\*
 
 Send Money Now
 
-\*Funds go quickly into their PayPal account. If they don't have one, they can sign up for free.
+\*If you don't have an account, you can sign up for PayPal for free. Must have a PayPal Cash or PayPal Cash Plus account to maintain and use a balance with PayPal.
 
 You might be surprised with how many online stores accept PayPal. Shop 19 million online stores and counting. Shop your favorite brands.
 
@@ -109,4 +109,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=e3b280104a164&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=ec382aa32f8e43c7aa73cd01b197f2b7&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=1a3dc23ca29f6&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=60988653a1104979ac701e8a12ef4bbf&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
