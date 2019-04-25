@@ -1246,7 +1246,7 @@ Help
 *   34\. 2020 EPA-estimated 31 city/38 highway/34 combined mpg for Corolla XSE. Actual mileage will vary.
 *   35\. 2020 Sienna AWD preliminary 18 city/24 hwy/20 combined mpg estimates and Sienna FWD preliminary 19 city/27 hwy/22 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
 *   36\. 2019 EPA-estimated 54 city/50 hwy/52 combined mpg estimates for Prius LE, XLE and Limited. Actual mileage will vary.
-*   37\. 2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. Actual mileage will vary. 2019 RAV4 Hybrid LE, Hybrid XLE, Hybrid XSE and Hybrid Limited preliminary 41 city/38 hwy/40 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
+*   37\. 2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. and 41 city/38 hwy/40 combined mpg for RAV4 LE Hybrid, XLE Hybrid, XSE Hybrid and Limited Hybrid. Actual mileage will vary.
 
 YOUR GARAGE NONE Log In
 
