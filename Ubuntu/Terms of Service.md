@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Visit Canonical at Dell Technologies World ›
 *   Canonical at Open Infrastructure Summit -Denver ›
 *   开源基础设施，桌面和物联网开发者都聚焦在Ubuntu 19.04 ›
 *   Announcing OpenJDK 11 packages in Ubuntu 18.04 LTS ›
 *   Open infrastructure, developer desktop and IoT are the focus for Ubuntu 19.04 ›
-*   Ubuntu Server development summary – 16 April 2019 ›
