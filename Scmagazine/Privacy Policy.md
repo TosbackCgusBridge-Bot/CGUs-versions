@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Georgia Tech stung with 1.3 million-person data breach
     *   Michigan medical practice folds after ransomware attack
     
-    *   Mueller report details Russian interference in 2016 election, interactions with Trump team, WikiLeaks
-    *   APT34 hacked back by Lab Dookhtegan
-    *   Unauthorized party muscles its way into Bodybuilding.com's systems
-    *   Nearly half of firms suffer a data breach at the hands of vendors
-    *   Three apps claiming to improve Instagram exposed as an insta-scam
+    *   Washington state legislature passes data breach law, but punts on privacy law
+    *   5 Things You Need to Know About API Protection
+    *   Drupal releases correct four moderately critical third-party vulnerabilities
+    *   Ransomware ravages municipalities nationwide this week
+    *   Key pillars of the modern SOC
     
-    *   Fake U.S. State Dept. docs used in European embassy cyberattacks
-    *   Machines running popular AV software go unresponsive after Microsoft Windows update
-    *   EmCare data breach exposes 60,000 employees, patients
-    *   Unauthorized party muscles its way into Bodybuilding.com's systems
-    *   WannaCry hero Marcus Hutchins pleads guilty, faces five years
+    *   ShadowHammer code found in several video games
+    *   Wyden presses FTC to hold Zuckerberg liable for 'repeated' privacy violations
+    *   Mulvaney told Nielsen to talk election security outside Trump's earshot
+    *   Aebi Schmidt latest manufacturer dealing with cyberattack
+    *   Automate your mobile application security without the staff
 
 Back to Top
 
@@ -257,6 +257,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 2 seconds.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
