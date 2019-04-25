@@ -57,9 +57,9 @@ View more results
     *   Backgammon: Board Game Online Multiplayer
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
-    *   Slither.io
-    *   Warbanner
     *   Madalin Cars Multiplayer
+    *   Warbanner
+    *   Slither.io
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Total Front: Army War Game
     *   Klondike - the lost expedition
@@ -86,13 +86,13 @@ View more results
     Best Games
     *   Plants vs Zombies
     *   Apple Shooter: Arrow Game
-    *   Slither.io
     *   Warbanner
+    *   Slither.io
     *   Total Front: Army War Game
     *   Sniper Team 2
     *   Stunt Skateboard 3D
-    *   Uphill Rush 7: Waterpark
     *   Deer Hunter
+    *   Uphill Rush 7: Waterpark
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Stickman Archer 2
@@ -118,8 +118,8 @@ View more results
     Best Games
     *   Five Nights at Freddy's
     *   Five Nights at Freddy's 2
-    *   World Craft 2
     *   Short Life
+    *   World Craft 2
     *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 4
     *   Tom and Jerry: Mouse Maze
@@ -127,7 +127,7 @@ View more results
     *   Troll Face Quest: Video Memes and TV Shows:Part 1
     *   Five Nights at Freddy's: Sister Location
     *   FNAF - Sister Location Custom
-    *   TJOC: The Joy Of Creation
+    *   FNAF - Sister Location Nights 2
 *   Top Categories
     
     *   Bubble Shooter
@@ -266,9 +266,9 @@ View more results
     
     Recommended Games
     
-    *   World of Warships
-    *   Star Stable
-    *   War Thunder
+    *   Vikings: War of Clans
+    *   Wizard 101
+    *   Game of Thrones
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
