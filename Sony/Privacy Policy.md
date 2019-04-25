@@ -117,7 +117,7 @@ Which spring release are you most revved up for?
   
 Check out our most-wanted PS4 games launching through June:  https://play.st/2IJ3ViU  pic.twitter.com/UZwVNlCvIL
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -156,7 +156,7 @@ Available This Week on PS4™
 
 <img class="bg-img" data-linkname="en:set\_a:position\_6|\_3x2-1:video:playstation:EarthDefenseTrailer-April-22-2019:ps:image:NfTT7gq-lX8" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Fight Gigantic Enemies in “Earth Defense Force: Iron Rain” NfTT7gq-lX8 Earth-Defense-Trailer" data-img1x="/content/dam/sony/homepage/2019-april/4-15/earth-defense-force-iron-rain-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-april/4-15/earth-defense-force-iron-rain-745x500.jpg" src="/content/dam/sony/homepage/2019-april/4-15/earth-defense-force-iron-rain-745x500.jpg" alt="Earth Defense Force: Iron Rain"/>. <img class="bg-img" data-linkname="en:set\_a:position\_6|\_3x2-1:video:playstation:EarthDefenseTrailer-April-22-2019:ps:image-mobile:NfTT7gq-lX8" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Fight Gigantic Enemies in “Earth Defense Force: Iron Rain” NfTT7gq-lX8 Earth-Defense-Trailer" data-img1x="/content/dam/sony/homepage/2019-april/4-15/earth-defense-force-iron-rain-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-april/4-15/earth-defense-force-iron-rain-745x500.jpg" src="/content/dam/sony/homepage/2019-april/4-15/earth-defense-force-iron-rain-600x600.jpg" alt="Earth Defense Force: Iron Rain"/>. Meet a New Generation of Karate Kids in “Cobra Kai”
 
-Season 2 Coming April 24
+Season 2 Now Streaming
 
 <img class="bg-img" data-linkname="en:set\_a:position\_6|\_2x1-2:video:tv:CobraKaiSeason2-April-22-2019:sptv:image:VaXoQJx3jYs" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Meet a New Generation of Karate Kids in “Cobra Kai” VaXoQJx3jYs Cobra-Kai-Season-2" data-img1x="/content/dam/sony/homepage/2019-april/4-22/CobraKaiSeason2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-april/4-22/CobraKaiSeason2-500x246.jpg" src="/content/dam/sony/homepage/2019-april/4-22/CobraKaiSeason2-500x246.jpg" alt="Cobra Kai Season 2"/>. <img class="bg-img" data-linkname="en:set\_a:position\_6|\_2x1-2:video:tv:CobraKaiSeason2-April-22-2019:sptv:image-mobile:VaXoQJx3jYs" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Meet a New Generation of Karate Kids in “Cobra Kai” VaXoQJx3jYs Cobra-Kai-Season-2" data-img1x="/content/dam/sony/homepage/2019-april/4-22/CobraKaiSeason2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-april/4-22/CobraKaiSeason2-500x246.jpg" src="/content/dam/sony/homepage/2019-april/4-22/CobraKaiSeason2-600x600.jpg" alt="Cobra Kai Season 2"/>. Shoot Like a Pro At Sony Square
 
