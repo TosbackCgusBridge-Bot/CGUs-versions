@@ -5,9 +5,9 @@ Skip to content
 *   ATMs/Locations
 *   Español
 
-Search Use up and down arrows to navigate suggestions.
+Search Enter search term, then press down arrow to navigate suggestions
 
-*   Personal
+*   selected Personal
 *   Small BusinessSmall Business. Serving businesses with up to $5 million in annual revenue.
 *   Commercial
 
@@ -35,7 +35,7 @@ Search Use up and down arrows to navigate suggestions.
     *   Tax Center
     *   Banking Made Easy
     *   Planning for Retirement
-    *   Fraud Information Center
+    *   Security Center
     
     Popular Links
     
@@ -65,13 +65,12 @@ Search Use up and down arrows to navigate suggestions.
     *   Home Lending
     *   Going to College
     *   Borrowing and Credit
-    *   Fraud Information Center
+    *   Security Center
     
     Popular Links
     
     *   Mortgage Rates
     *   Home Equity Rates
-    *   Auto Loan Rates
     *   Get Help with Payment Challenges
     *   Finish Application/Check Status
     *   Student Loan Discounts
@@ -147,7 +146,7 @@ Search Use up and down arrows to navigate suggestions.
     
     *   Banking Made Easy
     *   Borrowing and Credit
-    *   Fraud Information Center
+    *   Security Center
     
     Popular Links
     *   Sign On to Go Far Rewards
