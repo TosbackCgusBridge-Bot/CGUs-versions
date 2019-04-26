@@ -62,8 +62,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Leonardo DiCaprio to Star in Guillermo del Toro's 'Nightmare Alley'. Here's Everything We Know Read More
-    *   Today in Movie Culture: ‘The Curse of La Llorona’ Easter Eggs, ‘Avengers: Endgame’ Stars Name Their Favorite MCU Moments and More Read More
+    *   A ‘MIB: International’ Character Guide To Fresh Faces (And Voices) Read More
+    *   ‘MIB: International’ Behind-The-Scenes Fun Facts That Could Answer Some Of Your Burning Questions Read More
     *   Will Smith Battles Will Smith in First ‘Gemini Man’ Trailer. Here’s Everything We Know Read More
     
     Explore Content
@@ -371,4 +371,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
