@@ -215,11 +215,11 @@ New York, NY 10001.**
     *   Georgia Tech stung with 1.3 million-person data breach
     *   Michigan medical practice folds after ransomware attack
     
-    *   Washington state legislature passes data breach law, but punts on privacy law
+    *   WordPress Social Warfare plugin vulnerabilities abused in the wild
+    *   EmCare data breach exposes 60,000 employees, patients
+    *   Student hacks online school government election
     *   5 Things You Need to Know About API Protection
-    *   Drupal releases correct four moderately critical third-party vulnerabilities
-    *   Ransomware ravages municipalities nationwide this week
-    *   Key pillars of the modern SOC
+    *   Mulvaney told Nielsen to talk election security outside Trump's earshot
     
     *   ShadowHammer code found in several video games
     *   Wyden presses FTC to hold Zuckerberg liable for 'repeated' privacy violations
@@ -257,4 +257,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 2 seconds.
+
+<img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
