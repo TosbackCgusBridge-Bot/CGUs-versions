@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off 1 full-price item!
+Receive 50% off full-price tees, tanks and polos. 30% off all other full-price styles!
 
-code: STORM pin: 4742 DETAILS
+code: YELLOW pin: 3426 DETAILS
 
 Customer Service Menu
 
