@@ -23,7 +23,7 @@ Thomson Reuters Legal
 *   Solutions Solutions Solutions
     
     *   Streamline legal research
-    *   Legal guidance
+    *   Maximize legal know-how
     *   Manage and grow your organization
     *   Investigate and mitigate risk
     *   Simplify litigation
@@ -155,7 +155,7 @@ Free trial Search
     *   See all products
 *   Solutions
     *   Legal research
-    *   Legal guidance
+    *   Legal know-how
     *   Management and growth
     *   Litigation
     *   Drafting and contracts
