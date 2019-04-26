@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
 
-Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Go now
+How to raise an emotionally resilient child. How to raise an emotionally resilient child. Read more.
 
 Toggle message bar
 
