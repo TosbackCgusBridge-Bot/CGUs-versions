@@ -57,7 +57,7 @@ HowStuffWorks Privacy Policy
 
 Control Your User Privacy Preferences
 
-Last modified: May 15, 2018
+Last modified: April 29, 2019
 
 **INTRODUCTION**
 
@@ -93,7 +93,7 @@ Suite 201
 
 Venice, CA 90291
 
-privacy@system1.com
+Contact System1
 
 **INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT**
 
@@ -181,15 +181,15 @@ We strive to provide you with choices regarding the personal information you pro
 *   For some of our products, we use Google Analytics Advertising Features, including Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about Google Analytics currently available opt-outs, please click here.
 *   Some of our products may include advertisements from Microsoft. To learn more about information collected by Microsoft, please click here. You can opt-out of Microsoft’s personalized advertising services by following the instructions found here,.
 *   We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI site and DAA site.
-*   System1 acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An EU or Swiss individuals who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to privacy@system1.com. If requested to remove data, we will respond within a reasonable timeframe.
+*   System1 acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An EU or Swiss individuals who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query here. If requested to remove data, we will respond within a reasonable timeframe.
 *   We will also provide an EU or Swiss individuals with opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
-*   To limit the use and disclosure of your personal information, please submit a written request to privacy@system1.com.
+*   To limit the use and disclosure of your personal information, please submit a written request here
 
 **ACCESSING AND CORRECTING YOUR INFORMATION**
 
 We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change, or remove the personal registration information you provide to us and that we control. To choose not to receive future communications from us, please Contact us.
 
-You may also send us an email at privacy@system1.com to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may also send us an email here to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 **DATA SECURITY**
 
@@ -199,7 +199,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 **DISPUTE RESOLUTION**
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, System1 commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact System1 at: privacy@system1.com
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, System1 commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact System1 here.
 
 System1 has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers for more information and to file a complaint.
 
@@ -221,15 +221,17 @@ Suite 201
 
 Venice, CA 90291
 
-privacy@system1.com
+Contact System1
 
-Last Updated On: 05/15/2018
-
-Print | Citation &. Date | Reprint
+Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksThis Is Why Humans Don't Have a Mating Season1STTowing Capacity Chart2NDIf Humans Were Built to Withstand a Car Crash, They Might Look Like This3RDWhere do bullets go when guns are fired straight up into the air?4THKelley Blue Book | Sponsored10 Coolest Cars Under $25,000Kelley Blue Book | SponsoredBlitzLift | SponsoredSubmarine Captured These Horrifying Titanic ImagesBlitzLift | SponsoredLivestly | SponsoredThese Yearbooks Were Printed And Handed Out To The Whole Student Body Before The Teachers Realized The Photo ErrorLivestly | SponsoredSpartan College | SponsoredSerious About Aviation? Start With The Right Training!Spartan College | Sponsored health10 Grossest Things in Your Body Right NowBY Maria TrimarchianimalsWhy Do Monk Seals Get Eels Up Their Noses?BY Jesslyn Shieldstech10 Reasons Why You Should Care About Net NeutralityBY Dave RoosStuff Answered | Sponsored5 Luxury Cars So Amazing You Won't Believe They Cost Under $50kStuff Answered | SponsoredTop US Dating Sites | Sponsored4 Online Dating Sites That Actually WorkTop US Dating Sites | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff Works5 Surprising Facts About Gun SilencersWhy do movies cost so much to make?Why So Many Married Couples Look Alike9 'Unsolved' Mysteries That Have Been SolvedThe Dirty Truth About How Often You Need Your Oil ChangedNile Crocodiles – in Florida | HowStuffWorks NOW: Nile Crocodiles – in Floridaby Taboolaby Taboola
+Print | Citation &. Date | Reprint
+
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhy Pistachios Are Sold in Their Shells — Unlike Most Nuts1STHow and Why Are Doucuments Redacted?2NDIf I suck the venom out of a snakebite, will I live?3RDHow Marketing Plans Work4THKelley Blue Book | Sponsored10 Coolest Cars Under $25,000Kelley Blue Book | SponsoredOne Thing All Liars Have In Common - Brace Yourself | SponsoredOne Thing That All Liars Have In Common - Brace YourselfOne Thing All Liars Have In Common - Brace Yourself | SponsoredVikings: Free Online Game | SponsoredPlay this for 1 min and see why everyone is addicted!Vikings: Free Online Game | SponsoredMyFinance | Sponsored2 Savings Accounts Your Bank Doesn't Want You To Know AboutMyFinance | Sponsored health10 Grossest Things in Your Body Right NowBY Maria Trimarchiscience5 Female Scientists You Should KnowBY Cristen CongerHowStuffWorks NOW: Meet Graham, the Car-proof Man
+
+Science101 | SponsoredDrone Captures What No One Was Supposed To SeeScience101 | SponsoredObsev.com | Sponsored24 Of The Most Ridiculous Wedding Fails Caught On Film - Try Not To Crack UpObsev.com | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff Works10 Common NightmaresIs the sound on vinyl records better than on CDs or DVDs?Where do bullets go when guns are fired straight up into the air?How Men and Women Use Body Language to FlirtGas-powered vs. Electric Cars: Which Is Faster?Why Some People Will Do Anything to Avoid Pooping in Public Toiletsby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -259,4 +261,4 @@ Sign Up Now!
 
 Newsletter Policy &. Terms
 
-Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
+Testing this long verbose error message to check the behaviour BESbswyBESbswyBESbswy <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswy<img src="https://soflopxl.com/px?partner\_id=31210">
