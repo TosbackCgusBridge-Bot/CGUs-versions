@@ -10,6 +10,8 @@
     *   New!
     
     Occasions*   Mother's Day
+    *   Gifts for Him
+    *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
     *   Sympathy GiftsMost Popular Mother's Day Gifts Birthday Gifts
@@ -90,6 +92,8 @@
     *   New!
     
     Occasions*   Mother's Day
+    *   Gifts for Him
+    *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
     *   Sympathy GiftsMost Popular Mother's Day Gifts Birthday Gifts
@@ -230,5 +234,3 @@ Sorry, this offer is just for new subscribers!
 is already subscribed.
 
 Watch your inbox to be the first to get exclusive Hickory Farms email offers!
-
-Play IconFeedback
