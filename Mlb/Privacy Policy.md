@@ -36,6 +36,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   10,000s of GIFs
     *   MLB Network
     *   Podcasts
+    *   Business of Baseball
     *   Players of the Week
     
     Featured
