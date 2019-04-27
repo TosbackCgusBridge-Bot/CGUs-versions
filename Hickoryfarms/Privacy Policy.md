@@ -63,6 +63,7 @@
 *   Holiday
     
     View All Categories Shop by Category*   Mother's Day Gifts
+    *   Father's Day Gifts
     
     Occasions*   Spring
     *   Birthday Gifts
@@ -145,6 +146,7 @@
 *   Holiday
     
     View All Categories Shop by Category*   Mother's Day Gifts
+    *   Father's Day Gifts
     
     Occasions*   Spring
     *   Birthday Gifts
@@ -234,3 +236,5 @@ Sorry, this offer is just for new subscribers!
 is already subscribed.
 
 Watch your inbox to be the first to get exclusive Hickory Farms email offers!
+
+Play IconFeedback
