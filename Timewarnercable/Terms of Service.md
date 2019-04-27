@@ -1,4 +1,4 @@
-cebd0b49-b833-4d79-bb76-ff522049ca11
+dfc0b785-ab9b-40b7-a42c-9dea37b4ae81
 
 *   Search
 *   Contact Us
@@ -20,8 +20,8 @@ Toggle Navigation
     *   Internet
     *   Cable TV
     *   Home Phone
-    *   Mobile
-    *   Latino
+    *   <div class="default linkComponent">. <div data-id="dd14cfdd-bff5-400a-8df7-06257415ebff" class="text-left spectrum-icon-before ">. <a href="/content/spectrum/residential/en/mobile.html" target="\_self" data-target="#" data-linkname="Mobile" data-linktype="hamburger\_nav">. <span class="linkLabel ">. Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="dd14cfdd\\u002Dbff5\\u002D400a\\u002D8df7\\u002D06257415ebff"\]').linkComponent(). }). </script>. </div>.
+    *   <div class="default linkComponent">. <div data-id="99ed1777-13ea-4fc8-9d41-1255060c26e2" class="text-left spectrum-icon-before ">. <a href="/content/spectrum/residential/en/latino-plans.html" target="\_self" data-target="#" data-linkname="Latino" data-linktype="hamburger\_nav">. <span class="linkLabel ">. Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="99ed1777\\u002D13ea\\u002D4fc8\\u002D9d41\\u002D1255060c26e2"\]').linkComponent(). }). </script>. </div>.
     *   Business
 *   Manage Account
 *   Support
@@ -35,8 +35,8 @@ Toggle Navigation
 *   Internet
 *   Cable TV
 *   Home Phone
-*   Mobile
-*   Latino
+*   <div class="default linkComponent">. <div data-id="01c47bad-a149-4022-a86c-17a8ee262214" class="text-left spectrum-icon-before ">. <a href="/content/spectrum/residential/en/mobile.html" target="\_parent" data-target="#" data-linkname="Mobile" data-linktype="global\_nav">. <span class="linkLabel ">. Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="01c47bad\\u002Da149\\u002D4022\\u002Da86c\\u002D17a8ee262214"\]').linkComponent(). }). </script>. </div>.
+*   <div class="default linkComponent">. <div data-id="07a9cbd8-9cb3-4ff3-bb2e-6ae66ddd33a3" class="text-left spectrum-icon-before ">. <a href="/content/spectrum/residential/en/latino-plans.html" target="\_self" data-target="#" data-linkname="Latino" data-linktype="global\_nav">. <span class="linkLabel ">. Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="07a9cbd8\\u002D9cb3\\u002D4ff3\\u002Dbb2e\\u002D6ae66ddd33a3"\]').linkComponent(). }). </script>. </div>.
 *   Business
 
 Check Availability &. Offers \* Street Address Enter your street address Apartment \* Zip Code Enter your 5-digit ZIP code Go Why do I need to enter my exact address?
@@ -68,8 +68,8 @@ Shop Spectrum +
 *   Spectrum Internet
 *   Spectrum TV
 *   Spectrum Voice
-*   Mi Plan Latino
-*   Spectrum Mobile
+*   <div class="default linkComponent">. <div data-id="1ab8b49a-fb30-46a2-ab95-b34b610f537d" class="text-left spectrum-icon-before ">. <a href="/latino-plans" target="\_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global\_footer">. <span class="linkLabel ">. Mi Plan Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="1ab8b49a\\u002Dfb30\\u002D46a2\\u002Dab95\\u002Db34b610f537d"\]').linkComponent(). }). </script>. </div>.
+*   <div class="default linkComponent">. <div data-id="4d33bf8c-b2e1-4037-b42c-53da2d8bd93b" class="text-left spectrum-icon-before ">. <a href="/mobile" target="\_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global\_footer">. <span class="linkLabel ">. Spectrum Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="4d33bf8c\\u002Db2e1\\u002D4037\\u002Db42c\\u002D53da2d8bd93b"\]').linkComponent(). }). </script>. </div>.
 *   Spectrum Sports Networks
 *   Spectrum Premium Channels
 
