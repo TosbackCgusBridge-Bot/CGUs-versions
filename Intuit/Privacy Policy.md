@@ -1,4 +1,4 @@
-Free Shipping Anywhere Over $99See DetailsAccessible View
+Free Shipping Over $99See DetailsAccessible View
 
 *   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -30,30 +30,20 @@ Shop Departments
     *   Pajamas &. Robes
     *   View all Gifts
 
-Near YouFind a StoreBack FINAL HOURS OF COUPON CODESPRING19ENDS IN00HOURS 41MINS 13SECS See Details60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry &. home Excluded Categories: Juniors’ prom dresses, shoes, handbags, window coverings, kitchen and dining, luggage, furniture, mattresses Excluded Brand: Liz Claiborne See additional exclusions below. 40% off $40 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry, home &. shoes 25% off select original &. regular-priced apparel (Haggar, Lee, Gloria Vanderbilt, intimate apparel, women’s dresses &. swimwear). accessories (belts &. wallets). fine &. fashion jewelry (watches). home (Stearns &. Foster, Handy Living, Fiesta, small appliances/electrics, storage and organization, bath accessories, fitness equipment &. accessories, floor care). shoes (men's shoes, kids' shoes, Easy Spirit). salon products EXTRA 25% off select SALE &. CLEARANCE-priced apparel, accessories, fine &. fashion jewelry, home &. shoes EXTRA 15% off select SALE &. CLEARANCE-priced furniture &. mattresses Offer Disclaimer &. Exclusions: Each offer good at jcp.com only, excluding taxes and shipping charges, 4/22/19-4/25/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Cubavera, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Garmin, Goddess Lingerie, Hunter Douglas, Jezebel, Journee Collection, Keds/Grasshoppers, Levi’s, Modern Bride Design Your Dream Ring, Nike, Nursemates, Propet, Sephora, Skechers Women's Shoes, Smoky Mountain, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGO’s, 2 Or More, sale or clearance-priced items. all offers do not apply to Low Price Everyday, Extreme Value, Best Value, Daily Deals, Special Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code SPRING19 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsHot Sellers
+Near YouFind a StoreBackHot Sellers
 
-*   BUY 1 GET 2 FOR FREE
+*   $3999 sale
     
-    $22
+    was $55 | 27% offClarks Womens Brinkley Jazz Flip-Flops(196)
+*   from$1680 sale
     
-    Arizona Short-Sleeve Flex Polo(132)
-*   BUY 1 GET 1 40% OFF
+    was $24 | 16 - 30% offNike® Celso Womens Flip Flops(404)
+*   from$5999
     
-    $28
-    
-    Stafford® 6-pk. Cotton Full-Cut Briefs(855)
-*   $1499after couponwas $40 St. John's Bay Hiking Shorts(7)
-*   BUY MORE AND SAVE WITH CODE: SPRING19
-    
-    $30
-    
-    Liz Claiborne Womens Crew Neck Short Sleeve Knit Blouse
-*   BUY MORE AND SAVE WITH CODE: SPRING19
-    
-    $3240after couponStafford Travel Wrinkle-Free Stretch Oxford Long-Sleeve Dress Shirt - Big and Tall(21)
-*   BUY MORE AND SAVE WITH CODE: SPRING19
-    
-    from$27after couponVan Heusen Suit Pants(32)
+    Nike Flex Experience 8 Womens Lace-up Running Shoes(1)
+*   from$1439after couponJournee Collection Womens Rimi-Wd Booties Block Heel Pull-on Wide Width(2)
+*   $1599after couponwas $40 Arizona Womens Corsico T-Strap Flat Sandals(2)
+*   $76after couponwas $190 JF J. Ferrar® Stretch Gabardine Suit Jacket - Slim Fit(318)
 
 Shop and Save at JCPenney
 
