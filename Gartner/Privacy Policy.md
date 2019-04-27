@@ -3,271 +3,117 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
-Become a client  
-Contact us or dial 1 855 745 43731 855 745 4373
-
-Log in Become a Client
-
-*   Who we serve (current)
-    
-    Who we serve
-    
-    Finance
-    
-    Finance
-    
-    Audit Leaders Enterprise Risk Management Leaders Finance Leaders Procurement Leaders Human Resources
-    
-    Human Resources
-    
-    Chief Human Resource Executive Human Resource Leaders Human Resources Business Partners Diversity &. Inclusion Learning &. Development Total Reward Recruiting Leaders Information Technology
-    
-    Information Technology
-    
-    Chief Information Officers Applications Data &. Analytics Enterprise Architecture &. Technology Infrastructure &. Operations Program &. Portfolio Management Security &. Risk Management Sourcing &. Vendor Relationships Technical Professionals Innovation &. Strategy
-    
-    Innovation &. Strategy
-    
-    Innovation &. Strategy Leaders Legal &. Compliance
-    
-    Legal &. Compliance
-    
-    Audit Leaders Legal &. Compliance Leaders Marketing &. Communications
-    
-    Marketing &. Communications
-    
-    Chief Marketing Officers Communications Customer Experience Digital Commerce Market Insights Marketing Analytics Marketing Technology Multichannel Marketing Supply Chain &. Procurement
-    
-    Supply Chain &. Procurement
-    
-    Chief Supply Chain Officers Procurement Leaders Supply Chain Customer Service Supply Chain IT Supply Chain Logistics Supply Chain Manufacturing Supply Chain Planning Supply Chain Quality Supply Chain Sourcing Sales &. Service
-    
-    Sales &. Service
-    
-    Customer Service &. Support Leaders Sales Leaders Industries
-    
-    Industries
-    
-    Financial Services Education Energy &. Utilities Government &. Public Sector Healthcare High Tech &. Telecom Providers Manufacturing Retail ebook Reduce the staggering cost of operational decisions
-    
-    Read Ebook
-    
-    Ebook Reinvent Talent Strategies
-    
-    Learn More
-    
-    Article Gartner Top 10 Strategic Technology Trends for 2019
-    
-    Read Article
-    
-    Article Trend Sensing for Strategists: Top 3 Technologies
-    
-    Read Article
-    
-    Article Speed Up Legal Reviews
-    
-    Read Article
-    
-    Article Should You Build or Buy a Customer Data Platform?
-    
-    Read Article
-    
-    Guidance Make Buying Speedy and Effortless
-    
-    Learn More
-    
-    Article Effortless Experience Explained
-    
-    Read Article
-    
-    Webinar To the Point: Lifting the Fog Around AI and Advanced Analytics in Healthcare
-    
-    Watch now
-    
-*   What we do
-    
-    What we do
-    
-    Research
-    
-    Research
-    
-    Experts Research Methodology Research Products &. Services Magic Quadrants Consulting
-    
-    Consulting
-    
-    Overview Benchmark Analytics Strategic Consulting Contract Optimization Conferences
-    
-    Conferences
-    
-    Conference Calendar Digital Markets
-    
-    Digital Markets
-    
-    Overview Offerings Pricing About Gain an essential edge with independent, objective, accurate and rigorously researched insights drawn from over 1,900+ analysts and 380,000 client interactions — including 130,000+ executive interactions — each year.
-    
-    Improve performance, reduce risk and optimize return on your investments through our combination of research insight, benchmarking data, problem-solving methodologies and hands-on experience.
-    
-    Master your role, transform your business and tap into an unsurpassed peer network through our world-leading conference series.
-    
-*   Conferences
-    
-    Conferences
-    
-    All Conferences
-    
-    All Conferences
-    
-    Conference Calendar Human Resources
-    
-    Human Resources
-    
-    Human Resources Information Technology
-    
-    Information Technology
-    
-    CIO &. Senior IT Leaders Applications Data &. Analytics Enterprise Architecture &. Technology Innovation Infrastructure &. Operations Program &. Portfolio Management Security &. Risk Management Sourcing &. Vendor Relationships Technical Professionals High Tech &. Telecom Providers Marketing &. Sales
-    
-    Marketing &. Sales
-    
-    Digital Marketing Sales &. Marketing Supply Chain
-    
-    Supply Chain
-    
-    Supply Chain Technology &. Service Providers
-    
-    Technology &. Service Providers
-    
-    Technology &. Service Providers Conference View Our Conference Calendar
-    
-    Learn More
-    
-    Conference ReimagineHR
-    
-    Learn More
-    
-    Conference Data &. Analytics
-    
-    Learn More
-    
-    Conference Marketing Symposium/Xpo 2019
-    
-    Learn More
-    
-    Conference Supply Chain Executive Conference
-    
-    Learn More
-    
-    Conference Tech Growth &. Innovation Conference
-    
-    Learn More
-    
-*   Insights
+*   Solutions By Function
+    
+    *   Audit &. Risk
+    *   Communications
+    *   Customer Service &. Support
+    *   Finance
+    *   Human Resources
+    *   Information Technology
+    *   Innovation &. Strategy
+    *   Legal &. Compliance
+    *   Marketing
+    *   Sales
+    *   Supply Chain
+    
+    By Industry
+    
+    *   Education
+    *   Energy &. Utilities
+    *   Financial Services
+    *   Government &. Public Sector
+    *   Healthcare
+    *   Manufacturing
+    *   Retail
+    *   High Tech &. Telecom
     
     Insights
     
-    Technology Insights
+    *   Audit &. Risk
+    *   Communications
+    *   Customer Service &. Support
+    *   Finance
+    *   Human Resources
+    *   Information Technology
+    *   Innovation &. Strategy
+    *   Legal &. Compliance
+    *   Marketing
+    *   Sales
     
-    Technology Insights
+    What We Do
     
-    Artificial Intelligence Blockchain Business Value of IT CIO Agenda Cloud Cybersecurity Data &. Analytics Special Reports Trends &. Predictions Legal &. Compliance Insights
+    *   Research
+    *   Conferences
+    *   Consulting
+    *   Digital Markets
+    *   Peer Insights
     
-    Legal &. Compliance Insights
+    Conferences About
+    *   About Us
+    *   Careers
+    *   Contact Us
+    *   Investor Relations
+    *   NewsroomCareers
+*   Become a Client
     
-    Compliance Program Management HR Insights
+    1 855 812 1530 1 855 812 1530
     
-    HR Insights
+
+*   Solutions By Function
     
-    Change Management Digital Talent Employee Value Proposition High Potentials Leadership and Professional Development Learning Measurement Performance Management Talent Analytics Sales &. Service Insights
+    *   Audit &. Risk
+    *   Communications
+    *   Customer Service &. Support
+    *   Finance
+    *   Human Resources
+    *   Information Technology
+    *   Innovation &. Strategy
+    *   Legal &. Compliance
+    *   Marketing
+    *   Sales
+    *   Supply Chain
     
-    Sales &. Service Insights
-    
-    Challenger Sale Effortless Experience Sales Manager Effectiveness Buyer Enablement Buying Behavior Innovation &. Strategy Insights
-    
-    Innovation &. Strategy Insights
-    
-    Strategic Planning Finance Insights
-    
-    Finance Insights
-    
-    Efficient Growth Smarter With Gartner
-    
-    Smarter With Gartner
-    
-    Human Resources Information Technology Marketing Sales Supply Chain Finance Customer Service &. Support Legal &. Compliance Blogs
-    
-    Blogs
-    
-    Gartner Blog Network Gartner for Marketers Supply Chain World Digital Daily Insights Webinars &. Podcasts
-    
-    Webinars &. Podcasts
-    
-    All Webinars Most Recent Podcasts ThinkCast Podcast Talent Angle Podcast Peer Insights
-    
-    Peer Insights
-    
-    Choose IT Solutions with confidence Gartner Books
-    
-    Gartner Books
-    
-    Books Secure the foundation for digital business.
-    
-    Learn More
-    
-    Article 6 Ways Compliance Can Build Data Analytics Skills
-    
-    Read Article
-    
-    Article Lead Culture Change
-    
-    Read Article
-    
-    Ebook Elevate the Value of Sales Interactions
-    
-    Read Ebook
-    
-    Ebook Speed Up Your Digital Business Transformation
-    
-    Read Ebook
-    
-    Journal Fi.r.st. Quarterly Journal for Finance, Risk and Strategy Leaders
-    
-    Read Journal
-    
-    Article 6 Ways the Workplace Will Change in the Next 10 Years
-    
-    Learn More
-    
-    Blog Feed your business — not the newsfeed
-    
-    Read blog
-    
-    Webinars Gartner for Marketers Webinars
-    
-    Watch now
-    
-    Gartner books and leadership guides build on our compelling research to give leaders a thought-provoking view of topics that will fuel their business growth.
-    
+    By Industry
+    *   Education
+    *   Energy &. Utilities
+    *   Financial Services
+    *   Government &. Public Sector
+    *   Healthcare
+    *   Manufacturing
+    *   Retail
+    *   High Tech &. Telecom
+*   Insights
+    *   Audit &. Risk
+    *   Communications
+    *   Customer Service &. Support
+    *   Finance
+    *   Human Resources
+    *   Information Technology
+    *   Innovation &. Strategy
+    *   Legal &. Compliance
+    *   Marketing
+    *   Sales
+*   What We Do
+    *   Research
+    *   Conferences
+    *   Consulting
+    *   Digital Markets
+    *   Peer Insights
+*   Conferences
 *   About
+    *   About Us
+    *   Careers
+    *   Contact Us
+    *   Investor Relations
+    *   Newsroom
+*   Careers
+
+*   Log in
+*   Search
+*   Become a Client
     
-    About
-    
-    About Us
-    
-    About Us
-    
-    Overview Leadership Governance Newsroom Investor Relations Contact Us
-    
-    Contact Us
-    
-    Become a Client General Contacts Worldwide Locations Vendor Briefings Ombudsman Technical Support Careers
-    
-    Careers
-    
-    Career Opportunities Life at Gartner Campus
-    
-*   Become a client  
-    Contact us or dial 1 855 745 43731 855 745 4373
+    1 855 812 1530 1 855 812 1530
     
 
 GARTNER PRIVACY POLICY Effective Date: April 2019
