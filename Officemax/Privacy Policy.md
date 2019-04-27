@@ -28,7 +28,7 @@ Skip to main navigation
     *   Investor Alerts
 *   Contact Us
 
-Latest Quarterly Earnings Q4 Feb 27, 2019 Q4 2018 Office Depot Inc Earnings view more Latest Quarterly Earnings Q4 Feb 27, 2019 Q4 2018 Office Depot Inc Earnings view more Investor Relations Company Profile
+Latest Quarterly Earnings Q1 May 8, 2019 at 9:00 AM EST Q1 2019 Office Depot Inc Earnings view more Latest Quarterly Earnings Q1 May 8, 2019 at 9:00 AM EST Q1 2019 Office Depot Inc Earnings view more Investor Relations Company Profile
 
 Office Depot, Inc. (NASDAQ:ODP) is a leading B2B integrated distribution company providing business services and supplies, productsand technology solutions through its fully integrated omni-channel platform of approximately 1,350 stores, online presence, and dedicated sales professionals and technicians to small, medium and enterprise businesses. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, the company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit news.officedepot.com and follow @officedepot on Facebook, Twitter and Instagram.
 
@@ -38,20 +38,20 @@ Stock Quote and Chart
 
 Price
 
-$2.45
+$2.46
 
 Change
 
-\-0.02
++0.01
 
 Percent Change
 
-(-0.81%)
+(+0.41%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Apr 24, 2019 Office Depot to Announce First Quarter 2019 Results Wednesday, May 8, 2019 view more Recent News Apr 24, 2019 Office Depot to Announce First Quarter 2019 Results Wednesday, May 8, 2019 view more Events Mar 12, 2019 at 3:30 PM EDT Office Depot at Bank of America Merrill Lynch's 2019 Consumer &. Retail Technology Conference view more Events Mar 12, 2019 at 3:30 PM EDT Office Depot at Bank of America Merrill Lynch's 2019 Consumer &. Retail Technology Conference view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more
+Recent News Apr 24, 2019 Office Depot to Announce First Quarter 2019 Results Wednesday, May 8, 2019 view more Recent News Apr 24, 2019 Office Depot to Announce First Quarter 2019 Results Wednesday, May 8, 2019 view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
