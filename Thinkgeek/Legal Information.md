@@ -52,8 +52,8 @@ Monday - Friday
     (1-888-433-5788)
     
 
-**ThinkGeek, Inc.** 11216 Waples Mill Rd. Suite 100  
-Fairfax, VA 22030  
+**ThinkGeek, Inc.** 625 Westport Pkwy  
+Grapevine, TX 76051  
 508-970-2002
 
 Need a map?  
