@@ -64,7 +64,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   A ‘MIB: International’ Character Guide To Fresh Faces (And Voices) Read More
     *   ‘MIB: International’ Behind-The-Scenes Fun Facts That Could Answer Some Of Your Burning Questions Read More
-    *   Will Smith Battles Will Smith in First ‘Gemini Man’ Trailer. Here’s Everything We Know Read More
+    *   The Week in Movie News: ‘Bond 25’ Cast and Plot Revealed, First ‘Gemini Man’ Trailer and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -317,9 +317,9 @@ Offers
     
     Get 2x the points pay with World Elite Mastercard®. BUY TICKETS
     
-*   FandangoNOW Binge Bundles
+*   The Perfect Gift For Moms
     
-    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
+    10% off Gift Card Orders of $50 or More. \*Terms Apply. BUY NOW
     
 *   'Little' Sweepstakes
     
