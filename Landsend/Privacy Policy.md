@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price tees, tanks and polos. 30% off all other full-price styles!
+Receive 50% off full-price pants, shorts and skirts. 30% off all other full-price styles!
 
-code: YELLOW pin: 3426 DETAILS
+code: BLOOM pin: 2634 DETAILS
 
 Customer Service Menu
 
