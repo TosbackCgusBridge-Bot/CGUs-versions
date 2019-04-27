@@ -1,20 +1,3 @@
-*   GB0-0CHI0-0Thu, 9/5, 8:20 pm ET
-*   LA0-0CAR0-0Sun, 9/8, 1:00 pm ET
-*   TEN0-0CLE0-0Sun, 9/8, 1:00 pm ET
-*   KC0-0JAX0-0Sun, 9/8, 1:00 pm ET
-*   BAL0-0MIA0-0Sun, 9/8, 1:00 pm ET
-*   ATL0-0MIN0-0Sun, 9/8, 1:00 pm ET
-*   BUF0-0NYJ0-0Sun, 9/8, 1:00 pm ET
-*   WAS0-0PHI0-0Sun, 9/8, 1:00 pm ET
-*   IND0-0LAC0-0Sun, 9/8, 4:05 pm ET
-*   CIN0-0SEA0-0Sun, 9/8, 4:05 pm ET
-*   DET0-0ARI0-0Sun, 9/8, 4:25 pm ET
-*   NYG0-0DAL0-0Sun, 9/8, 4:25 pm ET
-*   SF0-0TB0-0Sun, 9/8, 4:25 pm ET
-*   PIT0-0NE0-0Sun, 9/8, 8:20 pm ET
-*   HOU0-0NO0-0Mon, 9/9, 7:10 pm ET
-*   DEN0-0OAK0-0Mon, 9/9, 10:20 pm ET
-
 *   News
 *   Scores
 *   Schedule
@@ -35,23 +18,6 @@
 *   Ways to Watch
 *   NFL Network
 *   Photos
-
-*   GB0-0CHI0-0Thu, 9/5, 8:20 pm ET
-*   LA0-0CAR0-0Sun, 9/8, 1:00 pm ET
-*   TEN0-0CLE0-0Sun, 9/8, 1:00 pm ET
-*   KC0-0JAX0-0Sun, 9/8, 1:00 pm ET
-*   BAL0-0MIA0-0Sun, 9/8, 1:00 pm ET
-*   ATL0-0MIN0-0Sun, 9/8, 1:00 pm ET
-*   BUF0-0NYJ0-0Sun, 9/8, 1:00 pm ET
-*   WAS0-0PHI0-0Sun, 9/8, 1:00 pm ET
-*   IND0-0LAC0-0Sun, 9/8, 4:05 pm ET
-*   CIN0-0SEA0-0Sun, 9/8, 4:05 pm ET
-*   DET0-0ARI0-0Sun, 9/8, 4:25 pm ET
-*   NYG0-0DAL0-0Sun, 9/8, 4:25 pm ET
-*   SF0-0TB0-0Sun, 9/8, 4:25 pm ET
-*   PIT0-0NE0-0Sun, 9/8, 8:20 pm ET
-*   HOU0-0NO0-0Mon, 9/9, 7:10 pm ET
-*   DEN0-0OAK0-0Mon, 9/9, 10:20 pm ET
 
 *   News
 *   Scores
