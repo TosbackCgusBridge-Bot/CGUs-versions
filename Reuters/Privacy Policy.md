@@ -20,7 +20,7 @@ Thomson Reuters Legal
     Featured
     
     **Panoramic** Introducing a new and unique workflow solution that helps you plan, manage, and execute matters with data-driven confidence. Learn more
-*   Solutions Solutions Solutions
+*   SolutionsSolutions Solutions
     
     *   Streamline legal research
     *   Maximize legal know-how
@@ -33,7 +33,7 @@ Thomson Reuters Legal
     
     Featured
     
-    **5 steps to prove client value and increase profit** Discover new ways to increase referrals and improve client satisfaction. Learn more
+    **Small law firm software and solutions** Practice law, manage your law firm, and grow your practice with our complete suite of products. Learn more
 *   InsightsInsights Insights
     
     *   Latest stories
