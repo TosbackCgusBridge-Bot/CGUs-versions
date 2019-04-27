@@ -210,22 +210,22 @@ New York, NY 10001.**
     *   Recent
     
     *   Microsoft researchers find NSA-style backdoor in Huawei laptops
-    *   The death of the VPN - It’s time to say goodbye
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Georgia Tech stung with 1.3 million-person data breach
+    *   The death of the VPN - It’s time to say goodbye
     *   Michigan medical practice folds after ransomware attack
     
-    *   WordPress Social Warfare plugin vulnerabilities abused in the wild
-    *   EmCare data breach exposes 60,000 employees, patients
-    *   Student hacks online school government election
-    *   5 Things You Need to Know About API Protection
-    *   Mulvaney told Nielsen to talk election security outside Trump's earshot
-    
-    *   ShadowHammer code found in several video games
+    *   Magecart hackers force turnover, steal data from Atlanta Hawks' online shop
+    *   Chucky is a rogue IoT device in latest Child’s Play trailer
     *   Wyden presses FTC to hold Zuckerberg liable for 'repeated' privacy violations
-    *   Mulvaney told Nielsen to talk election security outside Trump's earshot
-    *   Aebi Schmidt latest manufacturer dealing with cyberattack
-    *   Automate your mobile application security without the staff
+    *   Drupal releases correct four moderately critical third-party vulnerabilities
+    *   Mueller report details Russian interference in 2016 election, interactions with Trump team, WikiLeaks
+    
+    *   New cryptomining worm Beapy targets Asian enterprises while ignoring consumers
+    *   Ransomware disables Cleveland airport's email systems, information screens
+    *   GandCrab ransomware strikes Doctors’ Management Services
+    *   Facebook sets aside $3 billion in anticipation of FTC privacy violations fine
+    *   ShadowHammer code found in several video games
 
 Back to Top
 
@@ -257,8 +257,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 2 seconds.
-
-<img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
