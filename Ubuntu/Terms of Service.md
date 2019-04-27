@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
-*   Ubuntu is #1 for embedded &. IoT ›
+*   Formatting our code with Prettier ›
 *   An introduction to AppArmor ›
+*   Ubuntu is the #1 for embedded Linux for IoT ›
 *   Visit Canonical at Dell Technologies World ›
 *   Canonical at Open Infrastructure Summit -Denver ›
-*   Announcing OpenJDK 11 packages in Ubuntu 18.04 LTS ›
