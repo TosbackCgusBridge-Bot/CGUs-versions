@@ -89,10 +89,10 @@ View more results
     *   Warbanner
     *   Slither.io
     *   Total Front: Army War Game
-    *   Sniper Team 2
     *   Stunt Skateboard 3D
-    *   Deer Hunter
+    *   Sniper Team 2
     *   Uphill Rush 7: Waterpark
+    *   Deer Hunter
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Short Life
@@ -123,8 +123,8 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 4
     *   Tom and Jerry: Mouse Maze
-    *   FNAF World
     *   Troll Face Quest: Video Memes and TV Shows:Part 1
+    *   FNAF World
     *   Five Nights at Freddy's: Sister Location
     *   FNAF - Sister Location Custom
     *   FNAF - Sister Location Nights 2
@@ -189,8 +189,8 @@ View more results
     *   Electricman 2: Stickman Fighting Game
     *   The Princess: Sent to the Future - Dress Up Game
     *   Ella: Hips Surgery
-    *   Fidget Spinner
     *   Princess Rivalry
+    *   Fidget Spinner
     *   Get Your Boyfriend
 *   Top Categories
     
@@ -247,8 +247,8 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
     *   Table Tennis World Tour
-    *   Ultimate Boxing
     *   Baseball
+    *   Ultimate Boxing
     *   Playing Soccer
     *   Neon Biker
     *   8-Ball
@@ -264,17 +264,7 @@ View more results
     *   Sports
 *   For you
     
-    Recommended Games
-    
-    *   Roblox
-    *   Wizard 101
-    *   Game of Thrones
-    *   Madalin Stunt Cars 2
-    *   Geometry Neon Dash
-    *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Bubble Shooter HD
-    *   Solitaire FRVR
-    *   Uphill Rush 7: Waterpark
+    My last played games
     
     FAVE GAMES
     
@@ -462,4 +452,4 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookie Consent
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere sponsoredsponsoredsponsored
