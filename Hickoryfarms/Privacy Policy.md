@@ -5,7 +5,7 @@
     *   Gift Towers &. Crates
     *   Fruit Baskets
     *   Best Sellers
-    *   Gifts With Wine
+    *   Wine Gift Baskets
     *   Corporate Gift Baskets
     *   New!
     
@@ -88,7 +88,7 @@
     *   Gift Towers &. Crates
     *   Fruit Baskets
     *   Best Sellers
-    *   Gifts With Wine
+    *   Wine Gift Baskets
     *   Corporate Gift Baskets
     *   New!
     
