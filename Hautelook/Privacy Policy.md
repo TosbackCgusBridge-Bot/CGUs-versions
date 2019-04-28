@@ -8,11 +8,30 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Levi's Incl. Plus
+    *   Go Couture Dresses
+    *   GOOD LUCK GEM
+    *   Dogeared Jewelry Starting at $10
+    *   Sandals Under $50 ft. Seychelles
+    *   ZAC Zac Posen
+    *   Dyson Up to 50% Off
+    *   Terre Mere Organic Beauty Up to 75% Off
+    *   Updated Suiting Up to 60% Off
+    *   Men's Premium Denim Shop
+    *   Ones to Watch: Bodysuits
+    *   Office Essentials: Shoes from $25
+    *   Free Shipping: Professional Garment Steamers
+    *   Free Shipping: 1000 Thread Count Sheets &. More
+    *   Sparkle On: Ultrasonic Jewelry Cleaners
+    *   Tech It Out: Laptop Cases, Chargers &. More
+    *   Quiksilver Starting at $13
+    *   Free Shipping: Bedding Blowout
+    *   Ella Moss &. Splendid Swim
     *   Natori Lingerie &. Sleep
     *   Gifts She'll Love: Robes, PJ Sets &. More
     *   Arrive in Style: Brunch-Ready Looks Under $30
+    
     *   Step Up Your Gifting: Shoes for Mom &. More
-    *   Dyson Up to 50% Off
     *   Young Fabulous &. Broke Up to 65% Off
     *   Frye Handbags
     *   Sanctuary Incl. Plus &. Petites
@@ -29,59 +48,52 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Lazy Weekend Lounge
     *   Burberry Coats Up to 60% Off
     *   Burberry Shoes
-    
     *   Burberry Handbags &. Accessories
     *   Burberry
     *   Burberry Men
-    *   Breeze into Summer: Show Me Your Mumu &. More
-    *   Vanity Room
     *   Juicy Couture Baby &. Girls
     *   Burberry Men's Shoes
+    
     *   Burberry Fragrances
     *   Free Shipping: Laura Ashley Bedding
-    *   Kenneth Cole Reaction
-    *   Vicenzo Leather
     *   Beach Ready: Towels Starting at $20
     *   Best-Selling Bedding &. More
     *   Exclusively Ours: Best-Selling Towels &. More
     *   Fresh Kicks: Kids' Sneakers Starting at $20
-    *   Native Kids
-    *   Brooks Brothers Suiting &. More Under $250
     *   Free Shipping: Bright Botanical Wall Art &. More
     *   Face Masks, Repair Creams &. Serums from $10
     *   Dr. Martens Men
-    *   Rip Curl Starting at $13
-    
     *   New on HauteLook: Golden Fox
-    *   Denim Sets for Kids
-    *   FILA Men &. More Under $40
-    *   Crocs Men from $15
-    *   Free Shipping: Luxe Faux Fur Decor
-    *   Men's Leather Accessories ft. Frye
+    *   Free Shipping: Wall Murals &. More
     *   Beach Towels &. More Starting at $11
-    *   Luxe Bedding Essentials ft. Pillow Guy
-    *   Free Shipping: Wild &. Whimsical Wall Art
-    *   Home Accents: Candles, Tabletop Decor &. More
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: Bedding Essentials Blowout
     *   Free Shipping: Chic Vanity Organizers
-    *   S'well Water Bottles Starting at $20
-    *   Resort Ready: Colorful Swimwear &. More ft. L\*Space
-    *   Boho on the Go: Sandals &. Booties
+    *   Free Shipping: Luxe Faux Fur Decor
     *   Meghan LA
-    *   Free Shipping: Bedding Blowout
     *   Free Shipping: New Art to Brighten Your Walls
-    *   The Original Makeup Eraser
-    *   Free Shipping: Wall Murals &. More
+    *   S'well Water Bottles Starting at $20
+    *   14K Gold, Gemstones &. More Under $90
 *   WomenShop Sale Events
     
+    *   Levi's Incl. Plus
+    *   Go Couture Dresses
+    *   GOOD LUCK GEM
+    *   Dogeared Jewelry Starting at $10
+    *   Sandals Under $50 ft. Seychelles
+    *   ZAC Zac Posen
+    *   Dyson Up to 50% Off
+    *   Terre Mere Organic Beauty Up to 75% Off
+    *   Ones to Watch: Bodysuits
+    *   Office Essentials: Shoes from $25
+    *   Ella Moss &. Splendid Swim
     *   Natori Lingerie &. Sleep
     *   Gifts She'll Love: Robes, PJ Sets &. More
     *   Arrive in Style: Brunch-Ready Looks Under $30
     *   Step Up Your Gifting: Shoes for Mom &. More
-    *   Dyson Up to 50% Off
     *   Young Fabulous &. Broke Up to 65% Off
     *   Frye Handbags
+    
     *   Sanctuary Incl. Plus &. Petites
     *   Brands We Love ft. Derek Lam 10 Crosby
     *   Splendid
@@ -90,21 +102,14 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Stackable Statements: Fine Jewelry Up to 55% Off
     *   14K Gold &. More Under $80
     *   Stylish Luggage ft. Ben Sherman &. More
-    
     *   Burberry Coats Up to 60% Off
     *   Burberry Shoes
     *   Burberry Handbags &. Accessories
     *   Burberry
-    *   Breeze into Summer: Show Me Your Mumu &. More
-    *   Vanity Room
     *   Burberry Fragrances
-    *   Kenneth Cole Reaction
-    *   Vicenzo Leather
     *   Face Masks, Repair Creams &. Serums from $10
-    *   Resort Ready: Colorful Swimwear &. More ft. L\*Space
-    *   Boho on the Go: Sandals &. Booties
     *   Meghan LA
-    *   The Original Makeup Eraser
+    *   14K Gold, Gemstones &. More Under $90
     
     Shop By Category
     *   Clothing
@@ -116,83 +121,78 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 *   MenShop Sale Events
     
     *   Dyson Up to 50% Off
+    *   Updated Suiting Up to 60% Off
+    *   Men's Premium Denim Shop
+    *   Quiksilver Starting at $13
     *   Ben Sherman Up to 60% Off
     *   Stylish Luggage ft. Ben Sherman &. More
     *   For the Outdoorsman: Hiking Shoes ft. Merrell
+    
     *   Lazy Weekend Lounge
     *   Burberry Men
     *   Burberry Men's Shoes
     *   Burberry Fragrances
-    
-    *   Brooks Brothers Suiting &. More Under $250
     *   Dr. Martens Men
-    *   Rip Curl Starting at $13
     *   New on HauteLook: Golden Fox
-    *   FILA Men &. More Under $40
-    *   Crocs Men from $15
-    *   Men's Leather Accessories ft. Frye
     
     Shop By Category
     *   Clothing
-    *   Accessories
     *   Shoes
+    *   Accessories
 *   KidsShop Sale Events
     
     *   Juicy Couture Baby &. Girls
     *   Fresh Kicks: Kids' Sneakers Starting at $20
-    *   Native Kids
-    *   Denim Sets for Kids
     
     Shop By Category
-    *   Girls' Shoes
-    *   Boys' Shoes
     *   Girls' Sizes 2T-6X
     *   Baby Girl
-    *   Baby Boy
-    *   Boys' Sizes 2T-7
+    *   Girls' Shoes
+    *   Boys' Shoes
     *   Girls' Sizes 7-16
 *   HomeShop Sale Events
     
     *   Dyson Up to 50% Off
+    *   Free Shipping: Professional Garment Steamers
+    *   Free Shipping: 1000 Thread Count Sheets &. More
+    *   Sparkle On: Ultrasonic Jewelry Cleaners
+    *   Tech It Out: Laptop Cases, Chargers &. More
+    *   Free Shipping: Bedding Blowout
     *   Keep It Sassy: Fun Pouches, Towels &. Coasters
     *   Stylish Luggage ft. Ben Sherman &. More
     *   Free Shipping: Laura Ashley Bedding
     *   Beach Ready: Towels Starting at $20
     *   Best-Selling Bedding &. More
+    
     *   Exclusively Ours: Best-Selling Towels &. More
     *   Free Shipping: Bright Botanical Wall Art &. More
-    *   Free Shipping: Luxe Faux Fur Decor
+    *   Free Shipping: Wall Murals &. More
     *   Beach Towels &. More Starting at $11
-    
-    *   Luxe Bedding Essentials ft. Pillow Guy
-    *   Free Shipping: Wild &. Whimsical Wall Art
-    *   Home Accents: Candles, Tabletop Decor &. More
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: Bedding Essentials Blowout
     *   Free Shipping: Chic Vanity Organizers
-    *   S'well Water Bottles Starting at $20
-    *   Free Shipping: Bedding Blowout
+    *   Free Shipping: Luxe Faux Fur Decor
     *   Free Shipping: New Art to Brighten Your Walls
-    *   Free Shipping: Wall Murals &. More
+    *   S'well Water Bottles Starting at $20
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
     *   Cleaning &. Organization
+    *   Luggage &. Travel
     *   Bath
     *   Outdoor Living
+    *   Tech Accessories
 *   BeautyShop Sale Events
     
     *   Dyson Up to 50% Off
+    *   Terre Mere Organic Beauty Up to 75% Off
     *   Burberry Fragrances
     *   Face Masks, Repair Creams &. Serums from $10
-    *   The Original Makeup Eraser
     
     Shop By Category
     *   Skin Care
-    *   Tools &. Accessories
     *   Fragrance
     *   Hair Care
 
