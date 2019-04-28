@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -30,22 +30,7 @@ Shop Departments
     *   Pajamas &. Robes
     *   View all Gifts
 
-Near YouFind a StoreBackHot Sellers
-
-*   $3999 sale
-    
-    was $55 | 27% offClarks Womens Brinkley Jazz Flip-Flops(196)
-*   from$1680 sale
-    
-    was $24 | 16 - 30% offNike® Celso Womens Flip Flops(404)
-*   from$5999
-    
-    Nike Flex Experience 8 Womens Lace-up Running Shoes(1)
-*   from$1439after couponJournee Collection Womens Rimi-Wd Booties Block Heel Pull-on Wide Width(2)
-*   $1599after couponwas $40 Arizona Womens Corsico T-Strap Flat Sandals(2)
-*   $76after couponwas $190 JF J. Ferrar® Stretch Gabardine Suit Jacket - Slim Fit(318)
-
-Shop and Save at JCPenney
+Near YouFind a StoreBackShop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on boots, coats, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
