@@ -212,20 +212,20 @@ New York, NY 10001.**
     *   Microsoft researchers find NSA-style backdoor in Huawei laptops
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Georgia Tech stung with 1.3 million-person data breach
-    *   The death of the VPN - It’s time to say goodbye
     *   Michigan medical practice folds after ransomware attack
+    *   Machines running popular AV software go unresponsive after Microsoft Windows update
     
-    *   Magecart hackers force turnover, steal data from Atlanta Hawks' online shop
-    *   Chucky is a rogue IoT device in latest Child’s Play trailer
-    *   Wyden presses FTC to hold Zuckerberg liable for 'repeated' privacy violations
-    *   Drupal releases correct four moderately critical third-party vulnerabilities
-    *   Mueller report details Russian interference in 2016 election, interactions with Trump team, WikiLeaks
+    *   Washington state legislature passes data breach law, but punts on privacy law
+    *   FBI to meet with Scott, DeSantis after Mueller report says Florida county's election systems hacked by Russia
+    *   NamPoHyu Virus ransomware targets Samba servers in a unique way
+    *   Flaw in Columbia, S.C., website search tool exposed database, SMPT server passwords
+    *   Chipotle customers stewing over payment card hack
     
-    *   New cryptomining worm Beapy targets Asian enterprises while ignoring consumers
-    *   Ransomware disables Cleveland airport's email systems, information screens
-    *   GandCrab ransomware strikes Doctors’ Management Services
-    *   Facebook sets aside $3 billion in anticipation of FTC privacy violations fine
-    *   ShadowHammer code found in several video games
+    *   Microsoft set to nix password expiration policies for Windows 10
+    *   Greenville in recovery phase from Robbinhood ransomware attack
+    *   Fundamentals for Reducing Your Attack Surface
+    *   Credential stuffing: Bigger and badder than ever
+    *   FBI to meet with Scott, DeSantis after Mueller report says Florida county's election systems hacked by Russia
 
 Back to Top
 
