@@ -57,8 +57,8 @@ View more results
     *   Backgammon: Board Game Online Multiplayer
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
-    *   Madalin Cars Multiplayer
     *   Warbanner
+    *   Madalin Cars Multiplayer
     *   Slither.io
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Total Front: Army War Game
@@ -94,8 +94,8 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Deer Hunter
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Short Life
+    *   Ultimate Boxing
 *   Top Categories
     
     *   Platform Games
@@ -119,8 +119,8 @@ View more results
     *   Five Nights at Freddy's
     *   Five Nights at Freddy's 2
     *   Short Life
-    *   World Craft 2
     *   Fireboy and Watergirl 5: Elements
+    *   World Craft 2
     *   Five Nights at Freddy's 4
     *   Tom and Jerry: Mouse Maze
     *   Troll Face Quest: Video Memes and TV Shows:Part 1
@@ -190,8 +190,8 @@ View more results
     *   The Princess: Sent to the Future - Dress Up Game
     *   Ella: Hips Surgery
     *   Princess Rivalry
-    *   Fidget Spinner
     *   Get Your Boyfriend
+    *   Fidget Spinner
 *   Top Categories
     
     *   BMX Games
@@ -264,7 +264,17 @@ View more results
     *   Sports
 *   For you
     
-    My last played games
+    Recommended Games
+    
+    *   Roblox
+    *   Wizard 101
+    *   Game of Thrones
+    *   Madalin Stunt Cars 2
+    *   Geometry Neon Dash
+    *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Bubble Shooter HD
+    *   Solitaire FRVR
+    *   Uphill Rush 7: Waterpark
     
     FAVE GAMES
     
@@ -452,4 +462,4 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookie Consent
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere sponsoredsponsoredsponsored
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
