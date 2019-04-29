@@ -215,11 +215,11 @@ New York, NY 10001.**
     *   Michigan medical practice folds after ransomware attack
     *   Machines running popular AV software go unresponsive after Microsoft Windows update
     
-    *   Washington state legislature passes data breach law, but punts on privacy law
-    *   FBI to meet with Scott, DeSantis after Mueller report says Florida county's election systems hacked by Russia
-    *   NamPoHyu Virus ransomware targets Samba servers in a unique way
-    *   Flaw in Columbia, S.C., website search tool exposed database, SMPT server passwords
-    *   Chipotle customers stewing over payment card hack
+    *   SC Media Reboot Leadership Awards announces its call for nominations
+    *   Flashpoint: Our site was not dishing malware
+    *   Ransomware ravages municipalities nationwide this week
+    *   Cisco patches 29 vulnerabilities including one being actively exploited in Sea Turtle campaign
+    *   Microsoft set to nix password expiration policies for Windows 10
     
     *   Microsoft set to nix password expiration policies for Windows 10
     *   Greenville in recovery phase from Robbinhood ransomware attack
