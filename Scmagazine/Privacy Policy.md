@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Michigan medical practice folds after ransomware attack
     *   Machines running popular AV software go unresponsive after Microsoft Windows update
     
-    *   SC Media Reboot Leadership Awards announces its call for nominations
-    *   Flashpoint: Our site was not dishing malware
-    *   Ransomware ravages municipalities nationwide this week
-    *   Cisco patches 29 vulnerabilities including one being actively exploited in Sea Turtle campaign
-    *   Microsoft set to nix password expiration policies for Windows 10
+    *   GandCrab ransomware strikes Doctors’ Management Services
+    *   New cryptomining worm Beapy targets Asian enterprises while ignoring consumers
+    *   DNSpionage actors adjust tactics, debut new remote administration tool
+    *   ShadowHammer code found in several video games
+    *   How to be an ethical hacker
     
+    *   Apple claims to have removed parental control apps from App Store over privacy concerns
+    *   Amnesty Intl. says cyberattack on Hong Kong office appears linked to known APT group
+    *   Securing Your Supply Chain: Mitigating Supplier and Contractor Risk
     *   Microsoft set to nix password expiration policies for Windows 10
     *   Greenville in recovery phase from Robbinhood ransomware attack
-    *   Fundamentals for Reducing Your Attack Surface
-    *   Credential stuffing: Bigger and badder than ever
-    *   FBI to meet with Scott, DeSantis after Mueller report says Florida county's election systems hacked by Russia
 
 Back to Top
 
